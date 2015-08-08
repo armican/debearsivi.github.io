@@ -5,10 +5,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Debe Arşivi
+tagline:             Ekşi Sözlük Debe Arşivi
+url:                 http://debearchive.github.io
+paginate:            10
 baseurl:             ""
 
 # Assets

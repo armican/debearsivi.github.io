@@ -1,3 +1,8 @@
+---
+layout: post
+title: 8 Ağustos 2015 Ekşi Sözlük Debe
+---
+
 * [rumları yenince türk bayrağı açan azeri futbolcu](http://eksisozluk.com//?q=rumlar%c4%b1+yenince+t%c3%bcrk+bayra%c4%9f%c4%b1+a%c3%a7an+azeri+futbolcu%2f%2353835527)
 * [durex'in ukrayna'da yanınızdayız reklamı](http://eksisozluk.com//?q=durex%27in+ukrayna%27da+yan%c4%b1n%c4%b1zday%c4%b1z+reklam%c4%b1%2f%2353835501)
 * [90'ların özel olmasının nedeni](http://eksisozluk.com//?q=90%27lar%c4%b1n+%c3%b6zel+olmas%c4%b1n%c4%b1n+nedeni%2f%2353834026)
