@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Debe Arşivi
-tagline:             Ekşi Sözlük Debe Arşivi
+title:               Ekşi Sözlük Debe Arşivi
+tagline:             Ekşi Sözlük Debe Geçmişi
 url:                 http://debearsivi.github.io
 paginate:            10
 baseurl:             ""
