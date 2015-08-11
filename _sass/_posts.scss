@@ -59,3 +59,38 @@
     }
   }
 }
+
+.entry_content {
+  display: none;
+}
+
+#entry_ul{
+  padding-left: 0;
+  overflow-x: visible;
+  overflow-y: scroll;
+}
+
+.entry_li {
+  padding-bottom: 0.5rem;
+}
+
+#prev_next_opt {
+  font-size: 2em;
+}
+#prev_entry{
+  float: left;
+}
+#next_entry, #entry_writer, #entry_link{
+  float: right;
+}
+
+#entry_writer {
+  padding-right: 0.5rem;
+}
+
+#entry_info {
+  padding-top: 3rem;
+}
+#entry_body {
+  padding-top: 1rem;
+}
