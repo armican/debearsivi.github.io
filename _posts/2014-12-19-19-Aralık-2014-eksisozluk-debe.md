@@ -1,55 +1,105 @@
 ---
 layout: post
 title: 19 Aralık 2014 Ekşi Sözlük Debe
+data:
+- entry_name: 18 aralık 2014 davutoğlu'nun ekonomik eylem planı
+  entry_link: https://eksisozluk.com/?q=18+aral%c4%b1k+2014+davuto%c4%9flu%27nun+ekonomik+eylem+plan%c4%b1%2f%2347739377
+- entry_name: 3+1 + 195.26 m2 = 1.246.000 tl
+  entry_link: https://eksisozluk.com/?q=3%2b1+%2b+195.26+m2+%3d+1.246.000+tl%2f%2347740219
+- entry_name: 15 aralık 2014 derin futbol swf arşivi
+  entry_link: https://eksisozluk.com/?q=15+aral%c4%b1k+2014+derin+futbol+swf+ar%c5%9fivi%2f%2347754764
+- entry_name: hepinizi seviyorum şapşikler
+  entry_link: https://eksisozluk.com/?q=hepinizi+seviyorum+%c5%9fap%c5%9fikler%2f%2347747384
+- entry_name: bilal erdoğan'ın üstün zekalı lafına dava açması
+  entry_link: https://eksisozluk.com/?q=bilal+erdo%c4%9fan%27%c4%b1n+%c3%bcst%c3%bcn+zekal%c4%b1+laf%c4%b1na+dava+a%c3%a7mas%c4%b1%2f%2347745341
+- entry_name: sarelle'ye 6 tl civarında zam gelmesi
+  entry_link: https://eksisozluk.com/?q=sarelle%27ye+6+tl+civar%c4%b1nda+zam+gelmesi%2f%2347748556
+- entry_name: tübitak başkan yardımcısının cv'si
+  entry_link: https://eksisozluk.com/?q=t%c3%bcbitak+ba%c5%9fkan+yard%c4%b1mc%c4%b1s%c4%b1n%c4%b1n+cv%27si%2f%2347754163
+- entry_name: sözlükte cinsel taciz
+  entry_link: https://eksisozluk.com/?q=s%c3%b6zl%c3%bckte+cinsel+taciz%2f%2347745348
+- entry_name: 19 aralık 2014 fethullah gülen'in dönmesi
+  entry_link: https://eksisozluk.com/?q=19+aral%c4%b1k+2014+fethullah+g%c3%bclen%27in+d%c3%b6nmesi%2f%2347743008
+- entry_name: iranlı gelin adayının ütopik dünyası
+  entry_link: https://eksisozluk.com/?q=iranl%c4%b1+gelin+aday%c4%b1n%c4%b1n+%c3%bctopik+d%c3%bcnyas%c4%b1%2f%2347743500
+- entry_name: kötü insanların ortak özellikleri
+  entry_link: https://eksisozluk.com/?q=k%c3%b6t%c3%bc+insanlar%c4%b1n+ortak+%c3%b6zellikleri%2f%2347744091
+- entry_name: 18 aralık 2014 isviçre'nin negatif faize geçmesi
+  entry_link: https://eksisozluk.com/?q=18+aral%c4%b1k+2014+isvi%c3%a7re%27nin+negatif+faize+ge%c3%a7mesi%2f%2347738688
+- entry_name: neredeyse tüm arabaların beyaz veya gri olması
+  entry_link: https://eksisozluk.com/?q=neredeyse+t%c3%bcm+arabalar%c4%b1n+beyaz+veya+gri+olmas%c4%b1%2f%2347737043
+- entry_name: öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_link: https://eksisozluk.com/?q=%c3%b6%c4%9frenildi%c4%9finde+ufku+iki+kat%c4%b1na+%c3%a7%c4%b1karan+%c5%9feyler%2f%2347737933
+- entry_name: taksim metrosunda kaybolan turist kız
+  entry_link: https://eksisozluk.com/?q=taksim+metrosunda+kaybolan+turist+k%c4%b1z%2f%2347738548
+- entry_name: bir anda gelen dağ evinde odun kırma isteği
+  entry_link: https://eksisozluk.com/?q=bir+anda+gelen+da%c4%9f+evinde+odun+k%c4%b1rma+iste%c4%9fi%2f%2347739834
+- entry_name: bir kadeh şarap düşürülmüş kız ve közlenmiş et
+  entry_link: https://eksisozluk.com/?q=bir+kadeh+%c5%9farap+d%c3%bc%c5%9f%c3%bcr%c3%bclm%c3%bc%c5%9f+k%c4%b1z+ve+k%c3%b6zlenmi%c5%9f+et%2f%2347745612
+- entry_name: vladimir putin'in erdoğan'a sağlam ve erkek demesi
+  entry_link: https://eksisozluk.com/?q=vladimir+putin%27in+erdo%c4%9fan%27a+sa%c4%9flam+ve+erkek+demesi%2f%2347744794
+- entry_name: yazmaya cesaret edilemeyen facebook yorumları
+  entry_link: https://eksisozluk.com/?q=yazmaya+cesaret+edilemeyen+facebook+yorumlar%c4%b1%2f%2347737948
+- entry_name: kim kardashian'a benzemeye çalışan tip
+  entry_link: https://eksisozluk.com/?q=kim+kardashian%27a+benzemeye+%c3%a7al%c4%b1%c5%9fan+tip%2f%2347741455
+- entry_name: türk dizilerinin tutmama sebepleri
+  entry_link: https://eksisozluk.com/?q=t%c3%bcrk+dizilerinin+tutmama+sebepleri%2f%2347738837
+- entry_name: erdoğan'la dalga geçen çin medyası
+  entry_link: https://eksisozluk.com/?q=erdo%c4%9fan%27la+dalga+ge%c3%a7en+%c3%a7in+medyas%c4%b1%2f%2347741988
+- entry_name: recep tayyip erdoğan
+  entry_link: https://eksisozluk.com/?q=recep+tayyip+erdo%c4%9fan%2f%2347737858
+- entry_name: üniversiteye başladım uzun saçı
+  entry_link: https://eksisozluk.com/?q=%c3%bcniversiteye+ba%c5%9flad%c4%b1m+uzun+sa%c3%a7%c4%b1%2f%2347737743
+- entry_name: gelmiş geçmiş en güzel türk kızı
+  entry_link: https://eksisozluk.com/?q=gelmi%c5%9f+ge%c3%a7mi%c5%9f+en+g%c3%bczel+t%c3%bcrk+k%c4%b1z%c4%b1%2f%2347746810
+- entry_name: lisenin en popüler kızının lcw'de işe başlaması
+  entry_link: https://eksisozluk.com/?q=lisenin+en+pop%c3%bcler+k%c4%b1z%c4%b1n%c4%b1n+lcw%27de+i%c5%9fe+ba%c5%9flamas%c4%b1%2f%2347738717
+- entry_name: yılbaşında hindi kesip kurban bayramını eleştirmek
+  entry_link: https://eksisozluk.com/?q=y%c4%b1lba%c5%9f%c4%b1nda+hindi+kesip+kurban+bayram%c4%b1n%c4%b1+ele%c5%9ftirmek%2f%2347738167
+- entry_name: ölmemekte direnen film karakteri
+  entry_link: https://eksisozluk.com/?q=%c3%b6lmemekte+direnen+film+karakteri%2f%2347751692
+- entry_name: mars'ta su böreği bulunması
+  entry_link: https://eksisozluk.com/?q=mars%27ta+su+b%c3%b6re%c4%9fi+bulunmas%c4%b1%2f%2347749389
+- entry_name: modern çağın en popüler mutluluk şablonları
+  entry_link: https://eksisozluk.com/?q=modern+%c3%a7a%c4%9f%c4%b1n+en+pop%c3%bcler+mutluluk+%c5%9fablonlar%c4%b1%2f%2347743465
+- entry_name: ölümden sonra neler oluyor
+  entry_link: https://eksisozluk.com/?q=%c3%b6l%c3%bcmden+sonra+neler+oluyor%2f%2347745733
+- entry_name: zaman makinesiyle 15674231421312 yılına gitmek
+  entry_link: https://eksisozluk.com/?q=zaman+makinesiyle+15674231421312+y%c4%b1l%c4%b1na+gitmek%2f%2347745402
+- entry_name: ayakkabı kutusu bkz'sı veren ergen muhalif
+  entry_link: https://eksisozluk.com/?q=ayakkab%c4%b1+kutusu+bkz%27s%c4%b1+veren+ergen+muhalif%2f%2347747045
+- entry_name: beşiktaş
+  entry_link: https://eksisozluk.com/?q=be%c5%9fikta%c5%9f%2f%2347737019
+- entry_name: kadınlara göre tacizin tanımı
+  entry_link: https://eksisozluk.com/?q=kad%c4%b1nlara+g%c3%b6re+tacizin+tan%c4%b1m%c4%b1%2f%2347746286
+- entry_name: insan
+  entry_link: https://eksisozluk.com/?q=insan%2f%2347738649
+- entry_name: balık yedikten sonra helva yemek
+  entry_link: https://eksisozluk.com/?q=bal%c4%b1k+yedikten+sonra+helva+yemek%2f%2347741264
+- entry_name: 18 aralık 2014 whatsapp'ın çökmesi
+  entry_link: https://eksisozluk.com/?q=18+aral%c4%b1k+2014+whatsapp%27%c4%b1n+%c3%a7%c3%b6kmesi%2f%2347747915
+- entry_name: mastürbasyon sonrası spermin tadına bakan maymun
+  entry_link: https://eksisozluk.com/?q=mast%c3%bcrbasyon+sonras%c4%b1+spermin+tad%c4%b1na+bakan+maymun%2f%2347741497
+- entry_name: whatsapp grup konuşması
+  entry_link: https://eksisozluk.com/?q=whatsapp+grup+konu%c5%9fmas%c4%b1%2f%2347739128
+- entry_name: almanya'da yakalanan mit görevlileri
+  entry_link: https://eksisozluk.com/?q=almanya%27da+yakalanan+mit+g%c3%b6revlileri%2f%2347749908
+- entry_name: artık plaket verilmeyecek israf oluyor
+  entry_link: https://eksisozluk.com/?q=art%c4%b1k+plaket+verilmeyecek+israf+oluyor%2f%2347747896
+- entry_name: iki bacağı arasında namus izine rastlanmayan kız
+  entry_link: https://eksisozluk.com/?q=iki+baca%c4%9f%c4%b1+aras%c4%b1nda+namus+izine+rastlanmayan+k%c4%b1z%2f%2347756269
+- entry_name: ttnet faturası görünümlü cryptolocker virüsü
+  entry_link: https://eksisozluk.com/?q=ttnet+faturas%c4%b1+g%c3%b6r%c3%bcn%c3%bcml%c3%bc+cryptolocker+vir%c3%bcs%c3%bc%2f%2347739006
+- entry_name: otobüste yiyişen çiftler
+  entry_link: https://eksisozluk.com/?q=otob%c3%bcste+yiyi%c5%9fen+%c3%a7iftler%2f%2347741680
+- entry_name: bakire kız aramaktan vazgeçme eşiği
+  entry_link: https://eksisozluk.com/?q=bakire+k%c4%b1z+aramaktan+vazge%c3%a7me+e%c5%9fi%c4%9fi%2f%2347755515
+- entry_name: bakire olmayan kadından çocuk yapabilen erkek
+  entry_link: https://eksisozluk.com/?q=bakire+olmayan+kad%c4%b1ndan+%c3%a7ocuk+yapabilen+erkek%2f%2347742440
+- entry_name: amele tipli wolverine maskesine 15 bin tl istemek
+  entry_link: https://eksisozluk.com/?q=amele+tipli+wolverine+maskesine+15+bin+tl+istemek%2f%2347743328
+- entry_name: yedi sülalesi hırsız olan cumhurbaşkanı
+  entry_link: https://eksisozluk.com/?q=yedi+s%c3%bclalesi+h%c4%b1rs%c4%b1z+olan+cumhurba%c5%9fkan%c4%b1%2f%2347740640
+- entry_name: türkiye'den çıkacak nba takımlarına isim önerileri
+  entry_link: https://eksisozluk.com/?q=t%c3%bcrkiye%27den+%c3%a7%c4%b1kacak+nba+tak%c4%b1mlar%c4%b1na+isim+%c3%b6nerileri%2f%2347737277
 ---
-
-* [18 aralık 2014 davutoğlu'nun ekonomik eylem planı](https://eksisozluk.com/?q=18+aral%c4%b1k+2014+davuto%c4%9flu%27nun+ekonomik+eylem+plan%c4%b1%2f%2347739377)
-* [3+1 + 195.26 m2 = 1.246.000 tl](https://eksisozluk.com/?q=3%2b1+%2b+195.26+m2+%3d+1.246.000+tl%2f%2347740219)
-* [15 aralık 2014 derin futbol swf arşivi](https://eksisozluk.com/?q=15+aral%c4%b1k+2014+derin+futbol+swf+ar%c5%9fivi%2f%2347754764)
-* [hepinizi seviyorum şapşikler](https://eksisozluk.com/?q=hepinizi+seviyorum+%c5%9fap%c5%9fikler%2f%2347747384)
-* [bilal erdoğan'ın üstün zekalı lafına dava açması](https://eksisozluk.com/?q=bilal+erdo%c4%9fan%27%c4%b1n+%c3%bcst%c3%bcn+zekal%c4%b1+laf%c4%b1na+dava+a%c3%a7mas%c4%b1%2f%2347745341)
-* [sarelle'ye 6 tl civarında zam gelmesi](https://eksisozluk.com/?q=sarelle%27ye+6+tl+civar%c4%b1nda+zam+gelmesi%2f%2347748556)
-* [tübitak başkan yardımcısının cv'si](https://eksisozluk.com/?q=t%c3%bcbitak+ba%c5%9fkan+yard%c4%b1mc%c4%b1s%c4%b1n%c4%b1n+cv%27si%2f%2347754163)
-* [sözlükte cinsel taciz](https://eksisozluk.com/?q=s%c3%b6zl%c3%bckte+cinsel+taciz%2f%2347745348)
-* [19 aralık 2014 fethullah gülen'in dönmesi](https://eksisozluk.com/?q=19+aral%c4%b1k+2014+fethullah+g%c3%bclen%27in+d%c3%b6nmesi%2f%2347743008)
-* [iranlı gelin adayının ütopik dünyası](https://eksisozluk.com/?q=iranl%c4%b1+gelin+aday%c4%b1n%c4%b1n+%c3%bctopik+d%c3%bcnyas%c4%b1%2f%2347743500)
-* [kötü insanların ortak özellikleri](https://eksisozluk.com/?q=k%c3%b6t%c3%bc+insanlar%c4%b1n+ortak+%c3%b6zellikleri%2f%2347744091)
-* [18 aralık 2014 isviçre'nin negatif faize geçmesi](https://eksisozluk.com/?q=18+aral%c4%b1k+2014+isvi%c3%a7re%27nin+negatif+faize+ge%c3%a7mesi%2f%2347738688)
-* [neredeyse tüm arabaların beyaz veya gri olması](https://eksisozluk.com/?q=neredeyse+t%c3%bcm+arabalar%c4%b1n+beyaz+veya+gri+olmas%c4%b1%2f%2347737043)
-* [öğrenildiğinde ufku iki katına çıkaran şeyler](https://eksisozluk.com/?q=%c3%b6%c4%9frenildi%c4%9finde+ufku+iki+kat%c4%b1na+%c3%a7%c4%b1karan+%c5%9feyler%2f%2347737933)
-* [taksim metrosunda kaybolan turist kız](https://eksisozluk.com/?q=taksim+metrosunda+kaybolan+turist+k%c4%b1z%2f%2347738548)
-* [bir anda gelen dağ evinde odun kırma isteği](https://eksisozluk.com/?q=bir+anda+gelen+da%c4%9f+evinde+odun+k%c4%b1rma+iste%c4%9fi%2f%2347739834)
-* [bir kadeh şarap düşürülmüş kız ve közlenmiş et](https://eksisozluk.com/?q=bir+kadeh+%c5%9farap+d%c3%bc%c5%9f%c3%bcr%c3%bclm%c3%bc%c5%9f+k%c4%b1z+ve+k%c3%b6zlenmi%c5%9f+et%2f%2347745612)
-* [vladimir putin'in erdoğan'a sağlam ve erkek demesi](https://eksisozluk.com/?q=vladimir+putin%27in+erdo%c4%9fan%27a+sa%c4%9flam+ve+erkek+demesi%2f%2347744794)
-* [yazmaya cesaret edilemeyen facebook yorumları](https://eksisozluk.com/?q=yazmaya+cesaret+edilemeyen+facebook+yorumlar%c4%b1%2f%2347737948)
-* [kim kardashian'a benzemeye çalışan tip](https://eksisozluk.com/?q=kim+kardashian%27a+benzemeye+%c3%a7al%c4%b1%c5%9fan+tip%2f%2347741455)
-* [türk dizilerinin tutmama sebepleri](https://eksisozluk.com/?q=t%c3%bcrk+dizilerinin+tutmama+sebepleri%2f%2347738837)
-* [erdoğan'la dalga geçen çin medyası](https://eksisozluk.com/?q=erdo%c4%9fan%27la+dalga+ge%c3%a7en+%c3%a7in+medyas%c4%b1%2f%2347741988)
-* [recep tayyip erdoğan](https://eksisozluk.com/?q=recep+tayyip+erdo%c4%9fan%2f%2347737858)
-* [üniversiteye başladım uzun saçı](https://eksisozluk.com/?q=%c3%bcniversiteye+ba%c5%9flad%c4%b1m+uzun+sa%c3%a7%c4%b1%2f%2347737743)
-* [gelmiş geçmiş en güzel türk kızı](https://eksisozluk.com/?q=gelmi%c5%9f+ge%c3%a7mi%c5%9f+en+g%c3%bczel+t%c3%bcrk+k%c4%b1z%c4%b1%2f%2347746810)
-* [lisenin en popüler kızının lcw'de işe başlaması](https://eksisozluk.com/?q=lisenin+en+pop%c3%bcler+k%c4%b1z%c4%b1n%c4%b1n+lcw%27de+i%c5%9fe+ba%c5%9flamas%c4%b1%2f%2347738717)
-* [yılbaşında hindi kesip kurban bayramını eleştirmek](https://eksisozluk.com/?q=y%c4%b1lba%c5%9f%c4%b1nda+hindi+kesip+kurban+bayram%c4%b1n%c4%b1+ele%c5%9ftirmek%2f%2347738167)
-* [ölmemekte direnen film karakteri](https://eksisozluk.com/?q=%c3%b6lmemekte+direnen+film+karakteri%2f%2347751692)
-* [mars'ta su böreği bulunması](https://eksisozluk.com/?q=mars%27ta+su+b%c3%b6re%c4%9fi+bulunmas%c4%b1%2f%2347749389)
-* [modern çağın en popüler mutluluk şablonları](https://eksisozluk.com/?q=modern+%c3%a7a%c4%9f%c4%b1n+en+pop%c3%bcler+mutluluk+%c5%9fablonlar%c4%b1%2f%2347743465)
-* [ölümden sonra neler oluyor](https://eksisozluk.com/?q=%c3%b6l%c3%bcmden+sonra+neler+oluyor%2f%2347745733)
-* [zaman makinesiyle 15674231421312 yılına gitmek](https://eksisozluk.com/?q=zaman+makinesiyle+15674231421312+y%c4%b1l%c4%b1na+gitmek%2f%2347745402)
-* [ayakkabı kutusu bkz'sı veren ergen muhalif](https://eksisozluk.com/?q=ayakkab%c4%b1+kutusu+bkz%27s%c4%b1+veren+ergen+muhalif%2f%2347747045)
-* [beşiktaş](https://eksisozluk.com/?q=be%c5%9fikta%c5%9f%2f%2347737019)
-* [kadınlara göre tacizin tanımı](https://eksisozluk.com/?q=kad%c4%b1nlara+g%c3%b6re+tacizin+tan%c4%b1m%c4%b1%2f%2347746286)
-* [insan](https://eksisozluk.com/?q=insan%2f%2347738649)
-* [balık yedikten sonra helva yemek](https://eksisozluk.com/?q=bal%c4%b1k+yedikten+sonra+helva+yemek%2f%2347741264)
-* [18 aralık 2014 whatsapp'ın çökmesi](https://eksisozluk.com/?q=18+aral%c4%b1k+2014+whatsapp%27%c4%b1n+%c3%a7%c3%b6kmesi%2f%2347747915)
-* [mastürbasyon sonrası spermin tadına bakan maymun](https://eksisozluk.com/?q=mast%c3%bcrbasyon+sonras%c4%b1+spermin+tad%c4%b1na+bakan+maymun%2f%2347741497)
-* [whatsapp grup konuşması](https://eksisozluk.com/?q=whatsapp+grup+konu%c5%9fmas%c4%b1%2f%2347739128)
-* [almanya'da yakalanan mit görevlileri](https://eksisozluk.com/?q=almanya%27da+yakalanan+mit+g%c3%b6revlileri%2f%2347749908)
-* [artık plaket verilmeyecek israf oluyor](https://eksisozluk.com/?q=art%c4%b1k+plaket+verilmeyecek+israf+oluyor%2f%2347747896)
-* [iki bacağı arasında namus izine rastlanmayan kız](https://eksisozluk.com/?q=iki+baca%c4%9f%c4%b1+aras%c4%b1nda+namus+izine+rastlanmayan+k%c4%b1z%2f%2347756269)
-* [ttnet faturası görünümlü cryptolocker virüsü](https://eksisozluk.com/?q=ttnet+faturas%c4%b1+g%c3%b6r%c3%bcn%c3%bcml%c3%bc+cryptolocker+vir%c3%bcs%c3%bc%2f%2347739006)
-* [otobüste yiyişen çiftler](https://eksisozluk.com/?q=otob%c3%bcste+yiyi%c5%9fen+%c3%a7iftler%2f%2347741680)
-* [bakire kız aramaktan vazgeçme eşiği](https://eksisozluk.com/?q=bakire+k%c4%b1z+aramaktan+vazge%c3%a7me+e%c5%9fi%c4%9fi%2f%2347755515)
-* [bakire olmayan kadından çocuk yapabilen erkek](https://eksisozluk.com/?q=bakire+olmayan+kad%c4%b1ndan+%c3%a7ocuk+yapabilen+erkek%2f%2347742440)
-* [amele tipli wolverine maskesine 15 bin tl istemek](https://eksisozluk.com/?q=amele+tipli+wolverine+maskesine+15+bin+tl+istemek%2f%2347743328)
-* [yedi sülalesi hırsız olan cumhurbaşkanı](https://eksisozluk.com/?q=yedi+s%c3%bclalesi+h%c4%b1rs%c4%b1z+olan+cumhurba%c5%9fkan%c4%b1%2f%2347740640)
-* [türkiye'den çıkacak nba takımlarına isim önerileri](https://eksisozluk.com/?q=t%c3%bcrkiye%27den+%c3%a7%c4%b1kacak+nba+tak%c4%b1mlar%c4%b1na+isim+%c3%b6nerileri%2f%2347737277)
