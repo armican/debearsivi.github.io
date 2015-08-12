@@ -13,6 +13,27 @@ $(document).ready(function() {
         var entry_id = $(this).attr("name");
         create_entry(entry_id);
     });
+
+    // Set left and right button press
+    $("body").keydown(function (event) {
+        // left arrow
+        if ((event.keyCode || event.which) == 37)
+        {
+            var id = $("#prev_entry").attr("name");
+            create_entry(id);
+        }
+        
+        // right arrow
+        if ((event.keyCode || event.which) == 39)
+        {
+            var id = $("#next_entry").attr("name");
+            create_entry(id);
+        }
+    });
+
+    // Create first entry
+    var first_entry = $("#entry_ul").first("li").find("a").attr("name");
+    create_entry(first_entry);
 });
 
 function create_entry(id) {
