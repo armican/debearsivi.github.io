@@ -27,7 +27,7 @@ data:
 - entry_name: battlestar galactica
   entry_link: https://eksisozluk.com/?q=battlestar+galactica%2f%2352645664
 - entry_name: akp&#8212chp koalisyonu
-  entry_link: https://eksisozluk.com/?q=akp-chp+koalisyonu%2f%2352640901
+  entry_link: https://eksisozluk.com/?q=akp&#8212chp+koalisyonu%2f%2352640901
 - entry_name: yeni gelin evleri facebook sayfaları
   entry_link: https://eksisozluk.com/?q=yeni+gelin+evleri+facebook+sayfalar%c4%b1%2f%2352645522
 - entry_name: emniyet müdürlüğü'nün yeni logosu
