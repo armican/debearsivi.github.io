@@ -26,7 +26,7 @@ data:
   entry_link: https://eksisozluk.com/?q=k.+anzuk+senin+g.t%c3%bcn%c3%bc+s.keyim%2f%2352666035
 - entry_name: battlestar galactica
   entry_link: https://eksisozluk.com/?q=battlestar+galactica%2f%2352645664
-- entry_name: akp\-chp koalisyonu
+- entry_name: akp-chp koalisyonu
   entry_link: https://eksisozluk.com/?q=akp-chp+koalisyonu%2f%2352640901
 - entry_name: yeni gelin evleri facebook sayfaları
   entry_link: https://eksisozluk.com/?q=yeni+gelin+evleri+facebook+sayfalar%c4%b1%2f%2352645522
