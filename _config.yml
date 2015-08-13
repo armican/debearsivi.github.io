@@ -31,3 +31,5 @@ github:
 
 gems:
   - jekyll-sitemap
+  
+markdown: rdiscount
