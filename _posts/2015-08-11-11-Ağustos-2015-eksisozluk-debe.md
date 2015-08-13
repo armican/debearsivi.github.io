@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11 Ağustos 2015 ekşi sözlük debe
+title: 11 Ağustos 2015 Ekşi Sözlük Debe
 data:
 - entry_name: ingilizce yetmiyor artık 4-5 dil biliyor millet
   entry_link: https://eksisozluk.com//?q=ingilizce+yetmiyor+art%c4%b1k+4-5+dil+biliyor+millet%2f%2353913546
