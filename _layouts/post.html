@@ -10,12 +10,14 @@ layout: default
     {% for i in page.data %}
       <li class="entry_li">
         <a class="entry_list" name="{{ i.entry_id }}">{{ i.entry_name }}</a>
-        <div class="entry_content" id="entry_{{ i.entry_id }}" data-writer="{{ i.entry_writer }}">{{ i.entry_content }}</div>
+        <div class="entry_content" id="entry_{{ i.entry_id }}"
+             data-writer="{{ i.entry_writer }}" data-title="{{ i.entry_name }}">{{ i.entry_content }}</div>
       </li>
     {% endfor %}
     </ul>
     </div>
     <div class="col-md-9">
+        <h2 id="entry_title"></h2>
         <div id="prev_next_opt">
             <a id="prev_entry"><< Önceki Entry</a>
             <a id="next_entry">Sonraki Entry >></a>
