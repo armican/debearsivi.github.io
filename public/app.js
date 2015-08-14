@@ -126,5 +126,5 @@ function create_entry(id) {
                     .attr("href", entry_link);
     setTimeout(function(){
         $("#next_entry").attr("tabindex",-1).focus();
-    }, 1);
+    }, 50);
 }
