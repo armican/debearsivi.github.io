@@ -5,7 +5,7 @@
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 // Blog post or page title
@@ -32,7 +32,7 @@
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid  #d2d2d2;
 }
 
 .related-posts {
@@ -68,6 +68,7 @@
   padding-left: 0;
   overflow-x: visible;
   overflow-y: scroll;
+  height: 600px;
 }
 
 .entry_li {
@@ -96,4 +97,9 @@
 }
 #entry_title {
   color: #5873D8;
+   margin-top: 2rem;
+}
+
+#debe_date_p {
+  margin-top: 0.5rem;
 }

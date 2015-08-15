@@ -25,7 +25,7 @@ $(document).ready(function() {
     });
 
     // Get debes of a date
-    $("#get_date_debe").click(function () {
+    $("#get_debe_date").click(function () {
         var debe_date = $("#debe_date").val();
         var debe_date_split = debe_date.split("/");
         var url = "/" + debe_date + "/" + debe_date_split[2] +
