@@ -84,7 +84,7 @@ data:
     6 ayda milyoner sayısının 9 bin artması
   entry_id: 54079895
   entry_content: |
-    krizin yeni zenginler ve yeni fakirler yarattığını bilmeyenler tarafından "hani kriz vardı?" diye karşılanan, son derece normal olay.<br/><br/>(bkz: <a class="b" href="/?q=mal+beyan%c4%b1">mal beyanı</a>)
+    krizin yeni zenginler ve yeni fakirler yarattığını bilmeyenler tarafından "hani kriz vardı?" diye karşılanan, son derece normal olay.<br/><br/>(bkz: <a class="b" href="/?q=mal+beyan%c4%b1">mal beyanı</a>)<br/><br/>debe edit: vallahi <a class="b" href="/?q=zaman%c4%b1n+%c3%b6tesi">zamanın ötesi</a>ni özledik.
   entry_writer: dinsiz adam
 - entry_name: |
     pkk savunucu kıza ağzının payını veren vatansever
@@ -120,7 +120,7 @@ data:
     evlenmek için geçerli ve güzel nedenler
   entry_id: 54096249
   entry_content: |
-    babam annemle hiç gezmezdi. fikir sormazdı. gormezden gelir duymazdı.<br/><br/>ben ise bugun guzel bir adamla evliyim. cok mutluyum. şapkamı almak istedigimde dur ben getireyim diyor. bana omlet pisiriyor. acmısın diye soruyor. sen bunu cok seversin bak diyor. ben hangi rengi secersem ona evet diyor. bazen kendimi onun yanindayken oyuncakcı dukkanındaki cocuk gibi hissediyorum. simarmak serbest istedigini almak serbest. bu bana yetiyor. beni cok seviyor. onu cok seviyorum. evlenmek icin guzel bir neden mi lazim? evlenmek icin guzel nedenler ariyorsunuz ama guzel bir adam olmayi unutuyorsunuz. guzel olun.
+    babam annemle hiç gezmezdi. fikir sormazdı. gormezden gelir duymazdı.<br/><br/>ben ise bugun guzel bir adamla evliyim. cok mutluyum. şapkamı almak istedigimde dur ben getireyim diyor. bana omlet pisiriyor. acmısın diye soruyor. sen bunu cok seversin bak diyor. ben hangi rengi secersem ona evet diyor. bazen kendimi onun yanindayken oyuncakcı dukkanındaki cocuk gibi hissediyorum. simarmak serbest istedigini almak serbest. bu bana yetiyor. beni cok seviyor. onu cok seviyorum. evlenmek icin guzel bir neden mi lazim? evlenmek icin guzel nedenler ariyorsunuz ama guzel bir adam olmayi unutuyorsunuz. guzel olun.<br/><br/>edit: mesajimi guzel seyler icin caba harcamak yerine sadece istemekle yetinenler icin yazdim.
   entry_writer: yazmak bedava
 - entry_name: |
     hamza hamzaoğlu
@@ -132,7 +132,7 @@ data:
     türkiye 58.'si olup pkk'ya katılmak
   entry_id: 54087711
   entry_content: |
-    (bkz: <a class="b" href="/?q=pkk+hilede+ygs%27ye+vuri+wallah">pkk hilede ygs'ye vuri wallah</a>)
+    (bkz: <a class="b" href="/?q=pkk+hilede+ygs%27ye+vuri+wallah">pkk hilede ygs'ye vuri wallah</a>)<br/><br/>**<a class="b" href="/?q=geleneksel+debe+duzenlemesi">geleneksel debe duzenlemesi</a>**<br/><br/>tamam espridir, db'ye sokulur ama daha cok ugras verdigim yazilarim, daha sofistike esprilerim/tespitlerim varken bunu sokmaniz ilginc. suradan birkac link vereyim bari:<br/><br/>komik/absurt/ilginc kategorisi:<br/><br/>(bkz: <a class="b" href="/?q=mario%27nun+%c3%bcnl%c3%bc+olmadan+%c3%b6nce+fig%c3%bcranl%c4%b1k+yapmas%c4%b1">mario'nun ünlü olmadan önce figüranlık yapması</a>)<br/>(bkz: <a class="b" href="/?q=martingale+y%c3%b6ntemiyle+jet+fad%c4%b1l%27a+oynamak">martingale yöntemiyle jet fadıl'a oynamak</a>)<br/>öğrenildiğinde ufku iki katına çıkaran şeyler: (bkz: <a class="b" href="/entry/46177648">#46177648</a>)<br/><br/>ibretlik kategorisi: <br/><br/>(bkz: <a class="b" href="/?q=antarktika%27da+2015+orucu%27nun+iptal+olmas%c4%b1">antarktika'da 2015 orucu'nun iptal olması</a>)<br/>(bkz: <a class="b" href="/?q=1997+y%c4%b1l%c4%b1nda+norve%c3%a7%27te+ya%c5%9fanan+efsanevi+ramazan">1997 yılında norveç'te yaşanan efsanevi ramazan</a>)<br/>(bkz: <a class="b" href="/?q=cehennem%27in+so%c4%9fuk+yerine+s%c4%b1cak+olmas%c4%b1">cehennem'in soğuk yerine sıcak olması</a>)<br/>(bkz: <a class="b" href="/?q=23+aral%c4%b1k+215+roma+imparatorlu%c4%9fu+maden+kazas%c4%b1">23 aralık 215 roma imparatorluğu maden kazası</a>)<br/>türk ulusu ağacın kökü kürtler dalıdır: (bkz: <a class="b" href="/entry/53918697">#53918697</a>)<br/><br/>tespit kategorisi:<br/><br/>(bkz: <a class="b" href="/?q=barbarossa+harekat%c4%b1+dershane+harekat%c4%b1+benzerli%c4%9fi">barbarossa harekatı dershane harekatı benzerliği</a>)<br/>(bkz: <a class="b" href="/?q=ingilizlerin+yabanc%c4%b1+dil+%c3%b6%c4%9frenmemesi">ingilizlerin yabancı dil öğrenmemesi</a>)<br/>antalya'da haremlik selamlık halk plajı: (bkz: <a class="b" href="/entry/45153557">#45153557</a>)<br/><br/>** <a class="b" href="/?q=geleneksel+debe+duzenlemesi">geleneksel debe duzenlemesi</a> **
   entry_writer: turk eli
 - entry_name: |
     çatışmadan çıkan askerlerin çekildiği fotoğraf
@@ -192,7 +192,7 @@ data:
     varoluş acısını dindirmenin yolları
   entry_id: 54085975
   entry_content: |
-    tüm varlığını alıp, kendini doğaya adamak. adeta bir tarzan gibi yaşamak.<br/><br/>bizden önceki tüm nesiller savaşlar verdi, öldüler, sakal kaldılar. yokluk çektiler, açlıktan, hastalıktan öldüler. dünya düzeni kapitalistleşince artık savaşacak sınır ve bayraklar kalmadı, herkesin savaşı bireysel zenginlik hırsı ve tüketim. bu da bizi en tehlikeli savaşın içine attı. insanın kendiyle verdiği savaş.<br/><br/>doğanın parçası olduğumuzu kabullenmeyip asfalt ve betondan şehirler yarattık. parçamız olan yeşili şehir süslemesine çevirdik. bu yüzden kendi kafeslerini üreten hayvanlarız ve bu kafes yıkılmadan özgür ve tamamlanmış hissetmek zor. kendi ellerimizle ürettiğimiz yok edici bir robotun, milyarlarca parçasından biriyiz, işlevselliğimiz sürene kadar kullanılıyoruz ve tamirci ölüm arızalı parçaları değiştiriyor. <br/><br/>her şeyi yıkmamız lazım ve insan olmanın değerini görmemiz lazım. öfke ve kinle birbirini katleden canlılarız, hangimiz kızdığımızda elimizdeki parayı, evimizi yada arabamızı yakıyoruz. kızdığımızda başkasına zarar veriyoruz demek ki insan bilinci egolarının kuklası. ben merkezli olmaktan kaçıp doğa ananın kollarında anadan üryan sevişmek lazım.
+    tüm varlığını alıp, kendini doğaya adamak. adeta bir tarzan gibi yaşamak.<br/><br/>bizden önceki tüm nesiller savaşlar verdi, sakat kaldılar. yokluk çektiler, açlıktan, hastalıktan öldüler. dünya düzeni kapitalistleşince artık savaşacak sınır ve bayraklar kalmadı, herkesin savaşı bireysel zenginlik hırsı ve tüketim. bu da bizi en tehlikeli savaşın içine attı. insanın kendiyle verdiği savaş.<br/><br/>doğanın parçası olduğumuzu kabullenmeyip asfalt ve betondan şehirler yarattık. parçamız olan yeşili şehir süslemesine çevirdik. bu yüzden kendi kafeslerini üreten hayvanlarız ve bu kafes yıkılmadan özgür ve tamamlanmış hissetmek zor. kendi ellerimizle ürettiğimiz yok edici bir robotun, milyarlarca parçasından biriyiz, işlevselliğimiz sürene kadar kullanılıyoruz ve tamirci ölüm arızalı parçaları değiştiriyor. <br/><br/>her şeyi yıkmamız lazım ve insan olmanın değerini görmemiz lazım. öfke ve kinle birbirini katleden canlılarız, hangimiz kızdığımızda elimizdeki parayı, evimizi yada arabamızı yakıyoruz. kızdığımızda başkasına zarar veriyoruz demek ki insan bilinci egolarının kuklası. ben merkezli olmaktan kaçıp doğa ananın kollarında anadan üryan sevişmek lazım.
   entry_writer: ferreli koyun kavalcisi
 - entry_name: |
     tuğçe kazaz
@@ -270,7 +270,7 @@ data:
     doctor who
   entry_id: 54087275
   entry_content: |
-    ow yine bir götünden anlama sendromuna yakalanmış troll ortaya çıkaran dizi.<br/><br/>her "bilim kurgu" yapımının kendi içinde bir mantığı vardır. çöp kovasının adam yutması doctor who "evrenine" göre mantıklı bir olaydır. o izlediğin "saçma sapan" bölümde vitrin mankenleri de canlanıp yürümeye ortalığı dağıtmaya başlıyorlar sana göre bu da saçma o zaman. <br/><br/>"izlediği tek "bilim kurgu" doctor who olanlarmış" aman da ne güzel bayılırsınız insanları kafanıza göre yaftalamaya... bravo... sen böyle dedin diye kendimi o kadar ezik hissediyorum ki şu an anlatamam yani... hesabı falan kapatıp gideceğim buralardan... ne o bi de dövecek misin "ya da hiç dayak yememişizdir"mişiz... her bok da sizden soruluyor zaten...<br/><br/>yani ne bileyim... "gerizekalıyım, saygısızım, insanlara hakaret etmekten hoşlanırım, popüler şeyleri eleştirmek, izleyenlerine/takip edenlerine bok atmak en büyük zevkim" demenin başka yolları da var... nasıl bir psikoloji içerisindesiniz ben anlamıyorum... bu arkadaşlarda kafa var olmasına da malzemeden çalmışlar, içinde beyin yok büyük ihtimalle.... hayır bi de her şeye böyle bir otorite, bir bilirkişi edasıyla yaklaşıyorlar ya... çok komik cidden...<br/><br/>sen izleme ulan ayı...<br/><br/>şafak 33<br/>(bkz: <a class="b" href="/?q=geliyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">geliyor gönlümün efendisi</a>)
+    ow yine bir götünden anlama sendromuna yakalanmış troll ortaya çıkaran dizi.<br/><br/>her "bilim kurgu" yapımının kendi içinde bir mantığı vardır. çöp kovasının adam yutması doctor who "evrenine" göre mantıklı bir olaydır. o izlediğin "saçma sapan" bölümde vitrin mankenleri de canlanıp yürümeye ortalığı dağıtmaya başlıyorlar sana göre bu da saçma o zaman. halbuki nerden bileceksin ki <a class="b" href="/?q=nestene+bilinci">nestene bilinci</a> nedir, nerden gelir, ne işe yarar... oturmuş tek bir bölümün 1 sahnesini izlemiş, gelmiş buraya ahkam kesiyor...<br/><br/>"izlediği tek "bilim kurgu" doctor who olanlarmış" aman da ne güzel bayılırsınız insanları kafanıza göre yaftalamaya... bravo... sen böyle dedin diye kendimi o kadar ezik hissediyorum ki şu an anlatamam yani... hesabı falan kapatıp gideceğim buralardan... ne o bi de dövecek misin "ya da hiç dayak yememişizdir"mişiz... her bok da sizden soruluyor zaten...<br/><br/>yani ne bileyim... "gerizekalıyım, saygısızım, insanlara hakaret etmekten hoşlanırım, popüler şeyleri eleştirmek, izleyenlerine/takip edenlerine bok atmak en büyük zevkim" demenin başka yolları da var... nasıl bir psikoloji içerisindesiniz ben anlamıyorum... bu arkadaşlarda kafa var olmasına da malzemeden çalmışlar, içinde beyin yok büyük ihtimalle.... hayır bi de her şeye böyle bir otorite, bir bilirkişi edasıyla yaklaşıyorlar ya... çok komik cidden...<br/><br/>sen izleme ulan ayı...<br/><br/>şafak 33<br/>(bkz: <a class="b" href="/?q=geliyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">geliyor gönlümün efendisi</a>)<br/><br/>edit: bu entryi debe'ye sokan sevgili suser'lara teşekkür ederim elleriniz dert görmesin. trollerle yılmadan mücadele etmeye devam edeceğiz!!<br/><br/>(bkz: <a class="b" href="/?q=bu+daha+ba%c5%9flang%c4%b1%c3%a7+m%c3%bccadeleye+devam">bu daha başlangıç mücadeleye devam</a>)
   entry_writer: king firth the colin s speech
 - entry_name: |
     düğünde ilk dans için en nefis şarkılar
@@ -291,15 +291,9 @@ data:
     sanırım şu ana kadar bu başlığa ilk kez yazıyorum. <br/><br/>ş e h i d i n tabutuna kolunu dayadı ve hanımefendiler,beyefendiler diyerek cenaze töreninde konuşmaya başladı.<br/><br/>söyleyeceklerim bu kadar.
   entry_writer: kedisininyumagi
 - entry_name: |
-    oğuzhan özyakup
-  entry_id: 54080075
-  entry_content: |
-    melo denen it ile aynı cümlede adı geçmemesi gereken adam gibi adam
-  entry_writer: sosislicilek
-- entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
   entry_id: 54091234
   entry_content: |
-    şu anda 1 varil (159 litre) kolalı içecek 140 dolar, şalgam suyunun varili 182 dolar, ayranın varili 190 dolar, zeytinyağının varili 2. 370 dolar, petrolün varili ise 50 dolar.
+    şu anda 1 varil (159 litre) kolalı içecek 140 dolar, şalgam suyunun varili 182 dolar, ayranın varili 190 dolar, zeytinyağının varili 2370 dolar, petrolün varili ise 50 dolar.
   entry_writer: pele
 ---
