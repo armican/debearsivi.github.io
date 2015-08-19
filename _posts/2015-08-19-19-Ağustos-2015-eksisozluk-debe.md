@@ -24,19 +24,19 @@ data:
     19 ağustos 2015 muğla'da özerklik ilan edilmesi
   entry_id: 54128886
   entry_content: |
-    ben kendim bizzat şahsen ilan ettiğim özerklik. madem sabah erken kalkan ozerklik ilan ediyor, ben de ediyorum amk. 400 metrekare arsam var. kenarı tellerle çevrili. oturdum içine, özerkliğimi ilan ettim.<br/><br/>yaklaşanı kuş sapanı ile vuracağım.
+    ben kendim bizzat şahsen ilan ettiğim özerklik. madem sabah erken kalkan ozerklik ilan ediyor, ben de ediyorum amk. 400 metrekare arsam var. kenarı tellerle çevrili. oturdum içine, özerkliğimi ilan ettim.<br/><br/>yaklaşanı kuş sapanı ile vuracağım.<br/><br/>ek: simdi kepçe geldi, kenarlarını kazdırıyorum, içine su doldurup timsah salacağım. yetişkin timsah nerde satılır bilen var mı?
   entry_writer: ronaldinho
 - entry_name: |
     şemsiye ile güvercin sevmek
   entry_id: 54107569
   entry_content: |
-    bu eylemle, memlekette rahatını bozmadığı bir canlı kalmamıştır.
+    bu eylemle, memlekette rahatını bozmadığı bir canlı kalmamıştır.<br/><br/>edit: arkadaşlar günlerdir muhabbeti dönen bayat espri <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/DRdMgm.jpg" title="http://i.hizliresim.com/DRdMgm.jpg">pls</a>
   entry_writer: bugun saat 6 gibi sarki soyluyodum
 - entry_name: |
     18 ağustos 2015 kemer hotel sinatra rezaleti
   entry_id: 54124478
   entry_content: |
-    olmayan rezalet. <br/><br/>bazı oteller rezarvasyonu yaptıktan sonra otelin bulunduğu şehire girmeseniz dahi o ücreti alırlar. bazı oteller ise ücretsiz iptal sunabiliyor. bu opsiyonlar değişiklik gösterebilir, rezervasyon yaptığınız sitelerde de yazar, ücretsiz iptal, iadesiz gibi.<br/><br/>ama sen otele gelmişsin, check/in yapmışsın ardından odaya çıkmışsın, sonra işim çıktı kalmak istemiyorum desen bile o parayi paşa paşa odemek zorundasın.<br/><br/>müdür muhtemelen kameradan seni takip etmiş, acımış ve bir iyilik yapayım demiş, yarısını versinler demiş, bu tamamen müdürün insiyatifinde.<br/><br/>sonuç itibari ile bir rezalet değildir. <br/><br/>asıl rezalet ülkenin şu an için bulunduğu durumdur.<br/><br/>bonus not: siz siz olun, rezervasyon yaparken ücretsiz iptal/iade seçenekli otellere yönelin.
+    başlık başıma, <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/j2W5gn.jpg" title="http://i.hizliresim.com/j2W5gn.jpg">caps</a><br/><br/>olmayan rezalet. <br/><br/>bazı oteller rezarvasyonu yaptıktan sonra otelin bulunduğu şehire girmeseniz dahi o ücreti alırlar. bazı oteller ise ücretsiz iptal sunabiliyor. bu opsiyonlar değişiklik gösterebilir, rezervasyon yaptığınız sitelerde de yazar, ücretsiz iptal, iadesiz gibi.<br/><br/>ama sen otele gelmişsin, check/in yapmışsın ardından odaya çıkmışsın, sonra işim çıktı kalmak istemiyorum desen bile o parayi paşa paşa odemek zorundasın.<br/><br/>müdür muhtemelen kameradan seni takip etmiş, acımış ve bir iyilik yapayım demiş, yarısını versinler demiş, bu tamamen müdürün insiyatifinde.<br/><br/>sonuç itibari ile bir rezalet değildir. <br/><br/>asıl rezalet ülkenin şu an için bulunduğu durumdur.<br/><br/>bonus not: siz siz olun, rezervasyon yaparken ücretsiz iptal/iade seçenekli otellere yönelin.<br/><br/>// debe edit start<br/><br/>--- <a class="b" href="/?q=l%c3%bctfen">lütfen</a> ---<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/askidanekmek" title="https://www.facebook.com/askidanekmek">tahtaya bir çizikte sen at</a><br/><br/>--- <a class="b" href="/?q=l%c3%bctfen">lütfen</a> ---<br/><br/>// debe edit finished
   entry_writer: yyyvvvzzz
 - entry_name: |
     18 ağustos 2015 tunceli'de özerklik ilan edilmesi
@@ -90,13 +90,13 @@ data:
     ahmet sülüşoğlu
   entry_id: 54118840
   entry_content: |
-    polislerden nefret ederim. gezi olaylarından beri her ortamda polisleri itin götüne sokar çıkarırım. <br/>ancak burada ne olursa olsun ilk silahı çeken taraf mefta olan taraf. mermiyi namluya sürüyor. doğrultmuyor olabilir silahı ama bu doğrultup tetiği çekmeyeceği anlamına gelmez. meftayı vuran şahıs o silahın kurusıkı olduğunu da bilemez. adamın beyninin orada ona tek söylediği şey "tehlike!" "hayatta kal!"<br/><br/>kendinizi o polisin yerine koyun kısa süre önce tartıştığınız birisi hırsla karşınıza dikilip silahın namlusuna mermiyi veriyor ve sizin belinizde de silah var ne yaparsınız. adamın size silahını doğrultup sıkmasını mı beklersiniz yoksa hayatta kalma içgüdüsüyle siz de silahınızı çekip ateşler misiniz? <br/><br/>burada polisin tek suçu direk kafasına ateş etmesidir ve bu da ceza almasına yol açacaktır. ancak fazla ceza alacağını da düşünmüyorum. ve fazla ceza almadığı için de üzülmem. su testisi su yolunda kırılır. doğal seleksiyona verdiği katkıdan dolayı da teşekkür ederim hatta. çünkü o mefta dün o polisin karşısına dikilmeseydi yarın belki de benim karşıma dikilecekti silahıyla.<br/><br/>edit:imla
+    polislerden nefret ederim. gezi olaylarından beri her ortamda polisleri itin götüne sokar çıkarırım. <br/>ancak burada ne olursa olsun ilk silahı çeken taraf mefta olan taraf. mermiyi namluya sürüyor. doğrultmuyor olabilir silahı ama bu doğrultup tetiği çekmeyeceği anlamına gelmez. meftayı vuran şahıs o silahın kurusıkı olduğunu da bilemez. adamın beyninin orada ona tek söylediği şey "tehlike!" "hayatta kal!"<br/><br/>kendinizi o polisin yerine koyun kısa süre önce tartıştığınız birisi hırsla karşınıza dikilip silahın namlusuna mermiyi veriyor ve sizin belinizde de silah var ne yaparsınız. adamın size silahını doğrultup sıkmasını mı beklersiniz yoksa hayatta kalma içgüdüsüyle siz de silahınızı çekip ateşler misiniz? <br/><br/>burada polisin tek suçu direk kafasına ateş etmesidir ve bu da ceza almasına yol açacaktır. ancak fazla ceza alacağını da düşünmüyorum. ve fazla ceza almadığı için de üzülmem. su testisi su yolunda kırılır. doğal seleksiyona verdiği katkıdan dolayı da teşekkür ederim hatta. çünkü o mefta dün o polisin karşısına dikilmeseydi yarın belki de benim karşıma dikilecekti silahıyla.<br/><br/>edit:imla<br/><br/>debedit: amk kırk yılın başı debeye girdik ama benim söyleyecek bir şeyim yok. ne kıt herifmişim!
   entry_writer: tlgt
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
   entry_id: 54107284
   entry_content: |
-    istediğin kadar nane çiğne, o alkol üflediğinde gene çıkar evladım. buyrun "nanae çiğnerseniz alkol testinde alkol çıkmaz" iddiasının yalanlamasına: <a rel="nofollow" class="url" target="_blank" href="http://www.snopes.com/autos/law/breath.asp" title="http://www.snopes.com/autos/law/breath.asp">http://www.snopes.com/autos/law/breath.asp</a><br/><br/>iki bira alıp direksiyon başına geçen gerizekalıların kız arkadaşlarından tavsiye alıp ufkunuzu ve başkalarının hayatlarını karartmayın. içtiğiniz her bir şişe biranın reflekslerinizi azalttığını ve başkalarının hayatını tehlikeye attığını bilin. üç kuruş taksi parası vermemek için cambazlık yapan sikkofield'lar yüzünden hayatınız kararmaın diye söylüyorum<br/><br/>edit-ül debe: <a class="b" href="/?q=ege+%c3%bcniversitesi">ege üniversitesi</a>'nin şarlatanlığa destek vermesine lütfen dur diyelim hep beraber: <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/universiteege-sözde-bilime-desteğini-geri-çek" title="https://www.change.org/p/universiteege-sözde-bilime-desteğini-geri-çek">https://www.change.org/…e-bilime-desteğini-geri-çek</a>
+    istediğin kadar nane çiğne, o alkol çıkar evladım. buyrun "nane çiğnerseniz üfleme testinde alkol çıkmaz" iddiasının yalanlamasına: <a rel="nofollow" class="url" target="_blank" href="http://www.snopes.com/autos/law/breath.asp" title="http://www.snopes.com/autos/law/breath.asp">http://www.snopes.com/autos/law/breath.asp</a><br/><br/>iki bira alıp direksiyon başına geçen gerizekalıların kız arkadaşlarından tavsiye alıp ufkunuzu ve başkalarının hayatlarını karartmayın. içtiğiniz her bir şişe biranın reflekslerinizi azalttığını ve başkalarının hayatını tehlikeye attığını bilin. üç kuruş taksi parası vermemek için cambazlık yapan sikkofield'lar yüzünden hayatınız kararmaın diye söylüyorum. <br/><br/>edit-ül debe: <a class="b" href="/?q=ege+%c3%bcniversitesi">ege üniversitesi</a>'nin şarlatanlığa destek vermesine lütfen dur diyelim hep beraber: <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/universiteege-sözde-bilime-desteğini-geri-çek" title="https://www.change.org/p/universiteege-sözde-bilime-desteğini-geri-çek">https://www.change.org/…e-bilime-desteğini-geri-çek</a>
   entry_writer: lecagot
 - entry_name: |
     sofiane feghouli
@@ -108,14 +108,8 @@ data:
     sezeryanla doğum yapan annenin face fotoğrafı
   entry_id: 54126141
   entry_content: |
-    bütün dünyada savaşlar olurken, dazır dazır kafalar kesilirken ve bunlar rahatlıkla yayınlanırken tartışılmıyorsa ama bu fotoğraf etik mi diye tartışılıyorsa, kusura bakmayın ama ben öyle dünyanın içine sıçarım. her gün televizyonlarda izliyoruz savaşları. hanginiz tartıştınız lan etik mi diye? çocuklar yılını göremeden ölüyor lan. tartıştınız mı etik mi diye? ağzımı açtırmayın, ancak savaşın kanıksandığı toplumlar bu fotoğrafın tartışmasını yaparlar. yine de diyorum ki hepsine tepkinizi koyun, bunu da tartışalım. <br/><br/>kabul ediyorum ki toplumsal normların dışında bir foto lakin zararsız. kimseyi öldürmemiş, kimsenin parasını çalmamış, kimseyi rehin almamış. görünüz, bebek mutlu mesut büyüsüne deyiniz ve geçiniz. tartışacak çok şey var.
+    bütün dünyada savaşlar olurken, dazır dazır kafalar kesilirken ve bunlar rahatlıkla yayınlanırken tartışılmıyorsa ama bu fotoğraf etik mi diye tartışılıyorsa, kusura bakmayın ama ben öyle dünyanın içine sıçarım. her gün televizyonlarda izliyoruz savaşları. hanginiz tartıştınız lan etik mi diye? çocuklar yılını göremeden ölüyor lan. tartıştınız mı etik mi diye? ağzımı açtırmayın, ancak savaşın kanıksandığı toplumlar bu fotoğrafın tartışmasını yaparlar. yine de diyorum ki hepsine tepkinizi koyun, bunu da tartışalım. <br/><br/>kabul ediyorum ki toplumsal normların dışında bir foto lakin zararsız. kimseyi öldürmemiş, kimsenin parasını çalmamış, kimseyi rehin almamış. görünüz, bebek mutlu mesut büyüsüne deyiniz ve geçiniz. tartışacak çok şey var<br/><br/>edit: imla
   entry_writer: mehmetpars
-- entry_name: |
-    17 ağustos 2015 ışid'in türklere mesajı
-  entry_id: 54109973
-  entry_content: |
-    bit böcek dolu sakalıyla atatürk'ün adını anmaya cüret eden, dağda genç kızlara tecavüz eden, ve video'nun başlarında giyimi, kuşamı, duruşu davranışı, görünüşüyle baştan aşağı medeniyet simgesi atatürk'ün yanında bir öbek manda boku gibi durmaması için tipi özellikle biraz düzgünlerden seçilmiş bir mental retarde ortadoğulunun başrol oynadığı video. atatürk'ün çıktığı kısımda adamın üstünden başından akan asalet ve medeniyete bir kez daha hayran kaldım yalnız ve türkler'e bir kez daha acıdım. çok farklı bir medeniyet olabilecekken bir l<a class="b" href="/?q=okasyon+hatas%c4%b1">okasyon hatası</a> yüzünden bu bok çukuruna düşmüş, bu meczupluğa bulaşmış olmak, arapların "kardeşlik" edebiyatına maruz kalmak kadar büyük talihsizlik olamaz. biz siz değiliz cennet sevdalısı terliksi hayvan, sizin kendi içinizde uydurduğunuz bir mitolojiye yüzyıllardır maruz kalıyoruz diye lütfen bizi kendinden sayma. kendi kendinize savaşıp, ölünce karı kıza atlayacağınıza, şarap ırmağında yıkanacağınıza, ayın bölündüğüne inanmaya filan devam edin lakin yerleşmek için dünyanın en leş komşusunun yanını bulan atalar yüzünden bizi kendiniz zannetmeyin, biz eninde sonunda "filistinli çocuklara yardım eden doktor iyi biri olabilir ama müslüman olmadığı için cehenneme gidecek :s" gibi ağır zeka geriliği gerektiren meselelerden sıyrılacağız, benim umudum var. cennetiniz de sizin olsun, ama o inandığınız allahın adını verdim azot döngüsünde bile karşımıza çıkmayın artık istemiyoruk.
-  entry_writer: isolde
 - entry_name: |
     dünyadaki her şeyin anlamını karşılayan kelime
   entry_id: 54120697
@@ -123,16 +117,10 @@ data:
     elbette vardır.<br/><br/>(bkz: <a class="b" href="/?q=hodor">hodor</a>)
   entry_writer: hobb
 - entry_name: |
-    sabri sarıoğlu
-  entry_id: 54128741
-  entry_content: |
-    keşke babası zamanında beni sikseymiş.
-  entry_writer: metin milli
-- entry_name: |
     yaran inci sözlük entry'leri
   entry_id: 54109722
   entry_content: |
-    başlık : beyler 2 yıllık sevgilimden ayrıldım ne yapim?<br/>cevap: üzülme panpa. bi dahaki sefere daha çok çalışır, dört yıllık kazanırsın.<br/><br/><sup class="ab"><a title="(bkz: hehe)" href="/?q=hehe" data-query="hehe">*</a></sup>
+    başlık : beyler 2 yıllık sevgilimden ayrıldım ne yapim?<br/>cevap: üzülme panpa. bi dahaki sefere daha çok çalışır, dört yıllık kazanırsın.<br/><br/>debedition:debe şeyi yapmayı sevmiyorum ama müsadenizle "hırsız vaar " diye bağıracam avazım çıktığı kadar. vermeyin şuna artık oy moy, defolup gitsin artık, yeter. bugün de yaşadıklarımdan sonra küfür etmemek için zor tutuyorum kendimi. vergisiydi, mafyasıydı herşeyiyle yalanı bin para dolandırıcı. baştaki böyle olunca sokaktaki de yüzsüz, hırsız olmuş lan. herkes göz göre göre seni düdüklemeye çalışıyor. kriz var işte daha ne bekliyorsunuz ki!!!...
   entry_writer: yine tek mactan yatan adam
 - entry_name: |
     sigara içmeyi çekici kılan dizi karakterleri
@@ -176,12 +164,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=ctrl%2bf">ctrl+f</a>)<br/><br/>yemin ediyorum bazen kitapta okuduğum yeri şaşırınca ctrl'yi aramıyorum değil.<br/>sadece kitap da değil, bulunması kafa yoran herşeye deva olurdu resmen..<br/><br/>bir de bazen çok özlediğim ve nerde olduğunu bilmediğim biri oluyor, hemen <a class="b" href="/?q=ctrl%2bf">ctrl+f</a> yapıp bulsam ne güzel olur.
   entry_writer: esracaa
-- entry_name: |
-    besyo öğrencisi kız poposu
-  entry_id: 54111834
-  entry_content: |
-    bir kız babası olarak bu başlığı açanın da, başlık altına aynı kafada entry döşeyenlerin de gelmişini geçmişini eşekler siksin. hepiniz tecavüzcü adayısınız. ben kızımı dışarıda yalnız başına nasıl bırakacağım ulan yavşaklar. bütün derdiniz meme, göt. annenizin götünü düşünün bu başlıklara yazarken, belki insan olursunuz.
-  entry_writer: felita
 - entry_name: |
     18 ağustos 2015 davutoğlu'nun görevi iade etmesi
   entry_id: 54107579
@@ -246,7 +228,7 @@ data:
     beşiktaş
   entry_id: 54116087
   entry_content: |
-    yeniden çarklar dönüyor ve tüpçüler <a rel="nofollow" class="url" target="_blank" href="http://sampiy10.gazetevatan.com/ozzie-tore-yan-yana-bile-gelmedi-855068-super-lig-sampiy10-haber/" title="http://sampiy10.gazetevatan.com/ozzie-tore-yan-yana-bile-gelmedi-855068-super-lig-sampiy10-haber/">çalışıyor</a><br/><br/>bu da <a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CMreWuFUwAAp-Hp.jpg" title="https://pbs.twimg.com/media/CMreWuFUwAAp-Hp.jpg">bonus</a>
+    yeniden çarklar dönüyor ve tüpçüler <a rel="nofollow" class="url" target="_blank" href="http://sampiy10.gazetevatan.com/ozzie-tore-yan-yana-bile-gelmedi-855068-super-lig-sampiy10-haber/" title="http://sampiy10.gazetevatan.com/ozzie-tore-yan-yana-bile-gelmedi-855068-super-lig-sampiy10-haber/">çalışıyor</a><br/><br/>bu da <a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CMreWuFUwAAp-Hp.jpg" title="https://pbs.twimg.com/media/CMreWuFUwAAp-Hp.jpg">bonus</a><br/><br/>debeye özel bonus premium: <br/><br/><a class="b" href="/entry/43447688">#43447688</a><br/><br/><a class="b" href="/entry/52767265">#52767265</a>
   entry_writer: skender
 - entry_name: |
     kanzuk abi ve ssg abi'ye selamlar gönderiyorum
