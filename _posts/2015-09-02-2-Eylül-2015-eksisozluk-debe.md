@@ -1,0 +1,305 @@
+---
+layout: post
+title: 2 Eylül 2015 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    1995 yılında doğan efsanevi nesil
+  entry_id: 54467016
+  entry_content: |
+    abov, siyasi farkındalık vs. diyip 87 doğumlu sevgiliye sahip olmakla övünen insanların dahil olduğu nesildir. <br/><br/>not: 94
+  entry_writer: speed
+- entry_name: |
+    1 eylül 2015 kenya ile vizelerin kaldırılması
+  entry_id: 54476462
+  entry_content: |
+    artık ucuza gidip rahatca ebola olabiliriz.
+  entry_writer: jaymz for dudes
+- entry_name: |
+    yeni google logosu
+  entry_id: 54472657
+  entry_content: |
+    ben olacakları şimdiden yazayım.<br/><br/>- biri gelecek, ben beğenmedim diyecek.<br/><br/>-sonra başka biri gelecek "sen bu logoyu nasıl beğenmezsin? adamlar şu kadar paraya şu şirkete yaptırdı. cahil, bilmiyorsan sus" diyecek.<br/><br/>-sonra öteki gelecek "bana ne kardeşim ne kadar para harcadılarsa? ben beğenmedim, benim için bitti" diyecek.<br/><br/>2. ve 3. adımlar kendilerini tekrar ederek başlıkta, sonsuz bir döngüye girecek.
+  entry_writer: wazzap
+- entry_name: |
+    hilal kaplan
+  entry_id: 54464299
+  entry_content: |
+    <a rel="nofollow" class="url" target="_blank" href="http://www.yenisafak.com/yazarlar/hilalkaplan/istiklal-savasi-ve-sakallilar-33842" title="http://www.yenisafak.com/yazarlar/hilalkaplan/istiklal-savasi-ve-sakallilar-33842">http://www.yenisafak.com/…avasi-ve-sakallilar-33842</a><br/><br/>şu cahilce yazısına yönelik kişisel meselelere hiç girmeden sadece bilgi maksatlı yazayım: birinci ve ikinci inönü muharebelerinin bu şekilde adlandırılma sebebi eskişehir'in inönü ilçesinde geçmesinden kaynaklanmaktadır. yani bu bağlamda istanbul, ankara, izmir vs. gibi bir yer ismidir. zira o dönem soyadı kanunu da olmadığı için ordunun başındaki isim "<a class="b" href="/?q=ismet+in%c3%b6n%c3%bc">ismet inönü</a>" değil "<a class="b" href="/?q=ismet+bey">ismet bey</a>"dir. <br/><br/>acaba komutan ismet bey eskişehir'in inönü ilçesinde meydana gelmiş bu savaşlarda üstün bir başarı gösterdiği için 13 sene sonra soyadı kanunu çıktığında inönü soyadını almış olabilir mi? <br/><br/>hmm... <br/><br/>dumlupınar meydan muharebesi, diğer adıyla başkomutanlık meydan muharabesinin bu şekilde isimlendirilme sebebi de dumlupınar'da geçmesine ek olarak başkomutan mustafa kemal paşanın karargahta takılmayıp bizzat savaşta yer almasıdır. mesela başkomutan tayyip de sarayında brifing alacağına bizzat tanklarla sınırı geçseydi <a class="b" href="/?q=%c5%9fah-f%c4%b1rat">şah-fırat</a> yerine gayet de <a class="b" href="/?q=tayyip+operasyonu">tayyip operasyonu</a> denilebilirdi. <br/><br/>not: çok daha ağır bir yazı yazmak isterdim ama neyse... bunlar da köşe yazarı işte.
+  entry_writer: vercingetorixxi
+- entry_name: |
+    6 saat ömür kalsa yapılacaklar
+  entry_id: 54473373
+  entry_content: |
+    pizza sölerim.pahalı diye sürekli erteliyorum.
+  entry_writer: kronikdepresifelvira
+- entry_name: |
+    1 eylül 2015 ipek grubu'na polis operasyonu
+  entry_id: 54459894
+  entry_content: |
+    fuatavni nin hala saray icerisinde cok etkin oldugunun ispati niteligindeki operasyondur
+  entry_writer: duygusalrasyonalist
+- entry_name: |
+    rte'nin kabristanına alternatif isimler
+  entry_id: 54466919
+  entry_content: |
+    (bkz: <a class="b" href="/?q=a%c4%9fao%c4%9flu+my+grave">ağaoğlu my grave</a>)
+  entry_writer: jfn
+- entry_name: |
+    alanya'da darp edilen 22 yaşındaki kübra
+  entry_id: 54473480
+  entry_content: |
+    türk kadını niye dayak yiyor, aile içi şiddet nasıl önlenir diye araştırma falan yapıyorlar ya. <br/>hiç gerek yok gel şunu oku yeter.<br/><br/>"ben yine de tüm yalanlarına rağmen, uyuşturucu kullanmana rağmen, sinir hastası olup, daha önce defalarca hastanede yatmana rağmen, sana sırt çevirmedim. kalacak bir evin yoktu, paran yoktu, işin yoktu, elbiselerin yoktu, bir ailen yoktu. cezaevine girdin ve çıktın, kışın ortasında kalacak bir yerin olmadığı için almanya'dan geldim"<br/><br/>- uyuşturucu <br/>- sinir hastalığı <br/>- hastanede yatma<br/>- aşırı fakirlik<br/>- cezaevi<br/><br/>ee sen niye almanyadan geldin bacım? dayak ihtiyacın falan mı vardı.<br/>böyle tiplere yüz verip sonra da papatya falan mı bekliyorsunuz anlamıyorum ki. <br/><br/>edit: verdiğim tavsiyeyi sildim.<br/>nolur nolmaz, canı sıkılan bi savcı "aha kıza tavsiye verdi" diye tutar bana ceza falan verir uğraşamam şahsen.
+  entry_writer: divit
+- entry_name: |
+    heke emperyalizm heye aşti nine
+  entry_id: 54462141
+  entry_content: |
+    (bkz: <a class="b" href="/?q=qweqweqwe">qweqweqwe</a>)<br/><br/>debedit: bilenleriniz, denk gelenleriniz vardır, bir süredir burada paylaşıyorum; ben <a rel="nofollow" class="url" target="_blank" href="http://efsanecubuklu.com/" title="http://efsanecubuklu.com/">efsanecubuklu.com</a> diye bir web sitesi kurdum, dünya çapındaki forma kültürü ile ilgili yazılar yazıyorum. aynı zamanda <a rel="nofollow" class="url" target="_blank" href="http://twitter.com/efsanecubuklu01" title="http://twitter.com/efsanecubuklu01">twitter</a>'da da güncel forma haberleri paylaşıyorum. bekleriz, twitter'dan takip ederek ve paylaşarak maksimum destek verebilirsiniz. teşekkürler.<br/><br/>web sitesi: <a rel="nofollow" class="url" target="_blank" href="http://efsanecubuklu.com/" title="http://efsanecubuklu.com/">efsanecubuklu.com</a><br/>twitter: <a rel="nofollow" class="url" target="_blank" href="http://twitter.com/efsanecubuklu01" title="http://twitter.com/efsanecubuklu01">efsanecubuklu01</a>
+  entry_writer: filth01
+- entry_name: |
+    atakan'a playstation 4 alıyoruz kampanyası
+  entry_id: 54471821
+  entry_content: |
+    (bkz: <a class="b" href="/?q=atakan+seni+sikecegim+arslanim">atakan seni sikecegim arslanim</a>)
+  entry_writer: intel i7
+- entry_name: |
+    davutoğlu'nun türkeş'in kabrini ziyaret etmesi
+  entry_id: 54467280
+  entry_content: |
+    tarihe not düşülsün; bir bilemedin iki yıl sonra ülkücüleri ve hareket içindeki öne çıkmış isimleri, kendileriyle işleri bittiği için ya sümüklü mendil gibi çöpe fırlatacak ya da haklarında dava ve soruşturma açtırtarak içeri atacak bir siyasi partinin zemin hazırlama amacıyla attığı pek siyasi hamlesi.
+  entry_writer: dante
+- entry_name: |
+    emrah serbes
+  entry_id: 54469485
+  entry_content: |
+    bukowski olayım derken ergen olan. amk yerinde bir kişi de övgü alınca sapıtmasın.
+  entry_writer: orhangencebak
+- entry_name: |
+    1 eylül 2015 otomotiv zammı
+  entry_id: 54469546
+  entry_content: |
+    sen istiyor tok kapı sesi, verecek 5 bin daha.
+  entry_writer: web kamerasiyla yayin yapan tv
+- entry_name: |
+    rte'nin aile saadetini gösteren fotoğraf
+  entry_id: 54461954
+  entry_content: |
+    bazen hoşuma giden şeyler oluyor. mesela ne söyesen gg olacak bir konu. gelir adamı evden alırlar. 10 saat karakollarda süründürürler. bazen konusmasan da milyonlarca düşündaşının oldugunu biliyorsun ya işte bu çok hoş bir duygu. sayfalarca yazmana gerek de kalmıyor hem. <br/><br/>30 agustos aksaray daveti fotograflarıdır.
+  entry_writer: bak suraya yaziyorum
+- entry_name: |
+    izlandalıların suriyeli mültecilere evini açması
+  entry_id: 54472746
+  entry_content: |
+    (bkz: <a class="b" href="/?q=do+not+belive+them+they+will+fuck+you">do not belive them they will fuck you</a>)
+  entry_writer: biyolojik saat tamircisi
+- entry_name: |
+    canlı yayında rakı içilen efsanevi dönem
+  entry_id: 54460157
+  entry_content: |
+    <a class="b" href="/?q=mustafa+keser">mustafa keser</a> abimizin, <a class="b" href="/?q=hbb">hbb</a> kanalında "alööööööööğğğ" nidalarıyla istek alıp, rakısını yudumlayıp, döktürdüğü dönemlerdi. böyle renkli mendilini sallardı.. <a class="b" href="/?q=liseliler+bilmez">liseliler bilmez</a>. hey yavrum heyy.
+  entry_writer: 1000 tb arsivim var benim
+- entry_name: |
+    pkk'nın diyarbakır'da doktor katletmesi
+  entry_id: 54477634
+  entry_content: |
+    iki aydır örgütün ne yapmaya çalıştığını anlamaya çalışıyorum, çünkü en ufak bir şekilde rasyonel davranmıyor. dün bir arkadaşla da konuştuk, pkk bir güç zehirlenmesi yaşıyor. bölgede halk nezdinde sahip olduğu itibar ve meşruiyetten dolayı gitgide irrasyonelleşiyor, devlet de uyguladığı politikalarla bunun önünü açmaktan başka bir şey yapmıyor. en büyük zararı da hdp'ye veriyor. parti bu kadar muazzam bir ivme yakalamışken, önü de açıkken, yapılabilecek en saçma şeyi yapıyor.<br/><br/>pkk kürtler ve türkler için hayırlı bir şey yapmak istiyorsa, acilen, amasız fakatsız bir şekilde silah bırakmalıdır, tek taraflı ateşkes ilan etmelidir. hele ki sivillere saldırı hiçbir şekilde kabul edilemez. "devlet üstüme geliyor, karşılık vermeyeyim mi?" evet verme, saklan, kaç, ne yaparsan yap ama misilleme eylemi yapma, yol kesip ardından kaçan arabayı tarayamazsın, böyle saçmalık olamaz. eğer barış istiyorsan, gerçekten silahsız çözüm istiyorsan, bunu bütün dünyaya en iyi bu şekilde, devlet üzerine geldiği halde karşılık vermeyerek gösterebilirsin, o zaman devlet de eninde sonunda durmak zorunda, çünkü artık 90'larda değiliz, türkiye toplumu bu savaşın meşruiyetini artık daha fazla sorguluyor. artık pkk kendisini geri çekmeli, hdp'nin önünü açmalıdır, belli ki maalesef buna pek hevesli değil. eğer akp yeniden tek başına iktidar olursa, bunun en büyük sorumlularından biri pkk olacaktır.<br/><br/>aylardır sözlükte anlatmaya çalıştığım şey de bu: bu savaşı bitirebilecek olan tek güç hdp'dir, çözüm de hdp'nin daha fazla güçlenmesinden, daha fazla söz sahibi olmasından geçiyor.
+  entry_writer: maarri
+- entry_name: |
+    kızlardaki master ve doktora yapma merakı
+  entry_id: 54463193
+  entry_content: |
+    çok ayıp ve kültürüne, vatanına ihanet eden bir merak. hufff kızlar çok ayıp ediyorsunuz!!<br/><br/>ne masterı kızlar, ne doktorası? sen kızsın ya, bir kız en fazla 23 yaşında, daha gözü açılmadan, en geç 17:30'da evinde olabileceği, geri kalan tüm vaktini kocasına, çocuklarına, evine, mutfağına, eltisine, görümcesine filan adayabileceği bir meslek sahibi olup, hayatın tadını yeterince çıkarmış (yani türkiye şartlarında birkaç cinsel münasebette bulunmuş) ve şimdi dairesi, arabası olan erkeğin <a class="b" href="/?q=evlenilecek+kad%c4%b1n">evlenilecek kadın</a>ı, yemekli düğününün piremsesi olmak, yaz tatillerinde kocası havuz kenarında rus turisti keserken odada 2 yaşındaki eymen mira'yı uyutmaya çalışmak yerine master yapmayı, daha çok okumayı, bilmeyi filan seçer, inanın anlamıyorum kızlar. <br/>hele evli olduğu halde böyle şeylere merak salanlara ne demeli? evine ve kocana adaman gereken vakitlerini mastera doktoraya adayıp evlilik müessesesinin temelini sarstığının farkında mısın? tam tez jürinin olduğu gün kaynananın altın günü vardı ve sen oraya gidemeyip o kadının gönlünde yara açtın, gelini fır fır her işi yapan fitnat'a filan rezil oldu. <br/>zaten sultanbeyli belediyesi kültür merkezine dönüşen şu güzide kutsal bilgi kaynağında da belirtildiği gibi "her yerde olduğu gibi kızlara akademik kariyerde de yardımcı olmak isteyecek bi dünya erkek hoca var", hocalara vere vere master yapıyorsunuz işte adiler, evinin kadını olmak varken doktor olmayı seçiyorsunuz pislikler, sonra kendine ait 2 dairesi ve vw polo arabası olan adamı bile beğenmiyorsunuz, triplere gidiyorsunuz, ne haddinize ya sizin kezbanlar!!!<br/><br/>asdsfgfds okuyun kızlar, ordinaryus olana kadar okuyun, kudursun cibiliyetine tükürdüklerim. hi haters bye.
+  entry_writer: isolde
+- entry_name: |
+    2015 eylül öğretmen ataması
+  entry_id: 54466028
+  entry_content: |
+    ortada şöyle bir hesap var<br/><br/>biyoloji+coğrafya+felsefe+fizik+kimya+psikoloji+tarih = 3044<br/><br/>din kültürü ve ahlak bilgisi = 3819<br/><br/>arkadaşlar bu nedir biliyor musunuz ? bir trajedidir. yaşadığımız bu ülkede skolastik düşüncenin hakim olduğunun göstergesidir. bu duruma öğretmenlerin değil öncelikle toplumun ve bu toplumun aydınlarının ( ya da öyle adlandırılanların) ses çıkarması gerekir. herkesin başını ellerinin arasına alıp bir düşünmesi lazım ne oluyoruz lan biz diye. çıkıp televizyonlarda koalisyon mu olur azınlık mı diye tartışacaklarına, ışid pkk analizleri yapacaklarına bunu tartışsınlar.
+  entry_writer: hatrimkalir
+- entry_name: |
+    1 eylül 2015 realty world emlak rezaleti
+  entry_id: 54461279
+  entry_content: |
+    bence burada kilit isim <a class="b" href="/?q=abdurrahman+abi">abdurrahman abi</a>. önemli bir şahıs gibi bahsedilmiş başta ama hiç sesi soluğu çıkmıyor. bir de getir götür işlerine koşturuluyor. kübra'yla parayı kırışıyor olabilir.
+  entry_writer: mybsmdy
+- entry_name: |
+    booking.com
+  entry_id: 54461405
+  entry_content: |
+    tarih ocak 2015. hanımla dedik ki kapadokya bu mevsimde çok güzeldir, gidelim şöyle güzel bir mağara otelde kalalım, şöminemizi yakalım şarap içelim. dışarıda kar, şömine, şarap... şahane. hemen booking.com'a girdim, kapadokya'daki otelleri araştırdım ve çok tatlı bir otel buldum. istediğim her şey var (şömine vs). ancak geri ödemesiz seçenekleri vardı sadece. neyse dedim, aldım. nasıl olsa gidecektik. rezervasyonu yaparken de - artık nereden aklıma geldiyse - şöyle bir not düştüm: <br/><br/>"yakılabilen bir şömineniz olduğunu düşünerek rezervasyon yaptım, bu konuda sorun yaşamak istemiyorum"<br/><br/>10 dk. sonra aradılar ve aramızda şöyle bir diyalog geçti: <br/><br/>otel: efendim maalesef bizim şöminelerimiz dekoratif amaçlı, yakamayız. <br/>ben: ama resimlere koymuşsunuz, şömine yanmıyorsa kışın neden kapadokya'ya gideyim ki ben?<br/>o: haklısınız. iade seçeneği yok ama isterseniz iptal edebiliriz. <br/>b: e lütfen öyle yapın, ben de şöminesi yanan başka bir otel bulayım.<br/>o: efendim siz başka bir otel bulduğunuz zaman bize dönün, iptal işlemlerini yapalım.<br/>b: tamam size dönecem, teşekkürler. <br/><br/>buraya kadar sorun yok. iade seçeneği olmamasına rağmen, iade yapacaklarını söylediler. çünkü şömineleri yanmıyor ve ben kışın ortasında kapadokya'ya gidiyorsam, o siktiğimin şöminesini yakıp, karşısında şarap içmek için gidiyorum.<br/><br/>hemen tekrar araştırdım, şöminesi adam gibi yanan güzel bir otel buldum. adamları aradım sordum, her şeyin tam olarak istediğim gibi olduğunu öğrendim ve yine booking.com üzerinden - bu sefer iade seçenekli - rezervasyonumu yaptım. ve ilk yaptığım rezervasyonu iptal etmek için de diğer oteli tekrar aradım. <br/><br/>b: merhabalar, ben başka otel buldum, rezervasyon da yaptım. otelinizden yaptığım rezervasyonu iptal edebilir miyiz?<br/>o: hemen kontrol ediyorum efendim.<br/>b: ...<br/>o: ama efendim siz iade seçeneği olmayan rezervasyonu seçmişsiniz.<br/>b: evet zaten bunu biliyordunuz. ayrıca başka seçenek de yoktu oteliniz için.<br/>o: ancak bu şekilde maalesef iade yapamıyoruz. <br/>b: ama yapabileceğinizi söylemiştiniz. <br/>o: yapamayız efendim, öyle bir imkanımız yok.<br/>b: ama yanmayan şöminenin resmini koymuşsunuz. ben bu yüzden rezervasyon yaptım. <br/>o: resimlerde şöminenin yandığı görünmüyor efendim. <br/>b: !!! tamam. o zaman ben booking.com'la görüşeyim.<br/>o: (inanmayarak) tabi efendim siz e-mail atın onlara. <br/>b: yok ben direk arıyorum bu gibi durumlarda. teşekkür ederim iyi günler.<br/><br/>booking.com'u aradım. müşteri temsilcisine durumu anlattım. adam "lütfen hatta bekleyin oteli arıyorum" dedi. en fazla 4 dk bekledim. "müşteri olarak sizi haklı bulduk ve rezervasyonunuzu iptal ettik, herhangi bir ceza ödemeyeceksiniz. otel, yanıltıcı resimler kullandığı için haklısınız" dedi. teşekkür ettim ve kapattım.<br/><br/>booking.com bütün rezervasyonlarımı yaptığım, gelecekte de iki kat fazla fiyat verse bile bütün rezervasyonlarımı yapacağım site. müşteriyi otele karşı, gerektiği zaman ise oteli müşteriye karşı koruyarak bir nevi hakemlik yapıyor. <br/><br/>türkiye gibi şerefsiz ve ahlaksız binlerce esnafın, turizmcinin olduğu bir ülkede, 10 kat fazla fiyat verse bile, mağdur olmamak için kullanmanızı tavsiye ederim.
+  entry_writer: duke leto
+- entry_name: |
+    30'luk çıtır bekar sözlük hatunu
+  entry_id: 54475321
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bakt%c4%b1+s%c3%b6zl%c3%bckte+30%27luk+%c3%a7ok">baktı sözlükte 30'luk çok</a>)
+  entry_writer: nina simone
+- entry_name: |
+    kasım 2015 akp'nin vekil sayısını düşürecek formül
+  entry_id: 54466411
+  entry_content: |
+    yazılanlardan anladığımız kadarıyla hemen herkes oyunu mhp'ye atsin ,akp'nin vekili azalsin diyorlar. cok mantıklı özellikle meclis başkanlığını tekrar akp kazanması için elzemdir. ayrica hiçbir koalisyonun kabul etmemesi için de mhp'nin vekil sayisi artmalı. tabi bir de hdp'yi olsun chp'yi olsun terörist ilan etmesi için kesinlikle artmali. akp kadar nefret söylemi geliştirdi için kesin kez artmali. <br/><br/>hatta hesap yapmayalım, direkt bu marifetlerinin ödülü olarak hepimiz oy verelim bu partiye.<br/><br/>akp çok kötü ama mhp ondan azıcık bile daha iyi değil.
+  entry_writer: nasil yani tabi tabi nasil yani
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id: 54459498
+  entry_content: |
+    yaklaşık iki dakika uzunluğunda kısa kısa ufuk açıcı videolar. konuşma veya anlatım içeren tüm videolar türkçe dublajdır.<br/><br/>2 dakikada tarihteki büyük devletlerin kronolojik <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=9hco0tmoDLI" title="https://www.youtube.com/watch?v=9hco0tmoDLI">sınırları</a>. <br/>yine sadece 2 dakikada 5000 yıllık dünya <a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x2hyea3" title="http://www.dailymotion.com/video/x2hyea3">tarihi</a>.<br/><br/>5 dakikada istanbul'un kentsel dönüşüm <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=_OQ7RHP2y1s#t=1m6s" title="https://www.youtube.com/watch?v=_OQ7RHP2y1s#t=1m6s">tarihi</a>. <br/>2 dakikada facebook'un kuruluşu. <a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x2n1ft6" title="http://www.dailymotion.com/video/x2n1ft6">facemash'den facebook'a</a><br/><br/>90 saniyede <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=T6gYwxdFmpc" title="https://www.youtube.com/watch?v=T6gYwxdFmpc">yunanistan krizi</a> (türkçe altyazı)<br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=Ki6OqscC61E" title="https://www.youtube.com/watch?v=Ki6OqscC61E">dünya neden dönüyor?</a> <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=jOrYx8o9uIo" title="https://www.youtube.com/watch?v=jOrYx8o9uIo">böcekler neden ışığa doğru uçarlar?</a> <br/><br/>borsada iniş çıkışlar: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=aCa-48OsObM" title="https://www.youtube.com/watch?v=aCa-48OsObM">https://www.youtube.com/watch?v=aca-48osobm</a><br/><br/>dünya'nın boyutlarının gezegen ve yıldızlarla <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vfQDdIcwpFo" title="https://www.youtube.com/watch?v=vfQDdIcwpFo">karşılaştırması</a><br/>futbol nasıl bulundu? asya hun devleti'nden başlayarak. <a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x2n1ftd" title="http://www.dailymotion.com/video/x2n1ftd">2 dk</a>.<br/>israil ve filistin <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=FoPz4lhzPIM" title="https://www.youtube.com/watch?v=FoPz4lhzPIM">tarihi</a> (türkçe altyazı. 6 dk.)<br/><a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x1r4djm_kan-kartali-bir-viking-idam-yontemi_tv" title="http://www.dailymotion.com/video/x1r4djm_kan-kartali-bir-viking-idam-yontemi_tv">kan kartalı.</a> vikinglerde uygulanan vahşi bir idam yöntemi. <br/>tüy ve bowling topunun havasız ortamda serbest düşüşü. ortam havasız olduğundan sürtünme yok ve tüy ile bowling topu aynı anda düşüyor. <a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x30q612" title="http://www.dailymotion.com/video/x30q612">buyurunuz.</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=rAU3vX7giRg" title="https://www.youtube.com/watch?v=rAU3vX7giRg">bir çam ağacı ne kadar ısı yayar?</a> 100 değil, 200 değil.... <br/>deniz mili ölçü sitemyle alakalı <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=eMWyuvqczLg" title="https://www.youtube.com/watch?v=eMWyuvqczLg">pek çok şey.</a> <br/><br/>ay çöreğinin <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=7UaNlNELzhs" title="https://www.youtube.com/watch?v=7UaNlNELzhs">tarihi</a> <br/>uzayın derinliklerinden çekilmiş bir kamerayla <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=lNwWOul4i9Y" title="https://www.youtube.com/watch?v=lNwWOul4i9Y">dünya'nın 6 ayı</a>. <br/>iki dakikada özgürlük kulesinin <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=dkCg72tso1g" title="https://www.youtube.com/watch?v=dkCg72tso1g">yapılışı</a><br/><br/>alışveriş merkezi üzerine stadyum <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=YkOB1NxxajU" title="https://www.youtube.com/watch?v=YkOB1NxxajU">yapmak</a>.<br/>carl sagan'ın sesinden soğuk <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=36lPuvAk1NY" title="https://www.youtube.com/watch?v=36lPuvAk1NY">mavi nokta</a><br/><br/>bayrakların tarihi. 3'er, 5'er dakikalık videolar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=CRwH-AF8s7w" title="https://www.youtube.com/watch?v=CRwH-AF8s7w">yunanistan</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=SGj8CZ-pGUE" title="https://www.youtube.com/watch?v=SGj8CZ-pGUE">suudi arabistan</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WASJTrk_bVQ" title="https://www.youtube.com/watch?v=WASJTrk_bVQ">japonya</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=xCMUPUc0-jw" title="https://www.youtube.com/watch?v=xCMUPUc0-jw">ingiltere</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vtHdr0VpQxM" title="https://www.youtube.com/watch?v=vtHdr0VpQxM">venezuela</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=zvQwvBDcBMI" title="https://www.youtube.com/watch?v=zvQwvBDcBMI">belçika</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=Bvqso-oEVJU" title="https://www.youtube.com/watch?v=Bvqso-oEVJU">brezilya</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WqI-Q2cCeOk" title="https://www.youtube.com/watch?v=WqI-Q2cCeOk">italya</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=HvzEwV7wpI4" title="https://www.youtube.com/watch?v=HvzEwV7wpI4">iran</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=EZjAtC3qVJk" title="https://www.youtube.com/watch?v=EZjAtC3qVJk">malezya</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=4L6VxfzjoxI" title="https://www.youtube.com/watch?v=4L6VxfzjoxI">fransa</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=9oalG_vUXYc" title="https://www.youtube.com/watch?v=9oalG_vUXYc">almanya</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=1Sd9QCKWTlU" title="https://www.youtube.com/watch?v=1Sd9QCKWTlU">şili</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=RYZh2ToW2iQ" title="https://www.youtube.com/watch?v=RYZh2ToW2iQ">afganistan</a> <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=uH3SUA-bP7g" title="https://www.youtube.com/watch?v=uH3SUA-bP7g">rusya</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=gPER4X2Crsg" title="https://www.youtube.com/watch?v=gPER4X2Crsg">hindistan</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=Gk6a0xBde5U" title="https://www.youtube.com/watch?v=Gk6a0xBde5U">kuveyt</a> <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=c2ad3gAG_aU" title="https://www.youtube.com/watch?v=c2ad3gAG_aU">küba</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=rwtRPnjcH1s" title="https://www.youtube.com/watch?v=rwtRPnjcH1s">kuzey kore</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=JxkZzsH3jpI" title="https://www.youtube.com/watch?v=JxkZzsH3jpI">vietnam</a> <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=DtaJw6eCirg" title="https://www.youtube.com/watch?v=DtaJw6eCirg">isveç</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=uM8nMiBUjws" title="https://www.youtube.com/watch?v=uM8nMiBUjws">kanada</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=G4zjv_dZPmE" title="https://www.youtube.com/watch?v=G4zjv_dZPmE">somali</a> <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=ZbIzNYr8ksU" title="https://www.youtube.com/watch?v=ZbIzNYr8ksU">cezayir</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WzN4nFg9Krw" title="https://www.youtube.com/watch?v=WzN4nFg9Krw">pakistan</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=dw_nvCwY5MY" title="https://www.youtube.com/watch?v=dw_nvCwY5MY">güney afrika</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=VnC422QZEG0" title="https://www.youtube.com/watch?v=VnC422QZEG0">mısır</a> <br/>ve <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=tCvYe7G0CnA" title="https://www.youtube.com/watch?v=tCvYe7G0CnA">abd</a> <br/><br/>5000 yıllık <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=1cIlI5EtaB4" title="https://www.youtube.com/watch?v=1cIlI5EtaB4">dinler tarihi</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=lhYPPPimT5A" title="https://www.youtube.com/watch?v=lhYPPPimT5A">monetarizm teorisi</a> (türkçe altyazı)<br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=bJ9-L3tqW98" title="https://www.youtube.com/watch?v=bJ9-L3tqW98">anarko kapitalizm</a> (türkçe altyazı)<br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=IUcs44qRgzI" title="https://www.youtube.com/watch?v=IUcs44qRgzI">doğal haklar</a> (türkçe altyazı)<br/><br/>bakterilerden portre <a rel="nofollow" class="url" target="_blank" href="http://www.dailymotion.com/video/x2fwy2q" title="http://www.dailymotion.com/video/x2fwy2q">yapmak</a>.<br/><br/>3 dakikada tarih boyunca gerçekleşmiş tüm abd başkanlık seçimlerinde eyaletlerin <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=oEkhW8m7rdo" title="https://www.youtube.com/watch?v=oEkhW8m7rdo">tercihleri.</a><br/><br/>ülkeler bazında dünya'daki <a class="b" href="/?q=mcdonald%27s">mcdonald's</a> <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=lZI6_9cVbMo" title="https://www.youtube.com/watch?v=lZI6_9cVbMo">sayıları</a><br/><br/>dinazorların insan boyuyla <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=AzjjAqu1ycU&list=PL8WDfn06DASl7HrE65v_HCG4Dk9f-9PPA&index=14index=14" title="https://www.youtube.com/watch?v=AzjjAqu1ycU&list=PL8WDfn06DASl7HrE65v_HCG4Dk9f-9PPA&index=14index=14">mukayesesi</a> <br/><br/>hayvansal ürünlerin yapılış aşaması. sindirmesi gerçekten <a rel="nofollow" class="url" target="_blank" href="https://vimeo.com/73234721#embed" title="https://vimeo.com/73234721#embed">zor</a> (vimeo)<br/><br/>edit: yeni videolar eklendi.
+  entry_writer: immanuelkantinsaygidegerbiryakiini
+- entry_name: |
+    debe listesine girebilmenin tek yolu
+  entry_id: 54460114
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ikinci+entry">ikinci entry</a>)<br/>(bkz: <a class="b" href="/?q=oldu+mu+%c5%9fimdi+girdik+mi+debeye">oldu mu şimdi girdik mi debeye</a>)
+  entry_writer: islakhavluylakurulananadam
+- entry_name: |
+    galatasaray
+  entry_id: 54479352
+  entry_content: |
+    sözleşmeli futbolcu sayısı 40, kiralık gönderilen futbolcu sayısı 14 ve kadro 26 kişi.<br/><br/>2015-16 sezonu gelirler<br/><br/>10.900.000 € transfer geliri<br/><br/>500.000 € yandex <sup class="ab"><a title="(bkz: 2012-2013 sezonundan itibaren 5 yıllık)" href="/?q=2012-2013+sezonundan+itibaren+5+y%c4%b1ll%c4%b1k" data-query="2012-2013 sezonundan itibaren 5 yıllık">*</a></sup><br/>1.426.000 € denizbank <sup class="ab"><a title="(bkz: 2014-2017 4.278.000 €)" href="/?q=2014-2017+4.278.000+%e2%82%ac" data-query="2014-2017 4.278.000 €">*</a></sup><br/>1.500.000 € garenta sırt sponsoru<br/>1.625.000 € opel <sup class="ab"><a title="(bkz: 5+1 yıllık)" href="/?q=5%2b1+y%c4%b1ll%c4%b1k" data-query="5+1 yıllık">*</a></sup><br/>2.000.000 € odeabank tribünü isim sponsorluğu<br/>4.000.000 € opel tribünü isim sponsorluğu <sup class="ab"><a title="(bkz: +1 opsiyonu geçerli olması halinde)" href="/?q=%2b1+opsiyonu+ge%c3%a7erli+olmas%c4%b1+halinde" data-query="+1 opsiyonu geçerli olması halinde">*</a></sup><br/>7.075.000 € nike ürün sponsorluğu <sup class="ab"><a title="(bkz: 2014-2024 70.750.000 €)" href="/?q=2014-2024+70.750.000+%e2%82%ac" data-query="2014-2024 70.750.000 €">*</a></sup><br/>10.000.000 $ türk telekom stad isim hakkı <sup class="ab"><a title="(bkz: 2009-19 arası 100.000.000 $)" href="/?q=2009-19+aras%c4%b1+100.000.000+%24" data-query="2009-19 arası 100.000.000 $">*</a></sup><br/>12.000.000 € şampiyonlar ligi ayakbastı parası<br/><br/>tribün gelirleri<br/><br/>1 temmuz 2015 tarihi itibariyle satılan kombine sayısı 20.000'dir. bunlardan 17.000'i yenileme olarak satıldı.<br/>aynı tarihte 198 locadan sadece 4'ü boşta kalmıştı. localar aynı zamanda ofis olarak da kullanılıyor.<br/><br/>22.01.2014 tarihinde hazırlanıp gs.org'da yayınlanan loca, vıp ve kombine koltuk değer tespit raporunda projeksiyon dönemi boyunca <sup class="ab"><a title="(bkz: 2014-15/2029-30)" href="/?q=2014-15%2f2029-30" data-query="2014-15/2029-30">*</a></sup> gerçekleşecek tribün gelirleri öngörüleri<br/><br/>loca doluluğunun projeksiyon dönemi boyunca her sezon ortalama %96,2 oranında gerçekleşeceği varsayılmıştır. 2012-2013 sezonu doluluk oranı %95,6'dır.<br/>vıp koltuk doluluğunun projeksiyon dönemi boyunca her sezon ortalama %70,1 oranında gerçekleşeceği öngörülmüştür. 2012-2013 sezonu doluluk oranı %59,9'dur.<br/>kombine koltuklar doluluğunun projeksiyon dönemi boyunca her sezon ortalama %77,5 oranında gerçekleşeceği varsayılmıştır. 2012-2013 sezonu doluluk oranı %100'dür.<br/><br/>loca ortalama satış fiyatının projeksiyon dönemi boyunca her sezon 98.402 abd doları olarak gerçekleşeceği varsayılmıştır. 2013-2014 sezonu ortalama fiyatı 92.150 abd doları'dır.<br/>vıp koltuk ortalama satış fiyatının projeksiyon dönemi boyunca her sezon 5.548 abd doları olarak gerçekleşeceği varsayılmıştır. 2013-2014 sezonu ortalama fiyatı 5.665 abd doları'dır.<br/>kombine koltuklar ortalama satış fiyatının projeksiyon dönemi boyunca her sezon 627 abd doları olarak gerçekleşeceği varsayılmıştır. 2013-2014 sezonu ortalama fiyatı 644 abd doları'dır.<br/><br/>hesaplamalarda net gelirler esas alınmıştır. pazarlama-satış giderleri ve catering giderleri düşülerek galatasaray sportif'in elde edeceği net gelir hesaplanmıştır.<br/><br/>2014-15/2029-30 dönemlerinde galatasaray sportif'in türk telekom vip koltuk, kombine ve localardan elde edeceği net gelir 335,5 milyon abd doları olarak hesaplanmıştır.<br/>________________________________________________________________________________________<br/><br/>2015-16 sezonu giderler<br/><br/>42.855.000 € sporcu giderleri <sup class="ab"><a title="(bkz: maç başı hariç)" href="/?q=ma%c3%a7+ba%c5%9f%c4%b1+hari%c3%a7" data-query="maç başı hariç">*</a></sup><br/>7.917.500 € bonservis ve sözleşme fesih giderleri<br/>________________________________________________________________________________________<br/><br/>2014-15 sezonu gelirler<br/><br/>30.574.911 € sponsorluk, isim hakkı ve reklam gelirleri<br/>30.345.956 € yayın hakkı gelirleri<br/>16.373.529 € loca, kombine ve vıp satış geliri<br/>15.742.358 € uefa şampiyonlar ligi gelirleri<br/>10.409.419 € galatasaray mağazacılık'a devredilen kombine ve vıp haklarından elde edilen gelirler<br/>1.710.810 € sporcu kira ve yetiştirme gelirleri<br/><br/>toplam<br/><br/>2014-15: 106.874.552 €<br/><br/>2013-14: 84.072.886 €<br/><br/>2012-13: 75.913.267 €<br/><br/>2011-12: 69.707.252 €<br/><br/>2010-11: 40.941.615 €<br/><br/>2010-2015: 377.509.572 €<br/>________________________________________________________________________________________<br/><br/>2014-15 sezonu giderler<br/><br/>64.465.318 € sporcu ücretleri <br/>20.264.347 € amortisman ve itfa payı giderleri<br/>7.797.513 € loca, vıp ve kombine devir gideri <br/>7.070.752 € teknik direktör ve antrenör ücretleri <sup class="ab"><a title="(bkz: bacını sikiyim prandelli)" href="/?q=bac%c4%b1n%c4%b1+sikiyim+prandelli" data-query="bacını sikiyim prandelli">*</a></sup> <br/>4.999.647 € personel giderleri <br/>2.975.121 € müsabaka giderleri <br/>2.799.483 € sporcu ve teknik kadro menajer, kira ve diğer giderleri <br/>1.878.097 € deplasman ve kamp giderleri <br/>1.563.238 € spor malzemesi giderleri <br/>849.515 € futbolcu yetiştirme tazminatları <br/>6.328.127 € diğer giderler <sup class="ab"><a title="(bkz: nereye gittiği bilinmeyen gider)" href="/?q=nereye+gitti%c4%9fi+bilinmeyen+gider" data-query="nereye gittiği bilinmeyen gider">*</a></sup> <sup class="ab"><a title="(bkz: son 2 yılda 15 milyon euro bu şekilde gitmiş)" href="/?q=son+2+y%c4%b1lda+15+milyon+euro+bu+%c5%9fekilde+gitmi%c5%9f" data-query="son 2 yılda 15 milyon euro bu şekilde gitmiş">*</a></sup> <sup class="ab"><a title="(bkz: amk liselileri)" href="/?q=amk+liselileri" data-query="amk liselileri">*</a></sup><br/><br/>toplam<br/><br/>2014-15: 122.636.372 €<br/><br/>2013-14: 116.421.556 €<br/><br/>2012-13: 90.156.184 €<br/><br/>2011-12: 71.977.180 €<br/><br/>2010-11: 46.893.708 €<br/><br/>2010-2015: 448.085.000 €<br/>________________________________________________________________________________________<br/><br/>2015-16 sezonu garanti ücretleri ve sözleşme bitim tarihleri<br/><br/>4.500.000 € wesley sneijder - 2016<br/>3.300.000 € fernando muslera - 2018<br/>3.000.000 € lukas podolski - 2018<br/>2.800.000 € burak yılmaz - 2019<br/>2.800.000 € selçuk inan - 2019<br/>2.750.000 € hamit altıntop - 2016<br/>2.200.000 € aurelien chedjou - 2017<br/>1.850.000 € umut bulut - 2016 <sup class="ab"><a title="(bkz: +1 opsiyon)" href="/?q=%2b1+opsiyon" data-query="+1 opsiyon">*</a></sup><br/>1.850.000 € kevin grosskreutz - 2018<br/>1.700.000 € olcan adın - 2018<br/>1.600.000 € semih kaya - 2018<br/>1.450.000 € sabri sarıoğlu - 2016 <sup class="ab"><a title="(bkz: 4.800.000 tl)" href="/?q=4.800.000+tl" data-query="4.800.000 tl">*</a></sup><br/>1.300.000 € blerim dzemaili - 2017<br/>1.285.000 € tarık çamdal - 2019<br/>1.250.000 € hakan balta - 2016<br/>1.100.000 € armindo bruma - 2018<br/>1.050.000 € yasin öztekin - 2018<br/>900.000 € cenk gönen - 2018<br/>815.000 € jason denayer - 2016<br/>800.000 € jose rodriguez - 2019<br/>800.000 € koray günter - 2018<br/>720.000 € bilal kısa - 2017 <sup class="ab"><a title="(bkz: 2.407 500 tl)" href="/?q=2.407%2c500+tl" data-query="2.407 500 tl">*</a></sup><br/>700.000 € lionel carole - 2019<br/>600.000 € jem paul karacan - 2018<br/>550.000 € sinan gümüş - 2019<br/>450.000 € emre çolak - 2016 <sup class="ab"><a title="(bkz: 1.500.000 tl)" href="/?q=1.500.000+tl" data-query="1.500.000 tl">*</a></sup><br/>450.000 € lucas ontivero - 2018<br/>240.000 € eray işcan - 2018 <sup class="ab"><a title="(bkz: 800.000 tl)" href="/?q=800.000+tl" data-query="800.000 tl">*</a></sup><br/>45.000 € umut gündoğan - 2018<br/>ismail çipe'nin sözleşme detayları kap'a bildirilmedi.<br/><br/>toplam: 42.855.000 €<br/>________________________________________________________________________________________<br/><br/>gelirler<br/><br/>3.700.000 € felipe melo bonservis bedeli<br/>3.500.000 € amrabat bonservis bedeli<br/>1.900.000 € armindo bruma geçici transfer bedeli<br/>1.300.000 € alex telles geçici transfer bedeli. inter uefa'ya katılırsa +250.000 euro bonus.<br/>500.000 € furkan özçal geçici transfer bedeli<br/><br/>toplam: 10.900.000 €<br/><br/>giderler<br/><br/>2.500.000 € lukas podolski bonservis bedeli<br/>1.500.000 € lionel carole bonservis bedeli<br/>1.500.000 € kevin grosskreutz bonservis bedeli<br/>657.500 € felipe melo sözleşme fesih bedeli<br/>600.000 € cenk gönen bonservis bedeli<br/>600.000 € yekta kurtuluş sözleşme fesih bedeli<br/>435.000 € jason denayer kiralama bedeli<br/>75.000 € kaan baysal sözleşme fesih bedeli<br/>50.000 € jem paul karacan imza ücreti<br/><br/>toplam: 7.917.500 €<br/>________________________________________________________________________________________<br/><br/>kiralık gönderilenlerin yıllık ücretleri ve galatasaray'la olan sözleşmelerinin bittiği tarih<br/><br/>1.500.000 € alex telles. tüm ücretleri inter tarafından ödenecektir. 2018<br/>1.300.000 € salih dursun. tüm ücretleri trabzonspor tarafından ödenecektir. 2018<br/>1.100.000 € armindo bruma. tüm ücretleri galatasaray tarafından ödenecektir. 2018<br/>750.000 € sercan yıldırım. tüm ücretleri bursaspor tarafından ödenecektir. 2017<br/>800.000 € blerim dzemaili. maaşının 800.000 euro'luk kısmı genoa tarafından ödenecektir. 2017<br/>600.000 € furkan özçal. tüm ücretleri kayserispor tarafından ödenecektir. 2017<br/>450.000 € lucas ontivero. tüm ücretleri galatasaray tarafından ödenecektir. 2018<br/>275.000 € umut gündoğan. ücretinin 750 bin tl'lik kısmı şanlıurfaspor tarafından, 150 bin tl'lik kısmı galatasaray tarafından ödenecektir. 2018<br/>185.070 € endoğan adilli. maaşının 200.000 isviçre frangı'na karşılık gelen kısmı fc will 1900 tarafından ödenecektir. 2019<br/>140.000 tl oğuzhan kayar. tüm ücretleri gaziantepspor tarafından ödenecektir. 2017<br/>30.000 tl alperen uysal. tüm ücretleri gaziantepspor tarafından ödenecektir. 2017<br/>300.000 tl emrecan coşkun. tüm ücretleri alanyaspor tarafından ödenecektir. 2017<br/>berk ismail ünsal. tüm ücretleri girensunspor tarafından ödenecektir. sözleşme detaylarında yıllık garanti ücreti belirtilmemiş. 2017<br/>birhan vatansever. bergama belediyespor'a kiralandı. maaşının kim tarafından ödeneceği tıpkı bruma gibi kap bilriminde belirtilmemiş. ayrıca kendisiyle olan sözleşmemizin detayları da kap'a bildirilmedi.<br/>________________________________________________________________________________________<br/><br/>sözleşmesi fesih edilenler ve yıllık ücretleri<br/><br/>1.200.000 € dany nounkeu bonservisi karşılığında sözleşmesi fesih edildi.<br/>1.100.000 € yekta kurtuluş 600.000 € karşılığında sözleşmesi fesih edildi.<br/>175.000 € kaan baysal 75.000 € karşılığında sözleşmesi fesih edildi.<br/>ibrahim coşkun için kap'a bildirim yapılmadı.<br/>________________________________________________________________________________________<br/><br/>sözleşmesi biten futbolcular ve yıllık ücretleri<br/><br/>2.400.000 € goran pandev<br/>2.200.000 € emmanuel eboue<br/>1.300.000 € sinan bolat<br/>1.000.000 € aydın yılmaz<br/>1.000.000 € engin baytar<br/>700.000 € gökhan zan<br/>________________________________________________________________________________________<br/><br/>sözleşmesi bitenlerden, satılanlardan ve kiralananlardan elde edilen tasarruf<br/><br/>20.310.000 €<br/><br/>alınanlara ödenecek garanti ücret<br/><br/>9.385.000 €<br/>________________________________________________________________________________________<br/><br/>gelecek sezon sözleşmesi biten futbolcular ve yıllık ücretleri<br/><br/>2.750.000 € hamit altintop<br/>1.850.000 € umut bulut<br/>1.450.000 € sabri sarioglu<br/>1.250.000 € hakan balta<br/>750.000 € sercan yıldırım<br/>450.000 € emre colak<br/><br/>bu futbolcular ile sözleşme yenilenmediği takdirde gelecek yıl kulübün elde edeceği tasarruf 8.500.000 € <sup class="ab"><a title="(bkz: ibra parası)" href="/?q=ibra+paras%c4%b1" data-query="ibra parası">*</a></sup> <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>________________________________________________________________________________________<br/><br/>geçmiş dönemlere ait transferlere ilişkin gelir ve giderler<br/><br/>2015-16<br/>gider: 7.917.500 €<br/>gelir: 10.900.000 €<br/><br/>2014-15<br/>gider: 14.320.000 €<br/>gelir: 2.380.000 €<br/><br/>2013-14<br/>gider: 41.620.000 €<br/>gelir: 3.470.000 €<br/><br/>2012-13<br/>gider: 30.000.000 €<br/>gelir: 3.625.000 €<br/><br/>2011-12<br/>gider: 20.600.000 €<br/>gelir: 12.000.000 €<br/><br/>2010-11<br/>gider: 25.700.000 €<br/>gelir: 22.700.000 €<br/><br/>2010-2015<br/>gider: 140.157.500<br/>gelir: 55.075.000 €<br/>________________________________________________________________________________________<br/><br/>geçmiş dönemlere ait sporcu giderleri<br/><br/>2010-11: 27.366.640 €<br/>2011-12: 41.263.268 €<br/>2012-13: 53.863.819 €<br/>2013-14: 66.175.085 € <sup class="ab"><a title="(bkz: 3 yıl bunun üzerine çıkmayacağımızın sözünü verdik)" href="/?q=3+y%c4%b1l+bunun+%c3%bczerine+%c3%a7%c4%b1kmayaca%c4%9f%c4%b1m%c4%b1z%c4%b1n+s%c3%b6z%c3%bcn%c3%bc+verdik" data-query="3 yıl bunun üzerine çıkmayacağımızın sözünü verdik">*</a></sup><br/>2014-15: 64.465.318 €<br/><br/>2010-2015: 253.134.130 € <sup class="ab"><a title="(bkz: maç başı ücretler dahildir)" href="/?q=ma%c3%a7+ba%c5%9f%c4%b1+%c3%bccretler+dahildir" data-query="maç başı ücretler dahildir">*</a></sup><br/>________________________________________________________________________________________<br/><br/>teknik direktör giderleri<br/><br/>4.500.000 € fatih terim. <sup class="ab"><a title="(bkz: bonuslar hariç)" href="/?q=bonuslar+hari%c3%a7" data-query="bonuslar hariç">*</a></sup><br/>4.000.000 € roberto mancini <sup class="ab"><a title="(bkz: türkiye kupası bonusu 500.000 € dahil)" href="/?q=t%c3%bcrkiye+kupas%c4%b1+bonusu+500.000+%e2%82%ac+dahil" data-query="türkiye kupası bonusu 500.000 € dahil">*</a></sup> <br/>4.990.000 € cesarre prandelli <sup class="ab"><a title="(bkz: tazminatı 2.990.000 € dahil)" href="/?q=tazminat%c4%b1+2.990.000+%e2%82%ac+dahil" data-query="tazminatı 2.990.000 € dahil">*</a></sup> <sup class="ab"><a title="(bkz: bacılarını sikiyim prandelli)" href="/?q=bac%c4%b1lar%c4%b1n%c4%b1+sikiyim+prandelli" data-query="bacılarını sikiyim prandelli">*</a></sup><br/>750.000 € hamza hamzaoğlu <sup class="ab"><a title="(bkz: şampiyonluk ve türkiye kupası bonusları dahil)" href="/?q=%c5%9fampiyonluk+ve+t%c3%bcrkiye+kupas%c4%b1+bonuslar%c4%b1+dahil" data-query="şampiyonluk ve türkiye kupası bonusları dahil">*</a></sup><br/>________________________________________________________________________________________<br/><br/>sözleşme bitimlerine göre kulübün gelecek yıllardaki futbolcu ve teknik kadro giderleri<br/><br/>2016-17 futbol sezonu 90.039.764 tl<br/>2017-18 futbol sezonu 67.192.231 tl<br/>2018-19 futbol sezonu 25.617.213 tl<br/><br/>31 mayıs 2015'ten sonraki sözleşmeler bu tutarlara dahil değildir.<br/>________________________________________________________________________________________<br/><br/>kaynaklar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://sportif.galatasaray.org/35_bagimsiz-denetim-raporlari.aspx" title="http://sportif.galatasaray.org/35_bagimsiz-denetim-raporlari.aspx">http://sportif.galatasaray.org/…etim-raporlari.aspx</a><br/><a rel="nofollow" class="url" target="_blank" href="http://cdn1.galatasaray.org/files/sportif/LocaVipveKombineKoltukGelirleriDegerlemeRaporu-DenizYatirim.pdf" title="http://cdn1.galatasaray.org/files/sportif/LocaVipveKombineKoltukGelirleriDegerlemeRaporu-DenizYatirim.pdf">http://cdn1.galatasaray.org/…aporu-denizyatirim.pdf</a><br/>kap bildirimleri.
+  entry_writer: jeremiah johnson
+- entry_name: |
+    sex yapan kızın asıl amacı
+  entry_id: 54480346
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bunu+anana+sorsana+delikanli">bunu anana sorsana delikanli</a>)
+  entry_writer: bir de biz yazalim
+- entry_name: |
+    fuatavni
+  entry_id: 54460388
+  entry_content: |
+    bu herif veya herifler, kişi veya grup, her ne ise bu fuatavni, ilk vakitler fetocu bilmem necilere çalışıyor derken bugün farklı bir hale geldi sanki. tivitıra yazıyorlar, 3 güne kalmadan oluyor. iyidi güzeldi, vay anasını, neler dönüyormuş filan tepkisi veriyorduk. şimdi bakıyorum da, ya fuatavni yazmıştı zaten, diye normal karşılanıyor cereyan eden olaylar. iş öyle bir hal aldı ki, sanki fetocular yahut tayyibanlardan gerçekler değil de, milleti yapılacak operasyona hazırlamak gibi bir nevi halkla ilişkiler haber kanalına dönüşmüş gibi. bekliyoruz yani. alenen bekliyoruz. fuatavnide çıkmıştı bu, olunca "ha, o şey mi. ya onu fuatavnide okumuştuk, önceden biliyorduk zaten ya". hava durumu gibi bir şey oldu bu. akpye mi çalışıyor fetoculara mı, belli değil. bence bu hesap yarar değil, daha çok zarar. beyin uyuşturuyor. olacakları normal hale getirmeye hizmet ediyor.
+  entry_writer: virgo guy
+- entry_name: |
+    1 eylül 2015 ışid'ın türkiye'ye saldırısı
+  entry_id: 54473377
+  entry_content: |
+    ışid'in cami duvarına işediğini iddia edenleri gördüğümüz hadise. <br/><br/>cami duvarına işeyenler;<br/><br/>1-) ışid, suriye'deki süleyman şah türbesini işgal etti. o toprakları koruyamadık ve türbeyi korkaklar gibi buraya taşıdığımızı iddia ettik. bülent ecevit olsaydı, bırakın süleyman şah'ın türbesinin taşınmasını, suriye işgal bile edilemezdi. <br/><br/>2-) yunanistan 16 adamıza daha yeni el koydu. konu soru önergesi ile meclise taşındı ve "adalar fiilen bizimdir, üzerinde onlar oturuyor, ne var canım bunda", minvalinde açıklama yapıldı. <br/><br/>yukarıdaki olaylardan sonra hangi devlet seni ciddiye alıp da karşısına oturtur? sen türkiye olarak artık kukla bir devletsin, seni oynatırlarsa oynarsın, yoksa bir şey yapamazsın.
+  entry_writer: maniacteam
+- entry_name: |
+    yeni passat 2.0 tdi scr bmt 240 ps 4m dsg
+  entry_id: 54469836
+  entry_content: |
+    net fiyatı 87.857,72 tl<br/><br/>ötvsi 79.071,94 tl<br/>kdvsi 30.047,34 tl<br/>mtvsi 1.313,00 tl<br/>tescil ruhsat 234,40 tl + 275,60 tl<br/><br/>vergisinden ucuz araçtır. tabi bir de buna litresi 3.87 tl den içecek alacaksınız sürekli.<br/><br/>şeyi fark ettiniz mi yukarıdaki rakamlardan, tok kapı sesini.
+  entry_writer: g00dme
+- entry_name: |
+    nusr-et
+  entry_id: 54476039
+  entry_content: |
+    yurdum garip memleketinde övülüp övülüp bitirilemeyen etçi.<br/><br/>arjantin'de deniz kenarında açık büfe restorantta 30 tl'ye evet yanlış değil 30 tl'ye buradaki etlerin daha lezzzetlilerini açık büfe yani sınırsız yiyebilirsiniz. <br/><br/>uçak biletini 6 ay önceden al buenos aires'e. 1 hafta kal. her gün sıçana kadar et ye.<br/><br/>1 hafta hergün nusrette et yemekten 4 kat ucuza gelir.<br/>üstüne buenos aires gezisi ve tango gecesi.<br/><br/>düşünün bunu. vize de yok hem.
+  entry_writer: abbas isyanda
+- entry_name: |
+    işyerinde yapmak isteyip de yapılamayan şeyler
+  entry_id: 54462877
+  entry_content: |
+    5 saatlik iş verdikten 10 dakika sonra "ne durumda?" diye soran müdüre kafa atmak.
+  entry_writer: golan trevize
+- entry_name: |
+    kıbrıs'ı kurtaran ecevit değil erbakan'dır
+  entry_id: 54474430
+  entry_content: |
+    bir iddia. erbakan'in sag kolu oguzhan asiltürk'ün otobiyografisinde bahsediliyor:<br/><br/>"temmuz 1974. başbakan bülent ecevit dış temaslarda bulunmak ve biraz da ingilizce pratik amacıyla londra'da. görevini vekaleten koalisyon ortağı ve başbakan yardımcısı olan hocamıza bırakmıştı. yaz sıcağı gece geç saaatler olmasına rağmen ankara'yı da kavuruyordu. hocamızın odasında kendisi ve almanya gençlik kolları başkanımız süleyman mercümek ile oturuyorduk. süleyman almanya'dan getirdiği para sayma makinesini incelerken biz de hocamla islami fikir teatisinde bulunuyor idik. o zamana kadar laik düzenin aldatmacalarına alışmış başbakanlık binasının duvarları, bizlerin islami tartışmalarıyla adeta nurlanmış, parıl parıl parlıyorlardı.<br/><br/>o.a.- hocam, affınıza sığınarak ben o konuda size katılmıyorum.<br/>n.e.- aziz kardeşim neden katılmadığını da ben anlamıyorum. hadesten taharet normal abdest, necasetten taharet de gusul abdesti demek. nesi zor anlamadım.<br/>o.a. -bilmiyorum hocam, ben başka türlü hatır...<br/><br/>cümlemi tam bitiriyordum ki kapı sert bir biçimde çalındı ve içeri deniz kuvvetleri komutanı ihsan gedik yanında hocamızın emir subayı sırrı elitaş'la birlikte girdi. şaşırmıştık. normalde bir amiral ya da generalin gelişi önceden bildirilirdi. olağanüstü bir durum olduğunu anlamıştık ve zaten amiral gedik hemen konuya girdi:<br/><br/>i.g.: kıbrıs'ta durumlar çok kötü. bir an önce müdahale etmemiz gerekiyor.<br/>n.e.: benim böyle bir müdahaleye başbakan vekili olarak karar vermem yanlış olur. hemen sayın ecevit'e telgraf çekelim. süleyman, bırak şu makineyle oynamayı ve yaz:<br/><br/>"sayın ecevit eğer başbakan sen isen hükümetinin başına geç, eğer başbakan ben isem emrediyorum gel hükümetin başına geç."<br/><br/>amiral gedik hemen sert bir tonla:<br/><br/>-kıbrıs'taki soydaşlarımızın bunu bekleyecek zamanları yok, hemen müdehale gerekmekte! dedi.<br/>erbakan hocamiz şaşkındi, sordu:<br/><br/>- peki sizin öneriniz nedir sayın amiralım?<br/>-ivedilikle müdehale etmeliyiz. donanmamız hazır, emrinizi bekliyor, sizden tek beklediğimiz sadece bir emir verip, parolayı belirlemeniz.<br/><br/>erbakan hocamız bize bakıp 5 dakika müsade istedi. geldiğinde gözlerinde şimşekler çakıyordu.<br/><br/>n.e-derhal müdahale edilsin!<br/>i.g- emredersiniz efendim. parolayı ne uygun gördünüz?<br/>n.e- parolamız: "hz ayşe (ra) annemiz hicret etti" olacaktır.<br/>amiral şaşkındı.<br/>"ayşe tatile çıktı olsa olmuyor mu" diye sordu. erbakan mağrur ama bir okadar da resinakkaş:<br/><br/>"olsun!" <br/><br/>ne hazindir ki bu cesurca kararin kaymagini, o sirada konudan tamamen alakasiz olan ecevit yiyecekti."<br/><br/>son takkeli: asiltürk - oguzhan asiltürk, sf 41, fazilet yayinlari, 1995
+  entry_writer: cegevera
+- entry_name: |
+    vatan bilgisayar'ın önünde yazıcı kırmak
+  entry_id: 54465654
+  entry_content: |
+    aklıma bir anımı getirmiş hareket. zamanında ıvır zıvırcıda tezgahtarlık yapıyorum. kız çocukları için uyduruk plastik bir yüzük var. şimdinin parasıyla 1 tl felan işte. dayının biri bundan aldı, ertesi gün de sabah dükkan açılır açılmaz kapıda bitti. yüzük çocuğunun parmağına olmamış, parasını geri istiyor. ben de şirket politikamız gereği(bkz: <a class="b" href="/?q=swh">swh</a>):"para iadesi yapmıyoruz, isterseniz değiştirelim" demiş bulundum sabah mahmurluğu ile. halbuki 1 tl, ver gitsin. adam ufaktan renk değiştirdi: "bana bak", dedi,"ben dsi'de çalışıyorum. dsi'den 500 kişi getirir bu yüzüğü dükkanın önünde gırarım!". <br/><br/>bu dayınınki tabi öyle değil, daha mantıklı bir hareket.
+  entry_writer: insan haltlari
+- entry_name: |
+    2015 ekonomik krizi
+  entry_id: 54461523
+  entry_content: |
+    bir fabrikanın endüstriyel değeri, emlak değerinden düşükse o ülkedeki ekonomi krizde değil, çöküştedir.
+  entry_writer: reshad the lionheart
+- entry_name: |
+    bir şeyi çok istersen olur
+  entry_id: 54466269
+  entry_content: |
+    her gece sana dua ettim cocuk ben aylarca.<br/>her sabah seni dusunerek uyandım.<br/>kahve fallarını senin adınla kapattım.<br/>herkese senin ne kadar ozel oldugunu anlattım.<br/>bir donem o kadar inanmıstım ki bize, nasıl sevkle bizden bahsediyorsam etraftakileri de inandırmıstım, insanlar "bu adam senin alınyazın...." demeye baslamıslardı.<br/><br/>sonra ne oldu?<br/>birini kaybetmek istiyorsan onu cok sev diyen yazarı haklı cıkardın yalnızca.<br/>boyle banal bir sebepten olmadı.<br/><br/>simdi cok istersen olur diyenin kalbini kırarım....
+  entry_writer: tuzbuzz
+- entry_name: |
+    iç çamaşırını her gün değiştiren erkek
+  entry_id: 54473483
+  entry_content: |
+    ya ben normal değilim ya da sözlük yazarları kafayı yemiş dedirten erkektir. her gün değiştiriyorsa gerçekten temiz erkektir diyen mi ararsın, normali iki günde bir değiştirmektir ama havalar sıcaksa veya spor yapıldıysa mutlaka değiştirilmeli diyen mi ararsın? arkadaşlar kafayı mı yediniz? normal şartlar altında neden aynı iç çamaşırını bir günden fazla giyiyorsunuz? işini gücünü bitirirsin, evine gelirsin, üstündekileri kirliye atarsın, duşa girip çıkar ve temiz kıyafetler giyip yaşamına devam edersin.
+  entry_writer: pluchart
+- entry_name: |
+    abdullah biroğul
+  entry_id: 54465313
+  entry_content: |
+    dün katledildiğini öğrendiğim çocukluk arkadaşım. size kendisi hakkında bir kaç şey söyleyeyim. inanılmaz bir resim kabiliyeti vardı. okulun en başarılı öğrencisiydi. bin türlü serseriliğe bulaşan biz ona sigara içirtmeyi bile başaramadık. babası marangozdu, 5 ya da 6 kardeştiler ve hiç bir şeyleri yoktu. 5. sınıfta, dönemin diyarbakır valisi nafiz kayalı ara dönem karnemizi dağıtmaya geldiğinde bir yanlış anlamadan ötürü bana bir yağmurluk, mont ve çizme vermişti. valiye durumu izah edip bunları arkadaşıma vermek istediğimi söyledim. yağmura aldırış etmeden abdullahların evine koştum. dışarı çağırdım ve valinin verdiklerini, almak istemese de ona verdim. bayram için aldığı lacivert fitilli takım elbiseyi ortaokul bitene kadar giydi. yokluk içinde liseyi bitirdi. sonra tekrar görüştük ki cerrahpaşa tıp kazanmış. arada görüşüp eski günlerden konuşuyorduk. kısık sesli, saygılı, tanıdığım en efendi çocuktu. yeni doktor sayılır, tercihini memleketi diyarbakır'a yaptı ve kulp ilçesine hizmet etmeye gitti. bu çocuğun hikayesi öyle sikik romantizmle yazılmış gazete haberi değil. bu yoklukla sınanmış bir ailenin, imkansızlıkların, siyasi cinayetlerin arasında, bütün bunlardan sıyrılarak okuyup doktor olduğu abdullah'ın hikayesi. bugün ölüm haberini aldım. hayata daha yeni başladığı bu yaşında katledilmeyi hak etmemişti...
+  entry_writer: fidel castronun sapkasi
+- entry_name: |
+    şehirlerarası otobüs yolculuğu klişeleri
+  entry_id: 54473822
+  entry_content: |
+    <a class="b" href="/?q=bal%c4%b1kesir">balıkesir</a>'e varmaya 20 dakika kala <a class="b" href="/?q=susurluk">susurluk</a>'ta bir dinlenme tesisinde 30 dakika mola vermek.
+  entry_writer: uuuu
+- entry_name: |
+    bir insanı kaybetmek istiyorsanız çok sevin
+  entry_id: 54471886
+  entry_content: |
+    taktiklerden usanmadık mı? doğruluk, dürüstlük, samimiyet, cesaret ne çabuk bıraktı yerini bunlara. severim arkadaş. belli de ederim. gidecekse de siktirsin gitsin. <br/>yürek benim, hayat benim, acı benim..<br/>hesap kitaplı bir ömürdense, içten bir an yeter bana..
+  entry_writer: ortakahve
+- entry_name: |
+    120 bin $ geliri olup evlendirme programına çıkmak
+  entry_id: 54465529
+  entry_content: |
+    miktarı duyan <a class="b" href="/?q=seda+sayan">seda sayan</a>'ın "ulan neden daha önce söylemediniz ben alırdım adamı amk" bakışı attığı dayı.
+  entry_writer: coni depp
+- entry_name: |
+    ahmet altan
+  entry_id: 54479935
+  entry_content: |
+    kendisi gibi 2010 yılından önce akpyi savunmamak ahlaksızlıkmış bazı suserlara göre.<br/><br/>esas ahlaksız sizsiniz. hem de ahlaksızın en önde gidenlerisiniz. sanki akp'yi sevmeyen herkes darbeci, elitist, baykalcıymış gibi hala eski alışkanlıklarınızla manipülasyon yapıyorsunuz. bugünlerin yaşanmasında bu adam gibi sizlerin de payı var. o kopasıca elleriniz 2010'da evet demeseydi bugün hsyk ve yargı bu halde olmayacaktı. kuddusi okkırlar, ali ismailler hala yaşıyor olacaklardı.<br/><br/>malum zatın sümüklü mendilleri ne yaparsanız yapın o günahlarınızdan sıyrılamayacaksınız. her zaman islamcıdan demokrasi bekleyen salaklar olarak anılacaksınız.
+  entry_writer: goldencrab
+- entry_name: |
+    giuliano terraneo
+  entry_id: 54465249
+  entry_content: |
+    ilk defa para olmuyor fenerbahçe'de. <br/><br/>bu adamın görevi paranın efektif kullanımıdır. bunun gibi profesyoneller olmadığı zaman gider guiza'ya 17 milyon euro gömersin.
+  entry_writer: how to beat this goalkeeper today
+- entry_name: |
+    world cup 98
+  entry_id: 54469287
+  entry_content: |
+    amına koyim niye herkes bu kadar sinirli. hahahhajkshdashj adam bu özelliğini istediğini naif bir şekilde dile getirmiş, sen niye sinirlendin anana mı sövdüler ya hahahaha.<br/><br/>hiç oynamadığım oyun, 2002 dünya kupasına yetişmiştik, süper alevli şut vardı aşşırı iyiydi.
+  entry_writer: littleiv
+- entry_name: |
+    sözcü susarsa türkiye susar
+  entry_id: 54460034
+  entry_content: |
+    akitin onca hedef göstermesine, insanları fişlemesine rağmen kapatılmak istenen sözcü ise bu siyasi bir hareket demektir. <br/><br/>fuatavni muhalif basın seçim öncesinde susturulacak demişti. sessiz kalmamak sahip çıkmak gerek. <br/>not: bak buraya yazıyorum, başkan olamayacaksın.
+  entry_writer: voltranin sag kolu
+- entry_name: |
+    kpss 2015
+  entry_id: 54463762
+  entry_content: |
+    kontenjanların bu sene de adil bir şekilde dağıtılmadığı sınav. din kültürüne yine 3 bin 800 vermişler onun bunun çocukları. allah belanızı versin. öğretmenken terörist yapacaklar beni en sonunda o olacak. gece gündüz götümden terler akana kadar çalıştığım zamana yazık. en çok da ders çalışırken babamın getirdiği mandalinaya ayıp oldu. ben ne dicem lan şimdi mandalinaya. bundan sonra da kpss'ye çalışanı miksinler.
+  entry_writer: balkanlar uzerinden gelen alcak basinc
+- entry_name: |
+    grup seks
+  entry_id: 54468871
+  entry_content: |
+    türkiye'nin böbrek ihtiyacının %2.456'sını karşılayan seks türü.
+  entry_writer: carl zeiss jena
+- entry_name: |
+    ekşi itiraf
+  entry_id: 54469835
+  entry_content: |
+    kaynanamın kopyasını doğurdum. ne menem bir gen ise görümcem de 3 yıl önce bir kopya doğurmuş. bilimkurgu filminin içinde gibiyim. dünya küçük kaynanamlarla dolacak.
+  entry_writer: klytaimnestra
+- entry_name: |
+    lgbti'lerin iyi insanlar olduğu gerçeği
+  entry_id: 54474084
+  entry_content: |
+    butun genellemeler gibi yanlistir. cigeri bes para etmez bir suru gay taniyorum. boyle sacma sapan sempatilerle gelmeyin<br/><br/>pesin not: gayim
+  entry_writer: evanart
+- entry_name: |
+    mykonos
+  entry_id: 54463339
+  entry_content: |
+    nişanlısıyla tatile gidenlerin lut kavminin mevcut hali olmakla suçlanan tatil şeysi. demezler mi madem bu kadar hassassın, evli olmadığın adamla/kadınla ne işin var tatilde?
+  entry_writer: notus gladyus
+---
