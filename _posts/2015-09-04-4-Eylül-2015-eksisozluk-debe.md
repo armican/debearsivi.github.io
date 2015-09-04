@@ -24,7 +24,7 @@ data:
     starbucks reserve
   entry_id: 54512435
   entry_content: |
-    daha önce leğende yıkanmış olanlar buradan mocha alamayacakmış. öyle bir detektör getirmişler.
+    daha önce leğende yıkanmış olanlar buradan mocha alamayacakmış. öyle bir detektör getirmişler.<br/><br/>edit, imla.<br/><br/>(bkz: <a class="b" href="/?q=dedekt%c3%b6r">dedektör</a>)
   entry_writer: hiperaktif kuala
 - entry_name: |
     şehit akif hatunoğlu'nun cebinden çıkan vasiyeti
@@ -54,14 +54,8 @@ data:
     kate upton
   entry_id: 54516944
   entry_content: |
-    (bkz: <a class="b" href="/?q=a.q.">a.q.</a>)<sup class="ab"><a title="(bkz: bize küfür düştü amk)" href="/?q=bize+k%c3%bcf%c3%bcr+d%c3%bc%c5%9ft%c3%bc+amk" data-query="bize küfür düştü amk">*</a></sup><br/><br/>edit: bunu debe'ye sokmayın. uçuracaklar.
+    (bkz: <a class="b" href="/?q=a.q.">a.q.</a>)<sup class="ab"><a title="(bkz: bize küfür düştü amk)" href="/?q=bize+k%c3%bcf%c3%bcr+d%c3%bc%c5%9ft%c3%bc+amk" data-query="bize küfür düştü amk">*</a></sup><br/><br/>edit: bunu debe'ye sokmayın. uçuracaklar.<br/><br/>debedit: aferin
   entry_writer: elcolerico
-- entry_name: |
-    çağdan pelin montaş
-  entry_id: 54518459
-  entry_content: |
-    çok kötü fotoğrafçıdır, kötü fotoğraflar çeker, bir de üstüne reklam yaptırır. onu tercih etmeyin, cep telefonunuzla çekin doğum moğum ne varsa aq sdjklfskld.<br/><br/>edit: 1. entry sahibi silip gitmiş, olay buydu. <a class="b" href="/?q=pretty+cool">pretty cool</a> sağolsun: <a rel="nofollow" class="url" target="_blank" href="http://imgim.com/pelinkardeş.png" title="http://imgim.com/pelinkardeş.png">http://imgim.com/pelinkardeş.png</a>
-  entry_writer: anteke
 - entry_name: |
     4 eylül 2015 intihar teşebbüsü
   entry_id: 54531533
@@ -153,12 +147,6 @@ data:
     (bkz: <a class="b" href="/?q=pi%c3%a7+mimarl%c4%b1k">piç mimarlık</a>)
   entry_writer: eylul firtinasi
 - entry_name: |
-    atatürk kültür merkezi taksim'e yakışmıyor
-  entry_id: 54512528
-  entry_content: |
-    ya bunlar bu adamı kültür bakanı yaparken "şu ayı gitsin de biraz kültürlensin" diye mi düşündüler demeye başladım. bir yanlış anlama mı var acaba? bu kadar hanzoluğu başka türlü açıklayamıyorum
-  entry_writer: evanart
-- entry_name: |
     3 eylül 2015 efsane istanbul trafiği
   entry_id: 54511272
   entry_content: |
@@ -192,7 +180,7 @@ data:
     suriyelilere sahte can yeleği satan esnaf
   entry_id: 54511843
   entry_content: |
-    şu tweette bahsi edilen esnaf gibi esnaftır; <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/aylajean/status/639327549361922048" title="https://twitter.com/aylajean/status/639327549361922048">https://twitter.com/…jean/status/639327549361922048</a><br/><br/>reisin esnafıdır. müslümandır ve her cuma namaza gidiyordur kesin. <br/><br/>(bkz: <a class="b" href="/?q=esnaf%c4%b1n+suriyelilere+sahte+para+%c3%bcst%c3%bc+vermesi">esnafın suriyelilere sahte para üstü vermesi</a>)
+    şu tweette bahsi geçen esnaf gibi esnaftır; <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/aylajean/status/639327549361922048" title="https://twitter.com/aylajean/status/639327549361922048">https://twitter.com/…jean/status/639327549361922048</a><br/><br/>reisin esnafıdır. müslümandır ve her cuma namaza gidiyordur kesin. <br/><br/>(bkz: <a class="b" href="/?q=esnaf%c4%b1n+suriyelilere+sahte+para+%c3%bcst%c3%bc+vermesi">esnafın suriyelilere sahte para üstü vermesi</a>)<br/><br/>edit: "müslümanlar cuma günü götünü mü sikti" diye bir mesaj gelmiş. 'güzel ahlak' şaşırtmamaya devam ediyor. <3t;3
   entry_writer: zerdest
 - entry_name: |
     ekşi sözlük
@@ -230,12 +218,6 @@ data:
   entry_content: |
     dağlara taşlara..<br/><br/><a class="b" href="/?q=shiftdelete">shiftdelete</a> de tam reklam yaptırmalık, mis. <a class="b" href="/?q=2+gb+batarya">2 gb batarya</a>sı var diyor <a class="b" href="/?q=hakk%c4%b1">hakkı</a>cım benim, yerim seni. telefonu da iyi ki düşürdün ne <a class="b" href="/?q=bok">bok</a> olduğunu anladık, düşer düşmez arkadaki boya soyuldu, bir de elinle üstüne sürtüp <a class="b" href="/?q=bir+%c5%9fey+yok">bir şey yok</a> diyorsun. kaç para aldınız?<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/gAvzLZ.png" title="http://i.hizliresim.com/gAvzLZ.png">düşmeden önce</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/RV8L6Z.png" title="http://i.hizliresim.com/RV8L6Z.png">düştükten sonra</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Xo87D0.png" title="http://i.hizliresim.com/Xo87D0.png">bu da ekstra, saat yamulmuş</a><br/><br/>ha, bakın bir de müjdesi var ki, duymaya değer; 1500 lira altı geliyormuş. ahahhaa. biz aylardır 4gb ram'li <a class="b" href="/?q=zenfone+2">zenfone 2</a>'ye sövüyoruz o paraya geldi diye, adamlar gidip boktan telefonlarını bu bantta satacaklar. artık birkaç ay sonra mobilyaların yanında promosyon niyetine gider.<br/><br/>bu arada, o kameranın <a class="b" href="/?q=asus">asus</a> ile bir alakası var mı bilmiyorum ama o kamera logosu <a class="b" href="/?q=asus+pixelmaster+camera">asus pixelmaster camera</a>'nın logosu. yavaş gelin yiğitlerim, <a class="b" href="/?q=asus">asus</a> sizi tek lokmada yer. uluslararası patent hırsızlığı yapmayın, bu öyle tayyip'e zam yaptırmaya benzemez.<br/><br/>ne diyeyim, alın mı diyeyim? ahaha, adamlar dalga geçiyor ya. batarya da <a class="b" href="/?q=vestel">vestel</a> marka, <a class="b" href="/?q=lityum+polimer">lityum polimer</a>miş. uzak durun, almayın, aldırmayın. <br/><br/>bazı rivayetlere göre kredi kartı ile <a class="b" href="/?q=vestel+venus">vestel venus</a> alanlarda, kredi kartı pos makinesinden geçerken <a class="b" href="/?q=almaaa%c4%9f%c4%9f%c4%9f">almaaağğğ</a> diye bir ses çıkıyormuş.<br/><br/>o arka kapak tasarımını birilerine mi benzetiyorum, hani anca zam yaptığınız birilerinin telefonuna<sup class="ab"><a title="(bkz: apple olabilir mi)" href="/?q=apple+olabilir+mi%3f" data-query="apple olabilir mi">*</a></sup>? ön tasarım da <a class="b" href="/?q=zte+blade+s6">zte blade s6</a>'dan araklama. <br/><br/>yürüyün gidin şurdan hırsızlar sizi.
   entry_writer: tosiba
-- entry_name: |
-    6 eylül 2015 türkiye hollanda maçı
-  entry_id: 54531322
-  entry_content: |
-    fatih terimim ilk 11'ini beşiktaşlı futbolculardan oluşturması gereken maç. onlar bi şekilde 3. olur zaten.
-  entry_writer: raskolnikovv
 - entry_name: |
     kısa boylu erkeklere verilebilecek tavsiyeler
   entry_id: 54523503
