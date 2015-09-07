@@ -15,34 +15,28 @@ data:
     son birkaç sene içerisinde açılan yeni kafeleriyle ve barlarıyla gençler arasında popüler olan karaköy'deki karabatak, unter, tükkan, colonie vs. vs. hipster mekanların götlerinin kalkma olayıdır. <br/><br/>daha düne kadar müşterileri memnun edip nispeten uygun fiyatlarıyla ayakta kalmaya çalışırken popülerleşip kıçı kırık damla soda'ya 7 tl, klasik çaya 8 tl, dana antrikot'a (sıkı durun) 66 tl istemeye başlayan mekanlardır. hatta bunlardan karabatak suya, bak normal suya diyorum 5 tl istemektedir. <br/><br/>türkiye'de bir yer popülerleşmesin abi artık. cidden hem kazıkçı esnaf olarak hem enayi müşteriler olarak bokunu çıkarıyoruz.<br/><br/>ince belli bardakta normal bir çayı 8 tl'ye içmek de satmak da özgürlük ya da tercih meselesi falan değildir.<br/><br/>edit 1: vay anasını yaaa. hükümetin alkole bakışı ve alkolün pahalı olması nedeniyle marketteki 4,75 tl'lik biranın mekanlarda 19 tl olması normalmiş. ulan hadi bira neyse de 50 kuruşluk damla marka soda nasıl oluyor da 7 tl oluyor ya da kahvedeki bardağın aynısında gelen çay nasıl 8 tl oluyor? devlet çay satışı içinde mi mekanlardan ruhsat alıyor amk? bu arada çayı 8 tl'ye satan yer alkol satan yer değil, zaten kafe olan bir yer.<br/><br/>neye üzülüyorum biliyor musunuz? bunu yazan yazar belki olmayabilir ama bu sikko fiyatlandırmaları savunanların çoğu kendi parasını kazanmayan, ailesinden geçinen öğrenciler ya da üç kuruşa çalışıp siktiri boktan tek odalı bir dairede kiracı olarak oturan ama kendilerini cool sanan hipsterlar.<br/><br/>aklı başında, kendi parasını kazanan hiçbir insan bu savunmayı yapamaz. yapsa yapsa ya bu tipler ya da işletmelerin sahipleri yapar.<br/><br/>edit 2: ülkem insanının rezil düşünce yapısını da gösteren göt kalkmasıdır ayrıca. adam utanmadan diyor ki pahalı çay, bira satmasa elit kesim gelmez. bira 10 lira olursa apaçiler gelir karaköy de taksim'e döner. sizin gibileri ne kadar sikseler az. hatta sizin gibi enayileri sikmek için benim de bi mekan açmam lazım. ne de olsa istanbul'da daha bi bok olmadan ne oldum delisi olan sizin gibi insan çok. bir tane biraya 30 lira da çekseler size göre normal gelecektir bu durum.<br/><br/>adamlardaki düşünce yapısına bak. "pahalı olursa elit kesim gelir, herkes gelmez di mi orçun?. - evet meliscim. o yüzden çaya 15 lira yazalım. kahveye de hmmm bi düşüniim. 24 tl yaz gitsin."<br/><br/>vay anasını yaa, vay anasını yaa, vay anasını yaaaaa.<br/><br/>edit 3: tam da orta tabaka insanların gittiği mekanların göt kalkmasıdır. orta sınıf diye beğenmediğin çarıklı sınıfı bu mekanlara üç gün gitmezse kepenk indirmek zorunda kalacak bu mekanlar. kaliteli restoran görmemiş ibişler liseliden bozma çocukların garsonluk yaptığı mekanları fine dining restoran sanıyorlar amk. <br/><br/>olm biraz kafanız çalışsın adamı delirtmeyin. bu ülkenin orta kesimi zengininden daha çok para bayılıyor böyle yerlere. gerçekten zengin adam neye ne kadar ödeyeceğini bilerek zengin olmuştur zaten. ha bunun da istisnası olarak sonradan görme ya da babadan dolayı zengin olanlar da vardır ama bunlar da her gün bu mekanlara gitse yine o mekanları kurtaramazlar. sayıları yetmez.<br/><br/>edit 4: en acısı da bu fiyatları normalleştirmeye çalışanların aslında dar gelirli olmaları, kraldan çok kralcı olmaları.
   entry_writer: such a good idea
 - entry_name: |
-    6 eylül 2015 yüksekova'da 14 askerin şehit olması
+    6 eylül 2015 yüksekova'da 16 askerin şehit olması
   entry_id: 54592666
   entry_content: |
     görmüş olduk ki mesele şehit çocuğuna insanların gözüne soka soka maç izlettirmek değil; onun babasıyla beraber maç izlemesini sağlamaktır. allah belanızı versin.
   entry_writer: barney sikkinson
 - entry_name: |
-    400 milletvekili alınsaydı bunlar olmazdı
-  entry_id: 54595577
-  entry_content: |
-    artik inanamiyorum, vatana ihanetten yargiya basvurulmasi gerekirken daha ne bekliyor insanlar? acik acik soyluyor adam.
-  entry_writer: secret runner
-- entry_name: |
     karakteri bozuk şehit babaları da var
   entry_id: 54600313
   entry_content: |
-    karakteri bozuk, oğluna testis kanseri raporu alıp askere göndermeyen babalar da var.
+    karakteri bozuk, oğluna testis kanseri raporu alıp askere göndermeyen babalar da var.<br/><br/>debe editi:<br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>) paylaşmayı boynumun borcu bilirim.
   entry_writer: hipnoz
 - entry_name: |
     6 eylül 2015 türkiye hollanda maçı
   entry_id: 54591356
   entry_content: |
-    hedef grupta üçüncülük olunca beşiktaşlı oğuzhan özyakup affetmedi...
+    hedef grupta üçüncülük olunca beşiktaşlı oğuzhan özyakup affetmedi...<br/><br/>debe edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>) destek olalım, beraber yaşatalım.
   entry_writer: order the phoenix
 - entry_name: |
     bir akp'li ile tartışmak
   entry_id: 54591373
   entry_content: |
-    bir güvercin ile satranç oynamak gibidir. satrançta ne kadar iyi olursanız olun, güvercin yine taşları devirecek, tahtanın ortasına sıçacak ve koltukları kabarmış şekilde turlayıp duracaktır.
+    bir güvercin ile satranç oynamak gibidir. satrançta ne kadar iyi olursanız olun, güvercin yine taşları devirecek, tahtanın ortasına sıçacak ve koltukları kabarmış şekilde turlayıp duracaktır.<br/><br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: rispekt
 - entry_name: |
     çözüm sürecinde silah depolamışlar
@@ -54,7 +48,7 @@ data:
     hayattan tatlıyı ekmeği asitli içecekleri çıkarmak
   entry_id: 54588035
   entry_content: |
-    canan hocam eğer sizseniz selamlar. <br/><br/>tanım: diyet önerisi.
+    canan hocam eğer sizseniz selamlar. <br/><br/>tanım: diyet önerisi.<br/><br/>debe editi: <br/>daha son sözü söylemedi hayat.<br/>belki yarınlar, mutlu sonlar var. <br/>yeniden başlamak yorar insanı ama<br/>sonunda kavuşmak, mutlu olmak var.<br/><br/>debe editi 1: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: larsvontier
 - entry_name: |
     7 eylül 2015 tsk açıklaması
@@ -66,13 +60,13 @@ data:
     fatih terim'in galibiyeti şehitlere armağan etmesi
   entry_id: 54596227
   entry_content: |
-    maaşını armağan etse, en azından geride kalanların işine yarayacaktır.<br/><br/>tanım: gereksiz gösteridir.
+    maaşını armağan etse, en azından geride kalanların işine yarayacaktır.<br/><br/>tanım: gereksiz gösteridir.<br/><br/>debe editi: <a class="b" href="/?q=bu+da+ge%c3%a7er">bu da geçer</a> <a class="b" href="/?q=t%c3%bcrkiye">türkiye</a>
   entry_writer: prdeay
 - entry_name: |
     hürriyet'in 400 vekil tweet'ini silmesi
   entry_id: 54596755
   entry_content: |
-    videoyu silmediği, silse de sonuçta bu laf söylenmiş olduğu için bir şey ifade etmeyen olaydır.<br/><br/>ne algı operasyonu allah'ın sığırı, haberin içerisindeki videoda aynı sözler söyleniyor. dalyarağa bak, rabbini savunacağım diye ne şekillere giriyor.
+    videoyu silmediği, silse de sonuçta bu laf söylenmiş olduğu için bir şey ifade etmeyen olaydır.<br/><br/>ne algı operasyonu allah'ın sığırı, haberin içerisindeki videoda aynı sözler söyleniyor. dalyarağa bak, rabbini savunacağım diye ne şekillere giriyor.<br/><br/>debedit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: barisunver
 - entry_name: |
     6 eylül 2015 hürriyet gazetesinin basılması
@@ -80,12 +74,6 @@ data:
   entry_content: |
     cumhurbaşkanının ağzından çıkan bi cümleyi haber yaptı diye tekbirlerle gazete basıyorlar.<br/><br/>ya hepsini geç hiç üşenmiyorlar da a.q , beyinsizlik adamlarda doping etkisi yaratıyor resmen. ulan walking deaddeki zombi kadar beyniniz yok, allah belamı versin aha <a rel="nofollow" class="url" target="_blank" href="http://img1.wikia.nocookie.net/__cb20130920011928/walkingdead/images/5/58/Michonne-Walking-Dead-Danai-Gurira-1024x576.jpg" title="http://img1.wikia.nocookie.net/__cb20130920011928/walkingdead/images/5/58/Michonne-Walking-Dead-Danai-Gurira-1024x576.jpg">şunlar</a> kadar beyniniz, şu dünyaya faydanız yok.
   entry_writer: hayt deli oglan
-- entry_name: |
-    kürdistan kurulsun türkiye kurtulsun
-  entry_id: 54597670
-  entry_content: |
-    akıllara bugünlerde daha çok takılıyor.<br/>eğer istediğiniz kürdistan ise, o çok sevdiğiniz, sempatik bulduğunuz selahattin'e söyleyin de mecliste dile getirsin, referandum yapalım; o şehirleri verelim. eminim artık hiçbir türk "aman şırnak, diyarbakır, hakkari'yi vermeyiz!" diye tutturmaz hiç gitmediği yerler için.<br/>ama istanbul'dan, izmir'den, mersin'den ve daha bir sürü anadolu şehrinden gideceksiniz, bunu da selahattin'e söylemeyi unutmayın, emi?<br/><br/>ekleme: entry'mi yanlış anlayanlarr için, daha önceden girdiğim şu entry'yi bırakmak istiyorum: <a class="b" href="/entry/53228280">#53228280</a>
-  entry_writer: va va via
 - entry_name: |
     6 eylül 2015 şehit haberlerinin saklanması
   entry_id: 54595366
@@ -96,7 +84,7 @@ data:
     kemal kılıçdaroğlu
   entry_id: 54602111
   entry_content: |
-    oysa ki yalova kaymakamı'nı eleştirmesi gerekiyordu.
+    oysa ki yalova kaymakamı'nı eleştirmesi gerekiyordu.<br/><br/>debe editi: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>
   entry_writer: prdeay
 - entry_name: |
     recep tayyip erdoğan
@@ -114,7 +102,7 @@ data:
     beşikteki bebeği büyütürüz yine dağa göndeririz
   entry_id: 54589133
   entry_content: |
-    (bkz: <a class="b" href="/?q=yine+%c3%b6l%c3%bcr">yine ölür</a>)<br/><br/>bu mu barış isteyen "halk"?
+    (bkz: <a class="b" href="/?q=yine+%c3%b6l%c3%bcr">yine ölür</a>)<br/><br/>bu mu barış isteyen "halk"?<br/><br/>* * *<br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: fire in the hole
 - entry_name: |
     erkeklerin cinsellikle ilgili bilmesi gerekenler
@@ -150,7 +138,7 @@ data:
     selahattin demirtaş
   entry_id: 54601775
   entry_content: |
-    bak arkadas ben oyumu bu adama verdim. kurt halkini pkk'ya biz muhtac ettik, artik etmeyelim siyasete girsinler diye turk oglu turk olarak oyumu verdim. benim gozumde pkk kurt halkinin magduriyetinden yararlanan uyusturucuyla gecinen asagilik bir orgut. hdp meclise girdi diye dogu karismadi, hdp zaten meclisteydi. oy orani 3-4 puan artti diye dogunun karismayacagini gorecek kadar da aklim var cok sukur. <br/><br/>ancak bu adamin da bu olaylar da daha etkin rol alabilecegini, pkk uzerinde daha cok soz sahibi olacagini dusunmustum. ancak tek yapabildigi pkk silah biraksin demek oldu ve goruldugu uzere pek dikkate alinmiyor. e diger partililerin de cozum yerine, pkk sizi tukuruguyle bogar gibi sacma salak soylemlerden ileri gidebildigini goremiyorum. kendisi ne kadar iyi niyetli olursa olsun su ana kadar hayal kirikligidir. bilmiyorum bisey degisir mi ben kendi adima basarili olmasini cok istemistim.
+    ben oyumu bu adama verdim. kurt halkini pkk'ya biz muhtac ettik, artik etmeyelim siyasete girsinler diye turk oglu turk olarak oyumu verdim. benim gozumde pkk kurt halkinin magduriyetinden yararlanan uyusturucuyla gecinen asagilik bir orgut. hdp meclise girdi diye dogu karismadi, hdp zaten meclisteydi. oy orani 3-4 puan artti diye dogunun karismayacagini gorecek kadar da aklim var cok sukur. <br/><br/>ancak bu adamin da bu olaylarda daha etkin rol alabilecegini, pkk uzerinde daha cok soz sahibi olacagini dusunmustum. ancak tek yapabildigi pkk silah biraksin demek oldu ve goruldugu uzere pek dikkate alinmiyor. e diger partililerin de cozum yerine, pkk sizi tukuruguyle bogar gibi sacma salak soylemlerden ileri gidebildigini goremiyorum. kendisi ne kadar iyi niyetli olursa olsun su ana kadar hayal kirikligidir. bilmiyorum bisey degisir mi ben kendi adima basarili olmasini cok istemistim.<br/><br/>edit: demirtaş'ın sihirli değnek elindeymiş gibi bir anda her şeyi çözmesini tabi ki beklemiyorum ama bu kadar etkisiz kalması tercihi ise de hayal kırıklığı tercihi değil ise de
   entry_writer: evanart
 - entry_name: |
     osman pamukoğlu chp'nin başına mı geçiyor
@@ -174,7 +162,7 @@ data:
     fakirlikten ev arkadaşlarının sevgilileriyle yatma
   entry_id: 54581844
   entry_content: |
-    entry'niz fakirlerle arkadaşlık kurmamak için 100 neden başlığı altına taşınmıştır.
+    entry'niz fakirlerle arkadaşlık kurmamak için 100 neden başlığı altına taşınmıştır.<br/><br/>böyle saçma bir entry db olmuş, en azından bir işe yarasın diyerek (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>) teşekkürler.
   entry_writer: mindtrap
 - entry_name: |
     6 eylül 2015 cizre'de katliam girişimi
@@ -186,7 +174,7 @@ data:
     umarım yaşananlar sandığa yansır
   entry_id: 54595965
   entry_content: |
-    hepimizin temennisi. umarim yansir da ulke sizden kurtulur.
+    hepimizin temennisi. umarim yansir da ulke sizden kurtulur.<br/>**<br/>edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: reklamikapatx
 - entry_name: |
     milli maçtan sonra mehter marşı çalmak
@@ -198,37 +186,37 @@ data:
     bizim dinimizde şehitler ölmez
   entry_id: 54599539
   entry_content: |
-    binlerce yıl sonra bunları mitoloji diye okutup gülecekler işte. "harbiden inanıyolar mıymış lan" diyerek aralarında geyik falan yapacak geleceğin insanları.
+    binlerce yıl sonra bunları mitoloji diye okutup gülecekler işte. "harbiden inanıyolar mıymış lan" diyerek aralarında geyik falan yapacak geleceğin insanları.<br/><br/>edit: alakasız olacak ama, paylaşmam gerektiğini <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/54606377" title="https://eksisozluk.com/entry/54606377">düşünüyorum.</a>
   entry_writer: bopbopshubop
 - entry_name: |
     çalışılan pozisyonlar ve maaşları
   entry_id: 54582393
   entry_content: |
-    sektör: perakende (bim)<br/>pozisyon: personel (günlük temsilci)<br/>maaş: 1400 net.<br/><br/>artılar: <br/><br/>* yol parası derdim yok işten çıktığımda 10 dakika da evdeyim yürüyerek gidip geliyorum<br/>* klimalı ortam yazın buz gibi kışın ıssıcak<br/>* günlük temsilci olduğum için müdür ya da yardımcı uzun süreli izne çıktığında yerine bakıyorum ortalama 100 tl falan maaşa yansıyo bir sonraki ay<br/>* başında bu neden böyle şu iş yetişmedi mi diye zırvalayan patron ve patron yalakası tipler yok yapılacak iş belli kafa rahat. tabi biraz da uyumlu bir ekibiniz olmalı yoksa zor sürekli bağıran çağıran emir yağdıran sorumlular da var bizim bölgede<br/>* vardiyalı sistem bazen sabah 8.30 iş başı yapıp akşam 6 ya da 5 de paydos diğer günlerde öğle 12, 1 ya da 2 de iş başı. akşam 9 da kapanış. 30 dakika da kapanış işlemleri desek 9.30 da paydos.<br/>* sigortamın tıkır tıkır ödenmesi maaşımın hiç aksamadan ayın son günü hesabıma yatması şayet haftasonuna denk geliyorsa cuma öğlen gibi maaşlar yatar.<br/>* acaba beni işten atarlar mı gibi kriz bazlı bir kaygı yaşanmaması. müşteriyi dövmedikçe zimmete para geçirmedikçe işten atılmıyorsun. krizde daha çok iş yapıyoz lan mına kodumun fakirleri sizi bi de bimi beğenmezsiniz.<br/><br/>eksileri ama <a rel="nofollow" class="url" target="_blank" href="http://imgim.com/11900074_10153530110113050_4898209406266322918_n.jpg" title="http://imgim.com/11900074_10153530110113050_4898209406266322918_n.jpg">öncelikle</a>:<br/><br/>ehehehehe du yazıcam şimdi<br/><br/>* 30 dakikalık yemek molasında oturmanız ve geri kalan tüm mesai boyunca ayakta çalışmanız<br/>* hem kasaya bakmak hem mal atmak hem reyon düzenlemek hem temizlik hem de müşterilerle ilgilenmek üstüne bir de güvenlik yapmak<br/>* yorucu bir iş gerçekten yorucu ama eve ölü gibi geldiğim günler oldu olmaya da devam ediyor kimseyle konuşmak istemiyorum duşumu alıyorum sessiz bir odaya geçip yatıyorum çoğu zaman kucağımda laptop ya da kitap okuyucu uyuyakalıyorum. sese tahammül edemiyorum kafamda filler tepişiyo sanki.<br/>* haftaiçi bir gün izin ve o gün de dışarı çıkmaya hiç halim olmuyo izin günümü dinlenmeye ayırsam sosyal hayata adapte olamıyorum dışarı çıkmaya ayırsam dinlenemiyorum bu açıdan dışarlar da arkadaşlarla vakit geçirip bir şeyler yapmak zor be<br/>* ve insanlar müşteriler yani. işte şu işi en zorlaştıran en yokuş olan kısım. 2.5 senem doldu bu mağazada. ya neler görüp yaşamadım ki. ne hakaretler işittim suçum olmadığı halde haklı taraf olduğum halde özür diledim milletten. çünkü sorumluluklarım var ödemelerim var ev geçindirmek kolay değil be olm. burayı okuyan henüz öğrenci olan gençler beni anlamaz ama evli adamlar ailesini geçindirenler iyi anlar bekara karı boşamak kolay gelir derler ya istifa etmek zor. <br/><br/>bim çalışanı olarak insanlar sizi hor görüyor küçümsüyor. geçenlerde orta yaşlı bir kadınla torunu geldi okumazsan sonun bu abi gibi olur dedi. duymamazlıktan geldim tartışmak istemedim ama çok incindim. benim hangi şartlarda nasıl bir hayatın içinden çıktığımı bir tek yakın olduğum arkadaşlarım biliyor başkası olsaydı ya madde bağımlısı ya da çoktan ipi boynuna geçirmişti. insanlar çok tahammülsüzler sıra beklemeyi enayilik olarak görüyorlar önünde 2 kişi olsa "kasaaaaaaaaaaa kasa açsanıza lan buraya" diye bağıra çağıra tavır sergiliyorlar.<br/><br/>şu işe girmeden önce son derece hümanist insanları seven yardımcı olmaya çalışan bir tiptir. şimdi sokakta adres sorsalar arkadan seslenseler dönüp bakmıyorum gerçekten nefret ediyorum her çeşitten insan tanıdım gördüm. sevdiğim bir bulgar göçmenleri var insanlık denilen nane bir tek onlar da ölmemiş. <br/><br/>kasada ürün poşetleyen müşteriye kibarca paketleme rafına gitmesini arkasındaki insanların sıra beklediğini ürünlerin karışacağını söylüyorum işine bak gerizekalı acelen ne dedi. açtım ağzımı yumdum gözümü. beni merkeze şikayet etti ben x şubesinden senelerdir alışveriş yapıyorum aylık 400 tl bırakıyorum şu çalışanınız bana hakaret etti beni küçük düşürdü. kadına dediğim şey terbiyesizleşmeye gerek yok seviyenizin yer çekimine yenik düşmesi benim suçum değil. aklsjdklajdaklsd çıldırdı paçoz karı. ha noldu haklı bendim yine devam ediyom aynı mağazada. <br/><br/>ya daha neler neler mağaza kapanmış kasap kedisi gibi camları tırmalıyor herif yoğurt alacam yoğurt kajkdjaskdljaskld lan koskoca mahallede onlarca bakkal market var ben çıkış almışım ışıklar sönmüş adam yoğurt diyo ya. aman işte böyle kısaca bim de çalışmak. gerçekten işimden ve insanlardan nefret ediyorum market işi zor be. bu sene tıbbi dokumantasyon kazandım okulu bitirip sektör değiştirmeyi düşünüyorum. zaten artık eskisi gibi çalışan bulamıyor sektör bu maaşa bu saydıklarım çekilmez işe yeni başlayan 2. ayında istifa ediyor. çalışmaya devam edenler de benim gibiler işte. çalışanların büyük çoğunluğu açıköğretim öğrencisi herkes okul bitene kadar dişini sıkıyor sonra sektör değiştiriyor.<br/><br/>bir de büyük poşeti balya balya evine götürmek isteyen kitle var allah onların ocağına ataşlar salsın. lan tüm ürünlerini paketlemiş hala poşet ver, neden? yırtılıyor, 2 adet verdim biraz daha ver. ulan her akşam çöp atıyorum iş çıkışı konteynırın içi bim poşetleri dolu adiler sizi çöp poşeti yapıyorsunuz işte biliyoruz amk.<br/><br/>poşetleriniz çok dandik dkksadklasdkl bah hele bah. lan sen hayatında discount nedir duydun mu acaba beyin fonksiyonları üremeye ve karınlarını doyurmaya evrilmiş insanlara ekonomi anlatacak değilim de sonuçta bim demek maliyetleri olabildiğince kısmak demek nasıl oluyor bu az personel çok iş düşük kaliteli poşet. e bitti gitti daha ne soruyorsunuz bir de geliyorlar var ya siz de x ürünü yok mu hayır satmıyoruz diyorum neden yok neden satmıyorsunuz hemen getirin onu söyleyin patronunuza. tabi lan manyak mısın hemen arıyorum topbaş reyizi alo patron ya bizde x ürün yok ya millet mağdur çek olm ordan 2 tır muhasebeciye söyleyin para çıkarsın klsakladaslkd vallaha delisiniz ya arkanızdan kıkır kıkır gülüyoruz hep.
+    sektör: perakende (bim)<br/>pozisyon: personel (günlük temsilci)<br/>maaş: 1400 net.<br/><br/>artılar: <br/><br/>* yol parası derdim yok işten çıktığımda 10 dakika da evdeyim yürüyerek gidip geliyorum<br/>* klimalı ortam yazın buz gibi kışın ıssıcak<br/>* günlük temsilci olduğum için müdür ya da yardımcı uzun süreli izne çıktığında yerine bakıyorum ortalama 100 tl falan maaşa yansıyo bir sonraki ay<br/>* başında bu neden böyle şu iş yetişmedi mi diye zırvalayan patron ve patron yalakası tipler yok yapılacak iş belli kafa rahat. tabi biraz da uyumlu bir ekibiniz olmalı yoksa zor sürekli bağıran çağıran emir yağdıran sorumlular da var bizim bölgede<br/>* vardiyalı sistem bazen sabah 8.30 iş başı yapıp akşam 6 ya da 5 de paydos diğer günlerde öğle 12, 1 ya da 2 de iş başı. akşam 9 da kapanış. 30 dakika da kapanış işlemleri desek 9.30 da paydos.<br/>* sigortamın tıkır tıkır ödenmesi maaşımın hiç aksamadan ayın son günü hesabıma yatması şayet haftasonuna denk geliyorsa cuma öğlen gibi maaşlar yatar.<br/>* acaba beni işten atarlar mı gibi kriz bazlı bir kaygı yaşanmaması. müşteriyi dövmedikçe zimmete para geçirmedikçe işten atılmıyorsun. krizde daha çok iş yapıyoz lan mına kodumun fakirleri sizi bi de bimi beğenmezsiniz.<br/><br/>eksileri ama <a rel="nofollow" class="url" target="_blank" href="http://imgim.com/11900074_10153530110113050_4898209406266322918_n.jpg" title="http://imgim.com/11900074_10153530110113050_4898209406266322918_n.jpg">öncelikle</a>:<br/><br/>ehehehehe du yazıcam şimdi<br/><br/>* 30 dakikalık yemek molasında oturmanız ve geri kalan tüm mesai boyunca ayakta çalışmanız<br/>* hem kasaya bakmak hem mal atmak hem reyon düzenlemek hem temizlik hem de müşterilerle ilgilenmek üstüne bir de güvenlik yapmak<br/>* yorucu bir iş gerçekten yorucu ama eve ölü gibi geldiğim günler oldu olmaya da devam ediyor kimseyle konuşmak istemiyorum duşumu alıyorum sessiz bir odaya geçip yatıyorum çoğu zaman kucağımda laptop ya da kitap okuyucu uyuyakalıyorum. sese tahammül edemiyorum kafamda filler tepişiyo sanki.<br/>* haftaiçi bir gün izin ve o gün de dışarı çıkmaya hiç halim olmuyo izin günümü dinlenmeye ayırsam sosyal hayata adapte olamıyorum dışarı çıkmaya ayırsam dinlenemiyorum bu açıdan dışarlar da arkadaşlarla vakit geçirip bir şeyler yapmak zor be<br/>* ve insanlar müşteriler yani. işte şu işi en zorlaştıran en yokuş olan kısım. 2.5 senem doldu bu mağazada. ya neler görüp yaşamadım ki. ne hakaretler işittim suçum olmadığı halde haklı taraf olduğum halde özür diledim milletten. çünkü sorumluluklarım var ödemelerim var ev geçindirmek kolay değil be olm. burayı okuyan henüz öğrenci olan gençler beni anlamaz ama evli adamlar ailesini geçindirenler iyi anlar bekara karı boşamak kolay gelir derler ya istifa etmek zor. <br/><br/>bim çalışanı olarak insanlar sizi hor görüyor küçümsüyor. geçenlerde orta yaşlı bir kadınla torunu geldi okumazsan sonun bu abi gibi olur dedi. duymamazlıktan geldim tartışmak istemedim ama çok incindim. benim hangi şartlarda nasıl bir hayatın içinden çıktığımı bir tek yakın olduğum arkadaşlarım biliyor başkası olsaydı ya madde bağımlısı ya da çoktan ipi boynuna geçirmişti. insanlar çok tahammülsüzler sıra beklemeyi enayilik olarak görüyorlar önünde 2 kişi olsa "kasaaaaaaaaaaa kasa açsanıza lan buraya" diye bağıra çağıra tavır sergiliyorlar.<br/><br/>şu işe girmeden önce son derece hümanist insanları seven yardımcı olmaya çalışan bir tiptir. şimdi sokakta adres sorsalar arkadan seslenseler dönüp bakmıyorum gerçekten nefret ediyorum her çeşitten insan tanıdım gördüm. sevdiğim bir bulgaristan göçmenleri var insanlık denilen nane bir tek onlarda ölmemiş. <br/><br/>kasada ürün poşetleyen müşteriye kibarca paketleme rafına gitmesini arkasındaki insanların sıra beklediğini ürünlerin karışacağını söylüyorum işine bak gerizekalı acelen ne dedi. açtım ağzımı yumdum gözümü. beni merkeze şikayet etti ben x şubesinden senelerdir alışveriş yapıyorum aylık 400 tl bırakıyorum şu çalışanınız bana hakaret etti beni küçük düşürdü. kadına dediğim şey terbiyesizleşmeye gerek yok seviyenizin yer çekimine yenik düşmesi benim suçum değil. aklsjdklajdaklsd çıldırdı paçoz karı. ha noldu haklı bendim yine devam ediyom aynı mağazada. <br/><br/>ya daha neler neler mağaza kapanmış kasap kedisi gibi camları tırmalıyor herif yoğurt alacam yoğurt kajkdjaskdljaskld lan koskoca mahallede onlarca bakkal market var ben çıkış almışım ışıklar sönmüş adam yoğurt diyo ya. aman işte böyle kısaca bim de çalışmak. gerçekten işimden ve insanlardan nefret ediyorum market işi zor be. bu sene tıbbi dokumantasyon kazandım okulu bitirip sektör değiştirmeyi düşünüyorum. zaten artık eskisi gibi çalışan bulamıyor sektör bu maaşa bu saydıklarım çekilmez işe yeni başlayan 2. ayında istifa ediyor. çalışmaya devam edenler de benim gibiler işte. çalışanların büyük çoğunluğu açıköğretim öğrencisi herkes okul bitene kadar dişini sıkıyor sonra sektör değiştiriyor.<br/><br/>bir de büyük poşeti balya balya evine götürmek isteyen kitle var allah onların ocağına ataşlar salsın. lan tüm ürünlerini paketlemiş hala poşet ver, neden? yırtılıyor, 2 adet verdim biraz daha ver. ulan her akşam çöp atıyorum iş çıkışı konteynırın içi bim poşetleri dolu adiler sizi çöp poşeti yapıyorsunuz işte biliyoruz amk.<br/><br/>poşetleriniz çok dandik dkksadklasdkl bah hele bah. lan sen hayatında discount nedir duydun mu acaba beyin fonksiyonları üremeye ve karınlarını doyurmaya evrilmiş insanlara ekonomi anlatacak değilim de sonuçta bim demek maliyetleri olabildiğince kısmak demek nasıl oluyor bu az personel çok iş düşük kaliteli poşet. e bitti gitti daha ne soruyorsunuz bir de geliyorlar var ya siz de x ürünü yok mu hayır satmıyoruz diyorum neden yok neden satmıyorsunuz hemen getirin onu söyleyin patronunuza. tabi lan manyak mısın hemen arıyorum topbaş reyizi alo patron ya bizde x ürün yok ya millet mağdur çek olm ordan 2 tır muhasebeciye söyleyin para çıkarsın klsakladaslkd vallaha delisiniz ya arkanızdan kıkır kıkır gülüyoruz hep.<br/><br/>debe edit: olm asdklşaskdşlas amma mesaj geldi he şubemi merak eden arkadaşlar olmuş napıcaksınız lan büyük poşet mi istiyceksiniz adiler eheheh. güzel mesajlarınız için çok teşekkür ederim canlar. ayrıca:<br/><br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: patlak fermuar
 - entry_name: |
     6 eylül 2015 metro turizm kazası
   entry_id: 54586406
   entry_content: |
-    bu ve bunun gibi bir cok trafik kazasi, is kazasi vb. hepsi devleti 13 yildir yoneten hukumetin sucudur sayin ak it. sen kontrollerini yapmazsan, kiyakcilik/ayakcilikla ulke yonetirsen, <a class="b" href="/?q=himmet">himmet</a> adi altinda rusvet devletin idare sekli olmussa, rant olan yerde biat duzenini calistirirsan adamin biri de gelir otobusunde 10 numara yag kullanir, oburu madeni denetlemeye gelenleri pavyona goturur. her ikisinde de o muhtemelen hukumete oy vermis insanlar yok yere ölür giderler.<br/><br/>bu adamlar vergi zamani da birilerinin cebini doldurup, maliyeye zarar gosterir. <br/><br/>sayin <a class="b" href="/?q=ak+it">ak it</a>, bunu boyle bil ki hirsizlar dort bir yaninda. senin de cebinde bir hirsizin eli var. bunu unutma.
+    bu ve bunun gibi bir cok trafik kazasi, is kazasi vb. hepsi devleti 13 yildir yoneten hukumetin sucudur sayin ak it. sen kontrollerini yapmazsan, kiyakcilik/ayakcilikla ulke yonetirsen, <a class="b" href="/?q=himmet">himmet</a> adi altinda rusvet devletin idare sekli olmussa, rant olan yerde biat duzenini calistirirsan adamin biri de gelir otobusunde 10 numara yag kullanir, oburu madeni denetlemeye gelenleri pavyona goturur. her ikisinde de o muhtemelen hukumete oy vermis insanlar yok yere ölür giderler.<br/><br/>bu adamlar vergi zamani da birilerinin cebini doldurup, maliyeye zarar gosterir. <br/><br/>sayin <a class="b" href="/?q=ak+it">ak it</a>, bunu boyle bil ki hirsizlar dort bir yaninda. senin de cebinde bir hirsizin eli var. bunu unutma.<br/><br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: kratos
 - entry_name: |
     oğuzhan özyakup
   entry_id: 54591595
   entry_content: |
-    biz besiktaslilar olarak bu aksam nazar duasi okumamiz gereken futbolcu. hayir gerçekten mükemmel oynuyor. <br/><br/>bu ibneler nazar degdirebilir, dikkat etmek lazım.<br/><br/>edit: sağolun arkadaşlar. bi ara çarptı kafasını ama dualar yumusatti zemini ahshsjd<br/><br/>edit2: ibneler derken sözüm meclisten dışarı, ozi'nin attığı golden sonra hazımsızlık çekenlere, içimizdeki hollandalılara. siz bi' tanesiniz. kıps.
+    biz besiktaslilar olarak bu aksam nazar duasi okumamiz gereken futbolcu. hayir gerçekten mükemmel oynuyor. <br/><br/>bu ibneler nazar degdirebilir, dikkat etmek lazım.<br/><br/>edit: sağolun arkadaşlar. bi ara çarptı kafasını ama dualar yumusatti zemini ahshsjd<br/><br/>edit2: ibneler derken sözüm meclisten dışarı, ozi'nin attığı golden sonra hazımsızlık çekenlere, içimizdeki hollandalılara. siz bi' tanesiniz. kıps.<br/><br/>(bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)<br/><br/>**<br/><br/>arkadaşlar şu kardeşimizin de yardıma ihtiyacı varmış, aranızda ik'cılar, eli kolu uzun ağabeyler varsa kendisiyle iletişime geçebilir<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>. (bkz: <a class="b" href="/entry/54392697">#54392697</a>)
   entry_writer: 1zenciolmasamda
 - entry_name: |
     rte'nin şehit babalarına karakteri bozuk demesi
   entry_id: 54596737
   entry_content: |
-    "şehit babası 5 evladım daha var. onları da veririm dedi.<br/>böyleleri de var.<br/>öbür türlü düşünen şerefsizler de var!"<br/><br/>öbür türlü düşünen? yani kendi yandaşı olmayan ve evlerine ateş düşen, ciğerleri yanarken tepki gösterenler. misal albay mehmet alkan.
+    "şehit babası 5 evladım daha var. onları da veririm dedi.<br/>böyleleri de var.<br/>öbür türlü düşünen şerefsizler de var!"<br/><br/>öbür türlü düşünen? yani kendi yandaşı olmayan ve evlerine ateş düşen, ciğerleri yanarken tepki gösterenler. misal yarbay mehmet alkan. <br/><br/>edit: şehit yakınlarına demedi, sarayın polisi diyenlere dedi şeklinde mesajlar geliyor. peki kardeşim, şehit yakınları "saray savaşı" diyerek tepki göstermedi mi? kendilerini engellemeye, susturmaya çalışan polislere "sarayın polisi" demedi mi? velev ki şehit yakınlarına söylememiş olsun. bu ülkenin cumhurbaşkanı kendisinden olmayan insanlara, nerdeyse ülkenin yarısına karakteri bozuk diyor. bu bile yeter. bunu normalleştiren beyinlerinizi sikeyim.
   entry_writer: fiskiyeyi kiran adam
 - entry_name: |
     2 bini aşkın terörist öldürüldü
   entry_id: 54602950
   entry_content: |
-    (bkz: <a class="b" href="/?q=bonba+filan+att%c4%b1k+hep">bonba filan attık hep</a>)
+    (bkz: <a class="b" href="/?q=bonba+filan+att%c4%b1k+hep">bonba filan attık hep</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: this scutbe
 - entry_name: |
     6 eylül 2015 türkiye hollanda maçı rezaleti
@@ -240,7 +228,7 @@ data:
     recep tayyip erdoğan'ın türkiye'ye kazandırdıkları
   entry_id: 54586311
   entry_content: |
-    (bkz: <a class="b" href="/?q=babacim">babacim</a>)<br/>ne zaman kizim bana "babacim" dese bi gulme geliyo...<br/><br/>cok yasa erdogan e mi?<br/><br/>yasa ki yargilayabilelim.
+    (bkz: <a class="b" href="/?q=babacim">babacim</a>)<br/>ne zaman kizim bana "babacim" dese bi gulme geliyo...<br/><br/>cok yasa erdogan e mi?<br/><br/>yasa ki yargilayabilelim.<br/><br/>debedit: arkadaslar rica etmisler farkindalik yaratmak icin: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: dawnspiper
 - entry_name: |
     meme büyüten titreşimli sütyen
@@ -252,31 +240,31 @@ data:
     melih gümüşbıçak
   entry_id: 54589100
   entry_content: |
-    türkiye'nin en kötü spikeri. kendisinden daha kötü bir spiker abartmadan söylüyorum görmedim. göreceğimi de sanmıyorum.
+    türkiye'nin en kötü spikeri. kendisinden daha kötü bir spiker abartmadan söylüyorum görmedim. göreceğimi de sanmıyorum.<br/><br/>edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: okey oynarken arada bir maca bakan adam
 - entry_name: |
     akp'ye oy verenler şimdi neler düşünüyorlar
   entry_id: 54604510
   entry_content: |
-    (bkz: <a class="b" href="/?q=akp%27ye+oy+verenler+acaba+d%c3%bc%c5%9f%c3%bcn%c3%bcyorlar+m%c4%b1%3f">akp'ye oy verenler acaba düşünüyorlar mı?</a>)
+    (bkz: <a class="b" href="/?q=akp%27ye+oy+verenler+acaba+d%c3%bc%c5%9f%c3%bcn%c3%bcyorlar+m%c4%b1%3f">akp'ye oy verenler acaba düşünüyorlar mı?</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: queeneere
 - entry_name: |
     batugol
   entry_id: 54588897
   entry_content: |
-    (bkz: <a class="b" href="/?q=siktir+kid">siktir kid</a>)
+    (bkz: <a class="b" href="/?q=siktir+kid">siktir kid</a>)<br/><br/>önemli edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: dry power
 - entry_name: |
     erkeklerin şişman kadınları sevmeme nedenleri
   entry_id: 54582337
   entry_content: |
-    ahah şekilcilik meta vs gibi entel kuntel şeyler diyen feministlere götümle gülüyorum. <br/><br/>he anam erkek egemen dünya vsvs. sen yemeye devam et biscolatalarını. <br/><br/>kafası çalışan insanlar için yazıyorum :<br/><br/>doğurganlığı ispatlayan özelliklerden olmadığı, hatta riskli bir sağlık durumu oldugu içindir. <br/><br/>erkeklerin "çekici" buldukları şeyler esasen doğurganlığı ispat eden şeylerdir. <br/><br/>genç - ama cocuk doğuramayacak kadar genç değil. böylece cocuga uzun yıllar bakabileceği gibi uzun yıllar boyunca dogurganlığı sürecektir. gençlik azaldıkça doğurganlık düştüğünden yaşlanan kadınlara talep azalır. <br/><br/>güzel dişler, cilt, saç - yine saglığı ve iyi genleri ispat eden şeyler. cocugun yaşam şansını artıracak özellikler. <br/><br/>kalça göğüs oranı - kum saati modeli : kadının rahat doğurabilmesi ve bol süt verebilmesinin mümkün oldugunu gösteren işaretler. <br/><br/>şişmanlık - zayıflık : 2 milyon yıllık evrim esnasında şişmanlık 99% luk süre boyunca metabolizmaya dair ciddi bir hastalığın işaretidir, bol yemenin değil; zira yemek kıt, dünya kadar yürümek gerekiyor yemek bulabilmek için ve doğada hayvanlar nasıl şişmanlamıyorsa insanlar da şişmanlamıyordu. <br/><br/>es kaza metabolizmal bir hastalık (ne bileyim insülin saçmalıyodur mesela) sebebiyle şişmanlayan kadınları çekici bulan erkeklerin genlerini , annenin sağlıksız oluşu sebebiyle ileriki nesillere aktarılamadı, döneminde sağlıklı olan güçlü olan zayıf kadınları çekici bulan erkeklerinki aktarıldı. atalarımız yani obez olmayan kadınları çekici bulan erkeklerdi. <br/><br/>özetlen 2 milyon yıllık evrimi sallayıp, 50-60 yıllık sosyal ve uydurma (feminizm) fikirlerle erkeklerin niye şişman kadınları sevmediğini (insan olarak değil, potansiyel eş olarak) açıklamaya çalışıyosunuz.
+    ahah şekilcilik meta vs gibi entel kuntel şeyler diyen feministlere götümle gülüyorum. <br/><br/>he anam erkek egemen dünya vsvs. sen yemeye devam et biscolatalarını. <br/><br/>kafası çalışan insanlar için yazıyorum :<br/><br/>doğurganlığı ispatlayan özelliklerden olmadığı, hatta riskli bir sağlık durumu oldugu içindir. <br/><br/>erkeklerin "çekici" buldukları şeyler esasen doğurganlığı ispat eden şeylerdir. <br/><br/>genç - ama cocuk doğuramayacak kadar genç değil. böylece cocuga uzun yıllar bakabileceği gibi uzun yıllar boyunca dogurganlığı sürecektir. gençlik azaldıkça doğurganlık düştüğünden yaşlanan kadınlara talep azalır. <br/><br/>güzel dişler, cilt, saç - yine saglığı ve iyi genleri ispat eden şeyler. cocugun yaşam şansını artıracak özellikler. <br/><br/>kalça göğüs oranı - kum saati modeli : kadının rahat doğurabilmesi ve bol süt verebilmesinin mümkün oldugunu gösteren işaretler. <br/><br/>şişmanlık - zayıflık : 2 milyon yıllık evrim esnasında şişmanlık 99% luk süre boyunca metabolizmaya dair ciddi bir hastalığın işaretidir, bol yemenin değil; zira yemek kıt, dünya kadar yürümek gerekiyor yemek bulabilmek için ve doğada hayvanlar nasıl şişmanlamıyorsa insanlar da şişmanlamıyordu. <br/><br/>es kaza metabolizmal bir hastalık (ne bileyim insülin saçmalıyodur mesela) sebebiyle şişmanlayan kadınları çekici bulan erkeklerin genlerini , annenin sağlıksız oluşu sebebiyle ileriki nesillere aktarılamadı, döneminde sağlıklı olan güçlü olan zayıf kadınları çekici bulan erkeklerinki aktarıldı. atalarımız yani obez olmayan kadınları çekici bulan erkeklerdi. <br/><br/>özetlen 2 milyon yıllık evrimi sallayıp, 50-60 yıllık sosyal ve uydurma (feminizm) fikirlerle erkeklerin niye şişman kadınları sevmediğini (insan olarak değil, potansiyel eş olarak) açıklamaya çalışıyosunuz.<br/><br/>debe editi : (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: skeptico
 - entry_name: |
     aygan büfe'den alınan adana dürüm
   entry_id: 54591120
   entry_content: |
-    (bkz: <a class="b" href="/?q=fiyat%c4%b1+da+m%c4%b1+%c5%9f%c3%bcphelendirmedi+m%c3%bcbarek">fiyatı da mı şüphelendirmedi mübarek</a>)
+    (bkz: <a class="b" href="/?q=fiyat%c4%b1+da+m%c4%b1+%c5%9f%c3%bcphelendirmedi+m%c3%bcbarek">fiyatı da mı şüphelendirmedi mübarek</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: baltaliilhan
 - entry_name: |
     kürtler ölürken geziciler nerede
@@ -294,12 +282,12 @@ data:
     türkiye
   entry_id: 54602719
   entry_content: |
-    mustafa kemal atatürk önderliğinde kurulmuş ve eski bir iett çalışanı tarafından içine edilmiştir.
+    mustafa kemal atatürk önderliğinde kurulmuş ve eski bir iett çalışanı tarafından içine edilmiştir.<br/><br/>edit: (bkz: <a class="b" href="/?q=nida+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">nida için yardım kampanyası</a>)
   entry_writer: kimse bana tavuk diyemez
 - entry_name: |
     7 eylül 2015 hdp'nin pkk protestosu eylemi
   entry_id: 54597340
   entry_content: |
-    sen oy vermeye devam et, bu nazik dilini de git edebi metinlerde kullan 16 can şehit olmuş, hdp'ye sokayım
+    sen oy vermeye devam et, bu nazik dilini de git edebi metinlerde kullan 16 can şehit olmuş, hdp'ye sokayım<br/><br/>edit: şehitler ölmez, vatan bölünmez!
   entry_writer: johnribery
 ---
