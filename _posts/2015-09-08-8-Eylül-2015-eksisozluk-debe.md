@@ -6,7 +6,7 @@ data:
     gururluyum çünkü başörtülü bakanım var
   entry_id: 54611085
   entry_content: |
-    (bkz: <a class="b" href="/?q=zenginim+%c3%a7%c3%bcnk%c3%bc+se%c3%a7menim+mal">zenginim çünkü seçmenim mal</a>)
+    (bkz: <a class="b" href="/?q=zenginim+%c3%a7%c3%bcnk%c3%bc+se%c3%a7menim+mal">zenginim çünkü seçmenim mal</a>)<br/><br/>debe editi: yine, yeni ve yeniden (bkz: <a class="b" href="/?q=avrupa%27ya+%c3%bccretsiz+gitmek">avrupa'ya ücretsiz gitmek</a>)<br/>bir kişi bile ücretsiz fırsatlar sayesinde yurtdışına giderse ne mutlu bu entry'e... <br/>haa unutmadan; (bkz: <a class="b" href="/?q=vopool">vopool</a>)a üye olun!
   entry_writer: mctnky
 - entry_name: |
     taner yıldız'a asker üniforması gönderen vatandaş
@@ -30,7 +30,7 @@ data:
     burhan kuzu'nun sünnetsiz teröristler tweeti
   entry_id: 54625385
   entry_content: |
-    gerçekliğine inanmak istememekle beraber:<br/><br/>(bkz: <a class="b" href="/?q=zannedersem+tek+eksi%c4%9finiz+yarrakt%c4%b1">zannedersem tek eksiğiniz yarraktı</a>)<br/><br/>edit: ülkenin haline bak, yoruma bak. bunu diyen de cb danışmanı, anayasa prof.'u falan. başkomutanın danışmanı lan bu adam. nasıl oluyor da hala cinnet getirmiyoruz lan, nasıl hala hayatımıza normal akışında devam edebiliyoruz? cb baş danışmanı lan, baş danışman!
+    gerçekliğine inanmak istememekle beraber:<br/><br/>(bkz: <a class="b" href="/?q=zannedersem+tek+eksi%c4%9finiz+yarrakt%c4%b1">zannedersem tek eksiğiniz yarraktı</a>)<br/><br/>edit: ülkenin haline bak, yoruma bak. bunu diyen de cb danışmanı, anayasa prof.'u falan. başkomutanın danışmanı lan bu adam. nasıl oluyor da hala cinnet getirmiyoruz lan, nasıl hala hayatımıza normal akışında devam edebiliyoruz? cb baş danışmanı lan, baş danışman!<br/><br/>edit: ne demeye çalıştığını anlamayacak kadar sığ olduğum gibi bir iddia var. ne demek efendim, o sizin sığlığınız.<br/><br/>"kürt olmadıklarını kastediyor" diye savunuyorsunuz ya, beni bi gülme tutuyor. <br/><br/>öncelikle 90'lı yıllarda da halkın konuştuğu bir şeydi bu, aranızda başka hatırlayan var mı bilemem ama ben benzeri muhabbetlere bir yerlerde denk geldiğimi hatırlıyorum. ancak tabii benim duyduklarım pazarda, dükkanın önüne çektiği taburesinde arkadaşlarıyla vatan kurtarırken falan konuşan sıradan insanlardı. bir anayasa prof.'u, üstelik de cumhurbaşkanlığı baş danışmanlığı yapan bir insanın, terörle ilgili yorumu sıradan vatandaşın yirmi yıl önce kulaktan kulağa yaymaya çalıştığı, bir kısmının "olur mu öyle şey", bir kısmının "ne alaka yahu?" dediği, bir kısmının ise sanki kansere tedavi bulmuşçasına heyecanla dile getirdiği bu cümle olması size normal geliyor mu?<br/><br/>lafa gelince maşallah hepiniz biliyorsunuz devlet nasıl yönetilir, türk devleti nasıl da muhteşemdir falan. asıl sizin bir oturup düşünmeniz ve sinirlenmeniz gerekir. bu adam devletinin anayasa komisyonunda, bu adam devletinin cumhurbaşkanının baş danışmanı ve terör ile ilgili yorumu işte bu kadar sığ. devlette işler böyle yürümez, devlet kahve ağzıyla konuşamaz. madem ki kürt vatandaşlarının uyanması senin için bu kadar önemli ve madem bir kısım dış güçlerin ülkeyi bölmek için kürtleri kullandığından bu kadar eminsin bunu başka türlü açıklarsın. nerede istihbaratın, nerede kanıtların? cesetlerin cinsel organlarına bakarak mı karar verecek koskoca devlet böyle bir konuda?<br/><br/>hayır daha "ne olmuş sünnetsizlerse?", "bütün kürtler müslüman mı olmak zorunda?", "bütün müslümanlar sünnetli mi olmak zorunda?" vs'ye girmedim bile. çünkü konu bu değil, çünkü devletinin anayasasını hazırlayan komisyondaki bir adam, devletinin cumhurbaşkanının baş danışmanlığını yapan bir adam terörle ilgili 90'lardan kalma kahve muhabbeti ile yorum yapıyorsa o çok övündüğün, gururlanmaya doyamadığın devlet yönetim anlayışında bir sıkıntı var demek ki. bunu eleştirmek ya da en azından eleştirenlere hakaret ederek savunmaya çalışmamak ile başlayabilirsin bence. yanlışa yanlış demekten, saçmalığa saçmalık demekten bu kadar imtina edişiniz neden, anlamak mümkün değil. <br/><br/>ister hdp'li ol, ister chp'li, ister mhp'li ve hatta akp'li ol, cumhurbaşkanı baş danışmanının ve devletinin anayasasını hazırlamasını istediğin adamın şu yorumunun saçmalığını inkar etme. özellikle de sen sağ görüşlü vatandaş, o çok sevdiğin devletinin böylesi gülünç duruma düşürülmesine izin verme bence, ne dersin? gerçi sen de haklısın; "cumhurbaşkanına bak, danışmanını al" öyle değil mi?
   entry_writer: baklava yiyen kedi
 - entry_name: |
     nicolae ceauşescu
@@ -66,7 +66,7 @@ data:
     satrançta at mı fil mi daha değerlidir sorunsalı
   entry_id: 54622437
   entry_content: |
-    bir fil ile at kıyası olduğunda atın,<br/>iki fil ile iki atın kıyasında ise iki filin daha değerli olduğu ile açıklanabilecek sorunsal...
+    bir fil ile at kıyası olduğunda atın,<br/>iki fil ile iki atın kıyasında ise iki filin daha değerli olduğu ile açıklanabilecek sorunsal...<br/><br/>debe edit: böyle yoğun ve üzücü bir gündemde böyle bir entry'nin debe'ye girmesi aslında beni şaşırtmadı.<br/>efsaneye göre vaktiyle eşit güçte görünen ordular birbirlerine çok zarar vermesin, insanlar yaralanıp ölmesin diye, düşman güçlerin komutanları kendi aralarında satranç oynar, oyunu kazanan taraf savaşı da kazandı sayılırmış ve kimsenin burnu kanamadan savaş son bulurmuş. her gün acıların katlanarak çoğaldığı bir günde satrançla ilgili basit bir bilgi içeren entry'nin debe olması da, bizlerin efsanedeki insanların genlerini taşıdığımızı gösteriyor belki. umarım kan ve göz yaşından dersler alır, sorunları savaşlar yerine aynı satrançtaki gibi felsefe, zeka, bilgi, teknik, matematik, sanat ve mutlulukla çözeriz; kimsenin kılına zarar gelmeden.
   entry_writer: ahmetgm
 - entry_name: |
     abdurrahim boynukalın
@@ -93,17 +93,11 @@ data:
     (bkz: <a class="b" href="/?q=do%c4%9fru+s%c3%b6ze+ne+denir">doğru söze ne denir</a>)<br/>(bkz: <a class="b" href="/?q=le%c5%9ften+de+%c3%b6te">leşten de öte</a>)
   entry_writer: ahirette gorusuruz
 - entry_name: |
-    tsk'nın pkk'den geçici ateşkes istemesi
+    tsk'nin pkk'den geçici ateşkes istemesi
   entry_id: 54617130
   entry_content: |
     şunun gerçek olduğuna inanan siktirsin gitsin kendi ütopyasında yaşasın
   entry_writer: nobrandede
-- entry_name: |
-    1 kasım'da da 400 bulunmazsa olacaklar
-  entry_id: 54607072
-  entry_content: |
-    bu sefer cb, kandil'e gidip pkk'yı bizzat kendi yönetecektir.
-  entry_writer: fener i bahce
 - entry_name: |
     çevrenizden bir akp'liyi ikna edin
   entry_id: 54611095
@@ -111,28 +105,16 @@ data:
     imkansızdır. daha önce yazdım yine yazayım.<br/><br/>oy verecek nüfusun yüzde 40'dır.<br/><br/><a class="b" href="/?q=belertmeyin+g%c3%b6zlerinizi+%c3%b6yle">belertmeyin gözlerinizi öyle</a>.<br/><br/>ne sanıyorsunuz? akp'nin baraj altında kalacağını falan mı? elbette benim de hayalim isveç ama gerçekler ortadoğu türkiye'si.<br/><br/>yüzde 40 diyorum bak. 3 değil 5 değil. aklınız almıyor değil mi? nasıl olur diyorsunuz.<br/><br/>ülkenin ekonomisi batmış.<br/><br/>dolar 3 tl olmuş.<br/><br/>2 ay içinde 60 asker şehit olmuş.<br/><br/>ülke ayrışmış, herkes birbirinin gırtlağına sarılıyor.<br/><br/>sağlık sistemi çökmüş, hastaneler mr için 1 yıl sonraya gün veriyor.<br/><br/>daha dur okullar açılmadı asıl rezillik 2 hafta içinde eğitimde de patlayacak.<br/><br/>bitmişiz. turizmle ülke kurtarmaya çalışıyoruz. bitmişiz. nasıl olur diyorsun değil mi güzel kardeşim.<br/><br/>çünkü kimsenin umurunda değil ekonomi falan, sağlık sistemi de öyle. kahvehanedeki adamlar bunlar kendilerinden olanı seçiyorlar. ekmek gibi dertleri yok, kan ve savaş gibi kaçıncaları da..<br/><br/>dolar yükselir <a class="b" href="/?q=akp+tek+ba%c5%9f%c4%b1na+iktidar+olmad%c4%b1%c4%9f%c4%b1+i%c3%a7in+derler">akp tek başına iktidar olmadığı için derler</a>. sağlık sistemi çöker. <a class="b" href="/?q=zaten+ssk%27y%c4%b1+siz+bat%c4%b1rm%c4%b1%c5%9ft%c4%b1n%c4%b1z+derler.">zaten ssk'yı siz batırmıştınız derler.</a> eğitim sistemi çöker. <a class="b" href="/?q=ama+okulda+s%c3%bct+da%c4%9f%c4%b1t%c4%b1l%c4%b1yor+derler">ama okulda süt dağıtılıyor derler</a>.<br/><br/><a class="b" href="/?q=90%27lara+d%c3%b6nmek+istemiyoruz">90'lara dönmek istemiyoruz</a> derler. <br/><br/>hangi 90 dersin? 1990'larda türkiye’de siyaset şimdiki gibi bir tek partinin gölgesi altında yapılmıyordu. kavga dövüş şimdiki gibi ayyuka çıkmamış, toplum bu kadar bilenmemiş, birbirini boğazlamak için gün sayar olmamıştı.<br/><br/>siyasi partiler toplumsal çatışmadan beslenmediği için de siyaset, her ne kadar zayıf da olsa, iç sıkıcı ve gergin bir ortamda değil, yalnızca beceriksiz bir sahnede yapılıyordu.<br/><br/>şimdiki gibi siz-biz olmadığı için tansu çiller’in oğlunun askerliğini bahriyede yapması bütün toplumu çileden çıkarıyor, şimdi <a class="b" href="/?q=gemiciklere+laf+etmeyen+toplum">gemiciklere laf etmeyen toplum</a> çiller çiftinin oğluna aldığı jet-ski‘yi yıllarca dilinden düşürmüyordu. dersinnnnnnnnnnnnnnnnnnnnnnn..<br/><br/>hangi 90'lar dersin? <a class="b" href="/?q=faili+me%c3%a7hul">faili meçhul</a> derler. <br/><br/>doğuda <a class="b" href="/?q=astsubay%27%c4%b1n+kafas%c4%b1na+s%c4%b1kanlar">astsubay'ın kafasına sıkanlar</a> dahi yakalanamıyor `ülkede çözülmemiş cinayet sayısı cumhuriyet rekoru kırdı` dersin, inanmazlar.<br/><br/>yazmaz çünkü gazeteler, <a class="b" href="/?q=s%c3%b6ylemez+televizyonlar">söylemez televizyonlar</a>.<br/><br/>dersin ki yahu basın korkudan ülke gerçeklerini anlatamıyor, 90'larda her boku jitemi, faili meçhulleri bilirdiniz çünkü basın yerden yere vururdu dersiniz. basın yazardı dersiniz.<br/><br/>kıçlarını dönerler.. <a class="b" href="/?q=ba%c5%9f%c3%b6rt%c3%bcl%c3%bc+bac%c4%b1m%c4%b1+gata%27ya+almad%c4%b1lar">başörtülü bacımı gata'ya almadılar</a> derler. yumruğunuzu sıkarsınız. <a class="b" href="/?q=%c3%bclkeye+bakars%c4%b1n%c4%b1z+bir+de+d%c3%b6n%c3%bcp+ba%c5%9f%c3%b6rt%c3%bcs%c3%bcne">ülkeye bakarsınız bir de dönüp başörtüsüne</a>. <br/><br/>hemen üzülme güzel kardeşim...<br/><br/>ne yapacaksın <a class="b" href="/?q=bahane+g%c3%b6t+gibi+herkeste+var">bahane göt gibi herkeste var</a>. peki ne mi istiyorlar?<br/><br/>ülkeyi kendilerinden olanla yönetmek istiyorlar. dertleri ne türban, ne faili meçhul. dertleri yönetmek güzel kardeşim. <br/><br/>git <a class="b" href="/?q=saadete+oy+ver">saadete oy ver</a> diyorsun. hani o da müslüman. <a class="b" href="/?q=vermiyor">vermiyor</a>.. derdi din değil çünkü. derdi bu ülkede sözünü bir 13 yıl daha geçirmek..<br/><br/>üzülme güzel kardeşim...<br/><br/><a class="b" href="/?q=onu+ba%c5%9fkan+yapmayaca%c4%9f%c4%b1z">onu başkan yapmayacağız</a>.
   entry_writer: fridanin parcalanmis omurgasi
 - entry_name: |
-    6 eylül 2015 yüksekova'da 16 askerin şehit olması
-  entry_id: 54608568
-  entry_content: |
-    bazi orospu anali kancik evlatlari hala chp yi sucluyor. <br/><br/>ırzini gecmisini gelecegini siktigim pici bu ulkeyi 13 yildir sen yonetmiyor musun. cozum sureci adi altinda pkk iyice guclendi, orgutlendi, sehir yapilanmasini tamamladi dedigimiz zaman aman analar aglamasin agzimizin tadi bozulmasin diyen amin feryatlari siz degil misiniz?<br/><br/>sulalesini siktigimin cocugu cikmis birde diyor ki pkk ya operasyonlardan sonra chp yede operasyon yapilmali. be aminoglu 1 kasim son cirpinma tarihiniz olacak sen dahil hepinizin anasini sikecegiz.
-  entry_writer: duygusalrasyonalist
-- entry_name: |
     hürriyet'i basan akp'linin bedelli yapmış olması
   entry_id: 54614875
   entry_content: |
     hiç şaşırtmamıştır. birinin oğlu gitmez öbürünün kendi gitmez sana der ki git öl.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://haber.sol.org.tr/turkiye/hurriyeti-basan-akpli-vekil-bedelli-askerlik-yapmis-128949" title="http://haber.sol.org.tr/turkiye/hurriyeti-basan-akpli-vekil-bedelli-askerlik-yapmis-128949">http://haber.sol.org.tr/…lli-askerlik-yapmis-128949</a>
   entry_writer: kendi diyen
 - entry_name: |
-    osman pamukoğlu
-  entry_id: 54619665
-  entry_content: |
-    sözlükteki tüm pkklıları üst üste bağlar siker.
-  entry_writer: ervahi ezelden
-- entry_name: |
     mhp'ye oy verenler şimdi neler düşünüyorlar
   entry_id: 54610890
   entry_content: |
-    mhp'ye oy vermis biri olarak ben sizlere söyleyeyim.<br/>en başta sağlam duruşlu hicbir mhpli akp'ye oy vermeyi aklindan bile gecirmez. hdp ne kadar kötüyse akp de bizim için o kadar kötüdür.<br/>kendi adıma mhp'nin terör karşısında en sağlam duran parti olduğunu düşünüyorum. zamaninda terörü bitirmis parti olan mhp, bunu bu taviz vermeyen duruşu ile başarmıştır. chp, akp ve hdp açılimi savunurken biz "teröristle müzakere olmaz" demiştik. ne kadar dogru söylediğimiz yine ortada. <br/>son söz olarak, secimlerde oyumu yine mhp'ye verecegim.
+    mhp'ye oy vermis biri olarak ben sizlere söyleyeyim.<br/>en başta sağlam duruşlu hicbir mhpli akp'ye oy vermeyi aklindan bile gecirmez. hdp ne kadar kötüyse akp de bizim için o kadar kötüdür.<br/>kendi adıma mhp'nin terör karşısında en sağlam duran parti olduğunu düşünüyorum. zamaninda terörü bitirmis parti olan mhp, bunu bu taviz vermeyen duruşu ile başarmıştır. chp, akp ve hdp açılimi savunurken biz "teröristle müzakere olmaz" demiştik. ne kadar dogru söylediğimiz yine ortada. <br/>son söz olarak, secimlerde oyumu yine mhp'ye verecegim.<br/><br/>düzeltme: mhp teröru bitirmedi diyenler var. o kadar iktidar arasında teröru bu kadar sindiren ve öcalan'i yakalayan başka bir iktidar yok. bu konu bence tartışmaya kapali.
   entry_writer: recep2219
 - entry_name: |
     football manager 2016
@@ -195,28 +177,16 @@ data:
     lan tanımadığınız insanların evliliklerinin gidişatıyla morali bozulacak kadar gündemsiz ve güvenli hayatları nasıl yaşıyorsunuz aq? <br/><br/>ismi tanıdık gelen kişi.
   entry_writer: aziz bagirsaksiz
 - entry_name: |
-    karakteri bozuk şehit babaları da var yalanı
-  entry_id: 54609460
-  entry_content: |
-    kaç para aldığı merak edilen bir yazarın açtığı başlık. değer mi para için mevki için? değer mi ak partinin medya organlarında barinabilmek için? hiç mi allah korkusu yok içinizde? hiç savaşta herşey mubah yalan da diyerek kendinizi kandırmayın. gün gelir hesap döner.
-  entry_writer: atarcan
-- entry_name: |
     onedio
   entry_id: 54616407
   entry_content: |
     oradan buradan aparma içeriklerine, ölüm tarihinizi tahmin ediyoruz testlerine, kazağının altında külot giyip elinde kahve tutan tumblr kızı gifiyle doldurulmuş "gerçek aşkı bulunca anlayacağınız şeyler" galerine filan razıyım, istedikleri kadar para kaldırsınlar umrum değil, bu ülkede en çok acun, seda bacı filan kazanıyor sonuçta, yeter ki şehitler üzerinden hit almak için yırtınmasınlar. bugün yüksekova saldırısıyla ilgili bir anketine bir de galerisine rastladım, bu kadar da kepazeleşilemez:<br/><br/>"dağlıca'dan gelen kötü haberler sonrası sosyal medyada pkk saldırısında 10'un üzerinde askerin şehit olduğu bilgisi geldi ve ardından <a class="b" href="/?q=olaylar+geli%c5%9fti">olaylar gelişti</a>"<br/>demek olaylar gelişti? kaderimin yazıldığı gün dizisini, maçta yapılan taşkınlığı anlatıyor sanki. olaylar gelişmişmiş lan, vay amk. <br/><br/>sonra üstüne bir de anket çakmışlar, tek eksiğimiz tamamlanmış: "dağlıca saldırısı'ndan sonra herkesin bir fikri var. peki sen ne düşünüyorsun?". birinin genital gölgesini düşünüyorum, dile getirmek istemiyorum. sen de olaya bu kadar üzülme onedio, kendini bu kadar paralama, hasta masta olursun mazallah, don renginizi tahmin ediyoruz testlerine geri dön.
   entry_writer: isolde
 - entry_name: |
-    ben bugün 17 şehit yakınını aradım
-  entry_id: 54607712
-  entry_content: |
-    hamdolsun bir tanesi olumsuz bir tepki göstermedi. şeklinde devam eden bir tayyip beyanı. <br/>allahım uzak etsin, kendinden nefret eden birisi olduğum halde beni böyle bir şey için arasa, az birazda makama saygıdan teşekkür eder, hiç polemiğe girmeden konuyu kapatırım. zaten acım büyük bir de kendiyle mi uğraşayım. muhtemelen o şehit yakınları da benim düşündüğümü düşünüp acılı halde deliyle deli olmayalım demişlerdir. <br/>diğer bir ihtimal ise, yanlış numarayı aramasıdır. düşününce bu da mantıklı geliyor.
-  entry_writer: menumen
-- entry_name: |
     doğu'yu vatan toprağı sanma yanılgısı
   entry_id: 54618313
   entry_content: |
-    günümüzde çektiğimiz bütün sıkıntıların sebebidir. <br/><br/>atalarımız bizden daha az akıllı olacaklar ki anadolu'ya gelmeleriyle beraber doğu'yu pas geçip o hızla marmara'ya, ege'ye ulaştılar. zorunlu haller dışında hepsinin derdi batı'ya gitmek oldu.<br/><br/>ve şundan emin olun ki tarihte güneydoğu için hiçbir devlet türkiye cumhuriyeti kadar kan dökmedi.<br/><br/>şah ismail'in derdi güneydoğu değil batı anadolu, istanbul'du.<br/><br/>yavuz'un derdi doğu'dan gelen tehdidi önlemekti. ömrü yetse doğu'ya giderdi ama burdaki amacı iran'ı almak olurdu. bugünkü güneydoğu'yu kafaya taktığını hiç sanmıyorum.<br/><br/>biz ise hiçbir zaman türk yurdu olmamış topraklar için son 30 yılımızı yedik.<br/>tek bir karış vatan toprağını vermeyiz diye diye yoksulluğa, geri kalmışlığa mahkum olduk.<br/><br/>yap bir referandum, çek sınırı, ondan sonra o sınırın içinde kalan toprak için gerekirse hepimiz ölelim, çünkü orası vatan toprağı. çünkü senin askerin, polisin o toprak için savaşırken arkadan vurulmayacağını bilecek. çünkü sabah kahvede okey oynayan adam akşam terörist olarak karşısına dikilmeyecek. <br/><br/>çünkü orası vatan toprağı.<br/><br/>askerlik ya da zorunlu hizmet dışında adımını atmayacağın yer senin vatanın değil.<br/><br/>ve şunu da unutmamak gerek ki o çekmediğin sınır, çekmediğin her gün biraz daha batı'ya kayacak.
+    günümüzde çektiğimiz bütün sıkıntıların sebebidir. <br/><br/>atalarımız bizden daha az akıllı olacaklar ki anadolu'ya gelmeleriyle beraber doğu'yu pas geçip o hızla marmara'ya, ege'ye ulaştılar. zorunlu haller dışında hepsinin derdi batı'ya gitmek oldu.<br/><br/>ve şundan emin olun ki tarihte güneydoğu için hiçbir devlet türkiye cumhuriyeti kadar kan dökmedi.<br/><br/>şah ismail'in derdi güneydoğu değil batı anadolu, istanbul'du.<br/><br/>yavuz'un derdi doğu'dan gelen tehdidi önlemekti. ömrü yetse doğu'ya giderdi ama burdaki amacı iran'ı almak olurdu. bugünkü güneydoğu'yu kafaya taktığını hiç sanmıyorum.<br/><br/>biz ise hiçbir zaman türk yurdu olmamış topraklar için son 30 yılımızı yedik.<br/>tek bir karış vatan toprağını vermeyiz diye diye yoksulluğa, geri kalmışlığa mahkum olduk.<br/><br/>yap bir referandum, çek sınırı, ondan sonra o sınırın içinde kalan toprak için gerekirse hepimiz ölelim, çünkü orası vatan toprağı. çünkü senin askerin, polisin o toprak için savaşırken arkadan vurulmayacağını bilecek. çünkü sabah kahvede okey oynayan adam akşam terörist olarak karşısına dikilmeyecek. <br/><br/>çünkü orası vatan toprağı.<br/><br/>askerlik ya da zorunlu hizmet dışında adımını atmayacağın yer senin vatanın değil.<br/><br/>ve şunu da unutmamak gerek ki o çekmediğin sınır, çekmediğin her gün biraz daha batı'ya kayacak.<br/><br/>(bkz: <a class="b" href="/?q=pkk%27y%c4%b1+ele%c5%9ftirirken+hissedilen+u%c3%a7urulma+korkusu">pkk'yı eleştirirken hissedilen uçurulma korkusu</a>)
   entry_writer: gaileli
 - entry_name: |
     7 eylül 2015 tsk açıklaması
@@ -224,12 +194,6 @@ data:
   entry_content: |
     demek ki neymiş, omuza 4 tane çelenkli yıldız takmakla orgeneral olunmuyormus. insan üstündeki üniformadan utanır. amk silah arkadaşları suçsuz yere rezilce gözaltına alınırken terfim gelecek diye el ovusturanlardan oturmuş açıklama bekliyoruz.
   entry_writer: heecnormal
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id: 54619585
-  entry_content: |
-    birbirimizi kandırmayalım, bu adam halka karşı malafatı çıkarıp bu size girsin dese bile hala oy alır. o kadar bitik insanlarla yaşıyoruz.
-  entry_writer: yaw he he
 - entry_name: |
     1 kasım 2015 türkiye erken genel seçimi
   entry_id: 54607193
@@ -246,7 +210,7 @@ data:
     8 eylül 2015 halkın tekrar sokağa çıkması
   entry_id: 54628238
   entry_content: |
-    gezi ile arasında ki fark şudur, bu ayaklanmayı gezi gibi ilerde çocuklarımıza tatlı bir anı olarak anlatamayacağız. çünkü bu resmen iç savaşın ayak sesleri. bu ayak seslerinin sonucu, selam verdiğin kapı komşunu sebepsiz yere öldürmenle sonuçlanabilir.
+    gezi ile arasında ki fark şudur, bu ayaklanmayı gezi gibi ilerde çocuklarımıza tatlı bir anı olarak anlatamayacağız. çünkü bu resmen iç savaşın ayak sesleri. bu ayak seslerinin sonucu, selam verdiğin kapı komşunu sebepsiz yere öldürmenle sonuçlanabilir.<br/><br/>edit: gezi olaylarına ''tatlı anı'' dediğim için tepkiler geldi, ölenler için saygım sonsuz ama iç savaş ile kıyaslanırsa inanın tatlı anı olarak kalacaktır.
   entry_writer: alemin kizanlari cin gibi
 - entry_name: |
     çözüm süreci
@@ -284,12 +248,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=ayn+ferlesta!">ayn ferlesta!</a>)<br/>(bkz: <a class="b" href="/?q=allaam+allaam!">allaam allaam!</a>)<br/>(bkz: <a class="b" href="/?q=consider+it+done!">consider it done!</a>)<br/>(bkz: <a class="b" href="/?q=coming+right+over+sir!">coming right over sir!</a>)<br/><br/>ve daha niceleri...
   entry_writer: lokumboy
-- entry_name: |
-    bir babanın bozuk karakterli olduğunu anlama yolu
-  entry_id: 54606891
-  entry_content: |
-    türlü çeşit oşabilir. hırsızsa mesela, yalancıysa, katilse bozuk karakterlidir.bunları milyonlarca insanın önünde utanmadan yapıyorsa hem bozuk karakterli hem de orospu çocuğunun önde gidenidir.
-  entry_writer: 1932474
 - entry_name: |
     7 eylül 2015 sevgilimden ayrılmam
   entry_id: 54626602
