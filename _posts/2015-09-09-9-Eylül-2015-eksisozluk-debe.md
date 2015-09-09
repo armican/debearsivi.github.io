@@ -18,7 +18,7 @@ data:
     türklerin imanı yok
   entry_id: 54636237
   entry_content: |
-    <a class="b" href="/?q=c%c3%bcneyt+%c3%b6zdemir">cüneyt özdemir</a>'in cnnturk'teki <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=GKvGxsJdgi8" title="https://www.youtube.com/watch?v=GKvGxsJdgi8">5n1k programında</a> röportaj yaptığı mültecilerden birinin söylediği cümle. şöyle diyor:<br/><br/>"türkiye'de çalışıyoruz, para vermiyorlar. bir ay, iki ay çalışıyorum, yarın para vereceğim diyor, vermiyor. türkler paramızı vermiyor. hristiyanlar daha iyi, onun imanı daha iyi. buradakilerin imanı yok. türkler müslüman ama çalışan adamın parasını vermiyor." <br/><br/>yorumsuz.<br/><br/>edit: bahsi geçen röportajı 07:40'tan itibaren izleyebilirsiniz.
+    <a class="b" href="/?q=c%c3%bcneyt+%c3%b6zdemir">cüneyt özdemir</a>'in cnnturk'teki <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=GKvGxsJdgi8&feature=youtu.be&t=7m40s;t=7m40s" title="https://www.youtube.com/watch?v=GKvGxsJdgi8&feature=youtu.be&t=7m40s;t=7m40s">5n1k programında</a> röportaj yaptığı mültecilerden birinin söylediği cümle. şöyle diyor:<br/><br/>"türkiye'de çalışıyoruz, para vermiyorlar. bir ay, iki ay çalışıyorum, yarın para vereceğim diyor, vermiyor. türkler paramızı vermiyor. hristiyanlar daha iyi, onun imanı daha iyi. buradakilerin imanı yok. türkler müslüman ama çalışan adamın parasını vermiyor." <br/><br/>yorumsuz.<br/><br/>debe editi: ingilizce- türkçe, türkçe - ingilizce çeviriye ihtiyacı olan arkadaşlar (bkz: <a class="b" href="/entry/53413983">#53413983</a>)
   entry_writer: maradonanindonu
 - entry_name: |
     bordo bereliler telsizlerini kapattı goygoyu
@@ -96,7 +96,7 @@ data:
     rize'de teröre tepki böyle olur
   entry_id: 54634093
   entry_content: |
-    bu zeka seviyesinin çıkarttığı lider de anca bu kadar olur.
+    bu zeka seviyesinin çıkarttığı lider de anca bu kadar olur.<br/><br/>debe editi : ilk debemi hacı bekler gibi sıra bekleyen çaylak kardeşlerime armağan ediyorum.
   entry_writer: chislehurst
 - entry_name: |
     ülkücülerin kürde benziyor diye mhp'li dövmesi
@@ -174,7 +174,7 @@ data:
     selahattin demirtaş
   entry_id: 54633755
   entry_content: |
-    "ne yaparlarsa yapsınlar kürt-türk birbirinize sarılın" demiştir. <a rel="nofollow" class="url" target="_blank" href="http://www.imctv.com.tr/demirtas-kurt-turk-birbirinize-sarilin/" title="http://www.imctv.com.tr/demirtas-kurt-turk-birbirinize-sarilin/">http://www.imctv.com.tr/…-turk-birbirinize-sarilin/</a><br/><br/>bunu, partisi bir gecede tek elden yonetilen 126 saldiriya ugradigi, kürt işçilerin dövüldüğü, evlerinin yakıldığı, diyarbakıra giden yolcu otobuslerinin saldiriya uğradiği dun gece soylemiştir.<br/><br/>herkesin agzindan kan damliyorken, savaş demeyen, sarıl diyen tek insandır ulke siysetinde. kiymetlidir.<br/><br/>yazik ettiniz.
+    "ne yaparlarsa yapsınlar kürt-türk birbirinize sarılın" demiştir. <a rel="nofollow" class="url" target="_blank" href="http://www.imctv.com.tr/demirtas-kurt-turk-birbirinize-sarilin/" title="http://www.imctv.com.tr/demirtas-kurt-turk-birbirinize-sarilin/">http://www.imctv.com.tr/…-turk-birbirinize-sarilin/</a><br/><br/>bunu, partisi bir gecede tek elden yonetilen 128 saldiriya ugradigi, kürt işçilerin dövüldüğü, evlerinin yakıldığı, diyarbakıra giden yolcu otobuslerinin saldiriya uğradiği dun gece soylemiştir.<br/><br/>herkesin agzindan kan damliyorken, savaş demeyen, sarıl diyen tek insandır ulke siysetinde. kiymetlidir.<br/><br/>yazik ettiniz.
   entry_writer: jusekule
 - entry_name: |
     bunu hükümet yaptı başkası değil
@@ -258,7 +258,7 @@ data:
     8 eylül 2015 sabah gazetesi manşeti
   entry_id: 54633219
   entry_content: |
-    faillerin kocaman kocaman fotoğraflarının bulunduğu manşet..
+    faillerin kocaman kocaman fotoğraflarının bulunduğu manşet..<br/><br/><a class="b" href="/?q=edit">edit</a>: url'nin varış noktası değişmiş..<br/><br/>yüksek bir sayı verilmiş, "aha bu kadar terörist öldürüldü işte" denmişti.. faillerin de kocaman kocaman fotoğrafları vardı.. sanırım hala var..<br/><br/>çok şey yapmamak lazım tabi..
   entry_writer: hapsuruktan tayyare
 - entry_name: |
     9 eylül 2015 arının benimle dalga geçmesi
@@ -284,12 +284,6 @@ data:
   entry_content: |
     <a class="b" href="/?q=chp">chp</a> varken yapmayacağım olaydır.
   entry_writer: colorwind
-- entry_name: |
-    8 eylül 2015 korna rezaleti
-  entry_id: 54648972
-  entry_content: |
-    cenaze evinde düğün alayı gibi dolaşmakla vuku bulan rezalettir. misal ben şu an muğla'dayım kız almaya geldiler herhalde diyerek sürekli camdan bakıyorum. dali dili havalı kornalar falan. beklenti ne peki? terörü mü çözdünüz; ölen çocukları geri mi getirdiniz?<br/><br/>sizin ben sıfatınız sikeyim orospu çocukları. sarayınızla birlikte batıp gideceksiniz; ölüme sürüklediğiniz gencecik çocukların vebaliyle gideceksiniz.
-  entry_writer: hotfail
 - entry_name: |
     8 eylül 2015 olayları
   entry_id: 54648258
