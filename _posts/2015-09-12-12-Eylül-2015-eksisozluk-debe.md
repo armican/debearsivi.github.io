@@ -6,19 +6,19 @@ data:
     insanın aklını başından alan harika dübel capsleri
   entry_id: 54717941
   entry_content: |
-    (bkz: <a class="b" href="/?q=yine+%c5%9fantiyeye+soktun+karde%c5%9f">yine şantiyeye soktun kardeş</a>)<br/>sosyal sorumluluk editi: <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/54724783" title="https://eksisozluk.com/entry/54724783">mardin tekir köy okuluna yardım kampanyası</a>
+    (bkz: <a class="b" href="/?q=yine+%c5%9fantiyeye+soktun+karde%c5%9f">yine şantiyeye soktun kardeş</a>)
   entry_writer: icgecmesi
 - entry_name: |
     at yarışında 3.6 milyon lira kaybeden icra müdürü
   entry_id: 54724555
   entry_content: |
-    3.6 milyon liralık açığın anca kasa devredileceği zaman fark edildiğini göstermiş olay. ulan bu devletin hiç mi denetim mekanizması yok böyle bir şey olabilir mi amına koyim.<br/><br/>edit: (bkz: <a class="b" href="/?q=mardin+tekir+k%c3%b6y+okuluna+yard%c4%b1m+kampanyas%c4%b1">mardin tekir köy okuluna yardım kampanyası</a>)
+    3.6 milyon liralık açığın anca kasa devredileceği zaman fark edildiğini göstermiş olay. ulan bu devletin hiç mi denetim mekanizması yok böyle bir şey olabilir mi amına koyim.
   entry_writer: mimar kiz ariyorum
 - entry_name: |
     merkez bankası bize 2.70'ten dolar satsın
   entry_id: 54710669
   entry_content: |
-    sonra emekliye yılda 2 ikramiye bütçeyi bozar popülist söylemler ülkeye zarar verir diye gazetelere utanmadan demeç verirsin değil mi ito başkanı.<br/><br/>(bkz: <a class="b" href="/?q=ars%c4%b1zl%c4%b1k">arsızlık</a>)<br/><br/>(bkz: <a class="b" href="/?q=ya+karde%c5%9f+kriz+yok+derken+%c3%a7ok+rahat+konu%c5%9fuyordun">ya kardeş kriz yok derken çok rahat konuşuyordun</a>)<br/><br/>debe editi:<br/><br/>(bkz: <a class="b" href="/?q=mardin+tekir+k%c3%b6y+okuluna+yard%c4%b1m+kampanyas%c4%b1">mardin tekir köy okuluna yardım kampanyası</a>)
+    sonra emekliye yılda 2 ikramiye bütçeyi bozar popülist söylemler ülkeye zarar verir diye gazetelere utanmadan demeç verirsin değil mi ito başkanı.<br/><br/>(bkz: <a class="b" href="/?q=ars%c4%b1zl%c4%b1k">arsızlık</a>)<br/><br/>(bkz: <a class="b" href="/?q=ya+karde%c5%9f+kriz+yok+derken+%c3%a7ok+rahat+konu%c5%9fuyordun">ya kardeş kriz yok derken çok rahat konuşuyordun</a>)
   entry_writer: hirvat taraftarin gogsunu yalayan turk
 - entry_name: |
     linkedin'den yürüyen meslektaşını ifşa eden avukat
@@ -30,7 +30,7 @@ data:
     alperen ocakları'nın doğuya gidenlere gül vermesi
   entry_id: 54719810
   entry_content: |
-    kısaca haberi; "bayrampaşa'daki otogarda doğu ve güneydoğu illerine giden otobüslerdeki yolculara gül dağıtıp; lokum ile gül suyu ikram etti" şeklindedir.<br/><br/>insanların birbiriyle gül gibi geçinebilmesi dileği ile helal olsun dedirtmiştir. devamı gelir umarım. <br/>not: bbp mhp vs değilim.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://aljazeera.com.tr/haber/alperen-ocaklari-gul-dagitti" title="http://aljazeera.com.tr/haber/alperen-ocaklari-gul-dagitti">link</a><br/><br/>debit: (bkz: <a class="b" href="/entry/54724783">#54724783</a>)<br/>(bkz: <a class="b" href="/?q=mardin+tekir+koy+okuluna+yardim+kampanyasi">mardin tekir koy okuluna yardim kampanyasi</a>)
+    kısaca haberi; "bayrampaşa'daki otogarda doğu ve güneydoğu illerine giden otobüslerdeki yolculara gül dağıtıp; lokum ile gül suyu ikram etti" şeklindedir.<br/><br/>insanların birbiriyle gül gibi geçinebilmesi dileği ile helal olsun dedirtmiştir. devamı gelir umarım. <br/>not: bbp mhp vs değilim.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://aljazeera.com.tr/haber/alperen-ocaklari-gul-dagitti" title="http://aljazeera.com.tr/haber/alperen-ocaklari-gul-dagitti">link</a>
   entry_writer: kolombiyalikokainkacakcisipedro
 - entry_name: |
     el kaide'nin ışid'e savaş açması
@@ -66,7 +66,7 @@ data:
     11 eylül 2015 pkk diyarbakır saldırısı
   entry_id: 54710571
   entry_content: |
-    eğer ki bu polisler olayı erken farkedip karşılık vererek birkaç teröristi yaralasa ya da öldürse bu olay sözlükte infial etkisi yaratacak ''diyarbakır'da insan katliamı, #kurdsunderattack, insanlığınızı kaybetmişsiniz faşist sürüsü'' gibi argümanlarla savunuluyor olacaktı. <br/><br/>tabi şu anki haliyle eylem başarıyla yapılmış, polisler ağır yaralandığı için sözlük teröristleri çok ilgi göstermiyor. sizin şerefinizi sikeyim. ettiğinizin karşılığını hem bu dünyada hem de ahirette, dağdaki kardeşlerinizle birlikte, bulursunuz inşallah.
+    eğer ki bu polisler olayı erken farkedip karşılık vererek birkaç teröristi yaralasa yada öldürse bu olay sözlükte infial etkisi yaratacak ''diyarbakır'da insan katliamı, #kurdsunderattack, insanlığınızı kaybetmişsiniz faşist sürüsü'' gibi argümanlarla savunuluyor olacaktı. <br/><br/>tabi şu anki haliyle eylem başarıyla yapılmış, polisler ağır yaralandığı için sözlük teröristleri çok ilgi göstermiyor. sizin şerefinizi sikeyim. ettiğinizin karşılığını hem bu dünyada hem de ahirette, dağdaki kardeşlerinizle birlikte, bulursunuz inşallah.
   entry_writer: fakir ama mutlu
 - entry_name: |
     hacda hamile kalmaya çalışmak
@@ -120,7 +120,7 @@ data:
     11 eylül 2015 selahattin demirtaş açıklaması
   entry_id: 54712342
   entry_content: |
-    "400 yerde saldırıya uğradık. ama sadece 1 kişiye soruşturma açıldı. kime? sadece bana."<br/><br/>debe editi: şu iki kampanyayı elimizden geldiğince duyurabilirsek ne mutlu.<br/><br/>(bkz: <a class="b" href="/?q=mardin+tekir+koy+okuluna+yardim+kampanyasi">mardin tekir koy okuluna yardim kampanyasi</a>)<br/>(bkz: <a class="b" href="/entry/54712263">#54712263</a>)
+    "400 yerde saldırıya uğradık. ama sadece 1 kişiye soruşturma açıldı. kime? sadece bana."
   entry_writer: draga
 - entry_name: |
     kürdüm denince verilen türk tepkileri
@@ -138,7 +138,7 @@ data:
     11 eylül 2015 tsk'nın kuzey ırak operasyonu
   entry_id: 54719267
   entry_content: |
-    nasıl sayıyorlar acaba ölenleri? tamam attın bombayı vurdun ne oluyo amk?üstten kutucuk çıkıp 3 point filanmı diyo?<br/><br/>yada ordan birileri hacılar iyi vurdunuz,valla 4 burdan gitti,3 diğer kamptanmı diyo?<br/><br/>aklımda deli sorular var bu konu ile ilgili aydınlatın beni...<br/><br/>edit:1 lan ibne kürtçüler ! favlamayın lan beni, ben gerçekden merak ettim sordum amk.
+    nasıl sayıyolar la ölenleri,tamam attın bombayı vurdun ne oluyo amk,üstten kutucuk çıkıp 3 point filanmı diyo.<br/><br/>yada ordan birileri hacılar iyi vurdunuz valla 4 burdan gitti,3 diğer kamptanmı diyo.<br/><br/>aklımda deli sorular var bu konu ile ilgili aydınlatın beni.<br/><br/>edit:1 lan ibne kürtçüler ! favlamayın lan beni ben gerçekden merak ettim sordum amk.
   entry_writer: blaperboler
 - entry_name: |
     bir erkeğe verilecek en güzel hediye
@@ -156,19 +156,19 @@ data:
     cizre'deki öğretmenin mektubu
   entry_id: 54730638
   entry_content: |
-    "sokakta öğrencilerim soruyor; ‘öğretmenim şu öldü ya da şunların evine bomba düştü biliyor musunuz’ diye."<br/><br/>sokağa çıkma yasağı sırasında öğretcilerle sohbet eden bir öğretmenin mektubudur. yersen<br/><br/>debe editi: madem bu başlık yalan dolanla dolu doğru olanları yazalım;<br/><br/>öğretmen: (bkz: <a class="b" href="/?q=ne%c5%9fe+alten">neşe alten</a>)<br/><br/>mektup: (bkz: <a class="b" href="/?q=javier+bardem%27in+gazze+i%c3%a7in+yazd%c4%b1%c4%9f%c4%b1+mektup">javier bardem'in gazze için yazdığı mektup</a>) türkçesi (bkz: <a class="b" href="/entry/44588753">#44588753</a>)<br/><br/>cizre: "neden doğuda başka bir il/ilçede bu kadar sürelik sokağa çıkma yasağı yok da sadece <a class="b" href="/?q=cizre">cizre</a>'de yaşanıyor?"<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=PuIfo1AyNCo" title="https://www.youtube.com/watch?v=PuIfo1AyNCo">cizre'de terörist görüntüleri</a><br/><br/>sivil halkın<sup class="ab"><a title="(bkz: selo'ya göre)�re)" href="/?q=selo%27ya+g%c3%b6re" data-query="selo'ya göreöre">*</a></sup> iş makineleriyle hendek kazıp, roket attığı <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=xBZrrqn6bTo" title="https://www.youtube.com/watch?v=xBZrrqn6bTo">görüntüler</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=Bwe4msjHCXs" title="https://www.youtube.com/watch?v=Bwe4msjHCXs">pkk gençliği otonomi için savaşıyor</a><br/><br/>(bkz: <a class="b" href="/?q=pkk%27n%c4%b1n+cizre+halk%c4%b1ndan+yard%c4%b1m+istemesi">pkk'nın cizre halkından yardım istemesi</a>)<br/><br/>dünyanın hiçbir yerinde bir devlet kendi toprakları içinde böyle bir yapılanmaya izin vermez<br/><br/>--------------------------------<br/><br/>yeri değil belki ama şu anki siyasi ortamdan sıkılmışlara <br/><br/>"oy verirseniz; herhangi bir millete sevdamızdan hizmet etmeye değil, tesadüfen burada doğanların daha iyi yaşaması için maaşlı <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/LiberalDemokrat/status/571622149737357313" title="https://twitter.com/LiberalDemokrat/status/571622149737357313">çalışacağız.</a>"
+    "sokakta öğrencilerim soruyor; ‘öğretmenim şu öldü ya da şunların evine bomba düştü biliyor musunuz’ diye."<br/><br/>sokağa çıkma yasağı sırasında öğretcilerle sohbet eden bir öğretmenin mektubudur. yersen
   entry_writer: kiss my irish ass
 - entry_name: |
     kiralık aşk
   entry_id: 54726465
   entry_content: |
-    "ben böreğimi de yaptım yuvam dağılmasın diye" repliğiyle gönderme yapmıştır.<br/><br/>edit: spartacus13 uyardı sağolsun. <a class="b" href="/?q=mardin+tekir+k%c3%b6y+okuluna+yard%c4%b1m+kampanyas%c4%b1">mardin tekir köy okuluna yardım kampanyası</a> na göz atılmalı.
+    "ben böreğimi de yaptım yuvam dağılmasın diye" repliğiyle gönderme yapmıştır.
   entry_writer: banadanickkalmadi
 - entry_name: |
     cep telefonu çalınca açmayıp bir süre bakan tip
   entry_id: 54722650
   entry_content: |
-    benim bu tip. "bu uyuzun sesini duymak istiyor muyum?", "bu yavşak normalde aramaz ne işi düştü acaba?" gibi sorulara cevap veririm ekrana baktığım sürede. canım istemezse açmam. en adi duyguların insanıyım.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: bu benim içten pazarlılığımdır.<br/><br/>ülkenin aydınlık insanlarını unutmamak gerekir. spartacus13'e teşekkürler.<br/><a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/54724783" title="https://eksisozluk.com/entry/54724783">destek olmak için</a> en azından okuyunuz.
+    benim bu tip. "bu uyuzun sesini duymak istiyor muyum?", "bu yavşak normalde aramaz ne işi düştü acaba?" gibi sorulara cevap veririm ekrana baktığım sürede. canım istemezse açmam. en adi duyguların insanıyım.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: bu benim içten pazarlılığımdır.
   entry_writer: elitimsi kezban
 - entry_name: |
     me1tem 64nk0
@@ -206,6 +206,12 @@ data:
   entry_content: |
     110 kaiserslautern - freiburg ms 0 - oran 3,10<br/>134 mouscron - club brugge ms 1 - oran 4,60<br/>137 gladbach - hamburg ms 0 - oran 3,30<br/><br/>not: tutmassa sövmeyin
   entry_writer: cevem
+- entry_name: |
+    cizre
+  entry_id: 54717417
+  entry_content: |
+    yakın bir arkadaşım şırnak'ta özel harekat polisi.geçen hafta ankara'daydı.birebir,kendi ağzından orada olanları dinledim. (bu arada arkadaşım demişken,mahallemizin bir genci 92 doğumlu aramızda 9 yaş var).çocuk özel harekat eğitimini tamamlayıp,ilk görevine şırnak'ta başladı.söyledikleri şunlar;<br/>-abi,giderken bende diyordum her kürt pkk'lı değildir diye.doğrudur belki her kürt pkk'lı değildir ama ben orada pkk'lı olmayan kürt görmedim.<br/>-siviller ölüyor diye yaygara koparılıyor,doğru adamın üstünde sen-ben gibi sivil elbiseler var,ama senden benden farkı bir elinde keleş,bir elinde roket var.adamı vurduğumuz an,diğerleri silahlarını alıp kaçıyorlar.sonra bunun adı sivil ölüm oluyor.<br/>-sözlükteki,klavye başındaki pkk'lı yavşaklar,şimdi diyor ki : yok kadın öldü,yok çocuk öldü.onlarında elinde roket-keleş mi vardı?ellerinde roket-keleş yok ama orospu çocuğu teröristler bir köşede,bir mahallede,bir evde kıstırıldığında bu çocuklar-kadınlar o evlerin önünde barikat oluyormuş,polis-asker sıkmasın diye.<br/>çocuk diyor ki : abi evin damına çıkmış kadınlar,çocuklar yanyana durmuş,arayı bir açıyorlar roket geliyor,sonra geri kapıyorlar.yani kanı bozuk şerefsiz burda siviller ölüyor diye götünü yırtacağına,çoluğu-çocuğu kendinize siper etme.<br/>-özel harekat aracına mayınlı tuzak kurulmuş,öh polislerimiz şehit olmuştu.öh polisimiz,evladının parçalanmış bedenini elleriyle çıkarmıştı.baba-oğul öh polisleriydi hatırlayanlar hatırlar.benim arkadaşım olan çocuk arkada ki araçla geliyormuş,mayın patlamış,2.kurulan mayında,ilkinin basıncı ile patlamış bunlara birşey olmamış.o olayda çocuk diyor ki : bu olay mahellede,şehrin içinde oluyor ama sokaktaki evlerde,binalarda bir tane insan olmuyor,evler o gün terkedilmiş,sokakta bir tane insan yok.çünkü herkes o mayının,o gün patlayacağını biliyor.<br/>-yine diyor ki : devlet bize yardımcı olmuyor,elimizi-ayağımızı tutuyor.bir orospu evladı pkk'lı ateş açacak,sen ölmezsen karşılık vereceksin.bir kaç gündür,görüşemiyorum,umarım devlet dedikleri gibi,vur-indir yetkisini vermiştir.<br/>-kahbe diyarı cizre'yi de anlatttı.heryer mayınlı,tuzaklı.giremediklerinden bahsetti.pkk artık sadece mağarada değil,cizre'de evlerinde dedi.yetkiyi almış olmalı ki aslanlar,cizre'ye girmiş,analarını sikiyorlar ki bu piçler böyle ağlamaya başlamış.<br/>not:imla
+  entry_writer: akm7
 - entry_name: |
     11 eylül saldırısında 2. uçağı canlı izlemiş nesil
   entry_id: 54730286
@@ -252,13 +258,13 @@ data:
     fenerbahçe'nin erkan zengin'e yanıt vermesi
   entry_id: 54720560
   entry_content: |
-    tipik bir kezo açıklaması. nerede iki gün önce şehitlerin ardından yapılan ve çok beğendiğim açıklama, nerede bu.<br/><br/>not: fener.<br/><br/>edit: kulak verelim:<br/><br/><a class="b" href="/?q=mardin+tekir+k%c3%b6y+okuluna+yard%c4%b1m+kampanyas%c4%b1">mardin tekir köy okuluna yardım kampanyası</a>
+    tipik bir kezo açıklaması. nerede iki gün önce şehitlerin ardından yapılan ve çok beğendiğim açıklama, nerede bu.<br/><br/>not: fener.
   entry_writer: 10 kere dedim anlamadiniz
 - entry_name: |
-    chp'nin asker harçlıklarının arttırılması teklifi
+    chp nin asker harçlıklarının arttırılması teklifi
   entry_id: 54728388
   entry_content: |
-    bilal'i askere göndermek için uygulanan bir taktik, zayıf noktasından vuruyorlar çocuğu.<br/><br/>ilk debe editimin hayırlara vesile olması dileğiyle: <br/><br/>(bkz: <a class="b" href="/entry/54724783">#54724783</a>)
+    bilal'i askere göndermek için uygulanan bir taktik, zayıf noktasından vuruyorlar çocuğu.
   entry_writer: fatalryhme
 - entry_name: |
     kedi
@@ -282,7 +288,7 @@ data:
     selahattin demirtaş
   entry_id: 54712815
   entry_content: |
-    12 yaşında, 15 yaşında, 10 yaşında çocuklar teker teker öldürülürken, "biz, barış gelene kadar yolumuza devam edeceğiz" diyebilen insandır.<br/><br/>"hala bu adamın dediklerine inananlar var" diyen; sen,"oradaki insanların tamamı öldürülsün" diyebilensin. ağzından akli tek bir cümle çıkmıyor. "öleceksiniz"den başka tek bir önerin yok, o da öneri değil, intikam. senin pkkya kızıp doğuya giden otobüsleri taşlayandan tek bir farkın yok. işlevsel, çözüme yönelik ve insani olarak, insan gibi düşünen bir beynin yok. kan bürümüş, kan damlıyor. senin söylediklerine mi inanacağım? <br/><br/>demirtaşa terörist diyorsun. ben teröristi öldürmek isteyen diye bilirim. ben teröristi masum insanları katletmek isteyen diye bilirim. "ne olursa olsun birbirinize sarılın" diyen adamın cümlesinin yanında senin "dümdüz etsinler o insanları" cümlen var. burada yazdığın her satırda katliam var. ben demirtaşın senden daha terörist olduğuna, senin savınla mı inanacağım?<br/><br/>35 yaşındayım. bu yaşıma kadar bu ülkede "üç bin terörist öldürüldü, yüz asker şehit"ten başka, "barış" diyen tek bir siyasteçi görmedim, bu insana kadar. (buna cihangir solcusu dediğiniz solcular da dahildir, onlardan da bolca teori filan dinledik sadece, sağolsunlar) sen 35 senedir gördüklerim gibi, sadece ölümden, kandan bahsederken, barışı konuşana, sen ölümü isterken, barışı isteyene ve bunun için halkla birlikte durana, bunun için çalıştığını gözümle gördüğüme, bugün demirtaş olur yarın başka birisi, ömrümün sonuna kadar inanacağım. ama asla seninle aynı dili konuşmayacağım.<br/><br/>edit: kürt değilim.<br/>edit: ahaha ırk meraklısı bir kaç arkadaş üzerinden editleyeyim, ermeni de değilim. türküm.<br/><br/>edit: entry debeye girdiği için rica edilen bi kampanya duyurusunu eklemek arzusundayım. bu mühim, bu güzel.<br/>(bkz: <a class="b" href="/?q=mardin+tekir+koy+okuluna+yardim+kampanyasi">mardin tekir koy okuluna yardim kampanyasi</a>)
+    12 yaşında, 15 yaşında, 10 yaşında çocuklar teker teker öldürülürken, "biz, barış gelene kadar yolumuza devam edeceğiz" diyebilen insandır.<br/><br/>"hala bu adamın dediklerine inananlar var" diyen; sen,"oradaki insanların tamamı öldürülsün" diyebilensin. ağzından akli tek bir cümle çıkmıyor. "öleceksiniz"den başka tek bir önerin yok, o da öneri değil, intikam. senin pkkya kızıp doğuya giden otobüsleri taşlayandan tek bir farkın yok. işlevsel, çözüme yönelik ve insani olarak, insan gibi düşünen bir beynin yok. kan bürümüş, kan damlıyor. senin söylediklerine mi inanacağım? <br/><br/>demirtaşa terörist diyorsun. ben teröristi öldürmek isteyen diye bilirim. ben teröristi masum insanları katletmek isteyen diye bilirim. "ne olursa olsun birbirinize sarılın" diyen adamın cümlesinin yanında senin "dümdüz etsinler o insanları" cümlen var. burada yazdığın her satırda katliam var. ben demirtaşın senden daha terörist olduğuna, senin savınla mı inanacağım?<br/><br/>35 yaşındayım. bu yaşıma kadar bu ülkede "üç bin terörist öldürüldü, yüz asker şehit"ten başka, "barış" diyen tek bir siyasteçi görmedim, bu insana kadar. (buna cihangir solcusu dediğiniz solcular da dahildir, onlardan da bolca teori filan dinledik sadece, sağolsunlar) sen 35 senedir gördüklerim gibi, sadece ölümden, kandan bahsederken, barışı konuşana, sen ölümü isterken, barışı isteyene ve bunun için halkla birlikte durana, bunun için çalıştığını gözümle gördüğüme, bugün demirtaş olur yarın başka birisi, ömrümün sonuna kadar inanacağım. ama asla seninle aynı dili konuşmayacağım.<br/><br/>edit: kürt değilim.
   entry_writer: jusekule
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
@@ -294,6 +300,6 @@ data:
     why didn't hitler attack to turkey
   entry_id: 54708917
   entry_content: |
-    kazablanka konferansinda muttefikler turkiye'nin harbe dahil edilmesi kararini alirlar. balkanlarda bir cephe acilirsa biz bati cephesinde rahatlariz, almanya'yi hemen teslim aliriz hesabi yaparlar. ruzvelt corcile havale eder bu isi. sonra adana'da bir tren vagonunda o cok gizli gorusme gerceklesir. osmanli'dan cikan 12 ada koz edilerek turkiye ikna edilecektir hesaba gore.<br/><br/>corcil inonu'ye '' babam girin bu harbe bizimle, almanya'ya savas ilan edin, arkanizda biz variz, sovyetler var, magdur etmeyiz '' der. <br/><br/>pasa anasinin gozu tabi hayir demez aciktan, '' he yaa girelim ama nasil girelim? '' ayagi ceker. <br/><br/>corcil: '' 12 adaya asker cikartin ve balkanlar'dan yardirin amk ''. <br/><br/>inonu: '' tabi lan yardiralim, 12 adaya asker isi de olur sikinti yok ama harp bu ya, olur da almanlar bizi ezdi gecti geldi isgal etti. sonra bizi almanlardan kim kurtaracak? '' <br/><br/>corcil: '' lan oglum sordugun soruya bak, kapi komsun sovyetler, hemen gelir kurtarirlar sizi yea, bakin dogu cephesinde almanlari maymun ettiler, korkmayin oglum biz buradayiz lan, ezdirmeyiz sizi '' der. <br/><br/>inonu yine sorar: '' la peki sovyetlerden bizi kim kurtaracak savastan sonra yarraam? '' <br/><br/>corcil: '' yea biz dusunduk onlari ayarlicaz bir seyler, sovyetlerin genislemesine izin vermicez valla bak '' dese de inonu yemez zokayi '' sagol canim ya cok iyi dusunmussun '' der cigarasindan son bir firt ceker ve izmariti vagonun acik pencerisinden firlatir. <br/><br/>ozet gec pic derseniz inonu prensipte tamam olur bu is ayagina yatar ama anasinin nikahi sartlar kosar harbe girmek icin. muttefiklerin savas halinde kolay kolay yerine getiremeyecegi bu agir sartlardan dolayi turkiye muttefiklere katilmadan, almanlar ile papaz olmadan, kimseyle harbe girmeden, komsularla kotu olmadan bu badireyi atlatir. <br/><br/>peki bu arada ne olur? turkiye'nin yerine ingilizler 12 adaya cikarma yapar ama almanlar bunlari kulaklarindan tutar gecmisini siker atar, tabanlari gotune vura vura kacar ingilizler, hic bir adada tutunamazlar. ote yandan sovyetler girdigi ve nazilerden kurtardigi hic bir ulkeden cikmaz, sonra o ulkeler dogu bloguna katilir. yok inonu soyle, yok inonu boyle diyen orospu cocuklarinin nenelerini almanlarin yerine dedelerinin sikmis olmasinin hikayesi budur iste.
+    kazablanka konferansinda muttefikler turkiye'nin harbe dahil edilmesi kararini alirlar. balkanlarda bir cephe acilirsa biz bati cephesinde rahatlariz, almanya'yi hemen teslim aliriz hesabi yaparlar. ruzvelt corcile havale eder bu isi. sonra adana'da bir tren vagonunda o cok gizli gorusme gerceklesir. osmanli'dan cikan 12 ada koz edilerek turkiye ikna edilecektir hesaba gore.<br/><br/>corcil inonu'ye '' babam girin bu harbe bizimle, almanya'ya savas ilan edin, arkanizda biz variz, sovyetler var, magdur etmeyiz '' der. <br/><br/>pasa anasinin gozu tabi hayir demez aciktan, '' he yaa girelim ama nasil girelim? '' ayagi ceker. <br/><br/>corcil: '' 12 adaya asker cikartin ve balkanlar'dan yardirin amk ''. <br/><br/>inonu: '' tabi lan yardiralim, 12 adaya asker isi de olur sikinti yok ama harp bu ya, olur da almanlar bizi ezdi gecti geldi isgal etti. sonra bizi almanlardan kim kurtaracak? '' <br/><br/>corcil: '' lan oglum sordugun soruya bak, kapi komsun sovyetler, hemen gelir kurtarirlar sizi yea, bakin dogu cephesinde almanlari maymun ettiler, korkmayin oglum biz buradayiz lan, ezdirmeyiz sizi '' der. <br/><br/>inonu yine sorar: '' la peki sovyetlerden bizi kim kurtaracak savastan sonra yarraam? '' <br/><br/>corcil: '' yea biz dusunduk onlari ayarlicaz bir seyler, sovyetlerin genislemesine izin vermicez valla bak '' dese de inonu yemez zokayi '' sagol canim ya cok iyi dusunmussun '' der cigarasindan son bir firt ceker ve izmariti vagonun acik pencerisinden firlatir. <br/><br/>ozet gec pic derseniz inonu prensipte tamam olur bu is ayagina yatar ama anasinin nikahi sartlar kosar harbe girmek icin. muttefiklerin savas halinde kolay kolay yerine getiremeyecegi bu agir sartlardan dolayi turkiye muttefiklere katilmadan, almanlar ile papaz olmadan, kimseyle harbe girmeden, komsularla kotu olmadan bu badireyi atlatir. <br/><br/>peki bu arada ne olur? turkiye'nin yerine ingilizler 12 adaya cikarma yapar ama almanlar bunlari kulaklarindan tutar gecmisini siker atar, tabanlari gotune vura vura kacar ingilizler, hic bir adada tutunamazlar. ote yandan sovyetler girdigi ve nazilerden kurtardigi hic bir ulkeden cikmaz, sonra o ulkeler dogu bloguna katilir. yok inonu soyle, yok inonu boyle diyen orospu cocuklarinin nenelerini almanlarin sikmemis olmasinin hikayesi budur iste.
   entry_writer: seiduna
 ---
