@@ -3,17 +3,11 @@ layout: post
 title: 1 Ekim 2015 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    secretcv.com daki inanılmaz ilan
+    secretcv.com'daki inanılmaz ilan
   entry_id: 55181151
   entry_content: |
     (bkz: <a class="b" href="/?q=sikmezseniz+k%c3%bcserim">sikmezseniz küserim</a>)
   entry_writer: asosyal vurdumduymaz utangac usengec
-- entry_name: |
-    30 eylül 2015 debe rezaleti
-  entry_id: 55170462
-  entry_content: |
-    <a class="b" href="/?q=ba%c4%9f%c4%b1ml%c4%b1l%c4%b1k+yapan+meme+gif%27i">bağımlılık yapan meme gif'i</a> başlığındaki (bkz: <a class="b" href="/entry/55152689">#55152689</a>) entry i ile vuku bulmuş olan olay<br/><br/>bir allahın kulu da çıkıp demiyor ki <a class="b" href="/?q=aga+bu+nedir">aga bu nedir</a><br/><br/>kutsal bilgi kaynağının <a class="b" href="/?q=1+numaral%c4%b1">1 numaralı</a> yani en iyi debe entry si +18 <a class="b" href="/?q=nsfw">nsfw</a> içerikten oluşan tamamen erkeklerin cinsel dürtülerine hizmet eden, hiçbir bilgi içermeyen, kadın memesinden ibaret<br/><br/>hayır bu kadar meme düşkünüsünüz madem ne diye burdasın. elinin altında internet var. <a class="b" href="/?q=milyonlarca+porno">milyonlarca porno</a> sitesi var. iki tane meme sizi insanlıktan çıkarmış. artık nasıl bir şekilde şukuladıysanız. entry 1. olmuş<br/><br/>ondan sonra bu ülkede niye bilim sanat gelişmiyor. sizin gibi <a class="b" href="/?q=%c3%a7omar">çomar</a>lar yüzünden. adamların birinci önceliği meme. meme hipnozundan kurtulabilirse mağarasından çıkıp <a class="b" href="/?q=ate%c5%9fi+ve+tekerle%c4%9fi">ateşi ve tekerleği</a> bulacak kısmetse<br/><br/>hee bu arada geçen gün <a class="b" href="/?q=nasa">nasa</a> marsta su bulunduğunu açıkladı. ve mikroskobik yaşam olup olmadığını araştırdıklarını söyledi. <br/><br/>geçen gün sözlükte okuduğum bir entry ile bitireyim de bizden niye asla bi bok olmaz herkes anlasın<br/><br/>japon diyor ki başkası yapabiliyorsa <a class="b" href="/?q=daha+iyisini+yapmal%c4%b1y%c4%b1m">daha iyisini yapmalıyım</a>, kimse yapamıyorsa <a class="b" href="/?q=ilk+ben+yapmal%c4%b1y%c4%b1m">ilk ben yapmalıyım</a>.<br/><br/>türk diyor ki başkası yapabiliyorsa ben <a class="b" href="/?q=niye+yapay%c4%b1m">niye yapayım</a>, kimse yapamıyorsa ben <a class="b" href="/?q=nas%c4%b1l+yapay%c4%b1m">nasıl yapayım</a>.<br/><br/>yüzünüze tükürmek isterdim ama siz ondan da anlamazsınız ki<br/><br/>edit: mesaj yoluyla veya nick altına yazarak üzerime gelmenize gerek yok. <br/>bana benim yazdığım (bkz: <a class="b" href="/entry/45047280">#45047280</a>) entry i vererek haksız çıkartmaya çalışmanız çok anlamsız<br/>benim verdiğim entry de öğrenilecek şeyler var. seks iki kişiliktir seks yaşamınızı çeşitlendirebilirsiniz. yani sadece erkek dünyasına hitap etmiyor<br/>şikayet ettiğim entry sadece erkekler için yazılmış memeden ibaret. bu iki farkı anlamak çok zor olmasa gerek<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/l92D1r.jpg" title="http://i.hizliresim.com/l92D1r.jpg">http://i.hizliresim.com/l92d1r.jpg</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/XJ7gd5.jpg" title="http://i.hizliresim.com/XJ7gd5.jpg">http://i.hizliresim.com/xj7gd5.jpg</a><br/><br/>bu arada memişlerim küçücük evet. dümdüz hatta. çünkü erkeğim ben.<br/><br/>edit2: benim asıl isyanım sözlüğün gittiği nokta. kutsal bilgi kaynağı olmaktan çıkıp dev bir forum çöplüğüne doğru gidiyor<br/><a class="b" href="/?q=ssg">ssg</a> çok akıllı adam vesselam. baktı olay boka sarıyor. bombayı <a class="b" href="/?q=kanzuk">kanzuk</a>'un kucağına bıraktı gitti.<br/>adamın asıl işi <a class="b" href="/?q=avukat">avukat</a>lık. bilmem anlatabiliyormuyum sözlük
-  entry_writer: bana her yer cehennem
 - entry_name: |
     erdoğan'ın konuşmasında kendinden geçen muhtar
   entry_id: 55168992
@@ -26,12 +20,6 @@ data:
   entry_content: |
     tavsiye 1: onun çocuk olduğunu unutmayın.
   entry_writer: mahmut adinda bir balik
-- entry_name: |
-    30 eylül 2015 yakın doğu üniversitesi rezaleti
-  entry_id: 55174723
-  entry_content: |
-    30 eylül günü muz cumhuriyeti kıbrıs'ta gerçekleşen olay. lütfen "derdini sikeyim" veya "özel okul piçi" demeden önce okuyunuz.<br/><br/>cok muhterem üniversitemizin tıp fakültesinde bütünlemeler 30 eylülde yapılmakta. sebebi de öğrenciler yatay geçiş yapamasın. her neyse aylardir herkes bu sinava hazirlaniyor cunku donemin %70i büte kaldi zaten. bu sabah muthis bir skandal ile uyandik. sabahin 8.30'unda okul (internetten de degil panodan) aciklama yapti. 2015-2016 donemine ait okul parasini odemeyenler butunlemeye giremeyecekmis. ama yapilan butunleme 2014-2015'e ait. sebebi ne ? butunlemeden kalip okulu birakmak isteyenlerin de parasini almak. daha da kotusu var. burslu ogrencilere de deniyor ki "siz de parayi odeyin, kalmazsaniz geri alirsiniz". e amina kodugum bu adam burslu. belki imkani yok. sabahin 8'inde nerden 20bin turk lirasi bulup sana getirsin? bu sebeple onlarca ogrenci sinava giremedi. bir yigin insan mağdur oldu. kimseye derdimize ortak olun sesimizi duyurun dedigim yok. tek istegim lutfen.. lutfen ama lutfen bu ticarethaneye cocuklarinizi eslerinizi dostlarinizi gondermeyin. muhendislik vs. gibi bolumler cok kalitesiz oldugu icin tercih edilmiyor zaten. gelen hukuk veya tip icin geliyor. lakin goruyorsunuz durumu. burasi bir egitim kurumu degil, <a class="b" href="/?q=ticarethane">ticarethane</a>. lutfen gelmeyin su boktan kibris üniversitelerine.
-  entry_writer: mrsmoore
 - entry_name: |
     recep tayyip erdoğan'ın en sevdiği dizi
   entry_id: 55169549
@@ -78,7 +66,7 @@ data:
     kawai'nin personel seçerken yaptığı rezillik
   entry_id: 55174978
   entry_content: |
-    orada tam tersine "başı açık personel alınacaktır." denilseydi; şu anda cumhurbaşkanının bile konuya karışacağı olay...
+    orada tam tersine "başı açık personel alınacaktır." denilseydi; şu anda cumhurbaşkanının bile konuya karışacağı olay...<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> :aylarca yıllarca çaylak kalıp yazar olduğun ilk hafta bu listeye girmek. sanırım bir şeyler yanlış...
   entry_writer: supertosbaa
 - entry_name: |
     1 kasım 2015 hdp'nin barajın altında kalması
@@ -102,13 +90,13 @@ data:
     hamza hamzaoğlu
   entry_id: 55170591
   entry_content: |
-    evindeki buzdolabını oturma odasına, zigon sehpasını antreye, oturma grubunu mutfağa, tuvalet masasını banyoya koymak istediğim hoca.
+    evindeki buzdolabını oturma odasına, zigon sehpasını antreye, oturma grubunu mutfağa, tuvalet masasını banyoya koymak istediğim hoca.<br/><br/>debedit: <a class="b" href="/entry/33162483">#33162483</a> no'lu entry'den alıntıdır. duruma çok uyduğu için kullandım.
   entry_writer: trolobit
 - entry_name: |
     bir kadını mutlu etmek için gerekenler
   entry_id: 55173867
   entry_content: |
-    dost gibi dertleş<br/>baba gibi koru<br/>adam gibi sev<br/>hayvan gibi seviş
+    dost gibi dertleş<br/>baba gibi koru<br/>adam gibi sev<br/>hayvan gibi seviş<br/><br/>debe edit: (bkz: <a class="b" href="/?q=avrupa%27ya+%c3%bccretsiz+gitmek">avrupa'ya ücretsiz gitmek</a>)<br/>belki birinin işine yarar.
   entry_writer: mctnky
 - entry_name: |
     burger king'in ice tea için ekstra ücret alması
@@ -168,7 +156,7 @@ data:
     erkekleri yatağa atma rehberi
   entry_id: 55171246
   entry_content: |
-    bir şey diyeceğim.<br/><br/>ben bir kadın olarak erkekler hakkında "aşama 1: nefes alıyor musunuz , nabız falan kontrol edin.. aşama 2: yatağı gösterin.. bu kadar.." diye ahkam kessem, muhtemelen birçok erkekten "işte bu feministler erkeklere kötü davranıyor, bizi ötekileştiriyorlar, bizden nefret ediyorlar. biz amsalak değil, boş değiliz, düşündüğünüz gibi değiliz!" diye bir araba laf yerim. ki, bunu dersem, laf yemeyi de hak etmiş olurdum. çünkü erkeklere adeta "kafası sikinde, hop desen yatağa atlayacak, seçme güdüsü gelişmemiş, bulduğuna atlayan abazan" muamelesi yapmış olurdum.<br/><br/>ben erkeklerin tamamının bu kadar basit yaratıklar olduğunu düşünmüyorum. hiçbir insana böyle yaklaşmayı da uygun görmüyorum. kişilerin kendilerinden yola çıkıp milyonlarca insanı genellemesine de bayaa bayaa uyuz oluyorum. çünkü nerden baksan aptallık.<br/><br/>bence erkekler de kendilerini bu şekilde gösterenlere daha sert bir biçimde karşı çıkmalılar. çünkü erkekler hakkındaki klişeleri tekrar ve tekrar üretmek de, kadınlar hakkındaki klişeleri yeniden üretmek kadar sorunlu. şu başlığın altında yazılanların çoğu, alıntıladığım entry ile aynı minvalde. aykırı sesler pek cılız. okurken belki şimdi komik geliyor, ama sonra kalkıp bir kadını reddettiğinizde, kadın sizin hakkınızda "gay'miş demek" diye düşününce bozuluyorsunuz. oysa, çoğunluğu bizzat hemcinsleriniz tarafından yeniden üretilen espri/şaka/komiklik kisvesindeki söylemlerle, "erkek dediğin hiçbir kadını reddedemez, reddederse demek ki erkek değildir" diye klişeler çakılıyor insanların kafalarına. ben erkek olmadan buna bozuluyorum, siz hiç bozulmuyor musunuz?
+    bir şey diyeceğim.<br/><br/>ben bir kadın olarak erkekler hakkında "aşama 1: nefes alıyor musunuz , nabız falan kontrol edin.. aşama 2: yatağı gösterin.. bu kadar.." diye ahkam kessem, muhtemelen birçok erkekten "işte bu feministler erkeklere kötü davranıyor, bizi ötekileştiriyorlar, bizden nefret ediyorlar. biz amsalak değil, boş değiliz, düşündüğünüz gibi değiliz!" diye bir araba laf yerim. ki, bunu dersem, laf yemeyi de hak etmiş olurdum. çünkü erkeklere adeta "kafası sikinde, hop desen yatağa atlayacak, seçme güdüsü gelişmemiş, bulduğuna atlayan abazan" muamelesi yapmış olurdum.<br/><br/>ben erkeklerin tamamının bu kadar basit yaratıklar olduğunu düşünmüyorum. hiçbir insana böyle yaklaşmayı da uygun görmüyorum. kişilerin kendilerinden yola çıkıp milyonlarca insanı genellemesine de bayaa bayaa uyuz oluyorum. çünkü nerden baksan aptallık.<br/><br/>bence erkekler de kendilerini bu şekilde gösterenlere daha sert bir biçimde karşı çıkmalılar. çünkü erkekler hakkındaki klişeleri tekrar ve tekrar üretmek de, kadınlar hakkındaki klişeleri yeniden üretmek kadar sorunlu. şu başlığın altında yazılanların çoğu, alıntıladığım entry ile aynı minvalde. aykırı sesler pek cılız. okurken belki şimdi komik geliyor, ama sonra kalkıp bir kadını reddettiğinizde, kadın sizin hakkınızda "gay'miş demek" diye düşününce bozuluyorsunuz. oysa, çoğunluğu bizzat hemcinsleriniz tarafından yeniden üretilen espri/şaka/komiklik kisvesindeki söylemlerle, "erkek dediğin hiçbir kadını reddedemez, reddederse demek ki erkek değildir" diye klişeler çakılıyor insanların kafalarına. ben erkek olmadan buna bozuluyorum, siz hiç bozulmuyor musunuz?<br/><br/>ekleme: iki aslan kaplan belgeseli izleyip kıt bilgisiyle "<a class="b" href="/?q=alfa+erkek">alfa erkek</a>" geyiği yapan erkekler mesaj atmasın rica edeceğim. çünkü mesaj kutumda "unutmayın ki siz kadınlar sadece <a class="b" href="/?q=sikilip">sikilip</a> çocuk doğurmak için yaşayan bir eşyasınız. 65 kilo olduğunuz zaman anlayacaksınız kadın olmanın ne demek olduğunu ve sırf <a class="b" href="/?q=sikilip">sikilip</a> doğurduğunuz için kendinizi çok ama çok daha iyi hissedeceksiniz. tıpkı kız arkadaşımın yerini bildiği gibi." gibi cümleleri görünce, sinirimi zor bastırıyorum. (bkz: <a class="b" href="/?q=adeta+bir+don+juan">adeta bir don juan</a>)
   entry_writer: polly jean
 - entry_name: |
     araba almanın mantıksız olması
@@ -276,7 +264,7 @@ data:
     kadınların gece sokağa çıkabildiği tek şehir
   entry_id: 55187615
   entry_content: |
-    biraz komik gelebilir ama: tunceli.<br/><br/>ben daha dışarıda rahatsız edilen bir kadınla ne karşılaştım ne de duydum.
+    biraz komik gelebilir ama: tunceli.<br/><br/>ben daha dışarıda rahatsız edilen bir kadınla ne karşılaştım ne de duydum.kadına saygı nedir gelin gezin görün.
   entry_writer: son derece mutevazi
 - entry_name: |
     30 eylül 2015 aziz yıldırım açıklaması
