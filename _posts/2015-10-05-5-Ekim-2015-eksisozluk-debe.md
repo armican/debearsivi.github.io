@@ -6,13 +6,13 @@ data:
     iş kuracak gence 50 bin lira verilmesi
   entry_id: 55267726
   entry_content: |
-    <a class="b" href="/?q=i%c5%9f+kurakacak+gen%c3%a7ler">iş kurakacak gençler</a> değildir o, <a class="b" href="/?q=i%c5%9f+kuracak+bizim+gen%c3%a7ler">iş kuracak bizim gençler</a>dir.
+    <a class="b" href="/?q=i%c5%9f+kuracak+gen%c3%a7ler">iş kuracak gençler</a> değildir o, <a class="b" href="/?q=i%c5%9f+kuracak+bizim+gen%c3%a7ler">iş kuracak bizim gençler</a>dir.<br/><br/>debe editi: imla. o.o
   entry_writer: bunickialamazsinizbaskabirnickseciniz
 - entry_name: |
     şırnak'ta ölüye işkence
   entry_id: 55264862
   entry_content: |
-    pkk'nın yıllarca kendi ölülerinin altına bomba yerleştirip, gelip kaldıracak askere karşı tuzakladığını bilmeyenler hemen ayaklanmış.<br/><br/>bu tür olaylarda öldürülen teröristler, altına tuzaklanmış bir patlayıcı olup olmadığı anlaşılması için bir ipe bağlanarak birkaç metre ileriye alınır.<br/><br/>ceset arazideyse bağlanan ip mecburen 3-4 kişi tarafından el ile çekilir ve buna rağmen patlayıcı güçlüyse çevredekilere zarar verebilir. <br/>şehir içindeyse personelin zarar görmemesi için zırhlı araca bağlanıp öyle çekilir.<br/><br/>ayrıca aynı yöntemi ypg de kobani'de de bizzat kullanmıştır. <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d04BaV.jpg" title="http://i.hizliresim.com/d04BaV.jpg">+18</a><br/><br/>dolayısıyla yaralıya <a rel="nofollow" class="url" target="_blank" href="http://www.liveleak.com/view?i=cc9_1436958256" title="http://www.liveleak.com/view?i=cc9_1436958256">şöyle</a> muamele (+25),<br/><br/>ölüye ise kobanide <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/AgZzvp.jpg" title="http://i.hizliresim.com/AgZzvp.jpg">şöyle</a>, <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bYQ6ad.jpg" title="http://i.hizliresim.com/bYQ6ad.jpg">şöyle</a> ve <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/52py3j.jpg" title="http://i.hizliresim.com/52py3j.jpg">şöyle</a> muamele eden insanları savunanlar gelip de burda duyarlılık kasmasın çok komik oluyorsunuz.<br/><br/>az önce kendisine silah sıkan adama <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=iUISeeslfRY" title="https://www.youtube.com/watch?v=iUISeeslfRY">şöyle</a> muamele eden insanların ölünüzle ne derdi olabilir allasen?<br/><br/>edit: <br/><br/>olayın videosu düşmüş, izledim. <br/>yapılan uygulama insanlığa sığmaz, aksini iddia eden insan olamaz. dileğim odur ki soruşturma sonucu sorumlular hakettikleri cezayı alır.<br/><br/>lakin gel gelelim, hiçbir şey bu entry'de yukarıda yazdıklarımın gerçekliğini, daha önce defalarca kez yaşandığı gerçeğini değiştirmez, dolayısıyla aynen bırakıyorum.<br/><br/>ayrıca <a class="b" href="/?q=diye+buyurdu">diye buyurdu</a> başlığında da hakkımda çeşitli ithamlarda bulunan arkadaşlara da selamlar.
+    pkk'nın yıllarca kendi ölülerinin altına bomba yerleştirip, gelip kaldıracak askere karşı tuzakladığını bilmeyenler hemen ayaklanmış.<br/><br/>bu tür olaylarda öldürülen teröristler, altına tuzaklanmış bir patlayıcı olup olmadığı anlaşılması için bir ipe bağlanarak birkaç metre ileriye alınır.<br/><br/>ceset arazideyse bağlanan ip mecburen 3-4 kişi tarafından el ile çekilir ve buna rağmen patlayıcı güçlüyse çevredekilere zarar verebilir. <br/>şehir içindeyse personelin zarar görmemesi için zırhlı araca bağlanıp öyle çekilir.<br/><br/>ayrıca aynı yöntemi ypg de kobani'de de bizzat kullanmıştır. <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d04BaV.jpg" title="http://i.hizliresim.com/d04BaV.jpg">+18</a><br/><br/>dolayısıyla yaralıya <a rel="nofollow" class="url" target="_blank" href="http://www.liveleak.com/view?i=cc9_1436958256" title="http://www.liveleak.com/view?i=cc9_1436958256">şöyle</a> muamele (+25),<br/><br/>ölüye ise kobanide <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/AgZzvp.jpg" title="http://i.hizliresim.com/AgZzvp.jpg">şöyle</a>, <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bYQ6ad.jpg" title="http://i.hizliresim.com/bYQ6ad.jpg">şöyle</a> ve <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/52py3j.jpg" title="http://i.hizliresim.com/52py3j.jpg">şöyle</a> muamele eden insanları savunanlar gelip de burda duyarlılık kasmasın çok komik oluyorsunuz.<br/><br/>az önce kendisine silah sıkan adama <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=iUISeeslfRY" title="https://www.youtube.com/watch?v=iUISeeslfRY">şöyle</a> muamele eden insanların ölünüzle ne derdi olabilir allasen?<br/><br/>edit: <br/><br/>olayın videosu düşmüş, izledim. <br/>yapılan uygulama insanlığa sığmaz, aksini iddia eden insan olamaz. dileğim odur ki soruşturma sonucu sorumlular hakettikleri cezayı alır.<br/><br/>lakin gel gelelim, hiçbir şey bu entry'de yukarıda yazdıklarımın gerçekliğini, daha önce defalarca kez yaşandığı gerçeğini değiştirmez, dolayısıyla aynen bırakıyorum.<br/><br/>ayrıca <a class="b" href="/?q=diye+buyurdu">diye buyurdu</a> başlığında da hakkımda çeşitli ithamlarda bulunan arkadaşlara da selamlar.<br/><br/>debe editi:<br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: diye buyurdu
 - entry_name: |
     gezi hdp'dir
@@ -48,7 +48,7 @@ data:
     asgari ücretin 1.300 lira olması
   entry_id: 55268395
   entry_content: |
-    bu akp'lilerin ne mal olduğunu görmek adına oldukça etkileyici bir vaat.<br/><br/>5 ay evvel;<br/><br/>(bkz: <a class="b" href="/?q=asgari+%c3%bccreti+1500+tl+yapmak+i%c5%9f%c3%a7iye+zul%c3%bcmd%c3%bcr">asgari ücreti 1500 tl yapmak işçiye zulümdür</a>)<br/><br/>şimdi; "asgari ücret 1.300 lira olacak"<br/><br/>allah kimseyi akp'li olmakla imtihan etmesin.
+    bu akp'lilerin ne mal olduğunu görmek adına oldukça etkileyici bir vaat.<br/><br/>5 ay evvel;<br/><br/>(bkz: <a class="b" href="/?q=asgari+%c3%bccreti+1500+tl+yapmak+i%c5%9f%c3%a7iye+zul%c3%bcmd%c3%bcr">asgari ücreti 1500 tl yapmak işçiye zulümdür</a>)<br/><br/>şimdi; "asgari ücret 1.300 lira olacak"<br/><br/>allah kimseyi akp'li olmakla imtihan etmesin.<br/><br/>hayırlı bir iş için debe editi;<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: bu adam adam olmaz
 - entry_name: |
     rakı osmanlı'yı yıkmak için icat edilmiştir
@@ -90,7 +90,7 @@ data:
     4 ekim 2015 eskişehirspor beşiktaş maçı
   entry_id: 55272525
   entry_content: |
-    direği götümde hissettim
+    direği götümde hissettim<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: luck blackrock
 - entry_name: |
     erkek ilişkinin neresinde kadını kaybeder
@@ -99,16 +99,16 @@ data:
     kesinlikle aşık olduğunda olmayan eylemdir. kadın için kendini vazgeçilmez sandığı andan itibaren saniye saniye geçen süre içinde kaybeder. çünkü kadın, kadınlar bir anda silmez hiçbir şeyi. eklenerek devam eder her şey. sonra son öldürücü hamle ile kadının güvenini kaybettiğin anda ilişkide kadını da kaybetmişsin demektir.
   entry_writer: paradoksal yazar
 - entry_name: |
-    ekşi sözlük bayanlarının %93'ünün çirkin olması
+    sözlükteki kadın yazarların %93'ünün çirkin olması
   entry_id: 55281627
   entry_content: |
-    bence çok doğru bir tespit! <br/><br/>benim %93'üm çirkin misal..kalan %7'lik kısmım da ensem..<br/><br/>kimse görmediği için güzel sanıyorum onu da..
+    bence çok doğru bir tespit! <br/><br/>benim %93'üm çirkin misal..kalan %7'lik kısmım da ensem..<br/><br/>kimse görmediği için güzel sanıyorum onu da..<br/><br/>büdüt: bu boktan entry'i siktir edin de şunu bir okuyun be canlar;<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: black eyed witch
 - entry_name: |
     ekşi sözlük erotik film projesi
   entry_id: 55266842
   entry_content: |
-    (bkz: <a class="b" href="/?q=sivas%27ta+30+erke%c4%9fin+grup+seks+yaparken+yakalanmas%c4%b1">sivas'ta 30 erkeğin grup seks yaparken yakalanması</a>)
+    (bkz: <a class="b" href="/?q=sivas%27ta+30+erke%c4%9fin+grup+seks+yaparken+yakalanmas%c4%b1">sivas'ta 30 erkeğin grup seks yaparken yakalanması</a>)<br/><br/>debe edit: mesaj geldi<br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/><br/>okul yapıp içini boş bırakmak ancak bizim ülkemizde olur zaten. <br/>demek ki rusya'da cami yapmakla olmuyor. önce kendi kapının önündeki pisliği temizleyeceksin
   entry_writer: bana her yer cehennem
 - entry_name: |
     mario gomez
@@ -126,19 +126,19 @@ data:
     erkekleri çekici yapan detaylar
   entry_id: 55281140
   entry_content: |
-    (bkz: <a class="b" href="/?q=bo%c5%9f+k%c3%bcme">boş küme</a>)<br/><br/>nasıl <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1kl%c4%b1">yakışıklı</a> ve çekici bir erkeğin numaranızı istemesi <a class="b" href="/?q=ola%c4%9fan+bir+olay">olağan bir olay</a>, <a class="b" href="/?q=sevimli+bir+ad%c4%b1m">sevimli bir adım</a> falan gibi gelirken, <a class="b" href="/?q=%c3%a7irkin">çirkin</a> ve çekici olmayan bir erkeğin numaranızı istemesini <a class="b" href="/?q=sap%c4%b1k%c3%a7a">sapıkça</a> ve <a class="b" href="/?q=taciz">taciz</a> gibi gelmekteyse; aynı şekilde yakışıklı bir erkeğin <a class="b" href="/?q=her+yedi%c4%9fi+bok">her yediği bok</a> çekici gelirken, çirkin bir erkek <a class="b" href="/?q=ne+bok+yerse+yesin">ne bok yerse yesin</a> çekici gelmemektedir.<br/><br/>nerden mi biliyorum. <br/>ben, çirkin olan ama bu başlıkta "şu oluşu, bu oluşu" diye anlatılan her boka <a class="b" href="/?q=bizatihi">bizatihi</a> sahip olmama rağmen asla çekici kabul edilmedim. (tabii 1.90 boyu oluşu, herkül gibi oluşu falan gibi şeylerden bahsetmiyorum, bunları yazanları özürlü olarak görüyorum gerçekten)<br/>kültürlüyüm, sempatiğim, konuşurken insanların gözünün içine bakarım, insanları dinlerim, hiç skimde olmamasına rağmen ilgi gösteririm ve abartmıyorum, hayatımda tanıdığım en kibar insanlardan biriyim. (bir de <a class="b" href="/?q=teia%c5%9f">teiaş</a>'tan bir kontrol mühendisi vardı şantiyede, <a class="b" href="/?q=h.+bey">h. bey</a>, belki o adam da benim kadar kibardı.)<br/>ama <a class="b" href="/?q=tip+yok">tip yok</a> işte.<br/>(bahşiş anlamında demiyorum ama ben bahşiş de vermem genelde, geçen tuzla balıkçısında 3 lira para üstü almadım, bir de üstüne cebimden 2-3 lira da bozukluk çıkarıp bıraktım mesela, 4-5 ayda bir bu şekilde bahşiş bırakırım gerekli görürsem.)<br/><br/>neyse; ne kendinizi, ne de bizi kandırın kızlar.<br/>bence görüşlerinizi, <a class="b" href="/?q=ilgi+duyulan+erke%c4%9fi+%c3%a7ekici+yapan+detaylar">ilgi duyulan erkeği çekici yapan detaylar</a> başlığında paylaşabilirsiniz.<br/><br/>(bkz: <a class="b" href="/?q=kendi+topu%c4%9funa+s%c4%b1kmak">kendi topuğuna sıkmak</a>)
+    (bkz: <a class="b" href="/?q=bo%c5%9f+k%c3%bcme">boş küme</a>)<br/><br/>nasıl <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1kl%c4%b1">yakışıklı</a> ve çekici bir erkeğin numaranızı istemesi <a class="b" href="/?q=ola%c4%9fan+bir+olay">olağan bir olay</a>, <a class="b" href="/?q=sevimli+bir+ad%c4%b1m">sevimli bir adım</a> falan gibi gelirken, <a class="b" href="/?q=%c3%a7irkin">çirkin</a> ve çekici olmayan bir erkeğin numaranızı istemesini <a class="b" href="/?q=sap%c4%b1k%c3%a7a">sapıkça</a> ve <a class="b" href="/?q=taciz">taciz</a> gibi gelmekteyse; aynı şekilde yakışıklı bir erkeğin <a class="b" href="/?q=her+yedi%c4%9fi+bok">her yediği bok</a> çekici gelirken, çirkin bir erkek <a class="b" href="/?q=ne+bok+yerse+yesin">ne bok yerse yesin</a> çekici gelmemektedir.<br/><br/>nerden mi biliyorum. <br/>ben, çirkin olan ama bu başlıkta "şu oluşu, bu oluşu" diye anlatılan her boka <a class="b" href="/?q=bizatihi">bizatihi</a> sahip olmama rağmen asla çekici kabul edilmedim. (tabii 1.90 boyu oluşu, herkül gibi oluşu falan gibi şeylerden bahsetmiyorum, bunları yazanları özürlü olarak görüyorum gerçekten)<br/>kültürlüyüm, sempatiğim, konuşurken insanların gözünün içine bakarım, insanları dinlerim, hiç skimde olmamasına rağmen ilgi gösteririm ve abartmıyorum, hayatımda tanıdığım en kibar insanlardan biriyim. (bir de <a class="b" href="/?q=teia%c5%9f">teiaş</a>'tan bir kontrol mühendisi vardı şantiyede, <a class="b" href="/?q=h.+bey">h. bey</a>, belki o adam da benim kadar kibardı.)<br/>ama <a class="b" href="/?q=tip+yok">tip yok</a> işte.<br/>(bahşiş anlamında demiyorum ama ben bahşiş de vermem genelde, geçen tuzla balıkçısında 3 lira para üstü almadım, bir de üstüne cebimden 2-3 lira da bozukluk çıkarıp bıraktım mesela, 4-5 ayda bir bu şekilde bahşiş bırakırım gerekli görürsem. ve evet, fakir olduğumdan.)<br/><br/>neyse; ne kendinizi, ne de bizi kandırın kızlar.<br/>bence görüşlerinizi, <a class="b" href="/?q=ilgi+duyulan+erke%c4%9fi+%c3%a7ekici+yapan+detaylar">ilgi duyulan erkeği çekici yapan detaylar</a> başlığında paylaşabilirsiniz.<br/><br/>(bkz: <a class="b" href="/?q=kendi+topu%c4%9funa+s%c4%b1kmak">kendi topuğuna sıkmak</a>)<br/><br/><sup class="ab"><a title="(bkz: rica üzerine)" href="/?q=rica+%c3%bczerine" data-query="rica üzerine">*</a></sup> bugünlük <sup class="ab"><a title="(bkz: geçici edit)" href="/?q=ge%c3%a7ici+edit" data-query="geçici edit">*</a></sup><br/>şöyle birşey varmış;<br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: argin
 - entry_name: |
     rusya çok ciddi bir yanlış içinde
   entry_id: 55265107
   entry_content: |
-    rte'nin yüreğimi dağlayan <a rel="nofollow" class="url" target="_blank" href="http://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-rusya-aciklamasi,rmUYtZDD3EK574I6kpwl1A" title="http://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-rusya-aciklamasi,rmUYtZDD3EK574I6kpwl1A">beyanı</a>. atar da yapamamış, araya "üzülüyoruz" falan serpiştirmiş, öyle içler acısı bir basın açıklaması bak.<br/><br/>(bkz: <a class="b" href="/?q=ya+ameliyatl%c4%b1+yerime+gelseydi%3f">ya ameliyatlı yerime gelseydi?</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcz%c3%bcme+vurma%2c+ekmek+param+o+benim">yüzüme vurma, ekmek param o benim</a>)<br/>(bkz: <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1r+m%c4%b1+k%c4%b1z+arkada%c5%9f%c4%b1m+yan%c4%b1mdayken%3f">yakışır mı kız arkadaşım yanımdayken?</a>)
+    rte'nin yüreğimi dağlayan <a rel="nofollow" class="url" target="_blank" href="http://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-rusya-aciklamasi,rmUYtZDD3EK574I6kpwl1A" title="http://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-rusya-aciklamasi,rmUYtZDD3EK574I6kpwl1A">beyanı</a>. atar da yapamamış, araya "üzülüyoruz" falan serpiştirmiş, öyle içler acısı bir basın açıklaması bak.<br/><br/>(bkz: <a class="b" href="/?q=ya+ameliyatl%c4%b1+yerime+gelseydi%3f">ya ameliyatlı yerime gelseydi?</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcz%c3%bcme+vurma%2c+ekmek+param+o+benim">yüzüme vurma, ekmek param o benim</a>)<br/>(bkz: <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1r+m%c4%b1+k%c4%b1z+arkada%c5%9f%c4%b1m+yan%c4%b1mdayken%3f">yakışır mı kız arkadaşım yanımdayken?</a>)<br/><br/>debe edit: oyunu seven defansa gelsin, çok eksik yakalandık! <a rel="nofollow" class="url" target="_blank" href="http://oyveotesi.org/" title="http://oyveotesi.org/">http://oyveotesi.org/</a><br/><br/>vicdani sorumluluğun gereği olarak 2. debe edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: shitbreak18
 - entry_name: |
     türkiye'nin kendi nutella'sını üretmeye başlaması
   entry_id: 55265324
   entry_content: |
-    <a rel="nofollow" class="url" target="_blank" href="https://karikaturistan.files.wordpress.com/2012/11/nurilla-umut-sarikaya.jpg" title="https://karikaturistan.files.wordpress.com/2012/11/nurilla-umut-sarikaya.jpg">https://karikaturistan.files.wordpress.com/…aya.jpg</a>
+    <a rel="nofollow" class="url" target="_blank" href="https://karikaturistan.files.wordpress.com/2012/11/nurilla-umut-sarikaya.jpg" title="https://karikaturistan.files.wordpress.com/2012/11/nurilla-umut-sarikaya.jpg">https://karikaturistan.files.wordpress.com/…aya.jpg</a><br/><br/>edit:(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: sanal hayvan
 - entry_name: |
     mühendis çokbilmişliği
@@ -150,19 +150,19 @@ data:
     o ses türkiye
   entry_id: 55278789
   entry_content: |
-    ebru gündeş'in murat boz'a "rol çalıyor" çıkışına annemin, "senin kocan ne çalıyor?" demesiyle hane halkını yerlere yatıran yarışmamsı.
+    ebru gündeş'in murat boz'a "rol çalıyor" çıkışına annemin, "senin kocan ne çalıyor?" demesiyle hane halkını yerlere yatıran yarışmamsı.<br/><br/>debe editi:<br/><a class="b" href="/?q=aziz+g%c3%bcler">aziz güler</a> 21 eylülde kobani'de hayatını kaybetmiştir. cenazesinin türkiye'ye getirilmesi hiçbir karşı yasal zemin olmamasına rağmen şanlıurfa valiliği tarafından engellenmekte ve ailesine verilmemektedir. imza kampanyası için <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/oğlumuzun-cenazesini-istiyoruz-tbmmresmi-azizgulerincenazesiniverin?recruiter=7929416&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive&rp_sharecordion_checklist=controlhecklist=control" title="https://www.change.org/p/oğlumuzun-cenazesini-istiyoruz-tbmmresmi-azizgulerincenazesiniverin?recruiter=7929416&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive&rp_sharecordion_checklist=controlhecklist=control">oğlumuzun cenazesini istiyoruz</a>
   entry_writer: gelisine vole
 - entry_name: |
     4 ekim 2015 ak parti seçim beyannamesi toplantısı
   entry_id: 55267688
   entry_content: |
-    asgari ücreti 1300tl yapacağız dedi ahmet davutoğlu. <br/>kaynak nerede? sdasfasdas<br/><br/>chp sayesinde asgari ücret her halükarda yükselecek. en azından bunu garantiledik önümüzdeki seçimlerden sonrası için.
+    asgari ücreti 1300tl yapacağız dedi ahmet davutoğlu. <br/>kaynak nerede? sdasfasdas<br/><br/>chp sayesinde asgari ücret her halükarda yükselecek. en azından bunu garantiledik önümüzdeki seçimlerden sonrası için.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: sherosky
 - entry_name: |
     t.c. giremez
   entry_id: 55269932
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7abuk+girdi+dikkat+edersen">çabuk girdi dikkat edersen</a>)<br/><br/>bu teröristler hiç akıllanmayacak.
+    (bkz: <a class="b" href="/?q=%c3%a7abuk+girdi+dikkat+edersen">çabuk girdi dikkat edersen</a>)<br/><br/>bu teröristler hiç akıllanmayacak. <br/><br/>ekleme: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: cccspidermanccc
 - entry_name: |
     robin van persie
@@ -186,7 +186,7 @@ data:
     ozan tufan
   entry_id: 55277492
   entry_content: |
-    "herkes ister fenerbahçe alır" dedirtmek için fenerbahçe'nin ihtiyacı olmamasına rağmen beşiktaş'ın elinden alıp piç ettiği futbolcu
+    "herkes ister fenerbahçe alır" dedirtmek için fenerbahçe'nin ihtiyacı olmamasına rağmen beşiktaş'ın elinden alıp piç ettiği futbolcu<br/>debe editi : (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: kavimler gocunde evi yagmalanan adam
 - entry_name: |
     kök hücreyle domuz içinde insan organı geliştirmek
@@ -201,16 +201,10 @@ data:
     böyle düşünen kaç insan vardır bilmiyorum ama mesajlaşma olayı bana oldukça zahmetli ve bunaltıcı geliyor. sürekli cevap yazmak zorunda olmak, pıt pıt telefon ekranında tuş aramak insanları nasıl darlamıyor anlamak mümkün değil.
   entry_writer: harry tuttle
 - entry_name: |
-    ersun yanal
-  entry_id: 55280308
-  entry_content: |
-    bu adamı karı kız olayları var diye gönderdiler yerine kim geldiyse karı kız yerine takımı sikti.
-  entry_writer: bazen oyle olur
-- entry_name: |
     atatürk hiç cinayet işledi mi
   entry_id: 55272817
   entry_content: |
-    bu başlığı açınca bir iddia ortaya atman, bir olay anlatman gerekmiyor mu mal dostum? aklıma her gelen soruyu buraya mı atmalıyım beynini s.ktiğim? götümüz yer miymiş de bilmem neymiş. s.ktir git amk cidden.
+    bu başlığı açınca bir iddia ortaya atman, bir olay anlatman gerekmiyor mu mal dostum? aklıma her gelen soruyu buraya mı atmalıyım beynini s.ktiğim? götümüz yer miymiş de bilmem neymiş. s.ktir git amk cidden.<br/>debe editi: sevgili @ahbual bildirdi (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) bakalım yardımcı olalım, yayalım arkadaşlar.
   entry_writer: insannn
 - entry_name: |
     pkk aç deyince kapıyı açmayan nusaybinli
@@ -234,13 +228,13 @@ data:
     selahattin demirtaş
   entry_id: 55266406
   entry_content: |
-    rahmetli şerafettin elçi bir şey demişti vaktinde;<br/><br/>''müzakere edeceğiniz son nesil biziz, bizden sonra savaşla büyümüş, öfkeli bir gençlikle karşılaşacaksınız''<br/><br/>rahmetlinin kastettiği neslin son temsilcilerinden ve bu çözüm umudunun çıtasını bir kaç basamak birden yukarıya çeken adamdır selahattin demirtaş. sadece kürtler nezdinde değil, türkler nezdinde de güçlü bir umut yarattı. ama bu yarattığı umut en çok akp nin tekerine çomak soktu ve akp dikkat ederseniz son zamanlardaki tüm enerjisini bu adama yoğunlaştırmış durumda. partinin 400 bürosuna saldırılmasına, yakılmasına, yağmalanmasına rağmen açılan sadece bir tane tek soruşturma var, o da bu adama. <br/><br/>bu adam barış içinde yaşamanın son anahtarı, bu adamı kaybederseniz tüm kürtleri kaybedersiniz. yani bu adama saldırarak aslında bu ülkenin bütünlüğüne dinamit yerleştirmiş oluyorsunuz. kürtler istemese bile sizin bu adama ve düşüncelerine sahip çıkmanız lazım. bu adama saldırarak asıl bölücülüğü yapmış oluyorsunuz. tüm saldırılara rağmen barış diyen tek siyasetçi, bu söylemlere saldırarak kürtlere tek bir alan bırakmış oluyorsunuz; savaş!<br/><br/>chp ile birlikte,suruç ve uyuyan polis ölümleri araştırılsın diyen bu adama karşın araştırılmasın diyen akp ve mhp nin dümenine takılmakta tarihi bir hata yapıyorsunuz. akp iktidarı için seni, beni, onu kısaca herkesi ölüme yollamaktan çekinmiyor. <br/><br/>(bkz: <a class="b" href="/?q=van+ktm%27de+%c3%a7%c3%b6p%c3%bcn+yan%c4%b1nda+yat%c4%b1r%c4%b1lan+askerler">van ktm'de çöpün yanında yatırılan askerler</a>) bu kadar değer veriyor bu adamlar sizin evlatlarınıza. <br/><br/>sizin evlatlarınızı ölüme yollarken bile çöplükte yatıran bu adamalar, (bkz: <a class="b" href="/?q=bir+milli+ma%c3%a7+i%c3%a7in+23.5+milyon+lira+prim+da%c4%9f%c4%b1tmak">bir milli maç için 23.5 milyon lira prim dağıtmak</a>) dağıtıyorlar tek özelliği yuvarlak bir topu tepmek olan adamlara <br/><br/>ve ayrıca bir o kadarda para (bkz: <a class="b" href="/?q=diyanet+b%c3%bct%c3%a7esinden+23+milyon+liran%c4%b1n+yok+olmas%c4%b1">diyanet bütçesinden 23 milyon liranın yok olması</a>) şeklinde iç ediliyor. <br/><br/>size vatan millet sakarya edebiyatı altında ölümü reva görürken hemde çöplüğün içinde, kendileri milyonları parselliyorlar sarayların villaların içinde.<br/><br/>sen ise günde 12 saat 1000 tlye köle gibi çalışırken gelip bu adamların istediği gibi bu adama saldırıyorsunuz. nereden baksan ahmakça nereden baksan tutarsızca ve nereden baksan sefilce...
+    rahmetli şerafettin elçi bir şey demişti vaktinde;<br/><br/>''müzakere edeceğiniz son nesil biziz, bizden sonra savaşla büyümüş, öfkeli bir gençlikle karşılaşacaksınız''<br/><br/>rahmetlinin kastettiği neslin son temsilcilerinden ve bu çözüm umudunun çıtasını bir kaç basamak birden yukarıya çeken adamdır selahattin demirtaş. sadece kürtler nezdinde değil, türkler nezdinde de güçlü bir umut yarattı. ama bu yarattığı umut en çok akp nin tekerine çomak soktu ve akp dikkat ederseniz son zamanlardaki tüm enerjisini bu adama yoğunlaştırmış durumda. partinin 400 bürosuna saldırılmasına, yakılmasına, yağmalanmasına rağmen açılan sadece bir tane tek soruşturma var, o da bu adama. <br/><br/>bu adam barış içinde yaşamanın son anahtarı, bu adamı kaybederseniz tüm kürtleri kaybedersiniz. yani bu adama saldırarak aslında bu ülkenin bütünlüğüne dinamit yerleştirmiş oluyorsunuz. kürtler istemese bile sizin bu adama ve düşüncelerine sahip çıkmanız lazım. bu adama saldırarak asıl bölücülüğü yapmış oluyorsunuz. tüm saldırılara rağmen barış diyen tek siyasetçi, bu söylemlere saldırarak kürtlere tek bir alan bırakmış oluyorsunuz; savaş!<br/><br/>chp ile birlikte,suruç ve uyuyan polis ölümleri araştırılsın diyen bu adama karşın araştırılmasın diyen akp ve mhp nin dümenine takılmakta tarihi bir hata yapıyorsunuz. akp iktidarı için seni, beni, onu kısaca herkesi ölüme yollamaktan çekinmiyor. <br/><br/>(bkz: <a class="b" href="/?q=van+ktm%27de+%c3%a7%c3%b6p%c3%bcn+yan%c4%b1nda+yat%c4%b1r%c4%b1lan+askerler">van ktm'de çöpün yanında yatırılan askerler</a>) bu kadar değer veriyor bu adamlar sizin evlatlarınıza. <br/><br/>sizin evlatlarınızı ölüme yollarken bile çöplükte yatıran bu adamalar, (bkz: <a class="b" href="/?q=bir+milli+ma%c3%a7+i%c3%a7in+23.5+milyon+lira+prim+da%c4%9f%c4%b1tmak">bir milli maç için 23.5 milyon lira prim dağıtmak</a>) dağıtıyorlar tek özelliği yuvarlak bir topu tepmek olan adamlara <br/><br/>ve ayrıca bir o kadarda para (bkz: <a class="b" href="/?q=diyanet+b%c3%bct%c3%a7esinden+23+milyon+liran%c4%b1n+yok+olmas%c4%b1">diyanet bütçesinden 23 milyon liranın yok olması</a>) şeklinde iç ediliyor. <br/><br/>size vatan millet sakarya edebiyatı altında ölümü reva görürken hemde çöplüğün içinde, kendileri milyonları parselliyorlar sarayların villaların içinde.<br/><br/>sen ise günde 12 saat 1000 tlye köle gibi çalışırken gelip bu adamların istediği gibi bu adama saldırıyorsun. nereden baksan ahmakça nereden baksan tutarsızca ve nereden baksan sefilce...<br/><br/>debeedit: sözlük içinde parasal yani maddi olmayan, tamamen araç-gereç isteğinden oluşan bir yardım kampanyası var. 5-6 yaşlarındaki anaokulu tıfılları için <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> atanan öğretmen arkadaşımız, ana okulunu biraz daha güzelleştirebilmek için yardımlarınız bekliyor;<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: ez ez ninim
 - entry_name: |
     şehirlere özgü süpermarketler
   entry_id: 55275343
   entry_content: |
-    bursa: <a class="b" href="/?q=seyhanlar">seyhanlar</a><br/>izmir: <a class="b" href="/?q=pehlivano%c4%9flu">pehlivanoğlu</a>
+    bursa: <a class="b" href="/?q=seyhanlar">seyhanlar</a><br/>izmir: <a class="b" href="/?q=pehlivano%c4%9flu">pehlivanoğlu</a><br/><br/>hayret lan, alt tarafı 2 tane market ismi yazdık...<br/><br/>sosyal sorumluluk editi:<br/>--------------------------------------------------------------------------------------<br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/><br/>oyunuzu kime verirseniz verin ama kullanın<br/>(bkz: <a class="b" href="/?q=oy+ve+%c3%b6tesi">oy ve ötesi</a>)<br/><br/>kişisel edit:<br/>-----------------------------------------------------------------------------------------<br/>böyle de bir hastalığımız var allah şifa vermesin...<br/>(bkz: <a class="b" href="/entry/9967662">#9967662</a>)<br/><br/>ağlattın be arkadaş...<br/>(bkz: <a class="b" href="/entry/55077818">#55077818</a>)<br/><br/>herşeyimiz tam35 stadımız eksik...<br/>(bkz: <a class="b" href="/entry/53170471">#53170471</a>)
   entry_writer: gordon skywalker
 - entry_name: |
     anne babasının tuttuğu partiye oy veren insanlar
@@ -270,7 +264,7 @@ data:
     ahmet hakan
   entry_id: 55265986
   entry_content: |
-    türkiyenin en çok satan gazetesinin birinde, en çok okunan köşe yazarıdır, dünyaca bilinen bir kanalda da programı vardır. <br/>arabasında kurşun sıkılmadık yer kalmadığı halde, hayatta kalan murat sancak denen zat ile kıyaslamak çok abes.<br/>ahmet hakan bu saldırıda ölebilirdi de ucuz kurtuldu, adamın canı "erdoğan benden bahsetti yuppi" diyecek kadar ucuz mu?
+    türkiyenin en çok satan gazetesinin birinde, en çok okunan köşe yazarıdır, dünyaca bilinen bir kanalda da programı vardır. <br/>arabasında kurşun sıkılmadık yer kalmadığı halde, hayatta kalan murat sancak denen zat ile kıyaslamak çok abes.<br/>ahmet hakan bu saldırıda ölebilirdi de ucuz kurtuldu, adamın canı "erdoğan benden bahsetti yuppi" diyecek kadar ucuz mu?<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: machetazo
 - entry_name: |
     recep tayyip erdoğan
@@ -282,13 +276,13 @@ data:
     ölümsüzlük iksirinin bulunması
   entry_id: 55266935
   entry_content: |
-    boku yediğimizin göstergesidir. çok erken buldunuz amk. (bkz: <a class="b" href="/?q=rte">rte</a>)
+    boku yediğimizin göstergesidir. çok erken buldunuz amk. (bkz: <a class="b" href="/?q=rte">rte</a>)<br/><br/>debe edit : debeye sahip çıkalım :) bir de böyle bir yardım kampanyası varmış. bir göz atın isterseniz. (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: nickine korum
 - entry_name: |
-    orta dünyaya barış gelince orgların seçtiği sektör
+    o. dünya'ya barış gelince orkların seçeceği sektör
   entry_id: 55279303
   entry_content: |
-    hepsi bir anda gitara dönüşmüştür. neden bilinmez.<br/><br/>not: başlığı düzelten ibiştir. benden söylemesi :)<br/>not2: yemeyiz :)
+    hepsi bir anda gitara dönüşmüştür. neden bilinmez.<br/><br/>not: başlığı düzelten ibiştir. benden söylemesi :)<br/>not2: yemeyiz :)<br/>not3: orglardan bahsedilen bu başlığı orklarla ilgili zannedip taşıyan meçhul şahısla ilgili görüşüm sabittir.<br/><br/>ek: <a class="b" href="/?q=ahbual">ahbual</a>in ricasını paylaşmak isterim:<br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: kararlsiz
 - entry_name: |
     mario gomez'in eskişehirspor'a attığı gol
