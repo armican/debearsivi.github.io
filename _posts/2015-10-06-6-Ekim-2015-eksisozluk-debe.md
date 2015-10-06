@@ -6,7 +6,7 @@ data:
     ak parti'nin oylarının %45'e çıkması
   entry_id: 55288290
   entry_content: |
-    benimki de 25 santime çıkmış, bu sabah uyandığımda farkettim. <br/>gerçek dışıdır.
+    benimki de 25 santime çıkmış, bu sabah uyandığımda farkettim. <br/>gerçek dışıdır.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: 90kilo
 - entry_name: |
     rusya'nın türkiye'yi yenemeyeceği gerçeği
@@ -18,62 +18,56 @@ data:
     5 ekim 2015 rus uçağının sınırı ihlal etmesi
   entry_id: 55286876
   entry_content: |
-    - sınır ihlali var.<br/>- kim ihlal etmiş?<br/>- ruslar. angajman kuralları?<br/>- bırak ya, muhatap olma, allahından bulsunlar.<br/>- anlaşıldı merkez.<br/><br/>.
+    - sınır ihlali var.<br/>- kim ihlal etmiş?<br/>- ruslar. angajman kuralları?<br/>- bırak ya, muhatap olma, allahından bulsunlar.<br/>- anlaşıldı merkez.<br/><br/>.<br/><br/>dibi ididi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/><br/>.
   entry_writer: frankiegoestohollywood
 - entry_name: |
     burger king'in king boy patates aldatmacası
   entry_id: 55305850
   entry_content: |
-    <a class="b" href="/?q=izmir">izmir</a>, <a class="b" href="/?q=ayd%c4%b1n">aydın</a>, <a class="b" href="/?q=sivas">sivas</a> ve <a class="b" href="/?q=kayseri">kayseri</a>'de <a class="b" href="/?q=burger+king">burger king</a> şubelerinde dikkatimi çeken aldatmacadır. ki buralarda çok sık gittim/gidiyorum <a class="b" href="/?q=burger+king">burger king</a>'e. bir iki kere de <a class="b" href="/?q=osmaniye">osmaniye</a>'de karşılaştım bu sorunla. ama bir iki kere ile sınırlı kaldığı için orayı es geçiyorum. konu şu:<br/><br/><a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a>-mavi kutu, yaklaşık <a class="b" href="/?q=g">g</a>10 x <a class="b" href="/?q=y">y</a>12 x <a class="b" href="/?q=d">d</a>5 boyutlarında olup, yaklaşık hacmi 10x12x5 = 600cm3'dür. <br/><a class="b" href="/?q=king+boy">king boy</a>-sarı kutu, yaklaşık <a class="b" href="/?q=g">g</a>10 x <a class="b" href="/?q=y">y</a>16 x <a class="b" href="/?q=d">d</a>6 boyutlarında olup, yaklaşık hacmi 10x16x6 = 960cm3'dür. <br/>hesaplanan sonuçlar gayet normal görünüyor, <a class="b" href="/?q=king+boy">king boy</a> patates, <a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a> patatesten fazla. bu fazla patates için de 1 lira <a class="b" href="/?q=king+boy">king boy</a> farkı ödüyoruz zaten. buraya kadar bir sorun yok.<br/>(burada <a class="b" href="/?q=g">g</a> kutu genişliği, <a class="b" href="/?q=y">y</a> kutu yüksekliği, <a class="b" href="/?q=d">d</a> kutu derinliği yani kalınlığını ifade etmektedir.)<br/><br/>burada kandırmaca ise şöyle yapılıyor: <br/><a class="b" href="/?q=king+boy">king boy</a>-sarı kutular izli-katlamalı şeklinde üretilmiş. enine/kalınlığına olan iz açılmadığı zaman kutu ince uzun bir şey olarak kalıyor. kutu genişliğine kanırtılarak ve alttan bastırılarak eninin/kalınlığının normale getirilmesi gerekiyorken direkt kutu herhangi bir işlem yapılmadan dolduruluyor. bu durumda kutumuzun kalınlığı yukarıda yapılan hesapta kullandığımız <a class="b" href="/?q=d">d</a>6 cm genişliğe ulaşmıyor. 3-4 cm kalınlığında, ince uzun bir kutu oluyor. az biraz geniş kalıyor ama kalınlığı epey bir azalmış oluyor. <br/>bu durumda <a class="b" href="/?q=king+boy">king boy</a>-sarı kutu, yaklaşık <a class="b" href="/?q=g">g</a>11 x <a class="b" href="/?q=y">y</a>16 x <a class="b" href="/?q=d">d</a>3,5 boyutlarında olup, yaklaşık hacmi 11x16x3,5 = 616cm3'dür. bu miktar da <a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a>-mavi kutu ile satın aldığımız patates miktarı (600cm3) ile neredeyse aynı. <br/><br/><a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a> patates (mavi kutuda servis edilen) ile <a class="b" href="/?q=king+boy">king boy</a> (sarı kutuda servis edilen) patates miktarları neredeyse aynı olmasına rağmen <a class="b" href="/?q=king+boy">king boy</a> için ekstra 1 lira ödüyoruz. ve böylelikle de <a class="b" href="/?q=burger+king">burger king</a>'in kasasına karşılıksız 1 lirayı armağan etmiş oluyoruz.<br/><br/>edit:<br/>1. <a class="b" href="/?q=burger+king">burger king</a>'in müşteri hizmetleine bildirdim, 2 hafta önce. düzelteceklerini, bölge sorumlularını ve şubeyi yazılı olarak uyaracaklarını belirttiler. tabiki düzeltmediler. hatta ben şube çalışanlarını o an direkt de uyardım. aydın'da bu uyarım yüzünden de terslendim. <br/>2. 1 lira benim için önemli. fakirlik zenginlik mevzu değil bu. ben 2,99 lira etiketli üründe o hiç verilmeyen 1 kuruş para üstünün tartışmasını da yaptım bir çok alışverişimde. <br/>3. o 1 liralar birçokları için önemli olmayabilir belki ama emin olun belki günde kazanılan on binlerce 1 liranın <a class="b" href="/?q=burger+king">burger king</a> için önemi çok büyük.
+    <a class="b" href="/?q=izmir">izmir</a>, <a class="b" href="/?q=ayd%c4%b1n">aydın</a>, <a class="b" href="/?q=sivas">sivas</a> ve <a class="b" href="/?q=kayseri">kayseri</a>'de <a class="b" href="/?q=burger+king">burger king</a> şubelerinde dikkatimi çeken aldatmacadır. ki buralarda çok sık gittim/gidiyorum <a class="b" href="/?q=burger+king">burger king</a>'e. bir iki kere de <a class="b" href="/?q=osmaniye">osmaniye</a>'de karşılaştım bu sorunla. ama bir iki kere ile sınırlı kaldığı için orayı es geçiyorum. konu şu:<br/><br/><a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a>-mavi kutu, yaklaşık <a class="b" href="/?q=g">g</a>10 x <a class="b" href="/?q=y">y</a>12 x <a class="b" href="/?q=d">d</a>5 boyutlarında olup, yaklaşık hacmi 10x12x5 = 600cm3'dür. <br/><a class="b" href="/?q=king+boy">king boy</a>-sarı kutu, yaklaşık <a class="b" href="/?q=g">g</a>10 x <a class="b" href="/?q=y">y</a>16 x <a class="b" href="/?q=d">d</a>6 boyutlarında olup, yaklaşık hacmi 10x16x6 = 960cm3'dür. <br/>hesaplanan sonuçlar gayet normal görünüyor, <a class="b" href="/?q=king+boy">king boy</a> patates, <a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a> patatesten fazla. bu fazla patates için de 1 lira <a class="b" href="/?q=king+boy">king boy</a> farkı ödüyoruz zaten. buraya kadar bir sorun yok.<br/>(burada <a class="b" href="/?q=g">g</a> kutu genişliği, <a class="b" href="/?q=y">y</a> kutu yüksekliği, <a class="b" href="/?q=d">d</a> kutu derinliği yani kalınlığını ifade etmektedir.)<br/><br/>burada kandırmaca ise şöyle yapılıyor: <br/><a class="b" href="/?q=king+boy">king boy</a>-sarı kutular izli-katlamalı şeklinde üretilmiş. enine/kalınlığına olan iz açılmadığı zaman kutu ince uzun bir şey olarak kalıyor. kutu genişliğine kanırtılarak ve alttan bastırılarak eninin/kalınlığının normale getirilmesi gerekiyorken direkt kutu herhangi bir işlem yapılmadan dolduruluyor. bu durumda kutumuzun kalınlığı yukarıda yapılan hesapta kullandığımız <a class="b" href="/?q=d">d</a>6 cm genişliğe ulaşmıyor. 3-4 cm kalınlığında, ince uzun bir kutu oluyor. az biraz geniş kalıyor ama kalınlığı epey bir azalmış oluyor. <br/>bu durumda <a class="b" href="/?q=king+boy">king boy</a>-sarı kutu, yaklaşık <a class="b" href="/?q=g">g</a>11 x <a class="b" href="/?q=y">y</a>16 x <a class="b" href="/?q=d">d</a>3,5 boyutlarında olup, yaklaşık hacmi 11x16x3,5 = 616cm3'dür. bu miktar da <a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a>-mavi kutu ile satın aldığımız patates miktarı (600cm3) ile neredeyse aynı. <br/><br/><a class="b" href="/?q=b%c3%bcy%c3%bck+boy">büyük boy</a> patates (mavi kutuda servis edilen) ile <a class="b" href="/?q=king+boy">king boy</a> (sarı kutuda servis edilen) patates miktarları neredeyse aynı olmasına rağmen <a class="b" href="/?q=king+boy">king boy</a> için ekstra 1 lira ödüyoruz. ve böylelikle de <a class="b" href="/?q=burger+king">burger king</a>'in kasasına karşılıksız 1 lirayı armağan etmiş oluyoruz.<br/><br/>edit:<br/>1. <a class="b" href="/?q=burger+king">burger king</a>'in müşteri hizmetleine bildirdim, 2 hafta önce. düzelteceklerini, bölge sorumlularını ve şubeyi yazılı olarak uyaracaklarını belirttiler. tabiki düzeltmediler. hatta ben şube çalışanlarını o an direkt de uyardım. aydın'da bu uyarım yüzünden de terslendim. <br/>2. 1 lira benim için önemli. fakirlik zenginlik mevzu değil bu. ben 2,99 lira etiketli üründe o hiç verilmeyen 1 kuruş para üstünün tartışmasını da yaptım bir çok alışverişimde. <br/>3. o 1 liralar birçokları için önemli olmayabilir belki ama emin olun belki günde kazanılan on binlerce 1 liranın <a class="b" href="/?q=burger+king">burger king</a> için önemi çok büyük.<br/><br/>(<a class="b" href="/?q=g%c3%bcnayd%c4%b1n">günaydın</a>) edit: sözlüğe yeni bir tabir kazandırdım şimdi; "<a class="b" href="/?q=g%c3%bcnayd%c4%b1n+editi">günaydın editi</a>"<br/>1. ölçmedim tabiki. mühendissek de cebimizde metre ile dolaşmıyoruz. bir şeyi ölçmek için, daha doğrusu iki şeyi karşılaştırmak için metre gerekmiyor zaten. standart ölçülerdeki herhangi bir şeyle iki patates kutusu rahatlıkla orantılanabilir/karşılaştırılabilir. bunun için cebinizdeki yaklaşık 8x5 cm ebatlarındaki bankamatik kartı kullanılabilir mesela, ya da sigara kutusu, ya da herhangi başka bir şey. önemli olan her iki kutu içinde ölçü olarak kullandığınız şeyin aynı olmasıdır. böyle bir ölçme ve karşılaştırmadan milimetrik bir hassasiyet ve kesin sonuç beklenemez doğal olarak. o yüzden <a class="b" href="/?q=entry">entry</a>'de <a class="b" href="/?q=yakla%c5%9f%c4%b1k">yaklaşık</a> tabirini sıklıkla kullandım. ölçmeden, karşılaştırmadan, satandart bir şeyle orantılamadan da <a class="b" href="/?q=entry">entry</a>'de bahsedilen aldatmaca rahatlıkla tespit edilebilir. nasıl mı? gözle tabiki. zaten <a class="b" href="/?q=burger+king">burger king</a>'in burada kullandığı aldatmaca yöntemi de budur, <a class="b" href="/?q=g%c3%b6rsel+alg%c4%b1">görsel algı</a>mız. şöyle açıklayayım bunu da:<br/><br/>2. <a class="b" href="/?q=burger+king">burger king</a>'in "kutulara şu kadar patates koyacağız" ya da "bu kutuda diğer kutuda olduğundan şu kadar daha fazla patates olacak" ya da "bu kutuya koyulan patates diğer kutudaki patates miktarından şu oranda daha fazla olacak" gibi patates kutularına koyulan patates miktarılarına işaret eden bir taahhüdü, yazılı bir beyanı olmaması söz konusu <a class="b" href="/?q=aldatmaca">aldatmaca</a>yı ortadan kaldırmaz. zaten böyle bir beyan veya taahhüt varsa da, bu beyan ve taahhüt <a class="b" href="/?q=burger+king">burger king</a>'i söz konusu aldatmacadan aklamayacaktır. şöyle ki:<br/>kocaman bir kutuya koydukları patatesle neredeyse yarı büyüklüğünde bir kutuya koydukları patatesin aynı ya da birbirine çok yakın olmaması beklenir. müşteriye sundukları görseller ve kutuların birbirne oranla büyüklüklerinin müşteride oluşturduğu algı çok daha fazla patatestir, müşteriyi cezbeden ve o patatese 1 lira farkı değer gösteren de müşteride oluşturdukları bu beklentidir. müşteri 1 lira fark verirken 100 tane patates yerine 150 tane patates beklemektedir. <br/>kısacası <a class="b" href="/?q=burger+king">burger king</a>, kutu ve görsellerle, müşterinin algısı ile oynayarak; müşteriye 1 lira karşılığında sana 100 yerine 150-160 tane patates vereceğiz taahhüdünde bulunurken, müşteriye 100 tane yerine 110-120 tane patates vermektedir.<br/><br/><a class="b" href="/?q=burger+king">burger king</a>, "<a class="b" href="/?q=king+boy">king boy</a> ile biz size 150 patates değil 110-120 tane patates vermeyi beyan ettik, aha da işte burada beyanımız" diyebilir. bunu dese bile ben, 110-120 tane patates için bana 150-160 tanelik kutu gösterdiği ve servisi bu kutu ile yaptığı için yine kendimi aldatılmış hissedeceğim. madem 120 tane beyan ettin 120 tanelik kutu görselinin reklamını yap ve 120 tanelik kutu ile servis yap, müşteriye 150 tanelik daha büyük bir kutu göstererek, müşterinin algısyla oynayıp müşteriyi kandırma. <br/><br/>velhasıl her şekilde kandırılıyoruz.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: 90kilo
 - entry_name: |
     türkiye'nin rus jetlerini vurması
   entry_id: 55288800
   entry_content: |
-    dikkat ederseniz "nota" kelimesinden özenle kaçınılmış. diplomatik dilde nota vermek "ayağını denk al ha" demektir. "kuvvetle protesto etmek" ise "abi naapıyon sen yaa, insan biraz dikkat eder di mi ama" demektir.<br/><br/>devletler kendinden zayıf ya da eşit gördüklerine nota verir. kuvvetlileri ise anca protesto eder. <br/><br/>zaten bu tür ihlaller de bunun için yapılır. hiç bir pilot hava sahasını yanlışlıkla filan geçmez. bu milyon dolarlık uçaklar oyuncak değil. rotasının tayini milim sapmadan yapılır. amaç, senin sınır farkındalığını test etmektir. herkese atar yapmakla meşhur olan bir siyasi figür, "rusya'nın sınırı yok suriyeyle" derken bunu kastetti galiba. sen benimle sınır komşusu değilsin ki sen benim farkındalığımı test ediyorsun demeye getirmiştir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://i.imgflip.com/s2gpo.jpg" title="https://i.imgflip.com/s2gpo.jpg">vurur yüzüne ifadesi, sabrın mı test edildi bi tanesi</a> diyesim var.
+    dikkat ederseniz "nota" kelimesinden özenle kaçınılmış. diplomatik dilde nota vermek "ayağını denk al ha" demektir. "kuvvetle protesto etmek" ise "abi naapıyon sen yaa, insan biraz dikkat eder di mi ama" demektir.<br/><br/>(edit: iki ülke arasında değiş tokuş edilen kağıda nota dendiğini bilmeyecek kadar cahil değilim. diplomatik dilde 'nota' vermek dedik, dilde, yani söylem olarak 'nota verdik' hede hödö demek diyorum)<br/><br/>devletler kendinden zayıf ya da eşit gördüklerine nota verir. kuvvetlileri ise anca protesto eder. <br/><br/>zaten bu tür ihlaller de bunun için yapılır. hiç bir pilot hava sahasını yanlışlıkla filan geçmez. bu milyon dolarlık uçaklar oyuncak değil. rotasının tayini milim sapmadan yapılır. amaç, senin sınır farkındalığını test etmektir. herkese atar yapmakla meşhur olan bir siyasi figür, "rusya'nın sınırı yok suriyeyle" derken bunu kastetti galiba. sen benimle sınır komşusu değilsin ki sen benim farkındalığımı test ediyorsun demeye getirmiştir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://i.imgflip.com/s2gpo.jpg" title="https://i.imgflip.com/s2gpo.jpg">vurur yüzüne ifadesi, sabrın mı test edildi bi tanesi</a> diyesim var.<br/><br/>edit: diplomatik dil'e takılan arkadaşlara:<br/><br/>merika askerlerimizin başına çuval geçirince "nota verecek misiniz" sorusu soran gazeteciye "<a class="b" href="/?q=ne+notas%c4%b1+veriyorsun+m%c3%bczik+notas%c4%b1+m%c4%b1%22">ne notası veriyorsun müzik notası mı"</a> diyenlerden bahsediyorum. <br/><br/>tekrar parantez içine aldım ama maruzatımı anlatamadım. "nota verdik, veriyorum, büyükelçiye nota verdik" şeklinde efelenmeden bahsediyorum. açıklamayı okursanız, dili çok iyi farkedeceksiniz. "rusya'ya nota verdik" filan demiyor dışişleri açıklaması "kuvvetle protesto ettik" diyor. <br/><br/>örneğin bakın: <a rel="nofollow" class="url" target="_blank" href="http://www.hurriyet.com.tr/dunya/30078915.asp" title="http://www.hurriyet.com.tr/dunya/30078915.asp">http://www.hurriyet.com.tr/dunya/30078915.asp</a><br/><br/>"taylan'da nota verdik"<br/><br/>şöyle boğazınızdan gelen tok bir sesle okuyun bunu.<br/><br/>nasıl duyuluyor? "tayland'a nota verdik çünkü skeriz biz taylandı."<br/><br/>ama "risyeyi kivvetle prestisti ittik". bu nasıl? itin götüne girdi değil mi?<br/><br/>kastettiğim diplomatik dil bu.<br/><br/>edit: hayırlı bir debe editi.<br/><br/>merhaba ,bir arkadasimiz siirte okul öncesi öğretmeni olarak atanmış. atanmasıyla,sınıfında cocuklar için tek eğitim malzemesi olmadığını görmesi bir olmuş. sosyal medyadan yardım çağrısı üzerine burda bir yardım kampanyası başlatıldı. yardımın nakdi değil, ayni olmasini planliyoruz. daha cok kisiye ulasabilmememiz, yardim kampanyamizin görülebilmesi için, başlığı debe editi olarak paylaşırsanız minnettar oluruz efendim. başlık : (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) sevgilerle
   entry_writer: 0xf8
 - entry_name: |
     suyun içinde mi dışında mı anlaşılmayan kız
   entry_id: 55291123
   entry_content: |
-    (bkz: <a class="b" href="/?q=buras%c4%b1+kar%c4%b1%c5%9fmaz+siktir+edin">burası karışmaz siktir edin</a>)
+    (bkz: <a class="b" href="/?q=buras%c4%b1+kar%c4%b1%c5%9fmaz+siktir+edin">burası karışmaz siktir edin</a>)<br/><br/>debe edit: ne bok yemeye debeye girdi bu entry anlamadım ama bir işe yarasın bari:<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: notworker
 - entry_name: |
     türbanlı kızların ahlakı
   entry_id: 55285382
   entry_content: |
-    ahlaki yönden nasildir bilmem ama bir tane de olsa ilac niyetine cirkef olmayanini görmedim.<br/><br/>dün aksam üzeri sevgilimle <a class="b" href="/?q=zanoni+zanoni">zanoni zanoni</a>ye gittik, alt kata oturduk, 4-5 tane türbanli bacimiz o kadar bagirarak konusuyolardi ki sevgilimin sesini duyamiyordum, sevgilimin "bunlar cirkef olur, basa cikamazsin" demesine ragmen gayet kibar bir sekilde "arkadaslar lütfen biraz yavas konusur musunuz?" deme gafletinde bulundum, hepsi birden saldirdi ve halen bir cümle kulaklarimda yankilaniyor "rahatsiz oluyorsan git evinde otur". kelimelerim kifayetsiz kaldi, ayni durumda ben olsaydim "cok özür dilerim" derdim. beni rahatsiz ettigi icin özür dilemek yerine evine git diyor, kendinde beni rahatsiz etme hakkini görüyor. yemin ederim tiksindim o an türbanlilardan. ıclerinde mutlaka saygili, iyi insanlar vardir ama dün itibariyle en saygilisi da, en iyisi de benden uzak reislerine yakin olsun.
+    ahlaki yönden nasildir bilmem ama bir tane de olsa ilac niyetine cirkef olmayanini görmedim.<br/><br/>dün aksam üzeri sevgilimle <a class="b" href="/?q=zanoni+zanoni">zanoni zanoni</a>ye gittik, alt kata oturduk, 4-5 tane türbanli bacimiz o kadar bagirarak konusuyolardi ki sevgilimin sesini duyamiyordum, sevgilimin "bunlar cirkef olur, basa cikamazsin" demesine ragmen gayet kibar bir sekilde "arkadaslar lütfen biraz yavas konusur musunuz?" deme gafletinde bulundum, hepsi birden saldirdi ve halen bir cümle kulaklarimda yankilaniyor "rahatsiz oluyorsan git evinde otur". kelimelerim kifayetsiz kaldi, ayni durumda ben olsaydim "cok özür dilerim" derdim. beni rahatsiz ettigi icin özür dilemek yerine evine git diyor, kendinde beni rahatsiz etme hakkini görüyor. yemin ederim tiksindim o an türbanlilardan. ıclerinde mutlaka saygili, iyi insanlar vardir ama dün itibariyle en saygilisi da, en iyisi de benden uzak reislerine yakin olsun.<br/><br/>edit1: türbanli kadinlarin ahlakini elestirmedim, entry'de belirttigim üzre ahlakini bilemem ama ortada bir gercek var, türbanli kadinlarin bir kisminda inanilmaz bos bi cesaret var. bagirarak konusmalarindan ve sürekli haykirarak gülmelerinden rahatsiz oldugum icin kibar bi sekilde uyarmam karsisinda viyana'da beni mekandan kovma cesareti gösteren bu kadinlar türkiye'de olsaydik ne yaparlardi düsünmeden edemiyorum, yeni bi magduriyet yaratip "bizim türbanli bacilarimiza zanoni zanoni'de dondurma yedirmediler" diye gazete basliklari süslenir ve muhtemelen fiziksel bir lince ugrardim.<br/><br/>edit2: din düsmani oldugumu söylemis bazi yazarlar. evet, ateistim. hayir, din düsmani degilim. daha önceki entry'lerime bakilacak olursa benim ailemin dindar insanlar oldugu görülür.<br/><br/>edit3: zanoni zanoni'nin reklamini yaptigimi söyleyenler var. ınsaat sektöründeyim. zanoni zanoni'ye yilda en fazla 3 kez gidiyorum, herhangi bir ilgim yok.<br/><br/>edit4: mesaj yoluyla küfür eden dangalaklar size hicbir zaman cevap vermicem. ancak o güzide küfürlerinizi size geri iade ediyorum. ne igrenc insanlarsiniz!<br/><br/>edit5:(bkz: <a class="b" href="/?q=sehit+selahaddin+esin+ilkokulu+yardim+kampanyasi">sehit selahaddin esin ilkokulu yardim kampanyasi</a>)
   entry_writer: emekbaran
 - entry_name: |
     domino's pizza
   entry_id: 55292649
   entry_content: |
-    bugüne kadar bir kaç kez 30 dakikadan geç getirdiler bana sipariş verdiğim pizzaları ve hiçbirinde de bedava alacağım diye bir talebim olmadı. normal şartlarda bu garantiyi veriyorsan müşteri bir şey demeden "30 dakikada getiremediğimiz için bu siparişinizden ücret almıyoruz" diye kendileri söylemeliler. böyle yapsalar müthiş bir pr yapmış olurlar, olumsuz tecrübeler nasıl yayılıyorsa sosyal medyada bunlar da yayılır. <br/>hadi bunu yapmıyorsun, bari hakkını arayan müşteriye zorluk çıkartma.
+    bugüne kadar bir kaç kez 30 dakikadan geç getirdiler bana sipariş verdiğim pizzaları ve hiçbirinde de bedava alacağım diye bir talebim olmadı. normal şartlarda bu garantiyi veriyorsan müşteri bir şey demeden "30 dakikada getiremediğimiz için bu siparişinizden ücret almıyoruz" diye kendileri söylemeliler. böyle yapsalar müthiş bir pr yapmış olurlar, olumsuz tecrübeler nasıl yayılıyorsa sosyal medyada bunlar da yayılır. <br/>hadi bunu yapmıyorsun, bari hakkını arayan müşteriye zorluk çıkartma.<br/><br/>deve siki : (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: ali riza denen pezevenk
 - entry_name: |
     aselsan'ın tekerleğin patentini alması
   entry_id: 55296788
   entry_content: |
-    <a rel="nofollow" class="url" target="_blank" href="http://www.aselsan.com.tr/tr-tr/cozumlerimiz/insansiz-sistemler/insansiz-araclar/kaplan-insansiz-kara-araci-ailesi" title="http://www.aselsan.com.tr/tr-tr/cozumlerimiz/insansiz-sistemler/insansiz-araclar/kaplan-insansiz-kara-araci-ailesi">bunun</a> veya başka bir aracın tekerleğinin patenti olabilir. bi siz zekisiniz amk.
+    <a rel="nofollow" class="url" target="_blank" href="http://www.aselsan.com.tr/tr-tr/cozumlerimiz/insansiz-sistemler/insansiz-araclar/kaplan-insansiz-kara-araci-ailesi" title="http://www.aselsan.com.tr/tr-tr/cozumlerimiz/insansiz-sistemler/insansiz-araclar/kaplan-insansiz-kara-araci-ailesi">bunun</a> veya başka bir aracın tekerleğinin patenti olabilir. bi siz zekisiniz amk.<br/><br/>edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: amcayanickinigostermeyencocuk
 - entry_name: |
     öğrencinin öğretmenin telefonunu çalması
   entry_id: 55301666
   entry_content: |
-    (bkz: <a class="b" href="/?q=atanm%c4%b1%c5%9f%c4%b1n+karde%c5%9f+hay%c4%b1rl%c4%b1+olsun">atanmışın kardeş hayırlı olsun</a>)
+    (bkz: <a class="b" href="/?q=atanm%c4%b1%c5%9f%c4%b1n+karde%c5%9f+hay%c4%b1rl%c4%b1+olsun">atanmışın kardeş hayırlı olsun</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: pocoyo
 - entry_name: |
     asansörün rte'yi kabul etmemesi
   entry_id: 55299729
   entry_content: |
-    şüphesiz milli iradeye yapılan saygısızlığı <a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video_haber/382057/Erdogan_asansorde_kaldi___Biri_insin_ya__.html" title="http://www.cumhuriyet.com.tr/video/video_haber/382057/Erdogan_asansorde_kaldi___Biri_insin_ya__.html">gösterir</a><br/><br/><a class="b" href="/?q=zorunlu+ekleme">zorunlu ekleme</a>: arkadaş biz bu kadar ciddi bu kadar tahammülsüz bir ülke değildik ne oldu lan bize? hiçbir şeyin mizahı hiçbir şeyin eleştirisi yapılamayacak mı bu ülkede? yazdığımız 2 satır şeyden derin siyasi komplolar çıkarmak da nedir yahu? azıcık eleştiriye azıcık mizaha saygınız olsun. yok bizi toprak kabul etmezmiş, yok öldürememişiz de artık elimizden bu kadarı geldiği için dalga geçiyormuşuz.. abicim bu kişi de en nihayetinde bir insan. ulaşılmaz ve kutsal bir varlık değil. kendinize gelin. en basitinden bir siyasetçi. sadece <a class="b" href="/?q=siyaset%c3%a7i">siyasetçi</a>.. bırakın bu kadar germeyin kendinizi. ömrünüzü yazık yeminle..
+    şüphesiz milli iradeye yapılan saygısızlığı <a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video_haber/382057/Erdogan_asansorde_kaldi___Biri_insin_ya__.html" title="http://www.cumhuriyet.com.tr/video/video_haber/382057/Erdogan_asansorde_kaldi___Biri_insin_ya__.html">gösterir</a><br/><br/><a class="b" href="/?q=zorunlu+ekleme">zorunlu ekleme</a>: arkadaş biz bu kadar ciddi bu kadar tahammülsüz bir ülke değildik ne oldu lan bize? hiçbir şeyin mizahı hiçbir şeyin eleştirisi yapılamayacak mı bu ülkede? yazdığımız 2 satır şeyden derin siyasi komplolar çıkarmak da nedir yahu? azıcık eleştiriye azıcık mizaha saygınız olsun. yok bizi toprak kabul etmezmiş, yok öldürememişiz de artık elimizden bu kadarı geldiği için dalga geçiyormuşuz.. abicim bu kişi de en nihayetinde bir insan. ulaşılmaz ve kutsal bir varlık değil. kendinize gelin. en basitinden bir siyasetçi. sadece <a class="b" href="/?q=siyaset%c3%a7i">siyasetçi</a>.. bırakın bu kadar germeyin kendinizi. ömrünüzü yazık yeminle..<br/><br/><a class="b" href="/?q=zorunlu+eklemenin+eki">zorunlu eklemenin eki</a>: bazı yazarlarımız yukarıdaki eklemeye haklı olarak tepki göstermiş ve sadece bize verilen tepkilere değil entry'lerde rte'ye verilen tepkilere de değinmediğim için beni eleştirmiş, tek taraflı olmakla itham etmişler. sağ olsunlar. her türlü düşünceye saygımız mevcut. ancak burada şunu belirtme gereği duyuyorum. sevgili sözlük yazarları, bugün toplumun bir kesiminin rte'ye karşı bu kadar güçlü reaksiyon göstermesinin tek sebebi kişilerin kendi siyasi tercihleri midir? yoksa bunda erdoğan'ın 14 yıldır ustalıkla kurduğu kutuplaştırma politikası da etkili midir? bizden olmayan her halde haksızdır görüşünü empoze edip her seferinde %50'den bahseden ve toplumu 2 büyük kutba bölen kişi kimdir? meydanlarda, tv programlarında, söyleşilerinde her seferinde birilerini orantısız şekilde hedef göstermesi, onlardan nefretle bahsetmesi bunda etkili değil midir? dün başbakanken bile tahammül edemediğimiz bu tarz görüş ve davranışları sergilerken bugün tarafsız olacağına yemin ettiği halde cumhurbaşkanı halinde zerre değişme ve geri adım atma yoktur. tamam onun siyaset tarzı belki budur. ancak bu ülkenin değerleri ve anayasası şüphesiz ki ondan daha üstündür-üstün olmalıdır. bu bağlamda sizin verdiğiniz tepkilere fazlaca hak veremiyorum.<br/><br/><a class="b" href="/?q=debe+eklemesi">debe eklemesi</a>: eğitim tüm karanlıkların panzehiridir. bu nedenle (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)na destek verelim. daha iyi yetişmiş bireyler için elimizden geleni yapalım.
   entry_writer: adversary
-- entry_name: |
-    5 ekim 2015 futbolda şike davası duruşması
-  entry_id: 55287518
-  entry_content: |
-    sonucunda ne karar çıkarsa çıksın sarı-lacivert aşkımızın üzerindeki "şikeci" damgası temizlenmeyecektir.<br/><br/>(bkz: <a class="b" href="/?q=defol+git+aziz+y%c4%b1ld%c4%b1r%c4%b1m">defol git aziz yıldırım</a>)
-  entry_writer: bu kacinci guzum
 - entry_name: |
     fifa'yı klavye ile oynamış efsane nesil
   entry_id: 55300171
@@ -84,7 +78,7 @@ data:
     fb'nin uefa ve tff'ye 210m euroluk dava açması
   entry_id: 55302136
   entry_content: |
-    bir fb'li olarak kazanır mıyız kazanamaz mıyız bilmem ama 210 milyon euro ile ilgili tek yorumum:<br/><br/>(((o)__(^_^)__(o)))
+    bir fb'li olarak kazanır mıyız kazanamaz mıyız bilmem ama 210 milyon euro ile ilgili tek yorumum:<br/><br/>(((o)__(^_^)__(o)))<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> : (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: ben senin bildigin erkeklerden degilim
 - entry_name: |
     5 ekim 2015 istanbul trafiği
@@ -102,7 +96,7 @@ data:
     wesley sneijder'in kafasındaki damar
   entry_id: 55290175
   entry_content: |
-    bakın bu bir dramdır.<br/><br/>(bkz: <a class="b" href="/?q=i%c5%9fsizli%c4%9fin+kan%c4%b1t%c4%b1">işsizliğin kanıtı</a>)
+    bakın bu bir dramdır.<br/><br/>(bkz: <a class="b" href="/?q=i%c5%9fsizli%c4%9fin+kan%c4%b1t%c4%b1">işsizliğin kanıtı</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) <br/><br/>debe editi2: duyarsız kalmayalım
   entry_writer: islakhavluylakurulananadam
 - entry_name: |
     18 yaşında kız 36 yaşında erkek birlikteliği
@@ -114,13 +108,13 @@ data:
     ekmeksiz kahvaltı
   entry_id: 55286026
   entry_content: |
-    karışık tost ve çayla yapılan kahvaltıdır. ayrıca ekmek yemiyorum.
+    karışık tost ve çayla yapılan kahvaltıdır. ayrıca ekmek yemiyorum.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: 90kilo
 - entry_name: |
     songül karlı mı gösteriyor televizyon
   entry_id: 55300318
   entry_content: |
-    (bkz: <a class="b" href="/?q=b%c3%b6yle+%c5%9fakalar+yaparsan%c4%b1z+ferhat+g%c3%b6%c3%a7er">böyle şakalar yaparsanız ferhat göçer</a>)
+    (bkz: <a class="b" href="/?q=b%c3%b6yle+%c5%9fakalar+yaparsan%c4%b1z+ferhat+g%c3%b6%c3%a7er">böyle şakalar yaparsanız ferhat göçer</a>)<br/><br/>debe editi: şu dünya'da güzel şeyler yapmak için çok kısa vaktimiz var (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: biryirmidort
 - entry_name: |
     mühendis çokbilmişliği
@@ -138,7 +132,7 @@ data:
     derin futbol
   entry_id: 55305881
   entry_content: |
-    ahmet çakar'ın akp yalakası rasim ozan kütahyalı'ya <br/>''mustafa kemal atatürk türkiye cumhuriyeti'nin kurucusudur büyük önderimizdir'' dedirttiği program olmaktadır.<br/>ulan bi yerlerimizi sıkıp istiklal marşı'nı okuttuğumuz günler gibi oldu.
+    ahmet çakar'ın akp yalakası rasim ozan kütahyalı'ya <br/>''mustafa kemal atatürk türkiye cumhuriyeti'nin kurucusudur büyük önderimizdir'' dedirttiği program olmaktadır.<br/>ulan bi yerlerimizi sıkıp istiklal marşı'nı okuttuğumuz günler gibi oldu.<br/><br/>edit; (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: hakoleite
 - entry_name: |
     messi'siz barcelona
@@ -150,7 +144,7 @@ data:
     öğrenildiğinde ufku iki katına çıkaran şeyler
   entry_id: 55297536
   entry_content: |
-    (bkz: <a class="b" href="/?q=o+depo+kapa%c4%9f%c4%b1+g%c3%b6t%c3%bcn%c3%bcze+girsin+amk">o depo kapağı götünüze girsin amk</a>)<br/><br/>arama yerine depo kapağı yazınca 50 tane aynı entry çıkıyor adam gelmiş hala araba depo kapağı diye zırvalıyor ulan zeka seviyeniz kaç gerçekten merak ediyorum.
+    (bkz: <a class="b" href="/?q=o+depo+kapa%c4%9f%c4%b1+g%c3%b6t%c3%bcn%c3%bcze+girsin+amk">o depo kapağı götünüze girsin amk</a>)<br/><br/>arama yerine depo kapağı yazınca, depo kapağının yönüyle ilgili 50 tane aynı içerikli entry çıkıyor. adam gelmiş hala araba, depo kapağı diye zırvalıyor. ulan zeka seviyeniz kaç gerçekten merak ediyorum.
   entry_writer: devoid of love
 - entry_name: |
     recep tayyip erdoğan
@@ -162,13 +156,13 @@ data:
     fenerbahçe'nin hükümet eliyle aklanması
   entry_id: 55297432
   entry_content: |
-    boklanirken ozgur ve hur ve adaletli mahkemeler tarafindan boklanmis ama aklaninca hukumet eliyle..<br/><br/>yani "isimize nasil gelirse oyle"<br/><br/>hadi len oradan.
+    boklanirken ozgur ve hur ve adaletli mahkemeler tarafindan boklanmis ama aklaninca hukumet eliyle..<br/><br/>yani "isimize nasil gelirse oyle"<br/><br/>hadi len oradan.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/><br/>ikinci edit/ek: "onca delil, kanit itiraf, yurtdisi kararlar ne olacak" diyor insanlar, 4 yildir yapilan propagandanin etkisinde kalarak...<br/><br/>hangi delil hangi itiraf?<br/><br/>onca tape dedigin hangileri? trabzonun gabric ve hamsi tapelerindeki kadar net bir konusma yok hic bir fenerbahce tapesinde... hep bir yerlerden bir sekil mana cikarmalar.<br/>ayni tapeyi 2 ay aralikla oynanan iki mac icin kullanmaya kalkti herifler ilk iddianamede yahu! <br/>...<br/>bakin bir entrymde bahsetmistim, gecmis zaman, bizim arkadaslarla stadda demirlere tel baglama rituelimiz vardir. ben yurtdisina goctum, hala daha onemli maclardan once arkadaslarla <br/>"bagladiniz mi lan teli demire? bagladik bilader, merak etme mac bizim. ulan adam gibi baglasaniza mac gitti hani tamamdi?" gibi mesajlasmalarimiz maillerimiz, geyiklerimiz oluyor.<br/><br/>bu konusmalardan sike manasi cikar mi? cikar... ama cikabilmesi icin bir para alisverisi bir somut delil bir itiraf bir birsey ile desteklenmesi gerekir yoksa "ooo arsa dedi, tarla dedi, insaat dedi" diye sikeye karar verilemez. <br/><br/>milyon dolarlar donecek en ufak bir para alisverisine dair kanit bulunamayacak, hic bir banka hesabinda hareket yok, hic bir mal degisimi yok. bilirkisi koca bir yili arastirdi (ki maclarin tarihi belli, para ne zaman el degistirecek belli) birsey bulamadi, raporu aynen boyle verdi, dikkate alinmadi.<br/><br/>tek delili(!) kesme bicme ne idugu belirsiz tapeler olan bir dava. yurtidisindaki yansimalari da tamamen turkiyede verilen kararin uzantisi ve sonucu. bu kadar basit.
   entry_writer: diem perdidi
 - entry_name: |
-    6 ekim 2015 fetullah gülen in vefati
+    6 ekim 2015 fethullah gülen'in vefatı
   entry_id: 55307551
   entry_content: |
-    amerika'da ayın beşi.
+    amerika'da ayın beşi.<br/><br/>duyarlı olalım editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: pvivn
 - entry_name: |
     atina'da yaşamak
@@ -186,19 +180,13 @@ data:
     yaran facebook durum güncellemeleri
   entry_id: 55289521
   entry_content: |
-    bir kürt arkadaştan geliyor;<br/><br/>valla biz de anlamadık, ilk başta kürdistan kuruyorduk, sonra özerklik dediler şimdi de türkiyelileşme oldu. böyle giderse ülkücü olacağız.
+    bir kürt arkadaştan geliyor;<br/><br/>valla biz de anlamadık, ilk başta kürdistan kuruyorduk, sonra özerklik dediler şimdi de türkiyelileşme oldu. böyle giderse ülkücü olacağız.<br/><br/>debe edit: renk renk boyalarla, kalemlerle bir hayat çizelim onlara; (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: yessbeannem
-- entry_name: |
-    bilal erdoğan'ın italya'ya kaçması
-  entry_id: 55290992
-  entry_content: |
-    ??? millet iyice kafayı yemiş, akggötler iyice saçmalamaya başladı demek durumunda olduğum bir kaçma.<br/><br/>ya kardeşim, gandi kemal "türgev rüşvet merkezidir" dedi diye, bilal dava açmaya kalktı da, mahkeme belgeli mal beyanı isteyince gösterebildi mi?...gösteremedi...dava düştü mü?...düştü...belgesi olmayanmal varlığı olduğu böylece açığa çıkmış oldu mu?...oldu...<br/><br/>e sen hala neyin lagalugasını yapıyosun ki?...bilal in gemiciklerinin maddi kaynağını kim araştırmak istediyse hapsi boyluyo mu? boyluyo...<br/><br/>hangi götün pervaneliğini yapıyosun ki sen?...herifin bütün kazancı haksız kazanç beynini ziktiminin akgötü. sen bundan bu çıkarımı yapamıyo musun?...basmıyo mu senin kafan bu kadar basit birşeyi?...<br/><br/>mahkeme bana sorsa, aldığın herşeyin belgesini istiyorum, diye, ben gösterebiliyorum, maaşım var, şu kadar şu kadar kredi alıyorum, bazen şöyle şöyle ekstradan para kazanıyorum, aldığım herşey kazandığım paraya karşılık geliyo...<br/><br/>herkesin öyle olur genelde...adamın kazancı beyanı bellidir, ne iş yaptığı ne aldığı ne sattığı bellidir, memur gelir bakar, televizyonun markasına bakar, arabanın markasına bakar 3 aşşaa beş yukarı der ki "bu adam yaptığı bu işlebunlara sahip olabilir"...teşekkür eder çeker gider...di mi canım kardeşim...<br/><br/>9 tane gemi alacak şu kadar şu kadar araziye sahip olacak parayı neyle kazanmış bu bilal ooğlan?...basit bi soru- şöyle yaptım şöyle para kazandım, o parayla şunu şunu aldım , diyecek...<br/><br/>...diyemiyo o bunu. çünkü bütün kazancı haksız kazanç.<br/><br/>eğer şimdiye kadar pekçok konuda yazdıkları dooğru çıkan bir twitter fenomeni bu konuyu bu şekilde- yurtdışına gitme değil de "kaçma" para kaçırma olarak aksettirmişse, bu ciddi bir iddiadır, ve şimdiye kadar altı boş olmayan şeyler söylemiş, süleyman şah ı bile 2 ay öncesinden bilmiş birisi bunu iddia ettiyse<br/><br/>..e onu ciddiye alırsın. ben emniyetçi olsam en azından iki tane memur gönderir en azından yürtdışı giriş çıkış dokümanlarını kontrol ettiririm.<br/><br/>yani, akgötler çatlasın patlasın da, bu adam kardeşim bir sürü operasyopnları bilmiş bir adamdır, ayrıca o akgötler de karar versinler artık, bi fuatavni akgöt oluyo, bi olmuyo, bi pararlelci oluyo, hatta bazısı tayyip in bizzat kendisi olduğunu bile iddia etmişti...<br/><br/>en azından bu twittlerdeki iddia, fuatavni´nin akkıl olmadığına bir nevi kanıt olmuş oluyo. çünkü hiçbi akgöt, bilali hedef gösteren bi twitt atmaz.
-  entry_writer: dermuzisye
 - entry_name: |
     işin içinde mit var emniyet var reis var
   entry_id: 55295135
   entry_content: |
-    (bkz: <a class="b" href="/?q=hap+var+cigara+var+ex+var+roj+var+hepsi+var+yani">hap var cigara var ex var roj var hepsi var yani</a>) nın başka bir versiyonu galiba. her bokum var yaneee.
+    (bkz: <a class="b" href="/?q=hap+var+cigara+var+ex+var+roj+var+hepsi+var+yani">hap var cigara var ex var roj var hepsi var yani</a>) nın başka bir versiyonu galiba. her bokum var yaneee.<br/><br/>debe editi :(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: bezdarniy
 - entry_name: |
     kedilerin gariplikleri
@@ -216,7 +204,7 @@ data:
     5 ekim 2015 nato'nun rusya'yı kınaması
   entry_id: 55297937
   entry_content: |
-    (bkz: <a class="b" href="/?q=nato+k%c4%b1na+gecesi">nato kına gecesi</a>)
+    (bkz: <a class="b" href="/?q=nato+k%c4%b1na+gecesi">nato kına gecesi</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: ofc
 - entry_name: |
     volkswagen golf
@@ -237,10 +225,10 @@ data:
     bizim jetler de kuyruk sallamasalarmış.
   entry_writer: allegro non troppo
 - entry_name: |
-    rusya'nın suriye'ye 150.000 asker göndermesi
+    rusya'nın suriye'ye 150 bin asker göndermesi
   entry_id: 55293639
   entry_content: |
-    bu ruslar işidi mişidi sikicek orası tamam.<br/><br/>artan bize girmesin aman,o bile bize yeter.
+    bu ruslar işidi mişidi sikicek orası tamam.<br/><br/>artan bize girmesin aman,o bile bize yeter.<br/><br/>debe edit: önemli bir konu arkadaşlar (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: blaperboler
 - entry_name: |
     rusya türkiye'yi işgal etse sevinecek kitle
@@ -252,25 +240,25 @@ data:
     mario gomez
   entry_id: 55285218
   entry_content: |
-    kendisi ciddi anlamda çok üst düzey bir forvettir. "yeni mi anladın lan" diyenleriniz olabilir, öyle değil, <a class="b" href="/?q=4+ekim+2015+eski%c5%9fehirspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">4 ekim 2015 eskişehirspor beşiktaş maçı</a> özetini izliyordum, ilk golde resmen "bakın beyler, ben çok büyük topçuyum" der gibi vurmuş topa. "lan ne var bu şutta" diyenleriniz olabilir, quaresma topu önüne yuvarladığında kendisini geçmesine izin verip ayağını tam denk getirmiş topa. mesela son gol kralımız <a class="b" href="/?q=jose+fernando+viana+de+santana">jose fernando viana de santana</a> -ki kendisine çok güveniyorum, bu sezon çok kilit açacak, halihazırda da açıyor- o topa ilk anda vurmaya çalışır, kalecinin kucağına bırakırdı ya da yetişemezdi. <br/><br/>büyük futbolcu böyle olunuyor zaten, yıllar önce <a class="b" href="/?q=roberto+carlos">roberto carlos</a> ilk geldiği sezonda sırtına sağlam bir diz yemişti lig maçında, hakem faul vermemişti, o da zaten faul mü değil mi diye bakmamış direkt topu alan futbolcunun peşine düşmüş ve topu taça yollamış, sonra sırtının acısıyla ilgilenmişti. böyle anlarda tüylerim diken diken olur, "ulan ben futbolu seviyorum be" derim, gomez'in golünde de aynısını hissettim.<br/><br/>"basit bir golden neler çıkardın be" diyenleriniz olabilir, diyin. canınız sağolsun.
+    kendisi ciddi anlamda çok üst düzey bir forvettir. "yeni mi anladın lan" diyenleriniz olabilir, öyle değil, <a class="b" href="/?q=4+ekim+2015+eski%c5%9fehirspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">4 ekim 2015 eskişehirspor beşiktaş maçı</a> özetini izliyordum, ilk golde resmen "bakın beyler, ben çok büyük topçuyum" der gibi vurmuş topa. "lan ne var bu şutta" diyenleriniz olabilir, quaresma topu önüne yuvarladığında kendisini geçmesine izin verip ayağını tam denk getirmiş topa. mesela son gol kralımız <a class="b" href="/?q=jose+fernando+viana+de+santana">jose fernando viana de santana</a> -ki kendisine çok güveniyorum, bu sezon çok kilit açacak, halihazırda da açıyor- o topa ilk anda vurmaya çalışır, kalecinin kucağına bırakırdı ya da yetişemezdi. <br/><br/>büyük futbolcu böyle olunuyor zaten, yıllar önce <a class="b" href="/?q=roberto+carlos">roberto carlos</a> ilk geldiği sezonda sırtına sağlam bir diz yemişti lig maçında, hakem faul vermemişti, o da zaten faul mü değil mi diye bakmamış direkt topu alan futbolcunun peşine düşmüş ve topu taça yollamış, sonra sırtının acısıyla ilgilenmişti. böyle anlarda tüylerim diken diken olur, "ulan ben futbolu seviyorum be" derim, gomez'in golünde de aynısını hissettim.<br/><br/>"basit bir golden neler çıkardın be" diyenleriniz olabilir, diyin. canınız sağolsun.<br/><br/>debedit: teşekkürler, futbolu birlikte seviyoruz, futbol birlikte güzel.<br/><a rel="nofollow" class="url" target="_blank" href="http://efsanecubuklu.com/" title="http://efsanecubuklu.com/">efsanecubuklu.com</a>'a bekleriz, forma kültürü, forma haberleri, forma istatistikleri ve formalarla ilgili bir sürü şey daha. ayrıca <a rel="nofollow" class="url" target="_blank" href="http://twitter.com/efsanecubuklu01" title="http://twitter.com/efsanecubuklu01">twitter efsanecubuklu01</a>'den takip edebilir, haberlere ve ilgi çekici forma fotoğraflarına erişebilirsiniz.<br/><br/>ayrıca, (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: filth01
 - entry_name: |
     5 ekim 2015 hpg'nin 18 özel harekatçıyı öldürmesi
   entry_id: 55297880
   entry_content: |
-    yanında 4 tank, 3 ac-130, 5 uçak gemisi, 4 nükleer denizaltı da batırmamışlarsa inanmayacağım olay.
+    yanında 4 tank, 3 ac-130, 5 uçak gemisi, 4 nükleer denizaltı da batırmamışlarsa inanmayacağım olay.<br/><br/>---------<br/><br/>edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: rolandmicrocube
 - entry_name: |
     bilal erdoğan'ın yüklü parayla yurtdışına gitmesi
   entry_id: 55287074
   entry_content: |
-    (bkz: <a class="b" href="/?q=beyin+g%c3%b6%c3%a7%c3%bc">beyin göçü</a>)
+    (bkz: <a class="b" href="/?q=beyin+g%c3%b6%c3%a7%c3%bc">beyin göçü</a>)<br/><br/>edi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/>edinot: kampanyada nakit talep edilmiyor.
   entry_writer: gokcesuz
 - entry_name: |
     bilal erdoğan doktora için yurtdışına gitti
   entry_id: 55293437
   entry_content: |
-    (bkz: <a class="b" href="/?q=doktor+bilal">doktor bilal</a>)
+    (bkz: <a class="b" href="/?q=doktor+bilal">doktor bilal</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: 3 tas has hosaf
 - entry_name: |
     ağzındaki sakızı balon yapan kızın asıl amacı
