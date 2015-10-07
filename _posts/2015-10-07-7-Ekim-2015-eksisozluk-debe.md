@@ -3,22 +3,16 @@ layout: post
 title: 7 Ekim 2015 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    6 ekim 2015 ali babacan'ın asgari ücret açıklaması
-  entry_id: 55315534
-  entry_content: |
-    "ilk seçimde bu işçi ile işveren arasında konuşarak ortaya çıkması gereken bir rakamdır demiştik. ancak muhalefetin önerileri sonrası işverenlerden bir tepki gelmedi. bu verilemez denmedi. bunun üzerine biz de araştırdık. kendi içimizde yaptığımız değerlendirmelerle böyle bir asgari ücretin etkisinin sınırlı olacağını, yönetilebilir olabileceğini gördük."<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.hurriyet.com.tr/babacan-secim-beyannamesini-birlikte-hazirladik-30245132" title="http://www.hurriyet.com.tr/babacan-secim-beyannamesini-birlikte-hazirladik-30245132">link</a><br/><br/>yani diyor ki;<br/><br/>"sizi ayakta sikiyormuşuz da farkında değilmişiz hahahaha!!!"
-  entry_writer: turk182
-- entry_name: |
     emine erdoğan'ın brüksel'de mağaza kapatması
   entry_id: 55309370
   entry_content: |
-    bayırbucak türkmenlerinin çocuklarına kıyafet almıştır. hemen şaapmayın.
+    bayırbucak türkmenlerinin çocuklarına kıyafet almıştır. hemen şaapmayın.<br/><br/>db edit: <a class="b" href="/?q=ahbual">ahbual</a>'in isteği üzerine (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: behzat cicek
 - entry_name: |
     bilal erdoğan'ın floransa'daki görüntüsü
   entry_id: 55312377
   entry_content: |
-    türban yasağı yüzünden yurtdışında okumak zorunda kalan bir garib içerir.
+    türban yasağı yüzünden yurtdışında okumak zorunda kalan bir garib içerir.<br/><br/>debe editi: devlet ne kadar taş koysa da <a class="b" href="/?q=l%c3%b6sev">lösev</a> için bir tuğla da siz <a rel="nofollow" class="url" target="_blank" href="https://www.losev.org.tr/bagis/Bir_Tugla_Siz_Koyun_Bagis.aspx" title="https://www.losev.org.tr/bagis/Bir_Tugla_Siz_Koyun_Bagis.aspx">koyun.</a>
   entry_writer: kumulatifvergimatrahi
 - entry_name: |
     iftiralar olmasaydı ak partiyle ay'a bile çıkardık
@@ -30,7 +24,7 @@ data:
     seksin en zevkli anı
   entry_id: 55322101
   entry_content: |
-    sütyenin çözüldüğü ve düşürüldüğü an olabilir. ama bu sadece bir tanesi. diğerlerini sonra söylerim.<br/><br/>not: erkeğim lan. memeni aç diye mesaj falan atmayın. bi meme açarım hayattan soğursunuz amk. swh.
+    sütyenin çözüldüğü ve düşürüldüğü an olabilir. ama bu sadece bir tanesi. diğerlerini sonra söylerim.<br/><br/>not: erkeğim lan. memeni aç diye mesaj falan atmayın. bi meme açarım hayattan soğursunuz amk. swh.<br/><br/><a class="b" href="/?q=edit">edit</a>: lan bu sefer de memeni aç diyen kızlar mesaj atmış.. ahah.. şaka mısınız olm siz?<br/><br/><sup class="ab"><a title="(bkz: adettendir)" href="/?q=adettendir" data-query="adettendir">*</a></sup> <a class="b" href="/?q=debe+editi">debe editi</a>: seviyorsanız gidin konuşun canlar.. yoksa sonunuz forrest gump.<br/><br/><a class="b" href="/?q=debe+editi+2">debe editi 2</a> : <a class="b" href="/?q=ahbual">ahbual</a> arkadaşımızın ricası üzerine, (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)<br/><br/>keşke bu başlığı daha memesiz bir debede paylaşabilse idim. olsun. yine de görsün, duysun insanlar bu mesajı.
   entry_writer: noluyoo lan burda
 - entry_name: |
     kılıçdaroğlu duysun 13 senede asgari ücret arttı
@@ -42,19 +36,19 @@ data:
     6 ekim 2015 istanbul'da hissedilen ilginç koku
   entry_id: 55309827
   entry_content: |
-    oha lan. ofiste kimse yokken salayım dedim ama o kadar kokacağını tahmin etmedim. özür dilerim beyler.<br/><br/>edit: (bkz: <a class="b" href="/?q=%c3%b6yle+bir+osurmak+ki+debe%27ye+girmek">öyle bir osurmak ki debe'ye girmek</a>)
+    oha lan. ofiste kimse yokken salayım dedim ama o kadar kokacağını tahmin etmedim. özür dilerim beyler.<br/><br/>edit: (bkz: <a class="b" href="/?q=%c3%b6yle+bir+osurmak+ki+debe%27ye+girmek">öyle bir osurmak ki debe'ye girmek</a>)<br/><br/>2.edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) başlığı boş bırakmayalım arkadaşlar.
   entry_writer: random nick
 - entry_name: |
     erasmus nutella partisi
   entry_id: 55317473
   entry_content: |
-    (bkz: <a class="b" href="/?q=bizim+d%c4%b1%c5%9f%c4%b1m%c4%b1zda+herkesin+mutlu+olmas%c4%b1+ve+e%c4%9flenmesi">bizim dışımızda herkesin mutlu olması ve eğlenmesi</a>)
+    (bkz: <a class="b" href="/?q=bizim+d%c4%b1%c5%9f%c4%b1m%c4%b1zda+herkesin+mutlu+olmas%c4%b1+ve+e%c4%9flenmesi">bizim dışımızda herkesin mutlu olması ve eğlenmesi</a>)<br/><br/>bir faydamız olsun: <br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: cevem
 - entry_name: |
     sceneaccess.eu
   entry_id: 55326266
   entry_content: |
-    ne olduğunu bilmiyorum ama davetiye lazım arkadaşlar lütfen davetiye yollayın.
+    ne olduğunu bilmiyorum ama davetiye lazım arkadaşlar lütfen davetiye yollayın.<br/><br/>debe editi: bunun neresini beğenip debe'ye soktunuz? alın işe yarasın bari; <br/>(bkz: <a class="b" href="/entry/54846500">#54846500</a>)<br/><br/>2; (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: n4n0
 - entry_name: |
     türkiye'nin rus uçağını düşürmeye hakkı vardı
@@ -66,7 +60,7 @@ data:
     sevgili bulamama sebepleri
   entry_id: 55319897
   entry_content: |
-    aramak.<br/><br/>yani bir nevi sevgililik müessesesini tamamıyla yanlış anlamışlıktır sebep. <br/><br/>yalnız doğdun arkadaşım. annen vardı yanında, baban, belki ağabeyin ya da kardeşin, ablan... bu <a class="b" href="/?q=hayat">hayat</a>ta ilk ailen ve sen olarak var oldun. daha sonra arkadaşların oldu. kimisini sevdin, kimisiyle itişip kakıştın, takıştın falan. tüm bunlar hep doğal süreç olarak gerçekleşti. hiçbirini sırf olsun diye yapmadın.<br/>sonra bir gün o <a class="b" href="/?q=arkada%c5%9f">arkadaş</a> demeye dilinin, olmaya ise gönlünün varmadığı insanı gördün; hormonlar altüst oldu. sevdin bu işi. sadece sevdin yani. bir şey arayıp bir şey kurcalamadan. dokunmak istedin. nedenini kendin bile anlamadın. sevgililik kavramını böyle tanıdın işte. "lan olsa ya şimdi burada keşke!" diyerek. <br/><br/>sular aktı köprünün altından, büyüdün falan filan. hayata atıldın. okullar okudun. bir takım bambaşka değerler keşfettin <a class="b" href="/?q=hayat">hayat</a>a dair. bu esnada ne olduysa oldu, sen sevgililik meselesini sağda solda aranarak bulunan, lan şuraya gidelim belki orada vardır diye kovalanan bir şey sanmaya başladın. olmaması eksiklik, bulunamaması anormal görünmeye başladı. ne boyadı senin gözünü be canım kardeşim? sen neden böyle oldun? <br/><br/>halbuki senin bir <a class="b" href="/?q=hayat">hayat</a>ın var ve durmaksızın onu yaşamaya devam etsen, sosyal ortamında, iş ortamında, orada, burada, bir yerde işte, biri çıkacak karşına illa; <a class="b" href="/?q=arkada%c5%9f">arkadaş</a> demeye dilinin, olmaya ise gönlünün varmadığı biri. ama aramakla olmaz bu. <a class="b" href="/?q=aramak">aramak</a>, ancak aklının yapabileceği bir şey çünkü, oysa senin ihtiyacın olan şey sadece yüreğinin yapabileceği bir iş ile bulunacak. <br/><br/>bol şans.
+    aramak.<br/><br/>yani bir nevi sevgililik müessesesini tamamıyla yanlış anlamışlıktır sebep. <br/><br/>yalnız doğdun arkadaşım. annen vardı yanında, baban, belki ağabeyin ya da kardeşin, ablan... bu <a class="b" href="/?q=hayat">hayat</a>ta ilk ailen ve sen olarak var oldun. daha sonra arkadaşların oldu. kimisini sevdin, kimisiyle itişip kakıştın, takıştın falan. tüm bunlar hep doğal süreç olarak gerçekleşti. hiçbirini sırf olsun diye yapmadın.<br/>sonra bir gün o <a class="b" href="/?q=arkada%c5%9f">arkadaş</a> demeye dilinin, olmaya ise gönlünün varmadığı insanı gördün; hormonlar altüst oldu. sevdin bu işi. sadece sevdin yani. bir şey arayıp bir şey kurcalamadan. dokunmak istedin. nedenini kendin bile anlamadın. sevgililik kavramını böyle tanıdın işte. "lan olsa ya şimdi burada keşke!" diyerek. <br/><br/>sular aktı köprünün altından, büyüdün falan filan. hayata atıldın. okullar okudun. bir takım bambaşka değerler keşfettin <a class="b" href="/?q=hayat">hayat</a>a dair. bu esnada ne olduysa oldu, sen sevgililik meselesini sağda solda aranarak bulunan, lan şuraya gidelim belki orada vardır diye kovalanan bir şey sanmaya başladın. olmaması eksiklik, bulunamaması anormal görünmeye başladı. ne boyadı senin gözünü be canım kardeşim? sen neden böyle oldun? <br/><br/>halbuki senin bir <a class="b" href="/?q=hayat">hayat</a>ın var ve durmaksızın onu yaşamaya devam etsen, sosyal ortamında, iş ortamında, orada, burada, bir yerde işte, biri çıkacak karşına illa; <a class="b" href="/?q=arkada%c5%9f">arkadaş</a> demeye dilinin, olmaya ise gönlünün varmadığı biri. ama aramakla olmaz bu. <a class="b" href="/?q=aramak">aramak</a>, ancak aklının yapabileceği bir şey çünkü, oysa senin ihtiyacın olan şey sadece yüreğinin yapabileceği bir iş ile bulunacak. <br/><br/>bol şans.<br/><br/>debe editi: bir okula yardım için düzenlenen kampanyaya 3-5 anasınıfı minderi alınmasına yardımcı olmadığınız için de bulamamış olabilirsiniz. (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: jelibonlar yitiren adam
 - entry_name: |
     chp'nin kredi kartı borçları temalı reklamı
@@ -78,7 +72,7 @@ data:
     beşiktaş
   entry_id: 55313014
   entry_content: |
-    sene 1995 falan.<br/><br/>bilgisayarla uzaktan yakından alakası olmayan bir abiye sahibim. kendisi o zamanlar 16 yaşında. aileden hiçbir şey istemeyen acayip bir adamdı. 8 yaşındaki kardeşinin zırlamalarına dayanamaması ve biraz da kıyamaması sonucu annemlerle konuşup eve amiga 500 aldırdı, ama sadece ben oynuyordum. <br/><br/>sene 2002.<br/><br/>tabi o zaman makina p4 2.4 256 mb ram 64 mb ekran kartı. akıyor makina, öyle böyle değil.<br/><br/>fifa 2002 çıkmış, millet deliler gibi oynuyor. hemen gittim aldım. abim de askerden gelmiş, işe başlayacak 1-2 hafta takılıyor. abimin futbol hastası bir beşiktaşlı olduğunu söylememe gerek yok tabi di mi. ben de manyağım ama abim başka. kritik maçları izleyemezdi. odasına kapanırdı. derbilerde yenilirsek o gün odasından çıkmazdı. ama yenersek de asla bağırmaz, ama gözlerini görmeniz lazımdı, pırıl pırıl. delikanlı gibi adam gibi yaşar galibiyet sevinicini.<br/><br/>neyse, getirdim kurdum makinaya. geldim abimin yanına<br/><br/>- abi bak fifa 2002 kurdum, oyna istersen biraz.<br/>+ beşiktaş var mı abicim?<br/>- yok abi<br/>+ o zaman sktr et.<br/><br/>peki, dedim. okula gittim, akşam eve döndüğümde, bi baktım abim bilgisayarın başında. gözleri dolmuş. allah allah dedim. gittim yanına.<br/><br/>- abi hayırdır?<br/>+ oğlum baktım ligde yokuz. ingiltere liginde new castle aldım oynuyordum, uefa maçı oldu. bi baktım istanbul adıyla bizimkiler.<br/>- ee abi?<br/>+ napiyim oğlum, bıraktım baskı yapmadan oynadım, yendiler. yenince de bi sevindiler birbirilerinin üstüne atladılar. mutlu oldum ben de...<br/><br/>böyle bişeydir işte beşiktaşlı olmak... hakikaten de herkese nasip olmaz...
+    sene 1995 falan.<br/><br/>bilgisayarla uzaktan yakından alakası olmayan bir abiye sahibim. kendisi o zamanlar 16 yaşında. aileden hiçbir şey istemeyen acayip bir adamdı. 8 yaşındaki kardeşinin zırlamalarına dayanamaması ve biraz da kıyamaması sonucu annemlerle konuşup eve amiga 500 aldırdı, ama sadece ben oynuyordum. <br/><br/>sene 2002.<br/><br/>tabi o zaman makina p4 2.4 256 mb ram 64 mb ekran kartı. akıyor makina, öyle böyle değil.<br/><br/>fifa 2002 çıkmış, millet deliler gibi oynuyor. hemen gittim aldım. abim de askerden gelmiş, işe başlayacak 1-2 hafta takılıyor. abimin futbol hastası bir beşiktaşlı olduğunu söylememe gerek yok tabi di mi. ben de manyağım ama abim başka. kritik maçları izleyemezdi. odasına kapanırdı. derbilerde yenilirsek o gün odasından çıkmazdı. ama yenersek de asla bağırmaz, ama gözlerini görmeniz lazımdı, pırıl pırıl. delikanlı gibi adam gibi yaşar galibiyet sevinicini.<br/><br/>neyse, getirdim kurdum makinaya. geldim abimin yanına<br/><br/>- abi bak fifa 2002 kurdum, oyna istersen biraz.<br/>+ beşiktaş var mı abicim?<br/>- yok abi<br/>+ o zaman sktr et.<br/><br/>peki, dedim. okula gittim, akşam eve döndüğümde, bi baktım abim bilgisayarın başında. gözleri dolmuş. allah allah dedim. gittim yanına.<br/><br/>- abi hayırdır?<br/>+ oğlum baktım ligde yokuz. ingiltere liginde new castle aldım oynuyordum, uefa maçı oldu. bi baktım istanbul adıyla bizimkiler.<br/>- ee abi?<br/>+ napiyim oğlum, bıraktım baskı yapmadan oynadım, yendiler. yenince de bi sevindiler birbirilerinin üstüne atladılar. mutlu oldum ben de...<br/><br/>böyle bişeydir işte beşiktaşlı olmak... hakikaten de herkese nasip olmaz...<br/><br/>debe editi: arkadaş, kısa ve net. zoruna gidenin borusuna gitsin! bi duygusallık yaşatmıyonuz: <br/>aç oku! (onlar kendilerini biliyor): (bkz: <a class="b" href="/entry/55335471">#55335471</a>)<br/><br/>ayrıca şunlara sözlük yönetiminin el atması lazım bence ama, yine de paylaşalım:<br/><br/>1 - <a rel="nofollow" class="url" target="_blank" href="https://www.losev.org.tr/bagis/Bir_Tugla_Siz_Koyun_Bagis.aspx" title="https://www.losev.org.tr/bagis/Bir_Tugla_Siz_Koyun_Bagis.aspx">https://www.losev.org.tr/…ugla_siz_koyun_bagis.aspx</a><br/>2 - (bkz: <a class="b" href="/?q=sehit+selahaddin+esin+ilkokulu+yardim+kampanyasi">sehit selahaddin esin ilkokulu yardim kampanyasi</a>)
   entry_writer: sisisisi silifkenin yogurdu
 - entry_name: |
     araba sileceği kaldırmak
@@ -114,7 +108,7 @@ data:
     semizotu deniz börülcesi ebegümeci seven insan
   entry_id: 55316918
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7%c3%bcnk%c3%bc+egeli+olmak+bunu+gerektirir">çünkü egeli olmak bunu gerektirir</a>)
+    (bkz: <a class="b" href="/?q=%c3%a7%c3%bcnk%c3%bc+egeli+olmak+bunu+gerektirir">çünkü egeli olmak bunu gerektirir</a>)<br/><br/>debe edit: küçük kardeşlere 35 adet minder eksikmiş imkanı olup vermeyenin börülcesini yesinler (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: another day in hell
 - entry_name: |
     zaman gazetesinin ilginç reklamı
@@ -126,25 +120,25 @@ data:
     akp döneminde türkiye'nin 13 yıl ilerlemesi
   entry_id: 55323910
   entry_content: |
-    akp'yi çekemeyen adilerin görmemekte ısrar ettiği gerçek. fakat biz şimdi bu müthiş ilerlemeyi inşallah gözlerine sokacağız. şöyle ki;<br/><br/>akp iktidara geldiğinde yıl 2002 idi.<br/>peki şu anki tarih? evet 2015.<br/><br/>2015-2002 = 13<br/><br/>evet tam 13 kocaman yıl. işte yeni türkiye'nin gücü. akp sayesinde tam tamına 13 yıl ilerlemiş bulunuyoruz. allah akp'nin yar ve yardımcısı olsun.
+    akp'yi çekemeyen adilerin görmemekte ısrar ettiği gerçek. fakat biz şimdi bu müthiş ilerlemeyi inşallah gözlerine sokacağız. şöyle ki;<br/><br/>akp iktidara geldiğinde yıl 2002 idi.<br/>peki şu anki tarih? evet 2015.<br/><br/>2015-2002 = 13<br/><br/>evet tam 13 kocaman yıl. işte yeni türkiye'nin gücü. akp sayesinde tam tamına 13 yıl ilerlemiş bulunuyoruz. allah akp'nin yar ve yardımcısı olsun.<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yardim+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardim kampanyası</a>)
   entry_writer: lamneth
 - entry_name: |
     kapanmadı diye 4 yaşındaki kızını öldüren baba
   entry_id: 55320045
   entry_content: |
-    hindistan'da, yemek yerken başını kapamayı unutmak gibi affedilemez bir suç işleyen kızını döve döve öldüren müslüman <a rel="nofollow" class="url" target="_blank" href="http://pamelageller.com/2015/10/india-muslim-father-kills-his-4-year-old-daughter-for-forgetting-to-cover-her-head-while-eating.html/" title="http://pamelageller.com/2015/10/india-muslim-father-kills-his-4-year-old-daughter-for-forgetting-to-cover-her-head-while-eating.html/">babadır.</a> adı cafer hüseyin'dir.<br/><br/>fakat tabi ki gerçek islam bu da değildir. bunlar hep batının oyunlarıdır, müslümler ise sevgi pıtırcıklarıdır. allahuakbar!
+    hindistan'da, yemek yerken başını kapamayı unutmak gibi affedilemez bir suç işleyen kızını döve döve öldüren müslüman <a rel="nofollow" class="url" target="_blank" href="http://pamelageller.com/2015/10/india-muslim-father-kills-his-4-year-old-daughter-for-forgetting-to-cover-her-head-while-eating.html/" title="http://pamelageller.com/2015/10/india-muslim-father-kills-his-4-year-old-daughter-for-forgetting-to-cover-her-head-while-eating.html/">babadır.</a> adı cafer hüseyin'dir.<br/><br/>fakat tabi ki gerçek islam bu da değildir. bunlar hep batının oyunlarıdır, müslümler ise sevgi pıtırcıklarıdır. <br/><br/>debe editi: trabzonspor'un 2010-2011 sezonunda şampiyonluğu çalınmış ve o sezonla ilgili tüm pisliklerin ortaya dökülmesine rağmen bu kulübe hakkının iade edilmemesi için tff'si, medyası, siyaseti hepsi bir olmuştur. hakkımızı helal etmiyoruz!
   entry_writer: heil titsler
 - entry_name: |
     6 ekim 2015 kyk borçlarının affedilmesi
   entry_id: 55313563
   entry_content: |
-    aradığınız hayale şu an ulaşılamıyor,lütfen daha sonra tekrar kurunuz..
+    aradığınız hayale şu an ulaşılamıyor,lütfen daha sonra tekrar kurunuz..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%23serebralpals%c4%b1n%c4%b1nfark%c4%b1nday%c4%b1z">#serebralpalsınınfarkındayız</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: rakirikirealdo
 - entry_name: |
     6 ekim 2015 rus mig 29'ların türk f 16'ları tacizi
   entry_id: 55318491
   entry_content: |
-    savaş uçakları barış zamanında mecbur kalmadıkça radarlarını açmazlar. bunun sebebi şudur: radar açıldığı anda elektromanyetik yayın yapar. bu yayının kendisi, temel özellikleri, radarın kapasitesi ve performansı hakkında bilgiler sunar.<br/><br/>eğer elektronik istihbarat<sup class="ab"><a title="(bkz: elint)" href="/?q=elint" data-query="elint">*</a></sup> sistemleriniz ile bu yayını tespit edip kaydeder ve bunlardan bir kütüphane oluşturursanız, söz konusu radarı kör etmek ya da yanıltmak için teknik, taktik ve sistemler geliştirebilirsiniz.<br/><br/>5 ekim günü 5 dakika 40 saniye, 6 ekim günü ise 4 dakika 30 saniye radar kilidinin muhafaza edilmesi demek, türk f-16'larının üzerine bu sürelerde söz gelimi el fenerinin tutulmuş olması demektir. bu süre içinde de muhtemelen bölgedeki türk ve nato elint sistemleri gözlerini kulaklarını açmış olmalılar.<br/><br/>eğer bu kilitleri atan suriye mig-29'ları ise bu, suriye pilotunun şapşallığını gösterir. dahası ruslar da suriyeliler'e güvenip daha büyük maceralara atılmamaları gerektiğini anlamış olmalılar. zira böyle bir zamanda böyle bir acemilik yapan kuvvetten bir cacık olmaz.<br/><br/>eğer bu kilidi atan rus su-30'u ise, ki bu uçak şu anda rus hava kuvvetlerinin en yeni ve en modern jetidir, bölgedeki rus pilotların gerçekten gerizekalı olduğunu gösterir. bir şey yapmamıza gerek yok, kendi kendilerine takılsınlar.<br/><br/>4 dakika, 5 dakika, bunlar hava muharebesi için olağanüstü uzun süreler. su-30'daki <a class="b" href="/?q=aesa">aesa</a> radar için bile bu sürelerde f-16 gibi görece küçük bir hedefte kilit tutmak çok zordur. burada esas alkışı hakeden, bu kadar uzun süre üstünde kilidi muhafaza ettirtmeyi başarmış, son derece sinir bozucu bu süreçte soğukkanlı biçimde yem rolünü başarıyla oynamış türk pilotlarıdır. <br/><br/>bu "taciz"lerden mesajı alması gerekenler almıştır muhtemelen...
+    savaş uçakları barış zamanında mecbur kalmadıkça radarlarını açmazlar. bunun sebebi şudur: radar açıldığı anda elektromanyetik yayın yapar. bu yayının kendisi, temel özellikleri, radarın kapasitesi ve performansı hakkında bilgiler sunar.<br/><br/>eğer elektronik istihbarat<sup class="ab"><a title="(bkz: elint)" href="/?q=elint" data-query="elint">*</a></sup> sistemleriniz ile bu yayını tespit edip kaydeder ve bunlardan bir kütüphane oluşturursanız, söz konusu radarı kör etmek ya da yanıltmak için teknik, taktik ve sistemler geliştirebilirsiniz.<br/><br/>5 ekim günü 5 dakika 40 saniye, 6 ekim günü ise 4 dakika 30 saniye radar kilidinin muhafaza edilmesi demek, türk f-16'larının üzerine bu sürelerde söz gelimi el fenerinin tutulmuş olması demektir. bu süre içinde de muhtemelen bölgedeki türk ve nato elint sistemleri gözlerini kulaklarını açmış olmalılar.<br/><br/>eğer bu kilitleri atan suriye mig-29'ları ise bu, suriye pilotunun şapşallığını gösterir. dahası ruslar da suriyeliler'e güvenip daha büyük maceralara atılmamaları gerektiğini anlamış olmalılar. zira böyle bir zamanda böyle bir acemilik yapan kuvvetten bir cacık olmaz.<br/><br/>eğer bu kilidi atan rus su-30'u ise, ki bu uçak şu anda rus hava kuvvetlerinin en yeni ve en modern jetidir, bölgedeki rus pilotların gerçekten gerizekalı olduğunu gösterir. bir şey yapmamıza gerek yok, kendi kendilerine takılsınlar.<br/><br/>4 dakika, 5 dakika, bunlar hava muharebesi için olağanüstü uzun süreler. su-30'daki <a class="b" href="/?q=aesa">aesa</a> radar için bile bu sürelerde f-16 gibi görece küçük bir hedefte kilit tutmak çok zordur. burada esas alkışı hakeden, bu kadar uzun süre üstünde kilidi muhafaza ettirtmeyi başarmış, son derece sinir bozucu bu süreçte soğukkanlı biçimde yem rolünü başarıyla oynamış türk pilotlarıdır. <br/><br/>bu "taciz"lerden mesajı alması gerekenler almıştır muhtemelen...<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: orko 8
 - entry_name: |
     kürdistan diyerek yaşamına son veren genç
@@ -156,7 +150,7 @@ data:
     6 ekim 2015 chp'nin eğitim konusunda verdiği ayar
   entry_id: 55325451
   entry_content: |
-    (bkz: <a class="b" href="/?q=projeyi+akrabalar+de%c4%9fil+e%c4%9fitim+uzmanlar%c4%b1+haz%c4%b1rlad%c4%b1">projeyi akrabalar değil eğitim uzmanları hazırladı</a>)
+    (bkz: <a class="b" href="/?q=projeyi+akrabalar+de%c4%9fil+e%c4%9fitim+uzmanlar%c4%b1+haz%c4%b1rlad%c4%b1">projeyi akrabalar değil eğitim uzmanları hazırladı</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: pocoyo
 - entry_name: |
     başrol oyuncusu olmak istenilen film
@@ -174,25 +168,25 @@ data:
     çin'in de suriye savaşına dahil olması
   entry_id: 55312646
   entry_content: |
-    <a class="b" href="/?q=kamber">kamber</a> de gelmiş, halayın artık başlayabileceğinin işaretidir.
+    <a class="b" href="/?q=kamber">kamber</a> de gelmiş, halayın artık başlayabileceğinin işaretidir.<br/><br/>debe: allah allah?<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) bi el atın hele.
   entry_writer: alebahad
 - entry_name: |
     zaman gazetesi pkk propagandası
   entry_id: 55310564
   entry_content: |
-    insanı zorla zaman'a abone yaparsınız lan!<br/><br/>bir başlık açıyorsun, açtığın başlıkta verdiğin bir örnek yok. sığ bir yorumla bizi ikna etmeye çalışıyorsun.<br/>ben propaganda yapıyor/yapmıyor noktasında değilim. tüm medyanın içine tüküreyim de, böyle ak-it ağzıyla açtığın saçma başlıklarla gelme bana!
+    insanı zorla zaman'a abone yaparsınız lan!<br/><br/>bir başlık açıyorsun, açtığın başlıkta verdiğin bir örnek yok. sığ bir yorumla bizi ikna etmeye çalışıyorsun.<br/>ben propaganda yapıyor/yapmıyor noktasında değilim. tüm medyanın içine tüküreyim de, böyle ak-it ağzıyla açtığın saçma başlıklarla gelme bana!<br/><br/>not: başlığı açan çapsız kaçmış.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: bu kacinci guzum
 - entry_name: |
     ankara
   entry_id: 55321199
   entry_content: |
-    ankaralı olmayan biri olarak şu kadarını söyleyebilirim.<br/><br/>bursalıyım, istanbul'da yaşıyorum, 6 sene ankara'da yaşadım.<br/><br/>7 senedir ailemden ayrıyım, ailemi çok seviyorum. hem anne baba abla üçlüsünü, hem anneanne dayı yengeler teyze falan topluluğunu. annem babamdan ayırt edemeyeceğim kadar çok seviyorum hepsini. <br/><br/>ben son 7 senede bir kez olsun ailemi özlediğim için ağlamadım. ama ankara'yı özlediğim için ağladım. şu an istanbul'da yağmur yağıyor ve ben istiklal'in yağmur yağarken görünen kalabalığını izlemek istemiyorum mesela. ayrancı'da, şimşek sokakta olmak istiyorum. bakkal mehtap ablanın sokağın başında beni görüp "kuzum dükkana koş sıcak çikolata yapıyorum" demesini özlüyorum.<br/><br/>insanların deniz olmaması sayesinde boş boş denize bakmak yerine birbirlerine bakıp, birbirlerini tanıyıp geçirdiği vakitten keyif almasını özlüyorum. gençlik parkındaki otobüs durağı karmaşasını özlüyorum. karanfilde her sokakta başka bir dünyanın olmasını özlüyorum. bir sokakta fal baktıran liseli gençler, bir sokakta rakı sarhoşu insanlar, bir sokakta metal müziğin dibine vurmuş insanlar, bir sokakta el ele yağmurda yürüyen çiftleri özlüyorum.<br/><br/>o her başka şehirlinin "bu muydu kuğulu park denen yer yeeea, minicik bir yer burası. bu mu abartılıyormuş ahahah" dedikleri, dedikleri an ağızlarına kürekle vurma isteği uyandıran o insanların ağzına bile yakışmayan kuğulu parkı çok özlüyorum. kışı da yazı da bir başka oranın ama, her mevsimde orada türk kahvesi içmeyi özlüyorum.<br/><br/>iş arkadaşlarımı özlüyorum. insanların burada kibarlıktan kırılmaya çalıştıkları, sürekli "kınıştıklırınızı dikkıt idin bıyın vır bırda" dedikleri iğrenç yapmacıklıkta boğulmak yerine, onların "naber la amınakoduğum" samimiyetlerini özlüyorum.<br/><br/>orayı sevmek için oralı olmaya, orada okumaya falan gerek yok. sevmemek için de. bir şeyi ya seversin ya sevmezsin. sebepler herkese göre değişir.<br/><br/>ankarada uzun dönem yaşamamış kimse ankarayı çözdüğünü iddia edemez. kaldığım 6 senenin ilk 6 ayında ergenliğe geri dönüp her gün rimellerimi akıta akıta "bu şehirden nefret ediyorum" diye ağladığımdan biliyorum.<br/><br/>ben bursalı olup "nerelisin" sorusuna "ankaralıyım" cevabı verecek kadar çok seviyorum o şehri. <br/><br/>tanım: türkiye'nin taşşehiri.
+    ankaralı olmayan biri olarak şu kadarını söyleyebilirim.<br/><br/>bursalıyım, istanbul'da yaşıyorum, 6 sene ankara'da yaşadım.<br/><br/>7 senedir ailemden ayrıyım, ailemi çok seviyorum. hem anne baba abla üçlüsünü, hem anneanne dayı yengeler teyze falan topluluğunu. annem babamdan ayırt edemeyeceğim kadar çok seviyorum hepsini. <br/><br/>ben son 7 senede bir kez olsun ailemi özlediğim için ağlamadım. ama ankara'yı özlediğim için ağladım. şu an istanbul'da yağmur yağıyor ve ben istiklal'in yağmur yağarken görünen kalabalığını izlemek istemiyorum mesela. ayrancı'da, şimşek sokakta olmak istiyorum. bakkal mehtap ablanın sokağın başında beni görüp "kuzum dükkana koş sıcak çikolata yapıyorum" demesini özlüyorum.<br/><br/>insanların deniz olmaması sayesinde boş boş denize bakmak yerine birbirlerine bakıp, birbirlerini tanıyıp geçirdiği vakitten keyif almasını özlüyorum. gençlik parkındaki otobüs durağı karmaşasını özlüyorum. karanfilde her sokakta başka bir dünyanın olmasını özlüyorum. bir sokakta fal baktıran liseli gençler, bir sokakta rakı sarhoşu insanlar, bir sokakta metal müziğin dibine vurmuş insanlar, bir sokakta el ele yağmurda yürüyen çiftleri özlüyorum.<br/><br/>o her başka şehirlinin "bu muydu kuğulu park denen yer yeeea, minicik bir yer burası. bu mu abartılıyormuş ahahah" dedikleri, dedikleri an ağızlarına kürekle vurma isteği uyandıran o insanların ağzına bile yakışmayan kuğulu parkı çok özlüyorum. kışı da yazı da bir başka oranın ama, her mevsimde orada türk kahvesi içmeyi özlüyorum.<br/><br/>iş arkadaşlarımı özlüyorum. insanların burada kibarlıktan kırılmaya çalıştıkları, sürekli "kınıştıklırınızı dikkıt idin bıyın vır bırda" dedikleri iğrenç yapmacıklıkta boğulmak yerine, onların "naber la amınakoduğum" samimiyetlerini özlüyorum.<br/><br/>orayı sevmek için oralı olmaya, orada okumaya falan gerek yok. sevmemek için de. bir şeyi ya seversin ya sevmezsin. sebepler herkese göre değişir.<br/><br/>ankarada uzun dönem yaşamamış kimse ankarayı çözdüğünü iddia edemez. kaldığım 6 senenin ilk 6 ayında ergenliğe geri dönüp her gün rimellerimi akıta akıta "bu şehirden nefret ediyorum" diye ağladığımdan biliyorum.<br/><br/>ben bursalı olup "nerelisin" sorusuna "ankaralıyım" cevabı verecek kadar çok seviyorum o şehri. <br/><br/>tanım: türkiye'nin taşşehiri.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: arres
 - entry_name: |
     recep tayyip erdoğan
   entry_id: 55309218
   entry_content: |
-    ur...<br/><br/>bildiğin ur lan! tümör yani. <br/><br/>habis... yani kötü huylu metastaz yapıyor, yayılıyor. kendini kopyalayıp, kendinden daha küçük ve ucuz kopyalarını saçıyor her yere. osmanlıyı bitiren, ortadoğuyu bok çukuru haline getiren ve nesillerdir değişmeyen problemlerimizin semptomu. yaklaşık 18 milyon küçük kopyasıyla anadolunun kanseri...<br/><br/>bir hastalıkla mücadele etmenin, iyileşebilmenin ilk ve kesin şartı onu kabullenmektir. hiç bir kanser hastasını "aman morali bozulmasın" diyerek hastalığıyla yüzleştirmeden aspirinle iyileştiremezsiniz.<br/><br/>biz süper güç değiliz, merkel erdoğana aşık değil ya da üçüncü köprüyü kıskanmıyor, dünyanın en güçlü 3. ordusu bizimki değil. büyük devletlerin iş bağladığı, ihale kopardığı ve kredisi her gün biraz daha düşen zavallı bir ülkeyiz.<br/><br/>eğitim sistemimiz fecaat ve akp döneminde iyice içine sıçıldı. insanımız kafasını dizi-survivor-ses yarışmları-kadın programları arasından çıkarıp etrafa bakmıyor bile.<br/><br/>siyasilerin ağzında sakız "ayy doksanlara dönmeyelim" iyi de güzel kardeşim sen 2010-2020 lerin kafasiyla yonetmiyorsunki ülkeyi! doksanlarin hükümetisin sen doksanlara donmemek için ne yaptın? <br/>seçim barajını mı düşürdün?<br/>eğitim kalitesini mi arttırdın?<br/>üretim odaklı bir ekonomi mi yarattın?<br/>vergilerimi düşündün?<br/>uluslararası piyasada yükselen markalar mı ortaya koydun?<br/>naptın abi bi deyiver allah aşkına! <br/><br/>bizim vergilerden 1.5 katrilyonluk saray yaptırdın, 8 katrilyon tl örtülü ödenek harcaması yaptın bunları mhpliler mi yaptı? chpliler mi yedi bu paraları? seçim barajını dusurecektin de hdpliler mi engel oldu? yerli ilaç fabrikası kurdun da geziciler mi bombaladı?
+    ur...<br/><br/>bildiğin ur lan! tümör yani. <br/><br/>habis... yani kötü huylu metastaz yapıyor, yayılıyor. kendini kopyalayıp, kendinden daha küçük ve ucuz kopyalarını saçıyor her yere. osmanlıyı bitiren, ortadoğuyu bok çukuru haline getiren ve nesillerdir değişmeyen problemlerimizin semptomu. yaklaşık 18 milyon küçük kopyasıyla anadolunun kanseri...<br/><br/>bir hastalıkla mücadele etmenin, iyileşebilmenin ilk ve kesin şartı onu kabullenmektir. hiç bir kanser hastasını "aman morali bozulmasın" diyerek hastalığıyla yüzleştirmeden aspirinle iyileştiremezsiniz.<br/><br/>biz süper güç değiliz, merkel erdoğana aşık değil ya da üçüncü köprüyü kıskanmıyor, dünyanın en güçlü 3. ordusu bizimki değil. büyük devletlerin iş bağladığı, ihale kopardığı ve kredisi her gün biraz daha düşen zavallı bir ülkeyiz.<br/><br/>eğitim sistemimiz fecaat ve akp döneminde iyice içine sıçıldı. insanımız kafasını dizi-survivor-ses yarışmaları-izdivaç ve kadın programları arasından çıkarıp etrafa bakmıyor bile.<br/><br/>siyasilerin ağzında sakız "ayy doksanlara dönmeyelim" iyi de güzel kardeşim sen 2010-2020 lerin kafasıyla yönetmiyorsunki ülkeyi! <a class="b" href="/?q=doksanlar%c4%b1n+h%c3%bck%c3%bcmetisin+sen">doksanların hükümetisin sen</a>!<br/><br/>doksanlarda da hayat pahalıydı~şimdi de pahalı,<br/>doksanlarda da hastanelerde kuyruklar vardı~şimdi de var,<br/>doksanlarda da terör-şehit haberleri vardı|~şimdi de var.<br/>doksanlarda da vergiler kol gibiydi~şimdi de öyle.<br/><br/>peki sen doksanlara dönmemek için ne yaptın? <br/>seçim barajını mı düşürdün?<br/>eğitim kalitesini mi arttırdın?<br/>üretim odaklı bir ekonomi mi yarattın?<br/>vergilerimi düşürdün?<br/>uluslararası piyasada yükselen markalar mı ortaya koydun?<br/>naptın abi bi deyiver allah aşkına! <br/><br/>bizim vergilerden 1.5 katrilyonluk saray yaptırdın, 8 katrilyon tl örtülü ödenek harcaması yaptın, bugün paralel diye lanetlediğin gülencileri devletin en tepelerine sen yerleştirdin, milyonlarca suriyeliyi kontrolsüz şekilde şehirlere yerleştirdin.<br/><br/>şimdi her insanın kendi aklına karşı bir namus borcu olduğunu düşünerek soruyorum:<br/><br/>apoyla görüşmeleri mhpliler mi yaptı? <br/>suriyelileri chpliler mi getirdi?<br/>seçim barajını düşürecektin de hdpliler mi engel oldu? <br/>yerli uçak-bilgisayar- ilaç fabrikası kurdun da geziciler mi bombaladı? <br/><br/>düzeltme ve debe editi: yazar dostumuz ahbual mesaj attı rica etti (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>) kendisine ve vakit ayırıp okuyan-favlayan tüm sözlükdaşlarıma teşekkür ediyorum.
   entry_writer: hatasizcoololmaz
 - entry_name: |
     6 ekim 2015 istanbul depremi
@@ -240,7 +234,7 @@ data:
     trafik ihlallerinde whatsapp'tan şikayet dönemi
   entry_id: 55321178
   entry_content: |
-    -uyudun mu?<br/>+kimsin kardeşim<br/>-geçen ihlali çekip gönderdim ceza yazmamışsın, uyudun mu?<br/>+uff snne be slk
+    -uyudun mu?<br/>+kimsin kardeşim<br/>-geçen ihlali çekip gönderdim ceza yazmamışsın, uyudun mu?<br/>+uff snne be slk<br/><br/>debe edit'i: (bkz: <a class="b" href="/?q=debe+edit%27inin+yasaklanmas%c4%b1">debe edit'inin yasaklanması</a>)
   entry_writer: akil adam
 - entry_name: |
     yaran facebook durum güncellemeleri
@@ -252,7 +246,7 @@ data:
     salih uçan
   entry_id: 55318756
   entry_content: |
-    daha geçen hafta lig maçında asist yapan adama, cahiller ve kör fanatikler pek tabii ki bir maç bile forma girmedi diyecekler..<br/><br/>çünkü bu ülkede bilgi yoktur..<br/>bilmemek vardır.<br/>fakat buna rağmen fikri olmak vardır.<br/><br/>ve hatta, bilmediğini bilmemek vardır..
+    daha geçen hafta lig maçında asist yapan adama, cahiller ve kör fanatikler pek tabii ki bir maç bile forma giymedi diyecekler..<br/><br/>çünkü bu ülkede bilgi yoktur..<br/>bilmemek vardır.<br/>fakat buna rağmen fikri olmak vardır.<br/><br/>ve hatta, bilmediğini bilmemek vardır..
   entry_writer: kinaye
 - entry_name: |
     mario gomez gs'de oynayacak kapasitede değil
@@ -264,7 +258,7 @@ data:
     foolish casanova'ya asılmış efsane nesil
   entry_id: 55332412
   entry_content: |
-    şu an takribi 25-28 yaş aralığında olup, nesillerin en efsanelerinden biridir.
+    şu an takribi 25-28 yaş aralığında olup, nesillerin en efsanelerinden biridir.<br/><br/>edit: gelen mesajlar uzerine yas araligi 25-35 olarak guncellenmistir.<br/><br/>edit2:istek üzerine yaş aralığı 25-40 olarak tekrar guncellendi :( (bkz: <a class="b" href="/?q=cinsel+a%c3%a7l%c4%b1%c4%9f%c4%b1n+afrika%27s%c4%b1d%c4%b1r+t%c3%bcrkiye">cinsel açlığın afrika'sıdır türkiye</a>)<br/><br/>debe editi: güldük, eğlendik, eski günleri yad ettik. o nesil şimdi koca koca adamlar oldu. şimdi, diğer nesiller gibi tirişkadan efsane olmadığımızı gösterme zamanı (bkz: <a class="b" href="/?q=%c5%9fehit+selahaddin+esin+ilkokulu+yard%c4%b1m+kampanyas%c4%b1">şehit selahaddin esin ilkokulu yardım kampanyası</a>)
   entry_writer: breaking mad
 - entry_name: |
     6 ekim 2015 green card sahibi olmam
@@ -291,10 +285,10 @@ data:
     biri bu yükselişe dur demeliydi.
   entry_writer: snoop dogg millionaire
 - entry_name: |
-    fenerbahçe'lilerin yandexi ihya etmesi
+    fenerbahçelilerin yandex'i ihya etmesi
   entry_id: 55314288
   entry_content: |
-    (bkz: <a class="b" href="/?q=fenerbah%c3%a7elilerin">fenerbahçelilerin</a>)<br/><br/>(bkz: <a class="b" href="/?q=dilbilgisi+demekle+olmuyor">dilbilgisi demekle olmuyor</a>)
+    (bkz: <a class="b" href="/?q=fenerbah%c3%a7elilerin">fenerbahçelilerin</a>)<br/><br/>(bkz: <a class="b" href="/?q=dilbilgisi+demekle+olmuyor">dilbilgisi demekle olmuyor</a>)<br/><br/>edit: gonderme yapilan entry silinince hicbir anlami kalmadi. siz bir diger yarrak gibi besiktasli entry'si olarak dusunun bunu. abim fifa 2002 oynarken mayro gomez'i gorunce camdan atlamisti. cok ozluyorum. rip. besiktaslilik durusu budur falan.
   entry_writer: cikmaz sokaktan cikagelen cocuk
 - entry_name: |
     iki kadın arasında kararsız kalmak
