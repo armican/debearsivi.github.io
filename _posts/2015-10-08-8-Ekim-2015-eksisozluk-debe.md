@@ -36,7 +36,7 @@ data:
     bir kürt-arap kırması nobel aldı diye sevinen türk
   entry_id: 55347416
   entry_content: |
-    ırkçı bir malın tepkisini çekmiştir.
+    
   entry_writer: parabellum70
 - entry_name: |
     7 ekim 2015 rusya'nın ışid'i denizden vurması
@@ -102,7 +102,7 @@ data:
     sözlükçülerin favori kötü adamları
   entry_id: 55338560
   entry_content: |
-    (bkz: <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a>)<br/><br/>her kıtaya bir tane salsan; dünyanın sonu gelecek.
+    (bkz: <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a>)<br/><br/>her kıtaya bir tane salsan; dünyanın sonu gelecek.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>'i: bu şarkıyı size armağan ediyorum. umarım güzel bir gün geçirirsiniz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=bpOSxM0rNPM" title="https://www.youtube.com/watch?v=bpOSxM0rNPM">https://www.youtube.com/watch?v=bposxm0rnpm</a>
   entry_writer: jonathan safran foer
 - entry_name: |
     twitter'da başlayan altına işeme akımı
@@ -114,7 +114,7 @@ data:
     arda turan
   entry_id: 55334791
   entry_content: |
-    lüksler içinde krallar gibi yaşayan 'adam'. bir ayakkabıya 50bin euro verip giyer, bir çantaya 20bin euro verip sevgilisine alır sonra fakirlik edebiyatı. ay sonunu nasıl getireceğini bilmeyen yurdum garibanını da fena gaza getirir. hey yavrum hey.
+    lüksler içinde krallar gibi yaşayan 'adam'. bir ayakkabıya 50bin euro verip giyer, bir çantaya 20bin euro verip sevgilisine alır sonra fakirlik edebiyatı. ay sonunu nasıl getireceğini bilmeyen yurdum garibanını da fena gaza getirir. hey yavrum hey.<br/>edit: sevgili arda bu entry'nin debeye girmesi ile beraber bana 50bin euro verip göt etme fırsatına kavuştun, hadi yine iyisin.
   entry_writer: murky
 - entry_name: |
     8 ekim 2015 kılıçdaroğlu kanal d gece yayını
@@ -126,7 +126,7 @@ data:
     beşiktaş'ın bu sezon şampiyon olacağı gerçeği
   entry_id: 55337383
   entry_content: |
-    açmayın şöyle başlıklar amk. unutmayın koca seneyi bir tane kırmızı kart görmeden kapatan rakibimiz var. tamam bu sene yine güzel başladık ama yapmayın. dikkat edin 2 haftadır hentbol oynayarak 6 puanı cepleyip geldi yine sinsi sinsi. 6 puan olmasa küme düşme hattındaydı amına koduklarım gelmişler burda volume cart curt diye komiklikler şakalar peşinde.
+    açmayın şöyle başlıklar amk. unutmayın koca seneyi bir tane kırmızı kart görmeden kapatan rakibimiz var. tamam bu sene yine güzel başladık ama yapmayın. dikkat edin 2 haftadır hentbol oynayarak 6 puanı cepleyip geldi yine sinsi sinsi. 6 puan olmasa küme düşme hattındaydı amına koduklarım gelmişler burda volume cart curt diye komiklikler şakalar peşinde.<br/><br/>edit: <a rel="nofollow" class="url" target="_blank" href="http://www.kansader.org/" title="http://www.kansader.org/">http://www.kansader.org/</a> kanserli ailelerin çocuklarına ücretsiz eğitim verebilmek amacıyla kuruluş bir dernek isteyen gönüllü olabilir.
   entry_writer: comewithme
 - entry_name: |
     imkanınız olsa kimin tüm hayatını izlerdiniz
@@ -168,13 +168,13 @@ data:
     2 milyon 630 bin euro'luk alışveriş yapmak
   entry_id: 55345961
   entry_content: |
-    itibardan tasarruf olmaz arkadaşlar, lütfen. eminanım o parayla çok güzel kumaşlardan itibar, aşırı yüksek topuklu itibar satın alıyor. doğmamış çocuğunuzun rızkını yemesine kızmamalısınız.<br/><br/>bu arada çocuk doğurmaktan sakın vazgeçmeyin, ucuz iş gücü lazım.
+    itibardan tasarruf olmaz arkadaşlar, lütfen. eminanım o parayla çok güzel kumaşlardan itibar, aşırı yüksek topuklu itibar satın alıyor. doğmamış çocuğunuzun rızkını yemesine kızmamalısınız.<br/><br/>bu arada çocuk doğurmaktan sakın vazgeçmeyin, ucuz iş gücü lazım.<br/><br/>debedit: yeni değil ama tartışılmasını (ve mümkünse hayata geçmesini) istediğim bir konu var: (bkz: <a class="b" href="/?q=moderek%c5%9fi">moderekşi</a>)
   entry_writer: barisunver
 - entry_name: |
     türkiye'den çıkacak nba takımlarına isim önerileri
   entry_id: 55352225
   entry_content: |
-    hakkari rpg rockets.
+    hakkari rpg rockets.<br/><br/>debe editi: öncelikle bu entryi kimse ırkçı bir entry olarak algılamasın. burada ki diğer entrylere bakarsanız nerdeyse bütün şehirlerle dalga geçildiğini görürsünüz. benimde aklıma bu geldi. buradan bir duyuru yapmak isteyen suser kardeşlerim yeşillendirebilirler.
   entry_writer: jetips
 - entry_name: |
     beton makinesinin sesinden keyif alan bakan
@@ -204,7 +204,7 @@ data:
     yer yarılsa da içine girsem denilen anlar
   entry_id: 55342318
   entry_content: |
-    bu aralar dilime "çikilop" dolandı. çikilop aşağı çikilop yukarı. canım mı sıkılıyor, çikilop diyorum. bişeyin adını mı hatırlamadım, basıyorum çikilop'u. babama bile çikilop dedim. ya her harfiyle bu kadar muazzam bir uyum içersinde olan, bu kadar fonetik bir başka kelime olabilir mi? "çiki" derkenki ağzımızda ezdiğimiz ses bütünü "lop"un salımıyla harika bir rahatlığa kavuşuyor. şu an çoğunuzun sessizce çikilop dediğine eminim. <br/>bu arada garip bir huyum var, çok derin düşünüyorsam kendi kendime konuşuyorum ve bunun farkına ya varmıyorum ya cümlenin sonuna uyanıyorum. <br/><br/>neyse. o gün bindim metroya. gözlerimde 5 numara camlı, kalın kemik çerçeveli "bağlaç olan de'nin yazımına takmış güruhtanım, hepinizi rencide ederim" gözlüklerimle boş bulduğum bir yere oturdum, açtım komünist manifesto'yu alt çize çize okuyorum. kitabın kapağını gören yanımdaki enine kahverengi çizgili emmi üniforması tişörtlü amca, sanırım beden dilinde "seni onaylamıyorum ve sana laflar hazırladım" anlamına gelen "hımfffs hımfffs" diye sesler çıkarıp burnundan nefes vererek yerinde doğruldu. gözlüklerimden aldığım güçle daha çok bastırarak alt çizmeye başladım. bi taraftan da gözü altını çizdiklerimde. amca tam bir yanında gazete okuyana yancı olan bir tip. tam da o sırada "burjuvanın gözünde karısı bir üretim aracından başka bir şey değildir"in altını çizdim. amca yine hımmmfs diye sesler çıkartarak kafasını ya havle anlamında yana çevirerek doğruldu. <br/><br/>yol uzun sürdüğü için ben de bayağı daldım gittim. ineceğim durağa yaklaştığımda kitabı kapattım, beynimin yandığını hissettim. offf derken bir anda "lop" kısmını duydum. amaçsızca ağzımdan "çikilop" çıkmıştı. enine kahverengi çizgili dayı dehşetle döndü, suratıma baktı. ben de ona baktım. maviş maviş gözleri vardı. <br/><br/>geldiğinden beri aralıksız kitap okuyup alt çizen bu hüdaverdi kılıklı kadın adeta bir seri katil soğukkanlılığıyla anlamsızca "çikilop" demişti. belki de bu cinayetten önce yaptığı mistik bir duanın besmelesiydi. <br/><br/>amcam ışık hızında yerinden kalktı, kapıya yöneldi. acaba amcaya gidip "ya amca o benim dilime dolandı yha ben arada öyle şeyederim" desem mi diye düşündüm ama kapı açılmıştı artık. <br/><br/>lisedeyken bi kere de kendimi dersane hocasına sessizce "götelek" derken bulmuştum. o zaman da ona takmıştım. o da çok fonetiktir bu arada. <br/><br/>komünist manifesto ve çikilop <3t;3
+    bu aralar dilime "çikilop" dolandı. çikilop aşağı çikilop yukarı. canım mı sıkılıyor, çikilop diyorum. bişeyin adını mı hatırlamadım, basıyorum çikilop'u. babama bile çikilop dedim. ya her harfiyle bu kadar muazzam bir uyum içersinde olan, bu kadar fonetik bir başka kelime olabilir mi? "çiki" derkenki ağzımızda ezdiğimiz ses bütünü "lop"un salımıyla harika bir rahatlığa kavuşuyor. şu an çoğunuzun sessizce çikilop dediğine eminim. <br/>bu arada garip bir huyum var, çok derin düşünüyorsam kendi kendime konuşuyorum ve bunun farkına ya varmıyorum ya cümlenin sonuna uyanıyorum. <br/><br/>neyse. o gün bindim metroya. gözlerimde 5 numara camlı, kalın kemik çerçeveli "bağlaç olan de'nin yazımına takmış güruhtanım, hepinizi rencide ederim" gözlüklerimle boş bulduğum bir yere oturdum, açtım komünist manifesto'yu alt çize çize okuyorum. kitabın kapağını gören yanımdaki enine kahverengi çizgili emmi üniforması tişörtlü amca, sanırım beden dilinde "seni onaylamıyorum ve sana laflar hazırladım" anlamına gelen "hımfffs hımfffs" diye sesler çıkarıp burnundan nefes vererek yerinde doğruldu. gözlüklerimden aldığım güçle daha çok bastırarak alt çizmeye başladım. bi taraftan da gözü altını çizdiklerimde. amca tam bir yanında gazete okuyana yancı olan bir tip. tam da o sırada "burjuvanın gözünde karısı bir üretim aracından başka bir şey değildir"in altını çizdim. amca yine hımmmfs diye sesler çıkartarak kafasını ya havle anlamında yana çevirerek doğruldu. <br/><br/>yol uzun sürdüğü için ben de bayağı daldım gittim. ineceğim durağa yaklaştığımda kitabı kapattım, beynimin yandığını hissettim. offf derken bir anda "lop" kısmını duydum. amaçsızca ağzımdan "çikilop" çıkmıştı. enine kahverengi çizgili dayı dehşetle döndü, suratıma baktı. ben de ona baktım. maviş maviş gözleri vardı. <br/><br/>geldiğinden beri aralıksız kitap okuyup alt çizen bu hüdaverdi kılıklı kadın adeta bir seri katil soğukkanlılığıyla anlamsızca "çikilop" demişti. belki de bu cinayetten önce yaptığı mistik bir duanın besmelesiydi. <br/><br/>amcam ışık hızında yerinden kalktı, kapıya yöneldi. acaba amcaya gidip "ya amca o benim dilime dolandı yha ben arada öyle şeyederim" desem mi diye düşündüm ama kapı açılmıştı artık. <br/><br/>lisedeyken bi kere de kendimi dersane hocasına sessizce "götelek" derken bulmuştum. o zaman da ona takmıştım. o da çok fonetiktir bu arada. <br/><br/>komünist manifesto ve çikilop <3t;3<br/><br/>debe editi: normalde debe editi hiç yapmadım ve hiç sevmem ama söylemek zorundayım arkadaşlar. çikilop'un yayılması adeta islamiyetin yayılması gibi şu an. göz yaşları içinde bu başarımızı izliyorum. an itibariyle bilecik hatta lihtenştayn'dan büyüğüz. sendikalaşıp dev-çiki sen'i kurmaya bile karar verdik. <br/><br/>bir badimin uzak diyarlardan çektiği çikilop manifesto ektedir. saygılarımla hepinizi selamlıyorum. <br/><a rel="nofollow" class="url" target="_blank" href="https://instagram.com/p/8kWrmYtvV_/" title="https://instagram.com/p/8kWrmYtvV_/">https://instagram.com/p/8kwrmytvv_/</a>
   entry_writer: venusteki limon agaci
 - entry_name: |
     putin'den ayarı yiyince soluğu brüksel'de almak
@@ -228,13 +228,13 @@ data:
     evlenmek isteyen bulgar gelin adayı
   entry_id: 55339403
   entry_content: |
-    bugün bi wm forumunda karşılaştığım gelin adayıdır. adamın biri evlilik vaadi ile nasıl dolandırıcılık yapıldığını göstermek için salağa yatıp bazı kayıtlar almış, <a rel="nofollow" class="url" target="_blank" href="http://www.r10.net/forum-disi-sikayetim-var/1506979-bulgar-gelin-geliyor-pazartesi.html" title="http://www.r10.net/forum-disi-sikayetim-var/1506979-bulgar-gelin-geliyor-pazartesi.html">konu</a> ise patlamış gitmiş. "bulgar gelin geliyor" başlığını görünce "enayiye bak dolandırıldığı yetmemiş gibi gelip bir de konu açarak kutlama yapıyor" dedim, ama durum başkaymış.<br/><br/>part 1: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vTEOdsNVFfg" title="https://www.youtube.com/watch?v=vTEOdsNVFfg">https://www.youtube.com/watch?v=vteodsnvffg</a><br/><br/>part 2: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=yA5WSJ1fHeY" title="https://www.youtube.com/watch?v=yA5WSJ1fHeY">https://www.youtube.com/watch?v=ya5wsj1fhey</a><br/><br/>part 3: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=URPoeBQO3R4" title="https://www.youtube.com/watch?v=URPoeBQO3R4">https://www.youtube.com/watch?v=urpoebqo3r4</a><br/><br/>part 4: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=SKheyuNSKcE" title="https://www.youtube.com/watch?v=SKheyuNSKcE">https://www.youtube.com/watch?v=skheyunskce</a>
+    bugün bi wm forumunda karşılaştığım gelin adayıdır. adamın biri evlilik vaadi ile nasıl dolandırıcılık yapıldığını göstermek için salağa yatıp bazı kayıtlar almış, <a rel="nofollow" class="url" target="_blank" href="http://www.r10.net/forum-disi-sikayetim-var/1506979-bulgar-gelin-geliyor-pazartesi.html" title="http://www.r10.net/forum-disi-sikayetim-var/1506979-bulgar-gelin-geliyor-pazartesi.html">konu</a> ise patlamış gitmiş. "bulgar gelin geliyor" başlığını görünce "enayiye bak dolandırıldığı yetmemiş gibi gelip bir de konu açarak kutlama yapıyor" dedim, ama durum başkaymış.<br/><br/>part 1: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vTEOdsNVFfg" title="https://www.youtube.com/watch?v=vTEOdsNVFfg">https://www.youtube.com/watch?v=vteodsnvffg</a><br/>part 2: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=yA5WSJ1fHeY" title="https://www.youtube.com/watch?v=yA5WSJ1fHeY">https://www.youtube.com/watch?v=ya5wsj1fhey</a><br/>part 3: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=URPoeBQO3R4" title="https://www.youtube.com/watch?v=URPoeBQO3R4">https://www.youtube.com/watch?v=urpoebqo3r4</a><br/>part 4: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=SKheyuNSKcE" title="https://www.youtube.com/watch?v=SKheyuNSKcE">https://www.youtube.com/watch?v=skheyunskce</a><br/><br/><a class="b" href="/?q=edit">edit</a>: 5. parça da gelmiş.<br/><br/>part 5: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=4Ik3stJ9uFU" title="https://www.youtube.com/watch?v=4Ik3stJ9uFU">https://www.youtube.com/watch?v=4ik3stj9ufu</a>
   entry_writer: yeni hayat
 - entry_name: |
     cinlerden korunma yöntemi
   entry_id: 55334986
   entry_content: |
-    (bkz: <a class="b" href="/?q=paladin+bas">paladin bas</a>)
+    (bkz: <a class="b" href="/?q=paladin+bas">paladin bas</a>)<br/><br/>debe editi : <a class="b" href="/?q=beklenen+b%c3%bcy%c3%bck+istanbul+depremi">beklenen büyük istanbul depremi</a>ni lütfen gözardı etmeyiniz. konu ile ilgili farklı yazarlardan derlediğim en iyi entryleri okuyunuz, farkındalığa ulaşın, ulaştırın. hayatınızın değerini bilin.<br/><br/>(bkz: <a class="b" href="/entry/44885300">#44885300</a>)<br/>(bkz: <a class="b" href="/entry/45494978">#45494978</a>)<br/>(bkz: <a class="b" href="/entry/33329026">#33329026</a>)<br/>(bkz: <a class="b" href="/entry/25899966">#25899966</a>)<br/>(bkz: <a class="b" href="/entry/27683473">#27683473</a>)
   entry_writer: labebebigel
 - entry_name: |
     abd'den toyota'ya ışid sorgusu
@@ -270,7 +270,7 @@ data:
     istifa etmeniz için kasedinizin mi çıkması lazım
   entry_id: 55356144
   entry_content: |
-    az önce genç bakış programında bir "ak-gencin" kılıçdaroğlu'na sorduğu soru.<br/><br/>bence bu soruya cevap verilmez. sebebini mark twain söylesin: "aptallarla tartışmaya girmeyin. sizi kendi seviyelerine çekerler ve tecrübesiyle sizi yenerler."
+    az önce genç bakış programında bir "ak-gencin" kılıçdaroğlu'na sorduğu soru.<br/><br/>bence bu soruya cevap verilmez. sebebini mark twain söylesin: "aptallarla tartışmaya girmeyin. sizi kendi seviyelerine çekerler ve tecrübeleriyle sizi yenerler."<br/><br/>debedit: yeni değil ama tartışılmasını (ve mümkünse hayata geçmesini) istediğim bir konu var: (bkz: <a class="b" href="/?q=moderek%c5%9fi">moderekşi</a>)
   entry_writer: barisunver
 - entry_name: |
     7 ekim 2015 dolar kuru
