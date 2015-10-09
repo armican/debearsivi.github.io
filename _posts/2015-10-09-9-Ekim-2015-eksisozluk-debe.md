@@ -12,7 +12,7 @@ data:
     yurtdışında oy kullanmak yasaklansın kampanyası
   entry_id: 55367043
   entry_content: |
-    bir an önce başlatılması gereken kampanyadır.<br/><br/>şimdi malumuz ki bu alamancı tayfa genel olarak eğitimsiz ve birikimsiz insanlardan oluşmakta. adamlar batının iyi yanlarını hiç almadıkları gibi geri, doğulu kültürel özelliklerini de aynen devam ettirmekteler. fakat buna rağmen, yaşadıkları ülkelerde kendilerine daha fazla hak tanıdıkları için sosyal demokrat partilere oy veriyorlar.<br/><br/>ama gelin görün ki bu tipler kendileri medeni dünyanın içinde sol oluşumlara destek olurlarken türkiye'de gerici, dinci, faşist partilere oy vermekteler. düşünün; adam norveç'te, kanada'da güllük gülistanlık ülkelerde yaşıyor, gelip burada akp'ye oy atıyor. ulan o zaman ben seni o ülkeye alan norveç, kanada hükümetinin de kafasına sokayım, bu konuda karşı kampanya başlatmayan muhalefet partilerinin de.<br/><br/>adam zaten türkiye'de yaşamıyor, buraya tüylü fötr şapkasıyla iki gün gezip eş dost akrabaya hava yapmak için geliyor. olmasın abicim bunların oy hakkı, ne kadar saçma bir şey yani.
+    bir an önce başlatılması gereken kampanyadır.<br/><br/>şimdi malumuz ki bu alamancı tayfa genel olarak eğitimsiz ve birikimsiz insanlardan oluşmakta. adamlar batının iyi yanlarını hiç almadıkları gibi geri, doğulu kültürel özelliklerini de aynen devam ettirmekteler. fakat buna rağmen, yaşadıkları ülkelerde kendilerine daha fazla hak tanıdıkları için sosyal demokrat partilere oy veriyorlar.<br/><br/>ama gelin görün ki bu tipler kendileri medeni dünyanın içinde sol oluşumlara destek olurlarken türkiye'de gerici, dinci, faşist partilere oy vermekteler. düşünün; adam norveç'te, kanada'da güllük gülistanlık ülkelerde yaşıyor, gelip burada akp'ye oy atıyor. ulan o zaman ben seni o ülkeye alan norveç, kanada hükümetinin de kafasına sokayım, bu konuda karşı kampanya başlatmayan muhalefet partilerinin de.<br/><br/>adam zaten türkiye'de yaşamıyor, buraya tüylü fötr şapkasıyla iki gün gezip eş dost akrabaya hava yapmak için geliyor. olmasın abicim bunların oy hakkı, ne kadar saçma bir şey yani.<br/><br/>debe editi: trabzonspor'un 2010-2011 sezonunda şampiyonluğu çalınmış ve o sezonla ilgili tüm pisliklerin ortaya dökülmesine rağmen bu kulübe hakkının iade edilmemesi için tff'si, medyası, siyaseti hepsi bir olmuştur. hakkımızı helal etmiyoruz!
   entry_writer: heil titsler
 - entry_name: |
     cnbc-e'nin kapanması
@@ -66,7 +66,7 @@ data:
     11 ekim 2015 pkk'nın çatışmasızlık kararı
   entry_id: 55363836
   entry_content: |
-    (bkz: <a class="b" href="/?q=senin+gerilla+diyen+a%c4%9fz%c4%b1n%c4%b1+sikeyim">senin gerilla diyen ağzını sikeyim</a>)
+    (bkz: <a class="b" href="/?q=senin+gerilla+diyen+a%c4%9fz%c4%b1n%c4%b1+sikeyim">senin gerilla diyen ağzını sikeyim</a>)<br/><br/>debe editi: böyle bir entry ile debe'ye girmek istemezdim samimiyetsizliğinden ben de bıktım.<br/>tam olarak debe'ye girmek istediğim entry buydu. bu kadar vizyonum var, makale falan beklemeyin benden. beğenen, favlayan ellerinizi ıstırırım, yalarım.
   entry_writer: domanic
 - entry_name: |
     rusya'nın yanlışlıkla iran'ı vurması
@@ -102,7 +102,7 @@ data:
     yasemin kay allen
   entry_id: 55375168
   entry_content: |
-    avustralya'da kendisine ve bir çocuğa oyunculuk dersi vermiştim, bu ünlü oldu işte. diğer eleman da burger king melbourne şubesinde çalışıyor. caminin karşısındaki şubeden bahsediyorum evet.<br/><br/>gelen mesajlar üzerine edit: arkadaşlar tabii ki melbourne merkez camiinden bahsediyorum.
+    avustralya'da kendisine ve bir çocuğa oyunculuk dersi vermiştim, bu ünlü oldu işte. diğer eleman da burger king melbourne şubesinde çalışıyor. caminin karşısındaki şubeden bahsediyorum evet.<br/><br/>gelen mesajlar üzerine edit: arkadaşlar tabii ki melbourne merkez camiinden bahsediyorum.<br/><br/>edit: bu anlamsız entrynin neden girildiğini çözmek için önceki entrylere bakabilirsiniz. ayrıca "avustralya'da burger king yok" diyen 1000. kişiye tam beş kutu balderesi.
   entry_writer: biseybuldum
 - entry_name: |
     yazarların bugün harcadığı para miktarı
@@ -270,7 +270,7 @@ data:
     aziz sancar
   entry_id: 55358129
   entry_content: |
-    nobel aldığı gün hakkında yaklaşık 500 tane entry girilen ve görebildiğim kadarıyla bu entry'lerin<br/><br/>- %47'sinin etnik köken belirleme çabaları,<br/>- %20'sinin "zengin miydi fakir miydi ailesi aşiretti şöyleydi böyleydi hdp'li akrabası varmış" muhabbeti,<br/>- %18'inin "bu başarı bizim değil eğitimini abd'de almış / hayır lan öyle olur mu tıp fakültesini burada bitirmiş" atışması,<br/>- %10'unun "işte bunlar cumhuriyet'in eseri" muhabbeti<br/><br/>olduğu bilim adamı. kalan %5'ün %4'ü de neden ülkemizdeki eğitimin kötü olduğunu ve başarılı olabilmek için abd'ye gitmesi gerektiğini sorguluyor. bu %4'lük kesme cevap vereyim:<br/><br/>adamın nobel almasını sağlayan çalışmaları hakkında girilen entry'lerin oranı %1 olduğu için öyle olabilir mesela.<br/><br/>ulan beş yüz tane entry girmişsiniz, adamın kim olduğu, hayatı, ne yaptığı ve neden nobel aldığıyla ilgili haber97.com'dan öğren(eme)diğiniz şeylerle boş boş konuşup durmuşsunuz.
+    nobel aldığı gün hakkında yaklaşık 500 tane entry girilen ve görebildiğim kadarıyla bu entry'lerin<br/><br/>- %47'sinin etnik köken belirleme çabaları,<br/>- %20'sinin "zengin miydi fakir miydi ailesi aşiretti şöyleydi böyleydi hdp'li akrabası varmış" muhabbeti,<br/>- %18'inin "bu başarı bizim değil eğitimini abd'de almış / hayır lan öyle olur mu tıp fakültesini burada bitirmiş" atışması,<br/>- %10'unun "işte bunlar cumhuriyet'in eseri" muhabbeti<br/><br/>olduğu bilim adamı. kalan %5'ün %4'ü de neden ülkemizdeki eğitimin kötü olduğunu ve başarılı olabilmek için abd'ye gitmesi gerektiğini sorguluyor. bu %4'lük kesime cevap vereyim:<br/><br/>adamın nobel almasını sağlayan çalışmaları hakkında girilen entry'lerin oranı %1 olduğu için öyle olabilir mesela.<br/><br/>ulan beş yüz tane entry girmişsiniz, adamın kim olduğu, hayatı, ne yaptığı ve neden nobel aldığıyla ilgili haber97.com'dan öğren(eme)diğiniz şeylerle boş boş konuşup durmuşsunuz.
   entry_writer: turing
 - entry_name: |
     kadının yaşça küçük erkekle ilişki yaşaması
@@ -294,7 +294,7 @@ data:
     galatasaray
   entry_id: 55363424
   entry_content: |
-    şampiyonlar ligine en son gittiğinde krasiç'i dünya yıldızı gibi gösterecek performans ortaya koyanların "hayaller şampiyonlar ligi" diye hakkında aklı sıra espiri yaptığı kulüp. <br/><br/>siz uyurken biz bu sene 4. defa üst üste gruplardayız. 2 defa gruplardan çıktık, 1 defa da çeyrek final yaptık. siz 100+ yıllık tarihinizde 1 kez bile gruplardan çıkamadınız, yetmedi, çeyrek finaldeki rakibimiz sizin stadınızda antrenman yaptığı için bunu gururla canlı yayınladınız. taraftarınız her hafta rakip avrupa takımlarının atkılarını almaktan evde koleksiyon yaptı.<br/><br/>hani o bahsettiğiniz "para komidinin üzerinde" iğrenç bir pankart ama, vuracaksanız zayıf olduğunuz noktadan vurmayın.<br/><br/>gerçi siz de haklısınız, güçlü olduğunuz nokta mı var ki?
+    şampiyonlar ligine en son gittiğinde krasiç'i dünya yıldızı gibi gösterecek performans ortaya koyanların "hayaller şampiyonlar ligi" diye hakkında aklı sıra espiri yaptığı kulüp. <br/><br/>siz uyurken biz bu sene 4. defa üst üste gruplardayız. 2 defa gruplardan çıktık, 1 defa da çeyrek final yaptık. siz 100+ yıllık tarihinizde 1 kez bile gruplardan çıkamadınız, yetmedi, çeyrek finaldeki rakibimiz sizin stadınızda antrenman yaptığı için bunu gururla canlı yayınladınız. taraftarınız her hafta rakip avrupa takımlarının atkılarını almaktan evde koleksiyon yaptı.<br/><br/>hani o bahsettiğiniz "para komidinin üzerinde" iğrenç bir pankart ama, vuracaksanız zayıf olduğunuz noktadan vurmayın.<br/><br/>gerçi siz de haklısınız, güçlü olduğunuz nokta mı var ki?<br/><br/>edit: eksisozluk #spor kanalindan daha fazlasini beklerdim acikcasi. "sampiyonlar ligi'ne son gittiginde krasic'i dunya yildizi gibi gosterecek performans ortaya koyanlarin..." tanimlamasinin cska-besiktas maclarina yonelik yazildigini acik acik soylemem gerekiyormus demek ki... bundan sonra oyle yaparim. ama acik acik anlatinca da cok uzun oluyor, uzun olunca da okumuyorsunuz.<br/><br/>"ceyrek finaldeki rakibimiz sizin stadinizda antrenman yaptigi icin bunu gurula canli yayinladiniz." --> t; <a class="b" href="/?q=real+madrid">real madrid</a>'in inonu'de antrenman yapmasinin bjk tv'den "dunya yildizlari inonu'de" diye canli yayinlanmasi.<br/><br/>daha aciklayayim mi?
   entry_writer: muto
 - entry_name: |
     hiç makyaj yapmayan kızlar
