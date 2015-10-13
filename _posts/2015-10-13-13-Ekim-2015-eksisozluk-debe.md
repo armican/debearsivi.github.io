@@ -36,7 +36,7 @@ data:
     ankara'da ölenlerin cenazesinde apo posteri açmak
   entry_id: 55464680
   entry_content: |
-    hangi kafanın ürünü ise gelsin o beyin kıvrımlarını bir göstersin.<br/><br/>terör eyleminin sonucunda hayatını kaybedenlerin cenazesinde son yüzyılın en büyük teröristine methiye düzmek ancak hdp'li ikiyüzlülüğü sayesinde gerçekleşir.<br/><br/>neyse ki cenazenin sahibi, ankara'da babasını kaybeden harun kurturlu "<a class="b" href="/?q=benim+babam+bunlar+y%c3%bcz%c3%bcnden+%c3%b6ld%c3%bc">benim babam bunlar yüzünden öldü</a>" diyerek tepki göstermiş ve tabutun üzerindeki pkk çaputunu kaldırmış.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.iha.com.tr/haber-cenaze-toreninde-pkk-ve-hdpye-tokat-gibi-tepki-502917/" title="http://www.iha.com.tr/haber-cenaze-toreninde-pkk-ve-hdpye-tokat-gibi-tepki-502917/">http://www.iha.com.tr/…pye-tokat-gibi-tepki-502917/</a><br/><br/>allah ıslah etsin memleketimiz teröristlerini.<br/><br/>terörist seve seve nereye kadar? ne zaman başarabileceksiniz terörün her türlüsüne karşı durmayı?
+    hangi kafanın ürünü ise gelsin o beyin kıvrımlarını bir göstersin.<br/><br/>terör eyleminin sonucunda hayatını kaybedenlerin cenazesinde son yüzyılın en büyük teröristine methiye düzmek ancak hdp'li ikiyüzlülüğü sayesinde gerçekleşir.<br/><br/>neyse ki cenazenin sahibi, ankara'da babasını kaybeden harun kurturlu "<a class="b" href="/?q=benim+babam+bunlar+y%c3%bcz%c3%bcnden+%c3%b6ld%c3%bc">benim babam bunlar yüzünden öldü</a>" diyerek tepki göstermiş ve tabutun üzerindeki pkk çaputunu kaldırmış.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.iha.com.tr/haber-cenaze-toreninde-pkk-ve-hdpye-tokat-gibi-tepki-502917/" title="http://www.iha.com.tr/haber-cenaze-toreninde-pkk-ve-hdpye-tokat-gibi-tepki-502917/">http://www.iha.com.tr/…pye-tokat-gibi-tepki-502917/</a><br/><br/>allah ıslah etsin memleketimiz teröristlerini.<br/><br/>terörist seve seve nereye kadar? ne zaman başarabileceksiniz terörün her türlüsüne karşı durmayı?<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: mesaj kutumu kusmukları ile dolduran, <a class="b" href="/?q=duran+kalkan">duran kalkan</a>'ın bacılarına uyguladığı cinsel fantezileri mesaj olarak ileten tüm pkk sempatizanlarına selam olsun. bana mesaj atacağınıza gidin duran kalkan'ın hareminden kurtarın bacılarınızı.
   entry_writer: 0 5 ucu olan adam
 - entry_name: |
     spor yapmak
@@ -62,18 +62,6 @@ data:
   entry_content: |
     evet o.
   entry_writer: kostikos
-- entry_name: |
-    alkolik öldü
-  entry_id: 55454668
-  entry_content: |
-    orospu çocuğu medyanın geldiği son nokta olabilirdi bu ama olmayacak, her son nokta dediğimizde daha beteriyle karşımıza çıkıyorlar. <br/>sayfalarından tuvalet kağıdı bile olmayacak bir gazete sonuçta, daha iyisini bekleyemezdik değil mi?
-  entry_writer: critica
-- entry_name: |
-    yeni akit vs tuvalet kağıdı
-  entry_id: 55459522
-  entry_content: |
-    ak-it'le götümü bile silmem. tuvalet kağıdı wins
-  entry_writer: evanart
 - entry_name: |
     levent kırca
   entry_id: 55454952
@@ -105,7 +93,7 @@ data:
     * pozisyon yüzünden vajinaya dolan havanın pırtlayarak çıkması<br/><br/>* partnerin çığlık desibelini tüm komşulara iletecek kadar çıkarması<br/><br/>* tam odaklanmışken yapılan pozisyon değişikliği <br/><br/>* kadının orgazma yaklaştığında aldığı yüz ifadesi (devam etsem mi, yoksa dursam mı. acı mı çekiyor, gelmek üzere mi ikilemi)<br/><br/>* yine kadının, orgazma yaklaştığında hırçınlaşıp fark etmeden size zarar vermesi. çizmesi, acı eşiği olarak dayanılmayacak düzeyde ısırması yada tırnaklarını geçirmesi<br/><br/>* ph düzeni bozulmuş bir kadının vajina kokusu (bkz: <a class="b" href="/?q=mantara+ba%c4%9flamak">mantara bağlamak</a>)<br/><br/>* oral yapmayı pek beceremeyen kadının, dişlerini <a class="b" href="/?q=rende">rende</a> eyleyip size zevk verdiğini sanan yüz ifadesiyle acı çektirdiğini fark etmeden katliama devam etmesi. <br/><br/>* youtube'un beyinsiz playlisti. olaya uygun müzikler çalarken birden <a class="b" href="/?q=ankaral%c4%b1+nam%c4%b1k">ankaralı namık</a> çalması<br/><br/>* aceleci yatağa geçiş esnasında çoraplarını çıkarmayan kadın (acaba ne zaman çıkaracak) düşüncesiyle yitip gitmek.<br/><br/>* haz dolu geçen ön sevişme bitip, <a class="b" href="/?q=penetrasyon">penetrasyon</a> aşamasına gelinince bir türlü paketi açılmayan <a class="b" href="/?q=prezervatif">prezervatif</a> ve açıldığında da bir türlü takılamaması. geç ulan işte hain ! <br/><br/>* çok ağır küfürler eden kadın, tamam fantezindir eyvallah da ana bacı katma amk !
   entry_writer: ferreli koyun kavalcisi
 - entry_name: |
-    kod yazma olayının %90 copy paste olması
+    kod yazmanın %90'ının kopyala yapıştır olması
   entry_id: 55464119
   entry_content: |
     bir gün emekli bir bilgisayar mühendisi lüks bir restoranda oturmuş, canı ne çektiyse sipariş etmiş, bir güzel yemiş.<br/><br/>kasada hesabı ödeme vakti gelince hemen bilgisayarın başına geçmiş, google'dan system.console.writeline(@"bunu hesaba say :-)") komutunu kopyalayıp derlemiş, çalıştırmış exe'yi.<br/><br/>restoran sahibi "yazdığın program güzel ama iki saattir burda oturmuş yemek yiyorsun, oysa bu programı google'dan bir dakikada kopyaladın. sence bu adil mi?" diye sormuş.<br/><br/>mühendis cevap vermiş. "hayır, kırk yıl artı bir dakika!"<br/><br/>mınagoduum paran yok madem bok mu var o kadar yedin diye çevire çevire dövmüşler bunu.<br/><br/>not: zamanınızı çaldığım için özür dilerim.
@@ -116,12 +104,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=tu%c4%9fba+ekinci+bac%c4%b1m+sen+misin%3f">tuğba ekinci bacım sen misin?</a>)<br/><br/>hayır anladık adamları sevmiyorsun da ülkenin anası sikiliyor be güzel kardeşim..<br/><br/>doğu'da asker-polis katleden şerefsizlere ne kadar öfkeliysek bu katillere de o kadar öfkeli olmalıyız. <br/><br/>çünkü hepimizin bildiği ve deneyimlediği üzere "terör cepte taşınmaz, gün gelir seni de vurur"
   entry_writer: soyka pigro
-- entry_name: |
-    _0/_
-  entry_id: 55462535
-  entry_content: |
-    (bkz: <a class="b" href="/?q=gel+gel+su+%c3%a7ok+g%c3%bczel">gel gel su çok güzel</a>)
-  entry_writer: rollei
 - entry_name: |
     13 ekim 2015 ekşi sözlük'te formatı kaldırmam
   entry_id: 55475489
@@ -150,7 +132,7 @@ data:
     münir özkul
   entry_id: 55453091
   entry_content: |
-    sürekli bu başlığı "tazeleme" ihtiyacı hissedenleride gömmesini umduğum üstad
+    sürekli bu başlığı "tazeleme" ihtiyacı hissedenlerin de gömmesini umduğum üstad
   entry_writer: batmanibatmandacekin
 - entry_name: |
     arda turan
@@ -222,7 +204,7 @@ data:
     fırat çakıroğlu
   entry_id: 55459168
   entry_content: |
-    bu kafayla gidilirse daha çok halaylar çekilecektir.<br/><br/>ulan her ölüm haberinden sonra gelip gelip ölümleri yarıştırıyorsunuz. bu yarış devam ettikçe yarın senin cenazende halay çekecekler, o halayı çekenler daha sonra başka bir trollün entrysine meze edilecek.<br/><br/>ölümleri yarıştırmaya devam ettikçe ölümler son bulmayacak.<br/><br/>hem 95 için hem de fırat için üzülmeyi ne zaman öğreneceğiz. her genç ölüm kötüdür. her zamansız ölüm için üzülmeyi bilelim. sevdiğimiz, sevmediğimiz düşünceye sahip olmaları bunu değiştirmemeli. zamansız ölen her genç ölümsüzdür!
+    bu kafayla gidilirse daha çok halaylar çekilecektir.<br/><br/>ulan her ölüm haberinden sonra gelip gelip ölümleri yarıştırıyorsunuz. bu yarış devam ettikçe yarın senin cenazende halay çekecekler, o halayı çekenler daha sonra başka bir trollün entrysine meze edilecek.<br/><br/>ölümleri yarıştırmaya devam ettikçe ölümler son bulmayacak.<br/><br/>hem 95 için hem de fırat için üzülmeyi ne zaman öğreneceğiz. her genç ölüm kötüdür. her zamansız ölüm için üzülmeyi bilelim. sevdiğimiz, sevmediğimiz düşünceye sahip olmaları bunu değiştirmemeli. zamansız ölen her genç ölümsüzdür!<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: ne farkeder sağdan ölmüş, soldan ölmüş. ne farkeder türkmüş, arapmış, kürtmüş... ne farkeder insanmış, hayvanmış. bir ananın evladını kaybetmesi kadar büyük bir acı var mıdır bu dünyada?<br/><br/>"hayatta her acının bir kelime karşılığı vardır. annesini kaybedene öksüz, babasını kaybedene yetim, eşini kaybedene dul denir. evladını kaybeden anne babaları tanımlayacak bir kelime bile yok haznemizde… evlat acısını allah kimseye yaşatmasın deriz. acıların en büyüğü, en yakanıdır. "<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>acı ölüm genç ölüm<br/>bu nasıl gitmek gülüm<br/>kara haber tez gelir <br/>kırdın kanadımı kolumu<br/><br/>giden yolunan gitti <br/>esen yelinen gitti<br/>feryadı bizde kaldı<br/>solan gülünen gitti<br/><br/>yollarda kaldı gözüm <br/>eridi aktı özüm<br/>kayıp ettim yavrumu<br/>ondan ağlıyor sazım<br/><br/>giden yolunan gitti <br/>esen yelinen gitti<br/>feryadı bizde kaldı<br/>solan gülünen gitti<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yeter artık ölümleri yarıştırmanız. anaların evlatlarını sayılarla belirtmeniz. gidin fırat'ın, ali ismail'in, berkin'in, yasin'in ve daha nicelerinin anasına söyleyin 95<1 diye. gereken cevabı alırsınız. sizin siyasi sidik yarışınız hiç bir ananın umrunda değil. evlat acısını allah kimseye göstermesin. bu evlat ister kürt olsun ister türk olsun.un.<br/><br/>2 yaşında kedim var. o bile bir caninin elinde can verse dünyam kararır. o andan itibaren ne sayılar gözümde olur ne siyasi görüşler. allah bir evcil hayvan da dahil olmak üzere hiç birimize evlat acısını yaşatmasın inşallah. düşmanıma bile göstermesin yaşatmasın bu acıyı. hayatımda en nefret ettiğim adam olan uzun'a bile bilal'in acısını yaşatmasın.<br/><br/>sizden ricam artık yitip giden gencecik evlatlarımızın adlarını o kirli ağızlarınıza da almayın!
   entry_writer: naletcix
 - entry_name: |
     cesetlerin arasında gülerek poz veren kişi
