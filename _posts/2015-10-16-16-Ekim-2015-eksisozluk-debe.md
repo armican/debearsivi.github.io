@@ -6,13 +6,13 @@ data:
     kemal kılıçdaroğlu'nun akademik cv'si
   entry_id: 55539983
   entry_content: |
-    sahte diplomalı olmadığı sürece her türlü ezen cv'dir.
+    sahte diplomalı olmadığı sürece her türlü ezen cv'dir.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: sentence
 - entry_name: |
     ne güzeldir isveçlilik
   entry_id: 55541711
   entry_content: |
-    ücretsiz <a rel="nofollow" class="url" target="_blank" href="http://work.sweden.se/plan-your-move/school-and-preschool/" title="http://work.sweden.se/plan-your-move/school-and-preschool/">kreş</a>in var<br/>sanma dunyada bir eşin var<br/>hiç batmayan güneşin var <br/>ne güzeldir isveçlilik<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://goo.gl/QhozT6" title="https://goo.gl/QhozT6">vasa gemin</a> batmadı mı <br/>üçyuz sene yatmadı mı <br/>sonra müze olmadı mı <br/>ne güzeldir isveçlilik<br/><br/>ejderha dövmeli kızlar<br/>bozkırda at mahmuzlar<br/>en büyük korku ruslar<br/>ne güzeldir isveçlilik<br/><br/>çöpler yaka yaka <a rel="nofollow" class="url" target="_blank" href="https://goo.gl/VpPJYB" title="https://goo.gl/VpPJYB">biter</a><br/>parası olan <a class="b" href="/?q=koenig">koenig</a>'e biner<br/><a class="b" href="/?q=volvo">volvo</a>m her yola gider<br/>ne güzeldir isveçlilik<br/><br/>depresiftir <a class="b" href="/?q=katatonia">katatonia</a><br/>kışın gıpgridir sema <br/>yazın güneş batmaz ama<br/>ne güzeldir isveçlilik<br/><br/>guzelligin gelir atadan<br/>pek ozenmis seni yaradan<br/>vur gelisine <a class="b" href="/?q=zlatan">zlatan</a><br/>ne güzeldir isveçlilik<br/><br/>ınsanlar hep pür nese<br/>dilin sanki bir bilmece<br/>her firsatta icmece<br/>ne güzeldir isveçlilik<br/><br/>semasında <a rel="nofollow" class="url" target="_blank" href="https://goo.gl/epyVrc" title="https://goo.gl/epyVrc">gripinler</a><br/>kurt inine girip inler<br/>herkes her sözü dinler<br/>ne güzeldir isveçlilik<br/><br/>volvo saab scania<br/>skype spotify ikea<br/>9 milyon nufusuyla<br/>üretimdir isveclilik<br/><br/>kışın götün donar, üşün<br/>kapatmazsan bağrın döşün<br/>ısınır evin bedavaya<br/>heryerde var geri dönüşüm.<br/><br/>somonumu fümeledim,<br/>kış geçmedi bilemedim<br/>soğuğunu sevemedim<br/>ne güzeldir isveçlilik?<br/><br/><a class="b" href="/?q=nordic+noir">nordic noir</a> in besigi<br/>kuzeyi, kutup kuşağı<br/>olmaz amerikan uşağı<br/>ne güzeldir isveçlilik<br/><br/><a class="b" href="/?q=kiruna">kiruna</a>dan aldim bakır<br/>yar fakır ben de fakır<br/>daha ne ister gönül <br/>ne güzeldir isveçlilik
+    ücretsiz <a rel="nofollow" class="url" target="_blank" href="http://work.sweden.se/plan-your-move/school-and-preschool/" title="http://work.sweden.se/plan-your-move/school-and-preschool/">kreş</a>in var<br/>sanma dunyada bir eşin var<br/>hiç batmayan güneşin var <br/>ne güzeldir isveçlilik<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://goo.gl/QhozT6" title="https://goo.gl/QhozT6">vasa gemin</a> batmadı mı <br/>üçyuz sene yatmadı mı <br/>sonra müze olmadı mı <br/>ne güzeldir isveçlilik<br/><br/>ejderha dövmeli kızlar<br/>bozkırda at mahmuzlar<br/>en büyük korku ruslar<br/>ne güzeldir isveçlilik<br/><br/>çöpler yaka yaka <a rel="nofollow" class="url" target="_blank" href="https://goo.gl/VpPJYB" title="https://goo.gl/VpPJYB">biter</a><br/>parası olan <a class="b" href="/?q=koenig">koenig</a>'e biner<br/><a class="b" href="/?q=volvo">volvo</a>m her yolda gider<br/>ne güzeldir isveçlilik<br/><br/>guzelligin gelir atadan<br/>pek ozenmis seni yaradan<br/>vur gelisine <a class="b" href="/?q=zlatan">zlatan</a><br/>ne güzeldir isveçlilik<br/><br/><a class="b" href="/?q=ice+hotel">ice hotel</a>de kalamam<br/>buz yatakta yatamam<br/><a class="b" href="/?q=hagl%c3%b6fs">haglöfs</a>ümü giymeden <br/>eksi otuza çıkamam<br/><br/>insanlar hep pür nese<br/>dilin sanki bir bilmece<br/>her firsatta icmece<br/>ne güzeldir isveçlilik<br/><br/>semasında <a rel="nofollow" class="url" target="_blank" href="https://goo.gl/epyVrc" title="https://goo.gl/epyVrc">gripinler</a><br/>kurt inine girip inler<br/>herkes her sözü dinler<br/>ne güzeldir isveçlilik<br/><br/>volvo saab scania<br/>skype spotify ikea<br/>9 milyon nufusuyla<br/>üretimdir isveclilik<br/><br/>kışın götün donar, üşün<br/>kapatmazsan bağrın döşün<br/>ısınır evin bedavaya<br/>desturumuz geri dönüşüm.<br/><br/>somonumu fümeledim,<br/>kış geçmedi bilemedim<br/>soğuğunu sevemedim<br/>ne güzeldir isveçlilik?<br/><br/><a class="b" href="/?q=nordic+noir">nordic noir</a> in besigi<br/>kuzeyi, kutup kuşağı<br/>olmaz amerikan uşağı<br/>ne güzeldir isveçlilik<br/><br/><a class="b" href="/?q=kiruna">kiruna</a>dan aldim bakır<br/>yar fakır ben de fakır<br/>daha ne ister gönül <br/>ne güzeldir isveçlilik<br/><br/>debedit2: (bkz: <a class="b" href="/entry/55559330">#55559330</a>)
   entry_writer: kalman
 - entry_name: |
     ışid ile aramızda 360 derece fark var
@@ -21,10 +21,10 @@ data:
     "halkım açı bilmiyordur, hem ben de bu fırsatla yalan söylememiş olayım" demiş olabilir kendileri.
   entry_writer: katarsiz
 - entry_name: |
-    banksy'nin erdogan graffitisinin boyanmasi
+    banksy'nin erdoğan graffitisinin boyanması
   entry_id: 55539038
   entry_content: |
-    ve şimdi arının kovanına çomak soktu uzun. sokak sanatçıları gerilla artistlerdir ve yaptıkları işin sansürlenmesi, yasaklanması onları daha da kızdıracaktır. şimdi bütün mahallelerde grafitileri olacak :)<br/><br/>banksy israil-filistin duvarını boyuyan, filistine kaçak tünnellerden girip grafiti yapan bir adam, yakında sarayın arka duvarlarını boyarsa şaşırmam
+    ve şimdi arının kovanına çomak soktu uzun. sokak sanatçıları gerilla artistlerdir ve yaptıkları işin sansürlenmesi, yasaklanması onları daha da kızdıracaktır. şimdi bütün mahallelerde grafitileri olacak :)<br/><br/>banksy israil-filistin duvarını boyayan, filistine kaçak tünnellerden girip grafiti yapan bir adam, yakında sarayın arka duvarlarını boyarsa şaşırmam<br/><br/>debedit:<br/>(bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: spineless
 - entry_name: |
     telefon ile dolandırılan hukuk profesörü
@@ -36,7 +36,7 @@ data:
     chp ezanları susturur mu
   entry_id: 55549256
   entry_content: |
-    (bkz: <a class="b" href="/?q=anketler+%c3%a7ok+mu+k%c3%b6t%c3%bc+lan">anketler çok mu kötü lan</a>)?...
+    (bkz: <a class="b" href="/?q=anketler+%c3%a7ok+mu+k%c3%b6t%c3%bc+lan">anketler çok mu kötü lan</a>)?...<br/><br/>debedit: <br/><br/>@yuengling'in ricası üzerine...<br/>(bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)...
   entry_writer: angry engineer
 - entry_name: |
     boeing'in dünyanın en hafif metalini icat etmesi
@@ -138,37 +138,37 @@ data:
     mısır'da bulunan 4000 yıllık dürüm
   entry_id: 55547219
   entry_content: |
-    (bkz: <a class="b" href="/?q=tutankanzuk">tutankanzuk</a>)
+    (bkz: <a class="b" href="/?q=tutankanzuk">tutankanzuk</a>)<br/><br/>debedit: lan olm soka soka bunu mu soktunuz <a class="b" href="/?q=debe">debe</a>'ye?! zaten doğru düzgün bir entry ile girseydim şaşırırdım. bir süredir <a class="b" href="/?q=debe">debe</a> listesi bana hiçbir şey ifade etmiyor, merak dahi etmiyorum neler girdi acaba diye. kendi sayfamda görmeseydim muhtemelen haberim de olmazdı. neyse, bir de şunu falan okuyun bari. (bkz: <a class="b" href="/entry/54455533">#54455533</a>)
   entry_writer: eternel
 - entry_name: |
     yerli otomobil nasıl olmalı
   entry_id: 55535930
   entry_content: |
-    yerli olmalı.
+    yerli olmalı.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: alamadim
 - entry_name: |
     gucci'de 1500 euro'ya satılan fantastik terlik
   entry_id: 55550803
   entry_content: |
-    chewbacca tüyünden yapılmış olabilir.<br/>(bkz: <a class="b" href="/?q=chewbacca">chewbacca</a>)
+    chewbacca tüyünden yapılmış olabilir.<br/>(bkz: <a class="b" href="/?q=chewbacca">chewbacca</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>) imkanı olanların desteği bekleniyor.
   entry_writer: xaxxbczczaaxax
 - entry_name: |
     kemal kılıçdaroğlu
   entry_id: 55538969
   entry_content: |
-    on yıllardır chp'li olduğunu kendine bile anlatmayan seçmeni bugün toplum içinde "bu ülkenin tek kurtuluşu chp'dir" diye yüksek sesle ve emin bir şekilde konuşmaya başlamışsa işte bu sakin ve güzel adamın sayesindedir.<br/><br/>7 haziran'da chp'ye verdiğim oy bugüne kadar verdiğim oylar içinde içime en çok sinendi. 1 kasım'daki oy ise sanırım geri kalan hayatımda demokrasiye kendimce yapmış olacağım en büyük katkı olacak. bu ülkenin az da olsa normalleşebilmesi için tek şansı bu seçim, ve bunu sağlayacak tek mantıklı yol da bu iyi adam.
+    on yıllardır chp'li olduğunu kendine bile anlatmayan seçmeni bugün toplum içinde "bu ülkenin tek kurtuluşu chp'dir" diye yüksek sesle ve emin bir şekilde konuşmaya başlamışsa işte bu sakin ve güzel adamın sayesindedir.<br/><br/>7 haziran'da chp'ye verdiğim oy bugüne kadar verdiğim oylar içinde içime en çok sinendi. 1 kasım'daki oy ise sanırım geri kalan hayatımda demokrasiye kendimce yapmış olacağım en büyük katkı olacak. bu ülkenin az da olsa normalleşebilmesi için tek şansı bu seçim, ve bunu sağlayacak tek mantıklı yol da bu iyi adam.<br/><br/>elden ele:<br/>(bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: realsanto
 - entry_name: |
     dünya tokat yemişe döndü korku içinde kaldı
   entry_id: 55542853
   entry_content: |
-    lan bunlar resmen dalga geçiyor milletle. adamlarda uçak gemisi filosu var amk, sene 2016 olacak sen daha 1 tane yapmaya kalkışmışsın, neyin tribindesiniz siz amk. yeter rezil ettiğiniz bizi.<br/><br/>edit: uçak gemisi bile değilmiş, doklu amfibi gemisi imiş vay anasını sayın seyirciler. <br/>ek bilgi için teşekkürler <a class="b" href="/?q=on+bir">on bir</a>
+    lan bunlar resmen dalga geçiyor milletle. adamlarda uçak gemisi filosu var amk, sene 2016 olacak sen daha 1 tane yapmaya kalkışmışsın, neyin tribindesiniz siz amk. yeter rezil ettiğiniz bizi.<br/><br/>edit: uçak gemisi bile değilmiş, doklu amfibi gemisi imiş vay anasını sayın seyirciler. <br/>ek bilgi için teşekkürler <a class="b" href="/?q=on+bir">on bir</a><br/><br/>debe edit: (bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: accoutre
 - entry_name: |
     beşiktaş
   entry_id: 55547220
   entry_content: |
-    üniversiteye gidilir, kızlardan biri göze çarpar ve düşüncelere dalınır;<br/><br/>-ne güzel kız lan, siyah saçlı beyaz tenli, hele gülüşü, sanırsın beşiktaş sahaya çıkıyor<br/><br/>kızla sohbet edilir, takımı sorulur, beşiktaş der.<br/><br/>-e bununla çıkılır ki...<br/><br/>beşiktaş-bolton uefa maçı için beşiktaş iskelesinden mabede yürürken dolmabahçe önünde kıza çıkma teklif edilir, kabul eder.<br/><br/>sevgiliye baban hangi takımı tutuyor diye sorulur, beşiktaş der.<br/><br/>-e bununla evlenilir ki...<br/><br/>4 sene sonra evlenilir, kız bebeğimiz olur, simsiyah saçlı bembeyaz tenli, hele ağlayışı, sanırsın beşiktaş maç kaybetti.<br/><br/>şimdi büyüdü, 1 yaşında, dün akşam işten çıkıp eve gittiğimde beni üstünde kartal yuvasından aldığımız kıyafet ile karşıladı, öyle yakışmış ki, hele gülüşü, sanırsın <a class="b" href="/?q=metin+ali+feyyaz">metin ali feyyaz</a>'ı gördü kapıda eşşek sıpası.<br/><br/><a class="b" href="/?q=aslolan+hayatt%c4%b1r%2c+hayat+da+be%c5%9fikta%c5%9f">aslolan hayattır, hayat da beşiktaş</a> demişler ya. aynen öyle. doğmak gibi ölmek gibi, gülmek gibi ağlamak gibi. beşiktaş gibi.
+    üniversiteye gidilir, kızlardan biri göze çarpar ve düşüncelere dalınır;<br/><br/>-ne güzel kız lan, siyah saçlı beyaz tenli, hele gülüşü, sanırsın beşiktaş sahaya çıkıyor<br/><br/>kızla sohbet edilir, takımı sorulur, beşiktaş der.<br/><br/>-e bununla çıkılır ki...<br/><br/>beşiktaş-bolton uefa maçı için beşiktaş iskelesinden mabede yürürken dolmabahçe önünde kıza çıkma teklif edilir, kabul eder.<br/><br/>sevgiliye baban hangi takımı tutuyor diye sorulur, beşiktaş der.<br/><br/>-e bununla evlenilir ki...<br/><br/>4 sene sonra evlenilir, kız bebeğimiz olur, simsiyah saçlı bembeyaz tenli, hele ağlayışı, sanırsın beşiktaş maç kaybetti.<br/><br/>şimdi büyüdü, 1 yaşında, dün akşam işten çıkıp eve gittiğimde beni üstünde kartal yuvasından aldığımız kıyafet ile karşıladı, öyle yakışmış ki, hele gülüşü, sanırsın <a class="b" href="/?q=metin+ali+feyyaz">metin ali feyyaz</a>'ı gördü kapıda eşşek sıpası.<br/><br/><a class="b" href="/?q=aslolan+hayatt%c4%b1r%2c+hayat+da+be%c5%9fikta%c5%9f">aslolan hayattır, hayat da beşiktaş</a> demişler ya. aynen öyle. doğmak gibi ölmek gibi, gülmek gibi ağlamak gibi. beşiktaş gibi.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: mesajlarıyla bana ve aileme iyi dileklerini ileten güzel insanlar, böyle yapıyonuz ya otobüs kaldırıp sizi bolton deplasmanına götüresim geliyor. iyi ki varsınız.<br/><br/><a class="b" href="/?q=allah%27%c4%b1n+emri+edit">allah'ın emri edit</a>: (bkz: <a class="b" href="/?q=biz+bu+bolton%27u+orada+yeneriz">biz bu bolton'u orada yeneriz</a>)
   entry_writer: mavi topolino
 - entry_name: |
     kılıçdaroğlu iktidara gelirse başörtüsünün durumu
@@ -180,7 +180,7 @@ data:
     sedat peker'in beyin yakan aydın doğan paylaşımı
   entry_id: 55552052
   entry_content: |
-    şurada...<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/rRVWpm.jpg" title="http://i.hizliresim.com/rRVWpm.jpg">http://i.hizliresim.com/rrvwpm.jpg</a><br/><br/>ben zekaya ve stratejik derinliğe hayran kaldım. <br/><br/>imza: yeğenin.
+    şurada...<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/rRVWpm.jpg" title="http://i.hizliresim.com/rRVWpm.jpg">http://i.hizliresim.com/rrvwpm.jpg</a><br/><br/>ben zekaya ve stratejik derinliğe hayran kaldım. <br/><br/>imza: yeğenin.<br/><br/>edit: beyler hanımlar yüklenin <br/><br/>(bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: carl zeiss jena
 - entry_name: |
     olası bir savaşta türkiye'deki en güvenli yer
@@ -216,7 +216,7 @@ data:
     isviçre ile isveç'i karıştırmak
   entry_id: 55545522
   entry_content: |
-    o yine iyi. avusturya ile avustralya'yı karıştıran var.
+    o yine iyi. avusturya ile avustralya'yı karıştıran var.<br/><br/>debe sonrası düzenleme<sup class="ab"><a title="(bkz: edit)" href="/?q=edit" data-query="edit">*</a></sup>: bu entrinin debe'de ne işi var inanın ben anlamadım. ben debe'de gezerken bu entriye rastlasam küfredip kaparım şahsen. o nedenle en azından entriyi daha önce yazılmış güzel ve bilgilendirici bir entriyle zenginleştirelim: (bkz: <a class="b" href="/entry/7520864">#7520864</a>)
   entry_writer: saladze
 - entry_name: |
     uzaylılar sözlüğü okuyor mudur sorunsalı
@@ -228,13 +228,13 @@ data:
     milli vibratör
   entry_id: 55540499
   entry_content: |
-    artık duyurulmasını beklediğim hede. savaş uçağından cadillac'ına, uzay gemisinden nakış makinesine kadar her şeyi üreten ülkemizin en büyük eksiği yerli vibratördür.<br/><br/>haydi ak hükumet, çıldırt ak trollerini!
+    artık duyurulmasını beklediğim hede. savaş uçağından cadillac'ına, uzay gemisinden nakış makinesine kadar her şeyi üreten ülkemizin en büyük eksiği yerli vibratördür.<br/><br/>haydi ak hükumet, çıldırt ak trollerini!<br/><br/><a class="b" href="/?q=yuengling">yuengling</a>'in ricası üzerine edit: (bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: wikus van der merwe
 - entry_name: |
     seçime 15 gün kala başlayan yerli malı haftası
   entry_id: 55540493
   entry_content: |
-    gregoryen takvime göre bu pzt başlamış olan süper hafta. <br/><br/>(bkz: <a class="b" href="/?q=yerli+oto">yerli oto</a>)<br/>(bkz: <a class="b" href="/?q=yerli+sava%c5%9f+gemimiz">yerli savaş gemimiz</a>)<br/>(bkz: <a class="b" href="/?q=yerli+u%c3%a7ak">yerli uçak</a>)<br/><br/>geliştirilebilir;<br/>(bkz: <a class="b" href="/?q=yerli+iphone">yerli iphone</a>)
+    gregoryen takvime göre bu pzt başlamış olan süper hafta. <br/><br/>(bkz: <a class="b" href="/?q=yerli+oto">yerli oto</a>)<br/>(bkz: <a class="b" href="/?q=yerli+sava%c5%9f+gemimiz">yerli savaş gemimiz</a>)<br/>(bkz: <a class="b" href="/?q=yerli+u%c3%a7ak">yerli uçak</a>)<br/><br/>geliştirilebilir;<br/>(bkz: <a class="b" href="/?q=yerli+iphone">yerli iphone</a>)<br/><br/><a class="b" href="/?q=eklemeler">eklemeler</a>:<br/>(bkz: <a class="b" href="/?q=milli+vibrat%c3%b6r">milli vibratör</a>) diyen oldu<br/><br/>bu şaka değilmiş;<br/>(bkz: <a class="b" href="/?q=yerli+lazer+silah%c4%b1">yerli lazer silahı</a>)
   entry_writer: sikelanjelo
 - entry_name: |
     gerekirse twitter kapatılır
@@ -246,7 +246,7 @@ data:
     15 ekim 2015 aras kargo rezaleti
   entry_id: 55537915
   entry_content: |
-    bunca yıllık ekşi sözlük yazarıyım ama ilk defa rezaletli başlık açma gururunu yaşıyorum. fenerbahçeli bir futbolcunun galatasaray'a, galatasaraylı bir futbolcunun da fenerbahçe'ye gol atması gibi. gerçek yazar olmanın verdiği bir onur bu.<br/><br/>8 ekim 2015 tarihinde yani tam 1 hafta önce, temizmama.com sitesinden her ay yaptığım gibi yine sokak kedileri için 15 kiloluk mamalardan aldım. kargo seçeneği olarak da aras kargo kapıda ödeme seçtim. temizmama.com sitesine 2 yıldır üyeyim ve her ay düzenli olarak mama alırım. adresim de 2 yıldır aynıdır. hiç değişmedi.<br/><br/>cuma günü ürün kargoya teslim edildi. cumartesi günü gelir diye bekliyorum ben. çünkü hep gelmişti. bu sefer niye gelmesin diye bir korkum yoktu. cumartesi günü tüm günümü evde kargo bekleyerek ve miskinlenerek geçirdim. ama gelen giden olmadı. her neyse sanırım mesai yarım gün olduğu için yetiştiremediler dedim ve pazartesi günü gelir nasılsa diye düşündüm.<br/><br/>pazartesi günü babamı tembihledim "evden çıkma ben gelene kadar kargo gelecek" dedim. saat 4'te iş çıkışı eve geldiğimde babama sordum "kargo geldi mi?" diye. gelmemişti. babam bütün gün evdeydi ama kargo gelmemişti. hemen konya-bosna şubesini aradım. telefon çaldı çaldı ama açan olmadı. defalarca aradım yine aynı şey oldu. bir kaç defa da çalan telefonu açıp konuşmadan kapattılar. bir iki kere de meşgule attılar. en sonunda ısrarlarıma dayanamayarak açtılar. kargomu sordum. iyiymiş bana selamı varmış. dağıtıma çıkmış, cumartesi günü yetişmemiş bugün akşama kadar kesin gelecekmiş. iyi dedim beklemeye başladım. yine hüsran, yine gelmedi.<br/><br/>akşam aras kargo müşteri hizmetlerini aradım. o da ne aras kargo müşteri hizmetleri mesai saatlerinde çalışmıyormuş. devlet dairesi ya sonuçta normal lan!<br/><br/>ben de site içinden şikayet maili attım. ertesi gün döndüler. durumu anlattım. özür dilediler şube adına. bugün kesin gönderimini sağlayacağız dediler. eve döndüm. kargo takibini bir açtım ki ne göreyim; cumartesi günü ve pazartesi günü aslında gelmişler ve beni evde bulamamışlar. adrese gelindi notu bırakıldı yazmışlar. hem de gece 00:00'da! hemen yönetici odasına gittim. cumartesi ve pazartesi gününün kamera kayıtlarına baktım. gelen giden yok.<br/><br/>ertesi gün aras kargo'dan tekrar aradılar. "bakın çalışanlarınız yalan söylüyor. kamera kayıtları var. gelen giden yok." dedim. "peki ben şubeyi uyarıyorum gün içerisinde teslimatı sağlayacağız" dediler. <br/><br/>eve geldim. kargo takibini açtım. ne göreyim. aslında ben yokmuşum. adres bilgisi yanlış. müşteri şubeden alacak yazıyor. 2 yıldır aynı adreste oturuyorum. 2 yıldır aynı siteden aynı müşteri bilgileri ile düzenli olarak mama alıyorum. hep ikamet ettiğim adres aslında yokmuş lan. ben aslında paralel evrende yaşıyormuşum :)<br/><br/>bugün yüzsüzce aradılar yine. adresinizde bulunamadığınız için gelip kargonuzu şubeden alacaksınız dediler. sizi de şubenizi de.... dedim. sizin şubenizden hiç bir ürün almam artık. geri yollayın ben yurtiçi kargo ile yeni ürün sipariş ettim dedim.<br/><br/>evet arkadaşlar rezalet budur. asıl rezalet biliyorum aras kargo ile bir şeyler sipariş etmekti. konya-bosna şubesinde yalancı çalışanları olan bir firma. bu günden sonra ne ben ne de başka bir yakınım kesinlikle bu firma ile çalışmaz. sizler de iyi okuyun ey sözlükçüler. bünyesinde yalancı çalışanları olan bu firmayı seçerken iyi düşünün.<br/><br/><a class="b" href="/?q=edit">edit</a>: finalde yurtiçi kargo övülmesi yoktur. temizmama.com'un iki adet kargo seçeneği vardır. sokak kedileri için ya aras ya yurtiçi ikisinden birine mahkumuz. daha önceki 20 siparişimde aras kargodan yana seçimimi yaparken sırf benim mahallemdeki yalancı, düzenbaz aras kargo çalışanınoan dolayı yurtiçi kargoya mahkum oluyorum. yoksa al birini vur ötekine bunu görmüş olduk.
+    bunca yıllık ekşi sözlük yazarıyım ama ilk defa rezaletli başlık açma gururunu yaşıyorum. fenerbahçeli bir futbolcunun galatasaray'a, galatasaraylı bir futbolcunun da fenerbahçe'ye gol atması gibi. gerçek yazar olmanın verdiği bir onur bu.<br/><br/>8 ekim 2015 tarihinde yani tam 1 hafta önce, temizmama.com sitesinden her ay yaptığım gibi yine sokak kedileri için 15 kiloluk mamalardan aldım. kargo seçeneği olarak da aras kargo kapıda ödeme seçtim. temizmama.com sitesine 2 yıldır üyeyim ve her ay düzenli olarak mama alırım. adresim de 2 yıldır aynıdır. hiç değişmedi.<br/><br/>cuma günü ürün kargoya teslim edildi. cumartesi günü gelir diye bekliyorum ben. çünkü hep gelmişti. bu sefer niye gelmesin diye bir korkum yoktu. cumartesi günü tüm günümü evde kargo bekleyerek ve miskinlenerek geçirdim. ama gelen giden olmadı. her neyse sanırım mesai yarım gün olduğu için yetiştiremediler dedim ve pazartesi günü gelir nasılsa diye düşündüm.<br/><br/>pazartesi günü babamı tembihledim "evden çıkma ben gelene kadar kargo gelecek" dedim. saat 4'te iş çıkışı eve geldiğimde babama sordum "kargo geldi mi?" diye. gelmemişti. babam bütün gün evdeydi ama kargo gelmemişti. hemen konya-bosna şubesini aradım. telefon çaldı çaldı ama açan olmadı. defalarca aradım yine aynı şey oldu. bir kaç defa da çalan telefonu açıp konuşmadan kapattılar. bir iki kere de meşgule attılar. en sonunda ısrarlarıma dayanamayarak açtılar. kargomu sordum. iyiymiş bana selamı varmış. dağıtıma çıkmış, cumartesi günü yetişmemiş bugün akşama kadar kesin gelecekmiş. iyi dedim beklemeye başladım. yine hüsran, yine gelmedi.<br/><br/>akşam aras kargo müşteri hizmetlerini aradım. o da ne aras kargo müşteri hizmetleri mesai saatlerinde çalışmıyormuş. devlet dairesi ya sonuçta normal lan!<br/><br/>ben de site içinden şikayet maili attım. ertesi gün döndüler. durumu anlattım. özür dilediler şube adına. bugün kesin gönderimini sağlayacağız dediler. eve döndüm. kargo takibini bir açtım ki ne göreyim; cumartesi günü ve pazartesi günü aslında gelmişler ve beni evde bulamamışlar. adrese gelindi notu bırakıldı yazmışlar. hem de gece 00:00'da! hemen yönetici odasına gittim. cumartesi ve pazartesi gününün kamera kayıtlarına baktım. gelen giden yok.<br/><br/>ertesi gün aras kargo'dan tekrar aradılar. "bakın çalışanlarınız yalan söylüyor. kamera kayıtları var. gelen giden yok." dedim. "peki ben şubeyi uyarıyorum gün içerisinde teslimatı sağlayacağız" dediler. <br/><br/>eve geldim. kargo takibini açtım. ne göreyim. aslında ben yokmuşum. adres bilgisi yanlış. müşteri şubeden alacak yazıyor. 2 yıldır aynı adreste oturuyorum. 2 yıldır aynı siteden aynı müşteri bilgileri ile düzenli olarak mama alıyorum. hep ikamet ettiğim adres aslında yokmuş lan. ben aslında paralel evrende yaşıyormuşum :)<br/><br/>bugün yüzsüzce aradılar yine. adresinizde bulunamadığınız için gelip kargonuzu şubeden alacaksınız dediler. sizi de şubenizi de.... dedim. sizin şubenizden hiç bir ürün almam artık. geri yollayın ben yurtiçi kargo ile yeni ürün sipariş ettim dedim.<br/><br/>evet arkadaşlar rezalet budur. asıl rezalet biliyorum aras kargo ile bir şeyler sipariş etmekti. konya-bosna şubesinde yalancı çalışanları olan bir firma. bu günden sonra ne ben ne de başka bir yakınım kesinlikle bu firma ile çalışmaz. sizler de iyi okuyun ey sözlükçüler. bünyesinde yalancı çalışanları olan bu firmayı seçerken iyi düşünün.<br/><br/><a class="b" href="/?q=edit">edit</a>: finalde yurtiçi kargo övülmesi yoktur. temizmama.com'un iki adet kargo seçeneği vardır. sokak kedileri için ya aras ya yurtiçi ikisinden birine mahkumuz. daha önceki 20 siparişimde aras kargodan yana seçimimi yaparken sırf benim mahallemdeki yalancı, düzenbaz aras kargo çalışanınoan dolayı yurtiçi kargoya mahkum oluyorum. yoksa al birini vur ötekine bunu görmüş olduk.<br/><br/><a class="b" href="/?q=ertesi+g%c3%bcn+editi">ertesi gün editi</a> : biraz önce aras kargo bölge müdürlüğünden aradılar. uygun ve samimi bir dille şubenin hatasını dile getirerek şube çalışanları ve firma adına özür dilediler. yapılan araştırma sonucu müşterinin haklı olduğunu ve şube içinde 3 elemanın yalan beyanda bulunduğunu ifade ettiler. şube müdürü ve şube çalışanlarının uyarıldığını gereken savunmaların yazılı olarak alındığını ifade ettiler. <br/><br/>bilinçli bir tüketici olarak da yaşanan aksaklığı kendilerine bildirdiğim için bana teşekkür ettiler. bir daha böyle bir sorunun yaşanmayacağını bölge müdürü olarak söz verildi.<br/><br/>evet gereken problemi ve yaşanan rezaleti dile getirdiğimiz gibi olumlu davranışları da dile getirmek bizim görevimiz. her ne kadar yaşamış olduğum problemden dolayı mağdur edilmiş olsam da sonrasında firmanın geri dönüşü ve gerekeni yaparak müşteri memnuniyetine önem veriyor olması güzel bir davranış. ben de şahsım adına bölge müdürlüğüne ve aras kargo firmasına teşekkür ediyorum.
   entry_writer: naletcix
 - entry_name: |
     çocuk yaşta izlenmiş travmatik diziler ve filmler
@@ -276,7 +276,7 @@ data:
     müdür odası yalnızlığı
   entry_id: 55534199
   entry_content: |
-    öğrencilik hayatım boyunca okul aile birliğinin güzel hanımları tarafından giderildiğini gördüğüm yalnızlık.
+    öğrencilik hayatım boyunca okul aile birliğinin güzel hanımları tarafından giderildiğini gördüğüm yalnızlık.<br/><br/>debe editi: iş yerinde oturup bütün gün entrylerimi okuyan ablacım selamlar. gelirken bulaşık teterjanı al.
   entry_writer: look at my horse
 - entry_name: |
     zekeriya öz'ün instagram'dan paylaştığı selfie
@@ -294,12 +294,12 @@ data:
     demirtaş'ın matem nedeniyle sakalını kesmemesi
   entry_id: 55542927
   entry_content: |
-    matem nedeniyle sakal kesmemek kürtlerde çok yaygın bir gelenek. diğer halkları bilmiyorum. ayrıca matemden dolayı sakal kesmediğini <a class="b" href="/?q=varsayd%c4%b1%c4%9f%c4%b1n">varsaydığın</a> adamı sakal kesmeme nedenini söylemediği halde samimiyetsizlikle suçlamak, <a class="b" href="/?q=samimiyetsiz">samimiyetsiz</a>. çık delikanlı gibi ne yaparsa yapsın sevmeyeceğim de, kendince rasyonalize edecek saçma sapan argümanlar üretme.
+    matem nedeniyle sakal kesmemek kürtlerde çok yaygın bir gelenek. diğer halkları bilmiyorum. ayrıca matemden dolayı sakal kesmediğini <a class="b" href="/?q=varsayd%c4%b1%c4%9f%c4%b1n">varsaydığın</a> adamı sakal kesmeme nedenini söylemediği halde samimiyetsizlikle suçlamak, <a class="b" href="/?q=samimiyetsiz">samimiyetsiz</a>. çık delikanlı gibi ne yaparsa yapsın sevmeyeceğim de, kendince rasyonalize edecek saçma sapan argümanlar üretme.<br/><br/>edit: demirtaş kürt değil diye uyarı geldi. doğrudur. ancak zazalar da farisi halklardandır. farisilerde çok yaygın olarak düzeltecektim ama aşağıdaki entrylerden birinde "antik romadan beri" yazısını gördüm. gugıl ablaya sorunca doğru olduğunu gördüm. "insanlarda çok yaygın" deyince de biz başka bir şeymişiz anlamı çıkıyor. kürt olarak bıraktım ben de.<br/><br/>ayrıca demirtaş'a sorsanız ben zaza kürdüyüm der. türkiye'de ben türk oğlu türküm diyen kürtler de var. biz demirtaş'a hayır sen zazasın, zazalar da kürt değildir mi diyeceğiz? ya da ben türküm diyen adama zorla kürt olduğunu mu kabul ettireceğiz? bir kürde "hayır sen türksün, dağ türküsün" diye baskı yapmaktan ne farkı var bunun? bence insanlar kendilerini ne olarak görüyorlarsa buna saygı duyup onu öyle kabul etmek en iyisi. hem de türkiye gibi bu konularda insanların aşırı duygusal olduğu bir ülkede.
   entry_writer: mimbletonia
 - entry_name: |
     15 ekim 2015 sinirlioğlu'nun pyd açıklaması
   entry_id: 55545556
   entry_content: |
-    esadı bitiren türkiye sırayı pyd'ye getirmiş. sonra rusya iran filan allahın izniyle sabah namazı tokyada...
+    esadı bitiren türkiye sırayı pyd'ye getirmiş. sonra rusya iran filan allahın izniyle sabah namazı tokyada...<br/><br/>edit: beyler hanımlar yüklenin<br/><br/>(bkz: <a class="b" href="/?q=hakkari+%c3%a7imenli+imkb+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">hakkari çimenli imkb ortaokulu yardım kampanyası</a>)
   entry_writer: carl zeiss jena
 ---
