@@ -135,16 +135,10 @@ data:
     bunlar gerçekten böyleler. para için falan diyorsunuz ama hayır, başka türlüsünü bilmiyorlar. bakanından fışkiyecisine, vekilinden gazetecesine, bürokratından trollüne hepsi aynı. halkın karşısına hep hazırlık yaparak çıkıyorlar, beklenmedik olaylar ve durumlarda asıl yüzleri kabak gibi ortaya çıkıyor. ama işte maske arkasında kaldıkları zaman; oldukları gibi yazıyorlar.<br/><br/>kanser ilaçlarının temini için yardım isteyen vatandaşının cebine kameralar önünde para sıkıştıran bakan hiçbir zaman "görüyorum ki çaresizliği hiç tatmamışsınız hayatınızda" cümlesini anlayamaz. ortalama vicdanlı hiçbir insan "aman parayı düşürme" diyemez o kızcağıza. yahu ömürlük para verseler de trollük yapmak için bu cümleyi kuramam ben.<br/><br/>bir "insan" ülke tarihinin en büyük iş cinayetinden daha cenazeler çıkarılıyorken madenci yakınına tekme atmaz, atamaz. hadi anlıktı, psikolojikti, kendinde değildi, ortamdandı falan attı diyelim, yerde tekmelediği adama "ayağım incindi" diye dava açamaz. para için bu savunulmaz. "gözlerin görmediği halde sana iş vermişiz" diyen insanla aynı safta yan yana bile durulmaz. yahu hepsini geçin, öğretmeni öğrencisi işçisi genci yaşlısı katledilen, en son bugün aramızdan ayrılan genç öğretmen önder ile sayısı yüze ulaşan insan için yapılan saygı duruşunu ıslıklayan on binlerce kişinin nasıl arsız, vicdansız ve utanmaz olabileceğini gördük işte, tam bir stadyum dolusu kanlı canlı trollde. <br/><br/>şu an var olmalarının tek sebebi on yıllardır merkez sağın, siyasal islamın, zübüklerin, işte konya'da ıslıklayan, sivas'ta yakan, erzurum'da yıkan bu kalabalığa sırtını dayaması, cahil kalacak şekilde eğitmesi, cehalet ve nefretle yoğurup bugünlere hazır hale getirmesidir. bir toplum hiç eğitilmese bile ölü ıslıklayacak kadar sefil kalamaz. her söylenene inanmaya hazır bir kitle yaratabilmek, sağın bu ülkeye attığı en ağır kazıktır, düzelmesi nesiller alacaktır.
   entry_writer: realsanto
 - entry_name: |
-    sedat peker'e polis koruması tahsis edilmesi
-  entry_id: 55560927
-  entry_content: |
-    insanda kendini benzin döküp yakma arzusu uyandıran icraat. son zamanlarda sinirlerim zaten laçkaydı ama bunun kadar asabımı bozan bir şey olmadı. ulan <buraya çok ağır küfürler gelecek> siz kocasından kaçan kadınlara koruma vermiyorsunuz, masum insanları öldüren kalantor yavrularını tutup adalete teslim etmiyorsunuz, ailesinin yıllar önce ihbar ettiği canlı bombaları gidip bulmuyorsunuz... siz sadece kansızları, soysuzları mı korursunuz??? allah belanızı versin ve lütfen ben göreyim, ne olur ya.ur ya.
-  entry_writer: gri balikcil
-- entry_name: |
     yakın çevrenin tamamının cehape zihniyetli olması
   entry_id: 55575278
   entry_content: |
-    doğruları duymaktan hoşlanmayan, yalanlara oksijen kadar ihtiyaç duyan başak burcu kadınlarını rahatsız eden durum.
+    doğruları duymaktan hoşlanmayan, yalanlara oksijen kadar ihtiyaç duyanları rahatsız eden durum.<br/><br/>edit: başak burcu kadınlarından özür dilerim.
   entry_writer: herseyiistiyoruz
 - entry_name: |
     zuhal topal'ladaki paradoks
@@ -210,7 +204,7 @@ data:
     etrafta mütevazı kız kalmaması
   entry_id: 55570089
   entry_content: |
-    mütevazı kızların erkekler tarafından ilgi çekici bulunmamasından olabilir... düşün bakayım kenarda köşede duran, gayet sade gözüken kız mı çekiyor ilgini yoksa sana "beni elde edemezsin" mesajını veren frapan kız mı? bakirelikle falan da ilgisi yok bunun...
+    mütevazı kızların erkekler tarafından ilgi çekici bulunmamasından olabilir... düşün bakayım kenarda köşede duran, gayet sade gözüken kız mı çekiyor ilgini yoksa sana "beni elde edemezsin" mesajını veren frapan kız mı? bakirelikle falan da ilgisi yok bunun...<br/><br/>edit: "öyleyse, böyleyse" diye ön şart koşanlar dışındakileri tespit ettim... muvaffakiyetler diliyorum...
   entry_writer: akinlardacocuklargibisenolanbininciatli
 - entry_name: |
     bor madenlerinin %98'inin fransızlara verilmesi
@@ -270,7 +264,7 @@ data:
     türklerin mars'ta kuracağı koloniye isim önerileri
   entry_id: 55562548
   entry_content: |
-    (bkz: <a class="b" href="/?q=agaoglu+my+mars">agaoglu my mars</a>)
+    (bkz: <a class="b" href="/?q=agaoglu+my+mars">agaoglu my mars</a>)<br/><br/>debe editi: 30 yasinda biriyim. avrupa pasaportum var. ayda 3200€ gelirim var. avrupa'nin kucuk bi sehrinde yasiyorum yalniz. burda evim bir de arabamla beraber. diyecegim su ki bir turk kızıyla (tercihen 26 ila 33 yas arasında olabilir) evlenmek istiyorum. isterse eksi sozluk yazari olsun onemli degil. yardımcı olursanız sevinirim.<br/>not: tipim duzgun.<br/>(bkz: <a class="b" href="/entry/55022761">#55022761</a>)
   entry_writer: lenin ile mcdonaldsa gitmis devrimci
 - entry_name: |
     volkswagenin türkiyede 323997 aracı geri çağırması
