@@ -30,7 +30,7 @@ data:
     outdoor ayakkabı giyen kişi
   entry_id: 55658208
   entry_content: |
-    üniversitede araştırma görevlisi olabilir.
+    üniversitede araştırma görevlisi olabilir.<br/><br/>debe editi: tespiti daha önce <a class="b" href="/?q=d+e+ayri+yazilir">d e ayri yazilir</a> nickli yazar <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/47081105" title="https://eksisozluk.com/entry/47081105">yapmış</a>. başlığı görünce üniversiteden araştırma görevlisi iki hocam ve ayakkabıları geldi gözümün önüne.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>ayrıca bundan çok daha dolu, nitelikli, eşsiz, olağanüstü, aşmış entrylerim dururken böyle bir entry ile debe'ye girmek isterdim. iyi olmuş yani.
   entry_writer: 40 karakterden uzun olmayan nick
 - entry_name: |
     gelmiş geçmiş en güzel dövme yazısı
@@ -54,7 +54,7 @@ data:
     drone ile hd savaş çekimi yapmak
   entry_id: 55651147
   entry_content: |
-    suriye'de çekilen <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/1Q60yBQG8XI" title="https://youtu.be/1Q60yBQG8XI">şu</a> videoda görülen olay. şam'ın savaş sayesinde nasıl bir hayalet şehre döndüğünü adeta gözler önüne sermiş.
+    suriye'de çekilen <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/1Q60yBQG8XI" title="https://youtu.be/1Q60yBQG8XI">şu</a> videoda görülen olay. şam'ın savaş yüzünden nasıl bir hayalet şehre döndüğünü adeta gözler önüne sermiş.
   entry_writer: rolandmicrocube
 - entry_name: |
     pilotun yanlış haritayı alması
@@ -80,12 +80,6 @@ data:
   entry_content: |
     buyrun benim. hayatta en net olduğum tek konu.<br/><br/>daha önce bu konuda bir entry'im vardı bilen bilir fazla duygusal olduğu için sildim. yok. bende genetik olarak kodlanmamış bu annelik içgüdüsü. 28 yaşındayım 20 yaşından beri böyle düşünüyorum yeni bir fikrim bile değil bu. tüm arkadaşlarım da biliyor hatta birinde çocuğu olan bir arkadaşımı ziyerete gittiğimde kaynanası seninkini merakla bekliyoruz dediğinde nasıl yüzüm bir hal aldıysa arkadaşım atladı "aaeon'un öyle pek çocuk sevgisi yok" diye. birinde bundan 5-6 sene önce bir doktora gittiğimde bir konu ile ilgili doktora gittiğimde bana "çocuğun güç olabilir ilerde belki tüp bebek tedavisi felan deneyebilirsin" dedi. hiç üzülmedim. bir çocuğa ömrüm boyunca kol kanat germek o fedakarlığı yapmak bana korkunç geliyor. hani mesela nasıl bazı erkekler evlilik bana göre değil evlenirsem aldatırım kimsenin kalbini kırmaya gerek yok der benim de tek eşlilik konusunda değil(yanlış anlaşılmasın) ama çocuk yapmak konusunda fikirlerim bu yönde. ben o fedakarlığı yapamam. gece uykularından feda edip sürekli onunla ilgilenmek fikri bana göre değil. hadi adamdam boşandın o çocuk ne olacak? geleceği.. vs vs. ben de bu konuda kendimi biliyorum. arkadaşlarımın çocukları nedendir bilinmez bayılırlar bana ama benden hala olur, teyze olur, eş, olur, dost olur anne olmaz. zaten ben de istemiyorum. bencilse de evet bencilim. ben alışmışım her istediğimi her an yapmaya çalışmaya. canım sıkıldı diyince hemen deniz kenarına gitmeye akşam şuraya gitmek istiyorum dediğimde gitmeye çocukla bu yapılabilir mi mümkün değil. en yakın arkadaşımın 2 çocuğu var o bile bana "çocuklar uyudu hemen gel kahve içelim" diyor biliyor çocuklara sabırlı olmadığımı.<br/><br/>ne diyelim bazı insanlardan da iyi bir eş,dost,arkadaş,hala,teyze olur ama anne olmaz.<br/><br/>benim gibi...
   entry_writer: aaeon
-- entry_name: |
-    petr cech kasksız
-  entry_id: 55667615
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+formats%c4%b1z">ekşi sözlük formatsız</a>)
-  entry_writer: ilqim
 - entry_name: |
     emekli olacak imamı son rekatta sırtlayan cemaat
   entry_id: 55653733
@@ -120,7 +114,7 @@ data:
     volkswagen jetta ve caddy'nin satışlarının durması
   entry_id: 55659102
   entry_content: |
-    peki bu durum eldeki jetta ve caddy'lerin piyasasını nasıl etkiler? az bulunuyor diye değerlenir mi yoksa milletin elinde mi patlamış oldu?<br/><br/>ahmet hakan tarzı çanak soru sordum size ibneler. aydınlatın ahaliyi.
+    peki bu durum eldeki jetta ve caddy'lerin piyasasını nasıl etkiler? az bulunuyor diye değerlenir mi yoksa milletin elinde mi patlamış oldu?<br/><br/>ahmet hakan tarzı çanak soru sordum size ibneler. aydınlatın ahaliyi.<br/><br/>edit: bu debe editi değildir! şimdi arkadaşlar hemen her konuda olduğu gibi bu konuda da çeşitli görüşler hakim. kimi fiyatların olumlu yönde etkileneceğini, kimsenin emisyon değerini umursamayacağını iddia ederken kimileri de araçların elde patladığını söylüyor. yinede yoğunluk araçların özelikle 2. el piyasasında değer kazanacağı yönünde.
   entry_writer: tucek
 - entry_name: |
     üniversiteli kayserisporlular
@@ -132,7 +126,7 @@ data:
     istanbul pahalı bir şehirdir yalanı
   entry_id: 55652988
   entry_content: |
-    (bkz: <a class="b" href="/?q=nick-entry+uyumu">nick-entry uyumu</a>)<br/><br/>istanbul'da 500 liraya ya merkezi yerlerde ahırda oturursunuz ya da istanbul diye beylikdüzünde 1+1 bulursunuz. diğer şehirlerde de eli yüzü düzgün 2+1 - 3+1 evlerin kirası 500-600 civarı.<br/><br/>istanbul'da dışarıda 2 tavuk döner 2 ayrana 22 tl verirsiniz.<br/><br/>istanbul'da bir yerden bir yere ulaşmak saatler sürerken diğer şehirlerde max 45 dakika ki o da şehrin iki ucuysa. (antalya kepez - lara, ankara kızılay - eryaman, izmir konak - çiğli vs.) istanbulda ise taksim'den mesela bağcılara dönmek 45 dakika ki en hızlı ulaşım araçlarıyla.<br/><br/>istanbul trafiği<br/><br/>insan kalabalığı ki bu ikisi bile insanın ruh halini bozmaya yeter.<br/><br/>yalan değil gerçek olan durum
+    (bkz: <a class="b" href="/?q=nick-entry+uyumu">nick-entry uyumu</a>)<br/><br/>istanbul'da 500 liraya ya merkezi yerlerde ahırda oturursunuz ya da istanbul diye esenyurtta 1+1 bulursunuz. diğer şehirlerde de eli yüzü düzgün 2+1 - 3+1 evlerin kirası 500-600 civarı.<br/><br/>istanbul'da dışarıda 2 tavuk döner 2 ayrana 22 tl verirsiniz.<br/><br/>istanbul'da bir yerden bir yere ulaşmak saatler sürerken diğer şehirlerde max 45 dakika ki o da şehrin iki ucuysa. (antalya kepez - lara, ankara kızılay - eryaman, izmir konak - çiğli vs.) istanbulda ise taksim'den mesela bağcılara dönmek 45 dakika ki en hızlı ulaşım araçlarıyla.<br/><br/>istanbul trafiği<br/><br/>insan kalabalığı ki bu ikisi bile insanın ruh halini bozmaya yeter.<br/><br/>yalan değil gerçek olan durum
   entry_writer: yoga yapan mistiq kedi
 - entry_name: |
     a milli takımın alacağı primin mahkemelik olması
@@ -152,12 +146,6 @@ data:
   entry_content: |
     <('_')>...... \('' ).('' ).<br/>... |.............. |.\..<br/>... /\............. /\...<br/><br/>şeklinde betimlenen olaydır.
   entry_writer: meshur olmak isteyen cig kofteci
-- entry_name: |
-    italya'nın işyerinde 31'i serbest kılması
-  entry_id: 55660536
-  entry_content: |
-    artık iş yerindeki tüm evraklar için,<br/>(bkz: <a class="b" href="/?q=denedim+yab%c4%b1%c5%9f%c4%b1yo+sayfalar">denedim yabışıyo sayfalar</a>)
-  entry_writer: karga boku
 - entry_name: |
     20 ekim 2015 bir papağana tecavüz edilmesi
   entry_id: 55660081
@@ -180,7 +168,7 @@ data:
     star wars episode vii the force awakens
   entry_id: 55657890
   entry_content: |
-    36 yasindayim. evinde duvarlarda darth vader posterleri olan cinsten bir malim.<br/><br/>filmin boktan mi olacagi, cok sahane mi olacagi vs zerre umrumda degil an itibariyle, filmin kalitesini 3-4 defa seyrettikten, aylar gectikten sonra tartisabilir duruma gelirim.<br/><br/>su an trailerlari done done izliyor, gun sayiyorum. yok "30 yasin ustunde kimse heyecanlanmazmis, da bilmemneymis" hasiktirin memnuniyetsiz, gudubet ruh hastalari. dunyanin ote ucundan ilkokul arkadasim telefon acti "ogluuuuummmm han 'ıt's all true' diyince ciglik attim laaaan" diye.<br/><br/>yarrak kafalilar sizi be, bir seye bok atmayin, keyif almayi heyecanlanmayi becerin. ne skik hayatlariniz var, her seyi ne kadar zorlastiriyorsunuz kendiniz icin lan. ruh hastalari...
+    36 yasindayim. evinde duvarlarda darth vader posterleri olan cinsten bir malim.<br/><br/>filmin boktan mi olacagi, cok sahane mi olacagi vs zerre umrumda degil an itibariyle, filmin kalitesini 3-4 defa seyrettikten, aylar gectikten sonra tartisabilir duruma gelirim.<br/><br/>su an trailerlari done done izliyor, gun sayiyorum. yok "30 yasin ustunde kimse heyecanlanmazmis, da bilmemneymis" hasiktirin memnuniyetsiz, gudubet ruh hastalari. dunyanin ote ucundan ilkokul arkadasim telefon acti "ogluuuuummmm han 'ıt's all true' diyince ciglik attim laaaan" diye.<br/><br/>yarrak kafalilar sizi be, bir seye bok atmayin, keyif almayi heyecanlanmayi becerin. ne skik hayatlariniz var, her seyi ne kadar zorlastiriyorsunuz kendiniz icin lan. ruh hastalari...<br/><br/>edit: rektum nickli, oksijen israfi dallamanin teki ozelden mesaj atmis "senin de arkadasinin da gecmisini sikeyim" diye.<br/>ruh hastasi lan millet.
   entry_writer: diem perdidi
 - entry_name: |
     21 ekim 2015 marty mcfly'ın gelişi
