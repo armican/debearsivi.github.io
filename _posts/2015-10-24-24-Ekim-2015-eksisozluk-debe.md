@@ -6,7 +6,7 @@ data:
     23 ekim 2015 engin ardıç cumhuriyet yazısı
   entry_id: 55721323
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>kılıçdaroğlu'nun demek istediği "akp'ye oy vermeyin"<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ya ne diyecekti?<br/><br/>(bkz: <a class="b" href="/?q=mal+bu+%c3%a7ocuk+ya">mal bu çocuk ya</a>)
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>kılıçdaroğlu'nun demek istediği "akp'ye oy vermeyin"<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ya ne diyecekti?<br/><br/>(bkz: <a class="b" href="/?q=mal+bu+%c3%a7ocuk+ya">mal bu çocuk ya</a>)<br/><br/>debe editi: bunun gibilere fırsat vermemek için 1 kasımda tatili boşverin.
   entry_writer: voltranin sag kolu
 - entry_name: |
     nerede bir zalim varsa biz onun yanında olacağız
@@ -24,13 +24,13 @@ data:
     ilköğretime arapça dersi konulması
   entry_id: 55718707
   entry_content: |
-    bu arap s*kinde ne varsa artık, bir özentidir gidiyor.
+    bu arap s*kinde ne varsa artık, bir özentidir gidiyor.<br/><br/>debe editi: ülkeniz için gelin 1 gününüzü ayırın oy ve ötesi'de üye olup sandık müşahiti olun. gönüllü sayısı 7 haziran seçimlerine göre azmış.
   entry_writer: daydreamer34
 - entry_name: |
     23 ekim 2015 chp'nin biz varız reklamı
   entry_id: 55733491
   entry_content: |
-    komik bulanlar kendi götlerini açıp bakıp gülebilir. verilmek istenen mesajı algılayacak beyni olmayanların bok attığı reklamdır. yok nasıl yürüyüşmüş sen nasıl yürüyorsun hırt.
+    komik bulanlar kendi götlerini açıp bakıp gülebilir. verilmek istenen mesajı algılayacak beyni olmayanların bok attığı reklamdır. yok nasıl yürüyüşmüş sen nasıl yürüyorsun hırt.<br/><br/>debe edit: şeffaf, demokratik, adil ve güvenilir bir seçim için birbirimizin oyuna sahip çıkmamız gerekmektedir. tamamiyle gönülülük usulüne göre çalışıp, oy kullanma süreci içinde oy kullandığınız sandığın selametini sağlayan oy ve ötesi oluşumunun yeni gönüllülere ihtiyacı var. desteklerinizi bekliyorlar.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.oyveotesi.org/" title="http://www.oyveotesi.org/">http://www.oyveotesi.org/</a>
   entry_writer: accoutre
 - entry_name: |
     gözleri birbirinden farklı renklerde olan kız
@@ -48,7 +48,7 @@ data:
     arapça düşmanlığı
   entry_id: 55724704
   entry_content: |
-    "arapça düşmanlığı" yanlış algı yaratmaya çalışan bir başlık. şöyle ki, arapça ticari açıdan gayet ve gayet avantajlı bir dil ve çocukların bunu ülkeyi kalkındırmak amacıyla kendilerini geliştirme esaslı öğrenmesi güzel olur. <br/><br/>gelgelelim biz laikçilerdeki düşmanlık arapça'ya değil, arapça'nın kültürümüze tamamen dini dayanaklarla zorla entegre ettirilmeye çalışılan "arap seviciliği"nin bir parçası olarak dayatılması. araplara dair hiçbişey sevmem. 2 seçenek var birini seç deseler orta asya türklüğünü seçerim, islami arap kültüründe erimiş türklüğü değil. <br/><br/>dünyada bilimin 2 dili var: biri latince diğeri ingilizce. mühendisliğin dili de almanca ile japonca. ticaret dilleri de rusça, arapça ve ispanyolca. eğer ticaret yönlü dil eğitimi vereceksek neden rusça ve ispanyolca'yı da müfredata opsiyonel olarak "üç dilden birini seçin" diye eklemiyorlar? hm? çünkü empoze ettirilmeye çalışılan şey arap kültürü, dili değil. araplar insanlığın gelişimine ne katkıda bulunmuş diye adama sorarlar.
+    "arapça düşmanlığı" yanlış algı yaratmaya çalışan bir başlık. şöyle ki, arapça ticari açıdan gayet ve gayet avantajlı bir dil ve çocukların bunu ülkeyi kalkındırmak amacıyla kendilerini geliştirme esaslı öğrenmesi güzel olur. <br/><br/>gelgelelim biz laikçilerdeki düşmanlık arapça'ya değil, arapça'nın kültürümüze tamamen dini dayanaklarla zorla entegre ettirilmeye çalışılan "arap seviciliği"nin bir parçası olarak dayatılması. araplara dair hiçbişey sevmem. 2 seçenek var birini seç deseler orta asya türklüğünü seçerim, islami arap kültüründe erimiş türklüğü değil. <br/><br/>dünyada bilimin 2 dili var: biri latince diğeri ingilizce. mühendisliğin dili de almanca ile japonca. ticaret dilleri de rusça, arapça ve ispanyolca. eğer ticaret yönlü dil eğitimi vereceksek neden rusça ve ispanyolca'yı da müfredata opsiyonel olarak "üç dilden birini seçin" diye eklemiyorlar? hm? çünkü empoze ettirilmeye çalışılan şey arap kültürü, dili değil. araplar insanlığın gelişimine ne katkıda bulunmuş diye adama sorarlar.<br/><br/>edit: algoritma ve el-cebir bulmuşlar, bundan 1100 yıl önce. ama bu matematik formüllerini uzaya uydu göndermek için kullanan ülkeler ingilizce konuşuyor. araplar günümüzde götünü silmekten aciz. özetle onların dilini öğrenmek zorunlu olmamalı.
   entry_writer: ancient aliens hair guy
 - entry_name: |
     saab'ın türkiye ile çalışmadık açıklaması
@@ -93,7 +93,7 @@ data:
     "du bakalım bekle bi.."
   entry_writer: bnl dgr
 - entry_name: |
-    taksiciye beni buradan 7 tl lik uzaklaştır demek
+    taksiciye beni buradan 7 tl'lik uzaklaştır demek
   entry_id: 55732182
   entry_content: |
     50 karakter sinirini aşamadım anne. <br/><br/>olası tam başlık : taksiye binip abi beni buradan 7 tl lik uzaklaştır demek<br/><br/>bugün yaptığım hadise. sevmediğim insanlar ile dolu bir yerdeydim her taraftan gelmeye başlayınca bu tipler ben de cebimdeki 10 lirayı çıkarıp 3 ünü yediğim dönere kalan 7 yi de taksiye ayırdım. yalnız şaka maka 2 adımlık yola 7 lira aldı herif.
@@ -114,7 +114,7 @@ data:
     23 ekim 2015 hayatımın en mutlu günü
   entry_id: 55733001
   entry_content: |
-    (bkz: <a class="b" href="/?q=evlenmen+%c3%a7ok+hojtur+ama+bize+na">evlenmen çok hojtur ama bize na</a>)
+    (bkz: <a class="b" href="/?q=evlenmen+%c3%a7ok+hojtur+ama+bize+na">evlenmen çok hojtur ama bize na</a>)<br/><br/>edit: debe'ye girmişiz yahu, yaa aslında böyle basit bir bakınızla debeye girmek istemezdim, nice bilgi dolu entrym... yok yahuuu, yazı böyle bir şeydir, bir olay karşısında çoğu insanın hem fikir olduğu bir tespiti, eğlenceli bir dille yazmak ve beğenilmek de, atom fiziği üzerine yazılan 200 satırlık entry kadar değerlidir. bu tip yazarlara uyuz olduğum için elime fırsat geçmişken söylemek istedim.
   entry_writer: wilhelmwasmuss
 - entry_name: |
     3 bin lira benim makyaj param bile değil
@@ -186,13 +186,13 @@ data:
     ozan tufan
   entry_id: 55721305
   entry_content: |
-    fenerbahçe'ye transfer olarak babasını çalışmaktan kurtaran; ancak bu sefer de oynadığı oyunla annesini ateşe atan oyuncumsu..
+    fenerbahçe'ye transfer olarak babasını çalışmaktan kurtaran; ancak bu sefer de oynadığı oyunla annesini ateşe atan oyuncumsu..<br/><br/>debe editi: biraz az ye az.. bidon olma, efsane ol..
   entry_writer: maca yedilisi
 - entry_name: |
     23 ekim 2015 fransa'da yaşanan trafik kazası
   entry_id: 55720840
   entry_content: |
-    (bkz: <a class="b" href="/?q=metro+turizmin+fransada+sefere+ba%c5%9flamas%c4%b1">metro turizmin fransada sefere başlaması</a>)
+    (bkz: <a class="b" href="/?q=metro+turizmin+fransada+sefere+ba%c5%9flamas%c4%b1">metro turizmin fransada sefere başlaması</a>)<br/><br/>edit: 1 kasım'da oy vermeyi unutmayın! oy vermek yetmez. oyunuza sahip çıkın.
   entry_writer: dusuncenize saygiliyim ama sikimde degil
 - entry_name: |
     46 milyar piksellik fotoğraf
@@ -204,13 +204,13 @@ data:
     sokak kedilerinden korunma yöntemi
   entry_id: 55735333
   entry_content: |
-    acik soyluyorum buradan! <br/>kedi'ye , kopege tekme atan , zarar veren olursa andolsun ki herseyi goze alir dalarim!<br/>sesi solugu cikmayan, birsey bulursa yiyen, birsey bulursa icen, bulamazsa mahzun mahzun ortalarda dolasan zavalliciklardan ne istiyorsunuz ulan kitapsizlar!<br/>onlarin tek istedigi karinlarinin doymasi, biraz da sevgi...<br/>baska ne var ki ya?<br/>baska ne var?<br/>neyin dusmanligi bu!<br/>acimasiz herifler!<br/>allah sizi hasbelkader insan kiliginda yaratti diye zulum mu edeceksiniz o canlara?<br/>tekmeyi savururmus!<br/>buyuk konusmamayim ama benim onumde savurmayin tekmeyi!<br/>savurmayin!<br/>tanim: kediler ve kopekler korunulacak degil, korunmasi gereken canlilardir!<br/>tipki digerleri gibi!<br/>vicdansizlar!
+    acik soyluyorum buradan! <br/>kedi'ye , kopege tekme atan , zarar veren olursa andolsun ki herseyi goze alir dalarim!<br/>sesi solugu cikmayan, birsey bulursa yiyen, birsey bulursa icen, bulamazsa mahzun mahzun ortalarda dolasan zavalliciklardan ne istiyorsunuz ulan kitapsizlar!<br/>onlarin tek istedigi karinlarinin doymasi, biraz da sevgi...<br/>baska ne var ki ya?<br/>baska ne var?<br/>neyin dusmanligi bu!<br/>acimasiz herifler!<br/>allah sizi hasbelkader insan kiliginda yaratti diye zulum mu edeceksiniz o canlara?<br/>tekmeyi savururmus!<br/>buyuk konusmamayim ama benim onumde savurmayin tekmeyi!<br/>savurmayin!<br/>tanim: kediler ve kopekler korunulacak degil, korunmasi gereken canlilardir!<br/>tipki digerleri gibi!<br/>vicdansizlar!<br/><br/>debe editi: sayenizde bu entry debe'ye girdi. adettendir, birseyler yazilir. benim de yazmak istedigim, malum kis geliyor. bu canlilar icin zor gunler basliyor sokaklarda.yemek bulmalari, su bulmalari artik daha guc. lutfen mumkunse eger, imkanimiz olcusunde kucuk kaplari uygun yerlere koyup, cope dokmek yerine bu arkadaslara verelim. basit bir kutucuk, belki donmalarini onler.koyalim. unutmayiniz ki' biz birsey vermezsek, onlar malesef yasayamaz.sevgiyi yasatin!
   entry_writer: nickime takmiyorum
 - entry_name: |
     beşiktaş
   entry_id: 55719896
   entry_content: |
-    sabahın yedisinde telefon çalıyor. evet, sizin aklınızdan geçen benimde aklımdan geçti bir an. acaba birisinin başına bir şeymi geldi diye. bir baktım ki benim oğlan arıyor te 600 km öteden ;<br/><br/>+ babuşum ?<br/>- ya annem dün erkenden yatırdı beni. interneti de yasakladı. ne oldu bizim maç ?<br/>+ eyvah<br/>- ne oldu baba ?<br/><br/>"ya oğlum daha 8 yaşındasın. ne bu böyle erkenden kansere bulaşıyorsun ? niye bana çekiyorsun daha bu yaştan !" diyecektim ki o an onu üzmemek adına ne diyeceğimi de bilemedim.<br/><br/>+ super mario çok güzel gol attı babam. 1-1 bitti maç ama yine ikinciyiz. istediğimizi aldık merak etme. hadi sen yat. <br/>- (sessizlik) telefon kapanır.<br/><br/>cevap vermeden kapadı telefonu. artık hangi duygular içinde neler yaptıysa o an. akşam okuldan çıktığında öğreneceğim.
+    sabahın yedisinde telefon çalıyor. evet, sizin aklınızdan geçen benimde aklımdan geçti bir an. acaba birisinin başına bir şeymi geldi diye. bir baktım ki benim oğlan arıyor te 600 km öteden ;<br/><br/>+ babuşum ?<br/>- ya annem dün erkenden yatırdı beni. interneti de yasakladı. ne oldu bizim maç ?<br/>+ eyvah<br/>- ne oldu baba ?<br/><br/>"ya oğlum daha 8 yaşındasın. ne bu böyle erkenden kansere bulaşıyorsun ? niye bana çekiyorsun daha bu yaştan !" diyecektim ki o an onu üzmemek adına ne diyeceğimi de bilemedim.<br/><br/>+ super mario çok güzel gol attı babam. 1-1 bitti maç ama yine ikinciyiz. istediğimizi aldık merak etme. hadi sen yat. <br/>- (sessizlik) telefon kapanır.<br/><br/>cevap vermeden kapadı telefonu. artık hangi duygular içinde neler yaptıysa o an. akşam okuldan çıktığında öğreneceğim.<br/><br/>*okul çıkışı görüşmesi : <a class="b" href="/entry/55744110">#55744110</a>
   entry_writer: kaleydoskop
 - entry_name: |
     emlak balonu
@@ -228,7 +228,7 @@ data:
     içkiyi şeffaf poşette taşıyoruz kampanyası
   entry_id: 55720794
   entry_content: |
-    <a class="b" href="/?q=i%c3%a7ki+oldu%c4%9fu+anla%c5%9f%c4%b1lmas%c4%b1n+diye+verilen+siyah+po%c5%9fet">içki olduğu anlaşılmasın diye verilen siyah poşet</a> ile yıllardır dincinin hacının hocanın ekmeğine yağ sürüyoruz. içki tercihimizin utanılacak gizlenilecek bir şey olduğunu kendimiz kabul ediyoruz. bence bir noktada organize olup bu muhabbeti bitirmek lazım.
+    <a class="b" href="/?q=i%c3%a7ki+oldu%c4%9fu+anla%c5%9f%c4%b1lmas%c4%b1n+diye+verilen+siyah+po%c5%9fet">içki olduğu anlaşılmasın diye verilen siyah poşet</a> ile yıllardır dincinin hacının hocanın ekmeğine yağ sürüyoruz. içki tercihimizin utanılacak gizlenilecek bir şey olduğunu kendimiz de kabul etmiş duruma düşüyoruz. bence bir noktada organize olup bu muhabbeti bitirmek lazım.
   entry_writer: kusmuk
 - entry_name: |
     peluş molotof
@@ -258,7 +258,7 @@ data:
     batman v superman dawn of justice
   entry_id: 55728360
   entry_content: |
-    <a class="b" href="/?q=total+film">total film</a> kapağında batman'in tüm karizmasının gittiği resmen yaramazlık yapacak çocuk gibi durduğu filmdir.
+    <a class="b" href="/?q=total+film">total film</a> kapağında batman'in tüm karizmasının gittiği resmen yaramazlık yapacak çocuk gibi durduğu filmdir.<br/><br/>edit: o kadar entry arasında bununla debe'ye girebileceğimi hiç düşünmemiştim.
   entry_writer: alex moran
 - entry_name: |
     develi restoran'da çocuklara kezzap atılması
@@ -273,7 +273,7 @@ data:
     ben o sulu amcığı yalarken ne zevk alıyorsam onun da amacı odur.<br/><br/>partnerini kıvranırken görmek paha biçilemez.<br/><br/>edit: oha lan nooluyo ancuk mancuk... tamam sakinim.
   entry_writer: supertosbaa
 - entry_name: |
-    sevişirken erkeğine erkeğim diye erkek
+    sevişirken erkeğine erkeğim diyen erkek
   entry_id: 55728171
   entry_content: |
     ilk 6 ay çaylaklık süreci önemli.
