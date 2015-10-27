@@ -60,7 +60,7 @@ data:
     26 ekim 2015 diyarbakır ışid çatışması
   entry_id: 55786740
   entry_content: |
-    ışid sevici ülkücü ve akp'li tayfayı sessizliğe boğmuştur. orospu çocukları ışid'ten böyle birşey beklemiyordu heralde.
+    ışid sevici ülkücü ve akp'li tayfayı sessizliğe boğmuştur. orospu çocukları ışid'ten böyle birşey beklemiyordu heralde.<br/><br/>edit: gidin oyunuzu verin ve sahip çıkın. kimin ne olduğunu biliyorsunuz artık. ortalığı çakal çukala bırakmayın.
   entry_writer: geldik
 - entry_name: |
     atiba hutchinson
@@ -132,7 +132,7 @@ data:
     esnaf lokantasında yemek yiyen kız
   entry_id: 55792440
   entry_content: |
-    benim. öncelikle (bkz: <a class="b" href="/?q=k%c4%b1z+de%c4%9fil+kad%c4%b1n">kız değil kadın</a>). bir kase ota multinet'i gömmeyi ne içim ne de midem el vermediği için, yemek yediğim yerleri statü simgesi haline getirmediğim için, bildiğimiz kıymalı makarnanın acayip acayip isimler ve iğrenç soslarla servis edilmesinden hoşlanmadığım için, özetle enayi yerine konmamak için genellikle esnaf lokantasında yiyorum.
+    benim. öncelikle (bkz: <a class="b" href="/?q=k%c4%b1z+de%c4%9fil+kad%c4%b1n">kız değil kadın</a>). bir kase ota multinet'i gömmeyi ne içim ne de midem el vermediği için, yemek yediğim yerleri statü simgesi haline getirmediğim için, bildiğimiz kıymalı makarnanın acayip acayip isimler ve iğrenç soslarla servis edilmesinden hoşlanmadığım için, özetle enayi yerine konmamak için genellikle esnaf lokantasına yiyorum.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=dilek+do%c4%9fan">dilek doğan</a>)<br/><br/>debe editi 2: lan? mesaj atıp durmayın, manyak mısınız? ışığı gören geliyor. aikido & judo biliyorum ağzınızı kırarım.ım.
   entry_writer: mornehir
 - entry_name: |
     fernando muslera
@@ -162,7 +162,7 @@ data:
     acun ılıcalı'yı anlatan filme isim önerileri
   entry_id: 55793160
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c4%b1ss%c4%b1z+acun">ıssız acun</a>)
+    (bkz: <a class="b" href="/?q=%c4%b1ss%c4%b1z+acun">ıssız acun</a>)<br/><br/>edit: başlık başa.
   entry_writer: eylul firtinasi
 - entry_name: |
     13600 tl harcayın 10 tl bonus kazanın
@@ -192,10 +192,10 @@ data:
     şenol güneş
   entry_id: 55802220
   entry_content: |
-    şöyle bir gol sevinci olan über hoca.<br/><br/>(bkz: <a class="b" href="/?q=gooooolllllllllllllllllgellllgelgelllllgell">gooooolllllllllllllllllgellllgelgelllllgell</a>)
+    şöyle bir gol sevinci olan über hoca.<br/><br/>(bkz: <a class="b" href="/?q=gooooolllllllllllllllllgellllgelgelllllgell">gooooolllllllllllllllllgellllgelgelllllgell</a>)<br/><br/>debe edit: ne mutlu türküm diyene .
   entry_writer: ssg nin pederi
 - entry_name: |
-    bizden de bi dikatatör çıksın diyen akp'li dayı
+    bizden de bir diktatör çıksın diyen akp'li dayı
   entry_id: 55805234
   entry_content: |
     saf olmayan bir dayıdır. <br/><br/>kimse kusura bakmasın, saflık böyle bir şey değil. cehalette böyle bir şey değil, bu düpedüz aptallıktır, aptallığın somutlaşmış, insan olmuş halidir. <br/><br/>aynı şekilde kamerayı görünce aklını yitiren bir aptaldır. ipi çekin şuracıkta hemen demek için baya gerizekalı olmak gerekiyor.<br/><br/>cahillik böyle bir şey değil, benim annanemde okumamıştı, çoğu konuda bilgisizdi ama hemen hemen her konuda benden daha akıllıydı, daha iyi analiz ederdi, bu dayı ise düpedüz gerizekalıdır, karaktersizdir, çomardır. rüzgar ters yönde estiği an yerdeki çimenlerden önce yönünü değiştirecek bir şeydir.
@@ -234,7 +234,7 @@ data:
     sayısalcıların boktan sosyal analizler yapması
   entry_id: 55805295
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c4%b1%c5%9fid+ile+aram%c4%b1zda+360+derece+fark+var">ışid ile aramızda 360 derece fark var</a>)<br/>konu kilit.
+    (bkz: <a class="b" href="/?q=%c4%b1%c5%9fid+ile+aram%c4%b1zda+360+derece+fark+var">ışid ile aramızda 360 derece fark var</a>)<br/>konu kilit.<br/><br/>debe budutu(bkz: <a class="b" href="/entry/55786760">#55786760</a>)
   entry_writer: epicfail1234
 - entry_name: |
     suudi arabistan'ın 5 yıl sonra iflas edecek olması
@@ -252,7 +252,7 @@ data:
     dövdükleri çocuğun kanıyla hdp yazdılar
   entry_id: 55802503
   entry_content: |
-    (bkz: <a class="b" href="/?q=a%c3%a7may%c4%b1n+sabah">açmayın sabah</a>)
+    (bkz: <a class="b" href="/?q=a%c3%a7may%c4%b1n+sabah">açmayın sabah</a>)<br/><br/>debe budutu (bkz: <a class="b" href="/entry/55786760">#55786760</a>)
   entry_writer: epicfail1234
 - entry_name: |
     the walking dead
