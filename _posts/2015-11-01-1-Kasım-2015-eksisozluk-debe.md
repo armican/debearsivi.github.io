@@ -33,16 +33,10 @@ data:
     aşk acısı çeken birini dinlemek. <br/><br/>" hayat devam ediyor " tesellisini ısrarla anlatmaya çalışmak.
   entry_writer: seni senden calan toplumdur
 - entry_name: |
-    31 ekim 2015 trt propaganda konuşmaları
-  entry_id: 55910165
-  entry_content: |
-    <a class="b" href="/?q=cem+toker">cem toker</a> sağlam bir laf etti. <br/><br/>"darbeciler diyoruz ama biz o darbecilerin yaptığı 82 anayasası sayesinde bu ekranlardan sizlere seslenebiliyoruz. mevcut sivil zihniyete kalsa, biz bu kanalın önünden bile geçemeyiz"
-  entry_writer: mesglsn sanirm bn yatiyrm
-- entry_name: |
     merve boluğur
   entry_id: 55915129
   entry_content: |
-    (bkz: <a class="b" href="/?q=zilan+sen+misin">zilan sen misin</a>)<br/><br/>edit : sövüp sövüp kaçıyorsunuz, sonra böyle mal gibi kalıyorum. çok ayıp ediyorsunuz.
+    (bkz: <a class="b" href="/?q=zilan+sen+misin">zilan sen misin</a>)<br/><br/>edit : sövüp sövüp kaçıyorsunuz, sonra böyle mal gibi kalıyorum. çok ayıp ediyorsunuz.<br/>debe editi : iş bu entry bir yazarımızın ilgili şahsın fiziksel özelliklerine, oyunculuğuna yapılan <a class="b" href="/?q=u%c3%a7ar%c4%b1">uçarı</a> eleştiriler üzerine girilmiştir.
   entry_writer: konus sen dinliyorum
 - entry_name: |
     31 ekim 2015 domino's pizza rezaleti
@@ -78,7 +72,7 @@ data:
     üniversite mezunlarının işsiz kalma sebebi
   entry_id: 55909175
   entry_content: |
-    temel sebep ülkede son 50 yıldır iktidarda olan sağ partilerin üniversite eğitimini yozlaştırmasıdır. <br/><br/>iktidarın üniversite kurmayı oy alma mekanizması olarak görmesi sonucunda her ile, ilçeye bir üniversite açıldı. bir yere üniversite kurulursa buna en çok ev sahipleri ile esnaf sevinir. çünkü öğrenci nüfusu sayesinde kazanç kapısı açılır. ancak bu köylü kurnazı vatandaşların hiçbiri yapılan şeyin uzun vadede ülkenin geleceğine ihanet olduğunu ayırt edecek bilinç ve eğitim seviyesine sahip değildir.<br/><br/>altyapısı, donanımı, teknik imkanı, öğretim elemanı eksik tabela üniversitelerinin açılması o bölgedeki ekonomiyi geçici olarak canlandırır evet, ancak buralardan mezun olan yüzbinlerce genç insanın yetersiz, vasıfsız, kalitesiz bir üniversite eğitimi almasına neden olur. <br/><br/>bir kente üniversite kurmak için o bölgenin sınai, ticari, kültürel özelliklerine, istihdam ihtiyacına, demografik profiline, ekonomik yapısına dair ayrıntılı etüdler yapılması gerekir. bizdeki gibi ilkokul mezunu üç beş milletvekilinin oluşturduğu derme çatma komisyonlar tarafından karar verilemeyecek kadar ciddi ve liyakat isteyen bir iştir bu.<br/><br/>üstelik bir ülkede herkesin üniversite diplomasına sahip olması gerekli de doğru da değildir. temel eğitiminizi kaliteli yapar, mesleki eğitimi geliştirirseniz, kalifiye ara elemanlar yetiştirir ve vasıflı işgücü yaratırsınız. lisans eğitimini ise ancak ihtiyaç olan bölümlerde, meslek dallarında, ihtiyacı karşılayacak kadar eleman yetiştirmek için verirsiniz. bunun bir adım ötesi ise doğru düzgün lisansüstü eğitimi vermek ve kaliteli ar-ge faaliyetleri yürütmek, bilimsel bilgi, entelektüel birikim üretmektir.<br/><br/>kaliteli işgücü sonraki nesilleri daha iyi yetiştirir. bu bir döngüdür. ancak siz hocasız, laboratuvarsız, kütüphanesiz, kampüssüz tabela üniversiteleri açar, milyonlarca genci buralara doldurursanız ancak diplomalı cahiller ordusu üretirsiniz. küresel kapitalist rekabet çağında hiçbir aklı başında şirket sahibi sizin kıytırık üniversitelerinizden mezun işgücüne istihdam imkanı vermez elbette. iş ilanlarında bile yalnızca 3-5 üniversitenin ismiyle eleman aranır. <br/><br/>dilekçe yazmayı bilmeyen, kitap okumayan, kendi derdini doğru düzgün ifade edemeyen sözde üniversite mezunlarınız varken diğer ülkelerin iyi eğitim almış gençleriyle, işgücüyle aşık atamazsınız. verdiğiniz diplomaların yurtdışında kağıt parçası olmaktan başka bir değeri olmaz. teknoloji üretemezsiniz, girdi yaratamazsınız, bilim yapamazsınız.<br/><br/>ondan sonra lisans, yüksek lisans mezunu tezgahtarlar, garsonlar, işportacılardan, işsiz ordusundan geçilmez memleket. ancak suç bu gençlerde değil elbet. ilkokuldan üniversiteye kadar iyi bir eğitim alamamış, sorgulamayı, araştırmayı, şüphe etmeyi, okumayı, üretmeyi, demokratik haklarına sahip çıkmayı, birey olmayı içselleştirememiş kitleler olarak bu gençlerin kendilerine böyle bir kader sunan ve bunu "fıtrat" olarak kabullendiren soytarılara oy vermesi, tapınması gayet normaldir. <br/><br/>cehalet sarmalı böyle işler. cahil kitleler cahiller tarafından yönetilir.
+    temel sebep ülkede son 50 yıldır iktidarda olan sağ partilerin üniversite eğitimini yozlaştırmasıdır. <br/><br/>iktidarın üniversite kurmayı oy alma mekanizması olarak görmesi sonucunda her ile, ilçeye bir üniversite açıldı. bir yere üniversite kurulursa buna en çok ev sahipleri ile esnaf sevinir. çünkü öğrenci nüfusu sayesinde kazanç kapısı açılır. ancak bu köylü kurnazı vatandaşların hiçbiri yapılan şeyin uzun vadede ülkenin geleceğine ihanet olduğunu ayırt edecek bilinç ve eğitim seviyesine sahip değildir.<br/><br/>altyapısı, donanımı, teknik imkanı, öğretim elemanı eksik tabela üniversitelerinin açılması o bölgedeki ekonomiyi geçici olarak canlandırır evet, ancak buralardan mezun olan yüzbinlerce genç insanın yetersiz, vasıfsız, kalitesiz bir üniversite eğitimi almasına neden olur. <br/><br/>bir kente üniversite kurmak için o bölgenin sınai, ticari, kültürel özelliklerine, istihdam ihtiyacına, demografik profiline, ekonomik yapısına dair ayrıntılı etüdler yapılması gerekir. bizdeki gibi ilkokul mezunu üç beş milletvekilinin oluşturduğu derme çatma komisyonlar tarafından karar verilemeyecek kadar ciddi ve liyakat isteyen bir iştir bu.<br/><br/>üstelik bir ülkede herkesin üniversite diplomasına sahip olması gerekli de doğru da değildir. temel eğitiminizi kaliteli yapar, mesleki eğitimi geliştirirseniz, kalifiye ara elemanlar yetiştirir ve vasıflı işgücü yaratırsınız. lisans eğitimini ise ancak ihtiyaç olan bölümlerde, meslek dallarında, ihtiyacı karşılayacak kadar eleman yetiştirmek için verirsiniz. bunun bir adım ötesi ise doğru düzgün lisansüstü eğitimi vermek ve kaliteli ar-ge faaliyetleri yürütmek, bilimsel bilgi, entelektüel birikim üretmektir.<br/><br/>kaliteli işgücü sonraki nesilleri daha iyi yetiştirir. bu bir döngüdür. ancak siz hocasız, laboratuvarsız, kütüphanesiz, kampüssüz tabela üniversiteleri açar, milyonlarca genci buralara doldurursanız ancak diplomalı cahiller ordusu üretirsiniz. küresel kapitalist rekabet çağında hiçbir aklı başında şirket sahibi sizin kıytırık üniversitelerinizden mezun işgücüne istihdam imkanı vermez elbette. iş ilanlarında bile yalnızca 3-5 üniversitenin ismiyle eleman aranır. <br/><br/>dilekçe yazmayı bilmeyen, kitap okumayan, bırakın yabancı dil öğrenmeyi kendi dilinde bile derdini doğru düzgün ifade edemeyen sözde üniversite mezunlarınız varken diğer ülkelerin iyi eğitim almış gençleriyle, işgücüyle aşık atamazsınız. verdiğiniz diplomaların yurtdışında kağıt parçası olmaktan başka bir değeri olmaz. teknoloji üretemezsiniz, girdi yaratamazsınız, bilim yapamazsınız.<br/><br/>ondan sonra lisans, yüksek lisans mezunu tezgahtarlar, garsonlar, işportacılardan, işsiz ordusundan geçilmez memleket. ancak suç bu gençlerde değil elbet. ilkokuldan üniversiteye kadar iyi bir eğitim alamamış, sorgulamayı, araştırmayı, şüphe etmeyi, okumayı, üretmeyi, demokratik haklarına sahip çıkmayı, birey olmayı içselleştirememiş kitleler olarak bu gençlerin kendilerine böyle bir kader sunan ve bunu "fıtrat" olarak kabullendiren soytarılara oy vermesi, tapınması gayet normaldir. <br/><br/>cehalet sarmalı böyle işler. cahil kitleler cahiller tarafından yönetilir.
   entry_writer: hybrid yazar
 - entry_name: |
     zeo jaweed'in gezi için pişman olması
@@ -86,12 +80,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=zeo+jaweed+ne+lan">zeo jaweed ne lan</a>)
   entry_writer: mevsimler
-- entry_name: |
-    oy ve ötesi ile godaddy.com'un paralel olması
-  entry_id: 55911070
-  entry_content: |
-    yeni bir <a rel="nofollow" class="url" target="_blank" href="http://m.yeniakit.com.tr/yazarlar/ali-karahasanoglu/oy-ve-otesinde-sahtekarlik-tescillendi-12522.html" title="http://m.yeniakit.com.tr/yazarlar/ali-karahasanoglu/oy-ve-otesinde-sahtekarlik-tescillendi-12522.html">akit</a> sıçmığı.<br/><br/>girmek istemeyenler için ss; <a rel="nofollow" class="url" target="_blank" href="https://www.kolayresim.com/view/photo/usad7hrxqb6ndmtv/YCecr.jpg" title="https://www.kolayresim.com/view/photo/usad7hrxqb6ndmtv/YCecr.jpg">link</a><br/><br/>hadi cahilsiniz anladık da, abd kuruluşu olan dünya devi bir şirketi sırf abd'de olduğu için nasıl paralel diye damgalarsın aklım almıyor. şaka gibi.<br/><br/>edit: (bkz: <a class="b" href="/?q=%c3%b6zet+oy+ve+%c3%b6tesi+sand%c4%b1k+m%c3%bc%c5%9fahidi+e%c4%9fitimi">özet oy ve ötesi sandık müşahidi eğitimi</a>)
-  entry_writer: ikinci poseidon jr
 - entry_name: |
     iphone'un en büyük sorunu
   entry_id: 55906971
@@ -102,7 +90,7 @@ data:
     peki gönüllerden kaldırabildin mi hilafeti paşa
   entry_id: 55907498
   entry_content: |
-    (bkz: <a class="b" href="/?q=bilemiyorum+muhiddin">bilemiyorum muhiddin</a>)
+    (bkz: <a class="b" href="/?q=bilemiyorum+muhiddin">bilemiyorum muhiddin</a>)<br/><br/>debe editi:teröriste ve teröristle pazarlık edene oy yok!!<br/>boy verme oy ver!!
   entry_writer: rock and roll music
 - entry_name: |
     cumhuriyet halk partisi
@@ -114,7 +102,7 @@ data:
     durakta hunharca sevişen türbanlı kadın
   entry_id: 55908188
   entry_content: |
-    sevişemez net. o türbanı takıyorsa yol ortasında se-vi-şe-mez. o zaman takmayacak o bez parçasını. türban takmayanları orospu olarak gören zihniyet başına türban takıp yol ortasında sevişmeyecek. inandığı dine göre bu haramdır. sikerim onun özgürlüğünü!!! o türbanı taktığı andan itibaren artık özgür olmuyor mesele bu zaten.<br/><br/>ayrıca türkiye değil orası.<br/><br/>edit: bir de bu her konuda size ne diyenler çıktı amk. nasıl bize ne ya? olm böyle bir başlık açılmış mı? ben kayıtlı bir sözlük yazarı mıyım? ee size mi sorucaz amk hangi konuda yorum yapıp yapmayacağımızı mı? asıl size ne amk insanların hangi başlığa yazıp yazmadığından? birilerinden onay mı alacaz hangi başlığa yazalım diye? bi siktirin gidin ya. iyi o zaman biz de her başlığa gidip size ne yeaa diyelim. amk sığırları.
+    sevişemez net. o türbanı takıyorsa yol ortasında se-vi-şe-mez. o zaman takmayacak o bez parçasını. türban takmayanları orospu olarak gören zihniyet başına türban takıp yol ortasında sevişmeyecek. inandığı dine göre bu haramdır. sikerim onun özgürlüğünü!!! o türbanı taktığı andan itibaren artık özgür olmuyor mesele bu zaten.<br/><br/>ayrıca türkiye değil orası.<br/><br/>edit: bir de bu her konuda size ne diyenler çıktı amk. nasıl bize ne ya? olm böyle bir başlık açılmış mı? ben kayıtlı bir sözlük yazarı mıyım? ee size mi sorucaz amk hangi konuda yorum yapıp yapmayacağımızı?! asıl size ne amk insanların hangi başlığa yazıp yazmadığından? birilerinden onay mı alacaz hangi başlığa yazalım diye? bi siktirin gidin ya. iyi o zaman biz de her başlığa gidip size ne yeaa diyelim. amk sığırları.
   entry_writer: kalbini sokup okyanusa atan adam
 - entry_name: |
     efendiler yarın hilafeti ilan edeceğiz
@@ -150,19 +138,19 @@ data:
     31 ekim 2015 chelsea liverpool maçı
   entry_id: 55906665
   entry_content: |
-    liverpool'un mourinho'ya tokadı vuracağı maç.<br/><br/>skor veriyorum 1-3<br/><br/>bonus: <a rel="nofollow" class="url" target="_blank" href="http://goo.gl/Qsdr5A" title="http://goo.gl/Qsdr5A">şurada skor verip</a> bonus kazanabilirsiniz.
+    liverpool'un mourinho'ya tokadı vuracağı maç.<br/><br/>skor veriyorum 1-3<br/><br/>bonus: <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/bahisdoktoru/status/660815947872280577" title="https://twitter.com/bahisdoktoru/status/660815947872280577">şurada tahmin verip</a> ödül ve bonus kazanabilirsiniz.<br/><br/>debe: böyle saçma bir entry ile gündeme gelmek istemezdim, onlarca mesaj attınız, nasıl bildin sonucu diye, ne kadar kazandın diye.<br/>öncelikle söyliyeyim ki ben bu skor tahminini götümden uydurdum, doğru çıktı tamam ama asıl üstünde durulması gereken bu diktatör teknik adamın hala chelsea'mizin başında olması!<br/><br/>diktatör teknik adam istemiyoruz arkadaş, düşün chelsea'nin yakasından artık!
   entry_writer: pisidia
 - entry_name: |
     sözlükçülerin vücutlarına bakıp söyledikleri
   entry_id: 55916959
   entry_content: |
-    'halloween için hazırlanmama gerek yok'.
+    'halloween için hazırlanmama gerek yok'.<br/><br/>debe edit'i: kızlar çok yakışıklıyım aslında. alnımda çıban çıkmıştı, ondan şetmiştim. öpün de geçsin.
   entry_writer: jonathan safran foer
 - entry_name: |
     ilk buluşmadan sonra aramayan erkek
   entry_id: 55924540
   entry_content: |
-    before: (bkz: <a class="b" href="/entry/55613355">#55613355</a>)<br/>after: (bkz: <a class="b" href="/entry/55924119">#55924119</a>)<br/>gece gece yarıldım ya ahahahaah uykum kaçtı amk ahahahahahaha.<br/>işte türk kızı'nın özeti bu. bundan ötesi yok. şu görüntüyü alın çerçeveletip duvara asın beyler.
+    before: (bkz: <a class="b" href="/entry/55613355">#55613355</a>)<br/>after: (bkz: <a class="b" href="/entry/55924119">#55924119</a>)<br/>gece gece yarıldım ya ahahahaah uykum kaçtı amk ahahahahahaha.<br/>işte türk kızı'nın özeti bu. bundan ötesi yok. şu görüntüyü alın çerçeveletip duvara asın beyler.<br/><br/><a class="b" href="/?q=ekleme">ekleme</a>: çok mesaj geldi. birisi <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/QWz303.png" title="http://i.hizliresim.com/QWz303.png">şöyle</a> bir görsel hazırlamış. ayrıca soran da var, yazara mesaj attım gücenmemesi konusunda. entry'den haberi var, kendisi de güldü geçti. siz de gülün geçin lan ne o öyle görsel hazırlamalar falan. asmayın duvara bişi.
   entry_writer: taytsiz kral
 - entry_name: |
     2 kasım 2015 chp artı mhp'nin 276'yı bulması
@@ -210,7 +198,7 @@ data:
     hiç dişi ork olmaması
   entry_id: 55904623
   entry_content: |
-    ork diye bir ırk olmamasındandır. bugün ork diye tanıdığımız ırk aslında dağ elfleridir. dağlarda yürürken taşların çıkardığı 'ork ork ork' sesinden dolayı bu ismi almışlardır.
+    ork diye bir ırk olmamasındandır. bugün ork diye tanıdığımız ırk aslında dağ elfleridir. dağlarda yürürken taşların çıkardığı 'ork ork ork' sesinden dolayı bu ismi almışlardır.<br/><br/>debedit: bu espri daha önce yapılmış. çalmadım. tesadüf oldu. zaten lore'a hakim olan herhangi birinin yapabileceği bir espri. yine de kredi vermek icap eder:<br/><br/>(bkz: <a class="b" href="/entry/17770301">#17770301</a>)
   entry_writer: dick laurent
 - entry_name: |
     türkler fotoğraf çekiyor koreliler kazanıyor
@@ -222,7 +210,7 @@ data:
     pervin buldan'ın trt'de pkk propagandası yapması
   entry_id: 55913590
   entry_content: |
-    <a class="b" href="/?q=s%c3%b6zl%c3%bckteki+pkk+art%c4%b1klar%c4%b1">sözlükteki pkk artıkları</a>ndan birinin gelip hala "sen daha ne gördün ki" diyerek tehdit savurduğu, aklamaya çalıştığı propaganda.<br/><br/>haydi bakalım, sen rojava devrimini türkiye'ye taşımaya çalış da görelim.<br/><br/>siz ancak hastane bombalar, doktor öldürür, ambulans tararsınız <a class="b" href="/?q=pkk+art%c4%b1klar%c4%b1">pkk artıkları</a>.
+    <a class="b" href="/?q=s%c3%b6zl%c3%bckteki+pkk+art%c4%b1klar%c4%b1">sözlükteki pkk artıkları</a>ndan birinin gelip hala "sen daha ne gördün ki" diyerek tehdit savurduğu, aklamaya çalıştığı propaganda.<br/><br/>haydi bakalım, sen rojava devrimini türkiye'ye taşımaya çalış da görelim.<br/><br/>siz ancak hastane bombalar, doktor öldürür, ambulans tararsınız <a class="b" href="/?q=pkk+art%c4%b1klar%c4%b1">pkk artıkları</a>.<br/><br/><a class="b" href="/?q=edit">edit</a>: utanmadan hala pkk'nın yaptığı sözde şehitliğin tsk tarafından yerlebir edilmesini eleştiriyorlar.<br/>şeref yoksunu hadsizler.<br/>(bkz: <a class="b" href="/?q=mhp%27nin+pkk+%c3%b6ng%c3%b6r%c3%bclerinin+tek+tek+ger%c3%a7ekle%c5%9fmesi">mhp'nin pkk öngörülerinin tek tek gerçekleşmesi</a>)
   entry_writer: 0 5 ucu olan adam
 - entry_name: |
     hdp'ye oy vermek
@@ -240,7 +228,7 @@ data:
     31 ekim 2015 rus yolcu uçağının kaybolması
   entry_id: 55905204
   entry_content: |
-    rusların sorun yok demesi endişeleri daha da arttırmıştır. bu ruslar ne zaman sorun yok dese altından bir bokluk çıkıyor mutlaka. çernobil kazasından sonra da "sorun yok" demişlerdi. <br/><br/>acaba "sorun yok, biz zaten düşürecektik o uçağı" mı demek istediler? malum ortalık biraz karışık bu aralar.<br/><br/>umarım gerçekten sorun yoktur.<br/><br/>edit: uçak düşmüş. ruslar hakkında yine yanılmadım malesef.
+    rusların sorun yok demesi endişeleri daha da arttırmıştır. bu ruslar ne zaman sorun yok dese altından bir bokluk çıkıyor mutlaka. çernobil kazasından sonra da "sorun yok" demişlerdi. <br/><br/>acaba "sorun yok, biz zaten düşürecektik o uçağı" mı demek istediler? malum ortalık biraz karışık bu aralar.<br/><br/>umarım gerçekten sorun yoktur.<br/><br/>edit: uçak düşmüş. ruslar hakkında yine yanılmadım malesef.<br/><br/>debe editi: oyunuzu kullanın lütfen, oylarınıza sahip çıkın. ülke elden gidiyor.
   entry_writer: gastiro
 - entry_name: |
     seçimden sonra genelevleri kapatabiliriz
