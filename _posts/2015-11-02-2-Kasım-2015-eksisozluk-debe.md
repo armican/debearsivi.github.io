@@ -6,7 +6,7 @@ data:
     1 kasım 2015 türkiye erken genel seçim sonuçları
   entry_id: 55940396
   entry_content: |
-    evet bahçeli şimdi seni dinliyoruz. <br/>7 haziran'da <br/>-kılıçdaroğlu 2. parti olmasına rağmen başbakanlığı sana teklif etti yeter ki koalisyon kurulsun diye. <br/>-demirtaş "bakanlık istemeyiz , dışarıdan destekleriz önemli değil, yeterki akp'nin devlet içindeki kadrolaşmasını temizleyelim" dedi.<br/>-"istersen 1 sene sonra tekrar erken seçime de gidebiliriz" dediler.<br/>-sen ise dedin ki "hayır hayır hayır"<br/>e ne olacak şimdi, akp tek başına iktidar. <br/>tarih seni "tayyip'i başkan yapan adam" olarak hatırlayacak! tarihin en kötü siyasetçisi sensin !<br/>edit:imla<br/>edit2:ilk muhtemel debemi yaşayacağım için biraz heyacanlıyım hoşgörün :) ama yazım izinsiz alıntılanmış ve kaynak gösterilmemiş.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/zYOY0R.jpg" title="http://i.hizliresim.com/zYOY0R.jpg">yılmaz özdil yazıları adlı sayfa</a><br/>telif hakkının korunması büyük bir sorun. kanzuk'u bu dürüme el koymaya davet ediyorum.
+    evet bahçeli şimdi seni dinliyoruz. <br/>7 haziran'da <br/>-kılıçdaroğlu 2. parti olmasına rağmen başbakanlığı sana teklif etti yeter ki koalisyon kurulsun diye. <br/>-demirtaş "bakanlık istemeyiz , dışarıdan destekleriz önemli değil, yeterki akp'nin devlet içindeki kadrolaşmasını temizleyelim" dedi.<br/>-"istersen 1 sene sonra tekrar erken seçime de gidebiliriz" dediler.<br/>-sen ise dedin ki "hayır hayır hayır"<br/>e ne olacak şimdi, akp tek başına iktidar. <br/>tarih seni "tayyip'i başkan yapan adam" olarak hatırlayacak! tarihin en kötü siyasetçisi sensin !<br/><br/>edit:imla<br/><br/>edit2:ilk debemi yaşadığım için biraz heyacanlıyım hoşgörün :) ama yazım izinsiz alıntılanmış ve kaynak gösterilmemiş.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/zYOY0R.jpg" title="http://i.hizliresim.com/zYOY0R.jpg">yılmaz özdil yazıları adlı sayfa</a><br/>telif hakkının korunması büyük bir sorun. kanzuk'u bu dürüme el koymaya davet ediyorum.<br/><br/>edit3: izinsiz kopyaladığı yazının altına lütfen de olsa ekşisözlük ibaresi eklettik<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/rRX3Ma.jpg" title="http://i.hizliresim.com/rRX3Ma.jpg">sonuç</a><br/><br/>edit4: arkadaşla uzun süre tartıştıktan sonra sayfayı bana teslim etti. sabah şikayet ettiğim sayfayı artık ben yönetiyorum. takip edin :)<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/o9qkj9.jpg" title="http://i.hizliresim.com/o9qkj9.jpg">teklif</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/ZJjEOo.png" title="http://i.hizliresim.com/ZJjEOo.png">kabul sonrası yöneticilik</a><br/>adamı uyaralım derken sayfasına ortak olduk iyi mi :)<br/>ekşi sözlüğün gücü :)<br/><br/>edit5: takipte kalın arkadaşlar, tam bir ulusalcı neferi paylaşımlar yapacağım, hırsız akp, yaşasın permalı kemalist teyzeler!<br/><a rel="nofollow" class="url" target="_blank" href="https://m.facebook.com/Yilmaz.Ozdil.Yazilari/" title="https://m.facebook.com/Yilmaz.Ozdil.Yazilari/">https://m.facebook.com/yilmaz.ozdil.yazilari/</a><br/><br/>edit6: sabah ettiğim şikayet sonrası, o izinsiz alıntılı paylaşım, facebook tarafından kaldırıldı. <br/>yani şuan kendi yönettiğim sayfadan, kendi yazdığım bir yazıyı telif hakkı gerekçesiyle kaldırtmış oldum. hayat çok garip vapurlar falan. swh <br/><br/>edit7: hayat normale döndü. klasik ulusalcı bir sayfayı yönetmeye başladık. bu arada öğrendim ki benden çaldığı yazı sayfa tarihinin rekorunu kırmış.<br/>3 milyondan fazla görüntülenme binlerce paylaşım. binlerce beğeni vs.<br/>yönetici arkadaşla da kanka olduk <br/><br/>edit8: para için kalemimi sattığımı söyleyenler oldu. alakası yok, gerekli yaptırımları uyguladıktan sonra ve alıntı ibaresi koyulduktan sonra, sayfa ile ilgili konuştuk ve anlaştık :)
   entry_writer: kronikateist
 - entry_name: |
     türkiye'nin yüzde 25'i
@@ -24,7 +24,7 @@ data:
     sözlük yazarların evlerindeki oy dağılımı
   entry_id: 55933294
   entry_content: |
-    5/5 mhp bro.<br/><br/>on beş oy nedir toplama kampinda misin amk?
+    5/5 mhp bro.<br/><br/>on beş oy nedir toplama kampinda misin amk?<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: blog yazın, blog okuyun, dürümcüye para kaptırmayın<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>şunlardan başlayın mesela:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://kelimelerbenim.com/" title="http://kelimelerbenim.com/">http://kelimelerbenim.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://usluer.net/" title="http://usluer.net/">http://usluer.net/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://benlacivert.com/" title="http://benlacivert.com/">http://benlacivert.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://bolkafein.com/" title="http://bolkafein.com/">http://bolkafein.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://ubeydullah.net/" title="http://ubeydullah.net/">http://ubeydullah.net/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://turkmustafa.com/" title="http://turkmustafa.com/">http://turkmustafa.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://timurdemir.com.tr/" title="http://timurdemir.com.tr/">http://timurdemir.com.tr/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://pinquitte.com/" title="http://pinquitte.com/">http://pinquitte.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://egonomik.com/" title="http://egonomik.com/">http://egonomik.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://burakoli.com/" title="http://burakoli.com/">http://burakoli.com/</a><br/><a rel="nofollow" class="url" target="_blank" href="http://suskumru.com/" title="http://suskumru.com/">http://suskumru.com/</a>
   entry_writer: straples
 - entry_name: |
     hollanda'daki seçmenin %73'ünün akp'ye oy vermesi
@@ -36,7 +36,7 @@ data:
     erdoğan'ın partisine oy verenler türkiye'ye gitsin
   entry_id: 55955745
   entry_content: |
-    hollanda'da aşırı sağcı özgürlük partisi'nin lideri geert wilders attığı tweetde "hollanda'da diktatör erdoğan'ın partisini seçen türkler, türkiye'ye gidin ve islamofaşizmin tadını çıkarın" diye yazdı. <a rel="nofollow" class="url" target="_blank" href="http://www.bbc.com/turkce/haberler/2015/11/151101_turkiye_genel_secim_1_kasim_canli_sayfa?ocid=socialflow_twitter" title="http://www.bbc.com/turkce/haberler/2015/11/151101_turkiye_genel_secim_1_kasim_canli_sayfa?ocid=socialflow_twitter">link</a>
+    hollanda'da aşırı sağcı özgürlük partisi'nin lideri geert wilders attığı tweetde "hollanda'da diktatör erdoğan'ın partisini seçen türkler, türkiye'ye gidin ve islamofaşizmin tadını çıkarın" diye yazdı. <a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/dunya/402441/_Diktator_Erdogan_a_oy_verenler_Turkiye_ye_gitsin_.html#" title="http://www.cumhuriyet.com.tr/haber/dunya/402441/_Diktator_Erdogan_a_oy_verenler_Turkiye_ye_gitsin_.html#">link</a><br/>edit:uyarilardan sonra link duzeltildi
   entry_writer: munc
 - entry_name: |
     vurur yüze ifadesi tek başına iktidarız bitanesi
@@ -48,7 +48,7 @@ data:
     akp'nin aslında o kadar da kötü olmaması
   entry_id: 55943385
   entry_content: |
-    (bkz: <a class="b" href="/?q=rabia+nas%c4%b1l+yap%c4%b1l%c4%b1yordu+lan">rabia nasıl yapılıyordu lan</a>)<br/><br/>yani şöyle alıcı gözüyle bakınca gideri var gibi.
+    (bkz: <a class="b" href="/?q=rabia+nas%c4%b1l+yap%c4%b1l%c4%b1yordu+lan">rabia nasıl yapılıyordu lan</a>)<br/><br/>yani şöyle alıcı gözüyle bakınca gideri var gibi.<br/><br/>0.
   entry_writer: belkigelmezyarin
 - entry_name: |
     kılıçdaroğlu'nun rte'den tırstığı efsane klip
@@ -78,13 +78,13 @@ data:
     fethullah gülen cemaati
   entry_id: 55940518
   entry_content: |
-    bu cemaat esas şimdi sıçmıştır. rip.
+    bu cemaat esas şimdi sıçmıştır. rip.<br/><br/><a class="b" href="/?q=db">db</a>: <a rel="nofollow" class="url" target="_blank" href="http://www.kuzeyormanlari.org/2015/10/30/cmo-igneadaya-nukleer-santralin-risk-haritasini-cikardi/" title="http://www.kuzeyormanlari.org/2015/10/30/cmo-igneadaya-nukleer-santralin-risk-haritasini-cikardi/">iğneada'da nükleer santrale hayır</a>
   entry_writer: catsnbunnies
 - entry_name: |
     ben mesela agnostiğim kime oy vermem lazım
   entry_id: 55929830
   entry_content: |
-    tanrı seçmiyoruz, hükümet seçiyoruz diye cevaplanası soru.<br/><br/>edit: tanrı seçmekte iyi fikirmiş ama huriyi 60tan 160 çıkarıyorum günde 3 birayı helal ediyorum falan kıran kırana seçim vaatleri
+    tanrı seçmiyoruz, hükümet seçiyoruz diye cevaplanası soru.<br/><br/>edit: tanrı seçmekte iyi fikirmiş ama huriyi 60tan 160 çıkarıyorum günde 3 birayı helal ediyorum falan kıran kırana seçim vaatleri<br/><br/>edit: 60 değil 70 olacakmış huriler, yarış kızışıyor tanrılar oy istiyor<br/><br/>düzeltme için (bkz: <a class="b" href="/?q=bokundaboncukarayanadam">bokundaboncukarayanadam</a>)a teşekkürü borç bilirim
   entry_writer: eylulyapragi
 - entry_name: |
     1 kasım 2015 ak parti'ye oy verişim
@@ -96,7 +96,7 @@ data:
     1 kasım 2015 türkiye erken genel seçimi
   entry_id: 55930060
   entry_content: |
-    telefonumu chp musahitine verirken;<br/>siz ozel hayata saygilisiniz,<br/>cuzdanimi mhp musahitine verirken;<br/>siz hirsizliga prim vermezsiniz<br/>diyerek verip biyiklinin domuz gibi bakmasini saglamak bile mutlu etti. <br/>aksam cifte mutluluk olsun.<br/>edit: troller tam kadro pazar mesaisinde. eksilemeyeni kovuyorlarmis aman diyim :)
+    telefonumu chp musahitine verirken;<br/>siz ozel hayata saygilisiniz,<br/>cuzdanimi mhp musahitine verirken;<br/>siz hirsizliga prim vermezsiniz<br/>diyerek verip biyiklinin domuz gibi bakmasini saglamak bile mutlu etti. <br/>aksam cifte mutluluk olsun.<br/>edit: troller tam kadro pazar mesaisinde. eksilemeyeni kovuyorlarmis aman diyim :)<br/><br/>debe editi: en çok giri içeren başlıklardan birinden debeye girmiş bu yazı. aslında ikinci sıradaydı. <br/>bir üstünde her seçimde zorluklarla oy kullandığından bahsedip ne olursa olsun oy verilmesi gerektiğini anlatan bir yazar vardı. bir azlık kızgınlıkla silmiş sanırım güzel yazısını. <br/>kendisini tanımıyorum ama debe ona ithaf olsun. o vazgeçmesin oy vermekten. kızmasın. üzülmesin.
   entry_writer: garda
 - entry_name: |
     fuatavni
@@ -108,7 +108,7 @@ data:
     akp'ye oy veren 23 milyon kişi
   entry_id: 55955215
   entry_content: |
-    ayni yere bakiyoruz ve adam "pasaportum deger kazandi, sokaklar daha guvenli, ekonomik kriz teget geciyor" diyor lan...<br/>ayni seyi birebir goruyoruz ve adam herseyin tam tersini soyluyor. belli ki okumus etmis bir adam bu hem de.<br/><br/>ne anlatacagiz bu kafaya? gunesi gorup "gece" diyor, dolunaya bakip,"bugun amma sicak oldu, golgeye gecelim" diyor, suyun icerisindeyken "hava biraz kuru mu ne" diyor...<br/><br/>nasil yahu?!?
+    ayni yere bakiyoruz ve adam "pasaportum deger kazandi, sokaklar daha guvenli, ekonomik kriz teget geciyor" diyor lan...<br/>ayni seyi birebir goruyoruz ve adam herseyin tam tersini soyluyor. belli ki okumus etmis bir adam bu hem de.<br/><br/>ne anlatacagiz bu kafaya? gunesi gorup "gece" diyor, dolunaya bakip,"bugun amma sicak oldu, golgeye gecelim" diyor, suyun icerisindeyken "hava biraz kuru mu ne" diyor...<br/><br/>nasil yahu?!?<br/><br/>ek: bugun bir arkadasim hem cin hem tayland girisinde pasaportunun kapagi dahi acilmadan ozel bir odaya alindigini, muhtemel isid baglantisi olasiligina karsin kimlik bilgilerinin kayda gecirildigini, ufaktan sorguya tabi tutuldugunu yazdi.<br/>bunu yazan kisi bir hatun kisi, kanadali ile evli ne tipinde ne gecmisinde en ufak bir ariza yok. ama pasaportu nedeniyle gordugu muamele bu..<br/><br/>"pasaportu deger kazanan arkadas"a hitaben ek yapayim dedim.
   entry_writer: diem perdidi
 - entry_name: |
     seçim hilesiz olunca ak parti'nin %50'yi geçmesi
@@ -126,7 +126,7 @@ data:
     oo debe'de hep chp övülmüş o halde ona oy vereyim
   entry_id: 55928520
   entry_content: |
-    başkalarının dedikleri/yaptıklarına göre oy verecek kadar omurgasızsan zaten sen adresini doğru belirlemişsin.
+    başkalarının dedikleri/yaptıklarına göre oy verecek kadar omurgasızsan zaten sen adresini doğru belirlemişsin.<br/><br/>debedit : ilk debe , tesekkurler.
   entry_writer: akekirkyedi
 - entry_name: |
     sözcü'nün 1 kasım 2015'i özet geçen manşeti
@@ -138,7 +138,7 @@ data:
     oy pusulasını sandığa atarken söylenenler
   entry_id: 55930757
   entry_content: |
-    60 yasini geckin, <a class="b" href="/?q=telviye+citir">telviye citir</a> gibi bir annem var benim. yolda nobet tutan asker gorse; "hayirli nobetler oglum sizin sayenizde rahat uyuyoruz", polis falan gorse "hayirli isler oglum sizin sayenizde biseyler biseyler", doktor gorse "hayirli musteriler" <sup class="ab"><a title="(bkz: adfsdg evet musteri)" href="/?q=adfsdg+evet+musteri" data-query="adfsdg evet musteri">*</a></sup> filan diyor. kaymakamlar filan bile bu kadar selamlamiyordur halkini :)<br/><br/>sabah telefonda konusuyoruz:<br/><br/>ben: oyunu kime verdin <a class="b" href="/?q=g%c4%b1">gı</a>?<br/>annem: alti oka verdim oburunun bi tarafina batsin diye.<br/>ben: sandik gorevlilerine ne dedin peki?<br/>annem: ozgurluk ve baris olsun dedim.<br/><br/>der cunku. gadin anam <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    60 yasini geckin, <a class="b" href="/?q=telviye+citir">telviye citir</a> gibi bir annem var benim. yolda nobet tutan asker gorse; "hayirli nobetler oglum sizin sayenizde rahat uyuyoruz", polis falan gorse "hayirli isler oglum sizin sayenizde biseyler biseyler", doktor gorse "hayirli musteriler" <sup class="ab"><a title="(bkz: adfsdg evet musteri)" href="/?q=adfsdg+evet+musteri" data-query="adfsdg evet musteri">*</a></sup> filan diyor. kaymakamlar filan bile bu kadar selamlamiyordur halkini :)<br/><br/>sabah telefonda konusuyoruz:<br/><br/>ben: oyunu kime verdin <a class="b" href="/?q=g%c4%b1">gı</a>?<br/>annem: alti oka verdim oburunun bi tarafina batsin diye.<br/>ben: sandik gorevlilerine ne dedin peki?<br/>annem: ozgurluk ve baris olsun dedim.<br/><br/>der cunku. gadin anam <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>merak edilmesi uzerine edit: gelen mesajlardan anladigim kadariyla "gı" bayagi yaygin kullanilan bir agizmis. kismen ic anadolu insani olan annemden bana da bulasan bu tabir ege ve karadenizde de kullaniliyormus.
   entry_writer: kabak cekirdegi
 - entry_name: |
     levent gültekin
@@ -261,7 +261,7 @@ data:
     müslümanlar oy çalmasın diye sandıkta beklemektir. oylarınız biz ateistlere emanet
   entry_writer: fridanin parcalanmis omurgasi
 - entry_name: |
-    ysk'nın sonuç bildirimini %35'den sonra durdurması
+    ysk'nın sonuç bildirimini %35'ten sonra durdurması
   entry_id: 55943435
   entry_content: |
     (bkz: <a class="b" href="/?q=anan%c4%b1+siken+kad%c4%b1+kimi+kime+%c5%9fikayet+edeceksin">ananı siken kadı kimi kime şikayet edeceksin</a>)
@@ -276,7 +276,7 @@ data:
     10 ekim 2015 ankara barış mitinginde patlama
   entry_id: 55949996
   entry_content: |
-    kime yarıyorsa o yapmıştır dendi, ikna oldum artık.
+    kime yarıyorsa o yapmıştır dendi ya, ikna oldum artık.
   entry_writer: pessoa
 - entry_name: |
     başbakanlık teklifini reddedip 40 mv'ne razı olmak
@@ -288,7 +288,7 @@ data:
     akp'nin %46.8 ile iktidar olacak olması
   entry_id: 55931973
   entry_content: |
-    1 entry yeter. <br/>(bkz: <a class="b" href="/?q=eksiyi+bas+ge%c3%a7">eksiyi bas geç</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+ba%c5%9fa+kalmas%c4%b1">başlığın başa kalması</a>)
+    1 entry yeter. <br/>(bkz: <a class="b" href="/?q=eksiyi+bas+ge%c3%a7">eksiyi bas geç</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+ba%c5%9fa+kalmas%c4%b1">başlığın başa kalması</a>)<br/><br/>edit 2 : troll falan ama anket firmalarından daha iyi tahmin yapmış.
   entry_writer: psychologyrw
 - entry_name: |
     anadolu çomarı
