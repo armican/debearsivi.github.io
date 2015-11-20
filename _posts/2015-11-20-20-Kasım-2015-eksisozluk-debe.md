@@ -12,7 +12,7 @@ data:
     öğretmen maaşı ile 2 milyon lira biriktirmek
   entry_id: 56353804
   entry_content: |
-    yemek yerine bok yiyor kitap yerine bim kataloğu okuyor tiyatro yerine iş makinası izliyorsa olabilir bence insan yapar.
+    yemek yerine bok yiyor kitap yerine bim kataloğu okuyor tiyatro yerine iş makinası izliyorsa olabilir bence insan yapar.<br/><br/>debe editi: başta tüm yazarlar ve çaylaklar olmak üzere herkese teşekkür ediyorum. açıkçası debe'ye girmeyi bekliyordum ama 2. sıradan girmek beni şaşırttı. şuku ve fav veren ellerinize sağlık. yeni bir yazar olarak bir çok eski yazarın yanından bile geçemediği bu listede olmak neyse daha fazla konuşamayacağım çok duygulandım. tekrar teşekkür ederim. tabi ki bize bu imkanı sunan kanzuk ve ssg ve orkestrasını da bir alkışlayalım.
   entry_writer: 10 kavanoz bal 100 tl
 - entry_name: |
     önde yürüyen kadını tedirgin etmemek için sollamak
@@ -24,7 +24,7 @@ data:
     geri kalmış toplumlarda övgü alan kavramlar
   entry_id: 56358688
   entry_content: |
-    uzun boy. hırsızlık.<br/><br/>ima mı var editi: gayet açık ve net bence ne iması.
+    uzun boy. hırsızlık.
   entry_writer: asklepios26eses
 - entry_name: |
     altınordu futbol takımına getirilen yeni kurallar
@@ -72,7 +72,7 @@ data:
     kadıköy sahiline ulu camii yapılması
   entry_id: 56351560
   entry_content: |
-    kadıköylünün gezi'de olduğu gibi yine direnmesini gerektiren bedevi uygulaması.<br/><br/>amacın cami yapmak olmadığı, kadıköy'deki yaşam tarzına müdahale etmek olduğunu herkes biliyor.<br/><br/>dünyada en çok caminin olduğu ülke türkiye. <br/><br/>cemaatini bile toplayamayan camiler var bu ülkede.<br/><br/>gereksiz camiler de yıkılsın, bu dine hakaret değildir, israf da günahtır sonuçta.
+    kadıköylünün gezi'de olduğu gibi yine direnmesini gerektiren bedevi uygulaması.<br/><br/>amacın cami yapmak olmadığı, kadıköy'deki yaşam tarzına müdahale etmek olduğunu herkes biliyor.<br/><br/>dünyada en çok caminin olduğu ülke türkiye. <br/><br/>cemaatini bile toplayamayan camiler var bu ülkede.<br/><br/>gereksiz camiler de yıkılsın, bu dine hakaret değildir, israf da günahtır sonuçta.<br/><br/>bedevi büküşü editi: evet yine büktüm, bir tane bedevi sızladı özelden ''ama hindistan'da bissürü camii var, boş konuşma'' behey dangalak, hindistan'ın müslüman nüfusu 160 milyon. ayrıca kıyaslayacaksan hindistan'daki yazılımcı sayısı ile de bir kıyaslama yap, fıkra gibi adamlar yahu. adam derken lafın gelişi pek tabii :))))
   entry_writer: oziwankenozi
 - entry_name: |
     nescafe içmeyen insan
@@ -96,7 +96,7 @@ data:
     25 yaşına kadar seks yapmamış yazardan açık mektup
   entry_id: 56365571
   entry_content: |
-    göz yaşları içinde okuduğum mektuptur.<br/><br/>kardeşim, mektubunu okudum. inanılmaz derecede içimi burktum. heteroseksüel bir erkeğim ama bi defaya mahsus olmak üzere sana vericem. ulaş bana...
+    göz yaşları içinde okuduğum mektuptur.<br/><br/>kardeşim, mektubunu okudum. inanılmaz derecede içimi burktum. heteroseksüel bir erkeğim ama bi defaya mahsus olmak üzere sana vericem. ulaş bana...<br/><br/>debe: arkadaş ulaşsaydı benim de ilk olacaktı. neyseki ulaşmadı. halen heteroseksüelim <a class="b" href="/?q=q%c4%b1zlar+eqlesin">qızlar eqlesin</a>..<br/>adım samuel, 25 yaşım.
   entry_writer: finish off as a happy
 - entry_name: |
     aileyi arsa satmaya ikna edememek
@@ -117,10 +117,10 @@ data:
     çubuğu sokabilir miyiz yoksa sokamaz mıyız diye, delik misin değil misin diye soran jinekologtur. <br/><br/>sonuçta muhafazakar bir toplum evet, o doktor böyle düşünmüyor olsa bile o şekilde sormak zorunda, elinden gelen bir şey yok falan gibi şeyler denmiş. hayır arkadaşım o şekilde sormak zorunda değil bunu. bana gelip "evli misiniz" diye sorana kadar, evli ve muhafazakar bir kadına "bakire misiniz" diye sorsun. evli ve muhafazakar kadın bu sorudan alınganlık yaşarsa bundan banane. ba-na-ne. <br/><br/>ne demeliyim bu soru karşısında ben onu bilemiyorum. "hayır değilim ama çatır çatır sevişiyorum" demek zorunda mıyım? ben bana sorulmamış bir sorunun cevabını vermek zorunda mıyım? ben bu konuda açıklama yapmak zorunda mıyım? bu açıklamayı yaparken utanıp sıkılmazsam garip bakışlara maruz kalmak zorunda mıyım? utanıp sıkılarak, başımı önüme eğerek evli olmadığımı fakat bakire de olmadığımı ifade etmek zorunda mıyım? ya da hiç uğraşmadan kısaca, olmadığım halde "evet evliyim" diyerek çubuğu sokturup, bu iğrenç söyleme ortak olmak zorunda mıyım?<br/><br/>ve dikkat ettiğim bir şey var, bunu yapan genellikle kadınlar. erkek doktorun yanındaki kadın ve asistanımsı şeyler yöneltiyor bu soruyu. erkek doktorun kendisi yöneltmiyor. bu detay da bir köşede dursun istedim. adam birazdan rahmime kadar görecek pozisyonda, her gün yüzlerce vajina görüyor belki ama "evli" olup olmadığımı sorgulayan kişi, yanındaki ibiş kadın. çünkü her ne kadar o erkek birazdan benim amımın derinliklerini inceleyecek de olsa, kendisi sorsa komşulara karşı çok ayıp olur, rahatsız olurum belki. soramaz. tabi. <br/><br/>ben bu ibiş kadınlardan birine "hayır evli değilim ama bir sıkıntı yok" dedim mesela. sıkıntı kelimesini duyunca kaşı gözü ayrı oynadı güzelimin. evet sıkıntı dedim. zoruna mı gitti? kızlık zarı sıkıntıdır ve benim bir sıkıntım yok. bu kadar sıkıntı yapmayın.<br/><br/>edit: aman allahım ya, jinekologlar coşmuş alt tarafta. bizim bekaretimiz çok da şey değilmiş adam bir an önce hastaları geçmeye bakıyormuş falan. allah iyiliğinizi versin sayın jinekologlar ama siz benden daha iyi bilirsiniz ki evli olup da vajinismus olan, evli olup da cinsel olarak aktif olmayan milyonlarca kadın var. sorduğunuz soru baştan sakat. o kadın da "evliyim ama şöyle böyle" diye açıklama yapmak zorunda değil. üstelik tanı tedavi her neyse bunun için gerekli olacak bir bilgiyi bu açıklama gelmediği noktada kaçırma ihtimaliniz de yüksek. siz hala "insanların ne tepki verdiğini biliyo musunuz, peki ya dayak yersek" falan modundasınız. hassas bir alanda çalışıyorsunuz. kimseyi rencide etmeye, kadınları o ya da bu şekilde travmatize etmeye hakkınız yok. kimse size "veriyon mu kız?" diyin demiyor. bir kadının evli oluşunu da cinsel olarak aktif oluşu olarak ele alamazsınız. adam gibi bir soru bulmak çok zor olmamalı.
   entry_writer: pipisiolmayangil
 - entry_name: |
-    kireçburnu benzilikteki kasiyer çocuk
+    kireçburnu benzinlikteki kasiyer çocuk
   entry_id: 56358080
   entry_content: |
-    hanımefendiye önce pompa sonra yağlama, yıkama.
+    hanımefendiye önce pompa sonra yağlama, yıkama.<br/>debe edittitosu: sevenleri ayırmayalım, sevenler kavuşsun.
   entry_writer: tilkican dede
 - entry_name: |
     muhteşem yüzyıl kösem
@@ -150,7 +150,7 @@ data:
     küçük prens'in osmanlıcaya çevrilmesi
   entry_id: 56364409
   entry_content: |
-    2015 yılı biterken hala osmanlıca diye bir dil olduğunu sanan insanları ortaya çıkaran başlık. osmanlı türkçesi <sup class="ab"><a title="(bkz: bakın türkçe diyorum)" href="/?q=bak%c4%b1n+t%c3%bcrk%c3%a7e+diyorum" data-query="bakın türkçe diyorum">*</a></sup> yazı dilinin latin alfabesi yerine arap alfabesiyle ifade edilmesidir. konuşma dili olarak algılanan ayrı bir dil değildir. yeni lisan adlı hareketle dilde sadeleşmeye gidilmiş , istanbul ağzı standart konuşma dili tayin edilmiştir. osmanlıca diye bir dil yoktur.
+    2015 yılı biterken hala osmanlıca diye bir dil olduğunu sanan insanları ortaya çıkaran başlık. osmanlı türkçesi <sup class="ab"><a title="(bkz: bakın türkçe diyorum)" href="/?q=bak%c4%b1n+t%c3%bcrk%c3%a7e+diyorum" data-query="bakın türkçe diyorum">*</a></sup> yazı dilinin latin alfabesi yerine arap alfabesiyle ifade edilmesidir. konuşma dili olarak algılanan ayrı bir dil değildir. yeni lisan adlı hareketle dilde sadeleşmeye gidilmiş , istanbul ağzı standart konuşma dili tayin edilmiştir. osmanlıca diye bir dil yoktur.<br/><br/>debe editi: debeye girdirenleriniz çok olsun. çaylaklar zaten ayrıca benim bebeklerim. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>bu konuda biraz hassasım. "osmanlıca" denilerek bilinçli ya da bilinçsiz sanki türkçe yerine arapça resmi dilmiş gibi idrak ediliyor. sizin osmanlıca diye algıladığınız dil eski anadolu türkçesi'nin devamıdır. alfabesi arap'tır. arapçada karşılığı olmayan türkçe sesler için harf türetilmiştir. eski metinleri okursanız misal "kice" (gece) kelimesi ağızlarda hala vardır. bugün atatürk'ün nutku'nu hatta gençliğe hitabesini anlamamız ya da "osmanlıca" sanmamız dilde yapılan tahribattır. bunlar başka entry'lerin konusudur. aynı zamanda türkçenin yetersiz bir dil olduğunu düşünenlerin necmettin hacıeminoğlu, nihat sami banarlı ve mehmet kaplan okumasını tavsiye ediyorum.
   entry_writer: patates pudingi
 - entry_name: |
     obama'nın mutlu ayrılması için gereğini yapın
@@ -216,7 +216,7 @@ data:
     yazarların arzuladıkları yönetim rejimi
   entry_id: 56360059
   entry_content: |
-    (bkz: <a class="b" href="/?q=sibel+can+rejimi">sibel can rejimi</a>)<br/><br/>şaka bir yana, arzu ettiğim yönetim şekli kulağa biraz ütopik geliyor. fakat insanın eninde sonunda bir gün bu düzene ulaşacağına inanıyorum. fresco'nun güzel bir sözü vardı "ordularınız, donanmalarınız, cezaevleriniz, polisiniz olduğu müddetçe uygarlaşamayız. hiçbir ulus medeni değil." asıl gönlümden geçen bu. fakat şu an için ülkenin her şehrinde özerklik olmasını isterim. sadece doğu için falan değil, batı için de öyle. her şehrin kendine has bir kimliği, bir yapısı var. kendi yerel yönetimleriyle kaderlerini rahatça tayin edebilmeliler bence. kader derken kastettiğim yozgat devleti, elazığ düklüğü, afyon beyliği, urfa krallığı benzeri şeyler değil<sup class="ab"><a title="(bkz: swf)" href="/?q=swf" data-query="swf">*</a></sup> <br/><br/>şöyle bir durum var, şu an biz iç anadolu'daki muhafazakar seçmenin istediği şekilde yönetiliyoruz. örneklerle anlatmayı deneyelim: yani konya'da verilen oy, senin edirne'deki yaşamını etkiliyor. oysa ikiniz de yapı olarak çok farklısınız. oysa yaşadığın yerle ilgili kararı sen vermelisin zira sen yaşıyorsun orada. şehirlerin kendilerine özgü kuralları olursa, herkes mutlu olur kanımca. yani erzurum'dakiler alkol satılmasına karşıdırlar, bununla ilgili karar alınır ve erzurum'da alkol yasaklanır. çünkü oradakiler öyle istemiştir. muğla'dakiler yasaklanmasını istemiyordur hatta geceleri de serbest olmasını istiyordur, karar alırlar ve istedikleri gibi olur. böylece muğla da erzurum da mutlu olur. diğer türlü olunca erzurum mutlu oluyor, muğla üzgün muğla yalnız muğla kimsesiz bir başına ...
+    gürpınar öveçli köyü ilkokulu yardım kampanyası (bkz: <a class="b" href="/entry/56376167">#56376167</a>)<br/><br/>(bkz: <a class="b" href="/?q=sibel+can+rejimi">sibel can rejimi</a>)<br/><br/>şaka bir yana, arzu ettiğim yönetim şekli kulağa biraz ütopik geliyor. fakat insanın eninde sonunda bir gün bu düzene ulaşacağına inanıyorum. fresco'nun güzel bir sözü vardı "ordularınız, donanmalarınız, cezaevleriniz, polisiniz olduğu müddetçe uygarlaşamayız. hiçbir ulus medeni değil." asıl gönlümden geçen bu. fakat şu an için ülkenin her şehrinde özerklik olmasını isterim. sadece doğu için falan değil, batı için de öyle. her şehrin kendine has bir kimliği, bir yapısı var. kendi yerel yönetimleriyle kaderlerini rahatça tayin edebilmeliler bence. kader derken kastettiğim yozgat devleti, elazığ düklüğü, afyon beyliği, urfa krallığı benzeri şeyler değil<sup class="ab"><a title="(bkz: swf)" href="/?q=swf" data-query="swf">*</a></sup> <br/><br/>şöyle bir durum var, şu an biz iç anadolu'daki muhafazakar seçmenin istediği şekilde yönetiliyoruz. örneklerle anlatmayı deneyelim: yani konya'da verilen oy, senin edirne'deki yaşamını etkiliyor. oysa ikiniz de yapı olarak çok farklısınız. oysa yaşadığın yerle ilgili kararı sen vermelisin zira sen yaşıyorsun orada. şehirlerin kendilerine özgü kuralları olursa, herkes mutlu olur kanımca. yani erzurum'dakiler alkol satılmasına karşıdırlar, bununla ilgili karar alınır ve erzurum'da alkol yasaklanır. çünkü oradakiler öyle istemiştir. muğla'dakiler yasaklanmasını istemiyordur hatta geceleri de serbest olmasını istiyordur, karar alırlar ve istedikleri gibi olur. böylece muğla da erzurum da mutlu olur. diğer türlü olunca erzurum mutlu oluyor, muğla üzgün muğla yalnız muğla kimsesiz bir başına ...<br/><br/>edit: bu yasaklama benzere islemler tabi temel insan haklarina uyulacak sekilde olmali. yoksa biliyorum muhafazakar sehirler iki gune orayi rakka'ya cevirirler.<br/>(bkz: <a class="b" href="/entry/56377338">#56377338</a>)
   entry_writer: harp
 - entry_name: |
     az kişinin bildiği muhteşem web siteleri
@@ -237,16 +237,16 @@ data:
     (bkz: <a class="b" href="/?q=%c3%a7ok+g%c3%bczel+soru+sordun+bravo+tebrik+ederim+seni">çok güzel soru sordun bravo tebrik ederim seni</a>)
   entry_writer: thesecret
 - entry_name: |
-    reimann hipotezi'ni çözen nijeryalı profesör
+    riemann hipotezi'ni çözen nijeryalı profesör
   entry_id: 56361317
   entry_content: |
-    evrende bu başarıya yapılan yorumlar kadar tiksindiğim çok az şey var. inan olsun yetkim olsa bu insanları bulup sadece kuş yemi ile beslenecekleri tropik bir adaya kapatırım.<br/><br/>zamanım olsa ben de çözerdim demiş lan adam.<br/>bir başkası şu ana kadar çözülememişse çözümün doğru olduğunu nereden bileceğiz demiş.<br/><br/>küme problemi falan sanıyorlar sanırım konuyu.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Riemann_hypothesis" title="https://en.wikipedia.org/wiki/Riemann_hypothesis">reimann hipotezi</a>
+    evrende bu başarıya yapılan yorumlar kadar tiksindiğim çok az şey var. inan olsun yetkim olsa bu insanları bulup sadece kuş yemi ile beslenecekleri tropik bir adaya kapatırım.<br/><br/>zamanım olsa ben de çözerdim demiş lan adam.<br/>bir başkası şu ana kadar çözülememişse çözümün doğru olduğunu nereden bileceğiz demiş.<br/><br/>küme problemi falan sanıyorlar sanırım konuyu.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Riemann_hypothesis" title="https://en.wikipedia.org/wiki/Riemann_hypothesis">reimann hipotezi</a><br/><br/>edi: çözümün doğru olmama ihtimali bu entryde saklıdır. <br/>ancak akademik olarak kanıt/çözüm sunma ve onu değerlendirme çok kıymetli bir mekanizma. bunun işlemesi için çalışanlar saygıyı hak ediyorlar. <br/><br/>bu mantığın dışına çıkıp profesör sanki dolandırıcıymış gibi bir hava estirilmeye çalışılıyor onu yapmamak lazım. adam çözümünü sunacak akademi değerlendirecek her şekilde insanlık ilerleyecek.
   entry_writer: limon kimyon zorro
 - entry_name: |
-    seviştikten sonra söylenen ilk söz
+    sevişme sonrası söylenen ilk sözler
   entry_id: 56370415
   entry_content: |
-    (bkz: <a class="b" href="/?q=a%c5%9fk%c4%b1m+pe%c3%a7ete">aşkım peçete</a>)
+    (bkz: <a class="b" href="/?q=a%c5%9fk%c4%b1m+pe%c3%a7ete">aşkım peçete</a>)<br/><br/>edit : acil iş aranıyor izmir'de. (bkz: <a class="b" href="/entry/56075912">#56075912</a>)
   entry_writer: egenox
 - entry_name: |
     emlak balonu
