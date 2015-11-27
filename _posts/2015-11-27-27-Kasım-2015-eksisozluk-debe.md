@@ -87,16 +87,10 @@ data:
     -verin uçağın parasını<br/>+lan baarma kaç lira bu uçak<br/>-65 milyon dolar<br/>+oha. olm sıfır mı amk bu uçak. kaç km'de idi<br/>-ne?<br/>+400 bin tl verelim bu iş huzur içinde çözülsün
   entry_writer: fandango
 - entry_name: |
-    tecavüz sonucu hamile kalan 9 yaşındaki kız çocuğu
-  entry_id: 56515116
-  entry_content: |
-    kusacam artık. coğrafyanızı sikeyim, allahu akbar diyen ağzınıza sıçayim.
-  entry_writer: carnage
-- entry_name: |
     rus turistlerin olmadığı bir antalya
   entry_id: 56521357
   entry_content: |
-    nihayet daha çok para ödeyen yerli turiste adam gibi davranacak olan antalya diyecektim ki aaa çok geç! biz yunan adaları'nı keşfettik. (kahkahalar).
+    nihayet daha çok para ödeyen yerli turiste adam gibi davranacak olan antalya diyecektim ki aaa çok geç! biz yunan adaları'nı keşfettik. (kahkahalar).<br/><br/>debe editi: (bu benim ilk debe'ye girişim. değişik bir duygu imiş.) can dündar'ın kısa zamanda çıkması ve suni suçlamalar yapılmaması temennimdir.
   entry_writer: papucdil
 - entry_name: |
     rusların kars ardahan batum'u geri istemesi
@@ -111,12 +105,6 @@ data:
     atın orijinal ismi <a class="b" href="/?q=jolly+jumper">jolly jumper</a>'dır.<br/>(bkz: <a class="b" href="/?q=k%c4%b1%c3%a7%c4%b1n%c4%b1zdan+isim+uydurmay%c4%b1n">kıçınızdan isim uydurmayın</a>)
   entry_writer: gastiro
 - entry_name: |
-    putin'in rte'ye kuduz köpek demesi
-  entry_id: 56529280
-  entry_content: |
-    rus haber ajansı tass'ın haberine kaynak verilerek yapıl yabancı bir sitede geçen söylem.<br/><br/>“…today they practically declared war on us by shooting down our fighter jet. our patience wears thin with erdoğan and his criminal clique who is accomplice in all atrocities committed by ısıs terrorist. to avoid a bitter war which nobody craves, for several times, ı told americans to muzzle their rabid dog in turkey,” russian news agency tass cited the russian president as saying. <a rel="nofollow" class="url" target="_blank" href="http://awdnews.com/top-news/president-putin-by-shooting-down-our-fighter-jet-turkey-practically-declared-war-on-russia,-turkish-dictator-erdoğan-is-an-accomplice-in-isis-crimes" title="http://awdnews.com/top-news/president-putin-by-shooting-down-our-fighter-jet-turkey-practically-declared-war-on-russia,-turkish-dictator-erdoğan-is-an-accomplice-in-isis-crimes">tamamı burdan okunabilir</a><br/><br/>son kısmın çevirisi "kimsenin istemediği bu tatsız savaştan kaçınmak için, birçok kez amerikalılara türkiye'deki kuduz köpeğe ağızlık takmalarını (yada tasma takmalarını) söyledim."<br/><br/>yorum size kalmış.<br/><br/>edit: uyaran arkadaşlar oldu, "their rabid dog" kısmının ben de farkındayım, türkçede tek bir cümlede bu nüansı veremedim "köpeklerinize" diye çevirsem çoğul anlayacak bir sürü insan var ve anlam karmaşasına neden olacaktı bu durum, bu yüzden böyle bırakmayı tercih ettim.<br/><br/>edit 2: haber sitesinin güvenilirliği ile alakalı sıkıntılar varmış. bu sözler sarfedilmemiş de olabilir. asparagas haber olma olasılığı yüksek.
-  entry_writer: usb cikisli raki sisesi
-- entry_name: |
     ukraynalıların hazırladığı türkiye videosu
   entry_id: 56515016
   entry_content: |
@@ -126,7 +114,7 @@ data:
     ayda 140 dolar ile dünyayı gezmek
   entry_id: 56518941
   entry_content: |
-    oncelikle <br/><br/>(bkz: <a class="b" href="/entry/48557197">#48557197</a>)<br/><br/>pesin not : yazim hatalari klavye kaynaklidir, fazla internet ve bilgisayar bulma sansim olmuyor, zamanim olursa tek tek duzeltecegim.<br/><br/>yaklasik 6 aydir yasadigim hayat, tum yasam harcamalari, ulasim, saglik vs akliniza gelebilecek her sey dahil aylik harcadigim para 140 dolar ve o 140 dolari da kendim kazaniyorum, soyleki;<br/><br/>bir kac ay bir hostelde calistim gonullu olarak gunde 4 saat karsiligi yemek ve ucretsiz konaklama, bundan zaten bahsetmistim onceki yazilarimda. insan bu kadar turistin gelip gittigi bir ortamda ister istemez para kazaniyor. bira firmasinin bedava dagittigi sorf tahtalarini aldim yaklasik 4 tane ve surf yaparken kullanilan wet suit diye tabir edilen kiyafeti satin aldim 3 tane ikinci el toplam maliyeti 500 tl oldu bana ve hostelde gelenlere kiralamaya basladim, sorf tahtasinin saati 20 tl ve sorf tahtasinin saati 20 tl, gunde ortalama 4 veya 5 er saat kiralama imkanim oldu, bir sure sonra ikinci el bisiklet satin alip yine gunluk 20 tl den kiralamaya basladim ve bir kac ay rahatca yasayacak para kazanmis oldum. ayrica sorf yapmayi da ogrendim ve keyifle devam ediyorum.<br/><br/>harcamalarimi en dusuk seviyede tutmak icin mumkun mertebe buyuk sehirlere gitmiyorum, ulasimi otostop ile yapiyor, yemek icin kendim karsilimam gerekiyorsa bol bol pirinc tuketiyorum, konaklamayi ise bahsettigim gibi insanlara yardim karsiligi evlerinde, hostellerinde konalarak karsiliyorum. tabii ki her zaman her sey yolunda gitmiyor bu gibi durumlar icin ise cadir ve uyku tulumum var. su ana kadar hic para vererek hostelde kalmadim.<br/><br/>bundan yaklasik bir kac ay once yazi ve fotograflarin yayinlanmasi karsiliginda dusuk bir ucret talebi ile belli basli gezi dergi ve internet siteleri ile iletisime gectim fakat kimi basta heycanli ve ilgili gorunse de sonucta ya maillere cevap vermediler yada odeme yapamayacaklarindan bahsettiler. hurriyet gazetesinin gezi eki editoru ise roportaj yapabilecegimizi ve bu roportaj sayesinde finansor veya yardim bulabilecegimi soyledi fakat kararlastirdigimiz gun ve saatte malesef herhangi bir geri donus alamadim. ben de alternatif yollar arayisina girdim ve bu sekilde ilerliyorum.<br/><br/>ayrica dunyanin dort bir yanindaki insanlara kart postal gonderiyorum. ortalama 10 veya 15 tl gonderiyolar karsiliginda ise nerede isem ordan bir kart postal gonderiyorum adreslerine, bu sekilde cok olmasa da gunu gecistirecek kadar para kazanabiliyorum.<br/><br/>seker kamisi topluyorum yol kenarlarindan ve suyunu sikarak satmaya calisiyorm; bardagi tl olarak yaklasik 3 lira maliyeti ise tamamen fiziksel guc ve 20 tl ye aldigim sikma makinasi.<br/><br/>hindistan cevizi suyu satmayi da dusundum sahilde ama cok fazla yer kapliyor,agir ve kesmesi ugrastirici oldugu icin vazgectim.<br/><br/>iyi de neden bunlardan bahsediyorsun derseniz sebebi olur da dunyayi dolasmak isteyip cesaret edemeyen veya maddi sikintilari dusunen insanlara cesaret vermesi.<br/><br/>su anda hala brezilya uruguay sinirina yakin bir bolgedeyim, pazartesi gunu uruguaya gecmeyi planliyorum. kendi elleriyle topraktan insa ettikleri kerpic evlerden ekolojik hostel yapip isleten bir ciftin yaninda olacagim bir sure. bulundugum ortama gore sekillenecek neler yapilabilecegi.<br/><br/>bu bolgede olup gorusmek, iletisime gecmek isteyen kisiler varsa memnun olurum oturup sohbet etmekten.<br/><br/>yazinin biraz daginik oldugunun farkindayim fakat kisitli zaman ve emanet bilgisayar ile anca bu kadar oldu, bahsettigim gibi daha rahat bir zaman bulursam duzenleyecegim ve her firsatta yaptiklarimi buraya ekleyecegim. <br/><br/>not : internet erisimim cok kisitli, mesajlara gec cevap verirsem affola.<br/><br/>ekleme : supheye dusen arkadaslar olmus sanirim, ilk firsatta bir kac fotograf ekleyecegim hatta dileyen olursa mail adresini yazabilir, bir kac fotografi mail atabilirim onumuzdeki gunlerde.<br/><br/>ugurlar olsun.
+    oncelikle <br/><br/>(bkz: <a class="b" href="/entry/48557197">#48557197</a>)<br/><br/>pesin not : yazim hatalari klavye kaynaklidir, fazla internet ve bilgisayar bulma sansim olmuyor, zamanim olursa tek tek duzeltecegim.<br/><br/>yaklasik 6 aydir yasadigim hayat, tum yasam harcamalari, ulasim, saglik vs akliniza gelebilecek her sey dahil aylik harcadigim para 140 dolar ve o 140 dolari da kendim kazaniyorum, soyleki;<br/><br/>bir kac ay bir hostelde calistim gonullu olarak gunde 4 saat karsiligi yemek ve ucretsiz konaklama, bundan zaten bahsetmistim onceki yazilarimda. insan bu kadar turistin gelip gittigi bir ortamda ister istemez para kazaniyor. bira firmasinin bedava dagittigi sorf tahtalarini aldim yaklasik 4 tane ve surf yaparken kullanilan wet suit diye tabir edilen kiyafeti satin aldim 3 tane ikinci el toplam maliyeti 500 tl oldu bana ve hostelde gelenlere kiralamaya basladim, sorf tahtasinin saati 20 tl ve sorf tahtasinin saati 20 tl, gunde ortalama 4 veya 5 er saat kiralama imkanim oldu, bir sure sonra ikinci el bisiklet satin alip yine gunluk 20 tl den kiralamaya basladim ve bir kac ay rahatca yasayacak para kazanmis oldum. ayrica sorf yapmayi da ogrendim ve keyifle devam ediyorum.<br/><br/>harcamalarimi en dusuk seviyede tutmak icin mumkun mertebe buyuk sehirlere gitmiyorum, ulasimi otostop ile yapiyor, yemek icin kendim karsilimam gerekiyorsa bol bol pirinc tuketiyorum, konaklamayi ise bahsettigim gibi insanlara yardim karsiligi evlerinde, hostellerinde konalarak karsiliyorum. tabii ki her zaman her sey yolunda gitmiyor bu gibi durumlar icin ise cadir ve uyku tulumum var. su ana kadar hic para vererek hostelde kalmadim.<br/><br/>bundan yaklasik bir kac ay once yazi ve fotograflarin yayinlanmasi karsiliginda dusuk bir ucret talebi ile belli basli gezi dergi ve internet siteleri ile iletisime gectim fakat kimi basta heycanli ve ilgili gorunse de sonucta ya maillere cevap vermediler yada odeme yapamayacaklarindan bahsettiler. hurriyet gazetesinin gezi eki editoru ise roportaj yapabilecegimizi ve bu roportaj sayesinde finansor veya yardim bulabilecegimi soyledi fakat kararlastirdigimiz gun ve saatte malesef herhangi bir geri donus alamadim. ben de alternatif yollar arayisina girdim ve bu sekilde ilerliyorum.<br/><br/>ayrica dunyanin dort bir yanindaki insanlara kart postal gonderiyorum. ortalama 10 veya 15 tl gonderiyolar karsiliginda ise nerede isem ordan bir kart postal gonderiyorum adreslerine, bu sekilde cok olmasa da gunu gecistirecek kadar para kazanabiliyorum.<br/><br/>seker kamisi topluyorum yol kenarlarindan ve suyunu sikarak satmaya calisiyorm; bardagi tl olarak yaklasik 3 lira maliyeti ise tamamen fiziksel guc ve 20 tl ye aldigim sikma makinasi.<br/><br/>hindistan cevizi suyu satmayi da dusundum sahilde ama cok fazla yer kapliyor,agir ve kesmesi ugrastirici oldugu icin vazgectim.<br/><br/>iyi de neden bunlardan bahsediyorsun derseniz sebebi olur da dunyayi dolasmak isteyip cesaret edemeyen veya maddi sikintilari dusunen insanlara cesaret vermesi.<br/><br/>su anda hala brezilya uruguay sinirina yakin bir bolgedeyim, pazartesi gunu uruguaya gecmeyi planliyorum. kendi elleriyle topraktan insa ettikleri kerpic evlerden ekolojik hostel yapip isleten bir ciftin yaninda olacagim bir sure. bulundugum ortama gore sekillenecek neler yapilabilecegi.<br/><br/>bu bolgede olup gorusmek, iletisime gecmek isteyen kisiler varsa memnun olurum oturup sohbet etmekten.<br/><br/>yazinin biraz daginik oldugunun farkindayim fakat kisitli zaman ve emanet bilgisayar ile anca bu kadar oldu, bahsettigim gibi daha rahat bir zaman bulursam duzenleyecegim ve her firsatta yaptiklarimi buraya ekleyecegim. <br/><br/>not : internet erisimim cok kisitli, mesajlara gec cevap verirsem affola.<br/><br/>ekleme : supheye dusen arkadaslar olmus sanirim, ilk firsatta bir kac fotograf ekleyecegim hatta dileyen olursa mail adresini yazabilir, bir kac fotografi mail atabilirim onumuzdeki gunlerde.<br/>artibir nick li aradasa bir kac fotograf gonderdim. zaman bulunca buraya ekleyecek.<br/><br/>ugurlar olsun.
   entry_writer: matematik koyu
 - entry_name: |
     26 kasım 2015 rusya'dan türkiye'yi terk edin emri
@@ -162,7 +150,7 @@ data:
     recep tayyip erdoğan'ın 10 kilo şeye sahip olması
   entry_id: 56521213
   entry_content: |
-    valla bilemedim. hemoroid?
+    
   entry_writer: chepi
 - entry_name: |
     seksüel tercihi dışında gay olmak
@@ -177,12 +165,6 @@ data:
     stepne, yancı, koltuk değneği.
   entry_writer: mandir
 - entry_name: |
-    26 kasım 2015 molde fenerbahçe maçı
-  entry_id: 56530323
-  entry_content: |
-    fb'nin 2.golünde fernandao'nun ofsayttan nasıl kurtulduğu nasıl kendini ayarladığı birileri için ibretliktir. <br/><br/>kendisine qral denilen burak efendiye kulağından tutup zorla izlettireceksin şu golü. bak diyeceksin it. böyle olacaksın. 30 yaşında kendini bi gram geliştirememişsin eşşek diyeceksin. tokatlayıp bırakcaksın sonra.
-  entry_writer: mozambik asilliyim
-- entry_name: |
     en seksi kadın kıyafet kombini
   entry_id: 56510790
   entry_content: |
@@ -192,7 +174,7 @@ data:
     küçük deha için kalp arıyoruz
   entry_id: 56522948
   entry_content: |
-    bulundu!<br/><br/>deha için uygun kalp bulundu!<br/><br/>hatta bulunmakla da kalmadı, nakil için deha'yı operasyona bile aldılar. evet, deha şu an operasyona girdi!<br/><br/>(burada 50 tane cümle yazıp sildim)<br/><br/>diliyorum ki, yine bu gece operasyonun başarılı geçtiği bilgisini de paylaşacağız!<br/><br/>bulundu... bulundu!
+    bulundu!<br/><br/>deha için uygun kalp bulundu!<br/><br/>hatta bulunmakla da kalmadı, nakil için deha'yı operasyona bile aldılar. evet, deha şu an operasyona girdi!<br/><br/>(burada 50 tane cümle yazıp sildim)<br/><br/>diliyorum ki, yine bu gece operasyonun başarılı geçtiği bilgisini de paylaşacağız!<br/><br/>bulundu... bulundu!<br/><br/><a class="b" href="/?q=ekleme">ekleme</a>: (bkz: <a class="b" href="/entry/56540713">#56540713</a>)
   entry_writer: cassey jones
 - entry_name: |
     erdoğan'dan putin'e telefon gelmedi
@@ -294,7 +276,7 @@ data:
     bülent ersoy'un putin'e dair açıklaması
   entry_id: 56512577
   entry_content: |
-    aklım havsalam almıyor. yıllarca bu insanlara nasıl bir özgüven aşılamışsak, kalkmış putin beni tanısa böyle konuşamazdı diyor. <br/><br/>putin <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/q846WZ.jpg" title="http://i.hizliresim.com/q846WZ.jpg">seni</a> görse muhtemelen üzerine <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bMlqVG.jpg" title="http://i.hizliresim.com/bMlqVG.jpg">binerdi</a><br/><br/>edit: imla
+    aklım havsalam almıyor. yıllarca bu insanlara nasıl bir özgüven aşılamışsak, kalkmış putin beni tanısa böyle konuşamazdı diyor. <br/><br/>putin <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/q846WZ.jpg" title="http://i.hizliresim.com/q846WZ.jpg">seni</a> görse muhtemelen üzerine <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bMlqVG.jpg" title="http://i.hizliresim.com/bMlqVG.jpg">binerdi</a><br/><br/>edit: imla<br/><br/>debe sorusu: resimdeki <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/NgWljP.jpg" title="http://i.hizliresim.com/NgWljP.jpg">bülent ersoy'u</a> 3 saniyede bulun.
   entry_writer: domanic
 - entry_name: |
     vladimir putin
