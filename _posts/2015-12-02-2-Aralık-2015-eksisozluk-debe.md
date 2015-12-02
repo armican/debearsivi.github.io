@@ -6,7 +6,7 @@ data:
     1 aralık 2015 istanbul'da duyulan patlama
   entry_id: 56642505
   entry_content: |
-    sozlukte ne kadar boktan insanlarin oldugunu gosteren patlamadir. istanbul'da tanidigi ailesi olup sehir disinda yasayan bir suru adam var. panikle basliga bakiyosun nerde olmus ne olmus diye, yok efendim surdan duymus, buradan duymamis, bize ne... gelip espri kasiyor bir de yok izmir'den duyulmamis da bilmemne. <br/><br/>butun ulke diken ustunde, daha bir ay olmadi ankara'da 100 kisi oldu, adam gelip burda futursuzca espri yapabiliyor ya, insanliginiza tukureyim.
+    sozlukte ne kadar boktan insanlarin oldugunu gosteren patlamadir. istanbul'da tanidigi ailesi olup sehir disinda yasayan bir suru adam var. panikle basliga bakiyosun nerde olmus ne olmus diye, yok efendim surdan duymus, buradan duymamis, bize ne... gelip espri kasiyor bir de yok izmir'den duyulmamis da bilmemne. <br/><br/>butun ulke diken ustunde, daha bir ay olmadi ankara'da 100 kisi oldu, adam gelip burda futursuzca espri yapabiliyor ya, insanliginiza tukureyim.<br/><br/>edit: patlamayla ilgili bilgiler bu entri'de yeterince mevcut (bkz: <a class="b" href="/entry/56642929">#56642929</a>)
   entry_writer: dan
 - entry_name: |
     oğlumu kamuda işe almasaydım beceriksiz derlerdi
@@ -60,7 +60,7 @@ data:
     1 aralık 1988 commodore 64 rezaleti
   entry_id: 56644998
   entry_content: |
-    geç de olsa yazmak istediğim rezalet. bilgisayara load yazıp enter'a basmama rağmen press play on tape yazısı çıkmadı. sanırım bir sorun var(dı) .<br/>sözlükteki moruklara selam olsun:)<br/><br/>edit: enter değil return imiş. yaşlandık mazur görün:) cidden hatırlamıyorum.
+    geç de olsa yazmak istediğim rezalet. bilgisayara load yazıp enter'a basmama rağmen press play on tape yazısı çıkmadı. sanırım bir sorun var(dı) .<br/>sözlükteki moruklara selam olsun:)<br/><br/>edit: enter değil return imiş. yaşlandık mazur görün:) cidden hatırlamıyorum.<br/>edit2: ben (bkz: <a class="b" href="/?q=orkun+atao%c4%9flu">orkun ataoğlu</a>) değilim.
   entry_writer: seviyorsevmiyorseviyorsevmiyorseviyor
 - entry_name: |
     silah çekilen ahsen tv sosyal deneyi
@@ -168,7 +168,7 @@ data:
     mark zuckerberg
   entry_id: 56651264
   entry_content: |
-    mark baba oldu ssg hala elizabeth.
+    mark baba oldu ssg hala elizabeth.<br/><br/>edit: evli diye mesajlar geliyor. biliyorum evli olduğunu, yazar burada çocuğu olmadığını kastetmiş ekşi'de bile bunu belirtelim mi amk.
   entry_writer: n4n0
 - entry_name: |
     türkiye'de ingilizce öğretilemiyor olması
@@ -186,7 +186,7 @@ data:
     ilçelerinden daha az bilinen il merkezleri
   entry_id: 56636248
   entry_content: |
-    (bkz: <a class="b" href="/?q=istanbul">istanbul</a>)<br/><br/>merkezi neresi olm buranın, beşiktaş, kadıköy vs var tamam ama istanbul merkez nerde, yok bile.
+    (bkz: <a class="b" href="/?q=istanbul">istanbul</a>)<br/><br/>merkezi neresi olm buranın, beşiktaş, kadıköy vs var tamam ama istanbul merkez nerde, yok bile.<br/><br/>edit: cevaplar için teşekkürler arkadaşlar. valilik binası merkez diyorlar.<br/><br/>edit2: valilik binası fatih ilçesinde bulunmakta. buna göre fatih merkez ilçe konumunda (bence)
   entry_writer: bosmuhendis
 - entry_name: |
     hoşlanan erkeğin adım atmama sebebi
@@ -276,7 +276,7 @@ data:
     beymen'deki 905 liralık delgeç
   entry_id: 56645244
   entry_content: |
-    <a rel="nofollow" class="url" target="_blank" href="https://www.beymen.com/p_el-casco-tel-zimba-delgec-st_107159_10155" title="https://www.beymen.com/p_el-casco-tel-zimba-delgec-st_107159_10155">https://www.beymen.com/…imba-delgec-st_107159_10155</a><br/><br/>çok güzel delmek için kaçırmayın. <br/><br/>ayrıca sonbahar kış mevsimine aitmiş yazın delemezsiniz ona göre.<br/><br/>edit: altında çok konuşma del geç yazdırıp trip de attırabilirsiniz.
+    <a rel="nofollow" class="url" target="_blank" href="https://www.beymen.com/p_el-casco-tel-zimba-delgec-st_107159_10155" title="https://www.beymen.com/p_el-casco-tel-zimba-delgec-st_107159_10155">https://www.beymen.com/…imba-delgec-st_107159_10155</a><br/><br/>çok güzel delmek için kaçırmayın. <br/><br/>ayrıca sonbahar kış mevsimine aitmiş yazın delemezsiniz ona göre.<br/><br/>edit: altında çok konuşma del geç yazdırıp trip de attırabilirsiniz.<br/><br/>debe edit cansever: maç linkleri için kesinlikle takip edin. maç saatinde hesap korumalı oluyor bilginize. <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/linkulan" title="https://twitter.com/linkulan">https://twitter.com/linkulan</a>
   entry_writer: bu is zor yonca
 - entry_name: |
     harun erdenay
@@ -288,7 +288,7 @@ data:
     bu iddialar kanıtlanırsa ben bu makamda durmam
   entry_id: 56633810
   entry_content: |
-    geçmişteki örneklere bakarak, erdoğan bu sözleri söylediğine göre hakkındaki iddiaların büyük ihtimalle doğru olduğunu ve ispatı halinde "istifa demedim istifra dedim" diyeceğini tahmin etmek zor değildir.
+    geçmişteki örneklere bakarak, erdoğan bu sözleri söylediğine göre hakkındaki iddiaların büyük ihtimalle doğru olduğunu ve ispatı halinde "istifa demedim istifra dedim" diyeceğini tahmin etmek zor değildir.<br/><br/>debedit: entry'nin üzerinden 24 saat geçmeden tahminlerimiz doğru çıkmıştır. bir kere de bizi haksız çıkar be başgan.<br/><br/>(bkz: <a class="b" href="/?q=2+aral%c4%b1k+2015+rusya+savunma+bakanl%c4%b1%c4%9f%c4%b1+a%c3%a7%c4%b1klamas%c4%b1">2 aralık 2015 rusya savunma bakanlığı açıklaması</a>)
   entry_writer: gui de souza
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
