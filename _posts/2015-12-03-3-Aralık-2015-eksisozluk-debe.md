@@ -24,7 +24,7 @@ data:
     instagram
   entry_id: 56660657
   entry_content: |
-    sevin beni. ne olur bak çokgozel çıkıyom resimlerde. arkadaşlarım da var. yalnız değilim. hobilerim var. yalvarırım sevin beni. yeni makina aldım süper fotolar çekiyorum. merhametliyim, yaşamaktan çok iyi anlıyorum. sabah kahvaltısı, akşam yemeği nerede yenir nasıl yenmesi gerekir en iyi ben biliyorum. güneş batıyor oradayım, doğuyor selfiyle ispatlıyorum. yaşıyorum olm ben. hayattan zevk alıyorum valla bak. kitap okuyorum kahvem var görmedin mi geçen paylaştım. konserlere gidiyorum bisiklet biniyorum, kayak yapıyorum kumsalda bacak fotom bile var. sevin beni ne olur psikolojisinde bir paylaşım platformu.
+    sevin beni. ne olur bak çokgozel çıkıyom resimlerde. arkadaşlarım da var. yalnız değilim. hobilerim var. yalvarırım sevin beni. yeni makina aldım süper fotolar çekiyorum. merhametliyim kedi seviyorum, yaşamaktan çok iyi anlıyorum. sabah kahvaltısı, akşam yemeği nerede yenir nasıl yenmesi gerekir en iyi ben biliyorum. güneş batıyor oradayım, doğuyor selfiyle ispatlıyorum. yaşıyorum olm ben. hayattan zevk alıyorum valla bak. kitap okuyorum kahvem var görmedin mi geçen paylaştım. konserlere gidiyorum bisiklet biniyorum, kayak yapıyorum kumsalda bacak fotom bile var. sevin beni ne olur psikolojisinde bir paylaşım platformu.
   entry_writer: karayemis
 - entry_name: |
     2 aralık 2015 boğazların ruslara kapatılması
@@ -108,7 +108,7 @@ data:
     erkeklerin kız seçerken kriterleri
   entry_id: 56672712
   entry_content: |
-    cumartesi kısmetse benim kız dünyaya gelecek, tek beklentim sağlıklı olması.
+    cumartesi kısmetse benim kız dünyaya gelecek, tek beklentim sağlıklı olması.<br/><br/>edit: çok fazla mesaj geldi. iyi dilekleriniz için hepinize çok teşekkür ederim. çok güzel insanlarsınız.
   entry_writer: marques de pombal
 - entry_name: |
     binanın içinde roketle kendini vuran ışid'li
@@ -264,7 +264,7 @@ data:
     2 aralık 2015 hürriyet gazetesi sansürü
   entry_id: 56664027
   entry_content: |
-    (bkz: <a class="b" href="/?q=2+aral%c4%b1k+2015+rusya+savunma+bakanl%c4%b1%c4%9f%c4%b1+a%c3%a7%c4%b1klamas%c4%b1">2 aralık 2015 rusya savunma bakanlığı açıklaması</a>) ile ilgili saatlerdir ses seda yok. varsa yoksa magazin. <br/><br/>rusya savunma bakanlığı açıklaması'nın dünyayı ayağa kaldırdığı anlarda aradan 3 saat geçmesine rağmen ana sayfasında yaptığı haberler:<br/><br/>- türkiye ile o ülke arasında vizeler kalktı<br/>- yüzünüzde bu belirtiler varsa 4 saatiniz var<br/>- sezercik cezaevinde<br/>- gruplardayız allah'ım şükürler olsun<br/><br/>bu açıklamayı haber yapmamalarını sansür dışında nasıl izah edebiliriz? editörler uyuyor mu yoksa alo hürriyet vakası mı yaşanıyor? yazık.. utanç verici.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.sozcu.com.tr/2015/gundem/rusyadan-bomba-turkiye-isid-iliskisi-iddialari-1000133/" title="http://www.sozcu.com.tr/2015/gundem/rusyadan-bomba-turkiye-isid-iliskisi-iddialari-1000133/">http://www.sozcu.com.tr/…liskisi-iddialari-1000133/</a><br/><br/>hurriyet gazetesinin havuz medyasına katıldığına en ufak şüphesi olanlar buyursun 28 kasım 2015 manşeti :<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CVO9GR2XIAA2Rt1.jpg:large" title="https://pbs.twimg.com/media/CVO9GR2XIAA2Rt1.jpg:large">https://pbs.twimg.com/…ia/cvo9gr2xiaa2rt1.jpg:large</a>
+    (bkz: <a class="b" href="/?q=2+aral%c4%b1k+2015+rusya+savunma+bakanl%c4%b1%c4%9f%c4%b1+a%c3%a7%c4%b1klamas%c4%b1">2 aralık 2015 rusya savunma bakanlığı açıklaması</a>) ile ilgili saatlerdir ses seda yok. varsa yoksa magazin. <br/><br/>rusya savunma bakanlığı açıklaması'nın dünyayı ayağa kaldırdığı anlarda aradan 3 saat geçmesine rağmen ana sayfasında yaptığı haberler:<br/><br/>- türkiye ile o ülke arasında vizeler kalktı<br/>- yüzünüzde bu belirtiler varsa 4 saatiniz var<br/>- sezercik cezaevinde<br/>- gruplardayız allah'ım şükürler olsun<br/><br/>bu açıklamayı haber yapmamalarını sansür dışında nasıl izah edebiliriz? editörler uyuyor mu yoksa alo hürriyet vakası mı yaşanıyor? yazık.. utanç verici.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.sozcu.com.tr/2015/gundem/rusyadan-bomba-turkiye-isid-iliskisi-iddialari-1000133/" title="http://www.sozcu.com.tr/2015/gundem/rusyadan-bomba-turkiye-isid-iliskisi-iddialari-1000133/">http://www.sozcu.com.tr/…liskisi-iddialari-1000133/</a><br/><br/>hurriyet gazetesinin havuz medyasına katıldığına en ufak şüphesi olanlar buyursun 28 kasım 2015 manşeti :<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CVO9GR2XIAA2Rt1.jpg:large" title="https://pbs.twimg.com/media/CVO9GR2XIAA2Rt1.jpg:large">https://pbs.twimg.com/…ia/cvo9gr2xiaa2rt1.jpg:large</a><br/><br/>edit: söz konusu hürriyet manşetine montaj diyenler için <a rel="nofollow" class="url" target="_blank" href="http://www.memurlar.net/gazeteler/2015/11/28/hurriyet/" title="http://www.memurlar.net/gazeteler/2015/11/28/hurriyet/">orjinali</a>
   entry_writer: enola gay
 - entry_name: |
     ateist olmasına rağmen ahlaklı olan insan
@@ -282,7 +282,7 @@ data:
     wesley sneijder
   entry_id: 56665914
   entry_content: |
-    <a rel="nofollow" class="url" target="_blank" href="http://postimg.org/image/hfjtgg67v/" title="http://postimg.org/image/hfjtgg67v/">http://postimg.org/image/hfjtgg67v/</a><br/><br/>mizah anlayışı da futbolu gibi on numara olan süper yıldız, süper adam.
+    <a rel="nofollow" class="url" target="_blank" href="http://postimg.org/image/hfjtgg67v/" title="http://postimg.org/image/hfjtgg67v/">http://postimg.org/image/hfjtgg67v/</a><br/><br/>mizah anlayışı da futbolu gibi on numara olan süper yıldız, süper adam. iyi ki bizdesin lan.
   entry_writer: itinayla bozuk kafa tamir edilir
 - entry_name: |
     hoşlanan erkeğin adım atmama sebebi
