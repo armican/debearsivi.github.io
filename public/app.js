@@ -120,8 +120,9 @@ function create_entry(id) {
         $("#next_entry").prop('disabled', true)
                         .css("opacity", 0.5);
     }
+    $("#entry_title").html(entry_title)
+                     .attr("href", "https://eksisozluk.com/?q=" + entry_title.replace(/ /g,"+"));
 
-    $("#entry_title").html(entry_title);
     $("#entry_body").html(entry_text);
     $("#entry_writer").html(entry_writer)
                       .attr("href", "https://www.eksisozluk.com/biri/" + entry_writer);
