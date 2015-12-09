@@ -94,6 +94,9 @@ function create_entry(id) {
     var entry_text = entry_content.html();
     var entry_link = "https://www.eksisozluk.com/entry/" + id;
 
+    // Update relative paths
+    entry_text = entry_text.replace(/href="\//g, 'href="http://www.eksisozluk.com/');
+
     // Set next and previous
     var entry_li = entry_content.parent();
     var prev_entry_id = entry_li.prev().find("a").attr("name");
