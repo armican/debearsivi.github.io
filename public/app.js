@@ -28,6 +28,9 @@ $(document).ready(function() {
     $("#get_debe_date").click(function () {
         var debe_date = $("#debe_date").val();
         var debe_date_split = debe_date.split("/");
+        if (debe_date_split[2][0] == '0'){
+            debe_date_split[2] = debe_date_split[2][1];
+        }
         var url = "/" + debe_date + "/" + debe_date_split[2] +
             "-" + local_month[debe_date_split[1]] +
             "-" + debe_date_split[0] + "-eksisozluk-debe";
