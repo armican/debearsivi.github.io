@@ -68,6 +68,7 @@ $(document).ready(function() {
         if ((event.keyCode || event.which) == 37)
         {
             var id = $("#prev_entry").attr("name");
+            window.location.href = "#" + id;
             create_entry(id);
         }
         
@@ -75,6 +76,7 @@ $(document).ready(function() {
         if ((event.keyCode || event.which) == 39)
         {
             var id = $("#next_entry").attr("name");
+            window.location.href = "#" + id;
             create_entry(id);
         }
     });
@@ -112,7 +114,8 @@ function create_entry(id) {
     if (prev_entry_id){
         $("#prev_entry").removeAttr("disabled")
                         .css("opacity", 1)
-                        .attr("name", prev_entry_id);
+                        .attr("name", prev_entry_id)
+                        .attr("href", "#" + prev_entry_id);
     }
     else {
         $("#prev_entry").prop('disabled', true)
@@ -122,7 +125,8 @@ function create_entry(id) {
     if (next_entry_id){
         $("#next_entry").removeAttr("disabled")
                         .css("opacity", 1)
-                        .attr("name", next_entry_id);
+                        .attr("name", next_entry_id)
+                        .attr("href", "#" + next_entry_id);
     }
     else {
         $("#next_entry").prop('disabled', true)
