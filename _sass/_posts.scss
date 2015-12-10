@@ -96,7 +96,15 @@
 }
 #entry_title {
   color: #5873D8;
-   margin-top: 2rem;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
 }
 
 #debe_date_p {

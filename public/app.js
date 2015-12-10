@@ -28,6 +28,9 @@ $(document).ready(function() {
     $("#get_debe_date").click(function () {
         var debe_date = $("#debe_date").val();
         var debe_date_split = debe_date.split("/");
+        if (debe_date_split[2][0] == '0'){
+            debe_date_split[2] = debe_date_split[2][1];
+        }
         var url = "/" + debe_date + "/" + debe_date_split[2] +
             "-" + local_month[debe_date_split[1]] +
             "-" + debe_date_split[0] + "-eksisozluk-debe";
@@ -94,6 +97,9 @@ function create_entry(id) {
     var entry_text = entry_content.html();
     var entry_link = "https://www.eksisozluk.com/entry/" + id;
 
+    // Update relative paths
+    entry_text = entry_text.replace(/href="\//g, 'href="http://www.eksisozluk.com/');
+
     // Set next and previous
     var entry_li = entry_content.parent();
     var prev_entry_id = entry_li.prev().find("a").attr("name");
@@ -117,8 +123,9 @@ function create_entry(id) {
         $("#next_entry").prop('disabled', true)
                         .css("opacity", 0.5);
     }
+    $("#entry_title").html(entry_title)
+                     .attr("href", "https://eksisozluk.com/?q=" + entry_title.replace(/ /g,"+"));
 
-    $("#entry_title").html(entry_title);
     $("#entry_body").html(entry_text);
     $("#entry_writer").html(entry_writer)
                       .attr("href", "https://www.eksisozluk.com/biri/" + entry_writer);
