@@ -81,6 +81,11 @@ $(document).ready(function() {
 
     // Create first entry
     var first_entry = $("#entry_ul").first("li").find("a").attr("name");
+    // Get entry with domain
+    var page_hash = window.location.hash;
+    if(page_hash){
+        first_entry = page_hash.replace("#","");
+    }
     create_entry(first_entry);
 });
 

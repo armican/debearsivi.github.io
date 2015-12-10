@@ -9,7 +9,7 @@ layout: default
     <ul id="entry_ul">
     {% for i in page.data %}
       <li class="entry_li">
-        <a class="entry_list" name="{{ i.entry_id }}">{{ i.entry_name }}</a>
+        <a class="entry_list" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
         <div class="entry_content" id="entry_{{ i.entry_id }}"
              data-writer="{{ i.entry_writer }}" data-title="{{ i.entry_name }}">{{ i.entry_content }}</div>
       </li>
