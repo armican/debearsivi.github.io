@@ -120,14 +120,8 @@ data:
     iz bırakan porno film sahneleri
   entry_id: 56894004
   entry_content: |
-    ben ilk porno filmimi izlerken gördüğüm bir sahneyi hala unutamam. <br/><br/>lokantadalar, iki adam karşılıklı oturuyor biri yemeğini bekliyor, diğeri çorba içiyor, adamlardan yemeğini bekleyen gazetesini okurken gizli gizli otuzbir çekiyo, o sırada çorbasını içen adam garsona bişi söylemek için arkasını dönüyo, gazete okuyan adam da adamın çorbasına boşalıyo, sonra adam o çorbayı içiyo.<br/><br/>anasını avradını siktiğimin alman yönetmeni, senin ülkenin mizah anlayışını sikim orospunun çocuğu, o günden beri (ki yaklaşık otuz yıl oldu) ne zaman çorba içsem aklıma o sahne geliyor. allah senin belanı versin ya, pis herif. işin ilginci film de gay filmi değildi, iki dakka sonra çorbaya attıran adam garsonları öfeledi.
+    ben ilk porno filmimi izlerken gördüğüm bir sahneyi hala unutamam. <br/><br/>lokantada geçiyor mevzu, iki adam karşılıklı oturuyor masada biri yemeğini bekliyor, diğeri çorba içiyor, ama adamlardan yemeğini bekleyen gazetesini okurken aşağıda gizli gizli otuzbir çekiyo, o sırada çorbasını içen adam garsona bişi söylemek için arkasını dönüyo, gazete okuyan adam da diğerinin çorbasına boşalıyo, sonra adam o çorbayı içiyo.<br/><br/>anasını avradını siktiğimin alman yönetmeni, senin ülkenin mizah anlayışını sikim orospunun çocuğu, o günden beri (ki yaklaşık otuz yıl oldu) ne zaman çorba içsem aklıma o sahne geliyor. allah senin belanı versin ya, pis herif. işin ilginci film de gay filmi değildi, iki dakka sonra çorbaya attıran adam iki garsonu öfeledi.
   entry_writer: stevemcqueen
-- entry_name: |
-    tolga zengin
-  entry_id: 56886660
-  entry_content: |
-    hakkında şu paylaşımı okuduktan sonra kahkahaya boğulduğum beşiktaş kalecisi.<br/><br/>+ maçtan sonra tolga gözyaşlarını tutamadı.<br/><br/>efsanevi yorum ise sonrasında<br/><br/>- onu da mı tutatamamış aq kalecisi.<br/><br/>edit: siyahbeyaz
-  entry_writer: neasta
 - entry_name: |
     sözlükçülerin şu an ihtiyacı olan şey
   entry_id: 56878664
