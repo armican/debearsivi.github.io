@@ -12,7 +12,7 @@ data:
     israil devleti türkiye'nin dostudur
   entry_id: 57105864
   entry_content: |
-    chp veya hdp liderlerinin birinden çıksaydı bu demeç, buralar aktrollerden geçilmezdi.<br/><br/><a class="b" href="/?q=23+aral%c4%b1k+2015+demirta%c5%9f+lavrov+g%c3%b6r%c3%bc%c5%9fmesi">23 aralık 2015 demirtaş lavrov görüşmesi</a>ne atıp tutan çomarları sahneye davet ediyorum.<br/><br/>çekirdeğimi aldım, kıvırmaları bekliyorum.
+    chp veya hdp liderlerinin birinden çıksaydı bu demeç, buralar aktrollerden geçilmezdi.<br/><br/><a class="b" href="/?q=23+aral%c4%b1k+2015+demirta%c5%9f+lavrov+g%c3%b6r%c3%bc%c5%9fmesi">23 aralık 2015 demirtaş lavrov görüşmesi</a>ne atıp tutan çomarları sahneye davet ediyorum.<br/><br/>çekirdeğimi aldım, kıvırmaları bekliyorum.<br/><br/>edit: kıvırma tepeden gelmiş. israyil oldu mu sana isr4il.
   entry_writer: zerdest
 - entry_name: |
     robin van persie
@@ -26,12 +26,6 @@ data:
   entry_content: |
     iste tam gülünecek bir olay. o marsla zamaninda avrupaları titreten ordu şimdi şırnak'ın cizre'nin mahallelerinde kürtlere kabadayılık taslıyor. gücü en fazla kürt halkına yetiyor. bir türk olarak söylemeliyim ki bu tür hareketleri çok şovenist ve ergence buluyorum duvar yazıları dahil. bunlar barışı uzakta tutan safsatalar sadece.
   entry_writer: xarinin
-- entry_name: |
-    pkk destekçilerine tek dalan adam
-  entry_id: 57097670
-  entry_content: |
-    istanbulun ortasında yaptıkları eyleme bak. kürdistan ne amk! siktiğimin dağ ayıları, medeniyetsiz orospular. sizden ala katil yok utanmadan ağlıyorsunuz. kazdığınız hendekler, yerleştirdiğiniz eypler yüzünden akan her damla kan burnunuzdan fitil fitil gelecek. 90'larda yapsalar köprüye cesetleri asılırdı geldiğimiz noktaya bak, terör savunucuların karşısına çıkan kötü gösteriliyor. <br/><br/>bu orospuları başımıza çıkaran akp'nin yatacak yeri yok. polis bile gelip almıyor bu orospuları köprünün üstünden.<br/><br/>edit: imla.
-  entry_writer: yozcan
 - entry_name: |
     pkk'lıların hakkari'de liseyi yakma görüntüleri
   entry_id: 57102549
@@ -48,7 +42,7 @@ data:
     deli gibi ptt 1. lig maçı izleyen baba
   entry_id: 57105636
   entry_content: |
-    ya psikolojik sorunları vardır ya da bize söylemeden gizli gizli <a class="b" href="/?q=scout">scout</a>'luk yapıyor amk.<br/><br/>adam bildiğin; <a class="b" href="/?q=%c5%9fanl%c4%b1urfaspor">şanlıurfaspor</a> - <a class="b" href="/?q=varta%c5%9f+elaz%c4%b1%c4%9fspor">vartaş elazığspor</a> maçını izliyor lan. "<a class="b" href="/?q=fener%27in+ma%c3%a7%c4%b1+var">fener'in maçı var</a>. <sup class="ab"><a title="(bkz: 20 aralık 2015 gençlerbirliği fenerbahçe maçı)" href="/?q=20+aral%c4%b1k+2015+gen%c3%a7lerbirli%c4%9fi+fenerbah%c3%a7e+ma%c3%a7%c4%b1" data-query="20 aralık 2015 gençlerbirliği fenerbahçe maçı">*</a></sup> internetten izliyorum, izliceksen gel" diyorum. "hayır" diyor. bi de kendisi fenerli. <br/><br/>izlediği maçta da aksiyon sıfır, gol yok, atmosfer yok, zemin tarla gibi... <sup class="ab"><a title="(bkz: gap arena)" href="/?q=gap+arena" data-query="gap arena">*</a></sup> adamın beyni iyice yandı <a class="b" href="/?q=ptt+1.+lig">ptt 1. lig</a> maçı izlemekten. <br/><br/>eğer sizin de böyle bir babanız varsa, çok geçmeden tedavi ettirin...<br/><br/>not: ben bu satırları yazarken skor 1-1 oldu lan.
+    ya psikolojik sorunları vardır ya da bize söylemeden gizli gizli <a class="b" href="/?q=scout">scout</a>'luk yapıyor amk.<br/><br/>adam bildiğin; <a class="b" href="/?q=%c5%9fanl%c4%b1urfaspor">şanlıurfaspor</a> - <a class="b" href="/?q=varta%c5%9f+elaz%c4%b1%c4%9fspor">vartaş elazığspor</a> maçını izliyor lan. "<a class="b" href="/?q=fener%27in+ma%c3%a7%c4%b1+var">fener'in maçı var</a>. <sup class="ab"><a title="(bkz: 20 aralık 2015 gençlerbirliği fenerbahçe maçı)" href="/?q=20+aral%c4%b1k+2015+gen%c3%a7lerbirli%c4%9fi+fenerbah%c3%a7e+ma%c3%a7%c4%b1" data-query="20 aralık 2015 gençlerbirliği fenerbahçe maçı">*</a></sup> internetten izliyorum, izliceksen gel" diyorum. "hayır" diyor. bi de kendisi fenerli. <br/><br/>izlediği maçta da aksiyon sıfır, gol yok, atmosfer yok, zemin tarla gibi... <sup class="ab"><a title="(bkz: gap arena)" href="/?q=gap+arena" data-query="gap arena">*</a></sup> adamın beyni iyice yandı <a class="b" href="/?q=ptt+1.+lig">ptt 1. lig</a> maçı izlemekten. <br/><br/>eğer sizin de böyle bir babanız varsa, çok geçmeden tedavi ettirin...<br/><br/>not: ben bu satırları yazarken skor 1-1 oldu lan.<br/><br/>yardım kampanyası editi;<br/>(bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> ne amk?
   entry_writer: minik mavi balina
 - entry_name: |
     dilek doğan'ın canlı bomba ile çekilmiş fotoğrafı
@@ -72,13 +66,13 @@ data:
     josep guardiola
   entry_id: 57097870
   entry_content: |
-    kesin city'ye gider. direkt 5 yıldızlı takım alan ergen fm'cisidir kendisi.
+    kesin city'ye gider. direkt 5 yıldızlı takım alan ergen fm'cisidir kendisi.<br/><br/>edit: debe olmuş sanırım.<br/>(bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: gettin crunk
 - entry_name: |
     23 aralık 2015 demirtaş lavrov görüşmesi
   entry_id: 57094567
   entry_content: |
-    rusya'nın pkk'ya nasıl daha iyi yardım yapabileceğine ilişkin görüşmedir.
+    rusya'nın pkk'ya nasıl daha iyi yardım yapabileceğine ilişkin görüşmedir.<br/><br/>edit: (bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: malcolmy
 - entry_name: |
     10 bin lira ile yapılabilecek işler
@@ -90,10 +84,10 @@ data:
     bir whatsapp'tan meme atanı bile olmamak
   entry_id: 57110456
   entry_content: |
-    (bkz: <a class="b" href="/?q=tek+c%c3%bcmle+mi+lan+o">tek cümle mi lan o</a>)
+    (bkz: <a class="b" href="/?q=tek+c%c3%bcmle+mi+lan+o">tek cümle mi lan o</a>)<br/><br/>edit: yine mükemmel bir entry'mi debeye soktuğunuz için teşekkürler. muazzam bir entry gerçekten. hay allah kahretmesin. <br/>neyse, (bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: arres
 - entry_name: |
-    neden bazı nesnelere dokununca elektrik çarpması
+    bazı nesnelere dokununca elektrik çarpması
   entry_id: 57098725
   entry_content: |
     (bkz: <a class="b" href="/?q=engellenmek+i%c3%a7in+%c3%a7%c4%b1rp%c4%b1nan+yazarlar">engellenmek için çırpınan yazarlar</a>)
@@ -102,7 +96,7 @@ data:
     sevilen kıza bakire misin diye sorma süreci
   entry_id: 57101999
   entry_content: |
-    kıza naneli polo şeker uzatırken "hazır laf açılmışken burcu bakire misin" denilebilir.
+    kıza naneli polo şeker uzatırken "hazır laf açılmışken burcu bakire misin" denilebilir.<br/>debe edit: (bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: astral seyyah
 - entry_name: |
     2015-2016 sezonu şampiyonu galatasaray
@@ -114,7 +108,7 @@ data:
     20 aralık 2015 galatasaray akhisar belediye maçı
   entry_id: 57101275
   entry_content: |
-    herhangi bir yatış göremediğim maç. <br/>bu adamlar bize karşı da aynı oynadı, kapandılar kontra ile golü buldular (tolga denen kazmanın da payı var tabi) sonra da kapanmaya devam ettiler. <br/>aynısını bugün de yapıyorlar ama galatasaray bir şekilde golü buldu ve fark da açılmaya başladı.<br/>bunda sıkıntı yapacak, ağlayacak bir şey yok. şu futbolu biraz tadında bırakın amk.<br/><br/>not: beşiktaş.
+    herhangi bir yatış göremediğim maç. <br/>bu adamlar bize karşı da aynı oynadı, kapandılar kontra ile golü buldular (tolga denen kazmanın da payı var tabi) sonra da kapanmaya devam ettiler. <br/>aynısını bugün de yapıyorlar ama galatasaray bir şekilde golü buldu ve fark da açılmaya başladı.<br/>bunda sıkıntı yapacak, ağlayacak bir şey yok. şu futbolu biraz tadında bırakın amk.<br/><br/>not: beşiktaş.<br/><br/>edit: yalniz cidden ne pismissiniz siz ya. efendi gibi iki taraf da saygi gostersin diye bir seyler yazdim yok kapattigi koseden gol yiyo koduklarim, yok sirazesi bilmemneolmus 3.'ler. bi akhisar'i yenince bu kadar gotunuz kalkiyorsa bos bos ugrasiyoruz biz o zaman. <br/><br/>tey allam ya. size de gaz vermeye gelmiyo. efendi gslileri tenzih ediyorum.<br/><br/>sunu da suraya koyalim da su salak ergen atismasi bir ise yarasin.<br/><br/>(bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: belkigelmezyarin
 - entry_name: |
     beşiktaş
@@ -132,7 +126,7 @@ data:
     sözlükçülerin iyi ki almışım dediği şeyler
   entry_id: 57107704
   entry_content: |
-    (bkz: <a class="b" href="/?q=han%c4%b1m">hanım</a>)
+    (bkz: <a class="b" href="/?q=han%c4%b1m">hanım</a>)<br/><br/>debit: boşuna dememişim, debe'ye bile girmiş.
   entry_writer: goldmember
 - entry_name: |
     lig özetleri ütü kokusu banyo yapma pazar günü
@@ -174,7 +168,7 @@ data:
     beşiktaş fenerbahçe maçında memesi sıkılan abi
   entry_id: 57108005
   entry_content: |
-    absürt rönesans tablosu gibi
+    absürt rönesans tablosu gibi.<br/><br/>debe edit <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a><br/>her şey geleceğimiz olan çocuklarımız için
   entry_writer: kalabalik adam
 - entry_name: |
     #tegviçinekranbaşına
@@ -204,7 +198,7 @@ data:
     kız yazabilen kod
   entry_id: 57094047
   entry_content: |
-    (bkz: <a class="b" href="/?q=tamam+hepiniz+kod+yazabiliyorsunuz+tamam">tamam hepiniz kod yazabiliyorsunuz tamam</a>)
+    (bkz: <a class="b" href="/?q=tamam+hepiniz+kod+yazabiliyorsunuz+tamam">tamam hepiniz kod yazabiliyorsunuz tamam</a>)<br/><br/>debedit: (bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: moonwalkyapanzebani
 - entry_name: |
     ntv-sabah'ın dilek doğan'ın öldürülüşünü vermemesi
@@ -264,7 +258,7 @@ data:
     donanımhaber ölücüleri
   entry_id: 57093676
   entry_content: |
-    normalde 1 tl'te tavuk döner ayran takip eden kitle <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/m_112734149/tm.htm" title="http://forum.donanimhaber.com/m_112734149/tm.htm">sağlıklı beslenmeye karar vermiş ve</a> firmayı çökertmeye çalışmışlar.<br/><br/>firma bu sipariş verenlerin kişiliği hakkında bilgi sahibi olsa nasıl bitireceğini bilemezdi kampanyayı. birisinin bölgesinde şube kapanmış, durur mu cengaver hemen aramış müşteri hizmetlerini peki benim mağduriyetim ne olacak demiş ve onlar da 4 kuruşunuzu iade edelim deyince hemen gürlemiş cengaver, kapıda dilenci falan varsa ona verin benim hakkımı istemiyorum demiş. şimdi bir laf derdim de... lan 4 kuruşa 40 tl'lik yemek yemeye çalışıyorsun olmayınca da dilenciye verin diye kükrüyorsun, sen peki nesin?<br/><br/>adam kartlarından siparişi vermiş, doyar mı dürzü! doymaz gitmiş bir de her karta sanal kart oluşturup sipariş vermiş toplamda 7-8 tl gibi bir rakama 1 hafta doymuş. nasıl övünüyor. şu an tüm gıda borsasını yerle bir etti çünkü bu başarısıyla. arabayı da haftaya değiştirir bu tasarruf ettiği parayla. <br/><br/>tek temennim grupanya hard disk faciası gibi bir facia yaşamalarıdır. öyle 200 tl'lik falan değil ama en kötü 2 bin tl tokatlansınlar. sonra amazondan sakız bile alamayacak hale düşsünler.
+    normalde 1 tl'te tavuk döner ayran takip eden kitle <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/m_112734149/tm.htm" title="http://forum.donanimhaber.com/m_112734149/tm.htm">sağlıklı beslenmeye karar vermiş ve</a> firmayı çökertmeye çalışmışlar.<br/><br/>firma bu sipariş verenlerin kişiliği hakkında bilgi sahibi olsa nasıl bitireceğini bilemezdi kampanyayı. birisinin bölgesinde şube kapanmış, durur mu cengaver hemen aramış müşteri hizmetlerini peki benim mağduriyetim ne olacak demiş ve onlar da 4 kuruşunuzu iade edelim deyince hemen gürlemiş cengaver, kapıda dilenci falan varsa ona verin benim hakkımı istemiyorum demiş. şimdi bir laf derdim de... lan 4 kuruşa 40 tl'lik yemek yemeye çalışıyorsun olmayınca da dilenciye verin diye kükrüyorsun, sen peki nesin?<br/><br/>adam kartlarından siparişi vermiş, doyar mı dürzü! doymaz gitmiş bir de her karta sanal kart oluşturup sipariş vermiş toplamda 7-8 tl gibi bir rakama 1 hafta doymuş. nasıl övünüyor. şu an tüm gıda borsasını yerle bir etti çünkü bu başarısıyla. arabayı da haftaya değiştirir bu tasarruf ettiği parayla. <br/><br/>tek temennim <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/m_68213118/tm.htm" title="http://forum.donanimhaber.com/m_68213118/tm.htm">grupanya hard disk faciası</a> gibi bir facia yaşamalarıdır. öyle 200 tl'lik falan değil ama en kötü 2 bin tl tokatlansınlar. sonra amazondan sakız bile alamayacak hale düşsünler.<br/><br/>debe editi:<br/>(bkz: <a class="b" href="/?q=%23tegvi%c3%a7inekranba%c5%9f%c4%b1na">#tegviçinekranbaşına</a>)<br/>(bkz: <a class="b" href="/?q=g%c3%bcvendik+ilk-orta+okulu+yard%c4%b1m+kampanyas%c4%b1">güvendik ilk-orta okulu yardım kampanyası</a>)
   entry_writer: nekropsi
 - entry_name: |
     carlo ancelotti
@@ -284,12 +278,6 @@ data:
   entry_content: |
     bunu da akp kazanacak diye çok korkuyorum sözlük(:
   entry_writer: hadi git
-- entry_name: |
-    ak parti gençlik kolları 4. olağan kongresi
-  entry_id: 57096273
-  entry_content: |
-    (bkz: <a class="b" href="/?q=gen%c3%a7+h%c4%b1rs%c4%b1zlar+rant+pe%c5%9finde">genç hırsızlar rant peşinde</a>)
-  entry_writer: osmangazi86
 - entry_name: |
     pazar sabahı erken kalkmak
   entry_id: 57093572
