@@ -1,0 +1,305 @@
+---
+layout: post
+title: 12 Ocak 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    japonya'nın diğer yüzü
+  entry_id: 57639992
+  entry_content: |
+    --- <a class="b" href="/?q=debe+editi">debe editi</a> ---<br/>herkesin okumasini istedigim icin yukariya aldim editi.<br/>entryi yazma amacim japonyanin mukemmel yanlarini anlatan diger entrylerimi yazmam ile ayni amaci tasiyor: ilgilenen insanlara japonya hakkinda bilgi vermek. <br/>sozlukde populer olan veya olmak isteyen bir yazar degilim. hem o sebeple hem de saat farkindan dolayi genelde entrylerimi sozlukte online suser sayisinin cok az oldugu sabah saatlerinde girerim. bu sekilde hem basliga gereksiz entry yazilmamis olur hem de ilgilenen insanlar (herkes degil sadece ilgilenip arastiranlar) bilgiye ulasabilir. <br/><br/>bir yazar cok dogru bir tespit yapmis kendisini tebrik ederim. "bu arkadaş bu sapmanın neresinde acaba? hangi şehrinde hangi şartlar altında yaşıyor, psikolojik durumu nedir, canı sıkılan bir troll olabilir mi, uyum sağlayamamış olabilir mi, gözlem yeteneği nedir, objektif midir vs ?" <br/><br/>entrynin basinda da belirtmistim kisisel gorusten ziyade gercekleri yazdigimi demekki gozden kacmis.<br/>yine de benim japonya'ya uyum saglayip saglamadigimi, hangi sartlar altinda yasadigimi merak edenler varsa instagram <a rel="nofollow" class="url" target="_blank" href="https://www.instagram.com/rasitasil/" title="https://www.instagram.com/rasitasil/">sayfama</a> bakabilir. <br/><br/>konumuza donelim.<br/><br/><a class="b" href="/?q=vur+dedik+oldurdunuz">vur dedik oldurdunuz</a><br/><br/>bu baslik malesef cok populer oldu. aslinda eksi sozlugu anlamak icin cok da guzel bir ornek oldu. <br/>bence eksi sozlugu anlatan en guzen entry <a class="b" href="/?q=sitki+siyril">sitki siyril</a> adli yazarin <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/5526036" title="https://eksisozluk.com/entry/5526036">bu</a> entrysidir.<br/><br/>"ahmak ya çok sevip abartı över ya da nefret edip abartı söver. öküzce eleştirir. ahmak hayındır" <br/><br/>dune kadar herkesin cok sevdigi hatta tren istasyonunu sadece bir ogrenci icin acik tutmakla egitime ne kadar onem verdiginden konustugu japonya, bugun nefret edilen bir konuma geldi. <br/><br/>ne yazik ki bir seyin olumlu ve olumsuz ozelliklerini ayni anda gorup beraber degerlendirme yapabilecek seviyede degil bir cok insan. <br/><br/>japonya hala egitime cok onem veren, saygili insanlarin yasadigi, suc oraninin en az oldugu ulkelerden birisidir. <br/><br/>japonya'ya geldigim icin pisman olmadim ve asla olmayacagim. japonya'yi seviyorum fakat sevmedigim ozellikleri de var. ayni sey turkiye icin de gecerli, ulkemi seviyorum fakat sevmedigim ozellikleri de var. <br/><br/>japonyayi hala sevebilirsiniz, nefret etmeyin, ama gercekleri de bilin. <br/><br/>bu <a rel="nofollow" class="url" target="_blank" href="http://www.scorebarcafe.com/" title="http://www.scorebarcafe.com/">linke</a> tiklayarak islettigim bara da bir yardiminiz olabilir. icerisinde reklam yoktur ve kar amaci gutmuyor. sadece tik sayisini arttirarak google aramalarinda uste cikmasini saglamak istiyorum. tesekkurler<br/><br/>--- <a class="b" href="/?q=debe+editi">debe editi</a> ---<br/><br/>6 yildan uzun suredir japonya'da yasiyorum. bugune kadar hep japonya hakkinda olumlu entryler girdim. zaten yazdiklarimin disinda daha milyonlarca olumlu ozelligi var japonyanin ve japonlarin. <br/><br/>genel olarak bilinenin disinda japonya burada yasayan insanlarin (turklerin) anlattiklari ile de biliniyor. yani size japonya'yi anlatan bir insanin size anlattiklari aslinda kendi tecrubeleridir. <br/><br/>mesela buraya calismak icin kacak yollardan gelen turklerden dinlerseniz cok farkli bir dunya, benim gibi ogrencilerden dinlerseniz apayri bir dunyadir. o nedenle genelde yorum yapmadan gercekleri yazmaya calistim yillarca. bir iki kere kendi gorusumu yazdigimda karsi cikanlar oldu. <br/>mesela japon kizlarinin dunyanin en basit ayarlanabilir kizlar oldugunu yazmistim, japonya'da yasayan ve tum ugraslarina ragmen kiz arkadas edinemeyen turkler karsi cikmisti. o nedenle bu entryi yazarken sadece gercekleri yazicagim. japonya'nin mukemmel olmayan hatta sizi rahatsiz edebilecek ozelliklerini yaziyorum.<br/><br/>not: bu entryi yazmamin en buyuk nedeni az once gordugum <a class="b" href="/?q=%c3%bcmraniye%27deki+sap%c4%b1%c4%9f%c4%b1+%c5%9fikayet+ediyoruz">ümraniye'deki sapığı şikayet ediyoruz</a> basligidir. <br/><br/>japonya'da kirsal alanlarda siklikla olan bir seydir kizlara bakip 31 cekmek. artik o kadar siradanlasmistirki sikayet etmek akillarina bile gelmez. tek amaclari hizlica sag salim uzaklasmaktir. <br/><br/>japonya'da tecavuz cok ama cok fazla olan bir seydir. ozellikle liseli kizlara. bugune kadar siklikla duydugum benzeri hikayelerden bir kaci:<br/><br/>- kiz aksam evine giderken arabayla takip ediliyor, arabaya bindirilip kirsal alanda tecavuz ediliyor.<br/><br/>- kiz evine giderken pesine takilan adam yol ortasinda kizi ellemeye basliyor ve sonrasi tecavuze kadar gidiyor.<br/><br/>- gece kluplerinde tecavuz artik cok siradan bir sey. japonyada kalabalik bir gece klubunde her aksam yasananlar turkiyede yilbasinda taksimde yasananlardan farkli degil. <br/><br/>- klube giden kizi 5-6 erkek zorla icirip sarhos edip eve gorutup tecavuz ediyorlar. <br/><br/>ornekler cogaltilabilir fakat artik bunlar siradanlasmis seyler. <br/><br/>ve tecavuze ugrayan kizlarda ben acik giyinmistim, zayif bir kizim beni kolay lokma olarak gorduler, disaridan bakinca cok fazla cirkef goukmuyorum tecavuz etseler dahi kimseye soylemeyecegimi dusunmus olabilirler vb. itiraflari cok duydum. <br/><br/>yani ulkemizde acik giyindin tecavuzu hakettin mantigi burada da var belliki. <br/><br/>---------------------------------------------------------------------------------------------<br/><br/>tecavuzun yani sira kadinlarin guclu olmasi, kendini savunmasi ve iste yuksek noktalara gelmesi cok fazla hos karsilanmiyor (eskiye gore cok daha iyi konumda ama eski kafali veya yasli insanlarda siklikla bu dusunce hakim). <br/><br/>ideal evlenilecek kadin, sesini cikartmayan, esinin her dedigini yapan, gucsuz, kendine saygisi olmayan kadin. <br/><br/>---------------------------------------------------------------------------------------------<br/><br/>is sartlari cok agir. ozellikle asgari ucretle calisan insanlar gunde 13-14 saat calismaya zorlaniyor. mesai ucreti odemeyen (ise girmeden once odeyecegini soyleyen) sirket cok cok fazla. <br/><br/>cok fazla is degistiren birisinin is bulmasi cok zor. <br/>cv de en onemli sey istikrar. yani onceki isinde kac yil calismis. <br/>omur boyu sozlesme denilen bir sey var japonyada duymussunuzdur. yani bir ise girdiniz hayvan gibi sizi calistirip mesai ucretini odemiyorlar isi birakip yeni is bulucam olayi cok zor. <br/><br/>---------------------------------------------------------------------------------------------<br/><br/>bosanmak ozellikle kadinlar icin hayatin sonu demek. dul kadin hic hos karsilanmiyor. bosanma oraninin cok az olmasi evliliklerin mutlu oldugundan dolayi degil. insanlar bosanmaya korkuyorlar.<br/><br/>---------------------------------------------------------------------------------------------<br/><br/>aldatmak cok siradan bir sey. aldatmak evliligin icinde olan bir sey olarak kabul ediliyor. hem kadinlar hem de erkekler icin. <br/><br/>japonyada aile kulturunun gelismis oldugunu ve insanlarin ailelerine sadik oldugunu biliriz hep. oyle bir dunya yok burada. bosanmadan her boku yiyorlar. <br/><br/>---------------------------------------------------------------------------------------------<br/><br/>kisacasi japonya mukemmel bir ulke olarak gozukse de icine girdiginizde hoslanmayacaginiz bir cok seyi farkediyorusnuz. <br/><br/>bu kadar igrenclik olurken neden hic basina yansimiyor, biz neden bilmiyoruz diyenler olucaktir. <br/>sahsi gorusum, herseyi gizli kapakli yapiyorlar ve genelde yazdiklarimin hepsi kabul edilmis seyler. yani bir kisi cikip sikayet ederse diger insanlar tarafindan suclu oymus gibi gozukuyor. <br/><br/>ulkemizde farkli farkli insanlar mevcut ve yasananlara tepki gosteren farkli kesimler cok fazla. <br/>mesela butun ulkenin islamci oldugunu dusunun, 9 yasindaki bir kiza tecavuz edilse birisinin cikip onun hakkinda konusabilecegini dusunuyor musunuz? <br/>islamci kulturunde kabul edilmis birseydir bu ve kimse sesini cikartamaz ama farli kesimler oldugu icin bunlar dile geliyor.<br/>japonya ise tek duze insanlarin oldugu bir ulkedir. bu nedenle cok fazla sikayet eden olmuyor. <br/><br/>ama japonya'nin bir diger ozelligi hic kimse size karismiyor. yani ne bok yerseniz yiyin gizli kapakli yaptiktan sonra kimsenin sikinde degil. <br/><br/>ben mesela kendi hayatimi istedigim sekilde yasiyorum ve kimsenin umrunda degil. <br/><br/>edit: islamci kavramini islam dini ile karistiranlar olmus. aciklamama yapmama gerek dahi yok diyanetin babanin oz kizina hallenmesi helaldir dedigi bir ulkeyiz. onu diyenler islamci oluyor. <br/><br/>islam dinini yasayana insana sozum yok.<br/><br/>edit 2: 9 yasindaki kiza tecavuz edip, kendi oz kizina hallenmek isteyenlerin inandirici olsun diye islama bok atmakla sucladigi yazi olmustur. <br/><br/>oradaki amac herkesin x'i kabul ettigi bir yerde x'in dogru veya yanlis olmasi sorgulanmaz mantigini gostermekti.<br/><br/>gidip oz kiziniza hallenebilirsiniz diyen diyanete sitem edecegine gelip burada bana sitem etmek ise tam olarak tezimi dogrular niteliktedir. <br/><br/>herkes yapsin ama kimse dile getirmesin. aferin, bravo! <br/><br/>edit 3: japonya'yi iyi bilen <a class="b" href="/?q=mai+hasegawa">mai hasegawa</a>dan bana gelen mesajin bir kismini direk copy paste yaptim.<br/><br/>"kanıksamışlar. gidip sorduğunda "biz japonlar böyleyiz" diyorlar. "biz japonlar böyleyiz" her sorunlarına verdikleri cevap. iş yerinde tacizi de es geçmişsin, aşağı yukarı bir çok kadının başına gelen durum iş yerinde patronu veya çalışma arkadaşları tarafından taciz edilmek. iş çıkışı içmeye gidip eve uğramayan babalar, evin tüm yükünün anneye yıkılması, üstelik annenin de baba gibi ayrıca çalışmak zorunda olması. bu modernizmle de alakalı bir şey değil, tarihlerinde kadının yeri hep aynı, değersiz varlık. ailenin de bir hükmü yok."<br/><br/>son edit: gecen sene kiz arkadasimla yasadigimiz bir olayi anlatiyim. <br/>eglenmeye gittik gece son trenle eve donuyoruz. tren cok kalabalikti. kiz arkadasim trene binmeden once saate bakti ve telefonunu montunun cebine koydu. <br/>eve geldigimizde telefonu yoktu, japonyada hirsizlik cok nadir gorulur o sebeple ikimizde dusurdugunu dusunduk. ben kendi telefonundan aradigimda bir adam cikti, biraz konusunca adamin sarhos oldugunu anladim.<br/>adama telefonu almaya geliyorum adres ver dedigimde telefon senin degil, bu bir bayanin telefonu dedi. o an bi ibnelik oldugunu anladim. <br/>benle konusmayinca kiz arkadasima verdim telefonu ve hoparloru actim. adam aynen sunlari dedi: suanda evdeyim adresi vericem tek basina gel yoksa kapiyi acmam. evine gidip telefonu almasini bilirdim ama japonya'da oldugum icin polise gitik. polis aradi telefonu, neyse sonunda telefonu bir yere birakti ve oradan aldik polisle beraber. <br/><br/>polisin bize anlattigi su: metroda kizin telefonunu caliyorlar, adres verip o adrese gelmesini istiyorlar ve geldiginde eve alip tecavuz ediyorlar. bu polisin siklikla karliastigi bir durummus. boyle orospu cocuklari da var ulkede!
+  entry_writer: mr asil
+- entry_name: |
+    gloria hotels işe alım rezaleti
+  entry_id: 57647560
+  entry_content: |
+    kurumsal olduklarını düşünen bir avuç hak yiyicinin yönettiği oteller grubunun yaşattığı mağduriyetten bahsetmek istiyorum.<br/><br/>öncelikle: (bkz: <a class="b" href="/?q=gloria+hotels+%26+resorts">gloria hotels & resortsorts</a>)<br/><br/>yaşanan olay kız arkadaşımın başına geldi ve hepsi son üç gün içerisinde yaşandı. sıcağı sıcağına aktarıyorum:<br/><br/>aralık ayında <a class="b" href="/?q=gloria+hotels+%26+resorts">gloria hotels & resortsorts</a>'e ait <a class="b" href="/?q=gloria+golf+resort">gloria golf resort</a> insan kaynakları sorumlusu geçtiğimiz aralık ayında kız arkadaşımı arayarak:<br/>ik: özgeçmişinizi (not: özgeçmişini 2015 yılının başlarındaki işkur fuarında vermiştik) çok beğendik. ik departmanında çalışmayı düşünür müsünüz?<br/>k.arkadaşım: halihazırda bir şirketin finans departmanında çalışıyorum, ikda çalışmadım ve ik deneyimim yok, yeni mezunum ama görüşebiliriz. ik düşünebilirim.<br/>ik: zaten biz de yeni mezun ve yetiştirmek üzere birini arıyoruz. o zaman iş görüşmesine gelebilir misiniz?<br/>k.arkadaşım: tamam.<br/><br/>iş görüşmesi 12 aralık 2015 günü gerçekleşiyor ve gloria golf resort ik müdürü ve ik sorumlusu düşünerek dönüş yapacaklarını söylüyorlar. bunun üzerine telefonla birkaç kez daha görüşmenin ardından 23 aralık' 2015'te 4 ocak 2016'ta işbaşı yapabileceğini ve kesinleştiğini söylüyorlar. tabii ki paralelinde işe giriş için gerekli evrakları da gloria'ya e-posta adresinden gönderiyorlar. kız arkadaşım halihazırda çalıştığı yerde bir mağduriyet yaşanmaması ve ihbar tazminatı nedenlerinden ötürü 11 ocak 2016 günü işe başlayabileceğini iletiyor ve ik sorumlusu arkadaş da tamam diyor.<br/><br/>tüm bunlar yaşanırken geçtiğimiz hafta içerisinde e-posta ile iletilmiş sağlık raporu, diploma, fotoğraf vb. gibi gerekli evrakları hazırlıyor ve geçtiğimiz cuma günü (09.01.2016) günü çalıştığı yerde çıkış işlemlerini yaptırarak veda ediyor. aynı cuma günü (09.01.2016) ik sorumlusu telefonla kız arkadaşımı arayarak:<br/>ik: şirketimiz yeni işe alımları durduğu için ancak şubat'ta işe alabileceğiz.<br/>k.arkadaşım: ama ben oraya başlayacağım için işten ayrıldım, nasıl?<br/>ik: şirket yönetimimizin kararı ne yazık ki böyle.<br/>k.arkadaşım: peki şubat'ta başlayacağımın bir garantisi var mı, sözleşme yapabilir miyiz?<br/>ik: yöneticilerimle görüşüp pazartesi günü (11.01.2016) dönüş yapacağım.<br/><br/>ve işte o pazartesi günü bugün. kız arkadaşım telefonla arayarak durumu öğrenmek istiyor ve ik sorumlusu sözleşme yapamayacaklarını, garanti olmadığını iletiyor. <br/><br/>özetle; halihazırda çalışan bir insanı kendi şirketlerinde çalışmak üzere davet ediyorlar, görüşüyorlar, söz veriyorlar, işe giriş evraklarını hazırlattırıyorlar, çalıştığı yerden ayrılmasına neden oluyorlar ve sonra işe başlayacağı günden iki gün önce "kusura bakmayın işe alamayacağız" diyorlar. bu sözde kurumsal bir avuç hak yiyici adiler, rusya'nın turizme etkisine sığınarak bile bile, göre göre bir insanın işsiz kalmasına neden oluyor. kaldı ki rusya krizi kasım ayından beri konuşulan ve şirketlerin o günlerden beri bildikleri bir konuydu.<br/><br/>sizlerden tek bir ricam lütfen bu entryyi paylaşın. lütfen özaltın holding bünyesindeki gloria hotels & resort otellerinde kalmayın ve bu bölgede bu adi yaratıklarla çalışmayı düşünenler arkadaşlarınızı uyarın. bu vicdandan ve iş etiğinden uzak sefillere dava da açacağız.ız.<br/><br/>düzeltme: tarih düzeltildi.<br/><br/>düzeltme 2: bu entrynin hedefi gloria hotels çalışanlarına herhangi bir sorun çıkartmak, itibarsızlaştırmak ya da onları işlerinden etmek değildir. konu tamamen söz konusu kararları veren ve insanları mağdur etmekten çekinmeyen insanlar için yazılmıştır. ayrıca amaç işe geri dönmek ya da üç beş aylık maaşın peşine düşmek değildir. bu ve benzeri haksızlıklara işaret etmek ve tekrarlanmasına engel olmaktır. ayrıca herkesin -sözde- kurumsalım diye gezen şirketleri tanımasına yardımcı olmaktır.
+  entry_writer: quanche
+- entry_name: |
+    zara iş görüşmesi
+  entry_id: 57649619
+  entry_content: |
+    bol şans, umarım bir daha sözlüğe gelecek vaktin bile olmaz, öyle yoğun çalış istiyorum.<br/><br/>lan böyle şizofren gibi olmuşum : <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/L1y7ob.jpg" title="http://i.hizliresim.com/L1y7ob.jpg">http://i.hizliresim.com/l1y7ob.jpg</a>
+  entry_writer: kimi raikkonen kimi kamyon soforu
+- entry_name: |
+    11 ocak 2016 beyaz hakkında soruşturma açılması
+  entry_id: 57641937
+  entry_content: |
+    çok değil 1.5 sene önce aynı programı yapsaydı saray'da eksklüsiv konuk olarak ağırlanıp âkil başkanı yapılırdı.<br/><br/>bu ülke var ya, silme beyinsiz. ağzına kadar.
+  entry_writer: sessizvesakin
+- entry_name: |
+    bir defa gelinen hayatta sabah 8 akşam 5 çalışmak
+  entry_id: 57642144
+  entry_content: |
+    düşündükçe insanı sinir eder. <br/><br/>26 yaşındayım. 7 yıldır aralıksız çalışıyorum. kazandığım parayı harcayacak zamanım yok. kazandığım tek şey 4a dökümünde yer alan gün sayısı. buna kazanmak denirse. peki kaybettiğim zaman ? bunu nasıl telafi edeceğim. 60 yaşında beli bükülmüş bir emekli olarak ; işte şimdi çalışmamın karşılığını alacağım. gelsin dünya turları, yatlar,katlar mı diyeceğim, yoksa gelinim çalışırken evde torun mu bakacağım <a class="b" href="/?q=bilemiyorum+altan">bilemiyorum altan</a> ben bu hayatı kimin için yaşıyorum bilemiyorum. <br/><br/>(bkz: <a class="b" href="/?q=ya%c5%9fama+amac%c4%b1n%c4%b1+sorgulatan+detaylar">yaşama amacını sorgulatan detaylar</a>)
+  entry_writer: banayasal
+- entry_name: |
+    patronun ekşi sözlük'e girmeyi yasaklaması
+  entry_id: 57647651
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hemen+odama+gel">hemen odama gel</a>)
+  entry_writer: hapsuruktan tayyare
+- entry_name: |
+    jennifer lawrence
+  entry_id: 57639272
+  entry_content: |
+    balonmuş. yeni balonumuz hayırlı olsun. 25 yaşında 1'i oscar, 3'ü golden globe, 1'i bafta olmak üzere 96, evet tam 96 ödül kazan ki şunun şurasında 10 yıldır aktif oyunculuk yapıyor.<br/><br/>kazandıkları dışında 2'si oscar, 1'i golden globe, 1'i bafta olmak üzere 150'den fazla da ödül adaylığın olsun ama balon ol. böyle balonlar varsa başka bildiğiniz söyleyin de öğrenelim. <br/>ben de messi diye birini duydum, yok dünyanın en iyisiymiş. daha neler amk. arkamda iniesta varken ben de atarım o golleri. hiç. ağzı olan konuşuyor.<br/><br/>mevzu am göt göstermekmiş. onu da öğrendik. lan kadının özel hayatını sikip attılar hiç de yasal ve etik olmayan yollarla. seni ilgilendirmeyen, 3. şahıs olduğun fotolara yorum yaptın ve şimdi onları kullanarak bu kadını eleştirmeye mi çalışıyorsun? cidden ahlaksızsınız. tek kelime ile ahlaksızsınız.
+  entry_writer: belkigelmezyarin
+- entry_name: |
+    11 ocak 2016 tarkan'ın açıklaması
+  entry_id: 57657002
+  entry_content: |
+    okurken kulaklarımda hüzünlü bir 90 lar şarkısı hissettiren zehir zemberek açıklamadır. insanların hayatına bu derece müdahil olan oturduğu yerden sözde haber yapan klavye kahramanlarına yazılmıştır. bazı vurucu cümleler şöyledir:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bana bahşedilen yeteneğimi paylaşıyor olmam sizlerde bir aidiyet duygusu mu yarattı ki hayatıma ve mahremiyetime bu denli müdahilsiniz?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu da tam metni.<br/><br/>'medya ve toplumların acımasız merceği altında yaşamak nasıl bir şeydir bilir misiniz?<br/>her gün hakkımda yazılan, çizilen, söylenen asılsız haberlerin karşısında susmanın ağır yükünü taşıyabilir misiniz?<br/>hiç empati yapıp anlamaya çalıştınız mı?<br/>bana bahşedilen yeteneğimi paylaşıyor olmam sizlerde bir aidiyet duygusu mu yarattı ki hayatıma ve mahremiyetime bu denli müdahilsiniz?<br/>en insani hakkım olan özel hayatıma saygıyı gözden çıkarmak mıdır şöhretin bedeli?<br/>evlilik kararı aldığım haberlerinin kamuoyuna yansıdığı günden bu yana, hem benimle ilgili hem de eşim, hayat arkadaşım olacak pınar dilek'le ilgili gerek basında, gerekse sosyal medyada söylenenler, yapılan yorumlar yakışık almakta mıdır? <br/>bir insanı iftira ve yalanlarla lekelemeye, kirletmeye çalışmak bu kadar kolay mıdır?<br/>hiç tanımadığınız bir insanı böylesi incitici yalanlarla tanımlayıp üzmeniz reva mıdır? <br/>bu, her şey bir yana, en başta kendisine sonra da bana yapılan bir ayıp ve saygısızlık değil midir? <br/>onun da bir kalbinin, onurunun olduğunu, hem kendisinin hem ailesinin üzülebileceğini hiç düşünmez misiniz? <br/>bir başkasının gözyaşına sebep olacak iftiralarla, gönül kırıcı yalanlarla reyting yapmak nasıl bir habercilik anlayışıdır? <br/>bu asılsız haberleri okuyup onlara itimat eden, yangına körükle giden insanların yüreğinde sağduyu ve merhametten de eser kalmadı mı yoksa?<br/>demokrasi (!) adı altında yaşadığımız bu ülkede şöhretli insanlara yapılan bu haksızlık da insan haklarının bir ihlali değil midir? <br/>özel hayata müdahalenin bir sınırı olmalıdır.<br/>mesleğime, dinleyicime olan sevgim, saygım ve iyi niyetimle yürüdüğüm şöhret yolunda karşılaştığım bu acımasızlıklar, haksızlıklar hiç son bulmayacak mı? <br/>magazin medyasının ve toplumumuzun özel yaşamlarımıza daha saygılı, daha duyarlı olmalarını rica ediyor ve kişisel haklara olan tacizkâr zihniyetin değişmesini temenni ediyorum..<br/>sevgiyle<br/>tarkan'<br/><br/>edit: imla.
+  entry_writer: soykhan
+- entry_name: |
+    donald trump'ın mitinginden kovulan başörtülü
+  entry_id: 57639502
+  entry_content: |
+    doksanlarda türkiye'de sahnelenmiş başörtülü numerolarını akla getirmiş kadın, yarrağı yedin amerika.
+  entry_writer: helix lucorum
+- entry_name: |
+    gelmiş geçmiş en iyi komutan
+  entry_id: 57645361
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kenan+komutan">kenan komutan</a>)
+  entry_writer: denizsabun
+- entry_name: |
+    fakirlerin isyan edip zenginleri linç edeceği gün
+  entry_id: 57640085
+  entry_content: |
+    (bkz: <a class="b" href="/?q=din+fakirler+zenginleri+%c3%b6ld%c3%bcrmesin+diye+vard%c4%b1r">din fakirler zenginleri öldürmesin diye vardır</a>)
+  entry_writer: fanusotu
+- entry_name: |
+    türk nasa'sına isim önerileri
+  entry_id: 57641093
+  entry_content: |
+    türkiye cumhuriyeti ulaştırma denizcilik ve haberleşme bakanlığı havacılık ve uzay daire başkanlığı uzay araştırmaları kısım şefliği.
+  entry_writer: theboyunderthewaterfall
+- entry_name: |
+    life is drunk
+  entry_id: 57646354
+  entry_content: |
+    sözlüğün recep ivedik'i. entrylerin başı belli sonu belli. gülen kitle belli. kaliteden anlayan her yazar üç saniyede yazarı anlayıp aşağı iniyor ve life is drunk nickini görüyor.<br/><br/>edit: entryleri kurgu mu doğru mu bakmıyorum. samimiyetsiz ve mizahtan fersah fersah uzak. kurgu olsa ne olur gerçek olsa ne olur, sanırsın masumiyet müzesi.
+  entry_writer: ehti
+- entry_name: |
+    kürtaj yaptıranların 5 deve bağışlama gerekliliği
+  entry_id: 57639731
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bir+fiyat+listesi+olarak+kuran">bir fiyat listesi olarak kuran</a>)
+  entry_writer: gadanallah
+- entry_name: |
+    incitmeden donun görünüyor deme yöntemi
+  entry_id: 57651926
+  entry_content: |
+    naciz kalb-i harabenizin tamirini ve mes'udiyetini umduğumdan, nadide mevcudiyetinizin mes'udiyetini temin arzumdandır ki, donunuz görünüyor efendim.
+  entry_writer: evetisyan
+- entry_name: |
+    milliyetçilik sırası kürtlerdedir
+  entry_id: 57645902
+  entry_content: |
+    evet. işte bu sebepten, kürtçü partinin kendisine <a class="b" href="/?q=sol">sol</a> demesine kıçımızla gülüyoruz.
+  entry_writer: cedrus deodara
+- entry_name: |
+    polis özel harekat
+  entry_id: 57645497
+  entry_content: |
+    oligarşinin kolluk kuvvetleridir. devlet eliyle halkın katledilmesine sevinen asalaklar görüyorum sözlükte. hadi diyelim ki çok iyi eğitimliler attığını vuruyorlar... sana ne oluyor? sen kimsin kardeş? toplumsal konumun ne senin? devletim dediğin devlet her gün senin ve yedi ceddinin vergiler, savaşlar, sömürü vs. ile ırzına geçiyor. sana ne o devletin silahlı kuvvetlerinden. o silahların parası ve o savaş af edersin ama senin götüne giriyor. devlet seni korumak için savaşmıyor kendi iktidarını sağlamlaştırmak için savaşıyor. bunu da bedavaya senin evladını savaşa yollayarak yapıyor. sen nasıl bir enayisin hiç düşündün mü bunu?<br/><br/>(bkz: <a class="b" href="/?q=a%c5%9fa%c4%9f%c4%b1l%c4%b1k+kompleksi">aşağılık kompleksi</a>)
+  entry_writer: ian fraiser
+- entry_name: |
+    duyulmuş en güzel iltifat
+  entry_id: 57645138
+  entry_content: |
+    3,5 yaşındaki oğlumdan duyduğumdur.<br/><br/>- annecim, okuldayken pıt pıtlar "annemi özledim, annemi özledim" diyorlar. <br/>+ hangi pıt pıtlar oğlum?<br/>- kalbimdeki pıtpıtlar.<br/><br/>36 yaşındayım, hayatımda böyle güzel bir şey duymadım.
+  entry_writer: leaves dancing in the breeze
+- entry_name: |
+    çorum'da kırmızı ışıkta bekleyen tabut
+  entry_id: 57641713
+  entry_content: |
+    <a class="b" href="/?q=metro+turizm">metro turizm</a>'in servis aracıdır o.
+  entry_writer: cedrus deodara
+- entry_name: |
+    umut bulut'a özel maske getirtilmesi
+  entry_id: 57651388
+  entry_content: |
+    özel beyin getirilmesi gerekirken yapılan saçmalıktır.
+  entry_writer: azazel13
+- entry_name: |
+    11 ocak 2016 fifa ballon d'or ödül töreni
+  entry_id: 57654724
+  entry_content: |
+    en son messinin oğlu ödülü niye bana vermediler diye agliyordu sanirim. cocuk evdekileri oyuncak saniyor heralde.
+  entry_writer: vai de capu meu
+- entry_name: |
+    batan gemide feminist olmaması
+  entry_id: 57657366
+  entry_content: |
+    skeptico'nunki kadar olmasın, her erkek gibi benim de hayatım <a class="b" href="/?q=aksiyon">aksiyon</a>la dolu. <br/><br/>part-time <a class="b" href="/?q=yang%c4%b1n">yangın</a>dan bebek kurtarır, part-time dağda <a class="b" href="/?q=ter%c3%b6rist">terörist</a> avlarım. ayda bir patron haftasonları "rica eder", <a class="b" href="/?q=k%c3%b6m%c3%bcr+madeni">kömür madeni</a>ne inerim. iş gezilerinde genelde <a class="b" href="/?q=rehine">rehine</a> olarak somali'ye filan gönderir, ben de bir iki gün izin kullanıp haftasonunu da bağlarım ki bunu dolu dolu tecrübe edeyim. <br/><br/>ne zaman yıllık iznime çıksam, bulunduğum tatil gemisi batar. kendi ciğerlerimle şişirdiğim botlara üçer beşer kadınlar doluşurken, ben kırık bir tahtaya tutunur, suyun içindeki ayaklarımla köpekbalıklarını tekmelerim.<br/><br/>her erkeğin hayatı budur. rakamlar ortada: "harvardlı bir kadın"ın araştırmasına göre ortalama bir erkek emekliliğine kadar karısının onuru için 75 <a class="b" href="/?q=d%c3%bcello">düello</a>ya, kaçırılan kızının peşinden 5 <a class="b" href="/?q=taken">taken</a> devam filmine, kayınvaldesi başının etini yemesin diye 10 denizaltı kurtarma operasyonuna katılır (tabii ki tüpsüz, tüm oksijen tüpleri kadınlara dağıtılmıştır).<br/><br/>oysa bir kadın taş çatlasa kaç gün yaptığı işin hakkını alamıyor ki? <br/>kaç tanesi bir terfide es geçilebilir ki? <br/>kaçından tam gün çalışmanın üstüne ev işlerine orantısız katkı yapması bekleniyor ki? <br/>kaç tanesi korkusundan ve imkansızlıktan boşanamıyor ki? <br/>kaç ülkenin meclislerinde, anayasa mahkemelerinde, yönetim kurullarında %50'nin altında temsil ediliyorlar ki? <br/><br/>bu <a class="b" href="/?q=yalanc%c4%b1+ma%c4%9fduriyet">yalancı mağduriyet</a>lerle güldürmeyin beni. yani hakkaten güldürmeyin, zira birazdan <a class="b" href="/?q=yakuza">yakuza</a>nın elinden bir grup seks kölesi kurtaracağım (kadınlar tabii, tembel olmasalar kendileri kurtulurlardı), elimdeki patlayıcıları gülmekten düşürürsem fena olur.<br/><br/>***<br/><br/>ciddi notlar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.theguardian.com/lifeandstyle/2015/nov/18/women-will-get-equal-pay-in-118-years-wef-gender-parity" title="http://www.theguardian.com/lifeandstyle/2015/nov/18/women-will-get-equal-pay-in-118-years-wef-gender-parity">world economic forum'un senelik raporu</a>: ortalama full-time çalışan kadının kazancı $11k, erkeğinki $20k.<br/><a rel="nofollow" class="url" target="_blank" href="http://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/" title="http://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/">aauw.org</a>: en ilginç bulduğum bilgi, eğitim seviyesinin artmasının ücret farkını kapamaması. <br/><a rel="nofollow" class="url" target="_blank" href="https://www.oecd.org/gender/data/genderwagegap.htm" title="https://www.oecd.org/gender/data/genderwagegap.htm">oecd</a>: türkiye en fazla farkın olduğu yerlerden.<br/><br/>ekstra:<br/>-gençlerin cinsiyete göre kazanç farkı, yaşlılara göre daha az. durum iyiye gidiyor yani.<br/>-erkek-kadın ücret farkının çoğu, doğrudan ayrımcılıkla ilgili değil (kadının çocuk bakmak için kariyerine fazla yüklenmemesini "doğrudan" ayrımcılık olarak saymıyorlar mesela). diğer faktörleri çıkarınca, <a class="b" href="/?q=consad">consad</a>a göre ücret farkının dörtte biri doğrudan ayrımcılıktan kaynaklı.<br/><br/><a class="b" href="/?q=edit">edit</a>: bu arada favori standupçıp <a class="b" href="/?q=bill+burr">bill burr</a>ün feministlerle, aynı örnekleri kullanarak dalga geçtiği <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=onNBxynagXE" title="https://www.youtube.com/watch?v=onNBxynagXE">rutinlerden biri</a>
+  entry_writer: immanuel tolstoyevski
+- entry_name: |
+    gelmiş geçmiş en iyi polis
+  entry_id: 57659020
+  entry_content: |
+    (bkz: <a class="b" href="/?q=gaffar+okkan">gaffar okkan</a>)<br/><br/>------<br/><br/>gaffar okkan, hizbullah'ın çökertilmesinde çok önemli bir rol oynadı. kadın polisler diyarbakır'da ilk kez onun emriyle sokağa çıktılar, trafiği yönettiler. gaffar okkan; iki küçük otomobil aldı ve mavi-beyaza boyattı, ikişer kadın polis görevlendirdi. bir otomobil kaybolan çocukları toplayıp ailelerine teslim ediyor, diğeri de yürümekte zorlanan yaşlılara yardım ediyordu. havaalanındaki kadın polisler yaşlı yolcuların bilet işlemlerini yaptı, uçağa kadar götürdü. havaalanına tekerlekli sandalye aldırdı. okkan'ın ilklerinden biri de şehrin kritik noktalarına kurdurduğu kameralardı. gece yarılarına kadar makam odasındaki dev ekranda sokakları gözlerdi.<br/><br/>---
+  entry_writer: oklavaryum
+- entry_name: |
+    17 ocak 2016 istanbul kar yağışı
+  entry_id: 57646971
+  entry_content: |
+    (bkz: <a class="b" href="/?q=y%c4%b1llard%c4%b1r+ek%c5%9ficiyim+b%c3%b6yle+parselleme+g%c3%b6rmedim">yıllardır ekşiciyim böyle parselleme görmedim</a>)
+  entry_writer: mesglsn sanirm bn yatiyrm
+- entry_name: |
+    lakabı isminin yerine geçmiş sporcular
+  entry_id: 57656966
+  entry_content: |
+    <a class="b" href="/?q=ay%c4%b1">ayı</a> - <a class="b" href="/?q=volkan+demirel">volkan demirel</a>
+  entry_writer: 597
+- entry_name: |
+    leonardo dicaprio
+  entry_id: 57639413
+  entry_content: |
+    oscar olayını hayranlarının onda biri kadar bile kafasına takmadığından emin olduğum aktör. adam bu muhabbet sayesinde gerçekten hak ettiği ilgiyi gördü, reklamını yaptı.<br/><br/>belki de son 5 senedir en üst düzey filmlerde başrol teklifi almasına katkı sağladı bu oscar meselesi. izleyicilerin 'leo bu sene oscarı alabilecek mi' merakı yüzünden filme ekstra katılım sağlayacaklarını bilen yapımcıların ilk tercihi haline geldi. tam bir win-win olayı.<br/><br/>siz merak etmeyin bu sene oscar'ı alacak ama alamasa da kendisini falan kesmez yani. seneye yine büyük bir yapımda başrol oynar.<br/><br/>edit: şu entrimi yanlış anlayan çok insan olmuş. kötü oyuncu falan dediğim zannedilmiş. bakın orada kocaman ne yazmışım: 'adam bu muhabbet sayesinde gerçekten hak ettiği ilgiyi gördü'<br/><br/>leo çok iyi bir oyuncu. aksini iddia eden bir ifade kullanmadım zaten.
+  entry_writer: after all this time
+- entry_name: |
+    david bowie
+  entry_id: 57640060
+  entry_content: |
+    ölümlü olduğunu düşünmediğim için hakkında çıkan haberlere kulak asmadığım dünya dışı varlık<br/><br/>ground control to david bowie.. can you hear me..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=HNuSD49chY8" title="https://www.youtube.com/watch?v=HNuSD49chY8">https://www.youtube.com/watch?v=hnusd49chy8</a>
+  entry_writer: zebra storyteller
+- entry_name: |
+    trt genel müdürü istifa etsin
+  entry_id: 57660539
+  entry_content: |
+    devletin kanalını tarafsız yönetemeyen kişi göreve layık değildir. aynı zamanda ceza kanunu hükümleri gereğince suç işlemektedir.<br/>buyrun şahsın uslubu;<br/>1 -<a rel="nofollow" class="url" target="_blank" href="https://m.facebook.com/story.php?story_fbid=10153822084311870&id=817222918691869" title="https://m.facebook.com/story.php?story_fbid=10153822084311870&id=817222918691869">https://m.facebook.com/…822084311870&id=817222918691869</a> <br/>2- trt genel müdürünün savunduğu ve atatürk'e saygısızlık içeren trt programının video <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/JWRUWqEWcLA" title="https://youtu.be/JWRUWqEWcLA">https://youtu.be/jwruwqewcla</a><br/>3- enver seksen atatürk eder videosu: <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/tRR9laopHAo" title="https://youtu.be/tRR9laopHAo">https://youtu.be/trr9laophao</a><br/>4- trt'nin atatürk adam öldürmeye azmettirici olduğunu ima ettiği program <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/eIWwtStHVho" title="https://youtu.be/eIWwtStHVho">https://youtu.be/eiwwtsthvho</a><br/>- taktir kamuoyunun ben şahsi görüşümle kendisini saygı ile istifaya davet ediyorum. bu istifa çalışmasının yusuf yerkel etkisi göstermesini umuyorum. <br/>istifaya davet ettiğimiz şahsın ismi (bkz: <a class="b" href="/?q=%c5%9fenol+g%c3%b6ka">şenol göka</a>)
+  entry_writer: cocainesavci
+- entry_name: |
+    lg&ing bank&türk telekom rezaleti
+  entry_id: 57657614
+  entry_content: |
+    aslına bakarsanız özetle bir türkiye rezaleti.<br/><br/>bu entryi yazıyorum ki hem başkalarının canı yanmasın, hem bu kurumlar işlerini daha düzgün yapsın hem de türkiye'de insanlar elini kolunu sallayarak insan dolandıramasın.<br/><br/>bugün lg televizyon almak için google a girdim. ve lg led tv yazdım.<br/><br/>karşıma en üst sırada şu adres çıktı.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://lg-kampanyalari.com/" title="http://lg-kampanyalari.com/">http://lg-kampanyalari.com/</a> (bu adresin benzerlerinden birçok var aman dikkatli olun)<br/><br/>girdim biraz inceledim. bir tv kampanyası vardı. (tvlerden pek anlamam) muadiline baktım teknosa ile arasında 200 tl vardı. o yüzden çok işkillenmedim.. neyse 850 numaralı bir telefonu aradım öncelikle. her şey profesyonelce. formu doldurdum. bir sms aldım. hala çok profesyonelce gidiyor. buraları fazla uzatmayacağım çok kısa bir süre içinde lg çalışanı olduğunu düşündüğüm kişiyle kendimi eft yaparken buldum.<br/><br/>evet burada büyük mallık ben de. bunu kabul ediyorum. ama lütfen oturduğunuz yerden "hahahah lan öyle şey mi olur, kredi kartı ödemesi bile yok sen ne sazanmışsın" demeyin. çünkü insan bazen kitleniyor. <br/><br/>şurdan benim gibi kitlenenleri detaylıca görüp, show tv den bile izleyebilirsiniz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://muhtesemikili.com/2015/04/09/lg-marka-adiyla-dolandiricilik-ve-buyuk-soygun/" title="http://muhtesemikili.com/2015/04/09/lg-marka-adiyla-dolandiricilik-ve-buyuk-soygun/">http://muhtesemikili.com/…iricilik-ve-buyuk-soygun/</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=u170WM6GHyI" title="https://www.youtube.com/watch?v=u170WM6GHyI">https://www.youtube.com/watch?v=u170wm6ghyi</a><br/><br/>neyse tam eftyi gönderdim, hala telefonda konuşuyoruz, benim ampüller yandı. direk telefonu kapattım. google da arama dolandırıldığımı anlamıştım. eftyi yapalı ise birkaç dakika falan olmuştu.<br/><br/>hemen eftyi yaptığım şubeyi ve ing bankı aradım. eft yaptığım şube saolsun ilgilendi ama ing bank müşteri hizmetleri direk konuyla ilgilenmek yerine biz burdan bişe yapamayız gidin iş bankası ile görüşün dediler. (eftyi yaptığım kendi hesabım olan şube)<br/><br/>halbuki dolandırıcılık olduğunu söylememe rağmen benimle ilgilenip direk ibanı sorup, hangi şube olduğunu tespit edebilirlerdi. ve eft girilmeden iptal edebilirlerdi, ayrıca hesabı dondurabilirlerdi. tabiki bunu yapmadılar. onun yerine beni başlarından savdılar. iş bankası şubesine koşa koşa gittim. saolsun orda bir görevli yardımcı oldu. ing merkeze 40 dakika! sonra anca ulaşıp hangi şube olduğunu öğrenebildi. tabiki o arada eft karşı tarafın hesaba geçmiş ve para o hesaptandan da çekilmişti bile. <br/><br/>şube ingbank urfa şubesiydi. paramın yerinde yeller esiyordu. kuru bir keşke erken! arasaydınız iptal ederdik ve savcılığa başvurunuz tavsiyesi aldım.<br/><br/>yani anlayacağınız 1 saat içinde lg'nin sorumsuzluğu; çünkü markanız altında 10larca siteden hergün dolandırıcılık yapılıyor ve siz sadece izliyorsunuz. telekom'un özensizliği 850 bu soytarılara bu kadar rahat mı veriliyor? (hadi en suçsuzları bunlar) ve asıl ing bankın vurdumduymazlığı ile 950 tl m hiç oldu. türkiye'de bu şekilde dolandırılan binler arasına girdim.<br/><br/>asıl üzüldüğüm nokta ise hiçbir şey yapamıyor olmak. adamların sitesi açık, telleri açık. her şey ortada. ama o kadar muhteşem bir hukuk,emniyet, ticaret sistemimiz var ki kendi halinde bir müşteri 15 dakika içinde parasını bu sahtekarla kaptırıyor ve sadece soğuk bir su içebiliyor.<br/><br/>lütfen bu tür sitelere dikkat ediniz. benim başıma gelmez, ben külyutmam, herkes senin gibi mal mı demeyiniz.<br/><br/>edit 1: www.lg.com yazmak yerine googla lg yazdım hocam. bu kadar mı zor anlamak yani.<br/><br/>edit 2: bazı arkadaşlar 1200 tllik ürünü 950 tlye almaya çalışırken aklın nerdeydi demişler. sanki 3000 tllik ürünü 300 tlye alıyorum. eminim bunu diyen insanlar 150 tlden 30 liraya düşen kıyafet almamışlardır.<br/><br/>edit 3: ikinci paragrafta aynen şöyle yazıyor. "evet burada büyük mallık ben de. bunu kabul ediyorum" kendinde suç bulmamış diyorsanız artık pes. umarım sizin başınıza böyle bir şey gelmez ne diyeyim.<br/><br/>edit 4: tamam tamam ben malın önde gideniyim. siz çok akıllısınız. maksat benim gibi mal olan varsa dolandırılmasın. egonuzu gidin başka yerde tatmin edin.
+  entry_writer: yasef celebi
+- entry_name: |
+    hindistan'da tuvalet olarak kullanılan plaj
+  entry_id: 57657155
+  entry_content: |
+    açılmaması gereken video, bok kokusu eve kadar geliyor emin olun.<br/><br/>edit: birileri boklu, tecavüzlü başlıklar açarak halimize şükretmemizi bekliyor. oradan hemen lüksemburg'da öğretmenlerin yılda nasıl 300.000tl kazandığını içeren bir karşı başlık açan olsa iyi olacak.
+  entry_writer: oanniyahh
+- entry_name: |
+    kp'den cuma namazı genelgesine iptal başvurusu
+  entry_id: 57649416
+  entry_content: |
+    sanırım bu ülkede ana muhalefet partisi komünist parti
+  entry_writer: kavimler gocunde evi yagmalanan adam
+- entry_name: |
+    cephede sadece robot askerlerin savaşacağı gün
+  entry_id: 57652504
+  entry_content: |
+    eger iki ordu da robot askerlerden olusacaksa güzel bir gündür. <br/><br/>hangi ülkenin olursa olsun cephede ölen askerler o ülkenin yoksul cocuklaridir. <br/><br/>sonuçta boşu boşuna ölmüş olmazlar. <br/><br/>hatta iki ordu da komple robotlardan olusacaksa bence aslında savaşa da gerek yok. ıki ülkenin baskomutanlari karşılıklı <a class="b" href="/?q=counter+strike">counter strike</a> oynasın. oyunu alan savaşi da kazanmış olsun. <br/><br/>hem maliyet düşük olur hem kimse ölmez.
+  entry_writer: auriel
+- entry_name: |
+    11 ocak 2016 muratbey uşak sportif fenerbahçe maçı
+  entry_id: 57654573
+  entry_content: |
+    uşak öndeyken burada "aşigolar götten saplar" diye bkz veren biri vardı. şimdi baktım da silmiş.<br/><br/>her neyse o puşt okuyorsa bu entryi ona bir şeyler söylemek istiyorum; fenerbahçe adamın...
+  entry_writer: yamuk prenses ve 7 cuceler
+- entry_name: |
+    otomatik vites
+  entry_id: 57642697
+  entry_content: |
+    aşırı benzin tüketimine sebep olmayan vites türü.<br/><br/>tek bir çeşit otomatik vites bulunmamakta. klasik tork konvektörlü otomatik vitesler yapıları gereği biraz daha fazla yaktırır. ama yeni nesil çift kavrama 7-8-9 ileri vitesler, hem çok rahat ve performanslıdır hem de daha az yakıt tüketmenizi sağlarlar. <br/><br/>üstelik bunu fabrika verisiyle bile yaparlar. fabrika verisi ölçülürken manuel vites için her zaman doğru zamanda vites değiştiren yarış pilotu kullanılır. ama otomatik vitesi doğru kullanmak için yarış pilotu olmaya gerek yoktur.<br/><br/>yani sen öküzün önde gideni, araba kullanmayı bilmeyen dangalak bir herif olsan dahi, yeni nesil çift kavrama otomatik vites ile manuel vitesten fazla yaktıramazsın. ama yarış pilotu olsan dahi manuel ile otomatikten fazla yaktırabilirsin.<br/><br/>örnek olarak megane st'nin 6 ileri manuel ile 6 ileri çift kavrama otomatiğini<sup class="ab"><a title="(bkz: edc)" href="/?q=edc" data-query="edc">*</a></sup> karşılaştırın. otomatik olan 30kg daha ağır olmasına rağmen yarış pilotunun kullandığı manuel vitese göre şehir içinde 5.6lt yerine 5.2lt yakar. tıpatıp aynı motorla hem daha düşük co2 salınımı hem daha düşük tüketim hem de daha yüksek son hız sunar.<br/><br/>daha 7-8-9 ileri vites otomatikleri karıştırmıyorum iyice ezilmeyin diye.
+  entry_writer: hayvanadam
+- entry_name: |
+    sevr antlaşmasının gizli maddeleri
+  entry_id: 57656367
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bi+bitemediniz+amk">bi bitemediniz amk</a>)<br/><br/>o yüzden mi en son istanbul'a donanmalar yanaşmıştı?<br/>ege yunan bayraklarıyla dolmuştu?<br/>akdeniz italyan kaynıyordu?<br/>doğu ve güneydoğu ingiliz ve fransız kolonisi olma yolundaydı?<br/><br/>siz bu kafayla ancak sizin gibileri kandırırsınız.<br/><br/>he ya atatürk olmasa şimdi hilafet topraklarında hüküm sürüyordunuz?<br/>e atatürk yok al sür ulan? <br/>ssüreceğin hilafet <a class="b" href="/?q=suudi+arabistan">suudi arabistan</a> krallarının hilafeti kadar. güneşte sür ama parlasın!
+  entry_writer: garda
+- entry_name: |
+    yusuf yerkel'in karısının trt'de işe başlaması
+  entry_id: 57649033
+  entry_content: |
+    eski mhp milletvekili lütfü türkkan twitterda duyurunca bu trt'de işe başlamayı kendisini hedef göstermekle suçluyor hanfendi;<br/><br/>"sizin erkeklik ve adamlık anlayışınız bu işte. bir insanın karısını hedef göstermek ancak sizin gibilere yakışır!"<br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/sumeyrakeles/status/686549586597548032" title="https://twitter.com/sumeyrakeles/status/686549586597548032">https://twitter.com/…eles/status/686549586597548032</a><br/><br/>kocanız daha iyi bilir "erkekliği" aslında, yerde gariban adam tekmelerken...
+  entry_writer: siphonensis lacus
+- entry_name: |
+    10 ocak 2016 barış için akademisyenler bildirisi
+  entry_id: 57642456
+  entry_content: |
+    yapılan tam anlamıyla şu.<br/><br/>kendi mekanizmanı kur;<br/><br/>polis birlikleri oluştur,<br/>geceleri asayiş soruşturmaları yap, <br/>yol kes, kimlik iste, durmayanı tara öldür (bkz: <a class="b" href="/?q=abdullah+biro%c4%9ful">abdullah biroğul</a>)<br/>mahkeme kur,<br/>devletin savcısını bile mahkemeye sanık olarak çağırttır,<br/>sokak aralarında elinde silahla poz ver, buralar bizden sorulur de.<br/>35 kişi toplan, hiçbir şeye dayanmadan, kendi kafana göre, <br/>biz varya biz, biz halk olarak özerklik ilan ettik de.<br/>artık burada devleti tanımıyoruz de.<br/>müzakere de neymiş sikerim devletini çek.<br/>vekilin biri çıksın pkk varya tükürüğünde boğar sizi desin.<br/>aynı vekil kışla önüne gelip askeri akıllı olun ha aklınızı alırız şeklinde tehdit etsin.<br/>16-17 yaşında çocukları gazla gazla sokağa sal, <br/>okulları yaktır.<br/>sorun olursa te-ce okullarının kürdistan topraklarında ne işi var dersin.<br/>mahalle mahalle hendek kaz, <br/>evleri tünellerle birbirine bağla,<br/>yüksek binalar siper yap,<br/>belediyelerin sana kum taşısın, siper yapmana yardım etsin.<br/>müzakere yapmam demeye devam et.<br/>meydan okumaya devam et.<br/>sikeriz lan siz kim oluyorsunuz de.<br/>kandil açıklama yapsın, 30000 adamımız var, bak yığarız oraya dağıtırız orayı desin.<br/>ha bu arada iki üç vekilin çıksın sürece dönülmeli diye cılız cılız konuşsun.<br/>bak tekrar yazıyorum 16-17 yaşındaki çocuklara keleşle atış talimi yaptırt.<br/>sonra videolarını paylaş, de ki; kürdistan bu çocuklar sayesinde kurulacak.<br/>kobane'de bu işi öğrendik de,<br/>türkiye kim ki de,<br/>aynı kobane gibi dağıtırız burayı de,<br/>meydan oku. <br/>vekillerin resmi plakalı araçlarıyla erzak taşısın.<br/>diğer vekilin silah taşısın.<br/>hazırlıklara devam.<br/>özerk kürdistan için hazırlıklara devam... <br/><br/>sonra ne mi oldu?<br/><br/>asker-polis o aylarca yaptığın hazırlığı başına yıkmaya başladı.<br/>telsizlerinde cayır cayır ağlayan gerillaların! oy anam yandım kurtarın demeye başladı.<br/>teslim olmayacağız diye bağıran, özerklik ilan eden stk başkanların ortalık toz duman olunca başka şehirlere kaçtı.<br/>medet umduğun halk sandığın gibi sana siper olmadı.<br/>ha kaçanlardan birkaçını taradın göz dağı vermek için ama yine olmadı.<br/>kaçan kaçtı.<br/>kobane gibi destan yazacağız diye kandırdığınız çocuklar telef oldu taş duvarlar arasında.<br/>devlet ezdi geçti.<br/>devlete koridor açın teröristleri geri çekelim diye yalvardın,<br/>devlet kabul etmedi.<br/>yapacak bir şey kalmadı.<br/>tükürüğünde boğar diyen vekilin bile ortalıkta yok.<br/>eş başkanın diyarbakır'ın merkezinde yürüyüş yapacam diye bas bağırıyor,<br/>ev ev geziyor, <br/>ama 100 kişiden fazlasını toplayamıyor.<br/>çare yok kurtarılmalı teröristler.<br/>peki hangi mekanizma devreye girmeli bu durumda?<br/>barış kapsamlı propaganda mekanizması. <br/>cümlenin başına "barış" kelimesini koyunca geri kalan tüm anlamlar masumlaşır çünkü.<br/>-devlet halkını öldürüyor... <br/>-devlet oradaki halkı açlığa mahkum etti...<br/>-olaylar çok farklı yansıtılıyor...<br/>-barış istiyoruz...<br/>-süreç yeniden başlasın...<br/>-30 yıldır silahla neyi çözdünüz ki...<br/>mekanizma işledikçe kendine yandaş buluyor.<br/>önceki süreç tamamen unutulup şu an ortaya çıkan durum göz önüne geliyor.<br/>pkk'nın çorçuğun sırtında devleti tehdit etmesi,<br/>birkaç kuklaya özerklik ilan ettirmesi es geçiliyor.<br/><br/>şehit olan askerler unutuluyor.<br/>yanında arkadaşını kaybetmiş polis unutuluyor.<br/>evladını kaybedip ben de kürdüm diye haykıran baba unutuluyor.<br/>polis olduğu için köyünde vurulan kürt vatandaş unutuluyor.<br/>yığın yığın silah kan ve göz yaşını şehrin göbeğine taşıyanlar unutuluyor...<br/>yüzlerce olay, yüzlerce hikaye unutuluyor.<br/><br/>pkk'ya tek kelime etmeden, <br/>tüm suçu devlete yıkarak,<br/>iğrenç bir propaganda başlıyor.<br/><br/>daha yazılacak çok şey var.<br/>ama insan yazarken tiksiniyor bu adilerden.<br/>yüzlerine yüzlerine haykırsan da fayda etmiyor.<br/>sen ne dersen de, o "barış isteyen masum insan evladı"<br/>sense "savaş isteyen faşist bir mahluk"sun.
+  entry_writer: dise kabin
+- entry_name: |
+    volkswagen'in başında rte olsa olacaklar
+  entry_id: 57647797
+  entry_content: |
+    ailenin babasına yaklaşır:<br/><br/>-oğlana şırokko aldın mı?<br/>-(eller önde kavuşmuş gülümseyerek) hayır sayın cumhurbaşk...<br/>-neden almadın?<br/>-ehm efend..<br/>-polo aldın mı kıza? <br/>-... (sessizlik)<br/>-kıza polo, new beetle?<br/>-hayır efendim ailecek jettamız var bir tane. şimdilik bize yetiyor.<br/>-arkadaş biz boşuna uğraşıyoruz demek ki. her ailede en az 3 araç dedik. <br/><br/>not: sayın cumhurbaşkanım arkadaşlar arasında şakalaşıyoruz kızmadınız inşallah. ellerim önde kavuşuk olduğu için burnumla yazıyorum.
+  entry_writer: zokondor
+- entry_name: |
+    tuvalette dalağını bırakan kız
+  entry_id: 57654862
+  entry_content: |
+    o şey muhtemelen kafe çalışanları tarafından beslenen tuvaletin sevimli maskotuydu ve sen onu öldürdün.
+  entry_writer: omurtak
+- entry_name: |
+    tv8 4 büyükler salon turnuvası
+  entry_id: 57653844
+  entry_content: |
+    beraber izlediğimiz arkadaş;<br/><br/>- abi, şimdi bu adamlar et yemiyor mu? <br/><br/>diye sordu. sanırım sahip olduğum arkadaşları gözden geçirme vaktim gelmiş de geçiyor. <br/><br/>(bkz: <a class="b" href="/?q=veteran">veteran</a>)<br/>(bkz: <a class="b" href="/?q=vejetaryen">vejetaryen</a>)
+  entry_writer: tepedeninme
+- entry_name: |
+    sümeyra keleş yerkel
+  entry_id: 57649389
+  entry_content: |
+    <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/knGy8W.jpg" title="http://i.hizliresim.com/knGy8W.jpg">http://i.hizliresim.com/kngy8w.jpg</a><br/><br/><a class="b" href="/?q=l%c3%bctf%c3%bc+t%c3%bcrkkan">lütfü türkkan</a>'a erkeklik ve adamlık konusunda ayar vermeye çalışmış. <br/><br/>kocasının savunmasız şekilde yere yatırılmış vatandaşı tekmelerken gösterdiği erkeklikten etkilenmiş olabilir, bilemiyorum.
+  entry_writer: jokullmagic
+- entry_name: |
+    çirkin özgüvensiz ve fakir erkek seven güzel kız
+  entry_id: 57646039
+  entry_content: |
+    bir bildiği vardır.<br/><br/>not: <br/>kalmış başlık benim başa, <br/>kurban olam kara kaşa..<br/>o güzelden haber yok<br/>başımı vuram taştan taşa..
+  entry_writer: ortalama insan dusuncesine sahip insan
+- entry_name: |
+    akp'nin doğan grubu'na dayattığı 4 madde
+  entry_id: 57642164
+  entry_content: |
+    yetersiz bulduğum maddelerdir.<br/><br/>bütün doğan ailesini canlı yayında azgın atlara tokmaklattırabilir bence.<br/>bence reddetmezler. <br/><br/>para önemli sonuçta. göt dediğin nedir ki??
+  entry_writer: octave charcot
+- entry_name: |
+    sümeyye erdoğan'ı devlet protokolünün karşılaması
+  entry_id: 57643731
+  entry_content: |
+    tam 5 paragraf yazı yazdım biraz önce. tam göndere basacağım esnada ulan göte girer bu diye düşünüp sildim. öyle çok söylenecek laf var ki!<br/><br/>hadi kaymakam, vali dediğin adam eyvallah hep böyleydi. eskiden de valiler böyleydi (istisnalar hariç) ama ordu lan. tsk. ne hale getirdiniz oğlum ya.
+  entry_writer: naletcix
+- entry_name: |
+    beyaz futbol
+  entry_id: 57640760
+  entry_content: |
+    (bkz: <a class="b" href="/?q=geldiler%2c+fular+tak%c4%b1n+hemen">geldiler, fular takın hemen</a>)
+  entry_writer: scholes
+- entry_name: |
+    fikret orman
+  entry_id: 57641622
+  entry_content: |
+    transfer konusunda saçmalıyor diyenler, ondan daha az saçmalayan başkan kimmiş onu da söylesinler. sadece beşiktaş değil, tüm takımlar için atış serbest. <br/><br/>her transferde risk vardır, iyi transferlerin yanında başarısız transferler de olacaktır kabul. bunun yüzdesi önemli. 3 sene önce dibi gören takımdan, şu anki ışık saçan kadroya ne kadar para harcanarak gelinmiş, bu süreçte rakipler ne kadar harcamış, beşiktaş ve rakipleri kaç tane başarısız transfer yapmış ve başarısız transferlere ne kadar harcamış, bir bakıp ondan sonra sallamak gerek. <br/><br/>hataları, hatta ısrar ettiği hataları var. ama fikret orman ve ekibi, transferlerde başarı yüzdesi, fiyat/performans ortalaması ve yapılanma süreci olarak tarih yazmaktadır. inkar eden taş olur.<br/><br/>edit: buyrun aklıma gelenler. bu başarılı transferler şu anda beşiktaş'ın iskeletini oluşturuyor. başarısız sayılanlar ise zaten düşük maliyetle yapılan denemelerdi. hepsinin maliyetini toplasan bir krasic etmez. veya demba ba'dan kazanılan para etmez. <br/><br/>sosa<br/>bonservisine 3.4 milyon euro verildi. onun yerine 2 katı maaşla ve 1.5 katı bonservisle (imza parası) fenerbahçe'nin elimizden aldığı (allah razı olsun) diego'dan çok daha fazla katkı veriyor. maliyeti de yaklaşık yarısı. <br/><br/>mario gomez <br/>2 senelik kiralama yöntemiyle bedavaya geldi. hala “ama o kiralık” diyenler var ama, gerçek şu ki gomez fiorentina’ya dönmek istiyorum demediği sürece beşiktaş’ın malıdır. sene sonu kontratı otomatik olarak uzayacak ve sonra fiorentina’yla da ilişiği kesilecek zaten. galatasaray’ın 9m euro’yu duyduktan sonra “pardon abi iyi günler” diyip peşini bıraktığı gomez’i bu şartlarda getirmek, türk futbol tarihinin en büyük transfer başarılarından biridir. <br/><br/>atiba<br/>bedavaya geldi. senelik 1 milyon euro’ya oynuyor. bir şey söylemeye gerek var mı? türkiye’nin en efektif defansıf orta sahası şu anda. <br/><br/>tolgay<br/>450 bin euro bonservisle geldi. onun için de bir şey söylemeye gerek yok sanırım. oynadığı yarım sezonda ışık saçtı çocuk. inşallah sakatlıktan döndükten sonra da orta sahanın yükünü çekecek. <br/><br/>beck<br/>1.75 milyon euro bonservisle geldi. bu kadar fazla bundesliga tecrübesi olan bir görev adamı için bu bonservis ve 1.4m euro'luk maaş çok çok iyi. <br/><br/>oğuzhan<br/>1 milyon euro’ya geldi. şu anda takımda gökhan töre ile birlikte en fazla para eden, en potansiyelli futbolcu. şenol hoca’ya hörmetler. <br/><br/>olcay<br/>800 bin euro’ya geldi. beğeneni var beğenmeyeni var, ama kimse başarısız transfer diyemez. 30 gol 25 asist yapmış adam. en kötü ihtimalle iyi bir rotasyon oyuncusu olarak her türk takımının havada kapacağı bir adamdır. <br/><br/>gökhan töre<br/>4.5 milyon euro’ya geldi. şimdi yönetim 2 katı fiyata 9 milyon euro’ya sattık dese, kimse memnun olmaz sanırım değil mi? <br/><br/>cenk tosun<br/>bonservissiz geldi. her beşiktaşlının içinde üzüntüdür, gomez olduğundan cenk’in hiç oynayamaması. ama kabul etmek gerekir ki, yaşı henüz 24 ve şu anda en iyi türk forvet kendisi. gelecekte as forvetimiz olmaya aday. <br/><br/>demba ba<br/>6 milyon’a geldi, 13 milyon’a gitti. söylenecek başka bir şey var mı?
+  entry_writer: bilicin rip
+- entry_name: |
+    faturanı e-mail ile al ormanı koru yalanı
+  entry_id: 57652838
+  entry_content: |
+    bankaların posta parasından kurtulmak için uydurduğu yalan.<br/>çünkü kabul etmez de, postayla gelsin ısrarı edersen, gelen ekstre zarfında, ekstreden hariç yaklaşık 250 gram kuşe kağıtlı reklam geliyor.<br/><br/>madem ormanları çok seviyonuz, yalnızca bi sayfacık ektremizi yollayın gelsin.<br/><br/>bi sayfa <a class="b" href="/?q=size+%c3%b6zel+f%c4%b1rsatlar">size özel fırsatlar</a><br/>bi sayfa <a class="b" href="/?q=kredi+kart%c4%b1n%c4%b1za+%c3%b6zel+f%c4%b1rsatlar">kredi kartınıza özel fırsatlar</a><br/>bi sayfa <a class="b" href="/?q=bankamati%c4%9finize+%c3%b6zel+f%c4%b1rsatlar">bankamatiğinize özel fırsatlar</a><br/>gibi boş seyler yollamayın.
+  entry_writer: nesir yazar
+- entry_name: |
+    istasyonda namaza duran cemaati beklemeyen tren
+  entry_id: 57642167
+  entry_content: |
+    islam'ın, uygarlık treninin arkasından koşmasının üzücü videosudur. <br/>demiryollarını içeren herşeyi, treni, dizel motoru, sinyalizasyonu, elektroniği, motor yağını, seri üretimi ve bunun için gerekli olan tüm süreçleri, insanların eğitimini, rayları ve gerekli tüm sistemi kurup işler hale getirenler seni niye beklesin ki?<br/>neyini beklesin senin söylesene? şahane, en birinci ibadeti yapıyorsun diye mi beklesin? para versen de beklemiyor baksana.<br/>sen hala tren beni beklesin diye bekle. <br/>nah bekler seni tren. <br/>hala anlayamadın. <br/>tren kaçtı, hala anlayamadın.
+  entry_writer: kimseyeinanmayan
+- entry_name: |
+    beyazıt öztürk
+  entry_id: 57659666
+  entry_content: |
+    bakırköy cumhuriyet başsavcılığı, beyaz show'a telefonla bağlanan ayşe çelik'in ardından telefonu icat eden graham bell hakkında da ''örgüt propagandasına aracılık" iddiası ile soruşturma başlattı...<br/><br/>zaytung
+  entry_writer: ottobust
+- entry_name: |
+    tinder
+  entry_id: 57648053
+  entry_content: |
+    <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/knGz5A.jpg" title="http://i.hizliresim.com/knGz5A.jpg">http://i.hizliresim.com/kngz5a.jpg</a><br/><br/>muhabbetin ilerlediği arkadaşların profillerini kapadım. <br/><br/>mevcut durum şu: 722 adet like var, son birkaç ay içerisinde olanlar bunlar, bir kısmı yurt dışı gezileri esnasında, bir kısmı da passport ile, karargah: istanbul. profil gayet benim kendimin. yalan dolan hiçbirşey yok, bildiğin <a class="b" href="/?q=jabba+the+hutt">jabba the hutt</a> gibi çıkmış resimlerimi de koydum. bu sayı içerisindeki dönüşüm oranı ise yaklaşık %4; yani yaklaşık 30 adet insan ile durum ilerledi.<br/><br/>asıl konu şu; bu like’ların yüzde kaçı türk. söyleyeyim %5. yani toplasan 30-35 adet, onların da bir kısmı gold digger, bir kısmı “ay valla ben yeni açtım”, “haha iyi sen? yok ya ben bir şey aramıyorum, öylesine açtım”, bir diğer kısmı “niyetin ciddiyse yaz” ve geri kalanı da “sessizler”, suskunlar da diyebiliriz; eşleşmeden sonra egosu tatmin olunca konuşmuyor bunlar. <br/><br/>lan şaka mısınız siz? siz ne beğeniyorsunuz? yani beğeneceğiniz kalibre nedir? avrupa’nın en nezih şehirlerinden match olup gayet şahane muhabbet edip bağlantıyı sosyal medyaya ve hatta gerçek hayata taşıyan beyaz yakalısından sanatçısına en ortalamasından kadınların resimlerini görseniz oturur sigaraya başlarsınız kederden; ama size gelince oowww olamaz, sizin karşınıza beyaz atıyla bir prens çıkmalı.<br/><br/>çünkü muhabbet edemiyorsunuz, ikinci cümlede ne mal olduğunuzun ortaya çıkacağını siz de biliyorsunuz. edebiyat desen en çok satanlardan öteye gidemez, spor desen basenlerin üstten birleşmesine az kalmış, sinema desen imdb top 10 ile sınırlı (bu da iyi ihtimal), tv desen kiraz mevsimi e hadi olmadı kenarından bir tenekeden yabancı dizi, politika desen sessizlik, bilim desen daha derin sessizlik, moda desen çek eşofmanı bağla göte kazağı sonra yürü cafeye, yeme içme desen ızgara tavuktan ötesi yok, tarih desen geçen seneden öncesi yok, teknoloji desen şarj kablosunun temas sorununu halletmeye çalışmaktan berisi yok, gezmek desen bodrum var çeşme var paris var, e ne gördün anlat desen resimlerden başka bir bok yok, e ne konuşacağız gülüm sizinle? dedikodu mu yapalım? o ses mi tartışalım? bu tarz benim mi konuşalım? ulan bunun yerine balıkla yoğurt yer yavaş yavaş intihar ederim lan. onu tercih ederim.<br/><br/>diyeceğim o ki, aslında biz de yanlış değerlendiriyoruz. türk kızının düşük like sayısı beğenmemesinden değil bence, dünyanın en yakışıklı adamı olun bu match sayısı türkiye’de türk kızlarıyla fazla oynamaz, uçup kaçmazsınız yani, en fazla birkaç tık artar. çünkü karşıdaki kapasite bu. olmuyor, beceremiyorlar bir insanı tanımayı, tanımayı bildikleri tek şey kafalarındaki saçma sapan klasörlerin içerisine koyacakları gene aşırı saçma sapan erkek değerlendirme kriterleri. çünkü büyüklerinden ve ablalarından öyle gördüler, akranlarına ve arkadaşlarına öyle gösterdiler, küçüklerine ve çocuklarına da öyle anlatacaklar.<br/><br/>bu böyle gider.
+  entry_writer: tukenmez kelam
+---
