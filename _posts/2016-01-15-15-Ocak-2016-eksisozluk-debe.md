@@ -30,13 +30,13 @@ data:
     14 ocak 2016 diyanetin imamından kedi skandalı
   entry_id: 57738516
   entry_content: |
-    kediyi sağa sola işiyor sanan gerzeklerin eleştirdiği şey.<br/><br/>sanki çok gidiyorsun amına koyim sen camiye de; orada niye kedi var ben alnımı nasıl secdeye koyacam, bla bla...<br/><br/>hiçbir şey olmaz abiler; kedi temiz hayvandır, bulunduğu ortamda da namaz kılınır. kedi köpeğin girdiği ortama melek girer mi? daha ne girsin; bunlardan ala melek mi var? <br/><br/>o melekler de, onların yaratıcısı da eminim bu imamın ve milyonlarca hayvan severin, o hayvanları soğukta sokağa itmektense sıcak kapılarını açıp ağırlamalarından razıdır, böylesini yeğler.<br/><br/>yüreğine sağlık imam efendi; allah razı olsun.
+    kediyi sağa sola işiyor sanan gerzeklerin eleştirdiği şey.<br/><br/>sanki çok gidiyorsun amına koyim sen camiye de; orada niye kedi var ben alnımı nasıl secdeye koyacam, bla bla...<br/><br/>hiçbir şey olmaz abiler; kedi temiz hayvandır, bulunduğu ortamda da namaz kılınır. kedi köpeğin girdiği ortama melek girer mi? daha ne girsin; bunlardan ala melek mi var? <br/><br/>o melekler de, onların yaratıcısı da eminim bu imamın ve milyonlarca hayvan severin, o hayvanları soğukta sokağa itmektense sıcak kapılarını açıp ağırlamalarından razıdır, böylesini yeğler.<br/><br/>yüreğine sağlık imam efendi; allah razı olsun.<br/><br/>debe editi: memlekette ve dünyada fakirlik iyiden iyiye ayyuka çıktı dostlar. müslüman olsanız da, olmasanız da cebinize bir bakın, olanın 40'ta birini de olsa bir fukaraya verin. özellikle suriye'nin madaya kasabası türündeki açlık noktalarına ulaşmak gerek, hakikaten artık bir şeyler yapmak gerek..
   entry_writer: vincenzo scaletta
 - entry_name: |
     alan rickman
   entry_id: 57725276
   entry_content: |
-    çok iyi bir insan ve çok büyük bir aktördü. harry potter fanları içinde yeri apayrı, 69 yaşında hayatını kaybetmiş maalesef.<br/><br/>edit: when i’m 80 years old and sitting in my rocking chair, i’ll be reading harry potter. and my family will say to me, “after all this time?” and i will say, “<a class="b" href="/?q=always">always</a>.” şeklinde bir açıklaması da vardı. çok klas, çok muhteşem. ulan oturup ağlayacam, çok üzüldüm be.
+    çok iyi bir insan ve çok büyük bir aktördü. harry potter fanları içinde yeri apayrı, 69 yaşında hayatını kaybetmiş maalesef.<br/><br/>edit: when i’m 80 years old and sitting in my rocking chair, i’ll be reading harry potter. and my family will say to me, “after all this time?” and i will say, “<a class="b" href="/?q=always">always</a>.” şeklinde bir açıklaması da vardı. çok klas, çok muhteşem. ulan oturup ağlayacam, çok üzüldüm be.<br/><br/>edit2: birkaç mesaj geldi, alan rickman böyle bir şey söylememiş. ben çok yerde görmüştüm ama gerçek bir kaydı yok galiba, bir internet efsanesi olarak büyümüş gitmiş. <br/><br/>kendisini <a class="b" href="/?q=her+zaman">her zaman</a> iyi hatırlayacağız.
   entry_writer: karanlik lord10
 - entry_name: |
     abd'yi tek seferde haritadan silerim
@@ -90,7 +90,7 @@ data:
     8 yaş büyük erkekle evlenmek
   entry_id: 57726049
   entry_content: |
-    16-17 yaşlarındayken yaşının 30 olduğunu öğrendiğim insanlara "ohaaa 30 mu yuuhhh" diyordum. 30 yaşındaki insanlar bana 70 yaşında gibi geliyordu. şu an 32 yaşındayım ve hala kendimi çok genç hissediyorum. içimde hala bir çocuk var. çünkü hamileyim :((( şaka lan şaka erkeğim ben. <br/><br/>neyse konudan uzaklaşmayalım, 32 yaş çok değil evlen gitsin.
+    16-17 yaşlarındayken yaşının 30 olduğunu öğrendiğim insanlara "ohaaa 30 mu yuuhhh" diyordum. 30 yaşındaki insanlar bana 70 yaşında gibi geliyordu. şu an 32 yaşındayım ve hala kendimi çok genç hissediyorum. içimde hala bir çocuk var çünkü hamileyim :((( şaka lan şaka erkeğim ben. <br/><br/>neyse konudan uzaklaşmayalım, 32 yaş çok değil evlen gitsin.
   entry_writer: gergin ataman
 - entry_name: |
     mirgün cabas
@@ -153,7 +153,7 @@ data:
     başörtülü olduğum için final sınavına alınmadığım üniversite. <br/><br/>neymiş erkekmişim bana farz değilmiş. size ne yaaa
   entry_writer: sikimperest
 - entry_name: |
-    devrilmeyen robot
+    bigdog
   entry_id: 57725119
   entry_content: |
     altı ayda bir boston dynamics robotlarına tekrar tekrar şaşırılıyor bu ülkede. 10 yıldır bu bitmedi. bugün devrilmeyen robot diye şaşırılıyor, bir gün mekanik eşek diye şaşırılıyor, bir gün buzda yürüyen köpek diye şaşırılıyor. aynı robota yıllardır şaşırıyoruz.<br/><br/>bir kişi de ulan bu robotu benden önce birisi onu üreten firmanın uygun gördüğü adıyla sözlüğe taşımıştır şimdi mal gibi başlık açıp bunu yazmayayım demiyor. ne görüyorsa dan dun yazıyor kapatıyor konuyu.<br/><br/>(bkz: <a class="b" href="/?q=bigdog">bigdog</a>)
@@ -216,7 +216,7 @@ data:
     88'li hatunlar
   entry_id: 57732588
   entry_content: |
-    artık beyaz atlı prenslerini beklemeyi bırakmalıdırlar,<br/>seyise razı olmalıdırlar,<br/>yoksa ata kalacaklardır.<br/><br/>benden demesi.
+    artık beyaz atlı prenslerini beklemeyi bırakmalıdırlar,<br/>seyise razı olmalıdırlar,<br/>yoksa ata kalacaklardır.<br/><br/>benden demesi.<br/><br/>edit: üstteki sadece bir geyik. bir 88'li olarak bu yaştaki hatunlardan bol bol tanıyorum, kimisinin evli, kimisinin ilişki içinde, kimisinin de bekar olduğunu biliyorum. insanları kategorize etmenin yanlış olduğu kadar doğru insanın hayatın her aşamasında insanın karşısına çıkabileceğinin de bilincindeyim. ayrıca ben değil seyis, bu denklemde at bile olamam. bu yüzden çok takılmamak lazım geyiklere. bir kadını aşağılamak gibi bir amacım olmadığını da belirtmeye gerek duyuyorum, böyle bir niyetim en başından beri yok. erkekler kadınları aşağılamamalıdır kısmına da girmeyeceğim, çünkü zaten eşit olan bireylerin biri güçlü, diğeri güçsüz değildir.<br/><br/>son olarak <a class="b" href="/?q=wear+sunscreen">wear sunscreen</a>;<br/>maybe you'll marry, maybe you won't<br/>maybe you'll have children, maybe you won't<br/>maybe you'll divorce at 40, maybe you'll dance the 'funky chicken'<br/>on your 75th wedding anniversary<br/>whatever you do, don't congratulate yourself too much<br/>or berate yourself either<br/>your choices are half chance, so are everybody else's<br/><br/>kırılan, alınan, üzülen olduysan kötü bir niyetim olmadığını belirtir, en içten şekilde özür dilerim. herkese mutluluklar dilerim.
   entry_writer: passion rules the game
 - entry_name: |
     14 ocak 2016 pkk'nın şırnak'ta okullara saldırması
@@ -296,10 +296,4 @@ data:
   entry_content: |
     <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/NnmLy6o.jpg" title="http://i.imgur.com/NnmLy6o.jpg">şöyle</a>sonuçlanması muhtemel.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/vnpGzO.jpg" title="http://i.hizliresim.com/vnpGzO.jpg">alternatif</a>
   entry_writer: dogubatisentezi
-- entry_name: |
-    14 ocak taksim metrosu sefer iptali
-  entry_id: 57717668
-  entry_content: |
-    rezaletten ziyade önlemdir. belli ki bir saldiri haberi alinmis yahut tehlike gozlemlenmistir ve onlem alinmistir. fakat eksi sozluk bi sikimi begenmeme timi olarak gereken yapilmis ve bu durumdan da memnun kalinmamistir. <br/><br/>bi yere gec kalmak mi onemli olmek mi?<br/><br/>onlem alinmayip da o metro icindekiler bi tehlike ile karsilassaydi istihbarat yok mu diye aglamayacak miydiniz?
-  entry_writer: third eye
 ---
