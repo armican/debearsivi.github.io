@@ -1,0 +1,305 @@
+---
+layout: post
+title: 25 Ocak 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    yeni dönem türk indie gruplar için isim önerileri
+  entry_id: 57979930
+  entry_content: |
+    (bkz: <a class="b" href="/?q=son+feci+orospu+%c3%a7ocu%c4%9fu">son feci orospu çocuğu</a>)
+  entry_writer: armagan
+- entry_name: |
+    memur sayısının azaltılması
+  entry_id: 57970057
+  entry_content: |
+    devlet işleyişini bitirecektir.<br/><br/>şu an kamuda 1 kişilik iş için 10 kişi alınır, 1 kişi çalışırken torpilli olan 9 tanesi yatar. eğer işten memur atılırsa bu torpilsiz olan ve çalışan bir memur olacağı için devlet işleyişi sekteye uğrar.
+  entry_writer: hayvanadam
+- entry_name: |
+    ömer koç
+  entry_id: 57971715
+  entry_content: |
+    bazı kendini bilmezler tarafından iş hayatından uzak durmayı tercih ettiği iddia edilen kişi. <br/><br/>kendisi <a class="b" href="/?q=ko%c3%a7+holding">koç holding</a> yönetim kurulu başkan vekili, <a class="b" href="/?q=t%c3%bcpra%c5%9f">tüpraş</a> yönetim kurulu başkanıdır. bir insan iş hayatına daha ne kadar yakın olabilir amk?<br/><br/>kitap koleksiyonu yapıyor diye adamı dünya işlerinden elini eteğini çekmiş bir gönül adamı sananlar var. <br/><br/>kendisi iş hayatından değil medyadan uzak durmayı tercih etmekte çok da iyi yapmaktadır. ama bundan sonra zor tabi gözden uzak yaşaması.
+  entry_writer: nuri
+- entry_name: |
+    öğrencisine zayıf veren resim öğretmeni
+  entry_id: 57986147
+  entry_content: |
+    rolünü büyütmekten, egosunu tatmin etmekten başka bir iş yapmıyordur. kardeşim dersin tüm gerekliliklerini başarılı bir şekilde yerine getirmesine rağmen çizmiş olduğu resime 40 notu verilmiş. birisinin bu öğretmene misyonunu hatırlatması lazım. bir resim öğretmeninin görevi nedir? sınıftaki yetenekli öğrencileri keşfederek çizimlerini sergi yoluyla değerlendirmek, yetenekli öğrencilerin aileleriyle konuşarak güzel sanatlar konusunda öğrencisinin önünü açmaya çalışmaktır. yetenekleri keşfeder, eli düzgün olan öğrencilerinin iktisat maliye gibi bölümlerde helak olmaması için çaba sarfeder. peki yeteneksiz öğrenciler için ne yapar. hiçbir şey. eğer bir çocukta yetenek yoksa yapılacak hiçbir şey yoktur. istediğin materyaller alınıyor mu, derse kağıt kalem boyalar düzenli getiriliyor mu, verilen ödevler zamanında teslim ediliyor mu diye bakarsın ve bunlarda sıkıntı yoksa çizdiği cin aliyi beğenerek yüksek notunu verirsin. rolünü büyütmezsin. yetenekli olan sürreal fırça darbeleriyle şaheser ortaya çıkarır zaten. allah verdiyse yeteneği kübist bir manzara resmi bile teslim eden olur. ama tüm yükümlülüklerini yerine getiren kardeşimin çizdiği uçan portakal temalı resime 40 vermek nedir ahlaksız öğretmen. senin benim kardeşimin teog puanını düşürmeye ne hakkın var. en kısa zamanda okula gidip müdür yardımcısının önünde 55 yaşında egolarında kaybolmuş dulu yerin dibine sokmazsam kardeşimin portakalı uçuran hayal gücü benim peşimi bırakmaz.
+  entry_writer: henrikissenger
+- entry_name: |
+    24 ocak 2016 fenerbahçe çaykur rizespor maçı
+  entry_id: 57976452
+  entry_content: |
+    galatasaraylıların neden başlığına gelip ağladığını anlamadığım maç. biz de galatasaraylıyız ama kuyruğumuzu kıstırdık ve sessizce köşemizde duruyoruz. neden? çünkü biz sabri'ye tarık'a falan umut bağlarken adam milli takımın avrupa şampiyonasına gidecek 4 kanat bekini de elinde bulunduruyor. yetmiyor nani'yi alıyor. yetmiyor defansı yeniliyor. yetmiyor deli gibi sponsor buluyor. bir yanda vergisini sonuna kadar veren, şike süreci sebebiyle 3 yıl avrupa'dan kovulmasına rağmen hala ağlamayan batmayan kulüp. diğer yanda da 4 yıldır şampiyonlar ligi gören, 3 şampiyonluk gören ama hala sabri yekta tarık ve türevlerine yatırım yapan ve üstüne de batan ağlayan bir kulüp. <br/><br/>ayrıca da fener bu maçı kaybetse nolcak? fark hala 10. haftaya da kaybetse nolcak? yenebilcez mi konya'yı??? bırakın abi bu işleri. gerek yok bunlara. galatasaray uzun yıllar daha belini doğrultamaz. başka işlere yönelin.<br/><br/>edit: söveceğinize bir kere de kabullenin. kabullenmeyi bilin ki fanatikleşmeyin. adam bizden iyi takım kurdu bu kadar basit. bizden iyi oynuyor. çok mu zor abi bunu kabullenmek. sorumlusu ben miyim? gidin çalan çırpan alkolik çakallara hesap sorun amk!!!
+  entry_writer: kanper
+- entry_name: |
+    13 ekim 1975 özel çamlıca lisesi rezaleti
+  entry_id: 57978409
+  entry_content: |
+    sinirden ellerimi ayaklarımı titretmiş rezalet.<br/><br/>kayseri'den okuması için istanbul'a gönderdiğim, selvi boylu biricik oğlumun başına gelen rezalet.<br/>her ay binlerce lira taksidini ödediğim okulun böyle bir rezalete imza atması beni çok üzdü.<br/><br/>yaşanan rezaletin baş aktörü <a class="b" href="/?q=mahmut+aln%c4%b1geni%c5%9f">mahmut alnıgeniş</a> adlı bir tarih öğretmeni.<br/>öğretmen demeye bin şahit ister. keşke kpss'de barajı geçemeseymiş. (duyduğuma göre konya lisesi'nden gelmiş çamlıca'ya, şu anda bakan ve işadamı olan öğrencileri varmış. arkası sağlam belli ki)<br/><br/>gencecik çocukları yağmur altında tek ayak üstünde bekleten bu vicdansız psikopat hocanın gereken cezayı alması için tüm yetkili mercilere başvuracağım.<br/>apar topar kayseri'den geldim ve oğlumun fanilası hala ıslaktı, çocukcağız zaten çelimsiz. umarım zatürre olmaz.<br/><br/>bu nasıl bir eğitim nasıl bir disiplin anlayışıdır. sen kimsin <a class="b" href="/?q=mahmut+aln%c4%b1geni%c5%9f">mahmut alnıgeniş</a>? <br/>umarım daha kötü uygulamaları olmamıştır bu mahmut adlı kişinin.<br/><br/><a class="b" href="/?q=edit">edit</a>: sağolsun özel çamlıca lisesi'nin müdürü ve sahibi <a class="b" href="/?q=muharrem+g%c3%bcr">muharrem gür</a> bana ulaştı. bu mahmut isimli hocadan kendisinin de haz etmediğini söyledi. bu yaşanan olay sebebiyle gelecek ay taksidi bizden dedi. <br/><br/>ama mahmut denilen öğretmenin kötü uygulamalarının peşini bırakmayacağım.
+  entry_writer: 0 5 ucu olan adam
+- entry_name: |
+    mustafa koç'un cenaze törenindeki esrarengiz adam
+  entry_id: 57970442
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bono">bono</a>)
+  entry_writer: raindrops
+- entry_name: |
+    herkes 1 tl verse birimizin zengin olacağı gerçeği
+  entry_id: 57974145
+  entry_content: |
+    ekşi sözlük büyük bir yer. binlerce ateist, binlerce müslüman, binlerce adanasporlu bu sözlükte yazıyor. türkiye'deki fularlıların neredeyse hepsi bu sözlükte yazar. sayıca az olsak bile kendi içimizde bir bütünüz<sup class="ab"><a title="(bkz: şu an duygulandım)" href="/?q=%c5%9fu+an+duyguland%c4%b1m" data-query="şu an duygulandım">*</a></sup> ve gerek rezalet başlıkları olsun, gerek kampanyalar olsun yeterince ses getirebiliyoruz.<br/><br/>hepimiz bu kadar marjinal, bu kadar entelektüel ve bu kadar bilinçli insanlarken nasıl olur da açlıktan ağzımız kokar anlam veremiyorum. memlekette ne kadar sığır varsa hepsinin reynç rovırı var ama şurada evrim teorisi başlığında yarım yarım yardırın ateist kardeşimizin kendine ait kol saati bile yok.<br/><br/>bu durumdan kurtulmanın yolları elbet var. daha çok interstellar izlemek, daha çok ingiliççe konuşmak bizi geliştirebilir elbet fakat nereye kadar gider bu içi boş gelişme? mesela hangimizin adriana lima gibi sevgilisi var? adam doktora yapmış, 7 dil biliyor ama gelmiş fenerbahçe maçının başlığına "yendik şişirdik dolma yaptık pişirdik" yazıyor.<br/><br/>okuduğu okul, yaptığı yüksek lisans, izlediği nuri bilge ceylan filmleri, işlediği marjinal sevaplar... hepsi kozmik süreçte var olan tek şey olan kozmosun içindeki büyük bir boşluk.<sup class="ab"><a title="(bkz: carl sagan'ın veliahtı gözlerinin hastasıyım)ım)" href="/?q=carl+sagan%27%c4%b1n+veliaht%c4%b1%2c+g%c3%b6zlerinin+hastas%c4%b1y%c4%b1m" data-query="carl sagan'ın veliahtı gözlerinin hastasıyımyım">*</a></sup> düşündüm. bir şeyler yapmalı ve en azından içimizden birini kurtarmalı diye düşündüm. diferansiyel denklemler geliştirdim, termodinamiğin 0. yasasını baştan yazdım, bi' sayının türevini aldım sonra integralini aldım. baya zevkliydi. rasyonel sayılardan çözdüm biraz. ve en sonunda herkesten bir lira toplayarak içimizden birini zengin edebileceğimizi düşündüm.<br/><br/>her geçen saniye sol fıreym aşağı kayıyor. bu sonsuz şehrin irrasyonel yazarları gün geçtikçe kalabalıklaşıyor. çaylaklarla birlikte sayımız 150 binin üzerinde. herkes elini cebine atıp bir lira verse 150.000 x 3'ten 450 bin lira eder. bir lira veren iki lira daha üstüne koyar herhalde. böylelikle içimizden birini 450 bin lirası olan insanlardan yapabiliriz.<br/><br/>hemen önyargıyla yaklaşma. <a class="b" href="/?q=hal%c4%b1ya+yat%c4%b1p+%c3%b6lmeyi+beklemek">halıya yatıp ölmeyi beklemek</a> yerine boş bir odada bu fikrimi düşün. çok mantıklı olduğunu anlayınca iş işten geçmiş olabilir. içimizden birini zengin yapabilmek elimizde. düşünsene... yarın yatağından kalktığında işe gitmiyor, jakuzide banyo yapıp kahvaltıda somon balığı yiyor, patronunun verdiği emirleri yerine getirmek yerine tiribleks evinde atari oynuyorsun.
+  entry_writer: balkanlar uzerinden gelen alcak basinc
+- entry_name: |
+    immanuel tolstoyevski
+  entry_id: 57971763
+  entry_content: |
+    bugün öğrendiklerim (bkz: <a class="b" href="/entry/57966418">#57966418</a>) ("konu başlığına gidip yazın" demiyorum artık, yenilgiyi kabullendim): <br/><br/>a) abd'nin eleştirilmesi "ağrıma gittiği" için, kariyerini abd eleştirisi üzerine kurmuş chomsky'i kendi argümanıma örnek vermemden kelli, şizofren olduğumu öğrendim.<br/><br/>b) dünyanın belki de en bilinen akademisyeni noam chomsky "ciddi bir muhalif değildir", ama ohio'da dandik bir üniversitede kimsenin bilmediği bir tarih profesörü "ciddi bir muhaliftir".<br/><br/>c) <a class="b" href="/?q=vietnam+sava%c5%9f%c4%b1">vietnam savaşı</a>ndan beri abd dış politikasına getirdiği eleştiriye ek olarak, medya, savunma sanayi, ekonomik güç dağılımı gibi "sistem" konularında 87 yaşında olmasına rağmen durmadan konuşan ve anaakım medyada yer bulamayan chomsky aslen "muhalif bile değil, sistemin parçasıdır" <br/><br/>d) abd'de israil'i eleştiren herkes kendini fbi terör soruşturması altında bulur, kesin bilgi yayalım. yoksa mesela bu ohio'lu profesörün işid ile bağlarının soruşturulmasının, "şeyh osama büyük bir insandı ve bu cihadı başlattığı için büyük bir övgü hakediyor", "ölene kadar cihad", "israile ölüm" <a rel="nofollow" class="url" target="_blank" href="http://www.foxnews.com/us/2016/01/20/fbi-investigating-kent-state-professor-for-ties-to-isis.html" title="http://www.foxnews.com/us/2016/01/20/fbi-investigating-kent-state-professor-for-ties-to-isis.html">benzeri şeyleri yıllar boyunca demesiyle</a> (haber), bir alakası yok.<br/><br/>e) ama chomsky sistemin adamı / ciddiyetsiz muhalif olduğundan olsa gerek, "<a rel="nofollow" class="url" target="_blank" href="http://www.mintpressnews.com/noam-chomsky-israeli-apartheid-much-worse-than-south-africa/208936/" title="http://www.mintpressnews.com/noam-chomsky-israeli-apartheid-much-worse-than-south-africa/208936/">israildeki apartheid güney afrikadakinden bile kötü</a>" diyebilir, birleşmiş milletler kürsüsünden 1 saat boyunca <a rel="nofollow" class="url" target="_blank" href="http://www.democracynow.org/2015/3/2/watch_in_un_speech_noam_chomsky" title="http://www.democracynow.org/2015/3/2/watch_in_un_speech_noam_chomsky">abd'nin israil desteğini eleştirebilir</a> (video), başına bir şey gelmez.<br/><br/>***<br/><br/>teröristi öven 1 akademisyene abd'nin soruşturma açmasını baskıcı bulurken, teröristi övmeden devleti eleştiren 1200 akademisyenin soruşturulmayı bırak hapsedilmelerini isteyen osmanlıcılarımızın derdi elbette tutarlı olmak, prensip sahibi olmak falan değil. [edit: kısa kesiyorum: o 1200 akademisyen meselesinde kimin haklı olduğu konuyla alakasız, her halükarda bu karşılaştırma argümanıma hizmet ediyor, iyi okuyun]<br/><br/>onların derdi, işlerine gelen örneği eğip bükerek "emperyalist abd'yi siyonistler kontrol ediyor" anlatısına uydurmak, uymayacak örnekleri de yok saymak. bu tip anlatılar sayesinde de yobazlıkla karışık ırkçılıklarına ahlaki bir kılıf uydurmaları ve dünyanın geri kalanından kopuk fikirsel fantazi dünyalarında birbirlerini fişteklemeleri gayet kolay<br/><br/>***<br/>***<br/>***<br/><br/>"sizin bugün öğrendikleriniz"i de ekleyeyim de masturbasyondan ibaret olmasın bu yazı:<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://chomsky.info/dissent01/" title="https://chomsky.info/dissent01/">chomsky'nin 92'de yazdığı, israil hakkındaki özet görüşleri</a>nden derliyorum:<br/><br/>a) en pratik çözüm olan iki ayrı devletin önündeki en büyük engel, amerikan elitlerinin (medya, akademi, hükümet) olaya ırkçı yaklaşımıdır.<br/><br/>b) abd'nin bu çözümsüzlük politikası, her israil-arap çatışmasında kaçınılmaz olarak, abd'yi rusyayla karşı karşıya getiriyor ve bu yüzden nükleer bir savaş riskini arttırıyor.<br/><br/>c) bence en önemli kısım: "ıf you’re sitting with your boot on somebody’s neck, you’re going to hate him, because that’s the only way that you can justify what you’re doing, so subjugation automatically yields racism, and you can’t overcome that". burada cognitive dissonance'ı azaltmanın bir örneği var: iyi ve ahlaklı olduğuma inanıyorum, fakat şu anda birilerini baskı altında tutuyorum, demek ki onlar bunu haketti, öyleyse onlardan nefret etmeliyim... biz hep ırkçılığı kök neden olarak görürüz ama başkasını baskı altına almanın kendisi de ırkçlığı yaratıyor.<br/><br/>d) israilde bile en azından azınlık görüşü olarak yer bulacak görüşler, amerikan politik spektrumunun dışında kalıyor. bunda sadece sağcıların değil, uzun bir süre israile destek vermiş liberal elitlerin de payı var.<br/><br/>[chomsky biraz abartılı yazar ve durum 92'den beri değişti tabii. liberal kanat o kadar israil yanlısı değil ama israil lobisinin desteğini kaybetme korkusundan da ziyade, son yıllarda giderek fanatikleşen sağcılara fazladan bir koz vermemek için, anaakım genelde statükocudur, yani çözümsüzlük devam edecek]<br/><br/>sonradan gelen yorum <a class="b" href="/?q=editi">editi</a>: bu tartışmaya yolaçan orjinal entrymin bağlamı ve ölçeği belli, yoksa mhp de biden da umrumda değildi. dolayısıyla ölçeği genişletip konuyu guantanamoya, "amerika sandığın kadar da özgürlükçü değil"e getirmeyelim. zaten ben de böyle düşünmeseydim şu yukardaki röportaj alıntılarını yapmazdım. "chomsky'nin dedikleri gerçek muhalefet sayılmaz" mantığını eleştirmek için çok uzun yazmak gerekecek, bense kalan enerjimi eski aşkım <a class="b" href="/?q=x-files">x-files</a>ı izlemeye harcayacağım
+  entry_writer: immanuel tolstoyevski
+- entry_name: |
+    gözüne yanlışlıkla arkadaşının menisi kaçan erkek
+  entry_id: 57980584
+  entry_content: |
+    (bkz: <a class="b" href="/?q=karde%c5%9f">kardeş</a>)<br/><br/>(bkz: <a class="b" href="/?q=sileriz">sileriz</a>)<br/><br/>(bkz: <a class="b" href="/?q=s%c4%b1k%c4%b1nt%c4%b1+yapma">sıkıntı yapma</a>)
+  entry_writer: matchgrip
+- entry_name: |
+    24 ocak 2016 mustafa koç'un cenaze töreni
+  entry_id: 57969784
+  entry_content: |
+    babamın cenazeside dahil bir çok cenazeye gittim, kimi görevden kimi isteyerek ve şunu biliyorum ölen kötüyse son görev minvalinde yapılır ama iyi bir insan ise garip bir sekilde kalabalık olur. gelemeyen çocuğunu gönderir, gelen hafif tebessümle kenarda durur.<br/>şimdi naklen tv'den seyrediyorum da emin olun kötü bir insan olsa böyle olmazdi. hatta karun olsa olmazdi. insanlarin yüz şekillerine bakın, beden dillerine bakın, tanıyan tanımayan gerçekten üzülmüş sanırım bizim millet olarak mütevazı, iyi, baba olarak ailesine düşkün insanlarin hala var olduğuna ihtiyacimiz var, belki mustafa koç bizim beyinlerimize bu şekilde girdi ve bizim mütevazı insanlari ne kadar özlediğimizi ortaya çıkardı. tanımam ama allah nurlar içinde yatırsın herseyi geç sadece iyi bir baba olup kendi kizlarinin yanında türk kızları için yol açmaya çalıştığı için bile allah nurlar içinde yatırsın.
+  entry_writer: kuturkuturyesilpapazerik
+- entry_name: |
+    arda kemirgent
+  entry_id: 57975729
+  entry_content: |
+    ulan laflara, tavırlara grup ismine filan bakınca sanırsın brooklyn'de kiralar artınca artık memlekete dönme vakti geldi demişler. içeriğe bakıyorsun angutluk. "canını yakıcam" ne lan? <br/><br/>ya indie özentisi adamlar arkalarında iki bodyguard görünce çocuğun tekine "orspu çocuu canını yakıcam!" diye gider yaparsa futbolcusu da milli takımda arkadaşına silah çeker, siyasetçisi bin korumayla üç beş slogan atanın canına kast eder vs. vs.<br/><br/>kodumun ülkesi lan resmen çomaristan. "naif, ince ruhlu" diye satılan tiplere bak çay demle.
+  entry_writer: pinot
+- entry_name: |
+    hiç gelmeyecek birisini beklemek
+  entry_id: 57978089
+  entry_content: |
+    belki de gelir la bi gün. <br/><br/>benimki geldi mesela. gitti bi gün, gelebilecek durumdaydı ama gelmedi çok uzun süre. ben de hiç gitmedim. o da gelmedi. çok zaman geçti, 8 yıldan biraz fazla. <br/><br/>sonra bir şey oldu, ne olduğunu anlamadım. o da anlamamış. <br/><br/>geliverdi. geldi değil, tam olarak geliverdi. <br/><br/>o kadar yıllık susamışlık, o kadar zamanlık eksiklik. eve dönmüş gibi olduk, çook uzun bir seyahatten sonra kendi koltuğumuza uzanmış gibi. hani kendi evinin kaloriferi bile başka ısıtır ya, öyle. <br/><br/>şimdi neden gelmedi diye sorgulayıp bok etmek de var her şeyi, koltuğa uzanıp o muhteşem sıcaklıkta ısınmak da. <br/><br/>uzandık ısınıyoruz. dönüp baktığında gördüğün şey şaka gibi geliyor, inanamıyorsun, inanamadığına sevinip tekrar bakıyorsun. <br/><br/>belki de gelir, mevzu, gelmiyorken zamanını nasıl geçirdiğinle ilgili. ya gelirse, ne anlatacaksın? <br/><br/>beklerken öyle yaşa ki, dönüp geldiğinde gurur duysun seninle, anlatacak bir şeylerin olsun.
+  entry_writer: render
+- entry_name: |
+    mustafa koç
+  entry_id: 57970635
+  entry_content: |
+    iyi bilirdik.<br/><br/>muadillerine bakıyoruz.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/profile_images/426087409667674112/VJaqhnMA_400x400.jpeg" title="https://pbs.twimg.com/profile_images/426087409667674112/VJaqhnMA_400x400.jpeg">biri</a> yaptığı sikimsonik sitelerin aidatlarıyla ilgili toplantı yapan ev sahiplerinin toplantısını helikopterden inip basıyor, milleti dövdürüyor. pişkin pişkin biz eskiden denizden çektiğimiz kumu inşaatta kullanırdık, istanbulda deprem olursa vay halimize diyor, ota boka milletin yakasına yapışan savcılar bir sikim yiyemiyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://i.milliyet.com.tr/YeniAnaResim/2013/10/21/fft99_mf3703029.Jpeg" title="http://i.milliyet.com.tr/YeniAnaResim/2013/10/21/fft99_mf3703029.Jpeg">biri</a> ya bag avrubada ne geşfettim otobanda zıçmag paralı, uçakta zıçanlardan para mı alsag.d diyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://haber.sol.org.tr/sites/default/files/ethem1.jpg" title="http://haber.sol.org.tr/sites/default/files/ethem1.jpg">biri</a> malum zat için annesini, babasını, karısını ve çoluğunu çocuğunu feda edeceğini söylüyor.<br/><br/>-70-80 yaşındaki <a rel="nofollow" class="url" target="_blank" href="http://habervesoz.com/wp-content/uploads/2015/09/1427336007f3bdae.jpg" title="http://habervesoz.com/wp-content/uploads/2015/09/1427336007f3bdae.jpg">birisi</a> gene malum zata yaranamadığı için telefonda ağlayıp sızlıyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://img-s1.onedio.com/id-52fa57f173edb7023f000038/rev-0/raw/s-6a2d0b3ec3ec56bffbfb9cb2cb2152cc2c45994a.jpg" title="http://img-s1.onedio.com/id-52fa57f173edb7023f000038/rev-0/raw/s-6a2d0b3ec3ec56bffbfb9cb2cb2152cc2c45994a.jpg">biri</a> havuz ihalesinin kendisine pahalıya patlamasından mutsuz, milletin amına koyacağını rahatlıkla söylüyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://i.forbesimg.com/media/lists/people/turgay-ciner_416x416.jpg" title="http://i.forbesimg.com/media/lists/people/turgay-ciner_416x416.jpg">biri</a> malum şahsın kaşının tek teline herşeyini verebileceğini söylüyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://img2.mynet.com/spr/article//2013/10/22/mehmet-ali-aydinlar2-640.jpg" title="http://img2.mynet.com/spr/article//2013/10/22/mehmet-ali-aydinlar2-640.jpg">biri</a> malum şahsın emriyle işi gücü bırakıp, tff başkanlığıyla, fenerbahçe sk başkanlığıyla uğraşıyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://i.sabah.com.tr/sbh/2015/10/28/BiyografiDetay/1446020545976.jpg" title="http://i.sabah.com.tr/sbh/2015/10/28/BiyografiDetay/1446020545976.jpg">biri</a> sit alanlarının imara açılması için malum şahsa rüşvet olarak villalar veriyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://i.milliyet.com.tr/YeniAnaResim/2010/03/16/fft99_mf552140.Jpeg" title="http://i.milliyet.com.tr/YeniAnaResim/2010/03/16/fft99_mf552140.Jpeg">biri</a> kendi ürettiği sikimsonik telefonları satılsın diye yabancı marka telefonlara ilave vergi istiyor. işçilerini köle gibi kullanıyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://imgz.star.com.tr/imgsdisk/2014/09/09/090920140047267054285_2.jpg" title="http://imgz.star.com.tr/imgsdisk/2014/09/09/090920140047267054285_2.jpg">biri</a> malum şahsa yaranmak için inşaatını üstlendiği ilahiyat fakültelerinin ödülünü kaçak saray ihalesiyle alıyor.<br/><br/>-<a rel="nofollow" class="url" target="_blank" href="http://www.bilgiuzmani.com/resim/yuklenen/110482567-ferit-sahenk-2.jpg" title="http://www.bilgiuzmani.com/resim/yuklenen/110482567-ferit-sahenk-2.jpg">biri</a> malum şahsı kızdırmamak için yayınlattırdığı penguen belgeselleriyle türk medya tarihinin en utanç verici işlerine imza atıyor.<br/><br/>mustafa koç u nasıl iyi bilmeyelim?
+  entry_writer: civilian k
+- entry_name: |
+    24 ocak 2016 trabzonspor beşiktaş maçı
+  entry_id: 57971078
+  entry_content: |
+    oynanacağı stadın halinden dem vurduğumuz için mızıkçı ilan edildiğimiz maçtır.<br/><br/>kar yağacağı tahmin edilen tüm stadyumlara branda çekiliyorsa ve bu maçta branda çekilmiyorsa;<br/><br/>bir başka maç<sup class="ab"><a title="(bkz: 24 ocak 2016 fenerbahçe rizespor maçı)" href="/?q=24+ocak+2016+fenerbah%c3%a7e+rizespor+ma%c3%a7%c4%b1" data-query="24 ocak 2016 fenerbahçe rizespor maçı">*</a></sup> gündüz saatlerinde oynatılıyorsa;<br/><br/>meteorolojiden bir hafta önce <a class="b" href="/?q=yo%c4%9fun+kar+ya%c4%9f%c4%b1%c5%9fl%c4%b1">yoğun kar yağışlı</a> olarak gösterilen statta oynanacak maç saati veya günü değiştirilmiyorsa;<br/><br/><a class="b" href="/?q=trabzon">trabzon</a>'da uçak seferleri yapılmıyorsa ve bu yüzden takım <a class="b" href="/?q=istanbul">istanbul</a>'a dönüp kamp yapamayacaksa;<br/><br/>bu akşam muhtemelen ertelenen maçla birlikte <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'ın ertelenen 2 maçının haftaiçi rakiplerinin dinlendiği haftalara yerleştirileceğini biliyorsak;<br/><br/>tatilde bile soğumamak için hazırlık maçları oynayan takımın lig maratonunda 2 haftayı maç yapmadan geçirdiği düşünülürse;<br/><br/>bizim konuşmamız kadar doğal bi' şey sanırım yoktur.
+  entry_writer: kasar yaza
+- entry_name: |
+    ağız bakiresi bir kızın olmaması
+  entry_id: 57967964
+  entry_content: |
+    son derece doğrudur.<br/>nedeni ise ağız bakiresi diye bir kavramın olmamasıdır. <br/><br/>(bkz: <a class="b" href="/?q=g%c3%b6t%c3%bcn%c3%bczden+element+uydurmay%c4%b1n">götünüzden element uydurmayın</a>)<br/><br/>edit: başa kalan bir başlık daha.
+  entry_writer: swollenmember
+- entry_name: |
+    ilkokul öğretmenine söylemek istenen şeyler
+  entry_id: 57976733
+  entry_content: |
+    o zamanlar anlayamamıştım ama simdi düşünce yapını çok iyi biliyorum. küçücük beyinlerdi sana emanet edilen. insanları sınıflandırdın, bir kısmını aşağıladın. derse gelince de pek iyi olduğun söylenemez. hala 4 işlem yaparken zorlanıyorum sayende. karşıma çıkmasan iyi edersin.
+  entry_writer: budevirdenicknegezer
+- entry_name: |
+    zlatan ibrahimoviç'in galatasaray'a transferi
+  entry_id: 57987010
+  entry_content: |
+    yönetime yakın olduğumu inandırdığım birisine şubat ayında geleceğini söyledim.<br/>tanım: çaktırmayın.
+  entry_writer: proleterkral
+- entry_name: |
+    son feci bisiklet
+  entry_id: 57986180
+  entry_content: |
+    yaa o değil de insanlık gerçekten teknolojinin fazlasıyla cebimize girmesiyle birlikte tersine evrim geçiriyor.<br/><br/>bu teknoloji olayı yaramadı bize valla bak.<br/><br/>biz de ergen olduk.90 larda geçirdim 10lu yaşlarımı. ben ve tum arkadaşlarım, hatta biz tüm bir jenerasyon 90lari <a class="b" href="/?q=pink+floyd">pink floyd</a>, <a class="b" href="/?q=led+zeppelin">led zeppelin</a>, <a class="b" href="/?q=deep+purple">deep purple</a> dinleyerek geçirdik bu ulkede. onları dinlemeyen <a class="b" href="/?q=iron+maiden">iron maiden</a>, <a class="b" href="/?q=metallica">metallica</a>, <a class="b" href="/?q=nirvana">nirvana</a>, <a class="b" href="/?q=pearl+jam">pearl jam</a> dinliyordu.<br/><br/>türk sanatçılardan <a class="b" href="/?q=mf%c3%b6">mfö</a> best of çıkardı 95te. ardından <a class="b" href="/?q=m.v.a.b.">m.v.a.b.</a> geldi. <a class="b" href="/?q=sak%c4%b1n+gelme">sakın gelme</a> diye bir başyapıt çıktı o albümden misal. <a class="b" href="/?q=%c3%b6zlem+tekin">özlem tekin</a>, <a class="b" href="/?q=%c5%9febnem+ferah">şebnem ferah</a>, <a class="b" href="/?q=teoman">teoman</a> patladi 96-99 arası. 99 un en sonuna <a class="b" href="/?q=duman">duman</a> yetişti <a class="b" href="/?q=eski+k%c3%b6pr%c3%bcn%c3%bcn+alt%c4%b1nda">eski köprünün altında</a> ile. hala daha iyi bir şarkı yapamadılar bence. ve <a class="b" href="/?q=tamam+sustum">tamam sustum</a> diyen <a class="b" href="/?q=vega">vega</a>. <br/><br/><a class="b" href="/?q=rock+kazan%c4%b1">rock kazanı</a> ve <a class="b" href="/?q=leman">leman</a> okuyorduk. sonradan <a class="b" href="/?q=roll">roll</a> gelmişti. <br/><br/>korkunç bir ergen olarak <a class="b" href="/?q=cezmi+ers%c3%b6z">cezmi ersöz</a> okuyordum. hatta ergenlikle suclaniyorduk cezmi okuyoruz diye. <a class="b" href="/?q=%c3%b6dp">ödp</a> kurulmuştu mesela. dünyayı cozdugunu düşünen ergenler olarak heyecan duymuştuk çokça. siyasal olmamizda her hafta leman okumamizin etkisi büyüktü.<br/><br/>bakın tüm bunlar biz lisedeyken oluyor. böyle bir nesil yetiştik biz bu ülkede. <br/><br/>şimdi bunlar nedir kardeş? ne diyeyim ben bunlara? bunlari takip edenlere ne diyeyim? ne oldu bu 20 yıl içinde ben onu anlamaya çalışıyorum.<br/><br/>not: evet yaşlıyım.
+  entry_writer: white vinegar
+- entry_name: |
+    beşiktaş
+  entry_id: 57970115
+  entry_content: |
+    ya şurda kar tatilimin ortasinda keyfle çayimi yudumlarken bi entry bakayim dedim gene sinirlendirdiniz.<br/><br/>lan buraya gelip hala biz 20 kupa kazandik siz 7 kazansiniz gibi idiot seviyesi seyler nasi yaziyorsunuz? <br/><br/>sen once sunu acikla; gelenden gecenden 4 yiyen takim devre arasinda mhk başkani degisince nasil bir anda sampiyonluga yurudu??? (sıfır kirmizi kartla) <br/><br/>ayni mhk baskani gorevi birakinca gene gelenden geçenden alan bi takima dondunuz. "sözde" efsane 3 kupali tdnizi tenekelerle kovdunuz. <br/><br/>noldu ne degisti?? uruguayli kalecimizle sampiyon olduk demiştiniz. ee adam hala kalede.<br/><br/>tek sebebi mhk baskani olmasin?? o 20-30 kupanizin yarisi net şikeli amk. <br/><br/>adama banka soydun diyoruz, adam ama benim param senden çok diyor. inanilmaz yahu. <br/><br/>vallahi inanilmaz. blokla blokla bitmiyorlar da. 1000 tane bu takimin taraftarini bloklamisimdir bugune kadar. hala ayni yazilar kopya gibi yaziliyor. cok acayip. <br/><br/>neyse bu takim bu sene azize ragmen sampiyon olacak. tffye mhkye ragmen olacak.
+  entry_writer: beeyore
+- entry_name: |
+    beyaz futbol
+  entry_id: 57986944
+  entry_content: |
+    rasim hırsızı seviyor ve açıkça desteklediğini söylüyor.<br/><br/>rasim canlı yayınlara kafası güzel çıkmasıyla meşhur. <br/><br/>buna rağmen rasim galatasaray'ın eski yöneticilerini alkolik çakallar kulüpten çaldılar diyerek suçluyor.<br/><br/>rasim gücü ve güçlüyü seviyor ve güçsüzü ezmekte bir beis görmüyor.<br/><br/>rasim çıkarcı.<br/><br/>rasim gibi olmayın.
+  entry_writer: el sordo
+- entry_name: |
+    ortaokul ve liselere kodlama dersi getirilmesi
+  entry_id: 57969342
+  entry_content: |
+    bir bilişim öğretmeni arkadaşımın anlattığına göre okullarda ciddi hareketlenmelere sebebiyet veren durum. fizik ve kimya başta olmak üzere bir çok branştan öğretmen neden bu dersi biz vermiyoruz da bilişim öğretmenleri veriyor diye söylenmeye şimdiden başlanmışlar. sonradan kodlamanın optik kağıtları işaretleme olayı değil de programlama olduğunu öğrenince geri adım atmışlar. <br/><br/>çocuk ölü doğdu beyler. dağılın.
+  entry_writer: czone
+- entry_name: |
+    nano teknolojiyi askerimiz neden kullanmıyor
+  entry_id: 57971795
+  entry_content: |
+    (bkz: <a class="b" href="/?q=crysis+oynay%c4%b1p+entry+girmek">crysis oynayıp entry girmek</a>)
+  entry_writer: sumuklu doktor
+- entry_name: |
+    ab'nin tc vatandaşlarından transit vize istemesi
+  entry_id: 57985159
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ab%27nin+bizi+sikip+sikip+yak%c4%b1nda+evlenece%c4%9fiz+demesi">ab'nin bizi sikip sikip yakında evleneceğiz demesi</a>)
+  entry_writer: mctnky
+- entry_name: |
+    her name was hexadecimal
+  entry_id: 57968988
+  entry_content: |
+    adam uçurun beni diye başlık açıyor ve uçurulmuyor. lan beni düzgün düzgün yazarken kaç kere uçurdunuz, namussuzlar. ta amk ekşi yönetim sizin. şimdi bu piçi uçurmayıp ta amk dedim diye beni uçurursanız şaşmam tabi. ta amk sizin tekrar.
+  entry_writer: cedrus deodara
+- entry_name: |
+    bir kadının canını en çok yakan şey
+  entry_id: 57984116
+  entry_content: |
+    aşk ilişkilerinde erkekler tarafından sevilmemiş olmak.<br/>sadece vücuduna ilgi duyulmuş olması.
+  entry_writer: katilkim
+- entry_name: |
+    çirkin bir kızla evlendikten sonra zengin olmak
+  entry_id: 57978381
+  entry_content: |
+    şu fıkraya konu olan kadının dahil olduğu evliliktir;<br/><br/>karı koca yemek yemektedirler. o sırada masaya yaklaşan heykel gibi güzel bir esmer, adamı selamlayıp geçer. adamın karısı sinirle sorar: <br/>- kim bu afet? <br/>- eğer mutlaka bilmek istiyorsan söyleyeyim, metresim, der adam. <br/>- bir de bu kadar pervasızca söylüyorsun. boşanıyorum senden! <br/>- yani etiler'deki apartmanı, kandilli'deki yalıyı, göcek'teki tekneyi ve nice'deki villayı bırakıyorsun... <br/>uzun bir sessizlik olur. çift yemeğini çatallarken kadın birden sorar: <br/>- şu arkada oturan fuat değil mi? yanındaki kadın kim? <br/>- fuat'ın metresi. <br/>- ay bizimki çok daha güzel!
+  entry_writer: chnanthemoca
+- entry_name: |
+    lazların türklere sabrı taşarsa olabilecekler
+  entry_id: 57974919
+  entry_content: |
+    boş kümedir.<br/>2013 yılında bdp, laz kültür derneği'ne laz halkının da bir bayrağı olsun diyerek öneride bulunmuştu, laz kültür derneği bu öneri üzerine açıklama yaparak "bizim bayrağımız var, anıtkabir'de dalgalanıyor" demişlerdi.<br/><br/>lazlar, bu ülkede ekonomik olarak kürtlerden çok daha fazla sıkıntı çeken bir millet olmuştur bununla beraber muhalif kesimde haklı olarak bazen yer almışlardır fakat hiç bir zaman bölücü bir gaye içinde yer almamışlardır, iyi ki varlar.<br/><br/>"türk’üm dedim, hadi lan faşist dediler.<br/>laz’ım dedim, hadi lan devşirme rum dediler.<br/>çerkez’im dedim, hain ethem’in torunları dediler.<br/>alevi’yim dedim, dinsiz kızılbaşlar dediler.<br/>ezidi’yim dedim, yezid’in pis soyu dediler.<br/>arap’ım dedim, pis yobaz dediler.<br/>ben dedikçe onlar da bir şeyler dedi.<br/>insanım diyecektim ama;<br/>insanlığa ait her şeyi yok ettiler.”<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=x_kqT3qL5NE" title="https://www.youtube.com/watch?v=x_kqT3qL5NE">kazım koyuncu</a>
+  entry_writer: highwaytohell
+- entry_name: |
+    bir fincan çayın 12.5 tl olması
+  entry_id: 57979622
+  entry_content: |
+    içmeyin.
+  entry_writer: baskasindanbaska
+- entry_name: |
+    23 ocak 2016 bimeks-paytrust-algan hukuk rezaleti
+  entry_id: 57984345
+  entry_content: |
+    <a class="b" href="/?q=upon+the+air">upon the air</a> adlı yazarın çaylak olmasından dolayı paylaşamadığı olayı, benden iletmemi istedi. belki bir uyarı mahiyetinde belki de bir çaresini bulması umadıyla paylaşıyorum:<br/><br/>"aylak olduğum için bir yere ulaşacağını sanmasam da, ne kadar kişi okursa o kadar fazla kişi bu insanlardan uzak kalır diyerek yazma ihtiyacı hissettiğim rezaletler silsilesi.<br/><br/>bundan 6 ay kadar önce 22 haziran 2015 tarihinde kütahya bimeks şubesinden lg-g3 beat marka telefon satın aldım. elektronik eşyalarda taksit olmadığı için paytrust adlı bir firmayla sözleşme imzalayarak taksitli alma şansı varmış. bu prosedürü gerçekleştirirken hopi para indirimi uygulanmadığı gerekçesiyle taksitli almaktan vazgeçip, indirim uygulansın diye nakit olarak tek çekimle telefonu satın aldım. mağazadan ayrıldıktan sonra kız arkadaşımla yarıda kalmış sözleşme evraklarını sıkıntı çıkmasın diye yırtıp atmalarını istesek mi diye düşünüp, koskoca bimeks sorun olmaz diyerek vazgeçip istemedik. keşke isteseymişiz.<br/><br/>bir iki ay sonra paytrust adlı firmadan 10 temmuz 2015 tarihinde aylık taksidi ödeyin tarzında mesaj aldım. hemen kendilerini aradım durumu izah ettim, kendileri bimeks ile görüşeceklerini, eğer nakit olarak ödediğime dair faturam varsa sıkıntı çıkmayacağını söylediler. ben de durumun çözüleceğini sanıp dert etmedim. <br/><br/>daha sonra 10 eylül 2015 tarihinde benzer bir mesaj geldi. yine paytrust şirketini arayıp gerekli yerlerle görüştüm. kendileri beni birkaç farklı yere bağladılar, sonunda argan hukuk bürosu çalışanı olduğunu öğrendiğim bir kadına bağladılar. durumu olduğu gibi tekrar izah ettim, sonrasında kendisi bir cep numarası verdi, bana faturanın fotoğrafını atmamı istedi, dediklerini uyguladım. faturanın kanıt niteliğinde olduğunu söyleyip sorun çıkmayacağına söz verdiler. <br/><br/>bir sonraki tarih olan 14 ekim 2015'te benzer mesaj gelince sabrım taştı, tekrar kendilerini aradım en baştan durumu anlattım uzun uzun bana bir sorun çıkmayacağını, gerekli işlemlerin yakında başlayacağını söylediler. fakat bimeks'i aramam gerektiğini söylediler. bimeks müşteri hizmetleri beni umursamayıp "bizim yapabileceğimiz bir şey yok, siz aldığınız şubeyle görüşün" dedi. aldığım şubeyi arayıp durumu tekrar izah ettim, kontrol ettiler ve "burada nakit olarak ödeme yaptığınız görünüyor, bir sıkıntı yok" dediler. tekrar paytrust'u arayıp tüm olanları anlattım kendilerine zaman vermemi söylediler. ben de kendilerine iyi niyet gösterip üzerine çok düşmedim, sonuçta olmayan bir borç yüzünden tefeci gibi bana sıkıntı çıkaracak halleri yoktu. çok yanılmışım burada hata benim.<br/><br/>bir hafta kadar önce bilmediğim bir numara beni aradı. avukat olduğunu, ödenmeyen borçlar yüzünden icra işlemi başlatıldığını söyledi. sinirlenerek durumu bir de avukata anlattım, kendisi yapacak bir şeyin olmadığını benim paytrust ile görüşmem gerektiğini söyledi. kendileriyle yine görüşmek mecburiyetinde kaldım. bu arada paytrust adımı ezberlemiş oldu. ne zaman arasam beni hemen ilgili birimlerine direkt yönlendiriyorlardı ama bir türlü sorunumu çözmediler. kendilerine icra işleminden bahsettim, "biz avukat bürosuyla görüşme halindeyiz size olumlu ya da olumsuz dönüş yapacağız" dediler. tekrar avukatı aradım, bu arada kendisinin adı gülten hanım, farklı bir avukatlık bürosu galiba. oldukça yapıcı konuşuyor, "ben paytrust ile görüşmeye başladım size haber vereceğim" dedi.<br/><br/>bugün paytrust'un çalıştığı, algan hukuk bürosu haciz işlemi yapılacağına dair mesaj attı. artık sabrım taşmıştı bu iş burada bitecekti. geçen hafta görüştüğüm avukatı aradım, "ben onlara gerekli bilgilendirmeyi yaptım mail atıyorum fakat bana geri dönmüyorlar, onlar bana sıkıntı olmadığını söylemeden ben işlemi geri çekemem, onlarla görüşün" dedi. bana mail adresi verdi, faturanın fotoğrafını oraya da ilettim. beni gün boyu yok öğle arası, yok yemeğe çıktılar gibi söylemlerle oyaladılar durdular. en sonunda aylar öncesinde whatsapp yoluyla kendisine fatura fotoğrafı attığım ve sorunun en kısa zamanda çözüleceğini, dert edilecek hiçbir şey olmadığını bana söyleyen sevgi hanım'a ulaştım. bu noktada belirtmeliyim ki 6 aylık süreçte olduğum gibi yapıcı değildim çünkü takdir edersiniz ki beni mesajlarla sürekli rahatsız ederek ve söz vermelerine rağmen işi halletmeyerek çileden çıkartmışlardı. sevgi hanım - soyadını vermiyor- ile şu konuşmayı gerçekleştirdik.<br/><br/>+ sevgi hanım ile görüşüyorum değil mi, ben aylardır aynı sorunla uğraşıp duruyorum, bugün avukatlık bürosundan haciz mesajı geldi, artık bu işi çözün bir an önce.<br/><br/>- beyefendi olur böyle şeyler, biz bimeks'e ulaşmaya çalışıyoruz fakat fatura kaydı arşivdeymiş o yüzden onlardan cevap bekliyoruz. siz de sürekli böyle arayıp rahatsız etmeyin konu çözülecek sonunda.<br/><br/>+ hanımefendi beni aylardır oyalıyorsunuz. benim borcum bile yok iyi niyeti suistimal ediyorsunuz. bu iş bugün artık çözülsün yoksa sizi şikayet ederim.<br/><br/>- öyle bugün çözülsün falan diye konuşacaksanız sizinle hiç uğraşamam hadi hadi.<br/><br/>telefonu kapattı. sinirden deliye dönmüştüm. bana avukatlık bürosundan mesaj geliyordu. arıyordum paytrust'a gönderiyorlardı, onlarla görüşüyordum bimeks ile çözün diyorlardı. bimeks ile görüşüyordum tekrar paytrust'a yönlendiriyorlardı. paytrust'u tekrar arayıp ilgili birim olan sevgi hanım ile görüştüm ve kendisi tekrar beni şoke etti:<br/><br/>+ az önce telefonu suratıma kapattınız siz nasıl bir firmasınız? benim işimi neden halletmiyorsunuz. sizi şikayet edeceğim.<br/><br/>- istediğin yere şikayet et. ben paytrust çalışanı da değilim, bimeks çalışanı da değilim. beni ilgilendirmez faturayı kimden aldıysan onunla çözersin işi.<br/><br/>+ siz hangi firmasınız peki, firmanın adı nedir, sizin adınız soyadınız nedir?<br/><br/>- sizi hiç ilgilendirmez. firmanın adını da söylemiyorum. bimeks'in binlerce böyle dosyası var istediğin yere şikayet et. ya beklersin bu sorunu çözeriz, ya da 5 yıl mahkemede uğraşır durursun. birazcık sabret.<br/><br/>+ farkında mısınız olmayan bir borç yüzünden 6 aydır uğraşıyorum bir sonuca bağlamadınız. avukat haciz işlemine başlanacak diyor. <br/><br/>- ben bu ayın 15'inden beri bu olaydan haberdarım 6 ay falan değil.<br/><br/>+ size fotoğraf atmıştım çözeceğim demiştiniz.<br/><br/>- ben değil başkasına atmışsınızdır.<br/><br/>+ hanımefendi bana mesaj gelip duruyor ben rahatsız oluyorum her seferinde sizi arıyorum ilgilenmiyorsunuz.<br/><br/>- gelir kardeşim, olur böyle şeyler. ne var yani böyle mesajlar geliyorsa. sonuçta evinize haciz memuru mu geldi? eşyanızı mı aldılar götürdüler? sizin kafanıza silah mı dayadık ürünü alın diye?<br/><br/>+ siz çok kabasınız ama böyle olmaz isminizi verin şikayet edeceğim.<br/><br/>- vermiyorum isim falan. nereye şikayet edersen et. biraz daha konuşmaya ya da beni rahatsız etmeye devam edersen bu işle ilgilenmekten vazgeçeceğim, paytrust'u arar durursun problemin çözülmeden. sen benim müşterim falan değilsin. istersen günde 15 defa ara bir sonuca ulaşamazsın.<br/><br/>+ bir avukat bana işleme başlandığını geri çekemediğini sizin cevap vermediğinizi söyledi. <br/><br/>- kimmiş o avukat? hangi şube isim nedir ben konuşurum onunla.<br/><br/>bunun üzerine gülten hanım'ı arayıp durumu anlattım adını hatırlayamamıştım öğrenip sevgi hanım'ı tekrar aradım. <br/><br/>+ gülten hanım adı.<br/><br/>- tamam ben görüştüm kendisiyle. (arkada telefonla konuşuyor birileriyle, muhtemelen gülten hanım ile) tamam halledeceğiz.<br/><br/>+ ben bugün bu işin halledilmesini istiyorum.<br/><br/>- daha da zorlama bu işi ben bırakıyorum kimle çözersen çöz. hadi.<br/><br/>konuşmanın geneli böyleydi çok sinirli olduğum ve kayıt yapmayı akıl edemediğim için üç beş cümlenin yeri kaymış olabilir fakat demediği hiçbir şeyi yazmadım buraya. ve neredeyse tüm bu konuşma sürecinde bana bağırdı durdu. inanamıyordum. kendisi alenen beni tehdit ediyordu. "çok canımızı sıkma arayıp rahatsız etme, sorununu çözmem" diyordu. kendisi hukuk işleyişini bildiğinden sanırım bir sonuca ulaşamayacağımı düşünüp "5 yıl uğraşırsın, burayı arar durursun" diyordu.<br/><br/>paytrust müşteri hizmetlerini aradım durumu anlatıp şikayet ettim. "bizim yapabileceğimiz bir şey yok onlar farklı bir firma biz onlarla çalışıyoruz" sadece dediler. "müşterinizi böyle mi koruyorsunuz, ismini verin" desem de bir işe yaramadı. ne isim verdiler ne de benle ilgilendiler. ne yapacağımı şaşırmış haldeydim.<br/><br/>bimeks'i aradım, durumu izah ettim, "bizlik bir durum yok paytrust ile görüşeceksiniz" dediler sanki telefonu onlardan almamışım gibi. lütuf gösterip fatura numaramı aldılar işlem başlattık dediler ama inanın hiçbir umudum yok. bimeks ürünü sattığı için umursamaz halde beni paytrust'a yönlendirip duruyor. paytrust arada bir "hallederiz" çekiyor, arada bir "bimeks ile görüşün" diyor. sevgi adlı soyadını öğrenemediğim şahsiyete ise söyleyecek kelimem yok.<br/><br/>argan hukuk bürosu'nu araştırıp aradım kendilerini açan hanım direkt ismimle hitap etti, "sanırım sizin işiniz maslak şubesiyle, fakat saat 2'den sonra paydos yapıyoruz pazartesi tekrar arayın" dedi. sevgi hanımın soyadını sordum bilmediğini söyledi. internet sitelerinde çalışanlarına baktım sevgi adında kimse yok.<br/><br/>çaresiz kalmış durumdayım. yarın evime haciz gelse ne yapacağım bilmiyorum. o zaman da "ne yapalım haciz gelmişse, hiç mi eşya kalmadı sanki. halledeceğiz bekle" falan diyebilirler.<br/><br/>siz siz olun bu üç firmadan da uzak durun."
+  entry_writer: alberthofmann
+- entry_name: |
+    hoşlanılan erkeğin barış manço hayranı çıkması
+  entry_id: 57981244
+  entry_content: |
+    barış abiyi beğenmeyenleri <a rel="nofollow" class="url" target="_blank" href="http://www.puiv.com/UploadedFiles/19-12-2015/org_KPYYVGQR_1023x633.png" title="http://www.puiv.com/UploadedFiles/19-12-2015/org_KPYYVGQR_1023x633.png">şöyle</a> alalım
+  entry_writer: gevur gani
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id: 57972444
+  entry_content: |
+    ! ! ! <a class="b" href="/?q=mal+beyan%c4%b1">mal beyanı</a> ! ! !<br/><br/>2 hafta önce kız babası oldum. hayatım değişti. bir ara deneyimlerimi yazıcamda önce boklu ellerimi yıkamam lazım. zira kız emiyor, işiyor, sıçıyor sürekli ve bunu yaparken gülüyor. tatlış şey...<br/><br/>neyse, kızı anca uyuttum. geceden beri gözüme uyku girmedi. biraz ekşi sözlüğe gireyim de ne olmuş ne bitmiş gündeme bakayım dedim. <br/><br/><a class="b" href="/?q=kendimenotlar">kendimenotlar</a> kişisi 3 ay önce yazdığım şeyi copy & past yapmış. ş. <a class="b" href="/?q=debe">debe</a> listesindeki garanti yerini almış.<br/><br/>keps: <a rel="nofollow" class="url" target="_blank" href="http://oi67.tinypic.com/14mgs5v.jpg" title="http://oi67.tinypic.com/14mgs5v.jpg">http://oi67.tinypic.com/14mgs5v.jpg</a><br/>keps: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/L184Aj.png" title="http://i.hizliresim.com/L184Aj.png">http://i.hizliresim.com/l184aj.png</a><br/><br/>böyle zalım bi dünyaya çocuk getirmek ne kadar doğru tekrar düşündüm asdasdsadfas
+  entry_writer: kadifesokak
+- entry_name: |
+    fenerbahçe
+  entry_id: 57977121
+  entry_content: |
+    19 haftası geride kalan ligde, 2 maçta penaltı kullanmıştır. bu 2 maçtan birinde, verilen penaltıdan önce verilmeyen çok net bir penaltısı vardır üstelik. algı oluşturmaya çalışanlara baksanız maçlarının en az yarısını penaltı kullanarak kazanmış zannedersiniz.<br/><br/>işte böyle zavallı rakiplere sahiptir.
+  entry_writer: beirut bell
+- entry_name: |
+    ilişkide kadınların hoşuna gitmeyen davranışlar
+  entry_id: 57973943
+  entry_content: |
+    ilişki hakkında olmayan bir konuda erkeğin kadınları yargılamaları ya da öğüt vermeleridir. <br/><br/>şöyle açıklamak gerekirse: <br/>kadının sinirlendiği, üzüldüğü konu erkekle ilgili olmayan bir konu. örneğin; aile, iş, okul konularıyla alakalı bir şey. <br/>erkeğe bundan bahseder, erkek ona şöyle davranır: o zaman sen de bunu yapsaydın, şöyle yapsaydın daha iyi olurdu ya da böyle böyle yap ... bunlar çoğaltılabilir. <br/><br/>peki kadın ne ister? kadın bunu dertleşmek için anlatır zaten üzgün ya da sinirlidir. erkeğin o anda onun saçını okşamasını, onu sakinleştirici şeyler söylemesini ister. konu hakkında şöyle olsaydı böyle olsaydı duymak istemez o an. <br/>kadın sakinleştikten sonra zaten o konuyla ilgili fikrini almak için erkeğe danışacakktır, erkek o zaman söylesin düşüncelerini. <br/>ama erkek inatla kadına o şekilde yaklaşır. kadın da haliyle buna sinirlenir. zaten diğer konuya sinirlidir üstüne bir de bu eklenir, tartışma çıkar.
+  entry_writer: gozde bir yerlerde
+- entry_name: |
+    eşit yurttaşlık ortak vatan
+  entry_id: 57971901
+  entry_content: |
+    (bkz: <a class="b" href="/?q=t%c3%bcrkiye+hepimizin+olsun+k%c3%bcrdistan+sadece+k%c3%bcrtlerin">türkiye hepimizin olsun kürdistan sadece kürtlerin</a>)
+  entry_writer: amateur
+- entry_name: |
+    evlenmek için geçerli ve güzel nedenler
+  entry_id: 57980403
+  entry_content: |
+    yeteri kadar bekar kalıp 'biraz da evli sıkılayım şu yaşamdan' düşüncesi.
+  entry_writer: iflah olmaz karamsar
+- entry_name: |
+    evren içine çökerken yapılması gerekenler
+  entry_id: 57967926
+  entry_content: |
+    <a rel="nofollow" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/736x/59/e0/42/59e042fa098335fb45d64499793212a5.jpg" title="https://s-media-cache-ak0.pinimg.com/736x/59/e0/42/59e042fa098335fb45d64499793212a5.jpg">şudur.</a>
+  entry_writer: swollenmember
+- entry_name: |
+    24 ocak 2016 fenerbahçe'nin kazandığı penaltı
+  entry_id: 57968609
+  entry_content: |
+    nedense içime doğan hadise. inşallah yanılırım da maçlar hakkıyla geçilir.
+  entry_writer: cok kara kislar gordum
+- entry_name: |
+    osmanlıspor galatasaray maçının hala bitmemesi
+  entry_id: 57969914
+  entry_content: |
+    galatasaray henüz bitti demediği için gerçekleşen hadise.<br/><br/>ahsgahagahsghaaghaagga.
+  entry_writer: piflo
+- entry_name: |
+    23 ocak 2016 şırnak'ta üsteğmenin şehit olması
+  entry_id: 57969790
+  entry_content: |
+    siktirin lan yaavşaklar. bu insanların bu acısını görünce gizli gizli haz duyuyorsunuz. <br/><br/>bu ülkede barış isteyen insanları carmaha geriyor cumhurbaşkanı hepiniz de ona odun taşıdınız. aha bu ölen insanın ailesi onların acısı, daha yıllar boyunca böyle dağılacak aileler hepsi sizin eserinizidir. öyle pkk falan diyerek de kacamazsınız bu sorumluluktan. izle şimdi sebep olduğun sahneleri. <br/><br/>bak hele yukardaki ite bak, bu dünyadaki safhahatını tamamlamışmış. siktir lan adamın ailesi, çocuğu var onu bekleyen, bir sikimi tamamladığı yok. bir de böyle laflar icat ediyorlar insanları birbirine öldrüttükçe.<br/><br/>barış diyenleri vurun arkadaşlar. hepiniz vampirsiniz zira.
+  entry_writer: kivircik salata
+- entry_name: |
+    burak yılmaz'ın west ham united'a transferi
+  entry_id: 57969060
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bir+imdat+%c3%a7ekici+olarak+bilic">bir imdat çekici olarak bilic</a>)<br/><br/>ulan bu adamı hep savunduk falan da, iki sene galatasaray'a eliyle kaybetti. şimdi batmış galatasaray'a para kazandırmak için burak'ı istiyor. yarı fiyatına pektemek'i alsana amk çocuğu.
+  entry_writer: care fernandes
+- entry_name: |
+    spor yapmadan kilo verdiren diyet
+  entry_id: 57983961
+  entry_content: |
+    scotchmist (popüler üye)<br/><br/>kızlar toplanın formülü açıklıyorum (gülenbebişsuratı)<br/><br/>iki kilo tarrağı kaynatıyoruz<br/>sonra bir tatlı kaşığı karabiber<br/>bir tatlı kaşığı nane<br/>biraz da tarçın ekleyip her gün üç bardak içiyoruz yemeklerden önce<br/><br/>benim görümcem başladı geçen hafta yazarım sonuçları (heyecanlısırıtış)<br/><br/>____________________________________________________________________________<br/><br/>prensesimin doğmasına 4 ay 23 gün kaldı ****
+  entry_writer: scotch mist
+- entry_name: |
+    1 günde 5 kilo verme yöntemi
+  entry_id: 57978287
+  entry_content: |
+    vucudunuzdan beş kilogramlık bir kütleyi kesip atınız.
+  entry_writer: swollenmember
+- entry_name: |
+    beşiktaş taraftarı
+  entry_id: 57969971
+  entry_content: |
+    tartışmasız türkiye'nin en kıskanılan taraftarıdır.
+  entry_writer: bombalasi
+- entry_name: |
+    cizre
+  entry_id: 57971555
+  entry_content: |
+    aihm kararının aslında barikatların ve hendeklerin kaldırılması için olduğunu bilmeyenleri karşımıza çıkaran ilçe.<br/><br/>ambulans uçarak mı gidecek it.
+  entry_writer: ulu orta konusan adam
+- entry_name: |
+    hadise çekiciliği
+  entry_id: 57983559
+  entry_content: |
+    <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/ClB4jnY.jpg" title="http://i.imgur.com/ClB4jnY.jpg">http://i.imgur.com/clb4jny.jpg</a>
+  entry_writer: skullsucker
+- entry_name: |
+    kamer genç
+  entry_id: 57971851
+  entry_content: |
+    tüm kanallar yalakalık diz boyu koç'un cenazesini canlı yayında verirken ulusal tv dışında tek bir kanalda bile cenazesi gösterilmemekte.<br/><br/>yıllar yılı milletvekilliğini yaptığı chp'nin kanalı halk tv'de bile mustafa koç'un cenazesi var an itibariyle.<br/><br/>üzüldüm, utandım, kızdım... bir sürü duygu var içimde.<br/><br/>yazık.. bu ülkeye 6 dönem hizmet etmiş çok değerli bir adam ama cenazesi bile parası doğrultusunda anılıyor ekranlarda.<br/><br/>tabi yalakalar ! kamer abi kalkıp size para vermeyecek. ama koç ailesine ne kadar yalakalık yaparsanız kârdır.<br/><br/>ruhun ışıklar içinde yolsun cesur ve güzel adam !<br/><br/>edit : şimdi ulusal koç'un cenazesine bağlandı, halk tv kamer genç'te..
+  entry_writer: concerta
+- entry_name: |
+    albaydan milli güvenlik dersi almış efsanevi nesil
+  entry_id: 57985944
+  entry_content: |
+    yerine imamdan din dersi alan nesil gelmiştir
+  entry_writer: oric
+- entry_name: |
+    2015-2016 sezonu şampiyonu fenerbahçe
+  entry_id: 57977534
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kar%c4%b1n+tad%c4%b1n%c4%b1+yine+%c3%a7ocuklar+%c3%a7%c4%b1kard%c4%b1">karın tadını yine çocuklar çıkardı</a>)<br/><br/>2 hafta maç yapamadık diye neler dönmüş amk.
+  entry_writer: belkigelmezyarin
+- entry_name: |
+    the revenant
+  entry_id: 57974324
+  entry_content: |
+    <a class="b" href="/?q=koyaanisqatsi">koyaanisqatsi</a> gibi filmleri sevdiğimden, konunun tekdüzeliği pek sorun olmadı, sinemada izlerken zevk aldım. fakat salondan çıkar çıkmaz filmin bendeki etkisi geometrik olarak düşmeye başladı. dışarda yağan kar altında yürürken, filmdeki karakterlerin tekdüzelikleri içimi epey sıktı. eve vardığımdaysa bir kolumda bir şırınga, diğerinde de bir fahişe vardı (bu kısmın filmle bir alakası yok, her gece böyle zaten)<br/><br/>leo'nun herhalde kariyeri boyunca oynadığı en sığ karakter bu. derinlik katmak için flashbacklerle bir arkaplan yedirmeye çalışmışlar ama sorun su ki, filmin kafası fazla karışık:<br/><br/>-bu, beyazlarla kızılderililer arasında kalmış birinin kimlik bulma mücadelesi mi?<br/>-karısının kaybından dolayı hayata küsmüş birinin bir amaç bulma hikayesi mi?<br/>-doğaya hükmetmeye çalışan insanın acziyetinin ifşası ve aynı anda, doğaya karşı inadının kutlanması mı?<br/>-bir intikam hikayesi mi?<br/><br/>"senaryo kötü" diyenlerin çoğunun derdi filmin ağırlığı, ama senaryonun asıl hatası bu konuların karman çorman işlemesi. <br/><br/>adamın doğaya karşı hayatta kalma mücadelesi, intikam mücadelesinden önce başladığı için, motivasyonu buğulu. halihazırda terminatörvari birini, inandırıcı bir şekilde, bir baba ve eş figürü olarak kabullenmek zor. kimlik bulma serüveni ise tamamlanmadan çöpe atılmış.<br/><br/>oysa sözde kötü adam olan fitzgerald (<a class="b" href="/?q=tom+hardy">tom hardy</a>) ortamdaki tek 3 boyutlu karakter. film boyunca resmen onu destekledim. bir şeytan da değil, bir aziz de, o boktan şartlar altında en rasyonel kararları vermeye çalışan biri. bir iş planı var, geleceğe dönük hayalleri var. kaptan gibi, emek sömürücüsü olmasına rağmen kendini onurlu sanan, ama dünyanın koşullarından habersiz biri değil ("hayatın mı daha önemli malın mı?" "bu mal olmadan benim bir hayatım yok kaptan!"). leo gibi geleceği belli olmayan bir terminator/av hayvanı karışımı da. çok ilginç değil ama yeterince ilginç.<br/><br/>iyi bir hikayeyi müthiş bir hikayeden ayıran şeylerden biri, "kötü adamların" çekiciliğidir. fakat esas oğlan ile bir bağ kuramadıktan sonra, bunun da önemi azalıyor.<br/><br/>bu filmi kurtaran şey ne leo'nun aktörlük çileleri, ne de tom hardy'e dar gelmiş olan karakter... sadece sinema perdesi ve <a class="b" href="/?q=sinematografi">sinematografi</a>. (oscarı leo alır ama ben <a class="b" href="/?q=fassbender">fassbender</a>ın performansını daha çok beğendim)
+  entry_writer: immanuel tolstoyevski
+---
