@@ -24,7 +24,7 @@ data:
     29 ocak 2016 rusya'nın türk hava sahasını ihlali
   entry_id: 58136511
   entry_content: |
-    (bkz: <a class="b" href="/?q=etme+bac%c4%b1yn+amu%c4%9fa+koyum+ihlal+etme">etme bacıyn amuğa koyum ihlal etme</a>)<br/>(bkz: <a class="b" href="/?q=duydum+ki+hava+saham%c4%b1z%c4%b1+ihlal+ediyormu%c5%9fsun+etme">duydum ki hava sahamızı ihlal ediyormuşsun etme</a>)<br/><br/><a class="b" href="/?q=edit">edit</a>: bu ay tek başıma kalan biri olarak ankara'da verdiğim doğalgaz faturası; <a class="b" href="/?q=578%2c20">578,20</a>tl... inanmayana çeker faturayı yollarım, bu ay da aşağı geleceğini zannetmem, rusya'sının da amk ülke politikasınında, sınırı geçen uçak ülkeye değil direkt bizim götümüze giriyor, hükümetin en küçük uluslararası hamlesi bizi sikertiyor! filler tepişiyor, giren çıkan bize. <br/>egosu, sikinin keyfi, adamın birinin kafası nasıl isterse öyle olacak, dediğim dedik çaldığım düdük diye diye çaldığı düdük bile giriyor...<br/><br/>rusya sahamızı iptal etti ne yapalım!?<br/>vuralım amk, eyvallah vuralım...<br/>bizim ne kadar büyük bir ülke olduğumuzu yine unuttum bak, hay aklımı sikeyim... vuralım tabi lan acıyanı sikeyim ama bırak yakmaya, yakın zamanda yemeye bile bulamayacağız o tezeği. <br/>olur mu lan tarım ülkesiyiz diyenin ağzını yüzünü kırarım, hani limonu domatesi 1 liradan yiyecektik? rusya'nın almadığı mallar yüzünden ucuzlayacaktı herşey? 6 lira domates 5 lira limon biber miber hiç girmiyorum bile.. ha senin de amına koyum putin bi siktir git sende az ötede oyna yaa!
+    (bkz: <a class="b" href="/?q=etme+bac%c4%b1yn+amu%c4%9fa+koyum+ihlal+etme">etme bacıyn amuğa koyum ihlal etme</a>)<br/>(bkz: <a class="b" href="/?q=duydum+ki+hava+saham%c4%b1z%c4%b1+ihlal+ediyormu%c5%9fsun+etme">duydum ki hava sahamızı ihlal ediyormuşsun etme</a>)<br/><br/><a class="b" href="/?q=edit">edit</a>: bu ay tek başıma kalan biri olarak ankara'da verdiğim doğalgaz faturası; <a class="b" href="/?q=578%2c20">578,20</a>tl... inanmayana çeker faturayı yollarım, bu ay da aşağı geleceğini zannetmem, rusya'sının da amk ülke politikasınında, sınırı geçen uçak ülkeye değil direkt bizim götümüze giriyor, hükümetin en küçük uluslararası hamlesi bizi sikertiyor! filler tepişiyor, giren çıkan bize. <br/>egosu, sikinin keyfi, adamın birinin kafası nasıl isterse öyle olacak, dediğim dedik çaldığım düdük diye diye çaldığı düdük bile giriyor...<br/><br/>rusya sahamızı ihlal etti ne yapalım!?<br/>vuralım amk, eyvallah vuralım...<br/>bizim ne kadar büyük bir ülke olduğumuzu yine unuttum bak, hay aklımı sikeyim... vuralım tabi lan acıyanı sikeyim ama bırak yakmaya, yakın zamanda yemeye bile bulamayacağız o tezeği. <br/>olur mu lan tarım ülkesiyiz diyenin ağzını yüzünü kırarım, hani limonu domatesi 1 liradan yiyecektik? rusya'nın almadığı mallar yüzünden ucuzlayacaktı herşey? 6 lira domates 5 lira limon biber miber hiç girmiyorum bile.. ha senin de amına koyum putin bi siktir git sende az ötede oyna yaa!
   entry_writer: koministimam2
 - entry_name: |
     emlak balonu
@@ -39,7 +39,7 @@ data:
     (bkz: <a class="b" href="/?q=yuh+amk+birinci+kim+lan">yuh amk birinci kim lan</a>)<br/><br/>adam orada bile seçime şaibe katmayı başarmış, <br/>ne demek 2. olmak? <br/><a class="b" href="/?q=kim">kim</a> ulan birinci <a class="b" href="/?q=kim+kim+kim">kim kim kim</a><br/><br/><a class="b" href="/?q=edit">edit</a>: neyse milli iradeye güven esastır bizde, halkın %83 nün reisi seçmiş olması bize yeter!<br/>bu arada <a class="b" href="/?q=kim+yong">kim yong</a> u bile geçmiş lan, reis kendini aştı, artık hakikaten dünya çapında bir lider ama işte biraz farklı kulvarlarda!<br/><br/>ona muhtar bile olamaz diyenler utansın, adam dünya çapında bir diktatör oldu...
   entry_writer: koministimam2
 - entry_name: |
-    50 kadın işçiyi 1.5 saat yürüterek kar temizletmek
+    saha temizliği için rize'de 50 işçinin yürütülmesi
   entry_id: 58140816
   entry_content: |
     "beraber yürüdük biz bu yollarda"<br/><br/>rize bir de. en çok oy çıkan yerlerden birinde, hak yoktur artık. o hak peygamber gördükleri, ilah gördükleri o insanın ve onun görevlendirdiği insanlarındır. bunu istediler, bu verildi.<br/><br/>buna en başta neyin, nasıl ve kimin sebep olduğunu; olayın bu boyutlarda gerçekleşiyor olmasının sebebini bilmediklerine adım gibi eminim.
@@ -78,7 +78,7 @@ data:
     avrupalılar neden türk kızlarından daha güzeller
   entry_id: 58146701
   entry_content: |
-    anneleri türk erkeği gibi kıllı hanzo genlerine sahip erkeklerle çiftleşmedikleri içindir.
+    anneleri türk erkeği gibi kıllı hanzo genlerine sahip erkeklerle çiftleşmedikleri içindir.<br/><br/>debe editi: kadınlar deli gibi her ay ağda yaptırsın cilt bakımına gitsin, saç boyatsın, makyaj malzemesine her ay para bayılsın... kıllı bir herifte çıkıp <a class="b" href="/?q=benle+sevi%c5%9f+ya+da+ayr%c4%b1lal%c4%b1m">benle seviş ya da ayrılalım</a> desin ne güzel la. . karşındaki insan senin için bu kadar çaba sarfediyor, sen de elini taşın altına koysan da az bi spor yapsan? dişini fırçalasan? ne var kıllarını sende aldırsan? ölür müsün sanki gidip ağda yaptırsan o koltuk altına? hayır madem yaptırmıyorsun gelipte türk kadını vırt zırt diye geveleme, sen hiç birşey yapmazken o hanım kızımız kışın ortasında etek dekolte takılıyor senin yüzünden.
   entry_writer: iremcetinipek
 - entry_name: |
     aziz yıldırım
@@ -132,7 +132,7 @@ data:
     seks yaparken geliyorum diyen kadın bencilliği
   entry_id: 58131284
   entry_content: |
-    (bkz: <a class="b" href="/?q=gidiyorum+mu+desin">gidiyorum mu desin</a>)<br/><br/>ayrıca<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://s.instela.com/m/millet-ac-ac--i671304-1200x630.jpg" title="https://s.instela.com/m/millet-ac-ac--i671304-1200x630.jpg">https://s.instela.com/…-ac-ac--i671304-1200x630.jpg</a>
+    (bkz: <a class="b" href="/?q=gidiyorum+mu+desin">gidiyorum mu desin</a>)<br/>ayrıca<br/><a rel="nofollow" class="url" target="_blank" href="https://s.instela.com/m/millet-ac-ac--i671304-1200x630.jpg" title="https://s.instela.com/m/millet-ac-ac--i671304-1200x630.jpg">https://s.instela.com/…-ac-ac--i671304-1200x630.jpg</a><br/><br/>debe editi: <br/>arkadaşlar bir oyun yaptım indirip oynar mısınız lütfen, zira kimse indirmiyor ve reklam yapacak bütçem de yok.<br/><a rel="nofollow" class="url" target="_blank" href="https://play.google.com/store/apps/details?id=com.Slothmachine.OriLand&hl=trl=tr" title="https://play.google.com/store/apps/details?id=com.Slothmachine.OriLand&hl=trl=tr">https://play.google.com/…slothmachine.oriland&hl=trl=tr</a><br/><br/>bu incelemesi <a rel="nofollow" class="url" target="_blank" href="http://www.webtekno.com/mobil/oriland2-android-h14013.html" title="http://www.webtekno.com/mobil/oriland2-android-h14013.html">webtekno</a><br/>bu da <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=LbgMdag-6O8" title="https://www.youtube.com/watch?v=LbgMdag-6O8">videosu</a>
   entry_writer: internetim olsun acikmam ben
 - entry_name: |
     ak parti'yi çekemeyen yavşaklar
@@ -174,7 +174,7 @@ data:
     1994 yazından akılda kalanlar
   entry_id: 58129772
   entry_content: |
-    benim en net şekilde hatırladığım şey öys sonucunu öğrenmek için sabahın köründe gazete bayine gidişim.<br/>böyle de bir nesil vardı. başlığı açık değilse açın gençler, yormayın beni. dil altı hapımı almam lazım.
+    benim en net şekilde hatırladığım şey öys sonucunu öğrenmek için sabahın köründe gazete bayine gidişim.<br/>böyle de bir nesil vardı. başlığı açık değilse açın gençler, yormayın beni. dil altı hapımı almam lazım.<br/><br/>yoğun istek üzerine edit( ne yoğunu la bi msj geldi:)) efendim sonuçlar o dönem çarsaf gazete dediğimiz ayrı bir gazetede (resmi gazete gibi) kazanan kişilerin ösym nosu karşısında da kazanılan okul kodu şeklinde liste halinde yazardı. o listeden bakar bulurduk kazandıysak. ösym nomu hala ezbere biliyorsam bundandır.
   entry_writer: paul muaddib
 - entry_name: |
     tek taş yüzük istemeyen kadın
@@ -222,7 +222,7 @@ data:
     euro truck simulator 2
   entry_id: 58139426
   entry_content: |
-    oyundan sıkılanlara şöyle bir tavsiyede bulunmak istediğim simülasyon.<br/><br/>aracın ön konsolunda bulunan dahili navigasyonu kapatıyoruz. sol alt taraftaki harici navigasyonu da kapatıyoruz. <br/><br/>yükümüzü aldıktan sonra haritaya bakıyoruz. varacağımız yere gidene kadar geçeceğimiz şehirleri bi kağıda not edip haritayı kapatıyoruz. sonra da yoldaki şehir tabelalarına bakıp varacağımız yere gitmeye çalışıyoruz :)
+    oyundan sıkılanlara şöyle bir tavsiyede bulunmak istediğim simülasyon.<br/><br/>aracın ön konsolunda bulunan dahili navigasyonu kapatıyoruz. sol alt taraftaki harici navigasyonu da kapatıyoruz. <br/><br/>yükümüzü aldıktan sonra haritaya bakıyoruz. varacağımız yere gidene kadar geçeceğimiz şehirleri bi kağıda not edip haritayı kapatıyoruz. sonra da yoldaki şehir tabelalarına bakıp varacağımız yere gitmeye çalışıyoruz :)<br/><br/>edit: sağ alt taraftaki harici navigasyon olacaktı.
   entry_writer: khan shabbir
 - entry_name: |
     savaş çıkarsa chp'li komşularımdan başlayacağım
@@ -246,7 +246,7 @@ data:
     kadınları çekici yapan detaylar
   entry_id: 58135712
   entry_content: |
-    bir üstteki entry için<br/><br/>(bkz: <a class="b" href="/?q=entry+ve+nick+uyumu">entry ve nick uyumu</a>)
+    bir üstteki entry için<br/><br/>(bkz: <a class="b" href="/?q=entry+ve+nick+uyumu">entry ve nick uyumu</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: teşekkür ederim canım yazarlar.
   entry_writer: terapist
 - entry_name: |
     cizre'deki evin bodrum katından ilk görüntüler
@@ -276,7 +276,7 @@ data:
     garsona ayıp olmasın diye yumurtayı çantaya atmak
   entry_id: 58127320
   entry_content: |
-    garsonun masayı toplarken "oha yumurtayı kabuğu ile birlikte yemiş hayvan oğlu hayvanlar" şeklinde tepki vermesine sebep olacak olay.
+    garsonun masayı toplarken "oha yumurtayı kabuğu ile birlikte yemiş hayvan oğlu hayvanlar" şeklinde tepki vermesine sebep olacak olay.<br/><br/><a class="b" href="/?q=volcano71">volcano71</a>in yapmış olduğu derin analiz sonucu, soyulan iki yumurta kabuğunun aynı yerde olması, garsonun 3. yumurtanın yenmediğinin farketmemesini sağlayabilirmiş. bence de doğru. kaç gündür kendime dert ediyordum rahatladım çok şükür.
   entry_writer: ihtiyac analiz raporu
 - entry_name: |
     yayın yaparken abisinin gazabına uğrayan çocuk
