@@ -102,7 +102,7 @@ data:
     mehmet görmez'in change.org'da kampanya başlatması
   entry_id: 58184345
   entry_content: |
-    <a href="eksisozluk.com/entry/58184345">58184345</a>
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>...önce bu kampanyayı başlatan diyanet işleri, altlarındaki benzinli motorinli araçları hybrid veya tüplülerle değiştirsin. <br/>camilerin hava ve rüzgar akımlarını projelerde zorunlu hale getirsin ki klima kullanımını minimuma indirsin. detayları mimar sinan'dan öğrenebilirler. <br/>yayınladıkları ilmihaller vb kılavuzlar için harcadıkları bütçeyi ve paralelinde kesilen ağaçların miktarını düşürsün. <br/>kılavuzları elektronik ortamda yayınlasın. <br/>diyanet memurları, ofis kapıları açıkken klima çalıştırmamaya ve klimaları akıllı/otomatik modda kullanacağına söz versin. <br/>camilerde led aydınlatma kullansın.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_writer: bob hite
 - entry_name: |
     vitor pereira
