@@ -294,7 +294,7 @@ data:
     sur toledo gibi olacak
   entry_id: 58180290
   entry_content: |
-    <a href="eksisozluk.com/entry/58180290">58180290</a>
+    davutoğlu'nun müthiş <a rel="nofollow" class="url" target="_blank" href="http://haber.sol.org.tr/turkiye/davutoglu-suru-oyle-insa-edecegiz-ki-toledo-gibi-olacak-144452" title="http://haber.sol.org.tr/turkiye/davutoglu-suru-oyle-insa-edecegiz-ki-toledo-gibi-olacak-144452">vaadi</a>.<br/><br/>osmanlı başkenti bursa'yı <a rel="nofollow" class="url" target="_blank" href="https://www.google.com.tr/search?q=bursa+toki&espv=2&biw=1600&bih=799&source=lnms&tbm=isch&sa=X&ved=0ahUKEwil5fX_nNbKAhVF4XIKHesxCaUQ_AUIBigB#NbKAhVF4XIKHesxCaUQ_AUIBigB#" title="https://www.google.com.tr/search?q=bursa+toki&espv=2&biw=1600&bih=799&source=lnms&tbm=isch&sa=X&ved=0ahUKEwil5fX_nNbKAhVF4XIKHesxCaUQ_AUIBigB#NbKAhVF4XIKHesxCaUQ_AUIBigB#">şu</a> hale getirmeyi başarmış, cumhuriyet başkentini gökçek hanedanına emanet eden zihniyet söylüyor bunu. <br/><br/>haftaya gülerek başlayalım ^^
   entry_writer: sakarkral
 - entry_name: |
     rte'nin bülent arınç'tan o zat diye bahsetmesi
