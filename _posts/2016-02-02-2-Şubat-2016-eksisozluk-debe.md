@@ -78,7 +78,7 @@ data:
     sağlık bakanlığı'nın efsane bilişim uzmanı ilanı
   entry_id: 58190362
   entry_content: |
-    okurken kör olduğum ilan. ben hepsini yapıyorum da gözümden ateş çıkartamıyorum lütfücüğüm o nasıl oluyo?<br/><br/>debedit : çapa'da yatmakta olan bir hasta için acil trombosit ve kan ihtiyacı varmış arkadaşlar, mesaj aşağıda.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çapa tip fakültesinde yatan eşim için b rh + trombosit ve kan ihtiyacı vardır. verebilecek olanlar 0534 599 77 67 numaralı telefondan bana (ali osman bey) ulaşabilirler.<br/>birgun sizin de ihtiyacınız olabilir.<br/>umarım olmaz.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    <a href="eksisozluk.com/entry/58190362">58190362</a>
   entry_writer: gergin ataman
 - entry_name: |
     1 şubat 2016 hüseyin çelik'in kovulması
