@@ -1,0 +1,305 @@
+---
+layout: post
+title: 21 Şubat 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    alman fayans ustasının iş disiplini
+  entry_id: 58640155
+  entry_content: |
+    atlaya atlaya izledim, bir kere bile çatal görmedim. usta dediğin adamın göt çatalı gözükür, bu adam gerçek bir usta bile değil.<br/><br/>yazık, çok yazık.
+  entry_writer: biseybuldum
+- entry_name: |
+    vedat milor'un yaptığı açıklama
+  entry_id: 58646083
+  entry_content: |
+    dalga geçer gibi gelmiş açıklamadır. 20 günlük kuzu yenir mi tepkisine yer önerisi vererek cevap vermiş. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_writer: bilgehankalkan
+- entry_name: |
+    mumyaya tecavüz
+  entry_id: 58638927
+  entry_content: |
+    mumya bedenin sahibine deseler zamanında 2500 yıl sonra seni biri sikecek diye inançları alt üst olur lan. <br/>inanmaz bide.
+  entry_writer: picassa
+- entry_name: |
+    suriye türkiye'nin ikinci kıbrıs'ıdır
+  entry_id: 58640608
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ay%c5%9fe+siki+tuttu">ayşe siki tuttu</a>)
+  entry_writer: xarinin
+- entry_name: |
+    serkan yıldız
+  entry_id: 58643079
+  entry_content: |
+    adam bjkli arkadaşlarını kızdırmak için "zaten bitmez hehe" diye paylaşımda bulunmuş, ekmeğinden olmuş buradakilerde dayak yemediğine şükretsin diyor. <br/><br/>görmemişsiniz, malsınız. stadınızı başınıza çalın. inşallah tüm fenerli ve galatasaraylı çalışanlar grev yaparda sik gibi kalır inşaatınız.<br/><br/>edit : demişler ya "bu sezon bitmez kafasında çalışıyormuş bize işine yürekle bağlanacak adam lazım" diye. adam "ne yağmur, ne çamur, ne soğuk engel değil çalışma şevkimize" yazmış malum esprisinden önce. utanın!<br/><br/>edit 2 : mesaj geldi. "bjk hakkında ileri geri konuşmasın, beşiktaşlılar din gibi tapar, öldürülüp bir köşeye atılmadığına şükretsin." <br/><br/>akp'yi eleştirdi diye işten çıkaran kurumlara kızmayalım o zaman. o zaman o da öldürülmediği için şükretsin. <br/><br/>gezi'de eylemcileri içeri almayanlara kızmayalım. ölmeyi hakettiler o zaman. aa palalı mı? palalı kadını öldürmedi be helaaaal olsun ona. <br/><br/>ee fransa'da karikatürist öldürenler de adamın dibi. nasıl savundular ama peygamberlerini. <br/><br/>bu nasıl kafa abiler? ne olur kendinize gelin. ben dayak yemediğine şükretsin dendi diye bozulup entry girdim, öldürülmediğine şükretsin diyorlar. neymiş ileri geri konuşmuş beşiktaş hakkında, beşiktaşlılar din tutar gibi takım tutarmış.
+  entry_writer: godmother theme
+- entry_name: |
+    saat takmayan erkek
+  entry_id: 58655119
+  entry_content: |
+    kendini yeterince erkek hissetmediği için aksesuarlardan medet uman eziklerin eniştesi.
+  entry_writer: midesiz
+- entry_name: |
+    ton balıklı pilav
+  entry_id: 58636770
+  entry_content: |
+    dardanelcilerin japon ve türk pazarlarında yaptıkları araştırmaları karıştırmaları sonucunda reklamlarda kullanmaya başladıkları mide bulandırıcı kombinasyon.<br/><br/>bizim kültürümüzde böyle bir şey yok arkadaşlar, sakin olun.
+  entry_writer: nerede o eski bayramlar
+- entry_name: |
+    robin van persie
+  entry_id: 58645489
+  entry_content: |
+    o<br/>ı\\<br/>ı ı
+  entry_writer: keke23
+- entry_name: |
+    23 haziran 2016 birleşik krallık ab referandumu
+  entry_id: 58642719
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ada+ben+ayr%c4%b1lmak+istiyorum">ada ben ayrılmak istiyorum</a>)
+  entry_writer: spacetimereality
+- entry_name: |
+    20 şubat 2016 bursaspor fenerbahçe maçı
+  entry_id: 58649947
+  entry_content: |
+    fenerbahçe penaltı kazanamadığı maçlarda zorlanıyor nokta.
+  entry_writer: ctf
+- entry_name: |
+    boyu 1.50 olan kızlar
+  entry_id: 58656300
+  entry_content: |
+    şu dünyaya bir kere geliyorsun ve övünebildiğin tek şey sevgilinin boyunun 180 cm olması; kafa hariç mi dahil mi merak dahi etmiyoruz düşün işte...
+  entry_writer: tuareghan
+- entry_name: |
+    artvin'e giriş çıkışın yasaklanması
+  entry_id: 58640753
+  entry_content: |
+    artvin valisini günün birinde sanık sandalyesinde görmek dileğiyle okunmuş haber, milletin amına koyacak ak partili işadamının uşağından vali mi olurmuş?
+  entry_writer: helix lucorum
+- entry_name: |
+    kediler aç kalmasın diye köyden ayrılmayan teyze
+  entry_id: 58645677
+  entry_content: |
+    şu boktan ülke gündeminde yüzde gülümseme oluşturmuş güzel insandır. dünya senin hatrına dönüyor be <a rel="nofollow" class="url" target="_blank" href="http://www.birgun.net/haber-detay/kediler-ac-kalir-diye-koyden-ayrilmiyor-104304.html" title="http://www.birgun.net/haber-detay/kediler-ac-kalir-diye-koyden-ayrilmiyor-104304.html">teyzem</a>
+  entry_writer: dinazorlar turkmus haci
+- entry_name: |
+    facebook kullanmayan insan
+  entry_id: 58639336
+  entry_content: |
+    takdir ettiğim ve özendiğim insandır.<br/><br/>herhangi bir islami cihat örgütüne sınavsız kabul edilecek uzunlukta sakalı olan adamım ama facebook'ta hatunlara kedili, tavşanlı emoji yolluyorum. sakalımdan utanmadan veriyorum tavşanı, veriyorum tospayı. yaşıtlarım ev geçindiriyor, ben resmen sevimlilik timsali oldum çıktım.<br/><br/>ne hallere düştük ulan :( ben de kapatıcam bu şer yuvasını.
+  entry_writer: dunyanin en buzin seven insani
+- entry_name: |
+    eyüp sultan'da yakalanan hırsız
+  entry_id: 58644587
+  entry_content: |
+    (bkz: <a class="b" href="/?q=atta+dittiydim+h%c4%b1ys%c4%b1z+amcalay+vayd%c4%b1">atta dittiydim hıysız amcalay vaydı</a>)
+  entry_writer: assab
+- entry_name: |
+    leyla ile mecnun
+  entry_id: 58653277
+  entry_content: |
+    ...<br/>simit yok mu simit. yiyoruz ya hani. o simidi bi düşünüyorum da yani o simidin ortasında bir delik var ya o boşluğa ne oluyor? biz yedikten sonra yani o boşluk nereye kayboluyor yani? hayır onuda yiyorsak çünkü hava yutmuşuz gibi oluyor da böyle gaz mı yapmasa sonra korkusu var hep içimde onu yemesek mi acaba yani? o gaz insanı öldürür biliyor musun? o simitin ortasındaki o boşluk adamı öldürmüş...<br/>...<br/><br/>konu değiştirirken bile beyin yakan dizi
+  entry_writer: bu hikaye bitti mi
+- entry_name: |
+    vitor pereira
+  entry_id: 58646199
+  entry_content: |
+    abi bu adam porto'yu şampiyon yaptı kovuldu. olympiakos'u şampiyon yaptı ve devre arasında lider iken kovuldu. suudi arabistan bile kovdu bu herifi. adamın kişisel ve ruhsal sıkıntıları var. <br/><br/>ne yapılması gerekiyor? karı mı sikmesi gerekiyor kovulması için?
+  entry_writer: ihanet kac kisilik
+- entry_name: |
+    çok kitap okuyan erkek
+  entry_id: 58641227
+  entry_content: |
+    mutsuzdur.
+  entry_writer: umumi katip
+- entry_name: |
+    ışık hızıyla seyahat eden astronotun maaşı
+  entry_id: 58656378
+  entry_content: |
+    daha önce bahsedilmemişse vennus paradoksu olarak analım bunu. diyelim ki ışık hızına oldukça yaklaşan -mesela ışık hızının %99.9999999'u- uzay araçlarını üretmeyi başardık ve astronotlara bu araçlarda görevler vermeye başlıyoruz. astronotun görevi dünya'dan 21 şubat 2089'da ayrılarak başlıyor. astronota diyorlar ki "yarın aynı bu saatte dönmüş ol." astronot "tamam abi" diyor. saatine bakıyor 08:30 tarih de 21 şubat 2089. koltuğuna oturuyor, el frenini çekiyor gaza basıyor. ışık hızıyla (ışık hızının %99.9999999'uyla yani) 24 saat geziyor uzayda, 24 saat boyunca takılıyor filan. sonra saatine bakıyor: 08:29.59 tarih 22 şubat 2089 olmuş. "tamam" diyor, döneyim artık beni bekliyorlardır. ve dönüyor. araçtan iniyor, telefonuna bakıyor ve (telefonunun tarihi otomatik güncelle seçeneği aktif) telefonda gördüğü tarih 22 şubat 2109. dünyadan ayrılalı 20 yıl olmuş. şimdi bu astronota maaş olarak ne verilecek? 1 günlük yevmiye artı uzay harcırahı mı yoksa 20*12 adet aylık artık emeklilik ikramiyesi mi? zor bir karar doğrusu.
+  entry_writer: vennus
+- entry_name: |
+    obama'nın rte'ye telefonda 80 dk vakit ayırması
+  entry_id: 58639842
+  entry_content: |
+    tayyip erdogan ingilizce bilse cevirmenle vakit kaybi olmayacagi icin yarim saatte biteceginden obama icin sirf zaman kaybidir
+  entry_writer: theboyunderthewaterfall
+- entry_name: |
+    vodafone arena
+  entry_id: 58638906
+  entry_content: |
+    muhteşem, muhteşem, muhteşem. başka hiç tanıma gerek yok. biz galatasaraylıların hele hiç konuşmaya hakkı yok, adamlar bizim yapamadığımızı yapıp kendi evlerine böyle bir eser yaptılar. ben dağ başındaki tt arena yapılırken nasıl heyecanlanıyordum her gün takip ediyordum o yüzden beşiktaşlı arkadaşların heyecanını çok iyi anlıyorum. sağ olsunlar bizi yöneten basiretsizler bizim heyecanımızı bitirdiler. arena yapıldıktan sonra çivi çakmadılar, nasıl yarım yamalak açıldıysa hala yıllardır o şekil devam ediyor. ama bu stad başka. herşeyi ile bitmiş bir şekilde geliyor, kesinlikle en iyisi olacak ülkenin. ve konumu, en büyük artısı da o zaten. o stadın dolmama gibi bi sorunu da olmaz çünkü eminim beşiktaşlı olmayanlar da sırf o atmosfer için geleceklerdir oraya. beşiktaşlı arkadaşların bu heyecanlarının bitmemesi deliğiyle. sabırsızlıkla bekliyoruz.
+  entry_writer: messor
+- entry_name: |
+    pkk'nın belçika'da da kaçak elektrik kullanması
+  entry_id: 58636660
+  entry_content: |
+    hollandaca haber: <br/><br/>"de koerdische afscheidingsbeweging pkk, die in de ogen van de eu een terroristische groepering is, organiseert haar trainingen vanuit belgië. dat onthult de europese politiedienst europol in zijn nieuwe 'european union terrorism situation and trend report 2014', waarover de tijd vandaag bericht.<br/><br/>europol schrijft dat een belgische vzw, de 'académie de recherches sciences sociales de la mésopotamie', de europese trainingen voor pkk-strijders coördineert. de vzw is gevestigd in een deelgemeente van charleroi en bestaat al ruim drie jaar. <br/><br/>europol waarschuwt dat de pkk-sympathisanten na hun training doorstromen naar kampen in noord-ırak, waar ze zich voegen bij de gewapende tak van de pkk. europol waarschuwt ook dat de pkk in ons land aanzienlijke geldfondsen verwerft door haar leden te helpen knoeien met hun elektriciteitsmeter. het geld dat ze uitsparen vloeit deels naar de pkk."<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://m.hln.be/hln/m/nl/957/Binnenland/article/detail/1904181/2014/05/31/Terreurgroep-PKK-heeft-hoofdkantoor-in-Belgie.dhtml" title="http://m.hln.be/hln/m/nl/957/Binnenland/article/detail/1904181/2014/05/31/Terreurgroep-PKK-heeft-hoofdkantoor-in-Belgie.dhtml">http://m.hln.be/…heeft-hoofdkantoor-in-belgie.dhtml</a><br/><br/>aslinda haberin basligi "teror orgutu pkk'nin belcika'da merkez ofisi var" <br/><br/>fakat haberin sonundaki "europol pkk'nin uyelerine kacak elektrik kullanimini ogreterek buradan tasarruf edilen parayla orgute gelir kaynagi saglandigini acikladi" kismina bittim. <br/><br/>ab nezdinde teror orgutu olarak gecmesine ragmen pkk'yi yillardir <a class="b" href="/?q=isci+partisi">isci partisi</a> ve <a class="b" href="/?q=terorle+mucadele">terorle mucadele</a>yi de <a class="b" href="/?q=kurtlere+karsi+savas">kurtlere karsi savas</a> olarak israrla niteleyen belcika basini bu sefer ayikti galiba. <br/>dun de bir tv de ankara saldirisinda olenlerin yakinlarindan birisiyle roportaj yapilmis ve bu insanlar arasindan belcika'nin turkiye'deki teror olaylarina bakisini elestiren bir vatandas gundeme gelmisti. <br/><br/>valla ben de bu ulkede yasiyorum soylemeyeyim diyorum ama batida algiyi olusturan kurumlarin bu ikiyuzlulugu ayyuka cikmisti son zamanlarda. <br/><br/>simdi pkk yilani kendilerine tislayinca birden haberin basligi teror orgutu pkk diye degisiyor. <br/><br/>haberdeki diger ayrintilar:<br/><br/>- europol'un european union terrorism situation and trend report adli raporunda naklettigine gore pkk teror egitimlerini belcika'dan koordine ediyor. <br/><br/>- charleroi da yerlesik <a class="b" href="/?q=mezopotamya+sosyal+bilimler+arastirma+akademisi">mezopotamya sosyal bilimler arastirma akademisi</a> (isme gel isme) adli bir dernek avrupa'daki egitimlerini 3 yildir tahsis ediyor. burada yetisen teroristler kuzey irak'ta savasmaya gidiyorlar. <br/><br/>- pkk uyelerine elektrik saatinde oynama yaparak kacak elektrik kullanimini ogretiyor ve buradan tasarruf edilen parayla pkk kamplari finanse edilmeye calisiliyor. <br/><br/>eyyy belcika, demek ki neymis: <br/><br/>pkk tehdit, kacakcilik, ikiyuzluluk kavramlarini karakteristigine siar edinmis bir teror orgutuymus.<br/><br/>bu da devlet tv sinin sitesindeki fransizca haber: <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.rtbf.be/info/belgique/detail_le-pkk-dispense-des-entrainements-depuis-la-belgique?id=8281426" title="http://www.rtbf.be/info/belgique/detail_le-pkk-dispense-des-entrainements-depuis-la-belgique?id=8281426">http://www.rtbf.be/…s-depuis-la-belgique?id=8281426</a>
+  entry_writer: esrar i leyal
+- entry_name: |
+    survivor 2016
+  entry_id: 58651721
+  entry_content: |
+    yunus gunce nin borek falan umrunda degil. kazansak ta 2 hatun kucaklasam derdinde.
+  entry_writer: monreve
+- entry_name: |
+    vedat milor'un 20 günlük süt horozu yemesi
+  entry_id: 58637288
+  entry_content: |
+    (bkz: <a class="b" href="/?q=vedat+milor%27un+20+g%c3%bcnl%c3%bck+s%c3%bct+m%c4%b1s%c4%b1r%c4%b1+yemesi">vedat milor'un 20 günlük süt mısırı yemesi</a>)<br/><br/>şaka bi yana 20 günlük kuzu yenmez be kardeşim.
+  entry_writer: kirk himmet
+- entry_name: |
+    motorda sıkışan ağır yaralı kediye tedavi desteği
+  entry_id: 58646485
+  entry_content: |
+    motorda şıkışan ve ağır yaralı olan bir kedi <a class="b" href="/?q=bak%c4%b1rk%c3%b6y">bakırköy</a>'deki bir veteriner kliniğinde tedaviye alınmış. tedavinin devamı için destek aranıyor.<br/><br/>hassas olanlar fotoğraflara ve ilan kaynağına bakmasın, ufaklığın durumu cidden kötü. +18<br/><br/>ilk müdahaleden fotoğraflar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hizliresimyukle.com/image/P0X" title="http://hizliresimyukle.com/image/P0X">foto1</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hizliresimyukle.com/image/P0s" title="http://hizliresimyukle.com/image/P0s">foto2</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hizliresimyukle.com/image/P0h" title="http://hizliresimyukle.com/image/P0h">foto3</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hizliresimyukle.com/image/P0j" title="http://hizliresimyukle.com/image/P0j">foto4</a><br/><br/>hızlıresimi açamayanlar için:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.directupload.net/file/d/4270/7l3nso2o_jpg.htm" title="http://www.directupload.net/file/d/4270/7l3nso2o_jpg.htm">foto1</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.directupload.net/file/d/4270/4cjvmzb2_jpg.htm" title="http://www.directupload.net/file/d/4270/4cjvmzb2_jpg.htm">foto2</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.directupload.net/file/d/4270/fnk9faja_jpg.htm" title="http://www.directupload.net/file/d/4270/fnk9faja_jpg.htm">foto3</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.directupload.net/file/d/4270/5auwfouc_jpg.htm" title="http://www.directupload.net/file/d/4270/5auwfouc_jpg.htm">foto4</a><br/><br/>sosyal medyadaki yardım ilanı: <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/ladyhande3/status/700703588901761025" title="https://twitter.com/ladyhande3/status/700703588901761025">ilan</a><br/><br/>tedavi sonrası sahiplenebilecek olan da ilgilenirse, çok sevabı var bu işin.<br/><br/>edit: <br/><br/>arkadaşlar ufaklık bakırköy veteriner kliniğinde tedavi görüyor. klinikteki yetkili <a class="b" href="/?q=veteriner+hekim+ece+paylan">veteriner hekim ece paylan</a>.<br/><br/>-------------------------------<br/>yadım için hesap no:<br/><br/><a class="b" href="/?q=ece+paylan">ece paylan</a> / <br/><br/>iş bankası bakırköy osmaniye şubesi<br/><br/>hesap no: 1146- 322 685<br/><br/>iban: 380006400000111460322685<br/><br/>yardım yapacak arkadaşlar mutlaka yardım gönderimlerine <a class="b" href="/?q=motorda+s%c4%b1k%c4%b1%c5%9fan+kedi">motorda sıkışan kedi</a> ya da <a class="b" href="/?q=hande+g%c3%bcl">hande gül</a> ismini yazmaları gerekiyor ki diğer yardım toplanan hayvanlara yapılan yardım ödemeleriyle karışmasın. <br/><br/>ayrıca yardım yapan arkadaşlar nolur nolmaz diye isimlerini ve gönderdikleri meblağları mesajla ya da whatsaptan hande hanım'a 0535418 12 47 ya da en azından buradan mesajla bana yazarlarsa karışıklığı önlemiş oluruz.<br/><br/>ayrıca yakınlardaki arkadaşlar kliniğe gidip ufaklığı görebilirlermiş. hafta içi saat 20.00'a kadar. <br/><br/>bakırköy veteriner klinigi adresi: kartaltepe mah. başarı sok. güngör apt. no: 17/1 bakırköy (incirli cad üzerine) istanbul / bakırköy veteriner kliniği: 0212 543 47 21 (tedavi gördüğü klinik)<br/>------------------------------<br/><br/>bizzat bilgi almak isteyenler için irtibat:<br/><br/>hande hanım: 0535418 12 47 (kediyi bulan)<br/><br/>edit2: yakın civardaki arkadaşlarla bir araya gelip ufaklığı görmeye gidebiliriz. düşünen yeşillendirsin.<br/><br/>edit3: yok mu yahu gidelim bi görelim diyen arkadaşlar hade? <br/><br/>ufaklığın hikayesi- tıbbi terimlerin olduğu kısımları atlıyorum arkadaşlar: bu halde 5 gün önce ilk müdahale yapılmış. karın boydan boya dikişli. dikişler patlamış durumdaymış ama. bu nedenle sürekli hem dikişlerin olduğu bölgeye hem de diğer bölgeye her gün pansuman yapılıyormuş. günde 3-4 tane serum ve ağrı kesici veriliyormuş. (umarım ağrı kesici bol bol veriliyordur :((( ) çok zayıfmış malesef. çok değil 1.500 gibi bir meblağ söz konusu tedavisi için.<br/><br/>inşallah iyileşecek ufaklık. ve umarım onu sahiplenecek koruyacak kalbi güzel, evi müsait sözlükçüler de çıkacak buradan...<br/><br/>edit4: yardımda bulunduğu bilgisi ulaşan kalbi güzel sözlükçüler için allah bin katını nasip etsin inşallah:<br/><br/>@sekerli çiklet<br/>@seabiscuit<br/>@hugeegosorry<br/>@deli duran<br/>@knidos<br/>@micocuk<br/>@neox<br/>@lex<br/>@biskal
+  entry_writer: bilmiyorum abi
+- entry_name: |
+    20 şubat 2016 ankara jolly joker rezaleti
+  entry_id: 58653665
+  entry_content: |
+    merhaba arkadaslar.<br/>bu entryi, daha yeni firindan cikan rezaleti sicagi sicagina sizle paylasmak istedigim icin yaziyorum. bugun ankara jolly jokerda saat 22.00da duman konseri vardi. 5 arkadas haftalar oncesinden biletlerimizi alip beklemeye gectik. konser saatinden bir saat once 21.00da kapiya geldik ancak bizi kapida karsilayan gorevliler iceri almadi. yanimizda dam olmadigi gerekcesiyle iceri alinmadik. ayrica zor kullanilarak uzaklastirildik. biz bir musteri olarak hizmet satin aldik ama ne yazik ki bize hizmetimiz verilmedi. hakkimizi aradigimizda da kufur yedik ve kaba kuvvetle uzaklastirildik. biletimiz oldugu halde 4 arkadas yanimizda bir kiz olmadigi bahanesiyle iceri alinmadik. bu iki kelime etmekten aciz yasam formlari bu isten para kazaniyor. yanlis anlasilmasin oradaki mafyayi calistiran sirkete jolly jokeredir bu laflarim. kuvvetle muhtemeldir ki sinirsiz bilet satildi ve iade etmedikleri 15% kesintiden, vermedikleri hizmetten para aliyorlar. ne guzel is degil mi? haydi yarin bir fason etkinlik duzenleyip bilet satalim. kapida insanlari geri cevirelim ve bilet basina kesintiden hicbir yapmadan para kazanalim. hukuksuzca ve etik disi mi? evet. yanlarina kaliyor mu? lanet olsun ki evet! <br/>sozlukdaslarin size nacizane tavsiyem milletten hakkaniyetsiz bir sekilde para kazanan bu tarz haysiyetsiz kurumlara pirim vermemeniz ve bir an once bu sikik ortadogu ulkesinden kacip kurtulmaniz.<br/><br/>edit: bilette uygun gorulmeyen kisiler konsere alinmayabilirler denmis. belirgin bir sekilde bize istirak eden bir bayan olmadigi icin alinmadik. sunu da belirtmem de fayda var: bizim arkamizdan 2 "sap" erkek daha geldi ve biletleri oldugu halde iceri alinmadilar. yukarda bahsettigim hukuk disi is soz konusu. verilmeyen hizmetten para kesintisi aliyor adi herifler.
+  entry_writer: axon
+- entry_name: |
+    20 şubat 2016 ahmet davutoğlu açıklaması
+  entry_id: 58647012
+  entry_content: |
+    sadece 4 dakikasını dinlemem bile sinirlerimi tepeme çıkarmama sebep olan açıklama. 4 dakika içinde 3 defa amerika'dan örnek verdi, amerika'dan bahsetti. arkadaş sen türkiye cumhuriyeti'nin başbakanısın, sanane abd'den? bir hükümet, amerika'nın sömürgesi olduğunu bu kadar mı belli eder? türkiye hep amerika'nın sömürgesiydi ama bunlar açıkça ilan ediyor. <br/><br/>ikinci trajikomik açılaması: etrafımızda ateş çemberleri varken türkiye münferit bir iki terör olayı haricinde huzur içinde yaşıyor diyor. ulan senin başkentinde, kıçının dibinde 2 adet terör saldırısı oldu, ilkinde 100 ikincisinde 20 küsur kişi öldü. güneydoğun kaynıyor kontrol edemiyorsun, artvin halkı ayaklanmış gösteri yapıyor, suriye'de çıkardığınız savaş yüzünden milyonlarca fakir suriye'li mülteci sokaklarda geziyor, ülke birkaç kutba bölünmüş herkes birbiriyle kavgalı, küs. adam gelmiş bir iki terör olayı dışında sorunumuz yok diyor. bu insanlar pişkinliğin kitabını yazmışlar ama her zamanki gibi ben suçu bunlarda bulmuyorum. bunlara inanıp oy veren aymaz türk halkı, bu hatasının bedelini acı bir şeklilde ödeyecektir. rotasını akıldan ve bilimden almayan, yozlaştırılmış dini rehber yapan ve osmanlıcılık oynayan bu çapsızların ülkeyi adım adım felakete sürüklemesine hep beraber tanıklık ediyoruz.
+  entry_writer: supercisim
+- entry_name: |
+    20 şubat 2016 bursa fb maçındaki kural hatası
+  entry_id: 58650146
+  entry_content: |
+    90 dakika boyunca fenerbahçe'ye penaltı verilmemiştir.<br/><br/>çok büyük bir ihtimalle maç tekrar edilecektir.
+  entry_writer: talented tales
+- entry_name: |
+    artvin cerattepe direnişi
+  entry_id: 58641118
+  entry_content: |
+    o ağaçlar solcu için devrim. milliyetçi için türk toprağı , dindar için nimet. bu ağaçları kesenler solcuya göre işbirlikçi , milliyetçiye göre vatan haini, dindara göre zındıktır. kimsenin götü başı oynamasın. hep birlikte direnin.
+  entry_writer: fullcontact
+- entry_name: |
+    ilk buluşmaya gelinlikle gelen kız
+  entry_id: 58654508
+  entry_content: |
+    heyyt koçum benim bee, tam evlenilecek kız. böylesini buldun mu basıcan nikahı. hazır gelin işte.
+  entry_writer: neseli ispanak
+- entry_name: |
+    kadın erkek arkadaşlığı
+  entry_id: 58641365
+  entry_content: |
+    birisiyle kafeye gittim. hesap ödeyecekken yanıma geldi, elini çantasına götürürken kasiyer sordu;<br/><br/>+ beraber misiniz? <br/>- hayır sadece arkadaşız. <br/><br/>bu konuyla ilgili söyleyeceklerim bu kadar.
+  entry_writer: elmedico
+- entry_name: |
+    20 şubat 2016 debe listesine müdahale edilmesi
+  entry_id: 58637275
+  entry_content: |
+    iki entry'nin sözlükten silinmediği halde debe listesinden çıkartılması olayı.<br/><br/><a class="b" href="/?q=simendiferlerin+efendisi">simendiferlerin efendisi</a> geçenlerde debe listesi açıklandıktan bir iki saat içinde listeye müdahale edildiğini gözlemlediğini söylemişti. bugün debe açıklandıktan sonra www.eksisozluk.com/debe sayfasındaki linkleri alıp daha sonra dosyaları karşılaştırmış. kendisi sözlüğü bıraktığı için onun yerine başlığı ben açıyorum.<br/><br/>şu iki entry silinmediği halde debe'den çıkartılmış gözüküyor: (bkz: <a class="b" href="/entry/58616940">#58616940</a>) (bkz: <a class="b" href="/entry/58619607">#58619607</a>)<br/><br/>ilgili yazarların profillerine girilirse görülebilir ki "dünün en beğenilen entry'leri" kategorisinde entry'leri olması lazım. ama debe listesinde bunlardan eser yok. (türkiye saatiyle 6:46 ve 8:53'te aldığı linklerin ayıklanmış halinin .txt dosyaları da var ama bunlara montaj dublaj diyecekler çıkabileceği için koymaya tenezzül etmedim.)<br/><br/>***<br/><br/>üyesi olmayanlar için sözlüğün dış vitrini <a class="b" href="/?q=g%c3%bcndem">gündem</a> ve <a class="b" href="/?q=debe">debe</a> sekmeleri olduğu için kanzuk ve saz arkadaşlarının problem çıkartabilecek entry'leri silmesini bir noktaya kadar anlayabilirim.<br/><br/>ama anlamadığım şey şu. madem bu entry'ler sözlük vitrininde sergilenmeye müsait değil, o zaman neden entry'ler uçurulmuyor ya da yazarları çaylak yapılmıyor?<br/><br/>mesela "makarna lütfen" başlığına girilen "bsg lutfen" bakınızı neden debe'den gizlenmiş olabilir? büyük ihtimalle meşhur <a class="b" href="/?q=ticari+itibar">ticari itibar</a> gerekçesiyle. kanımca sözlük yönetimi de bu entry'de ticari itibar zedeleyen bir şey olmadığını düşünüyor ki entry'yi silmemişler. ama debe'ye koymaya da cesaret edememişler.<br/><br/>buna nazikçe çevir kazı yanmasın, kabaca da ne emmeye ne gömmeye gelmek deniyor sanki.<br/><br/>[düzenleme: mevzubahis firmayla ilgili sözlük yazarı sözlükten bu entry'ye yönelik bir talepleri olmadığını belirtti. yani firmanın entry'nin çıkartılmasıyla bir ilgileri yok. öte yandan bu, sözlük yönetiminin hiçbir açıklama yapmadan kafasına göre iş yaptığı gerçeğini değiştirmiyor.]<br/><br/>şimdi diğer entry'ye gelelim. o başlık cidden problematik. bir kişinin adına başlık açılmış. başlığı açan da "beni terk eden sevdicek" diye bir tanımlama yapmış. sonrasında altında türlü komiklikler, şakalar vs. debe'ye giren entry'nin listeden çıkartılması için aklıma gelen tek gerekçe mevzubahis başlığın ve entry'nin ilgili kişinin özel hayatını ihlal etmesi. (hukukçu değilim. dolayısıyla belki başka sıkıntılar yaratıyordur ilgili kişinin hakları açısından bu şekilde başlık açmak. bilenler aydınlatabilir.)<br/><br/>şimdi bu entry'nin debe'den çıkartılmasına diyecek bir lafım yok. bence de çıkartılsın. zaten sen niye senden ayrılan sevgilinin başlığını sözlüğe açıp bir kişiyi sözlükte ifşa edersin ki?<br/><br/>ama bu durumda sormadan edemiyorum. madem ilgili başlık debe'den çıkartılabilecek kadar problematik, o zaman başlığı açan yazar niye çaylak yapılmadı ya da uçurulmadı? (bu arada belirtmeliyim ki başlığı açanın kim olduğuna bile bakmadım.)<br/><br/>not: eğer bu entry'lerin debe'den çıkartılmasının yukarıda söylediğim şeylerden farklı bir gerekçesi varsa bu gerekçeler açıklandığı takdirde bu entry imha edilecektir.<br/><br/>tekrar belirtmekte fayda görüyorum. eleştirdiğim şey yönetimin "çevir kazı yanmasın" felsefesi. yani ilgili kişinin özel hayatı sözlükte ifşa edilebilecek kadar özel değil ama debe'de ifşa edilemeyecek kadar mı özel? madem bir iş yapıyorsunuz, arkasında durmayı bilin. o başlığı komple uçurun.
+  entry_writer: turing
+- entry_name: |
+    2015-2016 sezonu şampiyonu beşiktaş
+  entry_id: 58650271
+  entry_content: |
+    adamlar stadsız, taraftarsız ve adam akıllı transfer yapmadan şampiyon olacaklar ve tarihinin en güçlü kadrosunu barındıran fenerbahçe, bunu sadece izleyecek. böyle oldursa şayet, ben de evden alkışlayacağım. slim fit, siktir git artık. fernandao'nu da al git. <br/><br/>rvp spor.
+  entry_writer: hitchcock
+- entry_name: |
+    kadının sol memesinin sağdakinden tatlı olması
+  entry_id: 58640658
+  entry_content: |
+    abi sen ibne değil miydin ya.
+  entry_writer: eskisehirli
+- entry_name: |
+    beşiktaş
+  entry_id: 58638834
+  entry_content: |
+    73. dakikada atılan gole "son dakikalarda frikik ile atılan gol" diyen dingiller eleştiriyor oynadığı futbolu.<br/><br/>be amına soktuklarım maçları izlemiyorsunuz anladık, ulan maçkolik'tır, livescore'dur oralardan da mı bakmıyorsunuz gol dakikalarına?<br/><br/>ha illa son dakikalardaki frikik golü arıyorsanız 90+6'da olmayan faul ile kazanılan frikik ile atılan golü konuşun;<br/><br/>(bkz: <a class="b" href="/?q=30+a%c4%9fustos+2015+fenerbah%c3%a7e+antalyaspor+ma%c3%a7%c4%b1">30 ağustos 2015 fenerbahçe antalyaspor maçı</a>)
+  entry_writer: bu adam adam olmaz
+- entry_name: |
+    yaran facebook durum güncellemeleri
+  entry_id: 58636334
+  entry_content: |
+    "yalnız doğru kişiyi ararken iyi seviştiniz amk"
+  entry_writer: karabasana basan kara hasan
+- entry_name: |
+    süt içenlerin tecavüzcülere destek olması
+  entry_id: 58657594
+  entry_content: |
+    veganların iyice kafayı yediğini gösteren suçlamadır.<br/><br/>işte bunlar hep et yememekten.
+  entry_writer: hugeegosorry
+- entry_name: |
+    türk f-16 pilotunun suudi pilotlarla selfie'si
+  entry_id: 58641080
+  entry_content: |
+    poz çok güzel ama anlam çok derin.<br/><br/>iki ayrı müslüman ülkeye ait savaş pilotları çok harika bir kare oluşturmuşlar. bu ülkerden birisi petrol zengini diğerinin de halkının %50'si kendini dünya devi görüyor.<br/><br/>lakin fotoğrafta müslümanlara ait olan hiç bir şey yok. f serisi savaş jetleri ve uzak doğu yapımı cep telefonu.<br/><br/>bunları siyaset yapmak için yazmıyorum ayrıca. sadece bu acı bir tablo bence.
+  entry_writer: tungnafellsjokull
+- entry_name: |
+    aziz yıldırım'ın ülkeyi böldürmeyeceğiz açıklaması
+  entry_id: 58645302
+  entry_content: |
+    aziz yıldırım'ın devleti böldürtmemek için hapis yattığını öğrenmemize vesile olan demeçtir. ortalama her fb taraftarının yaptığı gibi, aziz yıldırım ve askerlik konusu açılır açılmaz anında salağa yatılarak mevzu değiştirilmeye çalışılır.<br/>şu mesele 15 senede bir kez sorgulanmadı, sahte çürük raporunu belgeleyen adama dava açılacak denildi, oradan da bir ses çıkmadı. siz memleketi böldürmemeyi bi geçin de başkanınız neden askerlik yapmadı, şunun cevabını bir verin. ha adam anti militaristtir, silahlardan tiksinir, ne bileyim generallerle ilişkisi olmaz, silah ihalelerine tövbe girmez vs anlarım ama şu mevzu üzerine de lütfedip bir konuşun arkadaş... cumhuriyetin bekçisiyim diyen adam askerden kaçar mı ya? <br/>yok bu iddialar iftiraysa adam askerliğini yaptıysa veya bir bacağı diğerinden 10 cm kısaysa şimdiden özür diliyorum...<br/><br/>ek: cidden sözlük aynştayn dolu, savunma mekanizması her zamanki gibi harika ;<br/>bir tek o mu kaçtı?<br/>milletvekili çocukları kaçmadı mı?<br/>zengin çocukları da kaçıyor<br/><br/>e ben de onu diyorum ya sığır, bu da onlardan farklı değil ama siz adamı put yapıp heykeline tapınıyorsunuz işte. ben 40'a merdiven dayayan ömrümde hem atatürkçü, hem vatanseverim, hem de memleketi kurtaracağım diyerek askerden kaçan bir adama denk gelmedim. hangisi daha acı hala karar veremiyorum, adamın askerden kaçması mı yoksa bunun bile hala savunulabilmesi mi...<br/><br/>ek2: burada iddia da adamın sahte çürük raporu alması. şunu savunan adamlar var lan. aldıysa aldı diyor...ya yok kafayı yiyeceğim, adam hala "vatanı sevmek için askerlik zorunlu mu" diyor. hayır zorunlu değil. vicdani retçi de vatanını gayet sevebilir. gerçekten buradan bu manayı çıkartan adamları da alnından öpmek lazım. sahte çürük raporu alan vatan aşıklarını öğreniyoruz bu arkadaşlar sayesinde<br/><br/>ek3: tam da beklenildiği gibi küfür hakaret gırla gidiyor. şu çelişkinin mantıkla izahını yapın söveceğinize. her zaman olduğu gibi memlekette neyin çalındığı değil kimin çaldığı önemlidir. savunma mekanizması da asla değişmez, "e bu yaptıysa öbürü de yaptı". gerizekalılığın ve ahlaksızlığın gümüş kurşunudur bu mekanizma ...<br/><br/>ek:4 başka biri de pkklı demiş bana :)) normalde hiç siklemem yazılanları da bunları ibret olsun diye arşivlemek lazım. başkanınıza karşı çıkan pkklıdır, tabi lan...
+  entry_writer: kukla
+- entry_name: |
+    a haber'in teröristlerin telsiz konuşması haberi
+  entry_id: 58657145
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>+ merhaba heval<br/>- merhaba <br/>+ ne yaapıyorsun? <br/>- ne yapayım vallaahi yine bir eylem hazıırlığındayım<br/>+ a a! emiri kimdeen aldın bro..pfft..heval?<br/>- hpg'den ypg'ye geçen kendal kod adlı cemal arkadaştan. cemal, ypg'li olan.<br/>+ cizre kantonundaki ypg'li yüzbaşı kendal mi?<br/>- evet evet ypg'li olan <a class="b" href="/?q=loo">loo</a>. tc'yi ankarada o vurmuştu hanii.<br/>+ hmm demek ypg'li olan. annladııııım..<br/>- o zaman ben ypg adına yapıcağım eylem için hazırlayacağım 3 tonluk bombayı bağlamaya devam edeyim.<br/>+ hm. tamam. ben de salih müslim'e çay koyayım. oldu o zaman.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=stratejik+derinlik">stratejik derinlik</a>)
+  entry_writer: zarri
+- entry_name: |
+    kılıçdaroğlu'na çıkışan kadın
+  entry_id: 58637652
+  entry_content: |
+    `kadına hakaret ediyorsunuz, aptal ve cahilllllllllllll` diyorsunuz diyen güzel kardeşim. senin hümanistliğinin ağzına kürekle vururum. <a class="b" href="/?q=delirtme+beni">delirtme beni</a>.<br/><br/>kılıçdaroğlu pyd'ye koridor mu açtı, dağdan kamyonetle terörist mi indirdi? ülkeyi bu adam mı yönetiyor? konuşmaya çalışsa dinlemezsin bile. cumhurbaşkanına hesap sorsan seni fare deliğine tıkarlar bunu bile bilmiyorsun. açıp hapse giren gazetecileri okudun mu hiç? yok. polis diyor ya orada "<a class="b" href="/?q=tepki+vermeyelim+olabilir">tepki vermeyelim olabilir</a>". götün yiyorsa tayyip oradayken de, <a class="b" href="/?q=daha+kar%c5%9f%c4%b1+demeden+10+polis+%c3%bcst%c3%bcne+atlar">daha karşı demeden 10 polis üstüne atlar</a>. işte sen bunu bile bilmiyorsun.<br/><br/>bu kadın sabahtan akşama kadar akit okuyor belki onu bile okumuyor sağda solda dinlediği ile konuşuyor. <a class="b" href="/?q=bilgisi+yok+fikri+var">bilgisi yok fikri var</a>.<br/><br/>cahil işte ve <a class="b" href="/?q=cehalet+a%c5%9fa%c4%9f%c4%b1lanmal%c4%b1+g%c3%bczel+karde%c5%9fim">cehalet aşağılanmalı güzel kardeşim</a>. sen bunca sene bu cehaleti hoş gördüğün ve görmemezlikten geldiğin için bu ülke bugün bu zihniyetle yönetiliyor.<br/><br/>bu adamların kafası yönetiyor lan seni, bu adamların oylarıyla sen yönetiliyorsun. oturup buna ah vah diyeceğine hala aşağılama diyorsun. <a class="b" href="/?q=itin+g%c3%b6t%c3%bcn+sokup+%c3%a7%c4%b1kar%c4%b1r%c4%b1m+ne+a%c5%9fa%c4%9f%c4%b1lamas%c4%b1">itin götün sokup çıkarırım ne aşağılaması</a>.<br/><br/>ama işte <a class="b" href="/?q=kad%c4%b1n+e%c4%9fitim+almam%c4%b1%c5%9f">kadın eğitim almamış</a>, onun koşulları falan deme yemin ederim ağır küfürler ederim sana.<br/><br/>ben senin adını bile duyduğunda varlığıyla dalga geçtiğin kıç kadar bir ilin kıç kadar ilçesinde, varoş mahallede babannem tarafından büyütüldüm.<br/><br/><a class="b" href="/?q=onun+ayakkab%c4%b1s%c4%b1yla+okula+gittim">onun ayakkabısıyla okula gittim</a>, dalga geçildim, aşağılandım ve bu fakirliğim yüzündendi. babannemler de hani kültürlü insanlar değildi. din hakkında sorduğum her soruya "<a class="b" href="/?q=%c5%9feytan+vesvesesi+sorma">şeytan vesvesesi sorma</a>" diyerek cevap verecek kadar cahil insanlardı. büyüdüğüm mahallede <a class="b" href="/?q=erkekle+sevi%c5%9fti+diye+fare+zehiri">erkekle sevişti diye fare zehiri</a> ile 17 yaşında intihar eden kız vardı lan. gözümün önünde geldi o ambulans.<br/><br/><a class="b" href="/?q=bekaret+ahlakt%c4%b1r%2c+hayatt%c4%b1r">bekaret ahlaktır, hayattır</a> diyen çevreden çıktım lan ben. ben çıktım lan.<br/><br/><a class="b" href="/?q=bak+ben+bu+insanlar%c4%b1n+i%c3%a7inden+%c3%a7%c4%b1kt%c4%b1m">bak ben bu insanların içinden çıktım</a>. bu kadın benden daha kötü koşullarda bir çocukluk geçirmedi.<br/><br/><a class="b" href="/?q=ben+bu+kad%c4%b1nla+ayn%c4%b1+ko%c5%9fullarda">ben bu kadınla aynı koşullarda</a> hatta belki de daha kötü koşullarda yetiştim. <br/><br/>öğretilmiş cehalet başkadır, <a class="b" href="/?q=ger%c3%a7e%c4%9fe+eri%c5%9fmek+i%c3%a7in+beynini+kullanmak">gerçeğe erişmek için beynini kullanmak</a> başkadır.<br/><br/>bu kadın hazıra konan tiplerden, kendini riske etmeyen, önüne koyulanla yetinen, pasif, hazırcı ve tembel. evet tembel.<br/><br/>ne farkımız var bu kadınla. biz niye böyle olmadık. biz niye her riski göze aldık cahil olmamak, cahil kalmamak için. biz niye sorguladık amuna koduğum söyle. <a class="b" href="/?q=biz+niye+pazarda+le%c4%9fen+satt%c4%b1k+da+kitap+ald%c4%b1k">biz niye pazarda leğen sattık da kitap aldık</a>. söyle lan söyle.<br/><br/>o yüzden sakın bana dönüp bu zihniyeti aşağılama deme.<br/><br/>aşağılayacağım. itin götüne sokup çıkaracağım.<br/><br/>senelerece o romantik solculuğunuzla, halkımız halkımız diyerek bu tembelleri, tembellerin, hazıra konanların cehaletini bir de <a class="b" href="/?q=o+cehaletle+konu%c5%9fmas%c4%b1n%c4%b1+g%c3%b6rmezden+geldiniz">o cehaletle konuşmasını görmezden geldiniz</a>. güldünüz, geçtiniz.<br/><br/>saf dediniz, kandırılıyor dediniz.<br/><br/>hepsi malın gözü oğlum bunların. ben bunların arasından çıktım. <a class="b" href="/?q=seni+sulu+g%c3%b6t%c3%bcr%c3%bcr+susuz+getirir">seni sulu götürür susuz getirir</a>. köylü kurnazı lan. ama iş kitap okumaya, sorgulamaya gelince ıııh işleri olmaz.<br/><br/>o yüzden aşağılayacağım. görmemezlikten geldin durum ortada. belki aşağılarsak utanırlar da iki kelime okurlar. onu da sanmıyorum ya.<br/><br/>o yüzden hiç burada hümanistlik yapma.
+  entry_writer: fridanin parcalanmis omurgasi
+- entry_name: |
+    hayata dair iç burkan detaylar
+  entry_id: 58636478
+  entry_content: |
+    babam sorumsuz bir adam olduğundan, hayatı boyunca hiçbir işte dikiş tutturamadı. biraz da şanssız adamdı, neye elini atsa kuruttu durdu. bu yüzden asla maddi olarak düzlüğe çıkamadık. çok şükür hiçbir şeyimiz eksik olmadı ama yarınımızdan da hep endişe ettik.<br/>şanssız adamdı dedim ya, üniversiteyi kazandığım sene iyice dibe vurdu. <br/><br/>üniversite eğitimimi dedem (babamın babası) sayesinde bitirdim desem, sanırım babama haksızlık etmiş olmam. üstelik bunu o da kabul eder. aklına geldikçe ''sen yat kalk dedene dua et'' diye hatırlatır durur.<br/><br/>mavi önlük, beyaz yaka ile okula adım attığım ilk günden, lise son sınıfa kadar her sabah ayakkabımın içine harçlık bırakan dedem; üniversite hayatım boyunca da her ay emekli maaşını benim hesabıma aktardı. bu fedakarlığa rağmen 2 sene okulu uzattım, of! bile demedi. mekanı cennet olsun.<br/><br/>diğer dedemle pek içli dışlı olamadım mesafeler yüzünden. ben tatillerde köye gitmeyi sevmezdim, o da gariban adam; ancak 2-3 yılda bir gelirdi. çocukluk işte, şimdi imkanım olsa gölgesinden ayrılmam.<br/><br/>teyzem anlattı, duyunca mahvoldum. ölmeden 2 hafta önce ''yazık'' demiş. <br/>- yazık bize, hiçbirşey yapamadık çocuğa. uzak ilde bir başına yavrucak. ne bir kez yanına gidebildim, ne üç kuruş parayı denkleyip yollayabildim, kızmıştır bana.<br/><br/>bir öğle vakti köy kahvesinde kalbine yenik düştüğü gün, gömleğinin cebinden adımın soyadımın yazdığı küçük bir kağıt çıkmış.<br/>adım, soyadım ve hesap numaram.<br/>duyunca mahvoldum..<br/><br/><a class="b" href="/?q=nurlar+i%c3%a7inde+yat+g%c3%bczel+dedem.">nurlar içinde yat güzel dedem.</a><br/><br/>ve yeteri kadar öpemediğim için o pamuk ellerini, kızma bana. çocukluk işte, şimdi imkanım olsa gölgenden ayrılmam.
+  entry_writer: tanriya allah diyen cocuk
+- entry_name: |
+    obama'nın rte'ye 80 dk vakit ayırmasına bozulmak
+  entry_id: 58642225
+  entry_content: |
+    ortaokulda cam kırmıştım. müdür beni odasına çağırdı, 80 dakika azarladı.<br/><br/>çıktığımda çok gururluydum.<br/><br/>koca müdür. 80 dakika.
+  entry_writer: mandalina
+- entry_name: |
+    bilimsel gifler
+  entry_id: 58639360
+  entry_content: |
+    reddit sitesindeki cesitli paylasimlardan derleme olup zaman icinde yeni gifler kesfedildikce liste guncellenecektir. muduriyet. <br/><br/>hidrojen-peroksit ile potasyum-iyodur birlesimi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/28GJyO.gif" title="http://i.hizliresim.com/28GJyO.gif">http://i.hizliresim.com/28gjyo.gif</a><br/><br/>baryum kokteyli icen birinin mri goruntuleri: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/4b6aLY.gif" title="http://i.hizliresim.com/4b6aLY.gif">http://i.hizliresim.com/4b6aly.gif</a><br/><br/>birbiriyle etkilesen iki karadelik: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/m1v2G2.gif" title="http://i.hizliresim.com/m1v2G2.gif">http://i.hizliresim.com/m1v2g2.gif</a><br/><br/>kuzey-guney amerika'daki kuslarin goc yollari: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Z7G9Lz.gif" title="http://i.hizliresim.com/Z7G9Lz.gif">http://i.hizliresim.com/z7g9lz.gif</a><br/><br/>hizli cekimde karinca akvaryumunun olusumu: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PPXl5b.gif" title="http://i.hizliresim.com/PPXl5b.gif">http://i.hizliresim.com/ppxl5b.gif</a><br/><br/>gunes tutulmasinin ucaktan gozlemlenisi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/yLb0M0.gif" title="http://i.hizliresim.com/yLb0M0.gif">http://i.hizliresim.com/ylb0m0.gif</a><br/><br/><a class="b" href="/?q=ferrofluid">ferrofluid</a> ile miknatisin dansi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/NrMZ4N.gif" title="http://i.hizliresim.com/NrMZ4N.gif">http://i.hizliresim.com/nrmz4n.gif</a><br/><br/>damacana-roket: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/lvnO9k.gif" title="http://i.hizliresim.com/lvnO9k.gif">http://i.hizliresim.com/lvno9k.gif</a><br/><br/>gumus nitratin cozulumu: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/qP7G8W.gif" title="http://i.hizliresim.com/qP7G8W.gif">http://i.hizliresim.com/qp7g8w.gif</a><br/><br/>mermi duvara carparsa: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/5MWDmq.gif" title="http://i.hizliresim.com/5MWDmq.gif">http://i.hizliresim.com/5mwdmq.gif</a><br/><br/>akyuvarlarin bakterileri kovalayip imha etmesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JnPQkB.gif" title="http://i.hizliresim.com/JnPQkB.gif">http://i.hizliresim.com/jnpqkb.gif</a><br/><br/>mantarin buyuyup gelismesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/YrzgWz.gif" title="http://i.hizliresim.com/YrzgWz.gif">http://i.hizliresim.com/yrzgwz.gif</a><br/><br/>fuji daginin 24 saatlik gokyuzu: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/TiredBossyAndeancat.gif" title="https://giant.gfycat.com/TiredBossyAndeancat.gif">https://giant.gfycat.com/tiredbossyandeancat.gif</a><br/><br/>baslamak uzere olan firtina: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/IlliterateJauntyInsect.gif" title="https://giant.gfycat.com/IlliterateJauntyInsect.gif">https://giant.gfycat.com/…lliteratejauntyinsect.gif</a><br/><br/>araba motorlarinin calisma prensibi: <a rel="nofollow" class="url" target="_blank" href="https://d27v8envyltg3v.cloudfront.net/mio/35561093/14190183888329/large.gif" title="https://d27v8envyltg3v.cloudfront.net/mio/35561093/14190183888329/large.gif">https://d27v8envyltg3v.cloudfront.net/…29/large.gif</a><br/><br/>merkezcil kuvvet vs. kurabiyeler: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/28GJ1j.gif" title="http://i.hizliresim.com/28GJ1j.gif">http://i.hizliresim.com/28gj1j.gif</a><br/><br/>kanal tedavisinin animasyonu: <a rel="nofollow" class="url" target="_blank" href="http://www.gifbin.com/bin/052015/1432231856_root_canal_and_crown_prep_procedure.gif" title="http://www.gifbin.com/bin/052015/1432231856_root_canal_and_crown_prep_procedure.gif">http://www.gifbin.com/…and_crown_prep_procedure.gif</a><br/><br/>mitoz bolunme: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nL1Orl.gif" title="http://i.hizliresim.com/nL1Orl.gif">http://i.hizliresim.com/nl1orl.gif</a><br/><br/>sualtinda patlama: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/L19b3j.gif" title="http://i.hizliresim.com/L19b3j.gif">http://i.hizliresim.com/l19b3j.gif</a><br/><br/>sualtinda fotosentez: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/SparseAliveAmericanwirehair.gif" title="https://giant.gfycat.com/SparseAliveAmericanwirehair.gif">https://giant.gfycat.com/…aliveamericanwirehair.gif</a><br/><br/>bakterilerin uremesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/orBOEm.gif" title="http://i.hizliresim.com/orBOEm.gif">http://i.hizliresim.com/orboem.gif</a><br/><br/>sualtinda mermi atmak: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/28GJnq.gif" title="http://i.hizliresim.com/28GJnq.gif">http://i.hizliresim.com/28gjnq.gif</a><br/><br/>insanin evrimi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nL1Oj0.gif" title="http://i.hizliresim.com/nL1Oj0.gif">http://i.hizliresim.com/nl1oj0.gif</a><br/><br/>mangal komuru vs. sivi oksijen: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/dkYOPX.gif" title="http://i.hizliresim.com/dkYOPX.gif">http://i.hizliresim.com/dkyopx.gif</a><br/><br/>volkan patlamasi kuzey isiklariyla birlesince: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/ColossalSpiritedHornet.gif" title="https://giant.gfycat.com/ColossalSpiritedHornet.gif">https://giant.gfycat.com/…olossalspiritedhornet.gif</a><br/><br/>cesitli kimyasallarin alevleri: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/BDlLzM.gif" title="http://i.hizliresim.com/BDlLzM.gif">http://i.hizliresim.com/bdllzm.gif</a><br/><br/>elektrigin cekim gucu: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Vv4rDB.gif" title="http://i.hizliresim.com/Vv4rDB.gif">http://i.hizliresim.com/vv4rdb.gif</a><br/><br/>erimekte olan sodyuma iyot eklenirse: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JnPQZ5.gif" title="http://i.hizliresim.com/JnPQZ5.gif">http://i.hizliresim.com/jnpqz5.gif</a><br/><br/>iki gezegen carpisirsa ne olur: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/1MzJp5.gif" title="http://i.hizliresim.com/1MzJp5.gif">http://i.hizliresim.com/1mzjp5.gif</a><br/><br/>miknatislarin hizaya gelmesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/RodnGn.gif" title="http://i.hizliresim.com/RodnGn.gif">http://i.hizliresim.com/rodngn.gif</a><br/><br/>metal bloklarin birbirine surtunmesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/zrd0OO.gif" title="http://i.hizliresim.com/zrd0OO.gif">http://i.hizliresim.com/zrd0oo.gif</a><br/><br/>yillar boyunca dunya'nin yorungesinde biriken enkazlar: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/O7QoNz.gif" title="http://i.hizliresim.com/O7QoNz.gif">http://i.hizliresim.com/o7qonz.gif</a><br/><br/>cesitli canlilar dunya'yi nasil goruyor: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/lvnODE.gif" title="http://i.hizliresim.com/lvnODE.gif">http://i.hizliresim.com/lvnode.gif</a><br/><br/>okyanus altindaki kablolar nasil doseniyor: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/qP7GDV.gif" title="http://i.hizliresim.com/qP7GDV.gif">http://i.hizliresim.com/qp7gdv.gif</a><br/><br/>elektrik vs. odun: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PPXldb.gif" title="http://i.hizliresim.com/PPXldb.gif">http://i.hizliresim.com/ppxldb.gif</a><br/><br/>tenis topu sivi nitrojene bandirilirsa: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/RodnZo.gif" title="http://i.hizliresim.com/RodnZo.gif">http://i.hizliresim.com/rodnzo.gif</a><br/><br/>nehir yataklarinin zamanla degismesi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/L19b5J.gif" title="http://i.hizliresim.com/L19b5J.gif">http://i.hizliresim.com/l19b5j.gif</a><br/><br/>dunya'nin gectigi cesitli donemler: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/HopefulWigglyEft.gif" title="https://giant.gfycat.com/HopefulWigglyEft.gif">https://giant.gfycat.com/hopefulwigglyeft.gif</a><br/><br/>dunya'daki tum sular: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Z7G9lA.gif" title="http://i.hizliresim.com/Z7G9lA.gif">http://i.hizliresim.com/z7g9la.gif</a><br/><br/>agir cekimde yildirim dususu: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/8DpYjV.gif" title="http://i.hizliresim.com/8DpYjV.gif">http://i.hizliresim.com/8dpyjv.gif</a><br/><br/>kutuplarda yaz mevsimi batmayan gunes: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/O7QDBP.gif" title="http://i.hizliresim.com/O7QDBP.gif">http://i.hizliresim.com/o7qdbp.gif</a><br/><br/>dunya'daki yesil alanlarin mevsimsel degisimi: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/1MzEJp.gif" title="http://i.hizliresim.com/1MzEJp.gif">http://i.hizliresim.com/1mzejp.gif</a><br/><br/>vadide su gibi akan bulutlar: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/EssentialBeneficialBlackfly.gif" title="https://giant.gfycat.com/EssentialBeneficialBlackfly.gif">https://giant.gfycat.com/…ialbeneficialblackfly.gif</a><br/><br/>gelgit olayinin baslattigi sel: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/CooperativeSmoggyCrayfish.gif" title="https://giant.gfycat.com/CooperativeSmoggyCrayfish.gif">https://giant.gfycat.com/…erativesmoggycrayfish.gif</a><br/><br/>mikroskopik esnek grafen transistoru: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/0njbl9.gif" title="http://i.hizliresim.com/0njbl9.gif">http://i.hizliresim.com/0njbl9.gif</a><br/><br/>drone ile firtina kovalamaca: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/IcyAgreeableLamb.gif" title="https://giant.gfycat.com/IcyAgreeableLamb.gif">https://giant.gfycat.com/icyagreeablelamb.gif</a><br/><br/>elektrikli testereye araba motoru takilirsa: <a rel="nofollow" class="url" target="_blank" href="https://giant.gfycat.com/ConcernedSeparateCardinal.gif" title="https://giant.gfycat.com/ConcernedSeparateCardinal.gif">https://giant.gfycat.com/…ernedseparatecardinal.gif</a><br/><br/>edit: memleketten imgur'a girilmiyormus. bu yuzden linkleri baska kaynaklara yuklemeye calistim. kaynak: reddit sitesindeki cesitli paylasimlardan derleme.
+  entry_writer: diesel1907
+- entry_name: |
+    bir saat erken yatıp hayal kurmak
+  entry_id: 58652853
+  entry_content: |
+    artık çok fazla yapamıyorum bunu. ama çocukken her gece favorimdi. film saati gibi bir şey işte.<br/><br/>öyle ki tolkien duysa kıskanırdı yarattığım dünyayı<sup class="ab"><a title="(bkz: abart)" href="/?q=abart" data-query="abart">*</a></sup>. hayalimin teması kabaca kötü dünyada sadece istediklerimi davet ettiğim bir kürede yaşıyordum. kimsenin giremediği yıkamadığı bir küre. dünya içerisinde alternatif bir dünya yani. zaten içerisinde ben , sevdiklerim ve çoğunlukla türlü türlü hayvanlar vardı.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>nuh tufanından biraz arak yapmış olabilirim gibi geldi şimdi tekrar hatırlayınca.<br/><br/>edit: tabii ki de hayvanların tamamı ile arkadaştım ve hepsi ile konuşabiliyordum. kötü insanlardan kaçan tüm hayvanlar benim dünyamın konuklarıydı. <br/>tank, top, tüfek ile kapıma dayanırlar ama küremde bir çizik bile oluşmazdı. ayrıca yer ihtiyacı olursa kürem genişlerdi.
+  entry_writer: invicto
+- entry_name: |
+    vodafone arena vs türk telekom arena
+  entry_id: 58648371
+  entry_content: |
+    adam 49 yıl sonra ikisi de hazineye devredilecek diyor... 49 yıl sonra... 49 yıl... 49...<br/><br/>hani tüm dünyanın füzyon reaktörleri sayesinde temiz enerjiye kavuştuğu, mars'ta kalıcı insan yerleşimlerinin kurulduğu, geleceğe dair tüm olasılıkların kuantum bilgisayarlar tarafından hesaplandığı ve yapay zekanın gezegen üzerindeki etkisinin belki de insanlardan daha fazla olacağı zaman...<br/><br/>ve bu adam hazine diyor, gsgm diyor, devlet diyor...
+  entry_writer: ruwenzori 3
+- entry_name: |
+    tüm türkiye'nin tereddütsüz buluşabileceği zemin
+  entry_id: 58640493
+  entry_content: |
+    (bkz: <a class="b" href="/?q=laminat+parke">laminat parke</a>)<br/><br/>her eve girdi bu zıkkım. bu yaygınlaşmadan evvel de marley ile kaplanırdı zeminler.
+  entry_writer: peder zickler
+- entry_name: |
+    ankara'daki bombayı mit patlattı
+  entry_id: 58640093
+  entry_content: |
+    bir başkentin, en güvenli yerinde bomba patlıyorsa bunun içinde ya istihbarat vardır ya da istihbarat görevini yapmamıştır. dediğim lafa itirazı olan var mı?<br/><br/>11 eylül'de de abd istihbaratı, charlie hebdo'da da fransız istihbaratının kabahati vardır.<br/><br/>tanım: dolaylı ya da doğrudan bir gerçeği ifade eden yabancı gazeteci anketi.
+  entry_writer: xspace
+- entry_name: |
+    güldür güldür'e bilal oğlan cezası
+  entry_id: 58648723
+  entry_content: |
+    (bkz: <a class="b" href="/?q=istibdat+kumpanyas%c4%b1">istibdat kumpanyası</a>) oyununda bu tür yasaklarla alay edilir. mesela sevişmek ah ne hoştur yıldızların altında demek sakıncalıdır. çünkü acaba yıldız sarayına mı laf sokuluyordur? akp sağolsun yüzyıl öncesinin sansür seviyesine ulaştık.
+  entry_writer: besyaprakliyonca
+- entry_name: |
+    ekşi itiraf
+  entry_id: 58638083
+  entry_content: |
+    bir yerde okumuştum "annesinden önce uyuyanların derdine inanmıyorum" diyordu.<br/>geçen akşam erken uyudum. sonra kalktım yüzümü yıkadım. her zaman olduğu gibi yüzümdeki tuz eksilmedi.<br/>çay içermisin oğlum diye seslendi annem, ses yankıyı yerinden oynatıyordu ama görüntü yoktu.<br/>sesin hangi odadan taştığını öğrenmeye çalışırken bir demlik çayla oturmuş annemi gördüm bir başına. <br/>öyle yalnız, öyle kimsesiz, öyle karanlık. <br/>bütün dertleri bir araya getirsen, böyle bir dert oluşmazdı.<br/>kaç sene oldu hatırlamıyorum, bu kadar çok ağlandığını.
+  entry_writer: nerde o eski acilar
+---
