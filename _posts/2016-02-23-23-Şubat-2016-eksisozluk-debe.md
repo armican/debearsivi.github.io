@@ -12,7 +12,7 @@ data:
     evde sütyensiz gezmek
   entry_id: 58693624
   entry_content: |
-    sözlükteki başlığının yarısı "evet bir erkek olarak her gün yapıyorum hihihihihhi" şeklinde iletilerle dolu olan olay.<br/><br/>çok komiksiniz lan gül gül öldük valla. hatta sandalyeden düştük. yarın hepiniz debe'desiniz o derece.
+    sözlükteki başlığının yarısı "evet bir erkek olarak her gün yapıyorum hihihihihhi" şeklinde iletilerle dolu olan olay.<br/><br/>çok komiksiniz lan gül gül öldük valla. hatta sandalyeden düştük. yarın hepiniz debe'desiniz o derece.<br/><br/>ekleme: bazı cengaverler sen de daha önce yazılmış bir eleştiriyi tekrar yazıyorsun diye mesaj kutumu yeşillendirmişler. biraz düşünün bakalım, yıllardır yazıldığı halde aynı saçmalık devam ettiği için hala eleştiriliyor olabilir mi sanki?
   entry_writer: tek kasimi kendim aldim
 - entry_name: |
     ilyas salman'ın torununa gezi ismini vermesi
@@ -24,7 +24,7 @@ data:
     ismi atatürk olan stadların tek tek yıkılması
   entry_id: 58687788
   entry_content: |
-    (bkz: <a class="b" href="/?q=kayseri+atat%c3%bcrk+stadyumu">kayseri atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=antalya+atat%c3%bcrk+stadyumu">antalya atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=bursa+atat%c3%bcrk+stadyumu">bursa atatürk stadyumu</a>) yıkılmadı ancak işlevselliği bitti.<br/><br/>(bkz: <a class="b" href="/?q=rize+atat%c3%bcrk+stadyumu">rize atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=ismetpa%c5%9fa+stadyumu">ismetpaşa stadyumu</a>) yıkılacak<br/><br/>(bkz: <a class="b" href="/?q=in%c3%b6n%c3%bc+stad%c4%b1">inönü stadı</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=sakarya+atat%c3%bcrk+stad%c4%b1">sakarya atatürk stadı</a>) henüz yıkılmadı ama yıkılacak.<br/><br/>edit;<br/>(bkz: <a class="b" href="/?q=konya+atat%c3%bcrk+stadyumu">konya atatürk stadyumu</a>)<br/><br/>(bkz: <a class="b" href="/?q=afyon+atat%c3%bcrk">afyon atatürk</a>) (bkz: <a class="b" href="/?q=afyon+arena">afyon arena</a>) oluyormuş.<br/><br/>(bkz: <a class="b" href="/?q=eskisehir+ataturk+stadyumu">eskisehir ataturk stadyumu</a>) <a class="b" href="/?q=eses+arena">eses arena</a> oluyormuş<br/><br/>belkide hepsi tesadüftür ?
+    (bkz: <a class="b" href="/?q=kayseri+atat%c3%bcrk+stadyumu">kayseri atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=antalya+atat%c3%bcrk+stadyumu">antalya atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=bursa+atat%c3%bcrk+stadyumu">bursa atatürk stadyumu</a>) yıkılmadı ancak işlevselliği bitti.<br/><br/>(bkz: <a class="b" href="/?q=rize+atat%c3%bcrk+stadyumu">rize atatürk stadyumu</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=ismetpa%c5%9fa+stadyumu">ismetpaşa stadyumu</a>) yıkılacak<br/><br/>(bkz: <a class="b" href="/?q=in%c3%b6n%c3%bc+stad%c4%b1">inönü stadı</a>) yıkıldı<br/><br/>(bkz: <a class="b" href="/?q=sakarya+atat%c3%bcrk+stad%c4%b1">sakarya atatürk stadı</a>) henüz yıkılmadı ama yıkılacak.<br/><br/>edit;<br/>(bkz: <a class="b" href="/?q=konya+atat%c3%bcrk+stadyumu">konya atatürk stadyumu</a>)<br/><br/>(bkz: <a class="b" href="/?q=afyon+atat%c3%bcrk">afyon atatürk</a>) (bkz: <a class="b" href="/?q=afyon+arena">afyon arena</a>) oluyormuş.<br/><br/>(bkz: <a class="b" href="/?q=eskisehir+ataturk+stadyumu">eskisehir ataturk stadyumu</a>) <a class="b" href="/?q=eses+arena">eses arena</a> oluyormuş<br/><br/>belkide hepsi tesadüftür ?<br/><br/>arkadaşlar çok fazla mesaj atmış spor salonları ve başka başka stadlar da varmış.. onları eklemem uzun sürer, enrty olarak girmeleri daha mantıklı..<br/><br/>ayrıca oda tv ayıp etmiş, en azından feyzlendik diyeydiniz.. <a rel="nofollow" class="url" target="_blank" href="http://odatv.com/neden-ataturkun-adini-tasiyan-stadyumlar-yikiliyor-2202161200.html" title="http://odatv.com/neden-ataturkun-adini-tasiyan-stadyumlar-yikiliyor-2202161200.html">http://odatv.com/…dyumlar-yikiliyor-2202161200.html</a>
   entry_writer: hiperaktif kuala
 - entry_name: |
     22 şubat 2016 beşiktaş gençlerbirliği maçı
@@ -42,7 +42,7 @@ data:
     danimarka
   entry_id: 58691335
   entry_content: |
-    icinde 3 gün gezip hala kendisini <a class="b" href="/?q=%c5%9fehir">şehir</a> sanan turistlere sahip olan <a class="b" href="/?q=%c3%bclke">ülke</a>.<br/><br/>edit: turistler kacmis ama <a class="b" href="/?q=polska">polska</a> saglsun plakasini almis: iste o görüntüler: <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/mw0K5kx.png" title="http://i.imgur.com/mw0K5kx.png">http://i.imgur.com/mw0k5kx.png</a>
+    icinde 3 gün gezip hala kendisini <a class="b" href="/?q=%c5%9fehir">şehir</a> sanan turistlere sahip olan <a class="b" href="/?q=%c3%bclke">ülke</a>.<br/><br/>edit: turistler kacmis ama <a class="b" href="/?q=polska">polska</a> saglsun plakasini almis: iste o görüntüler: <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/mw0K5kx.png" title="http://i.imgur.com/mw0K5kx.png">http://i.imgur.com/mw0k5kx.png</a><br/><br/>edit 2: entry'nin yazariyla konustuk, anlastik helallestik. kopenhag basligi yerine yanlislikla danimarka basligina yazildigi belli. faydali bilgiler iceren bir entry idi ama ne yazik ki benim istemeden de olsa sebep oldugum bir lince kurban gitti. neyse, yukaridaki link entryinin icerdigi bu faydali bilgiler nedeniyle kalacak, ama link türkiye'de yasakli bir sitede diye de linki degistirmeyecegim. onun yerine önüne geleni yasaklayan hükümeti degistirelim.
   entry_writer: star is tired
 - entry_name: |
     21 şubat 2016 başımdan geçen camili pelin olayı
@@ -54,7 +54,7 @@ data:
     ankara bombacısının abdulbaki sömer çıkması
   entry_id: 58699738
   entry_content: |
-    dna testinden sonra ortaya çıkan gerçek.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.haberaktuel.com/ankara-bombacisi-musa-somer-mi-haberi-992605.html" title="http://www.haberaktuel.com/ankara-bombacisi-musa-somer-mi-haberi-992605.html">link</a><br/><br/>saldırgan; başbakan yardımcısı numan kurtulmuş'un, içişleri bakanı efkan ala'nın, başbakan ahmet davutoğlu'nun ve cumhurbaşkanı tayyip erdoğan'ın dediği gibi (!) <a class="b" href="/?q=salih+neccar">salih neccar</a> değilmiş.<br/><br/>bombacı bu hain, tak örgütüne mensup <a class="b" href="/?q=abdulbaki+s%c3%b6mer">abdulbaki sömer</a>miş.<br/><br/>herkes yanılabilir ama dna'lar yanılmaz. böylece hükümetin ve cumhurbaşkanı'nın suriye ve ypg konusunda elini güçlendirmek için 28 ölümlü bir saldırıyı bile kullanabileceğini de anlamış olduk.
+    dna testinden sonra ortaya çıkan gerçek.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.haberaktuel.com/ankara-bombacisi-musa-somer-mi-haberi-992605.html" title="http://www.haberaktuel.com/ankara-bombacisi-musa-somer-mi-haberi-992605.html">link</a><br/><br/>saldırgan; başbakan yardımcısı numan kurtulmuş'un, içişleri bakanı efkan ala'nın, başbakan ahmet davutoğlu'nun ve cumhurbaşkanı tayyip erdoğan'ın dediği gibi (!) <a class="b" href="/?q=salih+neccar">salih neccar</a> değilmiş.<br/><br/>bombacı bu hain, tak örgütüne mensup <a class="b" href="/?q=abdulbaki+s%c3%b6mer">abdulbaki sömer</a>miş.<br/><br/>herkes yanılabilir ama dna'lar yanılmaz. böylece hükümetin ve cumhurbaşkanı'nın suriye ve ypg konusunda elini güçlendirmek için 28 ölümlü bir saldırıyı bile kullanabileceğini de anlamış olduk.<br/><br/>edit: tak da, ypg de terör örgütüdür. fakat anlamları "her ikisi de aynı halt, ne fark eder" denecek kadar anlamsız değil. tak olursa anlamı farklı, ypg olursa farklı. tak olmasının akp iktidarı için çok farklı anlamları var mesela. biraz gerilere gidip haberleri okursanız bunu anlamakta bu kadar zorlanmazsınız.
   entry_writer: nyahtheoriginal
 - entry_name: |
     francesco totti
@@ -66,7 +66,7 @@ data:
     15-21 şubat nazım hikmet meyhane rezaleti
   entry_id: 58692782
   entry_content: |
-    edit: ustamin ricasiyla entry'i kaldiriyorum. anlayis gostermenizi diliyorum.(usta kendi yanındayken bana sildirdi entry'i ricayla. geri buraya koymasam daha iyi)<br/><br/>edit2: dileyenlere ozelden olayi ve durumu copy paste olarak gönderiyorum.<br/><br/>durum şu: geçmiş sigortamı ve çalıştığım sürenin ücretini bana veriyorlarmış. beni de durumu duyurduğum için art niyetli görüyorlar. bütün piyasa böyleyken bizim böyle olmamız çok normal gibi bir tavırları var.<br/><br/>bu arada entry'i okuyup durumu anlamayanlara özetleyeyim.<br/><br/>benim beklentim: geçmişe dönük sigortanı yapalım ne var sanki<br/><br/>işletmenin tavrı: 'haklarını verelim al git. artık mağduriyetin kalmadı.' şeklinde.<br/><br/>yani benim eleştirdiğim noktada 'zaten piyasa böyle biz de böyleyiz, 10 gün nedir ki? sor herkese piyasa böyle' diyerek normal kabul ediliyor.<br/><br/>tamam piyasa böyle olabilir de kp de mi böyleymiş?<br/><br/>geleceğe dair bir sözleşme anlaşma konuşmayı da baştan yapmamışlardı. bir hata ettik seni işe aldık şeklinde yorumluyorlar benim orada çalışmamı da.<br/><br/>entry'nin orjinal tam metnini özel mesajla isteyene gönderiyorum.<br/><br/>solcuya solculuk falan öğretecek halim yok.
+    arkadaşlar o meyhanede çok değerli insanlar da çalışıyor. bana inandılar, güvendiler, yanlarına almayı kabul ettiler, ben de onların isteklerine çok razı olarak oraya girdim. bunları yazarken baştan çok düşüncesizlik ettim onların da canını sıktım.<br/><br/>çünkü bu olay benim canımı sıkınca, bu yaptığımın da onların canını sıkacağını düşünmeden böyle bir şeyi buraya yazdım. içime oturmasa umursamazdım. yalnız buraya yazdıklarımdan dolayı onların canı sıkılırsa daha da içime oturur. bana güvenip inanan o değerli insanlardan şimdi artık ne kadar özür dilesem bir anlamı kalmaz, yine de onlardan çok özür diliyorum.<br/><br/>maksadım mekanın zarar görmesi değil. güzel bir yerde, iyi niyetli işçiler çalışıyor, sorumluluk sahibi insanlar. ben de katıldım parçası olmaya çalıştım. çalıştığımın hiçbir dakikasını da küçümsemiyorum. benim yüzümden diğer çalışanlar zan altında kalmamalı. sözlerim yanlış taraflara gitmemeli.<br/><br/>orada çalışan diğerlerine yaptığım saygısızlıktan dolayı da özür diliyorum.<br/><br/>bütün niyetim ne kadar büyük ya da küçük fark etmeden başıma gelen olayı paylaşmaktı. diğer çalışanlarla bunun bir ilgisi olmamalı. benim yaşadığım olay buydu, aktardım. çelişkili buldum dile getirdim. bazı tavırlardan hoşlanmadım dile getirdim. diğer çalışanlara da büyük minnet duyuyorum.<br/><br/>işletme benimle geleceğe dair bir sözleşme anlaşma konuşmayı da baştan yapmamışlardı.(bu noktada tamamen işletmeyi kast ediyorum. çalışma şartlarını orada çalıştığım kişilerle konuşup anlaştım. işletmenin tavrı ve tepkisi negatif olunca, benimle diyaloga girmeyince işler böyle gelişti.) işletme olarak bir hata ettik seni işe aldık şeklinde yorumluyorlar benim orada çalışmamı da.<br/><br/>bu yüzden ustaların da fikrinin bir hata ettik bunu işe aldık şeklinde olacağı ihtimali canımı en çok sıkan taraf.<br/><br/>edit: ustamin ricasiyla entry'i kaldiriyorum. anlayis gostermenizi diliyorum. (usta kendi yanındayken önemle ve ricayla bana sildirdi entry'i. geri buraya koymazsanız sevinirim.)<br/><br/>edit2: dileyenlere ozelden olayi ve durumu copy paste olarak gönderiyorum. lütfen buralara tekrar koymayın.<br/><br/>durum şu: geçmiş sigortamı ve çalıştığım sürenin ücretini bana veriyorlarmış. beni de durumu duyurduğum için işletme olarak art niyetli görüyorlar. bütün piyasa böyleyken bizim böyle olmamız çok normal gibi bir tavırları var.<br/><br/>bu arada entry'i okuyup durumu anlamayanlara özetleyeyim:<br/><br/>benim beklentim: geçmişe dönük sigortanı yapalım ne var sanki diyerek yardımcı olmalarıydı.<br/><br/>işletmenin tavrı: 'haklarını verelim al git. artık mağduriyetin kalmadı.' şeklinde.<br/><br/>yani benim eleştirdiğim noktada 'zaten piyasa böyle biz de böyleyiz, 10 gün nedir ki? sor herkese piyasa böyle' diyerek normal kabul ediliyor. tamam piyasa böyle olabilir de kp de mi böyleymiş? diye tepki gösterdim. zira hem de o anda üretilmiş bir bahaneydi.
   entry_writer: idexo
 - entry_name: |
     hitler'in cinsel organı çok küçüktü
@@ -114,7 +114,7 @@ data:
     sözlük yazarlarının en sevdiği akp'li isim
   entry_id: 58700623
   entry_content: |
-    (bkz: <a class="b" href="/?q=devlet+bahceli">devlet bahceli</a>)
+    (bkz: <a class="b" href="/?q=devlet+bahceli">devlet bahceli</a>)<br/><br/>debe edit : cok guzel bir dogum gunu hediyesi oldu.
   entry_writer: buyuk cocuk
 - entry_name: |
     29 şubat 2016 rvp'nin beşiktaş'a döşeyeceği boru
@@ -174,13 +174,13 @@ data:
     sedat kapanoğlu ekşide yazar olsa kullanacağı nick
   entry_id: 58694631
   entry_content: |
-    (bkz: <a class="b" href="/?q=yarim+kavanoz+zeytin+yedim">yarim kavanoz zeytin yedim</a>)
+    (bkz: <a class="b" href="/?q=yarim+kavanoz+zeytin+yedim">yarim kavanoz zeytin yedim</a>)<br/><br/>edit; anlamayanlar için: <a class="b" href="/entry/49214623">#49214623</a>
   entry_writer: walter hoyt
 - entry_name: |
     ukrayna'nın eurovision'da türkçe şarkı ile temsili
   entry_id: 58701808
   entry_content: |
-    bu yıl isveç'te düzenlenecek olan <a class="b" href="/?q=2016+eurovision+%c5%9fark%c4%b1+yar%c4%b1%c5%9fmas%c4%b1">2016 eurovision şarkı yarışması</a>'nda ukrayna'yı tatar türkü olan <a class="b" href="/?q=jamala">jamala</a>(cemile) temsil edecek. 1944 adlı şarkısının nakaratında türkçe olarak ''yaşlılığa doyamadım, ben bu yerde yaşlanamadım'' cümlesi geçmekte.<br/>şarkının sözleri, 1944 yılında 250 bin tatar türkü’nün sovyetler birliği lideri joseph stalin tarafından sibirya’ya sürgün edilmesini anlatıyor.<br/>bu da <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=klWND6EncaY" title="https://www.youtube.com/watch?v=klWND6EncaY">sahne performansı</a>
+    bu yıl isveç'te düzenlenecek olan <a class="b" href="/?q=2016+eurovision+%c5%9fark%c4%b1+yar%c4%b1%c5%9fmas%c4%b1">2016 eurovision şarkı yarışması</a>'nda ukrayna'yı tatar türkü olan <a class="b" href="/?q=jamala">jamala</a>(cemile) temsil edecek. 1944 adlı şarkısının nakaratında türkçe olarak ''gençliğime doyamadım, ben bu yerde yaşlanamadım'' cümlesi geçmekte.<br/>şarkının sözleri, 1944 yılında 250 bin tatar türkü’nün sovyetler birliği lideri joseph stalin tarafından sibirya’ya sürgün edilmesini anlatıyor.<br/>bu da <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=klWND6EncaY" title="https://www.youtube.com/watch?v=klWND6EncaY">sahne performansı</a>
   entry_writer: walker man
 - entry_name: |
     turizm eylem paketi
@@ -300,6 +300,6 @@ data:
     hayata karşı geç kalmışlık hissi
   entry_id: 58704354
   entry_content: |
-    üniversiteyi 26 yaşında bitirmiş, 28 yaşında ne işi, ne sevgilisi ne de sosyal çevresi olmuş bir insan olarak yaşadığım. <br/><br/>ama sözlükte 23.000 entry girdim naber.
+    üniversiteyi 26 yaşında bitirmiş, 28 yaşında ne işi, ne sevgilisi ne de sosyal çevresi olmuş bir insan olarak yaşadığım. <br/><br/>ama sözlükte 23.000 entry girdim naber.<br/><br/>debe editi: <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=8aId012i0Lg" title="https://www.youtube.com/watch?v=8aId012i0Lg">https://www.youtube.com/watch?v=8aid012i0lg</a>
   entry_writer: kofteburger
 ---
