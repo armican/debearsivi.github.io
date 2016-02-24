@@ -54,7 +54,7 @@ data:
     vermezsen ayrılırız erkeği
   entry_id: 58717272
   entry_content: |
-    hayatımdan geçti böyle bir tanesi:<br/><br/>daha 17 yaşındayım. yazın işe girdim boş oturmamak için. o benden sonra girdi işe. bir kaç hafta konuştuk falan ama nasıl heyecanlıyım tamam daha önce de sevgilim oldu ama bu farklı diyorum. aşık oldum kafasındayım. herkese anlatıyorum gözünün mavisi şöyle de boyu böyle uzun da bilmem ne bok. bir süre 'çıktık' bunla biz. sonra bir gün iş çıkışı bana dediki "ben sana layık değilim, bu ilişki sürmez" tamamını dinlemedim zaten. arkamı dönüp gittim sadece. buraya kadar bir şey yok değil mi? o zaman çok üzülmüştüm ağlamıştım. ilk defa terkediliyordum ama yapacak bir şey yoktu değil mi? <br/>bu terk edilmemin üstünden 2 ay kadar geçmişti ki mesaj attı bana konuştuk noldu niye oldu falan filan dediki düzeltebilirim her şeyi ben de dünden hazır tamam dedim adamın bunun üstüne dediği şey ne biliyor musunuz? <br/><br/>eğer sevgili olacaksak her şeyimizle birbirimizin olmalıyız<br/><br/>nasıl ya bu ne demek? ben saf gibi kalplerimizin birbirinin olmasından falan bahsediyorum adam bana diyor ki "karı koca gibi" şerefsiz ulan ben 17 yaşındayım sen 18 ne karı kocası? tabi sonra daha çok ağladım daha çok üzüldüm ama geçti. <br/><br/>bir de üstüne benden ilk ayrıldığında sözlü ve kendisinden büyük bir kız için bırakmış beni. kız geçen sene evlenmiş. bu da askere gitmiş. <br/><br/>demiyorum ki insanlar evlenmeden birlikte olamaz, tabiki olabilir ama bu genç bir kıza her şeyi düzeltebilirim dedikten 4 dakika sonra söylenmez.
+    hayatımdan geçti böyle bir tanesi:<br/><br/>daha 17 yaşındayım. yazın işe girdim boş oturmamak için. o benden sonra girdi işe. bir kaç hafta konuştuk falan ama nasıl heyecanlıyım tamam daha önce de sevgilim oldu ama bu farklı diyorum. aşık oldum kafasındayım. herkese anlatıyorum gözünün mavisi şöyle de boyu böyle uzun da bilmem ne bok. bir süre 'çıktık' bunla biz. sonra bir gün iş çıkışı bana dediki "ben sana layık değilim, bu ilişki sürmez" tamamını dinlemedim zaten. arkamı dönüp gittim sadece. buraya kadar bir şey yok değil mi? o zaman çok üzülmüştüm ağlamıştım. ilk defa terkediliyordum ama yapacak bir şey yoktu değil mi? <br/>bu terk edilmemin üstünden 2 ay kadar geçmişti ki mesaj attı bana konuştuk noldu niye oldu falan filan dediki düzeltebilirim her şeyi ben de dünden hazır tamam dedim adamın bunun üstüne dediği şey ne biliyor musunuz? <br/><br/>eğer sevgili olacaksak her şeyimizle birbirimizin olmalıyız<br/><br/>nasıl ya bu ne demek? ben saf gibi kalplerimizin birbirinin olmasından falan bahsediyorum adam bana diyor ki "karı koca gibi" şerefsiz ulan ben 17 yaşındayım sen 18 ne karı kocası? tabi sonra daha çok ağladım daha çok üzüldüm ama geçti. <br/><br/>bir de üstüne benden ilk ayrıldığında sözlü ve kendisinden büyük bir kız için bırakmış beni. kız geçen sene evlenmiş. bu da askere gitmiş. <br/><br/>demiyorum ki insanlar evlenmeden birlikte olamaz, tabiki olabilir ama bu genç bir kıza her şeyi düzeltebilirim dedikten 4 dakika sonra söylenmez.<br/><br/>debe editi: debeye giren ilk entrym bu olmamalıydı ya :(
   entry_writer: birharikayim
 - entry_name: |
     insanların kafalarına göre ülke değiştirememesi
@@ -68,12 +68,6 @@ data:
   entry_content: |
     açanın dişi kişi falan değil bir dh ölücüsü olduğu sitedir. <br/><br/>buyrun bu dh konusu: <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/m_114108260/tm.htm" title="http://forum.donanimhaber.com/m_114108260/tm.htm">http://forum.donanimhaber.com/m_114108260/tm.htm</a><br/>bu da dh profili: <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/showProfile.asp?memid=1442915" title="http://forum.donanimhaber.com/showProfile.asp?memid=1442915">http://forum.donanimhaber.com/…le.asp?memid=1442915</a><br/><br/>edit: arkadaşın kim olduğunu da buldum.<br/><br/>burada blogunun adresini vermiş: <a rel="nofollow" class="url" target="_blank" href="http://forum.donanimhaber.com/m_91632148/f_//tm.htm#91632148" title="http://forum.donanimhaber.com/m_91632148/f_//tm.htm#91632148">http://forum.donanimhaber.com/…/f_//tm.htm#91632148</a><br/>blogundaki hakkında sayfası: <a rel="nofollow" class="url" target="_blank" href="http://www.emrahozkan.com/hakkimda/" title="http://www.emrahozkan.com/hakkimda/">http://www.emrahozkan.com/hakkimda/</a><br/>twitter hesabı: <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/emrahozkan_com" title="https://twitter.com/emrahozkan_com">https://twitter.com/emrahozkan_com</a><br/>instagram hesabı: <a rel="nofollow" class="url" target="_blank" href="https://www.instagram.com/emrahxozkan/" title="https://www.instagram.com/emrahxozkan/">https://www.instagram.com/emrahxozkan/</a><br/><br/>edit 2: aşağıdaki entry'ye bakınca başlığı açan fifirella kullanıcısının da kendisi olduğunu anlıyoruz. buraya kadarmış :) (bkz: <a class="b" href="/entry/50371198">#50371198</a>)
   entry_writer: tas suratli
-- entry_name: |
-    cengiz holding'in cerattepe için yayınladığı video
-  entry_id: 58717587
-  entry_content: |
-    o küçük tünele kamyonları da teleferikle taşıyacaklar heralde. karayolu olmayacağına göre.<br/><br/>biraz tepki geldi, tayyip bizi savunmadı, dostlar alışverişde görsün videosu.<br/><br/>sahibi: milletin amına koyacağız diyen cengiz.
-  entry_writer: yeter artik yazdim buraya
 - entry_name: |
     23 şubat 2016 arsenal barcelona maçı
   entry_id: 58716667
@@ -96,7 +90,7 @@ data:
     atatürk'ten sonra en etkili türk devlet adamı
   entry_id: 58709845
   entry_content: |
-    2. dünya savaşı görmüş ismet inönü nereye gitti diye sorarlar adama??<br/><br/>zayıf haldeki bir osmanlı 1. dünya savaşı'ndan yok olma derecesinde zarar görerek çıktıysa daha henüz ömrünün başında ve yeni yapılanmaya başlayan genç bir türkiye cumhuriyeti 1.'sinden çok daha farklı bir 2. dünya savaşı'nda ne hale gelirdi siz düşünün. severseniz sevmezsiniz ayrı mesele, ama atatürk <a class="b" href="/?q=ulu+%c3%b6nder">ulu önder</a>, ismet inönü ise <a class="b" href="/?q=milli+%c5%9fef">milli şef</a>'<br/><br/>gerekli ek, soyle de bir mevzu;<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+i%c5%9f+a%c4%9f%c4%b1%2f%40erkek+pisi">ekşi sözlük iş ağı/@erkek pisi</a>)
+    2. dünya savaşı görmüş ismet inönü nereye gitti diye sorarlar adama??<br/><br/>zayıf haldeki bir osmanlı 1. dünya savaşı'ndan yok olma derecesinde zarar görerek çıktıysa daha henüz ömrünün başında ve yeni yapılanmaya başlayan genç bir türkiye cumhuriyeti 1.'sinden çok daha farklı bir 2. dünya savaşı'nda ne hale gelirdi siz düşünün. severseniz sevmezsiniz ayrı mesele, ama atatürk <a class="b" href="/?q=ulu+%c3%b6nder">ulu önder</a>, ismet inönü ise <a class="b" href="/?q=milli+%c5%9fef">milli şef</a>'tir.<br/><br/>gerekli ek, soyle de bir mevzu;<br/>(bkz: <a class="b" href="/entry/57143573">ekşi sözlük iş ağı/#57143573</a>)
   entry_writer: erkek pisi
 - entry_name: |
     türkiye'de görülen ufak medeniyet belirtileri
@@ -108,13 +102,13 @@ data:
     23 şubat 2016 babamın verdiği ibretlik ayar
   entry_id: 58710623
   entry_content: |
-    (bkz: <a class="b" href="/?q=okuyan%c4%b1n+akl%c4%b1n%c4%b1+sikeyim">okuyanın aklını sikeyim</a>)<br/><br/>(bkz: <a class="b" href="/?q=evet+okudum">evet okudum</a>)
+    (bkz: <a class="b" href="/?q=okuyan%c4%b1n+akl%c4%b1n%c4%b1+sikeyim">okuyanın aklını sikeyim</a>)<br/><br/>(bkz: <a class="b" href="/?q=evet+okudum">evet okudum</a>)<br/><br/>sosyal sorumluluk editi: aslında debe editi yapan yavşaklara kıl olsam da bir ricayı kıramadım sayın okur. engelli bir kardeşimiz sosyal medyaya girmiş ve tek dileği üç beş takipçi. ama zavallı çocuğu takip eden yokmuş. bi zahmet sevindirelim. elinize yapışmaz herhalde. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/asklepios26eses" title="https://twitter.com/asklepios26eses">burada</a>
   entry_writer: asklepios26eses
 - entry_name: |
     döverek bayıltılan ve köprüden atılan sokak köpeği
   entry_id: 58717662
   entry_content: |
-    izleyemeyeceğim görüntüleri içeren vahşet. konuyla ilgili oltu belediyesini aradım. maalesef köpek ölmüş. olayı ve kimlerin yaptığını bilen çevre temizlikteki görevli ismi hakan. ikinci kez aradığımda çıkmıştı. yarın aramaya devam. bu masum canlının canına kastedenler deşifre edilinceye kadar <a class="b" href="/?q=up+up">up up</a>.<br/>oltu belediyesi tel no: 0442 816 11 37
+    izleyemeyeceğim görüntüleri içeren vahşet. konuyla ilgili oltu belediyesini aradım. maalesef köpek ölmüş. olayı ve kimlerin yaptığını bilen çevre temizlikteki görevli ismi hakan. ikinci kez aradığımda çıkmıştı. yarın aramaya devam. bu masum canlının canına kastedenler deşifre edilinceye kadar <a class="b" href="/?q=up+up">up up</a>.<br/>oltu belediyesi tel no: 0442 816 11 37<br/>edit: biraz önce yine telefon açtım. temizlik işlerinde görevli olayı başından beri bilen hakan bey'in söylediklerini aynen aktarıyorum.<br/>" efendim köpek dişi. araba çarpıyor. köpek yerde yatarken diğer erkek köpekler toplanıyor. kargaşa oluyor, bunu gören bir kişi bu kargaşayı önlemek için "ölü köpeği" köprüden atıyor. orada bulunanların ifadesi de bu yönde".<br/>inandık mı? karar sizin.<br/>olay iş bankasının önünde gerçekleşmiş. mutlaka kayıtları vardır. bugün dernek yönetimiyle ve avukatımızla görüşüp ne gerekiyorsa yapacağız.<br/>bu arada sosyal medyaya düşmesiyle çok fazla arayan, soruşturan olmuş ki belediyenin canı sıkkın. elleriniz dert görmesin. gariban-savunmasız hayvanlara bunu yapanın yanına kalmasın. küfür ederek, bela okuyarak sonuç alamayacağımız ortada.<br/><br/>edit 2: an itibariyle erzurum valiliğine failin belirlenmesi ve suçu işleyenin kimlik bilgilerinin tarafımıza iletilmesi için resmi başvuruda bulunduk. bu kişiyle ilgili bilgi tarafımıza ulaştığı anda savcılığına dernek adına suç duyurusunda bulunacağız.
   entry_writer: menalques
 - entry_name: |
     tayyip erdoğan'ın bilgisayar şifresi
@@ -153,12 +147,6 @@ data:
     biri sadece güldürür, diğeri güldürürken düşündürür. sonuç olarak ikisi de türk sinemasının son 15 senesinde çekilmiş en iyi filmlerden ikisidir.<br/><br/>birini seç derseniz vizontele'yi seçerdim, bana her zaman daha sıcak gelir.<br/><br/>edit: dengesizin biri laf sokmuş küçük beyniyle, 16 sene olmuşta 15 yıl demişim, 2001 + 15 = 2016, 2016 yı bitirdik mi akıllı arkadaşım, sence ben vizontele'nin ne zaman çekildiğini bilmiyor muyum? bir de sen düşünme demiş, ben düşünmeyeceksem sen de geber. nasıl ruh hastaları varsa aramızda adam bu başlıkta bile kavga çıkarıyor.
   entry_writer: hugeegosorry
 - entry_name: |
-    kürdistan'ın kurulmasının batıdaki insana etkisi
-  entry_id: 58722032
-  entry_content: |
-    guzel bir nufus mubadelesi ardindan cok daha az berdelci, ensestci, esekci, kacakci, degnekci, terorist, kapkacci, hirsiz, katil, ve tecavuzcuyle birlikte yasamak olacaktir.
-  entry_writer: lauma
-- entry_name: |
     kilo vermek isteyenlere tavsiyeler
   entry_id: 58712865
   entry_content: |
@@ -180,13 +168,13 @@ data:
     kavga çıksa götürülebilecek hayvanlar
   entry_id: 58727653
   entry_content: |
-    (bkz: <a class="b" href="/?q=bal+porsu%c4%9fu">bal porsuğu</a>)
+    (bkz: <a class="b" href="/?q=bal+porsu%c4%9fu">bal porsuğu</a>)<br/><br/>edit: bak işte hiç kasmadan debeye bile sokuveriyor.
   entry_writer: fortes fortuna juvat
 - entry_name: |
     hemen öldüren hap
   entry_id: 58728306
   entry_content: |
-    istanbul'da iki lokasyonda bedava dağıtıyorlar bu hapı. <br/><br/>erenköy ruh ve sinir hastalıkları hastanesi veya bakırköy ruh ve sinir hastalıkları hastanesine gidip isteyin, hemen yardımcı olacaklardır.
+    istanbul'da iki lokasyonda bedava dağıtıyorlar bu hapı. <br/><br/>erenköy ruh ve sinir hastalıkları hastanesi veya bakırköy ruh ve sinir hastalıkları hastanesine gidip isteyin, hemen yardımcı olacaklardır.<br/><br/>edit : <br/><br/>crutzo' ya not : dalga geçmiyorum. gitmen gereken yer benzeri kurumlar. hepimiz böyle dönemlerden geçtik, samimi tavsiyemdir.
   entry_writer: cinnet mustatili
 - entry_name: |
     yıldız tilbe'nin evrim teorisi açıklamaları
