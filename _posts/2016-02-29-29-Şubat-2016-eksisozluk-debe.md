@@ -11,7 +11,7 @@ data:
    
   entry_writer: sahtepetrucci
 - entry_name: |
-    anayasa mahkemesi kararına saygı duymuyorum
+    aym kararına da uymuyorum saygı da duymuyorum
   entry_id: 58833396
   entry_content: |
     
@@ -23,17 +23,9 @@ data:
   entry_id: 58831821
   entry_content: |
     
-    tema.
-    
-  entry_writer: haydudd
-- entry_name: |
-    iş adamının yeşil pasaport isyanı
-  entry_id: 58839102
-  entry_content: |
-    
-    bir şerefsizin kıçını yırtmasıdır. benim bacım emekli memur dünyayı geziyor benim pasaportum kırmızı diyor. sonra da emekli memurun ne işi olur yeşil pasaportla diyo. e bak ne güzel dünyayı geziyo, demek ki gezebiliyo, işe yarıyor. it herif..<br/><br/>burda yaptığı çomarlık ne biliyor musunuz? serzeniş değil. "derhal düzeltilsin. sanayiciye, fabrikatöre, iş adamına yeşil, memura kırmızı pasaport verilsin." diyor. be pezevengi evladı bize <a class="b" href="/?q=de">de</a> verilsin demek yerine neden memurun hakkını silip atıp kendine yamamaya çalışıyorsun. iki taraf da kullansın demek bu kadar mı zor? <br/>sürekli bir başkasına tahammülsüzlük hali, hep bana hep banacılık. lanet olsun valla bezdirdiniz.
+    tema..<br/><br/>debe editi:4 harfin debeye girmesi biraz garip oldu.bu editleri sevmiyorsunuz ama o'nun için bir şey yapmak istiyorum.hepinize teşekkür ederim.<br/><br/>derinliğini ve farklılığını,zorluğunu ve savunmasızlığını ,gücünü, güçsüzlüğünü boşluğunu ve doluluğunu,mükemmeliğini,beceriksizliğini,kibarlığını,şarap içişini,gülüşünü,saçlarını,gözlerini,gözlerimin içine bakışını,bakışlarında anlattıklarını, yanında kayboluşumu, dudaklarını,öpüşünü,sesini,nefesini,ellerini,ellerinin saçlarıma, yüzüme dokunuşunu,beyninin ve kalbinin derinliklerini seviyorum.<br/>seni tanımış olmaktan hiç pişman olmadım iyi ki varsın.<br/><br/>seni çok seviyorum.<br/>işte senin için <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=zAn08C6xFfQ" title="https://www.youtube.com/watch?v=zAn08C6xFfQ">şarkı</a> ve <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=hbtuVoXkOFg" title="https://www.youtube.com/watch?v=hbtuVoXkOFg">şarkı</a>
    
-  entry_writer: enee bokum gibi olmus
+  entry_writer: haydudd
 - entry_name: |
     28 şubat 2016 gaziantepspor galatasaray maçı
   entry_id: 58844685
@@ -55,7 +47,7 @@ data:
   entry_id: 58843222
   entry_content: |
     
-    cehaletin vuku bulmuş halidir. 1980 darbesi, şu anki türk-islam sentezi fikrin, hibrid, ne olduğu belirsiz mufazakâr demokratların iktidara taşınması için zemindeki tüm "hendekleri" ortadan kaldırmıştı oysa ki. yürütülen tanklar, 68 kuşağının temsil ettiği "yurtsever sol", ecevit'in iktidara taşıdığı "ortanın solu"nu teker teker imha etti.  <br/><br/>buradan kendine bir mağdur edebiyatı devşirecek en son takım sanırım şu anki "siyasi islam"ı oluşturan güruh. <br/><br/>(bkz: <a class="b" href="/?q=ge%c3%a7en+g%c3%bcn+yine+ma%c4%9fduruz">geçen gün yine mağduruz</a>)<br/><br/>edit: ikra odaları derken, sanırım ak arkadaşlar "ikna odası" demeye çalışmışlar. işte bunlar hep bir gecede cahil kalmalarından ileri gelen hatalar.
+    cehaletin vuku bulmuş halidir. 1980 darbesi, şu anki türk-islam sentezi fikrin, hibrid, ne olduğu belirsiz mufazakâr demokratların iktidara taşınması için zemindeki tüm "hendekleri" ortadan kaldırmıştı oysa ki. yürütülen tanklar, 68 kuşağının temsil ettiği "yurtsever sol"u, ecevit'in iktidara taşıdığı "ortanın solu"nu teker teker imha etti.  <br/><br/>buradan kendine bir mağdur edebiyatı devşirecek en son takım sanırım şu anki "siyasi islam"ı oluşturan güruh. <br/><br/>(bkz: <a class="b" href="/?q=ge%c3%a7en+g%c3%bcn+yine+ma%c4%9fduruz">geçen gün yine mağduruz</a>)<br/><br/>edit: ikra odaları derken, sanırım ak arkadaşlar "ikna odası" demeye çalışmışlar. işte bunlar hep bir gecede cahil kalmalarından ileri gelen hatalar.
    
   entry_writer: miserable
 - entry_name: |
@@ -111,7 +103,7 @@ data:
   entry_id: 58850453
   entry_content: |
     
-    ahmet cakar: mac berabere bitti bile..<br/>apo: nasil yani biz banttan mi seyredicez maci !<br/><br/>sggsshgzbzkzmsksbssb sen nasil bir adamsin ya
+    ahmet cakar: mac berabere bitti bile..<br/>apo: nasil yani biz banttan mi seyredicez maci !<br/><br/>sggsshgzbzkzmsksbssb sen nasil bir adamsin ya<br/><br/>edit: yine debeye giren bir beyaz/derin futbol diyalogu yine isin icinde ahmet cakar var. saygilar hocam.
    
   entry_writer: evangelos
 - entry_name: |
@@ -135,7 +127,7 @@ data:
   entry_id: 58848391
   entry_content: |
     
-    semih'ten nilal'e "seni muhattap almayacagim, survivor tarihinin 10 yildir en kötü yarismacisisin.""<br/><br/>vurdugun gol olsun semih baskan.<br/><br/>semih'in beyin ameliyatlari yaptigi program.
+    semih'ten nilal'e "seni muhattap almayacagim, survivor tarihinin 10 yildir en kötü yarismacisisin.""<br/><br/>vurdugun gol olsun semih baskan.<br/><br/>semih'in beyin ameliyatlari yaptigi program.<br/><br/>edit: survivor izleyenler çok lolo diyenlere karşı şöyle bir entryim olmuştu, onu da paylaşmadan duramayacağım. debe ye bu başlıktan giren her entry sahte tavirlariniza ve benim beğenmediğim salaktır düşüncenize bir cevap aslında. birakin insanlar izlesinler, bırakın eğlensinler, milletin keyfinin kahyasi olmaya çalışmayın.<br/><br/>(bkz: <a class="b" href="/entry/58728590">#58728590</a>)
    
   entry_writer: drjurinio
 - entry_name: |
@@ -167,7 +159,7 @@ data:
   entry_id: 58832028
   entry_content: |
     
-    sözlükteki geniş çaplı değişim nedeniyle tema++'yı baştan yazmam gerekecek..<br/>o zamana kadar idare etmesi için bazı özellilkerini de kapatarak geçici bir güncelleme vereceğim. 1-2 gün sonra şu anda fark etmediğim ya da düzeltemediğim yerlerini de düzeltirim ama daha sonra baştan aşağı yenilemek gerekecek.<br/><br/>şimdilik şu hale getirdim: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/MpEAG9.png" title="http://i.hizliresim.com/MpEAG9.png">http://i.hizliresim.com/mpeag9.png</a><br/><br/>sağını solunu biraz daha toparladıktan sonra gün içerisinde güncelleme vereceğim.<br/><br/>ayrıca şu anda sözlük özelliği olup olmadığını anlayamadığım şeyler de var. mesela debe entry'lerinin yanındaki sayılar hata mı yoksa özellik mi?
+    debe bilgilendirmesi:  <a class="b" href="/?q=ek%c5%9ficep">ekşicep</a>'te acil bir durum olmadığı için, onun gelişimine ara verip tema++ eklentisinin yeni versiyonunu yazmaya başladım. en kısa sürede bitirip paylaşıma açıcam. daha önceden bildirilen hataları ve istekleri de yerine getirmeye çalışacağım. <a class="b" href="/?q=ffmvain">ffmvain</a> de bu versiyondaki hataları düzeltiyordu. belli bir aşamaya geldiyse gün içerisinde yeni bir güncelleme de verilebilir.<br/>bu arada ekşicep kullanıyorsanız, debe'yi yedekleyerek offline olarak okuyabileceğinizi de unutmayın.<br/><br/>sözlüğün sağladığı "devamını okuyayım" özelliğini iptal etmek istiyorsanız: (bkz: <a class="b" href="/entry/58841669">#58841669</a>)<br/><br/>**<br/><br/>sözlükteki geniş çaplı değişim nedeniyle tema++'yı baştan yazmam gerekecek. <br/>o zamana kadar idare etmesi için bazı özellilklerini de kapatarak geçici bir güncelleme vereceğim. 1-2 gün sonra şu anda fark etmediğim ya da düzeltemediğim yerlerini de düzeltirim ama daha sonra baştan aşağı yenilemek gerekecek.<br/><br/>şimdilik şu hale getirdim: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/MpEAG9.png" title="http://i.hizliresim.com/MpEAG9.png">http://i.hizliresim.com/mpeag9.png</a><br/><br/>sağını solunu biraz daha toparladıktan sonra gün içerisinde güncelleme vereceğim.<br/><br/>ayrıca şu anda sözlük özelliği olup olmadığını anlayamadığım şeyler de var. mesela debe entry'lerinin yanındaki sayılar hata mı yoksa özellik mi?
    
   entry_writer: futurama
 - entry_name: |
@@ -175,8 +167,8 @@ data:
   entry_id: 58851352
   entry_content: |
     
-    hiç evlilik yapmamış kadınları ''rahmi temiz'', evlenip boşanmış kadınları ''rahmi kirli'' kadınlar olarak gören pislikleri ortaya dökmüş evlenme hadisesi. senin ne haddine ya boşanmış kadınlara böyle ithamlarda bulunmak? biliyormuş da konuşuyormuş, yaptığın genellemeye sıçayım.
-    
+    hiç evlilik yapmamış kadınları ''rahmi temiz'', evlenip boşanmış kadınları ''rahmi kirli'' kadınlar olarak gören pislikleri ortaya dökmüş evlenme hadisesi. senin ne haddine ya boşanmış kadınlara böyle ithamlarda bulunmak? biliyormuş da konuşuyormuş, yaptığın genellemeye sıçayım..<br/><br/>debedit: kadınları saçına, başına, kaşına, gözüne, gülüşüne, kıyafetine, cinsel geçmişine göre sınıflandırıp iğrenç şekilde yaftalayan ''beyni kirli'' zihniyete karşı, 8 mart'ta tüm kadınlar alanlara!
+   
   entry_writer: riddikulus
 - entry_name: |
     bir çomar belirteci olarak 01 01 doğum tarihi
@@ -187,7 +179,7 @@ data:
    
   entry_writer: monitoba
 - entry_name: |
-    ankara metrosu kızılay seferlerinin durdurulması
+    ankara metrosu güzergahının değişmesi
   entry_id: 58834473
   entry_content: |
     
@@ -207,7 +199,7 @@ data:
   entry_id: 58842924
   entry_content: |
     
-    buradan gs yönetimine sesleniyorum; bana lisans cikartip bundan sonraki maçlarda umut yerine beni oynatin, eğer ilk yarıdaki yaptığı istatistikleri yapamazsam gotumdeki dona varana kadar kulübe verecem, avukat eşliğinde anlaşma yapabiliriz. oynamak için de para falan istemiyorum.
+    buradan gs yönetimine sesleniyorum; bana lisans cikartip bundan sonraki maçlarda umut yerine beni oynatin, eğer umut'un sezonun ilk yarısinda yaptığı istatistikleri yapamazsam gotumdeki dona varana kadar kulübe verecem, avukat eşliğinde anlaşma yapabiliriz. oynamak için de para falan istemiyorum.
     
   entry_writer: melis ali
 - entry_name: |
@@ -242,14 +234,6 @@ data:
     valla direniş değil de bu tema değişene kadar pek sözlük okuyabileceğimi de sanmıyorum zaten. okuyamadığım yere ne yazayım?  <br/><br/>yazın beni de.
    
   entry_writer: kamburkelimat
-- entry_name: |
-    28 şubat 2016 ekşisözlük direnişi
-  entry_id: 58829365
-  entry_content: |
-    
-    beni de ekleyin ve duzelene kadar bu son entryimdir... boyle bir zevksizlige katlanmak zorunda degilim... sen benim yazdigim entry olmazsa bir hicsin... seni ben var ediyorum ve sen su zevksizlige imza atmadan once bana bir sorma ihtiyaci bile hissetmiyorsan kusura bakma da sikimde olmazsin... yeni tasarimi insan bir oylamaya sunar once...<br/>iki entry arasina bile reklam gelecek tiksinc bir tasarimi bana dayatip entryler arasinda gezerken yanlislikla reklama basarim da belki para kazanirsin umudu guttugun, beni para olarak gordugun ve hice saydigin bu tasarimi da al durume sarip ye kanzuk...
-   
-  entry_writer: cas2b
 - entry_name: |
     donald trump
   entry_id: 58828995
@@ -311,7 +295,7 @@ data:
   entry_id: 58835643
   entry_content: |
     
-    v1.3.00<br/><br/>acil düzeltme:<br/>- sözlük tasarımı değişimi nedeniyle giriş yapılamıyordu. daha doğrusu yaptığınızı göremiyordunuz. düzeltildi.<br/>- "kimi takip etmeli" özelliğini şimdilik gizledim. onu da sonraki sürümde aktif etmeyi umuyorum.<br/><br/>yenilikler:<br/><br/>- başlık filtreleme<br/>yazdığınız kelimelere göre sol frame'deki başlıkları gizleyebileceksiniz.<br/>örneğin: "ingilizcesi" kelimesini eklerseniz, içinde "ingilizcesi" geçen başlıkları sol frame'de görmeyeceksiniz.<br/><br/>- imgur desteği<br/>malum, imgur ülkemizde engellenmiş durumda. imgur linklerinin açılması için ufak bir modifikasyon yaptım. umarım çalışır. test eder, haber verirsiniz.<br/><br/>- font desteği <br/>şimdiye kadar <a class="b" href="/?q=verdana">verdana</a> kullanılıyordu.<br/><a class="b" href="/?q=tahoma">tahoma</a>, <a class="b" href="/?q=helvetica">helvetica</a>, <a class="b" href="/?q=pt+sans">pt sans</a>, <a class="b" href="/?q=titillium">titillium</a> ve <a class="b" href="/?q=roboto">roboto</a> da seçilebilir olacak.<br/><br/>- entry yazım alanı<br/>entry girmek için ayrı bir pencere açılacak. entry yazım alanını biraz daha büyük tutmak için böyle bir değişiklik yaptım.<br/>aynı zamanda tıpkı twitter'da olduğu gibi öneri desteği olacak.<br/>: sonrasındaki kelimelere göre başlık önerisi görebileceksiniz. gelen başlıkları ne türlü göstermek istiyorsanız(bkz, hede, *) onun da seçimini ayrıca yapabiliyorsunuz.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/4b7QE7.png" title="http://i.hizliresim.com/4b7QE7.png">http://i.hizliresim.com/4b7qe7.png</a><br/><br/>- debe yedekleme<br/>debe başlıklarını ve içeriğini yedekleyebileceksiniz. evde hızlı internetle debe yedekleyip, yolda mobil internet harcamak istemeyenlerin işine yarayabilir.<br/>sol frame'deki menü içerisinden ulaşabilirsiniz ilgili butona.<br/>sadece okuma olarak değil, gerekirse oylama vs. yapabileceksiniz. fakat başlık değişimini sol frame'den ya da "sıradaki" butonuyla yapmanız gerekecek. debe'nin kendi navigasyonu aktif olmayacak.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/92MA68.png" title="http://i.hizliresim.com/92MA68.png">http://i.hizliresim.com/92ma68.png</a><br/><br/>- instagram linkleri de gömülü olarak açılacak<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/vnkVkA.png" title="http://i.hizliresim.com/vnkVkA.png">http://i.hizliresim.com/vnkvka.png</a><br/><br/>- ara menüdeki ikonlar kaldırılabiilir olacak<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d32z74.png" title="http://i.hizliresim.com/d32z74.png">http://i.hizliresim.com/d32z74.png</a><br/><br/>- yeni tema (kedi)<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Yrnpnk.png" title="http://i.hizliresim.com/Yrnpnk.png">http://i.hizliresim.com/yrnpnk.png</a><br/><br/>- yazar girişi yapılmasa da favori sayısı görülecek.<br/>hali hazırda yazar girişi yapmayanlar favori sayısını göremiyorlar.<br/><br/>düzeltilenler / değiştirilenler:<br/><br/>- buton yapıları değişti ve değişmeye devam edecek.<br/>sözlükteki yenilikler nedeniyle yarım kaldı ama butonların daha rahat dokunulabilir olması için yapılarını değiştiriyorum.<br/>butonlara dokununca ufak bir atraksiyon olacak. bu da ilgili değişimin parçası.<br/><br/>- gömülü tweet'lerde açılmayan görsellerin açılması sağlandı.<br/><br/>- gömülü linklerin, linklere dokunarak da açılması sağlandı.<br/><br/>- dahili tarayıcı için zoom desteği aktif edildi.<br/><br/>- istatistik kategorilerinin çalışması sağlandı.<br/><br/>- aramayla alakalı sorunlar giderildi.<br/><br/>- profil sayfasındaki değişiklik kaldırıldı.<br/><br/>- ekşicep ayarları arasından "öneri modu" kaldırıldı.
+    debe bilgilendirmesi: bu sürümden itibaren debe'yi yedekleyerek offline olarak da okuyabilirsiniz. uygulamanın açılması için internet bağlantısı lazım ama yedekleri okurken interneti kapatabilirsiniz..<br/><br/>v1.3.0<br/>- sözlükteki değişim nedeniyle giriş yapılamıyordu. düzeltildi.<br/><br/>yenilikler:<br/>- başlık filtreleme<br/>yazdığınız kelimelere göre sol frame'deki başlıkları gizleyebileceksiniz.<br/>örneğin: "ingilizcesi" kelimesini eklerseniz, içinde "ingilizcesi" geçen başlıkları sol frame'de görmeyeceksiniz.<br/><br/>- imgur desteği<br/>malum, imgur ülkemizde engellenmiş durumda. imgur linklerinin açılması için ufak bir modifikasyon yaptım.<br/><br/>- font desteği <br/>şimdiye kadar <a class="b" href="/?q=verdana">verdana</a> kullanılıyordu. <a class="b" href="/?q=tahoma">tahoma</a>, <a class="b" href="/?q=helvetica">helvetica</a>, <a class="b" href="/?q=pt+sans">pt sans</a>, <a class="b" href="/?q=titillium">titillium</a> ve <a class="b" href="/?q=roboto">roboto</a> da seçilebilir olacak.<br/><br/>- entry yazım alanı<br/>entry girmek için ayrı bir pencere açılacak. entry yazım alanını biraz daha büyük tutmak için böyle bir değişiklik yaptım.<br/>aynı zamanda tıpkı twitter'da olduğu gibi öneri desteği olacak.<br/>: sonrasındaki kelimelere göre başlık önerisi görebileceksiniz. gelen başlıkları ne türlü göstermek istiyorsanız(bkz, hede, *) onun da seçimini ayrıca yapabiliyorsunuz.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/4b7QE7.png" title="http://i.hizliresim.com/4b7QE7.png">http://i.hizliresim.com/4b7qe7.png</a><br/>(bug nedeniyle bkz butonları görünmez hale gelmiş, düzeltilecek.)<br/><br/>- debe yedekleme<br/>debe başlıklarını ve içeriğini yedekleyebileceksiniz. evde hızlı internetle debe yedekleyip, yolda mobil internet harcamak istemeyenlerin işine yarayabilir.<br/>sol frame'deki menü içerisinden ulaşabilirsiniz ilgili butona.<br/>sadece okuma olarak değil, gerekirse oylama vs. yapabileceksiniz. fakat başlık değişimini sol frame'den ya da "sıradaki" butonuyla yapmanız gerekecek. debe'nin kendi navigasyonu aktif olmayacak.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/92MA68.png" title="http://i.hizliresim.com/92MA68.png">http://i.hizliresim.com/92ma68.png</a><br/><br/>- instagram linkleri de gömülü olarak açılacak<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/vnkVkA.png" title="http://i.hizliresim.com/vnkVkA.png">http://i.hizliresim.com/vnkvka.png</a><br/><br/>- ara menüdeki ikonlar kaldırılabiilir olacak<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d32z74.png" title="http://i.hizliresim.com/d32z74.png">http://i.hizliresim.com/d32z74.png</a><br/><br/>- yeni tema (kedi)<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/Yrnpnk.png" title="http://i.hizliresim.com/Yrnpnk.png">http://i.hizliresim.com/yrnpnk.png</a><br/><br/>- yazar girişi yapılmasa da favori sayısı görülecek.<br/>hali hazırda yazar girişi yapmayanlar favori sayısını göremiyorlar.<br/><br/>düzeltilenler / değiştirilenler:<br/><br/>- buton yapıları değişti ve değişmeye devam edecek.<br/>sözlükteki yenilikler nedeniyle yarım kaldı ama butonların daha rahat dokunulabilir olması için yapılarını değiştiriyorum.<br/>butonlara dokununca ufak bir atraksiyon olacak. bu da ilgili değişimin parçası.<br/><br/>- gömülü tweet'lerde açılmayan görsellerin açılması sağlandı.<br/><br/>- gömülü linklerin, linklere dokunarak da açılması sağlandı.<br/><br/>- dahili tarayıcı için zoom desteği aktif edildi.<br/><br/>- istatistik kategorilerinin çalışması sağlandı.<br/><br/>- aramayla alakalı sorunlar giderildi.<br/><br/>- profil sayfasındaki değişiklik kaldırıldı.<br/><br/>- ekşicep ayarları arasından "öneri modu" kaldırıldı.
    
   entry_writer: futurama
 - entry_name: |
