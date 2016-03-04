@@ -1,0 +1,405 @@
+---
+layout: post
+title: 4 Mart 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    b. münih mainz ve b. dortmund arasındaki twitleşme
+  entry_id: 58924848
+  entry_content: |
+    
+    bundesliga'yı takip edenler zaten dün neler yaşandı bilir ama bilmeyenler için kısaca anlatayım..<br/><br/>dün bayern münih mainz'a yenildi ve böylece dortmund deplasmanda maçını kazanarak bayern ile olan puan farkını farkını 8'den 5'e indirdi. üstelik sadece 2 gün sonra dortmund-bayern maçı var. yani dortmund yenerse aradaki puan farkı 2'ye iniyor. bayern'in şampyonluğu kaybedeceğini kimse beklemediği için almanya'da herkes haliyle olayın şokunda hala. <br/><br/>tüm bunlar yaşanırken dün mainz'in dortmund'un twitter hesabına attığı aşağıdaki twitle, bayern'in de dahil olduğu süper bir diyalog yaşandı.<br/><br/>mainz'in dortmund'a attığı bahsettiğim twit ve dortmund'un cevabı,<br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/Mainz05en/status/705139760139005952" title="https://twitter.com/Mainz05en/status/705139760139005952">https://twitter.com/…05en/status/705139760139005952</a><br/><br/>bayern'in mainz'a cevabı,<br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/FCBayern/status/705156047238008832" title="https://twitter.com/FCBayern/status/705156047238008832">https://twitter.com/…yern/status/705156047238008832</a><br/><br/>belki çok acayip bir olay değil ama bunlar türkiye'de asla yaşanmayan hadiseler olduğu için futbolun güzelliklerini unutan halkımız için futbolun ve spordaki diğer bütün alanların aslında sadece eğlence için var olduğunu hatırlatmaya vesile olabilir umuduyla paylaşmak istedim.
+   
+  entry_writer: tendra van case
+- entry_name: |
+    chp'nin sahip çıktığı terörist
+  entry_id: 58929832
+  entry_content: |
+    
+    evet arkadaşlar maalesef chp parasız eğitim isteyen öğrencilere destek olmuş. ama ensonhaber.com her zamanki gibi olayları çok güzel manipüle ederek chp sanki terörizme destek çıkmış gibi servis ediyor. bizim troll sözlükçü arkadaşlar da cohoponün sohop çoktoğo terorororo diye başlık açıyor. ulan biz zaten kişiler üzerinden değerlendirmeler yaptığımız için bu halde değil miyiz ? adam gidip teröristçe eylem gerçekleştiriyorsa bu chp'nin suçu mu? ben artvin'de maden çıkarılmasın diyorum. teröristin biri de çıkarılmasın diyor. o zaman o terörist öldürüldüğünde ben ona sahip mi çıkmış oluyorum. vallahi mantığınızı sikeyim..<br/><br/>not: şehit arkadaşı.
+   
+  entry_writer: beninsanimcunkucastielmelek
+- entry_name: |
+    gezi olayları olmasa pkk 2013'te çekiliyordu
+  entry_id: 58925772
+  entry_content: |
+    
+    akp olmasa 2002'de çekiliyordu amk.
+    
+  entry_writer: yeter artik yazdim buraya
+- entry_name: |
+    istanbul tıp fakültesi 2005 girişli tankut
+  entry_id: 58933886
+  entry_content: |
+    
+    2005'te 18 yaşında olan pelin, 2016'da 29 yaşındadır..<br/>yaş 30'a yaklaşınca elden kayıp giden fırsatları değerlendirme derdindedir.
+   
+  entry_writer: mbaran
+- entry_name: |
+    berna yılmaz
+  entry_id: 58928486
+  entry_content: |
+    
+    bugün bayrampaşa'da polislere saldırdıktan sonra öldürülen terörist. şahıs falan diyip masumlaştırmaya çalıştırmayın şunları amk, bildiğiniz terörist lan işte buna şahıs sıfatını layık görenin....
+    
+  entry_writer: archangelmichael
+- entry_name: |
+    3 mart 2016 torku konyaspor beşiktaş maçı
+  entry_id: 58936659
+  entry_content: |
+    
+    uefa için fazla şerefliyiz completedd<br/>turkiye kupası için fazla şerefliyiz completed<br/>lig için fazla şerefliyiz loading...
+   
+  entry_writer: kaedeoky
+- entry_name: |
+    3 mart 2016 bayrampaşa'da çatışma
+  entry_id: 58923484
+  entry_content: |
+    
+    iki kadın teröristin  <a class="b" href="/?q=gta">gta</a>'da 4 yıldız aranma seviyesine ulaştığı saldırı.<br/><br/>helikopterler, akrepler her taraf polis bayrampaşa'da.
+   
+  entry_writer: racing2
+- entry_name: |
+    neymar'ın ben türk'üm demesi
+  entry_id: 58939376
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=neymar%27%c4%b1n+gss+prim+borcu">neymar'ın gss prim borcu</a>)
+   
+  entry_writer: misgibitavukkokuyor
+- entry_name: |
+    gine cumhurbaşkanlığı külliyesi gine'ye yakışmıyor
+  entry_id: 58936314
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=misafirli%c4%9fe+gidilen+evi+be%c4%9fenmemek">misafirliğe gidilen evi beğenmemek</a>)<br/>(bkz: <a class="b" href="/?q=pes">pes</a>)
+   
+  entry_writer: optimus prime
+- entry_name: |
+    cinselleşmeyi tarif eden en iyi ikileme
+  entry_id: 58925237
+  entry_content: |
+    
+    cinselleşme diye bir kelime olmadığından tarifi de sözkonusu değildir. ama illa iki kelime gerekliyse, türkçe' nin anasının bellenmesinden dolayı  <a class="b" href="/?q=siktir+git">siktir git</a> sorunu çözecek iki kelimedir tahminimce.
+   
+  entry_writer: karlar kralicesi
+- entry_name: |
+    sırrı süreyya önder'in apo'ya babam demesi
+  entry_id: 58922352
+  entry_content: |
+    
+    bir ara ekşicilerin son tanrısıydı. böyle sözlük yönetimiyle çekilen samimi fotoğraflar falan. halk insanı goygoyu. güzel insan güzellemeleri.  <br/><br/>hayat bir tuhaf tabi. <br/><br/>tanım da yapalım: büyük ihtimalle babasının kemiklerini sızlatmıştır.
+   
+  entry_writer: lanre
+- entry_name: |
+    kocamı kardeşiyle aldatıyorum diyen kadın
+  entry_id: 58928401
+  entry_content: |
+    
+    programın ismi ""<a class="b" href="/?q=hayatta+her+%c5%9fey+var">hayatta her şey var</a>" ama kadın kaynıyla yakınlaşınca auwwww.<br/><br/>demek ki hayatta her şey yok amk. ya da var da kadına yok. çok da şaşılacak bir şey değil esasında.<sup class="ab"><a title="(bkz: tabi kadın trollemediyse)" href="/?q=tabi+kad%c4%b1n+trollemediyse" data-query="tabi kadın trollemediyse">*</a></sup>
+   
+  entry_writer: cemiyetin unlu simasi
+- entry_name: |
+    eve atılan kızın vermemesi
+  entry_id: 58936547
+  entry_content: |
+    
+    "verse" de vermese de, "orospu" olarak yaftalanacak kızdır..<br/><br/>ben demiyorum, çocukları diyor.
+   
+  entry_writer: dedee gazuz neli
+- entry_name: |
+    erkeklerin berber sadakati
+  entry_id: 58924055
+  entry_content: |
+    
+    1950'lerın sonu..<br/><br/>babam köydeki ilkokulu bitirince okumak için ankara'daki dedesinin yanına geliyor. dedemin yenimahalle güzelevler'de bir ciğerci dükkanı var o zamanlar. babam hem okuyor, hem de okuldan çıkınca orada çalışıyor. eti en güzel şekilde işlemeyi, terbiye etmeyi orada öğreniyor. arkadaşı var okuldan bir de, abdullah. ite kaka beraber bitiriyorlar ortaokulu. <br/><br/>ortaokul bitince abdullah bir berberin yanında çırak olarak başlıyor. bu arada büyük dedemin ciğercisinin üst katına babamın yaşıtı bir çocuk ve annesi taşınıyor. haşarı, yaramaz, komik bir çocuk. adı levent. levent ile babam liseye beraber gidiyor, ama pek okumuyorlar. sürekli atıldıkları için okul değiştiriyorlar, hiçbir okul onları almıyor. öğretmeni sepete koyup camdan sallamalar, okul asıp sürekli sinemaya gitmeler. <br/><br/>her fırsatta babam ciğerciden nevale aşırıyor, abdullah berberden kaçıyor, levent'in evinde mangal yapıyorlar. üç kardeş gibi yaşıyorlar. yedikleri içtikleri ayrı gitmiyor. bir de tutturmuşlar birbirlerine "nuri" diyorlar, nuri aşağı nuri yukarı.<br/><br/>sonra levent istanbul'a taşınıyor. dedem ve babannem de ankara'ya geliyor dedemin tayini ile, şimdiki kaçak sarayın olduğu yerde bulunan orman bakanlığı lojmanlarına yerleşiyorlar. babam hem çalışıp hem okuyarak üniversiteyi bitiriyor. abdullah berberde önce kalfa sonra usta oluyor.<br/><br/>babam, işte o yıllardan başlayarak uzun yıllar abdullah amca'nın ragıp tüzün caddesi'ndeki küçük berber dükkanına gitti. "berber apo"nun içtiği sigaradan duman altı olmuş minik dükkanda muhabbet ederlerken birbirlerine öyle küfürler ederlerdi ki, sanırım bu kadar dost olamayanlar kaldıramazdı. doksanların sonuna doğru krizler üst üste gelince kirasını çıkaramayan berber dükkanı kapandı. o günden sonra; güzel havalarda babam abdullah amca'nın karşıyaka'daki gecekondusuna gider bahçesinde tıraş olur, hava kötüyse abdullah amca takımlarını alır bize gelir babamı evde tıraş ederdi.<br/><br/>2009 yılında önce istanbul'dan levent'ten bir hastalık haberi geldi, ardından babam - belki de ciğerci dükkanının o en güzel etleriyle tetiklenmiş gut'un sonucu olarak- böbrek yetmezliğine yakalandı, aylarca hastanede yattı. berber apo duman altı dükkanın doğal sonucu ile verem oldu, sanatoryuma yattı.<br/><br/>sonra bir gün abdullah amcanın vefat haberi geldi, ben yurt dışında görevdeydim o zaman. hastanedeki babam cenazeye bile gidemedi. ardından babam bypass oldu, levent geldi hastaneye ilk herhalde, "vayt nuri ne oldu lan sana?" dedi. inanılmaz bir moral oldu babama o an. babamın hastalığı ortaya çıkmadan evlilik kararı almıştık. erteleyelim demiştik de babam razı olmamıştı. kız isteme işini "levo" üstlendi duyunca tabi, sonra nikahta da şahidim oldu.<br/><br/>nikahtan bir yıl kadar sonra kalp-böbrek ve akciğer yetmezliği ilerleyen babam günde 30-40 ilaç, haftada üç gün diyaliz ve bir süre sonra da solunum kolaylaştırıcı makineler ile yaşadı evde. berber apo öldükten sonra, pek saçı çıkmadı lan babamın. az çok çıkanı da annemle kız kardeşim keserdi o uyurken. <br/><br/>2013 yılında kaybettik babamı. levent hasta olduğu için gelemedi cenazeye, aradı annemi konuştular. helalleştiler. zaten çok geçmedi levent de ayrıldı aramızdan, onu duydunuz çoğunuz; levent kırca'ydı.
+   
+  entry_writer: realsanto
+- entry_name: |
+    aykut kocaman
+  entry_id: 58936987
+  entry_content: |
+    
+    fenerbahçe düşmanı sinsiye futbol dersi vermeye devam eden adam.  <br/><br/>taş gibi bir takım yaptı. medya sus pus. görmüyor konya'daki başarısını. fatih terim gibi medyada maaşlı elemanı yok, üstelik dürüst ve bilgili bir adam. aykut kocaman neden sevilsin ki medyada?
+   
+  entry_writer: seyitgerekli
+- entry_name: |
+    2016 turizm krizi
+  entry_id: 58928394
+  entry_content: |
+    
+    esnaf esnaf diye ağlıyorlar ben gülüyorum..<br/><br/>yaklaşık 5 yıl marmaris merkez'de, tam çarşı'nın içinde yaşadım. 1-2 turisti ben kapacam diye iki kuyumcu dükkanı komple birbirine girdi turistin çocuğunun olduğu yerde sandalyeler odunlar havada uçuştu, ağlayarak zor kaçtı kadınlar. komple diyorum, böyle çarşı merkez'de 6-7 kişinin birbirine girdiğini düşün. anadolu'da sınır kavgası yüzünden birbirine giren aile görüntüsünden farksızdı o derece. tanık olduğum her türlü tacizi, yapılan genel hayvanlıkları anlatmıyorum bile. bunlara mı üzülecem?<br/><br/>erkeklere soruyorum: siz hiç 130 euro'ya saç tıraşı oldunuz mu? ingiliz turist oldu. (160'dan 130' inmiş sağolsun) adam gitti information'a falan şikayet etti 'yapabileceğimiz bir şey yok' cevabını aldı kaldırıma çöktü resmen adam. (o kadar para için abartma demeyin, yurt dışında plansız fazladan para girmesinin ne olduğunu iyi bilirim) o zaman yapabileceği bir şey olamayan yetkili merciler şimdi "ne yapabiliriz"i tartışıyor. lan bodrum belediye başkanı bile isyan etti yalvardı bu kadar da olmaz yapmayın etmeyin diye. bu gaspçılara mı üzülecem? <br/><br/>barlardan, adına club denilen yerlerden bahsetmek bile istemiyorum. istanbul'da bile az bulunur o kadar hayvanın çalıştığı yer. tartıştıkları garson çocuğu inşaatta ellerinden asıp işkence ederek öldürdü lan mekancılar daha nasıl anlatayım! bu hayvanlara mı üzülecem?<br/><br/>daha söylenecek çok şey var uzatmayayım. neredeyse tüm ülke halkının ortak nefretini kazanan başka sektör var mı bilmiyorum. bu güne kadar bu nefret sikinizde değildi de yumurta göte dayanınca mı önlem almak icap etti?<br/><br/>sırf bunların inim inlemesini, çatır çatır batışlarını görmek için payıma düşeni ödemeye razıyım ben, her koşulda giriyor nasıl olsa bari zevk versin.
+   
+  entry_writer: otrasavibi
+- entry_name: |
+    karadenizliyim yerine kuzeyliyim demek
+  entry_id: 58924358
+  entry_content: |
+    
+    "karadenizliyim" deyince akla  <a class="b" href="/?q=temel">temel</a> geliyorken "kuzeyliyim" deyince akla <a class="b" href="/?q=jon+snow">jon snow</a> geliyor. bu tür bir anıştırmadan ekmek yemek isteyen çakal karadenizlilerin yapacağı bir iştir.
+   
+  entry_writer: gaip
+- entry_name: |
+    bu zamanda 0 km kız bulmak
+  entry_id: 58935524
+  entry_content: |
+    
+    o değil de, 0 km erkek arayan kız varsa ben buradayım.
+    
+  entry_writer: kofteburger
+- entry_name: |
+    marmara depremi en erken 2045'te olur
+  entry_id: 58922385
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=3+mart+2016+it%c3%bc+m%c3%bcneccim+yarra%c4%9f%c4%b1+rezaleti">3 mart 2016 itü müneccim yarrağı rezaleti</a>)
+   
+  entry_writer: soyka pigro
+- entry_name: |
+    1 mart 2016 çanakkale ayışığı kitaplığı rezaleti
+  entry_id: 58924092
+  entry_content: |
+    
+    aslında rezalet sözcüğünün yetersiz kaldığı adli bir vakadır. akli dengesinin pek yerinde olduğu söylenemeyecek davranışlar gösteren çanakkale'de az sayıda bulunan bir kitapçı!!!nın üniversiteli bir kız öğrenciyi sopa ile darp edip kaşının yarılmasına yol açtığı bir durumdur.  <br/><br/>çanakkalede yaşayıp kitap almaya çalışan bir çok kişi (ben de) dahil bu adamla çeşitli sorunlar yaşamıştır. siz bandrollüsünü almaya çalışırsınız adam size zorla korsan satmaya kalkar, raflarda kitap ararsınız bulamayıp çıkınca arkanızdan koşup çarşının ortasında sorsana be adam! çıkarken iyi günler diye selam versene! eşek başı mıyım ben! gibi gereksiz agresif ve itip kakarak atarlar ve çıkışlar yapmasına neredeyse alışacaktık. elbette bir dükkana mağazaya girip çıkarken selam sabah vermek hoştur ama illa da yapacaksın diye bir kural yok bunu da hatırlatayım. <br/><br/>kaç defa insanları (kendisinden güçsüzler doğal olarak tercihi) bu şekilde rencide ettiğine tanık olmuştum ama sopayla bir kıza vurmak nedir ya? olayı bir de yaşayanın ağzından dinleyelim.<br/><br/>"arkadaşlar bugün çanakkale'deki ayışığı kitapevi'ne aldığım bir kitapta sorun çıktığı için, sorunu anlatmak üzere gittim ve arkadaşımla beraber kitap evinin sahibi tarafından sopayla darp edildik. konu ne olursa olsun haklı veyahut haksız, bir kadına asla şiddet uygulanmamalıdır. bu olay kitapevinin ilk icraatı değil - daha önce de benzer darp vakaları küfürlü sözlerle dükkandan kovma vs şeyler yaşanmıştır. malesef ki son da olmayacak bu gidişle. başka şehirlerden ailelelerimizin okumak için gönderdiği bizlere özellikle bir kadına, bana bu muameleyi reva gören insanlara lütfen itibar etmeyiniz. çanakkale'deki arkadaşlarımı boykota davet ediyorum. ayışığı kitapevinden bir daha kesinlikle bir kitap daha almayacağım. duyarlı olursanız mutlu olurum"<br/><br/>edit1: olayın mağdurundan mesaj geldi. benim de eksik yanlış aktardığım noktalar olduğu için bu mesajının yayınlanmasını rica etti. noktasına dokunmadan ekliyorum. <br/><br/>"kaşım açılmadi alnima sopayla vuruldu alnim acildi dükkan sahibi tarafından. dükkan çalışanı tarafindan boğazım sarildi kollarim sıkıldı. ayrıca belirteyim darp raporumuz var şikayetcide olduk. bazi yorumlarda erkek arkadaşımdan bahsedilmis onuda şöyle açıklayayim dükkan çalışanı erkek arkadaşıma saldirinca ben bir bayan olarak araya girdim bana vurmayacagini dusenerek yanlış düşünmüşüm. şiddetin her türlüsüne karşıyız bana da erkek arkadaşımada yapilan affedilemez. hakareti küfürü hatta itip kakmayi bile bi yere kadar anlamaya çalışırım ama bir sopayla darp çok farklı"<br/><br/>edit 2: öğrencinin yazdığından yola çıkarak kitapevi olarak başlık açtım (dükkanın ismi o şekilde yazılmıştır diye) kontrol edince orijinal isminin "ayışığı kitaplığı" olduğunu farkettim. başlığın düzeltilmesi için başvurumu da yaptım.<br/><br/>edit3: bir kitapçının sopa ile insanlara dalabileceğine inanamayanlar var doğal olarak. çünkü nasıl taksici, polis, öğretmen vs gibi yan iş olarak insanları darp edenler hakkında hiç bir şüphe duymuyorsak, konu pastacı, kahveci, kitapçı olunca "kesin müşteri kaşınmıştır" aha bak "özellikle kadın vurgusu yapmış kezban, haketmiştir" düşüncesine kapılanlar da olmuyor değil oluyor işte. olayı yaşayan kişi bir şekilde bana ulaşabildiği için, olayın öncesini de anlatmasını rica ettim kendisinden. eğer, gerçekten şahitler var ve yardımcı olmak isterlerse onları da olayı yaşayanlara yönlendirebilirim. evet tekrar aynen aktarıyorum.<br/><br/>"olayı kisaca şöyle anlatayım aldığım kitapla ilgili bir sorunum oldugu icin kitapciya gittik erkek arkadaşımla. sorunu dile getirdim dükkan sahibi ve çalışanı kitap hakkında sürekli başka şeyler söylediler beni dükkandn kovdular hakaret ve küfür ederek kitabi elimden aldilar sanki ne kadara aldin gibi sozler sarfederek para uzattilar boyle yapmalarina rağmen tartismak icin gitmedigimi ortadaki sorunu halletmeye calistigimi söyledim baktım olucak gibi değil parami isteyerek kitabi verdim çıkarken dukkan calisanin erkek arkadasimi ittigini gördüm kavga çıkmasın diye bana vurmaya calismayacagini düşünerek araya girdim banada saldırdı o sırada dükkan sahibi elinde yarım metrelik bir sopayla banada erkek arkadaşıma da saldırdı darp etti çevredeki insanlar ayırdı sonrasında zaten olay yerine polis geldi"<br/><br/>----<br/><br/>şimdi, ya bu hatun bazı yerlerde da yı ayrı yazıyor bazı yerlerde birleşik yazıyor o zaman sopayı hak etmiştir diyenler olacaktır. bu tür arkadaşlara naçizane bol zencefil ve zerdeçal tüketmelerini öneriyorum gri hücreleri artırıcı etkisi oluyormuş.
+   
+  entry_writer: akira
+- entry_name: |
+    birinin kitap okuyup okumadığını anlama yöntemi
+  entry_id: 58923370
+  entry_content: |
+    
+    kitap okumaktan kasıt çok kitap okumaksa o insanın çevresine bakın. çevresi çok geniş ve boş beleş kişiler ile arkadaşsa o kişi çok kitap okumuyordur. çok kitap okuyan insanlar diğer boş insanlardan sıkılıp kendilerine dost olarak kitapları seçerler. mesela ben üç arkadaşım var bu dünyada demek isterdim ama eskişehir'in yarısı arkadaşım amk..<br/><br/>edit: kitap okumayan cahil bir piç olduğumu iddia eden arkadaşım şu entryi oku demeyeceğim sen uzun entry bile okuyamazsın entrynin sonunu oku. (bkz: <a class="b" href="/entry/44991230">#44991230</a>) ben kitaplarımla para kazanmış adamım. kitapsız bir hayat düşünemiyorum. <br/><br/>edit2: evet kitap okuduğumu gözünüze soktum. amk salak dolu lan bu sözlük.
+   
+  entry_writer: asklepios26eses
+- entry_name: |
+    erdoğan'ın ak-saray'a kaplıca yaptırması
+  entry_id: 58927490
+  entry_content: |
+    
+    herhalde yakında bağımsızlığını ilan edip monaco gibi bir krallık kuracak.
+    
+  entry_writer: zirkarmen
+- entry_name: |
+    google'ın asıl amacı
+  entry_id: 58929801
+  entry_content: |
+    
+    orospudur..<br/><br/>dur lan yanlış oldu.
+   
+  entry_writer: galove
+- entry_name: |
+    sokak röportajlarında 47. saniyedeki aranan genç
+  entry_id: 58922764
+  entry_content: |
+    
+    bence videodaki çocuk bu.. kendini bir kıza denk getirmeye çalışıyor..  <br/>beğendim güzel taktik..
+   
+  entry_writer: kulbukirikcaydanlik
+- entry_name: |
+    ibb'nin gana'ya 30 tane otobüs hibe etmesi
+  entry_id: 58925145
+  entry_content: |
+    
+    dün iş çıkışı 76d'de uyuyakalmıştım arkadaşlar şu an gana'dan yazıyorum. verdikleri otobüsler bi boka benzemiyor sorun etmeyin. konsoloslukta tanıdığı olan varsa yeşillendirsin pls.
+    
+  entry_writer: melankomik
+- entry_name: |
+    ghostbusters
+  entry_id: 58929840
+  entry_content: |
+    
+    fragmanı izledim. 2016 versiyonun yapımı aşamasında emeği geçen herkesin allah belasını versin..<br/><br/>tanım: anılarımda bill murray, dan aykroyd, harold ramis ve ernie hudson'ın oynadığı iki efsane film ve commodore 64 günlerimin deli dehşet oyunu olarak kalacak hikaye....
+   
+  entry_writer: nevermindcrime
+- entry_name: |
+    en itici ünlü çiftler
+  entry_id: 58933816
+  entry_content: |
+    
+    rasim ozan kütahyalı-nagehan alçı
+    
+  entry_writer: mistiknik
+- entry_name: |
+    kız istemeye gidilen evde konunun siyasete gelmesi
+  entry_id: 58921628
+  entry_content: |
+    
+    sevgili esimi istemeye gittigimde basima gelmis korkunc olay.  <br/><br/>iki dayim var. biri 80 darbesinden sonra yaylalarda daglarda saklanmis, devaminda erdal inonu, ecevit, sarigul derken sol goruslu diye bilinen, bir donem koy muhtarligi ve partisinden ilce baskanligi falan yapmis biri. diger dayim da sulaledeki tek akp'li ve bir buyuksehirde ilce belediye baskanligi yapiyor. dogduklari gunden beri birbirine zitlasmak icin her seyi yapmis iki insan.<br/>soyle ki, bizim ilcede trabzonspor disinda bir takimin tutulmasi dahi teklif edilemez, bunlar icten ice trabzonsporlu olsa da birbirlerinin yaninda hala solcu olan gs, akp li olan fb li sekilde hayvan gibi kavga ederler. senede 3-4 dugun dernek cenazede denk gelirler ve onda da daima kavga ederler. kiz tarafi da farksiz degil, mecliste o kadar farkli gorusten adam bir arada degil anasini satayim.<br/><br/>neyse girisi uzun tuttuk finali hizli yapayim.<br/><br/>kiz istiyoruz, dakika henuz 10, kafami halidan daha kaldirmis degilim. bir ses dayimdan;<br/><br/>- akp' ye oy veren orospu cocugudur.<br/><br/>diger dayim altta kalir mi;<br/><br/>- asil oy vermeyene orospu cocugu demek bile yetmez, orospu cocugu iltifat gibi kalir.<br/><br/>komple ortamda bulunan herkesi orospu cocugu ilan etti dayilarim ama kizi verdiler, hala evliyim lan. inanilir gibi degil.<br/><br/>edit: anneannem de orada..
+   
+  entry_writer: janjoje
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id: 58922171
+  entry_content: |
+    
+     <a class="b" href="/?q=uyu%c5%9fturucu">uyuşturucu</a>nun öyle çok da ''tu-kaka'' birşey olmadığı, bağımlılığının da ‘bizim tahmin ettiğimiz gibi' bir şey olmadığı, onunla mücadele etmekte hata yaptığımız, bu sebeple uyuşturucunun kötü sonuçlar doğurduğu.<br/><br/>biliyorum, bu yukarıdaki cümle ‘biraz’ ürkütücü, mide bulandırıcı ve konudan tiksindirici bir cümle. özellikle uyuşturucu bağımlılarını, bu sebeple hayatlarını kaybedenleri, ailelerine ve çevresindeki herkese zarar verenleri falan düşününce. ayrıca uyuşturucunun insan vücuduna geri dönüşü olmayan zararlar verdiğini, sağlığa çok çok zararlı olduğunu ve uyuşturucu kullanmanın kesinlikle ‘tavsiye edilecek bir yönü'nün olmadığını hepimiz gibi ben de biliyorum. ama sizden ricam, bu metni sonuna kadar okuyun. okumadan önce de <a class="b" href="/?q=%c3%b6nyarg%c4%b1">önyargı</a>larınızı, konu ile ilgili <a class="b" href="/?q=g%c3%b6r%c3%bc%c5%9f">görüş</a>ünüzü ve daha önceden öğrendiklerinizi şuraya bırakın: ..................................................................................................................................<br/>yazının sonunda tekrar alabilirsiniz eğer isterseniz. teşekkürler. :)<br/>(ayrıca bu yine uzun bir yazı olacak, sabırla okuyup sonuna gelenlere şimdiden teşekkür ederim.)<br/><br/>şimdi başlangıç olarak <a class="b" href="/?q=eroin">eroin</a>i ele alalım. eroini ‘bildiğimiz şekliyle’ 20 gün kullanırsın ve vücudun vahşice uyuşturucu ister. çünkü uyuşturucunun içinde kimyasal ‘<a class="b" href="/?q=kanca">kanca</a>’lar vardır ve bu kancalar, seni uyuşturucuya daha çok bağlar.<br/><br/>ama ‘<a class="b" href="/?q=ba%c4%9f%c4%b1ml%c4%b1l%c4%b1k">bağımlılık</a>’ dediğimiz şeyle ilgili bildiklerimiz yanlış. mesela bir yerimizi kırdığımızda hastanede yattığımız süre boyunca bize bol miktarda ‘<a class="b" href="/?q=diasetilmorfin">diasetilmorfin</a>’ verirler. diasetilmorfin, eroindir. üstelik herhangi bir bağımlının arka sokaklarda bulabileceğinden daha güçlü bir eroin. çünkü uyuşturucu satıcılarının seyreltmek için kullandığı şeyler tarafından <a class="b" href="/?q=kontamine">kontamine</a> edilmemiştir. yani bu ‘<a class="b" href="/?q=kaliteli">kaliteli</a>’ uyuşturucudan <a class="b" href="/?q=hastane">hastane</a>lerde şuan bol miktarda bulunmaktadır. peki neden hastaneden çıkan insanlarda -bir tanesinde bile- uyuşturucu bağımlılığı oluşmuyor? <br/><br/>‘bağımlılık’ kavramının tam olarak anlaşılmasıyla ilgili 60'lı ve 70'li yıllarda bir dizi deney yapılmış. bu oldukça basit bir deney. bir <a class="b" href="/?q=fare">fare</a>yi bir kafese koyuyoruz, yine aynı kafese 2 su şişesi koyuyoruz. şişenin birinde su, diğerinde de su bazlı <a class="b" href="/?q=eroin">eroin</a> veya <a class="b" href="/?q=kokain">kokain</a> bulunuyor. bu deneyi ne kadar tekrarlarsanız tekrarlayın, fare sulu uyuşturucuya takıntılı hale gelecek ve normal suya ağzını dahi sürmeyecektir. üstelik buna kendini öldürene kadar devam edecektir.<br/><br/>fakat 1970’li yıllarda profesör <a class="b" href="/?q=bruce+k.+alexander">bruce k. alexander</a>, bu deneyi farklı bir şekilde denemek istedi. fareyi yapayalnız bir kafese koymanın fareyi uyuşturucuya ittiğini düşündü ve bir ‘<a class="b" href="/?q=fare+park%c4%b1">fare parkı</a>’ inşa etti.<br/><br/>bu park özetle fareler için bir <a class="b" href="/?q=cennet">cennet</a>ti. yemyeşil, kocaman bir alan içinde rengarenk toplar, içinde gezinmek için tüneller, bolca yiyecek, arkadaşlarıyla oynamak ve çiftleşmek için bolca zaman bulunan bu park, bir farenin isteyebileceği her şeyi barındırıyordu. ilk kafesten çıkarılan fare, arkadaşlarının bulunduğu bu parka konuldu. ve içeriye yine önceki kafeste olduğu gibi 2 şişe yerleştirildi. birinde uyuşturuculu su, diğerinde normal su. bilin bakalım ne oldu? evet, fare, içinde uyuşturucu bulunan suyu ısrarla tüketmek istemedi. parktaki onlarca fareden hiçbiri, kendini bu suyla zehirleyip öldürmeye kalkışmadı.<br/><br/>tamam, farelerden yola çıkmak biraz ‘<a class="b" href="/?q=basit">basit</a>’ oldu. insanlarla yapılan ‘gerçek’ bir deneyi ele alalım o halde. <a class="b" href="/?q=vietnam+sava%c5%9f%c4%b1">vietnam savaşı</a>’na gidiyoruz.<br/><br/>vietnam’daki amerikan askerlerinin %20’sinden fazlası eroin kullanıyordu. savaş bitip askerler evlerine dönmeye başladıklarında vatandaşlar ve devlet panikledi. çünkü düşününce yüzbinlerce <a class="b" href="/?q=esrarke%c5%9f">esrarkeş</a>, amerika sokaklarında başıboş bir şekilde dolaşmaya başlayacaktı. fakat durum böyle olmadı. bir araştırma komisyonu, evlerine dönen askerleri uzaktan takibe başladı. savaş sırasında yoğun olarak uyuşturucu kullanan askerler rehabilitasyona, kontrole falan gitmiyorlardı. üstelik uyuşturucu da kullanmıyorlardı. savaştan dönen uyuşturucu bağımlılarının %95’i, eve döndüklerinde eroin kullanmayı bıraktı. prof. alexander’ın <a class="b" href="/?q=teori">teori</a>si burada da işe yaramıştı.<br/><br/>şimdi bir düşünün. tanımadığınız bir ülkenin balta girmemiş ormanlarındasınız. oraya –kısmen de olsa- zorla götürülmüşsünüzdür. orada olmak istemezsiniz. her an ölebilirsiniz ve sürekli birilerini öldürmek <a class="b" href="/?q=zorunda">zorunda</a>sınızdır. eroin, böyle bir ortamda zaman geçirmek için güzel bir alternatif olarak görülebilir. fakat güzel evinize, arkadaşlarınızın ve ailenizin yanına döndüğünüzde, ilk kafesten çıkıp fare parkına bırakılan fare örneğindeki gibi uyuşturucu eski <a class="b" href="/?q=cazibe">cazibe</a>sini kaybeder.<br/><br/>işin özü özetle şu: ‘’kimyasallar tek başına sizi kendine bağlayamaz. sizin bağlanmak için bir şeye ihtiyacınız varsa uyuşturucu, bazı durumlarda <a class="b" href="/?q=%c3%a7ekici">çekici</a> hale gelir. hepsi bu.’’<br/><br/>yani ‘’<a class="b" href="/?q=ba%c4%9fl%c4%b1l%c4%b1k">bağlılık</a>’’ ve ‘’<a class="b" href="/?q=ba%c4%9flanmak">bağlanmak</a>’’ insan doğasında varolan bir durum. <a class="b" href="/?q=mutlu">mutlu</a> ve <a class="b" href="/?q=sa%c4%9fl%c4%b1kl%c4%b1">sağlıklı</a> olduğumuz zamanlarda çevremizdeki insanlarla <a class="b" href="/?q=ba%c4%9f">bağ</a> kurarız. ruhsal olarak olumsuz hissettiğimiz dönemlerde, toplum tarafından dışlanıp kendimizi izole ettiğimizde bize <a class="b" href="/?q=rahatlama">rahatlama</a> duygusu veren bir şeyle bağ kurmak durumundayız. bu sadece uyuşturucu olmak zorunda da değil her zaman. akıllı telefonları sınırsızca kontrol etmek, pornografi, vidyo oyunları ya da kumar da olabilir.<br/><br/>---------------------------------------------------------------------------------------------<br/><br/>şimdi bu ‘uyuşturucu’ sorununa farklı bir perspektiften bakalım.<br/><br/>1971 yılında amerikan başkanı <a class="b" href="/?q=richard+nixon">richard nixon</a>, ‘<a class="b" href="/?q=madde+ba%c4%9f%c4%b1ml%c4%b1l%c4%b1%c4%9f%c4%b1">madde bağımlılığı</a>’nı ‘bir numaralı <a class="b" href="/?q=halk+d%c3%bc%c5%9fman%c4%b1">halk düşmanı</a>’ ilan ettiğinde dünya tarihinde bir eşine daha rastlanmayan bir ‘<a class="b" href="/?q=uyu%c5%9fturucu+sava%c5%9f%c4%b1">uyuşturucu savaşı</a>’nın da fitilini ateşlemiş oldu. aradan geçen 45 yılda elimizdeki rakamlar bu ‘<a class="b" href="/?q=sava%c5%9f">savaş</a>’ın, aslında o kadar da etkili olmadığını, hatta zararlarının yıkıcı etkileri olan büyük bir <a class="b" href="/?q=ba%c5%9far%c4%b1s%c4%b1zl%c4%b1k">başarısızlık</a> olduğunu söylüyor. tüm dünya için.<br/><br/>yani amerika’daki toplu hapis cezalarına, latin amerika, asya ve avrupa’da yolsuzluğa, politik kararsızlığa ve şiddete sebep olduğu bir gerçek. ve tabii dünya çapında insan hakları suistimallerine sebep olduğu da. özetle bu savaş milyonlarca kişinin hayatını olumsuz yönde etkiledi, yüzbinlerce kişinin de katledilmesine sebep oldu.<br/><br/>üstelik bu sonuçları doğuran şey, <a class="b" href="/?q=amerika">amerika</a>’nın her yıl, yılda milyonlarca dolar harcayarak yaptığı ‘<a class="b" href="/?q=%c3%b6nlem">önlem</a>'lerle eskisinden daha güçlü uyuşturucu kartelleri yaratması ve onları daha da körüklemesi olurken, bugün gelinen durumda, eskiye oranla önüne geçilmesi daha zor etkilere kavuştu.<br/><br/>‘uyuşturucu savaşı’nın merkezinde yatan strateji, ‘’uyuşturucu yoksa sorun da yok’’tu. yani onlarca yıldır devlet tüm enerjisini varolan uyuşturucu kaynaklarının kökünü kurutmaya ve uyuşturucu üretip satanları tutuklamaya odakladı. fakat bu odak, tüm ticaret modellerinde geçerli olan ana kuralı hiçe sayan bir stratejiydi aslında. ‘<a class="b" href="/?q=arz+-+talep+dengesi">arz - talep dengesi</a>’. bu modele göre eğer talebi azaltmadan bir şeyin arzını (üretim ve tedarik) azaltırsanız, fiyatı yukarı fırlar. bu durumda birçok üründe satışlar düşebilir. ama söz konusu ürün uyuşturucuysa, onun satışında bir azalma göremezsiniz. uyuşturucu pazarı, fiyata hassas değildir. uyuşturucu, ne kadar pahalı olursa olsun tüketilmeye devam edecektir. <br/><br/>tabii bu durum <a class="b" href="/?q=illegal">illegal</a> yöntemlerle daha fazla uyuşturucu üretimine ve daha fazla insanın üretim ve tedarik aşamasında çalışmasına sebep oldu. çünkü talep hala aynı oranda fazlaydı ama arzı karşılamaya çalışan az miktardaki karteller, daha çok para kazanmak için daha çok insan gücü kullanmaya başlamıştı.<br/><br/>bunun mükemmel bir örneği de ‘<a class="b" href="/?q=metamfetamin">metamfetamin</a>’dir (<a class="b" href="/?q=kristal+meth">kristal meth</a>). abd yönetimi, bu uyuşturucunun üretilmesinde kullanılan malzemeleri sıkı denetime tabi tutarak üretimi durdurmaya çalıştı. bu durum, büyük metamfetamin üreticilerini iflasa sürükledi evet. ama çoğunluğu kasabalarda ve kırsal alanlarda bulunan küçük çaptaki binlerce ‘ev tipi <a class="b" href="/?q=meth">meth</a>’ üreticisi, denetlenmeyen kimyasallarla faaliyetlerine devam etti, üstelik ülkenin hemen her yerinde daha da çoğalarak. buna cevap olarak bazı eyaletler daha fazla kimyasalı denetime alarak ev yapımı metamfetamin stoklarını da azaltmayı denedi. bu durumda da küçük çaplı işletmelerin üretimi temelden sarsılmış oldu.<br/><br/>ama ülkedeki metamfetamin stoğu hala aynı düzeydeydi. <a class="b" href="/?q=meksika">meksika</a>’lı uyuşturucu kartelleri kalan metamfetamin üretimi işini devraldı ve üretim faaliyetlerini hızlandırdı. meksika metamfetamin’i amerika’nınkinden daha <a class="b" href="/?q=kaliteli">kaliteli</a>ydi ve meksika'lılar, <a class="b" href="/?q=ka%c3%a7ak%c3%a7%c4%b1l%c4%b1k">kaçakçılık</a> konusunda da bir hayli deneyime sahiptiler. sonuç olarak devletin harcadığı tüm bu enerji, sadece metamfetamin'in daha <a class="b" href="/?q=profesyonel">profesyonel</a>ce ve daha <a class="b" href="/?q=tesirli">tesirli</a> bir şekilde üretilip tüketiciye sunulmasını sağlamış oldu.<br/><br/>bu savaşı kazanmaya yönelik hamlelerin başarısızlıkla sonuçlandığı tek alan üretim ve tedarik süreçleri değil tabii ki. ‘<a class="b" href="/?q=yasak">yasak</a>’ kavramının insanların üzerindeki <a class="b" href="/?q=psikolojik">psikolojik</a> etkisi de her zaman geri tepmiştir. yani yasaklama, uyuşturucunun tesirini güçlendirir. küçük alanlarda daha etkili uyuşturucular saklayabilirseniz, daha çok kar edersiniz. alkolün yasaklandığı dönemlerde de bu böyle olmuştur. <a class="b" href="/?q=alkol">alkol</a> oranı yüksek olan <a class="b" href="/?q=lik%c3%b6r">likör</a>ün, yasaklı dönemde <a class="b" href="/?q=bira">bira</a>ya oranla daha çok tüketilmesine sebep olması bu duruma güzel bir örnektir.<br/><br/>bu savaşın bir diğer dezavantajı da dünya çapında daha fazla cinayete ve <a class="b" href="/?q=%c5%9fiddet">şiddet</a> olayının ortaya çıkmasına sebep olmasıdır. <a class="b" href="/?q=%c3%a7ete">çete</a>ler ve karteller, husumetleri çözmek için yasal yollara başvurmazlar. şiddet onlar için en temel çözümdür. araştırmalara göre amerika’nın uyuşturucuya açtığı savaş sonrasında cinayet oranları, öncesindeki döneme göre %75 artış göstermiştir. ve bu savaşın ön cephesinde bulunan meksika’da 2007 - 2014 yılları arasında 164.000 kişi, uyuşturucu kartelleri tarafından katledilmiştir. bu sayı, aynı dönem <a class="b" href="/?q=afganistan">afganistan</a> ve <a class="b" href="/?q=%c4%b1rak">ırak</a>’taki savaşlarda öldürülen insanların toplam sayısından fazla.<br/><br/>tabii bir de şiddete meyli olmayan bireysel tüketicilerin tutuklanması ve hapse atılması durumu var. amerika, dünya nüfusunun %5’ine sahipken, <a class="b" href="/?q=hapishane">hapishane</a> nüfusunda dünyadaki tutukluların %25’ine sahip. özellikle azınlıklar bu durumdan çok etkileniyor. <a class="b" href="/?q=afroamerika">afroamerika</a>’lılar abd’deki tüm tutukluların %40’ını oluşturuyor. yani ‘<a class="b" href="/?q=beyaz">beyaz</a>’ların uyuşturucuya ulaşması daha kolayken, ‘<a class="b" href="/?q=siyah">siyah</a>’ların uyuşturucudan <a class="b" href="/?q=tutuklanma">tutuklanma</a> ihtimalleri 10 kat daha fazla.<br/><br/>sonuç ortada. uyuşturucuyla mücadele, ilk aklımıza gelen yöntemle bir işe yaramıyor bunu anladık. peki ne yapabiliriz?<br/><br/>1980’li yıllarda <a class="b" href="/?q=isvi%c3%a7re">isviçre</a>, <a class="b" href="/?q=eroin">eroin</a> kullanımına bağlı olarak toplumsal bir sağlık krizi yaşadı. <a class="b" href="/?q=h%c4%b1v">hıv</a> virüsü bu dönemde tavan yaptı ve toplumsal suçlar aynı oranda halk arasında sıklıkla görülmeye başladı. isviçre’li yetkililer, bu sorunla mücadele etmek için abd’nin izlediği yolu izlemedi. farklı bir <a class="b" href="/?q=strateji">strateji</a> belirledi. daha ''<a class="b" href="/?q=insanc%c4%b1l">insancıl</a>'' bir strateji.<br/><br/>uyuşturucu bağımlılarının tedavi görüp durumlarını dengeleyebileceği <a class="b" href="/?q=rehabilitasyon">rehabilitasyon</a> merkezleri kurdular. burada bağımlılara yüksek kalitede ve tamamen <a class="b" href="/?q=%c3%bccretsiz">ücretsiz</a> uyuşturucu sağlanmaya devam edildi. temiz <a class="b" href="/?q=i%c4%9fne">iğne</a>lerle, güvenli <a class="b" href="/?q=enjeksiyon">enjeksiyon</a> odalarıyla, banyoları, yatakları, düzenli sağlık kontrolleriyle tamamen <a class="b" href="/?q=devlet+kontrol%c3%bc">devlet kontrolü</a> altında insanlar uyuşturucularını kullanmaya devam ettiler. bu merkezdeki görevliler bağımlılara ev buldu, hayatlarındaki düzensizlikleri yok etmek için ellerinden geleni yaptı. ve tahmin edersiniz ki <a class="b" href="/?q=olumlu">olumlu</a> sonuçlar çok kısa sürede görülmeye başladı.<br/><br/>uyuşturucu yüzünden oluşmaya başlayan suçlar keskin bir şekilde düştü, merkezlerde yaşamaya başlayan kişilerin üçte ikisi kısa sürede toplum hayatına tekrar entegre edilip sürekli işlere girdi. çünkü artık uyuşturucuya para harcamaya uğraşmak yerine daha iyi şeylere odaklanabiliyorlardı. bugün isviçre’deki bağımlıların %70’i bu merkezlerde devlet tarafından ücretsiz sağlanan uyuşturucuyla hayatlarına devam ediyor. ama bu kısa süreli rehabilitasyon sürecinden sonra eroin'den tamamen arınıyorlar. hıv enfeksiyonunun yayılımı tamamen durdu. aşırı eroin dozları yüzünden ölümler yarı yarıya düştü. ve uyuşturucuya bağlı <a class="b" href="/?q=fuhu%c5%9f">fuhuş</a> ve <a class="b" href="/?q=su%c3%a7">suç</a> işleme oranı da gözle görülür şekilde azaldı.<br/><br/>yani görece daha ‘<a class="b" href="/?q=pahal%c4%b1">pahalı</a>’ olan bir yolu seçmek, uyuşturucuya ve ona olan bağımlılığa karşı savaşmakta en etkili yöntem olarak görülüyor. uyuşturucuyu yasaklamak insan haklarını hiçe sayan, insanları sefil durumda ve toplumdan dışlanmış şekilde bırakan, aynı zamanda yine çok büyük masraf çıkaran bir yöntem.<br/><br/>özetle, bağımlılıktan insanları kurtamanın yolu, onları hapse tıkmak değil, tedavilerine yardımcı olmaktan geçiyor. ayrıca bağımlılığı yaratan etkileri baştan yok edebilmek, -şuan hayal bile olsa- ‘’insanlar için fare parkları’’ inşa edebilmek, uyuşturucunun insanlara cazip gelmesini baştan engelleyebileceğini de bilmek gerek.<br/><br/>bu uzun yazının kaynağı ''<a class="b" href="/?q=kurzgesagt">kurzgesagt</a>'' adlı <a class="b" href="/?q=youtube">youtube</a> kanalının iki vidyosunun derlemesidir. başınızı ağrıttım, kusura bakmayın. yukarıya bıraktığınız önyargılarınız buradan alabilirsiniz............................................................................................................ :)<br/><br/>‘’<a class="b" href="/?q=ba%c4%9f%c4%b1ml%c4%b1l%c4%b1k">bağımlılık</a>’’ konusuna farklı bir perspektiften bakan ve yukarıda yazılı her şeyi içeren vidyo <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/ao8L-0nSYzg" title="https://youtu.be/ao8L-0nSYzg">burada</a><br/><br/>‘’uyuşturucuyla savaş’’ın büyük bir başarısızlık örneği olduğunu anlatan ve yine yukarıda yazan her şeyi içeren vidyo da <a rel="nofollow" class="url" target="_blank" href="https://youtu.be/wJUXLqNHCaI" title="https://youtu.be/wJUXLqNHCaI">burada</a>
+   
+  entry_writer: remineralizasyon
+- entry_name: |
+    aşırı solcu üniversite 1. sınıf öğrencisi
+  entry_id: 58922065
+  entry_content: |
+    
+    bu tek taraflı, yalnızca solda yahut seküler kesimde olan bir şey değil. muhafazakar çevrenin okulları ve ilh'lerde de benzer durum var. kendimden örnek vereyim izninizle::<br/><br/>muhafazakar cenahın kız evlatlarını 'eğitimli anne' olmaları için göndermeyi tercih ettikleri bir liseden mezun oldum. öylesine steril, izole bir yatılı okul. ilk sene akşamları içtiğimiz çaylara katık edilen sohbetler oldukça 'light' iken, son sene artık fıkıh ve siyer bilgimi semirtmiştim. lise sonların sohbetleri, üniversiteye geçtiğimizde karşılaşacağımız çeşitli iman problemlerine-sorularına vereceğimiz gerekli cevaplardan ibaretti. farazi, elimde bir tüfeng, sırtımda bir heybe vardı cephane niyetine. sohbet donelerini öğrendikçe, sanki uçuşan o şeyleri havada kapıp heybeme atıyordum. yeri ve zamanı gelince bedir'in aslanları gibi savaşacaktım küffar zihinlerle. kendim iman zırhını kuşanmıştım ne de olsa. emindim. o yeah! okul devam ederken, eşe-dosta, aileye verdiğimiz iman ayarları tatmin etmiyordu açıkcası. 'namaz kılarken bileğin görünüyor anne', 'imsak saatinden şu kadar salise sonra yeme-içme bırakılmalı abi' diye çemkirebiliyordum en fazla. etrafta zülfikar gibi dolanıyordum ama muhataplarım da muhafazakardı. asksjsj. <br/><br/>yaz geldi. sonuçlar belli oldu. dış dünyaya çıktık. okullara yerleştik. zaman geçiyordu. heybemin ağırlığı hala belimi geri çekiyordu ama ortalıkta <a class="b" href="/?q=emr-i+bil+maruf+nehy-i+anil+m%c3%bcnker">emr-i bil maruf nehy-i anil münker</a> yapacağım kimseler yoktu la. yani belki vardı ama milenyuma girmiştik ve bizim sohbetlerde öğrendiğimiz referanslar ve metodlar 1930'lardandı. karşılığı yoktu. ondan daha da önemlisi, ben muhatap olarak her hafta bir <a class="b" href="/?q=dinsiz-imans%c4%b1z">dinsiz-imansız</a> ve dahi <a class="b" href="/?q=gominist">gominist</a>ile karşılaşmayı bekliyordum ama insanlar öyle değildi ki. kah cehape kadın kolları fönlü bir teyze ile firüz ağa camiinin kadınlar mahfilinde karşılaşıyordum kah koro şefi olan bir amcanın umreden geldiğini öğreniyordum. insanlar kendinlerince dinlerini yaşıyorlardı ama bunun görünür-afişe olması için kendilerini yırtmıyorlardı. heybemdeki bilgiler, gereksiz, bir o kadar da demode idi. büyükbakkalköy füze müfreze alayında 1960 yılından beri bekletilen nato füzeleri gibiydiler adeta. <br/><br/>bir defa kullanmaz mı onca şeyi insan bir fırsat bulup da? kullanamadım yahu. sonra da saçma geldi bana zaten. sonra sonra başka bir şeyi kavradım: tüm bunlar, yetiştiğim çevrenin beni <a class="b" href="/?q=%c3%b6teki">öteki</a>lerden uzak tutmak için kurguladığı bir donanım idi. herkese 'benden farklı bu' diye yaklaşmak aslında öyle mutsuzluk verici bir şey ki. hayatın lezzetini öyle bir çekip alıyor ki insandan. üstü jiletle kazınmış bir dil düşünün. insana yediği-içtiği hiçbir şeyden lezzet aldırmayan. sürekli çemkiren. anı ve geleceği hep kaygı ile gören.. tam öyle bir insan olup çıktım. neyse ki kurtuldum o halden zamanla, zor bela da olsa. <br/><br/>bunun bir de ihl versiyonu var. tebliğ derdi olmayan, tekfirci, herkesi daha hakir gören. tebliğ ekolü en azından iyi olanı merkeze alıp o yana yönlendirmeye çalışır. 'şunları şunları yaparsak böyle de iyi mümin oluruz' stayla. ahmet yesevi ekolü mü desem, türk-islam ekolü mü desem ne desem bilemedim. bu arkadaşlarda ise merkezde 'hayır-olmaz-yasak' kelimeleri var. adamlar tüm lise hayatları boyunca tekfir edilmesi gereken şeyler üzerine eğitim alıyorlar. olumsuz vakalar üzerinden motive oluyorlar. iş en son sadece kendi gibilere "müslüman, diğerleri "müslüman olmayan" diye tasnif etmeye geliyor. cürete bak. orada burada, her fırsatta 'abi müslüman adamız biz' demelerinden anlaşılır zaten tavırları. <br/><br/>ayh neyse. yazarken dahi içim şişti. sanırım yeterince uzun anlatıp, bunun solculara has bir şey olmadığını ifade edebildim.
+   
+  entry_writer: hidrellez
+- entry_name: |
+    erdoğan'ın kılıçdaroğlu'nu dürüstlüğe davet etmesi
+  entry_id: 58934845
+  entry_content: |
+    
+    ar damarı çatlamış bir meczubun zırvalamasıdır.
+    
+  entry_writer: bendenbaskabiri
+- entry_name: |
+    linkedin'de çay yüzünden çıkan ilginç tartışma
+  entry_id: 58939559
+  entry_content: |
+    
+    ortamlarda sorsan da hepsinin en sevdiği film de fight club'tır ha!!<br/><br/>kişisel gelişim kitaplarında okudukları zırvaları kendi yaşanmışlıkları, fikirleri ya da hayat prensipleriymiş gibi anlatıp profesyonel görünmeye, prim yapmaya çalışan bir avuç beyaz yakalı kölenin tiyatrosu <br/><br/>karakterler:<br/>tülay : ofiste klima savaşlarını yapan kişi . <br/>salih : meslekteki 20. yılına rağmen hala müdür olamamış, tecrübeleriyle egosunu tatmin eden ofisin deneyimlisi.<br/>arzu : hergün meeting set edip konsörnleri konuşan mba'lı abla.<br/>haldun: stajyerliği yeni bitmiş ve şirkette yer edinmeye çalışan yalaka.<br/>nazan : linkedin'in yılmaz özdil'i... ... ...<br/>belma : başka şirketten yeni geçiş yapmış ve otorite kurmaya çalışan yönetici adayı.<br/>ferhat: iş ortamında efendi adamlar yerine tercih edilen piç bu.<br/>hasan: şirketin badem bıyıklısı.<br/>adem: fizik okurken kafayı sıyırıp sonra iş bulamayınca finans sektörüne giren adam.<br/>mutlu: en alt tarafta en yapıcı yorumu yapan adam gibi adam.<br/>aykut: bariz ekşici.
+   
+  entry_writer: emre islekk
+- entry_name: |
+    türkiye'nin yetiştirdiği en yalnız adam
+  entry_id: 58927959
+  entry_content: |
+    
+    kimse yetiştirmemiştir, kendi kendinee<sup class="ab"><a title="(bkz: yalnız)" href="/?q=yaln%c4%b1z" data-query="yalnız">*</a></sup> yetişmiştir.
+   
+  entry_writer: derelerde tepelerde kaybolmak istiyorum
+- entry_name: |
+    3 mart 2016 fenerbahçe amed sportif maçı
+  entry_id: 58923807
+  entry_content: |
+    
+    ---- verildi -----<br/><br/><a class="b" href="/?q=l%c3%b6sev">lösev</a>'e cep telefonundan 3406'a boş mesaj göndererek 10tl bağış yapıp ekran görüntüsünü paylaşan ilk kişiye maraton üst g blok kombinemi devredeceğim maç.<br/><br/>---- / verildi ----
+   
+  entry_writer: tombalaci
+- entry_name: |
+    22 cm ve yalnız olmak
+  entry_id: 58924354
+  entry_content: |
+    
+    bir kaburgasını aldırması gereken insan beyanı.
+    
+  entry_writer: biyolojik saat tamircisi
+- entry_name: |
+    muhteşem yüzyıl kösem
+  entry_id: 58937662
+  entry_content: |
+    
+    ahmet'in ''ilerleyen zamanlarda seni vezir-i azam olarak görmek isterim ama şu an sana cephede serdar olarak ihtiyacım var'' dediği sırada, kuyucu murat paşa'nın gözlerindeki ''100 yaşına geldim amk, daha ne ilerisi'' ifadesi dikkatlerden kaçmadı..<br/><br/>ayrıca murat paşa'nın genel olarak sergilediği ''şu liseli bi sussa da işimize gücümüze baksak'' tavrını çok beğeniyorum.
+   
+  entry_writer: dunyanin en buzin seven insani
+- entry_name: |
+    müslüm gürses
+  entry_id: 58925814
+  entry_content: |
+    
+    sokak muhabirlerinden birisi müslüm gürses'i program çıkışında mekanın kapısında yakalar ve sorarr<br/><br/>- müslüm baba. korsan kaset satanlar hakkında ne diyeceksiniz ?<br/><br/>el-cevab<br/>- onlarda eve ekmek götürüyor.<br/><br/>bakın korsan kasette müslüm gürses her zaman başı çekmiştir. 3 tekerlekli seyyar korsan tezgahlarında en çok müslüm gürses'in kasetleri olmuştur. en büyük zararı o çekmiştir. <br/>ve şu cevaba bakın. insanlığa bakın.
+   
+  entry_writer: nardugan
+- entry_name: |
+    chp'li vekilin barda basın toplantısı yapması
+  entry_id: 58930117
+  entry_content: |
+    
+    "akpli bakan oy istemek için tekirdağ meyhanelerini dolaşırken hiç gülmüyordunuz" ama dediğim haber
+    
+  entry_writer: komisario palmu
+- entry_name: |
+    fenerbahçe
+  entry_id: 58926721
+  entry_content: |
+    
+    beşiktaşlılardan bir isteğim var. 20 defa sordum şu sorulara cevap istiyorum. sonra takımım hakkında ne derseniz deyin::<br/><br/>1- cenk koray'ın girişimiyle beşiktaşa verilen 2 şampiyonluk. neden mi bu kadar takıyoruz? rakiplerin senden şampiyonluk sayısı olarak üstün olduğu zaman ortaya çıkan bir şey. eğer doğru diyorsan sana 4 tane daha fenere 9 tane galatasaraya ise 4 tane ekstra şampiyonluk verilmesi gerekiyor (yerel ligler) verildi mi hayır? fener kampanyalar başlattı ama ses seda yok. ulusoy döneminden hediye. <br/><br/>tff, mhk diyorsun sana soruyorum: hangi takıma bu kadar büyük kıyak yapılmış? sen şeref, onur, duruş diyorsun, bunu yakıştırabiliyorsan zaten tartışacak bir şey yok. biz napalım dersen sadaka mı veriyorsun, biz bu şampiyonlukları istemiyoruz diye sesini çıkartırsın ama susacaksın yine<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://galeri.uludagsozluk.com/37/beşiktaş-a-hibe-edilen-2-şampiyonluk_116316.jpg" title="https://galeri.uludagsozluk.com/37/beşiktaş-a-hibe-edilen-2-şampiyonluk_116316.jpg">buyrun</a><br/><br/>2- başarıdan bahsediyoruz hadi geçtik 20 yılda 2 şampiyonluğu da, türkiye ligini de. avrupada en son 2002-03 yılında çeyrek final görmüşsün. (ne tesadüftür eleyen takım lazio) 15 yıl olmuş ne avrupa başarın var diye sorarlar adama. chelsea'yi 10 kişi yenmek ya da liverpool'u mu elemek? 8-0 ları fln yazmama gerek bile yok. ligde yoksun, avrupada yoksun sonrada, başarıdan, büyüklükten bahsediyorsun.<br/><br/>fener avrupada kötü ama 10 senedir sağlam toparlama var. 2007de ş.liginde ç.final, bir golle yarı final kapısından dönülmüş, 2012 uefa yarı final yine tek golle finalin kapısından dönülmüş, bu sene yine bir çeyrek final gözüküyor. bak bunlar haksız yere 3 sene (2 şampiyonlar ligi+1 uefa) avrupaya gönderilememize rağmen gelen başarılar. 10 senede <br/><br/>ş.ligi 1 çeyrek final<br/>ş.ligi 1.turda elenme<br/>uefa 1 üst tur<br/>uefa yarı final <br/>uefa 2.tur (şimdilik)<br/>3 yıl men<br/>senin başarın ne?<br/><br/>lige bakıyoruz(2.yarılar baz alınarak yılları belirttim):<br/><br/>96: 3.cü<br/>97: 2.ci<br/>98: 6.cı<br/>99: 2.ci<br/>2000: 2.ci<br/>2001: 4.cü<br/>2002: 3.cü<br/>2003: şampiyon<br/>2004: 3.cü<br/>2005: 4.cü<br/>2006: 3.cü<br/>2007: 2.ci<br/>2008: 3.cü<br/>2009: şampiyon<br/>2010: 4.cü<br/>2011: 5.ci <br/>(play offta sonuncu)<br/>2012: 3.cü<br/>2013: 3.cü<br/>2014: 3.cü<br/>2015: 3.cü<br/>20 senede şerefli 2.ciliği bile 4 kere alabilmişsin. şampiyonluk 2 <br/><br/>3- şike göndermesine gelecek olursak, yukarıda yazmıştım, tayfur yani teknik direktör'ün içeride yattı, yöneticin adalı yattı. sözde şov yaparak, kupayı verir gibi yaptın veremedin de. buna şerefli duruş dediniz bir de. tff başında demirören olmasa haliniz ne olacaktı kim bilir. insan şundan utanır, sevin sevmeyin adam beşiktaşlı, tff seçimlerinde kulüp olarak destek veriyorsun. ne yüzsüz adamlarsınız, siz açıkça şike yapmış olabiliriz o yüzden iyi halden yırtalım, kupayı da teslim ederiz diye onurlu! bir duruş sergilemiş adamlarsınız. biz inanmadık haklı da çıktık<br/><br/>4- şampiyon olamasan da şampiyonluğu belirleyecek maçlarda hep rakip takıma ikramda bulundun. cordoba'nın galatasaray maçında isminin şike ile anılmasından dolayı gönderdin. mecbur kaldın. 2010 yılında şampiyonluk maçında bursa karşısına paf takımla çıktın. bak bunu fener ya da galatasaray yapmış olsa mahkemelere kadar taşırdınız durumu. bunu yapma nedenin de bursayla buzları eritmekti (düşmesine neden olduğunuz için)<br/>şampiyonluktan sonraki sene bursa'ya geldi taraftarınız ve sokak dayağı yiyerek geri kaçtı. yani onlara da yaranamadınız. <br/><br/>5- taraftarın tepkileri ile işten çıkartma rezilliklerin de var. sorsan halkın takımı, işçi sınıfı yanındasındır ama adam sırf fenerli diye şikayetle, linç girişimleriyle işinden ediyrsun ve dayak yemedeniğine, öldürülmediğine şükretsin diyorsun.<br/><br/>6- fener taraftarı seba'ya küfretti diyorsun. bak ilk önce fikret orman: "seba o kadar abartılacak biri değil" diye açıklama yapıyor, ayrıca yine linkini atıyorum beşiktaş taraftarı seba'ya bombalı tehditler yağdırıyor, polis koruması talep etmek zorunda kalıyor seba. <br/><br/>ha şimdi taraftar bu, hepsi aynı olamaz, genelleme yapma diyorsan başlık açıp o başlıklarda da ağlamayacaksın, yok fener taraftarı sebaya küfür etti diye. ayrıca ali sami yen'e de küfür eden yine beşiktaşlılar:<br/><br/>"beşiktaş'ın ligde aldığı kötü sonuçlardan sonra kupadan da elenmesine öfkelenen taraftarların tepkisi giderek büyürken, başkan süleyman seba'ya da tehdit telefonları ve faksları yağmaya başladı. kulübe bomba ihbarı da yapılırken, evine de tehdit telefonu gelen seba, kulübe polis otosunda gitti ve yakın korumaya alındı."<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.milliyet.com.tr/1999/12/17/spor/abjk.html" title="http://www.milliyet.com.tr/1999/12/17/spor/abjk.html">seba'ya tehdit</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://scontent-amt2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12821595_974978952555177_1661995288273877271_n.jpg?oh=15c136a6a203f0de0f8414f3cb959c5b&oe=57621DCC1DCC" title="https://scontent-amt2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12821595_974978952555177_1661995288273877271_n.jpg?oh=15c136a6a203f0de0f8414f3cb959c5b&oe=57621DCC1DCC">link</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.hurriyet.com.tr/fikret-orman-suleyman-sebayi-abartmayin-27251377?noMobile=true" title="http://www.hurriyet.com.tr/fikret-orman-suleyman-sebayi-abartmayin-27251377?noMobile=true">link 2</a><br/><br/>7- hava dumuna ağladınız, sis düştü hep fenerasyon, isteseler başka saate alabilir. avrupada maçın yok kupadan eleneceksin zaten taraftarın da mutlu ama iyi lige konsantre olalım diyorsun. fener zemin beğenmeyince de tffden kıyak istedi. bu kadar ağlaklık, iki yüzlülük olabilir mi? hava şartlarıyla fenerin ne ilgisi var? bahanen mi yok? sen trabzona gittin kar yüzünden oynayamadın ama ben o statda taşlar sopalar yağarken direkler sökülürken maç yaptım, 6 saat hapis kaldım bu kadar ağlamadım, başkasına bağlamadım. <br/><br/>8- hakem diyenler sezonun ilk yarısı, tolga'nın ceza sahasında topu elle alması, fener maçında 2 golün nizami olmaması ya da kayırmalara sesini çıkartamazken şimdi sıkıştıkları zaman hakem hakem diye ağlıyor. bak bir de fenerli oyuncu son adamı düşürmüyor, kasti tekme atmıyor (beck'in attığı ve içinde döndürdüğü tekmeye benzer bir tane hareket yok) şenol güneş her hafta hakem diyor. sen hakem bizim önümüzü kesmesin yeter derken, aa adam hakeme küfür etti, elini kaldırdı diye kendine kırmızı verilse ortalığı ayağa kaldıracakken, açık açık hakemden yardım bekliyorsun. rvp'nin pozisyonuna bile sesini çıkmıyor. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/Fener10line/videos/1137318082967493/" title="https://www.facebook.com/Fener10line/videos/1137318082967493/">alın hakem</a><br/><br/>9- çarşı gurubu diye bir oluumları var bunların, beşiktaşta fener-gs forması varsa yırtıp alırlar üstüne de döverler ve bunla gurur duyarlar. ergen mhpli gençlik kafası tam. kızları da vardır ana avrat küfür eder, beste yapar. fener maçı öncesi japon bayrağı da açtılar. galatasaray maçında sahaya da indiler. görevlilere sandalyelerle saldırdılar. yani çıkıp taraftarlara laf söyleyeceğine kendi taraftarının yaptıklarına da bakacaksın. ya genelleme yapmayacaksın ya da yapıyorsan benim aşağıda verdiğim linklere tek tek açıklama yazarsın.<br/><br/>10- fener'in hükümet yalakalığından bahsetmişler. vizyon toplantısında orman'dan aysal'a demirören'e hepsi vardı, sevmediğimiz aziz hariç. senin başkanın tayyip'in vizyon toplantısında bu adamlarla yanyana işi ne diye sorarlar adama: <br/>çok link atıldı, hükümetle işimiz olmaz dendi. bak fikret orman'ın kimlerle fotoğrafı var. yani çıkıp şereften bahsetmeyin şu fotoğrafları hazmedin. biz çıkıp alex'le beraber tayyip ile fotoğraf çektiren aziz'i savunmuyoruz. ama orman adamdır kimseye eyvallahı olmaz diyorsan şu fotoğrafları açıkla önce:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://media-cdn.t24.com.tr/media/stories/2014/07/page_vizyon-toplantisinda-aysal-ve-orman-var-aziz-yildirim-yok_077437603.jpg" title="http://media-cdn.t24.com.tr/media/stories/2014/07/page_vizyon-toplantisinda-aysal-ve-orman-var-aziz-yildirim-yok_077437603.jpg">link</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.rotahaber.com/spor/basbakan-davutoglu-ormani-kabul-etti-h515258.html" title="http://www.rotahaber.com/spor/basbakan-davutoglu-ormani-kabul-etti-h515258.html">davutoğlu</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://img.haberler.com/haber/151/milletvekilleri-butce-gorusmelerine-besiktas-5419151_6406_o.jpg" title="http://img.haberler.com/haber/151/milletvekilleri-butce-gorusmelerine-besiktas-5419151_6406_o.jpg">milletvekilleri</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://d.haberciniz.biz/other/fikret-ormandan-ankara-buyuksehir-belediye-baskani-gokceke-ziyaret-IHA-20150121AW304176-5-t.jpg" title="http://d.haberciniz.biz/other/fikret-ormandan-ankara-buyuksehir-belediye-baskani-gokceke-ziyaret-IHA-20150121AW304176-5-t.jpg">gökçek</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.abdullahgul.gen.tr/resize.aspx?d=%5Ccontent%5Chaber-2013/2013-08-28-Bjk-01.jpg&w=500&h=400&ngr=100&amp;ngr=1" title="http://www.abdullahgul.gen.tr/resize.aspx?d=%5Ccontent%5Chaber-2013/2013-08-28-Bjk-01.jpg&w=500&h=400&ngr=100&amp;ngr=1">gül</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://img.a24.com.tr/hbrResim/Fikret-Orman-Cumhurbaskanimiza-borcumuz-var.jpeg" title="http://img.a24.com.tr/hbrResim/Fikret-Orman-Cumhurbaskanimiza-borcumuz-var.jpeg">cumhurbaşkanına borcumuz var</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.sacitaslan.com/f3/218_88954.jpg" title="http://www.sacitaslan.com/f3/218_88954.jpg">tayyip'e pankart</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://gazeteport.com/haber/images/n/132361552386093.jpg" title="http://gazeteport.com/haber/images/n/132361552386093.jpg">beşiktaşlı futbolcular geçmiş olsun başbakanım</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://yurtgazetesi.com.tr/images/upload/kazlicesme cakma carsi.Jpeg" title="http://yurtgazetesi.com.tr/images/upload/kazlicesme cakma carsi.Jpeg">çarşı</a><br/><br/>edit: magduriyet isteyenler, hangi takımın otobüsüne komplo düzenlendi? profesyonel şekilde bütün otobüsü viyadükte aşağı yuvarlanması için planlı bir saldırı oldu, ya da oyuncularımızın arabalarına bile ateş edildi. araştırılmıyor, taş, yorgun kurşun diye geçiştiriliyor. şike davası sadece aziz'in üstüne yıkıldı, tek fenerbahçe hedef alındı. söz verilen arsalar, şartlar yerine getirilse de verilmedi. ama dilenmedik, kendi stadımızı yaptık, stad stad gezmedik, amatör branşlarda bile kendi stadımızı yapıyoruz. arsız değiliz. eski başkanımızı hükümetle bağların kullanacak şekilde tffde bir yrlere getirmiyoruz ya da tapelerle dinleyebildiğimiz şekilde ısmarlama başkan adayları, fenerbahçe başkanı yapılmaya çalışıldı.
+   
+  entry_writer: kaedeoky
+- entry_name: |
+    survivor 2016
+  entry_id: 58926952
+  entry_content: |
+    
+    ya buraya gelip uzun uzun semih'i haksız, kötü göstermeye çabalayanları ben anlamıyorum..<br/><br/>arkadaşlar siz yazılanları okumuyorsunuz heralde semih muhteşem biri, iyilik meleği falan demiyor kimse. bu yüzden destekliyorum diyen de yok. ne bu 'ay bu kadar kötü insanı nasıl desteklersiniz?!1!' saçmalığı ?<br/><br/>bakın tane tane anlatıyorum. bu adamın ismine ütopya'yı hiç izlemeyenler bile en kötü twitter'da denk gelmiştir. büyük bir hayran kitlesinin yanında nefret edeni de çoktu ki yarışmayı tuncay kazandı. ortalığı karıştıran bir karakterdi. fakat survivor'da ilk hafta izleyenler dikkat etti mi bilmiyorum kendisi 'yanıma 4-5 kişi alsam yürürüz zaten diğerleri de farkedene kadar çoğu gitmiş olur' gibi bir şeyler söyledi. adam ben strateji yapacam burası ütopya'dan daha kolay bile dedi ya ekranda :))) yani semih'e yüklenmeselerdi de şuanki gibi olmayacaktı habire bunu söyleyen arkadaşlar daha başka olacaktı. adamın amacı böyle tek kalmak değildi çünkü. <br/><br/>ama neler oldu hepiniz gördünüz. önce efecan denen değişik buna daha adaya gelmeden saldırdı. adaya geldiler serkay etrafına milleti toplayıp zaten 'önyargı iyi bişey değil ama nasıl biri olduğu ortada' demeye başladı. gizem kerimoğlu 'lan biraz muhabbet kurayım belki de bunların dediği kadar kötü biri değil' dedi kendi kendine kurdu da ama serkay anında kıza 'satış yapıyosun' imasında bulundu. bunlar daha ortada bir şey yokken olanlar. sonra semih bir iş yapmıyo diyerek kavga çıkardılar burda birisi atmıştı açın izleyin adam 100 metre ötede yatıyor bağırıyolar odun atmadan yemek yiyemezsin diye gelip diyo ki 'abi bana salça olup durmayın nihal anlatsın yardım ettim ben bulaşıklara' nihal de söyledim diyor serkay efendinin ağzından çıkan cümle şu; 'bulaşığı annem de yıkar'. ulan ateşi babam da yakar o zaman bu nasıl bir kıyaslamadır arkadaş? adam bir şey yaptım diyor yok illa ateşe odun atacan. amaç da belli istediklerini yaptırsınlar da yüce egoları azcık okşansın. 'atmadan yiyemezsin'i on kez tekrarladı herifler bu da 'ne yapıyonuz yemeğe benimkini ayırın kardeşim o barakayı da biz ibo'yla yaptık boşaltın o zaman orayı' dedi. serkay efendi küfüre başladı ne dedi tam bilmiyorum malum bip. gitti semih'in çantasını tekmeledi senin yaptığın yer burası diyip çantalarını dayadığı odunu kırdı. küfürler, sataşmalar, semih'in üstüne yürümeler... efecan malının -mal diyorum izleyin göreceksiniz bu kelimeyi bu kadar hakeden birisi olmamıştı- 'yavruşkom' diyerek bunun sırtına sırtına alenen vurması, bunun da dayanamayıp 'sana bi çakarım' demesi üzerine 'çaksana çaksana'ları akabinde efsane son vuruş tabii ki 'yemeğini yere dökeceğiz yerden yala' demeleri...<br/><br/>adam konseyde bunların hepsini anlatmadı hatta muhtemelen 'yemeğini yerden yala' kısmını söylemeyecekti bile ama über zeka serkay konuyu açtı, pası attı ve semih de goooool yaptı. semih'in 'bana yaptıkları saygısızlıklar' dediği şeylerin büyük bir kısmını bunlar oluşturuyor. aylin hanım kızımız bunlara ses etmedi bi de üstüne 'sen kötü kalplisin' diyerek sonunu hazırlamıştı zaten diğerleri gibi. <br/><br/>yahu bu adam bayıldı diye sevgi pıtırcıkları 'ay bu oyunu kazanalım semih'e armağan edelim' diyorlardı semih konseyde bunları öyle rezil etti ki gece 'bayıldı kaldı bi de ahahaha' oldular. bir kadına 'bet suratlı' demekte hiçbir beis görmediler. sırf onlardan değil diye üstelik. 'bundan sonra bayılınca tek başınasın, semih sarardın yine bayılıp kalma' diyen insanları desteklemeyeceğim ben arkadaşım. semih dünyanın en kötü insanı bile olsa bunları duymayı haketmedi. nasıl oluyorsa bunları söyleyenler nazarınızda sadece 'aptallar' oluyorlar ama semih zaten hiç kimsenin 'hayt be aslanım, aferin' demediği aksine seyirciye oynadığını bildiği ama buna gülmeyi tercih ettiği şiir okuma, size bu milletin değerlerini öğretecem deme gibi davranışlar sergileyince bütün yapılanları görmezden gelip destekleyenleri o.ç ilan edebiliyorsunuz. <br/><br/>desteklemeye devam edeceğim arkadaşım. parmaklarını boşa yorma.
+   
+  entry_writer: sorunsuzum
+- entry_name: |
+    denys boyko
+  entry_id: 58936811
+  entry_content: |
+    
+    o güzel  <a class="b" href="/?q=ospina">ospina</a>lar o güzel yedek kulübelerine oturup gelmediler,<br/>tolga'nın nazlısına, ukrayna'nın kovasına kaldık...
+   
+  entry_writer: the gangbang theory
+- entry_name: |
+    itü fizik bölümünün verdiği sübliminal mesaj
+  entry_id: 58939540
+  entry_content: |
+    
+     <a class="b" href="/?q=it%c3%bc">itü</a> <a class="b" href="/?q=fizik+m%c3%bchendisli%c4%9fi">fizik mühendisliği</a> bölümünün <a rel="nofollow" class="url" target="_blank" href="http://www.fizik.itu.edu.tr/tr/NewsDetails.php?ID=639" title="http://www.fizik.itu.edu.tr/tr/NewsDetails.php?ID=639">şuradan</a> verdiği mesajdır<br/><br/>not: sayfaya girin ve ctrl + a yapın mesajı alın <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: sayfa değiştirilirse diye <a rel="nofollow" class="url" target="_blank" href="http://postimg.org/image/3wgzpjkbf/" title="http://postimg.org/image/3wgzpjkbf/">ekran alıntısı</a> aldım<br/><br/>edit2: ekran alıntısını tost makinesi ile yaptığımı düşünerek yardımlarını esirgemeyen <a class="b" href="/?q=ben+smyrna">ben smyrna</a>ya teşekkürü borç bilirim:<br/><br/>öncesi: <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/AJbOj5q.png" title="http://i.imgur.com/AJbOj5q.png">http://i.imgur.com/ajboj5q.png</a><br/>sonrası: <a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/Nazuov6.png" title="http://i.imgur.com/Nazuov6.png">http://i.imgur.com/nazuov6.png</a>
+   
+  entry_writer: juan sebastian veron
+- entry_name: |
+    abdullah öcalan'ı ziyaret eden akp'li bakan
+  entry_id: 58927108
+  entry_content: |
+    
+    sözde çözüm sürecinde  <a class="b" href="/?q=k%c3%bcrtlerin+lideri+%c3%b6calan%27d%c4%b1r">kürtlerin lideri öcalan'dır</a> diyen beşir atalay, abdullah öcalan'ı imralı'da ziyaret etmiş.<br/><br/>şimdi bu adamların peşindeki aktroll'ler, muhalifleri pkk'lı olmakla suçluyor.<br/><br/>dünya tarihi sizin kadar omurgasız, dönek, ahlaksız bir güruh görmemiştir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/koseyazisi/491006/imrali_ya_giden_bakani_Ocalan_acikladi.html" title="http://www.cumhuriyet.com.tr/koseyazisi/491006/imrali_ya_giden_bakani_Ocalan_acikladi.html">http://www.cumhuriyet.com.tr/…_ocalan_acikladi.html</a>
+   
+  entry_writer: antartika pengueni
+- entry_name: |
+    san antonio spurs
+  entry_id: 58924781
+  entry_content: |
+    
+    20-62 bitirdikleri,  <a class="b" href="/?q=gregg+popovich">gregg popovich</a>'in takımın gm'i olarak head coach'u kovup kendini head coach yaptığı ve sonrasında da draftın ilk sırasından <a class="b" href="/?q=tim+duncan">tim duncan</a>'ı seçtikleri 1996-97 sezonundan beri 19 sezon geçti.<br/><br/><a class="b" href="/?q=san+antonio+spurs">san antonio spurs</a> 19 sezondur, üst üste, en az 50 galibiyet alarak play off'lara katılmaya hak kazanıyor.<sup class="ab"><a title="(bkz: lokavt sebebiyle 50 maç oynanan 98-99 sezonu hariç)" href="/?q=lokavt+sebebiyle+50+ma%c3%a7+oynanan+98-99+sezonu+hari%c3%a7" data-query="lokavt sebebiyle 50 maç oynanan 98-99 sezonu hariç">*</a></sup> <sup class="ab"><a title="(bkz: o sezon 37-13 yapmıştı spurs)" href="/?q=o+sezon+37-13+yapm%c4%b1%c5%9ft%c4%b1+spurs" data-query="o sezon 37-13 yapmıştı spurs">*</a></sup><br/><br/>son 27 sezonda 26 kere playofflara katılmaya hak kazandılar.<br/><br/>bu 27 sezonda gösterikleri en iyi performans 63-19 ve şu an 50-9 ile devam ediyorlar. <br/>son 23 maçlarında 10 mağlubiyet almazlarsa (bence yer yarılsa en fazla 5 tane alırlar) gelmiş geçmiş en iyi regular season istatistiklerini yapacaklar. <br/>şükür <a class="b" href="/?q=golden+state+warriors">golden state warriors</a> rüzgarı bu kadar şiddetli esiyor da kimse spurs'e dikkat etmiyor.<br/>ki adım gibi eminim onların da hoşuna gidiyor bu durum.<br/><br/>belki <a class="b" href="/?q=boston+celtics">boston celtics</a> ve <a class="b" href="/?q=los+angeles+lakers">los angeles lakers</a> kadar şampiyonlukları yok ve bu sebeple o kadar popüler değiller. (hatta <a class="b" href="/?q=new+york+knicks">new york knicks</a> ve <a class="b" href="/?q=chicago+bulls">chicago bulls</a> kadar bile popüler değiller)<br/>ama benim şahsi görüşüm nba'de hiç bir takım <a class="b" href="/?q=san+antonio+spurs">san antonio spurs</a>'e gösterilen saygıdan daha fazla saygı görmemeli.<br/><br/>duncan ve popovich'in olmadığı gün sessiz sedasız oyundan asla yeri dolmayacak kocaman bir parçası eksilecek.
+   
+  entry_writer: spark
+- entry_name: |
+    selahattin demirtaş
+  entry_id: 58922258
+  entry_content: |
+    
+    günler öncesinden başlattığı yoğun bir medya çalışması ile, yüzbinleri sur'a yürütebileceğini zanneden ama 3-5 bin kişinin toplamda 1 dk'da dağıtıldığı bir kalkışma yapabilmiş lucifer..<br/><br/>eminim bugüne kadar ki en büyük yenilmişlik duygusunu dün tattı. artık toplumda bir karşılığının kalmadığını, artık halkın pkk temsilciliği gibi çalışan hdp'li vekillere değil, gerçekten kendi problemleriyle ilgilenecek temsilcilere destek vereceğini çok net görmüş oldu.<br/><br/>dün kendisi ve diğer şirinlerin neden sur'a yürümeye çalışanlar arasında olmadığını da ayrıca merak ediyorum.<br/><br/>kısacası 2 mart 2016 tarihinde, hdp'nin pkk ile birlikte türkiye'nin huzurlu bir ülke olmasının önündeki en büyük engellerden biri olduğunu gören diyarbakır insanının tokadını yemiş organizma.
+   
+  entry_writer: creator
+- entry_name: |
+    türk laikleri yunanistan vatandaşı yapmak
+  entry_id: 58922860
+  entry_content: |
+    
+    "türk dincileri suriye'ye iran'a arabistan'a gönderelim türkiye şahlansın" dedirten şeysi...<br/><br/>(bkz: <a class="b" href="/?q=mollalar+iran%27a">mollalar iran'a</a>)
+   
+  entry_writer: erkek pisi
+- entry_name: |
+    lays'in insan organlarına verdiği zarar
+  entry_id: 58921880
+  entry_content: |
+    
+    yağın yanmasının m.ö. 10.000. yıllarda keşfinden sonra, müslümanlar tarafından tekrar keşfi..<br/><br/>düşük zeka, cehalet ve küstahlığın birleşimi ile islam daima en ilerde olmaya devam edecektir.<br/><br/>kutlarım.
+   
+  entry_writer: bulunmaz hint kumasi
+- entry_name: |
+    erdoğan'ın yargılanması için gereken 184 vekil
+  entry_id: 58937218
+  entry_content: |
+    
+    erdoğan açıkça türkiye cumhuriyeti anayasası'nı tanımadığını ilan etti.  <br/><br/>bu suçu işlediği iddia edilen adnan menderes ve deniz gezmiş idam edilmişti. avrupa birliği'ne uyum yasaları ile idam kalktı, yerine ağırlaştırılmış müebbet geldi. <br/><br/>anayasa hukuku profesörü ibrahim kaboğlu'nun açıklamasına göre 184 milletvekili erdoğan'ın yargılanmasını sağlayacak süreci başlatabilir.<br/><br/>---<a class="b" href="/?q=kaynak">kaynak</a>---<br/><br/>anayasa hukuku profesörü ibrahim kaboğlu: 184 milletvekili, erdoğan'ı anayasal düzene ihanet'le suçlandırma sürecini başlatabilir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://t24.com.tr/haber/prof-kaboglu-184-milletvekili-erdogani-anayasal-duzene-ihanetle-suclandirma-surecini-baslatabilir,330603" title="http://t24.com.tr/haber/prof-kaboglu-184-milletvekili-erdogani-anayasal-duzene-ihanetle-suclandirma-surecini-baslatabilir,330603">http://t24.com.tr/…rma-surecini-baslatabilir,330603</a>
+   
+  entry_writer: antartika pengueni
+- entry_name: |
+    onedio
+  entry_id: 58929928
+  entry_content: |
+    
+     <a rel="nofollow" class="url" target="_blank" href="http://onedio.com/haber/basortulu-kadinlarin-hayatlarinin-cesitli-donemlerinde-karsilastiklari-13-durum-685035" title="http://onedio.com/haber/basortulu-kadinlarin-hayatlarinin-cesitli-donemlerinde-karsilastiklari-13-durum-685035">http://onedio.com/…-karsilastiklari-13-durum-685035</a><br/><br/>canım ya. valla nasıl içim acıdı. yukarıdaki linkle tarihlerinin kezbanlığını yapmış ve gözümde artık pul kadar değeri olmayan niteliğe bürünmüştür.<br/><br/>"muhafazakarlara yönelik her siyasi eylemde ilk açık hedef oluruz. çünkü her kadın gibi bu toplumda ''kolay lokma''yız." bak bak açık hedefe bak. bi kabataş var, bildin mi? böyle işemeli sıçmalı. bi başörtüsü faşizmi var, bildin mi? hani başörtüsü takmayan kadınların perdesiz eve benzetildiği ve tacize uğramalarının meşrulaştırıldığı. bebeklerim ya ne kadar da mağdursunuz.<br/><br/>"yasaklar nedeniyle birçok kurumda çalışmamızın mümkün olmadığı dönemlerde muhafazakar iş yerlerinde ''ucuz işçi'' olarak görülürüz." ben hayatımda şu cümleyi yazan kadar yüzsüz bir insan görmedim yeminle. ya bu ülke ucuz işgücünün, sömürünün anavatanı zaten! bi sana mı özel bu trajedi? ayrıca belediyelerden devlet kurumlarının her birine kadar, türbansız olmak artık bir dezavantaj sebebiyken hala mı mağdursunuz amk? insan biraz utanmaz mı? ya benim arkadaşım 95 kpss puanıyla girdiği her mülakattan elendi, haberin var mı? en son katiplik alımlarına bak bakalım, kaçı türbanlı, kaçı açık?<br/><br/>"muhafazakar erkekler tarafından sürekli tesettürlerimiz ''eksik'' bulunur." dram. yorum yapmaya bile gerek yok. dikkat edin de o muhafazakar erkekleriniz sizin giyiminizi aşıp çoluğun çocuğun görünüşüyle kafayı bozmasınlar. haa bozmuşlardı pardon.<br/><br/>"yaptığımız her şey göze batar. iyi giyinmek, araba kullanmak herkesi rahatsız eder." askajshjjsksksjsjsksk allah kahretsin kusucam. hala mı mağdurluk? 2016 senesinde, akp toplumunda hala mı mağdursunuz? <br/><br/>"birtakım insanların ''cahil, yobaz, ninja'' gibi hakaretlerine bir ömür katlanırız." biz de birtakım insanların "ninja" gibi de değil, bayağı sövmeli, hakaretli, ellemeli tacizlerine maruz kalıyoruz. kadın mı kız mı olduğumuz tartışılıyor. mahkemelerde hakimler "o da sevişmeseymiş demek ki yollu" mantığıyla kararlar veriyor. ayrıca sırf kafasını kapatmadığı için bu ülkede her gün kaç kadın sizin çomarlarınızın tacizine uğruyor, haberiniz var mı?<br/><br/>"başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." "başarılı olmamız, göz önünde olmamız herkesi rahatsız eder." ahahhahahhahahahhahhahahahhhahhah bakmalara doyamıyorum. insanlık tarihi insanlık tarihi olalı böyle kezbanlık görmedi. ayiii herkesin gözü bende, herkeeeeeeeeees kıskaniyür beni. işte başörtülüyüm ya hep ondan ^^^^^<br/><br/>"öne çıkmamız istenmediği gibi, ne reklamlarda ne de dizilerde tesettürlü görmeniz pek mümkün değildir." ya kutsi'den korumak içindir o sizi anlamadınız mı hala? ayrıca "ne ne" bağlacının nasıl kullanılması gerektiğini öğren, sonra mağdurluk yaparsın. <br/><br/>"muhafazakarların iş yerlerinde bile yükselmemiz kimseler tarafından nedense pek istenmez." bakın bu mental bir bozukluk artık. mağduriyet yaparken "muhafazakarların işyerinde <a class="b" href="/?q=bile">bile</a>" diyerek mağduriyetten mağduriyet çıkarıyosunuz. ayrıca, işyerinde her gün on binlerce insan insanlık dışı bir mobbinge uğruyor. kadın-erkek ayırmıyorum bile. bunu bile evirip çevirip kendi kutsallığınıza yormanız ahlaksızlık, terbiyesizlik, rezilliktir.<br/><br/>" tesettürün kendi tercihimiz olabileceğini her tartışmada ispat etmek zorunda bırakılırız." onu bana anlatmicaksın canım. onu her gün kadınların kapanması için aktif ya da pasif baskı yapan, hutbe veren, ötekileştiren, taciz eden, kız mı kadın mı olduğumuzu/olduğunuzu tartışan, tecavüzcü, oyuncak bebeklerden tahrik olan, 3 yaşındaki kız çocuğunu babasının kucağına alıp almaması gerektiğini tartışan, kadın sesinin günah olup olmadığını televizyonlarda ağlayan milyon dolarlık alimlerinize soran erkeklerine anlatacaksın.<br/><br/>ve sonuç: size günde 3 defa fethi açıkel'in "<a rel="nofollow" class="url" target="_blank" href="http://kuresel.politics.ankara.edu.tr/dosyalar/1996.pdf" title="http://kuresel.politics.ankara.edu.tr/dosyalar/1996.pdf">kutsal mazlumluğun psikopatolojisi</a>" adlı dünyanın en harika makalelerinden birini yazıyorum. ha "yok ya ben okuyamam biraz daha mağdur olmalıyım" diyosan ben özet geçeyim:<br/><br/>kutsal mazlumluk, içinde türk milliyetçiğinden islami motiflere, kapitalizm öncesi değerlerin yüceltiminden, yarı cemaatçi bir toplum anlayışının anti kozmopolitan yönelimlerden idealize edilmiş nostaljik bir tarih anlayışına, şüpheci bir dünya kurgusundan ezikliğin bireysel görünümlerine kadar pek çok söylemsel öğeyi içinde barındıran ve modernleşme süreci içinde türk sağının geliştirdiği en önemli ideolojik dizgedir.<br/><br/>bir yandan toplumsal ve ekonomik geri kalmışlığı ve kitlelerin ezikliğini dile getirirken diğer yandan da bunu aşmanın nevrotik ve baskıcı yollarını siyasal aygıt dolayımıyla eklemleyen; “büyük türkiye”, “şanlı tarih”, “otantik cemaat”, “aile değerleri”, “kenetlenmiş toplum”, “gücünü dünyaya kabul ettirmiş bir ülke” idealar etrafında kapitalizmin “iktidar istemini” kitleselleştiren ve meşrulaştıran bir söylemsel pratiktir.<br/><br/>sentez, eziklik ideolojisinden aldığı enerji ile bir adım daha ileri sıçrayan kapitalizmle daha güçlü bir biçimde eklemlenen, eklemlendikçe ezikliği daha da perçinlenen bir söylem haline gelir ve bu da kapitalizmin kısır döngüsüdür. bu kısır döngü kapitalizm bu coğrafyada kendi suretini tamamıyla yaratıp virütik yayılımını tamamladığında çözülebilir. çözülme tamamlanmadığı ya da bir başka söylemce ikame edilmediği sürece bu moment ertelenmek durumundadır.<br/><br/>ezik özne geçmişteki huzurlu ve mutlu günlerinin yeniden üretilmesine de aynı mantık içinde yaklaşır. tarih anlatısı içinde eski toplumun huzurlu güçlü barış dolu ve benliğini kabartan imgesi her zaman kullanabilir durumdadır. eskinin maneviyatına, kültürüne ve bilincine dönüş ideali intikam- tazmin ve acılarla dolu geçmişi söylemi kadar önemli yer tutar. bu yüzden ezik öznenin tarihi anlatılarını şekillendiren de onun kolektif bilinç dışıdır diyebiliriz. ancak tarih anlatıları aracılığıyla bu geriye dönüşler sadece psikolojik anlamlar taşımaz, aksine yükselen toplumsal sınıfların tarihsel projeleri ve maddi gereksinimleri ile eklemlenir. kutsal sentezin öznesi için kapitalizm öncesi emperyal geçmiş bu nedenle simbiyotik huzur anlamını taşır. sentezin mazlum öznesinin modernleşme ve kapitalizmle ilişkisini özetleyen tarih anlatısı da bu nedenle ödipaldir.<br/><br/>kendini feda etme ve teslimiyet ile başkalarının yaşam çizgisini ihlal etme arasındaki çizgi yani şehit olma ile kutsal savaş uğruna başkalarını öldürme arasındaki çizgi, ezik öznenin sevgi gereksinimi ile onulmaz intikam isteği arasındaki gerilim kadar belirsizdir. ve bu nedenledir ki psikolojik olarak mazlumlar ve ezikler yani bedbahtlar çelişkili bir biçimde zalim olmaya adaydırlar.<br/><br/>sizin o kutsal mazlumluğunuzdan çok sıkıldık artık.
+   
+  entry_writer: venusteki limon agaci
+- entry_name: |
+    yaran inci sözlük entry'leri
+  entry_id: 58935948
+  entry_content: |
+    
+    başlık: pavlovun deneyini aileme uyguladımm<br/><br/>üniversite hocamız bu deneyi orjinal hali ile insanlar üzerinde uygulamanın etik olmadığını belirtti.ama illaki yapılmıştır.ben de ilk kobay olarak kardeşimi seçip uyguladım. olay şu; köpek et geldiği zaman salya salgılar.et veren kişide eti, zil sesiyle beraber vermeye başlar.bir süre böyle sürer. ardından köpeğe sadece zil sesi verilir ve köpeğin salyası akar. yani ete tepki veren köpek farkında olmadan zil sesine de aynı tepkiyi vermeye başlar.<br/><br/>bende bu deneyi kardeşim üstünde uygulamaya karar verdim. gumball adlı çizgi filmin kapanış müziği her çaldığında kardeşime bir parça çikolata verdim. sabah ve akşam olmak üzere yirmi gün boyunca sürdü bu süreç. yirmi birinci gün bebeği odaya koydum ve müziğin tekrar çalmasını bekledim. kardeşim müzik sesini duyduğu an zombi gibi yanıma gelip elini uzattı.çünkü müzik ona çikolatayı hatırlatmaya başlamıştı.ben ise vermedim. ağlayarak<br/>kendini yerden yere vurdu. sonuç başarılı.bir süre boyunca o müziği duyduğu gibi aklına çikolata gelecek.ama zamanla kaybolacak bu durum.<br/>ikinci denek babam oldu. normalde haber izlerken çay içmez. haberleri de hep aynı kanalda izler.ben bu haberin jeneriği girdiği an babama çay getirdim.ilk gün yok dedi. yılmadım.ikinci gün aldı.üçüncü gün aldı.her jenerik girdiğinde getirip verdim çayını.ve o gün geldi çattı. haber jeneriği girdiğinde çay zütürmedim. balkondan gizlice babamı izliyordum. onun ise aklına çay geldiğinden kapıya bakıyor, beni bekliyordu. baktı geleceğim yok.çay koyun diye bağırdı.<br/><br/>deneyim burada bitmedi. sırada diğer aile üyeleri var. hepsini pavlovun köpeğine çevirip bir şeylere muhtaç kılacağım. bunun sebebi ise bebeği benden daha çok sevmeleri.ama ne yazık ki hepsi geri zekalı.ben ise kıskanç ve zekiyim.<br/><br/>yazar: <a rel="nofollow" class="url" target="_blank" href="http://www.incisozluk.com.tr/e/168764590/" title="http://www.incisozluk.com.tr/e/168764590/">sexsus</a>
+   
+  entry_writer: sicarken ilham gelen dahi
+---
