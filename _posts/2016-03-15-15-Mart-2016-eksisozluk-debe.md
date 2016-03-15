@@ -47,8 +47,8 @@ data:
   entry_id: 59207221
   entry_content: |
     
-    gencecik insanların hayallerini çalan ruh hastası bir kaltak.
-    
+    gencecik insanların hayallerini çalan ruh hastası bir kaltak..<br/><br/>bu arada kimliği kesinlik <a rel="nofollow" class="url" target="_blank" href="http://bit.ly/22hmPC0" title="http://bit.ly/22hmPC0">kazanmış.</a>
+   
   entry_writer: cumhurbaskani
 - entry_name: |
     vitor pereira'dan ankara patlaması açıklaması
@@ -79,17 +79,9 @@ data:
   entry_id: 59215999
   entry_content: |
     
-    ananin ami dedigim aciklama..<br/><br/>isvicre ya da danimarka kadar vergi alirken iyi ama di mi?<br/><br/>edit: usenmedim baktim, turkiye'de vergi 35%. danimarka da ortalama 28%.
+    hadi oradan dedigim aciklama..<br/><br/>isvicre ya da danimarka kadar vergi alirken iyi ama di mi?<br/><br/>edit: usenmedim baktim, turkiye'de vergi 35%. danimarka da ortalama 28%.<br/><br/>edit 2: duzelten arkadaslar var, danimarka turkiye ile birlikte en yuksek gdp-vergi oranina aitmis aslinda baya baya danimarkayiz. tabi aramizdaki fark turkiye'de verilen verginin bir karsiligi yok. danimarka'da ise fazlasiyla var.
    
   entry_writer: scannegro
-- entry_name: |
-    derbide omuz omuza
-  entry_id: 59216953
-  entry_content: |
-    
-    eger olursa, bak sayet boyle bir guzellik olursa, fanatik bir galatasaray taraftari olarak fenerbahcenin her golunu ayakta alkislarim..<br/>yemisim futbolunu, topunu. <br/>ınsan olmayi, oyle yasamayi ozledik. <br/>her gordugum fenerbahceli kardesime yurekten sarilayim istiyorum.<br/>besiktasa her gittigimde inonunun onune gidip saygi durusuna geceyim.<br/>allah icin ya, zor degil lan kardes olmak.<br/>zor olan dusman kalmak.<br/>hadi fenerbahceli kardesim, ver ulan elini, su zalım hayata bir gol bari beraber atalim.
-   
-  entry_writer: bijiserokpopo
 - entry_name: |
     25 milyona yakın seçmen ekonomiyi durdursun
   entry_id: 59210251
@@ -111,7 +103,7 @@ data:
   entry_id: 59216585
   entry_content: |
     
-    eğer üniversitelerin terör yuvalarına dönmesinden bahsediyorsa maalesef haklı olan adam..<br/><br/>(bkz: <a class="b" href="/?q=ter%c3%b6r+k%c4%b1skac%c4%b1nda+%c3%bcniversiteler">terör kıskacında üniversiteler</a>)<br/><br/>üniversitelerin adeta pkk kamplarına çevrildiğini anlamak için herhangi bir nevruz kutlamasına vs bakılabilir istanbulun göbeğinde gerilla vuruyor yüzbaşılar düşüyor diye halay çeken bu bombacının zihniyet ve fikir ortakları değiller mi şuan mutlu değiller mi?<br/><br/>halay çeken bile var içlerinde hiç merak etmeyin.<br/><br/>bu köpeklere üniversitelerde bu fırsatları verenlere kızılmalı ama. üniversitelerde kaç insan öldürdüler kaç defa saldırıları karşıt görüşlü öğrenci diye yutturuldu ama gerçek şu ki bir tarafta hep terör sempatizanları hatta militanları vardı hala da varlar.<br/><br/>adam öldürüyorlar kampüslerde yine köpek gibi burada bile savunuluyorlar yani serkan haklı. bu köpeklere üniversitede barınma ve propaganda imkanı verenler ve siz savunucuları haksızsınız.
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>buraya içimi döküp bol bol her üniversiteden videolar ve görseller atacaktım ama vazgeçtim çünkü zaten salağı oynayan insanlara bir şey ispatlamaya gerek yok. ayda yaşamıyorsa herkes şuan üniversitelerdeki durumu biliyor. bizim isteğimiz şu üniversiteler tabii ki her görüşten insanın özgürce yaşadığı, eğitim aldığı ve fikirlerini ifade edebildiği yerler olmalı ama insanlığa karşı suç işleyen bir terör örgütünün propagandasını yapmak, ona adam devşirmek ve bu terör örgütü adına eylem yapmak için kullanılamamalı. suç işleyenler cezalarını bulmalı ve bunların örgüt militanı oldukları örgüt adına çalıştıkları unutulmamalı. <br/><br/>yoksa daha çok canlı bomba yetiştirilir çok terörist çıkar. üstelik kendilerine karşı çıkan olmayınca vatansever ve insanlığa karşı suç işleyen terör örgütünden tiksinip buna engel olmaya çalışan gençler bunların karşılarına çıkıyor ve kimisi eğitim hakkından oluyor, kimi yaralanıyor kimi de şehit oluyor. bununla gençler değil devlet mücadele etmeli. açılımdaki bir çok saçma uygulama bittiğine göre artık gerekli adımların atılacağını umut ediyoruz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>eğer üniversitelerin terör yuvalarına dönmesinden bahsediyorsa maalesef haklı olan adam.<br/><br/>(bkz: <a class="b" href="/?q=ter%c3%b6r+k%c4%b1skac%c4%b1nda+%c3%bcniversiteler">terör kıskacında üniversiteler</a>)<br/><br/>üniversitelerin adeta pkk kamplarına çevrildiğini anlamak için herhangi bir nevruz kutlamasına vs bakılabilir istanbulun göbeğinde gerilla vuruyor yüzbaşılar düşüyor diye halay çeken bu bombacının zihniyet ve fikir ortakları değiller mi şuan mutlu değiller mi?<br/><br/>halay çeken bile var içlerinde hiç merak etmeyin.<br/><br/>bu köpeklere üniversitelerde bu fırsatları verenlere kızılmalı ama. üniversitelerde kaç insan öldürdüler kaç defa saldırıları karşıt görüşlü öğrenci diye yutturuldu ama gerçek şu ki bir tarafta hep terör sempatizanları hatta militanları vardı hala da varlar.<br/><br/>adam öldürüyorlar kampüslerde yine köpek gibi burada bile savunuluyorlar yani serkan haklı. bu köpeklere üniversitede barınma ve propaganda imkanı verenler ve siz savunucuları haksızsınız.<br/><br/>ek: maalesef üniversitelerimizde bir güruh açıkça terör örgütü pkknın üniversite kolu olarak görev yapıyor. görevleri propaganda ve dağa adam devşirme. bunu dışında üniversitelerde pek çok gencin eğitim hakkına engel oldukları gibi yaşam haklarını ellerinden aldıkları gençler de var.<br/><br/>eğer bunlara karşı çıkarsanız sizi faşist olmakla ve kürt düşmanı olmakla eleştiriyorlar tabii ki bunun gerçekle alakası yok. devlet açılım sürecinde üniversitelerdeki bir takım faaliyetlere engel olmadı ve bunu içine sindiremeyen gruplar bu insanlarla mücadeleye girişti.<br/><br/>bunu gönüllü olarak yaptılar ve amaçları pkkya karşı bir şeyler yapmak, pkkya engel olmaktı. bu uğurda pek çoğu can verdi, yaralandı, pkknın üniversite koluna verilmeyen cezalarla okuldan atıldı.<br/><br/>burada bu mücadeleyi veren aileden solcu pek çok kişi de bu yüzden ülkü ocaklarına katıldı hatta başkan bile oldular mesela normalde <a class="b" href="/?q=f%c4%b1rat+%c3%a7ak%c4%b1ro%c4%9flu">fırat çakıroğlu</a>nun ailesi chplidir. çocuklarına vatan sevgisi, insan sevgisi gibi erdemleri aşılamış olduklarından çocukları üniersitede insanlığa karşı suç işleyen bir terör örgütünün üniversite koluyla aktif mücadeleye girişmiş ve şehit olmuştur.<br/><br/>sözlükte bile bir sürü it kopuk artık birikmiş olayların illallah deme anı olan son anını koyup bakın öldürmeye giden ölür filan dediler oysa biliyorlardı ki yıllardır üniversitelerde adam öldüren tek bir güruh vardı ve ülkücüler kimseyi öldürmüyorlardı. dahası fırat bunlardan defalarca ölüm tehditi almıştı ve aylardır süren psikolojik baskının sonucunda arkadaşları yanında gelmişti artık bıktırmışlardı facebooktan bile fotoğrafları paylaşılıp öleceksin deniliyordu. ülkücüler hala da öldürmüyorlar ve ölmeye devam ediyorlar. tıpkı <a class="b" href="/?q=hasan+%c5%9fim%c5%9fek">hasan şimşek</a> gibi.<br/><br/>şu gerçek ki üniversitelerde takır takır cinayet işleyen tek bir güruh var ve utanmadan bunlar savunuluyor ve bunları savunan hayvanlar her yerde insanlıktan vicdandan vs bahsetmekte bir beis görmeyecek kadar ikiyüzlü ve aşağılıklar.<br/><br/>lütfen google görsellere ege üniversitesi pkk yazıp bakıp çıkan sonuca allah aşkına ülkücüler güçlü olsa öyle bir ortam olabilir mi kandile çevrilmiş durumda. diğer örgütlendikleri üniversitelerde de durum farklı değil maalesef.
    
   entry_writer: mumutt
 - entry_name: |
@@ -127,7 +119,7 @@ data:
   entry_id: 59216473
   entry_content: |
     
-    hakkında şöyle bir yorumda bulunulmuş yorum::<br/><br/>(bkz: <a class="b" href="/entry/59216372">#59216372</a>)<br/><br/>--- <a class="b" href="/?q=alinti">alinti</a> ---<br/><br/>"kimse kusura bakmasın ama erdoğan bu ülkedeki inançlı insanların can güvenliğinin teminatıdır."<br/><br/>--- <a class="b" href="/?q=alinti">alinti</a> ---<br/><br/>bu entry'yi yazmanin nedeni inançlı bir insanın patlamada hayatını kaybetmesi, sen güvenlik diyorsun, teminat diyorsun?!<br/><br/><a class="b" href="/?q=deepthroat">deepthroat</a> 'a devam.
+    hakkında şöyle bir yorumda bulunulmuş yorum::<br/><br/>(bkz: <a class="b" href="/entry/59216372">#59216372</a>)<br/><br/>--- <a class="b" href="/?q=alinti">alinti</a> ---<br/><br/>"kimse kusura bakmasın ama erdoğan bu ülkedeki inançlı insanların can güvenliğinin teminatıdır."<br/><br/>--- <a class="b" href="/?q=alinti">alinti</a> ---<br/><br/>bu entry'yi yazmanin nedeni inançlı bir insanın patlamada hayatını kaybetmesi, sen güvenlik diyorsun, teminat diyorsun?!<br/><br/><a class="b" href="/?q=deepthroat">deepthroat</a> 'a devam.<br/><br/><a class="b" href="/?q=edit">edit</a>: silmiş gitmiş. utandığındandır umarım.
    
   entry_writer: 41 karakterli nick isteyen adam
 - entry_name: |
@@ -135,7 +127,7 @@ data:
   entry_id: 59214247
   entry_content: |
     
-    - elin amerikan başkonsolosluğu 2 gün önce ankara'da saldırı olacak diye mesaj  <a rel="nofollow" class="url" target="_blank" href="http://www.birgun.net/haber-detay/abd-ankara-daki-saldiri-istihbaratini-turk-hukumetinden-aldik-106276.html" title="http://www.birgun.net/haber-detay/abd-ankara-daki-saldiri-istihbaratini-turk-hukumetinden-aldik-106276.html">yayınlıyor</a>,<br/><br/>- bilal oğlanın vakfı türgev smsle öğrencilerine kızılay taraflarında dolaşmayın diye bilgi geçiyor, <br/><br/>- davutoğlu çıkıyor canlı bombaların listesi var fakat patlamadan tutuklayamayız diye açıklama yapıyor, <br/><br/>- bir önceki saldırıda "güvenlik açığı var mıydı?" sorusuna gülerek yanıt veren bir bakan hala koltuğunda oturuyor,<br/><br/>- içişleri bakanı her defasında sanki yabancı bir ülkenin içişleri bakanıymış gibi saldırıyı kınıyor, <br/><br/>ama yönetimde suç aramamak lazım.<br/><br/>ulan biz de bu memleketin vatandaşıyız, abd vatandaşı kadar, türgev yurdunda kalan öğrenci kadar canımızın kıymeti yok mu?<br/><br/>yönetimde suç aramamak lazımmış. <br/><br/>gg ggggg ordan.
+    - elin amerikan başkonsolosluğu 2 gün önce ankara'da saldırı olacak diye mesaj  <a rel="nofollow" class="url" target="_blank" href="http://www.birgun.net/haber-detay/abd-ankara-daki-saldiri-istihbaratini-turk-hukumetinden-aldik-106276.html" title="http://www.birgun.net/haber-detay/abd-ankara-daki-saldiri-istihbaratini-turk-hukumetinden-aldik-106276.html">yayınlıyor</a>, (adamlar istihbaratı bizim hukumetten alıyor vatandaşını uyarıyor, bizimkilerin elinde istihbarat var bizim vatandaşın haberi yok)<br/><br/>ama türgev öğrencilerinin var ;<br/><br/>- bilal oğlanın vakfı türgev smsle öğrencilerine kızılay taraflarında dolaşmayın diye bilgi <a rel="nofollow" class="url" target="_blank" href="http://www.sozcu.com.tr/2016/gundem/bomba-istihbarati-turgevden-1136022/" title="http://www.sozcu.com.tr/2016/gundem/bomba-istihbarati-turgevden-1136022/">geçiyor</a>, (mit'in bütün kaynaklarını bilal mi sağlıyor, biz vergi vermiyor muyuz? bizim verdiğimiz vergiyle melih gökçek tgrt haber'de programa çıkınca sms geliyor da, bomba tehdidi olduğunda neden sadece türgev öğrencilerine sms geliyor)<br/><br/>- davutoğlu çıkıyor canlı bombaların listesi var fakat patlamadan tutuklayamayız diye açıklama yapıyor, <br/><br/>- bir önceki saldırıda "güvenlik açığı var mıydı?" sorusuna gülerek yanıt veren bir bakan hala koltuğunda oturuyor,<br/><br/>- içişleri bakanı her defasında sanki yabancı bir ülkenin içişleri bakanıymış gibi saldırıyı kınıyor, <br/><br/>- hadi bunları da geçtim, 6 aydır koskoca türkiye cumhuriyeti'nin başkentinin emniyet müdürü yok ulan, koskoca başkentin emniyet müdürü yok ; vekaleten yönetiliyor.<br/><br/>ama yönetimde suç aramamak lazım.<br/><br/>ulan biz de bu memleketin vatandaşıyız, abd vatandaşı kadar, türgev yurdunda kalan öğrenci kadar canımızın kıymeti yok mu?<br/><br/>yönetimde suç aramamak lazımmış. <br/><br/>gg ggggg ordan.
    
   entry_writer: ginger root
 - entry_name: |
@@ -255,7 +247,7 @@ data:
   entry_id: 59211163
   entry_content: |
     
-    bak bak bak yalak herife bak. beşiktaşlıysanız takımı destekleyenmiş.  <br/><br/>cumhurbaşkanı cumhurbaşkanı mı ki sadece, beşiktaş taraftarı sadece senin gibi taraftar olsun!<br/><br/>beşiktaş taraftarı olmanın bir ağırlığı sorumluluğu var kardeş, en azından o stada ve beşiktaş'a gönül verip her maçında yanlarında olanların, orada söz söyleme hakkı var, var ulan bıdı bıdı etme amk!<br/>fenerliyim ben, beşiktaşlı falan da değilim ama bş yandan da artvinliyim, cumhurbaşkanının hopa ya gelmesi ile arena yı açması arasında hiç bir fark yok! <br/>hopa da da protesto edildi, o stadta da edilecek! sen siktir git evinden sesi kısarak izle ibne!
+    bak bak bak yalak herife bak. beşiktaşlıysanız takımı destekleyenmiş.  <br/><br/>cumhurbaşkanı cumhurbaşkanı mı ki sadece, beşiktaş taraftarı sadece senin gibi taraftar olsun!<br/><br/>beşiktaş taraftarı olmanın bir ağırlığı sorumluluğu var kardeş, en azından o stada ve beşiktaş'a gönül verip her maçında yanlarında olanların, orada söz söyleme hakkı var, var ulan bıdı bıdı etme amk!<br/>fenerliyim ben, beşiktaşlı falan da değilim ama bş yandan da artvinliyim, cumhurbaşkanının hopa ya gelmesi ile arena yı açması arasında hiç bir fark yok! <br/>hopa da da protesto edildi, o stadta da edilecek! sen siktir git evinden sesi kısarak izle göt!
    
   entry_writer: koministimam2
 - entry_name: |
@@ -307,21 +299,13 @@ data:
    
   entry_writer: resan
 - entry_name: |
-    her saldırı sonra suçlu rte demek
+    her saldırı sonrası suçlu rte'dir demek
   entry_id: 59225836
   entry_content: |
     
     rte suçludur, bunun aksini iddia eden de suça yardım ve yataklık etmektedir.
     
   entry_writer: bendenbaskabiri
-- entry_name: |
-    hdp'ye oy verdiğim için özür diliyorum
-  entry_id: 59214297
-  entry_content: |
-    
-    mhp'ye oy vermiş biri olarak düşüncem o ki, hdp'ye oy veren insanlar aslen hdp kanalıyla gerçekleşebilecek barış ve demokrasi söylemine bir şans verdiler. ve bu anlamda iyi niyetli pozitif bir tutum sergilediler. yarın öbür gün, "bize siyasal alanda hiç şans verilmedi" söylemini ortadan kaldırdılar. biz her ne kadar pkk eksenli siyasal söylemlerin samimiyetine inanmıyor ve mazideki kanlı eylemleri unutmadığımız için bu söylemlere yanaşmamış olsak da, o dönem hdp çerçevesinde memlekette barış ve demokrasi illüzyonu oluşturulmuştu. hdp'nin bu gün takındığı tavırdan ötürü o gün oy veren insanlar özür dilemek gibi bir yükümlülük içerisinde değiller. ha bu güne rağmen hala hdp'ye oy veririm diyorlarsa o da kendi vicdanlarına kalmış.
-    
-  entry_writer: aksi driver
 - entry_name: |
     türkiye'den siktir olup gitmek
   entry_id: 59207201
@@ -343,8 +327,6 @@ data:
   entry_id: 59229234
   entry_content: |
     
-    3 veya 4 günlük yazarım ve 2 yıldan fazla çaylak olarak okudum burada başlıkları fakat bu kadar iğrencini hiç görmemiştim..<br/><br/>tabiatın tüm laneti üstünüze olsun!! nasıl bu kadar hastalıklı düşünceler besliyorsunuz anlayamıyorum...
-   
   entry_writer: kufur ettim kusura bakma yapragim
 - entry_name: |
     14 mart 2016 milat gazetesi manşeti
@@ -371,14 +353,6 @@ data:
     
   entry_writer: sosyalcikinti
 - entry_name: |
-    hakan fidan'ı itibarsızlaştırma projesi
-  entry_id: 59206857
-  entry_content: |
-    
-    başarısızlığa mahkum projedir..<br/><br/>itibarsızlaştırma için mevcutta bir itibar olması gerekir. <br/>istifa ettikten sonra "höt" denilince kuyruğu kıstırıp kulübene döndüğünde öyle bi şeyin kalmaz.
-   
-  entry_writer: octave charcot
-- entry_name: |
     kredi borcu olmayan 25 yaş üstü insan
   entry_id: 59212245
   entry_content: |
@@ -399,7 +373,7 @@ data:
   entry_id: 59211357
   entry_content: |
     
-    sene 1994 aylardan temmuz veya ağustos. hava hayvan gibi sıcak. mahallede top oynadıktan sonra caminin abdesthanesinde su içiyoruz.  <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a> o vakitler istanbul belediye başkanı. mahallemizde bir kuran kursunun açılışına gelmiş. kursta henüz öğrenci olmadığından açılış ve medya için görüntü yapsın diye mahallenin bütün bacaksızlarını toplamışlar. bizde suyumuzu içtikten sonra bedava yemek ve tatlı hevesiyle onlarca çocuk doluştuk kuran kursuna. yanımdaki arkadaşla ikimizi hemen girişte bir sınıfa soktular. girişte pamuk helva ve elma şekeri satanları görmüştük. acaba tatlı olarak elma şekeri mi verecekler demeye kalmadan sınıfa rte ve bir sürü adam doluştu. bir de o kadar sıra arasından geldi bizimkine oturdu. adam uzun aga. 40 kilo çekmeyen iki tane çocuk var ama sığışamadı mini boy sıraya. çözümü, beni kucağa arkadaşı da koltuğunun altına almakta buldu. sonra beş dakika tayyibin kucağında bir sağa bir sola bakarak patlayan flaşlara poz verdim. <br/><br/>itiraf ediyorum. bugünkü durumun suçlularından birisi benim arkadaşlar. daha o vakitlerden yaklaşan tehlikeyi herkese anlatmam lazımdı. adam şimdi koca ülkeyi kucağına aldı poz veriyor. bize en azından elma şekeri ısmarlamıştı, size o da yok...
+    sene 1994 aylardan temmuz veya ağustos. hava hayvan gibi sıcak. mahallede top oynadıktan sonra caminin abdesthanesinde su içiyoruz.  <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a> o vakitler istanbul belediye başkanı. mahallemizde bir kuran kursunun açılışına gelmiş. kursta henüz öğrenci olmadığından açılış ve medya için görüntü yapsın diye mahallenin bütün bacaksızlarını toplamışlar. bizde suyumuzu içtikten sonra bedava yemek ve tatlı hevesiyle doluştuk kuran kursuna. yanımdaki arkadaşla ikimizi hemen girişte bir sınıfa soktular. girişte pamuk helva ve elma şekeri satanları görmüştük. acaba tatlı olarak elma şekeri mi verecekler demeye kalmadan sınıfa rte ve bir sürü adam doluştu. bir de o kadar sıra arasından geldi bizimkine oturdu. adam uzun aga. tartsan 40 kilo çekmeyecek iki tane velediz ama sığışamadı mini boy sıraya. çözümü, beni kucağa arkadaşı da koltuğunun altına almakta buldu. sonra beş dakika tayyibin kucağında bir sağa bir sola bakarak patlayan flaşlara poz verdik.<br/><br/>itiraf ediyorum. bugünkü durumun suçlularından birisi benim arkadaşlar. daha o vakitlerden yaklaşan tehlikeyi herkese anlatmam lazımdı. adam şimdi koca ülkeyi kucağına aldı poz veriyor. bize en azından elma şekeri ısmarlamıştı, size o da yok...<br/><br/><a class="b" href="/?q=edit">edit</a>: arkadaşlar olay güneşli semtinde geçti. ikitelli'ye yakın bir mahallesinde ufak bir kurs. istanbul'un çeşitli semtlerini sayan bir sürü mesaj geldi. başından benzer olaylar geçen yazar arkadaşlar varmış. bence hepimiz bir araya toplanıp "<a class="b" href="/?q=anonim+rte+ma%c4%9fdurlar%c4%b1">anonim rte mağdurları</a>" adında bir topluluk kuralım. arada yüksek tavanlı bir yerde toplanır, terapist eşlinde sandalyeleri çember yapar bir birimize yaşadığımız trajedileri anlatırız. <br/><br/>hatta şöyle diyaloglar döner.<br/><br/>ben: merhaba, benim adım shinigami.<br/>topluluk: merhabaa.<br/>ben: ... işte şöyle böyle oldu, sonra bi baktım beni kucağına almış ühühühü.<br/>terapist: acını anlıyor ve hepimiz yüreğimizin derinliklerinde paylaşıyoruz kardeşim.<br/><br/>gerçi şimdi düşündüm de durup dururken kaç yıldır büyüdüğü yerden söküp taşıttığı ağaçtan tut, şemsiye ile dürttüğü güvercine kadar çok geniş bir kitle var. bırak kazlıçeşme'yi avrupa yakasına sığamayabiliriz. her hangi bir şehit yakını bize güneş altında konuşacak söz bırakmayacağı için o iş yatar genşler. vazgeçtim.
    
   entry_writer: shinigami ryuk
 ---
