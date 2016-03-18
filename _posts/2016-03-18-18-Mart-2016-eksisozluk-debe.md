@@ -47,7 +47,7 @@ data:
   entry_id: 59289159
   entry_content: |
     
-    karayipli koca bulmamız gerektiğini gösteren videodur.  <br/>olm o nasıl şeker bi kız? o nası tatlılık? o ne güzel hem türkçe hem ingilizce aksanı. çukulata tenlim, yirim seni. <br/>karayipliler eqlesin pls.
+    karayipli koca bulmamız gerektiğini gösteren videodur.  <br/>olm o nasıl şeker bi kız? o nası tatlılık? o ne güzel hem türkçe hem ingilizce aksanı. çukulata tenlim, yirim seni. <br/>karayipliler eqlesin pls.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>) (<a class="b" href="/entry/59265922">#59265922</a>)
    
   entry_writer: bir nick var benden iceri
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 59284453
   entry_content: |
     
-    2 saat sonra....<br/><br/><a class="b" href="/?q=eyleme+kat%c4%b1lanlar">eyleme katılanlar</a><br/>1)danikunited
+    2 saat sonra....<br/><br/><a class="b" href="/?q=eyleme+kat%c4%b1lanlar">eyleme katılanlar</a><br/>1)danikunited<br/><br/>(bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/entry/59265922">#59265922</a>)
    
   entry_writer: cin fikir
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 59308021
   entry_content: |
     
-    gs avrupa'dan elenince veya ceza alinca halay ceken at yaraklarinin laf attigi taraftardir..<br/><br/>hadi siktirin gidin simdi.
+    gs avrupa'dan elenince veya ceza alinca halay ceken at yaraklarinin laf attigi taraftardir..<br/><br/>hadi siktirin gidin simdi.<br/><br/>edit: (bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>)
    
   entry_writer: n8
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 59288418
   entry_content: |
     
-    “kadın da kendini bilecek. ‘benim çocuğum var’ diyor, arkasından da ‘beni taciz etti’ diyor. tutarsızlığa bak. söyleme o zaman!”?<br/><br/>''benim de annem kadın.''<br/><br/>''ben nurgül’ün nesini taciz edeceğim? beyonce mi o? bilime aykırı, akla aykırı.''<br/><br/>***********************************************<br/><br/>bence kendisinin de milyonlarca sperm arasından birinci gelmesi bilime ve akla aykırı.
+    “kadın da kendini bilecek. ‘benim çocuğum var’ diyor, arkasından da ‘beni taciz etti’ diyor. tutarsızlığa bak. söyleme o zaman!”�<br/><br/>''benim de annem kadın.''<br/><br/>''ben nurgül’ün nesini taciz edeceğim? beyonce mi o? bilime aykırı, akla aykırı.''<br/><br/>***********************************************<br/><br/>bence kendisinin de milyonlarca sperm arasından birinci gelmesi bilime ve akla aykırı.
    
   entry_writer: offensive
 - entry_name: |
@@ -138,14 +138,6 @@ data:
     (bkz:  <a class="b" href="/?q=yaratamad%c4%b1">yaratamadı</a>)
    
   entry_writer: tas suratli
-- entry_name: |
-    ensar vakfı'nı itibarsızlaştırma projesi
-  entry_id: 59292973
-  entry_content: |
-    
-    1- 9-10 yasindaki erkek cocuklari sik..<br/>2- yakalan.<br/>3- yakalaninca feto, esad diye zirvala.<br/><br/>tipik bir islamci kafasi iste.
-   
-  entry_writer: scannegro
 - entry_name: |
     17 mart 2016 beyoğlu alman lisesi tatili
   entry_id: 59284677
@@ -183,7 +175,7 @@ data:
   entry_id: 59302054
   entry_content: |
     
-    galatasarayli olarak soyluyorum boyle hakem olmaz amk..<br/><br/>ulan bizede ayni boku yemislerdi real macinda. boyle mac mi yonetilir.<br/><br/>edit: "bu gol hem braga'ya, hem hakeme."<br/>edit 2: mehmet ne mi yapsin kolarini? <br/>"kivirip hakemin gotune soksun."<br/>edit 3: icim sogumadi lan.<br/><br/>senin gibi hakemin evini barkını tahtasını silgisini kuzenini kumasını sevenini sayanını bebeğini gömecini dedesini yedi ceddini doğurtan ebesini beynini makmunu bahçesini zakmunu tuttuğu silgisini ciğerini veremini böbreğinin taşını omzundaki başını gözündeki yaşını anlındaki gaşını sevdiceklerin hepsini tek tek gondiklesinler.
+    galatasarayli olarak soyluyorum boyle hakem olmaz amk..<br/><br/>ulan bizede ayni boku yemislerdi real macinda. boyle mac mi yonetilir.<br/><br/>edit: "bu gol hem braga'ya, hem hakeme."<br/>edit 2: mehmet ne mi yapsin kolarini? <br/>"kivirip hakemin gotune soksun."<br/>edit 3: icim sogumadi lan.<br/><br/>debe editi : küfür konusunda çok fazla mesaj aldığım için kaldırmak zorunda kaldım. meğer ne kadar sevgi pıtırcığı ve düzgün insanlarmışız. alıntı olduğu için değişiklik yapmadığımı izah etmeye çalıştım ama anlaşılmamış herhalde. merak edenler <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=jaFlF7QAV_g" title="https://www.youtube.com/watch?v=jaFlF7QAV_g">buradan</a> bakabilirler.<br/><br/>onun yerine faydamız dokunsun diye;<br/><br/>(bkz: <a class="b" href="/?q=kaan%27%c4%b1+y%c3%bcr%c3%bct%c3%bcyoruz+kampanyas%c4%b1">kaan'ı yürütüyoruz kampanyası</a>)
    
   entry_writer: kraven
 - entry_name: |
@@ -203,7 +195,7 @@ data:
    
   entry_writer: vaalbara
 - entry_name: |
-    rte düşmanlarnn içten içe rte hayranlıkları
+    rte düşmanlarının içten içe rte hayranlıkları
   entry_id: 59290047
   entry_content: |
     
@@ -223,7 +215,7 @@ data:
   entry_id: 59288500
   entry_content: |
     
-    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok makyaj yapan sevgili demek, 2 tane sevgili demek. tabi bir tanesi hafif çirkin.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok afedersiniz bununla iki katına çıkan ufku sikeyim.
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok makyaj yapan sevgili demek, 2 tane sevgili demek. tabi bir tanesi hafif çirkin.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok afedersiniz bununla iki katına çıkan ufku sikeyim.<br/><br/>geleneksel debe editi: (bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>)
    
   entry_writer: 7ncidenemede
 - entry_name: |
@@ -255,7 +247,7 @@ data:
   entry_id: 59299892
   entry_content: |
     
-    walking dead olmadığı kesin olandır. zira her bölüm aynı bok dönüp duruyor. 30 küsür dizi takip eden ben sıkıntıdan sigarayı aynı anda içtiğimi görünce bıraktım diziyi.
+    walking dead olmadığı kesin olandır. zira her bölüm aynı bok olaylar dönüp duruyor. 30 küsür dizi takip eden ben, sıkıntıdan 2 sigarayı aynı anda içtiğimi görünce bıraktım diziyi.
     
   entry_writer: cok agir hakaret
 - entry_name: |
@@ -327,8 +319,8 @@ data:
   entry_id: 59305273
   entry_content: |
     
-    bir tane müslüman yanlış yapsa hemen "gerçek islam" yazanlar, burada bu cibilliyetsizin tüm avrupayı temsil etmediğini söyleyerek aklınca avrupayı savunuyor. amınakodumun yerinde neden müslümanlardan biri yapınca bütün islam alemi suçlu da onlar yapınca sadece o birey suçlu?!! afedersiniz ama sikerim böyle çifte standardı. gerçek avrupa amk var mı? o götünü yaladığınız, taptığınız gerçek avrupa bu işte. tamam, sakinim.
-    
+    bir tane müslüman yanlış yapsa hemen "gerçek islam" yazanlar, burada bu cibilliyetsizin tüm avrupayı temsil etmediğini söyleyerek aklınca avrupayı savunuyor. amınakodumun yerinde neden müslümanlardan biri yapınca bütün islam alemi suçlu da onlar yapınca sadece o birey suçlu?!! afedersiniz ama sikerim böyle çifte standardı. gerçek avrupa amk var mı? o götünü yaladığınız, taptığınız gerçek avrupa bu işte. tamam, sakinim..<br/><br/>rica üzerine gelen edit:<br/>(bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>)<br/>(<a class="b" href="/entry/59265922">#59265922</a>)
+   
   entry_writer: irtical
 - entry_name: |
     andy-ar araştırma şirketi'nin taraftar araştırması
@@ -343,8 +335,8 @@ data:
   entry_id: 59295137
   entry_content: |
     
-    demokrasinin bug'ını bulan kişidir.
-    
+    demokrasinin bug'ını bulan kişidir..<br/><br/>debe editi: <a class="b" href="/entry/59265922">#59265922</a> dikkate alalım lütfen!
+   
   entry_writer: ne diyosun anlamiyorum
 - entry_name: |
     türk kadınının uluslararası piyasası
@@ -359,7 +351,7 @@ data:
   entry_id: 59299631
   entry_content: |
     
-    "ibrahim tatlıses gibi sinema duayenleri" nden sonrasını okumadım..<br/><br/>(bkz: <a class="b" href="/?q=uzaya+%c3%a7%c4%b1kan+ilk+t%c3%bcrk+k%c3%bcrtt%c3%bcr">uzaya çıkan ilk türk kürttür</a>)<br/><br/>ne meraklıymışınız memleketi bölmeye be anasına etnik kökenlerinden böldüklerim
+    "ibrahim tatlıses gibi sinema duayenleri" nden sonrasını okumadım..<br/><br/>(bkz: <a class="b" href="/?q=uzaya+%c3%a7%c4%b1kan+ilk+t%c3%bcrk+k%c3%bcrtt%c3%bcr">uzaya çıkan ilk türk kürttür</a>)<br/><br/>ne meraklıymışınız memleketi bölmeye be anasını etnik kökenlerinden böldüklerim<br/><br/>:imla<br/><br/>debedit<sup class="ab"><a title="(bkz: yapmazsam ayıbolur)" href="/?q=yapmazsam+ay%c4%b1bolur" data-query="yapmazsam ayıbolur">*</a></sup> : sözlük benim badi kankulitamı niye uçurdun lan allahsız :(( <br/><br/>(bkz: <a class="b" href="/?q=muharrem89+geri+getirilsin+kampanyas%c4%b1">muharrem89 geri getirilsin kampanyası</a>)
    
   entry_writer: discodisco
 - entry_name: |
@@ -367,7 +359,7 @@ data:
   entry_id: 59306307
   entry_content: |
     
-     <a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CdyGAdNWEAAB_oZ.jpg:large" title="https://pbs.twimg.com/media/CdyGAdNWEAAB_oZ.jpg:large">https://pbs.twimg.com/…ia/cdygadnweaab_oz.jpg:large</a>
+     <a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CdyGAdNWEAAB_oZ.jpg:large" title="https://pbs.twimg.com/media/CdyGAdNWEAAB_oZ.jpg:large">https://pbs.twimg.com/…ia/cdygadnweaab_oz.jpg:large</a><br/><br/>debe editi: (bkz: <a class="b" href="/?q=ta%c5%9fl%c4%b1dere+ilk%c3%b6%c4%9fretim+okulu+yard%c4%b1m+kampanyas%c4%b1">taşlıdere ilköğretim okulu yardım kampanyası</a>) (<a class="b" href="/entry/59265922">#59265922</a>)
    
   entry_writer: s2m
 - entry_name: |
@@ -375,7 +367,7 @@ data:
   entry_id: 59300428
   entry_content: |
     
-    iki eleme geçip londra'ya gidiyorsa eğer, bu piçler sırf maytap geçmek için çağırmadılarsa ben bir şey bilmiyorum. jüri muhtemelen;;<br/>-abi türkiye'den de başvuru var. <br/>--neymiş gösterin. <br/>-corc göstersene hadi daha eve gidip köpeği gezdireceğim. <br/>-abi açtım ya. <br/>---nasıl yani?<br/>----olum bu defter kapladığımız jelatinden araba mı kaplamışlar?<br/>-çağır lan çağır. <br/>---asghhkjjjhdss çağır kesin çağır.
+    iki eleme geçip londra'ya gidiyorsa eğer, bu piçler sırf maytap geçmek için çağırmadılarsa ben bir şey bilmiyorum. jüri muhtemelen;;<br/>-abi türkiye'den de başvuru var. <br/>--neymiş gösterin. <br/>-corc göstersene hadi daha eve gidip köpeği gezdireceğim. <br/>-abi açtım ya. <br/>---nasıl yani?<br/>----olum bu defter kapladığımız jelatinden araba mı kaplamışlar?<br/>-çağır lan çağır. <br/>---asghhkjjjhdss çağır kesin çağır.<br/><br/>debe editi; kaynımgillere selam ediyorum. o değilde organ bağışlayın lan. valla bak birçok insan sırada.
    
   entry_writer: howard roark
 - entry_name: |
