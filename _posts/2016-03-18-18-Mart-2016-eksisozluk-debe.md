@@ -111,7 +111,7 @@ data:
   entry_id: 59288418
   entry_content: |
     
-    “kadın da kendini bilecek. ‘benim çocuğum var’ diyor, arkasından da ‘beni taciz etti’ diyor. tutarsızlığa bak. söyleme o zaman!”�<br/><br/>''benim de annem kadın.''<br/><br/>''ben nurgül’ün nesini taciz edeceğim? beyonce mi o? bilime aykırı, akla aykırı.''<br/><br/>***********************************************<br/><br/>bence kendisinin de milyonlarca sperm arasından birinci gelmesi bilime ve akla aykırı.
+    “kadın da kendini bilecek. ‘benim çocuğum var’ diyor, arkasından da ‘beni taciz etti’ diyor. tutarsızlığa bak. söyleme o zaman!”?<br/><br/>''benim de annem kadın.''<br/><br/>''ben nurgül’ün nesini taciz edeceğim? beyonce mi o? bilime aykırı, akla aykırı.''<br/><br/>***********************************************<br/><br/>bence kendisinin de milyonlarca sperm arasından birinci gelmesi bilime ve akla aykırı.
    
   entry_writer: offensive
 - entry_name: |
