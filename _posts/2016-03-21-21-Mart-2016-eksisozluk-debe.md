@@ -3,20 +3,10 @@ layout: post
 title: 21 Mart 2016 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    ülke yanarken sümeyye erdoğan'ın nişanlanması
-  entry_id: 59377055
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=mahalle+yanarken+orospu+sa%c3%a7%c4%b1n%c4%b1+tararm%c4%b1%c5%9f">mahalle yanarken orospu saçını tararmış</a>)
-   
-  entry_writer: arzawa
-- entry_name: |
     emekli subayın facebook paylaşımı
   entry_id: 59383148
   entry_content: |
     
-    bizzat tanıdığım bir emekli albayın facebookta paylaştığı yazıdır. kendi kızının dahi paylaşımlarına sinirlenip bu paylaşımı yapmıştır. mümkün olduğunca çok kişiye ulaşması için buraya taşıdım. sizin de yardımcı olmanızı rica ediyorum..<br/><br/>kendisini ifşa etmemek adına profil linkini tabi ki paylaşmayacağım. buyrun yazı aynen aşağıdaki gibi. benim inanılmaz hoşuma gitti.<br/><br/>"sivillerin öldürülmesine karşıyız!<br/>sokaktaki insanından başbakanına, cahilinden aydınına, türkünden kürdüne kadar her kesimin kullandığı hatta kızımın dahi paylaştığı moda deyim: “sivillerin öldürülmesine karşıyız” <br/>azıcık türkçe biliyorsanız bunun anlamı çok nettir; “asker, polis öldürülmesine karşı değiliz” <br/>tabii bu askerler, baba değildir, yaşama hakları yoktur, sırf üniforma giydiği için insan bile değildir aslında. 14 yaşında evinden annesinin kucağından ayrılıp askeri okula gitmiş olmanın bir cezası olmalıdır elbet. 14 yaş… daha siz elinizi sıcak sudan soğuk suya değdirmezken yatılı okul hayatının, içtimaların, sabahın 06.00’sından sonra hafta sonu bile uyuyamamanın, derdinizde başınızı yaslayacağınız hiç kimse olmayışının, siz üniversiteye gitme yaşındayken hatta giderken bile yatak yapmaz iken her gün 15 dk yatak düzeltmenin, dolapta ayakkabı boyası yanlış yerde diye ceza almanın, mayo ile sürünmenin, siz her gün dışarda cebinizde para starbucks kahve içerken haftada bir gün okul dışına çıkabilmenin, 15 defa evinizi taşımanın, çocuğunuzdan uzak kalıp ilgilenememenizin, sevginizi gösterememenizin, sizin adını dahi duymadığınız yerlerde görev yapmanın, annenizi ölmeden önce son bir kez görememiş olmanızın bir karşılığı olmalıdır elbet. <br/>evet buldum; “sivillerin öldürülmesine karşıyız”. yani demem o ki; “asker öldürülebilir!”<br/>-35 derecede dağda yatan, günlerce aylarca evine gidemeyen, köydeki şehirdeki vatandaşı ailesi huzur içinde otursun diye elinde silah görev yapan, yeni doğan çocuğunu aylar sonra görebilen, ıslanan, donan, yaralanan, ölen, yanında en yakın arkadaşı veya askerinin ayağının kolunun koptuğunu gören, devletin ulaşamadığı en ücra yerdeki okulu onaran, yemeğini veren, öğretmenini koruyan, yılan sokan köylü çocuğu devletin helikopteri ile hastaneye nakleden, köyü terörist basmasın diye arazide sabaha kadar bekleyen, yakalanan teröriste dahi elindeki yemeğini, montunu veren asker, son çare olarak silahını kullanmak için eğitilmiştir. ne kürt diye, ne de başka bir sebeple öldürmeye programlanmamıştır. terörist veya düşman bile olsa karşısındaki öncelikli görevi öldürmek değildir. o da bir insandır sizin gibi. robot değil, duygusuz, ruhsuz değil. ya kendini, ya vatandaşı, ya da anayasa başta olmak üzere kanunun verdiği yetkiyi kullanmak için öldürebilir elbette. savaş sanatını ülkesini, devletini korumak için öğrenen askerin, bunu ama ideal haline getirip ama sadece ailesinin geçimini sağlamak için yapıyor olması da çok fark etmez aslında. bu söylemi savunan pkk lıları, teröristleri ve destekçilerini anlamak mümkündür. asıl sorun terörü desteklemeyen hatta terörle mücadele görevi olanların, insan hakları savunucularının dahi bu fikri ifade etmeleridir. hayvanın, bitkinin, teröristin dahi yaşama hakkı var iken, subay astsubayın polisin yaşama hakkını tartışan bu kesimin cahilliği, dar bakış açısını anlamak ise mümkün değildir. bazı sözde hümanist, olaya sadece insan hakları, demokrasi, devlete karşı çıkma mantığıyla bakan okumuş yazmış kitle ise tam bir ikilem içindedir. her gün devletin imkanlarını, yolunu, elektriğini, otobüsünü, doğalgazını, metrosunu kullanıp, devletten maaş alan babasının parasını yiyip, o parayla eylem yerine giden, devletin hastanesinde muayene olan, devletin okulunda okuyan, sonra da devlete terörist diyen, devletin üniformalı memuruna ölümü hak görenler keşke devletin hatalarını askerin ölmesine üzülmeyecek noktaya getirmeden düşünebilselerdi; olayın basit bir terör meselesi olmadığını, sadece türk-kürt meselesi ile sınırlı olmadığını, kürt devleti kurulsa bile bu sorunun bitmeyeceğini. keşke içlerindeki o insancıl duyguyu daha güzel ifade edip, benim ölen terörist de olsa üzüldüğüm kadar üzülebilseydiniz ölen askere polise. keşke benim de sivillerin öldürülmesine karşı olduğum kadar siz de askerin/polisin öldürülmesine karşı olabilseydiniz…"<br/><br/>edit: ben hayatımda bu kadar gerizekalıyı bir arada görmedim. yazının subaylığın zorluğu ile değil, "sivil öldürülmesin" söylemi ile alakalı olduğunu anlayamayacak kadar katı kafalarınız var. asker de öldürülmesin diyor yazı arkadaş.<br/><br/>ayrıca bu yazıdaki serzenişin sebebini biraz daha açıklayayım ki katı kafalardan da geçsin. <br/><br/>bu subayın kızı sürekli olarak saçma sapan asker karşıtı paylaşımlarda bulunuyor. hatta asker karşıtlığını da geçip kimi zaman pkk yandaşı paylaşımlarda da bulunuyor. sürekli olarak ilginç ilginç mitinglere gidiyor ve ailesi ile bile çatışıyor yeri geliyor. bu paylaşımdaki serzeniş kısmı daha çok kızına yönelik olmakla beraber, bence hepimizin okuyup bir şeyler çıkarabileceği bir serzeniştir. o yüzden de mümkün olduğunca yayılmasını istiyorum ben şahsen.
-   
   entry_writer: gkn s
 - entry_name: |
     hangi erkekler için hangi erkekleri üzdük
@@ -58,14 +48,6 @@ data:
     (bkz:  <a class="b" href="/?q=6.5+milyar+tl+benim+vaaz%c4%b1ma+yetmez">6.5 milyar tl benim vaazıma yetmez</a>)
    
   entry_writer: nuri alconun aile hekimi
-- entry_name: |
-    20 mart 2016 gs fb maçının ertelenmesi
-  entry_id: 59375811
-  entry_content: |
-    
-    saat 17:00 ye kadar patlama olursa diye son ana kadar şansını zorlayan yetkililerimiz, baktılar patlama yok; maçı başka patlamalı bir güne ertelediler..<br/><br/>lan oğlum insan gibi önceden ertelesene maçı, nasıl aptal adamlarsınız siz? aptallık memleketi esir aldı. piknik tüpü gibi beyin var adamlarda.
-   
-  entry_writer: not necessarily
 - entry_name: |
     youtube'daki akıllara zarar pkk propagandası
   entry_id: 59366317
@@ -147,14 +129,6 @@ data:
    
   entry_writer: afakanakafa
 - entry_name: |
-    20 mart 2016 sümeyye erdoğan'ın nişanlanması
-  entry_id: 59379094
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=mahalle+yanarken+orospu+sa%c3%a7%c4%b1n%c4%b1+tararm%c4%b1%c5%9f">mahalle yanarken orospu saçını tararmış</a>)
-   
-  entry_writer: nuktedan
-- entry_name: |
     20 mart 2016 derbinin seyircisiz oynanması
   entry_id: 59374911
   entry_content: |
@@ -175,7 +149,7 @@ data:
   entry_id: 59371730
   entry_content: |
     
-    kardeş canımı sokakta bulmadım ben.teröre destek mi oluyor köstek mi oluyor sikimde değil.sikko politikalar yüzünden ölmek istemiyorum..<br/><br/>yalandan tanım: bir eylem.
+    kardeş canımı sokakta bulmadım ben.teröre destek mi oluyor köstek mi oluyor sikimde değil.sikko politikalar yüzünden ölmek istemiyorum..<br/><br/>yalandan tanım: bir eylem.<br/><br/>debe editi: güleriz ağlanacak halimize bu sabah işe giden arkadaştan geliyor <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/ljbR6E.png" title="http://i.hizliresim.com/ljbR6E.png">http://i.hizliresim.com/ljbr6e.png</a>
    
   entry_writer: follow rivers
 - entry_name: |
@@ -239,7 +213,7 @@ data:
   entry_id: 59365214
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=%c5%9fom+a%c4%9f%c4%b1zl%c4%b1+pezevenk">şom ağızlı pezevenk</a>)
+    (bkz:  <a class="b" href="/?q=%c5%9fom+a%c4%9f%c4%b1zl%c4%b1+pezevenk">şom ağızlı pezevenk</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+yazar%c4%b1n+ba%c5%9f%c4%b1na+kalmas%c4%b1">başlığın yazarın başına kalması</a>)
    
   entry_writer: eros 1983
 - entry_name: |
@@ -250,14 +224,6 @@ data:
     allah kimseyi survivor izlemiyorum diye övünecek kadar düşürmesin. sanırım kendilerinde bulabildikleri tek özellik bu.
     
   entry_writer: 4hm37
-- entry_name: |
-    19 mart 2016 taksim patlaması
-  entry_id: 59368079
-  entry_content: |
-    
-    saldirgan isid'li mehmet ozturk cikti. bu teror saldirisi aci bir gercegi daha ortaya cikardi. bombaci  <a class="b" href="/?q=pkk">pkk</a>'li olunca "inlerine girecegiz, akademisyenler gununu gorecek, hdp terorist, chp de terorist. orgut pkk". <br/><br/>isid'li olunca ise isid'li oldugu anlasilmasin diye lafi dolandirma, orgut adi vermeme. medyaya yanlis bilgiler sizdirma, trollere algi carpitacak saldirganlik yaptirtma. sessizce bekleyip halkin pkk olduguna inanmasini bekleme. hic "inlerine girecegiz, artik bu dinciler rahat rahat konusamayacak. oyle terore destek olamayacak. yasal gorunumlu dernekler isid'e eleman tasiyor. bunlarin hesabini soracagiz" falan diyen bulamazsiniz. <br/><br/>akp budur. terorle gercek bir mucadele veremez. cunku dunyanin en vahsi teror orgutlerini korumus kollamis bir yapi. simdi sormak gerek akp'liler mutlu musunuz? ulkuculer. yanyana savastiklariniz bunlar, mutlu musunuz? terorun her turlusune karsi olmayan bir kuvvet, teroru bitiremez. biz de boyle evde otururuz kos kos.
-   
-  entry_writer: simitci
 - entry_name: |
     20 mart 2016 favori sayılarının sıfırlanması
   entry_id: 59365292
@@ -274,14 +240,6 @@ data:
     aslında  <a class="b" href="/?q=insanlar+olmasa+devlet+y%c3%b6netmek+%c3%a7ok+kolay">insanlar olmasa devlet yönetmek çok kolay</a> mı demek istemiş hanımefendi acaba anlamadım tam.
    
   entry_writer: mumutt
-- entry_name: |
-    100 yıl sonra bugünler için sarfedilecek söz
-  entry_id: 59376840
-  entry_content: |
-    
-    (bkz: sonra geberdi orospu çocuğu da memleket huzura erdi)
-    
-  entry_writer: siyahbeyaznegatif
 - entry_name: |
     devlet hastanesiyle özel hastane arasındaki fark
   entry_id: 59374393
@@ -303,7 +261,7 @@ data:
   entry_id: 59380738
   entry_content: |
     
-    bir kâse beyaz leblebi. bir çay bardağı rakı. haydarpaşa dalgakıranının önü, sandalda sallanırken. yağmur çiseliyor, ama hava ılık. çevrede martılar simit bekler. ben de çok bekledim, ama gelmedi be kardeş. gelmiyor da. tek çare, benim onun yanına gitmem.
+    bir kâse beyaz leblebi. bir çay bardağı rakı. haydarpaşa dalgakıranının önü, sandalda sallanırken. yağmur çiseliyor, ama hava ılık. çevrede martılar simit bekler. ben de çok bekledim, ama gelmedi be kardeş. gelmiyor da. galiba tek çare, benim onun yanına gitmem. uzanıyor ama dokunamıyorum. anlatamıyorum.
     
   entry_writer: cenkuzun
 - entry_name: |
@@ -394,12 +352,4 @@ data:
     eskiden ortadogu simdiki gibi igrenc bir bok cukuru olmadigi icin, antik cagda medeniyetin besigi falan oldugu icin oyle konmustur belki. odtu'nun kuruldugu yillarda (1956) basta turkiye ve iran olmak uzere cogu ortadogu ulkesinde laik devlet duzenleri, kadin erkek esitligi, bugune gore cok daha ozgur sosyal hayat vardi. ortadoğu bugünkü gibi ilkel, psikopat, vahşi, sürekli yenilip duran ezik bir imaja sahip değildi.
     
   entry_writer: vieques
-- entry_name: |
-    20 mart 2016 pınar karşıyaka fenerbahçe maçı
-  entry_id: 59372095
-  entry_content: |
-    
-    karşıyaka taraftarının tezahüratı 10 dakikadır sürüyor. gözünü sevdiğim izmir'i be..<br/><br/>"10 sene üst üste iktidar oldun<br/>memleketin amına koydun<br/>siktir ol git<br/>siktir ol git<br/>siktir ol git<br/>recep tayyip..."
-   
-  entry_writer: ya birak ya
 ---
