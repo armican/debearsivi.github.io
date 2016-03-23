@@ -55,7 +55,7 @@ data:
   entry_id: 59420599
   entry_content: |
     
-    valla kusura bakmayın dostlar. adam bu sefer haklı..<br/><br/>avrupalılar'ın terör konusundaki iki yüzlülüğü midemi bulandırıyor. insanların kan ve gözyaşları üzerine kurulan medeniyetler payidar kalamaz. artık bunu iyice anlasınlar.
+    valla kusura bakmayın dostlar. adam bu sefer haklı..<br/><br/>zöge büdüt: "tayyip haklıdır" diyip debe'ye girdim ya la. olum naptık biz kendimize? nasıl bir tufaya geldik? hep beraber karanlık tarafa geçtik resmen. hmm. güzel bir sosyal deney oldu. demek ki bombalar bu işe yarıyor.
    
   entry_writer: seylann
 - entry_name: |
@@ -74,14 +74,6 @@ data:
     atatürk'ün galiba abd büyükelçisiyle atatürk orman çiftliği'nde fransızca konuştuğu  <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WA5lV0OXzFA" title="https://www.youtube.com/watch?v=WA5lV0OXzFA">görüntülerdir</a>. <br/><br/>lan nerden nereye arkadaş ya. seksen sene önce şakır şakır fransızca konuşan liderimiz varken şimdilerde akdeniz'in ingilizcesini <a class="b" href="/?q=white+sea">white sea</a> zanneden barzolara kaldık.<br/><br/>ah ulan ah...
    
   entry_writer: the dawn mist glowing
-- entry_name: |
-    23 mayıs 2016 askeri darbe hazırlığı
-  entry_id: 59425037
-  entry_content: |
-    
-    asker darbe hazırlığı yapıyor;;<br/><br/>-hazırlıklar başladı mı? <br/>+başladı komutanım. <br/>-ilk olarak ne yapacağınızı biliyorsunuz.<br/>+evet komutanım talimatlarla ekşisözlük'e başlık açtırdık. <br/>-mükemmel. herkesi haberdar edin, özellikle tarihi verin ki salak olduğumuz iyice belli olsun.
-   
-  entry_writer: tembelliginkatibi
 - entry_name: |
     22 mart 2016 davutoğlu'nun gaza gelmesi
   entry_id: 59424251
@@ -167,7 +159,7 @@ data:
   entry_id: 59422873
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=su%c3%a7+ve+reza">suç ve reza</a>)
+    (bkz:  <a class="b" href="/?q=su%c3%a7+ve+reza">suç ve reza</a>)<br/><br/>debe: (bkz: <a class="b" href="/?q=ensar+vakf%c4%b1+kapat%c4%b1ls%c4%b1n">ensar vakfı kapatılsın</a>)
    
   entry_writer: toma ya kafa atan doktor
 - entry_name: |
@@ -219,7 +211,7 @@ data:
     
   entry_writer: zerdest
 - entry_name: |
-    gelmiş geçmiş en yakışıklı erkek
+    dünyanın gelmiş geçmiş en yakışıklı erkeği
   entry_id: 59442528
   entry_content: |
     
@@ -363,7 +355,7 @@ data:
    
   entry_writer: limon kimyon zorro
 - entry_name: |
-    kedilerin abartılmış hayvanlar olması
+    kedinin çok overrated bir hayvan olması
   entry_id: 59419707
   entry_content: |
     
@@ -399,7 +391,7 @@ data:
   entry_id: 59424449
   entry_content: |
     
-    an itibariyle belçika'da yayın yasağı yok.  <br/>olay yerinde toma yok, ambulans var.<br/>taksiler ücretsiz.<br/>operatörler vatandaşların telefonuna ücretsiz internet paketi yüklüyor, hukumetin yaptığı açıklamalarda telefon yerine internetten haberleşin şeklinde yönlendirmeler var. <br/><br/>belçika'nın kamu kurumları vatandaşları <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/TurkeyBlocks/status/712210231191801856" title="https://twitter.com/TurkeyBlocks/status/712210231191801856">twitter</a> üzerinden anlık olarak bilgilendiriyor, başbakan <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/CharlesMichel" title="https://twitter.com/CharlesMichel">bile tweet atmış</a> yönlendiriyor, organize ediyor, hem de iki dilde.<br/><br/>türkiye'de olsa facebook ve twitter kapatılırdı.
+    an itibariyle belçika'da yayın yasağı yok.  <br/>olay yerinde toma yok, ambulans var.<br/>taksiler ücretsiz.<br/>operatörler vatandaşların telefonuna ücretsiz internet paketi yüklüyor, hukumetin yaptığı açıklamalarda telefon yerine internetten haberleşin şeklinde yönlendirmeler var. <br/><br/>belçika'nın kamu kurumları vatandaşları <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/TurkeyBlocks/status/712210231191801856" title="https://twitter.com/TurkeyBlocks/status/712210231191801856">twitter</a> üzerinden anlık olarak bilgilendiriyor, başbakan <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/CharlesMichel" title="https://twitter.com/CharlesMichel">bile tweet atmış</a> yönlendiriyor, organize ediyor, hem de iki dilde.<br/><br/>türkiye'de olunca, twitter ve facebook kapatılıyor.
    
   entry_writer: ginger root
 ---
