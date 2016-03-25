@@ -19,19 +19,11 @@ data:
     
   entry_writer: degidide
 - entry_name: |
-    canlı köpeği pres bölümüne atan çorumlu belediye
-  entry_id: 59471883
-  entry_content: |
-    
-    belediyenizin de allah belasını versin, insanlığınızın da. defolup gidin lan bu hayattan. siz olmamışsınız. sizin yaşadığınız hayat değil. bize vereceğiniz bir şey yok. sizden alacağımız bir şey yok. ne olur siktirip gidin artık.
-    
-  entry_writer: seylann
-- entry_name: |
     24 mart 2016 turkcell açıklaması
   entry_id: 59477889
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hem+pekmezim+d%c3%b6k%c3%bclmesin+hem+g%c3%b6t%c3%bcm+sikilmesin">hem pekmezim dökülmesin hem götüm sikilmesin</a>)<br/><br/>edit: keşke böyle girmeseydik debeye :( <br/>reklam yapayım bari: <br/><a rel="nofollow" class="url" target="_blank" href="http://efsanecubuklu.com/" title="http://efsanecubuklu.com/">efsanecubuklu.com</a> <a rel="nofollow" class="url" target="_blank" href="http://twitter.com/efsanecubuklu01" title="http://twitter.com/efsanecubuklu01">twitter @efsanecubuklu01</a>
+    (bkz:  <a class="b" href="/?q=hem+pekmezim+d%c3%b6k%c3%bclmesin+hem+g%c3%b6t%c3%bcm+sikilmesin">hem pekmezim dökülmesin hem götüm sikilmesin</a>)<br/><br/>edit: keşke böyle girmeseydik debeye :( <br/>reklam yapayım bari: <br/><a rel="nofollow" class="url" target="_blank" href="http://efsanecubuklu.com/" title="http://efsanecubuklu.com/">efsanecubuklu.com</a> <a rel="nofollow" class="url" target="_blank" href="http://twitter.com/efsanecubuklu01" title="http://twitter.com/efsanecubuklu01">twitter @efsanecubuklu01</a><br/><br/>edit 2: (bkz: <a class="b" href="/?q=artvin%27de+erkek+%c3%a7ocuklara+tecav%c3%bcz+iddias%c4%b1">artvin'de erkek çocuklara tecavüz iddiası</a>)
    
   entry_writer: filth01
 - entry_name: |
@@ -47,7 +39,7 @@ data:
   entry_id: 59484245
   entry_content: |
     
-    üniversitede iken  <a class="b" href="/?q=massachusetts+institute+of+technology">massachusetts institute of technology</a> mezunu, türkçe sevdalısı amerikalı bir profesör hocam vardı. kendisi ingiliz edebiyatı alanında uzman olmasına rağmen bizden daha iyi istanbul türkçesi kullanır ve osmanlıca da bilirdi. defaatle de türkçenin ingilizce karşısındaki zenginliğine hayran olduğunu belirtirdi. bu hocam şimdi aklıma geldi ise nedeni bu saçma sapan başlıktır. her dil, coğrafi koşullar, kültür ve hatta savaşlar nedeni ile diğer dillerde olmayan kavramlar taşır. muhtemelen körpe beyinciğine hücum eden yeni yabancı dil bilgisi nedeniyle beyin amcıklaması yaşayan bu arkadaş, çok kısıtlı olan <a class="b" href="/?q=inuit">inuit</a> dilinin sırf kuzey kutbu coğrafyasında şekillenmesi nedeniyle kar ile ilgili başka hiçbir dilde olmadığı kadar kelime barındırdığını öğrense bu sefer de dilimizi eskimo dili ile kıyaslardı.
+    üniversitede iken  <a class="b" href="/?q=massachusetts+institute+of+technology">massachusetts institute of technology</a> mezunu, türkçe sevdalısı amerikalı bir profesör hocam vardı. kendisi ingiliz edebiyatı alanında uzman olmasına rağmen bizden daha iyi istanbul türkçesi kullanır ve osmanlıca da bilirdi. defaatle de türkçenin ingilizce karşısındaki zenginliğine hayran olduğunu belirtirdi. bu hocam şimdi aklıma geldi ise nedeni bu saçma sapan başlıktır. her dil, coğrafi koşullar, kültür ve hatta savaşlar nedeni ile diğer dillerde olmayan kavramlar taşır. muhtemelen körpe beyinciğine hücum eden yeni yabancı dil bilgisi nedeniyle beyin amcıklaması yaşayan bu arkadaş, çok kısıtlı olan <a class="b" href="/?q=inuit">inuit</a> dilinin sırf kuzey kutbu coğrafyasında şekillenmesi nedeniyle kar ile ilgili başka hiçbir dilde olmadığı kadar kelime barındırdığını öğrense bu sefer de dilimizi eskimo dili ile kıyaslardı.<br/><br/>debedit:<br/><br/>"eyy simple english!"
    
   entry_writer: ssmtefl
 - entry_name: |
@@ -55,7 +47,7 @@ data:
   entry_id: 59475625
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=geliyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">geliyor gönlümün efendisi</a>)
+    (bkz:  <a class="b" href="/?q=geliyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">geliyor gönlümün efendisi</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=artvin%27de+erkek+%c3%a7ocuklara+tecav%c3%bcz+iddias%c4%b1">artvin'de erkek çocuklara tecavüz iddiası</a>) <br/><br/>çocuklarımıza sahip çıkalım. el sürmeye çalışanlara en ağır cezalar verilmesi için davaların takipçisi olalım. geçen karaman davası önergesi başta reddedildi fakat yoğun baskıyla çıkarılmak zorunda kalındı. biz takip ettikçe bu olayların yaşanmasının önüne geçebiliriz.<br/><br/>artvin'e de sahip çıkalım!
    
   entry_writer: eksiyeinat
 - entry_name: |
@@ -63,7 +55,7 @@ data:
   entry_id: 59485637
   entry_content: |
     
-    ben şahsen ölmekte olan bir insanın ruh halinde hissediyorum artık bu ülkede kendimi ve eminim benim gibi düşünen insanlar da aynen öyle hissediyor.  <br/><br/>nefes almakta zorlanıyoruz, hiçbir şey yapmak gelmiyor içimizden. geçmiş günleri hayal edip bir an umutlanıyoruz fakat o günlerin gelmeyeceğini anladığımız her an tekrar ölüm doşeğinde buluyoruz kendimizi.<br/><br/>bizi bu durumdan kurtaracak bir devacı bekliyoruz sürekli ama biliyoruz ki yok artık bu derdimize bir deva.<br/><br/>bizler öldük artık, yerimize gelenlerse yaşadıklarını sanacaklar ne yazık onlara. çocukları evlenecek onbirinde onikisinde, kocaları alacak ikinciyi, üçüncüyü. yöneticileri soyup soğana çevirecek hepsini, değer verdikleri hiçbir şey kalmayacak ellerinde eninde sonunda. <br/><br/>ve biz diyeceğiz ki ölüm döşeğinde bile; iyi ki yaşamışız o mutlu günleri, en mutlu günlerimiz olduğunun farkında olmasak bile...
+    ben şahsen ölmekte olan bir insanın ruh halinde hissediyorum artık bu ülkede kendimi ve eminim benim gibi düşünen insanlar da aynen öyle hissediyor.  <br/><br/>nefes almakta zorlanıyoruz, hiçbir şey yapmak gelmiyor içimizden. geçmiş günleri hayal edip bir an umutlanıyoruz fakat o günlerin gelmeyeceğini anladığımız her an tekrar ölüm doşeğinde buluyoruz kendimizi.<br/><br/>bizi bu durumdan kurtaracak bir devacı bekliyoruz sürekli ama biliyoruz ki yok artık bu derdimize bir deva.<br/><br/>bizler öldük artık, yerimize gelenlerse yaşadıklarını sanacaklar ne yazık onlara. çocukları evlenecek onbirinde onikisinde, kocaları alacak ikinciyi, üçüncüyü. yöneticileri soyup soğana çevirecek hepsini, değer verdikleri hiçbir şey kalmayacak ellerinde eninde sonunda. <br/><br/>ve biz diyeceğiz ki ölüm döşeğinde bile; iyi ki yaşamışız o mutlu günleri, en mutlu günlerimiz olduğunun farkında olmasak bile...<br/><br/>edit: öncelikle maçı izlemediğimi söylemeliyim, mevzuyu sözlükte gördüm ve yazdım yazıyı. benden önce bir ya da iki entry vardı ancak ne hikmetse yok oldular ve başlık bana kaldı, bu yüzden başlık ve yazı uyumsuz gibi oldu.<br/><br/>alttaki entrylerin büyük kısmını okudum ve bir kez daha akp kafasının nasıl çalıştığına şahit oldum. elbette kimse kimsenin giyim kuşam tercihlerine, hayat tarzına karışamaz, bir defa bu en çok bizlerin savunduğu insan haklarına ters. yıllarca ve bugün daha da fazla modern giyinen insanları dinen aforoz edenler sizler olsanız bile kendiniz için de olsa iki de bir insan haklarından bahsediyor olmanız da ayrıca takdire şayan. <br/><br/>pedagojik olarak inanılmaz sorunlu da olsa keşke mesele sadece küçücük kız çocuklarına türban taktırmak olsa. asıl mesele, yöneticilerin aslında senin inancının bir parçası olan türbanı ve diğer dini argümanları kullanarak her türlü pisliği yaparlerken senin buna alet oluyor olman. seni yöneten hiç kimsenin derdi türban değilken senin çocuğuna türban takabildiğin için duyduğun mutluluk sayesinde, sen asgari ücretinle öbür ayı zor getirirken o adamların milyon dolarları kutulaması sevgili kardeşim. <br/><br/>yine de yazarların büyük çoğunluğunun durumun farkında olması sevindirici. hepimiz görüyoruz ki toplumda önemli bir daralma var ve eninde sonunda bir yerde patlak verecek umudu taşıyoruz az da olsa.
    
   entry_writer: eseksudangelinceyekadar
 - entry_name: |
@@ -87,7 +79,7 @@ data:
   entry_id: 59483035
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=%c4%b1nl%c4%b1m%c4%b1d%c4%b1m+b%c4%b1b%c4%b1c%c4%b1m">ınlımıdım bıbıcım</a>)
+    (bkz:  <a class="b" href="/?q=%c4%b1nl%c4%b1m%c4%b1d%c4%b1m+b%c4%b1b%c4%b1c%c4%b1m">ınlımıdım bıbıcım</a>)<br/><br/>debedit: bu saçma bakınız ile debeye girmeme vesile olan tüm dostlara teşekkür ederim, <br/>ayrıca teşekkürler <a class="b" href="/?q=efendimis">efendimis</a>, teşekkürler <a class="b" href="/?q=%c5%9fehzademiss">şehzademiss</a>.
    
   entry_writer: iwidien
 - entry_name: |
@@ -151,7 +143,7 @@ data:
   entry_id: 59478158
   entry_content: |
     
-    akepenin, islami terör örgütü ışıda destek vermesinin bir başka kanıtıdır. bu kararı veren hakimler de,  <a class="b" href="/?q=lahey+uluslararas%c4%b1+sava%c5%9f+su%c3%a7lar%c4%b1+mahkemesi">lahey uluslararası savaş suçları mahkemesi</a>'nde terör suçuyla yargılanacaklar.<br/><br/>(bkz: <a class="b" href="/?q=akp%27nin+%c4%b1%c5%9fid%27e+destek+verdi%c4%9finin+kan%c4%b1tlar%c4%b1">akp'nin ışid'e destek verdiğinin kanıtları</a>)<br/><br/>(bkz: <a class="b" href="/?q=akp%27nin+%c4%b1%c5%9fid%27e+silah+sevkiyat%c4%b1n%c4%b1n+belgelenmesi">akp'nin ışid'e silah sevkiyatının belgelenmesi</a>)
+    akepenin, islami terör örgütü ışıda destek vermesinin bir başka kanıtıdır. bu kararı veren hakimler de,  <a class="b" href="/?q=lahey+uluslararas%c4%b1+sava%c5%9f+su%c3%a7lar%c4%b1+mahkemesi">lahey uluslararası savaş suçları mahkemesi</a>'nde terör suçuyla yargılanacaklar.<br/><br/>(bkz: <a class="b" href="/?q=akp%27nin+%c4%b1%c5%9fid%27e+destek+verdi%c4%9finin+kan%c4%b1tlar%c4%b1">akp'nin ışid'e destek verdiğinin kanıtları</a>)<br/><br/>(bkz: <a class="b" href="/?q=akp%27nin+%c4%b1%c5%9fid%27e+silah+sevkiyat%c4%b1n%c4%b1n+belgelenmesi">akp'nin ışid'e silah sevkiyatının belgelenmesi</a>)<br/><br/>debe: (bkz: <a class="b" href="/?q=alo+ba%c5%9fbakan%c4%b1m+kaza+yapt%c4%b1k+ambulans+g%c3%b6nder">alo başbakanım kaza yaptık ambulans gönder</a>)
    
   entry_writer: spool
 - entry_name: |
@@ -167,7 +159,7 @@ data:
   entry_id: 59477352
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=d%c3%bcnya+g%c3%b6z+hastanesi">dünya göz hastanesi</a>)
+    (bkz:  <a class="b" href="/?q=d%c3%bcnya+g%c3%b6z+hastanesi">dünya göz hastanesi</a>)<br/><br/>edit: laf sokarak debeye girmişim. <a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CeVXZS_WEAAljq4.jpg:large" title="https://pbs.twimg.com/media/CeVXZS_WEAAljq4.jpg:large">bari bi işe yarayım.</a><br/><br/>(bkz: <a class="b" href="/?q=artvin%27de+erkek+%c3%a7ocuklara+tecav%c3%bcz+iddias%c4%b1">artvin'de erkek çocuklara tecavüz iddiası</a>)
    
   entry_writer: nutellapilsen
 - entry_name: |
@@ -199,7 +191,7 @@ data:
   entry_id: 59489409
   entry_content: |
     
-    1- mehmetçik şehit olurr<br/>2- tv de acı bir yüz ifadesi ve hüzünlü bir ses tonu ile haberler verilir<br/>3- iktidar terörü lanetler<br/>4- muhalefet iktidarı eleştirir<br/>5- bir düzine jet kandili bombalar<br/>6- bu vatan içim toprağın altına giren mehmetçik 1 hafta sonra unutulur<br/>7- iyi uykular türkiye
+    1- mehmetçik şehit olurr<br/>2- tv de acı bir yüz ifadesi ve hüzünlü bir ses tonu ile haberler verilir<br/>3- iktidar terörü lanetler<br/>4- muhalefet iktidarı eleştirir<br/>5- bir düzine jet kandili bombalar<br/>6- bu vatan içim toprağın altına giren mehmetçik 1 hafta sonra unutulur<br/>7- iyi uykular türkiye<br/><br/>edit: keşke böyle bir entry ile girmeseydik debeye. keşke bu yazdıklarımın yanlış olduğunu ve türkiyenin böyle bir yer olmadığını tartışsaydık. keşke birlik olabilseydik. keşke şehitlere, bombalara, mayınlara alışmasaydık.
    
   entry_writer: tekopaco
 - entry_name: |
@@ -207,7 +199,7 @@ data:
   entry_id: 59469712
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=adam+hakl%c4%b1+beyler">adam haklı beyler</a>)<br/><br/>size bir hikaye anlatayım. gerçi çok popülerdir bu hikaye ya, yine de bilmeyenler vardır.<br/><br/>hayatta görülebilecek en güzel çiçeği arayan kızımız, bir bahçıvanın cep telefonunu bulmuş, kendisini aramıştır ama bahçıvan kendisini reddetmiştir. facebook, vk, instagram gibi sosyal ağları da işin içine katıp bahçıvanı stalklayarak en sonunda bahçıvanın ehyhtere be, tamam gel dediği bir duruma erişebilmiştir. <br/><br/>bahçıvanla buluştuklarında ona cep telefonundan davşanlı mavşanlı garip gurup vinelarını, scorplarını falan göstermiş, bahçıvandan da onay beklemiştir ama bahçıvan gülmemiştir. bunun üzerine kızımız "gülmezssen gülme gerizekalıaa" deyip buluşma amacı olan en güzel çiçeği istemiştir.<br/><br/>bahçıvan ona bahçeden giderken en güzel bulduğu çiçeği almasını, ama geriye dönmesinin yasak olduğunu söyler. kızımız bahçeye girer ve kendini cennette sanar. zira bahçıvan işinin ehlidir ve çiçekler de bir renk cümbüşü içerisinde kızımız selamlamaktadır. kızımız hemen telefonunu çıkarır selfie'sini yapar, instagram'a da "bahçıvanla çiçek qeyfi" diye atar.<br/><br/>kızımız tam bir çiçeği alackken, ileride daha güzel bir çiçek görür. ona gider, tam onu alacakken yine ileride daha güzel bir çiçek görür. kızımız bahçenin sonlarına yaklaşıyordur ve çiçeklerin kokusu onu mest etmiştir. koku paylaşabileceğimiz uygulamayı niye yapmıyorlar ki diye düşünedursun, bahçenin sonuna gelmiştir ve son çiçek solmuş bir papatyadır. kızımız el mecbur ya onu alacaktır, ya da çiçeksiz çıkacaktır. ama her türlü göte gelmiştir.<br/><br/>buradan kızlarımıza sesleniyorum. başka yere başka beklentilerle bakmadan önce, karşınızdaki kişinin değerini tam ve kesin olarak ölçün biçin. neymiş, 1.85 boyunda olacakmış, yakışıklı olacakmış, kültürlü olacakmış, zeki olacakmış. <br/><br/>ne demiş üstad: "öyle birini bulursan, önce gelsin beni siksin"<br/><br/>sikmesin tabi, latife amına koyim. heteroyum ben. <br/><br/>sikikler, çiçeklere bakın lan.
+    (bkz:  <a class="b" href="/?q=adam+hakl%c4%b1+beyler">adam haklı beyler</a>)<br/><br/>size bir hikaye anlatayım. gerçi çok popülerdir bu hikaye ya, yine de bilmeyenler vardır.<br/><br/>hayatta görülebilecek en güzel çiçeği arayan kızımız, bir bahçıvanın cep telefonunu bulmuş, kendisini aramıştır ama bahçıvan kendisini reddetmiştir. facebook, vk, instagram gibi sosyal ağları da işin içine katıp bahçıvanı stalklayarak en sonunda bahçıvanın ehyhtere be, tamam gel dediği bir duruma erişebilmiştir. <br/><br/>bahçıvanla buluştuklarında ona cep telefonundan davşanlı mavşanlı garip gurup vinelarını, scorplarını falan göstermiş, bahçıvandan da onay beklemiştir ama bahçıvan gülmemiştir. bunun üzerine kızımız "gülmezssen gülme gerizekalıaa" deyip buluşma amacı olan en güzel çiçeği istemiştir.<br/><br/>bahçıvan ona bahçeden giderken en güzel bulduğu çiçeği almasını, ama geriye dönmesinin yasak olduğunu söyler. kızımız bahçeye girer ve kendini cennette sanar. zira bahçıvan işinin ehlidir ve çiçekler de bir renk cümbüşü içerisinde kızımız selamlamaktadır. kızımız hemen telefonunu çıkarır selfie'sini yapar, instagram'a da "bahçıvanla çiçek qeyfi" diye atar.<br/><br/>kızımız tam bir çiçeği alackken, ileride daha güzel bir çiçek görür. ona gider, tam onu alacakken yine ileride daha güzel bir çiçek görür. kızımız bahçenin sonlarına yaklaşıyordur ve çiçeklerin kokusu onu mest etmiştir. koku paylaşabileceğimiz uygulamayı niye yapmıyorlar ki diye düşünedursun, bahçenin sonuna gelmiştir ve son çiçek solmuş bir papatyadır. kızımız el mecbur ya onu alacaktır, ya da çiçeksiz çıkacaktır. ama her türlü göte gelmiştir.<br/><br/>buradan kızlarımıza sesleniyorum. başka yere başka beklentilerle bakmadan önce, karşınızdaki kişinin değerini tam ve kesin olarak ölçün biçin. neymiş, 1.85 boyunda olacakmış, yakışıklı olacakmış, kültürlü olacakmış, zeki olacakmış. <br/><br/>ne demiş üstad: "öyle birini bulursan, önce gelsin beni siksin"<br/><br/>sikmesin tabi, latife amına koyim. heteroyum ben. <br/><br/>sikikler, çiçeklere bakın lan.<br/><br/>debe edit: bugün <a class="b" href="/?q=ecth">ecth</a>'in doğumgünüymüş. kesin bilgi, yayalım.
    
   entry_writer: ecth
 - entry_name: |
@@ -223,7 +215,7 @@ data:
   entry_id: 59472091
   entry_content: |
     
-    spekülatif ve manipülatif söylemlerden ibarettir..<br/><br/>nar ekşisine çamur atmak kabul edilebilemez.
+    spekülatif ve manipülatif söylemlerden ibarettir..<br/><br/>nar ekşisine çamur atmak kabul edilebilemez.<br/><br/>debe: <br/><br/>bu etnry'yi yazdıktan hemen sonra şu vahşeti öğrendim ve halen etkisinden çıkabilmiş değilim. halen gözlerim dolu dolu oluyor.<br/>(bkz: <a class="b" href="/?q=canl%c4%b1+k%c3%b6pe%c4%9fi+pres+b%c3%b6l%c3%bcm%c3%bcne+atan+%c3%a7orumlu+belediye">canlı köpeği pres bölümüne atan çorumlu belediye</a>)<br/><br/>lütfen şikayette bulunalım, bu konuyu yayalım, ve tüm canlıların yaşam hakkına saygılı bi toplum için küçük de olsa bi adım atalım....
    
   entry_writer: whatyougetiswhatyoudid
 - entry_name: |
@@ -251,7 +243,7 @@ data:
    
   entry_writer: bu tabanca bu cakmak
 - entry_name: |
-    nevruz'da kürt halayını trolleyen genç
+    nevruz halayını trolleyen genç
   entry_id: 59481124
   entry_content: |
     
@@ -271,7 +263,7 @@ data:
   entry_id: 59474250
   entry_content: |
     
-    teknik resim bilmem..<br/>autocad hayatımda görmedim.<br/>evde galiba kurşun kalem bile yok.<br/>evde t cetveli yok.<br/>casio fx3600pv'm var, o kadar da harika değil ama iş görüyor.<br/>bilgisayarımda dwg ve dfx uzantılı dosyam yok, onlar nedir hiçbir fikrim yok.<br/><br/>bilgisayar mühendisiyiz diye yine dışlandık. canınız sağolsun.<br/><br/>genellemelere bakarsak, evet kendi adıma ben sıkıcıyım fakat sıkıcılıkla alakası olmayan çok sayıda mühendis erkek ve kadın tanıyorum.
+    teknik resim bilmem..<br/>autocad hayatımda görmedim.<br/>evde galiba kurşun kalem bile yok.<br/>evde t cetveli yok.<br/>casio fx3600pv'm var, o kadar da harika değil ama iş görüyor.<br/>bilgisayarımda dwg ve dfx uzantılı dosyam yok, onlar nedir hiçbir fikrim yok.<br/>(edit: dfx değil dxf'ymiş bak o kadar bilmiyorum)<br/><br/>bilgisayar mühendisiyiz diye yine dışlandık. canınız sağolsun.<br/><br/>genellemelere bakarsak, evet kendi adıma ben sıkıcıyım fakat sıkıcılıkla alakası olmayan çok sayıda mühendis erkek ve kadın tanıyorum.
    
   entry_writer: schlingel
 - entry_name: |
@@ -323,14 +315,6 @@ data:
    
   entry_writer: octave charcot
 - entry_name: |
-    muhsin yazıcıoğlu
-  entry_id: 59492021
-  entry_content: |
-    
-    bahçelievler katliamı'nın planlayıcısı ve azmettiricisi. türkiye'nin yetiştirdiği bir düzine halkçı aydın bu itin kurucularından olduğu, kendilerine alperenler diyen orospu çocuğu sürüsü tarafından öldürülmüştür ayrıca.  <br/><br/>normal bir ülkede sokak iti kadar değer verilmemesi gerekirken burada "üşüyoruz" falan yazılıyor, ankara'da askı ipiyle öldürdükleri gençlerin hatrına yazayım buraya, kendisi eli kanlı katil itin tekidir.
-   
-  entry_writer: workers of all world
-- entry_name: |
     muhteşem yüzyıl kösem
   entry_id: 59487344
   entry_content: |
@@ -359,7 +343,7 @@ data:
   entry_id: 59491035
   entry_content: |
     
-    internet kaynaklı olmadığını düşündüğüm problem..<br/><br/>getir butonuna 30 saniye içerisinde üç kere bastım ve üçünde de karşıma "başlık" altında "entry" yerine, "yarım entry" altında bir "reklam" çıktı. <br/><br/>yani adamlar öyle bir ayar vermişler ki sözlüğe, sayfa açılır açılmaz başlığı değil reklamı ve entry'nin son kısmını görüyorsunuz. <br/><br/>eskiden sözlüğe entry okumaya gelir arada reklam görürdük, şu durumda ise sözlüğe reklamları izlemeye gelip kısmet olursa bir iki de entry'ye denk geleceğiz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/g869EL.png" title="http://i.hizliresim.com/g869EL.png">http://i.hizliresim.com/g869el.png</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/8ZzNAr.png" title="http://i.hizliresim.com/8ZzNAr.png">http://i.hizliresim.com/8zznar.png</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/j36QmG.png" title="http://i.hizliresim.com/j36QmG.png">http://i.hizliresim.com/j36qmg.png</a>
+    internet kaynaklı olmadığını düşündüğüm problem..<br/><br/>getir butonuna 30 saniye içerisinde üç kere bastım ve üçünde de karşıma "başlık" altında "entry" yerine, "yarım entry" altında bir "reklam" çıktı. <br/><br/>yani adamlar öyle bir ayar vermişler ki sözlüğe, sayfa açılır açılmaz başlığı değil reklamı ve entry'nin son kısmını görüyorsunuz. <br/><br/>eskiden sözlüğe entry okumaya gelir arada reklam görürdük, şu durumda ise sözlüğe reklamları izlemeye gelip kısmet olursa bir iki de entry'ye denk geleceğiz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/g869EL.png" title="http://i.hizliresim.com/g869EL.png">http://i.hizliresim.com/g869el.png</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/8ZzNAr.png" title="http://i.hizliresim.com/8ZzNAr.png">http://i.hizliresim.com/8zznar.png</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/j36QmG.png" title="http://i.hizliresim.com/j36QmG.png">http://i.hizliresim.com/j36qmg.png</a><br/><br/>debedit: gece durum buydu. düzeltmişler.
    
   entry_writer: bizimkilerdeki cemil
 - entry_name: |
@@ -375,7 +359,7 @@ data:
   entry_id: 59472064
   entry_content: |
     
-    internethaber.com un haberine göre: cumhurbaşkanı erdoğan diyor ki, “bu kütüphane 24 saat gençlere, öğrencilere, halka açık olacak…”?<br/>ankara'da 24 saat toplu taşıma yok ki, o öğrenci, o genç kütüphaneye 24 saat gidebilecek mi ki sen 24 saat açık olacak diye reklam yapıyorsun. son metro akşam 11'de, belli saatten sonra otobüs de bulamazsın. son seferi kaçırdın mı sıçtın, mecburen sabaha kadar kütüphanede mahsur kaldın demektir. gerçi böyle durumlarda geceyi geçirmek için de 24 saat açık olması iyi bir şey aslında. harbi lan, demek ki bilmediğimizi bilen, düşünemediğimizi düşünenler var memlekette.<br/><br/>(bkz: <a rel="nofollow" class="url" target="_blank" href="http://www.internethaber.com/cumhurbaskanligi-kutuphanesi-4-milyonluk-bir-kutuphane-mumkun-mu-1227993y.htm" title="http://www.internethaber.com/cumhurbaskanligi-kutuphanesi-4-milyonluk-bir-kutuphane-mumkun-mu-1227993y.htm">internethaber.com haberi</a>)
+    internethaber.com un haberine göre: cumhurbaşkanı erdoğan diyor ki, “bu kütüphane 24 saat gençlere, öğrencilere, halka açık olacak…”�<br/>ankara'da 24 saat toplu taşıma yok ki, o öğrenci, o genç kütüphaneye 24 saat gidebilecek mi ki sen 24 saat açık olacak diye reklam yapıyorsun. son metro akşam 11'de, belli saatten sonra otobüs de bulamazsın. son seferi kaçırdın mı sıçtın, mecburen sabaha kadar kütüphanede mahsur kaldın demektir. gerçi böyle durumlarda geceyi geçirmek için de 24 saat açık olması iyi bir şey aslında. harbi lan, demek ki bilmediğimizi bilen, düşünemediğimizi düşünenler var memlekette.<br/><br/>(bkz: <a rel="nofollow" class="url" target="_blank" href="http://www.internethaber.com/cumhurbaskanligi-kutuphanesi-4-milyonluk-bir-kutuphane-mumkun-mu-1227993y.htm" title="http://www.internethaber.com/cumhurbaskanligi-kutuphanesi-4-milyonluk-bir-kutuphane-mumkun-mu-1227993y.htm">internethaber.com haberi</a>)
    
   entry_writer: osman haktan
 - entry_name: |
