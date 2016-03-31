@@ -31,7 +31,7 @@ data:
   entry_id: 59606258
   entry_content: |
     
-    düşünsene amerikan vatandaşısın ve bu adam her geldiğinde içindeki tüm kini,öfkeyi o'na en yakın mesafeden kusabiliyorsun ve ölmüyorsun. bence muazzam..<br/><br/>debe edit : bugün 2 senedir çalıştığım şirketten ayrılıyorum. işimi, evimi, kurduğum düzenimi ve henüz tanıştığım çok tatlı bir kızı değer mi değmez mi tartışılır olan askerlik için bırakıyorum. bu kötü günde daha yeni taze yazar olan beni debeyle onurlandırdığınız hepinize çok teşekkür ederim. <br/>iyi dileklerinizi eksik etmezseniz sevinirim.
+    düşünsene amerikan vatandaşısın ve bu adam her geldiğinde içindeki tüm kini,öfkeyi o'na en yakın mesafeden kusabiliyorsun ve ölmüyorsun. bence muazzam..<br/><br/>debe edit : bugün 2 senedir çalıştığım şirketten ayrılıyorum. işimi, evimi, kurduğum düzenimi ve henüz tanıştığım çok tatlı bir kızı değer mi değmez mi tartışılır olan askerlik için bırakıyorum. bu kötü günde daha yeni taze yazar olan beni debeyle onurlandırdığınız hepinize çok teşekkür ederim. <br/>iyi dileklerinizi eksik etmezseniz sevinirim.<br/><br/>debe editi 2: inanılmaz güzel mesajlar alıyorum. iyi ki varsınız güzel insanlar!! dünyayı sevgi kurtaracak!
    
   entry_writer: yuksekgelirim
 - entry_name: |
@@ -127,17 +127,9 @@ data:
   entry_id: 59606029
   entry_content: |
     
-    bir anne-baba, çocuğunu 'acı çekmesin diye' öldürebilecek duruma gelmişse, bilin ki oğlunu o kadar çok seviyor ki, artık acı çekmesine gönlü razı olamıyor demektir..<br/><br/>yaşlı anam, kalp krizi geçirip ameliyat oldu ve yoğun bakımda uzun süre yattı. artık kapalı yerde kalmak nasıl bir acı verdiyse, yanına her girişimde, "oğlum beni bi 5 dakika dışarı çıkar etrafı göreyim, ne olur!" diye yalvarır oldu. doktorlara söyledim, 'olmaz' dediler, 'yapamayız, ölürse sorumluluk bizde olur', dediler. ben de mecburen boyun eğdim. annem, 1 hafta sonra öldü.<br/><br/>şimdi düşünüyorum da, keşke son kez çıkartabilseydim, şöyle doya doya gökyüzünü seyrettirebilseydim, o gün de ölseydi. işte çaresizlik.<br/><br/>'o duruma düşmeden anlaşılamayacak bir olay' kanımca.<br/><br/>debe editi: ilk debe'mi, canım anneme armağan ediyorum. huzur içinde uyusun.
+    bir anne-baba, çocuğunu 'acı çekmesin diye' öldürebilecek duruma gelmişse, bilin ki oğlunu kızını o kadar çok seviyor ki, artık acı çekmesine gönlü razı olamıyor demektir..<br/><br/>yaşlı anam, kalp krizi geçirip ameliyat oldu ve yoğun bakımda uzun süre yattı. artık kapalı yerde kalmak nasıl bir acı verdiyse, yanına her girişimde, "oğlum beni bi 5 dakika dışarı çıkar etrafı göreyim, ne olur!" diye yalvarır oldu. doktorlara söyledim, 'olmaz' dediler, 'yapamayız, ölürse sorumluluk bizde olur', dediler. ben de mecburen boyun eğdim. annem, 1 hafta sonra öldü.<br/><br/>şimdi düşünüyorum da, keşke son kez çıkartabilseydim, şöyle doya doya gökyüzünü seyrettirebilseydim, o gün de ölseydi. işte çaresizlik.<br/><br/>'o duruma düşmeden anlaşılamayacak bir olay' kanımca.<br/><br/>debe editi: ilk debe'mi, canım anneme armağan ediyorum. huzur içinde uyusun.
    
   entry_writer: bupblue
-- entry_name: |
-    vajina asidinden bira üretmek
-  entry_id: 59610519
-  entry_content: |
-    
-     <a class="b" href="/?q=tuborg+amber">tuborg amber</a>'in piyasaya çıktığı zamana denk gelmesi manidardır.
-   
-  entry_writer: nahgalip sahsiyet
 - entry_name: |
     30 mart 2016 fethullah gülen'in türkiye'ye iadesi
   entry_id: 59611331
@@ -215,7 +207,7 @@ data:
   entry_id: 59608737
   entry_content: |
     
-    ''bugünde'' yazarken -de'yi ayırmadığın için zaten gireceksin güzel kardeşim.  <br/><br/>korkma o yüzden.<br/><br/>titre.
+    ''bugünde'' yazarken -de'yi ayırmadığın için zaten gireceksin güzel kardeşim.  <br/><br/>korkma o yüzden.<br/><br/>titre.<br/><br/>debe: <a class="b" href="/?q=makrodalga">makrodalga</a>! yanındayız kardeşim.
    
   entry_writer: turiq
 - entry_name: |
@@ -279,7 +271,7 @@ data:
   entry_id: 59621317
   entry_content: |
     
-    okula giden personeli ve öğrencileri taşıyan minübüse yapılan terör saldırısıdır. türk okulunda görevli 2 öğretmen hayatını kaybetmiştir. toplam 6 kişinin öldüğü saldırıda öğretmenlerin çocukları da yaralanmış.  <br/><br/>ilk kez yurtdışındaki bir türk okuluna böyle bir saldırı yaşanması gündemdeki mevzular itibariyle burnuma pis kokular getiriyor. umarım aklımıza geldiği gibi değildir ve olağan şüpheliler bu kadar da canileşmemiştir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.samanyoluhaber.com/okul-servisine-saldiri-haberi/1248906/" title="http://www.samanyoluhaber.com/okul-servisine-saldiri-haberi/1248906/">haberin linki</a><br/><br/>edit: en son istanbul'daki patlamada israil'in ölen ve yaralanan vatandaşlarına gösterdiği alakanın onda birini haşmetli, kutsal, büyük türkiye cumhuriyeti hükümeti de kendi vatandaşlarına gösterecek mi? göreceğiz.
+    okula giden personeli ve öğrencileri taşıyan minübüse yapılan terör saldırısıdır. türk okulunda görevli 2 öğretmen hayatını kaybetmiştir. toplam 6 kişinin öldüğü saldırıda öğretmenlerin çocukları da yaralanmış.  <br/><br/>ilk kez yurtdışındaki bir türk okuluna böyle bir saldırı yaşanması gündemdeki mevzular itibariyle burnuma pis kokular getiriyor. umarım aklımıza geldiği gibi değildir ve olağan şüpheliler bu kadar da canileşmemiştir.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.samanyoluhaber.com/okul-servisine-saldiri-haberi/1248906/" title="http://www.samanyoluhaber.com/okul-servisine-saldiri-haberi/1248906/">haberin linki</a><br/><br/>edit: en son istanbul'daki patlamada israil'in ölen ve yaralanan vatandaşlarına gösterdiği alakanın onda birini haşmetli, kutsal, büyük türkiye cumhuriyeti hükümeti de kendi vatandaşlarına gösterecek mi? göreceğiz.<br/><br/>(bkz: <a class="b" href="/entry/59629130">#59629130</a>) nolu entry'de belirtildiği üzere havuz sirkinde de haberler çıkmaya başlamış. ama nedense hayatını kaybeden 2 türk öğretmenden ve 4 somalili'den bahsedilmemiş. ulan siz nasıl canlılarsınız. saldırıda ölenlere karşı üç maymunu oynamak nedir?<br/><br/>(bkz: <a class="b" href="/entry/59633625">#59633625</a>) sana senin üslubun ile cevap vermeyeceğim ama bu kadar küfrettiğine göre olağan şüpheliler yakının oluyor sanırım.
    
   entry_writer: asirac
 - entry_name: |
@@ -295,7 +287,7 @@ data:
   entry_id: 59607250
   entry_content: |
     
-    protestocu bir abimizin ağzından dökülen cümle. sabah sabah öldürdü gülmekten..<br/><br/>twitter'da hashtag yapıyorlar.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://youtu.be/sWxm-bxgP9g?t=105" title="https://youtu.be/sWxm-bxgP9g?t=105">https://youtu.be/swxm-bxgp9g?t=105</a>
+    protestocu bir abimizin ağzından dökülen cümle. sabah sabah öldürdü gülmekten..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://youtu.be/sWxm-bxgP9g?t=105" title="https://youtu.be/sWxm-bxgP9g?t=105">https://youtu.be/swxm-bxgp9g?t=105</a>
    
   entry_writer: bilenler bilir
 - entry_name: |
@@ -354,14 +346,6 @@ data:
     chp'nin hdp'ye dönüşmesini arzulayanların isteği. aynı adamlar  <a class="b" href="/?q=chp%27li+ailelerimizi+hdp%27ye+ikna+kampanyas%c4%b1">chp'li ailelerimizi hdp'ye ikna kampanyası</a>'nın da yılmaz savunucularıydılar.
    
   entry_writer: seytaninvekili
-- entry_name: |
-    üniversitelerin tek cümlelik özetleri
-  entry_id: 59621438
-  entry_content: |
-    
-     <a class="b" href="/?q=istanbul+%c3%bcniversitesi">istanbul üniversitesi</a> : amına koyayım böyle üniversitenin.
-   
-  entry_writer: savisa
 - entry_name: |
     yusuf yerkel
   entry_id: 59619915
