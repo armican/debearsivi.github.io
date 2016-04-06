@@ -35,14 +35,6 @@ data:
    
   entry_writer: haplikarinca
 - entry_name: |
-    bir akp'li ile tartışmak
-  entry_id: 59734721
-  entry_content: |
-    
-    okumaya üşenirseniz diye özet geçiyorum:  <a class="b" href="/?q=ailem+d%c3%bczceli">ailem düzceli</a>.<br/><br/>geçen annem cumaya git diye aramış. "dikkatli ol bombalar falan..." dediğinde dayanamayıp "attığın oy yüzünden o bombalar. belki kendi evladının canı yanınca pişman olursun" dedim. aslında böyle ergen tribi gibi bu durumu ifade etmek istemiyordum ama bu ikiyüzlülük, bu bana dokunmayan yılan bin yaşasıncılık, bu körü körüne birinin peşinden gitmeler beni de mantıksız bir insan yapabiliyor arada.<br/><br/>sonra iki yumruk vurdu telefonda bana annem. aynı bu şehit cenazesinde chp milletvekiline vurulandan. "ne alakası var" dedi.<br/><br/>"yahu esad kardeşti oy verdiniz; esed oldu oy verdiniz. davullu, zurnalı, gözyaşılı karşılama yaptı oy verdiniz; oy kaybedince kürt düşmanı oldu oy verdiniz. suriye karışsın diye silah gönderdi oy verdiniz; suriyeliler göç ederken öldü oy verdiniz. kürtleri öldürsün diye ışid'i destekledi oy verdiniz; ışid'i ülkeye bombalarla soktu oy verdiniz... bombayı kurdurana oy verip 'ama oğlum yaşasın' demek iki yüzlülüktür, bencilliktir, düpedüz ahlaksızlıktır" dedim "iyice tayyibe düşmanlığından gözün kör olmuş, teröristi savunacaksın nerdeyse" dedi, şaşırdım. <br/><br/>cevabını daha önce aldığımdan yolsuzluğa, hırsızlığa değinmedim; yiyor ama yol yapıyordu padişahım.<br/><br/>çocuk tecavüzlerine göz yumulmasına, normalleştirilmesine falan hiç değinmedim cevabından korktuğumdan.<br/><br/>"tayyibe kızdığından dinden çıktın, onla dinin ne alakası var" dedi, gülümsedim. "hay tayyibinize..." diye konuşunca "<a class="b" href="/?q=t%c3%b6vbe+de">tövbe de</a>" dedi.<br/><br/>tövbe mi? <br/><br/>bu adam <a class="b" href="/?q=halk+oyuyla+se%c3%a7ilen+ilk+allah">halk oyuyla seçilen ilk allah</a> ya da peygamber de ben mi kaçırdım ulan?<br/><br/>isterseniz ülkeyi bir krem peynir yönetmeli diyin eyvallah derim, gocunmam artık. ama annem bile böyle bir at gözlüğü ile bakıyor yaşananlara ki sizin adınıza ben utanıyorum. yarın öbür gün patlayan bir bombayla, sizin adınıza yine ben öleceğim <br/><br/>de, ama, fakat, lütfen; siz çok yaşayın, padişahım sen de çok yaşa.
-   
-  entry_writer: nabercanki
-- entry_name: |
     aile bakanı'nın kılıçdaroğlu'na yanıtı
   entry_id: 59744890
   entry_content: |
@@ -50,14 +42,6 @@ data:
     ensar vakfındaki çocuk tecavüzleri için bi kereden bi şey olmaz lafı da tüm ülkeyi rahatsız etmiştir, bunun farkında mı acaba dediğim kişi beyanı..<br/><br/>aktroll kamile bir gol de bizden gelsin.
    
   entry_writer: hadi git
-- entry_name: |
-    kılıçdaroğlu'nu adamdan saymıyorum
-  entry_id: 59748131
-  entry_content: |
-    
-    erdoğan'ın önüne yatan birinin ettiği laf..<br/><br/>(bkz: <a class="b" href="/?q=kim+takar+p%c4%b1t%c4%b1rc%c4%b1k+kaymakam%c4%b1n%c4%b1">kim takar pıtırcık kaymakamını</a>)
-   
-  entry_writer: cihoanktr
 - entry_name: |
     whatsapp uçtan uca şifreleme
   entry_id: 59744993
@@ -155,14 +139,6 @@ data:
     
   entry_writer: dertlerederman
 - entry_name: |
-    altına yatmış arkadan sokmuş tarzı muhalefet
-  entry_id: 59742172
-  entry_content: |
-    
-    miletin amına koyacağız tarzı iktidar'a azdır.
-    
-  entry_writer: mantiksuzgeci
-- entry_name: |
     kemal kılıçdaroğlu
   entry_id: 59739412
   entry_content: |
@@ -175,8 +151,8 @@ data:
   entry_id: 59735090
   entry_content: |
     
-    genlerini aktaramayarak doğal seleksiyona uğrayacak yaşam formlarıdır. kafa yapısını görünce pek üzülemiyorum.
-    
+    genlerini aktaramayarak doğal seleksiyona uğrayacak yaşam formlarıdır. kafa yapısını görünce pek üzülemiyorum..<br/><br/>düdüt: debe'ye giren ilk entry olarak tarafım için bir kilometre taşıdır. burada kayd ile mübahiyim.
+   
   entry_writer: karizmatik bir nick olsun
 - entry_name: |
     kılıçdaroğlu'nun hakaretleri sıralı tam liste
@@ -199,7 +175,7 @@ data:
   entry_id: 59749344
   entry_content: |
     
-    arda'nın asisti ile suarez gol attı, 1-1..<br/><br/>not : arda'nın asisti derken, 5 dk önce arda kenarda ısınırken taca çıkan topu geri verdi, onu söylüyorum.
+    arda'nın asisti ile suarez gol attı, 1-1..<br/><br/>not : arda 5 dk önce kenarda ısınırken taca çıkan topu geri verdi, onu söylüyorum.<br/><br/>debedit : kitap okumayı sevenlere (bkz: <a class="b" href="/entry/59519852">#59519852</a>)
    
   entry_writer: tabari buki
 - entry_name: |
@@ -207,8 +183,8 @@ data:
   entry_id: 59750195
   entry_content: |
     
-    barcelona'ya transfer olduktan sonra oynadığı reklam süresinin, maç süresinden fazla olduğu oyuncu.
-    
+    barcelona'ya transfer olduktan sonra reklamlarda oynadığı süre, maçlarda oynadığı süreden fazla olan oyuncu..<br/><br/>edit: anlatım bozukluğu.
+   
   entry_writer: sehirdenindimkoye
 - entry_name: |
     5 nisan 2016 izmir'de 3 canlı bombanın yakalanması
@@ -223,7 +199,7 @@ data:
   entry_id: 59733956
   entry_content: |
     
-    izmirde 25 yıl, ankarada da 10 yıldır yaşamakta olan bir arnavut olarak artık sazı elime alayım gari;;<br/><br/>normalde bura salaş, pis, seyyar, ucuz, pahalı, lüks vs. demem, gittiğim yerlerde muhakkak yemekleri denerim. <br/><br/>kokoreç kuzu bağırsağının çok iyi temizlenmesi ile yapılan bir yemek. içine boğazlık tabir edilen hayvanın boyun nodülleri eklenirse ismi bademli olur, tadından da yenmez. tabi yapabilen yerde bu geçerli. bir kokoreç tezgahında ne kadar çok baharat konuluyorsa ekmeğinize bilin ki o kokoreç temiz değil. <br/><br/>tak tak tabir edilen, kokorecin anasını baharat ile belleyen tüm yerler, bağırsak iyi temizlenmediği için müşteriyi kandırmak adına bunu yapıyorlar. ben misal gittiğim yerlerde 'usta izmir usulü, iri parçalı çek' şeklinde sipariş verip kokoreci yiyemediğimi çok bilirim (ankara geneli, bilhassa çiflik) izmirde dahi kokoreci beceremeyip mundar eden çok yer var. istanbul desen, en meşhuru burası diyerek arkadaşların ısrarıyla yediğim yerlerin hiç birini beğenmedim. istanbul ve ankarada kokorecin böyle tak tak yapılıp bol baharatlı servis edilmesinin asıl nedenlerinden birisi de, kokorecin sadece bağırsaktan yapılmaması. bu tip yerlerde izmir usulü söylediğinizde bunu hemen anlıyorsunuz. adamlar şişe yakın kısımlarda hayvanın bildiğiniz iç yağlarını sarıyorlar, onun üzerine bağırsağı sarıyorlar. nede olsa iç yağ hem temizleme gerektirmiyor, hemde koku olarak pişerken güzel bir koku bırakıyor. ama bunu yedikten sonra başlıyorsunuz su içmeye. bilhassa ankara ve istanbulda yediğim kokoreçlerin geneli iç yağlı ve iyi temizlenmemiş çıktı. <br/><br/>ankara için pikolet diğer kokoreçcilerden bir tık önde ancak izmirdeki en dandik seyyar kokoreçci bile buradan iyi kokoreç yapıyor bunu bilin. çiftlik zaten berbat hiç gitmeyin daha iyi. ankarada birde bit pazarının içinde bir mekan var adını unuttum, oda fıs. son aldığım duyumlara göre demette metronun orada bir dayı güzel kokoreç yapıyormuş, dener denemez buraya yazmaya çalışırım.<br/><br/>türkiye geneli için ise, benim şahsi kanaatim, en iyi kokoreçci izmir-mersinli de (bkz: <a class="b" href="/?q=kokore%c3%a7%c3%a7i+as%c4%b1m+usta">kokoreççi asım usta</a>) dır. adam şişten kestiği halkayı hemen hemen hiç mühürleme yapmadan, baharatsız olarak kızarttığı ekmeğin arasına koyar, tadına doyamazsınız. asım ustaya gidemeseniz bile kokoreçcinizin arnavut olmasına dikkat ediniz. eyyorlamam şimdilik bu kadar.
+    izmirde 25 yıl, ankarada da 10 yıldır yaşamakta olan bir arnavut olarak artık sazı elime alayım gari;;<br/><br/>normalde bura salaş, pis, seyyar, ucuz, pahalı, lüks vs. demem, gittiğim yerlerde muhakkak yemekleri denerim. <br/><br/>kokoreç kuzu bağırsağının çok iyi temizlenmesi ile yapılan bir yemek. içine boğazlık tabir edilen hayvanın boyun nodülleri eklenirse ismi bademli olur, tadından da yenmez. tabi yapabilen yerde bu geçerli. bir kokoreç tezgahında ne kadar çok baharat konuluyorsa ekmeğinize bilin ki o kokoreç temiz değil. <br/><br/>tak tak tabir edilen, kokorecin anasını baharat ile belleyen tüm yerler, bağırsak iyi temizlenmediği için müşteriyi kandırmak adına bunu yapıyorlar. ben misal gittiğim yerlerde 'usta izmir usulü, iri parçalı çek' şeklinde sipariş verip kokoreci yiyemediğimi çok bilirim (ankara geneli, bilhassa çiflik) izmirde dahi kokoreci beceremeyip mundar eden çok yer var. istanbul desen, en meşhuru burası diyerek arkadaşların ısrarıyla yediğim yerlerin hiç birini beğenmedim. istanbul ve ankarada kokorecin böyle tak tak yapılıp bol baharatlı servis edilmesinin asıl nedenlerinden birisi de, kokorecin sadece bağırsaktan yapılmaması. bu tip yerlerde izmir usulü söylediğinizde bunu hemen anlıyorsunuz. adamlar şişe yakın kısımlarda hayvanın bildiğiniz iç yağlarını sarıyorlar, onun üzerine bağırsağı sarıyorlar. nede olsa iç yağ hem temizleme gerektirmiyor, hemde koku olarak pişerken güzel bir koku bırakıyor. ama bunu yedikten sonra başlıyorsunuz su içmeye. bilhassa ankara ve istanbulda yediğim kokoreçlerin geneli iç yağlı ve iyi temizlenmemiş çıktı. <br/><br/>ankara için pikolet diğer kokoreçcilerden bir tık önde ancak izmirdeki en dandik seyyar kokoreçci bile buradan iyi kokoreç yapıyor bunu bilin. çiftlik zaten berbat hiç gitmeyin daha iyi. ankarada birde bit pazarının içinde bir mekan var adını unuttum, oda fıs. son aldığım duyumlara göre demette metronun orada bir dayı güzel kokoreç yapıyormuş, dener denemez buraya yazmaya çalışırım.<br/><br/>türkiye geneli için ise, benim şahsi kanaatim, en iyi kokoreçci izmir-mersinli de (bkz: <a class="b" href="/?q=kokore%c3%a7%c3%a7i+as%c4%b1m+usta">kokoreççi asım usta</a>) dır. adam şişten kestiği halkayı hemen hemen hiç mühürleme yapmadan, baharatsız olarak kızarttığı ekmeğin arasına koyar, tadına doyamazsınız. asım ustaya gidemeseniz bile kokoreçcinizin arnavut olmasına dikkat ediniz. eyyorlamam şimdilik bu kadar.<br/><br/>sonradan aklıma gelen : yaşadığınız şehirde düzgün kokoreçci yoksa, sizde benim yöntemimi izleyebilirsiniz; bir sakatatçı ile biraz muhabbet kurun, yalnız elemanın dilim yada tüm pişmemiş kokoreç satması lazım. kokoreç krizine girdiğinizde elemanı arayarak ertesi gün için kuzu bağırsağından atom yapmasını rica edin. atom denilen zamazingo böyle küçük 2-3 porsiyon kokoreç çıkartabilen mini kokoreç oluyor. herneyse elemandan bunu aldıktan sonra tepside içine az su koyup tepsinin üzerini aliminyum folyo ile sardıktan sonra 1 saat kadar fırınlayın. üzeri kızardıktan sonra dilimleyip tavada iki yüzünü biraz kızartıp içini kızarttığınız ekmeğin içine bunu yatırın. bıçakla 3-4 parçaya ayırıp çok az kimyon koyup yiyin. hadi afiyet olsun.<br/><br/>uyarı mesajlarından sonra gelen not : aliminyum folyo yerine tepsinin üzerini kapak ile kapatabilirsiniz. tabi folyo ile aynı etkiyi alamazsınız, çok sağlıklı yaşamayı seven ancak bunu düşünemeyecek kapasitede olanlar için not düşmem ısrarla istendi, benlik bir durum yok arkadaşlar.
    
   entry_writer: cammasaninatinasumuksurenadam
 - entry_name: |
@@ -331,7 +307,7 @@ data:
    
   entry_writer: countofmontecristo
 - entry_name: |
-    terör geziden daha büyük bir tehdit degil
+    terör geziden daha büyük bir tehdit değil
   entry_id: 59750859
   entry_content: |
     
@@ -359,7 +335,7 @@ data:
   entry_id: 59737625
   entry_content: |
     
-    nkara emniyet müdürü mahmut karaaslan başkent´te sıradışı güvenlik denetimine imza attı. karaaslan üç gün boyunca çalıntı plaka takılan araçla dolaştı‚ fark edilmeyince çok sinirlendi.  <br/><br/>çiçeği burnununda emniyet müdürü karaaslan emniyetçe aranan çalıntı plakalı araçla bin 400 mobese kamerası tarafından 24 saat izlenen bulvar ve cadde gibi ana arterlerde dolaştı. 41 plakanın takıldığı araç hiç bir polis ekibince çevrilmedi‚ ankaranın 513 noktasındaki mobese ve pts (plaka tanıma sistemi) kameralarınca da tespit edilemedi. <br/><br/>sözcü´den kamil eelibol´ın haberine göre‚ mahmut karaaslan‚ 19‚ 20 ve 21 mart günleri‚ çalıntı plaka taktığı araçla yaptığı gizli denetimde hiçbir kontrol noktasında durdurulmamasına çok sinirlendi. bu olaydan sonra karaaslanın başta mobeseden sorumlu müdürler olmak üzere asayiş kontrollerini koordine eden polis şeflerini sert biçimde uyardı. <br/><br/>hacizli araçlar <br/><br/>türkiye çapında uygulanan ve mobese adı verilen kent güvenliği yönetim sisteminde sadece çalıntı ve adli makamlarca aranan araçlara ilişkin kayıtların tutulduğu öğrenildi. mobeselerde sistemin ağır çalışmasına neden olduğu gerekçesiyle hacizli-yakalamalı ya da apb diye bilinen ikiz plakalara ilişkin bir kaydın tutulmadığı belirlendi. <br/><br/>17 şubatta merasim sokakta hava kuvvetleri komutanlığına ait askeri servis otobüslerini hedef alan intihar eyleminde polise çalıntı ihbarı yapılan bombalı bir araç kullanılmıştı. pkk üyesi abdulbaki sömer‚ izmirden çalıntı ihbarı yapılan 34 hf 3100 plakalı araçla intihar saldırısı düzenlemişti. eylemde 29u askeri personel şehit olmuş‚ 61 kişi de yaralanmıştı. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.cnnturk.com/turkiye/ankara-emniyet-muduru-calinti-plaka-ile-gezdi" title="http://www.cnnturk.com/turkiye/ankara-emniyet-muduru-calinti-plaka-ile-gezdi">http://www.cnnturk.com/…uru-calinti-plaka-ile-gezdi</a> <br/><br/>süper iş yapmış müdür. lakin ülkenin başkentinin halen güvenlik zaafiyetinin bu denli fazla olması çok acı.
+    ankara emniyet müdürü mahmut karaaslan başkent´te sıradışı güvenlik denetimine imza attı. karaaslan üç gün boyunca çalıntı plaka takılan araçla dolaştı‚ fark edilmeyince çok sinirlendi.  <br/><br/>çiçeği burnununda emniyet müdürü karaaslan emniyetçe aranan çalıntı plakalı araçla bin 400 mobese kamerası tarafından 24 saat izlenen bulvar ve cadde gibi ana arterlerde dolaştı. 41 plakanın takıldığı araç hiç bir polis ekibince çevrilmedi‚ ankaranın 513 noktasındaki mobese ve pts (plaka tanıma sistemi) kameralarınca da tespit edilemedi. <br/><br/>sözcü´den kamil eelibol´ın haberine göre‚ mahmut karaaslan‚ 19‚ 20 ve 21 mart günleri‚ çalıntı plaka taktığı araçla yaptığı gizli denetimde hiçbir kontrol noktasında durdurulmamasına çok sinirlendi. bu olaydan sonra karaaslanın başta mobeseden sorumlu müdürler olmak üzere asayiş kontrollerini koordine eden polis şeflerini sert biçimde uyardı. <br/><br/>hacizli araçlar <br/><br/>türkiye çapında uygulanan ve mobese adı verilen kent güvenliği yönetim sisteminde sadece çalıntı ve adli makamlarca aranan araçlara ilişkin kayıtların tutulduğu öğrenildi. mobeselerde sistemin ağır çalışmasına neden olduğu gerekçesiyle hacizli-yakalamalı ya da apb diye bilinen ikiz plakalara ilişkin bir kaydın tutulmadığı belirlendi. <br/><br/>17 şubatta merasim sokakta hava kuvvetleri komutanlığına ait askeri servis otobüslerini hedef alan intihar eyleminde polise çalıntı ihbarı yapılan bombalı bir araç kullanılmıştı. pkk üyesi abdulbaki sömer‚ izmirden çalıntı ihbarı yapılan 34 hf 3100 plakalı araçla intihar saldırısı düzenlemişti. eylemde 29u askeri personel şehit olmuş‚ 61 kişi de yaralanmıştı. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.cnnturk.com/turkiye/ankara-emniyet-muduru-calinti-plaka-ile-gezdi" title="http://www.cnnturk.com/turkiye/ankara-emniyet-muduru-calinti-plaka-ile-gezdi">http://www.cnnturk.com/…uru-calinti-plaka-ile-gezdi</a> <br/><br/>süper iş yapmış müdür. lakin ülkenin başkentinin halen güvenlik zaafiyetinin bu denli fazla olması çok acı.
    
   entry_writer: sokakta sayamam gibi
 - entry_name: |
