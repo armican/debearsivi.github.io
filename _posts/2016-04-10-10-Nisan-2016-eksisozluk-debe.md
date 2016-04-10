@@ -19,14 +19,6 @@ data:
     
   entry_writer: syd
 - entry_name: |
-    iptal edilen turkcell hattı sayısı
-  entry_id: 59818691
-  entry_content: |
-    
-    isterse 1 kişi olsun hiç önemli değil,yeter ki safımız belli olsun..<br/>pedofili ve birbirini siken adamların safında olmamak benim için yeterli.
-   
-  entry_writer: buttnaked
-- entry_name: |
     en vasat öğrencilerin öğretmen ve mühendis olması
   entry_id: 59816931
   entry_content: |
@@ -95,7 +87,7 @@ data:
   entry_id: 59818718
   entry_content: |
     
-    adam habertürk kanalında katıldığı programda konyada 45 çocuğun tecavüze uğraması ile ilgili herşeyi 7 dakikada özetlemiş.  <br/><br/>bakanın duruşunu, valinin konumunu yaptıklarını, vakıfların kanuniliğini, yapılanları, iktidar koruyor diye yapılan istismarları (diğer istismarları), tecavüzleri, her çocuğun durumunu...herşeyi anlatmış.<br/><br/>kanun dışı olan en az 10 tane davranış, hareket saymış.<br/>her biri büyük suç olan en az 10 tane hareket saymış dökmüş 7 dakika içinde...<br/>milletvekillerinin tebrik kuyruğu dahil, insanı utandıran, izlerken insanın tüylerini diken diken eden en az 10 çeşit suç saydı adam<br/>nefes almadan..<br/><br/>elindeki kağıtlardan örnekler verdi.. konuşmalar, birlikte çekilen fotoğraflar vs...hepsini gösterdi.<br/><br/>normal bir insanı ürperten, her bir cümlesi olay olan bu açıklamalar yapılırken, yandaş kanal ne yaptı peki,<br/><br/>o adamın o kadar konuşmasından, saydığı belgeli dökümanlı envai çeşit suç unsurundan, isim verdiği kişilerden hiçbirini görmedi ve şu cümleyi tırnakla çekip aldı ve saymaz'ın söylediği şu cümleyi ekrana altyazı olarak verdi ve videonun sonuna kadar ekranda tuttu.<br/><br/>'sayın bakan "incindim" demişse, bunun dikkate alınması gerekirdi"<br/><br/>olm yapacağınız işi sikeyim lan. bu kadar yalaka, bu kadar yandaş, bu kadar gazetecisizlik örneği bir kuzey kore'de kaldı bir de sizde.<br/><br/>*<br/><br/>enter tuşundan hemen sonra gelen edit. ya da dur dur, en azından sevinelim amk. yayını da kesebilirlerdi. en azından konuşmayı izleyebildik.
+    adam habertürk kanalında katıldığı programda konyada 45 çocuğun tecavüze uğraması ile ilgili herşeyi 7 dakikada özetlemiş.  <br/><br/>bakanın duruşunu, valinin konumunu yaptıklarını, vakıfların kanuniliğini, yapılanları, iktidar koruyor diye yapılan istismarları (diğer istismarları), tecavüzleri, her çocuğun durumunu...herşeyi anlatmış.<br/><br/>kanun dışı olan en az 10 tane davranış, hareket saymış.<br/>her biri büyük suç olan en az 10 tane hareket saymış dökmüş 7 dakika içinde...<br/>milletvekillerinin tebrik kuyruğu dahil, insanı utandıran, izlerken insanın tüylerini diken diken eden en az 10 çeşit suç saydı adam<br/>nefes almadan..<br/><br/>elindeki kağıtlardan örnekler verdi.. konuşmalar, birlikte çekilen fotoğraflar vs...hepsini gösterdi.<br/><br/>normal bir insanı ürperten, her bir cümlesi olay olan bu açıklamalar yapılırken, yandaş kanal ne yaptı peki,<br/><br/>o adamın o kadar konuşmasından, saydığı belgeli dökümanlı envai çeşit suç unsurundan, isim verdiği kişilerden hiçbirini görmedi ve şu cümleyi tırnakla çekip aldı ve saymaz'ın söylediği şu cümleyi ekrana altyazı olarak verdi ve videonun sonuna kadar ekranda tuttu.<br/><br/>'sayın bakan "incindim" demişse, bunun dikkate alınması gerekirdi"<br/><br/>olm yapacağınız işi seveyim lan. bu kadar dürüst bu kadar çağdaş bu kadar objektif habercilik bi kuzey korede kaldı bir de sizde.<br/><br/>*<br/><br/>enter tuşundan hemen sonra gelen edit. ya da dur dur, en azından sevinelim amk. yayını da kesebilirlerdi. en azından konuşmayı izleyebildik.
    
   entry_writer: bob hite
 - entry_name: |
@@ -175,8 +167,8 @@ data:
   entry_id: 59829860
   entry_content: |
     
-    fenerbahçeliler olarak yatmasını beklemiyorduk. o kadar onursuz değiliz. başka takım taraftarları gibi efsane futbolcumuza da bu yüzden küfür etmeyiz, tebrik ederiz.
-    
+    fenerbahçeliler olarak yatmasını beklemiyorduk. o kadar onursuz değiliz. başka takım taraftarları gibi efsane futbolcumuza da bu yüzden küfür etmeyiz, tebrik ederiz..<br/><br/>debe editi: teröre, tüm destekçilerine, yardakçılarına, zamanında onlarla sevişenlere lanet olsun. tüm şehitlerimizin ruhu şad olsun, tüm şehit çocukları muvaffak olsun.
+   
   entry_writer: boslama
 - entry_name: |
     güzel kızların çirkin erkeklerle beraber olmaları
@@ -215,7 +207,7 @@ data:
   entry_id: 59819653
   entry_content: |
     
-    vay arkadaş  <br/><br/>yazmiyim yazmiyim diyorum da dayanamıyorum la bu kadar dezenformasyona. <br/><br/>eeeeyy aktroller! (bkz: <a class="b" href="/?q=bak+%c5%9furadan+siktir+git">bak şuradan siktir git</a>)<br/><br/>la olm daha 6 ay olmadı başbakanınız davutoğlu meral aksener'e geçici hükumette bakanlık teklif edeli. ne fetoşu ne paraleli lan? siz kendi yediginiz boku temizleyin önce. <br/><br/>birader biz senin her gün ayakta siktigin çomar tayfasına benzemeyiz. seküler milliyetçinin aklı çalışır, hafızası çalışır.<br/><br/>60 yaşındaki meclis başkanı kadına porno kaseti var imasinda da bulundunuz. bak gördün mü? biz koyun değiliz, yaptığınız herşeyi hatırlıyoruz. <br/><br/>10 numara genel başkanlık yapacak olan insandır. inşallah halkın da yeterli oyunu alır ve ülkeyi feraha çıkarır. <br/><br/><a class="b" href="/?q=demir+lady">demir lady</a>
+    vay arkadaş  <br/><br/>yazmiyim yazmiyim diyorum da dayanamıyorum la bu kadar dezenformasyona. <br/><br/>eeeeyy aktroller! (bkz: <a class="b" href="/?q=bak+%c5%9furadan+siktir+git">bak şuradan siktir git</a>)<br/><br/>la olm daha 6 ay olmadı başbakanınız davutoğlu meral aksener'e geçici hükumette bakanlık teklif edeli. ne fetoşu ne paraleli lan? siz kendi yediginiz boku temizleyin önce. <br/><br/>birader biz senin her gün ayakta siktigin çomar tayfasına benzemeyiz. seküler milliyetçinin aklı çalışır, hafızası çalışır.<br/><br/>60 yaşındaki meclis başkanı kadına porno kaseti var imasinda da bulundunuz. bak gördün mü? biz koyun değiliz, yaptığınız herşeyi hatırlıyoruz. <br/><br/>10 numara genel başkanlık yapacak olan insandır. inşallah halkın da yeterli oyunu alır ve ülkeyi feraha çıkarır. <br/><br/><a class="b" href="/?q=demir+lady">demir lady</a><br/><br/><a class="b" href="/?q=debe">debe</a> editi: balık hafızalı toplumumuza küçük bir katkı sunabildiysem ne mutlu bana.
    
   entry_writer: bunickkirkkarakter
 - entry_name: |
@@ -239,8 +231,8 @@ data:
   entry_id: 59818893
   entry_content: |
     
-    arabanız yoksa hiçbir yer. bir başkent düşünün saat 11'de ulaşımı balkabağına dönüşüyor.
-    
+    arabanız yoksa hiçbir yer. bir başkent düşünün saat 11'de ulaşımı balkabağına dönüşüyor..<br/><br/>debe editi: hele tekerlekli sandalyeli biriysen bu şehirde hiç yaşanılmaz. engelli insanları hiç mi hiç düşünmeyen bir şehir ankara. bugün kızılay'da tekerlekli sandalyeli bir çift bir türlü otobüse binemediler. gelen otobüslerin ya mekanizması yok, varsa bozuk ya da şoför mekanizmayı çalıştırmayı bilmiyor. bir otobüse binmek için bile beklediler dakikalarca, gerisini siz düşünün. lanet olsun sizin belediyelik anlayışınıza.
+   
   entry_writer: fuchs3471
 - entry_name: |
     arabasız yaşam
@@ -255,7 +247,7 @@ data:
   entry_id: 59827911
   entry_content: |
     
-    oy verdikleri parti uğruna çocuklarını bile feda etmeye hazır dilsiz şeytanlardır.
+    oy verdikleri parti uğruna çocuklarını bile feda etmeye hazır dilsiz şeytanlardır. edit : illa basına mı konuşmaları lazım diyen çomar kardeşim. 45 çocuk 45. vakfın kapısına dayanmaları, taşlamaları lazımdı. otu boku yakmaya meraklılar. o vakfı yakmaları lazımdı.
     
   entry_writer: fridanin parcalanmis omurgasi
 - entry_name: |
@@ -271,7 +263,7 @@ data:
   entry_id: 59828871
   entry_content: |
     
-    fenerbahçeli yazarlar nasıl savunuyor görüyor musunuz? içlerinden biri bile çıkıp " bu gol şüpheli arkadaş " demiyor..<br/><br/>sonra, ivan bebek bizi katletti bize niye destek vermiyorsunuz diyorlardı.<br/><br/>bu davranışlarınız yüzünden olabilir mi acaba?
+    fenerbahçeli yazarlar nasıl savunuyor görüyor musunuz? içlerinden biri bile çıkıp " bu gol şüpheli arkadaş " demiyor..<br/><br/>sonra, ivan bebek bizi katletti bize niye destek vermiyorsunuz diyorlardı.<br/><br/>bu davranışlarınız yüzünden olabilir mi acaba?<br/><br/>edit: iyi debe editini de yapalım bari. gelen özel mesajlara yanıt olsun.<br/><br/>fenerbahçe'nin maçı kaybetmiş olması, serkan kırıntılı'nın yediği golü " şüphesiz " hale getirmez. tüm takım komple maç satacak hali yok. serkan kırıntılı da maç satmıştır demiyorum zaten. ama yediği gol şüphelidir. <br/><br/>şüpheli şekilde yediği gole rağmen konyaspor'un maçı kazanması, konyaspor'un iyi oyunundan dolayıdır. adamın tutup art arda 20 tane gol yiyecek hali yoktu fenerbahçe kazanana kadar.<br/><br/>bazı yazar arkadaşlar çeşitli linkler vermişler " ama size de hatalı goller yiyorlar " diye. işte kendilerinin kurdukları bu cümle muhteşem bir fallacy örneği.
    
   entry_writer: superyetenekliajan
 - entry_name: |
@@ -287,7 +279,7 @@ data:
   entry_id: 59817563
   entry_content: |
     
-     <a class="b" href="/?q=umut">umut</a>ların katili , <a class="b" href="/?q=akp">akp</a> nin ve <a class="b" href="/?q=akpliler">akpliler</a> in can dostu ; <a class="b" href="/?q=3+ay">3 ay</a> içerisinde ( hemde yağmur gibi şehit verilen bi 3 ay içinde ) partisini <a class="b" href="/?q=yar%c4%b1+yar%c4%b1ya">yarı yarıya</a> eritmeyi başaran siyasi deha , hayati <a class="b" href="/?q=tbmm+ba%c5%9fkanl%c4%b1k+se%c3%a7imi">tbmm başkanlık seçimi</a>nde başkanlığı <a class="b" href="/?q=alt%c4%b1n+tepsi">altın tepsi</a> de <a class="b" href="/?q=akp">akp</a> ye sunarak insanların beynine <a class="b" href="/?q=oy+versek+de+de%c4%9fi%c5%9fen+bi+%c5%9fey+yok">oy versek de değişen bi şey yok</a> fikrini çakan , bizzat <a class="b" href="/?q=akp">akp</a> lileri bile şaşırtan beyimiz dünkü mahkeme kararından sonra çıkmış da :<br/><br/><a class="b" href="/?q=2018">2018</a> e kadar kimse bizden kongre beklemesin. <a class="b" href="/?q=partiyi+kolay+teslim+etmeyiz">partiyi kolay teslim etmeyiz</a> buyurmuş.<br/><br/>paşam gideceksin.<br/><br/>avanelerini de alıp gideceksin.<br/><br/>sen akp ' nin kaybettiği seçimin akşamında <a class="b" href="/?q=yeni+se%c3%a7ime+haz%c4%b1r%c4%b1z">yeni seçime hazırız</a> dediğin an yola çıktın ve <a class="b" href="/?q=tbmm+ba%c5%9fkanl%c4%b1%c4%9f%c4%b1+se%c3%a7imi">tbmm başkanlığı seçimi</a> ndeki tavrın ile de gidişini garantiledin <br/><br/>o gün yazdım bugün yine yazıyorum :<br/><br/>gideceksin. <br/><br/>milyonların <a class="b" href="/?q=ah">ah</a>ını aldın .
+     <a class="b" href="/?q=umut">umut</a>ların katili , <a class="b" href="/?q=akp">akp</a> nin ve <a class="b" href="/?q=akpliler">akpliler</a> in can dostu ; <a class="b" href="/?q=3+ay">3 ay</a> içerisinde ( hemde yağmur gibi şehit verilen bi 3 ay içinde ) partisini <a class="b" href="/?q=yar%c4%b1+yar%c4%b1ya">yarı yarıya</a> eritmeyi başaran siyasi deha , hayati <a class="b" href="/?q=tbmm+ba%c5%9fkanl%c4%b1k+se%c3%a7imi">tbmm başkanlık seçimi</a>nde başkanlığı <a class="b" href="/?q=alt%c4%b1n+tepsi">altın tepsi</a> de <a class="b" href="/?q=akp">akp</a> ye sunarak insanların beynine <a class="b" href="/?q=oy+versek+de+de%c4%9fi%c5%9fen+bi+%c5%9fey+yok">oy versek de değişen bi şey yok</a> fikrini çakan , bizzat <a class="b" href="/?q=akp">akp</a> lileri bile şaşırtan beyimiz dünkü mahkeme kararından sonra çıkmış da :<br/><br/><a class="b" href="/?q=2018">2018</a> e kadar kimse bizden kongre beklemesin. <a class="b" href="/?q=partiyi+kolay+teslim+etmeyiz">partiyi kolay teslim etmeyiz</a> buyurmuş.<br/><br/>paşam gideceksin.<br/><br/>avanelerini de alıp gideceksin.<br/><br/>sen akp ' nin kaybettiği seçimin akşamında <a class="b" href="/?q=yeni+se%c3%a7ime+haz%c4%b1r%c4%b1z">yeni seçime hazırız</a> dediğin an yola çıktın ve <a class="b" href="/?q=tbmm+ba%c5%9fkanl%c4%b1%c4%9f%c4%b1+se%c3%a7imi">tbmm başkanlığı seçimi</a> ndeki tavrın ile de gidişini garantiledin <br/><br/>o gün yazdım bugün yine yazıyorum :<br/><br/>gideceksin. <br/><br/>milyonların <a class="b" href="/?q=ah">ah</a>ını aldın .<br/><br/>debs: serebral palsili çocuklar derneği <a rel="nofollow" class="url" target="_blank" href="http://sercev.org.tr/" title="http://sercev.org.tr/">serçev</a> candır. 14.üncü geleneksel serçev çocuk ve gençlik balosu' na <a class="b" href="/?q=19+nisan">19 nisan</a> da kesinlikle <a rel="nofollow" class="url" target="_blank" href="https://mobile.twitter.com/SERCEV01/status/716991065623031808/photo/1" title="https://mobile.twitter.com/SERCEV01/status/716991065623031808/photo/1">gidilir</a> .
    
   entry_writer: travenian
 - entry_name: |
@@ -335,7 +327,7 @@ data:
   entry_id: 59833347
   entry_content: |
     
-    bu sene  <a class="b" href="/?q=%c5%9fampiyon">şampiyon</a> olmalarını canı gönülden istediğim takım. bunu <a class="b" href="/?q=y%c3%b6neticisiyle+ve+taraftar%c4%b1yla">yöneticisiyle ve taraftarıyla</a> sonuna kadar hak ediyor <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>. ayrıca benim için beşiktaş'ın kalbi olan <a class="b" href="/?q=%c3%a7ar%c5%9f%c4%b1">çarşı</a>'ya da selam olsun bu vesileyle..<br/><br/>not: <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>
+    bu sene  <a class="b" href="/?q=%c5%9fampiyon">şampiyon</a> olmalarını canı gönülden istediğim takım. <a class="b" href="/?q=be%c5%9fikta%c5%9f+taraftar%c4%b1">beşiktaş taraftarı</a> bunu sonuna kadar hak ediyor . ayrıca benim için beşiktaş'ın kalbi olan <a class="b" href="/?q=%c3%a7ar%c5%9f%c4%b1">çarşı</a>'ya da selam olsun bu vesileyle..<br/><br/>not: <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>
    
   entry_writer: dogbert
 - entry_name: |
@@ -355,14 +347,6 @@ data:
    
   entry_writer: gyne
 - entry_name: |
-    dursun özbek
-  entry_id: 59826148
-  entry_content: |
-    
-    joffreyy<br/>cersei<br/>ılyn payne<br/>dursun özbek<br/>the hound
-   
-  entry_writer: mavi ejder
-- entry_name: |
     çocuğuna kendi mesleğinden isim vermek
   entry_id: 59826574
   entry_content: |
@@ -371,7 +355,7 @@ data:
    
   entry_writer: tam bir hanfendi is back
 - entry_name: |
-    ersun idman saatlerini orospulara göre ayarlıyordu
+    ersun idman saatlerini kadınlara göre ayarlıyordu
   entry_id: 59830230
   entry_content: |
     
