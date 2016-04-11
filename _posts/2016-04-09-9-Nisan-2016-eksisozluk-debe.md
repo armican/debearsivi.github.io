@@ -247,7 +247,7 @@ data:
   entry_id: 59801662
   entry_content: |
     
-    iyi insanların tembel ve cesaretsiz olması�<br/><br/>çünkü beyim hırsız çalar, katil öldürür, sapık siker, yavşak yalar. önemli olan senin ne yaptığındır.
+    iyi insanların tembel ve cesaretsiz olması?<br/><br/>çünkü beyim hırsız çalar, katil öldürür, sapık siker, yavşak yalar. önemli olan senin ne yaptığındır.
    
   entry_writer: nick collis
 - entry_name: |
