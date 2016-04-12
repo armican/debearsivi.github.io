@@ -7,7 +7,7 @@ data:
   entry_id: 59858061
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=don%27t+be+so+%c3%a7omar">don't be so çomar</a>)
+    (bkz:  <a class="b" href="/?q=don%27t+be+so+%c3%a7omar">don't be so çomar</a>)<br/><br/>debedit: şampiyon beşiktaş!
    
   entry_writer: sipsikafaliadam
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 59864284
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=tombul+k%c4%b1z+av%c4%b1">tombul kız avı</a>)<br/><br/>bulsanız nefessiz sikersiniz keraneciler sizi.
+    (bkz:  <a class="b" href="/?q=tombul+k%c4%b1z+av%c4%b1">tombul kız avı</a>)<br/><br/>bulsanız nefessiz sikersiniz keraneciler sizi.<br/><br/>edit: bunun nesini debe'ye soktunuz bilmiyorum ama yine de emeği geçen bütün tombik kızlara teşekkür ederim. bir mesaj yeşili yakınınızdayım kızlar :)
    
   entry_writer: susadikca ver agzima dudagi
 - entry_name: |
@@ -155,27 +155,11 @@ data:
     
   entry_writer: dick laurent
 - entry_name: |
-    mehmet cengiz'in oğlunun karıştığı motor kazası
-  entry_id: 59872056
-  entry_content: |
-    
-    işadamı mehmet cengiz’in oğlu ahmet cengiz gecen temmuz ayında üsküdar kısıklı’da karıştığı bir kazada, motokurye arkadaşının arkasında oturan 20 yaşındaki musa akan’ın ölümüne yol açtı..<br/><br/>kaza sonrası ahmet cengiz gözaltına bile alınmadı. musa akan’ın ailesinin şikayeti üzerine dava açıldı. ancak dava da taksirle ölüme neden olmaktan açıldı. yani kasıt olmaksızın ölümden kusurlu olmaktan. <br/><br/>olay anı güvenlik kameraları tarafından kaydedildi. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.haberdar.com/gundem/mehmet-cengiz-in-oglunun-karistigi-olumlu-kazanin-goruntuleri-ortaya-cikti-h25421.html?mnst=9104" title="http://www.haberdar.com/gundem/mehmet-cengiz-in-oglunun-karistigi-olumlu-kazanin-goruntuleri-ortaya-cikti-h25421.html?mnst=9104">kaynak</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vh_p7XcUf3w" title="https://www.youtube.com/watch?v=vh_p7XcUf3w">olayın videosu</a><br/><br/>burada bir trafik kazası değil bildiğin cinayet söz konusu. milletin amına koyan adamın oğlu (ahmet cengiz) "kasıtlı olarak" sıkıştırıyor motorcuyu ve kaza yaptırarak arkadaki yolcunun ölümüne sebep oluyor. <br/><br/>videoyu dikkatlice izleyip aksini iddia eden göt verendir.<br/><br/>ama bu şahıs mehmet cengiz'in oğlu olduğu için herhangi bir ceza almayacaktır ve ölen gariban öldüğü ile kalacaktır. motor sürücüsü hakkında da milletin amına koyan adamın oğlunun jipinin uğradığı zararın tazmini yönünde bir karar çıkması gayet muhtemeldir.<br/><br/>edit:<br/><br/>motorun arkasında yolculuk eden zavallının jipin kasıtlı olarak sıkıştırması yüzünden öldüğünün resimlerle ispatı:<br/><br/>(bkz: <a class="b" href="/entry/59873873">#59873873</a>)
-   
-  entry_writer: day zero
-- entry_name: |
-    11 nisan 2016 pkk diyarbakır hani saldırısı
-  entry_id: 59874668
-  entry_content: |
-    
-    bu sefer cok feci bi patlama olmus, bir karakol dumduz olmus, 20'den fazla ambulans gonderilmis ama nedense kimsenin pek sikledigi yok. o suruc'ta ilk bomba patladiginda butun halk sokaklarda gece gunduz eylem yapsaydi buraya kadar gelmezdi olaylar. ali'm diye kardesine agit yakan yarbay'dan sonra tum halk sokaklara inseydi de durum boyle olmazdi. simdi tsk'ya gore 500'e yakin asker polis olmus pkk'ya gore 2000'den fazla, obur tarafta ise 5000'den fazla insan olmus. toplamda 300 bin kisi evsiz kalmis ve 2016 yilinda yasiyoruz. buna sebep olan kim varsa basta o malum kisinin biyigini sikiyim, sonra da hedefinizin de, istikrarinizin da, partinizin de anasinin amina sokayim orospu cocuklari.
-    
-  entry_writer: ehriman
-- entry_name: |
     rte muhteşem stadı koyunca acıdan çıldıran solcu
   entry_id: 59867612
   entry_content: |
     
-    normal ve medeni ulkelerde bir stad yapildigi zaman, veya bir otoban yapildigi zaman, o konu ile ilgili kurum alkis alir, bizde ise yatirimin sektoru ne olursa olsun tek bir kisi alkis aliyor, o da malum zat..<br/><br/>stad yapilir, hastane yapilir, yol yapilir, havaalani yapilir, ne ulastirma, ne saglik nede spor bakani alkis alir, sadece tek bir kisi! <br/><br/>mesela kac cocuk yapacagimiza da aile bakani degil, o tek bir kisi karar veriyor ayni sekilde. <br/><br/>ozetle, sana normal gelebilir, ama o stad girisine dun asilmis olan cumhurbaskani bayragi falan cok garip isler, dusunemiyorum bile newyork yankee stadium acilisinda, obama bayraklari falan olsa.. bayagi garip bir goruntu olurdu. <br/><br/>bizde ise, olumlu hersey erdogan, olumsuz hersey muhalefet ve dis gucler.<br/><br/>dedigim gibi, size normal gelebilir bu, edirne otesi icin garip isler bunlar.<br/><br/>bu sebeple zaten edirne otesinde yaptiginiz hersey, takindiginiz her tavir dalga konusu oluyor.<br/>(malesef bizde oluyoruz tabi size bagli oldugumuzdan)
+    normal ve medeni ulkelerde bir stad yapildigi zaman, veya bir otoban yapildigi zaman, o konu ile ilgili kurum alkis alir, bizde ise yatirimin sektoru ne olursa olsun tek bir kisi alkis aliyor, o da malum zat..<br/><br/>stad yapilir, hastane yapilir, yol yapilir, havaalani yapilir, ne ulastirma, ne saglik nede spor bakani alkis alir, sadece tek bir kisi! <br/><br/>mesela kac cocuk yapacagimiza da aile bakani bile degil, o tek bir kisi karar veriyor ayni sekilde. <br/><br/>ozetle, sana normal gelebilir, ama o stad girisine dun asilmis olan cumhurbaskani bayragi falan cok garip isler, dusunemiyorum bile newyork yankee stadium acilisinda, obama bayraklari falan olsa.. bayagi garip bir goruntu olurdu. <br/><br/>bizde ise, olumlu hersey erdogan, olumsuz hersey muhalefet ve dis gucler.<br/><br/>dedigim gibi, size normal gelebilir bu, edirne otesi icin garip isler bunlar.<br/><br/>bu sebeple zaten edirne ve otesinde yaptiginiz hersey, takindiginiz her tavir dalga konusu oluyor.<br/>(malesef bizde oluyoruz tabi size bagli oldugumuzdan)
    
   entry_writer: kavgamvar
 - entry_name: |
@@ -207,8 +191,6 @@ data:
   entry_id: 59871351
   entry_content: |
     
-    bu ağlayanlar ve haktan hukuktan bahsedenler, trabzonspor'un kupasına zorla çökenler değil mi ya??<br/><br/>hahahhahahahahahahah<br/><br/>(bkz: <a class="b" href="/?q=oooo+oolleeeey">oooo oolleeeey</a>)
-   
   entry_writer: superyetenekliajan
 - entry_name: |
     akp'nin 14 yıldır iktidar olmasının sebebi
@@ -327,8 +309,8 @@ data:
   entry_id: 59862399
   entry_content: |
     
-    öncelikle cumhuriyet başsavcıları sallıyor gençler. hayır cumhurbaşkanına hakaret davam var oradan biliyorum. yani..
-    
+    öncelikle cumhuriyet başsavcıları sallıyor gençler. hayır cumhurbaşkanına hakaret davam var oradan biliyorum. yani. neyin hakaret olduğu soruluyor. küfür mü hayır. hakaret mi? insanın cehaletini vurgulamak. işte hakaretle küfür arasındaki fark. çok sevdiğim bir söz var "ateizm tek başına tanrıya hakarettir" diye. savcılık uzun uzun düşünmüş, hakaret edip etmediğime de zaten karar verememiş. dava açmadan sorguya çektiler. "ne amaçla söyledin" diye. sanırım en komiği bu. algıları bozuk. tıpkı adalet terazileri gibi..<br/><br/>gelen mesajlar üzerine: neden hala yazıyorum o zaman. 4 nisan'da 3 boyutlu yazıcıda üretilen yumurtalıklar kısır bir farenin yavrulamasını sağladı! araştırmada bilim insanları farenin yumurtalıklarını alıp yerine 3 boyutlu protez yumurtalıkları naklettiler. fare nakilden sonra yumurta ürettti ve ilk fare doğdu. <a rel="nofollow" class="url" target="_blank" href="http://www.popsci.com/mice-give-birth-to-pups-thanks-to-3d-printed-ovaries" title="http://www.popsci.com/mice-give-birth-to-pups-thanks-to-3d-printed-ovaries">http://www.popsci.com/…thanks-to-3d-printed-ovaries</a> <a rel="nofollow" class="url" target="_blank" href="http://www.nature.com/news/stem-cells-egg-engineers-1.13582" title="http://www.nature.com/news/stem-cells-egg-engineers-1.13582">yumurta mühendisliği</a>ve yine bir başka olay kış uykusu. türümüz pek çok sebepten kış uykusuna yatmaz. ama sincaplara <a class="b" href="/?q=dadle">dadle</a> enjekte eden araştırmacılar, bu hayvanların yaz aylarını uykuda geçirmesini sağladılar. nasa bu projeyi bilhassa yönetiyor.. püfffffffffff<br/><br/>eeeee.. diyeceksiniz. eee si şu. yıl olmuş 2016 derken bunu mecazi anlamda söylemiyorduk. tip0'dan tip1'e geçme peşinde koşan bir uygarlığa tanıklık ediyoruz. ve hayır biz onların içinde değiliz. biz hala <a class="b" href="/?q=17+ya%c5%9f%c4%b1nda+eri%c5%9fkin+bir+birey">17 yaşında erişkin bir birey</a>in sevişerek seks yapması ile <a class="b" href="/?q=17+ayl%c4%b1k+bebe%c4%9fin+tecav%c3%bcz%c3%bc">17 aylık bebeğin tecavüzü</a>nün aynı olmadığını tartışıyoruz. <a class="b" href="/?q=%c3%bclkeye+%c3%a7%c3%b6ken+bir+orta%c3%a7a%c4%9f+karanl%c4%b1%c4%9f%c4%b1+var">ülkeye çöken bir ortaçağ karanlığı var</a>. ne yazık ki pek ciddiye almıyoruz. bakın ensar'a destek çıkan tam 250 vakıf vardı. bu vakıflar zihniyetleriyle vakıf başına senede 100 çocuk eğitse bu her sene 25.000 çocuk yapar. <a class="b" href="/?q=gelece%c4%9fin+25.000+bireyi">geleceğin 25.000 bireyi</a>. <br/><br/><a class="b" href="/?q=bilimin+mum+%c4%b1%c5%9f%c4%b1%c4%9f%c4%b1">bilimin mum ışığı</a>yla aydınlanan ülkemde 25.000 karanlık zihniyet yetişecek. akp hükümeti bir anda yok olsa, püf, buhar olsa dahi bıraktıkları sosyolojik ve bilim enkazını kaldırmamız en az 50 yıl sürer. 10 senedir evrim ve genetik biyoloji, 2 senedir astrofizik ve kuantum ile ilgili okuyorum. ne kadar makale bulursam okuyorum. neden yapıyorum bunu? <br/><br/>aziz nesin 1990'larda "<a class="b" href="/?q=geliyorlar">geliyorlar</a>" dediğinde inanmamıştım. artık görüyorum. yazıyorum. bildiklerimi ince ince yazıyorum her yere. çocuklarıma, yeğenlerime, çevremdekilere anlatıyorum. teolojiden, tarihe kadar. ince ince dokuyorum. <br/><br/>ve sen bunu okuyan güzel kardeşim. <a class="b" href="/?q=bil+diye+yaz%c4%b1yorum">bil diye yazıyorum</a>. bak artık 3 boyutlu yazıcıdan üretilen yumurtayı biliyorsun. olası bir felakette kaçışımız o yumurta, türümüzün devamı. bunu biliyorsun. gördün mü artık aktaracağın bir bilgin var.<br/><br/>bizim derneklerimiz tehlikede. biz varız. sen varsın, ben varım. <a class="b" href="/?q=burada+%c3%b6%c4%9frendi%c4%9fin+tek+%c5%9feyi+anlat+%c3%a7ocuklar%c4%b1na">burada öğrendiğin tek şeyi anlat çocuklarına</a>, yeğenlerine, kardeşlerine. onların yetiştirdiği <a class="b" href="/?q=gecenin+zifiri+karanl%c4%b1%c4%9f%c4%b1+gibi+25.000+%c3%a7ocu%c4%9fa">gecenin zifiri karanlığı gibi 25.000 çocuğa</a> karşı, senin benim dokuduğumuz, <a class="b" href="/?q=h%c3%bcrriyet+gibi+ayd%c4%b1nl%c4%b1k+25.000+%c3%a7ocuk">hürriyet gibi aydınlık 25.000 çocuk</a>.. bir savaş var bu ülkede.. aydınlık ile karanlığın savaşı. sen görmüyorsun. bu savaş daha 20 yıl sürecek. <br/><br/>hem de başkanlıkla beraber imkansız şekilde. işte bu yüzden yazıyorum. hapse girsem de çıktığımda tekrar yazacağım. bu ülkeyi sen, ben değil ama senin bilgini aktaracağın çocuklar kurtaracak. sokaktaki insanlar, alelade olan bizler. korkma. <br/><br/>özetle, yazacağız gençler. yazacağız. konuşacağız. anlatacağız. yoksa sen yazmasan, ben yazmasam <a class="b" href="/?q=nas%c4%b1l+%c3%a7%c4%b1kacak+bu+karanl%c4%b1klar+ayd%c4%b1nl%c4%b1%c4%9fa">nasıl çıkacak bu karanlıklar aydınlığa</a>.<br/><br/>bu arada cumhurbaşkanına hakaret davasında yalova mahkemesinin verdiği karar, ders olarak okutun : "cumhurbaşkanı hakaret suçu tck'da özel olarak düzenlenmiş ve müeyyidelendirilmiş ise de mevcut anayasal düzenlemeden devletin başı olan cumhurbaşkanının tarafsız ve toplum kesimlerine aynı mesafede olduğunun kabul edildiği ve temsil ettiği maddi ve manevi değerler açısından bu sıfatı taşıyan kişilerin özel korunması yoluna gidilerek onlara yönelik hakaret suçunun ayrı bir maddede düzenlendiği mağdurun cumhurbaşkanı olduktan sonraki bir takım davranışları ve sözlerinin toplumun bazı kesimlerinde hala iktidarda bulunan partinin genel başkanı gibi hareket ettiği, eski partisi ile bağlarını kopartmadığı algısını oluşturduğu algısını oluşturduğu ve halen siyasal kişilik taşıdığı düşünülerek mevcut olaydaki gibi protestolara konu olduğu, bununla birlikte bahsi geçen sloganları sanıkla birlikte atan ve toplantıya katılan diğer şahıslar hakkında herhangi bir işlem yapılmamasında anayasa ve eşitlik ilkesi yönünden aykırılık oluşturduğu, tüm bu açıklanan nedenlerle sanıkların atılı suçtan ayrı ayrı beraatlerine karar verilerek hüküm tahsis edilmiştir."
+   
   entry_writer: fridanin parcalanmis omurgasi
 - entry_name: |
     fenerbahçe'nin 7 maçta 21 puan alacak olması
