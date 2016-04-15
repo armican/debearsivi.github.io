@@ -27,14 +27,6 @@ data:
    
   entry_writer: tavukbanalop
 - entry_name: |
-    nazlı çelik'in abdullah zeydan'a ayarı
-  entry_id: 59932071
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=detay+vereni+sikiyorlar+san%c4%b1r%c4%b1m">detay vereni sikiyorlar sanırım</a>)
-   
-  entry_writer: the sado
-- entry_name: |
     mısır'a çabalarından dolayı teşekkür ediyorum
   entry_id: 59924221
   entry_content: |
@@ -95,8 +87,8 @@ data:
   entry_id: 59924717
   entry_content: |
     
-    butona gerek yok. ben senin direk derdini sikeyim.
-    
+    butona gerek yok. ben senin direk derdini sikeyim..<br/><br/>edit: dunun en begenilen 11. entry'si olan isbu entry eksi sozlugun geldigi yeri biraz gozumuze sokuyor. bu durumdan memnun olan malum sahisin daha munasip bir yerlerine sokar insallah.
+   
   entry_writer: incilizum
 - entry_name: |
     emrah'ın acun ılıcalı'ya telif davası açması
@@ -115,19 +107,11 @@ data:
     
   entry_writer: aulutrene
 - entry_name: |
-    vodafone kaçak arena
-  entry_id: 59935180
-  entry_content: |
-    
-    sittir git
-    
-  entry_writer: bir nickim olsun yeter
-- entry_name: |
     whatsapp'ın türkçesi
   entry_id: 59925410
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ne%27appt%c4%b1n">ne'apptın</a>)
+    (bkz:  <a class="b" href="/?q=ne%27appt%c4%b1n">ne'apptın</a>)<br/><br/>debe editi yapmak istemezdim ama dil devrimini baltalamak için ortaya atılan -gaç'lı -geç'li uyduruk esprilere prim verip de türkçe ile dalga geçenlere ortak olmayın.
    
   entry_writer: fuzzy olmak istemistim
 - entry_name: |
@@ -159,7 +143,7 @@ data:
   entry_id: 59925637
   entry_content: |
     
-    onlarda evlenmek:  <br/><br/>-flört, birlikte yaşama<br/>-ailelerin tanışması ya da önceden tanış olmaları<br/>-nikah, ardından aile ve dostlarla küçük bir kutlama<br/>-maddi durum elveriyorsa güzel bir tatil (hayır ter kokan garsonların rus turistlere yavşadığı beş yıldızlı oteller değil)<br/>-normal hayata dönüş<br/><br/>bizde evlenmek: <br/><br/>-anadan babadan gizli saklı flört<br/>-kızın konuştuğu çocuğu itiraf etmesi, kavga gürültü<br/>-söz<br/>-kavga (söz gününe eltinin iştirak etmemesi)<br/>-nişan bohçası (kekoluk+masraf kapısı+damat bohçasından çıkan pijama ipekli değildi diye kavga)<br/>-nişan alışverişi (elin kadını sana don sütyen alıyor sanki incir yaprağıyla geziyormuşsun gibi)<br/>-kavga (alışverişte görümce suratını sarkıttı)<br/>-nişan (büyük masraf kapısı)<br/>-kavga (takılan bilezikler yeterince kalın değildi)<br/>-kavga (oğlanın kıza bayramda getirdiği keçinin boynuzundan pekmez akmadı)<br/>-ev düzmece (kalantor, tipsiz mobilyalar, stor perdeler, fakir geçmişin acısının orta-üst sınıfa yakınsanan minimalist mobilyalı, ankastre mutfaklı şeylerle giderilmesi, 30-100k arası masraf tahminimce)<br/>-düğün (devasa masraf kapısı)<br/>-kavga (görümce düğün günü kırık beyaz elbise giydi)<br/>-kavga (kaynana bir şey takmadı)<br/>-kavga (gelinliği straples olsun isteyen gelin, muhafazakar kayınpeder engeline takıldı ve bolero giymek zorunda kaldı) <br/>-balayı (ter kokan garsonlu, yılışık animatörlü, fakir rus turistli tatil köyünde, en aşağı 10k)<br/>-kavga (kayınvalide yeni evli çiftin evinin anahtarının kopyasından yaptırmış)<br/>-kavga (kayınpederin masraf yaptım gerekçesiyle takılara el koyması)<br/>-kavga (koca işten dönünce sığır gibi yatıp önüne yemek bekliyor)<br/>-kavga (kayınvalide evleneli bir ay olmasına rağmen yemeğe çağrılmadı diye bozuk attı)<br/>-kavga (kayınbirader cep telefonu dükkanı açmak için ağabeyinden borç istiyor)<br/>-kavga (kızın kardeşi eve çöreklendi, otel gibi kullanıyor)<br/>-borç harç (düğün masrafı, eşya borcu, taksitle gittikleri balayı masrafı, aldıkları sıfır aracın masrafının üstüne ev kredisinin bellerini bükmesi ve evliliklerinin ilk beş yılını bu borçları ödeyerek, diğer beş yılını da tüp bebek tedavisi ve sonunda kavuştukları tüylü ve bıyıklı mira bebeğin masraflarını karşılayarak geçirmeleri)<br/><br/>allah mesut etsin.
+    onlarda evlenmek:  <br/><br/>-flört, birlikte yaşama<br/>-ailelerin tanışması ya da önceden tanış olmaları<br/>-nikah, ardından aile ve dostlarla küçük bir kutlama<br/>-maddi durum elveriyorsa güzel bir tatil (hayır ter kokan garsonların rus turistlere yavşadığı beş yıldızlı oteller değil)<br/>-normal hayata dönüş<br/><br/>bizde evlenmek: <br/><br/>-anadan babadan gizli saklı flört<br/>-kızın konuştuğu çocuğu itiraf etmesi, kavga gürültü<br/>-söz<br/>-kavga (söz gününe eltinin iştirak etmemesi)<br/>-nişan bohçası (kekoluk+masraf kapısı+damat bohçasından çıkan pijama ipekli değildi diye kavga)<br/>-nişan alışverişi (elin kadını sana don sütyen alıyor sanki incir yaprağıyla geziyormuşsun gibi)<br/>-kavga (alışverişte görümce suratını sarkıttı)<br/>-nişan (büyük masraf kapısı)<br/>-kavga (takılan bilezikler yeterince kalın değildi)<br/>-kavga (oğlanın kıza bayramda getirdiği keçinin boynuzundan pekmez akmadı)<br/>-ev düzmece (kalantor, tipsiz mobilyalar, stor perdeler, fakir geçmişin acısının orta-üst sınıfa yakınsanan minimalist mobilyalı, ankastre mutfaklı şeylerle giderilmesi, 30-100k arası masraf tahminimce)<br/>-düğün (devasa masraf kapısı)<br/>-kavga (görümce düğün günü kırık beyaz elbise giydi)<br/>-kavga (kaynana bir şey takmadı)<br/>-kavga (gelinliği straples olsun isteyen gelin, muhafazakar kayınpeder engeline takıldı ve bolero giymek zorunda kaldı) <br/>-balayı (ter kokan garsonlu, yılışık animatörlü, fakir rus turistli tatil köyünde, en aşağı 10k)<br/>-kavga (kayınvalide yeni evli çiftin evinin anahtarının kopyasından yaptırmış)<br/>-kavga (kayınpederin masraf yaptım gerekçesiyle takılara el koyması)<br/>-kavga (koca işten dönünce sığır gibi yatıp önüne yemek bekliyor)<br/>-kavga (kayınvalide evleneli bir ay olmasına rağmen yemeğe çağrılmadı diye bozuk attı)<br/>-kavga (kayınbirader cep telefonu dükkanı açmak için ağabeyinden borç istiyor)<br/>-kavga (kızın kardeşi eve çöreklendi, otel gibi kullanıyor)<br/>-borç harç (düğün masrafı, eşya borcu, taksitle gittikleri balayı masrafı, aldıkları sıfır aracın masrafının üstüne ev kredisinin bellerini bükmesi ve evliliklerinin ilk beş yılını bu borçları ödeyerek, diğer beş yılını da tüp bebek tedavisi ve sonunda kavuştukları tüylü ve bıyıklı mira bebeğin masraflarını karşılayarak geçirmeleri)<br/><br/>allah mesut etsin.<br/><br/>ek: "çok doğru gözlem, yazdıklarını aynen yaşayan insanlar tanıdım" diye mesajlar geldi. bu anlattıklarımın bin beterini yaşayan/yaşatan insanların hayatlarını okumak için <a class="b" href="/?q=kad%c4%b1nlar+kul%c3%bcb%c3%bc">kadınlar kulübü</a> forumunun bir derdim var köşesini ziyaret edin. zaten yazdığım çoğu şey orada okuduklarımdır, biraz da abartı payı var. <br/><br/>milletten hacılaya hacılaya debe'ye girdim. :$ hakkını helal et bilezik delisi aysel, sen de hakkını helal et mira bebek.
    
   entry_writer: hale luya
 - entry_name: |
@@ -191,7 +175,7 @@ data:
   entry_id: 59931083
   entry_content: |
     
-    spor salonundaki bir kızdan gelen kandil mesajı sonrası oluşan diyaloğunn<sup class="ab"><a title="(bkz: aynen kopyalıyorum)" href="/?q=aynen+kopyal%c4%b1yorum" data-query="aynen kopyalıyorum">*</a></sup> , bünyemde yarattığı cami yeşili ağırlıktır.<br/><br/>"[07/04 14:08] gizem: hayirli kandiller<br/>[07/04 14:08] haşmet: teşekkür ederim<br/>[07/04 14:09] haşmet: size de<br/>[07/04 14:09] gizem: simdi sizli bizlimi olduk<br/>[07/04 14:10] haşmet: senin de mübarek olsun<br/>[07/04 14:10] haşmet: ben deist im<br/>[07/04 14:10] haşmet: inancım yok<br/>[07/04 14:10] haşmet: o yüzden<br/>[07/04 14:10] gizem: neden deistin ne gibi<br/>[07/04 14:10] gizem: neye inancin yok<br/>[07/04 14:14] haşmet: tanrı inancı olup dinlere inanmayan insana deniyor<br/>[07/04 14:28] gizem: senn kandile inancin yokmu<br/>[07/04 14:43] haşmet: müslüman değilim<br/>[07/04 14:43] haşmet: dinlere inanmıyorum<br/>[07/04 14:43] haşmet: kandile de inanmıyorum<br/>[07/04 14:45] haşmet: tanrıya inanıyorum sadece<br/>[07/04 14:45] haşmet: arada başka bişey yok<br/>[07/04 14:45] haşmet: kitap yada peygamber gibi<br/>[07/04 14:48] gizem: müsluman deilmisin sen<br/>[07/04 14:48] gizem: hristiyanmisin<br/>[07/04 14:49] haşmet: gizem dinlere inanmıyorum dedim ya<br/>[07/04 14:49] haşmet: iki kere söyledim<br/>[07/04 14:49] gizem: ılk defa duydum musluman olmadigini<br/>[07/04 14:49] haşmet: önemsiz bir ayrıntı<br/>[07/04 14:49] haşmet: benim için<br/>[07/04 14:49] haşmet: sorana söylüyorum<br/>[07/04 14:50] gizem: önemsiz deyil bence. cok önemli. herkes müsluman olmk ister. sen dönersin baska dinlere sasirdimm<br/>[07/04 14:51] haşmet: hala baska din diyorsun<br/>[07/04 14:52] haşmet: dinler insanlar tarafından uydurulmuş ve kutsal kitaplar insanlar tarafından yazılmıştır<br/>[07/04 14:52] haşmet: gözümde hepsi aynı şekilde değersizdir<br/>[07/04 14:52] haşmet: sen inanırsın<br/>[07/04 14:52] haşmet: saygı duyarım<br/>[07/04 14:52] gizem: neyse bosver. benm tanrim yok allahim ve peygamberim var.<br/>[07/04 14:52] haşmet: aferin sana<br/>[07/04 14:53] gizem: sen kuranada inanmazsin. meryem anaya taparsin<br/>[07/04 14:53] haşmet: salak mısın acaba<br/>[07/04 14:53] haşmet: gizem<br/>[07/04 14:53] haşmet: gerçekten soruyorum<br/>[07/04 14:53] haşmet: hangi kısmını anlamadın<br/>[07/04 14:53] haşmet: meryem diyor ya<br/>[07/04 14:54] gizem: salak olan sensin. benmle duzgun konus<br/>[07/04 14:54] haşmet: istemez<br/>[07/04 14:54] haşmet: engelliyorum seni "
+    spor salonundaki bir kızdan gelen kandil mesajı sonrası oluşan diyaloğunn<sup class="ab"><a title="(bkz: aynen kopyalıyorum)" href="/?q=aynen+kopyal%c4%b1yorum" data-query="aynen kopyalıyorum">*</a></sup> , bünyemde yarattığı cami yeşili ağırlıktır.<br/><br/>"[07/04 14:08] gizem: hayirli kandiller<br/>[07/04 14:08] haşmet: teşekkür ederim<br/>[07/04 14:09] haşmet: size de<br/>[07/04 14:09] gizem: simdi sizli bizlimi olduk<br/>[07/04 14:10] haşmet: senin de mübarek olsun<br/>[07/04 14:10] haşmet: ben deist im<br/>[07/04 14:10] haşmet: inancım yok<br/>[07/04 14:10] haşmet: o yüzden<br/>[07/04 14:10] gizem: neden deistin ne gibi<br/>[07/04 14:10] gizem: neye inancin yok<br/>[07/04 14:14] haşmet: tanrı inancı olup dinlere inanmayan insana deniyor<br/>[07/04 14:28] gizem: senn kandile inancin yokmu<br/>[07/04 14:43] haşmet: müslüman değilim<br/>[07/04 14:43] haşmet: dinlere inanmıyorum<br/>[07/04 14:43] haşmet: kandile de inanmıyorum<br/>[07/04 14:45] haşmet: tanrıya inanıyorum sadece<br/>[07/04 14:45] haşmet: arada başka bişey yok<br/>[07/04 14:45] haşmet: kitap yada peygamber gibi<br/>[07/04 14:48] gizem: müsluman deilmisin sen<br/>[07/04 14:48] gizem: hristiyanmisin<br/>[07/04 14:49] haşmet: gizem dinlere inanmıyorum dedim ya<br/>[07/04 14:49] haşmet: iki kere söyledim<br/>[07/04 14:49] gizem: ılk defa duydum musluman olmadigini<br/>[07/04 14:49] haşmet: önemsiz bir ayrıntı<br/>[07/04 14:49] haşmet: benim için<br/>[07/04 14:49] haşmet: sorana söylüyorum<br/>[07/04 14:50] gizem: önemsiz deyil bence. cok önemli. herkes müsluman olmk ister. sen dönersin baska dinlere sasirdimm<br/>[07/04 14:51] haşmet: hala baska din diyorsun<br/>[07/04 14:52] haşmet: dinler insanlar tarafından uydurulmuş ve kutsal kitaplar insanlar tarafından yazılmıştır<br/>[07/04 14:52] haşmet: gözümde hepsi aynı şekilde değersizdir<br/>[07/04 14:52] haşmet: sen inanırsın<br/>[07/04 14:52] haşmet: saygı duyarım<br/>[07/04 14:52] gizem: neyse bosver. benm tanrim yok allahim ve peygamberim var.<br/>[07/04 14:52] haşmet: aferin sana<br/>[07/04 14:53] gizem: sen kuranada inanmazsin. meryem anaya taparsin<br/>[07/04 14:53] haşmet: salak mısın acaba<br/>[07/04 14:53] haşmet: gizem<br/>[07/04 14:53] haşmet: gerçekten soruyorum<br/>[07/04 14:53] haşmet: hangi kısmını anlamadın<br/>[07/04 14:53] haşmet: meryem diyor ya<br/>[07/04 14:54] gizem: salak olan sensin. benmle duzgun konus<br/>[07/04 14:54] haşmet: istemez<br/>[07/04 14:54] haşmet: engelliyorum seni "<br/><br/>deist editi: kız güzel ve modern birisi, tanıştık kaynaştık, flörtleştik bir süre ama kız kahve içmek için bile bin tane kriter sunmuş, ben de kendisinden soğumuş ve 2 hafta kadar bişey yazmamıştım. kandil mesajı ile muhabbete giren kızı savuşturmak için sizli bizli konuşmuş ve muhabbet uzamasın diye deist olduğumu söylemiştim. gizemin daha önce de spesifik kelimesini hakaret olarak algıladığı da olmuştu (spastik ile karıştırmıştı) ama "ben deist im" sözünü "ben değiştim" olarak anlaması ve çakraların açılmaması sonucu muhabbet efsane saçma ve komik bir hale gelmiştir. gizem hoş ve güzel bir kızdır ama cahil, anlayışsız ve kaba olduğu gerçeği de su götürmez olduğu için internete taşınmıştır bu konuşma. gizem keşke şaka yapıyor olsaymıştır. <br/><br/>(bkz: <a class="b" href="/?q=deist+k%c4%b1zlar+eqlesin">deist kızlar eqlesin</a>)
    
   entry_writer: hasmetizm 2046
 - entry_name: |
@@ -263,7 +247,7 @@ data:
   entry_id: 59936221
   entry_content: |
     
-    chp li değilim ama boyle bi zihniyetten kurtulmak için kaçırılmayacak fırsat..<br/><br/>not: chp
+    chp li değilim ama boyle bi zihniyetten kurtulmak için kaçırılmayacak fırsat..<br/><br/>not: chp<br/><br/>debe editi: ilk debem mutluyum. hem de öyle abuk subuk entrylerle değil her zaman gurur duyacağım bir entry ile heyooooooo
    
   entry_writer: prim pesinde bir omur
 - entry_name: |
@@ -351,7 +335,7 @@ data:
   entry_id: 59923652
   entry_content: |
     
-    bu kampanyaların firmalara zarar vermeyeceğini düşünenler var aramızda, çok ilginç gerçekten..<br/><br/>neymiş efendim turkcell'in milyonlarca aboneliği varmış. yahu arkadaş sizler türkiye'nin her yerini yaşadığınız şehir merkezleri gibi mi sanıyorsunuz. arka planda milyonlarca insan yığınları var, fakirler, tüketim oranları çok düşük.<br/><br/>burada çatır çatır hattını iptal edenlerin her biri turkcell'in beş kuruş kazanamadığı müşterilerin en az on katı para kazandırıyor bu kuruma.<br/><br/>hat kapanmasın diye 5 tl yükleme yapan, verdiği para aldığı hizmeti anca karşılayan milyonlarca abone var, bu bütün operatörler, bankalar ve diğer hizmet sağlayıcıları için geçerli.<br/><br/>yani aboneliğini iptal eden kesim kaymak müşteri, para kazandıran, istenilen müşteriler. bu iş bankacılık sektöründe de böyledir.<br/><br/>bi mevduatı olan hesap hareketliliği yüksek müşteri var bir de hesap işletim ücreti dahi vermeden boşta hesap bekleten müşteri var. bankalar veya operatörler elinden gelse inanın mevcut aboneliklerinin yarıdan çoğunu iptal ederler.<br/><br/>binlerce çalışanı olan bu kurumsal şirketler bütün bu giderleri 5 tl yükleme yapan varoşlardan değil, binlerce lira fatura ödeyen şirketlerden ve her ay düzenli olarak yüksek tarife faturası ödeyenlerden karşılıyor.<br/><br/>ayrıca söz konusu kesimin bundan sonra yapacağı tercihler, çevresindekilere vereceği tavsiyeler, yaşına gelen çoluğuna çocuğuna alacağı ürünler düşünüldüğünde uzun vadede bu tip eylemlerin etkileri daha da yıkıcı olacaktır kurumlar için.<br/><br/>yani eğer turkcell'e tepkiliysen ve zarar vermek istiyorsan bu kampanyaya katılarak düşündüğünden fazlasını yapabilirsin.<br/><br/>ayrıca iktidar ve şirketlerine karşı artık elimizde kalan, hemen uygulayabileceğimiz tek yaptırım da budur.
+    bu kampanyaların firmalara zarar vermeyeceğini düşünenler var aramızda, çok ilginç gerçekten..<br/><br/>neymiş efendim turkcell'in milyonlarca aboneliği varmış. yahu arkadaş sizler türkiye'nin her yerini yaşadığınız şehir merkezleri gibi mi sanıyorsunuz. arka planda milyonlarca insan yığınları var, fakirler, tüketim oranları çok düşük.<br/><br/>burada çatır çatır hattını iptal edenlerin her biri turkcell'in beş kuruş kazanamadığı müşterilerin en az on katı para kazandırıyor bu kuruma.<br/><br/>hat kapanmasın diye 5 tl yükleme yapan, verdiği para aldığı hizmeti anca karşılayan milyonlarca abone var, bu bütün operatörler, bankalar ve diğer hizmet sağlayıcıları için geçerli.<br/><br/>yani aboneliğini iptal eden kesim kaymak müşteri, para kazandıran, istenilen müşteriler. bu iş bankacılık sektöründe de böyledir.<br/><br/>bi mevduatı olan hesap hareketliliği yüksek müşteri var bir de hesap işletim ücreti dahi vermeden boşta hesap bekleten müşteri var. bankalar veya operatörler elinden gelse inanın mevcut aboneliklerinin yarıdan çoğunu iptal ederler.<br/><br/>binlerce çalışanı olan bu kurumsal şirketler bütün bu giderleri 5 tl yükleme yapan varoşlardan değil, binlerce lira fatura ödeyen şirketlerden ve her ay düzenli olarak yüksek tarife faturası ödeyenlerden karşılıyor.<br/><br/>ayrıca söz konusu kesimin bundan sonra yapacağı tercihler, çevresindekilere vereceği tavsiyeler, yaşına gelen çoluğuna çocuğuna alacağı ürünler düşünüldüğünde uzun vadede bu tip eylemlerin etkileri daha da yıkıcı olacaktır kurumlar için.<br/><br/>yani eğer turkcell'e tepkiliysen ve zarar vermek istiyorsan bu kampanyaya katılarak düşündüğünden fazlasını yapabilirsin.<br/><br/>ayrıca iktidar ve şirketlerine karşı artık elimizde kalan, hemen uygulayabileceğimiz tek yaptırım da budur.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: televizyon kanallarının ve gazetelerin bir bir yok edildiği şu günlerde ihtiyacımız olan ve hak ettiği ilgiyi görmemiş şöyle bir girişim var;<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/channel/UCfeZdjH_RKcQgJCebxUpBSw" title="https://www.youtube.com/channel/UCfeZdjH_RKcQgJCebxUpBSw">medyascope</a>
    
   entry_writer: dont judge me mom
 - entry_name: |
@@ -375,7 +359,7 @@ data:
   entry_id: 59935819
   entry_content: |
     
-    ayaklarını öpsen daha mantıklı değil mi neden demleme cay yerine poşet çay peşindesin anlamadım dedirten içmedir.
+    ayaklarını öpsen daha mantıklı değil mi neden demleme çay yerine poşet çay peşindesin anlamadım dedirten içmedir.
     
   entry_writer: carol ferris
 - entry_name: |
@@ -391,7 +375,7 @@ data:
   entry_id: 59936145
   entry_content: |
     
-    götümüzden trafik kuralı uydurmayalım lütfen..  <br/><br/>yol boşsa 200'le bile gitsek en sağ şeritte gidecekmişiz.. <br/><br/>hı hı.. çünkü biri 240'la bizi geçse, öteki 280'le onu geçse, beriki 400'le nerden geçecek?
+    götümüzden trafik kuralı uydurmayalım lütfen..  <br/><br/>neymiş? yol boşsa, 200'le bile gitsek en sağ şeritte gidecekmişiz.. <br/><br/>hı hı.. çünkü biri 240'la bizi geçse, öteki 280'le onu geçse, beriki 400'le nerden geçecek?<br/><br/>debe editi: bu şekilde düşünen, düşündüğünü dile getiren, üstüne üstlük bi de savunan kafayla aynı trafiğe çıkıyoruz.. aman dikkatli olalım, selektör yiynce ölüm tehdidi almış gibi panik yapmayalım.. <br/><br/>misal bana bunu yaptıklarında ben sakin sakin en sol şeride geçerek yol veriyorum.. böyle sinyalli minyalli geçiyorum ağır ağır.. çok zevkli, siz de deneyin..
    
   entry_writer: maca yedilisi
 - entry_name: |
