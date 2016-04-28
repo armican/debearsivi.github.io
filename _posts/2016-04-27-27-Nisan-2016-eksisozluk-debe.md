@@ -159,7 +159,7 @@ data:
   entry_id: 60156898
   entry_content: |
     
-    koş koş koş�<br/><br/>- ah uçağı kaçırdık, napcaz?<br/>- gidip yaşayalım bari.<br/>- yihuuu, ulen ne yaşıyoruz beaaa!<br/>- fakirler ölün layyyyn!!<br/>- hobareyyyy!<br/>- biliyor musun uçağı yine kaçırdık.<br/>- iyi o zaman gidip sevişelim.
+    koş koş koş?<br/><br/>- ah uçağı kaçırdık, napcaz?<br/>- gidip yaşayalım bari.<br/>- yihuuu, ulen ne yaşıyoruz beaaa!<br/>- fakirler ölün layyyyn!!<br/>- hobareyyyy!<br/>- biliyor musun uçağı yine kaçırdık.<br/>- iyi o zaman gidip sevişelim.
    
   entry_writer: sikindirik asit
 - entry_name: |
