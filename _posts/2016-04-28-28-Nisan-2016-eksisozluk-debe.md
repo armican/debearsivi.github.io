@@ -7,8 +7,8 @@ data:
   entry_id: 60176917
   entry_content: |
     
-    evet 600 yil tek soru sorulmadan gudulmus halka cok ayip ettigini gormemize neden olmus hadisedir.
-    
+    evet 600 yil tek soru sorulmadan gudulmus halka cok ayip ettigini gormemize neden olmus hadisedir..<br/><br/>dbedit: gencler araba yapiyorlarmis layk filan edelim, destekleyelim: <a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/hacetteperacing/" title="https://www.facebook.com/hacetteperacing/">https://www.facebook.com/hacetteperacing/</a><br/><br/>dbedit2: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: freudun hayaleti
 - entry_name: |
     köprüyü pahalı bulan geçmesin
@@ -39,8 +39,8 @@ data:
   entry_id: 60184053
   entry_content: |
     
-    bir sonraki seçimde de seve seve akp'ye oy verecek kişinin söylemidir.
-    
+    bir sonraki seçimde de seve seve akp'ye oy verecek kişinin söylemidir..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: gaip
 - entry_name: |
     27 nisan 2016 boğaziçi üniversitesi rezaleti
@@ -55,7 +55,7 @@ data:
   entry_id: 60183066
   entry_content: |
     
-     <a class="b" href="/?q=26+nisan+2016+amerika+konsoloslu%c4%9fu+t%c3%bcrkiye+uyar%c4%b1s%c4%b1">26 nisan 2016 amerika konsolosluğu türkiye uyarısı</a>'ndan 1 gün sonra gerçekleşmiştir . <a class="b" href="/?q=mit">mit</a> açıklamayı türkçe'ye çeviremeden patlama oldu .
+     <a class="b" href="/?q=26+nisan+2016+amerika+konsoloslu%c4%9fu+t%c3%bcrkiye+uyar%c4%b1s%c4%b1">26 nisan 2016 amerika konsolosluğu türkiye uyarısı</a>'ndan 1 gün sonra gerçekleşmiştir . <a class="b" href="/?q=mit">mit</a> açıklamayı türkçe'ye çeviremeden patlama oldu ya lan .<br/><br/>debe edit : (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: empisayn
 - entry_name: |
@@ -95,16 +95,16 @@ data:
   entry_id: 60186367
   entry_content: |
     
-    bu başlık adıyla yapılan başvuruyu okuyan hakimin yüz ifadesini çok merak ediyorum. mesleğe yıllarını vermişsin hakim olmuşsun önüne osuruk yazan bir dosya geliyor gülmekten yarılırsın amk.
-    
+    bu başlık adıyla yapılan başvuruyu okuyan hakimin yüz ifadesini çok merak ediyorum. mesleğe yıllarını vermişsin hakim olmuşsun önüne osuruk yazan bir dosya geliyor gülmekten yarılırsın amk..<br/><br/>debe editi: devrim bebeğe yardım kampanyası (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: oyun oynarken kendini kaybeden adam
 - entry_name: |
     terrorism religion nation there is no homeland
   entry_id: 60185512
   entry_content: |
     
-    akp, beykoz, gençlik kolları, there is no brain.
-    
+    akp, beykoz, gençlik kolları, there is no brain..<br/><br/>edit: <a class="b" href="/?q=beyruta+gidelim+mi">beyruta gidelim mi</a> adlı yazar arkadaşımızın paylaşmamı rica ettiği bir kampanya var. aşağıdaki linkten ulaşınız.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: molon lave
 - entry_name: |
     götün yiyorsa dene'nin ingilizcesi
@@ -119,7 +119,7 @@ data:
   entry_id: 60185358
   entry_content: |
     
-    niye suçu seytana atiyoruz ki..<br/>(bkz: <a class="b" href="/?q=insan">insan</a>).
+    niye suçu seytana atiyoruz ki..<br/>(bkz: <a class="b" href="/?q=insan">insan</a>).<br/><br/>debe edit: normalde öldürseler yapmam editlemem entrymi ama madem kötülügün kaynagini ögrendik, onu yenmek için yapilacak seyi de söylüyorum: <br/><br/>çocuklara bir sans verin, çünkü gelecek onlarda. onlar ancak ve ancak bizden daha iyi olmayi basarip, dünyayi kendi masumiyetlerinin nesiller boyunca yeserdigi güzel bir yer haline getirebilirler. bunu gerçeklestirmek için ise yapmamiz gereken sey onlara umut vermek! nasil mi yapariz? iste böyle, (bkz: <a class="b" href="/entry/60102536">#60102536</a>), devrime ve-veya onun gibi duydugumuz, tanik oldugumuz örneklere yardim ederek. son olarak bu da benim zülfü yoldasa atfim olsun: <br/><br/>'dünyayı güzellik kurtaracak<br/>bir çocuga yardim eli uzatmakla<br/>bir insanı sevmekle başlayacak her şey'
    
   entry_writer: kazaryasa
 - entry_name: |
@@ -151,15 +151,15 @@ data:
   entry_id: 60187451
   entry_content: |
     
-    bak iste, adam cikti insallah fenerbahce de euroleague'i alir dedi. sunu diyecek kac tane turk spor yoneticisi var. helal olsun hoca, helal sana.
-    
+    bak iste, adam cikti insallah fenerbahce de euroleague'i alir dedi. sunu diyecek kac tane turk spor yoneticisi var. helal olsun hoca, helal sana..<br/><br/>yardim editi: beyler bayanlar (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>) basligina bakalim, elimizden geldigince yardimci olalim. kiminin parasi, kiminin duasi, kiminin de up'i. hadi bakalim elleriniz dert gormesin.
+   
   entry_writer: abuzer komurcu nickini kim aldi lan
 - entry_name: |
     son chp'li ölene kadar laikliği savunacağız
   entry_id: 60180168
   entry_content: |
     
-    türk ulus devleti kuran partiye  <a class="b" href="/?q=t%c3%bcrk+diye+bir+%c4%b1rk+yok">türk diye bir ırk yok</a> diyen adamın yancıları fransız diyor.
+    türk ulus devleti kuran partiye  <a class="b" href="/?q=t%c3%bcrk+diye+bir+%c4%b1rk+yok">türk diye bir ırk yok</a> diyen adamın yancıları fransız diyor.<br/><br/>edit: <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: hgzr
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 60176887
   entry_content: |
     
-    bu ülkede söylenmiş en büyük yalan heralde şu %99'u müslüman ülke cümlesidir..<br/>(bkz: <a class="b" href="/?q=bi+bitmediniz">bi bitmediniz</a>)
+    bu ülkede söylenmiş en büyük yalan heralde şu %99'u müslüman ülke cümlesidir..<br/>(bkz: <a class="b" href="/?q=bi+bitmediniz">bi bitmediniz</a>)<br/><br/>db edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: analog deep
 - entry_name: |
@@ -183,7 +183,7 @@ data:
   entry_id: 60185482
   entry_content: |
     
-    tuzhurmatu'da kürtler, türkmen ailelerin evlerini basmaya ve katliam yapmaya başladı.  <br/><br/>aslında bölgedeki türkmenlerin dediğine göre 3 gün önce başlamış. sağolsun bizim ana medya akışını sağlayan ümmetçi havuz medyamız ve barışsever medyamız bunları ortaya çıkarmıyor. ya facebook'ta ya da adı sanı duyulmamış haber sitelerinden öğrenebiliyoruz. <br/><br/>yada ekşisözlük demek isterdim ne yazık ki artık en hassas insanlar diye düşündüğüm yazarlarımızın hassasiyeti beni korkutuyor. hümanistiz diye geçinen, barış istediklerini söyleyen ekşisözlük yazarları sessiz. sadece hdplilere değil bütün sözlük yazarlarına bu eleştirim.<br/><br/>evet türkmenlerin canları değil hakları çalınıyor, bir süreliğine değil sonsuza kadar çalınmak üzere. zaten türkmenlerin tek amaçı artık canları değil hakları, çocuklarının hakları, eşlerinin hakları , annelerinin hakları. kendi canlarından, haklarından çoktan vazgeçtiler. <br/><br/>inanır mısınız bu ilk değil musul'da oldu kerkük'te oldu kuzey suriye'de oldu. ben sizin hiçbir zaman barış istediğinize ınanmamıştım. hala inananlar varsa artık gözden geçirsin lütfen.<br/><br/>türkmenlerden ne istiyorsunuz bu insanlar ne yaptı söyler misiniz. hayır kimse de yardım etmiyor bu insanlara. <br/><br/>evet tekrar soruyorum inanır mısınız türkiye peşmergeleri eğitiyor. evet eğitiyor. rusya, abd ve avrupa silah desteği sağlıyor ve siyasi destek veriyor. <br/><br/>türklerden ne istiyorsunuz. biliyorum canımızı istiyorsunuz. verecez zamanı vakti gelince demek isterdim ama ne yazık ki hergün hergün geldeğini hatta geçdiğini görüyoruz. <br/><br/>ısrarla soruyorum evet inanır mısınız ülke neyi tartışıyor. trabzonsporu, fenerbahçe ülkeri , adını sanını bilmediğim siktiri boktan bölgesel takımlarını. hatta ve hatta unutmadan söyleyeyim göz göre göre suni olduğu belli olan gündemi yani laikliği. ülkenin yarısı, masa başında 15-20 insanın hazırladığı suni bir gündemi tartışıyor. evet sizi ahmaklar, 15-20 kişi karar veriyor sizin ne düşüneceğinize.<br/><br/>kendinizi devrimci görüyorsunuz ya. aslında sizler sadece onlar ne isterse, onların devrimi için hevesleniyorsunuz. sizin istediklerinize bahsettiğim 2 tane büyük ana haber akımı karar veriyor. sizler kölesiniz. farkında değil misiniz? ikisi birlikte karar veriyor bu hafta neyi düşüneceğinize. kamera arkasında ki işleri birlikte kapatıyorlar. bilerek veya bilmeyerek.<br/><br/>neyse uzatmayacam. bugün katliamlara maruz kalan türkmen kardeşlerimize devletimizin yardımcı olması gerekir. ama olmuyor, o zaman bizlerin gitmesi gerek. ama sizler şuradaki belli kesim insanların önünüze sürdüğü düşüncelere sahipsiniz. aksini savununca faşist olursunuz, kemalist olursunuz, cahil derler. sakın yapmayın ha. çünkü bizler bize düşman insanlarının ne düşüneceğini önemsemeliyiz.<br/><br/>uzadıkça uzuyor bugün çok sinirliyim. içinde iyiliği, güzelliği taşıyan her insana bugün eziyet olsun. bunları düşünüp dertlensin. çünkü öldürülmekten başka bi işe yaramayan insanlar şaşırtıcı bir şekilde tekrar öldürülüyor. <br/><br/>edit: kaynak <a rel="nofollow" class="url" target="_blank" href="http://www.hurriyet.com.tr/yavuzaslan-tuzhurmatuda-pkklilar-turkmenlere-saldiriyor-40095460" title="http://www.hurriyet.com.tr/yavuzaslan-tuzhurmatuda-pkklilar-turkmenlere-saldiriyor-40095460">http://www.hurriyet.com.tr/…ere-saldiriyor-40095460</a><br/><br/>edit 2 : etkin haber akışı için<br/><a rel="nofollow" class="url" target="_blank" href="https://facebook.com/IrakTurkmenleriHaberAjansi/" title="https://facebook.com/IrakTurkmenleriHaberAjansi/">https://facebook.com/irakturkmenlerihaberajansi/</a><br/><br/>edit 3 : eksileyen herkes umarim bu acıyı en yakınında yaşar. ne diyeyim
+    tuzhurmatu'da kürtler, türkmen ailelerin evlerini basmaya ve katliam yapmaya başladı.  <br/><br/>aslında bölgedeki türkmenlerin dediğine göre 3 gün önce başlamış. sağolsun bizim ana medya akışını sağlayan ümmetçi havuz medyamız ve barışsever medyamız bunları ortaya çıkarmıyor. ya facebook'ta ya da adı sanı duyulmamış haber sitelerinden öğrenebiliyoruz. <br/><br/>yada ekşisözlük demek isterdim ne yazık ki artık en hassas insanlar diye düşündüğüm yazarlarımızın hassasiyeti beni korkutuyor. hümanistiz diye geçinen, barış istediklerini söyleyen ekşisözlük yazarları sessiz. sadece hdplilere değil bütün sözlük yazarlarına bu eleştirim.<br/><br/>evet türkmenlerin canları değil hakları çalınıyor, bir süreliğine değil sonsuza kadar çalınmak üzere. zaten türkmenlerin tek amaçı artık canları değil hakları, çocuklarının hakları, eşlerinin hakları , annelerinin hakları. kendi canlarından, haklarından çoktan vazgeçtiler. <br/><br/>inanır mısınız bu ilk değil musul'da oldu kerkük'te oldu kuzey suriye'de oldu. ben sizin hiçbir zaman barış istediğinize ınanmamıştım. hala inananlar varsa artık gözden geçirsin lütfen.<br/><br/>türkmenlerden ne istiyorsunuz bu insanlar ne yaptı söyler misiniz. hayır kimse de yardım etmiyor bu insanlara. <br/><br/>evet tekrar soruyorum inanır mısınız türkiye peşmergeleri eğitiyor. evet eğitiyor. rusya, abd ve avrupa silah desteği sağlıyor ve siyasi destek veriyor. <br/><br/>türklerden ne istiyorsunuz. biliyorum canımızı istiyorsunuz. verecez zamanı vakti gelince demek isterdim ama ne yazık ki hergün hergün geldeğini hatta geçdiğini görüyoruz. <br/><br/>ısrarla soruyorum evet inanır mısınız ülke neyi tartışıyor. trabzonsporu, fenerbahçe ülkeri , adını sanını bilmediğim siktiri boktan bölgesel takımlarını. hatta ve hatta unutmadan söyleyeyim göz göre göre suni olduğu belli olan gündemi yani laikliği. ülkenin yarısı, masa başında 15-20 insanın hazırladığı suni bir gündemi tartışıyor. evet sizi ahmaklar, 15-20 kişi karar veriyor sizin ne düşüneceğinize.<br/><br/>kendinizi devrimci görüyorsunuz ya. aslında sizler sadece onlar ne isterse, onların devrimi için hevesleniyorsunuz. sizin istediklerinize bahsettiğim 2 tane büyük ana haber akımı karar veriyor. sizler kölesiniz. farkında değil misiniz? ikisi birlikte karar veriyor bu hafta neyi düşüneceğinize. kamera arkasında ki işleri birlikte kapatıyorlar. bilerek veya bilmeyerek.<br/><br/>neyse uzatmayacam. bugün katliamlara maruz kalan türkmen kardeşlerimize devletimizin yardımcı olması gerekir. ama olmuyor, o zaman bizlerin gitmesi gerek. ama sizler şuradaki belli kesim insanların önünüze sürdüğü düşüncelere sahipsiniz. aksini savununca faşist olursunuz, kemalist olursunuz, cahil derler. sakın yapmayın ha. çünkü bizler bize düşman insanlarının ne düşüneceğini önemsemeliyiz.<br/><br/>uzadıkça uzuyor bugün çok sinirliyim. içinde iyiliği, güzelliği taşıyan her insana bugün eziyet olsun. bunları düşünüp dertlensin. çünkü öldürülmekten başka bi işe yaramayan insanlar şaşırtıcı bir şekilde tekrar öldürülüyor. <br/><br/>edit: kaynak <a rel="nofollow" class="url" target="_blank" href="http://www.hurriyet.com.tr/yavuzaslan-tuzhurmatuda-pkklilar-turkmenlere-saldiriyor-40095460" title="http://www.hurriyet.com.tr/yavuzaslan-tuzhurmatuda-pkklilar-turkmenlere-saldiriyor-40095460">http://www.hurriyet.com.tr/…ere-saldiriyor-40095460</a><br/><br/>edit 2 : etkin haber akışı için<br/><a rel="nofollow" class="url" target="_blank" href="https://facebook.com/IrakTurkmenleriHaberAjansi/" title="https://facebook.com/IrakTurkmenleriHaberAjansi/">https://facebook.com/irakturkmenlerihaberajansi/</a><br/><br/>edit 3 : eksileyen herkes umarim bu acıyı en yakınında yaşar. ne diyeyim<br/><br/>edit 4 : dunden beri haber sitelerinde ateskes sağlandığı yönünde haberler geliyor. ateşkes çözüm degil, kürtler birden bire ellerine gecen bu gucle her yerde burada işler bizden sorulur tavrını birakmasi lazım.
    
   entry_writer: korhaydut
 - entry_name: |
@@ -207,8 +207,8 @@ data:
   entry_id: 60174435
   entry_content: |
     
-    pedofil, hırsız, din tüccarlarına anladıkları dilden verilmiş yanıttır.
-    
+    pedofil, hırsız, din tüccarlarına anladıkları dilden verilmiş yanıttır..<br/><br/>debe edit: haydin gençler, minik devrim için kolları sıvamaya devam (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: kahvesodalimon
 - entry_name: |
     layikliği türkiye'ye vatikan getirdi
@@ -239,7 +239,7 @@ data:
   entry_id: 60180331
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dinlerin+yasaklanmas%c4%b1+gereklili%c4%9fi">dinlerin yasaklanması gerekliliği</a>)<br/><br/>olmayan şeylere inanan, uzmanlarca şizofren teşhisi konulabilecek insanların kendileri normal de biz diğerlerin anormal olduğunu iddia etmesidir bilakis.
+    (bkz:  <a class="b" href="/?q=dinlerin+yasaklanmas%c4%b1+gereklili%c4%9fi">dinlerin yasaklanması gerekliliği</a>)<br/><br/>olmayan şeylere inanan, uzmanlarca şizofren teşhisi konulabilecek insanların kendileri normal de biz diğerlerin anormal olduğunu iddia etmesidir bilakis.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: samuel joao
 - entry_name: |
@@ -303,7 +303,7 @@ data:
   entry_id: 60190883
   entry_content: |
     
-    minik öğrencisi zeynep uysal'a, muzaffer barışyurt ilkokulunda sabah düzenlenen 23 nisan ulusal egemenlik ve çocuk bayramı gösterileri sırasında unutamayacağı bir güzellik yaşatmış olan çağlar özdemir adındaki öğretmendir.  <a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/ogretmenlr/videos/1694111610851832/" title="http://www.facebook.com/ogretmenlr/videos/1694111610851832/">buyrun</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/caglar.ozdemir.315" title="http://www.facebook.com/caglar.ozdemir.315">ve değerli öğretmenimizin fb sayfası</a>
+    minik öğrencisi zeynep uysal'a, muzaffer barışyurt ilkokulunda sabah düzenlenen 23 nisan ulusal egemenlik ve çocuk bayramı gösterileri sırasında unutamayacağı bir güzellik yaşatmış olan çağlar özdemir adındaki öğretmendir.  <a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/ogretmenlr/videos/1694111610851832/" title="http://www.facebook.com/ogretmenlr/videos/1694111610851832/">buyrun</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/caglar.ozdemir.315" title="http://www.facebook.com/caglar.ozdemir.315">ve değerli öğretmenimizin fb sayfası</a><br/><br/>küçük bir hatırlatma 1: (bkz: <a class="b" href="/?q=l%c3%b6semi+hastas%c4%b1+berfin+i%c3%a7in+yard%c4%b1m+kampanyas%c4%b1">lösemi hastası berfin için yardım kampanyası</a>) bir tüp kan=1 can. teşekkürler.<br/>küçük bir hatırlatma 2: sevgili @beyrut'a gidelim mi nick'li yazarımızın bilgilendirdiği önemli bir konu hakkında gösterilecek duyarlılık için çok teşekkür ederim. sağlıcakla...(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
    
   entry_writer: minnoklokumcuk
 - entry_name: |
@@ -311,8 +311,8 @@ data:
   entry_id: 60188222
   entry_content: |
     
-    allah kimseyi atletico'ya karşı yenik duruma düşürmesin
-    
+    allah kimseyi atletico'ya karşı yenik duruma düşürmesinn<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: yeni uye kaydi
 - entry_name: |
     hulyalpyollarda.com
@@ -335,7 +335,7 @@ data:
   entry_id: 60182041
   entry_content: |
     
-    cahiliye dönemi çok enteresan bir dönem,,<br/><br/>mesela sadece kız çocukları kesilip helva yapılmakla kalmazdı.<br/>mesela cahiliye döneminde, mekke tüm arap yarımadasının büyük bir ticaret ve din merkezi idi<br/>mekke'li kureyş aşiretinin taptıkları 3 puttan birinin adı "al-ilah" idi<br/>arap kabileleri islamdan önce günde beş kez mekke'ye dönerek dua ederlerdi. evet günde beş kez.<br/>kureyş aşireti muharrem ayının 10uncu gününde oruç tutardı (islamiyetten önce dememe gerek yok herhalde). evet oruç.<br/>islam öncesi araplar mekke'ye (360 putla dolu olan kabe'ye) umreye gelirlerdi. evet umre.<br/>zaten medineliler de bu umre ziyareti sırasında muhammed ile tanışmışlardır mesela, pek kimse bilmez işin bu yüzünü.<br/>peygamberin babası olan (ve islam dininden çoook önce ölen) abdullah'ın kelime anlamı allah'ın kulu demektir...<br/><br/>cahiliye dönemi çok enteresan bir dönem, <br/>ama evet kız çocukları kesilip helva yapılıp yeniliyordu, <br/>öyle bilmek lazım.<br/>zira yalana herkes inanmalı.<br/>yoksa din nasıl yayılır ki??<br/>cahiliye dönemi işte...?
+    cahiliye dönemi çok enteresan bir dönem,,<br/><br/>mesela sadece kız çocukları kesilip helva yapılmakla kalmazdı.<br/>mesela cahiliye döneminde, mekke tüm arap yarımadasının büyük bir ticaret ve din merkezi idi<br/>mekke'li kureyş aşiretinin taptıkları 3 puttan birinin adı "al-ilah" idi<br/>arap kabileleri islamdan önce günde beş kez mekke'ye dönerek dua ederlerdi. evet günde beş kez.<br/>kureyş aşireti muharrem ayının 10uncu gününde oruç tutardı (islamiyetten önce dememe gerek yok herhalde). evet oruç.<br/>islam öncesi araplar mekke'ye (360 putla dolu olan kabe'ye) umreye gelirlerdi. evet umre.<br/>zaten medineliler de bu umre ziyareti sırasında muhammed ile tanışmışlardır mesela, pek kimse bilmez işin bu yüzünü.<br/>peygamberin babası olan (ve islam dininden çoook önce ölen) abdullah'ın kelime anlamı allah'ın kulu demektir...<br/><br/>cahiliye dönemi çok enteresan bir dönem, <br/>ama evet kız çocukları kesilip helva yapılıp yeniliyordu, <br/>öyle bilmek lazım.<br/>zira yalana herkes inanmalı.<br/>yoksa din nasıl yayılır ki??<br/>cahiliye dönemi işte...?<br/><br/>*<br/><br/>ertesi gün edit'i: çokça mesaj aldım, çoğunluğu kaynak soruyor. bazıları ise "bunlar zaten muhammed ile ortaya çıkmadı zaten saf mısın sen" minvalinde konuşup, "hatta bazı yahudi gurupları namaz da kılıyordu" diye ekliyor. kaynak internette azıcık araştırmaya bakar gençler. araştırın. araştırdıkça çok şeyler öğreneceksiniz. öğrendikçe bilgi sahibi olacaksınız, bilgi sahibi oldukça güçleneceksiniz. rahat yönetebilmek için "cahil toplum feraseti" isteniyor bu ülkede, siz öyle olmayın. araştırın. tek yapmanız gereken, "peygamber efendimiz doğumuyla dünyamızı nur gibi aydınlattı" diyen emperyalist din kitaplarını komple devre dışı bırakıp, kaynaklarla destekleyen yazılar-kitaplar araştırmak: "peygamber efendimiz hicret için evinden çıkarken onların üzerine ölü toprağı serpilmişti" diyen beyin yıkayıcı cümlerle dolu kitaplar değil, allah'ın en sevdiği kulu nasıl olur da kendi öz kuzenini o çocuk yaşında onlarca kureyşlinin saldırı için hazır beklediği evinin yatağına yatırır ve ordan kaçabilir diye sorulan soruları cevaplayabilen kaynaklar...<br/><br/>sadece "wikipedia muhammad" yazdığınızda 303 kaynak ile destekleyerek anlatıyor, binlerce farklı link veriyor size.<br/>ayrıca: encyclopedia of ıslam, kur’an ve buhari’nin hadisi, sayfa 303te "günde beş kez dönerek dua etme" anlatılır. (buhari cilt 5, kitap 58, bölüm 25, sayı 172, sayfa 109), mesela umre için: fiqh us-sunnah, cilt. 5, sayfa 122
    
   entry_writer: bob hite
 - entry_name: |
@@ -351,7 +351,7 @@ data:
   entry_id: 60180867
   entry_content: |
     
-    öncelikle şunu söylemeliyim ki ben kendi bakış açıma göre  <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1kl%c4%b1">yakışıklı</a> bir erkek değilim. benim yakışıklılık algım fiziksel anlamda herhangi bir kusuru olmayan ve <a class="b" href="/?q=simetrik">simetrik</a> yüz hatlarına sahip, dişinden kaşına, saçından dudağına kadar başkalarından ayrışacak kadar farklı ve <a class="b" href="/?q=%c3%a7ekici">çekici</a> olan kişi demektir. bu bakımdan baktığımda türkiyede aklıma gelen ilk isim <a class="b" href="/?q=burak+%c3%b6z%c3%a7ivit">burak özçivit</a>dir. kendisi benim algıma göre yakışıklıdır. <br/><br/>bu açıklamayı yaptıktan sonra tekrar başa dönerek kendimi yakışıklı bulmadığımı belirterek şunu söyleyebilirim ki bu halimle bile az çok talep gören bir insanım. yani pek çok kadına sevgilim olmadığını söylediğimde şaşırıyor. insanların büyük çoğunluğu ikili ilişkileri <a class="b" href="/?q=salt">salt</a> fiziksel özellikler üzerinden değerlendiriyor. güzel kadın, yakışıklı erkek nasıl sevgilisi olmaz şeklinde düşünüyorlar. kendi adıma buna şöyle bir cevap verebilirim; her insan salt fiziksel <a class="b" href="/?q=cazibe">cazibe</a>den etkilenip ilişkiye başlamaz. başlasa dahi o ilişki kendisini <a class="b" href="/?q=nitelik">nitelik</a> anlamında geliştirmedikçe kısa süreli olmaya mahkumdur. <br/><br/>ben karşımdaki insanın güzelliğinden etkilenebilirim ama o kişi <a class="b" href="/?q=karakter">karakter</a>i ve <a class="b" href="/?q=k%c3%bclt%c3%bcr">kültür</a>ü ile güzelliğinin altını dolduramamış ise sadece güzel olduğu için onunla birlikte olmak istemem. tam tersi durumda ise mesela çok güzel bulmadığım ama <a class="b" href="/?q=soyut">soyut</a> anlamda pek çok güzelliği içerisinde barındıran bir kadına kısa sürede bağlanabilirim. dolayısı ile fiziksel olarak talep görüyor olmak kişiyi her zaman bir ilişki yaşayabilecek kadar şanslı yapmıyor. tabi bunda yukarda bahsettiğim kriterler belirleyici oluyor. yoksa az çok talep gören kadın-erkek bir şekilde seçici davranmadıktan sonra pek boş kalmaz. ama burda bahsi geçen <a class="b" href="/?q=sevgili">sevgili</a> kavramının bu durumla çok ilişkili olduğunu da düşünmüyorum.
+    öncelikle şunu söylemeliyim ki ben kendi bakış açıma göre  <a class="b" href="/?q=yak%c4%b1%c5%9f%c4%b1kl%c4%b1">yakışıklı</a> bir erkek değilim. benim yakışıklılık algım fiziksel anlamda herhangi bir kusuru olmayan ve <a class="b" href="/?q=simetrik">simetrik</a> yüz hatlarına sahip, dişinden kaşına, saçından dudağına kadar başkalarından ayrışacak kadar farklı ve <a class="b" href="/?q=%c3%a7ekici">çekici</a> olan kişi demektir. bu bakımdan baktığımda türkiyede aklıma gelen ilk isim <a class="b" href="/?q=burak+%c3%b6z%c3%a7ivit">burak özçivit</a>dir. kendisi benim algıma göre yakışıklıdır. <br/><br/>bu açıklamayı yaptıktan sonra tekrar başa dönerek kendimi yakışıklı bulmadığımı belirterek şunu söyleyebilirim ki bu halimle bile az çok talep gören bir insanım. yani pek çok kadına sevgilim olmadığını söylediğimde şaşırıyor. insanların büyük çoğunluğu ikili ilişkileri <a class="b" href="/?q=salt">salt</a> fiziksel özellikler üzerinden değerlendiriyor. güzel kadın, yakışıklı erkek nasıl sevgilisi olmaz şeklinde düşünüyorlar. kendi adıma buna şöyle bir cevap verebilirim; her insan salt fiziksel <a class="b" href="/?q=cazibe">cazibe</a>den etkilenip ilişkiye başlamaz. başlasa dahi o ilişki kendisini <a class="b" href="/?q=nitelik">nitelik</a> anlamında geliştirmedikçe kısa süreli olmaya mahkumdur. <br/><br/>ben karşımdaki insanın güzelliğinden etkilenebilirim ama o kişi <a class="b" href="/?q=karakter">karakter</a>i ve <a class="b" href="/?q=k%c3%bclt%c3%bcr">kültür</a>ü ile güzelliğinin altını dolduramamış ise sadece güzel olduğu için onunla birlikte olmak istemem. tam tersi durumda ise mesela çok güzel bulmadığım ama <a class="b" href="/?q=soyut">soyut</a> anlamda pek çok güzelliği içerisinde barındıran bir kadına kısa sürede bağlanabilirim. dolayısı ile fiziksel olarak talep görüyor olmak kişiyi her zaman bir ilişki yaşayabilecek kadar şanslı yapmıyor. tabi bunda yukarda bahsettiğim kriterler belirleyici oluyor. yoksa az çok talep gören kadın-erkek bir şekilde seçici davranmadıktan sonra pek boş kalmaz. ama burda bahsi geçen <a class="b" href="/?q=sevgili">sevgili</a> kavramının bu durumla çok ilişkili olduğunu da düşünmüyorum.<br/><br/>debedit: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
    
   entry_writer: shipshack
 - entry_name: |
@@ -359,7 +359,7 @@ data:
   entry_id: 60174691
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>)<br/>adam geleceği görmüş aq<sup class="ab"><a title="(bkz: swh swh)" href="/?q=swh+swh" data-query="swh swh">*</a></sup>
+    (bkz:  <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>)<br/>adam geleceği görmüş aq<sup class="ab"><a title="(bkz: swh swh)" href="/?q=swh+swh" data-query="swh swh">*</a></sup><br/><br/>bir el atalım editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>isminle yaşa çocuk..
    
   entry_writer: debauchee
 - entry_name: |
@@ -383,7 +383,7 @@ data:
   entry_id: 60177403
   entry_content: |
     
-    "vay niye sessiz sessiz videoya almış!" diyenlere şunu söyleyeyim, en akıllıca şeyi yapmış. siz galiba ortalık yerde bağırıp  <a class="b" href="/?q=yard%c4%b1m">yardım</a> istediğinizde size yardım ediliyor zannediyorsunuz? ben tramvayda dipte otururken yanımda çantasını paravan yaparak <a class="b" href="/?q=mast%c3%bcrbasyon">mastürbasyon</a> yapan adama çığlık çığlığa bağırdığımda "huff ne bağırıp ses yapıyorsun yaa" diyen bakışlarla karşılaştığım günden beri biliyorum bunu. ben yaka paça adamı tramvaydan indirmeye çalışırken kimse sesini çıkarmadı, çünkü korktular ve muhtemelen bana da inanmadılar. sorarsanız birçok kadın size aynı şeyleri anlatır, hiç kimse zannettiğiniz gibi değil. <br/><br/>ha bir de, burada "ben olsam şöyle döverdim, böyle kadına yardım ederdim" diye anlatıyorsunuz ama ben gerçek hayatta sesimi çıkardığım onlarca olayda kimsenin yardım ettiğini hatırlamıyorum, ki bu mastürbasyon olayı artık benim için en uç noktaydı. ben bağırırken, "çantanla niye önünü kapatıyorsun, madem bir bok yiyorsun indir o çantanı da fermuarının açık olduğunu herkes görsün" dediğimde isteseler uzanıp çekebilirlerdi o çantayı ve dediğimin doğruluğunu görürlerdi, ama onun yerine herkesi kafasını çevirmeyi tercih etti. bense adamı tramvaydan indirebildiğime şükretmek zorunda kaldım.<br/><br/>işte bu olaydan sonra, şahsen başıma gelen benzer durumlarda <a class="b" href="/?q=telefon">telefon</a>la çat diye görüntü almayı ve iner inmez saati, tramvay-otobüs numarasını not etmeyi tercih eder oldum. (hiç olmazsa <a class="b" href="/?q=taciz+davas%c4%b1">taciz davası</a> açtığınızda kanıt oluyor.) burada "ay video çekmiş sessiz kalmış" diye saydıranları da bir sonraki zor durumdaki insana yardım etmeye davet ediyorum. lafa geince hepiniz çok sıkısınız da, icraatte hiçbirinizi göremiyoruz.<br/><br/>bu pisliğin de en azından yakalanmasına çok sevindim. gerçi yeterli cezayı alamayacak, onu da biliyorum. "taciz diil bu ya, teşhir sadece" diye buraya entry yazanların aynısı hakim, aynısı savcı olarak da var maalesef. yoksa bu buz gibi cinsel taciz, basbayağı şiddetin bir türü.
+    "vay niye sessiz sessiz videoya almış!" diyenlere şunu söyleyeyim, en akıllıca şeyi yapmış. siz galiba ortalık yerde bağırıp  <a class="b" href="/?q=yard%c4%b1m">yardım</a> istediğinizde size yardım ediliyor zannediyorsunuz? ben tramvayda dipte otururken yanımda çantasını paravan yaparak <a class="b" href="/?q=mast%c3%bcrbasyon">mastürbasyon</a> yapan adama çığlık çığlığa bağırdığımda "huff ne bağırıp ses yapıyorsun yaa" diyen bakışlarla karşılaştığım günden beri biliyorum bunu. ben yaka paça adamı tramvaydan indirmeye çalışırken kimse sesini çıkarmadı, çünkü korktular ve muhtemelen bana da inanmadılar. sorarsanız birçok kadın size aynı şeyleri anlatır, hiç kimse zannettiğiniz gibi değil. <br/><br/>ha bir de, burada "ben olsam şöyle döverdim, böyle kadına yardım ederdim" diye anlatıyorsunuz ama ben gerçek hayatta sesimi çıkardığım onlarca olayda kimsenin yardım ettiğini hatırlamıyorum, ki bu mastürbasyon olayı artık benim için en uç noktaydı. ben bağırırken, "çantanla niye önünü kapatıyorsun, madem bir bok yiyorsun indir o çantanı da fermuarının açık olduğunu herkes görsün" dediğimde isteseler uzanıp çekebilirlerdi o çantayı ve dediğimin doğruluğunu görürlerdi, ama onun yerine herkes kafasını çevirmeyi tercih etti. bense adamı tramvaydan indirebildiğime şükretmek zorunda kaldım. (burda kadınlara akıl veren erkekler bunları da duysun. kadınlar, bilin ki bu konularda kimseden yardım gelmeyecek muhtemelen. o yüzden önce kendi güvenliğinizden emin olun ve ses çıkarmaya korkarsanız sakın kendinizi suçlu hissetmeyin. size kendinizi suçlu hissettirmeye çalışan insanların kendileri de düpedüz yardım etmeye tırsıyorlar.)<br/><br/>işte bu olaydan sonra, şahsen başıma gelen benzer durumlarda <a class="b" href="/?q=telefon">telefon</a>la çat diye görüntü almayı ve iner inmez saati, tramvay-otobüs numarasını not etmeyi tercih eder oldum. (hiç olmazsa <a class="b" href="/?q=taciz+davas%c4%b1">taciz davası</a> açtığınızda kanıt oluyor.) burada "ay video çekmiş sessiz kalmış" diye saydıranları da bir sonraki zor durumdaki insana yardım etmeye davet ediyorum. lafa gelince hepiniz çok sıkısınız da, icraatte hiçbirinizi göremiyoruz.<br/><br/>bu pisliğin de en azından yakalanmasına çok sevindim. gerçi yeterli cezayı alamayacak, onu da biliyorum. "taciz diil bu ya, teşhir sadece" diye buraya entry yazanların aynısı hakim, aynısı savcı olarak da var maalesef. yoksa bu buz gibi cinsel taciz, basbayağı şiddetin bir türü.<br/><br/>not: "yok genelde <a class="b" href="/?q=tacize+ugrayan">tacize ugrayan</a> <a class="b" href="/?q=ka%c5%9far%c4%b1n+teki">kaşarın teki</a>yse kimse müdahale etmeye değer görmez. yoksa kimse oturup kayıtsız kalmaz." diye mesaj atan <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bcler">sözlükçüler</a> var. ne tatlı dünya değil mi? (bkz: <a class="b" href="/?q=charon+walken">charon walken</a>)
    
   entry_writer: polly jean
 - entry_name: |
