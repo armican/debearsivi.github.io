@@ -7,15 +7,15 @@ data:
   entry_id: 60196318
   entry_content: |
     
-    o zaman batman valisini çağıralım. superman yoksa batman var.
-    
+    o zaman batman valisini çağıralım. superman yoksa batman var..<br/><br/>edit: konu alakasız olabilir ama arkadaşın yardıma ihtiyacı var.<br/><br/>bir öğrenci arkadaşımızın tezi için bir anket çalışması var sosyal medya üzerine; ankete katılıp çalışmasına yardımcı olalım millet. 5 dakikanızı ayırıp bir el atın, arkadaşa yardımcı olun lütfen. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://docs.google.com/forms/d/1CBntNUVZngIJc4wTr61Vu3pso1ympsPmjZmZXOUHpzQ/viewform" title="https://docs.google.com/forms/d/1CBntNUVZngIJc4wTr61Vu3pso1ympsPmjZmZXOUHpzQ/viewform">https://docs.google.com/…ympspmjzmzxouhpzq/viewform</a><br/><br/>edit2: 1.5 yaşındaki devrim yılmaz'a yardım kampanyasını da es geçmeyelim. <br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: habemus kakam
 - entry_name: |
     misvak dergisinin laiklik karikatürü
   entry_id: 60204565
   entry_content: |
     
-    doğru mu? değill<br/>komik mi? değil<br/>acınası mı? evet
+    doğru mu? değill<br/>komik mi? değil<br/>acınası mı? evet<br/><br/>debe editi: lütfen göz ardı etmeyelim. (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>ayrıca (bkz: <a class="b" href="/?q=ankara+y%c4%b1ld%c4%b1zdaki+apartman+y%c3%b6neticisi+rezaleti">ankara yıldızdaki apartman yöneticisi rezaleti</a>)
    
   entry_writer: samuel joao
 - entry_name: |
@@ -39,8 +39,8 @@ data:
   entry_id: 60196485
   entry_content: |
     
-    ona kalmayacak, hepinizin götünden kanı biz gençler olarak alacağız, ben takrarlayayım götünüz yiyorsa buyrun deneyin aha hendek aha deve diye cevaplanası soru cümlesi.
-    
+    ona kalmayacak, hepinizin götünden kanı biz gençler olarak alacağız, ben takrarlayayım götünüz yiyorsa buyrun deneyin aha hendek aha deve diye cevaplanası soru cümlesi..<br/><br/>paraları yalnız yemek olmaz gençler az buraya da bakın editi<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: antik sehir
 - entry_name: |
     enver paşa 80 mustafa kemal ederdi
@@ -55,7 +55,7 @@ data:
   entry_id: 60199118
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=exactly">exactly</a>)
+    (bkz:  <a class="b" href="/?q=exactly">exactly</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: yalnizlik mavisi
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 60202703
   entry_content: |
     
-    bakandan ""<a class="b" href="/?q=siz+yedi%c4%9finiz+bombalara+bak%c4%b1n%2c+ba%c4%9f%c4%b1n%c4%b1+sormay%c4%b1n">siz yediğiniz bombalara bakın, bağını sormayın</a>" anlamında bir açıklama.
+    bakandan ""<a class="b" href="/?q=siz+yedi%c4%9finiz+bombalara+bak%c4%b1n%2c+ba%c4%9f%c4%b1n%c4%b1+sormay%c4%b1n">siz yediğiniz bombalara bakın, bağını sormayın</a>" anlamında bir açıklama.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: theli
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 60195036
   entry_content: |
     
-    dalga geçilmeyecek beyan.  <br/><br/>devlet bahçeli kasım'da tepki gösterip akp'ye oy veren mhp'liler varken barajı geçtiyse meral akşener her türlü chp'yi yakalar, akp'yi de aşağıya çeker. <br/><br/>mhp'nin potansiyel farkını yerel seçimlerde göreceğiz zaten.
+    dalga geçilmeyecek beyan.  <br/><br/>devlet bahçeli kasım'da tepki gösterip akp'ye oy veren mhp'liler varken barajı geçtiyse meral akşener her türlü chp'yi yakalar, akp'yi de aşağıya çeker. <br/><br/>mhp'nin potansiyel farkını yerel seçimlerde göreceğiz zaten.<br/><br/>debe: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>.. unutmayın; iyilik eden iyilik görür..
    
   entry_writer: turiq
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 60202606
   entry_content: |
     
-    ben siyasi partilerin belediye seçimlerinde işi olmaması gerektiğini düşünüyorum.  <br/><br/>belediyecilik, siyasi partilerin rant alanı olmaktan çıkarılmalıdır.
+    ben siyasi partilerin belediye seçimlerinde işi olmaması gerektiğini düşünüyorum.  <br/><br/>belediyecilik, siyasi partilerin rant alanı olmaktan çıkarılmalıdır.<br/><br/>debe editi: kırk yılın başı debe olmuşuz, bari bir yaraya merhem olsun. (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: jedilost
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 60207582
   entry_content: |
     
-    "hiroşima olmadı da diyelim ki  <a class="b" href="/?q=nagasaki">nagasaki</a> oldu <a class="b" href="/?q=o+da+olumlu">o da olumlu</a>.*<br/><br/>- yazık.
+    "hiroşima olmadı da diyelim ki  <a class="b" href="/?q=nagasaki">nagasaki</a> oldu <a class="b" href="/?q=o+da+olumlu">o da olumlu</a>.*<br/><br/>- yazık.<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: syn
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 60197468
   entry_content: |
     
-    google earth'ün geçmişe yönelik uydu fotoğraflarını içeren bir özelliği varmış. ben de geçen debe'ye giren, antalya'daki yapılaşmaya yönelik bir entry vasıtasıyla keşfettim. aklım çıktı. iki gündür google earth'deyim..<br/><br/>türkiye'de maksimum 2001'e kadar dönmek mümkün.<br/><br/>ama bazı büyük dünya şehirlerinde nasa'nın uydu fotoğrafları sayesinde 1950'lere kadar gidilebiliyor. aklım çıktı, her yere bakıyorum. neresi nasıl değişmiş, kafayı yedirtiyor.<br/><br/>mesela las vegas:<br/><br/>1950: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JAvNyE.png" title="http://i.hizliresim.com/JAvNyE.png">http://i.hizliresim.com/javnye.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/D2am0y.png" title="http://i.hizliresim.com/D2am0y.png">http://i.hizliresim.com/d2am0y.png</a><br/><br/>50 senede nasıl bir şehir kurdunuz arkadaş? gerçi boş araziye şehir kurmak kolay. sim city'den biliyorum. var olanı korumak zor.<br/><br/>bakın mesela bu da dubai. 2000'e kadar geri dönülebiliyor. onda da şehrin ortasının kaydı var ama geri kalan yerler silüetten belli oluyor. bir çölken, neye dönüşmüş ya 15 senede, götüm götüm adalar dikmişler.<br/><br/>2000: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/VabNjq.png" title="http://i.hizliresim.com/VabNjq.png">http://i.hizliresim.com/vabnjq.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/ljVpAl.png" title="http://i.hizliresim.com/ljVpAl.png">http://i.hizliresim.com/ljvpal.png</a><br/><br/>hadi istanbul'a da bakalım.<br/><br/>kuzey istanbul, üçüncü köprü inşaatı başlamadan evvel, 2010: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/z5bL9D.png" title="http://i.hizliresim.com/z5bL9D.png">http://i.hizliresim.com/z5bl9d.png</a><br/><br/>üçüncü köprü inşaatından sonra 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/OAPNm5.png" title="http://i.hizliresim.com/OAPNm5.png">http://i.hizliresim.com/oapnm5.png</a><br/><br/>yazık günah lan. orada yeşil kalmayacak.<br/><br/>burası vaditepe diye bir yer. kiptaş'ın konutları var burada şimdi. bahçeşehir'in tam karşısı diye biliyorum, aradan bir vadi geçiyor.<br/><br/>vaditepe 2004: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/OAPNgQ.png" title="http://i.hizliresim.com/OAPNgQ.png">http://i.hizliresim.com/oapngq.png</a><br/>vaditepe 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JAvN1o.png" title="http://i.hizliresim.com/JAvN1o.png">http://i.hizliresim.com/javn1o.png</a><br/><br/>bakın şimdi mesela acıklı bir durumu göstereceğim:<br/><br/>istanbul'un tarihi yarımadası'nı 2001, 2005 ve 2016 olarak görelim. 2001'de bir kısmı gözükmüyor ama geri kalanlarda tamamı gözüküyor. peyzaja, yeşil alana, yapılara, sahildeki değişikliklere bakın. ufak tefek, büyük küçük değişiklikler mutlaka gözünüze çarpacaktır. arkadaş tarihi olan bir bölge bu kadar değiştirilir mi ya? hele bir şu yenikapı'ya bakın aşağıya. ulan coğrafi yapı değiştirilmiş ya, böyle bir şey olabilir mi?<br/><br/>2001: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/A7pPZv.png" title="http://i.hizliresim.com/A7pPZv.png">http://i.hizliresim.com/a7ppzv.png</a><br/>2005: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/57Bzpz.png" title="http://i.hizliresim.com/57Bzpz.png">http://i.hizliresim.com/57bzpz.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d3RE4D.png" title="http://i.hizliresim.com/d3RE4D.png">http://i.hizliresim.com/d3re4d.png</a><br/><br/>bir de roma'ya bakalım. roma'yla ilgili bir yazı okumuştum. şehir üç bölgeye ayrılmış. en içte kalan 1. bölgede çivi çakamıyorsun. hiçbir yapı st. peter's bazilika'sının en üst noktasını geçemez. zaten yeni yapı yapamıyorsun, değişiklik yapamıyorsun. ikinci bölgede de yeni yapı yasak, restorasyon yapabiliyorsun.<br/><br/>roma'nın 1943'e ait uydu görüntüsü var. aradan 73 sene geçtiğinde, şehirdeki peyzajın bile nerdeyse aynı kaldığını görüyoruz. nasıl şehir bilinci varsa...<br/><br/>roma 1943: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/57Bz8d.png" title="http://i.hizliresim.com/57Bz8d.png">http://i.hizliresim.com/57bz8d.png</a><br/>roma 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d3REnn.png" title="http://i.hizliresim.com/d3REnn.png">http://i.hizliresim.com/d3renn.png</a><br/><br/>velhasıl şehirciliği bilmiyoruz gibi bir final yapmak isterdim de he-man'in orko'su gibi mesaj verip sonunu tatsızlaştırmaya hiç gerek yok. girin google earth'e zaman yolculuğu yapın, çok keyifli.<br/><br/>ekleme: bir ekleme daha yapmak istedim. baktıkça insan hayret ediyor. odayeri'nin 14 sene sonra dönüştüğü hal beni gerçekten üzdü. odayeri istanbul'un kuzeyinde üçüncü köprü bağlantı yolunun geçtiği yer. bakın nasıl bir değişim geçirmiş:<br/><br/>odayeri 2002: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/g8B0mL.png" title="http://i.hizliresim.com/g8B0mL.png">http://i.hizliresim.com/g8b0ml.png</a><br/>odayeri 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PkgWXv.png" title="http://i.hizliresim.com/PkgWXv.png">http://i.hizliresim.com/pkgwxv.png</a>
+    google earth'ün geçmişe yönelik uydu fotoğraflarını içeren bir özelliği varmış. ben de geçen debe'ye giren, antalya'daki yapılaşmaya yönelik bir entry vasıtasıyla keşfettim. aklım çıktı. iki gündür google earth'deyim..<br/><br/>türkiye'de maksimum 2001'e kadar dönmek mümkün.<br/><br/>ama bazı büyük dünya şehirlerinde nasa'nın uydu fotoğrafları sayesinde 1950'lere kadar gidilebiliyor. aklım çıktı, her yere bakıyorum. neresi nasıl değişmiş, kafayı yedirtiyor.<br/><br/>mesela las vegas:<br/><br/>1950: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JAvNyE.png" title="http://i.hizliresim.com/JAvNyE.png">http://i.hizliresim.com/javnye.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/D2am0y.png" title="http://i.hizliresim.com/D2am0y.png">http://i.hizliresim.com/d2am0y.png</a><br/><br/>50 senede nasıl bir şehir kurdunuz arkadaş? gerçi boş araziye şehir kurmak kolay. sim city'den biliyorum. var olanı korumak zor.<br/><br/>bakın mesela bu da dubai. 2000'e kadar geri dönülebiliyor. onda da şehrin ortasının kaydı var ama geri kalan yerler silüetten belli oluyor. bir çölken, neye dönüşmüş ya 15 senede, götüm götüm adalar dikmişler.<br/><br/>2000: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/VabNjq.png" title="http://i.hizliresim.com/VabNjq.png">http://i.hizliresim.com/vabnjq.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/ljVpAl.png" title="http://i.hizliresim.com/ljVpAl.png">http://i.hizliresim.com/ljvpal.png</a><br/><br/>hadi istanbul'a da bakalım.<br/><br/>kuzey istanbul, üçüncü köprü inşaatı başlamadan evvel, 2010: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/z5bL9D.png" title="http://i.hizliresim.com/z5bL9D.png">http://i.hizliresim.com/z5bl9d.png</a><br/><br/>üçüncü köprü inşaatından sonra 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/OAPNm5.png" title="http://i.hizliresim.com/OAPNm5.png">http://i.hizliresim.com/oapnm5.png</a><br/><br/>yazık günah lan. orada yeşil kalmayacak.<br/><br/>burası vaditepe diye bir yer. kiptaş'ın konutları var burada şimdi. bahçeşehir'in tam karşısı diye biliyorum, aradan bir vadi geçiyor.<br/><br/>vaditepe 2004: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/OAPNgQ.png" title="http://i.hizliresim.com/OAPNgQ.png">http://i.hizliresim.com/oapngq.png</a><br/>vaditepe 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/JAvN1o.png" title="http://i.hizliresim.com/JAvN1o.png">http://i.hizliresim.com/javn1o.png</a><br/><br/>bakın şimdi mesela acıklı bir durumu göstereceğim:<br/><br/>istanbul'un tarihi yarımadası'nı 2001, 2005 ve 2016 olarak görelim. 2001'de bir kısmı gözükmüyor ama geri kalanlarda tamamı gözüküyor. peyzaja, yeşil alana, yapılara, sahildeki değişikliklere bakın. ufak tefek, büyük küçük değişiklikler mutlaka gözünüze çarpacaktır. arkadaş tarihi olan bir bölge bu kadar değiştirilir mi ya? hele bir şu yenikapı'ya bakın aşağıya. ulan coğrafi yapı değiştirilmiş ya, böyle bir şey olabilir mi?<br/><br/>2001: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/A7pPZv.png" title="http://i.hizliresim.com/A7pPZv.png">http://i.hizliresim.com/a7ppzv.png</a><br/>2005: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/57Bzpz.png" title="http://i.hizliresim.com/57Bzpz.png">http://i.hizliresim.com/57bzpz.png</a><br/>2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d3RE4D.png" title="http://i.hizliresim.com/d3RE4D.png">http://i.hizliresim.com/d3re4d.png</a><br/><br/>bir de roma'ya bakalım. roma'yla ilgili bir yazı okumuştum. şehir üç bölgeye ayrılmış. en içte kalan 1. bölgede çivi çakamıyorsun. hiçbir yapı st. peter's bazilika'sının en üst noktasını geçemez. zaten yeni yapı yapamıyorsun, değişiklik yapamıyorsun. ikinci bölgede de yeni yapı yasak, restorasyon yapabiliyorsun.<br/><br/>roma'nın 1943'e ait uydu görüntüsü var. aradan 73 sene geçtiğinde, şehirdeki peyzajın bile nerdeyse aynı kaldığını görüyoruz. nasıl şehir bilinci varsa...<br/><br/>roma 1943: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/57Bz8d.png" title="http://i.hizliresim.com/57Bz8d.png">http://i.hizliresim.com/57bz8d.png</a><br/>roma 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/d3REnn.png" title="http://i.hizliresim.com/d3REnn.png">http://i.hizliresim.com/d3renn.png</a><br/><br/>velhasıl şehirciliği bilmiyoruz gibi bir final yapmak isterdim de he-man'in orko'su gibi mesaj verip sonunu tatsızlaştırmaya hiç gerek yok. girin google earth'e zaman yolculuğu yapın, çok keyifli.<br/><br/>ekleme: bir ekleme daha yapmak istedim. baktıkça insan hayret ediyor. odayeri'nin 14 sene sonra dönüştüğü hal beni gerçekten üzdü. odayeri istanbul'un kuzeyinde üçüncü köprü bağlantı yolunun geçtiği yer. bakın nasıl bir değişim geçirmiş:<br/><br/>odayeri 2002: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/g8B0mL.png" title="http://i.hizliresim.com/g8B0mL.png">http://i.hizliresim.com/g8b0ml.png</a><br/>odayeri 2016: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PkgWXv.png" title="http://i.hizliresim.com/PkgWXv.png">http://i.hizliresim.com/pkgwxv.png</a><br/><br/>ekleme 2: şöyle bir kampanya varmış: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: peder zickler
 - entry_name: |
@@ -119,8 +119,8 @@ data:
   entry_id: 60202906
   entry_content: |
     
-    ypg'ye operasyon yapar , işid'i sert bir dille uyarırlar sorun çözülür.
-    
+    ypg'ye operasyon yapar , işid'i sert bir dille uyarırlar sorun çözülür..<br/><br/>debe : <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
+   
   entry_writer: cok afedersiniz insan
 - entry_name: |
     atatürk'e tapmak
@@ -143,8 +143,8 @@ data:
   entry_id: 60205798
   entry_content: |
     
-    yapacağım bu yavşaklığı. kızımın adını sebahattin nil koyacağım.
-    
+    yapacağım bu yavşaklığı. kızımın adını sebahattin nil koyacağım..<br/><br/>debe editi: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
+   
   entry_writer: rock3r
 - entry_name: |
     izmir'de kahraman'ın maskotunu parçalayan teyzeler
@@ -175,7 +175,7 @@ data:
   entry_id: 60195426
   entry_content: |
     
-    kumkapı'da saat 17.00 sıralarında meydana gelen olay şöyle gelişti: semih bulut, çiftegelinler caddesi üzerinde bulunan banka şubesine pompalı tüfekle girerek içerideki güvenlik görevlisini etkisiz hale getirdi. görevlinin tabancasını alan soyguncu, vezneye yönelip, banko görevlisine uzattığı poşete paraları doldurmasını istedi..<br/><br/>kasadan yaklaşık 30 bin lira alan soyguncu ardından banka şubesinin bulunduğu binanın 3. katındaki balkona çıktı. silahlı soyguncu, zaman zaman havaya ateş açarak, elindeki deste deste paraları balkondan saçtı. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://im.haberturk.com/2016/04/27/1231529_dab90f5a1eca0ad4f37a603105fa4423_640x640.jpg" title="http://im.haberturk.com/2016/04/27/1231529_dab90f5a1eca0ad4f37a603105fa4423_640x640.jpg">paracıklar</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.haberturk.com/gundem/haber/1231529-kumkapida-soyguncu-catidan-paralari-sacti/2" title="http://www.haberturk.com/gundem/haber/1231529-kumkapida-soyguncu-catidan-paralari-sacti/2">kaynak</a><br/><br/>en asil duyguların adamıdır.
+    kumkapı'da saat 17.00 sıralarında meydana gelen olay şöyle gelişti: semih bulut, çiftegelinler caddesi üzerinde bulunan banka şubesine pompalı tüfekle girerek içerideki güvenlik görevlisini etkisiz hale getirdi. görevlinin tabancasını alan soyguncu, vezneye yönelip, banko görevlisine uzattığı poşete paraları doldurmasını istedi..<br/><br/>kasadan yaklaşık 30 bin lira alan soyguncu ardından banka şubesinin bulunduğu binanın 3. katındaki balkona çıktı. silahlı soyguncu, zaman zaman havaya ateş açarak, elindeki deste deste paraları balkondan saçtı. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://im.haberturk.com/2016/04/27/1231529_dab90f5a1eca0ad4f37a603105fa4423_640x640.jpg" title="http://im.haberturk.com/2016/04/27/1231529_dab90f5a1eca0ad4f37a603105fa4423_640x640.jpg">paracıklar</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.haberturk.com/gundem/haber/1231529-kumkapida-soyguncu-catidan-paralari-sacti/2" title="http://www.haberturk.com/gundem/haber/1231529-kumkapida-soyguncu-catidan-paralari-sacti/2">kaynak</a><br/><br/>en asil duyguların adamıdır.<br/><br/>----edit-----<br/>talep üzerine debe editi:<br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: day zero
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 60203901
   entry_content: |
     
-    artık o bir  <a class="b" href="/?q=e-erkek">e-erkek</a>'tir.
+    artık o bir  <a class="b" href="/?q=e-erkek">e-erkek</a>'tir.<br/><br/>debe editi : <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: jalal
 - entry_name: |
@@ -207,32 +207,32 @@ data:
   entry_id: 60211197
   entry_content: |
     
-    düzen döndüğünde, o sapın üstüne oturup tam tersini söyleyecek bir akıl hastası beyanatı.
-    
+    düzen döndüğünde tam tersini söyleyecek, bir ne yaptığını bilmez beyanatı..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>edit2: hukuka aykırı kısımlar varmış, ekşi destek ten mesaj ile uyarıldım. o yüzden biraz değiştirmek gereği duydum. orjinal halini isteyen yeşillendirsin. tek tek yollarım üsenmeden.
+   
   entry_writer: sabah ereksiyonu olmus at pipisi
 - entry_name: |
-    köprüden geçişi pahalı bulan körfez'i dolaşır
+    köprüyü pahalı bulan geçmesin körfezi dolaşsın
   entry_id: 60206350
   entry_content: |
     
-    tam bir halk düşmanı söylemi. devlet, bütün vatandaşlarına hizmeti eşit olarak dağıtmakla yükümlüdür. devlet, parası olana hizmet götüren ticari bir kurum değildir.
-    
+    tam bir halk düşmanı söylemi. devlet, bütün vatandaşlarına hizmeti eşit olarak dağıtmakla yükümlüdür. devlet, parası olana hizmet götüren ticari bir kurum değildir..<br/><br/>debe: yardım kampanyası varmış <a class="b" href="/entry/60102536">#60102536</a>
+   
   entry_writer: supercisim
 - entry_name: |
     yazı tura atmanın adil olduğu yalanı
   entry_id: 60211366
   entry_content: |
     
-    yazı tura atmak mağduriyet değil mağlubiyet doğurur. adil oyunlarda kazanır veya kaybedersin. mağlup oldum diye mağdur olacağını düşünüyorsan hiç oyun oynamayacaksın.
-    
+    yazı tura atmak mağduriyet değil mağlubiyet doğurur. adil oyunlarda kazanır veya kaybedersin. mağlup oldum diye mağdur olacağını düşünüyorsan hiç oyun oynamayacaksın..<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: nickin ne yabanci
 - entry_name: |
     kısa paçalı dar pantolon giyen erkeğin asıl amacı
   entry_id: 60199298
   entry_content: |
     
-    valla amacını falan bilmiyorum da o pantolonları giymek için sanırım taşakları falan aldırmak gerekiyor. hacı nasıl sığıyorsunuz onlara?
-    
+    valla amacını falan bilmiyorum da o pantolonları giymek için sanırım taşakları falan aldırmak gerekiyor. hacı nasıl sığıyorsunuz onlara??<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: fransiz tohumu
 - entry_name: |
     her müslüman mezhep imamı olarak doğar
@@ -263,7 +263,7 @@ data:
   entry_id: 60196850
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bckte+format%c4%b1+siken+dengeyoksunu">ekşi sözlükte formatı siken dengeyoksunu</a>)
+    (bkz:  <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bckte+format%c4%b1+siken+dengeyoksunu">ekşi sözlükte formatı siken dengeyoksunu</a>)<br/><br/>debe editi 1 : (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>debe editi 2 :türkiye'de faaliyet gösteren 1000 den fazla sosyal yardımlaşma ve dayanışma vakfı, ve bu vakıflarda da 10 bin personel (yaklaşık 4000 çalışan türk-iş e bağlı türk koop-iş sendikasına üyedir) istihdam edilmektedir. vakıf personeli işe alınırken, devlet memurlarında aranan genel şartlar yanında, görevin niteliğine göre; 4 yıllık yüksek öğrenim, kamu personeli seçme sınavı puanı, yabancı dil ve bilgisayar bilgisi gibi şartlara tabi tutuluyor. <br/>sosyal yardımlaşma ve dayanışma vakıflarında asli görevler için vakıf müdürü, sosyal yardım ve inceleme görevlisi, muhasebeci, büro görevlisi, yardımcı hizmetli unvanları ile çalışanlar bulunuyor. vakıf personeli belirsiz süreli iş sözleşmesiyle çalıştırılıyor. vakıf çalışanları imzaladıkları sözleşme neticesinde de 4857 sayılı iş kanununa tabi olarak çalışıyor. sosyal güvenlik açısından da ssk’lı olarak işçi statüsündeler. <br/>sosyal yardımlaşma ve dayanışma vakıfları kamuoyunda fak-fuk fonu (fakir fukara fonu) adıyla bilinen sosyal yardımlaşma ve dayanışmayı teşvik fonunda toplanan kaynağı, ihtiyaç sahibi vatandaşlara nakdi ve ayni olarak dağıtmak üzere çalışıyor. vakıflar; illerde vali, ilçelerde kaymakamların başkanlığında faaliyet gösteriyor. <br/>sosyal yardımlaşma ve dayanışma vakıfları; 3294 sayılı sosyal yardımlaşma ve dayanışmayı teşvik kanunu hükümlerine istinaden kanunun amacına uygun faaliyet ve çalışmalar yapmak ve ihtiyaç sahibi vatandaşlara nakdî ve aynî yardımda bulunmak üzere her il ve ilçede 1986/11 sayılı başbakanlık genelgesi ekinde yer verilen resmi senet ile türk medeni kanunu hükümlerine göre kurulmuşlardır. 5737 sayılı vakıflar kanunu’nun 3 üncü maddesinde türk medeni kanunu’na göre kurulan vakıflar “yeni vakıf” olarak adlandırılmıştır. mezkûr kanun’un 4 üncü maddesinde vakıfların özel hukuk tüzel kişiliğine sahip oldukları açıkça hükme bağlanmış olup yetkili karar organı mütevelli heyetidir.<br/>bu açıdan bakıldığı kaynağını devletten almayan, bizim gibi devlet işi yapmayan vakıflardan bir farkımız kalmıyor, yaptığımız işin kamu işi olmasına rağmen kamu kurumu sayılmıyoruz; halbuki sosyal yardımlaşma ve dayanışma vakıfları her kademedeki çalışanıyla ihtiyaç sahiplerine asli görevleri kapsamında; gıda, kömür, barınma(ev yapım-ev onarım) ve parasal yardımlar sağlıyor. vakıflar bu gibi asli görevleri yanında, mevzuat değiştikçe devletin yüklendiği sosyal sorumluluklarla ilgili faaliyetleri de yürütüyor. 3294 ve 2022 sayılı yasa kapsamında gerçekleşen faaliyetler şöyle sıralanıyor:<br/>- 65 yaş aylığı, engelli aylığı, engelli yakını aylığı, evde bakım aylığı bağlanması işlemleri, öksüz, yetim ve asker çocuğu yardım programı, muhtaç asker ailelerine yönelik düzenli nakit yardım programı, eşi vefat etmiş kadınlara yönelik düzenli nakit yardım programı, işe başlama işe yönlendirme yardımı, genel sağlık sigortası uygulamasında gelir tespiti işlemleri, eğitim, yaş ve sağlık durumuna göre yapılan şartlı sağlık ve eğitim yardımları. vakıfların ayrıca, terörle mücadele ve doğal afet gibi özellikli durumlarda da yardım yapma görevi bulunuyor. <br/>bu açıdan bakıldığı zaman yaptığımız işlere bakarsak kamu kurumu olduğumuz aşikardır; fakat kamu kurumu sayılmamakta olup bize yön veren yapacağımız işlerin nasıl olmasını gösteren, yaptığımız işlerde logosu olan aile ve sosyal politikalar bakanlığı bizleri kendi çalışanı saymamakta; bizim kamu kurumu olduğumuzu görmezlikten gelmektedir. <br/>sorunun kaynağı da biz çalışanlar için budur aslında. biz çalışanlar sosyal yardımlaşma ve dayanışma vakıflarına yukarıda belirtmiş olduğumuz kamu işlerini yaptığımızdan dolayı kurum olarak kamu tüzel kişiliği statüsünün getirilmesini istiyoruz. bunun için bizimle ilgili kanun değişikliğinin olması gerektiğini biliyoruz ve sizden isteğimiz taşeron işçilere bile kadro verilecek bu süreçte, asıl kamu işini yapan kurumumuzun kamu tüzel kişiliği sayılması ve biz çalışanlara da kadro verilmesidir.
    
   entry_writer: beninsanimcunkucastielmelek
 - entry_name: |
@@ -271,7 +271,7 @@ data:
   entry_id: 60193823
   entry_content: |
     
-    (bkz: kilis valisi: füzenin yolu))<br/>(bkz: <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikeyim+ben+gidiyorum">açacağın başlığı sikeyim ben gidiyorum</a>)
+    (bkz: kilis valisi: füzenin yolu))<br/>(bkz: <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikeyim+ben+gidiyorum">açacağın başlığı sikeyim ben gidiyorum</a>)<br/><br/><a class="b" href="/?q=kilis+valisi+f%c3%bcze+tabiki+d%c3%bc%c5%9fecek">kilis valisi füze tabiki düşecek</a> başlığına girdiğim bir entry'ydi bu tabi.
    
   entry_writer: johnmalkow
 - entry_name: |
@@ -319,7 +319,7 @@ data:
   entry_id: 60201992
   entry_content: |
     
-    abartılmaması gereken kızdır..<br/><br/>ulan benim battlefield oynayıp 64 kişilik 3000 ticketli sunucuda 90-100 killden aşağı düşmeyen tanıdığım kız var, benim için evlenmesi sakıncalı olan kızdır bu kız.<br/><br/>oyun manyağı olan kızla evlenilir mi lan kafayı mı yediniz? hadi 2 gün oyun oynadınız, 3 gün oyun oynadınız eee sonra?<br/><br/>işten eve geleceksin diyalog şöyle:<br/><br/>+ ben geldim yemek hazır mı canım.<br/>- şu round bitsin hallederiz.<br/><br/>+ canım uyuyalım mı artık?<br/>- bizim klan gelmiş aşkım ya sabahlarım ben sen yat.<br/>+ senin klanına da sana da.
+    abartılmaması gereken kızdır..<br/><br/>ulan benim battlefield oynayıp 64 kişilik 3000 ticketli sunucuda 90-100 killden aşağı düşmeyen tanıdığım kız var, benim için evlenmesi sakıncalı olan kızdır bu kız.<br/><br/>oyun manyağı olan kızla evlenilir mi lan kafayı mı yediniz? hadi 2 gün oyun oynadınız, 3 gün oyun oynadınız eee sonra?<br/><br/>işten eve geleceksin diyalog şöyle:<br/><br/>+ ben geldim yemek hazır mı canım.<br/>- şu round bitsin hallederiz.<br/><br/>+ canım uyuyalım mı artık?<br/>- bizim klan gelmiş aşkım ya sabahlarım ben sen yat.<br/>+ senin klanına da sana da.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: hugeegosorry
 - entry_name: |
@@ -327,7 +327,7 @@ data:
   entry_id: 60204506
   entry_content: |
     
-    niyeyse hiç şaşırmadığım olay..<br/>bildiğimiz, tanıdığımız pkk işte.<br/>ellerine fırsat geçse çok daha beterini türkiye'de yaparlar.
+    niyeyse hiç şaşırmadığım olay..<br/>bildiğimiz, tanıdığımız pkk işte.<br/>ellerine fırsat geçse çok daha beterini türkiye'de yaparlar.<br/><br/>edit: şöyle bir kampanya varmış, arkadaşlar belirtti. destek olalım biz de. <br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: mazot kokusu
 - entry_name: |
@@ -339,11 +339,11 @@ data:
    
   entry_writer: tanriya allah diyen cocuk
 - entry_name: |
-    köprüyü pahalı bulan geçmesin
+    köprüyü pahalı bulan geçmesin körfezi dolaşsın
   entry_id: 60195136
   entry_content: |
     
-    ben de diyanet'i çok pahalı buluyorum. mersedes'ler, korumalar falan. o zaman da  <a class="b" href="/?q=diyanet%27in+vergisini+s%c3%bcnni+m%c3%bcsl%c3%bcmanlar+%c3%b6desin">diyanet'in vergisini sünni müslümanlar ödesin</a>.<br/><br/>çünkü ben köprüden geçsem de geçmesem de devlet garantör. devlet dedi ki "şu kadar sayının altında geçiş olursa zararını ben karşılayacağım" .. yani geçsem de geçmesem de ben ödeyeceğim zaten. ve madem pahalıysa geçme kardeşim seviyesine indik. ben de ateistim ve camileri kullanmıyorum.<br/><br/>imamların bana karşı verdiği hiçbir hizmet yok. bir de üstüne yetmezmiş gibi diyanetin saçma sapan fetvalarını dinlemek zorunda kalıyorum. peki o zaman diyanetin vergisini de sünniler ödesin. <a class="b" href="/?q=imamlar%c4%b1n+maa%c5%9f%c4%b1n%c4%b1+s%c3%bcnniler+versin">imamların maaşını sünniler versin</a>.
+    ben de diyanet'i çok pahalı buluyorum. mersedes'ler, korumalar falan. o zaman da  <a class="b" href="/?q=diyanet%27in+vergisini+s%c3%bcnni+m%c3%bcsl%c3%bcmanlar+%c3%b6desin">diyanet'in vergisini sünni müslümanlar ödesin</a>.<br/><br/>çünkü ben köprüden geçsem de geçmesem de devlet garantör. devlet dedi ki "şu kadar sayının altında geçiş olursa zararını ben karşılayacağım" .. yani geçsem de geçmesem de ben ödeyeceğim zaten. ve madem pahalıysa geçme kardeşim seviyesine indik. ben de ateistim ve camileri kullanmıyorum.<br/><br/>imamların bana karşı verdiği hiçbir hizmet yok. bir de üstüne yetmezmiş gibi diyanetin saçma sapan fetvalarını dinlemek zorunda kalıyorum. peki o zaman diyanetin vergisini de sünniler ödesin. <a class="b" href="/?q=imamlar%c4%b1n+maa%c5%9f%c4%b1n%c4%b1+s%c3%bcnniler+versin">imamların maaşını sünniler versin</a>.<br/><br/>bak siz sosyal devlet olmadığınız için yapmanız gerekenleri de biz yapıyoruz sayın bakan : <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60102536" title="https://eksisozluk.com/entry/60102536">minik devrim'e yardım</a>
    
   entry_writer: fridanin parcalanmis omurgasi
 - entry_name: |
@@ -351,7 +351,7 @@ data:
   entry_id: 60202455
   entry_content: |
     
-    demirelci takımındandır. genelde yaşlıdır bu insanlar. sohbetleri hoştur. yaşlıları tabi bir müddet sonra bayar. yine de ülkücü ve akope takımına yeğdir.  <br/><br/>atatürkçüdürler. kürt sevmezler ama "katliam isteriz" diye gezmezler. severim çoğunu.
+    demirelci takımındandır. genelde yaşlıdır bu insanlar. sohbetleri hoştur. yaşlıları tabi bir müddet sonra bayar. yine de ülkücü ve akope takımına yeğdir.  <br/><br/>atatürkçüdürler. kürt sevmezler ama "katliam isteriz" diye gezmezler. severim çoğunu.<br/><br/>not: debe editi yapmam. yapanı da sevmem... ama konu bu sefer minik devrim... haydi gençler <br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
    
   entry_writer: linguine pomodoro
 - entry_name: |
@@ -383,7 +383,7 @@ data:
   entry_id: 60194863
   entry_content: |
     
-    kardesim, yillardir dogrusunu dile getiriyoruz, 'sen de', 'o da', 'oteki de' 'beriki de' anlamiyorsunuz. heralde 'sende' bir sey var. isi inada sokan sensin. dogru 'sekilde' kullan, bu 'is de' huzur 'icinde' cozulsun.
+    kardesim, yillardir dogrusunu dile getiriyoruz. 'sen de', 'o da', 'oteki de' 'beriki de' anlamiyorsunuz. herhalde 'sende' bir sey var. isi inada sokan sensin. dogru 'sekilde' kullan, bu 'is de' huzur 'icinde' cozulsun.
     
   entry_writer: ktrci
 - entry_name: |
@@ -399,7 +399,7 @@ data:
   entry_id: 60195049
   entry_content: |
     
-    yine kendini yakışıklı sanan yazarların atıp tuttuğu başlık. bu işler yakışıklılıkla,güzellikle olmuyo. bi silkelenin kendinize gelin.
-    
+    yine kendini yakışıklı sanan yazarların atıp tuttuğu başlık. bu işler yakışıklılıkla,güzellikle olmuyo. bi silkelenin kendinize gelin..<br/><br/>debe edit: silkelenen arkadaşlara teşekkür ederim. bu vesile ile <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60102536" title="https://eksisozluk.com/entry/60102536">şu</a> kardeşimize de yardım edelim.
+   
   entry_writer: kaldorein
 ---
