@@ -39,7 +39,7 @@ data:
   entry_id: 60223821
   entry_content: |
     
-    ulan şaka gibi bir olay. muhalif olduğum parti içinde bile kaybediyorum..<br/><br/>chp'liyim seçim kazanamaz. chp içinde seçim olur muharrem ince'yi desteklerim, kazanamaz. mhp'de kongre sesleri yükselir, meral akşener'i desteklerim önü kesilir. ak parti'de, illa biri başbakan olacaksa ahmet davutoğlu olsun derim, en azından okumuş bir insan, onun da ayağını kaydırmaya çalışırlar.<br/><br/>yemin ediyorum tam bir loser olduk çıktık.<br/><br/>edit: biraz daha düşündüm de oy verdiğim belediye başkan adayından tut, okul başkanı adayına kadar kimse seçilmemiş ya lan. vay arkadaş. hatta öyle ki; lise sonuncu sınıfta bizzat okul başkanlığına aday olduğumda ben de ikinci olmuştum. ne kısmetsiz adam çıktım lan.
+    ulan şaka gibi bir olay. muhalif olduğum parti içinde bile kaybediyorum..<br/><br/>chp'liyim seçim kazanamaz. chp içinde seçim olur muharrem ince'yi desteklerim, kazanamaz. mhp'de kongre sesleri yükselir, meral akşener'i desteklerim önü kesilir. ak parti'de, illa biri başbakan olacaksa ahmet davutoğlu olsun derim, en azından okumuş bir insan, onun da ayağını kaydırmaya çalışırlar.<br/><br/>yemin ediyorum tam bir loser olduk çıktık.<br/><br/>biraz daha düşündüm de oy verdiğim belediye başkan adayından tut, okul başkanı adayına kadar kimse seçilmemiş ya lan. vay arkadaş. hatta öyle ki; lise sonuncu sınıfta bizzat okul başkanlığına aday olduğumda ben de ikinci olmuştum. ne kısmetsiz adam çıktım lan.<br/><br/>edit: bazı arkadaşlar özel mesaj yoluyla sormuş... evet, beşiktaşlıyım :) bugün aynı anda hem 5.sıradan, hem 14.sıradan debeye girmişim. böyle bir şeyin mümkün olduğunu bile bilmiyordum. herkese teşekkürler.<br/><br/>şöyle de bir yardım kampanyası var (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: superyetenekliajan
 - entry_name: |
@@ -111,8 +111,8 @@ data:
   entry_id: 60226448
   entry_content: |
     
-    tarihimizi 1299'dan başlatmaya çalışan adam beyanatı.
-    
+    tarihimizi 1299'dan başlatmaya çalışan adam beyanatı..<br/><br/>edit: bugün hem 5.sıradan hem 14. sıradan debeye girmişim. böyle bir şeyin mümkün olduğunu bile bilmiyordum. çok teşekkürler.
+   
   entry_writer: superyetenekliajan
 - entry_name: |
     nerden çıktı bu selfie ya
@@ -127,8 +127,8 @@ data:
   entry_id: 60222238
   entry_content: |
     
-    bahçeli'nin tarih sayfalarına onuruyla değil de rte'nin yancısı olması ile yazılacağını tescilleyen karardır. yazıklar olsun.
-    
+    bahçeli'nin tarih sayfalarına onuruyla değil de rte'nin yancısı olması ile yazılacağını tescilleyen karardır. yazıklar olsun..<br/><br/>debe editi: devrim yılmaz'a yardım kampanyasına bir nebze yararımız olması umudu ile <br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: kingddd
 - entry_name: |
     güzel giyinmeyi başaramamak
@@ -139,7 +139,7 @@ data:
    
   entry_writer: benimle gel wendy
 - entry_name: |
-    kadınların cinsel organını açan sapığı linç etmesi
+    cinsel organını açan sapığı kadınların linç etmesi
   entry_id: 60225626
   entry_content: |
     
@@ -151,7 +151,7 @@ data:
   entry_id: 60221602
   entry_content: |
     
-    risk nedir sorusuna verilebilecek alternatif cevaplardan bir tanesidir ve  <a class="b" href="/?q=istifa+etmek">istifa etmek</a> ile tamamen ayrı kulvarlardadır.<br/>yaklaşık 1 ay önce artık son raddeye gelmemden ötürü, güneşli bir havada ayrıldım işimden. bir sabah geldim ve şu sözü düşündüm;<br/>"bulunduğun yer seni memnun etmiyorsa yerini değiştir. sonuçta bir ağaç değilsin."<br/><br/>hazırda olan ne yeni bir iş vardı, ne de sağlam bir birikim. her sabah mutsuz uyanmanın esiri olan bedenimi hak ettiği özgürlüğüne kavuşturdum. işten çıktıktan sonra gittim 1 porsiyon baklava yedim ve kocaman bir oh çektim. "dünya varmış " dedikleri bu olsa gerek üstadım, artık rahatlamıştım. ertesi günden itibaren başladığım iş arayışlarım sonucu işler sürekli ters gitti, gittiğim görüşmeler iyi geçmesine rağmen sonuçları iyi olmadı ama umutsuzluğa düşmedim, "güçlü ol ulan" dedim.<br/><br/>bu süre zarfında almam gereken eğitim ve sertifikaları aldım, home office tarzı bir çalışma programı yaparak araştırmam ve öğrenmem gereken konuları öğrendim ve daha kalifiye bir personel olarak hazırlık sürecini iyi geçirdim.<br/><br/>yeni iş bulmadan istifa edildiği takdirde içine düşülen korku alınan risk ile aynı derecede oluyor. bir işe sahip olmadan istifa ettiğim vakit, ödemem gereken ev kredim, faturalarım, taksitlerim ve hayat pahalılığının getirdiği ev ihtiyaçları da beni bekliyordu.<br/>ama korkmadım be üstadım, yazdım dilekçemi ve bir anda kendimi genel müdürün odasında buldum. uzattım yavaşça kağıdı, okudu ve hayırlısı olsun dedi. yeni iş bulup bulmadığımı sordu, hayır dedim, şaşırdı. iki basamaklı maaşı olan bir genel müdür açısından bakıldığında normal olarak saçma bir andı.<br/><br/>velhasıl kelam sizden değerli bir varlık yoktur sevgili dostlar, kendinizi ezdirmeyin ve kazandığınız para olurken kaybettiğiniz karakteriniz olmasın.<br/><br/>unutmayın !<br/>"başarısız insanlar gerilimi, başarılı insanlar geleceği yönetir." firmanızı bu anlayışa göre değerlendirin.<br/><br/>bu arada yaklaşık 1 ay sonra işimi buldum ve şu an bu mısraları size yeni işimden yazıyorum. yeni iş bulmadan istifa etmek özgüveninizi de yükselten bir eylemdir, artık kendime çok daha fazla güveniyorum.<br/>abi işinde mutsuzsan, yaz bir dilekçe bence.<br/><br/>edit: iki basamaklı maaş alan ben değilim, doğru okuyun şu yazıyı ulan. öyle bir maaşım olsa ne istifa ederim ne de buraya yazmaya tenezzül. ki o tip bir maaşım olsa zaten bu tip yazılar yazacak düşüncede bir insan da olamazdım, karakterim değişirdi. <br/><br/>edit 2 : iş görüşmesine gidecekler adına diğer yazdıklarım için; (bkz: <a class="b" href="/entry/59802497">#59802497</a>)
+    risk nedir sorusuna verilebilecek alternatif cevaplardan bir tanesidir ve  <a class="b" href="/?q=istifa+etmek">istifa etmek</a> ile tamamen ayrı kulvarlardadır.<br/>yaklaşık 1 ay önce artık son raddeye gelmemden ötürü, güneşli bir havada ayrıldım işimden. bir sabah geldim ve şu sözü düşündüm;<br/>"bulunduğun yer seni memnun etmiyorsa yerini değiştir. sonuçta bir ağaç değilsin."<br/><br/>hazırda olan ne yeni bir iş vardı, ne de sağlam bir birikim. her sabah mutsuz uyanmanın esiri olan bedenimi hak ettiği özgürlüğüne kavuşturdum. işten çıktıktan sonra gittim 1 porsiyon baklava yedim ve kocaman bir oh çektim. "dünya varmış " dedikleri bu olsa gerek üstadım, artık rahatlamıştım. ertesi günden itibaren başladığım iş arayışlarım sonucu işler sürekli ters gitti, gittiğim görüşmeler iyi geçmesine rağmen sonuçları iyi olmadı ama umutsuzluğa düşmedim, "güçlü ol ulan" dedim.<br/><br/>bu süre zarfında almam gereken eğitim ve sertifikaları aldım, home office tarzı bir çalışma programı yaparak araştırmam ve öğrenmem gereken konuları öğrendim ve daha kalifiye bir personel olarak hazırlık sürecini iyi geçirdim.<br/><br/>yeni iş bulmadan istifa edildiği takdirde içine düşülen korku alınan risk ile aynı derecede oluyor. bir işe sahip olmadan istifa ettiğim vakit, ödemem gereken ev kredim, faturalarım, taksitlerim ve hayat pahalılığının getirdiği ev ihtiyaçları da beni bekliyordu.<br/>ama korkmadım be üstadım, yazdım dilekçemi ve bir anda kendimi genel müdürün odasında buldum. uzattım yavaşça kağıdı, okudu ve hayırlısı olsun dedi. yeni iş bulup bulmadığımı sordu, hayır dedim, şaşırdı. iki basamaklı maaşı olan bir genel müdür açısından bakıldığında normal olarak saçma bir andı.<br/><br/>velhasıl kelam sizden değerli bir varlık yoktur sevgili dostlar, kendinizi ezdirmeyin ve kazandığınız para olurken kaybettiğiniz karakteriniz olmasın.<br/><br/>unutmayın !<br/>"başarısız insanlar gerilimi, başarılı insanlar geleceği yönetir." firmanızı bu anlayışa göre değerlendirin.<br/><br/>bu arada yaklaşık 1 ay sonra işimi buldum ve şu an bu satırları size yeni işimden yazıyorum. yeni iş bulmadan istifa etmek özgüveninizi de yükselten bir eylemdir, artık kendime çok daha fazla güveniyorum.<br/>abi işinde mutsuzsan, yaz bir dilekçe bence.<br/><br/>edit: iki basamaklı maaş alan ben değilim, doğru okuyun şu yazıyı ulan. öyle bir maaşım olsa ne istifa ederim ne de buraya yazmaya tenezzül. ki o tip bir maaşım olsa zaten bu tip yazılar yazacak düşüncede bir insan da olamazdım, karakterim değişirdi. <br/><br/>edit 2 : iş görüşmesine gidecekler adına diğer yazdıklarım için; (bkz: <a class="b" href="/entry/59802497">#59802497</a>)
    
   entry_writer: hakim oynayin dedi
 - entry_name: |
@@ -191,8 +191,8 @@ data:
   entry_id: 60226565
   entry_content: |
     
-    galatasaray'ın tek maçlık galibiyet serisinin sona erdiği karşılaşma.
-    
+    galatasaray'ın tek maçlık galibiyet serisinin sona erdiği karşılaşma..<br/><br/>debe edit: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: kalimelo 12
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
@@ -207,7 +207,7 @@ data:
   entry_id: 60216653
   entry_content: |
     
-    babamdır. öncelikle şaka yapar gibi "babana da gelirken bir parfüm alırsın artık." der. ciddi zannedersin şaka der. o zaman tamam almam dersin ciddileşir. e alim dersin "yok şaka yapıyorum yahu" der. kısaca insanı "mind fuck" yapar.  <br/><br/>hala dediği gerçek mi bilmiyorum.
+    babamdır. öncelikle şaka yapar gibi "babana da gelirken bir parfüm alırsın artık." der. ciddi zannedersin şaka der. o zaman tamam almam dersin ciddileşir. e alim dersin "yok şaka yapıyorum yahu" der. kısaca insanı "mind fuck" yapar.  <br/><br/>hala dediği gerçek mi bilmiyorum.<br/><br/>edit: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a> icin de tum guzel yurekli insanlari bekliyoruz
    
   entry_writer: engiribord
 - entry_name: |
@@ -215,7 +215,7 @@ data:
   entry_id: 60216273
   entry_content: |
     
-    buna bu derece anlam yükleyip üzerinden sosyal çıkarımlar yapmaya çalışanlara gülüyorum. neticede bir mobilya firmasıdır. bazı şeyler pahalı, bazı şeyler gerçekten ucuzdur. gider, ihtiyacın olan şeyi alır çıkarsın. bu kadar..<br/><br/>bunu bu kadar dert edinip, paragraflarca tespit kasmaya gerek yok yani. işte bunlar hep fight club :)
+    buna bu derece anlam yükleyip üzerinden sosyal çıkarımlar yapmaya çalışanlara gülüyorum. neticede bir mobilya firmasıdır. bazı şeyler pahalı, bazı şeyler gerçekten ucuzdur. gider, ihtiyacın olan şeyi alır çıkarsın. bu kadar..<br/><br/>bunu bu kadar dert edinip, paragraflarca tespit kasmaya gerek yok yani. işte bunlar hep fight club :)<br/><br/>debe editi: abiler, ablalar az çok demeyelim kucuk devrim'e yardim edelim. kucuk kardesimiz icin;<br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: demokrasibizeluksmune
 - entry_name: |
@@ -319,8 +319,8 @@ data:
   entry_id: 60220020
   entry_content: |
     
-    herkesin unuttuğu kral robert oğlu gendry'nin kings landing'e gidicem diye dragonstone'dan çıktıktan sonra muhtemelen kayıkla krallığı tavaf etmeye başladığı dizi. 7.sezonda hacı olarak döneceğini düşünüyorum
-    
+    herkesin unuttuğu kral robert oğlu gendry'nin kings landing'e gidicem diye dragonstone'dan çıktıktan sonra muhtemelen kayıkla krallığı tavaf etmeye başladığı dizi. 7.sezonda hacı olarak döneceğini düşünüyorumm<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: trondr
 - entry_name: |
     cristiano ronaldo
@@ -335,7 +335,7 @@ data:
   entry_id: 60213805
   entry_content: |
     
-    işin en ilginç tarafı; şapka devrimine karşı çıkarak fesi "dini" bir kıyafet olarak nitelendirerek sahip çıkanların, fesi osmanlı'da yaygınlaştıran ikinci mahmut'a da fesi sarığın yerine getirdiği için gavur padişah diyen siyasi gelenekten ve felsefi düşünceden geliyor olmalarıdır.  <br/><br/>kaldı ki ilgili kanunda şapka tipi tanımlanmamaktadır, tüm devlet memurlarına ve çalışanlarına "şapka" giyme mecburiyeti getirilirken otomatikman şapka dışında bir serpuş'un giyilmesi yasaklanmaktadır. sivil vatandaş için bir zorunluluk yoktur ancak sapka dışında bir serpuş takmak yasaktır. takmak istemeyen başı açık gezer, bugünkü gibi.<br/><br/>kanuna muhalefetin cezası idam değil, sanırım 1 yıla kadar hapis cezasıdır. istiklal mahkemesinde insanlar fes veya sarık giydiği için değil, ya kurtuluş savaşında yunan işgalini destekledikleri için ya da sonrasında tbmm'nin çıkardığı kanunlara ve hükümet uygulamalarına karşı silahlı isyan çıkardıkları için yargılanmışlardır.
+    işin en ilginç tarafı; şapka devrimine karşı çıkarak fesi "dini" bir kıyafet olarak nitelendirerek sahip çıkanların, fesi osmanlı'da yaygınlaştıran ikinci mahmut'a da fesi sarığın yerine getirdiği için gavur padişah diyen siyasi gelenekten ve felsefi düşünceden geliyor olmalarıdır.  <br/><br/>kaldı ki ilgili kanunda şapka tipi tanımlanmamaktadır, tüm devlet memurlarına ve çalışanlarına "şapka" giyme mecburiyeti getirilirken otomatikman şapka dışında bir serpuş'un giyilmesi yasaklanmaktadır. sivil vatandaş için bir zorunluluk yoktur ancak sapka dışında bir serpuş takmak yasaktır. takmak istemeyen başı açık gezer, bugünkü gibi.<br/><br/>kanuna muhalefetin cezası idam değil, sanırım 1 yıla kadar hapis cezasıdır. istiklal mahkemesinde insanlar fes veya sarık giydiği için değil, ya kurtuluş savaşında yunan işgalini destekledikleri için ya da sonrasında tbmm'nin çıkardığı kanunlara ve hükümet uygulamalarına karşı silahlı isyan çıkardıkları için yargılanmışlardır.<br/><br/>debe editi: yardım kampanyasına (bkz: <a class="b" href="/entry/60102536">#60102536</a>) bir göz atılırsa, debe daha anlam kazanmış ve pratik bir faydası olmuş olur. haberdar eden "beyruta gidelim mi''ye teşekkürler.
    
   entry_writer: you are no longer a prisoner of fate
 - entry_name: |
@@ -343,8 +343,6 @@ data:
   entry_id: 60223106
   entry_content: |
     
-    68 kuşağının haklı mücadelesinde, mağdur olan imam hatipli gencoları anlatan dizi. oğlum sizlik bir şey yoktu o dönem. hatta hiçbir dönem..<br/><br/>fenerbahçe-beşiktaş şampiyonluk mücadelesinde mağdur olan, hakkı yenen tavşanlı linyitspor gibi bir şey işte.
-   
   entry_writer: olsun lan bizi de seven olur
 - entry_name: |
     sevgilinin geçmişi
@@ -399,7 +397,7 @@ data:
   entry_id: 60218469
   entry_content: |
     
-    "merhem değilsenizz<br/>insanların yaralarından uzak durun "
+    "merhem değilsenizz<br/>insanların yaralarından uzak durun "<br/><br/>debe edit: minik bir can icin yardım kampanyasina karinca kararinca destek. (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: nisan mayis haziran
 ---
