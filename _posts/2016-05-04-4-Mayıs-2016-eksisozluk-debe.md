@@ -15,7 +15,7 @@ data:
   entry_id: 60295766
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=seviyeyi+y%c3%bckseltme+pi%c3%a7">seviyeyi yükseltme piç</a>)
+    (bkz:  <a class="b" href="/?q=seviyeyi+y%c3%bckseltme+pi%c3%a7">seviyeyi yükseltme piç</a>)<br/><br/>edit: <a class="b" href="/entry/60102536">#60102536</a>
    
   entry_writer: scarletletter
 - entry_name: |
@@ -23,7 +23,7 @@ data:
   entry_id: 60301951
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=roket+tak%c4%b1nt%c4%b1s%c4%b1+olanlar+aramas%c4%b1n">roket takıntısı olanlar aramasın</a>)
+    (bkz:  <a class="b" href="/?q=roket+tak%c4%b1nt%c4%b1s%c4%b1+olanlar+aramas%c4%b1n">roket takıntısı olanlar aramasın</a>)<br/><br/>edit: <a class="b" href="/entry/60102536">#60102536</a><br/><br/>edit 2: <a class="b" href="/entry/60240091">#60240091</a>
    
   entry_writer: rolandmicrocube
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 60301158
   entry_content: |
     
-    ahdhasdhsahsah..<br/><br/>ya olm adamlar her allahın günü şehirleri bombalıyor, kilis'in 30%'unu göçe zorlamış, tank vuruyor obüs patlatıyor, adam öldürüyor, burdaki klavye delikanlıları da gelmiş he yav he, götüne obüs girer bilmem ne diyor.<br/><br/>o obüs'ün namlusu girebilse zaten şimdiye girerdi genç. uçak bile kaldıramıyorsun geçin bu boş lafları. buradan atıp tutmakla olmuyor, icraat nerde onu söyle sen.<br/><br/>ciddiye alınması gereken açıklama. bizde bu basiretsizlik olduktan sonra ankara'ya kadar yürür bu medeniyetsiz maymunlar.
+    ahdhasdhsahsah..<br/><br/>ya olm adamlar her allahın günü şehirleri bombalıyor, kilis'in 30%'unu göçe zorlamış, tank vuruyor obüs patlatıyor, adam öldürüyor, burdaki klavye delikanlıları da gelmiş he yav he, götüne obüs girer bilmem ne diyor.<br/><br/>o obüs'ün namlusu girebilse zaten şimdiye girerdi genç. uçak bile kaldıramıyorsun geçin bu boş lafları. buradan atıp tutmakla olmuyor, icraat nerde onu söyle sen.<br/><br/>ciddiye alınması gereken açıklama. bizde bu basiretsizlik olduktan sonra ankara'ya kadar yürür bu medeniyetsiz maymunlar.<br/><br/>ricalar üzerine:<br/><br/>(bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: jfn
 - entry_name: |
@@ -47,15 +47,15 @@ data:
   entry_id: 60295315
   entry_content: |
     
-    hemen 35 milyar dolara yabancılara satılmalıdır.
-    
+    hemen 35 milyar dolara yabancılara satılmalıdır..<br/><br/>debe editi: bunca yıllık suser'im, ilk defa bi entry'm bu kadar favorilendi ve debe'ye girdi. kendimi 50 sene oscar alamamış, yıllar sonra teselli için yaşam boyu başarı oscarı verilmiş yaşlı karakter oyuncusu gibi hissettim.
+   
   entry_writer: earendill
 - entry_name: |
     işten çıkarılmak
   entry_id: 60296314
   entry_content: |
     
-    yaklaşık 5 dakika önce başıma gelen şey. entry'i yazmak da 10 dakikamı alsın, 15 dakika diyin siz ona..<br/><br/>yaklaşık 1 aydır patron(lar)'un benle pek konuşmaktan kaçınmasından anladığım bir durumdu. "kendilerinin ricasıyla" uzaktan akraba gibi bir şey olan bizim patronun yanında, başka bir iş bulana kadar idareten çalışıyordum. beni tek kıran nokta, işten çıkarılma konuşmamın;<br/><br/>-2 gün sonra maaşı alınca ayrılırsın <br/><br/>- peki x bey<br/><br/>diyaloğuyla sınırlı olmasıydı. kendisinin en büyük gerekçesi ise ki mantıklı da buldum, şirketin küçülmeye gitmesiydi. bu küçülme dedikoduları 1 aydır zaten ortadaydı. ki kendisi bir gün beni çağırıp, duyunca beni yerin dibine sokan şöyle bir konuşma yapmıştı bana;<br/><br/>- paristexas , oğlum sen ne iş yapıyosun aşağıda? (sanki bilmiyormuşçasına ve dalga geçer bir üslupla)<br/><br/>- şunu, şunu, şunu, yeri geldiğinde şunu, hatta şunu yapıyorum x bey<br/><br/>beraber çalıştığım departmanda çalışan 2 kişiden şöyle bahsetti bana, o iki kişi<br/>a ve b olsun, a , 21 yaşında lise mezunu kolay kolay iş bulamayacak ama dünya iyisi bir kızcağız, b ise 38-39 yaşında 3 çocuk sahibi 1750 tl maaşa çalışan kirada yaşayan bir abi. bizim patron da beraber çalıştığım bu iki kişi için dedi ki;<br/><br/>- paris oğlum, seni en kötü zamanında yanıma aldım, iş verdim.<br/>+ evet abi sağolasın.<br/>- böyle zor zamanlarda, senin gibi düzgün bir çocuğun, ayrıca bir de akrabayız, bana gelip şöyle demeni beklerdim.<br/>+ ? (nasıl abi dercesine baktım)<br/>- a denen kız kim abi!!!?? onun işini de ben yaparım aaabi!!! b abi de kim oluyo aaabi!!? çıkar gitsin bunları işten, onların işini de ben yaparım aabi!! demen lazım.<br/>+ ?? (şok içinde izlemeye devam ediyorum.)<br/>-hatta oğlum sen bizim kanımızdansın (kan??) bana yeri geldiğinde şöyle demen lazım, "x abi sen beni en kötü zamanımda yanında almışsın, gerekirse 5 ay bana maaş verme aabi ben yine çalışırım!!" demen lazım. böyle bi zamanda sana bunu söylemek yakışır.<br/>+... (başım öne eğik) <br/><br/>aynı şirkette çalışan abime (öz abim) laf gelmesin diye hiç bir şey diyemedim.<br/><br/>sonra 10 saniye sessiz bir bakışmanın ardından şu final sorusu geldi;<br/><br/>-şimdi söyle bana a ya da b'yi işten çıkarıcam hangisinin işini de sen yapmak istersin? (çünkü onlar bizim kanımızdan değil, akraba değiliz)<br/><br/>+ abi ben 1 değil 2 kişinin daha işini yapabilirim, hatta bunu yaparken de sesim çıkmaz, ama ben idareten buradayım, yarın öbür gün işten ayrılınca, onların işten çıkarılmasına sebep olmayı kendime nasıl yedirebilirim? gece nasıl uyuyacağım peki? ayrıca bunu söylerken o iki kişinin de işten çıkarıldıktan sonra durumlarını göz ardı etmemenizi beklerdim.<br/><br/>- neymiş?? (sinirlendi)<br/><br/>+ a lise mezunu pek de tecrübesi olmayan bir kız, doğru düzgün de işini yapıyo, gayet de iyi kalpli biri, burdan çıkarıldığında kolay kolay iş bulamaz. onun çıkarılmasını istemem, b ise 3 çocuklu az bir maaşa çalışan biri, onun da mağdur edilmesini istemem. neyse uzatamayayım bence sen beni çıkar abi.<br/><br/>- ... (gözleri büyüdü, diğer küçük kardeş patron (şehzade) da bi anda uykusundan uyandı.) <br/><br/>- tamam kardeşim sonra konuşuruz.<br/><br/>sonra dediği zaman tam da bugün oluyor, geldi çattı o "sonra". çağırdı yanına.<br/><br/>en üstte belirttiğim diyalog yaşandı. kırılmadım bak gerçekten, daha doğrusu kırıldım da kırıldığım nokta işten çıkarılmak değildi. başka birilerinin işten çıkarılması kararını vermeye zorlayıp beni ahlaki bir açmaza sürüklemesiydi. o an o kadar utandım ki (sanki benim suçummuş gibi) yer yarılsa da içine girsem dedim. "sikerim senin kanını da paranı da" diyememek koydu açıkçası. <br/><br/>bir de şöyle bir küçük paragraf açmak isterim o "küçülmeye giden şirket" için, patronların en küçüğü olan şehzade paşa'nın aylık ayakkabı masrafı yaklaşık, 30 bin tl'yi buluyor. nerden mi biliyorum? finans departmanında çalışıyorum ve nereye ne kadar harcandığını gayet iyi biliyorum. 2016 model en lüks alman arabalarından oluşan bir otoparka bakıyor çalıştığım ofisin camı. ve patronum kurban bayramlarında 25- 30 tane büyükbaş hayvan kestirerek bilmemnerelerde dağıttıran bir kişi. müslümanlıkta zirve yani.<br/><br/>ha sanane lan milletin parasından harcamasından? evet banane, gerçekten banane yani, istediği yere harcar parasını. ama küçülmeye gidiyoruz diyerek ya da asgari ücret alan bir kızcağızı mağdur ederek ondan artacak brüt 1647 tl ile gemilerini kurtarmaya çalışıyor gibi göstererek ve işten çıkarılması gibi iğrenç bir kararı bana verdirmeye zorlayarak, zekamı küçümsemesi, gerçekten acı vericiydi.<br/><br/>10 dakikadan da fazla sürdü lan yazmam, neyse biraz tuhaf hissetmeye başladım şuanda, hatta biraz rahatlama var diyebilirim, sadece, akşam anneme söyleyince üzülecek, o biraz canımı sıkıyor. ama yine de, yukarıdaki diyaloğu yaşatarak bana hala "insan" olduğumu hatırlatan patronuma (soon to be ex) <br/>teşekkürü bir borç bilirim.
+    yaklaşık 5 dakika önce başıma gelen şey. entry'i yazmak da 10 dakikamı alsın, 15 dakika diyin siz ona..<br/><br/>yaklaşık 1 aydır patron(lar)'un benle pek konuşmaktan kaçınmasından anladığım bir durumdu. "kendilerinin ricasıyla" uzaktan akraba gibi bir şey olan bizim patronun yanında, başka bir iş bulana kadar idareten çalışıyordum. beni tek kıran nokta, işten çıkarılma konuşmamın;<br/><br/>-2 gün sonra maaşı alınca ayrılırsın <br/><br/>- peki x bey<br/><br/>diyaloğuyla sınırlı olmasıydı. kendisinin en büyük gerekçesi ise ki mantıklı da buldum, şirketin küçülmeye gitmesiydi. bu küçülme dedikoduları 1 aydır zaten ortadaydı. ki kendisi bir gün beni çağırıp, duyunca beni yerin dibine sokan şöyle bir konuşma yapmıştı bana;<br/><br/>- paristexas , oğlum sen ne iş yapıyosun aşağıda? (sanki bilmiyormuşçasına ve dalga geçer bir üslupla)<br/><br/>- şunu, şunu, şunu, yeri geldiğinde şunu, hatta şunu yapıyorum x bey<br/><br/>beraber çalıştığım departmanda çalışan 2 kişiden şöyle bahsetti bana, o iki kişi<br/>a ve b olsun, a , 21 yaşında lise mezunu kolay kolay iş bulamayacak ama dünya iyisi bir kızcağız, b ise 38-39 yaşında 3 çocuk sahibi 1750 tl maaşa çalışan kirada yaşayan bir abi. bizim patron da beraber çalıştığım bu iki kişi için dedi ki;<br/><br/>- paris oğlum, seni en kötü zamanında yanıma aldım, iş verdim.<br/>+ evet abi sağolasın.<br/>- böyle zor zamanlarda, senin gibi düzgün bir çocuğun, ayrıca bir de akrabayız, bana gelip şöyle demeni beklerdim.<br/>+ ? (nasıl abi dercesine baktım)<br/>- a denen kız kim abi!!!?? onun işini de ben yaparım aaabi!!! b abi de kim oluyo aaabi!!? çıkar gitsin bunları işten, onların işini de ben yaparım aabi!! demen lazım.<br/>+ ?? (şok içinde izlemeye devam ediyorum.)<br/>-hatta oğlum sen bizim kanımızdansın (kan??) bana yeri geldiğinde şöyle demen lazım, "x abi sen beni en kötü zamanımda yanında almışsın, gerekirse 5 ay bana maaş verme aabi ben yine çalışırım!!" demen lazım. böyle bi zamanda sana bunu söylemek yakışır.<br/>+... (başım öne eğik) <br/><br/>aynı şirkette çalışan abime (öz abim) laf gelmesin diye hiç bir şey diyemedim.<br/><br/>sonra 10 saniye sessiz bir bakışmanın ardından şu final sorusu geldi;<br/><br/>-şimdi söyle bana a ya da b'yi işten çıkarıcam hangisinin işini de sen yapmak istersin? (çünkü onlar bizim kanımızdan değil, akraba değiliz)<br/><br/>+ abi ben 1 değil 2 kişinin daha işini yapabilirim, hatta bunu yaparken de sesim çıkmaz, ama ben idareten buradayım, yarın öbür gün işten ayrılınca, onların işten çıkarılmasına sebep olmayı kendime nasıl yedirebilirim? gece nasıl uyuyacağım peki? ayrıca bunu söylerken o iki kişinin de işten çıkarıldıktan sonra durumlarını göz ardı etmemenizi beklerdim.<br/><br/>- neymiş?? (sinirlendi)<br/><br/>+ a lise mezunu pek de tecrübesi olmayan bir kız, doğru düzgün de işini yapıyo, gayet de iyi kalpli biri, burdan çıkarıldığında kolay kolay iş bulamaz. onun çıkarılmasını istemem, b ise 3 çocuklu az bir maaşa çalışan biri, onun da mağdur edilmesini istemem. neyse uzatmayayım bence sen beni çıkar abi.<br/><br/>- ... (gözleri büyüdü, diğer küçük kardeş patron (şehzade) da bi anda uykusundan uyandı.) <br/><br/>- tamam kardeşim sonra konuşuruz.<br/><br/>sonra dediği zaman tam da bugün oluyor, geldi çattı o "sonra". çağırdı yanına.<br/><br/>en üstte belirttiğim diyalog yaşandı. kırılmadım bak gerçekten, daha doğrusu kırıldım da kırıldığım nokta işten çıkarılmak değildi. başka birilerinin işten çıkarılması kararını vermeye zorlayıp beni ahlaki bir açmaza sürüklemesiydi. o an o kadar utandım ki (sanki benim suçummuş gibi) yer yarılsa da içine girsem dedim. "sikerim senin kanını da paranı da" diyememek koydu açıkçası. <br/><br/>bir de şöyle bir küçük paragraf açmak isterim o "küçülmeye giden şirket" için, patronların en küçüğü olan şehzade paşa'nın aylık ayakkabı masrafı yaklaşık, 30 bin tl'yi buluyor. nerden mi biliyorum? finans departmanında çalışıyorum ve nereye ne kadar harcandığını gayet iyi biliyorum. 2016 model en lüks alman arabalarından oluşan bir otoparka bakıyor çalıştığım ofisin camı. ve patronum kurban bayramlarında 25- 30 tane büyükbaş hayvan kestirerek bilmemnerelerde dağıttıran bir kişi. müslümanlıkta zirve yani.<br/><br/>ha sanane lan milletin parasından harcamasından? evet banane, gerçekten banane yani, istediği yere harcar parasını. ama küçülmeye gidiyoruz diyerek ya da asgari ücret alan bir kızcağızı mağdur ederek ondan artacak brüt 1647 tl ile gemilerini kurtarmaya çalışıyor gibi göstererek ve işten çıkarılması gibi iğrenç bir kararı bana verdirmeye zorlayarak, zekamı küçümsemesi, gerçekten acı vericiydi.<br/><br/>10 dakikadan da fazla sürdü lan yazmam, neyse biraz tuhaf hissetmeye başladım şuanda, hatta biraz rahatlama var diyebilirim, sadece, akşam anneme söyleyince üzülecek, o biraz canımı sıkıyor. ama yine de, yukarıdaki diyaloğu yaşatarak bana hala "insan" olduğumu hatırlatan patronuma (soon to be ex) <br/>teşekkürü bir borç bilirim.<br/><br/>debe editi: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a> bir de şu var;<br/><a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>
    
   entry_writer: paristexas
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 60303602
   entry_content: |
     
-    bu herkese ders olsun. bazi erkeklerdeki bu her boku yiyim kiz beni terketsin, nasil olsa evlenme teklif ederim hayir diyemez simarikligi nedir ya? nerden geliyor bu evlilik hayalleri kurmadigin bi insana, ayri oldugun bir kiza topluluk icinde evlenme teklif edebilme ozguveni? topluluk icinde hayir diyemez kendini mecbur hisseder diye dusunup buna mi guveniyorlar?  <br/><br/>evlilik tekliflerini de boyle sacma sapan hale getiren butun gormemislere de aferin. rezil olun.
+    bu herkese ders olsun. bazi erkeklerdeki bu her boku yiyim kiz beni terketsin, nasil olsa evlenme teklif ederim hayir diyemez simarikligi nedir ya? nerden geliyor bu evlilik hayalleri kurmadigin bi insana, ayri oldugun bir kiza topluluk icinde evlenme teklif edebilme ozguveni? topluluk icinde hayir diyemez kendini mecbur hisseder diye dusunup buna mi guveniyorlar?  <br/><br/>evlilik tekliflerini de boyle sacma sapan hale getiren butun gormemislere de aferin. rezil olun.<br/><br/>edit: buraya da bakin, bizden yardim isteyen kardeslerimiz var;<br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)<br/>(bkz: <a class="b" href="/entry/60240091">#60240091</a>)
    
   entry_writer: hanci bana biraz sarap getir
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 60304257
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=age+of+empires">age of empires</a>)
+    (bkz:  <a class="b" href="/?q=age+of+empires">age of empires</a>)<br/><br/>editto: <br/><br/>*(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>**(bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)
    
   entry_writer: sozluge girdigimde nickini sivazliyordu
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 60298613
   entry_content: |
     
-    bir beyan. yılmaz morgül'ün cinsiyeti ya da cinsel tercihi ise hiç önemli değildir; zira,  <a class="b" href="/?q=mehmet%c3%a7ik+vakf%c4%b1">mehmetçik vakfı</a> için ücretsiz verdiği onca konseri unutmamak gerekir. şu durumda, erkeğim diye geçinen çok kişiden daha adamdır benim gözümde.
+    bir beyan. yılmaz morgül'ün cinsiyeti ya da cinsel yönelimi ise hiç önemli değildir; zira,  <a class="b" href="/?q=mehmet%c3%a7ik+vakf%c4%b1">mehmetçik vakfı</a> için ücretsiz verdiği onca konseri unutmamak gerekir. şu durumda, erkeğim diye geçinen çok kişiden daha adamdır benim gözümde.<br/><br/>debe editi:<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)<br/><br/>bir de <a class="b" href="/?q=gozeye">gozeye</a> isimli yazar dostun uyarısıyla cinsel tercih lafı, cinsel yönelim olarak düzeltilmiştir.
    
   entry_writer: arda selanik
 - entry_name: |
@@ -87,16 +87,16 @@ data:
   entry_id: 60300076
   entry_content: |
     
-    beğenmeyip, birlikte olmadığı adamlar tarafından sözlükte hakkında başlık açılan kadındır.
-    
+    beğenmeyip, birlikte olmadığı adamlar tarafından sözlükte hakkında başlık açılan kadındır..<br/><br/>istek üzerine debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>debe editi 2: (bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)
+   
   entry_writer: elvinlalaith
 - entry_name: |
     3 mayıs 2016 green card çekiliş sonuçları
   entry_id: 60296210
   entry_content: |
     
-    geçen bir internet sitesine 1000. girdiğim için katılmaya hak kazandığım çekiliş. bütün bilgilerimi ve bir miktar istenen parayı gönderdim inşallah bi eksiklik yoktur. bekliyorum. sende beni bekle amerigaaaa.
-    
+    geçen bir internet sitesine 1000. girdiğim için katılmaya hak kazandığım çekiliş. bütün bilgilerimi ve bir miktar istenen parayı gönderdim inşallah bi eksiklik yoktur. bekliyorum. sende beni bekle amerigaaaa..<br/><br/>(bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)<br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: s brent
 - entry_name: |
     survivor 2016
@@ -119,7 +119,7 @@ data:
   entry_id: 60308847
   entry_content: |
     
-     <a class="b" href="/?q=manuel+neuer">manuel neuer</a> maç sonunda çıktı dedi ki "allah" dedi "kimseyi" dedi "yenilgiye sevinecek kadar düşürmesin" dedi.
+     <a class="b" href="/?q=manuel+neuer">manuel neuer</a> maç sonunda çıktı dedi ki "allah" dedi "kimseyi" dedi "yenilgiye sevinecek kadar düşürmesin" dedi.<br/><br/>debe edit: seviyorum seni be kadın :)
    
   entry_writer: thunderstruck
 - entry_name: |
@@ -159,7 +159,7 @@ data:
   entry_id: 60307360
   entry_content: |
     
-    önünüze gelen her entry'de "lan ben bunu ne ara favladım?!" gerginliği yaşatan buton.  <br/><br/>renginin değiştiğini anlamak için bir kez fava basanlar favlasın.<br/><br/>edit: aha rengi geri gitti. <br/><br/>(bkz: <a class="b" href="/?q=noldi+rengin+soldi">noldi rengin soldi</a>)
+    önünüze gelen her entry'de "lan ben bunu ne ara favladım?!" gerginliği yaşatan buton.  <br/><br/>renginin değiştiğini anlamak için bir kez fava basanlar favlasın.<br/><br/>edit: aha rengi geri gitti. <br/><br/>(bkz: <a class="b" href="/?q=noldi+rengin+soldi">noldi rengin soldi</a>)<br/><br/>debe editi: debe editi sendin aşkım.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>)
    
   entry_writer: cevirimanyagi
 - entry_name: |
@@ -183,7 +183,7 @@ data:
   entry_id: 60305254
   entry_content: |
     
-    biraz önce televizyon izlerken vileda actifibre adlı ürünün reklamında gördüğüm gariplik.  <br/><br/>bu reklamın orijinalinin bu olmayacağını düşünüp araştırdım ve sonuç: elbette artık ülkemizde televizyonda içkinin görünmesi bile günah olduğundan türkiye'ye uyarlanmış. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=no8KAtR_ObI" title="https://m.youtube.com/watch?v=no8KAtR_ObI">orijinali</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=3wxrS90wXSk" title="https://m.youtube.com/watch?v=3wxrS90wXSk">türkiye versiyonu</a>
+    biraz önce televizyon izlerken vileda actifibre adlı ürünün reklamında gördüğüm gariplik.  <br/><br/>bu reklamın orijinalinin bu olmayacağını düşünüp araştırdım ve sonuç: elbette artık ülkemizde televizyonda içkinin görünmesi bile günah olduğundan türkiye'ye uyarlanmış. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=no8KAtR_ObI" title="https://m.youtube.com/watch?v=no8KAtR_ObI">orijinali</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=3wxrS90wXSk" title="https://m.youtube.com/watch?v=3wxrS90wXSk">türkiye versiyonu</a><br/><br/>edit: entry debe'ye girmiş. nasıl oluyor bilmiyorum ama sık sık yazdıklarım debe'ye giriyor. herkese bu kadar sık oluyor mu bu? bari bu kez bir işe yarasın, rica gelmiş: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: optional hero
 - entry_name: |
@@ -191,7 +191,7 @@ data:
   entry_id: 60292345
   entry_content: |
     
-    devletin direkt olarak diplomasını yırtıp vatandaşlıktan çıkarması gereken kişidir..<br/><br/>hatta araştırılsın muhtemelen diploması sahtedir. <br/><br/>şerefi sahteymiş onu gördük de diplomadan da emin olalım.
+    devletin direkt olarak diplomasını yırtıp vatandaşlıktan çıkarması gereken kişidir..<br/><br/>hatta araştırılsın muhtemelen diploması sahtedir. <br/><br/>şerefi sahteymiş onu gördük de diplomadan da emin olalım.<br/><br/>debe: <a class="b" href="/?q=epilepsi+hastas%c4%b1+kenan+ve+karde%c5%9fi+ela">epilepsi hastası kenan ve kardeşi ela</a>'ya yardımlarımızı esirgemeyelim. hiç değilse updullah deyin. <br/><br/><a class="b" href="/?q=iyilik+eden+iyilik+g%c3%b6r%c3%bcr">iyilik eden iyilik görür</a>.
    
   entry_writer: turiq
 - entry_name: |
@@ -207,7 +207,7 @@ data:
   entry_id: 60301362
   entry_content: |
     
-    o 4 maç saha kapatma trabzonspor için ödül aslında. baskıyla oynamayacaklar kendi sahalarında tam 4 maç..<br/><br/>hiçbir caydırıcılığı da olmadı üstelik verilen cezanın. gerçi darp eden serbest kaldıktan sonra trabzonspor 50 sene ceza alsa ne olur?
+    o 4 maç saha kapatma trabzonspor için ödül aslında. baskıyla oynamayacaklar kendi sahalarında tam 4 maç..<br/><br/>hiçbir caydırıcılığı da olmadı üstelik verilen cezanın. gerçi darp eden serbest kaldıktan sonra trabzonspor 50 sene ceza alsa ne olur?<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/entry/60102536">#60102536</a>) yardım kampanyası için destek olursanız.
    
   entry_writer: leonardonun katanasi
 - entry_name: |
@@ -223,7 +223,7 @@ data:
   entry_id: 60291890
   entry_content: |
     
-    burada anlatılanlara bakmayın, yurtdışında yaşamak demek (hayattan beklentinize, uyum katsayınıza, ve elbette yaşadığınız ülkeye bağlı olarak) illa kendini ait hissetmemek, bir yabancı olarak var olmak demek değildir.  <br/><br/>anlatılan hikayeler belki de anlatıldığından da güzeldir. belki bileğinin hakkı ile, alnının teri ile gerçekten birşeyler başarmak, bunun karşılığında ülkende asla elde edemeyeceğin bir hayat standardına ulaşmak ve yine ülkende asla görmeyeceğin saygıyı görmek sandığından çok daha keyiflidir ha ne dersin?<br/><br/>emin olun insan gibi yaşamak, insan muamelesi görmek anormal kolay alışılan şeyler. bir kere alışınca da kolay bırakılmıyor.
+    burada anlatılanlara bakmayın, yurtdışında yaşamak demek (hayattan beklentinize, uyum katsayınıza, ve elbette yaşadığınız ülkeye bağlı olarak) illa kendini ait hissetmemek, bir yabancı olarak var olmak demek değildir.  <br/><br/>anlatılan hikayeler belki de anlatıldığından da güzeldir. belki bileğinin hakkı ile, alnının teri ile gerçekten birşeyler başarmak, bunun karşılığında ülkende asla elde edemeyeceğin bir hayat standardına ulaşmak ve yine ülkende asla görmeyeceğin saygıyı görmek sandığından çok daha keyiflidir ha ne dersin?<br/><br/>emin olun insan gibi yaşamak, insan muamelesi görmek anormal kolay alışılan şeyler. bir kere alışınca da kolay bırakılmıyor.<br/><br/>debedit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: entropy
 - entry_name: |
@@ -231,7 +231,7 @@ data:
   entry_id: 60307429
   entry_content: |
     
-    favorilemediğim entryleri favoriledim sanıp üstüne basarak favorilememe sebep olmuştur.  <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: geri düzelmiş. sözlükte favlama rekorları kırmıştır muhtemelen.
+    favorilemediğim entryleri favoriledim sanıp üstüne basarak favorilememe sebep olmuştur.  <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: geri düzelmiş.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: megamac
 - entry_name: |
@@ -239,7 +239,7 @@ data:
   entry_id: 60310771
   entry_content: |
     
-    sitenin sağ tarafına yırtık dürümden sarkmış yeşillik gibi eklenen yeni reklamıyla yeteri kadar tık alınmadığının, paraya doymayıp fidan dikiyoruz bahanesiyle yüce yönetim tarafından eklenmiş ama adblock sağolsun iki tuş ile tamamen yok edilmiş zırıltı websitesi..<br/><br/>edit: adblock ile eksi seyler uzantısı engelleme yöntemi:<br/><br/>chrome üzerindeki ad block simgesine sağ tıklayıp seçenekler diyoruz<br/>karşınıza çıkan extension'un ayarlar kısmında üst kısımda özelleştir kısmı var oraya geliyoruz.<br/><br/>filtrelerinizi elle düzenleyin kısmının yanındaki düzenle butonuna basıp, aşağıdaki kısma ;<br/>eksisozluk.com##iframe<br/><br/>yazıp kaydediyoruz, tadından yenmiyor.<br/><br/>opera: adblock'a sağ tık options--> add you own filters--> ilk kutucuğa eksisozluk.com##iframe --> add filter dememiz yeterliz yeterli<br/><br/>firefox : adblock sol tık --->süzgeç tercihleri -->isteğe bağlı süzgeçler -> eksisozluk.com##iframe -> enter -&gt; enter<br/><br/>adblock eklentisini bilmeyenler tarayıcılarının ismi + adblock diye google'dan arayıp browser'larına ekleyebilirler.<br/><br/>ad block adı üstünde "reklamları" engelleyen bir programcıktır, ekşi şeyler, ekşisözlük üzerindeki bir reklam olduğuna göre gönül rahatlığıyla kaldırılabilir, ha yarın gelir iframe yerine videoların olduğu içeriğe gömmesi için ssg'ye telefon açarlar, o zaman başka yöntem buluruz problem değil.<br/><br/>direten, baskıcı yönetime hayır!
+    sitenin sağ tarafına yırtık dürümden sarkmış yeşillik gibi eklenen yeni reklamıyla yeteri kadar tık alınmadığının, paraya doymayıp fidan dikiyoruz bahanesiyle yüce yönetim tarafından eklenmiş ama adblock sağolsun iki tuş ile tamamen yok edilmiş zırıltı websitesi..<br/><br/>debe editi: iframe'i silince gunun videosu/konulu videolar, frame seklinde eskisi gibi acilmiyor, uzerine tikladiginizda yeni sekmede acarak anca video'yu izleyebiliyorsunuz,<br/>eh 59 saniye'de sonucta "reklam" icerigi oldugu icin onu da kaldirsak fena olmaz gibi.<br/><br/>edit: adblock ile eksi seyler uzantısı engelleme yöntemi:<br/><br/>chrome üzerindeki ad block simgesine sağ tıklayıp seçenekler diyoruz<br/>karşınıza çıkan extension'un ayarlar kısmında üst kısımda özelleştir kısmı var oraya geliyoruz.<br/><br/>filtrelerinizi elle düzenleyin kısmının yanındaki düzenle butonuna basıp, aşağıdaki kısma ;<br/>eksisozluk.com##iframe<br/><br/>yazıp kaydediyoruz, tadından yenmiyor.<br/><br/>opera: adblock'a sağ tık options--> add you own filters--> ilk kutucuğa eksisozluk.com##iframe --> add filter dememiz yeterliz yeterli<br/><br/>firefox : adblock sol tık --->süzgeç tercihleri -->isteğe bağlı süzgeçler -> eksisozluk.com##iframe -> enter -&gt; enter<br/><br/>adblock eklentisini bilmeyenler tarayıcılarının ismi + adblock diye google'dan arayıp browser'larına ekleyebilirler.<br/><br/>ad block adı üstünde "reklamları" engelleyen bir programcıktır, ekşi şeyler, ekşisözlük üzerindeki bir reklam olduğuna göre gönül rahatlığıyla kaldırılabilir, ha yarın gelir iframe yerine videoların olduğu içeriğe gömmesi için ssg'ye telefon açarlar, o zaman başka yöntem buluruz problem değil.<br/><br/>*******iframe'i bozmadan sadece eksiseyler'i gormemek istiyorsaniz ;*******<br/>eksisozluk.com##iframe yerine<br/>seyler.eksisozluk.com yazabilirsiniz, saniyorum.<br/>*************************************<br/><br/>*****************<br/>konulu videolari kaldirmak icin;<br/><br/>(bkz: <a class="b" href="/entry/42320578">#42320578</a>)<br/><br/>eksisozluk.com###videos ekliyoruz filtreye<br/><br/>*******************<br/><br/>**** <br/>eksisozluk.com###who-to-follow<br/>kismini ekleyip kimi takip etmeli sekmesini de kaldirabiliyoruz,<br/>gozlerimiz sag tarafin boslugundan bayram ediyor<br/>****<br/><br/>direten, baskıcı yönetime hayır!<br/><br/>debedit hopefully son:<br/>soyle bir yardim kampanyasi varmis: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)<br/><br/>daha dun soyle guzel bir seye yardimci olmustu sevgili eksi sozluk yazarlari :<br/>(bkz: <a class="b" href="/?q=hamzanin+protezi+icin+25bin+tl+gerekiyor">hamzanin protezi icin 25bin tl gerekiyor</a>)yani illa tik kazandirip milyonlarca liraya cebe indirip 3 kurusuyla fidan dikmekle olmuyor, gercek insanlar/iyilik/dunya barisi boyle zamanlarda belli oluyor.
    
   entry_writer: metket
 - entry_name: |
@@ -263,7 +263,7 @@ data:
   entry_id: 60292488
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=atlars%c4%b1n+eyvallah+da+%c3%b6lmezsen+s%c4%b1k%c4%b1nt%c4%b1+b%c3%bcy%c3%bck">atlarsın eyvallah da ölmezsen sıkıntı büyük</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+engelli+olmak">türkiye'de engelli olmak</a>)
+    (bkz:  <a class="b" href="/?q=atlars%c4%b1n+eyvallah+da+%c3%b6lmezsen+s%c4%b1k%c4%b1nt%c4%b1+b%c3%bcy%c3%bck">atlarsın eyvallah da ölmezsen sıkıntı büyük</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+engelli+olmak">türkiye'de engelli olmak</a>)<br/><br/>debe editi: <br/><a rel="nofollow" class="url" target="_blank" href="http://eksisozluk.com/entry/60102536" title="http://eksisozluk.com/entry/60102536">devrim bebeğe yardım kampanyası.</a>
    
   entry_writer: cigiltepe
 - entry_name: |
@@ -279,7 +279,7 @@ data:
   entry_id: 60292374
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=renkli+medyan%c4%b1n+son+kozlar%c4%b1n%c4%b1+oynamas%c4%b1">renkli medyanın son kozlarını oynaması</a>)<br/><br/>gerçekten şeref yoksunusunuz . şampiyonluğumuza 2 hafta kaldı . gomez ısrarla kararını kritik maçlardan sonra bildireceğini söylerken sırf algı operasyonu yaratmak için sıfır kaynak ile %100 kesinmiş gibi haber yapıyorsunuz. sizin gazetelerinizi tüm beşiktaşlı'ların boykot etmesi gerekiyor . çünkü bu ilk değil. geçen haftaki haberlerinize bakıyoruz sanırsın beşiktaş jimnastik kulubü değil beşiktaş dövüş kulubüyüz . adamlar kavga haberinden 2 saat sonra omuz omuza resimlerini atıp sorun yok diyor . buna bile yer vermiyorsunuz . gomez son 3 hafta 3-4 tane daha atsın da rahatlayın mınakoduklarım .<br/><br/>edit: bugünkü fanatik haberleri <br/><br/>1) beşiktaş'da gomez depremi <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/2016/05/03/mario-gomez-depremi-1231100" title="http://www.fanatik.com.tr/2016/05/03/mario-gomez-depremi-1231100">*</a><br/>2)tolgay arslan gitmek istedi <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/2016/05/02/tolgay-arslan-gitmek-istedi-1231048" title="http://www.fanatik.com.tr/2016/05/02/tolgay-arslan-gitmek-istedi-1231048">*</a><br/>3)sosa en kötüler arasında <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/foto-galeri/almanya/bayern-munih-in-en-kotu-15-transferi-1230918/14" title="http://www.fanatik.com.tr/foto-galeri/almanya/bayern-munih-in-en-kotu-15-transferi-1230918/14">*</a><br/><br/>bundan sonra benden size tek kuruş yok şeref yoksunu medya sizi
+    (bkz:  <a class="b" href="/?q=renkli+medyan%c4%b1n+son+kozlar%c4%b1n%c4%b1+oynamas%c4%b1">renkli medyanın son kozlarını oynaması</a>)<br/><br/>gerçekten şeref yoksunusunuz . şampiyonluğumuza 2 hafta kaldı . gomez ısrarla kararını kritik maçlardan sonra bildireceğini söylerken sırf algı operasyonu yaratmak için sıfır kaynak ile %100 kesinmiş gibi haber yapıyorsunuz. sizin gazetelerinizi tüm beşiktaşlı'ların boykot etmesi gerekiyor . çünkü bu ilk değil. geçen haftaki haberlerinize bakıyoruz sanırsın beşiktaş jimnastik kulubü değil beşiktaş dövüş kulubüyüz . adamlar kavga haberinden 2 saat sonra omuz omuza resimlerini atıp sorun yok diyor . buna bile yer vermiyorsunuz . gomez son 3 hafta 3-4 tane daha atsın da rahatlayın mınakoduklarım .<br/><br/>edit: bugünkü fanatik haberleri <br/><br/>1) beşiktaş'da gomez depremi <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/2016/05/03/mario-gomez-depremi-1231100" title="http://www.fanatik.com.tr/2016/05/03/mario-gomez-depremi-1231100">*</a><br/>2)tolgay arslan gitmek istedi <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/2016/05/02/tolgay-arslan-gitmek-istedi-1231048" title="http://www.fanatik.com.tr/2016/05/02/tolgay-arslan-gitmek-istedi-1231048">*</a><br/>3)sosa en kötüler arasında <a rel="nofollow" class="url" target="_blank" href="http://www.fanatik.com.tr/foto-galeri/almanya/bayern-munih-in-en-kotu-15-transferi-1230918/14" title="http://www.fanatik.com.tr/foto-galeri/almanya/bayern-munih-in-en-kotu-15-transferi-1230918/14">*</a><br/><br/>bundan sonra benden size tek kuruş yok şeref yoksunu medya sizi<br/><br/>debit : <a class="b" href="/entry/60102536">#60102536</a>
    
   entry_writer: alorno
 - entry_name: |
@@ -351,7 +351,7 @@ data:
   entry_id: 60293116
   entry_content: |
     
-    cenaze namazı kılınması kişiye farz değildir. sadece herhangi bir cenazenin namazı mutlaka kılınmalıdır defnedilmeden once, farz olan budur. yoksa kişiye müstehaptır. başkaları kılıyorsa onun sorumluluğu sizden de düşer. ulan troll de olsanız bari inandığınız dini öğrenin..<br/><br/>herhangi bir önemi olmayan olaydır:tanım
+    cenaze namazı kılınması kişiye farz değildir. sadece herhangi bir cenazenin namazı mutlaka kılınmalıdır defnedilmeden once, farz olan budur. yoksa kişiye müstehaptır. başkaları kılıyorsa onun sorumluluğu sizden de düşer. ulan troll de olsanız bari inandığınız dini öğrenin..<br/><br/>herhangi bir önemi olmayan olaydır:tanım<br/>edit: mustehap degil farzi kifaye olacak.<br/>debe ricası yardım kampanyası geldi: (bkz: <a class="b" href="/?q=60102536">60102536</a>)
    
   entry_writer: somethinggotmestarted
 - entry_name: |
@@ -383,8 +383,8 @@ data:
   entry_id: 60312357
   entry_content: |
     
-    bu tiplere "sosyal deney" denen şeyi kim öğrettiyse ağzını kırayım onun, ota boka sosyal deney diyerek saçma sapan alakasız ne idüğü belirsiz videolar çekiyor. başımıza yerli pranker çıktı iq yoksunu...
-    
+    bu tiplere "sosyal deney" denen şeyi kim öğrettiyse ağzını kırayım onun, ota boka sosyal deney diyerek saçma sapan alakasız ne idüğü belirsiz videolar çekiyor. başımıza yerli prankster çıktı iq yoksunu....<br/><br/>debe editi: unutulmamasi gerekli onemli bir yardim projesi: 23 nisan 2016 devrim yılmaz'a yardım kampanyası (bkz: <a class="b" href="/entry/60102536">#60102536</a>)<br/><br/>edit ii: pranker degil, prankster olacakti. <a class="b" href="/?q=montmartre+delisi">montmartre delisi</a>ne tesekkurler
+   
   entry_writer: zacura
 - entry_name: |
     doğum yapmak için amerika'ya gitmek
