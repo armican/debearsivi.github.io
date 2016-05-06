@@ -15,7 +15,7 @@ data:
   entry_id: 60336147
   entry_content: |
     
-    tübitak bilim şenliği'nde, böylesine muhteşem bir bilim yuvasında geleceğimiz olan bazı ak kardeşlerimizin tanıtımını yaptığı kavanozdur..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/incredibleturkishtechnology/videos/1722683768000424/?autoplay_reason=gatekeeper&video_container_type=0&app_id=239295013792950137" title="https://www.facebook.com/incredibleturkishtechnology/videos/1722683768000424/?autoplay_reason=gatekeeper&video_container_type=0&app_id=239295013792950137">video</a><br/><br/>kendileri deney yapmışlar. iki kavanozun içine bir şeyler doldurup birine kötü söz kavanozu, diğerine iyi söz kavanozu demişler. gelen öğrencilere kavanozlardan birine kötü söz, diğerine iyi söz söyletip etkilerini görmek istemişler ve 3. gün sonunda kötü söz kavanozu küflenmeye başlamış. kuran'ın bir çok suresinde ve ayetinde güzel söze ve etkili iletişime dikkat çekildiğini söyleyerek mesajını veriyor kardeşimiz.<br/><br/>tübitak'ı siktir ettim, öncelikle yaptığınız iş bilimsel bir ifade midir, bilimsel değeri var mıdır? mesela "dünya düzdür" hipotezi bilimsel bir ifadedir. çünkü bu hipotezimizi test edip sonuçlarını görerek hipotezimizin yanlış olduğunu söyleyebiliriz. peki kendi yaptıkları nedir? iki kavanozdaki bir maddeye(ne koydularsa tam seçemedim) kötü söz söyletilerek o maddenin küflenebileceği düşüncesi ve kaynak olarak da kuran'ı göstermek nedir? ben bunu nasıl test edeceğim ulan? hiçbir şeye açık değil. bu bilimsel ifade değildir, bilimsel hiçbir değeri yoktur. hatta kişisel yorum katarak da safsatadır da denilebilir.<br/><br/>abi siz taşak mı geçiyorsunuz ya? tübitak ne hale geldi. bundan önce de birinci olan eleman vardı. fasulyelerden birine kuran, birine arabesk rap müziki biri de sessiz ortamda yetiştiriliyordu. yok kuran dinletilen epey büyüyordu, arabesk rap dinletilen hiç büyümüyordu filan.<br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/170944092189/photos/a.10150464838012190.366552.170944092189/10151433125912190/?type=1&theaterater" title="https://www.facebook.com/170944092189/photos/a.10150464838012190.366552.170944092189/10151433125912190/?type=1&theaterater">link</a> <br/><br/>bu musunuz arkadaş ya? bilim dediğiniz bu mudur? hayır, ben bu arkadaşları da suçlamıyorum. bir şeylere inanmışlar, inançlarıyla bir iki bir şeyi birleştirip mucize olarak sunmak istemişler. koca tübitak; bu aptalca deneyleri, millete bilimsel değeri varmış gibi yedirip üzerine bir de ödül veriyor. tamam tübitak bozdu, efsane bozdu, önünü alamadık da içerisinde 1 tane aklı başında insan yok mu kardeş siz ne ayaksınız diyebilen?<br/><br/>ayrıca bu arkadaşlar için uzun bir entry yazmıştım, merak eden okuyabilir.<br/>(bkz: <a class="b" href="/?q=dinlerin+insan%c4%b1+s%c4%b1%c4%9fla%c5%9ft%c4%b1rmas%c4%b1">dinlerin insanı sığlaştırması</a>)
+    tübitak bilim şenliği'nde, böylesine muhteşem bir bilim yuvasında geleceğimiz olan bazı ak kardeşlerimizin tanıtımını yaptığı kavanozdur..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/incredibleturkishtechnology/videos/1722683768000424/?autoplay_reason=gatekeeper&video_container_type=0&app_id=239295013792950137" title="https://www.facebook.com/incredibleturkishtechnology/videos/1722683768000424/?autoplay_reason=gatekeeper&video_container_type=0&app_id=239295013792950137">video</a><br/><br/>kendileri deney yapmışlar. iki kavanozun içine bir şeyler doldurup birine kötü söz kavanozu, diğerine iyi söz kavanozu demişler. gelen öğrencilere kavanozlardan birine kötü söz, diğerine iyi söz söyletip etkilerini görmek istemişler ve 3. gün sonunda kötü söz kavanozu küflenmeye başlamış. kuran'ın bir çok suresinde ve ayetinde güzel söze ve etkili iletişime dikkat çekildiğini söyleyerek mesajını veriyor kardeşimiz.<br/><br/>tübitak'ı siktir ettim, öncelikle yaptığınız iş bilimsel bir ifade midir, bilimsel değeri var mıdır? mesela "dünya düzdür" hipotezi bilimsel bir ifadedir. çünkü bu hipotezimizi test edip sonuçlarını görerek hipotezimizin yanlış olduğunu söyleyebiliriz. peki kendi yaptıkları nedir? iki kavanozdaki bir maddeye(ne koydularsa tam seçemedim) kötü söz söyletilerek o maddenin küflenebileceği düşüncesi ve kaynak olarak da kuran'ı göstermek nedir? ben bunu nasıl test edeceğim ulan? hiçbir şeye açık değil. ortaya attıkları hipotez bilimsel olabilir; ama deney koşullarının bilimsel olmadığı ortada. sonucunu ise dinsel bir kaynağa dayandırıyorsun. bu yaptığı deneyin bilimsel hiçbir değeri yok. hatta kişisel yorum katarak da safsatadır da denilebilir. <br/><br/><a class="b" href="/?q=ele%c5%9ftirilere+cevap">eleştirilere cevap</a><br/>bazı arkadaşlar, bu deney tekrar edilip aynı sonuç alınırsa bunun bilimsel deney olacağını söylemişler. hayır, ben mi anlatamıyorum? yoksa anlamak mı istemiyorsunuz? mesela benim küçükken dişim ağrıdığında, parmağımı dişimin üzerine koyup 7 kere içimden diş duası okurdum. sözde bu şekilde ağrı geçiriyor. hiçbir halta da yaradığını görmedim. diyelim ki bu yaptığım uygulama gerçekten işe yarıyor olsun. hatta 1000 dişi ağrıyan insanı karşıma dizip bunu tekrarlatsam, hepsinin diş ağrısı geçse de bu bilimsel bir deney değildir. diş ağrısı duasıyla diş ağrısının geçmesi bilimsel bir hipotez olarak ortaya atılabilir; ama deneyin bilimsel bir değeri yok. bak bu deneyin sebeplerini psikolojik nedenlerde arayıp o an o duayı okumanın ve geçmesini bekleme isteğinin bir nebze faydası olabilir, psikoloji bilimi bunu araştırıp doğrularsa bu bilimsel deney olabilir. sen kaynak olarak kuran'ı veya bu tarz hurafeleri gösterirsen millet götüyle de güler sana. yani olay, deneyin doğru sonuçlanması vs. değil, kaynaktır. evrimi de evrimsel biyologlar, bilimsel olarak <a class="b" href="/?q=evrim+teorisi">evrim teorisi</a>yle açıklıyorlar. bazıları da <a class="b" href="/?q=ak%c4%b1ll%c4%b1+tasar%c4%b1m">akıllı tasarım</a> denen, bilimsel olmayan bir düşünceyle açıklamaya çalışıyorlar. arasında dağ var, farkı bilin. <br/><a class="b" href="/?q=ele%c5%9ftirilere+cevap">eleştirilere cevap</a><br/><br/>abi siz taşak mı geçiyorsunuz ya? tübitak ne hale geldi. bundan önce de birinci olan eleman vardı. fasulyelerden birine kuran, birine arabesk rap müziki biri de sessiz ortamda yetiştiriliyordu. yok kuran dinletilen epey büyüyordu, arabesk rap dinletilen hiç büyümüyordu filan.<br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/170944092189/photos/a.10150464838012190.366552.170944092189/10151433125912190/?type=1&theaterater" title="https://www.facebook.com/170944092189/photos/a.10150464838012190.366552.170944092189/10151433125912190/?type=1&theaterater">link</a> <br/><br/>bu musunuz arkadaş ya? bilim dediğiniz bu mudur? hayır, ben bu arkadaşları da suçlamıyorum. bir şeylere inanmışlar, inançlarıyla bir iki bir şeyi birleştirip mucize olarak sunmak istemişler. koca tübitak; bu aptalca deneyleri, millete bilimsel değeri varmış gibi yedirip üzerine bir de ödül veriyor. tamam tübitak bozdu, efsane bozdu, önünü alamadık da içerisinde 1 tane aklı başında insan yok mu kardeş siz ne ayaksınız diyebilen?<br/><br/>ayrıca bu arkadaşlar için uzun bir entry yazmıştım, merak eden okuyabilir.<br/>(bkz: <a class="b" href="/?q=dinlerin+insan%c4%b1+s%c4%b1%c4%9fla%c5%9ft%c4%b1rmas%c4%b1">dinlerin insanı sığlaştırması</a>)<br/><br/>edit: kardeşimizi de unutmayalım. (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: gozun aydin kulaklarin manisa
 - entry_name: |
@@ -23,7 +23,7 @@ data:
   entry_id: 60338644
   entry_content: |
     
-    meslekten atılması gereken bir diplomalı eşşektir.  <br/>1) eşcinsel ve yahut değil bir hastanı net bir şekilde teşhir etmişsin, bu suçtur sayın davar<br/>2)zamanında hipokrat yemini ederek herkese eşit mesafede olacağını söylemişsin ayrımcılık yapmak senin işin değil yavşak.<br/>3)bir de bu hatalarını yüzüne vuran insanlara amanın siz neden memleket meselelerini bu kadar dert etmiyorsunuz diyorsun ki senin gibi malların doktorluk gibi mevkilere yükselebilmesi zaten bu memleketin bir meselesidir şerefsiz.
+    meslekten atılması gereken bir diplomalı eşşektir.  <br/>1) eşcinsel ve yahut değil bir hastanı net bir şekilde teşhir etmişsin, bu suçtur sayın büyükbaş<br/>2)zamanında hipokrat yemini ederek herkese eşit mesafede olacağını söylemişsin ayrımcılık yapmak senin işin değil.<br/>3)bir de bu hatalarını yüzüne vuran insanlara amanın siz neden memleket meselelerini bu kadar dert etmiyorsunuz diyorsun ki senin gibi diplomalı cahillerin doktorluk gibi mevkilere yükselebilmesi zaten bu memleketin bir meselesidir.<br/><br/>edit: hakaret içeren kısımlar düzenlendi.<br/><br/>debe edition: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>not: başka böyle faydalı kampanyası falan lan yeşillendirsin de boş durmasın entirinin altı.
    
   entry_writer: kayayi delen incir
 - entry_name: |
@@ -31,15 +31,15 @@ data:
   entry_id: 60341987
   entry_content: |
     
-    3500 liraya telefon alana benim de yapacağım muamele.
-    
+    3500 liraya telefon alana benim de yapacağım muamele..<br/><br/>edit: 1000 lira ve altında tüm akıllı telefon fonksiyonlarını yerine getiren aletler var. kalanı için (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>edit2: tipik bir ikinci entri debesi. aklına ilk geleni yazıyorsun, debe oluyor. en beğenilen entrim olması beni gururlandırmadığı için görevini tamamladığında sileceğim. (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>bunun reklamı olmaz ama mahlasla yazdığımız, ve almayacağı arabanın reklamında oynayan erdal beşikçioğlu'nun durumuna düşmemek için<a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/XkOEy5.png" title="http://i.hizliresim.com/XkOEy5.png">bkz</a>. belki daha çok parası olan birilerine teşvik olur.
+   
   entry_writer: qelebex
 - entry_name: |
     davutoğlu arınç ve gül'ün kuracağı parti
   entry_id: 60334350
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hayret+ve+suskunluk+partisi">hayret ve suskunluk partisi</a>)
+    (bkz:  <a class="b" href="/?q=hayret+ve+suskunluk+partisi">hayret ve suskunluk partisi</a>)<br/><br/>-----------------------------<br/><br/>debe editi: tek bkzden oluşan debeye normal şartlarda debe editi geçmem fakat ortada yavaşlamış bir yardım kampanyası bir de küçücük bir yavru var. <br/><br/>haydi yardımsever yazar kardeşlerim, son 30.000 tl. <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: housemdninbastonu
 - entry_name: |
@@ -47,7 +47,7 @@ data:
   entry_id: 60336860
   entry_content: |
     
-    -ön edit--<br/>lg yetkili servisinin yasal 20 iş günlük süresi bugün itibari ile doldu. yasal hakkım olan iade talebim bu 20 iş günü içerisinde karşılanmadığı gibi her hangi bir değişim veya tamir bilgisi de verilmedi. yani lg işi inada bindirerek yasa hak hukuk tanımadığını kanıtlamış oldu. 20 iş gününün dolması gerekiyordu dava sürecinin başlaması için. bugün iş çıkışı kaymakamlığa giderek hakem heyetine başvuru yaparak ilk süreci başlatacağım lg ve mediamarkt hakkında. ayrıca lg/mediamarkt'in sosyal medya üzerinden paralı/parasız avukatlığını yapan ve işi özel mesajlarla hakaret boyutuna kadar getiren insanları da elbet bir gün ekşisözlükte ifşa edip gerçek kişiliklerini ortaya çıkaracağım. <br/>-ön edit-<br/><br/><a class="b" href="/?q=28+nisan+2016+lg+t%c3%bcrkiye+rezaleti">28 nisan 2016 lg türkiye rezaleti</a>'nin devamı olan rezalet. ayrıca daha önceki rezalete ek olarak mediamarkt'ın ekşisözlük yardım hesabı da olaylara eklenmiş durumda. <br/><br/>ilk rezaleti şöyle bir özet geçeyim. ocak 2016 ayında mediamarkt konya şubesinden bir adet lg g3 telefon aldım. 200 tl fazla para ödeyerek lg türkiye garantili olsun ki telefon arıza marıza verirse güvenilir bir şekilde hakkımı alabileyim istedim. bu kapsamda piyasa fiyatının (o gün itibari ie 1100, bugün itibari ile 950) çok üstünde olan 1399 tl'yi bu telefon için ödedim. <br/><br/>telefon 3 ay sonra aşırı ısınma ve buna bağlı olarak sarı ekran arızası verdi. bu da yasada belirtilen süreden önce fabrikasyon ve kronik bir arıza olduğu için telefonu <a class="b" href="/?q=ay%c4%b1pl%c4%b1+mal">ayıplı mal</a> kapsamına sokuyor. her neyse, bu <a class="b" href="/?q=ay%c4%b1pl%c4%b1+mal">ayıplı mal</a>ı önce mediamarkt'ın ilgili şubesine götürdüm. ama telefonu kabul etmeyip, "konya'da lg yetkili teknik servisi olduğu için kendiniz servise götürmeniz gerekir" sebebini sundular bana. bu sebebe istinaden ben de telefonu konya'daki yetkili lg servisine verdim. ve telefonu verirken de arıza kağıdına yasal hakkım olarak iade isteğimi yazdım.<br/><br/>özetle geçiyorum; lg iade talebimi reddederek değişim yapabileceğini söyledi. kendilerine yasal hakkım olarak iade isteğimi defalarca belirttim. ama bana "şirketimiz prensip olarak iade yapmıyor, değişim yapıyor" yanıtını verdiler. ben de sözlükte bu konuyla alakalı başlık açtım. <br/><br/>bundan sonrası yeni rezalet kapsamına giriyor;<br/><br/>açtığım başlıktan sonra <a class="b" href="/?q=mediamarkt">mediamarkt</a> ekşi sözlük yardım hesabı benimle iletişime geçti. ilgili şubeye haber verdiklerini ve 2-3 gün içerisinde bana dönüş yapacaklarını ve sorunumu çözeceklerini belirttiler. o günden sonra 1 hafta geçti ama hala dönüş yapılmadı. yani <a class="b" href="/?q=mediamarkt">mediamarkt</a> sözlük nezdinde kendini aklamak için ağzıma bir parça bal çalmak istedi ama sonrasında yazdığım entry yeteri kadar ilgi görmediği için bu niyetinden vazgeçti. <br/><br/>mediamarkt'tan iş çıkmayacağını anladım ve tekrardan lg ile iletişime geçtim. kendilerine hem telefonla hem de mail ile "hangi şirket prensibinizin, türkiye cumhuriyeti yasalarından daha üstün olduğunu anlatan bir yazı istiyorum. telefon değişimi istemiyorum; sadece yazılı bir açıklama bekliyorum ki bu yazılı metin ile tüketici mahkemesine ve daha üst mahkemelere gidebileyim" dedim. telefonda sözlü bir açıklamadan kaçınarak "mail atın, iki gün içinde dönüş yapılacaktır" dediler. 3 adet mail attığım halde bir yanıt gelmedi. bütün bunlar telefon kayıtlarında ve mail kayıtlarında var. <br/><br/>yani üretici firma lg, kanunda açıkça belirtileni çiğniyor ve mağdur olan müşterinin talebini yerine getirmiyor kendi şirket politikalarını türkiye cumhuriyeti yasalarından üstün görüyor. <br/><br/>satıcı firma <a class="b" href="/?q=mediamarkt">mediamarkt</a>, entry debe olabilir korkusu ile ilk önce müşteri lehine bir adım atıyor; ama entry debe olmayınca o da mağdur olan müşteriyi hiçe sayıyor.<br/><br/>ben tüketiciyi koruma kanununu hiçe sayanlara piyasanın üzerinde para ödeyerek bir telefon aldım. bir daha böyle bir şeyi yapmam. siz de google araması ve sözlük sayesinde bu entry'e ulaşıp kimlerden alışveriş yapıp yapmayacağınız hakkında bir fikir sahibi olursunuz umarım.<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/entry/60348191">#60348191</a>)
+     <a class="b" href="/?q=28+nisan+2016+lg+t%c3%bcrkiye+rezaleti">28 nisan 2016 lg türkiye rezaleti</a>'nin devamı olan rezalet. ayrıca daha önceki rezalete ek olarak mediamarkt'ın ekşisözlük yardım hesabı da olaylara eklenmiş durumda. <br/><br/>ilk rezaleti şöyle bir özet geçeyim. ocak 2016 ayında mediamarkt konya şubesinden bir adet lg g3 telefon aldım. 200 tl fazla para ödeyerek lg türkiye garantili olsun ki telefon arıza marıza verirse güvenilir bir şekilde hakkımı alabileyim istedim. bu kapsamda piyasa fiyatının (o gün itibari ie 1100, bugün itibari ile 950) çok üstünde olan 1399 tl'yi bu telefon için ödedim. <br/><br/>telefon 3 ay sonra aşırı ısınma ve buna bağlı olarak sarı ekran arızası verdi. bu da yasada belirtilen süreden önce fabrikasyon ve kronik bir arıza olduğu için telefonu <a class="b" href="/?q=ay%c4%b1pl%c4%b1+mal">ayıplı mal</a> kapsamına sokuyor. her neyse, bu <a class="b" href="/?q=ay%c4%b1pl%c4%b1+mal">ayıplı mal</a>ı önce mediamarkt'ın ilgili şubesine götürdüm. ama telefonu kabul etmeyip, "konya'da lg yetkili teknik servisi olduğu için kendiniz servise götürmeniz gerekir" sebebini sundular bana. bu sebebe istinaden ben de telefonu konya'daki yetkili lg servisine verdim. ve telefonu verirken de arıza kağıdına yasal hakkım olarak iade isteğimi yazdım.<br/><br/>özetle geçiyorum; lg iade talebimi reddederek değişim yapabileceğini söyledi. kendilerine yasal hakkım olarak iade isteğimi defalarca belirttim. ama bana "şirketimiz prensip olarak iade yapmıyor, değişim yapıyor" yanıtını verdiler. ben de sözlükte bu konuyla alakalı başlık açtım. <br/><br/>bundan sonrası yeni rezalet kapsamına giriyor;<br/><br/>açtığım başlıktan sonra <a class="b" href="/?q=mediamarkt">mediamarkt</a> ekşi sözlük yardım hesabı benimle iletişime geçti. ilgili şubeye haber verdiklerini ve 2-3 gün içerisinde bana dönüş yapacaklarını ve sorunumu çözeceklerini belirttiler. o günden sonra 1 hafta geçti ama hala dönüş yapılmadı. yani <a class="b" href="/?q=mediamarkt">mediamarkt</a> sözlük nezdinde kendini aklamak için ağzıma bir parça bal çalmak istedi ama sonrasında yazdığım entry yeteri kadar ilgi görmediği için bu niyetinden vazgeçti. <br/><br/>mediamarkt'tan iş çıkmayacağını anladım ve tekrardan lg ile iletişime geçtim. kendilerine hem telefonla hem de mail ile "hangi şirket prensibinizin, türkiye cumhuriyeti yasalarından daha üstün olduğunu anlatan bir yazı istiyorum. telefon değişimi istemiyorum; sadece yazılı bir açıklama bekliyorum ki bu yazılı metin ile tüketici mahkemesine ve daha üst mahkemelere gidebileyim" dedim. telefonda sözlü bir açıklamadan kaçınarak "mail atın, iki gün içinde dönüş yapılacaktır" dediler. 3 adet mail attığım halde bir yanıt gelmedi. bütün bunlar telefon kayıtlarında ve mail kayıtlarında var. <br/><br/>yani üretici firma lg, kanunda açıkça belirtileni çiğniyor ve mağdur olan müşterinin talebini yerine getirmiyor kendi şirket politikalarını türkiye cumhuriyeti yasalarından üstün görüyor. <br/><br/>satıcı firma <a class="b" href="/?q=mediamarkt">mediamarkt</a>, entry debe olabilir korkusu ile ilk önce müşteri lehine bir adım atıyor; ama entry debe olmayınca o da mağdur olan müşteriyi hiçe sayıyor.<br/><br/>ben tüketiciyi koruma kanununu hiçe sayanlara piyasanın üzerinde para ödeyerek bir telefon aldım. bir daha böyle bir şeyi yapmam. siz de google araması ve sözlük sayesinde bu entry'e ulaşıp kimlerden alışveriş yapıp yapmayacağınız hakkında bir fikir sahibi olursunuz umarım.<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/entry/60348191">#60348191</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: öncelikle benim gibi sorunlar yaşamış insanların artık bu firmaların haksızlıklarına isyanı manasına gelen bir debe'dir bu. <br/>defalarca bana "neden mahkemeye gitmek yerine entry yazıyorsun?" soruları geliyor. elbette mahkemeye gideceğim bugün. 20 iş günü olan yasal sürenin dolmasını bekledim bugüne kadar. entry yazıyorum çünkü paralı trollere inanıp paranızı bazı firmalara kaptırmayın. boş yere başınızı ağrıtmayın istiyorum. gerçekleri, gerçek müşteri mesajlarını, sorunlarını görün istiyorum. 1400 tl bugün bir asgari ücretten daha yüksek bir para. bir maaşınızı bir ürüne verirken kimlerle, nelerle uğraşacağınızı bilin istiyorum.<br/><br/>daha önce benim sorunuma çok benzer bir sorunu yaşamış bir yazar arkadaşım bana ulaştı. ona da aynı muameleyi yapmışlar. hukuksuz teklifler sunmuşlar ama o yazar arkadaşımda benim gibi hukuksuzluğa boyun eğmeyip mücadele etmiş, tam 1,5 yıl sonra da haklılığını ispatlayarak parasını iade almış. o yazar arkadaşım sağolsun bana da emsal olacak ve bende kendisi gibi hukuksuzlukla mücadele edeceğim. belki 1,5 yıl belki 15 yıl sürecek ama haksızlıkla mücadele etmekten vazgeçmeyeceğim. davanın sonuna kadar gidip, gerçekleri de yine sosyal medya aracılığı ile paylaşmaya devam edeceğim.<br/><br/>lg/mediamarkt savunucuları tarafından ortaya atılan bir başka savunma ise; "kanuna göre eğer ürünün özelliklerinde yazanın dışında bir durum var ise o zaman ayıplı mal olarak değerlenir" ifadesidir.<br/><br/>evet ürünün özelliklerinden farklı bir durum ve kullanıma, üründen beklenen faydaya engel bir durum var. aynı yasa bize diyor ki; ilk 6 ay içerisinde farkedilen bir durumdan da bahsediyor. bu ilk 6 ay içerisinde oluşan farklılık ilk gün gibi değerlenir ve ürünü ayıplı mal yapar diyor. yani ben ürün özelliklerinin yazılı olduğu hiç bir yerde ve satış sözleşmesinde ekranda kocaman bir sarı leke vardır" uyarısını göremedim. gören, duyan varsa da beri gelsin. evet lg/mediamarkt bana ürün özelliklerinde belirtilmeyen ve kullanıma engel teşkil eden sorunu olan bir telefon sattı. ve ben kanuna uygun olarak iade hakkımı istedim. bana "şirket politikamız iadeye müsade etmiyor" demeleri yasaları tanımıyoruz anlamı taşıyor. gelişmiş ülkelerde bırakın ayıplı mal davasını, anayasaya muhalefetten de dava açmam gerekir ama... evet kocaman bir ama... maalesef ülkemizde bazı şeyler "ama" olarak kalıyor. size söz veriyorum; bu sefer "ama" olarak kalmayacak ve diğer yazar arkadaşım gibi sonuna kadar gidip gereken mücadeleyi hukuk nezdinde vereceğim.<br/><br/>bir diğer not ise: avukat olarak kendisini ifade eden arkadaşa soruyorum; kendisininde ifadesi olan, "ürün özelliklerinde yazmayan bir durum var ise ayıplı üründür" bu arkadaş bana ürünle ilgili her hangi bir yerde "ekranın ortasında yazılanları okumaya engel teşkil eden sarı bir leke vardır" yazasını gösterirse ben yazarlığı bırakıyorum. hesabımı siliyorum. kendisi peki yasayı okumayı bilmediği için avukatlığı bırakacak mı?
    
   entry_writer: naletcix
 - entry_name: |
@@ -71,16 +71,16 @@ data:
   entry_id: 60341480
   entry_content: |
     
-    doğururken bile kadınlara rahat olmadığını gösteren başlık. isteniyor ki hep kadınlar acı çeksin.
-    
+    doğururken bile kadınlara rahat olmadığını gösteren başlık. isteniyor ki hep kadınlar acı çeksin..<br/><br/>debe editi: (bkz: <a class="b" href="/entry/60102536">#60102536</a>) bu güzel bebeciğe hep birlikte yardım edelim.
+   
   entry_writer: libby
 - entry_name: |
     ceset görmüş sözlük yazarları
   entry_id: 60350285
   entry_content: |
     
-    99 depreminde gölcükte yüzlerce gördüm.. ama en zoru ablam ve kardeşimin öldüğünü görmekti. diğer hepsini unuttum da onların soğumuş bedenlerini unutamadım.. minicik bedeni upuzun yatırmışlar.. sapsarı ipek saçlarını okşadım kardeşimin, ablamın elini tuttum buz gibi.. morlukları vardı başını çarpmış miniğim.. ablam ezilmiş yaralanmış ağlamış yanaklarında izi.. bir ömre yetecek acıyı bir gecede yaşadım, yaşadık... ruhumun ateşi söndü bir daha da ısınmadı yüreğim...
-    
+    99 depreminde gölcükte yüzlerce gördüm.. ama en zoru ablam ve kardeşimin öldüğünü görmekti. diğer hepsini unuttum da onların soğumuş bedenlerini unutamadım.. minicik bedeni upuzun yatırmışlar.. sapsarı ipek saçlarını okşadım kardeşimin, ablamın elini tuttum buz gibi.. morlukları vardı başını çarpmış miniğim.. ablam ezilmiş yaralanmış ağlamış yanaklarında izi.. bir ömre yetecek acıyı bir gecede yaşadım, yaşadık... ruhumun ateşi söndü bir daha da ısınmadı yüreğim....<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaz%27a+yardim+kampanyasi">23 nisan 2016 devrim yilmaz'a yardim kampanyasi</a>)
+   
   entry_writer: dubrovnick
 - entry_name: |
     bir embriyonun zamanla ismail türüt'e dönüşmesi
@@ -91,11 +91,11 @@ data:
    
   entry_writer: syd
 - entry_name: |
-    5 mayıs 2016 tarçının öldürülmesi
+    5 mayıs 2016 tarçın'ın öldürülmesi
   entry_id: 60339344
   entry_content: |
     
-    ulan orospu çocukları be. o köpeği hep besler severdim ben, ne zaman oraya kahve içsem yanıma gelir kendini sevdirirdi. olaya şahit olsaydım o arabayı gittiği yere kadar kovalardım. anasını siktiğimin evlatları, modayı caddebostan'a çevirdiğiniz yetmemiş gibi, dakka başı sikik sikik tipler, yarak egzoslu arabalar, daracık moda sokaklarında hız yaparak caka satmaya çalışan piçler, hepinizin amına koyayım. siktirin gidin lan modadan, burası size göre değil. siktirin gidin herşeyini siktiğimin çocukları. burası duyarlı insanların yuvası, sizin gibi maymunların değil. amcıklar..<br/><br/>edit : şehit diye zırlayanlar. sizin gibileri çok iyi biliriz, zamanında hasta bir köpeğin sahibini aramak için başında beklediğim sırada moda caddesinde tek büfede oturan 4 5 çomar gelip bana bırak ya köpek değil mi ne bu kadar uğraşıyorsun ölürse ölür ne çok üzüldün deyip 3'ü 4'ü suratıma suratıma gülmüşlerdi. sizin insanlığınız işte bu kadar, duyar kasmaya çalışan sahte hassasiyetli pezevengin çocukları. bu dünyada yaşamayı haketmiyorsunuz, bir canlıyı öbür canlıdan ayırmayacaksınız. sonra da biz müslümanız diye gezersiniz. göt lalelerine bak gelmiş burada orada şehit var bilmem ne diyor. sinirden çıldırmamak elde değil. duyarlı insan görünce nasıl olsa kibar küfür etmeyen ezik tipler sanıyorsunuz da ara sıra sert kayaya çarpar götünüze sokarlar o hassasiyetinizi.<br/><br/>edit 2 : moda'da pek çok köpeğin bakımı ile ilgilenen ve şahsen tanıdığım değerli mine hanımın yazısı :<br/><br/>"modalı’nın sevgilisi, en yaşlı, en hayata bağlı, iştahı, neşesi yerinde tarçınımız; bunca yıl sevildi, korundu, bakıldı ama bu sabah ters yöne hızla giren bir soysuzun kurbanı oldu… görgü tanıklarının verdiği bilgiye göre 2 m. arabanın altında sürüklenmiş, arabayı kaldırarak altından çıkarabilmişler. ve katil basıp gitmiş. hayvanseverler, tarçın’ı kliniğe yetiştirmek isterken son nefesini vermiş…????????<br/>bırakmıycaz bu işin peşini tarçınımız… sen rahat uyu…<br/><br/>arkadaşlar, arkadaşım ılgın sönmez olay olduğundan beri hukuki sürecin peşinde… bir kere bize bildirilen plaka yanlış. ancak ılgın suç duyurusunda bulundu.<br/><br/>olaya şahit olanların da ılgın’ın suç duyurusuna şahit olarak yazılmaları gerekiyor.<br/>elinizde başka bilgi varsa paylaşabilir mi ılgın ya da benimle?"<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hayvanhemsiresi.com/tarcinimi-oldurduler/" title="http://hayvanhemsiresi.com/tarcinimi-oldurduler/">http://hayvanhemsiresi.com/tarcinimi-oldurduler/</a><br/><br/>edit 5 : bana gelen mesajları göstersem sinirden kendinizi sikersiniz. türkiye denen memleketin neden cahil sürüsünden oluştuğunun, neden avruğa birliğine girsek bile asla avrupalı olamayacağımızın, neden asla muasır medeniyet seviyesine çıkamayacağımızın apaçık ispatı olan mesajlar alıyorum her dakika. hırsızlar tarafından ağız burun soyulurken hala "benden çalıyo senden mi çalıyo" diyecek beyin yoksunlarının sözlükte yazıyor olması insana atsınlar şu ülkeye napalm'ı da bitse gitse dedirtmiyor değil.<br/><br/>mesaj 1 : "köpek için bu kadar üzülüyorsun, yarın bir gün çocuğuna çarpsa bu kadar üzülmezsin"<br/>mesaj 2 : "insanlar için üzülmeyen köpekler için üzülmesin "<br/>mesaj 3 : " isviçre'ye falan git burası böyle, işine gelirse "<br/>mesaj 4 : " karı kız sikmek için bu kadar duyar kasmadıysan adam değilim "<br/>mesaj 5 : " alt tarafı itin teki, ne üzüldünüz be kardeş "<br/>mesaj 6 : " çarptıysa çarptı, ne suçu var adamın. sonuçta insana çarpmadı ya, klavye delikanlısı seni "<br/>mesaj 7 : " hepinize iyi oluyor böyle ibneler, bütün sokak hayvanları geberse keşke de sabah akşam gözyaşından kör olsanız, hergün şehit veriyoruz "<br/><br/>ve nicesi. <br/><br/>türkiye bizimse siz gidin, türkiye sizinse biz çıkalım. çünkü ben sizin gibilerle ne bir olurum, ne kardeş, ne hemşeri. <br/><br/>ne diyelim? allah belanızı versin. varsa.
+    ulan orospu çocukları be. o köpeği hep besler severdim ben, ne zaman oraya kahve içsem yanıma gelir kendini sevdirirdi. olaya şahit olsaydım o arabayı gittiği yere kadar kovalardım. anasını siktiğimin evlatları, modayı caddebostan'a çevirdiğiniz yetmemiş gibi, dakka başı sikik sikik tipler, yarak egzoslu arabalar, daracık moda sokaklarında hız yaparak caka satmaya çalışan piçler, hepinizin amına koyayım. siktirin gidin lan modadan, burası size göre değil. siktirin gidin herşeyini siktiğimin çocukları. burası duyarlı insanların yuvası, sizin gibi maymunların değil. amcıklar..<br/><br/>edit : şehit diye zırlayanlar. sizin gibileri çok iyi biliriz, zamanında hasta bir köpeğin sahibini aramak için başında beklediğim sırada moda caddesinde tek büfede oturan 4 5 çomar gelip bana bırak ya köpek değil mi ne bu kadar uğraşıyorsun ölürse ölür ne çok üzüldün deyip 3'ü 4'ü suratıma suratıma gülmüşlerdi. sizin insanlığınız işte bu kadar, duyar kasmaya çalışan sahte hassasiyetli pezevengin çocukları. bu dünyada yaşamayı haketmiyorsunuz, bir canlıyı öbür canlıdan ayırmayacaksınız. sonra da biz müslümanız diye gezersiniz. göt lalelerine bak gelmiş burada orada şehit var bilmem ne diyor. sinirden çıldırmamak elde değil. duyarlı insan görünce nasıl olsa kibar küfür etmeyen ezik tipler sanıyorsunuz da ara sıra sert kayaya çarpar götünüze sokarlar o hassasiyetinizi.<br/><br/>edit 2 : moda'da pek çok köpeğin bakımı ile ilgilenen ve şahsen tanıdığım değerli mine hanımın yazısı :<br/><br/>"modalı’nın sevgilisi, en yaşlı, en hayata bağlı, iştahı, neşesi yerinde tarçınımız; bunca yıl sevildi, korundu, bakıldı ama bu sabah ters yöne hızla giren bir soysuzun kurbanı oldu… görgü tanıklarının verdiği bilgiye göre 2 m. arabanın altında sürüklenmiş, arabayı kaldırarak altından çıkarabilmişler. ve katil basıp gitmiş. hayvanseverler, tarçın’ı kliniğe yetiştirmek isterken son nefesini vermiş…????????<br/>bırakmıycaz bu işin peşini tarçınımız… sen rahat uyu…<br/><br/>arkadaşlar, arkadaşım ılgın sönmez olay olduğundan beri hukuki sürecin peşinde… bir kere bize bildirilen plaka yanlış. ancak ılgın suç duyurusunda bulundu.<br/><br/>olaya şahit olanların da ılgın’ın suç duyurusuna şahit olarak yazılmaları gerekiyor.<br/>elinizde başka bilgi varsa paylaşabilir mi ılgın ya da benimle?"<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://hayvanhemsiresi.com/tarcinimi-oldurduler/" title="http://hayvanhemsiresi.com/tarcinimi-oldurduler/">http://hayvanhemsiresi.com/tarcinimi-oldurduler/</a><br/><br/>edit 5 : bana gelen mesajları göstersem sinirden kendinizi sikersiniz. türkiye denen memleketin neden cahil sürüsünden oluştuğunun, neden avruğa birliğine girsek bile asla avrupalı olamayacağımızın, neden asla muasır medeniyet seviyesine çıkamayacağımızın apaçık ispatı olan mesajlar alıyorum her dakika. hırsızlar tarafından ağız burun soyulurken hala "benden çalıyo senden mi çalıyo" diyecek beyin yoksunlarının sözlükte yazıyor olması insana atsınlar şu ülkeye napalm'ı da bitse gitse dedirtmiyor değil.<br/><br/>mesaj 1 : "köpek için bu kadar üzülüyorsun, yarın bir gün çocuğuna çarpsa bu kadar üzülmezsin"<br/>mesaj 2 : "insanlar için üzülmeyen köpekler için üzülmesin "<br/>mesaj 3 : " isviçre'ye falan git burası böyle, işine gelirse "<br/>mesaj 4 : " karı kız sikmek için bu kadar duyar kasmadıysan adam değilim "<br/>mesaj 5 : " alt tarafı itin teki, ne üzüldünüz be kardeş "<br/>mesaj 6 : " çarptıysa çarptı, ne suçu var adamın. sonuçta insana çarpmadı ya, klavye delikanlısı seni "<br/>mesaj 7 : " hepinize iyi oluyor böyle ibneler, bütün sokak hayvanları geberse keşke de sabah akşam gözyaşından kör olsanız, hergün şehit veriyoruz "<br/><br/>ve nicesi. <br/><br/>türkiye bizimse siz gidin, türkiye sizinse biz çıkalım. çünkü ben sizin gibilerle ne bir olurum, ne kardeş, ne hemşeri. <br/><br/>ne diyelim? allah belanızı versin. varsa.<br/><br/>edit 6 : hadi bakalım, insan ölüyor itler ile uğraşmayın ibneler diyenler. görelim çapınızı! yardım edin.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>bak hele bak gelen mesaja bak editi 7:<br/><br/>" tarçını öldüren o şöför kadar, barınakları geliştirmek yerine köpeklerin sokaklarda ezilmesini isteyen "hayvansever"lerdir. <br/><br/>zeynep nur koşan başlığı bu kadar ilgi çekmemiş. utanıyorum sizden. kendinizi medeni sanıyorsunuz. modalıların %90'ı sokak köpeklerini istemiyor ama siz linç edersiniz diye sesini çıkartamıyor.<br/><br/>mümkünse gidin.<br/><br/>sokak köpeğini medeniyet sanıyorsunuz ya medeni ülkelere gidin, afrika'ya filan.<br/><br/>ha ayrıca o şöföre dava açana ben dava açacağım. tarçın beni ısırdı. sahibi kimse beni taksirle yaraladı. '<br/><br/>nick paylaşip ifşa istemeyin. bana yakışmaz.
    
   entry_writer: kahcob
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 60341488
   entry_content: |
     
-    lan oğlum yapmayın böyle şeyler dediğim tweet. adama daha fazla vurmayın.  <br/><br/>tamam yarıyor ama insanı üzmüyor değil tabi. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/euronews/status/728185278821715968" title="https://twitter.com/euronews/status/728185278821715968">https://twitter.com/…news/status/728185278821715968</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/LJF5HNH.png" title="http://i.imgur.com/LJF5HNH.png">http://i.imgur.com/ljf5hnh.png</a><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/ChsR-ATWUAAMFd_.jpg" title="https://pbs.twimg.com/media/ChsR-ATWUAAMFd_.jpg">https://pbs.twimg.com/media/chsr-atwuaamfd_.jpg</a><br/><br/>edit: an itibariyle tweet'i uçurmuşlar ama yukarıda da gördüğünüz üzere aldık ekran görüntüsünü.<br/><br/>edit2: göremeyenler buradan görebilir. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.diken.com.tr/euronews-davutoglu-icin-is-ilani-verdi-basbakana-ihtiyaci-olan-ulke-var-mi/" title="http://www.diken.com.tr/euronews-davutoglu-icin-is-ilani-verdi-basbakana-ihtiyaci-olan-ulke-var-mi/">http://www.diken.com.tr/…ihtiyaci-olan-ulke-var-mi/</a>
+    lan oğlum yapmayın böyle şeyler dediğim tweet. adama daha fazla vurmayın.  <br/><br/>tamam yarıyor ama insanı üzmüyor değil tabi. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/euronews/status/728185278821715968" title="https://twitter.com/euronews/status/728185278821715968">https://twitter.com/…news/status/728185278821715968</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.imgur.com/LJF5HNH.png" title="http://i.imgur.com/LJF5HNH.png">http://i.imgur.com/ljf5hnh.png</a><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/ChsR-ATWUAAMFd_.jpg" title="https://pbs.twimg.com/media/ChsR-ATWUAAMFd_.jpg">https://pbs.twimg.com/media/chsr-atwuaamfd_.jpg</a><br/><br/>edit: an itibariyle tweet'i uçurmuşlar ama yukarıda da gördüğünüz üzere aldık ekran görüntüsünü.<br/><br/>edit2: göremeyenler buradan görebilir. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.diken.com.tr/euronews-davutoglu-icin-is-ilani-verdi-basbakana-ihtiyaci-olan-ulke-var-mi/" title="http://www.diken.com.tr/euronews-davutoglu-icin-is-ilani-verdi-basbakana-ihtiyaci-olan-ulke-var-mi/">http://www.diken.com.tr/…ihtiyaci-olan-ulke-var-mi/</a><br/><br/>edit3: 1.5 yaşındaki <a class="b" href="/?q=devrim+y%c4%b1lmaz">devrim yılmaz</a>'a yardım kampanyasını da es geçmeyelim. <br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: habemus kakam
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 60352056
   entry_content: |
     
-    gündem manyağı olmaktan ileri gelir..<br/><br/>bir de,<br/><br/>son seçimde %65 akp oyu var. 2. parti mhp. yani mordor'dan hallice. adamlara yapılan eziyeti eleştirmeye kalksan suçlu ilan edilirsin. en iyisi hiç bulaşmamak.
+    gündem manyağı olmaktan ileri gelir..<br/><br/>bir de,<br/><br/>son seçimde %65 akp oyu var. 2. parti mhp. yani mordor'dan hallice. adamlara yapılan eziyeti eleştirmeye kalksan suçlu ilan edilirsin. en iyisi hiç bulaşmamak.<br/><br/>edit: <a class="b" href="/?q=beyruta+gidelim+mi">beyruta gidelim mi</a> bey şunu paylaşmamı istedi: <br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: demorgane
 - entry_name: |
@@ -138,14 +138,6 @@ data:
     casusluk gibi bir amacınız yoksa eğer pek de bir ehemmiyet içermez.
     
   entry_writer: alaskardan
-- entry_name: |
-    galatasaray'ın derbiye 5 eksikle çıkması
-  entry_id: 60341573
-  entry_content: |
-    
-    eskiden başlık açmanın bir adabı vardı. güncel başlıksa tarih atılır, not düşülürdü. aslında bu tip tırt mevzular da genelde ilgili başlık altında tartışılırdı.  <br/>eh yönetim bu ekşi forum tarzından memnunsa bize de goygoya katılmak düşer:<br/><br/>maça 6 kişi mi çıkacaklarmış topraaaaaammmm?!
-   
-  entry_writer: mazut
 - entry_name: |
     başbakan'ın kendi kararı
   entry_id: 60340119
@@ -191,7 +183,7 @@ data:
   entry_id: 60341641
   entry_content: |
     
-    facebook'taki bir paylaşımı::<br/>"erkekte dekolte cüzdandır. ne kadar açarsan o kadar talep görürsün".<br/><br/>kadına bakışı ortalama bir ekşici seviyesindeki bu herifin uzmalığı da 'kadın doğum'. bence doktor seçerken dikkatli olmakta fayda var.
+    facebook'taki bir paylaşımı::<br/>"erkekte dekolte cüzdandır. ne kadar açarsan o kadar talep görürsün".<br/><br/>kadına bakışı ortalama bir ekşici seviyesindeki bu .....in uzmalığı da 'kadın doğum'. bence doktor seçerken dikkatli olmakta fayda var.<br/><br/>edit: ekşi destek, hukuka uygunluk falan. evet, hukuk. ben de şaşırdım.<br/>debedit: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>. olduralım şunu gençler.<br/><br/>ve elbette <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=JHDMBGc7efI" title="https://www.youtube.com/watch?v=JHDMBGc7efI">unutmuyoruz, affetmiyoruz</a>.
    
   entry_writer: kaoss
 - entry_name: |
@@ -199,7 +191,7 @@ data:
   entry_id: 60338330
   entry_content: |
     
-    "istanbul'un en tehlikeli semti" diye başlık açıp;;<br/>"nişantaşı değildir." diye tanım yapmak nasıl bir zeka göstergesidir anlamak mümkün değil. madem başlığı olumlu bir cümle olarak açtın altını da ona uygun doldur. ya da başlığı "istanbulun en tehlikeli olmayan semti" diyerek aç.<br/>tamam sakinim.
+    "istanbul'un en tehlikeli semti" diye başlık açıp;;<br/>"nişantaşı değildir." diye tanım yapmak nasıl bir zeka göstergesidir anlamak mümkün değil. madem başlığı olumlu bir cümle olarak açtın altını da ona uygun doldur. ya da başlığı "istanbulun en tehlikeli olmayan semti" diyerek aç.<br/>tamam sakinim.<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: redhotch
 - entry_name: |
@@ -207,8 +199,8 @@ data:
   entry_id: 60334201
   entry_content: |
     
-    şehirlerine bombalar yağarken başkanlık dışında başka hiçbi şeyi umursamayan adamın ülkesinde yaşanmıştır, yaşanmaya da devam edecektir.
-    
+    şehirlerine bombalar yağarken başkanlık dışında başka hiçbi şeyi umursamayan adamın ülkesinde yaşanmıştır, yaşanmaya da devam edecektir..<br/>debe editi : (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=hamza%27n%c4%b1n+protezi+i%c3%a7in+25+bin+gerekiyor">hamza'nın protezi için 25 bin gerekiyor</a>)
+   
   entry_writer: mehmet okur un mavi beyaz moru
 - entry_name: |
     kadını doğru yönetmenin 15 altın kuralı
@@ -223,7 +215,7 @@ data:
   entry_id: 60347989
   entry_content: |
     
-    eğer türkiye sınırları içinde kalır ve devlet şehre giribilecek durumda olursa yine akp olacaktır.  <br/><br/>soma'ya nispet yapıp en az %66 vermeliler. istikrar devam. milli irade falan hüloooo.
+    eğer türkiye sınırları içinde kalır ve devlet şehre giribilecek durumda olursa yine akp olacaktır.  <br/><br/>soma'ya nispet yapıp en az %66 vermeliler. istikrar devam. milli irade falan hüloooo.<br/><br/>debe edit : acun abi melabaa. ankara'da bomba patladığı gün survivor yayınladın, sayende ülkenin 1/4'ünün haberi olmadı. umarım hepiniz o kadar zengin olursunuz ki çocuklarınız sınırsız uyuşturucu temin edebilir, polis arabalarına çarpıp sevgililerinin falan kafalarını keserler. arda'ya selam. kıps.
    
   entry_writer: lexicographer
 - entry_name: |
@@ -231,8 +223,8 @@ data:
   entry_id: 60351429
   entry_content: |
     
-    "atanması" halinde türkiye'nin ilk siyahi başbakanı olacaktır.
-    
+    "atanması" halinde türkiye'nin ilk siyahi başbakanı olacaktır..<br/><br/>debe: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: gundogdu biz uyandik
 - entry_name: |
     muhteşem onbeşyıl tayyip
@@ -255,8 +247,8 @@ data:
   entry_id: 60337268
   entry_content: |
     
-    2002'de tek başına iktidara gelen akp, haydutluğa 2010'lu yıllarda başlayabildiyse yegane sebebi. çok büyük adammış.
-    
+    2002'de tek başına iktidara gelen akp, haydutluğa 2010'lu yıllarda başlayabildiyse yegane sebebi. çok büyük adammış..<br/><br/>debe edit: şöyle bir şey varmış arkadaşlar, el atalım. <a class="b" href="/entry/60102536">#60102536</a>
+   
   entry_writer: when dream and day unite
 - entry_name: |
     erkeklerin zeki kadın sevmemesi
@@ -279,7 +271,7 @@ data:
   entry_id: 60350864
   entry_content: |
     
-    aynı tarihlerde türkiye'de bilimin gündeminde, bir kavanoz başları çekmektedir..<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6t%c3%bc+s%c3%b6z+s%c3%b6yletilen+kavanoz">kötü söz söyletilen kavanoz</a>)
+    aynı tarihlerde türkiye'de bilimin gündeminde, bir kavanoz başları çekmektedir..<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6t%c3%bc+s%c3%b6z+s%c3%b6yletilen+kavanoz">kötü söz söyletilen kavanoz</a>)<br/><br/>debedit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: bibidibabidibu
 - entry_name: |
@@ -295,7 +287,7 @@ data:
   entry_id: 60334956
   entry_content: |
     
-    bir mhp'li arkadaştan::<br/><br/>"adam %50 ile istifa etti. bizimki %10 ile hala yerimde duracam diye debeleniyor"
+    bir mhp'li arkadaştan::<br/><br/>"adam %50 ile istifa etti. bizimki %10 ile hala yerimde duracam diye debeleniyor"<br/><br/>debe edit: bu yoğun gündem arasında devrim'i unuttuk gençler. (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: yazar olsan ne yazar olmasan ne yazar
 - entry_name: |
@@ -303,7 +295,7 @@ data:
   entry_id: 60338315
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sincap+sen+misin">sincap sen misin</a>)
+    (bkz:  <a class="b" href="/?q=sincap+sen+misin">sincap sen misin</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: styraxus
 - entry_name: |
@@ -327,8 +319,8 @@ data:
   entry_id: 60342302
   entry_content: |
     
-    "demokrasi adına davutoğlu'nu savunmak da bize düşmüştür" diyerek gülümsetmiştir.
-    
+    "demokrasi adına davutoğlu'nu savunmak da bize düşmüştür" diyerek gülümsetmiştir..<br/><br/>gülümsemeler arasında unutulmasın, devrimle gülelim. <br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: morfar
 - entry_name: |
     5 mayıs 2016 nihat genç köşe yazısı
@@ -343,7 +335,7 @@ data:
   entry_id: 60339768
   entry_content: |
     
-    birlikte oldugu insanlar icin "orospuyu sahiplenmeye kalkarsan gavatlığını da bileceksin" seklinde tabirler/cumleler sarfeden bazilari tabi umursamadan gerceklestirecegi eylem. sen seninle birlikte olana orospu diyorsan,  <sup class="ab"><a title="(bkz: bokafedersin)" href="/?q=bokafedersin" data-query="bokafedersin">*</a></sup>tartismasiz <a class="b" href="/?q=pust">pust</a>sundur, sevgilisi olana "yazmana" da sasirmamali. <br/>ek kisisel yorum: yattigim ya da yatmak istedigim hic bir adama pust, orospu cocugu, pezevenk, vb pis sifatlar kullanmadim. nasil bu kadar dusuk seviyede yasayabiliyorsunuz cok merak ediyorum.
+    birlikte oldugu insanlar icin "orospuyu sahiplenmeye kalkarsan gavatlığını da bileceksin" seklinde tabirler/cumleler sarfeden bazilari tabi umursamadan gerceklestirecegi eylem. sen seninle birlikte olana orospu diyorsan,  <sup class="ab"><a title="(bkz: bokafedersin)" href="/?q=bokafedersin" data-query="bokafedersin">*</a></sup>tartismasiz <a class="b" href="/?q=pust">pust</a>sundur, sevgilisi olana "yazmana" da sasirmamali. <br/>ek kisisel yorum: yattigim ya da yatmak istedigim hic bir adama pust, orospu cocugu, pezevenk, vb pis sifatlar kullanmadim. nasil bu kadar dusuk seviyede yasayabiliyorsunuz cok merak ediyorum.<br/><br/>debe editi: hatirlatmis olalim (bkz: <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60102536" title="https://eksisozluk.com/entry/60102536">#60102536</a>)
    
   entry_writer: galwaygirl
 - entry_name: |
@@ -351,16 +343,16 @@ data:
   entry_id: 60341068
   entry_content: |
     
-    biat kültürü üzerine ciltlerce kitaplar yazılırken, tek bir cümlede bu kültürü açıklayabilen bir profesörün bize son dersidir. akademik olarak verdiği katkıdan ötürü tebrik etmek gerekir.
-    
+    biat kültürü üzerine ciltlerce kitaplar yazılırken, tek bir cümlede bu kültürü açıklayabilen bir profesörün bize son dersidir. akademik olarak verdiği katkıdan ötürü tebrik etmek gerekir..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: subliminal mesaj
 - entry_name: |
     6 mayıs 2016 tsk'nın suriye'ye girmesi
   entry_id: 60353180
   entry_content: |
     
-    hava desteği olmadan imkansızdır. sınırın 50 (elli) metre ötesine jetlerimiz geçemediğine göre baya baya zordur. hiç bir sikim bilmeyen biri olarak, bir kaç ay önce "insani yardım adına" giden kamyonlar nasıl vurulup cayır cayır yandıysa, o sınırdan içeri giren ne varsa öyle yakılır. evet bir beynim var düşünüyorum, balık hafızalı da değilim. vatan haini olarak linç edebilirsiniz, sikimde bile değil.
-    
+    hava desteği olmadan imkansızdır. sınırın 50 (elli) metre ötesine jetlerimiz geçemediğine göre baya baya zordur. hiç bir sikim bilmeyen biri olarak, bir kaç ay önce "insani yardım adına" giden kamyonlar nasıl vurulup cayır cayır yandıysa, o sınırdan içeri giren ne varsa öyle yakılır. evet bir beynim var düşünüyorum, balık hafızalı da değilim. vatan haini olarak linç edebilirsiniz, umurumda bile değil..<br/><br/>edit: imla.
+   
   entry_writer: sabah ereksiyonu olmus at pipisi
 - entry_name: |
     bir erkeğin en savunmasız olduğu an
@@ -383,7 +375,7 @@ data:
   entry_id: 60336877
   entry_content: |
     
-    kıyaslandığı kişi görevi bırakmıyor, görevden alınıyor dolaylı olarak.  <br/><br/>bu adama gömün ama sırf gömmek için salak salak konuşmayın.
+    kıyaslandığı kişi görevi bırakmıyor, görevden alınıyor dolaylı olarak.  <br/><br/>bu adama gömün ama sırf gömmek için salak salak konuşmayın.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: jameskeenan
 - entry_name: |
@@ -391,15 +383,15 @@ data:
   entry_id: 60334447
   entry_content: |
     
-    darbe girişimi bile değil buz gibi darbedir. anayasaya göre tarafsız olması gereken cumhurbaşkanının bir partinin iç işlerine karışarak %50 oy almış başbakanı düşürmesidir.
-    
+    darbe girişimi bile değil buz gibi darbedir. anayasaya göre tarafsız olması gereken cumhurbaşkanının bir partinin iç işlerine karışarak %50 oy almış başbakanı düşürmesidir..<br/><br/>debe sonrasi edit: konunun diğer yönleri.<br/><br/>- bu akp'nin iç meselesi değildir. sadece hükümete değil anayasaya ve rejime karşı yapılmış bir darbedir aynı zamanda.<br/>- cumhurbaşkanı siyasal partileri dizayn edemez.<br/>- bu olay fiili olarak başkanlık sistemine geçmenin işaretidir.<br/>- partili cumhurbaşkanı fikrini benimsetmeye çalışıyorlar şu sıralar. buna tepkisiz kalmamak gerek.<br/>- anayasayı onlar tanımıyorsa biz onları neden hala tanıyoruz merak ediyorum aslında. saf mıyız neyiz? yok mu hiç hakkımız hukukumuz?
+   
   entry_writer: zebra ureticisi
 - entry_name: |
     mario gomez
   entry_id: 60335733
   entry_content: |
     
-    davutoğlu, ışid, vizeler, ensar, dolar, hes, üçüncü köprü, survivor... sabah uyandım dudağımda uçuk çıkmış. sonra bir düşündüm gomez'i, aldıma elime kahvemi, açtım pencereyi, keyfim yerine geldi..<br/><br/>gitme zalım alaman oğlan. bizi bunlarla tek başına koyma.
+    davutoğlu, ışid, vizeler, ensar, dolar, hes, üçüncü köprü, survivor... sabah uyandım dudağımda uçuk çıkmış. sonra bir düşündüm gomez'i, aldıma elime kahvemi, açtım pencereyi, keyfim yerine geldi..<br/><br/>gitme zalım alaman oğlan. bizi bunlarla tek başına koyma.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>çaylaklara özel: (bkz: <a class="b" href="/entry/60362961">#60362961</a>)
    
   entry_writer: back space future
 ---
