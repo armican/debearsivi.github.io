@@ -7,7 +7,7 @@ data:
   entry_id: 60363028
   entry_content: |
     
-    vizesiz avrupa seyahati vaadini alkışlayan akp'lilerin bu sefer "lanet olsun avrupasına, biz de onlara vize koyarız" yüzsüzlüğüyle taçlanacak cumhurbaşkanı söylemi.  <br/><br/>(bkz: <a class="b" href="/?q=just+another+day+in+tayyipland">just another day in tayyipland</a>)
+    vizesiz avrupa seyahati vaadini alkışlayan akp'lilerin bu sefer "lanet olsun avrupasına, biz de onlara vize koyarız" yüzsüzlüğüyle taçlanacak cumhurbaşkanı söylemi.  <br/><br/>(bkz: <a class="b" href="/?q=just+another+day+in+tayyipland">just another day in tayyipland</a>)<br/><br/>+ yardım edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: nevermindcrime
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 60363969
   entry_content: |
     
-    adliye çıkışında 3 el ateş açılmış..<br/>çok şükür can dündar'a birşey olmamış.<br/><br/>saldıran kişi "vatan haini" diye bağırmış.<br/><br/>ntv muhabiri yağız şenkal yaralanmış.<br/><br/>can dündar'ın açıklaması:<a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video_haber/528911/Silahli_saldiridan_ilk_goruntuler..._Can_Dundar_dan_aciklama.html" title="http://www.cumhuriyet.com.tr/video/video_haber/528911/Silahli_saldiridan_ilk_goruntuler..._Can_Dundar_dan_aciklama.html">cumhuriyet</a><br/>"gayet iyiyim. türkiye burası. saldırganın kim olduğunu bilmiyoruz. sadece kimlerin bizi hedef haliine getirdiğini biliyoruz"<br/><br/>yazarın notu:geçmiş olsun can dündar.herkes biliyor ki; susturamayacaklar!!
+    adliye çıkışında 3 el ateş açılmış..<br/>çok şükür can dündar'a birşey olmamış.<br/><br/>saldıran kişi "vatan haini" diye bağırmış.<br/><br/>ntv muhabiri yağız şenkal yaralanmış.<br/><br/>can dündar'ın açıklaması:<a rel="nofollow" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video_haber/528911/Silahli_saldiridan_ilk_goruntuler..._Can_Dundar_dan_aciklama.html" title="http://www.cumhuriyet.com.tr/video/video_haber/528911/Silahli_saldiridan_ilk_goruntuler..._Can_Dundar_dan_aciklama.html">cumhuriyet</a><br/>"gayet iyiyim. türkiye burası. saldırganın kim olduğunu bilmiyoruz. sadece kimlerin bizi hedef haliine getirdiğini biliyoruz"<br/><br/>yazarın notu:geçmiş olsun can dündar.herkes biliyor ki; susturamayacaklar!!<br/>insanlara faydamız olsun: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: viski raki sarap bira
 - entry_name: |
@@ -55,8 +55,8 @@ data:
   entry_id: 60358430
   entry_content: |
     
-    ülkede bir gün de şu adamın egosu, kaprisi, hırsı gündem olmadan geçsin. pazarda her gördüğünü isteyen çocuk gibi yahu. götümüzde ayı bağırıyor adamın derdi ne ya...
-    
+    ülkede bir gün de şu adamın egosu, kaprisi, hırsı gündem olmadan geçsin. pazarda her gördüğünü isteyen çocuk gibi yahu. götümüzde ayı bağırıyor adamın derdi ne ya....<br/><br/>böyle de bir şey varmış:<br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: ceka
 - entry_name: |
     6 mayıs 2016 yargıtay'ın mhp kararı
@@ -71,15 +71,15 @@ data:
   entry_id: 60361671
   entry_content: |
     
-    o bile emanet durmuştur.
-    
+    o bile emanet durmuştur..<br/><br/>debe edit;<br/><a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
+   
   entry_writer: suskungeveze
 - entry_name: |
-    bu hafta bile galatasaray'ı desteklemeyen fenerli
+    galatasaray'ı desteklemeyen fenerli
   entry_id: 60358702
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=bu+hafta+ne+amk">bu hafta ne amk</a>)<br/>(bkz: <a class="b" href="/?q=te%c5%9fekk%c3%bcrler+sedat+bunlar+senin+eserin">teşekkürler sedat bunlar senin eserin</a>)<br/><br/>bundan 5 sene sonra şunu okuyacak insanların ne çıkaracağı belli olmayan başlık.
+    (bkz:  <a class="b" href="/?q=bu+hafta+ne+amk">bu hafta ne amk</a>)<br/>(bkz: <a class="b" href="/?q=te%c5%9fekk%c3%bcrler+sedat+bunlar+senin+eserin">teşekkürler sedat bunlar senin eserin</a>)<br/><br/>bundan 5 sene sonra şunu okuyacak insanların ne çıkaracağı belli olmayan başlık.<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>edit 2: orijinal başlık "bu hafta bile galatasaray'ı desteklemeyen fenerli" idi.
    
   entry_writer: the kid
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 60357046
   entry_content: |
     
-    aldığım son duyumlara göre tanrı bu karara varmış. artık kitap göndermeyecekmiş..<br/><br/>demiş ki "ulan kitap göndermediğimiz yerler daha huzurlu yaşıyor. ortadoğuya o kadar kitap gönderdik. değişen bi bok yok, hatta daha kötü oldu her şey. kaş yapacaz derken göz çıkardık afedersiniz. yok size kitap mitap. hani kendiniz yapıyosunuz, demokrasi mi ne diyorsunuz. işte ondan uygulayın. benim gönderdiğim kitapları yanlış anlıyorsunuz, sonra ayetleri değiştiriyorsunuz. her şey daha kötü oluyor."
+    aldığım son duyumlara göre tanrı bu karara varmış. artık kitap göndermeyecekmiş..<br/><br/>demiş ki "ulan kitap göndermediğimiz yerler daha huzurlu yaşıyor. ortadoğuya o kadar kitap gönderdik. değişen bi bok yok, hatta daha kötü oldu her şey. kaş yapacaz derken göz çıkardık afedersiniz. yok size kitap mitap. hani kendiniz yapıyosunuz, demokrasi mi ne diyorsunuz. işte ondan uygulayın. benim gönderdiğim kitapları yanlış anlıyorsunuz, sonra ayetleri değiştiriyorsunuz. her şey daha kötü oluyor."<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: nickini degistiren yazar
 - entry_name: |
@@ -95,7 +95,7 @@ data:
   entry_id: 60364990
   entry_content: |
     
-    kocasına suikast düzenleyen herifin, elinde silah olduğu halde yakasına öyle bir yapışmış ki... kadın olmak bu işte!!<br/><br/>saldırı görüntülerini veriyorlar da, can dündar muhabirin arkasına saklanırken, dilek dündar silahın önüne geçip etkisiz hale getirmeye çalışmıştır.<br/><br/>seven kadın. üstelik gözükara.
+    kocasına suikast düzenleyen herifin, elinde silah olduğu halde yakasına öyle bir yapışmış ki... kadın olmak bu işte!!<br/><br/>saldırı görüntülerini veriyorlar da, can dündar muhabirin arkasına saklanırken, dilek dündar silahın önüne geçip etkisiz hale getirmeye çalışmıştır.<br/><br/>seven kadın. üstelik gözükara.<br/><br/>madem bu zotirik yazım debeye girdi:<br/><br/>#kilisesesver<br/><br/>gelen mesaj üzerine aşağıdaki entry'de konu edilen yardım kampanyasına da destek:<br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: ozenti filozof
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 60359943
   entry_content: |
     
-     <a class="b" href="/?q=%c3%a7a%c4%9f%c4%b1n+dinamikleri">çağın dinamikleri</a>ni, ülkesinin bir şehrinin götüne hergün füze yemek olduğunu sanan <a class="b" href="/?q=yetmez+ama+evet%c3%a7i">yetmez ama evetçi</a> orospu çocuğu <a class="b" href="/?q=liberal">liberal</a>lerce savunulur.
+     <a class="b" href="/?q=%c3%a7a%c4%9f%c4%b1n+dinamikleri">çağın dinamikleri</a>ni, ülkesinin bir şehrinin götüne hergün füze yemek olduğunu sanan <a class="b" href="/?q=yetmez+ama+evet%c3%a7i">yetmez ama evetçi</a> orospu çocuğu <a class="b" href="/?q=liberal">liberal</a>lerce savunulur.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: tachibana
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 60363419
   entry_content: |
     
-    kaldirimindan yayalarin ustune surerek gitmeleri. isine gelince ben motorlu tasitim bana saygi gosterin, isine gelince kaldirima cik insanlarin uzerine surup korna calarak dat dat dat diye git.  <br/><br/>motorlu tasitsan kaldirimda isin ne orospunun evladi??
+    kaldirimdan yayalarin ustune surerek gitmeleri. isine gelince ben motorlu tasitim bana saygi gosterin, isine gelince kaldirima cik insanlarin uzerine surup korna calarak dat dat dat diye git.  <br/><br/>motorlu tasitsan kaldirimda isin ne orospunun evladi??
    
   entry_writer: style
 - entry_name: |
@@ -239,15 +239,15 @@ data:
   entry_id: 60354955
   entry_content: |
     
-    başımıza sardığı 6 şampiyonluk, 1 uefa kupası belası vardır.
-    
+    başımıza sardığı 6 şampiyonluk, 1 uefa kupası belası vardır..<br/><br/>debe editi: <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: susuz koye hamam
 - entry_name: |
     6 mayıs 2016 can dündar'a 5 yıl 10 ay hapis cezası
   entry_id: 60366884
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=can+d%c3%bcndar+a%c4%9f%c4%b1r+bedel+%c3%b6deyecek+%c3%b6yle+b%c4%b1rakmam+onu">can dündar ağır bedel ödeyecek öyle bırakmam onu</a>)
+    (bkz:  <a class="b" href="/?q=can+d%c3%bcndar+a%c4%9f%c4%b1r+bedel+%c3%b6deyecek+%c3%b6yle+b%c4%b1rakmam+onu">can dündar ağır bedel ödeyecek öyle bırakmam onu</a>)<br/><br/>yardım editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: arda selanik
 - entry_name: |
@@ -287,7 +287,7 @@ data:
   entry_id: 60355769
   entry_content: |
     
-    tübitak'ın tasfiye edildiği ve kalitesiz insanlara tübitakta makam verildiği bir hakikat. ancak işin aslını öğrenmeden bu saçma sapan deneyin bütün sorumluluğunu da tübitaka yıkma taraftarı değilim..<br/><br/>anladığım kadarıyla tübitak, okullarda 5-12 sınıflar arası çocukların fen ve teknoloji, fizik, kimya biyoloji dersi öğretmenlerine (belki diğer branşlar da vardır bilemiyorum) bilim fuarı açma yetkisi ve üzerine finansal destek hakkı vermiş: <a rel="nofollow" class="url" target="_blank" href="http://bilimiz.tubitak.gov.tr/bilimFuari.htm" title="http://bilimiz.tubitak.gov.tr/bilimFuari.htm">http://bilimiz.tubitak.gov.tr/bilimfuari.htm</a><br/><br/>türkiye genelinde de 4007 okul bilim fuarı/bilim şenliği ilan etmişler bu destek sayesinde. bu konuda tübitak'ı destekliyorum ve takdir ediyorum: <a rel="nofollow" class="url" target="_blank" href="https://www.tubitak.gov.tr/tr/haber/tubitak-4007-bilim-senligi-cagrisi-acildi" title="https://www.tubitak.gov.tr/tr/haber/tubitak-4007-bilim-senligi-cagrisi-acildi">https://www.tubitak.gov.tr/…-senligi-cagrisi-acildi</a> <br/><br/>ancak;<br/><br/>1- eğer bilim şenliğini okulunda açan öğretmenler sergileyecekleri bilimsel projeleri ve deneyleri tübitak'a onaylatmak zorunda iseler ve onaylatmışlarsa tübitak'ın böyle bir projeye onay vermiş olması rezalettir.<br/><br/>2- eğer bilim şenliğini okulunda açan öğretmenler projelerini ve deneylerini tübitak'a onaylatmak zorunda değillerse bu deney o okulun fen ve teknoloji ya da biyoloji/fizik/kimya (olayın içinde küflenme var ona biyoloji desek; yukarıda bazı ekşiciler de "kuantum var oğlum siz anlamazsınız" demişler hadi ona da fizik diyelim. tam bilimin hangi dalına giriyor bu amk?) öğretmeninin bilim düşmanlığı/ ideolojik takıntısı/ islamcılığı ya da bir boktan habersiz olması ile açıklanır. ötesinde de öğretmenlere milletin vergisinden para verip de bilim şenliği yapan tübitak'ın bu öğretmenlerin nasıl projeler yaptıklarını denetlemeyişi sorunu var. eğer denetlemediyse tübitak'ın rezaleti var ancak doğrudan değil dolaylı yoldan.<br/><br/>her iki durumda da öncelikli olarak o okuldaki fen öğretmenleri suçlu. çünkü metafiziği bilim diye çocuklara öğreten ve ötesine de geçip metafizik bir olguyu bilim şenliği standına dahil eden onlar. o yüzden o öğretmenlere iki çift lafım var:<br/><br/>öncelikle kavanozun içinde pamuk mudur pirinç midir göremedim her neyse işte onun kötü söz karşısında küflenmesi tam olarak bilimin hangi alanına girmektedir? biyolojiye mi? bazı ekşici einsteinların dediği gibi kuantuma mı? yoksa metafizik denilen <a class="b" href="/?q=narkoz">narkoz</a> türünü "bu kuantum aga siz anlamazsınız" ayağına vatandaşa yutturmaya mı kalkıyorsunuz? böyle kuantum deneyi mi olur? atomaltı parçacıklardan nerede bahsediyor mesela? eğer "kötü sözün ses şiddetindeki bilmem ne atomaltı parçacıklarda kuarkların hareketine şu yönde bir ivme katar bu da küflenmeye neden olan bakterinin nükleik asidine ışık hızında şu şekilde etki eder küflenmeyi hızlandırır gibi (çok saçma oldu) bir nedensellik ve detaylandırma olsaydı hadi kuantum falan filan biz anlamayız derdik de "kuranda yazıyor" şeklinde savunma yapmak ney lan? manyak mısınız sapık mısını oğlum bu mudur gerçek kuantum? kuantumu ne hallere düşürdünüz vay mk. <br/><br/>sevgili yobaz öğretmenlerim. siz prostat ya da meme kanseri olduğunuzda kuranı mı açıp bakıyorsunuz yoksa bize gavur avrupalıların hediyesi olan tıp eğitiminin, bilimsel kanser araştırmalarının peşinde mi koşturuyorsunuz? niye kurana bakıp da billurlarınızı oradan kendi kendinize tedavi etmiyorsunuz oğlum? siz niye böylesiniz lan? fizik, kimya ve matematik üzerinden icat edilmiş cep telefonunun, otomobilin, uçağın neden bilimsel metodla değil de kurana ve sünnete bakarak metafizik metodla alternatiflerini bulmuyorsunuz lan?<br/><br/>"götüm ağrıdığında fizik (gerçek bilim) kullanırım ama çocuklara da metafizik (sahte bilim) öğretirim."<br/><br/>yok öyle yağma<br/><br/>işte bu yüzden iki yüzlüsünüz.<br/><br/>metafizik efsanedir, inançla ilgilidir bu dünya ile ilgili değildir. metafizik ile kendi evinde kim ne istiyorsa onu yapar; sevmesek de saygı duyarız ama kamusal alana milletin vergileri ile sokulduğu zaman da bizim bunu yapanlara embesil, ruh hastası ve iki yüzlü deme hakkımız var. metafiziğin onu kullanıp da siyasi ve ekonomik çıkar elde edenlerin dışında kimseye beş kuruş faydası yok.<br/><br/>laiklik bir sopa olarak kullanıldı diyorlar. evet laiklik çocuklara bu tür bilgiler öğretecek öğretmenlerin kafasına vurmak için kullanılan bir sopadır. gerçek laiklik budur. çünkü bu öğretmene bu devlet bir dünya eğitim verdi yatırım yaptı bir de üzerine maaş ödüyor. sonuç ne? kötü söz kavanozda küflenmeye neden oluyormuş. laiklik böyle adamları normal insana çevirmek için bir sopadır. çünkü bu insanlar ideolojilerini, dogmalarını, naslarını kamusal alana sokmaya çalışıyorlar. sonra da bunu eleştiren, bu durumdan şikayet eden normal insanlara diyorlar ki: "asıl siz ideolojilerinizi kamusal alanlara dayatıyorsunuz". böyle hurafeler yerine normal bilimsel deneylerin, mesela fasulyenin çimlenmesinin falan gösterilmesi gerektiğini düşünen adamlara "bize diyorsunuz ama asıl siz dayatmacısınız, siz laiklikle kafamıza vurmaya çalışıyorsunuz" diyorlar. oğlum o laiklik elbette vuracak senin kafana. senin gibilerin kafasına vurmayacaksa laiklik başka ne işe yarar? laikliğin en temel işlevi bu: kötü söz söylenen kavanozun kuran ayeti referanslı küflenmesini bilimsel deney adı altında aynı toprakları paylaşmak zorunda olduğum insanların çocuklarına öğretenlerin kafasına vurmak. laiklik kul hakkını savunmak için var. siz bunları öğreterek 80 milyonun hakkını yiyorsunuz, milli serveti imam hatiplere hocalara vaizlere benim ve ben gibi milyonların hakkına tecavüz ederek akıtıyorsunuz. örneğin şu olayda bile bana doğrudan zararınız var çünkü sizin eğittikleriniz benim sosyal çevremi orta çağa dönüştürüyor, ülkemi daha yaşanmaz ve daha karanlık yapıyor. fasulyenin çimlenmesi bütün dünya genelinde bilimsel bir deney ama sizin gösterdiğiniz sadece müslüman ülkelerde olabilecek din yüceltme amacıyla haksızca onursuzca aldatarak insanları aptal yerine koyarak yapılmış bir saçmalıktır. oysa it gibi biliyorsunuz asla öyle bir küflenme biçimi olmayacağını. fasulyenin çimlenmesini göstermek ideolojik değil bilimseldir. sizin bu gösterdiğiniz kendinize ait inancınızın teşhirini yaparak manevi mastürbasyon elde etmektir. bu noktada kimin ideolojik anlamda haksız ve ahlaksız olduğuna aklı ve vicdanı olan insanlar zaten akıllarını ve vicdanlarını kullanarak karar vereceklerdir. ve bu kararı kendini kandırmadan, dürüstçe verenler laiklik sopasının kullanılmasının ne kadar gerekli olduğunu da anlayacaklardır muhtemelen.<br/><br/>kamusal alanlar bir toplumun namusudur. o alanları koruyan iki ilke de sekülerizm ile pozitivizimdir. biri vicdanı diğeri aklı özgürleştirir. sekülerizm vicdanın haysiyet kazanmasıdır. pozitivizm aklın doğru sanılan oysa bilimsel metot ile sınanmamış hiçbir dogmanın baskısı altına giremeyeceğini garanti eder. kamusal alanlar üzerinde benim de senin de onun da hakkı olan alanlardır. bu alanlara tecavüz etmek bu alanlarda dogma reklamı yapmak kul hakkı yemektir. kamusal alanlarda kul hakkı yenmesinin önüne geçen yegane ilkeler bunlardır arkadaşlar. bütün islam alemine duyurulur.<br/><br/>bu arada öğrenciler o kadar uğraşmış. <a class="b" href="/?q=t%c3%bcrk%c3%a7e+anlayabilen+kavanoz">türkçe anlayabilen kavanoz</a> icat ettikleri için kutluyorum kendilerini.
+    tübitak'ın tasfiye edildiği ve kalitesiz insanlara tübitakta makam verildiği bir hakikat. ancak işin aslını öğrenmeden bu saçma sapan deneyin bütün sorumluluğunu da tübitaka yıkma taraftarı değilim..<br/><br/>anladığım kadarıyla tübitak, okullarda 5-12 sınıflar arası çocukların fen ve teknoloji, fizik, kimya biyoloji dersi öğretmenlerine (belki diğer branşlar da vardır bilemiyorum) bilim fuarı açma yetkisi ve üzerine finansal destek hakkı vermiş: <a rel="nofollow" class="url" target="_blank" href="http://bilimiz.tubitak.gov.tr/bilimFuari.htm" title="http://bilimiz.tubitak.gov.tr/bilimFuari.htm">http://bilimiz.tubitak.gov.tr/bilimfuari.htm</a><br/><br/>türkiye genelinde de 4007 okul bilim fuarı/bilim şenliği ilan etmişler bu destek sayesinde. bu konuda tübitak'ı destekliyorum ve takdir ediyorum: <a rel="nofollow" class="url" target="_blank" href="https://www.tubitak.gov.tr/tr/haber/tubitak-4007-bilim-senligi-cagrisi-acildi" title="https://www.tubitak.gov.tr/tr/haber/tubitak-4007-bilim-senligi-cagrisi-acildi">https://www.tubitak.gov.tr/…-senligi-cagrisi-acildi</a> <br/><br/>ancak;<br/><br/>1- eğer bilim şenliğini okulunda açan öğretmenler sergileyecekleri bilimsel projeleri ve deneyleri tübitak'a onaylatmak zorunda iseler ve onaylatmışlarsa tübitak'ın böyle bir projeye onay vermiş olması rezalettir.<br/><br/>2- eğer bilim şenliğini okulunda açan öğretmenler projelerini ve deneylerini tübitak'a onaylatmak zorunda değillerse bu deney o okulun fen ve teknoloji ya da biyoloji/fizik/kimya (olayın içinde küflenme var ona biyoloji desek; yukarıda bazı ekşiciler de "kuantum var oğlum siz anlamazsınız" demişler hadi ona da fizik diyelim. tam bilimin hangi dalına giriyor bu amk?) öğretmeninin bilim düşmanlığı/ ideolojik takıntısı/ islamcılığı ya da bir boktan habersiz olması ile açıklanır. ötesinde de öğretmenlere milletin vergisinden para verip de bilim şenliği yapan tübitak'ın bu öğretmenlerin nasıl projeler yaptıklarını denetlemeyişi sorunu var. eğer denetlemediyse tübitak'ın rezaleti var ancak doğrudan değil dolaylı yoldan.<br/><br/>her iki durumda da öncelikli olarak o okuldaki fen öğretmenleri suçlu. çünkü metafiziği bilim diye çocuklara öğreten ve ötesine de geçip metafizik bir olguyu bilim şenliği standına dahil eden onlar. o yüzden o öğretmenlere iki çift lafım var:<br/><br/>öncelikle kavanozun içinde pamuk mudur pirinç midir göremedim her neyse işte onun kötü söz karşısında küflenmesi tam olarak bilimin hangi alanına girmektedir? biyolojiye mi? bazı ekşici einsteinların dediği gibi kuantuma mı? yoksa metafizik denilen <a class="b" href="/?q=narkoz">narkoz</a> türünü "bu kuantum aga siz anlamazsınız" ayağına vatandaşa yutturmaya mı kalkıyorsunuz? böyle kuantum deneyi mi olur? atomaltı parçacıklardan nerede bahsediyor mesela? eğer "kötü sözün ses şiddetindeki bilmem ne atomaltı parçacıklarda kuarkların hareketine şu yönde bir ivme katar bu da küflenmeye neden olan bakterinin nükleik asidine ışık hızında şu şekilde etki eder küflenmeyi hızlandırır gibi (çok saçma oldu) bir nedensellik ve detaylandırma olsaydı hadi kuantum falan filan biz anlamayız derdik de "kuranda yazıyor" şeklinde savunma yapmak ney lan? manyak mısınız sapık mısını oğlum bu mudur gerçek kuantum? kuantumu ne hallere düşürdünüz vay mk. <br/><br/>sevgili yobaz öğretmenlerim. siz prostat ya da meme kanseri olduğunuzda kuranı mı açıp bakıyorsunuz yoksa bize gavur avrupalıların hediyesi olan tıp eğitiminin, bilimsel kanser araştırmalarının peşinde mi koşturuyorsunuz? niye kurana bakıp da billurlarınızı oradan kendi kendinize tedavi etmiyorsunuz oğlum? siz niye böylesiniz lan? fizik, kimya ve matematik üzerinden icat edilmiş cep telefonunun, otomobilin, uçağın neden bilimsel metodla değil de kurana ve sünnete bakarak metafizik metodla alternatiflerini bulmuyorsunuz lan?<br/><br/>"götüm ağrıdığında fizik (gerçek bilim) kullanırım ama çocuklara da metafizik (sahte bilim) öğretirim."<br/><br/>yok öyle yağma<br/><br/>işte bu yüzden iki yüzlüsünüz.<br/><br/>metafizik efsanedir, inançla ilgilidir bu dünya ile ilgili değildir. metafizik ile kendi evinde kim ne istiyorsa onu yapar; sevmesek de saygı duyarız ama kamusal alana milletin vergileri ile sokulduğu zaman da bizim bunu yapanlara embesil, ruh hastası ve iki yüzlü deme hakkımız var. metafiziğin onu kullanıp da siyasi ve ekonomik çıkar elde edenlerin dışında kimseye beş kuruş faydası yok.<br/><br/>laiklik bir sopa olarak kullanıldı diyorlar. evet laiklik çocuklara bu tür bilgiler öğretecek öğretmenlerin kafasına vurmak için kullanılan bir sopadır. gerçek laiklik budur. çünkü bu öğretmene bu devlet bir dünya eğitim verdi yatırım yaptı bir de üzerine maaş ödüyor. sonuç ne? kötü söz kavanozda küflenmeye neden oluyormuş. laiklik böyle adamları normal insana çevirmek için bir sopadır. çünkü bu insanlar ideolojilerini, dogmalarını, naslarını kamusal alana sokmaya çalışıyorlar. sonra da bunu eleştiren, bu durumdan şikayet eden normal insanlara diyorlar ki: "asıl siz ideolojilerinizi kamusal alanlara dayatıyorsunuz". böyle hurafeler yerine normal bilimsel deneylerin, mesela fasulyenin çimlenmesinin falan gösterilmesi gerektiğini düşünen adamlara "bize diyorsunuz ama asıl siz dayatmacısınız, siz laiklikle kafamıza vurmaya çalışıyorsunuz" diyorlar. oğlum o laiklik elbette vuracak senin kafana. senin gibilerin kafasına vurmayacaksa laiklik başka ne işe yarar? laikliğin en temel işlevi bu: kötü söz söylenen kavanozun kuran ayeti referanslı küflenmesini bilimsel deney adı altında aynı toprakları paylaşmak zorunda olduğum insanların çocuklarına öğretenlerin kafasına vurmak. laiklik kul hakkını savunmak için var. siz bunları öğreterek 80 milyonun hakkını yiyorsunuz, milli serveti imam hatiplere hocalara vaizlere benim ve ben gibi milyonların hakkına tecavüz ederek akıtıyorsunuz. örneğin şu olayda bile bana doğrudan zararınız var çünkü sizin eğittikleriniz benim sosyal çevremi orta çağa dönüştürüyor, ülkemi daha yaşanmaz ve daha karanlık yapıyor. fasulyenin çimlenmesi bütün dünya genelinde bilimsel bir deney ama sizin gösterdiğiniz sadece müslüman ülkelerde olabilecek din yüceltme amacıyla haksızca onursuzca aldatarak insanları aptal yerine koyarak yapılmış bir saçmalıktır. oysa it gibi biliyorsunuz asla öyle bir küflenme biçimi olmayacağını. fasulyenin çimlenmesini göstermek ideolojik değil bilimseldir. sizin bu gösterdiğiniz kendinize ait inancınızın teşhirini yaparak manevi mastürbasyon elde etmektir. bu noktada kimin ideolojik anlamda haksız ve ahlaksız olduğuna aklı ve vicdanı olan insanlar zaten akıllarını ve vicdanlarını kullanarak karar vereceklerdir. ve bu kararı kendini kandırmadan, dürüstçe verenler laiklik sopasının kullanılmasının ne kadar gerekli olduğunu da anlayacaklardır muhtemelen.<br/><br/>kamusal alanlar bir toplumun namusudur. o alanları koruyan iki ilke de sekülerizm ile pozitivizimdir. biri vicdanı diğeri aklı özgürleştirir. sekülerizm vicdanın haysiyet kazanmasıdır. pozitivizm aklın doğru sanılan oysa bilimsel metot ile sınanmamış hiçbir dogmanın baskısı altına giremeyeceğini garanti eder. kamusal alanlar üzerinde benim de senin de onun da hakkı olan alanlardır. bu alanlara tecavüz etmek bu alanlarda dogma reklamı yapmak kul hakkı yemektir. kamusal alanlarda kul hakkı yenmesinin önüne geçen yegane ilkeler bunlardır arkadaşlar. bütün islam alemine duyurulur.<br/><br/>bu arada öğrenciler o kadar uğraşmış. <a class="b" href="/?q=t%c3%bcrk%c3%a7e+anlayabilen+kavanoz">türkçe anlayabilen kavanoz</a> icat ettikleri için kutluyorum kendilerini.<br/><br/>edit: (bkz: <a class="b" href="/?q=t%c3%bcbitak%27%c4%b1n+y%c4%b1llara+g%c3%b6re+de%c4%9fi%c5%9fen+bilim+alg%c4%b1s%c4%b1%2f%40elmedico">tübitak'ın yıllara göre değişen bilim algısı/@elmedico</a>)
    
   entry_writer: skocax
 - entry_name: |
@@ -311,7 +311,7 @@ data:
   entry_id: 60371702
   entry_content: |
     
-    biraz evvel fragman'da efecan'ın memiç'i üzdüğünü gördüm. memiçimiz çok kırılmış ağlıyordu. efecan ona sarılıyor ama memiçimiz elini omuzundan atıyordu efecanın... kıyamam sana ya. sana ufacık ses yükseltilince böyle düşecekmisin sen? bu mu survivor?  <br/><br/>öyle kerimoğlu'na sallamak kolay işte. kızcağız gibi tek başına 1 dakika duramazsın sen. önce nihal'le takıldın sonra nihal gidince arkasından salladığın tiplerle yalnız kalmamak için birlikte oldun. yani zayıf bir karatersin bu çok açık artık.
+    biraz evvel fragman'da efecan'ın memiç'i üzdüğünü gördüm. memiçimiz çok kırılmış ağlıyordu. efecan ona sarılıyor ama memiçimiz elini omuzundan atıyordu efecanın... kıyamam sana ya. sana ufacık ses yükseltilince böyle düşecekmisin sen? bu mu survivor?  <br/><br/>öyle kerimoğlu'na sallamak kolay işte. kızcağız gibi tek başına 1 dakika duramazsın sen. önce nihal'le takıldın sonra nihal gidince arkasından salladığın tiplerle yalnız kalmamak için birlikte oldun. yani zayıf bir karatersin bu çok açık artık.<br/><br/>debe edit: öncellikle böyle bir entry'nin debe olması beni hayli şaşırttı. kimseyi üzmek gibi bi düşüncem yok yarışma sonuçta memiç'i de seviyoruz güzel kız, hanım kız ama sağlam duramadı bi çok kişi gibi. onun dışında şöyle bir kampanya varmış bari ona katkımız olsun. <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: mozambik asilliyim
 - entry_name: |
@@ -343,7 +343,7 @@ data:
   entry_id: 60362421
   entry_content: |
     
-    müslümanları derin düşüncelere sevk eden bir gerçek..<br/>hepimizin bildiği gibi bursa şehrimizi canlı bombaya karşı evliyalar korumuştur. nedense bu evliyalar kilisi korumakla pek ilgilenmiyorlar.<br/>bu noktada suçu biraz kilislilerde aramak gerekli diye düşünüyorum.
+    müslümanları derin düşüncelere sevk eden bir gerçek..<br/>hepimizin bildiği gibi bursa şehrimizi canlı bombaya karşı evliyalar korumuştur. nedense bu evliyalar kilisi korumakla pek ilgilenmiyorlar.<br/>bu noktada suçu biraz kilislilerde aramak gerekli diye düşünüyorum.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: dovletbizebokmir
 - entry_name: |
@@ -359,7 +359,7 @@ data:
   entry_id: 60356466
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yapaca%c4%9f%c4%b1n+asfalt%c4%b1+sikeyim+ben+gidiyorum">yapacağın asfaltı sikeyim ben gidiyorum</a>)
+    (bkz:  <a class="b" href="/?q=yapaca%c4%9f%c4%b1n+asfalt%c4%b1+sikeyim+ben+gidiyorum">yapacağın asfaltı sikeyim ben gidiyorum</a>)<br/><br/>debe editi : <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
    
   entry_writer: pimp of pleasure
 - entry_name: |
@@ -367,7 +367,7 @@ data:
   entry_id: 60355559
   entry_content: |
     
-    bıkmadılar bu adamın üzerine oynamaktan. lan oğlum adam alman etkilenmiyor işte daha neyi kasıyorsun. habere bak::<br/><br/>"mario gomez karar verme süresini 30 mayıs’a kadar uzattı. ancak fenerbahçe’nin golcü yıldıza teklif yapması üzerine beşiktaş yönetimi paniğe kapıldı. beşiktaş kafası karışan gomez'e, "biz seneye de seninle devam etmek istiyoruz" dedi. alman yıldız bu konudaki son kararını sezon sonu verecek"<br/><br/>ilk okul terk misiniz nesiniz , bu nasıl sikko bir haberciliktir. siz nasıl bir meslek etiğinden yoksun kağıt paçavralarısınız anlamadım ki.<br/><br/>aha bu da kaynak, <a rel="nofollow" class="url" target="_blank" href="http://www.sporx.com/fenerbahceden-besiktasa-surpriz-calim-hazirligi-mario-gomez-SXHBQ539824SXQ" title="http://www.sporx.com/fenerbahceden-besiktasa-surpriz-calim-hazirligi-mario-gomez-SXHBQ539824SXQ">takvimmiş</a>
+    bıkmadılar bu adamın üzerine oynamaktan. lan oğlum adam alman etkilenmiyor işte daha neyi kasıyorsun. habere bak::<br/><br/>"mario gomez karar verme süresini 30 mayıs’a kadar uzattı. ancak fenerbahçe’nin golcü yıldıza teklif yapması üzerine beşiktaş yönetimi paniğe kapıldı. beşiktaş kafası karışan gomez'e, "biz seneye de seninle devam etmek istiyoruz" dedi. alman yıldız bu konudaki son kararını sezon sonu verecek"<br/><br/>ilk okul terk misiniz nesiniz , bu nasıl bir meslek etiğinden yoksun haberciliktir anlamadım ki.<br/><br/>aha bu da kaynak, <a rel="nofollow" class="url" target="_blank" href="http://www.sporx.com/fenerbahceden-besiktasa-surpriz-calim-hazirligi-mario-gomez-SXHBQ539824SXQ" title="http://www.sporx.com/fenerbahceden-besiktasa-surpriz-calim-hazirligi-mario-gomez-SXHBQ539824SXQ">takvimmiş</a><br/><br/>debe bi işe yarasın bari editi: <br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: skender
 - entry_name: |
@@ -375,7 +375,7 @@ data:
   entry_id: 60363425
   entry_content: |
     
-    prompter'ın türkçesi,  <a class="b" href="/?q=metin+ekran%c4%b1">metin ekranı</a> olmalıdır. çünkü bu cihazı daha güzel anlatabilecek başka bir kelime olduğunu düşünmüyorum açıkcası.
+    prompter'ın türkçesi,  <a class="b" href="/?q=metin+ekran%c4%b1">metin ekranı</a> olmalıdır. çünkü bu cihazı daha güzel anlatabilecek başka kelimeler olduğunu düşünmüyorum açıkcası.<br/><br/>debe editi. (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: lesley mateas
 - entry_name: |
