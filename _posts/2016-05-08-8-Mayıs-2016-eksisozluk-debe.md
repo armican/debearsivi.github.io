@@ -47,7 +47,7 @@ data:
   entry_id: 60384781
   entry_content: |
     
-    ne rahatsızlığı olduğunu çok merak ettiğim rahatsızlıktır..<br/><br/>ne mesela söyledikleri çaylar geç mi gelmiş? <br/>ne bileyim survivor bu hafta yayınlanmicakmıymış? <br/>toplu iğneleri düşmüş onu mu bulamıyorlarmış? <br/><br/>yalanınızı sikiyim lan ne rahatsızlıkları olacak baştakinin istediği olduğu sürece. <br/>davutoğluymuş bilmem kimmiş sanki çokta sikinde ak parti tabanının.<br/><br/>ortamlarda paralel der geçeriz kim bilcek amk.
+    ne rahatsızlığı olduğunu çok merak ettiğim rahatsızlıktır..<br/><br/>ne mesela, söyledikleri çaylar geç mi gelmiş? <br/>ne bileyim survivor bu hafta yayınlanmayacak mıymış? <br/>toplu iğneleri düşmüş onu mu bulamıyorlarmış? <br/><br/>yalanınızı sikiyim lan ne rahatsızlıkları olacak baştakinin istediği olduğu sürece. <br/>davutoğluymuş bilmem kimmiş sanki çokta sikinde ak parti tabanının.<br/><br/>ortamlarda paralel der geçeriz kim bilcek amk.<br/><br/>db editi : er ya da geç yargılanacaksınız.<br/>sırrı süreyya'nın karşısında tir tir titreyen işkencecisi gibi kuyruğunu götünün arasına sıkıştırmış bir köpek misali ağlayacaksınız.<br/>ışte o gün biz halk, bu haberleri tv karşısında boxerımızla yayılmış izlerken aç diyeceğiz sevdiceğimize sesi aç, bir de sana zahmet hazır kalkmışken şu dolaptan iki bira getir de içelim.<br/><br/>bonus: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: herrgregor
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 60378367
   entry_content: |
     
-    şöyle bir karikatür vardı;;<br/><br/>a: hi i am mike i was born in england in bin dokuzyüz seksenyedi<br/><br/>b: oha sayıları niye türkçe söyledin lan mike?<br/><br/>a: sayılar zor oğlum biz de ingilterede sayıları türkçe söylüyoruz.<br/><br/>ekleme: hep heveslenmişimdir bunu yapmaya<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>(bkz: <a class="b" href="/?q=haydi+birbirimize+imzal%c4%b1+kitap+hediye+edelim">haydi birbirimize imzalı kitap hediye edelim</a>)
+    şöyle bir karikatür vardı;;<br/><br/>a: hi i am mike i was born in england in bin dokuzyüz seksenyedi<br/><br/>b: oha sayıları niye türkçe söyledin lan mike?<br/><br/>a: sayılar zor oğlum biz de ingilterede sayıları türkçe söylüyoruz.<br/><br/>ek: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
    
   entry_writer: dunyayi kurtaracak olan adam
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 60375821
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=her+f%c4%b1kraya+bir+ba%c5%9fl%c4%b1k+kampanyas%c4%b1">her fıkraya bir başlık kampanyası</a>)
+    (bkz:  <a class="b" href="/?q=her+f%c4%b1kraya+bir+ba%c5%9fl%c4%b1k+kampanyas%c4%b1">her fıkraya bir başlık kampanyası</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: arjantin ovalarini sulayan nehir
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 60384668
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=pazartesi+gel+ba%c5%9fbakan+olarak+i%c5%9fe+ba%c5%9fla">pazartesi gel başbakan olarak işe başla</a>)
+    (bkz:  <a class="b" href="/?q=pazartesi+gel+ba%c5%9fbakan+olarak+i%c5%9fe+ba%c5%9fla">pazartesi gel başbakan olarak işe başla</a>)<br/><br/>ilave: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: pageplant
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 60382862
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=babayaro">babayaro</a>)
+    (bkz:  <a class="b" href="/?q=babayaro">babayaro</a>)<br/><br/>debe edit: <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60102536" title="https://eksisozluk.com/entry/60102536">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
    
   entry_writer: double black
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 60382739
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitmek">türkiye'den siktir olup gitmek</a>)
+    (bkz:  <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitmek">türkiye'den siktir olup gitmek</a>)<br/><br/>sosyal sorumluluk editi: <br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=hacettepe+%c3%bcniversitesi+hastaneleri+rezaleti">hacettepe üniversitesi hastaneleri rezaleti</a>)
    
   entry_writer: susuz koye hamam
 - entry_name: |
@@ -207,7 +207,7 @@ data:
   entry_id: 60387295
   entry_content: |
     
-    ibrahimin babası tam bir baba klasiğii<br/>- oğlum napıyon iyimisin nasılsın baban.<br/>nasıl gidiyor allaha emanet ol baban
+    ibrahimin babası bana tam bir baba klasiğini hatırlattı?<br/>- oğlum napıyon iyimisin nasılsın baban.<br/>nasıl gidiyor allaha emanet ol baban
    
   entry_writer: 28061984
 - entry_name: |
@@ -215,7 +215,7 @@ data:
   entry_id: 60378603
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ya+neresini+s%c4%b1ksayd%c4%b1m%3f">ya neresini sıksaydım?</a>)<br/><br/>(bkz: <a class="b" href="/?q=s%c3%bcleyman+demirel">süleyman demirel</a>)
+    (bkz:  <a class="b" href="/?q=ya+neresini+s%c4%b1ksayd%c4%b1m%3f">ya neresini sıksaydım?</a>)<br/><br/>(bkz: <a class="b" href="/?q=s%c3%bcleyman+demirel">süleyman demirel</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: hep versace versace biraz da alsace
 - entry_name: |
@@ -231,15 +231,15 @@ data:
   entry_id: 60385496
   entry_content: |
     
-    sistematik sikinti nedense kendisi basbakan iken hic de dert olmamis eski basbakan yeni cumhurbaskani'nin simdiki derdi.
-    
+    sistematik sikinti nedense kendisi basbakan iken hic de dert olmamis eski basbakan yeni cumhurbaskani'nin simdiki derdi..<br/><br/>debe editi: 1.5 yasinda bir cana yardim edelim. devrim yilmaz. ayrintilar icin: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: doymamis cocuga mektup
 - entry_name: |
     çanakkale'ye düşen meteoritte aminoasit bulunması
   entry_id: 60380254
   entry_content: |
     
-    1964 yılında  <a class="b" href="/?q=%c3%a7anakkale">çanakkale</a>'ye düşmüş olan meteorit üzerinde 2012 de başlayan<a class="b" href="/?q=nasa">nasa</a> ve <a class="b" href="/?q=istanbul+%c3%bcniversitesi">istanbul üniversitesi</a>'nin ortaklaşa yaptığı araştırma sonucunda 10 un üstünde aminasit bulgusuna rastlanmış. bunların bir kısmı insan bünyesinde bulunan aminoasitler olup barkaç tane de dünya dışı olduğu düşünülen aminoasite rastlanmış. dünya dışı olan aminoasitler üzerindeki araştırmalar devam etmekteymiş.<br/><br/>linkler:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://ntrs.nasa.gov/search.jsp?R=20160002360" title="http://ntrs.nasa.gov/search.jsp?R=20160002360">nasa</a><br/>haber <a rel="nofollow" class="url" target="_blank" href="http://aa.com.tr/tr/bilim-teknoloji/turkiyeye-dusen-meteorda-yasam-izi-bulundu/567519" title="http://aa.com.tr/tr/bilim-teknoloji/turkiyeye-dusen-meteorda-yasam-izi-bulundu/567519">linki</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/groups/625941554120466/permalink/986582464723038/" title="https://www.facebook.com/groups/625941554120466/permalink/986582464723038/">türkiye göktaşı ağı</a>
+    1964 yılında  <a class="b" href="/?q=%c3%a7anakkale">çanakkale</a>'ye düşmüş olan meteorit üzerinde 2012 de başlayan<a class="b" href="/?q=nasa">nasa</a> ve <a class="b" href="/?q=istanbul+%c3%bcniversitesi">istanbul üniversitesi</a>'nin ortaklaşa yaptığı araştırma sonucunda 10 un üstünde aminasit bulgusuna rastlanmış. bunların bir kısmı insan bünyesinde bulunan aminoasitler olup barkaç tane de dünya dışı olduğu düşünülen aminoasite rastlanmış. dünya dışı olan aminoasitler üzerindeki araştırmalar devam etmekteymiş.<br/><br/>linkler:<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://ntrs.nasa.gov/search.jsp?R=20160002360" title="http://ntrs.nasa.gov/search.jsp?R=20160002360">nasa</a><br/>haber <a rel="nofollow" class="url" target="_blank" href="http://aa.com.tr/tr/bilim-teknoloji/turkiyeye-dusen-meteorda-yasam-izi-bulundu/567519" title="http://aa.com.tr/tr/bilim-teknoloji/turkiyeye-dusen-meteorda-yasam-izi-bulundu/567519">linki</a> <br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/groups/625941554120466/permalink/986582464723038/" title="https://www.facebook.com/groups/625941554120466/permalink/986582464723038/">türkiye göktaşı ağı</a><br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: elovitnas
 - entry_name: |
@@ -279,7 +279,7 @@ data:
   entry_id: 60377760
   entry_content: |
     
-    çanakkale champaign'in olduğunu düşündüğüm oyun.  <a rel="nofollow" class="url" target="_blank" href="https://eaassets04-a.akamaihd.net/origin-com-store-damassets/content/dam/eadam/T/tunguska/preorder/1038423_screenhi_930x524_en_US_02.jpg" title="https://eaassets04-a.akamaihd.net/origin-com-store-damassets/content/dam/eadam/T/tunguska/preorder/1038423_screenhi_930x524_en_US_02.jpg">şu</a> fotoğrafa bakıldığında çok net olmasa da askerin giydiği kıyafet anzak askerlerinin kıyafetleriyle (şapkası olsun, şortu olsun) birebir <a rel="nofollow" class="url" target="_blank" href="http://www.smh.com.au/ffximage/2005/03/05/galipolli_wideweb__430x256.jpg" title="http://www.smh.com.au/ffximage/2005/03/05/galipolli_wideweb__430x256.jpg">örtüşüyor</a>. yanındaki sırtlar, bildiğimiz conk bayırı sırtları olabilir. karşıdaki zırhlı gemi detayı da önemli. <br/><br/>şarkı tercihi olarak "seven nation army"i seçmeleri büyük ustalık. birinci dünya savaşı çok uluslu devletlerin savaşıydı. örneğin osmanlı, arap coğrafyasında ingiliz üniformalı hindistanlı askerlerle de savaşmıştır. <br/><br/>oyunun türkçe olması, ea'nin büyük jesti olduğunu düşünüyorum. ancak son dönemlere baktığımızda türkçe oyun sayısında bariz bir artış var. bunun temelinde yatan neden türklerin orijinal oyun pazarına ilgisi olduğunu düşünüyorum. steam stats'a baktığınızda ispanya ve italya'dan daha çok indirme yapılmış türkiye'den. kaldı ki, rusya üzerinden yapılan satın almalar bu sayının dışında. işte bu yüzden, mümkün olduğunca yasal içerikten yana kullanmaluyız tercihimizi. burada hem türkçe dil desteği bekleyip hem "oyun torrent'e düşse de oynasak" diyen arkadaşlar büyük haksızlık yapıyorlar. tabi ben "her oyuna 80 euro bayılın" demiyorum, ancak bu arkadaşlar en azından indirim dönemlerini bekleseler, ileride çok daha fazla oyun türkçe dil desteğine sahip olarak çıkar.
+    çanakkale champaign'in olduğunu düşündüğüm oyun.  <a rel="nofollow" class="url" target="_blank" href="https://eaassets04-a.akamaihd.net/origin-com-store-damassets/content/dam/eadam/T/tunguska/preorder/1038423_screenhi_930x524_en_US_02.jpg" title="https://eaassets04-a.akamaihd.net/origin-com-store-damassets/content/dam/eadam/T/tunguska/preorder/1038423_screenhi_930x524_en_US_02.jpg">şu</a> fotoğrafa bakıldığında çok net olmasa da askerin giydiği kıyafet anzak askerlerinin kıyafetleriyle (şapkası olsun, şortu olsun) birebir <a rel="nofollow" class="url" target="_blank" href="http://www.smh.com.au/ffximage/2005/03/05/galipolli_wideweb__430x256.jpg" title="http://www.smh.com.au/ffximage/2005/03/05/galipolli_wideweb__430x256.jpg">örtüşüyor</a>. yanındaki sırtlar, bildiğimiz conk bayırı sırtları olabilir. karşıdaki zırhlı gemi detayı da önemli. <br/><br/>şarkı tercihi olarak "seven nation army"i seçmeleri büyük ustalık. birinci dünya savaşı çok uluslu devletlerin savaşıydı. örneğin osmanlı, arap coğrafyasında ingiliz üniformalı hindistanlı askerlerle de savaşmıştır. <br/><br/>oyunun türkçe olması, ea'nin büyük jesti olduğunu düşünüyorum. ancak son dönemlere baktığımızda türkçe oyun sayısında bariz bir artış var. bunun temelinde yatan neden türklerin orijinal oyun pazarına ilgisi olduğunu düşünüyorum. steam stats'a baktığınızda ispanya ve italya'dan daha çok indirme yapılmış türkiye'den. kaldı ki, rusya üzerinden yapılan satın almalar bu sayının dışında. işte bu yüzden, mümkün olduğunca yasal içerikten yana kullanmaluyız tercihimizi. burada hem türkçe dil desteği bekleyip hem "oyun torrent'e düşse de oynasak" diyen arkadaşlar büyük haksızlık yapıyorlar. tabi ben "her oyuna 80 euro bayılın" demiyorum, ancak bu arkadaşlar en azından indirim dönemlerini bekleseler, ileride çok daha fazla oyun türkçe dil desteğine sahip olarak çıkar.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: ohaaaa
 - entry_name: |
@@ -287,7 +287,7 @@ data:
   entry_id: 60387568
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=entry+nick+uyumu">entry nick uyumu</a>)
+    (bkz:  <a class="b" href="/?q=entry+nick+uyumu">entry nick uyumu</a>)<br/><br/>edit: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: cevirimanyagi
 - entry_name: |
@@ -314,14 +314,6 @@ data:
     sen merak etme, memesine piercing yaptıracak kadın zaten senin gibi bekaret takıntılı adamla takılmaz..<br/><br/>aynılar aynı yere.
    
   entry_writer: aksamdan kalmis
-- entry_name: |
-    8 mayıs 2016 ales
-  entry_id: 60379683
-  entry_content: |
-    
-    soru sayısı ve süreyi bilmeyen salakların girip lisansüstü eğitim yapmak için puan toplamaya çalışacakları sınav.
-    
-  entry_writer: magaradakimahkum
 - entry_name: |
     ateşini yolla bana diyen 55 yaşındaki şarkıcı
   entry_id: 60389608
@@ -383,7 +375,7 @@ data:
   entry_id: 60386378
   entry_content: |
     
-    izlemeyin şu gereksiz insanı ne olur..<br/><br/>reytingleri yerin dibine batsın, bir daha ekranlara çıkamasın insallah.<br/><br/>nedir bu din tüccarlardından çektiği bu milletin allahım...
+    izlemeyin şu gereksiz insanı ne olur..<br/><br/>reytingleri yerin dibine batsın, bir daha ekranlara çıkamasın insallah.<br/><br/>nedir bu din tüccarlardından çektiği bu milletin allahım...<br/><br/>edit :<br/><br/>(bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: cinnet mustatili
 - entry_name: |
