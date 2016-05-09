@@ -15,7 +15,7 @@ data:
   entry_id: 60405153
   entry_content: |
     
-    nizamidir.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/Ch9LNUlUgAAJINE.jpg:large" title="https://pbs.twimg.com/media/Ch9LNUlUgAAJINE.jpg:large">https://pbs.twimg.com/…ia/ch9lnulugaajine.jpg:large</a><br/><br/>türkçesi ne diye mesaj atanlar oldu. özet geçiyorum: <br/><br/>eğer sahaya giren kişi seyirci ise ve pozisyona etkisi olduysa gol iptal edilmelidir. eğer sahaya giren kişi seyirciyse ve pozisyona etkisi olmadıysa gol iptal edilmemelidir, nizamidir.
+    nizamidir.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/Ch9LNUlUgAAJINE.jpg:large" title="https://pbs.twimg.com/media/Ch9LNUlUgAAJINE.jpg:large">https://pbs.twimg.com/…ia/ch9lnulugaajine.jpg:large</a><br/><br/>türkçesi ne diye mesaj atanlar oldu. özet geçiyorum: <br/><br/>eğer sahaya giren kişi seyirci ise ve pozisyona etkisi olduysa gol iptal edilmelidir. eğer sahaya giren kişi seyirciyse ve pozisyona etkisi olmadıysa gol iptal edilmemelidir, nizamidir.<br/><br/>dede edit 1: türkce kaynak. sanırım sayfa 67. <a rel="nofollow" class="url" target="_blank" href="https://www.tff.org/Resources/TFF/Images/000000014/TFF/MHK/kural_kitap_14_15_son.pdf" title="https://www.tff.org/Resources/TFF/Images/000000014/TFF/MHK/kural_kitap_14_15_son.pdf">https://www.tff.org/…/mhk/kural_kitap_14_15_son.pdf</a><br/><br/>dede edit 2: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: sehzade
 - entry_name: |
@@ -31,7 +31,7 @@ data:
   entry_id: 60392601
   entry_content: |
     
-    cristiano ronaldo & türk telekomekomm<br/><br/>ne alaka amk? he çok hızlı he...
+    cristiano ronaldo & türk telekomekomm<br/><br/>ne alaka amk? he çok hızlı he...<br/><br/>debe edit vasıtası ile bir kere daha <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/3221605" title="https://eksisozluk.com/entry/3221605">hatırlamakta ve okumakta</a> fayda var.
    
   entry_writer: naughtyfisherman
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 60401560
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=erken+se%c3%a7im+g%c3%b6zya%c5%9flar%c4%b1">erken seçim gözyaşları</a>)
+    (bkz:  <a class="b" href="/?q=erken+se%c3%a7im+g%c3%b6zya%c5%9flar%c4%b1">erken seçim gözyaşları</a>)<br/><br/>db editi; (bkz: <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>)<br/><br/>ayrıca ha gayret başarmak üzereyiz ; (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: herrgregor
 - entry_name: |
@@ -79,8 +79,8 @@ data:
   entry_id: 60407266
   entry_content: |
     
-    işin enteresan ve ürkütücü tarafı kimsenin böyle bir olaya şaşırmayacak olması.
-    
+    işin enteresan ve ürkütücü tarafı kimsenin böyle bir olaya şaşırmayacak olması..<br/><br/>edit: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>
+   
   entry_writer: erdemselevren
 - entry_name: |
     gelmiş geçmiş en iyi 10 ekşi sözlük yazarı
@@ -223,7 +223,7 @@ data:
   entry_id: 60409487
   entry_content: |
     
-    bu adam futbolu çok iyi biliyor. adam milli takımı üçüncü yaptı,  <a class="b" href="/?q=g%c3%bcney+kore">güney kore</a>'de teknik direktör oldu, omuzlara çıkarıldı, efsane oldu ve hala seviliyor. trabzonspor'a geldi, 2010 - 2011 sezonunda şampiyonluğu kaçırdı ya da hakkı yendi. <a class="b" href="/?q=bursaspor">bursaspor</a>'u <a class="b" href="/?q=ertu%c4%9frul+sa%c4%9flam">ertuğrul sağlam</a> döneminden bile iyi bir futbol ile potaya soktu, <a class="b" href="/?q=t%c3%bcrkiye+kupas%c4%b1">türkiye kupası</a> finaline taşıdı. şimdi de <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'ı şampiyon yapmak üzere.<br/><br/>adam santrafor üzerine sistem kurmayı iyi biliyor, neredeyse tüm takımlarında gol kralı çıkarttı:<br/><br/>(bkz: <a class="b" href="/?q=fatih+tekke">fatih tekke</a>)<br/>(bkz: <a class="b" href="/?q=burak+y%c4%b1lmaz">burak yılmaz</a>)<br/>(bkz: <a class="b" href="/?q=fernandao">fernandao</a>)<br/>(bkz: <a class="b" href="/?q=mario+gomez">mario gomez</a>)<br/><br/>ayrıca adam bireysel olarak parlattığı pek çok futbolcunun büyük takımlara transfer olmasını sağladı:<br/><br/>(bkz: <a class="b" href="/?q=umut+bulut">umut bulut</a>)<br/>(bkz: <a class="b" href="/?q=volkan+%c5%9fen">volkan şen</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fener+%c3%b6zbayrakl%c4%b1">şener özbayraklı</a>)<br/><br/>ben fenerbahçe'liyim, ama kendisini saygıyla selamlıyorum. çok da efendi bir adam, yeri geldi mi de taşı gediğine oturtuyor.
+    bu adam futbolu çok iyi biliyor. adam milli takımı üçüncü yaptı,  <a class="b" href="/?q=g%c3%bcney+kore">güney kore</a>'de teknik direktör oldu, omuzlara çıkarıldı, efsane oldu ve hala seviliyor. trabzonspor'a geldi, 2010 - 2011 sezonunda şampiyonluğu kaçırdı ya da hakkı yendi. <a class="b" href="/?q=bursaspor">bursaspor</a>'u <a class="b" href="/?q=ertu%c4%9frul+sa%c4%9flam">ertuğrul sağlam</a> döneminden bile iyi bir futbol ile potaya soktu, <a class="b" href="/?q=t%c3%bcrkiye+kupas%c4%b1">türkiye kupası</a> finaline taşıdı. şimdi de <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'ı şampiyon yapmak üzere.<br/><br/>adam santrafor üzerine sistem kurmayı iyi biliyor, neredeyse tüm takımlarında gol kralı çıkarttı:<br/><br/>(bkz: <a class="b" href="/?q=fatih+tekke">fatih tekke</a>)<br/>(bkz: <a class="b" href="/?q=burak+y%c4%b1lmaz">burak yılmaz</a>)<br/>(bkz: <a class="b" href="/?q=fernandao">fernandao</a>)<br/>(bkz: <a class="b" href="/?q=mario+gomez">mario gomez</a>)<br/><br/>ayrıca adam bireysel olarak parlattığı pek çok futbolcunun büyük takımlara transfer olmasını sağladı:<br/><br/>(bkz: <a class="b" href="/?q=umut+bulut">umut bulut</a>)<br/>(bkz: <a class="b" href="/?q=volkan+%c5%9fen">volkan şen</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fener+%c3%b6zbayrakl%c4%b1">şener özbayraklı</a>)<br/><br/>ben fenerbahçe'liyim, ama kendisini saygıyla selamlıyorum. çok da efendi bir adam, yeri geldi mi de taşı gediğine oturtuyor.<br/><br/>edit: birkaç dost beni uyardı, gol krallarından <a class="b" href="/?q=shota+arveladze">shota arveladze</a>'yi unutmuşum. <br/><br/>debe editi: <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60102536" title="https://eksisozluk.com/entry/60102536">link</a>teki yardım kampanyasına erişim sağlayalım.
    
   entry_writer: live by the creed
 - entry_name: |
@@ -247,7 +247,7 @@ data:
   entry_id: 60392680
   entry_content: |
     
-    çok değil, bundan 3 sene önce başımızdaki malum adam, bu adamın hocasıyla takışmasaydı; şuan karşı kanattan size o twitter'dan gezici, vatan haini, terörist diye laf sokacak bir adamdı.  <br/><br/>buradan her hıyara tuzla koşan sözde muhalif yazarlar için yazıyorum bunu. <br/><br/>ergenliği henüz üstünden atamamış, milli takım falan sikinde olmayan, hocasının .... (anladınız onu) baktığı yöne bakan bir şakirt eziktir şahsiyet olarak. <br/><br/>milli takıma girmek için iyi bir oyuncu olmak tek dikkate alınacak kriterse, bu konuda yapılabilecek birçok transfer de var farklı milletlerden. neden yapılmıyor? çünkü milli takım. <br/><br/>milli takımın kaybettiği maça kahkaha twiti atan adam yerine, gider haritada türkiye'nin yerini bulamayacak iyi bir oyuncu da transfer edersin nihayetinde. <br/><br/>işte bu denklemde açıkçası milli takım için değeri yok bu adamın.
+    çok değil, bundan 3 sene önce başımızdaki malum adam, bu adamın hocasıyla takışmasaydı; şuan karşı kanattan size o twitter'dan gezici, vatan haini, terörist diye laf sokacak bir adamdı.  <br/><br/>buradan her hıyara tuzla koşan sözde muhalif yazarlar için yazıyorum bunu. <br/><br/>ergenliği henüz üstünden atamamış, milli takım falan sikinde olmayan, hocasının .... (anladınız onu) baktığı yöne bakan bir şakirt eziktir şahsiyet olarak. <br/><br/>milli takıma girmek için iyi bir oyuncu olmak tek dikkate alınacak kriterse, bu konuda yapılabilecek birçok transfer de var farklı milletlerden. neden yapılmıyor? çünkü milli takım. <br/><br/>milli takımın kaybettiği maça kahkaha twiti atan adam yerine, gider haritada türkiye'nin yerini bulamayacak iyi bir oyuncu da transfer edersin nihayetinde. <br/><br/>işte bu denklemde açıkçası milli takım için değeri yok bu adamın.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> :<br/>(bkz: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/y5O5Mj.jpg" title="http://i.hizliresim.com/y5O5Mj.jpg">http://i.hizliresim.com/y5o5mj.jpg</a>)<br/>-1,5 yaşındaki kanser hastası devrim yılmaz'a yardım!! (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>) <br/><br/>(bkz: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/rMnl4M.jpg" title="http://i.hizliresim.com/rMnl4M.jpg">http://i.hizliresim.com/rmnl4m.jpg</a>)<br/>-10 yaşındaki hamza isimli yavrucağın protezi için yardımlarınıza ihtiyacı var; (bkz: <a class="b" href="/?q=hamza%27n%c4%b1n+protezi+i%c3%a7in+25bin+tl+gerekiyor">hamza'nın protezi için 25bin tl gerekiyor</a>)
    
   entry_writer: apolytica
 - entry_name: |
@@ -255,7 +255,7 @@ data:
   entry_id: 60404920
   entry_content: |
     
-    galatasaray da yatmadı gayet oynadı. bjk de yendi.  <br/><br/>fenere yine göt olmak düşüyor.
+    galatasaray da yatmadı gayet oynadı. bjk de yendi.  <br/><br/>fenere yine göt olmak düşüyor.<br/><br/>edit: şöyle bir kampanya varmış: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: kisa adam
 - entry_name: |
@@ -271,7 +271,7 @@ data:
   entry_id: 60405202
   entry_content: |
     
-    ntv'de agliyor.  <br/><br/>yok hakeme kulakliktan demisler hocam sahaya biri girdi oyunu durdur bilmem ne.<br/><br/>ulan gerizekalı. adam sahaya gol olmadan saniyeler once giriyor top zaten ceza sahasında. hakem oınu duysa bile oyunu mu durduracak. kaldı ki sahaya giren vatandas ortada santra noktasındaydı top da o sırada galatasaray'ın kalesine girdi girecek. utanmazsın sen rıdvan. bu sene senin fener nah sampiyon olur, agla bakalım ntv'de.
+    ntv'de agliyor.  <br/><br/>yok hakeme kulakliktan demisler "hocam sahaya biri girdi oyunu durdur!!!" bilmem ne.<br/><br/>adam sahaya gol olmadan saniyeler once giriyor top zaten ceza sahasında. hakem onu duysa bile, top ceza sahası içindeyken oyunu mu durduracak? kaldı ki sahaya giren vatandas ortada santra noktasındaydı top da o sırada galatasaray'ın kalesine girdi girecek. haysiyet not found rıdvan. bu sene senin fener nah sampiyon olur, agla bakalım ntv'de.
    
   entry_writer: maresalx
 - entry_name: |
@@ -291,7 +291,7 @@ data:
     
   entry_writer: tombikpasta
 - entry_name: |
-    dusko tosic
+    duşko toşiç
   entry_id: 60405591
   entry_content: |
     
@@ -327,7 +327,7 @@ data:
   entry_id: 60394877
   entry_content: |
     
-    bizim oğlanla bir oyun icad ettik, bir süredir oynuyoruz. hayal gücü gelişsin diye evin içinde sözde çadır kurup kamp yapıyoruz. battaniyeyi üstümüze çekip güya gece oluyor, uyuyoruz. sonra oğlum beni uyandırıyor odanın lambasını gösterip " sabah olmuş " diyor. ben de " aa ne kadar güzel, güneşli bir gün " falan deyip karşıki dağlarda ne gördüğünü soruyorum falan. başlarda " inekleri görüyor musun? " dediğimde anlamıyordu olayı. artık kendisi neler gördüğünü söyleyebiliyor..<br/><br/>dün akşam yine aynı oyunu oynarken sordum, <br/><br/>-oğlum karşıki dağlarda ne görüyorsun?<br/>+inekler var orda.<br/>- başka?<br/>+ köpek var?<br/>- peki başka?<br/>+ koyunlar var.<br/>- ee oğlum ağaç yok mu?<br/>+ yok.<br/>- neden? dağda biraz da ağaç olmaz mı?<br/>+ o zaman koyunları göremezdim ki!<br/><br/>apışıp kaldım yemin ederim. ben hiç öyle düşünmemiştim. 3 yaşında çocuğa hayal kurmasını öğretelim derken ayar yedik. korkarım inanmasam,<br/><br/>+ dümdüz duvarda ineği, köpeği gördüğüme inandın da ağaç göremediğime mi inanmadın? diyecek.<br/><br/>maşallah deyin oğluma. (bkz: <a class="b" href="/?q=swh">swh</a>)
+    bizim oğlanla bir oyun icad ettik, bir süredir oynuyoruz. hayal gücü gelişsin diye evin içinde sözde çadır kurup kamp yapıyoruz. battaniyeyi üstümüze çekip güya gece oluyor, uyuyoruz. sonra oğlum beni uyandırıyor odanın lambasını gösterip " sabah olmuş " diyor. ben de " aa ne kadar güzel, güneşli bir gün " falan deyip karşıki dağlarda ne gördüğünü soruyorum falan. başlarda " inekleri görüyor musun? " dediğimde anlamıyordu olayı. artık kendisi neler gördüğünü söyleyebiliyor..<br/><br/>dün akşam yine aynı oyunu oynarken sordum, <br/><br/>-oğlum karşıki dağlarda ne görüyorsun?<br/>+inekler var orda.<br/>- başka?<br/>+ köpek var?<br/>- peki başka?<br/>+ koyunlar var.<br/>- ee oğlum ağaç yok mu?<br/>+ yok.<br/>- neden? dağda biraz da ağaç olmaz mı?<br/>+ o zaman koyunları göremezdim ki!<br/><br/>apışıp kaldım yemin ederim. ben hiç öyle düşünmemiştim. 3 yaşında çocuğa hayal kurmasını öğretelim derken ayar yedik. korkarım inanmasam,<br/><br/>+ dümdüz duvarda ineği, köpeği gördüğüme inandın da ağaç göremediğime mi inanmadın? diyecek.<br/><br/>maşallah deyin oğluma. (bkz: <a class="b" href="/?q=swh">swh</a>)<br/><br/>debe: şöyle bir kampanya varmış, el atalım (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: habara gubere
 - entry_name: |
@@ -343,7 +343,7 @@ data:
   entry_id: 60396240
   entry_content: |
     
-     <a class="b" href="/?q=oya+aydo%c4%9fan">oya aydoğan</a>başlığına durumu kritik sanatçı şeklinde girilebilecek bir entry için ayrı başlık açacak kadar saçmalanan durum. sözlüğün anası sikilmiş ama biz hala tanım yapacaz diye kasıyoruz.<br/><br/>çöp entry falan deniyordu çöp başlıktan geçilmiyor ortalık. herkes haber sitelerinde sanatçılarla ilgili haberleri ayrı başlık açsın o halde. cem yılmaz'ın tuvalete gitmesi, mustafa sandal'ın bardan çıkarken görüntülenmesi falan filan. troll müsünü yoksa gerçekten gerizekalı mısınız çözemedim henüz.
+     <a class="b" href="/?q=oya+aydo%c4%9fan">oya aydoğan</a> başlığına durumu kritik sanatçı şeklinde girilebilecek bir entry için ayrı başlık açacak kadar saçmalanan durum. sözlüğün anası sikilmiş ama biz hala tanım yapacaz diye kasıyoruz.<br/><br/>çöp entry falan deniyordu çöp başlıktan geçilmiyor ortalık. herkes haber sitelerinde sanatçılarla ilgili haberleri ayrı başlık açsın o halde. cem yılmaz'ın tuvalete gitmesi, mustafa sandal'ın bardan çıkarken görüntülenmesi falan filan. troll müsünü yoksa gerçekten gerizekalı mısınız çözemedim henüz.<br/><br/>debe editi: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
    
   entry_writer: seryer
 - entry_name: |
@@ -371,19 +371,11 @@ data:
     
   entry_writer: kaza
 - entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id: 60399497
-  entry_content: |
-    
-    bildiğiniz gibi kur'an-ı kerim'de ayetler bütün olarak tek seferde inmedi. 23 yıla yayılan bir süreçte parça parça indi. 23 yıl içerisindeki dönemi, savaşları, peygamber'in hayatını da güncel olarak inceleyen bir kitabın yüzyıllar boyunca insanlara rehber olacağına inanmamanın verdiği rahatlık ve huzurla ufak incelemeler yapmayı sözlük ahalisine borçlu olduğumu hissediyorum..<br/><br/>muhammed peygamber'in paşa gönlü olsun diye allah tarafından indirildiğine inandırılan, insanlığa, geleceğe hiçbir faydası olmayan, sadece peygamberin günlük işlerini, cinsel hayatını düzenlemeye yönelik ayetlerden bahsetmek istiyorum. bakalım öve öve bitirelemeyen muhammed adamın dibi miymiş?<br/><br/><a class="b" href="/?q=ahzab+37">ahzab 37</a><br/>hani sen allah'ın kendisine nimet verdiği, senin de (azat etmek suretiyle) iyilikte bulunduğun kimseye, "eşini nikahında tut (onu boşama) ve allah'tan sakın" diyordun. içinde, allah'ın ortaya çıkaracağı bir şeyi gizliyor ve insanlardan çekiniyordun. oysa kendisinden çekinmene allah daha layıktı. zeyd eşinden yana isteğini yerine getirince (eşini boşayınca), onu seninle evlendirdik ki, eşlerinden yana isteklerini yerine getirdiklerinde (onları boşadıklarında), evlatlıklarının eşleriyle evlenmeleri konusunda mü'minlere bir zorluk olmasın. allah'ın emri mutlaka yerine getirilmiştir.<br/><br/>ilginç, ilginç, çok ilginç... muhammed'in kölesi ve evlatlığı olan zeyd'in eski karısı zeyneb ile muhammed'in evlenmesi hakkında indirilmiş bu ayet. allah, sırf muhammed, zeyneb'e aşık oldu diye işleri ne kadar da kolaylaştırıyor. sen büyüksün ya rab!<br/><br/><a class="b" href="/?q=ahzab+50">ahzab 50</a><br/>ey peygamber! biz sana mehirlerini verdiğin eşlerini, allah'ın sana ganimet olarak verdiklerinden elinin altında bulunan kadınları; seninle beraber hicret eden, amcanın kızlarını, halalarının kızlarını, dayının kızlarını ve teyzelerinin kızlarını sana helal kıldık. ayrıca, diğer mü'minlere değil de, sana has olmak üzere, mehirsiz olarak kendini peygamber'e bağışlayan, peygamber'in de kendisini nikahlamak istediği herhangi bir mü'min kadını da (sana helal kıldık.) mü'minlere eşleri ve sahip oldukları cariyeleri hakkında farz kıldığımız şeyleri elbette bilmekteyiz. bütün bunlar, sana herhangi bir zorluk olmaması içindir. allah çok bağışlayıcıdır, çok merhamet edicidir.<br/><br/>memlekette başka kız var mıydı? onları da helal kılsaydınız keşke. peygamber olmak ne güzel lan. istediğini seçip beğenip alabiliyorsun, karşı tarafın itiraz hakkı da yok ayette geçiyor, kabulleneceksin. gerçi onlar için peygamberin kendisini seçmesi ayrı bir lütuf, orası ayrı konu. ayrıca allah, kan bağı bulunan yakın akraba ilişkilerinden doğan çocukların sakat kalma ihtimallerini es geçmesi de sıcak bir gülümseme bırakıyor yüzlerimizde. ne sandın lan? peygamber'in çocukları sakat mı olacak?<br/><br/><a class="b" href="/?q=ahzab+51">ahzab 51</a><br/>ey muhammed! bunlardan (hanımlarından) dilediğini geri bırakırsın, dilediğini yanına alırsın. uzak durduklarından dilediklerini yanına almanda da sana bir günah yoktur. bu onların gözlerinin aydın olması, üzülmemeleri ve hepsinin de kendilerine verdiğine razı olmaları için daha uygundur. allah kalplerinizdekini bilir. allah hakkıyla bilendir, halimdir. (hemen cezalandırmaz, mühlet verir.)<br/><br/>muhammed, bokunu çıkarmışsın sanki? tamam peygambersin, kralsın da kızları daha yeni kumdan çıkardık, dur bismillah hemen geri soktun kuma. bizim millete sorsan, islam kadına çok değer verdi, çok yüceltti, öyle böyle yükseltmedi derler. ulan allah'ın elçisi dediğin, belki de en örnek aldığın adamın kadınları istediği gibi alıp bırakması, karşılığında da kabullenmen gerekmesinin çaresizliği. bir neden söyle be muhammed? gerçi haklısın, elin arabının götündeki bokun kokusunu çekmek zorunda değilsin, siktir et ne hali varsa görsün. <br/><br/><a class="b" href="/?q=ahzab+53">ahzab 53</a><br/>ey iman edenler! yemek için çağrılmaksızın ve yemeğin pişmesini beklemeksizin (vakitli vakitsiz) peygamber'in evlerine girmeyin, çağrıldığınız zaman girin. yemeği yiyince de hemen dağılın. sohbet için beklemeyin. çünkü bu davranışınız peygamber'i rahatsız etmekte, fakat o sizden de çekinmektedir. allah ise gerçeği söylemekten çekinmez. peygamberin hanımlarından bir şey istediğiniz zaman perde arkasından isteyin. böyle davranmanız hem sizin kalpleriniz ,hem de onların kalpleri için daha temizdir. allah'ın resûlüne rahatsızlık vermeniz ve kendisinden sonra hanımlarını nikahlamanız ebediyyen söz konusu olamaz. çünkü bu allah katında büyük bir günahtır.<br/><br/>adamdaki rahatlığa bak. kafana göre zırt pırt gelme diyor. müthiş sabırlı dediğiniz adam sırf sohbet için geldiler diye rahatsız oluyor. nasıl sabır lan bu? ayrıca perde arkasından istekte bulunmak da nedir be? yolunda kan döktüğünüz, allah'ın elçisi diye göklere sığdıramadığınız peygamberin eşlerine mi yavşayacaksınız? bir de peygamber öldükten sonra sakın nikahlamayın diye de dipnot bırakılmış. cool story!<br/><br/><a class="b" href="/?q=tahrim+1">tahrim 1</a><br/>ey peygamber! eşlerinin rızasını arayarak, allah'ın sana helâl kıldığı şeyi niçin sen kendine haram ediyorsun? allah çok bağışlayandır, çok merhamet edendir. <br/><br/>bu ayetin <a class="b" href="/?q=hafsa+olay%c4%b1">hafsa olayı</a> ile ilgili olduğu tefsirlerde, bir çok islami sitede incelenmekte ve rahatlıkla da kabul edilmekte. kaynak olarak da <a class="b" href="/?q=ebu+cafer+taberi">ebu cafer taberi</a>'nin <a class="b" href="/?q=tarih-i+taberi">tarih-i taberi</a> eserinde geçer. <br/><br/>(bkz: <a class="b" href="/?q=ebu+cafer+taberi">ebu cafer taberi</a>) (bkz: <a class="b" href="/?q=tarih-i+taberi">tarih-i taberi</a>) (bkz: <a class="b" href="/?q=hafsa+bint-i+%c3%b6mer">hafsa bint-i ömer</a>)<br/><br/>şimdi elçimize daha yakından bakalım.<br/><br/>muhammed; savaş, yağmalama, ibadet filan derken kendine de vakit ayıran bir peygamberdi; ama çok büyük sıkıntıları vardı. peygamberle beraber olabilmek için can atan zevceleriyle uğraşamayacağını anlamış ve onları cinsel ilişki sırasına sokmuştu. bir gün, sıra karılarından hafsa'ya geldiğin de, ilişkide bulunmak için odasına gider, fakat hafsa orada yoktur. o sırada allah'ın bir lütfu mudur artık bilmiyoruz, cariyesi marya ile karşılaşır. şimdi adamcağızın bir rutini var, bunu bozacak değil ya herhalde koca peygamber lan haktır hak diyerek marya'yı hafsa'nın yatağına yatırıp ilişkiye girer. bunun üzerine hafsa içeri girer ve ikisini yakalar. <br/>hafsa, muhammed'e "ey tanrının elçisi!(rte gibi hayal edin) beni aşağıladın. benim günümde, benim sıramda, benim yatağımda bir cariyeyle yatıyorsun!" diyerek atarını yapar. muhammed de "vallahi billahi marya ile bir daha yatmayacağım" diye yemin eder. <br/><br/>vay amk neler dönmüş serhat ya? bildiğin brezilya dizisi senaryosu. <br/><br/>işin ilginç kısmına geliyorum.<br/><br/>muhammed, yemininden pişmanlık duymuş olmalı ki, kısa sürede yukarıda alıntıladığım(<a class="b" href="/?q=tahrim+1">tahrim 1</a>) ayet geliyor. şimdi taşlar yerine oturmuştur diye umuyorum. öve öve bitiremediğimiz günahsız olarak gördüğümüz peygamberin failine bakın.<br/><br/>sonuç olarak; kusursuz, günahsız, müthiş sabırlı, müthiş ahlaklı dediğiniz muhammed peygamber'in o kadar da sağlam ayakkabı olmadığını bu ayetlerden görebilirsiniz. adamın gönlü hoş olsun diye güncel olarak vahiy geliyor. kıvırmanın alemi yok, bildiğin söyleyemediklerini "vallahi vahiy geldi, benlik bir durum yok" diyerek yedirmeye çalışmış.(yedirmiş.)<br/><br/>düşünün ki, tüm insanlığa, yüzyıllara rehber olacak son kutsal kitapta bunlardan bahsediyorsun. bulunduğu coğrafya dışında gram bilgi veremeyen, daha önceki mitolojik masalların üzerine hiçbir şey koyamamış, dünya'yı, evreni, coğrafyayı, canlı anatomisini, bilimsel hemen hemen her şeyi saçma sapan tarif edip tutturamamış, miras ayetlerinde gülünç şekilde olasılık hataları olan bir kutsal kitaptan daha iyisini beklemiyordunuz herhalde?
-   
-  entry_writer: gozun aydin kulaklarin manisa
-- entry_name: |
     jose ernesto sosa
   entry_id: 60404128
   entry_content: |
     
-    bugün şannsız olabilir lakin bu sezon  <a class="b" href="/?q=aya%c4%9f%c4%b1n%c4%b1n+ba%c4%9f%c4%b1yla">ayağının bağıyla</a> beşiktaş'ımıza çok puan kazandırmış oyuncudur. 90'da ateşlediği frikikleri hatırlatır, komutana inancın kaybedilmemesini salık veririm.
+    bugün şanssız olabilir lakin bu sezon  <a class="b" href="/?q=aya%c4%9f%c4%b1n%c4%b1n+ba%c4%9f%c4%b1yla">ayağının bağıyla</a> beşiktaş'ımıza çok puan kazandırmış oyuncudur. 90'da ateşlediği frikikleri hatırlatır, komutana inancın kaybedilmemesini salık veririm.
    
   entry_writer: konus sen dinliyorum
 - entry_name: |
@@ -399,7 +391,7 @@ data:
   entry_id: 60409210
   entry_content: |
     
-    sinan engin "bu ne müzügü ölüm müzügü mü?
-    
+    geri fonda cenaze marsi calmaktadir..<br/><br/>sinan engin "bu ne müzügü ölüm müzügü mü?
+   
   entry_writer: tuco
 ---
