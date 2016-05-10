@@ -7,8 +7,8 @@ data:
   entry_id: 60412689
   entry_content: |
     
-    karakter sınırı sadece başlıkta yok anladığımız kadarıyla.
-    
+    karakter sınırı sadece başlıkta yok anladığımız kadarıyla..<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
+   
   entry_writer: carpediyem
 - entry_name: |
     tesla'dan çok daha iyiyiz
@@ -31,7 +31,7 @@ data:
   entry_id: 60421352
   entry_content: |
     
-    tayyip erdoğan'ı töbe haşa allah yerine koyan beyan. çünkü şeytan, adem peygambere değil allah'ın emrine isyan etti.  <br/><br/>(bkz: <a class="b" href="/?q=holy+%c5%9firk">holy şirk</a>)<br/><br/>ha bi de bu arkadaşın ne dediğini takip edecek kadar işsizlik vermesin allah.
+    tayyip erdoğan'ı töbe haşa allah yerine koyan beyan. çünkü şeytan, adem peygambere değil allah'ın emrine isyan etti.  <br/><br/>(bkz: <a class="b" href="/?q=holy+%c5%9firk">holy şirk</a>)<br/><br/>ha bi de bu arkadaşın ne dediğini takip edecek kadar işsizlik vermesin allah.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>ayrıca işitme engelli kardeşlerimiz için: (bkz: <a class="b" href="/entry/60386307">#60386307</a>)
    
   entry_writer: cevirimanyagi
 - entry_name: |
@@ -47,7 +47,7 @@ data:
   entry_id: 60426785
   entry_content: |
     
-    isim benzerliğinden dolayı içlerinde amca oğlumu gördüğüm liste. bir an için "neden olmasın?" diyerek ümitlendim ve amca oğlumun çok zengin olduğunu, vergi kaçırıp kara para akladığını, göze batmamak için de mütevazi hayat sürdüğünü düşündüm. hemen telefona sarıldım::<br/><br/>+ abi nerdesin?<br/>- bim'deyim.<br/><br/>fakirlik hayal gücünü bile kısıtlıyor.
+    isim benzerliğinden dolayı içlerinde amca oğlumu gördüğüm liste. bir an için "neden olmasın?" diyerek ümitlendim ve amca oğlumun çok zengin olduğunu, vergi kaçırıp kara para akladığını, göze batmamak için de mütevazi hayat sürdüğünü düşündüm. hemen telefona sarıldım::<br/><br/>+ abi nerdesin?<br/>- bim'deyim.<br/><br/>fakirlik hayal gücünü bile kısıtlıyor.<br/><br/>debe editi: amca oğlu, bim'in kapalı olduğu bir vakitte bim'de olduğunu söyleyerek şüpheleri iyice artırdı. geçen hafta arka camı olmayan fiat doblo satın almasına anlam verememiştim zaten. çok kurnaz bu amca oğlu. dikkat dağıtmak için facebook'ta "tofaşk, israil'i boykot et" tarzında paylaşım yapıyor. du bakalım her şey ortaya çıkacak.
    
   entry_writer: fasinasyon sitrit
 - entry_name: |
@@ -55,8 +55,8 @@ data:
   entry_id: 60412918
   entry_content: |
     
-    hayatımda pırasaya "pransa" diyen bir kişiye dahi rastlamadım.
-    
+    hayatımda pırasaya "pransa" diyen bir kişiye dahi rastlamadım..<br/><br/>debe edit:<br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: eylul firtinasi
 - entry_name: |
     kadıköy anadolu lisesi'nde devrecilik rezaleti
@@ -91,12 +91,12 @@ data:
     
   entry_writer: excelsior
 - entry_name: |
-    9 mayıs 2016 domino's pizza taciz rezaleti
+    9 mayıs 2016 domino's pizza rezaleti
   entry_id: 60429760
   entry_content: |
     
-    bu akşam saat 22:45 sularında dominos pizza'nın mecidiyeköy gülbağ şubesine pizza almak için gittim. mağaza müdürü olduğunu tahmin ettiğim sivil giyimli bir çalışan, pizzamın hazırlanmasını beklediğim süre içerisinde dik dik bakışlarıyla rahatsız etti. pizzayı alıp ödememi kredi kartıyla yaptıktan sonra dükkandan çıkarken arkamdan 'çok güzelsin bee! ' diye bağırdı. hiç dikkate almadan dükkandan çıktım evime doğru yürürken yaklaşık iki dakika sonra beyaz arabasıyla yanaşıp camı açtı ve adımı ve soyadımı söyleyerek 'seni facebooktan ekleyeceğim' diye bağırdı ve yoluna devam etti. adımı ve soyadımı kredi kartı slipinden aldığını düşündüğüm bu adamın dükkanına alışveriş yapmaya gelen ve ilk taciz edilen kadın olmadığımdan da neredeyse eminim. çalışanlarınızı seçerken hangi kriterlere dikkat ediyorsunuz?
-    
+    bu akşam saat 22:45 sularında dominos pizza'nın mecidiyeköy gülbağ şubesine pizza almak için gittim. mağaza müdürü olduğunu tahmin ettiğim sivil giyimli bir çalışan, pizzamın hazırlanmasını beklediğim süre içerisinde dik dik bakışlarıyla rahatsız etti. pizzayı alıp ödememi kredi kartıyla yaptıktan sonra dükkandan çıkarken arkamdan 'çok güzelsin bee! ' diye bağırdı. hiç dikkate almadan dükkandan çıktım evime doğru yürürken yaklaşık iki dakika sonra beyaz arabasıyla yanaşıp camı açtı ve adımı ve soyadımı söyleyerek 'seni facebooktan ekleyeceğim' diye bağırdı ve yoluna devam etti. adımı ve soyadımı kredi kartı slipinden aldığını düşündüğüm bu adamın dükkanına alışveriş yapmaya gelen ve ilk taciz edilen kadın olmadığımdan da neredeyse eminim. çalışanlarınızı seçerken hangi kriterlere dikkat ediyorsunuz??<br/><br/>debe editi: (bkz: <a class="b" href="/entry/60102536">#60102536</a>)
+   
   entry_writer: ubernova
 - entry_name: |
     beşiktaşlı olarak bu şampiyonluğu kabul etmiyorum
@@ -111,7 +111,7 @@ data:
   entry_id: 60418401
   entry_content: |
     
-    elzem bir ihtiyaçtır. örneğin bir filmin bir dizinin çıktığı ilk gün izlediniz ve yorum yazmak istiyorsunuz. sözlüğe de saygılı bir insansınız bastınız spoiler tuşunaa<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>you know nothing john snow<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu şekilde metni girdin. ee ne farketti o spoiler yazısının hemen altında metin var. insanın ister istemez gözü kayıyor. <br/><br/>halbuki en dandik video sitelerinde bile olan gizli spoiler olsa ve entry şu şekilde gözükse<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>görmek için tıklayın<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sadece okumak isteyenler spoiler içerisindeki metni açıp okuyabilir.<br/><br/>tabi filmi/diziyi izledikten 10 sn sonra xxx'in ölmesi yyy ile zzz'nin sevişmesi gibi başlık açan mağdur fakirler uçurulmadıkça pek bir anlam ifade etmeyebilir.<br/><br/>not: katil uşak
+    elzem bir ihtiyaçtır. örneğin bir filmin bir dizinin çıktığı ilk gün izlediniz ve yorum yazmak istiyorsunuz. sözlüğe de saygılı bir insansınız bastınız spoiler tuşunaa<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>you know nothing jon snow<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu şekilde metni girdin. ee ne farketti o spoiler yazısının hemen altında metin var. insanın ister istemez gözü kayıyor. <br/><br/>halbuki en dandik video sitelerinde bile olan gizli spoiler olsa ve entry şu şekilde gözükse<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>görmek için tıklayın<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sadece okumak isteyenler spoiler içerisindeki metni açıp okuyabilir.<br/><br/>tabi filmi/diziyi izledikten 10 sn sonra xxx'in ölmesi yyy ile zzz'nin sevişmesi gibi başlık açan mağdur fakirler uçurulmadıkça pek bir anlam ifade etmeyebilir.<br/><br/>not: katil uşak<br/><br/>debedit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: direnistanbul
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 60417963
   entry_content: |
     
-    tableti tutan ele dikkat edilecek olursa, bayılmaya sonradan iştirak etmiş bir el olarak gözlenmekte..<br/><br/>kadının bayılması sonrasında yerini beğenmeyen sol el, yer değiştirerek kendi özerk bayılmasını icra ediyor.<br/><br/>(bkz: <a class="b" href="/?q=medya">medya</a>)<br/>(bkz: <a class="b" href="/?q=rating">rating</a>)
+    tableti tutan ele dikkat edilecek olursa, bayılmaya sonradan iştirak etmiş bir el olarak gözlenmekte..<br/><br/>kadının bayılması sonrasında yerini beğenmeyen sol el, yer değiştirerek kendi özerk bayılmasını icra ediyor.<br/><br/>(bkz: <a class="b" href="/?q=medya">medya</a>)<br/>(bkz: <a class="b" href="/?q=rating">rating</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=hacettepe+%c3%bcniversitesi+hastaneleri+rezaleti">hacettepe üniversitesi hastaneleri rezaleti</a>)
    
   entry_writer: bosverinbeni
 - entry_name: |
@@ -151,16 +151,16 @@ data:
   entry_id: 60424912
   entry_content: |
     
-    adam çarptığı arabanın kapılar yukarı doğru açılınca araba modellerinden hiç anlamasa bile oturup ağlamıştır sanırım.
-    
+    adam çarptığı arabanın kapılar yukarı doğru açılınca araba modellerinden hiç anlamasa bile oturup ağlamıştır sanırım..<br/><br/>debe edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaz%27a+yardim+kampanyasi">23 nisan 2016 devrim yilmaz'a yardim kampanyasi</a>) kardesimize son surat destege devam.
+   
   entry_writer: kaldorein
 - entry_name: |
     seks yaparken konsantrasyonu bozan şeyler
   entry_id: 60424533
   entry_content: |
     
-    internetin kasması.
-    
+    internetin kasması..<br/><br/>debesel editasyon: blogonal işler.<br/><a rel="nofollow" class="url" target="_blank" href="http://caninabereket.blogspot.com.tr/2016/04/mandiraci-rift.html" title="http://caninabereket.blogspot.com.tr/2016/04/mandiraci-rift.html">mandıracı rıf@t</a><br/><a rel="nofollow" class="url" target="_blank" href="http://caninabereket.blogspot.com.tr/2016_02_01_archive.html" title="http://caninabereket.blogspot.com.tr/2016_02_01_archive.html">k o k u</a><br/><a rel="nofollow" class="url" target="_blank" href="http://caninabereket.blogspot.com.tr/2015/11/kahri-bahar.html" title="http://caninabereket.blogspot.com.tr/2015/11/kahri-bahar.html">kahrı bahar</a><br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: portakalkoy
 - entry_name: |
     2015-2016 spor toto süper lig şampiyonu beşiktaş
@@ -175,7 +175,7 @@ data:
   entry_id: 60420605
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hattori+hanzo">hattori hanzo</a>)
+    (bkz:  <a class="b" href="/?q=hattori+hanzo">hattori hanzo</a>)<br/><br/>debe edit:<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)<br/><br/>bu da işitme engelli kardeşlerimiz için:<br/><br/>(bkz: <a class="b" href="/entry/60386307">#60386307</a>)
    
   entry_writer: invicto
 - entry_name: |
@@ -187,27 +187,19 @@ data:
     
   entry_writer: kalemi kilicindan keskin olan adam
 - entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id: 60412045
-  entry_content: |
-    
-    kan grubunun kişilik belirttiğini iddia eden bir topluma tesla'dan daha iyiyiz diyen bir bakan elbette hükmedecektir.  <br/><br/>tanım: yalan yanlış hurafe bilgiler ile doldurulan başlık. gidin kendiniz araştırın.
-   
-  entry_writer: madfuck
-- entry_name: |
     9 mayıs 2016 medipol başakşehir fenerbahçe maçı
   entry_id: 60425619
   entry_content: |
     
-    başakşehir'in 60-65 arası golü bulacağı maç. at fava bekle.
-    
+    başakşehir'in 60-65 arası golü bulacağı maç. at fava bekle..<br/><br/>debe edit 1: mesajlarla kahin misin, fuat avni sen misin diyen arkadaşlar içimden geleni yazdım sadece. sakin olun. maç skoru 2-1 oynadığım kuponu da paylaşayım bari. <br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/A74JRQ.jpg" title="http://i.hizliresim.com/A74JRQ.jpg">kupon</a><br/><br/>debe edit 2: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
+   
   entry_writer: biyolojiokuyupbiyologolmakistemeyenadam
 - entry_name: |
     londra belediye otobüslerine sübhanallah yazılması
   entry_id: 60419562
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=subhanallah+bro+it+is+an+exemplary+share">subhanallah bro it is an exemplary share</a>)
+    (bkz:  <a class="b" href="/?q=subhanallah+bro+it+is+an+exemplary+share">subhanallah bro it is an exemplary share</a>)<br/><br/>debe: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: geek in aad
 - entry_name: |
@@ -231,7 +223,7 @@ data:
   entry_id: 60430102
   entry_content: |
     
-    feda sezonunun, olimpiyat stadının soğuk turnikelerinde geçen gecelerin, iç saha maçları için çektiğimiz deplasman yollarının, rakiplerin üstünlüğüyle geçirdiğimiz derbilerin, üzüntüyle döndüğümüz maçların, hüsranla sonuçlanan sezonların, "bize de bir gün kader güler, güler inşallah" diye umutsuzca bağırmalarımızın, şaibeli hakem kararlarıyla bıraktığımız puanların, rakibine oynamayan; kendisine aslan kesilen takımlara verdiğimiz maçların, arkadaşları tarafından alaya alınan sınıftaki tek beşiktaşlı ufaklığın üzüntüsünün, bir şampiyonluk daha görmeden ölmek istemeyen dedenin, stada "bit artık be" diye sitem edilen akşamların, hayatını beşiktaş'ına adamış herkesin mükafatını veren takımdır.  <br/><br/>en iyi futbolu oynamış, en çok golü atmış, en çok galibiyeti almış, en çok puanı toplamış, gol ve asist kralı çıkarmıştır. <br/><br/>şampiyonluğu anasının ak sütü gibi helaldir. artık güneşli günler bizimdir.
+    feda sezonunun, olimpiyat stadının soğuk turnikelerinde geçen gecelerin, iç saha maçları için çektiğimiz deplasman yollarının, rakiplerin üstünlüğüyle geçirdiğimiz derbilerin, üzüntüyle döndüğümüz maçların, hüsranla sonuçlanan sezonların, "bize de bir gün kader güler, güler inşallah" diye umutsuzca bağırmalarımızın, şaibeli hakem kararlarıyla bıraktığımız puanların, rakibimize oynamayıp; bize aslan kesilen takımlara verdiğimiz maçların, arkadaşları tarafından alaya alınan sınıftaki tek beşiktaşlı ufaklığın üzüntüsünün, bir şampiyonluk daha görmeden ölmek istemeyen dedenin, stada "bit artık be" diye sitem edilen akşamların, hayatını beşiktaş'ına adamış herkesin mükafatını veren takımdır.  <br/><br/>en iyi futbolu oynamış, en çok golü atmış, en çok galibiyeti almış, en çok puanı toplamış, gol ve asist kralı çıkarmıştır. <br/><br/>şampiyonluğu anasının ak sütü gibi helaldir. artık güneşli günler bizimdir.<br/><br/>debedit: <a class="b" href="/?q=ek%c5%9fi+be%c5%9fikta%c5%9f+trib%c3%bcn%c3%bc">ekşi beşiktaş tribünü</a>
    
   entry_writer: kasar yaza
 - entry_name: |
@@ -303,8 +295,8 @@ data:
   entry_id: 60427213
   entry_content: |
     
-    doğuştan başakşehirliymiş.
-    
+    doğuştan başakşehirliymiş..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
+   
   entry_writer: ali fuat
 - entry_name: |
     nutella kavanozunun dibindeki alınamayan nutella
@@ -335,7 +327,7 @@ data:
   entry_id: 60416855
   entry_content: |
     
-    henüz ortaokul 2. sınıfım. o vakit vakıf yurdunda kalıyorum. aynen vakıf yurdu, bilenler bilir, vakıf yurdu olmasından mütevellit millet tanıdıklarını işe almış, temizlik görevlisinden ambar memuruna kadar herkesin bir bağlantısı var bir yerlerden. bunlar geceleri sırayla nöbete kalıyor falan. her neyse. aileden uzak bir memleketteyiz. bazılarının anası, bazılarının babası yok bazılarının da kimliğine yazılacak bildikleri ne bir anne ne de bir baba adı var vesselam..<br/>yurt koğuşları (koğuş derdik, askeri jargon) çift kat ranzalı, 12 kişilik. akşam yemekleri doğru düzgün çıkmıyor. her akşam yemekten bir iki saat sonra acıkıyoruz. oda arkadaşlarımızdan kafalayabileceklerimiz arasından kurban seçip yemekhaneye inip masalardan akşamdan toplanan dilimlenmiş ekmeklerden çalıp! açlığımızı bastırmaya çalışıyoruz. tam bir küçük emrah sahnesi: bakkaldan/fırından ekmeği alıp topukluyoruz.<br/><br/>bir gün barbunya pilav var akşam yemeğinde. bulamayanlar var elbet ama öyle bir barbunyayı onlar da pişmemiş diye geri çevirebilirler. pilavı zaten bir kaşıkta yedin yedin, yoksa ikiye bölerek yutmak mümkün değil. neyse iki üç saat geçti, ben milleti gaza getirmeye çalışıyorum. bu sefer gidip kim kurban olacak diye gözlerim koğuşu geziniyor. baktım kimsenin niyeti yok. belli ki barbunya tok tutmuş, mecbur ben inecektim artık. bir tane çocuk vardı üst ranzamda: yusuf. yusuf saf bir çocuktu. gülmezdi pek, güldüğünde bile yüzünün ifadesi çok değişmezdi. kahkaha attığını veya bir yere koşturduğunu hiç görmedim, çok sakindi. yusuf, 'ben seninle gelirim', dedi. gel dedim. yaverimle beraber balerinler misali parmak ucuyla indik bodrum kattaki karanlık yemekhaneye. neyse ekmek sepetinin başına geçtik, ısırılmamış ekmeklerden seçmeye çalışıyoruz. o sırada arkadan tok bir ses geldi. <br/>- ekmekleri bırakın lan, koğuşunuza çıkın.<br/>karanlıkta arkama bakmaya korkuyorum. yusuf yürekliydi, benim gibi değildi. benim cesaret edemediğimi yaptı ve sırtı dönük seslendi.<br/>+ sen kimsen bilmiyorum ama biz acıktık, ekmek alıp yukarı çıkacağız, dökmeden yiyeceğiz.<br/>- sizin pisliğinizi ben mi temizleyeceğim şerefsizler!<br/>bunu dediğinde net anlamıştık temizlikçi eleman olduğunu, yusufla göz göze geldik.<br/>arkamızı döndük. bize doğru geldi hızlı adımlarla. yusuf elindekilerle beraber birkaç esnek hareketle yukarı kaçtı, temizlikçi hamle yaptı ama yakalayamadı. ve ben yalnız kaldım...<br/><br/>geldi kulağıma asıldı, nasıl bir nefretse sol kulağımı kulak memesinin altından yırttığını hissettim. elimdeki ekmek parçalarını arkamdaki masaya bırakıp elimi attım, elimde kanı gördüm. yalvarıyorum 'murat abi bırak' diye ama iyice asılıyor. küfürler yağdırıyor bana, aileme. yalvarmaktan cevap veremiyorum küfürlerine. sonra bırakıyor, ağlıyorum orada. ağlamamdan korkmuş olacak ki herhalde ekmekleri elime tutuşturup 'siktir yukarı çık hemen' diyor. <br/><br/>çıkıyorum yukarı, arkadaşlara ekmekleri veriyorum. ama nasıl bir acıtasyon ortamı var görmelisiniz. ben gururla ekmekleri pay ediyorum, sonra o kanlı kulağımla alt ranzaya yatıp uyuyorum. <br/>iki gün sonra koğuş arkadaşlarımızın da verdiği cesaretle yusuf'u yanıma alıp, yurt müdürüne durumu anlatıyorum. müdür önce bize kızıyor. <br/>temizlikçi elemanı yanına çağırtmış bir sonraki gün. müdürün elemana nasıl bağırıp çağırdığını nöbetçi <a class="b" href="/?q=belletmen">belletmen</a>den öğreniyoruz o akşam. işten de kovuluyor ama bende bıraktığı yara kapanmıyor...<br/>onu sürekli bir tanıdığa takip ettiriyorum yıllarca. sadece nerede, ne yapıyor onu öğren diyorum. olayla ilgili hiçbir şey anlatmıyorum yıllar boyu. çok kötü bir şey yapmasından korkuyordum, belki de önemsiz gelebileceği ihtimaline karşı... <br/>ilk defa o yaşta birine karşı kin beslemeyi öğrendim. <br/><br/>...<br/><br/>aynı memlekette lise bitiyor. öss sınavını da atlattıktan sonra bir gün yine lise arkadaşım olan yusuf ile elemanın çalıştığı catering şirketinde mesai bitimini bekliyoruz. abiye de durumu bir gece önceden izah ediyorum. zorla ikna ediyorum, yoksa yerini yurdunu söylemeyecekti. <br/>mesai/vardiya çıkışı eleman bizi on adım kala görüyor, iki saniye baktıktan sonra tanıyor, kaçıyor. arkasından koşup yakalıyorum. kimsenin müdahale etmesini istemiyorum. <br/>sonrası malum. ama kulak çok önemliydi!<br/><br/>bu yaptığımı acaba şimdi yine yapar mıyım bilmiyorum. çünkü olayları zamana ve duruma göre değerlendirmek gerekirmiş. yaptığım yanlıştı ama içimde onun ezikliğiyle yaşayamam diye düşünüyordum.<br/>onun cezası sadece yurttan atılmak olmamalıydı. anasından babasından uzak bebeleri dövmek, hatta hiç haddi değilken dövmek, bir ekmek parçasını aldı diye dövmek ne kadar delikanlı davranışıysa benim ki de o denli bir davranıştı. <br/>bugün içim rahat. yapmasam hep bir şey eksik kalacaktı. <br/><br/>nereden mi hatırladım bu anıyı?<br/>bugün yemekte barbunya vardı...
+    henüz ortaokul 2. sınıfım. o vakit vakıf yurdunda kalıyorum. aynen vakıf yurdu, bilenler bilir, vakıf yurdu olmasından mütevellit millet tanıdıklarını işe almış, temizlik görevlisinden ambar memuruna kadar herkesin bir bağlantısı var bir yerlerden. bunlar geceleri sırayla nöbete kalıyor falan. her neyse. aileden uzak bir memleketteyiz. bazılarının anası, bazılarının babası yok bazılarının da kimliğine yazılacak bildikleri ne bir anne ne de bir baba adı var vesselam..<br/>yurt koğuşları (koğuş derdik, askeri jargon) çift kat ranzalı, 12 kişilik. akşam yemekleri doğru düzgün çıkmıyor. her akşam yemekten bir iki saat sonra acıkıyoruz. oda arkadaşlarımızdan kafalayabileceklerimiz arasından kurban seçip yemekhaneye inip masalardan akşamdan toplanan dilimlenmiş ekmeklerden çalıp! açlığımızı bastırmaya çalışıyoruz. tam bir küçük emrah sahnesi: bakkaldan/fırından ekmeği alıp topukluyoruz.<br/><br/>bir gün barbunya pilav var akşam yemeğinde. bulamayanlar var elbet ama öyle bir barbunyayı onlar da pişmemiş diye geri çevirebilirler. pilavı zaten bir kaşıkta yedin yedin, yoksa ikiye bölerek yutmak mümkün değil. neyse iki üç saat geçti, ben milleti gaza getirmeye çalışıyorum. bu sefer gidip kim kurban olacak diye gözlerim koğuşu geziniyor. baktım kimsenin niyeti yok. belli ki barbunya tok tutmuş, mecbur ben inecektim artık. bir tane çocuk vardı üst ranzamda: yusuf. yusuf saf bir çocuktu. gülmezdi pek, güldüğünde bile yüzünün ifadesi çok değişmezdi. kahkaha attığını veya bir yere koşturduğunu hiç görmedim, çok sakindi. yusuf, 'ben seninle gelirim', dedi. gel dedim. yaverimle beraber balerinler misali parmak ucuyla indik bodrum kattaki karanlık yemekhaneye. neyse ekmek sepetinin başına geçtik, ısırılmamış ekmeklerden seçmeye çalışıyoruz. o sırada arkadan tok bir ses geldi. <br/>- ekmekleri bırakın lan, koğuşunuza çıkın.<br/>karanlıkta arkama bakmaya korkuyorum. yusuf yürekliydi, benim gibi değildi. benim cesaret edemediğimi yaptı ve sırtı dönük seslendi.<br/>+ sen kimsen bilmiyorum ama biz acıktık, ekmek alıp yukarı çıkacağız, dökmeden yiyeceğiz.<br/>- sizin pisliğinizi ben mi temizleyeceğim şerefsizler!<br/>bunu dediğinde net anlamıştık temizlikçi eleman olduğunu, yusufla göz göze geldik.<br/>arkamızı döndük. bize doğru geldi hızlı adımlarla. yusuf elindekilerle beraber birkaç esnek hareketle yukarı kaçtı, temizlikçi hamle yaptı ama yakalayamadı. ve ben yalnız kaldım...<br/><br/>geldi kulağıma asıldı, nasıl bir nefretse sol kulağımı kulak memesinin altından yırttığını hissettim. elimdeki ekmek parçalarını arkamdaki masaya bırakıp elimi attım, elimde kanı gördüm. yalvarıyorum 'murat abi bırak' diye ama iyice asılıyor. küfürler yağdırıyor bana, aileme. yalvarmaktan cevap veremiyorum küfürlerine. sonra bırakıyor, ağlıyorum orada. ağlamamdan korkmuş olacak ki herhalde ekmekleri elime tutuşturup 'siktir yukarı çık hemen' diyor. <br/><br/>çıkıyorum yukarı, arkadaşlara ekmekleri veriyorum. ama nasıl bir acıtasyon ortamı var görmelisiniz. ben gururla ekmekleri pay ediyorum, sonra o kanlı kulağımla alt ranzaya yatıp uyuyorum. <br/>iki gün sonra koğuş arkadaşlarımızın da verdiği cesaretle yusuf'u yanıma alıp, yurt müdürüne durumu anlatıyorum. müdür önce bize kızıyor. <br/>temizlikçi elemanı yanına çağırtmış bir sonraki gün. müdürün elemana nasıl bağırıp çağırdığını nöbetçi <a class="b" href="/?q=belletmen">belletmen</a>den öğreniyoruz o akşam. işten de kovuluyor ama bende bıraktığı yara kapanmıyor...<br/>onu sürekli bir tanıdığa takip ettiriyorum yıllarca. sadece nerede, ne yapıyor onu öğren diyorum. olayla ilgili hiçbir şey anlatmıyorum yıllar boyu. çok kötü bir şey yapmasından korkuyordum, belki de önemsiz gelebileceği ihtimaline karşı... <br/>ilk defa o yaşta birine karşı kin beslemeyi öğrendim. <br/><br/>...<br/><br/>aynı memlekette lise bitiyor. öss sınavını da atlattıktan sonra bir gün yine lise arkadaşım olan yusuf ile elemanın çalıştığı catering şirketinde mesai bitimini bekliyoruz. abiye de durumu bir gece önceden izah ediyorum. zorla ikna ediyorum, yoksa yerini yurdunu söylemeyecekti. <br/>mesai/vardiya çıkışı eleman bizi on adım kala görüyor, iki saniye baktıktan sonra tanıyor, kaçıyor. arkasından koşup yakalıyorum. kimsenin müdahale etmesini istemiyorum. <br/>sonrası malum. ama kulak çok önemliydi!<br/><br/>bu yaptığımı acaba şimdi yine yapar mıyım bilmiyorum. çünkü olayları zamana ve duruma göre değerlendirmek gerekirmiş. yaptığım yanlıştı ama içimde onun ezikliğiyle yaşayamam diye düşünüyordum.<br/>onun cezası sadece yurttan atılmak olmamalıydı. anasından babasından uzak bebeleri dövmek, hatta hiç haddi değilken dövmek, bir ekmek parçasını aldı diye dövmek ne kadar delikanlı davranışıysa benim ki de o denli bir davranıştı. <br/>bugün içim rahat. yapmasam hep bir şey eksik kalacaktı. <br/><br/>nereden mi hatırladım bu anıyı?<br/>bugün yemekte barbunya vardı...<br/><br/>edit: arkadaşlar 18. gününde bir yardım kampanyası var: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+y%c4%b1lmaz%27a+yard%c4%b1m+kampanyas%c4%b1">23 nisan 2016 devrim yılmaz'a yardım kampanyası</a>)
    
   entry_writer: kabahatinbuyugukendisindeolanadam
 - entry_name: |
@@ -351,8 +343,8 @@ data:
   entry_id: 60411837
   entry_content: |
     
-    bak hele bak, beşiktaş kazanmamış galatasaray kaybetmiş. neden? galatasaray'ın teknik direktörü hatalı değişiklik yapmış. çünkü galatasaray'ın teknik direktörünün yaptıkları yimpaş yozgatspor'u bağlar. bizim şenol güneş boyko yerine tolga'yı oynatıp uefa'dan elenince de beşiktaş elenmemişti aslında. bi de tiner falan demiş, akıl fikir...
-    
+    bak hele bak, beşiktaş kazanmamış galatasaray kaybetmiş. neden? galatasaray'ın teknik direktörü hatalı değişiklik yapmış. çünkü galatasaray'ın teknik direktörünün yaptıkları yimpaş yozgatspor'u bağlar. bizim şenol güneş boyko yerine tolga'yı oynatıp uefa'dan elenince de beşiktaş elenmemişti aslında. bi de tiner falan demiş, akıl fikir....<br/><br/>edit: düzelten arkadaşlara teşekkürler, boyko bize uefa'dan sonra gelmişti fakat bu anlatılmak isteneni etkileyen bir detay değil.
+   
   entry_writer: yedi faktoriyel
 - entry_name: |
     8 mayıs 2016 recep tayyip erdoğan konuşması
@@ -367,7 +359,7 @@ data:
   entry_id: 60413837
   entry_content: |
     
-    -buradan bir istegin var mi baba??<br/>-bir biskuvi varmis, 18 mart'in yildonumunde cikiyormus. arkasinda ataturk'un sozleri yaziyormus. bulabilir misin onu?<br/>-oldu bil. <br/><br/>laf agizdan bir kez cikar, delikanliya yakisan da budur. ancak delikanlinin bilmedigi de sudur, o biskuvi, sadece anzak gunu'nun 100. yilina ozel, bu ambalajla cikmistir. yani, 2015'te piyasaya cikarilmis ve devami gelmemistir. ama, dedik ya, mesele baba dilegi... <br/><br/>hemen bir sorusturma, 3 tane supermarkete facebook'tan mesaj attim. biri cevap vermedi, biri "imkansiz." dedi, biriyse umutlari yesertti. (coles, umutlari yeserten marketin adi. coles express adinda benzin istasyonlari bulunan ve bu istasyonlarda kesınlıkle asgari ucretin altina dayi oglunu, hintli ogrencileri calistirmayan, onune gelene ve parasi olana bayilik vermeyen, kurumsalligi gercek anlamiyla yasayan, buyuk ve guzel adamlar.)<br/><br/>dediler ki, madem laf agizdan cikti, elimizden geleni ardimiza koymayiz. dagitimci firmayla iletisime gectiler, benim adima, adres bilgilerimi aldilar ve bugun on bahceye ciktigimda biraktiklari pakedi gordum. <br/><br/>bu, belki de onlar icin 3 dolara yapilmis basit bir reklamdi ancak benim icin cok degerliydi. aynisini turkiye'de yaptigimizda, belli basli marka veya sirketler tabii ki olumlu veya olumsuz size geri donus yaparlar ancak uzun bir muddet sosyal medyada calismis bir reklamci olarak, ajanslardaki atmosferi bilen bir reklamci olarak konusuyorum, yuzde 90 ihtimal tum ajans toplanip sizinle dalga gecer. markanin pazarlama departmaninin da farkli davranacagini sanmam.<br/><br/>bugun gordugum yaklasim avustralya'yi bana sevdirmedi, ben avustralya'yi coktan sevmistim, ancak bugun asik oldum. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.instagram.com/p/BFK9YZOMbbW/?taken-by=2doubles" title="https://www.instagram.com/p/BFK9YZOMbbW/?taken-by=2doubles">https://www.instagram.com/…ombbw/?taken-by=2doubles</a>
+    -buradan bir istegin var mi baba??<br/>-bir biskuvi varmis, 18 mart'in yildonumunde cikiyormus. arkasinda ataturk'un sozleri yaziyormus. bulabilir misin onu?<br/>-oldu bil. <br/><br/>laf agizdan bir kez cikar, delikanliya yakisan da budur. ancak delikanlinin bilmedigi de sudur, o biskuvi, sadece anzak gunu'nun 100. yilina ozel, bu ambalajla cikmistir. yani, 2015'te piyasaya cikarilmis ve devami gelmemistir. ama, dedik ya, mesele baba dilegi... <br/><br/>hemen bir sorusturma, 3 tane supermarkete facebook'tan mesaj attim. biri cevap vermedi, biri "imkansiz." dedi, biriyse umutlari yesertti. (coles, umutlari yeserten marketin adi. coles express adinda benzin istasyonlari bulunan ve bu istasyonlarda kesınlıkle asgari ucretin altina dayi oglunu, hintli ogrencileri calistirmayan, onune gelene ve parasi olana bayilik vermeyen, kurumsalligi gercek anlamiyla yasayan, buyuk ve guzel adamlar.)<br/><br/>dediler ki, madem laf agizdan cikti, elimizden geleni ardimiza koymayiz. dagitimci firmayla iletisime gectiler, benim adima, adres bilgilerimi aldilar ve bugun on bahceye ciktigimda biraktiklari pakedi gordum. <br/><br/>bu, belki de onlar icin 3 dolara yapilmis basit bir reklamdi ancak benim icin cok degerliydi. aynisini turkiye'de yaptigimizda, belli basli marka veya sirketler tabii ki olumlu veya olumsuz size geri donus yaparlar ancak uzun bir muddet sosyal medyada calismis bir reklamci olarak, ajanslardaki atmosferi bilen bir reklamci olarak konusuyorum, yuzde 90 ihtimal tum ajans toplanip sizinle dalga gecer. markanin pazarlama departmaninin da farkli davranacagini sanmam.<br/><br/>bugun gordugum yaklasim avustralya'yi bana sevdirmedi, ben avustralya'yi coktan sevmistim, ancak bugun asik oldum. <br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.instagram.com/p/BFK9YZOMbbW/?taken-by=2doubles" title="https://www.instagram.com/p/BFK9YZOMbbW/?taken-by=2doubles">https://www.instagram.com/…ombbw/?taken-by=2doubles</a><br/><br/>debe edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>) <br/><br/>ote yandan bunu debe'ye sokan ve fotografi begenen herkese tesekkurler. acikcasi fotografi instagram linkiyle verme sebebim begeni kaygim degildi. hikayeyi ingilizce haliyle orada paylasmistim, bu yuzden yaptim boyle bir sey.
    
   entry_writer: dis
 - entry_name: |
@@ -391,7 +383,7 @@ data:
   entry_id: 60427063
   entry_content: |
     
-    serkay'dan, semih'ten, atakan'dan, nagihan'dan çok efecan'ın itici olduğu program.  <br/><br/>yarış kazandıktan sonra dızıııaaaa diye bağırıyor. ardından gökyüzüne birkaç saniye boş boş bakıyor. sonra bileğini öpüyor (bileklik ya da dövme tarzı bir şey yok, bileği bomboş). sonra dönüp gidiyor. <br/><br/>saçma sapan, gereksiz ve itici haller.
+    serkay'dan, semih'ten, atakan'dan, nagihan'dan çok efecan'ın itici olduğu program.  <br/><br/>yarış kazandıktan sonra dızıııaaaa diye bağırıyor. ardından gökyüzüne birkaç saniye boş boş bakıyor. sonra bileğini öpüyor (bileklik ya da dövme tarzı bir şey yok, bileği bomboş). sonra dönüp gidiyor. <br/><br/>saçma sapan, gereksiz ve itici haller.<br/><br/>(bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
    
   entry_writer: baygu
 - entry_name: |
@@ -399,7 +391,7 @@ data:
   entry_id: 60429992
   entry_content: |
     
-    "besiktas'a sampiyonlugu elimizle hediye ettik""<br/><br/>- besiktas lider. sen kazansaydin da liderdi, kaybettiginde de lider.<br/><br/>- 34 haftalik ligin 25 haftasini besiktas lider götürmüs, oynanan maclarin esit oldugu haftalarin hicbirinde bir kere bile lider olamamissin.<br/><br/>- sampiyon olma ihtimalin hicbir hafta besiktasinkinden fazla olmamis.<br/><br/>ondan sonra cikip "hediye ettik" diyeceksin hemi?<br/><br/>hassiktir ordan.
+    "besiktas'a sampiyonlugu elimizle hediye ettik""<br/><br/>- besiktas lider. sen kazansaydin da liderdi, kaybettiginde de lider.<br/><br/>- 34 haftalik ligin 29 haftasini besiktas lider götürmüs, oynanan maclarin esit oldugu haftalarin hicbirinde bir kere bile lider olamamissin.<br/><br/>- sampiyon olma ihtimalin hicbir hafta besiktasinkinden fazla olmamis.<br/><br/>ondan sonra cikip "hediye ettik" diyeceksin hemi?<br/><br/>edit: (bkz: <a class="b" href="/?q=23+nisan+2016+devrim+yilmaza+yardim+kampanyasi">23 nisan 2016 devrim yilmaza yardim kampanyasi</a>)
    
   entry_writer: acsr777
 ---
