@@ -31,7 +31,7 @@ data:
   entry_id: 60500613
   entry_content: |
     
-    sezen hanım inşallah evlidir de kocası gelip götünüzden kan alır..<br/><br/>boku çıkan başlık türü.
+    sezen hanım inşallah evlidir de kocası gelip götünüzden kan alır..<br/><br/>boku çıkan başlık türü.<br/><br/>debe editi: önce istanbul erkek, şimdi kadıköy anadolu. tarihi olan gelenekleri yerleşmiş olan okullara yapılan baskı politikası daha nereye kadar devam edecek.
    
   entry_writer: annl
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 60492105
   entry_content: |
     
-    iranlıların bir kısmının daha uçaktayken başörtülerini çıkarıp attığını, hatta bazılarının uçağın tuvaletinde üstünü değiştirerek askılı t-shirt, şort vs giydiğini, üstelik iranlı kızların genellikle güzel ve bakımlı olduğunu bilmeyen arkadaşları rahatsız eden durum.  <br/><br/>sıkıntı yok gelsinler. <br/><br/>sen hiç ingilterenin fransanın iranlı turist gelmesin, hintli turist gelmesin, afrikalı turist gelmesin vs. dediğini duydun mu?<br/><br/>edit: türkiye'de millet üstsüz denize giriyor ama yukarıdaki edite göre şort giyen iranlı müslüman ülke olduğu için türkiye'ye gelmezmiş. allah akıl fikir versin, ne diyeyim?
+    iranlıların bir kısmının daha uçaktayken başörtülerini çıkarıp attığını, hatta bazılarının uçağın tuvaletinde üstünü değiştirerek askılı t-shirt, şort vs giydiğini, üstelik iranlı kızların genellikle güzel ve bakımlı olduğunu bilmeyen arkadaşları rahatsız eden durum.  <br/><br/>sıkıntı yok gelsinler. <br/><br/>sen hiç ingilterenin fransanın iranlı turist gelmesin, hintli turist gelmesin, afrikalı turist gelmesin vs. dediğini duydun mu?<br/><br/>edit: türkiye'de millet üstsüz denize giriyor ama yukarıdaki edite göre şort giyen iranlı müslüman ülke olduğu için türkiye'ye gelmezmiş. allah akıl fikir versin, ne diyeyim?<br/><br/>edit 2: eleman sayfalarca ayar yiyince entry'sini baştan aşağı değiştirmiş ama <a rel="nofollow" class="url" target="_blank" href="http://prnt.sc/b3uu50" title="http://prnt.sc/b3uu50">orijinal entry tabi ki burada</a>
    
   entry_writer: taksi kime
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 60503711
   entry_content: |
     
-    gezi'de geri adam atmak artik nasil bir travma yarattiysa, hala unutamadi adam..<br/><br/>(bkz: <a class="b" href="/?q=kuyruk+acisi">kuyruk acisi</a>)
+    gezi'de geri adam atmak artik nasil bir travma yarattiysa, hala unutamadi adam..<br/><br/>(bkz: <a class="b" href="/?q=kuyruk+acisi">kuyruk acisi</a>)<br/><br/>edit: bu entry'yi debe'ye girmesi icin bilerek yazdim. bunun gibi yeni hicbir sey soylemeyen iki satirlik laf sokma entry'lerin debe'ye girmesi engellenmeli. basligin ikinci entry'si oldugu icin bir entry debe olmamali.
    
   entry_writer: hiko seijuro
 - entry_name: |
@@ -127,7 +127,7 @@ data:
   entry_id: 60499108
   entry_content: |
     
-    zamanında biri, gelecekte mhp kongresinin yapılacağına sevineceğimi söyleseydi üstüne  <a class="b" href="/?q=atom+bombas%c4%b1">atom bombası</a> atardım. tuhaf bir dünyada yaşıyoruz.<br/>(bkz: <a class="b" href="/?q=neler+oluyor+hayatta">neler oluyor hayatta</a>)
+    zamanında biri, gelecekte mhp kongresinin yapılacağına sevineceğimi söyleseydi üstüne  <a class="b" href="/?q=atom+bombas%c4%b1">atom bombası</a> atardım. tuhaf bir dünyada yaşıyoruz.<br/>(bkz: <a class="b" href="/?q=neler+oluyor+hayatta">neler oluyor hayatta</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: kuşlar, gelişigüzel yere atılan sakızları ekmek kırıntısı sanıp açlıklarını gidermeye çalışıyorlar. daha sonra sakızlar, gagalarına yapıştığı için yemek yiyemeyip ölüyorlar. bu yüzden insanların, sakızı yere atmak yerine çöpe atmaları, kuşlar için önemli. tüm insanların bu konuda daha duyarlı olmaları gerekiyor. yere atılan her sakızın yüzlerce kuşun ölmesi demektir.
    
   entry_writer: toma kovalayan cilgin dozer
 - entry_name: |
@@ -162,22 +162,6 @@ data:
     çevreyle alakalıdır. benim çevremde izleyen çok var, hepsi de sahne sahne anlatır.
     
   entry_writer: dozzi89
-- entry_name: |
-    13 mayıs 2016 kobra helikopterinin vurulması
-  entry_id: 60491716
-  entry_content: |
-    
-    diktatör bozuntusu orospu çocuğu ve onun sevdalısı orospu çocukları hariç hepimizin başı sağolsun.  <br/><br/>bunların sorumlusu sizsiniz ve sizden kurtulduğumuz zaman bu ülke güzel bir yer olacak.
-   
-  entry_writer: chepi
-- entry_name: |
-    kostas sloukas
-  entry_id: 60508299
-  entry_content: |
-    
-    büyük oynadı. tam bir orospu çocuğu yunan guard gibi oynadı.  <br/><br/>tanım: orospu çocuğu yunan guard. ama bu defa bizim tarafta.
-   
-  entry_writer: shaaborz
 - entry_name: |
     avrupa'nın sadece masallarda güzel olduğu gerçeği
   entry_id: 60494304
@@ -247,7 +231,7 @@ data:
   entry_id: 60491993
   entry_content: |
     
-    programcılık ve yazılım mühendisliği 80'li yıllara kadar bir "erkek mesleği" değil. tam tersine kadın akademisyenler bilgisayar bilimlerinin gelişmesinde ciddi rol oynamışlar. ne yazık ki  <a rel="nofollow" class="url" target="_blank" href="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding" title="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding">80'lerde ev bilgisayarlarının neredeyse tamamen erkek çocuklara yönelik pazarlanmasıyla birlikte</a> bu eşleştirme kadınların bilgisayar bilimlerinden uzaklaşmalarına ve ortamın erkeklere kalmasına yol açmış. <br/><br/>kadınlar bilgisayar bilimlerindeki başarılarını hak ve özgürlük olarak çok geride oldukları, kendilerinden evlenip çocuk bakmalarının beklendiği dönemlerde ya da işin "erkek işi" kabul edilidiği dönemlerde çalışıp elde etmişler. çoğu başarısını kazanmadan evvel yaşamlarının bir noktasında oy verme hakkı kazanmış. haliyle başarılarının her biri sıradışı. <br/><br/>muhtemelen artık kadınların biligisayar bilimlerine geri dönüşünü daha artan hızda göreceğiz. özellikle takip ettiğim bilgi güvenliği ve yazılım alanında kadın uzman mevcudu gitgide artıyor.<br/><br/>geçenlerde bu tarz bir yazıya denk gelmiştim ama eksikti (margaret hamilton yoktu mesela). biraz daha araştırıp daha dolu bir liste elde etmeye çalıştım. gözümden kaçmış olanları da eklersiniz.<br/><br/>tarihteki ilk programcı. bu kolay: <a class="b" href="/?q=ada+lovelace">ada lovelace</a>. ama programladığı dijital değil analog bir hesaplama makinası. peki ilk dijital bilgisayar? ilk dijital bilgisayar <a class="b" href="/?q=eniac">eniac</a>'ın programcıları da tamamı kadınlardan oluşan bir ekip: <a class="b" href="/?q=frances+snyder+holber">frances snyder holber</a>, <a class="b" href="/?q=kathleen+mcnulty">kathleen mcnulty</a>, <a class="b" href="/?q=mauchly+antonelli">mauchly antonelli</a>, <a class="b" href="/?q=jean+jennings+bartik">jean jennings bartik</a>, <a class="b" href="/?q=marlyn+wescoff+meltzer">marlyn wescoff meltzer</a>, <a class="b" href="/?q=frances+bilas+spence">frances bilas spence</a> and <a class="b" href="/?q=ruth+lichterman+teitelbaum">ruth lichterman teitelbaum</a>. o dönem tabi "programcı" diye bir meslek yok. çoğu matematik, fizik gibi bölümlerde okuyorlarmış.<br/><br/>tarihteki ilk e-kitap okuyucunun mucidi <a class="b" href="/?q=angela+robles">angela robles</a>. ispanyol mucit üç çocuk annesi. 1949'da icat ettiği ve patentlediği cihazın çalışır durumda bir prototipi ispanya'da ulusal bilim ve teknoloji müzesi'nde sergileniyormuş.<br/><br/>dünyadaki ilk bilgisayar tabanlı telefon santrali yazılımının geliştiricisi ve buradaki icadıyla ilk yazılım patentlerinden birinin sahibi <a class="b" href="/?q=erna+schneider+hoover">erna schneider hoover</a>. icat aklına ikinci çocuğunu doğurduktan sonra hastanede yatarken gelmiş. bu yüzden o sırada çalıştığı bell labs'in avukatları patent belgelerini imzalatmak için kendisini doğum izninde ziyaret etmişler.<br/><br/>efsane oyun <a class="b" href="/?q=river+raid">river raid</a>'in yaratıcısı ve 128-byte'lık hafızada sonsuz büyüklükte harita üreten mimarisinin geliştiricisi <a class="b" href="/?q=carol+shaw">carol shaw</a>. ürettiği eser büyük bir teknik başarı olması dışında sonradan koskoca bir <a class="b" href="/?q=shoot%27em+up">shoot'em up</a> janrının şekillenmesini sağladı. tarihteki ilk profesyonel kadın video oyun tasarımcısı olarak biliniyor.<br/><br/>adventure oyun dalında ortalığı sarsmış <a class="b" href="/?q=sierra">sierra</a>'nın iki kurucusundan ve kült oyun serisi <a class="b" href="/?q=king%27s+quest">king's quest</a>'in yaratıcısı <a class="b" href="/?q=roberta+williams">roberta williams</a>. aynı zamanda 1980 yılında <a class="b" href="/?q=mystery+house">mystery house</a> adında tarihteki ilk grafikli adventure tarzındaki oyunu yaratan kişiymiş. <br/><br/>bugün tüm smartphone'larda (iphone dahil) ve çok sayıda elektronik cihazda kullanılan <a class="b" href="/?q=arm">arm</a> işlemci mimarisinin tasarımcısı, geçmişte de <a class="b" href="/?q=acorn">acorn</a> bilgisayarlarının ve efsanevi <a class="b" href="/?q=bbc+basic">bbc basic</a>'in geliştiricisi <a class="b" href="/?q=sophie+wilson">sophie wilson</a>. <br/><br/><a class="b" href="/?q=bluetooth">bluetooth</a>, <a class="b" href="/?q=wi-fi">wi-fi</a> gibi pek çok kablosuz iletişim teknolojisinde yer alan "<a class="b" href="/?q=frekans+atlama">frekans atlama</a> (<a class="b" href="/?q=fhss">fhss</a>)" tekniğinin mucidi <a class="b" href="/?q=hedy+lamarr">hedy lamarr</a>. hedy lamarr aynı zamanda bir film yıldızı, hatta bir filmde çıplak görünen ilk kadın oyuncu.<br/><br/>ilk nesneye yönelik programlama dillerinden biri olan <a class="b" href="/?q=clu">clu</a>'yu geliştiren ama en çok <a class="b" href="/?q=oop">oop</a> programcılarının aşina olduğu <a class="b" href="/?q=liskov+de%c4%9fi%c5%9ftirme+prensibi">liskov değiştirme prensibi</a> ile bilinen <a class="b" href="/?q=barbara+liskov">barbara liskov</a>.<br/><br/><a class="b" href="/?q=bug">bug</a> ve <a class="b" href="/?q=debugging">debugging</a> terimlerinin mucidi <a class="b" href="/?q=grace+hopper">grace hopper</a>. hopper, 1950 yılında tarihteki ilk derleyiciyi geliştirmiş. tarihteki ilk yüksek seviyeli programlama dillerinden <a class="b" href="/?q=cobol">cobol</a>'u geliştirmiş. kendisinin bunları yapmasından 70 yıl sonra hala program yazarken çıkan bug'ları debug ettiğimiz, hala yüksek seviyeli dillerde bir şeyler yazıp derlediğimiz hatta bazı yerlerde hala cobol kullanıldığı düşünülürse bize çok uzun ömürlü bir miras bıraktığını söyleyebiliriz.<br/><br/><a class="b" href="/?q=yaz%c4%b1l%c4%b1m+m%c3%bchendisli%c4%9fi">yazılım mühendisliği</a> tabirinin mucidi, nasa'nın aya ve uzaya seyahatte kullanılan <a class="b" href="/?q=apollo+guidance+computer">apollo guidance computer</a>'ın yazılımının geliştiricisi ve geliştirme ekibi yöneticisi <a class="b" href="/?q=margaret+hamilton">margaret hamilton</a>. bilgisayar bilimlerine günümüzde pek revaçta olan <a class="b" href="/?q=asenkron+programlama">asenkron programlama</a>, <a class="b" href="/?q=priority+queue">priority queue</a>, <a class="b" href="/?q=fault+tolerance">fault tolerance</a> konularında da tarihteki ilk modelleri geliştirmiş (bkz: <a class="b" href="/?q=margaret+hamilton%2f%40ssg">margaret hamilton/@ssg</a>).
+    programcılık ve yazılım mühendisliği 80'li yıllara kadar bir "erkek mesleği" değil. tam tersine kadın akademisyenler bilgisayar bilimlerinin gelişmesinde ciddi rol oynamışlar. ne yazık ki  <a rel="nofollow" class="url" target="_blank" href="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding" title="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding">80'lerde ev bilgisayarlarının neredeyse tamamen erkek çocuklara yönelik pazarlanmasıyla birlikte</a> bu eşleştirme kadınların bilgisayar bilimlerinden uzaklaşmalarına ve ortamın erkeklere kalmasına yol açmış. <br/><br/>kadınlar bilgisayar bilimlerindeki başarılarını hak ve özgürlük olarak çok geride oldukları, kendilerinden evlenip çocuk bakmalarının beklendiği dönemlerde ya da işin "erkek işi" kabul edilidiği dönemlerde çalışıp elde etmişler. çoğu başarısını kazanmadan evvel yaşamlarının bir noktasında oy verme hakkı kazanmış. haliyle başarılarının her biri sıradışı. <br/><br/>muhtemelen artık kadınların biligisayar bilimlerine geri dönüşünü daha artan hızda göreceğiz. özellikle takip ettiğim bilgi güvenliği ve yazılım alanında kadın uzman mevcudu gitgide artıyor.<br/><br/>geçenlerde bu tarz bir yazıya denk gelmiştim ama eksikti (margaret hamilton yoktu mesela). biraz daha araştırıp daha dolu bir liste elde etmeye çalıştım. gözümden kaçmış olanları da eklersiniz.<br/><br/>tarihteki ilk programcı. bu kolay: <a class="b" href="/?q=ada+lovelace">ada lovelace</a>. ama programladığı dijital değil analog bir hesaplama makinası. peki ilk dijital bilgisayar? ilk dijital bilgisayar <a class="b" href="/?q=eniac">eniac</a>'ın programcıları da tamamı kadınlardan oluşan bir ekip: <a class="b" href="/?q=frances+snyder+holber">frances snyder holber</a>, <a class="b" href="/?q=kathleen+mcnulty">kathleen mcnulty</a>, <a class="b" href="/?q=mauchly+antonelli">mauchly antonelli</a>, <a class="b" href="/?q=jean+jennings+bartik">jean jennings bartik</a>, <a class="b" href="/?q=marlyn+wescoff+meltzer">marlyn wescoff meltzer</a>, <a class="b" href="/?q=frances+bilas+spence">frances bilas spence</a> ve <a class="b" href="/?q=ruth+lichterman+teitelbaum">ruth lichterman teitelbaum</a>. o dönem tabi "programcı" diye bir meslek yok. çoğu matematik, fizik gibi bölümlerde okuyorlarmış.<br/><br/>tarihteki ilk e-kitap okuyucunun mucidi <a class="b" href="/?q=angela+robles">angela robles</a>. ispanyol mucit üç çocuk annesi. 1949'da icat ettiği ve patentlediği cihazın çalışır durumda bir prototipi ispanya'da ulusal bilim ve teknoloji müzesi'nde sergileniyormuş.<br/><br/>dünyadaki ilk bilgisayar tabanlı telefon santrali yazılımının geliştiricisi ve buradaki icadıyla ilk yazılım patentlerinden birinin sahibi <a class="b" href="/?q=erna+schneider+hoover">erna schneider hoover</a>. icat aklına ikinci çocuğunu doğurduktan sonra hastanede yatarken gelmiş. bu yüzden o sırada çalıştığı bell labs'in avukatları patent belgelerini imzalatmak için kendisini doğum izninde ziyaret etmişler.<br/><br/>efsane oyun <a class="b" href="/?q=river+raid">river raid</a>'in yaratıcısı ve 128-byte'lık hafızada sonsuz büyüklükte harita üreten mimarisinin geliştiricisi <a class="b" href="/?q=carol+shaw">carol shaw</a>. ürettiği eser büyük bir teknik başarı olması dışında sonradan koskoca bir <a class="b" href="/?q=shoot%27em+up">shoot'em up</a> janrının şekillenmesini sağladı. tarihteki ilk profesyonel kadın video oyun tasarımcısı olarak biliniyor.<br/><br/>adventure oyun dalında ortalığı sarsmış <a class="b" href="/?q=sierra">sierra</a>'nın iki kurucusundan biri ve kült oyun serisi <a class="b" href="/?q=king%27s+quest">king's quest</a>'in yaratıcısı <a class="b" href="/?q=roberta+williams">roberta williams</a>. aynı zamanda 1980 yılında <a class="b" href="/?q=mystery+house">mystery house</a> adında tarihteki ilk grafikli adventure tarzındaki oyunu yaratan kişiymiş. <br/><br/>bugün tüm smartphone'larda (iphone dahil) ve çok sayıda elektronik cihazda kullanılan <a class="b" href="/?q=arm">arm</a> işlemci mimarisinin tasarımcısı, geçmişte de <a class="b" href="/?q=acorn">acorn</a> bilgisayarlarının ve efsanevi <a class="b" href="/?q=bbc+basic">bbc basic</a>'in geliştiricisi <a class="b" href="/?q=sophie+wilson">sophie wilson</a>. <br/><br/><a class="b" href="/?q=bluetooth">bluetooth</a>, <a class="b" href="/?q=wi-fi">wi-fi</a> gibi pek çok kablosuz iletişim teknolojisinde yer alan "<a class="b" href="/?q=frekans+atlama">frekans atlama</a> (<a class="b" href="/?q=fhss">fhss</a>)" tekniğinin mucidi <a class="b" href="/?q=hedy+lamarr">hedy lamarr</a>. hedy lamarr aynı zamanda bir film yıldızı, hatta bir filmde çıplak görünen ilk kadın oyuncu.<br/><br/>ilk nesneye yönelik programlama dillerinden biri olan <a class="b" href="/?q=clu">clu</a>'yu geliştiren ama en çok <a class="b" href="/?q=oop">oop</a> programcılarının aşina olduğu <a class="b" href="/?q=liskov+de%c4%9fi%c5%9ftirme+prensibi">liskov değiştirme prensibi</a> ile bilinen <a class="b" href="/?q=barbara+liskov">barbara liskov</a>.<br/><br/><a class="b" href="/?q=bug">bug</a> ve <a class="b" href="/?q=debugging">debugging</a> terimlerinin mucidi <a class="b" href="/?q=grace+hopper">grace hopper</a>. hopper, 1950 yılında tarihteki ilk derleyiciyi geliştirmiş. tarihteki ilk yüksek seviyeli programlama dillerinden <a class="b" href="/?q=cobol">cobol</a>'u geliştirmiş. kendisinin bunları yapmasından 70 yıl sonra hala program yazarken çıkan bug'ları debug ettiğimiz, hala yüksek seviyeli dillerde bir şeyler yazıp derlediğimiz hatta bazı yerlerde hala cobol kullanıldığı düşünülürse bize çok uzun ömürlü bir miras bıraktığını söyleyebiliriz.<br/><br/><a class="b" href="/?q=yaz%c4%b1l%c4%b1m+m%c3%bchendisli%c4%9fi">yazılım mühendisliği</a> tabirinin mucidi, nasa'nın aya ve uzaya seyahatte kullanılan <a class="b" href="/?q=apollo+guidance+computer">apollo guidance computer</a>'ın yazılımının geliştiricisi ve geliştirme ekibi yöneticisi <a class="b" href="/?q=margaret+hamilton">margaret hamilton</a>. bilgisayar bilimlerine günümüzde pek revaçta olan <a class="b" href="/?q=asenkron+programlama">asenkron programlama</a>, <a class="b" href="/?q=priority+queue">priority queue</a>, <a class="b" href="/?q=fault+tolerance">fault tolerance</a> konularında da tarihteki ilk modelleri geliştirmiş (bkz: <a class="b" href="/?q=margaret+hamilton%2f%40ssg">margaret hamilton/@ssg</a>).
    
   entry_writer: ssg
 - entry_name: |
@@ -258,22 +242,6 @@ data:
     250 gr demir diyenlere hak verdiğim röportaj. 250 gr demir nerden baksan bi yarım kilo filan vardır.
     
   entry_writer: gliese 581
-- entry_name: |
-    kıç temizlemeden don değiştirmeden 1 yıl geçirmek
-  entry_id: 60500256
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+harbi+harbi+sikeyim">açacağın başlığı harbi harbi sikeyim</a>)
-   
-  entry_writer: larker
-- entry_name: |
-    kızıl saçlı beyaz tenli dövmeli ateist bakire kız
-  entry_id: 60500128
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=ya+hadi+bi+siktir">ya hadi bi siktir</a>)
-   
-  entry_writer: limonpedia
 - entry_name: |
     fuatavni
   entry_id: 60494609
@@ -327,8 +295,8 @@ data:
   entry_id: 60499540
   entry_content: |
     
-    bildiğiniz soda limona churchill diyorsa o adam izmirlidir.
-    
+    bildiğiniz soda limona churchill diyorsa o kişi izmirlidir..<br/><br/>edit: izmirli arkadaslar deli gibi mesaj atıyor churchill farklı onun içinde tuz var diye. ankara ve istanbul'da(başka yerleri bilmiyorum) hiçbir menüde churchill diye bir içecek yoktur;soda limon vardır ve içinde mutlaka tuz vardır.
+   
   entry_writer: sumuklu doktor
 - entry_name: |
     dinle ilgili en iyi filmler
