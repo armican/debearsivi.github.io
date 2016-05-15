@@ -75,14 +75,6 @@ data:
    
   entry_writer: elestirenman
 - entry_name: |
-    güneş dünya'nın üstüne düşse olacaklar
-  entry_id: 60523727
-  entry_content: |
-    
-    6-b'den ali arkadaşımız sorusunu ve cevabını bizimle paylaştı. teşekkürler ali.
-    
-  entry_writer: cedrus deodara
-- entry_name: |
     teknik arıza sebebiyle düşen helikopter videosu
   entry_id: 60517622
   entry_content: |
@@ -151,7 +143,7 @@ data:
   entry_id: 60522185
   entry_content: |
     
-    kesinlikle edebiyat, aksini iddia edenle muhatap bile olmam..<br/><br/>(bkz: <a class="b" href="/?q=pu%c5%9fkin">puşkin</a>)<br/>(bkz: <a class="b" href="/?q=dostoyevski">dostoyevski</a>)<br/>(bkz: <a class="b" href="/?q=tolstoy">tolstoy</a>)<br/>(bkz: <a class="b" href="/?q=gogol">gogol</a>)
+    kesinlikle edebiyat, aksini iddia edenle muhatap bile olmam..<br/><br/>(bkz: <a class="b" href="/?q=pu%c5%9fkin">puşkin</a>)<br/>(bkz: <a class="b" href="/?q=dostoyevski">dostoyevski</a>)<br/>(bkz: <a class="b" href="/?q=tolstoy">tolstoy</a>)<br/>(bkz: <a class="b" href="/?q=gogol">gogol</a>)<br/><br/>edit : <a class="b" href="/?q=rostoyevski">rostoyevski</a> şunları da ekleyebilirsin dedi ;<br/><br/>(bkz: <a class="b" href="/?q=anton+pavlovi%c3%a7+%c3%a7ehov">anton pavloviç çehov</a>)<br/>(bkz: <a class="b" href="/?q=maksim+gorki">maksim gorki</a>)<br/>(bkz: <a class="b" href="/?q=vladimir+nabokov">vladimir nabokov</a>)<br/>(bkz: <a class="b" href="/?q=ivan+turgenyev">ivan turgenyev</a>)<br/>(bkz: <a class="b" href="/?q=mihail+bulgakov">mihail bulgakov</a>)<br/><br/>kendisine teşekkürler, yazarlar da say say bitmiyor maşallah.
    
   entry_writer: hayati cozemeyen adam
 - entry_name: |
@@ -159,7 +151,7 @@ data:
   entry_id: 60517681
   entry_content: |
     
-    tarihinin en kötü dönemini geçirmektedir. ötesi berisi yok..<br/><br/>bunda kendi kabahati de hiç azımsanmayacak bir orandadır.
+    tarihinin en kötü dönemini geçirmektedir. ötesi berisi yok..<br/><br/>bunda kendi kabahati de hiç azımsanmayacak bir orandadır.<br/><br/>debe editi: hırsız ve şürekası yargılanacak. göreceksiniz.<br/><br/>daha da ilginci bunu, sizin bugün ötelediğiniz, yerden yere vurduğunuz, başlarına gelmedik kalmasın diye dualar ettiğiniz adamların 17 aralık sonrası duruşu sağlayacak. siz de gerçeklik anlamında bunu göreceksiniz.
    
   entry_writer: hani marjinal bizdik
 - entry_name: |
@@ -239,7 +231,7 @@ data:
   entry_id: 60515940
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=midilli+irade">midilli irade</a>)
+    (bkz:  <a class="b" href="/?q=midilli+irade">midilli irade</a>)<br/><br/>debe edit<br/>(bkz: <a class="b" href="/entry/60534633">#60534633</a>)
    
   entry_writer: saatsiz bomba
 - entry_name: |
@@ -263,7 +255,7 @@ data:
   entry_id: 60516383
   entry_content: |
     
-    sene: 20066<br/>yer: nevizade <br/>bilgi üniversiteli liboş eceler ve berkeler beni ti'ye alıyor. "tehlikenin farkında mısın yaf? şeriat geliyo kaç kaç" diyorlar. "sende kemalist kişilik bozukluğu mu var yhaa?" gibisinden laflar. hepsi de ahmet altan okuyor, can dündar atatürk belgeseli çekiyor. atatürk'e hakaret etmek bir entellik belirtisi adeta.<br/>kafamdaki tek düşünce: kesin bi şekilde avrupa'da para edecek bir meslek edinmeliyim, yazılımcılık vb. gibi<br/><br/>sene: 2016<br/>yer: helsinki / marina hatta <a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/mattolaituri/photos/a.166219686723712.39725.166211710057843/1183020171710320/?type=3&theaterater" title="https://www.facebook.com/mattolaituri/photos/a.166219686723712.39725.166211710057843/1183020171710320/?type=3&theaterater">şurası:</a> <br/>finlandiya'nın en büyük yazılım şirketinde staj yapıyorum ve ab vatandaşı oldum. bir gün işsiz kalsam bile sadece işsiz maaşım bu keriz liboşların 4 katı. ben frozen margaritamı yudumlarken bu kerizler de sultanbeyli'den ve metrobüsten ağlayarak girdikleri facebook'ta can dündar'ın vurulma videosunu "gözyaşları içindeyim" diye paylaşıyorlar. <br/>kafamdaki tek düşünce: üzüldüm lan. zuhahahahahaa şaka lan ne üzülcem beter olun :) daha dur bebişim daha dur. bilal'in ayağını yıkayacağın günler gelecek. kilis'ten beter dümdüz edilebilir o güzel mahellen, hiç belli olmaz. ağla bebeyim.<br/><br/>not: her gün bu başlıkta liboşlarla taşak geçmek boynumun borcudur.
+    sene: 20066<br/>yer: nevizade <br/>bilgi üniversiteli liboş eceler ve berkeler beni ti'ye alıyor. "tehlikenin farkında mısın yaf? şeriat geliyo kaç kaç" diyorlar. "sende kemalist kişilik bozukluğu mu var yhaa?" gibisinden laflar. hepsi de ahmet altan okuyor, can dündar atatürk belgeseli çekiyor. atatürk'e hakaret etmek bir entellik belirtisi adeta. ekşi'nin ağır abilerinden otisabi de bu kerizlere hoş görünmek için atatürk'u övdüğü entrylerini bir bir siliyor, o derece sikko bir ortam var.<br/>kafamdaki tek düşünce: kesin bi şekilde avrupa'da para edecek bir meslek edinmeliyim, yazılımcılık vb. gibi<br/><br/>sene: 2016<br/>yer: helsinki / marina hatta <a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/mattolaituri/photos/a.166219686723712.39725.166211710057843/1183020171710320/?type=3&theaterater" title="https://www.facebook.com/mattolaituri/photos/a.166219686723712.39725.166211710057843/1183020171710320/?type=3&theaterater">şurası:</a> <br/>ülkenin en büyük yazılım şirketinde staj yapıyorum ve ab vatandaşı oldum. bir gün işsiz kalsam bile sadece işsiz maaşım bu keriz liboşların 4 katı. ben frozen margaritamı yudumlarken bu kerizler de sultanbeyli'den ve metrobüsten ağlayarak girdikleri facebook'ta can dündar'ın vurulma videosunu "gözyaşları içindeyim" diye paylaşıyorlar. <br/>kafamdaki tek düşünce: üzüldüm lan. zuhahahahahaa şaka lan ne üzülcem beter olun :) daha dur bebişim daha dur. bilal'in ayağını yıkayacağın günler gelecek. kilis'ten beter dümdüz edilebilir o güzel mahellen, hiç belli olmaz. ağla bebeyim.<br/><br/>not: her gün bu başlıkta liboşlarla taşak geçmek boynumun borcudur.
    
   entry_writer: enkaz devraldik
 - entry_name: |
@@ -295,7 +287,7 @@ data:
   entry_id: 60528690
   entry_content: |
     
-    müslüman biri gelip ateistler hakkında bu tarz nefret dolu bir girdi girse ne trollüğü kalır, ne hoşgörüsüzlüğü, ne çomarlığı, ne yobazlığı ne annesi... ama söz konusu ateist tayfa olunca sırtı sıvazlanıyor "afferim koççuma!" deniyor. sonra da gelip 2016 ramazan linçleri diye başlıklar açılıyor. kusura bakma arkadaşım! eleştirdiğin insandan zerrece farkın yok. sen de "dünya düzdür." diyen dayının sığlığındasın. kusura bakma!  <br/>"hastane sıralarında çok çektik, ekmeği karneyle alıyoduk o yüzden kahrolsun cehape!" diyen adamla savunman aynı, sadece görüşün farklı. kusura bakma! sen de küfürler saydıklarınla aynısın. şimdi küfürlerine devam edebilirsin.
+    müslüman biri gelip ateistler hakkında bu tarz nefret dolu bir girdi girse ne trollüğü kalır, ne hoşgörüsüzlüğü, ne çomarlığı, ne yobazlığı ne annesi... ama söz konusu ateist tayfa olunca sırtı sıvazlanıyor "afferim koççuma!" deniyor. sonra da gelip 2016 ramazan linçleri diye başlıklar açılıyor. kusura bakma arkadaşım! eleştirdiğin insandan zerrece farkın yok. sen de "dünya düzdür." diyen dayının sığlığındasın. kusura bakma!  <br/>"hastane sıralarında çok çektik, ekmeği karneyle alıyoduk o yüzden kahrolsun cehape!" diyen adamla savunman aynı, sadece görüşün farklı. kusura bakma! sen de küfürler saydıklarınla aynısın. şimdi küfürlerine devam edebilirsin.<br/><br/>debe eklentisi: ilk debem teşekkür ederim. <br/>karşılıklı sevgi, saygı, hoşgörü. <br/>gerisi iyilik, sağlık!
    
   entry_writer: edebiyatt
 - entry_name: |
@@ -319,7 +311,7 @@ data:
   entry_id: 60524755
   entry_content: |
     
-    ilk görüşte ingilizce gibi durmasalar da aslında ingilizce olan kelimelerdir. örnek::<br/><br/>(bkz: <a class="b" href="/?q=hitherto">hitherto</a>) = şimdiye kadar<br/>(bkz: <a class="b" href="/?q=ajar">ajar</a>) = az açık kapı<br/>(bkz: <a class="b" href="/?q=kerfuffle">kerfuffle</a>) = karışıklık<br/>(bkz: <a class="b" href="/?q=myrrh">myrrh</a>) = laden reçinesi<br/>(bkz: <a class="b" href="/?q=modicum">modicum</a>) = biraz
+    ilk görüşte ingilizce gibi durmasalar da aslında ingilizce olan kelimelerdir. örnek::<br/><br/>(bkz: <a class="b" href="/?q=hitherto">hitherto</a>) = şimdiye kadar<br/>(bkz: <a class="b" href="/?q=ajar">ajar</a>) = az açık kapı (veya başka açılabilir objeler için)<br/>(bkz: <a class="b" href="/?q=kerfuffle">kerfuffle</a>) = karışıklık<br/>(bkz: <a class="b" href="/?q=myrrh">myrrh</a>) = laden reçinesi<br/>(bkz: <a class="b" href="/?q=modicum">modicum</a>) = biraz
    
   entry_writer: rolandmicrocube
 - entry_name: |
