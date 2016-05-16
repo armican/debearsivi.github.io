@@ -31,7 +31,7 @@ data:
   entry_id: 60534059
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=s%c3%b6zl%c3%bckte+mide+buland%c4%b1ran+troll%27ler">sözlükte mide bulandıran troll'ler</a>)
+    (bkz:  <a class="b" href="/?q=s%c3%b6zl%c3%bckte+mide+buland%c4%b1ran+troll%27ler">sözlükte mide bulandıran troll'ler</a>)<br/><br/>debe editi: görme engelli insanların hayatlarını kolaylaştırma amacıyla kurulan derneğe bağışlarınız ile katkıda bulunabilirsiniz.<br/>(bkz: <a class="b" href="/?q=rehber+k%c3%b6pekler+derne%c4%9fi">rehber köpekler derneği</a>)
    
   entry_writer: maviuan
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 60536949
   entry_content: |
     
-    beni etkilemeyen kliptir. çünkü ben et yerken hayvanın ölüsünü yediğimin bilincindeyim, bu yüzden de gerçekler tokat gibi yüzüme çarpmıyor. neden böyle çünkü toprak görmüş, köy görmüş bir insanım..<br/><br/>çocukluğumda kurban bayramlarında kasap hayvanı keserdi, babamız hayvanın kanını alnımıza sürdükten sonra hayvanın etini keser kavurma yapardı, biz de mevtanın yanında yerdik o kavurmayı. <br/><br/>ıyy iğrenç değil mi, köydeki bütün çocuklar bunu bilir haberiniz olsun. annelerinin sabah tüylerini yolduğu halis mulis tavuğu akşama midelerine de gömerler, üç gün önce bahçelerinde otlayan şirin koyunun yahnisine ekmek de banarlar. <br/><br/>modern hayatla birlikte toprağa, ağaca, hayvana, yaşama, ölüme yani kendisine yabancılaşan insan böyle saçma sapan duyarlar yapıyor. doğa bu, böyle işliyor, kendi yaptığınız o çelik ve beton yığını peteklerinizden uzaklaşıp toprağa elinizi değdiğinizde anlarsınız zaten bunu.
+    beni etkilemeyen kliptir. çünkü ben et yerken hayvanın ölüsünü yediğimin bilincindeyim, bu yüzden de gerçekler tokat gibi yüzüme çarpmıyor. neden böyle çünkü toprak görmüş, köy görmüş bir insanım..<br/><br/>çocukluğumda kurban bayramlarında kasap hayvanı keserdi, babamız hayvanın kanını alnımıza sürdükten sonra hayvanın etini keser kavurma yapardı, biz de mevtanın yanında yerdik o kavurmayı. <br/><br/>ıyy iğrenç değil mi, köydeki bütün çocuklar bunu bilir haberiniz olsun. annelerinin sabah tüylerini yolduğu halis muhlis tavuğu akşama midelerine de gömerler, üç gün önce bahçelerinde otlayan şirin koyunun yahnisine ekmek de banarlar. <br/><br/>modern hayatla birlikte toprağa, ağaca, hayvana, yaşama, ölüme yani kendisine yabancılaşan insan böyle saçma sapan duyarlar yapıyor. doğa bu, böyle işliyor, kendi yaptığınız o çelik ve beton yığını peteklerinizden uzaklaşıp toprağa elinizi değdiğinizde anlarsınız zaten bunu.<br/><br/>edit: freudun bilincalti uyardı imla hatası için, teşekkürler.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=rehber+k%c3%b6pekler+derne%c4%9fi">rehber köpekler derneği</a>)
    
   entry_writer: mekiskir
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 60551854
   entry_content: |
     
-    boş yere eleştirilen harita.  <br/><br/>eğer haritanın referans olarak verildiği times makalesini okursanız, bu haritaların güncel değil, 100 sene öncesinin alternatif planları olduğunu anlarsınız. bunlar sadece tarihi belge... bunlar birinci dünya savaşı sonunda ingiliz-fransız işbirliği ile geliştirilen sykes-picot haritasına (zamanında) alternatif olarak düşünülen haritalar, ki bunların arasında abd başkanı wilson'un haritası da var.<br/><br/>bu arada, times'ın kapanış yorumu da aynen şu:<br/><br/>"bunlar uygulanmış olsa bile, bölge bugün aşağı yukarı yine aynı halde olurdu."<br/><br/>bu haritanın bugün ortaya çıkmasının sebebi de, sykes-picot haritasının (ya da fransız-ingiliz antlaşmasının) 100. yıldönümü haftasında olmamız. ama en büyük beşiktaş, yaşasın fenerbahçe erkek basketbol takımı.<br/><br/>başımızın ucunda olan biteni times araştırıp sunuyor, onu bile anlamaktan aciziz.
+    boş yere eleştirilen harita.  <br/><br/>eğer haritanın referans olarak verildiği times makalesini okursanız, bu haritaların güncel değil, 100 sene öncesinin alternatif planları olduğunu anlarsınız. bunlar sadece tarihi belge... bunlar birinci dünya savaşı sonunda ingiliz-fransız işbirliği ile geliştirilen sykes-picot haritasına (zamanında) alternatif olarak düşünülen haritalar, ki bunların arasında abd başkanı wilson'un haritası da var.<br/><br/>bu arada, times'ın kapanış yorumu da aynen şu:<br/><br/>"bunlar uygulanmış olsa bile, bölge bugün aşağı yukarı yine aynı halde olurdu."<br/><br/>bu haritanın bugün ortaya çıkmasının sebebi de, sykes-picot haritasının (ya da fransız-ingiliz antlaşmasının) 100. yıldönümü haftasında olmamız. ama en büyük beşiktaş, yaşasın fenerbahçe erkek basketbol takımı.<br/><br/>başımızın ucunda olan biteni times araştırıp sunuyor, onu bile anlamaktan aciziz.<br/><br/>edit: türkiye'de güzel şeyler de oluyor. rehber köpekler derneği: <a class="b" href="/entry/60468430">#60468430</a>. amaçları; görme engelli insanların hayatlarını kolaylaştırmak, hareket kabiliyetlerini geliştirmek, yaşam kalitelerini arttırarak çevrelerine daha rahat adapte olmalarını sağlamak. bir bakın.
    
   entry_writer: whokares
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 60540249
   entry_content: |
     
-    biz ersun yanal'ın olduğu sezonda bayan voleybol takımının avrupa mücadelelerini de hatırlarız. cev kupası maçlarında saracoğlu'ndaki scoreboardda voleybol maçının skorlarının yazdığı günleri de hatırlarız. basketbol bile değil bak mesela bu.  <a class="b" href="/?q=voleybol">voleybol</a>. memleketin en ilgisiz olduğu spor dallarından birisi.<br/><br/>ersun yanal'ın olduğu sezon diyorum. hatırladınız mı hani şu nisanda stsl şampiyonu olduğumuz sezon. <br/><br/>"spor kulübü"nün ne olduğunu kavrayamamış insanlardan bunu anlamasını da beklemiyoruz gerçi.
+    biz ersun yanal'ın olduğu sezonda bayan voleybol takımının avrupa mücadelelerini de hatırlarız. cev kupası maçlarında saracoğlu'ndaki scoreboardda voleybol maçının skorlarının yazdığı günleri de hatırlarız. basketbol bile değil bak mesela bu.  <a class="b" href="/?q=voleybol">voleybol</a>. memleketin en ilgisiz olduğu spor dallarından birisi.<br/><br/>ersun yanal'ın olduğu sezon diyorum. hatırladınız mı hani şu nisanda stsl şampiyonu olduğumuz sezon. <br/><br/>"spor kulübü"nün ne olduğunu kavrayamamış insanlardan bunu anlamasını da beklemiyoruz gerçi.<br/><br/>ek olarak; (<a class="b" href="/entry/60468430">#60468430</a>) (bkz: <a class="b" href="/?q=rehber+k%c3%b6pekler+derne%c4%9fi">rehber köpekler derneği</a>)
    
   entry_writer: leonardonun katanasi
 - entry_name: |
@@ -247,8 +247,8 @@ data:
   entry_id: 60549759
   entry_content: |
     
-    türk futbolunun dünyadaki tek markası.  <br/><br/>(bkz: <a class="b" href="/?q=bak+%c5%9furdan+siktir+git">bak şurdan siktir git</a>)
-   
+    türk futbolunun dünyadaki tek markası.
+    
   entry_writer: emigrate
 - entry_name: |
     kitap okumuyorum eksikliğini hissetmiyorum
@@ -303,7 +303,7 @@ data:
   entry_id: 60549831
   entry_content: |
     
-    kilis için kılını kıpırdatmayan ak parti mensubu milletvekili şamil tayyar'ın saçması olan tweet..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/samiltayyar27/status/731946265290932224" title="https://twitter.com/samiltayyar27/status/731946265290932224">https://twitter.com/…ar27/status/731946265290932224</a><br/><br/>efendi efendi avrupa şampiyonluğuna oynamışız ve kaybetmişiz. ulan deyyusun evlatları, ulan beynini siktiğimin çomarları, sizin neyinize yorum yapmak.<br/><br/>lanet olsun bu tipler yüzünden hiçbir ulusal başarıya sevinemeyecek hale geldik. allah belanızı versin be.
+    kilis için kılını kıpırdatmayan ak parti mensubu milletvekili şamil tayyar'ın saçması olan tweet..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/samiltayyar27/status/731946265290932224" title="https://twitter.com/samiltayyar27/status/731946265290932224">https://twitter.com/…ar27/status/731946265290932224</a><br/><br/>efendi efendi avrupa şampiyonluğuna oynamışız ve kaybetmişiz. ulan sizin neyinize yorum yapmak.<br/><br/>lanet olsun bu tipler yüzünden hiçbir ulusal başarıya sevinemeyecek hale geldik. allah belanızı versin be.
    
   entry_writer: zerdest
 - entry_name: |
@@ -319,8 +319,8 @@ data:
   entry_id: 60543211
   entry_content: |
     
-    kız sizi beğenmediyse tacizdir. kız hoşlandıysa ayy ne tatlı çocuk'tur.
-    
+    kız sizi beğenmediyse tacizdir. kız hoşlandıysa ayy ne tatlı çocuk'tur..<br/><br/>debe editi: az önce mesaj atan bir kadın yazarın benim bu entry ile tacize ve kadın cinayetlerine teşvik ettiğimi iddia etmesi üzerine bu vasıtayla sözlükte son kadın alımıyla ortaya çıkmış beyinsiz feminazi hareketine dikkat çekmek isterim. <br/>kadınlarla ilgili her başlığına altına alakası olsun olmasın "taciz, tecavüz, cinsiyetçilik, cinayet" vs şeklinde flood yapan iq'leri en fazla 80'i zorlayabilecek bir yığın kadın yazar türedi. bunlar kadınlara yönelik şiddet üzerinden prim yapıp tartışmalarında haklı çıkmak adına mesela survivor başlığında kendi fikrini eleştiren erkek yazara laf sokmak için hiç konuyla alakası bile yokken "kadın düşmanı tecavüzcü katiller vs" yazıp bu önemli toplumsal konuyu ayağa düşürmekte bir beis görmüyorlar. <br/>yazdıklarında en ufak zeka kırıntısı olmayan bu kezbanlar birbirini gaza getirip hoşlarına gitmeyen yazarları sözlükten attırmayı bile başarır hale geldiler. düşünce ve ifade özgürlüğü adına bu çapsız, fikir ve argüman üretmekten aciz tiplere prim vermeyelim lütfen. <br/><br/>(bkz: <a class="b" href="/?q=12+may%c4%b1s+2016+ek%c5%9fi+s%c3%b6zl%c3%bck+rezaleti">12 mayıs 2016 ekşi sözlük rezaleti</a>)<br/>(bkz: <a class="b" href="/?q=longhorn">longhorn</a>)
+   
   entry_writer: rinso
 - entry_name: |
     15 mayıs 2016 akhisar belediye galatasaray maçı
@@ -335,7 +335,7 @@ data:
   entry_id: 60551472
   entry_content: |
     
-    "rakamlarla konusursak fenerbahcedir""<br/><br/>sghaahahahahshgsgshaahahhshahsha <br/>iste bunlar hep tramva.
+    "rakamlarla konusursak fenerbahcedir""<br/><br/>sghaahahahahshgsgshaahahhshahsha <br/>iste bunlar hep travma.
    
   entry_writer: macabre
 - entry_name: |
@@ -363,7 +363,7 @@ data:
     
   entry_writer: zamparanin olumu
 - entry_name: |
-    entelektüel olmak icin gerekli nitelikler
+    entelektüel olmak için gerekli nitelikler
   entry_id: 60543817
   entry_content: |
     
