@@ -15,7 +15,7 @@ data:
   entry_id: 60714186
   entry_content: |
     
-    her 2 taraftan da çok sayıda teröristin bok yoluna gitmesi beklenen operasyon..<br/><br/>aklı başında bir insan kafa kesen sapıklar ile 15 ton bombayı köyün ortasında patlatan katiller arasında bir tercih yapmaz.<br/><br/>edit: iş bu entry için çok sayıda tebrik mesajı geldi. teşekkürler burdan.
+    her 2 taraftan da çok sayıda teröristin bok yoluna gitmesi beklenen operasyon..<br/><br/>aklı başında bir insan kafa kesen sapıklar ile 15 ton bombayı köyün ortasında patlatan katiller arasında bir tercih yapmaz.<br/><br/>not: iş bu entry için çok sayıda tebrik mesajı geldi. teşekkürler burdan.<br/><br/>debe editi 1: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/><br/>debe editi 2: (bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)
    
   entry_writer: tuy kalem
 - entry_name: |
@@ -31,7 +31,7 @@ data:
   entry_id: 60712665
   entry_content: |
     
-    kadın erkek fark etmeksizin, ülkece barzo olduğumuzu kanıtlayan  <a rel="nofollow" class="url" target="_blank" href="http://kadinhaberleri.org/kadinlarin-pipisi-olsaydi-ne-olurdu" title="http://kadinhaberleri.org/kadinlarin-pipisi-olsaydi-ne-olurdu">video</a>. soru net, işte verilen cevaplardan bazıları:<br/><br/>"karı sikerdim ne yapacağım?"<br/>"tecavüzden yargılanırdım"<br/>"her deliğe sokardım"<br/>"götünü güzel bulduğum her erkeği sikerdim"<br/>"önüme gelen bütün güzel popolu kızlara dayardım; dolmuşta, otobüste"<br/>"net bir şekilde herkese saplardım, hiç acımadan"<br/><br/>işte manzara bu. zihniyet bu. şaka falan yapıyorlar demeyin; böyle konularda, özellikle türkiye'de kadınların sürekli mağdur olduğu konularda kadınların da bilinç seviyesinin ne olduğunu çok iyi gösteriyor bu video. böyle terbiyesizlik, böyle kalitesizlik olmaz. <br/><br/>toplum olarak kalitesiziz. zaten bir toplumda kadın neyse erkek de odur, bu ikisi birbirinin aynasıdır. birbirlerinden ayrı düşünülemezler.<br/><br/>(bkz: <a class="b" href="/?q=bug%c3%bcn+de+t%c3%bcrkiye%27den+nefret+ettik+elhamd%c3%bclillah">bugün de türkiye'den nefret ettik elhamdülillah</a>)
+    kadın erkek fark etmeksizin, ülkece barzo olduğumuzu kanıtlayan  <a rel="nofollow" class="url" target="_blank" href="http://kadinhaberleri.org/kadinlarin-pipisi-olsaydi-ne-olurdu" title="http://kadinhaberleri.org/kadinlarin-pipisi-olsaydi-ne-olurdu">video</a>. soru net, işte verilen cevaplardan bazıları:<br/><br/>"karı sikerdim ne yapacağım?"<br/>"tecavüzden yargılanırdım"<br/>"her deliğe sokardım"<br/>"götünü güzel bulduğum her erkeği sikerdim"<br/>"önüme gelen bütün güzel popolu kızlara dayardım; dolmuşta, otobüste"<br/>"net bir şekilde herkese saplardım, hiç acımadan"<br/><br/>işte manzara bu. zihniyet bu. şaka falan yapıyorlar demeyin; böyle konularda, özellikle türkiye'de kadınların sürekli mağdur olduğu konularda kadınların da bilinç seviyesinin ne olduğunu çok iyi gösteriyor bu video. böyle terbiyesizlik, böyle kalitesizlik olmaz. <br/><br/>toplum olarak kalitesiziz. zaten bir toplumda kadın neyse erkek de odur, bu ikisi birbirinin aynasıdır. birbirlerinden ayrı düşünülemezler.<br/><br/>(bkz: <a class="b" href="/?q=bug%c3%bcn+de+t%c3%bcrkiye%27den+nefret+ettik+elhamd%c3%bclillah">bugün de türkiye'den nefret ettik elhamdülillah</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)
    
   entry_writer: the dawn mist glowing
 - entry_name: |
@@ -103,8 +103,8 @@ data:
   entry_id: 60708564
   entry_content: |
     
-    her çeviri başlangıcına iyi seyirler diye yazıyor ya, her seferinde teşekkürler eşekherif diye yanıtlıyorum.
-    
+    her çeviri başlangıcına iyi seyirler diye yazıyor ya, her seferinde teşekkürler eşekherif diye yanıtlıyorum..<br/><br/>edit: aldığı güzel hizmeti karşılıksız bırakmayan büyük bir kitleyi içinde barındıran ekşi ailesi sana da teşekkürler.
+   
   entry_writer: mo ni fe
 - entry_name: |
     fatma betül sayan kaya
@@ -127,7 +127,7 @@ data:
   entry_id: 60707545
   entry_content: |
     
-    bu adam (tayyip bey) yaptigi hicbir seyde ciddi olamaz. adam komik abi. 15 yildir bir ulkeyi trolluyor gibi gozukuyor. (aksi takdirde bu kadar sacmalanmaz./ where is the kravat ne abi? sultanahmet'teki her esnaf bundan daha iyisini yapabilir ve bu adam cumhurbaskani.))<br/>filmi bir yerde kopartip; "zaaa saka yaptim." diyebilir, sasirmam. <br/><br/>"din ve devlet islerini karistirmanin ne kadar sakincali oldugunu anlatmak icin omrumu adadim." deyip surpriz yapabilir. megerse cok kulturlu, belli ilkelere bagli ve sakaci bir abimizmis.<br/><br/>neden olmasin? :( hep niye kotu senaryo ciziyorsunuz arkadasim, bir kere de guzel hayal edin :(
+    bu adam (tayyip bey) yaptigi hicbir seyde ciddi olamaz. adam komik abi. 15 yildir bir ulkeyi trolluyor gibi gozukuyor. (aksi takdirde bu kadar sacmalanmaz./ where is the kravat ne abi? sultanahmet'teki her esnaf bundan daha iyisini yapabilir ve bu adam cumhurbaskani.))<br/>filmi bir yerde kopartip; "zaaa saka yaptim." diyebilir, sasirmam. <br/><br/>"din ve devlet islerini karistirmanin ne kadar sakincali oldugunu anlatmak icin omrumu adadim." deyip surpriz yapabilir. megerse cok kulturlu, belli ilkelere bagli ve sakaci bir abimizmis.<br/><br/>neden olmasin? :( hep niye kotu senaryo ciziyorsunuz arkadasim, bir kere de guzel hayal edin :(<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>) <br/>eymen 6 yaşında ve 2.kez beyin tümöründen ameliyat olmak zorunda. gerekli bilgiler başlıkta mevcut. desteğiniz için eymen ve ailesi adına teşekkür ederim.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: (bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)<br/>desteklerimizi esirgemeyelim lütfen.
    
   entry_writer: smokinle kopruden atlayan adam
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 60713503
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yazma+karde%c5%9fim+trol%c3%bc+azd%c4%b1rma">yazma kardeşim trolü azdırma</a>)<br/>(bkz: <a class="b" href="/?q=b%c3%b6yle+b%c3%b6yle+bitecek">böyle böyle bitecek</a>)
+    (bkz:  <a class="b" href="/?q=yazma+karde%c5%9fim+trol%c3%bc+azd%c4%b1rma">yazma kardeşim trolü azdırma</a>)<br/>(bkz: <a class="b" href="/?q=b%c3%b6yle+b%c3%b6yle+bitecek">böyle böyle bitecek</a>)<br/><br/>sözlükteki siyasi duruşumu ve taviz vermez kişiliğimi çekemeyen... yok lan soru başlığa cevap entiri girdim 1 hazirana kadar çaylak/lanetliymişim. <br/><br/>not: formatın anası gelse çocuğunu tanıyamaz yine de formattan çaylak olduk. <br/><br/>not2: çaylak edit yapabiliyor bug mıdır feature mıdır bilmem.
    
   entry_writer: zaphod beeblerox
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 60717620
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dudayeva+suriye%27ye+girsin+kampanyas%c4%b1">dudayeva suriye'ye girsin kampanyası</a>)
+    (bkz:  <a class="b" href="/?q=dudayeva+suriye%27ye+girsin+kampanyas%c4%b1">dudayeva suriye'ye girsin kampanyası</a>)<br/><br/>düdüt; hade len dedeyeva hayatında 3-5 kere de olsa işe yara bari...<br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)
    
   entry_writer: fikrim firarda
 - entry_name: |
@@ -151,7 +151,7 @@ data:
   entry_id: 60710019
   entry_content: |
     
-    bizi ilgilendirmeyen hesaptır!  <br/><br/>bu dünyada hesap vermedikten sonraaa, neyleyeyim diğer tarafta yanmış tutuşmuş..<br/><br/>tek dileğim en kısa zamanda o hesabı vermesi...<br/><br/><a class="b" href="/?q=rte">rte</a>: eyyyy allah, sen.. allahh? alla allaaahh oldu mu lan o kadar ? öldük mü yaa?<br/><a class="b" href="/?q=god">god</a>: eee bu işler böyle, neyse kasayı kapatıyoruz!<br/><a class="b" href="/?q=rte">rte</a>: hadi bakalım, bi hesabı alalım biz o zaman, ne vardı bizim?<br/><a class="b" href="/?q=god">god</a>: eee bakalım , <br/>kronolojik olarak sayamayacağım ama biraz kabarık, ilk gözüme çarpanlar; <br/><br/><a class="b" href="/?q=metin+hoca">metin hoca</a> var hopa da katledilmiş,<br/>parasız eğitim isteyen çocuklar var, <br/>gezi parkında öldürülen çocuklar var,<br/>berkin var ali var ethem var, <br/>gazeteciler var öldürmüşsünüz işkence etmişsiniz.<br/>tecavüze uğrayan çocuklar var, hükümetmişsiniz, hiç birşey yapmamışsınız. hayvanlar var, doğal ortamından koparılan, yeşilin anasını bellemişsiniz mesela, cerattepede bildiğin kıyım olmuş, kaz dağları sinop'ta çanakkale'de hasankeyf de.<br/>hak yemişsiniz, kul hakkı var bol miktardaaaa, işçilerin alın teri vaarrr, e bi de onları katletmişsiniz. bakıyorum topluyoruummm. biraz 301 soma da 15 zonguldak'ta, 12 kişi bir tanıdığınızın inşaattınde asansör düşmesi sonucu gelmiş bu tarafaaa, kabarık bir hesap.<br/>şehadet ayağına güneydoğu'da bir sürü genci kandırıp, aynı ülkenin evlatlarını birbirine öldürtmüşsünüz hiç acımadan?<br/>ortadoğu da milleti evinden barkından etmişsiniz, yurtsuz evsiz insanlar üzerinden siyaset yapmışsınız, e bakıyorum benim referansım olmadan benim adımı kullanmak sureti ile insanları kandrma da var!<br/><a class="b" href="/?q=rte">rte</a>: ödeyemeyeceğimiz bedel, veremeyeceğimiz hesap yoktur evelallah!<br/>ya allaaahh bismillaahhh ile çıkılan her yolda...<br/><a class="b" href="/?q=god">god</a>: ne yolu ulan, öldün işte hala baraj açılışı yapıyor herif!
+    bizi ilgilendirmeyen hesaptır!  <br/><br/>bu dünyada hesap vermedikten sonraaa, neyleyeyim diğer tarafta yanmış tutuşmuş..<br/><br/>tek dileğim en kısa zamanda o hesabı vermesi...<br/><br/><a class="b" href="/?q=rte">rte</a>: eyyyy allah, sen.. allahh? alla allaaahh oldu mu lan o kadar ? öldük mü yaa?<br/><a class="b" href="/?q=god">god</a>: eee bu işler böyle, neyse kasayı kapatıyoruz!<br/><a class="b" href="/?q=rte">rte</a>: hadi bakalım, bi hesabı alalım biz o zaman, ne vardı bizim?<br/><a class="b" href="/?q=god">god</a>: eee bakalım , <br/>kronolojik olarak sayamayacağım ama biraz kabarık, ilk gözüme çarpanlar; <br/><br/><a class="b" href="/?q=metin+hoca">metin hoca</a> var hopa da katledilmiş,<br/>parasız eğitim isteyen çocuklar var, <br/>gezi parkında öldürülen çocuklar var,<br/>berkin var ali var ethem var, <br/>gazeteciler var öldürmüşsünüz işkence etmişsiniz.<br/>tecavüze uğrayan çocuklar var, hükümetmişsiniz, hiç birşey yapmamışsınız. hayvanlar var, doğal ortamından koparılan, yeşilin anasını bellemişsiniz mesela, cerattepede bildiğin kıyım olmuş, kaz dağları sinop'ta çanakkale'de hasankeyf de.<br/>hak yemişsiniz, kul hakkı var bol miktardaaaa, işçilerin alın teri vaarrr, e bi de onları katletmişsiniz. bakıyorum topluyoruummm. biraz 301 soma da 15 zonguldak'ta, 12 kişi bir tanıdığınızın inşaattınde asansör düşmesi sonucu gelmiş bu tarafaaa, kabarık bir hesap.<br/>şehadet ayağına güneydoğu'da bir sürü genci kandırıp, aynı ülkenin evlatlarını birbirine öldürtmüşsünüz hiç acımadan?<br/>ortadoğu da milleti evinden barkından etmişsiniz, yurtsuz evsiz insanlar üzerinden siyaset yapmışsınız, e bakıyorum benim referansım olmadan benim adımı kullanmak sureti ile insanları kandrma da var!<br/><a class="b" href="/?q=rte">rte</a>: ödeyemeyeceğimiz bedel, veremeyeceğimiz hesap yoktur evelallah!<br/>ya allaaahh bismillaahhh ile çıkılan her yolda...<br/><a class="b" href="/?q=god">god</a>: ne yolu ulan, öldün işte hala baraj açılışı yapıyor herif!<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)
    
   entry_writer: koministimam2
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 60709660
   entry_content: |
     
-    satmayın oğlun,,<br/>satmayın.<br/>bu benim için de gurur, onur ve haysiyet meselesi oldu.<br/>gerekirse ben de yardım ederim. forma neyin alırım.<br/>satmayın oğlum,<br/>satmayın.<br/>negadar teklif etmişler?
+    satmayın oğlun,,<br/>satmayın.<br/>bu benim için de gurur, onur ve haysiyet meselesi oldu.<br/>gerekirse ben de yardım ederim. forma neyin alırım.<br/>satmayın oğlum,<br/>satmayın.<br/>negadar teklif etmişler?<br/><br/>debe edit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: saladze
 - entry_name: |
@@ -175,7 +175,7 @@ data:
   entry_id: 60708496
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=2016+d%c3%bc%c4%9f%c3%bcn+dans+%c5%9fark%c4%b1s%c4%b1">2016 düğün dans şarkısı</a>)<br/><br/>susar mısın gerizekalı <a class="b" href="/?q=mustafa+ceceli">mustafa ceceli</a> ve <a class="b" href="/?q=irem+derici">irem derici</a> ağlıyor şuanda.
+    (bkz:  <a class="b" href="/?q=2016+d%c3%bc%c4%9f%c3%bcn+dans+%c5%9fark%c4%b1s%c4%b1">2016 düğün dans şarkısı</a>)<br/><br/>susar mısın gerizekalı <a class="b" href="/?q=mustafa+ceceli">mustafa ceceli</a> ve <a class="b" href="/?q=irem+derici">irem derici</a> ağlıyor şuanda.<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: siradan cinko karbon pil
 - entry_name: |
@@ -183,8 +183,8 @@ data:
   entry_id: 60715787
   entry_content: |
     
-    mhp bu işi müge anlı'ya kadar götürecek.
-    
+    mhp bu işi müge anlı'ya kadar götürecek..<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6sreli+ortaokulu+kitap+kampanyas%c4%b1">kösreli ortaokulu kitap kampanyası</a>)
+   
   entry_writer: bahangel
 - entry_name: |
     esnek çalışma saatleri
@@ -215,8 +215,8 @@ data:
   entry_id: 60720035
   entry_content: |
     
-    türkiye profesyonel futbol liginde beşiktaş'ın ulaştığı şampiyonluk sayısına 2000 yılında ulaşmıştır. anekdot babında.
-    
+    türkiye profesyonel futbol liginde beşiktaş'ın ulaştığı şampiyonluk sayısına 2000 yılında ulaşmıştır. anekdot babında..<br/><br/>edit:bir üstümdeki lale entryisini sildiği için tekil olarak bir anlam ifade etmiyor bu entry tabi. tiner içeren bir entry vardı, ona binaen yazıldı.
+   
   entry_writer: dinazorlar turkmus haci
 - entry_name: |
     iki şey önemlidir 0 km kız ve 0 km araba
@@ -255,8 +255,8 @@ data:
   entry_id: 60722950
   entry_content: |
     
-    şu an salondayım, az önce nagihan oklahoma taraftrlarına "kıskanıyorsunuz" diye bağırdı.
-    
+    şu an salondayım, az önce nagihan oklahoma taraftrlarına "kıskanıyorsunuz" diye bağırdı..<br/><br/>db edit: <br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: vincente
 - entry_name: |
     game of thrones
@@ -287,16 +287,16 @@ data:
   entry_id: 60716614
   entry_content: |
     
-    yargıtay karar verdikten sonra ebemin de vereceği kurultay kararıdır.
-    
+    yargıtay karar verdikten sonra ebemin de vereceği kurultay kararıdır..<br/><br/>---<br/><br/>edit: web siyesi yaptırmak isteyen olursa yardımcı olalım, <a rel="nofollow" class="url" target="_blank" href="http://medyator.net/" title="http://medyator.net/">web tasarım</a>
+   
   entry_writer: internetim olsun acikmam ben
 - entry_name: |
     24 mayıs 2016 dolar kuru
   entry_id: 60708674
   entry_content: |
     
-    3.14 olmadığı sürece 3 alabiliriz.
-    
+    3.14 olmadığı sürece 3 alabiliriz..<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: e v r a k
 - entry_name: |
     24 mayıs 2016 van çaldıran saldırısı
@@ -335,7 +335,7 @@ data:
   entry_id: 60719614
   entry_content: |
     
-    sedat peker-alaattin çakıcı çatışmasının yakında başlayacağına işarettir..<br/>ondan sonra gelsin bebek'te sabaha karşı lüks araç içinde çapraz ateşle cinayetler,<br/>gitsin şişli'de öğle vakti iş çıkışı adam kurşunlamalar.<br/><br/>bu arada alaattin bu sedat peker'i mermi manyağına çevirir benden söylemesi.
+    sedat peker-alaattin çakıcı çatışmasının yakında başlayacağına işarettir..<br/>ondan sonra gelsin bebek'te sabaha karşı lüks araç içinde çapraz ateşle cinayetler,<br/>gitsin şişli'de öğle vakti iş çıkışı adam kurşunlamalar.<br/><br/>bu arada alaattin bu sedat peker'i mermi manyağına çevirir benden söylemesi.<br/>debe editi: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: fortuneteller 657
 - entry_name: |
@@ -343,8 +343,7 @@ data:
   entry_id: 60708120
   entry_content: |
     
-    şuradan devam:  <a class="b" href="/entry/60688521">#60688521</a><br/><br/>2013/2014 sezonuna başlamadan, fikret orman stad’ın yıkılması için ilk kazmayı vurdu. yıldırım demirören'in yıllardır sürekli ısıtıp ısıtıp önümüze getirdiği "x ayında kazma vuruluyor" sürmanşetlerinden sonra fikret orman'ın da yapabilirliği haliyle sorgulanıyordu. izin alamaz dendi, aldı. yıkamaz dendi yıktı. bu esnada ise araya şöyle bir şey girdi:<br/><br/>(bkz: <a class="b" href="/?q=28+may%c4%b1s+2013+taksim+gezi+park%c4%b1+direni%c5%9fi">28 mayıs 2013 taksim gezi parkı direnişi</a>)<br/><br/>gezi olaylarında muhalif çarşıyla ilgili ettiği bir iki kelam sebebiyle kaç kez inşaat durdu, sürekli altından tarihi eser çıktığı pompalandı...vs ama sonunda o fikret orman yönetimi o stadı bitirdi. hem kendi bütçesiyle yaptı, hem eski yerinde. ne kadar eleştirirse eleştirsin, hiç kimse bu konuda fikret orman'ın hakkını yiyemez.<br/><br/>sezon başlamadan fikret orman, bizleri hem şaşırtan hem de heyecanlandıran ikinci bir gelişmeye daha imza attı ve zeki önder özen’i futbol direktörü olarak göreve getirdi. önder özen göreve geldikten sonra makul ve mantıklı projeleri ile bizi mest etti. ancak uygulamada aynı başarıyı sağlaması mümkün olmayacaktı. önder özen ilk başta hoca arayışına girişti ve prosinecki ile anlaşmaya çalıştı. ancak sonuç alamadı. sonrasında ise lokomotiv moskova’dan <a class="b" href="/?q=slaven+bilic">slaven bilic</a>’i takımın başına getirdi. slaven bilic, becerikliliği konusunda tartışmalar yaratsa da karakeri ve hedefleri itibariyle beşiktaş’ın yapısına çok uyan bir isimdi. zaten kısa zamanda da taraftarın sevgilisi olmayı başardı.<br/><br/>beşiktaş bu sezonda, şike soruşturması kaynaklı “tedbir amaçlı” olmak üzere avrupa’dan bir yıl daha men cezası alarak üst üste 2. sezonunda da avrupa kupalarına katılamadı. ancak avrupa cezasını çekebilmek için önce play-off turunda tromsö’yü elemesi gerekiyordu. deplasmanda kaybettiğimiz(2-1) maçın rövanşını olimpiyat stadında alarak(2-0) cezamızı çekmeye hak kazandık. <br/><br/>sezon başında, geçen seneye nazaran transfere biraz daha fazla para ayırdık(13.95 m €). bu transferlerin bir kısmı sonraki yıllarda şampiyon olacak kadronun önemli aktörleri olurken (atiba, kerim frei, gökhan töre, tolga zengin) bir kısmı da tamamen çöp olacaktı (sezer öztürk, jermaine jones, eneramo, dany >:-/ ). bu esnada fenerbahçe transfere 30,25 m € harcarken, galatasaray 41,84 m € harcayacaktı.ı.<br/><br/>araya bir şey sıkıştırmak istiyorum. bence son yılların en güzel formaları da bu sezonda yapılmıştır. (bkz: <a class="b" href="/?q=2013-2014+sezonu+be%c5%9fikta%c5%9f+futbol+formalar%c4%b1">2013-2014 sezonu beşiktaş futbol formaları</a>)<br/><br/>sezona gerçekten iyi bir oyunla, 4 maçta 12 puan alarak başladık. uzun yıllardır böyle bir sezona giriş yapılmamış olması, önder özen, bilic ve genç oyunculardan oluşan bu kadro haklı olarak hepimizi heyecanlandırdı. ancak tepeden tırnağa acemiydik. sürekli kazanmayı, şampiyon olmayı veya kupa kaldırmayı unutmuş vaziyetteydik. hatta önder özen’in bu konuda şöyle bir açıklaması var ki bence on ikiden vurmuş:<br/><br/>-beşiktaş deplasman/ev sahibi ayırmaksızın her maçın favorisidir. ben biraz oyuncuların bunu unutmuş olduğunu gördüm…<br/><br/>aslında çok unutmak gibi değildi. zaten genç olan kadroda şampiyonluk yaşayan hemen hemen kimsenin olmaması, bu oyuncuların know-how kavramını yenile yenile, kaybede kaybede öğrenmelerine yol açıyordu. ama netice itibariyle o an kırılgan bir takımdık. zaten bunu sonraki haftadaki galatasaray derbisinde de görecektik. <br/><br/>tarih 23 eylül 2013. atatürk olimpiyat stadı, 76,127 beşiktaşlı taraftara ev sahipliği yaparak lig rekoru kırıyor. hepimiz heyecanlıyız. maç başlıyor ve iyi bir oyunla 1-0 öne geçiyoruz. sonrasında bulduğumuz gol şanslarını ise bonkörce harcıyoruz. derken serdar kurtuluş bireysel bir hata yaparak kontrolündeki topu bruma’ya kaptırıyor ve o da en kaçırmayacak adamlardan birine, yani drogba’ya topu aktarıyor ve maç 1-1 oluyor. akabinde bir bireysel hata daha yapıyoruz (burak’ın topu elle düzeltmesi de hala konuşulur) skor 1-2’ye geliyor. maçın sonlarına doğru birbiriyle doğrudan bağlantılı iki önemli pozisyon oluyor. sabri bizim ceza sahamıza girip(evet sabri) kaleciyle karşı karşıya kaldığında motta kendisine çift dalıyor. bence hem penaltı hem de iki tane kırmızı gerektiren bu pozisyon, fırat aydınus tarafından atlanıyor. maçın son dakikalarında galatasaray ceza sahası önlerinde topla ilerleyen motta’ya, benzer bir çift dalışı melo yapıyor ve kırmızı kart görüyor. çıkarken de tribünlerdeki bir grup malı provoke etmeyi ihmal etmiyor tabi (bu grubun beşiktaş bünyesindeki 1453 kartalları olduğu söylenir). bunun üzerine bütün taraftarlar sahaya iniyor ve maç tatil ediliyor. bu maç bize,<br/><br/>-4 maç seyircisiz ve 3 maç hocasız oynamaya<br/>-serdar kurtuluş’u kaybetmeye<br/>-ve hükmen malubiyete mal oluyor.<br/><br/>sonraki haftalarda stadsız, seyircisiz ve hocasız kalan genç kadro bocalamaya başlıyor. sonraki 5 maçın hepsinde kötü oynuyor ve o 5 maçtan 5 puanı zor çıkarabiliyoruz. tam toparlanmaya başlarken olaylı bir kasımpaşa maçı yaşıyor(bkz: <a class="b" href="/?q=ryan+donk">ryan donk</a>) ve iyi-kötü ilk yarıyı lider fenerbahçe’nin 9 puan gerisinde tamamlıyoruz.<br/><br/>devre arasında biraz toparlanıyor ve ikinci yarıya yine iyi başlıyoruz. sezon başındaki gibi trabzonspor, kayseri, gaziantep ve bursa maçlarından 3 galibiyet 1 beraberlik alarak giriyoruz. 5.haftada yine galatasaray ile karşılaşıyor, yine mağlup oluyoruz. bu sefer de yine iyi oynamamıza rağmen devre arasında galatasaray’dan alınan dany, son derece gereksiz bir penaltı yaptırarak hem kendi kariyerini, hem beşiktaş’ı, hem de ona kefil olup basın karşısında savunan önder özen’i yakıyor. akabinde kör topal ilerleyerek sezonu üçüncü olarak bitiriyoruz. aslında fenerbahçe avrupa cezası aldığı için ikinciliğin çok değerli olduğu bir sezonda, 31. haftada ikinciliği galatasaray’a kaptırıyor ve sezonu üçüncü bitiriyoruz. bir sene önce ligi üçüncü bitirmiş samet aybaba’yı başarısız olduğu gerekçesi ile göndermiştik. ancak bu sezonki beşiktaş, herkese önümüzdeki seneler için umut verdiğinden dolayı slaven bilic ile devam edilmesi kararı alınıyor.<br/><br/>yarın -- > 2.bilic sezonu
-  
+    şuradan devam:  <a class="b" href="/entry/60688521">#60688521</a><br/><br/>2013/2014 sezonuna başlamadan, fikret orman stad’ın yıkılması için ilk kazmayı vurdu. yıldırım demirören'in yıllardır sürekli ısıtıp ısıtıp önümüze getirdiği "x ayında kazma vuruluyor" sürmanşetlerinden sonra fikret orman'ın da yapabilirliği haliyle sorgulanıyordu. izin alamaz dendi, aldı. yıkamaz dendi yıktı. bu esnada ise araya şöyle bir şey girdi:<br/><br/>(bkz: <a class="b" href="/?q=28+may%c4%b1s+2013+taksim+gezi+park%c4%b1+direni%c5%9fi">28 mayıs 2013 taksim gezi parkı direnişi</a>)<br/><br/>gezi olaylarında muhalif çarşıyla ilgili ettiği bir iki kelam sebebiyle kaç kez inşaat durdu, sürekli altından tarihi eser çıktığı pompalandı...vs ama sonunda o fikret orman yönetimi o stadı bitirdi. hem kendi bütçesiyle yaptı, hem eski yerinde. ne kadar eleştirirse eleştirsin, hiç kimse bu konuda fikret orman'ın hakkını yiyemez.<br/><br/>sezon başlamadan fikret orman, bizleri hem şaşırtan hem de heyecanlandıran ikinci bir gelişmeye daha imza attı ve zeki önder özen’i futbol direktörü olarak göreve getirdi. önder özen göreve geldikten sonra makul ve mantıklı projeleri ile bizi mest etti. ancak uygulamada aynı başarıyı sağlaması mümkün olmayacaktı. önder özen ilk başta hoca arayışına girişti ve prosinecki ile anlaşmaya çalıştı. ancak sonuç alamadı. sonrasında ise lokomotiv moskova’dan <a class="b" href="/?q=slaven+bilic">slaven bilic</a>’i takımın başına getirdi. slaven bilic, becerikliliği konusunda tartışmalar yaratsa da karakeri ve hedefleri itibariyle beşiktaş’ın yapısına çok uyan bir isimdi. zaten kısa zamanda da taraftarın sevgilisi olmayı başardı.<br/><br/>beşiktaş bu sezonda, şike soruşturması kaynaklı “tedbir amaçlı” olmak üzere avrupa’dan bir yıl daha men cezası alarak üst üste 2. sezonunda da avrupa kupalarına katılamadı. ancak avrupa cezasını çekebilmek için önce play-off turunda tromsö’yü elemesi gerekiyordu. deplasmanda kaybettiğimiz(2-1) maçın rövanşını olimpiyat stadında alarak(2-0) cezamızı çekmeye hak kazandık. <br/><br/>sezon başında, geçen seneye nazaran transfere biraz daha fazla para ayırdık(13.95 m €). bu transferlerin bir kısmı sonraki yıllarda şampiyon olacak kadronun önemli aktörleri olurken (atiba, kerim frei, gökhan töre, tolga zengin) bir kısmı da tamamen çöp olacaktı (sezer öztürk, jermaine jones, eneramo, dany >:-/ ). bu esnada fenerbahçe transfere 30,25 m € harcarken, galatasaray 41,84 m € harcayacaktı.ı.<br/><br/>araya bir şey sıkıştırmak istiyorum. bence son yılların en güzel formaları da bu sezonda yapılmıştır. (bkz: <a class="b" href="/?q=2013-2014+sezonu+be%c5%9fikta%c5%9f+futbol+formalar%c4%b1">2013-2014 sezonu beşiktaş futbol formaları</a>)<br/><br/>sezona gerçekten iyi bir oyunla, 4 maçta 12 puan alarak başladık. uzun yıllardır böyle bir sezona giriş yapılmamış olması, önder özen, bilic ve genç oyunculardan oluşan bu kadro haklı olarak hepimizi heyecanlandırdı. ancak tepeden tırnağa acemiydik. sürekli kazanmayı, şampiyon olmayı veya kupa kaldırmayı unutmuş vaziyetteydik. hatta önder özen’in bu konuda şöyle bir açıklaması var ki bence on ikiden vurmuş:<br/><br/>-beşiktaş deplasman/ev sahibi ayırmaksızın her maçın favorisidir. ben biraz oyuncuların bunu unutmuş olduğunu gördüm…<br/><br/>aslında çok unutmak gibi değildi. zaten genç olan kadroda şampiyonluk yaşayan hemen hemen kimsenin olmaması, bu oyuncuların know-how kavramını yenile yenile, kaybede kaybede öğrenmelerine yol açıyordu. ama netice itibariyle o an kırılgan bir takımdık. zaten bunu sonraki haftadaki galatasaray derbisinde de görecektik. <br/><br/>tarih 23 eylül 2013. atatürk olimpiyat stadı, 76,127 beşiktaşlı taraftara ev sahipliği yaparak lig rekoru kırıyor. hepimiz heyecanlıyız. maç başlıyor ve iyi bir oyunla 1-0 öne geçiyoruz. sonrasında bulduğumuz gol şanslarını ise bonkörce harcıyoruz. derken serdar kurtuluş bireysel bir hata yaparak kontrolündeki topu bruma’ya kaptırıyor ve o da en kaçırmayacak adamlardan birine, yani drogba’ya topu aktarıyor ve maç 1-1 oluyor. akabinde bir bireysel hata daha yapıyoruz (burak’ın topu elle düzeltmesi de hala konuşulur) skor 1-2’ye geliyor. maçın sonlarına doğru birbiriyle doğrudan bağlantılı iki önemli pozisyon oluyor. sabri bizim ceza sahamıza girip(evet sabri) kaleciyle karşı karşıya kaldığında motta kendisine çift dalıyor. bence hem penaltı hem de iki tane kırmızı gerektiren bu pozisyon, fırat aydınus tarafından atlanıyor. maçın son dakikalarında galatasaray ceza sahası önlerinde topla ilerleyen motta’ya, benzer bir çift dalışı melo yapıyor ve kırmızı kart görüyor. çıkarken de tribünlerdeki bir grup malı provoke etmeyi ihmal etmiyor tabi (bu grubun beşiktaş bünyesindeki 1453 kartalları olduğu söylenir). bunun üzerine bütün taraftarlar sahaya iniyor ve maç tatil ediliyor. bu maç bize,<br/><br/>-4 maç seyircisiz ve 3 maç hocasız oynamaya<br/>-serdar kurtuluş’u kaybetmeye<br/>-ve hükmen malubiyete mal oluyor.<br/><br/>sonraki haftalarda stadsız, seyircisiz ve hocasız kalan genç kadro bocalamaya başlıyor. sonraki 5 maçın hepsinde kötü oynuyor ve o 5 maçtan 5 puanı zor çıkarabiliyoruz. tam toparlanmaya başlarken olaylı bir kasımpaşa maçı yaşıyor(bkz: <a class="b" href="/?q=ryan+donk">ryan donk</a>) ve iyi-kötü ilk yarıyı lider fenerbahçe’nin 9 puan gerisinde tamamlıyoruz.<br/><br/>devre arasında biraz toparlanıyor ve ikinci yarıya yine iyi başlıyoruz. sezon başındaki gibi trabzonspor, kayseri, gaziantep ve bursa maçlarından 3 galibiyet 1 beraberlik alarak giriyoruz. 5.haftada yine galatasaray ile karşılaşıyor, yine mağlup oluyoruz. bu sefer de yine iyi oynamamıza rağmen devre arasında galatasaray’dan alınan dany, son derece gereksiz bir penaltı yaptırarak hem kendi kariyerini, hem beşiktaş’ı, hem de ona kefil olup basın karşısında savunan önder özen’i yakıyor. akabinde kör topal ilerleyerek sezonu üçüncü olarak bitiriyoruz. aslında fenerbahçe avrupa cezası aldığı için ikinciliğin çok değerli olduğu bir sezonda, 31. haftada ikinciliği galatasaray’a kaptırıyor ve sezonu üçüncü bitiriyoruz. bir sene önce ligi üçüncü bitirmiş samet aybaba’yı başarısız olduğu gerekçesi ile göndermiştik. ancak bu sezonki beşiktaş, herkese önümüzdeki seneler için umut verdiğinden dolayı slaven bilic ile devam edilmesi kararı alınıyor.<br/><br/>2.bilic sezonu--> t; <a class="b" href="/entry/60727104">#60727104</a><br/><br/>debe editi:(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: skender
 - entry_name: |
@@ -368,15 +367,15 @@ data:
   entry_id: 60714376
   entry_content: |
     
-    burada yazılanlar ışığında aydınlandığım durumdur. 140 bine bir ev aldım 6 yıl sonra oldu sana 400 bin. oh dedim 400 bine lüks bir ev alırım. ama baktım ki bu paraya alabileceğim en iyi ev yine kendi evim. doğru mu anlamışım?
-    
+    burada yazılanlar ışığında aydınlandığım durumdur. 140 bine bir ev aldım 6 yıl sonra oldu sana 400 bin. oh dedim 400 bine lüks bir ev alırım. ama baktım ki bu paraya alabileceğim en iyi ev yine kendi evim. doğru mu anlamışım??<br/>edit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: nikiminkininki
 - entry_name: |
     akp'den sonra en çok güven kaybeden kurumlar
   entry_id: 60724488
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=t%c3%bcrk+silahl%c4%b1+kuvvetleri">türk silahlı kuvvetleri</a>)<br/>(bkz: <a class="b" href="/?q=dan%c4%b1%c5%9ftay">danıştay</a>)<br/>(bkz: <a class="b" href="/?q=yarg%c4%b1tay">yargıtay</a>)<br/>(bkz: <a class="b" href="/?q=say%c4%b1%c5%9ftay">sayıştay</a>)<br/>(bkz: <a class="b" href="/?q=anayasa+mahkemesi">anayasa mahkemesi</a>)<br/>(bkz: <a class="b" href="/?q=milli+istihbarat+te%c5%9fkilat%c4%b1">milli istihbarat teşkilatı</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcksek+se%c3%a7im+kurulu">yüksek seçim kurulu</a>) <br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+futbol+federasyonu">türkiye futbol federasyonu</a>)<br/>(bkz: <a class="b" href="/?q=medya">medya</a>)<br/>(bkz: <a class="b" href="/?q=emniyet">emniyet</a>)<br/>(bkz: <a class="b" href="/?q=cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1">cumhurbaşkanlığı</a>)<br/>(bkz: <a class="b" href="/?q=bankac%c4%b1l%c4%b1k+d%c3%bczenleme+ve+denetleme+kurumu">bankacılık düzenleme ve denetleme kurumu</a>)<br/>(bkz: <a class="b" href="/?q=diyanet">diyanet</a>)<br/>bakın çok enteresan: (bkz: <a class="b" href="/?q=meteoroloji">meteoroloji</a>)
+    (bkz:  <a class="b" href="/?q=t%c3%bcrk+silahl%c4%b1+kuvvetleri">türk silahlı kuvvetleri</a>)<br/>(bkz: <a class="b" href="/?q=dan%c4%b1%c5%9ftay">danıştay</a>)<br/>(bkz: <a class="b" href="/?q=yarg%c4%b1tay">yargıtay</a>)<br/>(bkz: <a class="b" href="/?q=say%c4%b1%c5%9ftay">sayıştay</a>)<br/>(bkz: <a class="b" href="/?q=anayasa+mahkemesi">anayasa mahkemesi</a>)<br/>(bkz: <a class="b" href="/?q=milli+istihbarat+te%c5%9fkilat%c4%b1">milli istihbarat teşkilatı</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcksek+se%c3%a7im+kurulu">yüksek seçim kurulu</a>) <br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+futbol+federasyonu">türkiye futbol federasyonu</a>)<br/>(bkz: <a class="b" href="/?q=medya">medya</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcbitak">tübitak</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6sym">ösym</a>)<br/>(bkz: <a class="b" href="/?q=milli+piyango">milli piyango</a>)<br/>(bkz: <a class="b" href="/?q=emniyet">emniyet</a>)<br/>(bkz: <a class="b" href="/?q=cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1">cumhurbaşkanlığı</a>)<br/>(bkz: <a class="b" href="/?q=bankac%c4%b1l%c4%b1k+d%c3%bczenleme+ve+denetleme+kurumu">bankacılık düzenleme ve denetleme kurumu</a>)<br/>(bkz: <a class="b" href="/?q=diyanet">diyanet</a>)<br/>bakın çok enteresan: (bkz: <a class="b" href="/?q=meteoroloji">meteoroloji</a>)
    
   entry_writer: bindokuzyuzkusur
 - entry_name: |
@@ -384,7 +383,7 @@ data:
   entry_id: 60722900
   entry_content: |
     
-    "nihayet sevişen bir başka dizi çifti" ile türkiye bir kez daha rahatladı....<br/><br/>şömine başında sezen'ı çaksan herkes sevişir zaten.<br/><br/>yalnız bu dizi ile bir gerçeği fark ettim. ben artık bu sevişme sahnelerinde sadece rte'yi düşüyorum, allah belamı versin. her an dizi çat diye kesilebilirmiş gibi geliyor. ne de olsa <a class="b" href="/?q=sevi%c5%9fmek+k%c3%bclt%c3%bcr%c3%bcm%c3%bczde+yok">sevişmek kültürümüzde yok</a><br/><br/>son not: hikayesi zorlama olsa da mahir'in oyunculuğu üstüne tanımıyorum. son zamanlarda izlediğim en bomba performansı sergiliyor adam. çok daha iyi ve sağlam senaryoları hak ediyor, benden söylemesi.
+    debe editi: debe olmuşuz, o zaman bu entry eymen için gelsin. herkesi (bkz:  <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>) başlığına alalım. az çok demeyin, yardım edin...<br/>sevgiler!<br/><br/>"nihayet sevişen bir başka dizi çifti" ile türkiye bir kez daha rahatladı...<br/><br/>şömine başında sezen'ı çaksan herkes sevişir zaten.<br/><br/>yalnız bu dizi ile bir gerçeği fark ettim. ben artık bu sevişme sahnelerinde sadece rte'yi düşüyorum, allah belamı versin. her an dizi çat diye kesilebilirmiş gibi geliyor. ne de olsa <a class="b" href="/?q=sevi%c5%9fmek+k%c3%bclt%c3%bcr%c3%bcm%c3%bczde+yok">sevişmek kültürümüzde yok</a><br/><br/>son not: hikayesi zorlama olsa da mahir'in oyunculuğu üstüne tanımıyorum. son zamanlarda izlediğim en bomba performansı sergiliyor adam. çok daha iyi ve sağlam senaryoları hak ediyor, benden söylemesi.
    
   entry_writer: zephyrantes
 - entry_name: |
@@ -400,7 +399,7 @@ data:
   entry_id: 60707874
   entry_content: |
     
-    "ya varsa" demiş hz ali.  <br/><br/>ahahaha lan ben buna yıllardır gülüyorum ya.<br/><br/>adam peygamberi görmüş, hala "lan yanmasak bari" diye hesap kitapla kabul ediyor. inanmak bile değil o zira insan inandığı ya da inanmadığı şeyi seçemez. seçtiği şey bir fikri uygulamak ya da uygulamamaktır. ama o fikre inanmak ya da inanmamak için kendini zorlayamaz. <br/><br/>varsa allah ve "niye inanmadın" diye sorarsa bana "ya ilk halifeler bile 'ya varsa' diye kabul etmişler, ben 1400 sene sonra neye inanayım da edeyim" der geçerim. <br/><br/>allahın soru sorması bile saçma ya.. bilmiyo mu abi benim kafamdaki düşünceyi? neyine soruyosun? yok köprüden geçicek yok iki melek kaydedecek günah sevapları.. nasıl bir produksiyon sanırsın anadolu ateşi. yani şu detaylar bile mantıksız. <br/><br/>bırak evreni kainatı bir varlık sinek yaratabildiyse ben gibi şansım varsa 80 sene yaşayacak bir insanı ikna edecek bir kitap yazması zor olmamalı. beni çok güzel ikna eden ve insanların yazdığı sürüyle kitap var.<br/><br/>adam diyo ki "kitabı allah yazdırdı". e arkadaş sen çıtayı öyle yükseğe koyarsan benim de inanma çıtamı o kadar yükseltme hakkım olmalı di mi? <br/><br/>ne demiş hitch reis ? <br/><br/>"olağanüstü iddialar, olağanüstü ispat gerektirir".
+    "ya varsa" demiş hz ali.  <br/><br/>ahahaha lan ben buna yıllardır gülüyorum ya.<br/><br/>adam peygamberi görmüş, hala "lan yanmasak bari" diye hesap kitapla kabul ediyor. inanmak bile değil o zira insan inandığı ya da inanmadığı şeyi seçemez. seçtiği şey bir fikri uygulamak ya da uygulamamaktır. ama o fikre inanmak ya da inanmamak için kendini zorlayamaz. <br/><br/>varsa allah ve "niye inanmadın" diye sorarsa bana "ya ilk halifeler bile 'ya varsa' diye kabul etmişler, ben 1400 sene sonra neye inanayım da edeyim" der geçerim. <br/><br/>allahın soru sorması bile saçma ya.. bilmiyo mu abi benim kafamdaki düşünceyi? neyine soruyosun? yok köprüden geçicek yok iki melek kaydedecek günah sevapları.. nasıl bir produksiyon sanırsın anadolu ateşi. yani şu detaylar bile mantıksız. <br/><br/>bırak evreni kainatı bir varlık sinek yaratabildiyse ben gibi şansım varsa 80 sene yaşayacak bir insanı ikna edecek bir kitap yazması zor olmamalı. beni çok güzel ikna eden ve insanların yazdığı sürüyle kitap var.<br/><br/>adam diyo ki "kitabı allah yazdırdı". e arkadaş sen çıtayı öyle yükseğe koyarsan benim de inanma çıtamı o kadar yükseltme hakkım olmalı di mi? <br/><br/>ne demiş hitch reis ? <br/><br/>"olağanüstü iddialar, olağanüstü ispat gerektirir".<br/><br/>edit: hayır bunu ilk sagan söylemedi. <br/><a rel="nofollow" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Marcello_Truzzi#.22Extraordinary_claims.22" title="https://en.wikipedia.org/wiki/Marcello_Truzzi#.22Extraordinary_claims.22">https://en.wikipedia.org/…22extraordinary_claims.22</a>
    
   entry_writer: skeptico
 ---
