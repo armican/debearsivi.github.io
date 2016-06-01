@@ -7,7 +7,7 @@ data:
   entry_id: 60851046
   entry_content: |
     
-    ön edit: 7 saat oldu, beyanlara göre toplam bağış miktarı: 3429,95 dolar. (saat 17:22 itibariyle  <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/v4Ly6v.png" title="http://i.hizliresim.com/v4Ly6v.png">lösev'den gelen bilgiye göre</a> toplamda 35 bin tl <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/losev1998/status/737651250339053569" title="https://twitter.com/losev1998/status/737651250339053569">bağış toplanmış</a>) elimde kalem kağıt, tüylerim diken diken hepiniz sağolun. çaylak arkadaşlar sizin bağışlarınızı da ekliyorum haberiniz olsun. turkcell, türk telekom veya vodafone faturalı hatlarınızdan 3406’ya boş sms göndererek bağış yapabilirsiniz. her bir mesaj bedeli 10 tl'dir. (türk telekom ve vodafone abonelerinden +2 sms mesaj gönderim ücreti alınmaktadır.)<br/><br/>sözlük yazarlarının paypal hesaplarındaki küçük miktarların, lösev'e bağışlanması kampanyasıdır. <br/><br/>dün paypal'ın türkiye'den çekilmesi haberlerinin ardından uzun süredir kontrol etmediğim paypal hesabımı kontrol ettim, içinde 2,82 usd var. bu para senelerdir duruyor. bildiğim kadarıyla kullanılamıyor da. velev ki kullanılabilsin önemli değil. <br/><br/>paypal hesaplarında benim gibi az miktarda para kalan ve bu paraları benim gibi kullanmayan yazarları, bu paraları lösev'e bağışlamaya davet ediyorum. <br/><br/><a class="b" href="/?q=nas%c4%b1l+yap%c4%b1l%c4%b1yor">nasıl yapılıyor</a><br/><br/>öncelikle <a rel="nofollow" class="url" target="_blank" href="http://www.paypal.com/" title="http://www.paypal.com/">paypal hesabımıza giriş yapıyoruz</a>, çıkan ekranda en üstte yer alan <a class="b" href="/?q=g%c3%b6nder+ve+iste">gönder ve iste</a> sekmesine tıklıyoruz. sonra ilk sırada yer alan <a class="b" href="/?q=arkada%c5%9flar%c4%b1n%c4%b1za+ve+ailenize+para+g%c3%b6nderin">arkadaşlarınıza ve ailenize para gönderin</a> seçeneğine tıklıyoruz. gelen ekrana 'international@losev.org.tr' yazıyoruz ve 'sonraki'ye basıyoruz. sonra bağışlamak istediğimiz miktarı yazıyoruz ve işlem tamam.<br/><br/>lösev'e ait paypal hesabının doğruluğunu <a rel="nofollow" class="url" target="_blank" href="http://www.losev.org.tr/v2/tr/content.asp?ctID=428" title="http://www.losev.org.tr/v2/tr/content.asp?ctID=428">burdan</a> kontrol edebilirsiniz. <br/><br/>bağış yapan arkadaşlar, bağış miktarlarını yazarlarsa kampanya sonucunda bağışlanan miktarı da paylaşabiliriz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PMo0B5.png" title="http://i.hizliresim.com/PMo0B5.png">2,82 dolarım güzel çocuklara</a><br/><br/>vefa editi: böyle işlerde isimler önemli değildir ama çok duygulandığım için söylemek istiyorum. geçtiğimiz günlerde uçurulmuş olan 'gencsabri' nickli yazar bu kampanyayı benim hesabımdan başlatmış ve devamıyla ilgilenmiş. kendisi de eski bir lösemi hastasi. onlarca milyar bağışa önayak olan bu arkadaşımın yazarlığının tekrar aktif hale getirilmesinin, bu kampanyayı daha bir manalı kılacağına inanıyorum.
+    ön edit: 24 saat itibariyle lösev'den gelen bilgiye göre toplamda 100 bin tl  <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/losev1998/status/737651250339053569" title="https://twitter.com/losev1998/status/737651250339053569">bağış toplanmış</a>) elimde kalem kağıt, tüylerim diken diken hepiniz sağolun. çaylak arkadaşlar sizle mesajlaşamıyoruz ama siz de sağolun. turkcell, türk telekom veya vodafone faturalı hatlarınızdan 3406’ya boş sms göndererek bağış yapabilirsiniz. her bir mesaj bedeli 10 tl'dir. (türk telekom ve vodafone abonelerinden +2 sms mesaj gönderim ücreti alınmaktadır.)<br/><br/>sözlük yazarlarının paypal hesaplarındaki küçük miktarların, lösev'e bağışlanması kampanyasıdır. <br/><br/>dün paypal'ın türkiye'den çekilmesi haberlerinin ardından uzun süredir kontrol etmediğim paypal hesabımı kontrol ettim, içinde 2,82 usd var. bu para senelerdir duruyor. bildiğim kadarıyla kullanılamıyor da. velev ki kullanılabilsin önemli değil. <br/><br/>paypal hesaplarında benim gibi az miktarda para kalan ve bu paraları benim gibi kullanmayan yazarları, bu paraları lösev'e bağışlamaya davet ediyorum. <br/><br/><a class="b" href="/?q=nas%c4%b1l+yap%c4%b1l%c4%b1yor">nasıl yapılıyor</a><br/><br/>öncelikle <a rel="nofollow" class="url" target="_blank" href="http://www.paypal.com/" title="http://www.paypal.com/">paypal hesabımıza giriş yapıyoruz</a>, çıkan ekranda en üstte yer alan <a class="b" href="/?q=g%c3%b6nder+ve+iste">gönder ve iste</a> sekmesine tıklıyoruz. sonra ilk sırada yer alan <a class="b" href="/?q=arkada%c5%9flar%c4%b1n%c4%b1za+ve+ailenize+para+g%c3%b6nderin">arkadaşlarınıza ve ailenize para gönderin</a> seçeneğine tıklıyoruz. gelen ekrana 'international@losev.org.tr' yazıyoruz ve 'sonraki'ye basıyoruz. sonra bağışlamak istediğimiz miktarı yazıyoruz ve işlem tamam.<br/><br/>lösev'e ait paypal hesabının doğruluğunu <a rel="nofollow" class="url" target="_blank" href="http://www.losev.org.tr/v2/tr/content.asp?ctID=428" title="http://www.losev.org.tr/v2/tr/content.asp?ctID=428">burdan</a> kontrol edebilirsiniz. <br/><br/>bağış yapan arkadaşlar, bağış miktarlarını yazarlarsa kampanya sonucunda bağışlanan miktarı da paylaşabiliriz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/PMo0B5.png" title="http://i.hizliresim.com/PMo0B5.png">2,82 dolarım güzel çocuklara</a><br/><br/>vefa editi: böyle işlerde isimler önemli değildir ama çok duygulandığım için söylemek istiyorum. geçtiğimiz günlerde uçurulmuş olan 'gencsabri' nickli yazar bu kampanyayı benim hesabımdan başlatmış ve devamıyla ilgilenmiş. kendisi de eski bir lösemi hastasi. onlarca milyar bağışa önayak olan bu arkadaşımın yazarlığının tekrar aktif hale getirilmesinin, bu kampanyayı daha bir manalı kılacağına inanıyorum.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/v4Ly6v.png" title="http://i.hizliresim.com/v4Ly6v.png">sözlük'e lösev'den gelen mail</a>
    
   entry_writer: dergus
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 60854300
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=kes+lan+siz+birbirini+siken+adamlars%c4%b1n%c4%b1z">kes lan siz birbirini siken adamlarsınız</a>)
+    (bkz:  <a class="b" href="/?q=kes+lan+siz+birbirini+siken+adamlars%c4%b1n%c4%b1z">kes lan siz birbirini siken adamlarsınız</a>)<br/><br/>edit:<br/><br/>(bkz: <a class="b" href="/entry/60468430">rehber köpekler derneği/#60468430</a>)<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: sonadora
 - entry_name: |
@@ -83,14 +83,6 @@ data:
     
   entry_writer: yessbeannem
 - entry_name: |
-    31 mayıs 2016 taksim gezi parkının kapatılması
-  entry_id: 60857553
-  entry_content: |
-    
-    sik kafalı, orospu çocuğu, domuz suratlı, soyu kuruyası padişah müsveddesinin göt korkusundan ötürü gerçekleşmiştir..<br/><br/>senin yedi ceddini sikeyim emi tırsak puşt!
-   
-  entry_writer: buford tannen
-- entry_name: |
     türkiye milli takımı euro 2016 kadrosu
   entry_id: 60858257
   entry_content: |
@@ -103,7 +95,7 @@ data:
   entry_id: 60856071
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)
+    (bkz:  <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: mukan
 - entry_name: |
@@ -127,7 +119,7 @@ data:
   entry_id: 60860166
   entry_content: |
     
-    rte ' nin izmirde az önce söylediği cümle. türk- rus ilişkilerinin bozulması konusunda sorulan soruya:  <br/><br/>"sayın putin ile ilişkilerimiz gayet iyiyken böyle bir konuma gelmiş olmamız ya da bir pilotun yapmış olduğu hata sebebi ile türkiye'den gözden çıkarması düşündürücüdür. umarız ki bu sorun aşılır ve türkiye ile rusya son 10 yılda attığımız adımları tekrar atarız." şeklinde cevap vermiştir.<br/><br/>sanırsın pilot kahvede okey oynarken uçağı görmüş, dur gidip vurayım da geleyim demiş..<br/><br/>kaynak geldi<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.ajanshaber.com/cumhurbaskani-erdogan-konusuyor-haberi/359207" title="http://www.ajanshaber.com/cumhurbaskani-erdogan-konusuyor-haberi/359207">haber</a><br/><br/>..uyaran arkadaşlar olmuş. rte nin burada "rus pilot" tan bahsettiğini söylemişler. bu yaklaşım tabiki akla daha yatkın ancak metnin neresinden bunu anlamışlar, o da ayrı hikaye. <br/><br/>yine <br/>de biraz karıştırınca, farklı kaynaklardan yorumlara bakınca genel kanının bu olduğu sonucu çıkıyor..
+    rte ' nin izmirde az önce söylediği cümle. türk- rus ilişkilerinin bozulması konusunda sorulan soruya:  <br/><br/>"sayın putin ile ilişkilerimiz gayet iyiyken böyle bir konuma gelmiş olmamız ya da bir pilotun yapmış olduğu hata sebebi ile türkiye'den gözden çıkarması düşündürücüdür. umarız ki bu sorun aşılır ve türkiye ile rusya son 10 yılda attığımız adımları tekrar atarız." şeklinde cevap vermiştir.<br/><br/>sanırsın pilot kahvede okey oynarken uçağı görmüş, dur gidip vurayım da geleyim demiş..<br/><br/>kaynak geldi<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.ajanshaber.com/cumhurbaskani-erdogan-konusuyor-haberi/359207" title="http://www.ajanshaber.com/cumhurbaskani-erdogan-konusuyor-haberi/359207">haber</a><br/><br/>..uyaran arkadaşlar olmuş. rte nin burada "rus pilot" tan bahsettiğini söylemişler. bu yaklaşım tabiki akla daha yatkın ancak metnin neresinden bunu anlamışlar, o da ayrı hikaye. <br/><br/>yine <br/>de biraz karıştırınca, farklı kaynaklardan yorumlara bakınca genel kanının bu olduğu sonucu çıkıyor..<br/><br/>....<br/><br/>minik ilayda' yı unutmayalım..<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)<br/><br/>....
    
   entry_writer: niyesordunlafolsundiyemi
 - entry_name: |
@@ -183,7 +175,7 @@ data:
   entry_id: 60850267
   entry_content: |
     
-    peder beyin memuriyeti dolayisiyla kucuk yerlerde cok bulunduk. köy gibi bir yerdeyiz. ben de nerden baksan 4 5 yasindayim. nasil batman kiyafeti istiyorum ama. ortaligi ayaga kaldirmisim. o donemler şu özel cocuk kanallari revacta. o halimle o telefon numarasini arar karsidan biri cikana kadar tv de bi degisiklik olmasini beklerdim. :) biraz saf bir tiptim..<br/><br/>neyse anne hanim bulmus bulusturmus masa ötrülerinden kesmis bicmis. ıcine kartondan kulak yapmis. yapilirken nasil ozendigimi ben hatirliyorum. ama o kiyafete dair hatirladigim net bir anim daha var. <br/><br/>ılk elime verildigi anda dunyalar benim olmustu. hatta icime en sevdiğim tişörtü giydim. uzerine batman kiyafetim. balkona attim kendimi. bi de ne göreyim. karsida bizim samet bana bakiyor. göz göze kaldık cocukla. 4 5 saniye birbirimize baktik. samet ayni samet ama ben artik batman dim. bu sessizligi bir süper kahraman selamı ile kırmak icin elimi kaldirmamla sametin kendini birakmasi bir oldu. nasil ağlıyor çocuk. hemen içeri kaçtım. <br/><br/>megersem onların evde pek tv izlenmezmiş. cocuk da beni öyle görünce dili tutulmuş korkudan. epey konuşamadı. simsiyah örtüden yapilmiş pelerinli kafadan geçirmeli karton kulakli kiyafet. <br/><br/>bir daha giymemiştim efem. samet korkusuna. <br/><br/>bu da böyle bir anımdır
+    peder beyin memuriyeti dolayisiyla kucuk yerlerde cok bulunduk. köy gibi bir yerdeyiz. ben de nerden baksan 4 5 yasindayim. nasil batman kiyafeti istiyorum ama. ortaligi ayaga kaldirmisim. o donemler şu özel cocuk kanallari revacta. o halimle o telefon numarasini arar karsidan biri cikana kadar tv de bi degisiklik olmasini beklerdim. :) biraz saf bir tiptim..<br/><br/>neyse anne hanim bulmus bulusturmus masa ötrülerinden kesmis bicmis. ıcine kartondan kulak yapmis. yapilirken nasil ozendigimi ben hatirliyorum. ama o kiyafete dair hatirladigim net bir anim daha var. <br/><br/>ılk elime verildigi anda dunyalar benim olmustu. hatta icime en sevdiğim tişörtü giydim. uzerine batman kiyafetim. balkona attim kendimi. bi de ne göreyim. karsida bizim samet bana bakiyor. göz göze kaldık cocukla. 4 5 saniye birbirimize baktik. samet ayni samet ama ben artik batman dim. bu sessizligi bir süper kahraman selamı ile kırmak icin elimi kaldirmamla sametin kendini birakmasi bir oldu. nasil ağlıyor çocuk. hemen içeri kaçtım. <br/><br/>megersem onların evde pek tv izlenmezmiş. cocuk da beni öyle görünce dili tutulmuş korkudan. epey konuşamadı. simsiyah örtüden yapilmiş pelerinli kafadan geçirmeli karton kulakli kiyafet. <br/><br/>bir daha giymemiştim efem. samet korkusuna. <br/><br/>bu da böyle bir anımdır<br/><br/>debe editi : @halidx olmasa ne günlere kaldık<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: bulunmus hint kumasi
 - entry_name: |
@@ -231,7 +223,7 @@ data:
   entry_id: 60853371
   entry_content: |
     
-    ramazan ayının ilk dayağı nerde atılacak oranlarını açıklıyorum::<br/>kocaeli : 12:50<br/>kayseri : 12:25<br/>konya : 11:50<br/>trabzon : 10:00<br/>erzurum : 1:45<br/>yozgat : 1:50<br/>evet, her sene olduğu gibi linç konusunda bu sene de yozgat ile erzurum arasında tatlı bir rekabet var.
+    ramazan ayının ilk dayağı nerde atılacak oranlarını açıklıyorum::<br/>kocaeli : 12,50<br/>kayseri : 12,25<br/>konya : 11,50<br/>trabzon : 10,00<br/>erzurum : 1,45<br/>yozgat : 1,50<br/>evet, her sene olduğu gibi linç konusunda bu sene de yozgat ile erzurum arasında tatlı bir rekabet var.<br/><br/>debe: gezi ve (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: hieron
 - entry_name: |
@@ -239,7 +231,7 @@ data:
   entry_id: 60855787
   entry_content: |
     
-    galatasaray kulübünün özür dileyip dilemeyeceğini merak ettirmiştir. şöyle bir açıklamada bulunmuşlardı kendileri,,<br/><br/>"başantrenörlerinin yüzüne sıçrayan ayranın tükürük olduğunu iddia edecek kadar çirkinleşebildiler."<br/><br/>bu olayın üstüne, fenerbahçe kulübü'ne saldıracak kadar pişkince bir tutum sergilemişlerdi. daha nasıl savunacaklar bu hayvandan farksız taraftarları acaba? <br/><br/>not: insan olan galatasaray taraftarını tenzih ederim.
+    galatasaray kulübünün özür dileyip dilemeyeceğini merak ettirmiştir. şöyle bir açıklamada bulunmuşlardı kendileri,,<br/><br/>"başantrenörlerinin yüzüne sıçrayan ayranın tükürük olduğunu iddia edecek kadar çirkinleşebildiler."<br/><br/>bu olayın üstüne, fenerbahçe kulübü'ne saldıracak kadar pişkince bir tutum sergilemişlerdi. daha nasıl savunacaklar bu hayvandan farksız taraftarları acaba? <br/><br/>not: insan olan galatasaray taraftarını tenzih ederim.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: rasaf
 - entry_name: |
@@ -247,8 +239,8 @@ data:
   entry_id: 60849336
   entry_content: |
     
-    amerikan savcısının kendi ülkesinin içişlerinin işleyişine olan katkısıdır. türkiye'den yoğun sevgi gösterilmesinin sebebi olsa olsa işlemeyen adalet çarkından artık ümidin kesilmesi olabilir.
-    
+    amerikan savcısının kendi ülkesinin içişlerinin işleyişine olan katkısıdır. türkiye'den yoğun sevgi gösterilmesinin sebebi olsa olsa işlemeyen adalet çarkından artık ümidin kesilmesi olabilir..<br/><br/>debe edit: <br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>) pamuk eller cebe, olmadı listeyi yükseklerde tutalım sayın sözlük.<br/><br/>(bkz: <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck+beril+i%c3%a7in+acil+trombosit+gerekiyor">küçük beril için acil trombosit gerekiyor</a>)göreyim sizi dostlar.
+   
   entry_writer: cleared for take off
 - entry_name: |
     welcome to euroleague
@@ -271,7 +263,7 @@ data:
   entry_id: 60859162
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=mihriban">mihriban</a>) konu kilit.
+    (bkz:  <a class="b" href="/?q=mihriban">mihriban</a>) konu kilit.<br/><br/>gelen rica üzerine debe editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: sosis
 - entry_name: |
@@ -295,7 +287,7 @@ data:
   entry_id: 60861893
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dont+feed+the+troll">dont feed the troll</a>)<br/>birader sen de siktir git, komik değil artık
+    (bkz:  <a class="b" href="/?q=dont+feed+the+troll">dont feed the troll</a>)<br/>birader sen de siktir git, komik değil artık<br/><br/>ilk debe editim, çok heyecanlıyım <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: kapitza
 - entry_name: |
@@ -303,7 +295,7 @@ data:
   entry_id: 60868620
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=simdi+al+seneye+de+izlersin">simdi al seneye de izlersin</a>)<br/><br/>blu-ray filmler yil sonuna dogru tamamen 4k'ya geciyor. o yuzden ise yaramayacak diyemeyiz.<br/><br/>peki 1080p goruntu gayet net degil mi? net. ama hey dostum kamoon kapitalizm cagindayiz sus ve ayak uydur. kos ve borca harca girip ölüm kalim meselesiymis gibi hemen bir 4k tv al. cunku essegin ziki bile artik 4k. lutfen.
+    (bkz:  <a class="b" href="/?q=simdi+al+seneye+de+izlersin">simdi al seneye de izlersin</a>)<br/><br/>blu-ray filmler yil sonuna dogru tamamen 4k'ya geciyor. o yuzden ise yaramayacak diyemeyiz.<br/><br/>peki 1080p goruntu gayet net degil mi? net. ama hey dostum kamoon kapitalizm cagindayiz sus ve ayak uydur. kos ve borca harca girip ölüm kalim meselesiymis gibi hemen bir 4k tv al. cunku essegin ziki bile artik 4k. lutfen.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: on capraz baglardaki yirtilma
 - entry_name: |
@@ -311,7 +303,7 @@ data:
   entry_id: 60854345
   entry_content: |
     
-    umuyoruz gerçek  <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bb2Ll0.jpg" title="http://i.hizliresim.com/bb2Ll0.jpg">değildir.......</a><br/><br/>unesco tiyatro enstitüsü hırvatistan tiyatro festivaline, tüm masrafları karşılanmak üzere türkiye'den iki isim davet etmiş.<br/>(bkz: <a class="b" href="/?q=necat+birecik">necat birecik</a>)<br/>(bkz: <a class="b" href="/?q=zafer+karaokay">zafer karaokay</a>)<br/><br/>bu kişiler devlet tiyatroları genel müdürü ve dt sanatçısı. ancak bu kişiler, iddiadaki belgeye göre, zagreb'te gezmeye gitmişler ve festivale uğramamışlar. adamlar da kınamış.<br/><br/>doğruysa, (ki benim tiyatro tecrübem bunun doğru olma ihtimalinin çok yüksek olduğunu gösterir...) rezalet gibi rezalettir.
+    umuyoruz gerçek  <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/bb2Ll0.jpg" title="http://i.hizliresim.com/bb2Ll0.jpg">değildir.......</a><br/><br/>unesco tiyatro enstitüsü hırvatistan tiyatro festivaline, tüm masrafları karşılanmak üzere türkiye'den iki isim davet etmiş.<br/>(bkz: <a class="b" href="/?q=necat+birecik">necat birecik</a>)<br/>(bkz: <a class="b" href="/?q=zafer+karaokay">zafer karaokay</a>)<br/><br/>bu kişiler devlet tiyatroları genel müdürü ve dt sanatçısı. ancak bu kişiler, iddiadaki belgeye göre, zagreb'te gezmeye gitmişler ve festivale uğramamışlar. adamlar da kınamış.<br/><br/>doğruysa, (ki benim tiyatro tecrübem bunun doğru olma ihtimalinin çok yüksek olduğunu gösterir...) rezalet gibi rezalettir.<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: 29 mayis 1453 gunu hasta olan yeniceri
 - entry_name: |
@@ -327,8 +319,8 @@ data:
   entry_id: 60863006
   entry_content: |
     
-    iyi kötü çirkin'in finalindeki üçlü kapışma sahnesi tabii ki.
-    
+    iyi kötü çirkin'in finalindeki üçlü kapışma sahnesi tabii ki..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=tntMEpxyRSY" title="https://www.youtube.com/watch?v=tntMEpxyRSY">https://www.youtube.com/watch?v=tntmepxyrsy</a>
+   
   entry_writer: amidimbemidimcemidimdemidim
 - entry_name: |
     kaç erkekle yattığını net olarak bilmeyen kadın
@@ -343,7 +335,7 @@ data:
   entry_id: 60862888
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yaz%c4%b1k+la+kimin+%c3%a7ocu%c4%9fuysa">yazık la kimin çocuğuysa</a>)
+    (bkz:  <a class="b" href="/?q=yaz%c4%b1k+la+kimin+%c3%a7ocu%c4%9fuysa">yazık la kimin çocuğuysa</a>)<br/><br/>edit: yüz yıldır sözlükte yazarım beni soka soka bir bknz ile debeye soktunuz. allah sizi bildiği gibi yapsın. işe yarıyor mu bilmiyorum ama umarım yarıyordur:<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: yin yang
 - entry_name: |
@@ -351,7 +343,7 @@ data:
   entry_id: 60849432
   entry_content: |
     
-    şimdi bakıyorsun::<br/><br/>* firma akaryakıt bayii, ödediği vergi 5000 tl.<br/>* taahhüt firması, giderler, bilmem neler, 3 senedir vergi levhasında ne görüyoruz "<a class="b" href="/?q=matrahs%c4%b1z">matrahsız</a>"<br/>* kocamaaan bir yemek franchise'ının vergi levhası gözüne takılıyor, "büyük mükellefler vd." gözünü aşağı kaydırıyorsun ki ne göresin? "<a class="b" href="/?q=matrahs%c4%b1z">matrahsız</a>"<br/><br/>ücretli çalışanların ise ocak ayı ile aralık ayı arasındaki maaşında ciddi anlamda fark olabiliyor. "<a class="b" href="/?q=a%c5%9f%c4%b1r%c4%b1+akp%27lilik+sendromu">aşırı akp'lilik sendromu</a>"'ndan muzdarip kuzenim bu durumu şöyle savunuyor:<br/><br/>"sen vergi mi ödüyorsun? ne vergisi? senin maaşın 3000 lira değil mi? her ay 3000 lira almıyor musun? e daha ne? hani vergi? nerede vergi?"<br/><br/>adamların mantığı bu işte. mantığını sikeyim halaoğlu.
+    şimdi bakıyorsun::<br/><br/>* firma akaryakıt bayii, ödediği vergi 5000 tl.<br/>* taahhüt firması, giderler, bilmem neler, 3 senedir vergi levhasında ne görüyoruz "<a class="b" href="/?q=matrahs%c4%b1z">matrahsız</a>"<br/>* kocamaaan bir yemek franchise'ının vergi levhası gözüne takılıyor, "büyük mükellefler vd." gözünü aşağı kaydırıyorsun ki ne göresin? "<a class="b" href="/?q=matrahs%c4%b1z">matrahsız</a>"<br/><br/>ücretli çalışanların ise ocak ayı ile aralık ayı arasındaki maaşında ciddi anlamda fark olabiliyor. "<a class="b" href="/?q=a%c5%9f%c4%b1r%c4%b1+akp%27lilik+sendromu">aşırı akp'lilik sendromu</a>"'ndan muzdarip kuzenim bu durumu şöyle savunuyor:<br/><br/>"sen vergi mi ödüyorsun? ne vergisi? senin maaşın 3000 lira değil mi? her ay 3000 lira almıyor musun? e daha ne? hani vergi? nerede vergi?"<br/><br/>adamların mantığı bu işte. mantığını sikeyim halaoğlu.<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: johnmalkow
 - entry_name: |
@@ -367,7 +359,7 @@ data:
   entry_id: 60849355
   entry_content: |
     
-    ay canim ya burdan tanistigimiz adamlar sizinle bulusmak mi istiyor?  <br/><br/>bak sen ya ufucuk mu olmus :)<br/><br/>halbuki once hamama gidilsin aileler falan bi tanissin di mi :)<br/><br/>lan kezbanligi da gectim mal misiniz siz ya, cidden?
+    ay canim ya burdan tanistigimiz adamlar sizinle bulusmak mi istiyor?  <br/><br/>bak sen ya ufucuk mu olmus :)<br/><br/>halbuki once hamama gidilsin aileler falan bi tanissin di mi :)<br/><br/>lan kezbanligi da gectim mal misiniz siz ya, cidden?<br/><br/>debedit: (bkz: <a class="b" href="/entry/57143573">eksi sozluk is agi/#57143573</a>)
    
   entry_writer: erkek pisi
 - entry_name: |
