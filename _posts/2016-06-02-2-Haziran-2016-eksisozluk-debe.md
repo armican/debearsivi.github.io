@@ -23,8 +23,8 @@ data:
   entry_id: 60879937
   entry_content: |
     
-    tanrıdan el almış dört dörtlük müslümanlar tarafından hükmü verilmiş adam. allah yardımcısı olsun
-    
+    tanrıdan el almış dört dörtlük müslümanlar tarafından hükmü verilmiş adam. allah yardımcısı olsunn<br/><br/>bir arkadaşın ricası üzerine edit :(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
+   
   entry_writer: kafancokguzelmiscanimgulegulekullan
 - entry_name: |
     saray'a 650 milyon tl'ye opera ve kütüphane yapımı
@@ -39,7 +39,7 @@ data:
   entry_id: 60876457
   entry_content: |
     
-    37'yi bulacak aynştaynların arandığı soru..<br/><br/><a class="b" href="/?q=ekleme">ekleme</a>: inanılır gibi değil. ben soruyu soran yazar milleti trollüyor, ilk 37 yazana "aha bu da aynştayn sazan!" diyecek diye düşünüp yazmıştım. yalnız ahalinin durumu içler acısı. bir ara hep beraber toplanıp matematik çalışalım arkadaşlar. ya da yönetim ekşifest programına 1 saatlik "dört işlem" bölümü falan eklesin bence.
+    37'yi bulacak aynştaynların arandığı soru..<br/><br/><a class="b" href="/?q=ekleme">ekleme</a>: inanılır gibi değil. ben soruyu soran yazar milleti trollüyor, ilk 37 yazana "aha bu da aynştayn sazan!" diyecek diye düşünüp yazmıştım. yalnız ahalinin durumu içler acısı. bir ara hep beraber toplanıp matematik çalışalım arkadaşlar. ya da yönetim ekşifest programına 1 saatlik "dört işlem" bölümü falan eklesin bence.<br/><br/>istek üzerine genel bilgi amacıyla -15 sene önce haftada 2 saat matematik dersi verilen ticaret lisesinden mezun biri olarak ve bunca üniversite öğrencisi üniversite mezunu ve hatta öğretmenlerimiz önünde haddim olmadığını bilip affınızı dileyerek- çözümü paylaşıyorum arkadaşlar:<br/><br/>başlık altında çokça paylaşıldığı üzere işlem önceliği diye bir olay var ve bu "bölme mi önceydi lan yoksa çarpma mı?" şeklinde değil önce bölme-çarpma ve sonra toplama-çıkarma şeklinde oluyor. sorudaki gibi parantez olmayan durumlarda öncelikle arasında bölme-çarpma olan sayılara işlem yapılıp daha sonra çıkan sonuçlarla toplama ve çıkarma işlemi yapılır. birden fazla bölme ve çarpma yanyana sıralıysa da soldan sağa <a class="b" href="/?q=tek+tek">tek tek</a> ve sırayla yapılır. (önce 9x4=36'yı 2x2=4'e bölüp en sonda 10 sonucunu bularak kendilerini cinyus ilan eden arkadaşların hatası burada sanırım)<br/><br/>9x4/2x2+3-6/3<br/>ilk toplama işlemine kadar çarpmaları bölmeleri sırayla bitirelim:<br/><br/><a class="b" href="/?q=9x4%2f2x2">9x4/2x2</a>+3-6/3<br/>9x4=36<br/>36/2=18<br/>18x2=36<br/><a class="b" href="/?q=9x4%2f2x2">9x4/2x2</a>=36<br/><br/>daha sonra kalanla devam edip işlemi bitirelim:<br/>36+3-<a class="b" href="/?q=6%2f3">6/3</a><br/>36+3-<a class="b" href="/?q=2">2</a>=37<br/><br/>ulan yine "aynştayn sazan!" durumuna düştüm gibi geliyor ya neyse artık :)<br/><br/>bu arada destek ihtiyacı olan bir aile için başlatılan yardım kampanyası var. (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: push the tempo
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 60886805
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikece%c4%9fi">açacağın başlığı sikeceği</a>)
+    (bkz:  <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikece%c4%9fi">açacağın başlığı sikeceği</a>)<br/><br/>edit: evet bugün de güldüğümüze göre hanımlar, beyler buyrun: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: right here in my arms
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 60878559
   entry_content: |
     
-    bosa zahmete girmislerdir. sanki yarin ciksa "evet lan diplomam yok, n'olacak" dese biri cikip da bir sey yapacak. en iyi ihtimalle "milletim beni burada gormek isterken bir kagit parcasinin ne onemi var diyecek", hooop oylar %60..<br/><br/>yolsuzluga dair ses kayitlari ayaga dustu. ustune oylari artti. ne yaptiysa hep daha cok destek gordu. bu isin sonu da universiteleri kapatiyorum haci'ya gelebilir valla. (bkz: <a class="b" href="/?q=comaristan+hukuku">comaristan hukuku</a>)
+    bosa zahmete girmislerdir. sanki yarin ciksa "evet lan diplomam yok, n'olacak" dese biri cikip da bir sey yapacak. en iyi ihtimalle "milletim beni burada gormek isterken bir kagit parcasinin ne onemi var diyecek", hooop oylar %60..<br/><br/>yolsuzluga dair ses kayitlari ayaga dustu. ustune oylari artti. ne yaptiysa hep daha cok destek gordu. bu isin sonu da universiteleri kapatiyorum haci'ya gelebilir valla. (bkz: <a class="b" href="/?q=comaristan+hukuku">comaristan hukuku</a>)<br/><br/>bir arkadasin duyurusu uzerine edit: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: ktrci
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 60876207
   entry_content: |
     
-    tüm takım arkadaşları 9 senede 5 kere şampiyon olurken kendisi 2 kere olup çok ayıp etmiştir.  <br/>mesela aziz başkan tüm takımı geçti, 8 kere şampiyon oldu 9 senede.
+    tüm takım arkadaşları 9 senede 5 kere şampiyon olurken kendisi 2 kere olup çok ayıp etmiştir.  <br/>mesela aziz başkan tüm takımı geçti, 8 kere şampiyon oldu 9 senede.<br/><br/>edit: <br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: 45arti1degolyiyenyazar
 - entry_name: |
@@ -87,16 +87,16 @@ data:
   entry_id: 60881962
   entry_content: |
     
-    ekşi sözlük'ün de iş aldığı tuhaf bir sektör. sayfanın aniden kayması şeklinde taktikler geliştirmişler; bir linke tıklayacam derken reklama tıklaman sağlanıyor. geneli tırt şeylerin reklamı aslında, gerçekten çok anlamsız şeyler var.
-    
+    ekşi sözlük'ün de iş aldığı tuhaf bir sektör. sayfanın aniden kayması şeklinde taktikler geliştirmişler; bir linke tıklayacam derken reklama tıklaman sağlanıyor. geneli tırt şeylerin reklamı aslında, gerçekten çok anlamsız şeyler var..<br/><br/>edit : (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>) minik bir kızımız için dayanışma başlığı; destek olalım, oldurtalım. sevgilerimle.<br/><br/>edit : debe sezonu açıldı haydeee. (bkz: <a class="b" href="/?q=%c5%9fehit+k%c3%bct%c3%bcphaneleri">şehit kütüphaneleri</a>) diye de bir şey varmış. kütüphanelerin yaygınlaşması için şehitlerin adları gerekmesin bundan sonra. ama yiten bu insanlarımızın adının kütüphanelerde yaşaması, adlarının yeni kütüphaneler açılmasına vesile olması, toplumumuzun bütün bu acı olayların sorumlusu olan cehalet belasını bir nebze olsun yenebilmesine yardım olacaksa bu teskin edemeyecek de olsa küçük bir tesellidir.
+   
   entry_writer: yurekinmez
 - entry_name: |
     nusret gökçe'nin puro saran kadını taciz etmesi
   entry_id: 60886506
   entry_content: |
     
-    kadının o an ki yüz ifadesini farketmeyen ve ardından sen baldır da seversin dediğini duymayanlar, tacizin ne olduğunu bilmeyenler için taciz olmayan durum. sen bunu bir de burda denesene nusret. asker arkadaşın mı? işini yapan bir kadının, fakirdir zaten, bacağına, ki bayağı yukarı değiyor el, dokunmanın taciz olmadığını söyleyenlere inanmıyorum olric. resmen tacizdir.
-    
+    kadının o an ki yüz ifadesini farketmeyen ve ardından sen baldır da seversin dediğini duymayanlar, tacizin ne olduğunu bilmeyenler için taciz olmayan durum. sen bunu bir de burda denesene nusret. asker arkadaşın mı? işini yapan bir kadının, fakirdir zaten, bacağına, ki bayağı yukarı değiyor el, dokunmanın taciz olmadığını söyleyenlere inanmıyorum olric. resmen tacizdir..<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
+   
   entry_writer: gehenna
 - entry_name: |
     gezi hareketi'nin unutulmaz karakterleri
@@ -127,23 +127,15 @@ data:
   entry_id: 60872686
   entry_content: |
     
-     <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/muharrem_acar/status/737607544336572417?s=08" title="https://twitter.com/muharrem_acar/status/737607544336572417?s=08">https://twitter.com/…status/737607544336572417?s=08</a><br/><br/>linkte göreceğiniz videodur. böyle bir <a class="b" href="/?q=positioning">positioning</a> görülmemiştir.
+     <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/muharrem_acar/status/737607544336572417?s=08" title="https://twitter.com/muharrem_acar/status/737607544336572417?s=08">https://twitter.com/…status/737607544336572417?s=08</a><br/><br/>linkte göreceğiniz videodur. böyle bir <a class="b" href="/?q=positioning">positioning</a> görülmemiştir.<br/><br/>debe edit<sup class="ab"><a title="(bkz: ilk defa debe'ye girdim)dim)" href="/?q=ilk+defa+debe%27ye+girdim" data-query="ilk defa debe'ye girdimrdim">*</a></sup><sup class="ab"><a title="(bkz: ismail ilk defa bir işe yaradı)" href="/?q=ismail+ilk+defa+bir+i%c5%9fe+yarad%c4%b1" data-query="ismail ilk defa bir işe yaradı">*</a></sup>: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>), (bkz: <a class="b" href="/?q=%c5%9fehit+k%c3%bct%c3%bcphaneleri">şehit kütüphaneleri</a>)
    
   entry_writer: matandberenice
-- entry_name: |
-    et yiyen virüs tehlikesi
-  entry_id: 60873670
-  entry_content: |
-    
-    allah'ın virüsünün bile bizden sağlıklı beslendiğini gösteren durum. bize yine tavuk döner.
-    
-  entry_writer: fcnankatsu
 - entry_name: |
     erdoğan'ın rusya'yı değil pilotumuzu suçlaması
   entry_id: 60876559
   entry_content: |
     
-    yahu adam rus pilot için diyor. ne uzattınız konuyu be....<br/><br/>adamlara cahil, beyinsiz diyip kendi ettiğiniz laflara bak,<br/><br/>mk zorla uzunu savunduruyorsunuz ya bana...
+    yahu adam rus pilot için diyor. ne uzattınız konuyu be....<br/><br/>adamlara cahil, beyinsiz diyip kendi ettiğiniz laflara bak,<br/><br/>mk zorla uzunu savunduruyorsunuz ya bana...<br/><br/>edit: yine saçma bir entry debe olmuş bari bi işe yarasın<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: ytse
 - entry_name: |
@@ -159,7 +151,7 @@ data:
   entry_id: 60874597
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yapmad%c4%b1%c4%9f%c4%b1n+%c5%9fey+mi+amk">yapmadığın şey mi amk</a>)
+    (bkz:  <a class="b" href="/?q=yapmad%c4%b1%c4%9f%c4%b1n+%c5%9fey+mi+amk">yapmadığın şey mi amk</a>)<br/><br/>edit:<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+k%c3%bct%c3%bcphaneleri">şehit kütüphaneleri</a>)
    
   entry_writer: admin
 - entry_name: |
@@ -183,7 +175,7 @@ data:
   entry_id: 60881825
   entry_content: |
     
-    üzüldüm mü??<br/><br/>hayır.<br/><br/>(bkz: <a class="b" href="/?q=itfaiyehortumvesukarde%c5%9fli%c4%9fi">itfaiyehortumvesukardeşliği</a>)
+    üzüldüm mü??<br/><br/>hayır.<br/><br/>(bkz: <a class="b" href="/?q=itfaiyehortumvesukarde%c5%9fli%c4%9fi">itfaiyehortumvesukardeşliği</a>)<br/><br/>edit: <a class="b" href="/?q=%c5%9fehit+k%c3%bct%c3%bcphaneleri">şehit kütüphaneleri</a>ne destek olalım.
    
   entry_writer: apartopar
 - entry_name: |
@@ -191,7 +183,7 @@ data:
   entry_id: 60888674
   entry_content: |
     
-    lan herkes final konuşmasını ne güzel hazırlamış döktürüyorlar resmen, ibrahim'in ağzından çıkan ilk söz;;<br/><br/>"dana.. dananın kuyruğunun koptuğu yerdeyiz."<br/><br/>olm sana kim oy atar şu danalığınla bilmiyorum :d
+    lan herkes final konuşmasını ne güzel hazırlamış döktürüyorlar resmen, ibrahim'in ağzından çıkan ilk söz;;<br/><br/>"dana.. dananın kuyruğunun koptuğu yerdeyiz."<br/><br/>olm sana kim oy atar şu danalığınla bilmiyorum :d<br/><br/>debe editi: oy atılacak, para harcanak daha önemli yerler mevcut. sizi şöyle alalım;<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)<br/><br/>edit-2: destek çıkmak bağlamında;<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+k%c3%bct%c3%bcphaneleri">şehit kütüphaneleri</a>)
    
   entry_writer: kutup sicaginda kapri giyen
 - entry_name: |
@@ -199,7 +191,7 @@ data:
   entry_id: 60877774
   entry_content: |
     
-    o değil de fitness salonuna 5 yıllık kayıt yaptırmak neymiş aq bu insanlar gelecek yılları nasıl bu kadar rahat öngörebiliyorlar anlamıyorum ben şahsen önümüzdeki 5 yılda cinayet işlemeyeceğimden bile emin değilim, bırak düzenli spor yapmayı.
+    o değil de fitness salonuna 5 yıllık kayıt yaptırmak neymiş aq bu insanlar gelecek yılları nasıl bu kadar rahat öngörebiliyorlar anlamıyorum ben şahsen önümüzdeki 5 yılda ölür müyüm, şehir mi değiştiririm, savaş mı çıkar, cinayet mi işlerim, ülkeden mi kaçarım hiçbirinden emin değilim, bırak düzenli spor yapmayı.
     
   entry_writer: lindemann
 - entry_name: |
@@ -207,7 +199,7 @@ data:
   entry_id: 60880409
   entry_content: |
     
-    yabancı sınırının esnemesi sayesinde düşünmeden gidebilmiştir..<br/><br/>eğer hala yabancı sınırı olsaydı, caner'e fb senelik 3 milyon teklif edecek, adam da inter'de alacağı paranın 2 katına ülkede kalmaya devam edecekti.<br/><br/>yabancı sınırı kalktığından beri futbolcuların ülkeden nasıl tıkır tıkır uzaklaştığını görüyor musunuz? bu durum 3-4 sene sonra gösterecek asıl etkisini. milli takımda çok daha "kültürlü" (farklı oyun tiplerinden kaynaklanan kültür) bir kadromuz olacak.<br/><br/>yolu açık olsun. telles geri döner bundan sonra. şimdi dursun düşünsün.
+    yabancı sınırının esnemesi sayesinde düşünmeden gidebilmiştir..<br/><br/>eğer hala yabancı sınırı olsaydı, caner'e fb senelik 3 milyon teklif edecek, adam da inter'de alacağı paranın 2 katına ülkede kalmaya devam edecekti.<br/><br/>yabancı sınırı kalktığından beri futbolcuların ülkeden nasıl tıkır tıkır uzaklaştığını görüyor musunuz? bu durum 3-4 sene sonra gösterecek asıl etkisini. milli takımda çok daha "kültürlü" (farklı oyun tiplerinden kaynaklanan kültür) bir kadromuz olacak.<br/><br/>yolu açık olsun. telles geri döner bundan sonra. şimdi dursun düşünsün.<br/><br/><a class="b" href="/?q=debe">debe</a> editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: muto
 - entry_name: |
@@ -215,7 +207,7 @@ data:
   entry_id: 60876468
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hamza+kuduro">hamza kuduro</a>)
+    (bkz:  <a class="b" href="/?q=hamza+kuduro">hamza kuduro</a>)<br/><br/>debesko editi:<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: octaine
 - entry_name: |
@@ -231,7 +223,7 @@ data:
   entry_id: 60879376
   entry_content: |
     
-    ben beşiktaşlı olsam, mario gomez hakkinda bizim medyada yer alan haberlere bakmazdım bile. bizim spor medyası için eşi bulunmaz bir fırsat mario gomez. bir yaz boyunca konusunu aç, dur. mario gelecek mi? mario xxx'e mi gidiyor? aziz yıldırım kurmaylarına talimat verdi: mario'yu alın!  <br/><br/>beşiktaş şu anda fenerden de bizden de on kat daha avantajlı durumda. takımın başında çok iyi bir teknik direktör ve çok iyi bir yönetim var. fikret orman var la her şey bir yana. mario gomez 1000 euroya transfer olma opsiyonunu kullanmadı mı? e kardeşim zaten sevr anlaşmasından beter o mukaveleyi fiorentina'ya imzalatan fikret orman yönetimi değil mi? gomez bu turnuva sonrasında beşiktaşın yolunu tutmak isterse fiko onu her türlü alır. ben buna kefilim. yok mario istemiyor mu türkiyeye dönmeyi? almeida gitse kimi alıcaz abi diyen beşiktaşlıları demba ba ile coşturup, sonra onu çine postalayıp mario gomezi inanılması güç bir sözleşmeyle beşiktaşa bağlayan kişiden bahsediyoruz. mutlaka gomezin de yerini doldururlar. hem de gomez'in satışından gelecek pay düşünülürse, beşiktaş yine karlı çıkabilir. <br/><br/>farz edelim beşiktaş mario'nun yerini doldurabilecek kalibrede bir oyuncu alamadı. yahu cenk var, daha da önemlisi burak yılmazı "kral" yapan şenol güneş var takımın başında. cenk ile yarışacak bir oyuncu alır beşiktaş, sene sonuna kadar şenol hoca cenk'i bu ligin gol krallığı listesine oturtur bir şekilde. telaşa mahal yok gerçekten. <br/><br/>şimdi "sen burada ne ötüyorsun" diyenler olabilir. ben galatasaray taraftarı olduğum kadar futbol taraftarıyım. beşiktaş kulübü, yönetiminden teknik kadrosuna, oyuncularına kadar bu sene ciddi bir katkıda bulundu türk futboluna. o emeğin bir karşılığı olmalı diye düşünüyorum. beşiktaş güzel bir yola girdi, bunu istikrarla birleştirebilirlerse tüm türk futbolu açısından bir model olacaklar. büyük başarılar için çok büyük harcamalar yapılması gerekmediğini ispatlamış olacaklar. işte bir futbol seyircisi olarak beni heyecanlandıran da bu.
+    ben beşiktaşlı olsam, mario gomez hakkinda bizim medyada yer alan haberlere bakmazdım bile. bizim spor medyası için eşi bulunmaz bir fırsat mario gomez. bir yaz boyunca konusunu aç, dur. mario gelecek mi? mario xxx'e mi gidiyor? aziz yıldırım kurmaylarına talimat verdi: mario'yu alın!  <br/><br/>beşiktaş şu anda fenerden de bizden de on kat daha avantajlı durumda. takımın başında çok iyi bir teknik direktör ve çok iyi bir yönetim var. fikret orman var la her şey bir yana. mario gomez 1000 euroya transfer olma opsiyonunu kullanmadı mı? e kardeşim zaten sevr anlaşmasından beter o mukaveleyi fiorentina'ya imzalatan fikret orman yönetimi değil mi? gomez bu turnuva sonrasında beşiktaşın yolunu tutmak isterse fiko onu her türlü alır. ben buna kefilim. yok mario istemiyor mu türkiyeye dönmeyi? almeida gitse kimi alıcaz abi diyen beşiktaşlıları demba ba ile coşturup, sonra onu çine postalayıp mario gomezi inanılması güç bir sözleşmeyle beşiktaşa bağlayan kişiden bahsediyoruz. mutlaka gomezin de yerini doldururlar. hem de gomez'in satışından gelecek pay düşünülürse, beşiktaş yine karlı çıkabilir. <br/><br/>farz edelim beşiktaş mario'nun yerini doldurabilecek kalibrede bir oyuncu alamadı. yahu cenk var, daha da önemlisi burak yılmazı "kral" yapan şenol güneş var takımın başında. cenk ile yarışacak bir oyuncu alır beşiktaş, sene sonuna kadar şenol hoca cenk'i bu ligin gol krallığı listesine oturtur bir şekilde. telaşa mahal yok gerçekten. <br/><br/>şimdi "sen burada ne ötüyorsun" diyenler olabilir. ben galatasaray taraftarı olduğum kadar futbol taraftarıyım. beşiktaş kulübü, yönetiminden teknik kadrosuna, oyuncularına kadar bu sene ciddi bir katkıda bulundu türk futboluna. o emeğin bir karşılığı olmalı diye düşünüyorum. beşiktaş güzel bir yola girdi, bunu istikrarla birleştirebilirlerse tüm türk futbolu açısından bir model olacaklar. büyük başarılar için çok büyük harcamalar yapılması gerekmediğini ispatlamış olacaklar. işte bir futbol seyircisi olarak beni heyecanlandıran da bu.<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: o felix
 - entry_name: |
@@ -247,7 +239,7 @@ data:
   entry_id: 60883920
   entry_content: |
     
-    selam arkadaşlar,,<br/><br/>10 yaşında yani henüz hayatının baharında olan beril için çok acil 0+ trombosit ihtiyacımız bulunuyor. kendisi uzun süredir bursa uludağ üniversitesinde lösemi tedavisi görmekte. etrafında olan onca insan elimizden geldiğince yardımcı olmaya çalışıyoruz. maalesef ülkemizde kan/trombosit/organ bağışı gibi hayati önem arz eden konulara olan duyarlılık oldukça az. ulaşabileceğimiz kanallar kısıtlı. ulaştık diyelim bağış için gönüllü bulmak çok zor. durum çok acil olduğu için başlık açmam gerekti, lütfen mazur görün. <br/><br/>şimdilik paylaşacaklarım bu kadar, detayları ilerleyen anlarda paylaşmaya devam edeceğim.<br/><br/>irtibat için bana özelden ulaşabilir veya 0 542 202 87 24 numaralı telefondan arayabilirsiniz.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/0DLbAV.jpg" title="http://i.hizliresim.com/0DLbAV.jpg">güzel günlerimizden bir kare(:</a><br/><br/>maalesef insan, bu tarz talihsiz durumlar kendi başına veya bir yakınının başına gelmeden algılayamıyor, durumun ciddiyetini ve yaşam dışında geri kalan tüm meşgalelerin önemsiz olduğunu fark edemiyor. çok sonra anlıyor belki ama sanırım çok geç kalınmış oluyor. kan veremeyecek olan ama en azından destek olmak adına arayan tanımadığım, daha önce ismini, cismini, varlığını bile bilmediğim tüm iyi insanlara sonsuz sevgi ve saygılarımı sunuyorum. o güzel dilekleriniz bile beril için, bizler için yeterli olacaktır. güzel insanların varlığını bilmek çok güzel. var olunuz.<br/><br/>edit: ekleme
+    teşekkür editi: selamlar, öncelikle dünden bugüne onlarca telefon ve mesaj aldığım için ve malum yoğunluk nedeniyle son durumu belirten bir bilgilendirme yapamadım. beril'in durumu an itibariyle çok güzel. uludağ üniversitesi hematoloji bölümünde yatıyor, gayet güzel bir odası var ve keyifler yerinde(: ekşi sözlük sayesinde benim sayabildiğim (sadece bursa ilinden) 73 kişi trombosit vermek için gönüllü oldu. hepsine ayrı ayrı sonsuz teşekkür ediyorum. ve bursa'da olamayıp çevre illerden başta istanbul, kocaeli, afyon, ankara ve izmir'den arayan tüm dostlara ayrı ayrı sonsuz teşekkür ediyorum. il dışından arayan ve acil durumda 7/24 gelebileceğini özellikle belirten insanlara da ayrıca teşekkür etmek istiyorum. ekşi sayesinde düşündüğümden çok daha hızlı gelişen kampanya sayesinde beklenen miktarın çok üzerinde bağışçı bulundu. şuan kemoterapi sürecine gireceğini biliyorum, bu süreç içinde bu bağışçılara oldukça fazla ihtiyacımız olacak. daha sonra yeniden ilik nakli için kontrolleri olacağını biliyorum. yine o günler geldiğinde iyi durumunu sizlerle paylaşmaktan mutluluk duyuyor olacağım..<br/><br/>ayrıca, kan grubu uymadığı için trombosit veremeyeceğini ama verecek insanların hastaneye sevkini araçlarla sağlayabileceğini belirten dostlara, maddi manevi her türlü destek olmak adına ayrıca arayıp soran, mesaj atan herkese ama herkese sonsuz teşekkür ediyorum. iyi ki varsınız. sizin gibi insanların varlığını bilmek, seslerini duymak, orada bir yerlerde olduklarını bilmek gelecek adına ümit veriyor.<br/><br/>sonsuz saygı ve sevgiyle,<br/><br/>selam arkadaşlar,<br/><br/>10 yaşında yani henüz hayatının baharında olan beril için çok acil 0+ trombosit ihtiyacımız bulunuyor. kendisi uzun süredir bursa uludağ üniversitesinde lösemi tedavisi görmekte. etrafında olan onca insan elimizden geldiğince yardımcı olmaya çalışıyoruz. maalesef ülkemizde kan/trombosit/organ bağışı gibi hayati önem arz eden konulara olan duyarlılık oldukça az. ulaşabileceğimiz kanallar kısıtlı. ulaştık diyelim bağış için gönüllü bulmak çok zor. durum çok acil olduğu için başlık açmam gerekti, lütfen mazur görün. <br/><br/>şimdilik paylaşacaklarım bu kadar, detayları ilerleyen anlarda paylaşmaya devam edeceğim.<br/><br/>maalesef insan, bu tarz talihsiz durumlar kendi başına veya bir yakınının başına gelmeden algılayamıyor, durumun ciddiyetini ve yaşam dışında geri kalan tüm meşgalelerin önemsiz olduğunu fark edemiyor. çok sonra anlıyor belki ama sanırım çok geç kalınmış oluyor. kan veremeyecek olan ama en azından destek olmak adına arayan tanımadığım, daha önce ismini, cismini, varlığını bile bilmediğim tüm iyi insanlara sonsuz sevgi ve saygılarımı sunuyorum. o güzel dilekleriniz bile beril için, bizler için yeterli olacaktır. güzel insanların varlığını bilmek çok güzel. var olunuz.<br/><br/>(bkz: <a class="b" href="/?q=minik+ilaydaya+yardim+kampanyasi">minik ilaydaya yardim kampanyasi</a>)
    
   entry_writer: iyi aile gocugu
 - entry_name: |
@@ -255,7 +247,7 @@ data:
   entry_id: 60881710
   entry_content: |
     
-    erkeğin dış görünüşe önem veren yüzeysel bir yaratık olmasındandır. kız ne kadar çirkin olursa olsun erkek bunu yaparak kızın gururunu kırarsa öküzdür, ayıdır, ataerkil düzenin tuğlasıdır. halbuki kızlar tamamen iç güzelliğe bakıp reddeder. erkek kesin bir hata yapmıştır ondan yani.  <br/><br/>bu feminizm iyiymiş lan kafası şimdi geldi bak.
+    erkeğin dış görünüşe önem veren yüzeysel bir yaratık olmasındandır. kız ne kadar çirkin olursa olsun erkek bunu yaparak kızın gururunu kırarsa öküzdür, ayıdır, ataerkil düzenin tuğlasıdır. halbuki kızlar tamamen iç güzelliğe bakıp reddeder. erkek kesin bir hata yapmıştır ondan yani.  <br/><br/>bu feminizm iyiymiş lan kafası şimdi geldi bak.<br/><br/>edit: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: cevirimanyagi
 - entry_name: |
@@ -263,7 +255,7 @@ data:
   entry_id: 60887194
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sevgililililili">sevgililililili</a>)
+    (bkz:  <a class="b" href="/?q=sevgililililili">sevgililililili</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)<br/>lütfen unutmayalım arkadaşlar.
    
   entry_writer: idily
 - entry_name: |
@@ -271,8 +263,8 @@ data:
   entry_id: 60874204
   entry_content: |
     
-    parasi yoktur.konu kilit.
-    
+    parasi yoktur.konu kilit..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
+   
   entry_writer: katowiceli
 - entry_name: |
     atalay filiz
@@ -303,7 +295,7 @@ data:
   entry_id: 60888670
   entry_content: |
     
-    magnum'u filan siktir edin asıl efsane nesil bu herhalde. öyle de bir reklamları vardı ki türkiye'de sadece erdal acar filan alıp yiyor herhalde bunu diyodum çocukluğumda. hala fiyatını bilmiyorum.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://sortandpaper.com/blog/wp-content/uploads/2012/08/detail_vienetta_vanilla2.png" title="http://sortandpaper.com/blog/wp-content/uploads/2012/08/detail_vienetta_vanilla2.png">http://sortandpaper.com/…tail_vienetta_vanilla2.png</a>
+    magnum'u filan siktir edin asıl efsane nesil bu herhalde. öyle de bir reklamları vardı ki türkiye'de sadece erdal acar filan alıp yiyor herhalde bunu diyodum çocukluğumda. hala fiyatını bilmiyorum.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://sortandpaper.com/blog/wp-content/uploads/2012/08/detail_vienetta_vanilla2.png" title="http://sortandpaper.com/blog/wp-content/uploads/2012/08/detail_vienetta_vanilla2.png">http://sortandpaper.com/…tail_vienetta_vanilla2.png</a><br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: achtundsiebzug
 - entry_name: |
@@ -327,7 +319,7 @@ data:
   entry_id: 60878216
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dostum+cin+demi%c5%9fsin+ama+bu+modern+dans">dostum cin demişsin ama bu modern dans</a>)
+    (bkz:  <a class="b" href="/?q=dostum+cin+demi%c5%9fsin+ama+bu+modern+dans">dostum cin demişsin ama bu modern dans</a>)<br/><br/>edit:<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
    
   entry_writer: hohenheim of light
 - entry_name: |
@@ -359,8 +351,8 @@ data:
   entry_id: 60885330
   entry_content: |
     
-    salı gününe rastladığı için olmayacak durum. hafta içi seçim mi olur allasen?
-    
+    salı gününe rastladığı için olmayacak durum. hafta içi seçim mi olur allasen??<br/><br/>(bkz: <a class="b" href="/?q=minik+ilayda%27ya+yard%c4%b1m+kampanyas%c4%b1">minik ilayda'ya yardım kampanyası</a>)
+   
   entry_writer: johnmalkow
 - entry_name: |
     benzin ışığı yandıktan sonra araba kullanmak
@@ -391,7 +383,7 @@ data:
   entry_id: 60875379
   entry_content: |
     
-    bakın açık söylüyorum..<br/>doktoram bitti.<br/>ikinci master bitmek üzere.<br/>işime de tapıyorum.<br/>ama hiçbiri beni "kod yazan kadın" olmak kadar havalı yapmıyor.<br/>yeni başladım, keyifle devam ediyorum.<br/>resmen "girl talk"tan sıyrılıp "man talk" olayına giriyorsunuz.<br/>masaya onlarla birlikte oturuyorsunuz.<br/>"man the maker"a kafa tutuyorsunuz.<br/>"solu birleştirecek kodu buldum:<br/><div style="text-align:left;">""&gt;"<br/>gibi salak geyikler bile yapabiliyorsunuz.<br/>buradan tüm hemcinslerime sesleniyorum:<br/>yo kızlar bunu hak etmiyoruz!<br/>yo kızlar bunu kabul etmeyelim.<br/>yıllarca "teknolojiyi getiren erkek" miti ile uyutulduk. persil yeşil adam ve mr. muscle bile bu fikri ekti beyinlerimize.<br/>inanın kolay!<br/>inanın salak diziler izlemek, popüler edebiyat okumak yerine buna zaman ayırsanız dünyayı değiştiririz.<br/><a class="b" href="/?q=avm+tipi+aile">avm tipi aile</a> kadını olmayın nolur!<br/>tüketen değil, üreten biz olmalıyız.<br/>hepimize güveniyorum.
+    bakın açık söylüyorum..<br/>doktoram bitti.<br/>ikinci master bitmek üzere.<br/>işime de tapıyorum.<br/>ama hiçbiri beni "kod yazan kadın" olmak kadar havalı yapmıyor.<br/>yeni başladım, keyifle devam ediyorum.<br/>resmen "girl talk"tan sıyrılıp "man talk" olayına giriyorsunuz.<br/>masaya onlarla birlikte oturuyorsunuz.<br/>"man the maker"a kafa tutuyorsunuz.<br/>"solu birleştirecek kodu buldum:<br/><div style="text-align:left;">""&gt;"<br/>gibi salak geyikler bile yapabiliyorsunuz.<br/>buradan tüm hemcinslerime sesleniyorum:<br/>yo kızlar bunu hak etmiyoruz!<br/>yo kızlar bunu kabul etmeyelim.<br/>yıllarca "teknolojiyi getiren erkek" miti ile uyutulduk. persil yeşil adam ve mr. muscle bile bu fikri ekti beyinlerimize.<br/>inanın kolay!<br/>inanın salak diziler izlemek, popüler edebiyat okumak yerine buna zaman ayırsanız dünyayı değiştiririz.<br/><a class="b" href="/?q=avm+tipi+aile">avm tipi aile</a> kadını olmayın nolur!<br/>tüketen değil, üreten biz olmalıyız.<br/>hepimize güveniyorum.<br/><br/>edit: hepiniz çok tatlısınız! ayrı ayrı mesaj atacağım akşama.
    
   entry_writer: somethingstupid
 - entry_name: |
