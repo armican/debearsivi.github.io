@@ -47,7 +47,7 @@ data:
   entry_id: 61072284
   entry_content: |
     
-    kız mis gibi eğleniyor işte. çok temiz bir nah hareketi. athena'nın skalonga şarkısını söylerken bu hareketi yapmayanı dövüyorlar mesela..<br/><br/>mutlu insanları kıskanmayın aq.
+    kız mis gibi eğleniyor işte. çok temiz bir nah hareketi. athena'nın skalonga şarkısını söylerken bu hareketi yapmayanı dövüyorlar mesela..<br/><br/>mutlu insanları kıskanmayın aq.<br/><br/>debe editi: tarkan'ın "arar buluruz izini" şarkısı resmi milli takım şarkısı olsun. bu kadar da düz adamım işte.
    
   entry_writer: annl
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 61084207
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=t%c3%bcrkler+siksin+seniieeee%c3%b6%c3%b6%c3%b6%c3%b6%c4%9f%c4%9f%c4%9f%c4%9f">türkler siksin seniieeeeööööğğğğ</a>)
+    (bkz:  <a class="b" href="/?q=t%c3%bcrkler+siksin+seniieeee%c3%b6%c3%b6%c3%b6%c3%b6%c4%9f%c4%9f%c4%9f%c4%9f">türkler siksin seniieeeeööööğğğğ</a>)<br/><br/>debedit: bir yazar kişisi milli maç coşkusunu yaşayan kişiler üzerinden mevzu bahis lafı alaya almıştı. kapağını alınca gitti tabii.
    
   entry_writer: sozluk pianisti
 - entry_name: |
@@ -103,11 +103,11 @@ data:
   entry_id: 61083859
   entry_content: |
     
-    96 ingiltere'den beri tüm turnuvaları yakinen takip ediyorum. hiç bu kadar yabancı kaldığım bir şampiyona daha izlemedim. önceden fransa, italya kadrolarını ezbere bilirdim. abi şimdi bakıyorum, neredeyse hiçbirini duymamışım. sokakta görsen saat satıcısı zannedersin. tanıdıklarım ise hep kofti adamlar. bir tanesini türkiye'ye getirmezsin.  <br/><br/>5 yaşında paçalı donla gezerken bile star ışığını hissediyordum eskilerin. veriyorlardı o duyguyu. ve gerçekten de öylelerdi. her milli takımda en az 5 tane world class adam olurdu. yüksek ruhlu lider karakterler. acaba ben de mi gariplik var bilmiyorum. siz tanıyor musunuz bugünkü top tepicileri? kim bu rapçiler amına koyim?<br/><br/>tanım: inşallah kazanırız dediğim maç.
+    96 ingiltere'den beri tüm turnuvaları yakinen takip ediyorum. hiç bu kadar yabancı kaldığım bir şampiyona daha izlemedim. önceden fransa, italya kadrolarını ezbere bilirdim. abi şimdi bakıyorum, neredeyse hiçbirini duymamışım. sokakta görsen saat satıcısı zannedersin. tanıdıklarım ise hep kofti adamlar. bir tanesini türkiye'ye getirmezsin.  <br/><br/>5 yaşında paçalı donla gezerken bile star ışığını hissediyordum eskilerin. veriyorlardı o duyguyu. ve gerçekten de öylelerdi. her milli takımda en az 5 tane world class adam olurdu. yüksek ruhlu lider karakterler. acaba ben de mi gariplik var bilmiyorum. siz tanıyor musunuz bugünkü top tepicileri? kim bu rapçiler amına koyim?<br/><br/>debit: spikerin ersin düzen olmasıyla birlikte tüm keyfimizin içine edilen maç. bari buradan darbe yemeseydik. <a rel="nofollow" class="url" target="_blank" href="http://static.karar.com/img/article_detail/15-12/19/omerurundul-yalcincetin.jpg" title="http://static.karar.com/img/article_detail/15-12/19/omerurundul-yalcincetin.jpg">özlüyoruz.</a>
    
   entry_writer: seylann
 - entry_name: |
-    başbakana ülkeyi s....niz demek
+    başbakana ülkeyi siktiniz demek
   entry_id: 61076947
   entry_content: |
     
@@ -131,19 +131,11 @@ data:
     
   entry_writer: yari tanri yari ketcap
 - entry_name: |
-    11 haziran 2016 milli eğitim'deki skandalın ifşası
-  entry_id: 61075066
-  entry_content: |
-    
-    asıl başlık 11 haziran 2016 milli eğitim bakanlığında yaşanan skandalın ifşası olacaktı lakin karakter sınırına takıldı. karakter düzenlemesine ne çok başka yerde ihtiyaç var halbuki.  <br/><br/>artık susamıyorum ve konuşmak istiyorum. elbette bu <a class="b" href="/?q=korkun%c3%a7">korkunç</a> skandal bugün yaşanmadı. bugün ifşa edilecek yalnızca. memlekette her gün o kadar garip olay oluyor ki bu mu skandal diyenler dahi çıkacaktır muhtemelen. ama aylardır bunu bizzat yaşayanların olduğunu görünce, uzun zamandır sadece okuma yaptığım sözlük beni anlar dedim, başladım yazmaya.<br/><br/>olay bize dair ama yaşanan yer almanya. almanya’nın <a class="b" href="/?q=karlsruhe">karlsruhe</a> şehrine usulsüz bir şekilde atanmış bir eğitim ataşesi. <a class="b" href="/?q=g%c3%bcrkan+avc%c4%b1">gürkan avcı</a> biraz araştırdığınız zaman hakkında çıkan ilk haberlerden birinin; <a class="b" href="/?q=rocco">rocco</a> şekerin adına takmış olmasından da birçok şey anlaşılacaktır.<br/><br/>bu adam aylar önce <a class="b" href="/?q=t%c3%bcrkiye+cumhuriyeti">türkiye cumhuriyeti</a>nin karlsruhe başkonsolosluğu’na <a class="b" href="/?q=e%c4%9fitim+ata%c5%9fesi">eğitim ataşesi</a> olarak geliyor. ne ingilizce, ne almanca bilgisi hak getire zaten ama milli eğitimde herhangi bir idari yöneticilik geçmişi de yok. resmen tepeden inme. mahkemeye verilse anında yerinden yurdundan da olacak ama mahkeme, adalet, sendikalar ne durumda ve ne kadar haberdar o da ayrı mevzu zaten. eski bir sendika başkanı olan bu kişi, zamanında muhalifken şimdi tam bir “dönem adamı” . <br/><br/>uyduruktan bir kampanyayla sürekli bir şey yapıyormuş gibi göstermede üstüne yok. ama birkaç gazeteci ayarlamış sürekli haber yaptırıyor. pek değerli ankara da tutup bu adama daha buradayken bir de daire başkanlığı kadrosu veriyor. <br/><br/>eski milli eğitim bakanı <a class="b" href="/?q=nabi+avc%c4%b1">nabi avcı</a>’nın adamlarından biri sayesinde yükseldikçe yükseliyor. dinle diyanetle ilgisi olmayan adam şimdi pek bir “dindar” atılımlar yapıyor. hiç yabancı değil di mi.<br/><br/>ancak bunların hiçbirinin gözümde değeri olmazdı. şimdi yazacaklarım bunların hepsinden korkunç bence. ne avukatım, ne ankara’da dayım var. ama bir kadın olarak bunu da yapmazsam vicdanım hiç rahat etmeyecek çünkü. bu adam mevkisini kullanarak <a class="b" href="/?q=milli+e%c4%9fitim+bakanl%c4%b1%c4%9f%c4%b1">milli eğitim bakanlığı</a> tarafından görevlendirilip almanya’da karlsruhe eğitim ataşesinin ağına düşen kadınlara, özellikle bekarlara elbette sözlü tacizler yapıyor. şu namussuz bekarlara yani. bir eğitim ataşesi düşünün ki her bekar kadın öğretmeni tek tek odasına çağırıp özel hayatını soruyor. ilk başlarda “ay ne kadar ilgili bir ataşe” diye hissettirirken yavaş yavaş başlıyor atışlara. görevlendirildiği yerden “huzur”a çıkmak için saatlerce yol gelen öğretmenler niye çağırıldıklarını bile bilmeden karşılarındaki adamın kaş göz oynatmasını izliyorlar. türlü bahanelerle evine çağırıyor veya kendisini davet ettirmek istiyor. ama işte kimse de sesini çıkartamıyor. birkaç tane çıkartmaya çalışan olsa da ”iftiracı” oluyor. böyle basın gücünü de arkasına almış, muhteşem bir ataşeye kim ne söyleyebilir. <br/><br/>ilerde siyasette olmayı istediği çok belli olan bu zat, bu görevini bile basamak olarak kullanmaktan hiç geri kalmıyor. kadınlara ancak böyle yaklaşabileceğini bildiğinden mevkisini de sonuna kadar kullanıyor. usulsüz atamayla gelmiş bu mevkisini. ne yazık ki bu sözlü ve küçük temaslı “şakalarla” dolu tacizlerin ispatı yok ama usulsüz gelmiş olduğunun ispatı gayet mümkün. her konuda olduğu gibi bu konuda da milli eğitim kör, sağır, dilsiz. küçücük çocuklara bilfiil yapılan tacize göz yuman adamlardan ne beklenir zaten. ama bu kadınların çoğu hayatlarında ilk kez başka bir ülkede tek başlarına ayakta durmaya çalışıyorlar. ne aileleri ne arkadaşları var. çünkü çoğu 10-15 bin nüfuslu kasabalarda tek başlarına görev yapıyorlar ve resmi olarak amirleri olan ve tek yaslanabilecekleri adamdan da sürekli bir “canayakınlık” hissetmekten bunalmış durumdalar. ha yazmadım ama elbette ki evli. almanyanın havasına alışmayacağı düşünülerek türkiye’de bıraktığı bir eşi var elbette. <br/><br/>eğer bu namussuzlara bir el atılacaksa o konuda da son umudum burası. ne yapılır ne edilir kime gidilir kime güvenilir. dayın olmadan da haksızlıklara ses çıkarabileceğin nadir bir alan ekşi çünkü. ve umuyorum ki sesime ses gelir.
-   
-  entry_writer: retinam sari baglar
-- entry_name: |
     eminönü'ndeki baklava izdihamı
   entry_id: 61074466
   entry_content: |
     
-    birkaç gün önce, sokağa atılmış ve belli ki uzun zamandır ağzına lokma girmemiş bir kediye sahip çıktım. evde hazır mamayla bakıldığı için çöpten sokaktan beslenmeyi de bilmiyor.  <br/>açlıktan gözleri yuvalarından fırlamış, kemikleri bariz görünür hale gelmiş, hayvanın yanında mama paketinden kaba mamayı boşalttım, kıpırdamadan izledi, mamaya yanaşmadı, kabı önüne yanaştırdım biraz kafasını okşadım, usulca yemeğe başladı, o kadar açtı ki mama kabını iki kere daha doldurmak durumunda kaldım. hayvancağız (!) o açlığına rağmen mamaya hiç saldırmadı. <br/><br/>kendini insan zanneden bu güruhun bir dilim baklava için bu kadar iğrençleşmesini nereye koyacağız? açgözlülük mü? yabanilik mi? bedavacılık mı? hangisi açıklar? bana kalırsa hiç biri, bunlar insan olamaz, bırakın insan olmayı hayvan dahi olamazlar. bizim, insanoğlunun bilmediği başka bir tür bu.
+    birkaç gün önce, sokağa atılmış ve belli ki uzun zamandır ağzına lokma girmemiş bir kediye sahip çıktım. evde hazır mamayla bakıldığı için çöpten sokaktan beslenmeyi de bilmiyor.  <br/>açlıktan gözleri yuvalarından fırlamış, kemikleri bariz görünür hale gelmiş, hayvanın yanında mama paketinden kaba mamayı boşalttım, kıpırdamadan izledi, mamaya yanaşmadı, kabı önüne yanaştırdım biraz kafasını okşadım, usulca yemeğe başladı, o kadar açtı ki mama kabını iki kere daha doldurmak durumunda kaldım. hayvancağız o açlığına rağmen mamaya hiç saldırmadı. <br/><br/>kendini insan zanneden bu güruhun bir dilim baklava için bu kadar iğrençleşmesini nereye koyacağız? açgözlülük mü? yabanilik mi? bedavacılık mı? hangisi açıklar? bana kalırsa hiç biri, bunlar insan olamaz, bizim, insanoğlunun bilmediği başka bir tür bu.
    
   entry_writer: mecburenyasamak
 - entry_name: |
@@ -151,7 +143,7 @@ data:
   entry_id: 61071421
   entry_content: |
     
-     <a class="b" href="/?q=edward+norton">edward norton</a> dayımın düğününde oynasa ilgiyle izleyeceğim için oturup üzerine düşünmediğimdir.
+     <a class="b" href="/?q=edward+norton">edward norton</a> dayımın düğününde oynasa ilgiyle izleyeceğim için oturup üzerine düşünmediğimdir.<br/><br/>debe editi: ilk debem bu. thanks guys.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
    
   entry_writer: l enfer c est les autres
 - entry_name: |
@@ -159,7 +151,7 @@ data:
   entry_id: 61076406
   entry_content: |
     
-    sanırım kullanılacak  <a class="b" href="/?q=hal%c3%bcsinojen">halüsinojen</a>lerin fiyatı dahil bu rakama.
+    sanırım kullanılacak  <a class="b" href="/?q=hal%c3%bcsinojen">halüsinojen</a>lerin fiyatı dahil bu rakama.<br/><br/>debe düzeltmesi: son derece önemli bir konuda, derin öngörülerle hazırladığım, bilimsel düzeyi yüksek ve çığır açıcı böylesi bir tahlilin debeye girmesi, sözlüğün seviyesi düşüyor diyenlere en güzel yanıt olacaktır. teşekkürler obama.<br/>(bkz: <a class="b" href="/?q=365+lisenin+gericili%c4%9fe+kar%c5%9f%c4%b1+bildiri+yay%c4%b1nlamas%c4%b1">365 lisenin gericiliğe karşı bildiri yayınlaması</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9frenci+ve+velilerin+imam+hatip+direni%c5%9fi">öğrenci ve velilerin imam hatip direnişi</a>)<br/>(bkz: <a class="b" href="/?q=gericili%c4%9fe+kar%c5%9f%c4%b1+ayd%c4%b1nlanma+hareketi">gericiliğe karşı aydınlanma hareketi</a>)<br/><br/>(bkz: <a class="b" href="/?q=k%c3%bclt%c3%bcr+miras%c4%b1n%c4%b1+para+ile+satan+%c3%bclke">kültür mirasını para ile satan ülke</a>) ve konuyla ilgili imza kampanyası: <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/türkiye-cumhuriyeti-kültür-ve-turizm-bakanlığı-www-yazmalar-gov-tr-dijital-kütüphanesinin-ücretsiz-olmasını-talep-ediyorum-b99a8ed8-e292-4d70-8056-969943b60e3e?" title="https://www.change.org/p/türkiye-cumhuriyeti-kültür-ve-turizm-bakanlığı-www-yazmalar-gov-tr-dijital-kütüphanesinin-ücretsiz-olmasını-talep-ediyorum-b99a8ed8-e292-4d70-8056-969943b60e3e?">https://www.change.org/…292-4d70-8056-969943b60e3e?</a>
    
   entry_writer: wip
 - entry_name: |
@@ -243,14 +235,6 @@ data:
     
   entry_writer: korun parmagina batan goz
 - entry_name: |
-    kurabiye kemal
-  entry_id: 61073986
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=abbe+de%c4%9feri">abbe değeri</a>)<br/><br/>abbe sayısı (değişmezi veya değeri) ışığın ayrışma (dispersiyon), diğer bir deyişle, kromatik aberasyon özelliğini gösterir. abbe sayısının düşük olması ayrışmanın fazla olduğunu gösterir. kırıcılık katsayısı arttıkça abbe sayısı düşer.
-   
-  entry_writer: zagor magor
-- entry_name: |
     trt'nin euro 2016'ya 93 kişi götürmesi
   entry_id: 61082040
   entry_content: |
@@ -279,7 +263,7 @@ data:
   entry_id: 61076734
   entry_content: |
     
-    isviçre'de shaqiri,behrami, mehmedi ve dzemaili nin sahada olduğu maç..<br/><br/>bu dörtlüyle güzel bi okey masası kurulabilirmiş. şakir, mehmet ,behram ve cemal. tabi ki şakir'e çay yok<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: nasıl kambersiz düğün olmazsa yancısız bir okey masası da düşünülemez. masada yancı olarak zekeriya kardeşimizi düşünebiliriz, kendisi maçı yedek kulübesinden takip ediyor<sup class="ab"><a title="(bkz: lemi zakaria)" href="/?q=lemi+zakaria" data-query="lemi zakaria">*</a></sup>
+    isviçre'de shaqiri,behrami, mehmedi ve dzemaili nin sahada olduğu maç..<br/><br/>bu dörtlüyle güzel bi okey masası kurulabilirmiş. şakir, mehmet ,behram ve cemal. tabi ki şakir'e çay yok<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: nasıl kambersiz düğün olmazsa yancısız bir okey masası da düşünülemez. masada yancı olarak zekeriya kardeşimizi düşünebiliriz, kendisi maçı yedek kulübesinden takip ediyor<sup class="ab"><a title="(bkz: lemi zakaria)" href="/?q=lemi+zakaria" data-query="lemi zakaria">*</a></sup><br/><br/>debe editi: bu kadar beğenileceğini tahmin etmemiştim<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
    
   entry_writer: agacdenizi
 - entry_name: |
