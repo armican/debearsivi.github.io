@@ -343,7 +343,7 @@ data:
   entry_id: 61102468
   entry_content: |
     
-    volkan demirell<br/>gökhan gönül<br/>yalçın ayhan<br/>ömer toprak<br/>hasan ali kaldırım<br/>mehmet topal<br/>oğuzhan özyakup<br/>alper potuk<br/>hakan çalhanoğlu<br/>gökhan töre<br/>cenk tosun<br/><br/>beşiktaşlıların esas isyanı damadının menejerliğini yaptığı ozan tufan'a yer açmak için topal'ı stopere çekmesidir fatih terim'in. ya da koca sezon uydurma penaltıları atmak dışında ortalarda gözükmeyen selçuk inan'ın ısrarla 11'de olmasıdır. ya da danimarka'da 10 tane maça çıkmış emre mor büyük yetenek diye 75'te kurtarıcı olarak oyuna girerken töre'nin hatta alper'in ve hatta kerim'in kadroda dahi olmamasıdır.<br/>yoksa kimse necip neden yok, tolga nerede diye fatih terim'i suçlamıyor. heee iddia ediyorum bi beşiktaşlı olarak her gün itin bi tarafına soktuğum necip şu ozan'dan 2 kat faydalı olur takıma.
+    volkan demirell<br/>gökhan gönül<br/>yalçın ayhan<br/>ömer toprak<br/>hasan ali kaldırım<br/>mehmet topal<br/>oğuzhan özyakup<br/>alper potuk<br/>hakan çalhanoğlu<br/>gökhan töre<br/>cenk tosun<br/><br/>beşiktaşlıların esas isyanı damadının menejerliğini yaptığı ozan tufan'a yer açmak için topal'ı stopere çekmesidir fatih terim'in. ya da koca sezon uydurma penaltıları atmak dışında ortalarda gözükmeyen selçuk inan'ın ısrarla 11'de olmasıdır. ya da danimarka'da 10 tane maça çıkmış emre mor büyük yetenek diye 75'te kurtarıcı olarak oyuna girerken töre'nin hatta alper'in ve hatta kerim'in kadroda dahi olmamasıdır.<br/>yoksa kimse necip neden yok, tolga nerede diye fatih terim'i suçlamıyor. heee iddia ediyorum bi beşiktaşlı olarak her gün itin bi tarafına soktuğum necip şu ozan'dan 2 kat faydalı olur takıma.<br/><br/>debe: yahu arkadaşlar töre'nin cezalı olduğunu ebem bile biliyor. ben hırvatistan maçına neden töre ile çıkmadık demedim ki. şu an milli takım 11'i bu olmalı bence. cezalı, sakat vs. varsa yerine geçici olarak başkasını koyarsın. töre'yi 2 maç cezalı diye kadroya almamak daha en başından "biz bu gruptan zaten çıkamayız" anlamına gelir. yoksa 2008'deki gibi yarı finale gideceğini düşünsen kalan 4 maç için töre'yi kadroya almalısın. mesele töre, ahmet, mehmet değil.. fatih terim denen zat her daim bu kadronun yarısını haketmeyen adamlardan seçti. <br/>yahu en basitinden dünkü maçta arda götünü kaldıramazken oğuzhan'ı 45'te oyundan aldı. oğuzhan dediğimiz adam bu sezon taraflı tarafsız herkesin beğendiği, lige damgasını vurmuş, 40 tane maça çıkmış bi oyuncu. hayır sanki takım çatır çatır oynuyordu da oğuzhan bozuyordu. sistem bok yahu. daha doğrusu boktan bile olsa bi sistem yok. değil oğuzhan messi falan gelse nafile.<br/>neyse nasıl olsa ben ne desem de fatih terim'i ölümüne savunacak yancıları çok. sonuçta imparator.
    
   entry_writer: shotcrete
 - entry_name: |
@@ -370,14 +370,6 @@ data:
     (bkz:  <a class="b" href="/?q=1-0+olsun+sizin+olsun">1-0 olsun sizin olsun</a>)
    
   entry_writer: fakirpislik06
-- entry_name: |
-    şenol güneş
-  entry_id: 61099084
-  entry_content: |
-    
-    hataları olsa dahi en iyi türk hoca olduğu bugünkü maçta bir kere daha ispatlanmış hocadır..<br/><br/>oynattığı takım durmaz, atak yapar. abuk subuk ortada top dolaştıran bir takımla uykunuz gelmez.
-   
-  entry_writer: eksiyeinat
 - entry_name: |
     volkan babacan
   entry_id: 61096999
