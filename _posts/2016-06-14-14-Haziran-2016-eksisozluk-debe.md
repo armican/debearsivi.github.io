@@ -15,15 +15,15 @@ data:
   entry_id: 61114171
   entry_content: |
     
-    menderes'i astıklarında türkiye'de cam bardak kırılmadı. bu ödleklerden bir cacık olmaz. içiniz rahat olsun.
-    
+    menderes'i astıklarında türkiye'de cam bardak kırılmadı. bu ödleklerden bir cacık olmaz. içiniz rahat olsun..<br/><br/>hedik: (bkz: <a class="b" href="/entry/60468430">#60468430</a>)
+   
   entry_writer: demorgane
 - entry_name: |
     burak yılmaz'ın hamile eşini dövmesi
   entry_id: 61111863
   entry_content: |
     
-    eşi karşılık verdiyse kesin kendini yere atmıştır bu..<br/><br/>özel hayatı böyle birinin futbol kariyeri uzun sürmez.<br/><br/>(bkz: <a class="b" href="/?q=burak+y%c4%b1lmaz%27%c4%b1n+aliexpress%27de+sat%c4%b1%c5%9fa+%c3%a7%c4%b1kmas%c4%b1">burak yılmaz'ın aliexpress'de satışa çıkması</a>)
+    eşi karşılık verdiyse kesin kendini yere atmıştır bu..<br/><br/>özel hayatı böyle birinin futbol kariyeri uzun sürmez.<br/><br/>(bkz: <a class="b" href="/?q=burak+y%c4%b1lmaz%27%c4%b1n+aliexpress%27de+sat%c4%b1%c5%9fa+%c3%a7%c4%b1kmas%c4%b1">burak yılmaz'ın aliexpress'de satışa çıkması</a>)<br/><br/>debit: arkadaşlar konuşmamız gereken önemli <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/61132682" title="https://eksisozluk.com/entry/61132682">bir konu var.</a>
    
   entry_writer: seylann
 - entry_name: |
@@ -47,7 +47,7 @@ data:
   entry_id: 61118577
   entry_content: |
     
-    ahlak bekçileri gelmeden önce yazayım..<br/>önce direkt savcılığa yanında güvendiğin bir avukat (mümkünse feminist bir kadın) ile git. <br/>siteye mesaj at ve dava açacağını söyle. ve davanı da aç ciddi ciddi.<br/>pezevenklere yer sağlamanın bedelini ödesin ibneler.<br/>ondan sonra o bilgim yok diyen ibneye de ayrı bir dava aç.<br/>çok genişlemeden sadece savcılık ve bir avukat ile yaptıkları şantajları bir taraflarına sokarsın onların.<br/><br/>korkma. ciddiyim korkma. <br/>burada gelip sana ahlak dersi verecek ibneler geceleri o sitelerde ezik ezik gezen piçler. kim kime ahlak dersi verecekmiş herkes kendine baksın.<br/>dediğim gibi çok duyurmadan ve korkmadan savcıya git.
+    ahlak bekçileri gelmeden önce yazayım..<br/>önce direkt savcılığa yanında güvendiğin bir avukat (mümkünse feminist bir kadın) ile git. <br/>siteye mesaj at ve dava açacağını söyle. ve davanı da aç ciddi ciddi.<br/>pezevenklere yer sağlamanın bedelini ödesin ibneler.<br/>ondan sonra o bilgim yok diyen ibneye de ayrı bir dava aç.<br/>çok genişlemeden sadece savcılık ve bir avukat ile yaptıkları şantajları bir taraflarına sokarsın onların.<br/><br/>korkma. ciddiyim korkma. <br/>burada gelip sana ahlak dersi verecek ibneler geceleri o sitelerde ezik ezik gezen piçler. kim kime ahlak dersi verecekmiş herkes kendine baksın.<br/>dediğim gibi çok duyurmadan ve korkmadan savcıya git.<br/><br/>edit: ülkemizde görme engelli insanlarımız için rehber köpek uygulaması için lütfen <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/60468430" title="https://eksisozluk.com/entry/60468430">destek olalım.</a>
    
   entry_writer: daga kacan inek
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 61119429
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=michael+scofield">michael scofield</a>)
+    (bkz:  <a class="b" href="/?q=michael+scofield">michael scofield</a>)<br/><br/>debe editi: insanları sevin, sevindirin. mutluluk pıtırcığı olalım.
    
   entry_writer: hassektir
 - entry_name: |
@@ -223,7 +223,7 @@ data:
   entry_id: 61116542
   entry_content: |
     
-    sen geç bekliyorum..<br/><br/>kafanı çıkarma ben geçiyorum.<br/><br/>yeşil yandı yürü.<br/><br/>çevirme var ilerde.<br/><br/>hacı ne yaptın? <br/><br/>sağa çek, dövücem.<br/><br/>vs.
+    sen geç bekliyorum..<br/><br/>kafanı çıkarma ben geçiyorum.<br/><br/>yeşil yandı yürü.<br/><br/>çevirme var ilerde.<br/><br/>hacı ne yaptın? <br/><br/>sağa çek, dövücem.<br/><br/>vs.<br/><br/>debe editi: bir dişi kişi olarak, selektör ile ilgili yazdığım entry debe'ye girdi ya, daha da kimse bana kadın sürücü muhabbeti yapamaz. (bkz: <a class="b" href="/?q=swh">swh</a>)
    
   entry_writer: exelti
 - entry_name: |
@@ -247,7 +247,7 @@ data:
   entry_id: 61129342
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=%c5%9fey+yapmay%c4%b1n+olum+tamam">şey yapmayın olum tamam</a>)<br/><br/>aynen kardeşim ben de gördüm o kahpeleri.
+    (bkz:  <a class="b" href="/?q=%c5%9fey+yapmay%c4%b1n+olum+tamam">şey yapmayın olum tamam</a>)<br/><br/>aynen kardeşim ben de gördüm o kahpeleri.<br/><br/>debe edit: kitap tavsiyesi..<br/>(bkz: <a class="b" href="/?q=modern+t%c3%bcrk+edebiyat%c4%b1n%c4%b1n+ana+%c3%a7izgileri">modern türk edebiyatının ana çizgileri</a>)
    
   entry_writer: dusunenbiyik
 - entry_name: |
@@ -291,19 +291,11 @@ data:
    
   entry_writer: anti duhring
 - entry_name: |
-    arda turan denildiğinde akla gelenler
-  entry_id: 61125887
-  entry_content: |
-    
-    kıroluk, çomarlık, varoşluk, sonradan görmelik, apaçilik.
-    
-  entry_writer: chrysaor
-- entry_name: |
     erdoğan görevi kötüye kullandığında yargılanabilir
   entry_id: 61120498
   entry_content: |
     
-    görevini kötüye kullanan makamı yargılamayan hukuk insanları da görevini kötüye kullanmaktan yargılanabileceğinden, nereden başlayacağı belli olmayan ihtimal..<br/><br/>türkiye tam bir görevi kötüye kullanmaception diyarı.
+    görevini kötüye kullanan makamı yargılamayan hukuk insanları da görevini kötüye kullanmaktan yargılanabileceğinden, nereden başlayacağı belli olmayan ihtimal..<br/><br/>türkiye tam bir görevi kötüye kullanmaception diyarı.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: biri propaganda editi yapmış neymiş efendim hazreti aişe 9 yaşında değilse utanacakmış sözlük. bonkör davranıyorum 9 değil 18 olsun, hatta 20 olsun, evlendiği erkeğin yaşı kaç? 54. başka sözüm yok. bu da var: (bkz: <a class="b" href="/entry/60868392">#60868392</a>)<br/><br/><a class="b" href="/?q=ps">ps</a>: <a class="b" href="/?q=survivor+2016">survivor 2016</a> fake hesaplarına kanma! sırf oraya yazan sahte reklam hesapları var.
    
   entry_writer: nuhun gemisinde asure tarifi alan hayvan
 - entry_name: |
@@ -367,7 +359,7 @@ data:
   entry_id: 61118431
   entry_content: |
     
-    hangi çocuklarmış onlar??<br/>ağlamayan, üzülmeyen kimmiş.<br/>çocuklara üzülmediğimizi kim uyduruyor, bunun istatistiğini kim tutmuş.<br/>çocuklarla gaylar bir değneğin iki ucu mudur?<br/>ona üzülen buna üzülemez mi*<br/>sanki suriye'de ki çocuklar böyle bir yerde eğlenirken sırf "çocuk" oldukları için öldürüyorlar. <br/>mal mısınız nesiniz arkadaş.<br/>suriye'de çocukları öldüren şey gidip orlando da gay öldürüyor. aynı şey yani.<br/>ona lanet ediyor insanlar. not found iq.
+    hangi çocuklarmış onlar??<br/>ağlamayan, üzülmeyen kimmiş.<br/>çocuklara üzülmediğimizi kim uyduruyor, bunun istatistiğini kim tutmuş.<br/>çocuklarla gaylar bir değneğin iki ucu mudur?<br/>ona üzülen buna üzülemez mi?<br/>sanki suriye'de çocuklar böyle bir yerde eğlenirken sırf "çocuk" oldukları için öldürülüyorlar. <br/>mal mısınız nesiniz arkadaş.<br/>suriye'de çocukları öldüren şey gidip orlando'da gay öldürüyor. aynı şey yani.<br/>ona lanet ediyor insanlar. not found iq.
    
   entry_writer: daga kacan inek
 - entry_name: |
@@ -383,15 +375,15 @@ data:
   entry_id: 61126095
   entry_content: |
     
-    hala daha 3g aktif-deaktif etme özelliği isteyenler var. bak kardeşim bu adamlar bu aleti o an olabilecek en hızlı internete uyum sağlayabilsin diye üretiyor. senin gibi kontörlü hatla gezenler için değil. 3g'yi neden kapatır ki bir insan?
-    
+    hala daha 3g aktif-deaktif etme özelliği isteyenler var. bak kardeşim bu adamlar bu aleti o an olabilecek en hızlı internete uyum sağlayabilsin diye üretiyor. senin gibi kontörlü hatla gezenler için değil. 3g'yi neden kapatır ki bir insan??<br/><br/>edit: evet arkadaşlar anladım şarjı uzun gitsin diye yapıyorsunuz. tamam da kardeşim; bu akıllı telefon denen aletlerin en babasının şarjı zaten 1 gün gidiyor. oldu olacak kullanmadığınız zamanlarda kapatın bari, bak o zaman şarjı daha uzun gider. <br/><br/>akıllı telefon denen aletler gerek bildirim yoluyla, gerek kendi isteğinizle internete bağlı olur, amacı budur. şarjı çok giden alet istiyorsanız alırsın kapaklı bir samsung 1 hafta gider şarjı. yok illa akıllı telefon kullanıp, oyun oynayacağım vs diyorsan da bir zahmet bunun çözümü için 3g'yi kapatmak yerine başka yöntemler uygulayacaksın. illa da kapatacağım diyorsan 4 kere ekrana basarak kapatabiliyorsun. yani koyulacak bir hızlı erişim tuşu sana en fazla %50 zaman tasarrufu sağlar, 3-5 saniye yani.
+   
   entry_writer: keymark9
 - entry_name: |
     gianluigi buffon
   entry_id: 61126899
   entry_content: |
     
-    uzatma anlarında kalede yaşanan tehlikeden sonra yakaladığı topla konuştu, bir şeyler söyledi. hemen arkasından durumu 2-0'a getiren golü attılar, sanki o golü atmasalar kazanamayacaklarmış gibi heyecanından, sevincinden gitti 100 metre koştu , çocuk gibi hoplayıp zıpladı.  <br/><br/>aha buraya yazıyorum ; <br/><br/>bu adam takımının lideri olarak euro 2016 kupasını kaldırıp da efsane bir başarıyla kariyerini sonlandırmazsa bütün italya beni siksin, çizme götüme girsin.
+    uzatma anlarında kalede yaşanan tehlikeden sonra yakaladığı topla konuştu, bir şeyler söyledi. hemen arkasından durumu 2-0'a getiren golü attılar, sanki o golü atmasalar kazanamayacaklarmış gibi heyecanından, sevincinden gitti 100 metre koştu , çocuk gibi hoplayıp zıpladı.  <br/><br/>aha buraya yazıyorum ; <br/><br/>bu adam takımının lideri olarak euro 2016 kupasını kaldırıp da efsane bir başarıyla kariyerini sonlandırmazsa bütün italya beni siksin, çizme götüme girsin.<br/><br/><a class="b" href="/?q=edit">edit</a> : bedenimi halka arz ettiğim böyle bir entryle debe'ye girdiğim için size ne kadar teşekkür etsem az sözlük yazarları.
    
   entry_writer: lalelide oturuyorum ben
 - entry_name: |
