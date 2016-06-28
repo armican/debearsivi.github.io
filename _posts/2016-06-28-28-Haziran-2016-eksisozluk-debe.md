@@ -23,15 +23,15 @@ data:
   entry_id: 61395099
   entry_content: |
     
-    boy tyrion, taşşak wun wun.
-    
+    boy tyrion, taşşak wun wun..<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: golgesi olmayan adam
 - entry_name: |
     27 haziran 2016 erdoğan'ın putin'den özür dilemesi
   entry_id: 61400500
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=a%c4%9flam%c4%b1yorum+g%c3%b6z%c3%bcme+u%c3%a7ak+ka%c3%a7t%c4%b1">ağlamıyorum gözüme uçak kaçtı</a>)
+    (bkz:  <a class="b" href="/?q=a%c4%9flam%c4%b1yorum+g%c3%b6z%c3%bcme+u%c3%a7ak+ka%c3%a7t%c4%b1">ağlamıyorum gözüme uçak kaçtı</a>)<br/><br/>debe edit'i:<br/>(bkz: <a class="b" href="/?q=5+bin+tl+bulunamazsa+g%c3%b6zlerini+kaybedecek+k%c4%b1z%c4%b1m%c4%b1z">5 bin tl bulunamazsa gözlerini kaybedecek kızımız</a>)<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: faroe adamlari
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 61398754
   entry_content: |
     
-    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>tommen "king's landing" ismine yeni bir anlam getirdi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>tommen "king's landing" ismine yeni bir anlam getirdi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>debe editi: (bkz: <a class="b" href="/?q=debe+editiyle+vejetaryenli%c4%9fi+yaymaya+%c3%a7al%c4%b1%c5%9fmak%2f%40deathbringer">debe editiyle vejetaryenliği yaymaya çalışmak/@deathbringer</a>)
    
   entry_writer: deathbringer
 - entry_name: |
@@ -51,11 +51,11 @@ data:
    
   entry_writer: turing
 - entry_name: |
-    mykonos'a özel jetle künefe getirtmek
+    mikonos'a özel jetle künefe getirtmek
   entry_id: 61398689
   entry_content: |
     
-    çalışan 50 tl daha zam isteyince "işler kötü, %4'ü bile zar zor veriyoruz" diyenlerin yapacağı türden görgüsüzlük..<br/><br/>"zaten en yüksek zam sana yapıldı, arkadaşlarına sakın bahsetme" cümlesini hayatında en az bir kere duyanlar beri gelsin.
+    çalışan 50 tl daha zam isteyince "işler kötü, %4'ü bile zar zor veriyoruz" diyenlerin yapacağı türden görgüsüzlük..<br/><br/>debe editi: "(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>) adlı başlığımızda maalesef olumsuz bir güncelleme yapmak zorunda kaldık,bu hafta içi eymen beyninde 2 yerde oluşan beyin tümörü nüksünden dolayı ameliyat olacak. valilik onaylı kampanyada bu hafta 15 bin tl nin toplanması gerekmekte." <a class="b" href="/?q=arketip16">arketip16</a> rumuzlu kullanıcı.
    
   entry_writer: cok bilmis olmayan avukat
 - entry_name: |
@@ -103,15 +103,15 @@ data:
   entry_id: 61406848
   entry_content: |
     
-    bizim milyarlık eşeklerin 5 maçta aldığı primi futbol tarihleri boyunca alamayacak gerçek futbolcuların, futbol tarihimiz boyunca ingiltere'ye attığımız gol sayısını 18 dakikada aştığı maçtır.
-    
+    bizim milyarlık erkeklerin* 5 maçta aldığı primi futbol tarihleri boyunca alamayacak gerçek futbolcuların, futbol tarihimiz boyunca ingiltere'ye attığımız gol sayısını 18 dakikada aştığı maçtır..<br/><br/>* hukuka aykırılık içerdiği için bu kelime değiştirilmiştir. orijinali için:<br/>(ara: <a class="ara index-link" href="/basliklar/ara?searchform.keywords=milyarl%C4%B1k%20%2Aekler">milyarlık *ekler</a>)
+   
   entry_writer: utopic
 - entry_name: |
     izlanda milli futbol takımı
   entry_id: 61406749
   entry_content: |
     
-    teknik direktörü lars lagerback yıllık 430 bin euro alıyor..<br/><br/>ersin düzen'in trt'den aldığı senelik paranın %30'u.<br/><br/>yemin ediyorum bize her şey müstehak.<br/><br/>edit: aktroll'ler utanmadan mesaj atıyor. %30 değil %45 yapıyormuş. ananızı günde 45 defa izlanda kırması eşekler siksin.
+    teknik direktörü lars lagerback yıllık 430 bin euro alıyor. ersin düzen'in trt'den aldığı senelik paranın %30'u. yemin ediyorum bize her şey müstehak..<br/><br/>debit: bu hafta içi minik eymen, beyninde 2 yerde oluşan tümör nüksünden dolayı ameliyat olacak. valilik onaylı kampanyada 15 bin tl'nin toplanması gerekmekte. üçe beşe bakmadan el birliğiyle son bir abilik, ablalık yapalım lütfen. rica ediyorum. (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: seylann
 - entry_name: |
@@ -127,7 +127,7 @@ data:
   entry_id: 61406618
   entry_content: |
     
-    prezervatif reklamıdır..<br/><br/>oha editi: lan bu nasıl debeye girdi? <br/>neyse peşinen söyleyeyim. sadece şaka yaptım. çocukları severim. "keşke babası prezervatif kullansaymış da doğmasaymış" anlamı çıkartılabileceğinin farkındayım. öyle bir düşüncem yok. çocuk kendince eğleniyor, abartılacak bir şey yok. fakat şimdiki çocukların büyük bir kısmının fazla şımartıldığı da bir gerçek.
+    prezervatif reklamıdır..<br/><br/>oha editi: lan bu nasıl debeye girdi? <br/>neyse peşinen söyleyeyim. sadece şaka yaptım. çocukları severim. "keşke babası prezervatif kullansaymış da doğmasaymış" anlamı çıkartılabileceğinin farkındayım. öyle bir düşüncem yok. çocuk kendince eğleniyor, abartılacak bir şey yok. fakat şimdiki çocukların büyük bir kısmının fazla şımartıldığı da bir gerçek.<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: axt
 - entry_name: |
@@ -143,15 +143,15 @@ data:
   entry_id: 61393565
   entry_content: |
     
-    hay iniesta siksin sizi. adam efsane oynadı 5 gol 5 asist yaptı copa america boyunca şanssızlık a.q yine penaltılarda kaybetti. son 3 büyük turnuvasında milli takımını 3 finale taşıdı burdaki otuz birci salaklar hala iniesta diye peçete aranıyo. barçada olduğu gibi milli takımda da efsane oynamaya devam ediyor. gruptan çıkmak için macaristan karşısında son yarım saat kendi sahasında top çeviren takımdaki arkadaşın başlığına da bekleriz sizi modric ve kroos'un ekmeğini yiyor diye.
-    
+    hay iniesta siksin sizi. adam efsane oynadı 5 gol 5 asist yaptı copa america boyunca şanssızlık a.q yine penaltılarda kaybetti. son 3 büyük turnuvasında milli takımını 3 finale taşıdı burdaki otuz birci salaklar hala iniesta diye peçete aranıyo. barçada olduğu gibi milli takımda da efsane oynamaya devam ediyor. gruptan çıkmak için macaristan karşısında son yarım saat kendi sahasında top çeviren takımdaki arkadaşın başlığına da bekleriz sizi modric ve kroos'un ekmeğini yiyor diye..<br/>edit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: zemzem
 - entry_name: |
     lionel messi'nin milli takımı bırakması
   entry_id: 61395440
   entry_content: |
     
-    anlaşılan gotü yememiş messi kardeşin. demek ki portekiz de oynasa intihar edecek paşam. ronaldo'nun sağındaki adam besiktas solundaki adam fenerbahçe'de oynuyor.  <br/><br/>bu müptezel pezevenge bakıyorsun; agüero, di maria, higuain, pastore leri beğenmiyor. sözlükte de etrafındaki sigirlar diyenler andavallar var ki tam futbol cahilleri. zannedersem barcelona maçı bile izlemiyor bunlar. sadece youtube'dan messi videosu. bu kadar.
+    anlaşılan gotü yememiş messi kardeşin. demek ki portekiz de oynasa intihar edecek paşam. ronaldo'nun sağındaki adam besiktas solundaki adam fenerbahçe'de oynuyor.  <br/><br/>bu müptezel pezevenge bakıyorsun; agüero, di maria, higuain, pastore leri beğenmiyor. sözlükte de etrafındaki sigirlar diyenler andavallar var ki tam futbol cahilleri. zannedersem barcelona maçı bile izlemiyor bunlar. sadece youtube'dan messi videosu. bu kadar.<br/><br/>edit: <br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: nokta koydum bitti
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 61402216
   entry_content: |
     
-    başlık karakter sınırına takıldı, müdür ne kelime lan, adam bildiğin şoförünü itfaiye koordinatörü yapmış, batı bölgesi itfaiye örgütünün en tepesine şoförünü koymuş. hani adrasan cayır cayır yanıyor ya, yangın olmasa haberimiz olmayacak!!<br/><br/>twitter'da kendi ağzıyla makam şoförünü belediyenin itfaiye koordinatörü yaptığını itiraf etmiş, güler misin ağlar mısın.<br/><br/>tviti silmiş, tam olarak şöyle demiş:<br/><br/>"mehmet çam, büyükşehir belediye itfaiye koordinatörü. benim eski makam şoförüm...<br/>ateş içindeki arkadaşlarıyla kurtulur kurtulmaz gözyaşları ile kucaklaştık. şükürler olsun....."<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://odatv.com/mob_n2.php?n=menderes-turelin-makam-soforu-bakin-nereye-atanmis-2706161200" title="http://odatv.com/mob_n2.php?n=menderes-turelin-makam-soforu-bakin-nereye-atanmis-2706161200">http://odatv.com/…u-bakin-nereye-atanmis-2706161200</a><br/><br/>haberde kaçak suya filan dalmışlar, allahtan chp'nin camileri ahır yapmasına kadar inmemiş. ulan kadın sana ne soruyor, sen ne edebiyatı yapıyorsun. aylin nazlıaka da haklı olarak sitemini dile getirince "kaçak su"dan girmiş, ahaha. iktidar sıkışınca "paralel"e bağlar, aylin nazlıaka'ya sataşan "kaçak su"ya bağlar zaten.<br/><br/>gerçi tübitak başkanı'nı itfaiye müdürü yapmadılar mı gözümüzün önünde? adam makam şoförünü itfaiye koordinatörü yapmış, çok mu? bence az, ben olsam şoförü liman sorumlusu, havaalanı kule koordinatörü filan yapardım. neticede adam şoför.<br/><br/>zihniyetin özeti bu işte, itfaiye hizmetleri gibi teknik yeterlilik gerektiren ve oldukça ciddi bi' birimin başına şoför geliyor.<br/><br/>şofeeeeeer, şofeeeer!
+    başlık karakter sınırına takıldı, müdür ne kelime lan, adam bildiğin şoförünü itfaiye koordinatörü yapmış, batı bölgesi itfaiye örgütünün en tepesine şoförünü koymuş. hani adrasan cayır cayır yanıyor ya, yangın olmasa haberimiz olmayacak!!<br/><br/>twitter'da kendi ağzıyla makam şoförünü belediyenin itfaiye koordinatörü yaptığını itiraf etmiş, güler misin ağlar mısın.<br/><br/>tviti silmiş, tam olarak şöyle demiş:<br/><br/>"mehmet çam, büyükşehir belediye itfaiye koordinatörü. benim eski makam şoförüm...<br/>ateş içindeki arkadaşlarıyla kurtulur kurtulmaz gözyaşları ile kucaklaştık. şükürler olsun....."<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://odatv.com/mob_n2.php?n=menderes-turelin-makam-soforu-bakin-nereye-atanmis-2706161200" title="http://odatv.com/mob_n2.php?n=menderes-turelin-makam-soforu-bakin-nereye-atanmis-2706161200">http://odatv.com/…u-bakin-nereye-atanmis-2706161200</a><br/><br/>haberde kaçak suya filan dalmışlar, allahtan chp'nin camileri ahır yapmasına kadar inmemiş. ulan kadın sana ne soruyor, sen ne edebiyatı yapıyorsun. aylin nazlıaka da haklı olarak sitemini dile getirince "kaçak su"dan girmiş, ahaha. iktidar sıkışınca "paralel"e bağlar, aylin nazlıaka'ya sataşan "kaçak su"ya bağlar zaten.<br/><br/>gerçi tübitak başkanı'nı itfaiye müdürü yapmadılar mı gözümüzün önünde? adam makam şoförünü itfaiye koordinatörü yapmış, çok mu? bence az, ben olsam şoförü liman sorumlusu, havaalanı kule koordinatörü filan yapardım. neticede adam şoför.<br/><br/>zihniyetin özeti bu işte, itfaiye hizmetleri gibi teknik yeterlilik gerektiren ve oldukça ciddi bi' birimin başına şoför geliyor.<br/><br/>şofeeeeeer, şofeeeer!<br/><br/>edit: eymen için bu hafta 15bin lira toplanması gerekiyor;<br/>(bkz: minik eymen celep'e yardım ediyoruz kampanyası
    
   entry_writer: anarax
 - entry_name: |
@@ -175,7 +175,7 @@ data:
   entry_id: 61404161
   entry_content: |
     
-    yaptığı bir iyiliği başına kakması. bunu senin zayıf noktanı hedef alarak yapması hem de..<br/>insanlar ne ara bu kadar kötü oldular anlayamıyorum.
+    yaptığı bir iyiliği başına kakması. bunu senin zayıf noktanı hedef alarak yapması hem de..<br/>insanlar ne ara bu kadar kötü oldular anlayamıyorum.<br/><br/>edit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: hayrayor
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 61404605
   entry_content: |
     
-    - hem  <a class="b" href="/?q=her%c5%9feyi">herşeyi</a>, <a class="b" href="/?q=hemde">hemde</a> <a class="b" href="/?q=hi%c3%a7+bir%c5%9feyidir">hiç birşeyidir</a><br/><br/>diye bir madde içeren hede. bu kadar kısa bir cümlede bu kadar hata yapmak da başarı olsa gerek.
+    - hem  <a class="b" href="/?q=her%c5%9feyi">herşeyi</a>, <a class="b" href="/?q=hemde">hemde</a> <a class="b" href="/?q=hi%c3%a7+bir%c5%9feyidir">hiç birşeyidir</a><br/><br/>diye bir madde içeren hede. bu kadar kısa bir cümlede bu kadar hata yapmak da başarı olsa gerek.<br/><br/>ek: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: overthrower
 - entry_name: |
@@ -231,7 +231,7 @@ data:
   entry_id: 61409120
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=izlanda">izlanda</a>)
+    (bkz:  <a class="b" href="/?q=izlanda">izlanda</a>)<br/><br/>@arketip16'nın uyarısı sonucu debe editi: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: agoodidea
 - entry_name: |
@@ -239,7 +239,7 @@ data:
   entry_id: 61394819
   entry_content: |
     
-    uzun yolda kısa yolda farketmeksizin takarım ve taktırırım. takmayanın aklına şaşarım. sürücü koltuğunda kemeri en başından beri takıyoruz elhamdülillah fakat arka koltukta takma alışkanlığı kardeşimle aynı arabada yaşadığımız trafik kazası sonrası başladı. kendisi arka koltukta kemersiz bir şekilde uyurken kaza cereyan etti ve 2 adet omur kemiği kırıldı.  <sup class="ab"><a title="(bkz: şu an hiç bir sorunu yok çok şükür)" href="/?q=%c5%9fu+an+hi%c3%a7+bir+sorunu+yok+%c3%a7ok+%c5%9f%c3%bck%c3%bcr" data-query="şu an hiç bir sorunu yok çok şükür">*</a></sup> o kadar ivmeye kemersiz karşı koymak zor anlayacağınız. takın incileriniz dökülmez.
+    uzun yolda kısa yolda farketmeksizin takarım ve taktırırım. takmayanın aklına şaşarım. sürücü koltuğunda kemeri en başından beri takıyoruz elhamdülillah fakat arka koltukta takma alışkanlığı kardeşimle aynı arabada yaşadığımız trafik kazası sonrası başladı. kendisi arka koltukta kemersiz bir şekilde uyurken kaza cereyan etti ve 2 adet omur kemiği kırıldı.  <sup class="ab"><a title="(bkz: şu an hiç bir sorunu yok çok şükür)" href="/?q=%c5%9fu+an+hi%c3%a7+bir+sorunu+yok+%c3%a7ok+%c5%9f%c3%bck%c3%bcr" data-query="şu an hiç bir sorunu yok çok şükür">*</a></sup> o kadar ivmeye kemersiz karşı koymak zor anlayacağınız. takın incileriniz dökülmez.<br/><br/>debe editi: bu yavruya yardımlarımızı esirgemeyelim. (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: soylemesem iyiydi
 - entry_name: |
@@ -247,15 +247,15 @@ data:
   entry_id: 61395483
   entry_content: |
     
-    aile fotosunu kaldır, harddisk'i sök, telefonu, cüzdanı gevşek parkenin altına koy, arkadaş eve nazi mi attın?
-    
+    aile fotosunu kaldır, harddisk'i sök, telefonu, cüzdanı gevşek parkenin altına koy, arkadaş eve nazi mi attın??<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: professor james moriarty
 - entry_name: |
     cersei lannister
   entry_id: 61397458
   entry_content: |
     
-    keşke türkiye'de yaşasa ve buradaki camileri, imamları, yobazları aynı şekilde patlatsa....<br/><br/>altın saçlı kraliçem...<br/><br/>(bkz: <a class="b" href="/?q=game+of+thrones+6.+sezon+finali">game of thrones 6. sezon finali</a>)
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>keşke türkiye'de yaşasa ve buradaki camileri, imamları, yobazları aynı şekilde patlatsa...<br/><br/>altın saçlı kraliçem...<br/><br/>(bkz: <a class="b" href="/?q=game+of+thrones+6.+sezon+finali">game of thrones 6. sezon finali</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>edit: yoğun istek üzerine spoiler...
    
   entry_writer: blackgibsonsg
 - entry_name: |
@@ -263,15 +263,15 @@ data:
   entry_id: 61400916
   entry_content: |
     
-    kendi halkından başka herkesten özür diledi, bi bizi göremedi.
-    
+    kendi halkından başka herkesten özür diledi, bi bizi göremedi..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: cifte kavrulmus zenci
 - entry_name: |
     hdp'yi özetleyen cesur video
   entry_id: 61411865
   entry_content: |
     
-    eğer bu adam aktroll ise aldığı para kuruşuna kadar helal olsun. çıtayı baya yükseltmiş..<br/><br/>ayrıca aktroll veya değil, verilmek istenen mesaj doğru mu doğru. o zaman susup alkışlayacaksın.<br/><br/>hadi şimdi yaylanın terörist sevici çakma aydınlar.
+    eğer bu adam aktroll ise aldığı para kuruşuna kadar helal olsun. çıtayı baya yükseltmiş..<br/><br/>ayrıca aktroll veya değil, verilmek istenen mesaj doğru mu doğru. o zaman susup alkışlayacaksın.<br/><br/>hadi şimdi yaylanın terörist sevici çakma aydınlar.<br/><br/>debe: boş boş durmayın, üç beş bir şey atın. <br/><br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: elektronvolt
 - entry_name: |
@@ -287,7 +287,7 @@ data:
   entry_id: 61405263
   entry_content: |
     
-    türkiye'nin de içinde bulunduğu d grubu'nda hiçbir takımın son 8'e kalamadan turnuvaya veda etmesi durumu.  <br/><br/>o kadar abarttık, hırvatlar şöyle iyi, ispanyollar böyle favori diye. sonuç olarak hepimiz erkenden evin yolunu tuttuk.
+    türkiye'nin de içinde bulunduğu d grubu'nda hiçbir takımın son 8'e kalamadan turnuvaya veda etmesi durumu.  <br/><br/>o kadar abarttık, hırvatlar şöyle iyi, ispanyollar böyle favori diye. sonuç olarak hepimiz erkenden evin yolunu tuttuk.<br/><br/>debe editi: arkadaşlar şöyle bir durum var. hepimiz elimizden geleni yapalım. <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>
    
   entry_writer: cocopops
 - entry_name: |
@@ -335,7 +335,7 @@ data:
   entry_id: 61400626
   entry_content: |
     
-    siyasi göt olma denebilir kısaca bu antlaşmaya. adamlar mavi marmara'da adam öldürüyorr<br/>ben sana;<br/><br/>- $21m vereyim sen onu vakıftan zaten alırsın<br/>- belki benim doğalgaz hattımı senin ülkenden avrupa'ya taşırım<br/><br/>sen bana<br/>- gazze ayaklarını kes<br/>- islamcı ayaklarını kes<br/>- gazze'ye yapacağın yatırımı bir dene ama yaptırmam<br/>- bana açtığın mavi marmara davalarını kapat<br/>- hamas'la beni uğraştırma araya gir<br/>- gazze'den benim askerimi çıkar<br/>- sonra siktir git<br/><br/>yemin ederim israil siyasal islamı o kadar güzel çözmüş ki. parayı ver bunlar gazze'yi değil babasını satar. ülke tarihinin en klas dış politikasını izlediniz.
+    siyasi göt olma denebilir kısaca bu antlaşmaya. adamlar mavi marmara'da adam öldürüyorr<br/>ben sana;<br/><br/>- $21m vereyim sen onu vakıftan zaten alırsın<br/>- belki benim doğalgaz hattımı senin ülkenden avrupa'ya taşırım<br/><br/>sen bana<br/>- gazze ayaklarını kes<br/>- islamcı ayaklarını kes<br/>- gazze'ye yapacağın yatırımı bir dene ama yaptırmam<br/>- bana açtığın mavi marmara davalarını kapat<br/>- hamas'la beni uğraştırma araya gir<br/>- gazze'den benim askerimi çıkar<br/>- sonra siktir git<br/><br/>yemin ederim israil siyasal islamı o kadar güzel çözmüş ki. parayı ver bunlar gazze'yi değil babasını satar. ülke tarihinin en klas dış politikasını izlediniz.<br/><br/>edit: buradan tüm kanada suntası ustalarına selam olsun.<br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yardim+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardim ediyoruz kampanyası</a>)
    
   entry_writer: yarin daire
 - entry_name: |
@@ -351,7 +351,7 @@ data:
   entry_id: 61411075
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sat%c4%b1l%c4%b1k+2.+el+ingilizce+e%c4%9fitim+seti">satılık 2. el ingilizce eğitim seti</a>)
+    (bkz:  <a class="b" href="/?q=sat%c4%b1l%c4%b1k+2.+el+ingilizce+e%c4%9fitim+seti">satılık 2. el ingilizce eğitim seti</a>)<br/><br/>debe edit: güldük, eğlendik. biraz da başkalarının yüzünü güldürme vakti.<br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: adim cikmis dokuza
 - entry_name: |
@@ -359,8 +359,8 @@ data:
   entry_id: 61396702
   entry_content: |
     
-    yossi kohen ismi ekşi'den değil islamcı kesimin "atatürk öldü yerine yossi kohen geçti" şeklindeki zırvalıklarından çıktığı için olmayandır. burada yapılan onların parodisiydi. bir şeyin de başını sonunu bilin. bir de 5 paragraf yazı yazmış.
-    
+    yossi kohen ismi ekşi'den değil islamcı kesimin "atatürk öldü yerine yossi kohen geçti" şeklindeki zırvalıklarından çıktığı için olmayandır. burada yapılan onların parodisiydi. bir şeyin de başını sonunu bilin. bir de 5 paragraf yazı yazmış..<br/>debedit: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: hodor
 - entry_name: |
     mario gomez
@@ -383,7 +383,7 @@ data:
   entry_id: 61403822
   entry_content: |
     
-    trt'nin  <a class="b" href="/?q=yal%c3%a7%c4%b1n+%c3%a7etin">yalçın çetin</a>'in evine gönderilmesi rezaletinin üstünü kapatabilmek için kullandığı jokeri. böylece sosyal medyanın sesini biraz kesebilmeyi hedeflediler. biz bu hamleyi yer miyiz? tabi ki yemeyiz. yalçın çetin'in sesini kimin kıstırdığını hepimiz biliyoruz. yoksa 20000 kişinin başvurduğu ve 7 kişinin başarılı olacagi bir sınavı geçerek kuruma giren bir spiker kendi isteğiyle görev almamak istemez.<br/><br/>kendisini hiç eleştirmedim hatta takımlarımızın başarılarında hep kendisi yorumcu olduğu için uğurlu bile kabul edebilirim. bu yüzden sözlüğün eleştiri timinden kendisini övmek için izin istiyorum.
+    trt'nin  <a class="b" href="/?q=yal%c3%a7%c4%b1n+%c3%a7etin">yalçın çetin</a>'in evine gönderilmesi rezaletinin üstünü kapatabilmek için kullandığı jokeri. böylece sosyal medyanın sesini biraz kesebilmeyi hedeflediler. biz bu hamleyi yer miyiz? tabi ki yemeyiz. yalçın çetin'in sesini kimin kıstırdığını hepimiz biliyoruz. yoksa 20000 kişinin başvurduğu ve 7 kişinin başarılı olacagi bir sınavı geçerek kuruma giren bir spiker kendi isteğiyle görev almamak istemez.<br/><br/>kendisini hiç eleştirmedim hatta takımlarımızın başarılarında hep kendisi yorumcu olduğu için uğurlu bile kabul edebilirim. bu yüzden sözlüğün eleştiri timinden kendisini övmek için izin istiyorum.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>). yalnızca sözlükte değil kullandığımız tüm sosyal medya hesaplarımızdan duyurabilirsek minik eymen'in en kısa zamanda sağlığına kavuşmasını sağlayabiliriz.
    
   entry_writer: diyet yapan panda
 - entry_name: |
@@ -399,7 +399,7 @@ data:
   entry_id: 61406257
   entry_content: |
     
-     <a class="b" href="/?q=24+haziran+2016+ankara+sald%c4%b1r%c4%b1s%c4%b1">24 haziran 2016 ankara saldırısı</a>ndan sonra kaybettiğimiz 4 eczacımız için açılmış hashtag. <br/><br/>ülkemizde son zamanlarda sıklıkla olduğu gibi sağlıkçıları halkın gözünde daha da soğutma, onlara istedikleri yer ve zamanda silahlı silahsız şiddete başvurarak darp etme ve öldürme gibi olayların son halkası bu saldırı olmuştur. saldırıdan sonra olay medyada <a rel="nofollow" class="url" target="_blank" href="http://www.ntv.com.tr/turkiye/ankarada-silahli-kavga-4-olu%2ctJErLyvNIEKLASTCALonGQ" title="http://www.ntv.com.tr/turkiye/ankarada-silahli-kavga-4-olu%2ctJErLyvNIEKLASTCALonGQ">bu</a> ve <a rel="nofollow" class="url" target="_blank" href="http://www.mynet.com/haber/guncel/ankara-universitesi-tip-fakultesi-kampusunde-silahli-kavga-2510242-1" title="http://www.mynet.com/haber/guncel/ankara-universitesi-tip-fakultesi-kampusunde-silahli-kavga-2510242-1">bu gibi</a> gösterilince, fikir sahibi olmadan zikir sahibi olan insanlarımızın <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nryzzg.jpg" title="http://i.hizliresim.com/nryzzg.jpg">iğrenç</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/r9yWqN" title="http://hizliresim.com/r9yWqN">yorumlarıyla</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/kv023A" title="http://hizliresim.com/kv023A">katil</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/L3GJ7G" title="http://hizliresim.com/L3GJ7G">haklı</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/gobNl3" title="http://hizliresim.com/gobNl3">gibi</a> gösterilmeye çalışılmıştır.<br/><br/>hastane eczanelerinde, eczacıların üzerine zimmetli yüzbinlerce liralık ilaç ve tıbbi sarf malzemelerin olduğunu, devletin bu zimmetli ilaçlardan örneğin en ufak beyaz reçeteli bir ampul veya enjektör kaybını bile eczacıya mal edilip onlar hakkında soruşturma açtığını bilmeyen, devletin bir adet parol'ünü bile korumaya çalışan, yatan hastalar ilaçsız kalmasın diye gece gündüz ilaç arayan ve bütün bu tıbbi hizmetlerin yanında lise mezunu müdür ve müdür yardımcılarının mobingine uğrayan eczacıların ne yaptığını bilmeden böyle yersiz yorumlara maruz kalmıştır insanların gözünde. <br/><br/>evet olay eczanede çalışan teknisyenin eczanede usulsüzlük yaptığının belirlenmesi ve hakkında tutanak tutulması sonucu başlamış. sonrasında eczacı teknisyenin "görev yerim değiştirilirse sizi mermi manyağı yaparım" tehdidi ve sonrasında eczacıların <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/qBygEB" title="http://hizliresim.com/qBygEB">savcılığa başvurmasıyla</a> devam etmiştir. tabi ki bu başvuru sonucunda önlem alınmamış ve eczacı teknisyeni eczanede çalışmaya devam etmiştir. yani göz göre 4 eczacımız öldürülmüştür ve pişkin rektör "eczanedeki uyuşmazlık sonucu olmuş bir olay" diyerek iğrençliğini göstermiş ve sorumluluktan tabi ki kaçmıştır.<br/><br/>işte bu yüzden alenen yapılan bu hukuksuzluğa, alenen yapılan bu katliama, göz yuman yöneticilere, onları koruyan medyaya karşı bugün sesimizi bu şekilde duyurmaya çalışıyoruz.<br/><br/>#eczacıisyanda
+     <a class="b" href="/?q=24+haziran+2016+ankara+sald%c4%b1r%c4%b1s%c4%b1">24 haziran 2016 ankara saldırısı</a>ndan sonra kaybettiğimiz 4 eczacımız için açılmış hashtag. <br/><br/>ülkemizde son zamanlarda sıklıkla olduğu gibi sağlıkçıları halkın gözünde daha da soğutma, onlara istedikleri yer ve zamanda silahlı silahsız şiddete başvurarak darp etme ve öldürme gibi olayların son halkası bu saldırı olmuştur. saldırıdan sonra olay medyada <a rel="nofollow" class="url" target="_blank" href="http://www.ntv.com.tr/turkiye/ankarada-silahli-kavga-4-olu%2ctJErLyvNIEKLASTCALonGQ" title="http://www.ntv.com.tr/turkiye/ankarada-silahli-kavga-4-olu%2ctJErLyvNIEKLASTCALonGQ">bu</a> ve <a rel="nofollow" class="url" target="_blank" href="http://www.mynet.com/haber/guncel/ankara-universitesi-tip-fakultesi-kampusunde-silahli-kavga-2510242-1" title="http://www.mynet.com/haber/guncel/ankara-universitesi-tip-fakultesi-kampusunde-silahli-kavga-2510242-1">bu gibi</a> gösterilince, bilgi sahibi olmadan fikir sahibi olan insanlarımızın <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nryzzg.jpg" title="http://i.hizliresim.com/nryzzg.jpg">iğrenç</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/r9yWqN" title="http://hizliresim.com/r9yWqN">yorumlarıyla</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/kv023A" title="http://hizliresim.com/kv023A">katil</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/L3GJ7G" title="http://hizliresim.com/L3GJ7G">haklı</a> <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/gobNl3" title="http://hizliresim.com/gobNl3">gibi</a> gösterilmeye çalışılmıştır.<br/><br/>hastane eczanelerinde, eczacıların üzerine zimmetli yüz binlerce liralık ilaç ve tıbbi sarf malzemelerin olduğunu, devletin bu zimmetli ilaçlardan örneğin en ufak beyaz reçeteli bir ampul veya enjektör kaybını bile eczacıya mal edilip onlar hakkında soruşturma açtığını bilmeyen, devletin bir adet parol'ünü bile korumaya çalışan, yatan hastalar ilaçsız kalmasın diye gece gündüz ilaç arayan ve bütün bu tıbbi hizmetlerin yanında lise mezunu müdür ve müdür yardımcılarının mobingine uğrayan eczacıların ne yaptığını bilmeden böyle yersiz yorumlara maruz kalmıştır insanların gözünde. <br/><br/>evet olay eczanede çalışan teknisyenin eczanede usulsüzlük yaptığının belirlenmesi ve hakkında tutanak tutulması sonucu başlamış. sonrasında eczacı teknisyenin "görev yerim değiştirilirse sizi mermi manyağı yaparım" tehdidi ve sonrasında eczacıların <a rel="nofollow" class="url" target="_blank" href="http://hizliresim.com/qBygEB" title="http://hizliresim.com/qBygEB">savcılığa başvurmasıyla</a> devam etmiştir. tabi ki bu başvuru sonucunda önlem alınmamış ve eczacı teknisyeni eczanede çalışmaya devam etmiştir. yani göz göre 4 eczacımız öldürülmüştür ve pişkin rektör "eczanedeki uyuşmazlık sonucu olmuş bir olay" diyerek iğrençliğini göstermiş ve sorumluluktan tabi ki kaçmıştır.<br/><br/>işte bu yüzden alenen yapılan bu hukuksuzluğa, alenen yapılan bu katliama, göz yuman yöneticilere, onları koruyan medyaya karşı bugün sesimizi bu şekilde duyurmaya çalışıyoruz.<br/><br/>#eczacıisyanda<br/><br/>edit: imla
    
   entry_writer: amphetamine
 ---
