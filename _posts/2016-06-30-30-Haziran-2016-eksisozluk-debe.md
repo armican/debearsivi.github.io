@@ -27,14 +27,6 @@ data:
    
   entry_writer: post tenebras lux
 - entry_name: |
-    atatürk'e hakaret eden yunus polisi
-  entry_id: 61449124
-  entry_content: |
-    
-    hicbir sey olamayanin polis oldugu ulkede "normal"dir.
-    
-  entry_writer: yoruk ali
-- entry_name: |
     30 haziran 2016 rte'nin şaka maka gidici olması
   entry_id: 61456182
   entry_content: |
@@ -47,7 +39,7 @@ data:
   entry_id: 61447702
   entry_content: |
     
-    suriye'de karışıklık ilk başladığı zaman muhalefetin söylediği çok basit bir şey vardı, sınırları kapat, cihatçıları silahlandırma, türkiye'den geçmelerine ve türkiye'de örgütlenmelerine izin verme... bu bataklığa bulaşma, bizi de yakarsın dediler. fakat akp dinlemedi, çünkü iran doğalgazı yerine katar doğalgazının suriye'den geçmesi ve türkiye üzerinden avrupa'ya satılması gerekiyordu. çünkü rusya'yı avrupa karşısında zor duruma düşürecek plan buydu. elbette batı yandaşı bir hükümet gelip de esad'ın yerini alınca bizim iş adamlarımıza da yeni alanlar açılmış olacaktı.  <br/><br/>bunun gerçekleşebileceğini düşündüler çünkü adamların dünyaya bakışı sünniler ve diğerleri şeklinde... temelde dünyaya bakışın bu kadar sakat olunca suriye'ye bakınca şunu görürsün; dünyanın her yerinden gelen sayısız cihatçı çeteyi silahlandırıp buraya yollarım, ayaklanma çıkartırlar, nüfusun çoğunluğu da sünni olduğundan onlar da bize destek verir ve kısa süre içerisinde esad'ı düşürüp keyfimize bakarız. şam'da namaz kılar, inşaat yapar, telefon satarız. katar doğalgazını alıp avrupa'ya ulaştırır, buradan da kar payımızı kaparız. çünkü bu çok mantıklı, çünkü biz de sünniyiz, onlar da sünni, neden esad'ı desteklesinler ki?<br/><br/>fakat çoğunluğu sünni askerlerden oluşan suriye ordusu cihatçılarla savaştı, ülkelerini bırakmadılar. sınır bölgelerinden çekildiler ama ülkenin para eden, biraz değerli bütün topraklarını ellerinde tutmayı başardılar. türkiye'nin batılı ortakları b planlarını devreye soktular, esad'ın boşalttığı bölgelerdeki sayısız kafayı yemiş çeteyle, yurt içindeki örgütlenmeleriyle biz başbaşa kaldık. şimdi göründüğü kadarıyla "bize desteği çekersen senin de canını yakarız" mesajını canlı bombalar vasıtasıyla veriyorlar. teknolojileri yok, devletleri yok, ticari yaptırımları yok, ellerinde canlı bombalarından başka bir şey olmayan bir it sürüsü elbette pazarlığı bunun üzerinden yürütecek. muhalefetin girme dediği bok çukurunun tam dibindeyiz, ergenekon'da, balyoz'da, cemaatte olduğu gibi bu konuda da akp tepeden tırnağa hatalı, plansız, ne yapacağını bilemez halde ve %50'lik kitlesini yalanlarla yanında tutmak dışında hiçbir planı yok. <br/><br/>anasını siktiniz ülkenin, tebrik ederim. akp bugün çekilse, buharlaşsa, bu yıkımı geri toplamak en azından bir kuşak sürecek. almanya ve çin nükleer füzyon üzerinden yarışıyor, insanlık uzayın kolonileştirilmesine, meteor madenciliğine hazırlanıyor, biz silahlandırdığımız mağara adamları tarafından öldürülüp, okunmuş fasulye deneyi alkışlıyoruz. <br/><br/>osmanlı diye diye çöküş dönemindeki osmanlıyı kurdunuz. türkiye'nin canına okudunuz ve toparlamaya şu anda başlasak azıcık normal bir ülkeye benzediğimizi çocuklarımız belki görecek; öyle bir toparlanmaya başlama umudumuz da yok. "1 saat baksana şuraya, az işim var" diyip dükkan emanet edemeyeceğin adamlara devlet yönettirirsen olacak olan budur.<br/><br/>bize de yazıklar olsun ki bu halka gerçekleri anlatamadık. dünya kopmuş giderken aklın mantığın en temel ilkelerini çiğneyen uluslar için kölelikten başka gelecek yok. ya aklı seçecektik ya köleliği, biz köleliği seçtik. hadi kutlayalım, putin affetmiş seninkini. <br/><br/>yapacağınız işi sikeyim...
+    suriye'de karışıklık ilk başladığı zaman muhalefetin söylediği çok basit bir şey vardı, sınırları kapat, cihatçıları silahlandırma, türkiye'den geçmelerine ve türkiye'de örgütlenmelerine izin verme... bu bataklığa bulaşma, bizi de yakarsın dediler. fakat akp dinlemedi, çünkü iran doğalgazı yerine katar doğalgazının suriye'den geçmesi ve türkiye üzerinden avrupa'ya satılması gerekiyordu. çünkü rusya'yı avrupa karşısında zor duruma düşürecek plan buydu. elbette batı yandaşı bir hükümet gelip de esad'ın yerini alınca bizim iş adamlarımıza da yeni alanlar açılmış olacaktı.  <br/><br/>bunun gerçekleşebileceğini düşündüler çünkü adamların dünyaya bakışı sünniler ve diğerleri şeklinde... temelde dünyaya bakışın bu kadar sakat olunca suriye'ye bakınca şunu görürsün; dünyanın her yerinden gelen sayısız cihatçı çeteyi silahlandırıp buraya yollarım, ayaklanma çıkartırlar, nüfusun çoğunluğu da sünni olduğundan onlar da bize destek verir ve kısa süre içerisinde esad'ı düşürüp keyfimize bakarız. şam'da namaz kılar, inşaat yapar, telefon satarız. katar doğalgazını alıp avrupa'ya ulaştırır, buradan da kar payımızı kaparız. çünkü bu çok mantıklı, çünkü biz de sünniyiz, onlar da sünni, neden esad'ı desteklesinler ki?<br/><br/>fakat çoğunluğu sünni askerlerden oluşan suriye ordusu cihatçılarla savaştı, ülkelerini bırakmadılar. sınır bölgelerinden çekildiler ama ülkenin para eden, biraz değerli bütün topraklarını ellerinde tutmayı başardılar. türkiye'nin batılı ortakları b planlarını devreye soktular, esad'ın boşalttığı bölgelerdeki sayısız kafayı yemiş çeteyle, yurt içindeki örgütlenmeleriyle biz başbaşa kaldık. şimdi göründüğü kadarıyla "bize desteği çekersen senin de canını yakarız" mesajını canlı bombalar vasıtasıyla veriyorlar. teknolojileri yok, devletleri yok, ticari yaptırımları yok, ellerinde canlı bombalarından başka bir şey olmayan bir it sürüsü elbette pazarlığı bunun üzerinden yürütecek. muhalefetin girme dediği bok çukurunun tam dibindeyiz, ergenekon'da, balyoz'da, cemaatte olduğu gibi bu konuda da akp tepeden tırnağa hatalı, plansız, ne yapacağını bilemez halde ve %50'lik kitlesini yalanlarla yanında tutmak dışında hiçbir planı yok. <br/><br/>canına ot tıkadınız ülkenin, tebrik ederim. akp bugün çekilse, buharlaşsa, bu yıkımı geri toplamak en azından bir kuşak sürecek. almanya ve çin nükleer füzyon üzerinden yarışıyor, insanlık uzayın kolonileştirilmesine, meteor madenciliğine hazırlanıyor, biz silahlandırdığımız mağara adamları tarafından öldürülüp, okunmuş fasulye deneyi alkışlıyoruz. <br/><br/>osmanlı diye diye çöküş dönemindeki osmanlıyı kurdunuz. türkiye'nin canına okudunuz ve toparlamaya şu anda başlasak azıcık normal bir ülkeye benzediğimizi çocuklarımız belki görecek; öyle bir toparlanmaya başlama umudumuz da yok. "1 saat baksana şuraya, az işim var" diyip dükkan emanet edemeyeceğin adamlara devlet yönettirirsen olacak olan budur.<br/><br/>bize de yazıklar olsun ki bu halka gerçekleri anlatamadık. dünya kopmuş giderken aklın mantığın en temel ilkelerini çiğneyen uluslar için kölelikten başka gelecek yok. ya aklı seçecektik ya köleliği, biz köleliği seçtik. hadi kutlayalım, putin affetmiş seninkini. <br/><br/>yapacağınız işi...
    
   entry_writer: aziz bagirsaksiz
 - entry_name: |
@@ -55,7 +47,7 @@ data:
   entry_id: 61444132
   entry_content: |
     
-    geçenlerde facebook aracılığıyla beyan ettiğim gibi,  <br/><br/>her nerede ve ne yapıyor olursam olayım, işi gücü bırakıp en büyük meydana çıkıp son ses kahkahalar eşliğinde bağıra çağıra eğlenerek içecek ve kutlayacağım. öyle ki kendimden geçip en sevdiğim şarkıları son ses açıp halka konser bile verebilirim.<br/><br/>ek: mesaj atıp yapamazsın edemezsin diyen göt kıllarına cevap olarak olduğu gün canlı yayın yapmayı düşünüyorum. artık periscope mu olur nereden olursa iletişim adresi sağlarım.<br/><br/>ek2: düzeltiyorum göt kılı değilmiş. olsun. bu ülkede gülüp eğlenmek hiç bir zaman yasak olmadı, olmayacakta. bunların karşı durduğu ne kadar güzellik varsa o gün inadına gerçekleştireceğiz buna inancım tam. bu arada, o katılmak için mesaj atanlara da teşekkür ederim. kim bilir bir zirve bile düzenleyebiliriz. toplu bir kutlama olur.
+    geçenlerde facebook aracılığıyla beyan ettiğim gibi,  <br/><br/>her nerede ve ne yapıyor olursam olayım, işi gücü bırakıp en büyük meydana çıkıp son ses kahkahalar eşliğinde bağıra çağıra eğlenerek içecek ve kutlayacağım. öyle ki kendimden geçip en sevdiğim şarkıları son ses açıp halka konser bile verebilirim.<br/><br/>ek: mesaj atıp yapamazsın edemezsin diyen göt kıllarına cevap olarak olduğu gün canlı yayın yapmayı düşünüyorum. artık periscope mu olur nereden olursa iletişim adresi sağlarım.<br/><br/>ek2: düzeltiyorum göt kılı değilmiş. olsun. bu ülkede gülüp eğlenmek hiç bir zaman yasak olmadı, olmayacakta. bunların karşı durduğu ne kadar güzellik varsa o gün inadına gerçekleştireceğiz buna inancım tam. bu arada, o katılmak için mesaj atanlara da teşekkür ederim. kim bilir bir zirve bile düzenleyebiliriz. toplu bir kutlama olur.<br/><br/>dbe edit: yolun sonu güzel bir zirveye gidiyor arkadaşlar. spontane gelişecek bir durum olduğundan her an hazır olun haberi alır almaz toplaşıyoruz. mekan saat belirtilecektir.
    
   entry_writer: shi to chi
 - entry_name: |
@@ -107,14 +99,6 @@ data:
     
   entry_writer: zdravstvite
 - entry_name: |
-    29 haziran 2016 sabah gazetesi ön sayfası
-  entry_id: 61437863
-  entry_content: |
-    
-    güllük gülistanlık bir güne uyandığımızı iddia eden  <a rel="nofollow" class="url" target="_blank" href="http://gazete.netgazete.com/gazeteler.php?id=1" title="http://gazete.netgazete.com/gazeteler.php?id=1">sayfadır.</a><br/><br/>son edit: söz konusu sayfa kıbrıs baskısının sayfasıymış... diğer gazetelerde de durum aynıymış... bence netgazete'yi uyarmalıydı bu konuda sabah gazetesi... saat 17:04 hala aynı kapak sayfası duruyor sitede... bu google'da ilk çıkan sayfa gazete kapakları diye aratılınca...
-   
-  entry_writer: zamazingonun tam ortasi amazing
-- entry_name: |
     28 haziran 2016 taksicilerin fırsatçılığı
   entry_id: 61436115
   entry_content: |
@@ -127,7 +111,7 @@ data:
   entry_id: 61438192
   entry_content: |
     
-    bugün düşününce yaptıklarına inanmakta güçlük çektiğim lider.oyunda bile yapamazsın. save load değil cheat mode açsan nafile. versus çakanlara selam..<br/>-bütün emperyalistleri tek tek def ederek çöplükten ve çöp beyinli insanların yaşadığı bir toprakta cumhuriyet ilan ederek medeniyet kurmaya çalışmış ve başarılı olmuştur. <br/>-aynı topraklarda kendisinden 50 yıl önce yapılan nüfus sayımında erkekler ve koyunlar sayılıp kadınlar yok sayılırken kadınlara seçme ve seçilme hakkını avrupa'da isviçre'den sonra ilk veren ülke olmuştur. (düzeltme: isveç olacak) (mesaj atan herkese teşekkürler) kız mıdır kadın mıdır bilemem dememiştir.<br/>-laiklik gibi bir ilke ile dünyanın göt deliği olan ortadoğu ve ortadoğu'nun iğrenç olaylarından bu toprakları 100 yıl uzak tutmuştur. teröre yardım ve yataklık yapmamıştır. <br/>-halifelik gibi muaviye ile birlikte vasfını yitirmiş bir payeyi silip atmıştır. sahte peygamberlere ve şirkçilere inat.<br/>-en fakir en güçsüz zamanlarda nasıl dimdik durulur öğretmiş bm daveti almıştır. ab kapısında köppek olmamıştır.<br/>-hatay ile toprak kazanmaya üstelik kan dökmeden en asil şekilde devam etmiştir. vatan toprağını bırakıp kaçmamıştır barbarlara. <br/>-fabrikalar kurmuştur. kalkınma planları yapmıştır. inşaata abanmamıştır.<br/>-enteldir. öğretmendir. paralel ve teğeti bırak geometri kitabı yazmıştır.<br/>-dil bilir. where is your kravat demez. fransızca gibi devrin en aktif diline hakimdir.<br/>-barış yanlısıdır. orada burada cuma namazı hayalleri kurmamıştır. <br/>-hain değil milliyetçidir. kansız, soysuz, adi, satılmış değildir. <br/>-hepsinden önce; başta ben ve çevremdeki bir çok insanın sığır değil aydın batı medeniyeti standartlarında yetişmesini sağlamıştır. 10 tane örgütlü pezevengin hava alanı taradığı ülkede milyonlarca sığırı sindirmiştir. bir o kadar sığır olacak adamın düzgün yetişmesini sağlamıştır. babam annem 1 kendisi 2 bu hayatımda. <br/>bizim hakkımız milyonlarca kez helal sana ama sen bize helal eder misin bilemiyorum. senin tırnağın kadar stratejik derinliğe sahip olamayan bazı kifayetsiz muhterisler yüzünden dün 100'den fazla evladının daha canı yandı. <br/>sana dair en büyük hislerimiz çok uzun zaman boyunca sevgi ve saygı idi. bugünlerde hasret ve özlem.<br/><br/>debe editi: 'ata'sini bilmeyen 'it' pesinde kosar.
+    bugün düşününce yaptıklarına inanmakta güçlük çektiğim lider.oyunda bile yapamazsın. save load değil cheat mode açsan nafile. versus çakanlara selam..<br/>-bütün emperyalistleri tek tek def ederek çöplükten ve çöp beyinli insanların yaşadığı bir toprakta cumhuriyet ilan ederek medeniyet kurmaya çalışmış ve başarılı olmuştur. <br/>-aynı topraklarda kendisinden 50 yıl önce yapılan nüfus sayımında erkekler ve koyunlar sayılıp kadınlar yok sayılırken kadınlara seçme ve seçilme hakkını avrupa'da isviçre'den sonra ilk veren ülke olmuştur. (düzeltme: isveç olacak) (mesaj atan herkese teşekkürler) kız mıdır kadın mıdır bilemem dememiştir.<br/>-laiklik gibi bir ilke ile dünyanın göt deliği olan ortadoğu ve ortadoğu'nun iğrenç olaylarından bu toprakları 100 yıl uzak tutmuştur. teröre yardım ve yataklık yapmamıştır. <br/>-halifelik gibi muaviye ile birlikte vasfını yitirmiş bir payeyi silip atmıştır. sahte peygamberlere ve şirkçilere inat.<br/>-en fakir en güçsüz zamanlarda nasıl dimdik durulur öğretmiş bm daveti almıştır. ab kapısında köppek olmamıştır.<br/>-hatay ile toprak kazanmaya üstelik kan dökmeden en asil şekilde devam etmiştir. vatan toprağını bırakıp kaçmamıştır barbarlara. <br/>-fabrikalar kurmuştur. kalkınma planları yapmıştır. inşaata abanmamıştır.<br/>-enteldir. (mesajlar ile: entelllektüeldir. gerçi herkes anlamış asıl kasıt edileni) öğretmendir. paralel ve teğeti bırak geometri kitabı yazmıştır.<br/>-dil bilir. where is your kravat demez. fransızca gibi devrin en aktif diline hakimdir.<br/>-barış yanlısıdır. orada burada cuma namazı hayalleri kurmamıştır. <br/>-hain değil milliyetçidir. kansız, soysuz, adi, satılmış değildir. <br/>-hepsinden önce; başta ben ve çevremdeki bir çok insanın sığır değil aydın batı medeniyeti standartlarında yetişmesini sağlamıştır. 10 tane örgütlü pezevengin hava alanı taradığı ülkede milyonlarca sığırı sindirmiştir. bir o kadar sığır olacak adamın düzgün yetişmesini sağlamıştır. babam annem 1 kendisi 2 bu hayatımda. <br/>bizim hakkımız milyonlarca kez helal sana ama sen bize helal eder misin bilemiyorum. senin tırnağın kadar stratejik derinliğe sahip olamayan bazı kifayetsiz muhterisler yüzünden dün 100'den fazla evladının daha canı yandı. <br/>sana dair en büyük hislerimiz çok uzun zaman boyunca sevgi ve saygı idi. bugünlerde hasret ve özlem.<br/><br/>debe editi: 'ata'sini bilmeyen 'it' pesinde kosar.<br/>mesaj editi: çok mesaj geldi okurken gözlerim doldu diye. yazarken benim dolmuştu. tek bende olur sanmıştım ama yanılmışım. bunu hissedebilmek çok güzel bir olay. sevgi ve özlem birleşince kaçınılmaz oluyor sanırım.
    
   entry_writer: garda
 - entry_name: |
@@ -151,7 +135,7 @@ data:
   entry_id: 61441435
   entry_content: |
     
-    her iki kentte gerçekleşen hava alanı patlamalarının ardından;;<br/><br/>brükselli keriz taksi sürücüleri insanları gidecekleri yerlere ücretsiz taşımışlar,<br/><br/>istanbul'da ise aynı mesleği icra eden ve kurnazlığıyla övünen insanlar anında görüş birliğiyle her yere 100 $ - 100 tl artık ne geçirebilirlerse tarifesine geçiş yapmışlar.<br/><br/>işte avrupa'nın iki yüzlülüğüne ve bozgunculuğuna her geçen gün yepyeni bir olayla daha tanık oluyoruz.
+    her iki kentte gerçekleşen havaalanı patlamalarının ardından;;<br/><br/>brükselli keriz taksi sürücüleri insanları gidecekleri yerlere ücretsiz taşımışlar,<br/><br/>istanbul'da ise aynı mesleği icra eden ve kurnazlığıyla övünen insanlar anında görüş birliğiyle her yere 100 $ - 100 tl artık ne geçirebilirlerse tarifesine geçiş yapmışlar.<br/><br/>işte avrupa'nın iki yüzlülüğüne ve bozgunculuğuna her geçen gün yepyeni bir olayla daha tanık oluyoruz.
    
   entry_writer: alexanderplatz
 - entry_name: |
@@ -183,8 +167,6 @@ data:
   entry_id: 61437813
   entry_content: |
     
-    akpliler için duyar kasanlara robespierre'in sözünü hatırlatmak gerekir..<br/><br/>"özellikle özgürlüğün düşmanları için sızlanan duyarlılık beni kuşkulandırır."
-   
   entry_writer: aint no grave
 - entry_name: |
     türkiye'yi kurtarmanın yolları
@@ -231,7 +213,7 @@ data:
   entry_id: 61437267
   entry_content: |
     
-    65 yasındaki dedemin siki kalkar bu vize kalkmaz..<br/><br/>keşke dedem arada kalkan su sikini üç beş çomara saplasada toptan kurtulsak.
+    65 yasındaki dedemin siki kalkar bu vize kalkmaz..<br/><br/>keşke dedem arada kalkan su sikini üç bpeş çomara saplasada toptan kurtulsak.<br/><br/>debe editi: dedemle konustum demin kurma kolu ben 10 sene önce 65 yaşındaydım.. durumlar vahimmiş bazı arkadaslar ilaç milaç dedi o işler sakat
    
   entry_writer: mustancigano
 - entry_name: |
@@ -266,14 +248,6 @@ data:
     formati sikip atacagim simdi..<br/><br/>siz bi sikim yapamazsiniz. amerikalilar'in bi lafi var "necessity drives progress" diye. turkce'ye "ilerleme ihtiyactan gelir" diye cevirebilirsiniz. sizin temenniniz var, ihtiyaciniz yok. kimin ihtiyaci var biliyor musunuz? suriyelilerin, afganistanlilar'in, iraklilar'in ihtiyaci var. bu ihtiyac o kadar buyuk ve guclu ki, herseyi arkalarinda birakip, herseyi goze alip derme catma teknelerde, bazen yalnizca bir can yelegiyle, bazen onlar bile olmadan, kol gucuyle yuzerek turkiye'den siktirip gitmeye calisiyorlar. ıhtiyac budur. siz zahmet edip ulke disinda ne is imkanlari var, hangi ulkelerde var, bu imkanlari degerlendirmek icin ben ne yapmaliyim? sorularini bile sormuyorsunuz. keyfiniz nispeten yerinde nasilsa. kurulu duzeniniz var. ısiniz var belki. yurt disina cikip, akvaryumunuzdan denize acilmaya korkuyorsunuz. zora gelemiyorsunuz. sunu bilin ki bilal ya da sumeyye ya da buse degilseniz, hayat kolay degil. <a class="b" href="/?q=no+pain+no+gain">no pain no gain</a>. aci yoksa kazanc ta yok. yurt disina cikip, baslangicta zorluklara gogus germeye cesaretiniz yok. o zaman akvaryuma atilan yemlerle idare ediyorsunuz. al sana bi ecnebi lafi daha: "fortune favors the bold". sans cesurlara guler. ne zaman ki gemi aziya alir, ulke disina cikmak icin her olasiligi tirmalamaya baslarsiniz, o zaman dogru yola girersiniz. turkiye'de kalirsaniz bi sikim olamazsiniz. siz kendi kendinize "ben turkiye'nin sunduklarindan daha iyisini hakediyorum. daha iyisini kazanmak icin de elimden geleni ardima koymayacagim" demediginiz surece kimse sizi siklemez. ayda bir tepenizde bomba patlattiklarinda 2 gunlugune haber olursunuz anca. aklinizi basiniza toplayin. o cehennemden cikin.<br/><br/>akpli got killarina bi lafim yok. ha duvara konusmussun ha onlara. duvar hic olmazsa sessizce dinliyor, cacaronluk yapmiyor.<br/><br/>tatlisindan kisip <a class="b" href="/?q=mado">mado</a>'yu bile boykot edemeyen bir toplulugun yapamayacagi eylem.
    
   entry_writer: shadayim
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id: 61439419
-  entry_content: |
-    
-    sende öyle bir diktatör egosu var ama bir o kadar da abartılmış bir balonsun ki. sen o egonla orta doğu'ya silah götürürsen, terör örgütü desteklersen ve bunun ucunun sana dokunacağını göremeyip, buna karşı önlem alacak gücünün olmadığını bilmezsen, bugün sırf senin egoların yüzünden onlarca masum insan ölür. neredeyse bir yıldır her ay sırf bu yüzden ölmektedir ve ölmeye de devam edecektir..<br/><br/>bizi bugünlere getiren senin ve seni yediğin onca halta rağmen bu kadar havalara çıkaran destekçilerinin allah bin türlü belasını versin.
-   
-  entry_writer: eggplant
 - entry_name: |
     şamil tayyar yiğit bulut mehmet metiner
   entry_id: 61438209
@@ -323,14 +297,6 @@ data:
     
   entry_writer: oluroylearada
 - entry_name: |
-    akp seçmeni
-  entry_id: 61447392
-  entry_content: |
-    
-    taniyorum bu insanlari. akp iktidara gelmeden önce de taniyorum. bunlar hep varlardi, hep ülkenin en cikarci, icten pazarlikli ve utanmaz kesimiydiler..<br/><br/>bunlar ahlaksiz, bagnaz, sahtekar insanlardir. köylüsü komsusunun tarlasini sürerek sinirlarini genisletmeye calisir, esnafi müsterisini kaziklamaya, toptancisi da esnafini kaziklamaya calisir. ıstisnasiz tamami devletten vergi kacirma pesindedir. memuru yalakalik yaparak üstlerinin kicini yalayarak terfi etmeye calisir, iscisi sirf mahalleliye göstermek icin karisini kizini türbana sokar. <br/><br/>haram yiyen asagilik insanlardir bunlar. hakka, hukuka inanmazlar. ketumdurlar. tek dertleri paradir, cikardir. bencildirler, baskalarini düsünmezler. sehrin göbeginde sümküre sümküre yerlere tüküren adamlar akp secmenindendir. bindikleri otobüste, dolmusta kadinlari kizlari taciz eden adamlar da akp secmenidir. mahallesinde yalniz yürüyen kadina laf atan hatta elle taciz eden insanlar da akp secmenidir. onlar heryerdeler. daha önce de hep varlardi ama bu kadar hayasizca yapamiyorlardi eylemlerini.<br/><br/>akp bu insanlara bir kimlik verdi. bunlara „siz halksiniz, siz büyüksünüz, seiz yücesiniz“ dedi ve oylarini aldi. bunlar da bu yüzden bu kadar sevip benimsediler erdogani. cünkü erdogan onlarin yaptiklari hayvanliklari ayiplamiyor, bilakis destekliyordu. erdogan onlari tenkit etmiyor, aksine „devam edin aslanlarim, siz halksiniz, siz yaparsaniz dogrudur“ diyordu. chp ile bu yüzden bir türlü barisamadilar. chp daha esitlikciydi, kadin haklarini savunuyordu, daha modern, egitimli ve cagdas insanlara hitap eden söylemleri vardi. onlarsa kavgaci, küfürbaz, ahlaksiz, cikarci ve ataerkil bir zihniyeti destekliyorlardi. bu zihniyette kendilerini buluyor ve sonuna kadar benimsiyorlardi. bu sebeple erdoganla gönül bagi kurdular. <br/><br/>10 yil icinde kadin cinayetlerinin %1400 artmasi bu yüzdendir. gezi olaylarinda elinde palalarla göstericilere saldiran eskiyalarin bu kadar rahat olmasinin nedeni de budur. camina kartopu geldigi icin elinde bicakla cikip gazeteci nuh köklüyü katleden esnafin umarsizliginin nedeni de budur. kadinlara tacizin artmasi, ensar vs. gibi vakiflarda oglan cocuklarina hayasizca tecavüz edilmesinin nedeni de budur. bu adamlar biliyorlar ki tenkit edilmeyecekler, cezalandirilmayacaklar, cünkü arkalarinda onlarin siddetini, hayvanligini ve ahlaksizligini destekleyen, buna sahip cikan bir siyasi zihniyet var. <br/><br/>erdogan halkin en hastalikli ve saldirgan taraflarini cok iyi okumus bir adam ve iktidara geldiginden beri de buradan yürüyor. “kadin midir kiz midir bilemem” diyor. “kizli erkekli ayni evde kalinmaz” diyor. “türbanli bacilarimin üstüne isediler” diyor “camiye bira sisesiyle girdiler” diyor. her demecinde ya ataerkil zihniyete, ya siddet kültürüne ya da dine bir gönderme var. tüm siyasi mentalitesi bu saldirgan ve cagdisi zihniyetin alici buldugu kesimlerde sekilleniyor. ve bu kesim digerlerini bastirdi, onlari da yozlastirdi. cünkü iktidar onlari destekledikce daha da güclendiler ve digerlerini asimile etmeye basladilar. artik devlet dairesinde rüsvet yemeyenler dislaniyor, karisini zorla türbana sokmayanlara kötü gözle bakiliyor, daha buna benzer bir sürü sova yönelik davranisi ve sahteligi halkin benimsemesi isteniyor.<br/><br/>ıste akp secmeni budur. bu insanlar hep vardi ama önceden ayiplaniyor, tenkit ediliyor ve kendilerini düzeltmeleri isteniyordu. onlarsa erdoganla beraber kimliklerini buldular. sirtlarini sivazlayan “aferim benim aslanima, sen devam et. vur, kir, parcala arkanda ben varim” diyen bir lider buldular.
-   
-  entry_writer: already flew
-- entry_name: |
     erdoğan ölsün diye temenni eden muhalif
   entry_id: 61441079
   entry_content: |
@@ -359,8 +325,6 @@ data:
   entry_id: 61452639
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sizin+anan%c4%b1z%c4%b1+sikeyim">sizin ananızı sikeyim</a>)!<br/><br/>lan sığır "askere filan saldırıyor" ne demek?<br/>terör terördür!
-   
   entry_writer: kumanda pili
 - entry_name: |
     ismail saymaz
@@ -399,7 +363,7 @@ data:
   entry_id: 61439505
   entry_content: |
     
-    patlamadan kıl payı kurtulursan ve akabinde hükümeti eleştirirsen terörist, kurtulamazsan şehit oluyorsun. ne kadar ince bir çizgi!!<br/><br/>bir sürü insan yazmış ben de yazıyorum. bu insanlar vatanı milleti savunurken şehit olmadı, sizin bilerek ve isteyerek saplandığınız ortadoğu lağımında sizin tırlarla gönderdiğiniz bomba ve silahlarla sebepsizce can verdiler. evet sizin gönderdiğiniz silahlarla.<br/><br/>sizin ben sülalenizi sikeyim.
+    patlamadan kıl payı kurtulursan ve akabinde hükümeti eleştirirsen terörist, kurtulamazsan şehit oluyorsun. ne kadar ince bir çizgi!!<br/><br/>bir sürü insan yazmış ben de yazıyorum. bu insanlar vatanı milleti savunurken şehit olmadı, sizin bilerek ve isteyerek saplandığınız ortadoğu lağımında sizin tırlarla gönderdiğiniz bomba ve silahlarla sebepsizce can verdiler. evet sizin gönderdiğiniz silahlarla.<br/><br/>sizin ben sülalenizi silkeyim.
    
   entry_writer: kuzi
 ---
