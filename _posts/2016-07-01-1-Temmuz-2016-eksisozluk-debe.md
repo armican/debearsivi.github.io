@@ -31,7 +31,7 @@ data:
   entry_id: 61463670
   entry_content: |
     
-    devletin yapılan yollardan ve köprülerden kullanım ücreti alması şu mantığa dayanır..<br/><br/>devlet vatandaşın kullanması için yol yapar ve bu yolun yapılmasının ardından bu yolun yapım maliyetini çıkarana kadar kullanım ücreti alır.<br/><br/>ancak bizim ülkemizde bu şekilde olmuyor. 30 sene önce yapılan yoldan köprüden hala para kesilmeye devam ediliyor ki benim şahsi görüşüme göre bu amcıklıktır.
+    devletin yapılan yollardan ve köprülerden kullanım ücreti alması şu mantığa dayanır..<br/><br/>devlet vatandaşın kullanması için yol yapar ve bu yolun yapılmasının ardından bu yolun yapım maliyetini çıkarana kadar kullanım ücreti alır.<br/><br/>ancak bizim ülkemizde bu şekilde olmuyor. 30 sene önce yapılan yoldan köprüden hala para kesilmeye devam ediliyor ki benim şahsi görüşüme göre bu vatandasa atilan arsizca bir kaziktir.
    
   entry_writer: swollenmember
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 61462695
   entry_content: |
     
-    birilerinin cok zoruna giden konusma . troller asagidaki görselli dagitip duruyorlar sürekli.  <br/><br/>diyor ki orda : "hükümeti elestir, eyvallah, erdogan'a öfkelen buna da tamam, mit'e kiz hakkin var, ulan bir iki cümle de teröristlere söyle pezevenk."<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/6nprX0.jpg" title="http://i.hizliresim.com/6nprX0.jpg">http://i.hizliresim.com/6nprx0.jpg</a><br/><a rel="nofollow" class="url" target="_blank" href="http://imgur.com/rC1RFPj" title="http://imgur.com/rC1RFPj">http://imgur.com/rc1rfpj</a><br/><br/>tabi bunu mal bulmus magribi gibi paylasip duran akp'liler düstükleri komik durumun fakinda bile degilller. güclüyken teroristle muhattap olunmaz diyor, bombayi yiyince "ama o da vurdu, ona bisey demiyorsun" diyor. <br/><br/>ulan adam terorist, isini yapiyor, kendini patlatiyor. devlet olan sensin, sen isini yapican, patlattirmayacaksin o bombayi. sonrada kendini böyle teroristle ayni kefeye koyup, kendini ona denk sayip , "ama ona da bisey söyle" diye aglamayacaksin. <br/><br/>gerci bu komik durumu anlayacak kafa olsa akp'li olmaz bunlar. oksijen israfi ibneler.
+    birilerinin cok zoruna giden konusma . troller asagidaki görselli dagitip duruyorlar sürekli.  <br/><br/>diyor ki orda : "hükümeti elestir, eyvallah, erdogan'a öfkelen buna da tamam, mit'e kiz hakkin var, ulan bir iki cümle de teröristlere söyle pezevenk."<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/6nprX0.jpg" title="http://i.hizliresim.com/6nprX0.jpg">http://i.hizliresim.com/6nprx0.jpg</a><br/><a rel="nofollow" class="url" target="_blank" href="http://imgur.com/rC1RFPj" title="http://imgur.com/rC1RFPj">http://imgur.com/rc1rfpj</a><br/><br/>tabi bunu mal bulmus magribi gibi paylasip duran akp'liler düstükleri komik durumun fakinda bile degilller. güclüyken teroristle muhattap olunmaz diyor, bombayi yiyince "ama o da vurdu, ona bisey demiyorsun" diyor. <br/><br/>ulan adam terorist, isini yapiyor, kendini patlatiyor. devlet olan sensin, sen isini yapican, patlattirmayacaksin o bombayi. sonrada kendini böyle teroristle ayni kefeye koyup, kendini ona denk sayip , "ama ona da bisey söyle" diye aglamayacaksin. <br/><br/>gerci bu komik durumu anlayacak kafa olsa akp'li olmaz bunlar. sirf oksijen israfi.<br/><br/>edit: hukuka uygun hale getirildi
    
   entry_writer: bardas skleros
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 61465131
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=%c3%a7ok+da+sikimdeydi">çok da sikimdeydi</a>)<br/><br/>sıçsalar haber niteliğinde olacak.
+    (bkz:  <a class="b" href="/?q=%c3%a7ok+da+sikimdeydi">çok da sikimdeydi</a>)<br/><br/>sıçsalar haber niteliğinde olacak.<br/><br/>d.e.: (bkz: <a class="b" href="/?q=28+haziran+2016+ataturk+havalimani+patlamasi">28 haziran 2016 ataturk havalimani patlamasi</a>)
    
   entry_writer: noluyoo lan burda
 - entry_name: |
@@ -127,7 +127,7 @@ data:
   entry_id: 61466314
   entry_content: |
     
-    anca mitinglerde veya kendisinden 10 yaş küçük kişilerin yarıştığı yerde  <sup class="ab"><a title="(bkz: supersport)" href="/?q=supersport" data-query="supersport">*</a></sup> artistlik yapan balon. amk git motogp'de valentino rossi jorge lorenzo vb. kişileri geçip türk bayrağını dalgalandır bi görelim bizde seni ayakta alkışlayalım. binali yıldırımın önünde bayrak açsan ne olur amk?<br/><br/>edit: tamam arkadaşlar anladık amk on defa aynı mesajı atmışsınız. biliyorum çok acı çekmiş allah sabır versin versin ama yazdığım konuyla ne alakası var amk. ben burada gördüğü gereksiz ilgiden bahsettim siz bana çektiği acıları mesaj atmışsınız.
+    anca mitinglerde veya kendisinden 10 yaş küçük kişilerin yarıştığı yerde  <sup class="ab"><a title="(bkz: supersport)" href="/?q=supersport" data-query="supersport">*</a></sup> artistlik yapan balon. git motogp'de valentino rossi jorge lorenzo vb. kişileri geçip türk bayrağını dalgalandır bi görelim bizde seni ayakta alkışlayalım. binali yıldırımın önünde bayrak açsan ne olur ?<br/><br/>edit: tamam arkadaşlar anladık on defa aynı mesajı atmışsınız. biliyorum çok acı çekmiş allah sabır versin ama yazdığım konuyla ne alakası var. ben burada gördüğü gereksiz ilgiden bahsettim siz bana çektiği acıları mesaj atmışsınız.
    
   entry_writer: viktor mancini
 - entry_name: |
@@ -162,14 +162,6 @@ data:
     (bkz:  <a class="b" href="/?q=sik">sik</a>)<br/><br/>uzunluğu kişiye göre değişebilir.
    
   entry_writer: radyasyondan kosarak kacan adamin oglu
-- entry_name: |
-    fuatavni
-  entry_id: 61461170
-  entry_content: |
-    
-    dün gece yazdıklarının 10'da biri doğruysa erdoğan ailesinin lahey'de yargılanması kesin gibi..<br/><br/>biz de uluslararası bir suç örgütü tarafından yönetiliyoruz demektir. <br/><br/>bu da gösteriyor ki memleket olarak bunlar daha iyi günlerimiz. <br/><br/>verdiğin oyla büyük oyunu bozduğun için teşekkürler, ilkokul mezunu cevat abi. orospu çocuğu cevat.
-   
-  entry_writer: spiritus sanctus
 - entry_name: |
     duanın hiçbir işe yaramaması
   entry_id: 61466398
@@ -207,7 +199,7 @@ data:
   entry_id: 61460157
   entry_content: |
     
-    tamam sen  <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=HJctFUMLQ_Y" title="https://www.youtube.com/watch?v=HJctFUMLQ_Y">şununla</a> başla.
+    tamam sen  <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=HJctFUMLQ_Y" title="https://www.youtube.com/watch?v=HJctFUMLQ_Y">şununla</a> başla.<br/><br/>debe edit: arap sevicilere ve satın aldıkları ak-itlere inat<br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=PJp583V_uvk" title="https://m.youtube.com/watch?v=PJp583V_uvk">saygıyla, özlemle</a>
    
   entry_writer: scorpion10
 - entry_name: |
@@ -223,8 +215,8 @@ data:
   entry_id: 61475892
   entry_content: |
     
-    köprünün açılış gününe denk getirilerek mühendislik harikamıza gölge düşürmek isteyen dış güçlerin oyunu olan durum. ayrıca juno nun gittiğini gören yok belki jüpiter ona geldi.
-    
+    köprünün açılış gününe denk getirilerek mühendislik harikamıza gölge düşürmek isteyen dış güçlerin oyunu olan durum. ayrıca juno nun gittiğini gören yok belki jüpiter ona geldi..<br/>debe editi: atatürk havalimanı patlaması sonrasında köprü açılışında sevinçten göbek atanları hayatınız boyunca unutmayın.
+   
   entry_writer: mdmbvry
 - entry_name: |
     rusça whatsapp grubu
@@ -295,7 +287,7 @@ data:
   entry_id: 61468112
   entry_content: |
     
-     <a class="b" href="/?q=a+haber">a haber</a>'in yaklaşık 1.5 saattir kesintisiz haber olarak geçtiği olay. ulan iki gün önceki <a class="b" href="/?q=atat%c3%bcrk+havaliman%c4%b1+patlamas%c4%b1">atatürk havalimanı patlaması</a>nı bu kadar göstermediniz şerefsizler.<br/><br/>işinize geliyor tabii. ''bakın sadece bizim başımıza gelmiyor'' diye abarttıkça abarttınız
+     <a class="b" href="/?q=a+haber">a haber</a>'in yaklaşık 1.5 saattir kesintisiz haber olarak geçtiği olay. iki gün önceki <a class="b" href="/?q=atat%c3%bcrk+havaliman%c4%b1+patlamas%c4%b1">atatürk havalimanı patlaması</a>nı bu kadar göstermediniz be!<br/><br/>işinize geliyor tabii. ''bakın sadece bizim başımıza gelmiyor'' diye abarttıkça abarttınız<br/><br/>edit: <a class="b" href="/?q=hukuka+ayk%c4%b1r%c4%b1k">hukuka aykırık</a> ile ilgili düzenleme talebi gelmiştir efem. :(
    
   entry_writer: remineralizasyon
 - entry_name: |
