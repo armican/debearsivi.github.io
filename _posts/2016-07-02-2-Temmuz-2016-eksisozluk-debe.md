@@ -11,14 +11,6 @@ data:
    
   entry_writer: larker
 - entry_name: |
-    ramazanda açık alanda yemek içmek yasaklanmalı
-  entry_id: 61484104
-  entry_content: |
-    
-    caipirinha misket limonu, esmer şeker, cachaça ve kırılmış buz ile yapılan brezilya kökenli alkollü bir içecektir. içkinin kendine özgü güney amerika'da üretilen özel dizaynlı bardakları vardır fakat türkiye'de genelde çok benzediği için köşeli su bardağı ile servis yapılır..<br/><br/>"caipirinha" ismi brezilya-portekizcesindeki caipira kelimesinden türetilmiştir. anlamı "küçük köylü kızı"dır. çok popüler ve dünyaca tanınan bu içecek, kısaca 'caipi' olarak da bilinir.<br/><br/>yapılışı:<br/>misket limonu ufak parçalara kesilir. bardağın içinde esmer şeker ile suyunu bırakıncaya kadar ezilir. üzerine bardağı dolduracak şekilde kırık buzlar koyulur. bir çeşit rom olan cachaca ilave edilir. bir kaşık yardımıyla karıştırılır, tekrar buz eklenir ve servis edilir.
-   
-  entry_writer: coen
-- entry_name: |
     kenan oğlum bizi çıldırtma ya
   entry_id: 61480424
   entry_content: |
@@ -79,7 +71,7 @@ data:
   entry_id: 61488001
   entry_content: |
     
-     <a rel="nofollow" class="url" target="_blank" href="https://media.giphy.com/media/xT8qBdVAVmB0sDtGIE/giphy.gif" title="https://media.giphy.com/media/xT8qBdVAVmB0sDtGIE/giphy.gif">https://media.giphy.com/…8qbdvavmb0sdtgie/giphy.gif</a><br/><br/><a class="b" href="/?q=edit">edit</a>: link düzeltildi.<br/><br/><a class="b" href="/?q=edit+2">edit 2</a>: hazırladığım gif sosyal medya'da çarşı'nın facebook sayfası dahil pek çok yerde paylaşıldı. bu kadar beğenileceğini tahmin etmediğim için gif'e bana ait olduğuna dair bir ifade koymayı düşünmemiştim. copy paste, alıntı veya çalıntı değil alın teridir. bu bilinsin yeter. saygılarımla.
+     <a rel="nofollow" class="url" target="_blank" href="https://media.giphy.com/media/xT8qBdVAVmB0sDtGIE/giphy.gif" title="https://media.giphy.com/media/xT8qBdVAVmB0sDtGIE/giphy.gif">https://media.giphy.com/…8qbdvavmb0sdtgie/giphy.gif</a><br/><br/><a class="b" href="/?q=edit">edit</a>: link düzeltildi.<br/><br/><a class="b" href="/?q=edit+2">edit 2</a>: hazırladığım gif sosyal medya'da çarşı'nın facebook sayfası dahil pek çok yerde paylaşıldı. bu kadar beğenileceğini tahmin etmediğim için gif'e bana ait olduğuna dair bir ifade koymayı düşünmemiştim. copy paste, alıntı veya çalıntı değil alın teridir. bu bilinsin yeter. saygılarımla.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: (bkz: <a class="b" href="/?q=30+bin+lira+irem%27i+fel%c3%a7ten+kurtaracak">30 bin lira irem'i felçten kurtaracak</a>)
    
   entry_writer: mavi topolino
 - entry_name: |
@@ -87,7 +79,7 @@ data:
   entry_id: 61480455
   entry_content: |
     
-    memleketin halini beğenmeyip, sabah gazetesinde yazmayı sürdürecek kadar olurlu bir insandır ve bu da o'nun yazısıdır.
+    memleketin halini beğenmeyip, sabah gazetesinde yazmayı sürdürecek kadar onurlu bir insandır ve bu da o'nun yazısıdır.
     
   entry_writer: bulunmaz hint kumasi
 - entry_name: |
@@ -167,7 +159,7 @@ data:
   entry_id: 61481412
   entry_content: |
     
-    bu mevsim onların eş seçimi ve yuva yeri belirleme mevsimidir. seçilmiş bölge ve eşin korunması için yaklaşık 1 ya da 2 ay daha bu gavgav sesleri devam edecek..<br/><br/>martı sever ve martı besler bir yazar.
+    bu mevsim onların eş seçimi ve yuva yeri belirleme mevsimidir. seçilmiş bölge ve eşin korunması için yaklaşık 1 ya da 2 ay daha bu gavgav sesleri devam edecek..<br/><br/>martı sever ve martı besler bir yazar.<br/><br/>edit: hayvan zikri mikri de nedir arkadaş, neyin kafasını yaşıyorsunuz anlamakta zorlanıyoruz yani. tey allahım ya.<br/>karışmayın martıların sosyal hayatına .
    
   entry_writer: apartopar
 - entry_name: |
@@ -219,14 +211,6 @@ data:
    
   entry_writer: powerofattorney
 - entry_name: |
-    sigara içen insan zekası
-  entry_id: 61495720
-  entry_content: |
-    
-     <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/1dBMv5.jpg" title="http://i.hizliresim.com/1dBMv5.jpg">einstein</a><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/CMjRaI4UEAADJF7.png" title="https://pbs.twimg.com/media/CMjRaI4UEAADJF7.png">richard feynman</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.smokersassociation.org/system/files/images/edwin_powell_hubble_3.preview.jpg" title="https://www.smokersassociation.org/system/files/images/edwin_powell_hubble_3.preview.jpg">edwin hubble</a><br/><a rel="nofollow" class="url" target="_blank" href="https://onionesquereality.files.wordpress.com/2009/02/j-robert-oppenheimer.jpg" title="https://onionesquereality.files.wordpress.com/2009/02/j-robert-oppenheimer.jpg">j robert oppenheimer</a><br/><a rel="nofollow" class="url" target="_blank" href="http://ic.pics.livejournal.com/frank_davis/20725493/16167/16167_original.jpg" title="http://ic.pics.livejournal.com/frank_davis/20725493/16167/16167_original.jpg">erwin schrödinger</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/r9pZ1B.jpg" title="http://i.hizliresim.com/r9pZ1B.jpg">niels bohr</a> <br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/5VXMqq.jpg" title="http://i.hizliresim.com/5VXMqq.jpg">sigmund freud</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/r9pZDm.jpg" title="http://i.hizliresim.com/r9pZDm.jpg">bertrand russell</a><br/><a rel="nofollow" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/564x/68/e9/d8/68e9d8bedb86348dc4b73e227646dfe4.jpg" title="https://s-media-cache-ak0.pinimg.com/564x/68/e9/d8/68e9d8bedb86348dc4b73e227646dfe4.jpg">jacques cousteau</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/7vdgb5.jpg" title="http://i.hizliresim.com/7vdgb5.jpg">george orwell</a><br/><a rel="nofollow" class="url" target="_blank" href="https://flavorwire.files.wordpress.com/2016/01/j-r-r-tolkien.jpg" title="https://flavorwire.files.wordpress.com/2016/01/j-r-r-tolkien.jpg">j r r tolkien</a><br/><a rel="nofollow" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/736x/4e/1d/5e/4e1d5e36b405367fb73b8e1e35b59f23.jpg" title="https://s-media-cache-ak0.pinimg.com/736x/4e/1d/5e/4e1d5e36b405367fb73b8e1e35b59f23.jpg">buzz aldrin</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/3oMLv9.jpg" title="http://i.hizliresim.com/3oMLv9.jpg">wolfgang pauli</a><br/><a rel="nofollow" class="url" target="_blank" href="https://pbs.twimg.com/media/BmRBCmiIUAEISws.jpg" title="https://pbs.twimg.com/media/BmRBCmiIUAEISws.jpg">salvador dali</a><br/><a class="b" href="/?q=leonardo+da+vinci">leonardo da vinci</a> (fotoğraf'ı elbette yok, ama bu adamın tüttürmediği madde yoktur. bilen bilir.)<br/><br/>not: sigara içmiyorum
-   
-  entry_writer: rolandmicrocube
-- entry_name: |
     pyd'nin özerklik ilan etmesi
   entry_id: 61495777
   entry_content: |
@@ -255,7 +239,7 @@ data:
   entry_id: 61480007
   entry_content: |
     
-    zlatan'ın manchester united transferini açıkladığı gün, galatasaray da manu ile hazırlık maçı yapacağını duyurdu.  <br/><br/>zlatan'ı getiremez diye dursun başkanla dalga geçenler şimdi entry silme yarışında.
+    zlatan'ın manchester united transferini açıkladığı gün, galatasaray da manu ile hazırlık maçı yapacağını duyurdu.  <br/><br/>zlatan'ı getiremez diye dursun başkanla dalga geçenler şimdi entry silme yarışında.<br/><br/>edit: maç göteborg'da oynanıyormuş, yani zlatan gelmiyor galatasaray zlatan'a gidiyor, aşkolsun dursun başkan :(
    
   entry_writer: harry potter
 - entry_name: |
