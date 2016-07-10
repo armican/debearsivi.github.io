@@ -71,7 +71,7 @@ data:
   entry_id: 61623892
   entry_content: |
     
-    vatandaşlığı alan suriyelilerin özel bir sınav ile, bizim gibi kpss ile değil, memur olması durumudur. öyle alt da değil, direkt mühendis, doktor, öğretmen oluyorlar. derdinizi arapça anlatırsınız artık. ahahha. boku yedik.  <br/><br/>kaynak <a rel="nofollow" class="url" target="_blank" href="http://iskurumu.com/mortgage-vatandaslik-verilen-suriyeliler-memur-olabilecek/" title="http://iskurumu.com/mortgage-vatandaslik-verilen-suriyeliler-memur-olabilecek/">şurası.</a><br/><br/>ve ayrıca zamanında ahıska türkleri için bülent arınç'ın söylediği <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/erkan_karaarsln/status/751344324592406528" title="https://twitter.com/erkan_karaarsln/status/751344324592406528">sözler.</a>
+    suriyelilerin özel bir sınav ile, bizim gibi kpss ile değil, memur olabilme durumudur. öyle alt da değil, direkt mühendis, doktor, öğretmen oluyorlar. derdinizi arapça anlatırsınız artık. ahahha. boku yedik.  <br/><br/>kaynak <a rel="nofollow" class="url" target="_blank" href="http://iskurumu.com/mortgage-vatandaslik-verilen-suriyeliler-memur-olabilecek/" title="http://iskurumu.com/mortgage-vatandaslik-verilen-suriyeliler-memur-olabilecek/">şurası.</a><br/><br/>ve ayrıca zamanında ahıska türkleri için bülent arınç'ın söylediği <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/erkan_karaarsln/status/751344324592406528" title="https://twitter.com/erkan_karaarsln/status/751344324592406528">sözler.</a><br/><br/>ayrıca:<br/>(bkz: <a class="b" href="/?q=suriyeli+doktorlardan+denklik+istenmemesi">suriyeli doktorlardan denklik istenmemesi</a>)<br/><br/>(bkz: <a class="b" href="/?q=suriye%27den+doktor+ithal+etmek">suriye'den doktor ithal etmek</a>)
    
   entry_writer: yahudi marmontel
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 61627018
   entry_content: |
     
-    bulgar bakan sigara paketini imzalayarak  <a class="b" href="/?q=thug+life">thug life</a> yapmış
+    bulgar bakan sigara paketini imzalayarak  <a class="b" href="/?q=thug+life">thug life</a> yapmış.<br/><br/>debe editi: <a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=rvDKTRgoSS8" title="https://m.youtube.com/watch?v=rvDKTRgoSS8">para kullanılmayan dünya</a><br/>türkçesini bulamadım, izlemenizi tavsiye ederim.
    
   entry_writer: superdem
 - entry_name: |
@@ -191,8 +191,8 @@ data:
   entry_id: 61623333
   entry_content: |
     
-    keşke cumhurbaşkanıyken bu ülkeyi 2. dünya savaşı'na soksaydım.
-    
+    keşke cumhurbaşkanıyken bu ülkeyi 2. dünya savaşı'na soksaydım..<br/><br/>debe edit: 1. dünya savaşı'nı tecrübe etmiş, savaşın ne kadar vahşi olduğunu bilen inönü'nün 2. dünya savaşı sırasındaki güzel bir anısı; birgün yolda ilerlerken bir kız çocuğu korumalardan sıyrılıp haykırmaya başlar; "bizi ekmeksiz bıraktın!" inönü’nün verdiği cevap ilginçtir; "ama babasız bırakmadım."
+   
   entry_writer: sigara kibrit
 - entry_name: |
     8-9 temmuz 2016 ekşi sözlük yurtdışı sıçışı
@@ -242,14 +242,6 @@ data:
      <a class="b" href="/?q=tripadvisor">tripadvisor</a> en iyi oteller listesinde esamesi bile okunmayan turizmcilerin itfaiyeyi gereksiz yere meşgul etmelerinden öte değildir. su vermeye bile değmez bu sektör. açayım:<br/><br/>sikik britanya otelleri, yunanistan'daki sıradan görünüşlü bir otel bile tripadvisor listelerinde ilk on sıraya girebiliyor da, cennet gibi koylarda, turkuaz renginde denize karşı konumlanmış milyonluk "otellerimiz" bu listelerde yer alamıyorsa, sorunu biraz kendinde arayacaksın. tripadvisor listesinde üst sıralarda yer alan otellerin istisnasız bütün yorumlarında personele övgü yağıyor. bakın adam kamboçya'ya gitmiş, otelin personelini övüyor. hindistan'a elli tane aşı vurulup gitmiş, ama adam öyle memnun kalmış ki, otel akına uğramış, listeye girmiş. altını çizerek yineleyeyim, en temel memnuniyet, personelin nezaketi ve işinin ehli olmasından kaynaklı. tabiat, konum, yemek sonra geliyor. insanoğlu güleryüz istiyor arkadaş. gittiği yerde fark edilmek, insanca muamele görmek istiyor. bakın bütün dinlerde selamlaşmak teşvik edilir. sebebi ne biliyor musunuz? insanoğlu görmezden gelindiği an mutsuz oluyor. aldığım bi eğitimde, psikoloji profesörü anlatmıştı. varlığının farkına varılmasını istiyor insan. bi ortama girdiğinizde güleryüzle selam verdiğinizde ve aksine selamsız hırçın bir tavırla geldiğinizde ortamın aurasını tahayyül edin. ortam ne denli değişiyor di mi? <br/><br/>peki bizim çomarlar ne yapıyor? ya turisti taciz ediyor ya da hiç yüzüne bakmıyor. arası yok aga. şu muameleyi kediye yapsan, o kedi bi daha yüzüne bakmaz, seni gördüğünde kaçar. insan neden gelsin? tabiat güzel, eyvallah, ama içini bok götürüyor. nbc'nin <a class="b" href="/?q=k%c4%b1%c5%9f+uykusu">kış uykusu</a> filminde estetikle ilgili bir diyalog vardı. zeytini sofraya koymanın bile adabını sorgulayan eskilerle, şimdiki estetik yoksunluğunu tartışıyorlardı ve estetiğin maddiyatla ilgisi olmadığına bağlıyorlardı. türkiye'deki ahlaksızlığın, estetik yoksunluğunun, toplumsal sevgi ve saygının giderek yok olmasını da bu bağlamda değerlendirmek lazım. vay efendim turizmci ağır ekonomik yük altındaymış, zor sektörmüş falan filan. bunları geçiniz. insanoğlunu köleleştiren bu sistemin en büyük gaz alma metodu turizm. ve bu sektörün tek olayı, kölelerin yıllık tatillerinde yaşadıkları köle hayatını bir iki haftalığına unutup mutlu olmaları, seratonin salgılamaları. sen bırak geleni mutlu etmeyi, mutlu geleni de bezdirip evine gönderiyorsan, s.v.i.h.s.
    
   entry_writer: piirsikli
-- entry_name: |
-    suriyeli sığınmacılar
-  entry_id: 61625382
-  entry_content: |
-    
-    bunlara "sığınmacı:(" gibi bilinç altına acziyet konsepti işleyen kelime seçmeyelim, kullanmayalım..<br/><br/>suriyeli kaçaklar olur, işgalciler olur, vatan kavramını idrak edemeden vatandaş olmaya kalkanlar olur, işine eşine ortak olanlar olur, sınırı geçer geçmez üreyenler olur, hatta dark walkers olur seçin deyin ama "sığınmacı:(" demeyin.<br/><br/>(bkz: <a class="b" href="/?q=suriyelilere+vatanda%c5%9fl%c4%b1k+veren+vatan+hainleri">suriyelilere vatandaşlık veren vatan hainleri</a>)<br/><br/>kadınlarını hamile bıraka bıraka sokakta dilendirir veyahut pazarlarken kendileri plajdan plaja akan türkçe konuşmaya tenezzül etmeyen, hesap ödenecekken "tayyip erdoğan'ın misafiriyim" diyerek kalkıp giden organizma sürüleridir.<br/><br/>insan kelimesi kendilerine lükstür.<br/>gelsin eksiler. biri söylemeliydi.
-   
-  entry_writer: nuhun gemisinde asure tarifi alan hayvan
 - entry_name: |
     rte'nin messi ile sahaya çıkması
   entry_id: 61632591
@@ -339,14 +331,6 @@ data:
    
   entry_writer: 30luk
 - entry_name: |
-    florya plajı'ndaki suriyeli çomarlar
-  entry_id: 61620951
-  entry_content: |
-    
-    hepsinin amına koyayım, bana ırkçı diyeni de bu siktiğimin suriyelileri siksin.
-    
-  entry_writer: tumniklerialdinizmilann
-- entry_name: |
     gürcistan
   entry_id: 61627215
   entry_content: |
@@ -367,7 +351,7 @@ data:
   entry_id: 61636062
   entry_content: |
     
-    evet, 8 temmuz 2016 itibariyle 18 yas alti cocuklarin, ailesinin izni bile olsa evlenmesi/evlendirilmesi kanunen yasaklanarak, olasi 20 yil hapis cezasi getirilmistir..<br/><br/>durun, islamik comarlar, korkmayin, turkiye'de degil, gambiya ve tanzanya'da yasaklanmis. <a rel="nofollow" class="url" target="_blank" href="http://www.bbc.com/news/world-africa-36746174" title="http://www.bbc.com/news/world-africa-36746174">haber linki</a><br/>siz 10 yasindaki suriyeli cocuklarla evlenmeye devam edebilirsiniz.<br/><br/>bir an cok korktun, itiraf et.
+    evet, 8 temmuz 2016 itibariyle 18 yas alti cocuklarin, ailesinin izni bile olsa evlenmesi/evlendirilmesi kanunen yasaklanarak, olasi 20 yil hapis cezasi getirilmistir..<br/><br/>durun, islamik comarlar, korkmayin, turkiye'de degil, gambiya ve tanzanya'da yasaklanmis. <a rel="nofollow" class="url" target="_blank" href="http://www.bbc.com/news/world-africa-36746174" title="http://www.bbc.com/news/world-africa-36746174">haber linki</a><br/>siz 10 yasindaki suriyeli cocuklarla olmaya devam edebilirsiniz.<br/><br/>bir an cok korktun, itiraf et.
    
   entry_writer: comlek kirildi
 - entry_name: |
@@ -379,7 +363,7 @@ data:
    
   entry_writer: high over and over
 - entry_name: |
-    engelllilerin ailelerinden alınması
+    engellilerin ailelerinden alınması
   entry_id: 61625325
   entry_content: |
     
