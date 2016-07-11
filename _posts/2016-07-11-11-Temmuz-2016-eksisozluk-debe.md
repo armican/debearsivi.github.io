@@ -7,7 +7,7 @@ data:
   entry_id: 61643455
   entry_content: |
     
-    başlığın aslı 10 temmuz 2016  <a class="b" href="/?q=pokemon+go">pokemon go</a> yüzünden göz altına alınmam olacaktı ama sığmadı.<br/><br/>edit: <a rel="nofollow" class="url" target="_blank" href="http://www.bilemezsin.com/pokemon-go-yuzunden-birisi-gozaltina-alinir--915" title="http://www.bilemezsin.com/pokemon-go-yuzunden-birisi-gozaltina-alinir--915">bahse konu olmuşuz</a><br/><br/>anasını satayım biliyordum başıma böyle bir şey geleceğinin. bu pokemon go olayı çıktığından beri arma 3 yapımcılarının araştırma sırasında yunanistan'da hapse girmesi geliyor aklıma, başa gelir diyordum, geldi.<br/><br/>sabah nişantaşı the house cafe'de bir arkadaşım ile buluşalım diye anlaştık. ne zamandır görüşmüyorduk, bir kahvaltı ettik. laf lafı açtı, o da eski gamerlardan. ikimiz de yaşını almış adam olunca işler bu noktaya gelmez diye düşünüyordum ama o da pokemon go hype'ını bolca almış. de hadi pokemon kovalayak dedim. biri öğretmen, biri mühendis iki koca adam. çıktık yola, pokestopmuş, çarizardmış kovalıyoruz. mnskiim.<br/><br/>önümüzdeki gym'i ele geçirmek için elimdeki pokemonlardan birinin tek bir evolve daha görmesi lazım. onun için de yeterli candym yok. profesöre fazlalık pokemonları gönderdim ama yine yetmedi. pokestop bulalım da yeterli candy olursa şu gym'i alalım dedik. pokestop olarak da şişli ilçe emniyet çocuk büro amirliğini gösteriyor.<br/><br/>ulan sıkıntı olur mu vs. derken, çocuk büro amirliği, koca adamı alacak değiller diye bir espri geldi. kafamı sikeyim ki ben de dalgınlıkla bu espriyi ciddiye aldım. gittim emniyetin önüne doğru. pokestop alanına girdim. baktım candy yok, tam çıkıcam, amına koduğumun zubat'ı spawn oldu önümde. önümde dediysem karakolun önünde nöbet duran polisin dibinde.<br/><br/>yunus idi, hızır idi, yunus idi, hızır idi derken, sessizce yanaşıp kamerayı açtım. poketopu atıyorum, tutmuyo, atıyorum tutmuyo, derken koluma görüş hizamda olmayan bir polis girdi. girdiği gibi de beni sert bir hışımla içeri götürdü.<br/><br/>güler misin ağlar mısınlı bölüm burada başlıyor. 15 dakika, bir art niyetimin olmadığını, aslında fotoğraf çekmediğimi, karakolun üstünde uçan yarasa tipi bir pokemonu avlamaya çalıştığımı anlattım üç polise. ısrarla çektiğin fotoğraflar nerede diyorlar, yahu fotoğraf yok, pokemon var diyeceğim, diyemiyorum... diyemedikçe daha da üstüme geliyorlar.<br/><br/>zar zor kurtardım paçayı ama hala son anda tam ikna olmuş değillerdi.<br/><br/>nintendosunu da pokemonunu da pikaçusunu da götünden sikeyim. sikeyim yapacağınız oyunu.
+    başlığın aslı 10 temmuz 2016  <a class="b" href="/?q=pokemon+go">pokemon go</a> yüzünden göz altına alınmam olacaktı ama sığmadı.<br/><br/>anasını satayım biliyordum başıma böyle bir şey geleceğinin. bu pokemon go olayı çıktığından beri arma 3 yapımcılarının araştırma sırasında yunanistan'da hapse girmesi geliyor aklıma, başa gelir diyordum, geldi.<br/><br/>sabah nişantaşı the house cafe'de bir arkadaşım ile buluşalım diye anlaştık. ne zamandır görüşmüyorduk, bir kahvaltı ettik. laf lafı açtı, o da eski gamerlardan. ikimiz de yaşını almış adam olunca işler bu noktaya gelmez diye düşünüyordum ama o da pokemon go hype'ını bolca almış. de hadi pokemon kovalayak dedim. biri öğretmen, biri mühendis iki koca adam. çıktık yola, pokestopmuş, çarizardmış kovalıyoruz. mnskiim.<br/><br/>önümüzdeki gym'i ele geçirmek için elimdeki pokemonlardan birinin tek bir evolve daha görmesi lazım. onun için de yeterli candym yok. profesöre fazlalık pokemonları gönderdim ama yine yetmedi. pokestop bulalım da yeterli candy olursa şu gym'i alalım dedik. pokestop olarak da şişli ilçe emniyet çocuk büro amirliğini gösteriyor.<br/><br/>ulan sıkıntı olur mu vs. derken, çocuk büro amirliği, koca adamı alacak değiller diye bir espri geldi. kafamı sikeyim ki ben de dalgınlıkla bu espriyi ciddiye aldım. gittim emniyetin önüne doğru. pokestop alanına girdim. baktım candy yok, tam çıkıcam, amına koduğumun zubat'ı spawn oldu önümde. önümde dediysem karakolun önünde nöbet duran polisin dibinde.<br/><br/>yunus idi, hızır idi, yunus idi, hızır idi derken, sessizce yanaşıp kamerayı açtım. poketopu atıyorum, tutmuyo, atıyorum tutmuyo, derken koluma görüş hizamda olmayan bir polis girdi. girdiği gibi de beni sert bir hışımla içeri götürdü.<br/><br/>güler misin ağlar mısınlı bölüm burada başlıyor. 15 dakika, bir art niyetimin olmadığını, aslında fotoğraf çekmediğimi, karakolun üstünde uçan yarasa tipi bir pokemonu avlamaya çalıştığımı anlattım üç polise. ısrarla çektiğin fotoğraflar nerede diyorlar, yahu fotoğraf yok, pokemon var diyeceğim, diyemiyorum... diyemedikçe daha da üstüme geliyorlar.<br/><br/>zar zor kurtardım paçayı ama hala son anda tam ikna olmuş değillerdi.<br/><br/>nintendosunu da pokemonunu da pikaçusunu da götünden sikeyim. sikeyim yapacağınız oyunu.
    
   entry_writer: zasch
 - entry_name: |
@@ -67,14 +67,6 @@ data:
    
   entry_writer: bkwlbkwl
 - entry_name: |
-    laik azınlık defolup gitmeli
-  entry_id: 61644824
-  entry_content: |
-    
-    tipik ortadoğu'lu siyasal islamcı kafası..<br/><br/>kurtuluş savaşında cepheden kaçanların torunları, nankör vatan hainleri, arap götü yalayıcıları.<br/><br/>(bkz: <a class="b" href="/?q=bu+arada+yusuf+kaplan+kim+amk">bu arada yusuf kaplan kim amk</a>)
-   
-  entry_writer: apartopar
-- entry_name: |
     10 temmuz 2016 portekiz fransa maçı
   entry_id: 61648284
   entry_content: |
@@ -95,7 +87,7 @@ data:
   entry_id: 61639566
   entry_content: |
     
-    öldürülen arkadaşlarının intikamını alan boğanın boynuzunu göğsüne sapladığı matador. gorilin yaşam alanına çocuk düşer öldürürsünüz. bir kutup ayısını 30 yıl hapsedersiniz sonunda delirir. zevk için, eğlence ve gösteri için boğaları katledip durursunuz. vs. vs. sabah haberlerde görünce nedense üzülemedim. umarım bu ilkel gösterinin yeniden tartışılması için bir zemin oluşturur bu olay. tabi boğanın da şimdi sucuk olduğunu kestirememek eblehlik olur..<br/><br/>(bkz: <a class="b" href="/?q=ebleh">ebleh</a>)
+    öldürülen arkadaşlarının intikamını alan boğa. gorilin yaşam alanına çocuk düşer öldürürsünüz. bir kutup ayısını 30 yıl hapsedersiniz sonunda delirir. zevk için, eğlence ve gösteri için boğaları katledip durursunuz. vs. vs. sabah haberlerde görünce nedense üzülemedim. umarım bu ilkel gösterinin yeniden tartışılması için bir zemin oluşturur bu olay. tabi boğanın da şimdi sucuk olduğunu kestirememek eblehlik olur..<br/><br/>(bkz: <a class="b" href="/?q=ebleh">ebleh</a>)<br/><br/>edit: imla.
    
   entry_writer: hilkat garibesi ruh
 - entry_name: |
@@ -111,8 +103,8 @@ data:
   entry_id: 61647952
   entry_content: |
     
-    istediği kadar iyi olsun, gözümde bitmiş karaktersiz futbolcu. daha ilk dakikada c.ronaldo'ya dalarak futbol kasaplığı yapmıştır. o pozisyona faul vermeyen hakeme de yazıklar olsun.
-    
+    istediği kadar iyi olsun, gözümde bitmiş karaktersiz futbolcu. daha ilk dakikada c.ronaldo'ya dalarak futbol kasaplığı yapmıştır. o pozisyona faul vermeyen hakeme de yazıklar olsun..<br/><br/><a class="b" href="/?q=debe">debe</a> editi: gör bunu payet gör.
+   
   entry_writer: abi enikonu icecegiz
 - entry_name: |
     bu sevabı kaçırmayın
@@ -135,7 +127,7 @@ data:
   entry_id: 61643123
   entry_content: |
     
-    yüksek müsadenizle ben başlıyorum::<br/><br/><a class="b" href="/?q=slime+ne+amk%3f">slime ne amk?</a> bizim türk milleti neden slime'a sarmış? noluyor lan?
+    yüksek müsadenizle ben başlıyorum::<br/><br/><a class="b" href="/?q=slime+ne+amk%3f">slime ne amk?</a> bizim türk milleti neden slime'a sarmış? noluyor lan?<br/><br/><a class="b" href="/?q=debedit">debedit</a>: tekrar ediyorum: <a class="b" href="/?q=slime+ne+amk%3f">slime ne amk?</a>
    
   entry_writer: kfk
 - entry_name: |
@@ -191,7 +183,7 @@ data:
   entry_id: 61646899
   entry_content: |
     
-    dindarın şunlardan birini söylemesiyle noktalanacaktır::<br/><br/>- neyse kardeş, sen komple kapatmışın zaten kalbini. sana anlatacak bir şey yok, allah ıslah etsin.<br/>- neyse kardeş, allah seni de böyle yaratmış demek ki. ölmeden önce imana gelmeyi nasip etsin inşallah.<br/>- senin ananı avradını s*kerim oros*u çocuğu! inanmıyorsan da saygı duyacaksın şerefsiz!
+    dincinin şunlardan birini söylemesiyle noktalanacaktır::<br/><br/>- neyse kardeş, sen komple kapatmışın zaten kalbini. sana anlatacak bir şey yok, allah ıslah etsin.<br/>- neyse kardeş, allah seni de böyle yaratmış demek ki. ölmeden önce imana gelmeyi nasip etsin inşallah.<br/>- senin ananı avradını s*kerim oros*u çocuğu! inanmıyorsan da saygı duyacaksın şerefsiz!
    
   entry_writer: kibariye nin annesi
 - entry_name: |
@@ -303,7 +295,7 @@ data:
   entry_id: 61643896
   entry_content: |
     
-    içlerinden birinin "benim kocam beni aldatacak, üstüne bir de o kadından çocuk yapacak, ben onunla evli kalmaya devam edeceğim ve sonra asil, gelinliği hak eden, hanımefendi vs vs vs olarak anılacağım. vay arkadaş!.." diye düşündürten iki kadın arasında yapılan bir kıyaslama. öbür kadını onaylayarak yazmadım. ikisini de yolda görsem tanımam...
+    içlerinden biri "benim kocam beni aldatacak, üstüne bir de o kadından çocuk yapacak, ben onunla evli kalmaya devam edeceğim ve sonra asil, gelinliği hak eden, hanımefendi vs vs vs olarak anılacağım. vay arkadaş!.." diye düşündürten iki kadın arasında yapılan bir kıyaslama. öbür kadını onaylayarak yazmadım. ikisini de yolda görsem tanımam...
     
   entry_writer: orange blossom
 - entry_name: |
@@ -311,8 +303,8 @@ data:
   entry_id: 61649956
   entry_content: |
     
-    yeni bir bug çıktı tam pokemonu yakalıyorum poke topuna giriyor oyun orda kalıyor arkadaş var mı benimle aynı anıya ortak olan.
-    
+    yeni bir bug çıktı tam pokemonu yakalıyorum poke topuna giriyor oyun orda kalıyor arkadaş var mı benimle aynı anıya ortak olan..<br/><br/>edit: evet varmış.
+   
   entry_writer: falkee
 - entry_name: |
     8 kasım 2016 abd başkanlık seçimleri
