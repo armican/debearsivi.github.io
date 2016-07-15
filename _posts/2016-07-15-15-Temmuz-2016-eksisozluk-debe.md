@@ -7,11 +7,11 @@ data:
   entry_id: 61712084
   entry_content: |
     
-    "tarafsız bir muhtar olarak, partili cumhurbaşkanının davetine katılmam tarafsızlığımı tartışılır hale getirir" diyerek daveti geri çeviren; trabzon’un vakfıkebir ilçesi çarşı mahallesi muhtarı  <a class="b" href="/?q=g%c3%b6khan+bahad%c4%b1r">gökhan bahadır</a>'dır..<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.diken.com.tr/erdogani-reddeden-ilk-muhtar-tarafsiz-bir-muhtar-olarak-partili-cumhurbaskaninin-davetine-gidemem/" title="http://www.diken.com.tr/erdogani-reddeden-ilk-muhtar-tarafsiz-bir-muhtar-olarak-partili-cumhurbaskaninin-davetine-gidemem/">http://www.diken.com.tr/…skaninin-davetine-gidemem/</a><br/><br/>cumhurbaşkanının davetini reddetmiş..<br/>hem de trabzon'da..<br/>(bkz: <a class="b" href="/?q=braveheart">braveheart</a>)<br/><br/>bu haberden sonra başına bir iş gelmemesi umuduyla; tebriklerimi ve desteğimi iletiyorum kendisine..<br/>darısı bizim mahallenin muhtarının başına.
+    "tarafsız bir muhtar olarak, partili cumhurbaşkanının davetine katılmam tarafsızlığımı tartışılır hale getirir" diyerek daveti geri çeviren; trabzon’un vakfıkebir ilçesi çarşı mahallesi muhtarı  <a class="b" href="/?q=g%c3%b6khan+bahad%c4%b1r">gökhan bahadır</a>'dır..<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.diken.com.tr/erdogani-reddeden-ilk-muhtar-tarafsiz-bir-muhtar-olarak-partili-cumhurbaskaninin-davetine-gidemem/" title="http://www.diken.com.tr/erdogani-reddeden-ilk-muhtar-tarafsiz-bir-muhtar-olarak-partili-cumhurbaskaninin-davetine-gidemem/">http://www.diken.com.tr/…skaninin-davetine-gidemem/</a><br/><br/>cumhurbaşkanının davetini reddetmiş..<br/>hem de trabzon'da..<br/>(bkz: <a class="b" href="/?q=braveheart">braveheart</a>)<br/><br/>bu haberden sonra başına bir iş gelmemesi umuduyla; tebriklerimi ve desteğimi iletiyorum kendisine..<br/>darısı bizim mahallenin muhtarının başına.<br/><br/>debe editi1: (bkz: <a class="b" href="/?q=kumru+konak%27a+yard%c4%b1m+edelim">kumru konak'a yardım edelim</a>)<br/>debe editi2: (bkz: <a class="b" href="/?q=3+ya%c5%9f%c4%b1ndaki+deniz%27in+akci%c4%9fer+nakli+icin+yard%c4%b1m">3 yaşındaki deniz'in akciğer nakli icin yardım</a>)
    
   entry_writer: umut kaan
 - entry_name: |
-    havuza haşema ile gelen hanımın dışarı atılması
+    havuza haşema ile gelen kadının dışarı atılması
   entry_id: 61720872
   entry_content: |
     
@@ -23,8 +23,8 @@ data:
   entry_id: 61720585
   entry_content: |
     
-    olm spor lan bu. dalga geçin biraz, uzatmayın. allah allah...
-    
+    olm spor lan bu. dalga geçin biraz, uzatmayın. allah allah....<br/><br/>edit: başlık başa kalmış. kaçılmasa daha güzel olacak. şuraya link verilip nasıl büyük bir rezalet olduğundan bahsediliyordu, herhalde biri ekran görüntüsü almıştır diye umuyorum. <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.zaytung.com/haberdetay.asp?newsid=307954" title="http://www.zaytung.com/haberdetay.asp?newsid=307954">http://www.zaytung.com/…aberdetay.asp?newsid=307954</a><br/><br/>debe editi: <a class="b" href="/?q=%23dursun%c3%b6zbekistifa">#dursunözbekistifa</a><br/><br/><a class="b" href="/?q=as%c4%b1l+buraya+dikkat+gerekiyor.">asıl buraya dikkat gerekiyor.</a><br/><br/>(bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>)<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature" title="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature">change.org linki</a><br/><br/>debe editi 2: buraya da bir göz atın gençler.<br/><br/>(bkz: <a class="b" href="/?q=kumru+konak%27a+yard%c4%b1m+edelim">kumru konak'a yardım edelim</a>)<br/><br/>(bkz: <a class="b" href="/entry/61541137">#61541137</a>)
+   
   entry_writer: poltergeist
 - entry_name: |
     çevik kuvvet polislerinin gestapoya dönüşmesi
@@ -47,7 +47,7 @@ data:
   entry_id: 61714854
   entry_content: |
     
-    ulan bu kızlar hakkatten düşük iq'lu allahtan ataerkil toplumda yaşıyoruz amk..<br/><br/>ulan aynı kiz "bilmemne taciz rezaleti başlığında". "kadın hayır diyorsa bitmiştir rörörörör.... adam taciz etmiş kadın hayır demiş rörörörörör..." diye çemkiriyor.<br/><br/>buraya gelince "kadının hayır demesi aslında hayır değil. peşimden koş demek. yok egomu şişir demek. yok ben senin paranı harcayım sen ses çıkarma demek" diye ahkam kesiyor.<br/><br/>sonra niye taciz oluyor. aha sebebi bu.
+    ulan bu kızlar hakkatten düşük iq'lu allahtan ataerkil toplumda yaşıyoruz amk..<br/><br/>ulan aynı kiz "bilmemne taciz rezaleti başlığında". "kadın hayır diyorsa bitmiştir rörörörör.... adam taciz etmiş kadın hayır demiş rörörörörör..." diye çemkiriyor.<br/><br/>buraya gelince "kadının hayır demesi aslında hayır değil. peşimden koş demek. yok egomu şişir demek. yok ben senin paranı harcayım sen ses çıkarma demek" diye ahkam kesiyor.<br/><br/>sonra niye taciz oluyor. aha sebebi bu.<br/><br/>debe editi: abv dursun özbek.<br/><br/>edit 2: (bkz: <a class="b" href="/?q=3+ya%c5%9f%c4%b1ndaki+denizin+akci%c4%9fer+nakli+i%c3%a7in+yard%c4%b1m">3 yaşındaki denizin akciğer nakli için yardım</a>)<br/><a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature" title="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature">https://www.change.org/…&utm_campaign=new_signatureture</a>
    
   entry_writer: 20 yasinda hala cizgi film izleyen mal
 - entry_name: |
@@ -55,15 +55,15 @@ data:
   entry_id: 61720448
   entry_content: |
     
-    suriyeliler sana format atınca gününü göreceksin de, çok geç olacak.
-    
+    suriyeliler sana format atınca gününü göreceksin de, çok geç olacak..<br/><br/>debe editi: bir işe yarasın bari<br/>(bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>)
+   
   entry_writer: boga etkisi
 - entry_name: |
     14 temmuz 2016 tarkan cuppa rezaleti
   entry_id: 61714726
   entry_content: |
     
-    rezalet falan değildir. tarkan bunu bilinçli olarak yapıyor. ilk çıkış parçası  <a class="b" href="/?q=k%c4%b1l+oldum+abi">kıl oldum abi</a>yi hatırlayın. <a class="b" href="/?q=k%c4%b1z+hepsi+senin+mi">kız hepsi senin mi</a> yi hatırlayın. <a class="b" href="/?q=yakalarsam+muck+muck">yakalarsam muck muck</a>u hatırlayın. <a class="b" href="/?q=kuzu+kuzu">kuzu kuzu</a>'yu hatırlayın. ilk başta "ne lan bu" dedirten, zamanla klasikleşen eserler hepsi. tarkan'ın olayı bu. bu onun büyüsünün bir parçası.<br/><br/>şaka lan şaka. götüm gibi olmuş işte.
+    rezalet falan değildir. tarkan bunu bilinçli olarak yapıyor. ilk çıkış parçası  <a class="b" href="/?q=k%c4%b1l+oldum+abi">kıl oldum abi</a>yi hatırlayın. <a class="b" href="/?q=k%c4%b1z+hepsi+senin+mi">kız hepsi senin mi</a> yi hatırlayın. <a class="b" href="/?q=yakalarsam+muck+muck">yakalarsam muck muck</a>u hatırlayın. <a class="b" href="/?q=kuzu+kuzu">kuzu kuzu</a>'yu hatırlayın. ilk başta "ne lan bu" dedirten, zamanla klasikleşen eserler hepsi. tarkan'ın olayı bu. bu onun büyüsünün bir parçası.<br/><br/>şaka lan şaka. götüm gibi olmuş işte.<br/><br/>debe editi: 10 saniyenizi ayırırsanız <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature" title="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature">şu linkten</a> imza atabiliyorsunuz. (bkz: <a class="b" href="/?q=3+ya%c5%9f%c4%b1ndaki+deniz%27in+akci%c4%9fer+nakli+icin+yard%c4%b1m">3 yaşındaki deniz'in akciğer nakli icin yardım</a>)
    
   entry_writer: zebra ureticisi
 - entry_name: |
@@ -79,8 +79,8 @@ data:
   entry_id: 61722080
   entry_content: |
     
-    stüdyodaki adamın yerinde alişan olsaydı, zıplaya zıplaya avustralyadaki kanguru akrabalarının yanına varırdı.
-    
+    stüdyodaki adamın yerinde alişan olsaydı, zıplaya zıplaya avustralyadaki kanguru akrabalarının yanına varırdı..<br/><br/>edit: (bkz: <a class="b" href="/?q=3+ya%c5%9f%c4%b1ndaki+deniz%27in+akci%c4%9fer+nakli+icin+yard%c4%b1m">3 yaşındaki deniz'in akciğer nakli icin yardım</a>)
+   
   entry_writer: drogbaba
 - entry_name: |
     bir erkeğin en güzel yeri
@@ -123,11 +123,11 @@ data:
    
   entry_writer: ah minel aski ve halatihi
 - entry_name: |
-    15 temmuz 2016 nice'de kamyonun kalabalığa dalması
+    15 temmuz 2016 nice saldırısı
   entry_id: 61728692
   entry_content: |
     
-    nice'de tüm  <a class="b" href="/?q=taksiler">taksiler</a>, insanların evlerine veya yakınlarına sağlıklı bir şekilde yetişebilmesi için an itibari ile <a class="b" href="/?q=bedava">bedava</a> yolcu taşımaya başladığı terör saldırısı.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/lioneltop/status/753715343982489600" title="https://twitter.com/lioneltop/status/753715343982489600">https://twitter.com/…ltop/status/753715343982489600</a><br/><br/>başka sözüm yok hakim bey.
+    nice'de tüm  <a class="b" href="/?q=taksiler">taksiler</a>, insanların evlerine veya yakınlarına sağlıklı bir şekilde yetişebilmesi için an itibari ile <a class="b" href="/?q=bedava">bedava</a> yolcu taşımaya başladığı terör saldırısı.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/lioneltop/status/753715343982489600" title="https://twitter.com/lioneltop/status/753715343982489600">https://twitter.com/…ltop/status/753715343982489600</a><br/><br/>başka sözüm yok hakim bey.<br/><br/>debe edit: minik deniz akciğer nakli için bir imzaya ihtiyaç duyuyor. minik deniz'in hayatta kalabilmesi için sende <a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature" title="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature">bir imza at</a><br/><br/>(bkz: <a class="b" href="/?q=3+ya%c5%9f%c4%b1ndaki+deniz%27in+akci%c4%9fer+nakli+i%c3%a7in+yard%c4%b1m">3 yaşındaki deniz'in akciğer nakli için yardım</a>)
    
   entry_writer: zeki ikez
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 61715822
   entry_content: |
     
-    düğün yapmayarak çözülebilecek sorun.  <br/><br/>kadınlar, kadınların anneleri ve erkeklerin annelerinin bu masrafa değmeyeceğini anladıkları gün bayram ilan edilsin.
+    düğün yapmayarak çözülebilecek sorun.  <br/><br/>kadınlar, kadınların anneleri ve erkeklerin annelerinin bu masrafa değmeyeceğini anladıkları gün bayram ilan edilsin.<br/><br/>edit: düğün yaparken veya yapmazken bir çocuğa el uzatmak için bir imza atar mısınız (bkz: <a class="b" href="/?q=3+yasindaki+deniz%27in+akciger+nakli+icin+yardim">3 yasindaki deniz'in akciger nakli icin yardim</a>)
    
   entry_writer: nev a
 - entry_name: |
@@ -183,15 +183,15 @@ data:
   entry_id: 61712619
   entry_content: |
     
-    c) ikisi de mal.
-    
+    c) ikisi de mal..<br/><br/>debe editi : (bkz: <a class="b" href="/?q=3+yasindaki+deniz%27in+akciger+nakli+icin+yardim">3 yasindaki deniz'in akciger nakli icin yardim</a>)
+   
   entry_writer: pinocchio
 - entry_name: |
     çocuk cinsel istismarına cezaların hafifletilmesi
   entry_id: 61711354
   entry_content: |
     
-    ön edit: başlığı açmaktan utanç duyduğum olay. kimsenin duruma tepki koymaması ise rezillik. 550 vekilden tek bir tanesi dahi konu hakkında açıklama yapmıyor. aralarında kadın olanlar, çocuğu olanlar, belki bu durumdan mağdur olanlar dahi var.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://bianet.org/bianet/cocuk/155972-cezalar-cocuk-istismarcilari-lehine-degisiyor" title="http://bianet.org/bianet/cocuk/155972-cezalar-cocuk-istismarcilari-lehine-degisiyor">öncelikle istismarcıların lehine değişne bir yasa tasarısı onaylanıyor.</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://bianet.org/bianet/cocuk/176685-anayasa-mahkemesi-nden-cocuklarin-cinsel-istismariyla-ilgili-hukme-iptal" title="http://bianet.org/bianet/cocuk/176685-anayasa-mahkemesi-nden-cocuklarin-cinsel-istismariyla-ilgili-hukme-iptal">sonra 15 yaş altı çocuklara karşı gerçekleşen her türlü cinsel davranışın cinsel istismar sayılacağı hükmü iptal ediliyor.</a><br/><br/>ve bütün bunlar çocuk istismarcılarına karşı cezalar artıyor yaygarası içerisinde yapılıyor. <br/><br/>oğlancılık geleneğinden gelen saray ulemaları için normal bir uygulama olabilir ancak kamoyu ve ülkenin vatandaşı olan insanlar neden susmakta?<br/><br/>tasarıya olur veren, yasayı değiştirmekte emeği geçen herkesin 15 yaş altı çocuklarının bu konudan muzdarip olmasını dilesek çok mu acımasız oluruz? <br/><br/><a class="b" href="/?q=sezgi+k%c4%b1r%c4%b1t+cinayeti">sezgi kırıt cinayeti</a> için en ufak bir empati dahi kuramadınız mı?<br/>özgecan aslan ve diğerleri haklı bir tavırla mı tecavüze uğrayıp öldürüldü sizce?<br/>peki ya faili meçhuller ve ses çıkaramayan milyonlar?<br/>nasıl ruh hastası bir gençlik yetişiyor farkında mısınız?<br/>sözlükte yazar olan kadınlar, babalar, anneler durumun farkında mı?
+    ön edit: başlığı açmaktan utanç duyduğum olay. kimsenin duruma tepki koymaması ise rezillik. 550 vekilden tek bir tanesi dahi konu hakkında açıklama yapmıyor. aralarında kadın olanlar, çocuğu olanlar, belki bu durumdan mağdur olanlar dahi var.  <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://bianet.org/bianet/cocuk/155972-cezalar-cocuk-istismarcilari-lehine-degisiyor" title="http://bianet.org/bianet/cocuk/155972-cezalar-cocuk-istismarcilari-lehine-degisiyor">öncelikle istismarcıların lehine değişne bir yasa tasarısı onaylanıyor.</a><br/><br/><a rel="nofollow" class="url" target="_blank" href="http://bianet.org/bianet/cocuk/176685-anayasa-mahkemesi-nden-cocuklarin-cinsel-istismariyla-ilgili-hukme-iptal" title="http://bianet.org/bianet/cocuk/176685-anayasa-mahkemesi-nden-cocuklarin-cinsel-istismariyla-ilgili-hukme-iptal">sonra 15 yaş altı çocuklara karşı gerçekleşen her türlü cinsel davranışın cinsel istismar sayılacağı hükmü iptal ediliyor.</a><br/><br/>ve bütün bunlar çocuk istismarcılarına karşı cezalar artıyor yaygarası içerisinde yapılıyor. <br/><br/>oğlancılık geleneğinden gelen saray ulemaları için normal bir uygulama olabilir ancak kamoyu ve ülkenin vatandaşı olan insanlar neden susmakta?<br/><br/>tasarıya olur veren, yasayı değiştirmekte emeği geçen herkesin 15 yaş altı çocuklarının bu konudan muzdarip olmasını dilesek çok mu acımasız oluruz? <br/><br/><a class="b" href="/?q=sezgi+k%c4%b1r%c4%b1t+cinayeti">sezgi kırıt cinayeti</a> için en ufak bir empati dahi kuramadınız mı?<br/>özgecan aslan ve diğerleri haklı bir tavırla mı tecavüze uğrayıp öldürüldü sizce?<br/>peki ya faili meçhuller ve ses çıkaramayan milyonlar?<br/>nasıl ruh hastası bir gençlik yetişiyor farkında mısınız?<br/>sözlükte yazar olan kadınlar, babalar, anneler durumun farkında mı?<br/><br/>debe editi: o taciz ettiğiniz çocukların ruhları hayvan derileri gibi kururken boş kalan oyun parkları sizin mezarınız olsun pis sübyancılar.
    
   entry_writer: garda
 - entry_name: |
@@ -215,16 +215,16 @@ data:
   entry_id: 61722554
   entry_content: |
     
-    çocukluktan başlayıp evlenip çocuk sahibi olana dek tüm hayatına karışmak ve kendi istediklerini yaptırmaya zorlamak. kısacası çocuğuna hayatı zehir etmek.
-    
+    çocukluktan başlayıp evlenip çocuk sahibi olana dek tüm hayatına karışmak ve kendi istediklerini yaptırmaya zorlamak. kısacası çocuğuna hayatı zehir etmek..<br/><br/>edit: (bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>) yardımsever yazarlar küçük deniz için imza kampanyasına bekleniyor.
+   
   entry_writer: ne iteleyim abime
 - entry_name: |
     pokemon go
   entry_id: 61711838
   entry_content: |
     
-    arkadaşı ziyarete askeri lojmanlara gittim, bir tane pokemon çıkmadı lan karşıma. adamlar pokemonları bile içeri almamış amk.
-    
+    arkadaşı ziyarete askeri lojmanlara gittim, bir tane pokemon çıkmadı lan karşıma. adamlar pokemonları bile içeri almamış amk..<br/><br/>ekleme: (bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>)
+   
   entry_writer: karanfilli pekmez
 - entry_name: |
     pokemon go ile yeni gezi organize edilebilir
@@ -255,8 +255,8 @@ data:
   entry_id: 61721362
   entry_content: |
     
-    görüldüğü üzere 75 üzeri alanların bile memur olmak için umudunu kestiği sınav. türk devletinin (akp hükümetinin) türk gençliğine attığı en büyük kazıklardan biridir. oysa dünyanın her yerinde bir sınavdan 75 puan almak başarısız bir sonuç değildir. sen, yaptığın sınavdan 75 alan gencine istihdam sağlayamıyorsan, onu hayal kırıklığına, umutsuzluğa itiyorsan; ama bunun yerine savaş çıkardığın suriye'den kaçan mültecilere ev, istihdam, bedava sağlık ve eğitim hizmetleri sunuyorsan, hem sana hem de sana oy veren gerizekalılara lanet olsun. beter olun.
-    
+    görüldüğü üzere 75 üzeri alanların bile memur olmak için umudunu kestiği sınav. türk devletinin (akp hükümetinin) türk gençliğine attığı en büyük kazıklardan biridir. oysa dünyanın her yerinde bir sınavdan 75 puan almak başarısız bir sonuç değildir. sen, yaptığın sınavdan 75 alan gencine istihdam sağlayamıyorsan, onu hayal kırıklığına, umutsuzluğa itiyorsan; ama bunun yerine savaş çıkardığın suriye'den kaçan mültecilere ev, istihdam, bedava sağlık ve eğitim hizmetleri sunuyorsan, hem sana hem de sana oy veren gerizekalılara lanet olsun. beter olun..<br/><br/>(bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>)<br/><a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature" title="https://www.change.org/p/deniz-in-akciğer-nakli-için-sağlik-bakanliği-onayi-gerekiyor-imza-atarak-destek-olun?tk=jv6p-imZaFZ3uzg8fdLxlVjoxtJocke7xPaB-3xFlzQ&utm_medium=email&utm_source=signature_receipt&utm_campaign=new_signatureew_signature">https://www.change.org/…&utm_campaign=new_signatureture</a>
+   
   entry_writer: supercisim
 - entry_name: |
     emmanuel emenike
@@ -295,8 +295,8 @@ data:
   entry_id: 61714531
   entry_content: |
     
-    osmanlıda evlenmek isteyenler annelerinin suyuna tuz koyarlarmış.tuzlu suyu içen anne tansiyonu yükselir acile gidip kız bakarmış. ecdat be.
-    
+    osmanlıda evlenmek isteyenler annelerinin suyuna tuz koyarlarmış.tuzlu suyu içen anne tansiyonu yükselir acile gidip kız bakarmış. ecdat be..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=3+yasindaki+denizin+akciger+nakli+icin+yardim">3 yasindaki denizin akciger nakli icin yardim</a>)
+   
   entry_writer: 2 boyutlu solucan
 - entry_name: |
     supernatural'da tanrının evrimi açıklaması
