@@ -43,12 +43,12 @@ data:
    
   entry_writer: ak sakalli bebe
 - entry_name: |
-    15 temmuz 2016 tsk'nın yönetime el koyması
+    15 temmuz 2016 darbe girişimi
   entry_id: 61745580
   entry_content: |
     
-    sabiha gökçen de 1 saattir uçağın içindeyiz ve pegasus bedava su veriyor. suyu verdiği an durumun ne kadar ciddi olduğunu anladım işte
-    
+    sabiha gökçen de 1 saattir uçağın içindeyiz ve pegasus bedava su veriyor. suyu verdiği an durumun ne kadar ciddi olduğunu anladım iştee<br/><br/>debe edit: ekonomi ve finansa ilgi duyanlar aşağıdaki blogtan çok faydalanır<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://bankingtrends.wordpress.com/2016/04/22/telefon-dolandiricilarina-karsi-cozum-onerisi/" title="https://bankingtrends.wordpress.com/2016/04/22/telefon-dolandiricilarina-karsi-cozum-onerisi/">https://bankingtrends.wordpress.com/…cozum-onerisi/</a>
+   
   entry_writer: modesttiago
 - entry_name: |
     halifeliğin ilanının türkiye'yi uçuracağı gerçeği
@@ -111,7 +111,7 @@ data:
   entry_id: 61748460
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yozgat">yozgat</a>)<br/><br/>bildiğiniz yozgat işte.
+    (bkz:  <a class="b" href="/?q=yozgat">yozgat</a>)<br/><br/>bildiğiniz yozgat işte.<br/><br/>debe editi : ilk defa yapıyorum bu editi. vatanınızı, milletinizi sevin. demokrasinin yanında olun, sağduyulu olun. allah devletimizin, milletimizin yanında olsun.
    
   entry_writer: konus sen dinliyorum
 - entry_name: |
@@ -231,7 +231,7 @@ data:
   entry_id: 61737506
   entry_content: |
     
-    bildiğiniz üzere sevgili muse 26 temmuz'da şehrimize şeref vermeye geliyor..<br/>organizasyonu yapan firmanın adı <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a>.<br/><br/>yapılan ise tam bir terbiyesizlik.<br/><br/>biletlere bakan bilir; biletler çıktı, 1 hafta geçti ve 160 lira civarı olan normal ayakta biletler tükendi (biletix'de öyle yazdı). bu yüzden ben ve bir çok arkadaşım 330 lira bayılıp golden circle almak zorunda kaldık. <br/><br/>şimdi ise bilin bakalım ne oldu?<br/>biletix'de "normal ayakta" bilet var.<br/><br/>terbiyesiz herifler önce tükendi gibi gösterip diğer kategorilerden de bilet sattırdılar, sonra herhalde millete pahalı geldi, kimse almıyor diye, ya da konsere az kaldı diye tekrar ayakta bileti aktif ettiler. bu yasal olarak suçtur.<br/><br/>biz bilet alan 12 arkadaş ve çevremizde toplamda bilet alan yaklaşık 40-50 kişi olarak <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a> hakkında tüketici mahkemesi'ne şikayette bulunacağız, avukat arkadaşlarımla konuşacağım ve eğer mümkünse şirket hakkında dolandırıcılık yaptıkları gerekçesiyle de suç duyurusunda bulunacağım. <br/><br/>bunun adı nitelikli dolandırıcılıktır neredeyse. <br/><br/>hiç yakışmadı, tadımızı tuzumuzu kaçırdınız.<br/><br/>eğer bizle aynı durumda olan insanlar var ise yeşillendirsin, hep beraber şikayette bulunalım. yaptığımız fazla ödemeyi dahi iade etmek zorunda kalırlar.<br/><br/>insanları bu kadar kolayca keriz yerine koyamazsınız.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.biletix.com/etkinlik/TLEKC/ISTANBUL/tr" title="http://www.biletix.com/etkinlik/TLEKC/ISTANBUL/tr">biletler burada</a><br/><br/>bu arada bu rezilliğe <a class="b" href="/?q=biletix">biletix</a>'in de ortak olduğunu lütfen unutmayalım. bu konu <a class="b" href="/?q=biletix">biletix</a> ve <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a>ın ortak hareketidir. biletix'in de kabul etmemesi gerekir böyle bir şeyi. bu yüzden biletix hakkında da şikayette bulunacağız.<br/><br/>bu sefer yanınıza kalmayacağına emin olun.
+    bildiğiniz üzere sevgili muse 26 temmuz'da şehrimize şeref vermeye geliyor..<br/>organizasyonu yapan firmanın adı <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a>.<br/><br/>yapılan ise tam bir terbiyesizlik.<br/><br/>biletlere bakan bilir; biletler çıktı, 1 hafta geçti ve 160 lira civarı olan normal ayakta biletler tükendi (biletix'de öyle yazdı). bu yüzden ben ve bir çok arkadaşım 330 lira bayılıp golden circle almak zorunda kaldık. <br/><br/>şimdi ise bilin bakalım ne oldu?<br/>biletix'de "normal ayakta" bilet var.<br/><br/>herifler önce tükendi gibi gösterip diğer kategorilerden de bilet sattırdılar, sonra herhalde millete pahalı geldi, kimse almıyor diye, ya da konsere az kaldı diye tekrar ayakta bileti aktif ettiler. bu yasal olarak suçtur.<br/><br/>biz bilet alan 12 arkadaş ve çevremizde toplamda bilet alan yaklaşık 40-50 kişi olarak <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a> hakkında tüketici mahkemesi'ne şikayette bulunacağız, avukat arkadaşlarımla konuşacağım ve eğer mümkünse şirket hakkında dolandırıcılık yaptıkları gerekçesiyle de suç duyurusunda bulunacağım. <br/><br/>bunun adı nitelikli dolandırıcılık olabilir mi bilen hukukçular var ise söylesin?<br/><br/>hiç yakışmadı, tadımızı tuzumuzu kaçırdınız.<br/><br/>eğer bizle aynı durumda olan insanlar var ise yeşillendirsin, hep beraber şikayette bulunalım. yaptığımız fazla ödemeyi dahi iade etmek zorunda kalırlar.<br/><br/>insanları bu kadar kolayca keriz yerine koyamazsınız.<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.biletix.com/etkinlik/TLEKC/ISTANBUL/tr" title="http://www.biletix.com/etkinlik/TLEKC/ISTANBUL/tr">biletler burada</a><br/><br/>bu arada bu rezilliğe <a class="b" href="/?q=biletix">biletix</a>'in de ortak olduğunu lütfen unutmayalım. bu konu <a class="b" href="/?q=biletix">biletix</a> ve <a class="b" href="/?q=istanbul+blue+night">istanbul blue night</a>ın ortak hareketidir. biletix'in de kabul etmemesi gerekir böyle bir şeyi. bu yüzden biletix hakkında da şikayette bulunacağız.<br/><br/>bu sefer yanınıza kalmayacağına emin olun.
    
   entry_writer: c2vkyxq
 - entry_name: |
@@ -242,14 +242,6 @@ data:
     2009 diyor..<br/><br/>yanlış bilmiyorsam o zamana ait rte ile fetö bağlantısına ait de bayağı belge var.<br/><br/>insanın aklı götünde olunca ancak böyle boklar çıkıyor işte.
    
   entry_writer: itch where you cant reach
-- entry_name: |
-    erdoğan'ın halkı meydanlara çağırması
-  entry_id: 61745358
-  entry_content: |
-    
-    bir çeşit kendi götünü kurtarmak adına iç savaş çağrısı.
-    
-  entry_writer: rahman
 - entry_name: |
     türk sen övün değilsen iteat et olmadı geber
   entry_id: 61730593
@@ -282,22 +274,6 @@ data:
     eğer askeri darbeyse bizi 14 yıl geriye götürmesi dileğiyle dediğim darbe.
     
   entry_writer: mdmbvry
-- entry_name: |
-    arda turan'ın teknede okey oynaması
-  entry_id: 61738688
-  entry_content: |
-    
-    evet saatine 1000 lira verip tekne kiralıyorsun, üzerinde okey oynuyorsun. ben vizyon diye buna derim. başka bir dille asgari ücret alan adamdan milyon kat fazla kazanıyorsun ama, muhteviyat olarak bir adim önünde değilsin. orta doğu insanı işte fazla bişey beklememek gerek.
-    
-  entry_writer: camino real
-- entry_name: |
-    bakire olmamasına rağmen evlenmek isteyen kız
-  entry_id: 61731371
-  entry_content: |
-    
-    adaçayının faydaları::<br/>zararlı toksinlerin vücuttan atılmasını sağlar<br/>beyin fonksiyonlarını geliştirir<br/>bronşit ve astım belirtilerini hafifletir<br/>karaciğeri temizler<br/>idrar yolu enfeksiyonunun tedavisine yardımcı olur<br/>aşırı terlemeyi azaltır<br/>stresi azaltır<br/>sakinleştirir<br/>menopoz sonrası belirtileri hafifletir<br/>saçların beyazlamasını yavaşlatır<br/>mantar enfeksiyonlarına karşı kullanılır<br/>hafızayı güçlendirir<br/>alzheimer’a karşı yardımcı olarak kullanılır<br/>kan şekerini düşürür<br/>dişeti iltihaplanmasına karşı kullanılır<br/>ağız yaralarının tedavisinde kullanılır<br/>sinirsel baş ağrısını hafifletir<br/>safra kesesini çalıştırır<br/>gargara suyu olarak kullanılır<br/>boğaz ağrısını alır.
-   
-  entry_writer: eylul firtinasi
 - entry_name: |
     kayseri'de 30 suriyelinin 3 kişiyi dövmesi
   entry_id: 61734879
@@ -370,14 +346,6 @@ data:
     ikisini de en azından birkaç kez bile görmemiş biri olarak hügümet çog iyi.
     
   entry_writer: dream and war
-- entry_name: |
-    16 temmuz 2016 tbmm'nin vurulması
-  entry_id: 61747607
-  entry_content: |
-    
-    gerek kalmadığındandır
-    
-  entry_writer: icgecmesi
 - entry_name: |
     domuz eti yiyip alkol alıyordu
   entry_id: 61740769
