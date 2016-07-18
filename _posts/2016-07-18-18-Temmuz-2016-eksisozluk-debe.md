@@ -3,29 +3,13 @@ layout: post
 title: 18 Temmuz 2016 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    tekbirden ve seladan rahatsız olan insan
-  entry_id: 61775416
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=ben">ben</a>)<br/><br/>midemi bulandırıyor inançlarınız, ikiyüzlülüğünüz, zeka eksikliğiniz ve düşünme yetisinden uzaklığınız,<br/>gaza gelmeye meyiliniz, toptancılığınız, baskıcılığınız, barbarlığınız, caniliğiniz, tecavüz sevginiz ve tabiki ahlaksızlığınız.<br/><br/>edit: ilk entry silinmiş.
-   
-  entry_writer: twelfth
-- entry_name: |
-    askerin bebeğini tecavüz etmekle tehdit eden polis
+    bebeğine tecavüz etmekle askeri tehdit eden polis
   entry_id: 61779705
   entry_content: |
     
      <a rel="nofollow" class="url" target="_blank" href="https://m.facebook.com/story.php?story_fbid=718531524915957&id=4012439833113811381" title="https://m.facebook.com/story.php?story_fbid=718531524915957&id=4012439833113811381">https://m.facebook.com/…24915957&id=4012439833113811381</a><br/><br/>evet, darbeci askerleri yakaladıktan sonra nezarette küfürler eşliğinde sorguluyorlar, buraya kadar şaşırtıcı değil ama askere "çocuğun var mı?" "kız mı?" diye sorarak "s.keyim mi, hııı" diye tehdit eden ve içindeki bastırılmış pedofili gün yüzüne çıkaran polis, sen nasıl bi insansın? tamam hepimiz darbeye karşıyız, demokrasiden yanayız ama sen kim oluyorsun da on aylık bir bebeğe tecavüz etmekle babasını tehdit edebiliyorsun? <br/><br/>işte bu zihniyet daha dün "darbeci piçlerin eşleri bizim ganimetimizdir artık" diyen adamla aynıdır. <br/><br/>ben artık sahiden kafayı yemek üzereyim. hiç kimse ailesini seçemiyor, bir insanın babası katil de olabilir, darbeci de, hırsız da, sahterkar da, sen o kişiye karşı olan öfkeni çocuğunu "s.kmekle" çıkartamasın. hele ki on aylık bir bebekkten üzerinden asla, yoksa gizli pedo musun? sadece soruyorum...
    
   entry_writer: demedim mi haydar demedim soyle
-- entry_name: |
-    darbe gecesi para çekenler ülkeden kovulsun
-  entry_id: 61775480
-  entry_content: |
-    
-    atin vatandasliktan be. nolur atin. hemen, sevinerek cikarlar. turkiyenin gotu boklu vatandasligina kalmadilar - vatansiz kaldiklari, bu muameleyi gordukleri anda gittikleri ulke aninda siginma hakkini verir, kafalari rahat yasarlar..<br/><br/>(bkz: <a class="b" href="/?q=valla+mi+lan">valla mi lan</a>)
-   
-  entry_writer: boom headshot
 - entry_name: |
     darbeci paşaların emniyetteki görüntüleri
   entry_id: 61788171
@@ -63,8 +47,8 @@ data:
   entry_id: 61777050
   entry_content: |
     
-    eğer gerçek bir darbe girişimi olsaydı en önce ben imza atardım,ama senaryosu başkaları tarafından yazılmış bir piyese imza atmak,telif hakkı hırsızlığı olur.
-    
+    eğer gerçek bir darbe girişimi olsaydı en önce ben imza atardım,ama senaryosu başkaları tarafından yazılmış bir piyese imza atmak,telif hakkı hırsızlığı olur..<br/><br/>edit:bu yazıyı bildiriye karşı olduğum için değil, bu darbeyi tsk içindeki hainlerin bu darbe girişimini tek başına tertip edemeyeceğini düşündüğüm için yazdım.
+   
   entry_writer: azamihirs
 - entry_name: |
     17 temmuz 2016 erdoğan'ın ağlaması
@@ -87,7 +71,7 @@ data:
   entry_id: 61787962
   entry_content: |
     
-    sebebini ilk kez burada açıklıyorum..<br/><br/>uçak havalandıktan kısa bir süre sonra jetler takibe başladı. uçağın içindeki recep tayyip erdoğan'a bu söylenmedi ama dikiz aynalarından baktığında her şeyi kabak gibi görüyordu.<br/><br/>tam jetler yüce başkanımızın (radiyallahu limen hamd) uçağına kilitlenmiş iken ezan vakti geldi ve jetin aporlöründen ezan okunmaya başladı. başkanımız pilota uçaüğı kıbleye çevirmesi talimatı verdi. jetler tam bombaları ateşlediğinde uçak aniden kıbleye döndüğünden bombalar ıska geçti.<br/><br/>yüce başkanımız bir olaydan daha iman, nefs ve güzel ahlak sayesinde kurtulup ne kadar da allah'ın sevgili kulu olduğunu kanıtladı.<br/><br/>bu olayı da mütevaziliğinden kimseye anlattırmadı ama ben doktorunun bir arkadaşının kuzenini tanıyorum. o dedi.
+    sebebini ilk kez burada açıklıyorum..<br/><br/>uçak havalandıktan kısa bir süre sonra jetler takibe başladı. uçağın içindeki recep tayyip erdoğan'a bu söylenmedi ama dikiz aynalarından baktığında her şeyi kabak gibi görüyordu.<br/><br/>tam jetler yüce başkanımızın (radiyallahu limen hamd) uçağına kilitlenmiş iken ezan vakti geldi ve jetin aporlöründen ezan okunmaya başladı. başkanımız pilota uçaüğı kıbleye çevirmesi talimatı verdi. jetler tam bombaları ateşlediğinde uçak aniden kıbleye döndüğünden bombalar ıska geçti.<br/><br/>yüce başkanımız bir olaydan daha iman, nefs ve güzel ahlak sayesinde kurtulup ne kadar da allah'ın sevgili kulu olduğunu kanıtladı.<br/><br/>bu olayı da mütevaziliğinden kimseye anlattırmadı ama ben doktorunun bir arkadaşının kuzenini tanıyorum. o dedi.<br/><br/>edit: <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/5V1v55.jpg" title="http://i.hizliresim.com/5V1v55.jpg">http://i.hizliresim.com/5v1v55.jpg</a> facebook'ta paylaşın, bakalım yiyen olacak mı?
    
   entry_writer: garipbasci
 - entry_name: |
@@ -139,14 +123,6 @@ data:
    
   entry_writer: taytsiz kral
 - entry_name: |
-    çengelköy polis karakolu
-  entry_id: 61777723
-  entry_content: |
-    
-    karşıdaki askerin bir binbaşı olduğu gerçeği. ona küfür eden de iq seviyesi ayakkabı numarasindan büyük olmayan, kpss sınavının baraj sınırına bile yaklaşmayan bir polis memuru. pek diyecek bir şey kalmıyor zaten..<br/><br/>edit: ganimet, sübyan hepsi peygamberlerinin sünneti. ne bekliyorsunuz. %95 i müslüman bir ülkeden ne bekliyorsunuz.?
-   
-  entry_writer: blacksoul
-- entry_name: |
     darbeci subayların ip gibi sıraya dizilmesi
   entry_id: 61784023
   entry_content: |
@@ -154,14 +130,6 @@ data:
     yanlış saymadıysam 22 kişinin sıraya dizilmesidir. 80 milyonluk ülkede 22 kişi darbeye teşebbüs ediyorsa emniyete değil bakırköy'e yollanmaları daha doğrudur. sonra tiyatro deyince  <a class="b" href="/?q=meel">meel</a>iyorsunuz amk. :)
    
   entry_writer: ezana yakalanan pornocu
-- entry_name: |
-    boğaziçi köprüsünde halka ateş açan piçler
-  entry_id: 61780886
-  entry_content: |
-    
-    potansiyel bir isid militanini imha etmislerdir. mesajla tepkiler geliyor, bana darbe destekcisi diyenler oluyor. darbe yapaninda kalkisaninda allah belasini versin, ama gidip suçsuz günahsız hiçbirşeyden haberi olmayan askerleri öldürenlerinde belasini versin. darbeyi plamlayanı yakala as sesimi çıkarmam ama anadoludan kopup gelmiş emir erine saldırırsan sanada yazıklar olsun.
-    
-  entry_writer: zinaedenzidan
 - entry_name: |
     nerede kemalist görürseniz kafasını kesin
   entry_id: 61783415
@@ -202,14 +170,6 @@ data:
     "3 helikopterle darbeye teşebbüs ediliyor, halkımız hemen dışarı çıkıp helikopterlere tepki göstersin. tanklara viledayla vuran halkımız, helikopterlere tükürebilir, sapanla onları indirebilir."
     
   entry_writer: mesglsn sanirm bn yatiyrm
-- entry_name: |
-    türk ordusunun kalbine tekbirle girdiler
-  entry_id: 61786300
-  entry_content: |
-    
-    anladık genelkurmay'ın içindesin.  <br/>şu tiplere bakın ve söyleyin. mesela bu adama tolstoy'un bir kitabını verip oku desek ne yapar ? o anki tipini bir gözünüzün önüne getirin. <br/>- ''ğuağua ne totoyu gardaş ğuağua genelkurmay'ın içindeyiz.''<br/>sığır sürüleri sizi. darbe'yi bu mallar engelledi ha demek. şu anda genelkurmay'ın içindeyiz.<br/>en basit kapsamlı pozitif bilimlerden nasibini alacaklarını düşünen var mı bu sığırların ? tiplere gel yarabbim. bir açıklama da yapayım da bu sığırlara benzer tipler mesaj atmasın. fiziki tipleriyle dalga geçiyorum evet fakat ; kaşının gözünün yaratılış şekliyle değil. kaşının gözünün bunca yıldır yoğrulduğu çomar psikolojisi içinde ne hale geldiğiyle dalga geçiyorum. hepsi aynı tipe bürünüyor zaten illaki farketmişsinizdir. ha bir şey daha ekleyeceğim : <br/><br/>(bkz: <a class="b" href="/?q=%c5%9fu+anda+genelkurmay%27%c4%b1n+i%c3%a7indeyiz">şu anda genelkurmay'ın içindeyiz</a>)<br/><br/>ahahha sığırlar ya.
-   
-  entry_writer: dusunmeasamasi
 - entry_name: |
     a haber muhabirinin çomarla mikrofon mücadelesi
   entry_id: 61790891
@@ -307,14 +267,6 @@ data:
     
   entry_writer: ciodeth
 - entry_name: |
-    akp seçmeninin dinciden ışidciye yükselmesi
-  entry_id: 61776324
-  entry_content: |
-    
-     <a class="b" href="/?q=15+temmuz+2016+darbe+giri%c5%9fimi">15 temmuz 2016 darbe girişimi</a> ile ortaya çıkan hatta ortaya çok net çıkan durumdur.<br/><br/>özellikle bu gerizekalıların türk bayrağını alarak ışidcilerle beraber kutlama yapması ne kadar ironiktir asla anlamazlar. ulan o ışidciler imkan bulsa ile bayrağı değiştirecek zaten amk malı.<br/><br/>bu darbe girişimini allahın bir lütfu olarak tanımlayan rte haklı tabi. ve emin olun bu duruma en çok türkiyedeki aşırı dinciler sevindi. askerden it gibi korkan onlardı zaten. ama artık askerin kağıttan kaplan kadar bile değeri kalmadı.<br/><br/>şu anda darbeye karşı olmayı askere karşı olmak olmakla birleştiren bu şerefsizlerin hiç birinin ne yaptığından haberi yok. yarın şehit haberleri gelmeye başlayınca bu şerefsizlerin üzülmeye de hakkı yok. çünkü bugün meydanlarda suriyedeki askerleri topluca infaz ederek ne kadar aşağılık olduklarını yüzlerce kez göstermiş allahsızlar var artık. <br/><br/>benim gözümde düşük zeka düzeyleriyle akpliler önemli kısmı artık ışidcidir.<br/><br/>(bkz: <a class="b" href="/?q=rte%27in+%c3%a7a%c4%9fr%c4%b1s%c4%b1na+uyup+silahla+ortaya+%c3%a7%c4%b1kan+%c4%b1%c5%9fidci">rte'in çağrısına uyup silahla ortaya çıkan ışidci</a>)
-   
-  entry_writer: eskiden buralar hep entrydi
-- entry_name: |
     15 temmuz 2016 darbe girişimi
   entry_id: 61775308
   entry_content: |
@@ -327,7 +279,7 @@ data:
   entry_id: 61775502
   entry_content: |
     
-    bugunki yazisinda niyet okuyuculuga ve yaftaciliga soyunmus..<br/><br/>"- darbeye karsiyim ama rte ye yaradi diye dusunduysen darbecisin.<br/>- boyle dandik darbe mi olur diye aklindan gecirdiysen darbecisin"<br/><br/>ıfade ozgurlugunu gectim dusunme serbestisini bile anlayamamis bir organizma. yazik ki demokrat diye tanimlaniyor.
+    bugunki yazisinda niyet okuyuculuga ve yaftaciliga soyunmus..<br/><br/>"- darbeye karsiyim ama rte ye yaradi diye dusunduysen darbecisin.<br/>- boyle dandik darbe mi olur diye aklindan gecirdiysen darbecisin"<br/><br/>ıfade ozgurlugunu gectim dusunme serbestisini bile anlayamamis bir zat. yazik ki demokrat diye tanimlaniyor.
    
   entry_writer: destroy everything
 - entry_name: |
@@ -367,7 +319,7 @@ data:
   entry_id: 61784476
   entry_content: |
     
-    (bkz: şehit ve gazilerini meydanlarda eğlenerek kutlayan trol))<br/><br/>sen ne anlarsın şehit ve gaziden. sözde önlediğin darbenin rantına bak sen. hadi gülüm.
+    (bkz: şehit ve gazilerini meydanlarda eğlenerek kutlayan trol))<br/><br/>sen ne anlarsın şehit ve gaziden. sözde önlediğin darbenin rantına bak sen. hadi gülüm.<br/><br/>edit : birilerinin hoşuna gitmeyen şeyler yazıldığından dolayı yazar lanetli çaylak listesine alınmıştır. 1 ay çok oldu ama...<br/>teşekkürler kanzuk!
    
   entry_writer: celomania
 - entry_name: |
@@ -394,12 +346,4 @@ data:
     2008, 2009, 2010 yıllarında  <a class="b" href="/?q=kara+harp+okulu">kara harp okulu</a> başta olmak üzere harp okullarından rekor sayıda ayrılan cumhuriyetçi gençlerin <a class="b" href="/?q=neden+ayr%c4%b1lmak+zorunda+b%c4%b1rak%c4%b1ld%c4%b1klar%c4%b1">neden ayrılmak zorunda bırakıldıkları</a>nı çözdüğünüz gün, bu sorunun da yanıtını bulursunuz.<br/><br/><a class="b" href="/?q=mobbing">mobbing</a>le boşaltılan kadrolara cematçilerin alınmasıdır.<br/><br/>ekleme; <a class="b" href="/?q=emperor+constantius">emperor constantius</a> uyardı, "2010'da bitse iyiydi, 2012'de de oldu" demekte... görün işte.
    
   entry_writer: metalhead23
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id: 61781483
-  entry_content: |
-    
-    tek kelime: hitler!!<br/><br/>kudurun itler!
-   
-  entry_writer: eratha
 ---
