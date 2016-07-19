@@ -3,14 +3,6 @@ layout: post
 title: 19 Temmuz 2016 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    18 temmuz 2016 wikileaks açıklaması
-  entry_id: 61796472
-  entry_content: |
-    
-    şu saaten sonra birilerinin 4 kişi ile grup seks videoları ortaya çıksa, annesini karısını alıp meydanlara gelip bunlarda senin diye bağıracak bin tane adam gördüm ekranlarda! o yüzden wiki miki türke çok gelmez! zaten bir çoğunun okuma yazması bile yok, o listeleri ancak sen ben okuruz. amerikanın da anlamadığı bu zaten. okuma yazması olmayan, oy atmaya gitmeden önce nereye basacağı ve ne yapacağını 3 günde anlatılan bir millete hala laf neden geçmiyor onu anlayamadılar.
-    
-  entry_writer: morristownvalisi
-- entry_name: |
     oyum darbeyi önleyen ak parti'ye
   entry_id: 61796771
   entry_content: |
@@ -31,7 +23,7 @@ data:
   entry_id: 61805788
   entry_content: |
     
-    bunu paylaşan  <a class="b" href="/?q=avukat">avukat</a> arkadaşım var.<br/><br/>edit: şöyle bir gir 157 fav alır mı, salak mısınız kuzum siz? bin tane de mesaj aldım, şaka gibi mk.
+    bunu paylaşan  <a class="b" href="/?q=avukat">avukat</a> arkadaşım var.<br/><br/>edit: şöyle bir gir 157 fav alır mı, salak mısınız kuzum siz? bin tane de mesaj aldım, şaka gibi mk.<br/><br/>edit 2: vay anasını debe <a class="b" href="/entry/3">#3</a>. emek yok bir şey yok, hukuktan anlayan avukat arkadaşım da bunu paylaştı diyip 3 numaraya giri soktum 5 kelime ile. <a class="b" href="/?q=imto">imto</a> falan kalp krizi geçirse yeridir.
    
   entry_writer: sessizvesakin
 - entry_name: |
@@ -39,7 +31,7 @@ data:
   entry_id: 61805729
   entry_content: |
     
-    sırf ipneliğine  <a class="b" href="/?q=yurtta+sulh+biziz+2">yurtta sulh biziz 2</a> diye grup açılıp, rehberdeki ahmeti mehmeti, <a class="b" href="/?q=ahmet+komutan">ahmet komutan</a> <a class="b" href="/?q=mehmet+komutan">mehmet komutan</a> diye gruba eklemek var da işte. yemiyor amk.<br/><br/>edit: <a class="b" href="/?q=aat+bh">aat bh</a> adlı yazardan gelen gülümseten pm:<br/><br/>bunu bizim gruptaki işgüzar gerizekalı bir arkadaş yaptı. üstelik grup ismide yurtta sulh diye değiştirip tv de gösterilen whatsapptaki darbeci bir generalin numarayıda ekleyip emrinizdeyim paşam diye yazdı. korkuyoruz dünden beri pisi pisine alıcaklar bu mal yüzünden diye :)
+    sırf ipneliğine  <a class="b" href="/?q=yurtta+sulh+biziz+2">yurtta sulh biziz 2</a> diye grup açılıp, rehberdeki ahmeti mehmeti, <a class="b" href="/?q=ahmet+komutan">ahmet komutan</a> <a class="b" href="/?q=mehmet+komutan">mehmet komutan</a> diye gruba eklemek var da işte. yemiyor amk.<br/><br/>edit: bi yazardan gelen gülümseten pm:<br/><br/>bunu bizim gruptaki işgüzar gerizekalı bir arkadaş yaptı. üstelik grup ismide yurtta sulh diye değiştirip tv de gösterilen whatsapptaki darbeci bir generalin numarayıda ekleyip emrinizdeyim paşam diye yazdı. korkuyoruz dünden beri pisi pisine alıcaklar bu mal yüzünden diye :)
    
   entry_writer: hassektir
 - entry_name: |
@@ -59,7 +51,7 @@ data:
    
   entry_writer: ertunga
 - entry_name: |
-    laikçilerin gülenden nefret etmelerinin ana sebebi
+    laiklerin gülen'den nefret etmelerinin ana sebebi
   entry_id: 61805083
   entry_content: |
     
@@ -95,7 +87,7 @@ data:
   entry_id: 61800110
   entry_content: |
     
-    öyle madde madde yazmaya gerek yok; biri asker kafası keser, öteki ise polise  <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=8ezEnQ4W4uw" title="https://www.youtube.com/watch?v=8ezEnQ4W4uw">karanfil uzatır</a>.<br/><br/>şimdi siktir git; derin stratejik çözümlemelerini imamhatip sözlükte yap, bok sineği seni.<br/><br/>edit: odatv'deki <a rel="nofollow" class="url" target="_blank" href="http://odatv.com/teslim-olan-askerin-bogazi-kesildi-1607161200.html" title="http://odatv.com/teslim-olan-askerin-bogazi-kesildi-1607161200.html">şu habere yönelik</a>, sosyal medyada paylaşılan <a rel="nofollow" class="url" target="_blank" href="http://itaatsizhaber.com/wp-content/uploads/2016/07/yalan.jpg" title="http://itaatsizhaber.com/wp-content/uploads/2016/07/yalan.jpg">cnntürk'lü fotoşop capsiyle</a> karşılık verenler olmuş. diyorum ki 2006 yılındaki cnn türk'ün haber linkini atın, tık yok çomarlarda.<br/><br/>alın amk, onu da ben atayım: <a rel="nofollow" class="url" target="_blank" href="http://www.cnnturk.com/2006/turkiye/06/14/askeri.arac.devrildi.bir.sehit.uc.yarali/190278.0/index.html" title="http://www.cnnturk.com/2006/turkiye/06/14/askeri.arac.devrildi.bir.sehit.uc.yarali/190278.0/index.html">http://www.cnnturk.com/….yarali/190278.0/index.html</a><br/><br/>gördüğünüz gibi söz konusu haberde fotoğraf bile mevcut değil. bu çomarlara allah akıl fikir versin gerçekten.<br/><br/>bakmanızda fayda var: <a rel="nofollow" class="url" target="_blank" href="http://www.insanhaber.com/guncel/iste-yalan-oldugu-iddia-edilen-isid-usulu-infazda-tum-gercekler-70538" title="http://www.insanhaber.com/guncel/iste-yalan-oldugu-iddia-edilen-isid-usulu-infazda-tum-gercekler-70538">http://www.insanhaber.com/…azda-tum-gercekler-70538</a><br/><br/>edit2: başlığı açan siktir olup gitmiş, bu da bir meziyet sayılır. bana sövmeyin.
+    öyle madde madde yazmaya gerek yok; biri asker kafası keser, öteki ise polise  <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=8ezEnQ4W4uw" title="https://www.youtube.com/watch?v=8ezEnQ4W4uw">karanfil uzatır</a>.<br/><br/>şimdi siktir git; derin stratejik çözümlemelerini imamhatip sözlükte yap, bok sineği seni.<br/><br/>edit: odatv'deki <a rel="nofollow" class="url" target="_blank" href="http://odatv.com/teslim-olan-askerin-bogazi-kesildi-1607161200.html" title="http://odatv.com/teslim-olan-askerin-bogazi-kesildi-1607161200.html">şu habere yönelik</a>, sosyal medyada paylaşılan <a rel="nofollow" class="url" target="_blank" href="http://itaatsizhaber.com/wp-content/uploads/2016/07/yalan.jpg" title="http://itaatsizhaber.com/wp-content/uploads/2016/07/yalan.jpg">cnntürk'lü fotoşop capsiyle</a> karşılık verenler olmuş. diyorum ki 2006 yılındaki cnn türk'ün haber linkini atın, tık yok çomarlarda.<br/><br/>alın amk, onu da ben atayım: <a rel="nofollow" class="url" target="_blank" href="http://www.cnnturk.com/2006/turkiye/06/14/askeri.arac.devrildi.bir.sehit.uc.yarali/190278.0/index.html" title="http://www.cnnturk.com/2006/turkiye/06/14/askeri.arac.devrildi.bir.sehit.uc.yarali/190278.0/index.html">http://www.cnnturk.com/….yarali/190278.0/index.html</a><br/><br/>gördüğünüz gibi söz konusu haberde fotoğraf bile mevcut değil. bu çomarlara allah akıl fikir versin gerçekten.<br/><br/>ve akit yine şaşırtmamıştır: <a rel="nofollow" class="url" target="_blank" href="http://webcache.googleusercontent.com/search?q=cache:VDlqwV_vUcwJ:www.yeniakit.com.tr/haber/halk-darbeci-hainin-kellesini-aldi-194539.html+&cd=68&hl=tr&ct=clnk&gl=trt=clnk&amp;gl=tr" title="http://webcache.googleusercontent.com/search?q=cache:VDlqwV_vUcwJ:www.yeniakit.com.tr/haber/halk-darbeci-hainin-kellesini-aldi-194539.html+&cd=68&hl=tr&ct=clnk&gl=trt=clnk&amp;gl=tr">http://webcache.googleusercontent.com/…t=clnk&gl=trl=tr</a><br/><br/>bakmanızda fayda var: <a rel="nofollow" class="url" target="_blank" href="http://www.insanhaber.com/guncel/iste-yalan-oldugu-iddia-edilen-isid-usulu-infazda-tum-gercekler-70538" title="http://www.insanhaber.com/guncel/iste-yalan-oldugu-iddia-edilen-isid-usulu-infazda-tum-gercekler-70538">http://www.insanhaber.com/…azda-tum-gercekler-70538</a><br/><br/>fotoğraftaki kamuflajın, 2010 yılında kullanılmaya başlandığına dair mesaj atan yazarlar var. bu durumda, cnntürk'ün adı kullanılarak paylaşılan "yalan haber" içerikli capsin asıl kendisi "yalan" olmuş oluyor.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.google.com.tr/search?hl=tr&biw=1280&bih=899&tbs=sbi:AMhZZisBaJ8xk0iQEMtfX7aOQkzFoEkRBf7UX0blOI-QvRZOy1aJ8RyluZ49xif_1oKbQ64BnjzTq79P42GTh48YfA8dcM95V5hbC2NuBXHZivaxYpFm0cWyZL26t8Li3Tqcwn-RcaWTDF-W107btPea2NeyW7IHj-J3fcpr6N4TyBzcKZj7WeFLfEOahNZb-0vp9-_1_10QhUsNuVAsbrFuovJztIp3_1_1AyWQHMd42cKKtAW6D_1-oJ1EHMc1xezdyCdSk6KXobZzTAK2xsVUjEFpqNalnO-zrPNFJihySeYSlFbauXBxxAyTBamOQyk8p75ZLK22GHTOljddeHOXuAMsL8scjNgizb0l-qbe1_1FFHGPODxSq0xEpQGnk1usCa-wrfS94We1bOPTcdNfekaqOXt2M675oH1xJSWpYph4APg2stE8DkSkVK7R_1mFGLvRKWbPOmO5SaIuEr1d-aAZOfcCgITzpQWh-iYU0H780gjaF4a1xrgpbwBUB0olC47umcyxnahjlYN_1pwfcSr9zFq1UcLqaKgj7zF_1SPlpJUgJy5jlcjeKa3iL7jbJLEc87Y-mLtheHvPLZWZ5FkgFxK5c-s1OOSZmtRCQX9oswoElz9G-VshXb-2OOONl19BO9SqwHAIeAv3vegSCLlsxE9xgR78t_10fxu9wT4z5feR3v3xeSJlYQjaST4ePefTtvSi5N2_1JumGlZQ0J3fGqkTZizSgLDbWVxfTZ42rxZ8NPNfO8Q9iKoYPBTdfNu7DFeWx4bwaOOANDp8H_1aPgQgrWP53mO0bZ8dpzC3PDmljDE_1LsZi7uFa9m8cdYGVtGgNFz8lJ_1QzLhxVONzwe6dGq4mQTSU9xDCV7b3YZfrnPtS1W4BszG59qCx2AlDDVtwpUJhCL5tPSM0kDy0S9A28SMAygyUalJOiQEsOtCxuZTJtgzjhZ9GAudKV4jdmesMPKlYuet3qgelULn2CgK2PI6sqoh1OT4w7ZKUW_1rwl2bQ5GjYQzF1oQ1e18SahaLrN9TGG1JOrmKtdzH-9hsLomYw_1e8Ty52czEDKu6kuMuHx0fMQmZFkf7zr7hr1W91Hdrj3-_13aWjW5naM-yrON2De8pALCpaIaJYvJNsdMgspMXtAHLjuGeLup9yeYZdyrr92fPbEeP-Jqilc84fctF6vRi7bI0jx-gQ1mhcqp-7eBF1pLZvrNqynJHb1v3toe1laY77lIlPYnRPN7WYXklOtUX6yIV2ZGKgH68n9gKp3Ip1nKU7LU4vyYt3I0goVhZzjzQaWuo6nWfwkdAu8LO0EVdHAY6al_1RpioctjXGw4BN-F0QtrdGSr9524ldhHWCg4lN7uN_1xIlpXWl_1Dwwdt04QLH7ZpckYEeSJ443Cx83mOVdQhOIlg0Emcu-Kp3HItXAH_1CJyTRq3gLISfMGWZOyXpDhQPNAln4cOHl2uyYzkLooIelrrCgqFynoD1Guhug1Y92fuYzQrf&ei=a9yLV8LVH8XkUbqXkMAK&start=0&sa=NMAK&amp;start=0&amp;sa=N" title="https://www.google.com.tr/search?hl=tr&biw=1280&bih=899&tbs=sbi:AMhZZisBaJ8xk0iQEMtfX7aOQkzFoEkRBf7UX0blOI-QvRZOy1aJ8RyluZ49xif_1oKbQ64BnjzTq79P42GTh48YfA8dcM95V5hbC2NuBXHZivaxYpFm0cWyZL26t8Li3Tqcwn-RcaWTDF-W107btPea2NeyW7IHj-J3fcpr6N4TyBzcKZj7WeFLfEOahNZb-0vp9-_1_10QhUsNuVAsbrFuovJztIp3_1_1AyWQHMd42cKKtAW6D_1-oJ1EHMc1xezdyCdSk6KXobZzTAK2xsVUjEFpqNalnO-zrPNFJihySeYSlFbauXBxxAyTBamOQyk8p75ZLK22GHTOljddeHOXuAMsL8scjNgizb0l-qbe1_1FFHGPODxSq0xEpQGnk1usCa-wrfS94We1bOPTcdNfekaqOXt2M675oH1xJSWpYph4APg2stE8DkSkVK7R_1mFGLvRKWbPOmO5SaIuEr1d-aAZOfcCgITzpQWh-iYU0H780gjaF4a1xrgpbwBUB0olC47umcyxnahjlYN_1pwfcSr9zFq1UcLqaKgj7zF_1SPlpJUgJy5jlcjeKa3iL7jbJLEc87Y-mLtheHvPLZWZ5FkgFxK5c-s1OOSZmtRCQX9oswoElz9G-VshXb-2OOONl19BO9SqwHAIeAv3vegSCLlsxE9xgR78t_10fxu9wT4z5feR3v3xeSJlYQjaST4ePefTtvSi5N2_1JumGlZQ0J3fGqkTZizSgLDbWVxfTZ42rxZ8NPNfO8Q9iKoYPBTdfNu7DFeWx4bwaOOANDp8H_1aPgQgrWP53mO0bZ8dpzC3PDmljDE_1LsZi7uFa9m8cdYGVtGgNFz8lJ_1QzLhxVONzwe6dGq4mQTSU9xDCV7b3YZfrnPtS1W4BszG59qCx2AlDDVtwpUJhCL5tPSM0kDy0S9A28SMAygyUalJOiQEsOtCxuZTJtgzjhZ9GAudKV4jdmesMPKlYuet3qgelULn2CgK2PI6sqoh1OT4w7ZKUW_1rwl2bQ5GjYQzF1oQ1e18SahaLrN9TGG1JOrmKtdzH-9hsLomYw_1e8Ty52czEDKu6kuMuHx0fMQmZFkf7zr7hr1W91Hdrj3-_13aWjW5naM-yrON2De8pALCpaIaJYvJNsdMgspMXtAHLjuGeLup9yeYZdyrr92fPbEeP-Jqilc84fctF6vRi7bI0jx-gQ1mhcqp-7eBF1pLZvrNqynJHb1v3toe1laY77lIlPYnRPN7WYXklOtUX6yIV2ZGKgH68n9gKp3Ip1nKU7LU4vyYt3I0goVhZzjzQaWuo6nWfwkdAu8LO0EVdHAY6al_1RpioctjXGw4BN-F0QtrdGSr9524ldhHWCg4lN7uN_1xIlpXWl_1Dwwdt04QLH7ZpckYEeSJ443Cx83mOVdQhOIlg0Emcu-Kp3HItXAH_1CJyTRq3gLISfMGWZOyXpDhQPNAln4cOHl2uyYzkLooIelrrCgqFynoD1Guhug1Y92fuYzQrf&ei=a9yLV8LVH8XkUbqXkMAK&start=0&sa=NMAK&amp;start=0&amp;sa=N">şu da</a> google kayıtları olarak köşede dursun.<br/><br/>sansür haberleri de gelmeye başladıysa bu iş tamamdır: <a rel="nofollow" class="url" target="_blank" href="http://ilerihaber.org/icerik/medyaya-darbe-4-haber-sitesi-erisime-kapatildi-56898.html" title="http://ilerihaber.org/icerik/medyaya-darbe-4-haber-sitesi-erisime-kapatildi-56898.html">http://ilerihaber.org/…erisime-kapatildi-56898.html</a><br/><br/>edit2: başlığı açan siktir olup gitmiş, bu da bir meziyet sayılır. bana sövmeyin.
    
   entry_writer: ezana yakalanan pornocu
 - entry_name: |
@@ -135,7 +127,7 @@ data:
   entry_id: 61813231
   entry_content: |
     
-    'chp darbe gunu ortada yoktu' , 'chpliler sokakta degildi''<br/><br/>sen kimi hedef gostermeye calisiyorsun nedim efendi ? agzindan cikani kulagin duysun, memleket ic savastan donmus, sen neyin derdindesin neyin pesindesin ?<br/><br/>yaziklar olsun.
+    'chp darbe gunu ortada yoktu' , 'chpliler sokakta degildi''<br/><br/>sen kimi hedef gostermeye calisiyorsun nedim efendi ? agzindan cikani kulagin duysun, memleket ic savastan donmus, sen neyin derdindesin neyin pesindesin ?<br/><br/>yaziklar olsun.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=darbe+te%c5%9febb%c3%bcs%c3%bc+sonras%c4%b1+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu%27na+te%c5%9fekk%c3%bcr">darbe teşebbüsü sonrası kılıçdaroğlu'na teşekkür</a>)
    
   entry_writer: modern zaman gangsteri
 - entry_name: |
@@ -258,14 +250,6 @@ data:
     sen egemenlik kayıtsız şartsız milletindir dedin, en büyük düşmanların senin ordunun silahlarıyla darbe yapmaya kalkıştı..<br/><br/>sen bize milletin meclisini armağan ettin, birileri senin ismini kullanarak bildiri yayınladı sonra gidip o meclisi bombaladı.<br/><br/>laik türkiye cumhuriyeti dedin, şimdi kızılay meydanını bir görebilseydin.<br/><br/>şimdi tekrar dirilsen, belki de yine kurtarmaya değer bile bulmazdın. işte öyle bir tutarsızız, öylesine saçmayız.
    
   entry_writer: casa
-- entry_name: |
-    türkiye'de esrar kullanımının yasallaşması
-  entry_id: 61809670
-  entry_content: |
-    
-    yırtık dondan fırlar gibi söylemek istiyorum ki artık zamanı gelmiştir. bu ülkenin insanlarının bi rahatlaması lazım artık. haliyle devlete de para lazım şimdi.  <br/><br/>bu ülkenin insanlarının bol bol sevişip bol bol takılması lazım bi süre yoksa bu kin, bu nefret, bu kavga dinmeyecek. <br/><br/>özellikle amerikada ve dünyada yasallaşan ülkelere bakılırsa, ülkelerin vergi gelirinin ne kadar arttığı, suçların ne kadar azaldığı, turizmin arttığı gözlemlenebilir. <br/><br/>sinirlendin mi kavgaya mı gidicen, yak bi sigara, sevgi kelebeği gibi dolaş.<br/><br/>sokaklarda tomalar, tanklar değil, dominos motorları gezsin bol bol, ülkenin esnaf tatlıcıları kazansın. alkol içip sıvı cesaret alacaklara, marijuana verip mutlu mesut olsun yüzünde gülümse filan. hızlı dikkatsiz araba kullanan alkollü sürücüler yerine, 20 km ile mutlu sürücüler gelsin. alkol komasından insanlar ölmesin. en azından esrar komasından ölen insan yok dünyada, ölmek için 820 sigara içmen gerekiyor, o da karbondioksitten dolayı öldürüyor. insanlar alkol alıp kavga edeceğine, ot içip kahkaha atsın.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=vWF4m_qo-WI" title="https://www.youtube.com/watch?v=vWF4m_qo-WI">https://www.youtube.com/watch?v=vwf4m_qo-wi</a><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=ABc8ciT5QLs" title="https://www.youtube.com/watch?v=ABc8ciT5QLs">https://www.youtube.com/watch?v=abc8cit5qls</a>
-   
-  entry_writer: freshfighter
 - entry_name: |
     akın öztürk'ün darbe planını itiraf etmesi
   entry_id: 61807381
