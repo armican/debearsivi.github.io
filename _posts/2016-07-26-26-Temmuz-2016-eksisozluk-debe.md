@@ -15,7 +15,7 @@ data:
   entry_id: 61944442
   entry_content: |
     
-    "basbakana suikast yapacakti manteseti ile 2006 yilinda gundemden dusmeyen yuzbasi murat eren hala cezaevindedir..<br/><br/>ergenekon ve balyoz davalarinin hazirlik calismalarini yuzbasi murat eren uzerinde yapan fetöcü serefsizler, ne kadar kolay basariya ulastiklarini anlayip, diger tsk karalamalarina basladilar hiz kesmeden.<br/><br/>yargilandigi mahkemede adi gecen diger saniklarin beraat etmesi ve sadece yuzbasi eren in yargilanmaya devam etmesi akillara durgunluk vericidir. sozum ona atabeyler cetesi lideri olarak anilan yuzbasi eren, hem cete kurmus hem yonetmis ama tum bunlari tek basina yapmis!!!<br/><br/>saka bir yana hala cezaevinde olan yuzbasinin anayasa mahkemesine yaptigi yeniden yargilanma talebi 2 yildir gundeme alinmamistir. bu talebin degerlendirilmemesi yogunluktan degil, bildigin fetöcülerin serefsizliklerindendir. <br/><br/>bu nasil vurdumduymazliktir, daha ne kadar kahpelesebilir bu insan musveddeleri! su an 3,5 yasinda olan kizini, 20 gunluk bebekken kundakta birakip kendi ayagiyla teslim olmus ve turkiyedeki yargi makamlarina guvenmistir. bu guveni gunumuz kosullarinda kulaga delilik gibi gelse de oyle vatansever bir turk subayidir yuzbasim.<br/><br/>ailesinin feryadi belli bir kesimce bilinse de, davada adi gecen tek subay olmasi nedeniyle mucadelesine yanliz basina devam etmektedir.<br/><br/>nedir bu yasananlar bir anlam veremiyorum. nasil telafi edilir hayatindan calinan 10 yil bilemiyorum.<br/><br/>araciligimiz ile gundeme gelmesini saglarsak ve bir nebzede olsa destek verirsek cok mutlu olurum."<br/><br/>direkt olarak esinin dusunceleridir.<br/><br/>edit: neden 10 yil kismina aciklama getirmek istedim. ilk olarak 2006 yilinda tutuklanmis ve 3 ay sonra beraat etmistir. fakat daha sonra baska davalardan yargilanmaya devam etmistir.<br/><br/>#muratereneözgürlük
+    "basbakana suikast yapacakti manteseti ile 2006 yilinda gundemden dusmeyen yuzbasi murat eren hala cezaevindedir..<br/><br/>ergenekon ve balyoz davalarinin hazirlik calismalarini yuzbasi murat eren uzerinde yapan fetöcü serefsizler, ne kadar kolay basariya ulastiklarini anlayip, diger tsk karalamalarina basladilar hiz kesmeden.<br/><br/>yargilandigi mahkemede adi gecen diger saniklarin beraat etmesi ve sadece yuzbasi eren in yargilanmaya devam etmesi akillara durgunluk vericidir. sozum ona atabeyler cetesi lideri olarak anilan yuzbasi eren, hem cete kurmus hem yonetmis ama tum bunlari tek basina yapmis!!!<br/><br/>saka bir yana hala cezaevinde olan yuzbasinin anayasa mahkemesine yaptigi yeniden yargilanma talebi 2 yildir gundeme alinmamistir. bu talebin degerlendirilmemesi yogunluktan degil, bildigin fetöcülerin serefsizliklerindendir. <br/><br/>bu nasil vurdumduymazliktir, daha ne kadar kahpelesebilir bu insan musveddeleri! su an 3,5 yasinda olan kizini, 20 gunluk bebekken kundakta birakip kendi ayagiyla teslim olmus ve turkiyedeki yargi makamlarina guvenmistir. bu guveni gunumuz kosullarinda kulaga delilik gibi gelse de oyle vatansever bir turk subayidir yuzbasim.<br/><br/>ailesinin feryadi belli bir kesimce bilinse de, davada adi gecen tek subay olmasi nedeniyle mucadelesine yanliz basina devam etmektedir.<br/><br/>nedir bu yasananlar bir anlam veremiyorum. nasil telafi edilir hayatindan calinan 10 yil bilemiyorum.<br/><br/>araciligimiz ile gundeme gelmesini saglarsak ve bir nebzede olsa destek verirsek cok mutlu olurum."<br/><br/>direkt olarak esinin dusunceleridir.<br/><br/>edit: neden 10 yil kismina aciklama getirmek istedim. ilk olarak 2006 yilinda tutuklanmis ve 3 ay sonra beraat etmistir. fakat daha sonra baska davalardan yargilanmaya devam etmistir.<br/><br/>#muratereneözgürlük<br/><br/>debe editi: lütfen güncel tutmamıza yardım edin arkadaşlar.
    
   entry_writer: peynir agaci
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 61939954
   entry_content: |
     
-     <a rel="nofollow" class="url" target="_blank" href="http://amkspor.sozcu.com.tr/2016/07/25/spor-basininda-one-cikan-transfer-gelismeleri-16-510334/?pid=3" title="http://amkspor.sozcu.com.tr/2016/07/25/spor-basininda-one-cikan-transfer-gelismeleri-16-510334/?pid=3">http://amkspor.sozcu.com.tr/…eleri-16-510334/?pid=3</a><br/><br/>bir beşiktaşlı olarak istemediğim transfer. sen gelme espirisi yapacağım da hesap sorar diye korkuyorum.<br/><br/>edit: düzeltme
+     <a rel="nofollow" class="url" target="_blank" href="http://amkspor.sozcu.com.tr/2016/07/25/spor-basininda-one-cikan-transfer-gelismeleri-16-510334/?pid=3" title="http://amkspor.sozcu.com.tr/2016/07/25/spor-basininda-one-cikan-transfer-gelismeleri-16-510334/?pid=3">http://amkspor.sozcu.com.tr/…eleri-16-510334/?pid=3</a><br/><br/>bir beşiktaşlı olarak istemediğim transfer. sen gelme espirisi yapacağım da hesap sorar diye korkuyorum.<br/><br/>edit: düzeltme<br/><br/>debedit: twitter'da bir hashtag açsa etkin olan biri, fetöcülerden boşalan yerlere alımlar için #liyakat dese, milletin dikkatini buna çekse, ne güzel olur.<br/><br/>(bkz: <a class="b" href="/?q=liyakat+usul%c3%bcne+g%c3%b6re+atama+istiyoruz">liyakat usulüne göre atama istiyoruz</a>)
    
   entry_writer: islatistik
 - entry_name: |
@@ -47,7 +47,7 @@ data:
   entry_id: 61938043
   entry_content: |
     
-    katıldığım önerme..<br/><br/>mesela bakıyorsun, ağız hareketleri, yüz ifadesi falan açıkça <a class="b" href="/?q=fa%c5%9fist+teokratik+dikta">faşist teokratik dikta</a> ama duyulan ses <a class="b" href="/?q=%c3%b6zg%c3%bcrl%c3%bck%2c+e%c5%9fitlik%2c+ileri+demokrasi">özgürlük, eşitlik, ileri demokrasi</a>.<br/><br/>vay anasını be!
+    katıldığım önerme..<br/><br/>mesela bakıyorsun, ağız hareketleri, yüz ifadesi falan açıkça <a class="b" href="/?q=fa%c5%9fist+teokratik+dikta">faşist teokratik dikta</a> ama duyulan ses <a class="b" href="/?q=%c3%b6zg%c3%bcrl%c3%bck%2c+e%c5%9fitlik%2c+ileri+demokrasi">özgürlük, eşitlik, ileri demokrasi</a>.<br/><br/>vay anasını be!<br/><br/>(bkz: <a class="b" href="/?q=latuff">latuff</a>)
    
   entry_writer: imranaykan
 - entry_name: |
@@ -91,14 +91,6 @@ data:
    
   entry_writer: cerik
 - entry_name: |
-    erdoğan'dan başka ben dahil kimseye güvenmeyin
-  entry_id: 61939102
-  entry_content: |
-    
-    - sen dahil kimseye güvenmeyeceksek, bu cümleye de itibar etmememiz lazım çünkü sen söyledin amk.
-    
-  entry_writer: mesglsn sanirm bn yatiyrm
-- entry_name: |
     seda sayan'ın oscarlık klip performansı
   entry_id: 61944249
   entry_content: |
@@ -127,7 +119,7 @@ data:
   entry_id: 61940831
   entry_content: |
     
-    ön edit: iett iade ediyormuş ücretleri.  <a rel="nofollow" class="url" target="_blank" href="http://www.ensonhaber.com/aylik-akbil-kullananlara-ucret-iadesi-yapilacak-2016-07-25.html" title="http://www.ensonhaber.com/aylik-akbil-kullananlara-ucret-iadesi-yapilacak-2016-07-25.html">kaynak</a><br/><br/>en acı duyguların insanı, en çorak çöllerin bedevisidir. <br/><br/>ayın 10'u gibi biten aylık iett mavi kartını cuma gününden doldurmuş, cumartesi de işe gideceğinden, kendisini riske atmamıştır. tabi cuma günü akşam yaşanan darbe girişimi, ve ertesinde gelişen demokrasi nöbetleri vesilesiyle istanbul'da ulaşımın son iki haftadır ücretsiz olmasıyla yıkıma uğramıştır. <br/><br/>yüklediği paranın yarısı heba olmuş insan. <br/><br/>yeminle söylüyorum, bu bir dramdır. <br/><br/>keşke 15 ve 16 temmuz 2016 tarihinde yüklenen mavi kartlara da uzatma ya da iade gelse.
+    ön edit: iett, hiç kullanılmamak kaydıyla, iade ediyormuş ücretleri.  <a rel="nofollow" class="url" target="_blank" href="http://www.ensonhaber.com/aylik-akbil-kullananlara-ucret-iadesi-yapilacak-2016-07-25.html" title="http://www.ensonhaber.com/aylik-akbil-kullananlara-ucret-iadesi-yapilacak-2016-07-25.html">kaynak</a><br/><br/>en acı duyguların insanı, en çorak çöllerin bedevisidir. <br/><br/>ayın 10'u gibi biten aylık iett mavi kartını cuma gününden doldurmuş, cumartesi de işe gideceğinden, kendisini riske atmamıştır. tabi cuma günü akşam yaşanan darbe girişimi, ve ertesinde gelişen demokrasi nöbetleri vesilesiyle istanbul'da ulaşımın son iki haftadır ücretsiz olmasıyla yıkıma uğramıştır. <br/><br/>yüklediği paranın yarısı heba olmuş insan. <br/><br/>yeminle söylüyorum, bu bir dramdır. <br/><br/>keşke 15 ve 16 temmuz 2016 tarihinde yüklenen mavi kartlara da uzatma ya da iade gelse.
    
   entry_writer: sayha
 - entry_name: |
@@ -235,14 +227,6 @@ data:
    
   entry_writer: bos gezenin hos kalfasi
 - entry_name: |
-    ersan şen
-  entry_id: 61951351
-  entry_content: |
-    
-    yalaka bir gazeteci "canım şimdi balyozda ergenekonda ateş olmayan yerde duman olmaz cemaat de o dumanı kullandı" filan diye gevelerken şak diye "bak dikkat et bu yöntemle 17/25 aralık meselesinde cemaati aklamak üzeresin" dedi. yalaka olanı anında konuyu değiştirdi. sakin sakin izlerken bir anda kahkaha attım.
-    
-  entry_writer: parliament night blu ray
-- entry_name: |
     düzgün erkeklerin hepsinin kapılmış olması
   entry_id: 61938387
   entry_content: |
@@ -274,14 +258,6 @@ data:
     transferden biz de çekildik. kim olduğumuzu da söylemiyorum amk. merak edin..<br/><br/>edit: bjk sözlük sanki burası amk salağı...
    
   entry_writer: by myself but not alone
-- entry_name: |
-    sekülerlerin adam olmayacağı gerçeği
-  entry_id: 61938902
-  entry_content: |
-    
-    mangolu smoothie nasıl hazırlanır??<br/><br/>hem lezzetli hem de bağışıklık sisteminizi güçlendiren bir içecek istiyorsanız mangolu smoothie'yi tercih edebilirsiniz.<br/><br/>her türlü ortamda rahatça tüketebileceğiniz bu içecek biraz zahmet istese de beğenmeyecek pek az arkadaşınız olacaktır.<br/><br/>ferahlatıcı ve yaz aylarına uygun mangolu smoothie aynı zamanda oldukça düşük kalori içeriyor.<br/><br/>malzemeler<br/><br/>1 büyük mango<br/>250 ml süzme yoğurt<br/>150 ml süt<br/>8 küp buz<br/>yarım muz<br/><br/>yapılışı<br/><br/>mangoyu ikiye kesin.<br/>küp şeklinde doğrayın.<br/>yoğurt ve sütü blenderda karıştırın.<br/>karışıma mango parçalarını ekleyin.<br/>buzu ekleyin.<br/>dilediğiniz kıvama gelinceye dek karıştırın.<br/><br/>mangolu smoothie'yi kamışla servis ederseniz içmesi daha kolay olacaktır.
-   
-  entry_writer: cihoanktr
 - entry_name: |
     hulusi akar
   entry_id: 61938551
@@ -327,7 +303,7 @@ data:
   entry_id: 61945315
   entry_content: |
     
-    umarım çarptıkları araçtaki insan(lar)da ağır bi' durum yoktur..<br/><br/>kendileri için ise "tüh, ne kadar da gençler oysa..." diyerek üzülecek değilim. ölümle (hem de karşılarındakinin ölümüyle) sonuçlanabileceğini bile bile bu tip bi' hareket yapmak gözümde cinayete teşebbüsten farksızdır. <br/><br/>şu an bu gençler için empati yapan, yapmaya çalışan yazarlara tek sorum var;<br/><br/>bu heriflerin tavrını paylaşılan videolarda görüyorsunuz, üstte de yazılmış, örnek vermek gerekirse;<br/><br/>"beyler akşama burada olun e-5 te makas var"<br/>"boş yolda basılmıyor be dolu yol yok ki basalım"<br/><br/>soru şu;<br/><br/>* kendi eğlenceleri için, sırf biraz tanınıp ünlenmek için başkalarının hayatını hiç umursamadan tehlikeye atan bu sorumsuz serseriler (ki şu an dizginliyorum kendimi daha ağırını yazmamak için);<br/><br/>- ya akraba gezmesinden dönen ve akşam evde ne yemek yapsak diye konuşan anne-babanızın arabasına çarpsalardı...<br/><br/>- ya uzun zamandır görmediğiniz için çok özlediklerini söyleyip sizi ziyarete gelen minik yeğenlerinizin arabasına çarpsalardı...<br/><br/>- ya 10 dk önce telefonda size "sevgilim yola çıkıyorum, 1 saat sonra falan buluşuruz" diyen sevdiceğinizin arabasına çarpsalardı...<br/><br/>- ya kendi halinizde giderken birdenbire sizin arabanıza çarpsalardı...<br/><br/>...bu kadar anlayışlı olabilecek miydiniz?<br/><br/>çok netim, zerre üzülmüyorum ikisi için de. trafikte birden fazla kere bu tip serseriler yüzünden ölümle burun buruna geldim, panik fren yaptım, ani direksiyon kırdım, ucu ucuna sıyırdım. bu tecrübelerin en sonuncusunda ise arka koltukta 3.5 yaşında yeğenlerim oturuyordu. o zamandan beri ne vakit böyle bir serserilik haberi alsam, aklıma direkt o miniklerim gelir, nefretle dolarım.<br/><br/>yine de kimsenin ölmesini dileyecek değilim. fakat ölmeyip cinayetle yargılanmaları en büyük temennimdir. bu tip serserilerin yarattığı trafik terörüne karşı çok ciddi önlemler alınmasının zamanı geldi de geçiyor bile. <br/><br/>bu konuyu ciddiye almak için illa bir yakınınızı kaybetmeniz gerekmiyor.
+    umarım çarptıkları araçtaki insan(lar)da ağır bi' durum yoktur..<br/><br/>kendileri için ise "tüh, ne kadar da gençler oysa..." diyerek üzülecek değilim. ölümle (hem de karşılarındakinin ölümüyle) sonuçlanabileceğini bile bile bu tip bi' hareket yapmak gözümde cinayete teşebbüsten farksızdır. <br/><br/>şu an bu gençler için empati yapan, yapmaya çalışan yazarlara tek sorum var;<br/><br/>bu heriflerin tavrını paylaşılan videolarda görüyorsunuz, üstte de yazılmış, örnek vermek gerekirse;<br/><br/>"beyler akşama burada olun e-5 te makas var"<br/>"boş yolda basılmıyor be dolu yol yok ki basalım"<br/><br/>soru şu;<br/><br/>* kendi eğlenceleri için, sırf biraz tanınıp ünlenmek için başkalarının hayatını hiç umursamadan tehlikeye atan bu sorumsuz serseriler (ki şu an dizginliyorum kendimi daha ağırını yazmamak için);<br/><br/>- ya akraba gezmesinden dönen ve akşam evde ne yemek yapsak diye konuşan anne-babanızın arabasına çarpsalardı...<br/><br/>- ya uzun zamandır görmediğiniz için çok özlediklerini söyleyip sizi ziyarete gelen minik yeğenlerinizin arabasına çarpsalardı...<br/><br/>- ya 10 dk önce telefonda size "sevgilim yola çıkıyorum, 1 saat sonra falan buluşuruz" diyen sevdiceğinizin arabasına çarpsalardı...<br/><br/>- ya kendi halinizde giderken birdenbire sizin arabanıza çarpsalardı...<br/><br/>...bu kadar anlayışlı olabilecek miydiniz?<br/><br/>çok netim, zerre üzülmüyorum ikisi için de. trafikte birden fazla kere bu tip serseriler yüzünden ölümle burun buruna geldim, panik fren yaptım, ani direksiyon kırdım, ucu ucuna sıyırdım. bu tecrübelerin en sonuncusunda ise arka koltukta 3.5 yaşında yeğenlerim oturuyordu. o zamandan beri ne vakit böyle bir serserilik haberi alsam, aklıma direkt o miniklerim gelir, nefretle dolarım.<br/><br/>yine de kimsenin ölmesini dileyecek değilim. fakat ölmeyip cinayete teşebbüsle yargılanmaları en büyük temennimdir. bu tip serserilerin yarattığı trafik terörüne karşı çok ciddi önlemler alınmasının zamanı geldi de geçiyor bile. <br/><br/>bu konuyu ciddiye almak için illa bir yakınınızı kaybetmeniz gerekmiyor.
    
   entry_writer: soulforger
 - entry_name: |
@@ -335,8 +311,8 @@ data:
   entry_id: 61936531
   entry_content: |
     
-    çok değil daha iki yıl önce tüm chp'lilere, kılıçdaroğlu'na ve laik kesime fetullah gülen hocaefendimize feto diyemezsiniz diyen anadolu çomarlarının yeni icadı.
-    
+    çok değil daha iki yıl önce tüm chp'lilere, kılıçdaroğlu'na ve laik kesime fetullah gülen hocaefendimize feto diyemezsiniz diyen anadolu çomarlarının yeni icadı..<br/><br/>debe editi: #muratereneözgürlük
+   
   entry_writer: ersooo
 - entry_name: |
     adriano correia claro
@@ -347,19 +323,11 @@ data:
    
   entry_writer: leitmotif
 - entry_name: |
-    istanbul adalar'ın araplarca istila edilmesi
-  entry_id: 61944429
-  entry_content: |
-    
-    haftasonunu büyükada'da geçirdikten sonra kesinlikle katıldığım önerme. evden çıkmadan geçirdiğimiz sessiz sakin, huzurlu bir cumartesi günü ve gecesinden sonra pazar günü aşağı inince gördüklerime ciddi ciddi inanamadım. böyle bir istila olamaz. çocukluğumdan beri neredeyse her sene yazını kışını gördüğüm, tonla anı biriktirdiğim, istanbul'un rant uğruna heba edilmeden güzel kalmayı başarmış belki de son bölgesinin war of the worlds setine dönüşmesi içimi acıttı..<br/><br/>büyükadada'da pazar öğleden sonrası için gözlemlerim:<br/><br/>- çarşı ve sahil kesiminde metrekareye 2 insan düşecek bir kalabalık var ve bunun abartmıyorum 2/3'ü arap turist<br/>- profil genellikle 3-4 çocuklu, bebek arabalı, kucakta ağlaşan çocuk taşımalı geniş aileler ya da parmak arası terlikle 3-5 erkek birden gezen sap ekipler<br/>- herkesin elinde fosforlu mavili, pembeli, sıvı sabun renginde abuk sabuk dondurmalar. (ne kadar absürt bir manzara olduğunu anlamak için göt göte duran ve delicesine dondurma yalayan 500 insan düşünün)<br/>- yerler çöp. çocuklar cips yiyip paketini rahatlıkla yere bırakıyor ve kimsenin umurunda değil.<br/>- meydandaki 10 metrekarelik çimene bile altı aile oturmuş.<br/>- anneler çocukları resmen çarşının içindeki ağaç diplerine işetiyorlar.<br/>- faytonlar yol ortasında durmak mecburiyetinde kalıyor. sokakların ortasında yürüyüp atlara dokunmaya falan çalışıyorlar. zavallı hayvanlar stresten kafayı yemiş.<br/><br/>en çok dikkatimi çekense, arap ırkının doğayla uzaktan yakından bağının olmadığını net bir şekilde görmem oldu. adalar'a gitmenin bizim için mantığı nedir? iki ağaç göreyim, çime yatayım, bisiklete bineyim, gaza gelirsem denize gireyim vs değil midir? hangimiz salak mado dondurması yiyip alışveriş yapmaya gidiyoruz? bu adamların kültürünün bana en garip gelen kısmı bu işte. aşağısı zombieland'e bağlamışken yukarılardaki mesire yerlerinde sadece türkler var, bisiklete sadece türkler biniyor, denize sadece türkler giriyor. bunlarsa sadece dondurma yalayıp, yemek yiyip, hediyelik eşya alıp, kaldırımlara oturup geri dönüyorlar. adamlar ülkelerinde sadece bunlar yapılabildiği için net bir şekilde beton ve alışveriş seviyor. dışa dönük ve değişime açık olmadıkları için de büyükada'ya bile gitseler 15 dakika yürüp çimende deniz manzarasına karşı oturmak yerine çarşıda kaldırıma oturup orada yemek yiyorlar (ki gerçekten yanlarında getirdikleri örtüyü kaldırıma serip yiyen aileler gördüm).<br/><br/>bu insanları arap oldukları için aşağılamıyorum. kaba, görgüsüz, tüketimden başka bir eğlence bilmeyen, doğaya sırt çevirmiş, tembel ve aşırı konformist bir topluluk oldukları için aşağılıyorum. ırkçılıkla salaklığa tahammül edememek farklı şeyler. zaten belirli bir seviyede olanların bu gerizekalılığın içine dahil olmadığından eminim. bunlar dışındaki bir insanın şu ortamda eğlenebilmesi, mutlu olabilmesi cidden imkansız.<br/><br/>kısacası, insan kendi çomarına bile zor tahammül ederken istilacı yaşam formlarından üstün bir zeka gösteremeyen bu kadar yabancıyı bu kadar göz bebeği bir yerde görmeyi kaldıramıyor dostlar.
-   
-  entry_writer: sir gawain
-- entry_name: |
     recep tayyip erdoğan
   entry_id: 61943549
   entry_content: |
     
-    15 temmuzdan beri bu adama bakışında yumuşama olanlar, birlik beraberliği sağlayacağını falan düşünenler net geri zekalıdır. bu cicim günleri bitince gene bunlaaar diye inlemeye başlayacaktır, boşalan kadroları akp'ye yakın tarikatlarla, orduyu imam hatiplilerle dolduracaktır. kısaca kabus gibi üzerimize çökmeye devam edecektir.  <br/><br/>bu arada, "abd'ye resti çeker, bağı koparır artık" diyen arkadaş da bi zahmet torbacısının kontak bilgilerini göndersin bana. mal çok sağlam galiba.
+    15 temmuzdan beri bu adama bakışında yumuşama olanlar, birlik beraberliği sağlayacağını falan düşünenler net geri zekalıdır. bu cicim günleri bitince gene bunlaaar diye inlemeye başlayacaktır. boşalan kadroları akp'ye yakın tarikatlarla, orduyu imam hatiplilerle dolduracaktır. kısaca kabus gibi üzerimize çökmeye devam edecektir.  <br/><br/>bu arada, "abd'ye resti çeker, bağı koparır artık" diyen arkadaş da bi zahmet torbacısının kontak bilgilerini göndersin bana. mal çok sağlam galiba.
    
   entry_writer: gezgin rocker
 - entry_name: |
