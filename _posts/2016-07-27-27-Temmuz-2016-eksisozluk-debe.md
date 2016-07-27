@@ -55,7 +55,7 @@ data:
   entry_id: 61968565
   entry_content: |
     
-    birçok farklı dava kapsamında uzun süre tutuklu kalmış subayların konuk olduğu program. açıp izlemenizi tavsiye ederim. bomba gibi bir yayın olacak gibi duruyor..<br/><br/>konuklar:<br/><br/>emekli koramiral <a class="b" href="/?q=kadir+sa%c4%9fd%c4%b1%c3%a7">kadir sağdıç</a><br/>emekli tümamiral <a class="b" href="/?q=semih+%c3%a7etin">semih çetin</a><br/>emekli binbaşı <a class="b" href="/?q=levent+bekta%c5%9f">levent bektaş</a><br/>emekli deniz kurmay albay <a class="b" href="/?q=ali+t%c3%bcrk%c5%9fen">ali türkşen</a><br/>emekli kurmay albay <a class="b" href="/?q=eray+g%c3%bc%c3%a7l%c3%bcer">eray güçlüer</a><br/>emekli kıdemli albay prof. dr. <a class="b" href="/?q=tayfun+uzbay">tayfun uzbay</a><br/><br/>özellikle <a class="b" href="/?q=semih+%c3%a7etin">semih çetin</a> öyle şeyler anlatıyor ki, zamanında birilerinin savcılığını yaptığı davalar sayesinde kimlerin hangi görevlere nasıl getirildiğini, nerelere nasıl sızdırıldığını görmemizi sağlıyor.<br/><br/><a class="b" href="/?q=edit">edit</a>: hepsi adeta birer galaksi olan komutanları yayına çıkarıp 3 kuruşluk aklıyla sürekli konuşmalarını kesen <a class="b" href="/?q=ahmet+hakan">ahmet hakan</a>'ın çirkinleştirdiği yayın. <br/><br/>karşındaki adam <a class="b" href="/?q=tayfun+uzbay">tayfun uzbay</a>!! ve bu adam 'ben <a class="b" href="/?q=%c5%9fizofreni">şizofreni</a>nin tedavisini buldum, milyarlarca dolarlık bir sektörü tehlikeye attım, bundan dolayı beni tutuklamış olabilirler diyor.' ahmet hakan efendi de 'sadede gelelim' diyor. yahu bu bilgi bile <a class="b" href="/?q=fet%c3%b6">fetö</a> denen şeyin yalnızca <a class="b" href="/?q=fethullah+g%c3%bclen">fethullah gülen</a>'e bağlı bir grup insandan oluşmadığını, arkasında çok daha büyük küresel güçlerin olduğunu ortaya koyuyor.<br/><br/>sen ne biçim gazetecisin, ne biçim televizyoncusun be adam? böyle bir bilgiyi sen nasıl geçiştirebiliyorsun? yazıklar olsun.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: 3.5 yıl yok yere tutuklu kalmış <a class="b" href="/?q=ali+t%c3%bcrk%c5%9fen">ali türkşen</a> 'bunların bir amacı vardı bizi de onun için harcadılar, ben hakkımı helal ediyorum' diyerek noktayı koymuştur. sonrasında söylediklerini de burada yazmaya bile yürek yetmez. bu memleketi böyle adamlar kurdu, böyle adamlar yaşatacak.<br/><br/><a class="b" href="/?q=edit3">edit3</a>: izlemek isteyen arkadaşlar şimdilik şunlarla idare edin, programın tamamı yüklendiğinde paylaşacağım. (bkz: <a class="b" href="/entry/61973375">#61973375</a>)
+    birçok farklı dava kapsamında uzun süre tutuklu kalmış subayların konuk olduğu program. açıp izlemenizi tavsiye ederim. bomba gibi bir yayın olacak gibi duruyor..<br/><br/>konuklar:<br/><br/>emekli koramiral <a class="b" href="/?q=kadir+sa%c4%9fd%c4%b1%c3%a7">kadir sağdıç</a><br/>emekli tümamiral <a class="b" href="/?q=semih+%c3%a7etin">semih çetin</a><br/>emekli binbaşı <a class="b" href="/?q=levent+bekta%c5%9f">levent bektaş</a><br/>emekli deniz kurmay albay <a class="b" href="/?q=ali+t%c3%bcrk%c5%9fen">ali türkşen</a><br/>emekli kurmay albay <a class="b" href="/?q=eray+g%c3%bc%c3%a7l%c3%bcer">eray güçlüer</a><br/>emekli kıdemli albay prof. dr. <a class="b" href="/?q=tayfun+uzbay">tayfun uzbay</a><br/><br/>özellikle <a class="b" href="/?q=semih+%c3%a7etin">semih çetin</a> öyle şeyler anlatıyor ki, zamanında birilerinin savcılığını yaptığı davalar sayesinde kimlerin hangi görevlere nasıl getirildiğini, nerelere nasıl sızdırıldığını görmemizi sağlıyor.<br/><br/><a class="b" href="/?q=edit">edit</a>: hepsi adeta birer galaksi olan komutanları yayına çıkarıp 3 kuruşluk aklıyla sürekli konuşmalarını kesen <a class="b" href="/?q=ahmet+hakan">ahmet hakan</a>'ın çirkinleştirdiği yayın. <br/><br/>karşındaki adam <a class="b" href="/?q=tayfun+uzbay">tayfun uzbay</a>!! ve bu adam 'ben <a class="b" href="/?q=%c5%9fizofreni">şizofreni</a>nin tedavisini buldum, milyarlarca dolarlık bir sektörü tehlikeye attım, bundan dolayı beni tutuklamış olabilirler diyor.' ahmet hakan efendi de 'sadede gelelim' diyor. yahu bu bilgi bile <a class="b" href="/?q=fet%c3%b6">fetö</a> denen şeyin yalnızca <a class="b" href="/?q=fethullah+g%c3%bclen">fethullah gülen</a>'e bağlı bir grup insandan oluşmadığını, arkasında çok daha büyük küresel güçlerin olduğunu ortaya koyuyor.<br/><br/>sen ne biçim gazetecisin, ne biçim televizyoncusun be adam? böyle bir bilgiyi sen nasıl geçiştirebiliyorsun? yazıklar olsun.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: 3.5 yıl yok yere tutuklu kalmış <a class="b" href="/?q=ali+t%c3%bcrk%c5%9fen">ali türkşen</a> 'bunların bir amacı vardı bizi de onun için harcadılar, ben hakkımı helal ediyorum' diyerek noktayı koymuştur. sonrasında söylediklerini de burada yazmaya bile yürek yetmez. bu memleketi böyle adamlar kurdu, böyle adamlar yaşatacak.<br/><br/><a class="b" href="/?q=edit3">edit3</a>: programın tamamı için: <a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=jYEOpcwUyBY" title="https://m.youtube.com/watch?v=jYEOpcwUyBY">*</a>
    
   entry_writer: nickiforenko
 - entry_name: |
@@ -95,15 +95,15 @@ data:
   entry_id: 61967479
   entry_content: |
     
-    dedem ecevitçi lan,hala dsp denen partiye oy atıyo, ne diye ikna edeyim?
-    
+    dedem ecevitçi lan,hala dsp denen partiye oy atıyo, ne diye ikna edeyim??<br/><br/>debedit: dedelere sahip çıkalım.
+   
   entry_writer: kac gigibayt
 - entry_name: |
     2011'de cemaati eleştirmek
   entry_id: 61965891
   entry_content: |
     
-    dine hakaretle ve hükümeti devirmekle eş tutulan eylemdi..<br/><br/>işin garibi, insanlara bu eziyeti yaşatanlar hesap bile vermedi.<br/><br/>edit: 2011 dememin sebebi, cemaatin devlette yer edinme durumunun zirve yaptığı yıl olmasıdır.
+    dine hakaretle ve hükümeti devirmekle eş tutulan eylemdi..<br/><br/>işin garibi, insanlara bu eziyeti yaşatanlar hesap bile vermedi.<br/><br/>edit: 2011 dememin sebebi, cemaatin devlette yer edinme durumunun zirve yaptığı yıl olmasıdır.<br/><br/>mealen edit: yani kusura bakmayın ama kimse pollyanacılık yapıp "sevmesem de cemaate karşı akp'nin yanındayım" dememi beklemesin! zira bugün de eleştirdiğimiz ama akp'lilerin toz kondurmadığı tonla şey var! <br/><br/>merak ediyorum, cemaat mevzi kazansın diye bu yapılanmaya yardım<br/>ve yataklık edenlerden herhangi biri de tutuklanacak mı? açığa alınacak mı?<br/><br/>yoksa sadece kuru kuru "yanıldık, kandırıldık" mı diyecekler?
    
   entry_writer: 17december
 - entry_name: |
@@ -159,7 +159,7 @@ data:
   entry_id: 61973134
   entry_content: |
     
-     <a class="b" href="/?q=26+temmuz+2016+cnn+t%c3%bcrk+tarafs%c4%b1z+b%c3%b6lge+yay%c4%b1n%c4%b1">26 temmuz 2016 cnn türk tarafsız bölge yayını</a>'nın sonunda yaptığı konuşma ile çoğumuzun içindekileri dökmüş kişi. uzun yıllar sonra ilk kez ülkemi sevdim. aslında var, o özlemle andığımız kafası berrak - laik halk kahramanları hala var. yavaş yavaş görüyoruz o temiz yüzleri. hak yerini yavaş yavaş buluyor. büyüksünüz. yanınızdakiler de büyük. iyi ki varsınız. <br/><br/>link geldi: <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/irlanda_KARTALI/status/758064917119438849" title="https://twitter.com/irlanda_KARTALI/status/758064917119438849">https://twitter.com/…tali/status/758064917119438849</a><br/><br/>"türkiye'ye liyakat sistemi geri gelmeli. hayvanat bahçesi müdüründen tübitak'a başkan yapmasınlar, bilime değer vermezsen böyle olursun. inönü'ye atatürk'e ayyaş dediğiniz o adamlara karşı geldiniz, bakın yine yüzünüzü onlara döndünüz. şimdi sağa sola <a class="b" href="/?q=hakimiyet+milletindir">hakimiyet milletindir</a> diye yazıyorsunuz. e biz bunu yıllardır söylüyorduk <a class="b" href="/?q=hakimiyet+kay%c4%b1ts%c4%b1z+%c5%9farts%c4%b1z+milletindir">hakimiyet kayıtsız şartsız milletindir</a> diyorduk. ne yaptınız, dindar diye sırf başörtülü diye rektör yaptınız, şimdi tutukluyorsunuz. ben siyasi görüş tanımam.<sup class="ab"><a title="(bkz: bu cümle farklıydı ama özeti bu)" href="/?q=bu+c%c3%bcmle+farkl%c4%b1yd%c4%b1+ama+%c3%b6zeti+bu" data-query="bu cümle farklıydı ama özeti bu">*</a></sup> ama kalbim <a class="b" href="/?q=vatan+vatan+vatan">vatan vatan vatan</a> diye atıyor. ailemle huzurlu bir şekilde bu ülkede, ülkemde yaşamak istiyorum. her şeyden önce bunları kabul edeceksiniz." dedi. <br/><br/>bunu anlattı ama birebir böyle değil tabii. aklımda kalanları yazdım.<br/><br/>ayrıca öncesinde:<br/><br/>"kimseye kinim ve nefretim yok, hakkımı helal ediyorum ve üzülüyorum. türk askerinin ülkeyi bu duruma sokmasına üzülüyorum." da dedi.
+     <a class="b" href="/?q=26+temmuz+2016+cnn+t%c3%bcrk+tarafs%c4%b1z+b%c3%b6lge+yay%c4%b1n%c4%b1">26 temmuz 2016 cnn türk tarafsız bölge yayını</a>'nın sonunda yaptığı konuşma ile çoğumuzun içindekileri dökmüş kişi. uzun yıllar sonra ilk kez ülkemi sevdim. aslında var, o özlemle andığımız kafası berrak - laik halk kahramanları hala var. yavaş yavaş görüyoruz o temiz yüzleri. hak yerini yavaş yavaş buluyor. büyüksünüz. yanınızdakiler de büyük. iyi ki varsınız. <br/><br/>link geldi: <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/irlanda_KARTALI/status/758064917119438849" title="https://twitter.com/irlanda_KARTALI/status/758064917119438849">https://twitter.com/…tali/status/758064917119438849</a><br/><br/>"türkiye'ye liyakat sistemi geri gelmeli. hayvanat bahçesi müdürü'nden tübitak'a başkan yapmasınlar, bilime değer vermezsen böyle olursun. inönü'ye atatürk'e ayyaş dediğiniz o adamlara karşı geldiniz, bakın yine yüzünüzü onlara döndünüz. şimdi sağa sola <a class="b" href="/?q=hakimiyet+milletindir">hakimiyet milletindir</a> diye yazıyorsunuz. e biz bunu yıllardır söylüyorduk <a class="b" href="/?q=hakimiyet+kay%c4%b1ts%c4%b1z+%c5%9farts%c4%b1z+milletindir">hakimiyet kayıtsız şartsız milletindir</a> diyorduk. ne yaptınız, dindar diye sırf başörtülü diye rektör yaptınız, şimdi tutukluyorsunuz. ben siyasi görüş tanımam.<sup class="ab"><a title="(bkz: bu cümle farklıydı ama özeti bu)" href="/?q=bu+c%c3%bcmle+farkl%c4%b1yd%c4%b1+ama+%c3%b6zeti+bu" data-query="bu cümle farklıydı ama özeti bu">*</a></sup> ama kalbim <a class="b" href="/?q=vatan+vatan+vatan">vatan vatan vatan</a> diye atıyor. ailemle huzurlu bir şekilde bu ülkede, ülkemde yaşamak istiyorum. her şeyden önce bunları kabul edeceksiniz." dedi. <br/><br/>bunu anlattı ama birebir böyle değil tabii. aklımda kalanları yazdım.<br/><br/>ayrıca öncesinde:<br/><br/>"kimseye kinim ve nefretim yok, hakkımı helal ediyorum ve üzülüyorum. türk askerinin ülkeyi bu duruma sokmasına üzülüyorum." da dedi.
    
   entry_writer: fuel oil
 - entry_name: |
@@ -239,7 +239,7 @@ data:
   entry_id: 61960637
   entry_content: |
     
-    bekir bozdag tam olarak söyle demis;;<br/>“gözaltına alınmış hiçbir kişiye gözaltı sırasında veya sonrasında işkence veya kötü muamele yapılmamıştır.”<br/><br/>yalan söylüyorsun, bari kabak gibi belli olmasin! <br/>70 yasinda ve kara kuvvetlerinin aciklamalarina göre sucsuz olan akin öztürk ün fotograflarini inceleyin; <br/>gözaltina alinirken yüzünde herhangi bir fiziksel hasar yok, ertesi gün cikan fotograflarda kulagi sarili yüzünde kücük bir yara var, sonraki gün ise gözlerinin alti mosmor. <br/><br/>bu sadece bir kisinin gördügü iskencenin portre fotografinda anlasilan kismi. <br/><br/>gözaltindaki kisi suclu olsa bile iskence suctur, iskence yapilarak alinan ifadenin gecerliligi yoktur. bugün vur polisim vur diye bagiran akp liler yarin "döven polis paralelciydi" der. bu omurgasizlikla nasil ayakta durabiliyorsunuz, <a class="b" href="/?q=insan+gercekten+hayret+ediyor">insan gercekten hayret ediyor</a>!
+     <a class="b" href="/?q=bekir+bozdag">bekir bozdag</a> tam olarak söyle demis;<br/>“gözaltına alınmış hiçbir kişiye gözaltı sırasında veya sonrasında işkence veya kötü muamele yapılmamıştır.”<br/><br/>madem yalan söylüyorsun, kabak gibi belli etme bari! <br/>70 yasinda ve kara kuvvetlerinin aciklamalarina göre sucsuz olan akin öztürk ün fotograflarini inceleyin; <br/>gözaltina alinirken yüzünde herhangi bir fiziksel hasar yok, ertesi gün cikan fotograflarda kulagi sarili yüzünde kücük bir yara var, sonraki gün ise gözlerinin alti mosmor. <br/><br/>bu sadece bir kisinin gördügü iskencenin portre fotografinda anlasilan kismi. <br/><br/>gözaltindaki kisi suclu olsa bile iskence suctur, iskence yapilarak alinan ifadenin gecerliligi yoktur. bugün vur polisim vur diye bagiran akp liler yarin "döven polis paralelciydi" der. bu omurgasizlikla nasil ayakta durabiliyorsunuz, <a class="b" href="/?q=insan+gercekten+hayret+ediyor">insan gercekten hayret ediyor</a>!<br/><br/><a class="b" href="/?q=debe+editi+degil%2c+normal+edit">debe editi degil, normal edit</a>: itirazlara bakalim.<br/>"gözaltina alinirken olmustur, ertesi gün belirginlesmistir" <br/>"helikopteri hasar almis, o esnada morarmalar olmus". <br/>yukarida yazmistim, tekrar ediyorum. ters kelepce ile gözaltina alinirken yüzü ve kulagi normal görünüyor, ertesi gün kulagi bandajli, yüzünde cürükler var, günler sonra ise gözlerinin alti mosmor! artik nereden nasil bir hasar almissa günler gectikce hasar artiyor. ona da bir kilif bulursaniz sevinirim! <br/><br/>yukarida bir kez daha söyledim, adamın suclu olup olmamasinin bir önemi yok. iskence gördügü belli, taptiginiz akp kurmaylari "kimseye iskence yapilmadi" diyerek hem yalan söylüyor, hem de iskencelere göz yumuyor.
    
   entry_writer: hans mustermann
 - entry_name: |
@@ -250,14 +250,6 @@ data:
     bir galatasaraylı olarak kendisine sevgim o kadar derin ki, değil gülen cemaati, yarın bir gün çıkıp ışid'e katıldım dese yine nefret edemem. gönlüm razı olmaz..<br/><br/>ayrıca; 112 kez ay yıldızlı formayı giymiş, 51 gol atmış (kendisine en yakın ismin 2 katından fazla) ve ülke sporuna bu kadar katkı yapmış birine "terörist" demek ayıp değil mi? <br/><br/>hakan şükür mü meclis'i vurdu, o mu sivilleri şehit etti? o da her açıklamasında senin benim gibi üzüldüğünü söylüyor olan bitene. "yapanın ve yaptıranın allah belasını versin" diyor, ne yapsın başka? <br/><br/>kendisinin vatanı için iyi duygular beslediğine adım kadar eminim. insaflı ve vicdanlı olun lütfen. <br/><br/>tasvip etmesem de bu adam 90'lı yıllarda da aynı çizgideydi. o zamanlar kendisine alkış tutanlar, sonra millet vekili yapıp statlara adını verenler kendi çizgilerini değiştirince ona terörist diyorlar. olmuyor.
    
   entry_writer: kimse bana tavuk diyemez
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id: 61956629
-  entry_content: |
-    
-    15 temmuz 2016 darbe girişimi başlangıcından itibaren aktif şekilde devam eden sivil darbenin başkomutanıdır..<br/><br/>kardeş;<br/>fetö dediğini sen soktun yatağına kadar.<br/>adam gibi <a class="b" href="/?q=ayr%c4%b1lmay%c4%b1+bilmeyen+erkek">ayrılmayı bilmeyen erkek</a> olduğun için de başımıza bu belayı sen saldın.<br/>250 insanımız katledildi, halaylarla kutlattın.<br/>sana geçmişini hatırlatmayacağım şimdi burda, çok iyi biliyorsun zaten.<br/>sayfalara sığmaz.<br/><br/>kardeş;<br/>bop başkanı yapmayacaklar seni. seni sevmiyorlar artık.<br/>başlarda seni böyle pohpohladılar. sen de o gazı alınca, evelallah çene de var, bağırıp durdun biiiz diye.<br/>şimdi seni iktidara getirenlere terör örgütü diyorsun.<br/>çünkü çok iyi biliyorsun aslında ipin ucunun sana dayandığını.<br/>o yüzden ohal dedin. yargının önünü kapattın.<br/><br/>kardeş;<br/>eline bulaşan kan miktarı, bu ülkenin gördüğü en büyük acıları üçe beşe katladı.<br/>şimdi demokrasiden hatta atatürk'ten dem vurup birleştirici rolü oynamanın hikayesi de bu. biliyorsun senden vazgeçtiklerini.<br/>biliyorsun. sonun saddam olmasın, kaddafi olmasın diye de halk kozunu oynuyorsun.<br/><br/>kardeş;<br/>cemaat = pkk, cemaat = işid. hiçbir fark yok.<br/>sen pkk ile kolkola gezdin. sen işidle kolkola gezdin. ve sen cemaatle kolkola gezdin.<br/>gerçekten yüzün bile kızarmadan da "kandırıldık" dedin.<br/>biliyorsun ki cemaatin tüm liderleri kaçtı gitti bu ülkeden.<br/>şimdi geriye kalan üç beş alt sınıf elemanlarını toplatıp, yerlerini de senin maskelerinle donatıyorsun.<br/><br/>gözaltına alınanlar çıkıp da "siz, "kandırıldık" deyip sıyrılmıştınız, biz de "kandırıldık" diyoruz." dediklerinde ne cevap verebilirsiniz?<br/><br/>kardeş;<br/>seni sildiler. bop başkanı olamayacaksın artık. üzgünüz.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yaşadığımız bu güzel ülkenin hiçbir zaman c planı olmadı.<br/>daima a.b.d. planları devreye sokuldu.<br/><br/>- <a class="b" href="/?q=u%c4%9fur+mumcu">uğur mumcu</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-   
-  entry_writer: sahip cikilan dede
 - entry_name: |
     26 temmuz 2016 aarhus gf galatasaray maçı
   entry_id: 61969072
@@ -287,8 +279,8 @@ data:
   entry_id: 61967840
   entry_content: |
     
-    bizde o paraya ancak golf sopası alırız. onu da oynamayı bilmediğimiz için götümüze sokarız.
-    
+    bizde o paraya ancak golf sopası alırız. onu da oynamayı bilmediğimiz için götümüze sokarız..<br/><br/>debe editi: debe editi yapanlardan nefret ederim ama zihinsel engelli bir kardeşimizin şöyle bir sayfası varmış. özdeyiş mizahı formatı dahilinde mizahşörlük yapıyormuş. bir bakın derim. orjinal işler <a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/tarihegecmeyensozler1/" title="https://www.facebook.com/tarihegecmeyensozler1/">var.</a>
+   
   entry_writer: bipolar express
 - entry_name: |
     semih çetin
@@ -323,14 +315,6 @@ data:
    
   entry_writer: alorno
 - entry_name: |
-    ertem şener
-  entry_id: 61964268
-  entry_content: |
-    
-    fethullah teror orgutune mensup iken, mugla universitesi tarih bolumunu kazanacagi sınavdan 2 gun once orgut yonetimi tarafindan, kendisine  <a rel="nofollow" class="url" target="_blank" href="https://twitter.com/numara12/status/757918577861226496" title="https://twitter.com/numara12/status/757918577861226496">bildirilmistir</a>.
-   
-  entry_writer: spool
-- entry_name: |
     altı yıl boyunca email için her ay iki gün yürümek
   entry_id: 61956311
   entry_content: |
@@ -354,14 +338,6 @@ data:
     korkunç bir başarısızlık hissi getiriyor beraberinde...<br/><br/>bir otelde tatildeyim şu an. elli tane çift var etrafımda. algıda seçicilik dedikleri bu mu, yoksa şu ülkenin tüm mutlu insanları bu tatil beldesinde mi toplandı gerçekten merak ediyorum.<br/><br/>6.5 yaşındaki kızım bile en sevdiği erkek arkadaşıyla el ele yürüyor. 20lik gençler göz göze oturuyor. çocuklu aileler reklam filmlerinden fırlamış gibi mutlu. 80lik çiftler bile diz dize, ilk günkü aşkla bakıyorlar birbirlerine..<br/><br/>çok kıskanç bir insan değilimdir ama her bir gözeneğimden kıskançlık fışkırıyor şu an. bu yanlış ata oynamışlık hissi öldüğüm güne kadar kambur olacak sırtımda.<br/><br/>yeniden sevsem birini, geçmişim hep uçan bir balon gibi elimde olacak, başımın üstünde dalgalanacak. daha önce evlenmemiş olsa sevdiğim adam, klasik türkiye gerçeği, istenmeyen gelin olacağım. kızım var, en düzgün gördüğüm adamı bile elli kere sorgulayacağım.. binlerce yalan söylenmiş bir insan olduğum için, karşımdaki "allah bir" dese bile artık inanmayacağım..<br/><br/>telefonumda beni aldatan, maddi manevi dolandıran, kendime güvenimi elimden alan ama çocuğumun babası olması sıfatıyla nadiren de olsa görüşmek zorunda olduğum bir adam, "şerefsiz köpek" ismiyle kayıtlı ve ben o şerefsizin bizi getirdiği noktanın, bu enkaz gibi boşanmanın altında tüm ağırlığımla eziliyorum. onun dağıttığı hayatımın faturasını hem kendime, hem hayatımdakilere kesiyorum.<br/><br/>aylarca çalıştığım bir sınavdan kalmışım gibi, saatlerce uğraştığım yemeği fırında yakmışım gibi, iş yerinde önemli bir sunumu yüzüme gözüme bulaştırmışım gibi başarısız, yenik, mahcup hissediyorum..
    
   entry_writer: hickiran karasinek ve uyuyan karinca
-- entry_name: |
-    akp-cemaat kavgasını en iyi anlatan söz
-  entry_id: 61960844
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=s%c4%b1%c3%a7%c4%b1lacak+a%c4%9f%c4%b1z+g%c3%b6te+yak%c4%b1n+gezermi%c5%9f">sıçılacak ağız göte yakın gezermiş</a>)
-   
-  entry_writer: ablakadam
 - entry_name: |
     gonzalo higuain
   entry_id: 61968712
