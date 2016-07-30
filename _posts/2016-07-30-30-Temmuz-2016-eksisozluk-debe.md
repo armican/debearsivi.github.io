@@ -7,8 +7,8 @@ data:
   entry_id: 62019266
   entry_content: |
     
-    milletin yıllardır bildiği şeyin bir bakan tarafından onaylanması durumu. lan olum, zamanında görmezden geldiğiniz şeyi, "inanabiliyor musunuz böyleymiş" diye anlatmayın bari. çocuk mu kandırıyorsunuz?
-    
+    milletin yıllardır bildiği şeyin bir bakan tarafından onaylanması durumu. olum, zamanında görmezden geldiğiniz şeyi, "inanabiliyor musunuz böyleymiş" diye anlatmayın bari. çocuk mu kandırıyorsunuz??<br/><br/>debe editi: (bkz: <a class="b" href="/?q=30+temmuz+2016+debe+listesine+m%c3%bcdahale+edilmesi">30 temmuz 2016 debe listesine müdahale edilmesi</a>)
+   
   entry_writer: melodramatic fool
 - entry_name: |
     akıncı hava üssü'nün kapatılması
@@ -47,7 +47,7 @@ data:
   entry_id: 62022249
   entry_content: |
     
-    bunların ağa babaları, birleşip yine gelmişti. daha yüz yıl olmadı. yürek yemişler herhalde, canları istiyorsa yine gelsinler. alacakları cevap net!  <br/><br/>yalnız burada çuvaldızı kendimize batırmamız gerekiyor. türk devleti, cumhuriyet döneminden bu yana, hiç bu kadar aşağılanmamıştı. yazık ki ne yazık. ingiliz hükümetine gereken cevap, türk dışişleri aracılığıyla verilmelidir. bir de ikinci darbeden falan bahsediyorlar, bunun da mı istihbari bilgisine sahipler ?<br/><br/>semih çetin paşa'nın da dediği gibi, türkiye "batı" ile ilişkilerini "eşitlik" esası üzerinden tekrar inşa etmelidir. buna saygı göstermeyen her batı devletine cevap meşru düzlemde ekonomik ve siyasi olarak verilmelidir. türkiye'nin ikinci bir kurtuluş savaşı verme, iç savaşa gitme gibi bir lüksü olamaz. bunun aksi bir durum imparatorluk deneyimi geçirmiş bir ulus ve toplum için yıkıcı ve aşağılayıcı olur.
+    bunların ağa babaları, birleşip yine gelmişti. daha yüz yıl olmadı. yürek yemişler herhalde, canları istiyorsa yine gelsinler. alacakları cevap net!  <br/><br/>yalnız burada çuvaldızı kendimize batırmamız gerekiyor. türk devleti, cumhuriyet döneminden bu yana, hiç bu kadar aşağılanmamıştı. yazık ki ne yazık. ingiliz hükümetine gereken cevap, türk dışişleri aracılığıyla verilmelidir. bir de ikinci darbeden falan bahsediyorlar, bunun da mı istihbari bilgisine sahipler ?<br/><br/>semih çetin paşa'nın da dediği gibi, türkiye "batı" ile ilişkilerini "eşitlik" esası üzerinden tekrar inşa etmelidir. buna saygı göstermeyen her batı devletine cevap meşru düzlemde ekonomik ve siyasi olarak verilmelidir. türkiye'nin ikinci bir kurtuluş savaşı verme, iç savaşa gitme gibi bir lüksü olamaz. bunun aksi bir durum imparatorluk deneyimi geçirmiş bir ulus ve toplum için yıkıcı ve aşağılayıcı olur.<br/><br/>debe editi : güzel insanlardan gelen güzel mesajlar için teşekkür ederim. umudumu taze tutuyorsunuz. herkes müsterih olsun, bu toplumun dinamikleri, bu coğrafyada, ne şeriat kurulmasına, ne dikta kurulmasına ne de bir düşmanın yerleşmesine izin verir. hele ki bu son yazdığımı hesaplayan, düşünen, planlayan batılı dostlarımız varsa, onlara da diyeceğim tek bir şey var; buyrun gelin beş çayı içelim!
    
   entry_writer: miserable
 - entry_name: |
@@ -63,17 +63,9 @@ data:
   entry_id: 62023472
   entry_content: |
     
-    astsubayın general olması değil astsubaylık kökenli albayın general olması hadisesidir..<br/><br/>tabi sikko haber sitelerimiz böyle laflara bayılıyor.
+    astsubayın general olması değil astsubaylık kökenli albayın general olması hadisesidir..<br/><br/>tabi haber sitelerimiz böyle laflara bayılıyor.<br/><br/>edit: nazar değdi adami kovdular.
    
   entry_writer: galove
-- entry_name: |
-    gezi direnişini itibarsızlaştırma çalışmaları
-  entry_id: 62016800
-  entry_content: |
-    
-    büyük fotoğrafa bakınca fetö kandırmış mış mış...<br/><br/>lan amın oğlu, fetö'nün taşaklarının ter suyunu zemzem diye içtiğiniz sırada oldu o direniş, fetö de direnişçi gençlere çürük nesil diyordu ve siz alkış tutuyordunuz. şimdi fetö'cü diye gözaltına alınan vali ve polisleri milletin kafasına gözüne gaz fişekleri atarken, arkadan havlu sallıyordunuz..<br/>bu kadar yüzsüzlüğe de pes amk.<br/><br/>al bu entry'i ihbar et bildiğin yere götoğlanı.
-   
-  entry_writer: octave charcot
 - entry_name: |
     coca cola'nın dihidrojen monoksit kullanması
   entry_id: 62029794
@@ -135,8 +127,8 @@ data:
   entry_id: 62029245
   entry_content: |
     
-    aslında bunun bitirilmesini fetö ye itelesek trt tekrardan ekibi toplar mı toplar. desteklenebilir kampanya.
-    
+    aslında bunun bitirilmesini fetö ye itelesek trt tekrardan ekibi toplar mı toplar. desteklenebilir kampanya..<br/><br/>debedit:<br/>(bkz: <a class="b" href="/?q=behzat+%c3%a7.%27yi+fet%c3%b6+bitirdi">behzat ç.'yi fetö bitirdi</a>)<br/>(bkz: <a class="b" href="/?q=himym+son+sezonunu+fet%c3%b6+haz%c4%b1rlad%c4%b1">himym son sezonunu fetö hazırladı</a>) <sup class="ab"><a title="(bkz: dizinin berbat finalini de fetöye bağladım asfgj)" href="/?q=dizinin+berbat+finalini+de+fet%c3%b6ye+ba%c4%9flad%c4%b1m+asfgj" data-query="dizinin berbat finalini de fetöye bağladım asfgj">*</a></sup>
+   
   entry_writer: gokyuzundeyuzdum
 - entry_name: |
     nazlı ılıcak'ı tutuklayan çok tatlı polis hanım
@@ -146,14 +138,6 @@ data:
     bu başlığın açılacağını öngörmüş gibi yüzüğünü suratınıza çarpan polis hanım.
     
   entry_writer: kelimeler
-- entry_name: |
-    uzaylılar tarafından kaçırılsanız ne yaparsınız
-  entry_id: 62028432
-  entry_content: |
-    
-    muhittin'i ararım.(bkz:  <a class="b" href="/?q=evet+taraf%c4%b1ndan">evet tarafından</a>)
-   
-  entry_writer: odaperformansi
 - entry_name: |
     mustafa kemal atatürk
   entry_id: 62016026
@@ -187,14 +171,6 @@ data:
    
   entry_writer: schaker
 - entry_name: |
-    ikinci fatih recep tayyip erdoğan'dır
-  entry_id: 62030000
-  entry_content: |
-    
-    14 yil kandirilan fatih mi olur amk. fatihlerin en safi bu heralde.
-    
-  entry_writer: dirac
-- entry_name: |
     atatürk'e hey diye seslenmek
   entry_id: 62018765
   entry_content: |
@@ -207,7 +183,7 @@ data:
   entry_id: 62019081
   entry_content: |
     
-    sinan çetin'e ne gerek var, cumhurbaşkanın videosu var. hatta ben tv'den canlı izlemiştim. o utanmıyorsa bunlar hiç utanmaz..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WgWD9xGtmiU" title="https://www.youtube.com/watch?v=WgWD9xGtmiU">https://www.youtube.com/watch?v=wgwd9xgtmiu</a>
+    sinan çetin'e ne gerek var, cumhurbaşkanın videosu var. hatta ben tv'den canlı izlemiştim. o utanmıyorsa bunlar hiç utanmaz..<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=WgWD9xGtmiU" title="https://www.youtube.com/watch?v=WgWD9xGtmiU">https://www.youtube.com/watch?v=wgwd9xgtmiu</a><br/><br/>debe editi: kimse kandırıldık demesin; çıkarlarımız çatıştı, sonra gücümüz yetti hepsini siktir ettik desin. bu gördüğünüz videoda şimdiki vatansever grubun lideri, vatan haini ilan edilen grubun liderine özlemlerini dile getirerek davet ediyor. onun da kendisine bol iltifatlı teşekkür konuşması var. <br/><br/>bunlar polislik dağıtıp adam toplarken, harp okullarına düzine düzine adam sokarken tüm akp'liler üç maymunu oynuyordu. cemaatçiler de inkar etmeyip, rahat bi şekilde devlette müslüman(!) kişilerin olması gerektiğini söyleyerek kendilerini savunuyordu. ve aynı şekilde fethullah gülen referandumda mezardakileri çıkarıp evet oyu kullandırmaya çalışırken akp'nin hiç yolsuzluk, hırsızlık, adaletsizlik gibi işleri yoktu. <br/><br/>bu grubun ikisi de aynı. her ikisinin de, tayyip erdoğan'ın dediği gibi tabanı ibadet, ortası ticaret, tavanı ihanet.
    
   entry_writer: ekrem abiniz
 - entry_name: |
@@ -226,14 +202,6 @@ data:
     bazı şeyler vardır bilinir ama söylenmez.  <br/>ama arada bir kaç şey dile getirmek lazım. <br/><br/>mesela bir cumhurbaşkanı düşünün kızının düğününü kendi maaşıyla yapıyor, düğüne basit diyebileceğimiz özelliksiz bir araçla gidiyor, basında çıkmasın diye misafirlerini özenle seçiyor ziyadesiyle kalabalık tercih edilmiyor, düğünde elektrik sayacının numaralarını not aldırıp düğün bittikten sonraki kullanımı hesaplatıp, aradaki farkı yine kendi maaşından veriyor. <br/><br/>ha bunların hiç birini yapmak zorunda değil cumhurbaşkanlığı devlet bütçesinden harcayabilir. her adım attığı yemeği her çağırdığı kişiyi devlet fazlasıyla ödeyebilir. kızına milyon dolarlık pahalı hediyeler de gelmemiş olabilir ama o milletini vatanını seven biri olarak her zaman yaptığı işlerle hatırlanacak.<br/><br/>(bkz: <a class="b" href="/?q=ahmet+necdet+sezer">ahmet necdet sezer</a>)
    
   entry_writer: spermman
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id: 62017255
-  entry_content: |
-    
-    hakkında fetö'yü bitirecek tek adam, reis, lider, komutan, peygamber, allah, ver alttan mehter marşı'nı vs. diye yorum yapanlar var hala.  <a class="b" href="/?q=ak%c4%b1l+fikir">akıl fikir</a>. zaten sizin gibi sorgulamayan, sadece biat eden, ekseriyetle eğitim seviyesi düşük bir kitlenin orantısız yalakalığı yüzünden bu adam bu hale, sonuç olarak da bu ülke bu hale geldi. hiç değişmeyeceksiniz, değil mi?<br/><br/>dün; bu adam nasıl bu ülkenin başına geldi diye sorgulamaktan acizdiniz. bugün de; bu darbe nasıl bu ülkenin başına geldi diye sorgulamaktan acizsiniz. ülkenin mevcut birbirini kucaklayan, olumlu havasına bakıp tam umutlanıyorum sonra aramızdaki bu biatçılar aklıma geliyor, hevesim kursağımda kalıyor.<br/><br/>bugün 'fetö emperyalist bir kukladır, <a class="b" href="/?q=cia">cia</a> maşasıdır' diyorsun ya, <a class="b" href="/?q=fethullah+g%c3%bclen">fethullah gülen</a> 2001 yılında da emperyalist bir kuklaydı, cia maşasıydı. <a class="b" href="/?q=akp">akp</a> 14 ağustos 2001 tarihinde sıfırdan kurulan ve 3 kasım 2002 tarihinde tek başına iktidara gelen bir partidir. yetişmiş, kalifiye, okumuş, hazır bir kadrosu olmadığından mütevellit 1980'lerin başından beri adam yetiştiren fethullah gülen'in kadrosunu sorgusuz sualsiz benimsemiş, akabinde beraber yürümüş ve hatta davalarını savunmuştur. bunu yapan kişi bizzat recep tayyip erdoğan'dır.<br/><br/><a class="b" href="/?q=necip+hablemito%c4%9flu">necip hablemitoğlu</a> gülen cemaatinin bütün iç yüzünü ortaya döken <a class="b" href="/?q=k%c3%b6stebek">köstebek</a> kitabını ta 2002 yılında yazdı. bugünleri o tarihten görmüştü. 'başka türkiye yok' diyordu. bedelini canıyla ödedi. zaten devamında el birliğiyle içinde türkiye aşkı olan bütün insanları ottan boktan, <a class="b" href="/?q=ergenekon">ergenekon</a>, <a class="b" href="/?q=balyoz">balyoz</a>, <a class="b" href="/?q=poyrazk%c3%b6y">poyrazköy</a> gibi davalarla hapislere attınız. bugün yine türkiye aşığı olmuşsunuz bakıyorum. o yüzden 2001 yılından itibaren size bunlar ısrarla söylendiğinde bize '<a class="b" href="/?q=kemalist+ki%c5%9filik+bozuklu%c4%9fu">kemalist kişilik bozukluğu</a>' şeklinde seri bakınız veren aktrollerin ve akp'lilerin bugün 'fetö emperyalist bir uşak oğlum' demesine inanın münasip bir yerimle gülüyorum.<br/><br/>şunu da söyleyeyim; recep tayyip erdoğan cehaleti bu kadar yücelten bir insan olmasaydı, biraz ortadoğu'nun yakın tarihini okusaydı, bu kadar eleştirilere kapalı olmasaydı bugün bu ülke böylesine aleni bir biçimde, meclisi bombalanacak raddede emperyalist cia ajanlarının arka bahçesi olmazdı. emperyalist güçler bu topraklarda her zaman oldu. ama ordu, polis, yargı, eğitim, sağlık vs. tüm kadrolar bu emperyalistlerin eline akp sayesinde geçti. nitekim abd, daha önce de ortadoğu ülkelerindeki liderleri elleri ile o koltuğa koydu, kullandı, ülkeyi böldü, çöpe attı. bu bir abd geleneği çünkü.<br/><br/>(bkz: <a class="b" href="/?q=bir+abd+projesi+olarak+akp">bir abd projesi olarak akp</a>)<br/><br/>erdoğan diğer tüm ortadoğu liderleri gibi <a class="b" href="/?q=bop">bop</a> projesine hizmet etmesi için o koltuğa oturtuldu. kendisi ağzıyla itiraf etti zaten, <a class="b" href="/?q=bop+e%c5%9fba%c5%9fkan%c4%b1">bop eşbaşkanı</a> olduğunu. yeri gelmişken bop projesini 'bir avuç petrol' davası sanan insanlar var aramızda. ciddi ciddi 'petrol mu kaldı? abd'nin derdi uzay, ne yapsın ortadoğu çölünü' diyorlar. kendilerine bop'un ta <a class="b" href="/?q=so%c4%9fuk+sava%c5%9f">soğuk savaş</a> döneminden beri ince ince, tüm detayına kadar planlanan bir dünya projesi olduğunu hatırlatır ve akabinde zbigniew brzezinski'nin <a class="b" href="/?q=b%c3%bcy%c3%bck+satran%c3%a7+tahtas%c4%b1">büyük satranç tahtası</a> kitabını okumalarını öneririm.<br/><br/>belki de erdoğan bugüne kadar elleriyle o koltuğa oturtup, devamında sadece arkalarına yaslanıp keyifle izledikleri yegane lider olmuştur. çünkü halkı bölmek için uzaktan müdahalelere hiçbir zaman gerek kalmadı. erdoğan her ağzını açtığında ülkeyi paramparça etti.<br/><br/>bugün akp'liler bir aydınlanma yaşıyor. abd eliyle gelirken iyiydi, abd eliyle giderken bu aydınlamayı yaşamaları hakikaten trajikomik. nihayet fetö'nun emperyalist bir cia uşağı olduğunu, amerika'nın bu ülkeyi bölmek için kullandığı bir üst akıl olduğunu vb. farketmişler. yıllarca '<a class="b" href="/?q=yedi+d%c3%bcvel">yedi düvel</a>' edebiyatı yapıp daha burnunun ucunu yeni görmenin çoşkusu ve her zamanki cehaleti içinde aynen dün yaptıkları gibi, bugün de bize <a class="b" href="/?q=vatan+haini">vatan haini</a> demekten de eksik kalmıyorlar arada. gerçek vatan haini ayen beyan ortada iken hele.<br/><br/>özetlemem gerekirse; dünyanın en acımasız, en emperyalist projesi olan bop eşbaşkanına yıllarca oy veren zatların 'hep emperyaliklerin oyunu bunlar' demesine güleyim mi ağlayayım mı bilemedim. <br/><br/>neyse, aferin size. amiyane bir tabir olacak ama 14 sene sonra düşen jetona da şükür.
-   
-  entry_writer: heiglot
 - entry_name: |
     vikinglerin hayvanları çağırma şarkısı
   entry_id: 62021319
@@ -295,8 +263,8 @@ data:
   entry_id: 62033125
   entry_content: |
     
-    denizi.
-    
+    (bkz:  <a class="b" href="/?q=denizi">denizi</a>)
+   
   entry_writer: srfydn
 - entry_name: |
     29 temmuz 2016 nazlı ılıcak'ın tutuklanması
@@ -354,14 +322,6 @@ data:
     içeride koçtaş olduğu içindir. telefonu kenara bırakır, gider bir elektrikli testere alır herkesi kesersin. hatta serde macgyver'lık varsa, içeride parça tesirli plastik patlayıcı dahil envai çeşit bomba yapacak malzeme var.
     
   entry_writer: peygamber devesi
-- entry_name: |
-    ece erken
-  entry_id: 62026164
-  entry_content: |
-    
-    kendisine tavsiye olarak; madem seviyorsun gidip konuş dediğim varoş prenses. "sana giren çıkan ne?" diye ergenlik yapacağına cumburbaşkanlığına git ve kuma olma başvurusunda bulun. siviyirim cimhirbişkinimi!
-    
-  entry_writer: ezana yakalanan pornocu
 - entry_name: |
     rus savaş uçağının kamerasından görünen ufolar
   entry_id: 62017272
