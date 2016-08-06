@@ -31,8 +31,8 @@ data:
   entry_id: 62159645
   entry_content: |
     
-    işine gelince kürdistan'ın sesi olan parti, işine gelmeyince ülkenin partisi. o da güzelmiş. evet.
-    
+    işine gelince kürdistan'ın sesi olan parti, işine gelmeyince ülkenin partisi. o da güzelmiş. evet..<br/><br/><a class="b" href="/?q=debedit">debedit</a>: arkadaşlar kürtçülerden çok küfür yedim bu entry yüzünden. entryi siliyorum. şaka lan şaka. kudurun teröristler, delirin.<br/><br/>(bkz: <a class="b" href="/?q=abd+b%c3%bcy%c3%bckel%c3%a7isinde+tam+bir+maklubeci+tipi+olmas%c4%b1">abd büyükelçisinde tam bir maklubeci tipi olması</a>)
+   
   entry_writer: fikirmuhendisifikri
 - entry_name: |
     istanbul'da deprem tehdidi
@@ -95,7 +95,7 @@ data:
   entry_id: 62147145
   entry_content: |
     
-    kendi takımına 34 yaşında gelmiş oyuncunun ismini kendine nick yapan, hatta ne kadar benimsediğini "baba" sıfatını nickin içine gizleyerek gösteren geri zekalı troll yazar, o oyuncu kendi takımında 16-17 gol attı diye neredeyse "drogba beni götümden sik" kıvamına gelmişken, gomez'in 31 olan yaşından dem vurmakla birlikte 27 gol atmış bu adamın vasat olduğunu iddaa eder olmuş!!!<br/><br/>kafalar pırıl pırıl amk.. cevap verince de biz tinerci oluyoruz..
+    kendi takımına 34 yaşında gelmiş oyuncunun ismini kendine nick yapan, hatta ne kadar benimsediğini "baba" sıfatını nickin içine gizleyerek gösteren geri zekalı troll yazar, o oyuncu kendi takımında 16-17 gol attı diye neredeyse "drogba beni götümden sik" kıvamına gelmişken, gomez'in 31 olan yaşından dem vurmakla birlikte 27 gol atmış bu adamın vasat olduğunu iddaa eder olmuş!!!<br/><br/>kafalar pırıl pırıl amk.. cevap verince de biz tinerci oluyoruz..<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>:<br/>arketip16'nın isteği üzerine<br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: delinintekii
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 62149484
   entry_content: |
     
-    tıpta okuyan bir arkadaşımı, tuvaletten sonra elini yıkamadan çıktığı için aşağılamıştım..<br/><br/>verdiği cevap: insanın en steril organına elinin değmesi neden problem olsun ki.<br/><br/>streril midir değil midir bilmiyorum fakat tıpçılar iğrenç varlıklar.
+    tıpta okuyan bir arkadaşımı, tuvaletten sonra elini yıkamadan çıktığı için aşağılamıştım..<br/><br/>verdiği cevap: insanın en steril organına elinin değmesi neden problem olsun ki.<br/><br/>streril midir değil midir bilmiyorum fakat tıpçılar ... varlıklar.<br/><br/>edit: tıpçı kardeşlerimiz çok alınmış. yasal vs vs dediler kaldırdık yerine ... koyduk.
    
   entry_writer: infected mushroom
 - entry_name: |
@@ -335,7 +335,7 @@ data:
   entry_id: 62150117
   entry_content: |
     
-    kararnameler ortada. ecevit kaç fetoşçuyu kamu kadrolarına yerleştirmiş?<br/>lafla değil icraatla gelin.<br/>ama bıgün tutuklanan adamların kaç tanesini a. gül, kaç tanesini rte atamış ortadadır.<br/>buyrun sayın akitler. ama sizde o göt yok. dedikodularla değil rakamlarla gelin.<br/>halep oradaysa arşın burda.<br/><br/>edit: eleman trol fakat bu argüman ve 17/25 aralıltan sonra chp feroya kucak aştı argümanları akepeliler tarafından sıkça işlenmeye başlanmıştır. her zamanki gibi kendi boklarını başkasına pay etmenin peşindedirler. <br/>pislik ve sinsice yapılan bu propagandalar cevep vermek elzemdir.<br/>kemal kılıçdaroğlu çıkarıp masaya vurmadığı sürece bu böyle olacaktır.<br/>bu trollemeler zemin yoklamalarıdır. suçu bakalım kime yıkacağız diye hesap yapmaktır. 14 yıldır ecevit iktidardaydı siz de dininizi yaşamıyordunuz tabi.<br/>ha ecevit bir de ne istesiniz de vermedik demişti.
+    kararnameler ortada. ecevit kaç fetoşçuyu kamu kadrolarına yerleştirmiş??<br/>lafla değil icraatla gelin.<br/>ama bugün tutuklanan adamların kaç tanesini a. gül, kaç tanesini rte atamış ortadadır.<br/>buyrun sayın akitler. ama sizde o göt yok. dedikodularla değil rakamlarla gelin.<br/>halep oradaysa arşın burda.<br/><br/>edit: eleman trol fakat bu argüman ve 17/25 aralıktan sonra chp fetoya kucak açtı argümanları, akepeliler tarafından sıkça işlenmeye başlanmıştır. her zamanki gibi kendi boklarını başkasına pay etmenin peşindedirler. <br/>pislik ve sinsice yapılan bu propagandalar cevap vermek elzemdir.<br/>kemal kılıçdaroğlu çıkarıp masaya vurmadığı sürece bu böyle olacaktır.<br/>bu trollemeler zemin yoklamalarıdır. suçu bakalım kime yıkacağız diye hesap yapmaktır. 14 yıldır ecevit iktidardaydı siz de dininizi yaşamıyordunuz tabi.<br/>ha ecevit bir de ne istesiniz de vermedik demişti.
    
   entry_writer: biyolojik saat tamircisi
 - entry_name: |
@@ -343,7 +343,7 @@ data:
   entry_id: 62147526
   entry_content: |
     
-    türkiye'de tek kanal dönemlerinde bile olimpiyatlar hiç fire vermeden yayınlanırken, yüzlerce yayın yapan tv kanalı olan günümüzde olimpiyatlar yayınlanamıyor. cidden enteresan bir durum.  <a class="b" href="/?q=fight+club">fight club</a>'dan bir replik geldi aklıma;<br/><br/>"ev sos dolu ama yiyecek hiçbir şey yok"
+    türkiye'de tek kanal dönemlerinde bile olimpiyatlar hiç fire vermeden yayınlanırken, yüzlerce yayın yapan tv kanalı olan günümüzde olimpiyatlar yayınlanamıyor. cidden enteresan bir durum.  <a class="b" href="/?q=fight+club">fight club</a>'dan bir replik geldi aklıma;<br/><br/>"ev sos dolu ama yiyecek hiçbir şey yok"<br/><br/>debe edit: madem debe olmuş, reklam yapalım <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>türkçe film afişleri için;<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://instagram.com/turkce_afis" title="https://instagram.com/turkce_afis">https://instagram.com/turkce_afis</a>
    
   entry_writer: fictionel
 - entry_name: |
@@ -351,7 +351,7 @@ data:
   entry_id: 62161309
   entry_content: |
     
-    sokaktaki demokrasi nöbetçilerine silah dağıtılmalı diyen bir meczup çıktı bu da....<br/><br/>ucundan bile bulaşmayın oğlum bu cemaatti, tarikatti işlere... kafası çalışan bir adam çıkmıyor işte...
+    sokaktaki demokrasi nöbetçilerine silah dağıtılmalı, milis kuvvetleri olmalı dedi bu da....<br/><br/>ucundan bile bulaşmayın oğlum bu cemaatti, tarikatti işlere... kafası çalışan bir adam çıkmıyor işte...
    
   entry_writer: zamazingonun tam ortasi amazing
 - entry_name: |
@@ -359,7 +359,7 @@ data:
   entry_id: 62158923
   entry_content: |
     
-    erasmus sonucta bir kultur & egitim programi, gitmis bir insan olarak en kabaca tabiri ile bunu soyleyebilirim. im.  <br/><br/>simdi hollanda'dan, polonya'dan, italya'dan gelecek genc insan burada tv'lerde hapishanede dovulmus kisiler, idam & allahu ekber diye bagiran kalabaliklar, camiilerden gelisiguzel okunan selalar gibi seylere maruz kalarak ne kadar rahat bir ogrencilik hayati yasayabilir. siz oradan bir ailenin yerine kendinizi koyun? hadi cocuk yapti bir dangalaklik portekiz yazacagina turkiye yazdi, gonderir misiniz?niz?<br/><br/>bu isler boyle iste. o bana yamuk yapti ona rest cekeyim kafasi boyle sonuclaniyor. ab ile zaten faydalanabildigimiz birkac anlasma icindeydik erasmus da bunlarin en guzellerindendi simdi ufak ufak gidiyor sanirim, gecmis olsun. <br/><br/>alternatifini yapariz artik muttefiklerimiz katar-suudi arabistan-b.a.e. arasi ogrenci degisim programi olabilir. ogrenci kizlara bir donemlik cariyelik tecrubesi.
+    erasmus sonucta bir kultur & egitim programi, gitmis bir insan olarak en kabaca tabiri ile bunu soyleyebilirim. im.  <br/><br/>simdi hollanda'dan, polonya'dan, italya'dan gelecek genc insan burada tv'lerde hapishanede dovulmus kisiler, idam & allahu ekber diye bagiran kalabaliklar, camiilerden gelisiguzel okunan selalar gibi seylere maruz kalarak ne kadar rahat bir ogrencilik hayati yasayabilir. siz oradan bir ailenin yerine kendinizi koyun? hadi cocuk yapti bir dangalaklik portekiz yazacagina turkiye yazdi, gonderir misiniz?niz?<br/><br/>bu isler boyle iste. o bana yamuk yapti ona rest cekeyim kafasi boyle sonuclaniyor. ab ile zaten faydalanabildigimiz birkac anlasma icindeydik erasmus da bunlarin en guzellerindendi simdi ufak ufak gidiyor sanirim, gecmis olsun. <br/><br/>alternatifini yapariz artik muttefiklerimiz katar-suudi arabistan-b.a.e. arasi ogrenci degisim programi olabilir. ogrenci kizlara bir donemlik cariyelik tecrubesi.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: erasmus'u cinsellikten ibaret gören arkadaşlar için bu programın bana kattıklarıyla alakalı bir entry yazdım bir göz atsınlar (bkz: <a class="b" href="/entry/62159886">#62159886</a>)
    
   entry_writer: modern zaman gangsteri
 - entry_name: |
