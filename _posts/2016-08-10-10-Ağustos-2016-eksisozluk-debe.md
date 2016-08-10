@@ -7,8 +7,8 @@ data:
   entry_id: 62235962
   entry_content: |
     
-    ilginç soru. ilk adımı kendimden beklerdim.
-    
+    ilginç soru. ilk adımı kendimden beklerdim..<br/><br/>debe editi : ilk adımı atmaktan çekinmeyelim.<br/>(bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
+   
   entry_writer: platoniclover
 - entry_name: |
     9 ağustos 2016 kızıl ordu'nun yeniden kurulması
@@ -27,28 +27,20 @@ data:
    
   entry_writer: senin pezevenk enisten
 - entry_name: |
-    kemalist bir darbe olsaydı chpliler ne yapardı
-  entry_id: 62229569
-  entry_content: |
-    
-    feto darbe yaptığında akp değil de chp başta olsaydı akplilerin ne yapacağıyla birlikte cevabını merak ettiğim bir diğer soru.
-    
-  entry_writer: agc
-- entry_name: |
     g. koreli kız ile k. koreli kızın selfie çekmesi
   entry_id: 62227178
   entry_content: |
     
-    yenikapı mitingi sonrası esen barış rüzgarları tüm dünyayı etkisi altına aldı.
-    
+    yenikapı mitingi sonrası esen barış rüzgarları tüm dünyayı etkisi altına aldı..<br/><br/>(bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
+   
   entry_writer: minimalist unicorn
 - entry_name: |
     sabahın yedisinde ter kokan insan modeli
   entry_id: 62224718
   entry_content: |
     
-    sabahları beş dakikalık duş almayı "jakuzide köpük terapisi yapıp portakal suyu çekmek(!)" zanneden insanların da var olduğunu ortaya çıkartan ciddi problem.
-    
+    sabahları beş dakikalık duş almayı "jakuzide köpük terapisi yapıp portakal suyu çekmek(!)" zanneden insanların da var olduğunu ortaya çıkartan ciddi problem..<br/><br/>debe edit: <br/>(bkz: <a class="b" href="/?q=derin+bebek+y%c3%bcr%c3%bcs%c3%bcn">derin bebek yürüsün</a>)<br/>(bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
+   
   entry_writer: blackbriar
 - entry_name: |
     atatürk'ün ismet inönü'ye yazdığı mektup
@@ -71,7 +63,7 @@ data:
   entry_id: 62227794
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hedefledi%c4%9fim+ki%c5%9fi">hedeflediğim kişi</a>)<br/><br/>o mesafeden sniperla vuracak herhalde!?
+    (bkz:  <a class="b" href="/?q=hedefledi%c4%9fim+ki%c5%9fi">hedeflediğim kişi</a>)<br/><br/>o mesafeden sniperla vuracak herhalde!?<br/><br/>----- <a class="b" href="/?q=debe+edit">debe edit</a> -----<br/><br/>daha evvelden de defalarca kez debe'ye girmeme rağmen bu sefer doğum günümde debe'ye girmenin ve yüzünüze kattığım o ufak tebessümün mutluluğunu yaşıyorum huzurlarınızda... ilk senemde yılın en beğenilenlerine girdikten sonra bir de doğum günümde debe'ye girmişim daha nolsun; bağırın lan "doğum günün kutlu olsun" diye se we he!<br/><br/>not: küfürlü entrylerin altına yardım kampanyası bakınızı vermeyin, entry'e link eklemeleri için de mesaj atmayın hiç samimi olmuyor!<br/>not 2: bakınızlar da debe'ye girmesin, mevzu neydi diye önceki entrylere bakmak zorunda kalmayalım, işin kolayına kaçmayalım, yazalım!<br/>not 3: ne telefondu be!<br/><br/>----- <a class="b" href="/?q=debe+edit">debe edit</a> -----
    
   entry_writer: yarasa talag
 - entry_name: |
@@ -79,7 +71,7 @@ data:
   entry_id: 62233230
   entry_content: |
     
-    hangi siyasi görüşe sahip olursa olsun hepsinde aynı kör nefret. bu ülke iflah olmaz yemin ediyorum..<br/><br/>bu okullar gizli saklı, illegal yollarla mı açıldı kardeşim? hepsi devletin onayı dahilinde eğitim veren kurumlar değil miydi? biz mi yanlış biliyoruz?<br/><br/>devlet bu okullara izin vermiş, öğrencilerin oraya dolmasına ön ayak olmuş fakat gün gelip okulun sahibiyle papaz olunca da çocukları "gitmeseydiniz amk" der gibi ezip geçmiş.<br/><br/>doğru mudur yani?<br/><br/>aynı şey cemaate mensup alt tabaka için de geçerli. sen devlet olarak neredeyse 40 yıldır bu yapıya göz yum, insanları kandırmasına müsaade et, sonra da "kanmasaydınız kardeşim" de.<br/><br/>var mı öyle yağma?<br/><br/>sanki tek suçlu bu çocuklar ve aileleriymiş gibi hayatlarını karartmak, yıllarını çalmak ne kadar doğru?
+    hangi siyasi görüşe sahip olursa olsun hepsinde aynı kör nefret. bu ülke iflah olmaz yemin ediyorum..<br/><br/>bu okullar gizli saklı, illegal yollarla mı açıldı kardeşim? hepsi devletin onayı dahilinde eğitim veren kurumlar değil miydi? biz mi yanlış biliyoruz?<br/><br/>devlet bu okullara izin vermiş, öğrencilerin oraya dolmasına ön ayak olmuş fakat gün gelip okulun sahibiyle papaz olunca da çocukları "gitmeseydiniz amk" der gibi ezip geçmiş.<br/><br/>doğru mudur yani?<br/><br/>aynı şey cemaate mensup alt tabaka için de geçerli. sen devlet olarak neredeyse 40 yıldır bu yapıya göz yum, insanları kandırmasına müsaade et, sonra da "kanmasaydınız kardeşim" de.<br/><br/>var mı öyle yağma?<br/><br/>sanki tek suçlu bu çocuklar ve aileleriymiş gibi hayatlarını karartmak, yıllarını çalmak ne kadar doğru?<br/><br/>debe edit: <br/><br/>(bkz: <a class="b" href="/?q=derin+bebek+y%c3%bcr%c3%bcs%c3%bcn">derin bebek yürüsün</a>)<br/><br/>(bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
    
   entry_writer: oo yalniz kafasi simdi geldi
 - entry_name: |
@@ -87,8 +79,8 @@ data:
   entry_id: 62233378
   entry_content: |
     
-    şu ikisi bile barışıyorlar biz neden barışamıyoruz nihal. allah benim belamı versin.
-    
+    şu ikisi bile barışıyorlar biz neden barışamıyoruz nihal. allah benim belamı versin..<br/><br/>debe editi (bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
+   
   entry_writer: ankaraayazi
 - entry_name: |
     uçak kalkarken hissedilen şey
@@ -106,14 +98,6 @@ data:
     (bkz:  <a class="b" href="/?q=inanma+u%c3%a7a%c4%9f%c4%b1n%c4%b1+d%c3%bc%c5%9f%c3%bcrecek">inanma uçağını düşürecek</a>)
    
   entry_writer: victor von doom
-- entry_name: |
-    1 milyon zaman gazetesi abonesi
-  entry_id: 62225275
-  entry_content: |
-    
-    arada aklıma geliyor nerede ulan bu tipitipler diye, aileleriyle 5-6 milyonluk bir nüfustan bahsediyoruz.  <br/><br/>sonra tipik anadolu çomarı gibi kandırıldık amk deyip, havuz gazetelerinden, sabah gazetesine takvime falan dönmüşlerdir diye düşünüyorum.<br/><br/>resmen din ile kandırıldı bu kitle, veya kandırılmak işlerine geldi. çakma vaizden döndüler şimdi ibreleri, mitinglere kutsal kitapla çıkan siyasetçilere döndü.<br/><br/>hayat onlar için kaldığı yerden devam ediyor.
-   
-  entry_writer: kartalbafilerrr
 - entry_name: |
     güvenlik kamerasına yakalanan zaman yolcusu
   entry_id: 62227823
@@ -151,7 +135,7 @@ data:
   entry_id: 62232391
   entry_content: |
     
-    özür dilerler sorun çözülür... bi gta hilesine bakar iş!!<br/><br/>(bkz: <a class="b" href="/?q=leaverussiaalone">leaverussiaalone</a>)
+    özür dilerler sorun çözülür... bi gta hilesine bakar iş!!<br/><br/>(bkz: <a class="b" href="/?q=leaverussiaalone">leaverussiaalone</a>)<br/><br/>debe edit: eneee bununla da debe'ye girmişim, 2 entry ile debe'ye girmek hemi de doğum günümde, 3 olan günler de olmuştu ama neyse... siz hala kutlamadınız mı doğum günümü, niye kutlamıyorsunuz olm, hey tayfa kalk kalk kalk hadi durma! o ye!
    
   entry_writer: yarasa talag
 - entry_name: |
@@ -215,7 +199,7 @@ data:
   entry_id: 62234371
   entry_content: |
     
-    evet mutsuz oluyorlar.çevremde çalışıp da mutlu olan tek bir kadın yok.aslında çalışıp da mutlu olan erkek de yok.demek ki çalışan kimse mutlu değil.evet.ama işin kötüsü çalışmayanlar da mutlu değil.
+    evet mutsuz oluyorlar. çevremde çalışıp da mutlu olan tek bir kadın yok. aslında çalışıp da mutlu olan erkek de yok. demek ki çalışan kimse mutlu değil. evet. ama işin kötüsü çalışmayanlar da mutlu değil.
     
   entry_writer: nolanrossgibisevgilimolsa
 - entry_name: |
@@ -279,8 +263,8 @@ data:
   entry_id: 62228620
   entry_content: |
     
-    lan zaten iç çamaşırı giymiyorlar. sen giyiyorlar mı sanıyordun.
-    
+    lan zaten iç çamaşırı giymiyorlar. sen giyiyorlar mı sanıyordun..<br/><br/>debe editi: bu sıcaklarda yüzmek vücut ateşini düşürür ve böylelikle beyine kan gider gençler.
+   
   entry_writer: ayamerdivendayamak
 - entry_name: |
     uzun boyluların iyi insan olması
@@ -319,7 +303,7 @@ data:
   entry_id: 62241768
   entry_content: |
     
-    ölmüş annesine küfür eden insanlara karşı sadece "ben size ne yaptım" demekle yetinecek kadar temiz bir insan..<br/><br/>benim aklımın almadığı; bir insan şu adama küfür edecek kadar orospu çocuğu olmayı nasıl becerir? cidden nasıl bu kadar kötü olabilir bir insan?<br/><br/>ne kadar iğrenç, ne kadar acımasız bir millet olduk yahu.<br/><br/>yemin ederim midem bulanıyor artık.
+    ölmüş annesine küfür eden insanlara karşı sadece "ben size ne yaptım" demekle yetinecek kadar temiz bir insan..<br/><br/>benim aklımın almadığı; bir insan şu adama küfür edecek kadar orospu çocuğu olmayı nasıl becerir? cidden nasıl bu kadar kötü olabilir bir insan?<br/><br/>ne kadar iğrenç, ne kadar acımasız bir millet olduk yahu.<br/><br/>yemin ederim midem bulanıyor artık.<br/><br/>debe edit: bilgisayar oyunlarına ilgisi olan arkadaşlar bu arkadaşı youtube üzerinden takip edebilir.<br/><br/>kanalının linki;<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/channel/UC4BoKeAdJVpg3qDIr_FTh5g" title="https://www.youtube.com/channel/UC4BoKeAdJVpg3qDIr_FTh5g">https://www.youtube.com/…l/uc4bokeadjvpg3qdir_fth5g</a><br/><br/>aynı zamanda vlog da çekiyor gördüğüm kadarıyla. oyuna pek ilgim olmasa da vlog kısmını sevdim.<br/><br/>edit 2: (bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)
    
   entry_writer: oo yalniz kafasi simdi geldi
 - entry_name: |
@@ -351,7 +335,7 @@ data:
   entry_id: 62224299
   entry_content: |
     
-    iki komik grubun entrylerini okuyarak takip ettiğim başlık. düne kadar rusya'ya sövenlerin, uçak krizinde arkamızda nato var oğlum diye efelenenlerin birden rus hayranı kesildiğini gördüğümüz ilginç bir sürece tanık oluyoruz ..<br/>ama onlar kadar komik bulduğum bir kesim de aman rusya'ya yakınlaşmayalım doğu blokunda özgürlük yok vs. diye kafa ütüleyenler. ya arkadaş tamam rus yakınlaşmasını eleştirebilirsin haklı sebepler göstererek ama insan hakları, özgürlük vs. nedir amk. hayal aleminde mi yaşıyorsunuz? şunu artık anlayın dış politikada hiçbir ülke diğerinin insan hakları, demokrasi açısından gelişmişliğini umursamıyor. her şey çıkar ortaklığı. daha düne kadar birlikte yürürken rte'yi yere göğe sığdıramayan da batı, kontrol edilebilirliği azalınca söven de batı. akp çok değişti de bizim mi haberimiz yok? hadi onu geçtim batı dediğin suudi arabistan'la ortak lan, hani bildiğimiz suudlar. şu kadınların yalnız dolaşamadığı, suud hanedanı tarafından yıllardır yönetilen ülke, bunlarla can ciğer kuzu sarması kardeşim batı dediğimiz.<br/>o yüzden batı'dan uzaklaşırsak demokrasi biter diyenlerin şunu görmesi gerekiyor , demokratik olup olmamamız ne doğu'nun ne batı'nın sikinde değil. bir ülke demokratikse, içinde yaşayan toplumun demokrasi bilincinden dolayıdır. bunu bir anlayın artık .
+    iki komik grubun entrylerini okuyarak takip ettiğim başlık. düne kadar rusya'ya sövenlerin, uçak krizinde arkamızda nato var oğlum diye efelenenlerin birden rus hayranı kesildiğini gördüğümüz ilginç bir sürece tanık oluyoruz ..<br/>ama onlar kadar komik bulduğum bir kesim de aman rusya'ya yakınlaşmayalım doğu blokunda özgürlük yok vs. diye kafa ütüleyenler. ya arkadaş tamam rus yakınlaşmasını eleştirebilirsin haklı sebepler göstererek ama insan hakları, özgürlük vs. nedir amk. hayal aleminde mi yaşıyorsunuz? şunu artık anlayın dış politikada hiçbir ülke diğerinin insan hakları, demokrasi açısından gelişmişliğini umursamıyor. her şey çıkar ortaklığı. daha düne kadar birlikte yürürken rte'yi yere göğe sığdıramayan da batı, kontrol edilebilirliği azalınca söven de batı. akp çok değişti de bizim mi haberimiz yok? hadi onu geçtim batı dediğin suudi arabistan'la ortak lan, hani bildiğimiz suudlar. şu kadınların yalnız dolaşamadığı, suud hanedanı tarafından yıllardır yönetilen ülke, bunlarla can ciğer kuzu sarması kardeşim batı dediğimiz.<br/>o yüzden batı'dan uzaklaşırsak demokrasi biter diyenlerin şunu görmesi gerekiyor , demokratik olup olmamamız ne doğu'nun ne batı'nın sikinde değil. bir ülke demokratikse, içinde yaşayan toplumun demokrasi bilincinden dolayı demokratiktir. bunu bir anlayın artık .
    
   entry_writer: sadece cem
 - entry_name: |
@@ -359,7 +343,7 @@ data:
   entry_id: 62235112
   entry_content: |
     
-    editörüm. sorumlusu olduğum kurumsal dergilerin grafik tasarımı hariç bütün işerini yaptım, bütün metinlerini yazdım, müşteri ilişkilerini yönettim, grafikerlerin ensesinde boza pişirdim. son bir yılda yayınevi olarak çıkardığımız 3 kitaptan birinin yazarlığını yaptım, diğerlerinde araştırma, proje aşamasından itibaren müşteri ilişkileri, redaksiyon, görsel seçimi, çeviri, vs... dördüncü kitap da çıkmak üzere. köpek gibi çalışmaya ve içerik üretmeye alışkınım ama mümkünse yoğun dönemler dışında insan gibi çalışmak istiyorum..<br/><br/>istanbul dışında da çalışabilirim, hatta dünyanın herhangi bir noktasında çalışabilirim. ne kadar uzak, o kadar iyi. istanbul dışına çıktığımda çok seçici olmayacağım ama çok rica ediyorum sekreterlik ya da "kendine güvenen bayanlar aranıyor" teklifleriyle gelmeyin. konsomasyon da olmaz, eğlenmeye gelmiş adamın yaşam enerjisini söndürürüm.<br/><br/>hatta bol seyahatli, ingilizce kullanmayı gerektiren işler falan olsa ne süper olur? uyuşturucu kuryeliği hariç.<br/><br/>bu bir imdat çığlığıdır. hayatımda marjinal değişiklikler yapmam gereken bir dönemdeyim. dexter'a bağlamama çeyrek var.<br/><br/>umarım patron okumuyordur. çok ciddiyim, iş arıyorum :(
+    editörüm. sorumlusu olduğum kurumsal dergilerin grafik tasarımı hariç bütün işlerini yaptım, bütün metinlerini yazdım, müşteri ilişkilerini yönettim, grafikerlerin ensesinde boza pişirdim. son bir yılda yayınevi olarak çıkardığımız 3 kitaptan birinin yazarlığını yaptım, diğerlerinde araştırma, proje aşamasından itibaren müşteri ilişkileri, redaksiyon, görsel seçimi, çeviri, vs... dördüncü kitap da çıkmak üzere. köpek gibi çalışmaya ve içerik üretmeye alışkınım ama mümkünse yoğun dönemler dışında insan gibi çalışmak istiyorum..<br/><br/>istanbul dışında da çalışabilirim, hatta dünyanın herhangi bir noktasında çalışabilirim. ne kadar uzak, o kadar iyi. istanbul dışına çıktığımda çok seçici olmayacağım ama çok rica ediyorum sekreterlik ya da "kendine güvenen bayanlar aranıyor" teklifleriyle gelmeyin. konsomasyon da olmaz, eğlenmeye gelmiş adamın yaşam enerjisini söndürürüm.<br/><br/>hatta bol seyahatli, ingilizce kullanmayı gerektiren işler falan olsa ne süper olur? uyuşturucu kuryeliği hariç.<br/><br/>bu bir imdat çığlığıdır. hayatımda marjinal değişiklikler yapmam gereken bir dönemdeyim. dexter'a bağlamama çeyrek var.<br/><br/>umarım patron okumuyordur. çok ciddiyim, iş arıyorum :(
    
   entry_writer: romica
 - entry_name: |
@@ -375,7 +359,7 @@ data:
   entry_id: 62238639
   entry_content: |
     
-    laiklik, din ve vicdan ozgurlugunu gosteren unsurlar, doping, vergi kacirma, rusvet gibi seyleri onlemek, kadinlara mecliste quota koymak, senato kurmak, yuzde 10 baraji indirmek, turbanli sayisinin azalmasi (istediginiz kadar sayiklayin ikinci sinif insan goruntusudur), haremlik selamlik kulturun ve uygulamalarin komple silinmesi, kamu alanini tamamen kadinlarin rahatligina gore duzenlemek, bunun icin gerekirse damsiz girilmez uygulamalari cogaltmak, lgbt onur yuruyusleri, ateist, alevi, hristiyan ve musevi turklerin varliginin onemini gosterebilmek, teknoloji gelistirmek, az da olsa bir iki seyi birinci sinif uretebilmek, erasmus gibi programlara cok daha fazla onem vermek ve iyi okullardan universite gencligini yurt disina yollamak, kiz cocuklarini okutmayan, evlendiren, kuma getiren, cok esli bir hayati sanki legalmis gibi millete kakislamaya calisan, kumalarindan olan cocuklari resmi eslerine yazdiran, karilarini doven, cocuk nafakasi odemeyen, vs. erkekleri ve bunlari mumkun kilan imamlari hapise atmak ve geride kalan kadinlari ve cocuklari sahipsiz birakmamak, onlara devlet destegi saglamak, cevreyi temiz tutmak, igrenc binalar yikip koca koca yesil alanlar yapmak, denizi temizlemek ve insanlarin sehrin icinde bile rahat rahat yuzebilecegi plajlar ve tesisler yaratmak (barcelona gibi), bu tesislerin yuzme bilmeyen deve guresi yapan orta dogulu sap erkekler tarafindan istila edilmesini onlemek, her daim tertemiz tutulmasi icin yeterli gorevli ve denetleme mekanizmalari kurmak, gercekten sokaga cop atan, yasak yerlerde mangal yapan insanlara ciddi cezalar kesmek, araba trafiginin gittikce daha da kotulesmesine yol acacak insaatler ve yollar yerine bisiklet vb ulasim araclarinin yogunlasmasi icin elden gelen herseyi yapmak, herkese okulda yuzme ogretmek, cinsel saglik derslerinin orta okulda zorunlu olmasi, din derslerinin ya komple kaldirilmasi ya da gercekten butun dinleri bilimsel bir sekilde ogretmeleri, diyanete bir tek sunni muslumanlarin vergi vermesi ya da butun vergilerden butun dini kurumlara para dagitilmasi, ezanin gunde 5 kere okunmamasi, istenilirse turkce okunmasi, her mahallenin ezan olsun mu olmasin mi oylama hakkina sahip olmasi, tabii ki din hanesinin komple silinmesi, egitimin ezber degil mantik cercevesinde donmesi, liste uzar da gider....<br/><br/>bazilari gormek istemese de ne kadar arapliktan uzaklasirsak, ne kadar kadinlar ellerini kollarini sallaya sallaya her yerde dolasabilirse, o kadar medeni gorunuruz.
+    laiklik, din ve vicdan ozgurlugunu gosteren unsurlar, doping, vergi kacirma, rusvet gibi seyleri onlemek, kadinlara mecliste quota koymak, senato kurmak, yuzde 10 baraji indirmek, turbanli sayisinin azalmasi (istediginiz kadar sayiklayin ikinci sinif insan goruntusudur), haremlik selamlik kulturun ve uygulamalarin komple silinmesi, kamu alanini tamamen kadinlarin rahatligina gore duzenlemek, bunun icin gerekirse damsiz girilmez uygulamalari cogaltmak, lgbt onur yuruyusleri, ateist, alevi, hristiyan ve musevi turklerin varliginin onemini gosterebilmek, teknoloji gelistirmek, az da olsa bir iki seyi birinci sinif uretebilmek, erasmus gibi programlara cok daha fazla onem vermek ve iyi okullardan universite gencligini yurt disina yollamak, akraba evliliklerinin onlenmesi, engelli haklarinin korunmasi, kiz cocuklarini okutmayan, evlendiren, kuma getiren, cok esli bir hayati sanki legalmis gibi millete kakislamaya calisan, kumalarindan olan cocuklari resmi eslerine yazdiran, karilarini doven, cocuk nafakasi odemeyen, vs. erkekleri ve bunlari mumkun kilan imamlari hapise atmak ve geride kalan kadinlari ve cocuklari sahipsiz birakmamak, onlara devlet destegi saglamak, cevreyi temiz tutmak, igrenc binalar yikip koca koca yesil alanlar yapmak, denizi temizlemek ve insanlarin sehrin icinde bile rahat rahat yuzebilecegi plajlar ve tesisler yaratmak (barcelona gibi), bu tesislerin yuzme bilmeyen deve guresi yapan orta dogulu sap erkekler tarafindan istila edilmesini onlemek, her daim tertemiz tutulmasi icin yeterli gorevli ve denetleme mekanizmalari kurmak, gercekten sokaga cop atan, yasak yerlerde mangal yapan insanlara ciddi cezalar kesmek, araba trafiginin gittikce daha da kotulesmesine yol acacak insaatlar ve yollar yerine bisiklet vb ulasim araclarinin yogunlasmasi icin elden gelen herseyi yapmak, herkese okulda yuzme ogretmek, cinsel saglik derslerinin orta okulda zorunlu olmasi, din derslerinin ya komple kaldirilmasi ya da gercekten butun dinleri bilimsel bir sekilde ogretmeleri, diyanete bir tek sunni muslumanlarin vergi vermesi ya da butun vergilerden butun dini kurumlara para dagitilmasi, ezanin gunde 5 kere okunmamasi, istenilirse turkce okunmasi, her mahallenin ezan olsun mu olmasin mi oylama hakkina sahip olmasi, tabii ki din hanesinin komple silinmesi, egitimin ezber degil mantik cercevesinde donmesi, liste uzar da gider....<br/><br/>bazilari gormek istemese de ne kadar arapliktan uzaklasirsak, ne kadar kadinlar ellerini kollarini sallaya sallaya her yerde dolasabilirse, o kadar medeni gorunuruz.
    
   entry_writer: transatlantik
 - entry_name: |
