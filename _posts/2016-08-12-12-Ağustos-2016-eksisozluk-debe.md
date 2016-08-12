@@ -87,7 +87,7 @@ data:
   entry_id: 62267619
   entry_content: |
     
-    amcanın sonunda bu işten para kazanması adına sevindiğim reklam.  <br/><br/>not: reklam leş.
+    amcanın sonunda bu işten para kazanması adına sevindiğim reklam.  <br/><br/>not: reklam leş.<br/><br/>edit: ne yalan söyleyeyim <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/57622176" title="https://eksisozluk.com/entry/57622176">bu entry</a> ile debeye girmeyi yeğlerdim.
    
   entry_writer: kucukkene
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 62267810
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=da%c5%9f+yok+mu+da%c5%9f">daş yok mu daş</a>)
+    (bkz:  <a class="b" href="/?q=da%c5%9f+yok+mu+da%c5%9f">daş yok mu daş</a>)<br/><br/>yapımında yönetiminde ve gülümünde emeği geçen @veddiedder olmasaydı bu entry de olmayacaktı
    
   entry_writer: sirie
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 62276463
   entry_content: |
     
-    ben de diyorum ki kendi makamında derdest edilen on saat öncesinden kalkışmayı haber almasına rağmen  <a class="b" href="/?q=ordusuna+hakim+olamayan">ordusuna hakim olamayan</a> akar paşa bir an bile niye <a class="b" href="/?q=istifa">istifa</a> etmeyi düşünmedi.<br/><br/>sebebi bu olabilir.<br/><br/>malum <a class="b" href="/?q=askeri+lisede">askeri lisede</a> muhtemelen <a class="b" href="/?q=ilk+ders">ilk ders</a> askerliğin <a class="b" href="/?q=temel+kanunu">temel kanunu</a> anlatılıyordur :<br/><br/>(bkz: <a class="b" href="/?q=kontrol+edemedi%c4%9fin+birli%c4%9fin+komutan%c4%b1+olamazs%c4%b1n">kontrol edemediğin birliğin komutanı olamazsın</a>)
+    ben de diyorum ki kendi makamında derdest edilen on saat öncesinden kalkışmayı haber almasına rağmen  <a class="b" href="/?q=ordusuna+hakim+olamayan">ordusuna hakim olamayan</a> akar paşa bir an bile niye <a class="b" href="/?q=istifa">istifa</a> etmeyi düşünmedi.<br/><br/>sebebi bu olabilir.<br/><br/>malum <a class="b" href="/?q=askeri+lisede">askeri lisede</a> muhtemelen <a class="b" href="/?q=ilk+ders">ilk ders</a> askerliğin <a class="b" href="/?q=temel+kanunu">temel kanunu</a> anlatılıyordur :<br/><br/>(bkz: <a class="b" href="/?q=kontrol+edemedi%c4%9fin+birli%c4%9fin+komutan%c4%b1+olamazs%c4%b1n">kontrol edemediğin birliğin komutanı olamazsın</a>)<br/><br/>debe edit : bi bakın hele dostlar (bkz: <a class="b" href="/?q=10+a%c4%9fustos+2016+izmir+konak+trafik+kazas%c4%b1">10 ağustos 2016 izmir konak trafik kazası</a>)
    
   entry_writer: travenian
 - entry_name: |
