@@ -3,395 +3,395 @@ layout: post
 title: 12 Ağustos 2016 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    10 ağustos 2016 rte'in bankaları tehdit etmesi
-  entry_id: 62251655
+    657'nin tarih olması
+  entry_id: 62267049
   entry_content: |
     
-    atatürkçülüğü falan geçti marksizme doğru koşuyor. durduramıyoruz!!<br/><br/>(bkz: <a class="b" href="/?q=nisasu+baldaz%27a+yard%c4%b1m+kampanyas%c4%b1">nisasu baldaz'a yardım kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=teoman+annesine+kavu%c5%9fsun">teoman annesine kavuşsun</a>)
+    657 ya da genel olarak memuriyette iş güvencesi, bir devletin değişen her iktidarda yazboza dönmemesi için, devlet memurları siyasi partilerin elinde oyuncak olmasın diye, tarafsızlıklarını korusun diye yapılmış bir yasadır, sayın amınoğlu..<br/><br/>sen şimdi memuriyette iş güvencesi kalkıyor, memur artık yatmayacak diye götün trampet çalıyor da, o yatan memur iktidar partisinin borusunu çalıyorsa zaten yatmaya devam eder, kimse de bir şey yapamaz. ama maliyeciye iş güvencesi verirsen, hangi parti iktidara gelirse gelsin seni işinden edemez garantisi verirsen, işte o memur kimseden korkmadan vergi denetlemesi yapabilir, o polis hiçbir milletvekilinden korkmadan alkol denetlemesi yapabilir vs vs...<br/><br/>ama sen mal gelip mal gidecek olduğundan "devlet memurları yatıyor yae.." demeye devam edeceksin.
    
-  entry_writer: ozenti filozof
+  entry_writer: ceka
 - entry_name: |
-    3 mbps internet hızıyla uhd video izlenebilir
-  entry_id: 62257375
+    sıla'nın istanbul konserlerinin iptal olması
+  entry_id: 62271574
   entry_content: |
     
-    aynı mantığa göre 56k dialup bağlantıyla da izlenir..<br/><br/>"videoyu sadece birkaç gün önce başlatmanız gerekiyor, onun dışında 56k yetiyor" denebilir, bu mantıkla.<br/><br/>debe için ek: küçük teoman annesine kavuşsun ; <a class="b" href="/entry/62272469">#62272469</a>
+    (bkz:  <a class="b" href="/?q=%c3%a7o%c4%9funluk%c3%a7u+demokrasi">çoğunlukçu demokrasi</a>)<br/><br/>(bkz: <a class="b" href="/?q=ortamlarda+demokrasi+dersin..+kim+bilecek+mk">ortamlarda demokrasi dersin.. kim bilecek mk</a>)<br/><br/>debe edit:<br/><br/>(bkz: <a class="b" href="/?q=teoman+annesine+kavu%c5%9fsun">teoman annesine kavuşsun</a>)
    
-  entry_writer: canabag
+  entry_writer: dortatli
+- entry_name: |
+    tecavüz zanlısını baba kurbanı oğul savunması
+  entry_id: 62264821
+  entry_content: |
+    
+    menfaat catismasini hukuki boyutunu bi kenara koyalim. su basliga bakip da anlayana tum servetimi bagisliyorum.
+    
+  entry_writer: kopek gibi isiran sivrisinek
+- entry_name: |
+    ntv'nin google arama sonuçlarını yanıltması
+  entry_id: 62267362
+  entry_content: |
+    
+    süper zeki ntv haber sitesinin marifeti.  <br/><br/>önce olayı anlatayım<br/><br/>sosyal medyada olimpiyatlarda yarışan mete gazoz arkadaşımızın fotoğraflarına denk geldim, atıcılıkta olimpiyatlarda türkiye'yi temsil etti fakat elendi diye yazmışlar. merak ettim olimpiyat karşılaşmasında çekilen videosu var mı, google amcaya aşağıdaki linkteki gibi sordum "varmı böyle bir video amca?". var dedi google, ikinci sırada "mete gazoz, alkışlarla rio'ya veda etti" diye haber çıktı, video ekran görüntüsü falan da var sonuçlarda, dedim budur tam aradığım haber. açtım sayfayı bir de baktım haberde video yok. nasıl olur ki bu dedim ve kurcaladım biraz nasıl oluyor bu iş.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.google.com.tr/webhp#q=mete+gazoz&tbm=vid=vid" title="https://www.google.com.tr/webhp#q=mete+gazoz&tbm=vid=vid">https://www.google.com.tr/…bhp#q=mete+gazoz&tbm=vid=vid</a><br/><br/>taktik şöyle işliyor.<br/><br/>google arama sonuçlarında haber sitelerine büyük önem veriyor. hele bir de bu haber sitesinin detay sayfalarında video içerik de varsa amanın bayıla kalıyor google. bunu keşfeden ve etik davranışlar hakkında bilgi sahibi olmadığını tahmin ettiğim yayıncı kuruluşumuz ntv de bunu avantaja çevirip video olmamasına rağmen arama sonuçlarında üst sıralarda çıkabiliyor. <br/><br/>nasıl mı? tabii ki sahte 1 (yazı ile bir) saniyelik videolar ekleyerek.<br/><br/>örnek:<br/><a rel="nofollow" class="url" target="_blank" href="https://www.google.com.tr/webhp#q=mete+gazoz&tbm=vid=vid" title="https://www.google.com.tr/webhp#q=mete+gazoz&tbm=vid=vid">https://www.google.com.tr/…bhp#q=mete+gazoz&tbm=vid=vid</a><br/><br/>ntv'nin 1 saniyelik video koleksiyonu:<br/><a rel="nofollow" class="url" target="_blank" href="https://www.google.com.tr/webhp#tbm=vid&q=olimpiyat+ntv+ntv" title="https://www.google.com.tr/webhp#tbm=vid&q=olimpiyat+ntv+ntv">https://www.google.com.tr/…#tbm=vid&q=olimpiyat+ntv+ntv</a><br/><br/>bu da ekran görüntüsü:<br/><a rel="nofollow" class="url" target="_blank" href="http://imgur.com/RVfrBFQ" title="http://imgur.com/RVfrBFQ">http://imgur.com/rvfrbfq</a><br/><br/>edit:<br/>/* komplo teorileri mode: on */<br/>nasıl yaptıkları ile ilgili teorim ise şu. her tarayıcının olduğu gibi her arama motorunun da <a class="b" href="/?q=user+agent+string">user agent string</a>i vardır. google'a ait bu string ise <a class="b" href="/?q=googlebot">googlebot</a>tur. sayfa kodunu yazıp googlebot a farklı kaynak kodu gösterilebilir, ve bu koda video linki eklenir. google da bunu sayfada video var olarak algılar.<br/>/* komplo teorileri mode: off */<br/><br/>edit 2:<br/>teoriye gerek kalmadı. şöyle yapmışlar.<br/>(bkz: <a class="b" href="/entry/62274940">#62274940</a>)<br/><br/>debe editi:<br/>google'a spam içerik bildirme yöntemleri ile ilgili aşağıdaki entrylerden yardım alabilirsiniz.<br/>(bkz: <a class="b" href="/entry/62268171">#62268171</a>) bu yöntem için google hesabınız olması gerekiyor<br/>(bkz: <a class="b" href="/entry/62271036">#62271036</a>)
+   
+  entry_writer: ergecsenturk
+- entry_name: |
+    sıla gençoğlu
+  entry_id: 62266146
+  entry_content: |
+    
+    açıklamasının arkasında olduğunu açıklayan sanatçı..<br/><br/>helal olsun yan çizmedi, yanlış anlaşıldım filan demedi acıklamamın arkasındayım dedi.
+   
+  entry_writer: redddadmiral
+- entry_name: |
+    acıbadem fulya hastanesi rezaleti
+  entry_id: 62268717
+  entry_content: |
+    
+    başlıkta bahsedilen durum eşim ile benim doğum amacıyla kalitesine güvenerek gittiğimiz hastanede çapa acil muamelesi görmemizi anlatmaktadır.  <br/>öğretmen orta sınıf bir çift olarak eşim hamile kaldığında sağlık sisteminin çökmüşlugu sebebiyle kendimizi ve çocuğumuzu güvenceye almak adına doğum sigortası yaptırarak ( maddi durumumuzu oldukça zorlayarak) bu hastanede doğum yapmaya karar verdik. eşime doktor olarak da doçent ve perinatolog kimliği olan derya eroglu nun seçtik iyi bir doğum deneyimi yaşamak adına.<br/>yaşadığımız anlamsız deneyimler muayeneler ile başladı. doktor hamilelik süreci ile ilgili hiçbir bilgi vermemeye yemin etmiş gibi davranıyor ve her soru sorduğumuzda bizi çok gereksiz bir şey yapmışız gibi hissettiriyordu. hatta bir muayenede ' bugün kolum ağrıyor çok bakmayacağım, bir dahaki gelisinizde bakarız demişligi bile var. d vitamini diyoruz endokrinoloji ye randevu alın diyor, tetanoz aşısı diyoruz dahiliye ye sorun diyor, eşim beslenme ile ilgili soru soruyor diyetisyen e git ben bilmem diyor. yine de iyi bir doktordur herhalde sabredelim önemli olan doğum diyoruz. <br/>eşimin suyu geliyor, hastaneye gidiyoruz ve o saatten itibaren 18 saat doğum bekliyoruz ve kendisi sadece 15 dakikasında yanımıza geliyor. 18 saat bekleme sebebi ise kendisinin normal doğum istatistiği yapma isteği, eşim acı çekiyor 15 saat geçti 4 kere hızlandırıcı işlem yapıldı ve sadece 1 cm açıldı acı çekiyor diyorum " oooo çekecek tabi, daha çok acı çekeceksin, bilmiyor musunuz bunu diye bana ve eşime bağırarak gidiyor ve bir daha da geri gelmiyor. o esnada ebe hemşire yeter artık diye doktoru ikna ediyor ve sezeryane diyoruz ve bu haberi bize kim veriyor; hastabakici! hadi gel seni sezeryane götürüyorum diyor. açıklama veya bizim fikrimizi sormak tabi ki gereksiz.<br/>neyse artık bitecek diye seviniyoruz ve ameliyata giriyorum ben de esimle; ameliyat sırasında duyduğum cümleler sunlar;<br/>- bıçak kesmiyor, bu nasıl bıçak,<br/>- sedye mi sallanıyor, elim kayıyor sürekli,<br/>- ışık yok burada ne yaptigimi göremiyorum,<br/>- kordon dolanmış, açsana sunu ( bu olayı hiçbir rapora yazmıyor ve bize veya çocuk doktoruna söylemiyor)<br/><br/>tüm bunlardan sonra çocuğum sağlıklı doğuyor çok şükür bu sefer eşimin çıkmasını bekliyorum normalde 20-30 dakika sürmesi gereken kapama işlemi 1 saat sürüyor ve eşim korkudan titreyerek ve ağlayarak çıkıyor; içeride kimse onu rahatlamak için konuşmamış.<br/>doğumdan sonra öğreniyoruz ki eşimin demir seviyesi kritik seviyenin altına düşmüş çünkü doktorumuza göre demir takviyesi zorunlu değil. eşimin bugüne kadar hiçbir tahlilini takip etmediği gibi bunu da etmemiş ve eşime demir takviyesi başlamamış ki aynı şekilde devam vitamini seviyesini de takip etmemiş. <br/>doğum sonrası ayrı bir eğlence. hemşirelerin her saat gelip eşim ve bebeğim ile ilgilenmesi ve bebeğimin sağlığına bakması gerekirken gecede bir kere geliyor; daha önemli ne işi var peki makyaj, saç düzleştirme ve diğer hemşireler ile erkekleri nasıl elinde oynatırsin sohbeti. ciddi ciddi karım içeride çocuğuna bakamadigini düşünerek ağlarken hemşireler dışarıda düğün, nişan haftasonu gezileri üzerine kahkahalar atarak ve rezil ifadeler kullanarak sohbet ediyorlar.<br/>bitti mi bitmedi; 3 gün sonra çocuğumun kontrolü var, sarılık seviyesi elektronik bir aletle 16.6 ölçülüyor ki kritik seviye birçok doktor için 15; en yüksek 18 ama doktorumuz çok normalmiş gibi eve yolluyor bizi. o gece darbe oluyor ve eşimle hayatımızın en kötü gecesini yaşıyoruz çünkü sabah gece kötüleyen çocuğumuzu hastaneye götürüp goturemeyecegimizi bilmiyoruz. sonradan öğreniyoruz ki ölçtugu aletin en az 3 derece düşük gösteriyor ki bunu acibadem in diğer doktorları söylüyor yani çocuğumun sarılık seviyesi aslında geldiğimiz gün kritik seviyenin üstünde.yani çocuk doktoru özlem eryavuz çocuğumun hayatı ile kumar oynamış ve bizi uyarma zahmetine bile girmemiş. <br/>o günden beri çocuğumuza her an bir şey olacak diye bakıyoruz bir türlü rahatlamiyoruz, ilk çocuğumuz ile ilk ebeveynlik deneyimimiz büyük bir travmanın altında eziliyor.<br/>çok teşekkürler acibadem!<br/><br/>edit: birçok arkadaşın yazdığından öğrendiğim kadarıyla insanların güvendiği hastaneler var veya hala devlet hastanelerine gidebiliyorlar. tüm cahilliğim ile soruyorum devlet hastanelerine her gittiğimde ya ortalık mikrop kaynıyordu, ya suriyeli istilası vardı ya da o kadar kötü davrandılar ki insanlığımdan soğudum. bunlar değişti mi bu yıl içerisinde? ayrıca bir arkadaşın savunduğu çapa da az daha annem ölüyordu yanlış teshisten kadını zor kaçırdık. <br/>özel hastanelere gelince ben amerikan, memorial hakkında bile berbat şeyler duydum ve bugüne kadar gidip de memnun kaldığım bir orta sınıf hastane olmadı. tamamen çaresiz bir şekilde evime yakın diye bir ton para döküp gittim buraya kendi yeme içmemden kısarak yani lüks olsun diye gitmedik.
+   
+  entry_writer: belsky
+- entry_name: |
+    11 ağustos 2016 melih gökçek'in istifası
+  entry_id: 62280076
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=intihar+eder+istifa+etmez">intihar eder istifa etmez</a>)<br/><br/><a class="b" href="/?q=edit">edit</a><br/>-----------------------------------------------------------<br/>sadece sikindirik bir bakınız ile debeye girmiş ve herkesin bildiği @2 entrylerine, olağanüstü hal kapsamında alınan tedbirlere ilişkin 667 sayılı kanun hükmünde kararname ile gelen yeni düzenlemeye göre artık entryler kısacık kalmıyor haberiniz olsun. <br/>bi zahmet okunması daha faideli bir entryi vermiş olduğunuz bakınızın altına yabıştırınız... <br/>yabıştırmayanlara ileri demokrasi gereği <a class="b" href="/?q=s%c4%b1la+gen%c3%a7o%c4%9flu">sıla gençoğlu</a> muamelesi yapılacağını ve terör ile mücadele ekiplerince evlerinden aldırılmak sureti ile inlerine girileceğini bildiririm...<br/><br/>(bkz: <a class="b" href="/entry/62282223">#62282223</a>)<br/><br/>komplo moplo aga, okuyunca, bay hıamınaaa! şeklinde hayretlere düşüp, cevaplamakta zorlanacağınız bir sürü soru var.. biraz uzun ama başlayınca gerisi geliyor. değişik bir bakış açısı...
+   
+  entry_writer: koministimam2
+- entry_name: |
+    ümit özat
+  entry_id: 62272077
+  entry_content: |
+    
+    fenerbahçe  <a class="b" href="/?q=slim+fit">slim fit</a> olan durumunu <a class="b" href="/?q=xxl">xxl</a> olarak değiştirdi.
+   
+  entry_writer: n8
+- entry_name: |
+    fethullah gülen'in gs'li futbolculara verdiği vaaz
+  entry_id: 62278854
+  entry_content: |
+    
+    ooo bakıyorum bir kısım arkadaşın ağzını şapırtdatmış 'silin dört şampiyonluğu' falan.  <br/><br/>milli takımın dünya 3.lüğünü de silelim mi beyler?
+   
+  entry_writer: lutka
+- entry_name: |
+    gelmiş geçmiş en iyi klip
+  entry_id: 62265281
+  entry_content: |
+    
+    nez-sakın ha
+    
+  entry_writer: config
+- entry_name: |
+    ülker'in bayrak asan amcalı reklamı
+  entry_id: 62267619
+  entry_content: |
+    
+    amcanın sonunda bu işten para kazanması adına sevindiğim reklam.  <br/><br/>not: reklam leş.
+   
+  entry_writer: kucukkene
+- entry_name: |
+    vegan çocuk yetiştirenlere hapis cezası verilmesi
+  entry_id: 62269617
+  entry_content: |
+    
+    italya parlementosunda görüşülen kanun teklifi. meclisten geçtikten sonra çocuklarını vegan beslenmeyle büyüten ailelere 4 yıl hapis cezası verilecek. zamanla bütün avrupada ve diğer ülkelerde de bu cezaların yaygınlaşacağını düşünüyorum..<br/><br/>vegan beslenerek yani taurin, b12, omega3(dha-epa), kaliteli protein yapıtaşları(özellikle bcaa), demir, karnitin, koenzim q-10 gibi bir çok besin unsurundan eksik bir beslenme biçimiyle yetişkin insanlar kendilerine istediği zararı verebilir kimsenin umrunda değil fakat seçme şansı olmayan ve beslenmesi çok kritik olan bebek ve çocukları bu şekilde beslemek cinayetle eşdeğerdir. çoğu vegan da beslenmeden bihaber oldukları için "biz mercimekten de protein alıyoruz cevizden de omega 3 alıyoruz, b12 için de hap kullanıyoruz" derler. bütün proteinleri aynı zannederler, balıktaki omega 3 ile cevizdeki ala'yı aynı zannederler vs.<br/><br/>cerrahpaşa tıp fakültesi çocuk hastalıkları ve metabolizma bilim dalı eski başkanı prof. dr. ahmet aydın kitabında vegan beslenmenin çok sağlıksız olduğunu ve uzun yaşamalarının mümkün olmadığını belirtiyor. (bkz: <a class="b" href="/?q=ta%c5%9f+devri+diyeti">taş devri diyeti</a>)<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://www.ntv.com.tr/saglik/vegan-cocuk-yetistirenler-hapse-atilabilir,ZL7JXLczqU-diXgwdWOnFw" title="http://www.ntv.com.tr/saglik/vegan-cocuk-yetistirenler-hapse-atilabilir,ZL7JXLczqU-diXgwdWOnFw">http://www.ntv.com.tr/…bilir,zl7jxlczqu-dixgwdwonfw</a>
+   
+  entry_writer: eski solcu
+- entry_name: |
+    topunuz gelin geleceğiniz varsa göreceğiniz de var
+  entry_id: 62267810
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=da%c5%9f+yok+mu+da%c5%9f">daş yok mu daş</a>)
+   
+  entry_writer: sirie
+- entry_name: |
+    herkese kardeşim deyip sürekli nargile içen genç
+  entry_id: 62266517
+  entry_content: |
+    
+    her üç dört cümlesinin birinde "sıkıntı yok" der.
+    
+  entry_writer: dancemetotheandoflove
+- entry_name: |
+    hulusi akar ve necdet özel düz liseden
+  entry_id: 62276463
+  entry_content: |
+    
+    ben de diyorum ki kendi makamında derdest edilen on saat öncesinden kalkışmayı haber almasına rağmen  <a class="b" href="/?q=ordusuna+hakim+olamayan">ordusuna hakim olamayan</a> akar paşa bir an bile niye <a class="b" href="/?q=istifa">istifa</a> etmeyi düşünmedi.<br/><br/>sebebi bu olabilir.<br/><br/>malum <a class="b" href="/?q=askeri+lisede">askeri lisede</a> muhtemelen <a class="b" href="/?q=ilk+ders">ilk ders</a> askerliğin <a class="b" href="/?q=temel+kanunu">temel kanunu</a> anlatılıyordur :<br/><br/>(bkz: <a class="b" href="/?q=kontrol+edemedi%c4%9fin+birli%c4%9fin+komutan%c4%b1+olamazs%c4%b1n">kontrol edemediğin birliğin komutanı olamazsın</a>)
+   
+  entry_writer: travenian
+- entry_name: |
+    f. gülen sonrası gs'nin 14 kere şampiyon olması
+  entry_id: 62281060
+  entry_content: |
+    
+    bu anlayışa göre feto'dan sonra en büyük cemaatçi aziz yıldırım'dır. o da başkan olduktan sonra 9 defa galatasaray şampiyonluğu gördü.
+    
+  entry_writer: nuri alconun aile hekimi
+- entry_name: |
+    vitor pereira
+  entry_id: 62276110
+  entry_content: |
+    
+    "ahmet özal: babamı pereira öldürdü."
+    
+  entry_writer: bir ben gibi
+- entry_name: |
+    vitor pereira'nın kovulması
+  entry_id: 62271904
+  entry_content: |
+    
+    resmi açıklama gelmeden meydanları boşaltmamak lazım. tehdit hala geçmiş değil.
+    
+  entry_writer: sokakta sayamam gibi
+- entry_name: |
+    süper lig'de deplasman yasağının kaldırılması
+  entry_id: 62269850
+  entry_content: |
+    
+     <a class="b" href="/?q=kad%c4%b1k%c3%b6y">kadıköy</a>'e vapurla geçmeyi, inildiği anda turistmişsiniz gibi gözlerin size dönmesini, yaşanan tatlı gerginliği, bir avuç olsanız da birlik olmanın önemini, özgüven sahibi olmayı, <a class="b" href="/?q=istiklal+caddesi">istiklal caddesi</a>'nde <a class="b" href="/?q=galatasaray">galatasaray</a>lı arkadaşlarınızla bira içip maça birlikte geçmeyi, yeri gelince 50 bin kişinin sizi dinlemek zorunda kalmasını, o anda takımımıza olan aşkımızın daha da perçinlendiğini hissetmemizi, sıkıcı hayatlarımıza bir atraksiyon gelmesini çok özlemiştik.<br/><br/><a class="b" href="/?q=vodafone+arena">vodafone arena</a>'da hemen yan tribünümüzde rakiplerimizi ağırlamaktan şeref duyacağız.
+   
+  entry_writer: kasar yaza
+- entry_name: |
+    recep tayyip erdoğan
+  entry_id: 62264932
+  entry_content: |
+    
+    rte demiş ki: "yani niçin biz askeri liseleri bu kadar abartıyoruz ki şu anda? hulusi paşa düz lise mezunu. necdet özel paşa düz liseden geldi. demek ki oluyormuş.""<br/><br/>evet tsk tarihinin en başarısız iki genelkurmay başkanı askeri liseli değil. demek ki o kadar da olmuyormuş.
+   
+  entry_writer: jean auguste dominique ingres
+- entry_name: |
+    türk erkeğinin ömrünü mahveden üç şey
+  entry_id: 62271621
+  entry_content: |
+    
+    1 türkçee<br/>2 dil<br/>3 bilgisi<br/><br/>(bkz: <a class="b" href="/?q=mahv">mahv</a>)<br/><br/>edit: başlık ilk başta mafeden mi ne öyle bir şeydi, şimdi düzeltilmiş.
+   
+  entry_writer: one more last tale
+- entry_name: |
+    obama ışid'in kurucusu clinton da ortağıdır
+  entry_id: 62272456
+  entry_content: |
+    
+    bu trump dünya mahallesinin yeni delisidir. akla mantığa sığmayan, ırkçı ve saldırgan söylemlerinin arasında sağlıklı insanların dile getiremeyeceği hakikatler gizlidir.
+    
+  entry_writer: giga
+- entry_name: |
+    beşiktaş
+  entry_id: 62267332
+  entry_content: |
+    
+     <a class="b" href="/?q=mustafa+pektemek">mustafa pektemek</a> adlı haramzadenin doğum gününü kutlayarak içime şu serpmiş olan kulübüm.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/Besiktas/status/763638604442771456?s=09" title="https://twitter.com/Besiktas/status/763638604442771456?s=09">https://twitter.com/…status/763638604442771456?s=09</a><br/><br/>en son <a class="b" href="/?q=ismail+k%c3%b6yba%c5%9f%c4%b1">ismail köybaşı</a>'nın doğum gününü kutlamış, ertesi gün fener'e itelemişti.<br/><br/>allam sen konuyu biliyosun, dinimiz amin.<br/><br/>(bkz: <a class="b" href="/?q=ay+hadi+in%c5%9fallah">ay hadi inşallah</a>)
+   
+  entry_writer: bu adam adam olmaz
+- entry_name: |
+    galatasaray
+  entry_id: 62279869
+  entry_content: |
+    
+    kurt dumanlı havayı sever. ortalık toz duman olunca şikecilerin sözlük neferleri yine başlığın altında çamur atmaya başlamışlar..<br/><br/>bir de şike sürecinde canları yanmış gibi tavır takınmaları yok mu? yesinler. söyle bakalım, bırak şampiyonluğun elinizden alınmasını, küme düşürülmeyi; ülke içinde tek bir puanını dahi sildiler mi? aksine 4 senedir her sezon kurallar sizin takımın lehine olacak şekilde ince ince yontuluyor (play-off, yabancı sınırında kısıtlama, bruma'nın sakatlandığında sözleşmesinin dondurulmaması, yabancı sınırının kimseye sorulmadan 5+0+3'ten sırf diego alındı diye 5+3+1'e değiştirilmesi, fb'nin avrupa cezası bitince yabancı sınırının kaldırılması, vs.), yine de olmuyor... gücünüz yetmiyor... "rezalet" denen sezonda bile finalde kafanıza vura vura kupayı alıyor galatasaray elinizden, elinizi boş yolluyor.<br/><br/>ortalık karışık ya, amaç galatasaray'a attıkları çamurun izinin kalması.<br/><br/>araştırılsın be anam... araştırılsın. eğer <a class="b" href="/?q=cas">cas</a>'ın sizin şike davasında gerekçeli kararında ifade ettiğinin 10'da 1'i kadar kanıt bulunsun, ben razıyım galatasaray'ın cezasını çekmesine. biz sizin gibi adaletten kaytarmak için iktidara yanlayacak kadar karaktersiz değiliz. ama siz bundan 20 sene önce, 3-4 tane futbolcunun şarlatanın birinin sohbetini dinlemeye gitmiş olmasından medet umacak hale geldiyseniz, hakikaten çok çaresizsiniz.<br/><br/>acıyorum size.
+   
+  entry_writer: muto
 - entry_name: |
     maaşlardan 600 lira kesilecek
-  entry_id: 62255104
+  entry_id: 62264744
   entry_content: |
     
-    olm marmara üniversitesi mezunuyum, ingilizce biliyorum, günde 4 saat yol yapıyorum ama maaşım 1.300 lira lan. benden bişi kesmeyin aq
-    
-  entry_writer: meeting place
-- entry_name: |
-    meksika'da kilisede gözlerini açan heykel
-  entry_id: 62248708
-  entry_content: |
-    
-    nerede geri kalmış bir devlet ve toplum orada mucizeler fışkırıyor
-    
-  entry_writer: darwininkayiptorunu
-- entry_name: |
-    ahmet özal'ın babasını kim öldürdü
-  entry_id: 62250827
-  entry_content: |
-    
-    yıllardır cevabı bulunamayan soru..<br/>bu yüzden ki ahmet özal da şaşırmış durumda.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/pE46jq.jpg" title="http://i.hizliresim.com/pE46jq.jpg">http://i.hizliresim.com/pe46jq.jpg</a><br/><br/>türkiye gündemine kim gelirse adam; "acaba babamın katili bunlar olabilir mi?" diye beyanat verip duruyor.<br/><br/>buradan kamuoyuna sesleniyorum.<br/>turgut özal'ı kim öldürdüyse lütfen ortaya çıksın. <br/>ahmet özal'a acımıyor musunuz şerefsizler?
+    kafaya gel iki otuzbeşlik az için olur biter.  <br/><br/>çoluğun çocuğun rızkını düşünen yok. kafalar milletin içtiği rakıda. hesabı rakı şişesine göre yapıyor adam. 1200 lira kesilse iki şişe yetmişlik içmeyiver diyecek. kafa o kadar çünkü. beyni bulgur tanesi kadar. amk madrabazları.
    
-  entry_writer: erbulnela
+  entry_writer: mehyanede sabahlayan adam
 - entry_name: |
-    ali biçim'in ajans stajyerini tehdit etmesi
-  entry_id: 62254229
+    melih gökçek
+  entry_id: 62273069
   entry_content: |
     
-    bunu hep yapmak istemistim, galiba bu sefer oldu;;<br/><br/>(bkz: <a class="b" href="/?q=ali+bi%c3%a7im+kim+amk">ali biçim kim amk</a>)
+    hatırladığım kadarıyla 15 temmuz röportajından alıntılar..<br/><br/>-biz ailecek bir gecekonduya gittik.<br/>-twit atamadım çünkü twitter durmuştu. sosyal medya durmuştu.<br/>-türk telekomu aradık düzeltin dedik düzelttiler.<br/>-sonra gece twittlere başladım.<br/>-bu sırada oğlum osman dışarı çıkıyordu.<br/>-gitme sen askerler için hedefsin diye uyardım.<br/>- o da bana "babaaa ! gün bugündür babaa ! ben dışarı çıkacağım babaa !! şehit olacağım babaa !! dedi ve gitti"<br/><br/>ehe ehe<br/>tmm inandık başgan
    
-  entry_writer: kratos
+  entry_writer: guzellikkriterlerininotesinde
 - entry_name: |
-    güneşin bir gün sönecek olması
-  entry_id: 62257770
+    2016-2017 sezonu fenerbahçe teknik direktörü
+  entry_id: 62273165
   entry_content: |
     
-    o yüzden idareli kullanıyoruz, akşamları yakmıyoruz.
+    bu vitor varken lig tv abonesi olmam demistim, ümit özat gelirse tv izlemem amk.
     
-  entry_writer: sag eliyle dusunen adam
+  entry_writer: code x
 - entry_name: |
-    gamze özçelik'in dünyanın 8. harikası olması
-  entry_id: 62258405
+    2016 ekonomik krizi
+  entry_id: 62272795
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=11+a%c4%9fustos+2016+%c3%a7ok+acil+kan+ihtiyac%c4%b1">11 ağustos 2016 çok acil kan ihtiyacı</a>)<br/>(bkz: <a class="b" href="/?q=derin+bebek+y%c3%bcr%c3%bcs%c3%bcn">derin bebek yürüsün</a>)<br/>(bkz: <a class="b" href="/?q=teoman+annesine+kavu%c5%9fsun">teoman annesine kavuşsun</a>)
+    bütün dünyadaki kapitalist sistem dönüşürken krizlerin çıkmayacağını düşünen andavalların inanmadığı kriz. sevgili sözlük eski iş modelleri büyük fiziksel mağazalar, yüksek kiralı iş yerleri, hantal iş modelleri bütün dünyada çöküyor. bu bütün dünyada 2008 yılından beri kendisini gösteren bir kriz. akıllı olanlar sistemlerini ve politikalarını buna göre yapılandırıyor..<br/><br/>konum itibarıyla çok avantajlı olan ülkemiz bu durumda ne yaptı dersiniz, konum özelliğini kullanarak toprağa, binaya, ranta, yola gömdü paraları. kıyın kıyın yoksullaşırken, egonomi çoh eyi diyenlerle, orta gelirli plaza çalışanları pembe rüyalardan uyanmamak adına kabul etmediler. <br/><br/>sonuç ne derseniz bütün mülkiyet ilişkileriyle birlikte topyekün bir değişme olacak. artık şehir merkezinde 2-3 tükyan sahip olduğu için o cafe enin bu mekan benim sürten, elde tespih vayy karşşiiiim, yakışırcı tayfa çok değil 10 seneye ortadan kalkacak. hacı amcaların şehir merkezlerinde o konut stokları götüne patlayacak. <br/><br/>evet doblolu esnaf kardeşler, ve asgari ücretli işçiler, köylerin yolunu erkenden tutmaya bakın. çünkü bu özel değil genel genel. bu bütün dünyanın sorunu. ama en çok az gelişmişlerin sorunu.
    
-  entry_writer: kizilkurt
+  entry_writer: biturluaklagelmeyenadam
 - entry_name: |
-    rusların 330 tonluk nükleer reaktörü düşürmesi
-  entry_id: 62249164
+    30 yaşında hala anne babayla yaşamak
+  entry_id: 62265326
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=boya+tak%c4%b1nt%c4%b1s%c4%b1+olanlar+aramas%c4%b1n">boya takıntısı olanlar aramasın</a>)
+    anam hasta, kardeşim ergen, baba ölü..<br/><br/>evet, ana evinde kalıp ortama akınca karizmatik olamıyorum. bu sebepten bu akşam annemi kovarım muhtemelen evden. başının çaresine baksın, nihayetinde ortamlarda yarak kürek bi insan olmaktan iyidir. <br/><br/>haa bu arada kendi başıma bi sik yapamam evet. uvvv özgürlük bebeyim diye evden fırlamalıydım 20'li yaşlarda.<br/><br/>hayatı değişkenlerden bağımsız, <a class="b" href="/?q=ceteris+paribus">ceteris paribus</a> sananlar arasında yaşamaktan yoruldum.
    
-  entry_writer: fredy013
+  entry_writer: half a person
 - entry_name: |
-    hiç sigaraya başlamamış insan
-  entry_id: 62246264
+    inim inim inledi'nin ingilizcesi
+  entry_id: 62273411
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ona+da+m%c4%b1+y%c3%bcr%c3%bcyoruz">ona da mı yürüyoruz</a>)<br/><br/>çıta yükselmiş, nefes alsın yeter değil iyi nefes alsın yeter olmuş. vay.
+    (bkz:  <a class="b" href="/?q=my+cave+my+cave+he%2fshe+moaned">my cave my cave he/she moaned</a>)<br/><br/>not: yds notum 28.<br/><br/>debe editi: aslında 91.25 aldım yds'den. çalışmadan. <a rel="nofollow" class="url" target="_blank" href="https://barisunver.com/calismadan-yds-basarisi/" title="https://barisunver.com/calismadan-yds-basarisi/">şaka yapmıyorum.</a> şaka olan verdiğim komikli bkz.
    
-  entry_writer: taytsiz kral
+  entry_writer: barisunver
 - entry_name: |
-    10 ağustos 2016 recep tayyip erdoğan açıklaması
-  entry_id: 62260405
+    dindarın karşıtının laik zannedilmesi
+  entry_id: 62269662
   entry_content: |
     
-    'gazi m. kemal'in istiklal harbi'nin en sıkıntılı günlerinde ifade ettiği bir ilke vardı; hatt-ı müdafaa yoktur, sathı müdafaa vardır. o satıh bütün vatandır. ''<br/>(bkz: <a class="b" href="/?q=noluyo+aq">noluyo aq</a>)
+    "devletler laik olur, kişiler değil" diyenler, aynı şeyi  <a class="b" href="/?q=sosyalist">sosyalist</a>ler veya kapitalistler için de düşünüyorlar mı?<br/><br/>bir insan tek başına sosyalist bir düzen oluşturacak değil herhalde. birine sosyalist dediğimizde, "sosyalizme inanan, ilkelerini destekleyen" biri olmasını kastediyoruz.<br/><br/>tdk'ya göre haklısınız da, "laikliği savunan insan" etiketine, tedavülde sadece iki alternatif var: <a class="b" href="/?q=laik%c3%a7i">laikçi</a> ve <a class="b" href="/?q=sek%c3%bcler">seküler</a>. <br/><br/>ilkini kullananı sorgusuz sualsiz dövmeniz gerekir, onu es geçiyorum. <br/><br/>ikinci terim ise türkiye'ye yabancı. doğrudan ingilizce anlamı da çoğunlukla "dinsiz", "dinle alakasız" manasında kullanılır. günlük hayatta "ben sekülerim" diyen biri, bunu "devletlerin laik olmasını savunuyorum" manasında kullanmaz pek.<br/><br/>kısacası dilde bir ihtiyaç var. laik kelimesi bu ihtiyacı dolduruyor. herkes aşina, "seküler" kadar yabancı gelmiyor. <br/><br/>bu kavramın dinciler tarafından zehirlenmesinden çekinenler, laikliği "dini özgürlük, dine özgürlük" olarak yeniden paketleyebilir ve anlam kaymasını dengeleyebilirler. ("dinden özgürlük" kısmıysa bizde pazarlanacak bir şey değil elbet)
    
-  entry_writer: mrtcmn
+  entry_writer: immanuel tolstoyevski
 - entry_name: |
-    barcelona taraftarlarının arda turan'a saldırması
-  entry_id: 62248511
+    şort giyemeyen erkek
+  entry_id: 62269176
   entry_content: |
     
-    arda'nın hepsinden tek tek hesap sormasıyla sonuçlanacak saldırıdır.
-    
-  entry_writer: champion of capua the undefeated
+    "ben gıyemıyorum abi yaa" dedikten sonra uzerinde dusunelecek bisey yoktur, utanilacak bisey de yoktur sevmiyor olabilir, aliskin olmayabilir...sana ne amkk<br/><br/>giyenlere laf ediyorsa bir nebze kulağından cekilebilir.
+   
+  entry_writer: hocam fazla egon var mi
 - entry_name: |
-    türk kahvesi çok içersen kızlık zarı kalınlaşır
-  entry_id: 62245782
+    5+6=11'dir fakat 11 5 ile 6'nın toplamı değildir
+  entry_id: 62281558
   entry_content: |
     
-    nescafe içerseniz incelir, latte içerseniz esnekleşir, espresso ise zarın bir kalıp sabun gibi donunuza düşmesine sebep olur..<br/><br/>bu mevzuda kadına en büyük kötülüğü yine kadın yapıyor. zarını muhafaza etmekten başka hiçbir özelliği olmayan kadınlar bu konuyu sürekli gündemde tutmak istiyor.
+    (bkz:  <a class="b" href="/?q=abi+ge%c3%a7+oldu+yat+istersen+art%c4%b1k">abi geç oldu yat istersen artık</a>)
+   
+  entry_writer: slashedduff
+- entry_name: |
+    25 yaşından sonra kızların değerinin düşmesi
+  entry_id: 62265889
+  entry_content: |
+    
+    bizim bi komşu var adam üç seferdir yaşlısını boşayıp gencini alıyor. ve bu adam öyle dinci yobaz falan değil. geçip karşısına 4 evlilik haktır desen ağzını yüzünü dümdüz eder ama gel gör ki bu da başka yobaz.  <br/>ilk eşi 8 yaş küçüktü.<br/>ikinci eşi 14 yaş küçüktü.<br/>yenisi tam 17 yaş küçük.<br/>78'li adam gidip 95'li kız ile evleniyor.<br/>şimdi kabahat kimin?<br/>üçüncü sefer evlenen bir sapığa kız veren babanın mı, mal gibi daha 21 yaşına yeni giren nerdeyse babası yaşında adamla evlenen kızın mı, yoksa okul önlerinde toy kız arayan kart zamparanın mı?<br/>bunun ile evlenen kızlar da okumuş veya hali hazırda okuyor olan kızlar. hiç birinden çocuğu yok, yapmayı da düşünmüyormuş.<br/>en büyük fobisi aldatılmak ve bakire olmayan kadına tahammülü yok.<br/><br/>erkeklerin toy kadın peşinde gezmesinin alt metni bu aslında.<br/>egoları o kadar büyük ve o kadar benciller ki kadınlar onlar için bir meta sadece.<br/><br/>kadının değeri düşmüyor aslında. sadece genele yayabileceğimiz bu örnekteki erkek gibi metalaştırmak derdindeler. o yüzden sürekli "kadın, kadın" diyorlar.
+   
+  entry_writer: daga kacan inek
+- entry_name: |
+    müdürlerin hiç sıçmaması
+  entry_id: 62278411
+  entry_content: |
+    
+    altında çalışanların ağzına devamlı sıçtıkları için tuvalete girmeye gerek duymamalarındandır.
+    
+  entry_writer: bos gezenin hos kalfasi
+- entry_name: |
+    eşcinselliğin moda olması
+  entry_id: 62268201
+  entry_content: |
+    
+    hala özenerek cinsel "tercih"te bulunabilineceğini sananlar var. vay be
+    
+  entry_writer: evanart
+- entry_name: |
+    bjk ilk 11'inde 7 adet 30 yaş üstü oyuncu olması
+  entry_id: 62278076
+  entry_content: |
+    
+    takımın genç futbolculara verecek bonservis parası olmadığı için nispeten bonservisi olmayan veya düşük bonservisli futbolculara yönelmesinden kaynaklıdır. 2017-2018 sezonunda futbolcu satmadan da bonservise para verebileceğimiz için en azından bu sene ve bence bir iki sene daha bu sistemle devam edilebilir..<br/><br/>adettendir; ozan tufan gibi genç futbolcum olacağına 35 yaşına kadar atiba'yı oynatırımsporluyum.
+   
+  entry_writer: serwet
+- entry_name: |
+    erkek çoraplarının giderek kısalması
+  entry_id: 62270899
+  entry_content: |
+    
+    her yıl giderek kısalıyor. en son babet çoraba kadar geldi dayandı. bu işin sonunda baş parmağa bir takke giydirip adına çorap demesinler.
+    
+  entry_writer: rampris2
+- entry_name: |
+    isveçli kızların beyin bronzlaştıran ip atlamaları
+  entry_id: 62266929
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=beyin+bronzla%c5%9ft%c4%b1rma">beyin bronzlaştırma</a>)<br/><br/>(bkz: <a class="b" href="/?q=abazal%c4%b1ktan+deyim+icat+etmek">abazalıktan deyim icat etmek</a>)
    
   entry_writer: burnuna sinek konmus somali katibi
 - entry_name: |
-    zenginlerin şıp diye kilo verebilmesi
-  entry_id: 62247507
+    japonya'daki kürt mülteciler
+  entry_id: 62266865
   entry_content: |
     
-    ilaçla falan alakası yok. zenginlerin kendileri ile ilgilenmek için zamanları var..<br/><br/>sabah 8'den akşam 6'ya kadar iş yerinde sömürülen bir canlı, üstüne gidip nasıl spor yapabilir, kendine bakabilir? zaten zenginleri zengin yapan şey, sahip oldukları zaman, ve onu istedikleri gibi planlamaları. para değil.
+    1200 olan nüfuslarının on yılda 1 milyon 200 bin olması ve akabinde japonya'dan toprak talep etmeleri ihtimal dahilindedir.
+    
+  entry_writer: tintobrass
+- entry_name: |
+    4 eylül 2016 istanbul boyun eğmiyoruz mitingi
+  entry_id: 62281650
+  entry_content: |
+    
+    lan durun komünistler zaten ortalık karışık amk
+    
+  entry_writer: blurayfin
+- entry_name: |
+    100 km/s hızla giderken gidemez olmak
+  entry_id: 62272856
+  entry_content: |
+    
+    konu o kadar saçma ki başlığı da ancak böyle oldu.  <br/><br/>not: bana çok ayıp olur hiç fikir vermezseniz. o kadar da yazdım bak. <br/>özet: otoyolda 100km/s hızla giderken araç göstergeleri hiçbir uyarı vermeden motor aniden durdu. 6 ay önce otokoç'ta motor sökülmüştü, parça değişmişti. 52bin km'deki bir aracın böyle bir arıza vermesinde otokoç'un hatası olduğunu düşünmeden edemiyorum ancak onlar ihaleyi bana yıkıyor. gidip döver misiniz lütfen? ve de mangalda mısırı mı daha çok seversin mantarı mı deseler mantarı derim. <br/><br/>geçen cumartesi bagajda 4 mısır, 12 patlıcan, 20 mantar, 8 yeşil biber, 1 salkım üzüm, köpek topu ve diğer kamp malzemeleri ile istanbul'dan kartepe'ye doğru gidiyoruz. araba 52bin km'de 2012 model ford fiesta. içinde koruma amaçlı origami turnalar var. <br/>60 km filan gittik, bana böyle değişik bir ses geldi. değişik dediğim arabanın normal sesi vardır ya asfaltta gittiğinde çıkar. vınn vınn diye. işte o ses normalden yüksek geldi. hemen klimayı kapattık, camları açtık, ses bizden mi geliyor yandaki kamyonlardan mı onu anlamak için. tabii o arada ben hemen göstergeleri kontrol ettim, araba hiçbir uyarı vermiyor. el freni vites filan aklıma gelen ne varsa baktım, her şey normal. çekiş gücünde filan da sorun yok. kamyonu geçtik, ses kesildi. tamam dedik kamyondanmış. <br/>azıcık ilerledik, en fazla 200 metre. hafif bir yanık kokusu geldi, o kadar hafif ki arkadaşım almadı kokuyu. yine göstergelere baktım, hiçbir şey yok. dedim içim rahat değil ben şunu sağa çekeyim. bunlar 30 saniye içinde oluyor. hemen sağa yanaşıp frene bastım ve araba tekleyip durdu. bir daha da çalışmadı. biz tabii arabayı tam sağa çekememiş olduk, otoyolda, kamyonların vızır vızır geçtiği bir yerde dımdızlak kaldık. <br/>yanık kokusunu alıp yavaşlamasam, sağa yanaşamasam, 100km/s hızdayken aniden dursak yolun ortasında, ne hale geleceğimiz belli. araç takla atmasa üstümüzden kamyon geçerdi, araç takla atsa, kamyon yine de geçerdi. biber salçası gibi bir şey olurduk. acısız. <br/><br/>sonra motor kapağını açtım içeriden. baktım arkadaşım kapağı tersinden kaldırmaya çalışıyor tamam dedim bir çekil. burada otomobil ustası ablan var. motoru açtım. hafif bir duman. çılgıncasına hararet yapmış bir araçla yolda kalma tecrübem olduğu için hararet nedir biliyorum. bu öyle değil. motor sıcak evet, olmaması gereken bir sıcaklıkta ama motor su kaynatmış denemez. çünkü motor suyu yok:/ motor suyu olmuş çamur. arabanın altına baktık, bildiğin ishal. kahverengi cıvık bir şey yapıyor. motorun içini inceledim ışık tutarak, o çamur ta motor su deposunun yanından, radyatörle ikisinin arasından akıyor. yağ çubuğuna baktık, yağ filan kalmamış. motor yağı ve suyu sevişmiş ve gezmeye dışarı çıkmış anlayacağınız.<br/><br/>arkadaşım korktuğu için yol yardım çağırdık. arabanın patlayacağını düşünüyordu, bana daha fazla kurcalatmadı. öğlen güneşinin altında bekle ki yol yardım gelsin. o üçgen uyarı levhaları da amma dandikmiş bu arada, rüzgarda hemen uçuyor, salladık onları, 5 litrelik su koyduk uyarı olarak. neyse yol yardım geldi. dedi ki "motor gitmiş". 120 lirasını verdik, gitti. o olmasa ne yapardık bilmiyorum. sonra otoyol yardım geldi. arabayı oraya buraya itti, yerleştirdi sağ kenara iyice. çekici çağırdık, onu bekliyoruz. başka otoyol yardım geldi, arabayı çekelim burası tehlikeli dedi, çektirmedik ama 30 dk konuştuktan sonra ikna oldu. 2 tamirci geldi, abla tamir edem mi dedi. neyse yani gelen giden gırla. <br/><br/>ay resmen konuya gelemiyorum heee. <br/>çekici gelene kadar ben gittim kenarda otlara oturdum, üzüm yedim turuncu oje sürdüm. otlar ojeye yapıştı, iğrenç oldu gerçekten ama sanat eseri gibi bir şey bence. sonra çekici geldi. dedik köpekler öne oturabilir mi? hayır dedi, arabada kalabilir. insan arabada kalabilir mi? hayır öne oturabilir. peki araba ya düşerse arkadan? düşmez. ya düşerse? düşmez. ben arabada oturabilir miyim? içim rahat etmez köpekleri bırakamam. olur tamam. sonra arabayı çekiciye bindirdim^^ buralar çok zevkliydi. dönmeyen direksiyonu döndürdüm böyle aşırı güçlü olduğum için. sallana sallana gittik. emniyet kemerimi de taktım tabii belli mi olur. bu arada istanbul'dan bir arkadaşımız bizi almaya geliyor. ayyy içim sıkıldı valla şurada bırakıcam entryyi hee. <br/>babaney bırakmıyorum. <br/>işte araba toplama kampına gittik. çay içtik, kedi sevdik, oturduk, arkadaş geldi, bizi aldı döndük. gariban arabam da gece otokoç istinye'ye bırakıldı. ford yetkili servisi oluyor kendisi. <br/><br/>ben soruma geçsem şimdi olur mu? <br/>olur tabii çok isteriz zira daraldık. <br/>tamam^^<br/><br/>şimdi bu araba aralık 2015'te önden, yandan, arkadan darbe aldığı bir kaza yaptı. otokoç tamir ettik tamam süper oldu deyip teslim etti bir ay sonra. alır almaz yolda kaldı. gelip aldılar, tekrar verdiler, araba su aldı çılgın gibi, götürdüm 1 hafta sonra verdiler, araba sırılsıklam, yine verdim 2 hafta sonra veriyorlardı ki gizli bölgeye baktım ıslak. gösterdim, orada bıraktım. 1 ay sonra verdiler. aldım. ne kadar iyi bir servis olduğunu siz anlayın artık. <br/>ilk büyük tamiri sırasında çekilen fotoğrafları almıştım. hepiciği bende. değişen parçaları da biliyorum tabii ki. açtım onlara baktım. motoru sökmüşler, soğutma parçaları var değişen. yani bu aracın motoruna hasar gelmiş kazada ve otokoç tamir etmiş. sonra da motor hiçbir uyarı vermeden aniden duruyor. <br/><br/>en az 4 uyarı vermesi lazımdı. <br/>yağ seviyesi azalmış<br/>hararet<br/>motorda arıza<br/>motorda ciddi arıza<br/>hala durmazsan motorda arıza var göstergelerinin yanıp sönmesi <br/><br/>araba otokoç'ta öylece duruyor şimdi. ben diyorum ki sizin hatanız olabilir, ben ne yapacağım da bu hale gelecek araba. 6 ay önce motor elinizdeydi. onlar diyor ki son bakımı aksamış. yav son bakımı mı kalmış, araç zaten bakımı geldiğinde sizdeydi, komple açılıp toplanmıştı, sonra da bende ne kadar kaldı zaten, dalga mı geçiyorsunuz? <br/>ford'u arıyorum, araç garanti kapsamı dışında, servis diyor ki son bakımı yaptırmamışsınız. tamam diyorum o zaman şunu söyleyin. bizim araçlarımız 2 yıl garantilidir. garanti dolunca hiçbir uyarı vermeden motoru aniden durabilir ve siz ölebilirsiniz, bizi bağlamaz. hayır böyle diyemem. bu araç 6 ay önce komple söküldü, motordan darbe almıştı motor incelendi, siz bana periyodik bakım filtre kontrol filan mı diyorsunuz? diyemezsiniz. işte biz detaylı inceleyip size dönelim. ok. <br/><br/>otokoç arıyor, inceledik, motordaki arıza daha önceki hasardan kaynaklanmıyor. masrafları siz karşılayacaksınız. peki arıza nedir? tam tespit etmedik motoru sökemediğimiz için. peki kazadan olmadığını nereden biliyorsunuz. çünkü motorda. e motor kazada açıldı diyorum. zaten bu kesin sonuç değil ön tespit :s<br/><br/>ya o kadar kötü anlattım ki sizlere bir şarkı armağan etmek istiyorum. çok seviyorum da bu <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=-fmEeTUYUnk&index=29&list=FLljJTbpP8RmN0qOBPd7HA2QBPd7HA2Q" title="https://www.youtube.com/watch?v=-fmEeTUYUnk&index=29&list=FLljJTbpP8RmN0qOBPd7HA2QBPd7HA2Q">ikili</a>yi. <br/><br/>soru: bunlar beni kazıklar mı? haksızlığa uğruyorum ve nasıl ispat edeceğimi bilmiyorum. ford yardımcı olmuyor. otokoç'a güvenemiyorum, olayda onların hatası varsa söylerler mi? söylemezlerse ben nereden bileceğim? motoru otokoç'a açtırayım mı? açıp da bir şeyleri değiştirirler mi hataları anlaşılmasın diye? bir de ağaçlara 5 litrelik plastik şişeler asıyorlar ya, neden?
    
-  entry_writer: tavukbanalop
+  entry_writer: selfishgene
 - entry_name: |
-    10 ağustos 2016 kızıltepe patlaması
-  entry_id: 62255744
+    11 ağustos 2016 datça'da gördüğüm kız
+  entry_id: 62283482
   entry_content: |
     
-    mardin kızıltepe devlet hastahanesi yakınlarında bulunan toki konutlarının önünde, polis aracının geçişi sırasında bomba yüklü araçla gerçekleştirildiği söylenen patlamadır. ilk belirlemelere göre 3 ölü 50'den fazla yaralı olduğu söyleniyor..<br/><br/>edit: bir kızıltepe'li olarak bu saldırıyı yapanları en ağır şekilde lanetliyorum. <br/><br/>ey orospu çocukları siz halka hizmet veren hastanenin önünde bomba patlatarak bu halka demokratik hak mı kazandırıyorsunuz?<br/><br/>siz kuzenimin eşiyle oturduğu lojmanın önünde bomba patlatarak , hastanede yatan amcamın odasının camını kırarak mı hak talep ediyorsunuz? <br/><br/>siz orda olan çoluğu çocuğu, genci yaşlısı yüzlerce hastayı tedirgin ederek mi onların temsilcisi olduğunuzu iddia ediyorsunuz?<br/><br/>hayır, sizin kürt halkı da demokrasi de umurunuzda değil. siz silahlı güce ve yarattığınız korkuya dayanarak var olma amacı güden, kürt gençlerini kandırarak militan toplayan, çoğunlukla dış güçlerin taşeronluğunu yapan kirli bir örgütsünüz. canınız cehenneme, tez zamanda yok olmanız ve bu halkın ve bu memleketin askerinin polisinin üstündeki elinizin kuruması dileğiyle. lanet olsun.
+     <a rel="nofollow" class="url" target="_blank" href="http://i1.kym-cdn.com/photos/images/original/000/325/428/264.jpg" title="http://i1.kym-cdn.com/photos/images/original/000/325/428/264.jpg">http://i1.kym-cdn.com/…original/000/325/428/264.jpg</a>
    
-  entry_writer: gliese 581
+  entry_writer: everything at once today
 - entry_name: |
-    ösys 2016 yerleştirme sonuçları
-  entry_id: 62250703
+    teoman annesine kavuşsun
+  entry_id: 62272469
   entry_content: |
     
-    97lilerin 98lilere abilik yaptığı başlık...<br/><br/>debe editi : (bkz: <a class="b" href="/entry/62272469">#62272469</a>)
+    merhaba arkadaşlar.  <br/>duyarlı kişilerden paylaşım yapmasını rica ediyorum. sözlükte ilk defa bu tarz bir başlık açtığım için tam olarak ne yazmam gerekir bilmiyorum. anladığım kadarıyla amaç, farkındalık oluşturmak; ayrıca imza kampanyası ile sürece hareketlilik kazandırmak. <br/>teoman' ın annesi gökçe hanım, benim üniversitede dersine girmiş olduğum hocalardan biriydi , duyunca paylaşmak istedim. <br/>imza kampanyası gereken sayıya ulaştığında, dış işleri bakanlığına götürülecekmiş . süreci hızlandıralım. <br/><br/>konunun ayrıntıları ve ilgili sayfalar :<br/><br/>" velayeti annesinde olmasına rağmen babası tarafından umman krallığı' na kaçırılan teoman annesine kavuşsun." <sup class="ab"><a title="(bkz: sayfadan alıntıdır.)" href="/?q=sayfadan+al%c4%b1nt%c4%b1d%c4%b1r." data-query="sayfadan alıntıdır.">*</a></sup><br/><br/>facebook sayfası: <br/>[<a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/Teomanannesinekavussun/" title="http://www.facebook.com/Teomanannesinekavussun/">http://www.facebook.com/teomanannesinekavussun/</a> <a rel="nofollow" class="url" target="_blank" href="http://www.facebook.com/Teomanannesinekavussun/" title="http://www.facebook.com/Teomanannesinekavussun/">http://www.facebook.com/teomanannesinekavussun/</a>]<br/><br/>twitter' da <a class="b" href="/?q=%23teomanannesinekavussun">#teomanannesinekavussun</a> etiketi ile paylaşım yapabilirsiniz.<br/><br/>imza kampanyası:<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.change.org/p/i-want-to-reunite-with-my-son-3-yaşında-umman-a-kaçırılan-oğluma-kavuşmak-istiyorum?recruiter=581246117&utm_source=share_petition&utm_medium=facebook&utm_campaign=share_facebook_responsive&utm_term=des-lg-share_for_starters-custom_msg&recuruit_context=fb_share_mention_controlhare_mention_control" title="https://www.change.org/p/i-want-to-reunite-with-my-son-3-yaşında-umman-a-kaçırılan-oğluma-kavuşmak-istiyorum?recruiter=581246117&utm_source=share_petition&utm_medium=facebook&utm_campaign=share_facebook_responsive&utm_term=des-lg-share_for_starters-custom_msg&recuruit_context=fb_share_mention_controlhare_mention_control">imza kampanyası linki</a><br/><br/>ekleme:<br/><br/>imza kampanyası metni:<br/><br/>türkiye cumhuriyeti dışişleri bakanlığı'na,<br/>2007 doğumlu oğlum teoman kemal tekin, türk vatandaşı babası tarafından 17 eylül 2010 tarihinde türkiye’den umman sultanlığı’na kaçırıldı. nisan 2013’te türk mahkemesinin boşanma ve lehime velayet kararı kesinleşti, fakat türk mahkemesinin kararı umman mahkemesince tanınmadı ve oğlumun velayeti o ülkenin iç hukukunda eski eşime verildi. evliliğimde ve bu süreç içinde yaşadığım maddi manevi eziyet altında, eski eşimin hukuksuzlukla üç yaşında benden kopardığı oğluma kavuşmak için yaklaşık altı senedir adli ve idari her yolu denedim. oğlum şu an dokuz yaşında ve yıllarını anne sevgisi ve şefkatinden uzak geçirdi. eski eşim sağlıklı görüşme yolları sağlamadığı ve beni oğluma kötülediği için altı senedir oğlumla konuşamıyorum ve onu göremiyorum. oğlum yanımda ve güvende olmadan nefes alamıyorum. şu anda geçerli bir pasaportu ve vizesi olmadan umman’da bulunan oğlumun türkiye’ye iadesini istiyorum. senelerdir verdiğim mücadelenin sonunda oğlumla kavuşabilmemiz için desteğinizi bekliyorum.
    
-  entry_writer: noktape
+  entry_writer: higoriyan
 - entry_name: |
-    tüm michael'ların efsane olması
-  entry_id: 62245882
+    şekip mosturoğlu
+  entry_id: 62266188
   entry_content: |
     
-    yine de efsane olsun olmasın bütün michael'ler bir araya gelse arif'in o şutunu çıkaramazlar.
-    
-  entry_writer: diyorum
-- entry_name: |
-    konda'nın demokrasi nöbeti araştırması
-  entry_id: 62257094
-  entry_content: |
-    
-    apaçık bellidir ki; demokrasi nöbeti değil, akp'lilerin götünü kurtarma nöbetidir.  <br/><br/>benimle alakası yok yani, ben olaysız dağılabilirim.
+    adnan polat'ın yaptığı en hayırlı iş sanırım takımı 2010-2011 sezonunda o kadar kötü yönetmek olmuş. ulan sayılan 3 takım taraftarı da o sezon gs kümeye diye bağırıyordu tribünlerinde..<br/>hadi onu geçtim ben galatasaraylı yöneticilerin şu an çoğu tutuklu veya kaçak olan savcı ve hakimlerle maç yaptığını hatırlamıyorum. kaldı ki fb cumhuriyet v.s. üzerinden kendine pay çıkaran bir kulüp ve maç yaptıkları adamlarda devlette ne kadar atatürkçü subay, hakim, savcı varsa içeri atmış adamlar.<br/><br/>arsızlık, utanmamazlık gibi kelimelerin tanımı olarak artık aziz yıldırım, şekip mosturoğlu ve mahmut uslu'nun fotoğrafları konsun sözlüğe bence. koca kulübü isviçrelerde bile rezil ettiler hala laf kalabalığı yapıyorlar.<br/><br/>bir daha yazalım, o sezon galatasaray şike yapsa sizce o sıralamada olurmuydu?<br/>o sezon galatasaray şike yapsa yöneticilerin şikeden değil geri zekalı olmaktan tutuklanmaları gerekmez miydi?
    
-  entry_writer: hela gozlum
+  entry_writer: kekremsibirtat
 - entry_name: |
-    binali yıldırım
-  entry_id: 62256467
+    11 ağustos 2016 ssg'nin attığı tweet
+  entry_id: 62274357
   entry_content: |
     
-    üstte yazılanları okuyunca insanın ister istemez eğleniyor muyuz gençler diyesi geliyor. bu toplum hakikaten balık hafızalı..<br/><br/>kendisi ido genel müdürü olduğu yıllarda yakınlarına usulsüz büfe kiraladığı ortaya çıkan, akrabalarının sahibi olduğu şirketin aldığı ihaleler müfettiş raporlarıyla da tespit edilince refah partisi'nden belediye başkanı olan ali müfit gürtuna tarafından görevinden alınan bir adam.<br/><br/>ido'nun başındayken eldeki norveç yapımı deniz otobüslerinin faizi bile zor ödeniyorken, gidip avustralya'dan yeni gemi siparişleri vererek iki farklı bakım ve parça masrafını kurumun kasasına yazdırmaktan beis duymamıştır. <br/>niye? çünkü norveç yapımı olanları bedrettin dalan aldı, aynısından alırsan hizmette devamlılık olacak ya.<br/><br/>kariyerinin önemli bölümünde kamuda memur olarak geçirmiş birinin 30 gemilik filo, 2 süper yat ve farklı ülkelerde şirketlere sahip olması da nasıl büyük bir girişimcilik zekasına sahip olduğunu gösteriyor.<br/><br/>her akp'li gibi o da pamukova faciası'nda eski raylar üzerinde hızlandırılmış tren seferi düzenleyip, neticede 41 kişinin ölümüne neden olan bir kaza sonrası istifa etmeyip, suçu makiniste atarak kendisini kamuoyunda aklamıştır.<br/><br/>millet hala şakalar, komiklikler...<br/><br/>edit: bu tip bilgileri bugüne dek duymadığını söyleyen bazı arkadaşlar oldu.<br/>soner yalçın'ın geçmişte yayınlanan <a rel="nofollow" class="url" target="_blank" href="http://www.sozcu.com.tr/2016/yazarlar/soner-yalcin/gemicik-iktidari-1237715/" title="http://www.sozcu.com.tr/2016/yazarlar/soner-yalcin/gemicik-iktidari-1237715/">şu</a> yazısını okumalarında fayda var. <br/>ben az bile yazdım aslında.<br/>biraz çabalarsanız internette kaynak bol.
+    kanzuk'un 13 yıl önce girdiği  <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/3723361" title="https://eksisozluk.com/entry/3723361">şu entry'nin</a> yanında pek bir önemi yoktur.<br/><br/>başlık: küçük pipili erkek iyi sevişir<br/>entry: valla yalan, kendimden biliyorum.
    
-  entry_writer: bana siir yazdirtma bana cay demlet
+  entry_writer: nuri alconun aile hekimi
 - entry_name: |
-    beşşar esed
-  entry_id: 62244996
+    pokemon go
+  entry_id: 62275461
   entry_content: |
     
-    suriye'yi şeriatla yönetmek isteyen köpeklerin demokratik olmamakla suçladıları siyasi deha.
-    
-  entry_writer: socialista bjk
-- entry_name: |
-    fransız le point gazetesinin yaptığı rte anketi
-  entry_id: 62252567
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=oui">oui</a>)
+    niantic'in kırsal kesimdekilere piç muamelesi yaptığı oyun..<br/><br/>krdş kusura bakma da <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/byQ44Y.jpg" title="http://i.hizliresim.com/byQ44Y.jpg">bune</a> amk?<br/><br/>ilçede toplamda 3 tane pokestop merkezi var. yazıyla üç. hepsini teker teker gezmeye kalksan 5 km'lik yumurtaları tıkır tıkır açarsın. öyle de uzaklar birbirine.<br/><br/>şuan bir cami avlusuna attım kendimi yarım saattir top bekliyorum. çocuğunu alan da gelmiş amk kafam sikildi bu nasıl cami avlusu? <br/><br/>çocuklardan biri cenaze taşında ezan okuyo şuan. allahım sen büyüksün.
    
-  entry_writer: kodu hayatimin amina kodu
+  entry_writer: imp
 - entry_name: |
-    tezsiz yüksek lisans yapanların asıl amacı
-  entry_id: 62245582
+    gay dışarıdan anlaşılır ama lezbiyen anlaşılmaz
+  entry_id: 62269486
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=askerlik">askerlik</a>)
+    doğru tespit. kim der bu lezbiyen diye?  <a rel="nofollow" class="url" target="_blank" href="http://img01.alkislarlayasiyorum.com/ayrshots/200/insanin-olumunu-goren-insan-taksimli-cenk_200532-21690_640x360.jpg" title="http://img01.alkislarlayasiyorum.com/ayrshots/200/insanin-olumunu-goren-insan-taksimli-cenk_200532-21690_640x360.jpg">link</a><br/><br/>edit: bu arada birkaç arkadaştan mesaj geldi. "kim bu?" diye. tabii ki benim hatam, taksim'in ünlü siması cenk'i herkesin tanıdığını düşünerek bu yorumu yaptım. binlerce videosu var ama bir örnek olarak <a rel="nofollow" class="url" target="_blank" href="https://www.youtube.com/watch?v=Ud-lXJSkN4w" title="https://www.youtube.com/watch?v=Ud-lXJSkN4w">na şurada</a>
    
-  entry_writer: karachi
+  entry_writer: anteke
 - entry_name: |
-    lys 2016
-  entry_id: 62247671
+    11 ağustos 2016 hala sela okunması
+  entry_id: 62278177
   entry_content: |
     
-    1. sıradaki tercihim geldi ama ben 30. sıradaki tercihimi kazanmak istiyodum bu nedenle de onu 30. sıraya yazdım. acaba bişey yapıp 30. sıradaki tercihime giremez miyim bilen arkadaşlar üstüme biraz beyin atsın lütfen teşekkürler.
-    
-  entry_writer: bu da benim nickim husnu bey
-- entry_name: |
-    türk kız arkadaş bulamayan avusturyalı genç
-  entry_id: 62255879
-  entry_content: |
-    
-    yazanın türk bir erkek olduğunu düşündüğüm bir başlık. hatta bu kişi burada başlığı açan kişi bile olabilir. 8 oy 7 yorumlu bir sene önce açılmış bir başlığı neden buraya taşıdın ??<br/><br/>(bkz: <a class="b" href="/?q=kafamda+deli+sorular">kafamda deli sorular</a>)<br/><br/>"appearently, turkish girls are stucked between european culture and middle-eastern conservatism" <br/>ben bu cümleyi bir sene burada yaşayan bir avusturyalı gencin kuracağına inanmıyorum. tipik bir türk erkeği cümlesi.<br/><br/>"when you approach them almost 99% of those girls look at you like a serial killer."<br/>yine aynı şekilde tipik bir türk erkeği cümlesi.<br/><br/>"ı tried tinder. ı swear to god, ı've started using tinder when ı was in austria and ı have 200+ matches and atmost 20 of them are turkish, they don't even reply." <br/>burada zaten neye başladığını unutmuş , düşük anlamlı saçma bir cümle olmuş.<br/><br/>thinks e girmiyorum bile.
+    bir de cahil diyenler olmuş. bu ülkede 10 yıl önce okunmayan sela bugün okunuyor, biz uzaydan mı geldik kardeşim??<br/><br/>ek tanım: istanbul için de geçerli olan durumdur.
    
-  entry_writer: whocarez
-- entry_name: |
-    akp'li laik atatürkçü
-  entry_id: 62249687
-  entry_content: |
-    
-    en azından "iki ayyaş" lafında akp'lilikten vazgeçmediyse atatürkçü değildir.
-    
-  entry_writer: zamazingonun tam ortasi amazing
-- entry_name: |
-    yüksek lisans yapmanın gereksiz olduğu gerçeği
-  entry_id: 62248571
-  entry_content: |
-    
-    amına koyim her şeyi nasıl da kendi küçük dünyanızda değerlendirip kesin sonuca bağlıyorsunuz çok hayret ediyorum. ne okuduğunuza ve hangi sektörde çalıştığınıza/çalışmak istediğinize göre tamamen değişen bir durum. mühendisseniz ve ar-ge'de çalışıyorsanız şirket yüksek lisans/doktoralı çalışan sayısıyla orantılı olarak devletten teşvik aldığından ve belirli sayıda yüksek lisanslı mühendis çalıştırma zorunluluğu olduğundan gözünüzün içine bakar yüksek/doktora yapın diye, haftada en az 1 gün izin verir, eğitim katkısı adı altında 300-500 para verenleri de var..<br/><br/>yüksek lisans yerine ingiltere'de dil okuluna gidin demiş bir de, ingilizce bilmeden doğru düzgün bir okulda teknik branşlarda nasıl yüksek lisans yapacaksın zaten? bölüm var bölüm var, yüksek lisans var yüksek lisans var; o yüzden millete vaaz vermeyin, gerekli geliyorsa yap gereksiz geliyorsa yapma dil okuluna git (:
-   
-  entry_writer: diagonaleklem
-- entry_name: |
-    zorunlu bireysel emeklilik sistemi
-  entry_id: 62246746
-  entry_content: |
-    
-    yeni sistem tasarısı mecliste kabul edildi. dolayısıyla 1 ocak 2017 ile hayata geçecek. birkaç bilgi vereyim de sonra "la bizim maaşa noliy" demeyin. siz sormadan neleri sık soracaksanız cevaplıyorum::<br/><br/>brüt maaşınızın %3'ü kesilecek.<br/><br/>asgari ücret için şimdilik en az 50 tl, en yüksek ücret için şimdilik en az 321 tl yapıyor (asgari ücret 1 ocak'ta artacağı için bu tutarlar da artacaktır).<br/><br/>45 yaş altındaysanız ve 50'den fazla çalışanı olan bir şirkette çalışıyorsanız katılmak zorundasınız.<br/><br/>katılmak için bir işlem ya da başvuru yapmıyorsunuz. işvereniniz sizin adınıza bir kurum ile anlaşıp devlet garantili bes'e sizin maaşınızdan kestiği tutarları aktarıyor.<br/><br/>çıkmak isterseniz 2 ay sonra çıkabiliyorsunuz. <br/>2 ay kalsanız da kar olan bu sistemden çıkmayan %10 bile kalsa 40 yapar mantığı yürütülmüş. (bkz: <a class="b" href="/?q=hesaplayan+adamlar">hesaplayan adamlar</a>)<br/><br/>sisteme üye olanlara ödedikleri tutarın %25'i kadar da devlet katkı yapıyor. bu sistemde ayrıca 3 aydan sonra bir sefere mahsus 1.000 tl de ek olarak devlet katkısı var. <br/><br/>halihazırda var olan bireysel emeklilik sistemi ile aynı. sadece ek 1.000 tl devlet desteği mevcut bes'lerde yok. <br/><br/>zaten bes'iniz varsa artık 2 tane var demektir. zorunlu olanı 2 ay sonra iptal edersiniz ya da diğerini iptal edersiniz ama nereden bakarsanız zararlı çıkıyorsunuz.<br/><br/>10 yıl prim ödeyip 56 yaşını doldurduğunuzda emekli oluyorsunuz. emekli olursanız o güne kadar ödediğiniz tutarları, fon getirilerini ve devletin yaptığı katkıların tamamını toplu olarak ya da aylık maaş şeklinde alabiliyorsunuz. aylık maaş alırsanız bu tutara %5 daha devlet katkısı oluyor.<br/><br/>ara dönemlerde ayrılırsanız devlet katkısını ilk 3 yıl için hiç alamıyorsunuz, sonrası için 6 yıla kadar %15'ini, 10 yıla kadar %35'ini alıyorsunuz.<br/>10 yıl prim ödeyip 56 yaşını doldurmadan parayı alırsanız devlet katkılarının %60'ını alıyorsunuz.<br/><br/>fon getirisi var da götürüsü olmaz mı? tabii ki olur. fon işletim gideri diye de bir kesinti var. getiriyi faiz, götürüyü işlem ücreti olarak düşünebilirsiniz. götürü oranı değişiyor. şuan yaklaşık yıllık %1,5 kesiyorlar ama değişecektir.<br/><br/>özetle mevcutta bireysel olarak özgürce başlayabileceğiniz bir sisteme zorunlu olarak katılıp özgürce çıkabiliyorsunuz. <br/><br/>daha önce amerika gibi birçok oturmuş sistemi olan ülkede uygulandı ve kriz dönemlerinde çöktü. bizde oturmuş bir kriz sistemi olduğu için çökebilecek fırsat bulamayıp başarılı olacaktır.<br/><br/>gelen sorular üzerine edit: <br/><br/>kamuda da aynı şekilde geçerli.<br/><br/>kimse sormaz diye yazmamıştım ama soruldu. evet, isteyen daha fazla ödeyebiliyor (ne fakir düşünmüşüm). <br/><br/>yıllık işlem gideri oranı, maaştan kesilen %3'lük oran, işverenin 50 ve üzeri çalışanı olması zorunluluğu gibi konular, yürürlüğe girmeden önce yayınlanacak genelgede kesinleşir. kesinleştiğinde tekrar editlerim.
-   
-  entry_writer: tozkoparan
-- entry_name: |
-    çomarların otoparkın ilk katında yer bulma derdi
-  entry_id: 62259822
-  entry_content: |
-    
-    sebebini anlayamadığım dert. 5-6 katlı otoparkta ilk kattan yer bulmak için o katı tavaf eder, 2 dk aşağı kata inmek yerine 10 dk o katta tur atar. buldu mu da o yeri bekleyip trafiği tıkar, katleder. sonra bi de sorar "kaçıncı kata park ettin?". cevap 3-4. kat ise, "benim ilk katta ahuahau" gibi bi cevap gelir. hayattaki en büyük başarıları zannedersem. cidden sebebini bilen yeşillendirebilir mi?
-    
-  entry_writer: melonsucker
-- entry_name: |
-    11 ağustos 2016 ağır vodafone rezaleti
-  entry_id: 62261454
-  entry_content: |
-    
-    belgelerle vodafonee<br/><br/>ön edit: belgeler geeeeeeeeeeeeeeeeldiiiii<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/VE2y5R.png" title="http://i.hizliresim.com/VE2y5R.png">bu talebinizi aldık mesajı</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nEYGVa.png" title="http://i.hizliresim.com/nEYGVa.png">bu yüklendildi mesajı</a><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nEP18g.png" title="http://i.hizliresim.com/nEP18g.png">gelmediğine dair döküman</a> <br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/lEBz2p.png" title="http://i.hizliresim.com/lEBz2p.png">bu da şikayetten sonraki xdxd mesajı</a> (xdxd beni trollediler anlamında kullanılmıştır. mesajda xdxd falan yok yani) <br/><br/>sözlükte başlayan kampanyaya katılarak türkcellden vodafone'a geçmiştim. net bir şekilde yazıyorum. umarım kısa keserim dediğim rezalet.<br/><br/>1. rezalet<br/><br/>internetten annemin hattına 15 lira yükledim. 10 liraya 2gb internet dolduracaktım ki öyle bir seçenek yok. ama televizyonda bas bas bağırılıyor, bitince doldur diye. <br/>2. rezalet<br/><br/>bunun için müşteri hizmetlerini aradım. müşteri temsilcisini aramak 60 kuruş. ne demek müşteri hizmetleri paralı. bu nasıl bi kafa yapısı.<br/><br/>3. rezalet<br/><br/>madem paralı boşver, 15 liraya tüm paketi fulle seçeneği var; onu kullanayım dedim. 15 liraya tüm paketi doldurttum. daha sonra özet yazıp 7000'e mesaj attım. internet gelmemiş. <a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/nEP18g.png" title="http://i.hizliresim.com/nEP18g.png">ayın 7si akşam</a> yükledim ama zaten 2gb yükledim sadece 1000mb kullanılmış. tamamen sallıyorlar yani. <br/><br/>4. rezalet<br/><br/>vodafone bayiine gittim. hata yok dediler, internet gelmiş tüketmişsiniz dediler. ne alaka lan 2 dakikada 1080p video bile indirsen bitmez zaten. mesajı görüyorsunuz gelmemiş dedim. 7000'e atılan mesajı sildi. adama kafa atacaktım az kalsın. ulan elimdeki belgeyi nasıl silersin. neyse müşteri hizmetlerinde kayıt vardır dedim.<br/><br/>5. rezalet<br/><br/>müşteri temsilcisi laubali bir şekilde konuşuyor benimle. beni yetkili birisine aktar dediğimde ise "burada en yetkili benim" ayağı yapıyor. sinirlendim, sesimi yükselttim, suratıma kapattı.<br/><br/>6. rezalet <br/><br/>tekrar 60 kuruşu göze alarak aradım. beyefendi şikayet kaydı oluşturdu. ertesi gün size dönerler efendim dedi. <br/>ertesi gün gelen mesaj "herhangi bir problem bulunmamakta xdxd" diye mesaj atmışlar. (buraya fotoğraf gelecek)<br/><br/>7.rezalet <br/><br/>nasıl olur lan diye müşteri hizmetlerini aradım. yetkili birime aktar dedim, sağolsun aktardı. hanımefendi sanırım problem var burada dedi ve tam yüreğime su serpilecekti ki telefon suratıma kapandı. çıl dı rı yorum.<br/><br/>8. rezalet <br/><br/>bi altmış kuruş daha vererek aradım anasını satayım, giren girdi zaten. kadının adını söyledim, yetkili birimdeki hanımefendiye aktarın, beni bekliyordur belki falan dedim; müşteri temsilcisi "buyurun ben yardımcı olayım" dedi. ulan muhabbeti anlatmak en az 10 dakika. senin anlaman da bi 10 dakika sürecek. 20 dakika piç olmasın diye ısrar ettim. aktarmadı ve telefon <a class="b" href="/?q=tekrar+surat%c4%b1ma+kapand%c4%b1">tekrar suratıma kapandı</a>.<br/><br/>9. rezalet<br/><br/>müşteri temsilcisini bi daha aradım. 60 kuruşlar götüme kaçıyor bu arada. tamam efendim ben kaydınızı aldım, yarım saat içinde aranırsınız dedi temsilci. yarım saat geçti, aramadılar.<br/><br/>10. ve son rezalet<br/><br/>ertesi gece yani bu gece aradım. 542yi siz de arayın 60 kuruş vermek isterseniz. şöyle bir ses geliyor "birazdan bi ses duyacaksınız, ücretlendirme ondan sonra olacaktır" diye. <br/>o ses geldi, gelmez olasıca. sonra bir ses daha geldi "alt yapı çalışması dolayısı ile hizmet veremiyoruz" diye. <br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/40mERA.png" title="http://i.hizliresim.com/40mERA.png">fotoğraf</a> bakın kestiler ve hizmet vermediler.<br/><br/>11. ve sonradan aklıma gelen rezalet <br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/VEp4qV.png" title="http://i.hizliresim.com/VEp4qV.png">bu kadar mb internete 8 tl mi kestiniz allahsızlar</a><br/><br/>12. ve taze rezalet<br/><br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/by8nYG.png" title="http://i.hizliresim.com/by8nYG.png">annemin hattındaki 11 lirayı</a> kendime atayım dedim ama hattım 90 günden yeni olduğu için transfer yapılmıyormuş. ulan ne kadar yaratıcısınız. ne alaka lan 90 gün <br/><br/>ulan amına koyduklarımın bahçesinde güllerine su vermeyenlerin evlatları. madem hizmet vermiyorsun, neden onu ücretlendirme başlamadan söylemiyorsun. <br/><br/>aklımı siksinler vodafone geçen. boşversene beşiktaşın sponsoruymuş falanmış. paramı verin lan hırsızlar!!<br/><br/>edit: yarım saat entry girilmeyince ulan kimse iplemedi. neyse yatıp uyuyayım diyerek fotoğraf işini savmıştım. telefon bahsettiğim gibi annemde olduğu için ss alıp atamıyor. alıyor da atamıyor. çünkü niye? annemin interneti yok. hani çaldılar ya internetini o yüzden internet yok. neyse akşam 5 gibi fotoğraf atacağım. hem de internet sitesindeki harcanan internetleri falan da atarım, hepsi belgeli. <br/><br/>aktroll diyenlere de kafam girsin ayrıca. ne aktrollü<br/><br/>edit2: fotoğrafların bir çoğunu yükledim. şu onay alınmadı mesajını da annem gelince atacağım. sizi aşağılık suserler. adam yalan söylüyorsun demiş. ulan 15 lira için niye yalan söyleyim puşt. haksızlığa karşı durmaya çalışıyorum. neyse ben bimcelle geçcem valla<br/><br/>edit3: ne desem <a rel="nofollow" class="url" target="_blank" href="https://eksisozluk.com/entry/62268115" title="https://eksisozluk.com/entry/62268115">gg</a>
-   
-  entry_writer: catatay
-- entry_name: |
-    gelmiş geçmiş en iyi almanca şarkı
-  entry_id: 62257774
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=zu+spat">zu spat</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7etin+%c3%a7etinkaya">çetin çetinkaya</a>)<br/><br/>tabi ki budur. internet cafelerin eskimeyen şarkısı.
-   
-  entry_writer: dusuncenize saygiliyim ama sikimde degil
-- entry_name: |
-    mario gomez
-  entry_id: 62251972
-  entry_content: |
-    
-    bipspor ve tozhaber'e göre gelmeyecekmiş..<br/><br/>şahsen ben zırthaber ve zortspor'dan duymadıktan sonra hayatta inanmam...<br/><br/>edit: vay amk zortspor diye bi site harbiden varmış ya la, asjjhaajsjasdfkk...
-   
-  entry_writer: balevso
-- entry_name: |
-    olimpiyatlarda hangi sporcusunuz
-  entry_id: 62251228
-  entry_content: |
-    
-    izleyici çıktım amk , hatta televizyondan izleyici.
-    
-  entry_writer: eneski
-- entry_name: |
-    10 ağustos 2016 pkk'nın şırnak saldırıları
-  entry_id: 62246919
-  entry_content: |
-    
-    demokrasi nöbeti adı altında çimenlere yayılıp çekirdek çitleyen kitle tarafından pek umursanacağını düşünmediğim olay. evlatlarımızı papatyadan yaprak koparır gibi göğsümüzden alıyorlar.
-    
-  entry_writer: arthur charles clarke
-- entry_name: |
-    celal şengör
-  entry_id: 62250936
-  entry_content: |
-    
-    komutanlar aklanınca ne kadar haklı olduğunu bir kez daha görmüş olduk. 27 ekim 2013'te balyoz ve ergenekon için (hürriyet'teki yılmaz özdil köşesinde) şunları yazmıştı:  <br/>"komutanlarım arasında kaç tanesini kendisine isnad edilen suçu işlemişse, toplayıp bana onların cezasını versinler yatayım! onlara itimadım bu kadar yüksek. ama bir şartım var; gerçek mahkeme isterim!"
-   
-  entry_writer: kesin ve net adam
-- entry_name: |
-    vasıfsız 25'liğin ayda 3000 tl maaş alması
-  entry_id: 62249522
-  entry_content: |
-    
-    0 iş tecrübesi olan asistanına 3500 civarı verirken 2 yıllık yazılımcısına ağlaya zırlaya 2300 lira veren orospu çocuğunu hatırlatan durum. tabi bu asistanın dil bilmeyen,yol yordam bilmeyen,işten zerre anlamayan bir "at" olduğunu söylemem gerek sanırım.
-    
-  entry_writer: misgibitavukkokuyor
-- entry_name: |
-    selahattin demirtaş
-  entry_id: 62245656
-  entry_content: |
-    
-    hala ortadoğuda yaşadığının farkında olmayan, 20 gün önce parlamenter sistemi silah zoruyla değiştirilmek istenmiş bir ülkede siyasette, günlük hayatta şiddet bu kadar iliklerimize kadar işlemişken birileri tarafından şiddetle arasına mesafe koyamamakla itham edilen siyasetçi.  <br/><br/>siz kendi liderlerinize söyleyin onu. terörle aranıza mesafe koysaydınız darbe girişimi olmayacaktı. bak iki dakikada sen de terörist oldun. <br/><br/>dünyanın en içi boş kavramı olan terörörö dışında söyleyeceğiniz varsa, sabırla tartışabiliriz.
-   
-  entry_writer: culo inquieto
-- entry_name: |
-    sabahın yedisinde ter kokan insan modeli
-  entry_id: 62249674
-  entry_content: |
-    
-    "jıkızisindi kipik tiripisi yıpırkin pırtıkıl sıyı çkblck imknı yktırr :((""<br/><br/>türk halkının borderline kişilik bozukluğu ve fakir edebiyatı aşıklığı en alakasız yerlerde bile kendini gösterebiliyor. bu hesaba göre halkın %95'i her sabah arabesk film tadında olaylar yaşarken %5'i jakuzide renkli kokteyl yudumluyor, metrobüsteki <a class="b" href="/?q=e%c5%9fek+cenazesi+bekletme+yeri+kokusu">eşek cenazesi bekletme yeri kokusu</a>nun başka bi açıklaması olamaz. <br/><br/>bazı insanlar pistir, içinde yaşamak cefasına katlandığımız toplumun çoğunluğu pistir, sadece yazın bile haftada 1 yıkanan, giysilerini 2 haftada 1 yıkatan, ayda bir çorap değiştiren, diş fırçasıyla tanışıklığı olmayan chainsmoker dayılar değil, evindeki tuvaleti bal dök yala kıvamında temizleyip elti çatlatan kadınların çoğunluğu da olay kişisel hijyene gelince hiçbir şekilde özen göstermez. haftada 1 yıkandığı halde sırf düzenli abdest aldığı için kendini temiz zanneden ve duş almasına gerek olmadığı zanneden insanların ülkesi burası. <br/>pistirler ve bunun için çok bahaneleri vardır, mesela gidip 60 ay taksitle akıllı telefon alırlar ama su faturası fazla gelecek diye ödleri boklarına karışır. mutlu olmak, flört etmek, tatile gitmek gibi şeyler onlar için ne kadar "gavurluk, elitlik, acayiplik" ise her gün duş almak, diş fırçalamak, tuvaletten çıkarken el yıkamak da o kadar halka aykırı elit davranışlarıdır. <br/>"erzurumda ikamet ettiğim vakit düzenli olarak dişlerimi firçalıyor olmam nedeniyle halk arasında mason olduğum yönünde dedikodular çıkmıştı." diye meşhur bir tweet vardı, akıllının biri de kendi esprisiymiş gibi yazmış üstlerde<sup class="ab"><a title="(bkz: sözlüğün seviyesi de 500t'den yüksek değil)?il)" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bcn+seviyesi+de+500t%27den+y%c3%bcksek+de%c4%9fil" data-query="sözlüğün seviyesi de 500t'den yüksek değilğil">*</a></sup>, bence tüm bu leş kokuyu, otobüs camına bulaşan kafa yağlarını, ağzını açtığı anda etrafa ölü fare kokusu yayabilen süper kahramanları, yanınıza çöreklenip sizi camın dibine yapıştıran teyzeden gelen göğüs altı kokusunu, beş yıldır diş fırçası değmeyen ağzıyla içtiği adi sigarasını atıp otobüsün içine dalanları, fön çektirdiği için 3 gün duş almayanları, sabah 5 dakika ayırıp duş alanları elit ilan edenleri, temiz insanları hor görenleri, sözlükte çok acayip bir şeymiş gibi her gün duş alan insan diye başlık açılmasını tek cümleyle özetlemiş geçmiş. <br/>yanınıza herhangi bir yerde böyle biri oturursa, yaklaşırsa, aynı ortamda çalışmak mecburiyetindeyseniz eğer belli edin kokusundan rahatsız olduğunuzu, ben belli ederim, otobüste yanıma oturana da (bunlara özellikte rahatsız edici şekilde ederim hem de), aynı ortamda çalıştığıma da. kalp kırılması benim burnumun direğinin kırılmasından, migrenimden önemli değil. insan olmayı öğrenmeliler.
-   
-  entry_writer: isolde
-- entry_name: |
-    kızılay alışveriş merkezi
-  entry_id: 62259662
-  entry_content: |
-    
-    iddia ediyorum....<br/>koca ülkeyi gezin hatta dost ve kardeş ülkelere bile bakın. merdiven kavramının bu denli sikildiği başka bir yapı göremeyeceksiniz.<br/><br/>debedit:<br/>sanat tarihçilerini unutmayın. bu ülkenin eskiden sanatı vardı bunu anlatacak sanat tarihçileri vardı. artık sanat tarihi dersi yok. çocuklarınız mimar sinanı osman hamdi beyi bilmezlerse nihat doğanı seda sayanı sanatçı zannederler.
-   
-  entry_writer: deli efendi
-- entry_name: |
-    sıfır araba almanın mallık olması
-  entry_id: 62254181
-  entry_content: |
-    
-    türkiye'de sıfır araba almayan bir insan eğer kendisi arabayla yatıp kalkan bir tip değilse ciddi biçimde kazıklanır. kilometreyle oynamanın bile yakın zaman kadar yasadışı olmadığı bir ülkede yaşıyoruz. birinin önü, birinin arkası pert iki arabayı birleştirip boyasız diye satmaya kalkışıyorlar. bu tip adilikleri yapmanın ciddi kazançlar getirdiği bir sektör ikinci el araba sektörü. eğer bunlar son derece yoğun olarak yapılıyor olmasaydı 2. el araba sektörü bu kadar işlek olmazdı. çünkü bu çok standart bir ürün, her tür performans-teknik verisine hemen anında internetten ulaşılabiliyor. kazaları vs görünüşte hepsi tramer'de kayıtlı. kilometresi ve yıpranmışlığına da bakıldığı takdirde bütün arabalar % 5 aralıkla öngörülebilir fiyatlarda olurdu ve kar marjı da çok düşük olurdu, çünkü her arabadan her modelde her yıpranma düzeyinde sebil gibi var ve satılıyor internette. ve bu sektör bu kadar kalabalık olmazdı. peki öyle mi??<br/><br/>nitekim sıfır arabalarda fiyatta neredeyse hiç çeşitlilik yok. arabanın fiyatı satıcıdan satıcıya en fazla 1000 tl değişiyor. niye 2. el arabalarda öyle?<br/><br/>çünkü 2. el araba sektörü çok oyunculu, mafyalaşma düzeyinde yoğun ilginin olduğu ve fiyatların da geniş aralıkta değiştiği, ölücülerin, pertçilerin dolu olduğu bir sektör. demek ki kar marjları standart malların satıldığı bir sektöre göre çok yüksek ve değişken. demek ki gördüğümüz araba çoğu zaman "gördüğümüzü zannettiğimiz" araba değil. biz fabrikadan çıkan arabanın biraz eskimişini gördüğümüzü zannediyoruz. oysa içi başka bir araba, değişen parçaları sanılandan çok daha fazla. ya da vuruk, ya da bilgiler saklanmış.<br/><br/>o yüzden sırf fiyatına bakıp 2. el araba daha iyi demek türkiye'de çok tehlikeli. bu sektörde para, arabadan değil müşteriyi kandırıp ona arızaları bol, vuruk, çizik, motoru değişmiş, önemli aksamları değişmiş hatta pert arabayı sağlam araba gibi gösterip satmaktan kazanılıyor.
-   
-  entry_writer: earendill
-- entry_name: |
-    bankacılar sürümden kazanacak yüksek faizle olmaz
-  entry_id: 62252877
-  entry_content: |
-    
-    kardeşim bu adamlar hıyar satmıyor ki daha çok eksin, daha ucuza satıp sürümden kazansın..<br/><br/>ticari bankalar fon fazlası olan kişileri, fon ihtiyacı olan kişilerle buluşturur.<br/><br/>diyelim ki ahmet'in harcamaları için ihtiyaç duymadığı 100.000tl parası var. ahmet faiz geliri elde etmek için gider bu parasını misal %10 faiz oranı ile bankaya yatırır. osman'ın da 100.000 tl'ye ihtiyacı var osman da gider misal %18 ile 100.000 tl krediyi bankadan alır. aslında aldığı para ahmet'in parasıdır. banka sadece bu işe aracılık etmiştir %8 karşılığında.<br/><br/>şimdi reis diyor ki bankalar düşük faizle daha çok kredi pazarlasın. sürümden kazansın. teorik olarak yanlış mı? hayır, doğru. faizleri düşürürsen daha çok kredi talebi olur ve daha çok kredi pazarlayabilirsin.<br/><br/>ancak buradaki sıkıntılı nokta pazarladığı ürünü (bu ürün para oluyor) banka kendi üretmiyor ki daha fazla üretip sürümden kazansın. banka bu işe sadece aracılık ediyor. osman'a daha çok kredi vermek için ahmet'in bankaya daha çok para yatırması lazım.<br/><br/>1-ahmet'te daha fazla para var mı ki bankaya daha çok yatırsın?<br/>2-ahmet'in fazla para varsa bile %10 faiz için bankaya 100.000 tl yatıran adam, daha düşük faize geçildiğinde bırak 100.000'den fazla parayı, bu sefer hiç para da yatırmayabilir. gider altın alır, hisse senedi alır, yabancı ülke tahvili alır vb...<br/><br/>edit:çok mesaj gelmiş topluca burdan yanıt vereyim:<br/><br/>-kimisi bankaların %3-%5 civarı maliyetle yurt dışından getirdiği sendikasyon kredilerinden bahsetmiş. bunlara yüklensin böylece düşük faizli kredi açsın demiş.<br/>+sendikasyon kredilerini her zaman zaman alabileceğin garanti değil. ayrıca o krediler döviz üzerinden oluyor. mesela banka %4 maliyetle usd üzerinden borçlanacak ama sana %10 ile tl kredi mi açacak? dolar/tl yukarı hareketlendiğinde de bankanın helvasını yeriz artık. usd cinsinden sen de bankadan düşük faizli kredi alabilirsin. düşük faiz istiyorsan git usd cinsinden borçlan. "kur riskini banka taşısın ben de tl cinsinden ucuza borçlanayım" diye bir dünya yok.<br/><br/>-"bankalar zaten çok para kazanıyor. faiz spreadlerini düşürsünler az kazansalar ne olur?"<br/>+bankalar az para kazansalar olmaz çünkü zaten çok az kazanıyorlar. sadece toplam karın miktarına bakılarak bir işin çok karlı olduğu sonucuna nasıl varıyorsunuz anlamıyorum. bankalarımızın özsermaye karlılığı %12 seviyesinde. sanıyorum içinizde hiç biriniz 100.000 tl'ye büfe açıp yılda 12.000 tl kazanmaya razı olmazdı. neredeyse hepiniz "ya %12 için uğraşacağıma giderim 100.000 tl' yi faize koyarım yılda yattığım yerden 10.000 tl kazanırım derdiniz." bankalarımızın karlılığı yerlerde sürünüyor.<br/><br/>-"mevduat faizi yükselsin, kredi faizi düşsün mesela mevduata %13 versin krediyi %16'dan versin. böylece yeni kredi vermek için ekstra mevduat toplama işi hallolmuş olur sürümden de kazanacaklar."<br/>+öncelikle "ödünç verilebilir fonlar teorisini" herkesin okumasını tavsiye ediyorum. bu işin fon temininde de fon arzında da bir limiti var. entry'de yazdığım madde 1'i düşünün basitçe. bu sadece bankanın spreadini daraltıp, karlılığını yok etmekle sonuçlanır. ayrıca hadi bu dediğiniz de sizin hayalinizdeki gibi olsun. diyelim ki fon teminimiz ve arzımız arttı düşük spreadle eski karı yakaladık. bu durumda bir başka sorun daha var: bankalar vade uyumsuzluğu ile çalışır. topladıkları mevduatlar ortalama 2 ay içerisinde çıkarken, verdikleri kredilerin geri dönüşü 2 yıla yakındır. ayrıca kredi önden satılır, gerekli mevduat öyle toplanır. %16'dan krediyi verdiniz mevduatlara da %13 ödüyorsunuz. ekonomide işler kötüye gidip faiz oranları yukarı fırlarsa sizin kredilerin çoğunun faizi 2 yıl daha %16'da kalacak ama mevduatlara 2 ay içerisinde %16'dan fazla ödemezseniz fon temin edemeyecek hale düşebilirsiniz. mevduat toplamak için de direkt zararına çalışmaya başlarsınız. ve tmsf helvanızı dağıtır.
-   
-  entry_writer: cinnah
-- entry_name: |
-    fenerbahçe'nin vitor pereira'ya mobbing uygulaması
-  entry_id: 62248516
-  entry_content: |
-    
-    ucuz, iğrenç, buram buram türkiye kokan hamleler silsilesi..<br/><br/>ortada karşılıklı rızayla imzalanmış resmi bir sözleşme var. ve de gelmeden önce kayda değer bir başarısı olmayan, tam bir kapalı kutu konumunda bulunan bu adamın sözleşmesine söz konusu astronomik tazminat bedeli gökten zembille inmedi. madem frekanslar tutmadı, kan uyuşmuyor, ayrılık kaçınılmaz hale gelmiş o halde şark kurnazlığına kaçmayıp en başta vaat ettiğin tazminatı çatır çatır ödeyeceksin.<br/><br/>pereira'nın tazminat bedelini almadan çekip gitmesi bir erdem bir nezakettir lakin hakkı olanı talep etmesi orospu çocukluğu yada kalitesizlik göstergesi değildir.
-   
-  entry_writer: mordor tinercisi
-- entry_name: |
-    bir çift güzel kadın göğsünü vatana tercih ederim
-  entry_id: 62246011
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=memeler+6+oldu">memeler 6 oldu</a>)
-   
-  entry_writer: massayidonatello
-- entry_name: |
-    michael phelps
-  entry_id: 62246041
-  entry_content: |
-    
-    yüzme hakkında atıp tutanları beğenemediği sporcu.  <br/>50 - 100 aynıymış.<br/>bir siktirin gidin eleştirmeden önce öğrenin: 50 ve 100 metreleri kazanabilen sporcu sayısı çok azdır; aynı şekilde 100 ve 200'ü kazanan sporcu sayısı da çok azdır. bunun sebebi de bu yarışların tamamen birbirinden ayrı zorlukları olmasıdır.<br/><br/>phelps gibi efsane yüzücüler dışında bunu yapabileni pek göremezsiniz. mesela 100 kelebek dünya rekortmeni <a class="b" href="/?q=sarah+sj%c3%b6str%c3%b6m">sarah sjöström</a> 200 kelebeği hiç denemez. veya 100 kurbağa dünya rekortmeni <a class="b" href="/?q=adam+peaty">adam peaty</a> avrupa şampiyonasında 200 metrede finale bile çıkamamıştır.<br/><br/>bokunu çıkarmadan beğenmezsek iyi olur.
-   
-  entry_writer: ghulam
-- entry_name: |
-    salih uçan
-  entry_id: 62252486
-  entry_content: |
-    
-    fenerbahçe başkanı olması gereken genç yetenek.  <br/><br/>takımın beyni pozisyonunda oynadığı için başkan-oyuncu da olabilir. <br/><br/>fenerbahçe'nin <a class="b" href="/?q=beckenbauer">beckenbauer</a> yetiştirme vakti gelmiştir.
-   
-  entry_writer: erotic lounge
-- entry_name: |
-    mustafa kemal atatürk vs recep tayyip erdoğan
-  entry_id: 62247745
-  entry_content: |
-    
-    metodları nasıl benziyormuş onu da anlatsaydınız, 15 sene ikisinin de yönetimi altında yaşadı bu millet..<br/><br/>sizin bu ortamlarda yapacağınız goygoy yüzünden ulus devlet olsun mu kabile devleti mi olsun tartışmasına geldik, cemaate eleştiriye jakoben yaftası yedi insanlar. <br/><br/>hala da üstü kapalı bok atarak ne olduğunuzu sakladığınızı filan sanıyorsunuz.<br/><br/>açıktan atatürk eleştirisi yazın biz de öğrenelim, senelerdir apoculardan, cemaatçilerden siyasal islamcılardan ne öğrenememişiz. <br/><br/>belki bizim de ufkumuz açılır. neyse, kemal atatürk bir zamanlar da kenan evren'le karşılaştırılıyordu. cahil cahillikle yaşamaktan zevk alır.<br/><br/>osmanlıcılık yapanla, biz bölgemizde komşularımızla iyi ilişkiler kuracağız diyen insan nasıl karşılaştırılabiliyor. bunu anlamak zor.
-   
-  entry_writer: hgzr
-- entry_name: |
-    kadınların bazen şaşırılacak derecede cesur olması
-  entry_id: 62249964
-  entry_content: |
-    
-    kadınlar, kırılganlıklarıyla daha barışık oldukları için genellikle erkeklerden daha cesurdur. boşverin siz böceği, fareyi...<br/><br/>kim daha korkak? böcekten korkan mı, yoksa kalbini açmaktan korkan mı?
-   
-  entry_writer: femme noir
-- entry_name: |
-    dünyanın en sinirli kedisi
-  entry_id: 62253907
-  entry_content: |
-    
-    bir sebepten ötürü kameradan (ya da adamın kameranın yanında tuttuğu bir şeyden) çok korkan, köşeye sinen ve kendini savunma refleksi sergileyen kedidir.  <br/><br/>video aynı zamanda ısrarla kedisini korkutmaya ve köşeye sıkıştırmaya devam edip, bunu videoya çekip, internete yükleyen bir adet kedi bak(amay)ıcısı içerir.
-   
-  entry_writer: eksi was here
-- entry_name: |
-    küfreden kadın
-  entry_id: 62245028
-  entry_content: |
-    
-    kadın, "sik beni" dediği anda ninni gibi gelen küfürler, "hasssiktiiir" dediği anda, yani erkeğe bir hayrı dokunmadığında, "bir bıyının ığzını hiç yıkışmıyı""<br/><br/>küfür erkeğin tekeline almak istediği bir cumhuriyet. vay amına koyiiim derken seksistliğin dibine vurma qeyfi, bi ona kalsın istiyor. çünkü çıkarıp çap çap masaya vuracak benim aslanım. errrkek çünkü o. ben daha kadın değil, "bayan"ım. kısmetse büyüyünce kadın olucam.<br/><br/>kadına sigara yakışmıyor, küfür yakışmıyor, sokakta rahat hareketler yakışmıyor. ne yakışıyor peki?<br/><br/>bakalım nelerde ses çıkmıyormuş...<br/><br/>tacize uğramak çok yakışıyor.<br/>tecavüz edilip öldürülmek çok yakışıyor.<br/>dövülmek çok yakışıyor.<br/>hakarete uğramak çok yakışıyor.<br/>zorla evlendirilmek çok yakışıyor.<br/><br/>hassssiktiriniz ordan.
-   
-  entry_writer: demesi kolay tabii
-- entry_name: |
-    premier league 2016-2017 sezonu
-  entry_id: 62247070
-  entry_content: |
-    
-    dünyanın en iyi menajerleri arasında geçecektir..<br/><br/>(bkz: <a class="b" href="/?q=pep+guardiola">pep guardiola</a>) <br/>(bkz: <a class="b" href="/?q=antonio+conte">antonio conte</a>) <br/>(bkz: <a class="b" href="/?q=jose+mourinho">jose mourinho</a>)<br/>(bkz: <a class="b" href="/?q=arsene+wenger">arsene wenger</a>)<br/>(bkz: <a class="b" href="/?q=claudio+ranieri">claudio ranieri</a>)<br/>(bkz: <a class="b" href="/?q=j%c3%bcrgen+klopp">jürgen klopp</a>)<br/>(bkz: <a class="b" href="/?q=slaven+bilic">slaven bilic</a>)<br/><br/><a class="b" href="/?q=top+class">top class</a> olan ve <a class="b" href="/?q=premier+league">premier league</a>'de olmayan 3 menajer kaldı;<br/><br/>(bkz: <a class="b" href="/?q=carlo+ancelotti">carlo ancelotti</a>)<br/>(bkz: <a class="b" href="/?q=diego+simeone">diego simeone</a>)<br/>(bkz: <a class="b" href="/?q=%c3%bcmit+%c3%b6zat">ümit özat</a>)
-   
-  entry_writer: kimse bana tavuk diyemez
+  entry_writer: utanan ayi
 ---
