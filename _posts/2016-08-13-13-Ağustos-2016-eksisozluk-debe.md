@@ -7,7 +7,7 @@ data:
   entry_id: 62290323
   entry_content: |
     
-    10 ağustos gecesi izmir konak mustafa kemal sahil bulvarında kardeşimi ve teyzemi kaybettiğim trafik kazasıdır.  <br/>tramway çalışmaları nedeniyle aydınlatmaları çalışmayan sahil yolunda ışıklardan karşıdan karşıya geçen kardeşim ecem haliloğlu ve teyzem lütfiye yurdaer'e kaldırıma bir adım kala annem ve diğer teyzemin gözleri önünde nereden geldiği anlaşılmayacak hızda gelen 06 dm 4333 plakalı beyaz bir bmw çarpmıştır. saniyeler içinde kapıyı açıp arabayı da bırakıp kaçan sürücü henüz bulunamamıştır. bir motosiklet sürücüsünün kask kamerası ile tesadüfen çektiği ve youtube'a koyduğu olay sonrası videoya erişebildik. o saatte oralarda olan, balkonundan olyı gören tüm görgü tanıklarının bizimle iletişime geçmesini diliyoruz. 10 gün sonra düğününü yapacağımız kardeşimi ve teyzemizi telli duvaklı uğurladık. acımız çok büyük. katilin bulunmasında etkili olabilecek tüm bilgileri hukukla paylaşmamız adına bize bildirmeniz ve katilin asla teselli olamayacak olsak da cezasını çekmesi dileklerimizle... allah tüm ailemize, tüm sevenlerimize sabırlar versin. güzelciklerimi benden alan katile beddualarım hiç durmayacak...<br/><br/>edit: kask kamerasındaki video: <br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=6mOUHagIeOQ" title="https://m.youtube.com/watch?v=6mOUHagIeOQ">https://m.youtube.com/watch?v=6mouhagieoq</a><br/><br/>edit:<br/>tüm dilekler için teşekkürler, sağolun, allah razı olsun.<br/><br/>ruhsat sahibinin kimliği belirlendi ancak firari, sürücü o mu bilmiyoruz... <br/><br/>esas umudumuz o saatlerde bu plakalı arabayı kullanan sürücüyü gören, o civarda elinde kamera kaydı olan, tarif edebilecek birilerine ulaşabilmek.<br/><br/>iletişim için: hatarici@gmail.com
+    10 ağustos gecesi izmir konak mustafa kemal sahil bulvarında kardeşimi ve teyzemi kaybettiğim trafik kazasıdır.  <br/>tramway çalışmaları nedeniyle aydınlatmaları çalışmayan sahil yolunda ışıklardan karşıdan karşıya geçen kardeşim ecem haliloğlu ve teyzem lütfiye yurdaer'e kaldırıma bir adım kala annem ve diğer teyzemin gözleri önünde nereden geldiği anlaşılmayacak hızda gelen 06 dm 4333 plakalı beyaz bir bmw çarpmıştır. saniyeler içinde kapıyı açıp arabayı da bırakıp kaçan sürücü henüz bulunamamıştır. bir motosiklet sürücüsünün kask kamerası ile tesadüfen çektiği ve youtube'a koyduğu olay sonrası videoya erişebildik. o saatte oralarda olan, balkonundan olyı gören tüm görgü tanıklarının bizimle iletişime geçmesini diliyoruz. 10 gün sonra düğününü yapacağımız kardeşimi ve teyzemizi telli duvaklı uğurladık. acımız çok büyük. katilin bulunmasında etkili olabilecek tüm bilgileri hukukla paylaşmamız adına bize bildirmeniz ve katilin asla teselli olamayacak olsak da cezasını çekmesi dileklerimizle... allah tüm ailemize, tüm sevenlerimize sabırlar versin. güzelciklerimi benden alan katile beddualarım hiç durmayacak...<br/><br/>edit: kask kamerasındaki video: <br/><a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=6mOUHagIeOQ" title="https://m.youtube.com/watch?v=6mOUHagIeOQ">https://m.youtube.com/watch?v=6mouhagieoq</a><br/><br/>edit:<br/>tüm dilekler için teşekkürler, sağolun, allah razı olsun.<br/><br/>ruhsat sahibinin kimliği belirlendi ancak firari, sürücü o mu bilmiyoruz... <br/><br/>esas umudumuz o saatlerde bu plakalı arabayı kullanan sürücüyü gören, o civarda elinde kamera kaydı olan, tarif edebilecek birilerine ulaşabilmek.<br/><br/>3.gün güncellemesi: kaçak katil sürücü nevzat demir olduğu düşünülen ve resmi bilgi olarak iletilen kişi aranıyor. <br/><br/>bulanların bilenlerin görenlerin polisle iletişime geçmesini rica ediyoruz.<br/><br/>ben anneme teslim etmek üzere bana getirilmesini hayal ediyorum... ancak ülkede hukuk var... <br/><br/>fotoğraf yükleyemedim telefondan. <br/><a rel="nofollow" class="url" target="_blank" href="https://www.facebook.com/hatarici/posts/10154416950384467" title="https://www.facebook.com/hatarici/posts/10154416950384467">https://www.facebook.com/…i/posts/10154416950384467</a><br/><br/>iletişim için: hatarici@gmail.com
    
   entry_writer: pufu
 - entry_name: |
@@ -283,19 +283,11 @@ data:
    
   entry_writer: morina
 - entry_name: |
-    japonya'daki kürt mülteciler
-  entry_id: 62287741
-  entry_content: |
-    
-    tecavüz belli ırklara atfedilir bebeğim. öyle bir atfedilir ki aklın şaşar. adı da ırkçılık değil  <a class="b" href="/?q=istatistik">istatistik</a>tir. hiç duydun mu bilmem? araplar iskandinavlardan daha fazla tecavüz suçuna karışır. sana desem ki iskandinav ev arkadaşı mı istersin arap ev arkadaşı mı? gözün kapalı iskandinavi seçersin. çünkü istatistik biliyorsun. o yüzden çeneni kapa ve otur.
-   
-  entry_writer: enkaz devraldik
-- entry_name: |
     beşiktaş
   entry_id: 62288181
   entry_content: |
     
-    "beşiktaş için bir şeyler yapmak istiyorsanız, kimsenin adamı olmayın." -  <a class="b" href="/?q=s%c3%bcleyman+seba">süleyman seba</a><br/><br/>bu sözlerin anlamı bugünlerde daha çok ortaya çıkmıştır.<br/><br/>taraftarından başka kimseye ait olmayan kulüp.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: karadeniz'in yeşilini mavisinden beton duvarlar ayırmaması için bakınız:<br/>(bkz: <a class="b" href="/?q=giresun%27un+ortas%c4%b1na+dikilen+dev+ucube">giresun'un ortasına dikilen dev ucube</a>)
+    "beşiktaş için bir şeyler yapmak istiyorsanız, kimsenin adamı olmayın." -  <a class="b" href="/?q=s%c3%bcleyman+seba">süleyman seba</a><br/><br/>bu sözlerin anlamı bugünlerde daha çok ortaya çıkmıştır.<br/><br/>taraftarından başka kimseye ait olmayan kulüp.<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: hakemler de bunları neden yaptığına dair cevap ve-re-cek:<br/>(bkz: <a class="b" href="/entry/62264148">#62264148</a>)<br/>ps: karadeniz'in yeşili mavisinden beton duvarlarla ayrılmaması için bakınız:<br/>(bkz: <a class="b" href="/?q=giresun%27un+ortas%c4%b1na+dikilen+dev+ucube">giresun'un ortasına dikilen dev ucube</a>)
    
   entry_writer: nuhun gemisinde asure tarifi alan hayvan
 - entry_name: |
@@ -319,8 +311,8 @@ data:
   entry_id: 62298087
   entry_content: |
     
-    öyle yalnız görünüyorum ki, annem bile başka arkadaşlarımı kast ederek ''millet internette tanışıyor birileriyle, sen de yaz tanış, ne nasipsizsin'' demeye başladı.
-    
+    öyle yalnız görünüyorum ki, annem bile başka arkadaşlarımı kast ederek ''millet internette tanışıyor birileriyle, sen de yaz tanış, ne nasipsizsin'' demeye başladı..<br/><br/>debe editi: o kadar yalnızım ki, debe'ye bile bu başlığa yazdığım entry ile girdim :)
+   
   entry_writer: butundunyaaskolsun
 - entry_name: |
     yaran diyaloglar
