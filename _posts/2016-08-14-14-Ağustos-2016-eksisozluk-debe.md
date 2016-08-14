@@ -7,7 +7,7 @@ data:
   entry_id: 62305805
   entry_content: |
     
-    yanlış önerme..<br/><br/>doğrusu , 18 yaşına aklı başında bir şekilde giren bireyler yetiştiren bir topluma evrilmek
+    yanlış önerme..<br/><br/>doğrusu , 18 yaşına aklı başında bir şekilde giren bireyler yetiştiren bir topluma evrilmek<br/><br/>debe editi : ulan sabahtan beri bekliyorum bi tane sosyal sorumluluk mesajı atsalarda editlesem diye bir kişinin bile mi kan ihtiyacı, iliği kemiği yok lan. bende aşağıdaki linkte gördüğünüz arkadaşımın fabrikasının ilanına sosyal sorumluluk açısından yaklaşıyorum. <br/>satılıktır. yatırımcılar düşünebilir. kira geliri 20.000 lira kadarmış. artı eksi 5000 tl oynarmış.<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://www.sahibinden.com/ilan/emlak-isyeri-satilik-istanbul-silivri-de-satilik-fabrika-idari-binasi-284495615/detay/" title="https://www.sahibinden.com/ilan/emlak-isyeri-satilik-istanbul-silivri-de-satilik-fabrika-idari-binasi-284495615/detay/">https://www.sahibinden.com/…binasi-284495615/detay/</a>
    
   entry_writer: exodussian
 - entry_name: |
@@ -55,8 +55,8 @@ data:
   entry_id: 62319931
   entry_content: |
     
-    sonra besiktasa niye penalti calmiyorlar...
-    
+    sonra besiktasa niye penalti calmiyorlar....<br/><br/>debe edit: dünkü maçta erman toroğlu ofsayt olup olmadığı anlaşılmayan bir pozisyon için 5 dakika laf yapınca baya ayar olmuştum. hatalı kararların futbolumuza etkilerine dair bir iki kelam etmek istedim. okumak isteyenler için (bkz: <a class="b" href="/entry/62325439">#62325439</a>)
+   
   entry_writer: el padre
 - entry_name: |
     çomarlara yasaklanması gereken şeyler
@@ -119,7 +119,7 @@ data:
   entry_id: 62321942
   entry_content: |
     
-    istanbuldayım, evde benden başka insan yok ve entrylerinizi okudukça tırsıyorum..<br/>kedimle köpeğim ayrı odalarda uyuyakalmışlar, köpeği alıp kedinin yanına taşındım, o hayatta gelmez çünkü, köpek daha halden anlayan bi arkadas.<br/>bişey olursa birarada olalım bi de onları aramayayım diye böyle bi mallık yaptım.<br/>anlatabiliyor muyum?<br/>yapmayın artık.<br/>ciddiyim.<br/><br/>tesekkur editi: ya ne guzel insanlarsınız, mesaj yağdı. ağlattınız beni..<br/>yalnız değilim tamam.<br/>tamam bişey de olmayacak.<br/>binlerce tesekkur.
+    istanbuldayım, evde benden başka insan yok ve entrylerinizi okudukça tırsıyorum..<br/>kedimle köpeğim ayrı odalarda uyuyakalmışlar, köpeği alıp kedinin yanına taşındım, o hayatta gelmez çünkü, köpek daha halden anlayan bi arkadas.<br/>bişey olursa birarada olalım bi de onları aramayayım diye böyle bi mallık yaptım.<br/>anlatabiliyor muyum?<br/>yapmayın artık.<br/>ciddiyim.<br/><br/>debe ve tesekkur editi: <br/>mesaj yağdı.. evine çağıran, nerdeysen gelip alalım diyen, esprileriyle kahkaha attıran, mantıklı açıklamalarıyla olayın saçmalığını anlatan, saçmalama korkacak ne var diye azarlayan, ağlatan, güldüren, sakinleştiren ve mantıklı düşünmemi sağlayan sevgili yazarlar, arkadaslarım.. <br/>tamam sakinim :)<br/>hiç bişey de olmayacak, evet.<br/>tüm kalbimle binlerce onbirlerce tesekkur.
    
   entry_writer: aliyoni
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 62305248
   entry_content: |
     
-    hem milletvekilliği zamanında trt yorumculuğu yaptırılıp baya bir devlet parası yemiş eski futbolcudur..<br/><br/>- chp bu olaya itiraz etmiş, önerge vermiştir.<br/>- akp oyları ile önerge rededilmiş. üstüne yavşak yavşak savunulmuştur.<br/>- o paranın ne kadarı gitmiştir örgüte sen düşün.<br/>- yatacak yeriniz yok a.q.
+    milletvekilliği zamanında trt yorumculuğu yaptırılıp baya bir devlet parası yemiş eski futbolcudur..<br/>- chp bu olaya itiraz etmiş, önerge vermiştir.<br/>- akp oyları ile önerge rededilmiş. üstüne aymaz bir şekilde savunulmuştur.<br/>- o paranın ne kadarı gitmiştir örgüte sen düşün.<br/>- yatacak yeriniz yok .<br/><br/>edit: hukuki düzenleme
    
   entry_writer: the iii bob conqurer
 - entry_name: |
@@ -159,17 +159,9 @@ data:
   entry_id: 62310378
   entry_content: |
     
-     <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'tan yola çıkan ve beşiktaşlıları taşıyan her otobüs yol boyunca 750 kere aranır. birebir şahit olmuşluğum vardır. meşaleler bile toplanır. ama diğer takım taraftarlarına nedense bu yaptırım olmuyor görüyoruz.<br/><br/>o taraftarlar otobüsten döner bıçaklarıyla inip taş atanlara saldırsaydı ertesi gün haberlerde herkesin beşiktaş'a saldırdığını, beşiktaşlıların it kopuk boş beleş adamlar olduğunu görürdünüz. ve tüm deplasmanlarımız bir seneliğine kitlenirdi. işte biz buna çifte standart diyoruz.
+     <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'tan yola çıkan ve beşiktaşlıları taşıyan her otobüs yol boyunca 750 kere aranır. birebir şahit olmuşluğum vardır. meşaleler bile toplanır. ama diğer takım taraftarlarına nedense bu yaptırım olmuyor görüyoruz.<br/><br/>o taraftarlar otobüsten döner bıçaklarıyla inip taş atanlara saldırsaydı ertesi gün haberlerde; beşiktaş taraftarının masum insanlara saldırdığını, beşiktaşlıların it kopuk boş beleş adamlar olduğunu okurdunuz. ve tüm deplasmanlarımız bir seneliğine kitlenirdi. işte biz buna <a class="b" href="/?q=%c3%a7ifte+standart">çifte standart</a> diyoruz.<br/><br/>debedit: dün maçta da herkes gördü. neredeyse tüm <a class="b" href="/?q=galatasaray">galatasaray</a>lılar meşaleyle girmiş stada. bizde tek bir tane yanmadı. bulamadığımızdan değil, terörist muamelesi şeklinde aranmamızdan. çünkü potansiyel darbeci, tinerci, vandal biziz. bizim 10 kuruşlarımızı bile alırlar; millet 40 cm'lik meşaleyle girer. nereden bakarsan çifte standart.
    
   entry_writer: kasar yaza
-- entry_name: |
-    menzil cemaati
-  entry_id: 62305314
-  entry_content: |
-    
-    yurdum insanı o kadar embesil ki evden camiye gidip namazını kılıp dua edip gelemiyor. illa bir şeyhe kendini ve ülkeyi sevdirecek.
-    
-  entry_writer: collectter
 - entry_name: |
     sıla gençoğlu
   entry_id: 62305484
@@ -207,7 +199,7 @@ data:
   entry_id: 62312605
   entry_content: |
     
-    kısalsın kısalabildiği kadar, şöyle 20 dakika falan olsun. evrakları dolduralım, altına da imza atalım ben askerlik yapmak istemiyorum diye, olsun bitsin.  <br/><br/>o kadar aşırı milliyetçi, vatan uğruna ölmeye hazır, bu yola kefeniyle çıkan gençler yok mu? işte polislerinize verdiğiniz kadar onlara maaş verin kurun profesyonel ordunuzu ne bok yiyorsanız yeyin.<br/><br/>ben sizin piyonunuz olarak doğuda tanımadığım birisi tarafından öldürülme riskine girmek zorunda mıyım kardeşim? <br/><br/>ne veriyor bu ülke bana? neden borçlu hissedeyim ben bu ülkeye? <br/><br/>can güvenliğimi sağlayamıyor, sağlık hizmeti veremiyor, eğitim hizmeti veremiyor, şehirleri bok götürüyor temizlik hizmeti bile veremiyor ve üstüne üslük her boktan dünyanın en yüksek vergilerini alıyor. <br/><br/>borçlu muyuz biz? ya bi siktirin gidin.
+    kısalsın kısalabildiği kadar, şöyle 20 dakika falan olsun. evrakları dolduralım, altına da imza atalım ben askerlik yapmak istemiyorum diye, olsun bitsin.  <br/><br/>o kadar aşırı milliyetçi, vatan uğruna ölmeye hazır, bu yola kefeniyle çıkan gençler yok mu? işte polislerinize verdiğiniz kadar onlara maaş verin kurun profesyonel ordunuzu ne bok yiyorsanız yeyin.<br/><br/>ben sizin piyonunuz olarak doğuda tanımadığım birisi tarafından öldürülme riskine girmek zorunda mıyım kardeşim? <br/><br/>ne veriyor bu ülke bana? neden borçlu hissedeyim ben bu ülkeye? <br/><br/>can güvenliğimi sağlayamıyor, sağlık hizmeti veremiyor, eğitim hizmeti veremiyor, şehirleri bok götürüyor temizlik hizmeti bile veremiyor ve üstüne üslük her boktan dünyanın en yüksek vergilerini alıyor. <br/><br/>borçlu muyuz biz? ya bi çektirin gidin**.<br/><br/>ekşi destek edit: çektirin gidin** ifadesinin eski hali hukuka aykırılık barındırıyormuş düzeltmem ya da kaldırmam istendi. <br/><br/>debe edit: <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>.
    
   entry_writer: makine muhendisi
 - entry_name: |
@@ -263,7 +255,7 @@ data:
   entry_id: 62309861
   entry_content: |
     
-    esad'a destek için olacaktır diyelim.  <br/><br/>burada oyunu bozulan da zaten biz oluyoruz diye düşünüyorum.
+    esad'a destek için olacaktır diyelim.  <br/><br/>burada oyunu bozulan da zaten biz oluyoruz diye düşünüyorum.<br/><br/>debe editi: ciguli ölmedi. kalbimizde yaşıyor.
    
   entry_writer: annl
 - entry_name: |
@@ -367,7 +359,7 @@ data:
   entry_id: 62310070
   entry_content: |
     
-    hayatında hiç lol maçı izlememiş olabilirsin, oyunu da oynamamış olabilirsin, hatta konuya dair hiçbir fikrin olmayabilir. ama gelip buraya "ne diyo bunlar" "dark passage ne amk" falan yazmak ağır mallıktır. "beyni yok fikri var." lafı duruma çok uygundur. zira okumayı bilen herkes ilk entrynin bir kısmını okuyarak bile ne olduğunu anlayabilir. lütfen siktirip gidin. lütfen.  <br/><br/>onun dışında; lol oynamam, karakterleri bilmem ama lig tv'de denk geldi ve sıkı bir dota 2 oyuncusu olarak içimden izlemek geldi. açılış süperdi. umarım türkiye'de e-spor adına bu tip etkinlikler artar. tabi önce şu demin bahsettiğim tiplerin azalarak yok olması lazım.<br/><br/>edit: ayrıca birkaç sene evvel <a class="b" href="/?q=mehmet+demirkol">mehmet demirkol</a> konuyla ilgili "satrancın spor olduğu yerde her şey spor olabilir." demişti. yanlış anlaşılmasın, santrancı çok severim ve sık sık oynarım. ancak <a class="b" href="/?q=dota+2">dota 2</a>'nin "dünya kupası" olarak kabul edilen ve onun başlığı olan <a class="b" href="/?q=the+international+2016">the international 2016</a>'da da mal mal yorumlar yapılan turnuvada verilecek olan para 20 milyon doları geçti. bi araştırın bakalım <a class="b" href="/?q=uefa+avrupa+ligi+%c5%9fampiyonu">uefa avrupa ligi şampiyonu</a> ne kadar kazanıyor. <br/><br/>"spor" günümüzde çok farklı bir tanıma sahip artık. oyun oynayan 5 tane çocuk senin hayatın boyunca çalışıp kazanamayacağın parayı kazanıyor. <br/><br/>son olarak kapanmadan önce <a class="b" href="/?q=radikal">radikal</a> gazetesi <a rel="nofollow" class="url" target="_blank" href="http://www.radikal.com.tr/teknoloji/e-spor-secmeli-ders-oluyor-1498309/" title="http://www.radikal.com.tr/teknoloji/e-spor-secmeli-ders-oluyor-1498309/">şöyle bir haber</a> yapmıştı. <br/><br/>gündemi takip edin gençler. hiç duymadığınız şeylere tu kaka diyerek onları küçümsemeyin.
+    hayatında hiç lol maçı izlememiş olabilirsin, oyunu da oynamamış olabilirsin, hatta konuya dair hiçbir fikrin olmayabilir. ama gelip buraya "ne diyo bunlar" "dark passage ne amk" falan yazmak ağır mallıktır. "beyni yok fikri var." lafı duruma çok uygundur. zira okumayı bilen herkes ilk entrynin bir kısmını okuyarak bile ne olduğunu anlayabilir. lütfen siktirip gidin. lütfen.  <br/><br/>onun dışında; lol oynamam, karakterleri bilmem ama lig tv'de denk geldi ve sıkı bir dota 2 oyuncusu olarak içimden izlemek geldi. açılış süperdi. umarım türkiye'de e-spor adına bu tip etkinlikler artar. tabi önce şu demin bahsettiğim tiplerin azalarak yok olması lazım.<br/><br/>edit: ayrıca birkaç sene evvel <a class="b" href="/?q=mehmet+demirkol">mehmet demirkol</a> konuyla ilgili "satrancın spor olduğu yerde her şey spor olabilir." demişti. yanlış anlaşılmasın, santrancı çok severim ve sık sık oynarım. ancak <a class="b" href="/?q=dota+2">dota 2</a>'nin "dünya kupası" olarak kabul edilen ve onun başlığı olan <a class="b" href="/?q=the+international+2016">the international 2016</a>'da da mal mal yorumlar yapılan turnuvada verilecek olan para 20 milyon doları geçti. bi araştırın bakalım <a class="b" href="/?q=uefa+avrupa+ligi+%c5%9fampiyonu">uefa avrupa ligi şampiyonu</a> ne kadar kazanıyor. <br/><br/>"spor" günümüzde çok farklı bir tanıma sahip artık. oyun oynayan 5 tane çocuk senin hayatın boyunca çalışıp kazanamayacağın parayı kazanıyor. <br/><br/>son olarak kapanmadan önce <a class="b" href="/?q=radikal">radikal</a> gazetesi <a rel="nofollow" class="url" target="_blank" href="http://www.radikal.com.tr/teknoloji/e-spor-secmeli-ders-oluyor-1498309/" title="http://www.radikal.com.tr/teknoloji/e-spor-secmeli-ders-oluyor-1498309/">şöyle bir haber</a> yapmıştı. <br/><br/>gündemi takip edin gençler. hiç duymadığınız şeylere tu kaka diyerek onları küçümsemeyin.<br/><br/>debe: teşekkürler nerd kardeşlerim.<br/><br/>(bkz: <a class="b" href="/?q=talk+nerdy+to+me">talk nerdy to me</a>)
    
   entry_writer: karabiber ve ejderha
 - entry_name: |
