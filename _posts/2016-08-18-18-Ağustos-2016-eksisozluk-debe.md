@@ -28,19 +28,11 @@ data:
    
   entry_writer: cevirimanyagi
 - entry_name: |
-    swanswan adlı yazarın attığı taciz iftirası
-  entry_id: 62393614
-  entry_content: |
-    
-    olayin icini bilmemde okudugum entrylerinden herkess bni skmek istioo pff modunda bir kezban izlenimi aldim
-    
-  entry_writer: vashta
-- entry_name: |
     ilber ortaylı
   entry_id: 62399055
   entry_content: |
     
-    hocaya belki bilmiyordur diye bir anektod anlatmaya çalışıyorlar, hoca anlatılan anektoddaki yanlışları düzeltiyor. işte öyle bir şey.
+    hocaya belki bilmiyordur diye bir anekdot anlatmaya çalışıyorlar, hoca anlatılan anekdottaki yanlışları düzeltiyor. işte öyle bir şey.
     
   entry_writer: ne diyosun anlamiyorum
 - entry_name: |
@@ -168,7 +160,7 @@ data:
   entry_id: 62401409
   entry_content: |
     
-    özel harekat polisi abime ulaşamıyoruz..<br/>bölgede yaşayan var mı arkadaşlar, turkcell çekiyor mu allah aşkına birşeyler söyleyin.
+    özel harekat polisi abime ulaşamıyoruz..<br/>bölgede yaşayan var mı arkadaşlar, turkcell çekiyor mu allah aşkına birşeyler söyleyin.<br/><br/>ekleme: mesaj atan herkese tek tek teşekkür ederim. o saatte sağ salim uyuyormuş.<br/>tabi bu durum ancak korku ve endişemizi bir nebze olsun dindirir. ölenlere rahmet, yaralılara acil şifalar dilerim.<br/>destek veren herkese selam ve saygılar, büyüksün sourtimes ailesi.
    
   entry_writer: i love sleeping
 - entry_name: |
@@ -272,7 +264,7 @@ data:
   entry_id: 62389236
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=michael+phelps%27i+denizde+tokatlar%c4%b1m">michael phelps'i denizde tokatlarım</a>)<br/><br/>(bkz: <a class="b" href="/?q=iyi+denemeydi+montaigne">iyi denemeydi montaigne</a>)
+    (bkz:  <a class="b" href="/?q=michael+phelps%27i+denizde+tokatlar%c4%b1m">michael phelps'i denizde tokatlarım</a>)<br/><br/>(bkz: <a class="b" href="/?q=iyi+denemeydi+montaigne">iyi denemeydi montaigne</a>)<br/><br/>(bkz: <a class="b" href="/entry/57143573">ekşi sözlük is agi/#57143573</a>)
    
   entry_writer: erkek pisi
 - entry_name: |
