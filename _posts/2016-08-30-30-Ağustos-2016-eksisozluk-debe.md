@@ -63,7 +63,7 @@ data:
   entry_id: 62635538
   entry_content: |
     
-    nedenini anlamadığım bir şekilde giderek popülerleşen tutum. bir yanda cumhuriyet gibi harika bir yönetim şekli öbür yanda osmanlı hanedanlığının kölesi olmak.  <br/><br/>osmanlıcılık rüyasının peşinde koşanların hiçbiri osmanlı soyundan da gelmiyor halbuki. dedeleri osmanlı'nın kölesiydi. koyun olmak bir şey galiba. kendi başına birey olamamış insan kendini bir yere ait hissetmeye bayılıyor. eminim ki psikolojide bunun bir karşılığı vardır.<br/><br/>edit: seri bir şekilde eksileniyorum. ottoman boylar rahatsız olmuş galiba. yaşasın cumhuriyet yere batsın osmanlı.
+    nedenini anlamadığım bir şekilde giderek popülerleşen tutum. bir yanda cumhuriyet gibi harika bir yönetim şekli öbür yanda osmanlı hanedanlığının kölesi olmak.  <br/><br/>osmanlıcılık rüyasının peşinde koşanların hiçbiri osmanlı soyundan da gelmiyor halbuki. dedeleri osmanlı'nın kölesiydi. koyun olmak bir şey galiba. kendi başına birey olamamış insan kendini bir yere ait hissetmeye bayılıyor. eminim ki psikolojide bunun bir karşılığı vardır.<br/><br/>edit: seri bir şekilde eksileniyorum. ottoman boylar rahatsız olmuş galiba. yaşasın cumhuriyet yere batsın osmanlı.<br/><br/>asıl olan cumhuriyettir. insanlar değil. <br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+mektupla%c5%9f%c4%b1yor+kampanyas%c4%b1">ekşi sözlük mektuplaşıyor kampanyası</a>)
    
   entry_writer: emrahus
 - entry_name: |
@@ -183,7 +183,7 @@ data:
   entry_id: 62641832
   entry_content: |
     
-    kendisinin kulüp olduğu asılsız bir söylemdir. futbolcudur..<br/><br/>kanzuk da eseriyle gurur duyabilir.
+    kendisinin kulüp olduğu asılsız bir söylemdir. futbolcudur..<br/><br/>kanzuk da eseriyle gurur duyabilir.<br/><br/>friedrichebert namlı yazar entry'sini silmiş. şu davranış çok büyük kabalıktır.<br/><a rel="nofollow" class="url" target="_blank" href="http://i.hizliresim.com/2j1ykv.png" title="http://i.hizliresim.com/2j1ykv.png">http://i.hizliresim.com/2j1ykv.png</a>
    
   entry_writer: anteke
 - entry_name: |
@@ -247,8 +247,8 @@ data:
   entry_id: 62647923
   entry_content: |
     
-    bir kel çıkmış habertürkde reyisin asabını bozdu. 30 ağustos gecesi atatürk'ün tartışma konusu haline getirilmesine tahammül edemeyince efendi gibi lafı koydu gitti. şimdi çıldırdı amına koduklarım.
-    
+    bir kel çıkmış habertürkde reyisin asabını bozdu. 30 ağustos gecesi atatürk'ün tartışma konusu haline getirilmesine tahammül edemeyince efendi gibi lafı koydu gitti. şimdi kudurdular..<br/><br/>edit: sansürlendi.
+   
   entry_writer: nicholas hook
 - entry_name: |
     orta doğu teknik üniversitesi
@@ -335,8 +335,8 @@ data:
   entry_id: 62640544
   entry_content: |
     
-    adam futbolcu olarak savaş suçlusu gibi bir yapıya sahip. yaptıklarından ötürü cas değil direk lahey de yargılanmalı. son dakika ancak bu adamı alabildiğimiz için yapacak bir şey yok. mümkünse sen gelme ulan ayı.
-    
+    adam futbolcu olarak savaş suçlusu gibi bir yapıya sahip. yaptıklarından ötürü cas değil direk lahey de yargılanmalı. son dakika ancak bu adamı alabildiğimiz için yapacak bir şey yok. mümkünse sen gelme ulan jong..<br/>debe editi: mustafa kemal atatürk
+   
   entry_writer: mdmbvry
 - entry_name: |
     eren vergiyok
