@@ -7,17 +7,9 @@ data:
   entry_id: 62656349
   entry_content: |
     
-    türkiye cumhuriyeti devletinin son utancıdır.
-    
-  entry_writer: bulunmaz hint kumasi
-- entry_name: |
-    rte'nin atatürk'ten daha başarılı olmuş olması
-  entry_id: 62664603
-  entry_content: |
-    
-    su aygırı familyası: suaygırıgiller (hippopotamidae). yaşadığı yerler: afrika'nın birçok sularında. özellikleri: iri gövdeli, koyu gri ve kahverengi derili bir memeli. 4 ton ağırlığa varanları vardır. hem karada hem suda yaşar. suya dalarken burun deliklerini kapatır. bitkiyle beslenir. ömrü: 40 yıl kadar. çeşitleri: iki türü kalmıştır. su aygırı (hippopotamus amphibius), cüce su aygırı (choeropsis liberiensis).  <br/><br/>afrika'nın göl ve nehirlerinde yaşayan, çiftparmaklılar takımından, geviş getirmeyen iri gövdeli otçul bir memeli. fıçıya benzer hantal vücudunda bacaklar kısa, kafası kocamandır. ayakları dört parmaklıdır. kulakları, gözleri gayet küçük, kuyruğu kısadır. kılsız kalın derisi yarım ton ağırlığındadır. ömrünün çoğunu suda geçirir. karada dinlenirken bir ton ağırlığa varan başlarını birbirinin sırtına koyarlar. timsah sürülerinin arasında yüzmekten çekinmez. balinadan sonra en geniş ağızlı hayvandır. bitki köklerini söküp kesmeye yarayan, keskin güçlü dişleri vardır. alt çenesinde devamlı süren köpek dişlerinin uzunluğu 60 cm'yi bulur. karada koşan bir insana yetişebilir. <br/><br/>suda gayet rahat yüzer. kulakları, gözleri ve burun delikleri başının üst kısmındadır. su yüzeyinde yüzerken dışarda kaldıklarından rahat nefes alır, etrafı görüp, işitebilir. suya daldığında burun delikleri kapanır. 10-30 dakika kadar su altında kalabilir. dipte koşabilir. öfkeli ve cesur bir hayvandır. bazan küçük bot ve kayıkları devirerek insanları parçalar.
+    türkiye cumhuriyeti devletinin son utancıdır..<br/><br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
-  entry_writer: imperialis
+  entry_writer: bulunmaz hint kumasi
 - entry_name: |
     94 ışık yılı uzaktan gelen çok güçlü sinyal
   entry_id: 62657997
@@ -39,7 +31,7 @@ data:
   entry_id: 62662761
   entry_content: |
     
-    sayın imparator sevgili fatih terim avrupa şampiyonası sonrasında yapılan eleştiriler ve duyduğu hakaretler için az önce kırgın olduğunu ifade etti.tam hayret edicektim ki sonra dedim ki dur yahu manyakmısın sen ? 24 takım arasında en çok primi alan futbolcusuda maçı bırakmıştı..<br/><br/>vallahi oturduğum yerden bir gülme aldı beni.<br/><br/>ülkenin yarısından fazlası açlık sınırının altında , çalışma şartları 3.dünya ülkesi seviyesinde , insanlar yapamadıkları iş için aşağılanıyor , dayak yiyor hatta kurşun yiyor bu ülkede.dünyanın hangi ülkesinde yıllık 3.5 milyon avro alan bir teknik direktörün halka kırıldığını gördünüz?<br/><br/>bu nedir yahu ? bizim suçumuz ne ? bir tane yahu bir tane empati sahibi alçakgönüllü bir adam yokmu bir kurumun başında? <br/><br/>bu hayatta adalet olduğuna inan varsa lütfen yeşillendirsin benide inandırsın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/fatih-terimin-maasi-dunyada-dudak-ucuklatti,346124" title="http://t24.com.tr/haber/fatih-terimin-maasi-dunyada-dudak-ucuklatti,346124">terim'in maaşı</a>
+    sayın imparator sevgili fatih terim avrupa şampiyonası sonrasında yapılan eleştiriler ve duyduğu hakaretler için az önce kırgın olduğunu ifade etti.tam hayret edicektim ki sonra dedim ki dur yahu manyakmısın sen ? 24 takım arasında en çok primi alan futbolcusuda maçı bırakmıştı..<br/><br/>vallahi oturduğum yerden bir gülme aldı beni.<br/><br/>ülkenin yarısından fazlası açlık sınırının altında , çalışma şartları 3.dünya ülkesi seviyesinde , insanlar yapamadıkları iş için aşağılanıyor , dayak yiyor hatta kurşun yiyor bu ülkede.dünyanın hangi ülkesinde yıllık 3.5 milyon avro alan bir teknik direktörün halka kırıldığını gördünüz?<br/><br/>bu nedir yahu ? bizim suçumuz ne ? bir tane yahu bir tane empati sahibi alçakgönüllü bir adam yokmu bir kurumun başında? <br/><br/>bu hayatta adalet olduğuna inan varsa lütfen yeşillendirsin benide inandırsın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/fatih-terimin-maasi-dunyada-dudak-ucuklatti,346124" title="http://t24.com.tr/haber/fatih-terimin-maasi-dunyada-dudak-ucuklatti,346124">terim'in maaşı</a><br/><br/>edit : (bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
   entry_writer: essegin onde gideni
 - entry_name: |
@@ -47,15 +39,15 @@ data:
   entry_id: 62667051
   entry_content: |
     
-    debe'ye bilmem ama önümüzdeki kurbanda 7 kişi bu başlığın sahibine girebilir; caizdir.
-    
+    debe'ye bilmem ama önümüzdeki kurbanda 7 kişi bu başlığın sahibine girebilir; caizdir..<br/><br/>debe edit: (bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
+   
   entry_writer: yuksek muhendisim ben
 - entry_name: |
     erdoğan'ın anıtkabir özel defteri'ne yazdığı mesaj
   entry_id: 62656073
   entry_content: |
     
-    canım mustafam..<br/><br/>umarım iyisindir. beni soracak olursan biraz sırtım ağrıyor.<br/>memleketi soracak olursan:<br/><br/>3. köprüyü de açtık çok şükür. geçiş 3 dolar; ama sen ona 10 lira de. bir de osman gazi köprüsü var, izmit körfezine yaptık. geçiş ücretini hatırlamıyorum ama biraz pahalı. zaten geçseler de geçmeseler de para vereceklerdi öyle bir şey...<br/><br/>aaa darbe oldu sen bombayı bilmiyorsun! yani tam olmadı. bu hani senin kökünü kazımaya çalıştığın dinci cemaatlerden yeni birisi abi, sen palazlan palazlan gel devletin ta başına kadar! yalanım varsa şurdan şuraya gitmek nasip olmasın, yaverim bile onlardanmış; inanabiliyor musun?! yani düşünsene mustafa, kılıç ali ajanmış, hainmiş?! olacak şey mi?! ben bi dellendim; aynı senin gibi çıktım dedim ki, ben size savaşmayı değil ölmeyi emrediyorum dedim herkes meydanlara dedim... allah seni inandırsın, mermiye kafa attılar, sesten hızlı uçaklara taş attılar valla allah razı olsun hepsinden! seni şimdi daha iyi anlıyorum. nasıl bir millet varmış senin elinin altında valla helal olsun... zaten ertesi gün senin posterini astım hemen parti binasına falan gördün mü?! çok yakışıklısın mustafam... keşke senin gibi olabilseydim. lens takayım diyorum bazen; ama emine istemiyor. emine'yi tanıyorsun? eşim. neyse hadi tamam. öpüyorum. komutan bakıyor sonra görüşürüz... aşkım benim....
+    canım mustafam..<br/><br/>umarım iyisindir. beni soracak olursan biraz sırtım ağrıyor.<br/>memleketi soracak olursan:<br/><br/>3. köprüyü de açtık çok şükür. geçiş 3 dolar; ama sen ona 10 lira de. bir de osman gazi köprüsü var, izmit körfezine yaptık. geçiş ücretini hatırlamıyorum ama biraz pahalı. zaten geçseler de geçmeseler de para vereceklerdi öyle bir şey...<br/><br/>aaa darbe oldu sen bombayı bilmiyorsun! yani tam olmadı. bu hani senin kökünü kazımaya çalıştığın dinci cemaatlerden yeni birisi abi, sen palazlan palazlan gel devletin ta başına kadar! yalanım varsa şurdan şuraya gitmek nasip olmasın, yaverim bile onlardanmış; inanabiliyor musun?! yani düşünsene mustafa, kılıç ali ajanmış, hainmiş?! olacak şey mi?! ben bi dellendim; aynı senin gibi çıktım dedim ki, ben size savaşmayı değil ölmeyi emrediyorum dedim herkes meydanlara dedim... allah seni inandırsın, mermiye kafa attılar, sesten hızlı uçaklara taş attılar valla allah razı olsun hepsinden! seni şimdi daha iyi anlıyorum. nasıl bir millet varmış senin elinin altında valla helal olsun... zaten ertesi gün senin posterini astım hemen parti binasına falan gördün mü?! çok yakışıklısın mustafam... keşke senin gibi olabilseydim. lens takayım diyorum bazen; ama emine istemiyor. emine'yi tanıyorsun? eşim. neyse hadi tamam. öpüyorum. komutan bakıyor sonra görüşürüz... aşkım benim....<br/><br/>**********<br/><br/><a class="b" href="/?q=hay%c4%b1rl%c4%b1+edit">hayırlı edit</a>: güldük eğlendik tamam... peki <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>dik mi? hayır yeterince değil. yazarı olmaktan en çok da bu ve benzeri muazzam kampanyaları canlandırdığı ve bir sonuca ulaştırabildiği için gurur duyduğum sözlüğün, goygoyumuz arasına karışıp duyulmayan bir aman dileğini duyurma çabasına kulak verelim. o klasik ve ergen hikayede olduğu gibi en azından bir deniz yıldızını denize atmış olalım... niyetini belli etsen de olur; o hisseder seni...<br/><br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
   entry_writer: 30luk
 - entry_name: |
@@ -103,8 +95,8 @@ data:
   entry_id: 62652024
   entry_content: |
     
-    "15 temmuz sonrasi rte'ye hafiften isindim galiba" diyen politik ılıklara selam olsun.
-    
+    "15 temmuz sonrasi rte'ye hafiften isindim galiba" diyen politik ılıklara selam olsun..<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a>: eksik olmayın.
+   
   entry_writer: imparatorneron
 - entry_name: |
     28 ağustos 2016 pegasus rezaleti
@@ -119,7 +111,7 @@ data:
   entry_id: 62662028
   entry_content: |
     
-    soyadının hakkını vermiş gazeteci ve yorumcudur. fatih terim'e "arda turan neden oynamıyor" minvalinde bir soru sormuş, fatih terim'in "sırf bu soruyu sormak için istanbul'dan geldiğine eminim" cevabına "yarın yayınımız var o yüzden geldim" diyerek bilezik gibi geçirmiştir..<br/><br/>fatih terim suçu arda turan'a yıkıyor ama bu milli takımı babasının çiftliği sananların başında arda turan'dan sonra sen geliyorsun hoca. ona ropörtaj vermem buna cevap vermemler senin yarattığın sistemden çıkmadır.<br/><br/>kendisi bugün tekrar göstermiştir ki türkiyenin en iyi spor yorumcusu mehmet demirkol'dur. bu çürümüş sistemin çürümüş imparatorlarına kafa tutan tek kişi kendisidir.<br/><br/>edit : 2. gol de geldi mehmet demirkol 2 fatih terim 0 <br/><br/>fatih terim mehmet bir soru daha sorsun "mehmet demirkol ta istanbul'dan gelmiş" dedi. bunun üzerine mehmet demirkol tüm toplantıda saçma sapan cevaplar veren fatih terim'e "siz basın toplantısını doğru düzgün yaptığınızı düşünüyor musunuz? siz dinleseniz bunu mutlu olur musunuz?" diye bir soru sorarak fatih terim'le tüm dünya önünde dalga geçmiştir. fatih terim soruyu anlamamazlıktan mı geliyor gerçekten mi bu karakterde bir adam bilmiyorum ama yokuşa sürmeye başladı. <br/><br/>mehmet demirkol 3. sorunun iznini alıp tekrar arda turan konusuna girdi. fatih terim çattık arkadaş bakışı atıp gözlerini yukarıya devirdi. fotoğrafı bulursam linkini eklerim. <br/><br/>münakaşa şimdilik bitti. ekran başında mutluluk nasıl olur sorusuna cevap bir toplantı yaşanıyor.<br/><br/>mehmet demirkol'un askerleriyiz.<br/><br/>edit seylann'a teşekkürler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Vppaut4p0zs" title="https://www.youtube.com/watch?v=Vppaut4p0zs">https://www.youtube.com/watch?v=vppaut4p0zs</a>
+    edit : (bkz:  <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>) <br/><br/>soyadının hakkını vermiş gazeteci ve yorumcudur. fatih terim'e "arda turan neden oynamıyor" minvalinde bir soru sormuş, fatih terim'in "sırf bu soruyu sormak için istanbul'dan geldiğine eminim" cevabına "yarın yayınımız var o yüzden geldim" diyerek bilezik gibi geçirmiştir.<br/><br/>fatih terim suçu arda turan'a yıkıyor ama bu milli takımı babasının çiftliği sananların başında arda turan'dan sonra sen geliyorsun hoca. ona ropörtaj vermem buna cevap vermemler senin yarattığın sistemden çıkmadır.<br/><br/>kendisi bugün tekrar göstermiştir ki türkiyenin en iyi spor yorumcusu mehmet demirkol'dur. bu çürümüş sistemin çürümüş imparatorlarına kafa tutan tek kişi kendisidir.<br/><br/>edit : 2. gol de geldi mehmet demirkol 2 fatih terim 0 <br/><br/>fatih terim mehmet bir soru daha sorsun "mehmet demirkol ta istanbul'dan gelmiş" dedi. bunun üzerine mehmet demirkol tüm toplantıda saçma sapan cevaplar veren fatih terim'e "siz basın toplantısını doğru düzgün yaptığınızı düşünüyor musunuz? siz dinleseniz bunu mutlu olur musunuz?" diye bir soru sorarak fatih terim'le tüm dünya önünde dalga geçmiştir. fatih terim soruyu anlamamazlıktan mı geliyor gerçekten mi bu karakterde bir adam bilmiyorum ama yokuşa sürmeye başladı. <br/><br/>mehmet demirkol 3. sorunun iznini alıp tekrar arda turan konusuna girdi. fatih terim çattık arkadaş bakışı atıp gözlerini yukarıya devirdi. fotoğrafı bulursam linkini eklerim. <br/><br/>münakaşa şimdilik bitti. ekran başında mutluluk nasıl olur sorusuna cevap bir toplantı yaşanıyor.<br/><br/>mehmet demirkol'un askerleriyiz.<br/><br/>edit seylann'a teşekkürler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Vppaut4p0zs" title="https://www.youtube.com/watch?v=Vppaut4p0zs">https://www.youtube.com/watch?v=vppaut4p0zs</a>
    
   entry_writer: birazfasistbirazkomunist
 - entry_name: |
@@ -219,14 +211,6 @@ data:
    
   entry_writer: iett otobusuyle acile kaldirilan ulvi
 - entry_name: |
-    muzu eline alıp ısırarak yiyen insan zekası
-  entry_id: 62660369
-  entry_content: |
-    
-    kardeş bunu inanarak yazıyorsan gerizekalısın, troll isen hiç komik değilsin. ne sikime yararsın bilmiyorum. ama çok güzel oluyor böyle başlık açıp engellettiriyorsunuz kendinizi, hizmeti ayağımıza kadar getirtiyorsunuz. inanılmaz.
-    
-  entry_writer: isvicrelibilimadami
-- entry_name: |
     rüzgarın fenerbahçe lehine dönmesi
   entry_id: 62656055
   entry_content: |
@@ -311,7 +295,7 @@ data:
   entry_id: 62663008
   entry_content: |
     
-    sanatçıdır..<br/><br/>örnek sorular,<br/><br/>3. köprü hangi mühendisin projesidir ?<br/>...<br/><br/>zahidem türküsü hangi sanatçımızın eseridir? <br/><br/>neşet ertaş
+    sanatçıdır..<br/><br/>örnek sorular,<br/><br/>3. köprü hangi mühendisin projesidir ?<br/>...<br/><br/>zahidem türküsü hangi sanatçımızın eseridir? <br/><br/>neşet ertaş<br/><br/>ayrıca bkz editi:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/62580017" title="https://eksisozluk.com/entry/62580017">ışığı 1 trilyon kat yavaşlatırsak ne olur ?</a>
    
   entry_writer: depresif yazar
 - entry_name: |
