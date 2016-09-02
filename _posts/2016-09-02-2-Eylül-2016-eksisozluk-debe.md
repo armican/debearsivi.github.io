@@ -103,7 +103,7 @@ data:
   entry_id: 62702435
   entry_content: |
     
-    kuran'da var mı böyle bir bölüm..<br/><br/>şüphesizki çizgiyi geçene biz gol ol dedik. onlar ki itiraz ederler, ama de ki gol oldu.
+    kuran'da var mı böyle bir bölüm..<br/><br/>şüphesizki çizgiyi geçene biz gol ol dedik. onlar ki itiraz ederler, ama de ki gol oldu.<br/><br/><a class="b" href="/?q=---+destek+olal%c4%b1m+---">--- destek olalım ---</a><br/><br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)<br/><br/><a class="b" href="/?q=---+destek+olal%c4%b1m+---">--- destek olalım ---</a>
    
   entry_writer: bosmuhendis
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 62697533
   entry_content: |
     
-    ilginç ve güzel tavsiyelerdir.  <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/A3J0bq.png" title="http://i.hizliresim.com/A3J0bq.png">tavsiye metni</a><br/><br/>edit: içinde onur, haysiyet, utanma duygusu olmayan toplum bu samimi metni yazamaz. o dönemde kim böyle bir tavsiye metni yazılmasını önerdi ise tebrik etmek lazım. her toplum eğitilmeye muhtaçtır. bu ihtiyaç görülmüş ve adım atılmış o dönem.<br/><br/>şimdi kimsenin kimseye "onurlu ol" diyecek yüzü kalmadı.<br/><a class="b" href="/?q=ek%c5%9fi+%c5%9feyler+editi">ekşi şeyler editi</a>: <a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/is-ve-isci-bulma-kurumunun-1960larda-almanyaya-giden-iscilere-verdigi-ogutler" title="https://seyler.eksisozluk.com/is-ve-isci-bulma-kurumunun-1960larda-almanyaya-giden-iscilere-verdigi-ogutler">ekşi şeyler</a> sitesinde daha ayrıntılı okunabilir.
+    ilginç ve güzel tavsiyelerdir.  <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/A3J0bq.png" title="http://i.hizliresim.com/A3J0bq.png">tavsiye metni</a><br/><br/>edit: içinde onur, haysiyet, utanma duygusu olmayan toplum bu samimi metni yazamaz. o dönemde kim böyle bir tavsiye metni yazılmasını önerdi ise tebrik etmek lazım. her toplum eğitilmeye muhtaçtır. bu ihtiyaç görülmüş ve adım atılmış o dönem.<br/><br/>şimdi kimsenin kimseye "onurlu ol" diyecek yüzü kalmadı.<br/><a class="b" href="/?q=ek%c5%9fi+%c5%9feyler+editi">ekşi şeyler editi</a>: <a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/is-ve-isci-bulma-kurumunun-1960larda-almanyaya-giden-iscilere-verdigi-ogutler" title="https://seyler.eksisozluk.com/is-ve-isci-bulma-kurumunun-1960larda-almanyaya-giden-iscilere-verdigi-ogutler">ekşi şeyler</a> sitesinde daha ayrıntılı okunabilir.<br/><br/>debe editi: tur rehberlerinin sesine kulak verelim. işi varmış gibi görünen işsizler ordusu... (bkz: <a class="b" href="/entry/62576149">#62576149</a>)<br/><br/>debe sosyal sorumluluk editi: (bkz: <a class="b" href="/?q=oguzcanin+sesine+kulak+ver">oguzcanin sesine kulak ver</a>)
    
   entry_writer: ogenki
 - entry_name: |
@@ -167,15 +167,15 @@ data:
   entry_id: 62709978
   entry_content: |
     
-    chp sana bir yerleştirir akp bile çıkaramaz dediğim insan. fırıldak gibi düşünceleri olan insanlar ilk şoku atlatıp hemen eski reflekslerine kavuşmuş durumda.
-    
+    chp sana bir yerleştirir akp bile çıkaramaz dediğim insan. fırıldak gibi düşünceleri olan insanlar ilk şoku atlatıp hemen eski reflekslerine kavuşmuş durumda..<br/><br/>debe editi: kullandığım dil için eleştiren arkadaşlar oldu ancak şimdiye kadar öğrendiklerim arasında olan bir şey şudur. "centilmenlik, centilmenlerle yapılır . bu ve benzeri yapı yıllardır köpeksiz köyde değneksiz dolaşmaktadır.
+   
   entry_writer: mdmbvry
 - entry_name: |
     1 eylül 2016 tarihli kanun hükmünde kararname
   entry_id: 62709435
   entry_content: |
     
-    önemli başlıkları şöyle olan khk'dır;;<br/><br/>* fetö'nün yurtdışındaki okullarının diplomaları iptal edildi.<br/>* kendi isteğiyle emekliye ayrılan hakim-savcılar göreve geri dönebilecek. <br/>* yurtdışında eğitim gören 158 öğrencinin öğrenciliği iptal edildi. <br/>* 7669 emniyet müdürlüğü çalışanı ihraç edildi. <br/>* 323 jandarma genel komutanlığı personeli açığa alındı. <br/>* milli eğitim bakanlığı'ndan 28163 kişi görevden alındı. <br/>* sağlık bakanlığı'ndan 2018 personel ihraç edildi. <br/>* diyanet işleri başkanlığı'ndan 1519 personel ihraç edildi. <br/>* yüksek öğretim kurumlarından 2346 personel açığa alındı. <br/>* 24 merkez valisi ve 102 vali yardımcısı ihraç edildi. <br/>* kamuda, emniyette, jandarmada vs. çok sayıda başka personel de ihraç edildi.<br/>* fetö zanlılarının eşlerinin de pasaportu iptal edildi. <br/>* ohal süresince iflas erteleme talep edilemeyecek. <br/>* ceza infaz kurumları ve tutukevleri izleme kurullarının başkan ve üyelerinin görevi sona erdirildi. <br/>* el konulan şirketlere atanan kayyumların yetkisi tmsf'de. <br/>* fetö şirketlerinin satışından elde edilen gelir maliyeye aktarılacak. <br/>* köy korucuları görevli oldukları il dışında da görev alabilecek.<br/>* görevden alınan belediye başkanlarının yerine içişleri atama yapacak. <br/>* tüm 33/a öyp kadrosundaki araştırma görevlileri 50/d kadrosuna geçirildi. <sup class="ab"><a title="(bkz: bu madde için cetoxim'e teşekkürler)ler)" href="/?q=bu+madde+i%c3%a7in+cetoxim%27e+te%c5%9fekk%c3%bcrler" data-query="bu madde için cetoxim'e teşekkürlerrler">*</a></sup><br/><br/>edit: eklemeler, eklemeler, eklemeler ve düzeltmeler.
+    önemli başlıkları şöyle olan khk'dır;;<br/><br/>* fetö'nün yurtdışındaki okullarının diplomaları iptal edildi.<br/>* kendi isteğiyle emekliye ayrılan hakim-savcılar göreve geri dönebilecek. <br/>* yurtdışında eğitim gören 158 öğrencinin öğrenciliği iptal edildi. <br/>* 7669 emniyet müdürlüğü çalışanı ihraç edildi. <br/>* 323 jandarma genel komutanlığı personeli açığa alındı. <br/>* milli eğitim bakanlığı'ndan 28163 kişi görevden alındı. <br/>* sağlık bakanlığı'ndan 2018 personel ihraç edildi. <br/>* diyanet işleri başkanlığı'ndan 1519 personel ihraç edildi. <br/>* yüksek öğretim kurumlarından 2346 personel açığa alındı. (edit: ihraç edildi)<br/>* 24 merkez valisi ve 102 vali yardımcısı ihraç edildi. <br/>* kamuda, emniyette, jandarmada vs. çok sayıda başka personel de ihraç edildi.<br/>* fetö zanlılarının eşlerinin de pasaportu iptal edildi. <br/>* ohal süresince iflas erteleme talep edilemeyecek. <br/>* ceza infaz kurumları ve tutukevleri izleme kurullarının başkan ve üyelerinin görevi sona erdirildi. <br/>* el konulan şirketlere atanan kayyumların yetkisi tmsf'de. <br/>* fetö şirketlerinin satışından elde edilen gelir maliyeye aktarılacak. <br/>* köy korucuları görevli oldukları il dışında da görev alabilecek.<br/>* görevden alınan belediye başkanlarının yerine içişleri atama yapacak. <br/>* tüm 33/a öyp kadrosundaki araştırma görevlileri 50/d kadrosuna geçirildi. <sup class="ab"><a title="(bkz: bu madde için cetoxim'e teşekkürler)ler)" href="/?q=bu+madde+i%c3%a7in+cetoxim%27e+te%c5%9fekk%c3%bcrler" data-query="bu madde için cetoxim'e teşekkürlerrler">*</a></sup><br/><br/>edit: eklemeler, eklemeler, eklemeler ve düzeltmeler.
    
   entry_writer: appdata
 - entry_name: |
@@ -183,7 +183,7 @@ data:
   entry_id: 62704357
   entry_content: |
     
-    çok sık karşılaştığım bir durumdur. genelde doktor eşler aşırı çirkefleşiyor. yalan değil anlatayım dur.  <br/><br/>doktor ve bir sağlık çalışanı olan eş 25 yıllık mutlu bir evliliğin sonucunda ibne doktorun kendisine genç ve güzel bir eş bulması üzerine boşanmaya karar verir. ibne doktor boşanırken sırf para vermemek için karısına şizofren bu kadın, psikolojik hastalıkları var türünden iftiralar atıp haklı çıkmak için uğraşıp duruyor. tabii biz de yemedik bunları. ön inceleme duruşmasında doktor raporu talep ettiler. bizim savunmamız sonucu hakim bu kadınla 25 yıldır evlisin ve bugün mü deli olduğunu farkettin amk dedi ve nafakayı iki kat arttırdı. <br/><br/>başka bir kadın da boşanma sürecinde eşim benle ters ilişkiye giriyor diyip iftira attı. hakikaten çok acayip.
+    çok sık karşılaştığım bir durumdur. genelde doktor eşler aşırı çirkefleşiyor. yalan değil anlatayım dur.  <br/><br/>doktor ve bir sağlık çalışanı olan eş 25 yıllık mutlu bir evliliğin sonucunda ibne doktorun kendisine genç ve güzel bir eş bulması üzerine boşanmaya karar verir. ibne doktor boşanırken sırf para vermemek için karısına şizofren bu kadın, psikolojik hastalıkları var türünden iftiralar atıp haklı çıkmak için uğraşıp duruyor. tabii biz de yemedik bunları. ön inceleme duruşmasında doktor raporu talep ettiler. bizim savunmamız sonucu hakim bu kadınla 25 yıldır evlisin ve bugün mü deli olduğunu farkettin amk dedi ve nafakayı iki kat arttırdı. <br/><br/>başka bir kadın da boşanma sürecinde eşim benle ters ilişkiye giriyor diyip iftira attı. hakikaten çok acayip.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: sarhoşken yazdığım bu entry ile debeye girmek istemezdim. yazılanların gerçek kişi ve olaylarla herhangi bir alakası yoktur. <br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+mektupla%c5%9f%c4%b1yor+kampanyas%c4%b1">ekşi sözlük mektuplaşıyor kampanyası</a>)
    
   entry_writer: emrahus
 - entry_name: |
@@ -223,8 +223,8 @@ data:
   entry_id: 62697540
   entry_content: |
     
-    1 barı açıyorum, 2 ayla'yla aramı düzeltiyorum, 3 babamı da yanıma alıyorum. olay bitmiştir.
-    
+    1 barı açıyorum, 2 ayla'yla aramı düzeltiyorum, 3 babamı da yanıma alıyorum. olay bitmiştir..<br/><br/>gelen mesajlar üzerine debedit: çok çok sevdiğim (bkz: <a class="b" href="/?q=her+%c5%9fey+%c3%a7ok+g%c3%bczel+olacak">her şey çok güzel olacak</a>) filminden bir replikti bu, maalesef benim planım değil ama günlük hayatta muhabbet ederken kullandığım için yazmak istedim, debe'ye girmiş. eheh.<br/><br/>henüz izlemeyenler için resmi youtube <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/fLX4YW2Tefc" title="https://youtu.be/fLX4YW2Tefc">linki</a>ni de vereyim.
+   
   entry_writer: lord of the mezuns
 - entry_name: |
     whatsapp'taki utanan maymun ifadesi
@@ -295,7 +295,7 @@ data:
   entry_id: 62704996
   entry_content: |
     
-    muhtemelen derebeylik sistemi geç yıkılacağı veya yıkılmayacağı için insanlık bugünkü gelişmişlik seviyesinin çok daha gerisinde olurdu..<br/><br/>debe eklemesi:<br/><br/>--- <a class="b" href="/?q=reklam">reklam</a> ---<br/>boş zamanlarımda içerik üretmeye çalıştığım şöyle bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UC3LCm3Kb-d6XUvku8PXVc2g" title="https://www.youtube.com/channel/UC3LCm3Kb-d6XUvku8PXVc2g">youtube kanalım</a> var, ilginizi çekebileceğini düşünüyorum.<br/><br/>2 örnek video paylaşayım, ilginizi çekerse abone olursunuz...<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=q_BNcYAa-1k" title="https://www.youtube.com/watch?v=q_BNcYAa-1k">en basit tanımıyla izafiyet teorisi ve ikizler paradoksu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=nIS4pxOcyNY" title="https://www.youtube.com/watch?v=nIS4pxOcyNY">türkiye'de 100 kişi yaşasaydı</a><br/>--- <a class="b" href="/?q=reklam">reklam</a> ---
+    muhtemelen derebeylik sistemi geç yıkılacağı veya yıkılmayacağı için insanlık bugünkü gelişmişlik seviyesinin çok daha gerisinde olurdu..<br/><br/>debe eklemesi:<br/><br/>--- <a class="b" href="/?q=reklam">reklam</a> ---<br/>boş zamanlarımda içerik üretmeye çalıştığım şöyle bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UC3LCm3Kb-d6XUvku8PXVc2g" title="https://www.youtube.com/channel/UC3LCm3Kb-d6XUvku8PXVc2g">youtube kanalım</a> var, ilginizi çekebileceğini düşünüyorum.<br/><br/>2 örnek video paylaşayım, ilginizi çekerse abone olursunuz...<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=q_BNcYAa-1k" title="https://www.youtube.com/watch?v=q_BNcYAa-1k">en basit tanımıyla izafiyet teorisi ve ikizler paradoksu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=nIS4pxOcyNY" title="https://www.youtube.com/watch?v=nIS4pxOcyNY">türkiye'de 100 kişi yaşasaydı</a><br/>--- <a class="b" href="/?q=reklam">reklam</a> ---<br/><br/>ekleme 2: (bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
   entry_writer: ofsayti bozan stoper
 - entry_name: |
@@ -391,7 +391,7 @@ data:
   entry_id: 62696937
   entry_content: |
     
-    bu çabayı börek satmak için gösterse mcdonalds zincirinin karşısına dikilebilecek erolbörek'in enerjisini boşa harcamasıdır..<br/>sen börek satmaya harca enerjini kardeş, dünya devi olursun. <br/>kızlar bizde. <br/>değil mi kızlar?<br/><br/>edit: allahını seven kızlar mesaj atmasın okumaya yetişemiyorum. lütfen ama bi durun yoksa mesaj kutumu iletişime kapatacağım.
+    bu çabayı börek satmak için gösterse mcdonalds zincirinin karşısına dikilebilecek erolbörek'in enerjisini boşa harcamasıdır..<br/>sen börek satmaya harca enerjini kardeş, dünya devi olursun. <br/>kızlar bizde. <br/>değil mi kızlar?<br/><br/>edit: allahını seven kızlar mesaj atmasın okumaya yetişemiyorum. lütfen ama bi durun yoksa mesaj kutumu iletişime kapatacağım.<br/><br/>edit: erolbörek değil dalyarakerol. silecek ne vardı yavrum kütük gibi entryi.
    
   entry_writer: biyolojik saat tamircisi
 - entry_name: |
