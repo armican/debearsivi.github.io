@@ -27,14 +27,6 @@ data:
     
   entry_writer: boga
 - entry_name: |
-    atatürk paşanın kurban keserken resminin olmaması
-  entry_id: 62780956
-  entry_content: |
-    
-    misket köfteli yoğurtlu makarna tarifi'nin malzemelerii<br/>1 paket makarna<br/>250 gram kıyma<br/>yarım çay kaşığı tuz karabiber<br/>1 adet kuru soğan (küçük doğramış )<br/>1 adet domates((küçük doğranmış)<br/>1 adet yeşil biber(küçük doğranmış )<br/>1 diş sarımsak (küçük doğranmış )<br/>1 tatlı kaşığı biber salçası<br/>1 çay bardağı su<br/>1 çay kaşığı tuz karabiber(köfte için )<br/>1 yemek kaşığı margarin veya tereyağ<br/>1 yemek kaşığı sıvı yağ<br/>yoğurt sosu için :<br/><br/>1 küçük kase yoğurt<br/>2 diş rendelenmiş sarımsak<br/>yarım çay kaşığı tuz<br/><br/>misket köfteli yoğurtlu makarna tarifi'nin yapılışı<br/>makarnayı haşlayın, sudan geçirin, süzgüye alın, tavaya yağları koyun. tuz, karabiberi, kıymayı yoğurun misket köfteler yapın, tavada kızartın, kenara alın. tavaya soğanı, sarımsağı, domatesi, biberi koyun, tuzu, karabiberi koyun, karıştırın, iki dakika kavurun. salçayı suda eritip dökün, köfteleri ekleyip karıştırın. makarnayı servis tabaklarına alın, köfeli sosu ortasına pay edin kenarlara, yoğurtlu sosu çırpıp koyun. afiyet olsun
-   
-  entry_writer: nasrallah
-- entry_name: |
     bir erkeğin en tehlikeli cümlesi
   entry_id: 62778076
   entry_content: |
@@ -87,8 +79,8 @@ data:
   entry_id: 62783682
   entry_content: |
     
-    hırvatistan maçıyla tekrar gördük ki seyircisiz bir şeye benzemiyor futbol. bence seyircisiz maç cezası yerine maçsız seyirci cezası uygulanmalı. olay çıkaran seyircilere 90 dakika mal gibi boş saha izlettirilmeli. (bak bir daha yapıyorlar mı?)
-    
+    hırvatistan maçıyla tekrar gördük ki seyircisiz bir şeye benzemiyor futbol. bence seyircisiz maç cezası yerine maçsız seyirci cezası uygulanmalı. olay çıkaran seyircilere 90 dakika mal gibi boş saha izlettirilmeli. (bak bir daha yapıyorlar mı?))<br/><br/>debe editi: amatör olarak uğraştığım özdeyiş mizahı formatlı sayfamı paylaşmak istedim. eleştirilerinize açığım. montelerin hepsi bana aittir. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/tarihegecmeyensozler1/" title="https://www.facebook.com/tarihegecmeyensozler1/">umarım beğenirsiniz.</a>
+   
   entry_writer: bipolar express
 - entry_name: |
     türkiye'den bir leicester city çıkmamasının nedeni
@@ -99,7 +91,7 @@ data:
    
   entry_writer: most valuable player
 - entry_name: |
-    yurtdışına çıkandan 100 dolar alınsın
+    yurtdışı çıkış harcı 100 dolar olsun
   entry_id: 62777341
   entry_content: |
     
@@ -143,7 +135,7 @@ data:
   entry_id: 62775486
   entry_content: |
     
-    mümkündür..<br/>senede iki kere yaşadığı muhitten çıkabilen, onda da doktora ya da yeğeninin düğününe giden, markete ya da mağazaya girip birkaç parça şey almaya dahi imkanı olmayan milyonlarca kadın yaşıyor şu ülkede.<br/><br/>hatta benim teyzemdir. köyden çıkmamıştır, öyle başlığı açan arkadaşın annesi gibi tavuk döner yemeye dahi gidememiştir oğlunu yanına alıp. hazır satın alıp yiyebileceği her şey lükstür onun için, bir poğaça versen eline yolda yemez öyle, eve gelene kadar saklar da yanına çay demler...<br/><br/>nerede doğdunuz, nerede büyüdünüz bilmiyorum ki...
+    mümkündür..<br/>senede ancak iki kere yaşadığı muhitten çıkabilen, onda da ya nicedir ağrıyan beli için doktora, ya da yeğeninin düğününe giden, kendi iradesiyle markete ya da mağazaya girip birkaç parça şey almaya dahi imkanı olmayan milyonlarca kadın yaşıyor şu ülkede.<br/><br/>hatta benim teyzemdir bu. köyden neredeyse hiç çıkmamıştır, öyle başlığı açan arkadaşın annesi gibi tavuk döner yemeye dahi gidememiştir oğlunu yanına alıp. bir akşamüstü çıkıp eşiyle kahve içmemiş, bir mağazadan kendisi beğenerek etek seçememiştir hiç. hazır satın alıp yiyebileceği her şey lükstür onun için; bir poğaça versen eline, yolda yemez öyle, eve gelene kadar saklar da yanına çay demler...<br/><br/>nerede doğdunuz, nerede büyüdünüz bilmiyorum ki...
    
   entry_writer: haciz mahallinde tango
 - entry_name: |
@@ -183,7 +175,7 @@ data:
   entry_id: 62785687
   entry_content: |
     
-    galatasaray futbol takiminin sozlesmesi devam eden teknik direktoru..<br/>sezon oncesi son sampiyonun elinden super kupa al , takimdan copleri gonder , yeni transferlerin kadro muhendisligin basarili olsun , lig'e 2 galibiyet ile basla , yonetimin basarisizliklarini rezaletlerini unuttur , sezon oncesi 3500 olan kombine satisi 2 ay sonra 17 bine ulassin , 5. hafta oynanacak derbi macina kadar 25-30 bin kombine hedeflensin , taraftarin takimla baristigi , camianin sampiyonluk yolunda yurudugu bir duzeni , gelecek yillarin duzenini , alt yapi a takim arasinda gecislerin ve kaliteli sistemli idmanlarin tum spor medyasindan olumlu karsilansin ama parayi seven 63 yasinda ergen tripleri atan , damat menajer iliskileriyle kadro olusturan birisi ciksin senin koltuguna goz diksin. onur haysiyet kavramlarini ayaklar altina alsin ve siritarak onu sonra degerlendiririz diye cevap versin. yok boyle bir dunya ! yok boyle rezillik ! <br/>jan olde riekerink bey'in koltugu sahipsiz degil. taraftarin buyuk cogunluguda arkasinda! sen git tupcunle mutlu ol ! biz ise jan de yanalim olde olelim !
+    galatasaray futbol takiminin sozlesmesi devam eden teknik direktoru..<br/>sezon oncesi son sampiyonun elinden super kupa al , takimdan copleri gonder , yeni transferlerin kadro muhendisligin basarili olsun , lig'e 2 galibiyet ile basla , yonetimin basarisizliklarini rezaletlerini unuttur , sezon oncesi 3500 olan kombine satisi 2 ay sonra 17 bine ulassin , 5. hafta oynanacak derbi macina kadar 25-30 bin kombine hedeflensin , taraftarin takimla baristigi , camianin sampiyonluk yolunda yurudugu bir duzeni , gelecek yillarin duzenini , alt yapi a takim arasinda gecislerin ve kaliteli sistemli idmanlarin tum spor medyasindan olumlu karsilansin ama parayi seven 63 yasinda ergen tripleri atan , damat menajer iliskileriyle kadro olusturan birisi ciksin senin koltuguna goz diksin. onur haysiyet kavramlarini ayaklar altina alsin ve siritarak onu sonra degerlendiririz diye cevap versin. yok boyle bir dunya ! yok boyle rezillik ! <br/>jan olde riekerink bey'in koltugu sahipsiz degil. taraftarin buyuk cogunluguda arkasinda! sen git tupcunle mutlu ol ! biz ise jan de yanalim olde olelim !<br/><a class="b" href="/?q=debe">debe</a> edit : <a rel="nofollow noopener" class="url" target="_blank" href="http://www.losev.org.tr/bagis/bagis_secenekleri.html" title="http://www.losev.org.tr/bagis/bagis_secenekleri.html">http://www.losev.org.tr/…gis/bagis_secenekleri.html</a>
    
   entry_writer: lahtim
 - entry_name: |
@@ -191,7 +183,7 @@ data:
   entry_id: 62787325
   entry_content: |
     
-    1 - ingiltere kralii<br/>2 - rahmetli baskan kennedy<br/>3 - tacsiz kral pele<br/>4 - backenbauer<br/>5 - kaleci mayer<br/>6 - nadia komanaçi<br/>7 - brigitte bardot<br/>8 - fenerbahçeli cemil.
+    1 - ingiltere kralii<br/>2 - rahmetli baskan kennedy<br/>3 - tacsiz kral pele<br/>4 - backenbauer<br/>5 - kaleci mayer<br/>6 - nadia komanaçi<br/>7 - brigitte bardot<br/>8 - fenerbahçeli cemil.<br/><br/>debe eklemesi; yakında haftada bir bölüm yayınlanacak, coğrafyamızın enlem ve boylamını değiştirecek bir muhteşem hikaye ile buralarda bir yerde olacağım. daha öncede bahsettiğimiz gibi; lütfen heyecanla bekleyin.
    
   entry_writer: sanikmagdur
 - entry_name: |
@@ -207,7 +199,7 @@ data:
   entry_id: 62773949
   entry_content: |
     
-    ben de ahkam keserdim..<br/>hatta iki ilişkimi arkama bakmadan bitirdim. (başka sebeplerle)<br/>hem de öyle "bitti" denince bitecek ilişkilerde değildi bunlar.<br/>zaman geçti, gün geldi ve ben aldatıldım. ilk defa.<br/>ve bitmedi.<br/>niye bitmedi? bilmiyorum. inanın bilmiyorum.<br/><br/>tuhaf bir duygu. <br/>ha çok absürt bir aldatılma da değil. meyl sadece.<br/>kimseyi yatakta basmadım ama basada bilirdim.<br/>zerre kadar güven kalmıyor.<br/><br/>bugün bitmemiş olması bitmeyeceği manasına gelmiyor.<br/>insan bazen yaşadığı travmanın etkisiyle geçici hafıza kaybı yaşayıp, sonra çok eften püften bir sebeple bir anda bitirebiliyor. <br/><br/>6 yıl boyunca aldatılan bir arkadaşımın ilişkiyi sürdürüp, mutluluk pozları keserken bu gömleğin rengi niye mavi değil diye ayrıldığını bilirim.<br/>insanlar unutmuyor merak etmeyin. sadece idrak süresi aynı değil.
+    ben de ahkam keserdim..<br/>hatta iki ilişkimi arkama bakmadan bitirdim. (başka sebeplerle)<br/>hem de öyle "bitti" denince bitecek ilişkilerde değildi bunlar.<br/>zaman geçti, gün geldi ve ben aldatıldım. ilk defa.<br/>ve bitmedi.<br/>niye bitmedi? bilmiyorum. inanın bilmiyorum.<br/><br/>tuhaf bir duygu. <br/>ha çok absürt bir aldatılma da değil. meyl sadece.<br/>kimseyi yatakta basmadım ama basabilirdim de.<br/>zerre kadar güven kalmıyor.<br/><br/>bugün bitmemiş olması bitmeyeceği manasına gelmiyor.<br/>insan bazen yaşadığı travmanın etkisiyle geçici hafıza kaybı yaşayıp, sonra çok eften püften bir sebeple bir anda bitirebiliyor. <br/><br/>6 yıl boyunca aldatılan bir arkadaşımın ilişkiyi sürdürüp, mutluluk pozları keserken bu gömleğin rengi niye mavi değil diye ayrıldığını bilirim.<br/>insanlar unutmuyor merak etmeyin. sadece idrak süresi aynı değil.
    
   entry_writer: daga kacan inek
 - entry_name: |
@@ -223,15 +215,15 @@ data:
   entry_id: 62773499
   entry_content: |
     
-    kız erkek farketmiyor, bazı insanların mayasında nedense yalnızlık var katlanılması gereken. istediğiniz kadar albeniniz olsun toplumun önüne çıktığınızda yalnızlığa mahkumsunuz bir şekilde. tanrı bir kezban şansını bile çok görmüştür size.
-    
+    kız erkek farketmiyor, bazı insanların mayasında nedense yalnızlık var katlanılması gereken. istediğiniz kadar albeniniz olsun toplumun önüne çıktığınızda yalnızlığa mahkumsunuz bir şekilde. tanrı bir kezban şansını bile çok görmüştür size..<br/><br/>debe edit: <br/>(bkz: <a class="b" href="/?q=burs+veren+s%c3%b6zl%c3%bck+yazarlar%c4%b1">burs veren sözlük yazarları</a>) <br/>katkıya hepinizi bekliyoruz.
+   
   entry_writer: enkizu
 - entry_name: |
     istanbul'da oturulası semtler
   entry_id: 62768399
   entry_content: |
     
-    "bana bir semtteki müslüman oranını söyle, sana o semtin yaşanabilirliğini söyleyeyim." [düşünmeyenadam, 2012]]<br/><br/>söylenenlerin çoğunun moda cihangir caddebostan olmasına dikkat. sarıyer wildcard.
+    "bana bir semtteki müslüman oranını söyle, sana o semtin yaşanabilirliğini söyleyeyim." [düşünmeyenadam, 2012]]<br/><br/>söylenenlerin çoğunun moda cihangir caddebostan olmasına dikkat. sarıyer wildcard.<br/><br/>-- <br/><br/>debe edit: havalar değişken, sağlığınıza dikkat edin.<br/>debe olduğumu haber veren eski dost bilgecan'a teşekkürler.
    
   entry_writer: dusunmeyenadam
 - entry_name: |
@@ -263,7 +255,7 @@ data:
   entry_id: 62771618
   entry_content: |
     
-    beni hiç cezbetmeyen kadındır. öyle zor beğenen biri de değilim ha. bildiğin suratında 10 kilo makyaj, travestiye benzeyen, koca gotlu, koca memeli bir teyze lan bu. yaşını bilmiyorum ama tosic 30 civarıdır, hadi bu da 30 diyelim. karı minumum 40-45 gösteriyor..<br/><br/>edit: 38 yaşındaymış, tosic ise 31. pis sübyancı.
+    beni hiç cezbetmeyen kadındır. öyle zor beğenen biri de değilim ha. bildiğin suratında 10 kilo makyaj, travestiye benzeyen, koca gotlu, koca memeli bir teyze lan bu. yaşını bilmiyorum ama tosic 30 civarıdır, hadi bu da 30 diyelim. karı minumum 40-45 gösteriyor..<br/><br/>edit: 38 yaşındaymış, tosic ise 31.
    
   entry_writer: mionel lessi
 - entry_name: |
@@ -295,7 +287,7 @@ data:
   entry_id: 62767912
   entry_content: |
     
-    islam olmasaydı olacağımız ülkenin ne olacağı belli hayalgücünü kullanmaya gerek yok.  <br/>(bkz: <a class="b" href="/?q=yunanistan">yunanistan</a>)
+    islam olmasaydı olacağımız ülkenin ne olacağı belli hayalgücünü kullanmaya gerek yok.  <br/>(bkz: <a class="b" href="/?q=yunanistan">yunanistan</a>)<br/>edit: yukarıda islamla bağlantı kuran bir entry vardı, ona cevaben yazdım yoksa akp + mhp olmazsa islam olmaz tarzı bir şey demedim.
    
   entry_writer: nuka cola
 - entry_name: |
@@ -335,7 +327,7 @@ data:
   entry_id: 62772770
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+buram+buram+beslenme+%c3%a7antas%c4%b1+kokmas%c4%b1">başlığın buram buram beslenme çantası kokması</a>)
+    (bkz:  <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+buram+buram+beslenme+%c3%a7antas%c4%b1+kokmas%c4%b1">başlığın buram buram beslenme çantası kokması</a>)<br/><br/>debedit: olm hiç havalı bir şey değilmiş lan bu debe. profilde istatistik olarak 1 gün kalıp gidiyor:(
    
   entry_writer: deathstarinmemeucu
 - entry_name: |
@@ -379,12 +371,12 @@ data:
     
   entry_writer: gazozailacatmauzmani
 - entry_name: |
-    yapıcı omak yerine yıkıcı olan insan
+    yapıcı olmak yerine yıkıcı olan insan
   entry_id: 62772819
   entry_content: |
     
-    adam belki de başlığı bilerek böyle açtı. kaçımız yapıcı olup başlığı düzeltmesini söyleyeceğiz kaçımız taşşak geçeceğiz. bence şu an bir sosyal deneyin içindeyiz.
-    
+    adam belki de başlığı bilerek böyle açtı. kaçımız yapıcı olup başlığı düzeltmesini söyleyeceğiz kaçımız taşşak geçeceğiz. bence şu an bir sosyal deneyin içindeyiz..<br/><br/>edit: başlık düzeltildiğine göre linç bitsin artık<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+   
   entry_writer: ringo cep
 - entry_name: |
     karı kız düşürmek için vegan olmak
