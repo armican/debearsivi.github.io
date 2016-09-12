@@ -23,7 +23,7 @@ data:
   entry_id: 62883471
   entry_content: |
     
-    peki ya kendisi ne çocuguymus? pek merak ettim birdenn<br/><br/>tanim: siyasal islamci siçmigi
+    peki ya kendisi ne çocuguymus? pek merak ettim birdenn<br/><br/>tanim: siyasal islamci safsatası...
    
   entry_writer: il gatto rosso
 - entry_name: |
@@ -91,7 +91,7 @@ data:
    
   entry_writer: hibodi
 - entry_name: |
-    ankara'da yara torbası bulamamam
+    ankara'da yara torbası bulamamak
   entry_id: 62881983
   entry_content: |
     
@@ -127,7 +127,7 @@ data:
   entry_id: 62889134
   entry_content: |
     
-    70.dhy sonucu atanan yeni mezun pratisyen hekimlerin, tebligatin 9.9.16 günü açıklanmasindan doğan mağduriyetlerini twiterda dile getirmek ,sesini sağlık bakanlığına duyurmak için açtıkları hastag..<br/><br/>#pratisyenhekimlermagdur<br/><br/>açıklamak gerekirse , 25.09.2016 pazar günü tus (tıp uzmanlık sinavi )var. sınav sadece üç büyük ilde yapilmakta.<br/>bu durumda 15 günlük süremiz en geç 26.09.2016 pazartesi dolmakta.<br/><br/>edirne'den kars'a türkiyenin dört bir yanina seve seve gitmeye hazır olan hekimler sağlık bakanlığından biraz daha süre istemekteler.<br/>zaten memleketimizden uzakta sınava girip , ordan çok daha uzağa gideceğiz ve hepsini ardarda yapmaya çalışsak dahi mesai saatleri süresince işlerimizi halledememe olasılığımız var.<br/><br/>tustan önce gitmeye çalışsak da işe başlamamız gerek ve dünyanin en zor sinavlarindan biri olan tusa harcadığımız emeklerimizi ve umutlarımizı çöpe atmış ve binbir emekle edindiğimiz mesleğimize başlarkenki heyecanımızı da kaybetmiş olacağız<br/><br/>kisacasi doktorlar mağdur ,sağlık bakanlığından mehil süresinin uzatilmasini talep etmeye çalışıyor.<br/>(bkz: <a class="b" href="/?q=%23pratisyenhekimlermagdur">#pratisyenhekimlermagdur</a>)<br/><br/>#pratisyenhekimlermağdur
+    70.dhy sonucu atanan yeni mezun pratisyen hekimlerin, tebligatin 9.9.16 günü açıklanmasindan doğan mağduriyetlerini twiterda dile getirmek ,sesini sağlık bakanlığına duyurmak için açtıkları hastag..<br/><br/>#pratisyenhekimlermagdur<br/><br/>açıklamak gerekirse , 25.09.2016 pazar günü tus (tıp uzmanlık sinavi )var. sınav sadece üç büyük ilde yapilmakta.<br/>bu durumda 15 günlük süremiz en geç 26.09.2016 pazartesi dolmakta.<br/><br/>edirne'den kars'a türkiyenin dört bir yanina seve seve gitmeye hazır olan hekimler sağlık bakanlığından biraz daha süre istemekteler.<br/>zaten memleketimizden uzakta sınava girip , ordan çok daha uzağa gideceğiz ve hepsini ardarda yapmaya çalışsak dahi mesai saatleri süresince işlerimizi halledememe olasılığımız var.<br/><br/>tustan önce gitmeye çalışsak da işe başlamamız gerek ve dünyanin en zor sinavlarindan biri olan tusa harcadığımız emeklerimizi ve umutlarımizı çöpe atmış ve binbir emekle edindiğimiz mesleğimize başlarkenki heyecanımızı da kaybetmiş olacağız<br/><br/>kisacasi doktorlar mağdur ,sağlık bakanlığından mehil süresinin uzatilmasini talep etmeye çalışıyor.<br/>(bkz: <a class="b" href="/?q=%23pratisyenhekimlermagdur">#pratisyenhekimlermagdur</a>)<br/><br/>debe editi: 1.<br/>sağlık bakanı twitter hesabindan mehil süresinin 3 ekime kadar uzatilmasi icin talimat verdiğini duyurmus.<br/>destekleyen herkese teşekkürler.<br/><br/>edit.2.şunlar da mağdur bunlar da edebiyati parçalamaya gerek yok , hepimize yetecek kadar hak var.mağdursak çoksak ya da azsak haklıysak fark etmez , insani koşullarda yaşamayı önce hayal sonra talep etmek hepimizin hakkı.<br/><br/>herkese iyi bayramlar.<br/><br/>#pratisyenhekimlermağdur
    
   entry_writer: heelaoyle
 - entry_name: |
@@ -159,7 +159,7 @@ data:
   entry_id: 62886698
   entry_content: |
     
-    fenerliyim ve başlığı açan arkadaşa aynen katılıyorum...<br/><br/>dün itibariyle belli oldu ki; beşiktaş arena'da puan kaybetmeyecek. hatta; beşiktaş bu sene kolay kolay puan kaybetmeyecek..<br/><br/>çünkü adamlar <a class="b" href="/?q=%c5%9f%c4%b1k%c4%b1r+%c5%9f%c4%b1k%c4%b1r">şıkır şıkır</a> top oynayıp, <a class="b" href="/?q=%c3%a7at%c4%b1r+%c3%a7utur">çatır çutur</a> gol atıyorlar..<br/><br/>sen gel bunu federasyona bağla, sonra <a class="b" href="/?q=be%c5%9fikta%c5%9f+taraftar%c4%b1+tinerci">beşiktaş taraftarı tinerci</a> olsun. yok yaaa!
+     <a class="b" href="/?q=d%c3%bcd%c3%bct">düdüt</a>: tek derdimizin futbol olduğu nice bayramlara..<br/><br/>fenerliyim ve başlığı açan arkadaşa aynen katılıyorum..<br/><br/>dün itibariyle belli oldu ki; beşiktaş arena'da puan kaybetmeyecek. hatta; beşiktaş bu sene kolay kolay puan kaybetmeyecek.<br/>çünkü adamlar <a class="b" href="/?q=%c5%9f%c4%b1k%c4%b1r+%c5%9f%c4%b1k%c4%b1r">şıkır şıkır</a> top oynayıp, <a class="b" href="/?q=%c3%a7at%c4%b1r+%c3%a7utur">çatır çutur</a> gol atıyorlar..<br/><br/>sen gel bunu federasyona bağla, sonra <a class="b" href="/?q=be%c5%9fikta%c5%9f+taraftar%c4%b1+tinerci">beşiktaş taraftarı tinerci</a> olsun. yok yaaa!
    
   entry_writer: tanriya allah diyen cocuk
 - entry_name: |
@@ -288,7 +288,7 @@ data:
   entry_id: 62891479
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=seylann%27%c4%b1n+g%c3%bcnlerdir+ilgi+%c3%a7ekmeye+%c3%a7al%c4%b1%c5%9fmas%c4%b1">seylann'ın günlerdir ilgi çekmeye çalışması</a>)
+    (bkz:  <a class="b" href="/?q=seylann%27%c4%b1n+g%c3%bcnlerdir+ilgi+%c3%a7ekmeye+%c3%a7al%c4%b1%c5%9fmas%c4%b1">seylann'ın günlerdir ilgi çekmeye çalışması</a>)<br/><br/>******<br/><br/>debe düzenlemesi:<br/><br/>bayram olduğu için anlayışınıza sığınarak düzenleme yapıyorum. yazar olan olmayan tüm dostların bayramını en içten dileklerimle kutluyorum. allah ibadet ve dualarınızı kabul etsin inşallah. <br/><br/>inanç sahibi olmayan dostlardan da kurban ibadetini usullere göre gerçekleştirip fakir, fukara, yetim, öksüz, ihtiyaç sahibi vatandaşlarımızı sevindiren inananlara saygı duymasını rica ediyorum unutulmamalıdır ki usulüne göre kurban edilen hayvanlar, dışarda tabağınıza gelmesi için kesilen hayvanlardan çok daha doğru kesiliyor. hepsinizi tüm samimiyetimle saygıyla selamlıyorum. ne olursa olsun önce insanız. hoşgörüye sıkı sıkı sarılalım ne inanmayanın ne de imanlının kötü niyet sahibi cahiline kıymet vermeyelim. <br/><br/>kurban, hayvana zerre zulüm çektirilmediğinde kabul olur. işini bilmeden cahilce yapılan, hayvana acı çektirilen, zulüm edilen ibadet öldürmekten başka bir anlam ifade etmez. merhametsizliğin ve cahilliğin kölesi olup işkence eden herkesi allah'a havale ediyor ve ahirette hesabının sorulacağını bilmelerini istiyorum. unutmayın ki ne et ne kan allah'a ulaşır, allah'a ulaşan tek şey takva, niyettir. <br/><br/>iyi bayramlar.
    
   entry_writer: erdnc88
 - entry_name: |
@@ -344,8 +344,8 @@ data:
   entry_id: 62895375
   entry_content: |
     
-    gelmis agzini yuzunu siktigimin terimsporlulari. fenerin 1 puani var. bizim takim namaglup goturuyor, daha seyirci yuzu gormemis. sizin gibi terim sevdalilari ve medya yuzunden teknik direktorumuz agir baski altinda. ayiptir ulan. sirf adam yabanci diye niye dusmanlik yapiyorsunuz? gidin bursaspor'u filan tutun mk, denge dengeoglu var hem. elinde olsa turkiye'nin sinirina yabanci yaklastirmayacak.
-    
+    gelmis agzini yuzunu sevdigimin terimsporlulari. fenerin 1 puani var. bizim takim namaglup goturuyor, daha seyirci yuzu gormemis. sizin gibi terim sevdalilari ve medya yuzunden teknik direktorumuz agir baski altinda. ayiptir ulan. sirf adam yabanci diye niye dusmanlik yapiyorsunuz? gidin bursaspor'u filan tutun mk, denge dengeoglu var hem. elinde olsa turkiye'nin sinirina yabanci yaklastirmayacak..<br/><br/>edit: debe'ye girince kufur hafifletildi.
+   
   entry_writer: yazdiklarimin hepsi hayal urunudur
 - entry_name: |
     ozan tufan
@@ -388,19 +388,11 @@ data:
    
   entry_writer: sokmenaga
 - entry_name: |
-    asker eşleri maarif takvimine soyunsun
-  entry_id: 62893009
-  entry_content: |
-    
-    aşağılık bir beyan..<br/>zamanın adamları hepiniz yok olacaksınız<br/>go to hell bitch<br/>what is hell
-   
-  entry_writer: squart
-- entry_name: |
     11 eylül 2016 niğde depremi
   entry_id: 62890826
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.iskur.gov.tr/">http://www.iskur.gov.tr/</a>
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.iskur.gov.tr/">http://www.iskur.gov.tr/</a><br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: yazarlık kariyerimin ilk debesini böyle dandik bir entry ile almak çok koydu be sözlük. canınız sağolsun. neyse herkese mutluluk getirecek kadar iyi bir bayramınız olsun.
    
   entry_writer: halit altintop
 ---
