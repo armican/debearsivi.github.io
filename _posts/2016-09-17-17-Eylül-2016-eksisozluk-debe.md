@@ -23,31 +23,31 @@ data:
   entry_id: 62979487
   entry_content: |
     
-    dedene 10 kutu prezervatif hediye edebilirdi ki o konuya hiç girmek istemiyorum.
-    
+    dedene 10 kutu prezervatif hediye edebilirdi ki o konuya hiç girmek istemiyorum..<br/><br/>debe edit: bedavaya adam güldürmüyoruz piçler,aşağıdaki başlıklara bir göz atın,pamuk eller cebe:<br/>(bkz: <a class="b" href="/?q=l%c3%b6semi+hastas%c4%b1+onur%27un+hayalini+ger%c3%a7ekle%c5%9ftiriyoruz">lösemi hastası onur'un hayalini gerçekleştiriyoruz</a>)<br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED" title="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED">https://www.facebook.com/…iniduyun/?hc_ref=newsfeed</a>
+   
   entry_writer: agzinda sigarayla kavga ayiran adam
 - entry_name: |
     atatürk'ün alkole harcadığı para
   entry_id: 62973172
   entry_content: |
     
-    dini bütün, hocaların hocası, cennet mekan erbakan hocanın cukkaladığı kayıp trilyon kadar değildir. memleket amerika'nın arka bahçesine dönmüşken cihat yapacağız diye çalınan paralarla malum belediyecileri yetiştirip sonra onları ülkenin karanlık geleceğine salmamıştır.
-    
+    dini bütün, hocaların hocası, cennet mekan erbakan hocanın cukkaladığı kayıp trilyon kadar değildir. memleket amerika'nın arka bahçesine dönmüşken cihat yapacağız diye çalınan paralarla malum belediyecileri yetiştirip sonra onları ülkenin karanlık geleceğine salmamıştır..<br/><br/>debedit: lütfen aşağıdaki başlıklara bir göz atın:<br/><br/>(bkz: <a class="b" href="/?q=l%c3%b6semi+hastas%c4%b1+onur%27un+hayalini+ger%c3%a7ekle%c5%9ftiriyoruz">lösemi hastası onur'un hayalini gerçekleştiriyoruz</a>)<br/><br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED" title="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED">https://www.facebook.com/…iniduyun/?hc_ref=newsfeed</a>
+   
   entry_writer: elitist ornitorenk
 - entry_name: |
     tarık akan'ın ağabeyinin muhabirleri fırçalaması
   entry_id: 62972003
   entry_content: |
     
-    neden haber vermediklerini videoyu izleyince anlayabiliyoruz zaten.
-    
+    neden haber vermediklerini videoyu izleyince anlayabiliyoruz zaten..<br/><br/>debe edit:(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED" title="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED">link.</a>
+   
   entry_writer: nanicklinick
 - entry_name: |
     tarık akan'ın günde 80 tane sigara içmesi
   entry_id: 62978306
   entry_content: |
     
-    tarık akan'ın ölüm sebebidir..<br/><br/>"kirli dünyaya başkaldırıdır."<br/>"berkecan dedem tarla çapalıyor, 85 yıldır da içiyor"<br/>"sigara tek başına ölüm bahanesi olamaz"<br/><br/>sigaraya romantik anlamlar vermek istediğinizin farkındayım, gece sigaralı bir snap'e tav olan kızlar da vardır kabul ediyorum ama lütfen cahil cahil konuşmayın. <br/><br/>"sizin cahilliğinizden tiksiniyorum"<br/><br/>erkeklerdeki akciğer kanserlerinin %90'ı, kadınlardaki akciğer kanserlerinin %80'i sigara ilişkili olup akciğer kanseri tüm kanser türleri içinde en çok ölüme sebep olan türdür. sigara içmek tek başına ve doğrudan bir ölüm sebebidir. içmeyin, eğer içiyorsanız da cahilce propogandasını yapmayın.<br/><br/>sokak cahilleri sizi...
+    tarık akan'ın ölüm sebebidir..<br/><br/>"kirli dünyaya başkaldırıdır."<br/>"berkecan dedem tarla çapalıyor, 85 yıldır da içiyor"<br/>"sigara tek başına ölüm bahanesi olamaz"<br/><br/>sigaraya romantik anlamlar vermek istediğinizin farkındayım, gece sigaralı bir snap'e tav olan kızlar da vardır kabul ediyorum ama lütfen cahil cahil konuşmayın. <br/><br/>"sizin cahilliğinizden tiksiniyorum"<br/><br/>erkeklerdeki akciğer kanserlerinin %90'ı, kadınlardaki akciğer kanserlerinin %80'i sigara ilişkili olup akciğer kanseri tüm kanser türleri içinde en çok ölüme sebep olan türdür. sigara içmek tek başına ve doğrudan bir ölüm sebebidir. içmeyin, eğer içiyorsanız da cahilce propogandasını yapmayın.<br/><br/>sokak cahilleri sizi...<br/><br/>edit: (bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
   entry_writer: de nada
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 62979008
   entry_content: |
     
-    gayet normaldir.  <br/>şöyle check inler görüyorum. abartısız. <br/><br/>---<br/>nihat at nihat's home<br/>nihat at pendik minübüs durakları<br/>nihat at kadıköy rıhtım<br/>nihat at boğa heykeli<br/>nihat at migros (maçtan önce çekirdek aldı)<br/>nihat at ş. saraçoğlu stadyumu<br/>nihat at okul açık tribünü<br/>---<br/><br/>yapılması gereken; nihat at ş. saraçoğlu stadyumu. bu kadar.<br/><br/>adam uyandiginda uyandigi yerde check in yapiyor sonra nerde 2-3 dakikadan fazla durursa orda da check in yapiyor. <br/><br/>bogaz koprusu diye bogaz koprusunun uzeri diye bogaz koprusunun tam ortasi diye im var lan. bi bakin allah askina.
+    gayet normaldir.  <br/>şöyle check inler görüyorum. abartısız. <br/><br/>---<br/>nihat at nihat's home<br/>nihat at pendik minübüs durakları<br/>nihat at kadıköy rıhtım<br/>nihat at boğa heykeli<br/>nihat at migros (maçtan önce çekirdek aldı)<br/>nihat at ş. saraçoğlu stadyumu<br/>nihat at okul açık tribünü<br/>---<br/><br/>yapılması gereken; nihat at ş. saraçoğlu stadyumu. bu kadar.<br/><br/>adam uyandiginda uyandigi yerde check in yapiyor sonra nerde 2-3 dakikadan fazla durursa orda da check in yapiyor. <br/><br/>bogaz koprusu diye bogaz koprusunun uzeri diye bogaz koprusunun tam ortasi diye im var lan. bi bakin allah askina.<br/><br/>debe editi : (bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)
    
   entry_writer: godmother theme
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 62971929
   entry_content: |
     
-    arkadaşına borç para vererek onun nasıl bir orospu çocuğu olduğu bilgisini para ile satın alabilirsin.  <br/>kesin bilgi yayalım.
+    arkadaşına borç para vererek onun nasıl bir orospu çocuğu olduğu bilgisini para ile satın alabilirsin.  <br/>kesin bilgi yayalım.<br/>.<br/>.<br/>.<br/>.<br/>(bkz: <a class="b" href="/?q=o%c4%9fuzcan%27%c4%b1n+sesine+kulak+ver">oğuzcan'ın sesine kulak ver</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED" title="https://www.facebook.com/oguzcaninsesiniduyun/?hc_ref=NEWSFEED">oguzcaninsesiniduyun</a>
    
   entry_writer: kozzy
 - entry_name: |
@@ -127,7 +127,7 @@ data:
   entry_id: 62970248
   entry_content: |
     
-    aralarına dahil olduğum insanlar..<br/><br/>hep aynı starbucks'tan kahve alıyorum ve her seferinde farklı isim veriyorum. baristanın biri bir gün uyandı, "abi sen de her gün farklı isim veriyorsun. anlamadım zannetme :))" dedi. sonra "ismim tonguç tamam haydi madem afişe olduk.." dedim. "o da yalan tabi ama neyse.." dedi. swh. haklı tabi.
+    aralarına dahil olduğum insanlar..<br/><br/>hep aynı starbucks'tan kahve alıyorum ve her seferinde farklı isim veriyorum. baristanın biri bir gün uyandı, "abi sen de her gün farklı isim veriyorsun. anlamadım zannetme :))" dedi. sonra "ismim tonguç tamam haydi madem afişe olduk.." dedim. "o da yalan tabi ama neyse.." dedi. swh. haklı tabi.<br/><br/>d.e.: buraya reklam alınır. swh.
    
   entry_writer: noluyoo lan burda
 - entry_name: |
@@ -151,7 +151,7 @@ data:
   entry_id: 62982379
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="http://img7.mynet.com.tr/ha8/2016/05/milliprim1.jpg" title="http://img7.mynet.com.tr/ha8/2016/05/milliprim1.jpg">utanç tablosu</a><br/><br/>mesele anladığımız kadarıyla şu; bazı oyunculara <a class="b" href="/?q=500+bin">500 bin</a>'in altında prim veriliyor ve bu futbolcular arıza çıkarıyor, <a class="b" href="/?q=arda">arda</a>'da bu topcuların sözcülüğünü yapıyor, <a class="b" href="/?q=fatih+terim">fatih terim</a>'e tepki gösteriyor, hocam geceleri rahat uyuyormusun falan filan diyip fatih hoca nezdinde haddini aşıyor. arda, <a class="b" href="/?q=y%c4%b1ld%c4%b1r%c4%b1m+demir%c3%b6ren">yıldırım demirören</a>'e gidiyor, iş büyüyor vs., ve bunlar turnuvadayken yaşanıyor, cepheleşme oluyor, bu futbolcular <a class="b" href="/?q=fatih+terim">fatih terim</a>'e cephe alıyor, <a class="b" href="/?q=fatih+terim">fatih terim</a> de karşılık veriyor.<br/><br/>yukarıda ki tabloyu gören bir tc vatandaşının tepki göstermesi kadar daha dogal ne olabilir. peki sadece futbolcuları mı suçluyoruz.<br/><br/>prim kaldırılmalı, kimse <a class="b" href="/?q=milliyet%c3%a7ilik">milliyetçilik</a>ten bahsetmesin, turnuvanın en çok prim alan takımı türkiye'mi yoksa tek kuruş almayan <a class="b" href="/?q=italyan">italyan</a>lar mı daha milli duygularla oynuyor gibi göründü size? ya da kırmızı beyaz için oynamak turnuvanın en yüksek primini almayı mı gerektirir ve daha sonra rakamları problem etmeyi? italyanlar milliyetçilikten, bayraktan, milli duygulardan bahsedebilir, siz edemezsiniz, o hakkı kaybettiniz, öyle bir hakkınız yok sizin.<br/><br/><a class="b" href="/?q=edit+ve+not">edit ve not</a>: bu ülkenin insanları futbolu, siyasetin de kişilerin de onunde tutar. milli takimi önemser, milli takım oyuncusu "milli takım oyuncusu" gibi oynasın, sahada herseyini versin ister, bunu goremezse çok kızar, futbolcu mütavazi olsun ister(sadece futbolcu degil toplum onunde ki bütün kişilerden bunu talep eder), kibirden hoşlanmaz, alcakgonulluluk ister, bunları bulamazsa çok gıcıklanır, futbolcuya hatasını işaret etmek icin tepki gösterdiginde futbolcu hatasını kabul etsin ister, yenilgiyi de sevmez, çünkü çok önemser(bu ülke de, milli takım hocasının bir amigo tarafından kafa yemişliği bile vardır) ve yenilgiyle birlikte futbolcunun kendisi gibi onemsedigini hatta önceliğinin bu olmadıgını düşünürse, isterse feriştah, isterse messi olsun olsun yıkar geçer. hele milli takım da para icin oynamadılar muhabbeti çileden çıkarır, büyük antipati duyar, çünku o oyle görmemiş oyle ogretilmemistir. bütün mevzu budur.
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://img7.mynet.com.tr/ha8/2016/05/milliprim1.jpg" title="http://img7.mynet.com.tr/ha8/2016/05/milliprim1.jpg">utanç tablosu</a><br/><br/>mesele anladığımız kadarıyla şu; bazı oyunculara <a class="b" href="/?q=500+bin">500 bin</a>'in altında prim veriliyor ve bu futbolcular arıza çıkarıyor, <a class="b" href="/?q=arda">arda</a>'da bu topcuların sözcülüğünü yapıyor, <a class="b" href="/?q=fatih+terim">fatih terim</a>'e tepki gösteriyor, hocam geceleri rahat uyuyormusun falan filan diyip fatih hoca nezdinde haddini aşıyor. arda, <a class="b" href="/?q=y%c4%b1ld%c4%b1r%c4%b1m+demir%c3%b6ren">yıldırım demirören</a>'e gidiyor, iş büyüyor vs., ve bunlar turnuvadayken yaşanıyor, cepheleşme oluyor, bu futbolcular <a class="b" href="/?q=fatih+terim">fatih terim</a>'e cephe alıyor, <a class="b" href="/?q=fatih+terim">fatih terim</a> de karşılık veriyor.<br/><br/>yukarıda ki tabloyu gören bir t.c. vatandaşının tepki göstermesi kadar daha dogal ne olabilir. peki sadece futbolcuları mı suçluyoruz.<br/><br/>prim kaldırılmalı, kimse <a class="b" href="/?q=milliyet%c3%a7ilik">milliyetçilik</a>ten bahsetmesin, turnuvanın en çok prim alan takımı türkiye'mi yoksa tek kuruş almayan <a class="b" href="/?q=italyan">italyan</a>lar mı daha milli duygularla oynuyor gibi göründü size? ya da kırmızı beyaz için oynamak turnuvanın en yüksek primini almayı mı gerektirir ve daha sonra rakamları problem etmeyi? italyanlar milliyetçilikten, bayraktan, milli duygulardan bahsedebilir, siz edemezsiniz, o hakkı kaybettiniz, öyle bir hakkınız yok sizin.<br/><br/><a class="b" href="/?q=edit+ve+not">edit ve not</a>: bu ülkenin insanları futbolu, siyasetin de kişilerin de onunde tutar. milli takimi önemser, milli takım oyuncusu "milli takım oyuncusu" gibi oynasın, sahada herseyini versin ister, bunu goremezse hiddetlenir, futbolcu mütavazi olsun ister(sadece futbolcu degil toplum onunde ki bütün kişilerden bunu talep eder), kibirden hoşlanmaz, alcakgonulluluk ister, bunları bulamazsa çok gıcıklanır, futbolcuya hatasını işaret etmek icin tepki gösterdiginde futbolcunun karşılık vermesini degil hatasını kabul etmesini ister(ailelerin karistirildigi, sınırı asan,haksız ve abartılı tepkilerden bahsetmiyorum tabi) hata veya yenilgi sonrası mahcubiyet bekler .yenilgi canini acıtır, çünkü çok önemser(hatta bazen delirir, aşırıya kaçar, bu ülke de, milli takım hocasının bir amigo tarafından mac çıkışı kafa yemişliği bile vardır) ve futbolcunun kendisinin önemsediği kadar onemsemedigini, hatta önceliğinin bu olmadıgını düşünürse, ister feriştah, isterse messi olsun olsun yıkar geçer. hele milli takım da para muhabbetinin geçmesi çileden çıkarır, büyük antipati duyar, çünku o oyle görmemiş oyle ogretilmemistir. bütün mevzu budur. eskiden kulüplere faks çekerlermiş şu şu oyuncu milli takıma alınmıştır diye, <a class="b" href="/?q=ibrahim+%c3%bcz%c3%bclmez">ibrahim üzülmez</a> o faksları saklarmış, üstümü başımı yırtar giderim ben diyordu . bütün mütavaziliğiyle sahaya çıktığında da kolu bacağı orada bırakabileceğini görebilirdiniz. ibo gibi deli olmanıza gerek yok, biraz biraz benzemeniz bekleniyor sadece.
    
   entry_writer: bbsbaq
 - entry_name: |
@@ -175,7 +175,7 @@ data:
   entry_id: 62970599
   entry_content: |
     
-    ilk izlediğimde çok sevdiğim  <a class="b" href="/?q=adana+k%c3%bcf%c3%bcrleri">adana küfürleri</a>nin hepsini ettim. sonra şortumu giyip sahilde koştum, laik laik esti, iyi geldi. omurilik soğanı gelişmemiş 25 iqluların, bok gibi bir hayat sürüp geberdikten sonra var olmayan bir yerde o şortlu kadın gibi kadınlarla ödüllendirme hayalleri uğruna kimimiz şort giydiğimiz için tekmeleniyor, kimimiz onlar hür iradeleriyle aç dururken sigara içtiğimiz için dayak yiyor, kimimiz havalimanında patlayan bombayla ölüyoruz. kimimiz öldükten sonra, yaşarken çöpümüzü emanet etmeyeceğimiz, suratına tükürmeyeceğimiz tipler arkamızdan ağız ayırıp "o cehenneme gidecek ama ben cenne...ağğrghh içkiler, karılağğğrgghhh" diyor. birilerinin zekası düşünmeye, muhakeme yeteneğine meyyal değil diye bizim hayatlarımız kararıyor. <br/>kadınlar, siz yine de enseyi karartmayın, sakın böyle olaylardan dolayı da istediğinizi giymekten vazgeçmeyin. kutsal olan tek şey sizin o şortu giyerek kamusal alanda güvende ve mutlu olmanız, kendinizi asla sizden aşağıların, çöp genlilerin kafalarında yaşattıkları kokuşuk mitlere göre sınırlamayın, cehalete ve sapıklığa çanak tutmayın. <br/><br/>bu vesileyle, bu dünyadan geçmiş en büyük insan atam'a neler borçluyuz, ülkenin ortadoğululuk çukuruna döne döne yuvarlandığı, araplık batağına saplandığı şu devirde her saat başı kendisine minnettar olacak yeni bir şey buluyorum, hayretler içinde kalıyorum.<br/><br/>ek: muhakkak kas gücünüzü artırmanızı, bir savunma sanatı öğrenmenizi tavsiye ederim. hangi cahil köpek giyiminiz hakkında fiziksel ya da sözlü saldırıda bulunmaya cüret ederse karşılığını verin. aman yaşlı, aman cahil, aman kadın demeden karşılığını verin. tecrübeyle sabit, çok mutlu hissettiriyor.
+    ilk izlediğimde çok sevdiğim  <a class="b" href="/?q=adana+k%c3%bcf%c3%bcrleri">adana küfürleri</a>nin hepsini ettim. sonra şortumu giyip sahilde koştum, laik laik esti, iyi geldi. omurilik soğanı gelişmemiş 25 iqluların, bok gibi bir hayat sürüp geberdikten sonra var olmayan bir yerde o şortlu kadın gibi kadınlarla ödüllendirme hayalleri uğruna kimimiz şort giydiğimiz için tekmeleniyor, kimimiz onlar hür iradeleriyle aç dururken sigara içtiğimiz için dayak yiyor, kimimiz havalimanında patlayan bombayla ölüyoruz. kimimiz öldükten sonra, yaşarken çöpümüzü emanet etmeyeceğimiz, suratına tükürmeyeceğimiz tipler arkamızdan ağız ayırıp "o cehenneme gidecek ama ben cenne...ağğrghh içkiler, karılağğğrgghhh" diyor. birilerinin zekası düşünmeye, muhakeme yeteneğine meyyal değil diye bizim hayatlarımız kararıyor. <br/>kadınlar, siz yine de enseyi karartmayın, sakın böyle olaylardan dolayı da istediğinizi giymekten vazgeçmeyin. kutsal olan tek şey sizin o şortu giyerek kamusal alanda güvende ve mutlu olmanız, kendinizi asla sizden aşağıların, çöp genlilerin kafalarında yaşattıkları kokuşuk mitlere göre sınırlamayın, cehalete ve sapıklığa çanak tutmayın. <br/><br/>bu vesileyle, bu dünyadan geçmiş en büyük insan atam'a neler borçluyuz, ülkenin ortadoğululuk çukuruna döne döne yuvarlandığı, araplık batağına saplandığı şu devirde her saat başı kendisine minnettar olacak yeni bir şey buluyorum, hayretler içinde kalıyorum.<br/><br/>ek: muhakkak kas gücünüzü artırmanızı, bir savunma sanatı öğrenmenizi tavsiye ederim. hangi cahil köpek giyiminiz hakkında fiziksel ya da sözlü saldırıda bulunmaya cüret ederse karşılığını verin. aman yaşlı, aman cahil, aman kadın demeden karşılığını verin. tecrübeyle sabit, çok mutlu hissettiriyor.<br/><br/>ek: 2016 yılında hala aklını melekle, şeytanla yiyenlere <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=1LXuNpF6NVg" title="https://www.youtube.com/watch?v=1LXuNpF6NVg">hayırlı ölümler</a> diliyorum.
    
   entry_writer: isolde
 - entry_name: |
@@ -183,7 +183,7 @@ data:
   entry_id: 62976430
   entry_content: |
     
-    vinc dusmesi sebebiyle olen yuzlerce haci adayi da dindar degildi galiba dedigim troll sicmigi! sene gecen sene. yer  <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/KPq9u7HKaCY" title="https://youtu.be/KPq9u7HKaCY">kabe</a>.<br/><br/>cihad kafasiyla kilictan gecirilen gayri muslimleri, hacli ordularinin kadin cocuk demeden olurdugu dindar olmayanlari da katsaydin da tam sivamis olsaydin.
+    vinc dusmesi sebebiyle olen yuzlerce haci adayi da dindar degildi galiba dedigim troll sicmigi! sene gecen sene. yer  <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/KPq9u7HKaCY" title="https://youtu.be/KPq9u7HKaCY">kabe</a>.<br/><br/>cihad kafasiyla kilictan gecirilen gayri muslimleri, hacli ordularinin kadin cocuk demeden olurdugu dindar olmayanlari da katsaydin da tam sivamis olsaydin.<br/><br/>debedit: basligi acan kaybolmus. malin tekiydi zaten.
    
   entry_writer: met mo
 - entry_name: |
@@ -307,7 +307,7 @@ data:
    
   entry_writer: senin pezevenk enisten
 - entry_name: |
-    beşiktaş galatasaray maçı bilet ücretleri
+    beşiktaş galatasaray maçı bilet fiyatları
   entry_id: 62975430
   entry_content: |
     
@@ -335,8 +335,8 @@ data:
   entry_id: 62983225
   entry_content: |
     
-    her şey dahil otel birası.
-    
+    her şey dahil otel birası..<br/><br/>debe editi: trabzonspor'un 2010-2011 sezonunda şampiyonluğu çalınmış ve o sezonla ilgili tüm pisliklerin ortaya dökülmesine rağmen bu kulübe hakkının iade edilmemesi için tff'si, medyası, siyaseti hepsi bir olmuştur. hakkımızı helal etmiyoruz!
+   
   entry_writer: heil titsler
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
@@ -359,8 +359,8 @@ data:
   entry_id: 62976228
   entry_content: |
     
-    acaba ingilizlerde türkçe dövme yaptırıyormu ?
-    
+    acaba ingilizler de türkçe dövme yaptırıyor mu ??<br/><br/>edit: imla
+   
   entry_writer: slaves
 - entry_name: |
     dick advocaat
