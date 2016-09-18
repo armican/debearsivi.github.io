@@ -15,7 +15,7 @@ data:
   entry_id: 62987311
   entry_content: |
     
-    atanabilmek için meslektaşlarını terörist ilan ederek işten atılmalarını bekleyen öğretmen adaylarının olduğunu öğrendiğimiz, toplumda çürüyecek yer kalmadığını gösteren iade edilmedir.  <br/><br/>işsizliğinizin nedeni işçiler/memurlar değil istihdam/eğitim politikaları kıymetli akbabalar.<br/><br/>düzeltme: yazım
+    atanabilmek için meslektaşlarını terörist ilan ederek işten atılmalarını bekleyen öğretmen adaylarının olduğunu öğrendiğimiz, toplumda çürüyecek yer kalmadığını gösteren iade edilmedir.  <br/><br/>işsizliğinizin nedeni işçiler/memurlar değil istihdam/eğitim politikaları kıymetli akbabalar.<br/><br/>debe eklemesi: <a class="b" href="/?q=l%c3%b6semi+hastas%c4%b1+onur%27un+hayalini+ger%c3%a7ekle%c5%9ftiriyoruz">lösemi hastası onur'un hayalini gerçekleştiriyoruz</a><br/><br/>selçuk inan'la tanışmayı hayal eden lösemi hastalığı ile mücadele eden çok genç bir insanın bu dileği gerçek olsun. <a class="b" href="/?q=on+uc+dalda+muhtar+adayi">on uc dalda muhtar adayi</a>ile iletişime geçilebilir.
    
   entry_writer: delirirken
 - entry_name: |
@@ -35,7 +35,7 @@ data:
    
   entry_writer: methamphetamine
 - entry_name: |
-    pegasus hava yollarına ait uçakta doğuran kadın
+    pegasus hava yolları'na ait uçakta doğuran kadın
   entry_id: 62994157
   entry_content: |
     
@@ -87,7 +87,7 @@ data:
   entry_id: 62987498
   entry_content: |
     
-    ilk izlediğimde siyah beyaz tv'miz vardı. bu da 1982 ya da öncesi demek oluyor. arada tv'de denk gelmişimdir ama ilk defa otuz küsur yıl sonra bugün tarık akan'ın anısına tekrar baştan sona izledim. farklı olarak youtube üstünden chromecast ile lcd tv'ye cast ederek.  <br/><br/>beni en çok şaşırtan filmin basbaya 18+ olması oldu. sürekli halit akçatepe'nin porno dergi arşiviyle yüzleşiyoruz. küfür de var. baya kör gözüne parmağım eşcinsel ilişki esprisi bile var. bir yerde çocuk abisini mastürbasyon yaparken basıyor. küçükken izlediğimde hem trt sansürü hem çocuk kafasından filmin %30'unu kaçırmışım.<br/><br/>kırk yılda dil baya eskimiş. filmde "zıbar", "metelik", "gırgır" gibi çok uzun zamandır duymadığım kelimeleri duydum. eskiden bunların günlük dilde çok kullanıldığını bildiğimden kaybolmalarını fark etmek ilginç geldi. aynı şekilde çocukların sokakta misket oynaması da bana çok doğal geliyor ama bugün bir çocuğa bir şey ifade ediyor mu bilmiyorum. var mı bu oyunlar sahi? çocuklar gerekli bilgiyi versin.<br/><br/>"bugün artık hastane koridorlarında kuyruklar yok" denen kuyruklara kısmen bu filmde şahit olabiliyoruz. filmdeki hali tenha bile sayılır. benim çocukluğumda baya belediye otobüsü içi gibi dolu olurdu hastane koridorları. nefes alınamazdı.<br/><br/>kadro efsaneymiş! ben halit akçatepe ve tarık akan dışındakilere dikkat etmemiştim. adile naşit, kemal sunal, metin akpınar başta olmak üzere sürüyle tanıdık oyuncu var. eski izlediğim zamandan hiçbirini hatırlamıyorum. hatta çocukların babaları olduğunu bile unutmuşum. ancak aralarında en iyi kast bence kahraman'ın "ölücem" demesi üzerine misketlerine çöreklenen çocuk. oyunculuğu dublajı falan da iyi tutmuş.<br/><br/>yönetmenlik ve kurgu özellikle dönemine göre iyi. izlerken mekan değişimlerinde oradaki kalabalıktan 4-5 sahne göstermesi acaba ertem eğilmez'e özel bir imza mı yoksa çok bilindik bir sinema tekniği mi merak ettim. film baştan sona sıkılmadan izleniyor. film üzüntü vaadediyordu ve bunu verdi.<br/><br/>senaryo şaşırtıcı derecede modern geldi bana. hatta aynı senaryoyu coen brothers çekse oscar alır. net olarak iyi ya da kötü olarak tanımlanamayacak karakterlerle geçen, mutsuz ve eksik kalmışlık hissiyle uğurlayan bir film. klasik coen.<br/><br/>tarık akan'ın her sigara içtiği sahnede akciğer kanserinden ölmesini hatırlamadan da olmuyor. sigarayı bırakın. <br/><br/>-son- arzu film
+    ilk izlediğimde siyah beyaz tv'miz vardı. bu da 1982 ya da öncesi demek oluyor. arada tv'de denk gelmişimdir ama ilk defa otuz küsur yıl sonra bugün tarık akan'ın anısına tekrar baştan sona izledim. farklı olarak youtube üstünden chromecast ile lcd tv'ye cast ederek.  <br/><br/>beni en çok şaşırtan filmin basbaya 18+ olması oldu. sürekli halit akçatepe'nin porno dergi arşiviyle yüzleşiyoruz. küfür de var. baya kör gözüne parmağım eşcinsel ilişki esprisi bile var. bir yerde çocuk abisini mastürbasyon yaparken basıyor. küçükken izlediğimde hem trt sansürü hem çocuk kafasından filmin %30'unu kaçırmışım.<br/><br/>kırk yılda dil baya eskimiş. filmde "zıbar", "metelik", "gırgır" gibi çok uzun zamandır duymadığım kelimeleri duydum. eskiden bunların günlük dilde çok kullanıldığını bildiğimden kaybolmalarını fark etmek ilginç geldi. aynı şekilde çocukların sokakta misket oynaması da bana çok doğal geliyor ama bugün bir çocuğa bir şey ifade ediyor mu bilmiyorum. var mı bu oyunlar sahi? çocuklar gerekli bilgiyi versin. (edit: bir ebeveynden rapor geldi, çocuğu sokakta diğer çocuklarla çamur toprak içinde misket oynuyormuş. hala varlar)<br/><br/>"bugün artık hastane koridorlarında kuyruklar yok" denen kuyruklara kısmen bu filmde şahit olabiliyoruz. filmdeki hali tenha bile sayılır. benim çocukluğumda baya belediye otobüsü içi gibi dolu olurdu hastane koridorları. nefes alınamazdı.<br/><br/>kadro efsaneymiş! ben halit akçatepe ve tarık akan dışındakilere dikkat etmemiştim. adile naşit, kemal sunal, metin akpınar başta olmak üzere sürüyle tanıdık oyuncu var. eski izlediğim zamandan hiçbirini hatırlamıyorum. hatta çocukların babaları olduğunu bile unutmuşum. ancak aralarında en iyi kast bence kahraman'ın "ölücem" demesi üzerine misketlerine çöreklenen çocuk. oyunculuğu dublajı falan da iyi tutmuş.<br/><br/>yönetmenlik ve kurgu özellikle dönemine göre iyi. izlerken mekan değişimlerinde oradaki kalabalıktan 4-5 sahne göstermesi acaba ertem eğilmez'e özel bir imza mı yoksa çok bilindik bir sinema tekniği mi merak ettim. film baştan sona sıkılmadan izleniyor. film üzüntü vaadediyordu ve bunu verdi.<br/><br/>senaryo şaşırtıcı derecede modern geldi bana. hatta aynı senaryoyu coen brothers çekse oscar alır. net olarak iyi ya da kötü olarak tanımlanamayacak karakterlerle geçen, mutsuz ve eksik kalmışlık hissiyle uğurlayan bir film. klasik coen.<br/><br/>tarık akan'ın her sigara içtiği sahnede akciğer kanserinden ölmesini hatırlamadan da olmuyor. sigarayı bırakın. <br/><br/>-son- arzu film
    
   entry_writer: ssg
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 62997895
   entry_content: |
     
-    sneijder'in 100. maçı. en son fi tarihinde gol atmış. bırak atsın..<br/>eren mükemmel oynamış. hat-trick yapacak adam, bırak atsın.<br/>bruma. çocuk ağzıyla istedi, yoktan var etti penaltıyı. bırak atsın.<br/><br/>ama yoook, bi penaltı golüyle gözümüzü boyayacak aklı sıra. senin yapacağın işi sikeyim. nefret ettirene kadar uğraştın ya, ben sana ne diyim amk. geldiğin gün tavana kadar zıplamıştım lan sevinçten. siktir git.
+    sneijder'in 100. maçı. en son fi tarihinde gol atmış. bırak atsın..<br/>eren mükemmel oynamış. hat-trick yapacak adam, bırak atsın.<br/>bruma. çocuk ağzıyla istedi, yoktan var etti penaltıyı. bırak atsın.<br/><br/>ama yoook, bi penaltı golüyle gözümüzü boyayacak aklı sıra. senin yapacağın işi seveyim. nefret ettirene kadar uğraştın ya, ben sana ne diyim. geldiğin gün tavana kadar zıplamıştım lan sevinçten. git artık.<br/><br/>edit: uyarı üzerine küfürler silindi.
    
   entry_writer: evangelos
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 62992962
   entry_content: |
     
-    dün gece başıma geldiğini düşündüğüm şey....<br/><br/>yani emin değilim... <br/><br/>sabah kalktım, yatak da bomboştu...<br/><br/>rüya gördüm sanırım ya da...<br/><br/>nasıl bir etkisiz eleman hatunsa artık...
+    dün gece başıma geldiğini düşündüğüm şey....<br/><br/>yani emin değilim... <br/><br/>sabah kalktım, yatak da bomboştu...<br/><br/>rüya gördüm sanırım ya da...<br/><br/>nasıl bir etkisiz eleman hatunsa artık...<br/><br/>edit: bu salak entry nasıl debe'ye girmiş ben de şaşırdım.
    
   entry_writer: potter harry
 - entry_name: |
@@ -223,7 +223,7 @@ data:
   entry_id: 62996226
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1N6yl5.jpg">http://i.hizliresim.com/1n6yl5.jpg</a><br/><br/>yakamozunun da harika olmasına sebep olmuştur.<br/><br/>edit: gelen bisürü mesaj üzerine yakamoz değilmiş o ama ne anlamadım. bu manzarada kafa iyi değil ki!!
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1N6yl5.jpg">http://i.hizliresim.com/1n6yl5.jpg</a><br/><br/>mehtabın da harika olmasına sebep olmuştur.
    
   entry_writer: pupuli
 - entry_name: |
@@ -339,7 +339,7 @@ data:
    
   entry_writer: pul
 - entry_name: |
-    16 eylül 2016 izmirde kadına şiddet rezaleti
+    16 eylül 2016 izmir'de kadına şiddet rezaleti
   entry_id: 62994152
   entry_content: |
     
