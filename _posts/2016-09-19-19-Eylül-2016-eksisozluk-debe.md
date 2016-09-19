@@ -15,7 +15,7 @@ data:
   entry_id: 63007352
   entry_content: |
     
-    bu ülkenin çok güzel bir özetidir.  <br/><br/>hay ırmağının akışını skeyim ya.
+    bu ülkenin çok güzel bir özetidir.  <br/><br/>hay ırmağının akışını skeyim ya.<br/><br/>edit: memlekette ırmak çok.<br/><br/><a class="b" href="/?q=%23neriman%c3%b6%c4%9fretmenesesol">#nerimanöğretmenesesol</a>
    
   entry_writer: 73mm pena
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 63007903
   entry_content: |
     
-    oradaydım belgeseli'nde 'yol' filmi altın palmiye ödülü aldığında, yurt dışı yasağı nedeniyle ödül törenini televizyondan izlerken yaşadıklarını anlattığı şu cümlesi o kadar güzeldir ki::<br/><br/>''ve o gün, ödül aldığı zaman yılmaz abi cannes'da. benim zaten yurt dışı çıkış yasağım var, şerif'in öyle. zeki ökten, şerif gören, ben, atıf yılmaz, ali özgentürk... beyoğlu'nun arka tarafında bir kebapçıda, yılmaz abi orada ödülü kaldırırken, biz de rakılarımızı havaya kaldırıyorduk.''
+    oradaydım belgeseli'nde 'yol' filmi altın palmiye ödülü aldığında, yurt dışı yasağı nedeniyle ödül töreni esnasında yaşadıklarını anlattığı şu cümlesi o kadar güzeldir ki::<br/><br/>''ve o gün, ödül aldığı zaman yılmaz abi cannes'da. benim zaten yurt dışı çıkış yasağım var, şerif'in öyle. zeki ökten, şerif gören, ben, atıf yılmaz, ali özgentürk... beyoğlu'nun arka tarafında bir kebapçıda, yılmaz abi orada ödülü kaldırırken, biz de rakılarımızı havaya kaldırıyorduk.''<br/><br/>debe editi: <a class="b" href="/entry/63020086">#63020086</a><br/>#nerimanogretmenesesol
    
   entry_writer: bana siir yazdirtma bana cay demlet
 - entry_name: |
@@ -47,8 +47,8 @@ data:
   entry_id: 63013377
   entry_content: |
     
-    15 temmuz'da görevde olsaydı facetime'da titreyerek "beni seven meydanlara çıksın" demezdi, çünkü 15 temmuz'da bu kalkışmayı gerçekleştiren adamların hepsinin tsk ile ilişiği önceden kesilmiş olurdu.
-    
+    15 temmuz'da görevde olsaydı facetime'da titreyerek "beni seven meydanlara çıksın" demezdi, çünkü 15 temmuz'da bu kalkışmayı gerçekleştiren adamların hepsinin tsk ile ilişiği önceden kesilmiş olurdu..<br/><br/>---<br/><a class="b" href="/?q=%23neriman%c3%b6%c4%9fretmenesesol">#nerimanöğretmenesesol</a>
+   
   entry_writer: victor von doom
 - entry_name: |
     abdullah çakıroğlu'nun tekrar gözaltına alınması
@@ -67,19 +67,11 @@ data:
    
   entry_writer: such a lonely day
 - entry_name: |
-    abdullah çakıroğlu
-  entry_id: 63003958
-  entry_content: |
-    
-    öncelikle şunu ekleyeyim, serbest bırakılmış.  <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/G3mm9N.jpg" title="http://i.hizliresim.com/G3mm9N.jpg">şunu</a> hatırlamakta fayda var. <br/><br/>"bekar ve ailesiyle yaşadığı öğrenilen abdullah ç'nin için "manik depresif" teşhisi konulduğu, ancak tedavi olmak için sevk edildiği hastaneye gitmediği iddia edildi."<br/><br/>sokak bu tip hastalarla dolu. menzil gibi bir oluşumda huzur bulan kişiler incelense yarısı böyle hasta çıkar. çok net. <br/><br/>atatürk 1925'te bu tiplerin leş ve kokuşmuş zihniyetini fark edip engel olurken bilgi çağında "diğer cemaatler merak etmesin, onlarla aramız iyi keh keh keh" tarzında açıklamalar yapan kişiler yöneticilik yapmaya devam ettiği sürece bunun gibi beyni çürümüş zihniyet insanları zehirlemeye devam edecektir.
-   
-  entry_writer: este noyan
-- entry_name: |
     bakire olmayan kadın paketi açılmış puding gibidir
   entry_id: 63008598
   entry_content: |
     
-    aslında metnin tamamı şöyle::<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>marketten puding alırken bile adamlar koca koca yazıyorlar "açılmış, kullanılmış ve tahrip olmuş ürünleri almayınız." diye. şimdi bana "lan pezevenk karı mı alıyorsun, puding mi?" diyenlere siktiri çekiyorum. hadi eyvallah. onun bunun altına yatmış kadınla işim olmaz. zevkime bakar, sıkılınca sepetlerim.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yazarı ise <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/prince-legolas" title="https://eksisozluk.com/biri/prince-legolas">prince legolas</a> nickli bir bok. evet yazar değil, "bok". benim nick altıma yazdığı üzre ben de küfürbaz bir yazarım. tabi kendisi, kendisini insan gibi uyaranlara siktiri çekerken, milletin karısına namusuna laf ederken efendi, terbiyeli aile çocuğu.<br/><br/>konu özetle şu: (bkz: <a class="b" href="/?q=bakire+olmayan+hatunla+evlenmek">bakire olmayan hatunla evlenmek</a>) başlığına, "bunlarla evlenenler gavattır" diyen karakteri bozuk, haysiyetsiz, arsızlara genel olarak her zamanki gibi küfür ettim.<br/><br/>bu egen arkadaş bu küfrün üzerine yukarıdaki cümleleri kaleme almış bir de nick altıma "küfürbaz bir yazar engelle geç" yazmış. bunlar hiç önemli değil, umrumda da değil.<br/><br/>ancak bu orospu çocuğu kardeşimiz üşenmeden bir de bana mesaj atıyor: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/MkVD9N.png">http://i.hizliresim.com/mkvd9n.png</a> eşimin benim namusum, arkadaşın götünün derdi olmuş görüldüğü üzre.<br/><br/>gerçi sadece benimki değil tüm sözlük yazarlarının namus, aile, birliktelik kavramları bu ve bunun gibi şerefsiz piçlerin derdi olmuş.<br/><br/>tabi ki bu yavşağa özel mesajdan bir cevap vermedim. ancak bu ve bunun gibi kahvede konuşsa cinayet çıkaracak, milletin ailesine namusuna laf eden sivilceli piçlere toplu olarak burdan seslenmek istiyorum:<br/><br/>sizin namus kavramınızı, sizin haysiyetinizi, sizin onurunuzu sikeyim.<br/><br/>saygılar.
+    aslında metnin tamamı şöyle::<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>marketten puding alırken bile adamlar koca koca yazıyorlar "açılmış, kullanılmış ve tahrip olmuş ürünleri almayınız." diye. şimdi bana "lan pezevenk karı mı alıyorsun, puding mi?" diyenlere siktiri çekiyorum. hadi eyvallah. onun bunun altına yatmış kadınla işim olmaz. zevkime bakar, sıkılınca sepetlerim.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yazarı ise <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/prince-legolas" title="https://eksisozluk.com/biri/prince-legolas">prince legolas</a> nickli bir bok. evet yazar değil, "bok". benim nick altıma yazdığı üzre ben de küfürbaz bir yazarım. tabi kendisi, kendisini insan gibi uyaranlara siktiri çekerken, milletin karısına namusuna laf ederken efendi, terbiyeli aile çocuğu.<br/><br/>konu özetle şu: (bkz: <a class="b" href="/?q=bakire+olmayan+hatunla+evlenmek">bakire olmayan hatunla evlenmek</a>) başlığına, "bunlarla evlenenler gavattır" diyen karakteri bozuk, haysiyetsiz, arsızlara genel olarak her zamanki gibi küfür ettim.<br/><br/>bu egen arkadaş bu küfrün üzerine yukarıdaki cümleleri kaleme almış bir de nick altıma "küfürbaz bir yazar engelle geç" yazmış. bunlar hiç önemli değil, umrumda da değil.<br/><br/>ancak bu ** kardeşimiz üşenmeden bir de bana mesaj atıyor: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/MkVD9N.png">http://i.hizliresim.com/mkvd9n.png</a> eşimin benim namusum, arkadaşın götünün derdi olmuş görüldüğü üzre.<br/><br/>gerçi sadece benimki değil tüm sözlük yazarlarının namus, aile, birliktelik kavramları bu ve bunun gibi şerefsiz piçlerin derdi olmuş.<br/><br/>tabi ki bu yavşağa özel mesajdan bir cevap vermedim. ancak bu ve bunun gibi kahvede konuşsa cinayet çıkaracak, milletin ailesine namusuna laf eden sivilceli piçlere toplu olarak burdan seslenmek istiyorum:<br/><br/>sizin namus kavramınızı, sizin haysiyetinizi, sizin onurunuzu sikeyim.<br/><br/>saygılar.<br/><br/>edit: **"orospu çocuğu" küfrü için özür dilerim hepinizden, "kadınları savunurken kadına küfretmek" nedir diyen arkadaşlar tamamen haklı, öfkeyle işte...<br/><br/>edit2: bir çok mesaj atan oldu, birşeyler daha yazıcam o yüzden özelime elimden geldiğince girmeden. bende bekarete önem veren bir ailede yetiştim, ben de bu değerlere önem vererek evlendim. ancak bundan dolayı kendimle gurur duymuyorum, hatta böyle anlamsız şeylere değer verdiğim için kendimden utanıyorum da. aile baskısı ve çocukluktan beri aşılanan şeyler aynı "din" gibi beynini yıkıyor insanların. her nasıl sigara içiyorsam ve bunun yanlış olduğunu biliyorsam aynı mevzu tamamen bu gibi şeylere kafayı takmak.<br/><br/>benim öfkem ise insanların hayatlarını oturduğu sandalyeden azından salyalar saçarak 2sn de paçavra parçası gibi gösteren, milletin namusuna, ailesine rahatça laf edebilen yavşaklara. bir çok arkadaşım var eşi evlenirken bakire olmayan, onların birinin yüzüne söylesin şu "gavat" lafını mesela, versin dişlerini eline, bak bunu çok isterim.<br/><br/>onun dışında burayı okuyan kız arkadaşlarımız, evlilik arifesinde olanlar var ve bu gibi şerefsizler yüzünden canları sıkılyor durduk yere. bence bu kafadaki adamların bir sorası, otobüste kadın tekmeleyen bir sorasıda 8 aylık bebeğe tecavüz edenler. hayatımın hiç bir alanında bu gibi zibidilere geçit vermicem. benimde eşim kızım annem kız kardeşim var çünkü.
    
   entry_writer: marques de pombal
 - entry_name: |
@@ -127,7 +119,7 @@ data:
   entry_id: 63018179
   entry_content: |
     
-    yıllar önce inci sözlükte belirtildiği üzere kesinlikle at arabası. etinden, sütünden ve dahi sikinden faydalanırsın.  <br/><br/>bi bitmediniz.
+    yıllar önce inci sözlükte belirtildiği üzere kesinlikle at arabası. etinden, sütünden ve dahi sikinden faydalanırsın.  <br/><br/>bi bitmediniz.<br/><br/>edit: başlık başa. başlığı açan yazar eminim iyiniyetle açmıştı başlığı fakat sözlüğün forum vari kullanılmasına tepki olarak işbu entry girilmişti. şahsi algılamamasını temenni ediyorum. hayırlı forumlar.
    
   entry_writer: sen simdi bunu baami didin
 - entry_name: |
@@ -143,7 +135,7 @@ data:
   entry_id: 63006827
   entry_content: |
     
-    acaba bunlarda liderlerinin kullandığı tuvalet kağıdına tapıyor mu? merak ettimdee<br/><br/>tanım:amlarına koduğumun din tüccarları
+    acaba bunlarda liderlerinin kullandığı tuvalet kağıdına tapıyor mu? merak ettimdee<br/><br/>edit:ekşi destek ten gelen rica ile hukuka aykırı bulunan,bu ve bunun gibi cemaatlerin nasıl din tüccarlığı yaptığı kısmı sildim ama bilen biliyor zaten
    
   entry_writer: sonnick007
 - entry_name: |
@@ -247,7 +239,7 @@ data:
   entry_id: 63003996
   entry_content: |
     
-    lise 1'e gidiyordum bahcelievler'de, bakirkoy'de istanbul caddesi uzerinden osmanbey tarafina dogru yurudugunuzde ara sokakta bir esnaf lokantasi vardi, yemekleri hem ucuz hem de lezzetli sade basit bir lokanta, cevre esnaf ve dukkanlarda calisanlarin gittigi. biz de bazen bahcelievlerden bakirkoy'e kadar yururduk okul cikisi orada yemek yemek icin.  <br/><br/>birgun kasada hesap oderken tarik akan'i gordum, hatirladigim en belirgin sey adam inanilmaz uzundu, tek basina orada yemek yemis hesabi odeyip ayrilicakti suratsiz kasiyere, belki kasiyer sevmiyordu bu adami siyasi goruslerinden dolayi ( yil 2003 falan bu arada yani bu kadar kutuplasmamistik o zamanlar ) ama o orada yemek yiyordu. <br/><br/>gidip konusmak fotoraf falan cektirmek istesem de yapmadim, ters bir tepki vermezdi tabi ki 14 yasinda bir cocuga ama rahatsiz etmek istedim cunku cok fazla insan rahatsiz ediyordur diye dusundum . <br/><br/>onun disinda facebookta hayran sayfasini takip etmek disinda cok bildigim bir insanda degildir bir donem ekside basligini okumustum , bazen de bazi roprtajlarini islerdim o sayfadan yayinlanan. <br/><br/>olum haberini aldigimda amcami, dayimi kaybetmis gibi uzuldum, hala zaman zaman boyle hissediyorum. <br/><br/>merak ediyorum mesela orhan gencebay'i ya da kadir inanir'i bakirkoyun ara sokaklarinda lise ogrencilerinin gidip yemek yedigi bir lokantada gorurmusunuz. <br/><br/>adnan menderes asilirken bile kimsenin sesi cikmadi bu ulkede, o devran bir gun yine doner elbet bizim de olumlerine sevineceklerimiz var. <br/><br/>ama siz oldugunuzde kimse boyle uzulmeyecek.
+    lise 1'e gidiyordum bahcelievler'de, bakirkoy'de istanbul caddesi uzerinden osmaniye tarafina dogru yurudugunuzde ara sokakta bir esnaf lokantasi vardi, yemekleri hem ucuz hem de lezzetli sade basit bir lokanta, cevre esnaf ve dukkanlarda calisanlarin gittigi. biz de bazen bahcelievlerden bakirkoy'e kadar yururduk okul cikisi orada yemek yemek icin.  <br/><br/>birgun kasada hesap oderken tarik akan'i gordum, hatirladigim en belirgin sey adam inanilmaz uzundu, tek basina orada yemek yemis hesabi odeyip ayrilicakti suratsiz kasiyere, belki kasiyer sevmiyordu bu adami siyasi goruslerinden dolayi ( yil 2003 falan bu arada yani bu kadar kutuplasmamistik o zamanlar ) ama o orada yemek yiyordu. <br/><br/>gidip konusmak fotoraf falan cektirmek istesem de yapmadim, ters bir tepki vermezdi tabi ki 14 yasinda bir cocuga ama rahatsiz etmek istedim cunku cok fazla insan rahatsiz ediyordur diye dusundum . <br/><br/>onun disinda facebookta hayran sayfasini takip etmek disinda cok bildigim bir insanda degildir bir donem ekside basligini okumustum , bazen de bazi roprtajlarini islerdim o sayfadan yayinlanan. <br/><br/>olum haberini aldigimda amcami, dayimi kaybetmis gibi uzuldum, hala zaman zaman boyle hissediyorum. <br/><br/>merak ediyorum mesela orhan gencebay'i ya da kadir inanir'i bakirkoyun ara sokaklarinda lise ogrencilerinin gidip yemek yedigi bir lokantada gorurmusunuz. <br/><br/>adnan menderes asilirken bile kimsenin sesi cikmadi bu ulkede, o devran bir gun yine doner elbet bizim de olumlerine sevineceklerimiz var. <br/><br/>ama siz oldugunuzde kimse boyle uzulmeyecek.<br/><br/>edit : osmanbey yazmisin osmaniye yerine, compay'e tesekkurler.
    
   entry_writer: mustafa sertkaya
 - entry_name: |
@@ -311,7 +303,7 @@ data:
   entry_id: 63016572
   entry_content: |
     
-    kasap: babama selam söyle, oda gideceğin yerde..<br/>kemal sunal: ben ananın olduğu kısma gidiyorum, ona söylerim
+    kasap: babama selam söyle, o da gideceğin yerde..<br/>kemal sunal: ben ananın olduğu kısma gidiyorum, ona söylerim<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=6koOuDKrkcE" title="https://m.youtube.com/watch?v=6koOuDKrkcE">o sahne</a><br/>debe editi: <a class="b" href="/?q=%23neriman%c3%b6%c4%9fretmenesesol">#nerimanöğretmenesesol</a>
    
   entry_writer: superdem
 - entry_name: |
@@ -319,7 +311,7 @@ data:
   entry_id: 63004881
   entry_content: |
     
-    adamın kendisi çakma nick kullanıyor taraftarı maçında çakma pankart açıyor. böylesi çakma adamdan da ancak "haydi el atıver bu entry'i debe'ye sokalım" temalı bir yalan beklenir zaten..<br/><br/>nereden saldıracağını bilemeyen densizlere haddini bildirmekten sıkılmaz umarım.
+    adamın kendisi çakma nick kullanıyor taraftarı maçında çakma pankart açıyor. böylesi çakma adamdan da ancak "haydi el atıver bu entry'i debe'ye sokalım" temalı bir yalan beklenir zaten..<br/><br/>nereden saldıracağını bilemeyen densizlere haddini bildirmekten sıkılmaz umarım.<br/><br/>edit: ben söyledim kanka herkese. ok. let's go.
    
   entry_writer: neither living nor dead
 - entry_name: |
@@ -383,7 +375,7 @@ data:
   entry_id: 63004955
   entry_content: |
     
-    delidumrul köprüsü,  <br/>trafik azaldı mı? yok. <br/>ormanlar tahrip edildi mi? evet.<br/>yol uzadı mı? evet. <br/>süre arttı mı? evet. <br/>ekonomik faydası var mı? yok. <br/>kamu arazileri imara açılıp birileri zengin oldu mu? evet. <br/>vatandaş madur oldu mu? evet. <br/>başka sorum yok hakim bey.<br/>ama yol bahane selfie şahane değil mi?
+    delidumrul köprüsü,  <br/>trafik azaldı mı? yok. <br/>ormanlar tahrip edildi mi? evet.<br/>yol uzadı mı? evet. <br/>süre arttı mı? evet. <br/>ekonomik faydası var mı? yok. <br/>kamu arazileri imara açılıp birileri zengin oldu mu? evet. <br/>vatandaş mağdur oldu mu? evet. <br/>başka sorum yok hakim bey.<br/>ama yol bahane selfie şahane değil mi?<br/><br/>edit: madur @ben smyrna'ya teşekkürler.
    
   entry_writer: akagami shanks
 - entry_name: |
