@@ -1,0 +1,405 @@
+---
+layout: post
+title: 21 Eylül 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    34 tjb 86 plakalı ticari taksi
+  entry_id: 63045188
+  entry_content: |
+    
+    ön edit: az önce misafirimi havalimanına uğurladım. şimdi biraz daha sakin yazabilirim. arkadaşlar kimsenin kellesini falan istemiyoruz. derdimiz sırf bu herifle de değil zaten. bu türkiye'de varolan, her an birimizin yada bir yakınımızın başına gelebilecek bir sorun. hemen hepimizin en az bir tanıdığının basina gelebilecek bi hadise. öte yandan ülkenin imajını da etkileyen bir konu. ülke imajı denince siyasilerin temsilettigi degerlere bakarak "ya imaj mı var zaten" demekle olmuyor. yurtdışında türküm dediğinde insanların hissettiklerini direk etkileyen konular bunlar. daha önce defalarca olduğu gibi ekşi sözlükte gündeme gelmesi halinde belki de sorunun çözümü yönünde atılacak adımlara vesile olacak. yoksa hakkaten masamın üzerinde kelle görme isteğiyle açmadım başlığı. birde hazır gündem olmuşken söyleyeyim: taksim ve sultanahmet civarında turistleri avlamak için bekleyen ikinci bir grup daha var. bunlar genelde yalnız erkek turistlere yanaşıp arkadaşmış gibi sohbet edip "gel bi bira ısmarlayayım sana" diyerek bi yerlere götürüyorlar. gittikleri mekanda daha turist kişi ne olduğunu anlayamadan masa donatılıyor şişelerle. turist hiç birşeye dokunmadan korkup kalmak isteyince de 3000, 5000 artık ne gelirse içlerinden hesap getirip zorla gasp ediyorlar. daha 3 hafta önce hollanda'dadan israil'e fotoğraf çekmek için giden, bu esnada da transit uçuşu için istanbul'da bir gece geçirecek olan 19 yaşında bir çocuğu misafir ettim. akşam sultanahmet meydanında fotoğraf çekerken yine biri yanaşıyor ve bir yere gidiyorlar. hesap geliyor 3000 lira. çocuğun cebindeki taksi parasına kadar alıp kartında ne varsa çekiyorlar. ağlayarak anlattı "bir senedir para biriktiriyordum bu gezi için, şimdi beş parasız kaldım, israilde ne yiyeceğim, anneme babama nasıl anlatacağım" diye. gidemedi tabi israil'e. 6 gün daha benim yanımda kaldı, ben ne yediysem onu yedi, sonra dönüş günü gelince de taksi parasını ben verdim de havalimanına gitti. soyleyemedi ailesine..<br/>şimdi bu çocuğun türkiye'le ilgili duygularını kim değiştirebilir?<br/><br/>15 dakika önce misafirim olan turistleri taksimden sultanahmet'e getirip 74 lira isteyen ***adamın kullandığı taksi.<br/>ayrıca google map e bakacağım ayağına telefonun ekran kilidini öğrenmeye çalışıp telefonu çalmaya yeltendi. misafirin ücreti ödemek için verdiği 200 tl ye karşılık gömlek cebinden çıkardığı sahte 100 tl yi verip kaçmaya çalışırken misafire de çarptı. <br/>rica ediyorum bi el atın da gündem olsun. belki bu ***adamlara ders verecek bir sonuca sebep olur.<br/><br/>edit: öncelikle 10 dakika içinde gündem olacak desteği verdiğiniz için teşekkür ederim. polisi aramam gerektiğinin farkındayım ama misafirim akşam 7 uçağıyla ulkesine dönüyor, birincisi resmi işlemlerle uğraşırken uçağını kaçırmasını istemiyorum. ikincisi bu konuların burada gündem olmadıkça sonuç getirmediğinin zannediyorum hepimiz farkındayız.<br/><br/>edit2: uyarı uzerine küfürler silindi.<br/><br/>edit3: aynı adam muhtemelen taksimde yeni avlarını bekliyor. polislerin taksiyi bulmaları halinde hem taksicinin üzerinden cikacak sahte paralar sayesinde hem de taksimetreyi kontrol ettirip oynanmış olduğunu ispatlamalarıyla taksiciyi suçlayacak yeterli delile ulaşmış olacaklar.<br/><br/>edit4: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/PQ7kMQ.jpg" title="http://i.hizliresim.com/PQ7kMQ.jpg">fotoğraf</a><br/>aynı plakayla birden fazla taksi bile olabilir. doğru taksi bu.<br/><br/>edit5: az önce twitter üzerinden @ibbbeyazmasa ya şu mesajı gönderdim:<br/><br/>"merhaba. bugün ekşi sözlükte gündeme gelen 34 tjb 86 plakalı taksi ile ilgili başlığı ben açtım. konuyla ilgili daha fazla detay verebilirim fakat durumun mağduru olan misafirim bu akşam saat 7 uçağıyla ülkesine gitti. dolayısıyla şahsen şikayetçi olması mümkün değil. ılgili başlıkta da belirttiğim gibi taksinin taksimetresi kontrol edilirse zaten oynanmış olacağı görülebilir. <br/>burdan vereceğiniz cevabı ekşi sözlükteki ilgili yazı da da paylaşacağım. şimdiden ilginiz için teşekkür ederim."<br/><br/>kimlik bilgileri dışında yukarıdaki gibidir.<br/>verecekleri cevabı da buradan paylaşacağım. herkese teşekkürler.
+   
+  entry_writer: hashasiyun
+- entry_name: |
+    lise öğrencilerinin 15 temmuz isyanı
+  entry_id: 63050425
+  entry_content: |
+    
+    bu çocuklara bir de liseli derler..<br/>tüm öğünlerinde yürek yemiş bu çocuklar.<br/>bir daha liseli kelimesini hakaret ve aşağılama olarak kullananın ağzını yırtmak gerekir.<br/>bu liselilere insan gerçekten hayret ediyor.<br/>saygı duyunuz, çoğu aslan yürekli siyasinin yapamadığını yapıyorlar.<br/>respect.
+   
+  entry_writer: biyolojik saat tamircisi
+- entry_name: |
+    atm önünde çektiği parayı sayan adam
+  entry_id: 63039841
+  entry_content: |
+    
+    atm'ler parayı bazen eksik verebiliyor..<br/><br/>daha önce başıma geldi. akabinde bankanın müşteri hizmetlerini arayıp durum hakkında bilgi verdim. eksik parayı anında hesabıma gönderdiler.<br/><br/>konu hakkında bilgisi olmayan sığırları dikkate almayınız.<br/><br/>iyi günler efenim.
+   
+  entry_writer: golden hemen sonra taktik veren t d
+- entry_name: |
+    dört kelimeyle ilk buluşmanı mahvet
+  entry_id: 63045438
+  entry_content: |
+    
+    eski sevgilime çok benziyorsun
+    
+  entry_writer: amra
+- entry_name: |
+    yeni akit'in tutukluluktan rahatsız olması
+  entry_id: 63042296
+  entry_content: |
+    
+    haberi yapanın adını al, bindiği otobüste ağzının ortasına uçan tekme at sonra de ki::<br/><br/>-adalet bakanına yırmıh atan bile serbest olum.<br/><br/>böyle böyle döverek empati öğrensinler amk bezelye beyinlileri.
+   
+  entry_writer: gelecomp
+- entry_name: |
+    arap kraliyet ailesi yemeği
+  entry_id: 63044139
+  entry_content: |
+    
+    bana yine anıtkabir'e doğru koşma isteği uyandıran bir başka video daha..<br/><br/>sen nasıl bir insansın ki, bizi böyle iğrenç insanların düşünsel esaretinden bir nebze olsun kurtarabildin. <br/><br/>bir kez daha şükranla, minnetle, sevgiyle, saygıyla, özlemle anıyorum seni yüce atatürk.
+   
+  entry_writer: ulookawesome
+- entry_name: |
+    20 eylül 2016 stoya'nın istanbul'da olması
+  entry_id: 63051932
+  entry_content: |
+    
+    paylaştığı fotoğraf  <a class="b" href="/?q=cihangir">cihangir</a>, sıraselviler caddesi'ndendir. ekşi sözlük stalker timi olarak bir gizemi daha çözdüğümüz için kıvanç duyuyoruz. kendisinden imza almak isteyenler çemberi daraltabilirler:)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/maps/NfwfXk6EnA92" title="https://goo.gl/maps/NfwfXk6EnA92">kanıt</a>.<br/><br/>edit: fotoğrafın cihangir'den olmadığını, bebek'te çekilmiş olduğunu iddia eden arkadaşlar oldu. az önce verdiğim adresten geçtim, <a rel="nofollow noopener" class="url" target="_blank" href="https://postimg.org/image/kbwekheud/" title="https://postimg.org/image/kbwekheud/">bu da size garanti kanıt</a> olsun arkadaşlar:) <br/><br/>işin kriptosunu yazalım da tam olsun:) hiçbir şey bilmeseniz dahi anahtar kelimeler yaratarak yürüyeceksiniz. solda gözüken mor gratis'in moru, kedinin en çok olduğu yer cihangir, o iğrenç kaldırım da ancak beyoğlu'nda olabilir. <br/><br/>şaka bir yana doğma büyüme cihangirli olduğum için farkettiğim bir lokasyonda çekilmiş fotoğraftır. mehdi ilan etmenize gerek yok, bilime inanın gençler:)
+   
+  entry_writer: justhink
+- entry_name: |
+    aile bakanı'ndan şortlu kadına şiddet açıklaması
+  entry_id: 63049112
+  entry_content: |
+    
+    şiddete uğrayan kadının yanındaymış gibi görünmek isterken örümcek zihniyeti açığa çıkan bakanın sözleridir::<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/aile-bakanindan-sortlu-kadina-siddet-aciklamasi-sebebi-her-ne-olursa-olsun-kabul-edilemez,360518" title="http://t24.com.tr/haber/aile-bakanindan-sortlu-kadina-siddet-aciklamasi-sebebi-her-ne-olursa-olsun-kabul-edilemez,360518">açıklama metni</a><br/><br/>kadına karşı şiddeti yererken "sebebi her ne olursa olsun kabul edilemez." diyemezsin! zira dikkatli herkesin görebileceği gibi bunun anlamı tektir: "açık giyinmek yanlış ama bu sebeple dahi şiddet gösterilmemeliydi."<br/><br/>misal bir mekanda çay içerken tekmelenen adam veya pazarda limon satarken üzerine kaynar su dökülen çocuk için "sebebi ne olursa olsun şiddet kabul edilemez." denilmesine gerek var mı? ortada hafif - ağır sebep yok ki bu cümle sarf edilsin!<br/><br/>sen mevcut durumda bu cümleyi kurarak kadının şort giymesini tahrik edici sebep olarak gördüğünü itiraf etmiş oluyorsun ama ne şekersin ki yine de yüce gönlün kadının şiddete uğramasından yana değil. yere batsın senin ve temsil ettiğin partinin zihniyeti...
+   
+  entry_writer: gingerland
+- entry_name: |
+    20 eylül 2016 erdoğan'ın bm genel kurulu konuşması
+  entry_id: 63052014
+  entry_content: |
+    
+    "dünya 5 ülkenin dudağı arasında olamaz." dedi. keşke türkiye'de de tek kişinin ağzına bakılmasa.
+    
+  entry_writer: ruzgar adam
+- entry_name: |
+    ana sınıfı için istenen 500 tl'lik ihtiyaç listesi
+  entry_id: 63045795
+  entry_content: |
+    
+    dokunaklı bir kondom reklamı. tebrikler.
+    
+  entry_writer: c demorgane
+- entry_name: |
+    kız kardeşin down sendromlu bebeğini aldırması
+  entry_id: 63047998
+  entry_content: |
+    
+    kamu spotlarında, kitaplarda, broşürlerde zihinsel engelliler genelde en fazla 16 yaşa kadar olan çocuklardan seçilir. genelde de 4-5 yaşlarında sevimli down sendromlu çocuk fotoğrafları oldukça popülerdir..<br/><br/>kimse o resimleri gördükten sonra "bu çocuk elli yaşına gelince ne olacak?" diye sormaz. "neden çevremde hiç yaşını başını almış saçına ak düşmüş kerli ferli bir otizmli, down sendromlu, zihinsel engelli görmüyorum?" demez. sanki bu çocuklar on beş yaşına kadar yaşıyor, on beşinden sonra da mucizevi bir şekilde dünyadan yok olup gidiyorlarmış gibi bir algıları vardır.<br/><br/>ben o çocuklar 15 yaşından sonra ne oluyor size anlatayım.<br/><br/>eğitim için kurum bulamıyorlar, devletin sevk ettiği kurum sayısı sınırlı, yetersiz ve kontenjan çok az. sırada bekliyorlar. çalıştığım ilkokulda 2002 doğumlu birinci sınıfa kayıtlı bir erkek öğrenci var, hem bedensel hem zihinsel yetersizliği var bu çocuğun ve senelerdir 1-c sınıfına kayıtlı. daha yönlendirilmesi bu ay yapılmış ve yine senelerce sıra bekleme olasılığı var. dağ başında şehirde değiliz, dünyanın sayılı metropollerinden istanbul'dayız ayrıca.<br/><br/>kurum bulsa bile orta ve ağır düzey zihinsel engelliler yoğun eğitimle dahi çok yol katedemezler. beyin kimyaları normal ve normalüstü zekaya sahip bireylerinkinden farklı çalıştığı için epilepsiyi andıran krizler geçirebilirler ve bu krizler genelde senelerce öğrendiği her şeyi unutturucu niteliktedir, bu arada öğrenmekten kastım ışığı açıp kapamak, pantolon çıkarmak, kuantum fiziği falan gelmesin aklınıza. en temel özbakım becerileri, okuma yazma, sayma falan aklına getirme bunları.<br/><br/>tek amacı devletten para kopartmak olan, özellikle varoş mahallelerde kapı kapı dolaşıp kendisini dershaneymiş, etüt merkeziymiş gibi tanıtan, cahil aileleri kafalayıp ihtiyacı olmayan çocuklara bile zorla zihinsel engelli raporu aldırtan, eğitim verdiği çocuk başına devletten prim alan özel eğitim rehabilitasyon merkezi gerçeğini zaten hiç tartışmayalım bile. haftada maksimum iki defa gidilebilen bu yerler adamakıllı eğitim vermezler, tek düşündükleri paradır, maksimum kırk dakika ayırırlar. gerçekten ihtiyacı olan çocukların sürekli ve rutin bir eğitim alması gerekirken haftada bir iki defa yarım saatliğine gelip aldığı eğitim ne kadar kalıcıdır sizin takdirinize bırakıyorum.<br/><br/>zaten 18 yaşından sonra yaş problem olur. çocuk erkekse onca rapora, sicile rağmen bir de sizi askere çağırırlar, çocuğu da alıp milletin içinde rezalet çıkara çıkara çocuğun zihinsel engelli olduğunu bir de teğmen abilere kanıtlamak zorunda kalırsın. belli bir yaştan sonra kurum bulamazsın. zaten çocuğun on iki yaşından sonra aldığı eğitimin de bir süre sonra bir anlamı kalmamaya başlar. artan rahatsızlıklar, artan kırmızı reçeteli ilaçlar, anlam verilemeyen hastalıklar derken o broşürlerde gördüğünüz sevimli çocuklar otuz yaşında delilere dönerler.<br/><br/>ha bir de en kötüsü o çocuk büyürken sizin yaşlanmanızdır. yaşıtlarınız torun severken siz hala otuz kırk yaşında bir bedendeki bebeğe bakmak zorundasınızdır. üstelik siz de altmışı, yetmişi görmüşsünüzdür. antidepresansız tek gününüz geçmez. en yakınım dediğiniz kardeşler, akrabalar hep toz duman olmuştur, hiç elleşmezler. muhtemelen aileniz dağılmıştır. baba ya da anneden biri karşı tarafı suçlayıp kaçmıştır. sinirleriniz harap olmuştur. ömrünüzün yarısından fazlasını vefa ettiğiniz halde hiçbir sonuç alamamak, elinizdeki çocuğun hala kundaktaki bebekten farksız oluşu sizi yıpratır. ne o yılları geri alabilirsiniz ne çocuğunuzu düzeltebilirsiniz. bir ömrünüz vardır ve yarısı boşa gitmiştir. evet, ağır oldu. ama gerçek bu. boşa gitmiştir. çabanız, fedakarlıklarınız hiçbir sonuç vermemiştir. harcadığınız yıllar hiçbir işe yaramamıştır. kimse size altın madalya falan takmamıştır kendinizi heba ettiniz diye. hiç öyle "ay ben onun gülüşüne kurban olurum..." edebiyatına girmeyin. yaşamadan kamyoncu edebiyatı kasmayın.<br/><br/>bu ülkede 50 yaşında zihinsel engelli yok mu, var? nerede mi, en yakın ruh ve sinir hastalıkları hastanesinde ilaçla uyutuluyor sürekli. görmüyorsun, çünkü ebeveynleri öldü, akrabaları uğraşmadı.<br/><br/>hiç arabesk takılmayın, ülke gerçekleri bunlar. üstüne para verseler bir saat bakmayacağınız çocukla sırf aranızda anne/baba - çocuk bağı var diye her şeyi göze alabileceğinizi zannetmeyin. bir insanın başka bir insanı hem deli gibi sevmesi hem bazı zamanlar onun hakkında "acaba doğmasaydı, acaba hastalanıp ölseydi... mutlu olur muydum?" diye düşünmesi ve akabinde pişman olup vicdan azabından gebermesi hiç kolay değildir. dedim ya bilip etmeden sallamayın güzel kardeşim.
+   
+  entry_writer: neptun savascisi
+- entry_name: |
+    hücreye attıran vfs global rezaleti
+  entry_id: 63052213
+  entry_content: |
+    
+    bugün insanlara duyurmamın rica edildiği şöyle bir mail aldım. değiştirmeden aynen yapıştırıyorum. umarım yardımcı olabileceğimiz bir şeyler vardır.  <br/><br/>ben alim memiş. üniversite öğrencisiyim ve aynı zamanda ufak bir markette çalışıyorum. bütün yaz boyunca biriktirdiğim paramla 10 günlüğüne fransa'ya, akrabalarımın yanına gitme hayali kuruyordum. <br/>"vfs global" adlı vize başvuru merkezine (altunizade/üsküdar) gidip gerekli olan evraklar listesini aldım ve işten arta kalan zamanda, tam 1 ay boyunca gerekli evrakların peşinde koştum. en sonunda vizemin çıktığını söylediler. 3 ay boyunca çalışıp biriktirdiğim parayla vize masraflarını karşıladım ve uçak biletimi aldım. vizemi aldığımda bu vfs global denen yere özellikle başka bir evrak almam ya da vermem gerekiyor mu diye sorduğumda "hayır vizenizi alın, hayırlı olsun" dediler. ilk kez vize işleriyle uğraştığım için bilinçsizce ve inanarak uçuş gününü yani 16.09.2016 tarihini beklemeye başladım. paris charles de gaulle havaalanına iniş yaptığımda vize/pasaport kontrolü için gayet rahat bir şekilde fransız polisinin karşısına geçtim ama bir sorun vardı. herkes geçti ben kaldım. fransızca bilmiyorum, çat pat ingilizcem de tahmin edersiniz ki fransız milliyetçiliğinin karşısında yeterli olmadı. etraftan yardım istedim ve 40-45 yaşlarında bir hanımefendi polisle konuştukta sonra bana "senin evrakların eksikmiş, hotel rezervasyonun ve seyahat sağlık sigorta belgen yokmuş, onlar nerede diye soruyor" dedi. o esnada fransız polis bana ingilizce "ne kadar paran var?" diye sordu. cebimdeki tüm para 210 euro'yu çıkardım ancak bunun yeterli olmayacağını söyledi. yardımcı olmaya çalışan hanımefendi aracılığıyla ilk defa avrupa'ya çıktığımı, istenilen tüm belgeleri istanbul vfs global vize başvuru merkezi'ne verdiğimi ve oradan bana hiçbir belge verilmeden sadece vizemin hazır olduğunun söylendiğini, ama aynı zamanda paris'teki tüm masraflarımı babamın karşılayacağına dair dilekçe yazarak onun hesabına 3 bin tl para yatırdığımızı söyledim. fransız polis kadına "tamam siz gidin ben arkadaşın fransa'ya girişini yapacağım" dedi ve kadını yolladı. <br/>sonra havaalanı içindeki polis merkezine götürüldüm. yaklaşık 2-3 saat geçti, bazen ayağa kalktığımda bile ve "sit down" "stop" "wait" gibi sert tepkilerini aldım. artık tamamen sinirlerim bozuldu çünkü hiç bilmediğim bir yerde saatlerdir hiçbir şey söylenmeden oturuyordum. bir süre sonra nihayet bir tercümanla görüştürdüler ve tercüman bana fransa'ya girişini belgelerim eksik olduğu için bloke etmişler dedi.<br/>polis tarafındam üstüm başım aranıp telefonum hatta çakmağıma bile el konulduktan sonra havaalanı içindeki hücre gibi bir odaya atıldım. oda buz gibiydi ve içerde mali'li, kongolu geneli afrikalı olmak üzere insanlar vardı. toplam 8-9 kişiydik. korku ve endişe içinde bana ne olacağını bilmeden bekliyordum. 1 saat kadar uyuya kalmışım, uyandığımda her hücrem donmuştu. kafamın üzerindeki telsiz telefonu kullanmak istiyordum, kuzenimin numarasını ezbere biliyordum ama polisin sert bakış ve davranışları yüzünden resmen tenezzül etmeye korkuyordum. birine sessizce "telefonla konuşmak serbest mi?" diye sordum "evet" dedi. hemen kuzenimi aradım ve kuzenime durumu anlattım, o da "biz havaalanının hemen dışındayız, polis bize de hiçbir şey söylemiyor, senin hakkında hiçbir bilgi alamıyoruz." dedi. telefonu yanımda fransızca bilen ve ne olduğuna dair bir fikri olduğuna inandığım birine verdim ve sonunda beni zapi diye bir yere, bir polis oteline götüreceklerini öğrendim. saat 4-5 olmuştu ve açlıktan neredeyse bayılacaktım ama polis orada yemek olmadığını, zapi'de yiyeceğimi söyledi. akşam saat 8 gibi yola çıktık. <br/>zapi denilen yer havaalanı içinde bir hücre binasıymış, arabayla 5 dakika içinde vardık. demir parmaklıklar arkasında kuzenlerimi gördüm. olayın dramatikliğine bakın... <br/>içerde polis bana bir poşetin içinde diş fırçası, diş macunu, tarak ve iki tane beyaz çarşaf verdi ve resmen bir hücreye attı. orada yaklaşık 1 saat bekledikten sonra iki kişilik başka bir odaya atıldım. yerde 2 tane minder, bir tane musluk, 3 tane lamba (birisi bozuk) bir de hoparlör vardı. bildiğiniz hapisane hücresi. hoparlör sabah 6.45 öğlen 12.45 akşam 18.45teki yemek saatlerini ve ziyaretçileri haber vermek için kullanılıyormuş. açlıktan ölmek üzereydim, ama burda da bana yemek saatinin geçtiğini ve yarın sabah yiyebileceğim söylendi. anlayacağınız ancak terörist olsam bu kadar kötü muamele görebilirdim. <br/>bir telefon kartı alıp akrabalarımı aradım, nerede ve ne halde olduğumu söyledim, onlar da bana polisin hala hiç bir bilgi vermediğini, dışarda içeri girmek için izin beklediklerini söylediler. ertesi gün kuzenimin güç bela ayarladığı 10 dakikalık görüşmede, (sözde) eksik belgelerimin (otel rezervasyonu, para ve seyahat sağlık sigortası) tedarik edildiği halde fransa'ya giriş yapabileceğimi söylediklerini öğrendim. bu belgelerin hepsi istanbul'daki fransa başkonsolosluğu'nda zaten mevcuttu, ama vfs global bana yanımda götürmem için herhangi bir kopya vermemişti. mailimden hepsinin bir kopyasını aldık ve 1000 euro parayla da artık girişim için hiçbir engel kalmadı diye düşünürken "yalnızca biz çağırdığımızda fransa'ya girebilir" dendi. polis ise beni çağırmak yerine o arada hemen bana pazar günü saat sabah 11'de istanbul'a uçak biletimi almış :) buna rağmen cumartesi gününü de zapi'de geçirerek pazar sabahına kadar haber bekledim ama çağırılmadığım için zaten hazır olan uçak biletimle istanbul'a dönüş yaptım... <br/>şuan türkiye'deyim ve bugün vfs global vize başvuru merkezine gittiğimde gayet sakin bir şekilde "pasaport ve vizenin yanında ek bilgi kağıdı olarak 'aldığınız vize fransa'ya girmenize yetmeyebilir' yazan kağıdı görmediniz mi?" dediler. hem bana öyle bir şey verilmedi, hem de evrakların en azından kopyaları neden verilmedi dediğimde pişkin pişkin "fransa başkonsolosluğu kağıdı unutmuştur" dediler. "unutulan" bir kağıt ve ihmal yüzünden 3 gün zindan gibi hücrelerde suçsuz yere tutuldum ve terörist muamelesi gördüm... fransa'ya giriş yapmadığım halde pasaportuma "girdi" diye kaşe basılması da cabası... <br/>başıma gelen ve hiç haketmediğim bunca şey üzerine ne yapmam gerektiğini bilmiyorum ama bu işin peşini bırakmayacağım. destek, görüş ve fikirlerinize ihtiyacım var. şimdiden okuyan, paylaşan, yardım eden herkese teşekkür ederim.<br/><br/>yazar notu: zamanında fransa'dan vize almak için başvurduğumda tüm belgelerim, bankadaki param vs. tam olmasına rağmen red aldığım ve reddedilme sebeplerimin asla doğruyu yansıtmamasına rağmen aynı şirket yüzünden schengen fırsatımı red ile taçlandırdığım firmadır aynı zamanda. <br/>bu arada mailde pasaport görüntüleri ve hücre için verilen kitin de fotoğrafı mevcut.
+   
+  entry_writer: madstar
+- entry_name: |
+    malatyapark vatan bilgisayar rezaleti
+  entry_id: 63054442
+  entry_content: |
+    
+    olay 2 ağustosta malatya park avm vatan bilgisayar şubesinde meydana gelmiştir!!<br/><br/>serebral palsi rahatsızlığı olan bir arkadaşım . kendisi bir kamu kuruluşunda bilgi işlem bölümünde çalışıyor. vatan bilgisayarın malatya park şubesine navigasyon cihazı almak için gidip reyon görevlisinden cihazlarla ilgili bilgi almak istediğinde reyon görevlisinin alay içeren ("sen bunun ne işe yaradığını biliyor musun ki, sana ne? ne yapacaksın? neden soruyorsun?) ifadelerine maruz kalmış. başka bir görevliden yardım istediğinde de benzer durumla karşılaşmış. mağaza görevlisi ile görüşmek istemiş ancak görüştürülmemiş. isimlerini almak istediğini onları şikayet edeceğini söylediğinde ise isimlerini vermedikleri gibi hakaret içeren sözler sarfetmişler. olayı kızkardeşi ile paylaştıktan sonra mağaza yöneticisi ile görüşülüp gerekirse olay saatindeki kamera kayıtlarının incelenerek ilgili kişilerin tespit edilmesi talep edilmesine rağmen 1.5 aydır herhangi bir geri dönüş olmamıştır. <br/>doğum sırasında yaşadığı bir şansızlık yüzünden bir takım zorluklarla karşılaşan ama pes etmeyip mücadele eden, yıllar süren fizyoterapi ve çeşitli eğitimler sonucu kendi ayakları üzerinde durmayı başaran arkadaşımın tek isteği kendisinden özür dilenmesi. yaşadığı bu olayı başkalarının da yaşamaması için ilgili personelin gerekli dersi alması gerektiğini düşünüyorum!!!<br/><br/>edt: #vatanbilgisayarözürdile
+   
+  entry_writer: drgollom
+- entry_name: |
+    chip takılan leyleğin mersin'de vurulması
+  entry_id: 63044909
+  entry_content: |
+    
+    göçmen kuşların yol haritasını çıkarmak amacıyla çip takılan leylek, 2 bin 600 kilometre uçtuktan sonra mersin’de avcılar tarafından vuruldu..<br/><br/>habertürk’ten beycan üçkardeş’in haberine göre slovak ve macar kuşbilim uzmanları, 2012 yılında göçmen kuşların yol haritasını belirlemek amacıyla bir leyleğe çip taktı.<br/><br/>leylek, 2 bin 600 kilometre uçuşun ardından mersin’in davultepe mahallesi’ndeki sulama göletine düşmüş halde bulundu.<br/><br/>ihbar üzerine bölgeye giden itfaiye ekipleri çamura batmış ve bitin haldeki leyleği kurtardı.<br/><br/>leyleğin ayağının kırık ve kopmak üzere olduğu görülürken, ateşli silahla vurulduğu belirlendi.<br/><br/>ilk müdahalenin ardından tarsus hayvanat bahçesi’ne götürülen leylek kurtarılamadı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/yol-haritasini-cikarmak-icin-cip-takilmisti-2-bin-600-kilometre-ucan-leylek-mersinde-vuruldu/" title="http://www.diken.com.tr/yol-haritasini-cikarmak-icin-cip-takilmisti-2-bin-600-kilometre-ucan-leylek-mersinde-vuruldu/">kaynak</a><br/><br/>(bkz: <a class="b" href="/?q=%c3%a7omarland%27de+s%c4%b1radan+bir+g%c3%bcn">çomarland'de sıradan bir gün</a>)
+   
+  entry_writer: day zero
+- entry_name: |
+    126 bin tl'ye satılan 1.6 volkswagen golf
+  entry_id: 63044103
+  entry_content: |
+    
+    2016 model, 20 kilometrede ve tüm bakımları yapılmış... arayıp ne bakımı yaptırdın la diyesim geliyor, sonra gidiyor.
+    
+  entry_writer: gazoz kapagi
+- entry_name: |
+    fetö'nün çöpçatan kataloğu
+  entry_id: 63040317
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=f%c4%b1rsatlarla+dolu+fet%c3%b6+katalo%c4%9fu">fırsatlarla dolu fetö kataloğu</a>)<br/><br/>beğendiğiniz kişinin üstüne bileğinizi sürtün. <br/><br/>ten uyumu önemli hacı!
+   
+  entry_writer: nukleerella
+- entry_name: |
+    brad pitt ve angelina jolie'nin boşanması
+  entry_id: 63049335
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=jennifer+aniston+feat.+hande+yener+mor">jennifer aniston feat. hande yener mor</a>)
+   
+  entry_writer: hatanin varyansi
+- entry_name: |
+    new york times'da yayınlanan anti-fetö bildirisi
+  entry_id: 63047204
+  entry_content: |
+    
+    fetö reklamı değildir, fetö ilanı da değildir; bir anti-fetö ilanıdır..<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrk%c3%a7e+%c3%b6z%c3%bcrl%c3%bc+insanlar">türkçe özürlü insanlar</a>)<br/><br/>---<br/><br/>sonradan gelen edit/ek: (bkz: <a class="b" href="/entry/63055911">#63055911</a>)
+   
+  entry_writer: fij
+- entry_name: |
+    1 ocak 2017'nin pazara denk gelmesi
+  entry_id: 63047737
+  entry_content: |
+    
+     <a class="b" href="/?q=1+ocak+2018%27in+pazartesine+denk+gelmesi">1 ocak 2018'in pazartesine denk gelmesi</a> ile sevindirendir.<br/><br/>(bkz: <a class="b" href="/?q=s%c4%b1k%c4%b1lanlar%c4%b1n+takvimden+resmi+tatillere+bakmas%c4%b1">sıkılanların takvimden resmi tatillere bakması</a>)
+   
+  entry_writer: rumuzumyirmikarakter
+- entry_name: |
+    vücut geliştirme
+  entry_id: 63046452
+  entry_content: |
+    
+    uzun sayılabilecek bir süredir spor yapıyorum..<br/><br/>dün <a rel="nofollow noopener" class="url" target="_blank" href="http://blogs.ubc.ca/extremecycling/files/2013/03/lp.jpg" title="http://blogs.ubc.ca/extremecycling/files/2013/03/lp.jpg">lat pulldown</a>'dayım kolları açmış bara yerleştirmişim, indir kaldır indir kaldır derken birdenbire,<br/>ben n'apıyorum amkq? dedim.<br/><br/>farkındayım, sofistike bir kendini anlama ve sorgulama çabası değil.<br/>"ben, şu an napıyorum amına koyim?"<br/><br/>nedir yani aşağı yukarı, aşağı yukarı. <br/>çok afedersiniz, "bu ne anasını sikeyim!" bile dedim. sinirlendim kendime.<br/><br/>etrafıma baktım. salonun boş olduğu bi' saatti, "tek mal benim herhalde" diye düşünüp tribe girdim. o an yaptığım şey çok saçma geldi. <br/>kollar açık kukla gibi ağır bi' şeyleri indirip kaldırıyorum. ne şimdi bu?<br/><br/>forklift miyim amk ben?!<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://marmarisforklift.com/images/forklift-side.jpg" title="http://marmarisforklift.com/images/forklift-side.jpg">bu</a> muyum? böyle bi şey miyim?!<br/><br/>sikerler diyip seviyeyi yükseltmeden isyan bayraklarını çektim, tekrarı tamamlamadan hareketi yarısında bıraktım.<br/><br/>çünkü, bu nereye varacak abi. yani gidip bi tenis oynasam, yakın dövüş sporlarından biriyle ilgilensem çok daha sosyal şeyler ve yine spor en nihayetinde.<br/><br/>"tek derdi kaslarını şişirmek olan şekilci bir insan mıyım? benim spor anlayışım bu mu?!"<br/><br/>o gazla soyunma odasına yöneldim. bu sporla olan ilişiğimi, eldivenlerimi ve shaker'ımı masanın üzerine koyup tek taraflı olarak kesecektim.<br/><br/>soyunma odasına giderken verdiğim kararı gözden geçirmeme sebep olan tombalak bir dayı gördüm. <br/>koşu bandında cayır cayır koşuyordu. dayının da bir yere gittiği yoktu ama koşuyordu. <br/>belki daha sağlıklı hissetmek, belki de geceleri şehrin adaletini daha rahat sağlamak için koşuyordu. bilemiyorum. tek bildiğim azminden ve istikrarından etkilendim.<br/><br/>sporu bırakma kararım kadar kötü bi kararı en son, cordoba-barcelona maçı için cordoba'ya iç saha lan sürpriz olur diyip <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/5YNMEl.png" title="http://i.hizliresim.com/5YNMEl.png">30tl</a> oynadığım zaman vermiştim.<br/><br/>aslında, kendim için yaptığım ender güzel şeylerden biri spordu.<br/><br/>zaman zaman böyle motivasyon kayıpları ve düşüşler yaşayabiliyor insan.<br/><br/>işinde, derslerinde, arkadaşlıklarında, ilişkilerinde ve aklıma şu an için gelmeyen birçok hede'de bunlar yaşanabilir.<br/><br/>önemli olan bunları hiç yaşamıyor olmak değil. <br/>bence önemli olan bunların kısa süreli çalkantılı dönemler olduğunun farkına varmak ve devam edebilmek.<br/><br/>bir de mevzubahis takım barçaysa rakibe oynamamak.<br/><br/>bunlar önemli.
+   
+  entry_writer: yazarken ellerini birakan herif
+- entry_name: |
+    çaylaklar debe'si
+  entry_id: 63046462
+  entry_content: |
+    
+    çaylakların yazdıklarını kimse okumadığındann<sup class="ab"><a title="(bkz: diğer çaylaklar bile)" href="/?q=di%c4%9fer+%c3%a7aylaklar+bile" data-query="diğer çaylaklar bile">*</a></sup> gereksiz olandır.
+   
+  entry_writer: abinonsekiz
+- entry_name: |
+    mario gomez
+  entry_id: 63046081
+  entry_content: |
+    
+    üstteki yazar arkadaşa hitaben;;<br/><br/>adam beşiktaşta oynamaktan değil türkiye de yaşamaktan kaçtı. anlamıyorum bir insanın kafası nasıl bu kadar basit bir şeyi alamıyor. sonuçta 2 kg lık bir kafa taşıyorsun, az biraz kullan. kullandıça eskimiyor inan.<br/><br/>bu arada <a class="b" href="/?q=franck+ribery">franck ribery</a> galatasarydan nasıl gitmişti hatırlıyormusun? o konu hakkında da galatasarayın büyüklüğünden bahsetsene?<br/><br/>editine karşı edit: <a class="b" href="/?q=lukas+podolski">lukas podolski</a>, <a class="b" href="/?q=wesley+sneijder">wesley sneijder</a> gitmemiş ülkeden. o yüzden mario ülkenin durumu için gitmemiştir diyor hala. güzel kardeşim bu ülkede yaşayan bir çok insan gitti darbeden sonra. birçoğuda gitmenin yollarını arıyor. suriyeliler bile bu ülkede yaşamak istemedikleri için çok büyük riskler alarak deniz yolu ile kaçmaya çalışıyor. sen ben gitmedik, gidemedik diye giden insanları yok mu sayacaksın yani ? yok yok çok uzun bir cümle oldu bu, nasılsa anlama yetisinde değilsin, vazgeçtim. <br/><br/>(bkz: cahille girme münakaşaya ya sinirini zıplatır havaya yada yazık olur adabına)
+   
+  entry_writer: yazarium
+- entry_name: |
+    fetö soruşturması akp'ye uzanmamalı
+  entry_id: 63042282
+  entry_content: |
+    
+    tam olarak "ülkenin selameti için fetö soruşturması akp'ye uzanmamalı" şeklinde bir akit yazarı yumurtası..<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yeni akit yazarı sinan burhan, cemaat operasyonlarının akp'ye uzanmaması gerektiğini savunarak, "filanca belediye başkanı, filanca bakan, filanca vekil paralele destek verdi” deniliyor. bu insanlar ile cumhurbaşkanımızın arası açılmak isteniyor. kardeşim bu partide geçmişte gülen ile ilişkisi olmayan kimse var mı? bakanlar belediye başkanları gülen’e destek olmadılar mı?" dedi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ilerihaber.org/icerik/akit-yazari-ulkenin-selameti-icin-feto-sorusturmasi-akpye-uzanmamali-60169.html" title="http://ilerihaber.org/icerik/akit-yazari-ulkenin-selameti-icin-feto-sorusturmasi-akpye-uzanmamali-60169.html">http://ilerihaber.org/…-akpye-uzanmamali-60169.html</a><br/><br/>merdi kıpti secaat arzederken sirkatini söylermiş. adamlar açık açık itiraf ediyor, üstüne de bu pisliğin örtbas edilmesi gerektiğini söylüyor. ülkenin selameti dediği, akp'nin selameti.<br/><br/>bunlar kadar suça batmış, ama bunlar kadar arsız yüzsüzünü göremeyiz muhtemelen.
+   
+  entry_writer: ceka
+- entry_name: |
+    bosna hersek'in avrupa birliğine kabulü
+  entry_id: 63048003
+  entry_content: |
+    
+    şimdi gençler üyelik başvurusunun kabulü başka şey, üye olmak başka şey. daha bunun adaylık statüsü elde etmesi var, müzakerelere başlanması ve bitimi var. ondan sonra üye ülkelerin oylamaları var. mesela biz şuan müzakere sürecindeyiz. 1987'de üyelik başvurusu yaptık. 1999'da aday ülke statüsü elde ettik. 2005 yılında da tam üyelik müzakerelerine başladık ve hala daha devam ediyoruz. üyelik başvurusunun kabulu şu anlama gelir: bu ülke bir avrupa devletidir ve gerekli koşulları ve kriterleri yerine getirirse üye olmasında bir sakınca yoktur. mesela fas 1987 yılında üyelik başvurusunda bulunmuş ancak abi sen avrupa'da bile değilsin denilerek kabul edilmemiştir bu başvurusu.
+    
+  entry_writer: green panda
+- entry_name: |
+    bayburt'tan ekşi sözlük'e giren insan
+  entry_id: 63042830
+  entry_content: |
+    
+    0,01 oranı 23 milyon tekil ziyaretçi içinde 2300 tekil ziyarete tekabül eder değerli suserlar..<br/><br/>bir kişi bir ayda 2300 tekil algılanacak ziyareti tek başına yapamayacağına göre bir kişi değildir. sanırım bir örgüt yapılanması söz konusu.
+   
+  entry_writer: 597
+- entry_name: |
+    20 eylül salı türk erkeğinin onurunu kurtarmam
+  entry_id: 63040539
+  entry_content: |
+    
+    modern toplumun en kötü alışkanlıklarından biri olan sabah işe gitmek eylemini icra etmek için modern toplumun en kötü araçlarından biri olan dolmuşa bindim. şükür ki modern toplumun en büyük lütuflarından biri olan arka dörtlünün sol cam kenarı boştu, anne kucağı gibi orada beni bekliyordu.  <br/><br/>huzur içinde yolculuk devam ederken boşalan sağ yanıma bir kız oturdu. modern toplumun ön yargıları anne kucağında gelip bulmuştu beni. aman bacaklarımı açmiyim, aman kolum kıza değmesin, aman sağ tarfta ki manzarayı da görmeyiveriyim, dekoltesi filan vardır da çekiştirir durur bu şimdi derken dolmuşun pencere camında kayboldum yeminlen. buğulu cama yazılmış bir yazı kadar farkedilmeden devam etti bir mühlet yolculuk.<br/><br/>kaptan sağda salla, başkan dök bizi, solda bi tükür abi, reyis müsaitse sümkür derken bir baktım tekli koltuklar bile boşalmış. ama kız hala yanımda. lan bu niye kalkmıyor? uyuyor mu acaba diye düşünüp tee ilerde bir şeye bakıyormuşum gibi yaptım. dolmuş ilerledikçe onu takip edip sağa döndüm ve kızın kirpiklerinin açık olduğunu farkettim. e uyumuyordu da. normal bir türk kızının böyle bir durumda gariban göğnüme ümit vermemek için, ellenmemek, dillenmemek için kalkıp hızlıca başka bir koltuğa geçmesi gerekirdi. aklıma modern toplumun kaynağı batı geldi. dedim bu kız kesin yabancı, ya görmemiş kötü şeyler, ya da sayısını bilmiyor. tam bu düşünceyi irdelerken istemsizce sağa doğru bir bakış attım. dudağının üstündeki hiç epilasyon görmemiş tüyler dikkatimi çekti. o kadar sıcak ve samimiydiler, o kadar bizdendilerki ayıp olmasa sarılıp öperdim onları tek tek. evet kız türk tü. hemen yanlış anlaşmaya mahal vermemek için omzumun üstündeki olmayan cisime üfledim ve elimle silkeledim. <br/><br/>madem öyle şu işin hakkını verip '' bakın siz korkmazsanız aslında her türk erkeğinin barzo olmadığını göreceksiniz, biraz sabrederseniz şirinleri bile göreceksiniz, kötüler yüzünden aramıza duvar örmeyin, erkek terörüne boyun eğmeyin " demiş olmak için rahatsız etmeme eylemine var gücümle devam ettim. dolmuş son durağa yaklaşırken kız birden dönüp '' pardon, vapur iskelesine kadar gidiyor mu'' diye sordu. oha dedim milletin içinde ne biçim konuşuyorsun, hadi başbaşa kalacağımız bir yere gidelim. yani demedim öyle tabi de kızdaki özgüvene cesaret bak inmek üzereyken soru sordu. inince peşime takılır filan falan... gün bugündür dedim. hayır gitmez dedim. iskele biraz daha aşağıda, ben oraya gidiyorum, isterseniz eşlik edebilirim dedim ve yuhh istersen gel bi de öp cevabını bekledim. olan olmuştu artık geri döndüremezdik. fakat kız çocukluğumun gök kuşakları gibi beni şaşırtmaya niyetliydi. çok iyi olur dedi. <br/><br/>bütün toplumsal yargıların mına koyuyorduk tek tek. artık onunla güzel bir sohbet için beş yürüme dakikası zamanım vardı ve muhtaç olduğum kudret damarlarımda ki asil kanda mevcuttu. sorularımı avını özenle seçen bir serengeti tavşanı gibi seçip onu ürkütmeden yolu sürdürdüm. adanalıymış, tatile gelmiş, beşiktaşa gidecekmiş derken istanbul ne kadar kalabalık filan falana girdi bu. ben o sırada on yıllık ilişkmiz varmış gibi kızla, sağa sola bakıyorum kesen filan var mı kızı diye. neredeyse elimi omzuna atıcam " hı hı evet beybisi " diye devam edicem öyle bir ruh hali. sonra birden durdum dedim ki işte kopuş noktası burası. bunlar modern toplumun olması gereken kaybedişleri. tut kendini. kız tam " ya vapur da erken kalkmazsa canım sıkılır şimdi " filan derken " yoo çok gecikmez en fazla on dakika da bir dedim " ve ona biraz ilerde ki beşiktaş iskelesini gösterdim. teşekkür için uzattığı elini james bond vari bir edayla sıkıp hızlıca eminönü iskelesine yöneldim. işte başarmıştım. o da görmüştü selam verince hemen iş koymayan türk erkeğini, bende kanıtlamştım aslında o kadar abazan olmadığımızı. <br/><br/>gururla akbili bastım. dııt sesinden sonra bekleme alanına geçince aklım başıma geldi. ulan ya kız bana iş koyuyorduysa? öyle ya. tatile geldim, istanbul'u bilmiyorum, ses tonunuz çok güzel, ay ne kadar sexi bir vücdunuz var... tamam bu sondakileri ben uydurdum ama istanbul'a tatile geldim dermiydi iş atmasaydı bir kız? valla bilemiyorum altancıklar. biraz hüzün, biraz keder hepsi geçeeer. bize kar kalan nedir bu dünyadan diyordu ya bir şarkıda. sahi bize kar kalan neydi lan? vay mınaski. sırf sizin onurunuzu kurtarıcam diye bir aşkı başlamadan mı bitirdim yoksa. neyse. buraları okuyorsa o centilmen erkek benim. kara murat.<br/><br/>düzeltme : edit.<br/><br/>edit 2; birinizde takdir edin mk dil fetişistleri. ayrıca ironiden anlamayan nesle nesquik.<br/><br/>debe editi; şu hep bahsettiğim muhteşem ekşi sözlük hikayesinin ilk bölümü ufak bi gecikmeyle 2 ekim pazar gece 00:00'dan sonra ilk bölümüyle buralarda bir yerde olacak. coşkuyla...
+   
+  entry_writer: sanikmagdur
+- entry_name: |
+    sözlükçülerin başından geçen doğaüstü olaylar
+  entry_id: 63046159
+  entry_content: |
+    
+    askerdeydim. kışın ortası. tüccarlarıyla ünlü boktan bir iç anadolu şehrinin rakımı en yüksek kışlasında, eski bir ermeni ruhban okulunun taştan duvarlarının arasında göt donduruyordum. disiplin subaylığında yazıcıydım. sabah yedi civarı. şubeye yeni gelmiştim. daha komutan yok ortada. benle beraber şubede görev yapan diğer 2 asker de içtimada. tek başıma bilgisayar karşısında yorgun bir şekilde oturuyordum. yetiştirilmesi gereken bir sürü yazışma var. onları halletmem gerek. gece 1-3 nöbet tutmuştum, uyuduğum süre maksimum 2 saattir. içim geçmiş oturduğum yerde. normalde çok dikkat ederdim. çünkü komutan sağı solu belli olmayan, arada sinir krizleri geçiren bir ruh hastası.  <br/><br/>rüyalarını hatırlayamayanlardanım. ama o gün gördüğüm rüyayı hiç unutmam. küçücük ama çok güzel bir koydayız. ben de küçücüğüm. 6 yaşında filan. yanımda rahmetli dedem var. bana yüzmeyi öğretiyor. su sıcacık ve berrak. gözümü suyun içinde açıyorum ama yanmıyor. etrafımızda dolaşan renkli balıkları izliyorum. öğrendin yüzmeyi seni bırakıcam kendi başına çok güzel yüzeceksin diyor. ben biraz daha sen yüzdür diyorum. kırmıyor. sonra beni bırakıyor. arkamı dönüyorum, yok. ağlamaya başlıyorum. <br/><br/>gözümü açtığımda hüngür hüngür ağlıyordum. kafamı çevirmemle ruh hastası komutanı yanımda görmem bir oldu. “oğlum nöbet tutup uykusuz kalıyorsunuz, üstüne al şunu üşüme” deyip parkasını üzerime örttü. ağlamamla ilgili hiçbir şey söylemeyip odasına geçti (o çapta bir saykodan beklenmeyecek bir davranış). çekmeceden bir peçete bulup yüzümü gözümü sildim. bilgisayar açıktı zaten, ekran koruyucusu devreye girmişti. fareyi oynattım. gözüm sağ alt köşeye ilişti. dedemin ölüm yıl dönümüydü. şu hayatta tanıdığım en güzel insandı dedem. gidişi çok koymuştu. siktiğimin askerliği tarih algısını da almış benden. ama dedem o kış günü dağın tepesindeyken beni sıcacık denizde yüzdürdü. toprağı bol olsun.<br/><br/>not: biliyorum olay doğaüstü değil, bilinçaltıyla ilgili. yine de yazmak istedim.
+   
+  entry_writer: sucuklarlapisirmekseniyumurtayapamazki
+- entry_name: |
+    ecem uzgör
+  entry_id: 63040932
+  entry_content: |
+    
+    duyar kasan ekşici piçlerin yeni uğraşı. kızın tipi hakkında yorum yapmayacakmışız..<br/>hatta;<br/>''burda kızı aşağılayan orospu çocukları kendi karılarının fotoğrafının linkini versin de onu yorumlayalım'' diyen arkadaşlar var.<br/>karım güzellik yarışmasına, modellik yarışmasına girerse yorumlarsın.
+   
+  entry_writer: yka
+- entry_name: |
+    marmaray
+  entry_id: 63040435
+  entry_content: |
+    
+    17 dakikada bir sefer degil, 2 sefer arasinda 17 dakika bekleme yaptiriyorlar demek daha dogru. 20 dakika kadar yenikapi'da bekledim. gelen trenin icinde birkac dakika bekledik. tren sirkeci'ye varmadan da bir-iki dakika durdu. sirkeci'de indirdiler. 17 dakika sonra (olcmedim daha fazla da olabili) yeni tren geldi. onun icinde 1-2 dakika bekleme ve yolculuk. toplamda 12 dakika yolculuk, 40 küsur dakika bekleme yani. bir suru de kalabalik cilesi ve in-bin eziyeti.  <br/><br/>bu ulkeye bunlari yapan fetö, dhkpc, pkk ve amerika'ya yaziklar olsun!
+   
+  entry_writer: perferil
+- entry_name: |
+    2016 turizm krizi
+  entry_id: 63041525
+  entry_content: |
+    
+    aslında mevzu biraz turizm otelcilik lisesine kaydedilme sürecim ile başlıyor. süper liselerin inanılmaz rağbet gördüğü döneme tekabül eder ki, bazen, çocukluğumdan beri babamın tatil ihtiyaçlarımızın karşılanması konusunda aşırı bonkör davranıyor olması durumunu beni turizm otelcilik lisesine turizmi turist olarak sevdirmek suretiyle hazırlama konusunda uzun vadeli bir operasyonu olarak görürüm..<br/><br/>türkiye eğitim anlamında, turizm otelcilik liselerine ebeveynlerin aşırı rağbet ettiği bir dönem geçirmiştir. 90'lı yılların sonlarına doğru, okulda ezelden çok başarılı bir performans sergileyemeyen ancak aileleri görece iyi adlandırlabilecek çocukların ebeveynleri ''meslek lisesi ama turizm sonuçta. havalı sayılır'' temel düşüncesiyle çocuklarını turizm otelcilik liselerine kayıt ettirmeye başladılar. yatırımını otellere aktarmış inşaatçıların çocukları ile 5 yıldızlı otellerin mengenli aşçılarının çocukları aynı sıralarda dirsek çürütmeye başladılar. içlerinde benim gibi ailesi sadece turizmin turistlik aşamasında rol almış, matematiği sevmeyen, sosyal olduğu iddia edilen, konuşmayı seven, doktorluk ya da mühendislik ile ilgili olumlu sinyaller sunmayan çocuklar da vardı tabi.<br/><br/>hülasa diploma notuyla iyi sayılabilecek bir süper lise de çok olası gözükmediği için, sıcak bir eylül sabahı babam tarafından 'şu turizm otelcilik lisesini bi görelim' nidalarıyla tempra sxak marka arabanın arka koltuğuna başımı içeri sokuşturmak suretiyle bindirildim. gittik. uygulama oteli ve okul aynı bina. bir koridorla birbirne bağlanıyor. o uygulama otelinde oda temizleyerek nöbet tutarken suna ile yatakta zıpladığımız için disipline verileceğim günü hayal edemiyorum tabi o zaman. suna'yı sonraları sosyal medyada bulamadım bu arada, aradım. neyse. meslek liseleri için orta son sınıfta sınav yapıyorlardı o zaman. ben tabi yeterli puanı alamadım. lakin diploma notu diye bir bok vardı, benimki de iyiydi. diploma notu iyi olan öğrencilere mülakat için belli bir ücret karşılığı ön kayıt, sonra da bir öğretmen grubunun yaptığı azıcık ingilizce çoğu türkçe bir mülakat ve welcome to miami. hani şu cem yılmaz üstadın hep bahsettiği öncesinde ingilizce hazırlık okunan anadolu otelcilik ve turizm meslek lisesi. mülakatta bir meslek dersi hocası bana lavabo temizler misin diye sordu. gerekirse yalarım diye cevap verdim. içimden ne lavabosu amk, bodrum'da hollandalılarla takılıcaz hayalleriyle yaşıyorum. otelciliğin sevimsiz kabul edilen işleri ilgili aklıma gelen en kötü sahne valiz taşıyan bellboy görüntüleri, onda da müthiş para kazanılıyor efsanesini önceden duyduğum için aşırı rahatım. ha sonra ilk stajımda swissotel'in lobi tuvaletlerini temizledim mi, evet... neyse.<br/><br/>turizm otelcilik lisesine kayıt olduktan sonraki ilk tıraşım okulların açılmasına yakın oldu. dükkandan içeri girdiğimde şuayip abi her zamanki gibi kestiği saçları, matkapla delme yaparken tozu elektrikli süpürge ile çeken tesisatçı edasıyla, hem kesip aynı anda üflemek suretiyle bir delikanlının ensesini topa çevirmekteydi. top ense. naturel enseden hiç hoşlanmazdı şuayip. illa top ense yapmak isterdi. üfleyerek saç kesme esnasında da aşırı tükürük savururdu... aslında tıraşa gitmeye devam etmek için bir sebep yoktu ortada. ama ahde vefa işte. o gün ''şuayip abi ben turizm otelcilik lisesine başlıycam'' dedim. şuayip abinin yüzüne kan geldi. nefes alıp verişi hızlandı. onun için benim turizm otelcilik lisesine başlamam eşittir antalya tatili demekti ve tam olarak şu tepkiyi verdi:<br/><br/>- vaaay, artık abini antalya'ya tatile gönderirsin...!<br/><br/>o günün ardından tam 15 sene geçti. benim saçlarım döküldü. şuayip abi'nin iki çocuğu oldu. kulak kılları için ince makineler geliştirildi. uzun saç modası bitti. babam motorsiklet kullanmaya başladı. kaddafi öldü. bir sürü şey. ama şuayip abinin antalya söylemi hiç bitmedi.<br/><br/>mesela:<br/><br/>+ iyi valla şuayip abi noolsun işte, dersaneye gidiyoruz.<br/>- ali mutlaka antalya yaz oğlum. bak, kesin yani<br/><br/>+ nerdesin olum kaç zamandır yoksun. antalyada mıydın?<br/>- yok abi yazlıktaydım, annemleri görmeye gittim.<br/>+ heee, antalyadan mı geçtin?<br/><br/>+ valla gemiye porto riko'dan biniyorum da miami'ye de uğruyoruz. amerikan firması şuayip abi.<br/>- antalya bağlantılıdır kesin.<br/><br/>+ evet yaa, birleştirmişler bayramı. 10 gün tatil var.<br/>- napıcan gidicen mi antalya'ya.<br/><br/>+ yeni bir yere başladım şuayip abi. evet arabayla gidip geliyorum.<br/>- antalya?<br/>+ yok abi istanbul.<br/>- ha antalya'ya arada gidiyosun.<br/><br/>+ valla abi marmaris tarafına bir bak. ben çok beğeniyorum o tarafı.<br/>- yok be ali, antalya'ya gideriz herelde yaa. sen de orda olursan görüşürüz.<br/><br/>15 yıl boyunca antalya ile bu zamana kadar ufacık bir teşrik-i mesaim olmamasına rağmen her seferinde antalya ile sınadı beni şuayip abi. imtihan dünyası dedim. cenabı hak da beni bunla imtihan ediyo dedim. bozmadım şuayip'i. öyle böyle geçiştirdim. zaten kafada saç da kalmayınca mach3 ile sakal tıraşı olur gibi, heisenberg reis'i de her seferinde selamlayarak, duşta kendim tıraş olmaya başlayınca az uğrar oldum şuayip'e. ama irtibatı da tam olarak kesmedim hiç. sonra şehirlere bombalar yağmaya başladı. turizm sektörüne kıran girdi. boran vurdu. turizm zatürre oldu. turizm sol yanından kurşun yedi. turizm baharı bekleyen bir kumruya dönüştü. sezon açıldı ama güneşli günler görülemedi.<br/><br/>bir turizmci olarak kendimi, ''titanic'in batacağını anladığı halde performansına devam eden orkestranın şefi'' gibi hissettiğim dönemdi ve kafamı duş alırken mach3lemeye aşırı üşeniyordum. şuayip'e gittim. şuayip'e süzüldüm, şuayip'e yükseldim.<br/><br/>krizin boyutu öyle büyük ki, şuayip'in antalyası çıkmış aklımdan. başka diyarlardayım. girdim içeri. sıra var mı? yok. şuayip'in bir klasiği var. koltuğa oturmadan evvel bir ön sohbet girişi, detaysız. koltuğa oturduktan sonra antalya. yaşlı bir amcayı top enseye çevirdi. bitti. oturdum.<br/><br/>- ali nerelerdesin olum, sesin soluğun çıkmıyo?<br/>+ valla abi krizle uğraşıyoruz be...<br/>- ee niye olum antalya dolu, geçen a haber'de izledim..<br/><br/>dedi ve bende film koptu. 15 sene sabrettim. şuayip'e antalya şehrinin manevi anahtarını vericekler herelde dedim, eğlenmeye çalıştım. antalya'nın onursal belediye başkanı mı lan bu yoksa dedim makaraya vurdum. ama artık yeter. ay yine mi keder ama artık yeter gibi.<br/><br/>siniri krizi geçirmişim, sonrasını hatırlamıyorum. kriz esnasında havluyu mavluyu fırlatıp kafam köpüklü bir şekilde koltuktan kalkmışım. şuayip'i zorla koltuğa oturtup bana nazire edercesine uzattığı ipeksi saçlarını moser makinanın taraksız haliyle sıfıra vurmuşum. sonra kulak kıllarını ispirtoyla yakmaya çalışırken ispirto sağa sola sıçrayınca şuayip'in gömlek alev almış. yanıyorum diye bağırınca kafasını lavaboya eğip yıkamaya çalışmışım. ortalık karışmış yani.<br/><br/>gözümü karakolda açtım. kendime geldiğimde şuayip komisere mevzuyu anlatıyordu:<br/><br/>- ya elimizde büyüdü bu çocuk. turizm okuycam dedi gitmek istemiyodu zorla antalya'ya gönderdik...<br/><br/>öldürücem kendimi, yakıcam antalya'yı.
+   
+  entry_writer: lethassisu
+- entry_name: |
+    bebek büyüten annelerin yalnızlığı
+  entry_id: 63039690
+  entry_content: |
+    
+    işimden sıkıldım diyene suuus maden işçilerini düşün....<br/>acıktım diyene afrikada açlar varken...<br/>eşimden ayrılacağım diyene benim annem her gün dayak yedi ama dayandıı...<br/><br/>yani bir başkasının daha çok acı çekmiş olması kişinin deneyimini yok saymayı mı gerektiriyor? herkesin mi içine kocakarı mı kaçtı? <br/><br/>not: evde bir baba olduğunu ve işe gittiğini düşünelim. bu adamcağız ne yaparsa yapsın, ne kadar iyi bir eş ve baba olursa olsun o yalnızlığa yapabileceği bir şey yok. birincisi adam işe gidiyor, yoruluyor zaten. eve geldiğinde bebek bakımını tamamen üstlense bile, zaman az. ikinci olarak meme nedeniyle bebek anneye yapışık gibi bir şey. gece elli kere uyanır anne. sonra sabah uykusuz haliyle kalkıp bebeğin sorumluluğunu üstlenir. ve döngüseldir. emzir, gaz çıkar, altını değiştir, uyut, emzir, .... böyle geçer bütün gün. bebek 4 aylık olana kadar 3 saatte bir bu döngü başa sarar. 4. aydan sonra 4 saatte bir döngü başlar. bebek büyüdükçe derdi de büyür. emeklemeye başladığı anda gözünü 1 sn üstünden ayıramazsın. tuvalete gidemezsin. tek başına huzurla tuvalete gitmek, yemeği sıcakken yemek, 1 dk sürse de duş almak dünyanın en büyük mutluluğu gibi gelir. yastık ve yorgana aşk beslersin. dünyanın parasını verseler o yastık kokusuna, yanağına değdiği andaki serinliğe tercih etmezsin. şimdi hatırlıyorum da o dönem en çok aklımda kalan yastık ve yorgana duyduğum derin tutku. uykuu. uyku, bütün isteğim buydu.<br/><br/>anlamadığınız yaşamadığınız konuda konuşmayın. <br/><br/>şu annelikle ilgili en büyük dertlerden biri bilmeden etmeden benim annemin zamanında şu yokmuş bu yokmuş diye kafa siken tipler. çilekeşliği yücelte yücelte bitmediniz.
+   
+  entry_writer: mosquito
+- entry_name: |
+    trafik sigortası
+  entry_id: 63048587
+  entry_content: |
+    
+    madem tartışması var, 5000 tl'lik arabaya 1500 tl primi açıklamaya çalışayım.  <br/><br/>öncelikle;<br/><br/>- türkiye'de son 10 yılda 10 milyonun üzerinde trafik kazası oldu. bu kazalarda 40 binin üzerinde vatandaş yaşamını yitirdi. yaklaşık 2,5 milyon kişi yaralandı.<br/><br/>- trafik sigortası'nın ölüm ve yaralanmalı kazalarda binek araçlar için 2016 yılı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sigortamerkezi.com/trafik-sigortasi-teminatlari-s51.html" title="https://www.sigortamerkezi.com/trafik-sigortasi-teminatlari-s51.html">teminat limiti</a> kaza başı 1.550.000 tl.<br/><br/>bunlarla birlikte, herkeste oluşan "trafik sigortası kazada karşı tarafta oluşan zararı öder" ifadesi eksiktir. zira kaza anında kusurlu araçtaki kişiler, içinde oldukları aracın sürücüsünün kusur oranı ile yine o aracın trafik sigortası teminatındadır (bu teminatta şoför hariçtir; hazine müsteşarlığı'nın 01.06.2015'de yayımladığı trafik sigortası genel şartlarına göre; kazalarda kusurlu sürücünün yakınları vefat halinde tazminat talep edemez).<br/><br/>şimdi de şunlara bir göz atalım:<br/><br/>(bkz: <a class="b" href="/?q=volvo+xc60+ve+kartal%27%c4%b1n+yapt%c4%b1%c4%9f%c4%b1+kaza">volvo xc60 ve kartal'ın yaptığı kaza</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://vgy.me/Mv21gf.jpg">https://vgy.me/mv21gf.jpg</a><br/><br/>mesela bu kazadaki kartal sürücüsü asli kusurlu olduğu halde, araçtaki yolculardan ölen ya da yaralanan olsaydı, tofaş kartal'ın trafik sigortası poliçesinden bilirkişi raporuna göre (1.550.000 tl'e kadar) tazminat ödenecekti. <br/><br/>özetle, 5.000 tl'lik aracın priminin 100.000 tl'lik araçtan daha pahalı olmasının sebebi özellikle ölüm ve yaralanmalı kazalarda "daha riskli" olmasıdır. tekrar söylüyorum ülkemiz şartlarında iki aracın primi de pahalıdır (zaten ülke pahalıdır, araç pahalıdır, yedek parça pahalıdır).<br/><br/>ama prim/araç değeri arasında direkt bağlantı kurmak doğru değildir.
+   
+  entry_writer: realsanto
+- entry_name: |
+    ohal'den sonra rte ile ilgili başlık açılmaması
+  entry_id: 63042954
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=cumhurba%c5%9fkan%c4%b1m%c4%b1z%c4%b1n+m%c3%bcthi%c5%9f+bir+insan+olmas%c4%b1">cumhurbaşkanımızın müthiş bir insan olması</a>)
+   
+  entry_writer: beni tez elden everin
+- entry_name: |
+    sözlük yazarlarından yaratıcı iş teklifleri
+  entry_id: 63043965
+  entry_content: |
+    
+    çalıştığı işten sıkılan,,<br/><br/>artık her sabah kalkıp traş olmaktan, takım elbise giymekten, koştur koştur gelip park yeri aramaktan, sığır bir müdürün nazını çekmekten bıkmış.<br/><br/>aldığı üç kuruşu üstüne başına mı kiraya mı, yeme içmeye mi vereyim diye düşünmekten anası ağlamış sözlük yazarlarına tavsiyelerdir.<br/><br/>ufak - orta- yüksek meblağlı sermayelerle neler yapılabilieceği konusunda bir nevi fikir alışverişidir.<br/><br/>sallayın gitsin, isterseniz taşkala yapın amk valla önemli değil.<br/><br/>belki aramızdan bi iki kişi çıkar ciddiye alır konuyu. aklına olan bişe vardır sermaye yetersizliğinden gerçekleştiremiyordur, belki iş gücü eksiktir, belki organizasyon ile ilgili problemler yaşıyordur ne bileyim burda herkes birbirine yarar gibime geliyor.<br/><br/>ankaradayım ve yaklaşık iki senedir araştırmadığım sektör kalmadı.<br/><br/>kreş açayım dedim, kreşten çok çocuk var ama nasıl bir olaysa insanlar çocuklarını kreşe yerleştirmek istediklerinde 2-3 ay sıra bekliyor.<br/><br/>yazın 3 ay sıçıştalar.<br/><br/>bi sürü prosödürlü ve sorumluluk isteyen bi iş.<br/><br/>250 bin tl ye kreşini devreden bir kadınla konuştum, hatun dedi ki en iyi zamanımızda 7 bin tl kazandık kar olarak.<br/><br/>7 bin tl için 250 bin hava parası! mantıksız.<br/><br/>ulan ceviz ekelim dedik, en az 3 - 5 sene içinde mahsul yok bi bok yok. benim yaş geldi 30-32, zamanım yok.<br/><br/>salma tavukçuluk yapsak dedik, araştırdık, bir sürü hibe var, neredeyse cebinden para cıkmıyor ama yumurtaları satmak onlara pazar sağlamak sorun.<br/><br/>büyük şirketler alıyor, onlar da en taban fiyattan öldürüp alıyorlar. parayı da çekle senetle 6 ay sonra vermeyi taahüt ediyorlar.<br/><br/>ha parayı alırsın ama 6 ay sonra gelecek paranın hııaaamınaaaa diye ona da giremedik.<br/><br/>ulan bi dükkan bullalım erzurum artvin taraflarında inanılmaz bir lezzet olan odun ateşinde yatık cağ döneri deneyelim dedik.<br/><br/>kimle konuştuysam ağlıyor. gel kardeşim al bende bütün izinleri alınmış on numara ustasıyla, bacasıyla oturmuş düzeni olan dükkan var hemen sana bırakayım dıyor.<br/><br/>senet yapalım para kazanınca ödemeye başlarsın diyen bile oldu.<br/><br/>organizasyon işine girelim dedik. olmadı.<br/><br/>tekrar bar işine gireyim dedim. bir anda en az hiç gitmese 150 200 arası bi meblağdan bahsediyorlar.<br/><br/>hadi tamam dedim konuştum efes ankara bölgesi satış sorumlusuyla.<br/><br/>adam dediki dostum daha önce de yapmışsın etmişsin bilirsin. 2006 dan sonra bu işlerin tepesine bindiler. dedikleri doğru.<br/><br/>sigara yasağı, fıçı fiyatları, vergiler yasaklar baskılar derken o paraları riske atmaya değmiyor. düzensiz bir hayat da cabası.<br/><br/>kusura bakmayın uzun tutuyorum yazıyı ama biraz daha bu işlere hevesi olan arkadaşların kafalarında bi fikir oluşsun diye yapıyorum.<br/><br/>kredi çekerim, arabam var bi tane külüstür, onu da satarım. üç beş eşten dosttan da bişeler bulurum ama bulduklarımla ne yaparım? yada bulanlar ne yapıyor amk? yok mu lan şöyle sağlam bir başarı hikayesi arkadaş bizi biraz gazlasa falan.<br/><br/>bildiğim tek şey şu lanet bankadan en kısa zamanda defolup gitmek.<br/><br/>iki sene oldu, ha gittim ha gidicem derken iki sene önce kesin ayrılma kararı aldım ama bankaya başladığım sürenin üzerinden 6 sene geçmiş!<br/><br/>of beaa, içimi döktüm lan resmen.<br/><br/>varsa aklında mantıklı makul bi fikir çekinmesin olum, bakarsın biz de yardım ederiz. hatta birbirimize yardım ederiz belli mi olur.<br/><br/>olur tabi amk bi sikim olmaz bizden lan. o kadar da yazdık tüh!<br/><br/><a class="b" href="/?q=edit">edit</a>:beyler bayanlar, şaka maka bi sürü fikir var mesaj olarak gelen, başlığa yazmayıp mesaj olarak geri dönüş yapan bir sürü insan var .<br/>kiminin zamanı var <br/>kiminin parası <br/>kiminin yeri arsası<br/>kiminin kırıkkale de kızılcahamam'da 400 dönüm yeri<br/>kiminin fikri.<br/><br/>yazın, çekinmeyin. hepsini birleştirip birşeyler çıkarabiliriz. sermayeleri birleştirip yeri olan adamın yerinde , fikir ile gelen yazar arkadaşlarla birşeyler yapabiliriz. uzmanlık alanları var bazılarının. bildiğim iş, anladığım sektör diye yazanlar var. hepsini not alıp, kimler ile neler yapabiliriz bakıyorum. hatta beraber de bakabiliriz bi gurup falan kurup. <br/>bir sürü insanmışız lan yaşadığı hayattan işinden nefret eden. belli mi olur aga bakarsın şu işten 3 kişi bile kendini kurtarsa o 3 kişi de 9 kişinin hayatını değiştirir şans bu. sabahtan akşama siyaset spor tartışana kadar arada hayatlarımızı değiştirmeye yönelik de birşeyler yapabiliriz herhalde. denemekten zarar gelmez herhalde ...<br/><br/><a class="b" href="/?q=edit2">edit2</a>: okulu bitirmiş elinde diploması olan bir doktor az önce "yapabileceğim birşey var mı bana göre"diye mesaj attı! devlette direkt işe girmek istemiyorum falan dedi.<br/>durun bakalım enteresan bir hal aldı...
+   
+  entry_writer: koministimam2
+- entry_name: |
+    20 eylül 2016 edirne kipa beni yıka rezaleti
+  entry_id: 63050372
+  entry_content: |
+    
+    öyle göte böyle yarak diyip adamı mülteci çalıştırdığı için maliye bakanlığına, sgk'ya, çalışma ve sosyal güvenlik bakanlığına şikayet edip üzerine bir müfettiş ordusu salabilirsin mesela....<br/><br/>seni dövmeye yazmış mesela. bunun için de savcılığa şikayet edebilirsin...<br/><br/>tüketici hakem heyetine başvurabilirsin...<br/><br/>bu yöntemlerin ne kadar etkin çalışabileceğini bilemiyorum ama denemeye değer.<br/><br/>en azından 150 tl lik zararın için adama daha büyük bir ceza kesilmesini sağlayabilirsin.<br/><br/>yaşasın kahpeler için illegalite diyorsan da gidip basınçlı su sıkan şeyi herifin götüne sokabilirsin.<br/><br/>tercih senin.
+   
+  entry_writer: waytofall
+- entry_name: |
+    küçük memeli kadınların derin dekolte ısrarı
+  entry_id: 63047613
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck+beyinli+yazarlar%c4%b1n+ba%c5%9fl%c4%b1k+a%c3%a7ma+%c4%b1srar%c4%b1">küçük beyinli yazarların başlık açma ısrarı</a>)
+   
+  entry_writer: justmentalamele
+- entry_name: |
+    izlanda huhlaması
+  entry_id: 63040418
+  entry_content: |
+    
+    konya yuhlamasının yanında hiç bir şeydir..<br/><br/>(bkz: <a class="b" href="/?q=13+ekim+2015+t%c3%bcrkiye+izlanda+ma%c3%a7%c4%b1">13 ekim 2015 türkiye izlanda maçı</a>)
+   
+  entry_writer: lordejder
+- entry_name: |
+    iphone 5s
+  entry_id: 63042624
+  entry_content: |
+    
+    arkadaşlar,,<br/><br/>bu telefonu almayı düşünüyor ve bununla ilgili yorum bekliyorsanız, siktirip gidip forumlara yazabilirsiniz.<br/><br/>her telefon başlığına, her pc başlığına, her elektronik alet başlığına "alsam mı bilemedim. yorum pls" diyen adam doldu sözlük ya.<br/><br/>böyle sözlük mü olur amk. insanlığa ne faydanız var? kutsal bilgi kaynağıydı lan bu sitenin mottosu! al bak başlıkta yazan bissürü adam var. demek ki adam kullanıyor da yazmış. sor ona amk. mesaj at. her önüne gelen her soracağı şey için her problem için entry yazıyor. geçen adam vga'dan değil de hdmi'dan bağlayınca bıdıbıdı oluyor ne yapmalıyım diye entry girmiş ya kafamı duvarlara sürttüm!<br/><br/>ha bi de <a class="b" href="/?q=ek%c5%9fi+duyuru">ekşi duyuru</a> diye bişey var. çok güzel. orda soru soruluyor direkt. sizin bu yaptığınız şeye hizmet ediyor yani.
+   
+  entry_writer: kfk
+- entry_name: |
+    türklerin ingilizcesi en kötü olan millet olması
+  entry_id: 63051297
+  entry_content: |
+    
+    siz hiç, bir çinliyle ingilizce konuşmadınız sanırım.
+    
+  entry_writer: flortozhatun
+- entry_name: |
+    soner yalçın'ın 20 eylül 2016 tarihli yazısı
+  entry_id: 63039813
+  entry_content: |
+    
+    tarık akan'ın devrimci olup olmadığı, devrimcinin kim olduğu, kimin solcu ve devrimci olduğunun hükmünü verme hakkını kendinde görenler ve kürtçü olmamanın solcu olmamak sayılması ezberidir yazının konusu..<br/><br/>son dönemde giderek pespayeleşen entelektüel kibir, aidiyetle elde edilmiş sol kimlik üzerine güzel bir yazı olmuş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2016/yazarlar/soner-yalcin/kim-devrimci-1400194/" title="http://www.sozcu.com.tr/2016/yazarlar/soner-yalcin/kim-devrimci-1400194/">yazının tam metni şöyle:</a><br/><br/>" kim devrimci<br/><br/>adı, eren keskin (d.1959)…<br/>röportajlarında kendini şöyle tanıttı:<br/>– “küçükken gittiğim camideki hoca göğüslerimi elleyip cinsel tacizde bulununca ateist olmaya karar verdim.”<br/>– “sekiz ya da dokuz yaşlarındaydım o zamanlar. babamın görevi nedeniyle bursa'daydık. o zaman denizlerin kaçışı konuşuluyordu. bir gün annem kız kardeşimle beni evde yalnız bırakarak dışarı çıkacaktı. gitmeden de tembihledi: ‘kapıyı kim olduğunu sormadan kimselere açmayın. eğer ağabeyler (deniz gezmiş ve arkadaşları) gelirse içeri alın ve kimseye söylemeyin.' biz de dua ederdik ‘n'olur ağabeyler gelsin, biz de saklayalım' diye. denizlere yapılan haksızlık beni etkilemişti bu yüzden avukat olmaya karar verdim…”<br/>– “okulda milli güvenlik dersine bir albay giriyordu. o zamanlar milli güvenlik seçmeli dersti. bütün okulda bir tek ben o dersi seçmemiştim. hoca derse girince ben çıkardım. belli ki o zaman da anti-militarist bir yanım vardı…”<br/>– “istanbul hukuk fakültesi'nin büyük amfisinin ortasında ve sağında otururdu herkes. ben tabii bilmiyorum. gittim, sola oturdum. hemen arkadaşlar uyardılar ama yerimi değiştirmedim.”<br/>– “baba tarafım kürt ama sonuçta dedem valiydi. kürtlüğü sadece mitinglerdeki sloganlardan biliyoruz. bir gün denizdeydik. babamın halasının oğluyla denizde yürümeye başladık. bayağı da sığ bir suydu. biraz ilerledikten sonra, etrafta kimse yokken bana dedi ki: biz kürtüz. bunu sakın unutma.”<br/>insan hakları derneği yöneticiliği de yapan eren keskin şunu bile demiştir:<br/>“kürt milliyetçisi sayabilirim kendimi. zaten anne tarafım çerkez. kesinlikle türk değilim o konuda içim rahat…”<br/>peki…<br/>entelektüel sığlık<br/>eren keskin hafta sonu sosyal medyadan şu yazısını paylaştı:<br/>“tarık akan çocukluk anılarımızın bir parçasıydı. ancak o hep resmi ideolojiyi savundu. nasıl devrimci olabilir ki?”<br/>okuyunca dedim ki…<br/>herhalde eren keskin, “sürü” ve “yol” gibi filmleri seyretmedi; çocukluk anılarında kaldı!<br/>baksanıza… eren keskin'e nasıl solcu, ateist, kürt milliyetçisi olmuş? anlattıkları içinde bir tek “okuma” yok! politik kimliği “aidiyet duygusuyla” oluşmuştu!<br/>bu topraklarda böyle entelektüel olunuyor; bu kadar kolay aydın olunuyor!<br/>işte… bu “donanımıyla” eren keskin, bu ülkedeki kimi kürtlerin “rol modelliğini” yapıyor!<br/>tersini düşünürsek:<br/>örneğin, ateist biri göğüslerini ellese eren keskin şeriatçı mı olacaktı?<br/>ya da annesi “ülkücüleri saklayın” dese asena olmaya mı karar verecekti?<br/>ya babası türk olsaydı; devlet bahçeli'nin danışmanlığını mı yapacaktı?<br/>uzatmayayım diye yazmadım bir de makyaj meselesi var. solcu bir derneğe giderken annesi “yüzü solgun” diye allık sürüyor kızına. dernekte eren keskin'e aşık lider, makyaja çok kızıyor ve özeleştiri yapmasını istiyor. eren keskin lidere aşık değil, özeleştiri yapmıyor ve o günden sonra makyaj yapmaya başlıyor!<br/>evet. şurası kesin ki; eren keskin tarık akan'ın romantik salon filmlerinin etkisinden kurtulamamış! şaka mı tüm bunlar?<br/>kürt siyasal hareketinin önder kadrosunun donanımı bu mudur?<br/>yoksa sadece bir vitrin süsü müdür eren keskin?..<br/>ne olursa olsun işin daha da acıklısı:<br/>halka hizmet etmeyi yücelten büyük sanatçı tarık akan'da da buluşmayacaklar ise, kimle birleşecekler? belli… bilinç düzeyi ortada olan ve tarık akan'ı devrimci bulmayan keskin kürt milliyetçiliğinin geldiği yer burasıdır.<br/>bu rezilliktir<br/>sadece sinema değil…<br/>sadece belgesel değil…<br/>demek…<br/>gezi direnişi'nde olan;<br/>tekel işçileri direnişinde bulunan;<br/>zonguldak'dan soma'ya madencilerin yanında duran;<br/>emperyalist kumpaslara karşı barikat yıkan;<br/>nazım hikmet vakfı için didinen;<br/>aziz nesin vakfı için çalışan;<br/>barış derneği kurucusu;<br/>ve hep disk üyesi;<br/>tarık akan devrimci değil öyle mi?<br/>devrimci olup olmadığına; dayanışmayı değil, umursamazlığı siyaset haline getiren kürt milliyetçisi keskinler mi karar verecek?<br/>ne yani…<br/>ankara/kızılay'da 13 mart akşamı; lise öğrecileri destina, dorukhan, atakan, mehmet ile; üniversite öğrencileri berkay, kerim, sümeyra, feyza, elvin, zeynep, ozan, can'ı canlı bombayla katleden pkk mı devrimci?<br/>yıllarca bu kör teröre karşı çıkan tarık akan mı devrimci değil! hadi ordan!<br/>bakınız…<br/>benim derdim eren keskin değil… kafka “dava” kitabında şöyle der:<br/>“yargı birden gelmez, prosedür yavaş yavaş yargıya dönüşür.”<br/>tarık akan'ın devrimci olmadığı sözünü bu nedenle önemsiyorum. baksanıza, kaç gün geçmesine rağmen, türkiyeli olmayı önemseyen kürtlerden bile o sosyal medya yorumuna eleştiri gelmedi!<br/>bunu kabul edemeyiz. susamayız.<br/>bu ülkenin vicdanlı solcuları var. birgün gazetesinden sinema yazarı zahit atam, tarık akan'ı devrimci bulmayanlara şu yanıtı verdi:<br/>“kimi kez kürtçülerle akp'lilerin benzer hassasiyetlerle tarihimizdeki figürlere ilişkin konuşmaları midemi bulandırıyor. bu rezillik bitsin artık!”<br/>eren keskinler kürt olmayan kimseyi sevmiyor; ve devrimci bulmuyor. bu duruş, emperyalizmin böl ve yönet stratejisine uygundur.<br/>tarih, vitrin süslerini değil tarık akan gibi devrimcileri unutmaz!"
+   
+  entry_writer: paranoyaklar takip edilmiyor mu sanki
+- entry_name: |
+    the o.c.'den akılda kalanlar
+  entry_id: 63042893
+  entry_content: |
+    
+    muhteşem soundtrackidir. bu dizi sayesinde ne gruplar ne şarkılar keşfettik! ne güzel diziydi be! kalbimde yeri çok ayrıdır.
+    
+  entry_writer: venus
+- entry_name: |
+    eren derdiyok
+  entry_id: 63040286
+  entry_content: |
+    
+    bugüne kadar galatasaraylıların abarttığını düşündüğüm forvetti..<br/>çünkü demba ve gomez ile forvet nasıl olunmalıyı görmüştük beşiktaş camiası olarak ama sonradan anladımki adamlar abartmalarında gayet haklılar. yani fabricio azcık top tutup isabetli pas atınca bizi bayağı mutlu ediyor gel gör ki galatasaraylı muslera gördüğü için abartıyor diyebilir. yani adamlar senelerdir umut bulut tipi adamlarla cebelleştikleri için haklılar. aynı durum bizde tolga yüzünden oluyor. <br/>ayrıca vuruşları çok iyi kasımpaşadaykende iyi olduğunu düşünürdüm. güzel bir derbi olması çekişmeli olması için eren gibi bir forvete ihtiyacı vardı galatasarayın. <br/>sorunsuz kavgasız bol çekişmeli güzel bir derbi gösterir umarım bize.
+   
+  entry_writer: okuyanesssek
+- entry_name: |
+    android
+  entry_id: 63041399
+  entry_content: |
+    
+    hoparlörü olmayan işletim sistemi.
+    
+  entry_writer: yeni bela husnu
+- entry_name: |
+    hamit altıntop
+  entry_id: 63040582
+  entry_content: |
+    
+    bugün izledim görüntüleri. maçı koparmışken, oyuncu değişiklik hakkı hala varken, son 30 saniye oyuna girip maç başını cukkalamasına izin vermeyen riekerink bey'e sinirlenmiş. herkes maç bitiminde mutluyken son düdükle birlikte şişe falan tekmeleyip soyunma odasına giderek güzelim ortamı bok etmeye uğraşmış..<br/><br/>yata yata ömürlük yaptın galatasaray üzerinden, daha yetmedi rızık efendi. zerre utanması olmadığı gibi bir de zeytinyağı gibi üste çıkabiliyor lan adam. ne güzel hayat valla.
+   
+  entry_writer: ecs
+- entry_name: |
+    tanrılara başkaldırma zamanının da gelmesi
+  entry_id: 63041720
+  entry_content: |
+    
+    gılgamış dur allahını seversen zaten ortalık karışık... denilesi olay.
+    
+  entry_writer: senin pezevenk enisten
+- entry_name: |
+    tayyip erdoğan olmasa cemaatin bitmeyecek olması
+  entry_id: 63052680
+  entry_content: |
+    
+    recep tayyip erdoğan'a bir size iki. asıl kendisi ne zaman bitecek aq? biz bittik lan. ömrümüz bitti lan. bitiyor. ama o bitmedi. böyle adaletin...
+    
+  entry_writer: excelsior
+- entry_name: |
+    yağmur başlayınca camı kapatan insan
+  entry_id: 63054187
+  entry_content: |
+    
+    olum mal mısınız la romantik olucam diye yine bi havalara girmişsiniz dkskskskk<br/><br/>tabi ki evin içi ıslanmasın parkeler ıslanıp kabarmasın diye yapılır ama siz daha yağmur kokusu falan filan diyerek romantiklik kasmaya devam edin. gerçek hayata dönün biraz rica edicimm.
+   
+  entry_writer: esini bulmus corap
+- entry_name: |
+    türkiye'de eşcinsel olmak
+  entry_id: 63039629
+  entry_content: |
+    
+    bir kadının şort giydiği için tekmelendiği bir ülkede mutlaka zor olan durumdur. eşcinsellik saç rengi, göz rengi gibi varoluştan gelen bir cinsel yönelimdir ki buna hala hastalık, kusur, seçim, tercih diyen varlıkların yaşıyor olması çok acı.  <br/><br/>kafayı sadece üremeye takmış homofobik heteroseksüellere şunu demek istiyorum ki eşcinselleri sizler doğuruyorsunuz. leylekler getirmedi bizi tatlım, inanın. <br/><br/>vardık, varız, var olacağız. alışın, buradayız, gitmiyoruz.
+   
+  entry_writer: eightyfive
+- entry_name: |
+    grip aşısı
+  entry_id: 63040891
+  entry_content: |
+    
+    grip aşısıyla ilgili yazdıklarım üzerine özelden şu eleştiri geldi::<br/><br/>"içerisinde aliminyum, formaldehit ve thimerosal var. düzenli aşılama yapıldığında sinir sistemine az miktarda da olsa zararı var."<br/><br/>halbuki grip aşılarının hiçbirinde <a class="b" href="/?q=aluminyum">aluminyum</a> yok: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cdc.gov/vaccines/pubs/pinkbook/downloads/appendices/B/excipient-table-2.pdf" title="http://www.cdc.gov/vaccines/pubs/pinkbook/downloads/appendices/B/excipient-table-2.pdf">http://www.cdc.gov/…endices/b/excipient-table-2.pdf</a><br/><br/><a class="b" href="/?q=formaldehit">formaldehit</a> var (virüsleri deaktive etmek için kullanılıyormuş). ama formaldehit her gün yediğimiz meyve ve sebzelerde var ve aşıdakinden yüzlerce kat fazla miktarlarda mevcut: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cfs.gov.hk/english/whatsnew/whatsnew_fa/files/formaldehyde.pdf" title="http://www.cfs.gov.hk/english/whatsnew/whatsnew_fa/files/formaldehyde.pdf">http://www.cfs.gov.hk/…ew_fa/files/formaldehyde.pdf</a><br/><br/><a class="b" href="/?q=thimerosal">thimerosal</a> çoğunda var (koruyucu madde olarak kullanılıyor). üzerinde çalışmalar yapılmış. bir zararı yok. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/15342856">https://www.ncbi.nlm.nih.gov/pubmed/15342856</a> çocuklar üzerindeki kümülatif etkileri de araştırılmış. sorun yok. <a rel="nofollow noopener" class="url" target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/risa.12124/abstract" title="http://onlinelibrary.wiley.com/doi/10.1111/risa.12124/abstract">http://onlinelibrary.wiley.com/…risa.12124/abstract</a> hakkında "cıvaya dönüşüp zehirliyor" hurafesi var o da hatalı bilgi. metil cıva değil, etil cıva'ya dönüşüyormuş. etil cıva büyük moleküllü olduğundan kan beyin bariyerini geçemeyip vücuttan atılıp gidiyormuş. dünya sağlık örgütü de aynısını diyor: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.who.int/vaccine_safety/committee/topics/thiomersal/statement_jul2006/en/" title="http://www.who.int/vaccine_safety/committee/topics/thiomersal/statement_jul2006/en/">http://www.who.int/…hiomersal/statement_jul2006/en/</a><br/><br/>okurken grip aşısı hakkında bazı bilmediğim gerçekleri de öğrendim:<br/><br/>- hamilelerin grip aşısı olmasında sakınca yokmuş: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/23635613">https://www.ncbi.nlm.nih.gov/pubmed/23635613</a> hatta grip aşısı doğan çocuklarda bipolar riskini azaltıyormuş: <a rel="nofollow noopener" class="url" target="_blank" href="http://archpsyc.jamanetwork.com/article.aspx?articleid=1686037" title="http://archpsyc.jamanetwork.com/article.aspx?articleid=1686037">http://archpsyc.jamanetwork.com/…?articleid=1686037</a> bebekteki akut solunum enfeksiyonlarını engelleyebiliyormuş: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/23856786">https://www.ncbi.nlm.nih.gov/pubmed/23856786</a> düşük riskini azaltıyormuş: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.nejm.org/doi/full/10.1056/NEJMoa1207210">http://www.nejm.org/doi/full/10.1056/nejmoa1207210</a> diğer doğum komplikasyonu risklerini azaltıyormuş: <a rel="nofollow noopener" class="url" target="_blank" href="http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2011.300606?journalCode=ajph&amp;" title="http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2011.300606?journalCode=ajph&amp;">http://ajph.aphapublications.org/…journalcode=ajph&amp;</a><br/><br/>- bağışıklık sistemini zayıflatmıyor, tam tersine güçlendiriyormuş. bağışıklık sistemi için bir prova gibi olduğundan.<br/><br/>bunları da kapsayan ve genel olarak tüm bu hurafeleri çürüten aldığım kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://gizmodo.com/setting-the-record-straight-debunking-all-the-flu-vacc-1455630807" title="https://gizmodo.com/setting-the-record-straight-debunking-all-the-flu-vacc-1455630807">https://gizmodo.com/…ng-all-the-flu-vacc-1455630807</a>
+   
+  entry_writer: ssg
+- entry_name: |
+    erkek arkadaşının penisine çivi sokan kadın
+  entry_id: 63043198
+  entry_content: |
+    
+    şimdi skeptico gelecek ve "gördüğünüz gibi erkekler kadınlardan daha mağdur" diye ağlayacak..<br/><br/>allahın cezası kadın. psikopat.
+   
+  entry_writer: burnuna sinek konmus somali katibi
+---
