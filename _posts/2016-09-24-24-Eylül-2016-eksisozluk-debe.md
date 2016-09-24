@@ -15,7 +15,7 @@ data:
   entry_id: 63097842
   entry_content: |
     
-    habere göre eleman istekte bulunmuş ve hoca da kırmamış. kaç bin km uzaktayız acaba şu zihniyetten??<br/><br/>(bkz: <a class="b" href="/?q=bu+medeniyet+bir+de%c4%9fi%c5%9fik+dostum">bu medeniyet bir değişik dostum</a>)<br/><br/>bizde işler farklı yürüyor tabi o ayrı.
+    habere göre eleman istekte bulunmuş ve hoca da kırmamış. kaç bin km uzaktayız acaba şu zihniyetten??<br/><br/>(bkz: <a class="b" href="/?q=bu+medeniyet+bir+de%c4%9fi%c5%9fik+dostum">bu medeniyet bir değişik dostum</a>)<br/><br/>bizde işler farklı yürüyor tabi o ayrı.<br/><br/>debe edit: sosyal sorumluluk adı altında yapılan debe editlerinin olayları laçkalaştırdığını, insanların konuya daha soğuk yaklaşmasına sebep olduğunu düşünüyorum. çoğu kişi okumadan dahi geçip gidiyor. bilmiyorum belki de ben kötü bir insanım :)
    
   entry_writer: film evde izlenir
 - entry_name: |
@@ -23,8 +23,8 @@ data:
   entry_id: 63105204
   entry_content: |
     
-    açmadan önce mobil veri'yi kapatarak uzaylılara çaktırmadan mesajı okuyabiliriz.
-    
+    açmadan önce mobil veri'yi kapatarak uzaylılara çaktırmadan mesajı okuyabiliriz..<br/><br/>debe edit: gün içinde şişli etfal'de ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>iletişim: 0531 834 9297 cem bilos
+   
   entry_writer: superdem
 - entry_name: |
     odtü makina'dan türkiye güzeli çıkması
@@ -34,14 +34,6 @@ data:
     her 10 erkeğe 1 erkeğin düştüğü bölümle ilgili fake haberdir.  <br/><br/>kıbrıs odtü olmasın o?<br/><br/>edit : yok yok bildiğin ankara yerleşkesinden. haber doğru. eşli danslar topluluğuna da üye. <br/><br/>bence odtü makina bölümü artık zirvede iken kapatılmalı. adamların intikamı çok sert oldu. yıllardır bölüm dışından kimseyi içeri almadıkları gizli bir atelyeleri vardı. yılların birikiminin ürünü. kendileri yapmışlardır yıllar yılı ilmik ilmik işleyerek kesin japon işi filminde olduğu gibi.
    
   entry_writer: crazyspecialist
-- entry_name: |
-    imdb'de uzunun hayatını anlatan reis filmi
-  entry_id: 63099608
-  entry_content: |
-    
-    galerisiyle beni yarım yarım yarmış olan filmdir.  <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.imdb.com/title/tt5988370/mediaindex?ref_=m_tt_pv_mi_sm" title="http://m.imdb.com/title/tt5988370/mediaindex?ref_=m_tt_pv_mi_sm">buyrun</a><br/><br/>aktrollere cevap hakkı editi: o kadar tehdit aldım ki şunu paylaştığım için... çok doğru yapmışım paylaşarak dedim. bu arada yurtdışındayım. dün sizin uzun burda konuşma yaptı. kimse pipisine takmadı. haberiniz olsun. bilin istedim.<br/><br/>edit2: göremeyenler oluyormuş. <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/88XNVQ.png" title="http://i.hizliresim.com/88XNVQ.png">bu da ekran görüntüsü</a>dür.<br/><br/>debedit: ingilizce işletme fakültesi mezunu, önemli bir firmada 1 sene deneyimi olan tanıdığıma insan kaynakları departmanında iş bakıyoruz. izmir tercih sebebidir. yardımcı olabilecekler yeşillendirebilir.
-   
-  entry_writer: excelsior
 - entry_name: |
     23 eylül 2016 redhack'in b. albayrak'ı hack'lemesi
   entry_id: 63106118
@@ -79,15 +71,15 @@ data:
   entry_id: 63094130
   entry_content: |
     
-    neyse ki motorcu dediğin doğal seleksiyona maruz kalıyor. kendiliğinden geberip gidiyor.
-    
+    neyse ki motorcu dediğin doğal seleksiyona maruz kalıyor. kendiliğinden geberip gidiyor..<br/><br/>edit : gün içinde sisli etfal'de ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>iletisim : cem bilos : 0531 834 9297
+   
   entry_writer: syd barrett in kedisi
 - entry_name: |
     emlak balonu
   entry_id: 63094226
   entry_content: |
     
-    bi arkadaş kabaca demiş ki 2000 tl maaşla 1 milyon tllik evi nasi alacagiz? bu 800bin tllik-1 milyonluk evleri kim nasi alabiliyor, bu parayi nasil kazaniyor diye sormuş..<br/><br/>bu evler ve arsalari uzaydan gelmiyor arkadaşlar. <br/><br/>arkadasimin kadikoyde sikik bi muhitte dandik bi evi vardi. emekli ikramiyesi ile annesi almiş. ev şuan 750bin tl ederinde. <br/><br/>adamin biri izmir bucada gecekondu yapmiş şehrin dişina 30 sene evvel. bulundugu yere 9 eylul<br/>kampusu geldi. adamin şuan 8 tane 1+0 dairesi var ayligi 1000 er tlden ogrencilere kiraya verdigi.<br/><br/>zira bi hasan amca var burda. 20 sene once mi ne 3-4 maaşa bi ev almiş döküntü. her yerini kendi tamir tadilat etmiş hatta anlatir durur habire. geçen muteahhite verdi, 250bin tllik 2 dairesi olacak şimdi. 2 cocugu oturacakmis orda. iki cocugunu da taniyorum 40 yaşlarindalar ve 800-900 tl maaşla zar zor gecinmeye calisiyorlar ama simdi 250bin tllik evleri olacak. ama 20 sene evvel işyerine 15 dakikada gidebilirken artik trafikten dolayi 45-50 dakikadan once gidemiyor. 20 sene evvel iş kosullari çok rahatken bugun 5 dakka izin alamiyor patronundan (kendi beyani). ama 250binlik evi var, zenginledi (sahte)<br/><br/>bunun gibi binlerce ornek sayabilirim, sektordeyim.<br/><br/>son 10 senede emlak deger artisi ile oncesinde iyi noktalarda mal mulk sahibi olan herkes sahte bi zenginlik yaşadi, yasiyor.<br/><br/>totalde ise yaşam kalitemiz hizla dusuyor. <br/><br/>mesela eskiden kadikoyde 150bin tllik dairede oturan bi aile arabasini evinin onune park edip evine cikardi, haftasonu caddebostana gidip rahat rahat ayaklari uzatip çayini içerdi. şimdi ise 800binlik dairesinde zengin zengin otururken apartmanla otopark kavgasi yapiyor cunku 12 daireye 10 araclik park yeri var. haftasonu caddebostanda gotunu koycak yer bulamiyor, huzur bulmaya gittigi yerde aslinda kafasini şişişip geliyor farkinda olmuyor, starbucksa gittiginde 25 kişi kuyruk bekliyor.<br/><br/>kisacasi kimse 2000 tl maasla 1 milyonluk evi almiyor. 15 sene once 50bin eden daireyi bugun 500bine satip da aliyor. sahte zenginlik yanilgisi hepsi. cebimizde para artiyor ama stress, mutsuzluk daha hizli artiyor, yaşam kalitesi yillara gore hep dusuyor. uzun uzun tartisirim da yazarak degil.<br/><br/>edit: mesela 15 sene önce oturduğun ev 100bin tl idi, altında araba yoktu. bugün aynı evin 750bin tl oldu. altına da passat aldın ama sabah işe giderken arabanın üstünden metrobüs geçiyor. sözde zenginliyorsun ama yaşam kaliten ve güvenliğin hızla dibe gidiyor.
+    bi arkadaş kabaca demiş ki 2000 tl maaşla 1 milyon tllik evi nasi alacagiz? bu 800bin tllik-1 milyonluk evleri kim nasi alabiliyor, bu parayi nasil kazaniyor diye sormuş..<br/><br/>bu evler ve arsalari uzaydan gelmiyor arkadaşlar. <br/><br/>arkadasimin kadikoyde sikik bi muhitte dandik bi evi vardi. emekli ikramiyesi ile annesi almiş. ev şuan 750bin tl ederinde. <br/><br/>adamin biri izmir bucada gecekondu yapmiş şehrin dişina 30 sene evvel. bulundugu yere 9 eylul<br/>kampusu geldi. adamin şuan 8 tane 1+0 dairesi var ayligi 1000 er tlden ogrencilere kiraya verdigi.<br/><br/>mesela bi hasan amca var burda. 20 sene once mi ne 3-4 maaşa bi ev almiş döküntü. her yerini kendi tamir tadilat etmiş hatta anlatir durur habire. geçen muteahhite verdi, 250bin tllik 2 dairesi olacak şimdi. 2 cocugu oturacakmis orda. iki cocugunu da taniyorum 40 yaşlarindalar ve 800-900 tl maaşla zar zor gecinmeye calisiyorlar ama simdi 250bin tllik evleri olacak. ama 20 sene evvel işyerine 15 dakikada gidebilirken artik trafikten dolayi 45-50 dakikadan once gidemiyor. 20 sene evvel iş kosullari çok rahatken bugun 5 dakka izin alamiyor patronundan (kendi beyani). ama 250binlik evi var, zenginledi (sahte)<br/><br/>bunun gibi binlerce ornek sayabilirim, sektordeyim.<br/><br/>son 10 senede emlak deger artisi ile oncesinde iyi noktalarda mal mulk sahibi olan herkes sahte bi zenginlik yaşadi, yasiyor.<br/><br/>totalde ise yaşam kalitemiz hizla dusuyor. <br/><br/>mesela eskiden kadikoyde 150bin tllik dairede oturan bi aile arabasini evinin onune park edip evine cikardi, haftasonu caddebostana gidip rahat rahat ayaklari uzatip çayini içerdi. şimdi ise 800binlik dairesinde zengin zengin otururken apartmanla otopark kavgasi yapiyor cunku 12 daireye 10 araclik park yeri var. haftasonu caddebostanda gotunu koycak yer bulamiyor, huzur bulmaya gittigi yerde aslinda kafasini şişişip geliyor farkinda olmuyor, starbucksa gittiginde 25 kişi kuyruk bekliyor.<br/><br/>kisacasi kimse 2000 tl maasla 1 milyonluk evi almiyor. 15 sene once 50bin eden daireyi bugun 500bine satip da aliyor. sahte zenginlik yanilgisi hepsi. cebimizde para artiyor ama stress, mutsuzluk daha hizli artiyor, yaşam kalitesi yillara gore hep dusuyor. uzun uzun tartisirim da yazarak degil.<br/><br/>edit: mesela 15 sene önce oturduğun ev 100bin tl idi, altında araba yoktu. bugün aynı evin 750bin tl oldu. altına da passat aldın ama sabah işe giderken arabanın üstünden metrobüs geçiyor. sözde zenginliyorsun ama yaşam kaliten ve güvenliğin hızla dibe gidiyor.
    
   entry_writer: beeyore
 - entry_name: |
@@ -95,31 +87,23 @@ data:
   entry_id: 63096188
   entry_content: |
     
-     <a class="b" href="/?q=yeni+gelin">yeni gelin</a> kafasinin yeni bir tezahürü. arkadas yettiniz ya, kimisi yedigini paylasir, kimisi kocasinin resimlerini paylasir. bu da nasil evlendigini falan paylasmis.<br/><br/>(bkz: <a class="b" href="/?q=bize+ne+g%c3%bczel+karde%c5%9fim">bize ne güzel kardeşim</a>)
+     <a class="b" href="/?q=yeni+gelin">yeni gelin</a> kafasinin yeni bir tezahürü. arkadas yettiniz ya, kimisi yedigini paylasir, kimisi kocasinin resimlerini paylasir. bu da nasil evlendigini falan paylasmis.<br/><br/>(bkz: <a class="b" href="/?q=bize+ne+g%c3%bczel+karde%c5%9fim">bize ne güzel kardeşim</a>)<br/><br/><a class="b" href="/?q=kaptankanca">kaptankanca</a> der ki, <br/><br/>gün içinde sisli etfalde ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>ıletisim<br/>cem bilos: 0531 834 9297
    
   entry_writer: solaryum
-- entry_name: |
-    spotify
-  entry_id: 63096153
-  entry_content: |
-    
-    seri eksi veren ibne benim, haberiniz olsun.
-    
-  entry_writer: erkefur
 - entry_name: |
     polonya'da kürtajın tamamen yasaklanması
   entry_id: 63100511
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=polonya+%c3%a7omar%c4%b1">polonya çomarı</a>)
+    (bkz:  <a class="b" href="/?q=polonya+%c3%a7omar%c4%b1">polonya çomarı</a>)<br/><br/>- kamu spotu -<br/>gün içinde sisli etfalde ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>ıletisim<br/>cem bilos: 0531 834 9297<br/>- kamu spotu -
    
   entry_writer: piflo
 - entry_name: |
-    24 eylül 2016 moody's kredi notu indirimi
+    24 eylül 2016 moody's'in kredi notunu düşürmesi
   entry_id: 63109804
   entry_content: |
     
-    1994 yılındaki kredi notumuza dönmemiz anlamına gelir. 22 yılda gelinen nokta cidden çok iyi... bu notlandırma, ekonomik verilerden çok siyasal. tayyip'in ipi çekilmiş çomar kardeşlerim, büyük oyunu görün.  <br/><br/>cahiller için bilal'e anlatır gibi anlatayım..<br/><br/>ba1 ya da bb+ yatırım yapılabilir bir ülkeye verilebilecek en düşük kredi notudur. bilalcesi; yani yurt dışından bir şirket, bir ülkeye yatırım yapmadan önce bu notlara bakarak karar verir. tek teselli, stable(durağan) olarak gösterilmemiz.<br/><br/>moody's haricinde diğer sözü geçen kredilendirme kuruluşları standart & poor's ve fitch'in bb+ kredi notuna tekabül eder. bütün bu kurumlar abd'nin emir ve komutasındadır. verdikleri kararlar ekonomik olduğu kadar siyasaldır da.. beni en çok korkutan bu zaten.ten.<br/><br/>bu nota sahip diğer ülkeler;<br/><br/>romanya<br/>macaristan<br/>paraguay<br/>portekiz<br/>hırvatistan<br/>endonezya<br/>barbados<br/>honduras<br/>kosta rika<br/>guatemala<br/>fas<br/><br/>ve rusya... <br/><br/>rusya'nın bu nota sahip olmasının nedeni ekonomik olduğu kadar siyasaldır. kendilerinin ukrayna fantezisinden sonra bu nota düştüğünü de belirtmek gerekir. rusya'yı bu listeden çıkarttığımızda; kendimize kıyas kabul edeceğimiz bir adet ülke bulana benden bir adet çokomel. <br/><br/>çomarlar için özet; dünya liderinizi bu dünyada sikine takan kurum yok.
+    1994 yılındaki kredi notumuza dönmemiz anlamına gelir. 22 yılda gelinen nokta cidden çok iyi... bu notlandırma, ekonomik verilerden çok siyasal. erdoğan'ın ipi çekilmiş çomar kardeşlerim, büyük oyunu görün.  <br/><br/>cahiller için bilal'e anlatır gibi anlatayım..<br/><br/>ba1 ya da bb+ yatırım yapılabilir bir ülkeye verilebilecek en düşük kredi notudur. bilalcesi; yani yurt dışından bir şirket, bir ülkeye yatırım yapmadan önce bu notlara bakarak karar verir. tek teselli, stable(durağan) olarak gösterilmemiz.<br/><br/>moody's haricinde diğer sözü geçen kredilendirme kuruluşları standart & poor's ve fitch'in bb+ kredi notuna tekabül eder. bütün bu kurumlar abd'nin emir ve komutasındadır. verdikleri kararlar ekonomik olduğu kadar siyasaldır da.. beni en çok korkutan bu zaten.ten.<br/><br/>bu nota sahip diğer ülkeler;<br/><br/>romanya<br/>macaristan<br/>paraguay<br/>portekiz<br/>hırvatistan<br/>endonezya<br/>barbados<br/>honduras<br/>kosta rika<br/>guatemala<br/>fas<br/><br/>ve rusya... <br/><br/>rusya'nın bu nota sahip olmasının nedeni ekonomik olduğu kadar siyasaldır. kendilerinin ukrayna fantezisinden sonra bu nota düştüğünü de belirtmek gerekir. rusya'yı bu listeden çıkarttığımızda; kendimize kıyas kabul edeceğimiz bir adet ülke bulana benden bir adet çokomel. <br/><br/>çomarlar için özet; dünya liderinizi bu dünyada ciddiye alan bir kurum yok.<br/><br/>malum edit : gün içinde şişli etfal hastanesi'nde ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. iletişim; cem bilos: 0531 834 92 97
    
   entry_writer: recond1te
 - entry_name: |
@@ -143,7 +127,7 @@ data:
   entry_id: 63098036
   entry_content: |
     
-    "tanrı yoktur" diyen birine iblis'in çocuğu demek;;<br/><br/>"futbol yoktur" diyen birine "sen galatasaraylısın zaten ondan" demek gibi birşey heralde.<br/><br/>zekanı tebrik ediyorum, seni okutan hocaya da selamlarımı iletiyorum.<br/><br/>edit : bu zeki arkadaş her kimse yazdığını silip topuklamış. benim yazı da sanki biraz havada kalmış.<br/><br/>herneyse bu da birşeydir.
+    "tanrı yoktur" diyen birine iblis'in çocuğu demek;;<br/><br/>"futbol yoktur" diyen birine "sen galatasaraylısın zaten ondan" demek gibi birşey heralde.<br/><br/>zekanı tebrik ediyorum, seni okutan hocaya da selamlarımı iletiyorum.<br/><br/>edit : bu zeki arkadaş her kimse yazdığını silip topuklamış. benim yazı da sanki biraz havada kalmış.<br/><br/>herneyse bu da birşeydir.<br/><br/>debe ricası : <a class="b" href="/?q=kaptankanca">kaptankanca</a> diyor ki;<br/><br/>gün içinde sisli etfalde ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>ıletisim<br/>cem bilos: 0531 834 9297
    
   entry_writer: seferoglu suphi
 - entry_name: |
@@ -167,7 +151,7 @@ data:
   entry_id: 63095327
   entry_content: |
     
-    prusya geleneğinden gelen "az ama en iyisi" düsturlarının sonucudur.  <br/><br/>almanlar bir tüketim toplumu değildirler. yaşamlarında ve işlerinde, süreçler olamasa bile nihai üründe oldukça yüksek kalite standartları mevcuttur. uzun yıllar gidecek şeyler tasarlarlar, üretirler.<br/><br/>keza aynı şekilde çatal bıçak, tencere vs. gibi ürünlerde de.. bugün fissler dediğiniz düdüklü tencerenin üstüne düdüklü tencere yok.<br/><br/>bu yüzdendir ki, son kullanıcıya hitap eden konulardan dayanıklı tüketim malları ve otomotiv gibi uzun yıllar hizmet görecek nesnelerin üretiminde başa güreşirler.<br/><br/>televizyon, cep telefonu gibi sürekli olarak güncellenen, yenileri lanse edilen, mevcut olanın sıkıntıları bitmeden üst modeli çıkan ürünlere almanlar pek bulaşmazlar, hoşlaşmazlar.
+    prusya geleneğinden gelen "az ama en iyisi" düsturlarının sonucudur.  <br/><br/>almanlar bir tüketim toplumu değildirler. yaşamlarında ve işlerinde, süreçler olamasa bile nihai üründe oldukça yüksek kalite standartları mevcuttur. uzun yıllar gidecek şeyler tasarlarlar, üretirler.<br/><br/>keza aynı şekilde çatal bıçak, tencere vs. gibi ürünlerde de.. bugün fissler dediğiniz düdüklü tencerenin üstüne düdüklü tencere yok.<br/><br/>bu yüzdendir ki, son kullanıcıya hitap eden konulardan dayanıklı tüketim malları ve otomotiv gibi uzun yıllar hizmet görecek nesnelerin üretiminde başa güreşirler.<br/><br/>televizyon, cep telefonu gibi sürekli olarak güncellenen, yenileri lanse edilen, mevcut olanın sıkıntıları bitmeden üst modeli çıkan ürünlere almanlar pek bulaşmazlar, hoşlaşmazlar.<br/><br/>bonus edit: <a class="b" href="/?q=gombaldak">gombaldak</a>diyor ki almanin da almani var : "<a class="b" href="/?q=wmf">wmf</a> düdüklü tencerenin mucidi bir alman firması, yine <a class="b" href="/?q=silit">silit</a> aynı firmanın döküm düdüklü tencere markasıdır. fissler çok iyidir ama bir tık üstü bu dediğim iki firmadır. "<br/><br/>onemli debe editi: <br/><br/>gün içinde sisli etfalde ameliyat olacak can arslan bilos için 0rh + kan aranmaktadır. <br/><br/>ıletisim<br/>cem bilos: 0531 834 9297
    
   entry_writer: what makes you think i m not a superhero
 - entry_name: |
@@ -191,8 +175,8 @@ data:
   entry_id: 63103091
   entry_content: |
     
-    tanımadığın insana hitap şekilleri içinde sanırım en laçka, yılışık olmayanı olduğundan en doğrusunu yapan insanlardır.
-    
+    tanımadığın insana hitap şekilleri içinde sanırım en laçka, yılışık olmayanı olduğundan en doğrusunu yapan insanlardır..<br/><br/>debe editi: ico nabıyon?
+   
   entry_writer: zanozan
 - entry_name: |
     adriana lima'nın sansürsüz pozu
@@ -263,7 +247,7 @@ data:
   entry_id: 63106071
   entry_content: |
     
-    sikerim sizin yapacağınız işi lan şerefsizler. sokakta yürüyemez, otobüse binemez, nefes bile alamaz olduk lan.  <br/><br/>bu kez de gebze'de halk otobüsü şoförü, romanya uyruklu bir kadına tecavüz girişiminde bulunmuş. kadın bir şekilde kurtulmuş. it herif de yakalanıp, tutuklanmış. <br/><br/>erkek olduğuma, insan olduğuma utandırdı bu şerefsizler artık beni.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://hurriyet.com.tr/halk-otobusunde-tecavuze-kalkisan-sofor-tutuklandi-40230095?utm_source=t.co&utm_medium=post&utm_source=t.co&utm_medium=post_medium=post" title="http://hurriyet.com.tr/halk-otobusunde-tecavuze-kalkisan-sofor-tutuklandi-40230095?utm_source=t.co&utm_medium=post&utm_source=t.co&utm_medium=post_medium=post">http://hurriyet.com.tr/…source=t.co&utm_medium=postpost</a>
+    sokarım sizin yapacağınız işe lan şerefsizler. sokakta yürüyemez, otobüse binemez, nefes bile alamaz olduk lan.  <br/><br/>bu kez de gebze'de halk otobüsü şoförü, romanya uyruklu bir kadına tecavüz girişiminde bulunmuş. kadın bir şekilde kurtulmuş. it herif de yakalanıp, tutuklanmış. <br/><br/>erkek olduğuma, insan olduğuma utandırdı bu şerefsizler artık beni.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://hurriyet.com.tr/halk-otobusunde-tecavuze-kalkisan-sofor-tutuklandi-40230095?utm_source=t.co&utm_medium=post&utm_source=t.co&utm_medium=post_medium=post" title="http://hurriyet.com.tr/halk-otobusunde-tecavuze-kalkisan-sofor-tutuklandi-40230095?utm_source=t.co&utm_medium=post&utm_source=t.co&utm_medium=post_medium=post">http://hurriyet.com.tr/…source=t.co&utm_medium=postpost</a><br/><br/>edit: haberi ilk gördüğümde sinirden kendime hakim olamadığımdan sinkaflı bir cümle yumuşatıldı.
    
   entry_writer: hadi git
 - entry_name: |
@@ -303,7 +287,7 @@ data:
   entry_id: 63104844
   entry_content: |
     
-     <a class="b" href="/?q=al+uzatt%c4%b1m!">al uzattım!</a><br/><br/>edit: başlığı açan hakkaten de <a class="b" href="/?q=alm%c4%b1%c5%9f">almış</a> gitmiş <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+     <a class="b" href="/?q=al+uzatt%c4%b1m!">al uzattım!</a><br/><br/>edit: başlığı açan hakkaten de <a class="b" href="/?q=alm%c4%b1%c5%9f">almış</a> gitmiş <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: olmaz olsun böyle debe!<br/>alın bari fıkra okuyun: (bkz: <a class="b" href="/entry/62497514">#62497514</a>)
    
   entry_writer: hattorihanzoo
 - entry_name: |
@@ -314,14 +298,6 @@ data:
     (bkz:  <a class="b" href="/?q=ho%c5%9funa+gitmeyebilir+m%c4%b1r%c4%b1ldan%c4%b1rs%c4%b1n">hoşuna gitmeyebilir mırıldanırsın</a>)
    
   entry_writer: creator
-- entry_name: |
-    suriyeli sığınmacılar
-  entry_id: 63094232
-  entry_content: |
-    
-    savaşmaktan kaçıp sevişenlerdir. nefret ediyorum..<br/><br/>yedikleri kapa pisleyen adamları neden savunuyorsunuz? kötüye kötü demek ırkçılık değildir. yazılanların hepsi doğru. hırsızlık yapıyorlar, kendilerine sağlanan imkanlara hıyanet ediyorlar. hangisi yanlış? <br/><br/>tek amaç ülkeye karıştırılarak araplaşma sürecine katkıda bulunmaları. başarıldı da. sokaklar arap görünümlü pislik tiplerle doldu. dükkanlarda arapça yazılar var. bu ülkenin kimyasını değiştirmenin en kolay yolu kendi ülkesini satıp kaçmış alçak köpekleri karıştırmak içimize. onu da başardılar. <br/><br/>esad öyle mutludur ki ülkesindeki pislik çapulcu hırsız namussuz ne kadar işe yaramaz varsa defolup gitti diye.<br/><br/>doktorum. her gün bir sürü hastaya ultrason yapıyorum. gelen 10 gebeden 8'i suriyeli. hem de hatay'da mersin'de yaşamıyorum. marmara'dayım. habire hamamböceği gibi ürüyorlar. 27 yaşında 6. çocuğuna kez gebe kalmış. oruç tutmuş bebek ölmüş. kısacası hem kendisi öldürmüş hem daha da üzülüyor.
-   
-  entry_writer: concerta
 - entry_name: |
     lc waikiki'yi elsiva diye kısaltmak
   entry_id: 63096302
@@ -360,15 +336,15 @@ data:
   entry_id: 63101472
   entry_content: |
     
-    kürtlerin 21.yüzyılda hala mağaraları doğal habitatları olarak kullanmalarının sebebini de açıklayan hipotezdir.
-    
+    kürtlerin 21.yüzyılda hala mağaraları doğal habitatları olarak kullanmalarının sebebini de açıklayan hipotezdir..<br/><br/>acayip güldüm ya. burada ırkçılık olduğunu söyleyen kesin aptaldır, burada sadece mizah ve ironi var. buna gülüp geçmek varken, küfredip tehdit edip ırkçılıkla suçlamak asıl faşistliktir.
+   
   entry_writer: amanieee
 - entry_name: |
     çocuğuyla birlikte porno izleyen anne ve baba
   entry_id: 63104218
   entry_content: |
     
-    15 yaşından büyük eşşek kadar herif oturup anası babasıyla porno mu izlesin yanii<br/><br/>bu mudur cinsel gelişim <br/><br/>(bkz: <a class="b" href="/?q=hani+marjinal+bizdik">hani marjinal bizdik</a>)
+    15 yaşından büyük eşşek kadar herif oturup anası babasıyla porno mu izlesin yanii<br/><br/>bu mudur cinsel gelişim <br/><br/>(bkz: <a class="b" href="/?q=hani+marjinal+bizdik">hani marjinal bizdik</a>)<br/><br/>yardım talebi: tayland, vietnam, kamboçya, laos ülkelerinden birinde ufak çaplı bir dükkan açmak istiyorum. oralarda iş yapanlardan her türlü bilgi ve yardıma açığım
    
   entry_writer: bana her yer cehennem
 - entry_name: |
