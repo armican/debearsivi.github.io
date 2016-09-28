@@ -39,7 +39,7 @@ data:
   entry_id: 63169794
   entry_content: |
     
-    bu topraklarda bjk-gs-fb vs. gollerini izleyerek avunan yaşlı insanlar var. dokunmatik ekran, 4.5g, wifi bilmeyen insanlar bunlar. aç köpek tff-digitürk-ligtv işbirliği, önce pasolig çıkarttı şimdi de maç özetlerini tekeline aldı. maçlar oynanıyor, bitiyor, babalarımız dedelerimiz seyredemiyor. 75 yaşında adamlar stada mı gitsin, kahvelerde mi sürünsün maç seyretmek için, yoksa o yaşta akıllı telefon alıp, ligtv mi indirsin cihazına. kaldı ki wifi olmadan maç yayını izlenemiyor, o zaman bir de eve adsl alsın! herkesi bıktırdılar, soğuttular. digitürk'ü de iptal ediyorum yakında. 75 yaşındaki babamın avuntusunu elinden aldılar ya, allah bunların tez zamanda belasını verir, hepsi iflas eder de, sürüm sürüm sürünürler inşallah.
+    bu topraklarda bjk-gs-fb vs. gollerini izleyerek avunan yaşlı insanlar var. dokunmatik ekran, 4.5g, wifi bilmeyen insanlar bunlar. aç köpek tff-digitürk-ligtv işbirliği, önce pasolig çıkarttı şimdi de maç özetlerini tekeline aldı. maçlar oynanıyor, bitiyor, babalarımız dedelerimiz seyredemiyor. 75 yaşında adamlar stada mı gitsin, kahvelerde mi sürünsün maç seyretmek için, yoksa o yaşta akıllı telefon alıp, ligtv mi indirsin cihazına. kaldı ki wifi olmadan ligtv uygulamasında maç yayını izlenemiyor, o zaman bir de eve adsl alsın! reklamları da cabası! herkesi bıktırdılar, soğuttular. digitürk'ü de iptal ediyorum yakında. 75 yaşındaki babamın avuntusunu elinden aldılar ya, allah bunların tez zamanda belasını verir, hepsi iflas eder de, sürüm sürüm sürünürler inşallah.
     
   entry_writer: bojya korovka
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 63173089
   entry_content: |
     
-    bir tona değil, tam olarak 1.024 kilograma tekabül eder..<br/><br/>...<br/><br/>nostalji edit: <a class="b" href="/?q=dos">dos</a>çu dedeler bilir, zamanında yükler çok daha hafifti. bir gün geldi, tek seferde 640 kilo çekebilen <a class="b" href="/?q=conventional+memory">conventional memory</a> yetmedi, <a class="b" href="/?q=xms">xms</a> ve <a class="b" href="/?q=ems">ems</a> çıktı; sonra film koptu gitti.<br/><br/>ağlamıyorum, gözüme joystick kaçtı.
+    bir tona değil, tam olarak 1.024 kilograma tekabül eder..<br/><br/>...<br/><br/>nostalji edit: <a class="b" href="/?q=dos">dos</a>çu dedeler bilir, zamanında yükler çok daha hafifti. bir gün geldi, tek seferde 640 kilo çekebilen <a class="b" href="/?q=conventional+memory">conventional memory</a> yetmedi, <a class="b" href="/?q=xms">xms</a> ve <a class="b" href="/?q=ems">ems</a> çıktı; sonra film koptu gitti.<br/><br/>ağlamıyorum, gözüme joystick kaçtı.<br/><br/>buraya bakarlar edit: bir mesaj geldi, parayla kedi-köpek alınmasına şiddetle karşı olduğum için paylaşmam gerekiyor. debedit sevimsizliğini de artık idare edin! <br/><br/><a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a><br/><br/>şöyle ki, hayvansever bir suser dün akşam parktan birkaç aylık bir karabaşı alıp evine getirmiş. bugün de aşıları yaptırılmış, karnesi çıkartılmış. önce şunun tipine bir bakın: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.dropbox.com/s/ad34g8fgmfgy6bz/20160928_111539.jpg?dl=0" title="https://www.dropbox.com/s/ad34g8fgmfgy6bz/20160928_111539.jpg?dl=0">karabaş yeni tasmasıyla</a><br/><br/>köpek alma niyetindeyseniz veya böyle bir yakınınız varsa, <br/><br/>lütfen "ama ben pembe kuyruklu eskimo kırması istiyoduum" falan demeyin, <br/><br/>ve gidip parayla can satın alacağınıza şu günahsız karabaşı alın! <br/><br/>buradan: (bkz: <a class="b" href="/entry/63178684">#63178684</a>)<br/><br/>alma durumunuz yoksa da başlığını up'latın, bir başkasının bulmasına vesile olun.<br/><br/>unutmayın; vitrinlerden seçilmeden, paralar saçılmadan himayeye alınan 1 karabaş gerçek hayatta 1 ton insanlığa tekabül eder.
    
   entry_writer: global koyun kavalcisi
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 63171946
   entry_content: |
     
-    bir erkek daha getir üçlü yaparız diyen kadının yanında bir hiçtir..<br/><br/>ne o, işine mi gelmez yoksa?
+    bir erkek daha getir üçlü yaparız diyen kadının yanında bir hiçtir..<br/><br/>ne o, işine mi gelmez yoksa?<br/><br/>edit:(bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)
    
   entry_writer: burnuna sinek konmus somali katibi
 - entry_name: |
@@ -87,8 +87,8 @@ data:
   entry_id: 63177785
   entry_content: |
     
-    ikinci bir darbe tehdidi varmış algısı yaratıp ohal kapsamında kanun hükmünde kararnameler vasıtasıyla ezemedikleri tüm muhalif unsurları ve tabii ki aydın insanları (sendikalar ve özellikle kesk) derdest edebilmek çekilen ayak oyunundan ibaret durumdur. fetö filan hikaye asıl hedef ülkenin cumhuriyet öncesine dönmemesi için ayak direyen çağdaş insanlar. ama şu da unutulmamalı 12 eylül faşizmi bile anayasa yapıp %92 evet oyuna karşı çağdaşlığın sesini susturamamıştır.
-    
+    ikinci bir darbe tehdidi varmış algısı yaratıp ohal kapsamında kanun hükmünde kararnameler vasıtasıyla ezemedikleri tüm muhalif unsurları ve tabii ki aydın insanları (sendikalar ve özellikle kesk) derdest edebilmek çekilen ayak oyunundan ibaret durumdur. fetö filan hikaye asıl hedef ülkenin cumhuriyet öncesine dönmemesi için ayak direyen çağdaş insanlar. ama şu da unutulmamalı 12 eylül faşizmi bile anayasa yapıp %92 evet oyuna karşı çağdaşlığın sesini susturamamıştır..<br/><br/>debe edit: <br/><br/>(bkz: <a class="b" href="/?q=alak%c4%b1r+%c3%b6zg%c3%bcr+aks%c4%b1n">alakır özgür aksın</a>)
+   
   entry_writer: enkizu
 - entry_name: |
     sadece askerde karşılaşılan olaylar
@@ -119,8 +119,8 @@ data:
   entry_id: 63170801
   entry_content: |
     
-    ortaçağda sıradan bir gün.
-    
+    ortaçağda sıradan bir gün..<br/><br/>debe : sessiz kalmayalım (bkz: <a class="b" href="/entry/63151175">alakır özgür aksın/#63151175</a>)<br/><br/>debe 2 : bu yavrucağımıza yuva aranıyor <a class="b" href="/entry/63185550">#63185550</a>
+   
   entry_writer: qeltemo
 - entry_name: |
     doktor egosu vs pilot egosu
@@ -143,8 +143,8 @@ data:
   entry_id: 63180667
   entry_content: |
     
-    elini yere vurarak hunharca gülen tek dişi eksik gri smiley... daha fazla konuşamayacağım..:(
-    
+    elini yere vurarak hunharca gülen tek dişi eksik gri smiley... daha fazla konuşamayacağım..:((<br/>debe editi : (bkz: <a class="b" href="/?q=alak%c4%b1r+%c3%b6zg%c3%bcr+aks%c4%b1n">alakır özgür aksın</a>)
+   
   entry_writer: cey0
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
@@ -231,7 +231,7 @@ data:
   entry_id: 63166973
   entry_content: |
     
-    416. blok (yani maraton üst tribün) 11.sıra 42 numarada bulunan kel arkadaşım. sana bir çift sözüm var. ha bunu yüzüne söylediğim halde anlamamakta ısrar ediyorsun. senin o dümdüz olan beyin kıvrımına 'saygılı ol' kavramını nasıl yerleştiririz bilmiyorum. seninle birlikte bu barzoluğu yapan herkese bir çift sözüm var aslında. çok sinirliyim. başlıyorum. hazır mısınız??<br/><br/>son 2 maçtır görüyorum seni. koltuğun üzerine çıkmaman için 2 seferdir uyarıyorum. birincisinde indin teşekkür ederim. maç boyu dönüp dönüp tip bakışlarınla beni korkutmaya çalıştığının da farkındayım. ama yemedim. ikinci uyarımda 'sen de çık koltuğa ' dedin. 'koltuklar dünyanın parası kıymayın. bu stadyum için çok bekledik' dedim. dönüp olay çıkaracaktın sanırım ama o ara gol yedik. <br/>doğu üst tribünlerinin açısı o kadar dik ki aşağı uçmayalım diye yetkililerimiz demir bile koymuşlar önümüze. sen koltuğun üzerine çıkıp bir ayağını da demire koyunca dünya daha güzel bir yer olmuyor canım kardeşim. şenol hoca 'ulan bak adam inandı ta tepelere çıktı ben bi talisca'yı oyuna süreyim' demiyor. arkandaki ben, senin koca kafanı kalenin orada görüyorum. bu hareketinin kendine bir faydası olmadığı gibi koca stadyumda tek zararı bana. maç seyir zevkimin içine ediyor o koca kafan. gs maçında fabricio yerine senin koca kafan vardı kalede mesela. c90 görüş açım sayende c48-c38 oluyor. ha maç boyu cayır cayır içtiğin sigaranı 2.devre küçük yeğenimle beraber geldiğim maçlarda da içte gör bak ben o sigarayla senin hayal gücünü nasıl zorluyorum.<br/><br/>şu koltukların üzerine çıkmayın sayın seyirciler/taraftarlar/fanatikler/holiganlar/her ne zıkkımsanızlar!!! sana git matematik olimpiyatları sorusunu çöz demiyorum ya da varoluş sancılarından kurtulmanın yollarını soran da yok! basit ya. bak basit valla billa. bak anlamayanlar için heceliyorum.<br/>şu kol-tuk-lar-ın ü-ze-ri-ne çık-ma-yın!
+    416. blok (yani maraton üst tribün) 11.sıra 42 numarada bulunan kel arkadaşım. sana bir çift sözüm var. ha bunu yüzüne söylediğim halde anlamamakta ısrar ediyorsun. senin o dümdüz olan beyin kıvrımına 'saygılı ol' kavramını nasıl yerleştiririz bilmiyorum. seninle birlikte bu barzoluğu yapan herkese bir çift sözüm var aslında. çok sinirliyim. başlıyorum. hazır mısınız??<br/><br/>son 2 maçtır görüyorum seni. koltuğun üzerine çıkmaman için 2 seferdir uyarıyorum. birincisinde indin teşekkür ederim. maç boyu dönüp dönüp tip bakışlarınla beni korkutmaya çalıştığının da farkındayım. ama yemedim. ikinci uyarımda 'sen de çık koltuğa ' dedin. 'koltuklar dünyanın parası kıymayın. bu stadyum için çok bekledik' dedim. dönüp olay çıkaracaktın sanırım ama o ara gol yedik. <br/>doğu üst tribünlerinin açısı o kadar dik ki aşağı uçmayalım diye yetkililerimiz demir bile koymuşlar önümüze. sen koltuğun üzerine çıkıp bir ayağını da demire koyunca dünya daha güzel bir yer olmuyor canım kardeşim. şenol hoca 'ulan bak adam inandı ta tepelere çıktı ben bi talisca'yı oyuna süreyim' demiyor. arkandaki ben, senin koca kafanı kalenin orada görüyorum. bu hareketinin kendine bir faydası olmadığı gibi koca stadyumda tek zararı bana. maç seyir zevkimin içine ediyor o koca kafan. gs maçında fabricio yerine senin koca kafan vardı kalede mesela. c90 görüş açım sayende c48-c38 oluyor. ha maç boyu cayır cayır içtiğin sigaranı 2.devre küçük yeğenimle beraber geldiğim maçlarda da içte gör bak ben o sigarayla senin hayal gücünü nasıl zorluyorum.<br/><br/>şu koltukların üzerine çıkmayın sayın seyirciler/taraftarlar/fanatikler/holiganlar/her ne zıkkımsanızlar!!! sana git matematik olimpiyatları sorusunu çöz demiyorum ya da varoluş sancılarından kurtulmanın yollarını soran da yok! basit ya. bak basit valla billa. bak anlamayanlar için heceliyorum.<br/>şu kol-tuk-lar-ın ü-ze-ri-ne çık-ma-yın!<br/><br/>debe editi: bu benim ilk debem lan^^
    
   entry_writer: tostring
 - entry_name: |
@@ -239,7 +239,7 @@ data:
   entry_id: 63168682
   entry_content: |
     
-    bella'dir..<br/><br/>isin icinde kadin varsa korkun zaten. hatta dolayli cagrisim ile aklima geldi. yunan mitolojisi'nde afrodit'in nasil guzellik tanricasi oldugunu anlatayim.<br/><br/>bir gun ida dagi'nda eglence duzenleniyor, butun tanrilar davet ediliyor fakat fesatlik tanrisi eris'i cagirmiyorlar. eris de "siz misiniz beni cagirmayan, durun sizi birbirbirinize dusureyim de gorun" diyor ve davet esnasinda yukaridan altin bir elma atiyor, uzerinde "en guzele" yazan. <br/><br/>bunu goren hera, afrodit ve athena, elmayi almaya calisiyor. ucu de en guzelin kendisi oldugunu soyluyor ama anlasamiyorlar bir turlu. zeus'un yanina gidiyorlar. zeus da diyor ki "simdi burada hanginizi soylesem digerinize haksizlik olacak. bu yuzden dunyanin en yakisikli adami olan paris'e gidip sorun ve elmayi kimin alacagina o karar versin."<br/><br/>dunyaya gidip paris'u buluyorlar ve ucu de kendisini secmesi icin vaatler sunuyor. <br/><br/>hera diyor ki: "eger beni secersen sana ölümsüzlük veririm." <br/><br/>athena diyor ki: "eger beni secersen isminin dunyada hic unutulmamasini saglarim, inanilmaz savaslar kazandiririm."<br/><br/>afrodit diyor ki: "eger beni secersen dunyanin en guzel kadini ile dunyanin en buyuk askini yasaririm sana."<br/><br/>bizim paris de afrodit'in vaadini kabul ediyor tabii ve sparta krali'nin karisi olan guzeller guzeli helen'i istiyor afrodit'ten. o helen'i kacirmasina yardim ederek sozunu tutuyor.<br/><br/>ardindan da, bildiginiz gibi truva savasi cikiyor zaten.
+    bella'dir..<br/><br/>isin icinde kadin varsa korkun zaten. hatta dolayli cagrisim ile aklima geldi. yunan mitolojisi'nde afrodit'in nasil guzellik tanricasi oldugunu anlatayim.<br/><br/>bir gun ida dagi'nda eglence duzenleniyor, butun tanrilar davet ediliyor fakat fesatlik tanrisi eris'i cagirmiyorlar. eris de "siz misiniz beni cagirmayan, durun sizi birbirbirinize dusureyim de gorun" diyor ve davet esnasinda yukaridan altin bir elma atiyor, uzerinde "en guzele" yazan. <br/><br/>bunu goren hera, afrodit ve athena, elmayi almaya calisiyor. ucu de en guzelin kendisi oldugunu soyluyor ama anlasamiyorlar bir turlu. zeus'un yanina gidiyorlar. zeus da diyor ki "simdi burada hanginizi soylesem digerinize haksizlik olacak. bu yuzden dunyanin en yakisikli adami olan paris'e gidip sorun ve elmayi kimin alacagina o karar versin."<br/><br/>dunyaya gidip paris'u buluyorlar ve ucu de kendisini secmesi icin vaatler sunuyor. <br/><br/>hera diyor ki: "eger beni secersen sana ölümsüzlük veririm." <br/><br/>athena diyor ki: "eger beni secersen isminin dunyada hic unutulmamasini saglarim, inanilmaz savaslar kazandiririm."<br/><br/>afrodit diyor ki: "eger beni secersen dunyanin en guzel kadini ile dunyanin en buyuk askini yasatirim sana."<br/><br/>bizim paris de afrodit'in vaadini kabul ediyor tabii ve sparta krali'nin karisi olan guzeller guzeli helen'i istiyor afrodit'ten. o da helen'i kacirmasina yardim ederek sozunu tutuyor.<br/><br/>ardindan da, bildiginiz gibi truva savasi cikiyor zaten.
    
   entry_writer: everestttl
 - entry_name: |
@@ -247,7 +247,7 @@ data:
   entry_id: 63180921
   entry_content: |
     
-    kibariye'nin yeteneğini, azra akın'ın sesini, sergen'in güzelliğini alırsa ne olacak o çocuk??<br/><br/>diye buyurdu einstein.
+    kibariye'nin yeteneğini, azra akın'ın sesini, sergen'in güzelliğini alırsa ne olacak o çocuk??<br/><br/>diye buyur<a class="b" href="/?q=mu%c5%9f">muş</a>, <a class="b" href="/?q=bernard+shaw">bernard shaw</a>.<br/><br/><a class="b" href="/?q=istek+editi">istek editi</a>: buyurunuz <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/?q=yardıma+muhtaç+sokak+köpeğine+kalıcı+yuva+arıyoruz" title="https://eksisozluk.com/?q=yardıma+muhtaç+sokak+köpeğine+kalıcı+yuva+arıyoruz">https://eksisozluk.com/…peğine kalıcı yuva arıyoruz</a>
    
   entry_writer: leonardonun katanasi
 - entry_name: |
@@ -255,7 +255,7 @@ data:
   entry_id: 63169051
   entry_content: |
     
-    bir çok insanın üzerine alınmamasından ve gerçeği görmek istememesinden kaynaklı paylaşılmayan ve üzerinde çok durulmayan karikatürdür..<br/><br/>ama genel bir gerçeği barındırır. evrimsel bir gerçektir bu aynı zamanda...<br/><br/>kariktürdür ama <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/OEzWO5.jpg" title="http://i.hizliresim.com/OEzWO5.jpg">acıtan bir karikatür.</a> güldürmez.
+    bir çok insanın üzerine alınmamasından ve gerçeği görmek istememesinden kaynaklı paylaşılmayan ve üzerinde çok durulmayan karikatürdür..<br/><br/>ama genel bir gerçeği barındırır. evrimsel bir gerçektir bu aynı zamanda...<br/><br/>kariktürdür ama <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/OEzWO5.jpg" title="http://i.hizliresim.com/OEzWO5.jpg">acıtan bir karikatür.</a> güldürmez.<br/><br/>debe editi: (bkz: <a class="b" href="/entry/63151175">#63151175</a>)<br/>sosyal sorumluluk editi: (bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)
    
   entry_writer: ogenki
 - entry_name: |
@@ -263,8 +263,8 @@ data:
   entry_id: 63164536
   entry_content: |
     
-    doğum için çekilen 5bin tl 'lik kredinin taksidi çocuk okula başlayınca bitecektir.
-    
+    doğum için çekilen 5bin tl 'lik kredinin taksidi çocuk okula başlayınca bitecektir..<br/><br/>debe editi: senin anıtkabir'in olmayacak sen sadece öleceksin..yaşasın <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a> ilke ve inkılapları
+   
   entry_writer: monreve
 - entry_name: |
     27 eylül 2016 aydın depremi
@@ -287,7 +287,7 @@ data:
   entry_id: 63180951
   entry_content: |
     
-    bu ikiyüzlülüğe bir son veriyorum. herkesin derdi belli. genellikle erkekler çoğunlukla sokacak delik arıyor.  <br/>kadınlar daha naif. en azından bir parça duygusallık istiyorlar.<br/>yok 'dertleşecek veri tabanı', yok 'sohbet edecek naif taban' derken iyice kendilerini kaybetti insanlar. <br/>açık açık konuşun lan, yok "dert dinliyorum", yok "canı sıkılan kadınların hikayeleri beni cezbeder" gibi fukaralıklarla uğraşmayın. açık açık "am istiyorum" deyin. iki harf ya. "am". insan bi kere ölür ya, bi kere. "am" isteyeceksiniz, kabul etmezlerse yolunuza bakacaksınız. kendinizi bu kadar küçük düşürmeyin ya.<br/><br/><a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+dertle%c5%9fecek+insan+veritaban%c4%b1">ekşi sözlük dertleşecek insan veritabanı</a> saçmalığını hepiniz biliyorsunuz. ben bir v for vendetta olarak ortaya çıktım ve sizi cesur olmaya çağırıyorum.
+    bu ikiyüzlülüğe bir son veriyorum. herkesin derdi belli. genellikle erkekler sokacak delik arıyor.  <br/>kadınlar daha naif. en azından bir parça duygusallık istiyorlar.<br/>yok 'dertleşecek veri tabanı', yok 'sohbet edecek naif taban' derken iyice kendilerini kaybetti insanlar. <br/>açık açık konuşun lan, yok "dert dinliyorum", yok "canı sıkılan kadınların hikayeleri beni cezbeder" gibi fukaralıklarla uğraşmayın. açık açık "am istiyorum" deyin. iki harf ya. "am". "am" isteyeceksiniz, kabul etmezlerse yolunuza bakacaksınız. kendinizi bu kadar küçük düşürmeyin ya.<br/><br/><a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+dertle%c5%9fecek+insan+veritaban%c4%b1">ekşi sözlük dertleşecek insan veritabanı</a> saçmalığını hepiniz biliyorsunuz. ben bir v for vendetta olarak ortaya çıktım ve sizi cesur olmaya çağırıyorum.<br/><br/>arkadaşlar madem bu yazıyı sonuna kadar<br/>okudunuz. öyleyse hadi bir işe yarayalım ve küçük dostumuzu kurtaralım:<br/><br/>(bkz: <a class="b" href="/?q=yardima+muhtac+sokak+kopegine+kalici+yuva+ariyoruz">yardima muhtac sokak kopegine kalici yuva ariyoruz</a>)
    
   entry_writer: dramatis persona
 - entry_name: |
@@ -295,7 +295,7 @@ data:
   entry_id: 63176595
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=biz+bu+filmi+g%c3%b6rm%c3%bc%c5%9ft%c3%bck">biz bu filmi görmüştük</a>) <br/><br/>sahi. <a class="b" href="/?q=lav+silah%c4%b1">lav silahı</a> da varmıymış. yoksa bu serinin <a class="b" href="/?q=ikinci+filmi">ikinci filmi</a> dir.
+    (bkz:  <a class="b" href="/?q=biz+bu+filmi+g%c3%b6rm%c3%bc%c5%9ft%c3%bck">biz bu filmi görmüştük</a>) <br/><br/>sahi. <a class="b" href="/?q=lav+silah%c4%b1">lav silahı</a> da varmıymış. yoksa bu serinin <a class="b" href="/?q=ikinci+filmi">ikinci filmi</a> dir.<br/><br/>edit: şöyle bi şey varmış (bkz: <a class="b" href="/entry/63151175">alakır özgür aksın/#63151175</a>)
    
   entry_writer: travenian
 - entry_name: |
@@ -311,8 +311,8 @@ data:
   entry_id: 63175103
   entry_content: |
     
-    umut sarıkaya öyle şeyler çizer ki ulan bu adam bizim evde mi büyüdü veya bunla aynı evde ev arkadaşlığı mı yaptık diye düşünürsun. gözlem yeteneğinden dolayı açık ara umut sarıkaya' nın galip geldiği versus.
-    
+    umut sarıkaya öyle şeyler çizer ki ulan bu adam bizim evde mi büyüdü veya bunla aynı evde ev arkadaşlığı mı yaptık diye düşünürsun. gözlem yeteneğinden dolayı açık ara umut sarıkaya' nın galip geldiği versus..<br/><br/>edit:(bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)
+   
   entry_writer: leb demeden leblebiyi anlamayan adam
 - entry_name: |
     sözlük'ten düşürülen kızın güzel çıkma ihtimali
@@ -335,7 +335,7 @@ data:
   entry_id: 63175337
   entry_content: |
     
-    kifayetsiz muhteris. açığını tayyib'e gammazlik yaparak kapatıyor. tayyib'e "baskomutanim" demis, tayyib sevinmiş onunla gurur duyuyor bu sürüngen. aydın doğan'in yerinde olsam bogdururum bu kımıl zararlisini. ınsanlığa zarar bu tip fonksiyosuz omurgasizlar. sedat ergin'in, vuslat doğan'in, muharrem ince'nin ve bu böceği gregor samsa sayıp ilişki kurmuş herkesin kime dayı dediklerine dikkat etmesi gerek. bu adama köprüden geçmek için bile dayı denilmez. bu tiplere adam bile denilmez de tanım bulamadım. fakir adamın, aç adamın hırsızlık, gammazlik, adam satma işi yapmasını anlarım, ekmek parası, doğal secilim. trilyonlara hükmeden bir aileye mensupsun, gammazciliga ne ihtiyacın var senin, alçak herif, bir kuruşluk adamlığı olmayan kopik, iki taraflı oynayan fakültatif bakteri. zengin adamın bu capsizligina çok sinirleniyorum yahu.  <br/><br/>nuray mert omurgasizi için söylenecek laf <a rel="nofollow noopener" class="url" target="_blank" href="http://diha-news.link/tr/news/content/view/537306" title="http://diha-news.link/tr/news/content/view/537306">bulamıyorum</a>.
+    kifayetsiz muhteris. açığını tayyib'e gammazlik yaparak kapatıyor. tayyib'e "baskomutanim" demis, tayyib sevinmiş onunla gurur duyuyor. aydın doğan'in yerinde olsam bogdururum bunu. ınsanlığa zarar bu tipler. sedat ergin'in, vuslat doğan'in, muharrem ince'nin ve ilişki kurmuş herkesin bu gregor samsa'yı sapiens sayıp kime dayı dediklerine dikkat etmesi gerek. bu adama köprüden geçmek için bile dayı denilmez. bu tiplere adam bile denilmez de tanım bulamadım. fakir adamın, aç adamın hırsızlık, gammazlik, adam satma işi yapmasını anlarım, ekmek parası, doğal secilim. trilyonlara hükmeden bir aileye mensupsun, gammazciliga ne ihtiyacın var senin, zengin adamın bu ilkelliğine çok sinirleniyorum yahu.  <br/><br/>nuray mert oportünisti için söylenecek laf <a rel="nofollow noopener" class="url" target="_blank" href="http://diha-news.link/tr/news/content/view/537306" title="http://diha-news.link/tr/news/content/view/537306">bulamıyorum</a>.<br/><br/>edit: hemen avukatlarını devreye sokmuş ellam. bazı tasfirleri ya yumuşatmak, ya da çıkartmak zorunda kaldım. hay lanet bin kunduz.<br/><br/>ayrıca link soran arkadaşlar, diken gazetesi'nin linki ile eklemiştim. demek ki mesai başlar başlamaz yayın yasağı aldırmışlar.
    
   entry_writer: zarif philips
 - entry_name: |
@@ -359,15 +359,15 @@ data:
   entry_id: 63179712
   entry_content: |
     
-    façayı karizmatik bulan kadın  <a rel="nofollow noopener" class="url" target="_blank" href="http://www.directupload.net/file/d/4491/yy3eqazm_jpg.htm" title="http://www.directupload.net/file/d/4491/yy3eqazm_jpg.htm">böyle</a> birşeydir.
+    façayı karizmatik bulan kadın  <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/Wb8Yo4.jpg" title="http://i.hizliresim.com/Wb8Yo4.jpg">böyle</a> birşeydir.<br/><br/>edit; link yenilendi.<br/>edit2; (bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)
    
   entry_writer: sigara kibrit
 - entry_name: |
-    back to the future serisi'nden akılda kalanlar
+    back to the future serisinden akılda kalanlar
   entry_id: 63174220
   entry_content: |
     
-    yaraktır. hani martin'in, babasının yarağını anasına sokma macerası.  <br/><br/>bu ne amk yok şunda akılda kalanlar yok bunda akılda kalanlar. alzaymır mıyız amk? hatırlıyoruz işte hepsini.
+    yaraktır. hani martin'in, babasının yarağını anasına sokma macerası.  <br/><br/>bu ne amk yok şunda akılda kalanlar yok bunda akılda kalanlar. alzaymır mıyız amk? hatırlıyoruz işte hepsini.<br/><br/>debe edit (rica): (bkz: <a class="b" href="/entry/63151175">alakır özgür aksın/#63151175</a>)<br/><br/>ikinci rica: (bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)
    
   entry_writer: tekid
 - entry_name: |
@@ -375,8 +375,8 @@ data:
   entry_id: 63168541
   entry_content: |
     
-    türkiye: anlıyor ama konuşamıyor.
-    
+    türkiye: anlıyor ama konuşamıyor..<br/><br/>debe edit: (bkz: <a class="b" href="/entry/63151175">alakır özgür aksın/#63151175</a>)
+   
   entry_writer: gazoz kapagi
 - entry_name: |
     mastürbasyon olmasaydı
@@ -391,7 +391,7 @@ data:
   entry_id: 63166783
   entry_content: |
     
-    başıma bir şey gelmeyecekse darısı gani gani başımıza diyeceğim harika gelişme. nereye kadar savaş? kaç senedir pkk ile savaşıyoruz? kaç canımız gitti? kaç asker öldü? kaç anne ağladı? kaç çocuk öldü? kaç çocuk üzüldü? kocaman bir çok... savaşın hiçbir zaman kazananı olmaz, savaşın kaybedeni her zaman halktır. olan her zaman için bize olacaktır. kolombiya devlet başkanının da demiş olduğu gibi: "savaşın bedeli her zaman barıştan daha büyük""<br/><br/>şunu umutlandırmıştır bunu umutlandırmıştırı geçin lütfen, kim barış istemez ki?
+    başıma bir şey gelmeyecekse darısı gani gani başımıza diyeceğim harika gelişme. nereye kadar savaş? kaç senedir pkk ile savaşıyoruz? kaç canımız gitti? kaç asker öldü? kaç anne ağladı? kaç çocuk öldü? kaç çocuk üzüldü? kocaman bir çok... savaşın hiçbir zaman kazananı olmaz, savaşın kaybedeni her zaman halktır. olan her zaman için bize olacaktır. kolombiya devlet başkanının da demiş olduğu gibi: "savaşın bedeli her zaman barıştan daha büyük""<br/><br/>şunu umutlandırmıştır bunu umutlandırmıştırı geçin lütfen, kim barış istemez ki?<br/><br/>debe editi: <br/><a class="b" href="/?q=alak%c4%b1r+%c3%b6zg%c3%bcr+aks%c4%b1n">alakır özgür aksın</a><br/><a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>
    
   entry_writer: woodenwriter
 - entry_name: |
@@ -399,7 +399,7 @@ data:
   entry_id: 63177670
   entry_content: |
     
-    maçı açar açmaz dortmund'un gol attığı maç. yıllardır bunu yaşayıp buraya yazmak istiyordum. artık başardım. zirvede bırakıyorum dostlar.
-    
+    maçı açar açmaz dortmund'un gol attığı maç. yıllardır bunu yaşayıp buraya yazmak istiyordum. artık başardım. zirvede bırakıyorum dostlar..<br/><br/>debedit: (bkz: <a class="b" href="/?q=yard%c4%b1ma+muhta%c3%a7+sokak+k%c3%b6pe%c4%9fine+kal%c4%b1c%c4%b1+yuva+ar%c4%b1yoruz">yardıma muhtaç sokak köpeğine kalıcı yuva arıyoruz</a>)<br/>debedit2: (bkz: <a class="b" href="/entry/63151175">alakır özgür aksın/#63151175</a>)
+   
   entry_writer: unlucky and idiot
 ---
