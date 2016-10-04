@@ -1,0 +1,405 @@
+---
+layout: post
+title: 4 Ekim 2016 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    cem uzan'ın muhteşem aile fotoğrafı
+  entry_id: 63275227
+  entry_content: |
+    
+    fotoğrafa 30 sn bakınca "türkiye'de debelenin amk fakirleri" yazısı çıkıyor.
+    
+  entry_writer: cokciddi
+- entry_name: |
+    kredi notumuzu üç beş kuruluş değil halk belirler
+  entry_id: 63277839
+  entry_content: |
+    
+    binali yıldırım'ın ağzından çıkmış muazzam tespit..<br/><br/>"notumuzu 3-5 tane değerlendirme kuruluşu belirleyemez. bizim notumuzu esnaf belirler, vatandaş belirler. onun için herkes yerini yurdunu bilsin. türkiye'ye ayar vermeye çalışanlar 15 temmuz'da derslerini aldılar"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.haberturk.com/gundem/haber/1305125-basbakan-binali-yildirim-konusuyor" title="http://www.haberturk.com/gundem/haber/1305125-basbakan-binali-yildirim-konusuyor">http://www.haberturk.com/…binali-yildirim-konusuyor</a><br/><br/>peki seni halk mı belirledi binali!
+   
+  entry_writer: nuri alconun aile hekimi
+- entry_name: |
+    vardiyalı çalışılan fabrikalarda sevişenler
+  entry_id: 63277351
+  entry_content: |
+    
+    dandik porno filmi adı gibi  <a class="b" href="/?q=vardiyal%c4%b1+sevi%c5%9fenler">vardiyalı sevişenler</a>
+   
+  entry_writer: 3atar5tutar
+- entry_name: |
+    turkcell mecidiyeköy tim'de darp rezaleti
+  entry_id: 63283706
+  entry_content: |
+    
+    edit: sırf okuyun diye özet bile geçtim. rezalet ötesi rezalet..<br/>edit2: koca mağaza müdürü yapmaz öyle şey diyenler için, kurumsal ağır abi mağaza müdürü, buyrun: '<a class="b" href="/entry/63284584">#63284584</a>'<br/>edit3: kimliğimi verin ve elini çek, dokunma gibi söylemler dışında tek bir hakaretim-küfrüm olmadı. bunlara başladığım noktayı da yazıda belirttim, saldırı başladıktan sonra. <br/>edit4: gri saçlı elemanın adı da ortaya çıktı, sinan. soyadı bende kalsın. @kalamity jeyn buldu, teşekkürler.<br/>edit5: bu yöndeki desteğiniz sonrasında hukuki yolları da araştırmaya başlayacağım. teşekkürler.<br/>edit6: tekrar ediyorum, ağır bir darp, ciddi bir vurma olayı olmadı. hafif bir tokat, küfür ve kollarımdan tutma/hırpalama yaşandı. <br/><br/>çaylak bir dostumdan aktarıyorum:<br/>özetle: hat almak için girdiğim <a class="b" href="/?q=turkcell">turkcell</a>'den 8-10 çalışanın üzerime çullanması, aklı başında olur diye bekleyeceğiniz mağaza müdürünün olayı hiç bilmeden hafif bir tokatla "belanı si....” diye küfür etmesi ve bir sürü çalışanın hırpalayıp hakaretler etmesi sonrasında ite kaka dışarı çıkartılmamla sonuçlanan rezalettir. <br/><br/>mobil uygulama alanında uluslararası bir firmada çalışıyorum. yurtdışındaki bir ofise yapacakları testler için simcard üzerinden ödeme yapılabilecek bir turkcell hat göndermemiz gerekiyordu.<br/><br/>mecidiyeköy tim’e ( hakem elektronik) girip faturasız hat almak istediğimi, ama bununla yurt dışında mobil ödeme yapılabiliyor olması gerektiğini söyledim. tabi deyip üzerinde “eğitimdeyiz” yazan işe yeni giriş yapmış çalışana yönlendirdiler. bütün bilgilerimi aldı, sözleşmeyi imzalamadan önce tekrar mobil ödemeyi sordum, çünkü bu roaming gibi sonrada açılabilecek bir özellikmiş gibi konuşuldu. “ben birazdan sorarım” dedi ve sözleşmeye imzamı aldı. ardından hat ücretini ödemeye yöneldim, konuyu tekrar oradaki daha tecrübeli kişiye de söyleyecektim. hattı açan arkadaş hazal isimli tecrübeli çalışana sormuş ve "maalesef simcard üzerinden yurtdışında mobil ödeme yapamazsınız” diyerek döndü. bu sırada hazal hanım da kendi çalışma arkadaşlarını gayet agresif bir şekilde azarlıyordu. ben hattı sadece bu yüzden alıyorum, o zaman hat ücretini ödemeyip hattı iade edeceğim dedim. "olmaz imzalamışsınız, hat açılmış" dediler, "sizin yanlış bilgi vermeniz sebebiyle oldu" dedim. ödeme yapmadığım ve hattı iade edeceğim için sözleşmeyi ve kimlik fotokopimi geri istedim ancak vermediler, hazal isimli çalışan imzaladın artık alamazsın diye sert bir çıkış yaptı. bunu almazsam bana bir hattı satmış olacaklar ve ben parasını ödemeden çıkmış olacaktım. üzerine hırsızlık mı yazarsın borç mu bindirirsin sen düşün...<br/><br/>masada önümde duran kimlik fotokopimi ve sözleşmeyi kendim aldım, çıkışa yönelecekken hazal isimli çalışan kağıda yapışıp elime vurarak almaya çalıştı. kendi kimlik fotokopim olduğunu, satın almadığım bir hizmet için alamayacağını söyledim ancak bırakmadı ve bağırmaya başladı. bakın buraya kadar ben gerçekten gayet kibar ve sakinim. bu sırada diğer çalışanlar da olaya dahil olup beni ve kağıdı çekiştirmeye başladılar. adını göremediğim gri saçlı orta yaşlı çalışan agresif bir şekilde saldırdı. sinirlerim gerilince kimlik fotokopimi ve sözleşmeyi yırtarak kendimi zar zor dışarı attım.<br/><br/>ama kafama sıçayım, kimliğim fotokopi cihazında kalmış… yaklaşık 1 dakika sonra gayet sakince mağazaya girip özellikle olayla alakasız birine gayet kibarca “kimliğim makinede kalmış, alabilir miyim?” dedim. bu sırada gri saçlı orta yaşlı şahıs kendi masasından çıkıp 5 metre öteden yanımıza koşarak gelip kimliğimi zorla aldı. (edit: ekleme: kimliğimi almak için bir uğraş verdim ve bu sırada bağırdım.) bu sırada başka birisi üzerime yürüyüp sanki olay çıkarıyormuşum gibi beni tuttu. üzerime gelene sakince kimliğimi alacağım dememe rağmen bir anda 7-8 tane çalışan başıma üşüştü, bu sırada hepsi kollarımı vs. tutuyor hareket edemiyorum, köşeye doğru ittiler. birileri kollarımı tutarken mağaza müdürü (serdar) geldi ve hafifçe tokat atıp “ben mağaza müdürüyüm, bağırma senin belanı s....” dedi. <br/><br/>kimliğimi verin yoksa polisi arayacağım dedim, araya giren (sanırım müşteri) formasız birkaç kişinin yardımıyla çalışanlar itip kakarken bir şekilde dışarı çıkartıldım ve yine formasız biri kimliği getireceğini söyledi, bu sırada içeride fotokopisini çekin diye bağırıyordu gri saçlı çalışan. sanırım tekrar fotokopisini çektiler. çıkarken de "kara listeye alıyoruz seni ben 70 lira zarar ederim ama sen bir ömür çekeceksin görürsün" gibi saçma tehditlerde de bulundular (çok da umrumdaydı kara listenize girmek).<br/><br/>yeni genç çalışan içlerindeki en kibar en düzgün insandı, olayın içindeki kaba kuvvete başvuran, küfür eden, darp eden kişilerden biri mağaza müdürü serdar, diğeri sorumu yönelttikleri muhtemelen en tecrübelilerinden biri olan hazal ve diğeri yine tecrübeli duran orta yaşlı garip gri saçlı erkek çalışan (sinan'mış).<br/><br/>üzerime çullanan 7-8 kişinin arasına girip beni koruyan birkaç aklı başında insan sayesinde çok daha ciddi bir darptan kurtuldum. <br/>çıktığımda bunları belgelemekle uğraşacak halim yoktu, iz bırakacak cinsten bir darp da olmadı. (edit: hukuki mücadele yollarını araştırıyorum), o mağaza müdürü serdar, çalışanlar sinan ve hazal cezasız kaldığı sürece bu olayın peşini bırakmayacağım turkcell. insanlık dışı bir zihniyetiyle sorunu çözmek yerine ne olduğunu bilmeden ilk anda kaba kuvvete başvuran mağaza müdürleriyle çalışamazsın. o kişileri ciddi olarak cezalandırmak zorundasın <a class="b" href="/?q=turkcell">turkcell</a>.<br/><br/>not: yer "hakem elektronik" olarak geçiyor, turkcell sayfasında tim olarak kayıtlı.
+   
+  entry_writer: ielkardo
+- entry_name: |
+    14 temmuz'da türkiye'yi uyardık
+  entry_id: 63276069
+  entry_content: |
+    
+    putin'in özel temsilcisinin beyanı..<br/><br/>aslına bakarsan korkunç <a class="b" href="/?q=skandal">skandal</a> bir beyan aynı zamanda.<br/><br/>demek ki darbe, <a class="b" href="/?q=akp">akp</a> tarafından ve ordu tarafından-<a class="b" href="/?q=hulusi+akar">hulusi akar</a> tarafından,<a class="b" href="/?q=mit">mit</a> tarafından, <a class="b" href="/?q=hakan+fidan">hakan fidan</a> tarafından en az 1 gün önce biliniyormuş.<br/><br/>hmm;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/putinin-ozel-temsilcisi-14-temmuzda-uyardik-40238167" title="http://www.hurriyet.com.tr/putinin-ozel-temsilcisi-14-temmuzda-uyardik-40238167">http://www.hurriyet.com.tr/…mmuzda-uyardik-40238167</a><br/><br/>tedbirler ve uyarılar 1 gün önce halka açık yapılsaydı , 15 temmuz darbe girişiminde hayatını kaybedenlerin önüne geçilir miydi?<br/><br/>ne olduğundan bi haber emir komuta zincirinin kurbanı olup linç edilen 20'lik çocuk askerler,tutuklanıp hayatı kararan komutanlar kurtulur muydu?<br/><br/>böyle bir sürü soru var?<br/><br/>ama senin umrunda mı sözlük.
+   
+  entry_writer: noksan
+- entry_name: |
+    apple'ın türkiye'ye yaptığı büyük saygısızlık
+  entry_id: 63274479
+  entry_content: |
+    
+    türkiye'ye saygısızlık falan yapmamış, tam aksine batının sadece kendine hıristiyanlığıyla dalga geçmiştir.  <br/><br/>ilk şoku atlatıp komedi olduğunu anlayınca insan gülüyor bile.<br/><br/>tanım: apple'la alakası bile olmayan, komedi amaçlı yapılmış video.
+   
+  entry_writer: jedilost
+- entry_name: |
+    3 ekim 2016 ohal'in 3 ay uzatılması
+  entry_id: 63280751
+  entry_content: |
+    
+    hiç bitmeyecek olan ohal'in ikinci üç ayını başlatan karardır.
+    
+  entry_writer: krasotaspasetmir
+- entry_name: |
+    hepsiburada'dan alınan sahte parfümün fotoğrafları
+  entry_id: 63277093
+  entry_content: |
+    
+    (daha doğrusu: hepsiburada.com'dan alınan sahte parfümün fotoğrafları))<br/><br/><a class="b" href="/?q=hepsiburada.com%27dan+bir+parf%c3%bcm+alma+deneyimi">hepsiburada.com'dan bir parfüm alma deneyimi</a> başlığında konuya ait fotoğrafları iyi niyet ve müşteri memnuniyeti gözetilmesi durumunda paylaşmak istemediğimi yazmıştım. durumun öyle olmadığını düşündüğüm için paylaşıyorum.<br/><br/>satın aldığım ürün şu;<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hepsiburada.com/burberry-classic-edp-100-ml-kadin-parfumu-p-SGSBW9001" title="http://www.hepsiburada.com/burberry-classic-edp-100-ml-kadin-parfumu-p-SGSBW9001">http://www.hepsiburada.com/…din-parfumu-p-sgsbw9001</a><br/><br/>gelen ürünün fotoğrafları da şunlar;<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://imgur.com/a/rSHCD">http://imgur.com/a/rshcd</a><br/>(alternatif)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/oEl6Xk.jpg">http://i.hizliresim.com/oel6xk.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/lERbqb.jpg">http://i.hizliresim.com/lerbqb.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/VER39r.jpg">http://i.hizliresim.com/ver39r.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1N0G6p.jpg">http://i.hizliresim.com/1n0g6p.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/6mGyM7.jpg">http://i.hizliresim.com/6mgym7.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/WbRGo2.jpg">http://i.hizliresim.com/wbrgo2.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/3AJpg2.jpg">http://i.hizliresim.com/3ajpg2.jpg</a><br/>orjinal ürün ile yanyana durunca bariz farkı görüyorsunuz.<br/>önceki başlık için, "çok abartmışsınız, ürün orjinal, şişenin içinde kırık cam parçaları olması o kadar önemli değil" gibi ilginç yorumlar geldiği için birkaç uzmana gösterdim %100 sahte denildi.<br/>belki bir burberry yetkilisi de görür ve görüş paylaşır. <br/><br/>tedarikçi, ses tonu ve yaklaşımı iyi niyetli gelen biri olduğu için, söyledikleriyle gerçek arasında birçok karşıt durum olsa da bekleyip emin olmak istedim.<br/><br/>özet geçecek olursak, sorun anlaşıldıktan sonra;<br/>1. hepsiburada.com arandı, onlarda sahte parfüm olmayacağı iletildi, iş yokuşa sürüldü.<br/>2. sonra, sahte parfüm gönderen tedarikçi arandı, "nasıl olur, bir yanlışlık olmalı, mümkün değil sahte olamaz" dedi.<br/>3. yasal yollara başvuracağımı iletince hemen yeniden orjinal parfüm gönderdiğini iletti.<br/>4. gönderdiği parfüm iki haftada ulaşmadı. (sahte parfüm 1 günde ulaşmıştı)<br/>5. sebebini sorunca, bazen kaza geçirdiğini, bazen şehir dışına çıktığını, bazen de cenazesi olduğunu iletti.<br/>6. bana karşı çok mahçup olduğunu ve orjinal parfümü hediye edeceğini söyledi.<br/>7. bu süre zarfında, tedarikçi sahtesini geri gönderin hemen ücret iadesi yapacağım dedi. sahte parfümü hepsiburada.com'a geri kargoladım. ücret iadesi yapıldı. tabi kargo ücreti hariç.<br/>7. bundan sonra tedarikçi mesajlara yanıt vermemeye başladı.<br/>8. en son dürüst olmadığını ima ettim, gelen yanıt<br/>"ucret iadesi yapıldı tarafınıza zaten, kargonuz adres sorunu nedeni ile alıcıya ulaşılamadigindan adrese bilgi notu bırakılmıştır şeklinde not dusulmus"<br/><br/>şunu anlamaya çalıştım;<br/>'hepsiburada.com tarafından onay verilmiş ve ciddi sayıda satışı olan bir satıcı nasıl sahte parfüm satar da hepsiburada.com yine de sahte parfüm satan birinin yanında olur?'<br/>böyle birşey gerçekten de kulağa çok zor geliyor, bu durumda belki de tedarikçinin söylediği "beni de kandırdılar" doğrudur diye düşünüp, tedarikçiyi anlamaya çalıştım. <br/>(hepsiburada.com'dan "aldığınız ürünü yorumlayın" e-mail'i geldi, ürünün sahte olduğunu belirttim, yorum yayınlanmadı)<br/><br/>belki de gerçekten aynı anda hepsiburada.com aslında sahte ürün satılan müşterisinin yanındadır ve ben yanlış anlamışımdır, tedarikçisi kaza geçirmiştir, cenazesi vardır, ona da sahte parfüm satmışlardır, kargoda sahte parfümün bulduğu adresi orjinal parfüm bulamıyordur. bilemiyorum, yorum sizin.
+   
+  entry_writer: function
+- entry_name: |
+    reklamlardaki paranormal olaylara tepkisiz oyuncu
+  entry_id: 63274227
+  entry_content: |
+    
+    izlerken garipsediğim olay. tamamen gerçeklik dışı..<br/><br/>ocak üstündeki lekelerden şikayetçi mesela hanım ablamız. birden mister masıl diye bir herif peydah oluyor poff diye. eüzü besmele çekip balkondan atlaması gereken hanım abla "aaa ne güzel de çıkardı lekeleri bundan sonra hep mister masıl kullanacağım" diyor.<br/><br/>ulan eve adamı mı attın diye öldürürler kadını be.
+   
+  entry_writer: etsiz cig kofte olmaz
+- entry_name: |
+    3 ekim 2016 iğneada plajının kapatılması
+  entry_id: 63279762
+  entry_content: |
+    
+     <a class="b" href="/?q=k%c4%b1rklareli">kırklareli</a>'nin balıkçı kasabası iğneada. yolu yol değil git git bitmez. her yer orman olur gözün yeşile bürünür bir süre sonra. zaten yol bitmesin istersin. üç beş tane balıkçı lokantası, bir ince sahili vardır. öğlen yüzün pembeleşir akşam rakını içersin. kim ne ister böyle kendi halinde huzurlu bir yerden anlamam. bir insanın gün batımında gülümsemek yerine çimento fabrikası hayal etmesini idrak edemiyorum.
+   
+  entry_writer: vesta
+- entry_name: |
+    siz kelepçeleyin astsubaya yaptırmayın
+  entry_id: 63276508
+  entry_content: |
+    
+    ananızı mareşal ziksin, darbeci ipneler. rütbeni çok düşünseydin ilk okul mezunu bir şizofrenin altına yatmazdın.
+    
+  entry_writer: siyamtekizi
+- entry_name: |
+    2 ekim 2016 d&r rezaleti
+  entry_id: 63273666
+  entry_content: |
+    
+    manyak bir tezgahtarın durup dururken alemin karısına kızına saldırması rezaleti herhalde. üstelik erkek. kadın olsa neyse..<br/><br/>öncesi yok, sonrası yok, olay nasıl o noktaya gelmiş bellisi yok, karısı darp edilmişken facebook'ta d&r'ı "biz de senden alışveriz etmeyiz daha" diye protesto eden bir koca var.var.<br/><br/>hasılı böyle rezalete de sokarım, böyle başlığa da, böylesine yazarlık verene de.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: şu entryi tutup dün sözlükte en çok şükela almış entryler arasında 12. sıraya getirene de, bu gibi tipleri sözlüğe doldurana da...
+   
+  entry_writer: plajda baretle dolasan muhendis
+- entry_name: |
+    yurtdışından türkiye'ye gelince fark edilenler
+  entry_id: 63273189
+  entry_content: |
+    
+    insanlar çok çirkin amk.
+    
+  entry_writer: speed
+- entry_name: |
+    türk dizilerindeki aşırı zenginlik
+  entry_id: 63277775
+  entry_content: |
+    
+    herkes o kadar zengin görünüyor ki zengin ve fakirleri ayıran tek bir detay var: zengin karakterler lüks otomobillere binerken fakirler de en kötü ihtimalle her yere taksiyle gidiyor. ülkede metrobüse bir tek ben biniyorum resmen amk.
+    
+  entry_writer: canned
+- entry_name: |
+    melih gökçek'in paylaştığı lozan haritası
+  entry_id: 63272973
+  entry_content: |
+    
+    lozan'da kaybedilen adalar olarak paylaştığı haritadır.  <br/>ilginç olan ise melih gökçek'in paylaştığı haritanın bir turizm şirketinin feribot seferlerini gösteren harita olduğu ortaya çıkması.<br/><br/>paylaşırken "zeka küpü lozancılar" diye girmiş olaya. <br/>şimdi kimin zekasını alaya alalım sayın gökçek?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/608841/Gokcek_in_paylastigi__Lozan_haritasi__Feribot_seferleri_haritasi_cikti.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/608841/Gokcek_in_paylastigi__Lozan_haritasi__Feribot_seferleri_haritasi_cikti.html">haber</a>
+   
+  entry_writer: oyuncak bulut
+- entry_name: |
+    jan olde riekerink
+  entry_id: 63273944
+  entry_content: |
+    
+    cavanda kendini göstermiş, podolski hazır olmuş, de jong taş gibi dönmüş de hala yasin, selçuk ve sabri oynuyormuş gibi tuhaf tuhaf eleştiriler iki haftadır. maşallah herkes pes oynar gibi yeni transferi, sakatlıktan döneni, bütün ofansif adamları, sneijder, podolski, sinan, cavanda, bruma, eren ve josue'yi aynı anda 11'e yazıp bunu uygulamıyor diye adamı gömmeye çalışıyor..<br/><br/>geçen sene şu oyunun yarısına razı olan, derbilerden önce "sikmeseler bari" yazan, geçen seneki çöp kadronun üzerine tolga ve eren transferleri olunca söz birliği etmişçesine ilk 5'e giremeyiz diyen balık hafızalı taraftarlar(!) galibiyeti kaçırdığı beşiktaş deplasmanından, geriden gelip kazandığı iç saha maçından ve namağlup geçirdiği 6 haftadan sonra adamı harcamaya çalışıyorlar. hani "sezon başı kötü gitse bile sabredelim biraz" diyoruz ya, adam iyi gittiği halde gömüyorlar aga. gel de kasıt arama. gel de dengeciler, terimsporlular deme.<br/><br/>dünkü maçın ilk yarısından sonra yazılan -ve sonra pek çoğu silinen- entryler gösterdi ki bu adam olmayacak, oldurmayacaklar. şu güzel ortama rağmen en ufak bir tökezlemede kellesini isteyecekler. bu anı yakalamayı bekliyorlar sırtlan gibi. dün olmadı, elbet başka bir maç olacak. gurur meselesi yaptılar bu işi çünkü. tayyip'in türkiye'sinde yaşayan diğer yüzde 50 gibi, bizim de bu durumu izlemekten başka bir şey gelmeyecek elimizden. ulan nasıl nefret ediyorum şunların arasında olmaktan.<br/><br/>ek: sözlükte yazılanlar sosyal medyanın, haliyle toplumun ve medyanın genel tepkisine örnek. yoksa elbette sözlükte eleştiriliyor diye hoca gönderilecek değil.
+   
+  entry_writer: ecs
+- entry_name: |
+    3 ekim 2016 tedes radar cezası soygunu
+  entry_id: 63280647
+  entry_content: |
+    
+    geçmiş olduğumuz nisan ayında çorum osmancıktan aracımla geçerken,ortalama 55-58 km arasında bir hızla, tam 6 tane ceza yemişim.cezaların toplamı 1833 tl.bugün e-devlette gezerken suratıma çarptı.bu trafik cezasımıdır, yoksa belediyeler için bir gelir kapısımıdır?  <br/>55-58 km ile giden bir araca nasıl bu kadar ceza yazılabiliyor ve cezaların 1'er dakika arayla olmasını hangi kanun yazıyor?<br/>trafik cezalarının caydırıcı olması önemli, ancak bu dümdüz göstere göstere bir soygun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/gXRrLZ.png">http://i.hizliresim.com/gxrrlz.png</a><br/><br/>edit: arkadaşlar mesaj atan ve ilgilenenlere çok teşekkür ederim. aynı zamanda empati kurmaktan aciz "trafik kuralı uyacan ya" geyiği yapan hatta küfreden kuş beyinli mallar ; ne yazıkki sizin gibi ne gelirse razı olan düşünmekten aciz koyunlar yüzünden biz bu cezaları ödemek zorunda kalıyoruz biraz sorgulayın 50 küsür km ile 2000tl ye yakın ceza yemişim bunun adı trafik kuralımı? 20 ilemi gideyim aynı hızla aynı cezayı alsanız siz ne yapardınız?
+   
+  entry_writer: fahset
+- entry_name: |
+    derin futbol
+  entry_id: 63288317
+  entry_content: |
+    
+    8 binlira yüzünden bugün babamı hüngür hüngür ağlarken gördüm, belki yuvamız yıkılacak. ulan şu paraları gördükçe isyan edesim geliyor. ah ulan adaletsiz dünya.
+    
+  entry_writer: realist hayvan
+- entry_name: |
+    otoban yanındaki çimlerde uzanan dayı
+  entry_id: 63280159
+  entry_content: |
+    
+    bazen gömleklidir bazen fanilalı. olduğu yerden otobanı izler. eğimli arazide rahatlıkla oturup uzanabilmesi evrimsel adaptasyonun muazzam bir örneğidir. kimi zaman yanında arkadaşları da olur. gamsız görüntüsüyle modern dünyanın karmaşasına adeta bir başkaldırış olarak yorumlanır. ne amaçla orada olduğu ise hala gizemini korumaktadır.
+    
+  entry_writer: therepulsion
+- entry_name: |
+    bir başka kadına vajina ağdası yaptıran kadın
+  entry_id: 63280878
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=bir+ba%c5%9fka+erke%c4%9fe+sakal+t%c4%b1ra%c5%9f%c4%b1+yapt%c4%b1ran+erkek">bir başka erkeğe sakal tıraşı yaptıran erkek</a>)
+   
+  entry_writer: kuntepercanavari
+- entry_name: |
+    eli kolu tutan kadının onursuzca nafaka istemesi
+  entry_id: 63283855
+  entry_content: |
+    
+    yani hiçbir şekilde anlam veremediğim olay. seninle 3 sene evli kaldık, şimdi anlaşamadık ve boşanıyoruz. aylık gelirin 6.000 kağıtsa 2.000'ini alırım, almaya hakkım var. neden? çünkü amım var. bana ömür billah bakmak zorundasın. 3 sene kadınlık yaptım boru değil ya..<br/><br/>ulan bu ne rezalet hiçbir şekilde anlam vermek mümkün değil. kadının eli kolu tutuyor, engeli yok, ama çalışmasa da olur çünkü bir kere imza atmış, erkekten sigortasını yaptırmış, benim elim kolum tutuyor ama ben paşalar gibi evde yatacağım, sen de bana sike sike bakacaksın. <br/><br/>bunu talep eden kişinin kendine öz saygısının olmadığını düşünüyorum, kendine saygı duyan insan bu iğrenç müesseseyi elinin tersiyle iter.<br/><br/>peşinen edit: "3 sene kadınlık yapıyor" demeyin lütfen, adam da 3 sene erkeklik yapıyor. siz hiç bir işçinin her gün 15 saat mesai dahi yapsa 3-5 sene çalışmadan sonra kıdem-ihbar tazminatından başka alacak yarattığını, işverenin işçisine ömür boyu baktığını gördünüz mü?<br/><br/>edit 2: aklı evvel avukatlar çıkıntılık yapacak illa fakat bu entrydeki bahse konu nafakanın yoksulluk nafakası olduğu gayet açık.<br/><br/>edit 3: hala çocuğa verilen iştirak nafakasıyla konuyu değerlendirenler var, arkadaş anlattığım şey çok açık ne çocuğu ne nafakası, çocuğa nafaka vermeyenin eli kopsun.
+   
+  entry_writer: marilyn
+- entry_name: |
+    heidi
+  entry_id: 63275837
+  entry_content: |
+    
+    heidi'nin dedesiyle bir ağaç dalını peynire saplayıp ateşte kızartması. ben buna o kadar özenmiştim ki babama yaptırmaya kalkmıştım. babamın dükkanına gittiğim günlerr<sup class="ab"><a title="(bkz: çocukken babanın işyerine gitmek/@ssg)" href="/?q=%c3%a7ocukken+baban%c4%b1n+i%c5%9fyerine+gitmek%2f%40ssg" data-query="çocukken babanın işyerine gitmek/@ssg">*</a></sup> öğlenleri yemeği babam hazırlardı. heidi'de okuyunca "ateşte peynir kızartalım" demiştim. "oğlum yanar öyle peynir bişeye benzemez" dediyse de ikna olmadım. "kitapta yazıyor baba" deyip ısrar etmiştim. onun üzerine bildiğin kalıp beyaz peyniri piknik tüpünde eritip ne olacağını göstermişti. büyük hayal kırıklığına uğramıştım. "istersen artık bunu yumurtaya katalım peynirli yumurta olsun" demişti. üzüntüyle kabul etmiştim. peynirli yumurta da çok güzel olmuştu.<br/><br/>ama o peynir meselesi <a class="b" href="/?q=johanna+spyri">johanna spyri</a>'nin okurlarına çaktığı en büyük kazıktır. kimi yiyosun ya. nasıl kızartıyosun peyniri. hislerimle oynadı adi kadın. kesin kendini "alplerde özel bir peynir var" diye savunuyordur. pis yalancı.<br/><br/>edit: beşyüz tane mesaj geldi "hellim kızartılıyor" diye. johanna açık açık belirtseymiş "dedesinin kıbrıs kökenlerinden dolayı" diye. nice çocuğun hayallerini yıktı pis.<br/><br/>edit 2: kusmuk dedi ki gerçekten o yöreye özel kızartmalık peynir varmış. kitapta o özelliğinden bahsedilmiyordu. paramı geri istiyorum.<br/><br/>edit 3: max zorin yardımıyla ne olduğunu bulduk. sözkonusu peynir <a class="b" href="/?q=raclette">raclette</a>'miş. 1980'lerde eskişehir'de bulmamız zaten imkansızmış.<br/><br/>edit 4: komplo teorisi büyüyor. heidi'deki bu kısım zaten isviçre peynir lobisinin bir ürünüymüş. propagandaymış. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.npr.org/sections/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy" title="http://www.npr.org/sections/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy">http://www.npr.org/…isode-575-the-fondue-conspiracy</a>
+   
+  entry_writer: ssg
+- entry_name: |
+    slaven bilic
+  entry_id: 63273499
+  entry_content: |
+    
+    şu kadro kendisine verilse takım yine derbilerde gol atamazdı. orta sahayı necip, atiba ve veli'den kurardı. 31. haftaya bile lider girse yine şampiyonluğu verirdi. başakşehir, akhisar, rize bizi düdüklemeye devam ederdi.
+    
+  entry_writer: eagle is free
+- entry_name: |
+    haydarpaşa-gebze banliyö treni
+  entry_id: 63274309
+  entry_content: |
+    
+    çomarların köprüler kadar ilgisini çekmemesini az beton kullanılmasına bağladığım hat.  <br/><br/>(bkz: <a class="b" href="/?q=beton+dini">beton dini</a>)
+   
+  entry_writer: kumulatifvergimatrahi
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id: 63273540
+  entry_content: |
+    
+    zamanda yolculuk, uzay, zaman ve benzeri bağlantılı konularla ilgili 3-4 aydır takip ettiğim  <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagaribey" title="https://twitter.com/lagaribey">lagaribey</a> isimli twitter kullanıcısının yaptığı bir flood vardı, uzunca bir süre sonunda öğrenildiğinde ufku iki katına çıkartabilecek bir çok konuyu toparlayıp floodunu bitirdi. <br/><br/>bende bunları toparlayarak buraya aktarıyorum. floodun içeriği ise oldukça zengin..<br/><br/>buyrun efenim;<br/><br/>1) zaman, insanoğlunun tanımladığı bir şey. sezyum metalindeki atomun 9.192.631.770 defa titreşmesine(frekansına), insanoğlu 1 saniye demiş.<br/><br/>2) pek çok kişiye göre zaman herkes ve her yer için aynıydı ama einstein bunun doğru olmayabileceğini keşfetti. zaman değil, zamanlar vardı.<br/><br/>3) einstein’ın genel görelilik kuramına göre evren 3 boyutlu değil, 4 boyutlu idi ve 4.boyut zamandı. böylece “uzay-zaman” dokusu tanımlandı.<br/><br/>4) evrendeki her kütle ve enerji parçası bu dokuyu büker. bu dokuyu bir çarşaf gibi düşünün, ortasına konulan bir top çarşafı bükecektir.<br/><br/>5)bükülen çarşaf, aslında kütleçekimi(yerçekimi). çarşaf da uzay-zamanın kendisi. yani topun çarşafı bükmesi, kütleçekimin zamanı bükmesi.<br/><br/>6) kütleçekiminin büyük olduğu yerlerde zaman daha yavaş geçer. bunu dünyada da görüyoruz ama etkileri çok az olduğu için hissetmiyoruz.<br/><br/>7) mesela bir gökdelenin tepesinde yaşayan kişi, altta yaşayan kişiye göre yerçekiminden daha az etkileneceği için daha hızlı yaşlanır.<br/><br/>8) dünya’da çok büyük kütleli bir şey yok ama uzayda var: karadelikler. karadeliklerin kütleçekim gücü devasa boyutlarda.<br/><br/>9)bir karadeliğin etrafında bir kaç yıl tur atabilseydik, zaman burada yavaş geçeceğinden dünya’ya döndüğümüzde belki 50 yıl geçmiş olacaktı.<br/><br/>10) geleceğe yolculuğun ilk yolu bir karadeliğe gitmek ama bugünkü teknolojiyle imkansız. belki uzun yıllar sonra mümkün olabilecek.<br/><br/>11)geleceğe seyahat etmek için bir karadeliğin yanına gitmek gerekmiyor, bir yol daha var. o da einstein’ın özel görelilik kuramına dayanıyor.<br/><br/>12)bu kurama göre zaman mutlak değildir, hareketten etkilenir. bir cismin hızı ne kadar çok artarsa, zaman onun için daha yavaş akmaya başlar.<br/><br/>13)1971’de bir deney yapıldı. 2 atomik saatten biri yerde kaldı, diğeri bir jet uçağına konuldu. uçak indikten sonra saatler karşılaştırıldı<br/><br/>14)uçaktaki saat, yerdeki saate göre farklıydı. aradaki fark, saniyenin bir kaç milyarda biriydi ama einstein’ın teorisi ispatlanmıştı.<br/><br/>15)peki bunu neden günlük hayatımızda görmüyoruz derseniz, bunun etkisi bizim algılayamayacağımız kadar küçük. ancak bu etki var ve gerçek.<br/><br/>16)mesela sürekli seyahat edenler için zaman daha yavaş geçeceğinden, daha geç yaşlanırlar. “hızlı yaşa geç öl” sözü, bilimsel açıdan doğru :)<br/><br/>17)ışık hızına ne kadar yaklaşırsanız, zaman o kadar yavaşlar. varsayalım ki, ikiziniz var ve siz ışık hızına yakın bir hızla uzaya gittiniz<br/><br/>18)bir müddet sonra döndüğünüzde artık ikizinizle aynı yaşta olmayacaksınız, ikiziniz çok daha yaşlanmış olacak (ikizler paradoksu).<br/><br/>19)özetlersek, geleceğe gitmek için büyük kütleli cisimlerin yanına gitmekten başka bir diğer yol, ışık hızına yakın hızlarda seyahat etmek.<br/><br/>20)insanoğlunun bugüne kadar yaptığı en süratli uzay aracı 2018’de fırlatılacak olan spp. bunun hızı 200km/saniye. ışık hızı ise 300.000km/sn.<br/><br/>21) ışık hızının %0,067 (%1 dahi değil) mertebesinde bir hıza ancak çıkabildik. yani geleceğe seyahat için teknolojimiz henüz yeterli değil.<br/><br/>22) geçmişe yolculuk mümkün mü? sonda söyleyeceğimizi başta söyleyelim, kuantum fiziğine göre mümkün ama bir takım sorunlar var.<br/><br/>23) önce şunu hatırlatalım. 3 boyutlu değil, 4 boyutlu bir evrende yaşıyoruz. bu 4.boyut zaman ve evrende "uzay-zaman" dokusu var.<br/><br/>24)zamanın uzaydan ayrı olmaması bizi ilginç bir sonuca götürüyor: geçmiş, şimdi ve gelecek arasındaki ayrım sadece bir yanılsamadan ibaret.<br/><br/>25)yani geçmiş, şimdi ve gelecek hep var (kader) ve evren, sandığımızın aksine maddi değil, sanal (holografik) bir yapıdan ibaret.<br/><br/>26) bizim zaman dediğimiz şey, aslında bu sanal yapıdaki “an”ların bir araya gelmesinden oluşuyor.<br/><br/>27)doğumunuzdan bu yazıyı okuduğunuz şimdi “anı”na ve ölümünüze kadarki tüm “an”ların bir fotoğraf karesi olduğunu ve dizildiğini varsayın.<br/><br/>28)benzer şekilde herkesin aynı “an dilimi”nde olduğunu düşünün ve bu "an dilimleri"nin sıralandığını göz önüne getirin.<br/><br/>29) biraz önceki "an diliminde" ben tweet yazarken, siz okuyordunuz, başkası çay içiyordu veya tv izliyordu ama herkes aynı "an"daydı.<br/><br/>30)ancak dünya’da hissetmesek de herkesin “an”ı aynı değil, çünkü bazıları hareket halinde ve zaman hareketten etkileniyor(10-21 arasına bkz).<br/><br/>31)düşünün ki, uzayda biri var ve onunla aynı “an dilimi”ndeyiz. biz dururken, uzaydaki yürümeye başlarsa artık "an"larımız aynı olmayacak<br/><br/>32)o yürüdüğü için zaman ona göre daha yavaş geçecek ve kendi an diliminden bize baktığında, bizim belki 40 yıl önceki halimizi görecek<br/><br/>33) geçmişteki bir an dilimine nasıl gideceğiz? farklı teoriler var, en meşhuru “solucan delikleri” şurada <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagaribey/status/701862544391196672" title="https://twitter.com/lagaribey/status/701862544391196672">yazmıştım</a><br/><br/>34)varlığı henüz kanıtlanmamış solucan deliklerinden geçmek, pratikte çok zor. bunu engelleyen, geçmişe gitmeyi önleyen bir şey var: entropi<br/><br/>35)geçmişe gitmek için farklı yollar öneren teoriler var, detaya girmeyeceğim ama sonuçlarından bahsedeceğim. teorimiz karedelikler olsun.<br/><br/>36)bu teoriye göre karadeliklerin tam ortasında uzay-zamanda bir kırılma olur. bu noktadan girersek, uzayın başka bir bölgesine çıkabiliriz.<br/><br/>37)bir dağın tepesini aşmak yerine, içindeki tünelden (solucan delikleri) geçip, uzaklara çıkmak gibi. sorun tüneli geçtikten sonra başlıyor<br/><br/>38)diyelim ki, tünelden(solucan deliğinden) geçerek geçmişe gittik ve senaryo bu ya, çocuk yaştaki dedemizi öldürdük.o zaman bize ne olacak?<br/><br/>39)dedemiz öldüğüne göre, babamız ve dolayısıyla biz hiç doğmamış olacağız ama oradayız ve az önce bir cinayet işledik? (dede paradoksu)<br/><br/>40)bu paradoksu çözmek için 3 öneri var.ilkine göre dedemizi öldürdüğümüzde olan bitenle bağlantısı olmayan paralel bir evrene geçmiş oluruz<br/><br/>41)artık zaman yolculuğuna başlanan evren ile gelinen evren tamamen farklıdır (paralel evrenler teorisi) ve paradoks çözülmüştür<br/><br/>42) 2.öneri hawking’den geldi. neden-sonuç ilişkisi tehlikeye girerse, dünya’da garip bir şey devreye girecek ve bu olay engellenecek<br/><br/>43)son teori ise isteseniz de bunu yapamayacağınızı, mesela silahın patlamayacağını, dedenizi hiç göremeyeceğinizi vs. söyler.<br/><br/>44)peki bu paradoksun bir şekilde çözüldüğünü varsayalım, fiziğe göre geriye gitmek de mümkün dedik, neden bunu günlük hayatta görmüyoruz?<br/><br/>45)mesela neden kırılan bir bardağın eski haline geldiğini ya da bardaktan yere dökülen suyun bardağa tekrar girdiğini görmüyoruz?<br/><br/>46)biz hep zamanı tek yönlü olarak, ileriye doğru akıyor gibi algılıyoruz. günler geçiyor, çocukluğumuz geride kaldı, yaşlanıyoruz.<br/><br/>47)sadece insanlar için değil, yaşayan tüm canlılar, hatta cansızlar için de durum aynı. meyve çürüyor, elbisemiz eskiyor, dünya kirleniyor.<br/><br/>48)her şey ama her şey düzenden düzensizliğe, kaosa doğru gidiyor. hiç bir şey ilk başladığı gibi değil. biz de öyle, evren de.<br/><br/>49)bu sürecin bilimsel adı "evrenin en önemli yasası olarak bilinen entropi". bu yasaya göre evrendeki her şey düzenden düzensizliğe gider<br/><br/>50)düzenden kaosa giden bu süreç tek yönlü, yani entropi sürekli artar. entropinin maksimum olması, o şeyin yok olması demektir.<br/><br/>51)insanın entropisinin maksimuma ulaşması ölmesi demek, büyük patlamadan sonra sürekli genişleyen evrenin maksimuma ulaşması ise kıyamet.<br/><br/>52)kuantum fiziği bizim geçmişe gitmemize izin verirken, bir başka yasa buna engel oluyor. bu durumda zamanda seyahat etmek mümkün değil mi?<br/><br/>53)zaman yolculuğuna hep astrofizik(makro) açısından baktık, olayı daha iyi anlayabilmek için kuantum(mikro) seviyesine inmek gerekiyor<br/><br/>54)öncelikle şunu belirtelim; kuantum büyülü bir dünyadır. matrix’de neo’nun kırmızı hapı alıp, harikalar dünyasına gitmeyi kabul etmesidir<br/><br/>55)bu dünya, büyülü olduğu kadar bildiğimiz gerçeklerle terstir, aklın kabul etmeyeceği şeyleri ileri sürer ama fiziki dünya kadar gerçektir<br/><br/>56)kuantumdan kastın ne olduğuyla başlayalım. insanoğlu 20.yy'a kadar maddenin temel taşı olarak atomu görüyor ve bölünemeyeceğini söylüyordu<br/><br/>57)zaman geçtikçe atomun bölünebildiği üstelik elektron, nötron ve proton olarak bilinen yapısının daha alt parçacıklardan oluştuğu anlaşıldı.<br/><br/>58)bu parçacıklarlardan foton(ışık) ile bir deney yapıldı. ortasında 2 yarık olan bir yere fırlatıldığında, aynı anda 2 yarıktan da geçmişti<br/><br/>59)eğer ışık sadece parçacıksa(küçük bilye ise), aynı anda 2 yarıktan geçemezdi ama burada ikisinden aynı anda geçmişti, bir su dalgası gibi.<br/><br/>60)deneyin detayına gitmeyeceğim ama şu anlaşıldı: ışık hem dalga hem de parçacık gibi davranıyordu. üstelik bu deney defalarca tekrarlandı.<br/><br/>61)ancak deney esnasında ilginç bir şey oldu. deneyi yakından takip için bir cihaz konulduğunda, ışık sanki bunu anlamış ve parçacık olmuştu.<br/><br/>62)düşünsenize, aynı anda hem parçacık, hem de dalga olan bir şey var. siz baktığınızda bir anda durumu değişiyor, sanki izlendiğini anlıyor.<br/><br/>63)deneyi izleyen biri, sadece deneye bakarak durumun değişmesine neden oluyordu. bu akıl almaz gelişme maddenin sorgulanmasına yol açtı.<br/><br/>64) bu deney yapılmadan yıllar önce, "ormanda düşen bir ağaç, kimse yoksa ses çıkarmayacaktır" deniliyordu, bu iddia yeniden gündeme geldi.<br/><br/>65) einstein bu konuda çok şüpheciydi ve şöyle kuşkulu ve imalı bir soru sordu: “ay’ın sadece ona baktığında var olduğuna inanıyor musun?”.<br/><br/>66) einstein'ın böyle düşünmesi için bir nedeni vardı, çünkü böyle bir şeyin olabilmesi için her şeyin etkileşim içinde olması gerekiyordu.<br/><br/>67) kuantum konusunda farklı bir anlayışa sahip olan einstein, çıkan sonuçları kabul etmiyor ve etkileşimin olmayacağını söylüyordu.<br/><br/>68)einstein'ın yanıldığı ölümünden sonra ortaya çıktı. bir yerde olan her yerdeydi, her yerde olan hiç bir yerde. üstelik ilginç bir bağla.<br/><br/>69)"ilginç bağı" açıklamadan önce yukarıda anlatılan deneyin sonuçlarını günlük hayattan örneklerle biraz daha belirgin hale getirelim.<br/><br/>70)şu anda bulunduğunuz yerde bir masa olsun.başınızı kaldırıp baktığınızda onu görüyorsunuz ama bakmadığınızda aslında 1'den fazla masa var<br/><br/>71) garip ama gerçek: birden fazla masa olup olmadığını hiç bilemeyeceksiniz, çünkü baktığınız anda sadece bir tane masa göreceksiniz.<br/><br/>72)bir örnek daha verelim. bursalılar bilir, somuncu baba diye bir zat vardır ve ona atfedilen bir hikaye. gerçek ya da değil, önemli değil.<br/><br/>73)hikayeye göre somuncu baba, bir cuma günü hutbe verir. çıkışta halk elini öpmek için 3 ayrı kapıya gider. hepsi de elini öptüğünü söyler.<br/><br/>74)deneye tekrar dönersek; bakmadığınız anda olasılık dalgaları, baktığınız anda ise deneyin parçacıkları olacak.<br/><br/>75)katı olarak bildiğimiz parçacık, dalga şeklinde her an binlerce yerde olacak ama baktığınızda o konumların birinde katı halde olacak!<br/><br/>76)ancak kuantumdaki asıl gariplik bundan sonra başlıyor, hani şu “ilginç bağ”. bu bağın var olma ihtimali için einstein “ürkütücü” demişti.<br/><br/>77)deneylerle ispatlanan olay şöyle: varsayalım ki, birbirinin her bakımdan aynı olan 2 bilyeden biri ankara’da, diğeri istanbul’da olsun<br/><br/>78) ankara’daki bilyeye bir şey yaptığınızda, istanbul'daki “anında” etkileniyor ve "anında" cevap veriyor. (mümkün olabilir mi?)<br/><br/>79) böyle bir şey nasıl olur? ya aralarında bir iletişim var ya da hala bağlılar, yani “dolanıklar” (kuantum dolanıklık teorisi)<br/><br/>80)şimdi bunu elektron seviyesine indirelim.“eş yaratılan” 2 elektrondan birini tutup, diğerini uzayda bir yere gönderelim. bunlar da dolanık.<br/><br/>81)birine bir şey yaptığımızda, diğeri “anında” tepki verecek. üstelik bu olay zamandan ve mekandan tamamen bağımsız...<br/><br/>82) büyük patlama (big bang) anında her şey "dolanık" olduğuna göre, demek ki her şey hala birbiriyle bağlantılı (kelebek etkisi?)<br/><br/>83) anlattığım şeyler çok uçuk kaçık ve uygulanamaz mı geldi? o zaman kuantum bilgisayarlarla tanışın, çünkü bu prensibe göre çalışıyorlar!<br/><br/>84)kuantum seviyesindeki gariplikler ve ardı ardına keşfedilen şeyler dolanıklık ile zirve yaptı. çünkü bu aynı zamanda "ışınlanma" demekti.<br/><br/>85)ışınlanmayı şimdilerde bilim kurgu filmlerinde ya da bir usta sihirbazın gösterisinde? görüyoruz ama geçmişi sandığımızdan çok daha eski.<br/><br/>86)incil’de bir vaiz olan filipus’un gazze’den, deniz kenarındaki bir başka şehir olan aşdot’a ışınlandığı ima edilir (işler 8:36-40)<br/><br/>87) kur’an’da ise yemen'deki belkıs’ın tahtının, kudüs’teki hz.süleyman'a göz kırpma "an"ında getirildiği anlatılır (neml, 27/38-40)<br/><br/>88)peki böyle bir şey nasıl mümkün? maddenin minik, sert bilardo toplarından meydana geldiğini söyleyen klasik fiziğe göre ışınlama imkansız.<br/><br/>89)üstelik bir maddeyi itmeden hareket etmez, madde birdenbire ortadan kaybolmaz ve başka bir yerde ortaya çıkmazdı. aksi de mümkün değildi!<br/><br/>90)ama kuantum, bizim için imkansız görünen şeylerin gerçek olduğu bir dünya ve ışınlanma da bu dünya içindeki gerçeklerden biri.<br/><br/>91)bununla ilgili ilk deney 1993’de yapıldı ve atom düzeyinde ışınlanma (daha doğrusu parçacığın içindeki bilgiyi ışınlama) gerçek oldu<br/><br/>92) bu deney insanoğlu için çok ama çok önemliydi, çünkü hep konuşulan, olabileceğine şüphe ile bakılan ışınlanma ispatlanmıştı.<br/><br/>93)akıllardaki ışınlanma ile engeller kalkınca deneylerin devamı geldi; atom altı parçacıklarla başlamıştı, atom ve atomlarla devam etti<br/><br/>94)şu anda insanoğlu dna moleküllerini ve basit virüsleri ışınlanmaya çalışıyor. yakın gelecekte bu da büyük ihtimalle gerçekleşecek.<br/><br/>95)peki insanların ışınlanması? buna daha çok zaman var, büyük ihtimalle bizler göremeyeceğiz, çünkü şuanki teknolojimiz henüz hazır değil!<br/><br/>96) ancak artık şunu biliyoruz: ışınlanma teorik değil, deneylerle kanıtlanmış bilimsel bir gerçek ve hem mikro hem de makro boyutta mümkün<br/><br/>97)önceki tweetlerde, maddenin küçük bilye gibi katı maddelerden değil, su dalgaları gibi enerji dalgalarından oluştuğunu yazmıştım<br/><br/>98)gördüğümüz ne varsa, biz dahil enerji dalgalarından oluşuyor ve bunlar birbirine geçmiş durumda. üstelik zamandan ve mekandan bağımsız<br/><br/>99)belki biraz garip ama aslında her şey bir şeyin içinde, bir şey her şeyin içinde. hiçbir şey kesin değil ama herşey mümkün.<br/><br/>100)einstein’ın bir sözü bu durumu anlatıyor: "matematik kesin olduğunda gerçeği yansıtmaz, gerçeği yansıttığında kesin değildir"<br/><br/>101)madem her şey birbiriyle alakalı(bkz: <a class="b" href="/?q=dolan%c4%b1kl%c4%b1k+mesajlar%c4%b1">dolanıklık mesajları</a>), yapılan küçük bir şeyin tüm her şeyi etkilemesi gerekir.<br/><br/>102)ilginçtir ama bu durumun farkına bir meteorolog vardı. yaptığı bir hava durumu simülasyonunda bir yerde 0.506127 yerine 0,506 yazmıştı<br/><br/>103)ortaya çıkan sonuç öncekilerden ciddi şekilde farklıydı, "binde bir" oranındaki bir hata tüm simülasyonun sonuçlarını değiştirmişti<br/><br/>104)başlangıçtaki çok ama çok küçük bir değişikliğin tüm her şeyi değiştirmesi nedeniyle, meteorolog bu etkiye “kelebek etkisi” ismini verdi<br/><br/>105)simülasyonu yapan meteorolog şöyle demişti: "amazon ormanları’nda bir kelebeğin kanat çırpması, abd’de fırtına kopmasına neden olabilir".<br/><br/>106)buna benzer bir şeyi çok uzun yıllar önce mevlana söylemiş: “bir sineğin kanadını oynatması, arş-ı rahman'ı titretir”.<br/><br/>107)fırtınaların nasıl başladığı bilinmediği için bu olayın gerçekten bir kelebeğin/sineğin kanat çırpmasıyla mı olduğu haliyle bilinmiyor<br/><br/>108)asıl anlatılmak istenen şey tüm her şey, kuantum seviyesinde etkileşim halinde ve küçük bir şeyin de etkisi hesaba katılmalıdır şeklinde<br/><br/>109)küçük şeyler, tüm her şeyin sonucunu değiştirebileceğinden, bir şeyin sonucunu tam ve kesin olarak bilmek mümkün değil (kaos teorisi).<br/><br/>110)mesela, düşen bir yaprağın nereye düşeceği düşme hızı, rüzgarın o “an”ki hızı vs gibi çok şeye bağlı ve yeri tam olarak bilmek imkansız<br/><br/>111)aklınıza biri gelince onun aramasını, kuantum dolanıklığına bağlayan, yani düşüncenin bile çok şeyi değiştireceğini söyleyen teoriler var.<br/><br/>112) ancak kelebek etkisinin özeti, tüm her şey birbiriyle bağlı ve etkileşim içinde olduğundan, hiçbir şey kesin değil ama her şey mümkün.<br/><br/>113)zaman yolculuğu flooduna konuyla ilgili başka bir gerçekle anti-madde ve devamında gelen anti-evren (farklı evrenler) ile devam edelim<br/><br/>114)ancak anti-madde konusu biraz uzun olduğu için 2 ayrı bölüm halinde yazacağım.<br/><br/>115)yaklaşık 90 yıl önce, kuantum mekaniğindeki bazı sorulara cevap arayan dirac isimli genç bir bilim adamı ilginç bir keşif yaptı.<br/><br/>116)atom çekirdeğinin etrafındaki "eksi" yüklü elektronun "artı" yüklü olanını bulmuştu. yer yerinden oynadı, çünkü böyle bir şey imkansızdı.<br/><br/>117)ama sonuçlar doğruydu. (-) yüklü elektronun, (+) yüklü "zıttının" olduğu ispatlanmıştı. buna anti-elektron anlamında pozitron denildi.<br/><br/>118)(-) yüklü elektonun zıttı varsa, (+) yüklü protonun da zıttı olmalıydı ve tahminler doğru çıktı,30 yıl sonra antiproton da keşfedilmişti.<br/><br/>119)akla daha büyük resim geldi. eğer atomaltı parçacıkların karşıtları varsa, atomların da karşıtı olmalıydı. denemek için hidrojen seçildi.<br/><br/>120)tahminler yine doğruydu: laboratuvar ortamında hidrojenin tamamen karşıtı olan anti-hidrojen üretilmişti, üstelik çok sayıda.<br/><br/>121)pozitronun keşfini yapan dirac, nobel ödülünü alırken şöyle demişti; “madem anti-elektron var, anti-madde, hatta anti-evren de olmalıdır”<br/><br/>122)ve arayışlar başladı. anti-madde, lab. ortamında üretiliyorsa, evrende bir yerlerde olmalıydı, benzer şekilde anti-evrenler de olmalıydı<br/><br/>123)anti-maddeyi 2.kısımda anlatacağım. anti-evrenler, yani "zıt ikiz evrenler" ile devam edelim. bunun için 2 teori ortaya atıldı.<br/><br/>124)ilki, bizdeki maddenin karşıtı olan anti-madde ile dolu bir evren, yani bizdeki herşeyin karşıtının olduğu bir yer olabileceği teorisi<br/><br/>125)bu evrende sadece yükler yerdeğiştirdiği için oradakiler bu durumu bilmiyorlar ama orada anti ikizlerimiz, anti şehirlerimiz vs var.<br/><br/>126)diğer teori, "ayna evren" teorisi. bu teoriye göre uzaklarda bir yerlerde dünyanın ikizi olan bir yer var ama dünya’nın aynası şeklinde.<br/><br/>127)yani kalpleri sağ tarafta, hemen herkesin solak olduğu bir yer ve buradakiler sağı solu değişmiş bir evrende olduklarını bilmiyorlar.<br/><br/>128)ancak ilerleyen zamanda her 2 teorinin de gerçekleşmesinin mümkün olmadığı ispatlandı. üstelik ispatlar, nobel ödülüne layık görülmüştü.<br/><br/>129) anti-parçacık keşfinin asıl heyecan verici kısmı, anti-evrende değil, anti-madde kısmında yaşandı. çünkü buradaki sonuçlar çok ilginçti.<br/><br/>130)cern'de de uzun yıllardır çalışılan anti-madde konusu, uzay ve zaman yolculuğu için en büyük umutlardan biri.<br/><br/>131) anti-madde pek çok açıdan cazip ve ilginç, öyle ki dan brown’un melekler ve şeytanlar kitabı ile uzay yolu’ndaki atılgan’a konu oldu.<br/><br/>132) melekler ve şeytanlar’da suikastçilerin cern’den çaldığı bomba ile uzay yolu’nda atılgan’a enerji veren güç, anti-madde idi.<br/><br/>133) anti-maddeyi sıradışı yapan şey, deneyler esnasında keşfedilmişti. parçacık ile anti-parçacık yanyana geldiğinde ikisi de yok oluyordu.<br/><br/>134)ikisi yan yana geldiğinde, ikisi de kayboluyor ve enerji açığa çıkıyordu. tersi de geçerliydi, enerjiden madde ve anti-madde doğuyordu.<br/><br/>135)akıllara "büyük patlama" anı geldi. o anda, madde ve anti-madde eşit olmalıydı. ikisi yan yana geldiğinde patlama oldu diye düşünüldü.<br/><br/>136)diğer yandan, “biz yaşıyorsak, demek ki evrende madde miktarı, anti-maddeden daha fazla” denildi ama neden fazla olduğu hala çözülemedi.<br/><br/>137)evrende hala madde varsa, arta kalan anti-madde de olmalıydı. bu yüzden evrende doğal “anti-madde avı”na çıkıldı ama pek sonuç alınamadı.<br/><br/>138)ancak nispeten yakın zamanda uzayda “anti-madde çeşmeleri” bulundu, ayrıca gama ışınlarında ve yıldırımlarda anti-madde olduğu saptandı.<br/><br/>139)bu anti-maddeleri toplamak çok zor olduğu için, iş cern’e ve dünyadaki bir kaç büyük laboratuvara düştü ve anti-madde üretimine başlandı.<br/><br/>140)laboratuvarların anti-maddeye büyük ilgi göstermesinin bir nedeni vardı: madde-anti madde ikilisinden ortaya çıkan "devasa" enerji.<br/><br/>141)bir örnek vermek gerekirse, bir anti-maddenin içindeki enerji, normal roket yakıtındaki enerjiden "1 milyar kat" daha fazla!!!<br/><br/>142)bu da 4 miligram gibi çok az bir anti-madde ile bir kaç hafta içinde mars’a gitmek demek ya da daha fazlasıyla çok daha uzaklara...<br/><br/>143)bu yüzden avrupa’da cern, amerika’da fermilab laboratuvarları yıllardır anti-madde üretme üzerinde çalışıyor ancak büyük bir sorun var.<br/><br/>144)anti-madde, madde ile yan yana geldiğinde patladığı için, üretmek için çok çok özel sistemler gerekiyor, bu da fiyatı "aşırı" artıyor.<br/><br/>145)şu anda dünyadaki en pahalı şey ne elmas, ne de yakut. gram fiyatı 62,5 trilyon $ olan anti-madde!(fiyatı bi' daha okuyun)<br/><br/>146)zaman geçtikçe fiyatlar düşecek ama şimdiye kadar fermilab, yılda sadece 1,5 "nanogram" antimadde üretiyor, cern ise daha az.<br/><br/>147) 40 yıl içinde anti-madde üretiminin artması ve anti-madde kullanan roket motorlarının geliştirilmesi planlanıyor (nasa çoktan başladı).<br/><br/>148) bunlar gerçekleştiği takdirde, hem şu an hayal olan galaksiler arası yolculuk, hem de zaman yolculuğu gerçekleşmiş olacak<br/><br/>149)flooda karanlık madde/enerji ile devam edelim. bu konular doğrudan değil, dolaylı yoldan uzay/zaman yolculuğu ile ilgili ve çok soruluyor.<br/><br/>150)insanoğlu antik çağlardan beri evrenin boş olmadığını, göremediğimiz sıvılar/gazlarla kaplı olduğunu düşündü ve farklı isimler verdi.<br/><br/>151)bilim ilerleyip, teknoloji geliştikçe bu konudaki bilimsel çalışmalar arttı, ancak öne sürülen yeni teoriler/görüşler ciddiye alınmadı.<br/><br/>152)ancak 70’li yıllarda ilginç bir gözlem yapıldı. bir galaksinin etrafındaki bazı yıldızların olması gerekenden daha hızlı döndüğü görüldü.<br/><br/>153)hesaplar, simülasyonlar tekrarlandı ancak yıldızların dönme hızı, normalden daha fazlaydı. bir şey, "bir kuvvet" onları hızlandırıyordu.<br/><br/>154)bu kuvvetin ne olabileceğine dair fikir yoktu, çünkü görünürde hiç bir cisim yoktu. teleskoplar göstermiyor, sanki bir yerde saklanıyordu.<br/><br/>155) işin içinden çıkılamayınca bu cismin, ışık yaymayan, görünmeyen ancak kütle çekimi olan “karanlık bir madde” olabileceği öne sürüldü<br/><br/>156)teoriye göre, yıldızlar bu görünmez maddenin yanından geçerken kütle çekiminin etkisine kapılıyor ve böylece daha da hızlanıyorladı.<br/><br/>157)bilim kadını vera’nın nobel’e layık bu tespiti, uzun yıllar kabul görmedi, ta ki 10yıl önceye kadar. 2006’da ilk somut verilere ulaşıldı.<br/><br/>158)karanlık maddenin varlığı keşfedildikten sonra bu defa bilim insanları evreni yeniden modellediler, ancak hala eksik bir şeyler vardı.<br/><br/>159)tahmin ve hesaplara göre evrenin çok küçük bölümünü görebildiğimiz madde, biraz fazlasını göremediğimiz madde oluşturuyordu. geri kalan?<br/><br/>160)geri kalan eksik kısım için tekrar evrene bakıldı. evren sürekli genişliyordu, üstelik bu genişleme yavaşlamıyor, aksine hızlanıyordu.<br/><br/>161)evrenin giderek artan bir hızla genişlemesi akla şu soruyu getirdi: galaksileri hem dağılmadan tutan, hem de onları iten bir şey mi var?<br/><br/>162)bu sorunun cevabı, "galaksiler arasında elastik, görünmeyen bir ağ, bir enerji var" olarak verildi ve buna "karanlık enerji" denildi.<br/><br/>163)karanlık madde ile karanlık enerji arasında bir bağ var mı, henüz bilinmiyor. bunların nasıl olduğu, yapıları vs de bilinmiyor.<br/><br/>164)karanlık maddenin görünmeyen yıldızlar mı, yoksa moleküller hatta atomlar seviyesinde küçük şeyler mi olduğu da henüz anlaşılamadı.<br/><br/>165)ancak bilinen bir şey var: gördüğümüz her şey evrenin %5'ini oluşturuyor. geri kalanların %25'i karanlık madde, %70'i ise karanlık enerji.<br/><br/>166)zamanda yolculuk konusuna şimdiye kadar hem makro açıdan (einstein’ın izafiyet teorisi), hem de mikro açıdan (kuantum teorisi) baktık.<br/><br/>167)einstein’ın teorisi gezegenler, yıldızlar, karadelikler gibi dev boyuttaki şeylerin mekanizmasını açıklıyor ama kuantumu açıklayamıyordu.<br/><br/>168)kuantum teorisi de, atomaltı parçacıkların davranışlarını, tabuları yıkan bir anlayışla açıklıyor ama konu makroya geldiğinde duruyordu.<br/><br/>169)her 2 teori de ispatları yapılmış, bilim çevrelerince kabul görmüş çok önemli, devrim niteliğindeki teorilerdi ama sanki bir şey eksikti.<br/><br/>170)evreni tamamen kapsayan, her şeyin açıklamasını bilimsel olarak yapan, mikro ve makroyu birleştiren başka bir teoriye ihtiyaç vardı.<br/><br/>171)bu noktada karşımıza stephen hawking çıktı ve “herşeyin teorisi” olarak da bilinen m-teorisini ya da sicim(tel) teorisini geliştirdi.<br/><br/>172)hawking, bu teoriyle makro boyutu açıklayan einstein’in teorisi ile mikro boyutu açıklayan kuantum teorisini tek teoride birleştiriyordu.<br/><br/>173)bu teorinin özünde, atom altı parçacıkların nokta şeklinde maddesel değil, sürekli titreyen tel(sicim) gibi olduğu kabulü vardı.<br/><br/>174)buna göre, evrendeki istisnasız her şeyin özünde enerji vardı ve her şey hareket halinde, çok çok küçük boyutlarda sürekli titriyordu.<br/><br/>175)bu noktada daha önce yazdığım şu tweeti <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagaribey/status/760587785120153601" title="https://twitter.com/lagaribey/status/760587785120153601">hatırlayın</a>. (burda ayrı <br/>parantez açarak flood sahibinin bu konu ile alakalı başka bir flooduna <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagaribey/status/760587785120153601" title="https://twitter.com/lagaribey/status/760587785120153601">yönlendireyim</a>)<br/><br/>176)herşeyin özünde enerji olduğunu bilim yakın zamanda keşfetti, ancak spiritüel açıdan durum farklı. çünkü bazı dinlerin temelinde bu var.<br/><br/>177)mesela, budizm'de her şeyin temelinde enerji vardır. nirvanaya giden yolun en temeli “boşluk"tur, bu boşluğun özü ise enerjidir.<br/><br/>178)antik mısır’da da benzer durum var. mısırlılar, her şeyin temelinde "çekirdek" dedikleri titreyen şeyler olduğunu düşünürlerdi.<br/><br/>179)kabala’da da durum farklı değil. kabala inancının temelinde “ışık” vardır, ancak bildiğimiz anlamda değil, tanrı’nın "sınırsız ışığı"dır.<br/><br/>180)islam’da ise tasavvuf anlayışında benzer durum var. ibn-i arabi’nin her şeyin özü dediği cevher-i ferd, titreyen tel(sicim) ile aynıdır.<br/><br/>181)tasavvufa göre, cevher-i ferd ilk olarak herşeyin başı olan elif harfinde başlar, önce harfi, sonra kelimeyi ve kainatı oluşturur.<br/><br/>182)sicim teorisinin ortaya koyduğu bir diğer şey çok boyutlu evren. bu kısım aklın sınırlarını zorluyor ancak matematiksel olarak ispatlandı.<br/><br/>183)floodun bu kısmında, gelen istek üzerine enerji konusunu anlatacağım. ancak bunlar bilimsel olarak kanıtlanmadı.<br/><br/>184) sicim teorisinin 2.bölümünden (çoklu evrenler) önce anlatacağım şeyler, floodun doğrudan konusu ve bilimsel değil, ancak çok istek var.<br/><br/>185)meşhur bilim adamı nikola tesla şöyle demişti: evrenin sırlarını öğrenmek istersen herşeyi enerji, frekans ve titreşim olarak düşün!<br/><br/>186) tesla’ya göre evren büyük bir titreşimden (enerjiden) başka bir şey değildi ve bizler de bu titreşimin küçük birer yansımalarıydık<br/><br/>187) ve biz dahil canlı cansız her şey, düşüncemiz bile bir tür enerjiydi (telepati?) ve her şeyin ama her şeyin özünde enerji vardı<br/><br/>188) tesla’nın bu düşüncesine benzer şekilde, insanın ve evrenin bir tür enerji olduğunu farklı inançlar farklı tanımlamalarla anlatmıştı.<br/><br/>189) buna göre, insan bedeninin çevresinde, sıradan insanların göremeyeceği bir tür enerji alanı ya da meşhur tabirle "aura" var!<br/><br/>190) üstelik aura sadece insanlarda değil, canlı cansız herşeyin etrafında var ama canlılardaki hareketli, cansızlardaki sabit.<br/><br/>191) bu enerji alanı ya da auranın ismi değişiyor. hintlilerde prana, çinlilerde çi, kabala’da nifiş diye geçiyor. biz ise "nur" diyoruz.<br/><br/>192) bazen resimlerde ya da betimlemelerde gördüğümüz insan başının üzerindeki "hale"nin temelinde bu <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagaribey/status/769636211896057856" title="https://twitter.com/lagaribey/status/769636211896057856">var</a><br/><br/>193)yine resimlerde, kutsal kabul edilen insan bedeninin etrafındaki ışıklarda ve bizim "nur yüzlü" deyişimizin arkasında gerçekte bu var.<br/><br/>194)bu inançlara göre enerjiden oluşan insanın belli enerji merkezleri var.“çakra”yı duymuşsunuzdur: enerji merkezinin hint felsefindeki adı.<br/><br/>195)çakranın pek çok inançta farklı isimleri var. mesela tasavvuftaki karşılığı letaif. el, ayak, kalp gibi yerler çakra (letaif) noktası<br/><br/>196)bunlara göre çakraları görebilmek için normal insanların enerjisinden yüksek bi enerjiye sahip olmak gerekiyor(neler anlatıyorum böyle?)<br/><br/>197) flood asıl amacından başka yöne gidiyor, o yüzden bu kısmı burada bırakıp, daha sonra sicim teorisinin 2.kısmını anlatacağım...<br/><br/>198)flooda biraz ara verdiğimiz için önce kısa bir hatırlatma yapayım. sicim teorisine göre her şeyin özü titreyen çok küçük sicimlerdi.<br/><br/>199)yani katı sandığımız şeyler bile çok çok küçük boyutlarda, sürekli titreyen bir tür enerji yumağından (sicimden) oluşuyordu.<br/><br/>200)bu sicimlerin boyutu o kadar küçük ki, bir sicimin bir atomun büyüklüğüne oranı, bir atomun bütün güneş sistemi’ne olan oranına eşit!<br/><br/>201)ancak teorileriyle ilgili hesapta bir sorun vardı.çünkü evrenin 3+1(zaman) boyutlu olarak hesaba katılması durumunda, çözüm tıkanıyordu.<br/><br/>202)sicimlerden, sabun baloncuğunun zarı gibi düşünülebilecek membranlar oluşturuldu. teoriye göre bunlar çok boyutta varlık gösteriyorlardı.<br/><br/>203) çalışmalarda 4 boyuttan başka boyutların da olabileceği hesaba katıldı. 5,6,7 derken toplamda "11 boyutlu evren" çözümü sağlıyordu.<br/><br/>204)bu çözüme göre bildiğimiz, yaşadığımız ya da algıladığımız 4 boyutlu (3 boyut + zaman) evrenin dışında 7 boyut daha vardı (7 katlı gök?)<br/><br/>205)sağ-sol, aşağı-yukarı, ön-arka olarak bildiğimiz 3 boyut, zamanla birlikte 4 boyut vardı ama bilmediğimiz 7 boyut daha olduğu öğrenildi.<br/><br/>206)akıllara hemen şu soru geldi: "peki ama madem algıladığımızın dışında 7 boyut daha var, onları niçin algılayamıyoruz? "<br/><br/>207)bilim adamlarına göre büyük patlamanın ardından bizim bildiğimiz 4 boyut,kozmik büyüklüğe erişti ama kalan 7 boyut sicim boyutunda kaldı<br/><br/>208)ancak bu 7 boyut, sicim yumakları şeklinde tüm evrene dağıldı. yani yaşadığımız evren içinde algılayamadığımız diğer boyutlar vardı.<br/><br/>209)bir boyuta gidebilmek için, daha üst bir boyuta gitmeye gerek vardı. yani 4.boyut olan zamanda yolculuk için, 5.boyuta çıkmak gerekiyor<br/><br/>210)böylece evrenin, 11 boyuttan oluşan, tüm herşeyin birbirine bir yapıyla bağlı olduğu kabul edildi ki, bu yapı da zardı(membran)<br/><br/>211)11.boyut, 1mm'nin trilyonda biri ölçüsünde 3 boyutlu dünyamızın her noktasında vardı. yanı başımızda ama algılayamadığımız bir evren<br/><br/>212)teoriye göre bizim evren de, sicimlerden meydana gelmiş 3 boyutlu bir zardı ve 11 boyutlu hiper uzayda baloncuk gibi hareket ediyordu<br/><br/>213)sicim teorisi, kuantum(mikro) ile kütle çekim(makro) teorilerini birleştirmişti, ancak kütle çekimi tam olarak açıklayamıyordu.<br/><br/>214)çünkü evrendeki 4 temel kuvvetten biri olan kütle çekim(yer çekimi), diğer kuvvetlere göre çok zayıftı ve neden olduğu bilinmiyordu.<br/><br/>215)bu sorunun cevabı sicim teorisinin temellerinde arandı ve sonunda bir çözüme ulaşıldı: "farklı evrenler" kütleçekimini zayıflatıyordu.<br/><br/>216)bir yandan algılayamadığımız 7 boyutun olduğunu öğrenmek, diğer yandan başka evrenlerin varlığını kabul etmek insanlar için zordu.<br/><br/>217)ancak matematiksel denklemler ve fiziksel yorumlar, kaçınılmaz olarak açığa çıkan bu gerçeğe işaret ediyordu: 11 boyutta çoklu evrenler.<br/><br/>218) fiziğin çoklu evrenler ya da paralel evrenler dediği gerçeğe, eskiler “evren içre evrenler” diye önceden işaret etmişlerdi.<br/><br/>219)teoriye göre bizim dışımızda çok sayıda evren var ve bunlar da bizim evren gibi sicimlerin oluşturduğu zarlardan(membranlardan) oluşuyor.<br/><br/>220)bu olayı, bir küvetteki baloncuklar gibi düşünün. çok sayıda farklı boyutlarda baloncuklar var, her bir baloncuk başka bir evren demek.<br/><br/>221)peki kaç tane evren var? bu sorunun net cevabı yok, ancak teoriye göre binlerce, milyonlarca hatta sonsuz sayıda paralel evren olabilir.<br/><br/>222)evrenimizde ışık hızını geçmek pratikte mümkün değil. ancak denklemlere göre bu hız aşıldığında kütle sanallaşıyor(soyutlaşıyor).<br/><br/>223)madde soyut olunca, enerji de soyut olacak, bu da o evrendeki kütle enerji tüketmeyecek, üretecek demekti (negatif entropi).<br/><br/>224)bunun anlamı, zaman oku tersine işlediği için bu evrenlerde zaman tersine akabilir ya da durmuş, yani sonsuz/ebedi olabilir demek.<br/><br/>225) evrenimizde yaşaması mümkün olmayan bu sanal(soyut) yapılar, diğer boyutlardaki başka evrenlerde varlık gösteriyor olabilir(takyonlar?)<br/><br/>226) yani maddenin, enerjinin, mekanın, uzayın ve zamanın bizimkine hiç ama hiç benzemediği evrenlerden (alemlerden) bahsediyoruz!<br/><br/>227)teoriye göre, bulunduğumuz evrenden diğer evrenlerin bulunduğu uzaya/evrene geçmek normal şartlarda mümkün değil.<br/><br/>228)benzer şekilde, yine normal şartlarda 11 boyutlu hiper uzaydaki diğer evrenlerle bizim iletişim kurmamız mümkün değil.<br/><br/>229)hawking’e göre beynimizdeki hiçbir şey, bir bütünden bağımsız olarak gerçekleşmiyor. çünkü her şey birbirine bağlı sicimlerden oluşuyor.<br/><br/>230)birinin kötü haberini daha bize söylenmeden hissetmek ya da bir şeyin daha gerçekleşmeden içimize doğması da aslında bununla ilgili.<br/><br/>231)bizim dünyamız ve evrenimiz de sicimlerden oluşuyor, diğer evrenler de ve hepsi 11 boyuttaki, süper bir sicim (büyük zar) içinde.<br/><br/>232)daha da ilginç olan diğer boyutlardaki tüm evrenlerin 11. boyuta doğru hareket ettiği ve 11.boyuttan diğer tüm evrenlerin görülebildiği.<br/><br/>233)yani boyutlardan bağımsız, soyut ya da somut olan ne varsa, her şey bir şeye doğru meyil ediyor ama bir şey zaten her şeyin içinde.<br/><br/>234)bu bölümü graudy’nin bir sözü ile bitirelim: “evren, gerçeğin dış ve görünen yüzüdür. gerçek ise evrenin iç ve görünmeyen yüzü...”
+   
+  entry_writer: vuvuzela
+- entry_name: |
+    halk arasında her yerim ağrıyor denen hastalık
+  entry_id: 63276587
+  entry_content: |
+    
+    google'a göre kanser.
+    
+  entry_writer: bosmuhendis
+- entry_name: |
+    öğretmenliğin türkiye'deki en beleş meslek olması
+  entry_id: 63281846
+  entry_content: |
+    
+    yanlis bir soylemdir..<br/><br/>hatta herhangi bir meslek icin bunu soylemek cok terbiyesizce.<br/><br/>bak pek sayin yazar kardesim, <br/>mevcutlari 35-40 arasi degisen 5 tane sinifim var. haftada 30 saat derse giriyorum. sabah 8'de ciktim evden ve daha biraz once geldim. bogazim ve beynim patlayacak gibi. ama aglamam mi lazim, duygu somurusu mu yapayim? hayir. <br/>ben bir türk'üm, vazifemi en iyi sekilde ifa etmek atalar kulturumden ogrendigim yegâne sey.<br/><br/>onlarca sayfa kompozisyon var evimde. okuyup duzelttikten sonra ogrencilere geri dagitacagim.<br/><br/>bu sene ders kitaplarimiz yok(malum fetö muhabbetinden dolayi), her gun eve geldikten sonra ayrica bir hazirlik yapmak zorundayim.<br/><br/>türkçe ogretmeni olarak yazmayi dogru durust bilmeyen 5.sinifa giden ogrencilerim ve bilissel sorunlari olan cocuklarim var. onlara nasil daha iyisini yapabilirim diye dusunuyorum, ugrasiyorum vebyapmak zorundayim.<br/><br/>(sahsi kanaatimdir) cocuklara guzel ornek olabilmek icin surekli kitap okuyorum, okulda elimde kitapla geziyorum ve saygi kavramini kazandirmaya calisiyorum. biliyorum ki bu ikisi kayboldugu anda yüce türk milletine karsi hizmetimi yapmamisimdir.<br/><br/>tatil konusu icin biraz arastirma yapmani tavsiye ederim, yalniz turkiye'de boyle bir durum varmis gibi konusmanizdan o kadar bunaldik ki.<br/><br/>son olarak, sen de ve senin gibi dusunenler de; bu beles meslege (!) neden girmediniz?<br/><br/>ulu tanri, vazifemi yerine getirmemekten oturu haram yemeyi nasip etmesin. <br/><br/>beles meslek yoktur, karaktersiz insan vardir.<br/><br/>ekleme: demin gozumden kacmis. mesleki stres yok dersen agzina kurekle vurmam da cok kizarim. yahu kardesim, polis hirsiz yakalar, doktor can kurtarir vs. hepsi cok zor. ama 10-12 yasindaki bir cocuga kuarsi yapilacak yanlis bir hareketle, onu kaybedebilme ihtimaliyle, o cocugun yitik bir birey olmamasi icin ugrasmakla, surekli seni sevip saygi gostermeleri icin debelenmekle hic kafa yormadin mi? <br/><br/>yapmayin, etmeyin. <br/><br/>buradan tdk'ye "öngörgülü" tanimini kazandiran cocugumu anarak yazima nokta koyuyorum. <sup class="ab"><a title="(bkz: gb)" href="/?q=gb" data-query="gb">*</a></sup><br/><br/>(<a class="b" href="/?q=tabata+rod">tabata rod</a>'a selamlar)<br/>___________________________________________<br/>düzenleme: gazi mustafa kemal paşa bey hazretleri diyeceksiniz.
+   
+  entry_writer: gozleriniz cok ses cikariyor
+- entry_name: |
+    one minute yazılı iç çamaşırı
+  entry_id: 63283490
+  entry_content: |
+    
+    yakında  <a class="b" href="/?q=dik+dur+e%c4%9filme">dik dur eğilme</a> yazılı iç çamaşırları da piyasaya düşer.
+   
+  entry_writer: ortalama insan dusuncesine sahip insan
+- entry_name: |
+    2016-2017 sezonu galatasaray lehine hakem hataları
+  entry_id: 63273199
+  entry_content: |
+    
+    daha geçen hafta galatasaray karşısında beşiktaş'ın götünü kurtaran hakeme rağmen ortaya atılan iddiadır. rakibin de şerefisi, onurlusu lazım arkadaş..<br/><br/>(bkz: <a class="b" href="/?q=be%c5%9fikta%c5%9fl%c4%b1+a%c4%9flakl%c4%b1%c4%9f%c4%b1">beşiktaşlı ağlaklığı</a>)
+   
+  entry_writer: grandleozz
+- entry_name: |
+    milli kredi notu değerlendirme kurumu
+  entry_id: 63279173
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=15+temmuz+kredi+notu+de%c4%9ferlendirme+kurumu">15 temmuz kredi notu değerlendirme kurumu</a>)<br/>isim de buldum.
+   
+  entry_writer: hademe
+- entry_name: |
+    polonya'da kıç kadar arabadan 17 kişinin inmesi
+  entry_id: 63282753
+  entry_content: |
+    
+    internet aleminden silinmesi gereken video... kadir topbaş görmesin.
+    
+  entry_writer: senin pezevenk enisten
+- entry_name: |
+    ingiliz kız tarafından ifşa edilen polis memuru
+  entry_id: 63288383
+  entry_content: |
+    
+    bi yerde kıza "yes sir" yazmış a.q devesi.  <br/>- stupid eleman<br/>- yes sir.
+   
+  entry_writer: toparlanin gidiyoruz
+- entry_name: |
+    türk ordusunun musul'a girecek olması
+  entry_id: 63278107
+  entry_content: |
+    
+    laikçi ? (bkz:  <a class="b" href="/?q=dont+feed+the+troll">dont feed the troll</a>)<br/><br/>acık kendinizi geliştirin birader.
+   
+  entry_writer: cammasaninatinasumuksurenadam
+- entry_name: |
+    zürafa ile french kiss yapan kız
+  entry_id: 63287438
+  entry_content: |
+    
+    "önemli olan boyu değil işlevi" düsturuna yepyeni bir soluk getiren kızdır..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=djUQGb7NX0g">https://m.youtube.com/watch?v=djuqgb7nx0g</a><br/><br/>elin zürafası bile, kimimiz hala...neyse.<br/><br/><a class="b" href="/?q=gelen+mesaj+%c3%bczerine+edit">gelen mesaj üzerine edit</a> : video 65 defa izlenmiş olabilir, nasıl bulduğumu sormayınız.<br/>edit 2: tamam lan zürafa arkadaşım.
+   
+  entry_writer: nuhun gemisinde asure tarifi alan hayvan
+- entry_name: |
+    pisa kulesini içine almaya çalışan kız
+  entry_id: 63275905
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=mokar+hastas%c4%b1+nihan">mokar hastası nihan</a>)
+   
+  entry_writer: lawyermih
+- entry_name: |
+    iphone 7
+  entry_id: 63272779
+  entry_content: |
+    
+    burada satış yapanların sözlükten atılması lazım. donanımhaber mi lan burası? ekşi market var, ekşi duyuru var gidin oralarda satın. iyice anasını siktiniz sözlüğün formatının.
+    
+  entry_writer: gezgin rocker
+- entry_name: |
+    suudi arabistan'ın gregoryen takvime geçmesi
+  entry_id: 63285993
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=bir+gecede+cahil+kaldik">bir gecede cahil kaldik</a>) he pardon ona daha gelememisler. olsun o da olur.
+   
+  entry_writer: ktrci
+- entry_name: |
+    tuzla beylikdüzü metro hattına isim önerileri
+  entry_id: 63285406
+  entry_content: |
+    
+    (bkz:  <a class="b" href="/?q=500m">500m</a>)
+   
+  entry_writer: hanhan
+- entry_name: |
+    35 yaşından sonra gelen çocuk doğurma isteği
+  entry_id: 63279079
+  entry_content: |
+    
+    gerçekten de çok mu şaşırtıcı?  <br/><br/>kadınlarda doğurganlık 35 yaşından sonra azalmaya başlar, yumurta sayısı tüm kadınlarda olmasa da düşmeye başlar...<br/><br/>dolayısıyla "ya şimdi, ya hiç" korkusu hissetmeye başlar insan.<br/><br/>ne var bunu bu kadar dert edecek amk. <br/><br/>not: 25'ten önce çocuk istesen kezban, 35 olup istesen döneksin, boksun. türkiye'de kadın olmak zaten zor da, sizin yüzünüzden insanlığımızdan bile utanır olduk.
+   
+  entry_writer: widfara b
+- entry_name: |
+    beko personelinden fırça yememiz
+  entry_id: 63273300
+  entry_content: |
+    
+    haftanın ilk rezillik başlığı benden olsun....<br/><br/>tl;dr:<br/>bir rezaletler silsilesi sonucu karşılaştığımız durum bu.<br/>- arıza yapan bulaşık makinemiz için yaklaşık 1.5 aydır türlü yalanlarla oyalanmamız.<br/>- 10 yıl parça temin garantisi verilen makine için bir parçanın artık üretilmediğini öğrenmemiz<br/>- farklı parçalar ile üretilen çözüm için ek maliyetlerin bize yüklenmeye çalışılması<br/>- sonucunda bir yetkiliye ulaşma çabamız sebebiyle telefon sapığı muamelesi görmemiz.<br/><br/>----------------------------------------------------------<br/><br/>detaylı versiyon:<br/>ağustos ayının sonu gibi bulaşık makinemiz arıza yaptı servis çağırdık kart yanmış dedi, sipariş veririz salı ya da perşembe teslimat günü en geç cuma gelir takarız dedi. ok dedik gitti, gidiş o gidiş... 2-3 hafta ne arayan oldu ne soran... arada mesaj geliyor "sipariş verildi" sonra "sipariş geldi" sonra tekrar "sipariş verildi" dayanamadık servisi aradık açan yok... müşteri hizmetlerini arıyoruz ilgileniyoruz, iletiyoruz diyorlar ama sonuç yok... böyle böyle 1 ay geçti!!! evde makine çalışmıyor! elde bulaşık yıkanıyor...<br/><br/>herhalde dedik bu personel bir şeyleri yanlış yaptı kimseye de derdimizi anlatamıyoruz, aradık taradık bu servislerin bölge müdürüne ulaştık (özür dileyerek). "çok ilginç, müşteri hizmetleri nasıl bunu bize iletmez. ben ilgileniyorum" dedi kapattı telefonu. pazar günü!!! evet pazar günü servis geldi! parça temin günü salı-perşembeydi ama pazar günü çıktı geldi bi çocuk. biraz da mahçup olduk pazar pazar çocuk geldi diye, kusura bakma dedik.<br/><br/>neyse taktı parçayı ama tuşlar farklı çalışıyor! açma kapama tuşu başka iş yapıyor, diğeri yıkamayı durduruyor vs. 1 saat uğraştı sonunda bu parça yanlış dedi! ee ne yapacağız? doğrusunu sipariş edeceğiz salı-perşembe gelir en geç cuma takarım dedi (yine)... ok dedik gitti, yine gidiş o gidiş! 2. hafta tekrar müşteri hizmetleri vs. uğraştık sonunda bi çocuk çıktı "kusura bakmayın, tamamen bizim hatamız, bu parça yok, ama ben size çözüm bulacağım" dedi.. ok dedik bekliyoruz... <br/><br/>1 hafta sonra servis aradı parça geldi dedi c.tesi gelip takacağız dedi, ok ama sabah gelin öğleden sonra yokuz dedik... yine de öğlen 2 de geldi! bulduk dedikleri parça geçen gelen parça! ama bu sefer ona uygun dış kapak da gelmiş... bir fark var eski parçada olan bir fonksiyon bunda yok... neyse sorun çözülsün de o olmasa da olur dedik. yeni parça takıldı. ücreti söyledi, aaa ücret artmış! hayırdır? yeni gelen kapak ücreti de eklenmiş. o beni ilgilendirmez dedim, benim makinemde o parça kırık ya da arızalı değil ki!!! çocuk servisi aradı, hafta sonu merkezden onay alamayız parçaları sök gel dediler!!!!! <br/><br/>bu noktada artık benim sigorta attı. sırf geziden dolayı koç grubuna sempati besliyoruz, 1.5 aydır ne <a class="b" href="/?q=%c5%9fikayetvar">şikayetvar</a> gibi bir platforma yazdık, ne arayıp müşteri hizmetlerine küfür ettik, ne de tüketici hakem heyeti vs. ye başvurduk ama yeter! sökün gidin bu iş mahkemede çözülecek gibi duruyor dedim. bunun üzerine çocuk tekrar servisi aradı, bu arada eşim de dur o "x" beyi arayalım madem onay lazım o halleder herhalde dedi. aradı telefonu meşgul, 5 dk sonra tekrar aradık bu sefer de reddetti... o arada çocuk servisten ok aldı... ücretini aldı çıktı... sonunda çözüldü oh dedik...<br/><br/>çocuk çıktıktan 5 dk sonra bir telefon, bir bayan arıyor, biz de bu sorun yüzünden aradılar sandık, eşim durumu anlatırken, kadın "siz x beyin telefonunu nereden aldınız", "hiç bir personelimizi kişisel telefonundan arayamazsınız", "hafta sonu arayamazsınız", "biz bunu araştıracağız" diye baya fırça atar bir tonda saydırmaya başladı!!! telefonu ben aldım ne oluyor diye.. aynı lafları bana da saydı "x bey durumdan çok şikayetçi, sizin telefonunuzu engellemek zorunda kaldı, ne yapıyorsunuz siz" gibi şeyler söyledi...<br/><br/>biz personel bizi savsaklıyor, bir yönetici bu işi çözer dedik ama meğer balık baştan kokuyormuş! tamam adam kişisel numarasından aranmayı istemiyor olabilir, ilk aramada ben bu konu ile çok ilgilenemem sizi ilgili birime yönlendireyim vs. diyebilirdi... ya da ikinci de açıp farklı bir dilde aranmak istemediğini de belirtebilirdi! ama yok beyefendi şirketten birine bizi arattırıp fırça attırıyor!!! zaten iki kere aradık o da ikinciyi açmadı bile!!! bu telefon sapığı muamelesi nedir?<br/><br/>ok biz sorun bir şekilde şirket içinde çözülsün dedik diye halt etmişiz, hata ettik, kusura bakmayın, şimdi de hatamızdan dönüyoruz, lütfen taktığınız parçaları söküp götürün, ben eksik fonksiyonlu bu parçayı kabul etmiyorum, 1 hafta içinde çözüm üretemezseniz de tüketici heyetine başvuracağım dedim ve kapattım telefonu...<br/><br/>şimdi de gelip sökmelerini bekliyoruz... onun bu kadar uzun süreceğini sanmıyorum ama, akşama kalmaz gelirler.<br/><br/>buraya yazarak sorunun çözüleceğini de düşünmüyorum... sadece bu markadan alışveriş yapacak olanların neler ile karşılaşabileceklerini görmelerini istedim... muhtemelen makineyi atıp gidip samsung, bosch vs. bir şey alacağız. en azından insan gibi muamele görürüz...
+   
+  entry_writer: el cordobeslerin sonuncusu
+- entry_name: |
+    4 ekim 2016 12 bin polisin açığa alınması
+  entry_id: 63288715
+  entry_content: |
+    
+    zamanında ergenekon'da, balyoz'da, trt2nin onceden duyurduğu kazılarda, açılım sacılım sürecinde, gezide ve bilimum haksız hukuksuz uygulamada her türlü şiddeti, usulsuzlugu esirgemeyen, haksızlıklar karşısında "biz girivimizi yipiyiriz" diye sırıtan, zaten o göreve de torpille pistonla gelmiş tüm polislere mustahaktır. digerlerini tenzih ederim.
+    
+  entry_writer: what are you thinking black black
+- entry_name: |
+    3 ekim 2016 taksim yenikapı arası metro iptali
+  entry_id: 63281987
+  entry_content: |
+    
+    ya amina kodumun sozlugu istanbul gibi copluk oldu. adam yanlislikla eylul yazmis, ne kadar eksik kromozomlu varsa gelip espri kasmis. he ak inanilmaz komiksiniz ve tum dunya bu komediye sahit oldu harikasiniz lan siz. beyin yoksunlari..<br/><br/>tanim: m2 kullanacaklarin vazgecmesini gerektirecek durum.
+   
+  entry_writer: goril bas
+- entry_name: |
+    omurilik felci gencin tedavi parasının çalınması
+  entry_id: 63275534
+  entry_content: |
+    
+    kadercan kaza geçirdiğinde lisedeydim. yanlış hatırlamıyorsam manavgat-alanya yolunda arabayı kullanan diğer arkadaş kontrolü kaybetmişti. ilk duyduğum anı hatırlıyorum, ağır gelmişti. hem öyle dost-ahbap muhabbetimiz de yoktu. ölümün hayattan daha muhtemel olduğunu anladığım zamanlardan biriydi. tabi zaman geçtikçe unutuyor insan. ben de unutmuştum. ta ki bu sabah haber sitelerinde bir kaç tur atmak için masama oturana kadar. dünyanın çivisi çıkmış gerçekten. belki de hiç var olmamıştır o çivi. kadercanın tedavi için biriktirmiş olduğu yaklaşık 30 bin liralık altın, ziynet eşyası ve nakit parası çalınmış. buraya yazmaktan başka bisey gelmedi elimden. allah bu kadar alçalan insanların belasını versin..<br/><br/>şöyle demiş :"tedavi umuduyla biriktirdiğim paralarımı ve anılarımı çaldılar" <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/engelli-gencin-tedavi-icin-biriktirdigi-paralar-40237544" title="http://www.hurriyet.com.tr/engelli-gencin-tedavi-icin-biriktirdigi-paralar-40237544">http://www.hurriyet.com.tr/…irdigi-paralar-40237544</a>
+   
+  entry_writer: ilegenci
+- entry_name: |
+    tolga ciğerci
+  entry_id: 63277056
+  entry_content: |
+    
+    ulan utanmadan altına gs yazıp bu adamı eleştiriyorlar. size mustafa sarplar, barış özbekler müstehak amına koyayım ya. azıcık elinizi taşın altına koyun gidin stadda maçları izleyin. özetlere bakıp buradan 'yae şutu yok dağlara taşlara falan ' diye bik bik ötmeyin. ulan bıktık sizin gibi taraftar modelinden.
+    
+  entry_writer: twitter
+- entry_name: |
+    sözlük nick'lerinden meslek tahmini yapmak
+  entry_id: 63278899
+  entry_content: |
+    
+    seytan da bir melektir - imam
+    
+  entry_writer: deathmarch
+- entry_name: |
+    içerde
+  entry_id: 63284855
+  entry_content: |
+    
+    sanırım ilk defa yerli bir dizide coldplay arka fon müziği olarak kullanılıyor.
+    
+  entry_writer: o ne ki la oyle
+- entry_name: |
+    evliyken başka kadını hamile bırakan adam
+  entry_id: 63283717
+  entry_content: |
+    
+    tam empati yapacak gibi oldum "o bir erkektir, zayıftır elbette bunu yapmasa şaşırabilirdik" seklindeki cumleyi gordum..<br/><br/>mustehak da diyemiyorum, allah akil fikir versin diyorum.
+   
+  entry_writer: guru
+- entry_name: |
+    galatasaray
+  entry_id: 63276474
+  entry_content: |
+    
+    karabük maçında 15 - 20 saniyenin hesabını yapanların hakemlerce desteklendiğini iddia ettiği takımım. aynı karabük'le yapılan maçta caner'in atılması ile sonuçlanacak penaltı pozisyonundan hiç bahsetmek yok ama. yasin'e yapılan pozisyona penaltı verilmediğinden ve kayseri'den yediğimiz ofsayt golü ile 2 puan kaybettiğimizden de dem vuran yok. hakan'ın pozisyonu bence faul orada adama temas edersen faulü yersin yapacak birşey yok. aynı şey sizin başınıza gelse siz de aynısını düşünürdünüz. korkmayın oyununuzu oynayın, yoksa gelir bir avuç taraftar sahanızda sesinizi kısar.
+    
+  entry_writer: birazbira
+- entry_name: |
+    abd bizden suçlu isteyince paketleyip gönderiyoruz
+  entry_id: 63279256
+  entry_content: |
+    
+    cumhurbaşkanı recep tayyip erdoğan'ın 3 ekim 2016 tarihli konuşmasından bir cümle..<br/><br/>abd'ye sitem ederken dedi bunu...<br/><br/>"onlar bizden isteyince paketleyip gönderiyoruz 'mahkeme kararı, şu, bu' demiyoruz ama stratejik ortağımızdan bunu görmedik. bir teröristi 17 yıldır 400 dönüm arazide saltanat sürüyor ama bize teslim etmiyorsunuz."<br/><br/>sırf abd istedi diye elindeki belki de bir masumu hukuk sistemini çalıştırmadan "paketleyip" göndermek, aynı uygulamayı abd'nin de yapması gerektiği anlamına gelmez. az da olsa hukukla hareket etmekte fayda var değil mi?
+   
+  entry_writer: focus on it
+- entry_name: |
+    2 ekim 2016 kolombiya barış anlaşması referandumu
+  entry_id: 63273093
+  entry_content: |
+    
+    sözlükte siyasi analizin kıraathanelerden beter olduğunu göstermiş referandum. ulan okyanus ötesinden bir milletin kaderini çomar olup olmamakla yorumluyorsunuz. kimsenin bilgiye ulaşma, araştırma, neden böyledir deme isteği yok. barışa hayır demiş ve kolombiyalı çomar. peki neden hayır demiş? karşı gruba vaatler mi yüksek, barış bizdeki çözüm süreci gibi örgütün daha da güçlenip daha büyük zararlar vermesine mi yol açacak, arkaplanda daha büyük olumsuzluklar mı söz konusu bunlar kimsenin umrunda değil. çomar dediklerinden daha pis güdülen, her bku emperyalizme bağlayıp, her konuda ahkam kesen kıraathaneci dayılardan daha pis bir güruh oluşmuş burada.  <br/>çözüm süreciyle ilgili bi referandum yapılsa bu ülkede hayır derdim, yine derim çünkü terörle masaya oturunca burnumuzun boktan elimizin kandan çıkmadığı aşikar. buna elin kolombiyalısının bi sikim bilmeden çomarlık ehehe diye yorum yapması kadar dangalakça şu sonuçları bu düzeyde yorumlamak.
+   
+  entry_writer: iste hepsi bu
+---
