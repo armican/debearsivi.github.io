@@ -104,7 +104,7 @@ data:
   entry_content: |
     
     aksi durum olsaydı tabii konuşulurdu gerizekalı çünkü türkiye'de bir türkün sığınmacı tarafından öldürülmesi çok büyük olaydır. öte yandan, türk tinercinin bir başka türkü veya türkiye'de yaşayagelmiş insanı öldürmesi yine haber değeri taşıyıp dehşet verici bir şey olmakla birlikte, öyle "inanılmaz" değildir. çünkü türkiye'de bir tinercinin bir türkü öldürmesi toplumsal bir problem iken, ithal tinercinin türkü öldürmesi bunun çok daha ötesinde bir sorundur..<br/><br/>ölen çocuk üzerinden bile türk düşmanlığı & arap götü yalayıcılığı yapmayı başarıyorsunuz ya, sizin karakterinize tüküreyim. aksi durumda ortalık karışırmış. istersen karışmasın ha? suriyeliler kafamızı koparsın, tecavüz etsin ama biz de "hmm, diğer türlüsü olsaydı kimse ses etmezdi. oturalım o yüzden" diyelim? pislik herifler.
-  (nokta)
+    (nokta)
    
   entry_writer: der meister
 - entry_name: |

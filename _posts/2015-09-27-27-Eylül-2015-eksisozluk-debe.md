@@ -132,7 +132,7 @@ data:
     2 kasım sabahı rte'nin söyleyeceği ilk söz
   entry_id: 55084782
   entry_content: |
-    (nokta).. ve kaybolan devlet otoritesini yeniden tesis etmek için yönetime el koyuyorum.
+      (nokta).. ve kaybolan devlet otoritesini yeniden tesis etmek için yönetime el koyuyorum.
   entry_writer: flues
 - entry_name: |
     26 eylül 2015 galatasaray gaziantepspor maçı

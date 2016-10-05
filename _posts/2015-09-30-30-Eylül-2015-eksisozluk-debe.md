@@ -246,7 +246,7 @@ data:
     gülce kurşun
   entry_id: 55162150
   entry_content: |
-    (nokta)..ve! <br/><br/>nicedir görmek istediğimiz, beklediğimiz o görüntü geldi arkadaşlar. gülce ayağa kalktı ve yürüyebiliyor. <br/><br/>genel anlamda çok daha iyiymiş şimdi gülce. yürüme mesafesi de uzamış. fizik tedavi devam ediyor. gülce de gayet uyumlu tedaviye. <br/><br/>fizik tedavi sonrası türkiye'ye dönecekler. belki hep beraber gideriz karşılamaya. <br/><br/>şu güzellik sizin eseriniz arkadaşlar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/hakiki_cassey/status/648936771053613057" title="https://twitter.com/hakiki_cassey/status/648936771053613057">https://twitter.com/…ssey/status/648936771053613057</a>
+      (nokta)..ve! <br/><br/>nicedir görmek istediğimiz, beklediğimiz o görüntü geldi arkadaşlar. gülce ayağa kalktı ve yürüyebiliyor. <br/><br/>genel anlamda çok daha iyiymiş şimdi gülce. yürüme mesafesi de uzamış. fizik tedavi devam ediyor. gülce de gayet uyumlu tedaviye. <br/><br/>fizik tedavi sonrası türkiye'ye dönecekler. belki hep beraber gideriz karşılamaya. <br/><br/>şu güzellik sizin eseriniz arkadaşlar:<br/><br/><a rel="nofollow" class="url" target="_blank" href="https://twitter.com/hakiki_cassey/status/648936771053613057" title="https://twitter.com/hakiki_cassey/status/648936771053613057">https://twitter.com/…ssey/status/648936771053613057</a>
   entry_writer: cassey jones
 - entry_name: |
     türkiye'deki akademisyenlerin ego sorunu
