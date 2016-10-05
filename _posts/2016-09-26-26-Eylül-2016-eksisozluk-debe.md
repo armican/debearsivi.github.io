@@ -40,7 +40,7 @@ data:
   entry_content: |
     
     okursa üzülür, diye düşünmez mi hiç bu tarz başlıklar açanlar. insanların dış görünüşleriyle dalga geçmek nasıl bir kafanın ürünüdür..<br/><br/>düşünce yoksulu bir suser hezeyanı.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/2jo502.png" title="http://i.hizliresim.com/2jo502.png">şu</a> da şurada dursun.<br/><br/>edit 2: hangimiz l&m'den sonra at olmak istemedik ki. ata can kurban. o ayrı. ama kullanımdaki boyutu anlamak için de joyce olmaya gerek yok. bir insanın eylem ve fikirlerini beğenmemek onun dış görünüşüyle dalga geçmek hakkını vermez kimseye. hayır, çok zalimce bu.
-  (nokta)
+    (nokta)
    
   entry_writer: hilkat garibesi ruh
 - entry_name: |
