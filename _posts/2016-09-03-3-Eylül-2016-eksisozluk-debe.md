@@ -248,7 +248,7 @@ data:
   entry_content: |
     
     arkadaş bu tipler mağaradan yeni mi çıkıyor yoksa ben mi yeni görüyorum?.. adam bildiğin "cumhuriyet, devleti ele geçirdi" dedi lan hahahaha. bu devletin yönetim biçimi cumhuriyet zaten osmanlı'da mı yaşıyor acaba hala? neyse kapattım ya beynim örümceklendi..<br/><br/>düz: imla & rötuş.
-  .
+  (nokta)
    
   entry_writer: elgi
 - entry_name: |

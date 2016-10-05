@@ -228,7 +228,7 @@ data:
     türk kebapçısında olay çıkaran amerikalı
   entry_id: 54574520
   entry_content: |
-    .....<a class="b" href="/?q=spoiler">spoiler</a>.....<br/><br/>video boyunca ortaya büyük bir karizma koyan hatunun kapı cama toslamasıyla bütün havası sönmüştür.<br/><br/>....<a class="b" href="/?q=spoiler">spoiler</a>.....
+    (nokta)....<a class="b" href="/?q=spoiler">spoiler</a>.....<br/><br/>video boyunca ortaya büyük bir karizma koyan hatunun kapı cama toslamasıyla bütün havası sönmüştür.<br/><br/>....<a class="b" href="/?q=spoiler">spoiler</a>.....
   entry_writer: redddadmiral
 - entry_name: |
     samsunspor

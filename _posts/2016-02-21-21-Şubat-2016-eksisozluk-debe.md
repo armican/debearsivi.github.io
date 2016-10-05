@@ -90,7 +90,7 @@ data:
     leyla ile mecnun
   entry_id: 58653277
   entry_content: |
-    ...<br/>simit yok mu simit. yiyoruz ya hani. o simidi bi düşünüyorum da yani o simidin ortasında bir delik var ya o boşluğa ne oluyor? biz yedikten sonra yani o boşluk nereye kayboluyor yani? hayır onuda yiyorsak çünkü hava yutmuşuz gibi oluyor da böyle gaz mı yapmasa sonra korkusu var hep içimde onu yemesek mi acaba yani? o gaz insanı öldürür biliyor musun? o simitin ortasındaki o boşluk adamı öldürmüş...<br/>...<br/><br/>konu değiştirirken bile beyin yakan dizi<br/><br/>edit: <a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=bfFJ_FBhG04" title="https://m.youtube.com/watch?v=bfFJ_FBhG04">link</a>
+    (nokta)..<br/>simit yok mu simit. yiyoruz ya hani. o simidi bi düşünüyorum da yani o simidin ortasında bir delik var ya o boşluğa ne oluyor? biz yedikten sonra yani o boşluk nereye kayboluyor yani? hayır onuda yiyorsak çünkü hava yutmuşuz gibi oluyor da böyle gaz mı yapmasa sonra korkusu var hep içimde onu yemesek mi acaba yani? o gaz insanı öldürür biliyor musun? o simitin ortasındaki o boşluk adamı öldürmüş...<br/>...<br/><br/>konu değiştirirken bile beyin yakan dizi<br/><br/>edit: <a rel="nofollow" class="url" target="_blank" href="https://m.youtube.com/watch?v=bfFJ_FBhG04" title="https://m.youtube.com/watch?v=bfFJ_FBhG04">link</a>
   entry_writer: bu hikaye bitti mi
 - entry_name: |
     vitor pereira

@@ -64,7 +64,7 @@ data:
   entry_content: |
     
     benim bebeğim yok ama bu gözler neler gördü....<br/><br/>uçuklu dudağı ile 4 aylık bebeği öpmeye çalışan mı<br/>evden gelip ayakkabısını çıkardığı gibi bebeğe elini uzatan mı<br/><br/>bebek konusu kibarlık kaldırabilecek bir durum değil... anne & baba risk alma şansına da sahip değil illa ki içeri girer girmez uyarmak durumunda ki kontrolü dışında bir şey olmasın. ben alınırım gücenirim diyorsan bebekli eve gitmeyeceksin... bir yıl geçsin sonra gider rahat rahat seversin.
-  .
+  (nokta)
    
   entry_writer: lazysunday
 - entry_name: |
