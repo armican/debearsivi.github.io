@@ -7,8 +7,8 @@ data:
   entry_id: 63295120
   entry_content: |
     
-    sizin adaletinizin amina koyayim.
-    
+    sizin adaletinizin amina koyayim..<br/><br/>debe edit: <a class="b" href="/?q=oumfar">oumfar</a>'in ricasi uzerine paylasiyorum. <br/>"bugün dunya cerebral palsy günü. türkiye'de her 8 saatte 1 cerebral palsy'li bebek dünyaya geliyor. sosyal medyada bir iletişim çalışması yapıyorlar. detaylar dunyacpgunu.org'da."
+   
   entry_writer: yuksek muhendisim ben
 - entry_name: |
     osmanlı kuruluyor padişah tayyip bey olacak
@@ -47,7 +47,7 @@ data:
   entry_id: 63294251
   entry_content: |
     
-    yerli otomobil satışlarının hızla devam ettiği şu günlerde sevindirmiştir.  <br/><br/>sanırım yerli otomobili atlayıp direkt yerli mekik işine girecekler.
+    yerli otomobil satışlarının hızla devam ettiği şu günlerde sevindirmiştir.  <br/><br/>sanırım yerli otomobili atlayıp direkt yerli mekik işine girecekler.<br/><br/>edit: bugün dunya cerebral palsy günü imiş. dunyacpgunu.org'da bir iletişim çalışması yürütüyorlar. bakmak ve konu hakkında bilgilenmekte fayda var.
    
   entry_writer: agosizman
 - entry_name: |
@@ -58,22 +58,6 @@ data:
     tarihin arka odası'nın bir bölümünde ilber ortaylı'yı iğnelemek için "hocam milletvekili adayı olacak mısınız?" demişti erhan afyoncu, hoca da cevaben "sen de bu aralar çok ortalardasın bakan olacaksın galiba" diye golü atmıştı. haberi gördüğümde aklıma ilk gelen bu diyalog oldu.
     
   entry_writer: vakai vakvakiye
-- entry_name: |
-    tesettürsüz kadın soyulmuş elma gibidir
-  entry_id: 63291528
-  entry_content: |
-    
-    çok sıkılmadık mı artık??
-    
-  entry_writer: sing it to me
-- entry_name: |
-    gazi lisans + atılım mba + özel sektörde yk
-  entry_id: 63299080
-  entry_content: |
-    
-    iyi de bundan bize ne amk
-    
-  entry_writer: welc0met0hell
 - entry_name: |
     süper mario'nun soyadı
   entry_id: 63307401
@@ -95,8 +79,8 @@ data:
   entry_id: 63297100
   entry_content: |
     
-    insan yaşlandığında "gençken ne güzelmişsiniz" olabilir kanımca.
-    
+    insan yaşlandığında "gençken ne güzelmişsiniz" olabilir kanımca..<br/><br/>------<br/>teşekkürler! debe editi mevlana'dan:<br/>"adalet nedir? ağaçlara su vermektir.zulüm nedir?dikene su vermektir...her su emen kökü sulamak değildir. hakkı hak sahibine vermektir" <sup class="ab"><a title="(bkz: rüzgara karşı)" href="/?q=r%c3%bczgara+kar%c5%9f%c4%b1" data-query="rüzgara karşı">*</a></sup>.<br/><sup class="ab"><a title="(bkz: alakasız edit)" href="/?q=alakas%c4%b1z+edit" data-query="alakasız edit">*</a></sup><sup class="ab"><a title="(bkz: kurabiyeler)" href="/?q=kurabiyeler" data-query="kurabiyeler">*</a></sup><sup class="ab"><a title="(bkz: mucucuk)" href="/?q=mucucuk" data-query="mucucuk">*</a></sup>.
+   
   entry_writer: zelyot
 - entry_name: |
     ömer halisdemir
@@ -155,11 +139,11 @@ data:
     
   entry_writer: son samur ay
 - entry_name: |
-    eskortların canına kasteden o. çocuğu ergen
+    eskortların canına kasteden ergen
   entry_id: 63306657
   entry_content: |
     
-    youtube da denk geldiğim şu  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=jHDG6xF2FTw" title="https://www.youtube.com/watch?v=jHDG6xF2FTw">video</a> da izlenebilecek olan şerefsizdir. periscope yayını yapıp like alabilmek için insanların canına kastedebilecek kadar aşağılıktır. 70 km hızla giden arabadan atlayan kadıncağızla dalga geçip "ağzı burnu gitti kesin", "dua et ezilmedi", "harbi çok iyiydi yaa", "her zaman yapalım kanka bunu" diyerek eğlenmeyi marifet saymıştır. "şu arabadan atlama olayını bi daha yapalım." diyerek aynı sahneyi tekrarlayıp daha fazla eğlenmek, daha fazla like almak istemiş ve kendisinden daha fazla iğrendirmişse de -neyse ki- buna fırsat bulamamıştır. instagram adresini verecek kadar da aptal ve cesurdur: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/baran_erekli/">https://www.instagram.com/baran_erekli/</a> umarım bu yaptığı yanına kar kalmaz. bir sonraki arabaya binen kadının arkasından "atlayamadı yaa" , "bir önceki atlayan efsaneydi" diyor. defalarca ve kan dondururcasına "şu atlama olayını bidaha yapalım yaa" diyor. "kanka sen bağır, ben de tut lan tut falan diyim mi?" , "suriyeli eskort, yani zeytinköylü'dekini arabaya alıcam, mustafa arkadan bağıracak, o da arabadan atlıycak" diyor. yani kasıtlı bir eylem içerisindeler. bir insanın canını hiçe sayarcasına!<br/><br/>edit: sırf vücudunu satarak para kazanıyor diye zavallı kadına bu mahlukun yaptığı şeyi onaylayan güzide yazarlarımız olmuş. madem "orospu"ymuş tabiki böyle it kopukla, psikopatla, gaspçıyla, katille muhatap olacakmış.. bunu göze alacakmış.. bunun gibi şerefini satan bir "orospu"ya asla duyarlı olamazmış... (sen duyarlı olma zaten!) yazıklar olsun sizin insanlığınıza be! öldürülen seks işçilerinin vebali boynunuza olsun!<br/><br/>edit2: iyi ki hala merhametli insanlar var.. kötülük kime yapılırsa yapılsın karşısında duran güzel kalpli insanlar... onlar ve sen umudumuzsun sözlük... o malum kadınları hor görmeyip ıslahları için uğraşan ve bu nedenle cenaze namazı sultan murad'a kıldırılarak hak katında taltif edilen allah dostu <a class="b" href="/?q=nal%c4%b1nc%c4%b1+baba">nalıncı baba</a>nın ruhuna da bizden selam olsun! kim bilir, belki aşağıdaki hikayeyi okuyunca o vicdansız yazarlar kendilerinden biraz olsun utanırlar. (not: utanmadılar)<br/>(bkz: <a class="b" href="/?q=padi%c5%9fah%c4%b1n+i%c5%9fi+ne">padişahın işi ne</a>)<br/><br/>edit3: videonun 1 saat 11 dakikalık uzun hali de <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ANzHTyNtHPY" title="https://www.youtube.com/watch?v=ANzHTyNtHPY">buradadır.</a> olay 58. dk'dan sonra yaşanmaktadır.<br/><br/>edit4: o kadar öfkelendim ki başlığı açarken o.cocugu demekten kendimi alamadım.ama arkadaşlarimizin gösterdiği hassasiyeti haklı buluyor ve başlığı bu haliyle açtigim için tüm sözlükten ozür diliyorum.moderasyonun o kısmı çıkarması temennisiyle...
+    youtube da denk geldiğim şu  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=jHDG6xF2FTw" title="https://www.youtube.com/watch?v=jHDG6xF2FTw">video</a> da izlenebilecek olan şerefsizdir. periscope yayını yapıp like alabilmek için insanların canına kastedebilecek kadar aşağılıktır. 70 km hızla giden arabadan atlayan kadıncağızla dalga geçip "ağzı burnu gitti kesin", "dua et ezilmedi", "harbi çok iyiydi yaa", "her zaman yapalım kanka bunu" diyerek eğlenmeyi marifet saymıştır. "şu arabadan atlama olayını bi daha yapalım." diyerek aynı sahneyi tekrarlayıp daha fazla eğlenmek, daha fazla like almak istemiş ve kendisinden daha fazla iğrendirmişse de -neyse ki- buna fırsat bulamamıştır. instagram adresini verecek kadar da aptal ve cesurdur: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/baran_erekli/">https://www.instagram.com/baran_erekli/</a> umarım bu yaptığı yanına kar kalmaz. bir sonraki arabaya binen kadının arkasından "atlayamadı yaa" , "bir önceki atlayan efsaneydi" diyor. defalarca ve kan dondururcasına "şu atlama olayını bidaha yapalım yaa" diyor. "kanka sen bağır, ben de tut lan tut falan diyim mi?" , "suriyeli eskort, yani zeytinköylü'dekini arabaya alıcam, mustafa arkadan bağıracak, o da arabadan atlıycak" diyor. yani kasıtlı bir eylem içerisindeler. bir insanın canını hiçe sayarcasına!<br/><br/>edit: sırf vücudunu satarak para kazanıyor diye zavallı kadına bu mahlukun yaptığı şeyi onaylayan güzide yazarlarımız olmuş. madem "orospu"ymuş tabiki böyle it kopukla, psikopatla, gaspçıyla, katille muhatap olacakmış.. bunu göze alacakmış.. bunun gibi şerefini satan bir "orospu"ya asla duyarlı olamazmış... (sen duyarlı olma zaten!) yazıklar olsun sizin insanlığınıza be! öldürülen seks işçilerinin vebali boynunuza olsun!<br/><br/>edit2: iyi ki hala merhametli insanlar var.. kötülük kime yapılırsa yapılsın karşısında duran güzel kalpli insanlar... onlar ve sen umudumuzsun sözlük... o malum kadınları hor görmeyip ıslahları için uğraşan ve bu nedenle cenaze namazı sultan murad'a kıldırılarak hak katında taltif edilen allah dostu <a class="b" href="/?q=nal%c4%b1nc%c4%b1+baba">nalıncı baba</a>nın ruhuna da bizden selam olsun! kim bilir, belki aşağıdaki hikayeyi okuyunca o vicdansız yazarlar kendilerinden biraz olsun utanırlar. (not: utanmadılar)<br/>(bkz: <a class="b" href="/?q=padi%c5%9fah%c4%b1n+i%c5%9fi+ne">padişahın işi ne</a>)<br/><br/>edit3: videonun 1 saat 11 dakikalık uzun hali de <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ANzHTyNtHPY" title="https://www.youtube.com/watch?v=ANzHTyNtHPY">buradadır.</a> olay 58. dk'dan sonra yaşanmaktadır.<br/><br/>edit4: o kadar öfkelendim ki başlığı açarken o.cocugu demekten kendimi alamadım.ama arkadaşlarimizin gösterdiği hassasiyeti haklı buluyor ve başlığı bu haliyle açtigim için tüm sözlükten ozür diliyorum.moderasyonun o kısmı çıkarması temennisiyle...<br/><br/>edit5: hepsinden acı olan da ne biliyor musunuz? konuya duyarsız kalmayıp tepkisini instagram üzerinden ileten <a class="b" href="/?q=paylasimciliksizlik">paylasimciliksizlik</a> adlı yazara baran'ın verdiği ve yüzümüze tokat gibi çarpan cevap: <a rel="nofollow noopener" class="url" target="_blank" href="http://hizliresim.com/rEaQnz" title="http://hizliresim.com/rEaQnz">sizin kanunlarınız beni yargılayamaz</a> bonus: <a rel="nofollow noopener" class="url" target="_blank" href="http://hizliresim.com/3A3aRA" title="http://hizliresim.com/3A3aRA">20 yaşında 600 milyarlık arabaya binen insanı ben de kıskanırdım</a><br/>(bkz: <a class="b" href="/?q=sizin+kanunlar%c4%b1n%c4%b1z+beni+yarg%c4%b1layamaz">sizin kanunlarınız beni yargılayamaz</a>)<br/><br/>edit6: 16 şubat 1993 doğumlu olduğunu öğrendim. yani 23 yaşında..ergen kelimesi yanlış bir tercih olmuş..ergen kardeşlerim de beni affetsinler, kandırıldım :(
    
   entry_writer: bekaramauygundegilim
 - entry_name: |
@@ -315,7 +299,7 @@ data:
    
   entry_writer: tek elle ses olmaz iki elle ses olur
 - entry_name: |
-    kemalizm türkiye'de ki tüm kötülüğün kaynağıdır
+    kemalizm türkiye'deki tüm kötülüğün kaynağıdır
   entry_id: 63301030
   entry_content: |
     
@@ -331,7 +315,7 @@ data:
     
   entry_writer: leonardonun katanasi
 - entry_name: |
-    yarın 7000 tl yüzünden vurulacak olmam
+    7000 tl yüzünden vurulacak olmak
   entry_id: 63308941
   entry_content: |
     
