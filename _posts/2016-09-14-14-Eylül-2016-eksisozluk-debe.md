@@ -320,7 +320,7 @@ data:
   entry_content: |
     
     sezon başından beri yasin'in 2 golü var,,<br/><br/>sneijder'in 20 resmi maçtır golü yok<br/><br/><a class="b" href="/?q=yasin">yasin</a> > t; <a class="b" href="/?q=sneijder">sneijder</a><br/><br/><3 yasin <3
-  t;3
+    t;3
    
   entry_writer: 2 tostos turan
 - entry_name: |

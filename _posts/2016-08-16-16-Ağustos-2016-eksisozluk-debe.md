@@ -360,7 +360,7 @@ data:
   entry_content: |
     
     bim'lere (market) girerken 2 aşamalı kapı olur. nedenini merak ettim. ilk etapta herkes gibi soğuğu içerde muhafaza etmek içindir diye düşünüyordum. ama o zaman çıkarken neden tek kapı vardı? soğuk girerken çıkıyordu da, çıkarken çıkmıyor muydu? kafamda deli sorularla gittim ve sordum. cevap şöyleydi;;<br/><br/>"iki kapının, iki farklı anahtarı olur. marketi sabah açan, akşam kapatan görevlilere iki anahtarda verilir, sadece dış kapının anahtarı ise markete günlük malzeme getiren toptancılara verilir. sabahın erken saatlerinde mal getiren toptancı, malzemeyi iki kapının arasına bırakır ve dış taraftaki kapıyı kitler ve gider. açılış saati geldiğinde iki kapınında anahtarını cebinde bulunduran bim görevlisi kapıları açar malzemeleri dizer işine bakar. böylece zamandan ve iş gücünden tasarruf edilir."<br/><br/>belki önemsiz ama benim hoşuma gitti. paylaşmak istedim.<br/><br/>edit: 'iki kapı arası çok küçük', 'malı toptancı getirmez' gibi mesajlar aldım. malzemeler günlük süt ekmek gibi malzemeler zaten. ama bu durumun takipçisi olacağım. tekrar editleyeceğim.<br/><br/>edit2: gelen bilgilerle kesinleşti. dediğim gibi süt ve ekmek bazen de sebze meyve geliyormuş. taze olması gereken ufak şeyler yani. malum fırın&sütçü&haller vs işlerine sabahın ilk ışıklarında başlıyor, bim ise saat 9 da açılıyor. sistem bunun üzerine.
-  rine.
+    rine.
    
   entry_writer: cmades
 - entry_name: |

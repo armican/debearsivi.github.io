@@ -160,7 +160,7 @@ data:
   entry_content: |
     
     dünyanın en kolpa adamı sanırım..<br/><br/>"uçurun beni yeeeeaaaaa uğraştırmayın entry silmekle."<br/><br/>kardeş bak şu adımları izlemen yeterli;<br/><br/>ayarlar---->hesabı kapat---->yokluğumda sikik ve çalıntı entrylerimi gizle---->elveda ay elveda feza
-  a feza
+    a feza
    
   entry_writer: drogbaba
 - entry_name: |
