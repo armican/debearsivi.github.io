@@ -7,7 +7,7 @@ data:
   entry_id: 63312673
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=param+ve+o%c4%9flum">param ve oğlum</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1N3MjN.jpg">http://i.hizliresim.com/1n3mjn.jpg</a>
+    (bkz:  <a class="b" href="/?q=param+ve+o%c4%9flum">param ve oğlum</a>)<br/><br/>edit: filme katkıda bulunup afiş hazırlayan <a class="b" href="/?q=ben+smyrna">ben smyrna</a> adlı yazar arkadaşa emeğinden dolayı teşekkürler. <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1N3MjN.jpg">http://i.hizliresim.com/1n3mjn.jpg</a>
    
   entry_writer: sessiz sakin suskun adam
 - entry_name: |
@@ -15,8 +15,8 @@ data:
   entry_id: 63312519
   entry_content: |
     
-    iyi yapmış annedir. benim oğlum kanser bir çocukla saçları olmadığı için dalga geçecek, anasını sikerim afedersiniz.
-    
+    iyi yapmış annedir. benim oğlum kanser bir çocukla saçları olmadığı için dalga geçecek, anasını sikerim afedersiniz..<br/><br/>debedit: öncelikle teşekkürler. sonralıkla da beğenilenin tepkimden çok, entry'nin sonundaki küfrün kinayeli kullanımı olduğunu düşünüyorum. bu entry'den hareketle sosyolojik çıkarımlar yapmaya gerek yok bence. bir de meselenin aslında "kanserli biriyle dalga geçmekle alakasının olmadığı" ifade edilmiş ki doğru olabilir. sadece debe'deki entry okunup böyle zannedilmesin. ben, konuyu görür görmez entry'nin sonunu düşünüp klasik bir tepki verir gibi yaptım; yoksa kadının yaptığını % 100 onaylamak da mümkün değil. <br/><br/>sonunu düşündüm evet; çünkü biliyorsunuz "sonunu düşünen kahraman olamaz." evet bunu yazan bir yazarı debe'de 2. sıraya soktunuz. ehehe. işte ekşi sözlük kahramanı!
+   
   entry_writer: proust
 - entry_name: |
     sinan çetin ve rüzgar çetin'in tahliye pozu
@@ -27,7 +27,7 @@ data:
    
   entry_writer: nuri alconun aile hekimi
 - entry_name: |
-    5 ekim 2016 t.c hukuk açığını bulmam rezaleti
+    5 ekim 2016 t.c. hukuk açığını bulmam rezaleti
   entry_id: 63317568
   entry_content: |
     
@@ -71,8 +71,8 @@ data:
   entry_id: 63319753
   entry_content: |
     
-    sadece ben mi böyle düşündüm bilmiyorum ama güneş gözlüklerinden dolayı küçükken hep böyle zannettiğim durumdur.
-    
+    sadece ben mi böyle düşündüm bilmiyorum ama güneş gözlüklerinden dolayı küçükken hep böyle zannettiğim durumdur..<br/><br/>edit adetmiş buralarda : selam olsun bekar kızlara :)
+   
   entry_writer: ne iyi be
 - entry_name: |
     uçağa körük yerine otobüsle binmek
@@ -98,14 +98,6 @@ data:
     donanımhaberdeki "50 liralık aldığımda daha hızlı doluyor ve zamandan tasarruf etmiş oluyorum. teşekkürler" yorumuyla beni benden alan zamcık.
     
   entry_writer: ananas soslu karides
-- entry_name: |
-    hüseyin avni coş
-  entry_id: 63322127
-  entry_content: |
-    
-    sevişirken şu görüntüleri aklımıza getirsek, geciktirici sektörüne darbe indiririz amk.
-    
-  entry_writer: adamklibindenkorkanadam
 - entry_name: |
     zencilerin büyük pipili olma nedeni
   entry_id: 63321903
@@ -151,8 +143,6 @@ data:
   entry_id: 63318867
   entry_content: |
     
-    bugün instagram da takılırken denk geldim..<br/><br/><a class="b" href="/?q=c%c3%bcneyt+akero%c4%9flu">cüneyt akeroğlu</a> isimli moda fotoğrafçısının, <a class="b" href="/?q=louvre+m%c3%bczesi">louvre müzesi</a>nde bir heykelin tepesine çıkıp fotoğraflanması olayıdır. bu durumu instagram hesabından paylaşmasıda ayrı bir saygısızlıktır. böyle mi fotoğrafçı olunuyor acaba? sanata ve kültüre olan saygı bu mudur?<br/><br/>dileriz gerekli cezayı alır bu şahıs.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/aXa2J4.png" title="http://i.hizliresim.com/aXa2J4.png">fotoğraf linki</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/RQ4QgY.jpg" title="http://i.hizliresim.com/RQ4QgY.jpg">fotoğrafın orijinali</a> (arkadaki gölge fotoğrafın gerçek olduğunu kanıtlıyor)<br/><br/>gerekli yerlerde paylaşılmalı.<br/><br/>edit:<br/>an itibariyle kendisi beni instagramdan engellemiş. ayrıca paylaştığı o hadsiz fotoğrafıda kaldırmış. ama gerekli şikayet iletildi, louvre ve vogue gibi kurumlara ilgili bilgi verildi. haydi bakalım cüneyt efendi ayıkla pirincin taşını!
-   
   entry_writer: anomimfotografci
 - entry_name: |
     michael jordan
@@ -175,7 +165,7 @@ data:
   entry_id: 63325069
   entry_content: |
     
-    31 aralık 2015 gününden 9 ay 5 gün sonra sonra gerçekleşmiş doğumdur....<br/>çok belli ki anne ve babasının yılbaşı gecesi eğlenceli geçmiş...
+    31 aralık 2015 gününden 9 ay 5 gün sonra gerçekleşmiş doğumdur....<br/>çok belli ki anne ve babasının yılbaşı gecesi eğlenceli geçmiş...<br/><br/>-------------------<br/><br/><a class="b" href="/?q=edit">edit</a>: 20'den fazla kişiden mesaj gelmiş, herkes "yanlış hesaplamışsın, yılbaşı gecesinden sonra 9 ay 5 gün geçmiş olsa 9 eylül olurdu, 5 ekim olması için 10 ay 5 gün geçmiş olması lazım" demiş...<br/>ülkem insanının "analitik düşünebilme yetisi"ne hayran kalmış olmakla beraber sanırım bir tane "+" işareti koymam, bu itiraz edenlerin bir kısmının bu konuyu anlamasına yetecek... <br/><br/>31 aralık'tan sonra 9 ay + 5 gün...<br/>sanırım bir çoğunuzda jeton şimdi düştü... jeton düşme sesleri geliyor kulağıma, tıngır tıngır...<br/><br/>hala anlamamış olan sözelciler için de <a class="b" href="/?q=anneye+anlat%c4%b1r+gibi">anneye anlatır gibi</a> anlatalım...<br/><br/>31 aralık'tan sonra 9 ay geçerse 30 eylül'e geliriz...<br/>bi 5 gün daha geçerse 5 ekim'e geliriz...<br/>31 aralık'tan sonra;<br/>1 ay geçti --> 31 ocak'tayızız<br/>2 ay geçti--> 28 (veya 29) şubat'tayızız<br/>3 ay geçti --> 31 mart'tayızız<br/>4 ay geçti --> 30 nisan'dayızız<br/>5 ay geçti --> 31 mayıs'tayızız<br/>6 ay geçti --> 30 haziran'dayızız<br/>7 ay geçti --> 31 temmuz'dayızız<br/>8 ay geçti --> 31 ağustos'tayızız<br/>9 ay geçti -->30 eylül'deyizyiz<br/><br/>5 gün daha geçerse --> 5 ekim'deyiz......<br/><br/>(bunu böyle açıkladığıma inanamıyorum!!)
    
   entry_writer: appdata
 - entry_name: |
@@ -199,7 +189,7 @@ data:
   entry_id: 63316763
   entry_content: |
     
-    az önce tuvalete girer girmez 3~4 tane ardarda flaş sesi duydum. "biri benim fotomu mu çekiyor yoksa" diye gayri ihtiyari bakinirken kapalı kabini fark ettim. istifimi bozmadan ellerimi yikamaya yöneldim, suyu açtığım sirada içeriden stratejik planlamanin yeni stajyeri kız çıktı. yüzünde aptal bir sırıtıma ile telefonuna bakıyor ve tek eliyle de gömleğinin içindeki badisini düzeltiyordu. beni fark edince bir panik oldu ve hızla çıktı hemen. hah işte libidosu yüksek kadın tam da bu bence. günün ortasında sevgilisine çat diye tuvalette çekildiği fotolari yollayan, yazdiklari, söyledikleriyle adami masasindan kalkamayacak hale getiren kadın..<br/><br/>epeydir böyle yaramazliklar yapmadığımı hatırladım şimdi düşününce. insanin libidosu yüksek olsa da aksama <a rel="nofollow noopener" class="url" target="_blank" href="https://67.media.tumblr.com/81f8684292cfcdcb0523b7d7f986a381/tumblr_nsiplbYG8n1qak0uxo1_400.jpg" title="https://67.media.tumblr.com/81f8684292cfcdcb0523b7d7f986a381/tumblr_nsiplbYG8n1qak0uxo1_400.jpg">kendisini</a> böyle karşılayacak bir adam olmayınca ister istemez köreliyor tabi. <sup class="ab"><a title="(bkz: ahahahaa)" href="/?q=ahahahaa" data-query="ahahahaa">*</a></sup> ben şu stajyer kızla muhabbet edeyim bari biraz, deli çağlarımi hatırlatır.
+    az önce tuvalete girer girmez 3~4 tane ardarda flaş sesi duydum. "biri benim fotomu mu çekiyor yoksa" diye gayri ihtiyari bakinirken kapalı kabini fark ettim. istifimi bozmadan ellerimi yikamaya yöneldim, suyu açtığım sirada içeriden stratejik planlamanin yeni stajyeri kız çıktı. yüzünde aptal bir sırıtıma ile telefonuna bakıyor ve tek eliyle de gömleğinin içindeki badisini düzeltiyordu. beni fark edince bir panik oldu ve hızla çıktı hemen. hah işte libidosu yüksek kadın tam da bu bence. günün ortasında sevgilisine çat diye tuvalette çekildiği fotolari yollayan, yazdiklari, söyledikleriyle adami masasindan kalkamayacak hale getiren kadın..<br/><br/>epeydir böyle yaramazliklar yapmadığımı hatırladım şimdi düşününce. insanin libidosu yüksek olsa da aksama <a rel="nofollow noopener" class="url" target="_blank" href="https://67.media.tumblr.com/81f8684292cfcdcb0523b7d7f986a381/tumblr_nsiplbYG8n1qak0uxo1_400.jpg" title="https://67.media.tumblr.com/81f8684292cfcdcb0523b7d7f986a381/tumblr_nsiplbYG8n1qak0uxo1_400.jpg">kendisini</a> böyle karşılayacak bir adam olmayınca ister istemez köreliyor tabi. <sup class="ab"><a title="(bkz: ahahahaa)" href="/?q=ahahahaa" data-query="ahahahaa">*</a></sup> ben şu stajyer kızla muhabbet edeyim bari biraz, deli çağlarımi hatırlatır.<br/><br/>debe editi adettendir: beyler, linki verdiğim foto için o kadar çok hemcinsimle "ayyy içim gitti,o negzel ısırmak öyle <3" mesajlasmasi yaptik ki akliniz şaşar! hatta aksam eve gidip sevgilisine fotoğrafı gosterenler bile var aramızda da <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> yani diyeceğim o ki <a class="b" href="/?q=hafif%c3%a7e">hafifçe</a> ısırın bence, çekinmeyin <sup class="ab"><a title="(bkz: kips)" href="/?q=kips" data-query="kips">*</a></sup>
    
   entry_writer: mavi yaprak
 - entry_name: |
@@ -223,8 +213,8 @@ data:
   entry_id: 63316530
   entry_content: |
     
-    bir kaç dakika öncesine kadar varlığına dair hiç bir fikrimin olmadığı aşağılık hareket. sonra eşime sordum, "ya bu gerçekten oluyor mu?" diye. meğerse ne zaman sokakta yalnız yürüse başına geliyormuş. o kadar alışmış ki, artık çok normal bir şeymiş gibi "aaa evet oluyor o" dedi. valla şu başlığı görene kadar bundan hiç haberim yoktu. bu nasıl bir godoşluktur lan?
-    
+    bir kaç dakika öncesine kadar varlığına dair hiç bir fikrimin olmadığı aşağılık hareket. sonra eşime sordum, "bu gerçekten oluyor mu?" diye. meğerse ne zaman sokakta yalnız yürüse başına geliyormuş. o kadar alışmış ki, artık çok normal bir şeymiş gibi "aaa evet oluyor o" dedi. valla şu başlığı görene kadar bundan hiç haberim yoktu. bu nasıl bir godoşluktur lan??<br/><br/>edit: <a class="b" href="/?q=debe">debe</a>'ye girmiş ya bu... neyse. ben <a class="b" href="/?q=godo%c5%9f">godoş</a> başkalarının eşine, anasına, bacısına yavşayan insan demek sanıyordum, ama sanırım başka bir anlamı varmış. siz benim kastettiğim manasıyla okuyun.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+   
   entry_writer: its a sign
 - entry_name: |
     yaran fıkralar
@@ -307,7 +297,7 @@ data:
    
   entry_writer: idi imis ise dir nedir
 - entry_name: |
-    rüzgar çetinin ekşi sözlükte yazar satın alması
+    rüzgar çetin'in ekşi sözlük'te yazar satın alması
   entry_id: 63311982
   entry_content: |
     
