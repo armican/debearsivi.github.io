@@ -15,7 +15,7 @@ data:
   entry_id: 63388076
   entry_content: |
     
-    türkiye'de kuvvetli sol eksikliğinin sonucu cümlelerden biri..<br/><br/>hani o "kardeş kardeşi üldürüyürdü" diye öttüğünüz 70'lerde, herhangi bir yurt müdürü üniversite öğrencilerine böyle atarlı seslenseydi, taşşaklarını zarfa koyup anasına postalardı solcu öğrenciler.<br/><br/>sonuç itibariyle, <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+kenan+evren">orospu çocuğu kenan evren</a>.
+    türkiye'de kuvvetli sol eksikliğinin sonucu cümlelerden biri..<br/><br/>hani o "kardeş kardeşi üldürüyürdü" diye öttüğünüz 70'lerde, herhangi bir yurt müdürü üniversite öğrencilerine böyle atarlı seslenseydi, taşşaklarını zarfa koyup anasına postalardı solcu öğrenciler.
    
   entry_writer: pembepembepembe
 - entry_name: |
@@ -31,7 +31,7 @@ data:
   entry_id: 63381779
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=messi+yazmayay%c4%b1m+da+%c3%a7ok+bildi%c4%9fimi+d%c3%bc%c5%9f%c3%bcns%c3%bcnler">messi yazmayayım da çok bildiğimi düşünsünler</a>)<br/><br/>adam 95 doğumlu maradona yazıyor. ulan 95'de maradona kokain çekiyordu lan.
+    (bkz:  <a class="b" href="/?q=messi+yazmayay%c4%b1m+da+%c3%a7ok+bildi%c4%9fimi+d%c3%bc%c5%9f%c3%bcns%c3%bcnler">messi yazmayayım da çok bildiğimi düşünsünler</a>)<br/><br/>adam 95 doğumlu maradona yazıyor. ulan 95'de maradona kokain çekiyordu lan.<br/><br/>debe editi: #fatihterimistifa
    
   entry_writer: 20 yasinda hala cizgi film izleyen mal
 - entry_name: |
@@ -42,14 +42,6 @@ data:
     hacklendi diye hepimizin hacklenmiş sayıldığı damat.
     
   entry_writer: bir nickim olsun yeter
-- entry_name: |
-    atatürk'ün önünde kağıt olmadan konuşamaması
-  entry_id: 63388936
-  entry_content: |
-    
-    ---  <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>bok böceği: <br/><br/>kısmen ya da tamamen dışkıyla beslenen böceklerin ortak adıdır.<br/>bu türlerin büyük çoğunluğu, kın kanatlılar (coleoptera) takımında sınıflanan scarabaeidae familyasının alt familyalarında scarabaeinae ve aphodiinae'nin üyesidir. özellikle scarabaeinae alt familyasının tek başına içerdiği 5.000'den fazla türün büyük çoğunluğu tamamen dışkıyla beslenir ve bu yüzden de bu alt familya için zaman zaman "asıl bok böcekleri" terimi de kullanılır. ancak, kın kanatlıların diğer bir familyası olan geotrupidae de dışkıyla beslenen ve "toprak kazan bok böcekleri" olarak anılan türler içermektedir.<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---
-   
-  entry_writer: lordejder
 - entry_name: |
     yüzde 5 peşinle daire veriyoruz daha ne yapalım
   entry_id: 63382063
@@ -119,7 +111,7 @@ data:
   entry_id: 63381798
   entry_content: |
     
-    ünlü bir futbolcu olmasa eğer, haftasonları ottoman nargile cafe'de takılan, ''sıkıntı yok karşim, adamsın, hallederiz o işi. olmadı ya merveyle, bana ne abi yoluma bakarım'' diye gezen, muhtemelen facebook profiline takım elbiseyle çekilmiş, çatık kaşlı halinin fotografını koyup, '' acılardan öğrendik senden öğrenecek değiliz'' diye açıklama yazacak, ''osmanlı torunuyum,ecdad, 1453, '' diye gönderiler atacak, ''dririliş ertugrul'' hayranı olacak, 27 'sinde evlenip, haftasonu karısıyla yaptığı selfie'leri yine sosyal medyada paylaşıp '' allah bozmasın, çok güzelsiniz'' yorumlarına ''sağol karşim, darısı senin basına '' yazacaktı..<br/><br/>ünlü futbolcu oldu. forması istenen adam oldu. ünlü kadınlarla yatıp kalktı. çevresi değişti, zengin kankaları oldu. iyi arabalara biniyor, pahalı saatler takıyor. sonunda da ''değişmedim'' diye prim yapıyor ama, o aslında dünyayı feth etti. aynada kendine bakıp ''sensin oğlum'' diyor. ''başarı diye bişey varsa o sensin. bayrampaşa'dan çıktın ama bak şimdi nerdesin, helal lan sana, helal oğlum. '' diye gazlıyor kendini.<br/><br/>barış manço'dan gelsin:<br/><br/>''sapa kulba kapağa itibar etme dostum<br/>içi boş tencerenin bu sofrada yeri yok<br/>para pula ihtişama aldanıp kanma dostum<br/>içi boş insanların bu dünyada yeri yok''
+    ünlü bir futbolcu olmasa eğer, haftasonları ottoman nargile cafe'de takılacak, ''sıkıntı yok karşim, adamsın, hallederiz o işi. olmadı ya merveyle, bana ne abi yoluma bakarım'' diye gezecek, muhtemelen facebook profiline takım elbiseyle çekilmiş, çatık kaşlı halinin fotografını koyup, '' acılardan öğrendik senden öğrenecek değiliz'' diye açıklama yazacak, ''osmanlı torunuyum,ecdad, 1453, '' diye gönderiler atacak, ''dririliş ertugrul'' hayranı olacak, 27 'sinde evlenip, haftasonu karısıyla yaptığı selfie'leri yine sosyal medyada paylaşıp '' allah bozmasın, çok güzelsiniz'' yorumlarına ''sağol karşim, darısı senin basına '' yazacaktı..<br/><br/>ünlü futbolcu oldu. forması istenen adam oldu. ünlü kadınlarla yatıp kalktı. çevresi değişti, zengin kankaları oldu. iyi arabalara biniyor, pahalı saatler takıyor. sonunda da ''değişmedim'' diye prim yapıyor ama, o aslında dünyayı feth etti. aynada kendine bakıp ''sensin oğlum'' diyor. ''başarı diye bişey varsa o sensin. bayrampaşa'dan çıktın ama bak şimdi nerdesin, helal lan sana, helal oğlum. '' diye gazlıyor kendini.<br/><br/>barış manço'dan gelsin:<br/><br/>''sapa kulba kapağa itibar etme dostum<br/>içi boş tencerenin bu sofrada yeri yok<br/>para pula ihtişama aldanıp kanma dostum<br/>içi boş insanların bu dünyada yeri yok''<br/><br/>edit: ne zaman arda yazsam debe'ye giriyorum. hesap soracak kesin.
    
   entry_writer: uluslararasiiliskilerci
 - entry_name: |
@@ -287,7 +279,7 @@ data:
   entry_id: 63385124
   entry_content: |
     
-    apartmandaki iki asansörden biri 3 haftadır bozuk. servis gelmedi, parçası bulunamadı, aidat toplanamadı... muhabbetleriyle bütün apartmanı tek asansöre mahkum etti yönetici..<br/><br/>pazar kahvaltısı için ekmek almaya ineceğim aşağıdaki markete, dairenin kapısını açtım ki ne göreyim? tam karşıdaki asansör tamir edilmiş, çağırma düğmesinin ışığı yanıyor. ne ara yapmışlar ki dedim içimden, akşam çalışmıyordu. ev terlikleriyle parmak ucumda bir iki metre ilerleyip bastım çağırma butonuna. asansör kabini bizim kattaymış, şak diye açıldı kapı. eve yöneldim, terlikleri içeriye doğru fırlatıp spor ayakkabıların ökçelerine basarak dış koridora çıktım. şimdi birisi çağırır başka kattan, beklemeyeyim diye acele ediyorum. sanki fizan'dan gelecek asansör, derdim neyse...<br/><br/>dairenin kapısını kapatmak için kolu çekerken tam aradan benim yaramaz kedim <a class="b" href="/?q=benjamin">benjamin</a> çaatt diye yapıştı ayak bileğime. dur canım, yapma oğlum derken asansörün kapısı kapandı. tırnaklarını geçirdi pijamaya bırakmıyor. güç bela kucağıma alıp içeriye koydum, kapıyı kapattım üzerine. miyavvv yavvv yaaavvv... nasıl bağırıyor kapının arkasından. asansör çağırma düğmesine bir daha bastım, kapı daha yarısına kadar açılmadı ki kabin ışığını görmemle peşi sıra halatların aşağı sarkışını seyretmem bir oldu. gözümün önünde asansör kabini boşluğa düştü ve en alt kattan büyük bir gürültü geldi. birkaç saniye boşluğun önünde öylece dikili kalakaldım. dairelerin kapıları ardı ardına açıldı. ev sahipleri ne olduğunu merak eden gözlerle koridora bakıyor, koridor da bir tek ben varım. bir alt katta oturan yöneticinin sesi çalındı kulağıma, merdivenlere yöneldim bir hışımla. alt kata indim, yönetici akif bey'i gördüm koridorun sonunda, 5-6 metre uzakta. "böyle mi yaptırıyorsunuz asansörü, ölüyorduk be. adım atsam kabinle beraber düşecektim." diye bağırdım. adam ne olduğunu bile anlamadı, "biz asansörü yaptırmadık ki" diyebildi. apartman sakinlerinin de kısa bir sürede etrafımızda toplanması ve yapılan istişarelerin sonunda olay anlaşıldı. çekme halatlarının döndürdüğü makaralardan kaynaklı bir arıza sebebiyle asansörü kapatmıştı yönetici. sebebini anlayamadığımız, belki de düşmeyi tetikleyecek bir mekanizmanın harekete geçmesiyle asansör kapıları açılır vaziyete gelmişti. benim cengaver kedim <a class="b" href="/?q=benjamin">benjamin</a> paçalarıma yapışıp birkaç saniye oyalamasa, açılan o ilk kapıdan sonsuzluğa dalacaktım belki de...<br/><br/>benjamin editi: şu an masanın üstünde, "ben kurtardım" der gibi patileriyle klavyeye dokunma çabasında. kedilerin inanılmaz kuvvetli önsezileri olduğuna artık kesinlikle inanıyorum.
+    apartmandaki iki asansörden biri 3 haftadır bozuk. servis gelmedi, parçası bulunamadı, aidat toplanamadı... muhabbetleriyle bütün apartmanı tek asansöre mahkum etti yönetici..<br/><br/>pazar kahvaltısı için ekmek almaya ineceğim aşağıdaki markete, dairenin kapısını açtım ki ne göreyim? tam karşıdaki asansör tamir edilmiş, çağırma düğmesinin ışığı yanıyor. ne ara yapmışlar ki dedim içimden, akşam çalışmıyordu. ev terlikleriyle parmak ucumda bir iki metre ilerleyip bastım çağırma butonuna. asansör kabini bizim kattaymış, şak diye açıldı kapı. eve yöneldim, terlikleri içeriye doğru fırlatıp spor ayakkabıların ökçelerine basarak dış koridora çıktım. şimdi birisi çağırır başka kattan, beklemeyeyim diye acele ediyorum. sanki fizan'dan gelecek asansör, derdim neyse...<br/><br/>dairenin kapısını kapatmak için kolu çekerken tam aradan benim yaramaz kedim <a class="b" href="/?q=benjamin">benjamin</a> çaatt diye yapıştı ayak bileğime. dur canım, yapma oğlum derken asansörün kapısı kapandı. tırnaklarını geçirdi pijamaya bırakmıyor. güç bela kucağıma alıp içeriye koydum, kapıyı kapattım üzerine. miyavvv yavvv yaaavvv... nasıl bağırıyor kapının arkasından. asansör çağırma düğmesine bir daha bastım, kapı daha yarısına kadar açılmadı ki kabin ışığını görmemle peşi sıra halatların aşağı sarkışını seyretmem bir oldu. gözümün önünde asansör kabini boşluğa düştü ve en alt kattan büyük bir gürültü geldi. birkaç saniye boşluğun önünde öylece dikili kalakaldım. dairelerin kapıları ardı ardına açıldı. ev sahipleri ne olduğunu merak eden gözlerle koridora bakıyor, koridor da bir tek ben varım. bir alt katta oturan yöneticinin sesi çalındı kulağıma, merdivenlere yöneldim bir hışımla. alt kata indim, yönetici akif bey'i gördüm koridorun sonunda, 5-6 metre uzakta. "böyle mi yaptırıyorsunuz asansörü, ölüyorduk be. adım atsam kabinle beraber düşecektim." diye bağırdım. adam ne olduğunu bile anlamadı, "biz asansörü yaptırmadık ki" diyebildi. apartman sakinlerinin de kısa bir sürede etrafımızda toplanması ve yapılan istişarelerin sonunda olay anlaşıldı. çekme halatlarının döndürdüğü makaralardan kaynaklı bir arıza sebebiyle asansörü kapatmıştı yönetici. sebebini anlayamadığımız, belki de düşmeyi tetikleyecek bir mekanizmanın harekete geçmesiyle asansör kapıları açılır vaziyete gelmişti. benim cengaver kedim <a class="b" href="/?q=benjamin">benjamin</a> paçalarıma yapışıp birkaç saniye oyalamasa, açılan o ilk kapıdan sonsuzluğa dalacaktım belki de...<br/><br/>benjamin editi: şu an masanın üstünde, "ben kurtardım" der gibi patileriyle klavyeye dokunma çabasında. kedilerin inanılmaz kuvvetli önsezileri olduğuna artık kesinlikle inanıyorum.<br/><br/>benjamin'e merhaba editi: güzel dilekleri ile mesaj kutumu yeşillendiren yazarlara teşekkür ederim, eksik olmayınız. <a class="b" href="/?q=benjamin">benjamin</a>'i merak edip görmek isteyen arkadaşlar için teamüllerin biraz dışına çıkarak link eklemek istedim, mazur görüle.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/A3Vq6v.jpg" title="http://i.hizliresim.com/A3Vq6v.jpg">benjamin'in keyif uykusu</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/40AkqA.jpg" title="http://i.hizliresim.com/40AkqA.jpg">benjamin'in kitap tutkusu</a>
    
   entry_writer: drgoku
 - entry_name: |
@@ -331,14 +323,6 @@ data:
    
   entry_writer: agzinda sigarayla kavga ayiran adam
 - entry_name: |
-    türkiye'nin kalitesiz yönünü yansıtan ünlüler
-  entry_id: 63383619
-  entry_content: |
-    
-    gülben ergen ve demet akalın bu seviyesizlik ve çomarlıkta bayrağı ilk safta daşıyan ünlülerdir.
-    
-  entry_writer: loserburc34
-- entry_name: |
     şenol güneş
   entry_id: 63396363
   entry_content: |
@@ -359,7 +343,7 @@ data:
   entry_id: 63381988
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/originals/06/08/01/0608012d4e3aabf530c4cd7b0cf01dd2.jpg" title="https://s-media-cache-ak0.pinimg.com/originals/06/08/01/0608012d4e3aabf530c4cd7b0cf01dd2.jpg">bu kadının</a> , <a rel="nofollow noopener" class="url" target="_blank" href="http://www.enguzeltesettur.com/wp-content/uploads/2013/11/necla-nazırın-şimdiki-son-hali-hangi-kanalda-624x351.jpg" title="http://www.enguzeltesettur.com/wp-content/uploads/2013/11/necla-nazırın-şimdiki-son-hali-hangi-kanalda-624x351.jpg">şu hale</a> gelmesinin tek sebebi ancak ciddi bir psikiyatrik rahatsızlık olabilir. bunun da tek açıklaması var: ferdi tayfur. necla nazır'ın hayatını bitiren adam ferdi tayfur'dur. <br/><br/>tabii necla nazır böyle pis bir herifi kendine eş olarak, pardon kendini kuma olarak alarak hayatının hatasını yapmıştır. ama şemsiye yok bile olmuş görünüşe bakılırsa.
+     <a rel="nofollow noopener" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/originals/06/08/01/0608012d4e3aabf530c4cd7b0cf01dd2.jpg" title="https://s-media-cache-ak0.pinimg.com/originals/06/08/01/0608012d4e3aabf530c4cd7b0cf01dd2.jpg">bu kadının</a> , <a rel="nofollow noopener" class="url" target="_blank" href="http://www.enguzeltesettur.com/wp-content/uploads/2013/11/necla-nazırın-şimdiki-son-hali-hangi-kanalda-624x351.jpg" title="http://www.enguzeltesettur.com/wp-content/uploads/2013/11/necla-nazırın-şimdiki-son-hali-hangi-kanalda-624x351.jpg">şu hale</a> gelmesinin tek sebebi ancak ciddi bir rahatsızlık olabilir. bunun da tek açıklaması var: ferdi tayfur. necla nazır'ın hayatını bitiren adam ferdi tayfur'dur. <br/><br/>tabii necla nazır böyle bir adamı kendine eş olarak, pardon kendini kuma olarak alarak hayatının hatasını yapmıştır. ama şemsiye yok bile olmuş görünüşe bakılırsa.<br/><br/>edit: entry gg'ye takılmış, küçük bir sansür uyguladık.<br/><br/>edit2: hem gg'ye takılıp hem debeye giren ilk entry bu olsa gerek.
    
   entry_writer: mary wollstonecraft
 - entry_name: |
