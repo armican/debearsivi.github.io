@@ -7,7 +7,7 @@ data:
   entry_id: 63742159
   entry_content: |
     
-    hayata dair iç burkan bazı anlar vardır sevgili okurlar..<br/>greyfurt yemiş gibi bir hal alır suratın..<br/>üzülürsün,<br/>mamafih elinden bir şey de gelmez kimi zaman.. <br/><br/>dün karşılaştım 5m migros'ta bu adamla.<br/>kasada sıradaydık.<br/>önümdeydi.<br/>russki standart vodkasından tutun toblerona, yacht dergisinden tutun ince dilimlenip vakumlanmış, kilosu iki yüz elli milyor sen milyar lira eden turuncumsu hollanda peynirine kadar lüks şeylerle doluydu sepeti.<br/>benim 32 yıllık hayatım boyunca markette en fazla 1,5 metre yaklaşabildiğim,etiketsizlerinin gidip fiyatını bile sormaya çekindiğim ürünler adamın sepetinde bana orta parmak işareti yapıyordu adeta.<br/>bi migrosun tapusu yoktu amk o derece.<br/><br/>hemen adamı süzdüm ibne gibi.<br/>bunları alan adam çetinkaya takım elbise veya consi cons markasından giyinemezdi diyerek...<br/><br/>biraz dikkatli baktığımda bizimkiler dizisindeki cafer gibi bir giyim tarzı vardı,<br/>kasketi hariç.<br/>‘kapıcıdır heralde lan’ diyerek kendimi avuttum...<br/>evet lan kesin kapıcı olmalıydı.<br/>...<br/>derken telefonu çaldı ve ;<br/><br/>- alo sertaç.... canım o işi hallettik, yarına 2 müşteri gelecek <br/><br/>dedi çetin tekindor diksiyonuyla...<br/>sertaç diye birine canım diyebildiğine göre bu adamın adı da toprak, çağan veya aybars'tı.<br/>yani adamın kapıcı cafer veya deli yürek’teki kuşçu olma ihtimali ortadan kalktı bir telefon konuşmasıyla...<br/><br/>resmen john nash gibi olmuştum amk, adamı çözmeye çalışıyordum o 2-3 dakikalık bekleme süresince.<br/>-derken sırası geldi ve ürünleri banta koymaya başladı...<br/>adamın banta koyduğu ürünlere , çocukken kuzenimin almanya'dan gelirken getirdiği eşyalara bakar gibi bakıyordum... <br/>'bu ne lan, böyle bir ürün mü üretmişler amk ' dercesine..<br/>kendimi 've tanrılar çıldırmış olmalı' filminde ilk kez ayna gören zuzu kabilesi üyesi yamyamlar gibi hissediyordum..<br/>yacht dergisine ‘’hoşştt’’ dememek için kendimi zor zaptettim düşünün.<br/><br/>kasadan çıkan fiş zürafa siki boyutlarına ulaştığında ben ve arkamda sırada bekleyenler saygı duruşuna geçip akabinde istiklal marşı okumaya karar verdik telepati yöntemiyle.<br/>marşın bitmesi ile kasiyerden ‘527 lira 50 kuruş’ lafını duymamız bir oldu.<br/>!!!!!<br/>aheeeeeyyy beeeaaa... hoh hoh hooooooooo...<br/><br/>527 lira laaan!<br/><br/>yani kasiyer müdüre gidip fişi gösterip ‘günlük ciroya ulaştım, şimdi siktirip gidebilir miyim’’ diye sorsa üstüne 1 maaş ikramiye bile alırdı yeminle.<br/><br/>derken bizim gizemli kaslı, koyu kredi kartını çıkardı cüzdanından.<br/>kaslı değildi ama nedense gözüme kaslı görünmeye başladı yavaştan..<br/>hatta biraz da seksi mi ne..<br/>???<br/>öh höh höömm , <br/>neyse..<br/>kasiyere kartı uzatması belki 1 saniye sürdü, ama biz sıradaki 1944 auschwitz sakinleri resmen slow motion izliyorduk o anı..<br/><br/>ben hayatımda bu kadar siyah bir kredi kartı görmedim aga.<br/>bildiğin kara delik amk.<br/>yani yeminle marshall bu rengi görse fabrikayı kapatır boyacılığa tövbe eder..<br/>belli ki ne platinum ne de premiumdu bu kart.<br/>olsa olsa torium veya geberinpisfakirlerium olurdu...<br/><br/>adam kartı uzattıktan sonra kasiyere bi de ‘’puanla ödeyeceğim’’ dedi..<br/>????<br/>!!<br/>kasiyer ‘’ne kadar puan var biliyor musunuz?’’ diye sordu.<br/>adamın ‘’yeteri kadar var hayatım’’ cevabıyla, kasadaki barkod okuyucuyu götüme sokup tüm migros poşetlerini çıplak vücuduma sarıp beylikdüzü sokaklarında şener şen gibi topuklayarak yok mu beni sikeeeeenn diye bağırarak koşasım geldi.<br/>....<br/>bir homo sapiens’in kredi kartında 500 küsür tl’lik puan nasıl olur lan?<br/>ayıp amk.<br/>bu kadar terbiyesizliği liverpool beşiktaş’a yapmadı..<br/>bizim kredi kartımızda 10 tl ve üzeri puan varken kendimizi zengin hissediyoruz, kıza hava atıyoruz kaynatasını zkeyim.<br/>bu adam ya dolandırıcıydı ya da banka puan kampanyaları ile puan toplayan, akaryakıt pompacısı olarak çalışan bir donanımhaber ölücüsüydü. gerçi ikisinin pek farkı yok ama neyse..<br/><br/>allaam inşallah pos makinesi red verir diye dua ettik sıradakilerle..<br/>veeee ........<br/>işlem onaylandı.<br/><br/>çıkırt<br/>çıkırt<br/>çıkırt....<br/><br/>işlemin onaylanması üzerinde adam bize dönüp ‘domalın len dna’sını siktiklerim’ dese cim-cif’e bile hayır diyecek kimse yoktu sırada ..<br/>o an kafamda çalan müzik ‘zahid bizi tan eyleme’ idi.<br/>‘beyim bizi fakir eyleme’ye evriliyordu..<br/><br/>resmen adam tek, biz hepimizdik ve ortada gorbaçov’dan devralınmış bir soğuk savaş vardı.<br/>ödeme işlemi bitip , poşetleri ile kapıdan çıkana kadar adamı izledik.<br/>kapıdan çıktıktan birkaç metre sonra 06 plakalı 98 model efsane kasa toyota’nın bagajına yanaştı.<br/>hayırr..<br/>!!!<br/>hayır bu olamazdı..<br/>o poşetler o bagaja değil, bir porsche panamera’ya bir bmw 525 xd’ye girmeliydi...<br/>allaam nolur yanlış olsundu..<br/>çünkü o poşetten 30 tanesi zaten o araba parasıydı.<br/>...<br/>derken adam bagajı açıp poşetleri yerleştirmeye başladı..<br/>adamı pencere arkasından izlerken, arkadan birinin omzumu parmakladığını hissettim ve irkilip kasiyerle göz göze geldik..<br/>ve o meşhur soruyu melul bakışlarla sordu..<br/><br/>kasiyer:beyfendi mani kılap kartınız var mı?<br/>ben: aaaa! var ama evde unuttum (ehhe ehhee)<br/><br/>yani o kadar ezilmiştim ki, kasiyer bana ‘’kendini neden evde unutmuyon stoplazmasını siktiğim’’ dese yeminle gıkım çıkmazdı..<br/>....<br/><br/>allah belanı versin dandik arabaya binen karizma adam..<br/>özgüvenimi de sikip attın.<br/>inşallah russki standart götünde patlar!!!
+    hayata dair iç burkan bazı anlar vardır sevgili okurlar..<br/>greyfurt yemiş gibi bir hal alır suratın..<br/>üzülürsün,<br/>mamafih elinden bir şey de gelmez kimi zaman.. <br/><br/>dün karşılaştım 5m migros'ta bu adamla.<br/>kasada sıradaydık.<br/>önümdeydi.<br/>russki standart vodkasından tutun toblerona, yacht dergisinden tutun ince dilimlenip vakumlanmış, kilosu iki yüz elli milyor sen milyar lira eden turuncumsu hollanda peynirine kadar lüks şeylerle doluydu sepeti.<br/>benim 32 yıllık hayatım boyunca markette en fazla 1,5 metre yaklaşabildiğim,etiketsizlerinin gidip fiyatını bile sormaya çekindiğim ürünler adamın sepetinde bana orta parmak işareti yapıyordu adeta.<br/>bi migrosun tapusu yoktu amk o derece.<br/><br/>hemen adamı süzdüm ibne gibi.<br/>bunları alan adam çetinkaya takım elbise veya consi cons markasından giyinemezdi diyerek...<br/><br/>biraz dikkatli baktığımda bizimkiler dizisindeki cafer gibi bir giyim tarzı vardı,<br/>kasketi hariç.<br/>‘kapıcıdır heralde lan’ diyerek kendimi avuttum...<br/>evet lan kesin kapıcı olmalıydı.<br/>...<br/>derken telefonu çaldı ve ;<br/><br/>- alo sertaç.... canım o işi hallettik, yarına 2 müşteri gelecek <br/><br/>dedi çetin tekindor diksiyonuyla...<br/>sertaç diye birine canım diyebildiğine göre bu adamın adı da toprak, çağan veya aybars'tı.<br/>yani adamın kapıcı cafer veya deli yürek’teki kuşçu olma ihtimali ortadan kalktı bir telefon konuşmasıyla...<br/><br/>resmen john nash gibi olmuştum amk, adamı çözmeye çalışıyordum o 2-3 dakikalık bekleme süresince.<br/>-derken sırası geldi ve ürünleri banta koymaya başladı...<br/>adamın banta koyduğu ürünlere , çocukken kuzenimin almanya'dan gelirken getirdiği eşyalara bakar gibi bakıyordum... <br/>'bu ne lan, böyle bir ürün mü üretmişler amk ' dercesine..<br/>kendimi 've tanrılar çıldırmış olmalı' filminde ilk kez ayna gören zuzu kabilesi üyesi yamyamlar gibi hissediyordum..<br/>yacht dergisine ‘’hoşştt’’ dememek için kendimi zor zaptettim düşünün.<br/><br/>kasadan çıkan fiş zürafa siki boyutlarına ulaştığında ben ve arkamda sırada bekleyenler saygı duruşuna geçip akabinde istiklal marşı okumaya karar verdik telepati yöntemiyle.<br/>marşın bitmesi ile kasiyerden ‘527 lira 50 kuruş’ lafını duymamız bir oldu.<br/>!!!!!<br/>aheeeeeyyy beeeaaa... hoh hoh hooooooooo...<br/><br/>527 lira laaan!<br/><br/>yani kasiyer müdüre gidip fişi gösterip ‘günlük ciroya ulaştım, şimdi siktirip gidebilir miyim’’ diye sorsa üstüne 1 maaş ikramiye bile alırdı yeminle.<br/><br/>derken bizim gizemli kaslı, koyu kredi kartını çıkardı cüzdanından.<br/>kaslı değildi ama nedense gözüme kaslı görünmeye başladı yavaştan..<br/>hatta biraz da seksi mi ne..<br/>???<br/>öh höh höömm , <br/>neyse..<br/>kasiyere kartı uzatması belki 1 saniye sürdü, ama biz sıradaki 1944 auschwitz sakinleri resmen slow motion izliyorduk o anı..<br/><br/>ben hayatımda bu kadar siyah bir kredi kartı görmedim aga.<br/>bildiğin kara delik amk.<br/>yani yeminle marshall bu rengi görse fabrikayı kapatır boyacılığa tövbe eder..<br/>belli ki ne platinum ne de premiumdu bu kart.<br/>olsa olsa torium veya geberinpisfakirlerium olurdu...<br/><br/>adam kartı uzattıktan sonra kasiyere bi de ‘’puanla ödeyeceğim’’ dedi..<br/>????<br/>!!<br/>kasiyer ‘’ne kadar puan var biliyor musunuz?’’ diye sordu.<br/>adamın ‘’yeteri kadar var hayatım’’ cevabıyla, kasadaki barkod okuyucuyu götüme sokup tüm migros poşetlerini çıplak vücuduma sarıp beylikdüzü sokaklarında şener şen gibi topuklayarak yok mu beni sikeeeeenn diye bağırarak koşasım geldi.<br/>....<br/>bir homo sapiens’in kredi kartında 500 küsür tl’lik puan nasıl olur lan?<br/>ayıp amk.<br/>bu kadar terbiyesizliği liverpool beşiktaş’a yapmadı..<br/>bizim kredi kartımızda 10 tl ve üzeri puan varken kendimizi zengin hissediyoruz, kıza hava atıyoruz kaynatasını zkeyim.<br/>bu adam ya dolandırıcıydı ya da banka puan kampanyaları ile puan toplayan, akaryakıt pompacısı olarak çalışan bir donanımhaber ölücüsüydü. gerçi ikisinin pek farkı yok ama neyse..<br/><br/>allaam inşallah pos makinesi red verir diye dua ettik sıradakilerle..<br/>veeee ........<br/>işlem onaylandı.<br/><br/>çıkırt<br/>çıkırt<br/>çıkırt....<br/><br/>işlemin onaylanması üzerinde adam bize dönüp ‘domalın len dna’sını siktiklerim’ dese cim-cif’e bile hayır diyecek kimse yoktu sırada ..<br/>o an kafamda çalan müzik ‘zahid bizi tan eyleme’ idi.<br/>‘beyim bizi fakir eyleme’ye evriliyordu..<br/><br/>resmen adam tek, biz hepimizdik ve ortada gorbaçov’dan devralınmış bir soğuk savaş vardı.<br/>ödeme işlemi bitip , poşetleri ile kapıdan çıkana kadar adamı izledik.<br/>kapıdan çıktıktan birkaç metre sonra 06 plakalı 98 model efsane kasa toyota’nın bagajına yanaştı.<br/>hayırr..<br/>!!!<br/>hayır bu olamazdı..<br/>o poşetler o bagaja değil, bir porsche panamera’ya bir bmw 525 xd’ye girmeliydi...<br/>allaam nolur yanlış olsundu..<br/>çünkü o poşetten 30 tanesi zaten o araba parasıydı.<br/>...<br/>derken adam bagajı açıp poşetleri yerleştirmeye başladı..<br/>adamı pencere arkasından izlerken, arkadan birinin omzumu parmakladığını hissettim ve irkilip kasiyerle göz göze geldik..<br/>ve o meşhur soruyu melul bakışlarla sordu..<br/><br/>kasiyer:beyfendi mani kılap kartınız var mı?<br/>ben: aaaa! var ama evde unuttum (ehhe ehhee)<br/><br/>yani o kadar ezilmiştim ki, kasiyer bana ‘’kendini neden evde unutmuyon stoplazmasını siktiğim’’ dese yeminle gıkım çıkmazdı..<br/>....<br/><br/>allah belanı versin dandik arabaya binen karizma adam..<br/>özgüvenimi de sikip attın.<br/>inşallah russki standart götünde patlar!!!<br/><br/>debe editi : (bkz: <a class="b" href="/?q=bir+portre+cizdir+bir+cocuk+gulsun">bir portre cizdir bir cocuk gulsun</a>)
    
   entry_writer: kamerarkasi
 - entry_name: |
@@ -39,8 +39,8 @@ data:
   entry_id: 63746223
   entry_content: |
     
-    3,5 yaşındaki bir çocuk, kaçırılıp tecavüz edilip, sonra anal yolla tecavüz edilmeye çalışılıp organları parçalanırken, daha sonrasında boğularak öldürülürken bunu izleyen bir tanrının iyiliğinden ya da direk varlığından şüphe duyulmalıdır.
-    
+    3,5 yaşındaki bir çocuk, kaçırılıp tecavüz edilip, sonra anal yolla tecavüz edilmeye çalışılıp organları parçalanırken, daha sonrasında boğularak öldürülürken bunu izleyen bir tanrının iyiliğinden ya da direkt varlığından şüphe duyulmalıdır..<br/><br/>edit: yazım hatası
+   
   entry_writer: beanlie
 - entry_name: |
     roma'yı yozgat'tan ayıran en büyük özelliği
@@ -99,14 +99,6 @@ data:
    
   entry_writer: hadi git
 - entry_name: |
-    rastgele entry numarasıyla ne çıkarsa bahtına
-  entry_id: 63758093
-  entry_content: |
-    
-     <a class="b" href="/entry/11244530">#11244530</a><br/><br/>üniversite numaram.
-   
-  entry_writer: no status
-- entry_name: |
     kolanın istisnasız her yiyecekle iyi gitmesi
   entry_id: 63747608
   entry_content: |
@@ -119,7 +111,7 @@ data:
   entry_id: 63744800
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dolar+10+kuru%c5%9f+artt%c4%b1+mutlumusunuz+geziciler">dolar 10 kuruş arttı mutlumusunuz geziciler</a>) diyen akp li orospu çocuklarının bu başlığa entry girmesi zorunluymuş, öyle diyolla.
+    (bkz:  <a class="b" href="/?q=dolar+10+kuru%c5%9f+artt%c4%b1+mutlumusunuz+geziciler">dolar 10 kuruş arttı mutlumusunuz geziciler</a>) diyen akplilerin bu başlığa entry girmesi zorunluymuş, öyle diyolla.
    
   entry_writer: vashta
 - entry_name: |
@@ -135,7 +127,7 @@ data:
   entry_id: 63748361
   entry_content: |
     
-    tanıtımını izledim, tuba büyüküstün'ü at tepiklemek üzereyken kıvanç tatlışey gelip kurtarıyor. sonra tuba büyüküstün her zamanki piremsesliğiyle burkulan ayağını leğene sokmuşken bunun 2 çocuklu fitneci yengesi olduğunu tahmin ettiğim bir dış ses "hiçbir kadın hayatını kurtaran adama kayıtsız kalamaz" diyor.  <br/><br/>ahahsd tatlım, kıvanç tatlıtuğ'a kayıtsız kalmamak için hayatımızı kurtarmasına gerek yok, nefes alarak yanımızdan geçmesi yeterli.
+    tanıtımını izledim, tuba büyüküstün'ü at tepiklemek üzereyken kıvanç tatlışey gelip kurtarıyor. sonra tuba büyüküstün her zamanki piremsesliğiyle burkulan ayağını leğene sokmuşken bunun 2 çocuklu fitneci yengesi olduğunu tahmin ettiğim bir dış ses "hiçbir kadın hayatını kurtaran adama kayıtsız kalamaz" diyor.  <br/><br/>ahahsd tatlım, kıvanç tatlıtuğ'a kayıtsız kalmamak için hayatımızı kurtarmasına gerek yok, nefes alarak yanımızdan geçmesi yeterli.<br/><br/>ayrıca, (bkz: <a class="b" href="/?q=i%c3%a7erde%c3%a7ocukvar%27a+destek+kampanyas%c4%b1">içerdeçocukvar'a destek kampanyası</a>)<br/>10 tl arkadaşlar, sadece 10 tl. boş geçmeyelim.
    
   entry_writer: isolde
 - entry_name: |
@@ -143,8 +135,8 @@ data:
   entry_id: 63742813
   entry_content: |
     
-    "mal görmek istiyorlarsa izmir ticaret odasına gitsinler."
-    
+    "ticari ürün görmek istiyorlarsa izmir ticaret odasına gitsinler.""<br/><br/>düzeltme: eksi destekten gelen uyarı üzerine sakıncalı görülen kelime " ticari ürün" ile değiştirilmiştir.
+   
   entry_writer: mahmut adinda bir balik
 - entry_name: |
     yeni mezun mühendislere tavsiyeler
@@ -159,7 +151,7 @@ data:
   entry_id: 63746433
   entry_content: |
     
-    "imşillik irnik tişkil idir di irtik şirt gibi irikti idici rihitsiz idici bir kiyifit bir dihi giyilmiz.." ahahahasdfsdf, bak baaak, habeşistan şebekleri erekte oluyormuş, sonra hayali arkadaşlarının uydurduğu hayali bir dünyada, hayali kadınlara atlama hayallerine zeval geliyormuş çaresiz eziklerin, o yüzden şort giymesinlermiş..<br/><br/>abdullah çakıroğlu gibi 25 iq'lu, siğilli yamuk patates kılıklı, ana karnında yıkı güllesi çarpmış, homo sapiens sapiensliğe erişmesine daha 8 evrim basamağı olan bir tip tecrit edilmesi, ilaç ve kozmetik deneylerinde kullanılması gerekirken varoş ailesi tarafından sokağa salındı ve kafası 10 yaşındaki ergen kız olarak tasvir edilen huriler, şarap ırmakları gibi hayallerle güzelken ayakkabısının altına bulaşan çamuru yalayamayacağı bir kadına çöl maymunluğunun tüm ezikliğiyle tekme attı diye şort giymekten vazgeçeceğiz, aman çok korkacağız sanan başka minik abdullahçıkları umutlara gark eden bir olay. ben o sirk acuzesini insan sınıfından saymıyorum ki yaptığı hareket örnek teşkil etsin? 30 milyon replikası da olsa varlığının tırnak kirinden zerre farkı yok benim için.<br/><br/>nah. nah korkarız, nahhhhh vazgeçeriz o şortu giymekten. kalın kaşe bir tane aldım, kışın çizmeyle giyeceğim, ba-yı-lı-yo-rum şorta. şorttan daha çok bayıldığım bir şey varsa o da şort giyebilme özgürlüğüm. o özgürlüğü bir şizofren elimden alabilir mi sandın? yanlış yerleşim seçimi, yanlış milletle etkileşim sonucu bulaştığımız mizojini bizi bağlamıyor abdullahçık, yerse "ühühü ama erekte oluyorum sonra cennetim kaçıyor" diye bana tekme at, çantamda 19 yaşından beri pırıl pırıl bir maket bıçağı var, cennet var mıymış yok muymuş görürsün, güzel bir deneyim olur senin için. kıppsss.
+    "imşillik irnik tişkil idir di irtik şirt gibi irikti idici rihitsiz idici bir kiyifit bir dihi giyilmiz.." ahahahasdfsdf, bak baaak, habeşistan şebekleri erekte oluyormuş, sonra hayali arkadaşlarının uydurduğu hayali bir dünyada, hayali kadınlara atlama hayallerine zeval geliyormuş çaresiz eziklerin, o yüzden şort giymesinlermiş..<br/><br/>abdullah çakıroğlu gibi 25 iq'lu, siğilli yamuk patates kılıklı, ana karnında yıkı güllesi çarpmış, homo sapiens sapiensliğe erişmesine daha 8 evrim basamağı olan bir tip tecrit edilmesi, ilaç ve kozmetik deneylerinde kullanılması gerekirken varoş ailesi tarafından sokağa salındı ve kafası 10 yaşındaki ergen kız olarak tasvir edilen huriler, şarap ırmakları gibi hayallerle güzelken ayakkabısının altına bulaşan çamuru yalayamayacağı bir kadına çöl maymunluğunun tüm ezikliğiyle tekme attı diye şort giymekten vazgeçeceğiz, aman çok korkacağız sanan başka minik abdullahçıkları umutlara gark eden bir olay. ben o sirk acuzesini insan sınıfından saymıyorum ki yaptığı hareket örnek teşkil etsin? 30 milyon replikası da olsa varlığının tırnak kirinden zerre farkı yok benim için.<br/><br/>nah. nah korkarız, nahhhhh vazgeçeriz o şortu giymekten. kalın kaşe bir tane aldım, kışın çizmeyle giyeceğim, ba-yı-lı-yo-rum şorta. şorttan daha çok bayıldığım bir şey varsa o da şort giyebilme özgürlüğüm. o özgürlüğü bir şizofren elimden alabilir mi sandın? yanlış yerleşim seçimi, yanlış milletle etkileşim sonucu bulaştığımız mizojini bizi bağlamıyor abdullahçık, yerse "ühühü ama erekte oluyorum sonra cennetim kaçıyor" diye bana tekme at, çantamda 19 yaşından beri pırıl pırıl bir maket bıçağı var, cennet var mıymış yok muymuş görürsün, güzel bir deneyim olur senin için. kıppsss.<br/><br/>günün anlam ve önemine istinaden debe editi: atamız bize bunca hakkı, özgürlüğü bedevi larvalarından korkup onların istediği gibi davranalım diye bırakıp gitmedi, öyle "çk krkyrm" diyen mızmız mıymıntı kadın görmek istemiyorum, mıymıntı kadınları hiç sevmem.
    
   entry_writer: isolde
 - entry_name: |
@@ -175,7 +167,7 @@ data:
   entry_id: 63747947
   entry_content: |
     
-    ucuna taharet musluğu taktıktsan sonra boru çapını beş metre yapsan ne olur.  <br/><br/><a class="b" href="/?q=gerekmemeliktir">gerekmemeliktir</a> dolayısıyla.
+    ucuna taharet musluğu taktıktan sonra boru çapını beş metre yapsan ne olur.  <br/><br/><a class="b" href="/?q=gerekmemeliktir">gerekmemeliktir</a> dolayısıyla.
    
   entry_writer: marido
 - entry_name: |
@@ -215,7 +207,7 @@ data:
   entry_id: 63757928
   entry_content: |
     
-    birinci dünya savaşı, o günleri yaşayanların deyimiyle cihan harbi başlayınca dedemin dedesini askere almışlar. kastamonu'daki hemen her erkek gibi, uğruna türküler ağıtlar yakılan çanakkale'ye göndermişler. büyük dedem o ayrılık gününü anlatmıştı bir kere; babasını uğurlarken sadece helva yapabilmişler yolda yesin diye. kendi yememiş, dört yaşındaki oğluna, büyük dedeme vermiş. köyün tozlu yolunda yürüye yürüye uzaklaşmış. "bubamdan kalan tek hatıra bu" derdi büyük dedem. zaten ilk başlarda bir iki mektup gelmiş, sonra mektuplar kesilmiş. bu arada dayısını da çağırmışlar askere. yaklaşık iki sene sonra da, sadece künyeleri geri gelmiş gelibolu'dan, ikisi de şehit olmuşlar..<br/><br/>gelibolu'dan gelen o mektupların birinde duymuş dedem ilk mustafa kemal'i. hep merak etmiş o büyük adamı. işgal olmuş, isyan başlamış, savaşlar bitmiş, kurtuluş gelmiş. herkesin dilinde yine kemal paşa. derken "cumhuriyet" ilan edilmiş. bir gün, duymuş ki inebolu'ya gelecek mustafa kemal paşa. çok istemiş, evin tek erkeği olarak anasıyla ninesini bırakıp gidememiş, gidenleri dinlemiş. sonra işte, tesadüf ki yaşı gelince onun da askerliği ankara'ya çıkmış. çankaya'daki o eski köşkün bahçesinde çok nöbet tutmuş. yemin ederek anlatırdı "atatürk geceleri hiç uyumaz, ışığı hiç sönmezdi" diye. öyle bir sevmiş ki o günleri, askerliği bitince memleketinden bile vazgeçmiş. kocasıyla kardeşini savaşta kaybetmiş elif anasını da almış, yeni ülkenin başkentine, umutla ankara'ya gelmiş. <br/><br/>mustafa kemal bu toprağın insanına özgürlük, medeniyet, barış vermedi sadece. o, belki de en çok, yüzyıllarca bitmeyecek umut ve inanç verdi. dünyanın en çorak coğrafyasına cumhuriyet ağacını dikti. her şeye rağmen içimizdeki bu bitmeyen umut ve susmayan direniş, o koca ağacın dallarıdır, şehit dedelerimizin mirasıdır.<br/><br/>nur içinde yatsınlar.
+    birinci dünya savaşı, o günleri yaşayanların deyimiyle cihan harbi başlayınca dedemin dedesini askere almışlar. kastamonu'daki hemen her erkek gibi, uğruna türküler ağıtlar yakılan çanakkale'ye göndermişler. büyük dedem o ayrılık gününü anlatmıştı bir kere; babasını uğurlarken sadece helva yapabilmişler yolda yesin diye. kendi yememiş, dört yaşındaki oğluna, büyük dedeme vermiş. köyün tozlu yolunda yürüye yürüye uzaklaşmış. "bubamdan kalan tek hatıra bu" derdi büyük dedem. zaten ilk başlarda bir iki mektup gelmiş, sonra mektuplar kesilmiş. bu arada dayısını da çağırmışlar askere. yaklaşık iki sene sonra da, sadece künyeleri geri gelmiş gelibolu'dan, ikisi de şehit olmuşlar..<br/><br/>gelibolu'dan gelen o mektupların birinde duymuş dedem ilk mustafa kemal'i. hep merak etmiş o büyük adamı. işgal olmuş, isyan başlamış, savaşlar bitmiş, kurtuluş gelmiş. herkesin dilinde yine kemal paşa. derken "cumhuriyet" ilan edilmiş. bir gün, duymuş ki inebolu'ya gelecek mustafa kemal paşa. çok istemiş, evin tek erkeği olarak anasıyla ninesini bırakıp gidememiş, gidenleri dinlemiş. sonra işte, tesadüf ki yaşı gelince onun da askerliği ankara'ya çıkmış. çankaya'daki o eski köşkün bahçesinde çok nöbet tutmuş. yemin ederek anlatırdı "atatürk geceleri hiç uyumaz, ışığı hiç sönmezdi" diye. öyle bir sevmiş ki o günleri, askerliği bitince memleketinden bile vazgeçmiş. kocasıyla kardeşini savaşta kaybetmiş elif anasını da almış, yeni ülkenin başkentine, umutla ankara'ya gelmiş. <br/><br/>mustafa kemal bu toprağın insanına özgürlük, medeniyet, barış vermedi sadece. o, belki de en çok, yüzyıllarca bitmeyecek umut ve inanç verdi. dünyanın en çorak coğrafyasına cumhuriyet ağacını dikti. her şeye rağmen içimizdeki bu bitmeyen umut ve susmayan direniş, o koca ağacın dallarıdır, şehit dedelerimizin mirasıdır.<br/><br/>nur içinde yatsınlar.<br/><br/>(bkz: <a class="b" href="/entry/63766047">#63766047</a>)
    
   entry_writer: realsanto
 - entry_name: |
@@ -251,7 +243,7 @@ data:
    
   entry_writer: ahmetdogan
 - entry_name: |
-    gazi mustafa kemal'in 3000 kitap okuması olayı
+    gazi mustafa kemal'in 3 bin kitap okuması olayı
   entry_id: 63756561
   entry_content: |
     
@@ -299,14 +291,6 @@ data:
    
   entry_writer: yazarken ellerini birakan herif
 - entry_name: |
-    28 ekim 2016 halep operasyonu
-  entry_id: 63747466
-  entry_content: |
-    
-     <a class="b" href="/?q=ek%c5%9fi+dil+kurumu">ekşi dil kurumu</a> <sup class="ab"><a title="(bkz: edk)" href="/?q=edk" data-query="edk">*</a></sup> gururla sunar:<br/><br/><a class="b" href="/?q=muhalif+sava%c5%9f%c3%a7%c4%b1">muhalif savaşçı</a>: ösolu kafa kesen teröristler<br/><a class="b" href="/?q=operasyon">operasyon</a>: teröristlerin yağma saldırısı<br/><a class="b" href="/?q=rejimin+ku%c5%9fatmas%c4%b1">rejimin kuşatması</a>: birleşmiş milletler nezdinde yasal zemini olan bir iktidarın kendi şehrini teröristlerden kurtarmak için bulundurduğu güvenlik güçleri. hani tsk'nın güneydoğu şehirlerinde bulundurduğu güçler var ya onlar gibi aynı. <br/><a class="b" href="/?q=muhalif+birlikler">muhalif birlikler</a>: muhalif orospu çocuğu kafa kesen sünni teröristler<br/><a class="b" href="/?q=esed">esed</a>: resmi devletin resmi başkanı, doktor beşar esad<br/><a class="b" href="/?q=fetih+ordusu">fetih ordusu</a>: kafa kesen sünni terörist ordusu<br/><br/>senin ben kullandığın ikiyüzlü dilini sikeyim. <br/>eğer sen aynı kelimeleri pkk için de kullanamıyorsan öso için de kullanamazsın zira pkk bizim için neyse öso da suriyeliler için odur.
-   
-  entry_writer: i thank you very many
-- entry_name: |
     çakma başkomutan
   entry_id: 63757725
   entry_content: |
@@ -315,7 +299,7 @@ data:
    
   entry_writer: nerede o eski bayramlar
 - entry_name: |
-    ekşi sözlüğün şişirdiği balonlar
+    ekşi sözlük'ün şişirdiği balonlar
   entry_id: 63753163
   entry_content: |
     
@@ -335,8 +319,8 @@ data:
   entry_id: 63754208
   entry_content: |
     
-    uzun uzun pozisyon anlatmayalım.tek cümle ile maçın anasını siken kişidir.
-    
+    uzun uzun pozisyon anlatmayalım.tek cümle ile maçın 1-1 bitmesine sebep olan kişidir.  <br/><br/>edit: madem herkes okuyacak biraz yumuşatalım.
+   
   entry_writer: rakirikirealdo
 - entry_name: |
     başkasına aşık oldum diyen sevgili
@@ -399,7 +383,7 @@ data:
   entry_id: 63752583
   entry_content: |
     
-    evcilik oynamayın keyfinize bakın..<br/>herşeyi akışına bırakın. <br/>hatta bırakın dağınık kalsın.<br/>elin piçinden kurtardığınız hayatınızın kıymetini bilin.
+    evcilik oynamayın keyfinize bakın..<br/>herşeyi akışına bırakın. <br/>hatta bırakın dağınık kalsın.<br/>elin piçinden kurtardığınız hayatınızın kıymetini bilin.<br/><br/>gelen mesajlar üzerine zorunlu not:<br/>'elin piçi' lafına takılan yazarlar olmuş ve mesaj kutumu bombardımana maruz bırakmışlar. <br/>ben boşanarak canımı ve namusumu kurtardım o yüzden bırakın da sizin hergün tanımadığınız onlarca insana küfrettiğiniz bir mecrada ben canıma ve namusuma kasteden birine minik bir küfür edeyim.<br/>ayrıca kendi ayakları üzerinde duran bir kadın olarak boşanırken tek kuruş nafaka ve tazminat almadığım gibi boşanmayı kabul etmesi için 30 bin lira borcunu ödeyip üstüne bir de araba verdim. (30 bin borcu geçmişe dönüktü. düğün ve ev eşya masrafları değildi. zaten o kadar masraf bile yapmadık. her şey olabildiğince mütevazıydı)
    
   entry_writer: rengimelek
 ---
