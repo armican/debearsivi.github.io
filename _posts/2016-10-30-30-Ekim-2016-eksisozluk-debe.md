@@ -39,7 +39,7 @@ data:
   entry_id: 63764194
   entry_content: |
     
-    yahu nasıl bir kafa yetişmiş son 15 senede. ayrım yapmayı bilmeyen, gözü kör, kara cahil. kimsenin annesine küfür edecek değilim ancak bu görüntüler skandaldır. çok büyük skandaldır..<br/><br/>seni teröristlerden ayıran yegane sebebin hukuk devletine bağlı, medeni bir ülkenin düzenli bir ordusu olmandır.<br/><br/>bu görüntüler aşağılıktır. bu bir savaşsa eğer bu görüntüler savaş suçu içerir. yok eğer iç güvenlik meselesiyse savaş suçundan daha büyük problemdir.<br/><br/><a class="b" href="/?q=t%c3%bcrk+silahl%c4%b1+kuvvetleri">türk silahlı kuvvetleri</a> suçlularına gerekli cezayı derhal vererek bu kara lekeden kısmen de olsa kurtulmalıdır. <br/><br/>hatta şöyle de bir tahmin de bulunmak istiyorum. bunlar tsk mensubu olmaz. bunlar olsa olsa polis özel harekattır.<br/><br/>vicdanın sızlıyorsa ensesine kurşun sıkılan türk askerini düşün diyen arkadaş ve onu favorileyenler. çocuklar siz uçmuşsunuz. biz farklı dünyaların insanlarıyız. arkasını önünü düşünmeden böylesine boş konuşmak.. bu olay vicdan meselesi değildir. hak, hukuk, medeniyet ve en basitinden imajdır.<br/><br/>örneğin çatışma haberlerini iyi okuyun. <a class="b" href="/?q=teslim+ol+ihtar%c4%b1na">teslim ol ihtarına</a> uymayan, <a class="b" href="/?q=teslim+ol+%c3%a7a%c4%9fr%c4%b1s%c4%b1na">teslim ol çağrısına</a> ateşle karşılık veren teröristlerce güvenlik güçlerimiz arasında çıkan vs vs diye giden haberleri iyi okuyun. tsk açıklamalarını neden böyle yapıyor sizce hiç düşündünüz mü? gerizekalı mı büyüdünüz çocuklar siz? kendi kendinizi de mi hiç yetiştiremediniz. zannediyor musunuz ki her çatışma böyle teslim ol, olmazsanız ateş açarız falan diye başlıyor? hayır tabi ki. ancak sen hukuk devletisin. kafanız da mı çalışmıyor lan, gerisini de mi ben söyleyeyim. <br/><br/>bu görüntüleri savunmak için türk silahlı kuvvetlerinin ve türkiye cumhuriyeti'nin tüm doktrinlerini ve teamüllerini tanımadığınızı ilan etmeniz lazım. bu görüntüleri savunan gençler. yolunuz yol değil. siz akp/mhp birlikteliğinin eserisiniz ama eğitimle her şeyin üstesinden geleceğiz.<br/><br/>bakın görüntülerin savunulma şekilleri: <br/><br/>-askerin halinden asker anlar. o şartlarda siz olsanız siz de yaparsınız.<br/><br/>*hayır kardeşim siz aklınızı mı yitirdiniz? asker/polis zaten bu vahşi sonuçlar ortaya çıkmasın diye var. profesyonel güvenlik güçleriniz olmazsa o zaman bu dediğiniz normal karşılanır. ben giderim, bu pkk'lı puştun kafasına sıkarım. kimse bana neden sıktın diyemez. dayımı, abimi, babamı şehit etti, yolda kafasına sıktılar derim. ben duygusal olabilirim, ordu doktrini duygusal olamaz.<br/><br/>-bu teröristleri bugün öldürmesen yarın askerimizi şehit edecek.<br/><br/>*anlatamıyoruz sanırım. yahu sevgili kardeşlerim, can yoldaşlarım. etmeyin eylemeyin. argümanlarınız geçersiz ve talihsiz. siz dünyanın tüm devletleri tarafından meşruiyeti ve sınırları tanınmış ortadoğu'nun en çağdaş ülkesinin, türkiye cumhuriyeti'nin çocuklarısınız. sizin savaş verdiğiniz pkk terör örgütü, politik çıkar ilişkileriyle alakalı bile olsa dünyanın terör örgütü listesinde. dünyaca her türlü kabul görmüş bu durumu tersine çevirebilecek sebepler bunlardır. bu hareketleri desteklemek başımıza gelecek en büyük felakettir. uluslararası alanda yalnız kaldığınızda ise hiç kimseye derdinizi anlatamazsınız. hiç kimse dinlemez. buradan beylik beylik asarız, sikeriz demeye benzemez. her şeyinizi alırlar. bugün denge politikası güdersiniz, yarın onların çıkarları örtüşür rusya'sı abd'si anlaşır elinizde tek koz uluslararası medyada ve kamudaki imajınız, meşruiyetiniz kalır. <br/><br/>buyrun sırtlanlar hazırda <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/VEmZ9B.png" title="http://i.hizliresim.com/VEmZ9B.png">bekliyorlar</a>. <br/>şimdi bu başlıkları uluslararası haber ajanslarında hayal edin.<br/><br/>bu teröristlerin büyük kısmı zaten çatışmada telef oluyor. bir kaç tanesi teslim olmuş. teslim olmuş teröriste bunu yapamazsın. dağın başında olmanız sizi hem asker, hem savcı, hem yargıç, hem infaz memuru yapmaz. bunların hepsinin sırası var. <br/><br/>teslim olan adamı böyle infaz ettiğinizi ifşa etmeniz ise terör hareketine yalnızca güç katar. şunları yazarken bile utanıyorum artık. buraları okuyan terör örgütü sempatizanlarına keyif veriyoruz sadece.<br/><br/>önemli not: cümleye "hümanizm kasan", "tatlısu", "cihangir", falan diye bir kaç tane kıl kuyruk abinizden duyduğunuz şeyler ile başlayınca otomatik haklı olunmuyor.
+    yahu nasıl bir kafa yetişmiş son 15 senede. ayrım yapmayı bilmeyen, gözü kör, kara cahil. kimsenin annesine küfür edecek değilim ancak bu görüntüler skandaldır. çok büyük skandaldır..<br/><br/>seni teröristlerden ayıran yegane sebebin hukuk devletine bağlı, medeni bir ülkenin düzenli bir ordusu olmandır.<br/><br/>bu görüntüler aşağılıktır. bu bir savaşsa eğer bu görüntüler savaş suçu içerir. yok eğer iç güvenlik meselesiyse savaş suçundan daha büyük problemdir.<br/><br/><a class="b" href="/?q=t%c3%bcrk+silahl%c4%b1+kuvvetleri">türk silahlı kuvvetleri</a> suçlularına gerekli cezayı derhal vererek bu kara lekeden kısmen de olsa kurtulmalıdır. <br/><br/>hatta şöyle de bir tahmin de bulunmak istiyorum. bunlar tsk mensubu olmaz. bunlar olsa olsa polis özel harekattır.<br/><br/>vicdanın sızlıyorsa ensesine kurşun sıkılan türk askerini düşün diyen arkadaş ve onu favorileyenler. çocuklar siz uçmuşsunuz. biz farklı dünyaların insanlarıyız. arkasını önünü düşünmeden böylesine boş konuşmak.. bu olay vicdan meselesi değildir. hak, hukuk, medeniyet ve en basitinden imajdır.<br/><br/>örneğin çatışma haberlerini iyi okuyun. <a class="b" href="/?q=teslim+ol+ihtar%c4%b1na">teslim ol ihtarına</a> uymayan, <a class="b" href="/?q=teslim+ol+%c3%a7a%c4%9fr%c4%b1s%c4%b1na">teslim ol çağrısına</a> ateşle karşılık veren teröristlerce güvenlik güçlerimiz arasında çıkan vs vs diye giden haberleri iyi okuyun. tsk açıklamalarını neden böyle yapıyor sizce hiç düşündünüz mü? gerizekalı mı büyüdünüz çocuklar siz? kendi kendinizi de mi hiç yetiştiremediniz. zannediyor musunuz ki her çatışma böyle teslim ol, olmazsanız ateş açarız falan diye başlıyor? hayır tabi ki. ancak sen hukuk devletisin. kafanız da mı çalışmıyor lan, gerisini de mi ben söyleyeyim. <br/><br/>bu görüntüleri savunmak için türk silahlı kuvvetlerinin ve türkiye cumhuriyeti'nin tüm doktrinlerini ve teamüllerini tanımadığınızı ilan etmeniz lazım. bu görüntüleri savunan gençler. yolunuz yol değil. siz akp/mhp birlikteliğinin eserisiniz ama eğitimle her şeyin üstesinden geleceğiz.<br/><br/>bakın görüntülerin savunulma şekilleri: <br/><br/>-askerin halinden asker anlar. o şartlarda siz olsanız siz de yaparsınız.<br/><br/>*hayır kardeşim siz aklınızı mı yitirdiniz? asker/polis zaten bu vahşi sonuçlar ortaya çıkmasın diye var. profesyonel güvenlik güçleriniz olmazsa o zaman bu dediğiniz normal karşılanır. ben giderim, bu pkk'lı puştun kafasına sıkarım. kimse bana neden sıktın diyemez. dayımı, abimi, babamı şehit etti, yolda kafasına sıktılar derim. ben duygusal olabilirim, ordu doktrini duygusal olamaz.<br/><br/>-bu teröristleri bugün öldürmesen yarın askerimizi şehit edecek.<br/><br/>*anlatamıyoruz sanırım. yahu sevgili kardeşlerim, can yoldaşlarım. etmeyin eylemeyin. argümanlarınız geçersiz ve talihsiz. siz dünyanın tüm devletleri tarafından meşruiyeti ve sınırları tanınmış ortadoğu'nun en çağdaş ülkesinin, türkiye cumhuriyeti'nin çocuklarısınız. sizin savaş verdiğiniz pkk terör örgütü, politik çıkar ilişkileriyle alakalı bile olsa dünyanın terör örgütü listesinde. dünyaca her türlü kabul görmüş bu durumu tersine çevirebilecek sebepler bunlardır. bu hareketleri desteklemek başımıza gelecek en büyük felakettir. uluslararası alanda yalnız kaldığınızda ise hiç kimseye derdinizi anlatamazsınız. hiç kimse dinlemez. buradan beylik beylik asarız, sikeriz demeye benzemez. her şeyinizi alırlar. bugün denge politikası güdersiniz, yarın onların çıkarları örtüşür rusya'sı abd'si anlaşır elinizde tek koz uluslararası medyada ve kamudaki imajınız, meşruiyetiniz kalır. <br/><br/>buyrun sırtlanlar hazırda <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/VEmZ9B.png" title="http://i.hizliresim.com/VEmZ9B.png">bekliyorlar</a>. <br/>şimdi bu başlıkları uluslararası haber ajanslarında hayal edin.<br/><br/>bu teröristlerin büyük kısmı zaten çatışmada telef oluyor. bir kaç tanesi teslim olmuş. teslim olmuş teröriste bunu yapamazsın. dağın başında olmanız sizi hem asker, hem savcı, hem yargıç, hem infaz memuru yapmaz. bunların hepsinin sırası var. <br/><br/>teslim olan adamı böyle infaz ettiğinizi ifşa etmeniz ise terör hareketine yalnızca güç katar. şunları yazarken bile utanıyorum artık. buraları okuyan terör örgütü sempatizanlarına keyif veriyoruz sadece.<br/><br/>önemli not: cümleye "hümanizm kasan", "tatlısu", "cihangir", falan diye bir kaç tane kıl kuyruk abinizden duyduğunuz şeyler ile başlayınca otomatik haklı olunmuyor.<br/><br/>edit: şöyle tecrübeli bir ik çalışanı mesaj atsa. insanlık için küçük, benim için büyük bir sorum var. neredenbileydim@gmail
    
   entry_writer: nikimekadar
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 63770638
   entry_content: |
     
-    676 sayılı khk ile üniversitelerde yapılan rektörlük seçimlerinin kaldırılması durumu. bunu yapanlar, "cumhuriyet seçimle gelmedi" diye ağlayıp padişahlığa özenenlerdir. "allah bizi okumuşların şerrinden korusun" diye dua edenlerdir..<br/><br/>he seçim varken ne oluyordu? neredeyse raşit tükel'in yarısı kadar oy alan istanbul üniversitesi rektörü mahmut ak, "daha her şey bitmedi" diyebilecek kadar arsızlaşıyordu. <br/><br/>yiyin efendiler yiyin, aksırıncaya kadar, tıksırıncaya kadar yiyin.
+    676 sayılı khk ile üniversitelerde yapılan rektörlük seçimlerinin kaldırılması durumu. bunu yapanlar, "cumhuriyet seçimle gelmedi" diye ağlayıp padişahlığa özenenlerdir. "allah bizi okumuşların şerrinden korusun" diye dua edenlerdir..<br/><br/>he seçim varken ne oluyordu? neredeyse raşit tükel'in yarısı kadar oy alan istanbul üniversitesi rektörü mahmut ak, "daha her şey bitmedi" diyebilecek kadar arsızlaşıyordu. <br/><br/>yiyin efendiler yiyin, aksırıncaya kadar, tıksırıncaya kadar yiyin.<br/><br/>debe editi: henuz bir universite ogrencisiyken, 50/d mucadelelerinde tanidim onlari. onlar is guvencesi icin mucadele ediyorlardi, biz hocama dokunma deyip dayanisiyorduk. en onde, hic yilmadan binlerce arastirma gorevlisinin hayatini kurtardilar. <br/>50/d eylemlerinin one cikan temsilcileri levent dolek, cemil ozansu, barkın asal, savaş karabulut, deniz morva ve daha bircok egitimsenli hoca, bu khk ile universiteden atildilar. <br/>once feto'den gozaltina alinan, sonra serbest birakilan <a class="b" href="/?q=taylan+eren+yenilmez">taylan eren yenilmez</a> de atildi.<br/>atilanlardan erhan kelesoglu <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/erhankelesoglu/status/792483539094822912" title="https://twitter.com/erhankelesoglu/status/792483539094822912">ne demis</a>: <br/>"bu akşamki khk ile üniversiteden atıldım.iü'de benimle birlikte atılan herkes eğitimsenli, muhalif, solcu arkadaşlarım. rütbe der takarız."<br/><br/>onlarin sayelerinde halen universitelerde gorevlerine devam eden akademisyenler, dayanismazsaniz insan degilsiniz.
    
   entry_writer: evrim halkasi
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 63762482
   entry_content: |
     
-    arda gibi cumhuriyet değerlerine taban tabana zıt bir partinin bayrak adamının içinde olduğu samimiyetten uzak kutlamalardır. sen 15 temmuz adamısın arda 29 ekimler ağır gelir sana..<br/><br/>edit : lafın gelişi adam.
+    arda gibi cumhuriyet değerlerine taban tabana zıt bir partinin bayrak adamının içinde olduğu samimiyetten uzak kutlamalardır. sen 15 temmuz adamısın arda 29 ekimler ağır gelir sana..<br/><br/>edit : lafın gelişi adam.<br/><br/>debedit : inanan inanmayan tüm beşiktaşlıları nazar duası okumaya davet ediyorum. olm maç izlemeye korkuyorum sakatlanıp yarıda bırakıcam diye :) bi de yalçın karadeniz denen hain beşiktaş divan kurulu başkanlığını bırak git demirorenlerin ayakciligini yap. asıl işin o çünkü.
    
   entry_writer: lucy lucifer
 - entry_name: |
@@ -87,8 +87,8 @@ data:
   entry_id: 63766937
   entry_content: |
     
-    olm durun lan, batı hayranı bizdik. size ne oluyor şimdi?
-    
+    olm durun lan, batı hayranı bizdik. size ne oluyor şimdi??<br/><br/>debe editi: ...
+   
   entry_writer: oldu ben kalkayim artik
 - entry_name: |
     chp'nin 29 ekim cumhuriyet bayramı afişi
@@ -107,19 +107,11 @@ data:
    
   entry_writer: campio
 - entry_name: |
-    recep tayyip erdoğan
-  entry_id: 63761492
-  entry_content: |
-    
-    15 temmuz 2016 saat 16.00 sıralarında darbeyi haber alıp 200'den fazla kişinin hayatını kaybetmesine göz yumulması talimatını veren kişi de benim henüz tanışmadığım kayınçomdur. insanlar bile isteye ölüme bir kez daha gönderilirken herkes herşeyi biliyordu..<br/><br/>sayın cumhurbaşkanına selamlar saygılar 15 temmuz fatihidir kendisi. gazi fatih recep tayyip erdoğan bey diyeceksiniz!!!
-   
-  entry_writer: elbistan
-- entry_name: |
     14 yılda şeriat getirememek
   entry_id: 63766047
   entry_content: |
     
-    bizim yobazların atatürk denince kudurmasının asıl sebebi bu..<br/><br/>bakıyorsun, adam bir akşam yemek yerken "yarın cumhuriyeti ilan edeceğiz" diyor, hakkaten de ediyor. sonra elini masaya bir vuruyor, şak diye saltanatı kaldırıyor. kesmiyor hilafeti de kaldırıyor. bundan sonra şapka takacaksınız lan diyor, tekkeleri kapatıyor, canı sıkılıyor harf devrimi yapıyor, harf! tak diye bir gecede cahil bırakıyor, dedesinin mezar taşını okutmuyor adama. kadınlar da oy verecek diyor, herkesin soyadı olacak, "arşın okka ney lan, al bak bu metre" diyor. laiklik diyor laiklik.<br/><br/>bunlar gibi kıvırmıyor, kıvranmıyor. "imirikin tipi bişkinlik sistimi" diye falan yarım ağız konuşmuyor, "yitmiz ivi ivit" diyen ibibikleri yemleyip piyasaya salmıyor. gece rüyasında görüyor, sabah ilk iş tamam, hayırlı olsun. öğlen ismet'le çay keyfinde aklına bir şey geliyor, tak, mesai bitmeden kanun onaylanmış bile. yahu gün bitmeden her işlem tamam, 14 yıl ne öyle. hop, çekiyor emaneti, sağlıyor adaleti.<br/><br/>bunlar da daha aklını uçkurundan alıp şeriat getirecek. <br/>getir canım soğumasın.
+    bizim yobazların atatürk denince kudurmasının asıl sebebi bu..<br/><br/>bakıyorsun, adam bir akşam yemek yerken "yarın cumhuriyeti ilan edeceğiz" diyor, hakkaten de ediyor. sonra elini masaya bir vuruyor, şak diye saltanatı kaldırıyor. kesmiyor hilafeti de kaldırıyor. bundan sonra şapka takacaksınız lan diyor, tekkeleri kapatıyor, canı sıkılıyor harf devrimi yapıyor, harf! tak diye bir gecede cahil bırakıyor, dedesinin mezar taşını okutmuyor adama. kadınlar da oy verecek diyor, herkesin soyadı olacak, "arşın okka ney lan, al bak bu metre" diyor. laiklik diyor laiklik.<br/><br/>bunlar gibi kıvırmıyor, kıvranmıyor. "imirikin tipi bişkinlik sistimi" diye falan yarım ağız konuşmuyor, "yitmiz ivi ivit" diyen ibibikleri yemleyip piyasaya salmıyor. gece rüyasında görüyor, sabah ilk iş tamam, hayırlı olsun. öğlen ismet'le çay keyfinde aklına bir şey geliyor, tak, mesai bitmeden kanun onaylanmış bile. yahu gün bitmeden her işlem tamam, 14 yıl ne öyle. hop, çekiyor emaneti, sağlıyor adaleti.<br/><br/>atatürk istese hepimizi ertesi sabah selefi sakalla uyandırırdı. bunlar mı getirecek?<br/>getir canım soğumasın.
    
   entry_writer: realsanto
 - entry_name: |
@@ -135,7 +127,7 @@ data:
   entry_id: 63769471
   entry_content: |
     
-    benim için liste başında, "beş para etmez adamlara aşık olmak" gelir..<br/>yoksa taraklı ayağıma giydiğim stiletto nedir ki ?
+    benim için liste başında, "beş para etmez adamlara aşık olmak" gelir..<br/>yoksa taraklı ayağıma giydiğim stiletto nedir ki ?<br/><br/>debedit: bana "krepkadini hn" seklinde hitap ederek, piremseslik olan unvanimi tenzil-i rutbe ile 3. maslahatguzarlik konumuna getiren eski sevgilime tesekkuru bir borc bilirim.<br/>diplomatik iliskiler üzerine viyana konvansiyonu 1961
    
   entry_writer: krepkadini
 - entry_name: |
@@ -151,7 +143,7 @@ data:
   entry_id: 63774417
   entry_content: |
     
-    karşısında fatih terim gibi bir kabadayı olsaydı da o soruya "ben de ananın ne iş yaptığını merak ediyorum" şeklinde bir cevap verseydi içimin yağları nasıl erirdi, anlatamam..<br/><br/>gazeteciymiş.
+    karşısında fatih terim gibi bir * olsaydı da o soruya "ben de ananın ne iş yaptığını merak ediyorum" şeklinde bir cevap verseydi içimin yağları nasıl erirdi, anlatamam..<br/><br/>gazeteciymiş.<br/><br/>edit: fatih terim'e atfettiğim sifat hukuka aykırılık barindirabilirmis. o nedenle * oldu orası.
    
   entry_writer: exaggeration
 - entry_name: |
@@ -175,7 +167,7 @@ data:
   entry_id: 63774929
   entry_content: |
     
-    "goroklo onlomlor olondo/olonoyor" .  <br/>şaka mısınız lan siz?
+    "goroklo onlomlor olondo/olonoyor" .  <br/>şaka mısınız lan siz?<br/><br/>(bkz: <a class="b" href="/entry/63781424">#63781424</a>) ben yazacaktım da sağolsun yazılmış.
    
   entry_writer: seviyorsevmiyorseviyorsevmiyorseviyor
 - entry_name: |
@@ -199,7 +191,7 @@ data:
   entry_id: 63772587
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=tadelle">tadelle</a>) şunun verdiği tat hiçbir isveç çikolatasında, alman çikolatasında yok. belki çocukluğumdan kalan nostaljik bir tat olduğu içindir bilemiyorum.
+    (bkz:  <a class="b" href="/?q=tadelle">tadelle</a>) şunun verdiği tat hiçbir isviçre çikolatasında, alman çikolatasında yok. belki çocukluğumdan kalan nostaljik bir tat olduğu içindir bilemiyorum.<br/><br/>edit: isviçre yerine isveç yazmışım, kimse de demiyor sen ne diyorsun diye. aşk olsun! longitudinale posteriore'e de teşekkürler.
    
   entry_writer: melodramatic fool
 - entry_name: |
@@ -271,7 +263,7 @@ data:
   entry_id: 63770662
   entry_content: |
     
-    vuran adamın bağırarak "terörist ile kolkola olmanın bedelini odeyeceksiniz" dediği paylaşıldı televizyonda görgü tanıkları tarafından.  <br/><br/>kolkola olmanın bedeli<br/>terörist ile kolkola olmak<br/><br/>sizin zihninizde bu cümle ile ne canlanıyor bilmiyorum ama benim zihnimde habur canlanıyor. pkk kimlik kontrolü yaparken sessiz kalan devletin valileri canlanıyor. ne kadar algı operasyonu yaparsanız yapın, <a class="b" href="/?q=vatana+ihanet">vatana ihanet</a> cezasiz kalmayacak. er ya da geç yargılanacaksınız!
+    vuran adamın bağırarak "terörist ile kolkola olmanın bedelini odeyeceksiniz" dediği paylaşıldı televizyonda görgü tanıkları tarafından.  <br/><br/>kolkola olmanın bedeli<br/>terörist ile kolkola olmak<br/><br/>sizin zihninizde bu cümle ile ne canlanıyor bilmiyorum ama benim zihnimde habur canlanıyor. pkk kimlik kontrolü yaparken sessiz kalan devletin valileri canlanıyor. ne kadar algı operasyonu yaparsanız yapın, <a class="b" href="/?q=vatana+ihanet">vatana ihanet</a> cezasiz kalmayacak. er ya da geç yargılanacaksınız!<br/><br/>debe: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=yFZXcAjjUtM" title="https://m.youtube.com/watch?v=yFZXcAjjUtM">bülent tezcan - gezi parkı konuşması</a> bu bile ne kadar düzgün insan olduğu ve neden vurulduğu hakkında bilgi vermeye yeter<br/><br/>link için <a class="b" href="/?q=only+alcoholica">only alcoholica</a>'ya teşekkür ederim.
    
   entry_writer: kaptankanca
 - entry_name: |
@@ -287,7 +279,7 @@ data:
   entry_id: 63770048
   entry_content: |
     
-    merhabalar. bu konuyu ekşi duyuru'ya yazmayı planlamıştım ama burdan daha çok kişiye ulaşabileceğimi düşündüm. burdur'un tefenni ilçesine yaklaşık 10 km mesafede en son 4 gün önce görülmüş, sahipli olduğu düşünülen ve açlıktan ölmek üzere olan bir köpek kayıptır. en son yakınlardaki bir çeşme civarında 2 tane fotoğrafı çekilmiş..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/RQ2m0Y.jpg" title="http://i.hizliresim.com/RQ2m0Y.jpg">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/5YbPQd.jpg" title="http://i.hizliresim.com/5YbPQd.jpg">2</a><br/><br/>bu da 4 gün önce hakkında atılmış <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sevdauner/status/790231282819145729" title="https://twitter.com/sevdauner/status/790231282819145729">tweet</a>.<br/>yalnız tweette belirtilen korkuteli bilgisi yanlıştır, daha sonrasında tefenni yakınlarında görüldüğü haberi alınmış. bu arada fotoğrafları kimin çektiği bilinmiyor.<br/><br/>belediye ve jandarmayla konuşulmuş, civardaki köylülere telefon numarası bırakılmış fakat hala köpek bulunamamış. hayvan derneklerinden de ses seda çıkmamış.<br/><br/>o civarda olan veya yakınlarında tanıdığı olan birileri yardımcı olabilirse gerçekten çok iyi olur. umarım sağ bulunabilir. <br/><br/>iletişim için canoduman_@hotmail.com adresine veya burdan bana mesaj yoluyla ulaşabilirsiniz.
+    merhabalar. bu konuyu ekşi duyuru'ya yazmayı planlamıştım ama burdan daha çok kişiye ulaşabileceğimi düşündüm. burdur'un tefenni ilçesine yaklaşık 10 km mesafede en son 4 gün önce görülmüş, sahipli olduğu düşünülen ve açlıktan ölmek üzere olan bir köpek kayıptır. en son yakınlardaki bir çeşme civarında 2 tane fotoğrafı çekilmiş..<br/><br/>bulana para ödülü verilecektir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/RQ2m0Y.jpg" title="http://i.hizliresim.com/RQ2m0Y.jpg">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/5YbPQd.jpg" title="http://i.hizliresim.com/5YbPQd.jpg">2</a><br/><br/>bu da 4 gün önce hakkında atılmış <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sevdauner/status/790231282819145729" title="https://twitter.com/sevdauner/status/790231282819145729">tweet</a>.<br/>yalnız tweette belirtilen korkuteli bilgisi yanlıştır, daha sonrasında tefenni yakınlarında görüldüğü haberi alınmış. bu arada fotoğrafları kimin çektiği bilinmiyor.<br/><br/>belediye ve jandarmayla konuşulmuş, civardaki köylülere telefon numarası bırakılmış fakat hala köpek bulunamamış. hayvan derneklerinden de ses seda çıkmamış.<br/><br/>o civarda olan veya yakınlarında tanıdığı olan birileri yardımcı olabilirse gerçekten çok iyi olur. umarım sağ bulunabilir. <br/><br/>iletişim için canoduman_@hotmail.com adresine veya burdan bana mesaj yoluyla ulaşabilirsiniz.<br/><br/>edit: para ödülü verileceği bilgisi eklendi.
    
   entry_writer: limitsiz karakter iceren nick
 - entry_name: |
@@ -391,7 +383,7 @@ data:
   entry_id: 63777759
   entry_content: |
     
-     <a class="b" href="/?q=greenwich">greenwich</a> saat sistemi'ne uymayan ikinci ülke olmamızdan kaynaklıdır. diğeri de <a class="b" href="/?q=kuzey+kore">kuzey kore</a>. süper bi' ekip olduk.
+     <a class="b" href="/?q=greenwich">greenwich</a> saat sistemi'ne uymayan ikinci ülke olmamızdan kaynaklıdır. diğeri de <a class="b" href="/?q=kuzey+kore">kuzey kore</a>. süper bi' ekip olduk.<br/><br/>edit : insanları yanlış bilgi vermekle itham etmeden önceden biraz düşünmek gerekiyor. yaz bitiyor ve biz saatimizi değiştirmiyoruz. demek ki yaz saati uygulaması sene boyuna yayılıyor. elbette yaz saati uygulamayan bi' sürü ülke var. ama biz greenwich'i kışın terk edip yaz saatine devam ediyoruz. farkımız bu. <a class="b" href="/?q=kuzey+kore">kuzey kore</a>'de de, başkanın emriyle saatler dünya saatinden yarım saat ayrıldı.
    
   entry_writer: kasar yaza
 - entry_name: |
