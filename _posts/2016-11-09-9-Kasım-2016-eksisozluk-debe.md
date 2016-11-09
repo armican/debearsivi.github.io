@@ -23,7 +23,7 @@ data:
   entry_id: 63968407
   entry_content: |
     
-    akp'nin başarısız olduğunu anlamak için ekonomiden çok iyi anlamak gerekiyor mu? şu veri bile tek başına bir şey ifade etmiyor mu??<br/><br/>nerdeyse 3 katına çıkmış. hele de geziciler yüzünden dolar 1.70'den 1.90'a çıktı diye ortalığı velveleye veren, adaklar adayan, kurbanlar kesen sizlerin paradigmasından bakınca, başarısızlık güneş gibi parlıyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.haberturk.com/yazarlar/yigit-bulut/515795-1-dolar-1-tl-olur-mu" title="http://www.haberturk.com/yazarlar/yigit-bulut/515795-1-dolar-1-tl-olur-mu">sene 2010 bakın yiğit bulut ne tartışıyor</a><br/><br/>ekonomik krizle gideceksiniz. tıpkı geldiğiniz gibi gideceksiniz. başka partiler kurulacak. insanlar paralarını piyasadan çekecekler. o boktan esnafınızdan da alışveriş yapmıyorlar. palalı esnafınız artık kendini palalar.
+    akp'nin başarısız olduğunu anlamak için ekonomiden çok iyi anlamak gerekiyor mu? şu veri bile tek başına bir şey ifade etmiyor mu??<br/><br/>nerdeyse 3 katına çıkmış. hele de geziciler yüzünden dolar 1.70'den 1.90'a çıktı diye ortalığı velveleye veren, adaklar adayan, kurbanlar kesen sizlerin paradigmasından bakınca, başarısızlık güneş gibi parlıyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.haberturk.com/yazarlar/yigit-bulut/515795-1-dolar-1-tl-olur-mu" title="http://www.haberturk.com/yazarlar/yigit-bulut/515795-1-dolar-1-tl-olur-mu">sene 2010 bakın yiğit bulut ne tartışıyor</a><br/><br/>ekonomik krizle gideceksiniz. tıpkı geldiğiniz gibi gideceksiniz. başka partiler kurulacak. insanlar paralarını piyasadan çekecekler. o boktan esnafınızdan da alışveriş yapmıyorlar. palalı esnafınız artık kendini palalar.<br/><br/>bunları da buraya bırakıyorum. <br/><a class="b" href="/entry/63981452">#63981452</a><br/><a class="b" href="/entry/63968490">#63968490</a><br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27deki+muhaliflere+%c3%b6neriler">türkiye'deki muhaliflere öneriler</a>)
    
   entry_writer: ismin e hali
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 63969702
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=malum+soru+arkada%c5%9flar">malum soru arkadaşlar</a>)
+    (bkz:  <a class="b" href="/?q=malum+soru+arkada%c5%9flar">malum soru arkadaşlar</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>:<br/>küfür, hakaret ve <a class="b" href="/?q=ter%c3%b6r+sevicili%c4%9fi">terör seviciliği</a> içermeyen,<br/>blog yazarları tarafından kurulmuş güzel bir sözlük var.<br/><br/>çaylak olmadan direkt yazar olarak başlayabiliyorsunuz.<br/>normalde davet kodu olmadan üye alımı yok fakat bugüne özel<br/><a class="b" href="/?q=nov3mber">nov3mber</a> koduyla üye olabilirsiniz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://blogsozluk.com/">http://blogsozluk.com/</a>
    
   entry_writer: straples
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 63966473
   entry_content: |
     
-    görüntüden anladığım kadarıyla demir ya da benzeri bir maddeden yapılmış heykel. demirini satmak için çalmışlardır..<br/><br/>o boğa nasıl yıllardır orada duruyor, hayret.
+    görüntüden anladığım kadarıyla demir ya da benzeri bir maddeden yapılmış heykel. demirini satmak için çalmışlardır..<br/><br/>o boğa nasıl yıllardır orada duruyor, hayret.<br/><br/>edit: gelen mesajlara göre, heykel bronzmuş.
    
   entry_writer: jedilost
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 63965781
   entry_content: |
     
-    içinde türban'ın "t" si yoktur..<br/><br/>isteyen istediğini giysin, isterse kafasına kafes yaptırıp anahtarı denize atsın.<br/><br/>fakat şu gerçeği kabul etmek, olayları analiz etme açısından son derece önemlidir.<br/><br/>türban türkiye'ye bilinçli bir şekilde enjekte edilmiştir. 1980 öncesi istediğiniz video, arşiv, belgeseli tarayabilirsiniz. toplumda karşılığı %1 bile olmayan bir "üniformayı", toplumsal bir norm haline getirildiği fark edeceksiniz.
+    içinde türban'ın "t" si yoktur..<br/><br/>isteyen istediğini giysin, isterse kafasına kafes yaptırıp anahtarı denize atsın.<br/><br/>fakat şu gerçeği kabul etmek, olayları analiz etme açısından son derece önemlidir.<br/><br/>türban türkiye'ye bilinçli bir şekilde enjekte edilmiştir. 1980 öncesi istediğiniz video, arşiv, belgeseli tarayabilirsiniz. toplumda karşılığı %1 bile olmayan bir "üniforma"nın, toplumsal bir norm haline getirildiğini fark edeceksiniz.<br/><br/>edit: imla
    
   entry_writer: orpro
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 63966665
   entry_content: |
     
-    edit: gelip "sadece türkiye'de mi olüyür" diyenlere kafam girsin. iyi o zaman kanada'da arjantin'de falan da oluyorsa sıkıntı yok, gönül rahatlığıyla her tuttuğumuz hayvana işkence edebiliriz. bişey derlerse "sadece biz mi yapüyüz" deriz. ayıya bak ya..<br/><br/>videoda yazılana göre çocuklar yavru bir köpeği eğlence olsun diye tutkala batırıyorlar. "heart of rescue" diye türkiye'de faaliyet veren bir organizasyon köpeği bulup kliniğe alıyor. köpeğin hali ve gözlerindeki korku içler acısı. <br/><br/>çocuklar neyin doğru neyin yanlış olduğunu ancak biz erken yaşta gösterirsek öğrenebilirler. <br/>bir sürü yeni evlenen ve çocuk yapan çift görüyorum. herkesi çocuklarına hayvanlara zarar vermeme bilincini aşılamaya davet ediyorum. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ySdNQC-2-d4" title="https://www.youtube.com/watch?v=ySdNQC-2-d4">link 1</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=awtervVIfqI" title="https://www.youtube.com/watch?v=awtervVIfqI">güncelleme</a>
+    debe editi: normalde debe editi yapmam ama yarın 10 kasım olduğu için ve başlıkla ilgisi olduğunu düşündüğüm için  <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/LQkgJ0.jpg" title="http://i.hizliresim.com/LQkgJ0.jpg">bunu</a> buraya bırakıyorum. ilelebet!<br/><br/>edit: gelip "sadece türkiye'de mi olüyür" diyenlere kafam girsin. iyi o zaman kanada'da arjantin'de falan da oluyorsa sıkıntı yok, gönül rahatlığıyla her tuttuğumuz hayvana işkence edebiliriz. bişey derlerse "sadece biz mi yapüyüz" deriz. ayıya bak ya.<br/><br/>videoda yazılana göre çocuklar yavru bir köpeği eğlence olsun diye tutkala batırıyorlar. "heart of rescue" diye türkiye'de faaliyet veren bir organizasyon köpeği bulup kliniğe alıyor. köpeğin hali ve gözlerindeki korku içler acısı. <br/><br/>çocuklar neyin doğru neyin yanlış olduğunu ancak biz erken yaşta gösterirsek öğrenebilirler. <br/>bir sürü yeni evlenen ve çocuk yapan çift görüyorum. herkesi çocuklarına hayvanlara zarar vermeme bilincini aşılamaya davet ediyorum. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ySdNQC-2-d4" title="https://www.youtube.com/watch?v=ySdNQC-2-d4">link 1</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=awtervVIfqI" title="https://www.youtube.com/watch?v=awtervVIfqI">güncelleme</a>
    
   entry_writer: icimde olen biri var
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 63976511
   entry_content: |
     
-    henüz hepsini izleyemesem de geçen gün anacığımla bi sahnesine rastlayıp bizi derin düşüncelere daldırmış olan dizidir.  <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şu babası yunan oldu diye kendini yerden yere atan kızı izledik. ben bi yandan mandalinamı soyup diğer yandan çay içerken diziye direktif veriyordum:<br/><br/>"tamam lan abartma yunansa yunan kaç yıl olmuş görmemişsin git sarıl öp babanı ağlama bu kadar" falan.. sonra kadın anam dedi ki ; düşünsene baban akepeli olmuş elinde ampullü bayrak eve geliyor ?<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>düşünemedim !<br/><br/>aboovvv içim titredi yemin ediyorum.. 3 dakika falan sessizce bakıştık. sonra karar verdik: evden kovarız.... canım babam akepeli olmadığın için teşekkürler seni çok seviyorum
+    henüz hepsini izleyemesem de geçen gün anacığımla bi sahnesine rastlayıp bizi derin düşüncelere daldırmış olan dizidir.  <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şu babası yunan oldu diye kendini yerden yere atan kızı izledik. ben bi yandan mandalinamı soyup diğer yandan çay içerken diziye direktif veriyordum:<br/><br/>"tamam lan abartma yunansa yunan kaç yıl olmuş görmemişsin git sarıl öp babanı ağlama bu kadar" falan.. sonra kadın anam dedi ki ; düşünsene baban akepeli olmuş elinde ampullü bayrak eve geliyor ?<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>düşünemedim !<br/><br/>aboovvv içim titredi yemin ediyorum.. 3 dakika falan sessizce bakıştık. sonra karar verdik: evden kovarız.... canım babam akepeli olmadığın için teşekkürler seni çok seviyorum<br/><br/>edit: debemin zamanlaması manidar olunca sosyal mesaj vermeden edemedim.. okuyun zaten eliniz paylaşa gidecek : imam hatipler kapatılsın!
    
   entry_writer: a puck
 - entry_name: |
@@ -175,7 +175,7 @@ data:
   entry_id: 63963116
   entry_content: |
     
-    hayatım boyu ilk defa milliyetçi muhafazakar bir sigirin seçilmesini istiyorum naaparsin konjonktür.  <br/>hele bu kadın haklari vs.diyenleri anlamıyorum.size ne amk amerika'nin kadınının derdinden?sen kendi götünü kurtarmaya baksana!<br/>dünyanin en belalı coğrafyasına komşusun.mabadında resmen ayı bağırıyor.allaha emanet yasiyorsun.korka korka metroya biniyorsun.ama eşek gibi mecbursun.bugün de eve sağ salim döndük diye şükreder hale gelmişiz.<br/>bu orospu da göstere göstere bela olup yagacağım,silahlandiracagim diyor.obama dönemi fragmandi muhtemelen.iyice sikip atacak ortalığı ,mülteci meselesi daha da büyüyecek kesin,ucu olasi dünya savaşına dokunduğunda ne bok yicez?<br/>kadinin maillerle bir sürü pisliği döküldü,silah tuccarlari,feto kadina yatirim yapiyor.danismaniyla lezbiyen ilişki yaşıyor iddiaları var,okkult satanist ayinler ve orgutlerle anılıyor ama neymis trump bi kaç sene evvel bi mailinde amcik demismis!ölümü gormüsün sıtmayı seveceksin.başka çaren var mı?
+    hayatım boyu ilk defa milliyetçi muhafazakar bir sigirin seçilmesini istiyorum naaparsin konjonktür.  <br/>hele bu kadın haklari vs.diyenleri anlamıyorum.size ne amk amerika'nin kadınının derdinden?sanki adam kadinlarin oy verme ve egitim hakkini elinden alip eve mi hapsedecek?sen kendi götünü kurtarmaya baksana!<br/>dünyanin en belalı coğrafyasına komşusun.mabadında resmen ayı bağırıyor.allaha emanet yasiyorsun.korka korka metroya biniyorsun.ama eşek gibi mecbursun.bugün de eve sağ salim döndük diye şükreder hale gelmişiz.<br/>bu orospu da göstere göstere bela olup yagacağım,silahlandiracagim diyor.obama dönemi fragmandi muhtemelen.iyice sikip atacak ortalığı ,mülteci meselesi daha da büyüyecek kesin,ucu olasi dünya savaşına dokunduğunda ne bok yicez?<br/>kadinin maillerle bir sürü pisliği döküldü,silah tuccarlari,feto kadina yatirim yapiyor.danismaniyla lezbiyen ilişki yaşıyor iddiaları var,okkult satanist ayinler ve orgutlerle anılıyor ama neymis trump bi kaç sene evvel bi mailinde amcik demismis!ölümü gormüsün sıtmayı seveceksin.başka çaren var mı?
    
   entry_writer: kurtulamazsiniz
 - entry_name: |
@@ -235,7 +235,7 @@ data:
     
   entry_writer: lightofearendil
 - entry_name: |
-    turkuvaz grubunu boykot ediyoruz
+    turkuvaz medya grubu'nu boykot ediyoruz
   entry_id: 63968311
   entry_content: |
     
@@ -303,7 +303,7 @@ data:
   entry_id: 63971587
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=t%c3%bcrk%c3%a7e+neydi+t%c3%bcrk%c3%a7e+emekti">türkçe neydi türkçe emekti</a>)
+    (bkz:  <a class="b" href="/?q=t%c3%bcrk%c3%a7e+neydi+t%c3%bcrk%c3%a7e+emekti">türkçe neydi türkçe emekti</a>)<br/><br/>edit: başlık düzeltilmiş.
    
   entry_writer: macenas
 - entry_name: |
@@ -311,7 +311,7 @@ data:
   entry_id: 63966745
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=g%c3%b6te+g%c3%b6t+demek">göte göt demek</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/koseyazisi/627536/Yeni_Turkiye_mamulu_bir_yaratik.html" title="http://www.cumhuriyet.com.tr/koseyazisi/627536/Yeni_Turkiye_mamulu_bir_yaratik.html">http://www.cumhuriyet.com.tr/…mulu_bir_yaratik.html</a>
+    (bkz:  <a class="b" href="/?q=g%c3%b6te+g%c3%b6t+demek">göte göt demek</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/koseyazisi/627536/Yeni_Turkiye_mamulu_bir_yaratik.html" title="http://www.cumhuriyet.com.tr/koseyazisi/627536/Yeni_Turkiye_mamulu_bir_yaratik.html">http://www.cumhuriyet.com.tr/…mulu_bir_yaratik.html</a><br/><br/>debe editi: <a class="b" href="/?q=%23imamhatiplerkapat%c4%b1ls%c4%b1n">#imamhatiplerkapatılsın</a>
    
   entry_writer: cahit tomruk
 - entry_name: |
