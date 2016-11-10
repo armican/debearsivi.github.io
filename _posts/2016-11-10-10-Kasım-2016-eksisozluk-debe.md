@@ -47,7 +47,7 @@ data:
   entry_id: 63984694
   entry_content: |
     
-    bizimki eyyy amerika dediğinde, obama bütün efendiliği ile çomarla çomar olunmaz diyerek yanıt vermiyordu ya da kibarca büyükelçi ile uyarıyordu. aynı durum yaşandığında senin eyyy amerika diyen ağzını sikerim deme ihtimali olan adam başkan oluyor..<br/><br/>edit: oldu.
+    bizimki eyyy amerika dediğinde, obama bütün efendiliği ile çomarla çomar olunmaz diyerek yanıt vermiyordu ya da kibarca büyükelçi ile uyarıyordu. aynı durum yaşandığında senin eyyy amerika diyen ağzını severimm<sup class="ab"><a title="(bkz: gg editi)" href="/?q=gg+editi" data-query="gg editi">*</a></sup> deme ihtimali olan adam başkan oluyor.<br/><br/>edit: oldu.
    
   entry_writer: karpuz kabugu
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 63998046
   entry_content: |
     
-    yeni mezun diş hekimi hanım kızımızın az önce başına gelen matematik sorusu rezaletidir. programı ales ile karıştıran amın düdükleri 45 saniye içinde kağıt kalemsiz bir matematik sorusu çözmesini beklemektedirler.  <br/>çözmesi beklenen soruya gelirsek asıl rezalet de burada başlıyor. bir kişi her gün gittiği yolun iki katını giderek 5.günün sonunda 160 kmlik yolu tamamlıyorsa ilk gün kaç km yol gitmiştir? şıklar 5, 10, 20 ve 40tı. hanım kızımız zekice bir hamleyle seyirciye sorma jokerini kullanıp zaman kazansa da programın heyecanıyla cevap veremeden süre bitti. böyle bir sorunun bu kadar kısıtlı zaman içerisinde cevaplanmasının beklenmesi bir tarafa sorudaki asıl skandal sorunun belirsizliğinden kaynaklanmaktadır.doğru cevap 10 çıkmıştır. <br/>şimdi merak edilen nokta şudur ki, yolu giden sürücü 5. günün sonunda toplamda mı 160km yol almıştır veya sadece 5. gün aldığı yol mu 160kmdir. sorunun cevabına göre gidersek ilk gün 10 2. gün 20 3. gün 40 4. gün 80 5. gün 160 km. yani sadece 5. gün aldığı yol 160km olarak sorulmak istenmiştir. oysa bu kadar kısa bir süre içerisinde böyle bir sorunun böyle bir belirsizlik ile sorulması yanlış olmuştur. çünkü ilk gün 1x 2. gün 2x 3. gün 4 x 4. gün 8x 5. gün 16x yol kateden sürücümüz toplamda 31x yol katedecektir. 31x=160 tan ilk gün katedilen yol 5,16129032258 gibi bir sonuç çıkmaktadır.yaz kızım, karar: yarışmacıdan özür dilenerek tekrardan bir başka programda yarıştırılmasına karar verilmiştir.<br/>edit: sorunun ekran görüntüsü <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/lEJqME.jpg">http://i.hizliresim.com/lejqme.jpg</a> paylaşan arkadaşa <a class="b" href="/entry/63998751">#63998751</a> teşekkürler.
+    yeni mezun diş hekimi hanım kızımızın az önce başına gelen matematik sorusu rezaletidir. programı ales ile karıştıran amın düdükleri 45 saniye içinde kağıt kalemsiz bir matematik sorusu çözmesini beklemektedirler.  <br/>çözmesi beklenen soruya gelirsek asıl rezalet de burada başlıyor. bir kişi her gün gittiği yolun iki katını giderek 5.günün sonunda 160 kmlik yolu tamamlıyorsa ilk gün kaç km yol gitmiştir? şıklar 5, 10, 20 ve 40tı. hanım kızımız zekice bir hamleyle seyirciye sorma jokerini kullanıp zaman kazansa da programın heyecanıyla cevap veremeden süre bitti. böyle bir sorunun bu kadar kısıtlı zaman içerisinde cevaplanmasının beklenmesi bir tarafa sorudaki asıl skandal sorunun belirsizliğinden kaynaklanmaktadır.doğru cevap 10 çıkmıştır. <br/>şimdi merak edilen nokta şudur ki, yolu giden sürücü 5. günün sonunda toplamda mı 160km yol almıştır veya sadece 5. gün aldığı yol mu 160kmdir. sorunun cevabına göre gidersek ilk gün 10 2. gün 20 3. gün 40 4. gün 80 5. gün 160 km. yani sadece 5. gün aldığı yol 160km olarak sorulmak istenmiştir. oysa bu kadar kısa bir süre içerisinde böyle bir sorunun böyle bir belirsizlik ile sorulması yanlış olmuştur. çünkü ilk gün 1x 2. gün 2x 3. gün 4 x 4. gün 8x 5. gün 16x yol kateden sürücümüz toplamda 31x yol katedecektir. 31x=160 tan ilk gün katedilen yol 5,16129032258 gibi bir sonuç çıkmaktadır.yaz kızım, karar: yarışmacıdan özür dilenerek tekrardan bir başka programda yarıştırılmasına karar verilmiştir.<br/><br/>edit: sorunun ekran görüntüsü <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/lEJqME.jpg">http://i.hizliresim.com/lejqme.jpg</a> paylaşan arkadaşa <a class="b" href="/entry/63998751">#63998751</a> teşekkürler.<br/><br/>edit2: bazı yazarların sorudaki anlam karmaşasının büyütülmemesi gerektiğini söylemesi üzerine değinmek istediğim editdir. soruyu cevaplaması gereken kişi basit bir mantıkla 10 cevabını verebilirdi zira diğer şekilde sonuç şıklarda ki seçeneklerle alakasız çıkacaktı diyenler olmuş ki, söz konusu yarışma programı dünyanın en çok izlenilen yarışması olduğunu iddia etmektedir.hal böyle iken bu kadar basit şekilde yarışmanın tüm gidişatını değiştirecek bir dil bilgisi hatasını görmemesi normal bir şey midir? söz konusu kanal ülkedeki en büyük medya şirketlerinden birine ait, bu konumda yayın yapan bir kurumun bu tür dil bilgisi hataları görmezden gelinerek basitleştirilemez. lakayıt insanlar ile yapılacak işler böyle sorunlu sonuçlar doğurur ve biz de bunu sonuna kadar eleştiririz.
    
   entry_writer: albaymunro
 - entry_name: |
@@ -66,14 +66,6 @@ data:
     (bkz:  <a class="b" href="/?q=arkada%c5%9flar+bu+bir+vir%c3%bcs+olabilir+mi%3f">arkadaşlar bu bir virüs olabilir mi?</a>)
    
   entry_writer: abi enikonu icecegiz
-- entry_name: |
-    sabah gazetesi'nin güntekin onay'ı tehdit etmesi
-  entry_id: 63994517
-  entry_content: |
-    
-    neymiş güntekin onay,  <a class="b" href="/?q=ter%c3%b6r+%c3%b6rg%c3%bct%c3%bc">terör örgütü</a> propagandası yapmışmış!<br/><br/><a class="b" href="/?q=ferit+%c5%9fahenk">ferit şahenk</a>'e sopa göstererek güntekin onay'ı kovmasını istiyorlar.<br/><br/>hatta teröre destekten tutuklanması gerektiği ima edilmiş!<br/><br/>bu nasıl bir adilik böyle!...yavaş gidin biraz...haddinizi bilin...terbiyeli olun...insan olun lan! adam <a class="b" href="/?q=d%c3%bcr%c3%bcst%c3%a7e">dürüstçe</a> 2 kelam etti diye terörist ilan edemezsiniz! kimden yetki alıp da işini yapan bir adama terörist diyorsun ulan sen!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sabah.com.tr/gundem/2016/11/09/yurekliysen-isimleri-acikla-guntekin-onay" title="http://www.sabah.com.tr/gundem/2016/11/09/yurekliysen-isimleri-acikla-guntekin-onay">http://www.sabah.com.tr/…mleri-acikla-guntekin-onay</a><br/><br/>güç sarhoşluğuyla sağa sola kusup durmayın! en ufak bir eleştiriye bile terör örgütü propagandası demeye başlarsanız bu ülke'yi saddamın da kaddafinin de cehenneminden daha beter bir hale getirirsiniz.<br/><br/><a class="b" href="/?q=ersoy+dede">ersoy dede</a> denilen adam, frenle biraz; şah değilsin padişah değilsin....şimdi güç bende istediğimi terörist ilan ederim dersen;<br/><br/>gün gelir seni, senin laflarınla <a class="b" href="/?q=ter%c3%b6rist">terörist</a> diye içeri tıkarlar!<br/><br/>elindeki <a class="b" href="/?q=iktidar">iktidar</a> gücüne güvenip insanların ekmekleriyle oynamak <a class="b" href="/?q=korkak">korkak</a>lığın önde gidenidir!<br/><br/><a class="b" href="/?q=mert">mert</a> olun, savaşacaksanız da mertçe savaşın! devleti ve <a class="b" href="/?q=ohal">ohal</a>i arkana alarak masum ve mert bir adamı kodese tıkabileceğini zannediyorsan avucunu gırtlağınla yalatırlar sana! demedi deme sonra!<br/><br/>amk kodumun sözlüğü şu heriflere bir haddini bildirecek adam yok mu lan aranızda!<br/><br/>gelip sizi de sikmelerini mi bekliyorsunuz?<br/><br/><a class="b" href="/?q=not">not</a>:cesur ve mert olan sözlük yazarı arkadaşlarımın hepsinin ellerinden alınlarından öpüyorum.iyi ki varsınız! vallahi billahi yoksa çekilmez bu ülke!
-   
-  entry_writer: noksan
 - entry_name: |
     yanlış anlaşıldık amacımız yerli otomobil değil
   entry_id: 63987490
@@ -127,7 +119,7 @@ data:
   entry_id: 63992880
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yeni+bir+bkz+do%c4%9fuyor">yeni bir bkz doğuyor</a>)<br/><br/>ekleme: boş bakınızdı doldu.
+    (bkz:  <a class="b" href="/?q=yeni+bir+bkz+do%c4%9fuyor">yeni bir bkz doğuyor</a>)<br/><br/>ekleme: boş bakınızdı doldu.<br/><br/>debe eklemesi:<br/><br/>ilk defa debeye girdim. her gün baktığın listede sıradan bir entry de olsa kendi entryni görmek güzelmiş teşekkürler. bu bkz umarım beni yalancı çıkarmaz. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>gerekli ekleme:<br/><br/>bkz'ın hikayesi için <a class="b" href="/entry/63992167">#63992167</a><br/>bkz olarak ilk kullanımı için <a class="b" href="/entry/63992355">#63992355</a>
    
   entry_writer: ben miyim yoksa bu nickin sahibi
 - entry_name: |
@@ -138,14 +130,6 @@ data:
     o hayreti mucip olmasa; 10 kasım 2016 konstantinopolis trafiği olarak açacaktın başlığı..<br/><br/>sen vapura bin yarın.
    
   entry_writer: yuksek muhendisim ben
-- entry_name: |
-    9 kasım 2016 sonrası amerikan halkına öneriler
-  entry_id: 63986504
-  entry_content: |
-    
-    nasa'nın başına sakın hayvanat bahçesi müdürünü getirmeyin. biz denedik çalışmıyor.
-    
-  entry_writer: sabah ereksiyonu olmus at pipisi
 - entry_name: |
     sayın trump'ı tebrik ediyoruz gülen'i iade etsin
   entry_id: 63989218
@@ -167,7 +151,7 @@ data:
   entry_id: 63984013
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=rab%c4%b1rt+a%c4%9f%c4%b1r+bedel+%c3%b6deyecek+%c3%b6yle+b%c4%b1rakmam+onu">rabırt ağır bedel ödeyecek öyle bırakmam onu</a>)
+    (bkz:  <a class="b" href="/?q=rab%c4%b1rt+a%c4%9f%c4%b1r+bedel+%c3%b6deyecek+%c3%b6yle+b%c4%b1rakmam+onu">rabırt ağır bedel ödeyecek öyle bırakmam onu</a>)<br/><br/>ooo debe editi : imam hatipler kapatılsın!
    
   entry_writer: mehmet okur un mavi beyaz moru
 - entry_name: |
@@ -183,8 +167,8 @@ data:
   entry_id: 63987390
   entry_content: |
     
-    şüphesiz bill clinton'ın first lady olmasından iyidir.
-    
+    şüphesiz bill clinton'ın first lady olmasından iyidir..<br/><br/>edit: unutmadık.<br/>"yaşa mustafa kemal paşa yaşa!"
+   
   entry_writer: inspector spacetime
 - entry_name: |
     can dündar alman sarayında süklüm püklüm
@@ -207,8 +191,8 @@ data:
   entry_id: 63986636
   entry_content: |
     
-    tirajı-komik
-    
+    tirajı-komikk<br/><br/>edit: bugün yüce meclisimiz 15 bin suçsuz öyp'li araştırma görevlisini işten atacak khk'yı oylayacak.<br/>öyp yalnızca sınavlarla, mülakatsız ve torpilsiz akademisyen olmaktır.<br/>2 khk'da ihraç edilen öypli oranı yalnızca %1.25<br/>%98.75 suçsuz insanın işleri bugün güvencesizleştiriliyor.<br/>onlarca arkadaşımız, khk'nın yasalaşması bile beklenmeden işten atıldı!<br/>tek suçları torpilsiz olmak ve devletin "emeğiniz emanetimizdir" yazdığı sınavlarla atanmaktı.<br/>umarız vekiller vicdanlı davranır ve bu hukuksuzluğu durdurur.
+   
   entry_writer: somethingstupid
 - entry_name: |
     leyla ile mecnun
@@ -279,7 +263,7 @@ data:
   entry_id: 63983588
   entry_content: |
     
-    -eeeey amerikaa<br/>+ ne var lan yarraaam
+    -eeeey amerikaa<br/>+ ne var lan yarraaam<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vikkijarvi/status/796223271733694464" title="https://twitter.com/vikkijarvi/status/796223271733694464">https://twitter.com/…arvi/status/796223271733694464</a>
    
   entry_writer: emrahus
 - entry_name: |
@@ -331,19 +315,11 @@ data:
     
   entry_writer: senaryomtrak
 - entry_name: |
-    otobüs şoförüyle vatandaşın civciv kavgası
-  entry_id: 63996197
-  entry_content: |
-    
-    iett yolcu hakları bildirgesine göre anasını siktiğimin otobüs şöförü gavat oğlu gavatın haksız olduğu kavga.  <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.iett.istanbul/tr/main/pages/yolcu-haklari-bildirgesi/68" title="http://www.iett.istanbul/tr/main/pages/yolcu-haklari-bildirgesi/68">http://www.iett.istanbul/…lcu-haklari-bildirgesi/68</a><br/><br/>aşağıdakilerin haricinde istasyon ve araçlara hayvan kabul edilmemektedir.<br/>- boyun tasması olması ve kucakta taşınması şartıyla süs köpekleri<br/>- küçük kafes hayvanları (serbest kaldığında yolculara zarar verebilecek yırtıcı, zehirli vs.hayvanlar hariç)
-   
-  entry_writer: loser blueser
-- entry_name: |
     drift kazasından sonra kavgaya tutuşan apaçiler
   entry_id: 63996110
   entry_content: |
     
-    ulan şu topluluğun ortasına eskaza bir bomba atılsa ülkenin gelişmişlik seviyesi bir tık yukarı çıkar. geleceğe dair umutlarımız yeşerir, karamsar olmaktan vazgeçerdik yeminle.  <br/><br/>hiç hümanist günümde değilim. geberebilirler.
+    ulan şu topluluğun ortasına eskaza bir bomba atılsa ülkenin gelişmişlik seviyesi bir tık yukarı çıkar. geleceğe dair umutlarımız yeşerir, karamsar olmaktan vazgeçerdik yeminle.  <br/><br/>hiç hümanist günümde değilim. geberebilirler.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ndWDvwOvYUQ&t=14m02sm02s" title="https://www.youtube.com/watch?v=ndWDvwOvYUQ&t=14m02sm02s">https://www.youtube.com/…tch?v=ndwdvwovyuq&t=14m02sm02s</a>
    
   entry_writer: fakir misin nesin defol
 - entry_name: |
@@ -351,7 +327,7 @@ data:
   entry_id: 63992269
   entry_content: |
     
-    dikkat ederseniz,yolda arabalar yok,dükkanlar boşaltılmış,insan yok..<br/><br/>tedbirler alınmış.<br/><br/>demek ki yıkılacağı tespit edilmiş.<br/><br/>yoksa kamera nasıl çeksin!<br/><br/>japon <a class="b" href="/?q=i%c5%9f+kazas%c4%b1">iş kazası</a> böyle olur işte.<br/><br/>tek bir yaralı yok.<br/><br/>not:araştırdım,gerçekten de yolun çökebileceği önceden anlaşılmış.altında tünel benzeri bir çalışma varmış.onlar anlamışlar.tüm tedbirler alınmış ve hemen ardından çökme gerçekleşmiş.<br/><br/>not 2:tek bir yaralı olmadığı gibi,çökmenin gerçekleştiği yerdeki binalarda da milim kıpırdama yok.temeller dehşet sağlam...türkiye'de böyle bir çökme olsa ve binaların temelleri ortaya çıkacak kadar çöküş devam etse,yolun etrafındaki tüm binalar temelden yıkılarak tuzla buz olur.ölü sayısını tahmin bile etmek istemiyorum<br/><br/>not 3:amaç türkiye'yi yok yere eleştirmek değil...amaç insan hayatına verilen değeri bizdeki yetkililere hatırlatmak...<br/><br/>not 4:eğer tedbirler tam zamanında alınmasaymış en az 50 ölüden bahsediliyor...türkiye'deki rakamı düşünmek bile istemiyorum.
+    dikkat ederseniz,yolda arabalar yok,dükkanlar boşaltılmış,insan yok..<br/><br/>tedbirler alınmış.<br/><br/>demek ki yıkılacağı tespit edilmiş.<br/><br/>yoksa kamera nasıl çeksin!<br/><br/>japon <a class="b" href="/?q=i%c5%9f+kazas%c4%b1">iş kazası</a> böyle olur işte.<br/><br/>tek bir yaralı yok.<br/><br/>not:araştırdım,gerçekten de yolun çökebileceği önceden anlaşılmış.altında tünel benzeri bir çalışma varmış.onlar anlamışlar.tüm tedbirler alınmış ve hemen ardından çökme gerçekleşmiş.<br/><br/>not 2:tek bir yaralı olmadığı gibi,çökmenin gerçekleştiği yerdeki binalarda da milim kıpırdama yok.temeller dehşet sağlam...türkiye'de böyle bir çökme olsa ve binaların temelleri ortaya çıkacak kadar çöküş devam etse,yolun etrafındaki tüm binalar temelden yıkılarak tuzla buz olur.ölü sayısını tahmin bile etmek istemiyorum<br/><br/>not 3:amaç türkiye'yi yok yere eleştirmek değil...amaç insan hayatına verilen değeri bizdeki yetkililere hatırlatmak...<br/><br/>not 4:eğer tedbirler tam zamanında alınmasaymış en az 50 ölüden bahsediliyor...türkiye'deki rakamı düşünmek bile istemiyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=9rqXd9tfUqA">https://www.youtube.com/watch?v=9rqxd9tfuqa</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8XTPszzJoBY">https://www.youtube.com/watch?v=8xtpszzjoby</a>
    
   entry_writer: amadeyyus
 - entry_name: |
@@ -391,7 +367,7 @@ data:
   entry_id: 63995310
   entry_content: |
     
-    biyolojik anlamda bişey ifade etmez.  <br/>biyolojik babam bana, 7 kat ellerin atmayacağı nice kazık atmıştır. kendisi sevgisizliğin, menfaatçiliğin, aşağılık kompleksinin, aile içi şiddetin filan vücuda gelmiş; iki ayak üzerinde yürüyen halidir.<br/><br/>biyolojik olarak baba olmaya elverişsiz bi durumdaysanız bile takmayın bunu yani. <br/>kalbinizde karşılıksız verebileceğiniz yeterince sevgi, şevkat; minik bir başı göğsünüze sıkıca bastırıp kokusunu alabildiğinizce içinize çekebilecek kadar evlat hasretiniz varsa, gidip <a class="b" href="/?q=koruyucu+aile">koruyucu aile</a> olun...<br/><br/>dölleyerek baba olunmuyor. <br/>emek vererek, sevgi vererek oluyor...<br/><br/>çocukken ailemin evinden kaçıp çocuk esirgeme kurumuna sığınma hayalleri kurardım bazen... sevgisizlikten ölecek gibi hissederdim o küçücük yaşta. orada severler beni gibi gelirdi...<br/>eminim o kurumdaki çocuklar da, dışarıdaki ailelerin hepsini birer sevgi yumağı sanıyor... <br/><br/>en azından biri için bu hayali gerçekleştirebilir, onun sıcacık yuvası, sevgi dolu-müşfik ebeveyni; vazgeçilmez ailesi, canı kadar sevdiği babası olabilirsiniz.<br/>benim babam gibilerin asla "baba" olamadığı bu dünyada...<br/><sup class="ab"><a title="(bkz: çok uzun süredir görüşmüyoruz)" href="/?q=%c3%a7ok+uzun+s%c3%bcredir+g%c3%b6r%c3%bc%c5%9fm%c3%bcyoruz" data-query="çok uzun süredir görüşmüyoruz">*</a></sup><sup class="ab"><a title="(bkz: son nefesime kadar görüşmeyi düşünmüyorum)" href="/?q=son+nefesime+kadar+g%c3%b6r%c3%bc%c5%9fmeyi+d%c3%bc%c5%9f%c3%bcnm%c3%bcyorum" data-query="son nefesime kadar görüşmeyi düşünmüyorum">*</a></sup>
+    biyolojik anlamda bişey ifade etmez.  <br/>biyolojik babam bana, 7 kat ellerin atmayacağı nice kazık atmıştır. kendisi sevgisizliğin, menfaatçiliğin, aşağılık kompleksinin, aile içi şiddetin filan vücuda gelmiş; iki ayak üzerinde yürüyen halidir.<br/><br/>biyolojik olarak baba olmaya elverişsiz bi durumdaysanız bile takmayın bunu yani. <br/>kalbinizde karşılıksız verebileceğiniz yeterince sevgi, şevkat; minik bir başı göğsünüze sıkıca bastırıp kokusunu alabildiğinizce içinize çekebilecek kadar evlat hasretiniz varsa, gidip <a class="b" href="/?q=koruyucu+aile">koruyucu aile</a> olun...<br/><br/>dölleyerek baba olunmuyor. <br/>emek vererek, sevgi vererek oluyor...<br/><br/>çocukken ailemin evinden kaçıp çocuk esirgeme kurumuna sığınma hayalleri kurardım bazen... sevgisizlikten ölecek gibi hissederdim o küçücük yaşta. orada severler beni gibi gelirdi...<br/>eminim o kurumdaki çocuklar da, dışarıdaki ailelerin hepsini birer sevgi yumağı sanıyor... <br/><br/>en azından biri için bu hayali gerçekleştirebilir, onun sıcacık yuvası, sevgi dolu-müşfik ebeveyni; vazgeçilmez ailesi, canı kadar sevdiği babası olabilirsiniz.<br/>benim babam gibi bazi biyolojik babalarin asla "baba" olamadığı bu dünyada...<br/><sup class="ab"><a title="(bkz: çok uzun süredir görüşmüyoruz)" href="/?q=%c3%a7ok+uzun+s%c3%bcredir+g%c3%b6r%c3%bc%c5%9fm%c3%bcyoruz" data-query="çok uzun süredir görüşmüyoruz">*</a></sup><sup class="ab"><a title="(bkz: son nefesime kadar görüşmeyi düşünmüyorum)" href="/?q=son+nefesime+kadar+g%c3%b6r%c3%bc%c5%9fmeyi+d%c3%bc%c5%9f%c3%bcnm%c3%bcyorum" data-query="son nefesime kadar görüşmeyi düşünmüyorum">*</a></sup>
    
   entry_writer: delfina
 ---
