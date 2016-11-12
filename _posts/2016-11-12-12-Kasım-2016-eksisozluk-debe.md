@@ -15,7 +15,7 @@ data:
   entry_id: 64035181
   entry_content: |
     
-    böyle bir olayı türk öğrencileri yapmış olsaydı amk fularlı hümanistleri beynimizi siker dururdu barbar türkler yine yapmış yapacağını diye. şimdi bekleyelim bakalım fularlılar inlerinden çıkıp buraya iki kelime kınama yazısı yazabilecek mi??<br/><br/>edit: bu arada belirtmekte fayda var; tüm dünya atamın daşşanı yesin.
+    böyle bir olayı türk öğrencileri yapmış olsaydı amk fularlı hümanistleri beynimizi siker dururdu barbar türkler yine yapmış yapacağını diye. şimdi bekleyelim bakalım fularlılar inlerinden çıkıp buraya iki kelime kınama yazısı yazabilecek mi??<br/><br/>edit: bu arada belirtmekte fayda var; tüm dünya atamın daşşanı yesin.<br/><br/>debe edit: (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+%c5%9faman+torunlar%c4%b1+dayan%c4%b1%c5%9fma+derne%c4%9fi">ekşi sözlük şaman torunları dayanışma derneği</a>)
    
   entry_writer: kinto un
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 64027095
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=arkada%c5%9flar+bu+bir+vir%c3%bcs+olabilir+mi">arkadaşlar bu bir virüs olabilir mi</a>)<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/A3oQ8q.png" title="http://i.hizliresim.com/A3oQ8q.png">ekşi ahalisi olarak yerlerimizi aldık</a>
+    (bkz:  <a class="b" href="/?q=arkada%c5%9flar+bu+bir+vir%c3%bcs+olabilir+mi">arkadaşlar bu bir virüs olabilir mi</a>)<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/A3oQ8q.png" title="http://i.hizliresim.com/A3oQ8q.png">ekşi ahalisi olarak yerlerimizi aldık</a><br/><br/>debe edit amme hizmeti: <a rel="nofollow noopener" class="url" target="_blank" href="http://vopool.net/events/" title="http://vopool.net/events/">biz okurken böyle şeyler yoktu kendinizi geliştirin lan!</a>
    
   entry_writer: stdontano
 - entry_name: |
@@ -90,14 +90,6 @@ data:
     okur-yazar oranının %5'lerden %95'lere çıkması,,<br/><br/>1925 - ankara hukuk fakültesi'nin kurulması<br/><br/>1928 - hıfzısıhha müessesesi'nin kurulması<br/><br/>1932 - türk dil kurumu'nun kurulması<br/><br/>1935 - maden tetkik arama enstitüsü'nün kurulması<br/><br/>yüksek ziraat enstitüsü, devlet istatistik enstitüsü, halkevleri, türk kuşu gibi bilim öğreten kurumların kurulması... saymakla da bitmez.<br/><br/>en çarpıcı olanı ise, 1936 yılında ilk türk uçağının imali için araştırma geliştirme çalışmalarının başlatılıp, 1940 yılında ilk türk uçağının imal edilmesinden sonra, atatürk'ün ölümünün ardından 1950'de uçak fabrikasının adnan menderes tarafından amerikadan alınan maddi destek karşılığında kapatılması.<br/><br/>bu kez kendi ayağına sıktın sıtark.
    
   entry_writer: ugrassive
-- entry_name: |
-    mustafa kemal izmir'de katliam yaptı
-  entry_id: 64039844
-  entry_content: |
-    
-    sağcı, muhafazakar bir bakanın yaptığı sikik açıklamadır. dünya üzerindeki tüm sağcı, milliyetçi, muhafazakar şahısların demeçleri gibi geri zekalıcadır. bizim mhp'li sağlık bakanı da 17 ağustos depremi sonrası yunanistan yardımlarını "yunan kanı istemiyoruz" diyerek geri çevirmişti..<br/><br/>(bkz: <a class="b" href="/?q=same+shit+different+asshole">same shit different asshole</a>)<br/><br/>modern dünyanın kanser hücresisiniz amın evlatları.
-   
-  entry_writer: zerdest
 - entry_name: |
     aral ithalat
   entry_id: 64032249
@@ -251,14 +243,6 @@ data:
    
   entry_writer: utopic
 - entry_name: |
-    dindarların atatürk'ü recep tayyip erdoğan'dır
-  entry_id: 64037207
-  entry_content: |
-    
-    olum atatürk nasıl bir yara oluşturmuş sizde lan amk ezikleri. işiniz gücünüz atatürk ile sözde reisinizi karşılaştırmak, ikisini aynı cümle içinde geçirip, sürekli bir kıyas yapmak. bir bakın lan etrafınıza tek bir atatürk sevdalısı görebilir misiniz rte ile atatürk'ü kıyas yapan, aynı cümle içinde bu iki ismi bir arada kullanan. sizde yapmayın amk valla komik oluyorsunuz..<br/><br/>tanım: hadi bi tanım yapalımda mutlu olsun mına kodumun ümmet sevdalısı, halifelik meraklısı, vatan haini piçleri. veya vazgeçtim ya yapmıom, tanıma ne gerek böyle saçma bir başlığa, sie...
-   
-  entry_writer: kinto un
-- entry_name: |
     11 kasım 2016 abd iç savaşı
   entry_id: 64039386
   entry_content: |
@@ -271,7 +255,7 @@ data:
   entry_id: 64026400
   entry_content: |
     
-    ekonomisi çok iyi durumda ve işsizlik oranı çok düşük bir ülkede vergilere zam yoktur..<br/><br/>ulan o değil de 14 tl kullanım bedeli olan elektrik faturasını vergiler dahil 32 tl yapan zihniyetin ekonomisine sıçıyım.<br/><br/>ben kar yapıyım diye lamba yakmıyorum, o para benden yine çıkıyor.<br/><br/>neyse duble yollarımız var.
+    ekonomisi çok iyi durumda ve işsizlik oranı çok düşük bir ülkede vergilere zam yoktur..<br/><br/>ulan o değil de 14 tl kullanım bedeli olan elektrik faturasını vergiler dahil 32 tl yapan zihniyetin ekonomisine tüküreyim.<br/><br/>ben kar yapıyım diye lamba yakmıyorum, o para benden yine çıkıyor.<br/><br/>neyse duble yollarımız var.<br/><br/>büdüt: uyarı geldi yapılan bir kelime hukuka aykırı imiş. <br/>saçmalık.
    
   entry_writer: gayim ama para bende
 - entry_name: |
@@ -311,7 +295,7 @@ data:
   entry_id: 64030366
   entry_content: |
     
-    2001'de dsp-anap-mhp iktidarı dolar krizi ile yolcu edilmişti, bu da akp'ye iktidar yolunu açmıştı. görünen o ki dolar kriziyle gelen akp de dolar kriziyle gidecek gibi..<br/><br/>hayırlı olsun, bu gidişe destek vermek isteyen herkesi 3-5 demeden dolar almaya davet ediyoruz. <br/><br/>çok alan maldan, az alan candan.<br/><br/>edit: benden sonraki bir arkadaşın mesajından eksik yazdığımı anladım. alınan dolarlar kesinlikle yastık altına konacak, unutmayalım. çünkü bankada tutulan dolarları kendi paraları gibi kullanmaya devam edecekler. çok sıkıştıklarında belli bir yüzdesini ya da tümünü 2016 yılbaşı kurundan tlye çevirme ihtimali bile vardır. bunlar o kadar da geri zekalı değil diyenin alnını karışlarım. bunlar düşündüğünüzden de geri zekalılar. bunlar anadolu lisesi kapatıp, imam hatip açan zihniyet.
+    2001'de dsp-anap-mhp iktidarı dolar krizi ile yolcu edilmişti, bu da akp'ye iktidar yolunu açmıştı. görünen o ki dolar kriziyle gelen akp de dolar kriziyle gidecek gibi..<br/><br/>hayırlı olsun, bu gidişe destek vermek isteyen herkesi 3-5 demeden dolar almaya davet ediyoruz. <br/><br/>çok alan maldan, az alan candan.<br/><br/>edit: benden sonraki bir arkadaşın mesajından eksik yazdığımı anladım. alınan dolarlar kesinlikle yastık altına konacak, unutmayalım. çünkü bankada tutulan dolarları kendi paraları gibi kullanmaya devam edecekler. çok sıkıştıklarında belli bir yüzdesini ya da tümünü 2016 yılbaşı kurundan tlye çevirme ihtimali bile vardır. bunlar o kadar da pervasız değil diyenin alnını karışlarım. bunlar düşündüğünüzden de pervasız. bunlar anadolu lisesi kapatıp, imam hatip açan zihniyet.<br/><br/>edit 2: yönetimin uyarısı üzerine bir ifadeyi yumuşatmak durumunda kaldım.
    
   entry_writer: linener
 - entry_name: |
@@ -399,7 +383,7 @@ data:
   entry_id: 64032097
   entry_content: |
     
-    ne darwin, ne dawkins, ne de hawking'in ateizme kazandırabildiği sayıda insanı tek başına ateist yapabilmiş insandır..<br/><br/>saygıyla selâmlıyorum.
+    ne darwin, ne dawkins, ne de hawking'in ateizme kazandırabildiği sayıda insanı tek başına ateist yapabilmiş insandır..<br/><br/>saygıyla selâmlıyorum.<br/><br/>debe editi: iki adet debe'm var; ikisi de kendisiyle ilgili. nice esinlenmelere diyelim.
    
   entry_writer: turuncan53
 ---
