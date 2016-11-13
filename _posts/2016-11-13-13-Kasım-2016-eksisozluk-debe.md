@@ -23,8 +23,8 @@ data:
   entry_id: 64044809
   entry_content: |
     
-    ilginçtir ki; o düşünemez denen maddede (beyin) hasar olursa, ruha atfedilen özellikler çalışmaz hale geliyor... tesadüf tabi bu.
-    
+    ilginçtir ki; o düşünemez denen maddede (beyin) hasar olursa, ruha atfedilen özellikler çalışmaz hale geliyor... tesadüf tabi bu..<br/><br/>------<br/><br/>ilgilisine kitap tavsiyesi:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.amazon.com/dp/0192853929/ref=cm_sw_r_tw_awdo_x_sHekybANK7RW7" title="https://www.amazon.com/dp/0192853929/ref=cm_sw_r_tw_awdo_x_sHekybANK7RW7">the brain: a very short ıntroduction</a>
+   
   entry_writer: zaphod beeblerox
 - entry_name: |
     apple'ın yeni muazzam icadı ibiophone
@@ -95,8 +95,8 @@ data:
   entry_id: 64043299
   entry_content: |
     
-    kesinlikle yanlış bir tespit. lisansta arkadaşların en az yarısı latin danslarına ilgi duymaya başlamışlardı. gidip kurslara filan katıldılar.
-    
+    kesinlikle yanlış bir tespit. lisansta arkadaşların en az yarısı latin danslarına ilgi duymaya başlamışlardı. gidip kurslara filan katıldılar..<br/><br/>edit: debeye girmişim ya la...
+   
   entry_writer: penguent
 - entry_name: |
     2000 favori alan entry'nin debeye girememesi
@@ -111,7 +111,7 @@ data:
   entry_id: 64051493
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=boobs">boobs</a>)<br/><br/>anket bitti beyler, dağılın.
+    (bkz:  <a class="b" href="/?q=boobs">boobs</a>)<br/><br/>anket bitti beyler, dağılın.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: beni sinirlendirmeyi ve üzmeyi ilke edinmiş eski sevgilime seslenmek istiyorum; <a class="b" href="/?q=ismail%2c+allah+senin+belan%c4%b1+versin">ismail, allah senin belanı versin</a>.
    
   entry_writer: bi bitmediniz amk
 - entry_name: |
@@ -147,7 +147,7 @@ data:
    
   entry_writer: venusteki limon agaci
 - entry_name: |
-    12 kasım 2016 dışişleri başkanlığı uyarısı
+    12 kasım 2016 dışişleri bakanlığı uyarısı
   entry_id: 64050624
   entry_content: |
     
@@ -183,8 +183,8 @@ data:
   entry_id: 64054363
   entry_content: |
     
-    yurtiçindeki vatandaşını koruyamayan bir devletin yurtdışına çıkan vatandaşına uyarısı. nereden baksan ahmakça..
-    
+    yurtiçindeki vatandaşını koruyamayan bir devletin yurtdışına çıkan vatandaşına uyarısı.  <br/><br/>edit: son cümle ekşi desteğin uyarı ile silindi.
+   
   entry_writer: sabah ereksiyonu olmus at pipisi
 - entry_name: |
     albümleri rapidshare'den indiren efsane nesil
@@ -239,8 +239,8 @@ data:
   entry_id: 64051711
   entry_content: |
     
-    sike sürülecek kadar aklı olanların yadırgadığı eylem.
-    
+    sike sürülecek kadar aklı olanların yadırgadığı eylem..<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: yaşasın <a class="b" href="/?q=cumhuriyet">cumhuriyet</a>, kahrolsun <a class="b" href="/?q=diktat%c3%b6rl%c3%bck">diktatörlük</a>.
+   
   entry_writer: esmeyen meltem
 - entry_name: |
     boğaziçi üniversitesi
@@ -258,14 +258,6 @@ data:
     alkol kullanmıyordur.
     
   entry_writer: mooks
-- entry_name: |
-    burak yılmaz'ın beşiktaş'a transferi
-  entry_id: 64044464
-  entry_content: |
-    
-    böyle birşey olursa fb ve gs'liler istedikleri herşeyi söyleme hakkına sahiptir, böyle bir hırsızın bırak beşiktaş'ta oynamasını dolmabahçe'de yürürken bile görmek istemiyorum, eğer transfer edilirse açarım ağzımı yumarım gözümü. uzak dursun !!!
-    
-  entry_writer: mimmm
 - entry_name: |
     30+ yaşında olup kendini hala genç gören erkek
   entry_id: 64053330
@@ -295,7 +287,7 @@ data:
   entry_id: 64052949
   entry_content: |
     
-    geçtiğimiz aylarda yıllarca okumuş uzman diş hekiminin 2 saat yaptığı kanal tedavisine 250 tl vermem ve saç kesim, dip boya, balyaj üçlemesi ile gittiğim kuaföre 500 tl vermem ile yeniden farkettiğim içler acısı durum..<br/><br/>hadi yüksek eğitimini emeğini geçtim, diş hekimi istediği parayı utana sıkıla yüksek bir meblağ gibi söylerken, saçları meçli ismail yk dinleyen kuaförün ağdalı ağdalı konuşup 500 telee demesindeki rahatlık nedir?<br/><br/>edit: saçlarımın rengini akıtıp bebek kumralı üzerine sıcak sarılar atacağı vaadiyle kandıran ve diğerleri gibi saçlarımı yeşile çeviren ümitköy femme kuaföre ince bir sitemdir. başlığı (bkz: <a class="b" href="/?q=%c3%bcmitk%c3%b6y+femme+kuaf%c3%b6r+rezaleti">ümitköy femme kuaför rezaleti</a>) diye de açabilirdim ama yapamadım. yeşil önemli değilde, yeşile 500 tl vermek paha biçilemez. ayrıca diş hekimleri artık dus a giriyor.
+    geçtiğimiz aylarda yıllarca okumuş uzman diş hekiminin 2 saat yaptığı kanal tedavisine 250 tl vermem ve saç kesim, dip boya, balyaj üçlemesi ile gittiğim kuaföre 500 tl vermem ile yeniden farkettiğim içler acısı durum..<br/><br/>hadi yüksek eğitimini emeğini geçtim, diş hekimi istediği parayı utana sıkıla yüksek bir meblağ gibi söylerken, saçları meçli ismail yk dinleyen kuaförün ağdalı ağdalı konuşup 500 telee demesindeki rahatlık nedir?<br/><br/>debe editi: burada son gittiğim hala aldığı paraları haketmedini düşündüğüm kuaförün adı vardı, emekçi olduğuna inandığım bir arakadaşın ricası üzerine sildim.<br/><br/>kimsenin kazancını yargılamıyorum ama kuaförler artık işi gerçekten çığrından çıkardı. buna izin veren de biziz. her yerde bu fiyatlar diye kimse ses çıkarmıyor. yaptığının hakkı olan parayı alsın amenna. onun dışında kimse beni anestezi ile ince ince çalışılan sağlıkla ilgili bir işin, boyayı kapta karıp fırçayla sürmekle aynı olduğuna ikna edemez.
    
   entry_writer: galibamagercek
 - entry_name: |
@@ -351,7 +343,7 @@ data:
   entry_id: 64051864
   entry_content: |
     
-    avrupa'da çoğu şehirlerde metro, tramvay ve benzeri toplu taşıma sistemlerinde turnike yoktur. vatandaş tek seferlik biletini alır kiosk'a okutur devam eder ya da haftalık, aylık gibi kartı yanında taşır. sistem aslında kendi kendine işlemektedir. bazen kontroller yapılır uymamış olanlara para cezası kesilir..<br/><br/>bu durum türkiye'de olmuş olsa neler yaşanırdı acaba? muhtemelen bilet alana enayi gözüyle bakılır. bilet almadan bindiği metroda kontrole denk gelinirse, en iyi ihtimalle kontrol yapan memuru dövülür en kötü ihtimal bıçaklanır. dört kişilik aile tek biletle biner... örnekleri çoğaltmak mümkün. asıl sorun bizler ne zaman dürüst vatandaşlar olmayı öğreneceğiz?
+    avrupa'da çoğu şehirlerde metro, tramvay ve benzeri toplu taşıma sistemlerinde turnike yoktur. vatandaş tek seferlik biletini alır kiosk'a okutur devam eder ya da haftalık, aylık gibi kartı yanında taşır. sistem aslında kendi kendine işlemektedir. bazen kontroller yapılır uymamış olanlara para cezası kesilir..<br/><br/>bu durum türkiye'de olmuş olsa neler yaşanırdı acaba? muhtemelen bilet alana enayi gözüyle bakılır. bilet almadan bindiği metroda kontrole denk gelinirse, en iyi ihtimalle kontrol yapan memuru dövülür en kötü ihtimal bıçaklanır. dört kişilik aile tek biletle biner... örnekleri çoğaltmak mümkün. asıl sorun bizler ne zaman dürüst vatandaşlar olmayı öğreneceğiz?<br/><br/>edit: <a class="b" href="/?q=romantic+communist">romantic communist</a> uyardı; eskişehir'de iki ana tramvay hattı hariç diğer iki hatta turnike yokmuş ama içeride zaman zaman kontroller oluyormuş.<br/><br/>edit2: bazı yazarlar "xxx yerde çok kaçak binen oluyor." şeklinde mesaj attılar. doğrudur fakat demek ki bu durum o kadar fazla değil ki, hükümet ya da özel işletme mevcut sistemi değiştirme gereği duymuyor.<br/><br/>edit3: tüm avrupayı görmedim fakat yaşadığım ve gittiğim 11 avrupa şehirlerini referans alarak yazdım. amacım avrupa sevdalısı gözükmek değil. sadece güzel şeyleri takdir edip, bizim de o değerlere sahip olmak için ne yapmamız gerektiğini tartışmak.
    
   entry_writer: yavedut
 - entry_name: |
@@ -375,8 +367,8 @@ data:
   entry_id: 64058069
   entry_content: |
     
-    "yoğun akademik çalışmalarımdan dolayı sözlüğü yeni açabildim" asdfşklaşsksslkdlsks
-    
+    "yoğun akademik çalışmalarımdan dolayı sözlüğü yeni açabildim"asdfşklaşsksslkdlskss<br/><br/><a class="b" href="/?q=d%c3%bcmd%c3%bck">dümdük</a> <a class="b" href="/?q=edit">edit</a>: selamlar. şu (bkz: <a class="b" href="/entry/64045217">#64045217</a>) sebepten dolayı entry girmek yerine size mesaj atıyorum. uygun görürseniz editleyip benim düşüncemi de bu entry'e eklersiniz. entry girerek mesaj sayısını arttırmak, troll'e pirim vermek istemiyorum.<br/><br/>başlığı açan ...nefret söylemi kullanmam, kitle hedef göstermem... demiş ancak başlığın adı 'sözlükteki linçci faşist kemalistler' dolayısıyla hem başlığı hem de aşağıdaki iddiaları da kendi kendini imha ediyor.<br/><br/>...ben entilerimde hakaret ve küfür kullanmam...<br/><br/>...onlar gibi düşünmeyen, onlara biat etmeyen, onları yanlışlayan herkesi yok etmeye, varlığını silmeye, susturmaya çalışıyorlar...<br/><br/>aşağıdaki iddiayı ise çürüten, daha yakın zamanda yazarlara (ben dahil) mesaj atıp sindirmeye çalışan (bkz: <a class="b" href="/?q=tekid">tekid</a>)tekid adlı yazar.<br/><br/>...burayı profesyonel olarak örgütlenmeye değer bir yer olarak da görmediler hiçbir zaman...<br/><br/>son iki aydır alenen ekşisözlük ve yazarlarına yükleniyorsunuz. göz var izan var. buna katılmamak için orospu çocuğu olmak gerek (bak küfür ettim)<br/><br/>küfür yoktur hemşerim, küfürlük adam vardır.
+   
   entry_writer: kiz nicki
 - entry_name: |
     türk hava yolları
