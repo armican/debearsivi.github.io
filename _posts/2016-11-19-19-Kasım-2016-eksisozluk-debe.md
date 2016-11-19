@@ -55,8 +55,8 @@ data:
   entry_id: 64170917
   entry_content: |
     
-    sanırım bu durumda ayhan ogan şerefsiz oluyor. hayırlısı.
-    
+    sanırım bu durumda ayhan ogan bir sıfat sahibi oluyor. hayırlısı..<br/><br/>edit: canlı yayında ilgili şahsın kendi ağzından sarf edebildiği kelimeyi ben burada kullanınca hukuki bir problem olabiliyormuş. bu hususta uyarı veren ekşi yönetimine de selam ederim.
+   
   entry_writer: cheers for fears
 - entry_name: |
     18 kasım 2016 dolar kuru
@@ -79,7 +79,7 @@ data:
   entry_id: 64178009
   entry_content: |
     
-    böyle garip bir şey..<br/><br/>sağda solda görüyorsun birbiri için ölen aşıklar, sevgililer falan var. kız çok seviyor oğlan çok seviyor. beni sevebilme ihtimali olan biri olunca "yok" ama. sanki kimse beni çok fazla sevemez. ben sevebilirim ama biri bana çok aşık olamaz. çirkin değilsindir, iyi bir insansındır belki ama yine de "bende ne bulmuş olabilir ki?" ya da "beni neden çok sevebilir ki?" soruları dolanıyor. <br/><br/>şimdi biri tarafından sevilme ihtimalim var gibi sanki.. biraz da olsa... ama yok aklıma yatmıyor arkadaş. biri tarafından çok sevilemem, biri bana aşık olamaz... sanki!
+    böyle garip bir şey..<br/><br/>sağda solda görüyorsun birbiri için ölen aşıklar, sevgililer falan var. kız çok seviyor oğlan çok seviyor. beni sevebilme ihtimali olan biri olunca "yok" ama. sanki kimse beni çok fazla sevemez. ben sevebilirim ama biri bana çok aşık olamaz. çirkin değilsindir, iyi bir insansındır belki ama yine de "bende ne bulmuş olabilir ki?" ya da "beni neden çok sevebilir ki?" soruları dolanıyor. <br/><br/>şimdi biri tarafından sevilme ihtimalim var gibi sanki.. biraz da olsa... ama yok aklıma yatmıyor arkadaş. biri tarafından çok sevilemem, biri bana aşık olamaz... sanki!<br/><br/>edit: anne babadan sevgi eksikliği görenlerde olur vs. diyen çok var. belirtmek isterim ki ailemden asla sevgi eksikliği görmedim, sevgilerini bana her zaman hissettirdiler. benim burada sevilmekten kastettiğim "aşk". bu şekilde çok sevilemezmişim gibi hissediyorum.
    
   entry_writer: trapezeus
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 64166148
   entry_content: |
     
-    bu yüzden laiklik..<br/><br/>13 yaşındaki kızla evlenilmez, evcilik oynanır.
+    bu yüzden laiklik..<br/><br/>13 yaşındaki kızla evlenilmez, evcilik oynanır.<br/><br/>edit; debe editten kimse hoşlanmıyor ama bilinmesi gereken bir konu var. bu başlığın en beğenilen entrysi <a class="b" href="/entry/64166072">#64166072</a> sansüre takıldığı için debe'ye giremedi. sansüre uğrayan yazar <a class="b" href="/?q=everestttl">everestttl</a>'nin sansürle ilgili açıklaması; <a class="b" href="/entry/64184507">#64184507</a>
    
   entry_writer: sigara kibrit
 - entry_name: |
@@ -95,7 +95,7 @@ data:
   entry_id: 64175545
   entry_content: |
     
-    an itibariyle çocuk evliliklerin önünü açan yasa önerisini savunmak için ne yapacağını şaşırmış bir anchormane sahip ana haber bülteni. bir insan kendini daha ne kadar aşağılık duruma düşürebilir..<br/><br/>cem öğretir bir kız çocuğu sahibiymiş üstelik. acıyorum ve utanıyorum.
+    an itibariyle çocuk evliliklerin önünü açan yasa önerisini savunmak için ne yapacağını şaşırmış bir anchormane sahip ana haber bülteni. bir insan kendini daha ne kadar küçük duruma düşürebilir..<br/><br/>cem öğretir bir kız çocuğu sahibiymiş üstelik. acıyorum ve utanıyorum.
    
   entry_writer: neden 40 harf
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 64164046
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/cumhurbaskani-yemini-degisiyor--siyaset-2346942/" title="http://www.milliyet.com.tr/cumhurbaskani-yemini-degisiyor--siyaset-2346942/">http://www.milliyet.com.tr/…siyor--siyaset-2346942/</a><br/><br/>akp tarafından sunulup çok milliyetçi mhp tarafından desteklenen anayasa paketinin maddelerinden biri imiş. çok uzun görülen, ve <a class="b" href="/?q=anlam+bozuklu%c4%9fu">anlam bozukluğu</a> olduğu için eleştirilen metin kısaltılacakmış. merak edenler için:<br/><br/>(bkz: <a class="b" href="/?q=cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1+and%c4%b1">cumhurbaşkanlığı andı</a>)<br/><br/>yeni hali:<br/><br/>"insan haklarına, hukukun üstünlüğüne ve demokrasiye bağlı kalacağıma; devletin bağımsızlığını, ülkenin bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma and içerim"<br/><br/>siz şuna anlam bozukluğu değil de "atatürk" ve "laiklik" içeren maddeler kanımıza dokunuyor desenize. anlam bozukluğuymuş. 5 yılda bir, bir kez okunan tek parakraflık bir and. kafanız 5 kelimeden uzun cümlelere basmadığı için mi bu hezeyan?<br/><br/>bu arada andın içindeki "namusum ve şerefim üzerine and içerim" kısmı da çıkarılmış. vicdan yaptılar, söylemeye dilleri varmadı herhalde.
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/cumhurbaskani-yemini-degisiyor--siyaset-2346942/" title="http://www.milliyet.com.tr/cumhurbaskani-yemini-degisiyor--siyaset-2346942/">http://www.milliyet.com.tr/…siyor--siyaset-2346942/</a><br/><br/>akp tarafından sunulup çok milliyetçi mhp tarafından desteklenen anayasa paketinin maddelerinden biri imiş. çok uzun görülen, ve <a class="b" href="/?q=anlam+bozuklu%c4%9fu">anlam bozukluğu</a> olduğu için eleştirilen metin kısaltılacakmış. merak edenler için:<br/><br/>(bkz: <a class="b" href="/?q=cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1+and%c4%b1">cumhurbaşkanlığı andı</a>)<br/><br/>yeni hali:<br/><br/>"insan haklarına, hukukun üstünlüğüne ve demokrasiye bağlı kalacağıma; devletin bağımsızlığını, ülkenin bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma and içerim"<br/><br/>siz şuna anlam bozukluğu değil de "atatürk" ve "laiklik" içeren maddeler kanımıza dokunuyor desenize. anlam bozukluğuymuş. 5 yılda bir, bir kez okunan tek paragraflık bir and. kafanız 5 kelimeden uzun cümlelere basmadığı için mi bu hezeyan?<br/><br/>bu arada andın içindeki "namusum ve şerefim üzerine and içerim" kısmı da çıkarılmış. vicdan yaptılar, söylemeye dilleri varmadı herhalde.
    
   entry_writer: agosizman
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 64164763
   entry_content: |
     
-    hillary clinton'da ne görüyorsam kendisinde de aynısını gördüğüm kadın. nasıl kadınsın sen diye şaşıranlar olmuş, hillary'e bakın o nasıl bir kadınsa bu da öyle bir kadın, o neye hizmet ediyorsa bu da ona ediyor. bir gün zorda kalırsanız kadın merhameti vardır diye kendinizi buna emanet etmek yerine kamyonculara filan emanet edin..<br/><br/>edit: şimdi twitter'dan "şihsim tirifindin isli kıbıl idilimiz çk üzgnm byle oldğu için piki dimim ınıylımık diyil ühüh" diye yalandan ağladığına bakmayın, tam o yasanın meclis gündemine girdiği gün kendisine verilen görevi yerine getirdi, karşılığını da misliyle almıştır. <br/>uyanın gerizekalılar, laik cumhuriyet yüzünden çocuklara rahatça tecavüz edememenin sancısıyla kıvranan arap atmıkları ve onların paralı yardakçıları hayatlarımızı karartacak, uyanın.
+    hillary clinton'da ne görüyorsam kendisinde de aynısını gördüğüm kadın. nasıl kadınsın sen diye şaşıranlar olmuş, hillary'e bakın o nasıl bir kadınsa bu da öyle bir kadın, o neye hizmet ediyorsa bu da ona ediyor. bir gün zorda kalırsanız kadın merhameti vardır diye kendinizi buna emanet etmek yerine kamyonculara filan emanet edin..<br/><br/>edit: şimdi twitter'dan "şihsim tirifindin isli kıbıl idilimiz çk üzgnm byle oldğu için piki dimim ınıylımık diyil ühüh" diye yalandan ağladığına bakmayın, tam o yasanın meclis gündemine girdiği gün kendisine verilen görevi yerine getirdi, karşılığını da misliyle almıştır. <br/>uyanın gerizekalılar, laik cumhuriyet yüzünden çocuklara rahatça tecavüz edememenin sancısıyla kıvranan arap atmıkları ve onların paralı yardakçıları hayatlarımızı karartacak, uyanın.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: bu içi kararmış insan bir hayra vesile olsun bari, ülkenin araplaştırılmayan, kız çocuklarına saldırılmayan ender kurumlarından, geleceğimizin direği darüşşafaka'ya bağış yapın arkadaşlar, 3 demeden 5 demeden, miktarı küçümsemeden, elinizden ne gelirse. o anasız babasız çocukların geleceği, sizin çocuklarınızın da geleceği.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.darussafaka.org/">https://www.darussafaka.org/</a>
    
   entry_writer: isolde
 - entry_name: |
@@ -391,7 +391,7 @@ data:
   entry_id: 64168891
   entry_content: |
     
-    arkadaşlar dün gece onanan bu iğrenç karara hayır demek için  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/çocuklar-istismarcıyla-evlendirilecek-kararı-yürürlüğe-girmesin?recruiter=544205294&utm_source=share_petition&utm_medium=copylinkcopylink" title="https://www.change.org/p/çocuklar-istismarcıyla-evlendirilecek-kararı-yürürlüğe-girmesin?recruiter=544205294&utm_source=share_petition&utm_medium=copylinkcopylink">şöyle</a> bir kampanya düzenlenmiş, lütfen imzalayın. <br/>aramızsa hukukçu olanlar vardır, başka neler yapılabilir? bu başlık altında tartışalım. <br/>bu günaha, bu zulme, bu vebale karşı susmak ortak olmaktır. susmayalım. bu sefer susmayalım, kanıksamayalım.<br/><br/>alışıp bir sonraki adımı beklemeyelim arkadaşlar. lütfen.<br/>tecavüze uğrayan bir kızın her gece yasal olarak tecavüze uğramasının önünü açmayalım. belki binlerce hayatın kararmasının önünde olalım. <br/><br/>devlet bizi koruyamıyor, biz bizi koruyalım.<br/><br/>ek 1-) destekleyen çaylak arkadaşlara buradan teşekkürlerimi sunuyorum. <br/>(bkz: <a class="b" href="/entry/64169149">#64169149</a>)<br/>(bkz: <a class="b" href="/entry/64169699">#64169699</a>)<br/>(bkz: <a class="b" href="/entry/64169758">#64169758</a>)<br/>(bkz: <a class="b" href="/entry/64169892">#64169892</a>) <br/>ve adını sayamadığım bu konuda duyarlılık gösteren diğer çaylak arkadaşlara sonsuz teşekkürlerimi sunuyorum.<br/><br/>ek 2-) @<a class="b" href="/?q=lyssa">lyssa</a>'nın eklemesi: bu önergenin tartışılacağı salı günü saat 10.30'da meclis'in dikmen kapısında chp kadın kolları'nın düzenlediği bir protesto varmış. katılabilecek arkadaşlar, yakın olanlar, gidebilecek birilerini tanıyanlar, lütfen bu konuda desteklerini esirgemesin.
+    arkadaşlar dün gece onanan bu iğrenç karara hayır demek için  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/çocuklar-istismarcıyla-evlendirilecek-kararı-yürürlüğe-girmesin?recruiter=544205294&utm_source=share_petition&utm_medium=copylinkcopylink" title="https://www.change.org/p/çocuklar-istismarcıyla-evlendirilecek-kararı-yürürlüğe-girmesin?recruiter=544205294&utm_source=share_petition&utm_medium=copylinkcopylink">şöyle</a> bir kampanya düzenlenmiş, lütfen imzalayın. <br/>aramızda hukukçu olanlar vardır, başka neler yapılabilir? bu başlık altında tartışalım. <br/>bu günaha, bu zulme, bu vebale karşı susmak ortak olmaktır. susmayalım. bu sefer susmayalım, kanıksamayalım.<br/><br/>alışıp bir sonraki adımı beklemeyelim arkadaşlar. lütfen.<br/>tecavüze uğrayan bir kızın her gece yasal olarak tecavüze uğramasının önünü açmayalım. binlerce hayatın kararmasının önünde olalım. <br/><br/>devlet bizi koruyamıyor, biz bizi koruyalım.<br/><br/>ek 1-) destekleyen çaylak arkadaşlara buradan teşekkürlerimi sunuyorum. <br/>(bkz: <a class="b" href="/entry/64169149">#64169149</a>)<br/>(bkz: <a class="b" href="/entry/64169699">#64169699</a>)<br/>(bkz: <a class="b" href="/entry/64169758">#64169758</a>)<br/>(bkz: <a class="b" href="/entry/64169892">#64169892</a>) <br/>ve adını sayamadığım bu konuda duyarlılık gösteren diğer çaylak arkadaşlara sonsuz teşekkürlerimi sunuyorum.<br/><br/>ek 2-) @<a class="b" href="/?q=lyssa">lyssa</a>'nın eklemesi: bu önergenin tartışılacağı salı günü saat 10.30'da meclis'in dikmen kapısında chp kadın kolları'nın düzenlediği bir protesto varmış. katılabilecek arkadaşlar, yakın olanlar, gidebilecek birilerini tanıyanlar, lütfen bu konuda desteklerini esirgemesin.
    
   entry_writer: edebiyatt
 ---
