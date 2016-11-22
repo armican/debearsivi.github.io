@@ -15,7 +15,7 @@ data:
   entry_id: 64229739
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=xhamster">xhamster</a>)
+    (bkz:  <a class="b" href="/?q=xhamster">xhamster</a>)<br/><br/>bravo editi: (bkz: <a class="b" href="/entry/55152689">#55152689</a>)
    
   entry_writer: ytse
 - entry_name: |
@@ -95,15 +95,15 @@ data:
   entry_id: 64234241
   entry_content: |
     
-    ben de maymun türbanını çıkardı zannettim de şaşırmıştım. haberde şaşıracak birşey yok. islam dünyasında sıradan bir gün.
-    
+    ben de maymun türbanını çıkardı zannettim de şaşırmıştım. haberde şaşıracak birşey yok. islam dünyasında sıradan bir gün..<br/><br/>debe editi: ülkedeki maymunların bile evrim geçirince başımıza bela olmasın diye imam hatip'e gönderilip, türbana sokulmalarını istemiyorsan, <a class="b" href="/?q=ali+ismail+korkmaz%27%c4%b1+unutturmuyoruz">ali ismail korkmaz'ı unutturmuyoruz</a>.
+   
   entry_writer: caiphas
 - entry_name: |
     bahçeli'nin erdoğan'ı satacak olması
   entry_id: 64222624
   entry_content: |
     
-    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>5- ve eklemiş: "330'u bulamazlarsa başta cumhurbaşkanı olmak üzere herkes yasal sınırlarına çekilmek zorunda kalacak.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>lan devletin sistemi hakkında <a class="b" href="/?q=kumar">kumar</a> mı oynanır. bu kumarı oynayan adamın b c d planları var mı! beyimiz meğer <a class="b" href="/?q=pazarl%c4%b1k">pazarlık</a>la işini sağlama alıyormuşmuş da tırı da vırı<br/><br/>tanım: stepne liderin her zamanki gibi akp stepnesi görevini yapacağı ve iş bu başlıkta yazan teoriyi yerle yeksan edeceği durum. bahçeli satsa satsa kendi halkını satar
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>5- ve eklemiş: "330'u bulamazlarsa başta cumhurbaşkanı olmak üzere herkes yasal sınırlarına çekilmek zorunda kalacak.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>lan devletin sistemi hakkında <a class="b" href="/?q=kumar">kumar</a> mı oynanır. bu kumarı oynayan adamın b c d planları var mı! beyimiz meğer <a class="b" href="/?q=pazarl%c4%b1k">pazarlık</a>la işini sağlama alıyormuşmuş da tırı da vırı<br/><br/>tanım: stepne liderin her zamanki gibi akp stepnesi görevini yapacağı ve iş bu başlıkta yazan teoriyi yerle yeksan edeceği durum. bahçeli satsa satsa kendi halkını satar<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: bugün ayın 22'si. sevdiklerinize henüz yanınızdayken sımsıkı sarılın. <a rel="nofollow noopener" class="url" target="_blank" href="https://qph.ec.quoracdn.net/main-qimg-d1673ec02b63ea1e3460e4e6ebc33de3-c?convert_to_webp=true" title="https://qph.ec.quoracdn.net/main-qimg-d1673ec02b63ea1e3460e4e6ebc33de3-c?convert_to_webp=true">always</a>
    
   entry_writer: kaptankanca
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 64222587
   entry_content: |
     
-    ihaleye giren iki firma da mehmet emin karamehmet'in devlet tarafından gasp edilen şirketleri..<br/><br/>adamın vizyonuna hayran olmamak elde değil.
+    ihaleye giren iki firma da mehmet emin karamehmet'in devlet tarafından "el konulan" şirketleri..<br/><br/>adamın vizyonuna hayran olmamak elde değil.<br/><br/>edit: ekşi destek
    
   entry_writer: diger camasir suyu
 - entry_name: |
@@ -191,8 +191,8 @@ data:
   entry_id: 64230175
   entry_content: |
     
-    unuttuk mu. hayir tabi ki. tekmeci. malum tekmeden sonra karisini da trtye sokan varlik.
-    
+    unuttuk mu. hayir tabi ki. tekmeci. malum tekmeden sonra karisini da trtye soktu..<br/><br/><a class="b" href="/?q=edit">edit</a>: gg düzeltmesi.<br/><br/>eğer okumadıysanız ve vaktiniz varsa <a class="b" href="/?q=diesel1907">diesel1907</a>nin <a class="b" href="/entry/56576191">#56576191</a> no.lu entrysini lütfen okuyun. neredeyse birebir aynı süreçlerden geçiyoruz. dış politikada, iç politikada, muhaliflerin susturulma biçiminde, propaganda biçiminde. bütün dünyanın bizim karşımızda olduğu propagandası, dostlarla düşman olup, düşmanlarla tekrar dost olma, güvenilirliğin tamamen kaybedilmesi, devletin daha önce imzaladığı barış anlaşmalarına yapılan eleştiriler... ama hitler'in bir farkı vardı. çıkıp 1. dünya savaşı sonrasında imzalanan bütün anlaşmaları tek taraflı feshetmişti. gücüne güveniyordu. delikanlıysan sen de çık lozanı tanımıyorum de o zaman. kuru kuru eleştiri yapma. o koltuklarda lozan sayesinde oturuyosunuz. <br/><br/>bu arada bugün çok yakın bir arkadaşım <a class="b" href="/?q=2+kas%c4%b1m+2016+ohal+kapsam%c4%b1nda+khk%27lar">2 kasım 2016 ohal kapsamında khk'lar</a> ile devlet memurluğundan çıkarıldı. cemaatin yanından bile geçmişliği yok.
+   
   entry_writer: yalanci bir yazar
 - entry_name: |
     cinsel istismar yasası terörle mücadele içindir
@@ -223,15 +223,15 @@ data:
   entry_id: 64228847
   entry_content: |
     
-    olamaz amk virus mirüs olamaz. yeter lan her başlıkta aynı sikko espri!
-    
+    (bkz:  <a class="b" href="/?q=olamaz+amk+virus+mir%c3%bcs+olamaz">olamaz amk virus mirüs olamaz</a>)<br/>yeter lan her başlıkta aynı sikko espri!<br/><br/>edit: bu başlıkta malum, gereksiz bakınız bir değil arka arkaya iki defa girilmişti. sonradan silinmişler.
+   
   entry_writer: se se ge
 - entry_name: |
     21 kasım 2016 ahmet türk'ün gözaltına alınması
   entry_id: 64223857
   entry_content: |
     
-    akp kalpazanlığı yapmadan önce bu adamın hayat hikayesini inceleyin derim. her şeye "terörörö" demeye alışmış bir akp yavşaklığı aldı başını gidiyor.  <br/><br/>o bölgede olayların durması için hayatını defalarca tehlikeye atmış, aşiret kavgalarının durmasında önemli katkısı olan bir adamdır.<br/><br/>niçin içeri alınıyor. çünkü hükümet artık bir iç savaş istiyor fakat bir türlü istediğini elde edemiyor. o da insanların hassas noktalarına el atıyor.<br/><br/>demedi demeyin sonunda chp de kapatılacak.
+    akp ... yapmadan önce bu adamın hayat hikayesini inceleyin derim. her şeye "terörörö" demeye alışmış bir akp ... aldı başını gidiyor.  <br/><br/>o bölgede olayların durması için hayatını defalarca tehlikeye atmış, aşiret kavgalarının durmasında önemli katkısı olan bir adamdır.<br/><br/>niçin içeri alınıyor. çünkü hükümet artık bir ... istiyor fakat bir türlü istediğini elde edemiyor. o da insanların hassas noktalarına el atıyor.<br/><br/>demedi demeyin sonunda chp de kapatılacak.<br/><br/>edit: hukuka aykırılık bla bla nedenlerden dolayı ilgili yerler nokta ile değiştirilmiştir. siz ve hayal gücünüz.
    
   entry_writer: infected mushroom
 - entry_name: |
@@ -255,7 +255,7 @@ data:
   entry_id: 64229195
   entry_content: |
     
-     <a class="b" href="/?q=k%c4%b1z+gel+seni+artist+yapay%c4%b1m">kız gel seni artist yapayım</a> tadında atılmış bir zarf. artist olacağını sanan kızın başına gelenler hepimizin malumu.
+     <a class="b" href="/?q=k%c4%b1z+gel+seni+artist+yapay%c4%b1m">kız gel seni artist yapayım</a> tadında atılmış bir zarf. artist olacağını sanan kızın başına gelenler hepimizin malumu.<br/><br/>edit: kızın başına gelenleri bilmeyenler varmış; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=xhwNywVYBk4">https://www.youtube.com/watch?v=xhwnywvybk4</a>
    
   entry_writer: xaxxbczczaaxax
 - entry_name: |
@@ -271,7 +271,7 @@ data:
   entry_id: 64235962
   entry_content: |
     
-    kiz-erkekk<br/><br/>14-14<br/>15-15<br/>16-16<br/>17-17<br/><br/>normal.<br/><br/>15-17<br/>16-18<br/>17-19<br/><br/>normal.<br/><br/>20-30<br/><br/>25-40<br/><br/>35-55<br/><br/>normal.<br/><br/>bak amin evladi;<br/><br/>13-30<br/><br/>15-40<br/><br/>16-50<br/><br/>17-75<br/><br/>normal degil ok? pedofili pic seni.
+    kiz-erkekk<br/><br/>14-14<br/>15-15<br/>16-16<br/>17-17<br/><br/>normal.<br/><br/>15-17<br/>16-18<br/>17-19<br/><br/>normal.<br/><br/>20-30<br/><br/>25-40<br/><br/>35-55<br/><br/>normal.<br/><br/>bak simdi;<br/><br/>13-30<br/><br/>15-40<br/><br/>16-50<br/><br/>17-75<br/><br/>normal degil, yoksa pedofili oluyorsun tamam mi?<br/><br/>edit: rica uzerine hakaret iceren sözcükler kaldirildi.<br/><br/>edit2: baya bi mesaj aldim 18 yasindan asagi bireylerle her türlü suc diye. bakin arkadaslar, hali hazirda senelerden beri olan yasalara göre kendi sinifindaki 18 yasindaki lise son ögrencisi olan oglan, 17,5 yasindaki kiz arkadasiyla alan veren memnun birsekilde iliskiye girince, sikayet olursa, oglan kanun önünde suclu, tutuklu yargilama, hapis cezasina kadar uzuyor is. ama 50 yasindaki herif, 16 yasindaki kizi ailesinin rizasiyla, kiz istemese bile "alinca" suclu degil. niye? kiz resit degil, aileye soruluyor cünkü.<br/><br/>sunu tartismak bile komik aslinda. <br/><br/>birde 14-14, 15-15 yasindakilerin yapmasi normal degil diyenler olmus. ben de birsey yapmalilar yazmadim zaten. ama sunu da diyeyim; genel olarak cinsellige bu yaslarda baslayan bir toplum olsak, ne bu kadar taciz-tecavüz, ne de cocuk istismari olur, ne de kadinlara hala cinsel obje gözüyle bakilir. adam parlementoda bakan, milletvekili olmus, kafa sokakta agzindan salyalar akarak sokaktaki kadinlari kesen, 15-16 yasindaki kiz cocuklarini olgun, evlilige hazir görenlerle ayni. niye? ac cünkü adam, görmemis ki.
    
   entry_writer: acsr777
 - entry_name: |
@@ -299,7 +299,7 @@ data:
     
   entry_writer: freudun egosu
 - entry_name: |
-    ibrahim tatlıses'in twitterdaki 15. beğenisi
+    ibrahim tatlıses'in twitter'daki 15. beğenisi
   entry_id: 64226912
   entry_content: |
     
@@ -331,7 +331,7 @@ data:
    
   entry_writer: zorlu bagistan
 - entry_name: |
-    erkeklerin giderek gayleşmesi
+    erkeklerin giderek gay'leşmesi
   entry_id: 64233420
   entry_content: |
     
@@ -399,7 +399,7 @@ data:
   entry_id: 64224513
   entry_content: |
     
-    sıvısının içeriğinde su bulunmaz. 3 temel yapıtaşı vardır..<br/><br/>(bkz: <a class="b" href="/?q=nikotin">nikotin</a>)<br/>(bkz: <a class="b" href="/?q=bitkisel+gliserin">bitkisel gliserin</a>)<br/>(bkz: <a class="b" href="/?q=propilen+glikol">propilen glikol</a>)<br/><br/>ikisi doğaldır(bitkiden elde edilir) bir tanesi petrol ürünüdür ama sindiriminin zararsız olduğu bilinmektedir ve yıllardır gıda endüstrisinde kullanılmaktadır.<br/><br/>insanların "ısrarla" ciğerleriniz su toplar dedikleri şey ile bu sıvının ilgisi yoktur.<br/><br/>(bkz: <a class="b" href="/?q=pl%c3%b6rezi">plörezi</a>)<br/>(bkz: <a class="b" href="/?q=e%c4%9fitim+cehaleti+al%c4%b1r+e%c5%9feklik+baki+kal%c4%b1r">eğitim cehaleti alır eşeklik baki kalır</a>)
+    sıvısının içeriğinde su bulunmaz. 3 temel yapıtaşı vardır..<br/><br/>(bkz: <a class="b" href="/?q=nikotin">nikotin</a>)<br/>(bkz: <a class="b" href="/?q=bitkisel+gliserin">bitkisel gliserin</a>)<br/>(bkz: <a class="b" href="/?q=propilen+glikol">propilen glikol</a>)<br/><br/>ikisi doğaldır(bitkiden elde edilir) bir tanesi petrol ürünüdür ama sindiriminin zararsız olduğu bilinmektedir ve yıllardır gıda endüstrisinde kullanılmaktadır.<br/><br/>insanların "ısrarla" ciğerleriniz su toplar dedikleri şey ile bu sıvının ilgisi yoktur.<br/><br/>(bkz: <a class="b" href="/?q=pl%c3%b6rezi">plörezi</a>)<br/>(bkz: <a class="b" href="/?q=e%c4%9fitim+cehaleti+al%c4%b1r+e%c5%9feklik+baki+kal%c4%b1r">eğitim cehaleti alır eşeklik baki kalır</a>)<br/><br/>debe'den gelen edit: arkadaşlar bilgi paylaştıkça çoğalır. insanlar ne kadar doğru bilgi sahibi olurlarsa o kadar iyi algılarlar ve sağlıklı karar verirler. ama malesef çağımızın hastalığı dezenformasyon heryerde. insanlar yalan yanlış bilgilerle yanlış kararlar almakta ve sonra bu kararları sanki hayatları buna bağlıymışcasına savunmakta ısrar etmektedirler.<br/><br/>bazı arkadaşlar verdiğim bilginin yalan yanlış olduğunu iddia etmişler. ama bilmedikleri şey şu ki ben kimsenin lafıyla buraya bilgi girişi yapmam. neymiş elinde sıvı varmışta üzerinde içinde %10 su bulunduğu yazıyormuş. içme arkadaşım. ben mi sana iç dedim o sıvıyı? sapla samanı ayırt edemiyorsan o senin problemin benim değil ki! ben ne yazmışım? "3 temel yapıtaşı vardır." ve su bunlardan birisi değildir. ama ben içinde su olan sıvı içiyorum. e o senin problemin canım kardeşim. farkındaysan bunun içine aroma koyanıda var ama ben ondanda bahsetmemişim.<br/><br/>herşeyi bir kenara koyarsak merdiven altı kontrolsüz üretilmiş sıvı içiyorsanız bile içeriğinde en az endişe edeceğiniz şey sudur. diasetil, asetoin, formaldehid içermeyen sıvı bulup tüketmek içenin sorumluluğudur. malesef bu iş bakkaldaki tüm sigaraların aynı derecede zararlı olması gibi değildir. içeceğin sıvıda bu yukardakilerin hiçbirisi yoksa alacağın tek zararlı madde nikotindir ki zaten amaçta nikotini olabilecek en sağlıklı şekilde almaktır. sigarada böyle bir şansın yoktur çünkü sigara sönükken dünyanın en zararsız şeyiyken yakıp içine çektiğinde 6000 farklı toksik ve zehirli maddeyi içine çekmiş olursun.<br/><br/>sonuç olarak e-sigara sıvısında ki su ile ciğerlerde toplanan suyun bir ilişkisi yoktur. illa kötüleyecekseniz başka doneler bulup geliniz lütfen.
    
   entry_writer: mrsandman
 ---
