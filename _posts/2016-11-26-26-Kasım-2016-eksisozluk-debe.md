@@ -7,7 +7,7 @@ data:
   entry_id: 64303874
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=karar%c4%b1+yok+h%c3%bckm%c3%bcnde+say%c4%b1yoruz">kararı yok hükmünde sayıyoruz</a>)
+    (bkz:  <a class="b" href="/?q=karar%c4%b1+yok+h%c3%bckm%c3%bcnde+say%c4%b1yoruz">kararı yok hükmünde sayıyoruz</a>)<br/><br/>edit:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.boeing.com/resources/boeingdotcom/defense/air-force-one/air_force_one_1280x436.jpg" title="http://www.boeing.com/resources/boeingdotcom/defense/air-force-one/air_force_one_1280x436.jpg">goklerden gelen bir karar vardir.</a><br/><br/>amme hizmeti: <br/><br/>gelen kutusu » @helinbedava<br/>(<a class="b" href="/entry/64303874">#64303874</a>) <br/>sa debeye girmişsin tebrik ederim. <br/><br/>acil bi hastaya yardım edermisin?<br/><br/>bir arkadaşım için 0+ kan lazim bezmialem vakif üniversite hastanesinde. <br/>yardım icin debedit yaparmısın?<br/><br/>kan vermek isteyenler aşagıdaki numaradan ulaşabilir. <br/>erkan pekergin<br/>+90 535 352 7528<br/><br/>teşekkür ederim<br/><br/>26.11.2016 12:11
    
   entry_writer: angry engineer
 - entry_name: |
@@ -15,7 +15,7 @@ data:
   entry_id: 64306701
   entry_content: |
     
-    olay örgüsüne bakın::<br/><br/>1) okan reisin kanalındaki diziyi tiye alıyor ----> reisin izlediği diziyle dalga geçmek! en büyük günah!ah!<br/>2) okan sadece ve sadece tiye aldığı dizi hakkında sarf ettiği sözler için özür diliyor ----> 'korku'dan çark ediyor. suç: tiye almak!ak!<br/>3) okan'ın sözleşmesi feshediliyor ----> nasıl bir 'korku'ysa kanal da geri adım atıyor!or!<br/><br/>bakın aşağılama, hakaret, küfür vs. yok! sadece dizinin ismini fazlaca telaffuz ederek hiciv yollu dokunduruyor. yani karikatür çizmek bile daha ağır. <br/><br/>okan'ı savunmak değil olay. nasıl bir ülkede yaşadığımızı bilin diye dedim.
+    olay örgüsüne bakın::<br/><br/>1) okan reisin kanalındaki diziyi tiye alıyor ----> reisin izlediği diziyle dalga geçmek! en büyük günah!ah!<br/>2) okan sadece ve sadece tiye aldığı dizi hakkında sarf ettiği sözler için özür diliyor ----> 'korku'dan çark ediyor. suç: tiye almak!ak!<br/>3) okan'ın sözleşmesi feshediliyor ----> nasıl bir 'korku'ysa kanal da geri adım atıyor!or!<br/><br/>bakın aşağılama, hakaret, küfür vs. yok! sadece dizinin ismini fazlaca telaffuz ederek hiciv yollu dokunduruyor. yani karikatür çizmek bile daha ağır. <br/><br/>okan'ı savunmak değil olay. nasıl bir ülkede yaşadığımızı bilin diye dedim.<br/><br/>edit: acil bir hasta için 0+ kan lazım.kan vermek isteyenler aşagıdaki numaradan ulaşabilir. <br/>erkan pekergin<br/>+90 535 352 7528<br/><br/>edit: büyüdün ve oyuncakların evde boş boş duruyor. hemen onları (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)'ya bağışla.
    
   entry_writer: geek in aad
 - entry_name: |
@@ -23,7 +23,7 @@ data:
   entry_id: 64306784
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sataram+ha+k%c3%b6y%c3%bc">sataram ha köyü</a>)
+    (bkz:  <a class="b" href="/?q=sataram+ha+k%c3%b6y%c3%bc">sataram ha köyü</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: macenas
 - entry_name: |
@@ -31,23 +31,15 @@ data:
   entry_id: 64306640
   entry_content: |
     
-    şu kadına bir iş bulun lan yazıktır.
-    
-  entry_writer: judpriest
-- entry_name: |
-    visa ve mastercard'ın türkiye'den çekilme kararı
-  entry_id: 64314570
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=vizeler+kalkacak+demedim+visalar+kalkacak+dedim">vizeler kalkacak demedim visalar kalkacak dedim</a>)
+    şu kadına bir iş bulun lan yazıktır..<br/><br/>debe'nin bana verdiği yetkiye dayanarak edit:<br/>odtü verimlilik topluluğu'nun düzenlediği yönetim ve mühendislik günleri'nin 17.'si 25-26 şubat 2017'de 'dijital dönüşüm' temasıyla gerçekleştirilecek. etkinlik tamamen ücretsiz olup, herkesin katılımına açıktır. takipte kalmak için:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/YonetimVeMuhendislikGunleri/?fref=ts" title="https://www.facebook.com/YonetimVeMuhendislikGunleri/?fref=ts">yönetim ve mühendislik günleri</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/odtuverimliliktoplulugu/?fref=ts" title="https://www.facebook.com/odtuverimliliktoplulugu/?fref=ts">odtü verimlilik topluluğu</a>
    
-  entry_writer: 41 karakterli nick isteyen adam
+  entry_writer: judpriest
 - entry_name: |
     şu aşamada bilerek dolar alan herkes haindir
   entry_id: 64308192
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=hainim+ama+para+bende">hainim ama para bende</a>)
+    (bkz:  <a class="b" href="/?q=hainim+ama+para+bende">hainim ama para bende</a>)<br/><br/>debe edit: <br/>acil<br/>bir arkadaşım için 0+ kan lazim bezmialem vakif üniversite hastanesinde. <br/><br/>kan vermek isteyenler aşagıdaki numaradan ulaşabilir. <br/>erkan pekergin<br/>+90 535 352 7528<br/><br/>teşekkür ederim
    
   entry_writer: oksuz sari cicek
 - entry_name: |
@@ -71,8 +63,8 @@ data:
   entry_id: 64314413
   entry_content: |
     
-    yılın son çeyreğinde hamur işine gömülmesi sonucunda gerçekleşmiştir. yatırımcının yüzünü güldürmemiştir.
-    
+    yılın son çeyreğinde hamur işine gömülmesi sonucunda gerçekleşmiştir. yatırımcının yüzünü güldürmemiştir..<br/><br/>debe editi: porto'da pınar süt içen gurbet kuşuna selam olsun.<br/><br/>destek editi: (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)<br/><br/>destek editi 2: 0+ kan lazımmış bezmialem vakif üniversite hastanesinde yatan bir hasta için. <br/>kan vermek isteyenler aşagıdaki numaradan ulaşabilir. <br/>erkan pekergin +90 535 352 7528
+   
   entry_writer: bipolar express
 - entry_name: |
     25 kasım 2016 mehmet şimşek'in attığı tweet
@@ -103,8 +95,8 @@ data:
   entry_id: 64309383
   entry_content: |
     
-    internetteki cübbesiz görüntülerinde gayet zevk içinde görülebiliyor kendisi.
-    
+    internetteki cübbesiz görüntülerinde gayet zevk içinde görülebiliyor kendisi..<br/><br/>edt:(bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
+   
   entry_writer: damperlikamyonaltindancikankedi
 - entry_name: |
     sahneye fırlayıp cumhurbaşkanına sarılan genç
@@ -119,7 +111,7 @@ data:
   entry_id: 64316099
   entry_content: |
     
-    yerle yeksan olalım yeter ki erdoğan kalsın düşüncesinin tam tersi..<br/><br/>hiç bu açıdan bakamadınız değil mi amk çomarları.
+    yerle yeksan olalım yeter ki erdoğan kalsın düşüncesinin tam tersi..<br/><br/>hiç bu açıdan bakamadınız değil mi amk çomarları.<br/><br/>(bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: gelecomp
 - entry_name: |
@@ -155,27 +147,11 @@ data:
     
   entry_writer: gelecomp
 - entry_name: |
-    akp'ye oy verip chp'li gibi yaşayan tip
-  entry_id: 64314790
-  entry_content: |
-    
-    türkiye'de yüzbinlerce örneği vardır bu tipin. bu yavşaklar yüzünden ülke bu halde zaten, ne kadar sövsek az amın oğullarına.
-    
-  entry_writer: kafalardaki soru isareti
-- entry_name: |
-    starbucks'ın türkiye'yi terk etme kararı alması
-  entry_id: 64315230
-  entry_content: |
-    
-    sırasıyla  <a class="b" href="/?q=swarm">swarm</a>, <a class="b" href="/?q=instagram">instagram</a>, <a class="b" href="/?q=facebook">facebook</a> ve <a class="b" href="/?q=twitter">twitter</a>'ın da ülkeyi terk etme kararı almasına yol açabilecek karar alma durumu.. bir nevi, <a class="b" href="/?q=kararception">kararception</a>..<br/><br/>nerede check in yapacaklar!?<br/><br/>he bir de; (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>)
-   
-  entry_writer: hapsuruktan tayyare
-- entry_name: |
     ötv'de azalan oranda sisteme geçtik
   entry_id: 64305706
   entry_content: |
     
-    şu anda bloomberg ht'de maliye bakanı naci ağbal'ın yaptığı açıklama.  <br/><br/>özetle diyor ki;<br/><br/>1600 cc'ye kadarki motorlu araçlarda ötv oranı %60 oldu. <br/><br/>yalnız azalan oranda vergilendirme ile, eğer otomobilin çıplak fiyatı 40.000 tl'nin altındaysa ötv %45 olarak uygulanacaktır diyor.<br/><br/>yani aslında ötv artmamış, azalan oranda vergilendirme sistemine geçmişiz.<br/><br/>ayrıca yeni sistemin hayırlı olmasını da dilemiş ve bu düzenlemenin sektörün bir isteği olduğunu söylemiştir.<br/><br/>nedense bunun azalan oranda vergilendirme olduğunu üstüne basa basa söylemiştir.<br/><br/>çünkü 1600 cc motor altındaki araçlarda genel ötv oranı aslında %60 ama eğer aracın bedeli düşükse ötv %45'e iniyormuş.<br/><br/>ama kimse sayın bakanımıza hali hazırda %45 olan bir oranın, fiyatlandırma baz alınarak nasıl yeniden %45'e *indirildiğini* sormamıştır.<br/><br/>eminim bunu da yiyecek birileri vardır bu memlekette. <br/><br/>ben sevmediğim insanla bile bu kadar taşak geçmem herkesin önünde. ülke ülke değil sirk oldu maşallah.
+    şu anda bloomberg ht'de maliye bakanı naci ağbal'ın yaptığı açıklama.  <br/><br/>özetle diyor ki;<br/><br/>1600 cc'ye kadarki motorlu araçlarda ötv oranı %60 oldu. <br/><br/>yalnız azalan oranda vergilendirme ile, eğer otomobilin çıplak fiyatı 40.000 tl'nin altındaysa ötv %45 olarak uygulanacaktır diyor.<br/><br/>yani aslında ötv artmamış, azalan oranda vergilendirme sistemine geçmişiz.<br/><br/>ayrıca yeni sistemin hayırlı olmasını da dilemiş ve bu düzenlemenin sektörün bir isteği olduğunu söylemiştir.<br/><br/>nedense bunun azalan oranda vergilendirme olduğunu üstüne basa basa söylemiştir.<br/><br/>çünkü 1600 cc motor altındaki araçlarda genel ötv oranı aslında %60 ama eğer aracın bedeli düşükse ötv %45'e iniyormuş.<br/><br/>ama kimse sayın bakanımıza hali hazırda %45 olan bir oranın, fiyatlandırma baz alınarak nasıl yeniden %45'e *indirildiğini* sormamıştır.<br/><br/>eminim bunu da yiyecek birileri vardır bu memlekette. <br/><br/>ben sevmediğim insanla bile bu kadar dalga geçmem herkesin önünde. ülke ülke olmaktan çıktı.
    
   entry_writer: sarhoj
 - entry_name: |
@@ -183,7 +159,7 @@ data:
   entry_id: 64307108
   entry_content: |
     
-    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>böyle devam ederse 2-3 aya kadar meclisin önünde doblosunu yakan sarayın önünde çoluğunu çocuğunu kesmeye çalışan çomar it sürüsü izleriz bol bol akşam haberlerinde.<br/><br/>-almayın kafanıza göre mülteci dedik aldınız<br/>-hukuk kurallarını çiğnemeyin her görüşe saygılı olun dedik olmadınız<br/>-devleti cemaatlere teslim etmeyin dedik ettiniz kandırıldınız<br/>-üretime bağlı ekonomi oluşturun laz müteahhitlere yedirmeyin vergilerimizi dedik yedirdiniz<br/>-insanları bıktırmayın kimsenin özel hayatına nasıl yaşadığına karışmayın dedik karıştınız<br/>-atatürk ilkelerinden laiklikten uzaklaşmayın dedik atam'a ayyaş dediniz<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şimdi siktir olun gidin ötede ağlayın
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>böyle devam ederse 2-3 aya kadar meclisin önünde doblosunu yakan sarayın önünde çoluğunu çocuğunu kesmeye çalışan çomar it sürüsü izleriz bol bol akşam haberlerinde.<br/><br/>-almayın kafanıza göre mülteci dedik aldınız<br/>-hukuk kurallarını çiğnemeyin her görüşe saygılı olun dedik olmadınız<br/>-devleti cemaatlere teslim etmeyin dedik ettiniz kandırıldınız<br/>-üretime bağlı ekonomi oluşturun laz müteahhitlere yedirmeyin vergilerimizi dedik yedirdiniz<br/>-insanları bıktırmayın kimsenin özel hayatına nasıl yaşadığına karışmayın dedik karıştınız<br/>-atatürk ilkelerinden laiklikten uzaklaşmayın dedik atam'a ayyaş dediniz<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şimdi siktir olun gidin ötede ağlayın<br/><br/>debe edit : <br/><br/>eğitim yaz 4622 ye yolla,<br/><br/>(bkz: <a class="b" href="/?q=%c3%a7a%c4%9fda%c5%9f+ya%c5%9fam%c4%b1+destekleme+derne%c4%9fi">çağdaş yaşamı destekleme derneği</a>)<br/><br/>ayrıca bu güzel insanlara da yardımcı olalım<br/><br/>(bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: leptospiroz
 - entry_name: |
@@ -215,7 +191,7 @@ data:
   entry_id: 64307231
   entry_content: |
     
-    vatan millet sakarya edebiyatıyla beyin göçünü engelleme çabasıdır..<br/><br/>o tren çoktan kalktı. artık genç nesil bu ülkede yaşamak istemiyor. gelecek görmüyorlar. iyice araplaşan, din adına arapların köpekliğine soyunan, cehaletin, barbarlığın kutsandığı bu ülkeye olan umutlarını kaybettiler.<br/><br/>iyi eğitimli, donanımlı gençler bir bir gitmek istiyor.<br/>her yanda yurtdışında iş arama konulu seminerler düzenleniyor.<br/>sözde bilim kurumu tubitak bildiğin çomara dönmüş, içinde dini bir şey olmayan projeleri kabul etmiyor. o kabul etmediği, yüzüne bakmadığı projelerin sahibi gençleri almanya, amerika anında kapıyor.<br/>sen daha uyu.<br/><br/>bu işler kuru milliyetçilikle yürümez.<br/>son 20-25 yılda bu ülke gençlerine ne verdi de şimdi milliyetçilikle onları durduracaksınız?<br/>içkisine ayrı karıştınız, kiminle hangi evde kalacaklarına ayrı karıştınız.<br/>kalite düştü, dinci baskı büyüdü.<br/><br/>emperyalizmse emperyalizm.<br/>adamlar zamanında standartları koymuş. yaşam kalitesi yüksek.<br/>teknoloji, bilim, kültür hepsi onlarda.<br/>sen kaçırdın treni. <br/>şimdi dün akp'yi başa getiren zihniyet ah vah ediyor. çocuğum iş bulamıyor, gelecekten endişeliyim diye veryansın ediyor.<br/>bu zihniyeti kim başa getirdi?<br/><br/>şimdi hiç dövünmeye hakkınız yok.
+    vatan millet sakarya edebiyatıyla beyin göçünü engelleme çabasıdır..<br/><br/>o tren çoktan kalktı. artık genç nesil bu ülkede yaşamak istemiyor. gelecek görmüyorlar. iyice araplaşan, din adına arapçılığa soyunan, cehaletin, barbarlığın kutsandığı bu ülkeye olan umutlarını kaybettiler.<br/><br/>iyi eğitimli, donanımlı gençler bir bir gitmek istiyor.<br/>her yanda yurtdışında iş arama konulu seminerler düzenleniyor.<br/>sözde bilim kurumu tubitak bildiğin çomara dönmüş, içinde dini bir şey olmayan projeleri kabul etmiyor. o kabul etmediği, yüzüne bakmadığı projelerin sahibi gençleri almanya, amerika anında kapıyor.<br/>sen daha uyu.<br/><br/>bu işler kuru milliyetçilikle yürümez.<br/>son 20-25 yılda bu ülke gençlerine ne verdi de şimdi milliyetçilikle onları durduracaksınız?<br/>içkisine ayrı karıştınız, kiminle hangi evde kalacaklarına ayrı karıştınız.<br/>kalite düştü, dinci baskı büyüdü.<br/><br/>emperyalizmse emperyalizm.<br/>adamlar zamanında standartları koymuş. yaşam kalitesi yüksek.<br/>teknoloji, bilim, kültür hepsi onlarda.<br/>sen kaçırdın treni. <br/>şimdi dün akp'yi başa getiren zihniyet ah vah ediyor. çocuğum iş bulamıyor, gelecekten endişeliyim diye veryansın ediyor.<br/>bu zihniyeti kim başa getirdi?<br/><br/>şimdi hiç dövünmeye hakkınız yok.<br/><br/>_______<br/>edit: güzel bir kampanya var buralarda.<br/>(bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: kutupta gezen deve
 - entry_name: |
@@ -223,23 +199,15 @@ data:
   entry_id: 64304328
   entry_content: |
     
-    şüphesiz ki, fırlatmaya tuğralı doblosu ile gelecektir.
-    
-  entry_writer: creeping dutchman
-- entry_name: |
-    önüne geleni vatan haini ilan eden öküz
-  entry_id: 64314229
-  entry_content: |
-    
-    ekşi sözlükte çok bulunan yüzde yüze yerli ve milli öküz türüdür.  <br/>bu adamlara göre ülkedeki çocuk tecavüz vakalarına dair uluslararası düzeyde bir farkındalık yaratmak için yabancı hashtag kullanan adam vatan hainidir.<br/>ülkenin hukuksuzca ışıd'e yaptığı silah sevkiyatını millete duyurduğu için hapse atılmaya çalışılan kendisine suikast girişmi yapılan bir adamın ülke dışına kaçması vatan hainliğidir. <br/>kendisinin giydiği don bile avrupa malıyken "avrupa malı almayıp ne yapacaz" diyen adam mesela vatan hainidir. <br/>hay alın vatanınızı da bir tarafınıza sokun.
+    şüphesiz ki, fırlatmaya tuğralı doblosu ile gelecektir..<br/><br/>debe editi şeysi: güzel şeylere dikkat çekelim. (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
-  entry_writer: kayayi delen incir
+  entry_writer: creeping dutchman
 - entry_name: |
     türkiye'deki black friday yalancılığı
   entry_id: 64306485
   entry_content: |
     
-    e-ticaret sitelerine ürün tedariği gerçekleştiriyoruz.  <br/>bu günlerde bizden istedikleri. fiyatlarımızı yüksek göstermeleri. <br/><br/>örneğin; 100 lira'ya ürün satıyoruz. site bu fiyata kendi kar marjını ve farklı vergilerini koyup, 200 lira'ya satıyor.<br/><br/>herşey gayet normal. <a class="b" href="/?q=black+friday">black friday</a> günleri gelirken, satış yapan bu büyük site bizden kolpa bir sayfa hazırlayıp ürün fiyatını 100 liradan 200 liraya çıkartmamızı istiyor. ama halbuki 100 liraya alıyor resmi olarak. <br/><br/>sonra ürün satışını yaparken rakamları güncelleyip 300 lira olacak ürünü yine 200 liraya satıyor. insanlarımız da ''ufff ne indirim ama'' diyerek alış veriş yapıyorlar. <br/><br/>bu başlığı açmam demek, kendi ayağıma sıkmam demek bir yerde ama olsun. uyanın ve gaza gelmeyin!
+    debe editi; destek olmak lazım. (bkz:  <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)<br/><br/>e-ticaret sitelerine ürün tedariği gerçekleştiriyoruz. <br/>bu günlerde bizden istedikleri. fiyatlarımızı yüksek göstermeleri. <br/><br/>örneğin; 100 lira'ya ürün satıyoruz. site bu fiyata kendi kar marjını ve farklı vergilerini koyup, 200 lira'ya satıyor.<br/><br/>herşey gayet normal. <a class="b" href="/?q=black+friday">black friday</a> günleri gelirken, satış yapan bu büyük site bizden kolpa bir sayfa hazırlayıp ürün fiyatını 100 liradan 200 liraya çıkartmamızı istiyor. ama halbuki 100 liraya alıyor resmi olarak. <br/><br/>sonra ürün satışını yaparken rakamları güncelleyip 300 lira olacak ürünü yine 200 liraya satıyor. insanlarımız da ''ufff ne indirim ama'' diyerek alış veriş yapıyorlar. <br/><br/>bu başlığı açmam demek, kendi ayağıma sıkmam demek bir yerde ama olsun. uyanın ve gaza gelmeyin!
    
   entry_writer: haters gonna bad
 - entry_name: |
@@ -255,7 +223,7 @@ data:
   entry_id: 64305239
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="https://m.donanimhaber.com/haberler/7-yeni-havalimani-geliyor-her-100-kilometrede-bir-havalimani.htm" title="https://m.donanimhaber.com/haberler/7-yeni-havalimani-geliyor-her-100-kilometrede-bir-havalimani.htm">haber</a> doğruysa ülkenin önündeki en büyük sorun kalkmış ve türk ekonomisinin şaha kalkması için bir engel kalmamış demektir. hayırlı olsun..<br/><br/>bu arada kütahya'ya yapılan zafer havalimanının kütahya'ya yıllık 850 bin yolcu gelecek şekilde ihale edildiğini ve bu hesap yıllık 84 bin yolcuda kalınca aradaki zararı devletin ödediğini unutmamak lazım. sadece 2013 yılında 4,1 milyon avro ödeme yapılan firma ile yapılan sözleşme 20 yıllık. dolayısıyla zarar bu oranda devam ederse 20 yılda ödenecek para 200 milyon avro olarak hesaplanıyor. <br/><br/>sonuçta güzide inşaat firmalarımız zarar edecek değil ya. <br/><br/>son not: zafer havalimanı yapan firma istanbul'a 3. köprü ihalesi verilen firma<sup class="ab"><a title="(bkz: içtaş inşaat)" href="/?q=i%c3%a7ta%c5%9f+in%c5%9faat" data-query="içtaş inşaat">*</a></sup>
+     <a rel="nofollow noopener" class="url" target="_blank" href="https://m.donanimhaber.com/haberler/7-yeni-havalimani-geliyor-her-100-kilometrede-bir-havalimani.htm" title="https://m.donanimhaber.com/haberler/7-yeni-havalimani-geliyor-her-100-kilometrede-bir-havalimani.htm">haber</a> doğruysa ülkenin önündeki en büyük sorun kalkmış ve türk ekonomisinin şaha kalkması için bir engel kalmamış demektir. hayırlı olsun..<br/><br/>bu arada kütahya'ya yapılan zafer havalimanının kütahya'ya yıllık 850 bin yolcu gelecek şekilde ihale edildiğini ve bu hesap yıllık 84 bin yolcuda kalınca aradaki zararı devletin ödediğini unutmamak lazım. sadece 2013 yılında 4,1 milyon avro ödeme yapılan firma ile yapılan sözleşme 20 yıllık. dolayısıyla zarar bu oranda devam ederse 20 yılda ödenecek para 200 milyon avro olarak hesaplanıyor. <br/><br/>sonuçta güzide inşaat firmalarımız zarar edecek değil ya. <br/><br/>son not: zafer havalimanı yapan firma istanbul'a 3. köprü ihalesi verilen firma<sup class="ab"><a title="(bkz: içtaş inşaat)" href="/?q=i%c3%a7ta%c5%9f+in%c5%9faat" data-query="içtaş inşaat">*</a></sup><br/><br/>.............................<br/><br/><a class="b" href="/?q=debe+g%c3%bcncellemesi">debe güncellemesi</a>: bir yazarımızın isteği üzerine hayırlı bir işe vesile olmak isteyenler için (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: adversary
 - entry_name: |
@@ -287,23 +255,15 @@ data:
   entry_id: 64321720
   entry_content: |
     
-    süperman'in donunu dışarı giymesinin yanında o kadar da saçma değildir..<br/><br/>batman adamdır aksini iddia eden şerefsizdir.
+    süperman'in donunu dışarı giymesinin yanında o kadar da saçma değildir..<br/><br/>batman adamdır aksini iddia eden şerefsizdir.<br/><br/>debe edit: ilk debem olması sebebiyle memlekete selamlar yolluyorum. <br/><br/>ayrıca tarih sever biri olarak şu entryi buraya bırakıyorum okumayan kaldıysa tarih sevip<br/>(<a class="b" href="/entry/56576191">#56576191</a>)
    
   entry_writer: sekerli yogurt
-- entry_name: |
-    ekşi'de ajanların cirit atması
-  entry_id: 64320973
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=akp%27li+olmaman%c4%b1n+ter%c3%b6r+%c3%b6rg%c3%bct%c3%bc+%c3%bcyeli%c4%9fi+say%c4%b1lmas%c4%b1">akp'li olmamanın terör örgütü üyeliği sayılması</a>)
-   
-  entry_writer: 17december
 - entry_name: |
     25 kasım 2016 galatasaray bursaspor maçı
   entry_id: 64315473
   entry_content: |
     
-    yalniz galatsaray surunsun, yerlerden kalkamasin isteyen bir besiktasli olarak soyluyorum::<br/><br/>gol ofsayt. az once de %100'luk penalti verilmedi galatasaray'a.<br/><br/>bu kadarina ben bile sevinemem. ayiptir.
+    yalniz galatsaray surunsun, yerlerden kalkamasin isteyen bir besiktasli olarak soyluyorum::<br/><br/>gol ofsayt. az once de %100'luk penalti verilmedi galatasaray'a.<br/><br/>bu kadarina ben bile sevinemem. ayiptir.<br/><br/>---------------------------------------------------------<br/>ve güzel bir şeyler (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: belkigelmezyarin
 - entry_name: |
@@ -319,7 +279,7 @@ data:
   entry_id: 64310576
   entry_content: |
     
-    tl'ye 1 sıfır eklenirse 1 dolar 34 tl'ye eşit olacağı için hiçbir işe yaramayacak formül..<br/><br/>edit: başlığı açanın entry'sini sileceğini tahmin ettiğimden dolayı <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/YqjnEA.png" title="http://i.hizliresim.com/YqjnEA.png">ss almıştım.</a>
+    tl'ye 1 sıfır eklenirse 1 dolar 34 tl'ye eşit olacağı için hiçbir işe yaramayacak formül..<br/><br/>edit: başlığı açanın entry'sini sileceğini tahmin ettiğimden dolayı <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/YqjnEA.png" title="http://i.hizliresim.com/YqjnEA.png">ss almıştım.</a><br/><br/>debe editi: (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: sessiz adam
 - entry_name: |
@@ -351,7 +311,7 @@ data:
   entry_id: 64309003
   entry_content: |
     
-    akıbetini merak ettiğim eylem..<br/><br/>bu arada <a class="b" href="/?q=her+%c5%9fey+aya%c4%9f%c4%b1na+kadar+gelsin">her şey ayağına kadar gelsin</a> yazan <a class="b" href="/?q=hepsiburada.com">hepsiburada.com</a> paketi, ironiyi tavan yaptırmıştır. oğlum türkiye'desiniz. "kısmetse" yazın o kutunun üstüne.
+    akıbetini merak ettiğim eylem..<br/><br/>bu arada <a class="b" href="/?q=her+%c5%9fey+aya%c4%9f%c4%b1na+gelsin">her şey ayağına gelsin</a> yazan <a class="b" href="/?q=hepsiburada.com">hepsiburada.com</a> paketi, ironiyi tavan yaptırmıştır. oğlum türkiye'desiniz. "kısmetse" yazın o kutunun üstüne.
    
   entry_writer: demesi kolay tabii
 - entry_name: |
@@ -383,7 +343,7 @@ data:
   entry_id: 64312151
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sk%c3%b6tylv">skötylv</a>)<br/>(bkz: <a class="b" href="/?q=sen+kimsin+%c3%b6zel+t%c3%bcketim+yap%c4%b1yorsun+lan+vergisi">sen kimsin özel tüketim yapıyorsun lan vergisi</a>)
+    (bkz:  <a class="b" href="/?q=sk%c3%b6tylv">skötylv</a>)<br/>(bkz: <a class="b" href="/?q=sen+kimsin+%c3%b6zel+t%c3%bcketim+yap%c4%b1yorsun+lan+vergisi">sen kimsin özel tüketim yapıyorsun lan vergisi</a>)<br/><br/>debe edit: (bkz: <a class="b" href="/?q=oyuncaklar+otostopta">oyuncaklar otostopta</a>)
    
   entry_writer: eksi peace
 - entry_name: |
