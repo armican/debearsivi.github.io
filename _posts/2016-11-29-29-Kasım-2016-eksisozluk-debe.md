@@ -31,7 +31,7 @@ data:
   entry_id: 64373891
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/12numaraorg/status/803278228655849476" title="https://twitter.com/12numaraorg/status/803278228655849476">https://twitter.com/…aorg/status/803278228655849476</a><br/><br/>geçen hafta galatasaray'a attığı golü sosyal medya hesaplarından paylaşan robin van persie'nin hesabını şikayet ederek, görüntüleri sildirmişler.<br/><br/>ulan adam dünyanın dört bir yanından milyonlarca takipçisine, onu takip eden gazetecilere, televizyon programcılarına türk ligini ve atılan mükemmel golü, lig atmosferini yayıyor, reklam yapıyor, marka değerini ve ligin bilinirliliğini arttırıyor, türk liginin yurt dışında haber olmasını sağlıyor, sen telif hakkı deyip dünya yıldızını şikayet ederek görüntü sildiriyorsun.<br/><br/>tam olarak rezillik.
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/digiturkten-robin-van-persieye-sansur-40291258" title="http://www.hurriyet.com.tr/digiturkten-robin-van-persieye-sansur-40291258">http://www.hurriyet.com.tr/…ersieye-sansur-40291258</a><br/><br/>geçen hafta galatasaray'a attığı golü sosyal medya hesaplarından paylaşan robin van persie'nin hesabını şikayet ederek, görüntüleri sildirmişler.<br/><br/>ulan adam dünyanın dört bir yanından milyonlarca takipçisine, onu takip eden gazetecilere, televizyon programcılarına türk ligini ve atılan mükemmel golü, lig atmosferini yayıyor, reklam yapıyor, marka değerini ve ligin bilinirliliğini arttırıyor, türk liginin yurt dışında haber olmasını sağlıyor, sen telif hakkı deyip dünya yıldızını şikayet ederek görüntü sildiriyorsun.<br/><br/>tam olarak rezillik.<br/><br/>edit: link yenilendi.
    
   entry_writer: daenerys targaryen in askerleriyiz
 - entry_name: |
@@ -39,15 +39,15 @@ data:
   entry_id: 64364870
   entry_content: |
     
-    akp'lilerin yaşadığı orta çağ'da doğum kontrolü henüz keşfedilmemişti sanırım. o yüzden haklı bir beyan.
-    
+    akp'lilerin yaşadığı orta çağ'da doğum kontrolü henüz keşfedilmemişti sanırım. o yüzden haklı bir beyan..<br/><br/>edit: ama tabi çağ atlamak için eğitime ihtiyacımız var. (bkz: <a class="b" href="/entry/64375170">#64375170</a>)
+   
   entry_writer: gazliyarimfenasalmis
 - entry_name: |
     memleket sıkıntıda dua bekliyorum
   entry_id: 64362498
   entry_content: |
     
-    bu sebepten, başımızdan gidin diye her gün dua eden milyonlar var sayın bakanım. içiniz rahat olsun. her gün dua ediyoruz..<br/><br/>tanım: türkiye cumhuriyeti'nde bakanlık yapan bir şahsın beyanı.
+    bu sebepten, başımızdan gidin diye her gün dua eden milyonlar var sayın bakanım. içiniz rahat olsun. her gün dua ediyoruz..<br/><br/>tanım: türkiye cumhuriyeti'nde bakanlık yapan bir şahsın beyanı.<br/><br/>edit: ağrı aşağı köşk ilkokuluna kitap yardımı için kampanya başlatılmış. bir göz atmanızda, imkanınız varsa yardım etmenizde fayda var <a class="b" href="/entry/64375170">#64375170</a>
    
   entry_writer: agosizman
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 64364096
   entry_content: |
     
-    sonunda başka kafelere gidenlerden ek vergiler talep edilmesiyle sonuçlanabilir..<br/><br/>(bkz: <a class="b" href="/?q=sen+girme+arap">sen girme arap</a>)
+    sonunda başka kafelere gidenlerden ek vergiler talep edilmesiyle sonuçlanabilir..<br/><br/>(bkz: <a class="b" href="/?q=sen+girme+arap">sen girme arap</a>)<br/><br/>edit: ağrı aşağı köşk ilkokuluna kitap yardımı için kampanya başlatılmış. bir göz atmanızda, imkanınız varsa yardım etmenizde fayda var <a class="b" href="/entry/64375170">#64375170</a>
    
   entry_writer: agosizman
 - entry_name: |
@@ -119,7 +119,7 @@ data:
   entry_id: 64366129
   entry_content: |
     
-    şirket yemekhanelerinde çıkan bilimum bahçıvan kebabı, ormancı kebabı, efendime söyleyim jandarma kebabı, itfaiyeci kebabı ve türevi kebapların esasında bildiin türlü olması durumu.  <br/><br/>elinde tepsiyle "ehe ehe, bugün kebap varmış" diye sıraya giren binlerce kişiyi hüzne boğan acı bi durum. bu gerçeği bilmek, beklentiyi ayarlamak adına faydalı oluyor.
+    şirket ve okul yemekhanelerinde çıkan bilimum bahçıvan kebabı, ormancı kebabı, efendime söyleyim jandarma kebabı, itfaiyeci kebabı ve türevi kebapların esasında bildiin türlü olması durumu.  <br/><br/>elinde tepsiyle "ehe ehe, bugün kebap varmış" diye sıraya giren binlerce kişiyi hüzne boğan acı bi durum. bu gerçeği bilmek, beklentiyi ayarlamak adına faydalı oluyor.<br/><br/>debe editi: değerli kardeşlerim... yıllarca kebap diye türlü kaktırılan milyonlar, bugün debe'ye girmiştir. bu ses-siz çoğunluk, artık sessizliğini bozmuştur. eyy yemekhane... (ufak bi es, alaycı bi duruşla devam) sen kimsin yau? biz kebabın ne olduğunu (ufak bi es, ciddi bi duruşla devam) sizden öğrenecek değiliz... kimse kusura bakmasın...<br/><br/>yemeklere ilişkin yakın yaklaşık yorumlarımın olduğu @lezzete_zoomlayan_adam diye bi instagram hesabım var. yemekhane koşullarında gurmelik yapıyorum, olduğu kadar.
    
   entry_writer: maca yedilisi
 - entry_name: |
@@ -263,7 +263,7 @@ data:
   entry_id: 64362031
   entry_content: |
     
-    takımların karşılıklı anlaşmaları sonucunda yapılan, ülke puanına pozitif etki edeceği düşünülerek yapılan ertelemelerdir. 2001 yılında galatasaray'ın real madrid maçı öncesi yaptığı erteleme isteğine "bana ne bana ne, o maç oynanacak" diye tutturup 2-0'lık skoru eline alan; şan, şeref, haysiyet vb. kavramları ağzından düşürmeyip sadece kendine şerefli olan bir takımın taraftarları anlayamaz, normaldir..<br/><br/>eminim ki 2013 yılında fenerbahçe finale çıksaydı, fenerbahçe'nin önerisini galatasaray kabul edecek ve uefa finali öncesi olan fenerbahçe-galatasaray derbisi ertelenecekti.<br/><br/>not: galatasaray'ı veya diğer kulüpleri daha hâla fetö ile bağdaştırmaya çalışan da iyi aile çocuğu değildir.
+    takımların karşılıklı anlaşmaları sonucunda, ülke puanına pozitif etki edeceği düşünülerek yapılan ertelemelerdir. 2001 yılında galatasaray'ın real madrid maçı öncesi yaptığı erteleme isteğine "bana ne bana ne, o maç oynanacak" diye tutturup 2-0'lık skoru eline alan; şan, şeref, haysiyet vb. kavramları ağzından düşürmeyip sadece kendine şerefli olan bir takımın taraftarları anlayamaz, normaldir..<br/><br/>eminim ki 2013 yılında fenerbahçe finale çıksaydı, fenerbahçe'nin önerisini galatasaray kabul edecek ve uefa finali öncesi olan fenerbahçe-galatasaray derbisi ertelenecekti.<br/><br/>not: galatasaray'ı veya diğer kulüpleri daha hâla fetö ile bağdaştırmaya çalışan da iyi aile çocuğu değildir.<br/><br/>debe editi: konuyla ilgili daha detaylı ve kaliteli bilgi veren <a class="b" href="/?q=eksibok">eksibok</a>'un <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/64360769" title="https://eksisozluk.com/entry/64360769">entry</a>'sini de okumadan geçmeyiniz. bu başlık için, daha üstlerden debe'ye girmeyi o entry hak ediyordu.
    
   entry_writer: gol d roger
 - entry_name: |
@@ -327,7 +327,7 @@ data:
   entry_id: 64371953
   entry_content: |
     
-    açılın ben doktorum ve çok okudum o nedenle bir şeyler diyeceğim..<br/><br/>bir tıp doktorunun kendisini tanıtma ritüeli ingiltereden başlamış ve tüm batı medeniyetine yayılmıştır. ayrıca başka meslek gruplarının (kendi alanlarında doktora yapmış bile olsalar) kendisini "doktor" olarak tanımlaması yasaklanmıştır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Doctor_(title)" title="https://en.wikipedia.org/wiki/Doctor_(title)">kaynak</a><br/><br/>dinleyin a dostlar, bu yasaklama bazı sonuçlar doğurmuş ve ingilizler doktorun kendisini tanıtmasının "gerekli" olduğunu düşünmüşlerdir. bu yazılı yasağın sonunda yazılı olmayan bir kural olarak "kendini tanıtmak" meslek içerisinde yayılmıştır. <br/><br/>aslında bir doktor karşısındakinin sağlığa ulaşmasını kolaylaştırmak için nezaket gereği kendisini tanıtır. doktorun az bulunduğu ve ulaşmanın zor olduğu zamanlarda doktorlar kendilerini tanıtarak aslında topluma kayıtsız şartsız, kimlik gözetmeksizin hipokrat yemininin gerektirdiği gibi "herkesin hizmetinde olduklarını" hatırlatırlar. hani bilale anlatır gibi anlatayım doktor kendisini tanıtarak aslında bir sorunu varsa hemen dinleyebileceğini veya olursa kendisini bulmaları gerektiğini kısaca ve nazikçe hatırlatmış olur.<br/><br/>bu kural bugün için de geçerlidir ve inanmazsınız hala aynı işlevi görür. bir insana doktor olduğunuzu söylediğinizde hemen kendi sağlık sorunlarından bahseder veya sağlık sorunu olan bir yakını ile ilgili yardım ister. bunun neresi bencilce veya ukalacadır anlamakta zorluk çekiyorum. yani aslında biz doktor olduğumuzu belirterek hizmetimizi ve bilgimizi sizlere açıkça sunmuş oluyoruz. bu bir sağlık hizmeti teklifi aslında.<br/><br/>son söz; doktorlar hala maalesef ulaşılması zor insanlardır ve kendini tanıtmasının bence zorunlu olduğu tek meslek olmaya devam etmelidir. genç meslektaşlarıma önerim her mecrada insanlara kimliklerinin en önemli kısmı olan bu ünvanı kullanmalarıdır. hiç ummadığınız bir anda birisinin hayatını değiştirebilirsiniz.
+    açılın ben doktorum ve çok okudum o nedenle bir şeyler diyeceğim..<br/><br/>bir tıp doktorunun kendisini tanıtma ritüeli ingiltereden başlamış ve tüm batı medeniyetine yayılmıştır. ayrıca başka meslek gruplarının (kendi alanlarında doktora yapmış bile olsalar) kendisini "doktor" olarak tanımlaması yasaklanmıştır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Doctor_(title)" title="https://en.wikipedia.org/wiki/Doctor_(title)">kaynak</a><br/><br/>dinleyin a dostlar, bu yasaklama bazı sonuçlar doğurmuş ve ingilizler doktorun kendisini tanıtmasının "gerekli" olduğunu düşünmüşlerdir. bu yazılı yasağın sonunda yazılı olmayan bir kural olarak "kendini tanıtmak" meslek içerisinde yayılmıştır. <br/><br/>aslında bir doktor karşısındakinin sağlığa ulaşmasını kolaylaştırmak için nezaket gereği kendisini tanıtır. doktorun az bulunduğu ve ulaşmanın zor olduğu zamanlarda doktorlar kendilerini tanıtarak aslında topluma kayıtsız şartsız, kimlik gözetmeksizin hipokrat yemininin gerektirdiği gibi "herkesin hizmetinde olduklarını" hatırlatırlar. hani bilale anlatır gibi anlatayım doktor kendisini tanıtarak aslında bir sorunu varsa hemen dinleyebileceğini veya olursa kendisini bulmaları gerektiğini kısaca ve nazikçe hatırlatmış olur.<br/><br/>bu kural bugün için de geçerlidir ve inanmazsınız hala aynı işlevi görür. bir insana doktor olduğunuzu söylediğinizde hemen kendi sağlık sorunlarından bahseder veya sağlık sorunu olan bir yakını ile ilgili yardım ister. bunun neresi bencilce veya ukalacadır anlamakta zorluk çekiyorum. yani aslında biz doktor olduğumuzu belirterek hizmetimizi ve bilgimizi sizlere açıkça sunmuş oluyoruz. bu bir sağlık hizmeti teklifi aslında.<br/><br/>son söz; doktorlar hala maalesef ulaşılması zor insanlardır ve kendini tanıtmasının bence zorunlu olduğu tek meslek olmaya devam etmelidir. genç meslektaşlarıma önerim her mecrada insanlara kimliklerinin en önemli kısmı olan bu unvanı kullanmalarıdır. hiç ummadığınız bir anda birisinin hayatını değiştirebilirsiniz.<br/><br/>edit: ünvan değil unvanmış. düzeltildi.
    
   entry_writer: xorf
 - entry_name: |
