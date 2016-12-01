@@ -15,7 +15,7 @@ data:
   entry_id: 64410172
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=lacivert+parti">lacivert parti</a>)<br/><br/>(bkz: <a class="b" href="/?q=onlar+konu%c5%9fur+lacivert+parti+yapar">onlar konuşur lacivert parti yapar</a>)<br/><br/>anladınız siz.
+    (bkz:  <a class="b" href="/?q=lacivert+parti">lacivert parti</a>)<br/><br/>(bkz: <a class="b" href="/?q=onlar+konu%c5%9fur+lacivert+parti+yapar">onlar konuşur lacivert parti yapar</a>)<br/><br/>anladınız siz.<br/><br/>edit: debe editi de sanırım adet olmuş buralarda. neyse bozmayalım. <br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)<br/>edit 2: enrty çok basit ama resmen sosyal sorumluluk entrysine dönüştü :) <br/>(bkz: <a class="b" href="/?q=yangindan+kurtulan+ogrencilere+esya+gonderiyoruz">yangindan kurtulan ogrencilere esya gonderiyoruz</a>)<br/>edit 3: mevcut öğretmenlerden şikayetçi olan yazarlarımıza yeni dinamik başarılı öğretmen adaylarına destek çağrısı yapıyoruz.<br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9fretmen+aday%c4%b1na+burs+deste%c4%9fi">öğretmen adayına burs desteği</a>)
    
   entry_writer: yeni bela husnu
 - entry_name: |
@@ -31,7 +31,7 @@ data:
   entry_id: 64408159
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=daha+da+d%c3%bc%c5%9f%c3%bck+profilli+ba%c5%9fbakan">daha da düşük profilli başbakan</a>)<br/>(bkz: <a class="b" href="/?q=en+gerizekal%c4%b1n%c4%b1z+gelsin">en gerizekalınız gelsin</a>)
+    (bkz:  <a class="b" href="/?q=daha+da+d%c3%bc%c5%9f%c3%bck+profilli+ba%c5%9fbakan">daha da düşük profilli başbakan</a>)<br/>(bkz: <a class="b" href="/?q=en+gerizekal%c4%b1n%c4%b1z+gelsin">en gerizekalınız gelsin</a>)<br/><br/>debe editi: senin anıtkabirin olmayacak. sen sadece öleceksin. daima yaşasın <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a> ilke ve inkılapları.
    
   entry_writer: monreve
 - entry_name: |
@@ -47,8 +47,8 @@ data:
   entry_id: 64408614
   entry_content: |
     
-    adam plevne diyor ya. cidden bu neo-osmanlıcılık yüzünden başımıza gelmeyen kalmadı.
-    
+    adam plevne diyor ya. cidden bu neo-osmanlıcılık yüzünden başımıza gelmeyen kalmadı..<br/><br/>edit: <br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)<br/>(bkz: <a class="b" href="/?q=yang%c4%b1ndan+kurtulan+%c3%b6%c4%9frencilere+e%c5%9fya+g%c3%b6nderiyoruz">yangından kurtulan öğrencilere eşya gönderiyoruz</a>)
+   
   entry_writer: karayemis
 - entry_name: |
     cesetler yangın merdivenin olduğu noktada bulundu
@@ -63,16 +63,16 @@ data:
   entry_id: 64403468
   entry_content: |
     
-    midyat seyfo ağlayın ulan! :/
-    
+    midyat seyfo ağlayın ulan! ://<br/><br/>debe editi:<br/><br/>(bkz: <a class="b" href="/?q=yangindan+kurtulan+ogrencilere+esya+gonderiyoruz">yangindan kurtulan ogrencilere esya gonderiyoruz</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9fretmen+aday%c4%b1na+burs+deste%c4%9fi">öğretmen adayına burs desteği</a>)
+   
   entry_writer: krondast
 - entry_name: |
     yanarak ölmek şehitliktir
   entry_id: 64407968
   entry_content: |
     
-    "akitleri toplayip yakalim da cennete gitsinler o vakit" diye insanda ulvi düsüncelerin yesermesine sebep olabilecek laf.
-    
+    "akitleri toplayip yakalim da cennete gitsinler o vakit" diye insanda ulvi düsüncelerin yesermesine sebep olabilecek laf..<br/><br/>acil not : (bkz: <a class="b" href="/?q=yangindan+kurtulan+ogrencilere+esya+gonderiyoruz">yangindan kurtulan ogrencilere esya gonderiyoruz</a>)
+   
   entry_writer: solaryum
 - entry_name: |
     su sıçratmamak için yavaşlayan sürücü
@@ -135,7 +135,7 @@ data:
   entry_id: 64403566
   entry_content: |
     
-    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>yayın yasağı; siz oturun dizi izleyin, olup bitenden haberiniz olmasın.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --<br/><br/>tv'ye bakınca norveç gibi, dışarıya bakınca afganistan gibi ülkeyiz.
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>yayın yasağı; siz oturun dizi izleyin, olup bitenden haberiniz olmasın.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --<br/><br/>tv'ye bakınca norveç gibi, dışarıya bakınca afganistan gibi ülkeyiz.<br/><br/>edit; (bkz: <a class="b" href="/?q=yang%c4%b1ndan+kurtulan+%c3%b6%c4%9frencilere+e%c5%9fya+g%c3%b6nderiyoruz">yangından kurtulan öğrencilere eşya gönderiyoruz</a>)
    
   entry_writer: sigara kibrit
 - entry_name: |
@@ -159,7 +159,7 @@ data:
   entry_id: 64408467
   entry_content: |
     
-    öncelikle sanıyorum (bkz:  <a class="b" href="/?q=selay%c4%b1+ezan+sanmak">selayı ezan sanmak</a>)<br/><br/>savunan çıkacak mı?<br/>evet.<br/>böyle ergen atarı yapan, sosyal medya beğenisine ve ilgisine bağımlı insanlardan ne kadar nefret etsem de, bu benim şahsi tutumum, benim karakterimin defoları, kızı bağlamaz.<br/><br/>bu ülkede dini değerleri aşağılamak, hakaret etmek vb.mi yasak ?<br/>yoksa bu ülkede islam dininin sünni mezhebine ait değerleri mi aşağılamak yasak?<br/><br/>mesela "s.keyim ezanınızı" bir hakaret. kabul.<br/>"yahudi dölü" ifadesi hakaret mi?<br/>"afedersiniz alevi" demek din, dil, ırk, mezhep aşağılaması kapsamında mıdır, yoksa söyleyen sünni olduğu için cezadan muaf mıdır?<br/><br/>"çakıyorum bi bakara, makara suresi... insanlar da yiyor" diyen kişiyi hatırlayan var mı? ne oldu mesela bu arkadaşa emekli maaşını mı kestiniz? yoo. ölene kadar kendisi ve tüm sülalesi rahat rahat yaşayacak, ekmek bedava, su bedava, özel hastanelerde sağlık bedava. iki de koruması vardır bakkala gönderir, bahçeyi belletir falan.<br/><br/>evet sevgili akpınarlar, soru net bu ülkede dine hakaret mi, islam dininin sünni mezhebine ait değerlere hakaret mi suç?
+    öncelikle sanıyorum (bkz:  <a class="b" href="/?q=selay%c4%b1+ezan+sanmak">selayı ezan sanmak</a>)<br/><br/>savunan çıkacak mı?<br/>evet.<br/>böyle ergen atarı yapan, sosyal medya beğenisine ve ilgisine bağımlı insanlardan ne kadar nefret etsem de, bu benim şahsi tutumum, benim karakterimin defoları, kızı bağlamaz.<br/><br/>bu ülkede dini değerleri aşağılamak, hakaret etmek vb.mi yasak ?<br/>yoksa bu ülkede islam dininin sünni mezhebine ait değerleri mi aşağılamak yasak?<br/><br/>mesela "si... ezanınızı" bir hakaret. kabul.<br/>"yahudi dölü" ifadesi hakaret mi?<br/>"afedersiniz alevi" demek din, dil, ırk, mezhep aşağılaması kapsamında mıdır, yoksa söyleyen sünni olduğu için cezadan muaf mıdır?<br/><br/>"çakıyorum bi bakara, makara suresi... insanlar da yiyor" diyen kişiyi hatırlayan var mı? ne oldu mesela bu arkadaşa emekli maaşını mı kestiniz? yoo. ölene kadar kendisi ve tüm sülalesi rahat rahat yaşayacak, ekmek bedava, su bedava, özel hastanelerde sağlık bedava. iki de koruması vardır bakkala gönderir, bahçeyi belletir falan.<br/><br/>evet sevgili akpınarlar, soru net bu ülkede dine hakaret mi, islam dininin sünni mezhebine ait değerlere hakaret mi suç?
    
   entry_writer: testudos
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 64419873
   entry_content: |
     
-    ne işi varmış macaristan'da diye sormak istediğim suriyeli!!<br/><br/>e hani batı, hristiyanlar, onların değerleri kötüydü? ne işin var lan bu suriyelinin macaristan'da?! din kardeşleri, ırkdaşları dururken niye avrupa? adamlar istemiyoruz sizi diyorlar bu kansızlar da adamların sınırlarını zorla geçip oraya gitmeye çalışıyorlar! macarlar salak değil. vergisiyle bu sikişmekten başka işe yaramayan ne idüğü belirsizleri beslemek istemiyorlar. <br/><br/>dünyanın kerizi biziz olm. elin avrupalısı değil!
+    ne işi varmış macaristan'da diye sormak istediğim suriyeli!!<br/><br/>e hani batı, hristiyanlar, onların değerleri kötüydü? ne işin var lan bu suriyelinin macaristan'da?! din kardeşleri, ırkdaşları dururken niye avrupa? adamlar istemiyoruz sizi diyorlar bu kansızlar da adamların sınırlarını zorla geçip oraya gitmeye çalışıyorlar! macarlar salak değil. vergileriyle en büyük hünerleri sevişmek olan arapları beslemek istemiyorlar.<br/><br/>dünyanın kerizi biziz olm. elin avrupalısı değil!<br/><br/>debe editi: mecburiyetten bazı ifadeler yumuşatıldı. <br/><br/>dolar alın, elinizdeki tüm birikimle dolar alın, ekonomiye bir darbe de siz vurun.
    
   entry_writer: kalbini sokup okyanusa atan adam
 - entry_name: |
@@ -207,7 +207,7 @@ data:
   entry_id: 64416690
   entry_content: |
     
-    derbide cezalı duruma düşerek biz beşiktaşlıları üzen futbolcu..<br/><br/>hani lan içerdeydin?
+    derbide cezalı duruma düşerek biz beşiktaşlıları üzen futbolcu..<br/><br/>hani lan içerdeydin?<br/><br/>edit: seninle debe'ye girmek de varmış ya be ismail, <br/>bu başlıktaki diğer entryimi tercih ederdim halbuki (<a class="b" href="/entry/61669120">#61669120</a>)<br/>hayat ne tuhaf vapurlar falan...
    
   entry_writer: ugm
 - entry_name: |
@@ -223,8 +223,8 @@ data:
   entry_id: 64408306
   entry_content: |
     
-    istersen komple tüm kullanımı bedava yapsın, bu tecavüzcülere sponsor olduğu gerçeğini değiştirmez.
-    
+    istersen komple tüm kullanımı bedava yapsın, bu  <a class="b" href="/?q=ensar+vakf%c4%b1">ensar vakfı</a>na -ki nesiyle meşhur olduğunu hepimiz biliyoruz-sponsor olduğu gerçeğini değiştirmez.<br/><br/>edit: entry'de geçen bir kelime ile ilgili olarak "hukuka aykırılık barındırmaktadır" şeklinde mesaj aldım eksi destek'ten, gg olmasın diye düzenliyorum. zaten sözlük ahalisi olaya yeterince hakim;<br/><br/>(bkz: <a class="b" href="/?q=turkcell+hatlar%c4%b1m%c4%b1z%c4%b1+iptal+ediyoruz+kampanyas%c4%b1">turkcell hatlarımızı iptal ediyoruz kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=karaman%27da+45+erkek+%c3%b6%c4%9frenciye+tecav%c3%bcz">karaman'da 45 erkek öğrenciye tecavüz</a>)
+   
   entry_writer: sarap baglarinin sahibi patasana
 - entry_name: |
     30 yıl önce para ödemediğimiz şeyler
@@ -239,15 +239,15 @@ data:
   entry_id: 64412142
   entry_content: |
     
-    halihazırda geçerli olan durumdur. şişman daha fazla tüketir. bununla orantılı olarak da daha fazla vergi verir.
-    
+    halihazırda geçerli olan durumdur. şişman daha fazla tüketir. bununla orantılı olarak da daha fazla vergi verir..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=yangindan+kurtulan+ogrencilere+esya+gonderiyoruz">yangindan kurtulan ogrencilere esya gonderiyoruz</a>)
+   
   entry_writer: akilbey
 - entry_name: |
     bu kızların da kaderi böyleymiş
   entry_id: 64403518
   entry_content: |
     
-    hiç üzülmüyorlar..<br/>hiç utanmıyorlar.
+    hiç üzülmüyorlar..<br/>hiç utanmıyorlar.<br/><br/>edit: <br/>gelen kutusu » @olay mahalline sonradan gelen defans oyu<br/>(<a class="b" href="/entry/64403518">#64403518</a>) merhaba günaydın gadasını aldığım, aladağ'da hayatta kalan kardeşlerimizin eksikleri varmış, yangında her şeyi yanmış, hem onlara maddi anlamada destek olup hem de moral açısından şöyle bir kampanya düzenliyoruz, şukela entryinin altına editlersen bizi mutlu edersin;<br/><br/>(bkz: <a class="b" href="/?q=yangindan+kurtulan+ogrencilere+esya+gonderiyoruz">yangindan kurtulan ogrencilere esya gonderiyoruz</a>)<br/><br/>01.12.2016 10:43
    
   entry_writer: angry engineer
 - entry_name: |
@@ -255,7 +255,7 @@ data:
   entry_id: 64411658
   entry_content: |
     
-    bundan yıllar yıllar önce, yaşım henüz 17yken bir erkek arkadaşım vardı. kendisi son yüzyılın en maço ve kıskanç erkeğiydi..<br/><br/>bir gün gittiğimiz bir kafede garsondan su istemek hatasına düştüm. istemez olaydım. garson da görevi gereği suyumu getirip, bardağa doldurdu masada. o gün yaşadığım rezilliği hayatım boyunca unutamam. hem garsonu hem beni öyle bir azarladı, öyle bir olay çıkardı ki uzun bir süre gerçekten garsonlarla muhatap olmamam gerektiğine inandım. yaşım da küçük tabii. sonra bir aydınlanma yaşadım. noluyoruz dedim. o zamandan beri bu olay bende takıntı oldu. gittiğim her yerde mutlaka ama mutlaka kendi siparişimi kendim vermeye özen gösteriyorum. hatta illa ben sipariş vermek için sorun çıkarıyorum bazen.<br/><br/>yapmayın böyle şeyler. kimse kimsenin sahibi değil, olamaz. bu kadar baskın olmaya çalışmayın.
+    bundan yıllar yıllar önce, yaşım henüz 17yken bir erkek arkadaşım vardı. kendisi son yüzyılın en maço ve kıskanç erkeğiydi..<br/><br/>bir gün gittiğimiz bir kafede garsondan su istemek hatasına düştüm. istemez olaydım. garson da görevi gereği suyumu getirip, bardağa doldurdu masada. o gün yaşadığım rezilliği hayatım boyunca unutamam. hem garsonu hem beni öyle bir azarladı, öyle bir olay çıkardı ki uzun bir süre gerçekten garsonlarla muhatap olmamam gerektiğine inandım. yaşım da küçük tabii. sonra bir aydınlanma yaşadım. noluyoruz dedim. o zamandan beri bu olay bende takıntı oldu. gittiğim her yerde mutlaka ama mutlaka kendi siparişimi kendim vermeye özen gösteriyorum. hatta illa ben sipariş vermek için sorun çıkarıyorum bazen.<br/><br/>yapmayın böyle şeyler. kimse kimsenin sahibi değil, olamaz. bu kadar baskın olmaya çalışmayın.<br/><br/>debe eki: (bkz: <a class="b" href="/?q=avrasya+t%c3%bcneli%27nin+ismini+atat%c3%bcrk+t%c3%bcneli+koyuyoruz">avrasya tüneli'nin ismini atatürk tüneli koyuyoruz</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://udhb.gov.tr/duyuru-80-kitalar-birlesiyor-alttan--isimi-geliyor-halktan.html" title="http://udhb.gov.tr/duyuru-80-kitalar-birlesiyor-alttan--isimi-geliyor-halktan.html">oy verin</a>
    
   entry_writer: laleler beyaz
 - entry_name: |
@@ -323,7 +323,7 @@ data:
    
   entry_writer: haplikarinca
 - entry_name: |
-    kerimcan durmaza saldırı
+    30 kasım 2016 kerimcan durmaz'a silahlı saldırı
   entry_id: 64423967
   entry_content: |
     
