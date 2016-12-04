@@ -7,8 +7,8 @@ data:
   entry_id: 64468991
   entry_content: |
     
-    o ilanı burda başlık açan yazar açmıştır. bu kadar net
-    
+    o ilanı burda başlık açan yazar açmıştır. bu kadar nett<br/><br/>dedit: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
+   
   entry_writer: bosa
 - entry_name: |
     3 aralık 2016 abdullah gül özel yayını
@@ -23,7 +23,7 @@ data:
   entry_id: 64474636
   entry_content: |
     
-    doğru bir önermedir. solcular vatan sevmez kardeşim, dünyayı sever, insanı sever, kültürü sever, doğayı sever, sanatı sever....<br/>sen de, bir gece ansızın 82 şura 83 bura hayaliyle masturbasyon yapmayı sevmeye devam et.
+    doğru bir önermedir. solcular vatan sevmez kardeşim. dünyayı sever, insanı sever, kültürü sever, doğayı sever, sanatı sever....<br/>sen de, bir gece ansızın 82 şura 83 bura hayaliyle masturbasyon yapmayı sevmeye devam et.<br/><br/>edit : (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: balporsugu
 - entry_name: |
@@ -31,15 +31,15 @@ data:
   entry_id: 64479813
   entry_content: |
     
-    bu bakış açısı ile imamlık ücretle yapılacak bir görev mi? diye sormak istediğim açıklama.
-    
+    bu bakış açısı ile imamlık ücretle yapılacak bir görev mi? diye sormak istediğim açıklama..<br/><br/>debedit: umarım yardımı olur. (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
+   
   entry_writer: ruhun ayrintida gizlidir
 - entry_name: |
     1994 show tv tutti frutti yayını
   entry_id: 64483332
   entry_content: |
     
-    dikkat aşırı meme içermektedir..<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=2mJXuQ7E2g0&t=p;t=">https://www.youtube.com/watch?v=2mjxuq7e2g0&t=p;t=</a><br/><br/>sansürsüz bir şekilde televizyonda meme görebildiğimiz yıllara ait yayındır efendim.o değil de medeniyet güzel şeydi lan.şimdi tv'de memeyi bırak ,lan kelimesi bile sansürleniyor.<br/><br/>yalnız 10.dakika 20.saniyede sütyen kopçasını açamayan ablanın yardımına yetişen abiyi tebrik ederim.sonra ''uu beybi bir hareketlenme oldu'' modunda merdivenden iniyor.<br/><br/>ayrıca paylaşan arkadaşa da teşekkür etmek isterim hem orjinal yayın hem de sansürsüz.benim gibi nostalji hayranıysanız duygulanacaksınız,o yüzden yanınızda bir mendil bulundurun<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>.<br/><br/>cumartesi gecesi nostalji gecesi oldu ,yarın da orjinal <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=TyF4e8PwuO8" title="https://www.youtube.com/watch?v=TyF4e8PwuO8">parlıament sinema kuşağı</a> yayınını paylaşalım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    dikkat aşırı meme içermektedir..<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=2mJXuQ7E2g0&t=p;t=">https://www.youtube.com/watch?v=2mjxuq7e2g0&t=p;t=</a><br/><br/>sansürsüz bir şekilde televizyonda meme görebildiğimiz yıllara ait yayındır efendim.o değil de medeniyet güzel şeydi lan.şimdi tv'de memeyi bırak ,lan kelimesi bile sansürleniyor.<br/><br/>yalnız 10.dakika 20.saniyede sütyen kopçasını açamayan ablanın yardımına yetişen abiyi tebrik ederim.sonra ''uu beybi bir hareketlenme oldu'' modunda merdivenden iniyor.<br/><br/>ayrıca paylaşan arkadaşa da teşekkür etmek isterim hem orjinal yayın hem de sansürsüz.benim gibi nostalji hayranıysanız duygulanacaksınız,o yüzden yanınızda bir mendil bulundurun<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>.<br/><br/>cumartesi gecesi nostalji gecesi oldu ,yarın da orjinal <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=TyF4e8PwuO8" title="https://www.youtube.com/watch?v=TyF4e8PwuO8">parlıament sinema kuşağı</a> yayınını paylaşalım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>debe edit : 4 yıllık sözlük kariyerimin ilk debesi olmuştur.sağolun cincin kızlar,sağolun kırmızı nokta kuşağı.debeye, tam da hayranı olduğum doksanların bir şeyiyle girmek ayrıca mutlu etti<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>.<br/><br/>ayrıca : (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: retro sokagi mudavimi
 - entry_name: |
@@ -47,7 +47,7 @@ data:
   entry_id: 64470654
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ben+de%c4%9filim">ben değilim</a>)
+    (bkz:  <a class="b" href="/?q=ben+de%c4%9filim">ben değilim</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: rolandmicrocube
 - entry_name: |
@@ -55,7 +55,7 @@ data:
   entry_id: 64469437
   entry_content: |
     
-    3 ay tatil yapıyorlar, aldıkları maaşı haketmiyorlar diyen dallamaları da bu başlığa bekliyoruz.hangi iş grubu  <sup class="ab"><a title="(bkz: mühendis avukat mimar)" href="/?q=m%c3%bchendis%2c+avukat%2c+mimar" data-query="mühendis avukat mimar">*</a></sup> bu denli bir insanın hayatına yön verebilir.<br/><br/>not : hayatı bir öğretmeninin dokunuşları sayesinde yön değiştirmiş bir mühendis.
+    3 ay tatil yapıyorlar, aldıkları maaşı haketmiyorlar diyen dallamaları da bu başlığa bekliyoruz.hangi iş grubu  <sup class="ab"><a title="(bkz: mühendis avukat mimar)" href="/?q=m%c3%bchendis%2c+avukat%2c+mimar" data-query="mühendis avukat mimar">*</a></sup> bir insanın hayatına bu denli yön verebilir.<br/><br/>not : hayatı bir öğretmeninin dokunuşları sayesinde yön değiştirmiş bir mühendis.<br/><br/>debe edit : işini onuruyla yapan tüm öğretmenlerimin ellerinden öpüyorum.<br/>iyi ki varsınız ...
    
   entry_writer: sapkasiz cikmam abi
 - entry_name: |
@@ -71,7 +71,7 @@ data:
   entry_id: 64475644
   entry_content: |
     
-    akla the matrix'teki  <a class="b" href="/?q=agent+smith">agent smith</a>'in bir söylemini getiren orospu çocukluğu;<br/><br/>''sizinle, bir süredir kafamı meşgul eden bir düşüncemi paylaşmak istiyorum. bu düşünce aklıma sizin türünüzü sınıflandırmaya çalışırken geldi ve anladım ki sizler aslında memeliler sınıfına dahil değilsiniz. bu gezegendeki tüm memeliler, yaşadıkları çevre ile içgüdüsel olarak bir denge kuruyorlar. ama siz insanlar öyle değilsiniz. bir bölgeye yerleşiyorsunuz ve çoğalıyorsunuz, tüm doğal kaynakları tüketene kadar çoğalıyorsunuz. canlı kalabilmenizin tek yolu başka bir bölgeye yayılmak. bu gezegende bu şekilde yaşamını sürdüren bir organizma daha var. ne olduğunu biliyor musunuz? virüsler. insanlar hastalıktır. bu gezegenin kanserleri. ve bizler de bunların ilacıyız.''<br/><br/>umarım bir meteor dünyaya çarpar da, dinozorlar gibi tarihin tozlu raflarına karışırız.<br/><br/>edit: dangalağın biri aslanların canlı şekilde yediği bir yaban domuzu videosu paylaşmış. aslanların orada beslenme ihtiyacı ölçüsünde avlandığını, insanların yaptığının ise bir lüks/ihtiyaç ötesi olduğunu dahi kavrayamıyor. ki insanlar bunu bilinçli yaparken, hayvanlar için bundan bahsetmek olanaksız.<br/><br/>sığır geldiniz sığır gidiyorsunuz.<br/><br/>edit 2: bahsi geçen yazar kirişi kırıp yazdıklarını silmişti, ancak şuraya ekran görüntüsünü <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/o0Zd8Q.png" title="http://i.hizliresim.com/o0Zd8Q.png">koyalım</a>.
+    akla the matrix'teki  <a class="b" href="/?q=agent+smith">agent smith</a>'in bir söylemini getiren orospu çocukluğu;<br/><br/>''sizinle, bir süredir kafamı meşgul eden bir düşüncemi paylaşmak istiyorum. bu düşünce aklıma sizin türünüzü sınıflandırmaya çalışırken geldi ve anladım ki sizler aslında memeliler sınıfına dahil değilsiniz. bu gezegendeki tüm memeliler, yaşadıkları çevre ile içgüdüsel olarak bir denge kuruyorlar. ama siz insanlar öyle değilsiniz. bir bölgeye yerleşiyorsunuz ve çoğalıyorsunuz, tüm doğal kaynakları tüketene kadar çoğalıyorsunuz. canlı kalabilmenizin tek yolu başka bir bölgeye yayılmak. bu gezegende bu şekilde yaşamını sürdüren bir organizma daha var. ne olduğunu biliyor musunuz? virüsler. insanlar hastalıktır. bu gezegenin kanserleri. ve bizler de bunların ilacıyız.''<br/><br/>umarım bir meteor dünyaya çarpar da, dinozorlar gibi tarihin tozlu raflarına karışırız.<br/><br/>edit: <a class="b" href="/?q=bika">bika</a>'dan güzel bir çağrı geldi, yardımsever yazarları buraya alalım;<br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: zenithgeist
 - entry_name: |
@@ -79,8 +79,8 @@ data:
   entry_id: 64473143
   entry_content: |
     
-    biz de taso üzerinden ödeme yaparız artık.
-    
+    biz de taso üzerinden ödeme yaparız artık..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
+   
   entry_writer: doktor sensin doktor
 - entry_name: |
     osman gökçek
@@ -119,15 +119,15 @@ data:
   entry_id: 64477355
   entry_content: |
     
-    yaptığı saçma sapan faulle el classico'yu yine sabote eden bayrampaşalı. bu reisçi, instagram'a yazılı hadis fotoğrafı atıp arkadan mankenlere yürüyen futbolcu artığının dünyanın en iyi takımında ne işi var zaten anlamıyorum.
-    
+    yaptığı saçma sapan faulle el classico'yu yine sabote eden bayrampaşalı. bu reisçi, instagram'a yazılı hadis fotoğrafı atıp arkadan mankenlere yürüyen futbolcu artığının dünyanın en iyi takımında ne işi var zaten anlamıyorum..<br/><br/>bi el atalım: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
+   
   entry_writer: elian
 - entry_name: |
     bjk fb derbisi deyince hafızada beliren ilk an
   entry_id: 64471722
   entry_content: |
     
-     <a class="b" href="/?q=koray+avc%c4%b1">koray avcı</a>'nın attığı dördüncü gol ve gol sevinci.
+     <a class="b" href="/?q=koray+avc%c4%b1">koray avcı</a>'nın attığı dördüncü gol ve gol sevinci.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: lamneth
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 64475842
   entry_content: |
     
-    troll entrysi sandığım yeminle..<br/><br/>"<a class="b" href="/?q=gerekti%c4%9finde+yeterli+sertlikte+olabilirim">gerektiğinde yeterli sertlikte olabilirim</a>" nasıl bir açıklama yav..
+    troll entrysi sandığım açıklama..<br/><br/>"<a class="b" href="/?q=gerekti%c4%9finde+yeterli+sertlikte+olabilirim">gerektiğinde yeterli sertlikte olabilirim</a>" nasıl bir açıklama yav..<br/><br/>debe eklemesi: özel mesaj yoluyla bir rica geldi. elçiye zeval olmaz.<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: ben miyim yoksa bu nickin sahibi
 - entry_name: |
@@ -175,8 +175,8 @@ data:
   entry_id: 64480844
   entry_content: |
     
-    ulan hepinizin mi playstation ı var be.
-    
+    ulan hepinizin mi playstation ı var be..<br/><br/><a class="b" href="/?q=debe+edit">debe edit</a> : bu debeyi, oyunu cilginlar gibi oynamak isteyip oynayamayan yoldaslarima adiyorum. umarim hepimiz en kisa surede oyunu edinir bu guzel duyguyu tadariz. formatin da icine etmisim bunun icin ayri ozur diliyorum. <br/><br/>saka bir yana su debe biraz ise yarasin. <a class="b" href="/?q=bika">bika</a> adli yazarin mesaji uzerine (bkz: <a class="b" href="/?q=eksi+kutuphane+agri+asagi+kosk+ilkokulu+yardimi">eksi kutuphane agri asagi kosk ilkokulu yardimi</a>) basligina bakalim. guzel insanlarin yaptigi bu guzel kampanyaya katkida bulunalim.
+   
   entry_writer: freddie mercurynin pipisi
 - entry_name: |
     gana'da sahte amerikan konsolosluğu açan türkler
@@ -191,7 +191,7 @@ data:
   entry_id: 64470759
   entry_content: |
     
-    birkac cesidi haric ((<a class="b" href="/?q=ipa">ipa</a> sevmem mesela) biranin tadi yemin ederim mukemmeldir.<br/>edit: kaliteli bir sarabin tadi da yemin ederim mukemmeldir.<br/>cogu likorleri cocuga bile versen icer onlari da eledik.<br/><br/>geriye yuksek alkollu ickiler kaliyor, onlarin da belli icme adabi var sonucta.<br/>maydonoza nasil limon sikip yemek daha guzelse, nohutu nasil suda bekletip kaynatip yemegini yapiyorsan onlari da adabina gore iciyorsun.
+    birkac cesidi haric ((<a class="b" href="/?q=ipa">ipa</a> sevmem mesela) biranin tadi yemin ederim mukemmeldir.<br/>edit: kaliteli bir sarabin tadi da yemin ederim mukemmeldir.<br/>cogu likorleri cocuga bile versen icer onlari da eledik.<br/><br/>geriye yuksek alkollu ickiler kaliyor, onlarin da belli icme adabi var sonucta.<br/>maydonoza nasil limon sikip yemek daha guzelse, nohutu nasil suda bekletip kaynatip yemegini yapiyorsan onlari da adabina gore iciyorsun.<br/><br/>edit: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: melyus
 - entry_name: |
@@ -223,31 +223,31 @@ data:
   entry_id: 64468103
   entry_content: |
     
-    bir kürt olarak taliplerimi bekliyorum. adım samuel, 25 yaşım.
-    
+    bir kürt olarak taliplerimi bekliyorum. adım samuel, 25 yaşım..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=eksi+kutuphane+agri+asagi+kosk+ilkokulu+yardimi">eksi kutuphane agri asagi kosk ilkokulu yardimi</a>)<br/><br/>ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı.
+   
   entry_writer: von hippel lindau
 - entry_name: |
     3 aralık 2016 hükümetin tedbir kararları alması
   entry_id: 64467942
   entry_content: |
     
-    ekmeği karneye bağlayacakları günü dört gözle bekliyorum. gerçi bu davarlar reis bize en kıtırlarını ayırmış ehehe diye yine sevinir amk.
-    
+    ekmeği karneye bağlayacakları günü dört gözle bekliyorum. gerçi bu davarlar reis bize en kıtırlarını ayırmış ehehe diye yine sevinir amk..<br/><br/>debe edit: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)<br/>arkadaşlar böyle bir başlık var. elimizden geldiğinde destek olmaya çalışalım. kitap okumak ve okutmak amacımız olsun. güzel günlere...
+   
   entry_writer: drink sensibly
 - entry_name: |
     ülkesi için dolarını bozduran sözlük yazarları
   entry_id: 64475389
   entry_content: |
     
-    1500 dolar aldim cuma gunu.
-    
+    1500 dolar aldim cuma gunu..<br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
+   
   entry_writer: kantmantaryemis
 - entry_name: |
     12 yılda ingilizce öğrenemeyip sistemi suçlamak
   entry_id: 64469536
   entry_content: |
     
-    sistemin hatalarını görebilmektir..<br/><br/>12 yılda ingilizce öğrendim, şu an ingilizce öğretmenliği okuyorum. üçüncü sınıftayım.<br/><br/>sistemin içindeki ürün olmaktan çıkıp bir dişli yahut çark haline gelmeye başladığım zaman işin içindeki boklukları daha net görmeye başladım. öğrencinin isteği, hevesi de önemli.<br/><br/>ya ben niye açıklama yapıyorum ki? 12.sınıftaki dil sınıflarıyla diğer sınıflara aynı ingilizce kitabını gönderen bir bakanlık var; sayısal öğrencisinin göreceği ingilizce ile yabancı dil öğrencisinin göreceği ingilizce'yi bir tutan bir bakanlık.<br/><br/>sistemde bokluk var beyler, hiç kendimizi kandırmayalım şimdi.
+    sistemin hatalarını görebilmektir..<br/><br/>12 yılda ingilizce öğrendim, şu an ingilizce öğretmenliği okuyorum. üçüncü sınıftayım.<br/><br/>sistemin içindeki ürün olmaktan çıkıp bir dişli yahut çark haline gelmeye başladığım zaman işin içindeki boklukları daha net görmeye başladım. öğrencinin isteği, hevesi de önemli.<br/><br/>ya ben niye açıklama yapıyorum ki? 12.sınıftaki dil sınıflarıyla diğer sınıflara aynı ingilizce kitabını gönderen bir bakanlık var; sayısal öğrencisinin göreceği ingilizce ile yabancı dil öğrencisinin göreceği ingilizce'yi bir tutan bir bakanlık.<br/><br/>sistemde bokluk var beyler, hiç kendimizi kandırmayalım şimdi.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: blues junior
 - entry_name: |
@@ -271,7 +271,7 @@ data:
   entry_id: 64478893
   entry_content: |
     
-    olmuş aralık, bu takım biri şampiyonlar ligi olmak üzere 3 kulvarda hala namağlup, ligde de tüm derbiler bitmiş..<br/><br/>hala bunu şansa, hakeme, kozmoza bağlayan dalyaraklar var.
+    olmuş aralık, bu takım biri şampiyonlar ligi olmak üzere 3 kulvarda hala namağlup, ligde de tüm derbiler bitmiş..<br/><br/>hala bunu şansa, hakeme, kozmoza bağlayan dalyaraklar var.<br/><br/>istek üzerine: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>
    
   entry_writer: ciddiyet
 - entry_name: |
@@ -295,7 +295,7 @@ data:
   entry_id: 64479482
   entry_content: |
     
-    memleketin ceo'su gibisin. 14 yıldır tek başına iktiidarsın. bir gecede başbakanı görevden alabiliyorsun. khk ile istediğini yapabiliyorsun. en son evde sıfırlayamadığın 30 milyon euro kalıyor. mağdursun gene mağdursun. gözün doysun emi. memleketin tapusunu alsa kesmez..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://odatv.com/yalnizligimi-biliyorum-0312161200.html" title="http://odatv.com/yalnizligimi-biliyorum-0312161200.html">mağdur</a>
+    memleketin ceo'su gibisin. 14 yıldır tek başına iktiidarsın. bir gecede başbakanı görevden alabiliyorsun. khk ile istediğini yapabiliyorsun. en son evde sıfırlayamadığın 30 milyon euro kalıyor. mağdursun gene mağdursun. gözün doysun emi. memleketin tapusunu alsa kesmez..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://odatv.com/yalnizligimi-biliyorum-0312161200.html" title="http://odatv.com/yalnizligimi-biliyorum-0312161200.html">mağdur</a><br/><br/>debe editi : (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: toprakadam
 - entry_name: |
@@ -311,7 +311,7 @@ data:
   entry_id: 64480507
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=sevi%c5%9fti%c4%9fi+kad%c4%b1n%c4%b1+arkada%c5%9flar%c4%b1na+anlatan+erkek">seviştiği kadını arkadaşlarına anlatan erkek</a>)<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    (bkz:  <a class="b" href="/?q=sevi%c5%9fti%c4%9fi+kad%c4%b1n%c4%b1+arkada%c5%9flar%c4%b1na+anlatan+erkek">seviştiği kadını arkadaşlarına anlatan erkek</a>)<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>debe edit: (bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: gliese 581
 - entry_name: |
@@ -319,7 +319,7 @@ data:
   entry_id: 64484240
   entry_content: |
     
-    doğru olandır.  <br/><br/>şahsen ben de götürmem.
+    doğru olandır.  <br/><br/>şahsen ben de götürmem.<br/><br/>debedit: o halde bu entry bi işe yarasın. (bkz: <a class="b" href="/?q=eksi+kutuphane+agri+asagi+kosk+ilkokulu+yardimi">eksi kutuphane agri asagi kosk ilkokulu yardimi</a>)na katılsak ne de güzel olurdu.
    
   entry_writer: degidide
 - entry_name: |
@@ -335,7 +335,7 @@ data:
   entry_id: 64478090
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=bubi+tuza%c4%9f%c4%b1+gibi+devam%c4%b1n%c4%b1+okuyay%c4%b1m">bubi tuzağı gibi devamını okuyayım</a>)
+    (bkz:  <a class="b" href="/?q=bubi+tuza%c4%9f%c4%b1+gibi+devam%c4%b1n%c4%b1+okuyay%c4%b1m">bubi tuzağı gibi devamını okuyayım</a>)<br/><br/>edit:<br/><br/>gelen kutusu » @bika<br/>(<a class="b" href="/entry/64478090">#64478090</a>) merhabalar, debe hayirli olsun arkadasim. <br/>ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı diye bir baslik var ama dikkat cekemedi pek. bir bkz versen de insanlarin dikkatini cekse olur mu?<br/><br/>04.12.2016 09:37
    
   entry_writer: angry engineer
 - entry_name: |
@@ -359,7 +359,7 @@ data:
   entry_id: 64481342
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=y%c3%bczy%c4%b1ll%c4%b1k+yaln%c4%b1zl%c4%b1k">yüzyıllık yalnızlık</a>)
+    (bkz:  <a class="b" href="/?q=y%c3%bczy%c4%b1ll%c4%b1k+yaln%c4%b1zl%c4%b1k">yüzyıllık yalnızlık</a>)<br/><br/>edit: <a class="b" href="/?q=bika">bika</a> bildirdi şöyle güzel bir kampanya varmış. katılalım çocukların yüzünü güldürelim.<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+k%c3%bct%c3%bcphane+a%c4%9fr%c4%b1+a%c5%9fa%c4%9f%c4%b1+k%c3%b6%c5%9fk+ilkokulu+yard%c4%b1m%c4%b1">ekşi kütüphane ağrı aşağı köşk ilkokulu yardımı</a>)
    
   entry_writer: bombardana
 - entry_name: |
@@ -375,24 +375,16 @@ data:
   entry_id: 64468754
   entry_content: |
     
-    ya bi roportaji vardi bunun ne demisti tam hatirlamiyorum ama baya bi absurddu. yani "sive komikligini komik bulmuyorum" mu demisti "abartili mimiklerle yapilan oyunculugu komik bulmuyorum" mu demisti, bu tur bir sey..<br/>ve bunu yillardir ununu, agzini carpitip acaip bir sesle konusmasina borclu olan biri olarak soylemeye utanmamisti da. tutarlilik abidesi gibi kendisi.
+    ya bi roportaji vardi bunun ne demisti tam hatirlamiyorum ama baya bi absurddu. yani "sive komikligini komik bulmuyorum" mu demisti "abartili mimiklerle yapilan oyunculugu komik bulmuyorum" mu demisti, bu tur bir sey..<br/>ve bunu yillardir ununu, agzini carpitip acaip bir sesle konusmasina borclu olan biri olarak soylemeye utanmamisti da. tutarlilik abidesi gibi kendisi.<br/><br/>boyle sacma sapan bi entry ile debeye girmek utanc kaynagi ama bu vesile ile herkesi <a class="b" href="/?q=corbada+tuzun+olsun">corbada tuzun olsun</a> hareketi ile irgalanmaya davet ediyorum.
    
   entry_writer: my jekyll doesnt hide
-- entry_name: |
-    fenerbahçe taraftarı vs beşiktaş taraftarı
-  entry_id: 64482378
-  entry_content: |
-    
-    beşiktaş taraftarı fenerbahçe'ye transfer olan tümer metin için şu besteyi yapmıştır::<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=mWK3yOrLMxI">https://www.youtube.com/watch?v=mwk3yorlmxi</a><br/><br/>"gitsen ne fark eder kalsan ne fark eder<br/>aldığın dolarlar elbet bir gün biter<br/>beşiktaş çarşısı erkeğe küfür eder<br/>işte sen bu kadar zavallısın tümer."<br/><br/>fenerbahçe taraftarı ise beşiktaş'a transfer oldu diye gökhan gönül için şu besteyi yapmıştır:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://alkislarlayasiyorum.com/icerik/328704/gokhan-gonule-kufurlu-tepki" title="http://alkislarlayasiyorum.com/icerik/328704/gokhan-gonule-kufurlu-tepki">http://alkislarlayasiyorum.com/…onule-kufurlu-tepki</a><br/><br/>"ananın amına koyayım gökhan gönül"<br/><br/>hiçbir günahı olmayan annesini neden hedef alıyorsunuz lan 3 kuruşluk futbol için, it herifler?
-   
-  entry_writer: kickoff
 - entry_name: |
     cevizin yapısı beyne benzediği için zihni açar
   entry_id: 64483635
   entry_content: |
     
-    o zaman muz ne işe yarıyor çok merak ettim şu an.
-    
+    o zaman muz ne işe yarıyor çok merak ettim şu an..<br/><br/>debe editi: (<a class="b" href="/entry/64473991">#64473991</a>)
+   
   entry_writer: hassektir
 - entry_name: |
     babası audi q7'ye binen bir kızdan hoşlanmak
