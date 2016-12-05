@@ -7,23 +7,23 @@ data:
   entry_id: 64488123
   entry_content: |
     
-    güney kore'de sadece belli saatlerde uygulanıyor. onun gibi bir kısıtlama getirilebilinir.
-    
+    güney kore'de sadece belli saatlerde uygulanıyor. onun gibi bir kısıtlama getirilebilir..<br/><br/>edit: getirilebilinir
+   
   entry_writer: cinomania
 - entry_name: |
     anıtkabir 12 yılda bitti saray'ı 2 yılda bitirdik
   entry_id: 64496644
   entry_content: |
     
-    bi ülkeyi de anıtkabir'in yapılma süresinde bitirenler var
-    
+    bi ülkeyi de anıtkabir'in yapılma süresinde bitirenler varr<br/><br/>debe editi:<br/>(bkz: <a class="b" href="/?q=siverek+24+kas%c4%b1m+ortaokuluna+k%c3%bct%c3%bcphane+yard%c4%b1m%c4%b1">siverek 24 kasım ortaokuluna kütüphane yardımı</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c5%9fanl%c4%b1urfa+kayal%c4%b1k+k%c3%b6y%c3%bc+ilkokulu%27na+yard%c4%b1m+ediyoruz">şanlıurfa kayalık köyü ilkokulu'na yardım ediyoruz</a>)<br/><br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)<br/><br/>umarım eğitim hiç ölmez bu ülkede
+   
   entry_writer: esas catkiss benim
 - entry_name: |
     milli piyango almıyoruz kampanyası
   entry_id: 64490515
   entry_content: |
     
-    her yılbaşında aldığım çeyrek bileti bu sene almayarak başlattığım kampanya.  <br/>bildiğiniz gibi çekilişler artık canlı yayında yapılmıyor ve bir güvensizlik söz konusu ama milli piyango tekel olduğu için müşterilerinin isteklerini pek takmıyor. <br/><br/>boykotun asıl sebenine gelirsek krizde olduğumuz bu zor günlerde bir farkındalık oluşturarak akpden kurtulmak.<br/><br/>sen vatan haini misin diyenlere de cevabım şudur: bazen bütünü kurtarmak için parçayı kopartıp atmak gerekir. akp meselesi vatan meselesidir, bu çete gitmezse malesef türkiye parçalanacaktır.<br/><br/>bir çivi bir nalı, bir nal bir atı, bir at bir yiğidi, o yiğit de vatanı kurtarır.<br/><br/>bir bilet almayarak belki de vatanı kurtarırsınız.<br/><br/>edit: arkadaslar uyardi artik canli yayinlanacakmis ama yine de <a class="b" href="/?q=svihs">svihs</a> diyorum.
+    her yılbaşında aldığım çeyrek bileti bu sene almayarak başlattığım kampanya.  <br/>bildiğiniz gibi çekilişler artık canlı yayında yapılmıyor ve bir güvensizlik söz konusu ama milli piyango tekel olduğu için müşterilerinin isteklerini pek takmıyor. <br/><br/>boykotun asıl sebebine gelirsek krizde olduğumuz bu zor günlerde bir farkındalık oluşturarak akpden kurtulmak.<br/><br/>sen vatan haini misin diyenlere de cevabım şudur: bazen bütünü kurtarmak için parçayı kopartıp atmak gerekir. akp meselesi vatan meselesidir, bunlar gitmezse malesef türkiye parçalanacaktır.<br/><br/>bir çivi bir nalı, bir nal bir atı, bir at bir yiğidi, o yiğit de vatanı kurtarır.<br/><br/>bir bilet almayarak belki de vatanı kurtarırsınız.<br/><br/>kurtuluş kendimizi sistem dışında tutarak para harcamamakta.<br/>her sene 4-5 maça giden ben, passolig de almadım, kendi çapımda boykotuma devam ediyorum. buradan passolig alıp sistemi eleştirenlere selam olsun.<br/>umarım halkımız bir gün boykot uygulamanın gücünü öğrenir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://odatv.com/o-iddia-meclis-gundeminde-0911121200_m.html" title="http://odatv.com/o-iddia-meclis-gundeminde-0911121200_m.html">http://odatv.com/…clis-gundeminde-0911121200_m.html</a><br/><br/>edit: arkadaslar uyardi artik canli yayinlanacakmis ama yine de <a class="b" href="/?q=svihs">svihs</a> diyorum. <br/><br/>edit: bazı aveller de almayın bizim şansımız artar yazmış.<br/>kardeş size diyecek bir şey bulamıyorum gidin biraz matematik ve istatistik olasılık öğrenin. yada boşverin siz en iyisi bilet alın.<br/><br/>debe editi: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.strawpoll.me/11518802" title="http://www.strawpoll.me/11518802">bedelli askerlik çıkmalı mı?</a>
    
   entry_writer: dovletbizebokmir
 - entry_name: |
@@ -31,8 +31,8 @@ data:
   entry_id: 64495368
   entry_content: |
     
-    kangurunun ''bu yaptığın bence çok kaba ve hiç de hoş olmayan bir davranış biçimi'' tavrı ile yarmıştır. yazık lan! gidip sarılasım geldi hayvana.
-    
+    kangurunun ''bu yaptığın bence çok kaba ve hiç de hoş olmayan bir davranış biçimi'' tavrı ile yarmıştır. yazık lan! gidip sarılasım geldi hayvana..<br/><br/>debit: bir de şöyle bir durum var (bkz: <a class="b" href="/?q=adiyaman+akcabel+koyu+ortaokulu+yardim+kampanyasi">adiyaman akcabel koyu ortaokulu yardim kampanyasi</a>)
+   
   entry_writer: umberto pelizzari
 - entry_name: |
     hindistan'da yaşanan toplu orgazm
@@ -55,7 +55,7 @@ data:
   entry_id: 64488421
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yaprak+sarmas%c4%b1">yaprak sarması</a>)
+    (bkz:  <a class="b" href="/?q=yaprak+sarmas%c4%b1">yaprak sarması</a>)<br/><br/>edit:<br/><br/>gelen kutusu » @kantarinto puzu<br/>(<a class="b" href="/entry/64488421">#64488421</a>) merhaba. köy okulunda öğretmen bir arkadaşımın ricasıyla bir yardım kampanyası başlığı açtım. okuldaki çocuklar durumları iyi olmadığı için mont/bot gibi kışlık kıyafetleri alamıyorlar. bu konuda yardıma ihtiyaçları var. fakat açtığım başlık pek ilgi görmedi sözlükte. asla para talep etmiyıruz. durumunuz elverdiğince alabileceğiniz kıyafetleri göndermenizi rica ediyoruz. elinizde giyilebilecek durumda olan kullanılmış kıyafetler varsa onları da gönderebilirsiniz. bir de mümkünse başlığa birkaç satır bir şey yazmanızı ve debe editi yapmanızı rica ediyorum. teşekkür ederim şimdiden.<br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)<br/><br/>05.12.2016 10:07<br/><br/>edit2: <br/><br/>gelen kutusu » @basucumdamuzik<br/>(<a class="b" href="/entry/64488421">#64488421</a>) güzel bir gün olsun..<br/><br/>debe editinizde siverekteki kütüphane yardımı için bir şeyler yazar yada sol frame de gözükmesi için bir satır yazabilirmisiniz.<br/>(bkz: <a class="b" href="/entry/64503024">#64503024</a>)
    
   entry_writer: angry engineer
 - entry_name: |
@@ -87,15 +87,15 @@ data:
   entry_id: 64486539
   entry_content: |
     
-    biz cevreyi dusunuyos tmm mi diye aciklama yapan, aslinda cevreyi sikine bile takmayan magazadir. altinda yatan sebep tamamen parasaldir. mumkun oldukca boyle yerlerden alisveris yapmiyorum. yalanci pezevengler cikip deselerki poset maliyetleri cok fazla biz de boyle yapiyoriz eyvallah ama cevreci ayagina iki yuzlu davraninca sinirleniyorum. icerde cevreye cok daha zararli seyler satiyorsun, hayvan gibi elektrik tuketiyorsun ama lafa gelince biz cok cevreciyiz o yuzden poset parali. hassiktir ordan
-    
+    biz cevreyi dusunuyos tmm mi diye aciklama yapan, aslinda cevreyi sikine bile takmayan magazadir. altinda yatan sebep tamamen parasaldir. mumkun oldukca boyle yerlerden alisveris yapmiyorum. yalanci pezevengler cikip deselerki poset maliyetleri cok fazla biz de boyle yapiyoriz eyvallah ama cevreci ayagina iki yuzlu davraninca sinirleniyorum. icerde cevreye cok daha zararli seyler satiyorsun, hayvan gibi elektrik tuketiyorsun ama lafa gelince biz cok cevreciyiz o yuzden poset parali. hassiktir ordann<br/><br/>debedit: soyle birsey varmis bos gecmeyelim (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
+   
   entry_writer: acxewd
 - entry_name: |
     hayatınız bir porno film olsa ismi ne olurdu
   entry_id: 64487188
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=beklenen+esprinin+bir+t%c3%bcrl%c3%bc+gelmemesi">beklenen esprinin bir türlü gelmemesi</a>)
+    (bkz:  <a class="b" href="/?q=beklenen+esprinin+bir+t%c3%bcrl%c3%bc+gelmemesi">beklenen esprinin bir türlü gelmemesi</a>)<br/><br/>edit: sözlük git gide daha da kötü ve can sıkıcı bir yer olmaya devam ediyor. bu başlığı gördüm ve yazılanlara bakmadan, başlık içerisinde arama yaptırarak bu bkz'ı veren olup olmadığına baktım. olmadığını görünce ben yazdım; debe'ye gireceğinden de tamamen emindim. gerçekten saçmalık, hatta ecnebilerin dediği gibi: bullshit. <br/>neyse, bari bir işe yarasın:<br/><br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
    
   entry_writer: axt
 - entry_name: |
@@ -103,7 +103,7 @@ data:
   entry_id: 64489655
   entry_content: |
     
-    kan donduran bir haber...  <br/><br/>iddiaya göre; 16 yaşındaki bir kız izmir'de bir uyuşturucu çetesi tarafından kaçırılıyor, kurtarılıyor, sonra tekrar kaçırılıyor. babasının başvurmadığı merci kalmamış, reise bile yazmış ama yine de devlet önlem almamış.<br/><br/>vahşi batıda bile akp türkiye'sine göre daha fazla hukuk vardı herhalde diye düşünüyorum artık.<br/><br/>gariban baba, devlete feryadını bir türlü duyuramamış. havuzda da yazmaz bunlar, bari biz ekşiciler bir el atalım da şu konuyu gündeme alalım, belki dikkat çekebiliriz, bir kızın hayatının kurtulmasına bir etkimiz olur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/turkiye/639953/16_yasindaki_Aysenur__Baba_beni_kurtar__bileklerimi_kestiler__kemigim_gorunuyor_.html" title="http://www.cumhuriyet.com.tr/m/haber/turkiye/639953/16_yasindaki_Aysenur__Baba_beni_kurtar__bileklerimi_kestiler__kemigim_gorunuyor_.html">http://www.cumhuriyet.com.tr/…migim_gorunuyor_.html</a><br/><br/><a class="b" href="/?q=g%c3%bcncelleme">güncelleme</a>: kız yarı baygın halde istanbul'da otogarda bulunmuş. yine de sorumluların bulunması, konunun dikkat çekmesi ve ayşenur'un ve diğer çocuklarımızın daha iyi korunması açısından bu olayın gündemde yer almasında yarar var diye düşünüyorum.<br/><br/><a class="b" href="/?q=g%c3%bcncelleme+2">güncelleme 2</a>: kaçırılma iddiasının sahte olduğuna dair yeni bir haber düştü: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/polisi-alarma-geciren-kacirilma-iddiasi-asilsiz-cikti-40296554" title="http://www.hurriyet.com.tr/polisi-alarma-geciren-kacirilma-iddiasi-asilsiz-cikti-40296554">http://www.hurriyet.com.tr/…-asilsiz-cikti-40296554</a> (teşekkürler <a class="b" href="/?q=hayal+hava+yollar%c4%b1">hayal hava yolları</a>)
+    kan donduran bir haber...  <br/><br/>iddiaya göre; 16 yaşındaki bir kız izmir'de bir uyuşturucu çetesi tarafından kaçırılıyor, kurtarılıyor, sonra tekrar kaçırılıyor. babasının başvurmadığı merci kalmamış, reise bile yazmış ama yine de devlet önlem almamış.<br/><br/>vahşi batıda bile akp türkiye'sine göre daha fazla hukuk vardı herhalde diye düşünüyorum artık.<br/><br/>gariban baba, devlete feryadını bir türlü duyuramamış. havuzda da yazmaz bunlar, bari biz ekşiciler bir el atalım da şu konuyu gündeme alalım, belki dikkat çekebiliriz, bir kızın hayatının kurtulmasına bir etkimiz olur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/turkiye/639953/16_yasindaki_Aysenur__Baba_beni_kurtar__bileklerimi_kestiler__kemigim_gorunuyor_.html" title="http://www.cumhuriyet.com.tr/m/haber/turkiye/639953/16_yasindaki_Aysenur__Baba_beni_kurtar__bileklerimi_kestiler__kemigim_gorunuyor_.html">http://www.cumhuriyet.com.tr/…migim_gorunuyor_.html</a><br/><br/><a class="b" href="/?q=g%c3%bcncelleme">güncelleme</a>: kız yarı baygın halde istanbul'da otogarda bulunmuş. yine de sorumluların bulunması, konunun dikkat çekmesi ve ayşenur'un ve diğer çocuklarımızın daha iyi korunması açısından bu olayın gündemde yer almasında yarar var diye düşünüyorum.<br/><br/><a class="b" href="/?q=g%c3%bcncelleme+2">güncelleme 2</a>: kaçırılma iddiasının sahte olduğuna dair yeni bir haber düştü: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/polisi-alarma-geciren-kacirilma-iddiasi-asilsiz-cikti-40296554" title="http://www.hurriyet.com.tr/polisi-alarma-geciren-kacirilma-iddiasi-asilsiz-cikti-40296554">http://www.hurriyet.com.tr/…-asilsiz-cikti-40296554</a> (teşekkürler <a class="b" href="/?q=hayal+hava+yollar%c4%b1">hayal hava yolları</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
    
   entry_writer: nf3
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 64491690
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yaman+%c3%a7omars%c4%b1n+delikanl%c4%b1">yaman çomarsın delikanlı</a>)<br/>(bkz: <a class="b" href="/?q=uzun+yaz%c4%b1+yazabilen+%c3%a7omar">uzun yazı yazabilen çomar</a>)
+    (bkz:  <a class="b" href="/?q=yaman+%c3%a7omars%c4%b1n+delikanl%c4%b1">yaman çomarsın delikanlı</a>)<br/>(bkz: <a class="b" href="/?q=uzun+yaz%c4%b1+yazabilen+%c3%a7omar">uzun yazı yazabilen çomar</a>)<br/><br/>debe editi: çocuklarınızı kuran kursu yerine satranç kursuna gönderin.<br/>debe 2: (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)<br/>debe 3:(bkz: <a class="b" href="/?q=siverek+24+kas%c4%b1m+ortaokuluna+k%c3%bct%c3%bcphane+yard%c4%b1m%c4%b1">siverek 24 kasım ortaokuluna kütüphane yardımı</a>)
    
   entry_writer: viper cy
 - entry_name: |
@@ -119,8 +119,8 @@ data:
   entry_id: 64487430
   entry_content: |
     
-    reis-i cumhur haklıdır, 14 yıldır milli eğitim bakanlığı yapan chp milletvekili istifa etsin artık. her şey bir yere kadar. yeter biz de memnun değiliz. reis-i cumhur sonuna kadar haklıdır.
-    
+    reis-i cumhur haklıdır, 14 yıldır milli eğitim bakanlığı yapan chp milletvekili istifa etsin artık. her şey bir yere kadar. yeter biz de memnun değiliz. reis-i cumhur sonuna kadar haklıdır..<br/><br/>debe edit: iş yerine laf üretmekten çok çeken bir ülkenin çocukları olarak, bu ülkede güzel insanlar yetişmesi için ekşi'de yazmaktan veya favlamaktan fazlasını yapalım arkadaşlar.<br/><br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://akcabelortaokulu.meb.k12.tr/">http://akcabelortaokulu.meb.k12.tr/</a>
+   
   entry_writer: you are no longer a prisoner of fate
 - entry_name: |
     boşalma sonrası yalandan kızı öpme seremonisi
@@ -151,7 +151,7 @@ data:
   entry_id: 64500504
   entry_content: |
     
-    şu an kurgu olduğu bariz bi şekilde belli olan ve zerre ses yeteneği olmayan birini adı tayyip diye sahneye çıkardılar. annesine ise recep tayyipi önceden ezberletilmiş şekilde övdürdüler.  <br/><br/>murat boz ve sibel can da şap şap ağzı kulaklarında alkışladılar, tarihe not düşsün. <br/><br/>iyi yalayın, milyon dolarlarınıza zeval gelmesin.
+    şu an kurgu olduğu bariz bi şekilde belli olan ve zerre ses yeteneği olmayan birini adı tayyip diye sahneye çıkardılar. annesine ise recep tayyipi önceden ezberletilmiş şekilde övdürdüler.  <br/><br/>murat boz ve sibel can da şap şap ağzı kulaklarında alkışladılar, tarihe not düşsün. <br/><br/>iyi yalayın, milyon dolarlarınıza zeval gelmesin.<br/><br/>edit: istek üzerine<br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
    
   entry_writer: iddia ediyorum su soyledir bu boyledir
 - entry_name: |
@@ -159,7 +159,7 @@ data:
   entry_id: 64500819
   entry_content: |
     
-    bildigin zengin bebesi olmayan anadolu cocugu iste, ne gibi bir tuhafligi var anlamadim. dalga gecenlerin hepsinin cocuklugu bir  <a class="b" href="/?q=macaulay+culkin">macaulay culkin</a>bir <a class="b" href="/?q=shirley+temple">shirley temple</a>herhalde.
+    bildigin zengin bebesi olmayan anadolu cocugu iste, ne gibi bir tuhafligi var anlamadim. dalga gecenlerin hepsinin cocuklugu bir  <a class="b" href="/?q=macaulay+culkin">macaulay culkin</a> bir <a class="b" href="/?q=shirley+temple">shirley temple</a> herhalde.<br/><br/>istek üzerine edit: (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>). umarim kampanya amacina ulasir.
    
   entry_writer: saintalbray
 - entry_name: |
@@ -175,8 +175,8 @@ data:
   entry_id: 64497131
   entry_content: |
     
-    ekonomik kriz nedeniyle hükümete yakın ekşi sözlük yönetim kurulu bu ay maaşları dolar ile değil de tl ile verileceğini açıklamış. yapacağım ilk iş aldığım parayı 5 bin dolara çevirmek olacak.
-    
+    ekonomik kriz nedeniyle hükümete yakın ekşi sözlük yönetim kurulu bu ay maaşları dolar ile değil de tl ile verileceğini açıklamış. yapacağım ilk iş aldığım parayı 5 bin dolara çevirmek olacak..<br/><br/>debe editi: (<a class="b" href="/entry/64473991">#64473991</a>)
+   
   entry_writer: hassektir
 - entry_name: |
     halk fakirlikten kırılırken anıtkabir yapmak
@@ -263,7 +263,7 @@ data:
   entry_id: 64491133
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="http://coub.com/view/iacnf.gifv">http://coub.com/view/iacnf.gifv</a>
+    ---  <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://coub.com/view/iacnf.gifv">http://coub.com/view/iacnf.gifv</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>debe edit: (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
    
   entry_writer: rolandmicrocube
 - entry_name: |
@@ -279,16 +279,16 @@ data:
   entry_id: 64489338
   entry_content: |
     
-    murat bardakçı bunu susturduğunda çok kızardım, meğer bir bildiği varmış adamın.
-    
+    murat bardakçı bunu susturduğunda çok kızardım, meğer bir bildiği varmış adamın..<br/><br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
+   
   entry_writer: voltranin sag kolu
 - entry_name: |
     fernando muslera
   entry_id: 64497979
   entry_content: |
     
-    geçenlerde buralarda bir başlık vardı "recep tayyip erdoğan'a rakip olabilecek lider" diye.işte o kişi fernando muslera olabilir.
-    
+    geçenlerde buralarda bir başlık vardı "recep tayyip erdoğan'a rakip olabilecek lider" diye.işte o kişi fernando muslera olabilir..<br/><br/>debe edit:ilk debemi taraftarı olduğum takımın sevdiğim bir oyuncusuyla yaşadığım için mutluyum.teşekkürler ekşi ahalisi...<br/><br/>bu arada bir işe yarasın bari:(bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)
+   
   entry_writer: sempatikyazar
 - entry_name: |
     tarkan altın madalyon'da ansızın ortaya çıkan meme
@@ -335,7 +335,7 @@ data:
   entry_id: 64488711
   entry_content: |
     
-    hamile olduğumu öğrendikten sonra sürecin nasıl ilerlediğine dair araştırmalar yaparken rastladım enjektör kadınlarına. tabii ki kadınlar kulübünde. sanırım prezervatifin içindeki spermi alıp kendine enjekte eden kadın en masumlarından biri. sevgilisinden afedersiniz ağzına boşalmasını isteyip, sonra wcye gidip ağzındaki spermleri enjektörle çeken ve vajinasına enjekte eden kadın var. bana göre zirvenin sahibi odur..<br/><br/>işin kötü yanı prezervatif delenler, eliyle alıp içine dökenler, ağzından çekenler, enjekte edenler vs çoğunlukla evli olup eşleri çocuk istemeyen kadınlar. kocan senden çocuk istemiyor bundan daha aşağılayıcı bir şey olabilir mi? çocuk yapma kararı aldığımda en büyük motivasyonum eşimin aşırı çocuk sevgisi ve isteğiydi. bir çocuğu önce baba isteyecek ya. annelik zaten testte ikinci çizgiyi gördüğü an yükleniyor kadına. babalık öyle değil, zamanla oluyor. isterse çocuk bilimci olsun hiçbir erkek istemediği çocuğa doğru dürüst babalık yapamaz. benim bu enjektör kadınlarında takıldığım nokta bu, baba sevgisinden mahrum bir çocuk dünyaya gelecek, bunu nasıl göze alıyorlar, günah ya. <br/><br/>bir de evlenmek için enjekte edenler var. şunu herkes kabul eder, bebek evliliğe giden en hızlı yoldur. hadi enjekte ettiği sperm gitti dölledi yumurtayı ve bebek oldu, evlendiler diyelim. bundan sonra ne olacak hiç düşünmezler mi? hayatını çocuk yüzünden (üstelik enjekte çocuk, şırıngadan kendi imkanlarıyla) kendisiyle evlenmiş bir adamla geçirecek ya iğrenç. bunu yapan da kadın yani dünyanın ve kainatın en hassas, en kaprisli, en incelikli, en nadide varlığı. sorsan çiçektir. ne tür bir çiçek ağzından şırıngayla sperm çeker yaa.
+    hamile olduğumu öğrendikten sonra sürecin nasıl ilerlediğine dair araştırmalar yaparken rastladım enjektör kadınlarına. tabii ki kadınlar kulübünde. sanırım prezervatifin içindeki spermi alıp kendine enjekte eden kadın en masumlarından biri. sevgilisinden afedersiniz ağzına boşalmasını isteyip, sonra wcye gidip ağzındaki spermleri enjektörle çeken ve vajinasına enjekte eden kadın var. bana göre zirvenin sahibi odur..<br/><br/>işin kötü yanı prezervatif delenler, eliyle alıp içine dökenler, ağzından çekenler, enjekte edenler vs çoğunlukla evli olup eşleri çocuk istemeyen kadınlar. kocan senden çocuk istemiyor bundan daha aşağılayıcı bir şey olabilir mi? çocuk yapma kararı aldığımda en büyük motivasyonum eşimin aşırı çocuk sevgisi ve isteğiydi. bir çocuğu önce baba isteyecek ya. annelik zaten testte ikinci çizgiyi gördüğü an yükleniyor kadına. babalık öyle değil, zamanla oluyor. isterse çocuk bilimci olsun hiçbir erkek istemediği çocuğa doğru dürüst babalık yapamaz. benim bu enjektör kadınlarında takıldığım nokta bu, baba sevgisinden mahrum bir çocuk dünyaya gelecek, bunu nasıl göze alıyorlar, günah ya. <br/><br/>bir de evlenmek için enjekte edenler var. şunu herkes kabul eder, bebek evliliğe giden en hızlı yoldur. hadi enjekte ettiği sperm gitti dölledi yumurtayı ve bebek oldu, evlendiler diyelim. bundan sonra ne olacak hiç düşünmezler mi? hayatını çocuk yüzünden (üstelik enjekte çocuk, şırıngadan kendi imkanlarıyla) kendisiyle evlenmiş bir adamla geçirecek ya iğrenç. bunu yapan da kadın yani dünyanın ve kainatın en hassas, en kaprisli, en incelikli, en nadide varlığı. sorsan çiçektir. ne tür bir çiçek ağzından şırıngayla sperm çeker yaa.<br/><br/>debe edit: gelen olumlu ve olumsuz bütün yorumları dikkatle okuyup elimden geldiğince yanıtlamaya çalıştım fakat bir noktada gözlerimi kapatıp kendimi akıntının sessiz sakin sürükleyişine bıraktım. gözlerimi açtığımda ilkel bir feminizm kabilesinin hudutlarına girmiştim. şu an bu edit'i devasa bir kazanın içinden yazıyorum. kısık ateşte piştiğimden henüz yaşam fonksiyonlarımı kaybetmedim. <br/><br/>kısaca özetleyecek olursam, kabile lideri olduğunu tahmin ettiğim bıyıklı bir kadın benim kadın düşmanı geri kafalının teki olduğumu ve kabilelerine erkek egemenliği getirebilme potansiyelim olduğunu açıkladı. sonra kabile olarak acilen yahnimin yapılması suretiyle öldürülmem kararını aldılar. sonuç olarak burada, kazanın tam merkezine oturtulmuş pişmeyi bekliyorum.<br/><br/>bu entry'i oylayan, favlayan tüm yoldaşlarım bilsin ki davamdan dönmedim ve asla dönmeyeceğim. annelik benim için halen içgüdüseldir, kadınlar benim gözümde halen hassas birer çiçektir, kadın olmak benim için halen ayrıcalık ve kapris sahibi olmaktır. (ağzında beklettiği spermi vajinasına enjekte eden kadınlar hariçtir. siz iğrençsiniz) <br/><br/>sevgiyle kalın, erkek egemenliğinde kalın, hoşçakalın...
    
   entry_writer: beliscik
 - entry_name: |
@@ -383,8 +383,8 @@ data:
   entry_id: 64492141
   entry_content: |
     
-    o da kendini öyle mutlu hissediyor demek ki? hiç kimseye bir zararı olmayan bu durum bazı insanları neden rahatsız ediyor, bilemiyorum çok mu mutsuzsunuz? kişinin, en basiti yahu kendi hakkındaki düşünce özgürlüğünden ibaret basit bir şey. o kişi kendisinin gezgin olduğunu düşünürken mutlu oluyor demek ki. birilerinin küçük şeylerle mutlu olabilmesi lütfen artık başkalarını rahatsız etmesin yahu. ben bir araba jantıyım. varsa itirazı olan gelsin karşıma.
-    
+    o da kendini öyle mutlu hissediyor demek ki? hiç kimseye bir zararı olmayan bu durum bazı insanları neden rahatsız ediyor, bilemiyorum çok mu mutsuzsunuz? kişinin, en basiti yahu kendi hakkındaki düşünce özgürlüğünden ibaret basit bir şey. o kişi kendisinin gezgin olduğunu düşünürken mutlu oluyor demek ki. birilerinin küçük şeylerle mutlu olabilmesi lütfen artık başkalarını rahatsız etmesin yahu. ben bir araba jantıyım. varsa itirazı olan gelsin karşıma..<br/><br/>debe editi: (bkz: <a class="b" href="/?q=ad%c4%b1yaman+ak%c3%a7abel+k%c3%b6y%c3%bc+ortaokulu+yard%c4%b1m+kampanyas%c4%b1">adıyaman akçabel köyü ortaokulu yardım kampanyası</a>)<br/>(bkz: <a class="b" href="/?q=eksi+kutuphane+agri+asagi+kosk+ilkokulu+yardimi">eksi kutuphane agri asagi kosk ilkokulu yardimi</a>)
+   
   entry_writer: prensinbeyazati
 - entry_name: |
     mustafa reşit akçay
