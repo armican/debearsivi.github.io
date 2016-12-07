@@ -11,14 +11,6 @@ data:
     
   entry_writer: istedikleri yere gidenler
 - entry_name: |
-    berat albayrak
-  entry_id: 64526953
-  entry_content: |
-    
-    yusuf islam cd'si ile seks oyuncagini ayni anda siparis vererek amazon'un sizin icin oneriler algoritmasini sikip atmis adam gibi adasahjfsjha.
-    
-  entry_writer: gazliyarimfenasalmis
-- entry_name: |
     6 aralık 2016 dinamo kiev beşiktaş maçı
   entry_id: 64545260
   entry_content: |
@@ -31,7 +23,7 @@ data:
   entry_id: 64534468
   entry_content: |
     
-    son edit: yazar arkadaşımız olayın kendisini mağdur edebileceğini ve yazıyı kaldırmamı istediğini iletti. yazı kalktı..<br/>olayda kesinlikle içeri kaçak girme gibi bir durumun olmadığını, yazdığı yazının abartılarla dolu ve sadece eğlence amaçlı olduğunu belirtti.<br/><br/>edit: arkadaş aynı zamanda sözlük yazarıymış ve zor durumda kalabileceğini belirterek benimle iletişime geçti. olaydaki bazı bölümlerin abartı ve mizansen içerdiğini belirtti. ayrıca içeriye gayet resmi yollarla girilmiş.
+    son edit: yazar arkadaşımız olayın kendisini mağdur edebileceğini ve yazıyı kaldırmamı istediğini iletti. yazı kalktı..<br/>olayda kesinlikle içeri kaçak girme gibi bir durumun olmadığını, yazdığı yazının abartılarla dolu ve sadece eğlence amaçlı olduğunu belirtti.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: sakin'in ilk ve tek albümü olan <a rel="nofollow noopener" class="url" target="_blank" href="http://images.hepsiburada.net/assets/Muzik/500/musicyerli508.jpg" title="http://images.hepsiburada.net/assets/Muzik/500/musicyerli508.jpg">hayat</a> albümünü nereden, hangi eskiciden, nasıl bulabilirim? elinde olan, sağa sola bırakan, önemsemeyen biri varsa bana yollayabilir mi?
    
   entry_writer: hasreti muhabbet
 - entry_name: |
@@ -47,7 +39,7 @@ data:
   entry_id: 64529694
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=einstein+ona+arkada%c5%9f%c4%b1m+diyor">einstein ona arkadaşım diyor</a>)
+    (bkz:  <a class="b" href="/?q=einstein+ona+arkada%c5%9f%c4%b1m+diyor">einstein ona arkadaşım diyor</a>)<br/><br/>debe edit: <a class="b" href="/?q=craig+thomson">craig thomson</a> isimli iskoç emek hırsızına inat, haydi kalk ayağa yürü güneşe!!!
    
   entry_writer: herturluacilansemsiye
 - entry_name: |
@@ -55,7 +47,7 @@ data:
   entry_id: 64531836
   entry_content: |
     
-    o dolarla gidip kola alıp sonra da o kolayı dökmeliydi, böylelikle dış mihrakları kendi silahlarıyla vurmuş olacaktı.  <br/><br/>büyük oyunu görememiş, talihsiz dayıdır.
+    o dolarla gidip kola alıp sonra da o kolayı dökmeliydi, böylelikle dış mihrakları kendi silahlarıyla vurmuş olacaktı.  <br/><br/>büyük oyunu görememiş, talihsiz dayıdır.<br/><br/>debe edit: <a class="b" href="/?q=craig+thomson">craig thomson</a> isimli iskoç emek hırsızına inat, haydi kalk ayağa yürü güneşe!!!
    
   entry_writer: herturluacilansemsiye
 - entry_name: |
@@ -95,7 +87,7 @@ data:
   entry_id: 64532408
   entry_content: |
     
-    inkar etmediği şeyler yüzünden "maskesi düştü şarlatanın!" diye linç edilen kişi..<br/><br/>kendisini takip ettiğim son iki yıldır her cümlesi "bu adamlarla 30 yıl çalıştım allah benim belamı versin" diye başlıyor. adam bunu kuru bir tweet'le de yapabilirdi, ama sırf "çok pişmanım" mesajı vermek için geçen yıl kitap yazdı.<br/><br/>eğer "pişmanım, lanet olsun" dediği süre zarfında iktidara en ufak bir yalakalığını görürsek adama her şeyi deme hakkımız var, ama pişman olduğu geçmişinden örnekler gösterip "bakın adam yalancıymış, halbuki muhalif diye pazarlıyorlardı" demek saçmalıktır. bunun turan dursun için "beyler adam eskiden imammış ya meğer ateist gösterilmeye çalışılıyormuş" demekten hiçbir farkı yoktur. <br/><br/>doğma büyüme solcular a sınıf insan, sonradan solcu olanlar b sınıf insan, eskiden islamcı olup sonradan demokrat olanlar c sınıf insan diye bir ayrım yapılamaz. her insan bizim fikrimizle doğmuyor, bazıları da sonradan demokrat oluyor. insanlara değişmek için şans vermek bir gerekliliktir. eğer doğru yolu bulan herkesi böyle vesilelerle harcayacaksak biz bir adım bile ileri gidemeyiz.
+    inkar etmediği şeyler yüzünden "maskesi düştü şarlatanın!" diye linç edilen kişi..<br/><br/>kendisini takip ettiğim son iki yıldır her cümlesi "bu adamlarla 30 yıl çalıştım allah benim belamı versin" diye başlıyor. adam bunu kuru bir tweet'le de yapabilirdi, ama sırf "çok pişmanım" mesajı vermek için geçen yıl kitap yazdı.<br/><br/>eğer "pişmanım, lanet olsun" dediği süre zarfında iktidara en ufak bir yalakalığını görürsek adama her şeyi deme hakkımız var, ama pişman olduğu geçmişinden örnekler gösterip "bakın adam yalancıymış, halbuki muhalif diye pazarlıyorlardı" demek saçmalıktır. bunun turan dursun için "beyler adam eskiden imammış ya meğer ateist gösterilmeye çalışılıyormuş" demekten hiçbir farkı yoktur. <br/><br/>doğma büyüme solcular a sınıf insan, sonradan solcu olanlar b sınıf insan, eskiden islamcı olup sonradan demokrat olanlar c sınıf insan diye bir ayrım yapılamaz. her insan bizim fikrimizle doğmuyor, bazıları da sonradan demokrat oluyor. insanlara değişmek için şans vermek bir gerekliliktir. eğer doğru yolu bulan herkesi böyle vesilelerle harcayacaksak biz bir adım bile ileri gidemeyiz.<br/><br/>edit: <sup class="ab"><a title="(bkz: #63818579)" href="/entry/63818579" data-query="#63818579">*</a></sup> <sup class="ab"><a title="(bkz: #64470927)" href="/entry/64470927" data-query="#64470927">*</a></sup> <sup class="ab"><a title="(bkz: #64508404)" href="/entry/64508404" data-query="#64508404">*</a></sup> <sup class="ab"><a title="(bkz: #63905598)" href="/entry/63905598" data-query="#63905598">*</a></sup>
    
   entry_writer: lhuntarn
 - entry_name: |
@@ -119,7 +111,7 @@ data:
   entry_id: 64544401
   entry_content: |
     
-    adam sampiyonlar liginde hat-trick yapmis, lavuk medya yarin havalara cikarir diyor. hey allahim ya..<br/>(bkz: <a class="b" href="/?q=turkiyede+hicbir+basari+cezasiz+kalmaz">turkiyede hicbir basari cezasiz kalmaz</a>)
+    adam sampiyonlar liginde hat-trick yapmis, lavuk medya yarin havalara cikarir diyor. hey allahim ya..<br/>(bkz: <a class="b" href="/?q=turkiyede+hicbir+basari+cezasiz+kalmaz">turkiyede hicbir basari cezasiz kalmaz</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=nusinersen+tedavisi+turkiye%27ye+gelsin+kampanyasi">nusinersen tedavisi turkiye'ye gelsin kampanyasi</a>)
    
   entry_writer: surveyanabi
 - entry_name: |
@@ -183,7 +175,7 @@ data:
   entry_id: 64529406
   entry_content: |
     
-    ötv zamlarını müjdeleyen gazetenin haberidir. daha önce ki örneklerine bakarak, otobüsün chp ile alakası da olmayabilir, bundan çok eski bir tarihteki yolculukta olabilir. taziyeye gitmiyorda olabilir.  <br/><br/>yalan bir hastalıktır, bulaştımı kurtulamazsın. <br/><br/>o yüzden yorumumu düzgün bir haber görene kadar bekletiyorum. <sup class="ab"><a title="(bkz: buralar değerlenir)" href="/?q=buralar+de%c4%9ferlenir" data-query="buralar değerlenir">*</a></sup><br/><br/>ha birde ben bu süleymancıların yerinde olsam ülkeden kaçarım, 5 yıla kalmaz yeni günah keçisi sizsiniz gibi duruyor. <sup class="ab"><a title="(bkz: inanma sikecek)" href="/?q=inanma+sikecek" data-query="inanma sikecek">*</a></sup>
+    ötv zamlarını müjdeleyen gazetenin haberidir. daha önce ki örneklerine bakarak, otobüsün chp ile alakası da olmayabilir, bundan çok eski bir tarihteki yolculukta olabilir. taziyeye gitmiyor da olabilir.  <br/><br/>yalan bir hastalıktır, bulaştımı kurtulamazsın. <br/><br/>o yüzden yorumumu düzgün bir haber görene kadar bekletiyorum. <sup class="ab"><a title="(bkz: buralar değerlenir)" href="/?q=buralar+de%c4%9ferlenir" data-query="buralar değerlenir">*</a></sup><br/><br/>ha birde ben bu süleymancıların yerinde olsam ülkeden kaçarım, 5 yıla kalmaz yeni günah keçisi sizsiniz gibi duruyor. <sup class="ab"><a title="(bkz: inanma sikecek)" href="/?q=inanma+sikecek" data-query="inanma sikecek">*</a></sup><br/><br/>edit: @re noreno uyardı, adana mitingine gidiliyormuş. ama kimsenin konuşmadığı şey, bu yaşta kız çocuklarının nasıl oluyor da bir yurtta kalıyor olduğu. yasa bazılarına işlemiyor sanırım. benim bildiğim lise çağından önce öğrenci yurdu yapamıyorsun. daha önce de böyle yasa ihlalleri oldu. @bir birey olmaya çalışıyorum'ın uyarısı ile de "de" eki ayrı yazıldı.
    
   entry_writer: putko
 - entry_name: |
@@ -303,7 +295,7 @@ data:
   entry_id: 64531179
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yumurtal%c4%b1ktaki+yar%c4%b1m+limon">yumurtalıktaki yarım limon</a>) <br/><br/>zira bu olmazsa bişiler ters gidiyordur.
+    (bkz:  <a class="b" href="/?q=yumurtal%c4%b1ktaki+yar%c4%b1m+limon">yumurtalıktaki yarım limon</a>) <br/><br/>zira bu olmazsa bişiler ters gidiyordur.<br/><br/>debedit : ne kadar çok kişiye ulaşabilirse (bkz: <a class="b" href="/?q=nusinersen+tedavisi+t%c3%bcrkiye%27ye+gelsin+kampanyas%c4%b1">nusinersen tedavisi türkiye'ye gelsin kampanyası</a>)
    
   entry_writer: retro sokagi mudavimi
 - entry_name: |
