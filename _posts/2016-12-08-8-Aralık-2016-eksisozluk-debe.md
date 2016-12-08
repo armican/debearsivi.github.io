@@ -7,7 +7,7 @@ data:
   entry_id: 64555006
   entry_content: |
     
-    adı bu tarz bir  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/298443/avmde-cocuga-ciplak-arama-skandali" title="https://www.evrensel.net/haber/298443/avmde-cocuga-ciplak-arama-skandali">haberde</a> geçtiği için bir daha kapısından dahi adımımı atmayacağım kozmetik dükkanı.. linke tıklamaya üşenenler için özet geçeyim; avm içindeki bir mağazalarında lise son sınıf öğrencisi olan müşteriyi hırsızlıkla suçlayıp, erkek güvenlikçilerle çıplak arama yapıyorlar detaylar linkte mevcut.<br/>şu haberden sonra bu ülke kadınları bu mağazalar zincirini protesto etmezse, bunlar tüm kadınlarımızdan özür dileyip bu ülkeden gitmezlerse, mağdura yüklü bir tazminat ödemezlerse biz ülkeyi kapatıp gidelim.
+    adı bu tarz bir  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/298443/avmde-cocuga-ciplak-arama-skandali" title="https://www.evrensel.net/haber/298443/avmde-cocuga-ciplak-arama-skandali">haberde</a> geçtiği için bir daha kapısından dahi adımımı atmayacağım kozmetik dükkanı.. linke tıklamaya üşenenler için özet geçeyim; avm içindeki bir mağazalarında lise son sınıf öğrencisi olan müşteriyi hırsızlıkla suçlayıp, erkek güvenlikçilerle çıplak arama yapıyorlar detaylar linkte mevcut.<br/>şu haberden sonra bu ülke kadınları bu mağazalar zincirini protesto etmezse, bunlar tüm kadınlarımızdan özür dileyip bu ülkeden gitmezlerse, mağdura yüklü bir tazminat ödemezlerse biz ülkeyi kapatıp gidelim.<br/><br/>debe editi: (bkz: <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a>)
    
   entry_writer: acalculia
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 64563395
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dolari+amerika%27da+fakir+zenciler+kullaniyor">dolari amerika'da fakir zenciler kullaniyor</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=yi%c4%9fit+bulut+ve+egemen+ba%c4%9f%c4%b1%c5%9fla+ayn%c4%b1+saraya+%c3%a7%c4%b1kmak">yiğit bulut ve egemen bağışla aynı saraya çıkmak</a>)
+    (bkz:  <a class="b" href="/?q=dolari+amerika%27da+fakir+zenciler+kullaniyor">dolari amerika'da fakir zenciler kullaniyor</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=yi%c4%9fit+bulut+ve+egemen+ba%c4%9f%c4%b1%c5%9f+ile+ayn%c4%b1+saraya+%c3%a7%c4%b1kmak">yiğit bulut ve egemen bağış ile aynı saraya çıkmak</a>)
    
   entry_writer: angry engineer
 - entry_name: |
@@ -79,7 +79,7 @@ data:
   entry_id: 64561837
   entry_content: |
     
-     <a class="b" href="/?q=national+geographic">national geographic</a> gibi ülkedeyiz amk.bildiğin vahşi yaşam, gizli gizli aksiyon planları.bu dayının mahallede 2 genç birbirine sarılsa eminim <a class="b" href="/?q=ayr%c4%b1l%c4%b1n+lan+buras%c4%b1+seks+mi">ayrılın lan burası seks mi</a> diye çıkışır.
+     <a class="b" href="/?q=national+geographic">national geographic</a> gibi ülkedeyiz amk.bildiğin vahşi yaşam, gizli gizli aksiyon planları.bu dayının mahallede 2 genç birbirine sarılsa eminim <a class="b" href="/?q=ayr%c4%b1l%c4%b1n+lan+buras%c4%b1+seks+mi">ayrılın lan burası seks mi</a> diye çıkışır.<br/><br/>debedit : (bkz: <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a>)
    
   entry_writer: sapkasiz cikmam abi
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 64550529
   entry_content: |
     
-    fiyatı 6.000 tl olan oldukça kaliteli bir koltuk takımını alıp salona yerleştiremedim. boyutlar showroomda görünene göre oldukça büyük çıkınca doğru düzgün kullanmadan satışa koydum..<br/><br/>mağaza belli, satış fiyatı belli, ürün faturalı. sahibinden.com'da açtığım ilanda fiyat 3.500 tl. <br/><br/>gelen mesaj aynen şu (yazım hataları ile birlikte): <br/><br/>"selamlar ozz bey sanırım az kullanılmış bir ürün.. fiyat çok pahallı 2. elciyim. biz en iyi müşteriye bunları 2. el 1000 lira civarında satıyoruz. son ne olur?"<br/><br/>"tamam gelin alın 1.000 liraya" diye cevap attım.<br/><br/>eskiden kullanıp epeydir kenarda duran cep numaramı verdim. aradılar konuştuk, evin karşısındaki özel güvenlikli bir sitenin adresini verdim. adamlar yarım saat sonra rulo naylon yüklü koca bir kamyonetle karşı sitenin kapısına geldi.<br/><br/>artık kullanmadığım ve kullanmayı düşünmediğim hattımın sim kartını kırıp çöpe attım. kahvemi sigaramı ayarlayıp elemanların güvenlikler tarafından yaka paça siteden kovalanmasını izledim.<br/><br/>ölücülere ölüm..
+    fiyatı 6.000 tl olan oldukça kaliteli bir koltuk takımını alıp salona yerleştiremedim. boyutlar showroomda görünene göre oldukça büyük çıkınca doğru düzgün kullanmadan satışa koydum..<br/><br/>mağaza belli, satış fiyatı belli, ürün faturalı. sahibinden.com'da açtığım ilanda fiyat 3.500 tl. <br/><br/>gelen mesaj aynen şu (yazım hataları ile birlikte): <br/><br/>"selamlar ozz bey sanırım az kullanılmış bir ürün.. fiyat çok pahallı 2. elciyim. biz en iyi müşteriye bunları 2. el 1000 lira civarında satıyoruz. son ne olur?"<br/><br/>"tamam gelin alın 1.000 liraya" diye cevap attım.<br/><br/>eskiden kullanıp epeydir kenarda duran cep numaramı verdim. aradılar konuştuk, evin karşısındaki özel güvenlikli bir sitenin adresini verdim. adamlar yarım saat sonra rulo naylon yüklü koca bir kamyonetle karşı sitenin kapısına geldi.<br/><br/>artık kullanmadığım ve kullanmayı düşünmediğim hattımın sim kartını kırıp çöpe attım. kahvemi sigaramı ayarlayıp elemanların güvenlikler tarafından yaka paça siteden kovalanmasını izledim.<br/><br/>ölücülere ölüm..<br/><br/>not: bunu sonuna kadar sabırla okuduysan elini vicdanına koy ve türkiye'de ölüme terk edilen <a class="b" href="/?q=sma">sma</a> hastası yavrulara bir imzayla destek ol: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/sma-hastaliği-için-nusinersen-tedavisini-türkiye-de-de-istiyoruz?recruiter=355732872&utm_source=share_petition&utm_medium=copylinkcopylink" title="https://www.change.org/p/sma-hastaliği-için-nusinersen-tedavisini-türkiye-de-de-istiyoruz?recruiter=355732872&utm_source=share_petition&utm_medium=copylinkcopylink">https://www.change.org/…etition&utm_medium=copylinklink</a>
    
   entry_writer: grandleozz
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 64550120
   entry_content: |
     
-    bütün hasta ruhlar toplanmış, kim olursa olsun engelli bi kızı mutlu etmenin kendilerini nasıl mutsuz ettiğinden bahsediyorlar.  <br/><br/>hsjskj sözlük değil sirk alanı. <br/><br/>yemin ederim siz salaksınız oğlum. sizin varya içinizin kötülüğü kronikleşmiş. <br/><br/>be yavşak engelli bi kız bu. bi isteği var. isteği yerine getiriliyor. yetmiyor bir de o kişi tarafından aranıyor. yine o adam o engelli kızı külliye'de davet etmek istediğini dile getiriyor. <br/><br/>burada bozulacak ne var? bu kadar mı partizansın?<br/><br/>daha çok olması gereken, güzel hareketler bunlar.<br/><br/>edit: "twitter'dan bizzat kendisinin cevap verdiğini sanan romantikler...." ahahhah oğlum siz şaka mısınız lan? bıngıldak ezilmesi falan mı yaşadınız küçükken? adam sizin gibi işsiz mi lan ona buna laf yetiştirsin? ya da herkes siz gibi salak mı o cevabı erdoğan'ın kendisi yazdı sansın? pr çalışmasına ihtiyacı varmış. lan bsg ya. kafanı şu sözlükten bi kaldır be.
+    bütün hasta ruhlar toplanmış, kim olursa olsun engelli bi kızı mutlu etmenin kendilerini nasıl mutsuz ettiğinden bahsediyorlar.  <br/><br/>hsjskj sözlük değil sirk alanı. <br/><br/>yemin ederim siz salaksınız oğlum. sizin varya içinizin kötülüğü kronikleşmiş. <br/><br/>be yavşak, engelli bi kız bu. bi isteği var. isteği yerine getiriliyor. yetmiyor bir de o kişi tarafından aranıyor. yine o adam o engelli kızı külliye'de davet etmek istediğini dile getiriyor. <br/><br/>burada bozulacak ne var? bu kadar mı partizansın?<br/><br/>daha çok olması gereken, güzel hareketler bunlar.<br/><br/>edit: "twitter'dan bizzat kendisinin cevap verdiğini sanan romantikler...." ahahhah oğlum siz şaka mısınız lan? bıngıldak ezilmesi falan mı yaşadınız küçükken? adam sizin gibi işsiz mi lan ona buna laf yetiştirsin? ya da herkes siz gibi salak mı o cevabı erdoğan'ın kendisi yazdı sansın? pr çalışmasına ihtiyacı varmış. lan bsg ya. kafanı şu sözlükten bi kaldır be.
    
   entry_writer: nukleerella
 - entry_name: |
@@ -151,7 +151,7 @@ data:
   entry_id: 64563610
   entry_content: |
     
-    cehaletin neden en büyük düşmanımız olduğunun kanıtı niteliğinde  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=WkbMmgFStT8" title="https://www.youtube.com/watch?v=WkbMmgFStT8">sözde ayar</a>. yaşlı amca reisi emretti diye dolarlarını bozdurmuş. bozdururken de emin çapa'ya hakaretler savurmuş. <br/><br/>hep söylüyorum, tekrar söyleyeceğim: cahil toplumlar yok olmaya mahkumdur!<br/><br/>bizim böyle cahil amcalara değil emin çapa gibi zeki insanlara ihtiyacımız var. ancak üzülerek görüyorum ki her geçen gün içimizde yaşayan cahil amcaların sayısı artarken emin çapa gibi değerlerin sayısı azalıyor. yetmiyor bu pişkin cahil kalabalık kendisi gibi olmayan herkese tüm nefretiyle saldırıyor.<br/><br/>bu işin sonu felakettir! cehalet kutsanacak, savunulacak bir şey değildir! cehaletle ve tüm cahil kitlelerle ancak ve ancak mücadele edilir!<br/><br/>tekrar ediyorum cahil toplumlar er ya da geç yok olmaya mahkumdur!
+    cehaletin neden en büyük düşmanımız olduğunun kanıtı niteliğinde  <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=WkbMmgFStT8" title="https://www.youtube.com/watch?v=WkbMmgFStT8">sözde ayar</a>. yaşlı amca reisi emretti diye dolarlarını bozdurmuş. bozdururken de emin çapa'ya hakaretler savurmuş. <br/><br/>hep söylüyorum, tekrar söyleyeceğim: cahil toplumlar yok olmaya mahkumdur!<br/><br/>bizim böyle cahil amcalara değil emin çapa gibi zeki insanlara ihtiyacımız var. ancak üzülerek görüyorum ki her geçen gün içimizde yaşayan cahil amcaların sayısı artarken emin çapa gibi değerlerin sayısı azalıyor. yetmiyor bu pişkin cahil kalabalık kendisi gibi olmayan herkese tüm nefretiyle saldırıyor.<br/><br/>bu işin sonu felakettir! cehalet kutsanacak, savunulacak bir şey değildir! cehaletle ve tüm cahil kitlelerle ancak ve ancak mücadele edilir!<br/><br/>tekrar ediyorum cahil toplumlar er ya da geç yok olmaya mahkumdur!<br/><br/>debe editi: okuyunuz, okutunuz: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.anadolu.eu/tr/Kemalizm.html" title="http://www.anadolu.eu/tr/Kemalizm.html">prof. dr. ahmet taner kışlalı ve kemalizm</a>
    
   entry_writer: fauna
 - entry_name: |
@@ -207,7 +207,7 @@ data:
   entry_id: 64564115
   entry_content: |
     
-    yaptığı işin arkasında önünde durmazlığı yetmemiş gibi birde içine girmiş usta.  <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/Er68r8.jpg">http://i.hizliresim.com/er68r8.jpg</a>
+    yaptığı işin arkasında önünde durmazlığı yetmemiş gibi birde içine girmiş usta.  <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/Er68r8.jpg">http://i.hizliresim.com/er68r8.jpg</a><br/><br/>debe editi: gelen rica üzerine (bkz: <a class="b" href="/entry/64566728">#64566728</a>)
    
   entry_writer: cayisallama
 - entry_name: |
@@ -231,7 +231,7 @@ data:
   entry_id: 64558498
   entry_content: |
     
-    "ama aleviler öyle mi? ne kitaba saygıları var ne de peygambere.""<br/><br/>bunu yazan dallamayı 13 milyon alevi siksin diyor ve engelle butonuna abanıyorum. <br/><br/>tanım: chp düşmanlığını alevi düşmanlığıyla süslemiş bir bölücü iddiası.<br/><br/>not: ateistspor<br/><br/>edit: başlık başa kuzgun leşe.
+    "ama aleviler öyle mi? ne kitaba saygıları var ne de peygambere.""<br/><br/>bunu yazan dallamayı 13 milyon alevi siksin diyor ve engelle butonuna abanıyorum. <br/><br/>tanım: chp düşmanlığını alevi düşmanlığıyla süslemiş bir bölücü iddiası.<br/><br/>not: ateistspor<br/><br/>edit: başlık başa kuzgun leşe.<br/><br/>büdüt: dikkat çekmek lazım (bkz: <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a>)
    
   entry_writer: azaghal
 - entry_name: |
@@ -239,7 +239,7 @@ data:
   entry_id: 64556314
   entry_content: |
     
-    1071 bahane, karambolde 1 doları bozdurmak şahane!..  <br/><br/>kurnaz başkandır.
+    1071 bahane, karambolde 1 doları bozdurmak şahane!..  <br/><br/>kurnaz başkandır.<br/><br/>debedit: nahres'in ricası (bkz: <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a>)
    
   entry_writer: elife meftun muellif
 - entry_name: |
@@ -303,7 +303,7 @@ data:
   entry_id: 64552569
   entry_content: |
     
-    kocasına karşı dimdik hakkını savunan, çok iyi bir kadın. çok ahlaklı, çok asil.  <br/><br/>o kadar ahlaklı ki, kocası miami'ye gidince aldatılma korkusuyla islam-kadın zırvalarına başlıyor. öte yandan babası ve çevresi tarafından ülkedeki kadınlar sürekli aşağılanıyor. ve hanım ablamız kocasının karşısında durduğu gibi babasına da karşı çıkıyor.<br/><br/>o kadar anne ki, kocasına mailde oğluna sert davrandığını, bu tarz davranışların onun büyümesinde ve psikolojisinde olumsuz etki bırakacağını anlatıyor. öte yandan babasının ve kocasının ellerinde ölümlerine neden oldukları, yetim bıraktıkları çocukların kanları var.<br/><br/>iki ayet yazdığı, çevrenizdeki kezbanlar gibi trip atmadığı için asalet timsali olarak görüp, sempati duydunuz öyle mi?<br/><br/>hümanizminizi sikeyim.
+    kocasına karşı dimdik hakkını savunan, çok iyi bir kadın. çok ahlaklı, çok asil.  <br/><br/>o kadar ahlaklı ki, kocası miami'ye gidince aldatılma korkusuyla islam-kadın zırvalarına başlıyor. öte yandan babası ve çevresi tarafından ülkedeki kadınlar sürekli aşağılanıyor. ve hanım ablamız kocasının karşısında durduğu gibi babasına da karşı çıkıyor.<br/><br/>o kadar anne ki, kocasına mailde oğluna sert davrandığını, bu tarz davranışların onun büyümesinde ve psikolojisinde olumsuz etki bırakacağını anlatıyor. öte yandan babasının ve kocasının ellerinde ölümlerine neden oldukları, yetim bıraktıkları çocukların kanları var.<br/><br/>iki ayet yazdığı, çevrenizdeki kezbanlar gibi trip atmadığı için asalet timsali olarak görüp, sempati duydunuz öyle mi?<br/><br/>hümanizminizi seveyim. <sup class="ab"><a title="(bkz: edit was here)" href="/?q=edit+was+here" data-query="edit was here">*</a></sup><br/><br/>edit: (bkz: <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a>) hayvanları rahat bırakın.
    
   entry_writer: yimirta gibi kadin
 - entry_name: |
@@ -311,7 +311,7 @@ data:
   entry_id: 64550192
   entry_content: |
     
-    zaten uyarılıyorlar.  <br/>onlar anlamıyor.
+    zaten uyarılıyorlar.  <br/>onlar anlamıyor.<br/><br/>edit: arkadaşlar, bir yazar <a class="b" href="/?q=bilgi+%c3%bcniversitesindeki+k%c3%b6pekler+ormana+at%c4%b1lmas%c4%b1n">bilgi üniversitesindeki köpekler ormana atılmasın</a> başlığına desteklerimizi istiyor. hiçbir canlının yaşama hakkı elinde alınmasın. hele ki bu günahsızlar, hiçbir şeye zararı olmayanlar. başlığı güncel tutalım. tüm hayvanseverlerin duyarlılığına ihtiyaç var. teşekkürler.
    
   entry_writer: rumkidumki
 - entry_name: |
@@ -319,7 +319,7 @@ data:
   entry_id: 64558168
   entry_content: |
     
-    "biz boş olduğunu düşünüyorduk, engellemeye çalışıyorduk. sonuca baktığımızda boş olmadığını düşünüyoruz. devletten sahip çıkmasını bekliyoruz""<br/><br/>işte bu düşünce siktiğimin ülkesini bir santim bile ileri götürmüyor. bir şey ile uğraşırsın boş iş derler, deli derler. sonucu iyi olunca da "dövlöt söhöp çöksön". ulan yarak, sen sahip çıksaydın, kardeşine destek olsaydın ilk önce! <br/><br/>olm belki ne zehir gibi kafalar var sırf ailesinin dalyaraklığından bir şey yapamadı. düşününce sinirleniyorum.
+    "biz boş olduğunu düşünüyorduk, engellemeye çalışıyorduk. sonuca baktığımızda boş olmadığını düşünüyoruz. devletten sahip çıkmasını bekliyoruz""<br/><br/>işte bu düşünce ülkeyi bir santim bile ileri götürmüyor. bir şey ile uğraşırsın boş iş derler, deli derler. sonucu iyi olunca da "dövlöt söhöp çöksön". sen sahip çıksaydın, kardeşine destek olsaydın ilk önce! <br/><br/>olm belki ne zehir gibi kafalar var sırf ailesinin dalyaraklığından bir şey yapamadı. düşününce sinirleniyorum.
    
   entry_writer: youth gone wild
 - entry_name: |
