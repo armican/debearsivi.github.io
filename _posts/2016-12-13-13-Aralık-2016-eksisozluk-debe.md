@@ -95,8 +95,8 @@ data:
   entry_id: 64653366
   entry_content: |
     
-    kuradan 1. dünya savaşı çıktı amk. yunanistan, rusya ve israil'le savaşacağız.
-    
+    kuradan 1. dünya savaşı çıktı amk. yunanistan, rusya ve israil'le savaşacağız..<br/><br/>debedit: "egitim" yaz, 4622'ye yolla, (bkz: <a class="b" href="/?q=anadolu%27da+bir+k%c4%b1z%c4%b1m+var">anadolu'da bir kızım var</a>) kampanyası kapsamında 10 tl bağışta bulun. çok zor olmasa gerek.
+   
   entry_writer: architecture of aggression
 - entry_name: |
     spotify 2016'da sevdiğin şarkılar listesi
@@ -115,27 +115,19 @@ data:
    
   entry_writer: gnome
 - entry_name: |
-    hamile kadına saldıran şahsın serbest kalması
-  entry_id: 64653564
-  entry_content: |
-    
-    şimdi kocası bu saldıranı öldürse, devlet nasılsa onu da serbest bırakıyor. seneler önce anneme kapkaç yapan arabanın arkasından bizzat ateş etmiştim. kurşun şans eseri kapkaççılardan arabayı sürenin sırtına girivermişti. araba kaldırıma çıkıp durmuştu. polisler yakındaymıs sanırım silah sesine, bagırıslara gelip görevlerini yaparak (!) tutanak tuttular. adam ölmedi, ben ceza almadım. işte böyle teksas bir ülkeyiz. karınızı, kızınızı, kendinizi yine kendiniz koruyacaksınız.
-    
-  entry_writer: bak suraya yaziyorum
-- entry_name: |
     iki kere f-16 uçağını düşüren pilot
   entry_id: 64659986
   entry_content: |
     
-    artık uçak verilmemesi gereken pilottur. teorik olarak pilot uçaktan daha değerli olsa da, ortada bir sıkıntı var gibi. çoğu ülkenin hava filosu 20-30 tane f-16'dan oluşurken 1 tane bile düşürülmesi hafife alınacak bir şey değil.
-    
+    artık uçak verilmemesi gereken pilottur. teorik olarak pilot uçaktan daha değerli olsa da, ortada bir sıkıntı var gibi. çoğu ülkenin hava filosu 20-30 tane f-16'dan oluşurken 1 tane bile düşürülmesi hafife alınacak bir şey değil..<br/><br/>debe editi: ekşi sözlük'ün yakışıklı, zeki, entelektüel, saygın, karizmatik yazarı <a class="b" href="/?q=iskeletoradam">iskeletoradam</a> olarak her ne kadar debe editi yazma huyum olmasa da, yapılan ilk haber yanlış olduğundan dezenformasyon bulunmaktadır. bu konuyla burcu bacının alakası bulunmamaktadır.<br/><br/>sosyal sorumluluk editi: kar yağan şu günlerde lütfen bok böcekleri için kapınıza bir kap bok bırakınız.<br/><br/>siyasi edit: donald trump ölümsüzdür. meksika sınırına öreceği duvar ilelebet dimdik ayakta duracaktır.
+   
   entry_writer: iskeletoradam
 - entry_name: |
     pisa'da katar'dan daha iyiyiz
   entry_id: 64646825
   entry_content: |
     
-    milli eğitim bakanı ismet yılmaz'ın pisa testi sonuçlarında çok geride olduğumuz yönündeki eleştirilere verdiği  <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2016/gundem/pisada-katardan-daha-iyiyiz-1560302/" title="http://www.sozcu.com.tr/2016/gundem/pisada-katardan-daha-iyiyiz-1560302/">cevap</a>.<br/><br/>o da bir şey mi! nüfüs olarak da lüksemburg'dan kat kat ilerideyiz. hey yavrum hey!
+    milli eğitim bakanı ismet yılmaz'ın pisa testi sonuçlarında çok geride olduğumuz yönündeki eleştirilere verdiği  <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2016/gundem/pisada-katardan-daha-iyiyiz-1560302/" title="http://www.sozcu.com.tr/2016/gundem/pisada-katardan-daha-iyiyiz-1560302/">cevap</a>.<br/><br/>o da bir şey mi! nüfüs olarak da lüksemburg'dan kat kat ilerideyiz. hey yavrum hey!<br/><br/>debedit: "egitim" yaz, 4622'ye yolla, (bkz: <a class="b" href="/?q=anadolu%27da+bir+k%c4%b1z%c4%b1m+var">anadolu'da bir kızım var</a>) kampanyası kapsamında 10 tl bağışta bulun. çok zor olmasa gerek.
    
   entry_writer: islatistik
 - entry_name: |
@@ -143,8 +135,8 @@ data:
   entry_id: 64664167
   entry_content: |
     
-    15 ay doğuda görev yaptım. haftalarca arazide kalıp terörist peşinden koştuk. bu zamanda sırf ses çıkarmamak için üst üste 7-8 çift çorap giyip bizi pusuya düşüren militanlar gördüm. gırtlağı kesilmiş arkadaşım ve onun yanında sinir krizine giren başkası oldu. mayına basıp '' bacağımı bulun, bacağım nerde'' diye kıvranan oldu. çatışma esnasında '' nolur bu son mermim olmasın allahım '' diye dua edip tetiğe basan oldu. kobra desteğe gelirken duyulan o pervane sesine sinirden ağlayan oldu. tezkeresine 1 hafta kala karakol saldırısında ölen mehmetçik de oldu ve bazen o siktiğimin televizyonunu izlerken şehir yerinde patlayan o bombalarda ölen vatandaşları görünce '' komutanım görev yok mu '' diye dağa çıkmak isteyen askerler oldu. özetle, bunu okuyana soruyorum. sen şimdi asker olsan ve bu orospu çocuklarından birini yakalasan ekmek üstü nutella mı verirsin? ya da o seni yakalasa ne yapar? video'da pkk lıya tekme atan askerler evet ayıp etmişler. ben olsam ayağımı yormam, dipçiği sokar dalağını sikerim.
-    
+    15 ay doğuda görev yaptım. haftalarca arazide kalıp terörist peşinden koştuk. bu zamanda sırf ses çıkarmamak için üst üste 7-8 çift çorap giyip bizi pusuya düşüren militanlar gördüm. gırtlağı kesilmiş arkadaşım ve onun yanında sinir krizine giren başkası oldu. mayına basıp '' bacağımı bulun, bacağım nerde'' diye kıvranan oldu. çatışma esnasında '' nolur bu son mermim olmasın allahım '' diye dua edip tetiğe basan oldu. kobra desteğe gelirken duyulan o pervane sesine sevinçle karışık sinirden gözyaşı döken oldu. tezkeresine 1 hafta kala karakol saldırısında ölen mehmetçik de oldu. suların kesik olduğunu bilmeden çeşmeyi açan ve çeşmeden çıkan o hava sesini duyunca çatışma sesi sanıp lavabonun altına sipere yatan psikolojisi bozulmuş asker de oldu ve bazen o siktiğimin televizyonunu izlerken şehir yerinde patlayan o bombalarda ölen vatandaşları görünce '' komutanım görev yok mu '' diye dağa çıkmak isteyen askerler de oldu. özetle, bunu okuyana soruyorum. sen şimdi asker olsan ve bu orospu çocuklarından birini yakalasan ekmek üstü nutella mı verirsin? ya da o seni yakalasa ne yapar? video'da pkk lıya tekme atan askerler evet ayıp etmişler. ben olsam ayağımı yormam, dipçiği sokar dalağını sikerim..<br/><br/>edit: bunu okuyan nerede askerlik yaptın abi diye soruyor. kendim batıda deniz kıyısında dalga seslerini dinleyerek askerliğini yapmış yumurtacının tekiyim. evet bunlar hep oradaki askerlerden duyduklarımdır. ovv çok iyiydi ama ya, niye bunu açıklayıp büyüyü bozdun demeyin. pkk da türk askeri yakalayınca kuzu çevirme ikram etmiyor. asker psikolojisini anlayın istedim. sanırım işe yaradı. hem iyi oldu yazdığım; '' ananı siksin o dayak yiyen adam '' diye şahsıma çok sayıda mesaj da geldi. yeni yazarım. bu vesileyle çok kansız da tanıdım. <br/>edit 2: video kaldırılmış.
+   
   entry_writer: sessiz sakin suskun adam
 - entry_name: |
     celal şengör'ün kemal kılıçdaroğlu hakkında yorumu
@@ -223,7 +215,7 @@ data:
   entry_id: 64658340
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=beyefendiye+kar%c4%b1+g%c3%b6nderelim">beyefendiye karı gönderelim</a>)
+    (bkz:  <a class="b" href="/?q=beyefendiye+kar%c4%b1+g%c3%b6nderelim">beyefendiye karı gönderelim</a>)<br/><br/>ek: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.soundcloud.com/sahtegi/cop-adam-hilminin-sarkisi" title="https://m.soundcloud.com/sahtegi/cop-adam-hilminin-sarkisi">https://m.soundcloud.com/…cop-adam-hilminin-sarkisi</a>
    
   entry_writer: noryth aquanum
 - entry_name: |
@@ -258,14 +250,6 @@ data:
     tarih itibariyle  <a rel="nofollow noopener" class="url" target="_blank" href="http://google.com.tr/" title="http://google.com.tr/">google türkiye</a>'yi tıklayınca ortaya çıkan <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/kGB95y.jpg" title="http://i.hizliresim.com/kGB95y.jpg">doodle</a>.<br/><br/>olması gereken şeylere "jest" diye sevinecek haldeyiz. duygulandım.<br/><br/>“anadolu’da bir kızım var” bağış kampanyasına destek için "egitim" yazıp 4622'ye göndererek 10 tl değerinde bağışta bulunuyoruz değil mi?<br/><br/>çocuklarımızı öldürenlere, öldürüp "mukadderat" diyenlere emanet etmeyin.
    
   entry_writer: zerdest
-- entry_name: |
-    halep
-  entry_id: 64664471
-  entry_content: |
-    
-    bak ben sünni kökenli ateist olarak suriye ordusunun kazanmasını istiyorum, suriye ordusunun %70'e yakını sünni, savunma bakanı türkmen, zaten esad suriye nüfusunun %80'ini tutuyor ve bunların ezici çoğunluğu sünni.  <br/><br/>kısacası suriye ordusunu herkes destekliyor, sünni-şii farketmez. zira suriye ordusunun elinde tuttuğu topraklarda hayat devam ediyor, okullar ve hastaneler işliyor, üniversiteler açık, ticaret devam ediyor, dışarı ile ilişkiler sürüyor. insanların suriye ordusunu desteklemesinin sebebi çok yani.<br/><br/>peki diğer tarafta ne var? bu başlıkta bile gördüğümüz üzere aşşağılık bir mezhepçi it sürüsü, suriye ordusunu destekleyen herkesi alevi, şebbiha, şii falan olmakla suçluyor, yavuz'un üstüne yemin ediyor katliam için. ulan orospu çocukları, en büyük mezhepçi sizsiniz omuriliğini siktiklerim. sizin yüzünüzden bu coğrafyada 36 yıldır kan durmadı, sikeyim sizin mezhebinizi. dinini yaşamak istiyorsan siktir git yaşa, kimse senin 1400 yıllık psikopatça hayallerin için ölmek, parçalanmak zorunda değil. bu coğrafyada insanlar normal bir hayat istiyor, nasıl fransız çocuk okuluna gidip bilimle, sanatla uğraşmak istiyorsa suriyeli çocuk da, ıraklı çocuk da bunu istiyor. siktir git o şeriat denen hilkat garibesi vahşetini kendi çöplüğünde yaşa, ama evinden dışarı çıktığında bu topraklarda yaşayan herkesin düşüncesine saygı göstereceksin orospu çocuğu. bu coğrafya din denen bataklığın içinde boğuşmaktan yoruldu; 13. yüzyılda cihat batı'ya yapılırdı, bugün yan komşusuna cihat ilan ediyor bu orospu çocukları.<br/><br/>halep'in kurtuluşu sadece suriye ve ırak'ı değil, ıran ve körfezi de etkileyecek. iran asla suriye'de dinsel bir dalga yaratamaz, iran'ın sahada olmasının sebebi suriye iç savaşını bir önleyici savaş olarak görmesidir. suriye düşseydi bugün iran'da iç savaş başlayacaktı. ancak laik ordunun zaferi, mollaların diktatörlüğünü de aşındıracak.
-   
-  entry_writer: dantelliminnos
 - entry_name: |
     12 aralık 2016 dolar kuru
   entry_id: 64648768
@@ -367,7 +351,7 @@ data:
   entry_id: 64660697
   entry_content: |
     
-    futbol zevkimizi öldüren adam..<br/><br/>röveşata dediğimiz olay, kırk yılda bir çıplak gözle görüldüğü için ''vuhahah mona goyam yaa vhaaa'' nidasıyla karşılanan bir şeydir. ama bu adam öylesine bokunu çıkardı ki, bi yandan bilgisayarla uğraşıp bi yandan maça bakıyordum. spikerin sesi yükselince kafayı ekrana çevirdim, baktım sow röveşata attı, ''hee'' dedim, kafayı tekrar eğdim.<br/><br/>bu ne lan!!?<br/>fufyugughuıhuı.
+    futbol zevkimizi öldüren adam..<br/><br/>röveşata dediğimiz olay, kırk yılda bir çıplak gözle görüldüğü için ''vuhahah mona goyam yaa vhaaa'' nidasıyla karşılanan bir şeydir. ama bu adam öylesine bokunu çıkardı ki; bi yandan bilgisayarla uğraşıp bi yandan maça bakıyordum. spikerin sesi yükselince kafayı ekrana çevirdim, baktım sow röveşata attı, ''hee'' dedim, kafayı tekrar eğdim.<br/><br/>bu ne lan!!?<br/>fufyugughuıhuı.
    
   entry_writer: pis sacli alsancak insani
 - entry_name: |
