@@ -23,15 +23,15 @@ data:
   entry_id: 64841136
   entry_content: |
     
-    şimdi oturun ruslara anlatın şehitlik şöyle güzel, keşke hepimiz şehit olsak diye...
-    
+    şimdi oturun ruslara anlatın şehitlik şöyle güzel, keşke hepimiz şehit olsak diye....<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: yardım kampanyasına destek olması amacıyla; (bkz: <a class="b" href="/entry/64863628">#64863628</a>)
+   
   entry_writer: zuljin
 - entry_name: |
     mevlüt mert altıntaş
   entry_id: 64843570
   entry_content: |
     
-    yapmayın dedik, şu polis teşkilatına radikal islamcıları doldurmayın dedik, liyakata önem verin kaliteli adamlar alın dedik..<br/><br/>dinletemedik.<br/><br/>edit: ayrıca kendisi cia ajanı falan olamaz, saçmasapan konuşmayın. adamlar kendi ajanlarını mı harcayacak, kendilerini ele mi verecek? <br/><br/>ha dersiniz ki cia kandırmış, kullanmış; anlaşılır. ama bu gerzeğin cia ajanı olduğunu iddia etmek abes.<br/><br/>siz en iyisi fetöcü deyin, öyle sorumluluktan daha rahat sıyrılırsınız.
+    yapmayın dedik, şu polis teşkilatına radikal islamcıları doldurmayın dedik, liyakata önem verin kaliteli adamlar alın dedik..<br/><br/>dinletemedik.<br/><br/>edit: ayrıca kendisi cia ajanı falan olamaz, saçmasapan konuşmayın. adamlar kendi ajanlarını mı harcayacak, kendilerini ele mi verecek? <br/><br/>ha dersiniz ki cia kandırmış, kullanmış; anlaşılır. ama bu gerzeğin cia ajanı olduğunu iddia etmek abes.<br/><br/>siz en iyisi fetöcü deyin, öyle sorumluluktan daha rahat sıyrılırsınız.<br/><br/>debe editi: (bkz: <a class="b" href="/entry/64863628">çanakkale'de evi yanan çiftimize yardım ediyoruz/#64863628</a>)
    
   entry_writer: opak
 - entry_name: |
@@ -39,24 +39,24 @@ data:
   entry_id: 64830371
   entry_content: |
     
-    baskın ve pusuya karşı savunma eğitimini cs go'dan alan ekşiciler tarafından eleştirilen askerdir.
-    
+    baskın ve pusuya karşı savunma eğitimini cs go'dan alan ekşiciler tarafından eleştirilen askerdir..<br/><br/>debe farkındalık editi: (bkz: <a class="b" href="/entry/64863628">#64863628</a>)
+   
   entry_writer: machete klonu
 - entry_name: |
     ethem sarısülük'ü öldüren polise verilen ceza
   entry_id: 64831304
   entry_content: |
     
-    adaletin yerini bulmamasıdır
-    
+    adaletin yerini bulmamasıdırr<br/><br/>edit: entry debe'ye girmiş, haberim yok. o zaman sizi şöyle alayım: (bkz: <a class="b" href="/?q=%c3%a7anakkale%27de+evi+yanan+%c3%a7iftimize+yard%c4%b1m+ediyoruz">çanakkale'de evi yanan çiftimize yardım ediyoruz</a>)
+   
   entry_writer: naturelgs
 - entry_name: |
     burak yılmaz'ın otobüs şoförüyle tartışması
   entry_id: 64836203
   entry_content: |
     
-    etraftakilerin "abi sarı kartın var bak yapma" gibisinden tutmaları takdire şayan.
-    
+    etraftakilerin "abi sarı kartın var bak yapma" gibisinden tutmaları takdire şayan..<br/><br/>debe edit: (bkz: <a class="b" href="/?q=%c3%a7anakkale%27de+evi+yanan+%c3%a7iftimize+yard%c4%b1m+ediyoruz">çanakkale'de evi yanan çiftimize yardım ediyoruz</a>)
+   
   entry_writer: osman tanburaci
 - entry_name: |
     19 aralık 2016 berlin saldırısı
@@ -95,7 +95,7 @@ data:
   entry_id: 64842321
   entry_content: |
     
-    bu kadar çabuk olması şaşırtıcı.  <br/>başında bekleyen bir dayı mı var haber gelince vanayı kapatıyor?
+    bu kadar çabuk olması şaşırtıcı.  <br/>başında bekleyen bir dayı mı var haber gelince vanayı kapatıyor?<br/><br/>debe editi: o kadar bilgi verdim kimse sallamadı. bakın bi; <a class="b" href="/entry/64786911">#64786911</a>
    
   entry_writer: stcizgiany
 - entry_name: |
@@ -307,7 +307,7 @@ data:
    
   entry_writer: gayim ama para bende
 - entry_name: |
-    ürünü geri istemeyip parayi geri ödeyen amazon.de
+    ürünü geri istemeyip parayı geri ödeyen amazon.de
   entry_id: 64834564
   entry_content: |
     
@@ -343,7 +343,7 @@ data:
   entry_id: 64835915
   entry_content: |
     
-    bugün 13.30'da yapılan toplantıya tesadüfen katılmam sonucu gerçekleşen hadise..<br/><br/>mevcut yönetici normalde ocak ayında teslim etmesi gerekirken almanya'daki oğlunun evliliğini bahane ederek istifasını erken verdi. genelde toplantılara çağırıldığım halde gitmeyen ben, "ulan bir değişiklik olsun, zorla beni yapacak değiller ya aq gider kafa dağıtırım" dedim. öyle olmadı.<br/><br/>çok enteresan bir ortam var içerde. normalde günaydın veya iyi akşamlar dediğin adamlar şap şap öpüp "oooooooo ne yaptın ya" gibi yılışık bir ortam beklemeyen ben şaşkınlıktan "oooooooo ne yaptım ya" dedim herkesi öptüm ön sevişmeden sonra koltuklarimizda yerlerimiz aldık. <br/><br/>tekrar bir nasılsın iyi misin muhabbeti yaptıktan sonra, konuşacak konu bulmak için kıvranma aşamasına giriyoruz. bu sırada yöneticinin eşi çay pasta börek falan getiriyor. "yahu ali amca arabayı mı değiştirdin" diye adeta yariyorum konuşmayı. "yoo aynı 15 senelik araba işte." <br/><br/>"hee, doğru ya tabi."<br/><br/>neyse ki bu toplantıların tozunu çok yutmuş bir amca (adamı ilk defa görüyorum komşuluk ölmüş amk) imdadima yetişiyor. "her taraf araba oldu yeaaaa" diye konuya giriyor. nasıl dolduysa adamlar kukrercesine konuşmaya dahil oluyor herkes. eski zamanları anlatan mı dersin, garaj girişine park eden adamlarla ne tür ilişkilere girdiklerini anlatanlar mı neyse bir sonraki aşamaya geliyoruz.<br/><br/>dedikodu, gıybet bir başlıyor ki sormayın gitsin. kim kimin boynuna dolamis da insanligindan dolayı söylememiş, nasıl kibarlık timsali imiş de söyle olmuş böyle olmuş. konuşacak konu bulamıyorum, bir türlü konuşmaya dahil olamadığım için amcaların yanında uslu uslu oturması için getirilmiş çocuklar gibi içime içime konuşuyorum. ikişer ikişer yüze kadar sayıyorum içimden falan. konuya bir girdim. ulan dedim keşke trilyona kadar saysaymisim. doları da durduramiyoruz dememle birlikte tum dış mihraklari birer birer saymaya başlamaları bir oluyor. kimisi fetoyu sorumlu tutuyor, kimisi amerika'yi ama devlet erkanina toz konduran yok. bir an "yönetimin hiç mı kabahati yok" diyecek oldum. neyse dedim şimdi yol falan diyecekler hiç bulasmayayim. dayanamadım dedim. evet yol ile başlayan cümleler kurdular. devletin tüm görevini yol yapmak zannediyorlar. sanırım çaktırmadan tüm bakanlıkları, binaları kapatıp sadece belediyelerle iş gorsek kimsenin ruhu duymaz.<br/><br/>"ehehehe haklısınız" diyerek gecistiriyorum.<br/><br/>geliyoruz başkanlık seçimlerine (??!!). bir önceki yöneticiye tatlı dille su şöyle yapılsaydı bu böyle yapılsaydı giydirmesinden sonra iki kişiyi aday gösteriyorlar. birisi amcam, biri de bizim alt komşu. amcam alt komşuyu bir yokluyor niyeti var mı diye koskoca adamlar zorla olacak degiller. gönül esası arıyoruz. ben gayet profesyonel bir biçimde olayları yönlendiriyorum "bence de cok iyi olur veyis amca" "benim gönlüm sizden yana" "beraber oturduk biz bu yagmur" neyse hiç beklediğim gibi olmuyor. koskoca adam çocuk gibi trip yapıyor. "yha ben olmym.s" "cidden yha ben yapamam gülerim.s" amcamin da istemediğini biliyorum. birden beklemediğim bir şekilde amcam "tamam bu sene ben yapayim, seneye sen yaparsın veyis abi" diyor. herkes memnun. <br/><br/>benim veyis emmiyi gazlamam ters mi tepti acaba diye beni bir vicdan azabı alıyor. adamın çok üstüne gittim de bunu kekliyoruz falan mı sandı diyorum. amcam benim yüzümden bir yıl yönetici olacak buna yüreğim el vermez diye bağrımı yirtiyorum. "ben olayım isterseniz" diyorum adeta fısıltı ile. kulakları hiç duymayan yaşlı bir amca daha sonra hepsi beraber "he mi la yeğenim" diyorlar. oha abi nasıl duydunuz amk demeye kalmıyor imzaları atıyoruz. elime 5680 lira para veriyorlar önceki aidatlardan kalan. gece gözüme uyku girmeyecek. şimdiden o paranın verdiği yük omuzlarıma bindi. takilayim diye gittiğim yerden yönetici çıktım. gençliğim gitti, siz siz olun toplantılara gitmeyin. çok pis oyun yapıyorlar. kandirildi(m/k).<br/><br/>5000 lira bile insanı bu kadar strese sokuyorsa halkin (apartman) milyon dolarlari ile haşır neşir (en uygun kelime olmasa da) olanlar nasıl bir stres altındadır kim bilir. tanrı sizi kutsasin. dua ile...<br/><br/>edit: yalan, pazartesi toplantı mı olur diyen arkadaşlar toplantıya katılan herkes emekli, 60 yaş üstü. ben de issizim. 30 numara iq giyiyorum bunu bir taraflarimdan uyduramam herhalde.<br/><br/>edit 2: yönetici oldum 3. dünya savaşı çıktı amk.
+    bugün 13.30'da yapılan toplantıya tesadüfen katılmam sonucu gerçekleşen hadise..<br/><br/>mevcut yönetici normalde ocak ayında teslim etmesi gerekirken almanya'daki oğlunun evliliğini bahane ederek istifasını erken verdi. genelde toplantılara çağırıldığım halde gitmeyen ben, "ulan bir değişiklik olsun, zorla beni yapacak değiller ya aq gider kafa dağıtırım" dedim. öyle olmadı.<br/><br/>çok enteresan bir ortam var içerde. normalde günaydın veya iyi akşamlar dediğin adamlar şap şap öpüp "oooooooo ne yaptın ya" gibi yılışık bir ortam beklemeyen ben şaşkınlıktan "oooooooo ne yaptım ya" dedim herkesi öptüm ön sevişmeden sonra koltuklarimizda yerlerimiz aldık. <br/><br/>tekrar bir nasılsın iyi misin muhabbeti yaptıktan sonra, konuşacak konu bulmak için kıvranma aşamasına giriyoruz. bu sırada yöneticinin eşi çay pasta börek falan getiriyor. "yahu ali amca arabayı mı değiştirdin" diye adeta yariyorum konuşmayı. "yoo aynı 15 senelik araba işte." <br/><br/>"hee, doğru ya tabi."<br/><br/>neyse ki bu toplantıların tozunu çok yutmuş bir amca (adamı ilk defa görüyorum komşuluk ölmüş amk) imdadima yetişiyor. "her taraf araba oldu yeaaaa" diye konuya giriyor. nasıl dolduysa adamlar kukrercesine konuşmaya dahil oluyor herkes. eski zamanları anlatan mı dersin, garaj girişine park eden adamlarla ne tür ilişkilere girdiklerini anlatanlar mı neyse bir sonraki aşamaya geliyoruz.<br/><br/>dedikodu, gıybet bir başlıyor ki sormayın gitsin. kim kimin boynuna dolamis da insanligindan dolayı söylememiş, nasıl kibarlık timsali imiş de söyle olmuş böyle olmuş. konuşacak konu bulamıyorum, bir türlü konuşmaya dahil olamadığım için amcaların yanında uslu uslu oturması için getirilmiş çocuklar gibi içime içime konuşuyorum. ikişer ikişer yüze kadar sayıyorum içimden falan. konuya bir girdim. ulan dedim keşke trilyona kadar saysaymisim. doları da durduramiyoruz dememle birlikte tum dış mihraklari birer birer saymaya başlamaları bir oluyor. kimisi fetoyu sorumlu tutuyor, kimisi amerika'yi ama devlet erkanina toz konduran yok. bir an "yönetimin hiç mı kabahati yok" diyecek oldum. neyse dedim şimdi yol falan diyecekler hiç bulasmayayim. dayanamadım dedim. evet yol ile başlayan cümleler kurdular. devletin tüm görevini yol yapmak zannediyorlar. sanırım çaktırmadan tüm bakanlıkları, binaları kapatıp sadece belediyelerle iş gorsek kimsenin ruhu duymaz.<br/><br/>"ehehehe haklısınız" diyerek gecistiriyorum.<br/><br/>geliyoruz başkanlık seçimlerine (??!!). bir önceki yöneticiye tatlı dille su şöyle yapılsaydı bu böyle yapılsaydı giydirmesinden sonra iki kişiyi aday gösteriyorlar. birisi amcam, biri de bizim alt komşu. amcam alt komşuyu bir yokluyor niyeti var mı diye koskoca adamlar zorla olacak degiller. gönül esası arıyoruz. ben gayet profesyonel bir biçimde olayları yönlendiriyorum "bence de cok iyi olur veyis amca" "benim gönlüm sizden yana" "beraber oturduk biz bu yagmur" neyse hiç beklediğim gibi olmuyor. koskoca adam çocuk gibi trip yapıyor. "yha ben olmym.s" "cidden yha ben yapamam gülerim.s" amcamin da istemediğini biliyorum. birden beklemediğim bir şekilde amcam "tamam bu sene ben yapayim, seneye sen yaparsın veyis abi" diyor. herkes memnun. <br/><br/>benim veyis emmiyi gazlamam ters mi tepti acaba diye beni bir vicdan azabı alıyor. adamın çok üstüne gittim de bunu kekliyoruz falan mı sandı diyorum. amcam benim yüzümden bir yıl yönetici olacak buna yüreğim el vermez diye bağrımı yirtiyorum. "ben olayım isterseniz" diyorum adeta fısıltı ile. kulakları hiç duymayan yaşlı bir amca daha sonra hepsi beraber "he mi la yeğenim" diyorlar. oha abi nasıl duydunuz amk demeye kalmıyor imzaları atıyoruz. elime 5680 lira para veriyorlar önceki aidatlardan kalan. gece gözüme uyku girmeyecek. şimdiden o paranın verdiği yük omuzlarıma bindi. takilayim diye gittiğim yerden yönetici çıktım. gençliğim gitti, siz siz olun toplantılara gitmeyin. çok pis oyun yapıyorlar. kandirildi(m/k).<br/><br/>5000 lira bile insanı bu kadar strese sokuyorsa halkin (apartman) milyon dolarlari ile haşır neşir (en uygun kelime olmasa da) olanlar nasıl bir stres altındadır kim bilir. tanrı sizi kutsasin. dua ile...<br/><br/>edit: yalan, pazartesi toplantı mı olur diyen arkadaşlar toplantıya katılan herkes emekli, 60 yaş üstü. ben de issizim. 30 numara iq giyiyorum bunu bir taraflarimdan uyduramam herhalde.<br/><br/>edit 2: yönetici oldum 3. dünya savaşı çıktı amk.<br/><br/>debedit: sukulayan elleriniz dert görmesin abiler ablalar. gecmiste başımdan gecen zilyon tane enteresan hikaye var. ara sıra yazayım, su karanlık gündemde ağlanacak halimize biraz gülelim. <br/><br/>günaydin kelimesini koyu karanlıklara gomenlere inat apaydinlik gülümseten türden mesaj atanlara teşekkürler. art niyet yüklü entry girenleri direk engelliyorum, rahat olun. benim enerjimi dusurmelerine müsaade etmem. onun dışında her türlü fikre, olumlu olumsuz eleştiriye açığım. kimsenin enerjinizi düşürmesine müsaade etmeyin sevgili suserlar. görmezden gelmek en büyük cezadir zaten. <br/><br/>bi de hava çok soğuk usutmeyin e mi kalın giyinmek yerine kat kat giyinin ince giyinin daha etkili.<br/><br/>arada debeye sokun sonra sosyal mesaj birikiyor tuğla gibi...
    
   entry_writer: code failed
 - entry_name: |
@@ -367,7 +367,7 @@ data:
   entry_id: 64843055
   entry_content: |
     
-    şu an malum cenahın tamamı böyle söylüyor..<br/><br/>yaklaşık 5 gün önce rusya büyükelçiliğinin önüne toplanıp bağıran selefi grup ne diyorsa aynısını yapmış saldırgan. "katil putin" neden şimdi "putin baba" oldu anlamıyorum. bu kaypaklık size babadan oğula şeklinde mi geçiyor?<br/><br/>türk insanın haklarını çiğneyip fetullahçılara devleti verdiniz darbe yaptılar, daha sonra selefi, arap sermayeli tarikatlara verdiniz elçi vurdular. ülke yönetimindeki bu tarikatlar insan hakları için mi varlar? <br/><br/>haftaiçi bm toplantısında da "polisliğe tarikatları normal türk insanını vursun diye almıştık elçinizi vurmuşlar kusura bakmayın" dersiniz artık.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.rt.com/news/370774-russian-ambassador-shot-ankara/" title="https://www.rt.com/news/370774-russian-ambassador-shot-ankara/">https://www.rt.com/…russian-ambassador-shot-ankara/</a><br/><br/>tam da tahmin ettiği gibi bm güvenlik konseyine taşıyorlar olayı.
+    şu an malum cenahın tamamı böyle söylüyor..<br/><br/>yaklaşık 5 gün önce rusya büyükelçiliğinin önüne toplanıp bağıran selefi grup ne diyorsa aynısını yapmış saldırgan. "katil putin" neden şimdi "putin baba" oldu anlamıyorum. bu kaypaklık size babadan oğula şeklinde mi geçiyor?<br/><br/>türk insanın haklarını çiğneyip fetullahçılara devleti verdiniz darbe yaptılar, daha sonra selefi, arap sermayeli tarikatlara verdiniz elçi vurdular. ülke yönetimindeki bu tarikatlar insan hakları için mi varlar? <br/><br/>hafta içi bm toplantısında da " tarikatları polisliğe normal türk insanını vursun diye almıştık elçinizi vurmuşlar kusura bakmayın" dersiniz artık.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.rt.com/news/370774-russian-ambassador-shot-ankara/" title="https://www.rt.com/news/370774-russian-ambassador-shot-ankara/">https://www.rt.com/…russian-ambassador-shot-ankara/</a><br/><br/>tam da tahmin ettiği gibi bm güvenlik konseyine taşıyorlar olayı. rusya yarın çıkıp ben kimseyi tanımam türk polisi elçimi öldürdü derse bu konseyden yaptırım kararı çıkabilir. artık uzunca bir süre gayriresmi olarak rusya'nın kölesi konumundadır ülke.<br/><br/>diğer yandan soruşturma işini de rusya'dan gelecek bir ekip ortak görecekmiş. resmi ağızlardan fetö isminin çıkmaması şimdi anlaşıldı. biraz zor fetöcülük oynanır artık.<br/><br/>bu arada şu soruşturmaya ortak etme meselesi devletin kendi egemenlik hakkından feragattir, bunu da bir kenara not edelim. mavi marmara ile birlikte son bir ayda ikinci defa oluyor bu olay.
    
   entry_writer: diger camasir suyu
 - entry_name: |
