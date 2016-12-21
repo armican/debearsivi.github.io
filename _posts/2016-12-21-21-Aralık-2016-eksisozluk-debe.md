@@ -39,7 +39,7 @@ data:
   entry_id: 64864341
   entry_content: |
     
-    çevremiz kan gölü ile, insanlar şehitler tepesi’ne gidip gelirken, ardında kayseri’de yeni bir bomba yüklü araçla saldırı düzenlemişken, halep kan ağlarken trabzon'da  <a class="b" href="/?q=havai+fi%c5%9fekler+patlatarak+stadyum+a%c3%a7%c4%b1l%c4%b1%c5%9f%c4%b1">havai fişekler patlatarak stadyum açılışı</a> yapmasanız olmaz mı? <br/><br/>olmuştur.
+    çevremiz kan gölü ile, insanlar şehitler tepesi’ne gidip gelirken, ardında kayseri’de yeni bir bomba yüklü araçla saldırı düzenlemişken, halep kan ağlarken trabzon'da  <a class="b" href="/?q=havai+fi%c5%9fekler+patlatarak+stadyum+a%c3%a7%c4%b1l%c4%b1%c5%9f%c4%b1">havai fişekler patlatarak stadyum açılışı</a> yapmasanız olmaz mı? <br/><br/>olmuştur.<br/><br/>debe editi: çok mu aciziz? bir araya gelip meydanlara inemeyecek, "yeter! bu kan dursun artık!" diyemeyecek kadar aciz miyiz? her gün birilerinin arkasından üzülmeye, bunu siyasi ranta çeviren politikacıları izlemeye ve hatta onların arkasındaki safta yer alıp birbirimizden nefret etmeye ne kadar daha devam edeceğiz? bizden birileri öldü, onlardan da ölsün mantığıyla ne kadar daha hayatta kalabileceğiz? ne bok yiyeceğiz lan! bu amına koyduğumun dünyasında 70 sene yaşayıp da 40 senesini kahır çekmek de neden? putin, trump, obama, tayyip, cemil bayık, apo, kemal kılıçdaroğlu, devlet bahçeli kim be? senin, beni hayatımdan önemli insanlar mı? artık dur deyin! kan akmasın! yeter diyelim! meydanlara inelim. barış istiyoruz diyelim. yaşamak istiyoruz diyelim!
    
   entry_writer: sessiz yeni masumiyet benim
 - entry_name: |
@@ -167,7 +167,7 @@ data:
   entry_id: 64859992
   entry_content: |
     
-    evrimin kanıtıdır. ne demişti  <a class="b" href="/?q=jean-baptiste+lamarck">jean-baptiste lamarck</a>? çok kullanılan organlar sinirsel sıvıdan daha çok faydalanıp gelişir, kullanılmayan organlar ise körelir. bu herif de sürekli tevhid işareti yaptığı için parmağı gereğinden fazla uzamış. buna karşın beynini hiç kullanmadığı için düşünme yetisini kaybetmiş ve beyinsiz bir insana dönüşerek bir nevi doğal seleksiyona uğramış.<br/><br/>ek: lamarck'ın bu teorisi her ne kadar geçerliliğini kaybetmiş olsa da bu örnekten sonra bir şansı daha hak ediyor bence. hehe.
+     <a rel="nofollow noopener" class="url" target="_blank" href="http://i.imgur.com/4SwkL7k.jpg" title="http://i.imgur.com/4SwkL7k.jpg">evrimin kanıtı</a>dır. ne demişti <a class="b" href="/?q=jean-baptiste+lamarck">jean-baptiste lamarck</a>? çok kullanılan organlar sinirsel sıvıdan daha çok faydalanıp gelişirken kullanılmayan organlar ise körelir. bu herif de sürekli tevhid işareti yaptığı için parmağı haddinden fazla uzamış. buna karşın beynini hiç kullanmadığı için beyinsiz bir yaratığa dönüşmüş.<br/><br/>sonuç? <a class="b" href="/?q=do%c4%9fal+seleksiyon">doğal seleksiyon</a>.<br/><br/>ek: lamarck'ın bu teorisi her ne kadar geçerliliğini kaybetmiş olsa da bu örnekten sonra bir şansı daha hak ediyor bence. hehe.
    
   entry_writer: kendine ispanyol
 - entry_name: |
@@ -207,8 +207,6 @@ data:
   entry_id: 64859013
   entry_content: |
     
-    burada, moskova'da, etkileri daha değişik hissedilen terör olayıdır..<br/><br/>putin, olaya ilişkin yaptığı ilk açıklamada vakur tavrını korurken; <a class="b" href="/?q=maria+zakharova">maria zakharova</a> ise çok sinirli bir şekilde ve diplomatik açıdan buz gibi soğuk açıklamalar yaptı. "mişka" medyenev ise, "sorumluları bulup cezalandıracağız" diyor. saldırının türkiye ile olan ilişkilere yönelik bir provokasyon olduğu, bunun iki ülke arasındaki mevcut ilişkilere herhangi bir olumsuz etkisi olmayabileceği söyleniyor; ama, sokaktaki rusların düşünceleri 180 derece farklı.<br/><br/>sokaktaki ruslar, bu cinayetin sorumlusu olarak türkiye'yi görüyorlar. rus uçağının düşürülmesinden çok daha büyük bir şok yaşanıyor burada. dün gece uyamadım. rus ana akım medyasında türkiye ve bahse konu terör eylemini gerçekleştiren şahıs hakkında bir sürü haber dönüyor.<br/><br/>rusya'nın a haber ve atv tarzı kanalları, "bu eylemi fetö yaptı" açıklamasını ciddiye almıyorlar. rus kanalları, açık bir şekilde olmasa da, ortaya koydukları ile ak parti hükümeti'ni ve sayın cumhurbaşkanı'nı suçlayan bir yönelim içindeler. <br/><br/>terör eylemi ile ilgili olarak sıraladıkları veriler/iddialar şunlar:<br/><br/>bu şahsın<br/><br/>- ak parti gençlik etkinliklerine katıldığı iddiaları (burada çekildiği iddia edilen bazı fotoğraflar yayınlanmış);<br/>- sosyal medyada yaptığı söylenilen (onların deyimi ile) "pro-akp" paylaşımlar (bazıları silinmiş sanırım);<br/>- çevik kuvvet mensubu olması (elit polis gücü, olarak tanımlıyor rus medyası. ruslar, teröre karşı mücadele eden ve sıkı güvenlik taramalarından geçmesi gereken kişilerin böyle bir eylemi nasıl gerçekleştirebileceğine inanamıyorlar);<br/>- fetö değil ama el nusra bağlantısı;<br/>- amerikancı darbe girişimi sonrasında bu kişinin soruşturmalardan temiz çıkması ve göreve devam etmesi (bu yüzden fetö bağlantısı yok diyorlar);<br/>- ve en önemlisi, koruma kartı ile içeri girmesi.<br/><br/>şimdi, en sonuncusu çok önemli:<br/><br/>koruma kartı herkese verilmiyor. bildiğim kadarıyla temin edilmesi de o kadar kolay değil; böyle bir dönemde rus gizli servisi tarafından korunan sayın büyükelçinin yanına yaklaşabilmesi için, rus medyasına göre, koruma listesinde de adının olması gerekiyor. (bu ne kadar doğru bilmiyorum)<br/><br/>bu yüzden, rus kanalları ve halkı, üstü kapalı da olsa bu cinayetten dolayı türkiye'yi sorumlu tutuyorlar.<br/><br/>özetle, rus halkı çok öfkeli. herkes putin'in ağzının içine bakıyor. bu sabah, kaldığım apart otele polis geldi. pasaportlarımıza bakıldı ve bir iki soru sordular. otel personeli de buz gibi soğuktu. dışarı çıkıp, metro istasyonuna gittim; kızı aldım, okuluna götürdüm; ve arkadaşımın ofisine geldim. her zaman kullandığım bu yol üzerinde normalde aranmazken, bugün iki kez pasaport gösterdim. halk zaten nefretle bakıyor. hayır! kabalaşan veya bir şey söyleyen yok, ama o gerginliği ve huzursuzluğu hissedebiliyorsunuz. buradaki türkiyeli arkadaşların bir kısmı belli bir süre için ülkeye geri dönebileceklerini söylüyorlar.<br/><br/>ruslar, bu işi teröre lanet okuyarak bitirmez ve unutmazlar. bunun hesabını mutlaka sorarlar. önümüzdeki bir hafta çok kritik gibi duruyor...
-   
   entry_writer: dandik tavsan
 - entry_name: |
     1990-1995 arası doğan efsanevi nesil
@@ -258,14 +256,6 @@ data:
     (bkz:  <a class="b" href="/?q=devlet+bize+bakm%c4%b1yor+ayol">devlet bize bakmıyor ayol</a>)
    
   entry_writer: yarasa talag
-- entry_name: |
-    efkan ala vs süleyman soylu
-  entry_id: 64856675
-  entry_content: |
-    
-    al efkanı koy çuvala, al süloyu koy çuvala, salla salla vur duvara. vasıfsızlıkta birbirleriyle yarışırlar.
-    
-  entry_writer: cimidalli
 - entry_name: |
     otobüs şoförünün telefonunu çalan yaşlı amca
   entry_id: 64856637
@@ -319,7 +309,7 @@ data:
   entry_id: 64873338
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=entry+nick+uyumu">entry nick uyumu</a>)
+    (bkz:  <a class="b" href="/?q=entry+nick+uyumu">entry nick uyumu</a>)<br/><br/>edit. yahu bunu debeye soktunuz yaaa.... tüh sizin kalıbınıza slldşsşdşfşd<br/><br/>sözlük bitmiş arkadaş.
    
   entry_writer: dur arkandan su dokeyim
 - entry_name: |
@@ -349,7 +339,7 @@ data:
   entry_id: 64860712
   entry_content: |
     
-    merhaba, ben vicdansızım.  <br/><br/>beki ikala erikli'yi tanımıyorum. melekli bilmemneli safsataları duydum. ancak alıp okuyacak, ya da yazarlarının adını aklımda tutacak kadar ciddiye almadım. <br/><br/>kadının yaptığı işin dolandırıcılık olduğunu, akli dengesinin yerinde olmadığını, yine akli dengesi yerinde olmayan biri tarafından öldürüldüğünü düşünüyorum. beki ikala erikli'nin "meleklerle konuştuğu" düzlemde, kadının birinin "bu kadın şeytan" diyerek onu öldürmesi normaldir. <br/><br/>ancak en hakiki mürşidin ilim ve fen olduğu, hepimizin yaşadığı normal düzlemde katledilmiş olması suçtur. bu düzlemde "meleklerle konuşuyorum" diyerek falcılık/cincilik vs yapması da suçtur. çünkü "dolandırıcılık" kapsamına girer. he önümüze gelen dolandırıcıyı çekip vuramayız. neden çünkü kanun var nizam var arkadaşlar. <br/><br/>burada bizi vicdansız yapan şey nedir ben tam anlayamıyorum. kadının öldürülmesinin suç olduğu konusunda herkes hemfikir? kimse demiyor ki oh olmuş iyi ki ölmüş falan. neden diyelim? ancak sen "ben meleklerle konuşuyorum" dersen, başkası da "bu şeytandır" diye seni gelip öldürürse, bunu dünyanın en garip ve akıl almaz şeyi gibi sunmak biraz saçma olmaz mı? katili neden vahşi barbar biri gibi görelim? "nidin iyli diyirsiniz ininci siniçti" deyip geçmemiz gerekmez mi bu açıdan bakarsak? <br/><br/>işte bu gibi nedenlerle forza sekülerlik canlar. din inanç ticareti tehlikeli şeyler.
+    merhaba, ben vicdansızım.  <br/><br/>beki ikala erikli'yi tanımıyorum. melekli bilmemneli safsataları duydum. ancak alıp okuyacak, ya da yazarlarının adını aklımda tutacak kadar ciddiye almadım. <br/><br/>kadının yaptığı işin dolandırıcılık olduğunu, akli dengesinin yerinde olmadığını, yine akli dengesi yerinde olmayan biri tarafından öldürüldüğünü düşünüyorum. beki ikala erikli'nin "meleklerle konuştuğu" düzlemde, kadının birinin "bu kadın şeytan" diyerek onu öldürmesi normaldir. <br/><br/>ancak en hakiki mürşidin ilim ve fen olduğu, hepimizin yaşadığı normal düzlemde katledilmiş olması suçtur. bu düzlemde "meleklerle konuşuyorum" diyerek falcılık/cincilik vs yapması da suçtur. çünkü "dolandırıcılık" kapsamına girer. he önümüze gelen dolandırıcıyı çekip vuramayız. neden çünkü kanun var nizam var arkadaşlar. <br/><br/>burada bizi vicdansız yapan şey nedir ben tam anlayamıyorum. kadının öldürülmesinin suç olduğu konusunda herkes hemfikir? kimse demiyor ki oh olmuş iyi ki ölmüş falan. neden diyelim? ancak sen "ben meleklerle konuşuyorum" dersen, başkası da "bu şeytandır" diye seni gelip öldürürse, bunu dünyanın en garip ve akıl almaz şeyi gibi sunmak biraz saçma olmaz mı? katili neden vahşi barbar biri gibi görelim? "nidin iyli diyirsiniz ininci siniçti" deyip geçmemiz gerekmez mi bu açıdan bakarsak? <br/><br/>işte bu gibi nedenlerle forza sekülerlik canlar. din inanç ticareti tehlikeli şeyler.<br/><br/>edit: (bkz: <a class="b" href="/?q=miyavistanbul">miyavistanbul</a>)
    
   entry_writer: zipirinsan
 - entry_name: |
