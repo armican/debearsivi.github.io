@@ -115,14 +115,6 @@ data:
    
   entry_writer: cumattack
 - entry_name: |
-    22 aralık 2016 akit'in rize özgürleşti haberi
-  entry_id: 64957624
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=%c3%b6zg%c3%bcr+t%c3%bcrkiye+ordusu">özgür türkiye ordusu</a>)<br/><br/>adamlar bile isteye ülkenin altına dinamit yerleştiriyorlar. suriye'de olanları görmüyorlarmış gibi aynısını burada da yapmaya çalışıyorlar. ne çeşit bir insan düşmanı bunlar anlamadım amk..
-   
-  entry_writer: octave charcot
-- entry_name: |
     fatih portakal
   entry_id: 64972052
   entry_content: |
@@ -159,7 +151,7 @@ data:
   entry_id: 64977076
   entry_content: |
     
-    çatır çatır entry sildiren maç. ıbrı mıbrı hikiyi kılıyır. fenerbahçe adamın amına böyle koyuyor işte..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/X9XBv3.png">http://i.hizliresim.com/x9xbv3.png</a><br/><br/>hahahahahahahahahaha.
+    çatır çatır entry sildiren maç. ıbrı mıbrı hikiyi kılıyır. fenerbahçe adamın amına böyle koyuyor işte..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/X9XBv3.png">http://i.hizliresim.com/x9xbv3.png</a><br/><br/>hahahahahahahahahaha.<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a>: adam siteyi terk etti çok mu yüklendiysek aradığımız yazara ulaşılamıyor. :(<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/1Vg6B5.png">http://i.hizliresim.com/1vg6b5.png</a>
    
   entry_writer: ben senin bildigin erkeklerden degilim
 - entry_name: |
@@ -219,14 +211,6 @@ data:
     
   entry_writer: lifeisazugzwang
 - entry_name: |
-    ata'm trablusgarp'ta ne işimiz var
-  entry_id: 64964371
-  entry_content: |
-    
-    trablusgarp'ın o dönem vatan toprağı olması dolayısıyla, sorulması mantıklı olmayan soru..<br/><br/>mantıklı olan soru şu; 2016 yılında, bizim toprağımız olmayan suriye'de ne işimiz var? o teröristleri yıllarca neden besledik? komşu ülkemizin rejimini değiştirmek için niye bu kadar istekliydik?
-   
-  entry_writer: anteke
-- entry_name: |
     türk ordusu suriye'den çıksın kampanyası
   entry_id: 64964985
   entry_content: |
@@ -271,8 +255,8 @@ data:
   entry_id: 64956887
   entry_content: |
     
-    kürt oluşuna vurgu yapanlar ayıp ediyor cok pkk lı profili gordum. bu çocuk zaten 2015 te kaçırılmış profilinde o tarz paylaşım hiç yok. garibanin biriymis baksanıza karizma göründüğünü düşündüğü düz duvar, priz önü fotolara. sefter ismini beğenmemiş doğukan diye profil açmış. bildiğiniz ergen. ana kuzusu. pkk ya dair hiç iz yok ığdırlı kara kaşlı olması dışında. en önemlisi ypg için değil tsk için savaşıyordu bu çocuk. bu çok büyük bir fark.
-    
+    kürt oluşuna vurgu yapanlar ayıp ediyor cok pkk lı profili gordum. bu çocuk zaten 2015 te kaçırılmış profilinde o tarz paylaşım hiç yok. garibanin biriymis baksanıza karizma göründüğünü düşündüğü düz duvar, priz önü fotolara. sefter ismini beğenmemiş doğukan diye profil açmış. bildiğiniz ergen. ana kuzusu. en önemlisi ypg için değil tsk için savaşıyordu bu çocuk. bu çok büyük bir fark..<br/><br/>edit: düzeltme
+   
   entry_writer: scarletletter
 - entry_name: |
     türkiye'nin ateist rejime geçme zorunluluğu
@@ -330,14 +314,6 @@ data:
     kendisinden buram buram yayılan koku ekrandan burnuma geldi höff. rica ediyorum rakka, mekke, kekko gibi yerlere cihadçı kardeşlerine cinsel hizmet vermeye gitmezse otobüste vapurda filan benim yanıma oturmasın, "çarşaf da özgürlüktür toprak şems, kemalist zulüm bitsin" diye ağlaşan liboş sokukların yanına otursun.
     
   entry_writer: isolde
-- entry_name: |
-    türkiye'yi parmakla gösterilen 10 ülkeye sokacağız
-  entry_id: 64971813
-  entry_content: |
-    
-    çocuk tacizinde, rezillikte, cehalette, fakirlikte ve kötü yönetimde ilk onu bırak bir numara yaptınız. teşekkürler ama lütfen daha başka birşey sokmayın.
-    
-  entry_writer: bombardana
 - entry_name: |
     selahattin demirtaş
   entry_id: 64967764
