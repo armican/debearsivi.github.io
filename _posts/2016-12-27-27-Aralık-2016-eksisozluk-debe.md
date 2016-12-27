@@ -7,7 +7,7 @@ data:
   entry_id: 65050558
   entry_content: |
     
-    tipik, seminerlerde, konferanslarda, motivasyon toplantılarında... anlatmalık embesil beyaz yakalı anekdotu..<br/><br/>ulan yarı ingilizce yarı türkçe havalı kelimelerle anlatınca dahiyane stratejiler gibi önünüze sunulan bir çok şey, zaten köşedeki bakkalın da, çiğ köftecinin de, seyyar satıcının da... artık refleks haline gelmiş, farkında olmadan yaptığı şeyler.<br/><br/>bu örnek gerçek de olabilir, karşısındakilerin ottan boktan etkilenip hayran kalmaya eğilimli olduğunu bilen birinin anlatıp kendini, gelişime açık/yenilikçi/analiz yeteneği yüksek... göstermek için uydurduğu/süslediği bir hikaye de olabilir.<br/><br/>ciddi ciddi, iş hayatındaki herhangi birinin (artık iyice embesiller dışında) zaten bu tür şeyleri düşünüp hesaba katmadığını mı sanıyorsunuz?
+    tipik, seminerlerde, konferanslarda, motivasyon toplantılarında... anlatmalık embesil beyaz yakalı anekdotu..<br/><br/>ulan yarı ingilizce yarı türkçe havalı kelimelerle anlatınca dahiyane stratejiler gibi önünüze sunulan bir çok şey, zaten köşedeki bakkalın da, çiğ köftecinin de, seyyar satıcının da... artık refleks haline gelmiş, farkında olmadan yaptığı şeyler.<br/><br/>bu örnek gerçek de olabilir, karşısındakilerin ottan boktan etkilenip hayran kalmaya eğilimli olduğunu bilen birinin anlatıp kendini, gelişime açık/yenilikçi/analiz yeteneği yüksek... göstermek için uydurduğu/süslediği bir hikaye de olabilir.<br/><br/>ciddi ciddi, iş hayatındaki herhangi birinin (artık iyice embesiller dışında) zaten bu tür şeyleri düşünüp hesaba katmadığını mı sanıyorsunuz?<br/><br/>(bkz: <a class="b" href="/entry/65082744">başak tetik'in vefatı ve vefa/#65082744</a>)
    
   entry_writer: sonadora
 - entry_name: |
@@ -15,7 +15,7 @@ data:
   entry_id: 65049144
   entry_content: |
     
-    o pasta ne amk? imar izni var mı onun??<br/><br/>(bkz: <a class="b" href="/?q=a%c4%9fao%c4%9flu+my+cake">ağaoğlu my cake</a>)
+    o pasta ne amk? imar izni var mı onun??<br/><br/>(bkz: <a class="b" href="/?q=a%c4%9fao%c4%9flu+my+cake">ağaoğlu my cake</a>)<br/><br/>debe cooper editi: (bkz: <a class="b" href="/entry/65082744">#65082744</a>)
    
   entry_writer: camiden adidas caldim bol geldi
 - entry_name: |
@@ -47,15 +47,15 @@ data:
   entry_id: 65055613
   entry_content: |
     
-    bakanı ayakta alkışlıyorum . tamam hükümeti sevmeyelim giydirelim, ama hadsiz adama resmen kapak yapmış. soruya bak hizaya gel. ülke olmuş bok çukuru yemekte alkol yok diye gazetecilik yaptığını sanan bir denyo var ülke basınında.
-    
+    bakanı ayakta alkışlıyorum . tamam hükümeti sevmeyelim giydirelim, ama hadsiz adama resmen kapak yapmış. soruya bak hizaya gel. ülke olmuş ...çukuru yemekte alkol yok diye gazetecilik yaptığını sanan bir denyo var ülke basınında..<br/>edit: çukuru kelimesi hukuka aykırı imiş düzlettik kendisini.
+   
   entry_writer: merzer
 - entry_name: |
     türkiyenin yüksek gelirli ülkeler sınıfına geçmesi
   entry_id: 65058700
   entry_content: |
     
-    benim gelirimi kim yiyorsa haram olsun..<br/><br/>debe editi: su an agliyorum ve entry yaziyorum biliyor musunuz? daha dun haksiz yere gg sebebiyle entryim silinirken bugun bu durumu daha cok goze sokabilecegim bir firsat yakaladim sanirim. o zaman let the linc begin.<br/><br/>(bkz: <a class="b" href="/?q=zafer+akinci">zafer akinci</a>)<br/>(bkz: <a class="b" href="/?q=25+aralik+2016+eksi+sozluk+entry+silme+rezaleti">25 aralik 2016 eksi sozluk entry silme rezaleti</a>)
+    benim gelirimi kim yiyorsa haram olsun..<br/><br/>debe editi: su an agliyorum ve entry yaziyorum biliyor musunuz? daha dun haksiz yere gg sebebiyle entryim silinirken bugun bu durumu daha cok goze sokabilecegim bir firsat yakaladim sanirim. o zaman let the linc begin.<br/><br/>(bkz: <a class="b" href="/?q=zafer+akinci">zafer akinci</a>)<br/>(bkz: <a class="b" href="/?q=25+aralik+2016+eksi+sozluk+entry+silme+rezaleti">25 aralik 2016 eksi sozluk entry silme rezaleti</a>)<br/><br/>ve bir de: (bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)
    
   entry_writer: quidrides
 - entry_name: |
@@ -63,7 +63,7 @@ data:
   entry_id: 65064657
   entry_content: |
     
-    öldü sandım. allah sizi kahretmesin..<br/><br/>nice sağlıklı ve huzur dolu yıllar dileyeceğimde huzur biraz zor. iyi ki doğdun efsane.<br/><br/>(bkz: <a class="b" href="/?q=hasan+%c3%bclker%27e+ses+verelim">hasan ülker'e ses verelim</a>) lütfen iş kazasında yatağa bağlı kalan hasan için up'layalım.
+    öldü sandım. allah sizi kahretmesin..<br/><br/>nice sağlıklı ve huzur dolu yıllar dileyeceğim de huzur biraz zor. iyi ki doğdun efsane.<br/><br/>(bkz: <a class="b" href="/?q=hasan+%c3%bclker%27e+ses+verelim">hasan ülker'e ses verelim</a>) lütfen iş kazasında yatağa bağlı kalan hasan için up'layalım.<br/><br/>gelen mesaj üzerine (bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)
    
   entry_writer: limon dede
 - entry_name: |
@@ -82,14 +82,6 @@ data:
     "ya bi siktirin gidin" diyerek çıkıştığım tanımlama..<br/><br/>oldu amk o bunu der şu şunu der diyerek bu ülkede reklam namına bi sik yapılmasın,<br/>ondan sonra buraya çıkıp "şömdökö röklömlör bok göbö" demesini bilin.<br/><br/>ulan bi kendinize gelin amk.<br/>bi de "reklamcılar hadlerini bilmeli, kadın haklarına hakkettiği önemi vermeli. yoksa toplumda taciz ve tecavüzü özendirmiş olacaktır." demiş.<br/><br/>olm sen o beynini bunlara yorana kadar kaç kişi geceli gündüzlü toplantı masalarında bunlara beyinlerini yoruyo biliyo musun? <br/>o beğenmediğin reklamcılar en çok bu konuları düşünen insanlar zaten, inan.<br/><br/>he sonucu beğenmezsin o ayrı ama buraya gelip de boş boş ahkamlar kesmenin de bi manası yok.<br/><br/>edit: imla.
    
   entry_writer: sad clown
-- entry_name: |
-    #açıklamabekliyoruz
-  entry_id: 65062990
-  entry_content: |
-    
-    öncelikle ; (bkz:  <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>)<br/>(bkz: <a class="b" href="/entry/65060776">#65060776</a>)<br/><br/>biliyorsunuz ki 4 gün önce kahpece bir haber aldık. işid militanlarının askerlerimizi şehit etmesi hakkında. <br/>bu haberi sanıyorum ki sadece ekşi okurları ve çok az sayıda insan biliyor. hedefimiz bu olaya açıklama getirilmesi ve daha fazla kişiye duyurmak. <br/><br/>4 gün önce böyle bir haber alıyoruz ve basın bununla ilgili en küçük haber yapmıyor.twitter youtube hatta ekşi sözlüğe erişim engelleniyor, muhalefet soruyor basın bu konuşmayı sansürleyip haberlerinde geçmiyor. <br/><br/>ekşi sözlük yazarları ile ilgili fikir alışverişi yaptım. öncelikli başlığımız olan (bkz: <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>) 'ni sol frameden düşürmemeyi planlıyoruz ve twitter üzerinden de bir başlığımızın olması gerektiğini düşünüyoruz. daha fazla insana ulaşmamız gerekiyor sözlük ahalisi. daha önce twitterdan sesimizi çok duyurduk. şimdi de yapabiliriz. sadece açıklama bekliyoruz. açıklama.<br/><br/>#açıklamabekliyoruz <br/><br/>ve sizden çok ufak bir ricam var. bu başlığa yazarken asıl başlığımızı da unutmayalım. <br/><br/>tekrar ediyorum bu başlık sadece ekşi sözlük ailesi olarak açıklama beklediğimizi "twitter" üzerinden duyurmak adına açılan bir başlıktır.<br/><br/>edit:başlık uludağ sözlükte de açıldı. uludağ sözlük hesabı olan arkadaşlar orada da bi başlığa destek verelim. uludağ sözlük ekşi sözlük olarak bu olaya açıklık getirelim. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.uludagsozluk.com/k/aciklamabekliyoruz/">https://www.uludagsozluk.com/k/aciklamabekliyoruz/</a><br/><br/>edit2: instela'da başlığa destek veriyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.instela.com/aciklamabekliyoruz--19869081--today" title="https://tr.instela.com/aciklamabekliyoruz--19869081--today">https://tr.instela.com/…bekliyoruz--19869081--today</a> haydi arkadaşlar.<br/><br/>edit:bazı yazarlarımız rahatsız olmuş. şunun altını özellikle çizeyim. bu hashtag hiçbir siyasi örgüt/birleşim tarafından başlatılmamıştır. bu hashtag türk askerlerimize ne olduğunu öğrenmek adına "sadece halk" olan sözlük yazarlarımız tarafından başlatılmıştır. bu hashtag türk halkının kendi askerine sahip çıkması ile de yürüyecektir.<br/><br/>edit:forumdonanımhaber'de bize destek veriyor. hepinizin yüreğine sağlık. <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.donanimhaber.com/aciklamabekliyoruz--122828108" title="https://mobile.donanimhaber.com/aciklamabekliyoruz--122828108">https://mobile.donanimhaber.com/…liyoruz--122828108</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://kent34.com.tr/2-askerimizin-daes-tarafindan-yakilarak-sehit-edilmesi-konusu-eksisozlukte-kampanya-oldu/41843/" title="http://kent34.com.tr/2-askerimizin-daes-tarafindan-yakilarak-sehit-edilmesi-konusu-eksisozlukte-kampanya-oldu/41843/">http://kent34.com.tr/…sozlukte-kampanya-oldu/41843/</a> şu'da ilk haberimizmiş.
-   
-  entry_writer: jo harvelle
 - entry_name: |
     yabancılar taharet musluğu olmadan nasıl kokmuyor
   entry_id: 65067981
@@ -127,15 +119,15 @@ data:
   entry_id: 65059153
   entry_content: |
     
-    en iyisini yapmıştır. ne yapsaydı amk. hakkari'ye gelin mi gitseydi.
-    
+     <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/65082364" title="https://eksisozluk.com/entry/65082364">affınıza sığınarak</a>
+   
   entry_writer: tanriya allah diyen cocuk
 - entry_name: |
     beşşar esed
   entry_id: 65058633
   entry_content: |
     
-    bu adamı desteklemek kansızlık diyenlerin yakında esad'ı övmek için sıraya gireceğini hepimiz biliyoruz.  <br/><br/>"biliyorsunuz esad kardeşime de diktatör demek suretiyle bizi kandırdılar. halbuki esad kardeşim bu coğrafyada bağımsızlığın ve özgürlüğün sembolü olmuştur. esad kardeşim bizi affetsin, oyuna getirildik, kandırıldık."
+    bu adamı desteklemek kansızlık diyenlerin yakında esad'ı övmek için sıraya gireceğini hepimiz biliyoruz.  <br/><br/>"biliyorsunuz esad kardeşime de diktatör demek suretiyle bizi kandırdılar. halbuki esad kardeşim bu coğrafyada bağımsızlığın ve özgürlüğün sembolü olmuştur. esad kardeşim bizi affetsin, oyuna getirildik, kandırıldık."<br/><br/>edit: bu arada yuva arayan kedilere sahip çıkmak isteyen olur belki, zor durumda kalan bu iyi kalpli arkadaşlara yardımcı olmak isteyen varsa:<br/><br/>(bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)<br/><br/>ben alırdım ama bir kediye misafirlik yaptığım için alamıyorum.
    
   entry_writer: e8
 - entry_name: |
@@ -143,8 +135,8 @@ data:
   entry_id: 65055856
   entry_content: |
     
-    osman evde hungur hungur agliyor galiba. su dunyadaki en antipatik sey, bir insanin tek niteliginin birinin oglu olmasi ve zurriyetinden dolayi bir yere secilmesidir. millet 1789'dan beri bu yuzden birbirini kesiyor.
-    
+    osman evde hungur hungur agliyor galiba. su dunyadaki en antipatik sey, bir insanin tek niteliginin birinin oglu olmasi ve zurriyetinden dolayi bir yere secilmesidir. millet 1789'dan beri bu yuzden birbirini kesiyor..<br/><br/>(bkz: <a class="b" href="/entry/65082744">başak tetik'in vefatı ve vefa/#65082744</a>)
+   
   entry_writer: cokhaindomdom
 - entry_name: |
     urfasporlu futbolcunun yaptığı insanlık dışı faul
@@ -159,16 +151,16 @@ data:
   entry_id: 65072458
   entry_content: |
     
-    hakkaten lan. bugünleri öngörebilseydi, herhalde kafamıza huni giyiyor olurduk.
-    
+    hakkaten lan. bugünleri öngörebilseydi, herhalde kafamıza huni giyiyor olurduk..<br/><br/>debedit: (bkz: <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>)
+   
   entry_writer: middlegray
 - entry_name: |
     1 milyon dolar verseler sevgilini döver misin
   entry_id: 65057965
   entry_content: |
     
-    -aşkım kafa da at garanti olsun
-    
+    -aşkım kafa da at garanti olsunn<br/><br/>debe edit:(bkz: <a class="b" href="/entry/65082744">#65082744</a>)
+   
   entry_writer: vashta
 - entry_name: |
     tank çağının sona ermesi
@@ -183,7 +175,7 @@ data:
   entry_id: 65067421
   entry_content: |
     
-    trabzonspor'u bizim ülkemize çok benzetiyorum.  <br/><br/>kendini büyük takım zannetmesi, anadolunun sesi olarak görmesi. futbol dışı şeylerle(hır, gür, kavga vs.) güç göstermeye çalışması (bizim devletlere bağırıp çağırmayı güçlü olmak zannettigimiz gibi), cok konuşması ama icraatın sıfır olması gibi.<br/><br/>neden bu kıyaslamayı yaptım çünkü futbol da uluslararası ilişkilere çok benziyor, boş lafı, hamaseti hiç kaldırmıyor güçlüyle zayıf hemen belli oluyor.<br/><br/>not: gs
+    trabzonspor'u bizim ülkemize çok benzetiyorum.  <br/><br/>kendini büyük takım zannetmesi, anadolunun sesi olarak görmesi. futbol dışı şeylerle(hır, gür, kavga vs.) güç göstermeye çalışması (bizim devletlere bağırıp çağırmayı güçlü olmak zannettigimiz gibi), cok konuşması ama icraatın sıfır olması gibi.<br/><br/>neden bu kıyaslamayı yaptım çünkü futbol da uluslararası ilişkilere çok benziyor, boş lafı, hamaseti hiç kaldırmıyor güçlüyle zayıf hemen belli oluyor.<br/><br/>not: gs<br/><br/>debe edit: sahipleri vefat eden iki tatlı kedinin durumu için (bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)
    
   entry_writer: wnaker
 - entry_name: |
@@ -223,7 +215,7 @@ data:
   entry_id: 65058079
   entry_content: |
     
-    insanda  <a class="b" href="/?q=atom+fizi%c4%9fine+de+profes%c3%b6rl%c3%bc%c4%9fe+de+lanet+olsun">atom fiziğine de profesörlüğe de lanet olsun</a> diye haykırarak evi ateşe verme isteği uyandıran beyan.<br/><br/>bıktım, yeminle bıktım. kendi kişisel deneyimlerini salt gerçekler olarak gören insanlardan bıktım. bilime dair hiçbir halt bilmeyen erkeklerin "tarihte niye hiç gadın bilim adamı yok ehehe" diyerek kendilerini tatmin etmelerinden usandım. <br/><br/>tanrı sizi inandırsın, şu güne dek oturup adamakıllı bilim konuşacak bir erkek bile bulamadım. karşıma çıkan ve kendini bilim sevdalısı ilan eden erkeklerin hepsi ya "tesla süper adam ya ama salak insanlar onu tanımıyo bile:(" seviyesindeydi. düşün bak. yıl 2015, etraf tesla deprem makinesi yaptı, haarp, philadelphia deneyi masallarına inanan manyaklarla dolu, hatta hepsini boşver; christopher nolan gibi bir yönetmenin çektiği tesla'dan bahsedilen <a class="b" href="/?q=the+prestige">the prestige</a> var fakat adam hala tesla'yı underground sanıyor. <br/><br/>adamın elinde bilim teknik, iki lafından biri "bilim önemli abi yea" ama en basitinden <a class="b" href="/?q=schr%c3%b6dinger%27in+kedisi">schrödinger'in kedisi</a>ni sorsan vereceği cevap şu; "ya bu bi düşünce deneyi tamam mı işte kedi hem ölü hem canlı ya süper olay"<br/><br/>ee sonra?<br/><br/>sonrası yok. zira bu kadarı karı kız düşürmek ve ortamda bilim sevdalısı pozları verip milleti eziklemek için yetiyor dimi? araya bir de <a class="b" href="/?q=laplace%27%c4%b1n+%c5%9feytan%c4%b1">laplace'ın şeytanı</a> güzellemeleri sıkıştırınca olay bitiyor. ama yook, buraya kadar. bundan sonra bu sözde bilim duayeni erkekleri gördüğüm yerde rezil edeceğim yeminle. ha, olur da gerçekten bilim seven bir erkek görürsem onu da nikahıma alırım zaten.<br/><br/>edit: entry'yi sinirle yazıp bayağı sağlı sollu girişmişim ama buradan bilimsel konularda uzman olduğum anlamı çıkmasın. ama en azından öğrenmeye çalışıyorum, öğrenmeyi seviyorum ta ki bir erkek gelip "zaaa kızlar ne anlar bilimden xd" diyene kadar. demeyin. :/
+    insanda  <a class="b" href="/?q=atom+fizi%c4%9fine+de+profes%c3%b6rl%c3%bc%c4%9fe+de+lanet+olsun">atom fiziğine de profesörlüğe de lanet olsun</a> diye haykırarak evi ateşe verme isteği uyandıran beyan.<br/><br/>bıktım, yeminle bıktım. kendi kişisel deneyimlerini salt gerçekler olarak gören insanlardan bıktım. bilime dair hiçbir halt bilmeyen erkeklerin "tarihte niye hiç gadın bilim adamı yok ehehe" diyerek kendilerini tatmin etmelerinden usandım. <br/><br/>tanrı sizi inandırsın, şu güne dek oturup adamakıllı bilim konuşacak bir erkek bile bulamadım. karşıma çıkan ve kendini bilim sevdalısı ilan eden erkeklerin hepsi ya "tesla süper adam ya ama salak insanlar onu tanımıyo bile:(" seviyesindeydi. düşün bak. yıl 2016, etraf tesla deprem makinesi yaptı, haarp, philadelphia deneyi masallarına inanan manyaklarla dolu, hatta hepsini boşver; christopher nolan gibi bir yönetmenin çektiği tesla'dan bahsedilen <a class="b" href="/?q=the+prestige">the prestige</a> var fakat adam hala tesla'yı underground sanıyor. <br/><br/>adamın elinde bilim teknik, iki lafından biri "bilim önemli abi yea" ama en basitinden <a class="b" href="/?q=schr%c3%b6dinger%27in+kedisi">schrödinger'in kedisi</a>ni sorsan vereceği cevap şu; "ya bu bi düşünce deneyi tamam mı işte kedi hem ölü hem canlı ya süper olay"<br/><br/>ee sonra?<br/><br/>sonrası yok. zira bu kadarı karı kız düşürmek ve ortamda bilim sevdalısı pozları verip milleti eziklemek için yetiyor dimi? araya bir de <a class="b" href="/?q=laplace%27%c4%b1n+%c5%9feytan%c4%b1">laplace'ın şeytanı</a> güzellemeleri sıkıştırınca olay bitiyor. ama yook, buraya kadar. bundan sonra bu sözde bilim duayeni erkekleri gördüğüm yerde rezil edeceğim yeminle. ha, olur da gerçekten bilim seven bir erkek görürsem onu da nikahıma alırım zaten.<br/><br/>edit: entry'yi sinirle yazıp bayağı sağlı sollu girişmişim ama buradan bilimsel konularda uzman olduğum anlamı çıkmasın. ama en azından öğrenmeye çalışıyorum, öğrenmeyi seviyorum ta ki bir erkek gelip "zaaa kızlar ne anlar bilimden xd" diyene kadar. demeyin. :/
    
   entry_writer: fayn
 - entry_name: |
@@ -231,23 +223,15 @@ data:
   entry_id: 65050635
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=yedirmezler">yedirmezler</a>)<br/><br/>adamlar lotoyu, piyangoyu bile halka çıkartmıyorlar destek kredisini sokaktan geçen adamlara mı verecekler?<br/><br/>arkası olmadan "belki verirler" diye gireni naifliğinden dolayı kutlamak lazım. bu devirde bu kadar temiz, saf kalabilmek az iş değil.
+    (bkz:  <a class="b" href="/?q=yedirmezler">yedirmezler</a>)<br/><br/>adamlar lotoyu, piyangoyu bile halka çıkartmıyorlar destek kredisini sokaktan geçen adamlara mı verecekler?<br/><br/>arkası olmadan "belki verirler" diye gireni naifliğinden dolayı kutlamak lazım. bu devirde bu kadar temiz, saf kalabilmek az iş değil.<br/><br/>debe editi: şöyle bir şey var belki kedi seviyorsunuzdur diye: (bkz: <a class="b" href="/entry/65082744">#65082744</a>)
    
   entry_writer: r2d2r2d3
-- entry_name: |
-    18 yaşında kız 36 yaşında erkek birlikteliği
-  entry_id: 65061617
-  entry_content: |
-    
-    18 yaşındayken, yaşıtı oğlanları parası yok diye küçümsemiş kadınlara dert olan ilişkidir..<br/><br/>ben şimdi 40 yaşındayım, ömrüm fakirlik içinde geçti, yaşıtım kızlar etrafta zengin babasının altına spor araba çektiği oğlanlardan, valıklı adamlardan dönüp bana bakmadılar, arada tipimi beğenen bir iki tanesi, bir iki sevişti, sonra yine zengin sevgilisine döndü, şimdi para bende ve niye dönüp yaşıtım kızlara bakayım?<br/><br/>25'ten büyük kıza dönüp bakarsam, suratıma tükürsünler. <br/><br/>paramı çatır çatır 20'lik kızlarla yiyeceğim.<br/><br/>o daracık götlerini sabahtan akşama kucağımda hoplatırken, 20'lerinde kendilerini ölümsüz sanan geri zekalı kızların 40'larına gelirken nasıl bunalıma girip yalnız kaldıklarını hatırlayarak kahkahalar atıcam ve elbette kucağımdaki kızın ağzına boşaltıcam yükü.<br/><br/>kadınları sevmiyorum, çok da keyfim yerinde. onları ihtiyaçlarımı giderecek malzemeler olarak görüyorum. ayrıca düşüncelerine de saygı duymuyorum, bu yüzden de hiçbir kadınla tartışmıyorum. ablalar bik bik bik bik ötüyor, kulaklığımı takıp işime bakıyorum.<br/><br/>itirazı olan, dilekçe yazıp göndersin, bi ara değerlendirmeye alacağım. <br/><br/>bayan değil karı.
-   
-  entry_writer: mavi tavuk
 - entry_name: |
     iyi ki türkiye'de yaşıyorum dedirten olaylar
   entry_id: 65068948
   entry_content: |
     
-    arkadaşımla otostop yaptığımız donemde bır köyde düğüne denk gelmemiz, ardından bizi oyuna davet etmeleri, sabaha kadar onlarla birlikte içmemiz, bizi o gün misafir etmeleri ve ertesi gün "sevdiyseniz birkaç gün daha kalın biz sevdk" demelerinin üzerine iki gün daha köy hayatı yasamamız....<br/><br/>daha aklıma çok şey geliyor. <br/><br/>ülkemi seviyorum ve mümkünse bu topraklarda yaslanmak istiyorum.. umarım mümkün olur...
+    arkadaşımla otostop çekerek gezdiğimiz donemde bır köyde düğüne denk gelmemiz, ardından bizi oyuna davet etmeleri, sabaha kadar onlarla birlikte oynayıp içmemiz, bizi o gün misafir etmeleri ve ertesi gün "sevdiyseniz birkaç gün daha kalın biz sizi sevdik.." demelerinin üzerine iki gün daha köy hayatı yaşamamız....<br/><br/>daha aklıma çok şey geliyor. <br/><br/>ülkemi seviyorum ve mümkünse bu topraklarda yaşlanmak istiyorum.. umarım mümkün olur...<br/><br/>edit: biri "kiz olsan hamile cikardin o ahirdan yazmis... " boyle bor düşünceyi kaniksamis olmasina cok üzüldüm. arkadasim dedigim kisi kadındı ve hicbir tacize ugramadi..
    
   entry_writer: sozlugunuzun ogretmeni
 - entry_name: |
@@ -255,7 +239,7 @@ data:
   entry_id: 65053991
   entry_content: |
     
-     <a class="b" href="/?q=sabri+sar%c4%b1o%c4%9flu">sabri sarıoğlu</a>. adam futbola yabancı
+     <a class="b" href="/?q=sabri+sar%c4%b1o%c4%9flu">sabri sarıoğlu</a>. adam futbola yabancı<br/><br/>1. debespor: (bkz: <a class="b" href="/?q=hasan+%c3%bclker%27e+ses+verelim">hasan ülker'e ses verelim</a>)<br/>2. debespor: (bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)
    
   entry_writer: inedem
 - entry_name: |
@@ -271,7 +255,7 @@ data:
   entry_id: 65055926
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)
+    (bkz:  <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)<br/><br/>debe editi: <br/>(bkz: <a class="b" href="/entry/65082744">#65082744</a>)
    
   entry_writer: beanlie
 - entry_name: |
@@ -279,7 +263,7 @@ data:
   entry_id: 65060149
   entry_content: |
     
-    rezalet mezalet değildir, hatta gayet de güzel esprilerin döndüğü başlıktır..<br/><br/>kimse vay amk 1 milyon dolar veriyorlarmış diye gidip kimseyi dövmeyecek.<br/><br/>şu ucuz "<a class="b" href="/?q=politically+correct">politically correct</a>" yavşaklığını burada bari bırakın.<br/><br/>yok ırklar hakkında espri yapma, cinsiyetler hakkında espri yapma, inançlar hakkında espri yapma, yok aile/çocuk hakkında espri yapma, dış görünüş hakkında espri yapma...<br/><br/>ulan şu <a class="b" href="/?q=9gag">9gag</a>'da falan insanların "offeneded, triggered..." diye dalga geçtikleri karikatürize edilmiş tipleri görünce gülerdim, gerçeği buralarda da türemeye başladı.
+    rezalet mezalet değildir, hatta gayet de güzel esprilerin döndüğü başlıktır..<br/><br/>kimse vay amk 1 milyon dolar veriyorlarmış diye gidip kimseyi dövmeyecek.<br/><br/>şu ucuz "<a class="b" href="/?q=politically+correct">politically correct</a>" yavşaklığını burada bari bırakın.<br/><br/>yok ırklar hakkında espri yapma, cinsiyetler hakkında espri yapma, inançlar hakkında espri yapma, yok aile/çocuk hakkında espri yapma, dış görünüş hakkında espri yapma...<br/><br/>ulan şu <a class="b" href="/?q=9gag">9gag</a>'da falan insanların "offeneded, triggered..." diye dalga geçtikleri karikatürize edilmiş tipleri görünce gülerdim, gerçeği buralarda da türemeye başladı.<br/><br/>(bkz: <a class="b" href="/entry/65082744">başak tetik'in vefatı ve vefa/#65082744</a>)
    
   entry_writer: sonadora
 - entry_name: |
@@ -291,7 +275,7 @@ data:
    
   entry_writer: somekindofdevil
 - entry_name: |
-    26.12.2016 hıncal uluç'a nevşin mengü ayarı
+    nevşin mengü'nün hıncal uluç'a verdiği ayar
   entry_id: 65064501
   entry_content: |
     
@@ -307,35 +291,27 @@ data:
     
   entry_writer: catch the arrow
 - entry_name: |
-    dini sorgulamaya başlamak
-  entry_id: 65055548
-  entry_content: |
-    
-    yıllar önce yaptığım, günlerce süren düşünmeler ve okuduğum bir sürü kitaptan sonra dini terk etmekle sonuçlandırdığım ameliyedir..<br/><br/>önce dindarlardan şüphelendim hep çelişki hep çelişki, hep kendine yontma, dinde hileli yollara sapma, işine gelmeyince her dini kuralı sinsice, kurnazca tevil etme. <br/><br/>yavaş yavaş kendimi diğer dindarlardan çaktırmadan ayrıştırdım. fazla dine bağlı görünmemeye çalıştım. onlardaki dindarlığın aslında kılıf olduğu asıl maksadın psikolojik ve maddi çıkarlar olduğunu düşünmemeye ve bu düşüncemi onlara hissettirmemeye çalıştım.<br/><br/>sonra bize din diye sunulandan şüphelenip araştırdım, o zamanki düşünceme göre gerçek din dediğimiz kuran ve sünnet islamına arap ve hindli selefi alimlerin kitaplarıyla uymaya çalıştım. <br/><br/>sonra gözümü karartıp dinin kendisi neden yalan olmasın deyip, din gerçeğini bilimsel ve akli yoldan araştırmaya cesaret ettim. <br/><br/>öyle ya tanrıdan geldiği söylenen kuran'ın inancımızı devre dışı bırakırsak reel anlamda gerçekten tanrıdan geldiğini söylememiz saçma olur. bunu hiç kimse asla bilemez( inançta burada devreye giriyor zaten yani inanç gerçekliği bilinemeyecek bir şeyi kesin gerçeklikmiş gibi kabul ettirmeye yarıyor).<br/><br/>kafir olup ebedi cehenneme gitmekten korktuğumuz için okumaktan çekindiğimiz, kaçındığımız kitapları zihnimi dinsel dogmalara bağlılıktan kurtararak okudum, cennetten vazgeçmenin getirdiği yoksunluk, bunca yıl bir yalanın ve hatanın peşinden gitmenin hissettirdiklerinin kötülüğüne rağmen din denilen metafizik kurumsal dogmayı terk etmeye ve yeniden gerçek yaşamın kendisini kendi aklımla yorumlamanın yoluna döndüm.
-   
-  entry_writer: yalnizdam2015
-- entry_name: |
     lens vs bruma vs quaresma
   entry_id: 65067585
   entry_content: |
     
-    hepsi 'kazanacak' ve tartışıldıklarından haberleri bile olmayacak. biz de böyle mal gibi gidicez.
-    
+    hepsi 'kazanacak' ve tartışıldıklarından haberleri bile olmayacak. biz de böyle mal gibi gideceğiz..<br/>.<br/>.<br/>.<br/>.<br/>.<br/><br/>sosyal mesaj: <a rel="nofollow noopener" class="url" target="_blank" href="http://wowturkey.com/forum/viewtopic.php?p=5456069" title="http://wowturkey.com/forum/viewtopic.php?p=5456069">fotoğraf kars'taki selim tren istasyonu</a>, istasyonun amiri ağaç sevgisi olan biri ve istasyonun yasal alanını kendi imkanları ile ağaçlandırmış. doğruysa çok güzel.
+   
   entry_writer: kalyanschik
 - entry_name: |
     şehitlere saygı mitingi'nde göbek atmak
   entry_id: 65063076
   entry_content: |
     
-    çomaristanda sıradan bir gün.
-    
+    çomaristanda sıradan bir gün..<br/><br/>gelen mesaj üzerine (bkz: <a class="b" href="/?q=ba%c5%9fak+tetik%27in+vefat%c4%b1+ve+vefa">başak tetik'in vefatı ve vefa</a>)
+   
   entry_writer: siphonensis lacus
 - entry_name: |
     mevlüt mert altıntaş
   entry_id: 65054525
   entry_content: |
     
-    ablası ile yapılan röportaj,,<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/suikatcinin-ablasi-anlatti-biz-bu-sekilde-yetistirmedik-40317229" title="http://www.hurriyet.com.tr/suikatcinin-ablasi-anlatti-biz-bu-sekilde-yetistirmedik-40317229">röportaj 26.12.2016</a><br/><br/>önemli noktalar<br/>- katil, başlık altında atılan palavraların aksine körfez dersanesine gitmemiş. ablası gitmiş, o da 1999 senesinde.<br/><br/>- evinden fethullah gülen kitapları çıktı denmişti. annesi son gidişmde bütün rafları sildim, evdeki tek kitap kuran'ı kerimdi demiş.<br/><br/>- 15 temmuzda aldığı 2 gün izinden dolayı darbeye karıştığı bile söylendi. meğersem gireceği bir sınav ve katılacağı bir nikah varmış.<br/><br/>iktidar katilin cihatçı motiflerle işlediği cinayeti fetöcülere yükleyerek, bir yandan el nusra'yı kolluyor, bir yandan da rusya ve abd'yi fetöye karşı doldurmaya çalışıyor.<br/><br/>bugün de uyduruk olduğu belli bir haber ürettiler. bir polise 500 tl para göndermiş bu "himmetmiş".<br/><br/>bu iktidar bilgi kirliliği konusunda epeyi yol almış durumda. yakılan iki askerimizin haber omamasını sağladığını da biliyoruz. <br/><br/>yani gerçekliği artık iktidar yaratıyor, biz kullarına da inanmak düşüyor. cahilliği bu kadar desteklemelerinin nedeni de anlaşılmıştır artık. mllet ne kadar cahilleşirse bu tür haberlerle ikna edilmesi o kadar kolay oluyor.
+    ablası ile yapılan röportaj,,<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/suikatcinin-ablasi-anlatti-biz-bu-sekilde-yetistirmedik-40317229" title="http://www.hurriyet.com.tr/suikatcinin-ablasi-anlatti-biz-bu-sekilde-yetistirmedik-40317229">röportaj 26.12.2016</a><br/><br/>önemli noktalar<br/>- katil, başlık altında atılan palavraların aksine körfez dersanesine gitmemiş. ablası gitmiş, o da 1999 senesinde.<br/><br/>- evinden fethullah gülen kitapları çıktı denmişti. annesi son gidişmde bütün rafları sildim, evdeki tek kitap kuran'ı kerimdi demiş.<br/><br/>- 15 temmuzda aldığı 2 gün izinden dolayı darbeye karıştığı bile söylendi. meğersem gireceği bir sınav ve katılacağı bir nikah varmış.<br/><br/>iktidar katilin cihatçı motiflerle işlediği cinayeti fetöcülere yükleyerek, bir yandan el nusra'yı kolluyor, bir yandan da rusya ve abd'yi fetöye karşı doldurmaya çalışıyor.<br/><br/>bugün de uyduruk olduğu belli bir haber ürettiler. bir polise 500 tl para göndermiş bu "himmetmiş".<br/><br/>bu iktidar bilgi kirliliği konusunda epeyi yol almış durumda. yakılan iki askerimizin haber olmamasını sağladığını da biliyoruz. <br/><br/>yani gerçekliği artık iktidar yaratıyor, biz kullarına da inanmak düşüyor. cahilliği bu kadar desteklemelerinin nedeni de anlaşılmıştır artık. mllet ne kadar cahilleşirse bu tür haberlerle ikna edilmesi o kadar kolay oluyor.<br/><br/>debe editi: sevgili ekşi sözlük yazarlarını (bkz: <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>) başlığını ve twitter'da #açıklamabekliyoruz hashtag'ini sahiplenmeye davet ediyorum.
    
   entry_writer: linener
 - entry_name: |
@@ -375,8 +351,8 @@ data:
   entry_id: 65050739
   entry_content: |
     
-    bunun 5.17 metre olan versiyonunu michelangelo 1504 yilinda yontmustur.
-    
+    bunun 5.17 metre olan versiyonunu michelangelo 1504 yilinda yontmustur..<br/><br/>(bkz: <a class="b" href="/entry/65082744">başak tetik'in vefatı ve vefa/#65082744</a>)
+   
   entry_writer: cokhaindomdom
 - entry_name: |
     erdoğan gelirse çay vermem
@@ -391,7 +367,7 @@ data:
   entry_id: 65065142
   entry_content: |
     
-    web sitesine bakılınca yazılımcıdan ziyade pidecilerin yapmış olması daha muhtemel gözüken şirket. 500 kurumsal müşteriyi de sayalım: kardeşler ticaret (tüpçü), köyüm ev yemekleri, elektrikçi nazım... şahsen ben ikna oldum..<br/><br/>bas oğlum hazır templateleri, kim bilecek aq.
+    web sitesine bakılınca yazılımcıdan ziyade pidecilerin yapmış olması daha muhtemel gözüken şirket. 500 kurumsal müşteriyi de sayalım: kardeşler ticaret (tüpçü), köyüm ev yemekleri, elektrikçi nazım... şahsen ben ikna oldum..<br/><br/>bas oğlum hazır templateleri, kim bilecek aq.<br/><br/>edit: bu entryynin debe'de ne işi var, çıldırmayın çocuklar.
    
   entry_writer: seabird
 - entry_name: |
