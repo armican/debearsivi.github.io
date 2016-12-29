@@ -23,8 +23,8 @@ data:
   entry_id: 65119713
   entry_content: |
     
-    taksicinin 1lira 25 kuruş para üstünü vereceğine inanmadığım uygulama.
-    
+    taksicinin 1lira 25 kuruş para üstünü vereceğine inanmadığım uygulama..<br/><br/>debe editi: böyle siktiriboktan, başkasının pasıyla gole giden, tek cümle, goygoy entrye oy vereceğinize gidip sözlükte az sayıda kalan bilgi içerikli entryleri onurlandırın.
+   
   entry_writer: wiggin
 - entry_name: |
     iskilipli atıf hoca
@@ -119,7 +119,7 @@ data:
   entry_id: 65108752
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=fakat+m%c3%bczeyyen+bu+derin+bir+tilki">fakat müzeyyen bu derin bir tilki</a>)
+    (bkz:  <a class="b" href="/?q=fakat+m%c3%bczeyyen+bu+derin+bir+tilki">fakat müzeyyen bu derin bir tilki</a>)<br/><br/>.<br/><br/>debe edit: bu vesileyle unutulmaz <a class="b" href="/?q=cumhuriyet">cumhuriyet</a> sanatçısı müzeyyen senar'ı saygıyla anıyorum.<br/>bu başlıkta istisnasız herkesin belirttiği üzere; <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/SKGz-5ZfSmc" title="https://youtu.be/SKGz-5ZfSmc">benzemez kimse sana</a>.<br/><br/>ayrıca, (bkz: <a class="b" href="/?q=debe+editi+yasaklans%c4%b1n+kampanyas%c4%b1">debe editi yasaklansın kampanyası</a>)
    
   entry_writer: the gangbang theory
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 65111081
   entry_content: |
     
-    (bkz:  <a class="b" href="/entry/65110777">#65110777</a>)<br/><br/>sana niye tinerci deniliyor biliyor musun güzel kardeşim ? çünkü sen okuduğunu anlamaktan aciz olduğun halde millete bonzai esprisi yapacak kafadasın. <br/><br/>başlığa bugün yazılanlara sırasıyla bakıyoruz. <br/>ilk entry yorum katmadan bi haber vermiş. <br/>ikinci entry kısa bi analiz sonrası "eğer teklif doğru ise" bu yaşta bi oyuncu için çok iyi demiş. <br/>üçüncüsü sat gitsin sat sat sat demiş.<br/>dördüncü poldi'nin 20 mio'ya değil 10 mio'ya bile rahat rahat satılacağını söylemiş çinlilere giydirmiş. <br/>diğeri sabri esprisi yapmış.<br/>öteki yine teklif doğru ise diye girmiş söze. <br/><br/>yani benim güzel kardeşim bu başlıkta gelip podolski 20 mio euro eder aşağısına satmayın falan diyen kimse yok. aksine on milyona bile satılır diyen var. <br/><br/>anlıyor musun şimdi neden tinerci olduğunu ? biraz daha bilal muamelesi ister misin ?
+    (bkz:  <a class="b" href="/entry/65110777">#65110777</a>)<br/><br/>sana niye tinerci deniliyor biliyor musun güzel kardeşim ? çünkü sen okuduğunu anlamaktan aciz olduğun halde millete bonzai esprisi yapacak kafadasın. <br/><br/>başlığa bugün yazılanlara sırasıyla bakıyoruz. <br/>ilk entry yorum katmadan bi haber vermiş. <br/>ikinci entry kısa bi analiz sonrası "eğer teklif doğru ise" bu yaşta bi oyuncu için çok iyi demiş. <br/>üçüncüsü sat gitsin sat sat sat demiş.<br/>dördüncü poldi'nin 20 mio'ya değil 10 mio'ya bile rahat rahat satılacağını söylemiş çinlilere giydirmiş. <br/>diğeri sabri esprisi yapmış.<br/>öteki yine teklif doğru ise diye girmiş söze. <br/><br/>yani benim güzel kardeşim bu başlıkta gelip podolski 20 mio euro eder aşağısına satmayın falan diyen kimse yok. aksine on milyona bile satılır diyen var. <br/><br/>anlıyor musun şimdi neden tinerci olduğunu ? biraz daha bilal muamelesi ister misin ?<br/><br/>edit: arkadaşımız entry'sini editlemiş çeşitli entry linkleri vermiş. işi sidik yarışına döndürmek istemediğim için uzatmıyorum. <br/>bu entry'nin ilk cümlesinde de dediğim gibi okuduğunu anlamaktan aciz çünkü. adam gitmiş beşiktaşlı bi arkadaşın yazdığı yazıyı, galatasaraylıların bonzai kafası yaşadığını göstermek için referans almış. entry sonundaki koca koca not: bejeke yazısını dahi idrak edememiş. kalan konulara girmeye bile gerek olmadığı için atışmayı burada kesiyorum.
    
   entry_writer: se se ge
 - entry_name: |
@@ -143,7 +143,7 @@ data:
   entry_id: 65114799
   entry_content: |
     
-    optimizasyon..<br/><br/>1 gb ram ile koskoca ipad air'ı nasıl çalıştırıyorsunuz aga siz?
+    optimizasyon..<br/><br/>1 gb ram ile koskoca ipad air'ı nasıl çalıştırıyorsunuz aga siz?<br/><br/>edit: beni sizler yarattınız<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
    
   entry_writer: ok computer
 - entry_name: |
@@ -199,7 +199,7 @@ data:
   entry_id: 65120780
   entry_content: |
     
-     <a class="b" href="/?q=the+untold+history+of+the+united+states">the untold history of the united states</a>'te yanlış hatırlamadıysam seyyid kutup'un insanları üçe ayırdığından bahsediyordu: 1- yöneticiler, 2- ideologlar (teorisyenler), 3- <a class="b" href="/?q=y%c4%b1%c4%9f%c4%b1n">yığın</a>lar.<br/>delikanlı buna atıfta bulunmuş olmalı. "sen güdülen birisi olacaksın. kendi beynin olmayacak. sevmen gerekenleri, nefret etmen gerekenleri, arzularını başkaları belirleyecek<sup class="ab"><a title="(bkz: rıza üretmek)" href="/?q=r%c4%b1za+%c3%bcretmek" data-query="rıza üretmek">*</a></sup>."<br/><br/>sadece <a class="b" href="/?q=bullshit">bullshit</a> demek istemiş de olabilir.
+     <a class="b" href="/?q=the+untold+history+of+the+united+states">the untold history of the united states</a>'te insanların üçe ayrılmasından bahsediliyordu: 1- yöneticiler, 2- ideologlar (teorisyenler), 3- <a class="b" href="/?q=y%c4%b1%c4%9f%c4%b1n">yığın</a>lar.<br/>delikanlı buna atıfta bulunmuş olmalı. "sen güdülen birisi olacaksın. kendi beynin olmayacak. sevmen gerekenleri, nefret etmen gerekenleri, arzularını başkaları belirleyecek<sup class="ab"><a title="(bkz: rıza üretmek)" href="/?q=r%c4%b1za+%c3%bcretmek" data-query="rıza üretmek">*</a></sup>."<br/><br/>sadece <a class="b" href="/?q=bullshit">bullshit</a> demek istemiş de olabilir.<br/>_____________<br/><br/>ek+edit: <br/><a class="b" href="/?q=ruiz">ruiz</a>'in uyarısı üzerine düzeltme gerekliliği doğdu. (kendisine teşekkür ediyorum) bu üçe ayırma olayını yapan kişi <a class="b" href="/?q=leo+strauss">leo strauss</a> imiş. (bkz: <a class="b" href="/entry/12873697">leo strauss/#12873697</a>) üşenenler için bakınız kısmı: "leo strauss insanı üç tabakada ele almıştır: düşünürler, yöneticiler ve yığınlar. <br/>düşünürler devletin varlığını koruyacak düşünceleri bulacaktır, yöneticiler ise bunu yığınlara uygulayacaktır."<br/><br/>belgeselleri çorba ettim galiba. hatırladığım anektod <a class="b" href="/?q=adam+curtis">adam curtis</a> - <a class="b" href="/?q=the+power+of+nightmares">the power of nightmares</a> belgeselindenmiş. bir ket vurma olayı olmuş. bu ket ileri mi vurdu, geri mi vurdu.. neyse.<br/><br/>hazır bu konulara girmişken <a class="b" href="/?q=y%c4%b1%c4%9f%c4%b1n">yığın</a> mığın deyince akla onun adı gelir: <a class="b" href="/?q=gustave+le+bon">gustave le bon</a> - <a class="b" href="/?q=kitleler+psikolojisi">kitleler psikolojisi</a>. <br/><br/>belgesel çorbası yapmışken. <a class="b" href="/?q=the+century+of+the+self">the century of the self</a>'ten: <br/>“babam<sup class="ab"><a title="(bkz: edward bernays)" href="/?q=edward+bernays" data-query="edward bernays">*</a></sup>a göre demokrasi muhteşem bir kavramdı. ama etraftaki bütün kitlelerin güvenilir bir karar verebileceğine inandığını sanmıyorum. çok kolay bir şekilde onlar yanlış kişiye oy verebilir, yanlış şeyi isteyebilirdi. o yüzden yukarıdan yönlendirmek gerekiyordu onları. bir bakıma aydınlanmış <a class="b" href="/?q=despotizm">despotizm</a> diyebiliriz. insanların arzularına ve <a class="b" href="/?q=fark+edilmemi%c5%9f+%c3%b6zlemler">fark edilmemiş özlemler</a>ine, böyle şeylere hitap ediyorsunuz. <a class="b" href="/?q=en+derin+arzular">en derin arzular</a>ına, <a class="b" href="/?q=en+derin+korkular">en derin korkular</a>ına dalıp, onları kendi amaçlarınız uğruna kullanabiliyorsunuz.” ann bernays ( edward bernays'in kızı) (bkz: <a class="b" href="/?q=r%c4%b1za+m%c3%bchendisli%c4%9fi">rıza mühendisliği</a>)
    
   entry_writer: eksantrik forvet
 - entry_name: |
@@ -231,33 +231,9 @@ data:
   entry_id: 65125058
   entry_content: |
     
-    yarın fanatik gazetesinin olası başlığı::<br/>(bkz: <a class="b" href="/?q=cimbom+tuzla-yarak+yedi">cimbom tuzla-yarak yedi</a>)
+    yarın fanatik gazetesinin olası başlığı::<br/>(bkz: <a class="b" href="/?q=cimbom+tuzlayarak+yedi">cimbom tuzlayarak yedi</a>)
    
   entry_writer: manu fernandes
-- entry_name: |
-    28 aralık 2016 dolar kuru
-  entry_id: 65107401
-  entry_content: |
-    
-    işid in iki askerini yakmasına rağmen ayran içip "kimse görmedi ki ehehe hiç bişey söylemezsem geçer gider" diye yönetilen ülkelerin para birimlerine karşı yükselmesi beklenen kurdur..<br/>yükselecektir de.
-   
-  entry_writer: chingon
-- entry_name: |
-    28 aralık 2016 internetin yavaşlaması
-  entry_id: 65128744
-  entry_content: |
-    
-    artık kabak tadı veren uygulamadır..<br/>boku çıkan bir sansürdür.<br/>bu ülkede özgürlük yok <br/>özgür internet hiç yok.<br/>faşizm var.<br/>heil itler...it oğlu itler.
-   
-  entry_writer: iskender i zulkarneyn
-- entry_name: |
-    hepsiburada ilanındaki erotik resim
-  entry_id: 65132398
-  entry_content: |
-    
-    dolaylı yoldan ekşisözlük'te paylaşılan bir porno fotoğraf, kukuyu tanımakta güçlük çeken saf ve merhametli bir suser, sol frame'de kaybolmazsa beyaz yakalıları güne sansasyonla başlatacak içerik barındırır..<br/><br/>evet, kuku. gece gece ne arıyordun da buldun anlatsana biraz...
-   
-  entry_writer: niceliksiz
 - entry_name: |
     tuzlaspor'dan çeyrek düzine gol yemek
   entry_id: 65126508
@@ -311,7 +287,7 @@ data:
   entry_id: 65106567
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=star+wars%27u+abartan+g%c3%b6zl%c3%bckl%c3%bc+ve+sivilceli+ergen">star wars'u abartan gözlüklü ve sivilceli ergen</a>)
+    (bkz:  <a class="b" href="/?q=star+wars%27u+abartan+g%c3%b6zl%c3%bckl%c3%bc+ve+sivilceli+ergen">star wars'u abartan gözlüklü ve sivilceli ergen</a>)<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> : müzist sanat merkezi tarafından yürütülen sosyal sorumluluk projesi ''müzik ile ses ver'' müzik eğitiminde fırsat eşitliği sağlamak için imkanı olmayan okullara enstrüman gönderiyor. <br/><br/>bu bağlamda 8 ocak 2017 pazar günü <a class="b" href="/?q=garaj+istanbul">garaj istanbul</a>'da destek için etkinlik düzenlenecek. biliyorum havalar berbat, her yerde emniyet tehlikesi var ama en azından linki bile paylaşsanız çocuklar için bir şey yapmış olursunuz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/events/717660525067037/?ti=cl" title="https://www.facebook.com/events/717660525067037/?ti=cl">müzik ile ses ver @garajistanbul</a>
    
   entry_writer: karmento
 - entry_name: |
@@ -367,7 +343,7 @@ data:
   entry_id: 65125325
   entry_content: |
     
-    az evvel tuzlasporlu bir oyuncuya insanlık dışı bir faul yaptı ve sanırım yüzüne tükürdü. bakalım günlerce quaresma konuşanlar bundan ne kadar bahsedecek. rezil adam..<br/><br/>edit: tükürük olayının çok net olmadığını söyleyerek videoyu <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/XiqxBRwU7d0" title="https://youtu.be/XiqxBRwU7d0">şuraya</a> iliştireyim.
+    az evvel tuzlasporlu bir oyuncuya insanlık dışı bir faul yaptı. bakalım günlerce quaresma konuşanlar bundan ne kadar bahsedecek. rezil adam..<br/><br/>edit: tükürük olayının çok net olmadığını düşünerek kaldırdım. videoyu da <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/XiqxBRwU7d0" title="https://youtu.be/XiqxBRwU7d0">şuraya</a> iliştireyim.
    
   entry_writer: skender
 - entry_name: |
@@ -391,7 +367,7 @@ data:
   entry_id: 65114344
   entry_content: |
     
-    kendisini sadece sol frame'de `recep tayyip erdoğan (1,5b)` şeklinde görmek istiyorum artık.
-    
+    kendisini sadece sol frame'de `recep tayyip erdoğan (1,5b)` şeklinde görmek istiyorum artık..<br/><br/>edit: <br/>izmir'e yerleşmek isteyen yazılımcılara bir faydamız olur belki:<br/>(bkz: <a class="b" href="/entry/65148914">#65148914</a>)
+   
   entry_writer: victor von doom
 ---
