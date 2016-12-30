@@ -79,7 +79,7 @@ data:
   entry_id: 65157728
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=beyler+ilk+foto%c4%9fraf%c4%b1+%c3%a7ekelim">beyler ilk fotoğrafı çekelim</a>)<br/><br/>(bkz: <a class="b" href="/?q=sonra+doldururuz+rak%c4%b1lar%c4%b1">sonra doldururuz rakıları</a>)
+    (bkz:  <a class="b" href="/?q=beyler+ilk+foto%c4%9fraf%c4%b1+%c3%a7ekelim">beyler ilk fotoğrafı çekelim</a>)<br/><br/>(bkz: <a class="b" href="/?q=sonra+doldururuz+rak%c4%b1lar%c4%b1">sonra doldururuz rakıları</a>)<br/><br/>debe editi: (bkz: <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>)
    
   entry_writer: hassektir
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 65143716
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=valla+galileoyu+%c3%b6zledik">valla galileoyu özledik</a>)
+    (bkz:  <a class="b" href="/?q=valla+galileoyu+%c3%b6zledik">valla galileoyu özledik</a>)<br/><br/>edit: teşekürler ekşi, keşke başlığın birinci entrysine hakettiği değeri verseydiniz.<br/><br/>galileonun kemiklerini sızlattılar ama tepkimiz çok güzeldi. astronominin babası 8 ocakta 453. yaşına girecek; kutlu olsun, selam olsun.<br/><br/>dün itiraf başlığında fark ettiğim meseleye değineyim. arkadaşlar neden türkçeyi doğru kullanmıyoruz? basit kuralları bile uygulamıyoruz/uygulayamıyoruz. söz konusu başlıktaki entylerin yarıya yakınında <a class="b" href="/?q=%c5%9fey">şey</a> bitişik yazılmıştı. bize yakışmıyor.<br/><br/><a class="b" href="/?q=%c5%9fey">şey</a> sözcüğü her zaman ayrı yazılır.<br/><br/>bir şey (doğru) birşey (yanlış)<br/>her şey (doğru) herşey (yanlış)<br/>çok şey (doğru) çokşey (yanlış)<br/>hiçbir şey (doğru) hiçbirşey (yanlış)
    
   entry_writer: insannn
 - entry_name: |
@@ -131,14 +131,6 @@ data:
    
   entry_writer: we were soldiers
 - entry_name: |
-    ahmet mahmut ünlü
-  entry_id: 65140644
-  entry_content: |
-    
-    "ihtiyaçtan fazlasını verin." diye apaçık ayet varken "ne var amk hoca diye parası olamaz mı?" diye savunma yapan moronları ortaya çıkartan sakallıdır.  <br/><br/>ben hep söylüyorum cübbeli gibilerin bir suçu yok. bu kadar malı bir arada görse kim olsa sömürür. benim için hava hoş hacı. nasıl olsa kimse beni allah ile kandıramaz, badeleyemez, çoluğumu çocuğumu hiçbir şeyh kucağında zıplatamaz. bunların hepsi sizin başınıza geliyor, siz düşünün. <br/><br/>ha olur da ben kendi halimde yaşarken alanıma girerseniz o zaman ağzınızı yüzünüzü sikerim.
-   
-  entry_writer: napcanlannapcan
-- entry_name: |
     tbmm'de yemek fiyatlarının çok ucuz olması
   entry_id: 65154989
   entry_content: |
@@ -147,7 +139,7 @@ data:
    
   entry_writer: kahvelikoyunkavalcisi
 - entry_name: |
-    bugün metrobüste yanıma oturan sarı şemsiyeli kız
+    metrobüsteki sarı şemsiyeli kız
   entry_id: 65137022
   entry_content: |
     
@@ -191,7 +183,7 @@ data:
   entry_id: 65141035
   entry_content: |
     
-    şahsımdır.  <br/><br/>kusura bakmayın da çüküm o kadar değersiz değil, beni al üstüne bir de para vereyim oldu amk. <br/><br/>norveç'in isviçre'ye üstüne para vererek iteklediği çöp müyüm lan ben.
+    şahsımdır.  <br/><br/>kusura bakmayın da çüküm o kadar değersiz değil, beni al üstüne bir de para vereyim oldu amk. <br/><br/>norveç'in isveç'e üstüne para vererek itelediği çöp müyüm lan ben.<br/><br/>edit: gelen 27373 mesaj ile uyarmış arkadaşlar, isviçre değil isveç imiş. ama ülke kuruyorsun, orjinal, ayırt edici 1 isim koymamışsın; suç benim mi şimdi yani :/<br/><br/>ha bir de debe'ye girmiş bu. 5 yıldır yazıyorum burda, kayıtlı kullanıcı olarak 9. yılım falan. debe'ye giren ilk ve tek entry'm 2 hafta sonra dönüp baktığımda "bunu yazan aklımı sikeyim" diyeceğim türden 1 şey. utanç duvarı kitlemişsiniz bana adiler :(
    
   entry_writer: materyalist imam
 - entry_name: |
@@ -239,7 +231,7 @@ data:
   entry_id: 65141200
   entry_content: |
     
-    bir hürriyet haberi başlığı. kişiye özel habercilik... muazzam!!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/15727262_10154502084368580_7871824047498744473_n.jpg?oh=c1746515e7d56e4c3fc0e2ceae905966&oe=58ED73337333" title="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/15727262_10154502084368580_7871824047498744473_n.jpg?oh=c1746515e7d56e4c3fc0e2ceae905966&oe=58ED73337333">https://scontent-amt2-1.xx.fbcdn.net/…6&oe=58ed73337333</a>
+    bir hürriyet haberi başlığı. kişiye özel habercilik... muazzam!!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Kaplanseren/status/814419076999217152" title="https://twitter.com/Kaplanseren/status/814419076999217152">https://twitter.com/…eren/status/814419076999217152</a>
    
   entry_writer: mir
 - entry_name: |
@@ -271,7 +263,7 @@ data:
   entry_id: 65156378
   entry_content: |
     
-    tüm sigara içen sözlük yazarlarına çağrıda bulunarak başlattığım zirve. yaklaşık 16 yıldır günde bir paket sigara içen biri olarak kendime 1 ocak 2017 tarihini hedef aldım. bu tarihten sonra artık sigarayı gelin bırakalım. şu an allen carr'ın kitabını okumaya başladım. tahminim 31 aralık'ta kitabı bitirmiş olurum. ve son sigaramı da gece 11 gibi içer artık o sigaranın sönüşüyle birlikte benim için yeni bir dönem başlar.  <br/>bunu buraya taşımamdaki amaç bu yolda yalnız kalmamak ve birbirimize destek sağlamak. katılmak isteyenler başlığa destek verirse sevinirim. başlığı sıkça editleyeceğim.
+    tüm sigara içen sözlük yazarlarına çağrıda bulunarak başlattığım zirve. yaklaşık 16 yıldır günde bir paket sigara içen biri olarak kendime 1 ocak 2017 tarihini hedef aldım. bu tarihten sonra artık sigarayı gelin bırakalım. şu an allen carr'ın kitabını okumaya başladım. tahminim 31 aralık'ta kitabı bitirmiş olurum. ve son sigaramı da gece 11 gibi içer artık o sigaranın sönüşüyle birlikte benim için yeni bir dönem başlar.  <br/>bunu buraya taşımamdaki amaç bu yolda yalnız kalmamak ve birbirimize destek sağlamak. katılmak isteyenler başlığa destek verirse sevinirim. başlığı sıkça editleyeceğim.<br/><br/><a class="b" href="/?q=edit">edit</a> 1: entry'i debeye taşıyan ve gerek özel mesaj, gerekse başlık altında destek veren herkese teşekkürler.
    
   entry_writer: bagimsiz aday
 - entry_name: |
@@ -335,7 +327,7 @@ data:
   entry_id: 65136978
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=%c3%a7ok+iyiydin+a%c5%9fk%c4%b1m">çok iyiydin aşkım</a>)
+    (bkz:  <a class="b" href="/?q=%c3%a7ok+iyiydin+a%c5%9fk%c4%b1m">çok iyiydin aşkım</a>)<br/><br/>debedit: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/hadfj3TXYCU" title="https://youtu.be/hadfj3TXYCU">öldürülen hayalleriniz için</a>
    
   entry_writer: postmodern
 - entry_name: |
@@ -375,7 +367,7 @@ data:
   entry_id: 65141357
   entry_content: |
     
-    oncelikle (bkz:  <a class="b" href="/?q=tesla+autopilot">tesla autopilot</a>)<br/><br/>yaklasik 8 aydir <a class="b" href="/?q=tesla+model+x">tesla model x</a> kullaniyorum. aracim ilgili videoda kullanilan 8.0 versiyonuna (ap1 de deniyor) sahip. (bu en gelismis versiyon degil, gectigimiz ay ap2 duyuruldu, ekstra hardware gerektigi icin sadece yeni teslalarda var)<br/><br/>yazilanlari okudum, cehalet akiyor. fake diyenler var, mumkun degil diyen var, turkiye'de olmaz diyen var, var oglu var. kisaca diger hemen her konuda oldugu gibi bilgi yok, fikir var. <br/><br/>videodaki uyariyi su ana dek uc defa yedim. tesla'nin yazilimi eger ondeki araca yaklasma hiziniz tehlikeli sekilde artmissa uyari veriyor. eger yeterince hizli tepki verip fren yaparsaniz her sey yolunda ama tepki sureniz kazaya sebep olacak kadar yavassa bu sefer kendisi otomatik fren yapiyor. iddia filan degil bu, fact. <br/><br/>ayni sekilde yazilim ap 7.0 yazilimi sayesinde ondeki aracin onundeki araci da gorebildigi icin (radar sinyallerini kullanarak) ayni "tehlikeli sekilde yakinlasma" hesabini o araclar icin de yapabiliyor ve "bak ondeki araclar aniden duracak" diye onceden sizi uyarabiliyor. <br/><br/>ha bu yeni bir sey de degil, videosu internete yeni dustu de unlu oldu o yuzden haberdarsiniz.<br/><br/>turkiye meselesine gelince, turkiye'de de ayni sekilde calisir. hic kafanizi yormayin. siz once tesla'nin turkiye'ye official olarak gelmesini saglayin, derdiniz o olsun.
+    oncelikle (bkz:  <a class="b" href="/?q=tesla+autopilot">tesla autopilot</a>)<br/><br/>yaklasik 8 aydir <a class="b" href="/?q=tesla+model+x">tesla model x</a> kullaniyorum. aracim ilgili videoda kullanilan 8.0 versiyonuna (ap1 de deniyor) sahip. (bu en gelismis versiyon degil, gectigimiz ay ap2 duyuruldu, ekstra hardware gerektigi icin sadece yeni teslalarda var)<br/><br/>yazilanlari okudum, cehalet akiyor. fake diyenler var, mumkun degil diyen var, turkiye'de olmaz diyen var, var oglu var. kisaca diger hemen her konuda oldugu gibi bilgi yok, fikir var. <br/><br/>olm siz ne acaip bir nesilsiniz yahu boyle ? olgulardan suphe duymak eyvallah, baslangic olarak mukemmel de hemen sonrasinda neden sapitiyor ve bilgi sahibi olmak ve sonra cikarim yapmak yerinde direkt iskembe-i kubraniza baglayip "olmeaz len o oylea" yi yapistiriyorsunuz ? cins misiniz olm siz ?<br/><br/>videodaki uyariyi su ana dek uc defa yedim. bir an icin sagima baktigimda ondeki aracin ani fren yapmasi sebebi ile yedim ornegin. tesla'nin yazilimi eger ondeki araca yaklasma hiziniz tehlikeli sekilde artmissa uyari veriyor. eger yeterince hizli tepki verip fren yaparsaniz her sey yolunda ama tepki sureniz kazaya sebep olacak kadar yavassa bu sefer kendisi otomatik fren yapiyor. iddia filan degil bu, fact. dunya uzerinde autopilot'a sahip yuzlerce teslanin her gun yaptigi bir sey.<br/><br/>ayni sekilde yazilim ap 7.0 yazilimi sayesinde ondeki aracin onundeki araci da gorebildigi icin (radar sinyallerini kullanarak) ayni "tehlikeli sekilde yakinlasma" hesabini o araclar icin de yapabiliyor ve "bak ondeki araclar aniden duracak" diye onceden sizi uyarabiliyor. <br/><br/>ha bu yeni bir sey de degil, videosu internete yeni dustu de unlu oldu o yuzden haberdarsiniz.<br/><br/>turkiye meselesine gelince, turkiye'de de ayni sekilde calisir. hic kafanizi yormayin. siz once tesla'nin turkiye'ye official olarak gelmesini saglayin, derdiniz o olsun. <br/><br/>neden sorun degil ? cunku autopilot sizin tampon tampona gittiginizin farkinda, sadece dunyada bir turkiye'de mi tampon tampona trafik var saniyorsunuz ? aletin derdi tamponlarin arasinda 30cm mesafe kalmasi degil, sizin tamponun baska bir tampona yaklasma hizi. saatte 1 -2 km hiz ile giderken diger araba 30cm otenizde diye yaygara koparmiyor yani. ondeki arac duramayacaginiz kadar ani sekilde durursa uyariyor. yani siz dert etmeyin, turkiye'de de mukemmel sekilde calisir.
    
   entry_writer: guru
 - entry_name: |
