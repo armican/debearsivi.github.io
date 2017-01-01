@@ -7,7 +7,7 @@ data:
   entry_id: 65191947
   entry_content: |
     
-    izmir  <a class="b" href="/?q=konak+meydan%c4%b1">konak meydanı</a>nda vuku bulan olay;<br/><br/>“dünyayı kan gölüne çeviren <a class="b" href="/?q=hristiyan">hristiyan</a>ların bayramını kutlamıyoruz” yazan bildirileri dağıtan şahıslar,<br/><br/>"siz kız çocuklarını yetişkin erkeklere peşkeş çeken yasaya alkış tutar, ensar vakfı’nda çocuklar tecavüze uğradığında göz yumarsınız. <a class="b" href="/?q=alada%c4%9f">aladağ</a>’da 12 kız çocuğu yanarak öldüğünde neredeydiniz" sorusunu ise cevapsız bıraktı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=GBJMpt1p2FI" title="https://www.youtube.com/watch?v=GBJMpt1p2FI">kaynak 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sendika14.org/2016/12/izmirde-yilbasi-kutlamayin-diyen-gericilere-halk-mudahalesi/" title="http://sendika14.org/2016/12/izmirde-yilbasi-kutlamayin-diyen-gericilere-halk-mudahalesi/">kaynak 2</a><br/><br/>peki yılbaşı gerçekten hristiyan bayramı mı sorusunun cevabı aşağıdaki gibidir.<br/><br/><a class="b" href="/?q=y%c4%b1lba%c5%9f%c4%b1">yılbaşı</a>: yılbaşı, herhangi bir takvime göre içinde bulunulan yılın bitimi ve <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Yılbaşı" title="https://tr.wikipedia.org/wiki/Yılbaşı">yeni yılın başlangıcı.</a> <br/><br/><a class="b" href="/?q=noel">noel</a>, her yıl 25 aralık tarihinde isa'nın doğumunun kutlandığı <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Noel" title="https://tr.wikipedia.org/wiki/Noel">hristiyan bayramı.</a>
+    debe edit :  <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a> liderliğinde <a class="b" href="/?q=ulus+devlet">ulus devlet</a> anlayışını kazanan <a class="b" href="/?q=t%c3%bcrk+milleti">türk milleti</a>ne günümüzde arap <a class="b" href="/?q=emperyalizm">emperyalizm</a>'i zorla dayatılmak istenmektedir. <a class="b" href="/?q=ortado%c4%9fu">ortadoğu</a> dahil bu çoğrafyanın aydınlığı için reçete <a class="b" href="/?q=t%c3%bcrkiye+cumhuriyeti">türkiye cumhuriyeti</a>nin kuruluş esaslarında ve herşeyden önce <a class="b" href="/?q=laiklik">laiklik</a> ilkesindedir.<br/><br/>izmir <a class="b" href="/?q=konak+meydan%c4%b1">konak meydanı</a>nda vuku bulan olay;<br/><br/>“dünyayı kan gölüne çeviren <a class="b" href="/?q=hristiyan">hristiyan</a>ların bayramını kutlamıyoruz” yazan bildirileri dağıtan şahıslar,<br/><br/>"siz kız çocuklarını yetişkin erkeklere peşkeş çeken yasaya alkış tutar, ensar vakfı’nda çocuklar tecavüze uğradığında göz yumarsınız. <a class="b" href="/?q=alada%c4%9f">aladağ</a>’da 12 kız çocuğu yanarak öldüğünde neredeydiniz" sorusunu ise cevapsız bıraktı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=GBJMpt1p2FI" title="https://www.youtube.com/watch?v=GBJMpt1p2FI">kaynak 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sendika14.org/2016/12/izmirde-yilbasi-kutlamayin-diyen-gericilere-halk-mudahalesi/" title="http://sendika14.org/2016/12/izmirde-yilbasi-kutlamayin-diyen-gericilere-halk-mudahalesi/">kaynak 2</a><br/><br/>peki yılbaşı gerçekten hristiyan bayramı mı sorusunun cevabı aşağıdaki gibidir.<br/><br/><a class="b" href="/?q=y%c4%b1lba%c5%9f%c4%b1">yılbaşı</a>: yılbaşı, herhangi bir takvime göre içinde bulunulan yılın bitimi ve <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Yılbaşı" title="https://tr.wikipedia.org/wiki/Yılbaşı">yeni yılın başlangıcı.</a> <br/><br/><a class="b" href="/?q=noel">noel</a>, her yıl 25 aralık tarihinde isa'nın doğumunun kutlandığı <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Noel" title="https://tr.wikipedia.org/wiki/Noel">hristiyan bayramı.</a>
    
   entry_writer: aslagelmeyecektelefonubekleyenadam
 - entry_name: |
@@ -23,8 +23,8 @@ data:
   entry_id: 65196084
   entry_content: |
     
-    "özel isimlere ve kuruyemiş'e gelen çekim ekleri kesme işaretiyle ayrılır." kuralını akıllara getiren söz öbeği.
-    
+    "özel isimlere ve kuruyemiş'e gelen çekim ekleri kesme işaretiyle ayrılır." kuralını akıllara getiren söz öbeği..<br/>.<br/>.<br/>.<br/><br/>teşekkür editi: ilk debeye girişim yeni yılın ilk gününe denk geldiği için mutluyum (bu kadar terörün olduğu bir memlekette ne kadar olabilecekse?!) herkese teşekkür ederim.<br/><br/>unutmamak gerek editi: (bkz: <a class="b" href="/?q=22+aral%c4%b1k+2016+%c4%b1%c5%9fid%27in+2+askerimizi+%c5%9fehit+etmesi">22 aralık 2016 ışid'in 2 askerimizi şehit etmesi</a>)<br/><br/>iyi dilek editi: yeni yıl başta ülkemizde olmak üzere, tüm dünyada bişeylerin değiştiği bir yıl olur umarım. herkese huzur, sağlık, sevgi<sup class="ab"><a title="(bkz: selcen benimle evlenir misin)" href="/?q=selcen+benimle+evlenir+misin%3f" data-query="selcen benimle evlenir misin">*</a></sup> ve para dolu bir yıl diliyorum.
+   
   entry_writer: ben bi arkadasa bakip cikicam
 - entry_name: |
     1 ocak 2017 ortaköy gece kulübü saldırısı
@@ -59,19 +59,11 @@ data:
    
   entry_writer: sen bana birini android
 - entry_name: |
-    yurtdışına yerleşenlerin %99'u geri dönmek istiyor
-  entry_id: 65212447
-  entry_content: |
-    
-    (bkz:  <a class="b" href="/?q=senin+ben+g%c3%b6zlerini+ve+de+g%c3%b6zlemini+sikeyim">senin ben gözlerini ve de gözlemini sikeyim</a>)
-   
-  entry_writer: erho
-- entry_name: |
     utanmadan otomatik vitesli araç kullanan erkek
   entry_id: 65202264
   entry_content: |
     
-    vites kolu tutmaktan hoşlanan gizli ibnelere dert olmuştur..<br/><br/>edit: sözkonusu entry manuel seven bir yazar tarafından manuel kullandığı için diğerlerinin erkekliğini sorgulayabileceğini düşünen bir andavala ağzının payını verme amaçlı girilmiştir. erkekliği , insanlığı saçma sapan parametrelerle ölçen yurdum insanına duyrulur.<br/><br/>edit 2: entry sildirmişiz ama neyse ki tedarikliydik. <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/njlDQR.png" title="http://i.hizliresim.com/njlDQR.png">buyrun</a>
+    vites kolu tutmaktan hoşlanan gizli ibnelere dert olmuştur..<br/><br/>edit: sözkonusu entry manuel seven bir yazar tarafından manuel kullandığı için diğerlerinin erkekliğini sorgulayabileceğini düşünen bir andavala ağzının payını verme amaçlı girilmiştir. erkekliği , insanlığı saçma sapan parametrelerle ölçen yurdum insanına duyrulur.<br/><br/>edit 2: entry sildirmişiz ama neyse ki tedarikliydik. <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/njlDQR.png" title="http://i.hizliresim.com/njlDQR.png">buyrun</a><br/><br/>debe editi: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/artmyb/" title="https://www.instagram.com/artmyb/">sanat</a> dolu bir yıl diliyorum herkese efenim. (reklamımı yapmasam olmazdı amk)
    
   entry_writer: mrgenius
 - entry_name: |
@@ -90,14 +82,6 @@ data:
     ulan villayı okuduktan sonra konudan uzaklaştım şöyle bi uzaklara daldım sonra dedim ki ulan villanız var derdinizi sikeyim..<br/>yazılan yerde donanım haber hani şu ölücüleri meşhur olan site, bense böyle bi hikayem olsa sözlüğe yazardım kirada oturuyorum buda mı tesadüf.<br/>biliyorum lan villa babasının ama adamın evde 325 milyar yaş 27 aga.
    
   entry_writer: eligio
-- entry_name: |
-    erdoğan'ın başkanlıktan sonra yükseleceği mevki
-  entry_id: 65192320
-  entry_content: |
-    
-    olum çok korkuyom lan. bu adam kendini allah ilan eder mi eder. o etsin sikimde değilde bide kocaman bir tebaada buna inanır aq..<br/><br/>ürküten mevki.<br/><br/>edit : imla
-   
-  entry_writer: utopik penguen
 - entry_name: |
     2017-2023 yılları türkiye'nin altın yılları olacak
   entry_id: 65194397
@@ -130,14 +114,6 @@ data:
     bu tarkan'la ilgili çok kötü bir anım var..<br/><br/>dağın yamacına kurulu küçük bir karakolda görev yapıyorum . tezkereye sayılı günler var. akşam olmuş görevden yorgun argın dönüp yemekhanede haberleri izliyoruz. yaklaşık 5-6 kişiyiz. yücel adında çok makara bir devrem var. esprili çok.<br/><br/>neyse, haberlerde spiker tarkan'ın konserinden bahsediyor. tarkan yine ortalığı yıkıp geçti kızlar çıldırdı falan diyor. kızlar tarkan'ı görünce ağlayarak çığlık atıyor falan. kamera onları gösteriyor.<br/><br/>o ara kadraja bir kız giriyor ve tel örgüye sarılıp ; ''tarkaaaaaaaaaaaaaaaaaaannnnnnnn '' diye bağırıyor. <br/><br/>o öyle bağırırken bizim yücel de espri olsun diye '' sik beniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii '' diye kızın lafını tamamlıyor.<br/><br/>bi dönüyorum komutan arkada.<br/><br/>e yuhhh!!<br/><br/>''dikkat'' çekip herkesi ayağa kaldırıyorum.<br/><br/>yücel kalkarken sandalyeyi düşürüyor. yücel şokta.<br/><br/>komutan yücel'e bakıyor, yücel komutana. ben komutana, tarkan hepimize.<br/><br/>'' kim siksin seni asker? bu çığlık ne lan?''<br/><br/>- yücel kara samsun emret komutanım<br/><br/>+ kim siksin seni dedim? cevap ver.<br/><br/>- komutanım şey<br/><br/>yücel kekelerken devreye girip ; '' komutanım ben açıklayabilir miyim '' diye yücel'i kurtarmak istiyorum ama komutan lafımı yarıda kesince iş iyice boka sarıyor.<br/><br/>'' komutanım ben<br/><br/>- ney, sen mi ?<br/><br/>+ şey yani komutanım yücel onu derken bana demek istemedi tabi.<br/><br/>- yücel kimin sikmesini istiyor. delirtmeyin adamı. söyle çabuk.<br/><br/>+ tarkan komutanım. ( burada kendimi tutamayıp gülüyorum )<br/><br/>- yücel doğru mu bu? tarkan'a mı siktirmek istiyon kendini?<br/><br/>+ komutanım olay sandığınız gi<br/><br/>derken çat çat 2 tokat yiyiyor yücel ve seri bir şekilde durumu izah ediyor. karakol komutanı bıyık altından yücelin bu salaklığına gülse de yine taviz vermeyip tezkere alana kadar nöbet cezası veriyor. bana da 1 hafta veriyor. neden milleti '' sik beniiiiii '' diye bağırtıyomuşum. bu nasıl çavuşlukmuş.. <br/><br/>ne zaman kuzu kuzu şarkısı çıksa yücel iç çekiyor. zillerini sikeyim diye sövüyor. sanki suçlu tarkan anasını satim.
    
   entry_writer: sessiz sakin suskun adam
-- entry_name: |
-    1 ocak 2017 reina saldırısının faili
-  entry_id: 65211809
-  entry_content: |
-    
-    bildiri dağıtanlar ve camide fetva verdirtenler.
-    
-  entry_writer: gelecomp
 - entry_name: |
     ukrayna'ya gidip köyden kız alıp evlenmek
   entry_id: 65202115
@@ -251,14 +227,6 @@ data:
    
   entry_writer: 80 e 4
 - entry_name: |
-    türkiye'de yaşayıp noel kutlayan insan
-  entry_id: 65210807
-  entry_content: |
-    
-    ananızı sikeyim orospu çocukları. ülkenin anasını siktiniz, hala millete karışıyorsunuz cahil köpekler.
-    
-  entry_writer: ben deli degilim
-- entry_name: |
     yılbaşı gecesi evde oturan ezik ve yalnız insan
   entry_id: 65192426
   entry_content: |
@@ -295,7 +263,7 @@ data:
   entry_id: 65192342
   entry_content: |
     
-    yardakçısı ismail alpen ile birlikte 2013 yılı ortalarında, bursa'nın yerel bi gazetesinde röportaj vermişlerdir. röportajda her türk girişimci, dijital uzman gibi "yerli bilgisayar/telefon uygulamaları üretme ve devlet desteği" konusuna vurgu yapmışlardır. tesadüfen aynı dönem(gezi olaylarından dolayı) tayyor paşa twitter'dan hoşnut olmadığını belirtip(eylemciler twitter'dan örgütleniyor diye) "yerli ve milli twitter yapalım" gibi saçma bi açıklama yapmıştır..<br/><br/>he işte bu ve yardıkçısı olan ismail alpen, yalama ve sıvama işlerine tayyorun o açıklamasından sonra başladı. çünkü açıklamayı üstüne alındı bu iki dingil. zannettiler ki, o röportajı tayyor okudu, girişimcilerin twitter yapmasını istiyorlar. <br/><br/>tayyorun açıklamasından takribi bir hafta sonra tekrar aynı gazeteye röportaj verip, bu sefer "yerli twitter yapmaya hazırız" dediler. sikine takan olmadı tabii. ardından bu iki eleman, aynı gazetenin televizyonunda torpille program ayarlayıp, program yapmaya başladılar. her hafta bu iki yardakçı, yanlarına uludağ sözlük moderatörü ve aynı zamanda ismail alpen'in uludağ sözlük'teki ortağı olan gökhan gürleyandağ'ı program moderatörü olarak alıp hükümeti sıvamaya başladılar. programın bütün bölümlerinde aynı konular işlendi. bakın istisnasız her bölüm aynı şeyler. bi hafta "whatsapp 17 milyara satıldı, biz niye benzer bi whatsapp yapmayalım" <br/>öbür hafta twitter'ın cürosu ve biz niye twitter yapmayalım sorusu. başka bir hafta başka bir uygulamayı örnek gösterip yine aynı soru. <br/><br/>programlar devam ettiği dönemde sümeyyenin trolleri ifşa oldu. bu sefer bi programda yalnızca bunu konu alıp, akıllarınca hükümete, sosyal medyadaki cemaatçi trolleri fişlediler. yine sikine takan olmadı. yine o sıralarda inci sözlükte paylaşılan bi içerikten dolayı serkan inci gözaltına alındı. tabii herkes taşak geçmeye başladı adamlarla. sen git o kadar yalakalık yap, ona rağmen içeri alın. olacak iş mi? ifadesinde de "bakın programda ak partiyi böyle böyle övüyorum, ben niye ak parti karşıtı olayım" demişliği var. ertesi gün serbest kaldığında da zaten inci sözlük'e de, uludağ sözlük'e de ağır değişikliklere gidip, sözlüğü muhaliflerden temizlediler. şimdi girin bakın iki sözlüğe, ikisinde de ak partili ve mhpli trollerden başka sikim yok. <br/><br/>adamların mantığı şu; "acun yalakalık yapıp kanal sahibi olduysa biz da yalakalık yapıp twitter gibi bi uygulama sahibi olabiliriz." yesinler senin mantığını. ha bu sırada gökhan gürleyendağ bu iki yardakçının ne mal olduğunu anlayıp tüm ilişkisini kesiyor adamlarla. <br/><br/>yıl olacak 2017, hala serkan inci ve ismail alpen amacına ulaşamamış durumda. 3 senedir yalıyorlar, dilleri artık körelmiş vaziyette ama hala ak partiden istedikleri desteği alamadılar. bunun siniri ile de sürekli sağa sola saldırmaya devam ediyorlar. şu an hala istediklerini alamadıkları için twitter'ın ve ekşi sözlük'ün ne kadar kötü ortamlar olduğunu söylüyolar. niye? çünkü mart ayında sözlükte çıkan isyanda, yüzlerce yazarın başka sözlüğe taşındığını, sonra tekrar döndüğünü gördüler. ekşi sözlük tamamen kapatılırsa yazarların birçoğunu uludağ sözlük'e nakledebilme rüyasıyla ekşi sözlük'ü aşağılamaya başladılar. ne diyeyim, kolay gelsin. serkan inci de, ismail alpen de ömürleri boyunca başkasının adamı, başkasının yardakçısı olmaya devam edecek tiplerdir. umarım bu zavallılıkla ölüp giderler.
+    yardakçısı ismail alpen ile birlikte 2013 yılı ortalarında, bursa'nın yerel bi gazetesinde röportaj vermişlerdir. röportajda her türk girişimci, dijital uzman gibi "yerli bilgisayar/telefon uygulamaları üretme ve devlet desteği" konusuna vurgu yapmışlardır. tesadüfen aynı dönem(gezi olaylarından dolayı) tayyor paşa twitter'dan hoşnut olmadığını belirtip(eylemciler twitter'dan örgütleniyor diye) "yerli ve milli twitter yapalım" gibi saçma bi açıklama yapmıştır..<br/><br/>he işte bu ve yardıkçısı olan ismail alpen, vama işlerine tayyorun o açıklamasından sonra başladı. çünkü açıklamayı üstüne alındı bu iki zat. zannettiler ki, o röportajı tayyor okudu, girişimcilerin twitter yapmasını istiyorlar. <br/><br/>tayyorun açıklamasından takribi bir hafta sonra tekrar aynı gazeteye röportaj verip, bu sefer "yerli twitter yapmaya hazırız" dediler. ciddiye alan olmadı tabii. ardından bu iki eleman, aynı gazetenin televizyonunda torpille program ayarlayıp, program yapmaya başladılar. her hafta bu iki yardakçı, yanlarına uludağ sözlük moderatörü ve aynı zamanda ismail alpen'in uludağ sözlük'teki ortağı olan gökhan gürleyandağ'ı program moderatörü olarak alıp malum partiyi sıvamaya başladılar. programın bütün bölümlerinde aynı konular işlendi. bakın istisnasız her bölüm aynı şeyler. bi hafta "whatsapp 17 milyara satıldı, biz niye benzer bi whatsapp yapmayalım" <br/>öbür hafta twitter'ın cürosu ve biz niye twitter yapmayalım sorusu. başka bir hafta başka bir uygulamayı örnek gösterip yine aynı soru. <br/><br/>programlar devam ettiği dönemde sümeyyenin trolleri ifşa oldu. bu sefer bi programda yalnızca bunu konu alıp, akıllarınca hükümete, sosyal medyadaki cemaatçi trolleri fişlediler. hala ciddiye alan yok. yine o sıralarda inci sözlükte paylaşılan bi içerikten dolayı serkan inci gözaltına alındı. tabii herkes alay etmeye başladı adamlarla. sen git o kadar yalakalık yap, ona rağmen içeri alın. olacak iş mi? ifadesinde de "bakın programda ak partiyi böyle böyle övüyorum, ben niye ak parti karşıtı olayım" demişliği var. ertesi gün serbest kaldığında da zaten inci sözlük'e de, uludağ sözlük'e de ağır değişikliklere gidip, sözlüğü muhaliflerden temizlediler. şimdi girin bakın iki sözlüğe, ikisinde de ak partili ve mhpli trollerden başka sikim yok. <br/><br/>adamların mantığı şu; "acun sıvacılık yapıp kanal sahibi olduysa biz da aynı şekilde twitter gibi bi uygulama sahibi olabiliriz." yesinler senin mantığını. ha bu sırada gökhan gürleyendağ bu iki yardakçının ne mal olduğunu anlayıp tüm ilişkisini kesiyor adamlarla. <br/><br/>yıl olacak 2017, hala serkan inci ve ismail alpen amacına ulaşamamış durumda. 3 senedir her şeyini(?) verdiler ama hala ak partiden istedikleri desteği alamadılar. bunun siniri ile de sürekli sağa sola saldırmaya devam ediyorlar. şu an hala istediklerini alamadıkları için twitter'ın ve ekşi sözlük'ün ne kadar kötü ortamlar olduğunu söylüyolar. niye? çünkü mart ayında sözlükte çıkan isyanda, yüzlerce yazarın başka sözlüğe taşındığını, sonra tekrar döndüğünü gördüler. ekşi sözlük tamamen kapatılırsa yazarların birçoğunu uludağ sözlük'e nakledebilme rüyasıyla ekşi sözlük'ü aşağılamaya başladılar. ne diyeyim, kolay gelsin. serkan inci de, ismail alpen de ömürleri boyunca başkasının adamı, başkasının yardakçısı olmaya devam edecek tiplerdir. umarım bu zavallılıkla ölüp giderler.
    
   entry_writer: taytsiz kral
 - entry_name: |
@@ -326,8 +294,6 @@ data:
     iç anadolu insanının chp önyargısını kıracak şey
   entry_id: 65203681
   entry_content: |
-    
-    bakınız bile veremeyen mallara dert olmuştur.
     
   entry_writer: gelecomp
 - entry_name: |
@@ -367,7 +333,7 @@ data:
   entry_id: 65201121
   entry_content: |
     
-    ismailağa cemaatine takılan, düğününde fatih sultan mehmet cosplayi yapmış akıllara zarar bir yaşam formu. gelin hanım gemileri karadan yürütüyordu katılamadı herhalde.
+    ismailağa cemaatine takılan, düğününde fatih sultan mehmet cosplayi yapmış akıllara zarar bir futbolcu. gelin hanım gemileri karadan yürütüyordu katılamadı herhalde.
     
   entry_writer: brooklyn carter
 - entry_name: |
@@ -383,7 +349,7 @@ data:
   entry_id: 65207547
   entry_content: |
     
-    acun: kimi seciyorsun??<br/><br/>-lan dalyarak ben sana soruyo muyum kimi seciyorsun diye...
+    acun: kimi seciyorsun??<br/><br/>-lan dalyarak ben sana soruyo muyum kimi seciyorsun diye...<br/><br/>ılk debe heyecanlı editi: eksi yazarı <a class="b" href="/?q=kargalarin+tanrisi">kargalarin tanrisi</a> hocama selamlar :)
    
   entry_writer: gitarist piyanist sazan
 - entry_name: |
@@ -391,7 +357,7 @@ data:
   entry_id: 65213241
   entry_content: |
     
-    hemen brifing veriliyor. yayın yasağı da yok. halkın bu olayı öğrenilmesi isteniyor. şehit de değiller. neden acaba..<br/><br/>(bkz: <a class="b" href="/?q=1+ocak+2017+ortak%c3%b6y+gece+kul%c3%bcb%c3%bc+sald%c4%b1r%c4%b1s%c4%b1">1 ocak 2017 ortaköy gece kulübü saldırısı</a>)
+    hemen brifing veriliyor. yayın yasağı da yok. halkın bu olayı öğrenilmesi isteniyor. şehit de değiller. neden acaba..<br/><br/>(bkz: <a class="b" href="/?q=1+ocak+2017+ortak%c3%b6y+gece+kul%c3%bcb%c3%bc+sald%c4%b1r%c4%b1s%c4%b1">1 ocak 2017 ortaköy gece kulübü saldırısı</a>)<br/><br/>notlar: diğer patlamaların aksine yayın yasağı ışık hızıyla gelmedi. yayın yasağından önce vali çıktı net ölü sayısını söyledi. sonrasında yayın yasağı geldi. tabi ona kadar kanallar bangır bangır yayın yaptı. diğer olaylarda yayın yasağı gelene kadar yayın yapmayan kanallar bunlar.<br/><br/>yoldan geçerken bombalı saldırıyla ölen vatandaş şehit oluyor. gece kulübünde silahlı terör saldırısına kurban giden vatandaş vatandaş oluyor. bunu diyen vali ayrıştırıcı olmuyor. bu tespiti dillendiren vatandaş ayrıştırıcı oluyor.
    
   entry_writer: e a p
 - entry_name: |
@@ -399,7 +365,7 @@ data:
   entry_id: 65206827
   entry_content: |
     
-     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=AzFKePa2pwc" title="https://www.youtube.com/watch?v=AzFKePa2pwc">amerikan ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=CbDYu3q_wNs" title="https://www.youtube.com/watch?v=CbDYu3q_wNs">avusturalya ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cJ9KDuMVnYw" title="https://www.youtube.com/watch?v=cJ9KDuMVnYw">ukrayna ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=z6y8iyE6XwE" title="https://www.youtube.com/watch?v=z6y8iyE6XwE">alman ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=PqN-uFSrq2Q" title="https://www.youtube.com/watch?v=PqN-uFSrq2Q">japon ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=bDhYDzojAps" title="https://www.youtube.com/watch?v=bDhYDzojAps">çin ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=dbZoFcTJuBY" title="https://www.youtube.com/watch?v=dbZoFcTJuBY">norveç ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=awngJMmvSH0" title="https://www.youtube.com/watch?v=awngJMmvSH0">kazakistan ordusu</a><br/><br/>tamamını izlemeye üşenecekler için özetlememiz gerekirse;<br/><br/>bizim çocuklarımıza reva görülen yemekleri bu ordular köpeğe reva görmüyorlar.<br/><br/>sevk ve idare savaşlardaki başarının birinci kuralıdır. 75 sene evvelsinin imkanlarıyla almanlar afrikadan kutup hattına, balkanlardan güney amerika kıyılarına dek askerlerine yazlık kışlık üniforma, kumanya, mühimmat, teknik donanım sevkiyatını gayet başarılı yaptıkları için avuç içi kadar almanya rusya, amerika, ingiltere (hindistan ve sayısız sömürgeyi elinde tutan eski ingiltere) karşısında neredeyse savaşı kazanıyordu.<br/><br/>osmanlıda da bu sevk ve idare işi hep boktan olmuştur.<br/><br/>askerimiz kahramanca savaşsa da hep aç, hep çıplak, hep cephanesizdi. berbat askerler olan avusturyalılara dahi defalarca yenilmemizin sebebi de budur.<br/><br/>balkan savaşı ve 1. dünya savaşına dair hatıratlarda da yenilgilere sebep olan eksikler, açlık, cephanesizlik sıklıkla zikredilir.<br/><br/>sarıkamış faciasında üzerlerinde kışlık giysisi olmayan askerler binlerle donarak ödüler. <br/><br/>çanakkalede bu işlerin en azından hazırlık ve stok kısmı almanların denetiminde olduğu için biraz daha iyi durumdaydık ve kazandık diyemesek de en azından yenilmedik. cephane ve silah olası en rasyonel şekilde mevzilere dağıtıldığı ve yeterince yedek bulundurulduğu için çok sıkıntı olmadı ama askerimiz - sadece erat değil rütbeliler bile - açtı.<br/><br/>suriye savaşıan gelirsek; oraya yollanan kumanyanın ihalesi de akp tayfasından birilerindedir zaten.<br/><br/>porsiyonu 20 liraya ihaleye çıkıp, 2,5 lira maliyetli yarım ekmek + boktan konserve menüsüyle iş bitirilmiştir. operasyon başladığı günden bu yana kim bilir kimler oradaki ana kuzularının kursaklarından çalınanlarla servetine servet kattı...
+     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=AzFKePa2pwc" title="https://www.youtube.com/watch?v=AzFKePa2pwc">amerikan ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=CbDYu3q_wNs" title="https://www.youtube.com/watch?v=CbDYu3q_wNs">avusturalya ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cJ9KDuMVnYw" title="https://www.youtube.com/watch?v=cJ9KDuMVnYw">ukrayna ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=z6y8iyE6XwE" title="https://www.youtube.com/watch?v=z6y8iyE6XwE">alman ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=PqN-uFSrq2Q" title="https://www.youtube.com/watch?v=PqN-uFSrq2Q">japon ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=bDhYDzojAps" title="https://www.youtube.com/watch?v=bDhYDzojAps">çin ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=dbZoFcTJuBY" title="https://www.youtube.com/watch?v=dbZoFcTJuBY">norveç ordusu</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=awngJMmvSH0" title="https://www.youtube.com/watch?v=awngJMmvSH0">kazakistan ordusu</a><br/><br/>tamamını izlemeye üşenecekler için özetlememiz gerekirse;<br/><br/>bizim çocuklarımıza reva görülen yemekleri bu ordular köpeğe reva görmüyorlar.<br/><br/>sevk ve idare savaşlardaki başarının birinci kuralıdır. 75 sene evvelsinin imkanlarıyla almanlar afrikadan kutup hattına, balkanlardan güney amerika kıyılarına dek askerlerine yazlık kışlık üniforma, kumanya, mühimmat, teknik donanım sevkiyatını gayet başarılı yaptıkları için avuç içi kadar almanya rusya, amerika, ingiltere (hindistan ve sayısız sömürgeyi elinde tutan eski ingiltere) karşısında neredeyse savaşı kazanıyordu.<br/><br/>osmanlıda da bu sevk ve idare işi hep boktan olmuştur.<br/><br/>askerimiz kahramanca savaşsa da hep aç, hep çıplak, hep cephanesizdi. berbat askerler olan avusturyalılara dahi defalarca yenilmemizin sebebi de budur.<br/><br/>balkan savaşı ve 1. dünya savaşına dair hatıratlarda da yenilgilere sebep olan eksikler, açlık, cephanesizlik sıklıkla zikredilir.<br/><br/>sarıkamış faciasında üzerlerinde kışlık giysisi olmayan askerler binlerle donarak ödüler. <br/><br/>çanakkalede bu işlerin en azından hazırlık ve stok kısmı almanların denetiminde olduğu için biraz daha iyi durumdaydık ve kazandık diyemesek de en azından yenilmedik. cephane ve silah olası en rasyonel şekilde mevzilere dağıtıldığı ve yeterince yedek bulundurulduğu için çok sıkıntı olmadı ama askerimiz - sadece erat değil rütbeliler bile - açtı.<br/><br/>suriye savaşıan gelirsek; oraya yollanan kumanyanın ihalesi de akp tayfasından birilerindedir zaten.<br/><br/>porsiyonu 20 liraya ihaleye çıkıp, 2,5 lira maliyetli yarım ekmek + boktan konserve menüsüyle iş bitirilmiştir. operasyon başladığı günden bu yana kim bilir kimler oradaki ana kuzularının kursaklarından çalınanlarla servetine servet kattı...<br/><br/>edit: <a class="b" href="/?q=meitneriyum">meitneriyum</a> nickli yazardan şu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=E5-eorlwb84" title="https://www.youtube.com/watch?v=E5-eorlwb84">video</a> geldi. ancak videodaki ürün bir özel kurumun ürettiği çok amaçlı ürün (kamp vs) ürünü türk ordusunun kullandığına ve/veya envanterinde bulundurduğuna dair bir emare/bilgi yok.
    
   entry_writer: r2d2r2d3
 ---
