@@ -7,7 +7,7 @@ data:
   entry_id: 65227462
   entry_content: |
     
-    pısırık değil,  <a class="b" href="/?q=insan">insan</a> gibi yetiştirmektir onun adı.<br/><br/>orta doğu gibi rezil bir coğrafyada yamyam olmak gerektiğinden bu insanlar pısırık zannedilir.<br/><br/>tarihin ilk küfreden adamına neden "pasif direnişi başlatan adam" diyoruz biliyor musun?<br/>kalkıp sağı solu patlatmadığı, ona buna vurmadığı için.<br/><br/>az medeniyet lan, biraz, çok az...<br/>vallahi bak.
+    pısırık değil,  <a class="b" href="/?q=insan">insan</a> gibi yetiştirmektir onun adı.<br/><br/>orta doğu gibi rezil bir coğrafyada yamyam olmak gerektiğinden bu insanlar pısırık zannedilir.<br/><br/>tarihin ilk küfreden adamına neden "pasif direnişi başlatan adam" diyoruz biliyor musun?<br/>kalkıp sağı solu patlatmadığı, ona buna vurmadığı için.<br/><br/>az medeniyet lan, biraz, çok az...<br/>vallahi bak.<br/><br/><a class="b" href="/?q=debedit">debedit</a>: çok güzel adamlar var şu sözlükte, mesajlarıyla ya da paylaşımlarıyla olsun naif, umut dolu fikirleriyle destek olan.<br/>hepiniz var olun arkadaşlar...<br/><br/>konudan bağımsız olarak, tamamen kafa dağıtma ve eğlence amaçlı; (bkz: <a class="b" href="/entry/63909375">#63909375</a>)
    
   entry_writer: metalhead23
 - entry_name: |
@@ -23,15 +23,15 @@ data:
   entry_id: 65231678
   entry_content: |
     
-    nerde zeka geliştiren birşey varsa yasak amk. he he satranç oynayan cennete giremez.
-    
+    nerde zeka geliştiren birşey varsa yasak amk. he he satranç oynayan cennete giremez..<br/><br/>edit: (bkz: <a class="b" href="/?q=mini+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">mini eymen'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: arjantin ovalarini sulayan nehir
 - entry_name: |
     1 ocak 2017 sabah gazetesi uyarısı
   entry_id: 65236649
   entry_content: |
     
-    terör örgütleriyle vatansever kemalistlerin adını aynı cümlede geçirmeden önce bir ağızlarını çalkalasınlar. kemalistleri kimse kandırmadı, kemalistler kimsenin adamı da olmadı, "ne istedilerse" vermediler de... kemalistler hep, "söz konusu vatansa, gerisi teferruattır." dediler, vatanperverlikten bir adım geri gitmediler. o yüzden, beylik laflar etmeden önce gitsinler bir ağızlarını çalkalasınlar.  <br/><br/>ne dediğini bilmeyen ayrımcı, bölücü tuvalet kağıdı yazısı.
+    terör örgütleriyle vatansever kemalistlerin adını aynı cümlede geçirmeden önce bir ağızlarını çalkalasınlar. kemalistleri kimse kandırmadı, kemalistler kimsenin adamı da olmadı, "ne istedilerse" vermediler de... kemalistler hep, "söz konusu vatansa, gerisi teferruattır." dediler, vatanperverlikten bir adım geri gitmediler. o yüzden, beylik laflar etmeden önce gitsinler bir ağızlarını çalkalasınlar.  <br/><br/>ne dediğini bilmeyenlerin ayrımcı yazısı. (bkz: <a class="b" href="/?q=ajan+provokat%c3%b6r">ajan provokatör</a>)<br/><br/>edit : gg.
    
   entry_writer: rokingen
 - entry_name: |
@@ -39,7 +39,7 @@ data:
   entry_id: 65232184
   entry_content: |
     
-    laikliğe çağırmayan çağıranları terörist addeden tweettir :  <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/TC_icisleri/status/815627084064296960" title="https://twitter.com/TC_icisleri/status/815627084064296960">https://twitter.com/…leri/status/815627084064296960</a>( <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C1HNtE7XgAE_PDm.jpg" title="https://pbs.twimg.com/media/C1HNtE7XgAE_PDm.jpg">tweet</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.birgun.net/haber-detay/icisleri-bakanligindan-skandal-tweet-141561.html" title="http://www.birgun.net/haber-detay/icisleri-bakanligindan-skandal-tweet-141561.html">silindi</a>) <br/><br/>dış işleri bakanlığının terörle mücadeleye sevk ettiğini ilan ettiği video buydu link için kusura bakmayın : <a rel="nofollow noopener" class="url" target="_blank" href="https://sendvid.com/qunrz86u">https://sendvid.com/qunrz86u</a> <br/><br/>laikliğin önemini vurgulayan halkevleri üyesi gençler hedef gösterilmiştir. aynı bakanlığın mevzubahis katliamı övenlerle ilgili bir işlem yaptığı görülmemiştir.<br/><br/>(bkz: <a class="b" href="/?q=ortak%c3%b6y%27deki+kul%c3%bcp+sald%c4%b1r%c4%b1s%c4%b1na+sevinen+vatanda%c5%9flar">ortaköy'deki kulüp saldırısına sevinen vatandaşlar</a>)<br/><br/>edit : terör unsuru bulunan videonun tam metni şöyledir. <br/><br/>"bunlar katliamlarıyla hayatımıza zulmetmeye çalışan insanlardır. biz diyoruz ki artık yeter, artık buraya kadar. bundan sonra mahallelerimizde ne ışidciye ne gerici cihatçı çeteciye geçit vermeyeceğiz. gericiliğin karşısında yükseltilmesi gereken bir bayrak vardır. bu bayrak da laiklik bayrağıdır. bugün laiklik demek özgürlük demektir. kardeşlik demektir. insanca bir yaşam mücadelesi demektir. bizler herkesi bu mücadelenin bir neferi olmaya çağırıyoruz. gericilerden,faşistlerden başkanlık sevdalılarından hesap sormaya çağırıyoruz. dinlediğiniz için çok teşekkür ederiz."<br/><br/>terör nerede?<br/><br/>-ışidle mücadelede mi?<br/>-laiklik çağrısında mı?<br/>-başkanlık karşıtlığında mı?<br/>-dinledikleri için teşekkür etmesinde mi?
+    laikliğe çağırmayan çağıranları terörist addeden tweettir :  <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/TC_icisleri/status/815627084064296960" title="https://twitter.com/TC_icisleri/status/815627084064296960">https://twitter.com/…leri/status/815627084064296960</a>( <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C1HNtE7XgAE_PDm.jpg" title="https://pbs.twimg.com/media/C1HNtE7XgAE_PDm.jpg">tweet</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.birgun.net/haber-detay/icisleri-bakanligindan-skandal-tweet-141561.html" title="http://www.birgun.net/haber-detay/icisleri-bakanligindan-skandal-tweet-141561.html">silindi</a>) <br/><br/>dış işleri bakanlığının terörle mücadeleye sevk ettiğini ilan ettiği video buydu link için kusura bakmayın : <a rel="nofollow noopener" class="url" target="_blank" href="https://sendvid.com/qunrz86u">https://sendvid.com/qunrz86u</a> <br/><br/>laikliğin önemini vurgulayan halkevleri üyesi gençler hedef gösterilmiştir. aynı bakanlığın mevzubahis katliamı övenlerle ilgili bir işlem yaptığı görülmemiştir.<br/><br/>(bkz: <a class="b" href="/?q=ortak%c3%b6y%27deki+kul%c3%bcp+sald%c4%b1r%c4%b1s%c4%b1na+sevinen+vatanda%c5%9flar">ortaköy'deki kulüp saldırısına sevinen vatandaşlar</a>)<br/><br/>terör unsuru bulunan videonun tam metni şöyledir. <br/><br/>"bunlar katliamlarıyla hayatımıza zulmetmeye çalışan insanlardır. biz diyoruz ki artık yeter, artık buraya kadar. bundan sonra mahallelerimizde ne ışidciye ne gerici cihatçı çeteciye geçit vermeyeceğiz. gericiliğin karşısında yükseltilmesi gereken bir bayrak vardır. bu bayrak da laiklik bayrağıdır. bugün laiklik demek özgürlük demektir. kardeşlik demektir. insanca bir yaşam mücadelesi demektir. bizler herkesi bu mücadelenin bir neferi olmaya çağırıyoruz. gericilerden,faşistlerden başkanlık sevdalılarından hesap sormaya çağırıyoruz. dinlediğiniz için çok teşekkür ederiz."<br/><br/>terör nerede?<br/><br/>-ışidle mücadelede mi?<br/>-laiklik çağrısında mı?<br/>-başkanlık karşıtlığında mı?<br/>-dinledikleri için teşekkür etmesinde mi?<br/><br/>debe editi: saldırı üzerine; ülkeyi vahabi/selefi terörün üssü haline getirenlerden,buna ideolojik altyapı hazırlayanlardan,ülkeyi cemaatlerin tarikatların esiri edenlerden, gericiliğin açıkça propagandasının yapılıyor olmasından, ohal'i sadece muhalefeti ezmek için kullanıp halkın güvenliğini sağlayamayanlardan hesap sorarken bir anda <a class="b" href="/?q=laiklik">laiklik</a> dediğimiz için kendimizi savunmak zorunda kalır olduk. üstelik bu konuşmayı yapanlar terörist ilan edilip gözaltına alındılar. saldırının failleri,azmettiricileri ve alkışlayıcıları serbest. tek bir tutuklama yapılmadı. böylesi bir <a class="b" href="/?q=hem+su%c3%a7lu+hem+g%c3%bc%c3%a7l%c3%bc">hem suçlu hem güçlü</a> örneği zor bulunur. size verilen mesaj çok açıktır. laiklik ayaklar altına alınmış dile getirilmesi bile tabulaştırılmıştır. dinsel bir diktanın inşası tamamlanmak üzeredir. bunun adı rejim değişikliğidir.<br/>ülkemiz zannettiğimizden çok daha kötü bir yere gidiyor. görünen o ki yaşadıklarımız yaşayacaklarımızın fragmanı. kendinize mukayet olun.<br/><br/>alevilere katliam çağrısı yapan <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C1GYZ6JWIAEhjb9.jpg" title="https://pbs.twimg.com/media/C1GYZ6JWIAEhjb9.jpg">bu kişi</a> serbest bırakıldı. hatta <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C1GYZ5zWEAASfQo.jpg" title="https://pbs.twimg.com/media/C1GYZ5zWEAASfQo.jpg">konferans</a> veriyor.
    
   entry_writer: order from chaos
 - entry_name: |
@@ -47,8 +47,8 @@ data:
   entry_id: 65229785
   entry_content: |
     
-    yetmez. kesinlikle imam hatip yapılmalı. yada ne bileyim külliye yapılsın. nede olsa gerçek islam bu değil.
-    
+    yetmez. kesinlikle imam hatip yapılmalı. yada ne bileyim külliye yapılsın. ne de olsa gerçek islam bu değil..<br/><br/>(bkz: <a class="b" href="/?q=mini+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">mini eymen'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: zinaedenzidan
 - entry_name: |
     mehmet görmez'in ortaköy saldırısı açıklaması
@@ -71,7 +71,7 @@ data:
   entry_id: 65224055
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=if+you%27re+not+paying+for+it%2c+you%27re+the+product">if you're not paying for it, you're the product</a>)
+    (bkz:  <a class="b" href="/?q=if+you%27re+not+paying+for+it%2c+you%27re+the+product">if you're not paying for it, you're the product</a>)<br/><br/>debe editi: <br/><br/>ışid = pkk (ypg, pyd, hpg, tak vs.. ne skimse) = fetö = dhkpc = el-nusra<br/><br/>birini diğerinden ayıran kendi hesabının peşindedir
    
   entry_writer: fakat sureyya bu derin bir tutku
 - entry_name: |
@@ -87,7 +87,7 @@ data:
   entry_id: 65220874
   entry_content: |
     
-    "yahu 3 bin kilometre uzağa gitmeye gerek yok, 250 kilometra aşağıdaki israil'e de saldırmıyor.""<br/><br/>şeklinde boyut katılabilecek tespit.
+    "yahu 3 bin kilometre uzağa gitmeye gerek yok, 250 kilometra aşağıdaki israil'e de saldırmıyor.""<br/><br/>şeklinde boyut katılabilecek tespit.<br/><br/>edit: yaklaşmakta olan <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/65248882" title="https://eksisozluk.com/entry/65248882">çin amerikan krizi</a> üzerine okunulası bir yazı.<br/><br/>edit2: <a class="b" href="/?q=mini+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">mini eymen'e yardım ediyoruz kampanyası</a>
    
   entry_writer: baranba
 - entry_name: |
@@ -98,14 +98,6 @@ data:
     zaman, mekan neresi bilmiyorum..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/KBSeyler/videos/2051479301745076/" title="https://www.facebook.com/KBSeyler/videos/2051479301745076/">https://www.facebook.com/…/videos/2051479301745076/</a><br/><br/>abimiz, hepimizin sormak istedigi seyleri bir bir siralamis, agzina saglik.<br/><br/>edit: izmir-halkapınar istasyonu.<br/><br/>edit2: izleyemeyenler icin;<br/><br/>''burada insanlara yalan soyluyorsunuz, hic kimse noeli kutlamiyor, herkes yeni yili kutluyor.<br/>-ensar vakfinda cocuklara tecavuz edilirken neredeydiniz ?<br/>-antep'te suriyeli cocuga tecavuz edilirken neredeydiniz ?<br/>-kadinlara tecavuz edilirken neredeydiniz ?<br/>-hayatiniz boyunca iside karsi cikabildinz mi ?<br/>-suriye'deki savas devam ederken neredeydiniz ?<br/>-tarikat liderleriniz mercedeslere binerken, villalarda yasarken neredeydiniz ?<br/>-isid turk askerlerini yakarken nerdeydiniz ? sokaga ciktiniz mi ?<br/><br/>cevap: 404 not found<br/><br/>kilit nokta bence su; ''siz bu gune kadar insanlik icin ne yaptiniz?''<br/><br/>evet, ben de bir musluman olarak sozlukteki dincilere soruyorum, (muslumanlara degil, dincilere) islam, bu gune kadar insanlik icin ne yapmistir? gercekten merak ediyorum bilen varsa cevaplasin.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/mehmet-altan-nutuklar-palavralar-tantana-bir-yana-57-musluman-ulke-dunya-uretiminin-ne-kadarini-yapiyor,336420" title="https://t24.com.tr/haber/mehmet-altan-nutuklar-palavralar-tantana-bir-yana-57-musluman-ulke-dunya-uretiminin-ne-kadarini-yapiyor,336420">soyle</a> bir sey var ki, muslumanlar olarak yerin dibine girmemiz lazim.
    
   entry_writer: bilinmeyene kosan adam
-- entry_name: |
-    1 ocak 2017 ortaköy gece kulübü saldırısı
-  entry_id: 65216638
-  entry_content: |
-    
-    basit bir tarihi gerçek var. aksi daha hiiç görülmedi. siyasal islam seçimle gelir , seçimle gitmez.
-    
-  entry_writer: rennie rising
 - entry_name: |
     murat karayılan'ın reina saldırısını kınaması
   entry_id: 65236661
@@ -127,7 +119,7 @@ data:
   entry_id: 65229759
   entry_content: |
     
-    hepimizin sığındığı güçtür..<br/><br/>zulmü ters yüz edecek olan güçtür.<br/><br/>islam'ın arkasına saklanan münafıkları <sup class="ab"><a title="(bkz: ışid)" href="/?q=%c4%b1%c5%9fid" data-query="ışid">*</a></sup> toprağa gömecek olan güçtür.<br/><br/>bizi kurtaracak olan güçtür.<br/><br/><a class="b" href="/?q=allah">allah</a>'tır.
+    hepimizin sığındığı güçtür..<br/><br/>zulmü ters yüz edecek olan güçtür.<br/><br/>islam'ın arkasına saklanan münafıkları <sup class="ab"><a title="(bkz: ışid)" href="/?q=%c4%b1%c5%9fid" data-query="ışid">*</a></sup> toprağa gömecek olan güçtür.<br/><br/>bizi kurtaracak olan güçtür.<br/><br/><a class="b" href="/?q=allah">allah</a>'tır.<br/><br/>debe editi: bu güzel kampanyaya destek olalım. (bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: marsli gocmen
 - entry_name: |
@@ -143,8 +135,8 @@ data:
   entry_id: 65222853
   entry_content: |
     
-    iki tane korkunç yaratık çıkarmışlar ekrana ne yapmaya çalışıyor bunlar? ben anlamadım.
-    
+    iki tane korkunç yaratık çıkarmışlar ekrana ne yapmaya çalışıyor bunlar? ben anlamadım..<br/><br/>(bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: woodenwriter
 - entry_name: |
     reina'ya saldıran teröristin kaçması
@@ -167,7 +159,7 @@ data:
   entry_id: 65226406
   entry_content: |
     
-    tamam adresini ver patlatsınlar.  <br/>anlamadılar meselenin yılbaşı olmadığını. <br/><br/>gerici yobaz söylemi<br/><br/>edit: kim havaya uçurursa uçursun olarak değiştirilmiş başlık. <br/>şimdi daha çok sinirlendim. <br/><br/>ne demek kardeşim kim havaya uçurursa uçursun? senin devletin bu ülkenin güvenliğini sağlayacak, güvenliğin sağlanması ile alakalı birimleri güçlendirecek, bunların içerisinde terör örgütü mensubu varsa toplayıp bunları havaya uçuracak. <br/><br/>ha devlet ülke güvenliğini sağlayamıyorsa, sessizce çekip gidecek. ya başkanlık, ya kaos demeyecek. <br/>yine de sen havaya uçmaya razıysan, buyur uç.
+    tamam adresini ver patlatsınlar.  <br/>anlamadılar meselenin yılbaşı olmadığını. <br/><br/>edit: kim havaya uçurursa uçursun olarak değiştirilmiş başlık. <br/>şimdi daha çok sinirlendim. <br/><br/>ne demek kardeşim kim havaya uçurursa uçursun? senin devletin bu ülkenin güvenliğini sağlayacak, güvenliğin sağlanması ile alakalı birimleri güçlendirecek, bunların içerisinde terör örgütü mensubu varsa toplayıp bunları havaya uçuracak. <br/><br/>ha devlet ülke güvenliğini sağlayamıyorsa, sessizce çekip gidecek. ya başkanlık, ya kaos demeyecek. <br/>yine de sen havaya uçmaya razıysan, buyur uç.<br/><br/>debe editi: bazıları gerici yobaz dedim diye alınmış, alınmayın değiştirdim.<br/><br/>edit2: (bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: nereveone
 - entry_name: |
@@ -191,7 +183,7 @@ data:
   entry_id: 65227796
   entry_content: |
     
-    insanlık vazifesini yapmış görevlidir. aklınızda bulunsun diye söylüyorum, yere çöp atanları uyarmak insanlık görevidir. öyle zabıta olmanıza gerek yok.  <br/><br/>yaşadığınız çevrenin temiz olması için çalışıyor o insanlar. soğuk sıcak dinlemeden süpürgeyle sokak sokak temizlik yapıyorlar. sizinse tek yapmanız gereken şey elinizde ki çöpü, bir çöp kutusuna atmak. zor bir şey değil, zeka da gerektirmiyor, sadece biraz insanlık gerektiriyor. <br/><br/>keşke ülkedeki en büyük dert bu olsaydı.
+    insanlık vazifesini yapmış görevlidir. aklınızda bulunsun diye söylüyorum, yere çöp atanları uyarmak insanlık görevidir. öyle zabıta olmanıza gerek yok.  <br/><br/>yaşadığınız çevrenin temiz olması için çalışıyor o insanlar. soğuk sıcak dinlemeden süpürgeyle sokak sokak temizlik yapıyorlar. sizinse tek yapmanız gereken şey elinizdeki çöpü, bir çöp kutusuna atmak. zor bir şey değil, zeka da gerektirmiyor, sadece biraz insanlık gerektiriyor. <br/><br/>keşke ülkedeki en büyük dert bu olsaydı.
    
   entry_writer: genius06
 - entry_name: |
@@ -215,7 +207,7 @@ data:
   entry_id: 65220376
   entry_content: |
     
-    kulıçdaroğlu ve bahçeli malum kişinin kış lastiğidir, patinaj yapmaması için getirilmiş proje adamlardır.  <br/><br/>arnavutluk'tan türkiye'ye türkçe bilmeyen üçüncü sınıf bir muhalefet lideri getirin, bir hafta içinde iktidarı sallar. ulan ülkede ortalama hafta bir katliam yaşanmaya başladı, ne bir gösteri ne bir eylem var. bari gensoru verin ulan mecliste, siz ne biçim milletvekilisiniz.<br/><br/>adam cb seçimlerinde, rte'nin diploması olmadığını söylemedi, şu an bu ülkenin tepesinde şekli olarak cb niteliği taşımayan biri oturuyor, hukuken butlan bu (tıp fakültesi mezunu olmayan birinin ameliyat yapması, hukuk fakültesi mezunu olmayan birinin ağız ceza mahkemesi başkanı olması gibi). ve bunu sadece dümdüz insanlar twitterde dile getiriyor. kılıçdaroğlu'nun görevi ise adana'da nazlı ılıcak'ı alkışlatmak ve tabanını seçim zamanı "tıpış tıpış gidip oy kullanacaksınız" diye tahrik ederek chp'yi yüzde yirmi beşe sabitlemek.<br/><br/>kılıçdaroğlu, türk solunu en fazla % 25'e formatlamak üzere getirilmiş bir görevlidir. <br/><br/>diğer yandan bu ülkeye, sağcı, solcu, anadolucu, milliyetçi falan değil; doğrudan şehirli ve medeni insanların hakkını savunacak düz bir adan lazım. ideoloji üzerinden değil, vergi veren insanların hakkını savunmak üzerinden çağdaş şehirli bir parti ve şehirli bir lider.<br/><br/>bu ülkeye vergi veren düzgün insanların yaşama, çocuklarının okuma hakkını savunacak, eğitim, sağlık, trafik suçları, çevre sorunları, adil yargılanma, bağımsız yargı, karanlıkta okula işe gitmeme gibi konuları gündeme getirecek; makro açıdan da şu terör olayları ve vatana ihanet konusu üzerinden meclisi gensoruya boğup komisyonları ve meclis sistemini kilitleyecek biri lazım.<br/><br/>kılıçdaroğlu ve bahçeli rte'dir ve türkiye çok uzun zamandır üçlü koalisyonla yönetiliyor.
+    kulıçdaroğlu ve bahçeli malum kişinin kış lastiğidir, patinaj yapmaması için getirilmiş proje adamlardır.  <br/><br/>arnavutluk'tan türkiye'ye türkçe bilmeyen üçüncü sınıf bir muhalefet lideri getirin, bir hafta içinde iktidarı sallar. ulan ülkede ortalama hafta bir katliam yaşanmaya başladı, ne bir gösteri ne bir eylem var. bari gensoru verin ulan mecliste, siz ne biçim milletvekilisiniz.<br/><br/>adam cb seçimlerinde, rte'nin diploması olmadığını söylemedi, şu an bu ülkenin tepesinde şekli olarak cb niteliği taşımayan biri oturuyor, hukuken butlan bu (tıp fakültesi mezunu olmayan birinin ameliyat yapması, hukuk fakültesi mezunu olmayan birinin ağız ceza mahkemesi başkanı olması gibi). ve bunu sadece dümdüz insanlar twitterde dile getiriyor. kılıçdaroğlu'nun görevi ise adana'da nazlı ılıcak'ı alkışlatmak ve tabanını seçim zamanı "tıpış tıpış gidip oy kullanacaksınız" diye tahrik ederek chp'yi yüzde yirmi beşe sabitlemek.<br/><br/>kılıçdaroğlu, türk solunu en fazla % 25'e formatlamak üzere getirilmiş bir görevlidir. <br/><br/>diğer yandan bu ülkeye, sağcı, solcu, anadolucu, milliyetçi falan değil; doğrudan şehirli ve medeni insanların hakkını savunacak düz bir adan lazım. ideoloji üzerinden değil, vergi veren insanların hakkını savunmak üzerinden çağdaş şehirli bir parti ve şehirli bir lider.<br/><br/>bu ülkeye vergi veren düzgün insanların yaşama, çocuklarının okuma hakkını savunacak, eğitim, sağlık, trafik suçları, çevre sorunları, adil yargılanma, bağımsız yargı, karanlıkta okula işe gitmeme gibi konuları gündeme getirecek; makro açıdan da şu terör olayları ve vatana ihanet konusu üzerinden meclisi gensoruya boğup komisyonları ve meclis sistemini kilitleyecek biri lazım.<br/><br/>kılıçdaroğlu ve bahçeli rte'dir ve türkiye çok uzun zamandır üçlü koalisyonla yönetiliyor.<br/><br/>debe editi: siyasilerden fayda yok bari biz bir minik'e yardım etmeyi ihmal etmeyelim. (bkz: <a class="b" href="/?q=minik+eymene+yardim+ediyoruz+kampanyasi">minik eymene yardim ediyoruz kampanyasi</a>)
    
   entry_writer: puik
 - entry_name: |
@@ -239,8 +231,8 @@ data:
   entry_id: 65217855
   entry_content: |
     
-    olmayan krizdir. kriz olmasi icin turizm in once var olmasi gerekir. ırak in turizm krizindn soz edebilir misiniz? . bundan sonra turistsiz hayata alisalim.
-    
+    olmayan krizdir. kriz olması için turizmin once var olması gerekir. ırak'in turizm krizinden söz edebilir misiniz? bundan sonra turistsiz hayata alışalım..<br/><br/>çok acımasız bir yorum diye düşünmeyin; güvenlik kaynaklı turizm krizleri 5 sene sürer. mısır'ı düşünün, şu anda gitmek istiyor musunuz? güvenlik endişeniz mi var? oysaki mısır'daki güvenlik problemi 2012 de bitti. hala aklımızda tekin olmayan bir ülke gibi kalmasının sebebi türkiye için de geçerli olacak.<br/><br/>debe sonrası edit: <br/><br/>(bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)<br/>hiçbir şey, sizi yardımlaşmaktan, insanlık onurunu korumaktan, bu vatan'ın evlatlarının birbirine destek olmasından alı koymasın.
+   
   entry_writer: trajedi
 - entry_name: |
     bokunda boğul türkiye
@@ -263,8 +255,8 @@ data:
   entry_id: 65231736
   entry_content: |
     
-    basit bir soruyla karşılık vermek istediğim beyan: başkanlığın zamanı mı peki?
-    
+    basit bir soruyla karşılık vermek istediğim beyan: başkanlığın zamanı mı peki??<br/><br/>debe editi: okuyunuz, okutunuz: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.anadolu.eu/tr/Kemalizm.html" title="http://www.anadolu.eu/tr/Kemalizm.html">prof. dr. ahmet taner kışlalı ve kemalizm</a>
+   
   entry_writer: fauna
 - entry_name: |
     skocax
@@ -287,7 +279,7 @@ data:
   entry_id: 65226167
   entry_content: |
     
-    beceriksizdir ve 14 yıldır yönettigi ülkeyi yönetilemez hale getirmiştir..<br/><br/>öngörüsüzdür ve 14 yılda dediklerinin tam tersini defalarca yapmak zorunda bırakılmıştır.<br/><br/>ne kadar oy alırsa alsın derhal istifa etmeli ve kritik olaylar sonrası verdigi demeçler ve yaptıgı müdahalelerle (kınama, baş saglıgı dileme, taziyeye gitme) zerre farkımuzın olmadıgının anlasıldıgı biz cumhur arasına dönmelidir.
+    beceriksizdir ve 14 yıldır yönettigi ülkeyi yönetilemez hale getirmiştir..<br/><br/>öngörüsüzdür ve 14 yılda dediklerinin tam tersini defalarca yapmak zorunda bırakılmıştır.<br/><br/>ne kadar oy alırsa alsın derhal istifa etmeli ve kritik olaylar sonrası verdigi demeçler ve yaptıgı müdahalelerle (kınama, baş saglıgı dileme, taziyeye gitme) zerre farkımuzın olmadıgının anlasıldıgı biz cumhur arasına dönmelidir.<br/><br/>önemli ek: sözlük, "sansüre karşı isminin üzerine siyah bant çeken" sözlük, bugün debe'ye giren bir entry'i açıklama vs. getirmeden silmiş<sup class="ab"><a title="(bkz: #65243664)" href="/entry/65243664" data-query="#65243664">*</a></sup> o zamanki duruşuna, yani benim bildiğim, sevdiğim, inandığım duruşuna destek çıkmak ve o duruşu anımsatmak için "içeriğinde katılmadığım noktalar olmakla birlikte ve itiraz hakkım saklı kalmak kaydıyla" o entry'i buraya kopyalamayı kendime borç biliyorum, anlayış göstermenizi istirham ediyorum:<br/><br/>başlık:<br/><br/><a class="b" href="/?q=akp%27nin+toplumu+dinsizle%c5%9ftirme+projesi+olmas%c4%b1">akp'nin toplumu dinsizleştirme projesi olması</a><br/><br/>"dünkü saldırıyla ilgili verilen tepkilere bakınca aklıma gelen bir ihtimal.<br/><br/>çevremde bulunan ve dindar sayılabilecek insanların tepkilerini görünce, geçmişten bugüne verdikleri tepkileri şöyle bir hatırlamaya çalıştım. ve gördüm ki dinden uzaklaştıklarını görmek hiç de güç değil. zira diyanet gibi kurumların da yozlaşmanın bir parçası haline gelmesi, durumu kişilerin sorumluluğundan alıp dinin bir problemiymiş gibi görünmesine sebep oluyor.<br/><br/>toplumu dindarlaştırmak adı altında yobazlaştırmak, dinsizleştirmeden önceki son aşama gibi geliyor. tıpkı ortaçağ avrupasında gördüğümüz gibi.<br/><br/>bugün yaşadığımız da tıpkı bunun gibi. toplumun evrimini geçmişten bugüne düşündüğünüzde inanıyorum ki siz de hak vereceksiniz."<br/><br/>rica edildi:<br/>(bkz: <a class="b" href="/?q=minik+eymen+celep%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen celep'e yardım ediyoruz kampanyası</a>)<br/><br/>eymen'de yeni bir tümör çıkmış. 40 bin gerekiyormuş. ekşi sözlük bir el atsın rica ederim. şurada arzetmiştim:<br/><br/>(bkz: <a class="b" href="/entry/65190964">#65190964</a>)
    
   entry_writer: iyisaatteolsunlar
 - entry_name: |
@@ -299,19 +291,11 @@ data:
    
   entry_writer: ernest legouve
 - entry_name: |
-    akp'nin toplumu dinsizleştirme projesi olması
-  entry_id: 65229765
-  entry_content: |
-    
-    dünkü saldırıyla ilgili verilen tepkilere bakınca aklıma gelen bir ihtimal..<br/><br/>çevremde bulunan ve dindar sayılabilecek insanların tepkilerini görünce, geçmişten bugüne verdikleri tepkileri şöyle bir hatırlamaya çalıştım. ve gördüm ki dinden uzaklaştıklarını görmek hiç de güç değil. zira diyanet gibi kurumların da yozlaşmanın bir parçası haline gelmesi, durumu kişilerin sorumluluğundan alıp dinin bir problemiymiş gibi görünmesine sebep oluyor.<br/><br/>toplumu dindarlaştırmak adı altında yobazlaştırmak, dinsizleştirmeden önceki son aşama gibi geliyor. tıpkı ortaçağ avrupasında gördüğümüz gibi.<br/><br/>bugün yaşadığımız da tıpkı bunun gibi. toplumun evrimini geçmişten bugüne düşündüğünüzde inanıyorum ki siz de hak vereceksiniz.
-   
-  entry_writer: opak
-- entry_name: |
     yaşadığımız karanlık dönemi en iyi anlatan müzik
   entry_id: 65229160
   entry_content: |
     
-    handel - sarabande'den başkası değildir sanırım. böyle bir karanlık ancak böyle gotik kasvetli bir parça ile anlatılabilirdi. gözümün önünden geçiyor son 15 yılda yaşadıklarımız birer birer. halimize acıyorum, kaybolup giden geçmişimize ve geleceğimize, yaşayamadığımız her duyguya, dolu dolu içimize çekemediğimiz özgürlüğe, her şeye ayrı ayrı yanıyorum. ah benim güzel ve bir zamanlar umut dolu ülkem... ah..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=JSAd3NpDi6Q">https://www.youtube.com/watch?v=jsad3npdi6q</a>
+    handel - sarabande'den başkası değildir sanırım. böyle bir karanlık ancak böyle gotik kasvetli bir parça ile anlatılabilirdi. gözümün önünden geçiyor son 15 yılda yaşadıklarımız birer birer. halimize acıyorum, kaybolup giden geçmişimize ve geleceğimize, yaşayamadığımız her duyguya, dolu dolu içimize çekemediğimiz özgürlüğe, her şeye ayrı ayrı yanıyorum. ah benim güzel ve bir zamanlar umut dolu ülkem... ah..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=JSAd3NpDi6Q">https://www.youtube.com/watch?v=jsad3npdi6q</a><br/><br/>debe edit: umarım aydınlık günlerin müziğine de hep birlikte karar veririz. o günlerin geleceğine dair ümidimizi kaybetmeyelim biz yine de. ne diyordu atatürk? “umutsuz durumlar yoktur, umutsuz insanlar vardır. ben hiçbir zaman umudumu yitirmedim.”<br/><br/>debe edit 2: (bkz: <a class="b" href="/entry/65251542">#65251542</a>)
    
   entry_writer: pixtur
 - entry_name: |
@@ -319,8 +303,8 @@ data:
   entry_id: 65216257
   entry_content: |
     
-    "32 aralık 2016"
-    
+    "32 aralık 2016""<br/><br/>edit: (bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: minareden atlayan fil
 - entry_name: |
     ekşi itiraf
@@ -367,8 +351,8 @@ data:
   entry_id: 65232256
   entry_content: |
     
-    sizin allah belanızı versin, yeni yılın içine sıçtınız, geçen yılın içine sıçtınız, hayatımızın içine sıçtınız, size bunları yapacak gücü veren kim varsa, yapımda ve yayında emeği geçen, çorbada tuzu bulunan kim varsa hepsinin allah belasını versin..imkanımız olsa asla durmayacağımız ülke haline getirdiniz koskoca ülkeyi..şerefsizin evlatları..
-    
+    sizin allah belanızı versin, yeni yılın içine sıçtınız, geçen yılın içine sıçtınız, hayatımızın içine sıçtınız, size bunları yapacak gücü veren kim varsa, yapımda ve yayında emeği geçen, çorbada tuzu bulunan kim varsa hepsinin allah belasını versin..imkanımız olsa asla durmayacağımız ülke haline getirdiniz koskoca ülkeyi..şerefsizin evlatları...<br/><br/>debe editi: üstüste yaşadığımız acıları bize yaşatanlara sayarak, beddua ederek debeye girmek bile üzücü..<br/><br/>unutmadan edit: (bkz: <a class="b" href="/?q=minik+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">minik eymen'e yardım ediyoruz kampanyası</a>)
+   
   entry_writer: onumuzdeki maclara bakalim
 - entry_name: |
     yeni türkiye
@@ -383,7 +367,7 @@ data:
   entry_id: 65236037
   entry_content: |
     
-    karşınızdaki insanlardan ne beklediğinizi idrak edemiyorsunuz arkadaşlar, sorun tam olarak bu aslında..<br/><br/>birileri islam kimliği altında insanları katlediyor, birileri islam kimliği altında çocuklara tecavüz ediyor, birileri islam kimliği altında hırsızlık haydutluk yapıyor. <br/><br/>ve sizin asıl düşmanınız bunlarken hala karşınızdakinden insanüstü bir anlayış bekleyip "gerçek islam bu değil" düsturuna ayak uydurmasını bekliyor, birileri buna uymayınca da köpürüyorsunuz.<br/><br/>senin içindeki çürükleri ateist mi temizleyecek? ateist mi ayıklayacak? ne bekliyorsun ki?<br/><br/>ensar vakfına en büyük tepkiyi senin göstermen gerekirdi.<br/><br/>yanan 12 kız çocuğunun katillerini en çok sen aramalıydın.<br/><br/>tekbirlerle kendini patlatan canilere ve bunların yetiştiği, beslendiği kaynaklara en büyük öfkeyi ve tepkiyi yine senin vermen gerekirdi.<br/><br/>peki sen ne yaptın?<br/><br/>yaşanan her vahşetin arkasından ateistlere sövüp, onlara neden kanatlanıp uçacak kadar iyi niyetli olmuyorsun, ben ve o farklıyız. gerçek islam .s.s.s dedin.<br/><br/>sen mi yanlış yoldasın yoksa onlar mı kötü niyetli.<br/><br/>bir düşünsen mi artık zahmet edip?
+    karşınızdaki insanlardan ne beklediğinizi idrak edemiyorsunuz arkadaşlar, sorun tam olarak bu aslında..<br/><br/>birileri islam kimliği altında insanları katlediyor, birileri islam kimliği altında çocuklara tecavüz ediyor, birileri islam kimliği altında hırsızlık haydutluk yapıyor. <br/><br/>ve sizin asıl düşmanınız bunlarken hala karşınızdakinden insanüstü bir anlayış bekleyip "gerçek islam bu değil" düsturuna ayak uydurmasını bekliyor, birileri buna uymayınca da köpürüyorsunuz.<br/><br/>senin içindeki çürükleri ateist mi temizleyecek? ateist mi ayıklayacak? ne bekliyorsun ki?<br/><br/>ensar vakfına en büyük tepkiyi senin göstermen gerekirdi.<br/><br/>yanan 12 kız çocuğunun katillerini en çok sen aramalıydın.<br/><br/>tekbirlerle kendini patlatan canilere ve bunların yetiştiği, beslendiği kaynaklara en büyük öfkeyi ve tepkiyi yine senin vermen gerekirdi.<br/><br/>peki sen ne yaptın?<br/><br/>yaşanan her vahşetin arkasından ateistlere sövüp, onlara neden kanatlanıp uçacak kadar iyi niyetli olmuyorsun, ben ve o farklıyız. gerçek islam .s.s.s dedin.<br/><br/>sen mi yanlış yoldasın yoksa onlar mı kötü niyetli.<br/><br/>bir düşünsen mi artık zahmet edip?<br/><br/>edit: (bkz: <a class="b" href="/?q=mini+eymen%27e+yard%c4%b1m+ediyoruz+kampanyas%c4%b1">mini eymen'e yardım ediyoruz kampanyası</a>)
    
   entry_writer: oo yalniz kafasi simdi geldi
 ---
