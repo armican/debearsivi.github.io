@@ -7,7 +7,7 @@ data:
   entry_id: 65337701
   entry_content: |
     
-    5 ocak 2017 izmir adliyesi patlamasında teröristleri içeri girmesini engelleyen kahraman polisimiz. onun sayesinde belki yüzlerce kişinin hayatı kurtuldu. allah rahmet eylesin.mekanı cennet olsun..<br/><br/>edit: link değişti.<br/><br/>edit2: ilk gördüğüm linkti twitter sayfamda.reklam aklımın ucundan bile geçmedi.<br/><br/>edit3: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/fethi.sekin?lst=813370596:100000159933491:1483642189" title="https://www.facebook.com/fethi.sekin?lst=813370596:100000159933491:1483642189">şehit polisimizin facebook sayfası</a><br/><br/>edit4:<a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/cumhurbaşkanı-fethi-sekin-in-yakınlarına-destek-ol?recruiter=85466618&utm_source=share_petition&utm_medium=copylinkcopylink" title="https://www.change.org/p/cumhurbaşkanı-fethi-sekin-in-yakınlarına-destek-ol?recruiter=85466618&utm_source=share_petition&utm_medium=copylinkcopylink">fethi sekin'in ailesine destek için change.org kampanyası</a><br/><br/>edit5: cenaze namazı elazığ'da olacakmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/amp.haberturk.com/gundem/haber-amp/1345146-kahraman-polis-fethi-sekin-izmirde-faciayi-onledi" title="https://www.google.com.tr/amp/s/amp.haberturk.com/gundem/haber-amp/1345146-kahraman-polis-fethi-sekin-izmirde-faciayi-onledi">haber ve fotoğraf linki</a>
+    5 ocak 2017 izmir adliyesi patlamasında teröristleri içeri girmesini engelleyen kahraman polisimiz. onun sayesinde belki yüzlerce kişinin hayatı kurtuldu. allah rahmet eylesin.mekanı cennet olsun..<br/><br/>edit: link değişti.<br/><br/>edit2: ilk gördüğüm linkti twitter sayfamda.reklam aklımın ucundan bile geçmedi.<br/><br/>edit3: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/fethi.sekin?lst=813370596:100000159933491:1483642189" title="https://www.facebook.com/fethi.sekin?lst=813370596:100000159933491:1483642189">şehit polisimizin facebook sayfası</a><br/><br/>edit4:<a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/cumhurbaşkanı-fethi-sekin-in-yakınlarına-destek-ol?recruiter=85466618&utm_source=share_petition&utm_medium=copylinkcopylink" title="https://www.change.org/p/cumhurbaşkanı-fethi-sekin-in-yakınlarına-destek-ol?recruiter=85466618&utm_source=share_petition&utm_medium=copylinkcopylink">fethi sekin'in ailesine destek için change.org kampanyası</a><br/><br/>edit5: cenaze namazı elazığ'da olacakmış.<br/><br/>edit6: izmir büyükşehir belediyesi saat 12:00'de konak meydanında uğurlayacakmış kahraman polisimizi. tabi ki tüm izmirlileri orada bekliyoruz diye bir mesaj paylaşmış twitter hesabından. haydi izmirliler dememe gerek yok biliyorum ki tıklım tıklım olacak konak meydanı.<a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/izmirbld/status/817263178581053442/photo/1" title="https://twitter.com/izmirbld/status/817263178581053442/photo/1">kaynak</a><br/><br/>edit7:izmir ticaret odası ve izmir ekonomi üniversitesi şehit polisimizin çocuklarının eğitimini üstlendi. <a rel="nofollow noopener" class="url" target="_blank" href="http://izmiralsancak.com/sehit-cocuklarinin-egitimini-izmir-ticaret-odasi-ve-izmir-ekonomi-universitesi-ustlendi/" title="http://izmiralsancak.com/sehit-cocuklarinin-egitimini-izmir-ticaret-odasi-ve-izmir-ekonomi-universitesi-ustlendi/">işte kaynak</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/amp.haberturk.com/gundem/haber-amp/1345146-kahraman-polis-fethi-sekin-izmirde-faciayi-onledi" title="https://www.google.com.tr/amp/s/amp.haberturk.com/gundem/haber-amp/1345146-kahraman-polis-fethi-sekin-izmirde-faciayi-onledi">haber ve fotoğraf linki</a>
    
   entry_writer: netcanavari
 - entry_name: |
@@ -135,7 +135,7 @@ data:
   entry_id: 65336071
   entry_content: |
     
-    siyasal islamcıların ve onun şakşakçılarının türk milletine hediyesi..<br/><br/>"abi istikrar önemli yea, biz koalisyon dönemini de hatırlıyoruz yea, 90'lar çok fenaydı yea, adamlar çalışıyor yea..."<br/><br/>mutlu musunuz lan bokunda boğulasıcalar?
+    siyasal islamcıların ve onun şakşakçılarının türk milletine hediyesi..<br/><br/>"abi istikrar önemli yea, biz koalisyon dönemini de hatırlıyoruz yea, 90'lar çok fenaydı yea, adamlar çalışıyor yea..."<br/><br/>mutlu musunuz lan içine çekildiğimiz bok çukurundan?
    
   entry_writer: grandleozz
 - entry_name: |
@@ -207,7 +207,7 @@ data:
   entry_id: 65334716
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a>) <br/><br/>kendisi 1.68 idi. <br/><br/>(bkz: <a class="b" href="/?q=tek+adam">tek adam</a>) <br/><br/>oku da gözün adam görsün.
+    (bkz:  <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a>) <br/><br/>kendisi 1.68 idi. <br/><br/>(bkz: <a class="b" href="/?q=tek+adam">tek adam</a>) <br/><br/>oku da gözün adam görsün.<br/><br/>edit : bir çok mesaj geldi atatürk'ün boyu 1.74'tür diye. bunu da 2013 yılında genelkurmay başkanliginin yaptigi açıklamaya dayandirmislar. hatta vikipedia'ya bile bu şekilde geçmiş. açıklamanın kaynağı da salih bozok'un hatirati. öncelikle o açıklamaya kadar atatürk'ün boyu herkes tarafından 1.68 olarak kabul edilirdi. ve o açıklamadan sonra da kimi tarihçiler (ılber ortaylı gibi) hala 1.68'i referans alırlar . bu konuda net bit ittifak şu an dahi yok. ister 1.68 ister 1.74 olsun adamlığın boyla ilgili olmadığının en önemli markasıdır mustafa kemal atatürk.
    
   entry_writer: nuktedan
 - entry_name: |
@@ -251,14 +251,6 @@ data:
    
   entry_writer: bir duz durdum bir azdim
 - entry_name: |
-    #terörünhamisichp
-  entry_id: 65347137
-  entry_content: |
-    
-    an itibariyle twitter'da tt mi ne boksa o olmuş hashtag..<br/><br/>yüzsüzsünüz, iğrençsiniz, çirkinsiniz, kötüsünüz, ancak düşman bile karakterlidir, siz karaktersizsiniz.<br/><br/>size ne olduğunuzu anlatırdım ama, hapse girerim "toplumu bölerim" diyerek içimden küfrediyorum sizlere, evet, ediyorum. <br/><br/>ileride tarih, yaptıklarınızı unutmayacak, siz yine unutacaksınız, ileride 15 senede toplumu en az ikiye bölen, bitmiş terörü azdıran, tek bir komşuyla iyi ilişkisi bulunmayan, oraya buraya dalaşan itler olacaktır, o zaman da "kardeşim bunlar olurken iktidarda oçp mi vardı" dersiniz.<br/><br/>hepiniz kocaman birer...
-   
-  entry_writer: en guzel din olmayan din
-- entry_name: |
     kanada'dan bryan adams dışında adam çıkmaz mı
   entry_id: 65325928
   entry_content: |
@@ -279,17 +271,7 @@ data:
   entry_id: 65331029
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=doktor">doktor</a>)
-   
   entry_writer: ivory black
-- entry_name: |
-    barbaros şansal
-  entry_id: 65329200
-  entry_content: |
-    
-    facebook'dan alıntı..<br/><br/>silivri’de gaz fişeği ile vuruldu, gözündeki gözlük olmasaydı kör oluyordu. onu ambulansa taşıyanlardan biri de benim...<br/><br/>ergenekon balyoz kumpaslarıyla asrın iftirasına uğrayanlara destek olmaya geldi. onu vatan haini ilan eden sen neredeydin?<br/><br/>gezi’de sokak köpekleri gazdan zehirlenmesinler diye apartman girişlerine o taşıdı. sen o zaman neredeydin?<br/><br/>hiciv nedir, ironi nedir bilmeyenler şimdi linç ediyorlar onu...<br/><br/>isviçre’de kara para aklayanları, ensar vakfında fiili livatada bulunulan erkek çocukları şahsına münhasır bir dille hicvetmiş namı diğer barbi...<br/>kaç çocuk okutuyor söyleyeyim mi? 1600.. peki sen kaç çocuk okutuyorsun?<br/><br/>medya bunları yazmaz...<br/><br/>huzur evlerine düşkünler evine, yetiştirme yurtlarına temiz iç çamaşırı göndermiş bir adam vatan haini öyle mi?<br/><br/>barbaros benim de bulunduğum bir panelde aynen şunları söyledi; “nazilli basmasını bitirdiniz. bursa da ipek üretimini bitirdiniz. eskiden türk bayrağı ipekten yapılırdı şimdi şeffaf naylondan üretiliyor. milli değerlerimizi naylonlaştırdınız. milli sermayeyle kurulmuş fabrikalarımızı kapattınız...<br/><br/>boktan bir ülkede, boktan bir hayat yaşayanlar, ona o boktan hayatı yaşatanları değil, bokunuzda boğulun diyeni linç ederken, bu milletin amına koyacağız diyen zatı muhteremlerin adlarını ilahiyat fakültelerine veriyorlar iyi mi?,<br/><br/>eh ne diyeyim ki, ne demişti neyzen tevfik baba;<br/>türk milleti gariptir, ibne dersin kızar da, sikersin aldırmaz...
-   
-  entry_writer: defy
 - entry_name: |
     neden hiç izmir'de patlama olmuyor
   entry_id: 65335260
@@ -303,8 +285,6 @@ data:
   entry_id: 65327844
   entry_content: |
     
-    zeytinyağlı ise soğuk, etli ise sıcak yenir. ayrıca;;<br/><br/>(bkz: <a class="b" href="/?q=allah+ba%c5%9fka+dert+vermesin">allah başka dert vermesin</a>)<br/><br/>edit: başlık başa.
-   
   entry_writer: witchking of angmar
 - entry_name: |
     cemaatler ve tarikatlar buluşması
@@ -319,7 +299,7 @@ data:
   entry_id: 65338652
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=ortodoks+noeli">ortodoks noeli</a>)
+    (bkz:  <a class="b" href="/?q=ermeni+noeli">ermeni noeli</a>)
    
   entry_writer: wilwarin
 - entry_name: |
@@ -351,8 +331,8 @@ data:
   entry_id: 65336188
   entry_content: |
     
-    aslında herkesin bildiği kişidir
-    
+    aslında herkesin bildiği kişidir..<br/>debe editi: (bkz: <a class="b" href="/entry/65052588">#65052588</a>)
+   
   entry_writer: babaslo
 - entry_name: |
     fethi sekin'in ailesine sahip çıkıyoruz
@@ -383,7 +363,7 @@ data:
   entry_id: 65338767
   entry_content: |
     
-    az önce ntv canlı yayınında izmir patlamasına yönelik yorumunda sözleri aynen şu şekilde "bu saldırılar akp, akp hükümeti ve tüm türkiyeyi yıkmaya yöneliktir"  <br/><br/>sıralamaya bakarmısınız? kadının öncelik sırası ortada önce akp.
+    az önce ntv canlı yayınında izmir patlamasına yönelik yorumunda sözleri aynen şu şekilde "bu saldırılar akp, akp hükümeti ve tüm türkiyeyi yıkmaya yöneliktir"  <br/><br/>sıralamaya bakarmısınız? kadının öncelik sırası ortada önce akp.<br/><br/>debe editi ; bu sözü böyle bi kadının başlığı altında yazmak istemezdim ama. ""görünce aşık oldum o deniz gözlerine..."
    
   entry_writer: maykilcaksin
 ---
