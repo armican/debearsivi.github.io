@@ -87,7 +87,7 @@ data:
   entry_id: 65502272
   entry_content: |
     
-    ahsen tvnin yeni sıçmığı..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=yOmhq0vbEdw">https://www.youtube.com/watch?v=yomhq0vbedw</a><br/><br/>edit: videoyu olası silinmeye karşı indirdim, bilgisayarımda bulunmakta. bilişim suçlarına yolluyorum.<br/><br/>yollamak isteyenler buradan:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ihbarweb.org.tr/index.html">https://www.ihbarweb.org.tr/index.html</a><br/><br/>8. madde : atatürk aleyhine işlenen suçlar
+    ahsen tvnin yeni sıçmığı..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=yOmhq0vbEdw">https://www.youtube.com/watch?v=yomhq0vbedw</a><br/><br/>edit: videoyu olası silinmeye karşı indirdim, bilgisayarımda bulunmakta. bilişim suçlarına yolluyorum.<br/><br/>yollamak isteyenler buradan:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ihbarweb.org.tr/index.html">https://www.ihbarweb.org.tr/index.html</a><br/><br/>8. madde : atatürk aleyhine işlenen suçlar<br/><br/>edit: açıklama gelmiş<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=fG_Eqo1aVnQ&feature=youtu.beu.be" title="https://www.youtube.com/watch?v=fG_Eqo1aVnQ&feature=youtu.beu.be">https://www.youtube.com/…_eqo1avnq&feature=youtu.beu.be</a><br/><br/>götünü yiyim ayağına yapıyor yok şöyleydi de böyleydi. boş a4leri de almış bunları götürücem savcılığa diyor. beni de bul bir zahmet de beni götür savcılığa.<br/><br/>olum amma iki yüzlüsünüz lan.<br/><br/>edit 2 : aynı adamın daha önce ki videosu<br/><br/>yine ben paylaşmıştım, buyurun.<br/><br/>(bkz: <a class="b" href="/?q=ahsen+tv+muhabirinin+29+ekim+yorumu">ahsen tv muhabirinin 29 ekim yorumu</a>)<br/><br/>götünü yiyim ayağı yapma rambo, hani dalga, hakaret yoktu videolarında. atatürkten bu kadar nefret eden biri o videoda dalga geçmiyorsa ne yapıyor sen söyle.
    
   entry_writer: japonmanyagi
 - entry_name: |
@@ -111,7 +111,7 @@ data:
   entry_id: 65495012
   entry_content: |
     
-    düzeltme: dün gece klinik ve adli psikolog dr. alper'in kediler ve kedi evleri yüzünden tartıştığı iddia edilen komşusu tarafından moda -ağabey sokak'ta bıçaklanarak öldürüldüğü yazıldı. ancak daha sonra moda muhtarı zeynep hanım, olayın kedi evleri yüzünden olmadığını açıkladı, basında gürültü yüzünden olduğu da yazıyor. biri öyle diyor, diğeri böyle....<br/><br/>hangi sebepten olursa olsun, tanrı topunun belasını versin bu vicdan yoksunu gaddar ruhların. bu ülkede cinayete kurban gitmenin en baş sebeplerinden biri hayvan beslemek, arabayı yanlış yere park etmek veya gürültü yapmak... <br/><br/>edit kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://m.mynet.com/kadikoyde-kedi-evi-cinayeti-unlu-psikolog-alper-engeler-olduruldu-yasam-2825549/" title="http://m.mynet.com/kadikoyde-kedi-evi-cinayeti-unlu-psikolog-alper-engeler-olduruldu-yasam-2825549/">http://m.mynet.com/…ngeler-olduruldu-yasam-2825549/</a><br/>edit kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.posta.com.tr/kadikoy-moda-da-kedi-evi-cinayeti-psikolog-alper-engeler-olduruldu-haberi-1256872" title="http://www.posta.com.tr/kadikoy-moda-da-kedi-evi-cinayeti-psikolog-alper-engeler-olduruldu-haberi-1256872">http://www.posta.com.tr/…r-olduruldu-haberi-1256872</a><br/><br/>edit3: olayın kedi evi kavgası olmadığı, gürültü vb sebepler yüzünden de olabileceğine dair haber<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.boldhaber.com/asayis/unlu-psikolog-gurultu-kavgasinda-olduruldu/97126" title="http://www.boldhaber.com/asayis/unlu-psikolog-gurultu-kavgasinda-olduruldu/97126">http://www.boldhaber.com/…avgasinda-olduruldu/97126</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/unlu-psikolog-alper-engeler-bicaklanarak-olduruldu-40333327" title="http://www.hurriyet.com.tr/unlu-psikolog-alper-engeler-bicaklanarak-olduruldu-40333327">http://www.hurriyet.com.tr/…arak-olduruldu-40333327</a><br/><br/>son edit : moda muhtarı, olayın kediler veya evleri yüzünden olmadığını açıklamıştır. şu durumda başlığın değiştirilmesi gerekiyor sanırım.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/zayman/posts/10155157677164218" title="https://www.facebook.com/zayman/posts/10155157677164218">https://www.facebook.com/…n/posts/10155157677164218</a>
+    düzeltme: dün gece klinik ve adli psikolog dr. alper'in kediler ve kedi evleri yüzünden tartıştığı iddia edilen komşusu tarafından moda -ağabey sokak'ta bıçaklanarak öldürüldüğü yazıldı. ancak daha sonra caferağa mahallesi muhtarı zeynep hanım, olayın kedi evleri yüzünden olmadığını açıkladı, basında gürültü yüzünden olduğu da yazıyor. biri öyle diyor, diğeri böyle....<br/><br/>hangi sebepten olursa olsun, tanrı topunun belasını versin bu vicdan yoksunu gaddar ruhların. bu ülkede cinayete kurban gitmenin en baş sebeplerinden biri hayvan beslemek, arabayı yanlış yere park etmek veya gürültü yapmak... <br/><br/>edit kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://m.mynet.com/kadikoyde-kedi-evi-cinayeti-unlu-psikolog-alper-engeler-olduruldu-yasam-2825549/" title="http://m.mynet.com/kadikoyde-kedi-evi-cinayeti-unlu-psikolog-alper-engeler-olduruldu-yasam-2825549/">http://m.mynet.com/…ngeler-olduruldu-yasam-2825549/</a><br/>edit kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.posta.com.tr/kadikoy-moda-da-kedi-evi-cinayeti-psikolog-alper-engeler-olduruldu-haberi-1256872" title="http://www.posta.com.tr/kadikoy-moda-da-kedi-evi-cinayeti-psikolog-alper-engeler-olduruldu-haberi-1256872">http://www.posta.com.tr/…r-olduruldu-haberi-1256872</a><br/><br/>edit3: olayın kedi evi kavgası olmadığı, gürültü vb sebepler yüzünden de olabileceğine dair haber<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.boldhaber.com/asayis/unlu-psikolog-gurultu-kavgasinda-olduruldu/97126" title="http://www.boldhaber.com/asayis/unlu-psikolog-gurultu-kavgasinda-olduruldu/97126">http://www.boldhaber.com/…avgasinda-olduruldu/97126</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/unlu-psikolog-alper-engeler-bicaklanarak-olduruldu-40333327" title="http://www.hurriyet.com.tr/unlu-psikolog-alper-engeler-bicaklanarak-olduruldu-40333327">http://www.hurriyet.com.tr/…arak-olduruldu-40333327</a><br/><br/>son edit :caferağa mahallesi muhtarı, olayın kediler veya evleri yüzünden olmadığını açıklamıştır. şu durumda başlığın değiştirilmesi gerekiyor sanırım.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/zayman/posts/10155157677164218" title="https://www.facebook.com/zayman/posts/10155157677164218">https://www.facebook.com/…n/posts/10155157677164218</a>
    
   entry_writer: serhattin
 - entry_name: |
@@ -127,7 +127,7 @@ data:
   entry_id: 65507566
   entry_content: |
     
-    ekmeleddin mhp ve chp'nin çatı adayı olarak cumhurbaşkanlığına aday gösterilmiş biridir..<br/><br/>chp; o dönemde cumhurbaşkanlığı için büyük favori olan erdoğan'ın karşısına, muhalefet olarak bölünmeden daha güçlü çıkmak amacıyla kendisi aday çıkarmayarak mhp'nin öne sürdüğü sağ görüşlü ve muhafazakar birine destek verdi, sonuçlarına da katlandı.<br/><br/>buradaki fark şu; chp, mhp gibi seçmenini kandırmadı, sadece kendi ideolojisine aykırı bir aday için oy istedi. seçmeni buna destek verdi veya vermedi, bu o seçim için planlanan parti stratejisinin tutup tutmadığı ile alakalı bir durum.<br/>oysa mhp genel seçimlerde başkanlık karşıtı politika izleyeceğini söyleyip oy istedi, sonrasında ise başkanlık destekleyen bir parti haline geldi. yani oyu isterken başkanlık karşıtı, oyu alınca başkanlık yanlısı bir tutum izledi.<br/>kısacası önce "apo ile birlikte başkanlığı getirmenize izin vermeyeceğiz." diyip şimdi başkanlığa destek vermek ile ekmeleddin'in adaylığına destek vermek aynı şey değil, bu açtığın başlık bahçeli'nin dönüşlerini aklamaya yetmez!<br/><br/>edit; imla
+    ekmeleddin mhp ve chp'nin çatı adayı olarak cumhurbaşkanlığına aday gösterilmiş biridir..<br/><br/>chp; o dönemde cumhurbaşkanlığı için büyük favori olan erdoğan'ın karşısına, muhalefet olarak bölünmeden daha güçlü çıkmak amacıyla kendisi aday çıkarmayarak mhp'nin öne sürdüğü sağ görüşlü ve muhafazakar birine destek verdi, sonuçlarına da katlandı.<br/><br/>buradaki fark şu; chp, mhp gibi seçmenini kandırmadı, sadece kendi ideolojisine aykırı bir aday için oy istedi. seçmeni buna destek verdi veya vermedi, bu o seçim için planlanan parti stratejisinin tutup tutmadığı ile alakalı bir durum.<br/>oysa mhp genel seçimlerde başkanlık karşıtı politika izleyeceğini söyleyip oy istedi, sonrasında ise başkanlık destekleyen bir parti haline geldi. yani oyu isterken başkanlık karşıtı, oyu alınca başkanlık yanlısı bir tutum izledi.<br/>kısacası önce "apo ile birlikte başkanlığı getirmenize izin vermeyeceğiz." diyip şimdi başkanlığa destek vermek ile ekmeleddin'in adaylığına destek vermek aynı şey değil, bu açtığın başlık bahçeli'nin dönüşlerini aklamaya yetmez!<br/><br/><a class="b" href="/?q=debe+editi">debe editi</a> (bkz: <a class="b" href="/?q=ba%c5%9fkanl%c4%b1k+sistemi">başkanlık sistemi</a>) <br/><a class="b" href="/?q=ba%c5%9fkanl%c4%b1%c4%9fa+hay%c4%b1r">başkanlığa hayır</a>
    
   entry_writer: museray
 - entry_name: |
@@ -212,14 +212,6 @@ data:
    
   entry_writer: captain of man o war
 - entry_name: |
-    11 ocak 2017 donald trump basın toplantısı
-  entry_id: 65504494
-  entry_content: |
-    
-    girdi omru iki gun..<br/><br/>birkac tercume hatasini duzeltmeye geldim, yoksa ulke olarak bokunuzda bogulmaya devam edin.<br/><br/>germanphobia degil germaphobia dedi. almanfobik degil, bakterifobik.<br/><br/>bunu rusyada cekildigi iddia edilen seks kasedine karsin soyledi. yani "en basinda hastalik kapmaktan korktugum icin onume geleni yataga atmam" demeye getirdi. bu lafin uzerine gulusmeler oldu.<br/><br/>isidi obama yonetiminin yarattigini soyledi; ama bunu isida amerika para ve muhimmat destegi verdi seklinde soylemedi. amerika, obama yonetiminde iraktan kontrolsuz ve erken ciktigi icin yonetim boslugu ortaya cikti bu boslugu da bunlar (isid) kapatti dedi.
-   
-  entry_writer: selfadjoint
-- entry_name: |
     tl'ye saldırı var masak ve mit ne yapıyor
   entry_id: 65493646
   entry_content: |
@@ -240,7 +232,7 @@ data:
   entry_id: 65493202
   entry_content: |
     
-    7 yıla sevinir hale getirildi insanlar. birini öldürdü birini yaraladi adam, 7 yıl nedir yahu..<br/><br/>bunu da unutmayalim:<br/><br/>(bkz: <a class="b" href="/?q=ba%c4%9fdat+caddesi%27nde+%c3%a7i%c3%a7ek%c3%a7iye+%c3%a7arp%c4%b1p+ka%c3%a7an+s%c3%bcr%c3%bcc%c3%bc">bağdat caddesi'nde çiçekçiye çarpıp kaçan sürücü</a>)
+    7 yıla sevinir hale getirildi insanlar. birini öldürdü birini yaraladi adam, 7 yıl nedir yahu..<br/><br/>bunu da unutmayalim:<br/><br/>(bkz: <a class="b" href="/?q=ba%c4%9fdat+caddesi%27nde+%c3%a7i%c3%a7ek%c3%a7iye+%c3%a7arp%c4%b1p+ka%c3%a7an+s%c3%bcr%c3%bcc%c3%bc">bağdat caddesi'nde çiçekçiye çarpıp kaçan sürücü</a>)<br/><br/>debe editi: bu tatli kiz bizim minik nefes'imiz. yardimlarinizi bekliyoruz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yeniduzen.com/nefes-icin-el-ele-84978h.htm" title="http://www.yeniduzen.com/nefes-icin-el-ele-84978h.htm">http://www.yeniduzen.com/…es-icin-el-ele-84978h.htm</a>
    
   entry_writer: gunesli gun sayisi
 - entry_name: |
@@ -248,7 +240,7 @@ data:
   entry_id: 65494183
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=dolar+bey">dolar bey</a>)
+    (bkz:  <a class="b" href="/?q=dolar+bey">dolar bey</a>)<br/><br/>debe edit:<br/>arkadaşımın isteği üzerine; kitabını alarak desteğinizi rica ediyor:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.dr.com.tr/ekitap/gecmisinde-yasayan-adam-universite-2" title="http://www.dr.com.tr/ekitap/gecmisinde-yasayan-adam-universite-2">link</a>
    
   entry_writer: gravat
 - entry_name: |
@@ -256,7 +248,7 @@ data:
   entry_id: 65502824
   entry_content: |
     
-    (bkz:  <a class="b" href="/?q=trabzonlular%c4%b1n+gerizekal%c4%b1+olmas%c4%b1">trabzonluların gerizekalı olması</a>)
+    (bkz:  <a class="b" href="/?q=trabzonlular%c4%b1n+%22kafalar%c4%b1n%c4%b1n%22+%c3%a7ok+%c3%a7al%c4%b1%c5%9fmas%c4%b1">trabzonluların "kafalarının" çok çalışması</a>)<br/><br/>(bkz: <a class="b" href="/?q=zorunlu+edit">zorunlu edit</a>)<br/><br/>(bkz: <a class="b" href="/?q=ironi+ile+verilmek+istenen+mesaj+vard%c4%b1r.">ironi ile verilmek istenen mesaj vardır.</a>)
    
   entry_writer: en guzel din olmayan din
 - entry_name: |
@@ -320,7 +312,7 @@ data:
   entry_id: 65502444
   entry_content: |
     
-     <a class="b" href="/?q=dedeye+sahip+%c3%a7%c4%b1kal%c4%b1m">dedeye sahip çıkalım</a>
+     <a class="b" href="/?q=dedeye+sahip+%c3%a7%c4%b1kal%c4%b1m">dedeye sahip çıkalım</a><br/><br/>debe edit: lütfen destek olalım.<br/>(bkz: <a class="b" href="/?q=bir+kap+suya+iki+damla+zeytinya%c4%9f%c4%b1">bir kap suya iki damla zeytinyağı</a>)
    
   entry_writer: zach levi
 - entry_name: |
