@@ -6,49 +6,56 @@ data:
     15 temmuz darbecileri bugünün hayırcılarıdır
   entry_id:  66661515
   entry_writer: icimdeki sey gibi bilmem ki ney gibi
-  entry_fav_count: 613
+  entry_fav_count: 616
   entry_content: |
     o zaman dünün fetö götü yalayıcıları da bugünün evetçileridir. onu napcaz?
 - entry_name: |
     kariyer.net'te yayınlanan köle ilanı
   entry_id:  66660261
   entry_writer: biergarten
-  entry_fav_count: 383
+  entry_fav_count: 393
   entry_content: |
     adamın verdiği ilan suç olması gerekirken biz de yazılanlar siliniyor. cidden şaka gibi bir yerde yaşıyoruz.
 - entry_name: |
     google'ın telefonları dinlemesi
   entry_id:  66652230
   entry_writer: chain lightning
-  entry_fav_count: 308
+  entry_fav_count: 311
   entry_content: |
-    yıllarca paranoyaklığımın boşa olmadığını düşündüğüm durum. cep telefonu konuşmalarını kastetmiyorum. telefon kapalıyken ortamdaki konuşmaları dinliyor diyorum.<br/><br/>ne zaman hangi spesifik bir konu üzerine konuşsam onla alakalı konularda facebook, twitter'dan ilgili konudaki google reklamları geliyor. <br/><br/>örneğin arkadaşıma sevgilime çiçek göndereceğimden bahsedersem çat çiçek yollama sitesi reklamı geliyor. kıl dönmem var desem kıl dönmesi bitkisel tedavi reklamı çıkıyor. google'da aramamama rağmen! bu önemli nokta.<br/><br/>neyseki yalnız değilmişim:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.bbc.com/news/technology-35639549">http://www.bbc.com/news/technology-35639549</a><br/><br/>ya google, ya facebook - twitter vs dinliyor bizi, ibnesiniz lan hepiniz.
+    yıllarca paranoyaklığımın boşa olmadığını düşündüğüm durum. cep telefonu konuşmalarını kastetmiyorum. telefon kapalıyken ortamdaki konuşmaları dinliyor diyorum.<br/><br/>ne zaman hangi spesifik bir konu üzerine konuşsam onla alakalı konularda facebook, twitter'dan ilgili konudaki google reklamları geliyor. <br/><br/>örneğin arkadaşıma sevgilime çiçek göndereceğimden bahsedersem çat çiçek yollama sitesi reklamı geliyor. kıl dönmem var desem kıl dönmesi bitkisel tedavi reklamı çıkıyor. google'da aramamama rağmen! bu önemli nokta.<br/><br/>neyseki yalnız değilmişim:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.bbc.com/news/technology-35639549">http://www.bbc.com/news/technology-35639549</a><br/><br/>ya google, ya facebook - twitter vs dinliyor bizi, ibnesiniz lan hepiniz.<br/><br/>edit: arkadaşlar google ajanları peşimde bu entry'den sonra. sağlığımdan endişe ediyorum<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> şaka bir yana bu kadar çok kişinin başına gelmesi tesadüf olamaz diye düşünüyorum. sen kimsin ki seni izlesin facebook-google diyenler var bir de. arkadaşım sen, ben, o 1 milyar insan ediyoruz. bunların başka geliri yok. reklam işte. adamlar herhalde şunun telefonunu dinleyelim de aklındaki süper projeleri çalalım peşinde değil. kişiye özel reklam amaç. ses tanıma ve tanınan sesdeki anahtar kelimelere göre bir algoritmaya bağlı reklam önerme işi çok da zor olmasa gerek. ha bu bence zararlı bir şey de değil aslında. neticede bir reklam çıkacaksa benim ilgilendiğim bir konuda çıksın isterim.
 - entry_name: |
     büyük penise sahip olmanın dezavantajları
   entry_id:  66653943
   entry_writer: he la
-  entry_fav_count: 294
+  entry_fav_count: 295
   entry_content: |
     paçadan sarkıp topuğumun altına giriyor. o yüzden çok düşme tehlikesi yaşadım. şimdi çorabın içine sokuyorum. kafam rahat.
 - entry_name: |
     türkiye'de makarna tüketiminin rekor kırması
   entry_id:  66656699
   entry_writer: rete mirabile
-  entry_fav_count: 162
+  entry_fav_count: 163
   entry_content: |
     haberin içeriğini okumadan yine alta dayanmış yorumlar. bak ne diyor haberde:<br/>türkiye kendi rekorunu kırmış, 8,5 kg ile<br/>italyada bu rakam 26 kg imiş,<br/>dünya ortalaması 15 kg,<br/><br/>not: ağır chp'li, ulusalcı adamım.<br/><br/>götünüzle sözlük takip etmeyin.
+- entry_name: |
+    evet oy oranının %58.88'e dayanması
+  entry_id:  66656500
+  entry_writer: unhopefully
+  entry_fav_count: 152
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/6L6Vjg3E1uY" title="https://youtu.be/6L6Vjg3E1uY">mak danışmanlığı tanıyalım</a>
 - entry_name: |
     reis
   entry_id:  66654917
   entry_writer: ben de iibf mezunuyum
-  entry_fav_count: 110
+  entry_fav_count: 115
   entry_content: |
     şimdiye dek izlemediğim en kötü film...izlesem kesin izlediğim de en kötü film olur ama izlemeye ayıracak kadar değersiz vaktim yok...boş boş yatıp tavana bakmayı yeğlerim...
 - entry_name: |
     babanın aldığı harika hediyeler
   entry_id:  66651655
   entry_writer: karpuzekirdegi
-  entry_fav_count: 110
+  entry_fav_count: 111
   entry_content: |
     babanın işsiz kaldığı bi zamanda benim sekizinci sınıfta olduğum bi vakitte dershaneye giderken yol parası istiyorsun ve baba kişisi cebinde kalan son bir tl'yi sana veriyor. <br/><br/>o bir tl'yi verirken yüzündeki mahcubiyet, umudunun kaybolduğu her an yardımına koşacaktı. o zamanı yaşarken haberin yoktu ama kaderini değiştiren bi zamandı. <br/><br/>vazgeçtiğim ve kaybettiğimi hissettiğim her an tekrar hayata tutunmamı sağladı o an.<br/>daha değerli bir hediye olamaz dediğim bir tl'dir kendi adıma.
 - entry_name: |
@@ -59,10 +66,17 @@ data:
   entry_content: |
     "hayır' diyenlerin önemli bir kısmı iktidar karşıtlı olduğunu görüyoruz"<br/><br/>(bkz: <a class="b" href="/?q=thank+you+captain+obvious">thank you captain obvious</a>)
 - entry_name: |
+    beni konuşturtmazlarsa dünyayı ayağa kaldırırım
+  entry_id:  66667985
+  entry_writer: annen evde mi
+  entry_fav_count: 98
+  entry_content: |
+    2 askeri yakılırken susan, ama başka bir ülkede konuşturulmayınca dünyayı yakacak olan bir cumhurbaşkanı sözü.
+- entry_name: |
     ssg kanzuk mentionlaşması
   entry_id:  66659737
   entry_writer: nutella yerken sandalyeden dusup geldim
-  entry_fav_count: 88
+  entry_fav_count: 89
   entry_content: |
     tam "ver lan sözlüğü geri" diye bitmelik menşınlaşma.
 - entry_name: |
@@ -72,6 +86,13 @@ data:
   entry_fav_count: 86
   entry_content: |
     5 yıl önce ben.<br/>fakat malesef "balık et"ten "şişman"a geçmekle sonuçlanmış hadise. <br/>ağlıyorum şu an.
+- entry_name: |
+    mehmet topal
+  entry_id:  66665917
+  entry_writer: yuksek muhendisim ben
+  entry_fav_count: 82
+  entry_content: |
+    elle kontrol edip attığı gol sonrası şükür secdesine yatan futbolcu. tam bu ülkenin futbolcusu.
 - entry_name: |
     survivor 2017
   entry_id:  66651941
@@ -83,72 +104,79 @@ data:
     şarabın tadının berbat olduğu gerçeği
   entry_id:  66654416
   entry_writer: dunyayi kurtaracak olan adam
-  entry_fav_count: 75
+  entry_fav_count: 77
   entry_content: |
     iki sene önce şarap eğitimine katılmıştım. hanımablamız anlatıyor habire. teori bitti pratiğe geçtik.<br/><br/>şuranın şu şarabı iyidir diyor tattırıyor, buranın bu şarabı iyidir diyor tattırıyor.<br/><br/>şarabı da pek sevmem. son şarabı verdi, bunda bir şey var bilebilecek misiniz bakalım dedi. içtim şarap hoşuma gitti. diğer altı tanesini sevmememe rağmen bunu sevdim. yalnız otuz tane insanız, sadece ben sevdim diğer 29 kişi istisnasız bu çok kötü dedi.<br/><br/>eğitmen açıkladı ki şarap bozukmuş.<br/><br/>bu da benim anım işte. biraya devam.
-- entry_name: |
-    beni konuşturtmazlarsa dünyayı ayağa kaldırırım
-  entry_id:  66667985
-  entry_writer: annen evde mi
-  entry_fav_count: 75
-  entry_content: |
-    2 askeri yakılırken susan, ama başka bir ülkede konuşturulmayınca dünyayı yakacak olan bir cumhurbaşkanı sözü.
-- entry_name: |
-    mehmet topal
-  entry_id:  66665917
-  entry_writer: yuksek muhendisim ben
-  entry_fav_count: 74
-  entry_content: |
-    elle kontrol edip attığı gol sonrası şükür secdesine yatan futbolcu. tam bu ülkenin futbolcusu.
 - entry_name: |
     dünya güneş'e 1 mm daha yakın olsaydı yanardık
   entry_id:  66664480
   entry_writer: urgupe gitmeden peribacalarini gosteren
-  entry_fav_count: 71
+  entry_fav_count: 74
   entry_content: |
     (bkz: <a class="b" href="/?q=eliptik+y%c3%b6r%c3%bcngeden+bihaber+beyinsiz+din+hocas%c4%b1">eliptik yörüngeden bihaber beyinsiz din hocası</a>)
 - entry_name: |
     yeni akit'in osmangazi köprüsü haberi
   entry_id:  66660863
   entry_writer: je reviendrai
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     okuyucu yorumlarından gelen yaran bir örnek:<br/><br/>mustafa kunfeyekun:<br/>(büyük harflerle) site heklenmiş olmalı başkanlığa evet
-- entry_name: |
-    einstein'in kuantum konusunda yanılması
-  entry_id:  66653328
-  entry_writer: mentem incomitata
-  entry_fav_count: 49
-  entry_content: |
-    bkz: <a class="b" href="/?q=lise+kitaplar%c4%b1ndan+kuantum">lise kitaplarından kuantum</a> <a class="b" href="/?q=teorisi+okuyup+einstein+ele%c5%9ftirmek">teorisi okuyup einstein eleştirmek</a>)
 - entry_name: |
     kadını insan olarak kabul edersek problem çözülür
   entry_id:  66664171
   entry_writer: simbolmina
-  entry_fav_count: 47
+  entry_fav_count: 50
   entry_content: |
     türkiye ilk çağ felsefesi bile yapılabilecek enteresan bir ülke. bir sonraki problemimiz kölelerin insan olup olmadığı olmalı şu halde. aslında hazır dünyanın dönmediğini iddia edenler varken şöyle i.ö. 7.yy'dan itibaren, sıfırdan başlayalım. muasır medeniyeti illa yakalarız.
+- entry_name: |
+    einstein'in kuantum konusunda yanılması
+  entry_id:  66653328
+  entry_writer: mentem incomitata
+  entry_fav_count: 50
+  entry_content: |
+    bkz: <a class="b" href="/?q=lise+kitaplar%c4%b1ndan+kuantum">lise kitaplarından kuantum</a> <a class="b" href="/?q=teorisi+okuyup+einstein+ele%c5%9ftirmek">teorisi okuyup einstein eleştirmek</a>)
 - entry_name: |
     buzdolabının boşken daha çok elektrik yakması
   entry_id:  66663500
   entry_writer: stenns
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/br5pD0.jpg">http://i.hizliresim.com/br5pd0.jpg</a>
 - entry_name: |
     hoşlandığım kız kemalist çıktı ne yapmalıyım
   entry_id:  66665845
   entry_writer: harry tuttle
-  entry_fav_count: 37
+  entry_fav_count: 41
   entry_content: |
     (bkz: <a class="b" href="/?q=ben+sana+laik+de%c4%9filim">ben sana laik değilim</a>)
 - entry_name: |
     tekrar başlaması istenen diziler
   entry_id:  66651786
   entry_writer: a very composite material
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     (bkz: <a class="b" href="/?q=yeditepe+istanbul">yeditepe istanbul</a>)<br/><br/>o ne seneryoydu. <br/>o nasıl oyuncu kadrosuydu.<br/>o nasıl çekimlerdi.<br/>o nasıl sahnelerdi.<br/>onlar nasıl mekanlardı. <br/>o nasıl bir samimiyetti. <br/>o sözler, o dizeler...<br/><br/>sanatsal sinema tadında diziydi. <br/>old good laik days diyor ve üzülüyoruz.
+- entry_name: |
+    tolga aktemur
+  entry_id:  66661537
+  entry_writer: mr kornylov
+  entry_fav_count: 31
+  entry_content: |
+    kendinde olmayan şeyin dükkanını açan kişi.<br/><br/>(bkz: <a class="b" href="/?q=%c5%9feref+eczanesi">şeref eczanesi</a>)
+- entry_name: |
+    cübbeli'nin geçim kaynağı
+  entry_id:  66659227
+  entry_writer: daenerys targaryen in askerleriyiz
+  entry_fav_count: 30
+  entry_content: |
+    din sömürüsü.
+- entry_name: |
+    5 mart 2017 fenerbahçe tribünlerinde yaşananlar
+  entry_id:  66667597
+  entry_writer: kamburkelimat
+  entry_fav_count: 30
+  entry_content: |
+    aziz beyin satın alıp tribüne soktuğu şahıslarca 20 yaşında bile olmayan çocukların istifa çağrısı yaptıkları için tehdit edilmeleri olayı. bu orospu çocukları maç bitiminden sonra stadın dışındaki istifa sloganlarına ise götleri yemediğinden gelmemişler. <br/><br/>bugün osmanlıspor maçından çok konuşulması gereken konu budur. fenerbahçe'yi babasının malı sanan bu orospu çocuklarına ve onları besleyen diktatör bozuntusuna gerçek fenerbahçeliler geçit vermemelidir. <br/><br/>(bkz: <a class="b" href="/?q=ali+ko%c3%a7+ba%c5%9fkan+fener+%c5%9fampiyon">ali koç başkan fener şampiyon</a>)<br/>(bkz: <a class="b" href="/?q=aziz+y%c4%b1ld%c4%b1r%c4%b1m+istifa">aziz yıldırım istifa</a>)<br/><br/>benim gibi tribüne gitmesi şu an mümkün olmayan fenerbahçeliler de en kısa sürede bu adi heriflere tepkilerini her yerden göstermeliler.
 - entry_name: |
     mehmet topal'ın osmanlıspor'a attığı gol
   entry_id:  66666277
@@ -171,26 +199,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=tahi+anlam%c4%b1ndaki+ta">tahi anlamındaki ta</a>)<br/><br/>edit: öf, belliydi böyle olacağı. <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/W0nPRQ.jpg" title="http://i.hizliresim.com/W0nPRQ.jpg">başlık başa</a>.
 - entry_name: |
-    5 mart 2017 fenerbahçe tribünlerinde yaşananlar
-  entry_id:  66667597
-  entry_writer: kamburkelimat
-  entry_fav_count: 20
-  entry_content: |
-    aziz beyin satın alıp tribüne soktuğu şahıslarca 20 yaşında bile olmayan çocukların istifa çağrısı yaptıkları için tehdit edilmeleri olayı. bu orospu çocukları maç bitiminden sonra stadın dışındaki istifa sloganlarına ise götleri yemediğinden gelmemişler. <br/><br/>bugün osmanlıspor maçından çok konuşulması gereken konu budur. fenerbahçe'yi babasının malı sanan bu orospu çocuklarına ve onları besleyen diktatör bozuntusuna gerçek fenerbahçeliler geçit vermemelidir. <br/><br/>(bkz: <a class="b" href="/?q=ali+ko%c3%a7+ba%c5%9fkan+fener+%c5%9fampiyon">ali koç başkan fener şampiyon</a>)<br/>(bkz: <a class="b" href="/?q=aziz+y%c4%b1ld%c4%b1r%c4%b1m+istifa">aziz yıldırım istifa</a>)<br/><br/>benim gibi tribüne gitmesi şu an mümkün olmayan fenerbahçeliler de en kısa sürede bu adi heriflere tepkilerini her yerden göstermeliler.
-- entry_name: |
     recep tayyip erdoğan
   entry_id:  66652518
   entry_writer: mc43
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     dünyaya ne yön vermiş gerçekten merak ettiğim cumhurbaşkanı
-- entry_name: |
-    jeremain lens
-  entry_id:  66652986
-  entry_writer: godmother theme
-  entry_fav_count: 17
-  entry_content: |
-    noel tatilindeki maç öncesi kart gören oyunculara alıştık biz. bugün bu adamın yaptığı fedakarlık içime oturdu. bizim yönetim adam olsa da maçtan sonra 3-4 gün salsa adamı.
 - entry_name: |
     almanya'nın uygulaması nazi uygulaması gibi
   entry_id:  66661954
@@ -198,20 +212,6 @@ data:
   entry_fav_count: 16
   entry_content: |
     3-5 oy uğruna düşüncesizce sarfedilmiş bu söz için ilerde sıkı bir özür dilenecektir. ihracatının yarısına yakınını yaptığın ülkeye kolayca faşist, ırkçı dersen; sonucunda olacaklara katlanırsın. dünya tarihinde "bu rezil dış politikanın, pervasızlığın" bir örneği daha yoktur.
-- entry_name: |
-    hastası olunan sözler
-  entry_id:  66654045
-  entry_writer: leastfavoritelife
-  entry_fav_count: 13
-  entry_content: |
-    "hayat çok kısa dostlar, fakat hissederek yaşarsanız yeterince uzun. o yüzden yıkın kuralları, çabucak affedin, en derinden sevin ve sizi gülümseten hiçbir şeyden pişmanlık duymayın."<br/>guzaarish filminin finalidir.
-- entry_name: |
-    cübbeli'nin geçim kaynağı
-  entry_id:  66659254
-  entry_writer: bezdarniy
-  entry_fav_count: 13
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c5%9feyh+u%c3%a7maz+m%c3%bcritleri+u%c3%a7urur">şeyh uçmaz müritleri uçurur</a>)<br/><br/>bu kadar dangalak varken çevrede merak edilmesi bile abes olan gelir kaynağıdır.
 - entry_name: |
     istanbul kırmızısı
   entry_id:  66653756
@@ -241,6 +241,13 @@ data:
   entry_content: |
     bol sekerli sikimpofrapoccini almiyorsan fiyatlari gayet makul. daha ucuzu 1 euro'ya tchibo'dan bir bardak kahve var. o da fena degil aslinda. daha ucuzu evde nescafe. daha ucuzu kaynar su. daha ucuzu musluk suyu.
 - entry_name: |
+    aziz yıldırım
+  entry_id:  66666482
+  entry_writer: birazfasistbirazkomunist
+  entry_fav_count: 8
+  entry_content: |
+    "yönetim istifa" diye demokratik hakkını kullanan renktaşlarımıza yaptıklarının bedelini ödeyecektir. seni hapise girdin diye destekleyen kendimi sikeyim.
+- entry_name: |
     ekşi itiraf
   entry_id:  66651685
   entry_writer: kesyapistirmikelanj
@@ -248,12 +255,12 @@ data:
   entry_content: |
     kendimi sebepsiz yere ayı belgeseli seyrederken buldum. kutup ayıları özellikle. ayılar güzel hayvanlar, kocaman götleri var, seviyom ben onları.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=CbILj_CYqno">https://www.youtube.com/watch?v=cbilj_cyqno</a>
 - entry_name: |
-    aziz yıldırım
-  entry_id:  66666482
-  entry_writer: birazfasistbirazkomunist
+    bir uçakta yaşanabilecek en dumur olaylar
+  entry_id:  66664391
+  entry_writer: beyaz gilli davsan
   entry_fav_count: 7
   entry_content: |
-    "yönetim istifa" diye demokratik hakkını kullanan renktaşlarımıza yaptıklarının bedelini ödeyecektir. seni hapise girdin diye destekleyen kendimi sikeyim.
+    business'ın hemen arkasındaki koltukta oturup uslu uslu sandviçimi yerken birden perdenin açılması ve tontiş bir teyzenin burnuma bir tabak somon fümeyi "ben buni yiyemem, sen yersun beçi?" diye uzatması.<br/><br/>ahahah yaşadığım şaşkınlığı unutamıyorum. business gibi business, canım teyzem &lt;3
 - entry_name: |
     ezberlenmesi en kolay yabancı şarkı
   entry_id:  66652046
@@ -269,13 +276,6 @@ data:
   entry_content: |
     yds'den geçemeyen dinazor ve yandaş akademisyenlerin geçmesi için uydurulmuş sınav..<br/><br/>daha düne kadar üds diye bir sınav vardı, daha iyisini yapacağız diyerek kpds ile birleştirdiniz, baktınız yandaşlarınız o sınavı geçemiyor, şimdi başka bir sınav uydurdunuz.<br/><br/>bizde hıyar gibi yds'den 80 üzeri almak için kasalım.<br/><br/>hayır'lı işler!
 - entry_name: |
-    emekli memurdan muhteşem evet cevabı
-  entry_id:  66662139
-  entry_writer: gulsever
-  entry_fav_count: 4
-  entry_content: |
-    sondaki amca efsane yalniz.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>hani deniyor ya bu sistemde manyağın biri seçilirse ne yaparız?<br/>bizim milletin sağduyusuna herkes güvensin. böyle bir şüpheye kesinlikle mahal yok. öyle olsa bu halk bi sefer de olsa chp'yi iktidara getirirdi. hiç öyle bir kazası oldu mu? demek bu halk akıllı bir halk.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
     beden eğitimi dersinden akılda kalanlar
   entry_id:  66662438
   entry_writer: bgphobia
@@ -283,40 +283,12 @@ data:
   entry_content: |
     aşortman.
 - entry_name: |
-    iz bırakan kitap cümleleri
-  entry_id:  66651760
-  entry_writer: higoriyan
-  entry_fav_count: 3
-  entry_content: |
-    — ama doktor, ben hasta değilim! allah rızası için... size anlattım. <br/>tekrar gözlerini gözlerime dikti en katî sesiyle:<br/>— hastasınız, diye kesip attı. <a class="b" href="/?q=psikanaliz">psikanaliz</a> çıktığından beri hemen herkes az çok hastadır.<br/><br/><a class="b" href="/?q=saatleri+ayarlama+enstit%c3%bcs%c3%bc">saatleri ayarlama enstitüsü</a>
-- entry_name: |
-    bir uçakta yaşanabilecek en dumur olaylar
-  entry_id:  66665462
-  entry_writer: serkoplazmikheidikulum
-  entry_fav_count: 3
-  entry_content: |
-    antepten istanbula dönüyorum.<br/>önümdeki baskül ailesi gibi şişman ailenin elinde 1 koca bidon turşu var.<br/>uçağa alan kadın, turşuyu alamam dedi.<br/>abla "yav nolucu bacım elimde götürüym zatimilin" dedi.<br/>bunlar ver-vermem savaşı yaparken erkek güvenlik görevlisi kadının elinden bidonu aldı. bizim abla adamın elinden bidonu çekti, ailecek oturup turşuları yediler. ve uçağa en son bindiler.<br/><br/>yine aynı gün istanbuldan antebe uçuyorum, sabah uçuşu. arkamdaki dayı bekleme salonunda telefonla konuşuyor "ağam ben 60 yaşında adamım, o gaynanan benim suratıma tükürürse mermi manyağı ederim gendini" diye bağırıyordu. dedim ulan antebe mi gidiyoz teksasa mı belli değil. <br/><br/>bi kere de roma istanbul uçuşunda en önde oturuyordum ve hosteslerin konuşması geliyordu.<br/>ıtalyanca görümce ve kaynanadan şikayet ediyordu biri. cognata'sı(bkz: <a class="b" href="/?q=g%c3%b6r%c3%bcm%c3%bc">görümü</a>) için çikolata diye benzetme yapti ve diger hostes aşırı güldü. sonra hostese sordum kulak misafiri oldum ama espriyi anlamadim dedim. kızardı "cikolataya alerjim var" dedi. komik değil ama italyan bile olsan kaynana görümce elti problemi var bu dünyada.
-- entry_name: |
     minik kuzey'e yardım ediyoruz kampanyası
   entry_id:  66666666
   entry_writer: sabridincher
   entry_fav_count: 2
   entry_content: |
     yarın sabah elimden gelen destekle katılacağım kampanya
-- entry_name: |
-    adam smith'i erkek smith diye çağırmak
-  entry_id:  66661638
-  entry_writer: epicfail1234
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=erkek+gevrek">erkek gevrek</a> olacak o izmir'de !!!
-- entry_name: |
-    vatanım sensin
-  entry_id:  66660291
-  entry_writer: renksiz hayat
-  entry_fav_count: 1
-  entry_content: |
-    azize gibi zeki, vefalı ve çenesini tutabilecek bir kadına en başından her şeyi anlataydı da bir sezonu boşa izlemeseydik. eşref paşa peygamber mi ki adam söyleme dedi diye tutuyorsun kendini. tevfik pezevengiyle bir yiyişmedikleri kaldı. yünan üniformasını çıkar demiyoruz, hobi olarak yine giy ama hafif bir çıtlatır insan.
 - entry_name: |
     referandum sürecinde duran patlamalar
   entry_id:  66651770
@@ -332,12 +304,47 @@ data:
   entry_content: |
     yaslandigimi hissettim dinlerken. ortaokuldaydim orta... sebnem ferah universitedeydi demir demirkan da liseli kizlarin ilahiydi. 20 yil sonra bi sekilde bulusun deseler hayatta sebnemin anatoliayi emekli cocuksuz ve mutlu, demirin de cocugumun rizki ciksin abi albumu alin kafasinda okuyacagini tezahur etmezdim kafamda evvelde. neyse, yaslandik zaten, onlar da oyle...
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  66655073
-  entry_writer: memetalibirandinturuncusaati
+    fırat kalkanı operasyonu
+  entry_id:  66658835
+  entry_writer: onakucuksuprizleryapin
+  entry_fav_count: 1
+  entry_content: |
+    menbiç alınmalı, ypg her yere yayilmis durumda. mevcut durum içerisinde halen reis diyenlere gercekten acıyorum. komsusunda iç savaş ve mezhep çatışmalarına sebep olan ve destekleyen bir zihniyet türk milletinin geleceğini dusunuyor olamaz. tsk'nın dahil oldugu sure dısında suriye politikamız bir facia. bu gidisle akp'nin ulke tarihine en buyuk mirası suriye'de bir kurt devleti olacak.
+- entry_name: |
+    16 nisan 2017 anayasa değişikliği referandumu
+  entry_id:  66668325
+  entry_writer: zamazingonun tam ortasi amazing
+  entry_fav_count: 1
+  entry_content: |
+    akepe çetesi artık bağımsız laik türkiye cumhuriyetini tamamen domaltıp sikebilecek mi sorusunun sorulduğu referandum...<br/><br/>hayır bence...
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  66666692
+  entry_writer: fragile psykhe
   entry_fav_count: 0
   entry_content: |
-    varoluş krizi yaşayan şahsımı biraz olsun rahatlatmayı başarabilecek chatbuddy aranıyor. denemeniz bile kafi.<br/>not: dostluk çerçevesi dahilinde bir erkekle de pek tabi muhabbet edebilirim fakat hatun olduğumu varsayarak mesaj atacak olan abazalara sesleniyorum; çüküm var!
+    <a class="b" href="/?q=athena">athena</a> - <a class="b" href="/?q=ars%c4%b1z+g%c3%b6n%c3%bcl">arsız gönül</a><br/><br/>saate aldırış etmeksizin evde bağıra çağıra <br/><br/>''ooo<br/>fırtınalar esiyor<br/>arsız gönül iflah olmuyor''<br/><br/>diye şarkı söylemek...
+- entry_name: |
+    şiirden bestelenmiş en iyi şarkılar
+  entry_id:  66668747
+  entry_writer: mizantrop
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=mutlak+seveceksin">mutlak seveceksin</a>)
+- entry_name: |
+    manchester by the sea
+  entry_id:  66660525
+  entry_writer: djarummenthol
+  entry_fav_count: 0
+  entry_content: |
+    karakterlerin neredeyse bir romandakinden bile daha derin yazıldığı efsane ötesi film.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  66663312
+  entry_writer: wish i could fly
+  entry_fav_count: 0
+  entry_content: |
+    bugun dogum gunum. <sup class="ab"><a title="(bkz: daha dogrusu yarin da burda yarin oldu)" href="/?q=daha+dogrusu+yarin+da+burda+yarin+oldu" data-query="daha dogrusu yarin da burda yarin oldu">*</a></sup> hic olmadigim kadar yalnizim.<br/>anlatin, dinleyeyim en azindan yalnizligimi unuturum.
 - entry_name: |
     alper ulusoy
   entry_id:  66666038
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     60. dakikadan sonra görev modunu açmıştır.
-- entry_name: |
-    16 nisan 2017 anayasa değişikliği referandumu
-  entry_id:  66661583
-  entry_writer: 240203
-  entry_fav_count: 0
-  entry_content: |
-    cemaat çok zulmetti yargılandı!<br/>sizde zulmediyorsunuz!<br/>y a r g ı l a n a c a k s ı n ı z !
 ---
