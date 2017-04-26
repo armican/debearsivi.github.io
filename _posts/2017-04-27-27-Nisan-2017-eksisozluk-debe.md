@@ -1,0 +1,355 @@
+---
+layout: post
+title: 27 Nisan 2017 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    adana belediyesi'nin arapça levhaları kaldırması
+  entry_id:  67738751
+  entry_writer: whatdreamsnevercome
+  entry_fav_count: 722
+  entry_content: |
+    mülteciler kim köpek kışkırıyor ulan? kim bunlar? ülkenin sahibi mi?<br/><br/>misafir misafirliğini bilecek.<br/>kışkıranın da kalkmış götü öyle bir iner ki, mülteci geldikleri ülkede bir kez daha mülteci olurlar. izmir'de olan gibi.<br/><br/>lafa bak amk.<br/>ülkenin sahibi sanki, sikişmekten başka bir şeyden anlamayan, ödlek 3 milyon suriyeli.
+- entry_name: |
+    chp'nin referandumu aihm'e taşıması
+  entry_id:  67737466
+  entry_writer: aslagelmeyecektelefonubekleyenadam
+  entry_fav_count: 638
+  entry_content: |
+    seçim kanunu <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mevzuat.gov.tr/MevzuatMetin/1.4.298.pdf" title="http://www.mevzuat.gov.tr/MevzuatMetin/1.4.298.pdf">madde 98 ve 101</a>'e aykırı olmasına rağmen <a class="b" href="/?q=16+nisan+2017+m%c3%bch%c3%bcrs%c3%bcz+oy+pusulalar%c4%b1n%c4%b1n+kabul%c3%bc">16 nisan 2017 mühürsüz oy pusulalarının kabulü</a> ile başlayan süreç <a class="b" href="/?q=akp+talebi+%c3%bczerine+m%c3%bch%c3%bcrs%c3%bcz+oylar%c4%b1+ge%c3%a7erli+sayd%c4%b1k">akp talebi üzerine mühürsüz oyları geçerli saydık</a> beyanı ile devam etmiştir. <a class="b" href="/?q=chp">chp</a> türk milletinin iradesine sahip çıkmak için önce ysk'ya<sup class="ab"><a title="(bkz: ysk&#39;nın mühürsüz oy itirazını red etmesi)" href="/?q=ysk%27n%c4%b1n+m%c3%bch%c3%bcrs%c3%bcz+oy+itiraz%c4%b1n%c4%b1+red+etmesi" data-query="ysk&#39;nın mühürsüz oy itirazını red etmesi">*</a></sup> sonra danıştay'a<sup class="ab"><a title="(bkz: 25 nisan 2017 danıştayın chp&#39;nin başvurusunu reddi)" href="/?q=25+nisan+2017+dan%c4%b1%c5%9ftay%c4%b1n+chp%27nin+ba%c5%9fvurusunu+reddi" data-query="25 nisan 2017 danıştayın chp&#39;nin başvurusunu reddi">*</a></sup> başvurmuş ve red cevabı almıştır. bu yüzden <a class="b" href="/?q=aihm">aihm</a>'e başvuru kararı yurttaşların haklarını aramaya yöneliktir.<br/><br/>chp sözcüsünün açıklaması için <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/herkesicinCHP/status/857264557353570304" title="https://twitter.com/herkesicinCHP/status/857264557353570304">buyrunuz</a><br/><br/>ayrıca <a class="b" href="/?q=16+nisan+2017+anayasa+de%c4%9fi%c5%9fikli%c4%9fi+referandumu">16 nisan 2017 anayasa değişikliği referandumu</a> ile alakalı aşağıdaki konu başlıklarını tarihe not düşelim;<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+ysk+darbesi">16 nisan 2017 ysk darbesi</a>)<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+ysk+a%c3%a7%c4%b1klamas%c4%b1">16 nisan 2017 ysk açıklaması</a>)<br/><br/>(bkz: <a class="b" href="/?q=m%c3%bch%c3%bcrs%c3%bcz+pusula+ge%c3%a7ersizdir">mühürsüz pusula geçersizdir</a>)<br/><br/>(bkz: <a class="b" href="/?q=2.5+milyon+m%c3%bch%c3%bcrs%c3%bcz+evet+oyu">2.5 milyon mühürsüz evet oyu</a>)<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+referandum+hileleri">16 nisan 2017 referandum hileleri</a>)<br/><br/>(bkz: <a class="b" href="/?q=defalarca+oy+kullanan+evet+se%c3%a7meni">defalarca oy kullanan evet seçmeni</a>)<br/><br/>(bkz: <a class="b" href="/?q=hay%c4%b1r+oyu+s%c4%b1f%c4%b1r+%c3%a7%c4%b1kan+961+adet+sand%c4%b1k">hayır oyu sıfır çıkan 961 adet sandık</a>)<br/><br/>(bkz: <a class="b" href="/?q=18+nisan+2017+y%c4%b1lmaz+%c3%b6zdil+k%c3%b6%c5%9fe+yaz%c4%b1s%c4%b1">18 nisan 2017 yılmaz özdil köşe yazısı</a>)<br/><br/>(bkz: <a class="b" href="/?q=evet%c3%a7ilerin+ysk+skandal%c4%b1na+sessiz+kalmas%c4%b1">evetçilerin ysk skandalına sessiz kalması</a>)<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+referandumunda+hile+yap%c4%b1lmas%c4%b1">16 nisan 2017 referandumunda hile yapılması</a>)<br/><br/>(bkz: <a class="b" href="/?q=mu%c5%9f%27ta+kala%c5%9fnikof+ile+zorla+evet+verdiren+adam">muş'ta kalaşnikof ile zorla evet verdiren adam</a>)<br/><br/>(bkz: <a class="b" href="/?q=referandumda+viran%c5%9fehir+de+yap%c4%b1lan+se%c3%a7im+hilesi">referandumda viranşehir de yapılan seçim hilesi</a>)<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+m%c3%bch%c3%bcrs%c3%bcz+oy+pusulalar%c4%b1n%c4%b1n+kabul%c3%bc">16 nisan 2017 mühürsüz oy pusulalarının kabulü</a>)<br/><br/>(bkz: <a class="b" href="/?q=18+nisan+2017+sayg%c4%b1+%c3%b6zt%c3%bcrk+m%c3%bch%c3%bcrs%c3%bcz+pusula+yaz%c4%b1s%c4%b1">18 nisan 2017 saygı öztürk mühürsüz pusula yazısı</a>)<br/><br/>(bkz: <a class="b" href="/?q=akp+talebi+%c3%bczerine+m%c3%bch%c3%bcrs%c3%bcz+oylar%c4%b1+ge%c3%a7erli+sayd%c4%b1k">akp talebi üzerine mühürsüz oyları geçerli saydık</a>)<br/><br/>(bkz: <a class="b" href="/?q=18+nisan+2017+hay%c4%b1r%c4%b1m%c4%b1za+sahip+%c3%a7%c4%b1k%c4%b1yoruz+eylemleri">18 nisan 2017 hayırımıza sahip çıkıyoruz eylemleri</a>)<br/><br/>(bkz: <a class="b" href="/?q=16+nisan+2017+referandumda+blok+oy+kullan%c4%b1lmas%c4%b1">16 nisan 2017 referandumda blok oy kullanılması</a>)<br/><br/>(bkz: <a class="b" href="/?q=17+nisan+2017+%c3%bcmit+%c3%b6zda%c4%9f%27%c4%b1n+referandum+a%c3%a7%c4%b1klamas%c4%b1">17 nisan 2017 ümit özdağ'ın referandum açıklaması</a>)<br/><br/>(bkz: <a class="b" href="/?q=ysk%27n%c4%b1n+m%c3%bch%c3%bcrs%c3%bcz+pusula+ge%c3%a7erlidir+karar%c4%b1+almamas%c4%b1">ysk'nın mühürsüz pusula geçerlidir kararı almaması</a>)<br/><br/>edit : başlığı açan suser'ın geçmişte <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/yED1pM.jpg" title="http://i.hizliresim.com/yED1pM.jpg">yazdıkları :</a> <a class="b" href="/entry/5048198">#5048198</a>.
+- entry_name: |
+    abdullah gül
+  entry_id:  67731919
+  entry_writer: yedinci element
+  entry_fav_count: 382
+  entry_content: |
+    abdullah gül'de buluşacağıma yüze yüze rodos'a giderim daha iyi.<br/><br/>gerçi benden önce deniz baykal'ın yapması gerekiyor bunu, abdullah efendiyi başımıza saracağına.
+- entry_name: |
+    nisan 2017 tsk'nın pyd'ye savaş açması
+  entry_id:  67736615
+  entry_writer: optumsaygodumbye
+  entry_fav_count: 291
+  entry_content: |
+    başlık yanlış açılmış bence. pyd bir terör örgütüdür ve terör örgütleri ile savaşılmaz, mücadele edilir. pyd ile savaşıyoruz demek, pyd'nin meşruiyetini kabul etmektir ki bu asla kabullenebileceğimiz bir şey değil.
+- entry_name: |
+    diyarbakır surlarına inen melekler
+  entry_id:  67741382
+  entry_writer: nikola tesla isimli sahis
+  entry_fav_count: 220
+  entry_content: |
+    "ne derece doğru bilemiyorum" nedir amk?
+- entry_name: |
+    matematiğin bir bilim dalı olmadığı gerçeği
+  entry_id:  67731131
+  entry_writer: edgecrusher
+  entry_fav_count: 210
+  entry_content: |
+    matematik, bilimin ana dilidir. <br/><br/>bilim, mutlak değildir. mutlak olan insanlar tarafından üretilmiş kavramlara dogma denir. bunu bile bilmeyen bir insanın bilimle ilgili konuşması "ossuruktan tayyare" deyiminin bir örneği olmalı.<br/><br/>bunun farkında bile olmayan birisinin iki matematik terimi adı yazıp matematiği "tefe koyması" oldukça gülünç bir şey.
+- entry_name: |
+    kızların hoşlandığı erkeğe yaklaşma metotları
+  entry_id:  67731822
+  entry_writer: yagmurda islanirken gokyuzune baksam
+  entry_fav_count: 160
+  entry_content: |
+    yaklaşmasına gerek yoktur, güzel bir bakış ve gülümsemenin akabinde erkek zaten hemen yavşar. bu yavşama doğuştan gelen bi özellik. güncellenemiyor da, direk sistem dosyası şeklinde.<br/><br/>edit: başlık başa niye kaldı ki?<br/><br/>edit 2: debe olsaydı böyle bir entry ile debeye girdiğim için gurur duyardım. annem, babam falan da çok sevinirdi tüh.
+- entry_name: |
+    bir kıza açılmak isteyenlere tavsiyeler
+  entry_id:  67727890
+  entry_writer: montanyar prometheus
+  entry_fav_count: 130
+  entry_content: |
+    yeşil ışık yakanlara, size beğenisini belli edenlere açılın demiş yazar arkadaşımızın biri. ben de şöyle diyeyim size yeşil ışıklardan oluşan geçit töreni bile yapsa açılırken en az 2 kez düşünün. ( ve bence köpek gibi aşık olsanız bile açılmayın.) sonra küsküyü yiyorsunuz. nerden mi biliyorum ? <br/>yeşil ışıklardan geçit törenine davet edilen bir arkaşım açıldı ve " sana gerçekten değer veriyorum ancak ben ilişki istemiyormuşum, kafam karışıkmış " cevabını aldı. <br/>dedim ya bir arkadaşım...
+- entry_name: |
+    akp'li il-ilçe yöneticisi 800 kişi hakim yapıldı
+  entry_id:  67737503
+  entry_writer: xixcq
+  entry_fav_count: 130
+  entry_content: |
+    chp istanbul milletvekili barış yarkadaş, önceki gün akp'li sekiz yüz avukatın hakim olarak atandığını açıkladı. yarkadaş, atanan isimlerin birçoğunun il ve ilçe yöneticisi olduğunu söyledi.<br/><br/>adalet bakanlığı'nın "avukatlıktan hakemliğe geçiş sınavı mülakat sonuçları" önceki gün açıklandı. mülakatlarda, yazılı sınavda 80'in üzerinde puan alan birçok isim elenirken, 55-60 puan alan avukatlara hakimlik yolu açıldı.<br/><br/>atamalara tepki gösteren chp istanbul milletvekili barış yarkadaş "en büyük adaletsizlik adalet bakanlığı'nda yaşanıyor" dedi. akp'nin "parti devleti" kurma çalışmalarını yargı kurumlarında da sürdürdüğünü belirten yarkadaş şöyle konuştu:<br/><br/>"yargı çevrelerinden edindiğim bilgiye göre, avukatlıktan hakimliğe geçiş sınavında iç karartıcı bir tablo var. sonuçları referandumdan sonra açıkladılar... kadrolaşma tartışması yaşanmasın diye referandumun bitmesini beklediler. önceki gün açıklanan mülakat ve atama sonuçları zaten kadrolaşmayı açıkça gösteriyor. yazılı sınavda 80 puan alan avukatlar devre dışı bırakılıyor. 55-60 puan alanlar ise mülakatı geçiyor. bu kişilerin tek özelliği ise akp'de yöneticilik görevinde bulunmaları... akp, kadrolarını hakim yaparak yargıyı kontrol altında tutmak istiyor."<br/><br/>yolu khk ile açtılar<br/>akp'nin yargıda kadrolaşabilmek için khk çıkararak kadrolaşma yolunu açtığını belirten yarkadaş, "1500 hakim açığı var denilerek sınav açtılar. ancak ne ilginçtir ki sadece 900 hakim aldılar. bunların 800'ü de akp'li" dedi.<br/><br/>önceki gün atanan bazı isimleri de açıklayan yarkadaş sözlerine şöyle devam etti:<br/><br/>"mülakata akp yöneticisi ve üyesi yaklaşık bin avukat giriyor. bunların sekiz yüzü, yazılıda düşük puanlar almasına rağmen mülakatı kolaylıkla geçiyor. aslında isimlere baktığınızda kerametlerini anlıyorsunuz. örneğin, kadir nozoğlu bu isimlerden biri... nozoğlu akp elazığ merkez ilçe başkanı... dünden itibaren artık hakim..."<br/><br/>yarkadaş tespit edebildiği diğer isimleri de sıraladı:<br/><br/>"bu isimlerden biri de behice çavuşoğlu... hanımefendi, akp giresun kadın kolları başkanı... ceyda bozdağ, edirne merkez ilçe başkanlığı yöneticisi ve akp edirne milletvekili aday adayı... hacer alan, ankara büyükşehir belediye başkanı melih gökçek'in avukatı... ve bu gibi yüzlerce isim... akp, mahkemeleri adeta ilçe başkanlığı haline çevirdi. bunun acısını toplumun tamamı çekecek..."<br/><br/>adalet yok<br/>yapılan son atamalarla adalete olan güvenin yüzde otuz seviyesinden daha da aşağı ineceğini belirten yarkadaş, "adalet yoksa hiçbir şey yoktur" dedi.<br/><br/>akp yöneticilerinin en büyük korkusunun yargılanmak olduğunu belirten yarkadaş, "işledikleri suçlardan kurtulabilmek için yargıyı kontrol altında tutmak istiyorlar" ifadesini kullandı.<br/><br/>akp yöneticiliği yapmış kişilerin şaibeli bir biçimde hakim yapılmasının muhaliflere gözdağı niteliği taşıdığını da belirten yarkadaş "erdoğan'ı ya da akp'yi eleştirdiği için gözaltına alınan bir kişi, bu hakimlere emanet edilecek... bu tablodan adalet çıkmaz! bu kişiler partizan gibi davranır ve intikamcı bir anlayışla hareket eder. adalet intikamın bir aracı haline gelir. işte en korkunç olanı da budur" dedi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.abcgazetesi.com/akpli-il-ilce-yoneticisi-800-kisi-hakim-yapildi-51551h.htm" title="http://www.abcgazetesi.com/akpli-il-ilce-yoneticisi-800-kisi-hakim-yapildi-51551h.htm">link.</a>
+- entry_name: |
+    ideal zeytinin bir türlü bulunamaması
+  entry_id:  67733630
+  entry_writer: soner bastiat
+  entry_fav_count: 127
+  entry_content: |
+    belki de sadece benim bulamamam. arkadaşlar bir şey soracağım: siz bu zeytin işini ne yapıyorsunuz? her kahvaltılıkta bir standart oturttum hemen hemen ancak bu zeytinde hala bir standart yakalayabilmiş değilim. bir kere çok tuzlu değiller mi yahu? şarküteri reyonlarında zeytinleri deneyip deneyip almamaktan mimlendim artık. sanki ben oraya para vermeden zeytin yemeye gidiyormuşum gibi bir hava oluştu markette. yiyip yiyip almayacağımı bildikleri için artık küreği bile doğru düzgün uzatmıyorlar. hele çiğneme yaptığım sırada onların o eller belde baygın bekleyişleri… gözlerimi kaçırıyorum, hızlı hızlı çiğnemeye çalışıyorum falan. sanki gurmeymişim gibi tripler böyle gözleri kapatmalar vs.. bi ara espri yaptım “çay var mı yae??” dedim hani o kadar zeytin yedik bari bi çay içelim gibi o an bana komik gelen, fakat şu an bunları yazarken o kadar da komik olmadığını farkettiğim son derece boş bi espri yaptım. o kadar anlamsız gözlerle karşılık verdi ki, uzatamadım. <br/><br/>sonra dedim ki ulan deneyip deneyip almıyorum bari anlamlı bi nedeni olsun, bi muhabbet olsun, bi sıcaklık olsun..anadoluluk katayım işin içine duygusallık katayım dedim ve durduk yere “bizim köydeki gibi değil ya” dedim. ulan hayatımda köy mü görmüşüm ne köyü hangi köy? tamamen saçma sapan gereksiz bir muhabbet. kaldı ki bir beyaz yakalı istanbul çocuğunun eline, yüzüne, gözüne bulaşacak türden tehlikeli bir muhabbet. herif de “yoo bu doğrudan bizim köyden geliyor aynısı” demesin mi? bir de edremitliymiş, yani teoride daha iyi zeytin alabileceğin başka bir bölge yok :/ “siz nerelisiniz ki?” dedi. adam da tabii zeytin uzmanı şimdi merak etti edremit zeytinini beğenmeyen ve köydeki zeytinlerini özleyen bu yaman anadolu çocuğu hangi köyden, hangi bölgeden diye merak ediyor. ben de o heyecanla “istanbulluyum” dedim mi? orada da bi sıçtım mı? ulan zeytinleri yerim yerim almam, gereksiz gereksiz espriler yaparım, köylüyüm derim istanbullu çıkarım… bir de toparlayayım diye hemen arkasından “yani babam çemişgezekli” dedim. yazları onunla gideriz köye falan diye attıkça atıyorum adama ama alakası yok yani ben hayatımda bir kere bile gitmedim çemişgezek’e. bu muhabbeti duyan arka tarafta et reyonuna bakan bi adam aniden dönüp 94 desibel ile “neeeeee sen çemişgezekli misin ya!!!” diye satırla üzerime doğru bi koştu, hemşeriymişiz.<br/><br/>“senin gibi sarı oradan nası çıkmış öyle yaa”lar olsun, “asıl kürtler sarı olurmuş zaten”ler olsun..adam neler neler anlatıyor, ne detaylar veriyor da bana köyün adını sorsa nüfus cüzdanıma bakmak zorundayım, öyle bi alakasızım konuyla ama inanılmaz duygulanmış gibi yapıyorum adama karşı gözlerimi doldurmaya çalışıyorum, ben de kaptırdım kendimi. aşırı gereksiz bi duygu yüklendi ortama. halbuki benim aklımdan o an tek bir şey geçiyor: şu köşedeki yeşil zeytini de deneyip sktirip gidicem. aklımda başka hiçbir şey yok. muhtemelen o zeytin de istediğim gibi çıkmayacak ama insanın aklı kalıyor işte. hayır anlamadığım şey ne biliyor musunuz? yaklaşık 20 dakikadır zeytin reyonunun önünde yaşadığım bu kararsızlık sürecinde en az 10 kişi gelip resmen denemeden zeytin alıp pıtır pıtır gittiler. <br/><br/>bazen büyük bir trolling içinde olduğumu falan düşünüyorum. yani sanki benim evde özellikle çekmeyen bir kanalda bu yaşadığım ızdırabın realitysi döndürülüyor da kimse bana çaktırmıyor gibi. zaten bir yerde okuyup not almıştım; "hayatın bizle dalga geçtiğini şurdan anlayabiliriz; cahit sıtkı tarancı 'yaş 35, yolun yarısı eder' şiirini yazmış ve 46 yaşında ölmüş. sezai karakoç 'uzatma dünya sürgünümü benim' şiirini yazarak ölmek istemiş ve şu an 82 yaşında hala yaşıyor" deniyordu. yani gerçekten de ufak ufak bi makara dönmüyor değil, insan huylanıyor. madem şairlerden gidiyoruz, aklıma geldi..şemsi belli o zamanlar lise 1'e gidiyor, bir kıza aşık. kızın ismi nebahat. aynı sınıftalar ve nebahat'ın başka bir özelliği daha var: il jandarma komutanının kızı. yani oldukça tehlikeli bir kızdan bahsediyoruz, özellikle o dönem için. edebiyat öğretmeni o gün derste yahya kemal'in 'ses' şiirini işliyor ve şiiri okuması için belli'yi seçiyor. belli ise şiirdeki "his var mı bu alemde, nekahat gibi tatlı" dizesini "hiç var mı bu alemde nebahat gibi tatlı" diye değiştiriyor okurken. öğretmen çıldırıyor ve hatta artık nasıl bir muhafazakarlık hakimse ortama, belli okuldan atılıyor (oha). malatya'da o dönem başka lise olmadığı için elazığ'a gitmek zorunda kalıyor ve hatta o yıl bu perişanlık içinde sınıfta kalıyor. allah belanızı versin. <br/><br/>bilenler bilir, başka bir tuhaf hikayenin kahramanı da ahmed arif'tir. kendisi cemal süreya'yı o kadar seviyormuş ki onun kız kardeşiyle daha bir kere bile görmeden evlenmek istemiş. cemal süreya konuyu kız kardeşine açmış ve bir şekilde ikisini tanıştırmak için zafer çarşısı'nda buluşma ayarlamış. herkes heyecanlı. süreya ve kız kardeşi gelmişler ve beklemeye başlamışlar. 1 saat, 2 saat, 3 saat..ahmed arif yok, mecbur kalkmışlar. daha sonradan öğreniyorlar ki ahmed arif gömlek bulamadığı için görüşmeye gitmemeyi daha mantıklı bulmuş. tabii bunu haber verecek telefonu da yokmuş. herkes bunu böyle naif bir hikaye olarak anlatır ama bence arif'in başına o gün başka bir şey geldi, yemiş süreya'ları. ayrıca araban olmamasını, evin olmamasını, telefonun olmamasını falan anlarım da, gömleğin de yoksa yani evlenme abi bi zahmet zaten. mesela ben doğru düzgün bir zeytin standardı tutturmadan bile evlenmeyi çok yanlış buluyorum. yarın karıma bunun mantıklı bir izahını yapamam. kısacası, o zeytini bulmam lazım, yardımlarınıza açığım.
+- entry_name: |
+    ameliyattaki hastanın fotoğrafını paylaşan doktor
+  entry_id:  67738223
+  entry_writer: green riddle
+  entry_fav_count: 122
+  entry_content: |
+    ülkenin doktorunun bile çomar kafasında olduğunu gösteren olaydır.<br/><br/>not: herkes aynı değil tabi ki.
+- entry_name: |
+    10 yaşındaki çocuğun sokakta kadına laf atması
+  entry_id:  67737661
+  entry_writer: hetece
+  entry_fav_count: 120
+  entry_content: |
+    çocuktur , yapar geçer boşver ne olacak, demeyeceğim bir hadiseyi sizlere anlatmak istiyorum. anlatım bozukluğu olabilir çünkü olayı yeni öğrendim ve şuan kriz geçiriyorum. kızgınlığım çocuktan çok bunu olağan gören ebeveyn'ine annesine. bir insan 10 yaşındaki bir çocuğa eğitim, ahlak,saygı gibi insan da olması gereken temel unsurları öğretemeyecekse; annelik hakkı elinden alınmalı.<br/><br/>gelelim konumuza;<br/><br/>yer istanbul'un en pislik yobaz çağdaşlıktan uzak semti esenler'de meydana geliyor. aynı apartman'da yıllardır kardeş olarak büyüdüğüm, komşum adını vermeyeceğim; kadın arkadaşım evine giderken mahalle'de oynayan 10 yaşındaki bir orospu çocuğu veledin sözlü tacizine maruz kalıyor. evet 10 yaşında bir çocuk 30 lu yaşlarda arkadaşıma 'memelerini yalarım' gibi iğrenç birşey söyleyip, pis pis sırıtarak topunu oynamaya devam ediyor. arkadaşım o anın şokuyla birşey yapamıyor tabi ki ne yapsın çocuk o daha. <br/><br/>bir süre soruştururak çocuğun annesini buluyor. evine gidiyor. çocuğun ruh halinin, geleceğin potansiyel sapığı, kadınları katleden, tecavüz eden erkek tipi olduğunu bunun için bir doktordan yardım almasını söylüyor; ama karşılaştığı tepkiyle bir kez daha şoka giriyor. çocuğunu uyarıp, olayı ciddiye alması gereken kadın, ' oğlum daha önce de kızlara bu şekilde laf attı. çocuk o daha yapacak birşey yok.' deyip; konuyu kapatmaya çalışıyor. <br/><br/>bu kadarına da artık pes diyorum. buraya kadar çocuğa olan öfkem bitti. böyle ebeveynler olduğu müddetçe; tecavüzler kadın cinayetler,i kadınlara şiddet son bulmaz. bunun çözümü yine kadınlar da anneler de bitiyor. sen evladına bunu aşılamazsan, sen evladının yaptıklarına çocuk o dersen o çocuk ileri de senden aldığı güveni cesareti başka kadınların hayatlarını karartır. erkek çocuklarını cesur büyüteyim. onlar evin direği, onlar prens, erkek yapar, ama kız çocugu yapamaz diye düşünen erkek evladını bu şekil de büyüten bütün annelere yazıklar olsun.
+- entry_name: |
+    aldatan kadını yakalama yöntemleri
+  entry_id:  67737233
+  entry_writer: bidi bidi bi sus artik
+  entry_fav_count: 115
+  entry_content: |
+    amına gizli kamera sokun :/<br/><br/>edit: düşündüm de götüne de bi kamera lazım<br/>edit2: ağzına da<br/>edit3: eline :s<br/><br/>mesajla "memişleri mıncıklatırsa nasıl anlayacaz" diye soranlar oldu. cevap veriyorum: <a class="b" href="/?q=anlayamazs%c4%b1n%c4%b1z">anlayamazsınız</a>!
+- entry_name: |
+    zonguldak'ta silahla vurulan 6 yunus
+  entry_id:  67729143
+  entry_writer: lesley mateas
+  entry_fav_count: 103
+  entry_content: |
+    balıkçı ağlarını parçaladıkları için balıkçılar tarafından öldürülen yunuslar... <br/><br/>sizin şerefinizi sikeyim ey balıkçılar...
+- entry_name: |
+    26 nisan 2017 11 bin polisin açığa alınması
+  entry_id:  67743979
+  entry_writer: ev yapimi limonata
+  entry_fav_count: 99
+  entry_content: |
+    her yere kendi adamlarımızı yerleştirelim kafasıyla çıktıkları bu yolda 15 yılın sonunda ırzına geçilmedik devlet kurumu kalmadı. zamanında kendi adamlarıydı şimdi vatan hainleri öyle mi? biz de bunu yedik, hepiniz aynı boksunuz.
+- entry_name: |
+    dev yılanın kadını yutması
+  entry_id:  67734038
+  entry_writer: yagmur altinda islanmayan adam
+  entry_fav_count: 86
+  entry_content: |
+    inci sözlük kapandı mı? sorusunu akıllara getiren başlık ve içeriktir.
+- entry_name: |
+    stalk sözcüğüne türkçe isim önerileri
+  entry_id:  67732765
+  entry_writer: velovis
+  entry_fav_count: 79
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dikiz">dikiz</a>)
+- entry_name: |
+    gay pornosu izlemekten keyif almak
+  entry_id:  67742742
+  entry_writer: ortalama insan dusuncesine sahip insan
+  entry_fav_count: 73
+  entry_content: |
+    (bkz: <a class="b" href="/?q=beyefendiye+beyefendi+g%c3%b6nderelim">beyefendiye beyefendi gönderelim</a>)
+- entry_name: |
+    mehmet demirkol
+  entry_id:  67732939
+  entry_writer: inadiminat
+  entry_fav_count: 72
+  entry_content: |
+    bu ülke ne zaman bu hale geldi bilmiyorum minvalinde şeyler söyledi az önce. çok iyi biliyorsun demirkol, hepimiz biliyoruz.
+- entry_name: |
+    survivor 2017
+  entry_id:  67725200
+  entry_writer: rundeeprunwild
+  entry_fav_count: 54
+  entry_content: |
+    ulan gece gece iyi guldum yine. furkan mi o biri icin sanirim adem kendi karari yok, karakterini ortaya koyamiyo diyo!?!? dunyanin en kisa fikrasi ya yemin ederim. bi random gulem bari asdfafasdff.
+- entry_name: |
+    zarrab benim vatandaşım görevim vatandaşı korumak
+  entry_id:  67724636
+  entry_writer: karincayiyenadam
+  entry_fav_count: 51
+  entry_content: |
+    soma'da vatandaşa yumruk atan birinin açıklamasıdır.
+- entry_name: |
+    yatakta sevgiliye sabaha kadar kitap okuyan erkek
+  entry_id:  67724494
+  entry_writer: de nada
+  entry_fav_count: 51
+  entry_content: |
+    sünepedir. çok açık söylüyorum sünepedir.<br/><br/>kadınlara kitap okunabilir buna bir şey diyemem ama kadınlar sevilmek için yaratılmışlardır. sevecekseniz en hayvani duygularınızla tüm erkekliğinizle, testosteronunuzun hakkını vererek sevin. siz erkeksiniz, erkek olun. boş romantizm sünepeliktir, net. hiçbir kadın geceyi bir erkek kendisine kitap okusun diye hayal etmez. kadınlar uykuyu emin olun kitaplardan daha çok sever. kimse kitap okunsun diye gecesinden feragat etmez. buna emin olun. <br/><br/>sevdiğiniz kadın 3 saat sünepece kitap okuyup seveceğinize saçını tutup sevin. belini sıkıca kavrayıp sevin. aynı gece defalarca sevin. 3 defa 5 defa sevin! öyle sevin ki boyun damarları anatomi kitabından çıkmış gibi olsun. boynu gerilmekten kırmızıya çalsın. gözleri sağa devrilsin, saçınıza aşkla, tutkuyla, coşkuyla tutunsun elleri. başını olabildiğince geriye atsın. arada ufak çığlıklar, çoğunlukla iniltiler duyulsun odanızdan. bir kadını bence böyle sevin. geceyi böyle geçirin. kitap ne, şiir ne... boş söz, laf-ı güzaf. <br/><br/>erkek erkektir, kadın kadındır. kitap da kitaptır. bir kadın bir erkekle bir gece geçiriyorsa gerçekten sevilmek istiyordur. bu kitap okuma sünepeliğine de sırf siz kırılmayasınız diye veya yanlış anlaşılmamak adına katlanıyordur. ses etmemesi de bundan yani, hoşuna gitmesinden filan kesinlikle değil.<br/><br/>30 yaşına yaklaşınca anlıyorsunuz böyle hakiki gerçekleri. sözlerime kıymet verin.
+- entry_name: |
+    2 mayıs 2017 green card çekiliş sonuçları
+  entry_id:  67740555
+  entry_writer: matjunhyu
+  entry_fav_count: 49
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/LUHbNu" title="https://goo.gl/LUHbNu">dvlottery.state.gov</a> adresinden açıklanacak sonuçlardır.<br/><br/>(bkz: <a class="b" href="/?q=at+fav%27a+bekle">at fav'a bekle</a>)
+- entry_name: |
+    abd'nin güçlü olmasının sebebi
+  entry_id:  67726533
+  entry_writer: mattafix
+  entry_fav_count: 47
+  entry_content: |
+    kurulduğundan beri bu kadar hızlı gelişmesinin asıl büyük sebebinin coğrafi konumudur. eski teknoloji günümüzün teknolojisiyle aynı olmaması nedeniyle kolay ulaşılamayacak bir yerde bulunuyor ve diğer kıta ülkeleri savaşla şununla bununla uğraşırken amerikalılar uzak olmasından faydalanarak kendilerini eğitimde, mimaride, sanatta, teknolojide vs rahatça geliştirebilme imkanı buldular. 1920-30'lu yıllarda yaptıkları gökdelenleri biz 80-90 yıl sonra dikebildik mesela. adamlar 100 yıl önce yaptığı tankı, uçağı biz daha bugün hala yapamıyoruz. <br/>zira birinci dünya savaşına kadar hiçbir ülke amerika'nın bu denli gelişmiş bir ülke olduğundan haberi dahi yoktu.
+- entry_name: |
+    #pınarürünleriboykot
+  entry_id:  67727416
+  entry_writer: mitrann
+  entry_fav_count: 38
+  entry_content: |
+    evetçi anneme ' pınar ürünlerinde domuz yağı kullanılıyormuş' diyerek katılmasını sağladım. pişman değilim...
+- entry_name: |
+    suriyeli sığınmacılar
+  entry_id:  67729668
+  entry_writer: behexen
+  entry_fav_count: 36
+  entry_content: |
+    hala bazı gerizekalı ve bir o kadar da moronlar tarafından, topluma entegre olabilmeleri için sözümona sivil toplum kuruluşlarının çabaladıkları söylenen topluluk.<br/><br/>lan moron bu adamların topluma entegre olma gibi bir dertleri tasaları yok.o küçük beyninin bunu 7 senedir anlamaması son derece normal gerçi.<br/><br/>lan siz ne kadar mal ne kadar sığır adamlarsınız.bu ülkenin insanı daha ne yapsın.bütün mal varlığını suriyelilerin üstüne mi geçirsin.bu adamlara 99 gün yardım et bir gün etmesen sana saldırırlar.gelmiş hala ne yaptınız diyor.<br/><br/>5 milyon fazla insana sadece tek bir ülkenin baktığı nerede görülmüş.ekonomik olarak türkiye'nin çok üstünde olan ab ülkeleri bile 100 sığınmacı aldıklarıında bunu büyük bir olaymış gibi gösteriyorlar.<br/><br/>merkel bile türkiye sınırlardan mültecilerin geçişlerini önlesin diye kaç kere rte'nin ayağına kadar geldi anlaşmalar imzalandı.<br/><br/>boş laflarla 7 senedir bir bok olduğu yok hatta daha da kötü oluyor.
+- entry_name: |
+    uçak yolculuğu sırasında sinir eden olaylar
+  entry_id:  67727386
+  entry_writer: sevgiler
+  entry_fav_count: 30
+  entry_content: |
+    okyanus ötesi uçmuyorsak ota boka sinir olan pembe götlü lord özentilerinin cıkcıklamaları dışında hiçbir şeye sinir olmam. dar koltuk mesafesi dahil. uzun boylu ve uzun bacaklı olduğum halde.<br/><br/>havadasın. bulutların üstündesin. karayolu ile günler sürecek yolu birkaç saatte alıyorsun. uçuyorsun bir kere. muazzam bir teknoloji ile seyahat ediyorsun.<br/>alt tarafı iki saat, bilemedin üç beş saat sıkacaksın dişini. kitap/dergi oku, kulaklığını tak müzik dinle, film/dizi izle, viski iç, camdan dışarı bak... ne zorunuz var hostesin makyajıyla, milletin sohbetiyle davranışıyla, bebekli yolcuyla falan? ruh hastası mısınız nesiniz?
+- entry_name: |
+    ucuz iç çamaşırı giyen kadın
+  entry_id:  67727025
+  entry_writer: trumanshow
+  entry_fav_count: 22
+  entry_content: |
+    kendisine şiddetle a101 de satılan 3'lü bambu donlardan tavsiye ederim. 5,25 tl idi en son.
+- entry_name: |
+    çayı şekersiz kahveyi sade rakıyı sek içen tip
+  entry_id:  67732322
+  entry_writer: zinaedenzidan
+  entry_fav_count: 22
+  entry_content: |
+    songül karlı'yı nasıl sevdiği malum olan tip.
+- entry_name: |
+    40 yıldır kendilerini fotoğraflayan kız kardeşler
+  entry_id:  67730865
+  entry_writer: vncc
+  entry_fav_count: 21
+  entry_content: |
+    başlığı açan uzamış. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/onedio.com/amp-haber/129843" title="https://www.google.com.tr/amp/s/onedio.com/amp-haber/129843">link</a><br/><br/>yıllar geçtikçe kareden birer birer eksileceklerini düşündüğüm ama beni yanıltmış kız kardeşler. allah uzun omurler versin. herşeyi dramatize etmeyi ne de severim
+- entry_name: |
+    26 nisan 2017 medipol başakşehir fenerbahçe maçı
+  entry_id:  67743560
+  entry_writer: antik sehir
+  entry_fav_count: 18
+  entry_content: |
+    sonra dedim ki kendi kendime<br/><br/>ulan biz bu ismail köybaşı denen adamı nasıl kitlemişiz bunlara be.
+- entry_name: |
+    maradona ve messi'den daha iyiydim
+  entry_id:  67739247
+  entry_writer: low rock
+  entry_fav_count: 17
+  entry_content: |
+    maradona'dan saha dışında en azından iyidir. keza adam sosyalist parti için çalışıyordu bir zamanlar brezilyada. otuz kez ekonomik kriz yaşayan ülkede gerçekten de politikanın içindeydi. öyle maradona reyiz gibi koluna che dövmesi yaptırıp ortamlarda sırrıya verdim diye dolaşmıyordu. <br/><br/>tabi adamın finishinginin bir zamanlar 20 üzerinden 30 olduğunu da unutmamak lazım.
+- entry_name: |
+    bir cep telefonunu 5 seneden fazla kullanmak
+  entry_id:  67735702
+  entry_writer: bunu yazan tosun pasa
+  entry_fav_count: 16
+  entry_content: |
+    <a class="b" href="/?q=samsung+galaxy+s2">samsung galaxy s2</a> ile 6. yılımızı tamamlayacağız bir kaç aya kadar.
+- entry_name: |
+    ekşi itiraf
+  entry_id:  67724661
+  entry_writer: sigara kibrit
+  entry_fav_count: 15
+  entry_content: |
+    bugün bankada hesap işim vardı, öğrenci<sup class="ab"><a title="(bkz: kısaca aç)" href="/?q=k%c4%b1saca+a%c3%a7" data-query="kısaca aç">*</a></sup> olduğumu öğrenen bankacı kadın ısrarla bana <a class="b" href="/?q=sen">sen</a> diye hitap edip, küçümser ifadeyle konuşurken(hesaba atacak paran var mı? öğrencisin ne yapacaksın? vs), takım elbiseli, kırklı yaşlarında bir godoman geldi ve "<a class="b" href="/?q=x+bey+nerede%2c+biliyor+musun">x bey nerede, biliyor musun</a>?" diye sordu, bizimki gülerek "<a class="b" href="/?q=bilmiyorum%2c+bi+aray%c4%b1p+sorun">bilmiyorum, bi arayıp sorun</a>" dedi. ben <a class="b" href="/?q=siz">siz</a> diye hitap etmeme rağmen, ısrarla bana <a class="b" href="/?q=sen">sen</a> dedi, o godoman da emir şart kipleriyle konuşup <a class="b" href="/?q=sen">sen</a> diye hitap etmesine rağmen bankacı abla <a class="b" href="/?q=siz">siz</a> diye hitap etti. belki başkası takılmazdı bu konuya ama deli oldum ben. o bankada birkaç milyon lira mevduatım olsaydı acaba bana nasıl hitap ederdi? <br/><br/>öyle kesinlikle bana siz denilecek gibi bir kompleksim yok, sadece gösterdiğim muameleyi görmek istiyorum ama ne banka önüne çekecek bir audi a6'm(zengin, godoman denince aklıma direkt bu araba geliyor böyle bir algı var) var ne milyonluk mevduatlarım. <br/><br/>parasızlığın tek güzel yanı var; sahte ilgi ve yalaka insan olmuyor etrafınızda.<br/><br/>edit; kelime düzeltme.
+- entry_name: |
+    robin van persie
+  entry_id:  67743952
+  entry_writer: feanorfyndel
+  entry_fav_count: 13
+  entry_content: |
+    tosiç lens'in ayağını kırmaya kalktığında ''erkek oyunu ooolm bu, ağlamayın'' diye hep bir ağızdan öten beşiktaşlıların bu sezon içinde kalanlardan. ne güzel de kesti cezayı maç boyu maymunluk kasan oğuzhan'la kasap tosiç'e. tosiç güzelleyen ağız ayarı alınca alınan tiner miktarı taraftarlık dersi verdirtecek kadar artıyor işte. yoksa ahlak diye öten adamlar <a rel="nofollow noopener" class="url" target="_blank" href="http://galeri.uludagsozluk.com/39/besiktas-taraftari-vs-fenerbahce-taraftari_42441.jpg" title="http://galeri.uludagsozluk.com/39/besiktas-taraftari-vs-fenerbahce-taraftari_42441.jpg">şunlar</a>.. yanında sigara içsen havaya uçarsın.
+- entry_name: |
+    kilo vermek için gerekli motivasyon kaynağı
+  entry_id:  67734222
+  entry_writer: alseloz
+  entry_fav_count: 10
+  entry_content: |
+    bilmiyorum ama '' sana yakışması gereken o 34 beden'' için kilo veren bence diyetisyenden önce psikologa gözüksün, daha acil.<br/><br/>bence sağlık yeterli motivasyon, uyurken rahat yatmak, yürürken rahat yürümek, bilemiyorum çeşitli nedenleri olabilir, önemli olan vermeye çalışmanız.
+- entry_name: |
+    pokemon go rüzgarının dinmiş olması
+  entry_id:  67741244
+  entry_writer: lmustafal1
+  entry_fav_count: 9
+  entry_content: |
+    çok açık söyleyeyim 15 temmuz günü türkiyede biten oyundur. <br/><br/>(bkz: <a class="b" href="/?q=pokemon+go">pokemon go</a>)<br/><br/>başlıkta 15 temmuz aratınız
+- entry_name: |
+    #torkuürünleriboykot
+  entry_id:  67732276
+  entry_writer: spiritus sanctus
+  entry_fav_count: 8
+  entry_content: |
+    trollere bakın, korkuyorlar. <br/><br/>çünkü çağımızda insanlar aslında dinle değil, parayla birbirlerine bağlı. <br/><br/>en kral müslümanın cebinde <a class="b" href="/?q=in+god+we+trust">in god we trust</a> yazan dolar var. zevkle taşıyor. allah, kitap falan yalan dolan. piramidin gözüne bakıp şevkleniyorlar. sorsan oooo illuminati.<br/><br/>montgomery otobüs eylemi 1955 yılında alabama eyâletinin montgomery şehrindeki toplu taşımacılık sisteminde uygulanan ırkçılık politikasına başkaldırmak için başlatılmış sosyal ve politik bir protestoydu. mücadele 5 aralık 1955'ten 21 aralık 1956'ya kadar sürdü ve sonuçta birleşik devletler yüksek mahkemesi montgomery'deki ırkçı kanunlarının anayasaya aykırı olduğunu açıkladı.<br/><br/>zenciler günlerce işlerine yürüyerek gidip geldiler. günlerce. <br/><br/>ekonomik boykot bunları bitirir. çünkü etrafında toplandıkları şey para.
+- entry_name: |
+    ardahan'da bulunan rus general mezarı
+  entry_id:  67738476
+  entry_writer: yepisyeniydi
+  entry_fav_count: 8
+  entry_content: |
+    mezardaki kalıntılardan ya da rus arşivlerinden kimliğinin tespit edilebileceğini düşündüğüm, artık bu topraklara mal olmuş merhumdur. bence yapılacak doğru şey, ailesi bulunabilirse onların isteği doğrultusunda hareket etmektir. burada gömülebilir ya da rusya'ya, ukrayna'ya, gürcistan'a vs. verilebilir. ailesi bulunamaz ise meçhul asker diye şık bir mezar taşı konularak saygın bir yere defnedilir. atatürk'ün çanakkale'de ölen yabancı askerler için söylediği gibi artık bizim de evladımız olmuştur nihayetinde.<br/><br/>bir insanın kalıntılarını bu şekilde teşhir etmek, kazı alanını sirke çevirmek ise görgüsüzlük, kültürsüzlük ve en basit ifadeyle cehaletten başka bir şey değil.
+- entry_name: |
+    istanbul'un en dik yokuşları
+  entry_id:  67725029
+  entry_writer: startverildivekosubasladi
+  entry_fav_count: 6
+  entry_content: |
+    25 yıllık fulya'lıyım. roberto carlos dan daha iyi bacak kaslarım var.<br/><br/>fulya yokuştur biraları tokuştur.
+- entry_name: |
+    içki içmeye başlanacak ideal saat
+  entry_id:  67743766
+  entry_writer: neylesinmahmut
+  entry_fav_count: 5
+  entry_content: |
+    benim için 22:00 'dir.<br/><br/>eğer günün başka bir saatinde içesim gelirse, saatimi 22:00 'ye ayarlar içmeye başlarım.
+- entry_name: |
+    26 nisan 2017 darüşşafaka doğuş real madrid maçı
+  entry_id:  67743788
+  entry_writer: yazsamromanolur
+  entry_fav_count: 5
+  entry_content: |
+    tribün hep beyaz gömlek. plaza bölgesinden çıkan maça gitmiş tribün kuzuların sessizliği gibi. tamam holiganlık yapın demiyorum da az tepki verin.<br/><br/>daçkanın kazanması ümidiyle.
+- entry_name: |
+    prison break
+  entry_id:  67733297
+  entry_writer: onre binabasi
+  entry_fav_count: 4
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>7 yıl aradan sonra gel sen kendi evinde t-bag'den tokat manyağı ol sonra sara'yı bile yakalayamayan 2 tane çakma ajan seni öldürsün. ilk iki sezon hatrına izliyoruz falan ama bi efsane gözümün önünde bitiyor. karakterlerin hepsi değişmiş tek derdi ailesi olan, scofield'ı mahone'a gammazlayan para peşinde koşan çeteci c-note müslüman olmuş yersen amk. bu diziyi efsane yapan olayların tek birisi etrafında dönmemesiydi, her karakterin kendi hikayesi vardı, şimdi hepsi figüran olmuş derinlik yok. t-bag'in amacı bile yok sanane poseidon'dan amk <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    türkiye'deki belediyecilik anlayışı
+  entry_id:  67743669
+  entry_writer: songuleniyiguler
+  entry_fav_count: 3
+  entry_content: |
+    kaldırım yap<br/>kaldırımı sök<br/>kaldırım yap<br/>lale dik<br/>laleleri sök<br/>lale dik<br/>(bkz: <a class="b" href="/?q=edirne">edirne</a>)
+- entry_name: |
+    otel odası yalnızlığı
+  entry_id:  67724752
+  entry_writer: gadjo dilo
+  entry_fav_count: 3
+  entry_content: |
+    lüks bir otelde bu yalnızlık gerçek bir keyif olabiliyorken, 3. sınıf bir otel kıvamındaki öğretmen evinde aynı şeyi denediginizde , sizi taşraya atanmış çalıkuşu hissiyatina sokabilecek travma sebebi..<br/>( uyuyamadı)
+- entry_name: |
+    sözlükçülerin ihtiyacı olan nakit para
+  entry_id:  67725191
+  entry_writer: siyubeybi
+  entry_fav_count: 1
+  entry_content: |
+    98 lira 55 kuruş param var. 1,45 daha olursa 100 lira bütün yapar bozulmasın diye hiç harcamam ^.^<br/>(bkz: <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck+%c5%9feylerle+mutlu+olmak">küçük şeylerle mutlu olmak</a>)
+- entry_name: |
+    26 nisan 2017 anadolu efes olympiakos maçı
+  entry_id:  67742736
+  entry_writer: uber insan
+  entry_fav_count: 1
+  entry_content: |
+    stad komple izmir marşı söylüyor şu an. tayyip yakında basketbolu tümden yasaklayacak.
+- entry_name: |
+    türkiye artık partnerimiz olmadığını gösterdi
+  entry_id:  67726765
+  entry_writer: udar
+  entry_fav_count: 0
+  entry_content: |
+    - partnerim değilsin.<br/><br/>- (bkz: <a class="b" href="/?q=ben+se%c3%a7ilmem+se%c3%a7erim">ben seçilmem seçerim</a>)<br/><br/>ararsam ben bulurum senden iyisini <br/>yeniden yakarım aşkın aşkın ateşini <br/>bulunmaz hint kumaşı değilsin canım <br/>istersen dönersin geldiğin gibi <br/><br/>aşk eski bir yalansa <br/>en büyük yalan sensin <br/>gönlün acı gerçeği <br/>gözlerimden öğrensin <br/><br/>deli gibi sevsem de <br/>çok çabuk vazgeçerim <br/>huyum suyum kurusun <br/>ben seçilmem seçerim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=y5EdkR38zto">https://www.youtube.com/watch?v=y5edkr38zto</a>
+- entry_name: |
+    penguen
+  entry_id:  67726708
+  entry_writer: bruce alan wayne
+  entry_fav_count: 0
+  entry_content: |
+    yılmaz aslantürk derginin neden kapatıldığını facebook'ta şöyle belirtmiş:<br/><br/>''derginin tirajı yüksekken kazancı çizerlerle paylaşmayıp tiraj düştüğünde fedakarlık istemeleri. buna yanaşmayanların sigortasını iptal etme ve işten çıkarmaları. içerik zayıflayınca düşüş de hızlanııp kapanmaya kadar varıyor.''<br/><br/>yeni sayılarında okurlardan destek istemişler ama durum böyleyken ben destek filan vermem. siz bile kendinize bunu yapacaksanız o dergi olmasın daha iyi.<br/><br/>insanın aklına şu soru geliyor. her hafta kapağınızda hükümeti acımasızca eleştirirken kendi derginizde benzer bir haksızlığı yapmanız ikiyüzlülük değil midir?
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  67728646
+  entry_writer: troposfer
+  entry_fav_count: 0
+  entry_content: |
+    niyeti düzgün olan elin parmak sayısını geçmeyecek insan üzerine alınmasın fakat ekşi sözlük kendini bir bok sanan abaza veritabanıdır burası efendim
+---
