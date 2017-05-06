@@ -6,21 +6,21 @@ data:
     markaların kaşar peynirinde yaptığı sahtekarlık
   entry_id:  67936758
   entry_writer: bu dakikalarda gelecek bir gol
-  entry_fav_count: 2489
+  entry_fav_count: 2499
   entry_content: |
-    eritme peynirleri kaşar peyniri ambalajı gibi satışa sunan firmaların yaptığı sahtekarlıktır. bilindik en baba firmalarda bu sahtekarlığın içindedir.<br/>öncelikle 1 kg kaşar peyniri elde edebilmek için tahmini 10-11 kg süt kullanılmaktadır. protein ve kalsiyum açısından çok zengindir. eritme peynir içinse yaklaşık 5-6 kg süt kullanılmakta 1 kg için. <br/>eritme peynirin yapımında 2. kalite peynirler, marketlerden iade dönen peynirler, üretim hatası ve sorunlu ürünler fosfat ve sitrat tuzlarıyla ısısal işlem sonucu eritelek kaşar peynirine çok benzeyen ürünler yapılmakta. ısı işleminden sonra ortaya çakma kaşar peyniri çıkıyor. ambalajını da kaşar peyniri gibi yuvarlak veya baton yapıyorlar ki görüntü olarak insanlar alsın ve kullansın diye. ambalaj üzerine ise "tost görselini " ekliyorlar ki insanlar kaşar peyniri sansın. ama içindekiler kısmında ürün adına "eritme peynir" yazıyorlar.<br/>şimdi görsellerle bu yazımızı destekleyelim. lütfen görsellerdeki içindekiler bölümünü iyi okuyun, bir ben eksiğim içinde amk.<br/><br/><a class="b" href="/?q=%c3%b6ns%c3%b6z+editi">önsöz editi</a> sözlükten birkaç hukukçuyla görüştüm. firmaların ilgili görsellerini paylaştığım için hukuki sonuçlar doğurabileceğinden bahsettiler. şimdilik ilgili görselleri kaldırdım. marka isimlerini kapatıp tekrar editleyeceğim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/yErBlk.jpg">https://i.hizliresim.com/yerblk.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/GBOdR3.jpg">https://i.hizliresim.com/gbodr3.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/69LomE.jpg">https://i.hizliresim.com/69lome.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ALd9nz.jpg">https://i.hizliresim.com/ald9nz.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Qao67G.jpg">https://i.hizliresim.com/qao67g.jpg</a><br/><br/>ayrıca belirtmeliyim ki; tüm üçgen peynirler ve krem peynirler de bu eritme peynirlerin içine giriyor. yani krem ve üçgen peynirler de kalitesiz veya iade edilen peynirlerin ısısal olarak işlenmesiyle elde ediliyor.<br/><br/><a class="b" href="/?q=edit+0">edit 0</a> ilgili görseller ankara'da onlarca şubesi olan <a class="b" href="/?q=altunbilekler">altunbilekler</a>, <a class="b" href="/?q=yunus+marketler">yunus marketler</a> ve <a class="b" href="/?q=%c3%a7a%c4%9fda%c5%9f+marketler">çağdaş marketler</a>e ait. ürün etiketlerin de görüleceği üzere adamlar bunu kaşar peyniri diye satıyor. bu üretici firmayı bağlamaz veya üretici firmanın haberi yoktur diyenler olabilir ancak aksine haberi var firmaların. çünkü her hafta sipariş almak için personelleri gidiyor ilgili mağazalara. hatta haftanın birkaç günü firma mörşleri raftaki ürünleri düzeltmek için markete uğruyorlar.<br/><br/><a class="b" href="/?q=edit+1">edit 1</a> <a class="b" href="/?q=t%c3%bcrk+g%c4%b1da+kodeksinin+eritme+peynir+mevzuat%c4%b1">türk gıda kodeksinin eritme peynir mevzuatı</a> : "eritme peyniri: telemenin, bir veya bir kaç çeşit peynirin, doğrudan dogruya veya bu ürünlere gerektiginde süttozu, peynir altı suyu tozu, tereyagi, krema gibi süt ürünleri ile emülsifiye edici tuzlar ilave edilerek elde edilen karışımın pastörizasyon normunda veya daha yüksek sıcaklıklarda ve sürelerde ısı işlem uygulanmas ile elde edilen, dilimlenebilir veya sürülebilir nitelikler gibi çeşidine özgü karakteristik özellikler gösteren peynirdir"<br/>yani bakanlık demiş ki elinde değerlendirebileceğin ne kadar artık malzeme ıvır zıvır varsa eritme peynir yapabilirsin.<br/><br/><a class="b" href="/?q=edit+2">edit 2</a> aşağıda bilimsel verilerin olmadığından bahsedilmiş. kısa bir araştırma yaptıktan sonra: ege üniversitesi ziraat fakültesi süt teknolojileri bölümü'nün türkiye 9.gıda kongresinde yapmış oldukları araştırma ve makaleye ulaştım. fiziksel olarak iki ürünün çok benzer olduğu ama içerik bakımından çok farklı olduğu belirtilmiş ve eritme işlemi sırasında %15 20 ye yakın iade ürün eklendiğinin altı <a rel="nofollow noopener" class="url" target="_blank" href="http://www.gidadernegi.org/TR/Genel/dg.ashx?DIL=1&amp;BELGEANAH=5270&amp;DOSYAISIM=240934457.pdf" title="http://www.gidadernegi.org/TR/Genel/dg.ashx?DIL=1&amp;BELGEANAH=5270&amp;DOSYAISIM=240934457.pdf">çizilmiş</a><br/><br/><a class="b" href="/?q=edit+3">edit 3</a> bir arkadaş yazmış aşağıda; adamlar bunu kaşar peyniri diye satmıyor, çok istiyorsan git kaşar peyniri al diye. şimdi sen bir peynir üretiyorsun, görselinden ürünün rengine kadar kaşar peyniriyle bire bir aynı yapıyorsun, sonra market rafında kaşar peynirlerinin arasına bu eritme peynirleri yerleştiriyorsun, ürünün üstüne de tost, erimiş kaşar görseli koyuyorsun, sonra da sik kadar içindekiler yazısıyla eritme peynir yazıyorsun, sonra efedim adam bunu sana kaşar peyniri olarak zorla satmıyor diyorsun. ulan bu kadar emeği kaşar peynirine harcasalar firmalar bizde bu kadar götümüzü yırtmayız insanlar bilinçlensin, bu konuya dikkat çeksin diye.<br/><br/><a class="b" href="/?q=edit+4">edit 4</a> birçok mesaj geldi hangi marka kaşar kullanalım diye. hemen hemen her firmada mevcut bu durum. dikkat edip taze kaşar yazan ürünleri tercih edebilirsiniz<br/><br/>ben biraz daha yerelci olduğum için peynir çeşitlerinde trakya bölgesinden bir marka tercih ediyorum. marka ismini yazmıştım ama reklam olduğunu düşünmüşler, bu sebeple kaldırdım. merak eden olursa mesaj yoluyla söylerim.<br/><br/><a class="b" href="/?q=edit+5">edit 5</a> "siz kaşar peynirinin ne kadar pahalı olduğunu biliyor musunuz. kaşar peyniri eritme peynirden çok pahalı " olduğunu söyleyenler var. bu görseller onlara geliyor.<br/>i<br/>çoğu yer de kaşar peyniri ile kaşar görünümlü eritme peynirlerin fiyatı başa baş. ancak tahminime göre firmaların birim miktardan ettikleri kâr, eritme peynirde daha yüksek, maliyet ise daha düşük.<br/><br/><a class="b" href="/?q=edit+6">edit 6</a> başlığı sahtekarlık olarak açmama takılanlar olmuş. kusura bakmayın ama siz görsel olarak bire bir aynı ürün yapın, algı oluşturun, kaşar peynirlerinin arasına dizin sonra sahtekarlık nerede diyin? yap o zaman hafız bu eritme peynirleri silindir şeklinde, görselini kaşar peynirine benzetmek için bu kadar uğraşma ve özenme. biz de diyelim "helal olsun, adamlar yeni güzel bir peynir yapmışlar" diye.
+    eritme peynirleri kaşar peyniri ambalajı gibi satışa sunan firmaların yaptığı sahtekarlıktır. bilindik en baba firmalarda bu sahtekarlığın içindedir.<br/>öncelikle 1 kg kaşar peyniri elde edebilmek için tahmini 10-11 kg süt kullanılmaktadır. protein ve kalsiyum açısından çok zengindir. eritme peynir içinse yaklaşık 5-6 kg süt kullanılmakta 1 kg için. <br/>eritme peynirin yapımında 2. kalite peynirler, marketlerden iade dönen peynirler, üretim hatası ve sorunlu ürünler fosfat ve sitrat tuzlarıyla ısısal işlem sonucu eritelek kaşar peynirine çok benzeyen ürünler yapılmakta. ısı işleminden sonra ortaya çakma kaşar peyniri çıkıyor. ambalajını da kaşar peyniri gibi yuvarlak veya baton yapıyorlar ki görüntü olarak insanlar alsın ve kullansın diye. ambalaj üzerine ise "tost görselini " ekliyorlar ki insanlar kaşar peyniri sansın. ama içindekiler kısmında ürün adına "eritme peynir" yazıyorlar.<br/>şimdi görsellerle bu yazımızı destekleyelim. lütfen görsellerdeki içindekiler bölümünü iyi okuyun, bir ben eksiğim içinde amk.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/1Ll8E1.jpg">https://i.hizliresim.com/1ll8e1.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/GBOdR3.jpg">https://i.hizliresim.com/gbodr3.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/69LomE.jpg">https://i.hizliresim.com/69lome.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ALd9nz.jpg">https://i.hizliresim.com/ald9nz.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Qao67G.jpg">https://i.hizliresim.com/qao67g.jpg</a><br/><br/>ayrıca belirtmeliyim ki; tüm üçgen peynirler ve krem peynirler de bu eritme peynirlerin içine giriyor. yani krem ve üçgen peynirler de kalitesiz veya iade edilen peynirlerin ısısal olarak işlenmesiyle elde ediliyor.<br/><br/><a class="b" href="/?q=edit+0">edit 0</a> ilgili görseller ankara'da onlarca şubesi olan <a class="b" href="/?q=altunbilekler">altunbilekler</a>, <a class="b" href="/?q=yunus+marketler">yunus marketler</a> ve <a class="b" href="/?q=%c3%a7a%c4%9fda%c5%9f+marketler">çağdaş marketler</a>e ait. ürün etiketlerin de görüleceği üzere adamlar bunu kaşar peyniri diye satıyor. bu üretici firmayı bağlamaz veya üretici firmanın haberi yoktur diyenler olabilir ancak aksine haberi var firmaların. çünkü her hafta sipariş almak için personelleri gidiyor ilgili mağazalara. hatta haftanın birkaç günü firma mörşleri raftaki ürünleri düzeltmek için markete uğruyorlar.<br/><br/><a class="b" href="/?q=edit+1">edit 1</a> <a class="b" href="/?q=t%c3%bcrk+g%c4%b1da+kodeksinin+eritme+peynir+mevzuat%c4%b1">türk gıda kodeksinin eritme peynir mevzuatı</a> : "eritme peyniri: telemenin, bir veya bir kaç çeşit peynirin, doğrudan dogruya veya bu ürünlere gerektiginde süttozu, peynir altı suyu tozu, tereyagi, krema gibi süt ürünleri ile emülsifiye edici tuzlar ilave edilerek elde edilen karışımın pastörizasyon normunda veya daha yüksek sıcaklıklarda ve sürelerde ısı işlem uygulanmas ile elde edilen, dilimlenebilir veya sürülebilir nitelikler gibi çeşidine özgü karakteristik özellikler gösteren peynirdir"<br/>yani bakanlık demiş ki elinde değerlendirebileceğin ne kadar artık malzeme ıvır zıvır varsa eritme peynir yapabilirsin.<br/><br/><a class="b" href="/?q=edit+2">edit 2</a> aşağıda bilimsel verilerin olmadığından bahsedilmiş. kısa bir araştırma yaptıktan sonra: ege üniversitesi ziraat fakültesi süt teknolojileri bölümü'nün türkiye 9.gıda kongresinde yapmış oldukları araştırma ve makaleye ulaştım. fiziksel olarak iki ürünün çok benzer olduğu ama içerik bakımından çok farklı olduğu belirtilmiş ve eritme işlemi sırasında %15 20 ye yakın iade ürün eklendiğinin altı <a rel="nofollow noopener" class="url" target="_blank" href="http://www.gidadernegi.org/TR/Genel/dg.ashx?DIL=1&amp;BELGEANAH=5270&amp;DOSYAISIM=240934457.pdf" title="http://www.gidadernegi.org/TR/Genel/dg.ashx?DIL=1&amp;BELGEANAH=5270&amp;DOSYAISIM=240934457.pdf">çizilmiş</a><br/><br/><a class="b" href="/?q=edit+3">edit 3</a> bir arkadaş yazmış aşağıda; adamlar bunu kaşar peyniri diye satmıyor, çok istiyorsan git kaşar peyniri al diye. şimdi sen bir peynir üretiyorsun, görselinden ürünün rengine kadar kaşar peyniriyle bire bir aynı yapıyorsun, sonra market rafında kaşar peynirlerinin arasına bu eritme peynirleri yerleştiriyorsun, ürünün üstüne de tost, erimiş kaşar görseli koyuyorsun, sonra da sik kadar içindekiler yazısıyla eritme peynir yazıyorsun, sonra efedim adam bunu sana kaşar peyniri olarak zorla satmıyor diyorsun. ulan bu kadar emeği kaşar peynirine harcasalar firmalar bizde bu kadar götümüzü yırtmayız insanlar bilinçlensin, bu konuya dikkat çeksin diye.<br/><br/><a class="b" href="/?q=edit+4">edit 4</a> birçok mesaj geldi hangi marka kaşar kullanalım diye. hemen hemen her firmada mevcut bu durum. dikkat edip taze kaşar yazan ürünleri tercih edebilirsiniz<br/><br/>ben biraz daha yerelci olduğum için peynir çeşitlerinde trakya bölgesinden bir marka tercih ediyorum. marka ismini yazmıştım ama reklam olduğunu düşünmüşler, bu sebeple kaldırdım. merak eden olursa mesaj yoluyla söylerim.<br/><br/><a class="b" href="/?q=edit+5">edit 5</a> "siz kaşar peynirinin ne kadar pahalı olduğunu biliyor musunuz. kaşar peyniri eritme peynirden çok pahalı " olduğunu söyleyenler var. bu görseller onlara geliyor.<br/>i<br/>çoğu yer de kaşar peyniri ile kaşar görünümlü eritme peynirlerin fiyatı başa baş. ancak tahminime göre firmaların birim miktardan ettikleri kâr, eritme peynirde daha yüksek, maliyet ise daha düşük.<br/><br/><a class="b" href="/?q=edit+6">edit 6</a> başlığı sahtekarlık olarak açmama takılanlar olmuş. kusura bakmayın ama siz görsel olarak bire bir aynı ürün yapın, algı oluşturun, kaşar peynirlerinin arasına dizin sonra sahtekarlık nerede diyin? yap o zaman hafız bu eritme peynirleri silindir şeklinde, görselini kaşar peynirine benzetmek için bu kadar uğraşma ve özenme. biz de diyelim "helal olsun, adamlar yeni güzel bir peynir yapmışlar" diye.
 - entry_name: |
     yanlış eve uyuşturucu baskını yapan polis
   entry_id:  67942346
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 784
+  entry_fav_count: 787
   entry_content: |
     videodan göründüğü kadarıyla polisin büyük bir travma yaşattığı ailenin evinden bir özür bile dilemeden, yerde ağlayan vatandaşa el uzatmadan öküz gibi çekip gittiği olaydır... işte bu tam da polis devleti belirtilerinden biridir...
 - entry_name: |
     türkiye yılda 100 bin ton kuru çay ithal edecek
   entry_id:  67944219
   entry_writer: stockholm sen de mi
-  entry_fav_count: 313
+  entry_fav_count: 316
   entry_content: |
     (bkz: <a class="b" href="/?q=nerde+eski+%c3%a7aylar">nerde eski çaylar</a>)<br/><br/>tarım politikaları olmayan ülkelerin yuvarlanacağı hazin sonun son örneği.<br/><br/>üç yanımız deniz, balığımız yok.<br/>avrupanın en büyük yüz ölçümüyüz, tarımımız yok.<br/>başkan çobanlığıyla övünür, hayvancılığımız yok.<br/>öyle çok büyüdük ki; sanayimiz yok.<br/>her sene öğrencinin üçte ikisi takdir teşekkür alır. eğitimimiz yok.<br/>sandık her işi çözüyor, seçimimiz var. sayımımız yok.<br/>ohalimiz var ama demokrasimiz yok.
 - entry_name: |
@@ -34,49 +34,35 @@ data:
     salavat getirerek okula giren öğrenciler
   entry_id:  67946515
   entry_writer: nskelyoc
-  entry_fav_count: 173
+  entry_fav_count: 175
   entry_content: |
     <a class="b" href="/?q=demokrasi+ve+insan+haklar%c4%b1">demokrasi ve insan hakları</a>nın bölgedeki <a class="b" href="/?q=son+kale">son kale</a>si <a class="b" href="/?q=t%c3%bcrkiye">türkiye</a>'de asla ve asla <a class="b" href="/?q=normal">normal</a> olmamalıdır. türkiye şeyhler, dervişler, müritler ülkesi olmamalıdır.<br/><br/>görüntü bana her türlü <a class="b" href="/?q=%c5%9feyh">şeyh</a>in, <a class="b" href="/?q=m%c3%bcrit">mürit</a>in kol gezdiği; <a class="b" href="/?q=din+ve+vicdan+%c3%b6zg%c3%bcrl%c3%bc%c4%9f%c3%bc">din ve vicdan özgürlüğü</a>nün olmadığı, her gün <a class="b" href="/?q=insan+haklar%c4%b1">insan hakları</a>'nın ihlal edildiği <a class="b" href="/?q=orta+do%c4%9fu">orta doğu</a> ülkelerini; <a class="b" href="/?q=radikal+islam">radikal islam</a>ı, <a class="b" href="/?q=k%c3%b6ktendinci">köktendinci</a>liği anımsatıyor. ülkemin şeyhler, dervişler ve müritler ülkesi olmasını değil; <a class="b" href="/?q=bilim">bilim</a> insanları, <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcn%c3%bcr">düşünür</a>ler, <a class="b" href="/?q=sanat%c3%a7%c4%b1">sanatçı</a>lar ülkesi olmasını istiyorum. bu yüzden böyle bir entry girdim, rahatsız olanlara duyurulur. vatana ve millete bağlılığın müritlikle olmadığı; sorgulamayla, bilimle, insanlıkla, iyilikle olduğu da iyi bilinmelidir.
 - entry_name: |
     eser yenenler
   entry_id:  67948972
   entry_writer: zaireatasesijemalbumbo
-  entry_fav_count: 141
+  entry_fav_count: 143
   entry_content: |
     espri anlayışı karşısındaki kişinin cümlesini tekrarlamak olan kişi. böyle yapınca ülkede komedyen olunuyormuş. <br/><br/>e=eser<br/>x: kişi<br/><br/>x: naber napıyorsun?<br/>e: naber ne mi yapıyorum (nihahahahaha)<br/><br/>x: sinemaya gidelim mi ?<br/>e: sinemaya mı gidelim (puhahahahaha)<br/><br/>x: adın ne ?<br/>e: adım mı ne ( ehehemehehe)
-- entry_name: |
-    deniz gezmiş
-  entry_id:  67936683
-  entry_writer: travenian
-  entry_fav_count: 139
-  entry_content: |
-    şu adama <a class="b" href="/?q=sscb%27li+ter%c3%b6rist">sscb'li terörist</a> (!) diyebilecek ergenler yetiştirebilmek akp'nin başarısı olmalı. <br/><br/><a class="b" href="/?q=sscb%27li+ter%c3%b6rist">sscb'li terörist</a> he mi. tükettiğiniz oksijen israf.
 - entry_name: |
     çalışılan pozisyonlar ve maaşları
   entry_id:  67937611
   entry_writer: petra
-  entry_fav_count: 137
+  entry_fav_count: 139
   entry_content: |
     çok deli paralar kazanıyorsunuz arkadaşlar, bunları bi ara oturup arkadaşlarınızla yiyin.
 - entry_name: |
     yıldız teknik üniversitesi kampüsüne el konması
   entry_id:  67944390
   entry_writer: kurremkamerruk
-  entry_fav_count: 133
+  entry_fav_count: 134
   entry_content: |
     yahu adam gençlere önem veriyoruz derken okuyan, kafası basan, soru soran gençlerden bahsetmiyor, hadi canım denince sokağa çıkıp bağırıp, çağıracak, gösterdiğine saldıracak, hiç bir şeyi sorgulamayacak gençlerden bahsediyor. sen neden üstüne alınıyorsun ki canım benim?<br/>son sekiz senedir zaten ben dediği hiç bir lafı üstüme alınmıyorum çünkü benden bahsetmiyor. burada da durum aynı, üniversite okuyan çocuk umurunda değil ki adamın, bina hoşuna gitmiş, almış işte. ne de olsa babasının çiftliği ülke.
-- entry_name: |
-    whatsapp yoluyla cinci hocayı trolleyen genç
-  entry_id:  67945718
-  entry_writer: ne diyon sen hoca
-  entry_fav_count: 127
-  entry_content: |
-    (bkz: <a class="b" href="/?q=inand%c4%b1r%c4%b1c%c4%b1+gelmeyen+whatsapp+dialoglar%c4%b1">inandırıcı gelmeyen whatsapp dialogları</a>)
 - entry_name: |
     6 mayıs 2017 selin sayek böke'nin istifa etmesi
   entry_id:  67946365
   entry_writer: yafes kagan
-  entry_fav_count: 127
+  entry_fav_count: 129
   entry_content: |
     selin sayek böke kimmiş? <br/><br/>odtü'yü birincilikle bitir, duke'de doktora yap, massachusetts teknoloji enstitüsü'de ders ver, ımf'in washington dc'deki ekonomisti ol, kaltaban herifin biri gelip sen kimsin diyebilisin. <br/><br/>sözlük olarak maşallahımız var. bir tek biz bi boka yarıyoruz, diğer herkes kim ki amk?
 - entry_name: |
@@ -90,7 +76,7 @@ data:
     sosyal deney yapan gençlerin gözaltına alınması
   entry_id:  67946717
   entry_writer: karpuzekirdegi
-  entry_fav_count: 110
+  entry_fav_count: 111
   entry_content: |
     başarılı bir sosyal deney.
 - entry_name: |
@@ -111,16 +97,30 @@ data:
     finans iş ilanı adı altında eskort
   entry_id:  67946699
   entry_writer: oldu ben kalkayim artik
-  entry_fav_count: 92
+  entry_fav_count: 95
   entry_content: |
     2000 ile 10000 arasını anlamadım. performansı sikiş sayısına göre mi değerlendirip prim ödeyecekler acaba?
 - entry_name: |
     vajinanın erotik olmaması
   entry_id:  67951666
   entry_writer: taluyka
-  entry_fav_count: 73
+  entry_fav_count: 89
   entry_content: |
     (bkz: <a class="b" href="/?q=sanki+elin+erotik">sanki elin erotik</a>)
+- entry_name: |
+    barış manço'nun fethullahçı olması
+  entry_id:  67949716
+  entry_writer: we were soldiers
+  entry_fav_count: 83
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ne+istediler+de+vermedik">ne istediler de vermedik</a>) <br/>bunu diyen adamdan daha fazla <a class="b" href="/?q=fet%c3%b6c%c3%bc">fetöcü</a> değildir.
+- entry_name: |
+    ekşi sözlük ara sıra sevişmelik arkadaş veritabanı
+  entry_id:  67951574
+  entry_writer: bi nick kiliinimdi ildigindin ilimiyiriz
+  entry_fav_count: 76
+  entry_content: |
+    muhtemelen bi 20 dakka sonra gay bar'a dönüşecek veritabanı.
 - entry_name: |
     jack daniel's
   entry_id:  67936898
@@ -129,26 +129,12 @@ data:
   entry_content: |
     büyük anlamlar yüklenmemesi gereken sıradan bir viskidir.<br/><br/>"herhangi bir viski" olamayacak kadar kaliteli değildir. eğer bunu birçok viskiden çok daha farklı yere koyuyorsanız kaliteli viskiyle hiç tanışmamışsınız demektir.<br/><br/>en basitinden jack'in kendi serileri olan single barrel veya silver select'i içtikten sonra bile normaline ağzınızı sürmek istemezsiniz.
 - entry_name: |
-    ekşi sözlük ara sıra sevişmelik arkadaş veritabanı
-  entry_id:  67951574
-  entry_writer: bi nick kiliinimdi ildigindin ilimiyiriz
-  entry_fav_count: 64
-  entry_content: |
-    muhtemelen bi 20 dakka sonra gay bar'a dönüşecek veritabanı.
-- entry_name: |
     doğa için çal 8
   entry_id:  67943687
   entry_writer: ben bilmem nik ney mik ney
   entry_fav_count: 61
   entry_content: |
     o kadar rizeliyi görünce ulan acaba sıradaki o mu? diye gerilmekten keyifle dinleyemediğim.
-- entry_name: |
-    barış manço'nun fethullahçı olması
-  entry_id:  67949716
-  entry_writer: we were soldiers
-  entry_fav_count: 61
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ne+istediler+de+vermedik">ne istediler de vermedik</a>) <br/>bunu diyen adamdan daha fazla <a class="b" href="/?q=fet%c3%b6c%c3%bc">fetöcü</a> değildir.
 - entry_name: |
     sıla abalay
   entry_id:  67939637
@@ -160,16 +146,23 @@ data:
     fitness salonu basan sarıklılar
   entry_id:  67952150
   entry_writer: oguzbatur
-  entry_fav_count: 56
+  entry_fav_count: 59
   entry_content: |
     3 rekat bench farzdır diyecekler sandım.
 - entry_name: |
     selge antik kenti'nin beyin yakan tanıtım filmi
   entry_id:  67950687
   entry_writer: mungojerry
-  entry_fav_count: 45
+  entry_fav_count: 48
   entry_content: |
     "siz antik tiyatroyu görme heyecanı içinde yürürken, sizin paranızı almak üzere ellerinde hiçbir anlamı olmayan eşyalarla yalvararak sizi taciz eden bu kalabalıkla karşılaşmak tüm neşenizi kaçırıyor."<br/><br/>müthiş bir gözlem.türkiye'nin herhangi bir yerindeki turistik bölgenin yöre halkını eksiksiz tanımlamış teyzem.
+- entry_name: |
+    doğumda spirali doktora teslim eden bebek
+  entry_id:  67943183
+  entry_writer: qft
+  entry_fav_count: 39
+  entry_content: |
+    alın götünüze sokun duruşu var bebekte dediğim olay.
 - entry_name: |
     survivor 2017
   entry_id:  67938108
@@ -178,19 +171,19 @@ data:
   entry_content: |
     benim gibi, genel olarak ünlüler takımını destekleyipte gönüllülerden sadece "anıl" kardeşimize desteklerini sunan arkadaşlara selamlarımı ilettiğim acun paramatiğidir.
 - entry_name: |
-    doğumda spirali doktora teslim eden bebek
-  entry_id:  67943183
-  entry_writer: qft
-  entry_fav_count: 37
-  entry_content: |
-    alın götünüze sokun duruşu var bebekte dediğim olay.
-- entry_name: |
     fi
   entry_id:  67937676
   entry_writer: garipbasci
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     kendisinden yaşça baya küçük öğrencisiyle beraber yaşayan gavat bir üniversite hocasını anlatan dizi.<br/><br/>kızın da anası babası bişe demiyor. bu ne genişlik amk.
+- entry_name: |
+    porno yıldızının köpek balığı saldırısına uğraması
+  entry_id:  67952652
+  entry_writer: your best teacher is your last mistake
+  entry_fav_count: 36
+  entry_content: |
+    (bkz: <a class="b" href="/?q=verse+%c4%b1s%c4%b1rmaz+m%c4%b1s%c4%b1n">verse ısırmaz mısın</a>)
 - entry_name: |
     6 mayıs 2017 galatasaray kasımpaşa maçı
   entry_id:  67949239
@@ -199,13 +192,6 @@ data:
   entry_content: |
     seyircisiz oldugundan semih'in de sahada olmadigi mac.
 - entry_name: |
-    7 mayıs 2017 beşiktaş fenerbahçe maçı
-  entry_id:  67936807
-  entry_writer: vandrad
-  entry_fav_count: 29
-  entry_content: |
-    bakın, ben fenerliyim ve burada karamsar bir tablo çizen tüm beşiktaş taraftarına çok gülüyorum. lan olm, siz denyo musunuz? takıma güvensenize lan. "maçı kaybedersek şampiyonluk gider", "kazanamazsak siki tuttuk" mentalitesiyle bu iş olmaz amk, çok ciddiyim. ulan bari yarıştığınız takım formda bir galatasaray veya fenerbahçe olsa. altı üstü taraftarsız, mazisiz, ne idüğü belirsiz bir takım.<br/><br/>kulübünüzü bu loserlık durumundan kurtaracak olan sizsiniz. siz topluca böyle düşünürseniz takım n'apsın lan? son haftada 2 kez şampiyonluk kaybettik, yine de hayatımda bu kadar kötümser fenerbahçe taraftarı görmedim.<br/><br/>tanım: hangi sonuçla biterse bitsin 90 dakika bittiğinde şampiyonluk konusunda iplerin hala beşiktaş'ta olacağı maç.
-- entry_name: |
     genç yaşta inandığı değerler için ölmek
   entry_id:  67943798
   entry_writer: madonnanin yagli zencisi 2
@@ -213,24 +199,17 @@ data:
   entry_content: |
     sözlükte ve bilimum ortamda övülen şey. bazen öncesinde "kendisinin fikirlerine katılmıyor olabilirsiniz" denir, sonrasında da "saygı duyun"<br/><br/>iyi de bu matah birşey değil ki..20 yaşında amerikan uçaklarının bombardımanı sonucunda ölen ışid militanı da illa vardır. şimdi bu mantıkla "ebu yusuf el britani'yi sevmeyebilirsiniz. ancak inandığı değerler için genç yaşta ölümü göze alan bu insana terörist diyerek saygısızlık edemezsiniz" falan mı diyeceğiz?
 - entry_name: |
-    porno yıldızının köpek balığı saldırısına uğraması
-  entry_id:  67952652
-  entry_writer: your best teacher is your last mistake
-  entry_fav_count: 24
-  entry_content: |
-    (bkz: <a class="b" href="/?q=verse+%c4%b1s%c4%b1rmaz+m%c4%b1s%c4%b1n">verse ısırmaz mısın</a>)
-- entry_name: |
     7 mayıs 2017 ales
   entry_id:  67949015
   entry_writer: seldon von neumann
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     yüzbinlerce kişinin yarın gireceği lisansüstü programlara kabulde önemli bir yer tutan sınavdır. ben de daha önce 3 defa girip hepsinde de 90 üstünde bir not almış klasik ekşici olduğumdan bazı önerilerde bulunabilirim sanırım. zira biliyorsunuz 90 üstü not alan yazarların maaşlarında da iyileştirme yapılıyor. tabi hemen at yalanı sikeyim inananı triplerine girmemeniz için şu sınav sonuçlarını aşağıya koyayım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/DP0vj6.png" title="https://i.hizliresim.com/DP0vj6.png">2015 ilkbahar</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9QPBjk.png" title="https://i.hizliresim.com/9QPBjk.png">2015 sonbahar</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/r3obG7.png" title="https://i.hizliresim.com/r3obG7.png">2016 sonbahar</a><br/><br/>öncelikle şunu bilmelisiniz ki bu bir zeka testi değil. yani düşük alırsanız ve buradaki çalışmadan şu notu aldım diyen arkadaşları görürseniz üzülmeyin. ancak lys gibi sizin çalışma seviyenizi ölçen bir sınav da değil. yani çalışmadan 90 aldım diyen arkadaşlar genelde haklılar. peki o zaman bu notların böylesine değişmesinin sebebi nedir?<br/><br/>ilk olarak bu sınavın en önemli kısmı zaman yönetimi. emin olun çıkan soruları evde oturup süre tutmadan çözseniz fulle yakın bir sonuç alırsınız. ancak sınav anında zaman yetişmediği için ve zamanın yetişmeyeceği anlaşıldığında stres yapıldığı için boş ve yanlış sayıları artıyor ve sonuç hüsran oluyor. bu yüzden benim önerim moralinizi yükselteceği için sınava en iyi olduğunuz alandan başlamanız. eğer sınav hakkında hiç bir fikriniz yoksa ve sayısalınızın sözelinizden iyi olduğunu düşünüyorsanız sayısal-1, aksi taktirde sözel-1'den başlayın. <br/><br/>başka bir önemli nokta ise bir soruyu iki defa okumamak. soruyu bir defa okuyun ve o okuyuşunuzda anlayıp çözüme girişin. eğer çözemezseniz boş bırakın ve zamanınız kalırsa geri dönün. eşit ağırlık veya sayısalda 30 boş ve az sayıda yanlışla 85 üstü bir not alınabilir, bu yüzden boş bırakmaktan korkmayın. özellikle matematik sorularında bir soruyu anladıysanız, o soruyu atlasanız bile bilinçaltında soruyu çözmeyi deniyorsunuz zaten. inatlaşıp 3-4 dakika çözümünü bulamadığım sorulara sonradan geri döndüğümde saniyeler içerisinde çözdüğüm çok oldu. buna ek olarak sayısal bir bölümde okuyan bir öğrenciyseniz, bir matematik problemini okurken kafanızda denklemi veya tabloyu kurmaya başlamanız size oldukça zaman kazandıracaktır. soru bittiğinde tek yapmanız gereken denklem çözümü olur. uzun zamandır matematikten uzak kalmış arkadaşlar bunu denemesinler. <br/><br/>bunun dışında, eğer çabuk sıkılan biriyseniz sık sık bölümler arasında mekik dokuyun. örneğin ben sayısal-1in geometriye kadar olan kısmını çözüp daha sonra sözele geçip ilk 15 soru ve mantık sorularını çözerim, ardından sayısal 2'nin geometriye kadar olan kısmını çözüp sözel-1'e geri döner ve onu bitiririm. kalan sürede de boşlarıma ve geometriye yardırırım. tabi benim gibi götünde kurt olan birisi değilseniz bunu yapmak zorunda değilsiniz. hatta yapmamalısınız.<br/><br/>son olarak, istediğiniz puanı alamazsanız çok üzülmeyin. her zaman bir alternatifiniz vardır. ve sanılanın aksine bu alternatifler genelde aslından daha çok tatmin eder insanı(tecrübeyle sabittir.). <br/><br/>iyi sınavlar.
 - entry_name: |
     osmanlı'nın istanbul'dan çok eminönü'nü fethetmesi
   entry_id:  67951234
   entry_writer: sonnenuntergang
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     halbuki önce istinye park'ı alması gerekirdi.
 - entry_name: |
@@ -241,19 +220,26 @@ data:
   entry_content: |
     bir gün yeni tanıştığım, sanatla ilgilenen biriyle şiirlerden ve şairlerden sohbet ederken en sevdiğim şaire 'o biraz amatör kalıyor diğerlerinin yanında' dedi. 'evet ama ben seviyorum' dedim. hep bir şeyin iyisini mi sevmemiz gerekiyor? bazı şeyler kötü olsa bile sevme özgürlüğümüz de mi yok? hep en iyi insanları mi sevmemiz lazım? iyi değilsek sevilmeyelim mi? keşke orada 'siktir lan ordan sen sobada sucuklu yumurta pişirip yiyen yoksul bir aşkın güzelliğini nereden bileceksin' deseydim. amatörmüş. götüm.
 - entry_name: |
+    6 mayıs 2017 survivor'ın çöküşü
+  entry_id:  67952514
+  entry_writer: onuyazmabunuyazma
+  entry_fav_count: 19
+  entry_content: |
+    gerçeği gören bilinçli survivor izleyicisi mi! puhahahha
+- entry_name: |
+    üniversite mezunlarının işsiz kalma sebebi
+  entry_id:  67953457
+  entry_writer: robert downey jr jr
+  entry_fav_count: 18
+  entry_content: |
+    "iş beğenmemeleri" denmiş. yeni mezun mimarı mühendisi avukatı 1400-1500 liraya, ortaokul&amp;lise mezunu kasiyerden, park bekçisinden daha ucuza çalıştırmaya kalkarsan tabi beğenmez amına koduğumun gerizekalısı. <br/><br/>hiç boşuna mesaj atıp sövmeyin kasiyeri, bekçiyi aşağılıyor musun diye. tabi ki aşağılamıyorum, hayatımın hiçbir evresinde de okumayan ya da az okuyan adama daha farklı davranmadım. hep saygı gösterdim. ama kusura bakmayın götünü yırta yırta sabahlara kadar çalışarak dersleri geçip üniversiteyi bitirmeye çalışan , 16-17 yılını okuyarak geçiren insanlara da bahsettiğim kasiyer kardeşlerimizle aynı maaşı reva görmeyin. bu aymazlıktır, şerefsizliktir, sömürüdür. hiçbir gelişmiş ülkede böyle bir haksızlık yoktur.
+- entry_name: |
     igor tudor
   entry_id:  67951086
   entry_writer: pathologic
   entry_fav_count: 17
   entry_content: |
     galatasaray'a tek yararı juventus'dayken 1998 yılında, suat kaya'ya kafayla yaptığı asisttir.
-- entry_name: |
-    galatasaray
-  entry_id:  67939536
-  entry_writer: simonetta
-  entry_fav_count: 17
-  entry_content: |
-    futbol takımı 3-4 sene daha nal toplar bu ligde. özhan canaydın, adnan polat yönetimlerini mumla arayacağız. inanılmaz bir kardoya sahibiz. ilk 10 dışına bile çıkabilir önümüzdeki dönemlerde. <br/><br/>selçuk inan: yıldız olarak görülüyor. 1 sezon iyi oyunu ve yarattığı imaj yüzünden kaptanlığa kadar yükseldi. öyle bir ağırlığı var ki hakan çalhanoğlu gelse serbest vuruşu bırakmaz isterse. gönderilmesini bırak yedeğe çekilmesi bile konuşulmuyor medyada. senelerdir kepaze oyununa rağmen medyada eleştiren olmadı. 2019'a kadar sözleşmesi var ve aldığı para korkunç. dyabala'nın 2.2 milyon euro kazandığı dünyada bu adam 3 milyonun üzerinde para kazanıyor hesap et. bu adam olduğu sürece bölgesine kim gelirse gelsin arkasında bekler. yeniçeri ocağının lideri konumunda. <br/><br/>sabri sarıoğlu: ofansif oyuncu olarak çıktığı a takımda beyinsizliği ve beceriksizliği üzünden sağ beke evrildi. genç adam diye tahammül edilip kaldı kadroda hep. kadro dışı kalmalarla ha gitti ha gidecek dediğimiz senelerin sonunda bugün reyiz, emektar, maldini falan deniyor. yine sözleşmesi sona eriyor bu sene ama yine kadroda kalacak. hamza'nın yönetiminde hiç olmadığı mertebeye ulaştı ve as oyuncu algısı oluştu. linnes ve cavanda'nın ikisi de gönderilebilir ama bu kalır. birinci sınıf bir sağ bek bile gelse bu oynayacaktır çünkü takımın abisi konumunda. yeniçeri ocağında ağırlığı var. <br/><br/>semih kaya: joystick ujfalusi'nin elindeyken iyi stoper olacak sanmıştık bunu. genç ve umut veren oyuncu olduğu için yer buldu kadroda. sonraki dönem maç başı 1 gol yedirme ortalamasıyla oynamasına rağmen doğru dürüst yedek kalmadı. gönderilmesi konuşulmuyor. bu da yeniçeri ocağında söz sahibi herhalde bilemiyorum. <br/><br/>hakan balta: 2010'daki fc karpaty lviv maçındaki ihanetinden sonra kapının önüne konmalıydı bence. o gün bugün nefret ederim. manisa'dan gelirken sol kanat oyuncusu olarak gelmişti aslında. ofansif bek/kanat oyuncusu kıvamında bir algı vardı. ama önce düz sol bek oldu, yaş kemale de erince stoper oldu. ayağı düzgün stoper imajı var sadece başka da bir özelliği yok. gönderilmesi düşünülmüyor. <br/><br/>yasin öztekin: zamlı sözleşme yapılacak. muhtemelen önümüzdeki sezon banko oynayacak. solda oynamadğı için hocaya trip atabilen bir karakteri var. kanatlarda messi ve ronaldo oynasa yedek kaldığı için kavga çıkarır öyle bir adam. kariyerinin en iyi sezonunu geçirdi, yaşı da 30'a geldi. satıp para kazanmayı düşünmek bir yana zam yapılacak sözleşmesine. bu da tecrübeli oyuncu, evlat, emektar falan diye 35'e kadar duracak takımda galiba. <br/><br/>tolga ciğerci iyi bir orta sahanın arkasında yedek olabilir ancak. eren derdiyok da sağlam forveti yedekler ya da ikinci olur. ahmet çalık, serdar aziz, koray günter asla takımın bankosu olamaz. sol bek aynı şekilde carole var sadece ve o da iyi bir yedek olur. sneijder, bruma, gary, muslera dışındaki hiçbir oyuncu şampiyon takım oyuncusu değil. çoğu yaşlı veya sakatlık problemi var zaten. <br/><br/>bu adamların toplam maaşına baktğında ligde fener'le beraber en pahalı takım sanırım. beşiktaş'ın en göz önündeki oyuncuları semih kaya kadar maaş alıyordur. ki galatasaray değil şampiyon beşiktaş'ı yakalamak, osmanlı'yla bile rekabet edemezler seneye. çünkü bu takımı geliştirecek bir yönetim yok. hangi yönetici olursa olsun öyle bir konuşuyorlar ki sanki ligi domine eden bir kadro var, hepsi birbirinden değerli oyuncuların. bugün salsan kulüp bulamayacak adamlara inanılmaz paralar ödüyorlar. yönetim biz "para yemeye geldik" diye bağırıyor geldiğinden beri. doğal olarak her gün daha kötüye giderler. devre arasına doğru tudor'u kovarız. yeni bir hoca gelir. o hocayla iki üç transfer yapılır ama zinhar çer çöpe dokunulmaz. o da kovulur ve döngü yeni hocayla devam eder.<br/><br/>ünal aysal ve fatih terim göreve geldiğinde benzer bir durum vardı ama terim gelir gelmez mustafa sarp, barış özbek, servet çetin, gökhan zan, ayhan akman, sabri sarıoğlu gibi adamları ya yolladıl ya da forma vermedi. üstüne o dönem alınabilecek en iyi oyuncularla iyi bir takım kurdu. bugün dünya üzerinde fatih terim dışında selçuk inan'ı gönderebilecek ya da kadrodan kesecek bir hoca yok misal. kendisinden nefret ediyorum. artık imparator değil yıldırım demirören'in kader arkadaşıdır benim için. ama galatasaray kısa vadede düze çıkacaksa ancak fatih terim'le olur. fatih terim işine yaramayan adamı sahaya sürmez. son döneminde ilk transferlerinden biri eboue'ydi misal ve eboue varken sabri'nin varlığını unutmuştuk. aynı şekilde bugün gelse şimdiki çöp yerlilerin kariyeri antrenman sahasında devam eder sadece. kralını tanımaz kimse de tek laf edemez.<br/><br/>gs store günü sıfır satışla kapatsa, tt arena derbilerde bile bomboş olsa bu yönetim istifa etmez. amaçları başarılı olmak, taraftarı memnun etmek falan değil. bu adamlar şu an gayet mutlu. yaptıkları her iş falso olabilir mi lan bir yönetimin? deli para kazanıyorlar ama. güzel kazanıyorlar. 30 yaşındayım ve şu an en pis fenerli'den daha fazla nefret ediyorum lan galatasaray'dan. yöneticisinden kaptanına tv'de görünce sinirleniyorum. bam üçlüsünü izlediğimiz dönem bile bu kadar soğumamıştım. önümüzdeki üç beş seneyi karanlık görüyorum. çok ciddiyim. fenerbahçe aziz yıldırım öldüğünde iyi bir başkanla uçuşa geçebilir ama bizim için umut yok. bizde lise belası var. biri gider diğeri gelir, sömüreni bitmez. <br/><br/>(bkz: <a class="b" href="/?q=istifa+et+am%c4%b1no%c4%9flu">istifa et amınoğlu</a>)
 - entry_name: |
     fatih terim
   entry_id:  67951037
@@ -263,11 +249,18 @@ data:
     adam ölse gsye hoca bulamayacaklar amk<br/><br/>tanım: t. direktör
 - entry_name: |
     dursun özbek
-  entry_id:  67952566
-  entry_writer: yazarken ellerini birakan herif
-  entry_fav_count: 8
+  entry_id:  67952474
+  entry_writer: hangover05
+  entry_fav_count: 14
   entry_content: |
-    ajandir.<br/>bir takim orospu cocugunun, galatasaray'i hem sportif hem finansal anlamda batirip butun arazilerini satisa cikarma projesinin maşasıdır.<br/><br/>kendi rizasi ile istifa etmeyecektir, taraftarin acil bir sekilde uyanip harekete gecmesi lazim.
+    seni o lisede derslerden geçirip mezun eden idarenin anasını sikeyim.
+- entry_name: |
+    rıza kayaalp
+  entry_id:  67953787
+  entry_writer: thinking green
+  entry_fav_count: 10
+  entry_content: |
+    2013 senesinde gezi olayları sürecinde twitter'dan "ermenilere bıraktınız meydanı, allah belanızı versin eylemci çapulcuları" şeklinde bir tweet atan, bunun üstüne <a class="b" href="/?q=fila">fila</a> tarafından 6 ay men cezasına çarptırılıp daha sonra türkiye güreş federasyonu'nun itirazı sonucu cezası ertelenen şahıs. <br/><br/>ayrıca aynı dönemde attığı "sizin yaptıgınız eylemi s.... vatan hayinleri" şeklinde bir tweet'i daha vardır. <br/><br/>şimdi bu şahıs bana ve benim gibi düşünen yüz binlerce insana alenen küfür ve hakaret etmiş, sonrasında kalkıp tek bir özür bile dilememiştir. ben bu şahsın sportif başarıları sonucu sevinmek zorunda filan değilim. kendisi bir başarı kazanınca da önceden küfür ettiği insanlara "şamar atmış" filan diyen arkadaşa "ben sporcunun zeki çevik ve aynı zamanda ahlaklısını severim" sözünü hatırlatırım. ahlaksız sporcuları sevmemek bana özgü değil çomar kardeş. hayatta sportif başarılardan daha önce gelen bazı değerler vardır.
 - entry_name: |
     para üstü vermeyen bilet otomatları
   entry_id:  67951416
@@ -290,26 +283,26 @@ data:
   entry_content: |
     tarım alanlarının yok edilmesi ve birçok tarım ürünün ithal edilmesiyle başlayan durum.
 - entry_name: |
-    1.55 boyundaki türk kızı
-  entry_id:  67937839
-  entry_writer: tekid
+    ekşi sözlük 90'ları dinliyor zirvesi 2
+  entry_id:  67954209
+  entry_writer: eksi peace
   entry_fav_count: 3
   entry_content: |
-    yüzük halen kendisinde midir merak ettirir.
-- entry_name: |
-    rıza kayaalp
-  entry_id:  67953739
-  entry_writer: oziwankenozi
-  entry_fav_count: 2
-  entry_content: |
-    şanlı gezi direnişi hakkında attığı rezil tweetten sonra hiçbir başarısı umurumda olmayan canlı.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=CdNOJgOrYKQ" title="https://www.youtube.com/watch?v=CdNOJgOrYKQ">bendeniz - ya sen ya hiç</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=kmd1eyTairQ" title="https://www.youtube.com/watch?v=kmd1eyTairQ">ajda pekkan - eğlen güzelim</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=r_SFaMFGc74" title="https://www.youtube.com/watch?v=r_SFaMFGc74">emel müftüoğlu - deli et beni</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=w65XzIIffZk" title="https://www.youtube.com/watch?v=w65XzIIffZk">harun kolçak - haketmedim ayrılığı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Y6pABd11HwA" title="https://www.youtube.com/watch?v=Y6pABd11HwA">zafer peker - anlamazsın</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8vHNZhTZkSs" title="https://www.youtube.com/watch?v=8vHNZhTZkSs">şebnem ferah - yağmurlar</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ERuUn51Tk7c" title="https://www.youtube.com/watch?v=ERuUn51Tk7c">deniz seki - kop gel günahlarından</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=67RliDakbXU" title="https://www.youtube.com/watch?v=67RliDakbXU">deniz arcak - eller aldatır</a>
 - entry_name: |
     cumartesi gecesi evde oturan ezik ve yalnız insan
   entry_id:  67950391
   entry_writer: laleler beyaz
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     yerinde olmak istediğim şanslı insan. cumartesi gecesi çalışan köleler kadar ezik değildir.
+- entry_name: |
+    1.55 boyundaki türk kızı
+  entry_id:  67942444
+  entry_writer: kargakargagaakdedi
+  entry_fav_count: 3
+  entry_content: |
+    arttırıyorum ve 1.50 diyorum. niye bu konu bu kadar mesele olup, hakkinda bu kadar başlık aciliyor onu da anlamış değilim? 1.50 ve türevi boylar ile ilgili acilmis bin başlık ve bu baslik altinda yazılmış bir milyon entry var . <br/><br/>oğlum hic işiniz gücünüz yok mu sizin ? begenmiyorsan küçük oğluna ya da kendine alma, yürü git işine. çok şükür minyon kadın hayrani erkek çok, sen beğenmezsen de ben bir sıkıntı yaşayacak değilim. nedir bu aşağılama ve hor görme arzusu bir anlasam ?<br/><br/>kadın için mesele değil boy, hic kusura bakmayın. hazmedemediginiz de bu bence. benim karşıma cikan erkeklerin büyük çoğunluğu 1.80 ve ustu idi. boy farkını problem yapan ise ben oldum hep , uzun erkekler değil. tam tersine kısa boylu olduğumu vurgulayan erkekler de 1.70 ve alti olanlar oldu. böyle bir bıcırik, ufaklık muamelesi çektiler bana , sanki kendileri pek selvi boylularmis gibi. <br/><br/>boy ile karakter analizi yapanlar da ayrı bir tartışma konusu. entrikacı, fesat ya da iki yüzlü olmanın boyla ne alakası var? üç beş tane öyle insanla karsilastin diye nasıl böyle bir genelleme yaparsın ? ben boyundan bağımsız olarak bu tür insanlarla karşılaştım. yamuk insanin uzunu da var, kısası da . bana bilimsel bir arastirmayla gelin, tespitinize saygı duyayim. mesela memleket sathında en entrikaci grup olan fetocu erkek ve kadınların boy ortalamasının, türkiye ortalamasınin 5 cm altında olduğunu ispatlayin, kendimi fitne- fucurun önde gideni ilan edeyim. yoksa böyle bir araştırma , o zaman kumda oynamaya devam edin siz.<br/><br/>bir de uzunlari elimizden aliyorsunuz diye nefret kusan ablalar var, onlar da ayrı komik. ablacigim bak başlık altında bizi hobbit,entrikaci diye gömen yüzlerce erkek var. kutusunu yeşillendir sen o abilerin, mutlu - mesut yaşayın birlikte. bizden uzak olun da, ne yaparsanız yapın. yalniz bu kadar şekilci ve kotu kalpli insanların üremesi pek sağlıklı bir seçenek değil. <br/><br/>iyi kalpli ve şekilci olmayan tüm gençleri gözlerinden öper , mutlu haftasonlari dilerim !
 - entry_name: |
     10-15 yerinden bıçakladım bıçak kolay girip çıktı
   entry_id:  67952063
@@ -345,6 +338,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     chp'nin içerisindeki dinozor tayfanın içinde güneş gibi parlıyordu. chp kadar anlamsız işlerin döndüğü bir parti daha olamaz. hala fikri sağlar partide mesela. ulan biz el kadar çocukken de o adam var baykal vardı. aferin cehape böyle saçmala.
+- entry_name: |
+    eskişehir hayvanat bahçesi elektrikli tel dehşeti
+  entry_id:  67942284
+  entry_writer: jariomardel
+  entry_fav_count: 0
+  entry_content: |
+    hayatımda gurur duyabileceğim en iyi işlerimden birinin bu yaşıma kadar hiç hayvanat bahçesine gitmemiş olmak olduğunu anlamamı sağlayan vicdanlara sığmayan vahşet. hayvanları doğal yaşamlarına bırakın, öleceklerse bile özgürce ölsünler. bu tutsaklık ve zülüm, her gün ölümdür. onlar ölüyor bizim de vicdan ve insanlığımız.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  67940765
