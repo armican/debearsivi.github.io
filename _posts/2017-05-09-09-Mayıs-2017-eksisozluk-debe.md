@@ -6,28 +6,28 @@ data:
     atatürk'ün manevi kızıyla yattığı iddiası
   entry_id:  67983742
   entry_writer: bezginpanda
-  entry_fav_count: 759
+  entry_fav_count: 766
   entry_content: |
     insan karşısındakini kendisi gibi görürmüş. bu yobaz kafa herkesi kendileri gibi sanıyor demek ki.
 - entry_name: |
     kapatılması gereken üniversite bölümleri
   entry_id:  67990147
   entry_writer: emckarelamasyon
-  entry_fav_count: 420
+  entry_fav_count: 436
   entry_content: |
     kesinlikle (bkz: <a class="b" href="/?q=ilahiyat+fak%c3%bcltesi">ilahiyat fakültesi</a>)<br/><br/>ayrıca; <br/>(bkz: <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>)
 - entry_name: |
     b.şehir şampiyon olursa meydanlarda kim sevinecek
   entry_id:  67977377
   entry_writer: gael garcia bernalin ikizi
-  entry_fav_count: 227
+  entry_fav_count: 230
   entry_content: |
     dedemin sorduğu soru.<br/><br/>adamın yaşı 90 derdini sikeyim de diyemedim koca herife.
 - entry_name: |
     btk'nın whatsapp olmasaydı ne kullanırdınız anketi
   entry_id:  67990522
   entry_writer: the game
-  entry_fav_count: 190
+  entry_fav_count: 198
   entry_content: |
     (bkz: <a class="b" href="/?q=bylock">bylock</a>)
 - entry_name: |
@@ -41,7 +41,7 @@ data:
     8 milyon ateist haklı 4 milyar insan yanılıyor mu
   entry_id:  67992462
   entry_writer: betaleonis
-  entry_fav_count: 143
+  entry_fav_count: 150
   entry_content: |
     yanlış bir olguya 500 milyon kisi dogru dese bile o hala yanlistir. bir seyin dogrulugunu onu sahiplenen kişi sayisiyla bagdastiramazsin. onceden dunya duz diyen milyonlarca insan vardi ama dunya hep yuvarlakti.
 - entry_name: |
@@ -55,9 +55,16 @@ data:
     1995 yılına dönülse ilk yenilecek şey
   entry_id:  67986587
   entry_writer: weeping guitar
-  entry_fav_count: 107
+  entry_fav_count: 112
   entry_content: |
     döner yerdim, o zamanki dönerler çok daha lezzetliydi çünkü.
+- entry_name: |
+    tekrar piyasaya sürülse yok satacak ürünler
+  entry_id:  67987758
+  entry_writer: gel piero
+  entry_fav_count: 88
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bedelli+askerlik">bedelli askerlik</a>)
 - entry_name: |
     işe giderken geçen zamanın iş saatinden sayılması
   entry_id:  67982147
@@ -69,28 +76,28 @@ data:
     mayıs 2017 bedelli askerlik yasası
   entry_id:  67984256
   entry_writer: freaky
-  entry_fav_count: 83
+  entry_fav_count: 84
   entry_content: |
     91liler olarak boku yedik sanırım arkadaşlar.
-- entry_name: |
-    tekrar piyasaya sürülse yok satacak ürünler
-  entry_id:  67987758
-  entry_writer: gel piero
-  entry_fav_count: 80
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bedelli+askerlik">bedelli askerlik</a>)
 - entry_name: |
     ülkemde suriyeli istemiyorum
   entry_id:  67976679
   entry_writer: birazfasistbirazkomunist
-  entry_fav_count: 77
+  entry_fav_count: 78
   entry_content: |
     aslına bakarsan bende suriyeli istemiyorum ülkemde. ama bu ülkenin insanlarının akıllanması için biraz acı çekmesi gerekiyor. 4 milyon suriyelinin<sup class="ab"><a title="(bkz: özellikle suriye&#39;yi karıştıran tipler)" href="/?q=%c3%b6zellikle+suriye%27yi+kar%c4%b1%c5%9ft%c4%b1ran+tipler" data-query="özellikle suriye&#39;yi karıştıran tipler">*</a></sup> yarın ne gibi sorunlar çıkaracağını bir görsünler bir tatsınlar. belki akılları başlarına gelir. artık hiç bir şeyi umursamak yok. koy göte. <br/><br/>bu arada konya'da esnaf dövmüşler. tebrik ederim. işte böyle oynayın.
+- entry_name: |
+    uyku tulumu videosundaki inanılmaz tatlı kız
+  entry_id:  67995731
+  entry_writer: umberto d
+  entry_fav_count: 69
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yokluk+ve+memleket+ergenlerine+etkisi">yokluk ve memleket ergenlerine etkisi</a>)
 - entry_name: |
     beşiktaş'la berabere kalıp çılgınca sevinmek
   entry_id:  67981563
   entry_writer: hazalodos
-  entry_fav_count: 62
+  entry_fav_count: 63
   entry_content: |
     hala gülüyorum.<br/><br/>misal gs'ye 6 attığımız maçta sevinmiştik ama ben hayatımda bu kadar güldüğümü hatırlamıyorum. keza beşiktaşın 8'lik olduğu maçta da bu kadar gülmemiştik.
 - entry_name: |
@@ -108,66 +115,59 @@ data:
   entry_content: |
     dünya üzerinde bizim gibi enteresan bir millet var mıdır bilemiyorum. vatandaş devlete diyorki sana para vereceğim, iyi bir mebla ödeyeceğim sen de beni zorunlu askerlikten muaf tutacaksın. bu kadar basit. bu devasa bütçe ile uçak al, tank geliştir, füze yap, yerli ve milli bir savunma sanayimiz olsun, ordumuzu profesyonelleştirelim beraber devlet-millet omuz omuza güçlenelim diyor. devlet de diyorki yok mühendis kardeşim, yok akademisyen kardeşim, yok hukukçu kardeşim sen gel 5,5 ay ya da 1 yıl artık hangisi çıkar orası da allah kerim belli olmayan bir süre için gel diyor çay getir götür, izmarit topla, çöp topla, tuvalet temizle, patates soy, kalan zamanında da öyle hiç bir iş yapmadan otur askerlik sürenin dolmasını bekle. yani mantık göremiyorum. gören varsa bana da bir anlatsın. devlet baba bana deseki mühendis kardeşim, hukukçu kardeşim öyle yağma yok herkes 3 ay temel askerlik eğitimlerini alacak, sporunu yapacak, bütün silahları kullanacak, arazide yatacak, mevzi alacak, pusu atacak herkes çakı gibi askerlik yapacak. koşa koşa giderim allah belamı versin. ya bu gözler neler gördü kimse kimseyi kandırmasın. devlet de biliyor bizim onlara yük olduğumuzu. hem maddi hem manevi yüküz işte. yaş olmuş 27. biz de verelim parasını en azından alınacak olan bir uçağa katkımız olsun diye yırtınıyoruz tek derdimiz bu dostlar.
 - entry_name: |
-    the ottoman lieutenant'a 10 puan kampanyası
-  entry_id:  67976644
-  entry_writer: 7000
-  entry_fav_count: 49
-  entry_content: |
-    9 verdim, maksat muhaliflik olsun. kılışdar istifa etsin.
-- entry_name: |
-    uyku tulumu videosundaki inanılmaz tatlı kız
-  entry_id:  67995731
-  entry_writer: umberto d
-  entry_fav_count: 47
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yokluk+ve+memleket+ergenlerine+etkisi">yokluk ve memleket ergenlerine etkisi</a>)
-- entry_name: |
     görülmüş en saçma rüya
   entry_id:  67982649
   entry_writer: obsesyonatestenbirkor
-  entry_fav_count: 47
+  entry_fav_count: 51
   entry_content: |
     louis armstrong'un patronum olduğu ve benden kendisine alttan çıtçıtlı body almamı istediği bir rüya görmüşlüğüm vardır. benzer bir şeyler göreceğim diye uyku uyuyamadım günlerce. olmaz olsun böyle eşleştirme.
+- entry_name: |
+    the ottoman lieutenant'a 10 puan kampanyası
+  entry_id:  67976644
+  entry_writer: 7000
+  entry_fav_count: 50
+  entry_content: |
+    9 verdim, maksat muhaliflik olsun. kılışdar istifa etsin.
 - entry_name: |
     bize sorgusuz biat eden cahil gençlik lazım değil
   entry_id:  67976886
   entry_writer: patlak fermuar
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     buraya okaliptüs yerken şaşıran koala fotosu gelecek.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.imgim.com/2786incif1380696.jpg" title="http://www.imgim.com/2786incif1380696.jpg">geldi.</a>
 - entry_name: |
     mustafa armağan
   entry_id:  67977572
   entry_writer: ceteris zeus
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     orospu çocuğu desen seks işçilerine hakaret olur, öyle bir şerefsiz!
 - entry_name: |
     ertuğrul gazi türbesi'nde alp kıyafetli nöbet
   entry_id:  67976677
   entry_writer: osuran imam
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     hiçbir faydası olmayan nöbet.<br/><br/>tarihte yeri önemli bir zat olabilir ertuğrul gazi. onu anladık da böyle göstermelik hareketlere ne gerek var.<br/><br/>fabrika kurun fabrika, millete hayrınız dokunsun biraz.
 - entry_name: |
     mersin antalya arasında düzgün karayolu olmaması
   entry_id:  67992236
   entry_writer: hamburabi kanunundaki bug
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     komşu iller arası en uzun ulaşım süresine sahiptir mersin ile antalya. <br/><br/>ayrıca mersinin turizm potansiyelini en az kullanan şehrimiz olduğunu düşünüyorum.<br/><br/>muhteşem doğasının yanında roma dönemi eserleri, kleopatra kapısı, en eski yerleşim yerlerinden olan gözlükule höyüğü ve aziz paul un su kuyusu (hristiyan hacıları için zorunluluk) gibi değerlere karşın turizm nasıl gelişmez konusunda makale konusu olabilecek bir konumdadır.<br/><br/>tarihi değerlerin haricinde damak turizmi için de keşfedilmesi gereken şehirlerimizden birisidir.
 - entry_name: |
     kız arkadaşına yemek yapan erkek
   entry_id:  67990075
   entry_writer: alukard
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     benim. <br/><br/>yol yorgunuydu. yemek yaptım, bulaşıkları yıkadım. yorgun olduğu için bedeni bitkin düşmüştü, üzerini değiştirip pijamasını giydirdim, nane limon kaynattım, içirdim. baktım iş ciddiye gidiyor, ateşi falan yükseliyor, ateş düşürücü içirdim. gece haliyle terlemişti, soğuk almasın diye üzerini değiştirdim. sabah uyurken kahvaltı hazırladım, yorgun olduğu için yedirdim. baktım yerken zorlanıyor, kalktım çorba yaptım...<br/><br/>ama sonuç? aldatıldım. yaptığım tüm bu şeyleri denize attım. sonra bi banka oturup denizi izledim. deniz dalgalandıkça ben duruldum.
 - entry_name: |
     özgüvenli çocuk yetiştirmek
   entry_id:  67995667
   entry_writer: mermaid and the waters
-  entry_fav_count: 32
+  entry_fav_count: 36
   entry_content: |
     kesinlikle çocuğa sorumluluk vermek.<br/><br/>sorumsuz büyüyen çocuklar büyüdüklerinde genellikle tembel ve az ya da çok özgüvensiz oluyorlar. ailem beni engelli gibi büyüttü ve 23 yaşında ufacık bir iş, önemsiz bir sorumluluk bile beni stresten terletiyor. hiçbir haltı beceremem gibi geliyor nitekim beceremiyorum da alışmamışım. kendi deneyimlerim ve aile hayatına tanık olduğum yakınlarımda gözlemlediklerim budur.
 - entry_name: |
@@ -188,14 +188,14 @@ data:
     edebiyat sanat felsefe konuşulan arkadaş ortamı
   entry_id:  67976676
   entry_writer: pisligin tekiyim
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     abim var bir tane dalyarak bir heriftir kendisi, bir keresinde oturmuşum salonda film izliyorum kapıdan girdi selam verdi film yeni başlamış tam çıkacak dediği laf şu "izleme ya siktir et hepsini çocuk yapmış". ya ben senin cibiliyetini sikiyim ya. öyle aklıma geldi paylaşayım dedim...
 - entry_name: |
     ev köftesinin köfteci köftesinin yerini tutmaması
   entry_id:  67983818
   entry_writer: big dog beta
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     bir lezzet avcısı olarak canımı sıkan husus. eve köfte alıyorum mesela döküm tavada yapıyorum bir de köfteyi o seyyar köftecideki köfteye benzesin diye ama olmuyor. köfte kokusunu, tadını alamıyorum. bir şeyler eksik. diyorum ki bu mangal işi. basıyorum gidiyorum pikniğe, mis gibi mangala koyuyorum köfteleri cızırdatıyorum bir güzel. ekmeğin arasına soğanı domatesi ve köfteleri ictimaya çeker gibi nizami şekilde dizip çaprazlamasına ekmeğe ham yapıyorum. sonuç? yine hüsran. tamam mangalda biraz daha güzel ama o köftecideki gibi olmuyor olmuyor olmuyor:(...
 - entry_name: |
@@ -230,16 +230,16 @@ data:
     ekşisözlük evlenme ağı
   entry_id:  67983285
   entry_writer: blackbriar
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     otuzlu yaşlarının başlangıcında ve amerika'da yaşayan bir adam evleneceği kadını internetten, hele hele de sözlükten arıyor.<br/><br/>(bkz: <a class="b" href="/?q=bilemiyorum+altan">bilemiyorum altan</a>)
 - entry_name: |
-    7 mayıs 2017 emenike'nin son dakika skandal faulü
-  entry_id:  67985483
-  entry_writer: melantroduction
-  entry_fav_count: 14
+    nuriye gülmen
+  entry_id:  67995525
+  entry_writer: ben guluyor muyum
+  entry_fav_count: 12
   entry_content: |
-    (bkz: <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikeyim">açacağın başlığı sikeyim</a>)
+    semih hoca'da unutkanlıklar ve mide krampları sıklaşmıştı. nuriye hoca'nın cilt rengi dışında fiziksel bir belirtisi yoktu fakat daha önce de paylaşılan <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/seyrisokak/status/861630239323156481" title="https://twitter.com/seyrisokak/status/861630239323156481">şu twite</a> göre durumu ciddileşiyor. bırakın denilemiyor, baştan biliyorlardı , üstelik çok da haklılar insan utanıyor onlar kadar kararlı olamadığı için ama özellikle yurt dışında olan arkadaşlar belki daha çok yaygınlaştırabilirler. <br/><br/>yerin dibine batsın verecekleri iş de, para da demek istiyor insan ama bu sadece üç kuruşluk bir işe dönme değil bu bir daha hiç kimse haksız, anlamsız, böyle vicdansızca işten çıkarılmasın diye verilen bir onur mücadelesi. <br/><br/><a class="b" href="/?q=nuriye+g%c3%bclmen%27e+ses+olun.">nuriye gülmen'e ses olun.</a>o belki de yarın bizim başımıza da aynısı gelmesin diye bedenini ölüme terkediyor.
 - entry_name: |
     sense8
   entry_id:  67979817
@@ -248,19 +248,19 @@ data:
   entry_content: |
     ne buluyorsunuz bu dizide diyenlere, <a class="b" href="/?q=nerenizle">nerenizle</a> izliyorsunuz demenin daha doğru olacağı dizi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dizideki kurguda <a class="b" href="/?q=duyusal">duyusal</a>lar yani homo <a class="b" href="/?q=sensoryum">sensoryum</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Cilalı_Taş_Devri" title="https://tr.wikipedia.org/wiki/Cilalı_Taş_Devri">neolitik çağ</a>'dan beri <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/İnsan" title="https://tr.wikipedia.org/wiki/İnsan">homo sapiens</a>'le bir arada yaşıyorlar.<br/><br/>bugün insanların lgbti ya da kendisinden farklı gördüğü şeylere duyduğu nefretin kökeninde yatan şey <a class="b" href="/?q=korku">korku</a>. bu korkunun kökü de milyonlarca yıldır genlerimizde taşıdığımız bir miras aslında. <br/><br/>dizide sapiens çok güzel bir şekilde tanımlanıyor:<br/><br/>- hepimiz sapiensleri tanıyoruz.en iyi arkadaşlarımın çoğu sapiens. saphiensler güvende hissettiklerinde dünya'nın en tatlı insanlarıdır. içlerindeki iblisleri besler, onları korkutur, onlara ötekileşme fırsatı sunarsan; ardından aynı sapiens i şehirlere bombalar atarken, binalar uçak sokarken ve kendi türlerinden milyonlarcasını gaz odasına sürüklerken bulabilirsin ve bu sadece birbirlerine yaptıkları. kendilerinden farklı bir türe ne yaparlar kimbilir.<br/><br/>son cümlede geçen gönderme sapiens'in yani bizlerin, binlerce yıl önce <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Neandertal" title="https://tr.wikipedia.org/wiki/Neandertal">neandertal</a> türünü yeryüzünden silişimize bir gönderme aslında. ortalama 28 bin yıl öncesine kadar, yeryüzündeki tek tür biz değildik. <br/><br/>evrim konusunda din ile bilim aslında sanıldığının aksine birbirini destekler. mesela kuran'daki nur suresinde şöyle bir ayet vardır:<br/><br/>24/nûr-45: allah, her hayvanı, (husûsi) bir sudan yarattı. bunlardan kimi karnı üstünde yürüyor, kimi iki ayak üstünde yürüyor, kimi de dört ayak üstünde yürüyor. allah dilediği şeyi yaratır, çünkü allah her şeye kadirdir.<br/><br/>yukarıdaki ayette dabbetin (yürüyen canlı) evrimi bugün bilimsel olarak açıklanan şekilde gelişiyor. önce sudan yaratılıyor. karnı üstünde sürünüyor. elleri ve ardından ayak uzuvları ortaya çıkıyor.<br/><br/>aynı şekilde tevrat'ın tekvin bölümünde adem'in yaratılışı, insanın yaratılışını anlatan ayetlerden sonra gelir. kutsal kitaplarda geçen kronoloji asla rastgele değildir. buradan yola çıkarak türümüzün ilk örneğinin adem olmadığı bilgisini rahatça söyleyebiliriz. zaten bugün bilimsel olarak <a class="b" href="/?q=mitokondriyel+havva">mitokondriyel havva</a> ya da <a class="b" href="/?q=y+kromozomu+adem%27i">y kromozomu adem'i</a> varsayımlarına bakarsak türümüzün ilk örnekleri en az 280 bin yıl öncesinden gelmekte (ki bu başlangıç tarihi değildir)<br/><br/><a class="b" href="/?q=zamanlar%c4%b1n+sonu+%c3%bcst%c3%bcne+s%c3%b6yle%c5%9filer">zamanların sonu üstüne söyleşiler</a> kitabını okuduysanız, orada bugün kıyamet olarak tasarladığımız ya da hayal ettiğimiz sonu, en az 7 defa yaşadığımız konusunda bilgiler mevcuttur. maya takvimi 309 bin yılda bir kıyameti öngörür ve bu aynı zamanda 12 <a class="b" href="/?q=presesyon">presesyon</a> süresine eşittir. (her presesyon sürecinde insan türü evrimsel bir sıçrama gerçekleştirmiş. mesela ilk presesyonda opposable thumb, ikincisinde homo erectus'un ortaya çıkışı,beyin hacmimizin sapiens'e evrilmesi. o kısım epey uzun)<br/><br/>wachowski kardeşler'in senaryosunu yazdığı matrix filminde, mimar neo'ya şunu söyler: 'sen 6. neosun. bundan önceki 5'i başaramadı.' mesela üstteki <a class="b" href="/?q=mitokondriyel+havva">mitokondriyel havva</a> ya da <a class="b" href="/?q=y+kromozomu+adem%27i">y kromozomu adem'i</a> ve maya takvimiyle paralel olan preseyon dönemlerini baz alırsak; bizim adem'imiz 6. kıyametten sonra hayatta kalan adem olabilir ya da hangi ismi verirseniz.<br/><br/>2. sezonun ilk bölümlerinden birinde <a class="b" href="/?q=ludwig+wittgenstein">ludwig wittgenstein</a>'ın 'lisanımın sınırı, dünya'mın da sınırıdır' sözünden alıntı yapılır. ardından şu diyalog geçer:<br/><br/>'lisanı çok ciddiye alıyoruz çünkü kendimizi çok ciddiye alıyoruz. düşünce ve duygularımızı kelimeler olmadan ifade edebilmeyi hayal edin. kelimeler... kifayetsizlikleri bir klişedir. kelimelere dökemiyorum, kelimeler yetmiyor, kelime bulamıyorum... peki ya bulmamız gerekmeseydi? ilk atalarımızın bildiğimiz anlamda bir lisan kullanıp kullanmadığını kanıtlama imkanımız yok. tabi bu lisan eski iletişim biçiminin yerini aldıysa, bariz olan çıkarım lisanın daha gelişmiş bir iletişim biçimi olmasıdır.''<br/><br/>kuzey kafkasya halklarının bir kısmı, geçmişte hayvanlara isimler verirken onların çıkardıkları sesi taklit ederlermiş. mesela kuş çiuv diye bir ses çıkartıyorsa, ses aynı zamanda onu niteleyen isme dönüşürdü. üstteki replikte olduğu gibi bugün bilim atalarımızın düşünce ve duygularını aktarırken bizim gibi kelimelere ihtiyaç duyup duymadıklarını bilmiyor. blki birkaç presesyon önceki yaşam formları telepatiyle anlaşıyorlardı. belki türlerin geçmişi düşünüldüğünde, biz 0'dan 100'e çıkan araba değilizdir. (mu, atlantis, kuran'da demir çağı sonrası <a class="b" href="/?q=solar+apeks">solar apeks</a>'e bir araçla seyahat eden <a rel="nofollow noopener" class="url" target="_blank" href="http://www.galaksiarsivi.com/zulkarneynin-uzaya-seyahati/" title="http://www.galaksiarsivi.com/zulkarneynin-uzaya-seyahati/">zülkarneyn kıssası</a> vs. vs.)<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şimdi yukarıda bahsettiğim şeyleri düşündüren diziye hala lgbti pornosu diyenler varsa, o diziden değil, sizin gizli eşcinselliğinizi bastırmanızın yarattığı korkunuzdan kaynaklanmaktadır diyerek ilk psikolog seans ücretinizin cebinizde kalmasını sağlayıp bir güzellik yapayım. <br/><br/>10 bölümlük dizide adamlar teoloji, antropoloji, arkeoloji, lingustik, astronomi, psikoloji, fizik, kimya... daha tonla bilimsel disiplinden alınıtılar yapacak; kamil'in biri gelip lgbt pornosu bu yea diyecek. seni ancak <a rel="nofollow noopener" class="url" target="_blank" href="http://c11.incisozluk.com.tr/res/incisozluk/11007/6/437186_o8742.jpg" title="http://c11.incisozluk.com.tr/res/incisozluk/11007/6/437186_o8742.jpg">şu</a> görsel paklar.<br/><br/>edit: imla
 - entry_name: |
-    i am you
-  entry_id:  67992133
-  entry_writer: eksi peace
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kabul+edelim+format%c4%b1+iyi+sikiyor">kabul edelim formatı iyi sikiyor</a>)
-- entry_name: |
     5000 liraya hukuk okumak
   entry_id:  67993833
   entry_writer: umberto d
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     bu uygulamanın münferit olduğunu düşünmek yanlış olur.<br/><br/>imam-hatip liseleri parlatılmaya çalışılıyor. "ahlaklı", "dindar" nesiller yetiştirilip kilit noktalara -özellikle hukuk sistemine- yerleştirilmek isteniyor.<br/><br/>böylelikle bürokrasiden başlayan türk modernleşmesi aynı yerde tersine çevrilecek ve sözünü ettikleri 90 yıllık reklam arası son bulacak.<br/><br/>amaç ne? amaç, itaat eden ve yeniliğin y'sine tepki duyacak bir anadolu ile ülkenin kaymağını kontrol altında tutmayı sağlayacak bir bürokrasi yaratmak.
+- entry_name: |
+    7 mayıs 2017 ales
+  entry_id:  67980182
+  entry_writer: slagathor
+  entry_fav_count: 9
+  entry_content: |
+    zaman zaman uyanamayıp, bazen de tam o haftaya bir şehir dışı planı yapıp, parasını yatırdığım halde giremesem de en sık girdiğim sınavdır kendisi. yıllardır hiç çalışmayıp üç aşağı beş yukarı benzer puanlar alan ortalama bir sayısalcıyım. sayısalcıyım dediğime de bakmayın. biyoloji mezunuyum. m1v1=m2v2 formülü ve biraz da içler dışlar çarpımı yaptığımız basit hesaplarımız olmasa matematikle hiç ilişkimiz olmayacak.<br/><br/>geometri sorularına bakmıyorum bile artık. 3-4-5 üçgeninden beriye bir şey hatırlamıyorum zaten. bazı sorular kafa karıştırsa da özellikle türkçesi nispeten kolay bir ales'ti. o nedenle sevgili sayısalcılar sözelcileri "ballılar! olan bize oldu" diye şey etmesinler. sonuçta sözelin kolay olması sayısalcıların işine yarar. çünkü farkında olmasanız da, türkçe, sizin diğer sayısalcılara fark atmanızda önemli bir göreve sahip.<br/><br/>bana göre, geçen senenin bahar dönemine kıyasla daha zor bir matematik 1 olsa da, içimde hâlâ kazığı duran birçok ales'e nazaran oldukça rahat sorular da vardı. <br/><br/>ama siz bana bakmayın, bu başlığı okurken "oha! öyle bi' soru da mı varmış? ben niye görmedim?" falan diyordum. <br/><br/>bu arada entry daha yeni başlıyor. ales'ten gelince (15.20'ydi eve girdiğimde ve küçücük eskişehir'de yaşıyorum) bayağı uyudum. o yüzden saracak başlık arıyorum da. neyse, asıl diyeceğim şey şuydu: dün gece regl oldum. yıllardır ales'e girerim. ama ilk kez ağrılı ve yoğun günlerinde girdim sınava. o zaman kafama dank etti. sabah 8:15'te evden çıktım, 15:20'de girdim.<br/><br/>7 saat! yanına sadece su ve kimliğini aldığın 7 saat boyunca bu kadınlar ne yapıyor ya? hadi diyelim, aldın yanına pedini. binbir zahmetle saklaya saklaya verdin emanete. türkiye'desin sonuçta. adet görmek aşırı ayıp bir şey. ulan bir sürü insan var emanete bırakacak parası olmayan ya da emanet dolduğu için oralara bir şey bırakamayan. ne yapıyor bu insanlar, aklım almıyor. dedim ya, eskişehir'deyim bir de. istanbul, ankara, izmir'dekiler ne yapıyor acaba? <br/><br/>hayatımda kendimden bu kadar tiksinmemiştim. kadının doğasından gelen bir şey bu. benim tuvalete gidip daha temiz hissetmem gerek. uzun süre değiştirilmeyen bir pedin neden olduğu bir sürü hastalık var. alyans takmak veya baş örtüsündeki metal iğneler serbestken içeri ped sokulmasının yasak olması bence barbarlık. büyük bir ayıp. ben mi çok abartıyorum, bi' söyleyin hele. <br/><br/>biliyorum çoğunuz "fakirdiniz, okuyamadınız", bir kısmımız da empati kuramadınız "derdimi si'l'ktiniz". ama bu yapılan bana çok acımasız geldi. belki benim gibi hisseden başka insanlar da vardır diyerek yazmak istedim. <br/><br/>ülkenin her sistemi ataerkil ve çürümüş. en basit insan haklarını bile hiçe sayan saçma bir düzende hala bi' umut ales'e girip torpilim olmadığı halde kadrolara başvurma gafletine düşüyorum. tepeden tırnağa her şey o kadar bozuk ki... ineğimiz bile yok ama ben ısrarla yoğurtlu çorba istiyorum.
 - entry_name: |
     fi
   entry_id:  67976901
@@ -269,12 +269,19 @@ data:
   entry_content: |
     7. bölümde bana saçmalığından ötürü komik gelen bir sahnede, deniz karakterinin okul bahçesinde bekleşen öğrenci grupları arasından okulun giriş kapısına doğru yürüyüşü sırasında, çevredeki kalabalığa elli kollu gerçekten abartılı bir ilgiyle, kimseyi gözden kaçırmadan ve adeta herkese tek tek konsantre olup kendi kendine gelin güvey selam verişi seremonisinde, diğer taraftan rastgele 'siz burada siz de burada durun ve rahat takılıyormuş gibi yapın gençler' görevi verilmiş ama tepki yüklemeleri göz ardı edilmiş söz konusu figürasyonun, deniz'i hiç mi hiç iplemez bir haldeki 'bu kimdi ya' tavrıyla dağınık dikkatimi bir an ele geçirip kendini 2 sefer daha izlettirirken, aynı zamanda 'bu neydi ki şimdi ya' tepkisi verdirerek yeniden ve yeniden toplamda 3 kez güldürebilmiş dizidir.
 - entry_name: |
-    sinemada izlenen en iyi film
-  entry_id:  67991099
-  entry_writer: azominko
+    süpürge sesinin bebekleri rahatlattığı gerçeği
+  entry_id:  67993530
+  entry_writer: 44
   entry_fav_count: 6
   entry_content: |
-    (bkz: <a class="b" href="/?q=interstellar%27%c4%b1+sinemada+izlemi%c5%9f+efsanevi+nesil">interstellar'ı sinemada izlemiş efsanevi nesil</a>)
+    21 aylık oğlumun en büyük zevki youtube'da "elektrik süpürgesi sesi" videolarını izlemek. bu eylemin onun dilindeki adı ise "vuuu" ya da "huuu". boş gördüğü her an telefonlarımıza ya da tv kumandasına sulanıp huuu çekiyor. <br/><br/>bunun dışında elektrikli süpürge görünce de hemen aynı şekilde açmamızı istiyor ve dip bucak girişiyor. biz açmazsak fişi alıp en uygun gördüğü taburenin deliğine takıyor.
+- entry_name: |
+    okurken ağlanan kitaplar
+  entry_id:  67978148
+  entry_writer: bombadil
+  entry_fav_count: 5
+  entry_content: |
+    (bkz: <a class="b" href="/?q=idare+hukuku">idare hukuku</a>)<br/>(bkz: <a class="b" href="/?q=bor%c3%a7lar+hukuku">borçlar hukuku</a>)<br/><br/>bir de tutunamayanlar lol.
 - entry_name: |
     the ottoman lieutenant
   entry_id:  67977139
@@ -290,20 +297,6 @@ data:
   entry_content: |
     talisca'nın ne kadar orantısız ve küt parmakları olduğunu görmemizi sağlayan olay. 190 cm boyunda adamsın, ayaklar desen kürek gibi ama şu parmaklara bak. gerçekten çok enteresan... bu arada ben de maçı izlerken ''acaba volkan yine nere sövüyor lan'' diyordum. adam bu sefer haklıymış. keşke kafayı çaksaydı bizim karaoğlana neden bu kadar profesyonel davrandın volki?
 - entry_name: |
-    süpürge sesinin bebekleri rahatlattığı gerçeği
-  entry_id:  67993530
-  entry_writer: 44
-  entry_fav_count: 4
-  entry_content: |
-    21 aylık oğlumun en büyük zevki youtube'da "elektrik süpürgesi sesi" videolarını izlemek. bu eylemin onun dilindeki adı ise "vuuu" ya da "huuu". boş gördüğü her an telefonlarımıza ya da tv kumandasına sulanıp huuu çekiyor. <br/><br/>bunun dışında elektrikli süpürge görünce de hemen aynı şekilde açmamızı istiyor ve dip bucak girişiyor. biz açmazsak fişi alıp en uygun gördüğü taburenin deliğine takıyor.
-- entry_name: |
-    nuriye gülmen
-  entry_id:  67996665
-  entry_writer: avocet
-  entry_fav_count: 4
-  entry_content: |
-    bu khk'ların ahı her birinizden özellikle de kaynağından öyle bir çıksınki değil açlık susuzluk nefes bile lüks gelsin, gün ışığına hasret bir ömür geçirsinler ki biz de bu adaleti bu dünyada görelim öte dünya hayaliyle kandırılmayalım. <br/>gencecik iki insan göz göre göre eriyor ben böyle ülkenin önce vicdanını sonra cibiliyetini ... .
-- entry_name: |
     ekşi itiraf
   entry_id:  67982719
   entry_writer: tavsani tekmele
@@ -318,19 +311,26 @@ data:
   entry_content: |
     neredesin bilmiyorum. <br/><br/>bu gün 3 yıl öncesine ait bir videomu izledim. yüzüm genç gösteriyor her zaman ki gibi. seni tanımıyorum o zaman. ama yılların yorgunluğu var. belli etmiyorum. neler çektiğim hep gizli saklı. yüzüm güleç. deniz kenarı bir yerdeyim. bir sokak müzisyeni acayip şekilde güzel çalıyor ve rüzgarla dans ederken saçlarım, insanların arasından geçmeye çalışıyorum. <br/><br/>bu gün 3 yıl sonrasında olacağımı bile bilmeden seviyorum hayatı, müziği, doğayı, insanları, seni. <br/><br/>seni tanımıyorum. neredesin bilmiyorum. bildiğim tek şey var. doğum günüm bana geldiğin gündür.
 - entry_name: |
-    minik eymen'e yardım ediyoruz kampanyası
-  entry_id:  67985009
-  entry_writer: el pajaro
-  entry_fav_count: 3
-  entry_content: |
-    umarim tez zamanda tum sifa bekleyenler gibi sifasini bulur.<br/><br/>o kadar guzel bi deyis var ki,<br/>"the truth is that airports have seen more sincere kisses than the wedding halls, <br/>the walls of hospitals have heard more prayers than the walls of a church."<br/><br/>yardim edersek ne mutlu bizlere.
-- entry_name: |
     lebron james
   entry_id:  67989725
   entry_writer: sancili90
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     malum siyasi ortamlarda paralı troll yazarlar var. benim anlamadığım, lebron chp istanbul 3.bölge adayı mı ki, inatla aynı trollüğü burda yapıyorlar?
+- entry_name: |
+    anderson talisca
+  entry_id:  67997185
+  entry_writer: mc43
+  entry_fav_count: 3
+  entry_content: |
+    bu şoparı asmalı rvp yi ise beslemeliyiz.<br/><br/>tüm maç hem takımı hem tribünleri tahrik eden, elini şortuna sokmadan tut dillemeye kadar türlü orospudan daha marifetli iş çıkaran rvp ile kendisini bir tutacakmışız. hatta en az 3 maç alacakmış, o rvp denen dansözün 2 maçla yırttığı yerde. ki burada olayları başlatan başka bir ayı varken<br/><br/>he yavrularım he. görürseniz selam da iletin.<br/><br/>edit : işte onu diyoruz. dil çıkardı, ama şortunu düzeltiyordu. yersen.
+- entry_name: |
+    içerde
+  entry_id:  67996956
+  entry_writer: 19842710
+  entry_fav_count: 2
+  entry_content: |
+    ya bu yusuf müdüre bi tavsiye: abi neden arka sokaklar ekibinden yardım istemiyorsun? mesut komiser şimdiye anasını laciverte boyardı calal'ın.<br/><br/>edit: çok uzattınız amk.
 - entry_name: |
     yazarların bugünkü mutluluk sebebi
   entry_id:  67993506
@@ -339,12 +339,12 @@ data:
   entry_content: |
     bugün 38 beden pantolonun içine sığamadım. şimdi bunun ne demek olduğunu anlamayan kişiler mesajla dövmeye kalkabilir, açıklayayım; bundan 4 ay öncesine kadar, 44 beden kot pantolonun içine sığamıyordum, pantolon sağdan soldan dikiş atıyordu. bir süreç başlattım ve bu süreç içerisinde şu an 23 kilo vermiş durumdayım. mağazaya gittim, 40 beden pantolon bol geldi, 38 beden pantolon sıktı. aşağı yukarı 5 beden küçülmüşüm.<br/><br/>başka hiç bir şey gaz veremezdi lan bana bu kadar. yani yolda bir afet önümü kesse ve ' offf çok yakışıklısın, birlikte takılalım mı?' dese, bu kadar gaza gelmezdim.
 - entry_name: |
-    içerde
-  entry_id:  67996804
-  entry_writer: tobias27
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  67978858
+  entry_writer: cokomilk
   entry_fav_count: 1
   entry_content: |
-    şu an tarihi bir sahne yaşanan dizi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sarp'ın polis olduğunu öğrendi celoş baba.<br/><br/>vay amk, hiçte beklediğim etkiyi yaratmadı bende.<br/><br/>hep bu ekşi yazarları yüzünden, dizi ilerlemiyor ilerlemiyor dediniz, alın ilerledi amk, mutlu musunuz asdfghjklşi<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    dertleşme değil, ekşi sözlük c2.me veritabanı amk. yeşilli dert anlatamıyor musunuz olm siz.
 - entry_name: |
     ekşi sözlük iş ağı
   entry_id:  67994719
