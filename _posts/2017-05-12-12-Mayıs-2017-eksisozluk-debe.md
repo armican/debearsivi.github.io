@@ -6,149 +6,149 @@ data:
     erdoğan'ın ülkesinde yaşayıp onu sevmemek
   entry_id:  68049165
   entry_writer: eat this clc
-  entry_fav_count: 831
+  entry_fav_count: 833
   entry_content: |
     (bkz: <a class="b" href="/?q=yok+yok+erdoganin+galaksisi">yok yok erdoganin galaksisi</a>)
 - entry_name: |
     11 mayıs 2017 türkiye'nin füze denemesi yapması
   entry_id:  68051104
   entry_writer: durandal
-  entry_fav_count: 473
+  entry_fav_count: 474
   entry_content: |
     (bkz: <a class="b" href="/?q=bu+arada+bora+ben">bu arada bora ben</a>)
 - entry_name: |
     gezi olayları liderinin suriye'de ölmesi
   entry_id:  68048342
   entry_writer: victor von doom
-  entry_fav_count: 440
+  entry_fav_count: 441
   entry_content: |
     gezi olayları bu siyasal islamcılara öyle acı koymuş ki 4 sene sonra bile dezenformasyondan, çarpıtmalardan, kötülemelerden vazgeçmiyorlar. <br/><br/>he yavrum ekonomi çok iyiydi, ülke süperdi.
 - entry_name: |
     11 mayıs 2017 talisca'nın aldığı ceza
   entry_id:  68053101
   entry_writer: almanca cok kaba bir dil
-  entry_fav_count: 324
+  entry_fav_count: 328
   entry_content: |
     1 maç olarak açıklanmıştır. şaka gibi gerçekten. talisca bu kadar az ceza alacağını bilse çıkarır sikini sallardı. yapardı. eminim. beşiktaşlı çünkü. <br/><br/>(bkz: <a class="b" href="/?q=efendi+8ta%c5%9f">efendi 8taş</a>)
 - entry_name: |
     sırtından vurulan hamile doktor
   entry_id:  68052943
   entry_writer: milonguero
-  entry_fav_count: 308
+  entry_fav_count: 314
   entry_content: |
     "<a class="b" href="/?q=konya">konya</a>’da <a class="b" href="/?q=hafif+ticari+ara%c3%a7">hafif ticari araç</a> sürücüsü ..."<br/><br/>seklinde baslayan bir haber. yeterince aciklayici oldugunu dusunuyorum.
 - entry_name: |
     wikipedia'dan vergi istemek
   entry_id:  68049245
   entry_writer: taopaipai
-  entry_fav_count: 290
+  entry_fav_count: 292
   entry_content: |
     ekşi sözlükte <a class="b" href="/?q=papua+yeni+gine">papua yeni gine</a> başlığı olduğu için papua yeni gine devletinin ekşi sözlüğün papua yeni gine'de temsilcilik açması ve vergi vermesini istemesine eşdeğer bir olaydır. bunu ciddi ciddi savunanlar var. insan gerçekten hayret ediyor.
 - entry_name: |
     canlı performansı albümüne eşit olan sanatçılar
   entry_id:  68049423
   entry_writer: ovalkaya
-  entry_fav_count: 233
+  entry_fav_count: 238
   entry_content: |
     mustafa ceceli. ikisini de izleme ihtiyacı duymuyorsun. ikisinden de miden bulanıyor. ikisinden de tiksiniyorsun. böyle şeyi şeyine denk sanatçı yoktur yeminle...<br/><br/>edit: sanatçı demişim çok pardon. tüm sanatçılardan özür dilerim.
 - entry_name: |
     çaylaklar ne diyor butonu getirilsin kampanyası
   entry_id:  68045081
   entry_writer: algoritmik man
-  entry_fav_count: 224
+  entry_fav_count: 237
   entry_content: |
     başlıkların altındaki;<br/>şükela, başlıkta ara, takip et gibi butonların yanına hafifçe bırakılacak bir "çaylaklar ne diyor?" butonu, sözlüğün tarihi boyunca bir beka sorunu olan <a class="b" href="/?q=%c3%a7aylak+meselesi">çaylak meselesi</a>nin çözümü olabilir.<br/><br/>buton nasıl çalışacak?<sup class="ab"><a title="(bkz: en önemli kısım da burası zaten)" href="/?q=en+%c3%b6nemli+k%c4%b1s%c4%b1m+da+buras%c4%b1+zaten" data-query="en önemli kısım da burası zaten">*</a></sup><br/>bu butona tıklandığı an, aynı başlıkta nasılki şükela butonuna basınca şükela entrylerini görüyorsak, bu butona basınca da sevgili çaylaklarımızın o başlıkta girdiği entarileri görebiliriz.<br/><br/>edit: yanlış anlaşılma olmasın, kampanyanın amacı çaylakları yazar yapmak değil. sözlük yine eskisi gibi olacak, felaket tellatları gelmeden önce belirtmekte fayda var. sadece isteyenler çaylakları okuyabilecek, sadece çaylakları okumak daha kolay ve daha ulaşılabilir olacak. bazen sözlükte çaylakların varlığını unutuyoruz, bu sayede en azından gözümüz çarptığında merak edip okuyabiliriz. tek ama tek amaç ifade özgürlüğü'nde eşitliğin sağlanması. saygılar.<br/><br/>şimdi bu üç uygulamada da bahsettiğim özellikler var. ancak bu uygulamalar kaç kişide var? kaç kişi bu uygulamaları kullanıyor sorusunun cevabı kesinlikle bütün yazarları kapsamıyor. eğer amacımız farklı mecralarda aradığımız çözümü bulmak olsaydı, veya en az 2 sene çaylaklık yapmış yazarlar olarak çaylaklar için fayda sağlamak olmasaydı zaten gelip buraya yazmazdık. önemli olan sözlüğün iskeletinde bu değişikliğin yapılması, dolayısıyla herkesin aynı anda faydalanabilmesi. demek istediğim gayet net, bu uygulamaları yapan arkadaşları takdir ediyorum, ancak bizim amacımız böyle uygulamalar indirmek zorunda kalmadan bu özelliğe kavuşmak, ekşi sözlüğü başka aracı uygulamalar kullanmadan okuyabilmek.<br/>özellik dediğim de 2 satır koddan oluşuyor. bunu yapmak çok da zor olmamalı. <br/><br/>bazı arkadaşlar fav kasmak için bu entryi girdiğimi söylemiş, bazısı bana faşist, bazısı da provakatör demiş bazısı çaylaklar üzerinden prim yapmaya çalıştığımı söylemiş. insan gerçekten hayret ediyor. ben onlara bir şey demeyeceğim çünkü bu beyinlerle hayatlarını sürdürmek zorunda olmaları onlar için yeterince ağır bir yük olmalı. tabi bu tiplerin yazar olup, çaylakların olamaması da daha bi elem verici.<br/><br/>edit2: ayrıca <a class="b" href="/?q=ek%c5%9ficep">ekşicep</a> uygulamasında zaten varmış böyle bir özellik. aklın yolu bir.<br/><br/>edit3: <a class="b" href="/?q=futurama">futurama</a>nın bilgilendirmesiyle<a class="b" href="/?q=tema%2b%2b">tema++</a> eklentisinde de bu özellik var özellik imiş . <br/><br/>edit3.5:<a class="b" href="/?q=biz+siz+onlar+bensiz+daha+mutlular">biz siz onlar bensiz daha mutlular</a> un briefi ile nurtopu gibi bir <a class="b" href="/?q=eksi%2b%2b">eksi++</a> eklentisine de sahip olduk. allah uzun ve hayırlı ömürler versin.<br/><br/>editoğluedit: tema++ eklentisi, eksi++ nın devamı , bir üst versiyonu imiş.
 - entry_name: |
     türkiye'de kuruyemişin çok pahalı olması
   entry_id:  68054176
   entry_writer: haciz mahallinde tango
-  entry_fav_count: 219
+  entry_fav_count: 223
   entry_content: |
     bir kuruyemiş cennetinde; fındığın, antepfıstığının, incirin dünya üzerinde en çok üretildiğinin iddia edildiği ülkede, halkın bu ürünleri yiyememesine sebep olan pahalılık.<br/><br/>antep fıstığının kilosu 65-70 lira.<br/>fındığın kilosu 70-75 lira.<br/>bademin kilosu 60-70 lira.<br/>leblebinin kilosu bile 25 lira be!<br/><br/>kuruyemiş bu, adı üstünde. 35 liraya yarım kilo antep fıstığı alırsın, 4 kişilik bir aile bir gecede yiyebilir bunu televizyon seyrederken. <br/><br/>35 lira, asgari ücretle geçinen bir aile için beş akşam yemeği demek.<br/><br/>zenginlik kriteri muzdur diyoruz ya 90'lar çocukları olarak hep... yok abi, zenginlik kriteri kuruyemiştir bu ülkede.<br/>evinde her daim, istediğin zaman yiyebileceğin iki kase kuruyemişin varsa, zenginsin.<br/><br/>üret, üret, dışarı sat.<br/>çiftçiden beş kuruşa al, piyasaya elli liraya sür...<br/><br/>politikanıza sıçam.<br/><br/>edit: fiyatlar yuksek diyenler olmus. bizim asagida uc ayri kuruyemisci var ve fiyatlar asagi yukari bunlar... ayrica tugba kuruyemis'in (ki turkiye'nin en buyuk perakendecilerinden biridir) internet sitesine girerseniz, verileri dogrularsiniz.
 - entry_name: |
     türkiye'de solcuların sevilmemesinin 7 nedeni
   entry_id:  68051621
   entry_writer: rke
-  entry_fav_count: 212
+  entry_fav_count: 217
   entry_content: |
     solcu olmamaları,<br/><br/>değilse gerçek sol harika bir şeydir. türkiye solu faşist, ırkçı, kapital baronların kölesidir.<br/><br/>durumlarından da memnunlar.<br/><br/>hısım, akraba arasında solcuyum diyemiyorum niye? <br/><br/>çünkü solu yanlış tanıtan embesiller var.<br/><br/>halkı makarnacı diye assagilayan solcu mu olur?<br/><br/>yada <br/><br/>fakir halkın oylarını küçümseyen devrimci mi olur.<br/><br/>başörtülu kızların okumasına engel olunması gerektiğini savunan bir sol ideoloji olabilir mi? <br/><br/>türkiye solunda olur.<br/><br/>yada köylüleri aşağılayan bir solcu olabilir mi?<br/><br/>türk solu bunu da yapar.<br/><br/>avrupa'nın faşist partileri ile türk solunun aynı jargonu kullanmasına ne demeli?<br/><br/>yazık...<br/><br/>ne mal olduğunuzun farkında bile değilsiniz.
 - entry_name: |
     11 mayıs 2017 hepsiburada.com rezaleti
   entry_id:  68046895
   entry_writer: hayaletin free shopci arkadasi
-  entry_fav_count: 167
+  entry_fav_count: 168
   entry_content: |
     benzer bir sorun yaşamamak için internetten aldığım bir ürünün kutusunu açarken noter çağırıyorum. kutuyu ilk açışımda içi boşsa elimde noter onaylı kanıt olur böylece.
-- entry_name: |
-    paramızın üzerinde erdoğan resminin olmaması
-  entry_id:  68051053
-  entry_writer: ondur
-  entry_fav_count: 150
-  entry_content: |
-    üç kuruş kazanıyoruz, onun da bereketini kaçıracaksınız.
 - entry_name: |
     3. köprü 3.havalimanı göktürk1 uzun menzilli füze
   entry_id:  68055354
   entry_writer: worldish
-  entry_fav_count: 146
+  entry_fav_count: 161
   entry_content: |
     ayakkabı kutuları, gemicikler, kaçak-saray, uzun menzilli y..ak<br/><br/>bilmem anlatabildim mi?
+- entry_name: |
+    paramızın üzerinde erdoğan resminin olmaması
+  entry_id:  68051053
+  entry_writer: ondur
+  entry_fav_count: 154
+  entry_content: |
+    üç kuruş kazanıyoruz, onun da bereketini kaçıracaksınız.
 - entry_name: |
     onurum bu madalyayı kabul etmeme müsade etmiyor
   entry_id:  68052341
   entry_writer: netcanavari
-  entry_fav_count: 128
+  entry_fav_count: 130
   entry_content: |
     abd'li komutanın türk subayına verdiği madalya töreninde türk subayının verdiği cevap .<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/turk-subaydan-abd-li-komutana-gundem-2448662/" title="http://www.milliyet.com.tr/turk-subaydan-abd-li-komutana-gundem-2448662/">işte haber linki</a><br/><br/>işte haberin içeriği: <br/><br/>"yer: incirlik üssü<br/><br/>deaş’la mücadele koalisyon karargahı<br/><br/>10 mayıs 2017<br/><br/>akşam vakitleri, 19.00 gibi...<br/><br/>sizlere, incirlik’te bir olaya şahit olan bazı arkadaşların anlattığını aktarmak istiyorum.<br/><br/>bu olay, 10 mayıs 2017’de yani dün, incirlik’te deaş’la mücadele koalisyon karargahında yaşandı.<br/><br/>koalisyon karargahında bir veda ve madalya töreni yapılıyor. bu törende gösterdiği üstün başarılardan dolayı “bir türk subayına”, abd komutanlığı tarafından madalya ve beratı takdim ediliyor. bu madalyayı “doğal kararlılık harekatı komutanlığı” adına takacak olan abd’li albay kevin leahy...<br/><br/>madalya; sahasında verilen en üst ikinci büyük madalya. yani kıymeti çok büyük.<br/><br/>abd’li albay kevin leahy tarafından türk subayına madalya takılıyor, beratı taktim ediliyor.<br/><br/>bundan sonra kendisine madalya verilen türk subayı usul gereği bir konuşma yapıyor.<br/><br/>önce kısa bir değerlendirmede bulunuyor.<br/><br/>“türkiye olarak güzel işler başardığımızı düşünüyorum. bunların en önemlisi de el-bab operasyonu sırasında hiç sivil kayıp ve dost ateşi ile vurulma olayının olmamasıdır. oysa haritaya baktığınızda suriye ve ırak’ta bu tür zayiatlar yaşanmaktadır. bu da ‘bizim’ ne kadar başarılı olduğumuzu gösterir.”<br/><br/>sonra türk subayı şu şekilde sözlerini tamamlıyor:<br/><br/>“diğer bir konu...<br/><br/>sizleri yaralamak ve üzmek istemem.<br/><br/>fakat bu madalyayı kabul etmem mümkün değildir.<br/><br/>çünkü bu madalyayı verenler benim düşmanım olan ypg ile işbirliği içindedir. “onurum” bu madalyayı kabul etmeme müsaade etmemektedir.”<br/><br/>bu cümleleri kuran türk subayı, hemen sonrasında kendisine tevdi edilen madalya ve beratı geri verir.<br/><br/>buz gibi olur, her yer.<br/><br/>kimseden tek bir kelime dahi çıkmaz.<br/><br/>ve türk subayı öylece töreni terk eder.<br/><br/>çıkar gider.<br/><br/>*<br/><br/>işte yaşanan kısaca budur."
+- entry_name: |
+    arda turan'ın kısmetse olur yarışmacısına yürümesi
+  entry_id:  68058922
+  entry_writer: flymetothemoon
+  entry_fav_count: 128
+  entry_content: |
+    you can take a kid out of bayrampaşa. <br/>but you cannot take bayrampaşa out of the kid.
 - entry_name: |
     işe alınmaması gereken insanlar
   entry_id:  68050781
   entry_writer: kkynl
-  entry_fav_count: 116
+  entry_fav_count: 120
   entry_content: |
     kusursuz insan yoktur.<br/><br/>işe başvuran bir aday size kusursuz gibi geldiyse ya yeterli değerlendirmemişsinizdir ya da kusursuz bir sosyopatla karşı karşıyasınız demektir. görmek istediğiniz şeyleri kendine elbise yapıp giymiş, duymak istediğiniz şeyleri de kulağınıza üflemektedir. geçmiş olsun.<br/><br/>ayrıca insanların makyajına, mescidine, çok konuşmasına falan bakarak bir işi ne kadar iyi yapacakları konusunda karar vermekte bir sakınca görmüyorsanız en yakın tuvalet kabinine gidip kendinizi becerin.<br/><br/>zira sizin bu dünyada bundan başka layık olduğunuz bir yer ya da iş yoktur. kolay gelsin.<br/><br/>ek: bu kısmı kişisel tecrübedir. <br/><br/>müdürlük yaptığım dönemde kamuda görüp görebileceğiniz en süslü personellerle çalıştım. iki eline de hürrem yüzüğü takmış gevezebaşının biri benim elemanımdı. fakat o kadar zeki ve yetenekli bir kadındı ki herhangi bir işi ona verirken asla tereddütüm olmadı.<br/><br/>her akşam en az bir büyük rakı içen, burnu kıpkırmızı adamlar gördüm. işini o kadar disiplinli yapıyordu ki ben onun amiri olarak kendime çeki düzen verme gereği duydum.<br/><br/>asık suratlı personelim de oldu. hesap cetvellerinin altından girip üstünden çıkıyordu kadın. kendi biriminin en iyisiydi.<br/><br/>dindar eleman da vardı. işçiydi. nerede bir arıza çıksa onu çağırıyorlardı. uzman adamlara mahsus bir karizması vardı resmen.<br/><br/>bir amir, müdür, yönetici... altındaki insanları nasıl çalıştıracağını iyi bilmelidir. insanları çalıştıramıyorsanız, onlardan faydalanamıyorsanız kusur %95 sizdedir. başka yerde aramayın. crazyboy888@hotmail.com tayfasının belki üstü çizilebilir ama ummadığınız taş genelde baş yarar. bugün işe almadığınız adamı 5-6 sene sonra patronunuz başınıza amir olarak getirebilir. sonra gelir bu entrye bir daha bakarsınız.
 - entry_name: |
     ateistlerin sevilmeme nedenleri
   entry_id:  68052756
   entry_writer: gelecomp
-  entry_fav_count: 112
+  entry_fav_count: 116
   entry_content: |
     şu "sadece müslümanlara saldırmalarıdır. hristiyanım desem sorun yok, museviyim desem sorun yok" böyle boş boş konuşan adamlara bayılıyorum ya.<br/><br/>amına koyim ülkede zaten dinler %30, %30, %30 dağılmış durumda zaten. <br/><br/>bir hıristiyanla konuşunca adam "cizıs" diyince tabi kardeş gel beraber vaftiz olalım diyoruz, hemen.<br/><br/>ülkede elini sallasan musevi'ye değiyor zaten her yer musevi ya amk. <br/><br/>ama ateistler ülkenin %00000000000,1'ini temsil eden müslümanlarla uğraşıyor, evet.<br/><br/>malsınız amk valla billa malsınız. <br/><br/>yani 15 saniye düşünsen kendi dediğine cevap bulursun ama işte düşünmüyorsunuz ki ah amk ah, 15 saniye biraz glikoz yaktırsan çözücen de işte...
 - entry_name: |
     34 ba 2051
   entry_id:  68055159
   entry_writer: caffee latte
-  entry_fav_count: 98
+  entry_fav_count: 103
   entry_content: |
     kaldırılması gereken video ve başlık. çok komik geldiyse plakayı gizleyin, yüzleri mozaikleyin. yapmayın ama çok istiyorsanız bari gizleyin. <br/><br/>hele bu kadar çok töre cinayetleri, kadın cinayetleri olan bir ülkede belki de 2 kişinin infazına belge sundunuz. <br/><br/>eğleneceksiniz diye bu kadar özel hayata girmeyin. başlık 2 gün sol framede duracak ama o iki kişinin ve ailesinin hayat boyu akıllarında kalacak. <br/><br/>"açık alanda yapmasaydı ama" = "o da mini etek giymeseydi ama"
 - entry_name: |
     11 mayıs 2017 torrent paylaşmaya ceza
   entry_id:  68048427
   entry_writer: ebedi edebiyat
-  entry_fav_count: 96
+  entry_fav_count: 97
   entry_content: |
     torrent'in nasıl işlediği bilinmeden uygulanmaya çalışılacak olan saçma taslak. torrent'te her indirici aynı zamanda yayıcıdır. kullanan herkesin internetinin yavaşlatılması gerekir öyleyse.
-- entry_name: |
-    arda turan'ın kısmetse olur yarışmacısına yürümesi
-  entry_id:  68058922
-  entry_writer: flymetothemoon
-  entry_fav_count: 88
-  entry_content: |
-    you can take a kid out of bayrampaşa. <br/>but you cannot take bayrampaşa out of the kid.
-- entry_name: |
-    cep telefonuna sevgili ismini kaydetme biçimleri
-  entry_id:  68044401
-  entry_writer: tenbel teneke
-  entry_fav_count: 73
-  entry_content: |
-    funda tinder.<br/>öyle kalmıştı bir süre, sonradan değiştirmiştim, sert uyarı üzerine.
 - entry_name: |
     abd vatandaşlığından çıkan eski askerin sözleri
   entry_id:  68057093
   entry_writer: mordorun dereleri aksa rohana aksa
-  entry_fav_count: 72
+  entry_fav_count: 75
   entry_content: |
     arkadaş yürek yemiş de çıkmış ekrana .<br/><br/>ismi : kenneth o'keefe<br/>amerikan donanmasından emekli deniz piyadesi, körfez savaşı gazisi. orada dönen dolapların farkına vardığında amerikan vatandaşlığını reddedip pasaportunu yırtarak işe başlamış.<br/>mavi marmara gemisinde de bulunmuş ve 2008 yılı ağustos ayında iki gazze’ye özgürlük gemisinden birine kaptanlık yaptığından dolayı filistin vatandaşı.<br/><br/>---------------------------------------------------<br/><br/>konuşmadan bazı alıntılar : <br/><br/>- komik gelebilir ama daeş (isis) in açılımı israil gizli istihbarat servisi (israel secret intelligence service) olabilir.<br/><br/>-obama ,bush ya da diğerleri olsun batılı bir liderin ağzından çıkacak sözlere neden inansınlar bilemiyorum. tüm bu insanlar gerçek yalancılardan başka bir şey değil.söyledikleri herşey gerçeğin tam tersi<br/><br/>-daeş'in üzerinde abd nin parmak izlerinin olmadığını söylemek saflıktan da ötedir. bana şu sorunun yanıtını verin :<br/>neden daeş olsun el nusra olsun ya da el kaide ,bir kez olsun israile saldırmadı.<br/>bırakın saldırmayı daeş militanları golan tepelerinde ve hatta israilde tıbbi tedavi görüyorlar.<br/><br/>-bu küresel hakimiyet hedefine ulaşmak için yeni bir pearl harbour a ihtiyaç var. <br/><br/>-azıcık aklı olan biri beşar esad'ı devre dışı bıraktığımızda ortaya çıkan güç boşluğunun en güçlü çıkar odaklarınca doldurulacağını bilir.kimdir bu odaklar şu anda ? bizim dostlarımız bizim müttefiklerimiz,yarattığımız küçük frankenstein'lar. buna ister el kaide deyin ister el nusra. isterseniz de son yarattığımız canavar daeş .bu boşluğu bunlar dolduracaktır. <br/><br/>-dünyada çoğu müslümanın idrak ettiği haliyle islam,birini zorla müslüman yapmayı veya onu öldürmeyi mutlak anlamda yüzde yüz yasaklıyor.hiçbir müslüman ,sadece din değiştirmiyorlar diye erkekleri kadınları ve çocukları infaz etmeyi meşru görmez.<br/>bu insanlar müslüman olamaz. bunlar birleşik devletler canavarı ve onun yardakçıları israil ,ingiltere ve diğerlerinin yarattığı canavarlar. <br/><br/>-bu duruma çözüm olarak : <br/>abd kongresi ve beyaz saraydaki abd anayasası üzerine yemin eden hainler tutuklanmalı<br/><br/>-netanyahu birkaç yıl önce kongreye geldiğinde korkak tavşan yürekli 29 hain tarafından ayakta alkışlandı. evvela bu hainler tutuklanmalı. <br/><br/>-ikincisi israil'in tüm finansmanının kesilmesi .israil kelimenin tam anlamıyla aktif soykırım politikaları izleyen korsan bir devlet,suçlu bir devlettir. bu ülkeyle ilişkiler derhal kesilmeli. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/kulturelpaylasim/videos/1335658713219339/" title="https://www.facebook.com/kulturelpaylasim/videos/1335658713219339/">video adresi</a><br/><br/>-------------------<br/>ek : <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=RAR4tkOvf2c&amp;feature=PlayList&amp;p=1595A299254C9DE1&amp;playnext_from=PL&amp;index=0" title="https://www.youtube.com/watch?v=RAR4tkOvf2c&amp;feature=PlayList&amp;p=1595A299254C9DE1&amp;playnext_from=PL&amp;index=0">mavi marmara olayını bbc ye anlattığı video</a>
+- entry_name: |
+    cep telefonuna sevgili ismini kaydetme biçimleri
+  entry_id:  68044401
+  entry_writer: tenbel teneke
+  entry_fav_count: 74
+  entry_content: |
+    funda tinder.<br/>öyle kalmıştı bir süre, sonradan değiştirmiştim, sert uyarı üzerine.
 - entry_name: |
     türk kızının göt kalkıklığının sebebi
   entry_id:  68045929
@@ -167,9 +167,16 @@ data:
     arda turan
   entry_id:  68043339
   entry_writer: simonetta
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     gelirse 1 sene içinde götü göbeği salacak, çalışmasına ve faydalı olmasına gerek olmadığı için sıçıp sıvayacak, sevmediği adama pas atmayıp her hatasında afra tafra yapacak, haftada iki tv programına çıkıp bayrampaşa edebiyatı yapacak, kötü gidişte her gördüğü kameraya çok acayip galatasaraylı olduğunu ve taraftarın ayıp ettiğini söyleyecektir. selçuk, sabri, yasin, semih gibi şeylerin olduğu mevcut takıma yakışır tabi. düşmeme mücadelesi veririz lan. <br/><br/>gençliğini de biliyoruz bu adamın. 30 yaşında barca görmüş bir arda'nın egosu türkiye'de top falan oynamaz. kulübün futbolcusu değil sahibi olarak görür kendini. inşallah aziz emre gibi bunu da fenere alır. ibresi türkiye muhtemelen.
+- entry_name: |
+    bir kedinin kalitesiz olduğunu gösteren detaylar
+  entry_id:  68042227
+  entry_writer: princess of bathroom
+  entry_fav_count: 51
+  entry_content: |
+    ev halkı yankılanan sesini daha iyi duysun diye tuvalete girip miyavlaması.
 - entry_name: |
     survivor 2017
   entry_id:  68042477
@@ -177,6 +184,13 @@ data:
   entry_fav_count: 46
   entry_content: |
     elif'e teşekkür ediyorum, kendisini neden hiç sevmediğimi bana her seferinde hatırlattığı için.<br/>ada'da berna'yla konuşuyolar, sabriye mevzusu açılıyo, elif diyo ki, ''başlarda bana sarıyodu ama sonra beni çok yüksekte görünce seninle uğraşmaya başladı.''breh breh breh.ulan şu berna'yla bi potaya çıksan teke tek, ışık hızıyla istanbul'a siktirolup gidecekken neyin havası ulan bu.sonra şu anlat bakalımda tırsmak fiilini anlatırken ''ben sana bağırınca ne yaptın sen'' diyo berna'ya.tırsıtmış berna'yı.vay be koca göt, sen neymişsin öyle.
+- entry_name: |
+    franck ribery
+  entry_id:  68051168
+  entry_writer: simonetta
+  entry_fav_count: 40
+  entry_content: |
+    (bkz: <a class="b" href="/?q=platoni%c4%9fin+a%c5%9f%c4%b1r%c4%b1+umut+veren+s%c4%b1radan+davran%c4%b1%c5%9flar%c4%b1">platoniğin aşırı umut veren sıradan davranışları</a>)
 - entry_name: |
     ekşi itiraf
   entry_id:  68040786
@@ -195,7 +209,7 @@ data:
     kansere hala çare bulunamamasının sebebi
   entry_id:  68054904
   entry_writer: son altesse serenissime
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     (bkz: <a class="b" href="/?q=steve+jobs">steve jobs</a>)<br/><br/>bulunsaydı arkadaşlar emin olun bu arkadaş ölmezdi.
 - entry_name: |
@@ -205,6 +219,13 @@ data:
   entry_fav_count: 30
   entry_content: |
     <a class="b" href="/?q=dikey+limit">dikey limit</a> filmini izleyenlerin yapmayacağı şey.<br/><br/>not: ithalat'ın içinde 'al' var. yani dışardan alıyorsun.
+- entry_name: |
+    11 mayıs 2017 erzurum aşkale depremi
+  entry_id:  68057953
+  entry_writer: sana mutluluklar dilerim
+  entry_fav_count: 27
+  entry_content: |
+    olm hepiniz mi giresun'da yaşıyorsunuz lan ?:))<br/>sözlükte ki giresunlular i teker teker ortaya çıkaran deprem..
 - entry_name: |
     mesaj atan ilk kadın suser'a bira ısmarlamak
   entry_id:  68041253
@@ -216,16 +237,9 @@ data:
     komünist kürtlerin kapitalist abd yardımı alması
   entry_id:  68048297
   entry_writer: netcanavari
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     çok komik bir durumdur net. senelerce sen marx engels diye ağla. yok şöyle komünizm iyi yok böyle iyi diye yakın dur. sonra menfaatine işine gelince abd'ye ağla. hemde kapitalizmin babası ve anası olan ülkeye. ne günlere kadiriz valla. ne siyasi ideolojiler kalmış ne de uygulanmaları. o paçavra kırmızı bayraklarına yıldız koyup hewal biz komünistik diye gezerler ama ellerindeki silah ceplerinde ki para abd doları. resmen komedi ya. sen 50 yıl araştır dur, komün hayatı, sanayileşme de. sonra bu ypg piçleri sanayide hem çalışmasın yatsın dursun sonra abd'den yardım alsın sonra bana demokrat havasında sosyalist havası yapsın terörist ypg-pyd-pkk. sizden komünist değil olsa olsa patates olur. onuda kızartıp barbekü sosa koyup yeriz biz. biz derken tsk yer.<br/><br/>not: mustafa kemal herhangi bir ideoloji ile ön planda hiç bir zaman olmamıştı. aksine daha pragmatisti. bana kimse ypg'li salih müslim teröristinin pragmatislikten anladığını söylemesin. ondan olsa olsa yancı bir cahil terörist olur.<br/><br/>not2: sovyet yardımı alınan zamanda sizce komünizm bu kadar açıkça biliniyor muydu ? atatürk bu noktada 1921'de başa geçmiş leninden daha yeni başa geçmiş lenin'den 1921'de desteği almıştır. kısacası az bir zamanda bu desteği almıştı. bu ne demek oluyor, daha abd bile kapitalizme geçmemişken demek oluyor. destur diyoruz yani dünya' daha yeni birinci dünya savaşından çıkmış arkadaş ideoloji savaşı yok ortada daha.
-- entry_name: |
-    11 mayıs 2017 erzurum aşkale depremi
-  entry_id:  68057953
-  entry_writer: sana mutluluklar dilerim
-  entry_fav_count: 24
-  entry_content: |
-    olm hepiniz mi giresun'da yaşıyorsunuz lan ?:))<br/>sözlükte ki giresunlular i teker teker ortaya çıkaran deprem..
 - entry_name: |
     bedelli askerlik
   entry_id:  68041885
@@ -233,13 +247,6 @@ data:
   entry_fav_count: 23
   entry_content: |
     fakir fukara edebiyatınıza, klavye kahramanlığınıza sokayım yav sizin. fakirler ölsün zenginler parasını verip yırtsınmış. <br/>ulan fakir dediğin adam kim. ben sana söyleyeyim, benim. aylık gelirim asgari ücretin 400-500 tl fazlası, sosyal yaşamıma ayırabildiğim neredeyse hiçbir para yok. fukaranın daniskası benim, ama bugün çıksın, borç harç- kredi bulur 25 bin de veririm. çünkü askerlik yapmak is-te-mi-yo-rum. anladın mı beynini siktiğim?<br/>sanki fukaranın halini biliyormuş gibi yarak kürek konuşup durmayın. <br/><br/>gelmesi yakındır.
-- entry_name: |
-    dövme yaptırılası sözler
-  entry_id:  68045444
-  entry_writer: coor bagpipes
-  entry_fav_count: 21
-  entry_content: |
-    "yok kardeşim, bozuk para yok"
 - entry_name: |
     5 yaşındaki çocuğun istismarcısına beraat kararı
   entry_id:  68046485
@@ -251,14 +258,14 @@ data:
     eski sevgiliye söylemek istenen şeyler
   entry_id:  68042836
   entry_writer: chronic man
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     <a class="b" href="/?q=k%c4%b1ra%c3%a7">kıraç</a>'ın beddua şarkısı gelsin:<br/><br/>"adın geçmesin dost meclisinde<br/>ibadetin sayılmasın hak secdesinde<br/>canı gönülden ettiğin duaları <br/>duymasın rabbim kandil gecesinde. "<br/><br/>bu mübarek kandil gecesinde de yine boş geçmedim seni. güzel bir <a class="b" href="/?q=beddua">beddua</a> yolladım sana, allah kabul etsin, amin.
 - entry_name: |
     vatanım sensin
   entry_id:  68059775
   entry_writer: cinnah
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kucaklaşcağınıza stavro'yu gömün hemen amk<br/><br/>edit: atını da sucuk yapın.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
@@ -276,40 +283,26 @@ data:
   entry_content: |
     benden önce birisi aynını düşünüp açmış dediğim motto. doğruluğuna inancımı şöyle anlatayım. yıllar önce uzun yol gidiyoruz, arabada ben, birader ve biraderin kız arkadaşı var. yolun ilk yarısını birader kullanıyor: hızlı, dinamik, heyecanlı. ben de ön koltukta onunla beraber her virajda zihnimdeki direksiyonu çevirip önümdeki sanal frene basıyorum, herifçioğlunun iyi şoför olduğunu bilsem de elimde değil gerilmemek. ikinci yarı sıra bende, amacım mümkün olduğunca az frene basmak, ileride hız keseceğim yerleri önceden kestirip boşuna hızlanmamak, fren yerine ayağımı gazdan keserek yavaşlamak. o yüzden de ortalamada biraderden bir tık daha yavaşım, fakat arabanın içindekiler kat kat daha rahat. yolun sonunda yingaanım biradere dönüp casus senden daha iyi araba kullanıyor dediğinde tam bir hollywood anı yaşıyorum. işte adamın söylüyor olm, yıllar yılı aramızda tek rekabet konusu olan mevzuda sana kodum. bu da böyle biline, nesilden nesile aktarıla.
 - entry_name: |
-    8 ocak 2017 sürmene orman yangını
-  entry_id:  68051691
-  entry_writer: ne artizi
-  entry_fav_count: 13
-  entry_content: |
-    akabindeki 5. ayda, bölgede "<a class="b" href="/?q=orman+k%c3%b6%c5%9fkleri">orman köşkleri</a>" türemeye başlamıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.viratrabzon.com/yazar/surmene-camburnu-yalanlar-gercekler-4371.html" title="http://www.viratrabzon.com/yazar/surmene-camburnu-yalanlar-gercekler-4371.html">kaynak</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/HalukPeksenCHP/posts/1548785521812176" title="https://www.facebook.com/HalukPeksenCHP/posts/1548785521812176">kaynak 2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-katar-emiri-cok-sevmisti-iste-camburnunun-son-hali-1843624/" title="http://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-katar-emiri-cok-sevmisti-iste-camburnunun-son-hali-1843624/">kaynak 3</a><br/><br/>(bkz: <a class="b" href="/?q=rte%27nin+katar+emirine+g%c3%b6sterdi%c4%9fi+orman%c4%b1n+yanmas%c4%b1">rte'nin katar emirine gösterdiği ormanın yanması</a>)
-- entry_name: |
     almanca bilen suser'lar
   entry_id:  68054580
   entry_writer: resim degil fotograf
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     (bkz: <a class="b" href="/?q=rammstein">rammstein</a>)
+- entry_name: |
+    8 ocak 2017 sürmene orman yangını
+  entry_id:  68051691
+  entry_writer: ne artizi
+  entry_fav_count: 14
+  entry_content: |
+    akabindeki 5. ayda, bölgede "<a class="b" href="/?q=orman+k%c3%b6%c5%9fkleri">orman köşkleri</a>" türemeye başlamıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.viratrabzon.com/yazar/surmene-camburnu-yalanlar-gercekler-4371.html" title="http://www.viratrabzon.com/yazar/surmene-camburnu-yalanlar-gercekler-4371.html">kaynak</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/HalukPeksenCHP/posts/1548785521812176" title="https://www.facebook.com/HalukPeksenCHP/posts/1548785521812176">kaynak 2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-katar-emiri-cok-sevmisti-iste-camburnunun-son-hali-1843624/" title="http://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-katar-emiri-cok-sevmisti-iste-camburnunun-son-hali-1843624/">kaynak 3</a><br/><br/>(bkz: <a class="b" href="/?q=rte%27nin+katar+emirine+g%c3%b6sterdi%c4%9fi+orman%c4%b1n+yanmas%c4%b1">rte'nin katar emirine gösterdiği ormanın yanması</a>)
 - entry_name: |
     torpil mektubunu yanlış yere fakslayan akp'li
   entry_id:  68044135
   entry_writer: kermitin dedesi hursit
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     hukukun ne kadar üstün olduğunu tüm çıplaklığıyla gözler önüne seren olaydır. yere düşen ekmeğe nimet diye üzerine basmaya korkanlar, mevzu bahis kul hakkı olunca, bu hakkı hunharca çiğnemekten zerre imtina etmiyorlar, ne desek boş.
-- entry_name: |
-    horizontal ile vertical'ı karıştırmak
-  entry_id:  68040909
-  entry_writer: herepsilonbuyuk
-  entry_fav_count: 6
-  entry_content: |
-    sağı solu karıştıran ben bunu yapmadım hiç, çok ilginç. kafiye de yaparmışım. ıyy. şöyle bir öneri de ben verim. horizon(ta)l ve ya(ta)y, ver(tic)al ve (dik)ey cinsinden ses çağrışımı yani işte. tamam tamam vertical limit anladın sen onu.
-- entry_name: |
-    anderson talisca
-  entry_id:  68052938
-  entry_writer: akm7
-  entry_fav_count: 6
-  entry_content: |
-    pfdk tarafından 1 maç ile cezalandırılmıştır.<br/>adam dövene 2 maç verirsen el hareketi yapana 1 maç anca verirsin.<br/>aynı ülkede dil çıkarmanın cezası yanılmıyorsam 3 maçtı 2'e düşürülmüştü
 - entry_name: |
     20 mayıs 2017 beylikdüzü zirvesi
   entry_id:  68055820
@@ -335,7 +328,7 @@ data:
     11 mayıs 2017 lyon afc ajax maçı
   entry_id:  68059801
   entry_writer: jack oneill with two ls
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     spiker oyuncuların yaşını söyledikçe insanı sinirlendiren maç. yok şu 17 yaşında, yok bu 18 yaşında, yok koşuyu yapan 20 yaşında, yok takımın en yaşlısı 25 yaşında...<br/>milyon dolarlar, eurolar harcadığımız eşeklerde ajax takımının oyuncuları kadar pozisyon bilgisi anca var. bir de ajax'ın oyuncuları alt yapıdan çıkma.<br/>gel de delirme...<br/><br/>şu ajax'ı gördükçe <a class="b" href="/?q=serpil+hamdi+t%c3%bcz%c3%bcn">serpil hamdi tüzün</a> de akıllara gelmiyor değil.
 - entry_name: |
@@ -346,10 +339,17 @@ data:
   entry_content: |
     aslinda dusununce butun milliyetler kurgu ve kasik da yok.
 - entry_name: |
-    minik eymen'e yardım ediyoruz kampanyası
-  entry_id:  68054584
-  entry_writer: kor duman
-  entry_fav_count: 0
+    prison break
+  entry_id:  68041576
+  entry_writer: orta saha oynayan iguana
+  entry_fav_count: 1
   entry_content: |
-    son rakam 25.275 tl yuhh diyorum herkesin parası bitti de, olanı da mı yok? biz, üç beş atanlardan olmayalım az para diyip geri duran varsa halt etmiş! yapabildigimi yaptım şahsen.<br/><br/>az çok demeyin, hiç yoktan iyidir. (işsizi,öğrencisine laf yok) <br/><br/>iki kampanya denk geldi biliyorum da milyon insan var şurada dolduramıyoruz.<br/><br/>umutsuzluk yok, ama ayıp bize o ayrı<br/><br/>imla-
+    lezbiyen çekişme de gördük çok şükür.<br/>idareten devam eden dizi. şimdilik!
+- entry_name: |
+    petlas'ın anneler günü reklam filmi
+  entry_id:  68060190
+  entry_writer: konus sen dinliyorum
+  entry_fav_count: 1
+  entry_content: |
+    yıllardır izlediğimiz kasıntı reklamların yavaş yavaş sonuna geldiğimize, türk insanının samimiyetine yer verilmeye başlanılan mükemmel reklamlardan biri.<br/><br/>gerek müzikteki alaturkalık, gerek anne-oğul diyaloglarıyla tam anlamıyla <a class="b" href="/?q=ger%c3%a7ek">gerçek</a> bir reklam yapmış petlas.<br/><br/>-virajları hızla dönerken allah korusun<br/><br/>-vıeeeğğğ (????) <br/><br/>kısımlarıyla yarmıştır.<br/><br/>teşekkür ederiz arkadaşlar anne sözü dinlediğiniz için.
 ---
