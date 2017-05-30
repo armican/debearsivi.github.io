@@ -3,4 +3,3 @@
 
 User-agent: *
 Sitemap: http://debearsivi.github.io/sitemap.xml
-
