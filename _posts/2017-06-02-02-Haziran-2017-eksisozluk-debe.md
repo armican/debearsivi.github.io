@@ -6,35 +6,28 @@ data:
     niye oruçlu değilsin sorusuna alternatif cevaplar
   entry_id:  68536072
   entry_writer: quente
-  entry_fav_count: 173
+  entry_fav_count: 175
   entry_content: |
     uzun yıllardan beri aynı yanıtı veriyorum. <br/><br/>regliyim.<br/><br/>not: erkeğim.
 - entry_name: |
     batman'dan 60 teog birincisi çıkması
   entry_id:  68534977
   entry_writer: nawar
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
     doğuda cemaat parmağı olmayan sınavlarda da kah imece usulü kah tehditle soruların alındığı, cevaplandığı ve dağıtıldığı bilgisine sahip olmayan veya inatla reddecek olan romantiklerin, ve başarı hikayesi olarak göreceği olay. benim çalıştığım şantiyelerdeki işçilerden bunu söyleyenler oldu. ellerine gelen cevaplara rağmen okumak istemeyen, üşenen, zor gelen insanlar vardı bunlar arasında. <br/><br/>millet orada hak yiyiyor, burada sempatizanlık yapılacak, toz kondurulmayacak, romantik yaklaşılacak diye, insanlar havada kapacak haberi. sistem böyle oldu hep.
-- entry_name: |
-    şehit olan tüm aslanlarımızı tebrik ediyoruz
-  entry_id:  68536294
-  entry_writer: sppaman
-  entry_fav_count: 46
-  entry_content: |
-    <a class="b" href="/?q=31+may%c4%b1s+2017+%c5%9f%c4%b1rnak+helikopter+kazas%c4%b1">31 mayıs 2017 şırnak helikopter kazası</a>nda şehit olan askerlerimiz için <a class="b" href="/?q=adnan+oktar">adnan oktar</a> adlı dürzünün söylediği sözdür.<a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/adnan_oktar/status/870014070405029888" title="https://twitter.com/adnan_oktar/status/870014070405029888">.</a><br/><br/>daha vücutları soğumadı be kansız pislik. çoluğu var çocuğu var orada hayatını kaybedenlerin iğrenç herif.
 - entry_name: |
     en karizmatik ad soyad kombinasyonları
   entry_id:  68537351
   entry_writer: burdayim da horluyorum
-  entry_fav_count: 32
+  entry_fav_count: 35
   entry_content: |
     (bkz: <a class="b" href="/?q=selami+akg%c3%bcn">selami akgün</a>)<br/><br/>ve aleyküm selam...
 - entry_name: |
     aykut kocaman
   entry_id:  68535748
   entry_writer: lord of the mezuns
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     efsane. konyaspor efsanesi oldu artık. türkiye kupası da aldılar, müthiş bir başarı, konyaspor'un kendisini bırakmaması ömür boyu sözleşme imzalatması falan lazım. lütfen bırakmasın. fenerbahçe'ye gelmesin bu başarıyı bırakıp. gelme aykut hocam gelme yalvarırım gelme, o berbat 1-0'lık maçları hiç özlemedim gelme. alex'i gönderdin, senden hala nefret ediyorum gelme.
 - entry_name: |
@@ -48,16 +41,16 @@ data:
     31 mayıs 2017 şırnak helikopter kazası
   entry_id:  68535252
   entry_writer: nikkalmamisla
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     1453 kamyonla gösteri yapacağına önce ordunu modernize edeceksin. diğer tüm savurganlıklara bakarak, fakir bir ülke değiliz ki helikopterlerin gerekli erken uyarı sistemlerini takmadan uçuralım. önceki kazalar göz önüne alınarak bu sistemlerin takılması en öncelikli iştir. uyarı sistemleri ile ilgili ihalenin çok uzaması nedeniyle engellenemeyen bu kaza kesinlikle ihmal sonucudur. geç kalınmış ve 13 askerimizin canına mal olmuştur. görevini savsaklayan sorumlular bulunup cezalandırılmalıdır. <br/><br/>not: laf olsun diye söylüyorum, ne cezası. yarın unutulacak nasılsa.
 - entry_name: |
-    mustafa ceceli
-  entry_id:  68535884
-  entry_writer: chempark
-  entry_fav_count: 16
+    instagram'da takipçi sayısı arttırma yolları
+  entry_id:  68537056
+  entry_writer: ichhabkeinelust
+  entry_fav_count: 13
   entry_content: |
-    muhafazakar camiadan bildiriyorum; özellikle gızlar lafım size, allah allah diye ortada dolanan, sürekli kendini "muhafazakar" olarak tanımlayan, varsa sosyal medyasında camili, cemaatli, kur'anlı paylaşım yapan ne kadar adam varsa bu adamlardan uzak durun. normal bi müslüman inancını bağıra bağıra yaşamaz, bu modeller yeni çıktı. adam hususi cami avlusuna gidip fotoğraf çekiliyor, altına özlü sözlerle (!) atıyor ig'sine. cuma mı oldu çak bi cuma mesajı, arada gazze paylaşımları, tabiki reisin askeriyiz imaları vs. yanında "muhafazakar" lığını kanıtlaması gereken bir topluluk varsa misal kadının elini bile sıkmaz bu adamlar ama aynı kadının türlü hilelerle bulduğu telefonuna aynı günün akşamı "aklımdan çıkmıyorsun" diye mesaj atar, hayvan oğlu hayvan <sup class="ab"><a title="(bkz: based on a true story)" href="/?q=based+on+a+true+story" data-query="based on a true story">*</a></sup> böyle adamlar özel hayatlarında dişi sineğe yamulmaya kalkan, iş hayatında her türlü ahlaksızlığı el altından yapan adamlar. cecelistler gibiler sağolsun bu tiplere bitmeyen birer özgüven kaynağı oluşturuyorlar. ceceli'yi mesela gerçek sanıyor, gerçekten temiz yüzlü beyaz atlı prens hayalleri kuruyor falan. hiç düşünmüyor ulan bi şarkıcı neden "din din din" diye sürekli ortada dolaşır, ya da herhangi bir müslüman neden sürekli müslümanlığını kamusal alanda onaylatmak ihtiyacı hisseder. e var işte bunda bi bokluk anla be benim ceclislt kardeşim. sonra orada burada ağlarsın çünkü aptalsın. <br/><br/>tanım: iğrenç sesli bir şarkıcıdır.
+    sözlüğe bu şekilde başlık açmak bu yollardan birisi değildir. özellikle saçma sapan bir yazım diliyle bunu yapmaya çalışmak hiç değildir.<br/><br/>edit: dayanamayarak baktım profile. tahmin edileceği üzere kendisi bir kedi sever. yakında da vegan olur.
 - entry_name: |
     cahil kızların ortak özelliği
   entry_id:  68535175
@@ -87,13 +80,6 @@ data:
   entry_content: |
     konuşmasında "müslümanın ilk vazifesi terörist olmaktır" ifadesi geçen kısım şöyledir:<br/><br/>"bir ümmet bir ay boyunca oruç tutuyor. yani biz içtiklerimiz, yediklerimiz sebebiyle canlı olmadığımızı, cinsi münasebet yoluyla üremediğimizi, sadece bizi allah'ın yarattığını ve allah'ın bize can verdiğini ve allah'ın verdiği canı allah'ın alabileceğini kafalarına çakmak için kafirlerin, bir ümmet olarak oruç tutuyoruz. dediğim gibi öyle bir dini fantezi değil bu. bir savaş, bütün insanlar, müslüman olmayan herkes bu insanlardan korksun diye. yani müslüman teröristtir. müslüman'ın ilk vazifesi terörist olmaktır. kafirler müslümanlardan korkacaktır. korkmadığı zaman müslüman, müslüman değildir."<br/><br/>ismet özel'in hicri takvimi ve arap alfabesini geri istemesi, türk-müslüman tanımı ve kendinden başka hemen hiçbir kimseyi ne türk ne müslüman kabul etmesi gibi sayısız eleştirilmesi gereken yönü vardır fakat kendisi meczup değil narsisttir. ismet özeli biraz okuyan, dinleyen insan bunu bilir. kendisi fransız dili ve edebiyatı bölümü mezunudur ve terörist kelimesini korkutucu yerine kullanmasının altında da "ben şairim; dili en iyi ben bilir en kıvrak ben kullanırım, sizi gibi avami düşünmem" gibi bir düşünce vardır. <br/><br/>kendisini eleştirecek bunca nokta varken "türkçeyi bile doğru kullanamıyor" demek dangalaklığın alasıdır. meramınızı anlatmaya çalışırken lafınızı bi ölçüp tartın amk.
 - entry_name: |
-    instagram'da takipçi sayısı arttırma yolları
-  entry_id:  68537056
-  entry_writer: ichhabkeinelust
-  entry_fav_count: 7
-  entry_content: |
-    sözlüğe bu şekilde başlık açmak bu yollardan birisi değildir. özellikle saçma sapan bir yazım diliyle bunu yapmaya çalışmak hiç değildir.<br/><br/>edit: dayanamayarak baktım profile. tahmin edileceği üzere kendisi bir kedi sever. yakında da vegan olur.
-- entry_name: |
     gece gölgenin rahatına bak
   entry_id:  68535791
   entry_writer: ters1adam
@@ -111,7 +97,7 @@ data:
     üniversite tercihi yapacaklara tavsiyeler
   entry_id:  68536319
   entry_writer: shultays
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     bilgisayar mühendisliği/yazılım hakkında konuşacağım. <br/><br/>hiç ilginiz yok ise çok fazla tavsiye edeceğim bir bölüm değil. okuduğum 4 yıl ve asistanlık yaptığım kısa sürede bölüme ilgisi/yeteniği olmayan insanların zorluklar çektiğine çok tanık oldum. <br/><br/>iş arama aşamasında okuduğunuz okul bir yere kadar önemli, yaptığınız projelerin stajların da en az okul kadar etkisi var. işinizde iyi iseniz ve bunu gösterebiliyorsanız okulun etkisi azalıyor. kendinizi geliştirmeniz doğrudan okula da bağlı olduğu için o yönden de etkisi var tabi. seçeceğiniz okulun derslerini hocalarını inceleyin, uygulamalı lab saatlerinin yüksek olduğundan emin olun, lablarının iyi olduğunu görün. staj yapın, mümkünse yazın uzun süreli yapın. <br/><br/>türkiye'den siktir olup gitme gibi bir isteğiniz varsa yazılım en kolay meslek. dil sorununuz yok, işinizde iyi ve bunu gösterebiliyorsanız yurt dışında iş bulma şansınız yüksek. böyle bir planınız varsa eğitim dili ingilizce olan bir okul seçin ve erasmus yapmaya çalışın. dil sorunum yok ve şu an çalıştığım oyun sektöründe 3 yıldır çalışıyorum. yurt dışında iş bulma konusunda çok fazla zorlanmadım, benzer durumda olan arkadaşlarım da var. yeni mezun olarak yurt dışı nasıl olur bilmiyorum, junior iş ilanı sayısı da bir hayli çok ama ne derece bir dönüş olur bilmiyorum.
 - entry_name: |
@@ -143,19 +129,26 @@ data:
   entry_content: |
     bombok gibi sezon gecirdigimiz icin erken sezon acmamiz gerekir. tudor kondisyonu yukler curuklerin siker belasini umarim.<br/><br/>riekerink ve hamza ile adeta tatil köyü gibi gecen kamplar ve idmanlar yerine biraz burunlarinin surtuldugu kamp donemi daha evladir.<br/><br/>kamplarin asiri rahat gectigi yoneticiler, gazeteciler ve oyuncular tarafindan defalarca aciklanmistir. yorum degil bilgidir.
 - entry_name: |
-    akit'in yemeğinizi elle yiyin haberi
-  entry_id:  68536520
-  entry_writer: denekadam
-  entry_fav_count: 3
-  entry_content: |
-    vahhabiliğin türkiye'deki kalesi oldukları için yadırganmamalıdır. aynı onlar gibi hedef, arap geleneğinin din olarak topluma benimsetilmesi çabasıdır. bunu ben değil, afganistan'a cihad'a giden yakup aslan, afganların durumuna bakaraz yazıyor.<br/><br/>12 eylül darbesi sonrası iran üzerinden afganistan'a geçen yakup aslan kendi deyişiyle "memleketimize komünist belasını musallat edenlerin efendileriyle mücadele etmek" için cihada koşan birisidir. <br/><br/>düşünün henüz 80'lerin başındaki türkiye'nin nasıl gelişmiş bir ülke olduğunu yakup aslan'ın yazılar boyunca süren şikayetlerinde görürüz. <br/><br/>öğle vakti, köylülerin getirmiş olduğu koyunlar, kazanlarda pişerken ben de ellerimizle yağların içerisine girmemek için, çekinerek ağaç kabuklarından 3 adet kaşık yapmış ve yıkadıktan sonra, ceplerime koymuştum. birini ben almış, diğer ikisini de yağdan oldukça rahatsız olan ve çoğu zaman bulaşmamak için kuru ekmeğe talim eden cihat (ilyas dönmez) ve fatih’e vermiştim. özellikle yemek yerken kimsenin görmemesine dikkat etmelerini de tembih etmiştim. ne var ki yemek yerken bütün çabamıza rağmen yakalanmıştık. uzak sofralarda oturanlar bile kalkıp yanımıza gelmişler ve hayatlarında ilk defa kaşıkla yemek yiyen birilerini görmüşcesine bizimle alay etmişlerdi. biz, bitlenmemek için yağdan kaçınırken, onlar dalga geçiyorlardı bu hassasiyetimizle. yemekten sonra, küçük bir leğen içerisinde ellere ibriklerle dökülen birkaç damla suyla eller ıslatılıyor ve sirkelendikten sonra, yağlı kısımlar ovuşturularak vücuda yaydırılıyordu. biz bu kültürü, izlemiş olduğumuz siyah beyaz filmlerde, genellikle araplara ait bir gelenek olarak ve abartılarak anlatılışlarından görmüştük ancak. aynı durumun, burada abartılı bir şekilde hayata yansıdığını görünce, bu bölgelere sadece <a class="b" href="/?q=islam%e2%80%99%c4%b1n+%c5%9fekil+olarak+geldi%c4%9fini">islam’ın şekil olarak geldiğini</a> ve <a class="b" href="/?q=arap+gelene%c4%9finin+din+olarak+topluma+h%c3%a2kim+oldu%c4%9fu">arap geleneğinin din olarak topluma hâkim olduğu</a>nu açıkça görmüştük. kaşıkla yemek yeme hevesimiz, macera ve arzumuz son bulmuştu artık. kaçınılmaz olarak onları taklit etmemiz gerektiğini, topluca alay konusu olduktan sonra daha iyi anlamış ve çaresiz, toplu davranış kalıplarına geri dönmek zorunda kalmıştık. kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (3) - yakup aslan <br/><br/>diğer örnekler<br/><br/><a class="b" href="/?q=m%c3%bcsl%c3%bcman%e2%80%99%c4%b1n+t%c3%bck%c3%bcr%c3%bc%c4%9f%c3%bc+%c5%9fifad%c4%b1r">müslüman’ın tükürüğü şifadır</a><br/><br/>“movlana seyyaf bana çareler aramaya çalışıyordu. ilk önce birinin tavsiyesi üzerine çamur yapıp yüzüme sürdü, sonra başka biri çamurun gözenekleri tıkadığını söyleyince yüzümü yıkayıp kuruladı. parmaklarına tükürerek moraran kısımlara sürüyordu. öfkeden patlamak üzereydim. bununla yetinmeyip, başımı iki yandan iki eliyle kavrayarak tükürüklü elini sürmesini engellediğim gözümün en çok ağrıyan kısmına tükürüvermişti.<br/><br/>işte o dakikadan sonra kıyamet koptu. onu var gücümle ittim ve türkçe ‘allah belanı vermesin!” dedim. cümleyi anlamasa bile öfkelendiğimi anlamıştı ve “niye rahatsız oluyorsun, müslümanın tükürüğü müslümana şifadır. <a class="b" href="/?q=peygamber%e2%80%99in+b%c3%b6yle+yapt%c4%b1%c4%9f%c4%b1n%c4%b1+bilmiyor+musun%3f">peygamber’in böyle yaptığını bilmiyor musun?</a>” şeklinde konuşarak, yaptığını makul ve normal bir şeymiş gibi göstermeye çalışmıştı. dayanamadım, az farsçam’la “şıma ki, peyğamber nistiy!” (sen peygamber değilsin ki!) dedim.” kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (1) - yakup aslan<br/><br/><a class="b" href="/?q=su+problemi">su problemi</a><br/><br/>ayrıca taharet esnasında istinca yapmaları; cihat ile fatih’in “tombala çekiyorlar” dediği taşla kurulanma işlemi ve ondan sonra da ayrıntılı bir şekilde dikkat ettikleri abdest ritüeli geliyordu ardından. aldığımız abdeste dikkatlice baktıklarını bildiğimizden, bütün sembol, şekil ve törenleri harfiyen yerine getirmeye çalışıyorduk. buna rağmen nereden görmüşlerse, fatih’in taş kullanmadan, direkt suyla temizlenmesini sorun ettiler. abdulgaffar kanalıyla uyarılarını iletip, <a class="b" href="/?q=b%c3%b6yle+abdest+alanlar%c4%b1n+ancak+raf%c4%b1ziler+olabilece%c4%9fi">böyle abdest alanların ancak rafıziler olabileceği</a>ni söylediler. fatih, homurdanmaya başladıysa da, sakinleştirerek “bunların gelenekleri böyle, bunlar ne öğrenmişlerse onu uyguluyorlar ve ondan başka bir doğrunun olabileceğini kesinlikle kabul etmezler. bize düşen onların bu inançlarını sorgulamamak, buraya geliş gayemiz bu değil. bir de adamlar buna allah’ın emri gibi inanıyorlar” dedik. kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (3) - yakup aslan <br/><br/><a class="b" href="/?q=temizlik+meselesi">temizlik meselesi</a> <br/><br/>ertesi gün büyük bir yağ tenekesi bulmuş ve dere kenarına inmiştik, ancak su kırmızı akıyordu ve bundan dolayı da kasaba bu ismi almıştı.- soğrut (kırmızı dere).- abdulgaffar, bütün kuyu ve şehir suyu sisteminin ruslar tarafından imha edildiğini ve savaşın ilk gününden beri halkın sadece bu suyu içtiğini hatırlatınca, akşam içtiğimiz çayın neden farklı bir tat verdiğini daha iyi anlamıştık. çaresiz, yaptığımız ocakta suyu kaynatmaya başladık. gözden uzak ve sessiz bir alana gitmiş olmamıza rağmen, bir şekilde bizim farkımıza varmış ve yüksekçe bir yerden, bizi izlerken kahkahalarla alay konusu yapmışlardı. getirdiğimiz sabunlarla elbiselerimizi kaynar suda yıkayıp kızgın taşların üzerine sermiştik. kısa bir zamanda elbiselerimiz kurumuştu. her birimiz sıcak suyla, sabunla yıkandıktan sonra omzumuzdan eksik etmediğimiz petularımızı havlu olarak kullanarak, kurulanmış, bu şekilde dahi olsa banyo yapmanın vücudumuza verdiği dirilik ve direnci hissetmenin hazzını yaşamıştık. bundan olsa gerek, sinirlerimiz gevşemiş, yaşadığımız koşulların üzerimizde oluşturduğu baskı daha hafiflemiş gibiydi sanki. ancak yıkandığımız kırmızı topraklı su, bizi de kendi rengine boyamıştı ve üzerimizde bir toz tabakasının kaldığını görünce gülüşmeye başlamış ve birbirimize takılmaya bile başlamıştık. bizim için önemli olan, kirden korunmak ve gelecek tehlikelere karşı tedbir almaktı. avuçlarımızla yüzümüzdeki tozları sıyırdıktan sonra, petularımızı da yıkayıp geri dönmüştük. yaptığımız, onlarca garipsenmişti, alışık olmadıkları bir haldi ve hatta uzun süre kaldıkları mescid duvarında bitlerin hareket halinde olmasına bile önemsemediklerini rahat bir şekilde anlatabiliyorlardı. kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (3) - yakup aslan <br/><br/><a class="b" href="/?q=esrar+%c3%a7eken+m%c3%bccahidler">esrar çeken mücahidler</a><br/><br/>önemli bir sorunumuz da sigara bulamamaktı. bizimkiler sigara bulamadıklarından ve bundan önemlisi mücahitler tarafından günaha yakın sigarayla görünmemek için “nesvar”a başlamışlardı. bir ara, sigara bulamadıkları için kullandıkları “nesvar”ın ishali artırdığını söyleyerek, onların işkillenmelerine yol açmıştım. mehmet kaya, mustafa, abdullah, hüseyin ve diğer arkadaşlar, nesvardan çok afganlıların kullandıktan sonra, bir yerlere tükürmeleriyle ilgileniyorlardı. özellikle de evlerde, mescitlerde bunu yapmalarından dolayı, sergi altları yemyeşildi. yine belki bir paket sigara buluruz diye gittiğimiz balabağ çarşısında, yine ‘nesvar’dan başka hiçbir şey bulamamıştık. üç küçük kardeşin çalıştırdığı açık hava kahvehanesi her bahaneyle uğradığımız yerlerin başındaydı. onların erdemli duruşları, ikide bir “türkiye’de cihat başladığı zaman biz de oraya geleceğiz” şeklindeki irfani sözleri karşısında çoğu zaman hayrete düşüyorduk.yine çay içmeye gittiğimiz bir günde, kısa boylu cılız birini yanımıza çağırdılar “bu bölgemizin en büyük mücahidi” diye tanıttıkları adam yanımıza gelip oturuyor ve bizimle sohbet ediyordu. sohbet esnasında, cebinden bir kese tütün çıkardı ve sigara kâğıdının üzerine biraz tütün koyduktan sonra başka bir cebinden haki renginde ve biraz da tezeğe benzeyen küçük parçaları tütünün içine koymaya başlayınca şaşırdık. sigarasını sardıktan sonra bize de uzattı ve ardından cebinden o parçacıkları çıkarıp sigarayla birlikte sarabileceğimizi söyledi. arkadaşlarımın görmemiş olması ihtimali üzerine, biraz da onları uyandırmak için ne olduğunu soruyorum. soğukkanlı bir şekilde esrar olduğunu söylüyor. “mücahit, esrar ve biz!”, şeklinde hayretlerimizi dillendiriyoruz. haram olduğunu, bir mücahidin bunu içmemesi gerektiğini söylüyoruz. çocuklar bize izahatı yetiştiriyorlar. bu mücahit ruslarla savaş esnasında pusuya düşüyor ve bunu kurşun yağmuruna tutuyorlar, düştükten sonra da kurşun yağdırıyorlar, ölmüyor. uzun süreli ilkel denilebilecek hastanelerdeki tedaviden sonra kurtuluyor. ancak bedeninde kalan parçalar devamlı bir şekilde baş ağrısı yapıyor ve birisinin tavsiyesi üzerine esrara başlamış. bu tezadı bir türlü tahlil edemiyor, havsalamızda yerleştirebilecek uygun bir yer bulamıyoruz. kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (6) - yakup aslan <br/><br/>uzun uzun devam eder alıntlarım. normal koşullarda haksöz gibi bir yayının linkini vermem ama bu anılar okunmaya değer. <br/><br/>nihayetde şöyle der yazar bir yerde: bu bölgelere sadece islam’ın şekil olarak geldiğini ve <a class="b" href="/?q=arap+gelene%c4%9finin+din+olarak">arap geleneğinin din olarak</a> topluma hâkim olduğunu açıkça görmüştük. kaynak: bir rüyanın ardından gerçekleşen sessiz devrimcilik (3) - yakup aslan <br/><br/>tüm yazıların linki burada. <a class="b" href="/?q=okuyun%2c+afganlar+gibi+olmay%c4%b1n.">okuyun, afganlar gibi olmayın.</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.haksozhaber.net/yakup-aslan-757y-p2.htm">http://www.haksozhaber.net/yakup-aslan-757y-p2.htm</a>
-- entry_name: |
     psikolog
   entry_id:  68535322
   entry_writer: fatlace
   entry_fav_count: 2
   entry_content: |
     danışmaya başlamadan önce evliyse nikah/düğün fotoğraflarını görmek istemeniz gereken kişidir.<br/><br/>eğer gelinlik/damatlık giymiş, düğün yapıp dans ede ede evlenmişse, sizden daha ruh hastası bir insandır, size de bir faydası dokunmaz. <br/><br/>neden mi?<br/><br/>beş yaşında kendini örümcek adam olarak hayal eden ve ömrü boyunca örümcek adam olmaya özenmiş, 25-30-35-40+ yaşında hala "benim en büyük hayalim örümcek adam kostümü giyip apartmanlar arasında uçmaktır, beş yaşımdan beri bunu hayal ediyorum," diyen bir psikoloğunuz olsa, ona danışır mısınız?<br/><br/>peki, beş yaşında aklına sokulan prenseslik hayalleriyle bütün ömrü boyunca "gelin" olmayı, gelinlik giymeyi, prenses masalı gibi bir düğün yapmayı hayal eden, kocasına "ben 5 yaşımdan beri gelinliğimi hayal ediyorum maksuuut," diyen bir kadının ruh hastası olmadığını nasıl iddia edebilirsiniz. kendine hayrı dokunamamaış bir deliye neyi danışacaksınız? psikoloğunuz erkek mi? fark etmez. nikah, düğün fotoğraflarına bakan. böyle deli bir kadınla evlenmiş ve bunu hiç garipsememiş, o deliyle beraber düğün yapıp göbek atmış bir diğer deliye hangi derdinizi anlatıp çözüm arayacaksınız?
+- entry_name: |
+    mustafa ceceli
+  entry_id:  68535311
+  entry_writer: 404gibi
+  entry_fav_count: 2
+  entry_content: |
+    geçen ramazan, tuttuğu orucun reklamını yaparak gündeme gelmişti, bu ramazanda ise eşinden boşanıp sevgilisiyle beraber abd'ye gitmekle gündeme geldi.
+- entry_name: |
+    çalışılan pozisyonlar ve maaşları
+  entry_id:  68540207
+  entry_writer: jadedheart
+  entry_fav_count: 2
+  entry_content: |
+    3 arkadaşımı örnek vereyim. hepsi satınalmacı ve ayrı firmalarda çalışıyorlar.<br/><br/>1-satınalma müdürü<br/>10 bin net + yılda 2 maaş prim+araba<br/><br/>2-satınalma uzmanı<br/>yaklaşık 6000 net<br/><br/>3-satınalma uzmanı<br/>2500 net
 - entry_name: |
     31 mayıs 2017 diyanet'ten yaz kursları müjdesi
   entry_id:  68535804
@@ -185,19 +178,19 @@ data:
   entry_content: |
     sözün aslı bu şekilde olmadığı, her zamanki gibi çarpıtıldığı için normal tabii ne zaman oynadılar diye düşünmeniz. keşke araştırsanız da konuşsanız. çarpıtmadan, dosdoğru.
 - entry_name: |
-    çalışılan pozisyonlar ve maaşları
-  entry_id:  68537526
-  entry_writer: telekinesis34
+    cahil erkeklerin ortak özellikleri
+  entry_id:  68540396
+  entry_writer: bir takim gulusmeler
   entry_fav_count: 1
   entry_content: |
-    türkiyenin en kritik, önemli davalarına bakan mahkemenin birisinde memurum. aldığım maaş 2500 amk mesai +300 tl zahmet ediyolar. önbüro da yatıp keyif yapan adamda ayni maaşı alıyor, ben de.
+    her gördüğüne yürümesi.<br/><br/>eşinin, sevgilisinin parasına muhtaç olması.<br/><br/>kaba ve görgüsüz olması.<br/><br/>sorumluluk sahibi olmaması.<br/><br/>sürekli yalan söylemesi.<br/><br/>küfrü ağzından eksik etmemesi.<br/><br/>verdiği sözleri tutmaması bunla övünmesi. <br/><br/>birinin arkasından sallarken yüzyüze gelince abi çekmesi.<br/><br/>modernim ayağına gavatlık yapmakta bir beis görmemesi.<br/><br/>her bulduğu şeyi dövme olarak yaptırması. <br/><br/>her yerinden varoşluk akması.<br/><br/>bir meslek sahibi olmanın götüne sıkı gelmesi ve akabinde kolay yoldan yırtmaya çalışması.<br/><br/>zengin kadın avcılığı yapıp hayatını kurtarmaya bakması.<br/><br/>bunlar gibi mesela.
 - entry_name: |
-    ben euroleague'e karşıyım euroleague hırsızlık
-  entry_id:  68535525
-  entry_writer: karpuzlu ciklet
+    akit yazarı nurettin veren'in kalp krizi geçirmesi
+  entry_id:  68540587
+  entry_writer: insomnia34
   entry_fav_count: 1
   entry_content: |
-    cok guzel yonetti fikret orman bu sureci.<br/>kolay degil.<br/>uzerinde basketbolda basarili olma baskisi var.<br/>bunun arkasinda siyaset de var.<br/>hidayet'in secim surecinde de hep en onde fikret orman vardi.<br/>neyse.<br/>iyi takim kurdu.<br/>ufuk sarica, milli takim hocaligi falan.<br/>ama sansizlik, olmayacak sey oldu fb euroleague'de sampiyon oldu.<br/>orman fb ile turkiye'de bir sekilde, kavga gurultu mucadele edebilecegini dusunuyordu.<br/>ama fb olayi baska bir boyuta tasidi.<br/>orman, fb ile mucadele etmek istiyorsa artik euroleague'de basarili olmasi gerekiyordu.<br/>ama gs dahil 4 turk takiminin mucadele ettigi euroleague'de bjk'ye yer yoktu.<br/>2017/18 sezonu icin fransa ligini 10. sirasda bitiren limoges davet edilmisti, bjk'nin haliyle adi okunmuyordu.<br/>ormanin elinde tek care vardi. yandas medyayi kullanarak seviyeyi dibe indirmek ve polemik yaratmak.<br/>cok da basarili oldu.<br/>tebrik ederim kendisini.
+    böyle bi kaç haber daha gelirse ateistler kavimler halinde allahın varlığına inanacak!
 - entry_name: |
     eşya hukuku sınavında sıçmak
 - entry_name: |
@@ -223,11 +216,11 @@ data:
     ben bu yazıda gezicilere yönelik herhangi bir hırsızlık iması görmedim, kaldı ki bu ülkede hırsız dendi mi akla gelen tek bir güruh var. bu yazıyı çarpıtanlar da onlar.
 - entry_name: |
     spor salonuna gitmeyip eve spor aletleri almak
-  entry_id:  68537242
-  entry_writer: oldukcautopikbirkiz
+  entry_id:  68536096
+  entry_writer: sirjohn
   entry_fav_count: 0
   entry_content: |
-    vücut ağırlığı kullanmak bir diğer alternatiftir. yetersiz deniliyorsa alet sayısı azami derecede tutulacaksa mantıklı olan hareket.
+    kapının arkasına koymak için 35 lbs dumbbell sipariş ettim amazon'dan. ekşi'de karşıma bu başlık çıktı.<br/><br/>sedat okuyorsun biliyorum, ayıp oluyo!<br/>cookie mookie derken gizlimiz saklımız kalmadı.<br/><br/>&lt;o&gt;
 - entry_name: |
     sözlükçülerin parfümleri
   entry_id:  68539252
@@ -292,6 +285,13 @@ data:
   entry_content: |
     keşke merdivenden inen kızın eteğinin altına bakacağına, gece gölgenin rahatına ya da dönüp kaderinin bahtına baksaydı.
 - entry_name: |
+    hasta oğlu için yaprak sarması satan anne
+  entry_id:  68540779
+  entry_writer: santinio
+  entry_fav_count: 0
+  entry_content: |
+    sabah sabah gözlerimi yaşartan anne.<br/>keşke antalya'da olsam da kendisine sipariş versem.
+- entry_name: |
     euroleague'i geçecek tek başarı şampiyonlar ligi
   entry_id:  68540133
   entry_writer: espido
@@ -313,19 +313,19 @@ data:
   entry_content: |
     hiçbir şekilde tavır koyamazsınız. koysanız bile uzay, uzam, galaksi, evren sizi umursamaz.<br/>yüzbin nükleer bomba patlatsanız bile etkiniz belki milyonda bir olur. ne kadar aciz olduğumuzun farkında mısınız?<br/>biz aslında yoğuz!
 - entry_name: |
-    cahil erkeklerin ortak özellikleri
-  entry_id:  68535901
-  entry_writer: voyager altin plak
+    dua eden robot yapılması
+  entry_id:  68540835
+  entry_writer: nicho tesla
   entry_fav_count: 0
   entry_content: |
-    cehaletlerini para ve seksle kapatmaya çalışırlar. zeki erkeklere para ve seks zaten kendiliğinden gelir.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-0uZUcVefFA" title="https://www.youtube.com/watch?v=-0uZUcVefFA">az kaldı hepimiz böyle olacağız</a>
 - entry_name: |
-    akit yazarı nurettin veren'in kalp krizi geçirmesi
-  entry_id:  68540587
-  entry_writer: insomnia34
+    akit'in yemeğinizi elle yiyin haberi
+  entry_id:  68538610
+  entry_writer: yedinci samuray
   entry_fav_count: 0
   entry_content: |
-    böyle bi kaç haber daha gelirse ateistler kavimler halinde allahın varlığına inanacak!
+    itiraf ediyorum vaktiyle bu gazetenin öncüllerine para verdim. aldım, okudum. sonra 17 yıl geçti. bunlar yüzünden "bir yaratıcının varlığı" dışında neredeyse inançla ilgili hayatımdaki her şeyi değiştirdim.<br/><br/>bunların şu haberlerini okuyup aynı yolda yürümeye devam edenlere sadece üzülüyorum. bakın var veya yok tartışmasına girmek için değil, sadece mevzuyu netleştirmek için bir örnek vereceğim:<br/>cennet veya cehennem varsa emin olun dürüst, vicdanlı bir ateist/hristiyan/yahudi/budist vs birinin cennete girme ihtimali bunlardan yüksektir. <br/>çünkü yaratıcının ruhları sefil, çürümüş yaratıkları cennete alacağına inanmıyorum.<br/>çünkü yaptıkları haberler, attıkları manşetler, cehalet, yalan ve vicdansızlık içeriyor. ve bunu kimse bana açıklayamaz.<br/><br/>not: sol framede görmesem, linke tıklamasam, mümkün mertebe uzak duruyorum bu paçavradan. midemi bulandırıyor. goygoyunu bile yapasım gelmiyor.
 - entry_name: |
     a haber'in atak helikopter haberi
   entry_id:  68536943
