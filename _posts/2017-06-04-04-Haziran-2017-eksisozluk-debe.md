@@ -6,16 +6,23 @@ data:
     fulya öztürk'e belasın diyen hacı amca
   entry_id:  68586103
   entry_writer: oto mobil
-  entry_fav_count: 558
+  entry_fav_count: 559
   entry_content: |
     tontiş değil sevimsiz, cahil, yobaz bir hıyarın, başı açık kadın görünce savurduğu hakarettir.
 - entry_name: |
     teog'da 17000 birinci çıkması
   entry_id:  68582530
   entry_writer: az gonus lan
-  entry_fav_count: 517
+  entry_fav_count: 524
   entry_content: |
     - tabi ya! ben paşayım, sen de paşasın, hadi siz de olun, hepimiz paşayız.
+- entry_name: |
+    haluk levent'in hayranının balosuna katılması
+  entry_id:  68579047
+  entry_writer: what makes you think i m not a superhero
+  entry_fav_count: 468
+  entry_content: |
+    reklam kokuyor diyenler sanirim haluk levent'i pek takip etmiyor..<br/><br/>arabayla uzun yol giderken gectigi bir kasabadan bahsedince "abi bi ugrasaydin da cayimizi icseydin" diyen adamin yanina "iyi peki koy cayi, geliom" diye ugrayan adam bu..<br/><br/>adam gibi adam.. insan gibi insan..
 - entry_name: |
     asla evlenilmeyecek 10 erkek
   entry_id:  68579035
@@ -27,28 +34,28 @@ data:
     hayatı sosyal medyada yayımlamak için yaşamak
   entry_id:  68584150
   entry_writer: mevsimler
-  entry_fav_count: 239
+  entry_fav_count: 244
   entry_content: |
     hayatı başkaları için yaşamanın modern ve en uç versiyonu. <br/><br/>insanlar bir çiçeği koklayarak ya da bir kediyi severek kendine bir anı yaratmanın, bir anı sadece içdünyasında bir karşılık arayarak yaşamanın ne olduğunu unuttu.
 - entry_name: |
     bir erkeğin futboldan hoşlanmamasının asıl sebebi
   entry_id:  68579404
   entry_writer: casusbubelli
-  entry_fav_count: 223
+  entry_fav_count: 227
   entry_content: |
     kastedilen oyunu sevmekle beraber izlemeyi ve ziklemeyi bırakmaksa, sihirli bir değnek değmesiyle aşağıdaki mevzularda idrak güncellemesidir.<br/><br/>- 22 baldırı çıplağın peşinden koştuğu topun fakirlik, gerilik, yokluk gibi gerçek dertleri unutturmaktan başka hiç bir zike yaramaması<br/><br/>- bi zike yaramayan bu işe harcanan zirilyonların ilime, irfana, kültüre, edebiyata harcanabilecek olması<br/><br/>- o zirilyonları alınca neresine sokacağını bilemeyen topçuların yaptığı çok da ufak olmayan şımarıklıklardan gelen tiksinme hissi<br/><br/>- o topçuların üzerinden ün ve para kazanmaya çalışan bir takım hatunlar<br/><br/>- bu topçuları ve hatunları zorla gözümüzün içine içine sokan medya<br/><br/>- hepi topu bir top tepiklemekten ibaret bir oyunu, izlemeyi bırak tartışmak için harcanan zamanda kuantum mekaniğinin anlaşılabilecek olması<br/><br/>- futbol tartışırken çıkan hır gür, düşen seviye<br/><br/>- stadlarda hiç olmayan seviye<br/><br/>- medyada futbol tartışmak üzerine kariyer yapan heriflerin tırışkalığı<br/><br/>- böyle heriflere "hocam hocam" deyip çanak tutup ego şişiren daha da tırışka sunucu zevat<br/><br/>- kulüp yöneticisi kimselerin iğrençliği<br/><br/>- futbol üzerinden çıkar sağlamaya çalışan politikacıların iğrençliği<br/><br/>- her nedense mor-yeşil renklere gönül verenlerin her nedense eflatun-sarı renklere gönül verenleri öldürmek istemesi ve dahi ara sıra bunu gerçekleştirmesi<br/><br/>- şike
 - entry_name: |
     3 haziran 2017 boğazda ayağı kopan taraftarlar
   entry_id:  68590085
   entry_writer: geyigindibi
-  entry_fav_count: 212
+  entry_fav_count: 214
   entry_content: |
     videodaki adamın kim olduğunu merak ettiğim olay. adam önce kendini eczacı doktor olarak tanıttı. sonra da polis.
 - entry_name: |
     2071'de inşallah türkiye küresel bir güç olacak
   entry_id:  68582087
   entry_writer: killerbee
-  entry_fav_count: 185
+  entry_fav_count: 186
   entry_content: |
     (bkz: <a class="b" href="/?q=geri+zekal%c4%b1lara+m%c3%bcjdeli+haber">geri zekalılara müjdeli haber</a>)
 - entry_name: |
@@ -59,12 +66,26 @@ data:
   entry_content: |
     şampiyon da şampiyon
 - entry_name: |
+    ülkücü faşistler bayrak asıp solcuları tahrik etti
+  entry_id:  68582499
+  entry_writer: amini daglara yazdim yarim
+  entry_fav_count: 138
+  entry_content: |
+    bir "<a class="b" href="/?q=sol">sol</a> haber" tweet'i:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/2979qj.jpg">https://i.hizliresim.com/2979qj.jpg</a><br/><br/>adamlar türk devletinde türk bayrağı asmanın, solcular nezdinde tahrik edici bir unsur olduğunu sanıyorlar.<br/><br/>solculuk günümüz türkiye'sinde maalesef sosyalist maskeli kürt ırkçılarının tekelinde kaldığı için katiyen anlaşılabilir bir mevzu fakat, solculuk kisvesi altındaki etnik ırkçılığı kendilerinden başka kimseye yedirememeleri de ayrı bir dram.<br/><br/>edit: görselin sahte olduğu iddiası mevcut; olabilir; fakat daha 1 yıl önce <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Pr3Djb.jpg" title="https://i.hizliresim.com/Pr3Djb.jpg">şu pankartı</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/0BVzQV.jpg" title="https://i.hizliresim.com/0BVzQV.jpg">şöyle bir haber</a> girerek paylaşan bir sosyal medya organından yukarıda bulunan görseldeki gibi bir haber yapmayı beklemek gayet doğal değil mi?
+- entry_name: |
     korcan cinemre
   entry_id:  68595068
   entry_writer: divit
-  entry_fav_count: 99
+  entry_fav_count: 106
   entry_content: |
     yalniz butun sozluk nihat hatipoglu izliyormus bunu da ogrendik.<br/><br/>edit: adama pic deyip durmayin ergen bebeler. sizsiniz pic. pic pic pic
+- entry_name: |
+    ingilizce bilen odtülü vs 3 dil bilen katülü
+  entry_id:  68589137
+  entry_writer: johnmalkow
+  entry_fav_count: 93
+  entry_content: |
+    (bkz: <a class="b" href="/?q=call+of+kat%c3%bcl%c3%bc">call of katülü</a>)
 - entry_name: |
     eşini enstitüye sekreter olarak atayan rektör
   entry_id:  68579514
@@ -73,54 +94,47 @@ data:
   entry_content: |
     hüseyin bağcı'nın yerine hüseyin bağ'ın atanması real madrid'in casillas'ın yerine casilla'yı almasını hatırlatmıştır.
 - entry_name: |
-    ingilizce bilen odtülü vs 3 dil bilen katülü
-  entry_id:  68589137
-  entry_writer: johnmalkow
-  entry_fav_count: 88
-  entry_content: |
-    (bkz: <a class="b" href="/?q=call+of+kat%c3%bcl%c3%bc">call of katülü</a>)
-- entry_name: |
     evlenme teklif ederken diz çökmek
   entry_id:  68586439
   entry_writer: taze sikilmis portakal suyu
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     evlilik teklifi nedir amınakoyim. iki insan evlenmeye karar verir ve evlenir. bu kadar basit. koskoca otuz yaşında insanlar ne kadar çok seviyorsunuz evcilik oynayıp triplere girmeyi. lanet olsun sizin doğal olmayan sokuk yaşamınıza
 - entry_name: |
-    fikret orman
-  entry_id:  68581105
-  entry_writer: mehyanede sabahlayan adam
-  entry_fav_count: 80
+    euroleague finalini 1.2 milyar insan takip etti
+  entry_id:  68586079
+  entry_writer: tskitishvili
+  entry_fav_count: 82
   entry_content: |
-    marka değeri diye bir şey var beyler. bilip bilmeden konuşmayın amk.<br/><br/>marka değeri olduğu için ismail köybaşı feneri, lens beşiktaş'ı seçiyor.<br/><br/>işte bunlar hep marka değeri.
+    lisedeki bir animi hatirlatan aziz beyanati.<br/><br/>bir kac yillik mazisi olan duz bir lisede mudur okul tarihinin ilk bando takimini olusturmak icin ogrencilere gaz vermeye calismaktadir. o aralar yeni hizmete girmis k12 web sitesini de isin icine katarak: "bakin cocuklar bu bando cok onemli bir gorev. sizin isimlerinizi okulumuzun web sitesine koyacagiz. mesela arjantin'den biri sitemize girip sizin isminizi gorecek. bu gururu yasamak hanginiz istemez?!"<br/><br/>evet teoride boyle bir sey olabilir ama yok ebesinin nikahi artik ya bi defol git cay koy mk.
 - entry_name: |
     spotify
   entry_id:  68582293
   entry_writer: haru mukojima
-  entry_fav_count: 78
+  entry_fav_count: 80
   entry_content: |
     uygulamaya para verenlere enayi muamelesi yapanları kınıyorum efendim. salak salak heriflersiniz gidin you tube dan mp3 indirin aynen amk.<br/>ulan binlerce sanatçının albümleri listelerde yer almaz iken en kaliteli halde indirip dinleyebiliyorsun vicdanın rahat .gerçi spotify indirsen de sen gider demet akalın dinlersin o ayrı da. <br/>uygulama sana mükemmel listeler yapıyor adını hiç duymadıgın hiç bilmediğin herifleri tanıtıyor yeni yeni müzik türleri keşfediyorsun . her gün yeni çıkan albümleri tek tek tek ana sayfanda gösteriyor daha o çok sömürdüğün you tubeda bulunmazken. <br/>siz ne bok anlarsınız gerçi de.
 - entry_name: |
     evli kadınla birlikte olmak
   entry_id:  68594992
   entry_writer: coding4life
-  entry_fav_count: 64
+  entry_fav_count: 70
   entry_content: |
     pişmanlık sadece kocasıyla karşılaştığınızda değil, kocasından yediğiniz 32. bıçak darbesinin ardından son nefesinizi verirken de hissedebileceğiniz bir durumdur.<br/>insan olun, efendi olun. sikerler sonra aşkınızı çekiminizi ona göre.
-- entry_name: |
-    bir erkeğin ağlaması
-  entry_id:  68581100
-  entry_writer: yuruyedur
-  entry_fav_count: 59
-  entry_content: |
-    eğer bir kadın içinse o kadını bir daha kimse öyle sevmeyecektir.
 - entry_name: |
     seks robotları bu yıl geliyor
   entry_id:  68592009
   entry_writer: the godfather izleyip tribe giren adam
-  entry_fav_count: 58
+  entry_fav_count: 66
   entry_content: |
     (bkz: <a class="b" href="/?q=bu+gece+olmaz+devrelerim+a%c4%9fr%c4%b1yor">bu gece olmaz devrelerim ağrıyor</a>)
+- entry_name: |
+    bir erkeğin ağlaması
+  entry_id:  68581100
+  entry_writer: yuruyedur
+  entry_fav_count: 60
+  entry_content: |
+    eğer bir kadın içinse o kadını bir daha kimse öyle sevmeyecektir.
 - entry_name: |
     bursaspor
   entry_id:  68583059
@@ -132,7 +146,7 @@ data:
     trabzonspor
   entry_id:  68593215
   entry_writer: hayatin olagan akisi
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     bugünden sonra 2010-2011 şampiyonu biziz diyecek yüzü kendilerinde bulamazlar.
 - entry_name: |
@@ -150,12 +164,12 @@ data:
   entry_content: |
     hayır, başlık sahibine niye küfür ediyorsunuz.<br/>adam bilgi aktarmaya çalışıyor. yok kaynak nerede, yarak nerede?<br/><br/>çok duyarlıymış tribinizi sikeyim. al götüne sokarsın şimdi kaynağı.
 - entry_name: |
-    survivor 2017
-  entry_id:  68579921
-  entry_writer: eden bulur hazard
-  entry_fav_count: 33
+    30 yaşında bekar kadın
+  entry_id:  68587460
+  entry_writer: adaletbulamayanhukukcu
+  entry_fav_count: 40
   entry_content: |
-    adem'i desteklemeyen bir insanım da <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/68577365" title="https://eksisozluk.com/entry/68577365">şu</a> entryi sıçan kişiyi özellikle görmenizi istiyorum dostlar. köy enstitüleri hangi ara eğitimin dibi olmuş ve daha ötesi bunu yazan cibilliyetsiz nasıl yazar olmuş. <br/><br/>koyayım keyiflik izlediğimiz yarışmaya da bu nasıl bir küf kokan bir zihniyettir? burda da mı varsınız zihniyetine tükürdüklerim. aşağılamak için köy enstitüleri diyor zihniyetini siktiğim, oku araştır ulan soysuz!<br/><br/><a class="b" href="/?q=edit">edit</a> :24 kişi de beğenmiş bunu vay ben bu ülkenin geleceğine aydınlık atayım. soysuz insanlar!!
+    kendini türkiye çomarına ezdirmemiş, hayattan ne beklediğini bilen, çoğu eğitimli ve güçlü, çomarlara yem olmadığı için onlar tarafından nefret edilen ve ağızlarına pelesenk olmuş kadınlardır.<br/><br/>en büyük şanssızlıkları <a class="b" href="/?q=%c3%a7omarland">çomarland</a>'de yaşamalarıdır.
 - entry_name: |
     aykut kocaman
   entry_id:  68578838
@@ -178,19 +192,19 @@ data:
   entry_content: |
     ciddi ciddi bu kadar net bir gol yeme çabasını en son recep tayyip erdoğan gole giderken önünden birer birer çekilen defans oyuncularında görmüştüm. <br/><br/>bursa'dan bir sik olacağından değil de trabzonspor bugün onurunu ve karakterini bitirmiştir. bir daha 2011 diye konuşamazsınız.
 - entry_name: |
+    survivor 2017
+  entry_id:  68590433
+  entry_writer: mezarindan yeni kalkmis kleopatra
+  entry_fav_count: 26
+  entry_content: |
+    dün ogeday ve adem teke tek dört kez karşılaşmışlar ve iki oyunu adem iki oyunu da ogeday almış. akşam izlememistim burdaki yorumlarda ogeday'dan hiç puan alamamış gibi entryler girilmiş. bi değişiksiniz.
+- entry_name: |
     3 haziran 2017 trabzonspor'un bursa'dan yediği gol
   entry_id:  68594087
   entry_writer: xavier naidoo
   entry_fav_count: 25
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.karikaturu.com/resimler/ananin-durumu-ciddi.jpg" title="https://www.karikaturu.com/resimler/ananin-durumu-ciddi.jpg">rize ciddi</a>
-- entry_name: |
-    30 yaşında bekar kadın
-  entry_id:  68586884
-  entry_writer: yuregime senden baska muska takmadan
-  entry_fav_count: 24
-  entry_content: |
-    +1 ile yaşımı arttırıyor ve aralarına katılıyorum. açıkçası kendi hallerinde, başkalarının hayatlarıyla ilgilenmeyen, dünyasını çekip çevirmeye uğraşan tipler çoğu. evde kalmış, yok kız kurusu olmuş diyenlere de gülüp geçer. sadece çocuk doğurmak için evlenselerdi kendilerine haksızlık olurdu ama bunu anlayacak kapasite çoğu insanimizda yok maalesef. ne de olsa genetik kodlarimiz çocuk doğurmaya endeksli.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> ayrıca bu insanların değerini bilin bence, yaşları ve yaşadıkları gereği hayatlarının en güzel çağında olan bu insanlar "yola yük olmaz", gerekirse kendi yolunu açar bi şekilde.
 - entry_name: |
     lukas podolski
   entry_id:  68589617
@@ -230,14 +244,14 @@ data:
     ekşi itiraf
   entry_id:  68579165
   entry_writer: olmazolmaz
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     yemin ediyorum şu an kedi olmayı çok isterdim. hatun saat 8den beri yanımda uyuyor ya. arada göz ucuyla bana miyavlayıp beni sevv diyor. ben seviyorum ve yeniden uyuyor. oh ya ne güzel hayat anasını satiim.<br/><br/>edit: şu an horlamaya başladı.
 - entry_name: |
     kafede yalnız oturan insanlar
   entry_id:  68593578
   entry_writer: gonjin sun
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     benim lan o? bir durum mu vardı diyesim geldi. mecbur muyum deniz havası alıp bulmaca çözerken bıt bıt konuşacak biriyle mekanda bulunmaya. bir pazar sabahı iyi müzik kullaklıkta, önünde manyak sorularıyla beni terleten bulmaca, bir ayılma birası missss işte. insanı napıcam ki?
 - entry_name: |
@@ -247,6 +261,13 @@ data:
   entry_fav_count: 13
   entry_content: |
     "bu ulkede cumhurbaskanina bir sey dersiniz <a class="b" href="/?q=ceza+almazsiniz">ceza almazsiniz</a>; federasyona bir sey dersiniz ceza alirsiniz." dedi demin. <br/><br/>vay arkadas...
+- entry_name: |
+    dini değerlere sövmenin serbest bırakılması
+  entry_id:  68595671
+  entry_writer: mafenzi
+  entry_fav_count: 12
+  entry_content: |
+    bizde zaten var o ama tek taraflı. <br/><br/>mesela bir budist görünce "putperest orospu çocuğu" ya da bir katolik görünce"oğlancı piç" diyebiliyoruz zaten bunda bir sıkıntı yok. <br/><br/>ama bir müslümana "terörist" dediğin anda seni çükünden asarlar. çünkü sadece müslümanlar iyidir. geriye kalan herkes kötüdür.<br/><br/>koca bir din ilkokul 1. sınıf karakterine sahip insanlarla dolu.<br/><br/>yazık.<br/><br/>düzgünler var tabi ama geneli böyle.
 - entry_name: |
     galatasaray
   entry_id:  68593563
@@ -262,7 +283,7 @@ data:
   entry_content: |
     arkadaş boş kaleye gol attıktan sonra bir kez olsun sana attırana koş be. bomboş kaleye yuvarlayıp uzaktan 90'a takmış gibi şekil yapmak ne ? yakışmıyor.
 - entry_name: |
-    3 haziran 2017 anadolu efes besiktas sj maci
+    3 haziran 2017 anadolu efes beşiktaş sj maçı
   entry_id:  68595626
   entry_writer: miki hiir
   entry_fav_count: 9
@@ -272,65 +293,44 @@ data:
     ali koç
   entry_id:  68588195
   entry_writer: ginc
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     bizde de yok ki böyle genç yakışıklı başkan adayı aq. en genci balkan harbini görmüştür o liseli tayfanın.
 - entry_name: |
-    köpek yeme festivali
-  entry_id:  68592720
-  entry_writer: mavericks
+    3 haziran 2017 bursa yağmuru
+  entry_id:  68594219
+  entry_writer: perkins tp
   entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=kurban+bayram%c4%b1+i%c3%a7in+de+imza+toplasana+delikanl%c4%b1">kurban bayramı için de imza toplasana delikanlı</a>)<br/><br/>ayrıca katliyam değil katliam.<br/><br/>edit: arkadaş bana mesaj atıp, kurban bayramı farklı bu adamlar işkenceyle öldürüyor minvalinde bir şey söylemiş. cevabımı buraya da yazayım;<br/><br/>bu olay her sene patlak veriyor bu şekilde. tıpkı bizim kurban bayramının her sene avrupa ülkelerinde katliam olarak patlak vermesi gibi. işkence videolarına gelince, youtube'da bizim ülkede danaya, koyuna keserken yapılan işkence videoları da mevcut. onların amacı da hayvanlara eziyet edip zevk almak değil, arada sadist insanlar çıkmıyor değil bizim gibi.<br/><br/>tepkili olmanı anlıyorum ancak önce kendi ülkemizdeki sorunu çözelim madem, sonra çinle uğraşalım. mümkün mü? hayır. herkes vegan mı olmalı? bilmiyorum. köpekle duygusal bağ kurabiliyoruz danayla kurmayı hiç denemedik diye ikisi arasında fark olduğunu düşünmüyorum ve bana yapay, sığ bir duyar olarak geliyor. kusura bakma. umarım destek görürsün.
-- entry_name: |
-    şaka yaparken arkadaşını silahla öldürmek
-  entry_id:  68581064
-  entry_writer: shed
-  entry_fav_count: 4
-  entry_content: |
-    çok silahtan anlamam ama mermiyi namluya sürdüğünde ki sürüyor silah boşsa zaten üstteki zımbırtı takılı kalır.<br/><br/>bu adam mermiyi ağzına sürüp, adamın kalbine nişan alıp, tetiği çekiyor. bunun neresi kaza anlamadım.
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  68583458
-  entry_writer: whatdoesntkillyoudisappointsme
-  entry_fav_count: 4
-  entry_content: |
-    seni burada geç bulup erken kaybettim, ama üzülmüyorum. acını daha çok tanıdım, tanıdık geldi bana. aynı hapishanede gibiyiz ikimiz de, tek farkımız şu; senin yardım alabilecek imkanın var.<br/><br/>belki burayı okumayacaksın bile, ya da okuyup sessiz kalacaksın, önemli değil. bizim aramızda görünmez bi bağ var. güçlendirmek de bizim elimizde, inceltip kopartmak da... ben kopmasını istemiyorum, çünkü sıradan bi bağ değil bu, belirsiz bir büyüye sahip. ama sen koparmak istersen, hayatın akışına kapılıp beni de kendini de kaybedersen, elimden bişey gelmez...
-- entry_name: |
-    dini değerlere sövmenin serbest bırakılması
-  entry_id:  68595671
-  entry_writer: mafenzi
-  entry_fav_count: 4
-  entry_content: |
-    bizde zaten var o ama tek taraflı. <br/><br/>mesela bir budist görünce "putperest orospu çocuğu" ya da bir katolik görünce"oğlancı piç" diyebiliyoruz zaten bunda bir sıkıntı yok. <br/><br/>ama bir müslümana "terörist" dediğin anda seni çükünden asarlar. çünkü sadece müslümanlar iyidir. geriye kalan herkes kötüdür.<br/><br/>koca bir din ilkokul 1. sınıf karakterine sahip insanlarla dolu.<br/><br/>yazık.<br/><br/>düzgünler var tabi ama geneli böyle.
-- entry_name: |
-    en çok yalan söyleyen siyasi görüş
-  entry_id:  68588023
-  entry_writer: historic
-  entry_fav_count: 3
-  entry_content: |
-    hdp %100 <br/><br/>1. gün barış<br/>2. gün sırtımızı pkkya yaslıyoruz <br/>3. gün barış <br/>4. gün emanet oylar için teşekkür <br/>5. gün emanet oy yok <br/>6. gün barış <br/>7. gün bahar erken geldi (tsk şehit verince) <br/>8. gün barış <br/>9. gün pkk sizi tükrüğü ile boğar <br/>10. gün barış <br/>.<br/>.<br/>.<br/>89. gün biji serok obama <br/>90. gün biji serok putin <br/>91. gün barış <br/>92. gün dokunulmazlığı kaldırın da görelim <br/>93. gün kimse kendi gönlüyle mahkemeye gitmeyecek <br/>94. gün barış <br/>.<br/>.<br/>.<br/>.<br/>.<br/>--------yoğun operasyonlar - kayyum atamaları - hapis cezaları---#<br/><br/>363. gün barış imkanı kaçtı üzgünüm <br/>364. gün şansımız barış için var <br/>365. gün yurtdışına kaçtım ama yolluklarımı yollayın <br/><br/>1.gün barış <br/>2. gün........
+    rizeli ipnelerin okuduğu belalardan ileri gelmemektedir zira bilimde böyle birşey yoktur.
 - entry_name: |
     bein sports'un attığı skandal tweet
   entry_id:  68595924
   entry_writer: psikopatkoala
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     "bein degil,kuzenim yazmiş"
 - entry_name: |
-    başlıktaki entryleri okumadan entry giren yazar
-  entry_id:  68593995
-  entry_writer: clskan
-  entry_fav_count: 2
-  entry_content: |
-    ekşi sözlük yazarlarının %99'udur. özellikle haber başlıklarında ilk entryde verilen bilginin yalan olduğu veya değiştiği diğer entrylerde defalarca yazılmasına rağmen hala ilk entrydeki bilgiye göre yazmaya devam eder.
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  68596521
-  entry_writer: bi degisik ormanci
+    vodafone park
+  entry_id:  68588457
+  entry_writer: kalles ayakkabi
   entry_fav_count: 1
   entry_content: |
-    tam duruma uygun şarkıdır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=lwgquUb8sC0">https://m.youtube.com/watch?v=lwgquub8sc0</a>
+    güzel bir isimdir ancak tayyip'in ağzından çıkan saçma bir şeyin bu kadar ciddiye alınıp hızla harekete geçilmesi (beşiktaş özelinde demiyorum) düşündürücüdür.
+- entry_name: |
+    9 nisan 2017 koru hastanesi rezaleti
+  entry_id:  68579985
+  entry_writer: bir tutam dakik
+  entry_fav_count: 1
+  entry_content: |
+    yeni yazar oldum. ilk defa entry'm silindi. neyi yanlış yaptık sözlük? mazluma destek çıkmaya çalıştık. zalim gördüğümüzü eleştirdik.bunun nesi yanlıştı sözlük? açıklasınlar. o bebek iyileştirildiyse kendimiz silelim yazdıklarımızı. sen silme sözlük.
+- entry_name: |
+    tolga zengin
+  entry_id:  68594136
+  entry_writer: kara lastikli eleman v2
+  entry_fav_count: 0
+  entry_content: |
+    oğuzhan, quaresma, atiba falan dururken bu herifin elinde neden yükseliyor kupa inanılmaz gerçekten.
 - entry_name: |
     mezar taşında yazması gerekenler
   entry_id:  68580352
@@ -339,17 +339,17 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/CnbdhKMXYAAqdDb.jpg">https://pbs.twimg.com/media/cnbdhkmxyaaqddb.jpg</a>
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  68581122
-  entry_writer: bilderberg
+    mario mandzukic
+  entry_id:  68597068
+  entry_writer: ataman bogdan khmelntsky
   entry_fav_count: 0
   entry_content: |
-    depresif ve zalımın kızları gelmesin.
+    ispanyol kekolarını affetmemiş futbolcu.
 - entry_name: |
-    digiturk
-  entry_id:  68589803
-  entry_writer: eksi peace
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  68579537
+  entry_writer: mimicree
   entry_fav_count: 0
   entry_content: |
-    bein'den kim geri alacak merak ettiğim kurum.<br/><br/>satanların türk halkının menfaatlerini düşündüğünü falan mı zannediyorsunuz?<br/><br/>onlar cukkaya bakar gerisi önemsizdir. digitürk'e gelene kadar ülkenin parsel parsel araplara satılması konusunu konuşalım.
+    dert, dertleşmek, bunlar sosyalleşmenin en gerçekleştirilmeyecek duygusu değil midir arkadaş. yani dertli adam eve kapanır, ne bileyim depresyona falan girer. çok dertlendim acilen birileriyle tanışıp dertleşmem gerekiyor diyen siz yalnız ve güzel ülkemin çakal gençleri cansınız.
 ---
