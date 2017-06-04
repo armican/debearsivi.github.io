@@ -6,7 +6,7 @@ data:
     tcdd'nin yemekli vagonları kapatması
   entry_id:  68601162
   entry_writer: complainst
-  entry_fav_count: 452
+  entry_fav_count: 465
   entry_content: |
     "türkiye cumhuriyeti devlet demiryolları (tcdd) trenlerinde, ramazan boyunca, ekonomi bölümündeki yemekli vagon servise kapatıldığı bildirildi."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201706031028739005-tcdd-ramazan-yemekli-vagonlar-kapatildi/" title="https://tr.sputniknews.com/turkiye/201706031028739005-tcdd-ramazan-yemekli-vagonlar-kapatildi/">sputnik</a>'in haberine göre tcdd'nin ramazan'a özel uygulamasıdır. <br/><br/>bu ülkede kimsenin hasta, yaşlı, çocuk, seferi ya da gayrimüslim olma hakkı olmadığını, daha da önemlisi tercih hakkının olmadığını gösteren son uygulamadır.
 - entry_name: |
@@ -20,14 +20,14 @@ data:
     ronaldo'nun gol atmak dışında bir işe yaramaması
   entry_id:  68608588
   entry_writer: betada don bebegim yok diye uye oldum
-  entry_fav_count: 305
+  entry_fav_count: 308
   entry_content: |
     bir kez olsun elinde klarnet gördük mü? yazıklar olsun şerefsiz ronaldo.
 - entry_name: |
     cem yılmaz'ın maymuna tapanlarla dalga geçmesi
   entry_id:  68606520
   entry_writer: saceopharynx
-  entry_fav_count: 294
+  entry_fav_count: 297
   entry_content: |
     (bkz: <a class="b" href="/?q=g%c3%bcnl%c3%bck+duyar+kotas%c4%b1">günlük duyar kotası</a>)
 - entry_name: |
@@ -41,21 +41,21 @@ data:
     çocuk kazalarında üç saniye kuralı
   entry_id:  68613101
   entry_writer: la libertad
-  entry_fav_count: 193
+  entry_fav_count: 202
   entry_content: |
     çocuk boynunu kırıp ölmüşse de ekstra bir gürültü gelmeyeceği için olumsuz sonuç verecek kuraldır. bu ne lan? <br/><br/>ayrıca; (bkz: <a class="b" href="/?q=derdini+sikeyim+butonu">derdini sikeyim butonu</a>)
 - entry_name: |
     kyk kredilerinin erken kesilmesi
   entry_id:  68609684
   entry_writer: cokomilk
-  entry_fav_count: 175
+  entry_fav_count: 176
   entry_content: |
     öğrenim süresi biten öğrencinin eylül ayına kadar aldığı kredi/burs ödemeleri son dakika kararıyla öne alınmış, haziranda kesmeye karar verilmiş, sözleşmeye sadık kalınmamıştır.<br/><br/>bu birçok öğrencinin mağduriyetine sebep olacak bir karardır. yaz okuluna kalan, yaz stajı yapan ya da iş bulana kadar yaz ayında o parayla geçinmeye çalışacak bir sürü insan var. karar açıklanalı 5 gün olmuş ve bu konudan kimse doğru düzgün haberdar değil. saman altından su yürütmek nedir? <br/><br/>"öğrenciye ödenmeyen tutarlar geri ödemeye dahil değildir." diyerek işin içinden sıyrılmaya çalışmak çok ucuz bir bahane.<br/><br/>herkesi doyurdunuz, türk öğrencilere verdiğiniz 3 kuruş paranın peşine düştünüz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://yurtkur.gsb.gov.tr/Duyuru/87662/normal-ogrenim-suresi-sona-eren-ogrencilerin-dikkatine.aspx" title="http://yurtkur.gsb.gov.tr/Duyuru/87662/normal-ogrenim-suresi-sona-eren-ogrencilerin-dikkatine.aspx">duyuru linki</a><br/><br/>edit1: zaten kesiliyordu diyenlerin yanıldığı nokta şu; sözleşmenin yapıldığı tarih ile ocak ayı arasında toplu para alanların öğrenim süresinin bittiği haziran ayında kesiliyordu. ayrıca kredinin sözleşmede eylül ayına kadar ödeme yapılacağı belirtiliyordu. geri ödemesiz olan (burs) öğrenim süresinin sonundaki haziran ayında bitiyordu. lütfen burs ile krediyi karıştırmayın! <br/><br/>edit2: change.org'ta da kesilmemesi için kampanya başlatılmış. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/recep-tayyip-erdoğan-kredi-burs-lar-eylül-ayına-kadar-yatsın?recruiter=429643046&amp;utm_source=share_petition&amp;utm_medium=whatsapp" title="https://www.change.org/p/recep-tayyip-erdoğan-kredi-burs-lar-eylül-ayına-kadar-yatsın?recruiter=429643046&amp;utm_source=share_petition&amp;utm_medium=whatsapp">kampanya linki</a><br/><br/>edit3: arkadaşlar okumaktan aciz misiniz? allasen yapmayın ya hu. kredi ve burs farklı şeyler. burs (geri ödemesiz) alınır ve haziran ayında biter. kredi (geri ödemeli) alınır ve eylüle kadar devam eder.
 - entry_name: |
     whatsapp'ta son görülmeyi kapatan insanlar
   entry_id:  68613478
   entry_writer: miese lotte
-  entry_fav_count: 170
+  entry_fav_count: 175
   entry_content: |
     artık bunu aştığımızı düşünüyordum..
 - entry_name: |
@@ -69,23 +69,30 @@ data:
     türbanlı kızların yüzünden nur akması
   entry_id:  68613991
   entry_writer: bi nick kiliinimdi ildigindin ilimiyiriz
-  entry_fav_count: 135
+  entry_fav_count: 145
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://www.polis.web.tr/images/album/bulent-ersoy-tyrbanl8.jpg" title="http://www.polis.web.tr/images/album/bulent-ersoy-tyrbanl8.jpg">aynen katıldığım önermedir.</a>
 - entry_name: |
     breaking bad'den çıkarılacak ders
   entry_id:  68605656
   entry_writer: dear god make me a bird
-  entry_fav_count: 125
+  entry_fav_count: 128
   entry_content: |
     los pollos hermanos sadece bir tavuk zincirinden ibaret değildir.<br/>skyler white gibi bir kadınla değil evlenmek, çorba içmeye dahi gitmeyin.<br/>misafirlerinizin okuması için tuvalete bıraktığınız dergi ve kitapları dikkatle seçin.
 - entry_name: |
     onedio.com'un yaptığı ahlaksızlık
   entry_id:  68611888
   entry_writer: hokage
-  entry_fav_count: 112
+  entry_fav_count: 116
   entry_content: |
     (bkz: <a class="b" href="/?q=imgur+mu+can%c4%b1n+sa%c4%9f+olsun">imgur mu canın sağ olsun</a>)<br/><br/>edit: oha onedio oha. bkz'daki zevzekliği mazur görün. <br/>edit: imlâ<br/><br/>rezalet editi: onedio ilgili görseni kaldırmış. çocukların yüzlerini ben karaladım. normalde yüzler açıktı. <br/><br/>*fake taxi, porno filmlerde kullanılan bir ibare.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/4MYkMA.jpg" title="https://i.hizliresim.com/4MYkMA.jpg">onedio'nun silinen postu.</a>
+- entry_name: |
+    hasan ali kaldırım
+  entry_id:  68615302
+  entry_writer: adam olan cocuk
+  entry_fav_count: 106
+  entry_content: |
+    fenerbahçe ile anlaşamadığı söyleniyo. para konusunda sıkıntı çıkmış.<br/><br/>yahu jesus kılıklı bu ne özgüven, senin üstüne para vermen lazım lan fenerde oynamak için.
 - entry_name: |
     kirayı ödemeyen ve telefonlara bakmayan kiracı
   entry_id:  68606622
@@ -93,13 +100,6 @@ data:
   entry_fav_count: 96
   entry_content: |
     noterden ihtarname çektir. bir kira dönemi içerisinde iki ihtar çektikten sonra tahliye ettirebilirsin.
-- entry_name: |
-    hasan ali kaldırım
-  entry_id:  68615302
-  entry_writer: adam olan cocuk
-  entry_fav_count: 96
-  entry_content: |
-    fenerbahçe ile anlaşamadığı söyleniyo. para konusunda sıkıntı çıkmış.<br/><br/>yahu jesus kılıklı bu ne özgüven, senin üstüne para vermen lazım lan fenerde oynamak için.
 - entry_name: |
     cristiano ronaldo
   entry_id:  68599703
@@ -111,37 +111,37 @@ data:
     30 yaşında bekar kadın
   entry_id:  68599787
   entry_writer: yercekimsiztosbaga
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     türk erkeklerinin çok ciddi sorunları olduğunu, sadece var olarak kanıtlayan kadındır. <br/><br/>deneyimleriniz ve hayal dünyalarınızla kurduğunuz kadın imajı korkunç bir acıma duygusu yaratıyor. demek ki ya kültürsüz, görgüsüz, cahil, entrikacı, kolay manipüle eden / edilen dişilere maruz kalmışsınız ya da sizden başka herkesin muazzam kadınlarla yattığını sanıyor, öfke kusuyorsunuz. <br/><br/>türk kadınını kezbanlıkla eleştiren türk erkeği hakikaten ilginç bir canlı. çelişki yumağı, iki yüzlü, sabiti değeri ölçeği yok. kalibrasyon çığlıkları atıyor. kalibrasyon çabasına getirdiği eleştiri " o reddettiğiniz adamlar artık 20' likleri sikiyor " şeklinde gelişiyor. türk erkeği ne istediğini bilmiyor, ne istediğini anlamaya çalışan, anlayan kadına kin kusuyor. <br/><br/>mesela bu başlıkta kin kusan erkeklerin çoğu, kendi cemiyetindeki muhabbette " kadın olsam kesin orospu olurdum herkese verirdim " diyor. tüm kadınları " orospu ve namuslu " diye iki sınıfta ele alıyor. gözlem, tanıma, anlama hak getire. asgari iletişim yeteneklerinden mahrum, sosyal becerileri sınırlı; ama herkes şarap tadımcısı gibi türk kadınına etiket yapıştırıyor. <br/><br/>20' li yaşlarının başında, çocuğuna öğretecek hiçbir şeyi yokken evlenip kunulayan hatun modelini bu başlıkta göğe çıkarıyor. birey olmak kadar normal ve zaruri hedefler koyan kadınlar envai manyaklıkla aşağılanıyor, sosyal korkulara sevk edilmeye çalışıyor. sonra başka " gömme " başlığında az önce yücelttiği 20' lik evli hatunları kezbanlıkla suçluyor, her haline, her davranışına kulp buluyor. <br/><br/>sahiden ilginç bir erkek profili var bu toplumda. hele ki 90 senesinden sonra gelen nesillerin, istisnalar münezzeh; contayı yaktığı, bujilere meme yaptırdığı ayan beyan ortada. <br/><br/>türk kadını sizi nasıl tatmin edecek? sahiden, hiç kadın idenizi mantıkla ölçtünüz mü?<br/><br/>erken evlenirse namusludur. geç evlenirse kırk tane yemiş de içinden seçmiş. yahut topala kalmış. <br/><br/>çalışmaz, asalak olur. boşanır orospu. nafaka alıyorsa kara dul. <br/><br/>çalışır, yine orospu olur. kariyer yapar, müdür metresi denir. hedef koyar, vajinalı hep bunlar denir. <br/><br/>hemen çocuk yaparsa avcı, akılsız; çocuk yapmazsa döl tutmaz, çocuk yapmak istemiyorsa kesin lezbiyen. <br/><br/>hele ki kültüre görgüye deneyime önem veriyorsa kesin yollu, değil mi? kitap okuyorsa kesin dili uzundur, sadece ucuz aşk romanı okuyordur. hobisi varsa ayaktır, tuzaktır. spor yapıyorsa kesin aranıyordur. seyahat arzusu varsa " dünya mutfağına " açılmak istiyordur. <br/><br/>auschwitz' i görmek istiyordur mesela ya da hayali müze gezmektir, erasmus yapar; babasının şerefini burada dilinize dolarsınız. para biriktirir tatil planlar, bastığı kum sayısı kadar iftira atarsınız. sevdiği sergi konser olur, konferans takip eder loca çerezi dersiniz. <br/><br/>mesela kadın tayt giyiyorsa spor salonuna gitmiyordur, yürüyüş yapmıyordur; tek derdi sizin pantolonlarınızın içindeki zavallı et parçasını ele geçirmektir. <br/><br/>mesela kadın gece sokağa çıkıyorsa ya aranıyordur, ya ipini koparmıştır, ya da " işten " dönüyordur. o kadın acile eczaneye gitmiş olamaz, market bakkal arıyor olamaz, sokağa canı zavallı çükünüzü çekmiyorsa çıkmış olamaz. <br/><br/>kadının bir benliği olamaz. hedefi, hayali, planı, beyni, kendi kararı, tercihi olamaz. kadın dediğin şişme bebek olur, sümsüğü koyup susturmaya bile gerek kalmaz. <br/><br/>işte bu yüzden 30 yaşındaki kadınlar bekar beyler. <br/><br/>biz kendimizi sizin rezil fantezilerinize, tutarsız ahlak ölçeklerinize, iki yüzlü söylem ve eylemlerinize göre tanımlamıyoruz. bizim boyumuz sizin pantolonunuzun ağından daha uzun. ciğer yerine taşıdığınız leş bizim adımız değil. <br/><br/>biz kaliteli eğitim ve öğretim görmek istiyoruz. sizin bize vermeye tenezzül ettiğiniz " ilgi alanları " bize dar geliyor. uzaydan, fizikten, sanattan, tarihten bahsedebilmek istiyoruz. hangi ekolden geldiği, kimden para aldığı belirsiz hilkat garibelerinin yazdığı din kitapları ile bilmem ne ustaların çıkarttığı leş, kuşe kağıt yemek kitapları bize yetmiyor. <br/><br/>bize mahallelerimiz dar geliyor. gözümüzün açılmasından, farklılığı fark etmemizden, mukayese yeteneği geliştirmemizden ödünüz kopuyor ya; daha da korkun. korkudan geberin, yığılın sokak köşelerine. kimse de kaldırmasın, abide niyetine kokun mazgal tepelerinde. siz yerinizde sabit kalabilesiniz diye bizi sıkıştırmak istediğiniz kontrollü alanlar, belirlenmiş yaşamlar ancak muhabbet kuşlarına yeter. duymak istediğiniz cümleleri boncuğunuza, mavişinize ezberletin. <br/><br/>biz üretmek istiyoruz. fabrikada da, sanayide de, sürücü koltuğunda da, devletin en tepesinde de yerimiz var. yenilik getirmek isteyen hemcinslerinize bile kazmadığınız kuyu kalmıyor, tevekkeli, kadının pay sahibi olup işi ele almasına direniyorsunuz. <br/><br/>biz iyi ya da kötü, bu toplumun bir parçası; etkeni olmak istiyoruz. bizi paranoyalara, kumaşlara, geleneklere dolayıp gümüşlükte saklamaya çalışıyorsunuz ya; biz antika vazo ya da tipsiz biblodan fazlasıyız. biz toplumun sayısal yarısı, gizli mimarı, emek yoğun çalışanıyız. kaderlerimizi iki yüzlü, çelişkiden geberecek menfaatçilere teslim etmek istemiyoruz. <br/><br/>mesela biz çocuk sahibi olursak, ona öğretebileceğimiz bir şeyler olsun istiyoruz. dünyadan bihaber, kendisine vermeye tenezzül ettiklerini tekrarlayan, korkak, bilgisiz, görgüsüz kuluçka makineleri olmak istemiyoruz. çocuğumuza öğretecek bir çalgı bilelim, sorularına yanıt verecek donanımı kuralım, başı sıkıştığında öğüt verebilelim istiyoruz. <br/><br/>işte bu yüzden, önümüze çıkan ilk adamla evlenmek istemiyoruz. <br/><br/>daha doğrusu, biz sizinle evlenmek istemiyoruz. <br/><br/>biz ahlakına ve omurgasına güvenebileceğimiz erkekler istiyoruz. arkası dönükken bile üstümüzdeki hakkını savunmamızı hak edecek adamlar istiyoruz. saygı duygusuna sahip, adil, haddini yolu yordamı üslubu bilen erkekleri övüyoruz. iki kelime sohbet edebileceğimiz, bize bir şeyler öğretebilecek, hayatı paylaşabileceğimize inandığımız erkeklere evet diyoruz. <br/><br/>yani bunca küfrünüzün, iftiranızın, karalamanızın sebebi gün ışığı gibi ortada: standartlar yükseldi. <br/><br/>daha iyisi olmak yerine, daha iyiyi arayan kadınları tüm ilkelliğinizle geriye çekmeye çalışıyorsunuz sadece. çünkü biliyorsunuz, başaramazsınız evde kalan asıl siz olacaksınız.
 - entry_name: |
     ali nesin
   entry_id:  68608211
   entry_writer: draconian
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     "<a class="b" href="/?q=emre+kongar">emre kongar</a>’la aynı partide olmak istemem, ama bir ıssız adada ya da bir hücrede illa biriyle kalmak zorundaysam, bu kişinin emre kongar olmasına sevinirim!"<br/><br/>burda ozetlemis zaten bu "yetmez ama evetci" zihniyet nerede bulunmak istedigini. sike sike laik-solcu-ataturkculere muhtacsiniz bu ulkede birakin bu turbana ozgurlukcu, ezilen yiginlar palavralarini artik. islamcilarin ilk firsatta gotunuzu kesecegini adiniz gibi biliyorunuz. cakma aydinlar sizi.<br/><br/>70 yasina gelse de simarik itin teki.
+- entry_name: |
+    sütyenin içini doldurabilen kadın
+  entry_id:  68615372
+  entry_writer: nicklerin arkasina saklanmayan melih
+  entry_fav_count: 58
+  entry_content: |
+    (bkz: <a class="b" href="/?q=iftardan+sonra+burday%c4%b1m+sen+devam+et">iftardan sonra burdayım sen devam et</a>)
 - entry_name: |
     armindo tue na bangna
   entry_id:  68609021
   entry_writer: grind
-  entry_fav_count: 55
+  entry_fav_count: 56
   entry_content: |
     <a class="b" href="/?q=galatasaray">galatasaray</a>lı olmamama rağmen artık ciddi ciddi galatasaray için üzülmeme sebep olan genç ve yetenekli futbolcu. <br/><br/>gerçekten hayatımda gördüğüm en kötü yönetime sahip galatasaray ve klübe yazık oluyor.<br/><br/>resmen bedava denilebilecek bir fiyata göz göre göre veriyorlar adamı. eğer <a class="b" href="/?q=leipzig">leipzig</a>'de ciddi bir sakatlık yaşamazsa ya en az 40 milyon euro'ya daha büyük bir takıma satılacak ya da uzun yıllar takıma hizmet edip efsane olacak. tabi ki ilk ihtimal çok daha olası. ikinci bir <a class="b" href="/?q=ribery">ribery</a> vakası olacağı çok bariz.<br/><br/>işin ekonomik tarafını bırakırsak, gs'de şu anda gerçekten oynayan 4 topçu var: bruma, <a class="b" href="/?q=podolski">podolski</a>, <a class="b" href="/?q=muslera">muslera</a> ve <a class="b" href="/?q=sneijder">sneijder</a>. adamlar bunların 2'sini sattı bile. yerine de düzgün transfer yapacaklarına inanan yoktur sanırım. bu da demek oluyor ki gs seneye de en fazla 3.lük yarışında olur.
 - entry_name: |
     akp'den başka iktidar görmeyen nesil
   entry_id:  68601934
   entry_writer: gri balikcil
-  entry_fav_count: 55
+  entry_fav_count: 56
   entry_content: |
     üzüldüğüm nesil. gerçi öncesi çok mu matahtı, ben de ya çocuk ya da umursamayacak kadar ergen olduğum için bilmiyorum ama bayağı renkli idi. bir de eleştiri, hiciv falan serbestti. rahmetli erdal inönü'nün bildiğin karga olarak resmedildiği bir karikatür hatırlıyorum. shp-dyp koalisyonundan önce galiba. demirel'di sanırım, başka birini de tilki olarak resmetmişlerdi. çocuk aklımla "bunu nasıl çizmişler, adamlar kızmaz mı?" diye düşünmüştüm. kızmazlarmış valla. ne kadar ilginç geliyor şu an.
-- entry_name: |
-    sütyenin içini doldurabilen kadın
-  entry_id:  68615372
-  entry_writer: nicklerin arkasina saklanmayan melih
-  entry_fav_count: 52
-  entry_content: |
-    (bkz: <a class="b" href="/?q=iftardan+sonra+burday%c4%b1m+sen+devam+et">iftardan sonra burdayım sen devam et</a>)
 - entry_name: |
     ekşi itiraf
   entry_id:  68599788
@@ -150,6 +150,13 @@ data:
   entry_content: |
     kime derdimi anlatsam hep daha kötü durumda olan insanlardan örnekler veriyor. <br/>ne yapayım abi elimden bu kadar geldi <br/><a class="b" href="/?q=daha+beter+olamad%c4%b1m">daha beter olamadım</a>!
 - entry_name: |
+    ateizm ve ensestlik
+  entry_id:  68617188
+  entry_writer: garipbasci
+  entry_fav_count: 41
+  entry_content: |
+    din yasaklamasa anasına bacısına sarkacak insanların arada ilişki kurmaya çalıştığı ikili.<br/><br/>ateizmin kardeşle sevişmesini engelleyen şey neymiş diye soruyor bir de. <br/><br/>cevap veriyorum: vicdan, beyin, mide.<br/><br/>çoğu sizde yok biliyoruz.
+- entry_name: |
     evli kadınla birlikte olmak
   entry_id:  68599827
   entry_writer: motions
@@ -157,12 +164,12 @@ data:
   entry_content: |
     kadın ya da erkek farketmeksizin şöyle düşünün; güzel bir evlilik üstüne de çocuğunu yapmışsın. evindeki insanlar mutlu olsun diye hayatında kendi birçok kişisel zevklerini terk etmişsin. eşin daha mutlu olsun çocuğun birşeylerden mahrum kalmasın diye hayatını organize etmişsin. onları mutlu ediyorsun, onların mutluluğu seni mutlu ediyor. hayatındaki herşeyi evindeki insanlara göre yaşıyorsun. <br/><br/>lakin hiç birşeyden haberin yok ama üçüncü bir kişi daha dahil olmuş. sen hayatını belirli bir düzeyde yaşarken senin diğer yarın başka bir heyecan başka bir hayat yaşıyor. akşam evdeyken normal bir evliliğinin olduğunu sanıyorsun. ahlak, etik, hukuk konularına girmeyeceğim.<br/><br/>bunları hem kadın hem erkek için yazıyorum. eğer aşık olduysan boşan arkadaşım git aşkınla evlen. ortaya çıkarsa evli olunan kişinin canı yanar. hiç kimsenin başkasına benim nazarımda bunu yapmaya hakkı yoktur. mesele basit boşanmak istiyorum de sonra git kaç kişiyle olacaksan ol. diğer türlü hem evdeki rahatından vazgeçme, gündüz ayrı akşam ayrı yatakta yat... sonra aşık oldum. <br/><br/>meşrulaştırılacak birşey değil.
 - entry_name: |
-    #pınarürünleriboykot
-  entry_id:  68606093
-  entry_writer: macave
-  entry_fav_count: 31
+    asla evlenilmeyecek 10 kadın
+  entry_id:  68600885
+  entry_writer: entry sirinleyen sirin
+  entry_fav_count: 36
   entry_content: |
-    herkes burada mi ? devam mi gençler
+    her şeye tamam ama "ingilizce bilmeyen kadın" nedir allasen:)) <br/>3. dünya ülkesi olduğumuz nasıl da belli ya. adam iş mülakatı gibi şeyler sıralamış, ezikler ahahaha
 - entry_name: |
     annesi erasmus'a gitmiş adam
   entry_id:  68613463
@@ -185,13 +192,6 @@ data:
   entry_content: |
     saat 21:30 da trtspor kanalında yayınlanacak maç.<br/><br/>kutsal bilgi kaynağı mı ana-bacı küfürleşme platformu mu belli değil. bir kişide çıkıp şunu yazmamış, çok ilginç gerçekten.<br/><br/>edit: kanalı yazıp desteklediğimiz takımı yazmayı unutmuşuz iyimi.<br/><br/>forza göztepe!
 - entry_name: |
-    kız bilgisayarı
-  entry_id:  68608604
-  entry_writer: tutsky yanchek
-  entry_fav_count: 24
-  entry_content: |
-    açıldığı an kasmaya başlar. <br/><br/>istisnasına rastlamadım.
-- entry_name: |
     ekşi sözlük koru hastanesi ilişkisi
   entry_id:  68602234
   entry_writer: onuraydin
@@ -213,17 +213,17 @@ data:
   entry_content: |
     türkiye'deki ailelerin %99'udur. siz evde reisin erkek olduğunu mu sanıyorsunuz? evde yemek pişmediğinde aç kalan reis mi olur?<br/><br/>evin reisi kadındır.
 - entry_name: |
-    ali koç
-  entry_id:  68600735
-  entry_writer: c unitt c
+    real madrid
+  entry_id:  68601191
+  entry_writer: leatherface
   entry_fav_count: 16
   entry_content: |
-    (bkz: <a class="b" href="/?q=make+fenerbah%c3%a7e+great+again">make fenerbahçe great again</a>)
+    finalde juventusu destekledim. hem buffon için hem de küçük yaşlarımdan itibaren juve'ye sempatim olduğu için. bir de artık ispanyol'ların döneminin kapanmasını istiyorum ama en azından sevindiğim bir şey var bu gece. barca'ya herkesin ''uzay takımı'', ''dünyanın gördüğü en iyi takım'' vs muhabbeti yaptığı dönem bile barca iki kez üst üste şampiyonlar ligi finaline çıkmadı. real madrid ise kupayı iki kez arka arkaya kazanan ilk takım oldu. son dört senede 3 final gördü. en azından barca'nın o jenerasyonunun gelmiş geçmiş en başarılı futbol takımı olduğu goygoyunu net olarak bitirdi real madrid.
 - entry_name: |
     izmir marşı'nı uyarlayarak atatürk'e söven akçomar
   entry_id:  68610686
   entry_writer: eksi sozlugu degistirecek insan
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     atatürk'e hakaret edecek kadar nefreti kim yeşertti kalbinde? bizim de hatamız var mı? bu gibi soruları soralım çözüm bulalım diye düşüneyim düşüneyim diyorum ama yok bu orosbu çocukları babadan oğula nesil bu amınakoyduğumu püüü orosbu çocukları çomarlar sizi. <br/><br/>tipini siktiğimin.
 - entry_name: |
@@ -234,12 +234,19 @@ data:
   entry_content: |
     anneannemin bile beklediği askerlik türü.<br/><br/>olsa ne güzel olur.
 - entry_name: |
-    ateizm ve ensestlik
-  entry_id:  68617134
-  entry_writer: sireltoro
-  entry_fav_count: 14
+    zeki kadınların genelde yalnız olması
+  entry_id:  68615812
+  entry_writer: sigara kibrit
+  entry_fav_count: 13
   entry_content: |
-    anasına hallenmemesi gerektiğini kitaptan öğrenen yazar hezeyanı.<br/><br/>bunun gibi kendilerinden emin olmayan insanlar kendilerini kamufle etmek için bir yerlere ya da birilerine sığınırlar. bu onların, aslında kendileri tarafından bilinen ahlaksızlıklarının başkaları tarafından da bilinmesinin önlenmesini sağlamaya yönelik eylemlerdir. ahlaksız oldukları halde ahlaklıymış gibi görünmeye çalışan bu insanlar alçakca yollara tevessül ederek kendi buhranlarından kurtulmaya çalışırlar. aile yapıları ve içinde yaşadıkları toplumun tepkilerinden ödleri patlar, bu yüzden kendi özgür düşüncelerini üretmeye cesaret etmek yerine pısmayı ve var olana biat ederek dışlanma korkusunu yaşamamayı tercih ederler. bu korku o kadar yoğundur ki, bu korkuyu yaşayanlar kendileri gibi olmadığı için iktidar, sistem ve onun yarattığı toplum tarafından afaroz edilmiş olanlara ilk taşı atmak için sıraya girer ve bu sayede içlerindeki problemli yapının görünür olmasını engellemeye çalışırlar.bu korku bazen öyle bir hınca dönüşür ki, kendilerinden olmayanlar bir anda düşman haline geliverir.<br/><br/>edit : evet, kendine peygamberim diyen, bir zamanlar evlatlığının eşi olan kadınla evlenmiştir. ve yine inancına göre insan, ensest ilişkinin ürünüdür. tüm bunlar binlerce yıldır tek harfine dokunulmadığını iddia ettiğiniz kitapta yazıyor.
+    "yanında aptal bir kadın olan bir sürü zeki adam görürsünüz ama yanında aptal bir adam olan zeki kadın kolay kolay göremezsiniz." -erica jong<br/><br/>erkeklerin çoğu şekilcidir. büyük göğüslü, iri kalçalı, harika bacaklı, yönetmesi kolay aptal kadınlar varken yönetmesi zor, zeki kadın ile kimse ilgilenmez.
+- entry_name: |
+    içki içmeyen insanlar
+  entry_id:  68616367
+  entry_writer: dubdub
+  entry_fav_count: 13
+  entry_content: |
+    yok sıkıcıymış da yok hayattan keyif almıyormuş da ıvır zıvır. koca hayatı buna indirgemek müthiş bir şey olsa gerek.
 - entry_name: |
     zeki bir insan olmanın işe yaramadığı yerler
   entry_id:  68600425
@@ -248,19 +255,26 @@ data:
   entry_content: |
     nasil yazilmamis, hayret:<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck">ekşi sözlük</a>)
 - entry_name: |
-    zeki kadınların genelde yalnız olması
-  entry_id:  68615812
-  entry_writer: sigara kibrit
+    gelirken rakı al münir nurettin dinleriz diyen kız
+  entry_id:  68616575
+  entry_writer: always good
   entry_fav_count: 9
   entry_content: |
-    "yanında aptal bir kadın olan bir sürü zeki adam görürsünüz ama yanında aptal bir adam olan zeki kadın kolay kolay göremezsiniz." -erica jong<br/><br/>erkeklerin çoğu şekilcidir. büyük göğüslü, iri kalçalı, harika bacaklı, yönetmesi kolay aptal kadınlar varken yönetmesi zor, zeki kadın ile kimse ilgilenmez.
+    ikinci dünya savaşı'nın tanığıdır.
 - entry_name: |
-    yerli üretim araçlarda ötv'nin düşürülmesi
-  entry_id:  68616188
-  entry_writer: mhmt4ever
+    yerli ve milli seks robotu
+  entry_id:  68601410
+  entry_writer: dunyanin en iyi sitem eden adami
   entry_fav_count: 8
   entry_content: |
-    yerli üretim araç derken?<br/><br/>(bkz: <a class="b" href="/?q=404+not+found">404 not found</a>)
+    off bir de bunun teknik servisi olur ki...<br/>demirden yarak olsa kıranlar olacaktır,<br/>çelikten am olsa menisiyle eriten alien'lar olacaktır. bunların hepsiyle uğraşan biri nasıl o psikolojiyi ayakta tutacak hiç soran yok. <br/>ayrıca rezalet başlıklarına hiç girmiyorum.<br/>bilmem ne firmasının yedek sik, am, rezaletleri...<br/><br/>- beyfendi bu modeller sadece vajinal ilişki için uygun, siz buna fiili livata uygulamışsınız..kısa devre var komple değişim gereki...<br/>+ ney ney lavaş mı?<br/>- bu modelleri götten sikemezsiniz beyfendi..değişim gereki...<br/>+ ne demek sikemezsin?
+- entry_name: |
+    mahallenin muhtarları
+  entry_id:  68612737
+  entry_writer: kuba gibiyim kendi kendime yeti
+  entry_fav_count: 8
+  entry_content: |
+    tayyip erdoğan' ın muhtarları olarak adı değiştirilmelidir.
 - entry_name: |
     dünya dışı bir gezegende sıfırdan medeniyet kurmak
   entry_id:  68615834
@@ -269,19 +283,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=%c4%b1saac+asimov">ısaac asimov</a>) yazarın kitaplarını okumanızı öneririm.. binlerce yıl sonrası, insanoğlu samanyolu galaksisindeki yaşanabilecek bütün gezegenlere yerleşmişlerdir.. milyar×milyar insan bulunmakta.. konu ile ilgili kitapları çok.. <br/><br/>ve olması gereken durum.. dünya kendisini tüketiyor.. artık organik olmayan bişi kalmadı.. çok hızlı bir tüketim başladı.. ha, bu medeniyet çok rahat kurulur, yeterki ışık hızını kat be kat alabilecek gemiler yapılsın yeter.. <br/><br/>ama burada sorulması gereken asıl soru, o gezegenin suyu ile abdest alınır mı..
 - entry_name: |
-    yerli ve milli seks robotu
-  entry_id:  68601410
-  entry_writer: dunyanin en iyi sitem eden adami
-  entry_fav_count: 7
+    9 kasım 2016'da eyüp'te kaybolan kedi yoğurt
+  entry_id:  68609398
+  entry_writer: gabircik
+  entry_fav_count: 8
   entry_content: |
-    off bir de bunun teknik servisi olur ki...<br/>demirden yarak olsa kıranlar olacaktır,<br/>çelikten am olsa menisiyle eriten alien'lar olacaktır. bunların hepsiyle uğraşan biri nasıl o psikolojiyi ayakta tutacak hiç soran yok. <br/>ayrıca rezalet başlıklarına hiç girmiyorum.<br/>bilmem ne firmasının yedek sik, am, rezaletleri...<br/><br/>- beyfendi bu modeller sadece vajinal ilişki için uygun, siz buna fiili livata uygulamışsınız..kısa devre var komple değişim gereki...<br/>+ ney ney lavaş mı?<br/>- bu modelleri götten sikemezsiniz beyfendi..değişim gereki...<br/>+ ne demek sikemezsin?
-- entry_name: |
-    mahallenin muhtarları
-  entry_id:  68612737
-  entry_writer: kuba gibiyim kendi kendime yeti
-  entry_fav_count: 7
-  entry_content: |
-    tayyip erdoğan' ın muhtarları olarak adı değiştirilmelidir.
+    9 kasım 2016'da istanbul eyüp pazariçi mahallesi ordu caddesinde kaybolan kedidir. bir an evvel bulup ailesine kavuşturursak hem alzheimer'lı bir yaşlı dedeye hem de hasta ve özel bakılması gereken bir kediye büyük iyilik etmiş olacağız.<br/><br/>hikayesini yoğurt'un ailesinden dinleyelim:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/permalink.php?story_fbid=215921982233513&amp;id=100014471385842&amp;pnref=story" title="https://www.facebook.com/permalink.php?story_fbid=215921982233513&amp;id=100014471385842&amp;pnref=story">kayıp kedi yoğurt</a><br/><br/>evde 84 yasindaki dedemiz alzaymir. esi oldukten sonra hastaligi bir sure hizli sekilde ilerledi. sonra yogurt gelmisti, onunla hersey yavas ilerliyor ikisi de zamanini evde birlikte geciriyorlardi, birlikte uyuyup birlikte uyaniyorlardi. gece yarisi cise kalkan kedi icin yoklugunu hissettigi an dogru duzgun yuruyemez haliyle bile o da kalkar, arar ve yataga geri oturana kadar uyumazdi.<br/><br/>simdi yogurt kayip, 9 kasim'dan beri her ayin 9'unda eklenen ay, hem bu hasta adamin hem de bu hasta kedinin alehine isliyor. ara sira benim bile ismimi baska akrabalarinin ismiyle karistirsa bile her gun onu sorup hala gelmeyisine uzuluyor. yogurt'u ararken gelen bir ihbar uzerine sokakta olmek uzere olan mavi gozlu sagir ve ileri derecede hasta baska bir kedi bulmustuk, onun bakimini ustlendik. belki yogurt sanar da uzuntusu azalir dedik ama o yogurt'u taniyor.<br/><br/>basta bu bizim kuzu degil alin bunu bile diyordu. evde onun iyilesme surecine tanik olup yavas yavas alissa da, arada hala bu bizim kedimiz degil dese de kabullendi sayilir. ama asla yogurt'u icine dert etmeyi bitirmeyecek.<br/><br/>onsuz uyuyamadigi icin gecelerimiz de bir zor geciyor, her gece en az 3 kere uyanip aramaya kalkisirken durdurup durumu bastan anlatiyoruz. ama gelecek diyoruz. cunku gelecek, baska bir ihtimal yok ne onun ne de bizim icin.<br/><br/>••• malesef bizi "insallah"lar "masallah"lar "gecmis olsun"lar iyilestirmeyecek. her bir paylasim butonuna basisinizdaki artan umudumuz iyilestirecek. ıkisinin de sagligi icin paylasimlarinizi bize cok gormeyin.<br/><br/>normalde aylardir bu konunun sozunu etmemistim birkac kisi haric ama artik gercekten zaman gectikce yogurt icin olan endisemiz de artti. bize acimayan belki bu adama acir artik diye anlatiyorum. herhangi birinin cevresindeki bir evde olabilir. bizim hayatimizi tekrar eski haline cevirecek sey sadece haber vermeniz.<br/><br/>0537 781 60 02<br/>---------------<br/><br/>#yogurt hala kayip. onu alıkoyan kısılere ulasmamıza yardım edın kedımız hasta. onlara direkt ulasamasak bile onlari taniyan insanlara ulasabiliriz sayenizde.<br/><br/>ıletısım: 0537 781 6002 odullu kayıp ılanı<br/><br/>aranan yer: başta #ıstanbul/ #gaziosmanpasa- #eyüp, #pazariçi- #pierreloti civari olmak üzere, türkiye'deki tüm evler<br/><br/>kedimizin adi #yogurt. kendisi 3 yasinda, yesil gozlu, iri ve yuvarlak hatlara sahip vucutlu, ismine tepkili beyaz bir kedi. malesef #kasım ayinda evden kacarak kayboldu, -----birisinin onu aldıgı gorulmus ve bu elimize ulasan ona dair son bilgi. <br/>kedimizin bobrekleri icin ozel bir bakim gerekli ve normal kedi mamasi yememeli. yoksa idrar yollarindan bobreklerine ve hatta diger organlarina kadar zarar gorebilir ileride. $$$$$ yer fark etmeksizin sizin yapacaginiz her bir paylasim bizim ve yogurt'un hayatini tamamen degistirebilecek oneme sahip. $$$$$<br/><br/>%%%%%% #kasim2016'dan beri yeni beyaz yetiskin bir kedi sahiplenen herkesi bize bildirin lutfen. akraba, komsu, tanidik, arkadas... farkli illerden de haber cikabilir. %%%%%%<br/><br/>bir cani zehirlenmeden once, en kisa surede kurtarabilmemize yardimci olun. dogru ihbari yapan kisiye tesekkur olarak para odulu verilecektir.<br/><br/>---------------<br/><br/>muge anlı'nin bize yardim edebilmesi icin lutfen siz de bu ilani onlara gonderin ki hem dedemizin hem de kedimizin sagligini el birligiyle kurtaralim<br/><br/>muge anli whatsapp ıhbar hatti:<br/>0535 365 52 52
 - entry_name: |
     bir maçlık şike küme düşürmez diyen ts yöneticisi
   entry_id:  68614867
@@ -290,19 +297,19 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=anayasay%c4%b1+bir+kere+delmekle+bir+%c5%9fey+olmaz">anayasayı bir kere delmekle bir şey olmaz</a>)
 - entry_name: |
-    içki içmeyen insanlar
-  entry_id:  68616367
-  entry_writer: dubdub
-  entry_fav_count: 6
+    kız bilgisayarı
+  entry_id:  68608590
+  entry_writer: hijyene onem veren elit bey
+  entry_fav_count: 5
   entry_content: |
-    yok sıkıcıymış da yok hayattan keyif almıyormuş da ıvır zıvır. koca hayatı buna indirgemek müthiş bir şey olsa gerek.
+    sayesinde sozluk'teki butun kizlarin macintosh kullanan yazilim muhendisleri oldugunu ogrendigimiz bilgisayar.
 - entry_name: |
-    gelirken rakı al münir nurettin dinleriz diyen kız
-  entry_id:  68616575
-  entry_writer: always good
-  entry_fav_count: 6
+    trabzonspor
+  entry_id:  68603723
+  entry_writer: cinayet saatinde uyuyakalmak
+  entry_fav_count: 4
   entry_content: |
-    ikinci dünya savaşı'nın tanığıdır.
+    o degilde anadolunun bagrindan cikmis comarlar kendi sehrinin takimini degil de istanbul takimlarini tutuyorlar, sonra da zirliyorlar.<br/><br/>rize gibi, rizeliler sirf trabzon dusmanligindan yuzde 90 i fenerlidir. senin neyine lan fener! ezikler sizi...
 - entry_name: |
     windows 10
   entry_id:  68611049
@@ -325,31 +332,24 @@ data:
   entry_content: |
     yaptığı hırsızlığa ses çıkarılmayacağını zannetmiştir ancak avucunu yalamıştır. tabii her yeri türkiye, herkesi de türk zannedecek bir vizyonda olduğu belli. <br/><br/>yedirirler mi lan sana adamlar emek verdikleri şarkıyı?
 - entry_name: |
-    terör saldırılarının dinlerle alakası olmaması
-  entry_id:  68608423
-  entry_writer: nikkalmamisla
+    ali koç
+  entry_id:  68601949
+  entry_writer: princess allura
+  entry_fav_count: 2
+  entry_content: |
+    fenere değil de ülkeye başkan olsa keşke dedirten başarılı işadamı, hem de hasta beşiktaşlı olmama rağmen
+- entry_name: |
+    yerli üretim araçlarda ötv'nin düşürülmesi
+  entry_id:  68616583
+  entry_writer: rxpu
   entry_fav_count: 1
   entry_content: |
-    <a class="b" href="/?q=cihad">cihad</a> denen olgu varken boşa çıkan önermedir. düşünsene sen kendi halinde dinini yaşıyorsun ama komşu ülke seni kendi dinlerine geçirmek için saldırıya geçiyor. korkmaz mısın, korkarsın. al işte terör.
-- entry_name: |
-    wonder woman
-  entry_id:  68613181
-  entry_writer: teslaya akil veren adam
-  entry_fav_count: 0
-  entry_content: |
-    bence origin için gayet iyi film. ılk yarısında bazı noktalarda sıkıldım ancak ikinci yarısı gerçekten sürükleyici idi. wonder womenı karakter olarak düşündüğüm de dc comicsin kaptan amerikası bence. değerlendirmem 8.5/10. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>wayne holdingi görmek güzeldi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    uluslararası anlaşmalara göre mümkün olmayan eylemdir. dünya ticaret örgütü kurallarına aykırıdır. türkiye dünya ticaret örgütü ile anlaşmasını fesh edebilir. ancak bu durumda da türkiye'nin yaptığı ihracat üzerine mütekabiliyet ilkesine göre benzer ya da misli ile vergi uygulanmasının yolu açılmış olur. kısacası uygulanması türkiye'nin çıkarına bir uygulama değildir. ancak yerli otomobil'in imalatı için teşvik ve maddi yardımda bulunmak uluslararası kurallara aykırı değildir. satış aşamasındaki vergilendirmeler yapılan anlaşmalara uygun olmalıdır.
 - entry_name: |
     para aşk sağlık olsa bile mutsuz olmak
   entry_id:  68610038
   entry_writer: semenderrr
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     can sıkıcı bir başlıktır. para yok, evliyim atanamadim, is de bulamiyorum. aşk yok, eşimi artik sevmiyorum. sağlık yok, son bes senedir yuzde atmis isitme engelliyim ve devlet rapor vermiyor. is bulamama sebebim engelli olusum, yas otuz, avuc ici kadar mutluluga yillardir hasretim.
-- entry_name: |
-    9 kasım 2016'da eyüp'te kaybolan kedi yoğurt
-  entry_id:  68609590
-  entry_writer: eksi peace
-  entry_fav_count: 0
-  entry_content: |
-    en kısa sürede bulunmasını temenni ettiğim kedidir.<br/><br/>müge anlı'dan medet umuluyorsa yoğurt kedi cacık olduğunda bulunur ancak.<br/><br/>kendisi zor durumdaki insanları, başına dert açılır korkusuyla kovabilen biri.<br/><br/>(bkz: <a class="b" href="/?q=10-15+yerinden+b%c4%b1%c3%a7aklad%c4%b1m+b%c4%b1%c3%a7ak+kolay+girip+%c3%a7%c4%b1kt%c4%b1">10-15 yerinden bıçakladım bıçak kolay girip çıktı</a>)<br/>(bkz: <a class="b" href="/entry/67950282">#67950282</a>)<br/>(bkz: <a class="b" href="/entry/67950866">#67950866</a>)
 ---
