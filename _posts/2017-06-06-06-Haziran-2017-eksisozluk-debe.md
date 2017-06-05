@@ -6,30 +6,44 @@ data:
     5 haziran 2017 katar krizi
   entry_id:  68626327
   entry_writer: hasihasi
-  entry_fav_count: 836
+  entry_fav_count: 841
   entry_content: |
     çeşitli arap ülkelerinin hangi teröristlerin destekleneceği konusunda yaşadıkları ayrılığın şiddetlenmesi hadisesi. <br/><br/>umarım böyle devam eder. hepsi tek örgütü desteklese haksız rekabet olur.
 - entry_name: |
     erkan tan'ın kılıçdaroğlu'nun orucunu sorgulaması
   entry_id:  68634215
   entry_writer: sosyalist derebeyi
-  entry_fav_count: 373
+  entry_fav_count: 380
   entry_content: |
     ''mezhepçilik suç olsun, böyle açıklamalar yapanlar yargılansın.'' dedirten densizlik.
 - entry_name: |
     turkish girls on erasmus are easy
   entry_id:  68620852
   entry_writer: robert downey jr jr
-  entry_fav_count: 367
+  entry_fav_count: 368
   entry_content: |
     6 aylık erasmus sürecinde bu gözler beni ispanyol zannedip sevişmek isteyen, akabinde türk olduğumu öğrenince vazgeçen ne türk kızları gördü. o yüzden büyük ölçüde haklı bulduğum tespittir.
+- entry_name: |
+    venezuela'da gm fabrikasının kamulaştırılması
+  entry_id:  68629309
+  entry_writer: paestum
+  entry_fav_count: 289
+  entry_content: |
+    lan venezuela'da %51 ile fabrikaya çökmüşler çok mu?<br/>%51 ile çökülen ülke biliyoruz biz.
 - entry_name: |
     izmir'de bir suriyelinin iki genç kızı ezmesi
   entry_id:  68638110
   entry_writer: tykhess
-  entry_fav_count: 173
+  entry_fav_count: 189
   entry_content: |
     ınsan başına gelmeden karakteriyle ilgili atıp tutmamalıymış. <a class="b" href="/?q=%c4%b1rk%c3%a7%c4%b1">ırkçı</a> olmadığımı sanırdım. uzaktan her milleti sevmek kolaydı ama dibimizdeyken bunu söylemek çok güç.<br/><br/>ben denizdeyken sahildeki esyalarimın, havlumun üstüne rahat rahat oturan tiplerden, market çıkışında çocuğuna aldığım mamayı beğenmeyip bez al diyenden, para ver diyenlerden, sadece bedeni küçük geldiğinden üstelik bazılarının hatırası varken, olsun biri giysin ısınsın diye verdiğim kıyafetleri mevsimi degil diye sokaklara atanlardan, utanması, sıkılması, edebi olmayan bu milletten midem bulanıyor.<br/><br/>gecmis olsun.
+- entry_name: |
+    instagram
+  entry_id:  68628795
+  entry_writer: multipuss
+  entry_fav_count: 173
+  entry_content: |
+    kendini pazarlama sitesi. para kazanmanıza gerek yok. 178 takipçinize hayatınızın ne kadar güzel olduğunu göstermek için en güzel uygulama. en mutlu ilişki sizde, dünyanın en minnoş bebeğine siz sahipsiniz ve tabii ki en müthiş anne de sizsiniz. işinizde çok başarılısınız, beyaz yakalısı olduğunuz şirketi temsilen yine başka bir şehirde/ülkede koşturmaktan ara vermiş, çirkin bacağınızın da kadrajda olduğu içecekli fotonuzu yoksa başka nereden paylaşacaktınız?!her haftasonu yeni bir mekandasınız, kahvaltıyı asla evde yapmazsınız. tabii ki hep arkadaşlarla takılan süper sosyal kişilersiniz ama kahve/kitap keyfi sizin vazgeçilmeziniz. bayramlarda geniş aile resmi paylaştıktan sonra tabii ki "bir yerlere kaçarsınız" ve "huzur" tagiyle paylaşmazsanız asla huzura ermezsiniz. her şeyin en güzelini yemek hakkınız ne de olsa spor yaparken milyon tane enstantane paylaştınız, biliyoruz ki spor yapıyorsunuz. kadınsanız pilates/yoga minderinde, erkekseniz ayna karşısında ağırlıktan şişmiş şekilsiz biceps fotolarınızı tabii ki gördük. işin acıklısı paylaştığınız çoğu fotoda estetik olgusundan eser yok. hepinizin hayatı nasıl da aynı, nasıl da vasat. çok farklı sandığınız hayatlarınız kimseninkinden farklı değil. <br/><br/>bi kaç gündür iran şahı <a class="b" href="/?q=nas%c4%b1reddin+ka%c3%a7ar">nasıreddin kaçar</a>'ın harem fotoları paylaşılıp oradaki kadınlarla dalga geçilen paylaşımlar yapılıyor. yaklaşık 150 yıl önce yaşamış bu kadınlar için "beni reddetmezse ben kendimi öldürürüm bööyk iğrenç şeyler" yazan hırbolar, mallar, dalyaraklar, 150 yıl sonra sizin maymun götü suratınız için de büyük ihtimal aynı şeyler yazılıp çizilecek. saatlerinizi, paracıklarınızı harcadığınız moda/güzellik/başarı kavramları hep gelip geçici. belki 15-20 yıl sonra bile kendi resminize bakıp hay o günkü aklıma zıçayım diyeceksiniz. ama o zaman da başka akımlarım köpeği olacaksınız.<br/><br/>instagram sanal ortamın insan pazarıdır. kendi arkadaşlarıma sinir olmaya başladığımdan ben tüm mobil uygulamalarımdan sildim. halbuki günde rahat 1-2 saatimi geçirdiğim bir uygulamaydı. kafam rahatladı arkadaşlar. insan görmeyince çevresindekilerin ne mal olduğunu dakika başı hatırlamıyor. tavsiye ediyorum.<br/><br/>edit: <a class="b" href="/?q=n2es">n2es</a> dedi ki iran şahı haremi haberi doğru değil, o dönem iran'da sergilenen bir tiyatro oyunundan, erkek oyuncuların resmi imiş. o bıyıklı kadınlar aslında kadın değilmiş yani erkek tiyatro oyuncularıymış.
 - entry_name: |
     yılmaz vural
   entry_id:  68621883
@@ -38,38 +52,24 @@ data:
   entry_content: |
     bu adamın çalıştırdığı her takım lig değiştiriyo.
 - entry_name: |
-    instagram
-  entry_id:  68628795
-  entry_writer: multipuss
-  entry_fav_count: 168
+    türk erkeklerinin kolay lokma olması
+  entry_id:  68632435
+  entry_writer: darthwater
+  entry_fav_count: 138
   entry_content: |
-    kendini pazarlama sitesi. para kazanmanıza gerek yok. 178 takipçinize hayatınızın ne kadar güzel olduğunu göstermek için en güzel uygulama. en mutlu ilişki sizde, dünyanın en minnoş bebeğine siz sahipsiniz ve tabii ki en müthiş anne de sizsiniz. işinizde çok başarılısınız, beyaz yakalısı olduğunuz şirketi temsilen yine başka bir şehirde/ülkede koşturmaktan ara vermiş, çirkin bacağınızın da kadrajda olduğu içecekli fotonuzu yoksa başka nereden paylaşacaktınız?!her haftasonu yeni bir mekandasınız, kahvaltıyı asla evde yapmazsınız. tabii ki hep arkadaşlarla takılan süper sosyal kişilersiniz ama kahve/kitap keyfi sizin vazgeçilmeziniz. bayramlarda geniş aile resmi paylaştıktan sonra tabii ki "bir yerlere kaçarsınız" ve "huzur" tagiyle paylaşmazsanız asla huzura ermezsiniz. her şeyin en güzelini yemek hakkınız ne de olsa spor yaparken milyon tane enstantane paylaştınız, biliyoruz ki spor yapıyorsunuz. kadınsanız pilates/yoga minderinde, erkekseniz ayna karşısında ağırlıktan şişmiş şekilsiz biceps fotolarınızı tabii ki gördük. işin acıklısı paylaştığınız çoğu fotoda estetik olgusundan eser yok. hepinizin hayatı nasıl da aynı, nasıl da vasat. çok farklı sandığınız hayatlarınız kimseninkinden farklı değil. <br/><br/>bi kaç gündür iran şahı <a class="b" href="/?q=nas%c4%b1reddin+ka%c3%a7ar">nasıreddin kaçar</a>'ın harem fotoları paylaşılıp oradaki kadınlarla dalga geçilen paylaşımlar yapılıyor. yaklaşık 150 yıl önce yaşamış bu kadınlar için "beni reddetmezse ben kendimi öldürürüm bööyk iğrenç şeyler" yazan hırbolar, mallar, dalyaraklar, 150 yıl sonra sizin maymun götü suratınız için de büyük ihtimal aynı şeyler yazılıp çizilecek. saatlerinizi, paracıklarınızı harcadığınız moda/güzellik/başarı kavramları hep gelip geçici. belki 15-20 yıl sonra bile kendi resminize bakıp hay o günkü aklıma zıçayım diyeceksiniz. ama o zaman da başka akımlarım köpeği olacaksınız.<br/><br/>instagram sanal ortamın insan pazarıdır. kendi arkadaşlarıma sinir olmaya başladığımdan ben tüm mobil uygulamalarımdan sildim. halbuki günde rahat 1-2 saatimi geçirdiğim bir uygulamaydı. kafam rahatladı arkadaşlar. insan görmeyince çevresindekilerin ne mal olduğunu dakika başı hatırlamıyor. tavsiye ediyorum.<br/><br/>edit: <a class="b" href="/?q=n2es">n2es</a> dedi ki iran şahı haremi haberi doğru değil, o dönem iran'da sergilenen bir tiyatro oyunundan, erkek oyuncuların resmi imiş. o bıyıklı kadınlar aslında kadın değilmiş yani erkek tiyatro oyuncularıymış.
-- entry_name: |
-    beşiktaş
-  entry_id:  68620313
-  entry_writer: kasar yaza
-  entry_fav_count: 143
-  entry_content: |
-    bu sene avrupa'da ilerilere gidilmesiyle birlikte çok yoğun bir sezon oldu. çok büyük mutluluklar da, çok büyük dramlar da yaşadık. ben bu seneden aklımda kalan fotoğrafları bu entry'e ekleyeceğim. hatta kendi entry'm olmasına rağmen favlayacağım ki ileride bu sezonu kolayca hatırlayabileyim. benim atladığım fotoğraflar illaki olacaktır. bunları bana mesaj olarak atarsanız bunu yaşayan bir entry haline getirebiliriz. katkıda bulunan arkadaşların nick'lerini de ekleyeceğim. şimdiden katkılarınıza teşekkürler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3q2Ea0.png" title="https://i.hizliresim.com/3q2Ea0.png">link</a> - kendi çektiğim bir fotoğrafla başlayayım. yeni stadımızda ilk <a class="b" href="/?q=%c5%9fampiyonlar+ligi">şampiyonlar ligi</a> seremonimiz. <a class="b" href="/?q=theme+song">theme song</a>'un başladığı anda tüyler diken diken olmuştu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/lWB1NQ.jpg" title="https://i.hizliresim.com/lWB1NQ.jpg">link</a> - <a class="b" href="/?q=%c5%9fampiyonlar+ligi">şampiyonlar ligi</a>'nde iddiasını devam ettirmek için mutlak puana ihtiyacı olan beşiktaş, <a class="b" href="/?q=benfica">benfica</a> karşısında ilk yarıyı 0-3 geride kapatıyordu. beşiktaş taraftarı boynu bükük soyunma odasına giden takımını tribüne çağırdı ve onları alkışladı. <a class="b" href="/?q=cenk+tosun">cenk tosun</a> bu vuruşuyla tarihe geçecek bir geri dönüşün fitilini ateşledi. 3-3. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/5Qpqlz.png" title="https://i.hizliresim.com/5Qpqlz.png">link</a> - desibel rekorları kıran taraftar, yeri gelince susmasını da bildi. <a class="b" href="/?q=benfica">benfica</a> maçının ilk dakikasında işitme engelliler için <a class="b" href="/?q=sessiz+tezahurat">sessiz tezahurat</a> yapıldı. ekleme için <a class="b" href="/?q=gule+gule+juventus+arrivederci">gule gule juventus arrivederci</a>'ye teşekkürler. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8dmYbn.png" title="https://i.hizliresim.com/8dmYbn.png">link</a> - bir başka geri dönüş maçı. 0-2 geriye düştüğümüz <a class="b" href="/?q=galatasaray">galatasaray</a> maçını 2-2'ye getirdiğimizde takımımızın ne kadar "takım" havasında olduğunun mesajını alıyorduk. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ERQJOz.jpg" title="https://i.hizliresim.com/ERQJOz.jpg">link</a> - <a class="b" href="/?q=%c5%9fampiyonlar+ligi">şampiyonlar ligi</a>'nde gruptan lider çıkma ihtimalini kiev'e taşıyan beşiktaş, hakemin katlettiği maçı 6-0 kaybetti ve şampiyonlar ligi'nden elendi. skor 4-0'ken <a class="b" href="/?q=fabricio+ramirez">fabricio ramirez</a>'in çaresizliği görüntülere böyle yansımıştı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Jld2GW.jpg" title="https://i.hizliresim.com/Jld2GW.jpg">link</a> - <a class="b" href="/?q=dinamo+kiev">dinamo kiev</a> maçı dönüşü. taraftar 6-0 kaybeden takımını havaalanında karşılıyor. "kaldırın kafanızı" diye bağırıyor. bir taraftar <a class="b" href="/?q=g%c3%b6khan+g%c3%b6n%c3%bcl">gökhan gönül</a>'ün kafasını kendi eliyle yukarı kaldırıyor. bana göre şampiyonluğun geldiği andır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Mv9k5g.jpg" title="https://i.hizliresim.com/Mv9k5g.jpg">link</a> - <a class="b" href="/?q=aziz+y%c4%b1ld%c4%b1r%c4%b1m">aziz yıldırım</a>'ın, "<a class="b" href="/?q=ricardo+quaresma">ricardo quaresma</a>'yı alır kulübede oturturum" çıkışının üzerine, kupa maçında ricardo quaresma formasını fenerbahçe tribünlerine gösteriyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/zBQ0lR.png" title="https://i.hizliresim.com/zBQ0lR.png">link</a> - <a class="b" href="/?q=bursaspor">bursaspor</a> maçının arkasından yaşanan elim saldırı sonucu, düğün için gittiğimiz yer bir şehit evi oldu ve bayrağı asıldı. allah tüm şehitlerimize rahmet eylesin, yenilerinden muhafaza etsin. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/WQWYmL.jpg" title="https://i.hizliresim.com/WQWYmL.jpg">link</a> - <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a>'in dominasyon karesi. fenerbahçe'yi aylar öncesinden yarıştan koparan beşiktaş, <a class="b" href="/?q=tt+stad%c4%b1">tt stadı</a>'nda <a class="b" href="/?q=galatasaray">galatasaray</a>'ı da yenerek yarıştan koparıyordu. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/lWB1nb.jpg" title="https://i.hizliresim.com/lWB1nb.jpg">link</a> - bu pozisyon yüzünden kupadan elendik ama beni en çok etkileyen fotoğraflardan biridir bu. beşiktaş'ın <a class="b" href="/?q=feda">feda</a> döneminden çıkıp diğer ikiliden hesap sormasının temsilidir bu fotoğraf. "dönüşümüz muhteşem olacak" demiştik. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/r2YE2B.jpg" title="https://i.hizliresim.com/r2YE2B.jpg">link</a> - seneler önce beşiktaş taraftarı "alnı öpülecek futbolcular istiyoruz" diye bir kampanya başlatmıştı. bundan ne <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a>'in haberi vardır, ne de <a class="b" href="/?q=anderson+talisca">anderson talisca</a>'nın. ama bu görüntü bize direkt o günleri hatırlattı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nWYp81.jpg" title="https://i.hizliresim.com/nWYp81.jpg">link</a> - taraftar bir figuran olmanın çok ötesindedir. bu hırsın yegane sebebi biziz. onları yüreklendiren, düştüklerinde ayağa kaldıran biziz. bu böyle olmaya devam edecek. fotoğraf için <a class="b" href="/?q=kelimelerle+oynayan+adam">kelimelerle oynayan adam</a>'a teşekkürler. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/BAo27D.jpg" title="https://i.hizliresim.com/BAo27D.jpg">link</a> - evimizdeki kardemir karabükspor maçında <a class="b" href="/?q=%c3%b6mer+%c5%9fi%c5%9fmano%c4%9flu">ömer şişmanoğlu</a>'nun babası. bu beşiktaş taraftarının çeşitliliğini de hatırlatan bir fotoğraf oldu. beşiktaş halkın takımıdır. hacısı da vardır, ayık gezmeyeni de vardır. ve bizi küçük düşürmek için kullandıkları tinercileri de vardır. her bir üyesiyle gurur duyuyoruz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/pWvERo.jpg" title="https://i.hizliresim.com/pWvERo.jpg">link</a> - <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>'ın avrupa'daki dik duruşunun somut hali. 10 kişi oynayarak <a class="b" href="/?q=avrupa+ligi">avrupa ligi</a>'nde çeyrek finale çıkarken gözümüzü <a class="b" href="/?q=stockholm">stockholm</a>'e dikmiştik bile. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/VM2EaP.jpg" title="https://i.hizliresim.com/VM2EaP.jpg">link</a> - dünyanın en büyük el yapımı pankartı. 3 yıllık göçebeliğin sonunda beşiktaş'a döndüğümüzü ilan ediyorduk.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Ddo33y.jpg" title="https://i.hizliresim.com/Ddo33y.jpg">link</a> - beşiktaş'ı kupadan yaptığı tahriklerle eleyen <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>, ligde de aynısını yapmaya çalıştı. <a class="b" href="/?q=anderson+talisca">anderson talisca</a>'nın, kendisine küfür eden <a class="b" href="/?q=volkan+demirel">volkan demirel</a>'e yaptığı hareket görüntülere böyle yansıdı. bu maçın sonunda fenerbahçe'nin şampiyonluk şansının kalmaması da ilginç bir ayrıntıdır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8dm86Q.jpg" title="https://i.hizliresim.com/8dm86Q.jpg">link</a> - sezon boyunca %94 pas yüzdesiyle oynayan, her oyuncunun -hatta iki maçta kalecinin bile- hatalarını telafi eden adam, beşiktaş taraftarının bile puan beklemediği <a class="b" href="/?q=trabzonspor">trabzonspor</a> maçında ileri çıkıp dördüncü golümüzü atıyordu. <a class="b" href="/?q=atiba+hutchinson">atiba hutchinson</a>'ın heykeli mutlaka semtte bi' yerlerde olmalı. tartışmaya kapalı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8dm8W7.jpg" title="https://i.hizliresim.com/8dm8W7.jpg">link</a> - yeni nesil çok şanslı. 1996'da doğan bi' genç 20 yaşında 2 şampiyonluk görmüşken, 2016'da doğan bir miniğimiz 1,5 yaşında 2 şampiyonluk gördü. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3q2Adr.jpg" title="https://i.hizliresim.com/3q2Adr.jpg">link</a> - kalan fikstüründeki nispeten zor olan maçı tamamlayan takımımız artık kupanın ışıltısını görüyordu. çocukların hırsı bitecek gibi değil. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/bGQdEG.jpg" title="https://i.hizliresim.com/bGQdEG.jpg">link</a> - bu kolaj fotoğraf da <a class="b" href="/?q=how+i+met+your+other">how i met your other</a>'dan geldi. şampiyonluğun geldiği anlarda <a class="b" href="/?q=%c3%a7ar%c5%9f%c4%b1">çarşı</a>'nın durumu. <a class="b" href="/?q=iftar">iftar</a> açanlar ve bira tokuşturanlar hep birlikte coşkuyu yaşıyorlar. ideal türkiye, bu semtte yaşanıyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3q2A59.jpg" title="https://i.hizliresim.com/3q2A59.jpg">link</a> - şampiyonluk maçında skor 0-4'e gelince bizim çocuklar rahat bir nefes almıştı. tüm beşiktaşlılar'ın oluşturduğu sevinç yumağının temsili de bu olmuştu. <a class="b" href="/?q=barcelona">barcelona</a>'da almadığı kupa kalmayan <a class="b" href="/?q=adriano+correira">adriano correira</a>'ya özellikle dikkat edin. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ZE2M1a.png" title="https://i.hizliresim.com/ZE2M1a.png">link</a> - kiralık katilimiz. neredeyse tüm büyük maçlarda ön plana çıktı. bu bakışı görüyorsanız, muhtemelen 5 saniye sonra topu ağlarınızdan alacaksınız. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3q2pyO.png" title="https://i.hizliresim.com/3q2pyO.png">link</a> - feda sezonunda oyuncularına maaş vermekte zorlanan beşiktaş'a tepeden bakıp "beşiktaş kafamı kızdırmasın, en iyi oyuncularını alırım" diyenlerin en iyi iki futbolcusu beşiktaş'a bedavaya geldi. ve bizimle şampiyon oldular. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/AkZ3rq.jpg" title="https://i.hizliresim.com/AkZ3rq.jpg">link</a> - adeta çölün ortasındaki olimpiyat stadı'nın duvarlarında bir yazı vardı feda sezonlarında. "gidelim buralardan inönü stadı'na, gidelim buralardan dolmabahçe yoluna" yazıyordu. o yazı ne büyük özlemlerle yazılmıştı bir biz bir allah biliyor. ve sonucunda iki sene üst üste motorları maviliklere sürdük. bozkırlardan geçsek de, yolumuz her zaman denizlere açıldı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8dmYdk.png" title="https://i.hizliresim.com/8dmYdk.png">link</a> - benden bir fotoğrafla devam edeyim. stadın inşaatı başladığında fotoğrafta gördüğünüz üç bayrak vardı sadece. o bayraklara bakarak 3 yıl geçirdik. şimdi o bayrağın arkasında yeni stadımız, önünde de şampiyon takımımız var. hayallerimiz tam olarak buydu. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/OLJEQ3.jpg" title="https://i.hizliresim.com/OLJEQ3.jpg">link</a> - rakiplere kalan tek bir şey vardı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/BAovm9.jpg" title="https://i.hizliresim.com/BAovm9.jpg">link</a> - <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a> üçüncü yıldızı gerçek anlamda da armamıza taktı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/G0b3rN.jpg" title="https://i.hizliresim.com/G0b3rN.jpg">link</a> - beşiktaş'a gelirken <a class="b" href="/?q=loser">loser</a> olduğu söylenen <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a>. bu görüntü oluşurken, "seneye daha iyi olacağız, bunlar yetmez" diyordu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/lWBbAE.jpg" title="https://i.hizliresim.com/lWBbAE.jpg">link</a> - şampiyon başkan. kızdığımız demeçleri ve işleri olsa da beşiktaş'ın küllerinden doğumuna en büyük yardımı yapan odur. 8 yıl beşiktaş'ın başında kalan <a class="b" href="/?q=y%c4%b1ld%c4%b1r%c4%b1m+demir%c3%b6ren">yıldırım demirören</a> 1 şampiyonluk verebilirken, 5 yılda 2 şampiyonluk kazandırması yaptığı işi özetliyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9dvAOO.jpg" title="https://i.hizliresim.com/9dvAOO.jpg">link</a> - köprüde kimin bayrağının dalgalandığı önemli değil. gerçek bir şey varsa, o köprünün altından çok sular aktı. artık en büyük olma yoluna girmiş beşiktaş'ı durduramayacaklarının farkındalar. fotoğraf için <a class="b" href="/?q=kelimelerle+oynayan+adam">kelimelerle oynayan adam</a>'a çok teşekkürler. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nWYOJa.png" title="https://i.hizliresim.com/nWYOJa.png">link</a> - kupa töreni istediğimiz gibi olmasa da güzel bir fotoğraf yakalayabildim. mutlu son.
+    bir <a class="b" href="/?q=erkek">erkek</a> olarak sonuna kadar katıldığım tespittir.<br/>lütfen beni <a class="b" href="/?q=cinsel+obje">cinsel obje</a> olarak görebilecek dürüst kadınlar yeşillendirsin.
 - entry_name: |
     sivas'ta öğretmenin öğrencileri tokatlaması
   entry_id:  68631370
   entry_writer: divit
-  entry_fav_count: 137
+  entry_fav_count: 138
   entry_content: |
     ogretmen belli ki eski kusak cok temiz vuruyor, elindeki enerjinin 1 joule'u bile bosa gitmiyor. bundan dolayi ve ustundeki onlukten meslek lisesi oldugunu anliyoruz.<br/><br/>mesela 3. cocugun 2. tokadinda net bir sekilde ses gelmiyor orada bir enerji kaybi var, diger cocuklara haksizlik olmasin diye orada kaybettigi enerjiyi ekleyerek 3. tokadi atiyor. <br/><br/>boyle zanaatkar hocalar kalmadi.<br/>eline saglik.
-- entry_name: |
-    türk erkeklerinin kolay lokma olması
-  entry_id:  68632435
-  entry_writer: darthwater
-  entry_fav_count: 132
-  entry_content: |
-    bir <a class="b" href="/?q=erkek">erkek</a> olarak sonuna kadar katıldığım tespittir.<br/>lütfen beni <a class="b" href="/?q=cinsel+obje">cinsel obje</a> olarak görebilecek dürüst kadınlar yeşillendirsin.
 - entry_name: |
     dünyanın en samimiyetsiz cümlesi
   entry_id:  68627702
   entry_writer: arcturus
-  entry_fav_count: 124
+  entry_fav_count: 127
   entry_content: |
     şirketlerde sıkça duyulan ''biz bir aileyiz'' cümlesi şahane bir örnek teşkil edebilir.
 - entry_name: |
@@ -83,7 +83,7 @@ data:
     türkiye'nin en hoşgörülü şehri
   entry_id:  68635372
   entry_writer: sfist
-  entry_fav_count: 101
+  entry_fav_count: 108
   entry_content: |
     mugla'dir<br/><br/>kur'an kursuyla, pub ayni sokakta.<br/>kimse kimsenin sacina basina orucuna karismaz. <br/>insanlar cok daha sakin ve oturakli. <br/>ataturk'u de sever, orucunu da tutar.<br/><br/>bir izmirli olarak soyleyeyim, kesinlikle izmir degildir.
 - entry_name: |
@@ -104,21 +104,28 @@ data:
     genç kızlara taş çıkartan 70 yaşındaki kadın
   entry_id:  68636904
   entry_writer: tekkasimikendimaldim
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     28 yıldır şeker tüketmiyormuş, sıvı tüketiyor, spor yoga yapıyor. <br/>ağzınıza koyduğunuz her yiyeceğe dikkat etmelisiniz ve ayaklarınızı sürekli hareket halinde tutmalısınız diyor ablamız vallahi denemeye değer.
 - entry_name: |
     türkiye'nin en iyi üç kadın şarkıcısı
   entry_id:  68634431
   entry_writer: tungatar
-  entry_fav_count: 58
+  entry_fav_count: 64
   entry_content: |
     1: dil<br/>2: be<br/>3: ray
+- entry_name: |
+    ios 11
+  entry_id:  68632736
+  entry_writer: tarzanbaba
+  entry_fav_count: 60
+  entry_content: |
+    inanılmaz, akıllara ziyan, devrim niteliğinde bir özellikle gelen işletim sistemi. mobil platformlarda tam bir oyun değiştirici olacak olan bu özellik bugün sızdı. bütün apple fanları için gururla açıklıyorum:<br/><br/>ios 11'de <a class="b" href="/?q=files">files</a> isimli bir dosya yöneticisi geliyor. artık iphone kullanıcıları telefonlarına yüklemiş oldukları dosyaları görebilecekler!
 - entry_name: |
     baygın kadını inşaata götürerek tecavüz etmek
   entry_id:  68631646
   entry_writer: delfina
-  entry_fav_count: 50
+  entry_fav_count: 56
   entry_content: |
     yıllar önce ilk kısmı başıma gelmiş bir olaydır.<br/>yıl 2002 mi ne, ankara'da, sakarya caddesinde geziyorum bi pazar günü, öğlen sularında, tek başıma. hiçbir tanıdığım yok o şehirde. şirket içi bir oryantasyon için gelmişim bikaç günlüğüne...<br/>aniden bi migren atağı başladı. ama nasıl korkunç. gözlerimi açamıyorum. yürüyecek halim kalmadı. "bi taksi bulup hastaneye gitmeliyim" diyorum ama bi binanın dibinde ağlamaktan kalkamıyorum. zaten gözümü açıp etrafa bakamıyorum. öyle bir ağrı... yarı baygın gibiyim...<br/><br/>iki koluma iki adam girdi aniden çöktüğüm yerde. afalladım. ilk önce birileri yardım mı edecek dedim ama adamlar kara kara adamlar. hiçbişey de söylemeden beni sürüklüyorlar. hemen önüme baktığımda, kaldırımın yanında bir arabanın arka kapısının açık olduğunu, ve beni ona sürüklediklerini farkettim. bırakın beni diyorum ama duymazdan geliyorlar. allahtan son anda bağırmayı akıl ettim ve kendimi yere attım. o korkunç ağrıyla bağırmak iğrenç bir çukura düşmek gibiydi. <br/>sonra sanırım korktular. ilk bi kaldırmaya çalıştılar ama bağırarak debelenmeye başladım. bırakıp kaçtılar beni. birileri geldi sonra, bi taksiyle hastaneye gittim vs<br/><br/>adamlar muhtemelen uyuşturucu madde tesiri altında olduğumu ya da sarhoş olduğumu sanmışlardı. bu daha çok zoruma gitmişti. ve gündüz vakti, sakarya gibi bi yerde oluyor olay da. <br/><br/>bu ülke, bir kadın için kesinlikle bir 3. dünya ülkesi maalesef.<br/><br/>geçmiş olsun diyorum kız kardeşe. ve umarım ibret için inanılmaz bir ceza verecek, yürekli bir hakim bakar davaya
 - entry_name: |
@@ -129,26 +136,19 @@ data:
   entry_content: |
     maç başlarken;<br/><br/>keşke ikisi de çıksa...<br/><br/>maç biterken;<br/><br/>keşke ikisi de çıkamasa....
 - entry_name: |
-    ios 11
-  entry_id:  68632736
-  entry_writer: tarzanbaba
-  entry_fav_count: 43
-  entry_content: |
-    inanılmaz, akıllara ziyan, devrim niteliğinde bir özellikle gelen işletim sistemi. mobil platformlarda tam bir oyun değiştirici olacak olan bu özellik bugün sızdı. bütün apple fanları için gururla açıklıyorum:<br/><br/>ios 11'de <a class="b" href="/?q=files">files</a> isimli bir dosya yöneticisi geliyor. artık iphone kullanıcıları telefonlarına yüklemiş oldukları dosyaları görebilecekler!
-- entry_name: |
-    5 haziran 2017 dolar kuru
-  entry_id:  68630004
-  entry_writer: tarzanbaba
-  entry_fav_count: 38
-  entry_content: |
-    işsizliği bir anda rekor orandan yüzde beşe düşüren, <br/>ülkenin kredi notunu çöp seviyesinden "koşun koşun acilen yatırım yapın" seviyesine çıkaran, <br/>cari açığı kapatıp cari fazlaya çeviren, <br/>asgari ücreti açlık sınırının altından alıp göklere taşıyan kurdur. <br/><br/>ulan adamlar otomobilden bile emlak vergisi almaya başladı, bu sığırlar hala ekonomiçokiyicilik oynuyor.
-- entry_name: |
     sipariş verdikten sonra garsonun menüyü alması
   entry_id:  68637930
   entry_writer: pbkc
-  entry_fav_count: 30
+  entry_fav_count: 33
   entry_content: |
     müşteriyi hiçbir konuda kısıtlamamak gerektiğine inandığımdan çok rahatsız oluyorum bundan. sipariş almak için başında dikilen garson, menüyü almak için fırsat kollayan garson, tabakları alıp masayı temizlemek için acele eden garson, nereye oturacağına müdahale eden garson vb. hep can sıkıcı bunlar.
+- entry_name: |
+    malta eriğinin ingilizcesi
+  entry_id:  68630085
+  entry_writer: budevirdenicknegezer
+  entry_fav_count: 30
+  entry_content: |
+    (bkz: <a class="b" href="/?q=new+world">new world</a>)
 - entry_name: |
     ideal bir uyku için gerekenler
   entry_id:  68620475
@@ -157,47 +157,12 @@ data:
   entry_content: |
     rahat bir kafa ve yorgun bir vücut.
 - entry_name: |
-    çağatay akman
-  entry_id:  68625097
-  entry_writer: tritium
-  entry_fav_count: 30
-  entry_content: |
-    şimdi çağatay bebesinin kendi yaptığı açıklamalardan kronolojik sıralama yaparsak;<br/>-şarkıyı youtube'a koymuş ve anna rf'ten sample aldık diye not düşmüş.<br/>-bakmış şarkı tutuyor anna rf kısmını kaldırmış.<br/>-sonra bu şarkı güllü'nün yea diyip şarkının bestecisi mehmet ali sezer'i kafalamış bir şekilde. <br/><br/>bu noktaya kadar hiçbir sıkıntı yok. anna rf durumdan memnun. çağatay durumdan memnun. gelgelelim dallamalık burda başlıyor.<br/><br/>-çağatay gidip youtube'a bu şarkı güllü'den arak biz bestekarla konuştuk ve telif aldık. bu yüzden anna rf'in şarkısını kaldırın diyor. <br/>-youtube da böyle bir durum varsa dikkat edelim diyor ve şarkıyı incelemek üzere askıya alıyor. tabi ortada bir şey olmayınca şarkıyı tekrar yayına sunuyor.<br/>-bu sırada kendi şarkılarının bir kısmının kullanılması konusunda gayet olumlu yaklaşan ve sorun çıkarmayan anna rf, baktı adam baya baya şarkıya çöküyor hatta kendilerini bile egale etmeye çalışıyor al madem sana telif, ebeninkini gör diyor ve youtube'a şikayette bulunuyor.<br/>-youtube yine böyle bi durum varsa bi inceleyelim hacı diyor ve askıya alıyor. tabi çağatay kardeş birebir arak yaptığı için hemen açılmadı.<br/>-çağatay şimdi destek almaya çalışıyor ve güllü kozunu oynuyor. muhtemelen sonuç çıkmayacak ve şarkısı silinecek. muhtemelen yasal bir ceza alacak. <br/>-bu sırada youtube yorumları altında türk ergen irileri çağatay bebesinin yaptığı hırsızlığı öven açıklamalar yapıp, anna rf'in etnik kökeni üzerinden israil gömmeleri yapacaklar. çağatay da israile karşı direnen halk kahramanı olacak.
-- entry_name: |
-    malta eriğinin ingilizcesi
-  entry_id:  68630085
-  entry_writer: budevirdenicknegezer
-  entry_fav_count: 29
-  entry_content: |
-    (bkz: <a class="b" href="/?q=new+world">new world</a>)
-- entry_name: |
     marcelo antonio guedes filho
   entry_id:  68627576
   entry_writer: saladze
   entry_fav_count: 27
   entry_content: |
     biz yanına da sağlam bir stoper alalım diye beklerken mevcut en kaliteli stoperi mi göndereceğiz. bunun yerine vida'yı alıp yanına tosic'i koyup mu çıkacağız şampiyonlar ligi maçlarına. size kolay gelsin, iyi seyirler gençler. bu kadar stres bana yetti. kalp hastası olmak istemiyorum.<br/><br/>bi de boşluğunu doldururuz falan denmiş. kamera şakası mı dönüyor burada nedir? kjaer kjaer diyorsunuz bu ligin en fazla kafa topu alan ve top kesen oyuncusu marcelo. haberiniz var mıydı?<br/><br/>gerçekten sinirlendim ya. ulan tosic'e yapıldığı kadar bile tezahürat yapılmadı marcelo'ya şu tribünlerden. savunmada kendini parçalayan, dengesizin teki olunca seviliyorsun. egemen'e de böyle tapmışlardı. ama işini hepsinden iyi yapan ve üstelik kart görme riski de olmayan üst düzey bir savunmacı umurlarında olmuyor. bu adamın standardı şampiyonlar ligi'dir. ne 7'si, 8'i? ben 10 milyona bile satılmasını istemem. 10 milyona marcelo yok çünkü varsa bile bulması risk. ne gerek var ulan? imza parası şusu busu. bu adam atiba'nın da eski takım arkadaşı. takımla uyumu üst düzeyde. gene menajerlere para gerekiyor anlaşılan.
-- entry_name: |
-    anadolu efes spor kulübü
-  entry_id:  68627901
-  entry_writer: sigara69
-  entry_fav_count: 25
-  entry_content: |
-    yazacağım,dayanamadım.okumak isteyen okusun.<br/><br/>ülkeye basketbolu sevdiren lafı kadar mit bir laf duymadım ömrü hayatımda.<br/><br/>efes pilsen bu ülkeye basketbolu falan sevdirmemiştir.yok öyle birşey.kendi kendine misyon uydurup,yıllarca tam tersi bu ülkenin basketbolunun önünde ki engeldir kendileri.<br/><br/>bu ülkede biz 1985 te lütfi kırdar'da ağzına kadar salonda fener ile final oynarken efes neredeydi?<br/><br/>bugün sırf galatasaray'dan kovulduğu için halen galatasaray'a hırs besleyen turgay demirel'in yıldız olduğu,efe aydan'ın fener'de oynarken imrendiğimiz seneler neredeydiler?<br/><br/>bir laf uydurmuşlar,biz basketbolu sevdirdik.<br/><br/>hayır kardeşim,siz ve ülker bu ülke de az kalsın basketbolu bitiriyordunuz.eczacıbaşı gerçeği varken size ne oluyor? <br/><br/>altyapı olaynız sadece ufuk sarıca,volkan aydın ve hidayet türkoğlu'ndan ibaret.30 senede 4 tane adam yetiştirmişsiniz.nerede o hep sözünü ettiğiniz altyapı?<br/><br/>tamer oyguç eczacıbaşı kökenli,mirsat novi pazar.<br/><br/>2 yabancı sınırlaması olan türkiye basketbol liginde o dönem çok sanşlı bir jenerasyona denk gelip,naumoski ile harmanlıyıp 4 sene üst üste şampiyon oldunuz diye mi basketbolu sevdirdiniz bu ülkeye?<br/><br/>kinder bologna serisi,stefanel milano ve aris koraç kupası finali.evet bizde o gün efes pilsen'i tuttuk.evet bizde o gün efes kazansın istedik ama ne ben,ne fenerli arkadaşim ''aaaa basketbol diye birşey varmış,ne zevkli'' demedik.<br/><br/>asıl siz basketbolu biz ile sevdiniz.asıl siz ilk önce spor takımı kuran müesseseler vergi indirimi alır adında spor klubü kurdunuz.sonra bu indirim kesmedi ki,geldin bokunu çıkardın.<br/><br/>ben yaşlıyım,benim hafızam ile baş edemessiniz gençler.yok öyle şimdi çıkıpta 100 senelik camialara laf etmek. <br/><br/>eğer olay basketbolcu yetiştirmek ise,ne itü'nün ne eczacıbaşı'nın hatta fenerbahçe,galatasaray'ın eline su dökemessiniz.<br/><br/>90'ların ortalarında naumoski'nin gelişi ile basketbola merak saran her fenerbahçe'li,beşiktaş'lı ve galatasaray'lının asıl siz parkelerden uzaklaşmasını sağladınız.<br/><br/>97 senesini hatırlarmısın? salondaydım ben.kerem tunçeri daha yeni yetme ama fena yetenekli.alt yapımızdan çıkmış.orhun ene büyük kaptan var.teoman öztürk,alba berlin'den almışız.yabancı sınırlaması var işte.2 tane de amerikalımız.<br/><br/>play off yarı finalinde eşleştik.ilk maç.salon nasıl? iğne atsan düşmez.yenilmez armada geri dönüyor.<br/><br/>ne oldu? döndürmediler.<br/><br/>hakemler doğraya,doğraya bitiremedi.senin o hidayet'li,mirsat'lı,ufuk'lu,naumoski'li kadro hakem yardımı ile maçı aldı gitti.<br/><br/>daha yazarım.ne maçlar var hafızamda.fenerbahçe'den ibrahim kutluay'ı alışınızı da unutmadık.ptt'den murat evliyaoğlu'nu.<br/><br/>ya da ülker'in doğru yolu bulmadan önce yaptığı şerefsizlikleri de.<br/><br/>siz asıl bu ülkenin genç neslinin basketbolu tam sevecekken önünde tuttuğu takımı 30'lara 40'lara yatırarak basketboldan kaçırdınız.<br/><br/>ne kadar çok genç arkadaşım,kardeşim basketbolu sevmeye çalışacak olsa da,bakıyordu ki '' fenerbahçe 56-efes pilsen 89'' '' galatasaray 78-efes pilsen 93''<br/><br/>sonra ben bu 12-13 yaşında ki çocuğa nasıl gel maça gidelim diyeceğim? sevmek gelmiyordu içinden basketbolu.<br/><br/>eczacıbaşı gibi kapatın gidin yol yakınken.gittikçe antipatik hale geliyorsunuz.<br/><br/>paok,ludwing diye dalga geçtiğin takımlardan önce sen asvel'e yarın bütçe kadar olan takıma nasıl istanbul'da 20 bin seyirci önünde 2 kere çeyrek finalde elendin onu anlatsana bize?<br/><br/>mesele bu ülkeye kupa getirmekse fenerbahçe daha yeni en büyüğünü getirdi.hemde 7 senelik bir yapılanma ile.<br/><br/>mesele basketbolu sevidrmekse,<br/><br/>tofaş bursa'ya sevdirdi.karşıyaka izmir'e.beslenspor vardı yaşınız yetmez.antep'e.çukurova mersin'e.olin edirne edirne'ye.<br/><br/>mavi jeans ortaköy vardı amk bu ligte ya.hiç bir farkınız yok işte bu klüpten.tek farkınız daha fazla para harcayıp,daha fazla ego tatmini başka bir şey değil.<br/><br/>yabancı sınırlaması serbest kaldığından beri ortalarda yoksunuz.o da başka bir tartışma konusu aslında.<br/><br/>neyse,<br/><br/>hüsnü çakırgil,harun erdenay,hakan yörükoğlu,mert uyguç,ömer büyükaycan'lı derbileri çok özlüyorum halen.<br/><br/>sizi ise hiç bir zaman özlemeyeceğim.
-- entry_name: |
-    suudi arabistan katar savaşı
-  entry_id:  68626627
-  entry_writer: kamerarkasi
-  entry_fav_count: 24
-  entry_content: |
-    pos cihazları ile yapılacaktır.
-- entry_name: |
-    peynirli poğaçanın içinden peynir çıkması
-  entry_id:  68637085
-  entry_writer: lex cali
-  entry_fav_count: 22
-  entry_content: |
-    dün gece başıma gelen fantastik doğa olayı.<br/><br/>evime iki sokak mesafede bir fırın var. her gece saat 1.30-2.00 arasında poğaça ve simit çıkarır. ben de her gece 1.20 gibi fırının kapısında avını yakalamaya hazırlanan kaplan gibi fırından poğaçaların çıkmasını beklerim. fırından çıkar çıkmaz elimi yakma pahasına en öne atılır ve 5 tane peynirli poğaça alırım. eve gelene kadar yenilecek sıcaklığa kadar düşen poğaçaları fırına gitmeden önce demlediğim çay ile mideme yuvarlarım.<br/><br/>dün gece bu rutin içerisinde 5 adet poğaçamı alıp, fırıncıya da hakkı olan 5 lirasını verip eve geldim. ilk 4 poğaça normaldi. (bkz: <a class="b" href="/?q=peynirli+po%c4%9fa%c3%a7an%c4%b1n+i%c3%a7inden+sade+po%c4%9fa%c3%a7a+%c3%a7%c4%b1kmas%c4%b1">peynirli poğaçanın içinden sade poğaça çıkması</a>)<br/><br/>5. poğaçayı ortadan ikiye bölünce gözlerime inanamadım. önce halüsinasyon gördüğümü sandım, koştum lavaboya soğuk su ile yüzümü yıkayıp mutfağa geri döndüm. aman allahım, gördüklerim doğruymuş. poğaçanın böldüğüm kısmının ucunda yaklaşık bir mercimek tanesi boyutunda peynir parçası duruyordu. o şokun vermiş olduğu etkiyle poğaçayı yedim. sonra mutluluk gözyaşları dökerek fırına geri koştum. fırıncı abiye meseleyi anlattım, sarılıp ağlaştık.<br/><br/>tam kapıdan çıkıp eve geri dönecekken fırıncı abi seslendi bana, dönüp baktım;<br/>fırıncı abi – 5 poğaça almıştın değil mi yiğenim?<br/>- evet ağabey.<br/>fırıncı abi - 5 lira vermiştin değil mi?<br/>- evet ağabey.<br/>fırıncı abi- 4 peynirli poğaça 4 lira, içinden peynir çıkan poğaça 3 lira. toplam 7 lira yapıyor. 2 lira eksik almışız.<br/><br/>ceplerimi karıştırdıktan sonra;<br/><br/>- al ağabey 2 lira daha. bu senin hakkın!<br/><br/>ve mutlu mutlu eve dönüp hayatımın en huzurlu ve mutlu uykusunu uyudum.
 - entry_name: |
     b. arınç'ın damadının fetö'den gözaltına alınması
   entry_id:  68633120
@@ -213,6 +178,13 @@ data:
   entry_content: |
     son olmaması dilediğim yağmur. az önce nemden kavruluyordu ortalık, iyi geldi.
 - entry_name: |
+    sezaryen doğumu red edip bebek ölümüne neden olmak
+  entry_id:  68637309
+  entry_writer: kerterkele44
+  entry_fav_count: 21
+  entry_content: |
+    bu tür olaylara üzülmemek gerek.<br/><br/>zeka seviyesi düşük ve hastalıklı bireylerden, sağlıklı ve zeki döller beklenemez.<br/><br/>günümüz insanlığının doğal seçilimi tam da bu işte.<br/><br/>edit: imla
+- entry_name: |
     deniz seki
   entry_id:  68635619
   entry_writer: past life trauma
@@ -220,17 +192,17 @@ data:
   entry_content: |
     abi bu kadın gogodan girmedi mi hapse? beyaz güvercinle falan o pozlar nedir yahu? sanırsın ortadoğu'ya barış getirdi...
 - entry_name: |
-    sezaryen doğumu red edip bebek ölümüne neden olmak
-  entry_id:  68637309
-  entry_writer: kerterkele44
-  entry_fav_count: 17
+    ali nesin
+  entry_id:  68620536
+  entry_writer: kagemusha
+  entry_fav_count: 18
   entry_content: |
-    bu tür olaylara üzülmemek gerek.<br/><br/>zeka seviyesi düşük ve hastalıklı bireylerden, sağlıklı ve zeki döller beklenemez.<br/><br/>günümüz insanlığının doğal seçilimi tamda bu işte.<br/><br/>edit: imla
+    ülke komünistlerinin en büyük yanlışı çok fazla idealist ve hayalci olması. bulunduğu coğrafyanın sosyolojisini hesaba katmadan, orta doğudaki 1000 yıllık islamcı devlet yapısını incelemeden; din, fetih, mezhep adına yapılan katliamları ve kafa yapılarının seküler olmaktan ne kadar uzak olduğunu görmeden, bilime, felsefeye, sanata, demokrasiye nasıl baktıklarını bilmeden, gerçeklerden tamamen uzak bir düşünce yapısıyla olayları ele alıyorlar. <br/><br/>bizim aydınlarda bir hata var; 1950'den sonraki sağcı yöneticileri ve yanlış politikalarını görmüyorlar. 90 yıllık kemalist sistem diye bakıyorlar. bunu da askeri vesayete bağlıyorlar. askerin cumhuriyetin kazanımlarını kollama görevi oldu bu ülkede. neticede cumhuriyeti kuran ve bunun için savaşan askerlerdi. ve cumhuriyeti atatürk onlara emanet etti. ama şunun altını çizmek gerekir; ordu'da her zaman laiklikten yana olan seküler-sol askerlerle dinci askerlerin sürtüşmesi oldu. üstelik 1960 darbesinden bu yana. hatta bu cumhuriyetin ilk yıllarında, bizzat atatürk'ün yaşadığı dönemde bile oldu. kenan evren'in nasıl bir zihniyette olduğunu söylemeye gerek yok. fetö'nün 40 yıldır devlete sızdığını sanki bilmiyorlar. fetö'nün toplumda "darbeci kemalist ordu" imajını iyice oturtmak için hassasiyetleri kaşıyıp, kendi planını uygulamaktaki en büyük rakip olarak gördüğü, abd'yi ve siyonistleri sevmeyen başka bir siyasal islamcı olan erbakan'nın 1997 postmodern darbesi ile devrilmesini sağladığını görmüyorlar. fetö bu darbede kemalistleri ön plana itmiştir. böylece, halkın gözünde kemalistleri iyice öcü durumuna getirerek, ileride ergenekon ve balyoz kumpaslarının önünü açarak bir taşla 2 kuş vurmuştur. madem kemalizm, 90 yıldır perde arkasından yönetiyor, atatürkçü ve laikliğin güçlü savunucuları olan uğur mumcu'yu, bahriye üçok'u, ahmet taner kışlalı'yı kim öldürdü? babanı diri diri kim yakmaya çalıştı? kemalist aydınları kim hapise attırdı? faili meçhul cinayetleri kim yaptı? kimin yaptığını sanırım bu yazıdan çıkartırsınız. <br/><br/>öyle sandığınız gibi kemalistler bu ülkeyi 90 yıldır yönetmedi. çoğumuz öyle sandık ama öyle değil işte. öyle olsaydı emin ol, bu aydınları kimsenin öldürmeye gücü yetmezdi. senin gibi düşünüp, aydın geçinen çok. sizin düşüncenizin özeti nedir biliyor musun? cumhuriyeti ve laikliği korumak için, seküler yaşamı egemen kılmak için güçlü bir korucuya ihtiyaç yok. ülke gidecekse şeriata gitsin veya iç savaş sonucu ne olacaksa olsun. toplumun çoğu cahil olsun ama ülkenin kaderini yine bu cahil toplum belirlesin. sonucunda savaşta çıksa böyle olsun. düşüncelerinizin özeti bu. <br/><br/>"babam kesinlikle onlar gibi değildi. babamı yanlış biliyorlar. babamın had safhada laik olduğunu, başörtüsüne karşı olduğunu düşünüyorlar. babam başörtüsüne karşı değildi. tam tersiydi durum, hatta, “başörtüsü okullarda tabii ki serbest olsun” diye konuştuğu bir videosu vardı." <br/>bu video'yu ben izledim. orada aziz nesin diyor ki; sen madem okullarda din eğitimi veriyorsun, sunnilik eğitimi veriyorsun, kızlar bu kafa yapısıyla yetişiyor sonra başını kapatınca vay efendim olmaz laiklik, kemalizm. burada dikkat ederseniz çelişkiye dikkat çekmek istiyor. böyle eğitim verirseniz ben o kızın arkasında olurum diyor. işte bu yüzden kenan evren'e giydiriyoruz. <br/><br/>yetmez ama evet meselesine girmek bile istemiyorum bu yazıdan sonra. <br/><br/>90 yıldır bu ülkede hukuksuzluklar yapıldı, doğru ama bunu da sadece kemalistlere yıkmak yanlış olur. <br/><br/>komünistlerin bir kısmının kafasındaki kürt sorununun çözümü, onların özerklik ve/veya devlet kurma talebini yerine getirmek demek. ulusalcı bir partiden bunu istemek. atatürk'ün ne zorluklarla kazandığı bu toprakları ondan emanet alan bir parti ve tabanından bunu istemek. sonra hayalci deyince kızıyorlar. bilimin, eğitimin önemi dışında kendisine katıldığım tek yer akp eleştirisi ama bu kadar söylediklerinden sonra bu eleştiriler de havada kalıyor. altı dolu değil. ha bir de <br/><br/>“kılıçdaroğlu’nun geçmişle bağını koparıp yepyeni bir chp yaratmalıydı” buna şöyle diyorum; kendisinin de dediği gibi her devrim haksızlıklar doğurur. 1948 'e kadar çok iyi gelişmeler olsa da, mutlaka haksızlıklar oldu. tabi bu haksızlıkları ele alırken hep dönemin şartları diyoruz, bunu atlamamalıyız. ben de chp'nin tarihiyle yüzleşmesi lazım diyorum. iyisiyle kötüsüyle geçmişini kabul edip, yapılan hatalardan ders çıkartması lazım. aksi taktirde bu algıyı yıkması çok zor.
 - entry_name: |
     mehmet ekici
   entry_id:  68631228
   entry_writer: launchpad
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     gören de asgari ücrete oynayacak sanacak, para yerine şerefi ve onuru seçmişmiş. mehmet ekici en çok imza parası veren takımı seçti, fenerbahçe artık futbolcu maaşlarını ve sözleşmelerini kap'a açıklamayı bıraktı, açıklasaydı görürdük şeref ve onuru. mehmet ekici'nin tüm sülalesi menajerliğini yapıyordu, ablaları beşiktaş ile pazarlık yaparken, babası fenerbahçe ile pazarlık yaptı, sonunda da en çok para için 6 ay futboldan uzak kalmayı bile seçti. <br/><br/>tekrar söylüyorum, fenerbahçe'den alacağı imza parasını trabzonspor'un kendisi için biçtiği bedel yerine bıraksaydı, ocak ayından beri fenerbahçe'nin futbolcusu olurdu. eğer paraya değer vermiyorsa ve fenerbahçe için mücadele ettiyse bunu yapsaydı. adam ocak ayında sözleşmeyi imzaladı, en az 2,5 milyon euro imza parasını da aile paylaştı, burada şeref ve onur diyorsunuz. futbolcu bunlar, en çok parayı kim verirse orada oynar.
 - entry_name: |
@@ -241,6 +213,13 @@ data:
   entry_content: |
     ciddi ciddi ilgiye muhtaç olduğumu düşünüyorum. bu yüzden de bana azcık ilgi gösteren herkese bağlanıyor, ilgim karşılık görmezse de mahvoluyorum.
 - entry_name: |
+    geceye bir şiir bırak
+  entry_id:  68620509
+  entry_writer: chicalataa
+  entry_fav_count: 12
+  entry_content: |
+    gece midir insanı hüzünlendiren,<br/>yoksa insan mıdır hüzünlenmek için geceyi bekleyen?<br/>gece midir seni bana düşündüren,<br/>yoksa ben miyim seni düşünmek için geceyi bekleyen?<br/>(bkz: <a class="b" href="/?q=%c3%b6zdemir+asaf">özdemir asaf</a>)
+- entry_name: |
     robin van persie
   entry_id:  68638838
   entry_writer: whatdreamsnevercome
@@ -248,40 +227,54 @@ data:
   entry_content: |
     kariyerinin zirvesinde, arsenal'den united'a bile 30 milyon euroya gitti. ne 30'u amk dalga mı geçiyorsunuz?
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  68620509
-  entry_writer: chicalataa
+    erkeklerin meyve yeme alışkanlığının olmaması
+  entry_id:  68621863
+  entry_writer: mum boya
   entry_fav_count: 10
   entry_content: |
-    gece midir insanı hüzünlendiren,<br/>yoksa insan mıdır hüzünlenmek için geceyi bekleyen?<br/>gece midir seni bana düşündüren,<br/>yoksa ben miyim seni düşünmek için geceyi bekleyen?<br/>(bkz: <a class="b" href="/?q=%c3%b6zdemir+asaf">özdemir asaf</a>)
+    birinin soyup, cekirdegini cikarip lokmalik dilimler halinde getirmesini beklediklerindendir. bakin bir test edin, boyle ikram ederseniz geri cevirmeyeceklerdir.
 - entry_name: |
-    kızların ilişkide mutsuz olmalarının tek nedeni
-  entry_id:  68639749
-  entry_writer: yumrukmezesi
+    5 haziran 2017 trabzonspor'un resmi açıklaması
+  entry_id:  68635416
+  entry_writer: feanorfyndel
+  entry_fav_count: 10
+  entry_content: |
+    milleti şikeyle itham etmek suç olsaydı ülkede trabzonsporlu kalmazdı.<br/><br/>gitsinler şu anki divan kurulu başkanlarıyla eski başkan yardımcılarından başlasınlar yedikleri bokun dile getirilmesinden bu kadar rahatsızlar ise:<br/><br/>(bkz: <a class="b" href="/?q=ali+s%c3%bcrmen">ali sürmen</a>)<br/><br/>(bkz: <a class="b" href="/?q=yakup+aslan">yakup aslan</a>)<br/><br/>(bkz: <a class="b" href="/?q=bu+leke+temizlenmez+diyen+ts+d.+kurulu+ba%c5%9fkan%c4%b1">bu leke temizlenmez diyen ts d. kurulu başkanı</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.olay53.com/haber/trabzonspor-divan-kurulu-baskani-av-surmen-bu-leke-temizlenmez-578988.htm" title="http://www.olay53.com/haber/trabzonspor-divan-kurulu-baskani-av-surmen-bu-leke-temizlenmez-578988.htm">http://www.olay53.com/…-leke-temizlenmez-578988.htm</a><br/><br/>(bkz: <a class="b" href="/?q=bir+ma%c3%a7l%c4%b1k+%c5%9fike+k%c3%bcme+d%c3%bc%c5%9f%c3%bcrmez+diyen+ts+y%c3%b6neticisi">bir maçlık şike küme düşürmez diyen ts yöneticisi</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Trabzonsporum/status/871429376826593282" title="https://twitter.com/Trabzonsporum/status/871429376826593282">https://twitter.com/…orum/status/871429376826593282</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DBfwYAMXsAAY7vo.jpg">https://pbs.twimg.com/media/dbfwyamxsaay7vo.jpg</a>
+- entry_name: |
+    golden state warriors
+  entry_id:  68626774
+  entry_writer: have you met me
   entry_fav_count: 8
   entry_content: |
-    beklentilerin yüksek tutulmasından söz eden yazar arkadaşlar olmuş. halbuki durum bunun tam aksidir. yeni yetme ergen kızları saf dışı tutuyorum.<br/><br/>çok sevdiğim ve kıymet verdiğim bir arkadaşım var. kendisi canla-başla çalışan, oldukça duygusal ve yemek konusunda oldukça maharetli olan bir insan. yüz yüze hiç görüşmedik ama samimiyetinden gram kuşku duymadığım birisi. canım arkadaşımın eşine olan saygısı ve sevgisi ise sonsuz. inanılmaz seviyor onu. hep mutlu olur inşallah. ilişki denilince akla ilk gelen evlilik olmasa da, evlilikte bir ilişki türü neticede. bahsi geçen bu hanım arkadaşım her türlü fedakarlığı yaptığı halde, zaman zaman eşinden gördüğü soğuk tavırlar yüzünden mutsuzluk çekiyor ve hayal kırıklıkları yaşıyor. istediği çok fazla bir şey yok halbuki. sadece eşi için yaptığı kağıtta pastırma için ufacıkta olsa bir "teşekkür". veya yaptığı tavşan kanı çay için ufacık bir tebessüm. yapmıyoruz beyler. onu bile yapmıyoruz. bazen çok kaba olabiliyoruz.
+    esat yılmaer'den kendileriyle ilgili bir röportaj beklediğim takım. curry, fikret orman'dan bahsetsin. durant başta olmak üzere bütün takım bizim kulüplerin bütçe küçültmesine üzülsün hatta birisi böyle hesapsız harcarsanız olacağı buydu diye takılıp blues dinlemeye devam etsin falan.
 - entry_name: |
     5 haziran 2017 makedonya türkiye maçı
   entry_id:  68639998
   entry_writer: twitter
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     bizim takımda 10 numarayı giyen göbekli dayı kim acaba? halı saha maçına çağrılan birisi gibi takılıyor. o nasıl göbek. kadro için hiç bahsetmicem ama bu nasıl rezillik ya? dahası reklam panolarında cayır cayır <a class="b" href="/?q=tempobet">tempobet</a> , <a class="b" href="/?q=s%c3%bcperbahis">süperbahis</a> reklamları yapılıyor. aman acun efendin falan görürse sıkıntı yaşarsın sonra. <br/>tanım: bir türk olarak beni temsil etmeyen 2 takımın maçı.<br/>e: sunucu kimdir nedir bilmem ama az önce utanmadan sıkılmadan ' sahadaki futbolcular 50'şer maç oynamışmış, oynamayanlar yoğun antreman yapmışmış, tatile çıkacaklarmış'. vay amına koyayım ya sanki babalarının hayrına yapıyorlar tüm bunları. ulan ne arsız utanmaz insanlarsınız siz? fatih bey ve arda beyde sanki silah zoruyla götürülmüşler oraya. şu triplere hareketlere bak ya.
 - entry_name: |
     ricardo quaresma
   entry_id:  68637031
   entry_writer: beeyore
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     yeteneksizlik abidesi denilen olcay şahan 180 maçta 35 gol 34 asist yapti.<br/><br/>dunyanin en yeteneklisi, yuruyen efsane, uzayli quaresma ise 154 maçında 29 gol, 52 asist yapmış. takdir edildigi performans bu:))))<br/><br/>ustelik olcay mac boyu 1 dakika topla oynarken quaresma 10 dakka topla oynuyor.<br/><br/>sezon sonu, gokhan gonul, cenk, aboubakar, oguxhan, necip uysalin roportajlarindan anladigimiz uzere kendisini kimse sevmiyor takimda. <br/><br/>ve bencilliginden dolayi sinir oluyorlar ama buna ragmen takim bu adamin aşiri bencilligini tolare ediyor. helal olsun hepsine gercekten cok delikanli oyuncular bizimkiler. <br/><br/>gokhan gonul ustu kapali quaresma yuzunden ebem sikiliyor sag kanatta dedi gecen gun lig tvde. quaresma sol<br/>kanada gectigi mac gokhan gonul gol<br/>atti. son osmanli macinda da gokhan gonulun 4 kişiyi çalimladigi pozisyonu unutmayalim. <br/><br/>sene boyu sustuk elimizden geldigince. artik yeter. <br/><br/>şampiyonluk maci bursa macinda 2 kisiye kasti tekme atmasi, sari kart gorup hakemi alkislamalarinu unutmadik. <br/><br/>kimse kusura bakmasin. beşiktas futbol takimina yakişmiyor. giderken futbol topunu da beraberinde goturebilir.
 - entry_name: |
-    bitcoin
-  entry_id:  68630894
-  entry_writer: hallederizkardesim
+    imac pro
+  entry_id:  68639919
+  entry_writer: andromedane
   entry_fav_count: 4
   entry_content: |
-    esas takip edilmesi gereken konu market cap. 2 hafta önceki sert düşüşte 90 milyar dolar seviyesindeki total (tüm coinlerin toplamı) market cap 60 milyar dolara düşmüştü. piyasa 1 gün içerisinde 1/3 değer kaybetmişti. fakat aradan 15 gün geçmedi, btc değeri o gün 2750 usd'yi görüp 2000 usd'ye düşmüştü bugün 2600 usd'yi zorluyor, market cap ise 95 milyar dolar seviyesine yükseldi bugün itibariyle. peki btc neden o günkü değerine ulaşmadı derseniz cevabı basit. yatırımcı parasını alt coinlere yatırıyor. özellikle ethereum ve stratis yüksek miktarda alıcı buluyor. alt coinler btc'ye oranla sürekli değer kazanırken btc'nin 2750 usd seviyesini tekrar görmesi biraz gecikti. işin daha ilginci türkiye piyasalarında yaşanıyor. 2750 usd iken 10500 tl'yi gören btc, 2000 usd iken 7500'e indi ve tekrar 9000'e yükseldi. 2000 usd'den 2600 usd'ye her gün %1-5 arası yükselen btc'ye rağmen türkiye piyasalarında btc 8500-9500 aralığında gidip geliyor hala. yani türkiye piyasaları dünya piyasalarına göre daha az oynak, biraz daha güvenli. <br/><br/>gelelim altcoin piyasasına. valla burda felaket tahmini yapan arkadaşların kısa vadeli tahminlerinin tutarlılığını bilemem ancak geçmiş hareketlere bakılırsa mutlaka bir geri çekiliş ve ufak ufak artışlar yaşamış btc. yani kısa vadede bir gerileme olabilir ancak uzun vadede yükseliş garanti. mutlaka bir silkeleme daha olacaktır, 11.000 tl seviyesinde silkeleme garanti gibi bir şey, sonra millet panikleyip satar, aklı olanlar 8000 tl civarından tekrar alır. ancak kimse 1000 usd'lere düşecek gibi uçuk beklentilere kapılmasın, bunlar hayal, bu kadar karamsar-kötümser düşünmek bana göre saçma. ortada gözle görülür bir beklenti var, ülkeler, bankalar, bankacılar, tek tek açıklamalar yapıyor, bitcoin ve alt coinler günden güne daha güvenilir ve yatırım yapılabilir piyasa araçları oluyorken kısa vadeli düşüşler nedeniyle insanları korkutmak gereksiz. yukarıda defalarca yazıldı, yine yazalım, bu piyasaya 1-2 günlük veya 1-2 aylık kısa vadeli sürelerde zengin olacağım diye giriyorsanız panik satışı yapıp zarar etmeniz muhtemel. fakat uzun vadeli gelir beklentiniz varsa ve panik satışı yapmayacağınızdan eminseniz paranızı kaybetmenizin tek ihtimali yukarıda başka bir arkadaşın belirttiği türden bir çalınma vs. olur. her halükarda bu yazdıklarım yatırım tavsiyesi değildir kendiniz düşünün.<br/><br/>he altcoin diyorduk, arkadaşlar bu paraların hacimleri düşük bu nedenle daha ufak çaplı para girişleri bu paraların değerlerini bir anda yüzde 40-50 hatta bazen 100 arttırabiliyor. stratis'in son 10 günde 2.5 usd'den 11 usd'ye çıkmasının sebebi bu. yine bu sitede yer alan bir tavsiye ile aldığım stratisin getirdiği kazanç bitcoinden haftalardır elde ettiğimiz kazançtan çok daha fazla oldu. fakat yinede ytd.<br/><br/>ethereum biraz daha güvenilir, ani düşüşler yaşamayan bir para, yöneticileri piyasada saldırganlar, sürekli yeni anlaşmalar yaparak uluslararası para transaction'unun ethereum üzerinden gerçekleşmesi için mücadele veriyorlar. ethereum sizi üzmez. (ytd.)
+    tek başına ışid'le mücadeleye gönderilebilir.
+- entry_name: |
+    donald trump ingilizcesi
+  entry_id:  68639289
+  entry_writer: dick laurent
+  entry_fav_count: 4
+  entry_content: |
+    (bkz: <a class="b" href="/?q=tremendous">tremendous</a>)
 - entry_name: |
     bedelli askerlik
   entry_id:  68633933
@@ -290,26 +283,12 @@ data:
   entry_content: |
     gittim, yaptım, yapılabilecek en rahat yerde, en kafa komutanların yanında yaptım. <br/>muhatap olduğum adamlar sürekli yüksek rütbelilerdi ve elleri mecbur olduğu için mecburen iyi davrandılar.<br/><br/>arayan soran herkese hayatımın en uzun tatilimi yaptığımı söyledim, yalan değildi. <br/>çok güzel arkadaşlıklar kurdum, hala sıklıkla görüşüyorum.<br/><br/>ama bugün tüm süreci bilerek tercih yapmam gerekse, yine kararım net olur bedelliden faydalanırdım. <br/>lanetli 88li olarak faydalanamadığım için hala üzgünüm. <br/>hele gideceği yeri, tanışacağı insanları bilmeyenler için bu bir tercih değil mecburiyettir.<br/><br/>kimin ne dediği önemli değil, çıksın da gitmeyin inşallah...
 - entry_name: |
-    tkp ödp emep ve halkevlerinin birleşmesi
-  entry_id:  68635119
-  entry_writer: slhmlr
-  entry_fav_count: 3
-  entry_content: |
-    dün tkp tarafından gerçekleştirilen "yeni bir cumhuriyet için sol atılım" buluşmasına halkevleri, ödp, hdk -ve hatta chp sol kanat- gibi oluşumların katılmasıyla ihtimali artan birleşme:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ilerihaber.org/icerik/tkpnin-cagrisiyla-yeni-bir-sol-atilim-bulusmasi-devrimci-bir-cumhuriyet-icin-ileri-72487.html" title="http://ilerihaber.org/icerik/tkpnin-cagrisiyla-yeni-bir-sol-atilim-bulusmasi-devrimci-bir-cumhuriyet-icin-ileri-72487.html">http://ilerihaber.org/…uriyet-icin-ileri-72487.html</a><br/><br/>resimlerden görüldüğü kadarıyla ciddi bir kesimi toplayabilmiş tkp.<br/><br/>2019 seçimlerine kadar türkiye'deki sosyalist solun birleşik bir parti olarak ortaya çıkması çok şeyi değiştirir. tabii ekşi sözlük gibi kendi küçük dünyasında türkiye'yi iki-üç partiden ibaret sanan orta sınıf embesilleriyle dolu bir ortamda, bu partilerin birleşme ihtimali ne kadar heyecan oluşturur bilinmez. ancak 2019'daki başkanlık seçimine açıkça görülüyor ki kütlerin aday çıkarması engellenecek, chp'nin başında gılıçdar bulunursa yine ekmel tarzında bir nanoş-ılımlı islamcı önümüze sol aday olarak konacak. türkiye'nin gerçek solunun sahneye diri ve bir şekilde çıkma zamanı geldi artık.
-- entry_name: |
     ingiliz mizah anlayışı
   entry_id:  68634173
   entry_writer: sir gawain
   entry_fav_count: 3
   entry_content: |
     (bkz: <a class="b" href="/?q=ingiliz+mizah%c4%b1">ingiliz mizahı</a>)<br/>(ara: <a class="ara index-link" href="/basliklar/ara?searchform.keywords=ingiliz%20mizah%2A">ingiliz mizah*</a>)<br/><br/>bu kadar inanmayacak ne vardı?
-- entry_name: |
-    imac pro
-  entry_id:  68639919
-  entry_writer: andromedane
-  entry_fav_count: 3
-  entry_content: |
-    tek başına ışid'le mücadeleye gönderilebilir.
 - entry_name: |
     kapitalizmi özet geçmek
   entry_id:  68624161
@@ -318,26 +297,19 @@ data:
   entry_content: |
     kapitalizm bu başlık altında defalarca ifade edildiğinin aksine kendiliğinden oluşagelmiş, doğal bir sistem değildir. örneğin tarım toplumunda ortaya çıkması beklenemez.<br/><br/>kapitalizm sürdürülebilir eşitsizliktir. kapitalizmin temel koşulu arti değerin transfer edilebilmesidir. kapitalizm azınlıkların toplum üzerinde ki tahakküm mekanizmasıdır. <br/><br/>kapitalizm tıpkı sosyalizm gibi korunmaya muhtaçtır, aksi halde çökmesi kaçınılmazdır. kapitalizmin tek alternatifi de sosyalizm değildir. kapitalizmin alternatiflerini ekonomik düzen önerilerinde aramak sığlıktır. bu alternatif ancak derin bir felsefik yaklaşımda bulunabilir.<br/><br/>bir gün insanlar tüketmekten bıktıgında işler değişecektir.
 - entry_name: |
-    cheick tiote
-  entry_id:  68637667
-  entry_writer: yurekinmez
+    enpara.com
+  entry_id:  68634435
+  entry_writer: macar karinca
   entry_fav_count: 2
   entry_content: |
-    katili sağlık sorunu olduğu belli adama lisans verenlerdir. yazık olmuş gencecik çocuğa.
+    paramı verin lan.
 - entry_name: |
-    sabri sarıoğlu
-  entry_id:  68640325
-  entry_writer: simonetta
+    henüz keşfedilmemiş en önemli icat
+  entry_id:  68640316
+  entry_writer: quantum
   entry_fav_count: 1
   entry_content: |
-    alt yapıdayken ilk sırtını sıvazlayan, aslanım benim falan diye motive eden antrenörün allah bin belasını versin. <br/><br/>senin de amk luce. bela ettin bunu başımıza.
-- entry_name: |
-    donald trump ingilizcesi
-  entry_id:  68639289
-  entry_writer: dick laurent
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=tremendous">tremendous</a>)
+    şüphesiz ki ışınlanmadır.
 - entry_name: |
     5 haziran 2017 apple wwdc
   entry_id:  68641095
@@ -346,10 +318,38 @@ data:
   entry_content: |
     "ıt's a dragfest"<br/><br/>craig sen var yq addafsfsgssad
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  68623519
-  entry_writer: zorkun
+    şu anda çalan şarkı
+  entry_id:  68641577
+  entry_writer: ateluveitiesch
   entry_fav_count: 0
   entry_content: |
-    sol frame'de gormekten nefret ettigim baslik. maalesef baslik engelleme butonu da ise yaramiyor. kim acmissa bu basligi siktir olup gitmis.
+    <a rel="nofollow noopener" class="url" target="_blank" href="http://https//youtu.be/pudyukagqd4" title="http://https//youtu.be/pudyukagqd4">araç kullanırken dinlemek tavsiye edilmez</a>
+- entry_name: |
+    sabri sarıoğlu
+  entry_id:  68623441
+  entry_writer: n8
+  entry_fav_count: 0
+  entry_content: |
+    taraftarin <a class="b" href="/?q=bu+sene+bizden+bisey+olmaz">bu sene bizden bisey olmaz</a> ile <a class="b" href="/?q=bazi+seyler+degisiyor+galiba">bazi seyler degisiyor galiba</a> düsünceleri arasindaki belirleyici faktör olacaktir.
+- entry_name: |
+    kızların ilişkide mutsuz olmalarının tek nedeni
+  entry_id:  68640818
+  entry_writer: turkan kalfa
+  entry_fav_count: 0
+  entry_content: |
+    yüzüklerinin olmaması. (bkz: <a class="b" href="/?q=swh">swh</a>)
+- entry_name: |
+    homepod
+  entry_id:  68641559
+  entry_writer: buyuyup buyuk adam olacaktim
+  entry_fav_count: 0
+  entry_content: |
+    iphone 6 ile aynı işlemciye sahip hoparlör. lan hoparlörün işlemcisi çoğu android amiral gemisinden güçlü:)<br/><br/>yalnız stereo ses için 2 tane alıyorsunuz :))
+- entry_name: |
+    erkan tan
+  entry_id:  68635935
+  entry_writer: the mir
+  entry_fav_count: 0
+  entry_content: |
+    yeni türkiye'nin pislik akan yüzü.
 ---
