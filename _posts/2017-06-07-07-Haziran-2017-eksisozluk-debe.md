@@ -6,63 +6,70 @@ data:
     katar'a tsk'nın asker sevkiyatı
   entry_id:  68644759
   entry_writer: mike ehrmantraut
-  entry_fav_count: 1264
+  entry_fav_count: 1266
   entry_content: |
     katar'dan bize ne amk? <br/><br/>bizi allahın arabıyla bu kadar derin ilişkiye sokanlar gitsin kurtarsın.
+- entry_name: |
+    #türkordusukatara
+  entry_id:  68645700
+  entry_writer: zolegor
+  entry_fav_count: 708
+  entry_content: |
+    tsk gitmesin de, kim gitmek istiyorsa siktirolup gidebilir.
 - entry_name: |
     ramazan'da sokakta yemek yiyen dayak yer
   entry_id:  68652529
   entry_writer: oyuncak bulut
-  entry_fav_count: 518
+  entry_fav_count: 524
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c3%a7%c4%b1k+hava+%c3%a7omarhanesi">açık hava çomarhanesi</a>)
 - entry_name: |
     zeytin mi daha önemli yapılacak tesis mi
   entry_id:  68654299
   entry_writer: adamo1923
-  entry_fav_count: 368
+  entry_fav_count: 374
   entry_content: |
     zeytin.
 - entry_name: |
     6 haziran 2017 pkk'nın yayınladığı tehdit metni
   entry_id:  68657678
   entry_writer: quricco
-  entry_fav_count: 352
+  entry_fav_count: 372
   entry_content: |
     (bkz: <a class="b" href="/?q=ho%c5%9ft">hoşt</a>)
 - entry_name: |
     arda turan'ın milli takımı bırakması
   entry_id:  68657988
   entry_writer: nic kniedis
-  entry_fav_count: 347
+  entry_fav_count: 354
   entry_content: |
     milli takıma birazcık da olsa ısınmamı sağlayan gelişme. sırada diğer çomarlar var.
 - entry_name: |
     oreo'nun abartılmış balon bir bisküvi olması
   entry_id:  68644212
   entry_writer: zarpandi t
-  entry_fav_count: 234
+  entry_fav_count: 240
   entry_content: |
     ne kadar da haklı bir serzeniş. oysa bu topraklarda negro üretildi. kimse kusura bakmasın ama negro dururken oreo'ya para basan insanların farkında olmadan illuminatinin kötücül amaçlarına kurban edildiğini düşünüyorum. bu bisküvinin ardında dış mihrakların parmağı var. tehlikenin farkında mısınız??.:)
-- entry_name: |
-    arda turan
-  entry_id:  68648257
-  entry_writer: saritele
-  entry_fav_count: 220
-  entry_content: |
-    açıklama yapmış futbolcu.<br/><br/>yine şeref, onur, allah, millet ne var ne yok katmış önüne. kimseye hesap vermezmiş (saldırmak ne zamandan beri kanunen hesapsız kalıyorsa kafasında) de, oymuş buymuş. 3 yaşındaki çocuğun imla bilgisiyle, 3 iq'lu çomar manevi duygularını ortaya dökmüş, anca <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BU-0ow2hVoE/?taken-by=ardaturan" title="https://www.instagram.com/p/BU-0ow2hVoE/?taken-by=ardaturan">bu</a> çıkabilmiş ortaya.<br/><br/>bu delikanlılık falan da çok sökmez arda, kulüp bulamayacağın günler de gelicek, çok yakında.<br/>allah'tan başka kimseden bi' şey istemezmiş, allah için mi çektin lan referandum videolarını?<br/><br/>sizin gibi çomarlar yüzünden ahlak, allah, maneviyat, aile, şeref, onur bütün bu kelimelerin içi bomboş kaldı, kafalarınız gibi. <br/><br/>barcelona'dan osmanlıspor'a müthiş kariyer hikayeni okumaya az kaldı.<br/><br/>not: milli takımı bıraktım olayını yemeyin, kovuldun arda kovuldun. <br/><br/>edit: uyarı ve tavsiyeler sonucu yumuşatıldı, içimden gelenleri kaldırmak zorunda kaldım.
 - entry_name: |
     atatürk'e toz kondurmayan halk kitlesi
   entry_id:  68657832
   entry_writer: denlidensiz
-  entry_fav_count: 207
+  entry_fav_count: 221
   entry_content: |
     "herşeye rağmen muhakkak bir ışığa doğru yürümekteyiz. bende bu imanı yaşatan kuvvet, yalnız aziz memleket ve milletim hakkındaki sonsuz sevgim değil; bugünün karanlıkları, ahlaksızları, şarlatanları içinde sırf vatan ve hakikat aşkıyla ışık serpmeye ve aramaya çalışan bir gençlik gördüğümdür. " -m. kemal atatürk - <br/><br/>sen şimdi böylesi bir lidere toz kondurabilir misin? ben konduramam. o kadar kansız ve nankör olamam.
+- entry_name: |
+    arda turan
+  entry_id:  68648257
+  entry_writer: saritele
+  entry_fav_count: 221
+  entry_content: |
+    açıklama yapmış futbolcu.<br/><br/>yine şeref, onur, allah, millet ne var ne yok katmış önüne. kimseye hesap vermezmiş (saldırmak ne zamandan beri kanunen hesapsız kalıyorsa kafasında) de, oymuş buymuş. 3 yaşındaki çocuğun imla bilgisiyle, 3 iq'lu çomar manevi duygularını ortaya dökmüş, anca <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BU-0ow2hVoE/?taken-by=ardaturan" title="https://www.instagram.com/p/BU-0ow2hVoE/?taken-by=ardaturan">bu</a> çıkabilmiş ortaya.<br/><br/>bu delikanlılık falan da çok sökmez arda, kulüp bulamayacağın günler de gelicek, çok yakında.<br/>allah'tan başka kimseden bi' şey istemezmiş, allah için mi çektin lan referandum videolarını?<br/><br/>sizin gibi çomarlar yüzünden ahlak, allah, maneviyat, aile, şeref, onur bütün bu kelimelerin içi bomboş kaldı, kafalarınız gibi. <br/><br/>barcelona'dan osmanlıspor'a müthiş kariyer hikayeni okumaya az kaldı.<br/><br/>not: milli takımı bıraktım olayını yemeyin, kovuldun arda kovuldun. <br/><br/>edit: uyarı ve tavsiyeler sonucu yumuşatıldı, içimden gelenleri kaldırmak zorunda kaldım.
 - entry_name: |
     10 bin liraya yapılacak en iyi yatırım
   entry_id:  68655053
   entry_writer: deliefendi
-  entry_fav_count: 173
+  entry_fav_count: 176
   entry_content: |
     kendinize göre bir arsa/tarla almak. ben yaptım bunu. elimdeki 12 bin lirayı yatırdım kapadokya'da bir yere. kuyu ile su bulduk, küçük ahşap bir ev yapılıyor şimdi. bu sene elektrik için güneş ve rüzgar panelleri kurulacak. şimdi yan tarafımı da alıp genişletmek istiyorum. 2-3 senede harcadığım 12'nin üzerine, 12 daha harcadım. daha da harcarım. ilk onu harcamasaydım diğerlerini harcamak zorunda kalmazdım. ancak bir çakılı çivimin olmadığı istanbul plaza çalışanı halimden, 30-40 bin liraya ev-arsa sahibi olarak ayrılacağım. işlerde sorun mu oldu, memleket mi battı, ben kiramı nasıl ödeyeceğim diye düşünmeden basıp gideceğim. siz burada birbirinizi yerken ben domat ekeceğim.
 - entry_name: |
@@ -76,14 +83,14 @@ data:
     rıdvan dilmen
   entry_id:  68658514
   entry_writer: feysbuktaki komik yorum
-  entry_fav_count: 152
+  entry_fav_count: 155
   entry_content: |
     arda'yı yarım ağız eleştirip sonra savunmaya başlayan ve gazetecilere geçiren pislik herifin teki. bunlar muazzam bir çete olmuşlar. defolup gitmeden türk futbolu düzelmez.
 - entry_name: |
     arda turan'ın milli takım kampından kovulması
   entry_id:  68655895
   entry_writer: alfabenin30uncuharfi
-  entry_fav_count: 151
+  entry_fav_count: 153
   entry_content: |
     (bkz: <a class="b" href="/?q=ben+sporcunun+zeki+%c3%a7evik+ve+ahlakl%c4%b1s%c4%b1n%c4%b1+severim">ben sporcunun zeki çevik ve ahlaklısını severim</a>)<br/><br/>mustafa kemal atatürk
 - entry_name: |
@@ -97,9 +104,16 @@ data:
     bilecik'teki köpek yiyen canavar
   entry_id:  68654081
   entry_writer: elmasalyangozu
-  entry_fav_count: 128
+  entry_fav_count: 131
   entry_content: |
     (bkz: <a class="b" href="/?q=supernatural">supernatural</a>)<br/><br/>sam ve dean kardeşleri göreve davet ediyorum.
+- entry_name: |
+    bağış erten
+  entry_id:  68658904
+  entry_writer: slashedduff
+  entry_fav_count: 123
+  entry_content: |
+    az önce ntv spor'da <a class="b" href="/?q=r%c4%b1dvan+dilmen">rıdvan dilmen</a>'i yerin dibine sokmuştur. <a class="b" href="/?q=tu%c4%9fba+dural">tuğba dural</a>'a da "sürekli adamlıktan bahsediyorlar sen kadın olarak rahatsız olmuyor musun? bu ülkenin yarısı kadın, sürekli bir adamlık lafı gidiyor. bu adamlık kriterini kim belirliyor?" demiştir.<br/><br/>adamın yüzüne kapattılar şimdi.<br/><br/>edit: abov şimdi öğrendim ki rıdvan dilmen ile tuğba dural arasında ilişki varmış adam resmen duble kombo yapmış. saygılar diliyorum.
 - entry_name: |
     eşi istifa eden rektörün faturayı çalışana kesmesi
   entry_id:  68657230
@@ -108,45 +122,31 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=e%c5%9fini+enstit%c3%bcye+sekreter+olarak+atayan+rekt%c3%b6r">eşini enstitüye sekreter olarak atayan rektör</a>)ün son icraatı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/esi-istifa-eden-rektor-faturayi-personele-kesti-40481657" title="http://www.hurriyet.com.tr/esi-istifa-eden-rektor-faturayi-personele-kesti-40481657">http://www.hurriyet.com.tr/…ersonele-kesti-40481657</a><br/><br/>ben olsam yaptığımdan utanır, köşeme çekilir, bu utanç vesilesi hadisenin unutulmasını beklerdim. ama adam, söz konusu atamayı basına sızdırma ihtimali olan 11 personeli açığa almış, üçüne de idari soruşturma açmış.<br/><br/>edit:<br/><br/>bu durumun benzerlerinin sürekli yaşandığı birçoğumuzun malumu olduğu gibi, geri kalanlarımız için de tahmin edilegelmekteydi. <br/><br/>zaten, pamukkale üniversitesi rektörünün; "benden önce, kuruluşundan beri görev yapan tüm rektörlerin eşleri pamukkale üniversitesi'nde çalışıyordu. o zaman her şey normaldi de şimdi mi anormalleşti? o zaman etik sorun yoktu da şimdi mi problem oldu?" sözleri de biraz bunun göstergesi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/pamukkale-universitesi-rektoru-esiyle-birlikt-40480244" title="http://www.hurriyet.com.tr/pamukkale-universitesi-rektoru-esiyle-birlikt-40480244">http://www.hurriyet.com.tr/…esiyle-birlikt-40480244</a><br/><br/>artık sayın rektörümüzün bu tepkisine, <a class="b" href="/?q=yavuz+h%c4%b1rs%c4%b1z+ev+sahibini+bast%c4%b1r%c4%b1r">yavuz hırsız ev sahibini bastırır</a> mı dersiniz, <a class="b" href="/?q=merd-i+k%c4%b1pti+%c5%9fecaat+arz+ederken+sirkatin+s%c3%b6yler">merd-i kıpti şecaat arz ederken sirkatin söyler</a> mi dersiniz, size kalmış. ancak, ahlaki anlamda ve vardıysa eğer "değerler" anlamında çöktüğümüzün açık delaletidir.<br/><br/>yalnız anlaşılan rektör hüseyin bağ bu anlamda tek değilmiş;<br/><br/>(bkz: <a class="b" href="/?q=alk%c3%bc+rekt%c3%b6r%c3%bcn%c3%bcn+de+e%c5%9fini+enstit%c3%bc+sekreteri+atamas%c4%b1">alkü rektörünün de eşini enstitü sekreteri ataması</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.memurlar.net/haber/672596/bir-rektor-esi-atamasi-da-alanya-da.html?utm_source=headlines" title="http://www.memurlar.net/haber/672596/bir-rektor-esi-atamasi-da-alanya-da.html?utm_source=headlines">http://www.memurlar.net/….html?utm_source=headlines</a><br/><br/>unutmayalım, <a class="b" href="/?q=bal+tutan+parma%c4%9f%c4%b1n%c4%b1+yalar">bal tutan parmağını yalar</a> sözü de bu topraklarda neşet etmişti.
 - entry_name: |
-    bağış erten
-  entry_id:  68658904
-  entry_writer: slashedduff
-  entry_fav_count: 118
-  entry_content: |
-    az önce ntv spor'da <a class="b" href="/?q=r%c4%b1dvan+dilmen">rıdvan dilmen</a>'i yerin dibine sokmuştur. <a class="b" href="/?q=tu%c4%9fba+dural">tuğba dural</a>'a da "sürekli adamlıktan bahsediyorlar sen kadın olarak rahatsız olmuyor musun? bu ülkenin yarısı kadın, sürekli bir adamlık lafı gidiyor. bu adamlık kriterini kim belirliyor?" demiştir.<br/><br/>adamın yüzüne kapattılar şimdi.<br/><br/>edit: abov şimdi öğrendim ki rıdvan dilmen ile tuğba dural arasında ilişki varmış adam resmen duble kombo yapmış. saygılar diliyorum.
-- entry_name: |
-    fenerbahçe'ye ocakta gelseydim şampiyon olurduk
-  entry_id:  68654002
-  entry_writer: beeyore
-  entry_fav_count: 107
-  entry_content: |
-    mutevazılık seviyesi olarak akillara şu gorseli getirmiştir. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.bagcilar.bel.tr/Files/Haberler/Foto_Album/Haberler2012/Tumer_Metin_Ben_Beikta_deil_onlar_beni_brakt/BSN_5337.JPG" title="http://www.bagcilar.bel.tr/Files/Haberler/Foto_Album/Haberler2012/Tumer_Metin_Ben_Beikta_deil_onlar_beni_brakt/BSN_5337.JPG">http://www.bagcilar.bel.tr/…beni_brakt/bsn_5337.jpg</a><br/><br/>(bkz: <a class="b" href="/?q=efsane+futbolcu">efsane futbolcu</a>)
-- entry_name: |
     türkiye katar'a neden destek çıkıyor
   entry_id:  68652512
   entry_writer: ruhi mucerret
-  entry_fav_count: 102
+  entry_fav_count: 105
   entry_content: |
     türkiye'nin katar'a sahip çıkmasının nedeni ideolojik, dini, mezhepsel, bölgesel...vs falan değildir. bunun ortada kilo kilo kanıtı var. <br/><br/>türkiye'nin katar'a sahip çıkmak zorunda olmasının tek bir nedeni var, o da hayatları boyunca süremeyecekleri bir sefayı sürecek kadar yükünü tutmuş, deveyi hamuduyla yutmuş besleme bir ak köpek zümresi olmasıdır.<br/><br/>bu havuz köpekleri, bu troller nasıl besleniyor, bu kirli düzen nasıl dönüyor sanıyorsunuz?
 - entry_name: |
     kenarıya çekilmek
   entry_id:  68658062
   entry_writer: benim nickim ne olsun
-  entry_fav_count: 97
+  entry_fav_count: 100
   entry_content: |
     milli takımı bırakmak anlamında kullanılan bir söz öbeği.
 - entry_name: |
     800 ton altın bulunan köy
   entry_id:  68651404
   entry_writer: gelecomp
-  entry_fav_count: 91
+  entry_fav_count: 93
   entry_content: |
     babam da borçtan harçtan ölmeden önce hazine derdine düşmüştü onu aklıma getirdi.
 - entry_name: |
     üstteki yazarın nickinin düşündürdüğü
   entry_id:  68648555
   entry_writer: skip add
-  entry_fav_count: 82
+  entry_fav_count: 83
   entry_content: |
     (bkz: <a class="b" href="/?q=fuat+avni">fuat avni</a>)
 - entry_name: |
@@ -157,6 +157,13 @@ data:
   entry_content: |
     özet isteyenler için dev hizmet:<br/><br/>merhaba ben arda, 60 yaşında adama ana avrat sövüp dövmeye kalktım, benden futbolculuk değil adamlık öğrenin, sizin de amınıza koyayım, milli takımı da bıraktım, teşekkürler.
 - entry_name: |
+    6 haziran 2017 arda turan'ın kadrodan çıkarılması
+  entry_id:  68655903
+  entry_writer: adriana limanin bibisi
+  entry_fav_count: 79
+  entry_content: |
+    2-3 gün sonra ntv'de rıdvan abisiyle programa çıkar, ne kadar iyi biri olduğunu, yardımseverliğini, bayrampaşalı olduğunu falan anlatır. sonra yüksek yerlerden gelen bir telefonla yeniden döner kadroya. kendisi ülkenin en önemli değeridir. 100 yılda bir gelir onun gibisi.
+- entry_name: |
     5 haziran 2017 katar krizi
   entry_id:  68645159
   entry_writer: shot bardagi
@@ -164,17 +171,10 @@ data:
   entry_content: |
     katar'da bulunmadım ama arap ülkelerinde totalde 3 sene geçirdim. bunun 1.5 senesi umman'dadır. katar'da halihazırda çalışan veya bulunmuş zibil gibi arkadaşım dostum var. yüksek lisans mezunuyum.<br/><br/>katar, değişik bir ülke. körfez bölgesindeki başka hiç bir ülkeye benzemiyor. dişdaşaları bile farklıdır diğerlerinden. <br/><br/>katar'da bir güç hırsı var. daha doğrusu küresel bir güç olma hırsı. diğer hiç bir arap ülkesinde bunu göremezsiniz. hepsi kendi iç dengelerinde kral olmanın derdindedir. diğer kardeşleri ile ara ara hırlaşsalar da iş bir yerde çözülür, develer kesilir, pilavlar avuçlanır, içmağa ve zinaya bahreyn'e gidilir, saati 1k usd'lik avrupalı eskortlar gelir iş tatlıya bağlanır.<br/><br/>ama bu katar bambaşka. gittiler önce el cezire diye bir medya devi kurdular. dünyaya yaydılar. tunus'ta, mısır'da, libya'da arap baharı denen naneyi desteklediler. kendi kendilerine bir havalara bir hallere girdiler. 2022 dünya kupasını aldılar, yollar, statlar, yüksek binalar gırla gidiyordu.<br/><br/>yetmedi.<br/><br/>doyamadılar.<br/><br/>üstlerinde oturdukları sonsuz doğalgaz denizini suriye ve türkiye üzerinden avrupa'ya taşıyıp oranın da kaymağını yemek istediler. esat-rusya hop dedi, iç savaş çıkarttılar. daha doğrusu ateşine benzini barrrrrr diye döktüler. tabi bu önce kendilerini vurdu. petrol fiyatları ebesinin amını gördü. el şakşak ül devasa taşşak towers gibi safi ziyan fakat expatın kanı canı olan inşaat projeleri durdu. <br/><br/>bu kadar mevzuyu tabii ki tek başlarına yapmadılar. şimdi eğer kalkıp da katar'ın amerika'yı falan geçtim, suud'dan bağımsız olarak bir işler çevirip ambargodan belini doğrultamamış ve kanlı bıçaklı mezhep savaşlarından bir tık uzakta oldukları iran'a yaklaştıkları için bu şevkat tokatını yediğini söylerseniz bu biraz havada kalır.<br/><br/>artık küreye el koymalı fantastik savaşlar çağına girdik. suud'lar 350 milyar dolarlık silahı ambarlarda çürütmeye almadı. hedeflerinin iran ve denk getirebilirlerse de katar'ın sonsuz doğalgaz denizi olduğu açık. katar garibim de şamar oğlanı gibi kaldı arada. olan bizim expat arkadaşlara olacak gibi. ummandayken de hep dua ederdik varisi olmayan sultan kabus biz ordayken ölmesin diye ki iç savaşın ortasında kalmayalım. kısmet katar'aymış demeyiz umarım.<br/><br/>bu arada suud'da 10 milyon şii yaşamaktadır. expatlarla, hintli kölelerle beraber 3 milyon olan tüm katar nüfusunun 3 katı yani. kimin iran'a yaklaşma olasılığı daha yüksek bir düşünün. işin altında başka işler dönüyor.<br/><br/>buraya "siyasal islam bitti, uzatmaları oynuyor" falan da yazmak isterdim ama hem maddi hem manevi çok bitiğim bu konuda. 8 seçim kaybetmiş pasifin önde gideni bir memuru deviremiyoruz da, siyasal islamı bitireceğiz he mi. peh.
 - entry_name: |
-    çok tatlısın sevişelim mi mesajı atan kız yazar
-  entry_id:  68656424
-  entry_writer: ozimus
-  entry_fav_count: 60
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yaz+k%c4%b1z%c4%b1m">yaz kızım</a>)
-- entry_name: |
     cristiano ronaldo vs lionel messi
   entry_id:  68649930
   entry_writer: cok bilmis olmayan avukat
-  entry_fav_count: 59
+  entry_fav_count: 60
   entry_content: |
     messi takımını, ronaldo'yu ise takımı taşıyormuş. <br/><br/>neymar ve luiz suarez ile oynayan adamın takımı çok kötüymüş. takımını messi taşıyormuş. arjantin milli takımı için de öyledir eminim. messi kendilerini başarıdan başarıya koşturuyordur. <br/><br/>öte yandan real madrid takımına bakıyoruz. bu takım, güya barcelona'dan daha iyiymiş ve ronaldo'yu onlar taşıyormuş. portekiz milli takımı şampiyon olurken de o kadro ronlado'yu taşıyordu değil mi?<br/><br/>bir şey yazıyorsunuz bari sağlam temelleri var mı diye bir bakın.
 - entry_name: |
@@ -188,21 +188,14 @@ data:
     a turan 3 adamın şişman ve çirkin olan ikisi m boz
   entry_id:  68662140
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 40
+  entry_fav_count: 50
   entry_content: |
     sil lan sil.<br/><br/>a haber darbe sifresi paylasiyorlar diye siteyi kapattirir.
-- entry_name: |
-    30 yaşında bekar kadın
-  entry_id:  68643834
-  entry_writer: dgr
-  entry_fav_count: 28
-  entry_content: |
-    30 yaş, "koca çınar" olarak nitelendirilecek bir yaş değildir. büyüdüğünde anlarsın. insanlar incinebilir. ergen ergen entry girmemek gereklidir.<br/>kendimden örnek vererek bazı noktalara değinmek istiyorum.<br/><br/>ben 18 yaşındayken üniversiteyi kazandığım yıl motorsikletle bir trafik kazası geçirmişim, hatırlamıyorum. okula bir kaç sene sonra tekrar başladım. 10 yılda bitirdim. 28 yaşında mezun oldum. kazadan sonra hayatımın karardığını düşündüğüm için kendimi herşeyden soyutladım. evlenecek birini de aramadım. okuldan sonra askerlik ve 3 yıl da çalışma hayatını katarsak yaşım 32.. ve daha evlenmedim. bu kısaca benim hikayem.<br/><br/>çevrendeki o 30 yaşındaki kadınların da neler yaşadığını, ne türlü badireler atlattığını bilemezsin, anladın mı? bir insanı nasıl bu denli yerebiliyorsunuz amına koyduğumun ibneleri? kim bilir ne hikayeleri vardır. onlar burada yazarken sen sikini sadece işemek için kullanıyordun. adam mı oldun lan?<br/><br/>gelin ve reel hayatta benim yüzüme karşı konuşun bu kusmuklarınızı. yere çivi gibi gömüyor muyum, gömmüyor muyum..
 - entry_name: |
     erkeklerin dar pantolon giymesi uygun değildir
   entry_id:  68662284
   entry_writer: urbangrey
-  entry_fav_count: 26
+  entry_fav_count: 30
   entry_content: |
     (bkz: <a class="b" href="/?q=ya%c5%9fam+tarz%c4%b1na+m%c3%bcdahale+etmeyiz+m%c3%bcdahil+oluruz">yaşam tarzına müdahale etmeyiz müdahil oluruz</a>)
 - entry_name: |
@@ -213,26 +206,33 @@ data:
   entry_content: |
     kınadığını yaşamış şarkıcı.<br/>yıllar önce popstar bayhan hapse girdiği için ona herkesin önünde küçük düşürücü sözler edip yayını terk etmesi dün gibi aklımda. gün geldi devran döndü kendi iki kere girmek zorunda kaldı hapse. üstelik ikinci sefer girmemek için kaçtı ve kaçakken yakalandı ve sıka sıka yattı cezası olan süreyi. gerçekten ibret alınası...
 - entry_name: |
-    sahibinden.com dava
-  entry_id:  68662156
-  entry_writer: yazar olsan ne yazar olmasan ne yazar
+    fikret orman
+  entry_id:  68644253
+  entry_writer: ipimle kusagim
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+format%c4%b1+seks">sözlük formatı seks</a>)
+    hedefimiz 100 milyon beşiktaşlı derken cümle içinde türkiye kullanmış mı ? hayır. bir dünya markası yaratmak istiyoruz diye bağırıyor adam 4 senedir. bundan sonra hedef global olarak takımımızın ismini duyurmak ve dünyada taraftarları olan bir kulüp haline gelmek olmalıdır. başkanımızın vizyonu doğrudur. anlamıyorsanız bir daha okuyun demek istiyorum ancak art niyet olduktan sonra okusan da eşek aynı eşek.<br/><br/>tanım: vizyoner yönetici.
 - entry_name: |
     arda turan'ın tekrar milli takıma alınması
   entry_id:  68658966
   entry_writer: yambiliyami
-  entry_fav_count: 17
+  entry_fav_count: 19
   entry_content: |
     <a class="b" href="/?q=uzun+adam">uzun adam</a>'ın bir lafına bakar.
 - entry_name: |
     35 yaş üstü erkeklerdeki genç kız sevdası
   entry_id:  68653452
   entry_writer: gil estel
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     aslında öyle bir sevda yok, ama şu var ;<br/><br/>35 yaşındaki adamın takılacağı kadın yine kendi yaşlarında yani 30-35 olması lazım. e o yaştaki kadınların büyük kısmı da evlendiği için adama seçenek kalmıyor fazla. bu kadar şeyetmeyin. işin tersi olduğu zaman yani 20-25 yaşındaki kız 35-45 yaşındaki adamla çıkarken - ama saygı duyulmalı, kendi tercihidir <br/><br/>deniyor. neden erkek bunu yapınca sübyancı muamelesi görüyor ?
+- entry_name: |
+    akp bir terör örgütünün 4 parmağını simge yaptı
+  entry_id:  68661603
+  entry_writer: insan donuna girmis telli turna
+  entry_fav_count: 15
+  entry_content: |
+    kılıçdaroğlu tarafından ortamlara salınan <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/siyaset/755376/Kilicdaroglu__Hukumet_Rabia_simgesinden_vezgecmeli__teror_orgutunun_dort_parmagini_simgeniz_yaptiniz.html" title="http://www.cumhuriyet.com.tr/m/haber/siyaset/755376/Kilicdaroglu__Hukumet_Rabia_simgesinden_vezgecmeli__teror_orgutunun_dort_parmagini_simgeniz_yaptiniz.html">kobra</a>. vaziyet aldım ve bekliyorum.<br/><br/>"türkiye suudi arabistan'la katar arasında taraf olmamalıdır.<br/>katar, ihvan'a yani müslüman kardeşlere desteği kesmeli. bu konuda ihvan'ı destekleyecek siyasetten ak parti uzak durmalı. müslüman kardeşleri destekliyor, başta ak parti'nin genel başkanı. bu çok tehlikelidir. o desteğini süratle çekmeli ve aynı şekilde 'rabia' simgesinden de vazgeçmeli; çünkü mısır, suudi arabistan ve bae müslüman kardeşleri terör örgütü olarak görüyor. siz gitmişsiniz müslüman dünyanın terör örgütü olarak gördüğü ihvan'ın simgesini getiriyorsunuz ak parti'nin simgesi haline getiriyorsunuz. hani bunun yerlisi hani bunun millisi? bir terör örgütünün dört parmağını getirdiniz, kendi simgeniz yaptınız. ak parti'nin ihvan'dan desteğini süratle çekmesi lazım".
 - entry_name: |
     kurt yavrularına işkence eden adam
   entry_id:  68643783
@@ -241,19 +241,19 @@ data:
   entry_content: |
     ya okursa ümidi ile... ulan profiline de baktım, ya sen nasıl bir şerefsizsin, allah senin doğduğun gün cezanı vermiş zaten. köpeğe değil sana daha çok acıdım. o tipin, o &lt;3 şekli yapan kıro cahil tavırların, buram buram yüzünden akan fakirliğin, o fakirlikten kurtulmanı hayatın boyunca engelleyecek cahilliğin, o cahilliğini hiç bir zaman geçiremeyeceğin zekan... yazık lan sana. seni karın falan banko aldatır, yukardaki tüm sebeplerden ayrı ayrı terk edilirsin piç kurusu.
 - entry_name: |
-    akp bir terör örgütünün 4 parmağını simge yaptı
-  entry_id:  68661603
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 13
-  entry_content: |
-    kılıçdaroğlu tarafından ortamlara salınan <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/siyaset/755376/Kilicdaroglu__Hukumet_Rabia_simgesinden_vezgecmeli__teror_orgutunun_dort_parmagini_simgeniz_yaptiniz.html" title="http://www.cumhuriyet.com.tr/m/haber/siyaset/755376/Kilicdaroglu__Hukumet_Rabia_simgesinden_vezgecmeli__teror_orgutunun_dort_parmagini_simgeniz_yaptiniz.html">kobra</a>. vaziyet aldım ve bekliyorum.<br/><br/>"türkiye suudi arabistan'la katar arasında taraf olmamalıdır.<br/>katar, ihvan'a yani müslüman kardeşlere desteği kesmeli. bu konuda ihvan'ı destekleyecek siyasetten ak parti uzak durmalı. müslüman kardeşleri destekliyor, başta ak parti'nin genel başkanı. bu çok tehlikelidir. o desteğini süratle çekmeli ve aynı şekilde 'rabia' simgesinden de vazgeçmeli; çünkü mısır, suudi arabistan ve bae müslüman kardeşleri terör örgütü olarak görüyor. siz gitmişsiniz müslüman dünyanın terör örgütü olarak gördüğü ihvan'ın simgesini getiriyorsunuz ak parti'nin simgesi haline getiriyorsunuz. hani bunun yerlisi hani bunun millisi? bir terör örgütünün dört parmağını getirdiniz, kendi simgeniz yaptınız. ak parti'nin ihvan'dan desteğini süratle çekmesi lazım".
-- entry_name: |
     6 haziran 2017 anadolu efes beşiktaş sj maçı
   entry_id:  68663674
   entry_writer: teslanin askerleriyiz
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     hayır bir de kimse bütçeden şikayet de etmemiş sadece biri düzgünce çok daha az bütçeyle ufuk hoca'nın iyi iş çıkardığından bahsetmiş. bütçe deyince niyeyse bazıları çıldırmış. kendi başkanınız demedi mi borç istemiyorsanız kapatayım şubeyi zarar ediyoruz diye.
+- entry_name: |
+    youtuber'lara devlet desteği müjdesi
+  entry_id:  68662943
+  entry_writer: strengthforall
+  entry_fav_count: 11
+  entry_content: |
+    zaytung haber yapa yapa ülkeyi sonunda kendisine benzetti amına koyayım.
 - entry_name: |
     survivor 2017
   entry_id:  68662664
@@ -262,40 +262,40 @@ data:
   entry_content: |
     survivor'ı ilk kez bu sezon annem eskiden babamın futbol maçlarını takip ettiği heyecanla takip ediyor diye izledim baya da sardı aq... hatta 10 yıllık da bir geçmişi varmış ama eminim bu yarışma ogeday gibi sinsi bir provokatör görmemiştir. <br/><br/>atıyorum yarışmanın en göze batan insanlarından biri olan serhat akın'a bakıyorsun, adamın çenesine vurmuş olsa da bi art niyeti olmadığı anlaşılabiliyor. yarışmanın başından beri ada hayatını en doğal haliyle sürdürüyor. sinir bozucu bi karakter mi? evet ama biliyorsun ki hissettiklerini söylemekten ve hissettiği gibi davranmaktan çekinmeyen içi dışı bir bi insan. <br/><br/>bi de ogeday sinsisinin karıştığı olaylara bakıyorsun örneğin puzzle olayı, benchte berna'ya yaptıkları, yarışma esnasında sema'yı yanıltması ve acun tarafından itiraz meselesinden dolayı uyarılması... işte serhat akın gibilerden değil böyle adamlardan korkacaksın. insanları kışkırttıktan sonra yattığı "bokunu yiyeyim abi" ayakları geri vitese meyilli ve korkak oluşundan değil sinsiliğindendir. zira karşısındaki insanın sinirlerini o derece yıprattıktan sonra özür dilemenin bi anlamı olmadığını kendisi de çok iyi biliyor. kaldı ki karşısındaki adam zamanında gece gündüz üzerine oynamış bir 4lünün üstüne çılgın sedat'ı koyduklarında bile bu kadar çileden çıkmamış olan adem kılıççı. <br/><br/>işte ogeday öyle bir provokatör ki, adem bile artık bu iğrenç tavra tahammül edemiyor. yoksa yarışmalarda kaybetmiş de çekemiyormuş falan hikaye. öyle olsaydı bu tartışmalar daha öncesinde başlardı çünkü ogeday bu galibiyet yüzdesine 1-2 haftada değil, yarışmanın başından beri kazanarak ulaştı. şimdilerdeyse adem'e karşı eskisi gibi üstünlük kuramadığı için akıl oyunlarıyla rakibini düşürmeye çalışıyor.<br/><br/>velhasıl kimse kimseyi kandırmasın ogeday efendi falan değildir. efendi dediğin gökhan'dır, fatih'tir, tarık mengüç'tür. rica ediyorum efendilik gibi değerli bi kavramı ele ayağa düşürmeyin.
 - entry_name: |
-    bitcoin
-  entry_id:  68659719
-  entry_writer: fatlace
-  entry_fav_count: 10
+    emre mor
+  entry_id:  68644096
+  entry_writer: onuraydin
+  entry_fav_count: 6
   entry_content: |
-    ne kadar artarsa artsın, uzun vade yatırım açısından cazibesini yitirmiş dijital para birimidir. çünkü daha cazip fırsatlar var.<br/><br/>şimdi şöyle düşünün. 10 sene önce 1 dolar değerlendirmeyle 1000 dolarlık btc aldınız. kenara koydunuz, şu anda cebinizde 3 milyon dolar duruyor...<br/><br/>ama şimdi 3 bin dolar değerinden 1 tane bitcoin aldınız... 10 sene sonra bitcoin 100 bin dolar, 200 bin dolar olsa da olsa, karınız, kazancınız önceki 10 yıl kadar cazip değil.<br/><br/>öte yandan altcoin'lerde müthiş fırsatlar yatıyor. ripple, etherum, digibyte... etherum alıp başını gitmiş olsa da hala kazanç ihtimali yüksek. diğerleri de 1 doların altındaki değerleri ama günlük 100 milyon dolarlara varan işlem hacmiyle önümüzdeki 5 sene içinde bin dolar değerlendirmelere koşacak digital para birimleri.<br/><br/>bugün skindirik bir borum tatilinde, skindirik bir barda içki içip instagram'a fotoğraf koymak için gecede 100 doları çöpe atıyorsunuz. bu altcoin'lere 100 dolar yatırsanız, 5 seneye kadar milyoner olma ihtimaliniz çok yüksek.<br/><br/>ama paranızı dijitale yatırdığınızı kızlara söylemeyin. sizinle alay ederler. çünkü onlar henüz kar etmemiş olan her yatırımın gereksiz olduğunu ve en güzel yatırımın tek taş yüzük olduğuna inanmış canlılardır. ayrıca kız arkadaşınıza yatırımlarınızı, işlerinizi, gelecek planlarınızı anlatıyorsanız, büyük ihtimalle gerizekalısınız. çünkü kadınlara saygı duyuyorsunuz.
+    bu maç boyunca performansı şu : <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=_Ib72NI9t6Q">https://www.youtube.com/watch?v=_ib72ni9t6q</a><br/><br/>bir tane doğru düzgün pas veremez mi, hiç bir şeye yaramayamaz mı bir insan yahu?<br/><br/>nerde luka modric'in formasını almak için bekleyen, alçakgönüllü, mütevazi, canla başla top oynayan çocuk; nerde şimdiki hıyarağa? n'oldu olm bu çocuğa?<br/><br/>thomas tuchel anlamadı etmedi de, avrupa'nın en iyi oyuncu yetiştiren takımlarından biri dortmund sistemi de mi yaramadı bu çocuğa?<br/><br/>yazık. bitik şu an. geri dönüşü de malesef çok zor.
 - entry_name: |
-    youtuber'lara devlet desteği müjdesi
-  entry_id:  68662943
-  entry_writer: strengthforall
-  entry_fav_count: 9
-  entry_content: |
-    zaytung haber yapa yapa ülkeyi sonunda kendisine benzetti amına koyayım.
-- entry_name: |
-    katar
-  entry_id:  68649086
-  entry_writer: kesesini kaybeden kanguru
-  entry_fav_count: 5
-  entry_content: |
-    ülkemizdeki muhafazakarların yeni aşkı. <br/>israil'in bir numaralı dostutur katar. israil ordusuna, hani filistinde kan döken, zulüm yapan israil ordusuna düzenli para yardımı yapan ülkedir.<br/><br/>kola almayın, israil orfusuna kurşun olarak gidiyor diyenler, şimdi katar'ı savunuyor.<br/>gerçi dün fetö, ondan önce açılımda da pkk'yı savunuyorlardı.<br/><br/>bi kere de hayırlı bir şeyi savunun a.koyim. <sup class="ab"><a title="(bkz: hahaa)" href="/?q=hahaa" data-query="hahaa">*</a></sup>
-- entry_name: |
-    en iyi futbolcusunun kariyeriyle oynayan basın
-  entry_id:  68661771
-  entry_writer: yavlum mithat
+    nuri bilge ceylan'dan ekşi sözlük'e mesaj
+  entry_id:  68664051
+  entry_writer: hepsini anlatacagim
   entry_fav_count: 3
   entry_content: |
-    adam uçakta babası yaşında muhabiri 15-20 kişinin gözü önünde dövüyor; yetmiyor, yaptıklarının arkasında olduğunu belirten bir metin yayınlıyor; ve biz ekşisözlük'te halen bu barzoyu üstü kapalı da olsa müdafaa edebilen tipler görüyoruz.<br/>vallahi hayret!
+    ben de <a class="b" href="/?q=quentin+tarantino">quentin tarantino</a> ile oturuyorum şu an. ''sözlük çok bozdu'' diyor kendisi.<br/><br/>o değil de bir caps koysa ne göt oluruz belli değil.
 - entry_name: |
-    aykut kocaman
-  entry_id:  68660859
-  entry_writer: fuchs3471
+    fatih terim
+  entry_id:  68649170
+  entry_writer: iyotsuz tuz
+  entry_fav_count: 3
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>...arda turan bu sözleri sarfederken gazeteci bilal meşe'nin boğazına sarıldı.arda, vurmaya da kalkarken araya giren gazeteciler ve futbolcular olayın daha da skandal bir hale gelmesini engelledi.<br/>arda turan, uçağın arka bölümüne giderken tüm gazeteci ve basın mensuplarına sinkaflı ifadeler kullandı.<br/>ve uçakta bu anlar, görüntüler yaşanırken türkiye futbol direktörü <a class="b" href="/?q=fatih+terim%2c+12+s%c4%b1ra+arkas%c4%b1nda+ya%c5%9fanan+arbedeye">fatih terim, 12 sıra arkasında yaşanan arbedeye</a> <a class="b" href="/?q=hi%c3%a7bir+m%c3%bcdahalede+bulunmad%c4%b1.">hiçbir müdahalede bulunmadı.</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/sporarena/arda-turan-ucakta-gazeteciye-saldirdi-sok-kufurler-40481071" title="http://www.hurriyet.com.tr/sporarena/arda-turan-ucakta-gazeteciye-saldirdi-sok-kufurler-40481071">http://www.hurriyet.com.tr/…i-sok-kufurler-40481071</a><br/><br/>kaptanı gazeteci döverken olaya seyirci kalan şahıs. imparatorum diye gezerken kendi yetiştirdiği 30 yaşındaki adamın maskarası oldu. adam önce kendini kadroya çağırttı, sonra uçakta gazeteci döverek buranın ağası benim dedi. arda'yı mecburen kadrodan çıkartacak da gazeteci döven volkan babacan'ı niye çağırdın o zaman sorusuna ne cevap verecek acaba o zaman. gerçi o soruyu soracak adam mı var türkiye'de? hangi hadsiz imparatora böyle bir soru sorabilir?
+- entry_name: |
+    çağatay akman
+  entry_id:  68652026
+  entry_writer: dolaysiztumlec
+  entry_fav_count: 3
+  entry_content: |
+    ilgili şarkısındaki "zenginin meyvesini koy votkasına" bölümü atv'ye çıkınca "zenginin meyvesini koy bardağına" olarak <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Vut0AWyOqf0?t=7m29s" title="https://youtu.be/Vut0AWyOqf0?t=7m29s">değişmiş.</a> aferin yeni ak vizyonu iyi tertip etmişsin genç çocuk. belediye konserlerinde artık önün açık.
+- entry_name: |
+    imac pro
+  entry_id:  68650748
+  entry_writer: meryrock
   entry_fav_count: 2
   entry_content: |
-    eski takım arkadaşı şeytan rıdvan ve şeytanın yanında saf tutan oğuz çetin kadar çirkinleşmeyen spor adamı.<br/>oynattığı futbol, ısrarlı "3 temmuz süreci" vurgusu falan umrumda değil. aykut kocaman gerçekten iyi bir insan olabilmiş, güçlünün yanında saf tutan biri olmamış ya önemli olan o bence.
+    yukarıda bir "inşaat projelendirme" örneği verilmiş. yıllarca macboook pro ya "windows" kurarak statik projelerini yapmış olan biri olarak (ki bunların arasında 100 bin m2 nin üzerinde büyük projelerde var) maalesef kazın ayağı öyle değil diyorum. öncelikle ülkemizde kullanılan belli başlı hesap programlarının hepsi "windows" üzerinde çalışmakta. sap 2000, etabs, x-steel gibi yabancı programlar bir yana bizim yönetmeliğimize uygun ve pratik şekilde detay alabileceğiniz yerli programlardan birini kullanmak istiyorsanız o sanat eseri tasarımına sahip macos lu cihazınıza windows 10 kurmanız gerekmekte. bu çokta önemli değil biraz sonra vereceğim örneği kafanızda macos içinde canlandırabilir, verdiğim donanım örneklerini aynı dönemlerdeki mac cihazlar değiştirip okuyabilirsiniz.<br/><br/>evet vakit nakittir ama bu işlemler için öyle devasa bir kas gücü gerekmez. şöyle izah edeyim evde kullandığım laptop işlemcisi 3 nesil i5, ekran kartı dahili grafik işlemci hd 4000 falan. pes 2016 yı 800x600 min grafikte anca çalıştırıyor ama geçen son bahar ofisteki pc arızalanınca (ki oda i7 ve nividia 730 lu casper ın hazır sistemlerinden biriydi) bununla da işlerimi rahatlıkla yetiştirdim. antalya kundu daki en büyük otellerden birinin projesinde, onlar betonu döktüğü sırada, bir üst katın revizyonu yetiştirmek zorundayken bu sistem ile çalıştım. meslek hayatım boyunca (13 yıldır statik proje yapıyorum) yukarıda ki yazarın kurguladığı senaryonun belkide çok daha sıkışık hallerini bizzat yaşadım ve beni kısıtlayan hiç bir zaman donanım olmadı. örneği devam ettirip mimariye gelelim, o yukarıda bahsettiğim devasa otelin tüm dünyada ki tur operatörlerine ve turizm acentalarına gönderilecek 3d modelleri için ne kullanıldı merak ediyorsanız söyleyeyim. i7 2600k ve nvidia gtx 580 li bir kaç yıllık bir windows pc. 100 bin m2 lik bir otel projesinin ruhsat ve imalat projelerinin hepsi, tüm revizyonları ile (ki 30 küsür revizyon görmüştür) sorunsuzca yetişmesi bu çokta üstün olmayan pc ler ile oldu. kimse kendini kandırmasın iş macos ve windows ta değil kullandığınız programda ve tabii ki sizde bitiyor. türkiye de ki en iyi temel hesabı yapan mühendislerden birisi halen daha kendi yazdığı programını windows xp de kullanıyor. çalıştığım en iyi mimarın bilgisayarı sadece internette gezmeye yarıyor, taslaklarını elle çizdiği için autocad kullanmaz (ki yaşı 40 küsürlerde öyle dinazor falan değil). kimsenin işi bu adamlar kadar yoğun ve acil değil. onlar paralarını pc donanımı yerine programlara harcamayı tercih ediyor. pc yada imac ini güncellemek yerine herkes yazılımını günceller. vray in yeni versiyonu ile 3dk daha geç ama çok daha gerçekçi görüntüler almak daha önemlidir.<br/><br/>işletim sistemleri ve donanım hiç bir zaman sizin daha iyi proje yapmanızı sağlayamadığı için çok ta eski olmadıkları sürece iş hızınızı azaltmaz. aynı şeyler işini macos üzerinde yapmak zorunda olanlar içinde geçerli. onları da iş hayatında kısıtlayan şey en önemli şey eski donanım değil. kimse 2 dk daha hızlı render alıyor diye şirketindeki cihazları değiştirmez. <br/><br/>bu sebeple, 16 çekirdekli xeon işlemcili, vega gpu lu aletlere ihtiyacı olan birileri var evet var ama onlar çok ama çok küçük bir azınlık. beni hiç bir zaman bu tepe modeller heyecanlandırmıyor. ben orta donanım seviyesinde ne sunduklarına, bunun maliyetine ve faydasına bakarım.
 - entry_name: |
     ali nesin
   entry_id:  68644469
@@ -304,13 +304,6 @@ data:
   entry_content: |
     bir twitter yorumu; <a class="b" href="/?q=aziz+nesin">aziz nesin</a> ülkenin %60'ı aptal lafını oğullarına bakarak etti.
 - entry_name: |
-    ağza sinek girmesi
-  entry_id:  68657403
-  entry_writer: turkcekarakterlinikimolsaydikeske
-  entry_fav_count: 2
-  entry_content: |
-    kırsal alanda daha muhtemeldir. hele seni takip eden ufak sinek sürüleri yok mu? ağzını açsan girer, konuşsan girer. delik bulsun yeter ki. iyi ki kıçımızda pantolon var.
-- entry_name: |
     sözlük yazarlarının son okudukları kitap
   entry_id:  68656648
   entry_writer: spiritus sanctus
@@ -318,12 +311,12 @@ data:
   entry_content: |
     <a class="b" href="/?q=kafka+oteli">kafka oteli</a> - <a class="b" href="/?q=ilhan+delikta%c5%9f">ilhan deliktaş</a>
 - entry_name: |
-    nevşin mengü
-  entry_id:  68654194
-  entry_writer: garipbasci
+    mehmet demirkol
+  entry_id:  68660568
+  entry_writer: inanmiyovum
   entry_fav_count: 1
   entry_content: |
-    tedx konuşmasını izledim şu an ve yarısında çıktım. kötü bir durumu anlatmak için "spastik gibi" benzetmesini kullanmak da nedir?
+    <a class="b" href="/?q=ba%c5%9fak%c5%9fehirli+futbolcular%c4%b1n+gazetecilere+sald%c4%b1rmas%c4%b1">başakşehirli futbolcuların gazetecilere saldırması</a> olayında olduğu gibi meslektaşını savunup "yarar görebileceği" kişileri arkasına değil karşısına almıştır. yaptığı yorumları beğenmeyebilirsin ki zaman zaman benim de saçma bulduğum katılmadığım şeyler söylüyor. ama bu tarz olaylarda takındığı cesur tavrı takdir ederim.
 - entry_name: |
     kızların ilişkide mutsuz olmalarının tek nedeni
   entry_id:  68645790
@@ -332,19 +325,26 @@ data:
   entry_content: |
     başkaları için yaşıyor olmaları.<br/><br/>kızlar cengiz'in geniş omuzlu olmasından çok, burcular 'cengiz ne kadar geniş omuzlu, çok şanslısın idilsu' diye iç geçirmelerini istiyor.<br/><br/>sevişirken bile cengiz istiyor diye sevişiyorlar.<br/>ilişkide kendileri için istedikleri/yaptıkları hiçbir şey yok. o öyle düşünsün bu böyle desin...
 - entry_name: |
-    mehmet demirkol
-  entry_id:  68660483
-  entry_writer: sinpecado
-  entry_fav_count: 0
+    ekşi sözlük iş ağı
+  entry_id:  68654670
+  entry_writer: ayakliarabesk
+  entry_fav_count: 1
   entry_content: |
-    çıktı yine çatır çatır konuşuyor. arda'yı ayrı gömdü, terim'i ayrı. <br/>adamsın!
+    yeni mezun endüstri mühendisi olarak iş aramaktayım. yıldız teknik üniversitesi mezunuyum. insan kaynakları alanında staj tecrübelerim var ama başka alanlarda da çalışabilirim. şuan istanbul'da ikamet ediyorum ama lokasyon hiç problem değil fizana bile gidebilirim zira işsizlikten ciğerim soldu.
 - entry_name: |
     house of cards
-  entry_id:  68650368
-  entry_writer: el pajaro
+  entry_id:  68661703
+  entry_writer: boybanddeki gereksiz eleman
   entry_fav_count: 0
   entry_content: |
-    --spoiler--<br/>saibeli secim ve vali'nin hayalkirikligi suphesiz ki 3.dunya sinifi ulkelerinin vatandaslarina tanidik gelen dizi. o degil de turk halki olarak francis'e hayranlik beslememiz, tassaklarini olcup yalamamiz kadar buyuk bi tezatlik olabilit mi? :)<br/><br/>daha 5in 6sindayim da gozler jackie hanimefendiyi ariyor... nerde lan bu kadin. bi sevistirseydiniz zenciyle. iyilerdi onlar...<br/>--spoiler--
+    henuz 5. bolumde oldugumdan cok yorum yapamayacagim ama 5. sezon 4. bolumle bizim 16 nisan gecesini anlatan dizidir
+- entry_name: |
+    emre çolak
+  entry_id:  68664146
+  entry_writer: the chosen1
+  entry_fav_count: 0
+  entry_content: |
+    "herkesin<a class="b" href="/?q=de">de</a> bildiği ama kimilerinin söyleyemediği <a class="b" href="/?q=bir%c5%9fey">birşey</a>i söylüyorum sana abi .. gitsen<a class="b" href="/?q=de">de</a> kalsan<a class="b" href="/?q=da">da</a> oynasan<a class="b" href="/?q=da">da</a> oynamasan<a class="b" href="/?q=da">da</a> sen <a class="b" href="/?q=herzaman">herzaman</a> futbolculuğundan önce adamlığınla karakterinle anıl<a class="b" href="/?q=%c4%b1">ı</a>caksın .."<br/><br/>gozlerim aciyor. resmen yazdigi seyin ustunu cizip, tek tek duzeltesim geldi. yahu bu kadar mi acizsiniz anadilinizi ogrenmekten arkadas.<br/><br/>ulan gerci dogru yazsan ne olacak. "herkesin de bildigi ama kimilerinin soyleyemedigi" ne demek amk.<br/><br/>(bkz: <a class="b" href="/?q=herkesin+hayatina+kimse+karisamaz">herkesin hayatina kimse karisamaz</a>)
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  68643883
