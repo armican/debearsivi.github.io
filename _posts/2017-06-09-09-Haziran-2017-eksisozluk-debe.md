@@ -6,70 +6,84 @@ data:
     evet dediğimiz için arda ve beni bitirdiler
   entry_id:  68700439
   entry_writer: makron
-  entry_fav_count: 1092
+  entry_fav_count: 1104
   entry_content: |
     maalesef klasik akpli mağduriyeti demeci olmuştur. "bitirme" işi evetçilere özgü bir harekettir. insanları işinden kovarlar, hapse atarlar veya ölmesine sebebiyet verirler.<br/><br/>öte yandan hayırcılar protesto eder, izlemez, ürününü kullanmazlar. buna rağmen işini iyi yapana hakkını verirler.<br/><br/>rıdvan fenerbahçelilerin çoğunluğu tarafından sevilen bir spor figürüydü. ne zaman kendini futbol değil siyaset ile ilişkilendirdi, kendi kariyerini bitirmiş oldu. bundan öte insanların kalplerindeki yerinden oldu. <br/><br/>sen taraf oldun sevgili rıdvan. taraf olan biri yüzüstü bıraktığı diğer tarafın sevgisi ve desteği için ağlamamalı. <br/><br/>şahsen ben memleketi bu hale getiren hükümete destek veren hiç bir ünlü şahsiyeti affedemem.
 - entry_name: |
     meb'in okullarda tekne orucu uygulaması
   entry_id:  68696303
   entry_writer: jonroveus
-  entry_fav_count: 982
+  entry_fav_count: 985
   entry_content: |
     milleti araplaştıran değerlerin gelecek kuşakları da zehirlemesi için güzel bir yöntem.
 - entry_name: |
     arda turan'ın pilotlarla yaşadığı kabin gerilimi
   entry_id:  68705258
   entry_writer: garipbasci
-  entry_fav_count: 278
+  entry_fav_count: 301
   entry_content: |
     merak ediyorum kokpit'e girip kuleyle mi haberleşecekti?<br/><br/>-alo kule merhaba. piste doğru gideyim mi yoksa kenarıyada bekleyeyim mi?
 - entry_name: |
-    bursa metrosunda kadınlara özel vagon uygulaması
-  entry_id:  68688920
-  entry_writer: balkanlar uzerinden gelen alcak basinc
-  entry_fav_count: 172
+    zeytinburnu'ndaki korkunçlu 1+1 daire
+  entry_id:  68702773
+  entry_writer: kurteinstein
+  entry_fav_count: 245
   entry_content: |
-    "bu vagona binmeyen kadına tecavüz müstahaktır." anlamına da gelebilen ilkel ötesi uygulama. bir belediye ancak bu kadar sığ, ancak bu kadar geri kafalı olabilir. böyle bir uygulamanın yan etkilerini düşünmekten aciz olmaları bir yana, bunu düşünüp uygulayacak gücü nereden buluyorlar? tüm erkekler potansiyel tecavüzcü demek değildir de nedir bu? ah benim davar ülkem, vah benim manyak ülkem.
+    oğlum siz istanbullular nasıl bir cehennemde yaşıyorsunuz lan?
+- entry_name: |
+    hülya avşar'dan arda turan'a destek açıklaması
+  entry_id:  68698183
+  entry_writer: eylul firtinasi
+  entry_fav_count: 193
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bozac%c4%b1n%c4%b1n+%c5%9fahidi+%c5%9f%c4%b1rac%c4%b1">bozacının şahidi şıracı</a>)
 - entry_name: |
     veterinerler ücret almadan hizmet vermeli
   entry_id:  68703940
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 170
+  entry_fav_count: 173
   entry_content: |
     üç kuruş parayla yaşayan veterinerlere bok atacağınzıa çıkıp devlete yapın giderinizi.<br/>"devlet niye düzgün veterinerlik hizmeti veremiyor, oraya niye hayvan bırakmaya korkuyoruz" de, hıyar.<br/><br/>veteriner her 5 sokak hayvanı karşılığında 1 tane ücretli hayvan bakarsa akşam eve kurtaramadığı hayvanların etlerini mi götürecek yemek için? veterinerlerin kullandığı aşı, ilaç, iğne, narkoz beleş mi geliyor o adamlara? <br/><br/>kirasını sen mi ödüyorsun? vergisini sen mi veriyorsun hıyar?
+- entry_name: |
+    bursa metrosunda kadınlara özel vagon uygulaması
+  entry_id:  68688920
+  entry_writer: balkanlar uzerinden gelen alcak basinc
+  entry_fav_count: 173
+  entry_content: |
+    "bu vagona binmeyen kadına tecavüz müstahaktır." anlamına da gelebilen ilkel ötesi uygulama. bir belediye ancak bu kadar sığ, ancak bu kadar geri kafalı olabilir. böyle bir uygulamanın yan etkilerini düşünmekten aciz olmaları bir yana, bunu düşünüp uygulayacak gücü nereden buluyorlar? tüm erkekler potansiyel tecavüzcü demek değildir de nedir bu? ah benim davar ülkem, vah benim manyak ülkem.
 - entry_name: |
     tc nüfusunun yüzde 33'ünün ateist ve deist olması
   entry_id:  68700543
   entry_writer: umberto d
-  entry_fav_count: 134
+  entry_fav_count: 135
   entry_content: |
     (bkz: <a class="b" href="/?q=trol%c3%bcn+engelle+demesi">trolün engelle demesi</a>)<br/><br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+da+engelleyelim+he+mi">başlıklarını da engelleyelim he mi</a>)
 - entry_name: |
-    beşiktaş
-  entry_id:  68692864
-  entry_writer: kasar yaza
-  entry_fav_count: 104
+    1884 yılında istanbul'da çekilen kebapçı fotoğrafı
+  entry_id:  68696917
+  entry_writer: zibonaj
+  entry_fav_count: 132
   entry_content: |
-    biraz hesap kitap vakti. bakalım <a class="b" href="/?q=%c3%bc%c3%a7+b%c3%bcy%c3%bckler">üç büyükler</a> son sene oynadıkları ideal kadrolarına ne kadar para harcamışlar. <br/><br/>beşiktaş'ın 2016-2017 sezonundaki ideal 11'i :<br/><br/><a class="b" href="/?q=fabricio+ramirez">fabricio ramirez</a> (bonservissiz), <a class="b" href="/?q=adriano+correira">adriano correira</a> (600 bin €), <a class="b" href="/?q=marcelo+guedes">marcelo guedes</a> (1,2 m. €), <a class="b" href="/?q=dusko+tosic">dusko tosic</a> (bonservissiz), <a class="b" href="/?q=g%c3%b6khan+g%c3%b6n%c3%bcl">gökhan gönül</a> (bonservissiz), <a class="b" href="/?q=atiba+hutchinson">atiba hutchinson</a> (bonservissiz), <a class="b" href="/?q=o%c4%9fuzhan+%c3%b6zyakup">oğuzhan özyakup</a> (500 bin €), <a class="b" href="/?q=ricardo+quaresma">ricardo quaresma</a> (1,2 m €), <a class="b" href="/?q=ryan+babel">ryan babel</a> (bonservissiz), <a class="b" href="/?q=anderson+talisca">anderson talisca</a> (2 m. € kiralama bedeli), <a class="b" href="/?q=vincent+aboubakar">vincent aboubakar</a> (3 m. € kiralama bedeli) <br/><br/>toplam ücret : 8,5 m. €<br/><br/><a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'nin 2016-2017 sezonundaki ideal 11'i :<br/><br/><a class="b" href="/?q=volkan+demirel">volkan demirel</a> (bonservissiz), <a class="b" href="/?q=hasan+ali+kald%c4%b1r%c4%b1m">hasan ali kaldırım</a> (3,75 m. €), <a class="b" href="/?q=simon+kjaer">simon kjaer</a> (7,65 m. €), <a class="b" href="/?q=martin+skrtel">martin skrtel</a> (6 m. €), <a class="b" href="/?q=%c5%9fener+%c3%b6zbayrakl%c4%b1">şener özbayraklı</a> (1,63 m. €), <a class="b" href="/?q=mehmet+topal">mehmet topal</a> (4,50 m. €), <a class="b" href="/?q=josef+de+souza">josef de souza</a> (8 m. €), <a class="b" href="/?q=alper+potuk">alper potuk</a> (7,25 m. €), <a class="b" href="/?q=volkan+%c5%9fen">volkan şen</a> (2,5 m. €), <a class="b" href="/?q=jeremain+lens">jeremain lens</a> (3,5 m. € kiralama bedeli), <a class="b" href="/?q=robin+van+persie">robin van persie</a> (5,5 m. €)<br/><br/>toplam ücret : 50.30 m. €<br/><br/><a class="b" href="/?q=galatasaray">galatasaray</a>'ın 2016-2017 sezonundaki ideal 11'i : <br/><br/><a class="b" href="/?q=fernando+muslera">fernando muslera</a> (6,75 m. €), <a class="b" href="/?q=martin+linnes">martin linnes</a> (2 m. €), <a class="b" href="/?q=aurelien+chedjou">aurelien chedjou</a> (6,50 m. €), <a class="b" href="/?q=ahmet+%c3%a7al%c4%b1k">ahmet çalık</a> (2,50 m. €), <a class="b" href="/?q=sabri+sar%c4%b1o%c4%9flu">sabri sarıoğlu</a> (bonservissiz), <a class="b" href="/?q=tolga+ci%c4%9ferci">tolga ciğerci</a> (3 m. €), <a class="b" href="/?q=sel%c3%a7uk+inan">selçuk inan</a> (bonservissiz), <a class="b" href="/?q=bruma">bruma</a> (12 m. €), <a class="b" href="/?q=wesley+sniejder">wesley sniejder</a> (7,5 m. €), <a class="b" href="/?q=yasin+%c3%b6ztekin">yasin öztekin</a> (2,5 m. €), <a class="b" href="/?q=lukas+podolski">lukas podolski</a> (2,5 m. €)<br/><br/>toplam ücret : 45,30 m. €<br/><br/>şimdi bizim "beşiktaş en büyük olma yolunda" iddialarımızın dayanağı anlaşılıyor mu ? şimdi rakiplerimizin, taraftarlarının dikkatini başka taraflara çekmelerinin nedeni anlaşılıyor mu ? <br/><br/>beşiktaş'ın rakipleri, beşiktaş'ın yaklaşık 5 katı kadar para harcamışlar. sezon içinde beşiktaş'tan toplam 26 puan fark yemişler. yani bu iş artık para dökerek de olmuyor ve olmayacak. beşiktaş'a karşı tek kozları buydu yıllarca.<br/><br/><a class="b" href="/?q=financial+fair+play">financial fair play</a>'in ağır şartlarıyla boğuşan beşiktaş, bir sonraki yaz bu anlaşmadan kurtuluyor. parasız halde akıllı transferlerle iki defa şampiyon olan beşiktaş'ın, sezona 10 m. € bonservis bütçesiyle başladığını düşünün bir de. rakiplerin esameleri okunmayacak emin olun. bu sene de eğer şampiyon olabilirsek, bu işin sonu almanya'daki <a class="b" href="/?q=bayern+m%c3%bcnih">bayern münih</a>, italya'daki <a class="b" href="/?q=juventus">juventus</a> dominasyonuna eş değer olacaktır. <br/><br/>lig şampiyonluğunu küçümsemeler, başka branşları öne çıkarmalar, <a class="b" href="/?q=galatasaray">galatasaray</a> ve <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'nin geçmiş başarıları sürekli hatırlatma gereği duyması; kendi taraftarlarına yönelik yaptıkları bir manipülasyon çalışmasıdır. bundan sonra beşiktaş'ın yıkılmasının kolay olmayacağını biliyolar. 100 milyon € harcasınlar transfere, derbide yine sahanın en iyisi bonservissiz alınan <a class="b" href="/?q=atiba+hutchinson">atiba hutchinson</a> olacak. <br/><br/>elleri kolları bağlı, iflasa sürüklenen beşiktaş; zincirlerini kırıp rakiplerinin elini kolunu işte böyle bağladı. <a class="b" href="/?q=%c5%9feref+bey">şeref bey</a>'in, <a class="b" href="/?q=baba+hakk%c4%b1">baba hakkı</a>'nın, <a class="b" href="/?q=s%c3%bcleyman+seba">süleyman seba</a>'nın beşiktaş'ı geri döndü. rakiplerimiz bunu ne kadar hızlı kanıksarlarsa acıları o kadar az olur. <br/><br/>zafer; dün de bizimdi, bugün de bizim, yarın da bizim olacak.
-- entry_name: |
-    hayatı kaçırma hissi
-  entry_id:  68704334
-  entry_writer: wrathirium
-  entry_fav_count: 99
-  entry_content: |
-    (bkz: <a class="b" href="/?q=paras%c4%b1zl%c4%b1k">parasızlık</a>)<br/><br/>ulan yapmak istediğim onca şey var ki. gezmek istediğim yerler, yemek-içmek istediğim şeyler, satın almak istediğim şeyler. her şey işte ama para yok, lanet giresice para yok. <br/><br/>bir de şu iğrenç ülke var. elalemin fındık beyinlisi namaz, niyaz, oruç, 15 temmuz, ecdat diye diye paranın anasını ağlatırken ben burda 200 liralık banknota allahmış gibi bakıyorum.
+    şu fotoğrafa bakıyorum, ardından fotoğraf çekildikten hemen sonra oluşan görüntüyü falan hayal ediyorum. kişileri kafamda oynatıyorum yani. eski fotolar için yapınca çok keyifli oluyor. sahte bir zamanda yolculuk tadı veriyor nedense.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://img03.imgland.net/vISQc6Z.jpg" title="http://img03.imgland.net/vISQc6Z.jpg">fotomuz</a>
 - entry_name: |
     maliye bakanlığı'nın mavi marmara tazminat kararı
   entry_id:  68705416
   entry_writer: ginc
-  entry_fav_count: 94
+  entry_fav_count: 112
   entry_content: |
     sabır kardeşim sabır. hele bi 2071 seçimleri geçsin reis o zaman müdahale edecek.
+- entry_name: |
+    hayatı kaçırma hissi
+  entry_id:  68704334
+  entry_writer: wrathirium
+  entry_fav_count: 100
+  entry_content: |
+    (bkz: <a class="b" href="/?q=paras%c4%b1zl%c4%b1k">parasızlık</a>)<br/><br/>ulan yapmak istediğim onca şey var ki. gezmek istediğim yerler, yemek-içmek istediğim şeyler, satın almak istediğim şeyler. her şey işte ama para yok, lanet giresice para yok. <br/><br/>bir de şu iğrenç ülke var. elalemin fındık beyinlisi namaz, niyaz, oruç, 15 temmuz, ecdat diye diye paranın anasını ağlatırken ben burda 200 liralık banknota allahmış gibi bakıyorum.
 - entry_name: |
     katar'a uygulanan büyük ambargonun gerçek sebebi
   entry_id:  68697928
   entry_writer: november wine
-  entry_fav_count: 92
+  entry_fav_count: 94
   entry_content: |
     eğer adım adım nereye gidiyor diye bakarsanız, işin sonu iran'a ulaşıyor.<br/><br/>suud'lar iran'la can düşmanı. peki bunun kaynağı nerden geliyor ve başka kim düşman?<br/><br/>israil'in iran'la bir meselesi olduğu herkesin bildiği bir gerçek. <br/><br/>abd başkanı trump'ın sudi arabistanla yaptığı 300 milyar doları aşan silah anlaşması ve suud prenslerinden birinin yaptığı "iran yakında bedel ödeyecek" anlamındaki açıklamasından 48 saat geçmeden ışid iran'da ilk terör eylemini yapıyor. <br/><br/>tam suriye'de barış görüşmeleri devam ederken, bir şekilde bölgede hassas bir stabilite sağlanmışken, birileri sönmekte olan ateşe benzinle gidiyor. <br/><br/>bu çok açık bir gerçek. <br/><br/>mısır'ın ve suud'ların bölgede güçlü olmak için israil ile yakın olmaları gerektiğini anlamaları zaten <a class="b" href="/?q=alt%c4%b1+g%c3%bcn+sava%c5%9f%c4%b1">altı gün savaşı</a> sonrası anlaşılmıştı. <br/><br/>israil'in bölge'de yaşanan savaşlara hiç bir sesinin çıkmaması, adeta kendini unutturması, ışid terörünün o taraflara uğramaması, hatta uluslararası medyaya da yansıyan ışıd'in yanlışlıkla israil'a havan topu atıp özür dilemesine bakarsanız gün gibi ortada olan gerçek ortaya çıkar.
 - entry_name: |
@@ -83,14 +97,14 @@ data:
     suudi arabistan milli futbol takımı rezaleti
   entry_id:  68704984
   entry_writer: senna forever
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     "neden böyle oldu" diye sorulsa muhtemelen "abd'ye 350 milyar dolar yatırıp kısa bir süre önce silah aldık, pendik kadar filistin'i sizin insafınıza bıraktık, kralımız öldüğünde ispanya'nın küçük bir kasabasında yas ilan edildi çünkü kralımız her sene gittiği tatilde 350 milyon euro harcayıp mazlum araplar yerine küçük ispanyol kasabalarını abad ederdi. biz kendi coğrafyamızda birbirimizi öldürüyoruz zaten, bir de siz tüy dikmeyin ve aslında bu saygısızlık bizde doğuştan var, kusura bakmayın" diyebilecek bir kaç futbolcu içeren takımdır. neden suudi arabistan milli takımı'nın saygısız oyuncularını mazlum araplar gibi konuşturuyorsunuz ki? suudiler suyu bile senden almıyor, sen onların avukatı mısın?
 - entry_name: |
     katar'da 16 trilyon dolarlık petrol rezervi olması
   entry_id:  68700280
   entry_writer: arkanabakmassankuserim
-  entry_fav_count: 81
+  entry_fav_count: 86
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>açlıktan ağzımız kokuyor<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>bir aktroll itirafı. hani lan "egonomi çohiyi" di.<br/><br/>*<br/><br/>aç olsan bile, karnını doyurmak için savaşa girilir yoksa üretim mi yapılır eey savaş/ganimet'ten başkasını bilmeyen islam dininin yılmaz bekçisi?
 - entry_name: |
@@ -104,9 +118,16 @@ data:
     sezaryenle doğurup kendine anne diyebilen kadın
   entry_id:  68699340
   entry_writer: namusumla yaziyorum
-  entry_fav_count: 62
+  entry_fav_count: 63
   entry_content: |
     gayet normal bir şey söyleyen kadın.<br/><br/>yalnız yukarıdaki arkadaşa söyleyin normal doğum çağ dışı bir olay değil adı üzerindedir.<br/><br/>çok güzel doğurdum bağırmadan ve korkunç hikayeler anlatacak şeyler yaşamadan. kadın doğum uzmanı bile normal doğum yaptığımı vajinal muayene sırasında anlayamadı ama hala kalkıp sidik muhabbeti diyor.<br/><br/>biz sizin bitmek bilmeyen ameliyat yeri sızınızla alay ediyor muyuz acaba? kadınlari ortadan boluverdi durduk yerde. <br/><br/>korkuyorum cesaretim yok de kır dizini otur aşağıya bu neyin havası allasen? ben çocuğumu doğurduğum gün kendime elmalı turta yaptım eminim sen günlerce kendi başına yataktan dogrulamamissindir. bu mu normal afedersin? <br/><br/>herkes sezaryen olabilir doğumda sıkıntı yaşanır yahut fiziksel yapı uygun değildir bu gayet normal, korkup da sezaryen istemek de oyle ama sezaryen doğumla övünüp normal doğum yapan insanlar hakkında bu şekilde konuşmak nedir ben çözemedim. kıskançlık olsa gerek.
+- entry_name: |
+    bir kadına seks teklif etmek taciz midir
+  entry_id:  68707471
+  entry_writer: karanlikruya
+  entry_fav_count: 63
+  entry_content: |
+    erkeklerin aksine kadınların düşündükleri ile yaptıkları aynı değildir. kadın senin için o an ıslansa bitse, erise, ölse bile evrimsel olarak kendisi için mücadele edilmesini, seksi kolay sunmamayı deneyecektir. çünkü evrim der ki kolay edilen kadını herkes elde etmiş demektir ve o kadının bir çok çocuğu olabilir. yani değeri düşüktür. kadın bunu içten içe fark etmeden de olsa bildiği için evrimsel olarak kendini zor satmaya programlıdır.<br/>(bkz: <a class="b" href="/?q=sexual+market+value">sexual market value</a>)<br/><br/>kadınlara bir şey yaptırmak için niyetinizi net olarak (o üstüne basmadıkça) söylemeden adım atmalısınız. aynı satranç gibi. onun seksi sunacağı duruma getirmelisiniz, o seks hamlesini yapınca da mat etmelisiniz. kısacası evet kadının gözünde kendi değeri düştüğü için bunu taciz olarak adlandıracaktır. açıkçası sizinle pek alakası yoktur.
 - entry_name: |
     babaların kıskanılan özellikleri
   entry_id:  68689020
@@ -122,38 +143,31 @@ data:
   entry_content: |
     ilhan mansız'ın duygusallığa tepki olarak doğduğunu kanıtladığı yarışma. <br/><br/>sevgilisi: nasılsın?<br/>ilhan :koşullara göre gayet iyi, sol dizimin iç kısmında bağlarda bir zedelenme var.
 - entry_name: |
-    bir daha aşık olamayacağını kabullenmek
-  entry_id:  68691612
-  entry_writer: yeabsolutely
-  entry_fav_count: 42
-  entry_content: |
-    karşı cinsi değerlendirme işleminin artık kalpten beyne devredildiğini anlamaktır aslında. <br/><br/>bu görev değişimine travmatik bir ilişki sebep olur genelde. hastalık derecesinde sever, tutkuyla bağlanırsınız. mantık devreden çıkar. hayatınız o olur. sonra can suyum dediğiniz hatun kişisi sizi çöllere atar, orada susuz bırakır. öyle olur ki yüzde bilmem kaçı su olan kalbiniz büzülür, küçülür, artık kimseleri alamaz içeri. o vakitten sonra bu işlere beyin bakar. o sağlam organdır, kalp gibi ergen davranmaz bu konularda. tehlikeyi gördüm mü verir alarmı. yeniden o vücuda aynı acıyı çektirmez. <br/><br/>dolayısıyla bazı bünyeler bir daha kolay kolay aşık olamaz.
-- entry_name: |
     aşırı kilolu insanların ortak özellikleri
   entry_id:  68698336
   entry_writer: istenc
-  entry_fav_count: 42
+  entry_fav_count: 43
   entry_content: |
     hayatlarındaki insanları hiçe saymaları.<br/><br/>bu yazıyı ömrü boyunca hep aşırı kilolu olmuş bir babanın kızı olarak yazıyorum.<br/><br/>babam benden 26 yaş büyük. babamı onun otuz yaşındaki zamanından beri hatırlıyorum. her zaman şişmandı ve her zaman hunharca yerdi. yaşadığı sağlık problemlerini şuradan yazmıştım: <a class="b" href="/entry/68110364">#68110364</a><br/><br/>peki o bu sağlık problemlerini yaşarken, biz ailece ne yaşadık.<br/><br/>lise yıllarımın sonuna kadar ben de aşırı kiloluydum; çünkü evimizde yok yoktu. her öğün için ağır et yemekleri, yemek sonrası ağır ağdalı tatlılar, her çeşit hamur işi, her akşam yemeği için mutlaka tereyağlı pirinç pilavı. salata arada kaşıklanmak için vardı, zeytinyağlılar da öyle. ıspanak yemeğinin içine bile kıyma katılırdı, çünkü babam içinde et olmayan bir şeyi yemezdi.<br/><br/>beslenme alışkanlığımı düzeltmem yıllarımı aldı diyebilirim. üniversiteye gidip o evin düzeninden ayrılınca bir yılın sonunda doğrudan bir diyet yapmamama rağmen tam 14 kilo verdim, 74 kilodan 60 kiloya indim. sonradan diyet de yaparak 50-55 kg arası bir yerde kendimi sabitlemeyi başardım. ama çocukluğumdan getirdiğim kötü beslenme alışkanlıklarımla halen boğuşuyorum. an itibariyle otuz bir yaşımdayım ve şekere bağımlıyım. kilomu kontrol altında tutmaya çalıştığım için usturuplu yesem de önüme bir kilo ağır ağdalı tatlı koyun, tıkanmadan yiyebilirim. samimiyetle günün her anında içimde yeme isteği var. 6 yıl sigara kullanıp "of" demeden bıraktım; ama şeker düşkünlüğümden kurtulamıyorum. bir gün bir evlat sahibi olursam onu şekerle tanıştırmamaya yeminliyim. deneyimlerimle çok iyi biliyorum ki, damak tadı çocuklukta gelişiyor ve sonradan değiştirmek de hiç kolay değil.<br/><br/>ben bunları yaşarken annem ne yaşadı ona bakalım. o hep 50 kg civarındaydı. özellikle çiğ yeşilliği ve meyveyi çok sever, tatlıdan nefret ederdi. bizim evin yeme çılgınlığında sağlığını muhafaza etmeyi bu şekilde başardı. şu an 50 yaşında, inanılmaz atletik ve güçlü. enerjisine hayran kalmamak imkansız. ben de onun beslenme alışkanlıklarını benimsemeye çalışıyorum.<br/><br/>babam 40 yaşından itibaren, felç, gut, damar tıkanıklığı ve diyabet gibi hastalıklarla boğuşmaya başladı. hiçbir doktorun tavsiyesine uymayarak berbat yeme alışkanlığında ısrarcı oldu. haliyle yaşam kalitesi yerlerde. vücut sağlığını geçtim, artık mantıklı düşünüp davranamaz da oldu. nasıl anlatayım bilmiyorum, gerçekten aptallaştı. geçirdiği felcin de muhakkak etkisi var. önemli bir karar almamız gerektiğinde babama danışamıyoruz. annem bu yükü de omuzlamış durumda. hem bir sürü hastalıkla boğuşan hem de inatçılıkta çığır açan kocasına bakmak da anneme kaldı. kız kardeşim tıp doktoru, babamın en iyi tıbbi bakımı almasını sağlıyor. ben yanlarına sık gidip geliyorum; ama annem babamla birlikte yaşayan kişi olduğundan derdin en büyüğünü o çekiyor. ömrü babama bakmakla geçiyor. evlilik dediğin insanların birbirine destek olması gereken bir kurumdur. annemin hiç de iyi bir evliliği olmadığını düşünüyorum. çok güzel, çok zarif bir kadın. çocuklarını okutmuş, iş güç sahibi etmiş, hayatın ona yüklediği sorumlulukları savdıktan sonra tamamen kendi için yaşaması gereken yıllarını hasta bakmakla geçiriyor. gerçekten üzülüyorum.<br/><br/>tabi işin bir de maddi boyutu var. babamın felç geçirmesi benim üniversite 2. sınıftaki zamanıma denk gelmişti. annem o sırada çalışmıyordu, sadece babamın geliri ile yaşıyorduk. felç ile beraber büyük maddi yıkım yaşadık. üniversite yıllarımda hem çalışıp hem okumak zorunda kaldım. çok zor zamanlardı.<br/><br/>bütün bunları görmüş yaşamış biri olarak, şişman insanları gördükçe içim buruluyor. onların bu yeme aşkları yüzünden çocukları aileleri ne çekiyor diye düşünmeden edemiyorum. insan sosyal bir yaratık. benim hatalarımdan, en yakınlarım da etkileniyor, bile isteye hata yapmaya hakkımız yok.<br/><br/>babam çok yemeseydi de alkolik olsaydı mesela, hemen hemen aynı sıkıntılardan geçerdik. aynı maddi manevi acıları yaşardık. babam çok yediği için kimse ona kızmıyor, "hasta oldu adam, vah vah" deniyor. alkolik olsa herkes onu suçlardı, ama çok yemek toplum nezdinde yanlış değil. oysa netice itibariyle aralarında çok da bir fark yok. babam da kendini bununla savunuyor, "içkim, sigaram, kumarım yok; sadece yemeye düşkünüm, ne olmuş yani?" diyor rahatlıkla.<br/><br/>ne yazsam bitmiyor bu yazı, öyle doluyum ki bu konuda. babamı affedemiyorum, hastalıkları nedeniyle acı çektiğinde ona üzülsem de tam bir merhamet hissedemiyorum. yazımı okuyan aşırı kilolu biri varsa, lütfen şu sitemimi kabul etsin: inanın sadece sizin bedeniniz sizin kararınız değil. sizinle birlikte sizin yeme düşkünlüğünüz ve hastalıklarınız yüzünden acı çekecek yakınlarınızı düşünün, onlara bunu yapmaya hakkınız olmadığını kabul edin ve yeme isteğinizle yalnız baş edemiyorsanız mutlaka profesyonel destek alın. bu bir diyetisyen olabileceği gibi bir psikiyatr da olabilir. yediklerimizin uyuşturucu etkisi yapabildiğine dair <a rel="nofollow noopener" class="url" target="_blank" href="http://farmaned.com/ups/epdf/16/#page/45" title="http://farmaned.com/ups/epdf/16/#page/45">şu</a> yazıyı bırakıyorum. <br/><br/>amacım kimseyi kırmak yaralamak değil, aşırı kilolu insanların yakınlarının neler yaşadığını aktarmaktı. üzdüğüm, kırdığım varsa affetsin lütfen.
 - entry_name: |
     ferrari 458 italia kutu açılış videosu
   entry_id:  68699306
   entry_writer: turiq
-  entry_fav_count: 40
+  entry_fav_count: 41
   entry_content: |
     arabanın teslim masrafları bile benim arabanın değeri kadar.
 - entry_name: |
-    bir kadına seks teklif etmek taciz midir
-  entry_id:  68707471
-  entry_writer: karanlikruya
-  entry_fav_count: 37
+    ağız ağrısı
+  entry_id:  68708139
+  entry_writer: asklepios26eses
+  entry_fav_count: 39
   entry_content: |
-    erkeklerin aksine kadınların düşündükleri ile yaptıkları aynı değildir. kadın senin için o an ıslansa bitse, erise, ölse bile evrimsel olarak kendisi için mücadele edilmesini, seksi kolay sunmamayı deneyecektir. çünkü evrim der ki kolay edilen kadını herkes elde etmiş demektir ve o kadının bir çok çocuğu olabilir. yani değeri düşüktür. kadın bunu içten içe fark etmeden de olsa bildiği için evrimsel olarak kendini zor satmaya programlıdır.<br/>(bkz: <a class="b" href="/?q=sexual+market+value">sexual market value</a>)<br/><br/>kadınlara bir şey yaptırmak için niyetinizi net olarak (o üstüne basmadıkça) söylemeden adım atmalısınız. aynı satranç gibi. onun seksi sunacağı duruma getirmelisiniz, o seks hamlesini yapınca da mat etmelisiniz. kısacası evet kadının gözünde kendi değeri düştüğü için bunu taciz olarak adlandıracaktır. açıkçası sizinle pek alakası yoktur.
+    up. ulan adam naif bir şekilde yardım istemiş ota boka yardım edersiniz buraya bir entry yazmamışsınız. geçmiş olsun.
 - entry_name: |
     atatürk'ten nefret edenlerin ortak özellikleri
   entry_id:  68705888
   entry_writer: zortlak
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     genellikle dinci olmaları. <br/><br/>bakın dindar demiyorum, dinci. yani dinden ekmek yiyen tayfa. gerçi bunlarınkine ekmek diyemeyiz pek. kaymak olabilir mesela. kısaca şarlatan kısım pek sevmiyor niyeyse. artık zamanında atatürk bunların dedelerine ne yaptıysa.
 - entry_name: |
@@ -167,16 +181,23 @@ data:
     vatanım sensin
   entry_id:  68707423
   entry_writer: agluna
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     <a class="b" href="/?q=leon">leon</a>'un iç çatışmasının çok güzel işlendiği dizi. annesine direkt olarak söylemese de, aklındaki soru: "ne yani, babam, 20 yıldır yanında olan oğlu için, yunan ideallerinden ve görevinden vazgeçmedi de, hiç görmediği ali kemal için mi tüm bunları feda etti?" <a class="b" href="/?q=boran+kuzum">boran kuzum</a>, o kıskançlıkla karışık hayal kırıklığını, gerçeği reddetme sosuna bulayıp, çok güzel yansıtmış.
 - entry_name: |
-    yardım lütfen 4 yıldır devam eden ağız ağrısı
-  entry_id:  68708139
-  entry_writer: asklepios26eses
+    çocukların ateist olduklarını duyunca kahroluyorum
+  entry_id:  68704815
+  entry_writer: portovezik
+  entry_fav_count: 32
+  entry_content: |
+    <a class="b" href="/?q=siyer+vakf%c4%b1">siyer vakfı</a> kurucusu <a class="b" href="/?q=muhammed+emin+y%c4%b1ld%c4%b1r%c4%b1m">muhammed emin yıldırım</a> hoca tarafından yapılan <a rel="nofollow noopener" class="url" target="_blank" href="http://gazetemanifesto.com/2017/06/07/gericiler-agliyor-cocuklarin-ateist-veya-agnostik-olduklarini-duyuyorum-kahroluyorum/" title="http://gazetemanifesto.com/2017/06/07/gericiler-agliyor-cocuklarin-ateist-veya-agnostik-olduklarini-duyuyorum-kahroluyorum/">açıklama</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>haftada en az iki, üç tane anne ve babalardan çocuklarının ateist, deist veya agnostik olduklarına dair mesajlar alıyorum ve kahroluyorum.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yobazlığın devlet politikasına dönüştüğü <a class="b" href="/?q=islamofa%c5%9fizm">islamofaşizm</a>'in yan etkilerinden biridir. cumhuriyetin özgürlükleriyle yetişmiş bir nesli dinin katı taraflarıyla tanıştırırsanız korkutursunuz. tüm dünyayı etkisi altına alan milliyetçilik akımı sonrası iflas eden islamcılık ve osmanlıcık fikirleriyle yürüyüp türklük bilinciyle yetişmiş bir nesile türklük faşistliktir, türkçe konuşmak günahtır şeklinde yanaşırsanız geri teper. bilimin aydınlattığı gerçeklere karşın bilinmezliği savunursanız eliniz boş kalır. en önemlisi her türlü ahlaksızlığı, yalanı, hırsızlığı dinin arkasında sığınarak yaparsanız varacağınız nokta iyilik olamaz. bu yüzden gençlerin yönelimi çok da şaşılacak bir durum değildir.
+- entry_name: |
+    tarkan
+  entry_id:  68689886
+  entry_writer: olur oyle arada
   entry_fav_count: 29
   entry_content: |
-    up. ulan adam naif bir şekilde yardım istemiş ota boka yardım edersiniz buraya bir entry yazmamışsınız. geçmiş olsun.
+    mimar sinan güzel sanatlar lisesi'nin ödül törenine katılacak kadar mütevazı, hiçbir tv kanalının programına çıkmayacak kadar cool kişi.
 - entry_name: |
     ukrayna demir yollarının trende seks tavsiyesi
   entry_id:  68707838
@@ -188,44 +209,30 @@ data:
     ayrı kaldığımız sürede kimseyle beraber olmadım
   entry_id:  68707858
   entry_writer: karanlikruya
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     erkek davranışıdır. kimse kusura bakmasın, böyle bir kadın hiç görmedim, onu bırak zaten bir kadın ayrılıyorsa, sevgili rezervi vardır. ve bu kadın ciddi bir kazık yiyerek terk edilmediyse, acil tarafından unutur, ayrıldığının 1. ayında biriyle sert seks yapar. bunu bilin erkekler, romantiğe bağlayıp kendinizi kandırmayın. <a class="b" href="/?q=briffault+kanunu">briffault kanunu</a> der ki kadını geçmişte yaptıklarınızla, anılarla etkileyemezsiniz, o anki değeriniz önemlidir, o an ki değeriniz düştüyse ve kadın sizden bir yarar sağlayamıyorsa, arkasına bakmadan kaçar gider. geri de dönmez. o mucize dediğiniz bağ artık kopmuştur. niye diye kendinize sormayın. kadın sizin gibi geçmişteki yaşadıklarınıza sıkı sıkıya bağlı değil, "bunu da yapmıştık" demiyor. kadınlar evrimsel olarak unutmaya programlı canlılar, bu şekilde hayatta kalmışlar veya bunu yapmak zorunda kalmışlar. kadın ne diyor? "evet tırı vırı bunu da yapmıştık filan, çok güzeldi, eee ya şimdi?" diyor. <br/><br/>siz onun için ağlarken o muhtemelen sizinle bile yapmadığı şeyleri yapıyor. kendiniz için biriyle olmayın bu anlaşılabilir fakat biri için veya o kişi geri dönecek diye bu yasağı kendinize koymayın. böyle anca kaybedersiniz.
 - entry_name: |
-    arda turan
-  entry_id:  68692335
-  entry_writer: sanaladam
-  entry_fav_count: 23
+    arda turan'a imajını kurtarma önerileri
+  entry_id:  68706472
+  entry_writer: ytse
+  entry_fav_count: 26
   entry_content: |
-    bu millet harbi mal.<br/><br/>adam baştan aşağı megaloman bir ruh hastasına dönüşmüş hala suçlu biziz diyor. he biziz amk. arda' yı pışpışlayacaktık gönlünü hoş edecektik. efendiliginden ödün vermeyen onca dünya yıldızı var bunu donunda sallayacak. onlara birşey olmuyor ama arda beyin psikolojisi kaldırmıyor.adam bir halt etmis hataliyim diyecegi yerde hala emrecilik oynuyor. sanki adam daha ne kadar itici olabilirimin çabasında.
-- entry_name: |
-    tarkan
-  entry_id:  68689886
-  entry_writer: olur oyle arada
-  entry_fav_count: 22
-  entry_content: |
-    mimar sinan güzel sanatlar lisesi'nin ödül törenine katılacak kadar mütevazı, hiçbir tv kanalının programına çıkmayacak kadar cool kişi.
+    azcık sussa 1-2 aya kapanır. bu ülke neleri unutuyor buna mı takılacak.
 - entry_name: |
     ekşi sözlük antik yunan klonundan başlıklar
   entry_id:  68701456
   entry_writer: el maruf
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9faka+maka+persleri+yenece%c4%9fimize+inanan+spartal%c4%b1">şaka maka persleri yeneceğimize inanan spartalı</a>)
 - entry_name: |
-    recep tayyip erdoğan
-  entry_id:  68688969
-  entry_writer: doctor ross geller
-  entry_fav_count: 18
+    comey'in abd senatosu'na ifade vermesi
+  entry_id:  68705343
+  entry_writer: sfist
+  entry_fav_count: 15
   entry_content: |
-    <a class="b" href="/?q=ortamlarda+d%c3%bcnya+lideri+dersiniz+kim+bilecek">ortamlarda dünya lideri dersiniz kim bilecek</a> sözünü söyleten türkiye cumhuriyeti'nde başbakan ve cumhurbaşkanlığın en vasıfsız şekilde yapmış ve yapmaya devam eden, dış politikada ülkenin anasını ağlatan ve diğer ülkeler tarafından pek kaile alınmayan mahkeme suratlı zat.
-- entry_name: |
-    teknoseyir
-  entry_id:  68706152
-  entry_writer: dodger
-  entry_fav_count: 14
-  entry_content: |
-    apple ürünlerini temin ederken "aman ürünü eleştirmeyin, yoksa göndermeyiz" cevabını aldıkları için incelemeyen site.
+    - cumhurbaskani erdogan'in 15 temmuz darbe girisiminden gunler oncesinden bilgisi oldugu ve bu tesebbusu durdurmak yerine 200'un ustunde insan'in hayatina mal olacak sekilde yasanmasina izin verdigini dusunuyormusunuz?<br/><br/>iste bu soru mıt baskani hakan fidan'a turkiye buyuk millet meclisi darbe arastirma komisyonunda sorulabilirse o 100 senelik arayi kismen kapatabiliriz.
 - entry_name: |
     ekşi itiraf
   entry_id:  68689658
@@ -234,13 +241,6 @@ data:
   entry_content: |
     sabahın köründe uykusuz işe gidersin, akşama kadar eşşek gibi çalışıp yorgun argın eve dönersin, sonra evdeki minik insan sana koşup "babacığım babacığım" diye sarılıp minicik dudakları ile seni kocaman öpmeye çalıştığında bütün yorgunluğun birden gider ya, hah işte bende gitmiyor amına koyim ya. nasıl bir yorgunluk bu arkadaş.
 - entry_name: |
-    wonder woman
-  entry_id:  68690771
-  entry_writer: psychedelic dystopia
-  entry_fav_count: 13
-  entry_content: |
-    yozgat'ta wonder bayan ismiyle gösterime giren film.
-- entry_name: |
     alfa romeo giulietta
   entry_id:  68707532
   entry_writer: robert downey jr jr
@@ -248,47 +248,47 @@ data:
   entry_content: |
     yıl olmuş 2017, hala yedek parça temini zor diyor adamlar. böyle bir zihniyet, böyle bir cehalet. <br/><br/>alfayedek adlı bir site var arkadaşım. direksiyon altı keçesinden, bagaj kapağı butonuna kadar herşeyi temin edebiliyorsun. 2 günde adresine gönderiyorlar.<br/><br/>8 ay önce 65 bine aldığım aracımı şu an 70 bine satabiliyorum. (döviz artışından dolayı ikinci el piyasası arttı ancak ikinci el alınıp temiz kullanılan bir araç markası ne olursa olsun zarar etmeden satılabiliyor)<br/><br/>2016 bakımını 450 liraya yaptırdım.<br/><br/>170 hp olan aracım, 136 hp olan 116i'lerle aynı yakıt tüketimine sahip.<br/><br/>sürüş dinamiği konusunda kendisini dünyaya kanıtlamış bir marka. <br/><br/>golf sahipleri gibi, kendi aracımızın dünyanın en iyi aracı olduğunu elbette iddia etmiyoruz. ancak segmentinde fiyat/performans olarak en iyi araçlardan biri olduğu su götürmez bir gerçek.<br/><br/>ambleminde haç var , ikinci eli zayıf diye bu aracı almayan odun kafalılara ne kadar anlatsak da "tok kapı sesi" ya da "yedek parça" gibi absürd geyiklerden ötesiyle cevap veremeyeceklerdir. alfisti değilim. ilk defa bir alfa araç kullanıyorum ancak herkesin yaptığı gibi kendi aracıyla ilgili yanlış bilinenleri düzeltmek ve almayı düşünenlere götten uydurma değil, doğru bilgiler aktarmak gerektiğini düşünüyorum.
 - entry_name: |
-    7 mayıs 2017 ales
-  entry_id:  68698225
-  entry_writer: zakir
-  entry_fav_count: 12
-  entry_content: |
-    e-ales'e yol yapiyorlar sanirim. default, premium, gold vs tipi uyelikler olusturup devletimize yeni gelir kapilari acabilirler. premium uyelerimiz sinavi iki gun sonra, gold uyelerimiz su gun su saat ogrenebilir tadinda hos olmaz mi. devlet buyuklerimiz bunu bi degerlendirsin.
-- entry_name: |
     macbook pro
   entry_id:  68707333
   entry_writer: nesekamourinho
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     4 aydır kutu açılış videolarını izleyip hala bu bilgisayarı alma planı yapan arkadaşım var. hayır kutuyu her açtığında aynı bilgisayar çıkıyor. içinden ne bekliyor anlamış da değilim. tim cook görse bu drama dayanamayıp kendisi hediye edecek artık.
 - entry_name: |
-    arda turan'a imajını kurtarma önerileri
-  entry_id:  68706504
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 7
+    370 bin tl bakiyeyi ödemeyen bahis sitesi
+  entry_id:  68709719
+  entry_writer: kel degil alni genis aynak
+  entry_fav_count: 10
   entry_content: |
-    futbol oynamaktan vazgeçip diğer her şeyi yapmayı çalışmaktan vazgeçmesi. kabul et, futbol dışında her hangi bir konuda beceriksizsin arda. yandaş olmayı bile beceremedin.
+    şimdi canım kardeşim illegal bahis oynamak da oynatmak da suç. oynayana para cezası var oynatana hem para hem hapis cezası var. bu bir.<br/><br/>ikincisi bu salak taktiği yiyen hala var mı inanamıyorum. olay şöyle gelişiyor. dandikten bir bahis sitesi kuruluyor. saf arkadaşlara tüyo veriyorum diye, göya yüksek oranlı, ilk yarı ikinci yarı tahminleri veriliyor. bizim keriz de kazanıyorum diye seviniyor. oysa verilen maçlar belki de o saatlerde oynanmıyor bile. bunun takibi yapılmasın diye de maritus liginden, cibuti liginden maç tahminleri veriliyor. tabi kerizimiz ulan böyle bir maç sahiden var mı diye araştırma gereği duymuyor.<br/><br/>sanki legal bir şey yapıyormuşsunuz gibi kekoluğunuzu gelip burada anlatmayın. yediğiniz kazığın üstüne bir bardak su için fazla da düşünmemeye çalışın.<br/><br/>peşin edit: sen nereden biliyorsun bu kadar detayı diyeceklere söyleyeyim işim bunları tespit etmek.
 - entry_name: |
     bunca bilimsel ispata rağmen ateizmin yayılmaması
   entry_id:  68709309
   entry_writer: sy
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     yanlış bir tespit. yüz yıl önce avrupa'nın yüzde 99'u hristiyandı. şu an ise büyük bir kısmı dinsiz. sadece 2005'den sonraki 7 yıllık sürede fransızların yüzde 21'i hristiyanlıktan dinsizliğe geçti. dinsizlik büyük hızla yayılıyor.
 - entry_name: |
-    370 bin tl bakiyeyi ödemeyen bahis sitesi
-  entry_id:  68709234
-  entry_writer: uyuyanpisipisi
-  entry_fav_count: 6
+    1.83 boyunda esmer sempatik az göbekli gay
+  entry_id:  68707627
+  entry_writer: tukenmez adam
+  entry_fav_count: 7
   entry_content: |
-    dünyada bu kadar saf insanlar olduğunu görmek geleceğe azda olsa umutla bakmamı sağlıyor.
+    (bkz: <a class="b" href="/?q=yedi%c4%9fin+arkanda+yemedi%c4%9fin+%c3%b6n%c3%bcnde">yediğin arkanda yemediğin önünde</a>)
 - entry_name: |
-    spotify
-  entry_id:  68689425
-  entry_writer: orijinall
+    ios 11
+  entry_id:  68694844
+  entry_writer: akirawi
   entry_fav_count: 5
   entry_content: |
-    840 tane playlisti takip ediyorum, bir kısmını kendim yaptım. albümden çok tüketicisini daha çok bu playlistleri dinlemeye yönelttiği, ve modunuza göre, mekanınıza göre, tarzınıza göre müzik dinlemenize öncelik verdiği ve buna yönlendirdiği aşikar. yani her şarkı ve şarkıcıya ulaşalım mevzusu ikinci planda kalıyor. en başından beri bu bilinçle uygulamayı kullandığım için burada sürekli hortlayan onun busu yok şunun şu albümü yok mevzusu hiç gözümü tırmalamıyor açıkçası. <br/><br/>bununla bağlantılı spotifyda bulamadığınızı mp3 formatında bilgisayarınızda ya da telefonunuzda bulundurun çok elzemse, onları da spotifydaki listelerinizle harmanlayın. <br/><br/>artık bu yok yeaa diye de bok atmayı bırakın. verdiğiniz paranın karşılığını her ortamda böyle savunsaydınız ekmeğinizi kahvenizi etinizi alkolünüzü bu kadar pahalıya almazdınız
+    bazıları nasıl oluyor da binlerce liralık telefonlarına <a class="b" href="/?q=developer+beta+s%c3%bcr%c3%bcm%c3%bc">developer beta sürümü</a> yükleyebiliyor şaşıyorum. sonra buraya gelip ciddi ciddi şikayet ediyor pil tutmuyor telefon çöküyor, çok kötü işletim sistemi bu falan yazıyor. şaka mı yapıyorsun arkadaşım yoksa düpedüz aptalmısın. bari <a class="b" href="/?q=public+beta+s%c3%bcr%c3%bcm%c3%bc">public beta sürümü</a> nü bekle. ama her zaman esas sisteme nasıl dönerim önce onu öğren öyle yükle betayı.
+- entry_name: |
+    deniz seki
+  entry_id:  68693449
+  entry_writer: ben seni severim sevmesine de
+  entry_fav_count: 5
+  entry_content: |
+    ben okumayı çok severim. bu bazen sapıkça bir yöne kayar. örneğin bir gece uyku tutmayınca ben bu kadının dinlemeye takılan telefon görüşmelerini okudum. saatler sürdü. <br/><br/>özetinde şunları gönül rahatlığı ile söyleyebilirim. hüsnü çok pis bir adam bu bir. bu kadın o adamı çok sevmiş iki( görüşmelere bu ikilinin kavgaları, küfürleşmeleri de takılıyor malum). bu kadın g.tü kollamak isteyen satıcının güvenini kazandığı için eşe dosta aracı olmaktan başka bir şey yapmamış. ticaret değildir bunun adı. bence değil. hukuk suçlu bulmuştur, üstüne sözüm yok. ama adalet ne kadar adil olmuştur orası meçhul. belki karar bu zümreye ait bir gözdağı idi.<br/>o kadar saat bu konuşmaları neden okudum ben de bilmiyorum.
 - entry_name: |
     milli modem için isim önerileri
   entry_id:  68689005
@@ -297,26 +297,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=yes+we+ban">yes we ban</a>)
 - entry_name: |
-    ağda yaptırmak orucu bozar mı
-  entry_id:  68706915
-  entry_writer: abi enikonu icecegiz
-  entry_fav_count: 3
-  entry_content: |
-    çok kıymetli din alimi nihat hatipoğlu'na sorulan über soru. <br/><br/>hatipoğlu yerine ben cevap veriyorum; yolduğun kılları yemediğin sürece sorun yok bence. <br/><br/>ahaha.<br/><br/>edit: ayda 600.000 tl değerinde olan cevabı da ekleyeyim dedim. "ağda yaptırmanın oruçla alakası yoktur. ancak edep yerlerini başkasına ağda yaptırtmak olmaz, günahtır" minvalinde bir cevap verdi.
-- entry_name: |
     hakan şükür vs arda turan
   entry_id:  68708302
   entry_writer: post translational regulation
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     ikisi de işlerine bakmak yerine birilerinin kulu olmaya karar vermişlerdir. biri ülkesine adım atamazken, diğeri de mevcut siyasi irade değişince benzer bir durum yaşayacaktır.
 - entry_name: |
-    boru işinde çok iyi para olması
-  entry_id:  68709508
-  entry_writer: arazi
+    7 mayıs 2017 ales
+  entry_id:  68702926
+  entry_writer: sehrekustu
+  entry_fav_count: 3
+  entry_content: |
+    68.21908<br/><br/>ilginç<br/><br/>ekşici oldığumu sanırdım
+- entry_name: |
+    okuduğun üniversiteyi söylemeden anlat
+  entry_id:  68689278
+  entry_writer: rakibalikmeze
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=i%c3%a7ti%c4%9fin+su+nereden+geliyor">içtiğin su nereden geliyor</a>)<br/>(bkz: <a class="b" href="/?q=s%c4%b1%c3%a7t%c4%b1%c4%9f%c4%b1n+bok+nereye+gidiyor">sıçtığın bok nereye gidiyor</a>)
+    acaba neyin virali bu. hangi ajans burda yazan sazanlar uzerinden slogan uretip reklam kasacak.
+- entry_name: |
+    boru işinde çok iyi para olması
+  entry_id:  68709660
+  entry_writer: i n c i
+  entry_fav_count: 1
+  entry_content: |
+    plastik boru işi (pprc, pvc) bir yerde para işletmektir diyebiliriz. plastik boruların üzerinde pek bir katma değer yoktur. kullanılan hammadde aynıdır. örneğin x firmasının borusunun aynısını üretmek için hiçbir bilgiye ihtiyacınız yoktur. diğer hammaddelerden üretilen borular için de aynı şey geçerlidir. plastik borularda total(fransa), carmel oflein(israil), sabic(suudi arabistan) gibi hammaddecilerin ürünleri kullanılır, herkes için aynıdır. bu sebeple daha düşük kar marjına razı olan başka bir üretici sizin işinizi elinizden rahatlıkla alabilir. bu katma değersiz ürün durumu da beraberinde küçük sermayeli üreticinin ayakta kalamamasını getirir.<br/>boru işinde önemli olan o çapta bir firmayı finanse edebilmektir çünkü karlılık çok düşüktür, sürüm yapmanız lazımdır. bir kaç büyük marka dışında hemen bütün üreticiler çok çok düşük kar marjlarıyla çalışırlar. plastik hammaddesi de dövizle yüzde 90 peşin olarak satılır. eğer sermayedarsanız makinaları alırsınız, ürünlerin kalıplarını yaparsınız, satış ağını kurarsınız ve işe başlarsınız. dolayısıyla boru üreticilerinin ciroları yüksektir. bu sebeple de ilk 500 içinde 13 boru fabrikası olması doğaldır. para vardır ama kar yoktur.
 - entry_name: |
     8 haziran 2017 istanbul yağmuru
   entry_id:  68708531
@@ -338,13 +345,6 @@ data:
   entry_fav_count: 0
   entry_content: |
     (bkz: <a class="b" href="/?q=siddhartha">siddhartha</a>) - (bkz: <a class="b" href="/?q=hermann+hesse">hermann hesse</a>)<br/><br/>farklı bir kitap. özellikle doğu mistisizmine meraklı olanlar çok sevebilirler.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  68690344
-  entry_writer: cayciciragi
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bugun+yine+abazayim">bugun yine abazayim</a>)
 - entry_name: |
     100 hertz frekansla seks yapan arı
   entry_id:  68698078
