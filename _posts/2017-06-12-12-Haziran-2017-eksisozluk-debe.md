@@ -6,49 +6,56 @@ data:
     sınava geç kalıyorsun sonra devlete kızıyorsun
   entry_id:  68762888
   entry_writer: babayarisi
-  entry_fav_count: 1141
+  entry_fav_count: 1158
   entry_content: |
     bu sartlarda haklidir. benim alakam yok sinavla ama bana bile bellettiler 9:45 zimbirtisini. dassak gecer gibi inatla gec gelmek nedir. ben niye en siktirboktan vizeme bile gec kalmamisken bu eleman unv sinavina gec kalabiliyor? kaliyorsa da yapacak bir sey yok. bunun devlet yalakaligi ile alakasi yok. gotun yerse is hayatinda kritik bir toplantina gec kal. bu bir hayat disiplinidir. madem zaman konusunda sikintilisin telefonuna 5 ayri alarm kurup iki saat once geleydin guzel kardesim. gecmis olsun.<br/><br/>fav editi: sinav ondayken de gec kalmis ogrenci haberlerini izledik yillardir. kimligini unutan mi dersin, cebinde telefonla girmeye calisan mi dersin. mesele 09:45 meselesi degil. sinav aksam 8de olsun ona da gec kalan cikar.
 - entry_name: |
     öğretmenler 4 yılda bir sınav olacak
   entry_id:  68752645
   entry_writer: fakirizm
-  entry_fav_count: 375
+  entry_fav_count: 377
   entry_content: |
     öğretmen düşmanları gelmeden yazayım<br/>öğretmen olmak için<br/><br/>4 yıl eğitim fakültesi<br/>staj<br/>gk-gy sınavı<br/>eğitim bilimleri sınavı<br/>öabt sınavı<br/>mülakat (darbe ve ohalin hediyesi)<br/>aday stajyerlik sınavı<br/><br/>yani asil bir öğretmen olmak için tabiri caizse kıçınızı yırtmanız gerekiyor <br/>yayınlanan yönetmelikte de 4 yılda bir öğretmenlere sınav + veli ve öğrenciler ayrıca ilgili müfettiş veya komisyonlar da kısaca alayı öğretmeni değerlendirecek bu ülkede profesör olmak için bile bu kadar engel yok gerçekten tebrikler size eğitim sisteminin içine ettiniz faturayı öğretmenlere kesmekle kafayı yediniz<br/><br/>dipnot : öğretmen mutlaka kendini geliştirmeli ve çağa ayak uydurmalı ilerlemeci eğitim felsefesini ve pedagojik yeterliliğini her zaman geliştirmeye açık tutmalı hiç bir şekilde bunlara karşı değilim özellikle yatan öğretmenlere şarttır! ama bunlardan önce yukarda saydığım dünya kadar sınav ve eğitim sistemi düzeltilmeli ki en son sıra bize gelsin öyle değil mi !<br/><br/>düzeltme : bazılarının gerçekten durumdan haberi yok ya da okuduğunu idrak edemiyor, bakın eleştiriyorsanız adam gibi eleştirin özelden saçma sapan mesajlar atıp insanın sinir katsayısınız yükseltmeyin burada dikkat çekmek istediğim nokta profesör olmanın öğretmen olmaktan daha kolay olduğu bir zamandan bahsediyorum bu kadar çileye ne gerek var ? mülakatı savunanlar var ben mülakata karşı değilim ama türkiye 4.sü arkadaşım mülakattan dolayı elendi (güya mülakat fetö/pkk vs elemek için getirilmiş başbakanın söylemi) ama meb bakanı da hayır yeterliliği ölçmek için getirdik diyor burda bile çelişkiler tutarsızlıklar varken mülakat sisteminin (torpil) sağlıkı işleyebilmesi ne kadar doğru, siz bilmezsiniz ama size söyleyeyim geçen sene gelen mülakat sisteminde mülakatı yapan komisyon içinde fetöcüler çıktı hadi bakalım terör örgütlerini eleyeceksin ama komisyonun fetöcü çıkacak, bana burda masal anlatmayın bir şeyleri anlamanızı beklemiyorum gerçekten bu durumu anlayacak olanlar bu yoldan geçenler olacaktır. ne 4 yılda bir yapılacak olan sınava, ne mülakata, ne de değerlendirmeye karşı değilim öğretmen kendini her daim geliştirmeli ve değişime açık olmalı yukarda da bunu dile getirdim benim bunlardan korkum yok ama kusura bakmayın bu kadar meşakate de gerek yok.<br/><br/>düzeltme ii : üniversitede zaten 3 dönem staj alıyorsun mülakatın nesini savunacağım ? danışman hocam ve bölüm başkanım işin ehli olan insanlar yeterliliğim konusunda bana olur raporu veriyorsa 3 dakikada yapılan mülakat ne kadar adil ve hakkaniyetli olabilir ki güldürmeyin adamı<br/><br/>düzeltme iii : yönetmelikte ayrıca diğer fakültelerdeki öğrencilerin de öğretmen olabileceği yazılıyor henüz okumadımbu doğruysa buyrun o zaman kına yakın herkes öğretmen olsun su ürünleri okuyan da öğretmen olsun, işletme okuyan da öğretmen olsun bu ülkede zaten herkes öğretmen herkes bir şeyler biliyor ama eğitim fakültesi diploması olan adam bi öğretmen olamadı.<br/><br/>düzeltme iv : bu ülkenin eğitim sisteminden de haberiniz yok öğrenci 9 zayıfla sınıfı geçiyor sırf veliler öğretmenlere kötü bir söz kötü bir değerlendirme yapmasın diye değerli öğretmenlerimiz de maalesef kapıda kalırım ya da yerim değişir korkusuyla öğrencilere şişirme notlar veriyor eee sonra eğitim sistemimiz süper ? öğretmen hani özerkti ? teogda 17 bin birinci var aman ne iyi sınavın güvenirlik, geçerlik, kapsamı nerde ? bir şeyleri biliyorsanız izah edin tartışalım üstün körü yüzeysel dışardan gördüğünüz gibi saldırmayın. yarısından çoğu takdir ve teşekkür veren bir eğitim sisteminde aleyna tilki tanınırken türkiye bayrağının sembolünü bilmeyen tanımayan gençlerle dolu!
 - entry_name: |
     katar'da 500gr dost yoğurdun 17tl'ye satılması
   entry_id:  68755029
   entry_writer: thirtyeightthousandfeet
-  entry_fav_count: 365
+  entry_fav_count: 367
   entry_content: |
     bolgedeki sut urunleri imalatinin cogunlugu suudi arabistandaki fabrikalardan karsilaniyor, suudiler ambargoyu yapistirinca qatarda sut ve sut urunleri bulunmamaya basladi, turkiye;den ucakla yogurt gondermenin maliyetiyle suudi arabistandan tirla gondermenin maliyeti bir degil tabii ki , turkiyede 5 tl qatarda 17 tl o yuzden yani ama tabi bunu anlamak icin beyin lazim en basta...
 - entry_name: |
     ösym'nin müfredatta olmayan konudan soru sorması
   entry_id:  68761377
   entry_writer: leandroux
-  entry_fav_count: 361
+  entry_fav_count: 362
   entry_content: |
     haklı isyandır. <br/><br/>ösym üniversite sınavlarında öğrencinin lise bilgilerini yorumlamalarını ister. <br/>öğrencinin eğitim hayatı boyunca görmediği bir konu hakkında soru sormak saçmalıktır. "araştırsaydı" demek daha büyük bit saçmalıktır. her derste son 15 yılda müfredattan çıkan onlarca bilgi varken hangi biri araştırılacak yorumlanacak.<br/><br/>edit: gün içinde sorular için itiraz edilecek ve ilgili sorular iptal edilecektir.
 - entry_name: |
     4 yaşındaki çocuğuna bira ve sigara içiren anne
   entry_id:  68762018
   entry_writer: chloe price
-  entry_fav_count: 260
+  entry_fav_count: 265
   entry_content: |
     neden herkes çocuk sahibi olmamalı sorusunun en güzel cevabı bu videodur.<br/><br/>bu kişi annelik yapamaz, çocuk anneden alınmalı.<br/><br/>edit: bunun çomarlıkla falan bir alakası yok. o yaştaki çocuğa zorla din eğitimi vermek ne kadar yanlışsa bu da bir o kadar yanlıştır.
 - entry_name: |
     insanı yavaş yavaş öldüren şeyler
   entry_id:  68752604
   entry_writer: zorisler
-  entry_fav_count: 203
+  entry_fav_count: 211
   entry_content: |
     geç kalmışlık hissi.
+- entry_name: |
+    30 yaşında işi evi arabası olmayan bekar erkek
+  entry_id:  68769270
+  entry_writer: scentofawoman
+  entry_fav_count: 199
+  entry_content: |
+    benim bu erkek. 30'a ramak kaldı evim yok işim yok araba hak getire. <br/>intihar mi ediyoruz yoksa siz öldürüyor musunuz?
 - entry_name: |
     ıssız adam'daki ada'nın haksız olduğu gerçeği
   entry_id:  68757045
   entry_writer: barbar savasci
-  entry_fav_count: 194
+  entry_fav_count: 196
   entry_content: |
     bu filmi bir kaç defa izledim ve her defasında bu kanaate vardım.<br/>kimse kusura bakmasın dost acı söyler, bu filmde ada türk kezbanizmin geldiği son noktayı temsil ediyor.<br/>daha filmin başında kitapçıda, adamın sana yürüdüğü belli, peşinden geliyor sana birşeyler diyor, sen ne yapıyorsun ada? adama kinayeli ayar vererek daha ilk yeşil ışığı yakıyorsun. üstüne adam sana aradığın kitabı hediye ediyor alıyorsun, adam senin dükkanına kadar geliyor gık demiyorsun.<br/><br/>sonuçta adamın olayı belli, tam bir görev adamı tuttuğuna saplıyor, pancar motoru gibi çalışıyor, hollanda'dan ithal holştayn boğası gibi herif, bi nevi <a class="b" href="/?q=hilti">hilti</a> gibi bir görevi var bu hayatta. <br/>kaldı ki ada sen bunu tespit ediyorsun, adamın boşandım çocuğum var yalanını buluyorsun, erkeklerin hatun avlamak için buna benzer acitasyonlar yaptığını yüzüne vuruyorsun,<br/>"yemezler!" diye adama rest çekiyorsun, adam da "yemiş gibi duruyorsun" diyerek kontrayı çakıyor sana.<br/>sen napıyorsun ada, <a class="b" href="/?q=adamsa+notunu+hayvansa+otunu">adamsa notunu hayvansa otunu</a> vereceğine aynı gece adamı arayarak özür diliyorsun. o zaman sonuçlarına katlanacan aga.<br/><br/>hadi diyelim bunlar hayatın olağan akışına uygun, adam seni punduna getirdi, sen de kalbini kaptırdın. ulan ilk gece yemeğinde hemen sevişmenin ne lüzumu var.<br/>hadi diyelim bu da normal olağan şeyler, adamın annesini karşılamaya niye gidiyorsun. daha bir ay olmuş üstüne annesiyle düğüne gidiyorsun.<br/>klasik evlenecek kadın girdileri yapmaya hemen başlıyorsun. karşındaki adamın nasıl tehlikeli olduğunu bilerek bütün ofsaytlara düşüyorsun. <br/>sonrada "<a class="b" href="/?q=ada+ben+ayr%c4%b1lmak+istiyorum">ada ben ayrılmak istiyorum</a>" finalinde, triplere girip, şok oluyorsun.<br/>kusura bakma da ne olacağını bekliyordun e be kezban?<br/>filmin son sahnesinde ada hala bi umut adama sarılıyor, peki bizim görev adamı ne yapıyor, çok duygulansa da karakterinden zerre ödün vermiyor ve çekip gidiyor.<br/>adamı bu görev bilincinden dolayı kutluyorum.
 - entry_name: |
@@ -59,38 +66,31 @@ data:
   entry_content: |
     çıkınca berbat geçti dedim. annem içeride ağlıyor şu an. babam salak, gerizekalı, kıymet bilmez diye giydiriyor bana. annem "fen lisesi öğrencisi bu yaa!" diye iyice kahroluyor.<br/><br/>gülücükler eşliğinde sınava uğurlanan ben,"zekisin sen yaparsın" denen ben, şimdi gerizekalı,hayırsızım.<br/><br/>en son liseye geçiş sınavında da yapmışlardı bunu.koca sınavda sadece bir yanlış yapmıştım.yaz boyunca neden full çekemedin diye azarlamışlardı.<br/><br/>öldüm sanki. ölsem anca bu kadar ağlar bir insan. hayatım bitti, bir daha yüzüm gülmeyecek sanki. <br/><br/>teog sonucu gelince intihar eden çocuğu şimdi iyi anlıyorum. çocuklarınıza böyle yapmayın.
 - entry_name: |
-    30 yaşında işi evi arabası olmayan bekar erkek
-  entry_id:  68769270
-  entry_writer: scentofawoman
-  entry_fav_count: 184
-  entry_content: |
-    benim bu erkek. 30'a ramak kaldı evim yok işim yok araba hak getire. <br/>intihar mi ediyoruz yoksa siz öldürüyor musunuz?
-- entry_name: |
     sevgi ile aşk arasındaki fark
   entry_id:  68753827
   entry_writer: cemalium
-  entry_fav_count: 167
+  entry_fav_count: 174
   entry_content: |
     sevgi ısıtır; aşk yakar.
 - entry_name: |
     1 liran var mı yolda kaldım da
   entry_id:  68766313
   entry_writer: killerbee
-  entry_fav_count: 114
+  entry_fav_count: 117
   entry_content: |
     binbir türlüsüne rasladığım dilenci tipi.<br/><br/>aksaray'dan metro ile otogara giderken, aynı vagona düştüğümüz, elinde zamanın son moda iphone'u ile gayet tikican gözüken bir kız elinde ki poşet ile dikkatimi çekmişti. hatta göz göze gelmiştik. derken ikimiz de esenler otogarında indik, ben istanbul seyahata bilet almaya gittim, arka tarafa çıktım sigara içerken, bu kız köşede zemin katta kalan tuvalete doğru gitti. 5 dakka sonra üstü başı yırtık pırtık maskesi bi kadın geldi elinde bi kutuyla, dilenci. şöyle dikkatli baktım, gözlerine bi baktım, o kız o kız. vay anasını millet ne işler yapıyormuş deyip ağzım açık kaldı.
 - entry_name: |
     en yakışıklı hayvan
   entry_id:  68765207
   entry_writer: garipbasci
-  entry_fav_count: 100
+  entry_fav_count: 102
   entry_content: |
     büyük bir takımın kalesini korumaktadır.
 - entry_name: |
     11 haziran 2017 fenerbahçe beşiktaş sj maçı
   entry_id:  68768546
   entry_writer: uber insan
-  entry_fav_count: 80
+  entry_fav_count: 86
   entry_content: |
     tinerci algoritması:<br/><br/>1- (maç öncesi)biz bu maçı siklemiyoruz taam mı<br/>2- (maç başlar, bjk öne geçer) futboldan sonra burda da feneri sikicez, babanız beşiktaş<br/>3- (maç kafa kafaya gelir) aslan gibi mücadele ediyoruz, helal olsun cocuklar<br/>4- (fener öne geçer) ülkerspor öne geçti, adamların bütçesi çok, aziz parayı basıyor<br/>5- (fener farkı açar) parayı basıp takım kuruyorlar, bütçe meselesi, iyi bile dayandık, boşuna para harcıyorlar<br/>6- (maç biter fener koyar) biz bu maçı siklemiyoruz taam mı? basketbol ne lan önemli olan futbol, su topunda da bizi yenersiniz siz heheh hadi onla övünün, bütçe bütçe bütçe,yiyorsa futbolda gelin len mq<br/><br/>dipnot: futbolda şampiyonluk sayısı: fenerbahçe: 19 bjk: 13+2
 - entry_name: |
@@ -101,6 +101,13 @@ data:
   entry_content: |
     "cemaat'e bu saygısızlığı yıkmak istemem."<br/><br/>gel bana yık.
 - entry_name: |
+    11 haziran 2017 kosova türkiye maçı
+  entry_id:  68760075
+  entry_writer: koalama
+  entry_fav_count: 68
+  entry_content: |
+    <a class="b" href="/?q=melih+g%c3%bcm%c3%bc%c5%9fb%c4%b1%c3%a7ak">melih gümüşbıçak</a>'ın şimdiden ne kadar üzgün olduğunu tahmin edebildiğim maç. sonuçta <a class="b" href="/?q=arda+arda+arda+arda+arda+arda">arda arda arda arda arda arda</a> demekten mahrum bu akşam.
+- entry_name: |
     11 haziran 2017 söğütlüçeşme metrobüs kazası
   entry_id:  68767266
   entry_writer: harzem
@@ -108,33 +115,40 @@ data:
   entry_content: |
     öncelikle geçmiş olsun diyelim masumlara.<br/><br/>(bkz: <a class="b" href="/?q=a%c3%a7l%c4%b1k+kan+%c5%9fekeri">açlık kan şekeri</a>) nedir bilmeyenlerin <a class="b" href="/?q=oru%c3%a7la+ne+alaka+yaa">oruçla ne alaka yaa</a> diye dövündüğünü de gösteren kazadır.<br/><br/>(bkz: <a class="b" href="/?q=alkoll%c3%bc+ara%c3%a7+kullanmak">alkollü araç kullanmak</a>) sebebiyle kaza yapana da <a class="b" href="/?q=alkol%c3%bcn+ne+alakas%c4%b1+var">alkolün ne alakası var</a>, <a class="b" href="/?q=alkols%c3%bcz+de+kaza+yap%c4%b1labilir+ki">alkolsüz de kaza yapılabilir ki</a> diyor musunuz?<br/><br/>şoförün algılarının oruç yüzünden zayıflayabileceği gerçeğini görmezden gelebiliyorsanız belli ki siz de oruçsunuz, beyinize şeker gitmiyor.<br/><br/>oruç bir adamın istanbul sıcağında o kadar yolcunun sorumluluğunu alması <a class="b" href="/?q=sorumsuzluk">sorumsuzluk</a>tur, alkollü araç kullanmaya benzer. aksini iddia edenin biyoloji bilgisi sıfırdır.<br/><br/>not ekleyelim: tabi ki kazanın sebebi oruç olmayabilir. ancak alkollü bir şoförün yapacağı bir kazanın sebebi de alkol olmayabilir. alkolsüz veya oruçsuz kişiler de kaza yapar. burada önemli olan <a class="b" href="/?q=oru%c3%a7la+ne+alakas%c4%b1+olabilir+ki%3f">oruçla ne alakası olabilir ki?</a> gerzekliğini yapmamaktır.
 - entry_name: |
-    11 haziran 2017 kosova türkiye maçı
-  entry_id:  68760075
-  entry_writer: koalama
-  entry_fav_count: 64
-  entry_content: |
-    <a class="b" href="/?q=melih+g%c3%bcm%c3%bc%c5%9fb%c4%b1%c3%a7ak">melih gümüşbıçak</a>'ın şimdiden ne kadar üzgün olduğunu tahmin edebildiğim maç. sonuçta <a class="b" href="/?q=arda+arda+arda+arda+arda+arda">arda arda arda arda arda arda</a> demekten mahrum bu akşam.
-- entry_name: |
     küçük bilge acı içerisinde ölmek üzere
   entry_id:  68764785
   entry_writer: dusunenbiyik
-  entry_fav_count: 60
+  entry_fav_count: 61
   entry_content: |
     edit3: yazar olmayan hayvan dostları telefon numarasından bize ulaşabilirler.<br/><br/>barınaktan sahiplendiğimiz küçük bilge kanser çıktı. vajina tümörü varmış ve şu anda vajinası tamamen dışarı çıkmış durumda. yoğun kanaması var. altını saat başı bezlemek zorunda kalıyoruz. çok acil ameliyat olması gerekiyor ancak parayı toparlayamadığımız için operasyonu yaptıramıyoruz. duyarlı ve imkanı olan kişilerin ufak da olsa bir yardımları dokunursa kızımızın hayatı kurtulacak. yardım etmeyi düşünenlere kliniğin adını, bilgilerini ve hesap numarasını özelden verebiliriz. bölgenin fotoğrafını da özelden paylaşabiliriz çok kötü durumda olduğu için buraya koyamıyoruz. bir canın kurtulmasında sizin de payınız olsun.<br/>edirne'de ikamet eden öğrencileriz ameliyat masrafı için yeterli miktarımız yok. duyarlı hayvansever kişilerden, dostlardan destek bekliyoruz. minik patili yavrumuz gözümüzün önünde eriyor...<br/><br/>ameliyat, tahliller ve daha sonraki tedavi aşaması için takriben 2000 tl civarı bir ücret karşımıza çıkmış durumda. <br/>telefon numarası: 05389306620<br/><br/>edit: hesap bilgileri: <br/>hesap no: 5167400038941043<br/>iban: tr 86 0013 4000 0128 4555 4000 01<br/>denizbank<br/>alıcı ismi: nazlı özerdal<br/><br/>fotoğraflar: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/6XQGX7.jpg">https://i.hizliresim.com/6xqgx7.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/y3m9Ey.jpg">https://i.hizliresim.com/y3m9ey.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/zBgq36.jpg">https://i.hizliresim.com/zbgq36.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/WQ4RQ2.jpg">https://i.hizliresim.com/wq4rq2.jpg</a><br/><br/>edit2: ameliyat sonrası makbuzlar dahil sizler tarafından istenecek her türlü bilgi paylaşımı başlığın ilk entry'sinde güncellenecektir.<br/><br/>edit4: kıymetli dostlarım köpeğimiz için yarın akşama doğru hesabımıza yatan meblağ hakkında bilgilendirme editinde bulunacağım. hafta sonu olduğu için şu an hesapta hiçbir hareketlilik yok.
 - entry_name: |
     alican önlü ile astsubay'ın tartışması
   entry_id:  68770400
   entry_writer: enemy
-  entry_fav_count: 55
+  entry_fav_count: 60
   entry_content: |
     astsubayın daşşağının ne kadar olduğunu, aynı durumda bir akepe milletvekiline nasıl tepki verebileceğiyle ölçebiliriz.
 - entry_name: |
-    beşiktaş
-  entry_id:  68756442
-  entry_writer: neither living nor dead
-  entry_fav_count: 44
+    turkcell'in mağazalarına arapça kartonlar koyması
+  entry_id:  68763341
+  entry_writer: belgian waffle
+  entry_fav_count: 57
   entry_content: |
-    sen şampiyonlar ligine en son gittiğinde talisca daha ortaokuldaydı lan. iphone 4 yoktu daha. sıfır çekip döndün. utanmadan gelmiş buraya mağlubiyet yazıyorsun. sigma'dan benfica'dan 7 yemiş adamsın. cannes diye bir takım vardı 4'er 5'er attı size. hala utanmadan konuşuyor. united 6 tane gömdü lan. sıfır çektin sıfır puh. rezil rezil sıfır çekerken beşiktaş ile galatasaray kurtarıyordu yine biraz olsun. al aha tarihinin en büyük başarısını yakaladığın hocan geldi şimdi. bakalım sonun ne olacak. avrupa liginde de sıfır çekip dönersin muhtemelen. <br/><br/>bu takımda hepinizi kör eden ışığı gördükçe tavşan gibi kitlenip kalacaksınız. tarihi de size okutup öğreteceğiz. 30 yıl sonra da 8-0 diyeceksiniz ama hep başarımızı izleyeceksiniz. o günlerde de burada olacağız.
+    bu arkadaşların seve seve türkçe öğrenmelerini teşvik etmek için bir strateji oluşturulması şart, yoksa biz yakında arapça öğrenecek durumda kalacağız.<br/><br/>evet ülkemde arapça görmekten rahatsızlık görüyorum, rahatsız olma nedenim de bu heriflerin alfabesinin varolduğu her yerin şu an karmaşa içinde olması.
+- entry_name: |
+    türkler arapların anadolu'daki uzantısıdır
+  entry_id:  68752798
+  entry_writer: akildakalici
+  entry_fav_count: 46
+  entry_content: |
+    bugun turk diye bildigimiz millet cogunlukla turkce konusan, asimile olmus romalilar, ermeniler ve diger kadim anadolu haklaridir. geri kalani yogunlukla horasanli veya kafkasyalidir. arap genleri yuzde bes civarindadir<br/><br/>bu milletin en buyuk ozelligi ise butun atalarindan yuz cevirip, onlara hergun kufur ederek turkluk idealine ulasmalaridir.
+- entry_name: |
+    derin web'te bulunan mosh pit videosu
+  entry_id:  68770933
+  entry_writer: evillive
+  entry_fav_count: 43
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ger%c3%a7ek+metal+bu+de%c4%9fil">gerçek metal bu değil</a>)
 - entry_name: |
     5 bin tl maaş alıp lcw'den giyinen erkek
   entry_id:  68753210
@@ -150,13 +164,6 @@ data:
   entry_content: |
     ve asla islam ile yönetilen ülkelerin içler acısı durumda olduğu gerçeğini tartışmayın, kıvrakça sıyrılmaya bakın. diye devam edecek nasihatler
 - entry_name: |
-    derin web'te bulunan mosh pit videosu
-  entry_id:  68770933
-  entry_writer: evillive
-  entry_fav_count: 33
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ger%c3%a7ek+metal+bu+de%c4%9fil">gerçek metal bu değil</a>)
-- entry_name: |
     türkiye'de sanatın gelişmeme nedenleri
   entry_id:  68752559
   entry_writer: inpinkwefloyd
@@ -167,35 +174,28 @@ data:
     ekşi itiraf
   entry_id:  68752834
   entry_writer: sanat tarihi okudukta ne oldu
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     keman çalmak için kendini paralayan bir oğlum var. henüz altı yaşında. yaşadığım yerdeki belediye dokuz yaş altına keman dersi vermiyor. çocuk konservatuarina yaşı tutmadigindan basvuramiyoruz. çok istekli, keman kutusunu açıp kemanı öpüp yerine koyuyor. keman videolari açıp calanlari taklit ediyor. sonra bakıp " anneee ne güzel çalıyorlar ben de öyle çalıcam" diyor. hem seviniyorum hem henüz ders alamadığı için üzülüyorum. <br/>özel dersler çok pahalı. beni kat kat aşar o mevzu. <br/>sabah dokuz yaşında uyanmak istiyormuş. <br/>ulan lidyalilar nerden icat ettiniz şu parayı?
 - entry_name: |
     şarkıyı bilen yazsın lütfen
   entry_id:  68769866
   entry_writer: turkiyeden bikan pilot
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     (bkz: <a class="b" href="/?q=shazam+nedir+nas%c4%b1l+kullan%c4%b1l%c4%b1r">shazam nedir nasıl kullanılır</a>)
 - entry_name: |
     türk hava yolları
   entry_id:  68761264
   entry_writer: kanamayan yara
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     özel bir şirket olsaydı çoktan iflas etmişti..<br/><br/>ama şirketi sürekli devlet kasasından fonladıkları için, şirketin içini hortumluyorlar hiç durmadan. benim milletim de saf saf thy büyük şirket demeye devam ediyor.. <br/><br/>özünde, devlet hazinesidir çarçur ettikleri paralar.. senin benim vergimdir hortumladıkları bütçeler...
-- entry_name: |
-    orgazm olurken ağlamak
-  entry_id:  68757178
-  entry_writer: if satosu
-  entry_fav_count: 26
-  entry_content: |
-    sürtünmeden dolayı elinde oluşan acıdan da ağlıyor olabilir. çok iyimsersiniz dostlar...
 - entry_name: |
     hastası olunan sözler
   entry_id:  68755389
   entry_writer: she lives in magic
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     "gez ve kimseye söyleme. gerçek bir aşk hikayesi yaşa, kimseye söyleme. mutlu ol, kimseye söyleme. insanlar güzel şeyleri mahveder."
 - entry_name: |
@@ -206,19 +206,33 @@ data:
   entry_content: |
     "280m euroluk futbolcu değerine sahip hırvat milli takımının stoperi"ni beğenmediğimiz için futbol izlemediğimiz iddia edilmiş. o hırvat milli takımı'nın diğer stoperi de <a class="b" href="/?q=matej+mitrovic">matej mitrovic</a>. yani bu bir done değil. <br/><br/>gelgelelim beşiktaş, çok şöhretli oyuncularla defalarca kez başarısız olmuş bir takımdır. bu takımın bugün en iyi iki oyuncusu <a class="b" href="/?q=marcelo+guedes">marcelo guedes</a> ve <a class="b" href="/?q=atiba+hutchinson">atiba hutchinson</a> geldiğinde de bi' takım futbolu çok iyi bilen arkadaşlar homurdanmıştı. <br/><br/>oyuncu kalitesi farklı, takıma yapacağı katkı farklı şeyler. <a class="b" href="/?q=titi">titi</a>, bana göre <a class="b" href="/?q=demagoj+vida">demagoj vida</a>'dan daha çok katkı sağlayacak bize evet.
 - entry_name: |
-    karısı yanındayken kocasını dövmek
-  entry_id:  68767619
-  entry_writer: budevirdenicknegezer
+    en kariyerli türk futbolcu
+  entry_id:  68766746
+  entry_writer: abraxas7
+  entry_fav_count: 20
+  entry_content: |
+    en kariyerli olmasa da en sağlam, adını avrupa ve türkiye dahil en güzel hatırlatan futbolcu kesinlikle tugay kerimoğlu'dur.
+- entry_name: |
+    gal gadot
+  entry_id:  68759187
+  entry_writer: senin pezevenk enisten
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=anlat%c4%b1m+bozuklu%c4%9funun+dibi">anlatım bozukluğunun dibi</a>)<br/><br/>şimdi birisinin hem karısı, hem kocası varmış. hollanda burası sanırım, bunlar da biseksüel. sonra adam karısı yanında iken, dönüp kocasını dövüyor. öyle anladım ben. evet.
+    hoş ile enfes kadın arasında bir yerlerdedir. <br/><br/>cebimdeki son parayla, kendisine kestane alabilirdim.
 - entry_name: |
     tecil muaf bedelli hariç
   entry_id:  68768847
   entry_writer: radyasyondan kosarak kacan adamin oglu
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     askerliği iş bitirme, amirlere saygı olarak görüyormuş da insanlara çok şey kattığını düşünüyormuş yarrama bak. o zaman kadınların hiçbiri askerlik yapmadığı için amirlere saygıyı falan öğrenemediğinden dolayı işe alınmaması lazım. bir yandan apaçık cinsiyetçilik de içeren bir açıklama bu. umarım iş hayatında daha fazla barınamaz bu şerefsiz adam.
+- entry_name: |
+    eses taraftarının yaktığı genç
+  entry_id:  68765676
+  entry_writer: arkasikuvvetliogullari
+  entry_fav_count: 13
+  entry_content: |
+    haberw buradan ulaşabilirsiniz <a rel="nofollow noopener" class="url" target="_blank" href="https://m.mynet.com/universite-ogrencisini-kaynar-suyla-hasladilar-yasam-3087743" title="https://m.mynet.com/universite-ogrencisini-kaynar-suyla-hasladilar-yasam-3087743">haber</a>. olayın üzerinden bu kadar zaman geçmesine rağmen yeni haberleşmesi şaşırtıcı diyecektim de, türkiye'de yaşadığımı hatırlayınca buna da şükür dedim. türkiye'de bir taraftar terörü vardır, türkiye'de sözde taraftar olduğu iddia olunan düşünme yoksunu, vahşi bir kitle vardır! bu kitlelerin manipule edildiğinde ne büyük şehir olaylarına sebebiyet verdiklerini istanbul, diyarbakır ve daha birçok ilde gördük. bu haberde de görüldüğü üzere bahsettiğim, 2 ayak üzerinde gezen bu insanımsı canlılar gencecik bir kardeşimizi bir hiç uğruna kaynar su ile haşlamışlardır. iddiaya göre bu saldırıyı yapan grup eskişehir spor taraftarı fakat taraftarlarının bağırması, maçlara gelmesiyle reklam yapan bu klüp, taraftarlarının saldırısına sessiz ve tepkisiz. ne mağdur gencin ailesi ile görüşmüşler, ne de arayıp sormuşlar. sizden ricam eskişehir spor klübünün sosyal medya hesaplarına bu konu ile alakalı yazarak bu genç kardeşimizin tedavi masraflarını karşılamalarını talep etmeniz. <br/><br/>özet: eskişehir spor - göztepe maçında stad içerisinde 50tl yövmiye karşılığı çay satıp harçlığını çıkarmaya çalışan üniversite öğrencisi genç, satılan ürünlerin yüksek fiyatlı olduğu bahanesiyle eskişehir spor taraftarlarının saldırısına uğruyor ve çay ocağındaki 20 litrelik kaynar su üzerine dökülmek suretiyle hastanelik ediliyor. eskişehir spor konuyla alakalı hiç oralı olmuyor, medya bile günler sonra haber yapıyor konuyu. eskişehir spor'un sosyal medya hesaplarına yazıp bu gencin tedavi masraflarını karşılamasını talep ediyoruz. <br/><br/>not: bu olayı gerçekleştiren eskişehir spor taraftarları olduğu için başlık bu şekilde açıldı, yoksa yukarıda belirttiğim bu vahşi canlılardan her takımın taraftarları arasında var.!<br/><br/>edit: ufak eklemeler.
 - entry_name: |
     bedelli askerlik
   entry_id:  68766168
@@ -227,12 +241,12 @@ data:
   entry_content: |
     89 sporluyum.<br/><br/>2011 bedellisi muhabbeti başladığında şu anki 94-95 liler gibi biz de umutlanıyorduk. hani biliyorduk vurmayacağını ama işte umutlanıyorduk. ki sonuç beklediğimiz gibi oldu.<br/><br/>2014 döneminde ise bugünkü 91lilerin konumundaydık. vurmak zorunda diyorduk ama tam sınırdayız, vurmazsa tabiri caizse siki tuttuk diye düşünüyorduk. ve bu işin sonucunda o siki tuttuk da. 88liler kadar olmasa da bize de yıkımı çok büyük oldu bu işin. <br/><br/>şu son haberlerden sonra herhalde gelecek artık. <br/><br/>bu kez göbeğimi kaşıya kaşıya, ossura ossura süreci takip ediyorum.<br/><br/>geliyor gönlümün efendisi, biraz da bizim yüzümüz gülsün.
 - entry_name: |
-    arda turan
-  entry_id:  68755455
-  entry_writer: tritium
+    30 yaşında işi evi arabası olan evli erkek
+  entry_id:  68769927
+  entry_writer: simaooo
   entry_fav_count: 10
   entry_content: |
-    saçma sapan argümanlarla ardanın başının yenildiğini iddia edenler var hala. <br/><br/>aklınızı başınıza devşirin efendiler. bu adam senede 8 haneli para kazanıyor. üstüne yetmiyor sizin bizim dünyanın parasını sizin bizim vergilerimizle toplanan paradan prim olarak alıyor, yetmiyor arkadaşlarına da istiyor. bu halkın en saf duyguları olan milli duygularını kullanma perdesi arkasına girerek istiyor bunu bir de. sonra bunu açığa çıkaran gazeteciyi dövüyor. para istediği arkadaşları otobüs şoförü dövüyor. sonra milli futbolcu.<br/><br/>sonra bir yerde hop birader napıyorsun deniliyor. hemen adamlık dersi veriyor, ülkece ibret alıyoruz. sonra canı sıkılıyor bir işe milli takımı bırakıp <a class="b" href="/?q=ku%c5%9f">kuş</a> gibi hafifliyor beyefendi. hani şu bizim paralarımızla primler alıp yettiremediği takım üstünde nasıl bir yükse artık. <br/><br/>bunların nesli azalarak bitsin artık. bir boka yaramayan adamlar futbolcu oluyor. sonra böyle saçma sapan işlerle uğraşıyoruz. her gün kimi dövecekler diye bekliyoruz. enes ünal gibi tertemiz, taraflı tarafsız herkesin seveceği çocuklar olmalı futbolcu dediğin. kendini geliştirmeli. arda turan'ın kendisini geliştirdiği tek konu yürüdüğü kadınlar listesindeki sayı. takım arkadaşları bile arda'nın telefonu yetti garibim telefonunu şarj etmekten heba oldu diyor. takım arkadaşları düzgün aile hayatı kurmuş harvard gibi dünyanın en prestijli okullarından birinde ekonomi okumayı düşünüyor. beyimiz instagramdan karı kıza yürümeyi.
+    kredi borçları olan erkektir.
 - entry_name: |
     fi
   entry_id:  68757856
@@ -241,12 +255,12 @@ data:
   entry_content: |
     bir bölümde %80 diyalogu "beni bırak sapık, ben deniz'i seviyorum/deniz ben geldim ilgilenemiyosun galiba" ve deniz'e, arkadaşlarına söylediği yalanlardan oluşan ve dansını neredeyse hiç göremediğimiz bir dansçı duru var. terapilerini göremediğimiz (halbuki dünya kadar malzeme çıkar o terapilerden, ne oldu cem yılmaz geldi, çok başarısızdı) bir terapist var, kurduğu mükemmel internet sitesiyle hiç ilgilenmeyen bir haberci kadın var, ki o sitede patlayan haberler de dünya kadar konu içerebilirdi, bir kere yaptılar, iyi olmuştu. <br/><br/>amerikan yapımları hep reklam doludur. hatta bu yüzden açılmış büyük davalar var. şirketler büyük paralar öderler, ürün de öyle karizmatik bir şekilde yerleştirilir ki, zaten inandırıcı olan filmin/dizinin karakterinin, gerçekten o ürünü kullandığını düşünürsünüz. fi'de yerleştirilen ürünlerin bu kadar eleştiri alma sebebi, izleyicinin zekasına ve yapımcıların zekasına ve saygınlığına aşırı hakaret etmesi. ben size örnekler vereyim. <br/><br/>1- bilge, manay'la ilişki dedikodularından bunalır. ofis arkadaşıyla, geç saatte muhabbete başlar. kendilerini tatlıya verirler. güzel diyaloglar geçer, kadınların arasındaki hoş muhabbetleri dinleriz, bir yandan da durmadan kek paketi açar açar yerler. en son şeker komasından gülme krizi de başlar ve içeri başka bir karakter girer, dağ gibi olmuş paketleri görür, şaşırır, o da yemeye başlar. ne oldu? ürün uzun uzun tanıtıldı, paketler uzun uzun görüldü, biz iki güzel muhabbet dinledik. zaten dizide diyalog eksiği var. gerçekte ne oldu? bilge arkadaşından kek istedi ve iğrenç bir şekilde yedi. bin yıldır çekilen kısa ve kötü reklam. <br/><br/>2- manay travmalarının hortladığı kabuslardan uyanır, gece mutfağa gider, samsung buzdolabını açar. buzdolabının içinde dizi dizi uludağ premium su, gevrek kutusu ve ilaçları vardır. bir şişe suyu açar, dolabın önünde bitirir, kabusundan küçük küçük kareler izleriz. dolaba dikkatle bakar, ilaçlardan birini seçer, içer ve uykuya geri gider. travma gördük, su gördük, kutuyu yine gördük, klişeden uzak, yemeksiz, ilaç ve su dolu bir dolap gördük, kabusları ufak ufak izledik. gerçekte ne oldu? bilge premium suyu garsondan istedi, "başkasını içemez" dedi, halbuki adam 11 bölümdür her bardaktaki suyu deviriyor, şişeye zoom yapıldı, manay teşekkür etti. skylife reklamları bundan bin kat daha doğal. <br/><br/>tabii ki para kazanacaksınız, bana ne, kime ne. bunu dizi içinde reklam çekerek değil, red bull gibi konuya yedirerek yapmanız gerekiyor. bu şekilde hem dizi daha hareketlenir hem de reklam daha başarılı olur, ürün gerçekten dikkat çeker. <br/><br/>dizide çok iyi oyuncular ve çok iyi mekanlar var. sürekli aynı küçük diyalogları izlemek sıkıcı olmaya başladı. "ben senaryoyu yazdım, sonra reklam geldi, üstüne kondurdum" yapamazsın, reklamı senaryoya yedirmezsen, sadece bu ülkede değil, her ülkede mizah unsuru olursun. daha güzel diyaloglar, daha fazla can-hasta diyalogu, daha fazla manay'ın programda yaşadıkları, daha fazla dans görmek iyi olurdu. <br/><br/>valla buraları okuyup da önemsemezseniz, o dizi yavaş yavaş çürür. aşk üçgeni bu ülkenin neredeyse her yapımında var. derin, güzel diyalog ise bulunmayan bir şey. <br/><br/>smk dizinin gerçek yıldızı.
 - entry_name: |
-    lys 2017 kodlama rezaleti
-  entry_id:  68766730
-  entry_writer: tatli limoncu
-  entry_fav_count: 7
+    bozulan teknolojik aletleri tamir edebilmek
+  entry_id:  68767482
+  entry_writer: klarkkent
+  entry_fav_count: 8
   entry_content: |
-    art niyetlilerin suyu bulandırma çabasına alet olmayın gençler. 24 cevabı da, 024 cevabı da aynıdır. doğru kabul edilmeme gibi bir olasılık yok.
+    vida da arttırılıyorsa tadından yenmeyecek yetenek.
 - entry_name: |
     gelmiş geçmiş en güzel metal albümü kapakları
   entry_id:  68757929
@@ -254,20 +268,6 @@ data:
   entry_fav_count: 7
   entry_content: |
     <a class="b" href="/?q=judas+priest">judas priest</a> - <a class="b" href="/?q=british+steel">british steel</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://upload.wikimedia.org/wikipedia/en/9/97/Judas_Priest_British_Steel.jpg" title="https://upload.wikimedia.org/wikipedia/en/9/97/Judas_Priest_British_Steel.jpg">https://upload.wikimedia.org/…est_british_steel.jpg</a>
-- entry_name: |
-    bozulan teknolojik aletleri tamir edebilmek
-  entry_id:  68767482
-  entry_writer: klarkkent
-  entry_fav_count: 7
-  entry_content: |
-    vida da arttırılıyorsa tadından yenmeyecek yetenek.
-- entry_name: |
-    beşiktaş futbolda şahlanınca basketbola sarmak
-  entry_id:  68767306
-  entry_writer: cathars
-  entry_fav_count: 5
-  entry_content: |
-    bak tinerci bu fotoğraf 2011-2012 sezonundan:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://orig07.deviantart.net/2799/f/2012/002/2/e/sinan_erdem_panorama_by_holyrage-d4l23cy.jpg" title="http://orig07.deviantart.net/2799/f/2012/002/2/e/sinan_erdem_panorama_by_holyrage-d4l23cy.jpg">http://orig07.deviantart.net/…_holyrage-d4l23cy.jpg</a><br/><br/>haberinizin olmaması normal çünkü siz o zamanlar sanatla, edebiyatla falan ilgileniyordunuz. peki sizin kulüp o zamanlar ne mi yapıyordu:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.internethaber.com/files/2017/4/20/1771026/1771026-g4yqBE.jpg" title="http://i.internethaber.com/files/2017/4/20/1771026/1771026-g4yqBE.jpg">http://i.internethaber.com/…1026/1771026-g4yqbe.jpg</a>
 - entry_name: |
     hırsızın alnına dövme yapmak
   entry_id:  68768023
@@ -290,19 +290,26 @@ data:
   entry_content: |
     biz zamanında en azından bir gün önceden gider sınava gireceğimiz okulu bir görürdük. sınıfa çıkar, sıraya bakardık. çocuklar şimdi sınavın kaçta olduğunu bile bilmiyor.
 - entry_name: |
-    fatih terim
-  entry_id:  68757720
-  entry_writer: dtnc
-  entry_fav_count: 3
-  entry_content: |
-    bu herif kadar sinir bozucu ve hiçbir şeye yanıt vermeyen sırf ego tatmini için basın toplantısı yapan biri daha yok. hep aynı şeyler ' milli forma, bana yakışmaz, yapmadım-yapmam-yapmayacağım, onur-haysiyet-şeref, zaten biliyorsunuz...'<br/><br/>senin ben teknik adamlığının ta ....
-- entry_name: |
     11 haziran 2017 rafael nadal stan wawrinka maçı
-  entry_id:  68767613
-  entry_writer: borntodie
+  entry_id:  68767077
+  entry_writer: elian
   entry_fav_count: 3
   entry_content: |
-    rafael nadal'ın 6-2, 6-3, 6-1 kazandığı maçtır. final için oldukça kolay biten bir maç oldu. rafa aldı götürdü.<br/><br/>maçı izlerken nadal'ın uzun saçı, sıfır kollu tişörtü, uzun şortluyla canavar gibi oynadığı halleri gözümde canlandı he. zaten seremonide de gösterdiler tüm şampiyonluklarını, çok güzeldi.<br/><br/>o kupa en güzel rafa'nın ellerinde yükseliyor be. bir turnuvada 10 kez şampiyon olmak, muazzam başarı. <br/>kupanın bir replikasını vermeleri de çok iyi fikir olmuş. bırakın götürsün tabii lan artık kupayı ,hak etti adam. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>başarılarına başarı katmasını diliyoruz.<br/><br/>2005<br/>2006<br/>2007<br/>2008<br/>2010<br/>2011<br/>2012<br/>2013<br/>2014<br/>2017<br/><br/>la decima !<br/><br/>vamos rafa !<br/><br/>o bir efsane, toprağın kralı. şampiyon da şampiyon.
+    <a class="b" href="/?q=rafael+nadal">rafael nadal</a>'ın üfleyerek aldığı maçtır. wawrinka hiçbir şey yapamadı. 10. grandslami çok rahat kazandı nadal. nostalji tutkusundan farkında değiliz ama bizim nesil başarılı sporcu izleme konusunda efsanevi bir nesil. messi, ronaldo, kobe, lebron, federer, nadal... ileride bir gün bugünlere bakıp neler vardı bunlar sporcu mu diyebiliriz.
+- entry_name: |
+    rafael nadal
+  entry_id:  68769039
+  entry_writer: yamzam
+  entry_fav_count: 2
+  entry_content: |
+    federer ve nadal güzel adamlar. uzun yıllardır takip ediyorum, raket kırdıklarını, ikili polemiğe girdiklerini görmedim. <br/>sporcunun ahlaklısı adamlar. bizdeki mallar gibi değiller. hayat düzenleri var. şımarıklık yapmıyorlar da. <br/>en büyük tartışması yersiz ve gereksiz. ikisi de güzel, ahlaklı sporcu.
+- entry_name: |
+    11 haziran 2017 fatih terim basın açıklaması
+  entry_id:  68768587
+  entry_writer: impalaremzi
+  entry_fav_count: 2
+  entry_content: |
+    buraya yazıyorum 2 saat konuşacak hiç birimiz birşey anlamayacak, hiç birşey söylemeyecek.
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  68752567
@@ -312,32 +319,32 @@ data:
     tam uyiycam, bu sarkiyi dinledim. sonuc: uyumadi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://https//youtu.be/2zı3xjhnm1s" title="http://https//youtu.be/2zı3xjhnm1s">yuzyuzeyken konusuruz - ne farkeder</a>
 - entry_name: |
     burak yılmaz
-  entry_id:  68771640
-  entry_writer: grt
+  entry_id:  68771581
+  entry_writer: vart andelay
   entry_fav_count: 1
   entry_content: |
-    nedensizce bir pozisyonda kartlık bir hareket yaparak hakettiği kartı görüp bir sonraki milli maçta cezalı duruma düşmüştür.<br/><br/>(bkz: <a class="b" href="/?q=11+haziran+2017+kosova+t%c3%bcrkiye+ma%c3%a7%c4%b1">11 haziran 2017 kosova türkiye maçı</a>)<br/><br/>not: işbu entry tarihe not düşülsün diyedir.<br/>editini tahminimce birkaç güne yaparım.<br/>karakteri sevilesice.
+    çin'deyken muhtemelen beynini ameliyatla aldırmış futbolcu. saçını uzatması da bu yüzdendir, ameliyat izi belli olmasın diye.
 - entry_name: |
-    motosiklet sürme isteği uyandıran şarkılar
-  entry_id:  68759725
-  entry_writer: achilleus died
+    keşke açık giyinmeseydi şehit sevabı kazanırdı
+  entry_id:  68756213
+  entry_writer: ytrers
   entry_fav_count: 0
   entry_content: |
-    7 sayfa olmuş hala yazılmamış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OA1V7cI28hI">https://www.youtube.com/watch?v=oa1v7ci28hi</a><br/><br/>kısa versiyon için: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0SZbJpbVRzo">https://www.youtube.com/watch?v=0szbjpbvrzo</a><br/><br/>(bkz: <a class="b" href="/?q=the+road+to+hell">the road to hell</a>)<br/><br/>(bkz: <a class="b" href="/?q=chris+rea">chris rea</a>)
+    müminlik tam da budur. babaannem bir eve başı açık bir kadın girdiği zaman o eve meleklerin girmediğini söylerdi, buna inanırdı. bunu evimize giren başı açık misafir, akrabamız, aile dostumuz kadınların yüzüne de söylerdi; yaşlılığına verip gülerlerdi. ama sünni islam buna inanır, kadın bunu uydurmuyordu. inancı böyle söylüyordu. babaannem 26 sene önce öldü ama düşünceleri iktidarda. rahmetli bugünleri göremedi.
 - entry_name: |
-    eses taraftarının yaktığı genç
-  entry_id:  68770602
-  entry_writer: elm sokagi sakini
+    geceye bir şiir bırak
+  entry_id:  68756553
+  entry_writer: burclarainanmam
   entry_fav_count: 0
   entry_content: |
-    eskişehir'de 4 yıl üniversite okudum ve eskişehir'de yaşayanlar bilir ne kadar pislik bir oluşum olduklarını. sırf bu yüzden göztepe'yi destekledim. <br/><br/>eskişehir gibi güzel bir şehire bu leş taraftar yakışmıyor. futbol takımı kapatılsa çok daha hayırlı olur.
+      (nokta).oysa ben bir akşamüstü oturup turuncu bir yangının eteklerine, yüreği avuçlarımda atan bir can yoldaşıyla, dünyayı ve kendimi tüketmek isterdim..
 - entry_name: |
-    30 yaşında işi evi arabası olan evli erkek
-  entry_id:  68770498
-  entry_writer: avalanche80
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  68760067
+  entry_writer: senin pezevenk enisten
   entry_fav_count: 0
   entry_content: |
-    erken evlenmistir..
+    <a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/speagain">http://connected2.me/speagain</a><br/><br/>arada bir.
 - entry_name: |
     2017 kanada gp
   entry_id:  68770192
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     max verstappen'in startına muhteşem start değil, yarışı ilk turda kazanacağını zanneden acemi pilot startı denir.<br/><br/>muhteşem start görmek istiyorsanız fernando alonso bu konuda gridin en iyisi bence.<br/><br/>sebastian vettel hasar azaltma yarışı yapacak bu dakikadan sonra.<br/><br/>podyum çok zor, 5. lik iyi.
-- entry_name: |
-    11 haziran 2017 fatih terim basın açıklaması
-  entry_id:  68761230
-  entry_writer: polska
-  entry_fav_count: 0
-  entry_content: |
-    dört gözle beklediğim açıklama. bugün taşların yerine oturacağını düşünüyorum. terim net ve açık konuşacağım diyor. maçtan çok daha önemli bu bence.
 ---
