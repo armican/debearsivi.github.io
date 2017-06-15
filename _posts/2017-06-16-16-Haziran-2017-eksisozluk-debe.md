@@ -6,28 +6,28 @@ data:
     afedersiniz ama ben maymundan falan gelmedim
   entry_id:  68851441
   entry_writer: petawattsiz
-  entry_fav_count: 494
+  entry_fav_count: 496
   entry_content: |
     (bkz: <a class="b" href="/?q=sen+gelme+ulan+ay%c4%b1">sen gelme ulan ayı</a>)
 - entry_name: |
     15 haziran 2017 devlet bahçeli'nin attığı tweet
   entry_id:  68857764
   entry_writer: 10 kere dedim anlamadiniz
-  entry_fav_count: 397
+  entry_fav_count: 409
   entry_content: |
     (bkz: <a class="b" href="/?q=bolu">bolu</a>)<br/>(bkz: <a class="b" href="/?q=ismail%27in+yeri">ismail'in yeri</a>)<br/><br/>gerçi orası da fetö'den kapandı ama olsun.
 - entry_name: |
     reis emretsin vuralım meydanlar boş değil
   entry_id:  68854710
   entry_writer: kimsegucumuzutestetmeyekalkmasin
-  entry_fav_count: 302
+  entry_fav_count: 304
   entry_content: |
     chp'nin istanbul'a yürürken geçeceği düzce'de, akp gençlik kolları yönetim kurulu üyesi olan mehmet aybek'in sözleridir. tam olarak şöyle demiş: "vur de vuralım, öl de ölelim. reis meydanlar boş değil, emrin yeter!"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/chp-istanbula-yururken-duzcede-akp-genclik-kollari-uyesi-silahla-emrin-yeter-dedi/" title="http://www.diken.com.tr/chp-istanbula-yururken-duzcede-akp-genclik-kollari-uyesi-silahla-emrin-yeter-dedi/">şurada</a> sivillerde bulunması yasak hafif makineli tüfek mp5 ile bir de fotoğrafı mevcut. <br/><br/>yol boyunca herhangi bir saldırıda sorumlu bellidir. (bkz: <a class="b" href="/?q=emri+ben+verdim">emri ben verdim</a>)<br/><br/>edit: gözaltına <a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/duzcede-silahla-reis-emrin-yeter-diyen-akp-uyesi-gozaltina-alindi/" title="http://www.diken.com.tr/duzcede-silahla-reis-emrin-yeter-diyen-akp-uyesi-gozaltina-alindi/">alınmış</a>. umarım tutuklama talebiyle mahkemeye sevk edilir.
 - entry_name: |
     katar'ın abd'den savaş uçağı satın alması
   entry_id:  68845487
   entry_writer: fakirpislik06
-  entry_fav_count: 241
+  entry_fav_count: 243
   entry_content: |
     hürriyet'in geçtiği son dakika haberidir. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://mobil.hurriyet.com.tr/son-dakika-katar-krizinde-flas-gelisme-katar-ve-abd-40490490?utm_source=t.co&amp;utm_medium=post&amp;utm_campaign=son-dakika-katar-krizinde-flas-gelisme-katar-ve-abd-40490490&amp;utm_term=post" title="http://mobil.hurriyet.com.tr/son-dakika-katar-krizinde-flas-gelisme-katar-ve-abd-40490490?utm_source=t.co&amp;utm_medium=post&amp;utm_campaign=son-dakika-katar-krizinde-flas-gelisme-katar-ve-abd-40490490&amp;utm_term=post">http://mobil.hurriyet.com.tr/…0490490&amp;utm_term=post</a><br/><br/>habere göre katar abd'den 12 milyar dolar değerinde f15 savaş uçağı satın almış.<br/><br/>ne güzel iş lan. hem suudlara hem katar'a silah sat, onlar birbirini yesin, arada her türlü kazanan sen ol. trump ne pis ticaret adamıymış be kardeşim.
 - entry_name: |
@@ -38,33 +38,40 @@ data:
   entry_content: |
     ta kendimdir.<br/>nefret ederim cinsellikten. <br/>dunyada seksten daha önemli seyler var.<br/><br/>not: nasildim ama kizlar yesillendirin de kaynasalim.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
-    sabri'nin hayallerimi çaldılar demesi
-  entry_id:  68850792
-  entry_writer: ovalkaya
-  entry_fav_count: 172
-  entry_content: |
-    sabri'nin formasını giydiği takımın taraftarlarının hangi hayallerini çaldığını bilmeden yaptığı abuk sabuk açıklamadır.<br/><br/>sabri sarıoğlu, “hayalim burada başlayıp, burada bitirmekti. hayallerimi çaldılar! bana verilen sözler vardı, son 1 haftada tutalmadı” demiş. sabri'cim güzel kardeşim galatasaraylılığına lafımız yok. ancak her galatasaraylı bu takımın as kadrosunda oynayacak olsaydı yani ohooo... sen o çalınan hayallerini dağlara taşlara attığın ortalara paslara say. hava topuna çıkamayıp takıma yedirdiğin gollere say. içinden delip geçen kanat oyuncularına say. çalınan senin hayallerin olsun. bizim senin yüzünden düştüğümüz hastalıkların tedavisi ne oalcak?<br/><br/>sen git karınla birlikte kerimcan durmaz'la instagram, snapchat vs. yardır sana oralardan çok ekmek çıkar.
-- entry_name: |
     akp'nin yollarında yürüyüp akp'yi eleştirmek
   entry_id:  68861619
   entry_writer: zinaedenzidan
-  entry_fav_count: 161
+  entry_fav_count: 204
   entry_content: |
     aslen atamın emaneti vatan toprağı olduğu için, akp nin değil babamın toprağı sana ne oluyor lan at yarağı demek istediğim eleştri şeysi.
+- entry_name: |
+    sabri'nin hayallerimi çaldılar demesi
+  entry_id:  68850792
+  entry_writer: ovalkaya
+  entry_fav_count: 174
+  entry_content: |
+    sabri'nin formasını giydiği takımın taraftarlarının hangi hayallerini çaldığını bilmeden yaptığı abuk sabuk açıklamadır.<br/><br/>sabri sarıoğlu, “hayalim burada başlayıp, burada bitirmekti. hayallerimi çaldılar! bana verilen sözler vardı, son 1 haftada tutalmadı” demiş. sabri'cim güzel kardeşim galatasaraylılığına lafımız yok. ancak her galatasaraylı bu takımın as kadrosunda oynayacak olsaydı yani ohooo... sen o çalınan hayallerini dağlara taşlara attığın ortalara paslara say. hava topuna çıkamayıp takıma yedirdiğin gollere say. içinden delip geçen kanat oyuncularına say. çalınan senin hayallerin olsun. bizim senin yüzünden düştüğümüz hastalıkların tedavisi ne oalcak?<br/><br/>sen git karınla birlikte kerimcan durmaz'la instagram, snapchat vs. yardır sana oralardan çok ekmek çıkar.
 - entry_name: |
     15 haziran 2017 chp güvenpark yürüyüşü
   entry_id:  68843976
   entry_writer: herseyiistiyoruz
-  entry_fav_count: 141
+  entry_fav_count: 142
   entry_content: |
     geç kalmış yürüyüş.<br/><br/>ama bu bir şeyi değiştirmez, desteklenmesi, cesaretlendirilmesi gerekir.<br/><br/>meclisteki, gazete ve televizyonlarındaki, sosyal medyadaki trolleriyle herkesi terörist ilan eden iktidarın size dokunmayacağını mı sandınız?<br/><br/>seçimlerde hile yapan bir iktidar varken sine-i millet ve sokağa çıkmak için ne bekliyorsunuz?<br/><br/>orospu çocuğu troll'lere lafım şu: ulan it 15 temmuzda sokağa çıkınca destan oluyor da, bir askeri darbe yönetiminden hiçbir farkı olmayan uygulamalara karşı sokağa çıkınca terörörö mü oluyor amk çocuğu?
 - entry_name: |
     15 haziran karaköprü gençlik merkezi rezaleti
   entry_id:  68859272
   entry_writer: aribadoribore
-  entry_fav_count: 136
+  entry_fav_count: 139
   entry_content: |
     olay şanlıurfa'da cereyan ediyor. malum başkık sınırına takıldı.<br/><br/>tenis oynamak için gittiğimiz gençlik ve spor merkezinde dumur olmamızla sonuçlanmış, çok büyük bir rezalettir. kendi kendime puan veriyorum 9/10. daha büyük rezaletleri için hemen sizi böyle alalım;<br/>(bkz: <a class="b" href="/?q=27+mart+2017+genclik+ve+spor+bakanligi+rezaleti">27 mart 2017 genclik ve spor bakanligi rezaleti</a>)<br/><br/>bugün bir aydır abonesi olduğum şanlıurfa karaköprü gençlik ve spor merkezine tenis oynamak için bir arkadaşımla birlikte gittim. öncelikle gidip her zamanki gibi saat 17.30 için rezervasyon yaptırdım. rezervasyon saatine doğru korta gittik. tam korta girecekken tesis müdürü mustafa kırıkçı yanımıza geldi ve elimizde su olduğunu, bunun bir saygısızlık olduğunu söyledi. yaklaşık 10 dakika boyunca bir diyaloğumuz oldu. bize orasının bir spor merkezi olmadığını, gençlik merkezi olduğunu, ramazan ayında belirli yazılı kuralları olduğunu, su içerek spor yapamayacağımızı söyledi ve bizi saygısızlıkla suçladı. ramazan ayında tesiste kuran okunduğundan, oruç tutulduğundan bahsetti. kendisine islamın hoşgörü dini olduğunu, yıllarca oruç tuttuğumu ve oruç tutmayanlara hiçbir zaman bu gözle bakmadığımı söyledim. bir saygısızlığımızın olmadığını, spor yaparken çok sıvı kaybettiğimizi, su içme zorunluluğumuzu kibar bir dille belirttim. kendisi git gide artan ses tonuyla bizi saygısızlıkla suçlamaya devam etti ve en sonunda saatin 17.30 olduğunu, tesisin kapalı olduğunu (içeride çocuklar langırt ve masa tenisi oynuyordu) söyleyerek güvenlik eşliğinde bizi dışarı attı. tesisin 21.00 a kadar kurs ve etkinlik için kullanıldığını biliyorum. ki bu güne kadar hep 17.30-18.30 saatlerinde tenis oynadık.<br/><br/>ben 27 yaşında bir beden eğitimi öğretmeni olarak tesis müdürü mustafa bey adına çok üzüldüm. ilinde öğretmenlik yapan ve boş vaktini spor yaparak geçirmek isteyen bizlere karşı gerçekten kırıcı bir üslubu vardı. bizi oruç tutmamakla dahi suçlamaya kalktı. insanların dini görüşlerinin bir spor merkezinde tartışılır hale gelmesi gerçekten bana acı veriyor. <br/><br/>tesisin çalışma saatleri internette 08.00-21.00 olarak gözüküyor. abonesi olmama ve kort için daha önceden yer ayırtmama rağmen mustafa kırıkçı tarafından tesisten atıldık. yanımızda su ile geldiğimiz için oldu bunlar. <br/><br/>kort çalışma saatleri <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?q=karaköprü+gençlik+merkezi&amp;rlz=1CDGOYI_enTR740TR740&amp;oq=kara&amp;aqs=chrome.0.69i59l3j69i57j69i60l2.1472j0j4&amp;hl=tr&amp;sourceid=chrome-mobile&amp;ie=UTF-8" title="https://www.google.com.tr/search?q=karaköprü+gençlik+merkezi&amp;rlz=1CDGOYI_enTR740TR740&amp;oq=kara&amp;aqs=chrome.0.69i59l3j69i57j69i60l2.1472j0j4&amp;hl=tr&amp;sourceid=chrome-mobile&amp;ie=UTF-8">burada</a><br/><br/>sizden istediğim başlığı güncel tutmanız. olayı bimere taşıdım. siz de bu konu hakkında birmere şikayette bulunabilirsiniz. <br/><br/>istediğim tenis oynamak filan değil. istediğim böyle bir kurumda müdürlük mertebesine erişmiş birinin kokuşmuş zihniyetinin cezalandırılması. <br/><br/>sırf oruç tutmuyoruz diye gençlik ve spor merkezinin spor merkezi olmadığını söyleyebilecek kadar gözü dönmüş birinin olduğu bir kurumda nasıl sporcu yetişecek? bu beyefendinin çalıştığı kurumda belki binlerce lisanslı sporcu var. dini görüşleri yüzünden insanları yargılama hakkını kendinde bulan birisi nasıl sporcu yetiştirebilir? yetiştirilmesini koordine edebilir? yorumu sizlere bırakıyorum. <br/><br/>okuduğunuz için teşekkür ederim.
+- entry_name: |
+    borsa şahlanıp dolar düşerken eylem başlatmak
+  entry_id:  68860859
+  entry_writer: xorf
+  entry_fav_count: 104
+  entry_content: |
+    (bkz: <a class="b" href="/?q=maa%c5%9f+yatm%c4%b1%c5%9f+troll+karde%c5%9f+zehir+z%c4%b1kk%c4%b1m+olsun">maaş yatmış troll kardeş zehir zıkkım olsun</a>)
 - entry_name: |
     led zeppelin vs pink floyd vs queen vs the beatles
   entry_id:  68851523
@@ -73,19 +80,19 @@ data:
   entry_content: |
     kardeşi kardeşe kırdırmayın. hepsi candır.
 - entry_name: |
-    borsa şahlanıp dolar düşerken eylem başlatmak
-  entry_id:  68860859
-  entry_writer: xorf
-  entry_fav_count: 93
-  entry_content: |
-    (bkz: <a class="b" href="/?q=maa%c5%9f+yatm%c4%b1%c5%9f+troll+karde%c5%9f+zehir+z%c4%b1kk%c4%b1m+olsun">maaş yatmış troll kardeş zehir zıkkım olsun</a>)
-- entry_name: |
     interstellar
   entry_id:  68844456
   entry_writer: durbidakka
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     ensest ilişkiyi anlatan bir film değildir.<br/>bu başlıkta <a class="b" href="/?q=diagnostic+retikul">diagnostic retikul</a> adlı yazar yazmış, ekşişeylerde de bu yazı paylaşılmış.<br/><br/>ilgili entry: <a class="b" href="/entry/68826393">#68826393</a> <br/><br/>abi eliniz sikinizde bilim kurgumu izliyosunuz anlamıyorum ya. içiniz mi fesat nedir.<br/><br/>baba kız ilişkisi gibi içerisinde sevgi barındıran her filmde benzer benzetmeler bularak, "bu film ensest anlatıyor biliç altınıza sinyal gönderiyor" gibi saçma sapan fikirler ortaya atabilirim. olaya nereden bakacağız önemli. eğer cinsellik arıyorsan mutlaka bulursun. <br/>şu yazı için harcanan vakte yazık.
+- entry_name: |
+    robert kolej'in senelik 71 bin lira olması
+  entry_id:  68861176
+  entry_writer: always good
+  entry_fav_count: 86
+  entry_content: |
+    hepi topu 20 bin dolardır.<br/><br/>sırf veli toplantısına katılıp orada çocuğunu okutan 3-5 kişinin telefon numarasını alıp ahbaplık kurmak için 20 bin dolardan daha fazlasını verecek birçok kişi vardır.
 - entry_name: |
     beyaz yakalının yurt dışına yerleşmesi
   entry_id:  68845083
@@ -101,34 +108,6 @@ data:
   entry_content: |
     <a class="b" href="/?q=age+of+empires+ii">age of empires ii</a>, <a class="b" href="/?q=need+for+speed+2">need for speed 2</a> li yıllardır. <a class="b" href="/?q=worms+world+party">worms world party</a> 'i de unutmamak gerek.
 - entry_name: |
-    younes belhanda
-  entry_id:  68843957
-  entry_writer: mionel lessi
-  entry_fav_count: 76
-  entry_content: |
-    bir futbolcu pişmesi için değil de yıllık ücretinden tasarruf edilmek için kiraya verilmeye başlanmışsa, o adamı bir şekilde en cüzi fiyata alabilirsin. bizim emenike ve stoch'u düşünün. yıllardır oraya buraya verdik, değil 1 milyon euro bedava alan çıksa vereceğiz ama bedavaya alıp, yıllık ücretinin aynısını verecek kulüp bile çıkmıyor. bu belhanda da aynı hesap. 2 yıldır kiev bunu kiraya yolluyor. sonra bir keriz çıkıyor, 8 milyon euro para veriyor. tıpkı geçen yıl trabzon'un kurtulmak için üzerine para vermeye razı olduğu cavanda için 2 milyon verilmesi gibi. <br/><br/>kesin bunda pazarlığı gsliler başlatmış ve 5'le falan oturmuşlardır masaya. adamlarda oha lan 5 ne alaka, 5 veren 7-8 de verir deyip 10 istemişlerdir. halbuki 1 milyondan kapıyı açsan belki 2-3'e bitirirsin. kulüplerde edilen zararlar direk olarak o kulübü yöneten şahıslara mal edilmedikçe böyle yönetilmeye devam ederiz. zararları ödemekle yükümlü olsunlar bakın bakalım nasıl 1 kuruşun hesabını yapıyorlar.
-- entry_name: |
-    robert kolej'in senelik 71 bin lira olması
-  entry_id:  68861176
-  entry_writer: always good
-  entry_fav_count: 74
-  entry_content: |
-    hepi topu 20 bin dolardır.<br/><br/>sırf veli toplantısına katılıp orada çocuğunu okutan 3-5 kişinin telefon numarasını alıp ahbaplık kurmak için 20 bin dolardan daha fazlasını verecek birçok kişi vardır.
-- entry_name: |
-    edirne'de atatürk heykelinin elini öpen çocuklar
-  entry_id:  68857633
-  entry_writer: turiq
-  entry_fav_count: 74
-  entry_content: |
-    gözlerinden öptüğüm çocuklardır. <br/><br/>memleketleri de memleket işte. kimi yıkar kimi öper.
-- entry_name: |
-    erken emekli olanların parasını ödemek istemiyorum
-  entry_id:  68851980
-  entry_writer: trumpets
-  entry_fav_count: 72
-  entry_content: |
-    mezarda emekli olmayayım diye mücadele etmeyen, meydanları doldurup sıkı dayak ve gaz yemeyen yeni neslin klavye başında bulduğu harika çözüm. neymiş efendim ya bu maaşı almayacakmışız ya da kendi ihtiyaçlarımız için kullanmayacakmışız. merak etme zaten kullanmıyoruz. aldığımız gün yarısını yol ,su, elektrik, derken devlete geri ödüyoruz.<br/>meraklısına not: 70 li yıllarda sendikalıydım. grev diye bir şey de yapardık. üretim dururdu filan.<br/>(bkz: <a class="b" href="/?q=hak+verilmez+al%c4%b1n%c4%b1r">hak verilmez alınır</a>)<br/><br/>.<br/>.
-- entry_name: |
     1370 yıllık kutsal kitabın halka açılması
   entry_id:  68859610
   entry_writer: h r
@@ -139,9 +118,16 @@ data:
     10
   entry_id:  68845853
   entry_writer: cryptesthetic
-  entry_fav_count: 68
+  entry_fav_count: 69
   entry_content: |
     şu an gerçekten inanılmaz bir şoktayım.<br/><br/>83 kuşağı ve çok derin bir tarkan hayranı olduğumu belirterek başlayayım. <br/><br/>albümü dinledim;<br/><br/>şu hayatta eskilerin güzelliklerine dair, hayata dair sevdiğim, geriye kalan ender şeylerden biriydi tarkan. gençliğimdi. bozulmadan kalan'dı.<br/><br/>cuppa'daki o "nakarat" saçmalığını ve müzikalitesinin boktanlığını ben de beğenmemiş ve hayret etmiştim. fakat 10 albümünü dinleyince kesinlikle şok oldum.<br/><br/>hiç bir şarkıda nakarat yok.<br/>hiç bir vurucu nota, bir ahenk, bir kompozisyon yok.<br/>doğru düzgün hiç bir yaylı ya da canlı saz yok. masa başı dımtıs üzeri vokaller. berbat bir düzenleme. a'dan z'ye tüm şarkılar böyle.<br/>satıralarda hiç bir hece ölçüsü, tam ya da zengin kafiye yok. kelimeler çekiştirile çekiştirile söylenmiş hep.<br/>kompozisyonlar hani;<br/>au eeeu a a a aa ee uuu ee a a a <br/><br/>gibi filan oldugunda guzeldir ya notalarda,<br/><br/>tüm şarkılar<br/><br/>sjduej disjler isee kfifie aggsysyd kf sisiheee suaaa<br/><br/>şeklinde notalarda. anlatabildim mi bilemiyorum burayı... uyum yok. <br/><br/>tarkan'ın sesi pes'lerde güzeldir. tiz'lerde ise coşkulu nakaratlar çıkar. tüm albümü tizlerde dolaşarak, hani tam değim yerindeyse yumşaak yumşak, bıkkın ve olgun, okumak için okumuş gibi söylemiş. nerde o eski kelimeleri vurgulu söyleyen, rockvari, işveli, alımlı, kimi yerde metalize, çekici tarkan sesi?... hiç bir şarkıda yok... <br/><br/>resmen sezen aksu'nun son yillarda çıkardığı kompozisyonsuz ve olmuş olsun diye yapılmış menapoz dönemi şarkıları gibi.<br/><br/>ruh yok ruh... duygu yok. oryantal ezgiler yok. kemanlar yok. elektro ya da gitar yok. birsürü söz kalabalığı. beste ve kompozisyonlar kötü olduğu için üç beş sloganik vurucu söz de kaybolmuş gitmiş.<br/><br/>bana dün deseydiniz ki, 7 sene sonra tarkan'ın çıkardığı albümü 1 gün önce edinmek için 1000 tl verir miydin, inanın verirdim. şarkıların ilk birer dakikalarına zor dayandım. eee bu boktan, nası ya bu da boktan, aaa dur bakayım, e bu da boktan diyerek bir baktım albüm sonu gelmiş...<br/><br/>çelik'in, emre altuğ'un, hatta murat dalkılıç'ın b2-b3-b4 şarkıları gibi "laf olsunluk" şarkılar hep. asla ama asla yıllarca filan uğraşılmamış. bariz bir şekilde birkaç ayda stüdyoda birkaç kişi masa başında yapılmış bir albüm bu. üç beş söz toplayıp rastgele birşeyler seçim yerleştirip dımtıs'ı da verip üzerine antin kuntin okumuş.<br/><br/>ben bir tek şarkısını bile ikinciye aynı şekilde okuyabileceğini sanmıyorum çünkü nota ve kompozisyon yok. hiçç hem de.<br/><br/>şu an satın almaktan dahi vaz geçtim ve buna inanamıyorum.<br/><br/>biliyor musunuz, artık tarkan'ı da suçlayamıyorum. tarkan da değişti. sanki gerçek tarkan gitmiş ve botoks'lu dublörü gelmiş gibi, kabus gibi, ama ne yazık ki değil. <br/><br/>adam yıllar öncesinde hevesle, ruh'la, emekle, ihtirasla yapıyordu albümleri. sevdimmm, çokk sevdimmmm derken hissediyordu, sesi öyyle vurgulu öyyle kalın'dı. döön dööönnn bebeğimmm derken, gözlerimizdeki yaşlar çıkacakları saniyeyi bile bilirdi, inanılmaz bir şekli, bir rengi, bir komposizyonu vardı bestelerin. ağğ zınnn da sa kı zıı şişii riiip şişiriiip derken, o ses tonu ve vurgusuyla karşı tarafla dalga geçerdi. seninnle sonnn ge ce mizzz buu, bu sonnn sevişşmemizzz bel ki deeee derken, kadın erkek herkesin tüğlerini diken diken ederdi. bi biz nereye şarkısı vardır ki, takılllmışım sözlerine, benn mec bu rumm gözzlerineee derken mest olurduk o rock ses rengine.<br/><br/>şimdi o aşkları geride bıraktı. o duyguları geride bıraktı. yıllar onu da yordu, belli. hedefleri ihtirasları kalmadı, çok belli... özenmemiş albüme, şarkı seçimleri böyle olamaz, şaka gibi... geçen albümlerdeki "dilli düdük" ya da "sevdanın son vuruşu" bile bunlardan katbekat daha iyiydi. tarkan'ın duygu anlamında zirvesi şımarık albümüdür. müzikalite zirvesi ise karma albümü. hatırlarsınız kuzu kuzu'nun yaylılarının nasıl girdiğini...<br/><br/>ya bu albüm? bir a1 şarkısı mı var? sizi temin ederim, cuppa bu albümün a1'iydi ve çıkartıldı. çünkü cuppa bile tüm bu albümden daha iyiydi.<br/><br/>zaman da değişti, yine suçlayamayız. artık sanıyorum kimse can şengün ya da nurkan renda gibi gitaristleri çağırıp şarkıya nakaratlar, riff'ler üretmek için zaman harcamıyor, sazlar, yaylılar çağırıp ayrı kayıtlar yapılmıyor. tarkan giriyor, 1 saatte birkaç tekrarla okuyup çıkıyor, arkadan da ozan çolakoğlu ya da her kimse birkaç uygulamayla sunni bir düzenleme yapıp dinletiyor, tamam mı abi, tamam oluyor. geç...<br/><br/>müzik'den zerre kadar anlıyor ve tarkan'ın eski hallerini iyi biliyorsanız, birazcık analiz yeteneğiniz ve kulağınız varsa, emin olun yazılan diğer yorumlar tamamen yanlış. ne 90'lar geri gelmiş, ne de bunca şarkı arasından tekrar tekrar dinlenecek, kulaklık takılacak, duygusal anlar yaşatacak, gözleri doldurup ağlatacak ya da gece kulüplerinde elinde içkiyle kendinden geçirip hoplatıp zıplatacak tek bir şarkı var.<br/><br/>tarkan'ın zevkinin bu olduğuna da, bize 7 sene sonra bunu reva gördüğüne de inanamıyorum.<br/><br/>hep espirisi yapılırdı ya "tarkan bitti aaabi" diye. ben şahsen 34 yaşıma girerken, hayatımdaki nadide değerlerden biri olan tarkan'a da veda ettiğimi anladım.<br/><br/>gerçekten çok üzdün tarkan. keşke hiç yapmayıp, o şarkılarla kalsaydın aklımızda. tsm albümündeki cansız elektronik playback müziğin üzerine okuyup herşeyi mahvetmenden sonra, son hevesimizi de bu albümle kırdın.<br/><br/>herşey bundan ibaret dostlar. başka kim ne diyorsa yalan söyler...<br/><br/>edit : oha ya, üç dört saat içinde posta kutum bana hak veren onlarca mesajla dolmuş. herkes albümün bu denli başarısız olmasına gerçekten ne kadar da gönülden üzülmüş. herkes eski anılarını, eski şarkılardaki güzellikleri özlediğini filan yazmış. arkadaşlar özelden mesaj atacağınıza buraya yazın ki yerine ulaşsın. biz bu tip bir kalitesizliği kabul ettikçe, tarkan standardını düşürecek. <br/><br/>bir arkadaşın da çok güzel belirttiği, albüm baştan sonra "kelime sıkıştırma" dolu. bu daha önce hiç bir albümünde yoktu tarkan'ın. söyleni söyleniverilen kelimeler. her tempoda bir hece yok yani. müzikler ve sözler uyumsuz gidiyor. ayrıca kesinnlikle duygu yok. slow şarkısı bile duygusuz. armoni yok, melodi yok. dudu albümünde de, ara albümlerde de ilk dinleyişte en fazla "garip" gelir sonra sevdirirdi şarkılar. bu albümde garip gelmiyor, dinlemek zulüm geliyor. ayyyh deyip kapatmak istiyor tahammül edemiyorsunuz. arada fark var.<br/><br/>"ben senin ben senin, ben senin ben senin, ben senin ben senin" nedir abi yaa... buna gerçekten kapatmadan dayanabilen var mı? leş...<br/><br/>ahhhh be tarkan yaaa.. herkese şarkılar yazan, şarkılar veren, iyi şarkı nasıl olur iyi bilen sen, bunu nasıl yaptın anlamıyorum... emir'e yaptığın albüm bile bundan iyiydi.<br/><br/>edit 2 : aklıma ne geldi biliyor musunuz, mfö'nün bir şarkısı vardı hani, "daii daii yauu, nurundaa nurundaaa iyaiyaa. dada bis teestee baha, daaas diis doooss suuu de suu de suuu" diye. inanın şu sözsüz şarkı anlamlı söz olmadan da bir şarkının güzel olabileceğinin kanıtıdır ve şu albümdeki tüm şarkılardan açık ara daha iyidir. melodi, armoni, kompozisyon var şarkıda. bunlar bu albümde olmayan şeyler.<br/><br/>7 sene boyunca bu albümü mü yapmış şimdi? sizce 7 sene uğraşılmış bir albüme benziyor mu? 7 koca sene... elbette hayır. 1 aylık bir albüm bu. peki, benim merak ettiğim şey şu. tarkan bunca sene boş vakitlerinde ne yaptı? ye, iç, yat, kalk, gez mi? bana sadece bunu açıklasın. bunca sene, 365x7 gün, bu albüm mü çıktı? pes...<br/><br/>edit 3 : cengiz kurtoğlu'nun oğlu aydın kurtoğlu'nun bile albümü bundan çok daha güzel. <br/><br/>hatta açın, simge'den yankı şarkısını dinleyin, tarkan'ın kirlettiği kulaklarınızın pası silinsin. son yıllarda çıkan birkaç nadir şarkıdan biri. tarkan da dinlesin. açsın, kompozisyon, müzikalite, ahenk, nasıl olur anlasın. ben seee ni ben seeeni, ben seeeni be... tövbe ya...
+- entry_name: |
+    evleneceğim kızın ablasıyla evlenebilir miyim
+  entry_id:  68861363
+  entry_writer: nuktedan
+  entry_fav_count: 61
+  entry_content: |
+    o da bir şey mi ? istersen evlatlılığının karısıyla bile evlenebilirsin .
 - entry_name: |
     türk vatandaşlarına y.dışına çıkma yasağı gelsin
   entry_id:  68843494
@@ -150,38 +136,38 @@ data:
   entry_content: |
     yasaklamazsanız ibnesiniz, 100 yıl tatile gitmem yine size kazandırmam öyle gte böle...<br/><br/>ulan öğrenemediniz senelerdir bi boka ek vergi koyunca biz milletçe ötekine yönelmeyiz komple bırakırız.. <br/><br/>2.0 litrelik motora vergi koyunca 1.6 satışı artar..<br/><br/>yurtdışından parfum alımını yasakladınız noldu millet tekin acarda sıraya mı girdi? bu sene küçülüyor herif.. sahte parfumculere hucum etti insanlar yine kazanamadınız..<br/><br/>telefona ek vergi dediniz yerli üretim dediniz? ikinci el iphone piyasası canlandı..<br/><br/>yurtdışına çıkışı yasaklayın millet şişme havuz alır ama yine sizin skindirik otellerinize gelmez..
 - entry_name: |
-    evleneceğim kızın ablasıyla evlenebilir miyim
-  entry_id:  68861363
-  entry_writer: nuktedan
-  entry_fav_count: 54
+    survivor 2017
+  entry_id:  68843686
+  entry_writer: tozasor
+  entry_fav_count: 40
   entry_content: |
-    o da bir şey mi ? istersen evlatlılığının karısıyla bile evlenebilirsin .
-- entry_name: |
-    iki heceli en güzel şey
-  entry_id:  68854445
-  entry_writer: artik herkes evine donmeli
-  entry_fav_count: 36
-  entry_content: |
-    (bkz: <a class="b" href="/?q=afedersin+yar-rak">afedersin yar-rak</a>)
+    dassdasffas <a class="b" href="/?q=seherseniz">seherseniz</a> baktı oge şampiyonluk için favori oldu söylenmeyen tek şeyi söyledi ve fetöcü dedi :) <br/><br/>şampiyon olursa 15 temmuz darbesini ogeday yaptı, adem o sırada tankların önünde yatıyordu diyecek.
 - entry_name: |
     muhafazakar kesimin çocuklarına koyduğu isimler
   entry_id:  68845081
   entry_writer: urban bug
-  entry_fav_count: 33
+  entry_fav_count: 38
   entry_content: |
     en kusmuğu kesinlikle (bkz: <a class="b" href="/?q=eymen">eymen</a>)
+- entry_name: |
+    iki heceli en güzel şey
+  entry_id:  68854445
+  entry_writer: artik herkes evine donmeli
+  entry_fav_count: 37
+  entry_content: |
+    (bkz: <a class="b" href="/?q=afedersin+yar-rak">afedersin yar-rak</a>)
 - entry_name: |
     cinsellik benim için üçüncü plandadır diyen erkek
   entry_id:  68857251
   entry_writer: anarchist psycholog
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     (bkz: <a class="b" href="/?q=at+silah+avrat">at silah avrat</a>)
 - entry_name: |
     burçların bir cümlelik özeti
   entry_id:  68855638
   entry_writer: bana her yer cehennem
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     akrep: herkesi sikmek istiyorum
 - entry_name: |
@@ -195,35 +181,28 @@ data:
     sit alanına 300 odalı yazlık saray yaptırmak
   entry_id:  68857611
   entry_writer: sagliginiz icin
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     adam osmanli'yi gecmis, jendini roma imparatoru falan sanmaya baslamis herhalde...<br/><br/>lan oglum; ne zaman verecek bunlarin belasini allah? <br/><br/>boktan olay...
 - entry_name: |
     ezberlenen en saçma şey
   entry_id:  68843603
   entry_writer: anom
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     "okula giderim her sabah erken<br/>hiç geç kalmam bu kadar kız varken<br/>hepsi de güzel, hepsi de tatlı <br/>okulda sadece benim havuç kafalı!<br/><br/>havalıııh havalııh havuç kafalıııah<br/>etrafı güzel kızlarla sarılııah!!..."<sup class="ab"><a title="(bkz: çocuklar duymasın)" href="/?q=%c3%a7ocuklar+duymas%c4%b1n" data-query="çocuklar duymasın">*</a></sup><sup class="ab"><a title="(bkz: havuç)" href="/?q=havu%c3%a7" data-query="havuç">*</a></sup><sup class="ab"><a title="(bkz: çile)" href="/?q=%c3%a7ile" data-query="çile">*</a></sup>
 - entry_name: |
-    15 haziran 2017 galatasaray riva ihalesi 2. turu
-  entry_id:  68857265
-  entry_writer: este noyan
-  entry_fav_count: 19
+    burak yılmaz
+  entry_id:  68846217
+  entry_writer: epir
+  entry_fav_count: 20
   entry_content: |
-    kıskançlıktan dezenformasyon yapanlar da damlamış hemen. galatasaray alacağı net para olduğu için istediği oyuncuya para basıp alabilir. transfer yapmayı 1980lerdeki gibi sananların yorum yapmaması gerekiyor. şimdi adama vereceğin parayı 48 aya bölüp veriyorsun. al 20 milyon ver oyuncuyu diye bir şey yok. bazıları öyle yapıyor tabi. orası da ayrı. <br/><br/>beşiktaş 2 senelik şampiyonluğa rağmen 300 milyon zarar etmiş durumda. fener de öyle. galatasaray bu arazi satışıyla en azından rahatlamış olacak. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/futbolverileri/status/868000638399119360" title="https://twitter.com/futbolverileri/status/868000638399119360">bu</a> satışlar olmadan önceki rakamlar. bjk 5-6 sene değil bir ömür boyunca bu borçlar için uğraşacak. galatasaray bu kadar kötü durumda olsa çarşaf çarşaf haberler okurdunuz, fb aleyhine olunca paylaşılmaz o nedenle bilinmemesi normal. <br/><br/>ha bu satışlar beceriksiz yönetimler nedeniyle günü kurtarır ancak. 20 sene sonra aynı borç olursa şaşırmam.
-- entry_name: |
-    korcan cinemre
-  entry_id:  68861692
-  entry_writer: kardesbencokhastayim
-  entry_fav_count: 17
-  entry_content: |
-    eger ilk 2 entry'de korcan cinemrenin komik oldugu soylenseydi su an kendisine ovguler dizilecekti. basligin trendi kotulemeyi gerektirince de belki tanimayan bile kotulemeye basladi.<br/><br/>bence komikti. ben guldum.
+    milli takımda 100-200 bin euro az prim aldı diye araya arda'yı sokan adam çin klübünden aldığı yıllık 7 milyon euro'dan vazgeçip beşiktaş'ta 2.5 milyon euro'ya imza atacağına inanan var mı cidden?
 - entry_name: |
     ekşi itiraf
   entry_id:  68844120
   entry_writer: jsmnysr
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     hayatımdan çıkalı saçma sapan 8 ay geçti. unuturum sandım, etkisi azalır gibi oldu ama bitmedi. <br/>rüyalarımda hep sarıldım, hep öptüm, hep kokladım. hep iyiydin orada bana.<br/>başka bir kadın var hayatında, seni de onu da stalkladım. gece gündüz stalkladım. fake tesbihçi instagram hesabı açtım, fiyat soranlar falan bile oldu.<br/>geçmedi, bitmedi.<br/>kızı izledim, benden çirkin di mi bu diye günlerce kıyasladım. neyi fazla, benim neyim eksik diye kendi kendimi yedim.<br/>aptallık ettim. kendimi işime veremedim.<br/>işten ayrıldım, istifa ettim.<br/>sen yokken üç kere istanbula geldim. metrobüse bindim, küfrettim.<br/>kadıköy'e her gelişimde sana küfrettim. <br/>geçmem bir daha kadıköyden şarkısını dinledim. küfrettim. bilirsin eskiden küfredemezdim.<br/>daha çok içime sindim, daha çok kapandım. daha korkaklaştım, daha güvensizleştim. daha panik bir insan oldum.<br/>flört etmeye çalıştım, beceremedim. karşıma çıkan her adama sapık muamelesi yaparken ya da ilgiye boğarken buldum kendimi.<br/>sevme ayarlarımın bozulduğunu gördüm, sevgisizleşip, çirkinleştiğimi gördüm.<br/>kendimi saldım, günlerce ne saç, ne makyaj yaptım.<br/>en kötüsü kendimi sevmeyi unuttum.<br/>içim doldu, içtim sana yazdım. hiç cevap gelmedi, hiç cevap vermedin. duvarlara ya da şişelerin dibine anlattım seni. <br/>kızlara dert yandım, adını duyunca onlar da küfrediyor şimdi.<br/>ne yaptım da beni sevmedin. ben ne kadar kötü bir insandım da beni bu kadar göremedin. neydi eksiğim, neydi fazlan, hiç bilemedim.<br/>şimdi tek dileğim var kendim için. lütfen gelme aklıma, git, gelme. hiç yokmuşsun gibi kal orada. hoşça kal ama içimde kalma daha fazla.
 - entry_name: |
@@ -237,30 +216,23 @@ data:
     2017-18 spor toto süper lig şampiyonu kim olur
   entry_id:  68860643
   entry_writer: manyaksey
-  entry_fav_count: 12
+  entry_fav_count: 15
   entry_content: |
     aykut takımı yarışa sokar. <br/>başakşehir yine abdullah avcı ile iş yapar.<br/>beşiktaş kaldığı yerden devam eder.<br/>trabzon şampiyon takımı belirler.<br/>bursa küme düşer.<br/>galatasaraydan bi sik olmaz.
 - entry_name: |
-    önce kendini geliştir bir araba al diyen kız
-  entry_id:  68854913
-  entry_writer: ne dusunuyorsun
-  entry_fav_count: 11
+    korcan cinemre
+  entry_id:  68860797
+  entry_writer: darknight
+  entry_fav_count: 14
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ben askerdeyken tanışmıştık<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>durum daha kötüye gitmeden revire gitseydin keşke kardeş.
+    varol: geçen sefer kaç puan kazanmıştınız?<br/>cinemre: eksi 100. onu getirdim (para çıkarmak için elini cebine atar)
 - entry_name: |
     akademik kariyer yapmak isteyenlere tavsiyeler
   entry_id:  68852495
   entry_writer: cilekli pasta
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     doktoranız bitene kadar aç kalmaya razıysanız adım atın yoksa hiç bulaşmayın. çoğunun derdi devlette daimi bir kadroya kapağı atayım oh mis iken yds çalışmak yerine iki kuruş bilimle içli dışlı olmaya çalışırsanız benim gibi aç kalırsınız.
-- entry_name: |
-    jartiyer giyen kız vs yün içlik giyen kız
-  entry_id:  68851100
-  entry_writer: delfina
-  entry_fav_count: 9
-  entry_content: |
-    jartiyer üstüne termal içlik, onun üstüne motor pantolonu giyip; bi kış günü sevgilisinin evine sevişmeye motoruyla giden bir bacı olabilir. <br/>versus değildir yanisi. yaşadık bunları hep.<br/>üste de büstiyer üstü termal içlik, windstopper polar ve motosiklet montu giyiliyor hatta. al bunu al al
 - entry_name: |
     keanu reeves
   entry_id:  68861748
@@ -268,6 +240,13 @@ data:
   entry_fav_count: 8
   entry_content: |
     turkce'ye "<a class="b" href="/?q=yeter">yeter</a>" adiyla cevrilen filmde jennifer lopez'i canlandirmistir.
+- entry_name: |
+    15 haziran 2017 abd de iki türk'ün tutuklanması
+  entry_id:  68849412
+  entry_writer: babayega
+  entry_fav_count: 7
+  entry_content: |
+    rte hazretlerinin abd ziyaretinde protestoculara saldıran 2 dingilin gözaltına alınması olayıdır. insan yaşadığı yerin kanunlarını bilir en azından lan, orasını da tr gibi muz cumhutiyetimi sandınız mal herifler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/toplum/erdoganin-abd-ziyaretine-iliskin-2-tutuklama-199935" title="http://haber.sol.org.tr/toplum/erdoganin-abd-ziyaretine-iliskin-2-tutuklama-199935">kaynak</a>
 - entry_name: |
     arda turan denildiğinde akla gelenler
   entry_id:  68857510
@@ -286,37 +265,58 @@ data:
     düşün ki o bunu okuyor
   entry_id:  68859471
   entry_writer: tahtacizadeali
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     buradan eski patronuma seslenmek istiyorum. gerçi ekşi sözlük gibi bir bilgi paylaşım platformunu takip etmek yerine instagram da karı kız peşindesindir yine ama içimde kalmasın söyleyeyim senin ben a.ına koyim tamam mı? <br/>yeni mezun diye ilk ay deneme süresi deyip 3 aya çıkardın ya fazladan geçen her gün g.tüne girsin. <br/>sigorta 15 gün sonra deyip "sigorta çok pahalı deneme süren dolsun" diye kıvırdın ya o, 4a sgk hizmet dökümü sana girsin. <br/>gecenin 11'inde çizim yapıyor musun diye mesaj atıyordun ya ha işte o operatörün tüm baz istasyonları sana layer layer (mimarlar anlar) girsin. <br/>yanında çalıştırdığın çaycıya 3 yıldır kendi oğlunun özel okul masraflarını bahane göstererek zam yapmıyordun ya o özel okulun hademe ve servis şoförleri koysun sana.
 - entry_name: |
     devlet bahçeli
   entry_id:  68859672
   entry_writer: apedron
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     bir adam düşünün ki yarım asırlık siyaset yaşamında memlekete tek faydası, bazı aklı selim insanları, okeye dördüncü olarak bile çağrılmayacak böyle kifayetsiz bir insanı kırk sene içinde barındıran türk siyasetinin koşullarını düşürdürmeye sevk etmesi. bilmiyorum sabah uyanıp aynaya baktığında hiç mi düşünmüyor "ben kimim - ne yapıyorum - şu ana dek ne başardım" diye. <br/><br/>kanımca bir ailesi olmamasından kaynaklanıyor her şey. makamını bırakması halinde ecel gelene dek bir evde yapayalnız yaşayacağını, unutulacağını, ilk tekmeyi atacakların bugün gölgesinden çıkmayan dalkavuklar olacağını gayet iyi biliyor ve bundan ölesiye korkuyor. ancak bayramlarda ziyaret edilen eski bir devlet büyüğü olmak istemiyor. bu yalnızlığa, unutulmuşluğa düşmemek için yalandan, riyadan ibaret o fanus içinde yaşamaya kendini ikna etmiş, bu suni dünyadan çıkmamak için de elinden geleni ardına koymamaya ant içmiş. kendi tüzüğünü hiçe sayması, muhaliflerini ihraç etmesi, dün şeytan dediğiyle bugün dost olması... hepsi bahsettiğim bu korkudan filizleniyor. <br/><br/>birçok siyasetçiden nefret etmişimdir ama bu adamın varlığına nefret edecek kadar bile ehemmiyet vermiyorum. bende sadece acıma hissi uyandırıyor. yazık, diyebiliyorum. hepsi bu. <br/><br/>tanım: geniş zaman kipinden beni soğutmuş şahıstır.
-- entry_name: |
-    15 haziran 2017 abd de iki türk'ün tutuklanması
-  entry_id:  68849412
-  entry_writer: babayega
-  entry_fav_count: 4
-  entry_content: |
-    rte hazretlerinin abd ziyaretinde protestoculara saldıran 2 dingilin gözaltına alınması olayıdır. insan yaşadığı yerin kanunlarını bilir en azından lan, orasını da tr gibi muz cumhutiyetimi sandınız mal herifler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/toplum/erdoganin-abd-ziyaretine-iliskin-2-tutuklama-199935" title="http://haber.sol.org.tr/toplum/erdoganin-abd-ziyaretine-iliskin-2-tutuklama-199935">kaynak</a>
 - entry_name: |
     iki saat dilenerek 159 tl kazanan gazeteciler
   entry_id:  68860687
   entry_writer: bogdan yazarovsky
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     ''kocaeli ve bolu’da sosyal deney yapmak için dilenci kılığına giren basın mensupları, 2 saatte vatandaşlardan 159 tl para topladı.''<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/dilenci-kiligina-giren-gazeteciler-sosyal-deney-9731966-haberi/" title="https://www.haberler.com/dilenci-kiligina-giren-gazeteciler-sosyal-deney-9731966-haberi/">link</a><br/><br/>iki saatte 159, sekiz saatte 636; ayda 19.080 tl para yapar. himm...<br/><br/>gazeteciliği bırakmamalarını dilediğim gazetecilerdir.<br/><br/>para bölünmesin. ben sultanahmet'e kaçar.
+- entry_name: |
+    arda'nın çok sayıda hurma ile umreden geri dönmesi
+  entry_id:  68863017
+  entry_writer: ravinrabbid
+  entry_fav_count: 4
+  entry_content: |
+    yediği hurmalar artık tırmalamaya başlayınca başkalarına da hurma getirmek istemiş sanırım.
+- entry_name: |
+    yazarların şu an duymak istediği söz
+  entry_id:  68843872
+  entry_writer: jsmnysr
+  entry_fav_count: 3
+  entry_content: |
+    seni çok özledim<br/><br/>(bkz: <a class="b" href="/?q=haydi+s%c3%b6yle+r%c3%bcyalarda+g%c3%b6rd%c3%bc%c4%9f%c3%bcn%c3%bc">haydi söyle rüyalarda gördüğünü</a>)
 - entry_name: |
     yazarları en çok korkutan korku filmi
   entry_id:  68851879
   entry_writer: 260611
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     (bkz: <a class="b" href="/?q=the+ring">the ring</a>)<br/><br/>gecenin bir yarısı gittim sinemaya oturdum filmi izleyecem ama bende başka kimse yok. oh ne güzel bana özel seans gibi düşündüm ama film gerdikçe gerdi arkadaş. tırsmaya başladım tabi. ara verildi ama ibnetor ışıkları açmadı. içerisi karanlık, koca salon... lan bari reklam aç. kaçıp gidecem yolu göremiyorum. "imdattt kurtarın beni!!" diye bağırsam ayıp olacak erkek adamız. neyse zor bela bitti film. yusuf yusuf gittim eve. tam yatacam karşımda 37 ekran tüplü tv bana bakıyor. lan dedim bunun içinden çıkamaz sıkışır kalır kız yat amına koyim. içim rahat etmedi. ters çevirdim tv'yi öyle yattım.
+- entry_name: |
+    kişide kaçma arzusu uyandıran muhabbetler
+  entry_id:  68862359
+  entry_writer: kayunun orospu sevgilisi
+  entry_fav_count: 3
+  entry_content: |
+    -ben cok x imdir.(banane ya, cok sikimeymis gibi yapmak istemiyorum)<br/>-ben y yemeden yasayamam/uyanamam. (banane lan senin yasamandan, sen yasama zaten neden yasiyosun)<br/>-bunu birde z de yiyeceksin.(bunu z ye gittigimi soyle beyaz yakali)<br/>-x in goguslerine bak.. off bu hatun muhtesem. (muhtesem ise git bunu ona soyle ve evlen)<br/>-ne zaman evleniyon (seni bir siksem, evlenmis bosanmis kadar olucam. sanane lan at kafasi)<br/>-arabayi kaca aldin, hangi mahallede oturuyosun, ayda ne kadar kazaniyorsun.. benim statum senin statunu siker mi acabaya getirecek konuyu surtuk.
+- entry_name: |
+    kemal kılıçdaroğlu
+  entry_id:  68844551
+  entry_writer: suyundan da koy
+  entry_fav_count: 3
+  entry_content: |
+    dededen chp li biri olarak birkaç söz söylemek istiyorum.<br/><br/>koyu fanatik, militanlık düzeyinde akpli olan bireylerin, liderlerine laf söyletmemek adına saçmalamasından tiksinirken, kendi liderimi eksikleriyle, hatalarıyla kabul etmem, herşeye rağmen savunmam mümkün değil. eleştirdiğim insanlardan bir farkım kalmaz. bu yüzden eleştiriyorum, eleştirmeliyim, chp dostlarım, kardeşlerim, abilerim; eleştirmelisiniz...<br/><br/>kk tam bir beyefendi olabilir. kk modern, ileri görüşlü, çağdaş, ilkeli, atatürkçü bir lider olabilir. ki öyle benim nazarımda. lakin görüldüğü üzere iktidara gelmek için yetmiyor bunlar..."adam çok haklı" olabilir de sonuçlar tatmin edici değil. bizim bakkal mehmet abi var mesela. oturup dinleseniz ağzınız açık kalır. kk gibi bir adam. nazik, akıllı... "bu çok saçma, çok hukuksuz, nasıl olabilir" gibi laflar kullanır sürekli. "helal olsun, ağzına sağlık mehmet abi" dersiniz mütemadiyen. lakin mehmet abi bir lider değil...<br/><br/>birkaç çomar "ateşli değil, hitabeti zayıf vs vs" dedi diye çomarla hemfikir olmamak adına aksini savunamıyorum ben. bir yere varamıyoruz. "başka bir lider ile daha iyi sonuç alınamaz...." fikrinden acilen vazgeçilmelidir. partinin başına geldiğinden beri elle tutulur bir başarıya imza atamamış bir liderle devam etmektense deneyip yanılmak daha iyidir. chp seçmeni atatürk'ü izler, parti liderini değil. yerine gelecek kişi chp oylarını istese de düşüremez merak etmeyin.<br/><br/>"olsun, kk adam gibi adam...." dedi geçen gün bir arkadaşım. iyi de, maksadımız iktidara gelmek değil mi? "memleket boka batmaya devam etsin, olsun, kk kendini bozmasın" diyerek nereye varacağız?<br/><br/>kazanamadığımız insanlar hangi dilden, hangi üsluptan anlıyorsa, ne lazımsa yapabilen bir lider lazım bize. çomar dediğiniz insanları da kazanabilecek bir lider lazım. <br/><br/>"biz %25'iz, biz bize yeteriz, kk iyidir, beğenmeyen çomardır" söylemi bizi hiçbir yere ulaştırmayacak. <br/><br/>derdiniz spor olsun diye siyaset yapmak, takım tutar gibi parti fanatizmi yapmaksa o ayrı....<br/><br/>dededen chp'li bir adam olarak konuşuyorum. şehrimde gece yarılarına kadar chp bayrağı asıp, deniz baykal ile aynı sofrada bulunmuş bir chpli olarak...kk bizi daha iyi yarınlara taşımayacak. bunu anlamak için kaç dönem daha lazım size, bilmiyorum.
 - entry_name: |
     uçak inince alkışlamak
   entry_id:  68858183
@@ -325,6 +325,13 @@ data:
   entry_content: |
     anlam veremediğim hede.<br/><br/>pilot var inişi yapıp uçağı asfalta pat diye geçirip iniş yapan, pilot var asfaltı yalar gibi iniş yapan.<br/><br/>işte o asfaltı yalayanları alkışlayasım gelmiyor mu geliyor... ama yapmam yapamam yaparsam şerefsizim.
 - entry_name: |
+    h'ye haş diyen insan
+  entry_id:  68863404
+  entry_writer: earendill
+  entry_fav_count: 2
+  entry_content: |
+    "aş", "h" harfinin fransızca okunuşu. eski adamlar, osmanlı döneminde ingilizce değil fransızca bilirdi. öyle konuşmak moda olduğu için "h" yerine "aş" demek cool'muş. şimdi "h" görünce "eyç" demekten bir farkı yok. onlara ben çok bişey demiyorum.<br/><br/>ama aş yerine "haş" diyen arızalar var, eyç yerine "heyç" diyenler de var. onlar insanı sinirlendiriyor gerçekten.
+- entry_name: |
     tutuklu hdp'li vekiller için de yürüyoruz
   entry_id:  68861300
   entry_writer: hasihasi
@@ -332,12 +339,12 @@ data:
   entry_content: |
     "çünkü onların tutuklanmasına yol açan anayasaya aykırı yasa değişikliğine onay verdik ve sonra da bir seneyi aşkın bir süredir tutuklu olduklarının farkına varamadık." şeklinde devam etmiyor açıklama. neden, çünkü saçma olur böyle devam etmesi, anlam bütünlüğüne aykırı olur.<br/><br/>demek ki, bunu iddia etmek anlam bütünlüğüne aykırı.
 - entry_name: |
-    kişide kaçma arzusu uyandıran muhabbetler
-  entry_id:  68862359
-  entry_writer: kayunun orospu sevgilisi
+    aykut kocaman
+  entry_id:  68855486
+  entry_writer: asosyal sorumsuz
   entry_fav_count: 1
   entry_content: |
-    -ben cok x imdir.(banane ya, cok sikimeymis gibi yapmak istemiyorum)<br/>-ben y yemeden yasayamam/uyanamam. (banane lan senin yasamandan, sen yasama zaten neden yasiyosun)<br/>-bunu birde z de yiyeceksin.(bunu z ye gittigimi soyle beyaz yakali)<br/>-x in goguslerine bak.. off bu hatun muhtesem. (muhtesem ise git bunu ona soyle ve evlen)<br/>-ne zaman evleniyon (seni bir siksem, evlenmis bosanmis kadar olucam. sanane lan at kafasi)<br/>-arabayi kaca aldin, hangi mahallede oturuyosun, ayda ne kadar kazaniyorsun.. benim statum senin statunu siker mi acabaya getirecek konuyu surtuk.
+    şu katıldığı iftar yemeği ile fazlaca hassas davranılıyor. ne reisçiliğini birakmışsınız ne de adamlığını. ben aykut'u oldum olası sevmem. alex'ten sonra defterden sildim birçok fenerbahçeli gibi. yeni sezona dair herhangi bir ümidim de yok aykut geldiği için.<br/><br/>lakin o bahsi geçen iftar yemeğine spor dünyasından şampiyon olmuş takımlardan oyuncular ve teknik adamlar katıldı.<br/><br/>aykut kocaman da kupa şampiyonluğu sebebiyle davete icabet etti. ne var burada? o yemekte ufuk sarıca da vardı. melih mahmutoğlu da. ulan bobby dixon vardı o da mı reisçi?<br/>yapmayın ya hu. memleketin en büyük sıkıntısı zaten kutuplaşma. her konuda konuşmadan evvel sen şucusun sen bucusun demekten sıkılmadınız mı?
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  68861881
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     işte böyle başlıyor herşey,dertleşilmesi gereken yerde sevişmeye çalışmak,karşı cinsle iletişim kurabildiğin her yerde bunu denemek,karşındaki insanın seni gerçekten dinleyip dinlemediği ya da gerçekten umrunda olup olmadığı(!?)..neyin nerede nasıl yapılacağı ile ilgili fikri olmayan kalitesiz milyonlarca insanın yazar olmuş halleri de burada bulunuyor..
-- entry_name: |
-    arda'nın çok sayıda hurma ile umreden geri dönmesi
-  entry_id:  68863017
-  entry_writer: ravinrabbid
-  entry_fav_count: 0
-  entry_content: |
-    yediği hurmalar artık tırmalamaya başlayınca başkalarına da hurma getirmek istemiş sanırım.
 ---
