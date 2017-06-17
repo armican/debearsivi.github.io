@@ -6,7 +6,7 @@ data:
     oğlu lys'ye alınmayan babanın bedduası
   entry_id:  68894596
   entry_writer: darwininkayiptorunu
-  entry_fav_count: 919
+  entry_fav_count: 927
   entry_content: |
     bir gün önce okuluna bakmaya gelmemiş ve babasını boşu boşuna üzmüş akılsız bir evlat içeren haber.<br/>18 yaşına gelmişsin ama sorumluluk nedir öğrenememişsin.<br/>bu heriflerin eline telefon ve internet ver alemin en akıllısı geçinirler.<br/>1 sene boyunca gönder işte çalışsın, hayatın zorluklarını görsün bir daha hiç bir yere geç kalmaz, okuma azmi gelişir.
 - entry_name: |
@@ -20,51 +20,65 @@ data:
     türkiye a milli futbol takımı'na lakap önerileri
   entry_id:  68896318
   entry_writer: ostrava
-  entry_fav_count: 331
+  entry_fav_count: 335
   entry_content: |
     (bkz: <a class="b" href="/?q=milyonluk+e%c5%9fekler">milyonluk eşekler</a>)
 - entry_name: |
     ramazanda mini etekliye yumruklu saldırı
   entry_id:  68896353
   entry_writer: ostrava
-  entry_fav_count: 268
+  entry_fav_count: 271
   entry_content: |
     ramazan bitse de otuzbirlerine devam edip rahatlasa şu pezevenkler.<br/><br/>edit: amerikadan gelen bilgiye göre 31 çekmek yerine birbirini sikmeyi tercih ediyorlarmış.
 - entry_name: |
     yargı yarın sizi de davet ederse şaşmayın
   entry_id:  68897894
   entry_writer: coma mierda
-  entry_fav_count: 253
+  entry_fav_count: 265
   entry_content: |
     tek adam rejimi tam olarak budur, yargı adına da konuşur.<br/>açık bir tehdittir.
 - entry_name: |
-    ozan tufan
-  entry_id:  68888397
-  entry_writer: whiskey weed and warren zevon
-  entry_fav_count: 236
+    meral akşener'in erotik yıldıza benzetilmesi
+  entry_id:  68895011
+  entry_writer: darknight
+  entry_fav_count: 253
   entry_content: |
-    benfica'ya yuklu bir bonservisle hakikaten transfer olursa demek ki bu yasadigimiz evren, ahmet bulut'un surekli <a class="b" href="/?q=add+manager">add manager</a> yapabildigi bir fm oyunu.
+    emmanuelle cocugu tarafindan ileri surulmustur.
 - entry_name: |
     kavurmacı'ya tutuklamayı doğru bulmuyorum
   entry_id:  68893385
   entry_writer: strangelet
-  entry_fav_count: 212
+  entry_fav_count: 215
   entry_content: |
     <a class="b" href="/?q=kemal+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu">kemal kılıçdaroğlu</a>'nun yürürken konuşmasını doğru bulmuyorum.
 - entry_name: |
     pi sayısının 3 bin 141 basamağını ezberleyen çocuk
   entry_id:  68895492
   entry_writer: sonnenuntergang
-  entry_fav_count: 172
+  entry_fav_count: 174
   entry_content: |
     öğrencinin biri: hocam pi'yi üç alalım mı?<br/>hoca: alabilirsiniz evladım<br/>bizim çocuk: hocam yaaaaaaaa :(((
 - entry_name: |
     messi'nin yemek için 37.000 euro hesap ödemesi
   entry_id:  68900689
   entry_writer: pikaia
-  entry_fav_count: 168
+  entry_fav_count: 173
   entry_content: |
     adamın aylık geliri (sadece kulüpten) 4 milyon euro, maaşları orantılarsak bizim tavuk döner+ayran yememiz gibi bir durumdur.<br/><br/>pinti herif.
+- entry_name: |
+    kazakistan'ın türbanı yasaklaması
+  entry_id:  68902013
+  entry_writer: xixcq
+  entry_fav_count: 140
+  entry_content: |
+    kazakistan'da yetkililer, kadınların kamu alanlarında başörtüsü ve çarşaf giymesini yasaklayacak bir yasa tasarısı üzerinde çalışıyor.<br/><br/>kazakistan din işleri bakanlığı yetkilileri sputnik kazakistan'a demeçlerinde, kamu alanlarında başörtüsü ve çarşaf giyilmesinin yasaklanmasını, reşit olmayanların dini faaliyetlere çekilmesinin önlenmesini ve ateistlerin haklarının korunmasını içeren bir yasa taslağı üzerinde çalışmaya devam ettiklerini söyledi.<br/>din işleri bakanı nurlan ermekbayev ise söz konusu yasanın ülkenin geleceğinin güvenliği için gerekli olduğunu savundu. ermekbayev'e göre, bu yasa ‘insanların radikal dini hareketlerden uzak durmasına yardımcı olacak.'<br/><br/>daha önce kazakistan devlet başkanı nursultan nazarbayev'in, kadınların yas dönemleri dışında siyah giysiler giymesini yasaklamayı planladığı öğrenilmişti. bu plan, nazarbayev'in ‘araplara özgü siyah giysiler giymenin kazak geleneklerine uymadığı' yönündeki düşüncesiyle açıklanmıştı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/yasam/201706171028932653-kazakistan-basortusu-carsaf-yasak/" title="https://tr.sputniknews.com/yasam/201706171028932653-kazakistan-basortusu-carsaf-yasak/">link.</a>
+- entry_name: |
+    17 haziran 2017 bim'den kondom alan kız
+  entry_id:  68902517
+  entry_writer: posta kodum da ayni yavrum
+  entry_fav_count: 133
+  entry_content: |
+    bazılarının annesinin yıllar önce yapması gereken şeyi yapan kızdır.
 - entry_name: |
     ankara'da yerlerdeki eskort kartları
   entry_id:  68888444
@@ -73,54 +87,68 @@ data:
   entry_content: |
     selena gomez ile güldürmüş kartlar. <br/><br/>ankara'da ne var, turist mi gelir diyenler için (bkz: <a class="b" href="/?q=an%c4%b1tkabir">anıtkabir</a>). <br/>sizin için hiç üşenmeden gittim baktım internetten, <br/>2017 mayıs ayı yerli ziyaretçi sayısı 649.729 yabancı ziyaretçi sayısı 15.770 yani toplam 665.499 olduğu yazıyor. <br/><br/>tavsiyem arada bir siz de gidin belki bir şeyler hissedersiniz.
 - entry_name: |
-    kazakistan'ın türbanı yasaklaması
-  entry_id:  68902013
-  entry_writer: xixcq
-  entry_fav_count: 125
+    kemal kılıçdaroğlu'nun tutuklanması
+  entry_id:  68897870
+  entry_writer: xspace
+  entry_fav_count: 111
   entry_content: |
-    kazakistan'da yetkililer, kadınların kamu alanlarında başörtüsü ve çarşaf giymesini yasaklayacak bir yasa tasarısı üzerinde çalışıyor.<br/><br/>kazakistan din işleri bakanlığı yetkilileri sputnik kazakistan'a demeçlerinde, kamu alanlarında başörtüsü ve çarşaf giyilmesinin yasaklanmasını, reşit olmayanların dini faaliyetlere çekilmesinin önlenmesini ve ateistlerin haklarının korunmasını içeren bir yasa taslağı üzerinde çalışmaya devam ettiklerini söyledi.<br/>din işleri bakanı nurlan ermekbayev ise söz konusu yasanın ülkenin geleceğinin güvenliği için gerekli olduğunu savundu. ermekbayev'e göre, bu yasa ‘insanların radikal dini hareketlerden uzak durmasına yardımcı olacak.'<br/><br/>daha önce kazakistan devlet başkanı nursultan nazarbayev'in, kadınların yas dönemleri dışında siyah giysiler giymesini yasaklamayı planladığı öğrenilmişti. bu plan, nazarbayev'in ‘araplara özgü siyah giysiler giymenin kazak geleneklerine uymadığı' yönündeki düşüncesiyle açıklanmıştı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/yasam/201706171028932653-kazakistan-basortusu-carsaf-yasak/" title="https://tr.sputniknews.com/yasam/201706171028932653-kazakistan-basortusu-carsaf-yasak/">link.</a>
-- entry_name: |
-    17 haziran 2017 bim'den kondom alan kız
-  entry_id:  68902517
-  entry_writer: posta kodum da ayni yavrum
-  entry_fav_count: 125
-  entry_content: |
-    bazılarının annesinin yıllar önce yapması gereken şeyi yapan kızdır.
+    yargıya verilen emirdir.
 - entry_name: |
     mezuniyetine gitmeyen öğrenci
   entry_id:  68899922
   entry_writer: fucknfall
-  entry_fav_count: 88
+  entry_fav_count: 100
   entry_content: |
     belki yalnızdır. çok yalnızdır. mezuniyette herkesin ailesini, sevgilisini, yakın arkadaşlarını gördükçe kendi yalnızlığını, mezun olduğunda bile sarılacak güvenecek kimsesi olmadığını daha net hatırlayıp kendini göz göre göre daha fazla üzmemek için kaçınmıştır.
+- entry_name: |
+    baba ile araba kullanmak
+  entry_id:  68890638
+  entry_writer: le realisateur
+  entry_fav_count: 97
+  entry_content: |
+    geçtiğimiz günlerde deneyimlediğim eylem.<br/><br/>aynı saniye içinde hem "yürü" hem "yavaş" deyip ikisinden birini yapmadınız diye size kızma yeteneğine sahiptirler. bir yandan çığlık atan annenizi de iki laf söyleyip sustururlar.<br/><br/>yoğun bir maraton akşamı babam sessiz kaldığı vakit bana "bir şey demeyince daha iyi kullanıyorsun" diye itiraf etti. havalimanında ben indikten sonra camdan el sallarken de arabayı vurdu.
+- entry_name: |
+    thy 2017 babalar günü filmi
+  entry_id:  68890737
+  entry_writer: ketcapli dondurma
+  entry_fav_count: 83
+  entry_content: |
+    oğlum babam öldü ulan yapmayın böyle şeyler.
 - entry_name: |
     şort giyen erkeğin asıl amacı
   entry_id:  68893373
   entry_writer: everythingsfine
-  entry_fav_count: 74
+  entry_fav_count: 77
   entry_content: |
     kadınları zinaya teşvik eden erkektir artık annesi babası nasıl yetiştirmişse iffetsiz herifi :d
-- entry_name: |
-    celal şengör
-  entry_id:  68900123
-  entry_writer: call me collect
-  entry_fav_count: 61
-  entry_content: |
-    -her zırvalayan adama ''aman efendim zatıaliniz zırvalıyor, gelin bunu tartışalım'' diyecek halim yok<br/><br/>hahahahahahahahahaha
-- entry_name: |
-    dağ 2'de hiç dini simge olmaması
-  entry_id:  68902083
-  entry_writer: karakeman
-  entry_fav_count: 60
-  entry_content: |
-    laik devleti <a class="b" href="/?q=laik">laik</a> ordu korur. aksi durumda 15 temmuz gecesi gibi birbirinize darbe yapmaya çalışırsınız.
 - entry_name: |
     17 haziran 2017 manisa asker zehirlenmesi
   entry_id:  68903411
   entry_writer: huorfefalas
-  entry_fav_count: 60
+  entry_fav_count: 77
   entry_content: |
     yemekle uzaktan yakından ilgisi olan amirinden memuruna, bakanından şoförüne, çavuşundan komutanına kadar yan yana dizilip bir bir sikilmesi gereken olaydır.
+- entry_name: |
+    17 haziran 2017 izmir depremi
+  entry_id:  68891688
+  entry_writer: ismaill
+  entry_fav_count: 73
+  entry_content: |
+    alıştık artık resmen uyanıp eşimle şiddeti konusunda tahminlerimizi yapıp tekrar yatıyoruz.en yakın tahmini yapan kazanıyor.kaybeden kahvaltıyı hazırlıyor.
+- entry_name: |
+    celal şengör
+  entry_id:  68900123
+  entry_writer: call me collect
+  entry_fav_count: 62
+  entry_content: |
+    -her zırvalayan adama ''aman efendim zatıaliniz zırvalıyor, gelin bunu tartışalım'' diyecek halim yok<br/><br/>hahahahahahahahahaha
+- entry_name: |
+    kadıköy otobüsünde taciz
+  entry_id:  68893272
+  entry_writer: amigdalasiz adam
+  entry_fav_count: 59
+  entry_content: |
+    bize böyle videolarla gelin. itin götüne sokalım. torunu ve çevresinde ufak kızlar var ise acilen uzaklaştırılması hatta bu kızlarla psikolog eşliğinde görüşülmesi gerekiyor. gündüz gözü ortalıkta bunu yapan adam gizli kapaklı neler yapmış olabilir.<br/><br/>tanım: çaresiz, bitap ama kızgın bir ses tonuyla dedesi yaşındaki "biri" tarafında taciz edilen kızın haykırışını içeren başlık. <br/><br/>-(bkz: <a class="b" href="/?q=nab%c4%b1yosunuz+amca">nabıyosunuz amca</a>)?<br/>+şııııııııhhhh<br/><br/>bence bu söz, bunlarla mücadele kullanılabilecek bir slogandır.
 - entry_name: |
     aileye ateist olduğunu itiraf etmek
   entry_id:  68895146
@@ -129,26 +157,26 @@ data:
   entry_content: |
     gözlemlerin şu yönde, aile veya çevre ateistlere(herhangi bir dinin gereklerini yapmayanlara) düşman değiller. fakat ateist olduğunu dile getirenlere karşı daha gergin bir durum oluşuyor. <br/><br/>aynı rakı masasında rakı içerken bile söyleyince bakışları değişen insanlar gördüm. adamla tamamen aynı hayat standartlarında yaşıyoruz. aynı derecede harama maruz kalıyor olup aynı derece de günahkarız (görünürde tabi ki). onun inandığı dinin gereklerini yapmaması kabul edilebilir fakat benim gereklerini yapmadığım dine inanmamam kabul edilemez. anlamakta zorlanıyorum nedenini.
 - entry_name: |
-    kadıköy otobüsünde taciz
-  entry_id:  68893272
-  entry_writer: amigdalasiz adam
-  entry_fav_count: 58
+    yüz sene önce dünyanın bir numaralı ülkesiydik
+  entry_id:  68903053
+  entry_writer: orange blossom
+  entry_fav_count: 56
   entry_content: |
-    bize böyle videolarla gelin. itin götüne sokalım. torunu ve çevresinde ufak kızlar var ise acilen uzaklaştırılması hatta bu kızlarla psikolog eşliğinde görüşülmesi gerekiyor. gündüz gözü ortalıkta bunu yapan adam gizli kapaklı neler yapmış olabilir.<br/><br/>tanım: çaresiz, bitap ama kızgın bir ses tonuyla dedesi yaşındaki "biri" tarafında taciz edilen kızın haykırışını içeren başlık. <br/><br/>-(bkz: <a class="b" href="/?q=nab%c4%b1yosunuz+amca">nabıyosunuz amca</a>)?<br/>+şııııııııhhhh<br/><br/>bence bu söz, bunlarla mücadele kullanılabilecek bir slogandır.
+    2017 - 100 = 1917<br/>beyefendinin özlem duyduğu döneme bakın...
+- entry_name: |
+    tem'i e5'i kullanmanıza izin veremeyiz
+  entry_id:  68903944
+  entry_writer: senin pezevenk enisten
+  entry_fav_count: 56
+  entry_content: |
+    hollanda'ya propaganda amaçlı girmenize izin veremeyiz diyenler için söylenmedik laf bırakmayanların, ağızlarına pek de yakışan laf.<br/><br/>ikiyüzlülük nedir dersi var her gün ülkede.
 - entry_name: |
     japonya'da su giderinde yüzen balıklar
   entry_id:  68900401
   entry_writer: xixcq
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     adamlar ciddi ciddi , mahalle arasında balık besliyor lan. <br/><br/>o nasıl temiz bir caddedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://kengarex.com/wp-content/uploads/2017/05/1-113.jpg" title="http://kengarex.com/wp-content/uploads/2017/05/1-113.jpg">link1</a><a rel="nofollow noopener" class="url" target="_blank" href="http://kengarex.com/wp-content/uploads/2017/05/2-100.jpg" title="http://kengarex.com/wp-content/uploads/2017/05/2-100.jpg">link2</a><a rel="nofollow noopener" class="url" target="_blank" href="http://kengarex.com/wp-content/uploads/2017/05/3-99.jpg" title="http://kengarex.com/wp-content/uploads/2017/05/3-99.jpg">way emenike.</a><a rel="nofollow noopener" class="url" target="_blank" href="http://kengarex.com/wp-content/uploads/2017/05/5-94.jpg" title="http://kengarex.com/wp-content/uploads/2017/05/5-94.jpg">japonlar garip memleket vesselam</a>
-- entry_name: |
-    17 haziran 2017 izmir depremi
-  entry_id:  68891688
-  entry_writer: ismaill
-  entry_fav_count: 54
-  entry_content: |
-    alıştık artık resmen uyanıp eşimle şiddeti konusunda tahminlerimizi yapıp tekrar yatıyoruz.en yakın tahmini yapan kazanıyor.kaybeden kahvaltıyı hazırlıyor.
 - entry_name: |
     fi
   entry_id:  68887901
@@ -160,16 +188,9 @@ data:
     kılıçdaroğlu'nun rte'den daha mutlu görünmesi
   entry_id:  68900418
   entry_writer: muhlisbey
-  entry_fav_count: 36
+  entry_fav_count: 38
   entry_content: |
     ruh durumlarinin yüzlere yansimasidir.<br/>biri, hiçbir zaman mutlu olmayacaktir.
-- entry_name: |
-    yüz sene önce dünyanın bir numaralı ülkesiydik
-  entry_id:  68903053
-  entry_writer: orange blossom
-  entry_fav_count: 34
-  entry_content: |
-    2017 - 100 = 1917<br/>beyefendinin özlem duyduğu döneme bakın...
 - entry_name: |
     jandarma bandosu'ndan 15 temmuz marşı
   entry_id:  68899768
@@ -188,49 +209,63 @@ data:
     17 haziran 2017 celal şengör evrim ağacı yayını
   entry_id:  68893714
   entry_writer: oixor
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     türkiye'de maalesef bir insan siyasi görüşlerine göre yaptığı diğer işlerde takdir ediliyor ya da edilmiyor. eğer siyasi görüşleri bize uymuyorsa her konuda gömmekten geri kalmıyoruz. evet, bana göre de çarpık görüşlere sahip faşist kafada bir bilim insanıdır celal şengör. ama bu akşam bilim üzerine olan yayınını pür dikkat ile dinleyip eğer kendine bir şey katabiliyorsam bundan sevinç duyacağım.<br/><br/>celal şengör faşist diye çalışmalarını hiçe saymak aşırı dindar birinin tıbbi ilaçları gayri müslimler üretiyor diye reddetmesi kadar bağnaz görüyorum.. nasıl ki sanata hayran olmak onu ortaya koyan sanatçıya da hayran olmak anlamına gelmek zorunda değilse, celal şengör'ün çalışmalarından faydalanmak ve minnet duymak da onun siyasi görüşünü baştacı etmek anlamına gelmiyor.<br/><br/>ve unutmayın, insanları siyasi görüşlerine göre her alanda kategorize etmek de faşizan bir davranıştır. tebrikler, siz de eleştirdiğiniz kadar faşistsiniz.
-- entry_name: |
-    tem'i e5'i kullanmanıza izin veremeyiz
-  entry_id:  68903912
-  entry_writer: garipbasci
-  entry_fav_count: 19
-  entry_content: |
-    çakma kalkışma için köprü kullanan birinin sözü.
 - entry_name: |
     aleyna tilki vs megan fox
   entry_id:  68895483
   entry_writer: vermicem vermicem
-  entry_fav_count: 18
+  entry_fav_count: 22
   entry_content: |
     (bkz: <a class="b" href="/?q=atilla+ta%c5%9f+vs+sharon+stone">atilla taş vs sharon stone</a>)
+- entry_name: |
+    lys 2017
+  entry_id:  68899590
+  entry_writer: yenikale birlik
+  entry_fav_count: 19
+  entry_content: |
+    ekşi sözlük yazarlığım olmadan önce 500 binlerde giderken ekşi sözlük yazarlığım onaylandığı gibi netlerim havada uçuştu ve ilk 5 bine kadar girmeye başladım. <br/><br/>bizi misafir olarak okuyanlar size tavsiyem çalışmayı filan boş verin ekşi sözlük yazarlığı almaya çalışın. ilk 10 bin garanti.
+- entry_name: |
+    hoşlanılan kızın donanımhaber ölücüsü çıkması
+  entry_id:  68902371
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 18
+  entry_content: |
+    ben evlenme programına katılayım, sen de bana talip ol düğünü bedavaya getiririz diyen kızdır.
+- entry_name: |
+    survivor 2017
+  entry_id:  68894261
+  entry_writer: ferah
+  entry_fav_count: 16
+  entry_content: |
+    dün adem sadece berna pınardan hızlıydı dedi diye pınarın twitterda yazdıklarına inanamazsınız, ben böyle terbiyesiz bir insan görmedim. en son adalet sarayının önünde fotoğraf paylaşmıştı, kendine hakaret eden üç beş şanslıyı! şikayet etmişmiş ama kendi sivri zekasını kullanıp isim vermeden ortaya sallamış, ademe şizofren millete çomar demiş. volkan bile panoramada benim hakkımda niye bunları yazdın dedi kadına, sen izleyici değil eski yarışmacısın, insanın biraz dilinin kemiği olur. ayrıca kendisi defalarca bernanın arkasında kalmıştır, survivora katılan en yavaş atlettir, serhatla ilhan onu hep yavaş olmakla suçlamıştır
 - entry_name: |
     ktü diş hekimliği fakültesi rezaleti
   entry_id:  68896486
   entry_writer: haybeciii
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
-    az önce bir arkadaşımın mesaj atarak bilgi verdiği rezalet. bu da <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/search?q=ktüdişteihmalvar&amp;src=typd" title="https://twitter.com/search?q=ktüdişteihmalvar&amp;src=typd">twitter</a> etiketi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haber61.net/trabzon/ktude-bir-ogrenci-kimyevi-madde-ile-yandi-h296190.html" title="https://www.haber61.net/trabzon/ktude-bir-ogrenci-kimyevi-madde-ile-yandi-h296190.html">haber linki</a><br/><br/>arkadaşımın verdiği bilgiye göre, sınav esnasında hocaya söylemişler "hocam gaz kokuyor." diye, hocanın cevabı "o kadar kokmuyor siz devam edin." olmuş. <br/><br/>saat 1 gibi bir öğrencinin yüzünde patlıyor. öğrenciyi hastaneye kaldırıyorlar. bu esnada sınavın devam etmesi gerektiğini söylüyor hocalar. gaz kaçağından başı dönen insanlar olmasına rağmen hocaların da ihmali olduğunu söylüyorlar. <br/><br/>hocaların inatla sınavı devam ettirmesi de başka bir rezalet. yangın tüpü çalışmıyormuş. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ton.twitter.com/i/ton/data/dm/876038576785510404/876038565058269185/nqE4noQd.jpg" title="https://ton.twitter.com/i/ton/data/dm/876038576785510404/876038565058269185/nqE4noQd.jpg">görsel 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ton.twitter.com/i/ton/data/dm/876038539347193859/876038527800287240/dSkRzAaK.jpg" title="https://ton.twitter.com/i/ton/data/dm/876038539347193859/876038527800287240/dSkRzAaK.jpg">görsel 2</a>
+    az önce bir arkadaşımın mesaj atarak bilgi verdiği rezalet. bu da <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/search?q=ktüdişteihmalvar&amp;src=typd" title="https://twitter.com/search?q=ktüdişteihmalvar&amp;src=typd">twitter</a> etiketi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haber61.net/trabzon/ktude-bir-ogrenci-kimyevi-madde-ile-yandi-h296190.html" title="https://www.haber61.net/trabzon/ktude-bir-ogrenci-kimyevi-madde-ile-yandi-h296190.html">haber linki</a><br/><br/>arkadaşımın verdiği bilgiye göre, sınav esnasında hocaya söylemişler "hocam gaz kokuyor." diye, hocanın cevabı "o kadar kokmuyor siz devam edin." olmuş. <br/><br/>saat 1 gibi bir öğrencinin yüzünde patlıyor. öğrenciyi hastaneye kaldırıyorlar. bu esnada sınavın devam etmesi gerektiğini söylüyor hocalar. gaz kaçağından başı dönen insanlar olmasına rağmen hocaların da ihmali olduğunu söylüyorlar. <br/><br/>hocaların inatla sınavı devam ettirmesi de başka bir rezalet. yangın tüpü çalışmıyormuş. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ton.twitter.com/i/ton/data/dm/876038576785510404/876038565058269185/nqE4noQd.jpg" title="https://ton.twitter.com/i/ton/data/dm/876038576785510404/876038565058269185/nqE4noQd.jpg">görsel 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ton.twitter.com/i/ton/data/dm/876038539347193859/876038527800287240/dSkRzAaK.jpg" title="https://ton.twitter.com/i/ton/data/dm/876038539347193859/876038527800287240/dSkRzAaK.jpg">görsel 2</a><br/><br/>not: bu tarz ihmallerden saçı başı yanan çok arkadaşım oldu. ben ktü'de okumadım, diş hekimliğinin kalburüstü denilecek fakültelerinden birinde okudum. bu ve buna benzer çok olayla karşılaştım. en ufak abartı olduğunu düşünmüyorum. hatta olayın detaylarına inecek olursak daha ne hikayeler çıkar bilmiyorum. <br/><br/>türkiye'de diş hekimliği öğrencisi olmak gerçekten çok zor. mesela bir adam, daha ilk dersinden sınıfın mevcudu çok, klinikler yetersiz bu yüzden bu sınıfın yarısı kalacak diyebiliyor. bu adam akademisyen olmuş işte. sonra final sınavı sabahı, öğrenciler son tekrarını yaparken fakülte önünde, boşuna çalıştınız yarınızı büt'e bırakacağım diyebiliyor. sınavı rekor sürede açıklıyor. abartmıyorum, 30 dakika sonra sınavları açıklıyor ve sonuç sınıfın yüzde 75'i büt'e kalıyor. büt sabahı yine aynı mevzu, sınıfın yarısı kalıyor diyor. sınavı 5 gün sonra açıklıyor, sınıfın yarısı sınıfta kalıyor. diş hekimliği fakültelerinin çoğunda tek dersten kaldığınızda sınıfta kalıyorsunuz. böyle bir durumda tek bir adam yüzünden bir seneniz boşa gidiyor. sınava itiraz ediliyor 4 kişi daha geçiyor. durum bu. diş hekimliği fakültelerinin sorunu tam olarak bu. <br/><br/>mesela tıp hocaları problemi var fakültelerde. tıp fakültesinden derse gelen bütün hocalar, bir şekilde siz diş hekimliği öğrencisiniz deyip konuyu kestirip atıyor, haklı olanlar var, adamların dersine çok az öğrenci katılıyor. idealist olan diş hekimliği öğrencilerinin hakkına girdiklerinin farkında bile değiller. çünkü o iş onlara angarya. <br/><br/>4. ve 5. sınıfta stajlar başlıyor. hasta bakmaya başlıyorsun. 4. sınıfta affedersiniz ama fakültenin temizlikçisinden bile azar işitebiliyorsunuz. hemde hiçbir neden yokken. hadi yerleri kirli bıraktın diyelim o zaman haklı olabilir. mobbing çok fazla oluyor. hepimiz bu yollardan geçtik biliyoruz ama bu sistemin değişmesi gerekiyor. <br/><br/>yazılanları görünce üzüldüm. herkes kalburüstü fakülteden mezun olmak zorunda değil, herkes çok çok çok iyi eğitim almıyor olabilir. keza ben de almadım. bu, bu olayı haklı çıkarmaz ki. öğrenciye ihmalden dolayı zarar geliyor ama hiçbir düzeltme yok. çünkü daha önce mezun olanların herhangi bir yaptırımı yok. aksine fakülteyi geçemezsiniz bu yüzden bunu gündeme getirmeyin deniyor. çok komik. biz sorunları çözecekken, sorunları halının altına süpürüyoruz, dışarıdan bakınca her şey çok nizami ama içine girince pislik. ne yazık ki böyle.
 - entry_name: |
     aziz sancar'ın evrim yorumu
   entry_id:  68887293
   entry_writer: smokinle kopruden atlayan adam
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>konuya yazan herkes aziz sancar'i dinlemeden yorum yapmis. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a>---<br/><br/>adam aynen sunu diyor:<br/>"ben allah'a inaniyorum, evrim olmus olmamis fark etmez; isteyen inanir."<br/><br/>evrim var ya da yok demiyor. evrimle inancin bir arada olabilecegini senelerdir soyluyoruz. kendisi de bu minvalde konusmus.<br/><br/>once dinleyin. <br/><br/>cok acik "bazilarinin beyni yetmez, anlatmakla ugrasacaginiza is yapin, onlar da curutmekle ugrasmasin, is yapin." demis.<br/><br/>tabii bu entry en basta gozukmedigi icin kimse gormeyecek ve herkes aziz sancar "evrim yok" dedi zannedecek. <br/><br/>aq sozlugu.
 - entry_name: |
-    30 yaşından sonra aşk acısı çeken kadın
-  entry_id:  68889256
-  entry_writer: noiseoz
-  entry_fav_count: 12
+    makine mühendisi erkeklerin iyi sevişmesi
+  entry_id:  68897168
+  entry_writer: muozi
+  entry_fav_count: 13
   entry_content: |
-    30 yaşından sonra milleti öldürün de bi rahatlayın artık kardeş. kafamızı siktiniz
+    (bkz: <a class="b" href="/?q=rulman">rulman</a>)
 - entry_name: |
     müdür yardımcısının pibba bacca paylaşımı
   entry_id:  68903072
   entry_writer: yuksek muhendisim ben
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     çare istiklal mahkemeleri.<br/><br/>tek hücreliler eğitilir; bu et yığınları eğitilemez..
 - entry_name: |
@@ -248,27 +283,6 @@ data:
   entry_content: |
     hayatta malesef bazı durumlarda imaj çok önemli olabiliyor. hasan ali'ye kadar takımda faydasız o kadar futbolcu var ki. ama adamın adı hasan ali. imajı zayıf. adı burak emre yiğit falan olsa eminim bu kadar tepki toplamazdı. ulan bu takımdan ali bilginler, orhan şamlar, zafer biryollar geçti takıma 5 kuruşluk katkı vermediler. bu kadar tepki görmediler. <br/><br/>aynı kaderi paylaşan bir diğer oyuncumuz da emektar selçuk'tu. yıllarca belirli bir istikrarda oynadı. adam gibi adamdı. ama onun da malesef imajı zayıftı. <br/><br/>hasan ali bu takımın en kötüsü değildir beyler. tamam bir caner değil ama milli takımın caner'den sonraki tercihidir. demek ki ülkenin en iyi 2.sol bekidir. <br/><br/>ulan rvp sırf adı var diye tepki toplamıyor ya ona yanıyorum. adı hüsnü, memleketi kırşehir olsa anasına söverdiniz.
 - entry_name: |
-    araç kullanırken gelen uykuyu kaçırma yöntemleri
-  entry_id:  68887510
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 10
-  entry_content: |
-    kaza yapmak degildir.<br/>yamulmuyorsam sene 2010.. yorgunum ve direksiyon basindayim. uykum oyle bi gelmis ki.. taniyorum bu gelen benim uykum. en son boyle uykum geldiginde 3 yada 5 yasindaydim.<br/>gelisinden tanidim bu benim uykum.<br/><br/>buna ragmen surmeye devam ettim. uyumamak icin herseyi yaptım diyebilirim ama refuje girmem cok zaman almadi.<br/>3 takla attim. sag kulak zarim yirtildi. buyuk hasar almamamin sebebi emniyet kemeriydi.<br/><br/>diyecegim su; uykun varsa arac kullanma.<br/>gidecegin yere 10 saat gec git ama kullanma. en kotu ihtimalle arabada yat, uyu. at bagaja bi pike. <br/>kasma..
-- entry_name: |
-    e-5'te motosikletliye kasten çarpan taksi şoförü
-  entry_id:  68887460
-  entry_writer: le fougueux
-  entry_fav_count: 9
-  entry_content: |
-    o aynalar süs olsun diye araçlarda bulunmuyor, boşuna ayna kopuk ya da kapalı halde araba kullanmak cezaya tabi değil. sözlüğün yarısı bunu atlayan mallar, gördüğümüz iyi oldu.<br/><br/>akan bir trafikte görüşü kaybetmek hayati önem taşır, motorcu aynayı kırarak öldürmeye tesebbüs eden, sadece o aracı değil trafikteki bütün araçları tehlikeye atan ilk kişi burada.
-- entry_name: |
-    survivor 2017
-  entry_id:  68901425
-  entry_writer: carbonifera
-  entry_fav_count: 8
-  entry_content: |
-    survivor bitti daha sabriye elenecek amk. nerden çattık şu lanete arkadaş, izlemez olaydık
-- entry_name: |
     15 haziran 2017 chp güvenpark yürüyüşü
   entry_id:  68887625
   entry_writer: kalemdefter
@@ -282,6 +296,13 @@ data:
   entry_fav_count: 7
   entry_content: |
     yanında tıp diploması, kocaman bir ego ve bir kutu vicodin hediyesidir.<br/><br/><sup class="ab"><a title="(bkz: gregory house)" href="/?q=gregory+house" data-query="gregory house">*</a></sup>
+- entry_name: |
+    hanımın arabayı vurması
+  entry_id:  68903693
+  entry_writer: swordlord
+  entry_fav_count: 7
+  entry_content: |
+    eğer gerçekten dikkatsiz bir eşiniz varsa ve arabanız 3-4 ayda bir servise gidecek hale geliyorsa neden kullanmasina izin veriyorsunuz?<br/><br/>bugün yarın önüne bir çocuk çıktığında fren yerine gaza basarsa hesabını kim vericek?
 - entry_name: |
     bafetimbi gomis
   entry_id:  68902538
@@ -297,19 +318,12 @@ data:
   entry_content: |
     ölün lan. bazılarınız cidden ölsün.
 - entry_name: |
-    bir filmin tamamını anlatan tek repliği
-  entry_id:  68887002
-  entry_writer: il re e morto viva il re
-  entry_fav_count: 6
+    caner taslaman
+  entry_id:  68902456
+  entry_writer: yeopgijeogin geunyeo
+  entry_fav_count: 4
   entry_content: |
-    "it’s not personal, sonny. it’s strictly business."<br/><br/>filmin ismini yazamaya gerek yok herhalde!
-- entry_name: |
-    türk kızındaki sebebi bilinmeyen barselona aşkı
-  entry_id:  68903257
-  entry_writer: elian
-  entry_fav_count: 3
-  entry_content: |
-    zannedersem türk kızı başlığı altında genellemediğiniz bi bu kalmıştı. iki tane arkadaşı gitmiş, barselona'yı beğenmiş, instagram'a story atmış, bu salak da koşup sözlüğe başlık açmış. valla şişirdiniz beni.<br/><br/>barselona dünyanın en güzel şehirlerinden biri. insan gidip beğenebilir, sosyal medya hesaplarında şovunu yapabilir. ben gitsem ben de kendimi barselona'ya ait hissederim. herkesin sokağa tükürdüğü, ter kokusundan toplu taşımaya binilemeyen, tacize uğramadan eve dönebilirsen şanslı olduğun şehirlere mi ait hissedeceksin? barselona'ya, londra'ya, roma'ya ait hissedeceksin tabii kendine saygın varsa.
+    kendisini <a class="b" href="/?q=u%c3%a7an+spagetti+canavar%c4%b1">uçan spagetti canavarı</a>'nın varlığına ve birliğine imana davet ediyorum. <br/><br/>ben <a class="b" href="/?q=u%c3%a7an+spagetti+canavar%c4%b1">uçan spagetti canavarı</a>'nın varlığını delilleriyle birlikte kendisine ispat edebilirim. yüreği varsa istediği kanalda, kendi alanında(sosyoloji/felsefe) üzerinden tartışalım. <br/><br/><a class="b" href="/?q=hodri+meydan+cani%c5%9f">hodri meydan caniş</a>! yüreğin varsa tartışırsın. yoksa korkak ilan edeceğim seni.<br/><br/>şimdi bu entry'i okuyacak ve kimseye duyurmadan kaçacaksın. yüreğin varsa, inancına güveniyorsan cevabını bekliyorum. ekşi sözlük'te yazmana gerek yok. herhangi bir platformdan davetimi kabul et, yeter. ben tüm kişisel iletişim bilgilerimle ulaşacağım sana. <br/><br/>tekrarlıyorum, <a class="b" href="/?q=hodri+meydan">hodri meydan</a>! eğer davetimi kabul etmezsen tam bir korkasın ve tartışmaktan kaçıyorsun demektir!
 - entry_name: |
     sizin 15 temmuzdakilerden ne farkınız var
   entry_id:  68904303
@@ -318,38 +332,24 @@ data:
   entry_content: |
     o'da bir şey mi? sizin elinizde koskova devlet, onlarından elinde ise sadece "adalet" yazılı pankart var.
 - entry_name: |
-    terk ettiği kızı unutamayan erkek
-  entry_id:  68901368
-  entry_writer: delimine
-  entry_fav_count: 2
-  entry_content: |
-    3 ay sonra, kız tam ayrılığın acısını atlatıp kendine gelmekteyken "ben çok büyük hata etmişim" diye geri dönen erkektir. <br/>kızın 3 ayının içine etmiştir, erkeklere güvenini sikip atmıştır, ama sırf canı istedi diye 3 ay sonra yine o bok ettiği hayatın içine girip daha da bok etme lüksünü kendinde görebilir.<br/><br/>süründürmek farzdır. emirdir. sünnettir.
-- entry_name: |
-    hanımın arabayı vurması
-  entry_id:  68903693
-  entry_writer: swordlord
+    rota yemek
+  entry_id:  68890045
+  entry_writer: vallabiznickbilmiyorum
   entry_fav_count: 1
   entry_content: |
-    eğer gerçekten dikkatsiz bir eşiniz varsa ve arabanız 3-4 ayda bir servise gidecek hale geliyorsa neden kullanmasina izin veriyorsunuz?<br/><br/>bugün yarın önüne bir çocuk çıktığında fren yerine gaza basarsa hesabını kim vericek?
+    <a rel="nofollow noopener" class="url" target="_blank" href="http://www.haberalp.com/gundem/iddia-yemek-sirketi-yandas-h82700.html" title="http://www.haberalp.com/gundem/iddia-yemek-sirketi-yandas-h82700.html">manisa'daki nerdeyse bütün silahlı kuvvetlerimizi aylardır zehirlediği halde isminin gündeme gelmeme nedeni</a>
 - entry_name: |
-    17 haziran 2016 izmir depremi
-  entry_id:  68904513
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sakin+olun+amk+tarihi+bile+yanl%c4%b1%c5%9f+yazm%c4%b1%c5%9fs%c4%b1n%c4%b1z">sakin olun amk tarihi bile yanlış yazmışsınız</a>)
-- entry_name: |
-    10
-  entry_id:  68895683
-  entry_writer: darth vader is back
-  entry_fav_count: 1
-  entry_content: |
-    tarkan'ın <a class="b" href="/?q=metamorfoz">metamorfoz</a> albümünün adının metamorfoz olmasının bir manası var. adam defalarca röportajlarında albümün adı metaformoz çünkü artık yeni soundlarla yeni bi tarkan var dedi. o zaman bile metamorfoz albümünü karmayla ölürüm sanayla kıyaslayan gerizekalılar vardı. ve o gerizekalılar hala var.. metamorfozdan beri ısrarla her tarkan şarkısını karmayla kıyaslayan topluluk umarım bu entryden sonra "hıııaa anlaadıııımm" <sup class="ab"><a title="(bkz: cmylmz)" href="/?q=cmylmz" data-query="cmylmz">*</a></sup> olursunuz.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  68889175
-  entry_writer: gare a l eau
+    mercedes denince akla gelen ilk şey
+  entry_id:  68891388
+  entry_writer: ukaranfil
   entry_fav_count: 0
   entry_content: |
-    chat ortamım olmadığı için kusuruma bakmayın. <br/><br/>aylar hatta bir yıl üzerine aylar sonra "uyuyamıyorum lan" dediğim ilk akşam bu. şartlar gayet müsait, yalnızım, fiziken de ruhen de. ruhen olan değişmedi zaten de, fiziken çok kısmet olmuyor tabi, mazur görün o yüzden. sıcak da sağ olsun uyutmadı, izin dönüşü olmak da işe yaradı galiba, memur günü sonrası yarın haftasonu nöbeti olacağından elbet uyurum uyku da yeter diye bir düşünce de geldi, peşine de eski yeni eskimeyen ne varsa onlar da geldi falan, eski türk filmi müzikleri de <a class="b" href="/?q=youtube">youtube</a>da <a class="b" href="/?q=loupe">loupe</a>a düştü, olan oldu yani. <br/><br/>ne yaptım yokken, günaşırı nöbet tuttum, yeri geldi uyumaya zamanım olmadı. o bir ara çook alakasız zamanda ne alaka lan niye benim halimi hatrımı sordu dediğim, üzerine de aynı yerde çalışcaz lan yoksa, dediğim biri vardı, ondan yana çok sıkıntı olmadı, tavrını baştan koydu hatta hala o tavrı kendinin koyduğunu zannediyor. öyle, birbirimize yardımımız bile dokundu, tekrar sokağa çıkmadık, bir sefer nöbette balkonda oturduk azcık, bir sefer de benim nöbetime geldi, bir sefer de beni ortalık yerde uyur halde yakalayıp fotoğrafımı çekmiş, onları bana da gönderdi. öyle o kısım, bir yeri de kalmadı, meselenin sapıtma ihtimali de kalmadı.<br/><br/>bir ara bir arkadaşın birbirimize önerdiği bir hanımefendiyle görüşme şansım oldu, birkaç kez ancak görüşebildik, iş malum. aslında fena biri değildi, hatta birçok hemcinsimin dibi bile düşebilir, lakin önce <a class="b" href="/?q=arsenal">arsenal</a> maçı olduğu boş haftasonu günlerimde, daha sonra herhangi bir haftasonu günümde kendisine ayıracak zaman bulamadım, sonra dank etti ki vakit kaybı, sonra dank etti ki zaten bende, o gönül dediklerinde herhalde, olan yerler de başka biri tarafından zaptolunmuş, bir sefer çağırdı gitmedim, sonra o da bıraktı peşimi. iyi ki bıraktı aslında. sayesinde biraz daha dizi film izleyebiliyorum, hatta okuyabiliyorum, <a class="b" href="/?q=penguen">penguen</a>i bırakalı 14 ay oldu malum, sonra <a class="b" href="/?q=penguen">penguen</a> de bizi bıraktı gerçi ama. <br/><br/>tek eski manitam diyebildiğim hanımefendi, o zamandan da 6 yıl geçmiş lan hatta amk, kendisi benden nefretini sürdürmeye devam ediyor. <a class="b" href="/?q=instagram">instagram</a>dan follow yolladım bir ara, reddetti. çok canım sıkılırsa tekrar yapabilirim. ama galiba yapmam. hiçbir fotoğrafta düzgün çıkamadığımı anladığım günden beri kendi bilumum komik çıkma çabalarım olan sosyal medya albümlerimi görmesini istemediğimi fark ettim şu an. diğer görecek olanlardan niye çekinmediğimi hala bilmiyorum ama.<br/><br/>diğerleri çoktan unutuldu gitti de, bir tane kendini bir türlü unutturmayan var ya, hala kesin yaşayacağı nihai yerin bulunduğum yerden daha başkası olmasını beklediğim. onun da o yeri bir türlü belli olmadı. hala buralara, belki dibime girme ihtimali onun da var. olmaz olaydı ama var. maalesef o ihtimalin olması da zamanında bana imkansız olduğunu anlattığı şeyleri tekrar anlatacağı günü yok etmiyor, ama o gün bir türlü de gelmiyor. o anlattığı şeyin üzerinden de 5 yıl geçmiş lan. ama o başlatmıştı sen de biliyosun. 2 yıl önce o yaptı. 2 yılımı da kendine gömdü. iş güç dışında bişey düşnmeye zaman kaldıysa, mesela yalnız yürüyoken ya da bugünkü gibi uyumuyorken, düşünceler toplamının en büyük çoğunluğunu hala kendisi işgal etmekte o yüzden de. bir yere oturup kalınca, boğaza düğümü tıkınca demek ki, isterse einstein beyni olsun o düğümü sökemiyor, sifonu çekemiyor galiba, etraftan öyle bildim, sağda solda öyle anlatıldı. yenileceksek de böyle yenilelim, kaybettiğimiz zamanı seninle kaybedelim, ne diyim. tabi bir de, o alakasız şeye alakasız bir zamanda çok alakalı bir şekilde hunharca güldüğün <a class="b" href="/?q=smiley">smiley</a>i bana göndermeyecektin. sen de olmasan, sosyal medya hayatımı sikemeyecekti belki ama. canın sağ olsun. ki en yakın mesafedeki en yakın arkadaşına göre cehennemin dibi mesafesindeysen sosyal medya güzel hayat sikiyor. hem ben hala niye bunu yaptı diye düşüneyim, sen varsın canın sıkılıyorken vakit geçirecek yer arıyorken bana çatmış ol. ne çıkar. <br/><br/>başka başlıkta da olacak bu entry, belki son taraftaki sebebini aradığım şeye bir yorum bir destek gelir, ya da siktir et o iş zaten olmamış daha da olmaz diyen olur diye. demezseniz de canınız sağ olsun. ama yalnızlık bana yaramıyor. deniz görebildiğim zamanlarda melankoli sarardı, yalnızken fırsatını buldu mu direk yapışıyor boğazıma pezevenk. <br/><br/>kusuruma bakmayın ne olur. benim derdim de ancak bu kadar işte.
+    (bkz: <a class="b" href="/?q=sar%c4%b1+mercedes">sarı mercedes</a>) filmi,<br/>(bkz: <a class="b" href="/?q=ilyas+salman">ilyas salman</a>)
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  68903600
+  entry_writer: legal trim
+  entry_fav_count: 0
+  entry_content: |
+    aşkından, eşinden ya da ilişkisinden konuşmayı seven, açık görüşlü, mini etek ya da tayt seven, mor ve bordo renge inanan<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> 1.66+ boy 80b+ göğüs, keyfine düşkün kadınları beklerim. sıcaktan bunalan, klimayı kullananlar da gelebilir...<br/><br/>sözlük dışı için aşağıda bir şey var.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://connected2.me/lithium9979">https://connected2.me/lithium9979</a>
 ---
