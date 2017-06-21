@@ -6,23 +6,44 @@ data:
     pendik'te mini etekli kadına saldıran kişi
   entry_id:  68975549
   entry_writer: gulerken dusunen adam
-  entry_fav_count: 556
+  entry_fav_count: 561
   entry_content: |
     sonra da yok islamofobi varmış islam sevgi kardeşlik hoşgörü diniymiş tv'de nutuk çekerler. sen busun işte ne daha fazlası ne de daha azı. ya allah bismillah allahu ekber diyerek sağa sola saldırma işinin light bir versiyonu.
 - entry_name: |
     selamun aleyküm'ü merhabayla karşılamak
   entry_id:  68980505
   entry_writer: oldu da bitti masalla
-  entry_fav_count: 510
+  entry_fav_count: 516
   entry_content: |
     selamün akeyküm arapça da "sana (senin üzerine) selam olsun" demek yani direk türkçedeki "selam - merhaba" anlamına gelir. içinde allah'ın selamı falan yoktur. zaten allah'ın adı bile geçmez ekmeğe sürecek beyni olmayanlar, aparça dilini komple allah kelimesi sanan ziyan kitle bunu allah'ın selamı sanır. muhtemelen demeye çalıştıkları "selamün aleyküm ve rahmetullahu ve berakatühü" olsa gerek (allah'ın selamı rahmeti ve bereketi üzerine olsun) ama bilmezler. yani bir türk'ün bakkala girdiğinde selamın aleyküm demesi ile hello bakkal demesi arasında fark yoktur. anasını bellediniz dilin üstelik din zannederek, yapmayın... azıcık beyninizi çalıştırın kuran'ın da türkçesine bir baksanız sıklıkla "hala akıl etmez misiniz" dediğini görürdünüz.
 - entry_name: |
     bakire olmayan hatunla evlenmek
   entry_id:  68974397
   entry_writer: mevsimler
-  entry_fav_count: 469
+  entry_fav_count: 477
   entry_content: |
     (bkz: <a class="b" href="/?q=k%c3%bctle+halinde+entry+girmek">kütle halinde entry girmek</a>)
+- entry_name: |
+    21 haziran 2017 yapı kredi hesabımın boşaltılması
+  entry_id:  68970895
+  entry_writer: fath 13
+  entry_fav_count: 442
+  entry_content: |
+    önedit: başlığı telaşla 21 mayıs olarak açmışım. 21 haziran 2017 olarak düzeltilmesini rica ediyorum.<br/><br/>az önce olan olayın sıcaklığıyla ne yapsam bilemediğim için buraya yazıyorum. <br/><br/>eşimin telefonuna banka şifresi yanlış girildi diye bir mesaj geldi ve müşteri hizmetlerini arayıp karta bloke koydurduk hemen. daha sonra internet bankacılığından hesabı kontrol etmemizle başımızdan aşağı kaynar sular döküldü. hesaptaki yaklaşık 18 bin lira civarındaki para çok kısa süre içinde çekilmiş. tüm para 1500 tl, 3000 tl gibi meblalarla havale edilmiş ve atm'den çekilmiş. telefonla bankayı aradık ama onlar da sadece hesaba ve karta bloke koydular ve yarın önce şubeye sonra savcılığa gitmemizi söylediler. <br/><br/>kart vadesiz hesap kartıydı ve hiç bir uyarı sms'i gelmeksizin eşimin biriktirdiği tüm para bir anda buhar oldu. <br/><br/>başına bu tarz bi olay gelen varsa ya da yol gösterebilecek birileri olursa çok sevinirim.<br/><br/>güncelleme: paranın bir kısmı atm'den nakit olarak çekilmiş, bir kısmı da atm'den havale edilmiş. para çekilme olayı bugün gece saat 00:00'dan biraz önce başlıyor ve kısa sürede hesap boşaltılıyor. sabah önce bankaya sonra savcılığa gideceğiz. elimizden başka ne gelecek bilmiyorum. yapı kredi bankası'nın tavrını sabah göreceğiz. bakalım emanet ettiğimiz paramızın çalınmasına göz yumup ne haliniz varsa görün mü diyecekler, yoksa sorunu hemen çözecekler mi.<br/><br/>güncelleme 2: arkadaşlar banka kartı elimizde, yani çalınma durumu yok. bankanın bize gönderdiği tek mesaj olan şifreniz yanlış girilmiştir'i gönderdiği saat 00:04 ve zaten o ana kadar bankadaki tüm para boşaltılmış. mesajı görür görmez arayıp hesabı bloke ettirdik ama çok geç olmuştu.<br/><br/>güncelleme 3: mesaj atan, destek veren herkese çok çok teşekkürler. sabah erkenden bankaya gidip durumu anlattık ve işlemlerin bize ait olmadığına dair dilekçeyi verdik. sağolsun şubedeki görevli arkadaş da çok sakin ve anlayışlı bir şekilde ilgilendi. hemen ardından savcılığa gidip şikayette bulunduk. savcılıktan aldığımız tutanağın bir kopyasını vermek üzere bankaya döndük ve bankada sıra beklerken yapı kredi genel müdürlüğünden bizi arayıp parayı iade ettiklerini söylediler. hazır bankadayken hesabı kontrol ettirdik ve havale işlem ücretleri dahil bütün zararımızı karşıladıklarını gördük. <br/><br/>hem şubede söylenenlerden hem de burada yazılanlardan sürecin uzayacağını düşünüyorduk. çok şükür yapı kredi bizi mağdur etmedi. 12 saattir yaşadığımız can sıkıntısı ve stres mutlu bir şekilde sonuçlandı. yapı kredi'de işlemin bu kadar çabuk sonuçlanmasını sağlayan görevlilere ve duyarlı bir şekilde destek olan yazar arkadaşlara müteşekkiriz.<br/><br/>son güncelleme: bazı yazar arkadaşlar yapı kredi virali olma ihtimalinden bahsetmişler. keşke öyle olsaydı da bu travmayı hiç yaşamasaydık. <br/><br/>benzer bir durum başka bir yazar arkadaşın da başına gelmiş (bkz: <a class="b" href="/?q=22+may%c4%b1s+2016+i%c5%9f+bankas%c4%b1+hesab%c4%b1m%c4%b1n+bo%c5%9falt%c4%b1lmas%c4%b1">22 mayıs 2016 iş bankası hesabımın boşaltılması</a>) ve benzer şekilde aynı gün içerisinde iş bankası tarafından da para iade edilmiş. olay bizim açımızdan hızlı bir şekilde olumlu sonuçlansa da yaşanılan durum insanı bankalara karşı ister istemez tedirgin ediyor. ek olarak hangi banka bu tip olaylarla anılmak ister arkadaşlar? böyle büyük bankalar belki sosyal medyayı iyi takip ediyor ve buradaki destek işe yarıyor, belki de dolandırıcılığın bariz olduğu vakalarda hızlı hareket ediyorlar, bilmiyoruz. <br/><br/>tekrar destek veren herkese çok çok teşekkür ederim. <br/><br/>benzer olayların yaşanmaması ve olası tedbirler için şu entry'e göz atmakta da fayda var (bkz: <a class="b" href="/entry/68973707">#68973707</a>).
+- entry_name: |
+    21 haziran 2017 boğaziçi mezuniyeti protestosu
+  entry_id:  68986728
+  entry_writer: kullerdeki sir
+  entry_fav_count: 370
+  entry_content: |
+    boğaziçi üniversitesi'nin 150. mezuniyet töreni sırasında, oyların %86'sını alarak seçilen rektörün<sup class="ab"><a title="(bkz: gülay barbarosoğlu)" href="/?q=g%c3%bclay+barbaroso%c4%9flu" data-query="gülay barbarosoğlu">*</a></sup> yerine siyasi iktidar tarafından atanan kayyum rektör <a class="b" href="/?q=mehmed+%c3%b6zkan">mehmed özkan</a>'ın konuşması esnasında öğrencilerin arkalarını dönmeleri ile gerçekleşmiştir.<br/><br/>[fotoğraf <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DC3C4lxXYAAkjHM.jpg:large" title="https://pbs.twimg.com/media/DC3C4lxXYAAkjHM.jpg:large">1</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DC21Ht0XcAAoal4.jpg:large" title="https://pbs.twimg.com/media/DC21Ht0XcAAoal4.jpg:large">2</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DaVinciDelirdi/status/877561278553706497" title="https://twitter.com/DaVinciDelirdi/status/877561278553706497">video</a>]<br/><br/>ek: haber <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201706211028988175-bogazici-mezuniyet-toreninde-ogrenciler-rektoru-protesto-etti/" title="https://tr.sputniknews.com/turkiye/201706211028988175-bogazici-mezuniyet-toreninde-ogrenciler-rektoru-protesto-etti/">linki</a>.
+- entry_name: |
+    ramazanda açık alanda yemek içmek yasaklanmalı
+  entry_id:  68974324
+  entry_writer: dukebell
+  entry_fav_count: 344
+  entry_content: |
+    orucunu düzenli tutan biriyim. düşüncelerin, yaşam tarzlarının ramazan'da kısıtlanmalarına şiddetle karşı biri olarak bu başlığa da karşıyım. ramazan oruç tutmayanların değil oruç tutanların nefislerinin sınandığı aydır.
 - entry_name: |
     ercan kızılateş
   entry_id:  68976010
@@ -31,45 +52,38 @@ data:
   entry_content: |
     neo ottoman.<br/><br/>reisinin beslemesi.<br/><br/>cahil yobaz.<br/><br/>bu haddi kimden aldigini hepimiz biliyoruz.<br/><br/>ulkeyi bu hale getiren bas köpeğin kim oldugunu hepimiz biliyoruz.
 - entry_name: |
-    ramazanda açık alanda yemek içmek yasaklanmalı
-  entry_id:  68974324
-  entry_writer: dukebell
-  entry_fav_count: 340
-  entry_content: |
-    orucunu düzenli tutan biriyim. düşüncelerin, yaşam tarzlarının ramazan'da kısıtlanmalarına şiddetle karşı biri olarak bu başlığa da karşıyım. ramazan oruç tutmayanların değil oruç tutanların nefislerinin sınandığı aydır.
-- entry_name: |
-    21 haziran 2017 boğaziçi mezuniyeti protestosu
-  entry_id:  68986728
-  entry_writer: kullerdeki sir
-  entry_fav_count: 327
-  entry_content: |
-    boğaziçi üniversitesi'nin 150. mezuniyet töreni sırasında, oyların %86'sını alarak seçilen rektörün<sup class="ab"><a title="(bkz: gülay barbarosoğlu)" href="/?q=g%c3%bclay+barbaroso%c4%9flu" data-query="gülay barbarosoğlu">*</a></sup> yerine siyasi iktidar tarafından atanan kayyum rektör <a class="b" href="/?q=mehmed+%c3%b6zkan">mehmed özkan</a>'ın konuşması esnasında öğrencilerin arkalarını dönmeleri ile gerçekleşmiştir.<br/><br/>[fotoğraf <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DC3C4lxXYAAkjHM.jpg:large" title="https://pbs.twimg.com/media/DC3C4lxXYAAkjHM.jpg:large">1</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DC21Ht0XcAAoal4.jpg:large" title="https://pbs.twimg.com/media/DC21Ht0XcAAoal4.jpg:large">2</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DaVinciDelirdi/status/877561278553706497" title="https://twitter.com/DaVinciDelirdi/status/877561278553706497">video</a>]<br/><br/>ek: haber <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201706211028988175-bogazici-mezuniyet-toreninde-ogrenciler-rektoru-protesto-etti/" title="https://tr.sputniknews.com/turkiye/201706211028988175-bogazici-mezuniyet-toreninde-ogrenciler-rektoru-protesto-etti/">linki</a>.
-- entry_name: |
     izmir'de otobüste oynayan insanlar
   entry_id:  68980093
   entry_writer: luleburgazinlesi
-  entry_fav_count: 291
+  entry_fav_count: 292
   entry_content: |
     izmir'i ülke yapın, vizeyle girilsin.
 - entry_name: |
     20 haziran 2017 ankara'da öldüresiye dövülen kişi
   entry_id:  68977342
   entry_writer: gundelikyasaminhickiriklari
-  entry_fav_count: 272
+  entry_fav_count: 273
   entry_content: |
     üst edit: ankara'da gönüllü 2 avukat musa abimizin davasına bakacaklar. davayı geri çekmeyi falan da düşünmüyor kendisi. destek olan onlarca yazara teşekkürü borç biliriz. çok ama çok sağolun.<br/><br/>başlık karakter sınırı derdimiz olmasaydı tamamı 20 haziran 2017 ankara'da ödüresiye dövülen gariban vatandaş olacaktı ancak olmadı.<br/><br/>olay geçen gece sabah karşı 05:00 sularında gerçekleşiyor. işinden çıkan aşçı bir abimiz ki kendisi tanıdığımız kendi halinde bir abimiz. işinden çıkıyor evine doğru giderken bir pavyonun önünde kendisine durduk yere 3 kişi saldırıyor. saldırganlardan birisi 20 yaşında bir polis ve diğerleri de onun akrabaları.<br/><br/>olay şöyle gerçekleşiyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.mynet.com/ankaranin-gobeginde-bir-adami-olduresiye-dovduler-guncel-3104554?utm=webdesktop&amp;u=iphone" title="https://m.mynet.com/ankaranin-gobeginde-bir-adami-olduresiye-dovduler-guncel-3104554?utm=webdesktop&amp;u=iphone">https://m.mynet.com/…104554?utm=webdesktop&amp;u=iphone</a><br/><br/>ankara ulus’ta bir gece kulübünde aşçılık yapan iki çocuk babası 47 yaşındaki musa köse, sabaha karşı iş çıkışı yolda yürürken, 1’i polis 3 kişi tarafından dövüldü. güvenlik kameralarına yansıyan 3 saldırgan çıkarıldıkları ankara 7’nci sulh ceza hakimliği tarafından ’hayati tehlike geçirecek ve kemik kırıklığı oluşturacak şekilde kasten yaralama’ suçundan tutuklandı.<br/><br/>olay dün sabaha karşı ankara'nın en işlek caddelerinden biri olan ulus'taki çankırı caddesi'nde meydana geldi. burada bir gece kulübünde aşçı olarak çalışan musa köse, iş çıkışı evine gitmek için otobüs durağına yürürken, henüz belirlenemeyen bir nedenle 1'i polis 3 kişinin saldırısına uğradı. tekme tokat yerde sürüklenen, bacağı kırılıp burun kemiği çatlayan musa köse'ye uygulanan şiddet güvenlik kameralarına saniye sanıya yansıdı.<br/><br/>görüntülerde, musa köse'ye saldıran 3 kişiyi durdurmak için yolda bulunan bir kişi müdahale ediyor. ancak saldırganlar köse'yi dövmeye devam ediyor. bir süre sonra olay yerine polis ekipleri geliyor. ancak polis ekipleri olay yerindeyken de saldırganlar, yerdeki köse'nin kafasına tekme atıyor. köse daha sonra ambulansla hastaneye kaldırılıyor.<br/><br/>o haldeyken 'orucum bozulur su içirmeyin' dedi"<br/><br/>saldırganlara müdahale ederek musa köse'nin, hayatta kalmasını sağlayan mehmet hacı koyun, "sabah 5-6 arası işten çıktım. caddede bir ses duydum ve sesin geldiği yere baktığımda 3 kişinin bir kişiyi dövdüğünü gördüm. dövülen kişi bana ismimle hitap edince tanıdık olduğunu anladım. benden yardım isteyince ellerinden aldım ve ambulans çağırdım. bu sırada hale saldırmaya devam ettiler" dedi.dövülen kişinin bir gece kulübünde aşçılık yaptığını belirten mehmet hacı koyun, şunları söyledi:<br/><br/>"gariban bir insan. bir süre sonra polisler geldi ancak karşıdan izlemekle yetindiler. gelip olaya müdahale etmediler. vuran kişilerden biri de polis. daha önceden gördüğüm biri ancak samimiyetim olan biri değil. gece çalıştığım için buraya gelen çoğu kişiyi tanırım. 'gariban bir adama neden vuruyorsunuz' dediğimde bıraktılar. 'sarhoştu bize takıldı' dediler. <br/><br/>ben de gariban biri olduğunu alkol kullanmadığını söyledim. hatta çevredekilerden su istediğimde, 'orucum bozulur su içirmeyin bana' dedi. oruçluymuş bir yudum su içiremedik. <br/><br/>benim anlamadığım devletin polisi neden izliyor. 'ben polisim' diyerek tekme atmaya devam ediyor."<br/><br/>"neden saldırdıklarını bilmiyorum"<br/>olaydan sonra kaldırıldığı hastanede ameliyat edilen ve 45 gün 'iş göremez' raporu olan musa köse, neden saldırdıklarını bilmediğini belirterek, şunları anlattı:<br/><br/>"saat 05.00-05.30 arası işten çıktım. dolmuş gittiği için otobüs durağına yürümeye başladım. bu sırada 3 kişi beni yakaladı. biri ensemden tuttu ve sürükledi. bana hiç bir şey söylemediler. <br/><br/>önümde yürüyen bir çöpçü vardı. 'dursana lan' diye ona seslendiler sandım. ben yürümeye devam edince ensemden yakaladılar. bana vurmaya başladılar. hacı arkadaşımız olmasa beni öldüreceklerdi. bacağımı kırdılar. yerde sürüklerken ha bire vurdular. ben can havliyle 'ne isterseniz vereyim' dedim. ancak hiçbir şey demeden vurmaya devam ettiler. <br/><br/>bir ara yol kenarındaki aracın bagajını açtılar. 'beni bagaja koyup bir yere atacaklar' diye düşündüm. sonra ambulans geldi. hastaneye götürdüler. orada sol bacağımın kırık olduğunu söylediler. burun kemiğimin kırık olduğunu söylediler. polise de ifade verdim ancak o an kendimde değildim."<br/><br/>kırık olan sol bacağına platin takıldığını belirten musa köse, en 3-4 ay işinden de olduğunu belirterek, saldırganlardan şikayetçi olduğunu sözlerine ekledi.<br/><br/>olay sonrası gözaltın alınan şüphelilerden s.k.'nın, emniyet müdürlüğü korumalar şube müdürlüğü'nde polis olduğu ve kardeşi s.k. ve kuzenleri u.t. ile bir gece kulübünde eğlendikleri belirtildi.<br/><br/>sorgudaki ifadelerinde şüphelilerden s.k. olayın bir anlık refleks sonucu meydana geldiğini söyledi. diğer iki şüpheli ise suçlamaya kabul etmeyerek ve kavgayı ayırmak istediklerini ileri sürdü. işlemlerin ardından ankara adliyesi'ne sevk edilen 3 şüpheli, çıkarıldıkları 7'nci sulh ceza hakimliği'nce 'hayati tehlike geçirecek ve kemik kırıklığı oluşturacak şekilde kasten yaralama' tutuklandı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video/765097/Ankara_nin_gobeginde_dehset_guvenlik_kamerasinda.html#" title="http://www.cumhuriyet.com.tr/video/video/765097/Ankara_nin_gobeginde_dehset_guvenlik_kamerasinda.html#">http://www.cumhuriyet.com.tr/…lik_kamerasinda.html#</a><br/><br/>olay videosuna üstteki linkten ulaşabilirsiniz. <br/>ve polis arkadaş ve kuzenlerinin facebook profilleri de aşağıda.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/TeNnq">https://www.facebook.com/tennq</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/SALIHTENGILIM">https://www.facebook.com/salihtengilim</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/viezaaa">https://www.facebook.com/viezaaa</a><br/><br/>hepsi de vatan millet sakarya modunda.<br/>pavyondan çıkıp tek derdi evine ekmek götürmek olan bir adama saldırabiliyorlar.<br/>işinden olabilir musa abi. ayağı kırık çünkü.<br/>işinden olursa ailesine bakabilecek bir dayanak yok. çok da zorda kalacak.<br/><br/>içim soğumuyor sinirden bu nedenle başlığı buraya taşıdım. bir ses olsun artık kendilerini memati/polat zanneden bu densiz güruh yok olsun. devlet büyüklerinden insanın, ezilenin yanında görülelim istiyorum.<br/><br/>dün fox habere de çıktı olay. kameralar önünde polislerin yanında adama halen tekme atıyor ancak polis kılını kıpırdatmıyor.
 - entry_name: |
     21 haziran 2017 suriyelilerin kadınlara tacizi
   entry_id:  68985387
   entry_writer: punkrock1907
-  entry_fav_count: 205
+  entry_fav_count: 208
   entry_content: |
     her şey tam olarak tahmin ettiğim gibi gidiyor. ülkeye soktuğunuz bu davarlar artık pervasızca yaptıkları picligin videosunu da çekiyor. bunun bir tık sonrası toplu tecavüzler olacak. ha unutmadan; <br/><br/>(bkz: <a class="b" href="/?q=ama+onlar+sava%c5%9ftan+ka%c3%a7t%c4%b1">ama onlar savaştan kaçtı</a>)<br/><br/>eserinle gurur duy davutoğlu.
+- entry_name: |
+    kayseri otogarı'nda cinsel tacize uğramak
+  entry_id:  68981074
+  entry_writer: allaha tapan ateist
+  entry_fav_count: 205
+  entry_content: |
+    durumu olmayanlar için özet geçiyorum.<br/><br/>"otogarda davarın teki bunu avuçlamış bu da kaçarak kendini kurtarmış"
 - entry_name: |
     apple'ın yapıp da diğerlerinin yapamadığı şey
   entry_id:  68981939
   entry_writer: teinture d iode
-  entry_fav_count: 195
+  entry_fav_count: 198
   entry_content: |
     iphone 7 cihazında telefon görüşmelerinde yaşanan hoparlörden cızırtı gelmesi sorunu ile ilgili olarak birkaç gün uğraşarak genius bar randevusu alınır; yapılan testlerde hiçbir sorun bulunamamasına rağmen eğer talep edilirse ürün değişimi yapılabileceği bilgisi verilir ve bunun üzerine sıfır yeni bir cihaz verilir. apple'ın yapıp da diğerlerinin yapamadığı şey işte budur. cihazı sattım bitti değil, satış sonrası da en az satış kadar önemli bunun apple kadar farkında olan başka bir teknoloji firması göremiyorum ben.
 - entry_name: |
@@ -83,16 +97,23 @@ data:
     düğün yapmayı türk geleneklerinden koparma projesi
   entry_id:  68983476
   entry_writer: sikintiya gelebilen adam
-  entry_fav_count: 150
+  entry_fav_count: 162
   entry_content: |
     günümüz dünyasında düğün gereksiz ve sadece masraftır. takılan takılarla düğünün zararı karşılanmaya çalışılır. kim ne takmış diye dibinize kadar sokulan kamerayı söylemiyorum bile. düğün oyunları da akrabaların iştirak ettiği ilkel bir çiftleşme dansından ibarettir.<br/>başlı başına saçmalıktan ibaret.<br/><br/>edit: gelinlik giymek isteyen nikahta da giyer.<br/><br/>edit 2: bu konuda mantıklı sebepleri bir bir ortaya koymalı, gerekirse youtube kanalı açmalıyız. <br/><br/>edit 3: başlık özellikle seçilmiştir. düğün yapmayın deme hakkımız yok elbette. ancak geleneklerde yer almaması ve aileler tarafından gençlere dayatılmaması gerekir.<br/><br/>(bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn+yapmadan+evlenmeek">düğün yapmadan evlenmeek</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn+yapman%c4%b1n+as%c4%b1l+amac%c4%b1">düğün yapmanın asıl amacı</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn+yapmadan+evlenmek+isteyen+insan">düğün yapmadan evlenmek isteyen insan</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn+istemeyen+hatun">düğün istemeyen hatun</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn+istemeyen+ve+paray%c4%b1+umursamayan+g%c3%bczel+k%c4%b1z">düğün istemeyen ve parayı umursamayan güzel kız</a>)
 - entry_name: |
     kadir mısıroğlu'nun 22 yıl önceki videosu
   entry_id:  68986106
   entry_writer: abi enikonu icecegiz
-  entry_fav_count: 131
+  entry_fav_count: 136
   entry_content: |
     kendisi türkiye'deki belki de en büyük atatürk karşıtı olduğu için, izleyip tık kazandırmayacağım birinin videosu.
+- entry_name: |
+    cübbe giyenlere arap hayranı deyip tepki göstermek
+  entry_id:  68979765
+  entry_writer: helen kontesolan
+  entry_fav_count: 129
+  entry_content: |
+    pantolon ve ceketi orta asya'da türk savaşçılarının at üstünde daha rahat savaşabilmek için kullanıp insanlığa öğrettiğini bilmeyen yazar beyanı. çöl bedevisi gibi gezmek ise özentilik değil de nedir ?
 - entry_name: |
     1995'e ışınlanan yazarların buluşacakları yer
   entry_id:  68978394
@@ -101,40 +122,61 @@ data:
   entry_content: |
     5 yaşında olacağım için ailemin izin vermeyeceği buluşmadır.
 - entry_name: |
-    mevlana meydanı'nın yaşadığı olağanüstü değişim
-  entry_id:  68978652
-  entry_writer: doktor cureklibatur ve bay arkin
-  entry_fav_count: 97
+    ege bölgesinde yaşanacak en güzel sahil kasabası
+  entry_id:  68976275
+  entry_writer: al bakalim bu da benden olsun
+  entry_fav_count: 99
   entry_content: |
-    <a class="b" href="/?q=uzung%c3%b6l%27%c3%bcn+akp+d%c3%b6neminde+ya%c5%9fad%c4%b1%c4%9f%c4%b1+transformasyon">uzungöl'ün akp döneminde yaşadığı transformasyon</a> başlığı üzerine <a class="b" href="/?q=muhafazakar">muhafazakar</a> akp döneminde yok edilen tarih ve doğamız üzerine bir arşivleme çalışması yapılmasına katkı sağlamak için paylaşmak istediğim dönüşüm.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/lWr1Yk.png" title="https://i.hizliresim.com/lWr1Yk.png">dönüşüm</a><br/><br/>muhafazakar olan bu arkadaşlar ne doğayı ne de tarihi muhafaza ediyorlar. tek muhafaza ettikleri doymak bilmez para ve beton aşkı.
+    buraya yazıldığı takdirde <a class="b" href="/?q=en+g%c3%bczel">en güzel</a> olmaktan çıkacaktır.. yazma!
 - entry_name: |
     survivor 2017
   entry_id:  68970247
   entry_writer: doyoubelieveinlifeafterlove
-  entry_fav_count: 68
+  entry_fav_count: 70
   entry_content: |
     sema elenince hafif bi içim burkul...<br/><br/>şaka şaka sema iğrenç bi kişiliksin, doğru bildiklerin yanlış, yanlışların doğru. bi format attır kendine. nefretle baktığın adem'e elenmen de çok güzel oldu. <br/>o iyi niyetli çocuğa kurban olun lan hepiniz.
 - entry_name: |
     1980'lerde kars'ta çekilmiş peynirci fotoğrafı
   entry_id:  68986612
   entry_writer: demokratikdeve
-  entry_fav_count: 61
+  entry_fav_count: 67
   entry_content: |
     duvarda " tanrı türk'ü korusun " yazıyor sanırım
-- entry_name: |
-    hiçbir evli erkeğin evliliği tavsiye etmemesi
-  entry_id:  68971867
-  entry_writer: mitrann
-  entry_fav_count: 52
-  entry_content: |
-    tavsiye etmezler ama boşanmazlar da. tek başlarına bi kap yemek yapabildikleri yok konuşmaya gelince hepsinde bi havalar. bende bi tane var bunlardan, 2 haftadır ayrıyız. sorsan çok darlanıyordu beyfendi. annesi arayıp diyor ki ' çocuk yalnız giyecek çamaşırı kalmadı, ne yiyor ne içiyor düşünmüyor musun? dön evine!' tek derdimiz bu çünkü; çamaşır! ama sorsan evlenmeyi asla tavsiye etmez.
 - entry_name: |
     chp'ye oy vermeyin
   entry_id:  68985867
   entry_writer: aslagelmeyecektelefonubekleyenadam
-  entry_fav_count: 50
+  entry_fav_count: 59
   entry_content: |
     başlığı açan <a class="b" href="/?q=sevgili+kalem+canavari">sevgili kalem canavari</a>nın girdiği ilk ve tek entry <a class="b" href="/?q=chp%27ye+oy+vermeyin">chp'ye oy vermeyin</a> adını taşıyor.<br/><br/>bunun dışında başka entry'si olmadığı halde nasıl <a class="b" href="/?q=suser">suser</a> olduğu merak konusudur.
+- entry_name: |
+    doğu perinçek
+  entry_id:  68974132
+  entry_writer: bogdan yazarovsky
+  entry_fav_count: 57
+  entry_content: |
+    ''chp'lilerin taşıdıkları adalet pankartlarında pkk'ya ve fetö'ye adalet yazmaktadır. kemal kılıçdaroğlu, pkk'lıların ve fetöcü'lerin özgürlüğü için yürümektedir.''<br/><br/>''hapistekilerin tamamı fetöcü'ler ve pkk'lılardır.''<br/><br/>''hakim ve savcılar erdoğan'dan kesinlikle talimat almayan vatansever hakim ve savcılardır. içlerindeki fetö'cü yapılanma tamamen temizlenmiştir. temizleyen de erdoğan değil, kanunlardır.''<br/><br/>''türk yargısı son 50 yılın altın devrini yaşıyor.''<br/><br/>türkiye siyaset tarihinin en fırıldak adamının iki küsür saatlik konuşmasını midesi geniş arkadaşlar <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=CsbM6SkCwXk" title="https://www.youtube.com/watch?v=CsbM6SkCwXk">buradan</a> izleyebilir.<br/><br/>ben ileri sara sara bu kadarını toparlayabildim.<br/><br/>silivri'de buna, <a class="b" href="/?q=sedat+peker">sedat peker</a>'e, <a class="b" href="/?q=ahmet+zeki+%c3%bc%c3%a7ok">ahmet zeki üçok</a>'a ve <a class="b" href="/?q=nedim+%c5%9fener">nedim şener</a>'e ne yapılmış; ne vaatler verilmiş olabilir ki adamlar içeriden çıktıktan sonra kraldan çok kralcı soytarıya dönüştüler, merak konusu.<br/><br/>sosyalist geçinen arkadaşların ise hala bu fırıldağın peşinden gitmeleri daha büyük merak konusu.<br/><br/>hadi ona bilmediğimiz vaatlerde bulunuldu, ya size?<br/><br/>edit: aşağıda bir arkadaş ''imam hatiplilerle mi vatan savaşı verilecek'' diye eleştirilmesine doğu perinçek'in "imam hatiplisi imam hatipsizi vatan savaşı veriyoruz. şu anki en büyük amacımız bu vatan savaşını kazanmak" savunmasını örnek olarak vermiş.<br/><br/>allah'tan o bölüme de denk geldim. güya izleyici soruları alınıyor, antalya'dan bir izleyici şu soruyu soruyor; ''perinçek atatürkçü geçiniyor, imam hatiplilerle mi vatan savaşı verilecek?''<br/><br/>perinçek; doğru, benim de katıldığım "imam hatiplisi imam hatipsizi vatan savaşı veriyoruz. şu anki en büyük amacımız bu vatan savaşını kazanmak" diye suya sabuna dokunmayan bir girizgahla cevaplıyor soruyu. buraya kadar problem yok.<br/><br/>problem cevabının gelişme ve sonuç kısmında;<br/><br/>''soruyu soran vatandaş da pkk ve fetöye destek veriyor, pkk ve fetö'yle mi vatan savaşı verilecek?''<br/><br/>bir yerlerden tanıdık geliyor mu bu söylem; hamasetin, kıvırmanın ve omurgasızlığın bu kadarı. aşağıdaki vatan sevdalısı arkadaş ''imam hatiplilerle mi vatan savaşı verilecek'' sorusundan bir insanın nasıl fetöcü ve pkk'lı olmakla suçlanacağını da açıklayabilecek mi peki?<br/><br/>savunduğu adam bunu şüpheye yer bırakmayacak şekilde bağdaştırabiliyor. <br/><br/>yapmayın arkadaşım, gerçekten komik duruma düşüyorsunuz.<br/><br/>edit ll: başlığın altında kendisini savunan yazarların entry geçmişlerini inceleyin, karşılaşacağınız entry'lere hiç şaşırmayacaksınız.
+- entry_name: |
+    hiçbir evli erkeğin evliliği tavsiye etmemesi
+  entry_id:  68971867
+  entry_writer: mitrann
+  entry_fav_count: 53
+  entry_content: |
+    tavsiye etmezler ama boşanmazlar da. tek başlarına bi kap yemek yapabildikleri yok konuşmaya gelince hepsinde bi havalar. bende bi tane var bunlardan, 2 haftadır ayrıyız. sorsan çok darlanıyordu beyfendi. annesi arayıp diyor ki ' çocuk yalnız giyecek çamaşırı kalmadı, ne yiyor ne içiyor düşünmüyor musun? dön evine!' tek derdimiz bu çünkü; çamaşır! ama sorsan evlenmeyi asla tavsiye etmez.
+- entry_name: |
+    game of thrones
+  entry_id:  68987296
+  entry_writer: amidimbemidimcemidimdemidim
+  entry_fav_count: 50
+  entry_content: |
+    --- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>when winter comes…<br/>you’ll hear no lions roar…<br/>no stags grazing the fields…<br/>no roses growing in the meadows…<br/>no snakes in the sand…<br/>the krakens will freeze where they swim…<br/>the flayed men will rot and wither…<br/>no trouts swimming in the river and no falcons flying in the air…<br/>not even the dragon’s breath will warm you in your halls.<br/>you shall hear only the wolves howl… <br/>and then you will know. winter has come<br/><br/>kış geldiğinde ...<br/>aslan kükremesi duymayacaksın ...<br/>tarlalarda otlayan geyikler olmayacak ...<br/>çayırlarda güller büyümeyecek ...<br/>kumlarda yılan olmayacak ...<br/>krakenler(deniz canavarları)yüzdüğü yerde donmuş olacak ...<br/>derisi yüzülmüş adamlar çürüyecek ve yok olacak ...<br/>nehirde alabalıklar yüzmeyecek, havada uçan şahinler olmayacak..<br/>ejderhanın nefesi bile salonlarınızda sizi ısıtmayacak<br/>sadece kurtların uğultularını duyacaksınız ...<br/>ve öğreneceksin ki kış geldi<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    57 handikaplı atın gazi koşusuna katılabilmesi
+  entry_id:  68984356
+  entry_writer: sigara69
+  entry_fav_count: 46
+  entry_content: |
+    ahır yok.<br/>seyis yok.<br/>antrenörlere verilen abartı doping cezalarından dolayı antrenörde kalmadı elde.<br/><br/>bu sene türk atçılığının çektiği sorunları kimse bilmiyor.bu kadar içe kapanık bir kurum olamaz.<br/><br/>tüm kış,ahır aradı millet etrafta.yok.sayı yeterli değil.<br/><br/>her tarafa hipodrom yapılıyor ama bu kadar çoğalan at sayısını kaldırabilecek alt yapı yok.<br/><br/>yetiştirilmiş seyis sayısı çok az.ücretleri çok kötü.<br/><br/>gazi koşusuna hazırlanamadı bile doğru düzgün çoğu eküri.<br/><br/>ayrıca;<br/><br/>burası bilgi sitesinden ne ara ''komik olmalıyım,espiri yapmalıyım'' diye boş beleş dolaşan 2-3 kelime entry giren dallamalara dönüştü bilemiyorum.
 - entry_name: |
     tabak sıyırmak
   entry_id:  68986009
@@ -150,24 +192,10 @@ data:
   entry_content: |
     orospu çocuğunu serbest bırakan savcının karısına veya kızına da aynı şeyi yaparlar umarım.
 - entry_name: |
-    game of thrones
-  entry_id:  68987296
-  entry_writer: amidimbemidimcemidimdemidim
-  entry_fav_count: 39
-  entry_content: |
-    --- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>when winter comes…<br/>you’ll hear no lions roar…<br/>no stags grazing the fields…<br/>no roses growing in the meadows…<br/>no snakes in the sand…<br/>the krakens will freeze where they swim…<br/>the flayed men will rot and wither…<br/>no trouts swimming in the river and no falcons flying in the air…<br/>not even the dragon’s breath will warm you in your halls.<br/>you shall hear only the wolves howl… <br/>and then you will know. winter has come<br/><br/>kış geldiğinde ...<br/>aslan kükremesi duymayacaksın ...<br/>tarlalarda otlayan geyikler olmayacak ...<br/>çayırlarda güller büyümeyecek ...<br/>kumlarda yılan olmayacak ...<br/>krakenler(deniz canavarları)yüzdüğü yerde donmuş olacak ...<br/>derisi yüzülmüş adamlar çürüyecek ve yok olacak ...<br/>nehirde alabalıklar yüzmeyecek, havada uçan şahinler olmayacak..<br/>ejderhanın nefesi bile salonlarınızda sizi ısıtmayacak<br/>sadece kurtların uğultularını duyacaksınız ...<br/>ve öğreneceksin ki kış geldi<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    roman okuyacak kadar boş zamanı olan insan
-  entry_id:  68973109
-  entry_writer: yan yatarak visne yiyen roma imparatoru
-  entry_fav_count: 38
-  entry_content: |
-    bunu diyen adama su anda hangi dizide ne oluyor diye sorsak yerli yabanci farketmez, tak cevap verir. survivor'da ne oluyor desek, hangisi diye sorar, yerli/yabanci survivor vb. programlarda ne oldugunu bilir. her turlu reklami, haberi, mac skorunu, kimin golleri attigina kadar bilir. ama birisi roman okumaya gorsun "nerden buluyorsun zamani?"<br/><br/>allah akil fikir versin.
-- entry_name: |
     milli adalet partisi
   entry_id:  68987948
   entry_writer: nuri
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     - milli adalet partisi kaç harf?<br/>- 18<br/>- meral akşener kaç harf? <br/>- 12<br/>- topla ikisini? <br/>- 30<br/>- hangi yılda kuruluyor bu parti? <br/>- 2017<br/>- topla rakamlarını?<br/>- 10 <br/>- ekle 30'a <br/>- 40 yapar ve mhp'nin 40'ıncı yılı....
 - entry_name: |
@@ -179,11 +207,11 @@ data:
     - ulusoy batmış.<br/>+ hadi beee. tüh yazık olmuş..<br/>- resmi açıklama geldi. batan başka firmaymış.<br/>+ yazık yaa. çocukken binerdik.<br/>- olum batmamış dedik, başkası batmış ulusoy değil.<br/>+ neden hep iyiler gidiyor ya, keşke metro batsaydı.<br/>- lan mal. batmamış işte daha neyin derdindesin.<br/>+ öğrenciyken binerdik ya, yazık olmuş.<br/>- batmamış evladım batmamııııışşş.<br/>+ dikkat ettiniz mi bilmiyorum ama akp döneminde batmıştır.<br/>- ananı....
 - entry_name: |
     #pınarürünleriboykot
-  entry_id:  68984417
-  entry_writer: makine muhendisi
-  entry_fav_count: 28
+  entry_id:  68984033
+  entry_writer: goruntukaybi
+  entry_fav_count: 22
   entry_content: |
-    hala devam etmiyor bitti unutuldu diyenler var. <br/><br/>boykot kelimesi yüzünden galiba.<br/><br/>sevgili çomar, pınar markası bu <a class="b" href="/?q=boykot">boykot</a>a katılan insanlar için bitmiştir. <br/><br/>bitti yani bizim için, öyle bir marka yok artık. vazgeçilmez mi zannediyorsunuz sikimsonik bir markayı anlamadım ki?<br/><br/>ürünlerin muadili dünya kadar marka var. biz ordayız, bekleriz.
+    (bkz: <a class="b" href="/?q=no+pinar+no+cry">no pinar no cry</a>)
 - entry_name: |
     öğretmen kalitesinin artması için çözüm önerileri
   entry_id:  68983642
@@ -199,13 +227,6 @@ data:
   entry_content: |
     sevgili çok kavas valimiz, kararname ile merkeze alınmış. <br/>ne denli tüm sakarya olarak üzgünüz anlatamam. <br/>sakarya sizi unutmayacak sayın! valim. <br/>kış geliyor, dikkat edin de üşütmeyin ankara'larda.<br/>edit: sabahtan beri yatağımda dört dönüyorum, kendimi duvardan duvara vuruyorum üzüntüden. :)
 - entry_name: |
-    trt world'ün istanbul'da ramazan hoşgörüsü haberi
-  entry_id:  68985254
-  entry_writer: unfug
-  entry_fav_count: 15
-  entry_content: |
-    ulan sen kimsin bana hoşgörü göstereceksin dingil! ülkedeki hoşgörü ortamını bir dinin emrini uygulamayanları göstererek verebileceklerini sanıyorlar. hoşgörü göstermesen ne olacak? beşiktaşta seni rakı şişesinde turşu yaparlar haberin yok. ben de açayım kameramı gidip fatih'i çekeyim "o kadar bilimsel gerçeğe rağmen bakın burada hala müslüman olanlar, kara çarşafa kapananlar, tarikatlerden medet umanlar var ve biz onlara hoşgörü gösteriyoruz" diye haber yapayım. siz kimsiniz sikikler.
-- entry_name: |
     şekeri bırakmak
   entry_id:  68970282
   entry_writer: fornox
@@ -213,19 +234,19 @@ data:
   entry_content: |
     3 ay önce sigarayı bıraktım; şimdi şekeri bırakıyorum...hatta şeker değil karbonhidratı...15 yıl önce de kolayı bırakmıştım...tabii arada bir dolu hastalıklı ilişkiyi de bıraktım...<br/>tamam iyi güzel de ; onu bırak bunu bırak, neye tutunacağız biz aq?! başarılı ama mutsuz hissediyorum ben sözlük...boşlukta sallanıyor gibiyim.
 - entry_name: |
+    ilginç semt isimleri
+  entry_id:  68989234
+  entry_writer: elektrolitik kondansator
+  entry_fav_count: 11
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ba%c5%9f%c4%b1b%c3%bcy%c3%bck">başıbüyük</a>)
+- entry_name: |
     dünya güzellerim
   entry_id:  68988166
   entry_writer: iki ucu keskin bicak
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     seyfi dursunoglu huysuz virjin olarak katilsa bombastik olabilecek program
-- entry_name: |
-    ankaralı turgut
-  entry_id:  68977770
-  entry_writer: powersurge
-  entry_fav_count: 8
-  entry_content: |
-    hani hiç entellik yapmayacağım müziğiyle ilgili. ne yaptığını biliyorum, dinlemedim, dinlemem de.<br/><br/>ancak ankaralı turgut dendiğinde benim aklıma hep okuduğum <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/10808288" title="https://eksisozluk.com/entry/10808288">şu</a> eski entry gelirdi. o yüzden uzaktan uzaktan bir sempati beslerdim. bugün de <a rel="nofollow noopener" class="url" target="_blank" href="http://www.birgun.net/haber-detay/adalet-isteyenler-cogaliyor-165896.html" title="http://www.birgun.net/haber-detay/adalet-isteyenler-cogaliyor-165896.html">şu</a> habere rastladım.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>“adalet hepimize lazım. birilerine adalet var da birilerine yoksa o, adalet değil. biz 80 milyon olarak hepimiz adaletin eşit şekilde olmasını istiyoruz. ben de bu yürüyüşe adalet için geldim. her konuda, adalet için destekliyorum ben bu insanları. kendilerine yonttukları bu adalet, bir gün gelecek onlara da lazım olacak. bir kişiye adalet olmaz, 80 milyona adalet olur. onun için ben, adaleti desteklemek için buradayım. ama sanatçılardan beklenen destek yok. sanatçı görünümünde olan yalakalar var. parası olanın yanında yer alan sanatçılar. bugün o sanatçıların burada olmasını istiyoruz biz. çünkü adalet hepimize lazım. bir gün gelecek, onlara da lazım olacak. onun için biz, kendimiz için değil, sadece bir kişi için değil, hepimiz için adalet istiyoruz.”<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ne diyeyim, kendine solcu diyen bağzı ünlüler utansın.
 - entry_name: |
     ekşi itiraf
   entry_id:  68973741
@@ -241,12 +262,19 @@ data:
   entry_content: |
     feminist facebook gruplarında zafer kazandık edasıyla paylaşılan haber. erkeklerin sıçtığı tuvalete hangi geri zekalı girmek ister ki?<br/><br/>not: erkek
 - entry_name: |
-    los angeles lakers
-  entry_id:  68971804
-  entry_writer: mvpatakan
+    20 haziran 2017 yalova kamil koç taciz rezaleti
+  entry_id:  68988918
+  entry_writer: musculusflexorishallucislongi
   entry_fav_count: 6
   entry_content: |
-    nba draftleri hakikaten çok fazla sürpriz içeriyor.<br/><br/>mesela 2014 draftından sırasıyla ne wiggins, ne jabari, ne embiid, ne de <a class="b" href="/?q=aaron+gordon">aaron gordon</a> süperstar sınıfına erişemediler.<br/><br/>2013 den çıkan ve süperstar diyebileceğimiz isimler ise giannis 15inci sıradan, <a class="b" href="/?q=rudy+gobert">rudy gobert</a> ise 27.sıradan seçildiler. <br/><br/>2012 de daha nba e gelmeden abd milli takımına seçilen <a class="b" href="/?q=anthony+davis">anthony davis</a> i çıkartırsak en üst düzeyde bir tek <a class="b" href="/?q=draymond+green">draymond green</a> var ki o da 35. sıra. <br/>sırasıyla kidd-gilchrist, bradley beal ve dion waters şu için iyi oynasalar da bir takımı nba de zirveye oynatacak ana parça değiller. (gerçi beal bireysel olarak her sene üstüne koyuyor)<br/><br/>o yüzden lakers kobe sonrası o çok ihtiyaç duyduğu yıldıza bir an önce kavuşmalı. clarkson, randle ve deng bence çok iyi yan parçalar ama işte russell ve ingram ana parça olma sinyali pek vermediler. ikisi de gencecik olduğu için performansları tabii ki yükselebilir. o ayrı bir mevzu. russell'ı yollamaları bence isabet olmuş.<br/><br/>önemli olan 2 ya da 3 sene sonra ne olacağı. <a class="b" href="/?q=corey+brewer">corey brewer</a> ın 7.5, <a class="b" href="/?q=tarik+black">tarik black</a> in 6.5 ve <a class="b" href="/?q=nick+young">nick young</a> ın 5.5 milyon dolarlık sözleşmeleri seneye bitiyor. bir tek 33 yaşında 18 milyon dolar alacak olan deng kalacak göze batan.<br/><br/>biraz fantezi olacak ama ben olsam <a class="b" href="/?q=giannis+antetokounmpo">giannis antetokounmpo</a> ya da porzings e salça olurdum. belki lebron kadar değil ama ona yaklaşacak derece domine edebilecek genç olarak bir tek ikisi var bence. yanına da george ya da lebron koydun mu gelsin neşeli <a class="b" href="/?q=jack+nicholson">jack nicholson</a> röportajları gitsin saha kenarında victoria secrets top modelleri.
+    kimseyi suçlamıyorum yanlış anlaşılmasın ama şunu anlamıyorum. <br/>bu adamın bu kadar uzun süre bu kadar şeyi anlatmasına neden izin veriliyor. sonuçta dağ başında değilsin otogarda falansın insanlar gelip gidiyor. <br/>"kes sesini terbiyesiz" diyip çıkamıyor musun ? bu kadar şeyi dinlemek zorunda mısın. kalk adamı döv falan demiyorum. hiç bişey yapamadın. kalk terk et orayı değil mi ?
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  68972314
+  entry_writer: unzilel
+  entry_fav_count: 4
+  entry_content: |
+    bu gece beni sevmedigini bilerek uyuyacagim...
 - entry_name: |
     uyumaya izin vermeyen ses
   entry_id:  68988338
@@ -255,19 +283,19 @@ data:
   entry_content: |
     şu an oturduğum eve taşınmadan önce bir evde oturuyordum ki duvarları resmen kağıttandı bence. ve uyuduğum odanın yan tarafında çorumlu bir aile oturuyordu. hani al incele bildiğin deli skeçler çıkardı. gözlerimi tam kapatıyorum ki duvara güm güm yatak sesi. abi o nasıl bir sekstir? sanki güreşiyorlar. bir gün abla aynen şu cümleyi kurdu: "aşğım vur aşğım finerbahce aşğııııım" ohaa artık dedim yani. adamı fenerbahçe diyerek kudurtuyor. hayır korkum şu ki, bizim eve yatakla birlikte gireceklerdi yani neredeyse. inanın abartmıyorum sırf onlar yüzünden ev değiştirdik.
 - entry_name: |
-    ilginç semt isimleri
-  entry_id:  68989234
-  entry_writer: elektrolitik kondansator
+    dünyanın en iyi 10 tezahüratı
+  entry_id:  68985071
+  entry_writer: besyaprakliyonca
   entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=ba%c5%9f%c4%b1b%c3%bcy%c3%bck">başıbüyük</a>)
+    buraların en büyüğü o bir başka<br/><a class="b" href="/?q=bugs+bunny">bugs bunny</a> bugs bunny çok yaşa.<br/><br/>bunun üzerine tanımam, bir de tezahüratı kendisinin yapıp tempoya sokması daha ayrı bir konu
 - entry_name: |
-    20 haziran 2017 yalova kamil koç taciz rezaleti
-  entry_id:  68988918
-  entry_writer: musculusflexorishallucislongi
-  entry_fav_count: 3
+    sözlük yazarlarının saat markaları
+  entry_id:  68970293
+  entry_writer: eternel
+  entry_fav_count: 2
   entry_content: |
-    kimseyi suçlamıyorum yanlış anlaşılmasın ama şunu anlamıyorum. <br/>bu adamın bu kadar uzun süre bu kadar şeyi anlatmasına neden izin veriliyor. sonuçta dağ başında değilsin otogarda falansın insanlar gelip gidiyor. <br/>"kes sesini terbiyesiz" diyip çıkamıyor musun ? bu kadar şeyi dinlemek zorunda mısın. kalk adamı döv falan demiyorum. hiç bişey yapamadın. kalk terk et orayı değil mi ?
+    (bkz: <a class="b" href="/?q=diesel">diesel</a>)<br/>(bkz: <a class="b" href="/?q=escape">escape</a>)<br/>(bkz: <a class="b" href="/?q=tommy+hilfiger">tommy hilfiger</a>)<br/>(bkz: <a class="b" href="/?q=fossil">fossil</a>)<br/><br/>rabbim siyasete girmeyi nasip eder de altına bir de <a class="b" href="/?q=patek+phillippe">patek phillippe</a> yazmak kısmet olur inşallah elhamdülillah.
 - entry_name: |
     ekşi sözlük iş ağı
   entry_id:  68979274
@@ -276,47 +304,33 @@ data:
   entry_content: |
     bir süredir takip ettiğim ve gözlemlediğim kadarı ile bölünmesi gereken başlık. <br/>canı sıkılan, tatil parası biriktirmeye çalışan da buraya yazıyor, tecrübeli/tecrübesiz iş güç sahibi yazarlar da. bu da başlığı sadece iş arayanların birbirini okuduğu bir platform haline getiriyor. eleman alacak pozisyonda olan adamın buradan adam seçecek zamanı yoktur.
 - entry_name: |
-    dünyanın en iyi 10 tezahüratı
-  entry_id:  68985071
-  entry_writer: besyaprakliyonca
-  entry_fav_count: 2
-  entry_content: |
-    buraların en büyüğü o bir başka<br/><a class="b" href="/?q=bugs+bunny">bugs bunny</a> bugs bunny çok yaşa.<br/><br/>bunun üzerine tanımam, bir de tezahüratı kendisinin yapıp tempoya sokması daha ayrı bir konu
-- entry_name: |
-    6 kelimelik hikayeler
-  entry_id:  68971105
-  entry_writer: sarki soylemek ne guzel
-  entry_fav_count: 2
-  entry_content: |
-    ''onu yaşatan, öldüğünde hatırlayamayacağı bir hatıraydı.''<br/><br/>çok sevdiğim bir anime karakterinden<sup class="ab"><a title="(bkz: mikasa ackerman)" href="/?q=mikasa+ackerman" data-query="mikasa ackerman">*</a></sup> fazlasıyla ilham aldım.
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  68987866
-  entry_writer: sonsuzluk ve bir gun
-  entry_fav_count: 1
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=_Oyn-4U8utQ">https://m.youtube.com/watch?v=_oyn-4u8utq</a><br/><br/>en sevdiklerimden biri.
-- entry_name: |
     kim milyoner olmak ister
-  entry_id:  68989815
-  entry_writer: tungatar
+  entry_id:  68990076
+  entry_writer: regrettin
   entry_fav_count: 1
   entry_content: |
-    tarihin cilvesi olarak aşırı hayvan sever arkadaş tek hayvan olan seçeneği seçmeyerek elenmiştir.
+    bu akli dengesi yerinde olmayan kadına kim doktora bursu verdi kim profesör yaptı aman allahım. adı ne acaba bunun.
 - entry_name: |
-    ketzerisch
-  entry_id:  68977618
-  entry_writer: yarasiz yuz
-  entry_fav_count: 1
+    reddedilmesine rağmen uğraşmaya devam eden erkek
+  entry_id:  68990280
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 0
   entry_content: |
-    göz kanatma yeteneğine sahip yazar.
+    aşk abdest almak gibidir, bozulduğunda yenisini almak gerekiyor. bozulmuş aşkta ısrar insanı zehirler.
 - entry_name: |
-    better call saul
-  entry_id:  68979506
-  entry_writer: bela tarr
-  entry_fav_count: 1
+    meral akşener'in partisine isim bulalım kampanyası
+  entry_id:  68987752
+  entry_writer: barbar savasci
+  entry_fav_count: 0
   entry_content: |
-    abi allah aşkına howard'ı şeytan yaptınız koydunuz. adam o chuck denen ruh hastasına uzun süre yine iyi katlandı, olması gerektiği gibi de emekliliği düşünmesi gerektiğini söyledi çünkü adam kendi kurduğu firmaya zarar vermeye başlamıştı. ha egoist orospu çocuğu ne yaptı aslında her şeyin farkında olmasına rağmen tuttu şirketi dava etmekle tehdit etti, bir nevi kendi kurduğu şirketi kendi elleriyle batırıp o kadar çalışanın da ekmeğinden olmasını istedi. howard da bu durumda chuck'ın tazminatını kendi cebinden - en azından bir kısmını - ödeyip siktir git artık amın oğlu dedi. tabii chuck beyimiz onca yaşananlardan sonra bu son siktiri de kaldıramayıp egoist bir orospu evladı gibi intiharı seçti. yani şu götoşa bile sırf kendini öldürdü diye üzüntü duyup methiyeler düzmeniz bence anlamsız.
+    (bkz: <a class="b" href="/?q=beklenen+espirinin+bir+t%c3%bcrl%c3%bc+gelmemesi+partisi">beklenen espirinin bir türlü gelmemesi partisi</a>)
+- entry_name: |
+    fi
+  entry_id:  68973879
+  entry_writer: vncc
+  entry_fav_count: 0
+  entry_content: |
+    saatte minimum 150 km hızla giderken frene abanıp direksiyon kırıldığında sadece 2-3 spin atıp durabilen aracı görmemizi sağlayan dizi. aynı golfle kirpiden kaçarken 17 takla atan arkadaşım var ulan benim yalancı pezevenkler böyle viral mi olur
 - entry_name: |
     eski fotoğraflara bakarken hissedilenler
   entry_id:  68988635
@@ -324,13 +338,6 @@ data:
   entry_fav_count: 0
   entry_content: |
     huzur.<br/><br/>eski güzel günlerimin beni getirdiği güzel bugünden bakınca o fotoğraflara, duyduğum his.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  68972496
-  entry_writer: yapaque
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=a%c3%a7%c4%b1m+ben+a%c5%9fc%c4%b1+sevgili+ar%c4%b1yorum+xd">açım ben aşcı sevgili arıyorum xd</a>)
 - entry_name: |
     ekşici kızların espri seviyeleri
   entry_id:  68989565
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     korkak popüler bir halta yaramaz genç sanatçı bozuntularına inat ustalar iştirak etmekte yürüyüşe. yazıklar olsun götünü kaldırmayan çakma muhaliflere.
-- entry_name: |
-    10-15 yerinden bıçakladım bıçak kolay girip çıktı
-  entry_id:  68988496
-  entry_writer: beni bana vermeyen beni neyleyim
-  entry_fav_count: 0
-  entry_content: |
-    türkiye'de adaletin sadece bir parti ismi olduğunu gösteren cümle.
 ---
