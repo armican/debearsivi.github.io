@@ -6,42 +6,42 @@ data:
     edgar davids
   entry_id:  69038813
   entry_writer: youth gone wild
-  entry_fav_count: 412
+  entry_fav_count: 419
   entry_content: |
     bu adam yüzünden mahalleye top oynamaya havuz gözlüğü takıp gelen vardı lan. viledanın ucunu boyayıp kafasına takmaya çalışırken annesinden çok pis dayak yemişti hatta. <br/><br/>olm gürkan bunu okuyorsan cidden çok büyük malmışsın çocukken lfsdjglfjgdf
-- entry_name: |
-    15 temmuz özel anma programı
-  entry_id:  69038292
-  entry_writer: whovian1571
-  entry_fav_count: 326
-  entry_content: |
-    tekrar ve tekrar söylüyorum. tarih on yıllar sonra asıl değerini kazanır. eğer bir sene önce yaşanan bir olayın üzerinden prim yapmaya çalışıyorsanız ve biz tarih yazdık diyorsanız siz sahtecilik yapıyorsunuz. bırakın yıllar göstersin o gün aslında ne olduğunu. haklıyı ve haksızı. gerçeği ve yalanı.
 - entry_name: |
     hdp'nin büyük adalet yürüyüşüne katılma kararı
   entry_id:  69043557
   entry_writer: sud
-  entry_fav_count: 318
+  entry_fav_count: 339
   entry_content: |
     maalesef pek çok insanın adalet yürüyüşüne olan bakış açısını olumsuz yönde değiştirecek bir hamle olacaktır. adaletsizliğin sebebi olan kesimin ekmeğine yağ sürmekten başka işe yaramaz muhtemelen. <br/>malum kişiler, yürüyüşün sebebine değil, kimlerin yan yana yürüdüğüne dikkat çekmeye çalışacakları için bu katılımdan da nemalanacaklar ve rüzgarı arkalarına alacaklardır.<br/>olmamasını dilediğim destektir.
+- entry_name: |
+    15 temmuz özel anma programı
+  entry_id:  69038292
+  entry_writer: whovian1571
+  entry_fav_count: 331
+  entry_content: |
+    tekrar ve tekrar söylüyorum. tarih on yıllar sonra asıl değerini kazanır. eğer bir sene önce yaşanan bir olayın üzerinden prim yapmaya çalışıyorsanız ve biz tarih yazdık diyorsanız siz sahtecilik yapıyorsunuz. bırakın yıllar göstersin o gün aslında ne olduğunu. haklıyı ve haksızı. gerçeği ve yalanı.
 - entry_name: |
     satranç milli takımımızın efsane performansı
   entry_id:  69040792
   entry_writer: corcolos
-  entry_fav_count: 276
+  entry_fav_count: 277
   entry_content: |
     maalesef yeterince duyulmayan gurur verici performanstır. <br/><br/>rusyada oynanan dünya kulüpler satranç şampiyonasında henüz mağlubiyeti olmayan millilerimiz dereceye oynuyor.<br/><br/>ukrayna, rusya, çin, hindistan gibi her biri favori takımlara karşı kaybetmeden tarihindeki en iyi performansı gösteriyor.<br/><br/>şu anda amerikaya karşı kıyasıya bir mücadele var.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://chess24.com/en/watch/live-tournaments/world-team-championship-2017/7/2/3" title="https://chess24.com/en/watch/live-tournaments/world-team-championship-2017/7/2/3">https://chess24.com/…d-team-championship-2017/7/2/3</a>
 - entry_name: |
     küçük kıza tuğlayla vurup tacizden serbest kalmak
   entry_id:  69038678
   entry_writer: tanriparcacigi
-  entry_fav_count: 247
+  entry_fav_count: 249
   entry_content: |
     kızın kafasına tuğla ile değil parke taşıyla vuruyor orospunun çocuğu. yerde 3-4 kilo ağırlığında olan taştan bahsediyoruz. 9 yaşındaki çocuktan bahsediyoruz,ne suçu olabilir bu sabinin. bu olay adam öldürmeye teşebbüs değil de nedir arkadaş. nasıl serbest kalır, adaletinizi sikiyim. <br/>şort tahrik etti dediniz tamam, canım sıkıldı ateş ettim dediniz tamam, anlık refleks ile vurdum dediniz tamam, bu videodaki adam ne dedi de serbest kaldı? bu orospunun çocuğu yaşasamaya hakkı var mı?<br/>devlet artık diyor ki ben adaleti sağlayamıyorum, gelin siz sağlayın artık.<br/><br/>edit: (bkz: <a class="b" href="/?q=imla">imla</a>) videoyu izledikten sonra elim ayağım titrer halde bir hışımla yazdım, entryde imla hataları düzeltilmiştir.
 - entry_name: |
     25 haziran 2017 lgbt onur yürüyüşü
   entry_id:  69033808
   entry_writer: mrtcmn
-  entry_fav_count: 234
+  entry_fav_count: 235
   entry_content: |
     bir adet andavalin ulkenin seriat ile yonetildigini sanarak, yuruyuse valiligi arayarak engel olmamizi istedigi yuruyustur.
 - entry_name: |
@@ -62,14 +62,14 @@ data:
     24 haziran 2017 etstur rezaleti
   entry_id:  69040839
   entry_writer: kent sakini
-  entry_fav_count: 150
+  entry_fav_count: 152
   entry_content: |
     ortada rezalet göremediğim olaylar bütünü. bir etstur çalışanının dikkatsizliği ve sizin sorumsuzluğunuzdan öte bir durum göremiyorum. tatil rezervasyonunu onaylamak için o zarfa konan belgeler tek tek müşteriye imzalatılır, keşke bir okumayı ve kontrol etmeyi deneseymişsiniz. aynı zamanda her ne kadar fazla bahsetmemeye çalışmış olsanız da anlaşıldığı kadarıyla tüm otellerin dolu olduğu bayram döneminde size bir başka otel ayarlamışlar.<br/><br/>rezalet puanım 1/10
 - entry_name: |
     9 yaşındaki kızın kafasında parke taşı kıran kişi
   entry_id:  69038554
   entry_writer: day zero
-  entry_fav_count: 133
+  entry_fav_count: 135
   entry_content: |
     adli kontrol şartı ile serbest bırakılmıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/767553/Erzurum_dan_sonra_Samsun__Kucuk_kiza_parke_tasiyla_vurdu__tacizden_gozaltina_alinip_serbest_birakildi.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/767553/Erzurum_dan_sonra_Samsun__Kucuk_kiza_parke_tasiyla_vurdu__tacizden_gozaltina_alinip_serbest_birakildi.html">olay anının videosu</a><br/><br/>samsun'da, 33 yaşındaki osman ç., 9 yaşındaki a.m.a. isimli kızın kafasına parke taşıyla vurup kaçtı. korkunç olay güvenlik kamerasına saniye saniye yansıdı. olayın ardından soruşturma başlatan polis, saldırganı cinsel tacizden yakalayıp gözaltına aldı. ifadesi alınan saldırgan serbest bırakıldı.<br/><br/>erzurum'da evinin perceresinden havalı tabancayla ateş ederek sokakta oyun oynayan 4 yaşındaki sümeyye boz ile 6 yaşındaki ikra kaya'yı sırtından vuran 27 yaşındaki ömer murat akçay'ın ardından benzer bir durum da samsun'da yaşandı. iddiaya göre atakum ilçesi'nde inşaat işçisi osman ç., evinin önünde arkadaşlarıyla bisiklet süren 9 yaşındaki a.m.a. isimli kıza saldırdı. eliyle arkasına gizlediği büyük bir parke taşıyla yavaşca gelen osman ç., arkası dönük küçük kızın başına sert bir şekilde vurdu. biranda yere yığılan kız kendinden geçti. saldırgan ise olay yerinden kaçtı. çevredekilerin ihbarı üzerine bölgeye sağlık ekipleri ve polis sevk edildi.<br/><br/>yaşanan bu olay bölgedeki bir güvenlik kamerasına da saniye saniye yansıdı. ambulansla samsun eğitim ve araştırma hastanesi'ne kaldırılarak tedavi altına alındı. sağlık durumu iyi olan a.m.a. bir süre hastanede tedavi gördükten sonra taburcu edildi.<br/><br/>tacizden gözaltına alındı, serbest bırakıldı<br/><br/>olayın ardından kaçan şüphelinin yakalanması için polis soruşturma başlattı. güvenlik kamerası görüntüleri incelendi. bu olaydan 2 ay sonra yine atakum ilçesi'nde otobüs durağında otobüs bekleyen bir kıza tacizde bulunan osman ç., vatandaşlar tarafından polise teslim edildi. polis tarafından gözaltına alınarak merkeze götürülen şüphelinin 9 yaşındaki a.m.a.'yı darp eden kişi olduğu güvenlik kamerası görüntülerinden tespit edildi. küçük kız ve ailesi merkeze çağrılarak teşhis yapıldı.<br/><br/>güvenlik kamerasındaki kişinin kendisi olmadığını savunan osman ç., böyle bir olayı hatırlamadığını söyledi. emniyetteki işlemlerinin ardından adliyeye sevk edilen osman ç., her iki olay nedeniyle çıkarıldığı nöbetçi mahkeme tarafından adli kontrolle serbest bırakıldı.<br/><br/>(bkz: <a class="b" href="/?q=adaletini+sikeyim+t%c3%bcrkiyem">adaletini sikeyim türkiyem</a>)
 - entry_name: |
@@ -80,13 +80,6 @@ data:
   entry_content: |
     - adın ne?...<br/>- <a class="b" href="/?q=sabire+meltem+banko">sabire meltem banko</a>.<br/>- ne güzel, anlamı ne?<br/>- barolar birliğine düşen ilk gaz tanesi...
 - entry_name: |
-    gece yatmak bilmemek sabah kalkmak bilmemek
-  entry_id:  69033879
-  entry_writer: girdaptaki
-  entry_fav_count: 106
-  entry_content: |
-    yaşam şeklim. çok seviyorum ama hayat buna pek müsaade etmiyor ne yazık ki. bütün dünya düzeni gündüze göre ayarlanmış durumda maalesef. elimde olsaydı eğer, sadece geceleri yaşardım. gündüzleri ise uykuyla öldürürdüm. güneş batmadan yaşama dahil olmazdım. <br/><br/>kendimi uykusuz bırakmaya mecbur olmadığım halde geceleri inatla oturmak istiyorum, çocukluğumdan beri böyleyim ve annemden-babamdan bu konuda dünyanın azarını işite işite büyüdüm. evet, sağlığa çok zararlı bir huy bu ama yine de sabahları uyanmaktan nefret ediyorum. hava karardıktan sonra kendimi çok daha iyi hissediyorum niyeyse.
-- entry_name: |
     drone için türkçe karşılık önerileri
   entry_id:  69031492
   entry_writer: mahmut adinda bir balik
@@ -94,10 +87,17 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=recep+tayyip+erdrone">recep tayyip erdrone</a>)
 - entry_name: |
+    eurovision tarihinin en iyi şarkısı
+  entry_id:  69045246
+  entry_writer: strike the gold
+  entry_fav_count: 79
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c5%9febnem+paker">şebnem paker</a>) (bkz: <a class="b" href="/?q=dinle">dinle</a>)<br/><br/>not: milliyetçi değilim.
+- entry_name: |
     taciz zanlılarını serbest bırakan hakimler
   entry_id:  69041789
   entry_writer: bay x
-  entry_fav_count: 75
+  entry_fav_count: 78
   entry_content: |
     birisi bu insanları, şu durumu izah etsin n'olur, türkçem bitti bu konuda. <br/><br/>tamam ispatla yükümlülük var suç isnadında ama 4-5 yıl geriye dönüp bakıyorum, adamı içerde tutmaya yetecek bir ton delil, şahit, görüntü var. akşama serbest. <br/><br/>bahsi geçen suç ne bileyim kazara birinin malına zarar verilmesi gibi bir şey değil ki sen en küçük acaba?da adamı salasın. <br/><br/>şu otöbüs minibüs olaylarının bile görüntüleri yeter diyorum, yetmiyor mu bi hukukçu açıklasın. kanuni düzenleme mi gerekiyor, vekillere yönelelim iletişime geçelim nedir yani? <br/><br/>her gün her gün bu ne lan?
 - entry_name: |
@@ -107,13 +107,6 @@ data:
   entry_fav_count: 75
   entry_content: |
     anlat dersin anlatmaz. içinde büyütür de büyütür. sonra da çok alakasız bir hikayeyle çıkıp gelir karşına. basit bir tatsızlığı fantastik bir gerilim haline getirmiştir çoktan...
-- entry_name: |
-    eurovision tarihinin en iyi şarkısı
-  entry_id:  69045246
-  entry_writer: strike the gold
-  entry_fav_count: 70
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c5%9febnem+paker">şebnem paker</a>) (bkz: <a class="b" href="/?q=dinle">dinle</a>)<br/><br/>not: milliyetçi değilim.
 - entry_name: |
     yazarların aldığı en fazla alkol miktarı
   entry_id:  69034576
@@ -139,30 +132,37 @@ data:
     şaka maka meltem banko'nun güzel olması
   entry_id:  69036063
   entry_writer: d e j i n
-  entry_fav_count: 49
+  entry_fav_count: 50
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%a7ingene+sar%c4%b1s%c4%b1">çingene sarısı</a>)
-- entry_name: |
-    lionel messi
-  entry_id:  69032517
-  entry_writer: ekyana
-  entry_fav_count: 45
-  entry_content: |
-    bunu daha öncede yazdım yine yazıyorum;<br/>dünya tarihinin gelmiş geçmiş en iyi oyuncusu.<br/>ronaldinho kadar rahat çalım atar<br/>henry kadar iyi plase keser<br/>pirlo kadar iyi geriden oyun kurar<br/>eto'o kadar depar atar<br/>zidane kadar iyi oyunu yönetir ara pas atar<br/>ronaldo kadar atiktir, çeviktir, çabuk ivmelenir<br/>cristiano ronaldo kadar gol atar<br/>figo kadar asist yapar<br/>rivaldo kadar ceza sahası civarında tehlikeli şut atar<br/>beckham kadar iyi free-kick atar<br/><br/>ve efsane 30 yaşında...
 - entry_name: |
     bir insanla ilişiği kesmek için yeter sebepler
   entry_id:  69037076
   entry_writer: sanat tarihi okudukta ne oldu
-  entry_fav_count: 45
+  entry_fav_count: 49
   entry_content: |
     iletişim ile ilgili sorunları olması. bunu kişiselleştirip sadece kendi canı istediğinde sizinle iletişim kuruyorsa ve aranızdaki paylaşım yalnızca bu seviyede kalıyorsa kaçın.
+- entry_name: |
+    lionel messi
+  entry_id:  69032517
+  entry_writer: ekyana
+  entry_fav_count: 46
+  entry_content: |
+    bunu daha öncede yazdım yine yazıyorum;<br/>dünya tarihinin gelmiş geçmiş en iyi oyuncusu.<br/>ronaldinho kadar rahat çalım atar<br/>henry kadar iyi plase keser<br/>pirlo kadar iyi geriden oyun kurar<br/>eto'o kadar depar atar<br/>zidane kadar iyi oyunu yönetir ara pas atar<br/>ronaldo kadar atiktir, çeviktir, çabuk ivmelenir<br/>cristiano ronaldo kadar gol atar<br/>figo kadar asist yapar<br/>rivaldo kadar ceza sahası civarında tehlikeli şut atar<br/>beckham kadar iyi free-kick atar<br/><br/>ve efsane 30 yaşında...
 - entry_name: |
     bihter ziyagil
   entry_id:  69032569
   entry_writer: sen bihter ziyagilsin aptallik etme
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     (bkz: <a class="b" href="/?q=unutursak+kalbimiz+kurusun">unutursak kalbimiz kurusun</a>)
+- entry_name: |
+    caner taslaman
+  entry_id:  69035206
+  entry_writer: alt epidermis
+  entry_fav_count: 38
+  entry_content: |
+    kendisini ölümüne savunan cahil, bilgisiz takipçileri olan şahıs.<br/><br/>mesaj olarak cevaplamadım hususi, çünkü aynı düşünceye sahip bir kitle var burada:<br/><br/>" tokyo ve oxford da doktora yapmis, harvard ve cambridge universitelerinde akademisyen olarak bulunmus birini elestiren eksi yazarlarinin cogu 2 yillik meslek yuksekokulu mezunu, durum o kadar vahim. comarlara bak sen. "<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://scholar.google.com.tr/scholar?hl=tr&amp;q=caner+taslaman&amp;btnG=&amp;lr=" title="https://scholar.google.com.tr/scholar?hl=tr&amp;q=caner+taslaman&amp;btnG=&amp;lr=">https://scholar.google.com.tr/…r taslaman&amp;btng=&amp;lr=</a><br/><br/>bir insanın nerelerde bulunduğunun bir önemi yoktur, bulunduğu yerde ne yaptığının bir önemi vardır.<br/><br/>al bak caner taslaman ne kadar ahım şahım bir akademisyen. ortalama bir türk tipi akedemisyenin makaleleri caner taslaman'dan daha fazla alıntılanıyor.<br/><br/>kendisini kıyasladığı celal şengör'ün makaleleri 250-1000 civarı atıf alırken caner taslaman'ın makalelerini sikine takan yok. <br/><br/>yazdığı kitaplara 10-20 atıf gelmiş hepsi o. makale anlamında 0 adam. <br/><br/>bu açıdan burada yazar olan akademisyen arkadaşların bile kafadan yarısı caner taslaman'dan daha saygın bir akademisyendir.<br/><br/>çomar da sen ve senin gibi ne konuştuğunu bilmeyen cahillerdir.
 - entry_name: |
     havalimanında suyun 5 lira olması
   entry_id:  69043354
@@ -174,7 +174,7 @@ data:
     türkiye'de evrimin yasaklanması
   entry_id:  69031053
   entry_writer: fourmi
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     (bkz: (<a class="b" href="/entry/69030250">#69030250</a>) )<br/><br/>asla bakınız verip, hedef göstererek entry girmem diye düşünürdüm ama ben bu kadar ileri derecede cehâlet görmedim. teori ve kanun arasındaki farkı bilmiyor ama kod yazacakmış. <br/><br/>meb müfredatına girebilmesi için öncelikli şartımız kanun olması imiş hem de newton kanunları gibi olması imiş. :) ilk önce şunu okuyunuz (bkz: (<a class="b" href="/entry/65913591">#65913591</a>) ) daha sonra kod yazmayı öğrenirsiniz. <br/><br/>kod yazmayı biliyorsanız da sakın yazmayın. zira kimseye yarar sağlayamayacağınız da pek açık.<br/><br/>editlemiş paşamız, ben de editleyeyim: darwin'in evrim teorisinden bahsetmiyoruz, evrim teorisinden bahsediyoruz. ayrıca darwin zamanın şartları içinde bunu söylemek zorunda bırakılmış olabilir. o günden bu güne defalarca, farklı şekilde kanıtlanmış bir şeyi artık inkar ediyorsanız, affedersiniz ama bi' sorununuz mevcuttur. "newton kanunları" ne kadar kesin ise evrim teorisi de kesindir. terim olarak evrim kanunu da vardır. dilerim bir gün zihniniz aydınlanır.<br/><br/>edit2: evrim teorisini halka dayatmayın yazan başka arkadaşlar da olmuş. sayın yazarlar, evrim teorisini dayatmıyoruz. en azından ben dayatmıyorum. ama gerçek budur. inanlara göre allah kesinlikle var mıdır? vardır. evrim teorisi allah'tan bile kesindir. daha nasıl açıklayalım bunu "allah aşkına"? değerlerle oynamak değil niyetim. inanan insana sonuna kadar saygım var ama bu kadar net olan bir şeyi daha nasıl anlatabilirim?
 - entry_name: |
@@ -192,40 +192,54 @@ data:
   entry_content: |
     yeterince ilgi görmeyen kampanya. <br/><br/>arkadaşlar bir çocuğun yarınları görebilmesi, önce emeklemeyi sonra yürümeyi öğrenmesi, okula gidebilmesi, sokakta saklambaç oynayabilmesi bu kampanyanın yeterince ilgi görmesine bağlı.<br/><br/>lütfen.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ozleozdemir/status/869919397703548929" title="https://twitter.com/ozleozdemir/status/869919397703548929">https://twitter.com/…emir/status/869919397703548929</a><br/><br/>********************<br/><br/>hesap numarası: tr950001500158007306025234<br/>valilik onayı: <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DC3E4SRXYAAUYK2.jpg:large" title="https://pbs.twimg.com/media/DC3E4SRXYAAUYK2.jpg:large">https://pbs.twimg.com/…ia/dc3e4srxyaauyk2.jpg:large</a><br/>duru'nun annesi özlem hanım'ın numarası: 05079687728<br/>toplamamız gereken para: 2 milyon lira.<br/><br/>arkadaşlar selamlar yine ben. sizlerin de büyük desteğiyle ece'ye umut oluyoruz kampanyasında gerekli olan paranın toplanması için emek verdik ve parayı topladık hatırlayacağınız gibi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/eceyeumutol/status/875782216734965760" title="https://twitter.com/eceyeumutol/status/875782216734965760">https://twitter.com/…utol/status/875782216734965760</a><br/><br/>bugün yine ece gibi sma hastası bir başka küçük arkadaşımıza yardımda bulunabilmek için sizlerleyim. <br/><br/>bu seferki kardeşimizin adı henüz 11 aylık olan duru. yardım kampanyası için açılan internet sitesi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/duruya-nefes-ol?recruiter=684991244&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=share_petition" title="https://www.change.org/p/duruya-nefes-ol?recruiter=684991244&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=share_petition">burada</a>. <br/><br/>iletişim için duru'nun annesi özlem hanım'ın numarası: 05079687728<br/>teyzesi: 05304625428<br/>halası: 05535938876<br/><br/>özlem hanım'ın twitter'ı: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ozleozdemir">https://twitter.com/ozleozdemir</a><br/><br/>not: benim ece ile olduğu gibi duru ile de herhangi bir tanışıklığım, akrabalığım ya da yakınlığım yok. ece twitter'da dolanırken karşıma çıkmıştı ve buraya taşımak istedim. duru'da ise farklı bir şekilde annesi özlem hanım bana tweet atıp yardımcı olmamı istedi ben de onun bu isteğini elbette ki geri çevirmeyerek buraya taşıdım. <br/><br/>hayırlara vesile olsun diyelim...
 - entry_name: |
-    okullarda mescit açılmasının zorunlu hale gelmesi
-  entry_id:  69046128
-  entry_writer: hadi git
-  entry_fav_count: 21
+    akp'nin 15 yılda çözdüğü sorunlar
+  entry_id:  69038446
+  entry_writer: tskitishvili
+  entry_fav_count: 26
   entry_content: |
-    eğitim yok ama mescit olsun, çok mantıklı bence. hatta okulları da kapatalım, camii neyimize yetmiyor.
+    utanmazlik.<br/><br/>artik kimse yedigi boktan utanmiyor akp sayesinde. onceden insan icine cikamama gibi seyler vardi artik yok. gercekten muthis bir degisim.
 - entry_name: |
-    caner taslaman
-  entry_id:  69035026
-  entry_writer: ufopilotu
-  entry_fav_count: 21
+    okullarda mescit açılmasının zorunlu hale gelmesi
+  entry_id:  69046189
+  entry_writer: charlie charleston
+  entry_fav_count: 24
   entry_content: |
-    "tokyo ve oxford da doktora yapmis, harvard ve cambridge universitelerinde akademisyen olarak bulunmus birini elestiren eksi yazarlarinin cogu 2 yillik meslek yuksekokulu mezunu, durum o kadar vahim. comarlara bak sen."<br/>şeklinde bir entry girmiş yazarımız.fakat unuttuğu iki konu mevcut.<br/>birincisi: biz caner taslaman'ı' eleştirmiyoruz.<br/>ikincisi: caner taslaman'ın akademik kariyeri, muhammed'in tanrı'dan mesaj alıp almadığını belirlemeye yetmiyor.nasıl ateist bilim adamlarına bakıp ateist olmuyorsak, müslüman bilim adamlarına bakıp müslüman olmuyoruz.gözünüzü kapatıp her şeye iman ederseniz, superman'ın, orumcek adam'ın, şirinler'in gerçek olduğuna inanabilirsiniz. ama sorgularsanız, din adı altında pazarlanan mefhumun yüceler yücesi ve bilge biri tarafından gönderilmediğini anlayabilirsiniz.
+    ihtiyaç falan değildir dingil dingil konuşmayın. sadece ideolojiktir
 - entry_name: |
     okullarda abdesthane ve mescitlerin zorunlu olması
   entry_id:  69037940
   entry_writer: ksanthos
-  entry_fav_count: 17
+  entry_fav_count: 24
   entry_content: |
     devami "okullarda zorunlu ibadet" olarak gelecek olan uygulama. ancak zorunlu kismi kanunla degil mahalle baskisiyla olacak. grup halinde toplasan ogrenciler, okul yonetimini de arkalarina alip "niye namaz kilmiyorsun" diye diger ogrencileri ezmeye baslayacak. bakin gorun! yetmez ama evetci naif salaklar da vakti zamaninda cumhuriyet gazetelerinin "tehlikenin farkinda misiniz" spotlariyla dalga geciyor. buyursunlar simdi de dalga gecsinler olanla, bitenle.
-- entry_name: |
-    koton
-  entry_id:  69045549
-  entry_writer: one punch man
-  entry_fav_count: 15
-  entry_content: |
-    lc waikiki ve defacto'dan farkı daha kaliteli ürünler bulunması ve bu ürünlerin daha şık olmasıdır.<br/><br/>seneler önce çıkarttıkları "cüneyt arkın koleksiyonu"nun farkından bahsetmeyeceğim bile.
 - entry_name: |
     matej mitrovic
   entry_id:  69039815
   entry_writer: ballitir
-  entry_fav_count: 14
+  entry_fav_count: 20
   entry_content: |
     lafa gelince takım çok yaşlanıyor, bir iki seneye batarız derler. milli olmuş genç oyuncu alınınca da hiçbir hatasına tahammül göstermezler. hemen yerin dibine gömerler. bizim türk taraftar mentalitesi ağır bir şekilde tutarsızlık içeriyor. bu futbol duayeni tavırlarınızın gram karşılığı yok beyninizde.
+- entry_name: |
+    koton
+  entry_id:  69045549
+  entry_writer: one punch man
+  entry_fav_count: 20
+  entry_content: |
+    lc waikiki ve defacto'dan farkı daha kaliteli ürünler bulunması ve bu ürünlerin daha şık olmasıdır.<br/><br/>seneler önce çıkarttıkları "cüneyt arkın koleksiyonu"nun farkından bahsetmeyeceğim bile.
+- entry_name: |
+    yalan haberde çığır açan türk spor gazeteleri
+  entry_id:  69039759
+  entry_writer: yklc
+  entry_fav_count: 12
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ffp">ffp</a>) en büyük darbeyi türk spor basını vurmuştur. yoksa şu an yıllarca söylenen ama daha henüz ortaya çıkmayan sponsor desteği ile yada başkanın gemileri yakması sonucu gene absürt bir sürü transfer haberi yazılıp, çiziliyordu.<br/>hiç unutmam 2000 yılının yaz ayı. beşiktaş'ın başına da (bkz: <a class="b" href="/?q=nevio+scala">nevio scala</a>) gelmiş. scala daha önce parma'yı çalıştırıp önemli işlere imza atmış bir adam. o sezonda parma'nın kadrosunda çok önemli isimler var. daha henüz o dönemler internet yeni o nedenle transfer haberlerini takip etmek için ya sabah gazetelere bakacaksın yada akşam spor haberlerine bakacaksın ki o da 2-3 dk sürüyor. star'da spor haberlerine bakıyorum. verilen haber şu; beşiktaş, nevio scala'nın eski takımı parma'dan hernan crespo ve lilian thuram'ı transfer ediyor. bir de sanki söylenen futbolcular sıradan basit adamlarmış gibi haberi verip geçtiler. bu adamlar gerçekte gelecek olsa tüm gün özel haberini yaparsın<br/>o sene söz konusu 2 futbolcudan thuram 41.5 miyon euro'ya juventus'a, crespo ise 55 milyon euro'ya lazio'ya gitti. bizim mali durum ise samsunpor'dan (bkz: <a class="b" href="/?q=erman+g%c3%bcra%c3%a7ar">erman güraçar</a>) ı alabilmek için takımın o dönem efsanesi (bkz: <a class="b" href="/?q=ertu%c4%9frul+sa%c4%9flam">ertuğrul sağlam</a>) ı takasla yollamak olmuştu.
+- entry_name: |
+    gittigidiyor'daki 971 bin liralık saat
+  entry_id:  69046472
+  entry_writer: strike the gold
+  entry_fav_count: 12
+  entry_content: |
+    (bkz: <a class="b" href="/?q=zafer+%c3%a7a%c4%9flayan">zafer çağlayan</a>) bunu beğendi.
 - entry_name: |
     evli biriyle çıkmak
   entry_id:  69036465
@@ -234,26 +248,26 @@ data:
   entry_content: |
     burada "biliyorsa orospudur" diyen erkeklerin tamamı, o fırsatı yakaladıkları an eşlerini, müstakbel eşlerini aldatır. ki fırsatı da kendileri yaratır. <br/><br/>biri hiç kimseye karşı sorumluluğu olmayan bekar ve de aşık bir kadın, diğeri sadakat sözünü daha verirken zaten tutmaya niyeti olmadığını bilen bir yavşak. kurban kim? cellat kim? <br/><br/>bi siktirin gidin de sizin bile inanmadığınız ikiyüzlü sahte ahlak değerlerinize başkalarını inandırmaya çalışın.. <br/><br/>ne evli erkekler gördüm, zaten yoktular..
 - entry_name: |
-    akp'nin 15 yılda çözdüğü sorunlar
-  entry_id:  69038445
-  entry_writer: zinaedenzidan
-  entry_fav_count: 11
-  entry_content: |
-    artık başörtülü bacıların üzerine, deri elbiseler giyip işeyemiyoruz.
-- entry_name: |
-    yalan haberde çığır açan türk spor gazeteleri
-  entry_id:  69039759
-  entry_writer: yklc
-  entry_fav_count: 10
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ffp">ffp</a>) en büyük darbeyi türk spor basını vurmuştur. yoksa şu an yıllarca söylenen ama daha henüz ortaya çıkmayan sponsor desteği ile yada başkanın gemileri yakması sonucu gene absürt bir sürü transfer haberi yazılıp, çiziliyordu.<br/>hiç unutmam 2000 yılının yaz ayı. beşiktaş'ın başına da (bkz: <a class="b" href="/?q=nevio+scala">nevio scala</a>) gelmiş. scala daha önce parma'yı çalıştırıp önemli işlere imza atmış bir adam. o sezonda parma'nın kadrosunda çok önemli isimler var. daha henüz o dönemler internet yeni o nedenle transfer haberlerini takip etmek için ya sabah gazetelere bakacaksın yada akşam spor haberlerine bakacaksın ki o da 2-3 dk sürüyor. star'da spor haberlerine bakıyorum. verilen haber şu; beşiktaş, nevio scala'nın eski takımı parma'dan hernan crespo ve lilian thuram'ı transfer ediyor. bir de sanki söylenen futbolcular sıradan basit adamlarmış gibi haberi verip geçtiler. bu adamlar gerçekte gelecek olsa tüm gün özel haberini yaparsın<br/>o sene söz konusu 2 futbolcudan thuram 41.5 miyon euro'ya juventus'a, crespo ise 55 milyon euro'ya lazio'ya gitti. bizim mali durum ise samsunpor'dan (bkz: <a class="b" href="/?q=erman+g%c3%bcra%c3%a7ar">erman güraçar</a>) ı alabilmek için takımın o dönem efsanesi (bkz: <a class="b" href="/?q=ertu%c4%9frul+sa%c4%9flam">ertuğrul sağlam</a>) ı takasla yollamak olmuştu.
-- entry_name: |
     yazarların paraları yetmediği için alamadığı şey
   entry_id:  69031779
   entry_writer: sekseveren
   entry_fav_count: 8
   entry_content: |
     kaç para lan bi 21 yaş?!
+- entry_name: |
+    tarkan
+  entry_id:  69036124
+  entry_writer: mr sherlock
+  entry_fav_count: 7
+  entry_content: |
+    insanlar şarkılarını dinleyip satın almıyor, şarkılarını dinlemek için satın alıyor. haliyle bu kadar çok seveni olan birinin çıkardığı albümün satışlarda zirveyi oynaması oldukça sıradan.<br/><br/>mesela j. k. rowling yeni kitap çıkarsa hemen bestseller olur. bu kitap iyi olduğu için değil daha önceki kitapları iyi olduğu içindir. <br/><br/>dolayısıyla çok satıyor diye albümüne iyi demek oldukça anlamsız.
+- entry_name: |
+    sözlükçülerin konuştuğu yabancı ünlüler
+  entry_id:  69044556
+  entry_writer: always good
+  entry_fav_count: 7
+  entry_content: |
+    yeni bir ünlü tespit ölçü birimi olarak: takipçi.<br/><br/>teşekkürler instagram/twitter.
 - entry_name: |
     iyi insan olmanın hiçbir işe yaramaması
   entry_id:  69038781
@@ -262,26 +276,26 @@ data:
   entry_content: |
     bir işe yarasın diye iyi insan olunmayacağı için çok da sorun olmayan durumdur.lakin gerçeklik payı da vardır iyi bir insansanız şu dünyada sadece sömürülür ve kandırılırsınız sonra insanların arkasından bakarken olsun canı sağolsun dersiniz.
 - entry_name: |
-    sözlükçülerin konuştuğu yabancı ünlüler
-  entry_id:  69044556
-  entry_writer: always good
-  entry_fav_count: 5
-  entry_content: |
-    yeni bir ünlü tespit ölçü birimi olarak: takipçi.<br/><br/>teşekkürler instagram/twitter.
-- entry_name: |
     steam summer sale 2017
   entry_id:  69038230
   entry_writer: i am cookie monsters nipple
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     lan oyunlarin cogu uc bes lira, hala torrent varken niye satin aliyorsunuz diyenler var.. 100-200 lira olur anlarim da bu kadar da karinca siken olmayin lan.
 - entry_name: |
-    vladimir putin'in yağmura rağmen duruşu
-  entry_id:  69034176
-  entry_writer: kenjataimu
-  entry_fav_count: 3
+    pepe
+  entry_id:  69037856
+  entry_writer: adet adet insan
+  entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=pr">pr</a>)
+    bir kişi daha "çizgi film karakterine bişey oldu sandım ehehe" yazarsa futbolu bırakacakmış.
+- entry_name: |
+    belki de bu dünya tek bir kişisinin cennetidir
+  entry_id:  69043215
+  entry_writer: oblomovlarin husnu
+  entry_fav_count: 5
+  entry_content: |
+    ciddi ciddi üzerine kafa yorulmaması gereken bir fantezi.
 - entry_name: |
     nuriye ve semih'in açlığına ses ver
   entry_id:  69032687
@@ -297,26 +311,12 @@ data:
   entry_content: |
     her insan birilerinin kendisine ilgi duymasından hoşlanır.<br/>istemesen bile, sana göre çirkinse veya kafa olarak uygun değilse bile bu durum egonu okşar.<br/>onu hem istemezsin hem ilgisi hoşuna gider.<br/>bunun erkek-kız ayrımı yok pek.<br/><br/>türkiye gibi erkeklerin belli bir kısmının yıllarca televizyondan, çevresinden, kültüründen öğrendiği arabesk duygularla yaşadığı ve yalnızlık duygusunu kendisine büyük bir dert edindiği bir yerde erkeklerin çoğu ufak dönüşlerde bile büyük ümitler içerisine girer, ondandır "güldü kesin hoşlanıyor" düşünceleri.<br/><br/>kızların çoğu da baskıcı ortamda büyüyüp, ahlaksızlığa potansiyel meyilli olarak görüldüğü için çevrede ve ailede bulamadığı sevgiyi ileride doyumsuz bir şekilde arıyor.<br/>bazı duyguların, hislerin, anlayışların ve "ben önemliyim " algısının çocuklukta bilince yerleşmesi gerekiyor maalesef.
 - entry_name: |
-    gittigidiyordaki 971.000 00 liralık saat
-  entry_id:  69046472
-  entry_writer: strike the gold
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=zafer+%c3%a7a%c4%9flayan">zafer çağlayan</a>) bunu beğendi.
-- entry_name: |
     ekşi itiraf
   entry_id:  69032004
   entry_writer: sydney carton
   entry_fav_count: 3
   entry_content: |
     şu başlıkta şukela tuşuna basayım dedim, hangi itiraflar beğenilmiş merak ettim.<br/>millet yaptıkları yardımları ve akabinde çektikleri rahat uykuyu yazıp durmuş ve beğeni rekorları kırılmış.<br/><br/>olm, yapılan iyilik söylenir mi lan?<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/QAqlbg.jpg">http://i.hizliresim.com/qaqlbg.jpg</a>
-- entry_name: |
-    belki de bu dünya tek bir kişisinin cennetidir
-  entry_id:  69043215
-  entry_writer: oblomovlarin husnu
-  entry_fav_count: 3
-  entry_content: |
-    ciddi ciddi üzerine kafa yorulmaması gereken bir fantezi.
 - entry_name: |
     mersin akbelen mezarlık rezaleti
   entry_id:  69037007
