@@ -6,56 +6,56 @@ data:
     25 haziran 2017 erdoğan'ın hastaneye kaldırılması
   entry_id:  69053389
   entry_writer: oliver wendell holmes
-  entry_fav_count: 1030
+  entry_fav_count: 1031
   entry_content: |
     (bkz: <a class="b" href="/?q=ay+olabilir+mi+%c3%b6yle+bir+%c5%9fey+l%c3%bctfen+olsun+%c3%a7%c3%bcnk%c3%bc">ay olabilir mi öyle bir şey lütfen olsun çünkü</a>)
 - entry_name: |
     ateistlerin bayram tatili yapmasındaki saçmalık
   entry_id:  69052184
   entry_writer: gelecegi olmayan adam
-  entry_fav_count: 532
+  entry_fav_count: 535
   entry_content: |
     (bkz: <a class="b" href="/?q=ateistin+vergisinin+diyanete+gitmesindeki+sa%c3%a7mal%c4%b1k">ateistin vergisinin diyanete gitmesindeki saçmalık</a>)<br/><br/>edit : diyanet vergisi nedir diye soruldu, havuzda toplanan paranın diyanete aktarılan kısmıdır. bu havuza giren paranın içinde şans oyunları, alkol ve tütün vergileri de dahildir. karakter kısıtlaması nedeniyle öyle yazıldı.
 - entry_name: |
     instagram
   entry_id:  69048761
   entry_writer: renksiz hayat
-  entry_fav_count: 478
+  entry_fav_count: 490
   entry_content: |
     herkes çok mutlu<br/>herkes tatilde<br/>herkes zengin<br/>herkes kocişiyle mutlu
 - entry_name: |
     cem yılmaz'ın menemen ısmarlaması
   entry_id:  69053239
   entry_writer: zlipknot
-  entry_fav_count: 395
+  entry_fav_count: 400
   entry_content: |
     geçtiğimiz aylarda bir gece, saat 11 suları.. canım nasıl sıkılmış.. ne yapsam etsem derken o ceketi gördüm. ne kadar severek aldıysam da pek giyecek fırsat bulamamıştım, o da meğer bu geceyi bekliyormuş.. hemen kalktım, giydim güzelce, aynada baktım kendime, saçlarımı attım geriye, "selam" dedim aynadaki yansımama..<br/><br/>gerizekalı bir mutluluk yayılmıştı bünyeme, ceket de mutluydu belli ki, sıkıca sarmıştı bedenimi. "kilo mu aldım yahu ben" demeye kalmadan kombinimi tamamlamıştım. akşam vakti durup dururken ayakkabısına kadar giyenen bir adam olduğumu farkedip daha fazla garipleşmeden kendimi dışarı atmam gerektiğini farkettim. ben adım attıkça sanki insanlar bana bakıyordu, onlar baktıkça ben daha bir uzuyor, daha bir sempatik oluyor, neredeyse herkese "selam" diyecek bir ruh haline bürünüyordum.. bürünüyordum da nereye gidiyorum hala bilmiyordum. derken bir bakmışım elim havada, sonra yine bir bakmışım saniyesine bir taksi önümde, adeta bir film sahnesi..<br/><br/>önde araba olmadığı için takip ettiremeyeceğimden aklıma ilk gelen cool semti yani cihangir'i söylüyorum.. sonra cihangir'i düşünüyorum, nerede olduğunu hesap etmeye çalışıyorum, taksimetreyi kesiyorum, of nasıl acıkmışım, acayip menemen bir gün, menemen günü, menemen yemeliyim derken taksicinin sorusuna *menemen* diye haykırıyorum. adam normalmiş gibi tekrar sorarak kendi alternatif yolunu öneriyor, olur diyorum ama sanki yollar birer yumurta, binalar biber, boğaz domates, geçiyoruz gidiyoruz derken bir ses beni uyandırıyor.. ağzım güzelim ceketime akmış, saç baş dağılmış, gözlerimi siliyorken "geldik abi 84 tl" diyor bir ses.. "yavv o fiyata menemen olur mu" derken tamam sen 70 ver diyor.. uykuluyken nereleri dolaştırdıysa verip iniyorum şirin mi şirin demek isteyip diyemeyeceğim bir cihangir sokağında.. bahar gecesi mi, puslu bir kış gecesi mi anlayamadığım pis pir soğuğu iliklerime kadar hissediyorum ve daha çok sarılıyorum ceketime, seviyorum arada iyi ki varsıni ısındım sayende diyorum ve koşar adımlarla ışıkları yanan ufak bir cafeye giriyorum..<br/><br/>nasıl girdiysem artık tüm mekan bana bakıyor.. ufacık, tefecik en fazla 8-10 masanın olduğu bir mekana girmiş bulunuyorum.. sahip çift hoşgeldiniz ile karışık nereye oturtacaz bunu şimdi korkusu ile "tt-tek kişi misiniz" şeklinde sual buyuruyorlar.. arkama bakıyorum, ceketimleyim diyemeyeceğime göre, "e-evet" diye kekeliyorum çiftler restoranına.. beni mekanın en arkasında, yapayalnızlar için özel yapılmış artık tozlanan yalnızlar masasına oturtuyorlar.. tek sandalye, masada tek bir gül, ve ilginç köşe bir yer, mekandan hafif ayrık durumda.. umursamadan geçiveriyorum.. sahip çift de tanıdık hani, tiyatro ünlüsü ama ünsüzü de olabilir, belli ki burada tutunmuşlar hayata, ay canım derken siparişimi soruyorlar.. normalde uzunca menü gözatışı ve kararsızlık yaşadığım bu anda menüyü itip, ağzımın kenarında bir gülüç ile sanki içimde bir cüneyt arkın varmış gibi "menemen istiyorum canım" diyiveriyorum kendimden emin.. tiyatrocu kız bir salağa cevap verircesine "burada menemen yok" diyor.. yıkılıyorum, lanet olsun sana entel cihangir cümlesini yutup "çay var mı bari" diyorum.. kız menüyü sert bir şekilde kapayıp üffleyip gidiyor.. anlıyorum ki çay var..<br/><br/>o üşümeden midir yoksa yalnızlığımın bu köhne köşede bana hatırlatılmasından mıdır bilmem çay içtikçe içiyorum.. aslında karnım da aç ama içimdeki cüneyt arkın nayır diyor.. köşedeki yansımamda kendimi görüyorum ve bacaklarımın uyuştuğunu, karnımın ağrıdığını hissediyorum.. çişim gelmiş meğer, panik yapmıyorum. insanlar aşağı yukarı iniyorlar tuvalete. benim köşede arkadamki paravanın yanında kapak görüyorum. kapaklara bayılırım, aşağı okunu da görünce kıza, "buradan tuvalete iniliyor dimi" soruma "hı-hı" şeklinde bir cevap alıyorum.. geldiğimden beri kimsenin umursamadığı bendeniz her zamanki gibi wc öncesi ödememi yapıyor ve dolabın kapağını kaldırıyorum.. kaldırıyorum da bu sefer beyaz bir kapak beni karşılıyor. daha bir meraklanıyorum.. kapakta bir ayak izi var, bu sefer sola çek diyor.. ayağımı basıp sola çekiyorum ve içine ışık hüzmelerinin girdiği bir depo görüyorum..<br/><br/>ceketim, merakım, menemen birbirine destek vererek bacağımı bu ne idüğü belirsiz yere sokmam için tezahurat yapıyorlar. bir bacağım içeride, bir diğeri yukarıda kalınca epey bir derinlik olduğunu keşfediyorum ve kafamla eğilip güvenli olup olmadığına bakıyorum.. bu bakışmada karşımda ağzına yemeğini götürürken kitlenmiş bir cem yılmaz ile karışılaşıyorum, "portakal suyunu çok severim diyor" bir şekilde gömleğime dökülmüş portakal suyunu işaret ederek, içebilirsin abi diyorum gömlekten.. "lan ne gazı var burada, bu neyip kafası" derken mekan sahibi kız ve sevgilisinin sesini duyuyorum.. "aaa orada depo mu varmış".. bu uyandırma servisi ile gerçek bir vaka içerisinde olduğumu farkedip iki bacağımı da boşluğa salarak, pılımı pırtımı toplamış şekilde ardımdan önce ana kapağı, sonradan beyaz kapağı sürüp eğilerek ışığa doğru yürüyorum artık..<br/><br/>bambaşka bir mekandayım.. adeta ben olmuşum alice, mekan olmuş harikalar diyarı, karşımda da gözlüğünü bir bilge edası ile koyup sigarasını söndüren cem yılmaz.. o da benim gibi güzel bir ceket giymiş, kol düğmesine kadar takmış ve benim gibi süslü bir mekanın alt katının en köşesindeki yalnızlar masasında oturuyor.. kendisine yaklaştığımı görünce gel abi otur diyor.. ben zaten sanldayeyi çekmiş bulunduğumdan normal karşılıyorum bu cümleyi. içimdeki yorgunluk, yalnızlık ve hüzün ile bir an arkama bakıyorum. mekanın güzel bir süslemesi olarak kurgulanmış şömine köşesinden bir noel baba edası ile çıktığımı farkediyorum, sonra afiyetle çorbasına devam eden cem yılmaz'a dönüyorum.. nedendir bilinmez "süzme mercimek mi o abi" diyorum.. bu alakasız soruya "çok severim" yanıtını geliyor, ama bu "ezogelin galiba" diyor ve sonra sormadan edemiyor, "ne yapıyorsun".. ben de gayet normal bir şekilde günümü özetliyorum, keyifleniyor epeyce absürtlüğüme.. ben de rahatlıyorum.. "yazılımcıyım" diyorum, ne isterlerse yazıyorum, milyonlar kullanıyor belki de, belki de gülüyorlar, küfrediyorlar yazdıklarıma diyorum.. "benim gibi desene.." diyor..<br/><br/>garson bölüyor sonra.. "misarifiniz geleceğini bilmiyorduk cem bey" diyor telaşla beni işaret edip, nereden geldiğimi de kestiremeyerek.. "ben de" diyor gülümseyerek, "tanrı misafiri" diye ekliyor. garson soruyor, "ne istersiniz".. ben elbette, "menemen" diyorum.. cem yılmaz kahkahası ile o yalnızlık ve hüzününü çokça ardında bıraktığını gösteriyor, garson da hafif bozuntu ile "bizde menemen yok" diyor.. ben nasıl girdiğimi anlayamadığım mekanın entelliğini kestirememenin verdiği üzüntü ile boynumu tam bükerken cem yılmaz kükrüyor! "sizde iki domates, iki biber, dört yumurta yok mu aslanım", iki porsiyon gönder derken ortayı işaret ediyor.. garson koşarak uzaklaşıyor, ben "into the middle" diyiveriyorum, tebessüm ediyor..<br/><br/>güzel ceketmiş diye işaret ediyor ceketime.. her şeyin onun başının altından çıktığını anlatıyorum.. sonra tereyağı kokusu sarıyor ortalığı, mekanın şefi elinde harika ötesi bir bakır kap içinde menemenimizi ikram edip özrünü diliyor, cem yılmaz gülümsüyor.. çayımız ile birlikte ortadan banarak menemenimizi yiyoruz.. bundan güzel skeç olur diyor ha diyor, ben bunda oynarım.. gülümsüyorum, tereyağına da ban diyorum cem abi'ye, oo ayıpsın diyor ve gece akıp gidiyor...
 - entry_name: |
     akıllı telefonun pil ömrünü uzatma yöntemleri
   entry_id:  69058686
   entry_writer: eksi was here
-  entry_fav_count: 310
+  entry_fav_count: 315
   entry_content: |
     akıllı telefonlarda, eski telefonların aksine <a class="b" href="/?q=nikel">nikel</a> pil yerine <a class="b" href="/?q=lityum">lityum</a> piller olduğundan ötürü; şarjı sonuna dek tüketmeye çalışmanın yanlış olduğu yöntemlerdir.<br/><br/>açıklayayım:<br/><br/>internette dolaşan "pil ömrünü uzun tutma yolları", "telefonun pilini nasıl sağlıklı tutarız" türü bilgilerin içerisinde "şarjı tam doldurun ve sonuna dek bitirin" yazar, hepsi doğrudur. evet doğrudur.<br/><br/><a class="b" href="/?q=ama">ama</a><br/>bak işte işin <a class="b" href="/?q=ama">ama</a>'sı var,<br/><br/>o bilgiler nikel telefon pilleri içindi. son yıllara kadar telefonlarda nikel piller olurdu ama özellikle akıllı telefon furyası ve daha çok şarj ihtiyacı ile işler değişti.<br/>şu anda akıllı telefonlarda lityum piller var. lityum apayrı bir teknoloji. nikel pillere göre tehlike içeriyor (örneğin hava alırsa patlayabiliyor) (note 7 gibi).. ama daha çok şarj kapasitesi tutuyor. bu nedenle tehlike riski gözardı edilerek, artık lityum piller kullanılıyor.<br/><br/>nikel pil sonuna dek boşalmayı sever.<br/>lityum pil ise doluluğu sever.<br/><br/>bir deney vardı bu konuyla ilgili. şimdilik özet geçeyim:<br/>1 yıl boyunca %40'ın üstünde tutulan lityum piller, %10'a kadar kapasite kaybederler. <br/>1 yıl boyunca %40'ın altında tutulan lityum piller ise %35'e kadar kapasite kaybederler.<br/><br/>ayrıca lityum pili sonuna dek bitirirseniz bir daha çalışmaz. %0'a "gerçekten" inerse tekrar çalışmaz. akıllı telefonlar bu yüzden, gerçekte hala azıcık şarj varken (%2 kadar) sizlere şarjı bitmiş gibi (%0) gösterirler ve kendini kapatırlar. zaten şarjı gerçekten bitmiş olsa, düğmesine basınca ekranda "beni şarja tak" uyarısını çıkaramazdı bile. <br/><br/>bazıları sonuna kadar bitirmeyi kafaya takar ve cihazın güç tuşuna basınca ekrana gelen "şarja tak" uyarısını dahi göremeyinceye dek zorlar. <a class="b" href="/?q=donan%c4%b1mhaber">donanımhaber</a>'de bir ara bunu yapmaya çalışanlar oldu. sonra da forumlardaki "telefonun bataryasını tamamen bitirdim. açılmıyor. ühühü" diyen kitlelerin arasına katıldılar. siz yapmayın. <br/><br/>şimdi bir de biliyorsunuz, "şarj döngüsü" olayı var. pillerde "500 şarj döngüsü" yazıyor diyelim. ki şu anda çoğu telefon öyle... <br/><br/>cihazdaki pil nikel pil ise, %100'den, %90'a inince şarja takarsan eğer, 1 şarj döngüsü olmuş sayılırdı. hani boşa gitmiş olurdu kalanı... pilin ömrü azalırdı. o yüzden sonuna dek bitirmeyi tavsiye ederler haklı olarak.<br/><br/>ama yeni nesil lityum'lar öyle değil. önce %50'ye indirip, tekrar doldursan. sonra tekrar %50'ye indirip tekrar doldursan, ancak öyle 1 şarj döngüsünü tamamlamış oluyorsun. veya %60'a indirdin, şarjı tekrar doldurdun, sonra %40'a indirdin, ancak öyle 1 döngü tamamlanıyor. <br/><br/>daha fazla bilgi için:<br/><br/>piller - neden lityum iyon? - apple<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.apple.com/tr/batteries/why-lithium-ion/">http://www.apple.com/tr/batteries/why-lithium-ion/</a>
 - entry_name: |
     21 haziran 2017 opet rezaleti
   entry_id:  69056947
   entry_writer: operatormd
-  entry_fav_count: 282
+  entry_fav_count: 294
   entry_content: |
     bir arkadaşımın başına gelmiş olan, bayramını rezil eden rezillik. arkadaşımın yardım talebi üzerine paylaşıyorum;<br/>"aracımı aldığım ekim 2015 tarihinden bu yana istisnasız ve güvenerek yakıtımı opetten almaya özen gösterdim. yine 21 haziran 2017 günü saat 12:44 sularında nazilli-denizli istikametinde durasıllı mahallesinde bulunan ve işletmeciliğini safen enerji aş.'nin yaptığını öğrendiğim opet istasyonunundan aracıma yakıt aldım. alışverişe ait fişimi daha sonra ihtiyaç duymayacağımı düşünerek attım. ilgili kayıda opet kartımdan ve dahi online sistemden erişim sağlanabilmektedir.<br/><br/>akaryakıt alımını müteakip yolculuğuma devam ettim. yolculuk esnasında aracımın çekiş ve performansındaki düşüş neticesinde yakıtta bir problem olabileceğini düşünerek depoyu farklı bir istasyondan fulledim ve titiz bir insan olduğum için daha önce yakıt aldığım durasıllı mahallesindeki opet istasyonuna yakıtta bir problem olup olmadığının kontrol edilesi için geri döndüm.<br/><br/>istasyona vardığımda ilgili kayıtlar incelendi ve dizel aracıma benzin dolumu yapıldığı tesbit edildi. istasyon yetkilisi olduğunu öğrendiğim m...... bey'in aracın deposununun tamircileri tarafından temizlenebileceğini iletmesi neticesinde konu hakkında pek bilgi sahibi olmayarak ve iyi niyetle ilgili işlemin yapılmasını talep ettim. <br/><br/>tamirci arkadaşın gelmemesi neticesinde depo temizleme işleminin yetkisiz kişilerce, insan gücü ve emme ile yapılacağını görmem neticesinde duyarlı bir işyeri hekimi olarak iş sağlığı ve güvenliği kurallarının ve dahi insan hayatının hiçe sayıldığını görerek ilgili işlemin derhal durdurulmasını talep ettim ve opet çağrı merkezini arayarak durumu yetkililere ileterek aracımın çekici vasıtası ile aydın'da bulunan yetkili serviste bakımının yapılmasını talep ettim. bu süreçte işletme sahibi olduğunu öğrendiğim i.... bey istasyona gelerek "fazla masraf çıkmaması" açısından aracımın serviste işlem görmemesini talep etmesi ile opet tarafından verilen yakıt güvence sistemi ve dahi halihazırda görsel ve işitsel basında çokça tekrarlanan opet'in reklam filminin gerçeği yansıtmadığını malesef gördüm. <br/><br/>süreç sonunda aracımın servise yönlendirilmesi için istasyon yetkilileri ile uzun bir görüşme neticesinde mutabık kalarak ertesi güne randevulaştık ve aracımı istasyonda bıraktım.<br/><br/>ertesi gün aracım çekiciye yüklenerek aydın'da bulunan mimar otomotiv yekili servisine iletildi. hasar tesbit sonucu çıkmadan m...... bey ve refakatinde bizimle servise gelen arkadaşın sanayiye gitiklerini ve döndüklerinde hasarın 4000 tl üstü çıkması halinde aracın servisdışında bakım ve onarımını yaptırabileceklerini iletmeleri neticesinde aracımın garantili olduğunu ve servis dışında işlem yaptıramayacağımı durumu opet genel müdürlüğü ile paylaşacağımı ilettiğimde "nereyi ararsan ara" şeklinde tehditkar tavırlarda bulundular. çağrı merkezini aramamın ardından şahıslar tekrar yanıma gelerek istasyon sahibi i.... bey ve saha müdürü olduğunu öğrendiğim o... bey'in görüşmek istediğini ilettiler. görüşme neticesinde tarafların beni mağdur etmeyeceğini gerekirse aracı kendilerinin de alabileceğini ilettiklerinde aracı zaten kullanmak istemediğimi kendilerine ilettim.<br/><br/>serviste yapılan ön tetkik neticesine yakıt sisteminin değişmesi gerektiği ve ilgili işlemin 14000 tl civarı bir tutara tekabül ettiğinin tarafımıza iletilmesi sonucu mücahit bey'e refakat eden şahsın "aracı yakalım" şeklinde tarafımın ve servis çalışanlarının üzerine yürüyerek çıkıştığı mimar otomotivin kayıtlarından ve şube çalışanlarının görgü şahitliği de sabittir.<br/><br/>bu süreçte istasyon sahibi i.... bey arayarak, kendi hatalarından dolayı arızalan aracımı piyasa değerinin altında alabileceğini ve bu işlemi bayram tatili sonunda yapabileceklerini iletmesi üzerine bu süreçte meğdur olacağımı ve sürecin bir an önce başlatılmesı gerektiğini belirtmem neticesinde görüşmemiz sonlandı. bu görüşmeyi müteakip m...... bey tarafından aranarak istasyonda görüşmeye çağırıldım fakat güvenlik kaygılarım sebebi ile gitmeyi uygun görmedim.<br/><br/>yıllardır güvenerek alışveriş yaptığım ve son günlerde yaşadığım durumu bir reklam filmi ile anlatarak istasyonlarında yakıt güvence sistemi olduğunu kamuoyuna duyuran opet'in tarafımı bu süreçte maddi ve manevi zarara uğratması ile; ilgili işletme ve dahi denetleyen organın hem personele isg ve çalışma koşulları konusunda yeterli eğitim vermediği kanısını tarafımca güçlendirmiş hem de tüketici güvenimi ve müşteri memnuniyetimi olumsuz yönde etkilemiştir.<br/><br/>tüm yaşadığım olayların değerlendirilerek mağduriyetimin en kısa sürede giderilmesini talep ve arzu etmekteyim."
 - entry_name: |
     japonya'da iki türk kebapçının gözaltına alınması
   entry_id:  69055718
   entry_writer: kuzeybuzdenizi
-  entry_fav_count: 267
+  entry_fav_count: 269
   entry_content: |
     orospu evlatları böyle düzgün, medeni insanlara karşı bizi rezil ediyorlar. imajımızın düzgün olduğu ülke kalmadı koduğumun gezegeninde. <br/><br/>inşallah deport edilir siktiğimin çöl eşekleri.
 - entry_name: |
     askerlikte azar işitilen en yüksek rütbeli komutan
   entry_id:  69050538
   entry_writer: normal bir bey
-  entry_fav_count: 235
+  entry_fav_count: 236
   entry_content: |
     kısa dönem çavuşum. o dönem tugayların giriş kapıları tek standarta alınıyor. bizim tugayın mimari çizimini getirdiler. bak bakalım sen anlarsın dediler. bir kaç şey önerdim, yarbaya anlat bunları dediler. <br/>götürdüler odasına. açtım çizimi anlattım. öyle olmaz dedi yok şöyle olur falan dedi ahkam kesiyor. konu biraz tartışmaya döndü. ben mehmetcik olduğumu unutup "yahu beyefendi siz ne istediğinizi bilmiyorsunuz galiba" dedim.<br/>kulağıma eğildi; "seni şimdi s*kerdim ama git çizimleri anlattığın şekilde çiz gel ona göre karar vericem" dedi.<br/><br/>sonuç; s*kmedi.
 - entry_name: |
@@ -76,44 +76,44 @@ data:
     1.68 boyunda zeki esprili yakışıklı kaslı erkek
   entry_id:  69055804
   entry_writer: my name is alico
-  entry_fav_count: 99
+  entry_fav_count: 101
   entry_content: |
     1,83 civarıyım ama bu sözlükte sürekli kısa boylu erkeklere yönelik bir küçümseme ve alay söz konusu. arada patlıyor böyle başlıklar. hayırdır gençler, eski sevgilinizi elinizden alan kısa boylu bir erkek miydi ?
 - entry_name: |
     türkiye'deki sevgisizliğin ve nefretin nedeni
   entry_id:  69057441
   entry_writer: makinedeki hayalet
-  entry_fav_count: 89
+  entry_fav_count: 91
   entry_content: |
     <a class="b" href="/?q=nurdan+g%c3%bcrbilek">nurdan gürbilek</a>'in kötü çocuk türk'te ağlayan çocuk resmi ile ilgili bir saptaması vardı. bu kitsch resmin 80'lerden itibaren bu kadar çok "trend" olmasında çok temel bir neden var: hepimizin içi çok buruk. içine doğduğumuz ailenin reisi olan baba, şefkatten ve merhametten oldukça yoksun bir profile sahip. genelde kızar, bağırır, döver, aşağılar, ortalıkta görünmez, başına buyruk yaşar, "karıya" gider, çocuklarının rızkını sigaraya, alkole harcar, ortalıktan kaybolur, annemizi gözümüzün önünde aşağılar, döver. babalarımız bizi sevmiyor; bırakın babalar günü şatafatlarını. babası tarafından gerçekten müşfik bir temasa "layık" görülmüş o kadar az çocukluk var ki... baba saldırgan, ruhsuz, sefil bir yabani gibi dolanıyor duruyor. türkiye'nin "paternalist" bir toplum yapısına sahip olduğu düşünülecek olursa, bu babanın gökten zembille inmediği, bizatihi "devlet baba"nın bu özelliklere haiz olduğu görülecektir. biz tepeden tırnağa gudubet bir babaya batmış durumdayız. 2017 senesindeyiz ve hala "acı çekme" bir numaralı trend konusu. instagram'da "yarine kavuşamayan delikanlı"lar için sigaralar yakılıyor, garibanlık öyküleri <a class="b" href="/?q=hot+topic">hot topic</a> oluyor, efkar dolu bitirim ağız tabloid edebiyat dergilerine hit kazandırıyor. mazlumluk, bitkinlik, tepetaklak olmak hala fiyakalı gözüküyor. e bu kadar "patolojik" bir atmosferde sevgi değil, hep intikam, rövanş, meydan okuma konuşuluyor.
 - entry_name: |
     25 haziran 2017 lgbt onur yürüyüşü
   entry_id:  69048724
   entry_writer: kikina
-  entry_fav_count: 68
+  entry_fav_count: 69
   entry_content: |
     her gün aranızda yürüyoruz...<br/><br/>sokakta erkekmişcesine top diye dalga geçip akşam hornetten suratı flulanmış fotolarınızla bize sulanıyorsunuz.<br/><br/>siz bizi biliyorsunuz biz sizi...<br/><br/>bireysel olarak konuşuyorum. bu bana yeter...
 - entry_name: |
     çaya süt katmak
   entry_id:  69048980
   entry_writer: rxpu
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     çay oksalat içerir, süt ise kalsiyum. çay ile süt aynı anda içildiğinde kalsiyum oksalat oluşma ihtimali artmaktadır. böbrek taşlarının %60-%70 oranında kalsiyum oksalat'tan oluştuğu bilinmektedir.<br/><br/>süt ve çay karışımı doğru harmanlandığında güzel bir tadı oluyor. hatta ingiltere'de sütle karıştırılmaya uygun çaylar dahi satılıyormuş. ancak kalsiyum oksalat ile ilgili bu durum beni kuşkuya sevk etti.<br/><br/>ancak kahvaltıda yediğimiz beyaz peynir ile içilen çay'da benzer etki yaratabileceğinden fazla şüphe damak zevkimizi de sınırlayıcı bir etki yaratabilir. doktor veya bioyolog olan olan arkadaşlar şu kalsiyum oksalat mitini aydınlatabilirlerse makbule geçer.<br/><br/>ekleme: konuyla ilgili mesleki bilgi sahibi olan yazarların gönderdiği mesajlara göre bu iki bileşik böbrek içinde birbirleriyle bileşik oluşturmaya meyilli değiller, ayrı ayrı takılıyorlar. ama yine de böbrek tübüllerinde başka bir katalizörün yardımıyla biraraya gelme istekleri oluşursa ayvayı yiyoruz. teknik bir konu ama ingilizler içtiğine göre acaba onların aklına niye gelmedi diye de sorabiliriz tabii. hey john what about oxylate and calcium when you drink tea with milk? is it dangerous? will they come togethar to form a kidney stone?!?!?!?!!?!??
-- entry_name: |
-    ebubekir sifil caner taslaman tartışması
-  entry_id:  69057656
-  entry_writer: skocax
-  entry_fav_count: 60
-  entry_content: |
-    takip edebildiğim kadarıyla türkiye'deki islam reformcuları iki genel kategoride toplanabilirler:<br/><br/>1- islam reformcuları :bahriye üçok, yaşar nuri öztürk, zekeriya beyaz, ali akın, edip yüksel, ihsan eliaçık gibiler. bu gruba son yıllarda bir çok ilahiyat hocası da katıldı. özellikle ankara ve konya selçuk ilahiyattan fikirlerini okuduğum kişiler vardı ancak çok medyatik olmadıkları için şu anda isimlerini hatırlamıyorum.<br/><br/>2-ehli sünnet reformcuları : mustafa islamoğlu, abdulaziz bayındır, mehmet okuyan, caner taslaman, emre dorman gibiler. bu grup biraz birbirine kenetlenmiş gibi. bunların grubunda meşhur başka kim var pek bilmiyorum.<br/><br/>iki grubun arasında derin bir fark var. <br/><br/><a class="b" href="/?q=1-ilk+grup">1-ilk grup</a>takilerin genelde iddiası: kuran dışı hiç bir metin dine kaynaklık edemez.<br/><br/><a class="b" href="/?q=2-+ikinci+grup">2- ikinci grup</a>takilerin iddiası: kuran dışı metinler kuran süzgecinden geçirilerek ancak dine kaynaklık edebilir. mesela bir hadis kurana uygunsa o hadis dine kaynak olabilir. (o uygunluğu belirlemede otoritenin kim olduğu sorunsalı ayrı bir tartışma tabi)<br/><br/>ve son olarak memleketin esas meselesi:<br/><br/><a class="b" href="/?q=3-geleneksel+ehli+s%c3%bcnnet">3-geleneksel ehli sünnet</a> fikri: dinin kaynakları <a class="b" href="/?q=kuran">kuran</a>, <a class="b" href="/?q=s%c3%bcnnet">sünnet</a>, <a class="b" href="/?q=icma-i+%c3%bcmmet">icma-i ümmet</a> ve <a class="b" href="/?q=k%c4%b1yas-%c4%b1+fukaha">kıyas-ı fukaha</a>dır. din aynı zamanda bir hukuk sistemi (şeriat) ile birlikte uygulanmalıdır. şeriatın kaynağı hanefi mezhebi için hanefi fıkhı külliyatıdır. (hanefi fıkhı külliyatı için (bkz: <a class="b" href="/entry/65909140">#65909140</a>))<br/><br/>gördüğünüz üzere üç numara zaten türkiye'deki geri kalmışlığın, yobazlığın ve gazalici nihilizmin ana kaynağıdır.<br/><br/>iki numaralı grubun derdi türkiye'nin yobazlığı, geri kalmışlığı ve gazalici nihilizmi ile mücadele etmekten ziyade moderniteye toslayan ehli sünnet islamı kurtarma girişimidir. yani kuran ile uyumsuz külliyatı ayıklama, akla uygun olmayan külliyatı çöpe atma, akla uymayıp da kurana uyuyorsa ona da birr kılıf uydurma ve islamı 21. yüzyıl insanının aklına ve ahlakına uyumlu hale getirme çabasıdır. bunlar genelde sünnilikle mücadeleden ziyade ateizm, agnostisizm ve deizm ile mücadele ederler. örneğin caner taslaman'ın kitaplarını inceler ya da youtube videolarını izlerseniz eğer esas mücadeleyi gayrimüslümlüğe ve inançsızlığa karşı verdiğini görürsünüz. daha önce mesela cübbeli ile ufak bir polemiği olmuştu. yine ehlü sünnetçilerden ali rıza demircan ile habertürk'te bir polemiği vardı. yine emre dorman'ın fikirsel olarak bir islamcıdan hemen hiç bir farkı yoktur ((bkz: <a class="b" href="/entry/554475892">#554475892</a>)). bu gruptakiler ehli sünnetçiler gibi gazaliyi tanrı seviyesine yüceltmese de islamın en büyük filozofu gibi bir tavırla sahiplenirler. <br/><br/>bir numaralı grubun temelde motivasyonu türkiye'nin geri kalmışlığı, türk insanının yobazlığı ve türk insanının içindeki gazali nihilizmi ile olan mücadeleden gelir, yani bizim en büyük derdimizden. bu gruptakilerin tümü gazali ile kavgalıdır. açın youtube'da yaşar nuri'nin, edip yüksel'in ya da ali akın'ın gazali hakkında söylediklerini dinleyin mesela. bu grup biraz daha <a class="b" href="/?q=ali+%c5%9feriat%c4%b1">ali şeriatı</a> ya da <a class="b" href="/?q=fazlurrahman">fazlurrahman</a> yolundadır. islamda daha tutarlı bir reform yapma amacı içindedirler/içindeydiler. elbette islam reformcularının tümünün yöntemi birbirinden farklıdır. kimi dinde ibadet var der, kimi olmasa da olur der. edip yükselin "19 muhabbeti" ve sünnilerin falan kabul ettiği kuranda ayet fazlası olduğu iddiası var. keza yaşar nuri'nin imam-ı azamı işin içine dahil eden bir reform anlayışı var. ali akın'ınki temelde gazalinin reddi üzerinden gibi. her biri farklı bir reform önerisinde bulunur.<br/><br/>ebubekir sifil azılı bir ehli sünnetçidir. taslaman bir islam reformcusu değil ehli sünnet reformcusudur<br/><br/>anladığım kadarıyla taslaman, <a class="b" href="/?q=islam%c4%b1n+%c5%9fart%c4%b1+be%c5%9ftir">islamın şartı beştir</a>'i kabul eder. namazdır, abdesttir vs. kuranda tanımı yapılmamış şeyleri de islamın içeriğinde kabul eder. yani sünnilerden farkı vardır ancak bu fark sünniliği akıl yolu ile 21. yüzyıl şartlarına dönüştürme amacını içerir. mesela şafi fıkhında var olan kadın sünnetinin islamda olmadığını iddia eder. çünkü kadın sünnetinin kötü bir şey olduğu son yüzyılda ortaya çıkmıştır. <br/><br/>yine de ehli sünnet karşısında taslamanı desteklemek gerekir. en azından şu ebubekirler, cübbeliler, demircanlar, ehli sünnet tarikatlar cemaatler falan silinsin şu memleketten. ya da müritlerinden dönenler, şüpheye düşenler, sorgulama kapısına yanaşanlar falan artsın.<br/><br/>ehli sünnet reformcusu ile ehli sünnetçi arasındaki tartışmalarda ehli sünnetçi taraf bir çok argümanı hep aynı iki mesajla ortaya sürer:<br/><br/>1- 1400 yıldır yazılmış çizilmiş sen kim oluyorsun da 1400 yıllık dini değiştireceksin?<br/>2- sen şimdi kütüb-i sitte'nin 5 kitabında da geçen deve sidiği içmek sağlığa faydalıdır hadisi akla uymuyor diyorsun da kuran'da da aynı mantıkla akla uymayan ayetler var mesela kamer suresinde geçen "ay yarıldı" cümlesi gibi. kuranda senin aklına uymayanı neden doğru kabul ediyorsun da hadiste aklına uymayanı yanlış kabul ediyorsun?<br/><br/>ilk argümanla mücadele etmenin yolu 4 mezhebin fıkıh kitapları ile bu kitapların şerhlerini ve fıkıh külliyatını açıp yüzlerce saçmalık bulmak ve tartışma esnasında bir makineli silah edasıyla bunları teker teker saymaktır. "kadının klitorisini mi keseceksin lan hayvanoğlu hayvan" tavrı da epeyce işe yarar, tribünlerden alkış alır.<br/><br/>ikinci argüman ise caner taslaman gibi ehli sünnet reformcularının yıkabileceği bir şey değil. bunu yıkabilmenin yoluehli sünnet reformculuğundan ziyade islam reformcusu olmaktır. bunun yolu islamın bütün tarihi kişiliklerini baştan sona reddetmektir:<br/><br/>"evet 1400 yıldır birileri bu dini belli yöntemlerle bir şekilde anlamaya çabaladılar, aralarında ehli sünnet mezhebi gibi sistematik ve yoğun takipçisi olan yorumlar da ortaya çıktı (siyaset sayesinde). bunların tümünün her konuda yanıldığını iddia etmiyorum. bilakis <a class="b" href="/?q=kuran%c4%b1+kim+nas%c4%b1l+anlamak+isterse+kuran+odur">kuranı kim nasıl anlamak isterse kuran odur</a> görüşü savunulmalı. <a class="b" href="/?q=her+m%c3%bcsl%c3%bcman+mezhep+imam%c4%b1+olarak+do%c4%9far">her müslüman mezhep imamı olarak doğar</a> fikri ana plan olmalı. (bkz: <a class="b" href="/entry/60194282">#60194282</a>). insanların kuranı kendi tarzlarında anlayabilmeleri için de mezheplerin özellikle devlet ve siyaset üzerindeki baskısının kalkması gerekiyor. ortada bir islam tarihi ve islam külliyatı olmazsa kurandaki o cümlenin "ay yarıldı" anlamına gelmek zorunda olduğu sorunu da olmaz. kimse kuranı anlamak için okuma yazmadan başka bir tür yeterliliğe sahip olmak zorunda değildir. köylü memonun kuranı anlayış kapasitesi ile imam-ı azamın kuranı anlayış kapasitesi eşittir. isteyen istediği gibi anlar. bu tavır gayet tutarlıdır.<br/><br/>tüm bunlardan bağımsız dünyanın bir numaralı ve en tutarlı, en mantıklı islam reformcusu olarak bendeniz skocax'ın reform anlayışı ise şudur:<br/><br/>kurana bakarak<br/><br/>isteyen çarşaf giyer isteyen mini etek isteyen nüdist olur<br/>isteyen her akşam rakı içer isteyen alkolü ağzına bile sürmez<br/>isteyen günde 100 rekat namaz kılar isteyen kılını kıpırdatmaz<br/>isteyen seks özgürlüğünü istediği gibi kullanır isteyen bekareti kendine dert eder.<br/>isteyen mekkeye gider isteyen rio karnavalına<br/><br/>ahlakın kaynağı vicdandır. hukukun kaynağı insan aklıdır. imtihan dünyası diye bir şey yok. insanoğlu adam olup bu dünyada kötülük yapanın cezasını kendisi bu dünyada verecek. bu sayede hukukunu adam gibi çalıştırabilecek. dünyayı cennete çevirebilecek. çeviremiyorsa ne kaybediyorsa bu dünyada kaybedecek.<br/><br/>bir tane amacın var: hayatı mutlu ve huzurlu yaşamak.<br/><br/>inansın inanmasın herkes öte dünyada aynı muameleyi görecek. japonyada doğan bir çocuğun müslüman olma ihtimali sıfır. 1000 yıl önce de sıfırdı hala da sıfır. o yüzden sadece inananlar cennete gidecek argümanı saçmalıktır. hatta cennet ve cehennemin kendisi saçmalıktır.<br/><br/>ve bunların hepsi kurana uygundur. çünkü kurandaki kelimeler o kadar yuvarlaktır ki isteyen istediği anlamı çıkarabilir. namazın tanımı kuranın neresinde yapılmış? haccın nasıl yapılacağı nerede anlatılmış? abdestin içeriği hangi ayette yazılmış? 1 milyar insan kurandan bunları çıkarabiliyorsa ben de yukarıdaki islamı çıkarabilirim gayet tabi.<br/><br/>ha benim reform anlayışımın bir tane tutarsızlığı var o da <a class="b" href="/?q=kuran%c4%b1n+insan+yap%c4%b1s%c4%b1+oldu%c4%9fu+hakikati">kuranın insan yapısı olduğu hakikati</a>. onun dışında iddia ediyorum bundan daha tutarlı bir reform bulamazsınız.
 - entry_name: |
     zlatan ibrahimoviç'in fenerbahçe'ye transferi
   entry_id:  69050719
   entry_writer: epir
-  entry_fav_count: 49
+  entry_fav_count: 53
   entry_content: |
     sol kanattan köybaşı ve hasan ali kaldırım'ın muhteşem ortalarıyla beslenip gol kralı olmak hayaliyle gelmek istediğini düşünüyorum.
+- entry_name: |
+    25 haziran 2017 pakistan tanker faciası
+  entry_id:  69059320
+  entry_writer: whatdreamsnevercome
+  entry_fav_count: 49
+  entry_content: |
+    solcular da damlamış.<br/>bildikleri 100 kelimeden biri olan "emperyalizmi" yapıştırmışlar, bu sefer yanına da "kültürel" koymuşlar. "kültürel emperyalizm"<br/><br/>nasıl bir kültürel emperyalizm, bir grup hayvandan farksız canlıyı devrilen tankerden akan petrolü toplamaya iter? bırakın artık bu boş muhabbetleri. yozgatta devrilen domates kamyonunu yağmalayan tipler neyse bunlar da o.<br/><br/>fakirlikten veya "kültürel emperyalizm"den değil, bulundukları coğrafyanın iğrenç kültüründen yapıyorlar ne yapıyorlarsa. keşke kültürel emperyalizm görseler de, yere düşen petrole atlamak yerine uzak durmayı tercih etseler.<br/><br/>kültürel emperyalizm diye ağladığınız bu hayvanlar, yok edilmesi gereken kültür ve görgü seviyesine sahiptirler. emin olun yozgat'a kimse "kültürel emperyalizm" yapmaya gitmemişti, bunlara da aynı şekilde. keşke yapsalar da, medeni bir 21. yüzyıl insanı olsalar. milattan öncesinden kalma avcı toplayıcı hayvanlar gibi davranmasalar.
 - entry_name: |
     lgbt'ye saygı duymuyorum
   entry_id:  69061896
@@ -122,19 +122,19 @@ data:
   entry_content: |
     insanlık 7 milyarı geçti, bilimadamları bas bas nufus kontrolü isterken, 3-5 kişinin çocuk yapmaması mı insanlığın devamını tehdit ediyor?<br/>köylü çocuğu olduğun konusunda hemfikir olabiliriz.<br/>(bkz: <a class="b" href="/?q=k%c3%b6yl%c3%bcleri+ni%c3%a7in+%c3%b6ld%c3%bcrmeliyiz">köylüleri niçin öldürmeliyiz</a>)<br/><br/>edit: bunu yazdıktan sonra can sıkıntısından oturdum başlık açtım <br/>(bkz: <a class="b" href="/?q=homofobikleri+anlayamamak">homofobikleri anlayamamak</a>) homofobiklik üzerine genel düşüncelerim burada <sup class="ab"><a title="(bkz: merak edene)" href="/?q=merak+edene" data-query="merak edene">*</a></sup> <sup class="ab"><a title="(bkz: kim edecekse)" href="/?q=kim+edecekse" data-query="kim edecekse">*</a></sup><br/><br/>edit 2: yazar silip gitmiş, başıma kaldı. silip gideceğini düşünmemiştim, caps alan birisi var ise ulaşsın bana ://
 - entry_name: |
-    25 haziran 2017 pakistan tanker faciası
-  entry_id:  69059320
-  entry_writer: whatdreamsnevercome
-  entry_fav_count: 48
-  entry_content: |
-    solcular da damlamış.<br/>bildikleri 100 kelimeden biri olan "emperyalizmi" yapıştırmışlar, bu sefer yanına da "kültürel" koymuşlar. "kültürel emperyalizm"<br/><br/>nasıl bir kültürel emperyalizm, bir grup hayvandan farksız canlıyı devrilen tankerden akan petrolü toplamaya iter? bırakın artık bu boş muhabbetleri. yozgatta devrilen domates kamyonunu yağmalayan tipler neyse bunlar da o.<br/><br/>fakirlikten veya "kültürel emperyalizm"den değil, bulundukları coğrafyanın iğrenç kültüründen yapıyorlar ne yapıyorlarsa. keşke kültürel emperyalizm görseler de, yere düşen petrole atlamak yerine uzak durmayı tercih etseler.<br/><br/>kültürel emperyalizm diye ağladığınız bu hayvanlar, yok edilmesi gereken kültür ve görgü seviyesine sahiptirler. emin olun yozgat'a kimse "kültürel emperyalizm" yapmaya gitmemişti, bunlara da aynı şekilde. keşke yapsalar da, medeni bir 21. yüzyıl insanı olsalar. milattan öncesinden kalma avcı toplayıcı hayvanlar gibi davranmasalar.
-- entry_name: |
     sultan mehmet italya'yı fethetseydi olabilecekler
   entry_id:  69060200
   entry_writer: caiphas
-  entry_fav_count: 42
+  entry_fav_count: 45
   entry_content: |
     hiçbir bok olmazdı. kanuni budapeşte'yi feth etmiş, bugün orada bir hamam, peç'te bir camii dışında oraların bir zamanlar osmanlı egemenliği altında olduklarına delalet eden ne var? he, bir de bir türk tepesi var, evet. şu olurdu. eğer italya türklerin egemenliği altında olsa bugün italya dünya markalarına sahip olmaz, gelişmiş bir burjuvadan yoksun tipik bir doğu avrupa devleti olurdu. papalık da ispanya'da olurdu herhalde.
+- entry_name: |
+    ozan güven'den küfür yemek isteyen motorcu
+  entry_id:  69057945
+  entry_writer: mirova
+  entry_fav_count: 40
+  entry_content: |
+    "kaç cc o motor ? söyler misin o motor kaç cc ? o öyle mi sürülür daly*rak."<br/><br/>şeklinde güzelce cevap verilebilirmiş.
 - entry_name: |
     akp'nin 15 yılda çözdüğü sorunlar
   entry_id:  69048948
@@ -143,61 +143,47 @@ data:
   entry_content: |
     onlardan önce ateizmin yayılışı kısmen daha yavaştı. sağ olsunlar, sayelerinde çok daha hızlı yayılıyoruz.
 - entry_name: |
-    ozan güven'den küfür yemek isteyen motorcu
-  entry_id:  69057945
-  entry_writer: mirova
-  entry_fav_count: 39
-  entry_content: |
-    "kaç cc o motor ? söyler misin o motor kaç cc ? o öyle mi sürülür daly*rak."<br/><br/>şeklinde güzelce cevap verilebilirmiş.
-- entry_name: |
     koton
   entry_id:  69048937
   entry_writer: forrestgump
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     ben 4-5 senedir bu markanın ürünlerini kullanmıyorum, bir gün maddi durumum mevcut durumumdan kötü olursa kullanırım. hatta bakarsın bunu da alamayacak duruma gelirim, bilemiyorum.<br/><br/>ancak bu markanın altına gelip de gant yazmak, lacoste yazmak, abercrombie yazmak falan nasıl bir kompleksin, nasıl bir görmemişliğin yansıması tahmin edebiliyorum. <br/><br/>koton 40-50 lira'ya gömlek satıyor, bahsedilen yabancı markalar ise sezon içinde minimum 300-350 lira'ya gömlek satıyorlar. <br/><br/>yani şimdi sen neyin tespitini yaptın, kime ne bilgi verdin? koton başlığının altına gant yazınca bu işlerden anlayan, kaliteliyi bilen adam mı oldu? sence arada 7 kat fiyat farkı varken, biz de bir kalite farkı olabileceğini tahmin edememiş miydik yani? <br/><br/>ya da gömleklerimize 350'şer lira bütçe ayırmamıza rağmen gidip koton'dan mı alışveriş ediyorduk? bilgi dolu entry'in ile bizi sen mi uyandırdın, aydınlattın?<br/><br/>velhasıl yapmayın böyle, markası ne olursa olsun alt tarafı sikik bi gömlek, boktan bi pantolon, uyduruk bi t-shirt... alt tarafı 300-500 liranın havasını yapmayın, en ufak bir fırsatta aldıklarınızı alamayan insanların gözüne sokarak ego tatmini yapmaya çalışmayın. zira hanzoluk tedavisi olmayan bir hastalıktır.
-- entry_name: |
-    ekşi itiraf
-  entry_id:  69048791
-  entry_writer: peki o zaman
-  entry_fav_count: 28
-  entry_content: |
-    tam her şeyi yoluna koydum derken kötüden de kötü hale düşmek. <br/><br/>ben beni çok isteyen, çok aşırı isteyen, zorla isteyen bi adamla evlendim. bu kısmı özellikle söylüyorum çünkü ben hiç istemiyordum. sonra ne olduysa kendimi onunla evlenmiş buldum. bir şeyde fazla ısrar etmenin götürülerinden bahsetmek istiyorum biraz tam burda. <br/><br/>yıl 2010. adam bana aşık, platonik. facebook'ta paylaştığım herkese açık olan, sırtı dönük bi kadın (ben sanıyor) fotoğrafıyla avunuyor aylarca. benim yok bunlardan haberim. hülasa beni bi şekilde buluyor, görüyor; aşkı katlanıyor falan. aşktan bahsediyoruz ama nasıl lakayt bi üslubum var diğ mi ? maalesef fazla ısrarın götürüleri bunlar işte. <br/><br/>adama evet diyorum. ondan sonra film kopuyor. nişanlanmaya çalışıyoruz bok var gibi hemen. aileler devreye giriyor. birimiz karadenizli birimiz kürt. beklentilerini karşılayamıyorum. kaynanam bana "düğünü hiç böyle hayal etmemiştim." diyor. <br/>niye hayal ettin ki diyorum? ben sade yaşamayı seven bi insanım ve gürültülü bi düğün istemedim, kültürlerimiz çatıştı. sevmediler beni hiç, çok sinsice hareket ettiler. şu kanal 7 dizileri var ya, orda böyle tuzaklar falan kurarlar gelinlere. o cinsten şeyler yaşıyorum bayağı :) eşimle- o zamanlar nişanlıyız- gidince onun yanında güler yüz, o yokken suratıma bakmamalar falan. sonra evlendikten sonra kaynanamın ağzından da duydum zaten, sen beni oğlumdan ayırdın, dedi. yani ana düşünce buydu, diğer davranışlar da kompozisyonu süsleyenler. tüm bunlar bizim evliliğimizi ciddi anlamda çatırdattı tabii. ama sevdiğimizden ayrılamadık da. ( cesur kadınlara hep imrenmişimdir, gidebilenlere. ben gidemedim. ) <br/><br/>2013'te evlendik bu arada. <br/>şiddetli geçimsizlik yaşıyorduk fakat ayrılmıyorduk. ben bitti deseydim bitecekti ama. bu, gururuma o kadar dokunuyordu ki ama yine de gidemiyordum. çünkü biliyorum, "gidiyorum ben" dediğimde "gitme" demeyecekti. göze alamadım, bencillik ettim, üzülmekten korktum. sonrasını düşündüm, ya pişman olursam dedim. başka bi kadını sevmesinden çok korktum. çünkü ona dair sevdiğim en yüce şey beni sevişiydi. bu da bencillik biliyorum ama çok başka severdi beni, güzel severdi. kaybetmekten korktum. şiddet bile gördüm ama unutmaya çalıştım, hatırlarsam giderim belki diye. öyle acizdim yani. <br/>halbuki bunu kaybetmemek için kalmak yetmiyormuş, onu öğrendim. <br/><br/>yıl 2017. birsürü başka şey yaşadık. ikili ilişkilerde değil maddi manevi alanlarda. o bunalıma girdi. yanında olmak istedim, olduğuma da inanıyorum. ama o yalnızlaştıkça yalnızlaştı. 8 aylık hamileyken ben o yalnızlaşmalara başlamıştı. şimdi bebeğim 7 aylık, evde ayrı odalarda yaşıyoruz. neyi kaybettim biliyor musunuz? <br/>sevişini. beni sevmeyi unuttu, sevgisiz bıraktı. evde koridorda görse sarılıp öpen adam, gün içinde yüzüme bile bakmamaya başladı. lohusa oldum ben, o sendromu yaşama lüksüm bile olmadı. nazımı çeken kimse yoktu çünkü. <br/>şimdi elde var dünya tatlısı bi çocuk, ama sevgisini yitirmiş ana baba. en büyük hayalimdi mutlu bi çocuk yetiştirmek. çalışan bi insanım, çalışmamayı hayal ederdim. çocuklarım, eşim eve geldiğinde ev kek börek koksun diye. pazar kahvaltılarımız olsun neşeli. plan yapamasın kimse, ailemle olmak istiyorum diye.ve daha birsürü şey..<br/><br/>olmadı. 31 yaşındayım, geçen yıllarda elbette üzüntülerim, dertlerim oldu. ama hiçbir zaman demedim "mutsuzum" diye. şimdi diyebiliyorum. evet çok mutsuzum. <br/><br/>geçmişe dönüp bakıyorum. 1-0 önde başlamışken maça, şimdi yüzde yüz yenik. o istemiş, o yalvarmış, şiirler methiyeler. ama geldiğimiz durum kavgalar, dayaklar, ağza alınmayacak küfürler. hiçbir zaman da hakkımda iyi bi şey söylemez bu arada. iyi niyetle yaptığım şeyleri hep eleştirir, hep kötü düşünür. <br/>1 yıl önce bütün hedeflerime ulaşmıştım ve çok istediğim bebeğime hamileydim. mutlu ailenin eli kulağındaydı. ama işte kul planlar, tanrı gülermiş. iyi bi komedi oldu tanrıya bizim hikayemiz. <br/><br/>kafam çok karışık, bu yüzden kopukluk var yazımda biliyorum. buraya kadar sabrettiysen bundan sonrasını da okursun ama. <br/><br/>duygularım karman çorman. hayallerim kırık, mutsuz bi insan ama mutluluğa zorlayan anne. geçmişe dönüp bakıyorum, kocaman bi boşluk. daha 24'ümdeyken, hayatımdaki her şey mükemmelken nasıl oldu da böylesine tükendim? liğme liğme oldum. hayaller ne de kırılgan şeylermiş öyle. çöp oldu hepsi. artık yavrum için hayata tutunmak zorundayım ama yalnız olmamayı o kadar çok isterdim ki, eşimin kollarında oğlumla kaybolmayı.. birlikte pikniğe gitmeyi, resimler yapmayı.. <br/>olmadı, olmayacak. çünkü onun meşhur bi sözü vardır:<br/>"bir kadın sevilmediğini anlar." <br/>anlıyorum sevgili eşim. bense seni hala seviyorum ama gücüm kalmadı artık. <br/>daha yazmak istediğim çok şey var aslında ama yazarken bile daralıyorum. duygularımı boşluğa bile anlatamıyorum. öyle yitmişim, yitirmişim.
 - entry_name: |
     istanbul'dan gidenler geri gelmesin kampanyası
   entry_id:  69054675
   entry_writer: neyse ya bosver
-  entry_fav_count: 27
+  entry_fav_count: 30
   entry_content: |
     "memleketine giden dönmesin de güzelim ege sahillerinin suçu ne" diye sormak istediğim kampanya.
 - entry_name: |
-    habire götten zarto
-  entry_id:  69051523
-  entry_writer: the wild kitten
-  entry_fav_count: 22
+    ekşi itiraf
+  entry_id:  69048791
+  entry_writer: peki o zaman
+  entry_fav_count: 29
   entry_content: |
-    bunu da sildir ağzına sıçtığımın manyağı.
-- entry_name: |
-    eli kanlı terör örgütü fetönün alkışladığı olay
-  entry_id:  69060910
-  entry_writer: gelecegi olmayan adam
-  entry_fav_count: 21
-  entry_content: |
-    hakan şükür'ün milletvekili seçilmesidir.
-- entry_name: |
-    antalya
-  entry_id:  69049092
-  entry_writer: novalis88
-  entry_fav_count: 21
-  entry_content: |
-    güzel şehir. ama yaz aylarında, o bildiğimiz cehennem sıcağında gidilecek tek yer var. 5m migros'un bulunduğu avm'nin giriş kapısından giriniz, işte tam o giriş bölümünde, durmanızı öneririm. bulunabilecek en serin yer orasıdır çünkü. bir de metro gross marketlerin, et, süt ürünleri bölümünü ziyaret edebilirsiniz.
+    tam her şeyi yoluna koydum derken kötüden de kötü hale düşmek. <br/><br/>ben beni çok isteyen, çok aşırı isteyen, zorla isteyen bi adamla evlendim. bu kısmı özellikle söylüyorum çünkü ben hiç istemiyordum. sonra ne olduysa kendimi onunla evlenmiş buldum. bir şeyde fazla ısrar etmenin götürülerinden bahsetmek istiyorum biraz tam burda. <br/><br/>yıl 2010. adam bana aşık, platonik. facebook'ta paylaştığım herkese açık olan, sırtı dönük bi kadın (ben sanıyor) fotoğrafıyla avunuyor aylarca. benim yok bunlardan haberim. hülasa beni bi şekilde buluyor, görüyor; aşkı katlanıyor falan. aşktan bahsediyoruz ama nasıl lakayt bi üslubum var diğ mi ? maalesef fazla ısrarın götürüleri bunlar işte. <br/><br/>adama evet diyorum. ondan sonra film kopuyor. nişanlanmaya çalışıyoruz bok var gibi hemen. aileler devreye giriyor. birimiz karadenizli birimiz kürt. beklentilerini karşılayamıyorum. kaynanam bana "düğünü hiç böyle hayal etmemiştim." diyor. <br/>niye hayal ettin ki diyorum? ben sade yaşamayı seven bi insanım ve gürültülü bi düğün istemedim, kültürlerimiz çatıştı. sevmediler beni hiç, çok sinsice hareket ettiler. şu kanal 7 dizileri var ya, orda böyle tuzaklar falan kurarlar gelinlere. o cinsten şeyler yaşıyorum bayağı :) eşimle- o zamanlar nişanlıyız- gidince onun yanında güler yüz, o yokken suratıma bakmamalar falan. sonra evlendikten sonra kaynanamın ağzından da duydum zaten, sen beni oğlumdan ayırdın, dedi. yani ana düşünce buydu, diğer davranışlar da kompozisyonu süsleyenler. tüm bunlar bizim evliliğimizi ciddi anlamda çatırdattı tabii. ama sevdiğimizden ayrılamadık da. ( cesur kadınlara hep imrenmişimdir, gidebilenlere. ben gidemedim. ) <br/><br/>2013'te evlendik bu arada. <br/>şiddetli geçimsizlik yaşıyorduk fakat ayrılmıyorduk. ben bitti deseydim bitecekti ama. bu, gururuma o kadar dokunuyordu ki ama yine de gidemiyordum. çünkü biliyorum, "gidiyorum ben" dediğimde "gitme" demeyecekti. göze alamadım, bencillik ettim, üzülmekten korktum. sonrasını düşündüm, ya pişman olursam dedim. başka bi kadını sevmesinden çok korktum. çünkü ona dair sevdiğim en yüce şey beni sevişiydi. bu da bencillik biliyorum ama çok başka severdi beni, güzel severdi. kaybetmekten korktum. şiddet bile gördüm ama unutmaya çalıştım, hatırlarsam giderim belki diye. öyle acizdim yani. <br/>halbuki bunu kaybetmemek için kalmak yetmiyormuş, onu öğrendim. <br/><br/>yıl 2017. birsürü başka şey yaşadık. ikili ilişkilerde değil maddi manevi alanlarda. o bunalıma girdi. yanında olmak istedim, olduğuma da inanıyorum. ama o yalnızlaştıkça yalnızlaştı. 8 aylık hamileyken ben o yalnızlaşmalara başlamıştı. şimdi bebeğim 7 aylık, evde ayrı odalarda yaşıyoruz. neyi kaybettim biliyor musunuz? <br/>sevişini. beni sevmeyi unuttu, sevgisiz bıraktı. evde koridorda görse sarılıp öpen adam, gün içinde yüzüme bile bakmamaya başladı. lohusa oldum ben, o sendromu yaşama lüksüm bile olmadı. nazımı çeken kimse yoktu çünkü. <br/>şimdi elde var dünya tatlısı bi çocuk, ama sevgisini yitirmiş ana baba. en büyük hayalimdi mutlu bi çocuk yetiştirmek. çalışan bi insanım, çalışmamayı hayal ederdim. çocuklarım, eşim eve geldiğinde ev kek börek koksun diye. pazar kahvaltılarımız olsun neşeli. plan yapamasın kimse, ailemle olmak istiyorum diye.ve daha birsürü şey..<br/><br/>olmadı. 31 yaşındayım, geçen yıllarda elbette üzüntülerim, dertlerim oldu. ama hiçbir zaman demedim "mutsuzum" diye. şimdi diyebiliyorum. evet çok mutsuzum. <br/><br/>geçmişe dönüp bakıyorum. 1-0 önde başlamışken maça, şimdi yüzde yüz yenik. o istemiş, o yalvarmış, şiirler methiyeler. ama geldiğimiz durum kavgalar, dayaklar, ağza alınmayacak küfürler. hiçbir zaman da hakkımda iyi bi şey söylemez bu arada. iyi niyetle yaptığım şeyleri hep eleştirir, hep kötü düşünür. <br/>1 yıl önce bütün hedeflerime ulaşmıştım ve çok istediğim bebeğime hamileydim. mutlu ailenin eli kulağındaydı. ama işte kul planlar, tanrı gülermiş. iyi bi komedi oldu tanrıya bizim hikayemiz. <br/><br/>kafam çok karışık, bu yüzden kopukluk var yazımda biliyorum. buraya kadar sabrettiysen bundan sonrasını da okursun ama. <br/><br/>duygularım karman çorman. hayallerim kırık, mutsuz bi insan ama mutluluğa zorlayan anne. geçmişe dönüp bakıyorum, kocaman bi boşluk. daha 24'ümdeyken, hayatımdaki her şey mükemmelken nasıl oldu da böylesine tükendim? liğme liğme oldum. hayaller ne de kırılgan şeylermiş öyle. çöp oldu hepsi. artık yavrum için hayata tutunmak zorundayım ama yalnız olmamayı o kadar çok isterdim ki, eşimin kollarında oğlumla kaybolmayı.. birlikte pikniğe gitmeyi, resimler yapmayı.. <br/>olmadı, olmayacak. çünkü onun meşhur bi sözü vardır:<br/>"bir kadın sevilmediğini anlar." <br/>anlıyorum sevgili eşim. bense seni hala seviyorum ama gücüm kalmadı artık. <br/>daha yazmak istediğim çok şey var aslında ama yazarken bile daralıyorum. duygularımı boşluğa bile anlatamıyorum. öyle yitmişim, yitirmişim.
 - entry_name: |
     istanbul'un en iyi tatlıcıları
   entry_id:  69060257
   entry_writer: i am not noob
-  entry_fav_count: 20
+  entry_fav_count: 26
   entry_content: |
     (bkz: <a class="b" href="/?q=az+bilinen+bir+yer+s%c3%b6yleyeyim+de+gurme+sans%c4%b1nlar">az bilinen bir yer söyleyeyim de gurme sansınlar</a>)
+- entry_name: |
+    antalya
+  entry_id:  69049092
+  entry_writer: novalis88
+  entry_fav_count: 24
+  entry_content: |
+    güzel şehir. ama yaz aylarında, o bildiğimiz cehennem sıcağında gidilecek tek yer var. 5m migros'un bulunduğu avm'nin giriş kapısından giriniz, işte tam o giriş bölümünde, durmanızı öneririm. bulunabilecek en serin yer orasıdır çünkü. bir de metro gross marketlerin, et, süt ürünleri bölümünü ziyaret edebilirsiniz.
+- entry_name: |
+    habire götten zarto
+  entry_id:  69051523
+  entry_writer: the wild kitten
+  entry_fav_count: 23
+  entry_content: |
+    bunu da sildir ağzına sıçtığımın manyağı.
 - entry_name: |
     okullarda abdesthane ve mescitlerin zorunlu olması
   entry_id:  69048755
@@ -220,13 +206,6 @@ data:
   entry_content: |
     piano sonata'nın kazanacağnı tahmin ettiğim yarış. sürpriz bekliyorum.
 - entry_name: |
-    steam summer sale 2017
-  entry_id:  69056045
-  entry_writer: windhelm
-  entry_fav_count: 9
-  entry_content: |
-    gaza gelip dunya kadar oyun aldim, buraya gelip biraz lanet okuyayim derken entrylerde gordum shadow of mordor'u bilin bakalim noldu 1 dk once onu da aldim. lanet olsun gercekten. oyun oynayacak pc bile yok, telefondan aliyorum ya allah kahretsin.
-- entry_name: |
     2017 azerbaycan gp
   entry_id:  69059407
   entry_writer: dikembe mutombo
@@ -248,19 +227,26 @@ data:
   entry_content: |
     güçlü kadın deyince ilk akla gelen <br/>(bkz: <a class="b" href="/?q=t%c3%bcrkan+saylan">türkan saylan</a>). <br/><br/>evet bazı şerefsizler çok nefret ettiler kendisinden.
 - entry_name: |
-    birinci geleneksel ekşi sözlük voleybol zirvesi
-  entry_id:  69051111
-  entry_writer: dunyanin en buzin seven insani
-  entry_fav_count: 7
-  entry_content: |
-    bu kadar kalabalık bi sözlükte, bi çok şehirden takımın katılacağı minik turnuvalar bile yapılır. sinirin, stresin eksik olmadığı hayatlara ufak da olsa bi soluk getireceği için desteklenmesi lazım. <br/><br/>ha ben götümü kaldırıp gelmem o ayrı tabii :3
-- entry_name: |
     otoyolda herkesin sağladığı yavaş yavaş giden öküz
   entry_id:  69050002
   entry_writer: emanual
   entry_fav_count: 6
   entry_content: |
     orta şeritte istediği hızla gidilebileceğini sanan insanların olduğunu gösteren başlık. <br/>mümkün mertebe kurallara uyarım, hız sınırını aşmam. geçiş yaptıktan sonra hızım uygun değilse sol şeridi hemen boşaltırım. bazen canım yavaş gitmek ister, otobanda en sağa geçerim, hiç üşenmeden tek tek kamyon sollarım. çünkü otobanda 90 ile orta şeritten gidilmez!<br/>istanbul'da bu tiplerle sık karşılaşırsınız 50 ile orta şeritten giderler, üstelik sağ şerit de boştur. oysa ki orta şeridin gerektirdiği hız 70 civarıdır. (akıcı trafikte)sağa geç diye uyarırsınız tınmaz. sol şerit boşalsın diye beklersiniz.<br/><br/>orta şerit kafana göre gideceğin şerit değildir. <br/><br/>buyrun kanuna bakalım.<br/><br/>karayollarında trafiğin akışı ve karayolunun kullanılması<br/>madde 94- karayollarında trafik sağdan akar.<br/>aksine bir hüküm veya işaret bulunmadıkça karayollarında;<br/>a) araç sürücüleri;<br/>a) araçlarını durumun elverdiği oranda gidiş yönüne göre yolun en sağından, yol çok şeritli ise trafik durumuna göre hızının gerektirdiği şeritten sürmek,<br/>zorundadır.<br/>ayrıca,<br/>ı) araçlarının cinsine ve hızına uygun olmayan şeritten gitmeleri yasaktır.<br/><br/>bu başlıkta bahsedilen sol şeritte 120 ile gidip yol vermeyen adam değil, 70-80 ile sol şeridi kapatan adam. <br/><br/>3 şeritli yolda , en sağ şeritte 70 ile giderken selektör yapan sığır görmüşlüğüm de var, orası ayrı.
+- entry_name: |
+    fıstıklı baklava vs cevizli baklava
+  entry_id:  69060480
+  entry_writer: turuncan53
+  entry_fav_count: 6
+  entry_content: |
+    cevizli baklavayı oldum olası anlamamış biri olarak oyumu fıstıklı baklavaya bastığım karşılaşmadır.
+- entry_name: |
+    ecnebilerin elinde olsaydı daha güzel olacak iller
+  entry_id:  69062938
+  entry_writer: nicksizkaldim
+  entry_fav_count: 6
+  entry_content: |
+    e) hepsi
 - entry_name: |
     bayramda toplu mesaj atmak
   entry_id:  69056515
@@ -290,12 +276,12 @@ data:
   entry_content: |
     hayvanlara şiddet uygulaması. daha ne olsun.
 - entry_name: |
-    fıstıklı baklava vs cevizli baklava
-  entry_id:  69060480
-  entry_writer: turuncan53
+    geceye bir şiir bırak
+  entry_id:  69049779
+  entry_writer: carriebradshaw
   entry_fav_count: 4
   entry_content: |
-    cevizli baklavayı oldum olası anlamamış biri olarak oyumu fıstıklı baklavaya bastığım karşılaşmadır.
+    vazgeçtim bu dünyadan tek ölüm paklar beni, <br/>değmez bu yangın yeri, avuç açmaya değmez. <br/>değil mi ki çiğnenmiş inancın en seçkini, <br/>değil mi ki yoksullar mutluluktan habersiz, <br/>değil mi ki ayaklar altında insan onuru, <br/>o kızoğlan kız erdem dağlara kaldırılmış, <br/>ezilmiş, horgörülmüş el emeği, göz nuru, <br/>ödlekler geçmiş başa, derken mertlik bozulmuş, <br/>değil mi ki korkudan dili bağlı sanatın, <br/>değil mi ki çılgınlık sahip çıkmış düzene, <br/>doğruya doğru derken eğriye çıkmış adın, <br/>değil mi ki kötüler kadı olmuş yemen' e <br/>vazgeçtim bu dünyadan, dünyamdan geçtim ama, <br/>seni yalnız komak var, o koyuyor adama. <br/><br/>66. sone / shakespeare <br/><br/>çeviri : can yücel
 - entry_name: |
     galatasaray
   entry_id:  69049735
@@ -304,6 +290,20 @@ data:
   entry_content: |
     bu sene de tolga-selçuk ikilisinde ısrar ihanette ısrardır. selçuk inan denen vasıfsızdan nefret ediyor olmam ile alakalı bir durum değil bu. bu ligde iş yapmak istiyorsan kesinlikle bir dmc almak zorundasın. eğer bu sene de bir dmc alınmazsa artık selçuk inanın bu takımın 'sahibi' olduğunu en gerizekalı bile anlar.
 - entry_name: |
+    akademisyene smiley yollamak
+  entry_id:  69061459
+  entry_writer: micro megas
+  entry_fav_count: 3
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bak%c4%b1n+nas%c4%b1l+da+yabanc%c4%b1+dilde+maille%c5%9fiyorum">bakın nasıl da yabancı dilde mailleşiyorum</a>)
+- entry_name: |
+    starbucks'ı pahalı bulmayan zihniyet
+  entry_id:  69063072
+  entry_writer: budabendenolsun34
+  entry_fav_count: 2
+  entry_content: |
+    çay bardagında bir çayı 4-5 tl'ye satan cafe ve pastanelere göre starbucks cok ucuz
+- entry_name: |
     tarkan
   entry_id:  69056614
   entry_writer: iklim
@@ -311,19 +311,19 @@ data:
   entry_content: |
     nasıl albüm yaparsa yapsın türk pop'unun son 20 yıldır kralı. yanına yaklaşan dahi olmadı henüz. hani "birinci belli, ikinci kim" derler ya, bu adam öyle bir yerde, tek başına açık ara zirvede. ne yapsa diğerlerinden zaten daha iyi olacak, diğerlerini ezip geçecek, diğerleri bunun tozunu yutacak. o zaman neden hala müzikalitesi erimiş insanlarla çalışıyor bilmiyorum. yine de iyi ki var, en azından türk popunun kralı olan insan ülkedeki muafazakar rüzgara göre eğilip bükülmüyor.
 - entry_name: |
-    ecnebilerin elinde olsaydı daha güzel olacak iller
-  entry_id:  69062872
-  entry_writer: kunduramin akisina olurum turkiyem
+    mersin akbelen mezarlık rezaleti
+  entry_id:  69054165
+  entry_writer: fancia
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=eski%c5%9fehir+hari%c3%a7+de+ulan">eskişehir hariç de ulan</a>)
+    tam olarak emevi müslümanlığı ile ahlaksız, allahsız, yoz yerel bürokrasiyi yansıtan rezalet. para yiyip mezarlık arazisinin üstüne çökenlerin allah belasını versin, tüm o mezarlıktaki merhumların laneti yedi cedlerinin yakasını bırakmasın.
 - entry_name: |
-    süregelen ekşi sözlük taciz rezaleti
-  entry_id:  69059023
-  entry_writer: yagmuryagincayanindaolmayansemsiye
-  entry_fav_count: 0
+    düşün ki o bunu okuyor
+  entry_id:  69056789
+  entry_writer: sekil bozuklugu
+  entry_fav_count: 1
   entry_content: |
-    açıkçası sorun belki de osurmasi degil. elindeki iktidar partisine yakin olma gücünu gözümüze gözümüze sokması. ayrica popisini buradan cikarma çabası. ekmeginin pesinde olmasi. <br/><br/>gercekten de bir insan osurdu diye entry giren de degisiktir. bu dünyada osurmayan varsa mesaj atsin. <br/><br/>ama su da bir gerçek ki bir kadina ya da erkeğe gıcık olup guzel cikin, osuran osurmayan gibi cig basliklar acmak da olayi sulandirmak. gereksiz. <br/><br/>bu entry de silinir mi bilmiyorum ama. bu kisinin adi meltem soyadi da bankodur. <br/><br/>artik bir nefes alsin ve mahkemeleri bosuna meşgul etmesin. heralde sonunda birinci sulhu ona tahsis edecekler. kisiye ozel muamele. superto ulke be...
+    her bayram "belki bir daha bayrama birlikte gireriz" deyişin aklıma geliyor. kaç bayram geçti üstünden saymadım, sen saydın mı?
 - entry_name: |
     lgbt+ desteklememek gericiliktir
   entry_id:  69061387
@@ -332,24 +332,24 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=travesti+ba%c5%9fl%c4%b1klar%c4%b1">travesti başlıkları</a>)
 - entry_name: |
-    eurovision tarihinin en iyi şarkısı
-  entry_id:  69049416
-  entry_writer: mazut
+    kazım koyuncu
+  entry_id:  69049260
+  entry_writer: abani
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=we+are+the+winners+of+eurovision">we are the winners of eurovision</a>)<br/><br/>açık ara.
+    yağmur yağıyor...
+- entry_name: |
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+  entry_id:  69060481
+  entry_writer: gunes girmeyen eve girer deve
+  entry_fav_count: 0
+  entry_content: |
+    genelde cinsel açlıklarını ifade eden entryleri olan boş beleş erkek yazarların belki düşer umuduyla yazdığı başlık. en azından bugün.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  69058840
-  entry_writer: el pajaro
+  entry_id:  69063276
+  entry_writer: cikmaz sokak
   entry_fav_count: 0
   entry_content: |
-    seker gibi bi bayram dileseydim?<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://connected2.me/nonchalants">https://connected2.me/nonchalants</a>
-- entry_name: |
-    akademisyene smiley yollamak
-  entry_id:  69061298
-  entry_writer: vamos bien md
-  entry_fav_count: 0
-  entry_content: |
-    bizim akademisyenler iyi yaa, hem ingilizce de konuşmuyoruz kendileriyle, whatsapp tan türkçe mesajlaşıp rakı masasında buluşuyoruz falan.
+    (bkz: <a class="b" href="/?q=bunca+insan+yaln%c4%b1zken+neden+bunca+insan+yaln%c4%b1z">bunca insan yalnızken neden bunca insan yalnız</a>)<br/>(bkz: <a class="b" href="/?q=madem+hepimiz+yat%c4%b1yoruz+neden+yaln%c4%b1z+yatal%c4%b1m%3f">madem hepimiz yatıyoruz neden yalnız yatalım?</a>)<br/>kk.
 ---
