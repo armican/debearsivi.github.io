@@ -6,14 +6,14 @@ data:
     25 haziran 2017 erdoğan'ın hastaneye kaldırılması
   entry_id:  69053389
   entry_writer: oliver wendell holmes
-  entry_fav_count: 1028
+  entry_fav_count: 1030
   entry_content: |
     (bkz: <a class="b" href="/?q=ay+olabilir+mi+%c3%b6yle+bir+%c5%9fey+l%c3%bctfen+olsun+%c3%a7%c3%bcnk%c3%bc">ay olabilir mi öyle bir şey lütfen olsun çünkü</a>)
 - entry_name: |
     ateistlerin bayram tatili yapmasındaki saçmalık
   entry_id:  69052184
   entry_writer: gelecegi olmayan adam
-  entry_fav_count: 531
+  entry_fav_count: 532
   entry_content: |
     (bkz: <a class="b" href="/?q=ateistin+vergisinin+diyanete+gitmesindeki+sa%c3%a7mal%c4%b1k">ateistin vergisinin diyanete gitmesindeki saçmalık</a>)<br/><br/>edit : diyanet vergisi nedir diye soruldu, havuzda toplanan paranın diyanete aktarılan kısmıdır. bu havuza giren paranın içinde şans oyunları, alkol ve tütün vergileri de dahildir. karakter kısıtlaması nedeniyle öyle yazıldı.
 - entry_name: |
@@ -24,45 +24,52 @@ data:
   entry_content: |
     herkes çok mutlu<br/>herkes tatilde<br/>herkes zengin<br/>herkes kocişiyle mutlu
 - entry_name: |
+    cem yılmaz'ın menemen ısmarlaması
+  entry_id:  69053239
+  entry_writer: zlipknot
+  entry_fav_count: 395
+  entry_content: |
+    geçtiğimiz aylarda bir gece, saat 11 suları.. canım nasıl sıkılmış.. ne yapsam etsem derken o ceketi gördüm. ne kadar severek aldıysam da pek giyecek fırsat bulamamıştım, o da meğer bu geceyi bekliyormuş.. hemen kalktım, giydim güzelce, aynada baktım kendime, saçlarımı attım geriye, "selam" dedim aynadaki yansımama..<br/><br/>gerizekalı bir mutluluk yayılmıştı bünyeme, ceket de mutluydu belli ki, sıkıca sarmıştı bedenimi. "kilo mu aldım yahu ben" demeye kalmadan kombinimi tamamlamıştım. akşam vakti durup dururken ayakkabısına kadar giyenen bir adam olduğumu farkedip daha fazla garipleşmeden kendimi dışarı atmam gerektiğini farkettim. ben adım attıkça sanki insanlar bana bakıyordu, onlar baktıkça ben daha bir uzuyor, daha bir sempatik oluyor, neredeyse herkese "selam" diyecek bir ruh haline bürünüyordum.. bürünüyordum da nereye gidiyorum hala bilmiyordum. derken bir bakmışım elim havada, sonra yine bir bakmışım saniyesine bir taksi önümde, adeta bir film sahnesi..<br/><br/>önde araba olmadığı için takip ettiremeyeceğimden aklıma ilk gelen cool semti yani cihangir'i söylüyorum.. sonra cihangir'i düşünüyorum, nerede olduğunu hesap etmeye çalışıyorum, taksimetreyi kesiyorum, of nasıl acıkmışım, acayip menemen bir gün, menemen günü, menemen yemeliyim derken taksicinin sorusuna *menemen* diye haykırıyorum. adam normalmiş gibi tekrar sorarak kendi alternatif yolunu öneriyor, olur diyorum ama sanki yollar birer yumurta, binalar biber, boğaz domates, geçiyoruz gidiyoruz derken bir ses beni uyandırıyor.. ağzım güzelim ceketime akmış, saç baş dağılmış, gözlerimi siliyorken "geldik abi 84 tl" diyor bir ses.. "yavv o fiyata menemen olur mu" derken tamam sen 70 ver diyor.. uykuluyken nereleri dolaştırdıysa verip iniyorum şirin mi şirin demek isteyip diyemeyeceğim bir cihangir sokağında.. bahar gecesi mi, puslu bir kış gecesi mi anlayamadığım pis pir soğuğu iliklerime kadar hissediyorum ve daha çok sarılıyorum ceketime, seviyorum arada iyi ki varsıni ısındım sayende diyorum ve koşar adımlarla ışıkları yanan ufak bir cafeye giriyorum..<br/><br/>nasıl girdiysem artık tüm mekan bana bakıyor.. ufacık, tefecik en fazla 8-10 masanın olduğu bir mekana girmiş bulunuyorum.. sahip çift hoşgeldiniz ile karışık nereye oturtacaz bunu şimdi korkusu ile "tt-tek kişi misiniz" şeklinde sual buyuruyorlar.. arkama bakıyorum, ceketimleyim diyemeyeceğime göre, "e-evet" diye kekeliyorum çiftler restoranına.. beni mekanın en arkasında, yapayalnızlar için özel yapılmış artık tozlanan yalnızlar masasına oturtuyorlar.. tek sandalye, masada tek bir gül, ve ilginç köşe bir yer, mekandan hafif ayrık durumda.. umursamadan geçiveriyorum.. sahip çift de tanıdık hani, tiyatro ünlüsü ama ünsüzü de olabilir, belli ki burada tutunmuşlar hayata, ay canım derken siparişimi soruyorlar.. normalde uzunca menü gözatışı ve kararsızlık yaşadığım bu anda menüyü itip, ağzımın kenarında bir gülüç ile sanki içimde bir cüneyt arkın varmış gibi "menemen istiyorum canım" diyiveriyorum kendimden emin.. tiyatrocu kız bir salağa cevap verircesine "burada menemen yok" diyor.. yıkılıyorum, lanet olsun sana entel cihangir cümlesini yutup "çay var mı bari" diyorum.. kız menüyü sert bir şekilde kapayıp üffleyip gidiyor.. anlıyorum ki çay var..<br/><br/>o üşümeden midir yoksa yalnızlığımın bu köhne köşede bana hatırlatılmasından mıdır bilmem çay içtikçe içiyorum.. aslında karnım da aç ama içimdeki cüneyt arkın nayır diyor.. köşedeki yansımamda kendimi görüyorum ve bacaklarımın uyuştuğunu, karnımın ağrıdığını hissediyorum.. çişim gelmiş meğer, panik yapmıyorum. insanlar aşağı yukarı iniyorlar tuvalete. benim köşede arkadamki paravanın yanında kapak görüyorum. kapaklara bayılırım, aşağı okunu da görünce kıza, "buradan tuvalete iniliyor dimi" soruma "hı-hı" şeklinde bir cevap alıyorum.. geldiğimden beri kimsenin umursamadığı bendeniz her zamanki gibi wc öncesi ödememi yapıyor ve dolabın kapağını kaldırıyorum.. kaldırıyorum da bu sefer beyaz bir kapak beni karşılıyor. daha bir meraklanıyorum.. kapakta bir ayak izi var, bu sefer sola çek diyor.. ayağımı basıp sola çekiyorum ve içine ışık hüzmelerinin girdiği bir depo görüyorum..<br/><br/>ceketim, merakım, menemen birbirine destek vererek bacağımı bu ne idüğü belirsiz yere sokmam için tezahurat yapıyorlar. bir bacağım içeride, bir diğeri yukarıda kalınca epey bir derinlik olduğunu keşfediyorum ve kafamla eğilip güvenli olup olmadığına bakıyorum.. bu bakışmada karşımda ağzına yemeğini götürürken kitlenmiş bir cem yılmaz ile karışılaşıyorum, "portakal suyunu çok severim diyor" bir şekilde gömleğime dökülmüş portakal suyunu işaret ederek, içebilirsin abi diyorum gömlekten.. "lan ne gazı var burada, bu neyip kafası" derken mekan sahibi kız ve sevgilisinin sesini duyuyorum.. "aaa orada depo mu varmış".. bu uyandırma servisi ile gerçek bir vaka içerisinde olduğumu farkedip iki bacağımı da boşluğa salarak, pılımı pırtımı toplamış şekilde ardımdan önce ana kapağı, sonradan beyaz kapağı sürüp eğilerek ışığa doğru yürüyorum artık..<br/><br/>bambaşka bir mekandayım.. adeta ben olmuşum alice, mekan olmuş harikalar diyarı, karşımda da gözlüğünü bir bilge edası ile koyup sigarasını söndüren cem yılmaz.. o da benim gibi güzel bir ceket giymiş, kol düğmesine kadar takmış ve benim gibi süslü bir mekanın alt katının en köşesindeki yalnızlar masasında oturuyor.. kendisine yaklaştığımı görünce gel abi otur diyor.. ben zaten sanldayeyi çekmiş bulunduğumdan normal karşılıyorum bu cümleyi. içimdeki yorgunluk, yalnızlık ve hüzün ile bir an arkama bakıyorum. mekanın güzel bir süslemesi olarak kurgulanmış şömine köşesinden bir noel baba edası ile çıktığımı farkediyorum, sonra afiyetle çorbasına devam eden cem yılmaz'a dönüyorum.. nedendir bilinmez "süzme mercimek mi o abi" diyorum.. bu alakasız soruya "çok severim" yanıtını geliyor, ama bu "ezogelin galiba" diyor ve sonra sormadan edemiyor, "ne yapıyorsun".. ben de gayet normal bir şekilde günümü özetliyorum, keyifleniyor epeyce absürtlüğüme.. ben de rahatlıyorum.. "yazılımcıyım" diyorum, ne isterlerse yazıyorum, milyonlar kullanıyor belki de, belki de gülüyorlar, küfrediyorlar yazdıklarıma diyorum.. "benim gibi desene.." diyor..<br/><br/>garson bölüyor sonra.. "misarifiniz geleceğini bilmiyorduk cem bey" diyor telaşla beni işaret edip, nereden geldiğimi de kestiremeyerek.. "ben de" diyor gülümseyerek, "tanrı misafiri" diye ekliyor. garson soruyor, "ne istersiniz".. ben elbette, "menemen" diyorum.. cem yılmaz kahkahası ile o yalnızlık ve hüzününü çokça ardında bıraktığını gösteriyor, garson da hafif bozuntu ile "bizde menemen yok" diyor.. ben nasıl girdiğimi anlayamadığım mekanın entelliğini kestirememenin verdiği üzüntü ile boynumu tam bükerken cem yılmaz kükrüyor! "sizde iki domates, iki biber, dört yumurta yok mu aslanım", iki porsiyon gönder derken ortayı işaret ediyor.. garson koşarak uzaklaşıyor, ben "into the middle" diyiveriyorum, tebessüm ediyor..<br/><br/>güzel ceketmiş diye işaret ediyor ceketime.. her şeyin onun başının altından çıktığını anlatıyorum.. sonra tereyağı kokusu sarıyor ortalığı, mekanın şefi elinde harika ötesi bir bakır kap içinde menemenimizi ikram edip özrünü diliyor, cem yılmaz gülümsüyor.. çayımız ile birlikte ortadan banarak menemenimizi yiyoruz.. bundan güzel skeç olur diyor ha diyor, ben bunda oynarım.. gülümsüyorum, tereyağına da ban diyorum cem abi'ye, oo ayıpsın diyor ve gece akıp gidiyor...
+- entry_name: |
     akıllı telefonun pil ömrünü uzatma yöntemleri
   entry_id:  69058686
   entry_writer: eksi was here
-  entry_fav_count: 294
+  entry_fav_count: 310
   entry_content: |
     akıllı telefonlarda, eski telefonların aksine <a class="b" href="/?q=nikel">nikel</a> pil yerine <a class="b" href="/?q=lityum">lityum</a> piller olduğundan ötürü; şarjı sonuna dek tüketmeye çalışmanın yanlış olduğu yöntemlerdir.<br/><br/>açıklayayım:<br/><br/>internette dolaşan "pil ömrünü uzun tutma yolları", "telefonun pilini nasıl sağlıklı tutarız" türü bilgilerin içerisinde "şarjı tam doldurun ve sonuna dek bitirin" yazar, hepsi doğrudur. evet doğrudur.<br/><br/><a class="b" href="/?q=ama">ama</a><br/>bak işte işin <a class="b" href="/?q=ama">ama</a>'sı var,<br/><br/>o bilgiler nikel telefon pilleri içindi. son yıllara kadar telefonlarda nikel piller olurdu ama özellikle akıllı telefon furyası ve daha çok şarj ihtiyacı ile işler değişti.<br/>şu anda akıllı telefonlarda lityum piller var. lityum apayrı bir teknoloji. nikel pillere göre tehlike içeriyor (örneğin hava alırsa patlayabiliyor) (note 7 gibi).. ama daha çok şarj kapasitesi tutuyor. bu nedenle tehlike riski gözardı edilerek, artık lityum piller kullanılıyor.<br/><br/>nikel pil sonuna dek boşalmayı sever.<br/>lityum pil ise doluluğu sever.<br/><br/>bir deney vardı bu konuyla ilgili. şimdilik özet geçeyim:<br/>1 yıl boyunca %40'ın üstünde tutulan lityum piller, %10'a kadar kapasite kaybederler. <br/>1 yıl boyunca %40'ın altında tutulan lityum piller ise %35'e kadar kapasite kaybederler.<br/><br/>ayrıca lityum pili sonuna dek bitirirseniz bir daha çalışmaz. %0'a "gerçekten" inerse tekrar çalışmaz. akıllı telefonlar bu yüzden, gerçekte hala azıcık şarj varken (%2 kadar) sizlere şarjı bitmiş gibi (%0) gösterirler ve kendini kapatırlar. zaten şarjı gerçekten bitmiş olsa, düğmesine basınca ekranda "beni şarja tak" uyarısını çıkaramazdı bile. <br/><br/>bazıları sonuna kadar bitirmeyi kafaya takar ve cihazın güç tuşuna basınca ekrana gelen "şarja tak" uyarısını dahi göremeyinceye dek zorlar. <a class="b" href="/?q=donan%c4%b1mhaber">donanımhaber</a>'de bir ara bunu yapmaya çalışanlar oldu. sonra da forumlardaki "telefonun bataryasını tamamen bitirdim. açılmıyor. ühühü" diyen kitlelerin arasına katıldılar. siz yapmayın. <br/><br/>şimdi bir de biliyorsunuz, "şarj döngüsü" olayı var. pillerde "500 şarj döngüsü" yazıyor diyelim. ki şu anda çoğu telefon öyle... <br/><br/>cihazdaki pil nikel pil ise, %100'den, %90'a inince şarja takarsan eğer, 1 şarj döngüsü olmuş sayılırdı. hani boşa gitmiş olurdu kalanı... pilin ömrü azalırdı. o yüzden sonuna dek bitirmeyi tavsiye ederler haklı olarak.<br/><br/>ama yeni nesil lityum'lar öyle değil. önce %50'ye indirip, tekrar doldursan. sonra tekrar %50'ye indirip tekrar doldursan, ancak öyle 1 şarj döngüsünü tamamlamış oluyorsun. veya %60'a indirdin, şarjı tekrar doldurdun, sonra %40'a indirdin, ancak öyle 1 döngü tamamlanıyor. <br/><br/>daha fazla bilgi için:<br/><br/>piller - neden lityum iyon? - apple<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.apple.com/tr/batteries/why-lithium-ion/">http://www.apple.com/tr/batteries/why-lithium-ion/</a>
 - entry_name: |
     21 haziran 2017 opet rezaleti
   entry_id:  69056947
   entry_writer: operatormd
-  entry_fav_count: 278
+  entry_fav_count: 282
   entry_content: |
     bir arkadaşımın başına gelmiş olan, bayramını rezil eden rezillik. arkadaşımın yardım talebi üzerine paylaşıyorum;<br/>"aracımı aldığım ekim 2015 tarihinden bu yana istisnasız ve güvenerek yakıtımı opetten almaya özen gösterdim. yine 21 haziran 2017 günü saat 12:44 sularında nazilli-denizli istikametinde durasıllı mahallesinde bulunan ve işletmeciliğini safen enerji aş.'nin yaptığını öğrendiğim opet istasyonunundan aracıma yakıt aldım. alışverişe ait fişimi daha sonra ihtiyaç duymayacağımı düşünerek attım. ilgili kayıda opet kartımdan ve dahi online sistemden erişim sağlanabilmektedir.<br/><br/>akaryakıt alımını müteakip yolculuğuma devam ettim. yolculuk esnasında aracımın çekiş ve performansındaki düşüş neticesinde yakıtta bir problem olabileceğini düşünerek depoyu farklı bir istasyondan fulledim ve titiz bir insan olduğum için daha önce yakıt aldığım durasıllı mahallesindeki opet istasyonuna yakıtta bir problem olup olmadığının kontrol edilesi için geri döndüm.<br/><br/>istasyona vardığımda ilgili kayıtlar incelendi ve dizel aracıma benzin dolumu yapıldığı tesbit edildi. istasyon yetkilisi olduğunu öğrendiğim m...... bey'in aracın deposununun tamircileri tarafından temizlenebileceğini iletmesi neticesinde konu hakkında pek bilgi sahibi olmayarak ve iyi niyetle ilgili işlemin yapılmasını talep ettim. <br/><br/>tamirci arkadaşın gelmemesi neticesinde depo temizleme işleminin yetkisiz kişilerce, insan gücü ve emme ile yapılacağını görmem neticesinde duyarlı bir işyeri hekimi olarak iş sağlığı ve güvenliği kurallarının ve dahi insan hayatının hiçe sayıldığını görerek ilgili işlemin derhal durdurulmasını talep ettim ve opet çağrı merkezini arayarak durumu yetkililere ileterek aracımın çekici vasıtası ile aydın'da bulunan yetkili serviste bakımının yapılmasını talep ettim. bu süreçte işletme sahibi olduğunu öğrendiğim i.... bey istasyona gelerek "fazla masraf çıkmaması" açısından aracımın serviste işlem görmemesini talep etmesi ile opet tarafından verilen yakıt güvence sistemi ve dahi halihazırda görsel ve işitsel basında çokça tekrarlanan opet'in reklam filminin gerçeği yansıtmadığını malesef gördüm. <br/><br/>süreç sonunda aracımın servise yönlendirilmesi için istasyon yetkilileri ile uzun bir görüşme neticesinde mutabık kalarak ertesi güne randevulaştık ve aracımı istasyonda bıraktım.<br/><br/>ertesi gün aracım çekiciye yüklenerek aydın'da bulunan mimar otomotiv yekili servisine iletildi. hasar tesbit sonucu çıkmadan m...... bey ve refakatinde bizimle servise gelen arkadaşın sanayiye gitiklerini ve döndüklerinde hasarın 4000 tl üstü çıkması halinde aracın servisdışında bakım ve onarımını yaptırabileceklerini iletmeleri neticesinde aracımın garantili olduğunu ve servis dışında işlem yaptıramayacağımı durumu opet genel müdürlüğü ile paylaşacağımı ilettiğimde "nereyi ararsan ara" şeklinde tehditkar tavırlarda bulundular. çağrı merkezini aramamın ardından şahıslar tekrar yanıma gelerek istasyon sahibi i.... bey ve saha müdürü olduğunu öğrendiğim o... bey'in görüşmek istediğini ilettiler. görüşme neticesinde tarafların beni mağdur etmeyeceğini gerekirse aracı kendilerinin de alabileceğini ilettiklerinde aracı zaten kullanmak istemediğimi kendilerine ilettim.<br/><br/>serviste yapılan ön tetkik neticesine yakıt sisteminin değişmesi gerektiği ve ilgili işlemin 14000 tl civarı bir tutara tekabül ettiğinin tarafımıza iletilmesi sonucu mücahit bey'e refakat eden şahsın "aracı yakalım" şeklinde tarafımın ve servis çalışanlarının üzerine yürüyerek çıkıştığı mimar otomotivin kayıtlarından ve şube çalışanlarının görgü şahitliği de sabittir.<br/><br/>bu süreçte istasyon sahibi i.... bey arayarak, kendi hatalarından dolayı arızalan aracımı piyasa değerinin altında alabileceğini ve bu işlemi bayram tatili sonunda yapabileceklerini iletmesi üzerine bu süreçte meğdur olacağımı ve sürecin bir an önce başlatılmesı gerektiğini belirtmem neticesinde görüşmemiz sonlandı. bu görüşmeyi müteakip m...... bey tarafından aranarak istasyonda görüşmeye çağırıldım fakat güvenlik kaygılarım sebebi ile gitmeyi uygun görmedim.<br/><br/>yıllardır güvenerek alışveriş yaptığım ve son günlerde yaşadığım durumu bir reklam filmi ile anlatarak istasyonlarında yakıt güvence sistemi olduğunu kamuoyuna duyuran opet'in tarafımı bu süreçte maddi ve manevi zarara uğratması ile; ilgili işletme ve dahi denetleyen organın hem personele isg ve çalışma koşulları konusunda yeterli eğitim vermediği kanısını tarafımca güçlendirmiş hem de tüketici güvenimi ve müşteri memnuniyetimi olumsuz yönde etkilemiştir.<br/><br/>tüm yaşadığım olayların değerlendirilerek mağduriyetimin en kısa sürede giderilmesini talep ve arzu etmekteyim."
 - entry_name: |
     japonya'da iki türk kebapçının gözaltına alınması
   entry_id:  69055718
   entry_writer: kuzeybuzdenizi
-  entry_fav_count: 261
+  entry_fav_count: 267
   entry_content: |
     orospu evlatları böyle düzgün, medeni insanlara karşı bizi rezil ediyorlar. imajımızın düzgün olduğu ülke kalmadı koduğumun gezegeninde. <br/><br/>inşallah deport edilir siktiğimin çöl eşekleri.
 - entry_name: |
     askerlikte azar işitilen en yüksek rütbeli komutan
   entry_id:  69050538
   entry_writer: normal bir bey
-  entry_fav_count: 231
+  entry_fav_count: 235
   entry_content: |
     kısa dönem çavuşum. o dönem tugayların giriş kapıları tek standarta alınıyor. bizim tugayın mimari çizimini getirdiler. bak bakalım sen anlarsın dediler. bir kaç şey önerdim, yarbaya anlat bunları dediler. <br/>götürdüler odasına. açtım çizimi anlattım. öyle olmaz dedi yok şöyle olur falan dedi ahkam kesiyor. konu biraz tartışmaya döndü. ben mehmetcik olduğumu unutup "yahu beyefendi siz ne istediğinizi bilmiyorsunuz galiba" dedim.<br/>kulağıma eğildi; "seni şimdi s*kerdim ama git çizimleri anlattığın şekilde çiz gel ona göre karar vericem" dedi.<br/><br/>sonuç; s*kmedi.
 - entry_name: |
     bayram namazına diye gidip dolanıp geri gelmek
   entry_id:  69053217
   entry_writer: ezana yakalanan pornocu
-  entry_fav_count: 168
+  entry_fav_count: 169
   entry_content: |
     başlarda ana, baba, eş, dost, akraba dırdırı çekmemek adına gerçekleştirdiğim, sonrasında ise cami çevresinde rastladığım kader ortaklarımla birlikte gelenek haline getirdiğim ufak sapıklık/sapkınlık.<br/><br/>her fırsatta "%99'u müslüman olan bu ülkede bıdı bıdı..." edebiyatı yapılmasına, onca baskıya, zorlamaya, algı çalışmasına, her mahalleye en az 10 tane imam hatip açılmasına rağmen insanların kitleler halinde dinden uzaklaşması ve hatta münafıklığa doğru ilerlemesi gelecek dönemler adına umut verici bir gelişme.<br/><br/>imam efendi bayram namazının önemini anlatırken, babamla dayımı caminin köşesindeki parkta cuğara tüttürürken yakaladım, artık ölsem de gam yemem.
 - entry_name: |
     25 haziran 2017 ramazan bayramı
   entry_id:  69053490
   entry_writer: gracious
-  entry_fav_count: 153
+  entry_fav_count: 154
   entry_content: |
     bayramınız mübarek olsun. <br/><br/>yukarıda sikinde olmayan arkadaş; herkesten önce tatil planını yapıp, herkesten önce biletini alan gavatlardan değilsindir umarım.
 - entry_name: |
@@ -76,51 +83,65 @@ data:
     türkiye'deki sevgisizliğin ve nefretin nedeni
   entry_id:  69057441
   entry_writer: makinedeki hayalet
-  entry_fav_count: 86
+  entry_fav_count: 89
   entry_content: |
     <a class="b" href="/?q=nurdan+g%c3%bcrbilek">nurdan gürbilek</a>'in kötü çocuk türk'te ağlayan çocuk resmi ile ilgili bir saptaması vardı. bu kitsch resmin 80'lerden itibaren bu kadar çok "trend" olmasında çok temel bir neden var: hepimizin içi çok buruk. içine doğduğumuz ailenin reisi olan baba, şefkatten ve merhametten oldukça yoksun bir profile sahip. genelde kızar, bağırır, döver, aşağılar, ortalıkta görünmez, başına buyruk yaşar, "karıya" gider, çocuklarının rızkını sigaraya, alkole harcar, ortalıktan kaybolur, annemizi gözümüzün önünde aşağılar, döver. babalarımız bizi sevmiyor; bırakın babalar günü şatafatlarını. babası tarafından gerçekten müşfik bir temasa "layık" görülmüş o kadar az çocukluk var ki... baba saldırgan, ruhsuz, sefil bir yabani gibi dolanıyor duruyor. türkiye'nin "paternalist" bir toplum yapısına sahip olduğu düşünülecek olursa, bu babanın gökten zembille inmediği, bizatihi "devlet baba"nın bu özelliklere haiz olduğu görülecektir. biz tepeden tırnağa gudubet bir babaya batmış durumdayız. 2017 senesindeyiz ve hala "acı çekme" bir numaralı trend konusu. instagram'da "yarine kavuşamayan delikanlı"lar için sigaralar yakılıyor, garibanlık öyküleri <a class="b" href="/?q=hot+topic">hot topic</a> oluyor, efkar dolu bitirim ağız tabloid edebiyat dergilerine hit kazandırıyor. mazlumluk, bitkinlik, tepetaklak olmak hala fiyakalı gözüküyor. e bu kadar "patolojik" bir atmosferde sevgi değil, hep intikam, rövanş, meydan okuma konuşuluyor.
 - entry_name: |
     25 haziran 2017 lgbt onur yürüyüşü
   entry_id:  69048724
   entry_writer: kikina
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     her gün aranızda yürüyoruz...<br/><br/>sokakta erkekmişcesine top diye dalga geçip akşam hornetten suratı flulanmış fotolarınızla bize sulanıyorsunuz.<br/><br/>siz bizi biliyorsunuz biz sizi...<br/><br/>bireysel olarak konuşuyorum. bu bana yeter...
 - entry_name: |
     çaya süt katmak
   entry_id:  69048980
   entry_writer: rxpu
-  entry_fav_count: 65
+  entry_fav_count: 66
   entry_content: |
     çay oksalat içerir, süt ise kalsiyum. çay ile süt aynı anda içildiğinde kalsiyum oksalat oluşma ihtimali artmaktadır. böbrek taşlarının %60-%70 oranında kalsiyum oksalat'tan oluştuğu bilinmektedir.<br/><br/>süt ve çay karışımı doğru harmanlandığında güzel bir tadı oluyor. hatta ingiltere'de sütle karıştırılmaya uygun çaylar dahi satılıyormuş. ancak kalsiyum oksalat ile ilgili bu durum beni kuşkuya sevk etti.<br/><br/>ancak kahvaltıda yediğimiz beyaz peynir ile içilen çay'da benzer etki yaratabileceğinden fazla şüphe damak zevkimizi de sınırlayıcı bir etki yaratabilir. doktor veya bioyolog olan olan arkadaşlar şu kalsiyum oksalat mitini aydınlatabilirlerse makbule geçer.<br/><br/>ekleme: konuyla ilgili mesleki bilgi sahibi olan yazarların gönderdiği mesajlara göre bu iki bileşik böbrek içinde birbirleriyle bileşik oluşturmaya meyilli değiller, ayrı ayrı takılıyorlar. ama yine de böbrek tübüllerinde başka bir katalizörün yardımıyla biraraya gelme istekleri oluşursa ayvayı yiyoruz. teknik bir konu ama ingilizler içtiğine göre acaba onların aklına niye gelmedi diye de sorabiliriz tabii. hey john what about oxylate and calcium when you drink tea with milk? is it dangerous? will they come togethar to form a kidney stone?!?!?!?!!?!??
+- entry_name: |
+    ebubekir sifil caner taslaman tartışması
+  entry_id:  69057656
+  entry_writer: skocax
+  entry_fav_count: 60
+  entry_content: |
+    takip edebildiğim kadarıyla türkiye'deki islam reformcuları iki genel kategoride toplanabilirler:<br/><br/>1- islam reformcuları :bahriye üçok, yaşar nuri öztürk, zekeriya beyaz, ali akın, edip yüksel, ihsan eliaçık gibiler. bu gruba son yıllarda bir çok ilahiyat hocası da katıldı. özellikle ankara ve konya selçuk ilahiyattan fikirlerini okuduğum kişiler vardı ancak çok medyatik olmadıkları için şu anda isimlerini hatırlamıyorum.<br/><br/>2-ehli sünnet reformcuları : mustafa islamoğlu, abdulaziz bayındır, mehmet okuyan, caner taslaman, emre dorman gibiler. bu grup biraz birbirine kenetlenmiş gibi. bunların grubunda meşhur başka kim var pek bilmiyorum.<br/><br/>iki grubun arasında derin bir fark var. <br/><br/><a class="b" href="/?q=1-ilk+grup">1-ilk grup</a>takilerin genelde iddiası: kuran dışı hiç bir metin dine kaynaklık edemez.<br/><br/><a class="b" href="/?q=2-+ikinci+grup">2- ikinci grup</a>takilerin iddiası: kuran dışı metinler kuran süzgecinden geçirilerek ancak dine kaynaklık edebilir. mesela bir hadis kurana uygunsa o hadis dine kaynak olabilir. (o uygunluğu belirlemede otoritenin kim olduğu sorunsalı ayrı bir tartışma tabi)<br/><br/>ve son olarak memleketin esas meselesi:<br/><br/><a class="b" href="/?q=3-geleneksel+ehli+s%c3%bcnnet">3-geleneksel ehli sünnet</a> fikri: dinin kaynakları <a class="b" href="/?q=kuran">kuran</a>, <a class="b" href="/?q=s%c3%bcnnet">sünnet</a>, <a class="b" href="/?q=icma-i+%c3%bcmmet">icma-i ümmet</a> ve <a class="b" href="/?q=k%c4%b1yas-%c4%b1+fukaha">kıyas-ı fukaha</a>dır. din aynı zamanda bir hukuk sistemi (şeriat) ile birlikte uygulanmalıdır. şeriatın kaynağı hanefi mezhebi için hanefi fıkhı külliyatıdır. (hanefi fıkhı külliyatı için (bkz: <a class="b" href="/entry/65909140">#65909140</a>))<br/><br/>gördüğünüz üzere üç numara zaten türkiye'deki geri kalmışlığın, yobazlığın ve gazalici nihilizmin ana kaynağıdır.<br/><br/>iki numaralı grubun derdi türkiye'nin yobazlığı, geri kalmışlığı ve gazalici nihilizmi ile mücadele etmekten ziyade moderniteye toslayan ehli sünnet islamı kurtarma girişimidir. yani kuran ile uyumsuz külliyatı ayıklama, akla uygun olmayan külliyatı çöpe atma, akla uymayıp da kurana uyuyorsa ona da birr kılıf uydurma ve islamı 21. yüzyıl insanının aklına ve ahlakına uyumlu hale getirme çabasıdır. bunlar genelde sünnilikle mücadeleden ziyade ateizm, agnostisizm ve deizm ile mücadele ederler. örneğin caner taslaman'ın kitaplarını inceler ya da youtube videolarını izlerseniz eğer esas mücadeleyi gayrimüslümlüğe ve inançsızlığa karşı verdiğini görürsünüz. daha önce mesela cübbeli ile ufak bir polemiği olmuştu. yine ehlü sünnetçilerden ali rıza demircan ile habertürk'te bir polemiği vardı. yine emre dorman'ın fikirsel olarak bir islamcıdan hemen hiç bir farkı yoktur ((bkz: <a class="b" href="/entry/554475892">#554475892</a>)). bu gruptakiler ehli sünnetçiler gibi gazaliyi tanrı seviyesine yüceltmese de islamın en büyük filozofu gibi bir tavırla sahiplenirler. <br/><br/>bir numaralı grubun temelde motivasyonu türkiye'nin geri kalmışlığı, türk insanının yobazlığı ve türk insanının içindeki gazali nihilizmi ile olan mücadeleden gelir, yani bizim en büyük derdimizden. bu gruptakilerin tümü gazali ile kavgalıdır. açın youtube'da yaşar nuri'nin, edip yüksel'in ya da ali akın'ın gazali hakkında söylediklerini dinleyin mesela. bu grup biraz daha <a class="b" href="/?q=ali+%c5%9feriat%c4%b1">ali şeriatı</a> ya da <a class="b" href="/?q=fazlurrahman">fazlurrahman</a> yolundadır. islamda daha tutarlı bir reform yapma amacı içindedirler/içindeydiler. elbette islam reformcularının tümünün yöntemi birbirinden farklıdır. kimi dinde ibadet var der, kimi olmasa da olur der. edip yükselin "19 muhabbeti" ve sünnilerin falan kabul ettiği kuranda ayet fazlası olduğu iddiası var. keza yaşar nuri'nin imam-ı azamı işin içine dahil eden bir reform anlayışı var. ali akın'ınki temelde gazalinin reddi üzerinden gibi. her biri farklı bir reform önerisinde bulunur.<br/><br/>ebubekir sifil azılı bir ehli sünnetçidir. taslaman bir islam reformcusu değil ehli sünnet reformcusudur<br/><br/>anladığım kadarıyla taslaman, <a class="b" href="/?q=islam%c4%b1n+%c5%9fart%c4%b1+be%c5%9ftir">islamın şartı beştir</a>'i kabul eder. namazdır, abdesttir vs. kuranda tanımı yapılmamış şeyleri de islamın içeriğinde kabul eder. yani sünnilerden farkı vardır ancak bu fark sünniliği akıl yolu ile 21. yüzyıl şartlarına dönüştürme amacını içerir. mesela şafi fıkhında var olan kadın sünnetinin islamda olmadığını iddia eder. çünkü kadın sünnetinin kötü bir şey olduğu son yüzyılda ortaya çıkmıştır. <br/><br/>yine de ehli sünnet karşısında taslamanı desteklemek gerekir. en azından şu ebubekirler, cübbeliler, demircanlar, ehli sünnet tarikatlar cemaatler falan silinsin şu memleketten. ya da müritlerinden dönenler, şüpheye düşenler, sorgulama kapısına yanaşanlar falan artsın.<br/><br/>ehli sünnet reformcusu ile ehli sünnetçi arasındaki tartışmalarda ehli sünnetçi taraf bir çok argümanı hep aynı iki mesajla ortaya sürer:<br/><br/>1- 1400 yıldır yazılmış çizilmiş sen kim oluyorsun da 1400 yıllık dini değiştireceksin?<br/>2- sen şimdi kütüb-i sitte'nin 5 kitabında da geçen deve sidiği içmek sağlığa faydalıdır hadisi akla uymuyor diyorsun da kuran'da da aynı mantıkla akla uymayan ayetler var mesela kamer suresinde geçen "ay yarıldı" cümlesi gibi. kuranda senin aklına uymayanı neden doğru kabul ediyorsun da hadiste aklına uymayanı yanlış kabul ediyorsun?<br/><br/>ilk argümanla mücadele etmenin yolu 4 mezhebin fıkıh kitapları ile bu kitapların şerhlerini ve fıkıh külliyatını açıp yüzlerce saçmalık bulmak ve tartışma esnasında bir makineli silah edasıyla bunları teker teker saymaktır. "kadının klitorisini mi keseceksin lan hayvanoğlu hayvan" tavrı da epeyce işe yarar, tribünlerden alkış alır.<br/><br/>ikinci argüman ise caner taslaman gibi ehli sünnet reformcularının yıkabileceği bir şey değil. bunu yıkabilmenin yoluehli sünnet reformculuğundan ziyade islam reformcusu olmaktır. bunun yolu islamın bütün tarihi kişiliklerini baştan sona reddetmektir:<br/><br/>"evet 1400 yıldır birileri bu dini belli yöntemlerle bir şekilde anlamaya çabaladılar, aralarında ehli sünnet mezhebi gibi sistematik ve yoğun takipçisi olan yorumlar da ortaya çıktı (siyaset sayesinde). bunların tümünün her konuda yanıldığını iddia etmiyorum. bilakis <a class="b" href="/?q=kuran%c4%b1+kim+nas%c4%b1l+anlamak+isterse+kuran+odur">kuranı kim nasıl anlamak isterse kuran odur</a> görüşü savunulmalı. <a class="b" href="/?q=her+m%c3%bcsl%c3%bcman+mezhep+imam%c4%b1+olarak+do%c4%9far">her müslüman mezhep imamı olarak doğar</a> fikri ana plan olmalı. (bkz: <a class="b" href="/entry/60194282">#60194282</a>). insanların kuranı kendi tarzlarında anlayabilmeleri için de mezheplerin özellikle devlet ve siyaset üzerindeki baskısının kalkması gerekiyor. ortada bir islam tarihi ve islam külliyatı olmazsa kurandaki o cümlenin "ay yarıldı" anlamına gelmek zorunda olduğu sorunu da olmaz. kimse kuranı anlamak için okuma yazmadan başka bir tür yeterliliğe sahip olmak zorunda değildir. köylü memonun kuranı anlayış kapasitesi ile imam-ı azamın kuranı anlayış kapasitesi eşittir. isteyen istediği gibi anlar. bu tavır gayet tutarlıdır.<br/><br/>tüm bunlardan bağımsız dünyanın bir numaralı ve en tutarlı, en mantıklı islam reformcusu olarak bendeniz skocax'ın reform anlayışı ise şudur:<br/><br/>kurana bakarak<br/><br/>isteyen çarşaf giyer isteyen mini etek isteyen nüdist olur<br/>isteyen her akşam rakı içer isteyen alkolü ağzına bile sürmez<br/>isteyen günde 100 rekat namaz kılar isteyen kılını kıpırdatmaz<br/>isteyen seks özgürlüğünü istediği gibi kullanır isteyen bekareti kendine dert eder.<br/>isteyen mekkeye gider isteyen rio karnavalına<br/><br/>ahlakın kaynağı vicdandır. hukukun kaynağı insan aklıdır. imtihan dünyası diye bir şey yok. insanoğlu adam olup bu dünyada kötülük yapanın cezasını kendisi bu dünyada verecek. bu sayede hukukunu adam gibi çalıştırabilecek. dünyayı cennete çevirebilecek. çeviremiyorsa ne kaybediyorsa bu dünyada kaybedecek.<br/><br/>bir tane amacın var: hayatı mutlu ve huzurlu yaşamak.<br/><br/>inansın inanmasın herkes öte dünyada aynı muameleyi görecek. japonyada doğan bir çocuğun müslüman olma ihtimali sıfır. 1000 yıl önce de sıfırdı hala da sıfır. o yüzden sadece inananlar cennete gidecek argümanı saçmalıktır. hatta cennet ve cehennemin kendisi saçmalıktır.<br/><br/>ve bunların hepsi kurana uygundur. çünkü kurandaki kelimeler o kadar yuvarlaktır ki isteyen istediği anlamı çıkarabilir. namazın tanımı kuranın neresinde yapılmış? haccın nasıl yapılacağı nerede anlatılmış? abdestin içeriği hangi ayette yazılmış? 1 milyar insan kurandan bunları çıkarabiliyorsa ben de yukarıdaki islamı çıkarabilirim gayet tabi.<br/><br/>ha benim reform anlayışımın bir tane tutarsızlığı var o da <a class="b" href="/?q=kuran%c4%b1n+insan+yap%c4%b1s%c4%b1+oldu%c4%9fu+hakikati">kuranın insan yapısı olduğu hakikati</a>. onun dışında iddia ediyorum bundan daha tutarlı bir reform bulamazsınız.
 - entry_name: |
     zlatan ibrahimoviç'in fenerbahçe'ye transferi
   entry_id:  69050719
   entry_writer: epir
-  entry_fav_count: 48
+  entry_fav_count: 49
   entry_content: |
     sol kanattan köybaşı ve hasan ali kaldırım'ın muhteşem ortalarıyla beslenip gol kralı olmak hayaliyle gelmek istediğini düşünüyorum.
 - entry_name: |
     lgbt'ye saygı duymuyorum
   entry_id:  69061896
   entry_writer: bilemiyorumkibazen
-  entry_fav_count: 46
+  entry_fav_count: 48
   entry_content: |
     insanlık 7 milyarı geçti, bilimadamları bas bas nufus kontrolü isterken, 3-5 kişinin çocuk yapmaması mı insanlığın devamını tehdit ediyor?<br/>köylü çocuğu olduğun konusunda hemfikir olabiliriz.<br/>(bkz: <a class="b" href="/?q=k%c3%b6yl%c3%bcleri+ni%c3%a7in+%c3%b6ld%c3%bcrmeliyiz">köylüleri niçin öldürmeliyiz</a>)<br/><br/>edit: bunu yazdıktan sonra can sıkıntısından oturdum başlık açtım <br/>(bkz: <a class="b" href="/?q=homofobikleri+anlayamamak">homofobikleri anlayamamak</a>) homofobiklik üzerine genel düşüncelerim burada <sup class="ab"><a title="(bkz: merak edene)" href="/?q=merak+edene" data-query="merak edene">*</a></sup> <sup class="ab"><a title="(bkz: kim edecekse)" href="/?q=kim+edecekse" data-query="kim edecekse">*</a></sup><br/><br/>edit 2: yazar silip gitmiş, başıma kaldı. silip gideceğini düşünmemiştim, caps alan birisi var ise ulaşsın bana ://
 - entry_name: |
     25 haziran 2017 pakistan tanker faciası
   entry_id:  69059320
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 43
+  entry_fav_count: 48
   entry_content: |
     solcular da damlamış.<br/>bildikleri 100 kelimeden biri olan "emperyalizmi" yapıştırmışlar, bu sefer yanına da "kültürel" koymuşlar. "kültürel emperyalizm"<br/><br/>nasıl bir kültürel emperyalizm, bir grup hayvandan farksız canlıyı devrilen tankerden akan petrolü toplamaya iter? bırakın artık bu boş muhabbetleri. yozgatta devrilen domates kamyonunu yağmalayan tipler neyse bunlar da o.<br/><br/>fakirlikten veya "kültürel emperyalizm"den değil, bulundukları coğrafyanın iğrenç kültüründen yapıyorlar ne yapıyorlarsa. keşke kültürel emperyalizm görseler de, yere düşen petrole atlamak yerine uzak durmayı tercih etseler.<br/><br/>kültürel emperyalizm diye ağladığınız bu hayvanlar, yok edilmesi gereken kültür ve görgü seviyesine sahiptirler. emin olun yozgat'a kimse "kültürel emperyalizm" yapmaya gitmemişti, bunlara da aynı şekilde. keşke yapsalar da, medeni bir 21. yüzyıl insanı olsalar. milattan öncesinden kalma avcı toplayıcı hayvanlar gibi davranmasalar.
 - entry_name: |
     sultan mehmet italya'yı fethetseydi olabilecekler
   entry_id:  69060200
   entry_writer: caiphas
-  entry_fav_count: 40
+  entry_fav_count: 42
   entry_content: |
     hiçbir bok olmazdı. kanuni budapeşte'yi feth etmiş, bugün orada bir hamam, peç'te bir camii dışında oraların bir zamanlar osmanlı egemenliği altında olduklarına delalet eden ne var? he, bir de bir türk tepesi var, evet. şu olurdu. eğer italya türklerin egemenliği altında olsa bugün italya dünya markalarına sahip olmaz, gelişmiş bir burjuvadan yoksun tipik bir doğu avrupa devleti olurdu. papalık da ispanya'da olurdu herhalde.
+- entry_name: |
+    akp'nin 15 yılda çözdüğü sorunlar
+  entry_id:  69048948
+  entry_writer: gurbetimeskenmituttunyarimdigelgayri
+  entry_fav_count: 40
+  entry_content: |
+    onlardan önce ateizmin yayılışı kısmen daha yavaştı. sağ olsunlar, sayelerinde çok daha hızlı yayılıyoruz.
 - entry_name: |
     ozan güven'den küfür yemek isteyen motorcu
   entry_id:  69057945
@@ -146,7 +167,7 @@ data:
     istanbul'dan gidenler geri gelmesin kampanyası
   entry_id:  69054675
   entry_writer: neyse ya bosver
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     "memleketine giden dönmesin de güzelim ege sahillerinin suçu ne" diye sormak istediğim kampanya.
 - entry_name: |
@@ -160,37 +181,30 @@ data:
     eli kanlı terör örgütü fetönün alkışladığı olay
   entry_id:  69060910
   entry_writer: gelecegi olmayan adam
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     hakan şükür'ün milletvekili seçilmesidir.
+- entry_name: |
+    antalya
+  entry_id:  69049092
+  entry_writer: novalis88
+  entry_fav_count: 21
+  entry_content: |
+    güzel şehir. ama yaz aylarında, o bildiğimiz cehennem sıcağında gidilecek tek yer var. 5m migros'un bulunduğu avm'nin giriş kapısından giriniz, işte tam o giriş bölümünde, durmanızı öneririm. bulunabilecek en serin yer orasıdır çünkü. bir de metro gross marketlerin, et, süt ürünleri bölümünü ziyaret edebilirsiniz.
 - entry_name: |
     istanbul'un en iyi tatlıcıları
   entry_id:  69060257
   entry_writer: i am not noob
-  entry_fav_count: 17
+  entry_fav_count: 20
   entry_content: |
     (bkz: <a class="b" href="/?q=az+bilinen+bir+yer+s%c3%b6yleyeyim+de+gurme+sans%c4%b1nlar">az bilinen bir yer söyleyeyim de gurme sansınlar</a>)
 - entry_name: |
     okullarda abdesthane ve mescitlerin zorunlu olması
   entry_id:  69048755
   entry_writer: nobetcileeeeer
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     mescit yapılması özgürlüktür, yapılabilir, talep varsa yapılmalı ve müsade edilmelidir. <br/>pekiiiii özgürlüklere bu kadar değer veren akapeli trollcükler zorunlu din dersi hakkında ne düşünüyor? günün iki saati liberal olmak kolay, sıkıyorsa günün her saati liberal olun.
-- entry_name: |
-    hayattan bugüne kadar öğrenilen en önemli şey
-  entry_id:  69050768
-  entry_writer: enterasan bi beyin
-  entry_fav_count: 15
-  entry_content: |
-    beklentiye girmemek.<br/><br/>ne kadar beklenti, o kadar hayal kırıklığı.
-- entry_name: |
-    antalya
-  entry_id:  69049092
-  entry_writer: novalis88
-  entry_fav_count: 15
-  entry_content: |
-    güzel şehir. ama yaz aylarında, o bildiğimiz cehennem sıcağında gidilecek tek yer var. 5m migros'un bulunduğu avm'nin giriş kapısından giriniz, işte tam o giriş bölümünde, durmanızı öneririm. bulunabilecek en serin yer orasıdır çünkü. bir de metro gross marketlerin, et, süt ürünleri bölümünü ziyaret edebilirsiniz.
 - entry_name: |
     hdp'nin büyük adalet yürüyüşüne katılma kararı
   entry_id:  69054289
@@ -199,19 +213,19 @@ data:
   entry_content: |
     chp ve hdp/hdk'nin özel olarak rehin mebuslar, genel olarak elbette "<a class="b" href="/?q=adalet">adalet</a>" temelinde birlikte mücadele olanaklarının nasıl tartışıldığı güncel olarak aktarıyordum vakit buldukça. son derece "<a class="b" href="/?q=do%c4%9fal">doğal</a>" karşıladım;<br/>(bkz: <a class="b" href="/?q=15+haziran+2017+chp+g%c3%bcvenpark+y%c3%bcr%c3%bcy%c3%bc%c5%9f%c3%bc%2f%40asc">15 haziran 2017 chp güvenpark yürüyüşü/@asc</a>)<br/><br/>yeri gelmişken, buraya "<a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/765984/HDP_den__Adalet_Yuruyusu_ne_destek.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/765984/HDP_den__Adalet_Yuruyusu_ne_destek.html">hdk'den 'adalet' yürüyüşüne katılım çağrısı</a>" ve <a class="b" href="/?q=serpil+kemalbay">serpil kemalbay</a>'dan gelen "<a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/765984/HDP_den__Adalet_Yuruyusu_ne_destek.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/765984/HDP_den__Adalet_Yuruyusu_ne_destek.html">hdp'den 'adalet yürüyüşü'ne destek</a>" açıklamalarını koyalım -başından bu yana destek var idi. ancak yürüyüşe karşı yoğun holding/havuz medyası ambargosu olduğundan ve chp tabanının alternatif medyaya duyduğu ilgisizlikten dolayı fazla duyulmuyordu. yoksa, hdp'lilerden örtük veya açık "<a class="b" href="/?q=sembolik+kat%c4%b1l%c4%b1m">sembolik katılım</a>" sinyalleri geliyordu ki, <a class="b" href="/?q=dihaber">dihaber</a> ve <a class="b" href="/?q=duvar">duvar</a>'da yer aldığı kadarıyla düz şekilde kitlesel "katılım"dan ziyade "<a class="b" href="/?q=kar%c5%9f%c4%b1lama">karşılama</a>"..[1] yani sembolik. en azından ilk başta böyle olması, chp'yi "<a class="b" href="/?q=***d%c3%bcr%c3%bcst***">***dürüst***</a>" olmaya zorlaması babında son derece gerekli -sonrasına bakılır elbette..<br/><br/>zira, defalarca tecrübe edildiği gibi barındırdığı çeşitli kliklerin koltuk mücadelesi uğruna hem tabanını, hem de türkiye halkını aldatmayı gelenek haline getirmiş, tarihsel olarak parti içi ya da parti dışı "sol"u uyuşturup öldürmeyi devlet'in bahşettiği görev gibi algılayan "<a class="b" href="/?q=cumhuriyet+halk+partisi">cumhuriyet halk partisi</a>" söz konusu olan. gayrimeşru referandum'un hemen sonrası vuku bulan tartışmalar da, bir kez daha doğrular nitelikte olduğu içün; bu yürüyüş'ün özellikle chp gençlik nezdinde kredisi hızla tükenen ve <a class="b" href="/?q=%c3%b6zlem+a%c4%9f%c4%b1rman">özlem ağırman</a> gibi kemtrollere yaslanan chp yönetiminin gene kılıçdar şahsında "kredi yükseltme" ikbaline dönüşme riski vardır. misal, <a class="b" href="/?q=bar%c4%b1%c5%9f+yarkada%c5%9f">barış yarkadaş</a> denen mebus daha 10 gün geçmeden "<a rel="nofollow noopener" class="url" target="_blank" href="https://www.halkkitabevi.com/parti-degil-memleket-meselesi" title="https://www.halkkitabevi.com/parti-degil-memleket-meselesi">adalet: parti değil memleket meselesi</a>" başlıklı kitap yayınlayarak işaretleri fazlasıyla verdi. zaten, keşke kılıçdar denen elleri kanlı işbirlikçi <a class="b" href="/?q=gerzek">gerzek</a> yerine, sol/muhalif chp mebusu başı çekebilseydi diye düşünmüyor değilim. ancak şu an maalesef chp yönetiminin suçlarını konuşma "lüksünde" değiliz, yapılması gerekenler çok acil. bu yüzden chp'nin her zaman yaptığı gibi sonradan "yan çizmesi" gayet mümkün olmasına "<a class="b" href="/?q=ra%c4%9fmen">rağmen</a>" yürüyüşe destek vermek zorunluluktur. kaybedecek bir şey göremediğim gibi, kazançlar olabilir.<br/><br/>gezi direnişinde de, kürdistan'da sadece şehirlerde değil ilçe merkezlerinde de irili ufaklı destek eylemleri/açıklamaları gerçekleşmişti.[2] elbette bunlar "yeterli" görülmemiştir, istanbul harici ankara-hatay gibi yoğun ve uzun soluklu olmamış, batı vilayetlerindeki diğer eylemler çapında olmuştur. ancak süregelen çözüm süreci bağlamında "<a class="b" href="/?q=uzun+y%c3%bcr%c3%bcy%c3%bc%c5%9f">uzun yürüyüş</a>" gibi eylemlerin[3] yanı sıra direniş'in taleplerini içeren"<a class="b" href="/?q=h%c3%bck%c3%bcmet+ad%c4%b1m+at!">hükümet adım at!</a>" bildirisiyle başlayıp devam eden yürüyüşler[4] olmuştur, meşhur "evine hoşgeldin toma'' pankartının buralardaki polis müdahelesinde açıldığı biliniyor. aynı tarihlerde <a class="b" href="/?q=lice%27">lice'</a>de gerçekleşen kalekol protestosunda askerler tarafından katledilen <a class="b" href="/?q=medeni+y%c4%b1ld%c4%b1r%c4%b1m">medeni yıldırım</a>'a kadıköy eylemcileri sahip çıkmıştır. olası bi serhildan'ın, 2014 kobanê eylemlerinde ve 2015-2016 cizre'de yaşanan devlet vahşetinde olduğu gibi katliamlar getireceği ortada olmasına rağmen, akp yandaşlarının ve tasmalıları olan milliyetçilerin çizdiği ölçüde "kayıtsızlık" falan da yoktur.<br/><br/>gene istanbul'da, <a class="b" href="/?q=s%c4%b1rr%c4%b1+s%c3%bcreyya+%c3%b6nder">sırrı süreyya önder</a>'in "meşhur" katılımı hariç, bugünkü gibi en başından itibaren "<a rel="nofollow noopener" class="url" target="_blank" href="http://www.radikal.com.tr/politika/bdpden-gezi-parki-direnisine-cagri-1135745/" title="http://www.radikal.com.tr/politika/bdpden-gezi-parki-direnisine-cagri-1135745/">bdp'den 'gezi parkı direnişi'ne çağrı</a>" yapılmış, meclis'te ve taksim'de kurumsal olarak devam etmiştir.[5] geçerken belirtelim, gezi'nin simge fotoğrafının "kahramanı" olan bdp'li <a class="b" href="/?q=ali+%c5%9fahin">ali şahin</a>'in anlatımları gerçekten ilgi çekici.[6] burdan bağlayalım.<br/><br/>neden gezi üzerinde bu kadar durdum? yürüyüş üzerine aktardığım son iktibasın gösterdiği gibi, "chp grup başkanvekili" sıfatını taşıyan <a class="b" href="/?q=engin+altay">engin altay</a>'ın amansız gezi düşmanlığı da mevcut maalesef. hemen ertesi gün ise, <a class="b" href="/?q=l%c3%bctf%c3%bc+sava%c5%9f">lütfü savaş</a>-<a class="b" href="/?q=mustafa+sar%c4%b1g%c3%bcl">mustafa sarıgül</a> kontenjanından seçilen beşiktaş belediye reisi <a class="b" href="/?q=murat+hazinedar">murat hazinedar</a>'ın açık seçik homofobik tavırları ve <a class="b" href="/?q=onur+y%c3%bcr%c3%bcy%c3%bc%c5%9f%c3%bc">onur yürüyüşü</a> karşıtlığı vuku buldu. en başta belirttiğim gibi, chp'nin geleneksel ve ısrarlı şekilde sürdürdüğü toplumsal hareketleri sönümlendirme görevi burda da karşımıza çıkabilir. kılıçdar bile, açık havadaki grup toplantısında genel olarak demokrat ve solcu taklidi yapmasına rağmen, sonunda gene "2019" vurgusu yaptı (<a rel="nofollow noopener" class="url" target="_blank" href="https://www.chp.org.tr/Haberler/36/chp-genel-baskani-kemal-kilicdaroglu-adalet-yuruyusunun-6-gununde-tbmm-chp-grup-toplantisinda-konustu-20-haziran-2017-60253.aspx" title="https://www.chp.org.tr/Haberler/36/chp-genel-baskani-kemal-kilicdaroglu-adalet-yuruyusunun-6-gununde-tbmm-chp-grup-toplantisinda-konustu-20-haziran-2017-60253.aspx">chp</a>) ancak baskı-zulüm-menfaat söz konusu olduğunda eşyanın tabiatı gereği hiç vakit kaybetmeden akp-mhp'ye yedeklenen kemalistler ve milliyetçilere nasıl "mesafeli" olunduysa aynı şekilde bütün endişeleri saklı tutup toplumsal hareketlenmeleri desteklemek gerekiyor. zira, varsın chp yönetimi kariyer uğruna bi kez daha yan çizsin, varsın sadece kendi ikballerini düşünsünler; toplumsal mücadele söz konusu olduğunda bunlar talidir. <br/><br/>bilindiği gibi, hdp'li mebuslar ve belediye eşbaşkanları rehin alındığında türkiye çapında internet yavaşlatılmış, kürt vilayetlerinde ise nerdeyse tüm iletişim araçları engellenmişti. tüm yasaklara ve görmezden gelmelere rağmen "<a rel="nofollow noopener" class="url" target="_blank" href="http://sendika49.org/2016/11/hdp-operasyonuna-karsi-il-il-protestolar/" title="http://sendika49.org/2016/11/hdp-operasyonuna-karsi-il-il-protestolar/">hdp operasyonuna karşı il il protestolar</a>" gerçekleşebilmişti. protestoların[7] ve rehin almaların sadece hdp'liler ile sınırlı olmadığının altını çizmek lazım -<a class="b" href="/?q=bodrum">bodrum</a>'da dahi çevre platformu sözcüsü <a class="b" href="/?q=ayhan+karahan">ayhan karahan</a>, oğlunun anlatımına göre komplo ile tekrar mahpus.[8] yahu gayrimeşru referandum sonrası <a class="b" href="/?q=kaz%c4%b1m+k%c4%b1z%c4%b1l">kazım kızıl</a> bile içerde! geçerken not düşmek elzem, bu süreçte birçok alternatif medya kuruluşu kapatıldı; dolayısıyla holding-havuz medyasının ambargosu ve ona eşlik eden dezenformasyon/manipülasyonlar etrafı daha güçlü sardı. bırakın on sene öncesini, daha altı ay önce yaşananları bile bulup hatırlatmak arkeolojik kazıdan farksız hale geldi..<br/><br/><a class="b" href="/?q=enis+berbero%c4%9flu">enis berberoğlu</a>'nun rehin alınması sırasında böyle uygulamalar vuku bulmadı. çünkü hdp operasyonu ile neredeyse eş zamanlı gerçekleşen <a class="b" href="/?q=cumhuriyet">cumhuriyet</a> operasyonu'nda chp'li <a class="b" href="/?q=alev+co%c5%9fkun">alev coşkun</a> ve mustafa balbay` gibi milliyetçilerin etkisi bariz ya, saray ve yancısı milliyetçiler gene "zekice" oyun kurgulayarak <a class="b" href="/?q=odatv">odatv</a> patronu yenikapı ruhlu şaklabanı kullandı bu sefer de..<br/><br/>ve elbette, bugüne kadar bütün deneyimler ve hatta iki senedir devam eden büyük yıkım dahi hiç kuşkuya bırakmadan gösterdi ki hdp veya geniş anlamda "<a class="b" href="/?q=k%c3%bcrt+hareketi%22">kürt hareketi"</a> olmaz ise "demokrasi güçleri" diye tanımlanagelen irili ufaklı hareketlenmeler hiçbir halt beceremez. amiyane tabirle söyler isek, kürtler ve aleviler olmaz ise chp tabanı sadece "<a class="b" href="/?q=hi%c3%a7lik">hiçlik</a>" deyu tanımlanabilir. ol sebeple, hasetle bakılması son derece doğaldır. bu yüzden, hdp'den sadece sembolik değil kitlesel ve "tam teşekküllü" katılım olacaksa <a class="b" href="/?q=kendi">kendi</a> kimliklerini ve <a class="b" href="/?q=kendi">kendi</a> taleplerini taşıması zaruridir. ali'nin dediği gibi:<br/><br/>"olaydan sonra o fotoğrafı bir kez sosyal medyada paylaştım. çok fazla hakarete uğradım. fotoğrafın altına, ‘terörist’, ‘sen kimsin ki bize yardım ediyorsun’ şeklinde yorumlar yapıldı. milliyetçi kürtler de, atatürk bayraklı birine yardım ettim diye tepki gösterdi. ancak her şeye rağmen beni tebrik eden çok insan çıktı."<br/><br/>[1] "hdp adalet yürüyüşü’nü kandıra’da karşılayacak", dihaber, 24 haziran 2017<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://dihaber.net/TUM-HABERLER/content/view/24251">http://dihaber.net/tum-haberler/content/view/24251</a><br/>"hdp adalet yürüyüşü'ne kandıra'da katılacak", duvar, 24 haziran 2017<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazeteduvar.com.tr/politika/2017/06/24/hdp-adalet-yuruyusune-katilacak-iddiasi/" title="http://www.gazeteduvar.com.tr/politika/2017/06/24/hdp-adalet-yuruyusune-katilacak-iddiasi/">http://www.gazeteduvar.com.tr/…e-katilacak-iddiasi/</a><br/>[2] "diyarbakır ve van'dan 'gezi' direnişine destek", demokrat haber, 1 haziran 2017<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.demokrathaber.org/guncel/diyarbakir-ve-vandan-gezi-direnisine-destek-h18923.html" title="http://www.demokrathaber.org/guncel/diyarbakir-ve-vandan-gezi-direnisine-destek-h18923.html">http://www.demokrathaber.org/…ne-destek-h18923.html</a><br/>"bulanık'tan gezi direnişçilerine destek kaynak: bulanık'tan gezi direnişçilerine destek", yüksekova haber, 11 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/bulaniktan-gezi-direniscilerine-destek-103605.htm" title="http://www.yuksekovahaber.com.tr/haber/bulaniktan-gezi-direniscilerine-destek-103605.htm">http://www.yuksekovahaber.com.tr/…destek-103605.htm</a><br/>"gezi direnişine destek için suruç'ta yürüyüş", yüksekova haber, 13 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/gezi-direnisine-destek-icin-suructa-yuruyus-103762.htm" title="http://www.yuksekovahaber.com.tr/haber/gezi-direnisine-destek-icin-suructa-yuruyus-103762.htm">http://www.yuksekovahaber.com.tr/…uruyus-103762.htm</a><br/>[3] "'uzun yürüyüş' başladı", özgür gündem, 8 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ozgur-gundem.com/haber/74832/uzun-yuruyus-basladi" title="http://www.ozgur-gundem.com/haber/74832/uzun-yuruyus-basladi">http://www.ozgur-gundem.com/…2/uzun-yuruyus-basladi</a><br/>"yürüyüş andaç köyüne ulaştı", yüksekova haber, 8 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/yuruyus-andac-koyune-ulasti-103413.htm" title="http://www.yuksekovahaber.com.tr/haber/yuruyus-andac-koyune-ulasti-103413.htm">http://www.yuksekovahaber.com.tr/…ulasti-103413.htm</a><br/>"canan: kürtlerin sabrını zorlamayın", yüksekova haber, 9 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/canan-kurtlerin-sabrini-zorlamayin-103428.htm" title="http://www.yuksekovahaber.com.tr/haber/canan-kurtlerin-sabrini-zorlamayin-103428.htm">http://www.yuksekovahaber.com.tr/…amayin-103428.htm</a><br/>"bdp'liler depin'i trafiğe kapattı kaynak: bdp'liler depin'i trafiğe kapattı", yüksekova haber<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/bdpliler-depini-trafige-kapatti-103566.htm" title="http://www.yuksekovahaber.com.tr/haber/bdpliler-depini-trafige-kapatti-103566.htm">http://www.yuksekovahaber.com.tr/…apatti-103566.htm</a><br/>[4] "bdp, 'hükümet adım at' sloganıyla sokağa çıkıyor", t24, 28 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/bdp-hukumet-adim-at-sloganiyla-sokaga-cikiyor,233005" title="http://t24.com.tr/haber/bdp-hukumet-adim-at-sloganiyla-sokaga-cikiyor,233005">http://t24.com.tr/…sloganiyla-sokaga-cikiyor,233005</a><br/>[5] "bdp'den gezi parkı'na kitlesel yürüyüş", yüksekova haber, 8 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.yuksekovahaber.com.tr/haber/bdpden-gezi-parkina-kitlesel-yuruyus-103389.htm" title="http://www.yuksekovahaber.com.tr/haber/bdpden-gezi-parkina-kitlesel-yuruyus-103389.htm">http://www.yuksekovahaber.com.tr/…uruyus-103389.htm</a><br/>"bdp milletvekilleri de 'durdu'", radikal, 18 haziran 2013<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.radikal.com.tr/turkiye/bdp-milletvekilleri-de-durdu-1138097/" title="http://www.radikal.com.tr/turkiye/bdp-milletvekilleri-de-durdu-1138097/">http://www.radikal.com.tr/…illeri-de-durdu-1138097/</a><br/>[6] "o fotoğrafın kahramanı konuştu: ezber bozdu", radikal, 4 haziran 2015<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.radikal.com.tr/turkiye/o-fotografin-kahramani-konustu-ezber-bozdu-1372136/" title="http://www.radikal.com.tr/turkiye/o-fotografin-kahramani-konustu-ezber-bozdu-1372136/">http://www.radikal.com.tr/…stu-ezber-bozdu-1372136/</a><br/>"ali şahin, gezi direnişinin simgesi olan fotoğrafın hikayesini anlattı", imc tv, 26 mayıs 2016 (<a rel="nofollow noopener" class="url" target="_blank" href="http://www.dailymotion.com/video/x4ctg0o" title="http://www.dailymotion.com/video/x4ctg0o">dailymotion</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://imc-tv.net/bdp-bayragini-tasiyan-ali-sahin-fotografin-hikayesini-anlatti/" title="http://imc-tv.net/bdp-bayragini-tasiyan-ali-sahin-fotografin-hikayesini-anlatti/">http://imc-tv.net/…n-fotografin-hikayesini-anlatti/</a><br/>"geleceğimize sahip çıktık", cumhuriyet, 28 haziran 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/yazi_dizileri/541810/Gelecegimize_sahip_ciktik.html" title="http://www.cumhuriyet.com.tr/haber/yazi_dizileri/541810/Gelecegimize_sahip_ciktik.html">http://www.cumhuriyet.com.tr/…ize_sahip_ciktik.html</a><br/>[7] "milletvekilleri yerde sürüklendi... diyarbakır'da polis müdahalesi: çok sayıda kişi gözaltında", cumhuriyet, 26 ekim 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/621552/Milletvekilleri_yerde_suruklendi..._Diyarbakir_da_polis_mudahalesi__Cok_sayida_kisi_gozaltinda.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/621552/Milletvekilleri_yerde_suruklendi..._Diyarbakir_da_polis_mudahalesi__Cok_sayida_kisi_gozaltinda.html">http://www.cumhuriyet.com.tr/…_kisi_gozaltinda.html</a><br/>"diyarbakır'da gözaltı protestosu; sebahat tuncel gözaltında", t24, 4 kasım 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/diyarbakirda-gozalti-protestosu-sebahat-tuncel-gozaltinda,369037" title="http://t24.com.tr/haber/diyarbakirda-gozalti-protestosu-sebahat-tuncel-gozaltinda,369037">http://t24.com.tr/…sebahat-tuncel-gozaltinda,369037</a><br/>[8] "bodrum çevre platformu sözcüsü gazeteci ayhan karahan, cumhurbaşkanı erdoğan'a hakaret ettiği iddiasıyla tutuklandı", t24, 9 kasım 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/bodrum-cevre-platformu-sozcusu-gazeteci-ayhan-karahan-cumhurbaskani-erdogana-hakaret-ettigi-iddiasiyla-tutuklandi,369783" title="http://t24.com.tr/haber/bodrum-cevre-platformu-sozcusu-gazeteci-ayhan-karahan-cumhurbaskani-erdogana-hakaret-ettigi-iddiasiyla-tutuklandi,369783">http://t24.com.tr/…igi-iddiasiyla-tutuklandi,369783</a><br/>"ayhan karahan gözaltına alındı", kent tv, 1 haziran 2017<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.kenttv.net/haber.php?id=38243">http://www.kenttv.net/haber.php?id=38243</a>
 - entry_name: |
+    25 haziran 2017 gazi koşusu
+  entry_id:  69061468
+  entry_writer: godsparticle
+  entry_fav_count: 11
+  entry_content: |
+    piano sonata'nın kazanacağnı tahmin ettiğim yarış. sürpriz bekliyorum.
+- entry_name: |
     steam summer sale 2017
   entry_id:  69056045
   entry_writer: windhelm
   entry_fav_count: 9
   entry_content: |
     gaza gelip dunya kadar oyun aldim, buraya gelip biraz lanet okuyayim derken entrylerde gordum shadow of mordor'u bilin bakalim noldu 1 dk once onu da aldim. lanet olsun gercekten. oyun oynayacak pc bile yok, telefondan aliyorum ya allah kahretsin.
-- entry_name: |
-    25 haziran 2017 gazi koşusu
-  entry_id:  69061468
-  entry_writer: godsparticle
-  entry_fav_count: 9
-  entry_content: |
-    piano sonata'nın kazanacağnı tahmin ettiğim yarış. sürpriz bekliyorum.
 - entry_name: |
     2017 azerbaycan gp
   entry_id:  69059407
@@ -223,9 +237,23 @@ data:
     sözlükçülerin konuştuğu yabancı ünlüler
   entry_id:  69048920
   entry_writer: dukebell
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     konuşmadım ama konuya şu kadar yaklaştım;<br/><br/>instagram ya da twitterdı tam hatırlamıyorum. yeni üye oldum, sevdiğim tüm ünlüleri takibe aldım. 3-5 tanesi de beni takip etmeye tıkladı. aralarında <a class="b" href="/?q=taylor+swift">taylor swift</a> de var. böyle otomatik sen de ekle tarzı popülerliği zirvede tutma amaçlı yazılım tarzı birşey olduğunu düşündüm. birkaç gün sonra bu dönenlerin profiline bakayım dedim. swift ablamızın takip ettiği 20 küsür adam var. benim jeton düştü bu yanlışlıkla yaptı diye. ses çıkarmayayım belki anlamaz dedim ama ertesi gün takibi bıraktı. <br/><br/>(bkz: <a class="b" href="/?q=god+damn+it">god damn it</a>)
+- entry_name: |
+    güçlü kadınlardan nefret edilmesi
+  entry_id:  69058394
+  entry_writer: bayvapsi
+  entry_fav_count: 7
+  entry_content: |
+    güçlü kadın deyince ilk akla gelen <br/>(bkz: <a class="b" href="/?q=t%c3%bcrkan+saylan">türkan saylan</a>). <br/><br/>evet bazı şerefsizler çok nefret ettiler kendisinden.
+- entry_name: |
+    birinci geleneksel ekşi sözlük voleybol zirvesi
+  entry_id:  69051111
+  entry_writer: dunyanin en buzin seven insani
+  entry_fav_count: 7
+  entry_content: |
+    bu kadar kalabalık bi sözlükte, bi çok şehirden takımın katılacağı minik turnuvalar bile yapılır. sinirin, stresin eksik olmadığı hayatlara ufak da olsa bi soluk getireceği için desteklenmesi lazım. <br/><br/>ha ben götümü kaldırıp gelmem o ayrı tabii :3
 - entry_name: |
     otoyolda herkesin sağladığı yavaş yavaş giden öküz
   entry_id:  69050002
@@ -234,19 +262,26 @@ data:
   entry_content: |
     orta şeritte istediği hızla gidilebileceğini sanan insanların olduğunu gösteren başlık. <br/>mümkün mertebe kurallara uyarım, hız sınırını aşmam. geçiş yaptıktan sonra hızım uygun değilse sol şeridi hemen boşaltırım. bazen canım yavaş gitmek ister, otobanda en sağa geçerim, hiç üşenmeden tek tek kamyon sollarım. çünkü otobanda 90 ile orta şeritten gidilmez!<br/>istanbul'da bu tiplerle sık karşılaşırsınız 50 ile orta şeritten giderler, üstelik sağ şerit de boştur. oysa ki orta şeridin gerektirdiği hız 70 civarıdır. (akıcı trafikte)sağa geç diye uyarırsınız tınmaz. sol şerit boşalsın diye beklersiniz.<br/><br/>orta şerit kafana göre gideceğin şerit değildir. <br/><br/>buyrun kanuna bakalım.<br/><br/>karayollarında trafiğin akışı ve karayolunun kullanılması<br/>madde 94- karayollarında trafik sağdan akar.<br/>aksine bir hüküm veya işaret bulunmadıkça karayollarında;<br/>a) araç sürücüleri;<br/>a) araçlarını durumun elverdiği oranda gidiş yönüne göre yolun en sağından, yol çok şeritli ise trafik durumuna göre hızının gerektirdiği şeritten sürmek,<br/>zorundadır.<br/>ayrıca,<br/>ı) araçlarının cinsine ve hızına uygun olmayan şeritten gitmeleri yasaktır.<br/><br/>bu başlıkta bahsedilen sol şeritte 120 ile gidip yol vermeyen adam değil, 70-80 ile sol şeridi kapatan adam. <br/><br/>3 şeritli yolda , en sağ şeritte 70 ile giderken selektör yapan sığır görmüşlüğüm de var, orası ayrı.
 - entry_name: |
-    güçlü kadınlardan nefret edilmesi
-  entry_id:  69058394
-  entry_writer: bayvapsi
-  entry_fav_count: 6
-  entry_content: |
-    güçlü kadın deyince ilk akla gelen <br/>(bkz: <a class="b" href="/?q=t%c3%bcrkan+saylan">türkan saylan</a>). <br/><br/>evet bazı şerefsizler çok nefret ettiler kendisinden.
-- entry_name: |
     bayramda toplu mesaj atmak
   entry_id:  69056515
   entry_writer: n3mesis
   entry_fav_count: 6
   entry_content: |
     attığım mesajın aynısının 2 dk sonra bana gelmesiyle sonuçlanmıştır.
+- entry_name: |
+    25 haziran 2017 pendik camii saldırısı
+  entry_id:  69063012
+  entry_writer: deli ziya
+  entry_fav_count: 6
+  entry_content: |
+    gozlerimle gördüm. deri pantolon giymislerdi, üstleri çıplaktı, ellerinde bıçak vardı. cemaatin önce üstüne işediler ve sonra sirtindan bıçakladılar.
+- entry_name: |
+    iyi insan olmanın hiçbir işe yaramaması
+  entry_id:  69053473
+  entry_writer: enfazla40karakter
+  entry_fav_count: 5
+  entry_content: |
+    şuurunuz açık, bilinciniz yerindeyse, herhangi bir akıl hastalığınız yahut zihinsel engeliniz yoksa, meslek olarak siyasetçilik, bankacılık, reklamcılık, inşaatçılık, sigortacılık, borsacılık vs falan gibi insanı sömüren şeyler yapmıyorsanız, yani duygu durum ve algı sezim bakımından normalseniz, e kötü bir şey yaptığınızda kötü ve sıkıntılı hissedersiniz. bu yüzdendir ki hiç uzatmadan derin felsefik analizlere girmeden uzun boylu küllevi metaforlar eylemeden rahatlıkla şunu diyebilirim ki iyi bir insan olmak insanı iyi ve huzurlu hissettirir. bundan daha iyi ne olabilir ki?
 - entry_name: |
     bir insanla ilişiği kesmek için yeter sebepler
   entry_id:  69049008
@@ -255,26 +290,12 @@ data:
   entry_content: |
     hayvanlara şiddet uygulaması. daha ne olsun.
 - entry_name: |
-    iyi insan olmanın hiçbir işe yaramaması
-  entry_id:  69053473
-  entry_writer: enfazla40karakter
+    fıstıklı baklava vs cevizli baklava
+  entry_id:  69060480
+  entry_writer: turuncan53
   entry_fav_count: 4
   entry_content: |
-    şuurunuz açık, bilinciniz yerindeyse, herhangi bir akıl hastalığınız yahut zihinsel engeliniz yoksa, meslek olarak siyasetçilik, bankacılık, reklamcılık, inşaatçılık, sigortacılık, borsacılık vs falan gibi insanı sömüren şeyler yapmıyorsanız, yani duygu durum ve algı sezim bakımından normalseniz, e kötü bir şey yaptığınızda kötü ve sıkıntılı hissedersiniz. bu yüzdendir ki hiç uzatmadan derin felsefik analizlere girmeden uzun boylu küllevi metaforlar eylemeden rahatlıkla şunu diyebilirim ki iyi bir insan olmak insanı iyi ve huzurlu hissettirir. bundan daha iyi ne olabilir ki?
-- entry_name: |
-    pepe
-  entry_id:  69059326
-  entry_writer: sol but oyuncusu
-  entry_fav_count: 3
-  entry_content: |
-    dünyadaki aktif sol bekler arasında kariyer olarak ilk 3e rahat girecek adriano, yıllarca real madrid'in orta sahasında başarılı olmuş ve kaptanlık yapmış guti nasıl beşiktaş'ı tercih ettiyse, pepe'nin de tercih etmesi mümkündür. beşiktaş'a transferi gerçekleşirse(ki yüksek ihtimal) mucize veya olağanüstü bir şey olmaz.
-- entry_name: |
-    nuriye ve semih'in açlığına ses ver
-  entry_id:  69048793
-  entry_writer: erdemselevren
-  entry_fav_count: 3
-  entry_content: |
-    nuriye gülmen'in bayram mesajı;<br/><br/>"bugün 21 haziran. açlık grevimizin 105. günündeyiz. pazar günü, açlığın 109. gününde ramazan bayramını kutlayacak müslüman halklar.<br/><br/>ben de ailemden ve sevdiklerimden ayrı ilk bayramımı idrak edeceğim. bu, aynı zamanda açlıkla geçen ilk bayramım olacak.<br/><br/>milyonlarca çocuğun geceleri yatağa aç girdiği, milyonlarca insanın adalete aç olduğu bir dünyada bizim açlığımız nedir ki? mesele yemeksiz kalmaksa, karın açlığıysa, çocukların bayramlara aç uyandığı bir dünyada açlığımızın adını ağzıma almayız. ama bugün açlığımızın ifade ettiği şey, karın açlığından çok daha fazlasıdır. 21. yüzyılda, emperyalizmin bedelini tüm dünya halklarına ödettiği, içinde geçmekte olduğumuz krizinde; adalet, ekmeğe ve onura aç milyonların sesi olma iddiasındadır bizim çekmekte olduğumuz açlık.<br/><br/>bu bayram, kutlayacağımız en güzel bayram olmayacak. en güzelini halkların adalete doyduğu yarınlarda kutlayacağız. ama bunu da elimizdekilerle kutlamayı bileceğiz.<br/><br/>onurumuzla yaşamanın kıvancıyla kutlayacağız gelmekte olan bayramı. bin yıllardır süregelen ekmeğini onuruyla kazanma savaşının "iyi dövüşçüleri" olarak coşkuyla kutlayacağız, sizinle aynı gökyüzünün altında.<br/><br/>109. günkü açlığımız bayram sabahlarına aç uyanan dünya çocukları için olacak.<br/><br/>tüm müslüman dünya halklarının ramazan bayramını en kalbi duygularla kutluyorum."<br/><br/>umutla..<br/><br/>nuriye
+    cevizli baklavayı oldum olası anlamamış biri olarak oyumu fıstıklı baklavaya bastığım karşılaşmadır.
 - entry_name: |
     galatasaray
   entry_id:  69049735
@@ -283,19 +304,12 @@ data:
   entry_content: |
     bu sene de tolga-selçuk ikilisinde ısrar ihanette ısrardır. selçuk inan denen vasıfsızdan nefret ediyor olmam ile alakalı bir durum değil bu. bu ligde iş yapmak istiyorsan kesinlikle bir dmc almak zorundasın. eğer bu sene de bir dmc alınmazsa artık selçuk inanın bu takımın 'sahibi' olduğunu en gerizekalı bile anlar.
 - entry_name: |
-    fıstıklı baklava vs cevizli baklava
-  entry_id:  69060480
-  entry_writer: turuncan53
-  entry_fav_count: 3
+    tarkan
+  entry_id:  69056614
+  entry_writer: iklim
+  entry_fav_count: 1
   entry_content: |
-    cevizli baklavayı oldum olası anlamamış biri olarak oyumu fıstıklı baklavaya bastığım karşılaşmadır.
-- entry_name: |
-    fabricio agosto ramirez
-  entry_id:  69052490
-  entry_writer: konus sen dinliyorum
-  entry_fav_count: 3
-  entry_content: |
-    kendisinde şeytan tüyü olduğu için değil hayvan gibi karşı karşıya pozisyon çıkardığı için kızamıyoruz. <br/><br/>öyle kritik maçlarda kurtardı ki götümüzü çok azımız farkında bunun. başakşehir hezimeti, fenerbahçe son dakika şokundan sonra bursa maçında defansın arkasına efsane bir top attı bursa, forveti ile fabri yarakla taşak gibi karşı karşıya kalmıştı hatırlarsanız. bursa'nın yarınlar yokmuş gibi oynadığı maç. hah işte, durum 0-0 iken o golü yeseydi fabri belki de o psikoloji ile takım bocalayacak, şampiyonluğa orada veda edecektik. <br/><br/>içerdeki lyon maçından, dışardaki napoli maçından bahsetmiyorum bile. o maçlarda kaleyi sadece neuer ile buffon fabri'den iyi koruyabilirdi. belirli bir standarda alıştırdığı için yaptığı iyi kurtarışlar gözümüzden kaçıyor. insanüstü kurtarışlara bir-iki cümle kuruyoruz sadece. <br/><br/>ha bir de takımı seviyor, sahipleniyor, bu en önemlisi. cordoba'dan sonra beşiktaş için çabalayan ilk kalecimiz. diğerleri sadece işlerini yapıyordu. başarılarının devamını diliyor, daha da iyi olacağına canı gönülden inanıyoruz.
+    nasıl albüm yaparsa yapsın türk pop'unun son 20 yıldır kralı. yanına yaklaşan dahi olmadı henüz. hani "birinci belli, ikinci kim" derler ya, bu adam öyle bir yerde, tek başına açık ara zirvede. ne yapsa diğerlerinden zaten daha iyi olacak, diğerlerini ezip geçecek, diğerleri bunun tozunu yutacak. o zaman neden hala müzikalitesi erimiş insanlarla çalışıyor bilmiyorum. yine de iyi ki var, en azından türk popunun kralı olan insan ülkedeki muafazakar rüzgara göre eğilip bükülmüyor.
 - entry_name: |
     ecnebilerin elinde olsaydı daha güzel olacak iller
   entry_id:  69062872
@@ -303,13 +317,6 @@ data:
   entry_fav_count: 1
   entry_content: |
     (bkz: <a class="b" href="/?q=eski%c5%9fehir+hari%c3%a7+de+ulan">eskişehir hariç de ulan</a>)
-- entry_name: |
-    bayramı evde yalnız geçirmek
-  entry_id:  69055200
-  entry_writer: degisimindengesi
-  entry_fav_count: 1
-  entry_content: |
-    çok istediğim şeydir. kafa rahat, gelen giden soran eden yok. ama malesef ben değilim bu kişi.. onlara selam olsun, iyi bayramlar..
 - entry_name: |
     süregelen ekşi sözlük taciz rezaleti
   entry_id:  69059023
@@ -325,12 +332,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=travesti+ba%c5%9fl%c4%b1klar%c4%b1">travesti başlıkları</a>)
 - entry_name: |
-    kazım koyuncu
-  entry_id:  69055024
-  entry_writer: aklimagelmedinick
+    eurovision tarihinin en iyi şarkısı
+  entry_id:  69049416
+  entry_writer: mazut
   entry_fav_count: 0
   entry_content: |
-    12 yıl oldu bugün kazım abi. bayrammış seyranmış bi önemi yok be abim. biz senin sesinde geceden bayramlığını hazırlayıp uyuyamayan çocuk heyacanını yaşayıp, senin sesinde elini öpecek babası olmayan çocuk hüznünü yaşadık... eminim mutlusun oralar da. iyi bayramlar kazım abi...
+    (bkz: <a class="b" href="/?q=we+are+the+winners+of+eurovision">we are the winners of eurovision</a>)<br/><br/>açık ara.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  69058840
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     bizim akademisyenler iyi yaa, hem ingilizce de konuşmuyoruz kendileriyle, whatsapp tan türkçe mesajlaşıp rakı masasında buluşuyoruz falan.
-- entry_name: |
-    25 haziran 2017 pendik camii saldırısı
-  entry_id:  69062877
-  entry_writer: cikmaz sokak
-  entry_fav_count: 0
-  entry_content: |
-    dhkp-c nin yaptığı bir eylemle provoke olacak, gaza gelecek kadar zekadan yoksun lümpen bir kesimin kaldığını sanmıyorum varsa bile taşı yerinden oynatamaz. <br/>bu gibi örgütlerin neye hizmet ettiğini otuz üstü iq zaten biliyor, altındakiler de kendini biliyor olmalı.
 ---
