@@ -6,21 +6,21 @@ data:
     #ülkemde suriyeli istemiyorum
   entry_id:  69194600
   entry_writer: yeopgijeogin geunyeo
-  entry_fav_count: 547
+  entry_fav_count: 575
   entry_content: |
     aynı şey bizim başımıza geldi (bkz: <a class="b" href="/?q=1.+d%c3%bcnya+sava%c5%9f%c4%b1">1. dünya savaşı</a>) ve biz kaçıp başka ülkelere sığınıp orada karı kız peşinde koşmadık, savaştık. bunlar oluyorken de bu mezopotamya eşeklerinin ataları bizi çoktan satmışlardı.<br/><br/>ne konuştuğumuzu bilelim, sonra yazalım.
 - entry_name: |
     şort giyen kızı taciz eden sapığın linç edilmesi
   entry_id:  69189979
   entry_writer: siz cok seysiniz sanki
-  entry_fav_count: 323
+  entry_fav_count: 324
   entry_content: |
     izmir'de yaşanan olay. bu sefer vatandaş işini sağlama almış ve cezayı polise bırakmamıştır. ben olsam, arabistan'a kadar dinlene dinlene döverdim. hala bakınca tanınabilir halde sapık. izmirli biraderlerim nazik olmanın sırası değil şimdi, dayak performansımıza dikkat edelim lütfen.<br/><br/>link:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/permalink.php?story_fbid=1415399288546459&amp;id=940620126024380" title="https://www.facebook.com/permalink.php?story_fbid=1415399288546459&amp;id=940620126024380">https://www.facebook.com/…546459&amp;id=940620126024380</a><br/><br/>edit: "adam ya masumsa" diye düşünenler olmuş. haklılar. ama "bir daha olmayacak." gibisinden bir şeyler söylüyor. bir nevi itiraf ediyor zaten yaptığını. o yüzden atış serbest.
 - entry_name: |
     chp liderinin sözde adalet yürüyüşü yorumlanıyor
   entry_id:  69192344
   entry_writer: yurekinmez
-  entry_fav_count: 264
+  entry_fav_count: 269
   entry_content: |
     benden tahsil ettikleri her bir kuruş boğazlarına takılsın. <br/><br/>tarafsız trt'de görülen bir ifade.
 - entry_name: |
@@ -34,23 +34,30 @@ data:
     said nursi'nin mucizeleri
   entry_id:  69191743
   entry_writer: ultimum romanum caesar
-  entry_fav_count: 228
+  entry_fav_count: 237
   entry_content: |
     hem köylüyü, hem orta direği, hem de profesöründen beyaz yakalısına her yaş, cins, renk ve dilden aptalı arkasına bağlamasıdır.<br/><br/>helal olsun. bu cidden bir mucize yahut onun bir altıdır.
 - entry_name: |
     seks yaparken konsantrasyonu bozan şeyler
   entry_id:  69188701
   entry_writer: evillive
-  entry_fav_count: 160
+  entry_fav_count: 164
   entry_content: |
     ortası delik sabunun kırılması.
 - entry_name: |
     2017'de ekşisözlük'te en çok kullanılan kelimeler
   entry_id:  69197833
   entry_writer: elegant developer
-  entry_fav_count: 136
+  entry_fav_count: 149
   entry_content: |
     sıkıntıdan yaptığım haftasonu projesi. 2017 yılında yazılmış 300 bin başlık ve 3 milyon entry içerisinde kullanılan kelimelerin istatistikleridir.<br/><br/>başlığa ya da yazara göre arama yapılıp detaylı istatistikler görüntülenebilir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://eksiwords.surge.sh/">http://eksiwords.surge.sh/</a><br/><br/>teknik kısımla ilgili bişey sormak isteyen olursa yeşillendirebilir.
+- entry_name: |
+    kürdistan reklamı
+  entry_id:  69194330
+  entry_writer: huzurluca
+  entry_fav_count: 136
+  entry_content: |
+    türkiye'de halkların kardeşliği, ırak'ta tek ırk tek dil. <br/><br/>adamlar kültürel solcular gibi enayileri bulmuşlar. inek gibi sağıyorlar. işte bunun adı da "halkların kardeşliği" oluyor. yersen tabi.
 - entry_name: |
     ateistlerin ölünce nereye gidecekleri sorunsalı
   entry_id:  69189142
@@ -62,14 +69,21 @@ data:
     hazırı en boktan olan gıdalar
   entry_id:  69195019
   entry_writer: velovis
-  entry_fav_count: 92
+  entry_fav_count: 96
   entry_content: |
     (bkz: <a class="b" href="/?q=limonata">limonata</a>)
+- entry_name: |
+    özgür mumcu'nun tweet'ine gelen yanıt
+  entry_id:  69198416
+  entry_writer: anani siken kadi
+  entry_fav_count: 95
+  entry_content: |
+    <a class="b" href="/?q=u%c4%9fur+mumcu">uğur mumcu</a>'yu kimlerin katlettiğinin kanıtı olan yanıttır.
 - entry_name: |
     pamukkale üniversitesi 2017 mezuniyet rezaleti
   entry_id:  69194277
   entry_writer: my dear deer
-  entry_fav_count: 84
+  entry_fav_count: 88
   entry_content: |
     2 temmuz 2017 yani bugün gerçekleşen rezalettir. normalde üniversite kampüsünün içinde yapılan ve her fakülte için ayrı ayrı gerçekleştirilen mezuniyet töreni bu sene yeni rektör <a class="b" href="/?q=h%c3%bcseyin+ba%c4%9f">hüseyin bağ</a>ın yeni bir saçmalığı olarak denizli atatürk stadında toplu bir şekilde yapılıyor an itibarıyla. daha doğrusu yapılamıyor çünkü binlerce öğrenci ve onbinlerce veli stada sığamıyor.<br/><br/>44 derece sıcak altında otoparkı olmayan ve şehir içinde yer alan stada gidebilmek için 1 saat trafikte kilit kalıp sonra arabadan inip stada gidip stadyum dolu içeri almıyoruz diye görevlilerle kavga edip mezuniyetine giremeyen öğrencilerin ağlamalarına şahit olabilirsiniz.<br/><br/>iş bilmez insanların aldıkları karar, sıcağın altında perişan olan binlerce insan, stadyuma giremeyen ve mezuniyete katılamayan öğrenciler ve veliler. okulda onbinlerce park yeri olan yerde yapmaktansa şehir içinde bu töreni yapan herkesin allah belasını versin.<br/><br/>edit: ulan 40 yaşında adamım. öğrenciliği boyunca çocuklarıma ablalık yapan uzaktan da akrabamız bir kardeşimin en güzel günlerinden birinde yanında olmak için daveti üzerine gidelim dedik. oradaki insanların çektiği sıkıntıları paylaşayım dedim aşağıdaki yorumları görünce gerçekten buranın ne kadar boş yazarlarla dolu olduğunu bir kez daha gördüm.<br/><br/>hayattaki tek başarısı ekşide yazmak olan, ekranın karşısında gerçek hayata karışmadan hayatını harcayan tiplere göre mezuniyet önemsiz olabilir ama mezun olan öğrenciler ve türkiyenin dört yanından gelen veliler için gayet önemli. hatta yurt dışında özellikle amerikada bu işler o kadar önemlidir ki herkes planını buna göre yapar. insanlar akrabalarının mezuniyet partilerine katılmak için farklı şehirlerden gelir.<br/><br/>artık bu ülkede de yapılan etkinlikler veya organizasyonların şov için değil, katılanlar için yapıldığını görebilmek içindi eleştirim.
 - entry_name: |
@@ -80,17 +94,10 @@ data:
   entry_content: |
     son zamanlarda bu tacizci videolarını çok sık görür olduk. bu tacizin arttığını değil, teknoloji sayesinde daha iyi ifşa edilebildiklerini gösteriyor. eskiden beri sürekli olan bir şeyi artık kadınlarımız ve diğer erkekler farkedip yaymaya başladılar ve çok iyi oldu. böyle böyle sonunuz gelecek pislik herifler. lütfen kadınlarımız tacizden korkup utanıp kaçmasın. tacizcinin yaptığı yanına kar kalıp daha da cesaretlenmesin.
 - entry_name: |
-    kürdistan reklamı
-  entry_id:  69194662
-  entry_writer: rolandmicrocube
-  entry_fav_count: 83
-  entry_content: |
-    yalnız videoda şöyle bir ibnelik de mevcut.<br/><br/>bu hewallerin kolye diye taktıkları kürdistan haritası kolyesinin yarısından fazlası türkiye toprağı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jWBZjn.jpg">https://i.hizliresim.com/jwbzjn.jpg</a><br/><br/>yani <a class="b" href="/?q=k%c3%bcrdistan+b%c3%b6lgesel+y%c3%b6netimi">kürdistan bölgesel yönetimi</a> haritası falan değil. adamların gece ıslak rüyalarında gördükleri olmayan harita üzerinden tasarlanmış o kolye.<br/><br/>tanım: olmayan hayali bir ülke üzerinden, hayali sınırlar düşünülerek hazırlanmış boktan reklam.
-- entry_name: |
     amerikan askerinin barbie bebek verdiği kürt kızı
   entry_id:  69194327
   entry_writer: i am not noob
-  entry_fav_count: 71
+  entry_fav_count: 72
   entry_content: |
     komik bir pr çalışmasına alet edilmiş çocuktur.
 - entry_name: |
@@ -101,13 +108,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=dalya+rock">dalya rock</a>)
 - entry_name: |
-    özgür mumcu'nun tweet'ine gelen yanıt
-  entry_id:  69198416
-  entry_writer: anani siken kadi
-  entry_fav_count: 59
-  entry_content: |
-    <a class="b" href="/?q=u%c4%9fur+mumcu">uğur mumcu</a>'yu kimlerin katlettiğinin kanıtı olan yanıttır.
-- entry_name: |
     hiç siyahi rockçı veya metalci olmaması
   entry_id:  69189512
   entry_writer: alihandro
@@ -115,19 +115,26 @@ data:
   entry_content: |
     iyi tespit.zorlamaya gerek yok basligi acan kisi hakli.sadece olmamasi yerine az olmasi yazmasi dogru olurdu o kadar.siyahi metalci yok denecek kadar azdir.genelde rap ve r&amp;b kafalarindadirlar.buraya bilinen tüm siyahi rock'cilari ya da metalcileri yazmak bir anlam ifade etmez yani.gercekten arastirilsa yüzde 90'a, yüzde 10'luk bir oran cikabilir.gercekten de ilginc.
 - entry_name: |
-    düz vites araçla dik yokuşta durmak zorunda kalmak
-  entry_id:  69180773
-  entry_writer: 28061984
-  entry_fav_count: 46
+    kılıçdaroğlu'na el hareketi çeken goodyear işçisi
+  entry_id:  69199002
+  entry_writer: nesli tukenmeyen panda
+  entry_fav_count: 57
   entry_content: |
-    ayak frendeyken debriyajdan yavas yavas cekin. <br/>araba ileriye doğru atılmak isteyecek orda debriyajı tutup diğeri ayağı frenden gaza geçirin ve yavaş yavaş debriyajın tamamından çekin.<br/>bu kadar.
+    bokunda boğulması gerekenlerin bulunduğu fotoğraftır. taptıkları adam 1000 odalı sarayda yaşarken koduğum çomarları asgari ücretle sefil hayat yaşıyorlar.
 - entry_name: |
     sol frame'de görmekten gına gelen başlıklar
   entry_id:  69180945
   entry_writer: monur72
-  entry_fav_count: 39
+  entry_fav_count: 42
   entry_content: |
     düşün ki o bunu okuyor, ekşi itiraf
+- entry_name: |
+    ekşi siyasetçiler &amp; kemal kılıçdaroğlu çıkarması
+  entry_id:  69197335
+  entry_writer: kalemdefter
+  entry_fav_count: 40
+  entry_content: |
+    mısır tarlalarının ortasında istanbul ekibi ve ankara ekibi olarak buluştuk. bazılarımız birbirini tanımıyordu. aramızda tanıştık. mısırlar boyumuzu aşıyordu ve tarlaların ortasında söğüt ağaçlarının altında bizden önce de insanların oturmuş olduğunu anladığımız bir bölge vardı. otlar ezilmiş ve bazıları sararmıştı. daha önce orada oturanların bıraktığı market kasalarının üzerine, yerlere bir halka biçiminde oturduk. ekşi siyasetçiler daha önce bu kadar büyük çapta bir zirve düzenlememişti. <br/>yusufçuk böceği gördüm ve benden başka soluk alan canlıların olduğu tarlaların ortasında esen rüzgarı dinledim. uzaklardan mola yerindeki insanların adalet diye haykırmalarının sesi geliyordu ve rüzgarın, mısır tarlalarının, mavi göğün uzandığı her noktada insan olmanın kederli ve sevinçli yanlarını duyan herkesle bir hissetmenize neden oluyordu.<br/>çoğumuz beyaz giyinmiştik. sıcağın altında yürüyecek olmamız yüzünden daha önce kamp/dağcılık tecrübesi olan arkadaşlarımız bizi uyarmıştı. beyaz mendilimin dört ucunu da bağlayarak kendime bir şapka yaptım ve suyla ıslattım. mola yerine giden anarax eren erdem ile beraber döndü. eren erdem kendisine sorulan her soruya lafı hiç dolandırmadan yanıt verdi. <br/>“gazeteciler haber kaynaklarını açıklamazlar, bu yüzden açıklamadığım kaynaklardan sürekli bilgi ediniyorum. belgelerle konuşuyorum. yolsuzlukların, arsızlıkların üstüne gidiyorum. elimden geleni yapıyorum.” dedi. <br/>basın özgürlüğünün olmadığı ülkemizde başını belaya sokmamak için haber yapamayan habercilerden tutun da belli mevkilerde görev yapmış temiz kalpli insanlara kadar herkesin bir belge akışı sağladığından söz etti. <br/>ardından ekipten bir arkadaşımızın getirdiği sandviçi yedim, ikram edilen turtadan yedim. kendimi tam anlamıyla tok hissediyordum. uzun zamandır içimi ezen his kaybolmuştu. bu ülkede yalnız değildim. haksızlığa karşı, eğitimsizliğe karşı, kör inançlara ve teknoloji karşıtlığına, bilimsel düşkünlüğümüze, işlerden ihraç edilen ve hakkını arayamayanlara, basit kurnazlıklar edip ekmek sırasında öne geçenlere, domatesi biberi aldığımız kantarda hile yapanlara karşı gerçek bir insan olmayı, samimi davranmayı ve anadolu’nun “bilge” insanı olmayı başarmış bir kalabalığın arasındaydım. uzaktan gelen sese tarlaların rüzgarda çıkardığı hışırtı da eşlik ediyordu. güneşin altında yapılan her zulme ve her doğru işe tüm dünya tanıklık ediyordu ve bu çağ tanıkların korkutulması, yalnız hissetmesi yüzünden zordu. biliyordum ki biz yalnız değildik. <br/>eren erdem’i gören ve bir saat boyunca orada konuşan kişinin milletvekili olduğunu yeni fark etmiş olan adamlar konuşmalarını kesip dinlemeye geldiler. onların da gözümüzün önündeki perdeyi yırtmak, anlamak, olan bitene gerçekten dokunmak arzuları vardı ve bunu görmek harikaydı.<br/>ardından bize her zaman destek olan aykut erdoğdu ile birlikte mısır tarlalarının ortasındaki buluşma yerimize geldik. erdoğdu gene lafını sakınmadan konuştu. çok umut vericiydi. siyaset takım elbise giymek ve üzerinde vekil yazan kartvizit taşımakla olmuyor, erdoğdu gibi vekili olduğu milletle sürekli temas halinde kalarak yapılıyor. bu elbette zor ve yorucu çünkü ölümlüyüz ve zamanını verimli kullanması gereken bir iş yapıyor bu adamlar. son gelişmeleri değerlendirdik. yürüyüşün medyada yer tutmamasına rağmen halkın nezdinde önemsenen bir gayret olduğundan söz ettik. <br/><br/>yöre halkı genellikle sevimliydi. ilerde karpuzcudan aldığımız ve birlikte kemirdiğimiz karpuzun tadını unutamam. tam karpuzcu arabasının karşısına evinin önüne park etmiş beyaz arabasında dombra çalan ve bu şekilde yürüyüşçülere tepki veren adama da ikram etmek istediysek de müziğin sesini kısıp bizi reddettikten sonra sesi daha da yükseltti. <br/>saat beş olduğunda mola bitmişti ve ekiple birlikte bir sonraki konaklama alanına doğru yola koyulduk. binlerce insanın birbiriyle aynı ruhsal ve fiziksel istikamete yürümesi tarih boyunca önemsenmiştir. bu insanlar sessizce yürüyor ve haritada iki cmlik bir mesafeyi katetmek için binlerce adım atmaları gerektiğini düşününce insanın ne kadar küçük olduğunu anlaması için böyle bir eylemin içinde bulunması gerekiyor. ayaklarımızın tabanı dünyayı dövmüyor, ondan intikam almıyor ama “doğruluğun” kapısını çalıyordu. cumhuriyet en uzun yürüyüşümüzdü ve biz birbirimizin adımlarıydık. <br/>tanımadığım insanlarla sohbet ettim. tam bir adanmışlık vardı ve bu partizanlık değildi. insanlar yaşadıkları dünyada, yaşadıkları şehirde, mahallede, yedikleri ekmeğin üzerine yalan bulaşmasın, başlarını kaldırdıkları göğün altında aldanmışlık yaşamasınlar istiyorlardı. adalet temel bir haktı ve kimseye teslim edilemezdi. <br/>yürürken nadiren de olsa bir gölgenin altına girdiğimiz oluyordu. ağaç dikenlere teşekkür etmek istiyorum.<br/>yoldan geçen araçların içinden, genellikle karşı istikamette gidenlerin içinden galiz laflar ederek taciz edenler oluyordu, rabia işareti yapıyorlardı ve yürüyüş ekibinin tek tepkisi alkışlamak oluyordu. <br/>yürüyüş ekibini koruyan asker ve polis de son derece nazikti ve işlerini eksiksiz yapıyorlardı. onlara da müteşekkirim.<br/>yürüyen kafile, güvenlik şeridinin dışına çıktığında onları uyaran ve içeride kalmalarını sağlayan gönüllülere, yerlere çöp atanların arkasından su şişesini alıp çöpünüzü düşürdünüz diyecek kadar çevreye saygılı olanlara, utanıp bir daha yere çöp atmayanlara, hepsine teşekkür ederim. <br/>gözlemim, yol kenarından rabia yapanlar genellikle çocuktu. arkalarında onları yönlendiren adamlarsa ellerini kaldırmadan bakıyorlardı. beş yaşında bir çocuğun yürüyenlere rabia işareti yapmasının akla mantığa uygun yanı ona birinin tembihlemesi olabilir. işte bu kindarlığa, bölünmeye karşı, o insanların da haklarını (bilmeseler bile) korumak için yürüyen bu toplulukla hareket etmek harikaydı.<br/>son mola noktasına geldiğimizde kendimize bir gölgelik bulduk ve mola alanından uzakta konakladık. bir kamyonun gölgesinde sıcak asfalta oturup birbirimizin yüzüne baktık. kısa bir molanın ardından ilhan cihaner’i misafir ettik. size sert sorular soracağız dedik. diğer vekillerle aynı yanıtı verdi. “ne isterseniz sorun hepsini yanıtlarım.”<br/>bu arada çevreden gelen giden de oldu. kendini bipolar olarak tanımlayan bir adam da konuşmak istedi. vekili bulunca konuşmak soru sormak istiyorlarmış ama işin komik tarafı vekilin vekil olduğunu biz söylemesek zaten kimsenin anlamayacak olmasıydı. yürürken yanımdaki bir ağabey bana su verdi. sohbet ettik. insanları tacizcilere karşı yatıştırdı ve kırk yıllık ağabey kardeş gibi yürüdük. mola yerinde adamın da milletvekili olduğunu söylediler. ayrı gayrı yok zaten orada. bir ara yürürken arkamda ihsan eliaçık’ı gördüm. önünde bir pankartta “allah adaleti emreder” yazıyordu. bizim ekip dağılmıştı ve kimisi önde koştururken kimisi arkada ihtiyarlarla sohbet ediyordu. km başına su dağıtıcıları yerleştirilmişti ve herkes birbirine su ikram ediyordu. <br/>yoldan geçen arabaların içinden taciz edenlerden belki bin kat fazlası destek veriyor, yavaşlayıp bir şeye ihtiyaç olup olmadığını soruyordu. plakalarına bakınca yöre halkının dışında da çok sayıda vatandaştan bu teklifi aldığımızı söyleyebilirim. birbirine aşk olsun sana çocuk diye seslenen solcu yaşlı amcalardan, allah sizi korusun diye seslenen dindar adamlara kadar yol kenarından destekleyen kişiler çeşitlilik gösteriyordu. akşam yemeğimizi yedik, çevik kuvvet polisleriyle sohbet ettik, esnafla sohbet ettik, yoldan geçerken durup muhabbet edenler oldu, onlarla konuştuk. kendimi dünya şampiyonu bir koşucu gibi hissediyordum. insanlar bana büyülenmiş gibi bakıyordu, sanki maraton koşmuş ve rekor kırmıştım. tabi bu ilgili bakışın, ülkesi için yürüyen insanların kararlılığı karşısında gösterilen naif bir hayranlık ve vefadan kaynaklandığını hemen anlıyorsunuz. bizimle konuşan insanlar “işim olmasa ben de gelirdim” dedi. <br/>“devlet memuru olmasam gelmek isterdim” diyen oldu. soruşturma yemekten korkan çok. bu arada bütün gün eren erdem’in anlattığı bir şeye güldüm. bazıları olaya şöyle bakıyormuş. “fetöcüler darbe yapmak istedi çünkü iktidarı devirmek istiyor, e siz de iktidarı devirmek istiyorsunuz, o halde siz de fetöcüsünüz.”<br/>bu kadar saçma bir önermeyi ortaya sunmak için güneşin altında bizim kaldığımızdan çok daha uzun süre kalmak gerektiği açık. muhalefet partisi ne yapacaktı, elbette yasalar çerçevesinde çalışıp iktidar partisinden daha fazla oy alıp iktidar olmayı düşünecekti. e iktidar olmalarının anlamı iktidardaki partinin oradan devrilmesi anlamına gelmiyor mu?<br/>her yerden kum gibi fetöcü çıkaranlar iktidar partisinden çıkartmayınca işin sulandırıldığını anlıyorsunuz. adalet yürüyüşünün maksadını da anlıyor ve medyada yer tutmasını istiyorsunuz.<br/>cihaner’den sonra yeniden erdoğdu’nun yanına gittik. özgür özel ve aykut erdoğdu bizi karşılayıp kılıçdaroğlu’nun şu gündemde yer tutan beş yıldızlı denilen otobüsünün önüne götürdü. gerçekten beş yıldızlı diyen biri kısaca “onursuzdur” ya da bu otobüse beş yıldız verecek kadar “düşük zekalı” biridir.<br/>kılıçdaroğlu onca yolu yürümüş olmasına rağmen bizimle görüştü. bu sırada aykut erdoğdu’nun onca işin gücün arasında sürekli başını ekşittiğimiz için bize nüktedan sözleri olmadı değil. özgür özel’in sesi kısılmıştı. yürüyen kafileyi emniyet şeridinin sağında tutmak için sürekli hatırlatma maksatlı bağırmasının sonucu diye düşündüm. herkes beş km yürüyorsa bu adamlar onbeş yürüyordur çünkü hem ileri hem geri hareket ediyorlar. vatandaşın sorumluluğunu aldıklarını düşünüyor ve bir eksik gedik var mı bir sorun var mı diye bakıyorlar. haliyle yorulmuşlardı ama tatlı bir yorgunluk. <br/>çimenlere oturduk. zaten hava sıcaktı. bir kamp sandalyesine oturdu kılıçdaroğlu. bazı kötü niyetli insanlar bunu yadırgamış ama tertemiz bir insan, yaşı da var. ne yapsın şişmiş ayaklarıyla yere bağdaş mı kursun, hem bizim onu görebilmemiz için sandalyede oturması daha mantıklıydı. oturdu ve hemen sorularımızı sorduk. <br/>insanların en çok merak ettiği şey bu yürüyüşün neden daha önce yapılmadığıydı. kılıçdaroğlu bunun sebebinin ülkede infial yaratmamak için duydukları sorumluluk olduğunu anlattı. insanları birbirine düşürerek konum elde etmek ya da o konumu korumak gibi bir gayretleri olmadığını, ülkede yaşayan herkesin can güvenliğinin her şeyden önemli olduğunu söyledi. <br/>dokunulmazlık konusunda neden onay verdiniz diye sordular. zaten bir vekilin dokunulmazlığının kalkması için 160 vekilin oylamada evet vermesinin yettiğini bunun ha öyle ha böyle olmasının farklı olmadığını söyledi.<br/>anladığım kadarıyla akp bir algı yönetimi yapıyor ve eğer dokunulmazlıklar konusunda hayır derlerse chp’nin terör destekçisi gibi görüneceği bir teklif sunmuş olduğu için chp de hiçbir kaygı duymaksızın tamam demiş. basitçe, orada hayır kaldırmayalım deselerdi şimdi hem oylamayla bazı vekillerin dokunulmazlığını kaldıracak hem de halkın gözünde chp’yi teröre destek veren bir parti olarak mimleyeceklerdi. <br/>yalnızca ülke siyasetinden konuşmadık, sanattan konuştuk, toplum yapısından konuştuk. bu eylem bitince ne yapacağımızdan konuştuk. bir ara çay getirdiler ve çay harikaydı. özgür özel üniversite kantininde arkadaşlarına çay dağıtan bir genç gibi atak biçimde çayları insanlara uzattı. siyasilerin kibirsiz, halktan kopmamış ve espri yeteneğini yitirmemiş olanlarını da gördüm ya daha ne isteyeyim.<br/>kemal bey, ertesi sabah yedide yola çıkacakları için kırkbeş dakikalık görüşmeden sonra beş yıldızlı karavanına girdi. (beş yıldızlı karavan böyleyse ben zenginim)<br/>kemal bey tevazu sahibi, ülkesini seven, samimi bir insan. övülmeye ihtiyacı olmadığı gibi birisi onu överse bundan rahatsızlık duyacak bir adam. bilge bir kişi.<br/>bu yürüyüşe birer gazeteci yarısı olarak katıldık. ee, medya yapmayınca işini, bize düşüyor.
 - entry_name: |
     yeşilköy sahilinde mangal operasyonu yapılması
   entry_id:  69192265
@@ -136,12 +143,12 @@ data:
   entry_content: |
     iyi olmuş mını skeyim. yerinde bir hareket. ben daha fantastik şeyler düşünüyordum. yangın söndürme uçaklarıyla alçak uçuş yaparak mangalcıların üstüne su bırakmak gibi... bu da bir yöntem tabi.
 - entry_name: |
-    ekşi siyasetçiler &amp; kemal kılıçdaroğlu çıkarması
-  entry_id:  69197335
-  entry_writer: kalemdefter
+    gerçek aşkı bekleyen insanlar
+  entry_id:  69195896
+  entry_writer: ernesto sparrow
   entry_fav_count: 38
   entry_content: |
-    mısır tarlalarının ortasında istanbul ekibi ve ankara ekibi olarak buluştuk. bazılarımız birbirini tanımıyordu. aramızda tanıştık. mısırlar boyumuzu aşıyordu ve tarlaların ortasında söğüt ağaçlarının altında bizden önce de insanların oturmuş olduğunu anladığımız bir bölge vardı. otlar ezilmiş ve bazıları sararmıştı. daha önce orada oturanların bıraktığı market kasalarının üzerine, yerlere bir halka biçiminde oturduk. ekşi siyasetçiler daha önce bu kadar büyük çapta bir zirve düzenlememişti. <br/>yusufçuk böceği gördüm ve benden başka soluk alan canlıların olduğu tarlaların ortasında esen rüzgarı dinledim. uzaklardan mola yerindeki insanların adalet diye haykırmalarının sesi geliyordu ve rüzgarın, mısır tarlalarının, mavi göğün uzandığı her noktada insan olmanın kederli ve sevinçli yanlarını duyan herkesle bir hissetmenize neden oluyordu.<br/>çoğumuz beyaz giyinmiştik. sıcağın altında yürüyecek olmamız yüzünden daha önce kamp/dağcılık tecrübesi olan arkadaşlarımız bizi uyarmıştı. beyaz mendilimin dört ucunu da bağlayarak kendime bir şapka yaptım ve suyla ıslattım. mola yerine giden anarax eren erdem ile beraber döndü. eren erdem kendisine sorulan her soruya lafı hiç dolandırmadan yanıt verdi. <br/>“gazeteciler haber kaynaklarını açıklamazlar, bu yüzden açıklamadığım kaynaklardan sürekli bilgi ediniyorum. belgelerle konuşuyorum. yolsuzlukların, arsızlıkların üstüne gidiyorum. elimden geleni yapıyorum.” dedi. <br/>basın özgürlüğünün olmadığı ülkemizde başını belaya sokmamak için haber yapamayan habercilerden tutun da belli mevkilerde görev yapmış temiz kalpli insanlara kadar herkesin bir belge akışı sağladığından söz etti. <br/>ardından ekipten bir arkadaşımızın getirdiği sandviçi yedim, ikram edilen turtadan yedim. kendimi tam anlamıyla tok hissediyordum. uzun zamandır içimi ezen his kaybolmuştu. bu ülkede yalnız değildim. haksızlığa karşı, eğitimsizliğe karşı, kör inançlara ve teknoloji karşıtlığına, bilimsel düşkünlüğümüze, işlerden ihraç edilen ve hakkını arayamayanlara, basit kurnazlıklar edip ekmek sırasında öne geçenlere, domatesi biberi aldığımız kantarda hile yapanlara karşı gerçek bir insan olmayı, samimi davranmayı ve anadolu’nun “bilge” insanı olmayı başarmış bir kalabalığın arasındaydım. uzaktan gelen sese tarlaların rüzgarda çıkardığı hışırtı da eşlik ediyordu. güneşin altında yapılan her zulme ve her doğru işe tüm dünya tanıklık ediyordu ve bu çağ tanıkların korkutulması, yalnız hissetmesi yüzünden zordu. biliyordum ki biz yalnız değildik. <br/>eren erdem’i gören ve bir saat boyunca orada konuşan kişinin milletvekili olduğunu yeni fark etmiş olan adamlar konuşmalarını kesip dinlemeye geldiler. onların da gözümüzün önündeki perdeyi yırtmak, anlamak, olan bitene gerçekten dokunmak arzuları vardı ve bunu görmek harikaydı.<br/>ardından bize her zaman destek olan aykut erdoğdu ile birlikte mısır tarlalarının ortasındaki buluşma yerimize geldik. erdoğdu gene lafını sakınmadan konuştu. çok umut vericiydi. siyaset takım elbise giymek ve üzerinde vekil yazan kartvizit taşımakla olmuyor, erdoğdu gibi vekili olduğu milletle sürekli temas halinde kalarak yapılıyor. bu elbette zor ve yorucu çünkü ölümlüyüz ve zamanını verimli kullanması gereken bir iş yapıyor bu adamlar. son gelişmeleri değerlendirdik. yürüyüşün medyada yer tutmamasına rağmen halkın nezdinde önemsenen bir gayret olduğundan söz ettik. <br/><br/>yöre halkı genellikle sevimliydi. ilerde karpuzcudan aldığımız ve birlikte kemirdiğimiz karpuzun tadını unutamam. tam karpuzcu arabasının karşısına evinin önüne park etmiş beyaz arabasında dombra çalan ve bu şekilde yürüyüşçülere tepki veren adama da ikram etmek istediysek de müziğin sesini kısıp bizi reddettikten sonra sesi daha da yükseltti. <br/>saat beş olduğunda mola bitmişti ve ekiple birlikte bir sonraki konaklama alanına doğru yola koyulduk. binlerce insanın birbiriyle aynı ruhsal ve fiziksel istikamete yürümesi tarih boyunca önemsenmiştir. bu insanlar sessizce yürüyor ve haritada iki cmlik bir mesafeyi katetmek için binlerce adım atmaları gerektiğini düşününce insanın ne kadar küçük olduğunu anlaması için böyle bir eylemin içinde bulunması gerekiyor. ayaklarımızın tabanı dünyayı dövmüyor, ondan intikam almıyor ama “doğruluğun” kapısını çalıyordu. cumhuriyet en uzun yürüyüşümüzdü ve biz birbirimizin adımlarıydık. <br/>tanımadığım insanlarla sohbet ettim. tam bir adanmışlık vardı ve bu partizanlık değildi. insanlar yaşadıkları dünyada, yaşadıkları şehirde, mahallede, yedikleri ekmeğin üzerine yalan bulaşmasın, başlarını kaldırdıkları göğün altında aldanmışlık yaşamasınlar istiyorlardı. adalet temel bir haktı ve kimseye teslim edilemezdi. <br/>yürürken nadiren de olsa bir gölgenin altına girdiğimiz oluyordu. ağaç dikenlere teşekkür etmek istiyorum.<br/>yoldan geçen araçların içinden, genellikle karşı istikamette gidenlerin içinden galiz laflar ederek taciz edenler oluyordu, rabia işareti yapıyorlardı ve yürüyüş ekibinin tek tepkisi alkışlamak oluyordu. <br/>yürüyüş ekibini koruyan asker ve polis de son derece nazikti ve işlerini eksiksiz yapıyorlardı. onlara da müteşekkirim.<br/>yürüyen kafile, güvenlik şeridinin dışına çıktığında onları uyaran ve içeride kalmalarını sağlayan gönüllülere, yerlere çöp atanların arkasından su şişesini alıp çöpünüzü düşürdünüz diyecek kadar çevreye saygılı olanlara, utanıp bir daha yere çöp atmayanlara, hepsine teşekkür ederim. <br/>gözlemim, yol kenarından rabia yapanlar genellikle çocuktu. arkalarında onları yönlendiren adamlarsa ellerini kaldırmadan bakıyorlardı. beş yaşında bir çocuğun yürüyenlere rabia işareti yapmasının akla mantığa uygun yanı ona birinin tembihlemesi olabilir. işte bu kindarlığa, bölünmeye karşı, o insanların da haklarını (bilmeseler bile) korumak için yürüyen bu toplulukla hareket etmek harikaydı.<br/>son mola noktasına geldiğimizde kendimize bir gölgelik bulduk ve mola alanından uzakta konakladık. bir kamyonun gölgesinde sıcak asfalta oturup birbirimizin yüzüne baktık. kısa bir molanın ardından ilhan cihaner’i misafir ettik. size sert sorular soracağız dedik. diğer vekillerle aynı yanıtı verdi. “ne isterseniz sorun hepsini yanıtlarım.”<br/>bu arada çevreden gelen giden de oldu. kendini bipolar olarak tanımlayan bir adam da konuşmak istedi. vekili bulunca konuşmak soru sormak istiyorlarmış ama işin komik tarafı vekilin vekil olduğunu biz söylemesek zaten kimsenin anlamayacak olmasıydı. yürürken yanımdaki bir ağabey bana su verdi. sohbet ettik. insanları tacizcilere karşı yatıştırdı ve kırk yıllık ağabey kardeş gibi yürüdük. mola yerinde adamın da milletvekili olduğunu söylediler. ayrı gayrı yok zaten orada. bir ara yürürken arkamda ihsan eliaçık’ı gördüm. önünde bir pankartta “allah adaleti emreder” yazıyordu. bizim ekip dağılmıştı ve kimisi önde koştururken kimisi arkada ihtiyarlarla sohbet ediyordu. km başına su dağıtıcıları yerleştirilmişti ve herkes birbirine su ikram ediyordu. <br/>yoldan geçen arabaların içinden taciz edenlerden belki bin kat fazlası destek veriyor, yavaşlayıp bir şeye ihtiyaç olup olmadığını soruyordu. plakalarına bakınca yöre halkının dışında da çok sayıda vatandaştan bu teklifi aldığımızı söyleyebilirim. birbirine aşk olsun sana çocuk diye seslenen solcu yaşlı amcalardan, allah sizi korusun diye seslenen dindar adamlara kadar yol kenarından destekleyen kişiler çeşitlilik gösteriyordu. akşam yemeğimizi yedik, çevik kuvvet polisleriyle sohbet ettik, esnafla sohbet ettik, yoldan geçerken durup muhabbet edenler oldu, onlarla konuştuk. kendimi dünya şampiyonu bir koşucu gibi hissediyordum. insanlar bana büyülenmiş gibi bakıyordu, sanki maraton koşmuş ve rekor kırmıştım. tabi bu ilgili bakışın, ülkesi için yürüyen insanların kararlılığı karşısında gösterilen naif bir hayranlık ve vefadan kaynaklandığını hemen anlıyorsunuz. bizimle konuşan insanlar “işim olmasa ben de gelirdim” dedi. <br/>“devlet memuru olmasam gelmek isterdim” diyen oldu. soruşturma yemekten korkan çok. bu arada bütün gün eren erdem’in anlattığı bir şeye güldüm. bazıları olaya şöyle bakıyormuş. “fetöcüler darbe yapmak istedi çünkü iktidarı devirmek istiyor, e siz de iktidarı devirmek istiyorsunuz, o halde siz de fetöcüsünüz.”<br/>bu kadar saçma bir önermeyi ortaya sunmak için güneşin altında bizim kaldığımızdan çok daha uzun süre kalmak gerektiği açık. muhalefet partisi ne yapacaktı, elbette yasalar çerçevesinde çalışıp iktidar partisinden daha fazla oy alıp iktidar olmayı düşünecekti. e iktidar olmalarının anlamı iktidardaki partinin oradan devrilmesi anlamına gelmiyor mu?<br/>her yerden kum gibi fetöcü çıkaranlar iktidar partisinden çıkartmayınca işin sulandırıldığını anlıyorsunuz. adalet yürüyüşünün maksadını da anlıyor ve medyada yer tutmasını istiyorsunuz.<br/>cihaner’den sonra yeniden erdoğdu’nun yanına gittik. özgür özel ve aykut erdoğdu bizi karşılayıp kılıçdaroğlu’nun şu gündemde yer tutan beş yıldızlı denilen otobüsünün önüne götürdü. gerçekten beş yıldızlı diyen biri kısaca “onursuzdur” ya da bu otobüse beş yıldız verecek kadar “düşük zekalı” biridir.<br/>kılıçdaroğlu onca yolu yürümüş olmasına rağmen bizimle görüştü. bu sırada aykut erdoğdu’nun onca işin gücün arasında sürekli başını ekşittiğimiz için bize nüktedan sözleri olmadı değil. özgür özel’in sesi kısılmıştı. yürüyen kafileyi emniyet şeridinin sağında tutmak için sürekli hatırlatma maksatlı bağırmasının sonucu diye düşündüm. herkes beş km yürüyorsa bu adamlar onbeş yürüyordur çünkü hem ileri hem geri hareket ediyorlar. vatandaşın sorumluluğunu aldıklarını düşünüyor ve bir eksik gedik var mı bir sorun var mı diye bakıyorlar. haliyle yorulmuşlardı ama tatlı bir yorgunluk. <br/>çimenlere oturduk. zaten hava sıcaktı. bir kamp sandalyesine oturdu kılıçdaroğlu. bazı kötü niyetli insanlar bunu yadırgamış ama tertemiz bir insan, yaşı da var. ne yapsın şişmiş ayaklarıyla yere bağdaş mı kursun, hem bizim onu görebilmemiz için sandalyede oturması daha mantıklıydı. oturdu ve hemen sorularımızı sorduk. <br/>insanların en çok merak ettiği şey bu yürüyüşün neden daha önce yapılmadığıydı. kılıçdaroğlu bunun sebebinin ülkede infial yaratmamak için duydukları sorumluluk olduğunu anlattı. insanları birbirine düşürerek konum elde etmek ya da o konumu korumak gibi bir gayretleri olmadığını, ülkede yaşayan herkesin can güvenliğinin her şeyden önemli olduğunu söyledi. <br/>dokunulmazlık konusunda neden onay verdiniz diye sordular. zaten bir vekilin dokunulmazlığının kalkması için 160 vekilin oylamada evet vermesinin yettiğini bunun ha öyle ha böyle olmasının farklı olmadığını söyledi.<br/>anladığım kadarıyla akp bir algı yönetimi yapıyor ve eğer dokunulmazlıklar konusunda hayır derlerse chp’nin terör destekçisi gibi görüneceği bir teklif sunmuş olduğu için chp de hiçbir kaygı duymaksızın tamam demiş. basitçe, orada hayır kaldırmayalım deselerdi şimdi hem oylamayla bazı vekillerin dokunulmazlığını kaldıracak hem de halkın gözünde chp’yi teröre destek veren bir parti olarak mimleyeceklerdi. <br/>yalnızca ülke siyasetinden konuşmadık, sanattan konuştuk, toplum yapısından konuştuk. bu eylem bitince ne yapacağımızdan konuştuk. bir ara çay getirdiler ve çay harikaydı. özgür özel üniversite kantininde arkadaşlarına çay dağıtan bir genç gibi atak biçimde çayları insanlara uzattı. siyasilerin kibirsiz, halktan kopmamış ve espri yeteneğini yitirmemiş olanlarını da gördüm ya daha ne isteyeyim.<br/>kemal bey, ertesi sabah yedide yola çıkacakları için kırkbeş dakikalık görüşmeden sonra beş yıldızlı karavanına girdi. (beş yıldızlı karavan böyleyse ben zenginim)<br/>kemal bey tevazu sahibi, ülkesini seven, samimi bir insan. övülmeye ihtiyacı olmadığı gibi birisi onu överse bundan rahatsızlık duyacak bir adam. bilge bir kişi.<br/>bu yürüyüşe birer gazeteci yarısı olarak katıldık. ee, medya yapmayınca işini, bize düşüyor.
+    bu salaklardan biri sanırım benim. hala masum masum elimde bira insanları izleyip beğendiğim kişilerle kafamda replikler kurarak tanışmaya çalışıyorum. icraat yok tabi 50 derece sıcakta niye rahatsız ediyim insanları aşkımı bulcam diye aq
 - entry_name: |
     ışid militanlarının kafasını kesip pişiren kadın
   entry_id:  69196000
@@ -164,31 +171,17 @@ data:
   entry_content: |
     "şampiyona şeker geliyor, yıldızı var başında başım mı dönüyor" diye şarkı çıkarmış. bir kader var bilemiyoruz, arkadaşlar dalga geçti, git desemde zor gidersin gibi sözler de içerir. <br/><br/>söz muzik alper narman ve onur özdemir deniyor. bence içerken makara yapmışlar, şarkı dönüp dolaşıp hadise'ye gelmiş. hadise'nin ablası <a class="b" href="/?q=h%c3%bclya+a%c3%a7%c4%b1kg%c3%b6z">hülya açıkgöz</a> de şampiyon diye şarkı geldi madem, ponpon kızlı klip yapalım diye bilimsel bir yaklaşım sergilemiş. gurur duyduk bu kadar zeki insanın bir araya gelip ortaya koyduğu bu eserle, yüzde yüz yerli.<br/><br/>gerçekten bu insanlar zengin, bodrum'da falan yatlarda geziyorlar, minimum 911 turbo'ya falan biniyorlar. bu kadar kolay bir ortamda para kazanamıyorsak cidden mallık bizde, kabullendim artık.
 - entry_name: |
-    dedikoduya başlama cümleleri
-  entry_id:  69186003
-  entry_writer: el pajaro
-  entry_fav_count: 32
-  entry_content: |
-    "ayyyyyy nooolmussss bilmiyosunnn"<br/><br/>ve vazgecilmezi.<br/><br/>"kimseye soylemeyecegine soz ver bak."
-- entry_name: |
     adalet yürüyüşü yaparken arazi işgal etmek
   entry_id:  69190388
   entry_writer: yollarinizinde
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     polis gelmiş, daha sonra da zaten kaldırılmış . adaletin nerede olduğunu merak edenler ,aynı organizasyonu bir başka parti yapsa arsa sahibine neler yaparlardı? bunun için adalet. kimsenin ismine cismine gücüne göre değişmesin diye adalet!
-- entry_name: |
-    gerçek aşkı bekleyen insanlar
-  entry_id:  69195896
-  entry_writer: ernesto sparrow
-  entry_fav_count: 27
-  entry_content: |
-    bu salaklardan biri sanırım benim. hala masum masum elimde bira insanları izleyip beğendiğim kişilerle kafamda replikler kurarak tanışmaya çalışıyorum. icraat yok tabi 50 derece sıcakta niye rahatsız ediyim insanları aşkımı bulcam diye aq
 - entry_name: |
     erkeklerin bekarete takma sebepleri
   entry_id:  69192431
   entry_writer: sibylvane
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     çok fazla insan tanımadım şu güne kadar. çoğu insanla yüzeysel ilişkiler kurmaya özen gösteriyorum. o yüzden erkekleri de kadınları da çok bilmem. baktım özelini anlatmaya kalkıştı hemen konuyu kapatır giderim. çok basit, dinlemem. nadiren her şeyini bildiğim insanlar olur, onlarla da kolay kolay kopmam. zaten onlar da, kızlar dahil, böyle saçma konular açmamaları gerektiğini bilirler.<br/><br/>şu güne kadar bir sürü erkekle kahve içtim, sinemaya gittim. aralarında benim teklif ettiğim de oldu. uzun süreli ilişkim de oldu. hiçbiri bu "boktan" mevzuyu açmadı. açamazdı da zaten. konuştuğumuz son konu bu olurdu.<br/><br/>ama internet, insanların en mahrem sırlarını döktükleri, en utanç verici huylarını itiraf ettikleri, en şeref yoksunu fikirlerini bile savunabildikleri çılgın bir yer. adamın gitmediği genelev, gazino kalmamış ama evleneceği kadının bakire olmasını istiyor. öyle kadınlar var ki bir başka kadın hakkında bakire olmadığı için iğrenç sözler söylüyor. hatta tuhaf bir şekilde bakire insanları yobazlıkla, kezbanlıkla filan suçlayanlar var. noluyorsunuz, bir kendinize gelin. bu tarz kişinin inisiyatifine kalmış konularda ahkam kesmek size düşer mi? <br/><br/>herkes sizin gibi olamaz. bunu bir kabullenin artık. hayatta renkler de olmalı. çeşit olmalı.
 - entry_name: |
@@ -206,6 +199,13 @@ data:
   entry_content: |
     ilkokul 1. siniftan ahmet arkadaşimizin "deli misiniz? bedelli çıkacak diye bekleyeceğinize gitseydiniz çoktan bitirip gelirdiniz" başlikli ögüt ve akil dolu şiirini sergilediği güzide askerlik türü.
 - entry_name: |
+    klima için alternatif isim önerileri
+  entry_id:  69198920
+  entry_writer: likeshootingstar
+  entry_fav_count: 18
+  entry_content: |
+    (bkz: <a class="b" href="/?q=15+temmuz+%c5%9fehitler+p%c3%bcf%c3%bcr%c3%bc%c4%9f%c3%bc">15 temmuz şehitler püfürüğü</a>)
+- entry_name: |
     doctor who
   entry_id:  69194148
   entry_writer: guest874271
@@ -216,51 +216,44 @@ data:
     türkiye'de yeterince üstsüzler plajı olmaması
   entry_id:  69194271
   entry_writer: yan yatarak visne yiyen roma imparatoru
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     turkiye'nin tartismasiz en buyuk problemi.
 - entry_name: |
     müstakil evde yaşamanın avantajları
   entry_id:  69189839
   entry_writer: sakar in san
-  entry_fav_count: 14
+  entry_fav_count: 16
   entry_content: |
     eviniz hem betonarme hem de müstakil ise yaz aylarında evin içi dışarıdan daha serin ve ferah olur.. <br/><br/>ayrıca müstakil olmasından mütevellit her türlü böcekle karşı karşıya kalırsınız, öyle ki böcek görmek sizin için sıradan bir olay halini alır..<br/><br/>yağmur yağdığında toprak kokusunu hissedebilirsiniz..<br/><br/>evde besleyemediginiz hayvanları bahçede besleyebilirsiniz.<br/><br/>mangal yakmak için farklı bir mekana ihtiyacınız olmaz.
-- entry_name: |
-    taciz olaylarına verilen abartılı tepki
-  entry_id:  69197002
-  entry_writer: bi degisik ormanci
-  entry_fav_count: 9
-  entry_content: |
-    abartılı tepki?<br/>rica ediyorum tarlabaşında biraz gezinsin bunu abartılı bulan arkadaşlar.<br/>oradan bağcılarda gece 2-3 gibi sokaklarda yürüsünler.<br/><br/>işte o gariban kızlar sokaklarda gezerken böyle hissediyor artık.
-- entry_name: |
-    kılıçdaroğlu'na el hareketi çeken goodyear işçisi
-  entry_id:  69199088
-  entry_writer: pirasayi yidim
-  entry_fav_count: 9
-  entry_content: |
-    yakında haftanın 7 günü calismaktan şikayet edecegi için tazminatsız olarak işinden atılacak işçidir. <a class="b" href="/?q=swihs">swihs</a>.
-- entry_name: |
-    klima için alternatif isim önerileri
-  entry_id:  69198920
-  entry_writer: likeshootingstar
-  entry_fav_count: 8
-  entry_content: |
-    (bkz: <a class="b" href="/?q=15+temmuz+%c5%9fehitler+p%c3%bcf%c3%bcr%c3%bc%c4%9f%c3%bc">15 temmuz şehitler püfürüğü</a>)
 - entry_name: |
     2 temmuz 2017 şili almanya maçı
   entry_id:  69199092
   entry_writer: mangon
-  entry_fav_count: 8
+  entry_fav_count: 12
   entry_content: |
     lionel messi'li arjantin milli takımı şili'ye karşı iki copa america finalini üst üste kaybetti. (2015-2016)<br/><br/>cristiano ronaldo'lu portekiz milli takımı bu turnuvanın yarı final maçında yine aynı şili'ye elendi.<br/><br/>alman milli takımı ise b kadrosuyla geldiği turnuvayı, finalde dünyanın en iyi iki futbolcusunun oynadığı takımları yenen şili'yi yenerek kazandı.<br/><br/>alman ekolü, alman winnerlığı bambaşka bir şey.
 - entry_name: |
     evlenince arayıp sormayan arkadaşlar
   entry_id:  69192821
   entry_writer: brian fantana
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     sayıları her geçen saniye artmaktadır. senelerce aileniz kadar yanınızda olanlar evlendikten sonra bir ara görüşelim ya deyip ona bile gelmeye tenezzül etmemeye başlar. illa siz de evli olacaksınız öyle devam edecek bu arkadaşlık ilişkiniz. bekar kalınca sanki eski zamanlardaki günahkarlar gibi bir damga yiyorsunuz.
+- entry_name: |
+    aydın ahi
+  entry_id:  69186148
+  entry_writer: nebiliyimoyleiste
+  entry_fav_count: 8
+  entry_content: |
+    bizi her gün boğazkesen köyüne öğretmenlik yapalım diye götüren servis şöförümüz. ah be aydın amcam mekanın cennet olsun. siyaset falan bilmem ben ama dağ gibi adamı devirdiler, çok yazık!
+- entry_name: |
+    taciz olaylarına verilen abartılı tepki
+  entry_id:  69198107
+  entry_writer: akil taker mind fucker
+  entry_fav_count: 7
+  entry_content: |
+    derin bir zihinsel arka plan barındıran davranışlar.<br/><br/>şimdi burada " karını siksinler de gör, annen taciz edilince bakalım ne yapacaksın" gibi şeyler yazanlar olacaktır. olmuştur. bunlar primitif varlıklar. yapabilirsem bu primitiflerin zihinsel süreçlerini açıklamaya çalışacağım.<br/><br/>önce cinselliğin ne olduğundan bahsetmek gerekir.<br/><br/>cinsellik bazılarının dediği gibi "kadın ve erkeğin eşit talebi, yemek içmek gibi bir ihtiyaç" değildir. hiçbir toplumda değildir. cinselliğin olmazsa olmazı insanın kurduğu toplum düzenidir. insana doğduğu andan itibaren bir yazılım yükleniyor. önceden var olan genetik altyapıyla bu birleşince insan dediğimiz şey oluşuyor. ve bu toplumsal öğretiler insanın kolu bacağı gibidir. kimse reddedemez. farklılıklar özü etkilemez.<br/><br/>şimdi herkes bu yazıyı okurken elini cinsel organına koysun. oynayın organlarınızla. eğer bu yazıyı gerçekten düşünerek okuyorsanız penisler ve klitorisler asla sertleşmeyecektir. çünkü cinselliğin bir numaralı kuralı düşünmektir. bu düşünmenin de en büyük etmeni toplumdur.<br/><br/>neden eşler birbirinden sıkılıyor? neden türlü türlü fanteziler var? neden erkeklerin çok büyük bir çoğunluğu liseli kızlardan hoşlanmasına rağmen bunu saklıyor? neden kadınların büyük çoğunluğunda tecavüz fantezisi var? tüm bunların bir sebebi var. <br/><br/>biyolojik evrim ve sosyal evrim birbirinden bağımsız asla düşünülemez.<br/>insanı diğer canlılardan ayıran şey frontal korteksinin gelişmişliği ise bu gerçeği iyi yorumlamak gerekiyor. frontal korteksi geliştiren şey canlının kurmaya çalıştığı toplumsal düzendir. bu düzen ihtiyacı yüzünden biyolojik olarak frontal korteks evrimleşmiş gibi gözüküyor.<br/><br/>tüm bu gerçekleri değerlendirip hepsini anlamlı bir sırayla bir araya getirince zihinsel süreçler de büyük olasılıkla açıklanabilir hale geliyor.<br/><br/>şimdi ilkel bir insan düşünelim. muhtemelen birden fazla karısı var. ve bunları dölleyip kendisine güç verecek erkekler istiyor. savaşacak erkekler. kadınları da belli bir ücretle satarak oradan da güç elde edebilecek. tabi kadınları satmanın getirdiği ikincil, üçüncül( satışın getirdiği sosyal bağlantılar) faydalar da sağlayacak. peki bu ilkel adam bu güç düzeninde döllediği kadınları paylaşmak ister mi? asla istemez. çünkü gücünün oluşma sürecine ihanet etmiş olur. eğer paylaşırsa kendi gücünün meşruiyeti ortadan kalkar. kadınları kimin döllediği tartışmalı hale gelir ve hakimiyet kaybolur.<br/><br/>bu bakış açısı, toplum düzeninin ufacık bir parçasının tek bir yönden bakılarak değerlendirilmesini gösteriyor. birçok farklı parçaya birçok yönden bakılabilir. gerçekler değerlendiriliyorsa hepsi doğru olur.<br/><br/>kadın açısından bakmaya çalışalım. erkek güçlü olmak, var olabilmek istiyor kadın istemiyor mu? kadın da istiyor tabi ki. tüm canlılar var olabilmek ister ve bunun için güç ister. kadının güç anlayışı biraz daha farklı. aslında öz olarak aynı ama yöntemi farklı. kadınlar da güce sahip gözüken erkeklere ait olarak o gücü paylaşmak ve hatta yönetmek isterler.<br/>mesela hemen burada ufacık bir örnek verelim. güzel bir kadın neden zengin, başarılı, karizmatik bir erkekle deli gibi evlenmek ve bu evliliği muhteşem bir düğünle ilan etmek ister? çünkü mesajı şudur: "beni işte bu güçlü erkek döllüyor, o bana ait, onu ben yönetiyorum".<br/>dolayısıyla kadın ne yapmış oluyor? birincil olarak erkekte gözüken güce sahip olmak istiyor. biraz daha dolaylı gözükse de aslında kadının biyolojisi için gayet de doğrudan bir yoldur. bir kadından "kılıç tutarak" güçlü olması beklenemez. onun nasıl güçlü olacağı biyolojisiyle belirlenmiştir.<br/><br/>şimdi tüm bu şeyler size bir şey açıklamıyor olabilir. fakat cinselliğin tüm yönleriyle ilkel insandan bu yana toplum düzeniyle direkt bağı olduğunu biraz olsun düşündürebilir. cinsellik bir güç mücadelesi temelinde şekillenen bir olgu. ama çıkış noktası ve neyin neden arzulandığı veya neden bazı şeylerin çok rahatsız edici olduğu unutulmuş durumda.<br/><br/>var olan tüm cinsel fantezilerin gerçeğe dayanan sağlam temelleri var. "fantezi işte" denilerek geçilemeyecek kadar nedenleri açık arzular. var olan tüm cinsellik kurallarının bir sebebi var. bazı gelişmiş toplumlar gelişmemiş toplumlardan farklı gözükse de buradaki farklılık sosyal evrimle alakalı değildir. bunu açıklamak için cinselliğin zarar vericiliğini düşünmek gerekiyor.<br/><br/>ilkel insan için cinsellik bir var olma mücadelesi ve bunun için güç elde etme çabasıdır. bu cinsellik doğal olarak büyük bir şiddet içeriyor. aldatan kadına neden çok büyük nefret beslenir? çünkü erkeğin sahipliği ve güç kaynağı elinden alınmıştır. bu nefretin sosyal evrimdeki temeli budur. bu güç dengesinin cinselliği şiddeti doğuran büyük bir toplumsal sorun haline getirmesinin hala daha inanılmaz büyük yansımaları gözüküyor. mesela bir kadın taciz edildiğinde aslında o kadına hiçbir zarar gelmiyor. ama kadın aşağılanmış hissediyor. kadına sahip olan erkekler( oğlu, kocası, kardeşi vs) ise çıldırıyor. çünkü tüm bu güç dengesini biri sarsıyor. bu sarsıntıyı yaratan kişi öldürülmeli, asılmalı, kesilmeli. bu gayet doğal primitif bir iç güdü.<br/><br/>mesela tüm davranışların arkasında bir zihinsel süreç olduğunu anlatmak için taciz edilen kadının aşağılanmışlık hissine bakalım. tabi burada unutmadan söyleyelim bazı kadınlar da tacizden hoşlanabilirler. bunun da sebepleri var tabi ki.<br/><br/>taciz edilen kadın kendisini bir x dölleyicisine adamış veya kurallarına göre adayacak bir kadın. yani x dölleyicisinin gücünü hedeflemekte. başka bir y dölleyicisinin gücüne ulaşmadan bu y tarafından kadınlığının kullanılması kadını çaresiz hissettiriyor. çünkü kadın x dölleyicisine onun gücünü paylaşmak için kadınlığını sunmuştu. y dölleyicisi hiçbir şey vermeden bir şeyler almaya çalışıyor. kadın buna izin veremez.<br/><br/>peki tacizden hoşlanan bir kadın ne hissediyor olabilir? belli bir x dölleyicisine kendisini sunmuş olabilir. fakat dölleyiciler her zaman kadının beklediği güç paylaşımını sunamayabilirler. kadın verdiği karşısında aldığı şeyin değerini küçük görüyor olabilir. ve başka bir y dölleyicisinin kendi kadınlığından faydalanmasıyla ait olduğu x dölleyicisini cezalandırıyor olabilir. ve tabi ki dölleyiciler tarafından ilgi görmek hoşuna gidiyor olabilir.<br/><br/>bu bahsettiğim zihinsel süreçler sonsuz şekilde çoğaltılabilir. kadın tek değil erkek de tek değil. herkesin hayattaki konumuna göre sosyal evrimden farklı sistemleri çağırma imkanı vardır. zengin erkekle evli ve tatmin olmuş bir kadın sosyal evrim havuzundan başka bir şey toplar. fakir bir erkekle evli olan ve tatmin olmamış bir kadın sosyal evrim havuzundan bambaşka bir şey toplar. ve farkındaysanız "zengin erkek" diye çok sınırlı bir imaj çizince bile onlarca farklı zihinsel süreç işletilebilir. oysa bir insan ekonomik yönden ne durumda olduğunun yanı sıra güç bakımından birçok farklı değişkenle değerlendirilebilir. zengin olup kaslı olabilir, zengin olup kassız olup kültürlü olabilir, zengin olup kassız olup kültürsüz olup cesur olabilir. yani o bu nitelendirmeler bile çok sınırlı. işte tüm bu değişkenlere göre, hayatın insana sunduğu seçeneklere sosyal evrim havuzundan bambaşka sistemler çağırılıp işleme konulabilir. her davranışın insanın toplum oluşturma sürecindeki itici gücüyle bir bağlantısı vardır. cinsellik de bu konuda en geniş alanı kaplayan olgudur bana göre.<br/><br/>cinsellik asla sadece cinsellik değildir. cinsellik gerçekten de her şeyin bir yansıması olabilir.<br/><br/>tüm bu tacizciye verilen tepki veya diğer toplumsal tepkiler de bu şekilde zihinsel süreçlerle açıklanabilir.<br/><br/>ek olarak, zarar vericilik konusu aslında baya önemli. birçok kişi tacizin kendisinin zarar verici olmadığını bilmesine rağmen, cinselliğin gelişim sürecinde bahsettiğim gibi, cinselliğin şiddetin en temel dayanağı olması yüzünden tacizin günümüzdeki etkilerini yaşıyor. taciz özünde zarar verici bir eylem olmamasına rağmen aslında hem fiziksel zarara giden yolu zihinlerde açmış oluyor hem de yukarıda bahsettiğim güç dengesine zarar veriyor.<br/><br/>ek 2 olarak aklıma gelen bir şeyi daha paylaşayım. mesela cuckold fantezisi diye bir fantezi var. adam karısını veya sevgilisini başka bir erkekle cinsel ilişkiye sokuyor. bunun zihinsel süreci de erkekten beklenen bu güç yönetiminin erkeğe büyük bir baskı oluşturması olabilir. bu oluşan büyük baskı aksi yönde adeta patlıyor olabilir. ve bu güç sisteminden illüzyonel olarak(sahte) bir çıkış erkeğe bu sebeple zevk veriyor olabilir. sadece bir tahmin. doğru olmak zorunda değil. ama mutlaka açıklanabilir.
 - entry_name: |
     ekşi itiraf
   entry_id:  69182363
@@ -269,13 +262,6 @@ data:
   entry_content: |
     yaklaşık 4 saattir spotify ile müzik dinliyorum, güncellemeleri yapıyorum. bir baktım wifi kapalı. hayır ağlamıyorum gözüme 3 gb kaçtı.
 - entry_name: |
-    aydın ahi
-  entry_id:  69186148
-  entry_writer: nebiliyimoyleiste
-  entry_fav_count: 7
-  entry_content: |
-    bizi her gün boğazkesen köyüne öğretmenlik yapalım diye götüren servis şöförümüz. ah be aydın amcam mekanın cennet olsun. siyaset falan bilmem ben ama dağ gibi adamı devirdiler, çok yazık!
-- entry_name: |
     hristiyanlık ilkel bir ortadoğu masalıdır
   entry_id:  69197035
   entry_writer: just relax and have sex
@@ -283,12 +269,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=hristiyanlik+sana+diyorum+islam+sen+anla">hristiyanlik sana diyorum islam sen anla</a>)
 - entry_name: |
-    tarkan
-  entry_id:  69183579
-  entry_writer: bgsas1021
+    2017 goodyear boykotu
+  entry_id:  69199858
+  entry_writer: zoltarinmabedi
+  entry_fav_count: 6
+  entry_content: |
+    bunu buraya yazacağınıza goodyear'ın merkezine ingilizce tercüme olarak yazarsanız daha hızlı ve etkin sonuç alabilirsiniz. açılan başlık yerel şirketlerde etkili olur da uluslararası şirketler için hedefi daha da netleştirmek gerkiyor.
+- entry_name: |
+    yapay zekanın yok edeceği meslekler
+  entry_id:  69198558
+  entry_writer: mavrun
+  entry_fav_count: 3
+  entry_content: |
+    taksicilik. yani umuyorum ki taksiler robotlar tarafından yönetilir ve trafikten katillerden kurtuluruz. düz şeridinde giden bir taksi düşünsenize. mükemmel olmaz mı?
+- entry_name: |
+    erkeklerin zeki kadın sevmemesi
+  entry_id:  69190592
+  entry_writer: larazgl
   entry_fav_count: 2
   entry_content: |
-    hem karakter olarak hem toplumsal olaylara karşı tutumuyla hem de müzikal yönüyle türkiye'de çok başka bir yerde olan kendisinin dahil olduğu herşeyde buram buram kalite kokan gerçek megastar, türkiye'nin şansı. adam bir albüm çıkartıyor, albümün çıkma sürecinden başlayıp albüm çıktıktan 3-4 ay sonrasına kadar kendisinden başka kimsenin esamesi okunmuyor, herkes tarkan'ı konuşuyor her yerde tarkan'ın şarkıları çalıyor. kimse tarkan'ın albümünü beklediği gibi başka albümleri beklemiyor. adam resmen seçilmiş kişi.
+    gerizekalı bir erkek egemenlik kuramayacağını gördüğü zeki kadını tabi istemez. <br/><br/>zeki adam zaten egemenlik kurmaya çalışmaz. eşit şartlarda olduğunu bilir. <br/><br/>bu yüzden yanlış önermedir. doğrusu "gerizekalı erkekler zeki kadın sevmez" olmalı.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  69192558
@@ -311,19 +311,26 @@ data:
   entry_content: |
     dayanaksız tahminlerin; daha doğrusu ıslak rüyaların paylaşıldığı ortam.
 - entry_name: |
-    sözlük yazarlarının baştan sona izlediği diziler
-  entry_id:  69180736
-  entry_writer: operatormd
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=house+md">house md</a>)
-- entry_name: |
     samsun'da suriyelilerin fotoğraf tacizi
   entry_id:  69196880
   entry_writer: mcbtr
   entry_fav_count: 1
   entry_content: |
     "suriye'li vatandaş" ne lan? benim vatandaşım türk olur (ırksal olarak değil). suriye'li vatandaş olmaz, suriye'li suriye'nin vatandaşıdır. türk vatandaşı ise suriye'li olmaz. siz hiç türkiye'li alman dediklerini falan gördünüz mü?<br/><br/>edit: görmemiştir. buherifler başa bela olacak yakında. üstelik vatandaşlık verildiği için hukuken kapı dışarı da edemezsin. ülkeyi çöplük ettiler 15 senede...
+- entry_name: |
+    özgür demirtaş
+  entry_id:  69189774
+  entry_writer: mrarkadin
+  entry_fav_count: 1
+  entry_content: |
+    ekonomi alanında veya yenilikçi teknolojiler konusunda yazdıklarını ilgiyle takip ettiğim ancak hakim olmadığı bir konuda inat etmesine şaşırdığım bilim insanı. 1. dünya savaşını fon alan bir filmde almanya ve türkiye'nin aynı tarafta gösterilmesini manidar bulduğunu söylemiş. bunun tarihsel bir gerçek olduğunu söyleyen kişiye de başka müttefik mi kalmadı gösterilecek diye cevap vermiş. <br/>o savaşta almanya'nın en önemli müttefikini göstermeyecekler de kimi gösterecekler, böyle bir şeyi ülkemize karşı bir komplonun parçası olarak nasıl değerlendirebilir bir bilim insanı anlamak mümkün değil. bu mantıkla tüm hollywood yıllarca süreyle binlerce filmle almanya'ya karşı komplo kuruyor. <br/>kısacası girdiği bu garip tartışma gözümde değerini azaltmadı ama çok garipsedim. keşke hiç bulaşmasaydı bu mevzuya.
+- entry_name: |
+    baban da sıcağı severdi
+  entry_id:  69196064
+  entry_writer: nickbulamadimnolcak
+  entry_fav_count: 1
+  entry_content: |
+    yeni türkiye'nin ahlakının özeti olan bir söz.
 - entry_name: |
     15 haziran 2017 chp güvenpark yürüyüşü
   entry_id:  69193673
@@ -332,24 +339,17 @@ data:
   entry_content: |
     <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+kemal+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu+zirvesi">ekşi siyasetçiler &amp; kemal kılıçdaroğlu zirvesi</a> sayesinde katılma fırsatı buldum. tabi işin içinde sözlük ve zirve olunca birçok chp ileri geleniyle güzel sohbetler ettik. ben soru sormadım. amacım chp insanlarını yakından dinleyip mümkün olduğunca hissi bir çekim almaktı. gözü kulağı açtım. mümkün olduğunca rahatsız edilmemek için telefonu ultra tasarruf moduna atıp çantanın dibine sokuşturdum. bol bol izledim dinledim, grubumuz da çok zeki insanlardan oluştuğu için onları da bol bol dinlediğim. çok konuşmadığım için kusura bakmayın, o sizin güzelliğiniz.<br/><br/>yakınında bulunmaktan en çok etkilendiğim isim <a class="b" href="/?q=eren+erdem">eren erdem</a> idi. <a class="b" href="/?q=aykut+erdo%c4%9fdu">aykut erdoğdu</a> da ikinci sıradaydı. <a class="b" href="/?q=ilhan+cihaner">ilhan cihaner</a> ile olan söyleşimiz rahatsız bir abi tarafından sürekli baltalandığı için yarış dışı kaldı. özgür özel'in sesi kısıldığı için yarış dışı kaldı. kemal başkan beklediğimden daha enerjikti. toplantıda iyi iş çıkardı ve önemli mesajlar verdi. ekşi siyasetçiler'in kuralları doğrultusunda kaydedilebilen tüm veriye gerekli başlıklardan ulaşabilirsiniz. <br/><br/>yürüyüşe yarım günlüğüne biz de katılıp yandık. çok sevimli, azimli, sakin bir kitle vardı. katılan sözlükçüler de öyleydi, canlarım benim. hangi siyasi görüşten olduğunuzun bir önemi yok, kendinize "bu ülkede adalet var mı?" diye sorduğunuzda ağzınızdan anında kesin bir "var" çıkamıyorsa, bocalıyorsanız, olmadığını düşünüyorsanız; buyrun bir etap veya bir gün yürüyün. ben bir etap yürüdüm, bu yürüyüşü bir gün sürdürmek bile gözümde acayip büyüdü. insanlar günlerdir sıcakta yanıyor. yürüyüşünüz kutlu olsun.
 - entry_name: |
+    oytun erbaş
+  entry_id:  69182424
+  entry_writer: waytofall
+  entry_fav_count: 0
+  entry_content: |
+    zeki bir tip.<br/>belli ki dersine iyi çalışmış.<br/>önünü açmak lazım böyle adamların.<br/>cahillerin kendisine zorbaca yüklenmesine hiç bozulmasın. <br/>türkiyede bilim yapmak böyle zor işte.<br/>arada attığı gollerle de seyirciyi sevindirsin.<br/>eyyorumlamam bu kadar.
+- entry_name: |
     mesai arkadaşı bayanın size yanıyorum demesi
-  entry_id:  69198724
-  entry_writer: commodude
+  entry_id:  69198687
+  entry_writer: demokratikdeve
   entry_fav_count: 0
   entry_content: |
-    ofisteki yangın hortumu alınır, kişiye gösterilir ve ateşi söndürülür.
-- entry_name: |
-    erkeklerin zeki kadın sevmemesi
-  entry_id:  69191174
-  entry_writer: molonlabe
-  entry_fav_count: 0
-  entry_content: |
-    her insan kendine göre zekidir. belli başlı dört kadın çeşidi vardır. bunlar dünyanın en eski bilgi kaynakları ve farklı farklı kültürlerinden derlenmiş bilgilerdir. ancak modern psikolojik araştırmalarla da teyitlenmiştir. tecrübelerle de sabittir. <br/><br/>gerçek dominant: cin gibi zekidir, kolay kolay öfkelenmez, kurnazdır, ilm-i siyaset bilir. kendi sorumluluklarını çok iyi yapar. biraz kavgacıdır ama arada bir. erkeği parmağında çevirir ama bunu göstere göstere yapmaz. nadir bir kadın türüdür. genellikle problem çözücüdür . sıradan bir kadın değildir. arkadaş çevresine ve sülalesine bile hükmeden bir kadındır. otoritesine karşı çıkanı affetmez. ama suyuna gitmen gerekir. oldukça enerjiktir. başarıyı resmen kendine çeker. <br/><br/>sahte dominant: en yaygın ve en tehlikeli kadın çeşididir. çekicidir, çok eğlenceli, canlı, hareketli, kıpır kıpırdır. uzaktan harika bir komşu, harika bir arkadaş, harika bir meslektaştır. cömerttir, yardıma koşmayı sever. sosyal ve sayısal zekası iyidir. çocuksudur. <br/><br/>ama yakınına gelince, maskeleri düşer. bir arızadır, derttir, para harcamada erkeğin kara deliğidir, büyük bir aldanıştır, ağzı bozuk, geveze, patavatsız, terbiyesiz, saygısız, kural tanımaz, erkeklerden geri kalmama özentisi, dedikoducu, ayarsız, ne zaman delireceği belli olmaz, sorumsuz, tembel, eften püften şeylerden öfke patlamaları yaşayan bir zavallıdır. çıngar çıkartır, sinir hastasıdır. erkeğine hayatı cehennem eder, zindan eder. vampir gibi erkeğin huzurunu ve parasını emer. talepkardır, sürekli birşeyler ister durur. paraya ve maddi zevklere tutkundur. özentidir. instagram facebook youtube paylaşım manyağıdır. kim ne yemiş, ne giymiş, makyajını nasıl yapmış, magazinde ne olmuş, dizilerde ne olmuş, hepsini bu kadın tipi izler işte. kendi sorumluluklarını yapmamakla, kural tanımamakla birlikte karşısındaki erkeğin romantik, beyefendi olmasını, kendisinin her ihtiyacını daha istemeden anlamasını ister. uzak durun diyeceğim, ama duramayacaksınız. dünya kuruldu kurulalı bu düzen değişmeyecek. <br/><br/>uysal kız: bu kız da zekidir, uyanıktır, akıllıdır. bence üstteki ikisinden daha akıllıdır. neyi ne zaman yapacağını bilir, sınırlarını bilir, adet kültür ve modern yaşam dengesini iyi kurar. kavgadan hatta ağız dalaşından mutlaka kaçınır. erkeğe üstteki ikisi gibi zorbalıkla değil, dolaylı yoldan zekasıyla hükmeder. bazen sinsi ve içine kapanık olduğu olur. ama huzur verir. her anı bir uyanıklıkla, zeki birşey yapmakla geçer. artık çok geç olmayanlara bu tip tavsiye edilir. sosyal yönden hafif pasif kalsa bile kendi işlerini sorumluluklarını elinden geldiği kadar sürekli düşünür. her halükarda halinden memnundur. sabırlıdır. problem çözücüdür. <br/><br/>sahte uysal kız: bu kız analitik yönden güçlüdür ve bilgi ve tecrübeleriyle ruhsal bir derinliğe sahiptir. ancak takıntılı, obsesif, alıngan, küskün ve bayağı arıza bir tiptir. baskın bir tip değildir, ama sürekli arıza kaynağıdır, pasif agresif beladır. ilm-i siyaset sıfırdır, pot kırar durur. saftiriktir. idealisttir, ama kendi ideallerine kendi de ulaşamaz. ulaşamayıp psikolojisi bozulur, sık sık depresyona girer. her zaman bir derdi vardır. insanların her söylediğini kafaya takar, içine atar ve kendini zehirler. gelecek kaygısı resmen tavan yapmıştır. kararsız bir tiptir. sorumluluklarını bilse de çıkardığı dertlerle durumu daha kötü yapmaktadır. hakkını yemeyelim bayağı vefalı, dürüst ve iyi niyetlidir. sözü senet gibidir. <br/><br/>arkadaşlar, bu kız tiplerinin aynısı erkek için de geçerlidir. feministlik yapmayalım o yüzden. her 4 erkekten 3 ü, her 4 kızdan 3 ü arızadır, delidir. zeki bile olsa problemlerle doludur. 4 ü de iyi şeyler başarır belki, ama bir erkeğin kız deyince genellikle anladığı, anlamak ve bulmak istediği 3 numaralı kız tipidir. ancak bu mutluluk maalesef çoğuna nasip olmamaktadır. hadi diyelim 3 numaralı kızı buldun, ama sen 2 numarasın. o zaman sen arızasın demektir. sen o kıza bela olacaksın demektir. bu yazdığım pek çok benzer konuya da ışık tutmaktadır. kendini zeki diye tanımlayıp zeytinyağı gibi üste çıkmaya hiiç gerek yok yani.
-- entry_name: |
-    baban da sıcağı severdi
-  entry_id:  69196064
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 0
-  entry_content: |
-    yeni türkiye'nin ahlakının özeti olan bir söz.
+    acilen 177 aranmalıdır
 ---
