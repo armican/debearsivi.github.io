@@ -6,44 +6,44 @@ data:
     15 temmuzda sokaklarda içki içirmiyoruz kampanyası
   entry_id:  69236622
   entry_writer: oyuncak bulut
-  entry_fav_count: 929
+  entry_fav_count: 975
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9ferefine">şerefine</a>)
 - entry_name: |
     ben bir suriyeli'yim
   entry_id:  69228438
   entry_writer: thebulk
-  entry_fav_count: 675
+  entry_fav_count: 678
   entry_content: |
     "o halde ülkene dön" şeklinde seslendiğim kişi söylemi.<br/>(bkz: <a class="b" href="/?q=evet+barbar+t%c3%bcrk%c3%bcm">evet barbar türküm</a>)
 - entry_name: |
     öğrenim kredisi borçları silinsin kampanyası
   entry_id:  69237313
   entry_writer: adana kebapspor
-  entry_fav_count: 301
+  entry_fav_count: 321
   entry_content: |
     keyfimizden aldık sanki siktimin kredisini. neymiş aç kalmış eve yürüyerek gitmiş siktir yarram derler adama at yalanı sikiyim inananı. devletin parasıyla gece alem yapmışım karı sikmişim lan yarak kafalı devletin verdiği ayda 250 yada 300 tl birşeydi zaten. ayda 250 tl ile alem yapılacak karı sikilecek bi mekan göstersene bana bi ayda 250 tl lan ikiyüz elli amk. bide devletin parasıyla diyor devletin suriyelilere yedirdiği ceplerini doldurduğu ayakkabı kutularına para sakladığı çocuklarına gemicikler falan aldığı para devletin parası değil tabi amınakodumun embesili. onların hesabını soracağı yerde öğrencinin aldığı 250 tl nin hesabını soruyor. sonra çomar yobaz falan diyince bozuluyor embesil kılıklı.
 - entry_name: |
     yolları yaptık tıpış tıpış yürüyorsun
   entry_id:  69232188
   entry_writer: gilbertus albans
-  entry_fav_count: 261
+  entry_fav_count: 263
   entry_content: |
     (bkz: <a class="b" href="/?q=%c4%9f">ğ</a>)
 - entry_name: |
     volvo xc70'e arkadan çarpan fiat seicento
   entry_id:  69230053
   entry_writer: geek in aad
-  entry_fav_count: 246
+  entry_fav_count: 249
   entry_content: |
     görünüşe göre sadece fiat kazaya karışmış.
 - entry_name: |
-    5 temmuz 2017 benzin zammı
-  entry_id:  69227187
-  entry_writer: trmert
-  entry_fav_count: 201
+    ben bunu zamanında nasıl giymişim denilen şeyler
+  entry_id:  69229037
+  entry_writer: orjinal bi nick istedim sadece
+  entry_fav_count: 172
   entry_content: |
-    önce alkole, şimdi benzine gelen <a class="b" href="/?q=g%c3%bcncelleme">güncelleme</a>dir. iş sim city'ye döndü iyice, bas vergiyi artır geliri. yahu bilgisayar oyununda bile halk isyan ediyor vergiyi 2 tık artırınca, bizimkiler <a class="b" href="/?q=yarabbi+%c5%9f%c3%bck%c3%bcr">yarabbi şükür</a>, <a class="b" href="/?q=ehonomi+%c3%a7o%c4%9f+eyi">ehonomi çoğ eyi</a> modunda.
+    şu anki türkiye ye bakınca bir kadın olarak, dolabımda duran tüm şortlar, etek, elbiseler!!? <br/><br/>ben bunları zamanında istanbulda nasıl giymişim, nasıl korkusuz otobüslere binmişim, hayret..
 - entry_name: |
     3 temmuz 2017 ankara demetevler olayları
   entry_id:  69222058
@@ -52,45 +52,38 @@ data:
   entry_content: |
     bop için ülkeyi satanlar düşünsün. bop partisine oy verenler ve bop eşbaşkanını lider diye sayanlar düşünsün. bir de orospu çocuğu gelmiş chp provokasyonu diyor. şerefsiz evladı olunca demek kendi yediği bokun suçunu başkasına atıyorsun.
 - entry_name: |
-    ben bunu zamanında nasıl giymişim denilen şeyler
-  entry_id:  69229037
-  entry_writer: orjinal bi nick istedim sadece
-  entry_fav_count: 163
-  entry_content: |
-    şu anki türkiye ye bakınca bir kadın olarak, dolabımda duran tüm şortlar, etek, elbiseler!!? <br/><br/>ben bunları zamanında istanbulda nasıl giymişim, nasıl korkusuz otobüslere binmişim, hayret..
-- entry_name: |
     4 temmuz türkiye'nin almanya'ya nota vermesi
   entry_id:  69236430
   entry_writer: strike the gold
-  entry_fav_count: 160
+  entry_fav_count: 164
   entry_content: |
     askerdeki karşılığı;<br/><br/>(bkz: <a class="b" href="/?q=vurdum+tekmeyi+girdim+komutanin+odasina">vurdum tekmeyi girdim komutanin odasina</a>)
 - entry_name: |
     ruhi çenet'in ıssız bir adada ölmesi
   entry_id:  69232108
   entry_writer: tanriya allah diyen cocuk
-  entry_fav_count: 138
+  entry_fav_count: 139
   entry_content: |
     (bkz: <a class="b" href="/?q=ruhi+%c3%a7enet+kim+amk">ruhi çenet kim amk</a>)<br/>sözlükte de var bunlardan. ilgi çekmek için <a class="b" href="/?q=itiraf">itiraf</a> başlıklarına intihar notu yazan boş tipler.<br/>ruhi de bir şekilde amacına ulaşmış ve sözlükte gündem olmuş.<br/><br/><a class="b" href="/?q=edit">edit</a>: mesaj kutum şenlendi amk.<br/>"ruhi çenet'i nasıl tanımazsın" diyen de var, "ruhi'nin ilgi çekmeye ihtiyacı mı var gerizekalı" diyen de.<br/>ikna oldum lan tamam. adam ölmüş. hatta şöyle olmuş bak.<br/><br/>- ben gidiyorum anam. olur da ölürsem bu videoyu youtube'a yükle.<br/>+ aman oğul. ne ölmesi? ne videosu?<br/>- ölürsem 5 milyon izlenmesi var bu videonun. paraya para demezsiniz.<br/>+aslan oğlum benim.<br/><br/>ulan ne boş adamlarsınız ya?
 - entry_name: |
     e harfini kullanmadan entry yazmak
   entry_id:  69235698
   entry_writer: quansis
-  entry_fav_count: 134
+  entry_fav_count: 138
   entry_content: |
     gayat kolay bişaydır. na var yani?<br/><br/>(bkz: <a class="b" href="/?q=e+kullanmamaya+%c3%a7al%c4%b1%c5%9f%c4%b1rkan+diyarbak%c4%b1rl%c4%b1+olmak">e kullanmamaya çalışırkan diyarbakırlı olmak</a>)
 - entry_name: |
     30 yaşında 100 bin tl nakiti olan bekar erkek
   entry_id:  69237437
   entry_writer: achatla
-  entry_fav_count: 128
+  entry_fav_count: 130
   entry_content: |
     (bkz: <a class="b" href="/?q=100+bin+lira+para+m%c4%b1+lan+it+o%c4%9flu+it">100 bin lira para mı lan it oğlu it</a>)
 - entry_name: |
     pepe
   entry_id:  69236830
   entry_writer: kasar yaza
-  entry_fav_count: 116
+  entry_fav_count: 123
   entry_content: |
     amma <a class="b" href="/?q=efendi+be%c5%9fikta%c5%9f">efendi beşiktaş</a> muhabbeti dönmüş bu başlıkta. o geçen senenin sloganıydı. bu senenin sloganı <a class="b" href="/?q=matkap+be%c5%9fikta%c5%9f">matkap beşiktaş</a>. dübelleri hazırlayın.
 - entry_name: |
@@ -104,9 +97,16 @@ data:
     3 dakikada boşalan erkek
   entry_id:  69234719
   entry_writer: miafori
-  entry_fav_count: 102
+  entry_fav_count: 107
   entry_content: |
     şimdi 3 dakikayı beğenmeyenlere bi açıklma yapmam gerek; 3 dakika 180 saniye eder. bir erkek en az saniyede 1 defa pompalasa 180 defa girdi çıktı yapar ki bu bence gayet yeterlidir. keşke 3 dakika yapabilsem, malesef ilk postada 1.5 - 2 dakikada boşalıyorum, ancak ikinci postada iş değişir.
+- entry_name: |
+    eren erdem'in cemaat evindeki resimleri
+  entry_id:  69241140
+  entry_writer: insan donuna girmis telli turna
+  entry_fav_count: 106
+  entry_content: |
+    eren erdem'in cemaat evlerinden geçerek bu güce sahip olduğunu kanıtlar. <a rel="nofollow noopener" class="url" target="_blank" href="https://gdb.voanews.com/B696D20A-8C40-4432-9376-EBD8AD699156_w1023_r1_s.jpg" title="https://gdb.voanews.com/B696D20A-8C40-4432-9376-EBD8AD699156_w1023_r1_s.jpg">gülen ile cidden çok samimi görünüyor</a>
 - entry_name: |
     kredi borcu olmayan 25 yaş üstü insan
   entry_id:  69230825
@@ -118,9 +118,16 @@ data:
     youtube'ta 2 milyar 350 milyon kez izlenen şarkı
   entry_id:  69236878
   entry_writer: forrestgump
-  entry_fav_count: 88
+  entry_fav_count: 90
   entry_content: |
     aleyna tilki'nin şarkısının 230 milyon izlendiği bir sitede 2,5 milyar defa izlenmiş olması abes değildir.
+- entry_name: |
+    evren ve nöron bağlantılarının benzerliği
+  entry_id:  69228634
+  entry_writer: november wine
+  entry_fav_count: 86
+  entry_content: |
+    <a class="b" href="/?q=nature%27s+scientific+reports">nature's scientific reports</a>'da yayınlanan bir inceleme, evrenin tıpkı beyindeki nöronlar gibi genişlediğini gösterdi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/vpZ6m6.jpg" title="https://i.hizliresim.com/vpZ6m6.jpg">şurdan</a> görülebileceği gibi sol kare 1 mikrometre ölçeğinde fare beynindeki nöronal bağlantılar.<br/><br/>sağ kare ise bir grup astro-fizikçinin bilgisayar simülasyonu ile elde ettiği milyarlarca ışık yılı çapındaki evrenin uzaktan görünüşü. <br/><br/>(bkz: <a class="b" href="/?q=quantum+consciousness">quantum consciousness</a>)<br/><br/>(bkz: <a class="b" href="/entry/69228111">unified field theory/#69228111</a>)
 - entry_name: |
     türk ligi'nin kalitesini düşüren detaylar
   entry_id:  69226002
@@ -129,54 +136,40 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=belediye+tak%c4%b1mlar%c4%b1">belediye takımları</a>)
 - entry_name: |
-    evren ve nöron bağlantılarının benzerliği
-  entry_id:  69228634
-  entry_writer: november wine
-  entry_fav_count: 84
-  entry_content: |
-    <a class="b" href="/?q=nature%27s+scientific+reports">nature's scientific reports</a>'da yayınlanan bir inceleme, evrenin tıpkı beyindeki nöronlar gibi genişlediğini gösterdi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/vpZ6m6.jpg" title="https://i.hizliresim.com/vpZ6m6.jpg">şurdan</a> görülebileceği gibi sol kare 1 mikrometre ölçeğinde fare beynindeki nöronal bağlantılar.<br/><br/>sağ kare ise bir grup astro-fizikçinin bilgisayar simülasyonu ile elde ettiği milyarlarca ışık yılı çapındaki evrenin uzaktan görünüşü. <br/><br/>(bkz: <a class="b" href="/?q=quantum+consciousness">quantum consciousness</a>)<br/><br/>(bkz: <a class="b" href="/entry/69228111">unified field theory/#69228111</a>)
-- entry_name: |
     3 temmuz 2017 sinan oğan'ın ahmet türk tweet'i
   entry_id:  69236385
   entry_writer: lysk
-  entry_fav_count: 82
+  entry_fav_count: 84
   entry_content: |
     kürt siyasetinin en barışçı şahsiyetlerinden ahmet türk'ün, yirmi gündür kürt terör örgütünün elinde bulunan `<a class="b" href="/?q=necmettin+y%c4%b1lmaz">necmettin yılmaz</a>` için de yürümesini bekleriz. yürümesini siktir et en azından bir açıklama yapmasını da bekleriz. <br/><br/>hayır bu adamı barışçı yapan nedir? <br/>örgütün daha dün öldürdüğü işçiler için mi birşey yapmış, örgütün kaçırdığı öğretmenin serbest bırakılması için mi uğraşmış, çocuk yaşta dağa zorla götürülenleri dağdan indirmek için mi çabalamış, örgüte uyuşturucu üretmemesi için telkinde mi bulunmuş, `<a class="b" href="/?q=ne%c5%9fe+alten">neşe alten</a>` in mezarını mı ziyaret etmiş? ne yapmış da barışçı sıfatını kazanmış? <br/>sapına kadar haklı tweettir.<br/>edit: imla
 - entry_name: |
     amerika birleşik devletleri
   entry_id:  69231619
   entry_writer: iki kere ucuruldum konduktor onayla beni
-  entry_fav_count: 74
+  entry_fav_count: 77
   entry_content: |
     mall'da kavga cikarip ortaligi birbirine dagittiginizda kimse dokunmaz cunku o kadar cok dengesiz var ki kimse ayiripta olmek istemez, sonra polis geldiginde hala mallda heryeri dagitiyorsaniz polisin kalbinize kursun sikma ihtimali diger ulkelere gore cok daha fazladir. ayrica guvenlikler napiyorsaniz yapin demez belanizi sikerler ustunuze atlarlar hep beraber.<br/><br/>bir siyah kadin olarak olay cikarirsaniz vurulma sansiniz default olarak %25 artar.<br/><br/>bizim turkler ustunluk kriterini koyar zaten burda siyahlar 2. sinif hispanicler 3. turkler 1. sinif<br/><br/>abd den anladiginiz olay buysa zaten gecmis olsun.
-- entry_name: |
-    istanbul'a yapılacak 4. köprü
-  entry_id:  69230800
-  entry_writer: fason ikircik
-  entry_fav_count: 73
-  entry_content: |
-    taş ve sopalarla yapılacaktır.
-- entry_name: |
-    türkiye'deki en güzel şehrin istanbul olması
-  entry_id:  69230701
-  entry_writer: zoltarinmabedi
-  entry_fav_count: 72
-  entry_content: |
-    bağcılar, sultangazi, ümraniye, esenler... hepsi cennetten bir köşe, hepsi ayrı bir doğa harikası!
-- entry_name: |
-    eren erdem'in cemaat evindeki resimleri
-  entry_id:  69241140
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 71
-  entry_content: |
-    eren erdem'in cemaat evlerinden geçerek bu güce sahip olduğunu kanıtlar. <a rel="nofollow noopener" class="url" target="_blank" href="https://gdb.voanews.com/B696D20A-8C40-4432-9376-EBD8AD699156_w1023_r1_s.jpg" title="https://gdb.voanews.com/B696D20A-8C40-4432-9376-EBD8AD699156_w1023_r1_s.jpg">gülen ile cidden çok samimi görünüyor</a>
 - entry_name: |
     aşılar israil malı zeka geriliği yapıyor
   entry_id:  69239471
   entry_writer: habemus kakam
-  entry_fav_count: 57
+  entry_fav_count: 67
   entry_content: |
     adam haklı, kendisi zamanında olmuş. sonuç ortada.<br/><br/>(bkz: <a class="b" href="/?q=hep+israil%27in+a%c5%9f%c4%b1s%c4%b1+bunlar">hep israil'in aşısı bunlar</a>)
+- entry_name: |
+    istanbul'a yapılacak 4. köprü
+  entry_id:  69231771
+  entry_writer: sinpecado
+  entry_fav_count: 54
+  entry_content: |
+    sorunlar boğaza beton dökülerek tümden aşılabilir.
+- entry_name: |
+    5 temmuz 2017 çözüm sürecinin tekrar başlatılması
+  entry_id:  69222660
+  entry_writer: i am not noob
+  entry_fav_count: 50
+  entry_content: |
+    (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>)
 - entry_name: |
     akşener ve özdağın parti kuracaklarını ilan etmesi
   entry_id:  69221898
@@ -202,16 +195,9 @@ data:
     hastanelerin doğal seleksiyonu engellemesi
   entry_id:  69228609
   entry_writer: faroe adamlari
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     her ne kadar öyle gözükse de öyle değildir. sonuç itibariyle doğal seçilim bireyi değil, türü ilgilendiren bir olgudur. genetik rahatsızlıklar tedavi edildiği sürece bu tip rahatsızlıklar gen havuzuna girmeye devam edecektir, doğru. ancak tedaviler varolduğu sürece de gen havuzundaki bireyler iyileşmeye devam edecektir. dolayısıyla hastanelerin, doğal seçilimle çeliştiği herhangi bir nokta yoktur. insan, aklını ve teknolojisini kullanarak türünün devamını sağlamaktadır. diğer türler hastalıklara ve rahatsızlıklara karşı antikor, gelişmiş bir bağışıklık sistemi kurarak mücadele ederken, insan türü doğayı manipüle ederek türünün devamlılığını sağlamaktadır. bu yüzden, gelecekte <a class="b" href="/?q=crispr">crispr</a> yöntemi gibi teknolojilerle insan genomu manipüle edilecek ve bu genetik hastalıklar gen havuzundan çıkarılacaktır, aynı şekilde de insanı daha da güçlendirecek<sup class="ab"><a title="(bkz: transhümanizm)" href="/?q=transh%c3%bcmanizm" data-query="transhümanizm">*</a></sup> genler insan genomuna enjekte edilecektir. sonuç itibariyle sorulması gereken asıl soru, bütün bunlar gerçekleşene kadar insan türü ilkelliğinin sınırlarını aşıp dünya'ya, hayvanlara, çevresine ve tabii ki de diğer insanlara daha merhametli bir şekilde davranmanın yolunu bulabilecek midir? olacaktır. eğer ki insan doğa ananın kudretini onu kirleterek, atmosfere zararlı gazlar salarak sınamaya devam edecekse, işte o gün insan türü doğal seçilim yüzünden yokolacaktır.
-- entry_name: |
-    yemeğe lezzet katan en önemli parametre
-  entry_id:  69221803
-  entry_writer: icimdeki sey gibi bilmem ki ney gibi
-  entry_fav_count: 25
-  entry_content: |
-    (bkz: <a class="b" href="/?q=a%c3%a7l%c4%b1k+seviyesi">açlık seviyesi</a>)
 - entry_name: |
     15 temmuz 2017'de yazarların yapacakları
   entry_id:  69221757
@@ -219,6 +205,13 @@ data:
   entry_fav_count: 20
   entry_content: |
     tanka mum dikip tüm gün ameno eşliğinde zikir çekeceğim.
+- entry_name: |
+    suriyeli nefretinin asıl sebebi
+  entry_id:  69238169
+  entry_writer: whokares
+  entry_fav_count: 19
+  entry_content: |
+    bu nefretin suriyelilerle filan alakası yoktur. türkiye'nin işleyişi ile çok alakası vardır.<br/><br/>kendi işimden bir örnek vereyim... <br/><br/>ben yıllar önce bir satış grubunun tepesinde direktörlük yapıyordum. grupda 30-35 kişi filan vardı. şirketin senelik cirosu 300 milyon dolar civarındaydı. gruba uygulanan komisyon sistemine göre, her satış elemanı net kar üzerinden %7 gibi bir komisyon alıyordu. <br/><br/>biz o dönem genişleme ve aynı zamanda bu %7 komisyon oranını azaltma kararı aldık. ama bunu pat diye yaparsanız elinizde nur topu gibi bir isyan bulursunuz.<br/><br/>peki hem genişlerken hem işgücünü nasıl daha ucuzlaştırabilirdik?<br/><br/>bir ay içinde gruba 10 tane yeni satış elemanı ekledik ve bu satış elemanlarının kontratını %4 üzerinden yaptık.<br/><br/>evet, hali hazırda grupta bulunanların %7komisyon oranını değiştirmedik, ama yeni işgücünü %4 üzerinden işe aldık.<br/><br/>bu bir...<br/><br/>ikinci adım...<br/><br/>%7'lik pahalı gruptaki elemanların bütün hesaplarını, müşterilerini inceledik ve bunlardan belli bir gelir kriterine uymayanları (düşük performans) şirket prosedürü dahilinde yeni %4'lük (ucuz) iş gücüne tahsis ettik.<br/><br/>bu dağıtım sonrası ucuz işgücüne fazladan yardım kaynağı ayırdık. bu yardımı da en ucuzundan, hindistan'da açtığımız geri-ofis hattı sayesinde sağladık. <br/><br/>fazladan yardım alan yeni ve ucuz işgücü, hem yeni müşterilerle kontrat imzalamaya başladı, hem de eski, düşük performanslı hesapları ileri taşıdı.<br/><br/>bu bir sene böyle gitti.<br/><br/>ikinci sene başlarken son adımı attık...<br/><br/>artık herkes %4 komisyon alacaktı. <br/><br/>isyan çıktı mı? hayır... bir kaç kişi ayrıldı, o kadar. geri kalanlar artık anladı ki ya yeni ortama uyum sağlayacaklar, ya da ayrılacaklar.<br/><br/>bu süreçte eli kuvvetlenen tek grup işverendi. bizdik.<br/><br/>eskiler yenilerden nefret etti. onları şirket yönetiminin maşası olarak filan gördü... ama artık çok geçti.<br/><br/>eğer biz yeni çalışanlara %4 verdiğimiz o ilk gün %7'lik kesim isyan bayrağını açsa, mecburen geri adım atacaktık. ama o gün keyfine dokunulmadığını düşünen %7'lik grup aksiyon almayınca, bir sene sonra kaybeden onlar oldu.<br/><br/>türkiye'de aksiyon dönemi geçti bence.<br/><br/>tamamen uydurma yöntemlerle biraz zenginleştirilen akp tabanının verdiği oylarla ülkenin içi suriyeli doldu.<br/><br/>bu suriyeliler artık her alanda türkiyeli nüfus ile yarışacak. <br/><br/>doğal kaynaklar sınırlı... üretim sınırlı... kısacası pastanın boyutları değişmedi. <br/><br/>bundan bir sonraki adım suriyelilere oy hakkı verilmesi. emin olun bu yapılacak. 2019 öncesinde bu yapılmak zorunda.<br/><br/>o zamana kadar iktidar bir yandan basını kontrol ederek, bir yandan uçak gemisi filan yaptığını iddia ederek, bir yandan konut sektörünü dışarıdan zararına elde edilen kredilerle besleyerek türkiyelilerin derin uykusunu garanti altına alacak.<br/><br/>sonrasında ise hep beraber gerileyeceğiz.<br/><br/>türkiye'yi boyunduruğunda tutan iktidar ve yandaşları kazanacak.<br/><br/>biz %7'den %4'e geçerken, direktör ve üstü herkes muazzam ikramiyeler aldı.<br/><br/>bunu da yazın bir kenara.<br/><br/>olayın suriyelilerin milliyeti ile ilgisi yok. değişen ülke içi dinamiklerle çok ilgisi var.
 - entry_name: |
     beşiktaş
   entry_id:  69232392
@@ -234,20 +227,6 @@ data:
   entry_content: |
     ulen oyuncak bebek diye yazsaydın ya,ilk anda adamın çocuğu olmuyor da evlatlık verdiler zannettim.
 - entry_name: |
-    suriyeli nefretinin asıl sebebi
-  entry_id:  69236955
-  entry_writer: dmxx
-  entry_fav_count: 17
-  entry_content: |
-    "amk alevileri" diye cümleye başlayan bi tip, provokasyon var diye emniyet yetkililerini göreve çağırıyor aslkdjaslkfaklsf <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/qWjOnQ.png" title="https://i.hizliresim.com/qWjOnQ.png">bu ne lan?</a><br/><br/>konumuza dönecek olursak, milliyetçilikle alakası olmayan durumdur. ülkenin vaziyeti zaten bok gibi olmasına rağmen, üstüne bir de ne idüğü belirsiz üç milyon kişinin sokaklarda fink atması kimsenin hoşuna gitmiyor doğal olarak. hergün haberlerde de görüyoruz sebebini. <br/><br/>bedavaya hayvan ithalatı yapmışız resmen. hem sevmiyoruz, hem besliyoruz gibi bir vaziyet var şu anda.
-- entry_name: |
-    mümkün olsa yazarlar hangi ünlüyle çıkmak isterdi
-  entry_id:  69223063
-  entry_writer: en soldaki
-  entry_fav_count: 15
-  entry_content: |
-    (bkz: <a class="b" href="/?q=iyi+forumlar">iyi forumlar</a>)<br/>insan çok garip be. 1 yıl çaylaklığının bitmesini bekliyorsun en az, sonra gelip donanım haberde, konu dışında açacağın başlığı burada açıyorsun.
-- entry_name: |
     trt'de darbe bildirisi okunurken düşünülenler
   entry_id:  69222882
   entry_writer: yuki
@@ -262,26 +241,26 @@ data:
   entry_content: |
     bedavaya gitmiş diyen insanlara anlam veremiyorum. bruma 12.5'a gitti. arda 12'ye gitti. türkiye'den kaça topçu satmayı planlıyorsunuz? burada yaşadıklarını birebir kopyalayıp almanya'ya, ispanya'ya falan yapıştırsan zaten 20'den aşağı gitmez. ingiltere'ye yapıştırsan 30'dan aşağı gitmez. <br/><br/>adamın oynadığı kulübün türkiye'de oynadığını unutmadan yorum yapın. fm değil burası, muslera'yı kulüplere önerdiğiniz gibi 61 milyon'a liverpool'dan teklif gelmiyor.<br/><br/>tanım: milan'ın yeni stoperi
 - entry_name: |
-    türkiyede güneş enerjisinin yaygınlaşmama nedeni
-  entry_id:  69231616
-  entry_writer: tarzanbaba
-  entry_fav_count: 13
+    selman öğüt
+  entry_id:  69222133
+  entry_writer: kartokurtazeyazar
+  entry_fav_count: 11
   entry_content: |
-    henüz güneşten vergi alınmasının bir yolunun bulunamamış olmasıdır. <br/><br/>güneş'in de artık ülkemizde bir ofis açması ve vergi vermesi gerekmektedir. yoksa yasaklanmalıdır. öyle bedavadan insanlara enerji vermek, bitkilere hayat vermek, ısıtmak filan olur mu ya?
+    90'lı yıllarda tartışma programlarına uğur mumcular, aziz nesinler, necip hablemitoğlular vs çıkardı. öbür tarafda engin noyan ile a. dilipak humanizm ve tadavvuf kasardı. hızlı ansiklopedi okuması gibi programlardı. yıl olmuş 2017 izlediğimiz tiplere gel. bu adam kime ne bilgi verir neyi savunur 15 temmuz demekten, koftiden halk iradesi demekten başka. <br/><br/>tanım: tvlerin bilinçli olarak olmayan seviyemizi daha da dibe vurmak adına sürekli ekran önüne çıkardığı sipariş üzerine abla dayı kontenjanından rütbeleri dizmiş popilist akademisyenimsi.
 - entry_name: |
     kevin durant
   entry_id:  69225173
   entry_writer: feysbuktaki komik yorum
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     adam daha fazla şampiyon olmak için fedakarlık yapmış bizim ekşici formlar da buna karaktersizlik diyor hey allahım ya. hem takıma hem de oyuncunun eline tarihi bir fırsat geçmiş three-peat hatta belki de fazlası için o da bunu kullanıyor doğal olarak. sponsorluk gelirleriyle beraber de açlıktan ölmeyeceği kesin bu kontrat sonrası.
 - entry_name: |
-    selman öğüt
-  entry_id:  69222133
-  entry_writer: kartokurtazeyazar
+    arka camında atatürk resmi ya da imzası olan araba
+  entry_id:  69226753
+  entry_writer: beerbee
   entry_fav_count: 7
   entry_content: |
-    90'lı yıllarda tartışma programlarına uğur mumcular, aziz nesinler, necip hablemitoğlular vs çıkardı. öbür tarafda engin noyan ile a. dilipak humanizm ve tadavvuf kasardı. hızlı ansiklopedi okuması gibi programlardı. yıl olmuş 2017 izlediğimiz tiplere gel. bu adam kime ne bilgi verir neyi savunur 15 temmuz demekten, koftiden halk iradesi demekten başka. <br/><br/>tanım: tvlerin bilinçli olarak olmayan seviyemizi daha da dibe vurmak adına sürekli ekran önüne çıkardığı sipariş üzerine abla dayı kontenjanından rütbeleri dizmiş popilist akademisyenimsi.
+    aralarından biri de benim arabamdır. önceden hiç böyle bir adetim yoktu. bir gün bir haber izledim, polisler bir araçtan atatürk imzasını yasak diye zorla çıkarttırmaya çalışıyordu. ertesi gün arabama atatürk imzası yapıştırdım. ondan sonra yeni bir araba aldım. ertesi gün ona da atatürk imzası yapıştırdım. bundan sonra alacağım her yeni arabaya da atatürk imzası yapıştıracağım. sökmeye çalışan bir babayiğit bekliyorum bakalım... osmanlı tuğralı doblolara falan da ön yargıyla falan bakmam. herkesin kendi arabasıdır isterse kıçının resmini çekip tavanına bastırsın. hiç bir partiyle işim yoktur, hiç bir milletvekilinin de hayranı değilim. siyasileri günahım kadar sevmem, hiç birini. benim için sadece atatürk vardır. ona saygım ve minnetim sonsuzdur. özellikle atatürk ve onun modern anlayışının izlerinin silinmeye çalışıldığını, insanların ona saldırmak için fırsat kolladığı ve bazılarının da korkusundan sesini dahi çıkaramadığı bu zamanlarda, her yerde atatürk'e olan sevgimi ve saygımı göstermekten çekinmem. hatta normal zamanda gösterdiğimden daha çok gösterir, daha çok sahip çıkmaya çalışırım.
 - entry_name: |
     tour de france 2017
   entry_id:  69236769
@@ -293,14 +272,21 @@ data:
     ekşi itiraf
   entry_id:  69230166
   entry_writer: are you serious
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     çocukken en yakın arkadaşımın annesi biz 5-6 yaşlarındayken trafik kazasında ölmüştü. tabi o yaşta ölümün çok farkına varamıyorsun çocuk aklınla. şimdi hatırlıyorum da annesinin cenazesinin olduğu günü, evde kadınlar toplanmış, dualar okumalar, ağlamalar falan biz 2 çocuk evin bahçesinde oyun oynuyorduk. normalde yapmamıza izin verilmeyen her türlü şeye izin vardı o gün. ortada tam da algılayamadığımız kötü bir durum vardı ama benim aklım oyundaydı. arkadaşımın hüzünlü hali bana garip geliyordu ama, eskisi gibi eğlenmeye devam edelim istiyordum, o yaşta başka bir ölüm yaşamamıştım, bilmiyordum çünkü.<br/><br/>sonra bir şekilde yıllar geçti, benim annemi anne yerine koydu, birlikte büyüdük.<br/><br/>ortaokul zamanlarıydı, okulumuz üniversite kampüsü içinde. üniversitenin tüm olanaklarından yaralanabiliyoruz. o aralar en büyük zevkimiz üniversitenin merkez kütüphanesindeki arşivlenmiş gazetelere bakmak. ikimizde tarihe acayip meraklıyız. kafamızdan bir tarih söyleyip, o günün gazetesini çıkarıp, keyifle yazılanlara bakıyoruz. inanılmaz bir zevk. hala severim arşiv karıştırmayı.<br/><br/>birgün yine okul çıkışı gittik, güle oynaya boyumuzdan büyük gazete kalıplarını karıştırıyoruz, rastgele açtık bir tanesini, sayfaları çeviriyoruz, ben salak salak yorumlar yapıyorum haberlerle ilgili, o sessiz sedasız birşey okuyor, birden yüzü düştü, ben saçmalamalarıma halen devam ediyorum, o susuyor. <br/><br/>meğerse annesinin öldüğü kazanın haberi varmış o sayfada. paramparça arabanın fotoğrafı var, ölen annesinin vesikalık ucuz bir fotoğrafıyla birlikte. kadın fotoğraftan bize gülüyor. işte ben o an anladım, o küçük yaşta anlayamadığım şeyi. biz güle oynaya bu yaşımıza kadar gelmiştik ama o annesiz büyümüştü. sonra kendi annemi düşündüm, annemin bana kattıklarını, hayatımdaki yerini, onun öyle bir durumu olmamıştı hiç. ve ben bu durumda ona yeterince destek olmamıştım hiç.<br/><br/>her 4 temmuzda bu aklıma geliyor. o günkü gazetenin tarihi. benim sevdiklerimin acılarıyla yeterince empati kuramıyor oluşum. onların başına kötü birşey geldiğinde onlar adına tabiki üzüldüğüm ama ufacıkta olsa 'bu bizi nasıl etkiler, eskisi gibi olmayacak mı artık herşey' düşüncesini kendi içimden geçirmem. hep aklıma geliyor.
+- entry_name: |
+    peter sagan
+  entry_id:  69238718
+  entry_writer: indio
+  entry_fav_count: 5
+  entry_content: |
+    tour de france'dan diskalifiye edilmesi büyük skandaldır.<br/><br/>cavendish her zaman yaptığı sprintte kafa atma hareketini yaptı. tam karşıdan olan açıdan tekrar izleyin. cavendish'in vücudu ve kafası direk olarak sagana yönlenmiş ve temas etmiş halde. sagan'da hem dengesini korumak hemde cavendish'e engel olmak için dirseğini kaldırıyor. temizice geçen adama dirsek atıp düşürmek diye birşey yok ortada.<br/><br/>bu cavendish'in ilk pisliği de değil. zamanında<sup class="ab"><a title="(bkz: 2013 olması lazım)" href="/?q=2013+olmas%c4%b1+laz%c4%b1m" data-query="2013 olması lazım">*</a></sup> sprintte kafa atıp rakibini düşürdüğü ve kafa atarken kendisinin de düştüğü <sup class="ab"><a title="(bkz: 2014 tour de france)" href="/?q=2014+tour+de+france" data-query="2014 tour de france">*</a></sup> yarışlar var. olimpiyatlarda pistte rakibinin önünü bilinçli kesip kaza yapmasına yarışın durmasına neden olmuşluğu ancak diskalifiye edilmemişliği var. bu gün kendi kuyusunu kendisi kazdı. sagan'a vurup geçmeye çalıştı geçemedi. ama sagan'ı da yaktı. <br/><br/>sagan'a ceza verilirse cavendish'e de verilmesi lazımdı. sen kafa at adam seni itince mazlum ol yok öyle dava. bouhanni'nin önünü 2 defa kapatan demare fransız diye hiç ceza almazken sagan sırf gövde gösterisi olsun diye diskalifiye ediliyor.<br/><br/>yeşil mayoyu ancak bu şekilde hile ve hurdayla sagan'dan alabilirlerdi. başardılar
 - entry_name: |
     ölür müsün öldürür müsün'ün ingilizcesi
   entry_id:  69240649
   entry_writer: nicksizkaldim
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     to kill or to be killed... that is the question.
 - entry_name: |
@@ -352,4 +338,18 @@ data:
   entry_fav_count: 0
   entry_content: |
     yönetimden gidişi ülke imfnin eline düşecek kadar parasız kaldığında olacaktır<br/><br/>bizim millet cebine para girmeyince babasını bile görmez<br/><br/>haa öyle bir durum olmazsa çıkmaz ayın son çarşambasına kadar başta kalır
+- entry_name: |
+    gta vice city'deki inşaat patlatma görevi
+  entry_id:  69242445
+  entry_writer: kor nokta
+  entry_fav_count: 0
+  entry_content: |
+    tek seferde süre arttırarak bitirdiğim görev. belki de hayattaki en büyük başarılarımdan biri. oyunlarda uçak ve helikopterleri çok iyi kullanıyorum.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  69240557
+  entry_writer: die befindlichkeit des landes
+  entry_fav_count: 0
+  entry_content: |
+    böyle sipariş vermek de ne kadar usüllü olur bilmiyorum ama, tek başına çocuk büyüten bir anneyle dertleşmem gereken mühim konular var.
 ---
