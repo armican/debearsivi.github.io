@@ -6,56 +6,56 @@ data:
     kaçak elektrik kullanan dayı
   entry_id:  69272291
   entry_writer: tupfraq
-  entry_fav_count: 365
+  entry_fav_count: 366
   entry_content: |
     yalan yok başta <a class="b" href="/?q=frans%c4%b1zca+m%c4%b1+lan%3f">fransızca mı lan?</a> diye düşündürdü.<br/><br/>"uloü höani panoü, la huani kuabloü, hani sahhğğat"<br/>ou l'eau huannee poineau, la huannee cableau, huannee soitte...<br/><br/>"sen möemurolma"<br/>saint meumaraulma...<br/><br/>not: işkembeden sallıyorum ama sanıyorum şöyle bir şey olsa sırıtmazdı.
 - entry_name: |
     kütahya'da 17 yaşında babasından hamile kalan kız
   entry_id:  69280136
   entry_writer: scentofawoman
-  entry_fav_count: 290
+  entry_fav_count: 297
   entry_content: |
     kütahya e tipi cezaevi'nde bulunan yürekli abiler, öz kızına tecavüz eden bu yaratığı lütfen gerekli şekilde ağırlayın. (bol acılı olsun)<br/><br/>edit: bazı sığırlar "bol acılı olsun" yazımı 'tecavüz' olarak algılamış yahu senin aklın hep oraya çalışıyorsa zaten benim elimden bir şey gelmez.
 - entry_name: |
     eşcinsele hoşgörülü bakamayız
   entry_id:  69275724
   entry_writer: mc43
-  entry_fav_count: 281
+  entry_fav_count: 283
   entry_content: |
     işlerine gelince yaratandan ötürü yaradılana hoş bakanların yeni zırvası
 - entry_name: |
     beylikdüzü çok uzak diyen insan tipi
   entry_id:  69267070
   entry_writer: sinpecado
-  entry_fav_count: 272
+  entry_fav_count: 273
   entry_content: |
     beylikdüzü'nde yaşayan arkadaşım: " istanbul'a geleceğim görüşelim mi?" diye soruyor. işte böyle bir şey.
 - entry_name: |
     6 temmuz 2017 avrupa parlamentosu türkiye kararı
   entry_id:  69275001
   entry_writer: zerdest
-  entry_fav_count: 266
+  entry_fav_count: 272
   entry_content: |
     her geçen gün ortadoğu bataklığına yaklaştığımız şu zamanlarda tuz biber olmuştur.<br/><br/>kına yakarsınız götünüze artık amına kodumun çomarları.<br/><br/>ab bu tavsiyeyi kabul eder ve uygularsa ab'nin müzakereler sayesinde sağladığı ödenekler, projeler kesilecek. o zaman seyreyle şenliği. çomar hala özelden küfür ediyor. hadi siktir git selefi/bedevi taşağı yala sen.
 - entry_name: |
     onemliuyarilar'a yardım ediyoruz
   entry_id:  69267854
   entry_writer: gulbesekericoksevdimde
-  entry_fav_count: 249
+  entry_fav_count: 250
   entry_content: |
     harika edit: güzel adam (bkz: <a class="b" href="/?q=selim+yuhay">selim yuhay</a>) yazar arkadaşımızın iletişim bilgilerini istiyor yazmıştım. <br/>görüşmüşler. <br/>fakat bir aksilik olursa diye diyorum yine de takip edelim. <br/><br/>herkese ama herkese çok teşekkür ederim. yine duyarlı olup birlik olduk. hep beraber ağladık. sizi çok seviyorum sözlük ahalisi ve sözlük dışından herkes. sağolun varolun. <br/><br/>yazarımızın entry'si budur. (bkz: <a class="b" href="/entry/69245962">#69245962</a>) <br/><br/>adına yardım başlığı açtım çünkü dikkat çekmesini istiyorum. hep beraber yine birşeyler yapalım istiyorum. olur mu olur. annesi kolon kanseri yazar arkadaşımızın. çok üzücü. ben okuyup duyarsız kalmak istemedim.<br/><br/>umarım isteğini gerçekleştirebiliriz.<br/><br/>edit: yardım konusunda fikirlerimizi paylaşalım. benim aklıma ilk gelen mimar selim yuhay oldu. ona ulaşmak istedim fakat sosyal medya hesabım yok. tanıyan birileri vardır belki yazar arkadaşlardan diye düşündüm. kendisine ulaşsak sanki o da duyarsız kalmaz bu isteğe gibi geliyor. <br/><br/>başka ne yapabiliriz? daha farklı bir fikri olan yazar arkadaşlar hangisi doğruysa onu yapalım.<br/><br/>edit 2: mimar (bkz: <a class="b" href="/?q=selim+yuhay">selim yuhay</a>) ve (bkz: <a class="b" href="/?q=acun+medya">acun medya</a>) konusunda herkes hemfikir sanırım. yazar arkadaş <a class="b" href="/?q=aliyoni">aliyoni</a> nin dediği gibi karar verip mesaj yağdırmak gerek. facebook, instagram, twitter ne bulursak onun üzerinden mesaj yağmuruna tutalım. <br/><br/>inanıyorum olacak, çok güzel olacak.<br/><br/>edit 3 : <a class="b" href="/?q=proje%40yuhay.com">proje@yuhay.com</a> a mail attım. birçok arkadaş da hem bu adrese mail atıyor hem de sosyal medyadan yazıyor. <br/><br/>telefonla aramak için erken bir saat belki ama ulaşmaya çalışıyorum henüz bir sonuca ulaşamadım. <br/><br/>uzaktan yakından tanıyan, tanıyan birilerini tanıyan yazar arkadaş varsa lütfen ya benimle iletişim kursa ya da kendi arasa olmaz mı?<br/><br/>edit 4: bir yazar arkadaş sözlükte inşaat şirketi olan yazarlar varsa onlarda yardımcı olabilir diyor. çizimleri kendisi yapacak. bu da güzel bir fikir. eğer mimar selim yuhay'a ulaşamazsak böyle bir şey yapabiliriz.<br/><br/>edit 5: <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/kadikoybelediye" title="https://mobile.twitter.com/kadikoybelediye">kadıköy belediyesi</a> sosyal yardım konusunda çok duyarlı. buradan da yazabiliriz.<br/><br/>edit 6: <br/>sözlük dışında bana ulaşmak isterseniz gulbesekericoksevdimde@gmail.com'dan ulaşabilirsiniz. <br/>belki çaylak arkadaşlarımızdan ya da sözlük dışından okuyan olup yardımcı olmak isterlerse diye.<br/><br/>edit 7: <br/>yazar arkadaşlarımızdan biri mail için taslak hazırlamış. yapacağınız sadece <a class="b" href="/?q=proje%40yuhay.com">proje@yuhay.com</a> a göndermek. <br/><br/>taslak burada; (bkz: <a class="b" href="/entry/69270698">#69270698</a>)<br/><br/>edit 8: <a class="b" href="/?q=tarcan">tarcan</a> nickli yazar arkadaşa mesaj attım cevap bekliyorum. bilgi vermek istedim. gözden kaçırdığım entry olursa haberleşelim.<br/><br/>edit 9: <br/>bir çok yazar arkadaş nasıl destek olabileceklerine dair mesaj atıyor. şöyle bir ortak noktada buluştuk sanırım; eğer selim bey'e ulaşamaz isek b planı oluşturduk. maliyet çıkarıp bir hesap oluşturup para topluyoruz. maliyetin de aşağı yukarı 15 bin lira olacağını söyledi yazar arkadaş. (nicklerini tek tek yazacağım fakat editlerken vakit kaybetmek istemediğim için sonraya bıraktım).<br/>sonrası kolay çünkü işinin ehli arkadaşlarımız var burada ve organize olup bizi yönlendirecekler. <br/><br/>bende editleyeceğim.<br/><br/>edit 10: <br/>şu an selim yuhay'a ulaşmak açısından bir adım attık haber vermek istedim. bekliyorum. <br/>aktif olarak medya sektöründe çalışan ama uzun zamandır görüşmediğim bir arkadaşıma utanarak mesaj attım. sağolsun hemen geri döndü. (bkz: <a class="b" href="/?q=tv8">tv8</a>) 'de çalışan bir arkadaşına bilgileri ulaştırdı. ilgileneceklerini söylemiş. <br/>hadi bakalım. umut etmek çok güzel.
 - entry_name: |
     apple'ın beyaz eşya işine girmesi
   entry_id:  69273348
   entry_writer: oyuncak bulut
-  entry_fav_count: 232
+  entry_fav_count: 233
   entry_content: |
     sadece kendi ürettiği çamışır ve bulaşıkları yıkayacak teknolojiye sahip ürünler üretecektir.<br/>kafana göre çamaşır bulaşık yıkatmaz apple.
 - entry_name: |
     ekşi sözlük android &amp; ios uygulaması
   entry_id:  69282960
   entry_writer: ekşisözlük
-  entry_fav_count: 196
+  entry_fav_count: 208
   entry_content: |
     sözlük fasilitelerini kolaylıkla kullanabileceğiniz mobil uygulamamız yayında.<br/><br/>uygulama ile birlikte yeni gelen özellikler:<br/><br/>- anlık mesajlaşma, anlık bildirim,<br/>- profil fotoğrafı ekleme,<br/>- facebook ve instagram entegrasyonu,<br/>- takip ve takipçi sayılarını görme.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://play.google.com/store/apps/details?id=com.eksiteknoloji.eksisozluk" title="https://play.google.com/store/apps/details?id=com.eksiteknoloji.eksisozluk">android</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://itunes.apple.com/tr/app/ekşi-sözlük/id1216400454?mt=8" title="https://itunes.apple.com/tr/app/ekşi-sözlük/id1216400454?mt=8">ios</a><br/><br/>uygulamanın detaylı incelemesine <a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/eksi-sozlukun-mobil-uygulamasi-yayinda" title="https://seyler.eksisozluk.com/eksi-sozlukun-mobil-uygulamasi-yayinda">buradan</a> ulaşabilirsiniz.
 - entry_name: |
@@ -69,14 +69,14 @@ data:
     arabasına ya sev ya terket yazdırmış gurbetçi
   entry_id:  69278011
   entry_writer: ksanthos
-  entry_fav_count: 123
+  entry_fav_count: 125
   entry_content: |
     avrupa'da yasayan bir <a class="b" href="/?q=anadolu+comari">anadolu comari</a>.
 - entry_name: |
     polislerin sevilmemesi
   entry_id:  69280528
   entry_writer: azekrm
-  entry_fav_count: 110
+  entry_fav_count: 115
   entry_content: |
     halkı değil, hükümeti koruduğu içindir.
 - entry_name: |
@@ -90,9 +90,16 @@ data:
     6 temmuz 2017 türkiye'nin ap kararına tepkisi
   entry_id:  69276543
   entry_writer: darknight
-  entry_fav_count: 87
+  entry_fav_count: 88
   entry_content: |
     nasıl yok hükmünde aq gidip müzakereye devam mı ediceksin tek başına? akp ile geldiğimiz nokta budur. bunları siktir etmeden muasır medeniyet seviyesine asla çıkılamaz.
+- entry_name: |
+    game of thrones
+  entry_id:  69266785
+  entry_writer: financier
+  entry_fav_count: 84
+  entry_content: |
+    cercei değil <a class="b" href="/?q=cersei">cersei</a>, nasıl bir iq ise öğrenemediniz gitti arkadaş. altı yıl oldu lan, altı. millet altı yılda tıp fakültesi bitiriyor.
 - entry_name: |
     şevket altuğ
   entry_id:  69278314
@@ -101,6 +108,13 @@ data:
   entry_content: |
     yıllar önce nereden baksan bir 15 yıl vardır; kendisiyle yapılan röportajda muhabir kendisine "yıldız olmanın zorlukları nelerdir?" diye sormuş, altuğ da "efendim ben yıldız değilim, yıldızlar her yerden gözükür ben gözükmem; benim bir şöhretim var o kadar. edirne'den dışarıya adım attığım vakit, beni kimse bilmez." diye cevap vermişti. galiba ustanın büyüklüğü burada yatıyor.
 - entry_name: |
+    6 temmuz marmara üniversitesi doktora sonuçları
+  entry_id:  69282505
+  entry_writer: the way we were
+  entry_fav_count: 79
+  entry_content: |
+    bugün bi' arkadaşımın mağduru olduğu komik sonuçlardır. arkadaş marmara üniversitesinde uluslararası ilişkiler doktora bölümü için sınava girmişti birkaç gün önce, bugün mülakat açıklanmış. mülakatta 5 puan vererek 3. yedeğe atabilmişler. mülakata giren tek araştırma görevlisi o arkadaşın dediğine göre, bilgisine de sonuna kadar kefilim ama en yüksek ales puanına sahip bir adamı mülakattan elemek için 5 puan vermek gibi komik olaylara girerseniz biz de buna sessiz kalamayız arkadaş. yazıktır, sırf kendi öğrencisi değil, kimse arayıp yakınımdır demedi diye insanlara bu şekilde zulüm yapamazsınız. <br/><br/>5 değil 15 verseler adam 5. asil olacak<br/>5 değil 40 verseler adam 1. asil olacak..<br/><br/>mülakatta 5 verenler bu gece rahatça uyusun, ama bu ayıbınız hep hatırlanacak.. <br/><br/>sonuçlar: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/okjmN7.png">https://i.hizliresim.com/okjmn7.png</a><br/><br/>edit: bu işin siyasi boyutu falan bu bizim işimiz değil, derdimiz de o değil. işe oradan bakarsak zaten asıl meseleyi kaçırırız. maalesef akademi dünyamız böyle. emek, liyakat değil de ''yakınlığa'' bakılıyor. bugün de böyle, daha önce de böyleydi. keşke olmasa..<br/><br/>edit: mülakat normal seyirde geçmiş, fahiş hiçbir hata yok, arkadaş araştırma görevlisi, uluslararası ilişkiler mezunu, 5 puan alacak kadar hiçbir cevabı olamaz. polyannacılık oynamayalım, bu çocuk bu mülakattan elenebilmek için 5 puan verilmiş, evet verilmiş.
+- entry_name: |
     sapyoseksüel olduğunu iddia eden kadın
   entry_id:  69269483
   entry_writer: oxfordunkoylusu
@@ -108,19 +122,19 @@ data:
   entry_content: |
     bu sapyoseksuel denen zimbirti 2016'nin en buyuk yalaniydi.<br/><br/>zeka seviyor kadinlar. evet dogru. ama zeka, kapici cafer'de degil, okulun cool cocugu okan'da olursa seviyorlar.<br/><br/>bu yanlis anlasilmayi duzeltelim de, zeki cirkinler bosuna heveslenmesin di mi.
 - entry_name: |
-    6 temmuz marmara üniversitesi doktora sonuçları
-  entry_id:  69282505
-  entry_writer: the way we were
-  entry_fav_count: 69
-  entry_content: |
-    bugün bi' arkadaşımın mağduru olduğu komik sonuçlardır. arkadaş marmara üniversitesinde uluslararası ilişkiler doktora bölümü için sınava girmişti birkaç gün önce, bugün mülakat açıklanmış. mülakatta 5 puan vererek 3. yedeğe atabilmişler. mülakata giren tek araştırma görevlisi o arkadaşın dediğine göre, bilgisine de sonuna kadar kefilim ama en yüksek ales puanına sahip bir adamı mülakattan elemek için 5 puan vermek gibi komik olaylara girerseniz biz de buna sessiz kalamayız arkadaş. yazıktır, sırf kendi öğrencisi değil, kimse arayıp yakınımdır demedi diye insanlara bu şekilde zulüm yapamazsınız. <br/><br/>5 değil 15 verseler adam 5. asil olacak<br/>5 değil 40 verseler adam 1. asil olacak..<br/><br/>mülakatta 5 verenler bu gece rahatça uyusun, ama bu ayıbınız hep hatırlanacak.. <br/><br/>sonuçlar: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/okjmN7.png">https://i.hizliresim.com/okjmn7.png</a><br/><br/>edit: bu işin siyasi boyutu falan bu bizim işimiz değil, derdimiz de o değil. işe oradan bakarsak zaten asıl meseleyi kaçırırız. maalesef akademi dünyamız böyle. emek, liyakat değil de ''yakınlığa'' bakılıyor. bugün de böyle, daha önce de böyleydi. keşke olmasa..<br/><br/>edit: mülakat normal seyirde geçmiş, fahiş hiçbir hata yok, arkadaş araştırma görevlisi, uluslararası ilişkiler mezunu, 5 puan alacak kadar hiçbir cevabı olamaz. polyannacılık oynamayalım, bu çocuk bu mülakattan elenebilmek için 5 puan verilmiş, evet verilmiş.
-- entry_name: |
     6 temmuz 2017 dolar kuru
   entry_id:  69271913
   entry_writer: empati kurabilen rahatsiz mankind
   entry_fav_count: 64
   entry_content: |
     akp muhaliflerini anlamak güç mü? tabi beyin küçülünce zor oluyor sen de haklısın. yazalım ama.<br/><br/>doların 4 olması ile derdi yok kimsenin. kimse dolar 4 oldu diye sevinmiyor.<br/>hani diyorsunuz ya her şeye zam gelecek, çocukların gelecekleri karanlığa doğru gidiyor vs. akp'nin karşısında duranların geleceği zaten karanlık. onlar zaten eve ekmek götürebilmek için kıçını yırtıyor. akp yandaşı türlü ihalelerden vurgun yaparken, muhalif ülkede yok sayılıyor. <br/><br/>peki niye mutlu oluyorlar biliyor musun?<br/>çünkü dolar yükselince milleti siken, milletin a. koyan sizin gibi yandaşlar zarara uğruyor. batıyor bazılarınız. bu milletin elinden vergi adı altında söke söke para toplayıp yandaşına dağıtan bir iktidar partisini istemiyor. kısaca, muhalif olan zaten zorda, e dolar şöyle 5'i bulsun da siz de göte gidin biraz. hem bize hep bize vallah biraz da size.<br/><br/>yıl sonunda 3.88'i görecek kurdur. ben demiyorum merkez bankası diyor. yatırım tavsiyesi değil ama siz yine de merkez bankasına bir daha sorun.
+- entry_name: |
+    orkun ışıtmak
+  entry_id:  69280365
+  entry_writer: divit
+  entry_fav_count: 58
+  entry_content: |
+    bu heriflere bisey olmaz, ulkede aptal cok. gider 2 tane kopek alir abone sayisi yine artar.<br/><br/>bunun ekurisi var enes batur denen bebe.<br/>gitti 2 tane yavru kopek aldi, begenmezseniz kopegi oldurucem dedi saka yapti.<br/><br/>2 ay falan kopekten reyting kapti, 2 kopek de kanli ishal oldu. bir tanesi kopek cennetine goctu, digeri de gocmek uzere.<br/><br/>peki bu ne yapti, bir video daha cekti cok uzgunum diye. gelsin layklar.<br/><br/>bu ulkede mehmet ali canli yayinda adamin cukunu acti, konuklara salam soktu. biz severiz boyle seyleri, en iyi sovmen kimdir desen mehmet ali cikar.
 - entry_name: |
     çocukken yapılmış küçük iş girişimleri
   entry_id:  69276093
@@ -136,13 +150,6 @@ data:
   entry_content: |
     ulan balkan göçmeni tanıdıklarımın hepsi ortalama bir türkden daha kalite insanlardı,<br/>çomar oranı az düzgün insanlar, <br/>ulan keşke memleketin yüzde 70 falan balkan göçmeni olsa yemin ediyorum<br/>bir norveç <br/>bir isveç oluruz.
 - entry_name: |
-    orkun ışıtmak
-  entry_id:  69280365
-  entry_writer: divit
-  entry_fav_count: 56
-  entry_content: |
-    bu heriflere bisey olmaz, ulkede aptal cok. gider 2 tane kopek alir abone sayisi yine artar.<br/><br/>bunun ekurisi var enes batur denen bebe.<br/>gitti 2 tane yavru kopek aldi, begenmezseniz kopegi oldurucem dedi saka yapti.<br/><br/>2 ay falan kopekten reyting kapti, 2 kopek de kanli ishal oldu. bir tanesi kopek cennetine goctu, digeri de gocmek uzere.<br/><br/>peki bu ne yapti, bir video daha cekti cok uzgunum diye. gelsin layklar.<br/><br/>bu ulkede mehmet ali canli yayinda adamin cukunu acti, konuklara salam soktu. biz severiz boyle seyleri, en iyi sovmen kimdir desen mehmet ali cikar.
-- entry_name: |
     vücut geliştirme sporunun cinsel isteği bitirmesi
   entry_id:  69270149
   entry_writer: max zorin
@@ -153,9 +160,23 @@ data:
     100km hızla giden araç 20 dakikada kaç km yol alır
   entry_id:  69276606
   entry_writer: baktim 3 dk kaldi attim
-  entry_fav_count: 48
+  entry_fav_count: 49
   entry_content: |
     +470.<br/>-nasıl buldun?<br/>+düşünerek.<br/><br/>böyle taşşak görmedim helal olsun.
+- entry_name: |
+    ekşi sözlük'e profil foto özelliğinin gelmesi
+  entry_id:  69283799
+  entry_writer: plaza communisti
+  entry_fav_count: 48
+  entry_content: |
+    insanlar anonim olarak fikirlerini paylaşmak için buradalar. <br/><br/>ossuranın fetöcü ilan edildiği ülkede, profil fotosu koyup facebook bağlarsan ancak ve ancak bir fikri olmayan, tek amacı ortam tutturmak olan bir ton apolitik, bomboş entryler giren sadece tipe göre yürümeye çalışan insanları doldurmuş olursunuz.<br/><br/>nitekim öyle olacak.
+- entry_name: |
+    aa muhabiri'nin sahte adalet yürüyüşü fotoğrafları
+  entry_id:  69282571
+  entry_writer: hadi git
+  entry_fav_count: 48
+  entry_content: |
+    o değil de seçim sonuçlarını 5 dk'da açıklayan ajans hangisiydi ya?
 - entry_name: |
     bu gölün gizemini çözene 100 m dolar
   entry_id:  69282474
@@ -170,27 +191,6 @@ data:
   entry_fav_count: 46
   entry_content: |
     herkesin gözünün önüne sokulan popüler bir isimle, özel olarak merak etmeyenin kolay kolay bilemeyeceği bir bilim adamını karşılaştırmak kimin fikriyse, ilk taşı ona atıyorum.
-- entry_name: |
-    aa muhabiri'nin sahte adalet yürüyüşü fotoğrafları
-  entry_id:  69282571
-  entry_writer: hadi git
-  entry_fav_count: 42
-  entry_content: |
-    o değil de seçim sonuçlarını 5 dk'da açıklayan ajans hangisiydi ya?
-- entry_name: |
-    6 temmuz 2017 süper loto çekilişi
-  entry_id:  69280113
-  entry_writer: galove
-  entry_fav_count: 39
-  entry_content: |
-    makineye oynattığım çekiliş;<br/><br/>04-07-08-33-35-53<br/>11-20-24-37-44-51<br/>12-23-31-32-37-42<br/>02-14-20-32-43-48<br/>01-06-08-24-40-53<br/><br/>eğer bana çıkarsa favlayan herkese 1000 tl.
-- entry_name: |
-    ekşi sözlük'e profil foto özelliğinin gelmesi
-  entry_id:  69283799
-  entry_writer: plaza communisti
-  entry_fav_count: 37
-  entry_content: |
-    insanlar anonim olarak fikirlerini paylaşmak için buradalar. <br/><br/>ossuranın fetöcü ilan edildiği ülkede, profil fotosu koyup facebook bağlarsan ancak ve ancak bir fikri olmayan, tek amacı ortam tutturmak olan bir ton apolitik, bomboş entryler giren sadece tipe göre yürümeye çalışan insanları doldurmuş olursunuz.<br/><br/>nitekim öyle olacak.
 - entry_name: |
     yazarların hayallerini gerçekleştiriyoruz
   entry_id:  69266927
@@ -209,7 +209,7 @@ data:
     türklerin çok gürültülü insanlar olması
   entry_id:  69270751
   entry_writer: temir
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     insanlık tarihinin gördüğü en başarısız tespit olabilir.<br/>(bkz: <a class="b" href="/?q=turistlerin+ula%c5%9f%c4%b1m+ara%c3%a7lar%c4%b1nda+ba%c4%9f%c4%b1rarak+konu%c5%9fmas%c4%b1">turistlerin ulaşım araçlarında bağırarak konuşması</a>)<br/><br/>tam tersine türkler biraz ağzının içinden konuşur, araplar ve batılılar bağıra bağıra yüksek sesli kahkahalar eşliğinde konuşurlar. özgüven ile alakası olabileceği gibi edep ile de alakası vardır elbet.
 - entry_name: |
@@ -248,20 +248,6 @@ data:
   entry_content: |
     endonezyalı bilim adamlarının keşfettiği "seri bağlı akım ruh iletişimi", yani kısaca (sbar) sayesinde aradaki elektrik akımını sağlayan diğer benlikler üzerinden akım geçmeyeceği için, aradaki bir kişiliğin ölmesi kısa devre yaptıracağından diğerleri de besin alamaz ve ölür amınakoyum. bu da soru mu şimdi?
 - entry_name: |
-    kilo vermek isteyenlere tavsiyeler
-  entry_id:  69279176
-  entry_writer: enola gay
-  entry_fav_count: 17
-  entry_content: |
-    içerisinde <a class="b" href="/?q=ara+%c3%b6%c4%9f%c3%bcn">ara öğün</a> geçen herhangi bir yazıyı direk okumadan kapatın. senelerce yalan yanlış yönlendirildik malesef.. neden mi? nedeni çok basit; <br/><br/>• <a class="b" href="/?q=ins%c3%bclin">insülin</a><br/>• <a class="b" href="/?q=leptin">leptin</a><br/><br/>ağzımıza kalorisi olan herhangi bir şey soktuğumuz anda pankreas insülin hormonu salgılamaya başlıyor, bu hormon ise <a class="b" href="/?q=leptin">leptin</a> hormonunun salgılanmasını <a class="b" href="/?q=engelliyor">engelliyor</a>. <br/><br/>peki leptin ne işe yarıyor? leptin, vücuttaki yağ hücreleri tarafından salgılanan ve beynin açlık hissini kontrol eden hormon. vücutta depolanan yağları yakarak gerekli enerjiyi elde etmeyi sağlıyor. yani siz ara öğün yedikçe pankreas insülin salgılamaya devam ediyor ve bu da leptini baskılıyor ya da doğru çalışmasını engelliyor. bundan dolayı da vücuttaki yağ depoları enerji için kullanılamıyor.<br/><br/>konuyla ilgili osman müftüoğlu yazısı; ara öğün yemek doğru mu? yanlış mı?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/ara-ogun-yemek-dogru-mu-yanlis-mi-21608846" title="http://www.hurriyet.com.tr/ara-ogun-yemek-dogru-mu-yanlis-mi-21608846">http://www.hurriyet.com.tr/…u-mu-yanlis-mi-21608846</a>
-- entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  69275585
-  entry_writer: rovty
-  entry_fav_count: 15
-  entry_content: |
-    jeoloji mühendisiyim, iş deneyimi sıfır, askerlik yapılmadı, 2 yıldır işsizim, 29 yaşındayım, azdan biraz fazla ingiliççem var, alesten 70, kpssden 75 puanım var çok da mal sayılmam yani, cv'im masaj salonu el ilanlarına döndü herkeste her yerde mevcut, yarın sokakta yolda ayağınızla vurup farketmeyebilirsiniz, şimdiye kadar yazdıklarımdan da anlaşılacağı üzere özgüven de yoktan az biraz fazla, izmirden katılıyorum, yarışmacı arkadaşlara başarılar diliyorum.<br/><br/>böyle yazınca kendi kendime bile iş veresim gelmedi zaten bu şartlarda beni alacak şirkete de bu saatten sonra ben girmem, o şirket bana kalmışsa ohooo... <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>(bkz: <a class="b" href="/?q=totally+fucked+up">totally fucked up</a>)
-- entry_name: |
     doğu perinçek
   entry_id:  69270323
   entry_writer: madonnanin yagli zencisi 2
@@ -272,7 +258,7 @@ data:
     ümit kocasakal
   entry_id:  69275130
   entry_writer: hose kutinyo
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     kılıçdaroğlu'nun uzun yürüyüşünden sonra asfalta gömülmüştür. <br/><br/>kılıçdaroğlu'nun bitirdiği diğer "muhalif" için <br/>(bkz: <a class="b" href="/?q=metin+feyzio%c4%9flu">metin feyzioğlu</a>)
 - entry_name: |
@@ -297,19 +283,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=vefa+bursu+vs+%c5%9fehit+%c3%a7ocu%c4%9fu+bursu">vefa bursu vs şehit çocuğu bursu</a>) olayından sonra üniversite'nin gerçekleştirdiği eylemdir.<br/>(<a class="b" href="/entry/69241300">#69241300</a>) <br/>(<a class="b" href="/entry/69241211">#69241211</a>) <br/>(<a class="b" href="/entry/69262983">#69262983</a>) <br/>(<a class="b" href="/entry/69263078">#69263078</a>) <br/>bu kişilerin son girdikleri entylere bakarsanız ne demek istediğimi anlayacaksınız.
 - entry_name: |
-    ekşi itiraf
-  entry_id:  69267135
-  entry_writer: kendi icine dusenler ansiklopedisi
+    6 temmuz 2017 süper loto çekilişi
+  entry_id:  69284609
+  entry_writer: jaheira
   entry_fav_count: 6
   entry_content: |
-    bugun kaldirimda yururken arabanin teki baska bi arabaya carpmamak icin arabayi kaldirima surdu ve bana carpti. olayin sokuyla kalktim hemen yerden. o kadar saniyelik oldu ki her sey, fren sesini duymam arkami donmem arabanin gelisini gormem. biseyim yok fiziken iyiyim fakat aklim almiyor ya sevgili okur dusunsene kaldirimda yuruyosun hic bi sucun yok ne oldugunu bile anlamiyosun. etrafimda toplanan insanlara ne oldugunu soruyorum. ambulans falan. doku zedelenmesi disinda biseyim yok ama ne biliyim annemin gozunun onunde oldu her sey ve aklini yitirdi o anda. travma yaratti onda onu sakinlestirmeye calismaktan kendimi unuttum.
-- entry_name: |
-    çocukken ansiklopedi okumak
-  entry_id:  69266520
-  entry_writer: polly jean
-  entry_fav_count: 5
-  entry_content: |
-    annemin beni başkalarına anlatırken tarif etmek için kullandığı şeydi bu "küçükken çok usluydu bu, oturur bütün gün kitap okurdu, ansiklopedi okurdu" diye... 8 ciltlik bir coğrafya ansiklopedisi takımı vardı hele (ki coğrafya dediysek sadece dağ tepe deniz göl değil tabii, beşeri coğrafya da vardı) orada farklı ülkelerin fiziki özellikleri kadar kültürleriyle, yaşamlarıyla tanıtılması aklımı almıştı esas. farklı kültürlere, farklı coğrafyalara olan merakımdan mı gezenti oldum, yoksa gezentiliğimin temelini o gün atılan tohumlar mı oluşturdu bilinmez. tek kesin olan, kitaplarla, defterle, ansiklopedilerle, dijital değil bire bir haşır neşir olmanın çocuklara iyi geldiğini birinci elden çok iyi bilmem...
+    o kadar sihirbazlık gösterisini gerçek olmadığını, bir hile olduğunu bildiği halde izleyen insanların "canlı yayında yapılan çekilişte nasıl hile yapülür ki?" dediği çekiliştir. <br/><br/>1. canlı yayın olarak oraya konuluyor da, canlı olduğundan kayıt olmadığından nasıl emin olabiliyoruz?<br/><br/>2. noter varmışmış, dötüm. <br/><br/>3. 9'a kadar hangi kombinasyonların oynanıp, hangi kombinasyonların oynanmadığını rahatlıkla bilgisayar üzerinden görüntüleyebilir misin? <br/><br/>başka sorum yok. <br/><br/>insanların umutlarını bile çalıyorsunuz ya, daha çalmadığınız ne kaldı be kodumun hırsızları?
 - entry_name: |
     zamanda yolculuk varsa niye gelecekten gelmiyorlar
   entry_id:  69267312
@@ -325,6 +304,20 @@ data:
   entry_content: |
     son acayipliğini bana yapmış çizer insan.<br/><br/>şöyle ki...<br/><br/>çok iyi bir arkadaşım galip tekin'i iyi tanıyor, ona abi diyordu, arada sırada ufak tefek işlerini yapıyordu.<br/><br/>90'larda kemancı'ya gittiğimizde, bu arkadaşım, galip abi'nin minicik odasına uğrar, selam verirdi, sonra biz içeri geçerdik, galip tekin de bilgisayarda neyle uğraşıyorsa, işine geri dönerdi.<br/><br/>bir gün bu arkadaşıma bir silah emanet etmiş ve silahı ankara'ya götürmesini rica etmiş. arkadaşım bunu bana anlatmıştı, çok özel bir tabancaymış.<br/><br/>yıllardır aklıma bile gelmeyen bu saçma anı, dün gece 3:30'da uyanmamla aklıma geliverdi. "acaba silahı kime göndermişti, nasıl bir silahtı, arkadaşımı polis o silahla yakalasa ne olurdu" diye düşünürken uykum kaçtı ve yaklaşık 10 saattir ayaktayım.<br/><br/>az önce ölüm haberini okuduğumda inanamadım, yemin ederim galip tekin son garip hikayesini yazdı uykumu bölerek.
 - entry_name: |
+    ekşi itiraf
+  entry_id:  69265599
+  entry_writer: darkinsideyou
+  entry_fav_count: 4
+  entry_content: |
+    amk depresif servis şoförü sabah işe giderken can kan denilen uzaylı gruptan yar yar şarkısını açmış. bütün gün yar yar diye beynimde çaldı. <br/><br/>illetten kurtulmak için açtım dinledim ama daha beter oldu. <br/><br/>yar yar yar yar vurma beni derinden, <br/>zor zor zor vazgeçip kopmam senden<br/><br/>uzaylı gözlüğü ve kıyafetleri damlarda şarkı söylerken hayal edin.
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  69275631
+  entry_writer: leaveoutall
+  entry_fav_count: 2
+  entry_content: |
+    çok hırçınlaşmış deniz. her şey farklı sanki. renkler solmuş ya da ben seçemiyorum artık. <br/><br/>kozamız yerinde duruyor. deli köpek yok buralarda, senin gibi kafayı kırıp gitmiştir belki, ya da kim bilir, birazdan çılgınlar gibi koşarak gelir. diğeri hala gülümseyerek bakıyor bana, "git" desen de gitmeyenlerden...<br/><br/>gün batımına kadar beklesem gelir misin? <br/>gün doğumu? <br/>kaç gün batsa, kaç gün doğsa biter bu acı?<br/><br/>bir başka kozanın önünde bir adam sevgilisine gitar çalıyor. hayat benimle çok pis dalga geçiyor.<br/><br/>edit: geldi işte geldi! deli meli ama geldi! unutmamış beni, yanı başımda şimdi...
+- entry_name: |
     sözlük yazarlarının takipçi sayıları
   entry_id:  69284799
   entry_writer: ejder panda
@@ -339,12 +332,19 @@ data:
   entry_content: |
     sahte başlık ve caps ile hit almaya çalışan ergenin zihniyet ile yönetilen etliye sütlüye karışmayalım cebimize bakalım diyen oluşum. malesef bu ülkenin eğitimli, idealist gençlerde parayı bulunca birer ağaoğluna dönüşüyor. napalım. <br/>eskiden reklam yoktu, sonra üyelere reklam yok'a döndü' şimdi gecikmeli açılan her seferde yanlışlıkla tıklamanıza sebep olan reklamlar. bu nasıl bir kalitesizlik. şayet reklam veren olsam kandırmaca ile tıklama almaya çalışan bu tip oluşumlarda reklamlarımın yayınlanmasını istemem
 - entry_name: |
-    süper loto
-  entry_id:  69284734
-  entry_writer: 324
+    tarkan'ın cem özkan'dan şarkı çaldığı iddiası
+  entry_id:  69282586
+  entry_writer: delixtarter
   entry_fav_count: 0
   entry_content: |
-    devletimizin <a class="b" href="/?q=herkes+bir+lira+verse">herkes bir lira verse</a> mantığını çözdüğün kanıtıdır.
+    ben cem ozkan olsam, tesekkur ederim kendisine.
+- entry_name: |
+    süper loto
+  entry_id:  69284412
+  entry_writer: tucoramires
+  entry_fav_count: 0
+  entry_content: |
+    yaklaşık 38 milyon lira, ankara-keçiören'e isabet etmiş, hayret bak allah'ın işine
 - entry_name: |
     duru'ya nefes oluyoruz kampanyası
   entry_id:  69275871
