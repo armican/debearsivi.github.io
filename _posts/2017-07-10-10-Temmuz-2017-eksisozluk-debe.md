@@ -6,154 +6,154 @@ data:
     otellerin plaj gaspına son veriyoruz kampanyası
   entry_id:  69351993
   entry_writer: rentts
-  entry_fav_count: 1416
+  entry_fav_count: 1428
   entry_content: |
     her şey şu linkteki yazıda geçen ifadeyi okumamla başladı;<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/seyahat/galeri-en-iyi-10-mavi-bayrakli-plaj-40512388#page-8" title="http://www.hurriyet.com.tr/seyahat/galeri-en-iyi-10-mavi-bayrakli-plaj-40512388#page-8">http://www.hurriyet.com.tr/…li-plaj-40512388#page-8</a><br/>"hillside beach club muğla: sadece otelde konaklayan kişilerin kullanabildiği turkuaz renkli sulara sahip plajın 330 metre uzunluğu ve 13 metre genişliği var" <br/><br/>"sadece otelde konaklayan kişilerin kullanabildiği bir plaj" diye bir şey kanunlara göre yok.<br/>kıyı kanunu madde 5 der ki;<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.mevzuat.gov.tr/MevzuatMetin/1.5.3621.pdf" title="http://www.mevzuat.gov.tr/MevzuatMetin/1.5.3621.pdf">http://www.mevzuat.gov.tr/…evzuatmetin/1.5.3621.pdf</a><br/>"kıyılar ile ilgili genel esaslar aşağıda belirtilmiştir:<br/>kıyılar, devletin hüküm ve tasarrufu altındadır. kıyılar, herkesin eşit ve serbest olarak yararlanmasına açıktır,<br/>kıyı ve sahil şeritlerinden yararlanmada öncelikle kamu yararı gözetilir." <br/><br/>olay yalnızca bahsi geçen işletmeden ibaret değil. <br/>türkiye'nin en güzel plajlarını, kıyılarını kapatan bunun gibi pek çok işletme var.<br/>kendi adıma sıradan tüm bu işletmeleri arayıp<br/>"ben bugün havlumu alıp plajınıza gelicem, sizin hiç bir eşyanızı, şezlongunuzu, şemsiyenizi, tuvaletinizi, barınızı vs'nizi kullanmıycam yalnızca o bölgede denize giricem" <br/>diyerek plajı kullanıp kullanamayacağımı soracağım.<br/>alacağım cevapları bildiğim halde kanunu gösterince ne cevap verecekler onları da tek tek bu başlığa yazacağım.<br/><br/>plajlar, kıyılar halkın malıdır ve halk istediği gibi girip kullanabilir. zamanında ellerinde kıyı kanunuyla bu ve benzeri plajlara giren aktivistlerin haberlerini hatırlıyorum. aynı şeyi yine yapmayı planlıyorum.<br/><br/>sosyal medya ve sözlükten de bu hukuksuzluğa karşı dayanışma bekliyorum.<br/><br/>edit: ilk gördüğüm otel olduğu için hillside'ın adını verdim yoksa amacım bir tek onları hedef göstermek değil (bunu da yazmak zorunda bırakıyo ya bazıları helal olsun) <br/>hillside'la tekrar konuştum verdikleri cevap; "yoğunluğumuz olmadığı sürece gelip kullanabilirsiniz plajı istediğiniz gibi, teknenizle de gelebilirsiniz, para ödemenize gerek yok"<br/>dmaris'le de telefonda konuştum onlar da kıyı kanunu ben söylemeden bildikleri için tabi ki gelip kullanabilirsiniz, tesisimizin fasilitelerini kullanmadığınız sürece sorun yok dediler.<br/>şu an çalıştığım için diğer tesisleri arayamadım, arayan olursa bana sonucunu bildirsin ya da entry olarak da yazabilir...<br/><br/>gelen onlarca destek mesjajindan sonra bir toparlama yapma/ozet gecme geregi duyuyorum. bunu da soru-cevap seklinde yapmak daha derli toplu olacaktir.<br/><br/>soru:<br/>kampanyanin nihai amaci ne?<br/><br/>cevap:<br/>insanlarin bilinclenmesini saglamak. insanlar 5 yildizli otel gorup 'aa ben buraya girip denize giremem' on yargisini kirabilmek, yasadan haberdar olmalarini saglayarak, buyuk isletmelerin ulkenin en guzel koylarina devasa otel kurmalarinin oranin sahibi olduklari anlamina gelmeyecegini gostermek. plajlar, sahiller, denizler bu ulke vatandaslarinin hepsinin ortak guzellikleridir.<br/><br/>soru:<br/>sozlukte entry kasarak mi olacak peki bu isler?<br/><br/>cevap:<br/>a) bir yerden baslamak lazimdi. ben de buradan baslamayi tercih ettim. siz de kendi sosyal medya hesaplarinizda paylasip insanlari haberdar edebilirim bilinclenmelerine katki saglayabilirsiniz. <br/>b) bir diger yol da mesela yakininizda boyle gasp yaptigini dusundugunuz bir isletmeye gidersiniz ve iceri girmek istediginizi belirtir bu an'lari da kayit altina alirsiniz. (gizli kamera degil aleni olarak aksi halde suc olabilir) ve bunlari burada, sosyal medyada paylasiriz.<br/>c) eksi sozluk tr'nin en cok okunan sitelerinden birisi belki bu baslikta yazanlar birkac acar muhabire esin kaynagi olur da bu isin haberini yaparlar, ustune giderler.<br/><br/>soru:<br/>barzolar/comarlar/kirolar dan rahatsiz olmak istemiyorum herkes bu plajlara girerse ne yapacagiz?<br/><br/>cevap:<br/>aslinda bu soru beni hic ilgilendirmiyor ancak baslik altinda da gorulecegi uzere bu konuda endiseler var. bunu cozmek turlu sekillerde mumkun. benim aklima plaja kimlikle giris mecburiyeti geldi ilk anda. alirsin herkesin kimligini sorun cikaran barzo olursa, kimligi ile polise verirsin, bi daha oraya girememesi saglanir vs. daha yaratici cozumler de olabilir ancak benim su an aklima gelen bu.<br/><br/>son olarak defaeten soyledigim gibi plajlar isletmelerin degildir. halkindir ve halkin kullanimi serbesttir. bir arkadasin da dedigi gibi halk plaji diye bir terim yoktur zira tum plajlar halkindir. o yuzden bu gasp edilen arazilerin babalarinin degil hepimizin mali oldugunu gostermenin bence artik zamanidir.
 - entry_name: |
     chp'nin mitingine otobüslerle insan taşınması
   entry_id:  69352025
   entry_writer: elm sokagi sakini
-  entry_fav_count: 673
+  entry_fav_count: 679
   entry_content: |
     belediye otobüsü mü tahsis etmiş? özel otobüs ise sana giren çıkan ne?<br/><br/>akp belediye işçilerini, devlet memurlarını katılmaya mecbur kılıyor, öyle bir durum var mı? keza akpli patronlar yine kendi işçilerini zorla götürüyorlar mitinge böyle bir durum var mı?<br/><br/>yoksa insanlar kamu mallarınını kullanmayıp kendi insiyatifleri ile otobüsle mitinge gidiyorsa sende niye karın ağrısı yaratıyor?
 - entry_name: |
     duyulmuş en çomarca söz
   entry_id:  69347716
   entry_writer: de nada
-  entry_fav_count: 513
+  entry_fav_count: 528
   entry_content: |
     böyle bir konu açmak aklımın ucunda dahi yoktu. yarım saat önce radyodan şu sözü duyunca dayanamadım paylaşmak istedim;<br/><br/>"elalemin çocukları okur atomu parçalar, bizimkiler okur vatanı parçalar."<br/><br/>alttan alta eğitim düşmanlığı içerdiği için şimdiye kadar duyduğum en çomarca sözün bu olduğuna kanaat getirdim. böyle sinsi bir eğitim düşmalığı yok. allah belanızı versin.
 - entry_name: |
     semih kaya
   entry_id:  69345665
   entry_writer: ginc
-  entry_fav_count: 321
+  entry_fav_count: 323
   entry_content: |
     gidişinde, tomas ujfalusi referans olmuş. artık kulüpte efsane sıralaması belli:<br/>1- tomas ujfalusi<br/>2- ali sami yen<br/>3- metin oktay
+- entry_name: |
+    15 temmuz şehidinin trt'de canlı yayına çıkması
+  entry_id:  69354080
+  entry_writer: karanliktaki kilic
+  entry_fav_count: 293
+  entry_content: |
+    trt haber'in yeni nesil teknolojisi artık 15 temmuz şehitlerini de canlı yayına çıkarabiliyor. karşı taraftan izin aldılar herhalde :)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LnnWMV.jpg">https://i.hizliresim.com/lnnwmv.jpg</a>
 - entry_name: |
     yeni türk imparatorluğunun gümbür gümbür gelmesi
   entry_id:  69352650
   entry_writer: ringingdeath
-  entry_fav_count: 258
+  entry_fav_count: 263
   entry_content: |
     <a class="b" href="/?q=atat%c3%bcrk">atatürk</a> kafalarına çok sert vurdu bunların, hala toplayamadı garipler. mütemadiyen saçmalamaları hep bu yüzden.
 - entry_name: |
     fetöcüler için 432km yürümek
   entry_id:  69363101
   entry_writer: hersey olur
-  entry_fav_count: 243
+  entry_fav_count: 252
   entry_content: |
     bazı anası, ölüsü sikişmiş puştların aleni bir şekilde attığı iftiradır.
 - entry_name: |
     9 temmuz 2017 istanbul maltepe adalet mitingi
   entry_id:  69352050
   entry_writer: gevrekli
-  entry_fav_count: 200
+  entry_fav_count: 212
   entry_content: |
     adını bilmediğim, babasıyla birlikte "boyun eğme" tshirt'üyle yürüyen kk'nın oğluna bakıyorum sonra bilal erdoğan'a...<br/><br/>kocasıyla birlikte yürüyen ve ," eşi olarak değil bir birey olarak yürüyorum " diyen boynunda yaşmaklı, sırtında düz yeşil tshirtüyle selvi hanım'a bakıyorum sonra emine erdoğan'a...<br/><br/>"adalet pankartı, atatürk posteri ve türk bayrağı dışında hiç bir şeyle gelmeyin, bu bir parti mitingi değil, herkesin adalete olan ihtiyacı için yürüyorum" diyen kılıçdaroğlu'na bakıyorum sonra, "biz lütfettiğimiz için yürüyebiliyorsunuz" diyen, herkesle ama herkesle kavgalı, sürekli negatiflik saçan erdoğan'a bakıyorum...<br/><br/>umarım bu ülkeye, umut, huzur, güler yüz, hoşgörü ve adalet hakim olur diyorum.<br/><br/>şüphesiz ki türk siyasi tarihinin en büyük hareketlerinden biridir. ayağınıza, aklınıza sağlık...
-- entry_name: |
-    ülkedeki konser ve festivallerin azalarak bitmesi
-  entry_id:  69346396
-  entry_writer: fazla dijital
-  entry_fav_count: 154
-  entry_content: |
-    üzücü ve doğru tespittir. <br/><br/>iptal edilmeden önce rock n coke her yıl düzenli olarak gerçekleşiyordu, bu dönemde sağlam amerikalı gruplar da sahne alıyordu, sonra 2 yılda 1 yapılmaya başlandı zaten bu dönemde amerikalı falan kalmadı, tarık mengüç falan çıkarmaya başladılar ki maksimum ingiliz gruplar(bkz: <a class="b" href="/?q=prodigy">prodigy</a>) falan sahne aldı bu dönemde ve en sonunda da bitti. keza efes pilsen blues festival vardı bir zamanlar. millet yer bulamaz, bira fıçılarının üstüne otururdu, o da kalmadı. sonisphere olurdu 2 gün sürerdi , megadethler, testament'lar dinlerdik, o da yalan oldu. güzel olan ne varsa tükendi anasını sattığımın memleketinde.
 - entry_name: |
     cnn türk ntv habertürk
   entry_id:  69362080
   entry_writer: umberto pelizzari
-  entry_fav_count: 138
+  entry_fav_count: 145
   entry_content: |
     söz konusu miting malum partinin mitingi olsaydı; sabahın erken saatlerinde başlayan, en az 12 saatlik, helikopterden çekilmiş görüntülerle süslenmiş, konuklu monuklu muhteşem bir yayın yaparlardı. <br/><br/>iktidar yalakası, tıynet yoksunu kanallar.
-- entry_name: |
-    ölmek için ideal yaş
-  entry_id:  69344913
-  entry_writer: bgmdnz
-  entry_fav_count: 96
-  entry_content: |
-    anneannem örneği var benim önümde. eskiden "ay şu kızın mezuniyetini göreyim de öyle öleyim" derdi. mezun oldum, "bir işte çalıştığını göreyim öyle öleyim" derdi. iş buldum, 15 senedir çalışıyorum. "evlendiğini göreyim öleyim" derdi. evlendim üstüne boşandım çocuk doğurdum bir de. şimdi de "şu çocukların sırtlarında çantalarıyla okula gittiklerini göreyim de öyle öleyim" diyor. allah daha da uzun ömür versin 82 yaşında benim minnoş. ölümün ideal yaşı yoktur. genci de çok yaşlısı da hep yaşamak ister.
 - entry_name: |
     pitbull köpeklerine sahip çıkamayan kadın
   entry_id:  69361513
   entry_writer: yloibx
-  entry_fav_count: 92
+  entry_fav_count: 99
   entry_content: |
     bir adet köpeklerin doğası bu kadın ne yapacaktı diyen gerizekalı barındıran durum.
-- entry_name: |
-    7 bin suriyeliye vatandaşlık geliyor
-  entry_id:  69355626
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 87
-  entry_content: |
-    sözlükteki veledi zina suriye artıklarının sevindiği olay. o vatandaşlık götünüz girer bir anda, akıllı olun.
 - entry_name: |
     kemal kılıçdaroğlu
   entry_id:  69347476
   entry_writer: dersim niye tunceli
-  entry_fav_count: 84
+  entry_fav_count: 94
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://resimyukle.xyz/resim/Ca7dO">https://resimyukle.xyz/resim/ca7do</a><br/><br/>bu fotoğraf karesi üzerine sayfalarca şey yazabilirim. lakin ben tek bir şey söylemek istiyorum, seninle gurur duyuyorum hemşerim.
-- entry_name: |
-    70 cl'lik jack daniels'in 145 tl olması
-  entry_id:  69359239
-  entry_writer: cagdassca
-  entry_fav_count: 82
-  entry_content: |
-    yanlış hesap. <br/>sen 145'e alıyorsun, o 28.5' e alıyor.<br/>neden onunkini tl'ye çeviriyorsun ki?<br/>aradaki uçurum sandığından daha fazla.
 - entry_name: |
     bursa'da üzerine kaynar su dökülen köpek
   entry_id:  69362078
   entry_writer: okkabuc
-  entry_fav_count: 80
+  entry_fav_count: 94
   entry_content: |
     sonra neymiş efendim köpeksiz sokaklar istiyorlarmış. ulan şerefsiz köpek senin üstüne kaynar su döküyor mu ? bu konularda hiç vicdanlı değilim kimse kusura bakmasın bunu yapan orospu çocuğu önümde can verse gram üzülürsem adam değilim.<br/><br/>iyileşmesini umduğum köpektir. bu tarz haberler o kadar çoğaldı ki uzun zamandır sokakta hep tetikteyim. kedi köpek gördüğüm zaman kötü davranan eden var mı diye gözlemliyorum. bir tanesini görsem işkence yapan kafasını gözünü kıracağım.
 - entry_name: |
-    beşiktaş
-  entry_id:  69347057
-  entry_writer: glide
-  entry_fav_count: 78
+    katar emiri'nin fenerbahçe formasına sponsorluğu
+  entry_id:  69354649
+  entry_writer: srfydn
+  entry_fav_count: 90
   entry_content: |
-    büyük abi siken takım. <br/><br/><a class="b" href="/?q=%c3%a7ok+a%c3%a7%c4%b1k+net">çok açık net</a>.
+    (bkz: <a class="b" href="/?q=fenerbah%c3%a7e+atat%c3%bcrk%27%c3%bcn+izinde+laik+bir+kurumdur">fenerbahçe atatürk'ün izinde laik bir kurumdur</a>)<br/><br/>(bkz: <a class="b" href="/?q=yersen">yersen</a>)<br/><br/>reziller..
+- entry_name: |
+    70 cl'lik jack daniels'in 145 tl olması
+  entry_id:  69359239
+  entry_writer: cagdassca
+  entry_fav_count: 87
+  entry_content: |
+    yanlış hesap. <br/>sen 145'e alıyorsun, o 28.5' e alıyor.<br/>neden onunkini tl'ye çeviriyorsun ki?<br/>aradaki uçurum sandığından daha fazla.
 - entry_name: |
     içki içen insanların ahirette vereceği hesap
   entry_id:  69364969
   entry_writer: haydangeliphuyagidenfuzuli
-  entry_fav_count: 72
+  entry_fav_count: 79
   entry_content: |
     fiyatlar aşağıdaki gibi olup artı hizmet bedeli ile farkılık gösterecek olan hesaptır.<br/>herkes ayağını yorganına göre uzatsın.<br/>hesabı kabartmasın abiler, ablalar...<br/><a class="b" href="/?q=amme+hizmeti">amme hizmeti</a><br/>fasıl rakı<br/><br/>70 cl 82.01 tl<br/>35 cl 43.01 tl<br/><br/>efe yaş üzüm<br/><br/>70 cl fiyatı 88.01 lira<br/>35 cl fiyatı 47.01 lira<br/><br/>efe rakı<br/><br/>100 cl fiyatı : 112.01 tl<br/>70 cl fiyatı 86.02 tl<br/>35 cl fiyatı 46 tl<br/><br/>yeni rakı fiyatı<br/><br/>100 cl 116,002 tl<br/>70 cl fiyatı 88.01 tl<br/>35 cl fiyatı 48.00 tl<br/><br/>tekirdağ rakı<br/><br/>70 cl fiyatı 87.02 tl<br/>35 cl fiyatı 46.00 tl<br/><br/>mercan rakı<br/><br/>70 cl fiyatı 83 tl<br/>35 cl fiyatı 44 tl<br/><br/>burgaz rakı<br/><br/>70 cl 84,50 tl<br/>50 cl 63 tl<br/>35 cl 42,51 tl<br/><br/>ata rakı<br/><br/>70 cl 83.01 tl<br/>35 cl 43.01 tl<br/><br/>rakı turka<br/><br/>70 cl 82.02 tl<br/><br/>bira fiyatları 2017<br/><br/>efes 50 cl 7.00 tl<br/><br/>tuborg 50 cl 7.24<br/><br/>bomonti 50 cl 7,50 tl<br/><br/>carlsberg 50 cl 8,00 tl<br/><br/>skoll bira<br/><br/>100 cl 12.00 tl<br/>150 cl 16,50 tl<br/><br/>marmara biraları<br/><br/>150 cl 16,00 tl<br/><br/>100 cl 11.50 tl<br/><br/>likör fiyatları 2017<br/><br/>disaronno originale 70 cl 89.01 tl<br/><br/>feeney’s ırish cream 75cl 78.01 tl<br/><br/>gancia classica grappa 70 cl 118.02 tl<br/><br/>grand marnier 75 cl 128.01 tl<br/><br/>hare acıbadem likör 50 cl 75.20 tl<br/><br/>hare ahududu likörü 50 cl 70.01 tl<br/><br/>hare çikolatalı mocha kahve aromalı likör 50 cl 70.00 tl<br/><br/>hare karamelli macchiatto kahve aromalı likör 50 cl 70 tl<br/><br/>hare kremalı ve türk kahveli likör 50 cl 70 tl<br/><br/>hare muz likörü 50 cl 70 tl<br/><br/>amarula 70 cl 77 tl<br/><br/>archers 70 cl 66 tl<br/><br/>baileys’ ırish cream 35 cl 66 tl<br/><br/>baileys’ ırish cream 70 cl 86 tl<br/><br/>benedictine 70 cl 91.99 tl<br/><br/>bols blue 70 cl 75.99 tl<br/><br/>campari 70 cl 82.00 tl<br/><br/>cardinal melon 70 cl 84.01 tl<br/><br/>cointreau 100 cl 110.01 tl<br/><br/>cointreau 50 cl 84.00 tl<br/><br/>şampanya fiyatları 2017<br/><br/>kavaklıdere altın köpük 75 cl 75 tl<br/><br/>kavaklıdere inci damlası 75 cl 75 tl<br/><br/>kayra balo 2005 75 cl 85 tl<br/><br/>moet &amp; chandon brut ımperial 75 cl 288 tl<br/><br/>moet &amp; chandon nectar ımperial 75 cl 287 tl<br/><br/>cameo d’oro 75 cl 72.01 tl<br/><br/>cameo rose 2007 75 cl 73 tl<br/><br/>dom perignon 75 cl 123 tl<br/><br/>henkell trocken 70 cl 90 tl<br/><br/>tekila fiyatları 2017<br/><br/>sierra tequila gold 35 cl 70.01 tl<br/><br/>sierra tequila gold 70 cl 130.01 tl<br/><br/>sierra tequila silver 70 cl 140.00 tl<br/><br/>j. cuervo especial 70, 125.01 tl<br/><br/>o. anejo extra 70 , 132.00 tl<br/><br/>o. tequila blanco 35 , 75 tl<br/><br/>olmeca tequila blanco 70 , 134 tl<br/><br/>olmeca tequila gold 70 , 141 tl<br/><br/>vermut fiyatları 2017<br/><br/>martini bianco 75 cl 70 tl<br/><br/>martini extra dry 75 cl 75.00 tl<br/><br/>martini rosso 75 cl 72.00 tl<br/><br/>viski fiyatları 2017<br/><br/>burbon - amerikan viski<br/><br/>bulleit bourbon 70 cl 125 lira<br/><br/>gentleman jack 70 cl 140 lira<br/><br/>jack daniel’s 1 lt 185 tl<br/><br/>jack daniel’s 70 cl 137 tl<br/><br/>jim beam 1 lt 175 tl<br/><br/>jim beam 1.5 lt 240 tl<br/><br/>jim beam(20 cl) 68 tl<br/><br/>jim beam 37,5 cl 78<br/><br/>jim beam 75 cl 125 tl<br/><br/>jim beam black 75 cl 135 tl<br/><br/>malt viskiler<br/><br/>ballantine’s pure malt 70 cl 165 tl<br/><br/>balvenie single malt 12 yıllık 70 cl 310 tl<br/><br/>f.grouse vintage malt 70 cl 140 tl<br/><br/>glenmorangie 10 yıllık 75 cl 320 lira<br/><br/>glennfiddich malt 70 cl 250 tl<br/><br/>lagavulin single malt 16 yıllık 70 cl 350 lira<br/><br/>talisker malt 70 cl 250 tl<br/><br/>the macallan single malt 70 cl 240 lira<br/><br/>scotch viski<br/><br/>ballantine’s 1 lt 155 lira<br/><br/>ballantine’s 35 cl 63 tl<br/><br/>ballantine’s 70 cl 122 tl<br/><br/>ballantine’s 12 yıllık 70 cl 185 lira<br/><br/>canadian club 70 cl 115 tl<br/><br/>canadian mist 70 cl 115 lira<br/><br/>chivas regal 12 yıllık 20cl 100 lira<br/><br/>chivas regal 12 yıllık 3 lt 700 lira<br/><br/>chivas regal 12 yıllık 35 cl 125 lira<br/><br/>chivas regal 12 yıllık 70 cl 170 lira<br/><br/>chivas regal 18 yıllık 70 cl 225 lira<br/><br/>chivas regal 25 yıllık 70 cl 450 lira<br/><br/>cutty sark 70 cl 105 lira<br/><br/>dewar’s white label 75 cl 110 lira<br/><br/>dimple 70 cl 140 lira<br/><br/>famous grouse 20 cl 50 lira<br/><br/>famous grouse 70 cl 135 lira<br/><br/>haig 70 cl 103 tl<br/><br/>jb 1 lt 165 lira<br/><br/>jb 35 cl 60 lira<br/><br/>absinthe fiyatları 2017<br/><br/>absinthe polski<br/><br/>70 cl 351 tl<br/><br/>50 cl 265 tl<br/><br/>cin fiyatları 2017<br/><br/>gordon’s london dry gin 70 cl 66.00 tl<br/><br/>tekel cin 35 cl 38.00 tl<br/><br/>tekel cin 70 cl 60.00 tl<br/><br/>rom fiyatları 2017<br/><br/>havana anejo anos 7 70 , 102 tl<br/><br/>havana anejo blanco 70 , 102 tl<br/><br/>havana anejo reserva 70 , 104 tl<br/><br/>malibu 50 , 101 tl<br/><br/>malibu 70 , 130 tl<br/><br/>bacardi black 70 , 125.01 tl<br/><br/>bacardi carta blanca 70 , 130.01 tl<br/><br/>bacardi oro 70 , 140.01 tl<br/><br/>captain morgan 70 ,100.00 tl
+- entry_name: |
+    beşiktaş
+  entry_id:  69347057
+  entry_writer: glide
+  entry_fav_count: 79
+  entry_content: |
+    büyük abi siken takım. <br/><br/><a class="b" href="/?q=%c3%a7ok+a%c3%a7%c4%b1k+net">çok açık net</a>.
 - entry_name: |
     hamile bıraktığı kıza nikah kıymayan erkek
   entry_id:  69363989
   entry_writer: imaminsakali
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     erkek, masum kızı ayartıp mı? ahahahahahahahah <br/>(bkz: <a class="b" href="/?q=%c3%a7ocu%c4%9funu+evlilik+sigortas%c4%b1+gibi+g%c3%b6ren+kad%c4%b1n">çocuğunu evlilik sigortası gibi gören kadın</a>)
 - entry_name: |
     trt haber
   entry_id:  69362768
   entry_writer: 07150103454391410726324100634059
-  entry_fav_count: 52
+  entry_fav_count: 56
   entry_content: |
     başındaki t'yi acilen kaldırması gereken yayın şeysi
 - entry_name: |
     tecavüze uğrayan suriyeli kadının kocası
   entry_id:  69357035
   entry_writer: h r
-  entry_fav_count: 47
+  entry_fav_count: 48
   entry_content: |
     bu olayı tecavüzcülerin lehine bir zerre dahi olsa, bilinçli ya da bilinçsiz, gizli ya da açık, doğrudan veya dolaylı meşrulaştırmaya çalışan herhangi biri ne sağcı, ne solcu, ne dindar, ne seküler ne şu ne budur, insan değildir insan. içi küflenmiş, çürümüş, yozlaşmış ve tüm canlılardan ve cansızlardan aşağı dereceye inmiş bir yaşam formudur.<br/><br/>tanım: empati kurmaya çalıştıkça cinnet getirmeye yaklaştığım adamdır. ben bu haldeysem, o ne haldedir siz düşünün.
+- entry_name: |
+    çeşme zio beach'de 220 liraya satılan burger
+  entry_id:  69366167
+  entry_writer: one punch man
+  entry_fav_count: 47
+  entry_content: |
+    reklamı yapan popişçik "maliyeti düşünüldüğünde pek kazançlı bir yanı yok bence onlar için ama olayın pr ve lezzet değeri oldukça yüksek" demiş.<br/>aynen kanka zararına satıyorlar ya. sırf zarar yazıyo bu biiçler hep biliyo musun? hatta o kadar zarar yazıyorlar ki <a class="b" href="/?q=svihs">svihs</a>.
 - entry_name: |
     wesley sneijder
   entry_id:  69365389
   entry_writer: yokoluscu hedonistik pesimist
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     galatasaray taraftarı olarak pezevenklerin elinden kurtardığımız 10 numeromuz.
 - entry_name: |
     filippo inzaghi
   entry_id:  69360732
   entry_writer: fuchs3471
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     alex ferguson'a göre annesi onu ofsayt çizgisinde doğurmuş. gerçekten de attığı her gol ofsayt tartışmasına açıktır ama "ofsayt lan" dediğiniz pozisyonun tekrarında görürsünüz ki inzaghi hep birkaç cm geridedir. işi sadece gol atmak olan forvetlerin şahı değil şahbazıdır. futbol hayatındaki tek sıkıntılı yanı ise eğreti gol sevinçleridir. maç 5-0 olmuş, inzaghi skoru 6-0 yapan golü atar, sanırsın ki ilhan mansız'ın senegal'e attığı altın golü atmış.
 - entry_name: |
@@ -164,19 +164,12 @@ data:
   entry_content: |
     akp mitingi olursa 2 milyon<br/>chp mitingi olursa 87.000<br/><br/>işte adalet.
 - entry_name: |
-    çeşme zio beach'de 220 liraya satılan burger
-  entry_id:  69366167
-  entry_writer: one punch man
-  entry_fav_count: 33
+    troll başlıklarına entry girmeyelim kampanyası
+  entry_id:  69364548
+  entry_writer: adet adet insan
+  entry_fav_count: 28
   entry_content: |
-    reklamı yapan popişçik "maliyeti düşünüldüğünde pek kazançlı bir yanı yok bence onlar için ama olayın pr ve lezzet değeri oldukça yüksek" demiş.<br/>aynen kanka zararına satıyorlar ya. sırf zarar yazıyo bu biiçler hep biliyo musun? hatta o kadar zarar yazıyorlar ki <a class="b" href="/?q=svihs">svihs</a>.
-- entry_name: |
-    beren saat
-  entry_id:  69365846
-  entry_writer: tekamacozgurluk
-  entry_fav_count: 29
-  entry_content: |
-    analarının hamamda bulup gelin diye kendisine dayattığının dışında kimseyle öpüşüp sevişme şansı olmayan, babaları höt dese altına sıçacak kadar ödlek ama eş diye kendine köle sunulan garibana 'erkek' kesilebilen karaktersizlerin saldırdığı genç kadın <br/><br/>siyasi duruşa karşı cinsiyetçi ve yobaz bir saldırı da ancak bu karaktersizlerden beklenir, ya ne olacağıdı
+    hatırlanması gereken kampanya. malum, aktroller bugünlerde fazla mesai yapıyor, adam bombayı salıp kaçıyor ve pat 10 dakika geçmeden gündemde. cevap vermeseniz eriyip gidecek. beğeni alma sevdasına ayar verme sırasına giriliyor. <br/><br/>(bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)
 - entry_name: |
     kilo vermek isteyenlere tavsiyeler
   entry_id:  69345092
@@ -188,16 +181,30 @@ data:
     yapınca iyi hissettiren anlamsız şeyler
   entry_id:  69344979
   entry_writer: impossible solution
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     çekirdekleri biriktirip bir anda çiğnemek.
 - entry_name: |
-    troll başlıklarına entry girmeyelim kampanyası
-  entry_id:  69364548
-  entry_writer: adet adet insan
-  entry_fav_count: 19
+    öğretmen kalitesinin artması için çözüm önerileri
+  entry_id:  69352562
+  entry_writer: sonsuz sevgilerimle
+  entry_fav_count: 22
   entry_content: |
-    hatırlanması gereken kampanya. malum, aktroller bugünlerde fazla mesai yapıyor, adam bombayı salıp kaçıyor ve pat 10 dakika geçmeden gündemde. cevap vermeseniz eriyip gidecek. beğeni alma sevdasına ayar verme sırasına giriliyor. <br/><br/>(bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)
+    finlandiya'yı kopyalamak hakkında ben birkaç söz edebilecek kişiyim: <br/>finlandiya'lı, hollanda'lı ve ingiliz eğitimcilerle çalıştık. bu çalışmalar sırasında türklerin büyük bir kısmı aynı şeyi istiyordu: kopyalamak. 'sizdeki neyse aynısını biz de alalım. zaten başarılı olmuş bir sistem, uygulayalım.' diyorlardı. tüm yabancı danışmanlar türklerin bu fikrine şaşıyorlardı. 'sizin ülkeniz çok farklı, öğrenci, veli, öğretmen, idareci algınız bizimkiyle benzeşmiyor.' (örneğin batıda torpil yok. öğretmenin yaptıklarını değerlendirmek müdürün görevleri arasında. herkes yalnızca çalışması ve iletişimi ile değerlendiriliyor. bizde nasıl olur sizce?) <br/>aslında finlandiya'yı kopyalayalım diyen arkadaş türkiye'yi çok iyi özetlemiş. <br/>kopya. <br/>karşılaştığı zorlukları kendi şartlarının gerektirdiği becerilerle, yaratıcı yollar kullanarak çözmek yerine başkasında olanı uygulamak istiyor. <br/>'yaratıcı' sözcüğünün bile dehşet uyandırdığı üniversite mezunu insanlar var bu ülkede. 'yaratma' fiilinin allah'a mahsus olduğunu düşünmek dinî bir arka plandan kaynaklanmıyor bence. toplumsal yapının insanları ittiği bir kalıp bu. yaratmak için sorgulamak gerekir. var olandan şüphelenmek, hatalar olduğunu dile getirmek gerekir. soru sormak gerekir. örneğin çocuğuyla 'baş edemeyen' bir anne baba, zıvanadan çıktıklarında onu dövüyorlarsa, suçu tümüyle onun yaramazlığına bağlamalarını sorgulamanızdan hoşlanmazlar. suçlu çocuktur. dayağı hak etmiştir. yaramazlık yapmasındır. çocuk yetiştirme ile ilgili yazılan binlerci kitap, yüz binlerce makale çöptür. çünkü, ne kadar okurlarsa okusunlar annelerinden babalarından gördüklerini yapmak zorunda kalmaktadırlar. çünkü büyüklerimiz her şeyin doğrusunu bilir. okumaya en açık kesimin anne babaları bile bu düzeyde durur. onlara, eğitimle ilgili kaçıncı kitabı, makaleyi okuduktan sonra vazgeçtiklerini sorarsanız bu sorunuz da hoşlarına gitmez. çünkü 5. kitapta bu işin kitaplarla olmayacağına, kitapların yeterli desteği vermediğine ikna olmuşlardır. makale konusuna hiç girmiyorum. türkiye'de makale okumak şu anda, akademisyenler hariç, benim rastladığım bir eylem değil. <br/>okuduğu her kitaptan reçete gibi doğrudan öneri bekleyen, kendi durumuna uygulamak için düşünüp, çocuğu ve arkadaşlarıyla tartışıp (tartmaktan gelen bir sözcük), uyguladıkça hataların nereden kaynaklandığına kafa yorup, yenilenmesi gerekecek o anne babanın. <br/>kim yapacak tüm bunları? televizyon, diziler, instagram, ev işleri, alışveriş merkezleri, oturup kahve falı bakmalar, dedikodular, maç seyretmeler vs. zamanlarını aldığı için değil, öğrenmekten tat almadıkları, hata yapmaktan ölesiye korkutuldukları için kaçıyorlar <a class="b" href="/?q=yaratmak">yaratmak</a>tan. daha kötüsü, kendileri de çocuklarını yaratmaktan, sorgulamaktan, düşünmekten korkutuyorlar. başarılı olsun diye zorla kitap okutuyorlar. başarılı olsun, yani sınavlarda yüksek not alsın. gelişsin, gülümsesin, mutlu olsun, kahkaha atsın, bilinmez karşısında acizliğini hissedip öfkeden ağlasın diye değil; sınavlarda yüksek not alsın diye. şu anki türkiye'deki tek ölçüt. bu yüzden <a class="b" href="/?q=pisa">pisa</a> sınavında alınan dereceden bu kadar rahatsız olunuyor. orada bir not var. ve türkiye sıralamada çok gerilerde kalıyor. <br/><br/>finlandiya'dan kopyalayalım diyen arkadaşın bize önerdiği kolaycılığı reddetmek küçük bir değişiklikle mümkün. <br/>ama insan hayatında yapacağı en küçük değişiklikle bile büyük <a class="b" href="/?q=anksiyete">anksiyete</a> (<a class="b" href="/?q=kayg%c4%b1">kaygı</a>) duyabilen bir varlık. bilinmezin oluşturduğu kaygıyla nasıl baş edeceğine dair bizim batımızdaki ve biraz uzağımızda kalan doğumuzdaki ülkeler çok miktarda çalışma yapıyor. değişime direnen koruyucu (muhafazakar) yanımızla, değişime ihtiyaç duyan yanımız arasındaki gerilim bizi yaratıcı kılar. çocuğunu dövmemek için eline tablet tutturan anne babaların sandığından çok daha zevklidir (bkz. <a class="b" href="/?q=dopamin">dopamin</a>, <a class="b" href="/?q=endorfin">endorfin</a>, <a class="b" href="/?q=serotonin">serotonin</a>) problem çözmek. geometride açıları öğrenirken, babasının bakış açısından dünyaya bakmayı denemek. anlamaya çalışmak. zevki sadece cinselliğe hapsetmekle kopya çekmenin yaygınlığı arasındaki bağlantıyı kurabilmek.<br/><br/>öğretmen kalitesinin arttırılması ile ilgili çözüm önermek ise benim haddimi çok aşan bir konu.<br/><br/>edit: anlatım bozukluğu.
+- entry_name: |
+    ofsaytı tek cümleyle açıkıyoruz
+  entry_id:  69365737
+  entry_writer: konu disi yazar
+  entry_fav_count: 22
+  entry_content: |
+    özetle:<br/><br/>sizin forvet oyuncunuz, rakip kalenin dibinde uzun atılacak topları alıp beleş gol beklemesin diye konulmuş bir kuraldır.<br/><br/>bu mantığı verdikten sonra anlatması çok daha kolay olacaktır.
+- entry_name: |
+    iyi olmak için yaratıcıya ihtiyacım yok safsatası
+  entry_id:  69365661
+  entry_writer: alseloz
+  entry_fav_count: 18
+  entry_content: |
+    yaratıcı iyi olmanı istemiyor, itaat etmeni istiyor, aksi takdirde savaşlarda kadınları ganimet diye almana onay çıkmazdı.<br/><br/>buraya gelip zırvalamaya gerek yok, öldükten sonra bilmem kaç huriyi ödül olarak görmek '' ben iyiyim'' mottosuna ters bir kere.<br/><br/>iyi insan iyidir, kötü insan kötü, bunun dinle alakası yok.<br/><br/>kendi inancınıza onay istiyorsunuz alakasız bir şekilde.<br/><br/>hayır şuraya yaptıgınız iyilikler nedir diye sorsak adam akıllı 3 tane cevap yazamayacaksınız , vır vır vır.
 - entry_name: |
     7 temmuz 2017 kelime oyunu rezaleti
   entry_id:  69356272
@@ -206,12 +213,12 @@ data:
   entry_content: |
     tabu oynayan dört kişilik bir aile formatına sahip zihnimizi eğlendiren bu programa böyle hırslı ve kıskanç bir algıyla yaklaşmak haksızlıktır her şeyden önce. ekran yarışmalarının o katı ve baskılayıcı kurallarını bünyesinden tamamen ayıklayıp yarışmacı konuklarını ve seyircilerini o yıpratıcı rekabet dürtüsünden uzak tutarak onları hırsa hiç bulaştırmadan sadece akıl jimnastiği yaptırırken keyif aldırmayı amaçlayan başarılı ve yetenekli bir sunucuyla da tadından yenmeyen bir hale gelmiş bu nesilleri hızla tükenmekte olan nezih tv programları için rezalet yakıştırması yapan bir karakterde ben art niyet ararım, iyi niyet yahut adalet-hak arayışı değil. kelime oyununa bu eleştiri yazısını yazan çok ayıp etmiş gerçekten.
 - entry_name: |
-    ofsaytı tek cümleyle açıkıyoruz
-  entry_id:  69365737
-  entry_writer: konu disi yazar
+    selahattin demirtaş bir teröristtir
+  entry_id:  69344709
+  entry_writer: cafe racer
   entry_fav_count: 17
   entry_content: |
-    özetle:<br/><br/>sizin forvet oyuncunuz, rakip kalenin dibinde uzun atılacak topları alıp beleş gol beklemesin diye konulmuş bir kuraldır.<br/><br/>bu mantığı verdikten sonra anlatması çok daha kolay olacaktır.
+    çözüm sürecini babam, kandil ve imralı ile yürüten projeden başkan beyanı. dehşetengiz dili, nefreti terörün on yılda getiremediği noktaya getirebilir hepimizi. milli orduya fetö ile kumpas kurup, pkk ve apo flamalarını serbest bırakan çomarlar doğruya doğru yazmışlar çok yerde. kimi kürdo faşiklerse konuyu kemalizme bağlamışlar. ne ilginç. her iki çomar tipinin en büyük korkuları hala kemalizm.
 - entry_name: |
     selçuk inan
   entry_id:  69348065
@@ -220,19 +227,26 @@ data:
   entry_content: |
     bugüne kadar hiç bir galatasaraylı oyuncudan bu denli nefret etmediğim zararlı..<br/><br/>burayı okuyorsa kendisinden tek ricam var. defol git.seni görmek istemiyorum. benim gibi düşünen binlerce insan var. bizi takımdan soğuttun.. yeter, yeter, yeter.<br/><br/>edit:<sup class="ab"><a title="(bkz: anlatım bozukluğu)" href="/?q=anlat%c4%b1m+bozuklu%c4%9fu" data-query="anlatım bozukluğu">*</a></sup>
 - entry_name: |
-    iyi olmak için yaratıcıya ihtiyacım yok safsatası
-  entry_id:  69365661
-  entry_writer: alseloz
-  entry_fav_count: 16
+    sarhoşken duş almak
+  entry_id:  69365705
+  entry_writer: biseybuldum
+  entry_fav_count: 14
   entry_content: |
-    yaratıcı iyi olmanı istemiyor, itaat etmeni istiyor, aksi takdirde savaşlarda kadınları ganimet diye almana onay çıkmazdı.<br/><br/>buraya gelip zırvalamaya gerek yok, öldükten sonra bilmem kaç huriyi ödül olarak görmek '' ben iyiyim'' mottosuna ters bir kere.<br/><br/>iyi insan iyidir, kötü insan kötü, bunun dinle alakası yok.<br/><br/>kendi inancınıza onay istiyorsunuz alakasız bir şekilde.<br/><br/>hayır şuraya yaptıgınız iyilikler nedir diye sorsak adam akıllı 3 tane cevap yazamayacaksınız , vır vır vır.
+    geçen gece yine bunu yapayım dedim, duşta sızmışım. <br/><br/>böyle yazınca çok acıklı oldu ama bence fena değildi. gece 4 gibi otele geldik işte, sonra bunalıp duş almaya karar verdim ki ben bunalmasam da duş alırım. duş almak benim için bir hobidir. suyu üstten akıtıp "ulan dur şuraya az oturayım kafama vursun ayılırım" diye düşündüğümü hatırlıyorum, hatta suyu en soğuğa getirdim bunun için. <br/><br/>işte gerisi yok. sabah arkadaşım tuvalete girmese ben günlerce duşta uyuyacaktım sanırım. hayır bir de ilk girdiğinde orada uyuduğumu anlamamış, yarım saat sonra benden ses gelmeyince uyandırdı. kıvrılmış yerde yatıyorum lan nasıl anlamazsın? <br/><br/>neyse ama güzeldi. cidden çok dinç uyandım, uzun süredir uykusuzdum, 4 saat duşta soğuk suyun altında kalınca bi enerji geldi bütün gün ordan oraya zıpladım. şimdi biraz hasta olacak gibiyim ama olsun. size bunu öneriyor muyum, önermiyor muyum bilemedim. ne yaparsanız yapın kaç yaşında insanlarsınız yani.
 - entry_name: |
     ruh hali bozuk yazarlar
   entry_id:  69360748
   entry_writer: oylmz
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     ruh halim bozuk diyebilen kişinin, diyemeyenden daha sağlıklı olduğu gerçeğini bilen yazarlardır.
+- entry_name: |
+    maltepe diye yenikapı resmi paylaşan milletvekili
+  entry_id:  69366224
+  entry_writer: emanual
+  entry_fav_count: 14
+  entry_content: |
+    aynısını başka parti yapmış olsa, ne üçkağıtçılığı kalırdı, ne salaklığı ama chp yapınca paylaşan "aktroll" oluyor öyle mi? <br/><br/>paylaşan şahıslar da hiç mi dikkat etmemişler, koskoca erdoğan afişine?
 - entry_name: |
     cumali ceber
   entry_id:  69346455
@@ -241,12 +255,33 @@ data:
   entry_content: |
     bizzat gizli patron şahan gökbakar tarafından, recep ivediğin çıtasını yükseltsin diye çekildiğini düşündüğüm film.<br/><br/>ne de olsa; körlerin ülkesinde tek gözlü olan kral olur.
 - entry_name: |
+    yazılacak kitabın ilk cümlesi
+  entry_id:  69365158
+  entry_writer: ne b ne t ne s
+  entry_fav_count: 11
+  entry_content: |
+    ben aslında tiyatro oyuncusuyum, şimdi size hayatım boyunca oynadığım oyunu anlatacağım.
+- entry_name: |
+    9 temmuz 2017 yökdil sınavı
+  entry_id:  69356381
+  entry_writer: baygu
+  entry_fav_count: 11
+  entry_content: |
+    oldukça abartılan sınav.<br/><br/>tabii burası bir internet sitesi, bir nickin arkasına saklanıp istediğiniz şeyi istediğiniz gibi sallıyorsunuz. yok kapalıçarşı'dan çırak getirsen 80 alırmış, yok tarihin en kolay sınavıymış falan. aynı kişiler sonuçlar açıklandıktan sonra da buraya gelip 95 aldım, bence 90 altı alan ingilizce bilmiyor, 98 aldım, 100 aldım diye sallayacaklar. <br/><br/>ama açıp ilk sınavın (yökdil sosyal bilimler) istatistiklerine bakıyorum; toplam 38 bin adayın 15.500'ü baraj altı (0-49) kalmış. 90 ve üzeri alan 2500 kişi. şu olasılığa bakın ki hepsi de ekşi sözlük yazarı zaar. <br/><br/>yökdil normal bir sınavdır. yds'nin aşırı derecede zor bir sınav olması bu gerçeği değiştirmez. en son 15. yüzyılda kullanılan kelimeleri ezberlemekten ingilizce'nin ne olduğunu unutmuşsunuz.
+- entry_name: |
     gökhan töre
   entry_id:  69363118
   entry_writer: aler
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     doktorluğu bile şüpheli olan ertuğrul karanlık ile çalışmaya devam etsin. akılsız herif.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  69345856
+  entry_writer: hyht
+  entry_fav_count: 7
+  entry_content: |
+    bugün benim doğum günüm. ama yalnizim ve canım sıkıldı. <br/>yeni birileri ile tanışmak güzel olabilirdi. huh? olmaz mı?
 - entry_name: |
     ekşi itiraf
   entry_id:  69350821
@@ -255,89 +290,54 @@ data:
   entry_content: |
     keşke artık bikaç ay önce ortak kullandığımız spotify hesabının şifresini değişsen. değişsen de ben esip esip giremesem.<br/><br/>keşke ilk kez benim sana dinlettiğim çok sevdiğim dediğim şarkılarımı bulup bulup çalma listene artık eklemesen.<br/><br/>keşke o çalma listesini beni aldattığın o aşüfte takip etmese. <br/><br/>onlar benim masum şarkılarımdı lan. onları bile kirletmeye hakkınız yoktu orospu çocukları.
 - entry_name: |
-    yazılacak kitabın ilk cümlesi
-  entry_id:  69366119
-  entry_writer: olsun bu da iyidir
-  entry_fav_count: 6
+    tour de france 2017
+  entry_id:  69362285
+  entry_writer: zeddicus zu l zorander
+  entry_fav_count: 5
   entry_content: |
-    "hikayemin tek tanığı benim."
-- entry_name: |
-    maltepe diye yenikapı resmi paylaşan milletvekili
-  entry_id:  69365783
-  entry_writer: blaszczykowski
-  entry_fav_count: 6
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ahahahha">ahahahha</a>)<br/><br/>bi de <a class="b" href="/?q=off+off">off off</a> yazmış.
+    edit: <a class="b" href="/?q=arnaud+demare">arnaud demare</a> ve domestikleri zaman limiti dışında kaldıklarından dolayı turdan diskalifiye edildi. demare, mickael delage, jacopo guarnieri ve ignatas konovalovas'ın başını yedi. trentin, renshaw, abi sagan, zaman limiti dışında kalan diğer isimler. güne 193 bisikletçi ile başladık, geriye 181 bisikletçi kaldı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sarpergunsal/status/884077204614893568" title="https://twitter.com/sarpergunsal/status/884077204614893568">https://twitter.com/…nsal/status/884077204614893568</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/lagruppa/status/884080786160447490" title="https://twitter.com/lagruppa/status/884080786160447490">https://twitter.com/…uppa/status/884080786160447490</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DAvz-w7W0AARWTt.jpg" title="https://pbs.twimg.com/media/DAvz-w7W0AARWTt.jpg">9. etabı</a>, yani 181.5 km'lik <a class="b" href="/?q=nantua">nantua</a> &gt; <a class="b" href="/?q=chambery">chambery</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESHdLaXgAIWjqX.jpg" title="https://pbs.twimg.com/media/DESHdLaXgAIWjqX.jpg">etabını</a> <a class="b" href="/?q=rigoberto+uran">rigoberto uran</a> kazandı. <a class="b" href="/?q=warren+barguil">warren barguil</a> kazandım diye yumruğunu salladı, adam sevinçten ağlamaya başladı ama fotofinişte uran'a verdiler. fransa bisiklet turu tarihinde etap alan 11. kolombiyalı oldu. ilk büyük tur etap galibiyeti. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=THgt9fh934M">https://www.youtube.com/watch?v=thgt9fh934m</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=lwRw8XQWqSI">https://www.youtube.com/watch?v=lwrw8xqwqsi</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETWsThXUAIN5Ro.jpg">https://pbs.twimg.com/media/detwsthxuain5ro.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETVq2UWsAAbmQp.jpg">https://pbs.twimg.com/media/detvq2uwsaabmqp.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETZmjhXgAAarEO.jpg">https://pbs.twimg.com/media/detzmjhxgaaareo.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/LeTour/status/884067349892149248" title="https://twitter.com/LeTour/status/884067349892149248">https://twitter.com/…tour/status/884067349892149248</a><br/><br/>günün en karlı adamı froome oldu. 3. olarak 4 bonus saniyeyi kaptı. herkes aptal gibi ona çalıştı. porte'un kazası sonrası, bardet inişte farkı açtı, barguil'i yakaladı ve geçti, etabı almaya gidiyordu ama froome, diğerlerine hadi çalışın dedi. diğerleri enayi gibi çalıştı, bardet'yi yakaladılar, sprintte kendisini 3. sıraya attı ve 4 bonus saniyeyi aldı. yalnız eski halinde oldukça uzak. geçen seneki formunda olsaydı herkesi tek tek indirirdi o son tırmanışta. eğer bu turun sonunda şampiyon olursa rakiplerinin büyük enayiliği ve takımı sayesinde olacak. sağ kolu geraint thomas olmadan artık işi biraz daha zor. aru, enayice işler yaptı ama nefesi froome'un ensesinde. biraz daha akıllıca yarışırsa kürsünün en tepesine çıkabilir. <br/><br/>son tırmanışın inişinde <a class="b" href="/?q=richie+porte">richie porte</a>, çok kötü bir kaza yaptı. umarım durumu iyidir. kazası nedeniyle dan martin de düştü. hep yazıyorum, bu adamın cenabetliği hep vardır, başına sürekli iş gelir ama bu, bugüne kadar başına gelen en kötü olaydı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=r4pLRG3YGC8">https://www.youtube.com/watch?v=r4plrg3ygc8</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884059992529227781" title="https://twitter.com/Alpe__dHuez/status/884059992529227781">https://twitter.com/…huez/status/884059992529227781</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cyclingnieuws1/status/884062020861079553" title="https://twitter.com/cyclingnieuws1/status/884062020861079553">https://twitter.com/…uws1/status/884062020861079553</a><br/><br/><a class="b" href="/?q=dan+martin">dan martin</a>'in kaskı. adam o kazadan sonra kalktı, gitti, etabı bitirdi. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETaBL2XUAAP3l3.jpg">https://pbs.twimg.com/media/detabl2xuaap3l3.jpg</a><br/><br/>amma dramatik etap oldu, yoruldum. sonucu adam gibi açıklayamadılar bile. ag2r'nin hem kaçışta, hem pelotonda tempo yapması, geraint thomas'ın kazası ve abandonesi, <a class="b" href="/?q=mont+du+chat">mont du chat</a> zirvesinde froome'un yaşadığı teknik sorun sırasında aru'nun ve diğerlerinin kaçması, sonradan froome'u beklemeleri, inişte porte ve dan martin'in yaşadığı kaza, düzlükte uran'ın yaşadığı teknik sorun, farkı açan bardet'yi yakalamaları, sprintte barguil'in kazandığını sanması ve etabın uran'a gitmesi, froome'un 4 ayak üstüne düşmesi... offf of, ne etaptı. <br/><br/>nairo, günün en büyük kaybedenlerinden biri oldu. son kategori dışı çıkışta favori isimlerin ataklarına karşılık verdi ama froome'un atağı sonrası geride kaldı, inişte farkı kapatamadı ve genel klasmandan iyice uzaklaştı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETWcq-XsAA8dYz.jpg" title="https://pbs.twimg.com/media/DETWcq-XsAA8dYz.jpg">etap klasmanı</a><br/>1 rigoberto uran (col) cannondale-drapac 05:07:22<br/>2 warren barguil (fra) team sunweb 00:00:00<br/>3 christopher froome (gbr) team sky 00:00:00<br/>4 romain bardet (fra) ag2r la mondiale 00:00:00<br/>5 fabio aru (ıta) astana pro team 00:00:00<br/>6 jakob fuglsang (den) astana pro team 00:00:00<br/>7 george bennett (nzl) team lottonl-jumbo 00:01:15<br/>8 mikel landa (spa) team sky 00:01:15<br/>9 daniel martin (ırl) quick-step floors 00:01:15<br/>10 nairo quintana (col) movistar team 00:01:15<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETW3yDXgAMzbIY.jpg" title="https://pbs.twimg.com/media/DETW3yDXgAMzbIY.jpg">genel klasman</a><br/>1 christopher froome (gbr) team sky 38:26:28<br/>2 fabio aru (ıta) astana pro team 00:00:18<br/>3 romain bardet (fra) ag2r la mondiale 00:00:51<br/>4 rigoberto uran (col) cannondale-drapac 00:00:55<br/>5 jakob fuglsang (den) astana pro team 00:01:37<br/>6 daniel martin (ırl) quick-step floors 00:01:44<br/>7 simon yates (gbr) orica-scott 00:02:02<br/>8 nairo quintana (col) movistar team 00:02:13<br/>9 mikel landa (spa) team sky 00:03:06<br/>10 george bennett (nzl) team lottonl-jumbo 00:03:53<br/><br/>warren barguil, en azından kırmızı benekli mayoyu giydi. adamın yaşadıklarını düşününce, biraz olsun teselli oldu.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/berkemceylan/status/884071889597075457" title="https://twitter.com/berkemceylan/status/884071889597075457">https://twitter.com/…ylan/status/884071889597075457</a><br/><br/>************************************************************************************<br/>193 bisikletçi etaba başladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESNAkKWsAQOECx.jpg">https://pbs.twimg.com/media/desnakkwsaqoecx.jpg</a><br/><br/>bayrak sallandı ve 2. kategoriden <a class="b" href="/?q=c%c3%b4te+des+neyrolles">côte des neyrolles</a> (3.2 km uzunluk, %7.2 ortalama eğim) tırmanışına kaçışlar başladı. tim wellens, atak yaptı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESPiirXUAArErS.jpg">https://pbs.twimg.com/media/despiirxuaarers.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/LeTour/status/883990296450793473" title="https://twitter.com/LeTour/status/883990296450793473">https://twitter.com/…tour/status/883990296450793473</a><br/><br/>demare, hemen kendisini geriye bıraktı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESPcfSXkAA8LiX.jpg">https://pbs.twimg.com/media/despcfsxkaa8lix.jpg</a><br/><br/>pinot, pelotondan kaçtı ve 178.3 km kala wellens'in arkasına geldi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESQzfdXUAAy-Xj.jpg">https://pbs.twimg.com/media/desqzfdxuaay-xj.jpg</a><br/><br/>hava kapalı, biraz yağmur var gibi.<br/><br/>pinot, atağa başladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESRFhlWsAAyouP.jpg">https://pbs.twimg.com/media/desrfhlwsaayoup.jpg</a><br/><br/>178 km kala zirveden geçen ilk isim pinot oldu ve 5 puanı aldı. tim wellens, 3, bauke mollema, 2 ve warren barguil, 1 puan aldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESRGf7XgAAQYPX.jpg">https://pbs.twimg.com/media/desrgf7xgaaqypx.jpg</a><br/><br/>kaza oldu. manuele mori (uae), robert gesink (lotto-jumbo) ve angelo tulik (direct energie), kazaya karıştı. manuele mori, acı içinde yerde bağırıyor. çok kötü.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/NBCSNCycling/status/883996608857288704" title="https://twitter.com/NBCSNCycling/status/883996608857288704">https://twitter.com/…ling/status/883996608857288704</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESR3irWsAETPNY.jpg">https://pbs.twimg.com/media/desr3irwsaetpny.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESTTt_XgAAH7T_.jpg">https://pbs.twimg.com/media/desttt_xgaah7t_.jpg</a><br/><br/>176 km kala 40 kadar bisikletçi önde. pantano, mollema, betancur, pinot, voeckler, gallopin, barguil, van baarle, de marchi gibi bazı isimler önde.<br/><br/>175 km kala 3. kategoriden <a class="b" href="/?q=col+de+b%c3%a9rentin">col de bérentin</a> (4.1 km uzunluk, %6.1 ortalama eğim) tırmanışına kaçış başladı.<br/><br/>dünün 2.'si robert gesink ile manuele mori'nin abandone olduğu haberi geldi.<br/><br/>şahane yerlerden çıkılıyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESUWslVwAAzsIr.jpg">https://pbs.twimg.com/media/desuwslvwaazsir.jpg</a><br/><br/>170.6 km kala zirveden ilk sırada yine pinot geçti ve 2 puanı aldı. de gendt, 1 puanı aldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESUoRcWAAEFBZV.jpg">https://pbs.twimg.com/media/desuorcwaaefbzv.jpg</a><br/><br/>lider grup<br/>ten dam, geschke, barguil, arndt, matthews (sunweb), benoot, gallopin, wellens (lotto soudal), bakelants, domont, vuillermoz (ag2r la mondiale), feillu, pichon, sepulveda (fortuneo), betancur, herrada (movistar), mollema, pantano (trek-segafredo), rolland, van baarle (cannondale), de marchi, moinard (bmc), voeckler, chavanel (direct energie), edet, navarro (cofidis), kiserlovski, machado (katusha-alpecin), kozhatayev, lutsenko (astana), laengen, durasek (uae), pinot (fdj), roglic (lottonl-jumbo), moreno (bahrain-merida), stybar (quick-step), poljanski (bora-hansgrohe), albasini (orica-scott).<br/><br/>160 km kala fark 1.56 dk.<br/><br/>151 km kala fark 2.13 dk.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESZr-lXgAAgZjB.jpg">https://pbs.twimg.com/media/deszr-lxgaagzjb.jpg</a><br/><br/>henao, tekerlek değiştirdi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESa8x3W0AASfjI.jpg">https://pbs.twimg.com/media/desa8x3w0aasfji.jpg</a><br/><br/>3. kategoriden <a class="b" href="/?q=c%c3%b4te+de+franclens">côte de franclens</a> (2.4 km uzunluk, %6 ortalama eğim) tırmanışına başlandı.<br/><br/>sepulveda, kaçışta grubunda bir kaza yapmış.<br/><br/>feillu, laengen, domont ve voeckler, lider gruptan geriye düşen isimler.<br/><br/>143 km kala zirveden ilk sırada geçen de gendt, 2 puanı aldı. alexey lutsenko, 1 puanı aldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DEScQouW0AAI3yg.jpg">https://pbs.twimg.com/media/descqouw0aai3yg.jpg</a><br/><br/>140 km kala kaza yapan sepulveda, pelotona geri döndü. <br/><br/>feillu, laengen, domont ve voeckler, takipte.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESdu1gW0AAlzRp.jpg">https://pbs.twimg.com/media/desdu1gw0aalzrp.jpg</a><br/><br/>137 km kala 4'lü takip, lider grubu yakaladı.<br/><br/>39 kişilik kaçış grubu: <br/>jan bakelants, axel domont, alexis vuillermoz (ag2r-la mondiale), <br/>jesus herrada, carlos betancur (movistar), <br/>bauke mollema, jarlinson pantano (trek-segafredo), <br/>alessandro de marchi, amael moinard (bmc), <br/>bakhtiar kozhatayev, alexey lutsenko (astana), <br/>thibaut pinot (fdj), <br/>michael matthews, nikias arndt, warren barguil, simon geschke, laurens ten dam (sunweb), <br/>tiejs benoot, thomas de gendt, tony gallopin, tim wellens (lotto-soudal), <br/>kristjian durasek, vegard stake laengen (uae), <br/>michael albasini (orica-scott), <br/>zdenek stybar (quick-step floors), <br/>pawel poljanski (bora-hansgrohe), <br/>robert kiserlovski, tiago machado (katusha-alpecin), <br/>nicolas edet, dani navarro (cofidis), <br/>primoz roglic (lottonl-jumbo), <br/>thomas voeckler, sylvain chavanel (direct energie), <br/>pierre rolland, dylan van baarle (cannondale-drapac), <br/>tsgabu grmay, javier moreno (bahrain-merida), <br/>brice feillu, pierre-luc périchon (fortuneo-oscaro)<br/><br/>123.8 km kala <a class="b" href="/?q=hors+category">hors category</a> 'den <a class="b" href="/?q=col+de+la+biche">col de la biche</a> (1316 m yükseklik, 10.5 km uzunluk, %9 ortalama eğim) tırmanışına kaçış grubu başladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mundociclistico/status/884010069821706240" title="https://twitter.com/mundociclistico/status/884010069821706240">https://twitter.com/…tico/status/884010069821706240</a><br/><br/>120.2 km kala thomas de gendt, geriye düştü.<br/><br/>kittel, geriye düşüyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESmbfhXYAAq7RF.jpg">https://pbs.twimg.com/media/desmbfhxyaaq7rf.jpg</a><br/><br/>118.2 km kala zdenek stybar, lider gruptan geriye düşmeye başladı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESmv0gWsAAx2As.jpg">https://pbs.twimg.com/media/desmv0gwsaax2as.jpg</a><br/><br/>117 km kala civarı yağmur biraz arttı.<br/><br/>116.8 km kala jakob fuglsang, teknik sorun yaşıyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESoQZuXUAAN7LI.jpg">https://pbs.twimg.com/media/desoqzuxuaan7li.jpg</a><br/><br/>114.3 km kala kaçış grubundan ataklar gelmeye başladı. zirveye az kaldı, puanlar için saldırıyorlar. roland, atak yaptı. pinot, roglic, takipte.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESqeEFXUAEdltL.jpg">https://pbs.twimg.com/media/desqeefxuaedltl.jpg</a><br/><br/>roglic, öne çıktı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESqC0jW0AAKA3D.jpg">https://pbs.twimg.com/media/desqc0jw0aaka3d.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESrV-gXkAIgYLg.jpg">https://pbs.twimg.com/media/desrv-gxkaigylg.jpg</a><br/><br/>113.5 km kala zirveden geçen ilk isim primoz roglic oldu ve 20 puanı aldı. sanal kırmızı benekli mayoda liderliğe yükseldi. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESrV-hXYAQIrvj.jpg">https://pbs.twimg.com/media/desrv-hxyaqirvj.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/LeTour/status/884020675031257088" title="https://twitter.com/LeTour/status/884020675031257088">https://twitter.com/…tour/status/884020675031257088</a><br/><br/>109 km kala peloton zirveden geçti.<br/><br/>108 km kala inişte kaza oldu. lutsenko ve birkaç bisikletçi kaza yaptı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESsIq2XoAEDTyr.jpg">https://pbs.twimg.com/media/dessiq2xoaedtyr.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESsI6FXsAAJ5FM.jpg">https://pbs.twimg.com/media/dessi6fxsaaj5fm.jpg</a><br/><br/>kaçış grubunda alexis vuillermoz, pelotonda, diğer ag2r'liler agresif. bardet, etabı ve sarıyı istiyor. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESskIHXgAAKf1v.jpg">https://pbs.twimg.com/media/desskihxgaakf1v.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESsx7-WAAAaA7J.jpg">https://pbs.twimg.com/media/dessx7-waaaaa7j.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESs1JUWAAABDil.jpg">https://pbs.twimg.com/media/dess1juwaaabdil.jpg</a><br/><br/>101.3 km kala ayrı yerde bir kaza daha oldu. team sky'dan geraint thomas yerde. giro'dan sonra bir kez daha düştü. bu adam çok şansız.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Cgs7fk4ZJWI">https://www.youtube.com/watch?v=cgs7fk4zjwi</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DEStpXsWAAAKMQd.jpg">https://pbs.twimg.com/media/destpxswaaakmqd.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DEStyfnXcAEGaor.jpg">https://pbs.twimg.com/media/destyfnxcaegaor.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESt_fyW0AAH1fs.jpg">https://pbs.twimg.com/media/dest_fyw0aah1fs.jpg</a><br/><br/>öndeki ag2r'lilerden biri dönemedi, az daha düşüyordu.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884022969923719168" title="https://twitter.com/Alpe__dHuez/status/884022969923719168">https://twitter.com/…huez/status/884022969923719168</a><br/><br/>ag2r la mondiale, kaçış grubunda, önde deli tempo veriyor.<br/><br/>98.4 km kala <a class="b" href="/?q=hors+category">hors category</a> 'den ` <a class="b" href="/?q=grand+colombier">grand colombier</a> (1501 m yükseklik, 8.5 km uzunluk, %9.9 ortalama eğim) tırmanışına kaçış başladı. benoot, bakelants, barguil, domont, pantano, poljanski ve vuillermoz, en önde.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESu4r7WsAAW6kR.jpg">https://pbs.twimg.com/media/desu4r7wsaaw6kr.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESuyiWW0AQ9XvG.jpg">https://pbs.twimg.com/media/desuyiww0aq9xvg.jpg</a><br/><br/>96.6 km kala favori isimler tırmanışa başladı. burada da ag2r'liler önde.<br/><br/>team sky'dan geraint thomas abandone oldu. önceki 8 etapta 2 kez düşmüş ama kurtarmıştı. 3. düşüşte köprücük kemiği kırdı. froome için çok önemli kayıp; sağ kolunu kaybetti. <br/><br/>biraz geriye düşen contador, hemen favori gruba attı kendisini.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESweUxXgAA0NQn.jpg">https://pbs.twimg.com/media/desweuxxgaa0nqn.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mundociclistico/status/884026110274670592" title="https://twitter.com/mundociclistico/status/884026110274670592">https://twitter.com/…tico/status/884026110274670592</a><br/><br/>favori grubun önünde 5 ag2r'lı var. <br/><br/>vuillermoz, pantano, benoot, barguil, en önde lider 4'lü olarak gidiyorlar.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DESxZusXUAAMoEF.jpg">https://pbs.twimg.com/media/desxzusxuaamoef.jpg</a><br/><br/>hayvan gibi eğim var. ağır çekimde gidiyorlar. bakelants, poljanski ve domont, takip grubundan geriye düştüler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/LeTour/status/884027818778255361" title="https://twitter.com/LeTour/status/884027818778255361">https://twitter.com/…tour/status/884027818778255361</a><br/><br/>betancur, navarro, mollema, roglic, matthews, geschke, 1.30 dk geriden takipte. <br/><br/>94.1 km kala pantano, lider gruptan geriye düştü. <br/><br/>94 km kala contador, biriyle kazaya karıştı ama kötü değil.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884028536025223169" title="https://twitter.com/Alpe__dHuez/status/884028536025223169">https://twitter.com/…huez/status/884028536025223169</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETGBdBWAAAPSkX.jpg">https://pbs.twimg.com/media/detgbdbwaaapskx.jpg</a><br/><br/>bakelants, pantano, takip grubuna katıldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mundociclistico/status/884029290127532034" title="https://twitter.com/mundociclistico/status/884029290127532034">https://twitter.com/…tico/status/884029290127532034</a><br/><br/>bakelants, takip grubundan geriye düşmeye başladı.<br/><br/>92.2 km kala vuillermoz, lider gruptan geriye düştü. benoot ve barguil, lider.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES0Gy0W0AAMAy7.jpg">https://pbs.twimg.com/media/des0gy0w0aamay7.jpg</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES1Jb0XoAUcuk6.jpg:large" title="https://pbs.twimg.com/media/DES1Jb0XoAUcuk6.jpg:large">https://pbs.twimg.com/…ia/des1jb0xoaucuk6.jpg:large</a><br/><br/>90.5 km kala roglic ve mollema ikilisi vuillermoz'u yakaladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES1mcEXgAAVvBA.jpg">https://pbs.twimg.com/media/des1mcexgaavvba.jpg</a><br/><br/>90 km kala zirveden ilk sırada geçen warren barguil, 20 puanı aldı. sanal kırmızı benekli mayoda, 40 puan ile lider. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES2k6bWAAUAk7d.jpg:large" title="https://pbs.twimg.com/media/DES2k6bWAAUAk7d.jpg:large">https://pbs.twimg.com/…ia/des2k6bwaauak7d.jpg:large</a><br/><br/>tiejs benoot, 15, 20 sn sonra geçen alexis vuillermoz, 12, 25 sn geçen primoz roglic, 10, 30 sn sonra geçen bauke mollema, 8, 1.15 dk sonra geçen jarlinson pantano, 6, dani navarro, 4, 1.25 dk sonra geçen michael matthews, 2 puanı aldı. <br/><br/>favoriler bir arada.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES2J-jWAAANoHa.jpg:large" title="https://pbs.twimg.com/media/DES2J-jWAAANoHa.jpg:large">https://pbs.twimg.com/…ia/des2j-jwaaanoha.jpg:large</a><br/><br/>86.2 km kala voeckler, dili yine dışarıda pelotona yakalandı. arada 4 kişiyi daha aldılar.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884032546018906113" title="https://twitter.com/Alpe__dHuez/status/884032546018906113">https://twitter.com/…huez/status/884032546018906113</a><br/><br/>84.5 km kala peloton zirveden geçti. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETGBc-XkAA32o8.jpg">https://pbs.twimg.com/media/detgbc-xkaa32o8.jpg</a><br/><br/>84 km kala vuillermoz, mollema, roglic, benoot ve barguil, bir arada. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES3UFYXsAE6-8b.jpg">https://pbs.twimg.com/media/des3ufyxsae6-8b.jpg</a><br/><br/>betancur, bakelants, navarro, pantano, gallopin ve matthews, 1 dk civarı geriden takip ediyorlar. <br/><br/>80 km kala sarı mayo grubu, 5.28 dk geride.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES4L0VXUAAvxZk.jpg">https://pbs.twimg.com/media/des4l0vxuaavxzk.jpg</a><br/><br/>lider grup için iniş bitti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mundociclistico/status/884035786647240704" title="https://twitter.com/mundociclistico/status/884035786647240704">https://twitter.com/…tico/status/884035786647240704</a><br/><br/>72.1 km kala takip grubu, lider grubu yakaladı. pantano, matthews, betancur, bakelants, geschke, navarro, gallopin, vuillermoz, mollema, roglic, benoot ve barguil, bir arada.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES6P3FXsAAH2Zo.jpg">https://pbs.twimg.com/media/des6p3fxsaah2zo.jpg</a><br/><br/>favoriler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mundociclistico/status/884037377970360320" title="https://twitter.com/mundociclistico/status/884037377970360320">https://twitter.com/…tico/status/884037377970360320</a><br/><br/>nairo, takım arabasına gitti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES8yVWXkAEEh7u.jpg">https://pbs.twimg.com/media/des8yvwxkaeeh7u.jpg</a><br/><br/>contador, iki çay gönder diyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES9TwXXYAUMtNu.jpg">https://pbs.twimg.com/media/des9twxxyaumtnu.jpg</a><br/><br/>nieve, landa, kwiatkowski ve henao, chris froome'u koruyorlar ama geraint thomas'ı arayacak. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES9pE0XcAA_eLV.jpg">https://pbs.twimg.com/media/des9pe0xcaa_elv.jpg</a><br/><br/>nairo, bisiklet değiştirdi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES9XISXoAABSgk.jpg">https://pbs.twimg.com/media/des9xisxoaabsgk.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES9oObWsAE1raM.jpg">https://pbs.twimg.com/media/des9oobwsae1ram.jpg</a><br/><br/>michael matthews, ara sprint kapısından 20 puanı istiyor. greipl'in adamları aldırmamaya çalışacaklar.<br/><br/>54.5 km kala geçilen <a class="b" href="/?q=mass%c4%b1gnieu-de-rives">massıgnieu-de-rives</a> ara sprint kapısından ilk sırada geçen michael matthews, 20 puanı aldı. şimdi yatışa geçecektir. saganlık yapıp, zorlu tırmanışları geçip istediği puanı aldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES_gMkW0AAqFT-.jpg">https://pbs.twimg.com/media/des_gmkw0aaqft-.jpg</a><br/><br/>jan bakelants, 17, tony gallopin, 15, simon geschke, 13, tiejs benoot, 11, primoz roglic, 10, bauke mollema, 9, warren barguil, 8, dani navarro, 7, jarlinson pantano, 6, alexis vuillermoz, 5, carlos betancur, 4; 3.30 dk sonra geçen michal kwiatkowski, 3, sergio henao, 2 ve mikel landa, 1 puanı aldı.<br/><br/>jan bakelants ve tony gallopin, kaçıyorlar. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DES_8OKXcAA3xDK.jpg">https://pbs.twimg.com/media/des_8okxcaa3xdk.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETAvccW0AAMwfo.jpg:large" title="https://pbs.twimg.com/media/DETAvccW0AAMwfo.jpg:large">https://pbs.twimg.com/…ia/detavccw0aamwfo.jpg:large</a><br/><br/>50 km kala fark 3.26 dk.<br/><br/>sahibi olduğum lucey şatosu. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETBIBoWAAA6xFU.jpg:large" title="https://pbs.twimg.com/media/DETBIBoWAAA6xFU.jpg:large">https://pbs.twimg.com/…ia/detbibowaaa6xfu.jpg:large</a><br/><br/>4. kategoriden <a class="b" href="/?q=c%c3%b4te+de+jongieux">côte de jongieux</a> (3.9 km uzunluk, %4.2 ortalama eğim) tırmanışına başlandı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETBfyOW0AAfn9N.jpg">https://pbs.twimg.com/media/detbfyow0aafn9n.jpg</a><br/><br/>üzüm bağları.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETCNQlXYAQVfCR.jpg:large" title="https://pbs.twimg.com/media/DETCNQlXYAQVfCR.jpg:large">https://pbs.twimg.com/…ia/detcnqlxyaqvfcr.jpg:large</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETDIvcWsAA6Sfb.jpg:large" title="https://pbs.twimg.com/media/DETDIvcWsAA6Sfb.jpg:large">https://pbs.twimg.com/…ia/detdivcwsaa6sfb.jpg:large</a><br/><br/>47 km kala bakelants zirveden ilk sırada geçip 1 puanı aldı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETCrnfXUAASKxF.jpg">https://pbs.twimg.com/media/detcrnfxuaaskxf.jpg</a><br/><br/>nasıl çıktınız oraya? manzara şahane. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETGBdBXUAA2Q7p.jpg">https://pbs.twimg.com/media/detgbdbxuaa2q7p.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETEqsAXcAUDj-i.jpg:large" title="https://pbs.twimg.com/media/DETEqsAXcAUDj-i.jpg:large">https://pbs.twimg.com/…ia/deteqsaxcaudj-i.jpg:large</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETFEUpW0AAzhk0.jpg:large" title="https://pbs.twimg.com/media/DETFEUpW0AAzhk0.jpg:large">https://pbs.twimg.com/…ia/detfeupw0aazhk0.jpg:large</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETFI9RXsAENedR.jpg:large" title="https://pbs.twimg.com/media/DETFI9RXsAENedR.jpg:large">https://pbs.twimg.com/…ia/detfi9rxsaenedr.jpg:large</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETFa-GVoAAB5qb.jpg">https://pbs.twimg.com/media/detfa-gvoaab5qb.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETFa6DUIAAVEFd.jpg">https://pbs.twimg.com/media/detfa6duiaavefd.jpg</a><br/><br/>36.8 km kala michael matthews, sarı mayo grubuna yakalandı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/BrainOnWheels/status/884049831450341376" title="https://twitter.com/BrainOnWheels/status/884049831450341376">https://twitter.com/…eels/status/884049831450341376</a><br/><br/>36.2 km kala sky'dan kwiatkowski bitti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884049893840572420" title="https://twitter.com/Alpe__dHuez/status/884049893840572420">https://twitter.com/…huez/status/884049893840572420</a><br/><br/>35 km kala benoot, mollema, navarro, roglic, vuillermoz ve barguil, 30 sn, peloton, 2.50 dk geride. <br/><br/>34.6 km kala <a class="b" href="/?q=hors+category">hors category</a> 'den ` <a class="b" href="/?q=mont+du+chat">mont du chat</a> (1504 m yükseklik, 8.7 km uzunluk, %10.3 ortalama eğim) <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DER6_ABXsAAMsAB.jpg" title="https://pbs.twimg.com/media/DER6_ABXsAAMsAB.jpg">tırmanışına</a> lider ikili başladı. hayvani kedi dağı tırmanışı başladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETHXv6XoAEU-w6.jpg">https://pbs.twimg.com/media/dethxv6xoaeu-w6.jpg</a><br/><br/>33.6 km kala peloton tırmanışa başladı. dananın kuyruğunun kopmaya başladığını göreceğiz. <br/><br/>33.5 km kala gallopin, atak yaptı. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETIBh_XkAAThoX.jpg">https://pbs.twimg.com/media/detibh_xkaathox.jpg</a><br/><br/>32.3 km kala barguil ve bakelants, gallopin'i yakalayıp geçtiler.<br/><br/>32 km kala aru atak yaptı. nairo ve porte arkasında. sarı mayo froome, elini kaldırdığı sırada atak geldi. froome'da mekanik sorun var gibi. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/LeTour/status/884053759516696576" title="https://twitter.com/LeTour/status/884053759516696576">https://twitter.com/…tour/status/884053759516696576</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETJnh4XUAA4m08.jpg">https://pbs.twimg.com/media/detjnh4xuaa4m08.jpg</a><br/><br/>froome, tam çay isterken gittiler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/inrng/status/884054139537416192" title="https://twitter.com/inrng/status/884054139537416192">https://twitter.com/…nrng/status/884054139537416192</a><br/><br/>aru yavaşlıyor, froome'u bekliyorlar galiba. tam froome elini kaldırdığı anda atak yaptı. aru, porte, nairo, bardet, bir arada. beklemelerine gerek var mıydı? cevabı zor soru.<br/><br/>froome'u arkadaşları taşıyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETJrGLXkAAIe_k.jpg">https://pbs.twimg.com/media/detjrglxkaaie_k.jpg</a><br/><br/>31.3 km kala jakob fuglsang atak yaptı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETJ_NpWAAAFcEa.jpg">https://pbs.twimg.com/media/detj_npwaaafcea.jpg</a><br/><br/>warren barguil, liderliği aldı. <br/><br/>froome, favorilerin yanında.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETKUcbXsAA5AVq.jpg">https://pbs.twimg.com/media/detkucbxsaa5avq.jpg</a><br/><br/>30.7 kala aru ile froome, omuz omuza çarpmıştı. ahahaha, büyük gerginlik var. aru'ya telsizden durmasını söyledikleri için aru kzıgın olabilir. etap bitince röportajlardan anlarız ne olduğunu.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/CyclingHubTV/status/884054979522310144" title="https://twitter.com/CyclingHubTV/status/884054979522310144">https://twitter.com/…ubtv/status/884054979522310144</a><br/><br/>bakelants, mollema ve benoot, takipteler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETLF30VoAEkkaJ.jpg">https://pbs.twimg.com/media/detlf30voaekkaj.jpg</a><br/><br/>henao bitti, şimdi nieve, froome'u taşıyor. <br/><br/>29.2 km kala peloton, alexis vuillermoz'u yakaladı.<br/><br/>28.2 km kala louis meintjes geriye düştü.<br/><br/>28.1 km kala contador geriye düşmeye başladı.<br/><br/>27.8 km kala aru hareketlendi. porte öne doğru atak yaptı. diğerleri arkasında.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETMgfOXoAA64mv.jpg">https://pbs.twimg.com/media/detmgfoxoaa64mv.jpg</a><br/><br/>27.7 km kala nieve geriye düştü.<br/><br/>babalar önde; porte, aru, bardet, nario, froome, martin.<br/><br/>27.5 km kala landa da geriye düştü.<br/><br/>27.3 km kala aru denedi ama froome orada.<br/><br/>27 km kala dan martin atak yaptı ama kopamadı. porte atak yaptı ama kopamadı.<br/><br/>oy oy oy, heyecan büyük.<br/><br/>26.9 km kala froome atağa kalktı, porte, uran arkasında. aru biraz geride, nairo düştü.<br/><br/>26.8 km kala jakob fuglsang'ı yakaladılar.<br/><br/>froome tempo yapıyor, porte bırakmıyor. dan martin orada. aru birazcık geride.<br/><br/>bardet, sıkıntı yaşıyor. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETN3d9XkAAVdFX.jpg">https://pbs.twimg.com/media/detn3d9xkaavdfx.jpg</a><br/><br/>barguil ile fark 37 sn. etap bunlardan birine gidecek.<br/><br/>contador, çok sıkıntı çekiyor. <br/><br/>froome tempo yapıyor ama babalar porte, aru, martin, uran, fulgsang, bardet, orada.<br/><br/>froome, arkadakiler ile konuşuyor. nairo dışında favoriler yanında.<br/><br/>25.9 km kala zirveden ilk sırada warren barguil geçti ve 20 puanı aldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETO1xvWAAAu4Ki.jpg">https://pbs.twimg.com/media/deto1xvwaaau4ki.jpg</a><br/><br/>24 sn sonra favoriler geçti. 10 bonus saniye kime gidecek? uzun ve zorlu iniş başladı.<br/><br/>nairo, favorilerden 47 sn geride.<br/><br/>23.1 km kala contador zirveden geçti.<br/><br/>porte ve dan martin yerde. kaza oldu, inanılmaz. porte'un cenabetliği yüzünden dan martin de düştü.<br/><br/>porte hiç iyi değil. umarım sağlığı yerindedir. çok kötü düşmüş, duvara çarpmış.of of of of.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Alpe__dHuez/status/884059992529227781" title="https://twitter.com/Alpe__dHuez/status/884059992529227781">https://twitter.com/…huez/status/884059992529227781</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cyclingnieuws1/status/884062020861079553" title="https://twitter.com/cyclingnieuws1/status/884062020861079553">https://twitter.com/…uws1/status/884062020861079553</a><br/><br/>dan martin, kalkıp devam etti ama açıkçası akıllar porte'ta. <br/><br/>bardet, atak yaptı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETQpsyW0AEGPnw.jpg">https://pbs.twimg.com/media/detqpsyw0aegpnw.jpg</a><br/><br/>15 km kala fark 21 sn.<br/><br/>bardet, farkı oldukça açtı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETRNljW0AIzrdi.jpg">https://pbs.twimg.com/media/detrnljw0aizrdi.jpg</a><br/><br/>porte, ambulansa götürülüyor.<br/><br/>dan martin, bir kez daha düştü deniyor. offff of.<br/><br/>froome, hadi çalışın diyor.<br/><br/>mikel nieve de inerken düşmüş.<br/><br/>warren barguil, günün en savaşçı bisikletçisi oldu. etabı bardet'den alabilecek mi?<br/><br/>12 km kala barguil ile bardet, aynı karede.<br/><br/>11.5 km kala uran teknik sorun yaşadı.<br/><br/>barguil ile bardet, birlikte. 11 km kala 30 sn fark attı.<br/><br/>11.2 km kala bardet atak yapıp liderliği aldı. etaba gidiyor. 1 km yokuş, %7 ortalama eğimi var.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETSeCNXoAANpUF.jpg">https://pbs.twimg.com/media/detsecnxoaanpuf.jpg</a><br/><br/>uran, sarı mayo grubunu yakaladı. bugün müthiş. <br/><br/>10.3 km kala barguil, sarı mayo grubuna yakalandı.<br/><br/>10 km kala fark 29 sn.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETTaAlXkAIyIDU.jpg">https://pbs.twimg.com/media/dettaalxkaiyidu.jpg</a><br/><br/>froome, pek çalışmıyor, arkada. zamana karşım var diyor. herkes froome'a çalışıyor resmen. çalışmayın arkadaş. astana niye çalışıyor?<br/><br/>7 km kala fark 18 sn. <br/><br/>6 km kala fark 15 sn.<br/><br/>dan martin, nario ile birlikte gidiyor. 5 km kala sarı mayodan 1.10 dk geride.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DETUFgzXYAUqekR.jpg">https://pbs.twimg.com/media/detufgzxyauqekr.jpg</a><br/>froome ve fuglsang, öne atak yapıyorlar.<br/><br/>4 km kala fark 14 sn.<br/><br/>3 km kala fark 10 sn. froome, önde çalışıyor. çakal seni.<br/><br/>2.2 km kala bardet'yi yakaladılar.<br/><br/>son km. froome atağa kalkıyor ama kopan yok. 10 bonus kime gidecek?<br/><br/>birbirlerine bakıyorlar.<br/><br/>son 500 m, froome önde.<br/><br/>jakop fırladı.<br/><br/>uran uran, fırladı, öne geçti.<br/><br/>bardet atak yaptı.<br/><br/>barguil atak yaptı,etap barguil'e gitti. inanılmaz bir iş yaptı.<br/><br/>fotofiniş ile etabı uran'a verdiler. amma manyak etap oldu.
 - entry_name: |
     sözlük yazarlarının kahve tercihleri
   entry_id:  69345627
   entry_writer: rogerwaters
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     (bkz: <a class="b" href="/?q=filtre+kahve">filtre kahve</a>)<br/><br/>taze çekirdeği, evimizdeki öğtücü ile çekiyoruz. tercihe göre demleme yöntemiyle bir güzel demliyoruz. bu kadar. şekersiz, sütsüz içilmesi elzemdir. şekerli ve sütlü içenler kahveden de, damak tadından da yoksundur. <br/><br/>espresso ise ayrı bir konu, filtre kahve dahi içemeyen insanlar hiç bulaşmasın.
 - entry_name: |
-    köylerdeki komik lakaplar
-  entry_id:  69344885
-  entry_writer: larker
+    lj fy
+  entry_id:  69364340
+  entry_writer: al bunu al al al al al al
+  entry_fav_count: 4
+  entry_content: |
+    faşist, evetçi, gizli troll. siktir ediniz.<br/><br/>edit: ekleme.
+- entry_name: |
+    maltepe mitingine sadece 120 bin kişi katılması
+  entry_id:  69365464
+  entry_writer: mordorun dereleri aksa rohana aksa
   entry_fav_count: 3
   entry_content: |
-    bizim köyde dıngırık mehmet diye 57 yaşında bir adam var, vardı daha doğrusu. geçen sene, o zaman dört yaşında olan yeğenim miray, dıngırık diyemediği için astronot diye seslendi adama. 56 senelik dıngırık mehmet oldu sana astronot mehmet. bütün köy astront mehmet diye çağırıyor adamı artık, astronot mehmet aşağı, astronot mehmet yukarı.<br/><br/>bu lakapla yakında uçmaya başlarsa hiç şaşmam.
+    gelen yorumlar yardırıcıdır :) <br/><br/>- 3 -5 kişi diyorlar (meydanın dolu resmini paylaşarak)<br/>- sadece kemal kılıçdaroğlu varmış gerisi photoshop<br/>- 120 bin kişiyse korkma lan bu kadar. ne konuştun sabahtan beri<br/>- tek tek saydım 30 kişi var<br/>- okulda 150 bine kadar saymayı öğretmişler ömere kızmayın
 - entry_name: |
-    ekşi sözlük android &amp; ios uygulaması
-  entry_id:  69347648
-  entry_writer: ak07
+    başka bir erkeğe oral yapmış kız ile evlenmek
+  entry_id:  69363204
+  entry_writer: dullarkrali
   entry_fav_count: 3
   entry_content: |
-    nickler entry nin üstünde değil de sağ alt tarafında olsa daha güzel olacak uygulama. bu haliyle çok büyük duruyor ve görüntü kirliliği yapıyor. birde beyaz, saman, gri gibi renk seçenekleri de olmalı. ayrıca katkıda bulunduğu kanallar nerde???
-- entry_name: |
-    doğu perinçek
-  entry_id:  69352373
-  entry_writer: tavukdoner1ytl
-  entry_fav_count: 3
-  entry_content: |
-    yazılarından çok net anlaşıldığı üzere siyasi görüşü tayyipçi bilimsel sosyalisttir. yıllarca mit ajanı olduğun nasıl anlaşılmadığını aklım almıyor.
-- entry_name: |
-    bir kıza aşık olunca seks düşünememek
-  entry_id:  69346483
-  entry_writer: sleepyhallow
-  entry_fav_count: 3
-  entry_content: |
-    böyle düşünen naif adamlar hep gömülür böyle başlıklarda, adettendir. lakin, sevdiceğin geçmişini korkuyla kurcalarken, oh dedirten cevapların alınmasını sağlayan da bu adamlardır.
-- entry_name: |
-    yazarların hayallerini gerçekleştiriyoruz
-  entry_id:  69362103
-  entry_writer: sikayet et
-  entry_fav_count: 2
-  entry_content: |
-    kızımı geri istiyorum.
+    hiç am yalamamış gibi kötüsünüz.
 - entry_name: |
     şu anda çalan şarkı
-  entry_id:  69351838
-  entry_writer: el pajaro
+  entry_id:  69349610
+  entry_writer: o y t
   entry_fav_count: 0
   entry_content: |
-    ozlemisim lan<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=iEe_eraFWWs">https://www.youtube.com/watch?v=iee_erafwws</a>
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/4z2Bxl3P5-s?t=56">https://youtu.be/4z2bxl3p5-s?t=56</a>
 - entry_name: |
-    sarhoşken duş almak
-  entry_id:  69367728
-  entry_writer: pbkc
+    milliyetçi hareket partisi
+  entry_id:  69367998
+  entry_writer: afaki mulahazalar
   entry_fav_count: 0
   entry_content: |
-    sarhoşlar, daha doğrusu içince sapıtmayan, kibarlaşan, hüzünlenen, masumlaşan sempatik sarhoşlar bende hep merhamet uyandırmıştır nedense. çocuk gibi oluyorlar, anaç tarafım uyanıyor. çocuklar da tek başına yıkanamayacağından, tabureye oturtup annevari bir tarzda ama haşin olmayan bir şefkatle yıkanmaları lazım bence.
-- entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  69362711
-  entry_writer: kuba gibiyim kendi kendime yeti
-  entry_fav_count: 0
-  entry_content: |
-    kütahya ve silivri için uygunum.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  69364035
-  entry_writer: el pajaro
-  entry_fav_count: 0
-  entry_content: |
-    aile evine geldim. sikintidan patlayacagim icin hali deseni incelerken komikli gif'ler, videolar, bobiler'den caps'ler paylassak cok iyi olur diyerek (herhangi bi esmer talebinde bulunmadan haha) icinde bulundugum taban.
+    yavru akape. kılıçdaroğlu beyler mhp'ye bu şekilde seslenmeli ve bu kavramın türk siyasetine kazınmasını sağlamalıdır. ve bunu yaparken de "siyaset arenasında artık türk milliyetçisi ve ülkücü tanımına uyan sadece meral akşener, ümit özdağ ve beraberindekiler vardır" demelidir. bu koşullar altında mhp'ye mhp demenin mhp'nin tarihine ve kimliğine hakaret olduğunu da eklemeli, bu sebeple mhpye artık yavru akape diyeceğini vurgulamalıdır.
 - entry_name: |
     çocukken okunmuş unutulmaz kitaplar
   entry_id:  69345289
