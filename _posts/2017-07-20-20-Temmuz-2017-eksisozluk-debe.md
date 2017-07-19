@@ -15,9 +15,6 @@ data:
     volkan şen
     entry_content: |
 - entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
-    entry_content: |
-- entry_name: |
     uçak korkusunu yenme yolları
     entry_content: |
 - entry_name: |
@@ -39,10 +36,7 @@ data:
     playstation 4
     entry_content: |
 - entry_name: |
-    matej mitrovic
-    entry_content: |
-- entry_name: |
-    klimayı açınca soğuk kapatınca sıcak olması
+    kürdistanlı ninjalar göz doldurdu
     entry_content: |
 - entry_name: |
     kimsenin yemediği küçük esnaf üçkağıtları
@@ -51,10 +45,10 @@ data:
     kadınların bankamatik kullanımındaki yavaşlığı
     entry_content: |
 - entry_name: |
-    jülide sarıeroğlu
+    jülide sarıeroğlu'nun tayyip ve gülen tweetleri
     entry_content: |
 - entry_name: |
-    ittihatçı sloganıyla 15 temmuz yürüyüşü yapmak
+    jülide sarıeroğlu
     entry_content: |
 - entry_name: |
     insanların mutsuz olmasının tek sebebi
@@ -63,13 +57,7 @@ data:
     ilk buluşmaya tişörtle giden erkek
     entry_content: |
 - entry_name: |
-    hoca efendi razı olsun
-    entry_content: |
-- entry_name: |
     hero tişörtü giyen gencin göz altına alınması
-    entry_content: |
-- entry_name: |
-    gelmiş geçmiş en büyük şarkıcı feat'tir
     entry_content: |
 - entry_name: |
     game of thrones'un tek cümlelik özeti
@@ -93,10 +81,10 @@ data:
     emrah serbes
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
+    ekşi itiraf
     entry_content: |
 - entry_name: |
-    ekşi itiraf
+    ekşi fit
     entry_content: |
 - entry_name: |
     edepsiz bir teklif aldım
@@ -111,13 +99,16 @@ data:
     cennetin girişinde çalması muhtemel şarkılar
     entry_content: |
 - entry_name: |
-    cenk gönen
-    entry_content: |
-- entry_name: |
     cehennemin girişinde çalması muhtemel şarkılar
     entry_content: |
 - entry_name: |
+    burhan kuzu'nun sahte tweet'i
+    entry_content: |
+- entry_name: |
     buluşulan erkeğin kibar çıkması
+    entry_content: |
+- entry_name: |
+    aykut kocaman
     entry_content: |
 - entry_name: |
     avrupalı çocuk ve türk çocuğu arasındaki farklar
@@ -126,16 +117,28 @@ data:
     anne ile eş arasında kalmak
     entry_content: |
 - entry_name: |
+    ali babacan
+    entry_content: |
+- entry_name: |
     akşener-kılıçdaroğlu başkanlık ittifakı
     entry_content: |
 - entry_name: |
+    %70'i aşağı sarkan halının düşmemesi
+    entry_content: |
+- entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
+    entry_content: |
+- entry_name: |
+    2016 toefl ibt türkiye ortalaması
     entry_content: |
 - entry_name: |
     19 temmuz 2017 fenerbahçe monaco maçı
     entry_content: |
 - entry_name: |
     19 temmuz 2017 fatih terim basın toplantısı
+    entry_content: |
+- entry_name: |
+    19 temmuz 2017 burhan kuzu'nun isyanı
     entry_content: |
 - entry_name: |
     19 temmuz 2017 bilgi yayınevi rezaleti
@@ -145,9 +148,6 @@ data:
     entry_content: |
 - entry_name: |
     19 temmuz 2017 65. hükümet kabine değişikliği
-    entry_content: |
-- entry_name: |
-    18 temmuz 2017 akp'den kılıçdaroğlu'na cevap
     entry_content: |
 - entry_name: |
     17 temmuz 2017 taksim mango taciz rezaleti
