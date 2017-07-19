@@ -15,6 +15,9 @@ data:
     volkan şen
     entry_content: |
 - entry_name: |
+    uzun boylu kızlar
+    entry_content: |
+- entry_name: |
     uçak korkusunu yenme yolları
     entry_content: |
 - entry_name: |
@@ -36,19 +39,19 @@ data:
     playstation 4
     entry_content: |
 - entry_name: |
-    kürdistanlı ninjalar göz doldurdu
-    entry_content: |
-- entry_name: |
     kimsenin yemediği küçük esnaf üçkağıtları
     entry_content: |
 - entry_name: |
     kadınların bankamatik kullanımındaki yavaşlığı
     entry_content: |
 - entry_name: |
-    jülide sarıeroğlu'nun tayyip ve gülen tweetleri
+    kadın garsonun müşteriye özel sosisli servisi
     entry_content: |
 - entry_name: |
     jülide sarıeroğlu
+    entry_content: |
+- entry_name: |
+    izmir büyükşehir belediyesi toplu taşıma rezaleti
     entry_content: |
 - entry_name: |
     insanların mutsuz olmasının tek sebebi
@@ -60,6 +63,9 @@ data:
     hero tişörtü giyen gencin göz altına alınması
     entry_content: |
 - entry_name: |
+    hastası olunan sözler
+    entry_content: |
+- entry_name: |
     game of thrones'un tek cümlelik özeti
     entry_content: |
 - entry_name: |
@@ -67,9 +73,6 @@ data:
     entry_content: |
 - entry_name: |
     fetö'nün 48.5 milyarlık servetinin devlete geçmesi
-    entry_content: |
-- entry_name: |
-    fatih terim
     entry_content: |
 - entry_name: |
     evrim doğruysa bugün maymunlar neden insan olmuyor
@@ -81,6 +84,9 @@ data:
     emrah serbes
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
@@ -88,6 +94,9 @@ data:
     entry_content: |
 - entry_name: |
     edepsiz bir teklif aldım
+    entry_content: |
+- entry_name: |
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     cinsel organına sosis sokan kadın
@@ -102,16 +111,10 @@ data:
     cehennemin girişinde çalması muhtemel şarkılar
     entry_content: |
 - entry_name: |
-    burhan kuzu'nun sahte tweet'i
-    entry_content: |
-- entry_name: |
     buluşulan erkeğin kibar çıkması
     entry_content: |
 - entry_name: |
     aykut kocaman
-    entry_content: |
-- entry_name: |
-    avrupalı çocuk ve türk çocuğu arasındaki farklar
     entry_content: |
 - entry_name: |
     anne ile eş arasında kalmak
@@ -121,9 +124,6 @@ data:
     entry_content: |
 - entry_name: |
     akşener-kılıçdaroğlu başkanlık ittifakı
-    entry_content: |
-- entry_name: |
-    %70'i aşağı sarkan halının düşmemesi
     entry_content: |
 - entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
