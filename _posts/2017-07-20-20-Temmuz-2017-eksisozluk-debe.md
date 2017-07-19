@@ -24,6 +24,9 @@ data:
     suudi arabistan'da mini etekle dolaşmak
     entry_content: |
 - entry_name: |
+    spor yapmak için gerekli motivasyon kaynağı
+    entry_content: |
+- entry_name: |
     sevgilinin 44 kg olması
     entry_content: |
 - entry_name: |
@@ -39,6 +42,9 @@ data:
     playstation 4
     entry_content: |
 - entry_name: |
+    kredi kartlarının internet işlemlerine kapatılması
+    entry_content: |
+- entry_name: |
     kimsenin yemediği küçük esnaf üçkağıtları
     entry_content: |
 - entry_name: |
@@ -51,7 +57,13 @@ data:
     jülide sarıeroğlu
     entry_content: |
 - entry_name: |
+    jason denayer
+    entry_content: |
+- entry_name: |
     izmir büyükşehir belediyesi toplu taşıma rezaleti
+    entry_content: |
+- entry_name: |
+    ittihatçı sloganıyla 15 temmuz yürüyüşü yapmak
     entry_content: |
 - entry_name: |
     insanların mutsuz olmasının tek sebebi
@@ -60,10 +72,10 @@ data:
     ilk buluşmaya tişörtle giden erkek
     entry_content: |
 - entry_name: |
-    hero tişörtü giyen gencin göz altına alınması
+    hastası olunan sözler
     entry_content: |
 - entry_name: |
-    hastası olunan sözler
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones'un tek cümlelik özeti
@@ -90,13 +102,7 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    ekşi fit
-    entry_content: |
-- entry_name: |
     edepsiz bir teklif aldım
-    entry_content: |
-- entry_name: |
-    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     cinsel organına sosis sokan kadın
@@ -111,10 +117,13 @@ data:
     cehennemin girişinde çalması muhtemel şarkılar
     entry_content: |
 - entry_name: |
-    buluşulan erkeğin kibar çıkması
+    bir ilişkideki en heyecan verici an
     entry_content: |
 - entry_name: |
     aykut kocaman
+    entry_content: |
+- entry_name: |
+    ateist olunduğunda hissedilen baş döndürücü duygu
     entry_content: |
 - entry_name: |
     anne ile eş arasında kalmak
@@ -138,18 +147,9 @@ data:
     19 temmuz 2017 fatih terim basın toplantısı
     entry_content: |
 - entry_name: |
-    19 temmuz 2017 burhan kuzu'nun isyanı
-    entry_content: |
-- entry_name: |
     19 temmuz 2017 bilgi yayınevi rezaleti
     entry_content: |
 - entry_name: |
-    19 temmuz 2017 beşiktaş schalke 04 maçı
-    entry_content: |
-- entry_name: |
     19 temmuz 2017 65. hükümet kabine değişikliği
-    entry_content: |
-- entry_name: |
-    17 temmuz 2017 taksim mango taciz rezaleti
     entry_content: |
 ---
