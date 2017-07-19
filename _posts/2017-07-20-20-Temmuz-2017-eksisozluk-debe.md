@@ -24,6 +24,9 @@ data:
     tostun 8 tl ye satıldığı devlet üniversitesi
     entry_content: |
 - entry_name: |
+    sözlükçülerin en iyi 10 film listesi
+    entry_content: |
+- entry_name: |
     sevgilinin 44 kg olması
     entry_content: |
 - entry_name: |
@@ -45,9 +48,6 @@ data:
     kadınların bankamatik kullanımındaki yavaşlığı
     entry_content: |
 - entry_name: |
-    jülide sarıeroğlu'nun tayyip ve gülen tweetleri
-    entry_content: |
-- entry_name: |
     jülide sarıeroğlu
     entry_content: |
 - entry_name: |
@@ -66,7 +66,10 @@ data:
     ilk buluşmaya tişörtle giden erkek
     entry_content: |
 - entry_name: |
-    hero tişörtü giyen gencin göz altına alınması
+    harun kolçak
+    entry_content: |
+- entry_name: |
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones'un tek cümlelik özeti
@@ -84,16 +87,10 @@ data:
     evrim doğruysa bugün maymunlar neden insan olmuyor
     entry_content: |
 - entry_name: |
-    erkeklerin aşk acısını daha kolay atlatması
-    entry_content: |
-- entry_name: |
     emrah serbes
     entry_content: |
 - entry_name: |
     ekşi itiraf
-    entry_content: |
-- entry_name: |
-    edepsiz bir teklif aldım
     entry_content: |
 - entry_name: |
     dünya güzellerim
@@ -114,13 +111,19 @@ data:
     cehennemin girişinde çalması muhtemel şarkılar
     entry_content: |
 - entry_name: |
-    buluşulan erkeğin kibar çıkması
-    entry_content: |
-- entry_name: |
     bir ilişkideki en heyecan verici an
     entry_content: |
 - entry_name: |
+    aykut kocaman
+    entry_content: |
+- entry_name: |
+    ateist olunduğunda hissedilen baş döndürücü duygu
+    entry_content: |
+- entry_name: |
     anne ile eş arasında kalmak
+    entry_content: |
+- entry_name: |
+    akşener-kılıçdaroğlu başkanlık ittifakı
     entry_content: |
 - entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
@@ -136,9 +139,6 @@ data:
     entry_content: |
 - entry_name: |
     19 temmuz 2017 fatih terim basın toplantısı
-    entry_content: |
-- entry_name: |
-    19 temmuz 2017 burhan kuzu'nun isyanı
     entry_content: |
 - entry_name: |
     19 temmuz 2017 bilgi yayınevi rezaleti
