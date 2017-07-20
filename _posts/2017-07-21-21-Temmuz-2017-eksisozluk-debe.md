@@ -15,7 +15,7 @@ data:
     westworld
     entry_content: |
 - entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
+    ultraslan
     entry_content: |
 - entry_name: |
     türkçe ezanın kötü bir şey olduğunu sanan insan
@@ -33,7 +33,10 @@ data:
     suriyelilerin türklere arapça öğretmeye başlaması
     entry_content: |
 - entry_name: |
-    sözlükçülerin en iyi 10 film listesi
+    suriye'den gelip ekşi sözlük'te yazar olmak
+    entry_content: |
+- entry_name: |
+    sinan gümüş
     entry_content: |
 - entry_name: |
     selektör yapmadan arabanın kıçına yapışan piçler
@@ -42,13 +45,13 @@ data:
     selçuk inan
     entry_content: |
 - entry_name: |
-    şehit öğretmen necmettin yılmaz'ın ev eşyaları
-    entry_content: |
-- entry_name: |
     rte ve fetö'nün barışması
     entry_content: |
 - entry_name: |
     puro ile özdeşleşen ünlü kişi
+    entry_content: |
+- entry_name: |
+    passolig kartını yakan galatasaray taraftarı
     entry_content: |
 - entry_name: |
     parayla her kadının elde edilebilmesi
@@ -60,13 +63,16 @@ data:
     new york city
     entry_content: |
 - entry_name: |
+    mauricio isla
+    entry_content: |
+- entry_name: |
     komşunun sevişmesini duymak
     entry_content: |
 - entry_name: |
-    kız istemeye giderken dikkat edilecek hususlar
+    kız stajyere ayrı ilgi gösteren mühendis
     entry_content: |
 - entry_name: |
-    ironman olması ama ironwoman olmaması
+    kız istemeye giderken dikkat edilecek hususlar
     entry_content: |
 - entry_name: |
     igor tudor
@@ -90,10 +96,10 @@ data:
     erkek dediğin parfüm değil tütün kokar
     entry_content: |
 - entry_name: |
-    enpara hesap bilgilerinin çalınma iddiası
+    emrah serbes
     entry_content: |
 - entry_name: |
-    emrah serbes
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -111,7 +117,7 @@ data:
     dünyada sadece tek bir erkek kalsa olabilecekler
     entry_content: |
 - entry_name: |
-    donanımhaber'deki beyin yakan sinemia hesabı
+    cinlerin avrupalı insanlara musallat olmama nedeni
     entry_content: |
 - entry_name: |
     chester bennington
@@ -120,13 +126,7 @@ data:
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
-    bira kilo aldırmaz yanında yediklerin aldırır
-    entry_content: |
-- entry_name: |
     bafetimbi gomis
-    entry_content: |
-- entry_name: |
-    askerde yaşanan gay ilişkiler
     entry_content: |
 - entry_name: |
     arda turan'ın arapça yazılı yüzüğü
