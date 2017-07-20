@@ -9,7 +9,7 @@ data:
     younes belhanda
     entry_content: |
 - entry_name: |
-    yasin öztekin
+    yazarların linç edilme korkusuyla söyleyemedikleri
     entry_content: |
 - entry_name: |
     westworld
@@ -33,13 +33,10 @@ data:
     suriyelilerin türklere arapça öğretmeye başlaması
     entry_content: |
 - entry_name: |
-    suriye'den gelip ekşi sözlük'te yazar olmak
+    sözlükçülerin en iyi 10 film listesi
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
-    sergio ramos vs gerard pique
+    selektör yapmadan arabanın kıçına yapışan piçler
     entry_content: |
 - entry_name: |
     selçuk inan
@@ -57,28 +54,25 @@ data:
     parayla her kadının elde edilebilmesi
     entry_content: |
 - entry_name: |
-    nilüfer belediyesi şiir kütüphanesi rezaleti
+    nişantaşı üniversitesi
     entry_content: |
 - entry_name: |
     new york city
     entry_content: |
 - entry_name: |
-    medipol başakşehir
+    komşunun sevişmesini duymak
     entry_content: |
 - entry_name: |
     kız istemeye giderken dikkat edilecek hususlar
-    entry_content: |
-- entry_name: |
-    kıbrıs barış harekatı
-    entry_content: |
-- entry_name: |
-    iyi sevişip sevişmediğini öğrenme yolları
     entry_content: |
 - entry_name: |
     ironman olması ama ironwoman olmaması
     entry_content: |
 - entry_name: |
     igor tudor
+    entry_content: |
+- entry_name: |
+    hayatımın içine sıçıyor muyum korkusu
     entry_content: |
 - entry_name: |
     hayata entegre edilesi bilgisayar komutları
@@ -102,13 +96,16 @@ data:
     emrah serbes
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-    entry_content: |
-- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
+    ebubekir sifil caner taslaman tartışması
+    entry_content: |
+- entry_name: |
     dursun özbek
+    entry_content: |
+- entry_name: |
+    dünyada sadece tek bir kadın kalsa olabilecekler
     entry_content: |
 - entry_name: |
     dünyada sadece tek bir erkek kalsa olabilecekler
@@ -123,7 +120,10 @@ data:
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
-    caner taslaman
+    bira kilo aldırmaz yanında yediklerin aldırır
+    entry_content: |
+- entry_name: |
+    bafetimbi gomis
     entry_content: |
 - entry_name: |
     askerde yaşanan gay ilişkiler
@@ -132,16 +132,16 @@ data:
     arda turan'ın arapça yazılı yüzüğü
     entry_content: |
 - entry_name: |
-    anne ile eş arasında kalmak
-    entry_content: |
-- entry_name: |
     3. dünya savaşının çıkma nedeni
     entry_content: |
 - entry_name: |
-    30 yaşında bekar kadın
+    35 ülke gezen kişi
     entry_content: |
 - entry_name: |
     20 temmuz 2017 türkiye almanya krizi
+    entry_content: |
+- entry_name: |
+    20 temmuz 2017 metroyu ayı basması
     entry_content: |
 - entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
