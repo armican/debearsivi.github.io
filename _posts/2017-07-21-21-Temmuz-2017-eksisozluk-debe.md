@@ -15,9 +15,6 @@ data:
     whatsapp'ı silmek
     entry_content: |
 - entry_name: |
-    westworld
-    entry_content: |
-- entry_name: |
     wesley sneijder
     entry_content: |
 - entry_name: |
@@ -27,16 +24,10 @@ data:
     türkçe ezanın kötü bir şey olduğunu sanan insan
     entry_content: |
 - entry_name: |
-    top sakalla özdeşleşmiş kişiler
-    entry_content: |
-- entry_name: |
     the witcher 3 wild hunt vs elder scrolls v skyrim
     entry_content: |
 - entry_name: |
     tekel bayisine selamun aleyküm diyerek girmek
-    entry_content: |
-- entry_name: |
-    suriyelilerin türklere arapça öğretmeye başlaması
     entry_content: |
 - entry_name: |
     suriye'den gelip ekşi sözlük'te yazar olmak
@@ -45,28 +36,31 @@ data:
     sinan gümüş
     entry_content: |
 - entry_name: |
-    selçuk inan
+    selektör yapmadan arabanın kıçına yapışan piçler
     entry_content: |
 - entry_name: |
-    rte ve fetö'nün barışması
+    selçuk inan
     entry_content: |
 - entry_name: |
     puro ile özdeşleşen ünlü kişi
     entry_content: |
 - entry_name: |
-    passolig kartını yakan galatasaray taraftarı
+    parayla her kadının elde edilebilmesi
     entry_content: |
 - entry_name: |
-    parayla her kadının elde edilebilmesi
+    östersunds fk
+    entry_content: |
+- entry_name: |
+    new york city
     entry_content: |
 - entry_name: |
     müşteri memnuniyetinin sıfır olduğu şirketler
     entry_content: |
 - entry_name: |
-    medipol başakşehir
+    linkin park
     entry_content: |
 - entry_name: |
-    linkin park
+    kız istemeye giderken dikkat edilecek hususlar
     entry_content: |
 - entry_name: |
     iyi sevişip sevişmediğini öğrenme yolları
@@ -96,10 +90,10 @@ data:
     fernando muslera
     entry_content: |
 - entry_name: |
-    erkek dediğin parfüm değil tütün kokar
+    fenerbahçe'nin şl'ye 9 yıldır katılamaması
     entry_content: |
 - entry_name: |
-    emrah serbes
+    ekşi sözlük nick'inin sevgili tarafından bilinmesi
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -117,6 +111,9 @@ data:
     dünyada sadece tek bir kadın kalsa olabilecekler
     entry_content: |
 - entry_name: |
+    dünyada sadece tek bir erkek kalsa olabilecekler
+    entry_content: |
+- entry_name: |
     dunkirk
     entry_content: |
 - entry_name: |
@@ -127,6 +124,9 @@ data:
     entry_content: |
 - entry_name: |
     caner taslaman
+    entry_content: |
+- entry_name: |
+    beşiktaşlılardaki hahahahahahahahahaha ezikliği
     entry_content: |
 - entry_name: |
     beşiktaş
@@ -144,10 +144,10 @@ data:
     20 temmuz 2017 türkiye almanya krizi
     entry_content: |
 - entry_name: |
-    20 temmuz 2017 galatasaray östersunds fk maçı
+    20 temmuz 2017 istanbul'da helikopter sesleri
     entry_content: |
 - entry_name: |
-    19 temmuz 2017 bilgi yayınevi rezaleti
+    20 temmuz 2017 galatasaray östersunds fk maçı
     entry_content: |
 - entry_name: |
     1.75 boyunda sözlük erkeği
