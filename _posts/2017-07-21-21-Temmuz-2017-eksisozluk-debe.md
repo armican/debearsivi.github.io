@@ -9,7 +9,10 @@ data:
     younes belhanda
     entry_content: |
 - entry_name: |
-    yazarların linç edilme korkusuyla söyleyemedikleri
+    yasin öztekin
+    entry_content: |
+- entry_name: |
+    whatsapp'ı silmek
     entry_content: |
 - entry_name: |
     westworld
@@ -24,22 +27,22 @@ data:
     türkçe ezanın kötü bir şey olduğunu sanan insan
     entry_content: |
 - entry_name: |
-    tostun 8 tl ye satıldığı devlet üniversitesi
-    entry_content: |
-- entry_name: |
     top sakalla özdeşleşmiş kişiler
     entry_content: |
 - entry_name: |
     the witcher 3 wild hunt vs elder scrolls v skyrim
     entry_content: |
 - entry_name: |
+    tekel bayisine selamun aleyküm diyerek girmek
+    entry_content: |
+- entry_name: |
+    suriyelilerin türklere arapça öğretmeye başlaması
+    entry_content: |
+- entry_name: |
     suriye'den gelip ekşi sözlük'te yazar olmak
     entry_content: |
 - entry_name: |
     sinan gümüş
-    entry_content: |
-- entry_name: |
-    selektör yapmadan arabanın kıçına yapışan piçler
     entry_content: |
 - entry_name: |
     selçuk inan
@@ -57,19 +60,16 @@ data:
     parayla her kadının elde edilebilmesi
     entry_content: |
 - entry_name: |
-    new york city
-    entry_content: |
-- entry_name: |
     müşteri memnuniyetinin sıfır olduğu şirketler
     entry_content: |
 - entry_name: |
-    martin linnes
+    medipol başakşehir
     entry_content: |
 - entry_name: |
-    kız stajyere ayrı ilgi gösteren mühendis
+    linkin park
     entry_content: |
 - entry_name: |
-    kız istemeye giderken dikkat edilecek hususlar
+    iyi sevişip sevişmediğini öğrenme yolları
     entry_content: |
 - entry_name: |
     igor tudor
@@ -96,19 +96,16 @@ data:
     fernando muslera
     entry_content: |
 - entry_name: |
-    fenerbahçe'nin şl'ye 9 yıldır katılamaması
+    erkek dediğin parfüm değil tütün kokar
     entry_content: |
 - entry_name: |
-    erkek dediğin parfüm değil tütün kokar
+    emrah serbes
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
-    entry_content: |
-- entry_name: |
-    ebubekir sifil caner taslaman tartışması
     entry_content: |
 - entry_name: |
     düşün ki o bunu okuyor
@@ -120,10 +117,7 @@ data:
     dünyada sadece tek bir kadın kalsa olabilecekler
     entry_content: |
 - entry_name: |
-    dünyada sadece tek bir erkek kalsa olabilecekler
-    entry_content: |
-- entry_name: |
-    cinlerin avrupalı insanlara musallat olmama nedeni
+    dunkirk
     entry_content: |
 - entry_name: |
     chester bennington
@@ -132,13 +126,19 @@ data:
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
+    caner taslaman
+    entry_content: |
+- entry_name: |
+    beşiktaş
+    entry_content: |
+- entry_name: |
     bafetimbi gomis
     entry_content: |
 - entry_name: |
-    3. dünya savaşının çıkma nedeni
+    ama bizim uefa kupamız var
     entry_content: |
 - entry_name: |
-    35 ülke gezen kişi
+    3. dünya savaşının çıkma nedeni
     entry_content: |
 - entry_name: |
     20 temmuz 2017 türkiye almanya krizi
@@ -147,7 +147,7 @@ data:
     20 temmuz 2017 galatasaray östersunds fk maçı
     entry_content: |
 - entry_name: |
-    20 temmuz 2017 c.taslaman e.sifil tartışması
+    19 temmuz 2017 bilgi yayınevi rezaleti
     entry_content: |
 - entry_name: |
     1.75 boyunda sözlük erkeği
