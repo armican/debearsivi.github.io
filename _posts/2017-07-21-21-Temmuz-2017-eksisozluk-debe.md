@@ -15,6 +15,9 @@ data:
     westworld
     entry_content: |
 - entry_name: |
+    wesley sneijder
+    entry_content: |
+- entry_name: |
     ultraslan
     entry_content: |
 - entry_name: |
@@ -28,9 +31,6 @@ data:
     entry_content: |
 - entry_name: |
     the witcher 3 wild hunt vs elder scrolls v skyrim
-    entry_content: |
-- entry_name: |
-    suriyelilerin türklere arapça öğretmeye başlaması
     entry_content: |
 - entry_name: |
     suriye'den gelip ekşi sözlük'te yazar olmak
@@ -57,16 +57,13 @@ data:
     parayla her kadının elde edilebilmesi
     entry_content: |
 - entry_name: |
-    nişantaşı üniversitesi
-    entry_content: |
-- entry_name: |
     new york city
     entry_content: |
 - entry_name: |
-    mauricio isla
+    müşteri memnuniyetinin sıfır olduğu şirketler
     entry_content: |
 - entry_name: |
-    komşunun sevişmesini duymak
+    martin linnes
     entry_content: |
 - entry_name: |
     kız stajyere ayrı ilgi gösteren mühendis
@@ -90,13 +87,19 @@ data:
     hande erçel
     entry_content: |
 - entry_name: |
+    hahahahahahahahahaha
+    entry_content: |
+- entry_name: |
     galatasaray
     entry_content: |
 - entry_name: |
-    erkek dediğin parfüm değil tütün kokar
+    fernando muslera
     entry_content: |
 - entry_name: |
-    emrah serbes
+    fenerbahçe'nin şl'ye 9 yıldır katılamaması
+    entry_content: |
+- entry_name: |
+    erkek dediğin parfüm değil tütün kokar
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -106,6 +109,9 @@ data:
     entry_content: |
 - entry_name: |
     ebubekir sifil caner taslaman tartışması
+    entry_content: |
+- entry_name: |
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     dursun özbek
@@ -129,9 +135,6 @@ data:
     bafetimbi gomis
     entry_content: |
 - entry_name: |
-    arda turan'ın arapça yazılı yüzüğü
-    entry_content: |
-- entry_name: |
     3. dünya savaşının çıkma nedeni
     entry_content: |
 - entry_name: |
@@ -139,9 +142,6 @@ data:
     entry_content: |
 - entry_name: |
     20 temmuz 2017 türkiye almanya krizi
-    entry_content: |
-- entry_name: |
-    20 temmuz 2017 metroyu ayı basması
     entry_content: |
 - entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
