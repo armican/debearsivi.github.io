@@ -15,7 +15,13 @@ data:
     tsunami kelimesine türkçe öneri
     entry_content: |
 - entry_name: |
+    tsunami değil deniz yükseldi
+    entry_content: |
+- entry_name: |
     toplu taşımada erkek yanına oturmayan kadın
+    entry_content: |
+- entry_name: |
+    taksilerde ses ve görüntü kaydı alınması
     entry_content: |
 - entry_name: |
     starbucks'ta tek başına oturup kitap okuyan insan
@@ -30,22 +36,13 @@ data:
     özel üniversite okumanın emek hırsızlığı olması
     entry_content: |
 - entry_name: |
-    ölümsüzlüğün keşfinden önce ölen son insan
-    entry_content: |
-- entry_name: |
-    new york city
-    entry_content: |
-- entry_name: |
-    mircea lucescu
+    mürtedin katlini göğsümü gere gere savunurum
     entry_content: |
 - entry_name: |
     meclise atatürk resmi konmayacak gerek görmüyorum
     entry_content: |
 - entry_name: |
     mantık evliliği vs aşk evliliği
-    entry_content: |
-- entry_name: |
-    linkin park
     entry_content: |
 - entry_name: |
     kızların yedekte birçok erkek tutması
@@ -55,6 +52,9 @@ data:
     entry_content: |
 - entry_name: |
     iphone pişmanlıktır
+    entry_content: |
+- entry_name: |
+    igor tudor
     entry_content: |
 - entry_name: |
     hayırlı cumalar tarikatı
@@ -70,9 +70,6 @@ data:
     entry_content: |
 - entry_name: |
     galatasaray
-    entry_content: |
-- entry_name: |
-    fenerbahçe
     entry_content: |
 - entry_name: |
     fatih terim'in alaçatı yüzevler kebap'tan kaçışı
@@ -93,9 +90,6 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    düşün ki o bunu okuyor
-    entry_content: |
-- entry_name: |
     dunkirk
     entry_content: |
 - entry_name: |
@@ -111,13 +105,16 @@ data:
     chester bennington
     entry_content: |
 - entry_name: |
+    çankaya belediyesi'nin akp'liye verdiği pis ayar
+    entry_content: |
+- entry_name: |
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
-    caner taslaman
+    bir facebook sayfasında bodrum depremi yorumları
     entry_content: |
 - entry_name: |
-    bir facebook sayfasında bodrum depremi yorumları
+    başakşehir resmi hesabının attığı tweet
     entry_content: |
 - entry_name: |
     astımım var deyip duman konserine gelmeyen kız
@@ -139,6 +136,9 @@ data:
     entry_content: |
 - entry_name: |
     21 temmuz 2017 gökova depremi
+    entry_content: |
+- entry_name: |
+    21 temmuz 2017 almanya'nın türkiye'ye yaptırımları
     entry_content: |
 - entry_name: |
     20 temmuz 2017 galatasaray östersunds fk maçı
