@@ -9,6 +9,9 @@ data:
     yerli ve milli vestel'in rusya reklamı
     entry_content: |
 - entry_name: |
+    whatsapp'ı silmek
+    entry_content: |
+- entry_name: |
     üniversite tercihi yapacaklara tavsiyeler
     entry_content: |
 - entry_name: |
@@ -18,10 +21,10 @@ data:
     tsunami kelimesine türkçe öneri
     entry_content: |
 - entry_name: |
-    tsunami değil deniz yükseldi
+    toplu taşımada erkek yanına oturmayan kadın
     entry_content: |
 - entry_name: |
-    toplu taşımada erkek yanına oturmayan kadın
+    thomas tuchel
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
@@ -39,7 +42,7 @@ data:
     person of interest vs game of thrones
     entry_content: |
 - entry_name: |
-    parayla her kadının elde edilebilmesi
+    pegasus airlines
     entry_content: |
 - entry_name: |
     özel üniversite okumanın emek hırsızlığı olması
@@ -60,22 +63,16 @@ data:
     kızların yedekte birçok erkek tutması
     entry_content: |
 - entry_name: |
-    iyi sevişip sevişmediğini öğrenme yolları
-    entry_content: |
-- entry_name: |
     israil'in haklı olduğu gerçeği
     entry_content: |
 - entry_name: |
     iphone pişmanlıktır
     entry_content: |
 - entry_name: |
-    instagram
+    hayırlı cumalar tarikatı
     entry_content: |
 - entry_name: |
     harun kolçak
-    entry_content: |
-- entry_name: |
-    haftasonu alkol satışı yasaklanabilir
     entry_content: |
 - entry_name: |
     göğüs dekoltesine bakmamaya çalışmak
@@ -91,6 +88,9 @@ data:
     entry_content: |
 - entry_name: |
     ertuğrul taşkıran'ın boluspor'a transferi
+    entry_content: |
+- entry_name: |
+    ertuğrul taşkıran
     entry_content: |
 - entry_name: |
     ekşi sözlük nick'inin sevgili tarafından bilinmesi
@@ -114,16 +114,16 @@ data:
     chester bennington
     entry_content: |
 - entry_name: |
-    çankaya belediyesi'nin akp'liye verdiği pis ayar
-    entry_content: |
-- entry_name: |
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
     bir facebook sayfasında bodrum depremi yorumları
     entry_content: |
 - entry_name: |
-    başakşehir resmi hesabının attığı tweet
+    beline kadar uzanan saçını kısacık kestiren kadın
+    entry_content: |
+- entry_name: |
+    astımım var deyip duman konserine gelmeyen kız
     entry_content: |
 - entry_name: |
     anaokulu öğretmeninin deprem hakkında attığı tweet
@@ -141,6 +141,9 @@ data:
     368. dönem askere gidecek sözlük yazarları
     entry_content: |
 - entry_name: |
+    21 temmuz 2017 mehmet görmez'in görevi bırakması
+    entry_content: |
+- entry_name: |
     21 temmuz 2017 gökova depremi
     entry_content: |
 - entry_name: |
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     2017-2018 galatasaray teknik direktör anketi
-    entry_content: |
-- entry_name: |
-    110 kilo olup hala tek taş isteyen kadın
     entry_content: |
 ---
