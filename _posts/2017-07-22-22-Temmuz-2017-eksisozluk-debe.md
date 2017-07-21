@@ -18,6 +18,9 @@ data:
     tsunami kelimesine türkçe öneri
     entry_content: |
 - entry_name: |
+    tsunami değil deniz yükseldi
+    entry_content: |
+- entry_name: |
     toplu taşımada erkek yanına oturmayan kadın
     entry_content: |
 - entry_name: |
@@ -36,6 +39,9 @@ data:
     person of interest vs game of thrones
     entry_content: |
 - entry_name: |
+    parayla her kadının elde edilebilmesi
+    entry_content: |
+- entry_name: |
     özel üniversite okumanın emek hırsızlığı olması
     entry_content: |
 - entry_name: |
@@ -46,6 +52,9 @@ data:
     entry_content: |
 - entry_name: |
     mantık evliliği vs aşk evliliği
+    entry_content: |
+- entry_name: |
+    lehim yapabilen kız
     entry_content: |
 - entry_name: |
     kızların yedekte birçok erkek tutması
@@ -63,10 +72,7 @@ data:
     instagram
     entry_content: |
 - entry_name: |
-    igor tudor
-    entry_content: |
-- entry_name: |
-    hayırlı cumalar tarikatı
+    harun kolçak
     entry_content: |
 - entry_name: |
     haftasonu alkol satışı yasaklanabilir
@@ -75,10 +81,7 @@ data:
     göğüs dekoltesine bakmamaya çalışmak
     entry_content: |
 - entry_name: |
-    geceye bir şiir bırak
-    entry_content: |
-- entry_name: |
-    galatasaray
+    fenerbahçe
     entry_content: |
 - entry_name: |
     fatih terim'in alaçatı yüzevler kebap'tan kaçışı
@@ -88,9 +91,6 @@ data:
     entry_content: |
 - entry_name: |
     ertuğrul taşkıran'ın boluspor'a transferi
-    entry_content: |
-- entry_name: |
-    ertuğrul taşkıran
     entry_content: |
 - entry_name: |
     ekşi sözlük nick'inin sevgili tarafından bilinmesi
@@ -114,6 +114,9 @@ data:
     chester bennington
     entry_content: |
 - entry_name: |
+    çankaya belediyesi'nin akp'liye verdiği pis ayar
+    entry_content: |
+- entry_name: |
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
@@ -121,9 +124,6 @@ data:
     entry_content: |
 - entry_name: |
     başakşehir resmi hesabının attığı tweet
-    entry_content: |
-- entry_name: |
-    astımım var deyip duman konserine gelmeyen kız
     entry_content: |
 - entry_name: |
     anaokulu öğretmeninin deprem hakkında attığı tweet
