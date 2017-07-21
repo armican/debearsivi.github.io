@@ -12,19 +12,22 @@ data:
     üniversite tercihi yapacaklara tavsiyeler
     entry_content: |
 - entry_name: |
-    tsunami kelimesine türkçe öneri
+    türbanlı kasiyerin içki şişesine dokunmaması
     entry_content: |
 - entry_name: |
-    tsunami değil deniz yükseldi
+    tsunami kelimesine türkçe öneri
     entry_content: |
 - entry_name: |
     toplu taşımada erkek yanına oturmayan kadın
     entry_content: |
 - entry_name: |
-    taksilerde ses ve görüntü kaydı alınması
+    şu anda çalan şarkı
     entry_content: |
 - entry_name: |
     starbucks'ta tek başına oturup kitap okuyan insan
+    entry_content: |
+- entry_name: |
+    sesinin yüksekliğini ayarlayamayan insanlar
     entry_content: |
 - entry_name: |
     selektör yapmadan arabanın kıçına yapışan piçler
@@ -48,10 +51,16 @@ data:
     kızların yedekte birçok erkek tutması
     entry_content: |
 - entry_name: |
+    iyi sevişip sevişmediğini öğrenme yolları
+    entry_content: |
+- entry_name: |
     israil'in haklı olduğu gerçeği
     entry_content: |
 - entry_name: |
     iphone pişmanlıktır
+    entry_content: |
+- entry_name: |
+    instagram
     entry_content: |
 - entry_name: |
     igor tudor
@@ -63,10 +72,10 @@ data:
     haftasonu alkol satışı yasaklanabilir
     entry_content: |
 - entry_name: |
-    gökova depremini bilen astrolog
+    göğüs dekoltesine bakmamaya çalışmak
     entry_content: |
 - entry_name: |
-    göğüs dekoltesine bakmamaya çalışmak
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     galatasaray
@@ -84,6 +93,9 @@ data:
     ertuğrul taşkıran
     entry_content: |
 - entry_name: |
+    ekşi sözlük nick'inin sevgili tarafından bilinmesi
+    entry_content: |
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
@@ -99,13 +111,7 @@ data:
     deve sidiği içmek faydalıdır
     entry_content: |
 - entry_name: |
-    cinlerin avrupalı insanlara musallat olmama nedeni
-    entry_content: |
-- entry_name: |
     chester bennington
-    entry_content: |
-- entry_name: |
-    çankaya belediyesi'nin akp'liye verdiği pis ayar
     entry_content: |
 - entry_name: |
     caner taslaman ebubekir sifil tartışması
@@ -120,9 +126,6 @@ data:
     astımım var deyip duman konserine gelmeyen kız
     entry_content: |
 - entry_name: |
-    annenin bulduğu kızların hep motor çıkması
-    entry_content: |
-- entry_name: |
     anaokulu öğretmeninin deprem hakkında attığı tweet
     entry_content: |
 - entry_name: |
@@ -132,16 +135,13 @@ data:
     almanya'nın zenginliği hasbelkader kazanmış olması
     entry_content: |
 - entry_name: |
+    almanya'da hiç zenci olmaması
+    entry_content: |
+- entry_name: |
     368. dönem askere gidecek sözlük yazarları
     entry_content: |
 - entry_name: |
     21 temmuz 2017 gökova depremi
-    entry_content: |
-- entry_name: |
-    21 temmuz 2017 almanya'nın türkiye'ye yaptırımları
-    entry_content: |
-- entry_name: |
-    20 temmuz 2017 galatasaray östersunds fk maçı
     entry_content: |
 - entry_name: |
     2017-2018 sezonu süper lig sıralaması tahminleri
