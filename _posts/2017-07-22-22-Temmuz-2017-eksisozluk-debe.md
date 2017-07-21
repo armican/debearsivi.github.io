@@ -39,6 +39,9 @@ data:
     selektör yapmadan arabanın kıçına yapışan piçler
     entry_content: |
 - entry_name: |
+    selçuk inan
+    entry_content: |
+- entry_name: |
     person of interest vs game of thrones
     entry_content: |
 - entry_name: |
@@ -69,6 +72,9 @@ data:
     iphone pişmanlıktır
     entry_content: |
 - entry_name: |
+    hoşlanılan kızın on beş on altıyı ver demesi
+    entry_content: |
+- entry_name: |
     hayırlı cumalar tarikatı
     entry_content: |
 - entry_name: |
@@ -81,16 +87,10 @@ data:
     fenerbahçe
     entry_content: |
 - entry_name: |
-    fatih terim'in alaçatı yüzevler kebap'tan kaçışı
-    entry_content: |
-- entry_name: |
     fakir erkeklerin cinselliğe ulaşamaması
     entry_content: |
 - entry_name: |
     ertuğrul taşkıran'ın boluspor'a transferi
-    entry_content: |
-- entry_name: |
-    ertuğrul taşkıran
     entry_content: |
 - entry_name: |
     ekşi sözlük nick'inin sevgili tarafından bilinmesi
@@ -102,10 +102,10 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dunkirk
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
-    deve sidiğini eleştiren ateist mantık hatası
+    dunkirk
     entry_content: |
 - entry_name: |
     deve sidiği içmek faydalıdır
@@ -117,7 +117,7 @@ data:
     caner taslaman ebubekir sifil tartışması
     entry_content: |
 - entry_name: |
-    bir facebook sayfasında bodrum depremi yorumları
+    caner taslaman
     entry_content: |
 - entry_name: |
     beline kadar uzanan saçını kısacık kestiren kadın
