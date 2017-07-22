@@ -21,16 +21,10 @@ data:
     türkiye'nin doğusunda bilmediğimiz yaşamlar
     entry_content: |
 - entry_name: |
-    türkiye'nin almanya'ya geri vites yapması
-    entry_content: |
-- entry_name: |
-    türkiye'nin almanya'ya ekonomik ambargo uygulaması
-    entry_content: |
-- entry_name: |
-    tsunami kelimesine türkçe öneri
-    entry_content: |
-- entry_name: |
     thomas tuchel
+    entry_content: |
+- entry_name: |
+    şu anda çalan şarkı
     entry_content: |
 - entry_name: |
     sözlükçüleri ağlatan sinema sahneleri
@@ -54,10 +48,13 @@ data:
     mantar satan teyzeye saldıran düzce zabıtası
     entry_content: |
 - entry_name: |
+    luka modric
+    entry_content: |
+- entry_name: |
     kocasının ortağından hamile kalan kadın
     entry_content: |
 - entry_name: |
-    kızların yedekte birçok erkek tutması
+    keanu reeves
     entry_content: |
 - entry_name: |
     kanser günlüğü
@@ -67,9 +64,6 @@ data:
     entry_content: |
 - entry_name: |
     kadın sünneti cinsel zevki arttırıyor
-    entry_content: |
-- entry_name: |
-    iz bırakan kitap cümleleri
     entry_content: |
 - entry_name: |
     israil'in haklı olduğu gerçeği
@@ -88,6 +82,9 @@ data:
     entry_content: |
 - entry_name: |
     herkesi mesleğinden nefret ettiren şey
+    entry_content: |
+- entry_name: |
+    hastası olunan sözler
     entry_content: |
 - entry_name: |
     fetö'den ihraç edilenlerin yaptığı işler
@@ -117,13 +114,13 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
+    deve sidiği içmek faydalıdır
+    entry_content: |
+- entry_name: |
     depremi çıplaklığa ve zinaya bağlamak
     entry_content: |
 - entry_name: |
     cihat bilmeyen çocuğa matematik öğretmek faydasız
-    entry_content: |
-- entry_name: |
-    cengiz semercioğlu
     entry_content: |
 - entry_name: |
     caner taslaman
@@ -133,6 +130,9 @@ data:
     entry_content: |
 - entry_name: |
     beşiktaş
+    entry_content: |
+- entry_name: |
+    bedelli askerlik
     entry_content: |
 - entry_name: |
     atiba hutchinson
