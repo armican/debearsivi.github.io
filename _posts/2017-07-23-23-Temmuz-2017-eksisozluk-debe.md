@@ -3,19 +3,22 @@ layout: post
 title: 23 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    yağlı güreşin çok homoerotik olması
+    entry_content: |
+- entry_name: |
     yaban tv kapatılsın kampanyası
     entry_content: |
 - entry_name: |
     westworld
     entry_content: |
 - entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
-    entry_content: |
-- entry_name: |
     türklerin bdsm ile imtihanı 2
     entry_content: |
 - entry_name: |
     türkiye'nin doğusunda bilmediğimiz yaşamlar
+    entry_content: |
+- entry_name: |
+    türkiye'nin almanya'ya geri vites yapması
     entry_content: |
 - entry_name: |
     türkiye'nin almanya'ya ekonomik ambargo uygulaması
@@ -27,9 +30,6 @@ data:
     thomas tuchel
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
     starbucks'ta tek başına oturup kitap okuyan insan
     entry_content: |
 - entry_name: |
@@ -39,10 +39,16 @@ data:
     sigaraya yeni başlayanlara tavsiyeler
     entry_content: |
 - entry_name: |
+    person of interest vs game of thrones
+    entry_content: |
+- entry_name: |
     pensilvanya valisinin gülen hakkındaki açıklaması
     entry_content: |
 - entry_name: |
-    new york city
+    otomobil yerine sıfır ötv'li pick-up almak
+    entry_content: |
+- entry_name: |
+    okuduğun üniversiteyi söylemeden anlat
     entry_content: |
 - entry_name: |
     mantar satan teyzeye saldıran düzce zabıtası
@@ -66,7 +72,16 @@ data:
     kadın sünneti cinsel zevki arttırıyor
     entry_content: |
 - entry_name: |
+    iz bırakan kitap cümleleri
+    entry_content: |
+- entry_name: |
     israil'in haklı olduğu gerçeği
+    entry_content: |
+- entry_name: |
+    ışidlilerin kadın kılığında musul'dan kaçması
+    entry_content: |
+- entry_name: |
+    iphone pişmanlıktır
     entry_content: |
 - entry_name: |
     insanları sevmemek
@@ -75,16 +90,10 @@ data:
     ienpara.com
     entry_content: |
 - entry_name: |
-    hoşlanılan kızın on beş on altıyı ver demesi
-    entry_content: |
-- entry_name: |
     hero tişörtü giyen sevgililerin gözaltına alınması
     entry_content: |
 - entry_name: |
     herkesi mesleğinden nefret ettiren şey
-    entry_content: |
-- entry_name: |
-    hastası olunan sözler
     entry_content: |
 - entry_name: |
     fetö'den ihraç edilenlerin yaptığı işler
@@ -99,9 +108,6 @@ data:
     ertuğrul taşkıran'ın boluspor'a transferi
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-    entry_content: |
-- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
@@ -109,9 +115,6 @@ data:
     entry_content: |
 - entry_name: |
     dunkirk
-    entry_content: |
-- entry_name: |
-    deve sidiği içmek faydalıdır
     entry_content: |
 - entry_name: |
     depremi çıplaklığa ve zinaya bağlamak
@@ -129,22 +132,19 @@ data:
     beşiktaş
     entry_content: |
 - entry_name: |
-    bedelli askerlik
-    entry_content: |
-- entry_name: |
     atiba hutchinson
     entry_content: |
 - entry_name: |
     atatürk gönderisine yapılan yorumlar
     entry_content: |
 - entry_name: |
+    anaokulu öğretmeninin deprem hakkında attığı tweet
+    entry_content: |
+- entry_name: |
     alvaro negredo sanchez
     entry_content: |
 - entry_name: |
     almanya'nın zenginliği hasbelkader kazanmış olması
-    entry_content: |
-- entry_name: |
-    3 adam'ın acun medya'dan ayrılması
     entry_content: |
 - entry_name: |
     22 temmuz 2017 donanimhaber rezaleti
