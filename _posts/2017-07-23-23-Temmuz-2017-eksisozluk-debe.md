@@ -9,16 +9,19 @@ data:
     yaban tv kapatılsın kampanyası
     entry_content: |
 - entry_name: |
-    westworld
-    entry_content: |
-- entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
-    entry_content: |
-- entry_name: |
     türklerin bdsm ile imtihanı 2
     entry_content: |
 - entry_name: |
     türkiye'nin doğusunda bilmediğimiz yaşamlar
+    entry_content: |
+- entry_name: |
+    türkiye'nin almanya'ya geri vites yapması
+    entry_content: |
+- entry_name: |
+    türkiye'nin almanya'ya ekonomik ambargo uygulaması
+    entry_content: |
+- entry_name: |
+    tsunami kelimesine türkçe öneri
     entry_content: |
 - entry_name: |
     thomas tuchel
@@ -45,6 +48,9 @@ data:
     okuduğun üniversiteyi söylemeden anlat
     entry_content: |
 - entry_name: |
+    new york city
+    entry_content: |
+- entry_name: |
     mantar satan teyzeye saldıran düzce zabıtası
     entry_content: |
 - entry_name: |
@@ -54,7 +60,7 @@ data:
     kocasının ortağından hamile kalan kadın
     entry_content: |
 - entry_name: |
-    keanu reeves
+    kızların yedekte birçok erkek tutması
     entry_content: |
 - entry_name: |
     kanser günlüğü
@@ -84,9 +90,6 @@ data:
     herkesi mesleğinden nefret ettiren şey
     entry_content: |
 - entry_name: |
-    hastası olunan sözler
-    entry_content: |
-- entry_name: |
     fetö'den ihraç edilenlerin yaptığı işler
     entry_content: |
 - entry_name: |
@@ -94,6 +97,9 @@ data:
     entry_content: |
 - entry_name: |
     fenerbahçe'yi uefa'ya şikayet etmek
+    entry_content: |
+- entry_name: |
+    fenerbahçe
     entry_content: |
 - entry_name: |
     ertuğrul taşkıran'ın boluspor'a transferi
@@ -108,13 +114,7 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    düşün ki o bunu okuyor
-    entry_content: |
-- entry_name: |
     dunkirk
-    entry_content: |
-- entry_name: |
-    deve sidiği içmek faydalıdır
     entry_content: |
 - entry_name: |
     depremi çıplaklığa ve zinaya bağlamak
@@ -123,7 +123,7 @@ data:
     cihat bilmeyen çocuğa matematik öğretmek faydasız
     entry_content: |
 - entry_name: |
-    caner taslaman
+    cengiz semercioğlu
     entry_content: |
 - entry_name: |
     beşiktaş vs kadıköy
@@ -144,7 +144,7 @@ data:
     alvaro negredo sanchez
     entry_content: |
 - entry_name: |
-    3 adam'ın acun medya'dan ayrılması
+    ahmet hakan'ın kılıçdaroğlu'na verdiği son ayar
     entry_content: |
 - entry_name: |
     22 temmuz 2017 donanimhaber rezaleti
