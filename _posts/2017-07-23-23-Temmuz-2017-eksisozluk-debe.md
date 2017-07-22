@@ -12,6 +12,9 @@ data:
     westworld
     entry_content: |
 - entry_name: |
+    üniversite tercihi yapacaklara tavsiyeler
+    entry_content: |
+- entry_name: |
     türklerin bdsm ile imtihanı 2
     entry_content: |
 - entry_name: |
@@ -28,9 +31,6 @@ data:
     entry_content: |
 - entry_name: |
     thomas tuchel
-    entry_content: |
-- entry_name: |
-    starbucks'ta tek başına oturup kitap okuyan insan
     entry_content: |
 - entry_name: |
     sözlükçüleri ağlatan sinema sahneleri
@@ -54,9 +54,6 @@ data:
     mantar satan teyzeye saldıran düzce zabıtası
     entry_content: |
 - entry_name: |
-    kyrie irving
-    entry_content: |
-- entry_name: |
     kocasının ortağından hamile kalan kadın
     entry_content: |
 - entry_name: |
@@ -76,9 +73,6 @@ data:
     entry_content: |
 - entry_name: |
     israil'in haklı olduğu gerçeği
-    entry_content: |
-- entry_name: |
-    ışidlilerin kadın kılığında musul'dan kaçması
     entry_content: |
 - entry_name: |
     iphone pişmanlıktır
@@ -108,6 +102,12 @@ data:
     ertuğrul taşkıran'ın boluspor'a transferi
     entry_content: |
 - entry_name: |
+    ekşi sözlük kahve içmelik arkadaş veritabanı
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
@@ -126,6 +126,9 @@ data:
     cengiz semercioğlu
     entry_content: |
 - entry_name: |
+    caner taslaman
+    entry_content: |
+- entry_name: |
     beşiktaş vs kadıköy
     entry_content: |
 - entry_name: |
@@ -138,13 +141,10 @@ data:
     atatürk gönderisine yapılan yorumlar
     entry_content: |
 - entry_name: |
-    anaokulu öğretmeninin deprem hakkında attığı tweet
-    entry_content: |
-- entry_name: |
     alvaro negredo sanchez
     entry_content: |
 - entry_name: |
-    almanya'nın zenginliği hasbelkader kazanmış olması
+    3 adam'ın acun medya'dan ayrılması
     entry_content: |
 - entry_name: |
     22 temmuz 2017 donanimhaber rezaleti
