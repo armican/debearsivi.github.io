@@ -12,19 +12,7 @@ data:
     türklerin bdsm ile imtihanı 2
     entry_content: |
 - entry_name: |
-    türkiye'nin doğusunda bilmediğimiz yaşamlar
-    entry_content: |
-- entry_name: |
-    türkiye'nin almanya'ya geri vites yapması
-    entry_content: |
-- entry_name: |
-    türkiye'nin almanya'ya ekonomik ambargo uygulaması
-    entry_content: |
-- entry_name: |
     tsunami kelimesine türkçe öneri
-    entry_content: |
-- entry_name: |
-    thomas tuchel
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
@@ -33,7 +21,16 @@ data:
     sözlükçüleri ağlatan sinema sahneleri
     entry_content: |
 - entry_name: |
+    sokakta düğün yapan çomarlar
+    entry_content: |
+- entry_name: |
     sigaraya yeni başlayanlara tavsiyeler
+    entry_content: |
+- entry_name: |
+    sesinin yüksekliğini ayarlayamayan insanlar
+    entry_content: |
+- entry_name: |
+    sakarya valisinin tekbirle karşılanması
     entry_content: |
 - entry_name: |
     person of interest vs game of thrones
@@ -72,6 +69,9 @@ data:
     kadın sünneti cinsel zevki arttırıyor
     entry_content: |
 - entry_name: |
+    iz bırakan kitap cümleleri
+    entry_content: |
+- entry_name: |
     israil'in haklı olduğu gerçeği
     entry_content: |
 - entry_name: |
@@ -96,10 +96,10 @@ data:
     fetö darbesi başarılı olsaydı neler olurdu
     entry_content: |
 - entry_name: |
-    fenerbahçe'yi uefa'ya şikayet etmek
+    fenerbahçe
     entry_content: |
 - entry_name: |
-    fenerbahçe
+    eskişehir'de hero yazılı tişört gözaltısı
     entry_content: |
 - entry_name: |
     ertuğrul taşkıran'ın boluspor'a transferi
@@ -141,9 +141,6 @@ data:
     atatürk gönderisine yapılan yorumlar
     entry_content: |
 - entry_name: |
-    alvaro negredo sanchez
-    entry_content: |
-- entry_name: |
     ahmet hakan'ın kılıçdaroğlu'na verdiği son ayar
     entry_content: |
 - entry_name: |
@@ -151,5 +148,8 @@ data:
     entry_content: |
 - entry_name: |
     22 temmuz 2017 doktorun saçından sürüklenmesi
+    entry_content: |
+- entry_name: |
+    2017-2018 galatasaray teknik direktör anketi
     entry_content: |
 ---
