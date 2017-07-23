@@ -9,6 +9,9 @@ data:
     yerli ve milli vestel'in rusya reklamı
     entry_content: |
 - entry_name: |
+    türklerin bdsm ile imtihanı 2
+    entry_content: |
+- entry_name: |
     türk kızlarının %90-95'inin taş gibi olması
     entry_content: |
 - entry_name: |
@@ -21,16 +24,25 @@ data:
     tamer karadağlı
     entry_content: |
 - entry_name: |
+    şu anda çalan şarkı
+    entry_content: |
+- entry_name: |
     sözlükçüleri ağlatan sinema sahneleri
+    entry_content: |
+- entry_name: |
+    sokakta düğün yapan çomarlar
     entry_content: |
 - entry_name: |
     sevişmek kültürümüzde yok
     entry_content: |
 - entry_name: |
+    sesinin yüksekliğini ayarlayamayan insanlar
+    entry_content: |
+- entry_name: |
     pkk'nın evinden kaçırıp öldürdüğü köylü
     entry_content: |
 - entry_name: |
-    peter pan'a pitır pen diyen tip
+    ozark
     entry_content: |
 - entry_name: |
     orkan çınar
@@ -40,9 +52,6 @@ data:
     entry_content: |
 - entry_name: |
     namazın tuvalet kadar değeri yok mu
-    entry_content: |
-- entry_name: |
-    mustafa kemal atatürk darbecidir
     entry_content: |
 - entry_name: |
     mesajlardan küfür yememiş yazar
@@ -84,9 +93,6 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    galatasaray phoenix projesi
-    entry_content: |
-- entry_name: |
     espresso 6 tl americano 10 tl sorunsalı
     entry_content: |
 - entry_name: |
@@ -99,22 +105,13 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    ekşi galatasaray twitter sayfası
-    entry_content: |
-- entry_name: |
     efendi erkeğin önünde sonunda kazanacak olması
     entry_content: |
 - entry_name: |
     dunkirk
     entry_content: |
 - entry_name: |
-    deniz gezmiş'in banka soyması
-    entry_content: |
-- entry_name: |
     decathlon'un bim ve lcw klasında olduğu gerçeği
-    entry_content: |
-- entry_name: |
-    darbeciler çok tipsiz bunlar kemalist olamaz
     entry_content: |
 - entry_name: |
     çocuklar duymasın'ın yeniden çekilmesi
@@ -129,13 +126,13 @@ data:
     chester bennington
     entry_content: |
 - entry_name: |
+    bir erkeğin sevmediğini anlamanın yolları
+    entry_content: |
+- entry_name: |
     beyin yakan fizik sorusu
     entry_content: |
 - entry_name: |
     beşiktaş'ın açık ara şampiyon olacağı gerçeği
-    entry_content: |
-- entry_name: |
-    atatürk'süz 1 tl
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     adana'da dayak yiyen 77 yaşındaki karpuz bekçisi
+    entry_content: |
+- entry_name: |
+    acaba yanlış insanla mı evleniyorum korkusu
     entry_content: |
 - entry_name: |
     9 yaşındaki yetime tecavüz edilen kurs
