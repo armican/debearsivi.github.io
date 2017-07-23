@@ -18,22 +18,16 @@ data:
     tümosan'ın ilk milli motoru x6
     entry_content: |
 - entry_name: |
-    tour de france 2017
+    tamer karadağlı
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
-    stranger things
-    entry_content: |
-- entry_name: |
-    sokakta düğün yapan çomarlar
+    sözlükçüleri ağlatan sinema sahneleri
     entry_content: |
 - entry_name: |
     sevişmek kültürümüzde yok
     entry_content: |
 - entry_name: |
-    sesinin yüksekliğini ayarlayamayan insanlar
+    pkk'nın evinden kaçırıp öldürdüğü köylü
     entry_content: |
 - entry_name: |
     peter pan'a pitır pen diyen tip
@@ -45,7 +39,16 @@ data:
     öğrenci yurdunda 2 kişi kalmanın yasaklanması
     entry_content: |
 - entry_name: |
+    namazın tuvalet kadar değeri yok mu
+    entry_content: |
+- entry_name: |
+    mustafa kemal atatürk darbecidir
+    entry_content: |
+- entry_name: |
     mesajlardan küfür yememiş yazar
+    entry_content: |
+- entry_name: |
+    kola'ya alternatif soğuk içecek
     entry_content: |
 - entry_name: |
     kızların düşünmek için süre istemesi
@@ -69,10 +72,10 @@ data:
     hobi niyetine okunacak üniversite bölümleri
     entry_content: |
 - entry_name: |
-    hero tişörtü giyen sevgililerin gözaltına alınması
+    hem g.saray'ı hem milli takım'ı çalıştırabilirim
     entry_content: |
 - entry_name: |
-    hem g.saray'ı hem milli takım'ı çalıştırabilirim
+    hastası olunan sözler
     entry_content: |
 - entry_name: |
     hande erçel'in göz ve kulak kanatan performansı
@@ -81,7 +84,7 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    fetö'den ihraç edilenlerin yaptığı işler
+    galatasaray phoenix projesi
     entry_content: |
 - entry_name: |
     espresso 6 tl americano 10 tl sorunsalı
@@ -105,10 +108,10 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
-    dondurma çeşidi seçerken yaşanan kısa süreli panik
+    deniz gezmiş'in banka soyması
     entry_content: |
 - entry_name: |
-    deniz gezmiş'in banka soyması
+    decathlon'un bim ve lcw klasında olduğu gerçeği
     entry_content: |
 - entry_name: |
     darbeciler çok tipsiz bunlar kemalist olamaz
@@ -123,10 +126,13 @@ data:
     çiftlikbank
     entry_content: |
 - entry_name: |
+    chester bennington
+    entry_content: |
+- entry_name: |
     beyin yakan fizik sorusu
     entry_content: |
 - entry_name: |
-    beşiktaş vs kadıköy
+    beşiktaş'ın açık ara şampiyon olacağı gerçeği
     entry_content: |
 - entry_name: |
     atatürk'süz 1 tl
@@ -145,11 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     23 temmuz 2017 türksatın çökmesi
-    entry_content: |
-- entry_name: |
-    23 temmuz 2017 istanbulda duyulan patlama sesi
-    entry_content: |
-- entry_name: |
-    22 temmuz 2017 doktorun saçından sürüklenmesi
     entry_content: |
 ---
