@@ -9,7 +9,7 @@ data:
     yerli ve milli vestel'in rusya reklamı
     entry_content: |
 - entry_name: |
-    türklerin bdsm ile imtihanı 2
+    westworld
     entry_content: |
 - entry_name: |
     türk kızlarının %90-95'inin taş gibi olması
@@ -30,9 +30,6 @@ data:
     sözlükçüleri ağlatan sinema sahneleri
     entry_content: |
 - entry_name: |
-    sokakta düğün yapan çomarlar
-    entry_content: |
-- entry_name: |
     sevişmek kültürümüzde yok
     entry_content: |
 - entry_name: |
@@ -42,7 +39,7 @@ data:
     pkk'nın evinden kaçırıp öldürdüğü köylü
     entry_content: |
 - entry_name: |
-    ozark
+    peter pan'a pitır pen diyen tip
     entry_content: |
 - entry_name: |
     orkan çınar
@@ -64,6 +61,9 @@ data:
     entry_content: |
 - entry_name: |
     kitaplıktan ödünç kitap vermemek
+    entry_content: |
+- entry_name: |
+    izmir'de büyücü tanır mısınız
     entry_content: |
 - entry_name: |
     izmir çeşme otobanı rezaleti
@@ -93,6 +93,9 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
+    fatih terim
+    entry_content: |
+- entry_name: |
     espresso 6 tl americano 10 tl sorunsalı
     entry_content: |
 - entry_name: |
@@ -114,16 +117,13 @@ data:
     decathlon'un bim ve lcw klasında olduğu gerçeği
     entry_content: |
 - entry_name: |
-    çocuklar duymasın'ın yeniden çekilmesi
-    entry_content: |
-- entry_name: |
     çocuklar duymasın
     entry_content: |
 - entry_name: |
     çiftlikbank
     entry_content: |
 - entry_name: |
-    chester bennington
+    caner taslaman
     entry_content: |
 - entry_name: |
     bir erkeğin sevmediğini anlamanın yolları
@@ -133,6 +133,9 @@ data:
     entry_content: |
 - entry_name: |
     beşiktaş'ın açık ara şampiyon olacağı gerçeği
+    entry_content: |
+- entry_name: |
+    beşiktaş
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     9 yaşındaki yetime tecavüz edilen kurs
-    entry_content: |
-- entry_name: |
-    23 temmuz 2017 türksatın çökmesi
     entry_content: |
 ---
