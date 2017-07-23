@@ -6,13 +6,13 @@ data:
     zombi saldırısından sonra olası gazete manşetleri
     entry_content: |
 - entry_name: |
-    yerli ve milli vestel'in rusya reklamı
-    entry_content: |
-- entry_name: |
-    westworld
+    üniversite tercihi yapacaklara tavsiyeler
     entry_content: |
 - entry_name: |
     türk kızlarının %90-95'inin taş gibi olması
+    entry_content: |
+- entry_name: |
+    türkiye'de olsa iyi olur denilen şeyler
     entry_content: |
 - entry_name: |
     tüm türkiye'nin yanlış telaffuz ettiği kelime
@@ -24,16 +24,13 @@ data:
     tamer karadağlı
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
-    sözlükçüleri ağlatan sinema sahneleri
-    entry_content: |
-- entry_name: |
     sevişmek kültürümüzde yok
     entry_content: |
 - entry_name: |
-    sesinin yüksekliğini ayarlayamayan insanlar
+    sakarya valisinin tekbirle karşılanması
+    entry_content: |
+- entry_name: |
+    pokemon go
     entry_content: |
 - entry_name: |
     pkk'nın evinden kaçırıp öldürdüğü köylü
@@ -49,6 +46,9 @@ data:
     entry_content: |
 - entry_name: |
     namazın tuvalet kadar değeri yok mu
+    entry_content: |
+- entry_name: |
+    mustafa kemal atatürk darbecidir
     entry_content: |
 - entry_name: |
     mesajlardan küfür yememiş yazar
@@ -84,16 +84,13 @@ data:
     hem g.saray'ı hem milli takım'ı çalıştırabilirim
     entry_content: |
 - entry_name: |
-    hastası olunan sözler
-    entry_content: |
-- entry_name: |
     hande erçel'in göz ve kulak kanatan performansı
     entry_content: |
 - entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
-    fatih terim
+    galatasaray phoenix projesi
     entry_content: |
 - entry_name: |
     espresso 6 tl americano 10 tl sorunsalı
@@ -105,6 +102,9 @@ data:
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
+    ekşi sözlük android &amp; ios uygulaması
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
@@ -114,7 +114,13 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
-    decathlon'un bim ve lcw klasında olduğu gerçeği
+    deniz gezmiş'in banka soyması
+    entry_content: |
+- entry_name: |
+    darbeciler çok tipsiz bunlar kemalist olamaz
+    entry_content: |
+- entry_name: |
+    çocuklar duymasın'ın yeniden çekilmesi
     entry_content: |
 - entry_name: |
     çocuklar duymasın
@@ -135,19 +141,13 @@ data:
     beşiktaş'ın açık ara şampiyon olacağı gerçeği
     entry_content: |
 - entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
-    alvaro negredo sanchez
+    atatürk'süz 1 tl
     entry_content: |
 - entry_name: |
     alişan'ın nişanlısını gömmesi
     entry_content: |
 - entry_name: |
     adana'da dayak yiyen 77 yaşındaki karpuz bekçisi
-    entry_content: |
-- entry_name: |
-    acaba yanlış insanla mı evleniyorum korkusu
     entry_content: |
 - entry_name: |
     9 yaşındaki yetime tecavüz edilen kurs
