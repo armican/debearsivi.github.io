@@ -6,6 +6,9 @@ data:
     zombi saldırısından sonra olası gazete manşetleri
     entry_content: |
 - entry_name: |
+    wonder woman'ın güzel falan olmaması
+    entry_content: |
+- entry_name: |
     üniversite tercihi yapacaklara tavsiyeler
     entry_content: |
 - entry_name: |
@@ -36,9 +39,6 @@ data:
     pkk'nın evinden kaçırıp öldürdüğü köylü
     entry_content: |
 - entry_name: |
-    peter pan'a pitır pen diyen tip
-    entry_content: |
-- entry_name: |
     orkan çınar
     entry_content: |
 - entry_name: |
@@ -46,9 +46,6 @@ data:
     entry_content: |
 - entry_name: |
     namazın tuvalet kadar değeri yok mu
-    entry_content: |
-- entry_name: |
-    mustafa kemal atatürk darbecidir
     entry_content: |
 - entry_name: |
     mesajlardan küfür yememiş yazar
@@ -81,6 +78,9 @@ data:
     hobi niyetine okunacak üniversite bölümleri
     entry_content: |
 - entry_name: |
+    hero tişörtü
+    entry_content: |
+- entry_name: |
     hem g.saray'ı hem milli takım'ı çalıştırabilirim
     entry_content: |
 - entry_name: |
@@ -90,13 +90,10 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    galatasaray phoenix projesi
+    fetö'den ihraç edilenlerin yaptığı işler
     entry_content: |
 - entry_name: |
     espresso 6 tl americano 10 tl sorunsalı
-    entry_content: |
-- entry_name: |
-    eski sevgilinin unutulmayan sözleri
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -108,16 +105,16 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
+    ekşi fenerbahçe twitter hesabı
+    entry_content: |
+- entry_name: |
     efendi erkeğin önünde sonunda kazanacak olması
     entry_content: |
 - entry_name: |
+    düşün ki o bunu okuyor
+    entry_content: |
+- entry_name: |
     dunkirk
-    entry_content: |
-- entry_name: |
-    deniz gezmiş'in banka soyması
-    entry_content: |
-- entry_name: |
-    darbeciler çok tipsiz bunlar kemalist olamaz
     entry_content: |
 - entry_name: |
     çocuklar duymasın'ın yeniden çekilmesi
@@ -132,6 +129,9 @@ data:
     caner taslaman
     entry_content: |
 - entry_name: |
+    bir top dondurmanın 5 lira olması
+    entry_content: |
+- entry_name: |
     bir erkeğin sevmediğini anlamanın yolları
     entry_content: |
 - entry_name: |
@@ -141,7 +141,7 @@ data:
     beşiktaş'ın açık ara şampiyon olacağı gerçeği
     entry_content: |
 - entry_name: |
-    atatürk'süz 1 tl
+    alvaro negredo sanchez
     entry_content: |
 - entry_name: |
     alişan'ın nişanlısını gömmesi
