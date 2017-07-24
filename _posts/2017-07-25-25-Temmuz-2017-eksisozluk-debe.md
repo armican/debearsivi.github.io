@@ -9,6 +9,9 @@ data:
     yuvasına dalan karıncayı yerden yere çarpan böcek
     entry_content: |
 - entry_name: |
+    yıllık izni evde geçirmek
+    entry_content: |
+- entry_name: |
     yenisi çıkmayan mükemmel oyunlar
     entry_content: |
 - entry_name: |
@@ -21,12 +24,6 @@ data:
     türkiye'de vergi veren esnaf var mı sorunsalı
     entry_content: |
 - entry_name: |
-    tatil fotoğrafı terörü
-    entry_content: |
-- entry_name: |
-    sözlük yazarlarının vücudunda en beğendiği yerler
-    entry_content: |
-- entry_name: |
     selman öğüt
     entry_content: |
 - entry_name: |
@@ -34,6 +31,9 @@ data:
     entry_content: |
 - entry_name: |
     şaka maka insan olmamız
+    entry_content: |
+- entry_name: |
+    polisin göstericinin kolunu kırması
     entry_content: |
 - entry_name: |
     #pınarürünleriboykot
@@ -63,22 +63,22 @@ data:
     kdv'nin üçte birinden azının toplanabilmesi
     entry_content: |
 - entry_name: |
-    kanser günlüğü
-    entry_content: |
-- entry_name: |
     kadınların bir erkekte baktığı ilk yer
     entry_content: |
 - entry_name: |
     kadınların araba kullanırken yaptıkları hatalar
     entry_content: |
 - entry_name: |
-    hp'nin yeni logosu
-    entry_content: |
-- entry_name: |
     hobi niyetine okunacak üniversite bölümleri
     entry_content: |
 - entry_name: |
     hero tişörtü
+    entry_content: |
+- entry_name: |
+    hayatınızdan stresi çıkartın
+    entry_content: |
+- entry_name: |
+    hasan akan
     entry_content: |
 - entry_name: |
     halil inalcık için ulema kabri yapılması
@@ -96,9 +96,6 @@ data:
     fatih akın'ın pyd filmi yapması
     entry_content: |
 - entry_name: |
-    emin aşıkkutlu
-    entry_content: |
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
@@ -111,13 +108,16 @@ data:
     düzgün erkeklerin hepsinin kapılmış olması
     entry_content: |
 - entry_name: |
+    düşün ki o bunu okuyor
+    entry_content: |
+- entry_name: |
     dunkirk
     entry_content: |
 - entry_name: |
-    cem dizdar
+    çocuklar duymasın
     entry_content: |
 - entry_name: |
-    bir erkeğin sevmediğini anlamanın yolları
+    cem dizdar
     entry_content: |
 - entry_name: |
     bir defa gelinen hayatta sabah 8 akşam 5 çalışmak
@@ -135,6 +135,9 @@ data:
     alaçatı'da 240 tl'ye satılan hamburger
     entry_content: |
 - entry_name: |
+    30 yaşından sonra anlaşılan gerçekler
+    entry_content: |
+- entry_name: |
     25 temmuz 2017 mehmet görmez'in görevden alınması
     entry_content: |
 - entry_name: |
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     1 ocak 2018 kdv reformu
-    entry_content: |
-- entry_name: |
-    10 bin tl maaş almak
     entry_content: |
 ---
