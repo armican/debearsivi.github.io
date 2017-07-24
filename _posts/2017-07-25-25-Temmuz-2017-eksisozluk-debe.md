@@ -12,9 +12,6 @@ data:
     yenisi çıkmayan mükemmel oyunlar
     entry_content: |
 - entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
-    entry_content: |
-- entry_name: |
     türkiye'nin dünya medyasında oldukça yer alması
     entry_content: |
 - entry_name: |
@@ -27,9 +24,6 @@ data:
     sözlük yazarlarının vücudunda en beğendiği yerler
     entry_content: |
 - entry_name: |
-    sevişmek kültürümüzde yok
-    entry_content: |
-- entry_name: |
     samuel eto'o
     entry_content: |
 - entry_name: |
@@ -39,9 +33,6 @@ data:
     #pınarürünleriboykot
     entry_content: |
 - entry_name: |
-    orkan çınar'ın beşiktaş'a transferi
-    entry_content: |
-- entry_name: |
     ölümü en iyi anlatan cümle
     entry_content: |
 - entry_name: |
@@ -49,6 +40,9 @@ data:
     entry_content: |
 - entry_name: |
     mimarlığı bırakıp dilenci olmak
+    entry_content: |
+- entry_name: |
+    midtown madness
     entry_content: |
 - entry_name: |
     microsoft'un paint'in fişini çekmesi
@@ -61,6 +55,9 @@ data:
     entry_content: |
 - entry_name: |
     keanu reeves
+    entry_content: |
+- entry_name: |
+    kayseri tomarza'da ejderha camı madeni bulunması
     entry_content: |
 - entry_name: |
     kadınların bir erkekte baktığı ilk yer
@@ -90,9 +87,6 @@ data:
     erkeklerin çığlık atamaması
     entry_content: |
 - entry_name: |
-    ekşi sözlük iş ağı
-    entry_content: |
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
@@ -105,10 +99,19 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
+    çocuklar duymasın
+    entry_content: |
+- entry_name: |
     cem dizdar
     entry_content: |
 - entry_name: |
     bir kadının aşık olduğu adam olmak
+    entry_content: |
+- entry_name: |
+    bir erkeğin sevmediğini anlamanın yolları
+    entry_content: |
+- entry_name: |
+    bir defa gelinen hayatta sabah 8 akşam 5 çalışmak
     entry_content: |
 - entry_name: |
     bir buçuk tonluk künefenin 20 dakikada bitmesi
@@ -117,25 +120,19 @@ data:
     beşiktaş taraftarı
     entry_content: |
 - entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
     beraber saçmalanabilen insan
     entry_content: |
 - entry_name: |
     atar yapıp dayak yiyen motorcu
     entry_content: |
 - entry_name: |
-    alvaro negredo sanchez
-    entry_content: |
-- entry_name: |
-    almanya'nın türkiye'ye demokrasi getirmesi
+    alişan'ın nişanlısını gömmesi
     entry_content: |
 - entry_name: |
     alaçatı'da 240 tl'ye satılan hamburger
     entry_content: |
 - entry_name: |
-    adana'da dayak yiyen 77 yaşındaki karpuz bekçisi
+    akplilerin evrim tartışması
     entry_content: |
 - entry_name: |
     25 temmuz 2017 mehmet görmez'in görevden alınması
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     24 temmuz 2017 cumhuriyet gazetesi duruşması
+    entry_content: |
+- entry_name: |
+    24 temmuz 2017 ankara'daki kırmızı ışıklı uçan şey
     entry_content: |
 - entry_name: |
     1 ocak 2018 kdv reformu
