@@ -36,13 +36,13 @@ data:
     okul bahçesinde sevişen gençler
     entry_content: |
 - entry_name: |
+    nuriye ve semih'in açlığına ses ver
+    entry_content: |
+- entry_name: |
     mimarlığı bırakıp dilenci olmak
     entry_content: |
 - entry_name: |
     midtown madness
-    entry_content: |
-- entry_name: |
-    microsoft'un paint'in fişini çekmesi
     entry_content: |
 - entry_name: |
     lozan antlaşması
@@ -54,7 +54,7 @@ data:
     kilo alındığının fark edildiği an
     entry_content: |
 - entry_name: |
-    kayseri tomarza'da ejderha camı madeni bulunması
+    kdv'nin üçte birinden azının toplanabilmesi
     entry_content: |
 - entry_name: |
     kadınların bir erkekte baktığı ilk yer
@@ -129,10 +129,10 @@ data:
     alişan'ın nişanlısını gömmesi
     entry_content: |
 - entry_name: |
-    akplilerin evrim tartışması
+    alaçatı'da 240 tl'ye satılan hamburger
     entry_content: |
 - entry_name: |
-    25 temmuz 2017 mehmet görmez'in görevden alınması
+    akplilerin evrim tartışması
     entry_content: |
 - entry_name: |
     24 temmuz 2017 rte'nin yeni lozan yorumu
