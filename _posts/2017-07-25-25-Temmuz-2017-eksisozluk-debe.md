@@ -21,19 +21,16 @@ data:
     türkiye'de vergi veren esnaf var mı sorunsalı
     entry_content: |
 - entry_name: |
+    tatil fotoğrafı terörü
+    entry_content: |
+- entry_name: |
     sözlük yazarlarının vücudunda en beğendiği yerler
     entry_content: |
 - entry_name: |
     samuel eto'o
     entry_content: |
 - entry_name: |
-    polisin göstericinin kolunu kırması
-    entry_content: |
-- entry_name: |
     #pınarürünleriboykot
-    entry_content: |
-- entry_name: |
-    ölümü en iyi anlatan cümle
     entry_content: |
 - entry_name: |
     okul bahçesinde sevişen gençler
@@ -48,13 +45,13 @@ data:
     microsoft'un paint'in fişini çekmesi
     entry_content: |
 - entry_name: |
-    mesleğini söyleyince verilen cevaplar
+    lozan antlaşması
     entry_content: |
 - entry_name: |
     kişinin 17 yaşındaki haline vereceği öğüt
     entry_content: |
 - entry_name: |
-    keanu reeves
+    kilo alındığının fark edildiği an
     entry_content: |
 - entry_name: |
     kayseri tomarza'da ejderha camı madeni bulunması
@@ -66,6 +63,9 @@ data:
     kadınların araba kullanırken yaptıkları hatalar
     entry_content: |
 - entry_name: |
+    ingilizcenizden ana dilinizi tespit eden test
+    entry_content: |
+- entry_name: |
     hp'nin yeni logosu
     entry_content: |
 - entry_name: |
@@ -73,6 +73,9 @@ data:
     entry_content: |
 - entry_name: |
     hero tişörtü
+    entry_content: |
+- entry_name: |
+    güldür güldür'ün güldürmemesi
     entry_content: |
 - entry_name: |
     game of thrones
@@ -84,13 +87,13 @@ data:
     evlendikten sonra bekarlara böcek gibi bakan kadın
     entry_content: |
 - entry_name: |
-    erkeklerin çığlık atamaması
-    entry_content: |
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
+    entry_content: |
+- entry_name: |
+    düzgün erkeklerin hepsinin kapılmış olması
     entry_content: |
 - entry_name: |
     düşün ki o bunu okuyor
@@ -99,13 +102,7 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
-    çocuklar duymasın
-    entry_content: |
-- entry_name: |
     cem dizdar
-    entry_content: |
-- entry_name: |
-    bir kadının aşık olduğu adam olmak
     entry_content: |
 - entry_name: |
     bir erkeğin sevmediğini anlamanın yolları
@@ -126,10 +123,10 @@ data:
     atar yapıp dayak yiyen motorcu
     entry_content: |
 - entry_name: |
-    alişan'ın nişanlısını gömmesi
+    alvaro negredo sanchez
     entry_content: |
 - entry_name: |
-    alaçatı'da 240 tl'ye satılan hamburger
+    alişan'ın nişanlısını gömmesi
     entry_content: |
 - entry_name: |
     akplilerin evrim tartışması
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     24 temmuz 2017 ankara'daki kırmızı ışıklı uçan şey
+    entry_content: |
+- entry_name: |
+    22 temmuz 2017 donanimhaber rezaleti
     entry_content: |
 - entry_name: |
     1 ocak 2018 kdv reformu
