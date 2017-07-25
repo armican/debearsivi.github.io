@@ -12,13 +12,13 @@ data:
     türkler hala göktanrıya inansa olabilecekler
     entry_content: |
 - entry_name: |
-    türk kızında en sık görülen psikolojik hastalıklar
-    entry_content: |
-- entry_name: |
     türkiye'de ydışına göre daha prestijli olan meslek
     entry_content: |
 - entry_name: |
     sözlük erkeklerinin yakışıklılık dereceleri
+    entry_content: |
+- entry_name: |
+    skechers
     entry_content: |
 - entry_name: |
     ricardo quaresma
@@ -66,9 +66,6 @@ data:
     gümrük birliği anlaşması'nın iptali
     entry_content: |
 - entry_name: |
-    grup seks nedeniyle kovulan banka şube çalışanları
-    entry_content: |
-- entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
@@ -96,6 +93,15 @@ data:
     düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
+    dunkirk
+    entry_content: |
+- entry_name: |
+    çocuklarına zenci bebek hediye eden anne
+    entry_content: |
+- entry_name: |
+    çocuk istismarına rekor ceza verilmesi
+    entry_content: |
+- entry_name: |
     çalışmayan bir erkekle evlenmek
     entry_content: |
 - entry_name: |
@@ -120,9 +126,6 @@ data:
     akademisyenlerin öğretmen denilince kızmaları
     entry_content: |
 - entry_name: |
-    6 patlıcan aldım. hakını helat et
-    entry_content: |
-- entry_name: |
     34 tak 79
     entry_content: |
 - entry_name: |
@@ -142,9 +145,6 @@ data:
     entry_content: |
 - entry_name: |
     25 ağustos 2017 uefa şampiyonlar ligi kura çekimi
-    entry_content: |
-- entry_name: |
-    25.07.2017 çocuk istismarına rekor ceza verilmesi
     entry_content: |
 - entry_name: |
     1919-1923 istiklal savaşı tiyatrosu
