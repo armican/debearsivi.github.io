@@ -3,6 +3,9 @@ layout: post
 title: 26 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    zeybek oynayan erkek karizması
+    entry_content: |
+- entry_name: |
     yatakta hangi game of thrones karakterisin
     entry_content: |
 - entry_name: |
@@ -27,9 +30,6 @@ data:
     motosiklet ölüme davetiyedir
     entry_content: |
 - entry_name: |
-    mircea lucescu
-    entry_content: |
-- entry_name: |
     mezarlıkta çiftetelli oynayan çılgın kadınlar
     entry_content: |
 - entry_name: |
@@ -39,13 +39,16 @@ data:
     kanser temalı filmler
     entry_content: |
 - entry_name: |
+    kadın erkek ilişkisindeki en önemli şey
+    entry_content: |
+- entry_name: |
     izmir fuarındaki dans kapışması
     entry_content: |
 - entry_name: |
     iyi kalpli aşırı duygusal sessiz efendi erkek
     entry_content: |
 - entry_name: |
-    iyi bir tatilin püf noktaları
+    israil'in erdoğan için attğı tehditkar tweetler
     entry_content: |
 - entry_name: |
     hukuk tarihinde yapılmış muhteşem savunmalar
@@ -69,6 +72,9 @@ data:
     fatih terim'in rüştü reçber'e yazdığı mektup
     entry_content: |
 - entry_name: |
+    fallout 4
+    entry_content: |
+- entry_name: |
     fake uzaylı saldırısı senaryosu
     entry_content: |
 - entry_name: |
@@ -88,9 +94,6 @@ data:
     entry_content: |
 - entry_name: |
     ekşi itiraf
-    entry_content: |
-- entry_name: |
-    eczacıların %50'sinin ayda 2000 tl kazanması
     entry_content: |
 - entry_name: |
     düşün ki o bunu okuyor
@@ -123,19 +126,16 @@ data:
     ayasofya'nin şişirilmiş balon olması
     entry_content: |
 - entry_name: |
-    araplar bizi arkadan vurdu yalanı
-    entry_content: |
-- entry_name: |
-    akademisyenlerin öğretmen denilince kızmaları
+    altın elbiseli adam
     entry_content: |
 - entry_name: |
     30 yaşından sonra anlaşılan gerçekler
     entry_content: |
 - entry_name: |
-    2 kişi aynı odada kalamaz anlarsınız işte
+    25 temmuz 2017 havada bir garipliğin olması
     entry_content: |
 - entry_name: |
-    25 temmuz 2017 havada bir garipliğin olması
+    25 temmuz 2017 erdoğan'ın almanya'ya rest çekmesi
     entry_content: |
 - entry_name: |
     25 temmuz 2017 beşiktaş valladolid maçı
