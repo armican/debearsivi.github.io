@@ -18,10 +18,7 @@ data:
     sözlük erkeklerinin yakışıklılık dereceleri
     entry_content: |
 - entry_name: |
-    skechers
-    entry_content: |
-- entry_name: |
-    ricardo quaresma
+    onemliuyarilar'a yardım ediyoruz
     entry_content: |
 - entry_name: |
     müftülere resmi nikah kıyma yetkisi verilmesi
@@ -36,9 +33,6 @@ data:
     mezarlıkta çiftetelli oynayan çılgın kadınlar
     entry_content: |
 - entry_name: |
-    matej mitrovic
-    entry_content: |
-- entry_name: |
     kylian mbappe
     entry_content: |
 - entry_name: |
@@ -51,13 +45,13 @@ data:
     iyi kalpli aşırı duygusal sessiz efendi erkek
     entry_content: |
 - entry_name: |
+    iyi bir tatilin püf noktaları
+    entry_content: |
+- entry_name: |
     hukuk tarihinde yapılmış muhteşem savunmalar
     entry_content: |
 - entry_name: |
     his understanding of the subject is limited
-    entry_content: |
-- entry_name: |
-    hasan akan
     entry_content: |
 - entry_name: |
     harun kolçak'ın cenazesindeki fotoğraf rezaleti
@@ -69,10 +63,13 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
+    futbolda beraberliğin kaldırılması
+    entry_content: |
+- entry_name: |
     fatih terim'in rüştü reçber'e yazdığı mektup
     entry_content: |
 - entry_name: |
-    fallout 4
+    fake uzaylı saldırısı senaryosu
     entry_content: |
 - entry_name: |
     evrimci solcu bilime inanan ateist atatürkçü erkek
@@ -87,19 +84,25 @@ data:
     elon musk-mark zuckerberg kavgası
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    düşün ki o bunu okuyor
+    eczacıların %50'sinin ayda 2000 tl kazanması
     entry_content: |
 - entry_name: |
-    dunkirk
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     çocuklarına zenci bebek hediye eden anne
     entry_content: |
 - entry_name: |
     çocuk istismarına rekor ceza verilmesi
+    entry_content: |
+- entry_name: |
+    carl gustav
     entry_content: |
 - entry_name: |
     çalışmayan bir erkekle evlenmek
@@ -111,10 +114,7 @@ data:
     burhan kuzu
     entry_content: |
 - entry_name: |
-    boşandığı eşin sevgilisinden tazminat talep etmek
-    entry_content: |
-- entry_name: |
-    bir insanın kendisine yapabileceği en büyük iyilik
+    bir insanla ilişiği kesmek için yeter sebepler
     entry_content: |
 - entry_name: |
     barkın bayoğlu
@@ -123,10 +123,10 @@ data:
     ayasofya'nin şişirilmiş balon olması
     entry_content: |
 - entry_name: |
-    akademisyenlerin öğretmen denilince kızmaları
+    araplar bizi arkadan vurdu yalanı
     entry_content: |
 - entry_name: |
-    34 tak 79
+    akademisyenlerin öğretmen denilince kızmaları
     entry_content: |
 - entry_name: |
     30 yaşından sonra anlaşılan gerçekler
@@ -138,10 +138,10 @@ data:
     25 temmuz 2017 havada bir garipliğin olması
     entry_content: |
 - entry_name: |
-    25 temmuz 2017 gemlik depremi
+    25 temmuz 2017 beşiktaş valladolid maçı
     entry_content: |
 - entry_name: |
-    25 temmuz 2017 beşiktaş valladolid maçı
+    25 temmuz 2017 barkın bayoğlu'nun vefatı
     entry_content: |
 - entry_name: |
     25 ağustos 2017 uefa şampiyonlar ligi kura çekimi
