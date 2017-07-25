@@ -30,6 +30,9 @@ data:
     motosiklet ölüme davetiyedir
     entry_content: |
 - entry_name: |
+    mircea lucescu
+    entry_content: |
+- entry_name: |
     mezarlıkta çiftetelli oynayan çılgın kadınlar
     entry_content: |
 - entry_name: |
@@ -48,9 +51,6 @@ data:
     iyi kalpli aşırı duygusal sessiz efendi erkek
     entry_content: |
 - entry_name: |
-    iyi bir tatilin püf noktaları
-    entry_content: |
-- entry_name: |
     hukuk tarihinde yapılmış muhteşem savunmalar
     entry_content: |
 - entry_name: |
@@ -66,7 +66,7 @@ data:
     gümrük birliği anlaşması'nın iptali
     entry_content: |
 - entry_name: |
-    grup sex nedeniyle kovulan banka sube calisanlari
+    grup seks nedeniyle kovulan banka şube çalışanları
     entry_content: |
 - entry_name: |
     game of thrones
@@ -108,16 +108,13 @@ data:
     boşandığı eşin sevgilisinden tazminat talep etmek
     entry_content: |
 - entry_name: |
-    bir kadının aşık olduğu adam olmak
+    bir insanın kendisine yapabileceği en büyük iyilik
     entry_content: |
 - entry_name: |
     barkın bayoğlu
     entry_content: |
 - entry_name: |
     ayasofya'nin şişirilmiş balon olması
-    entry_content: |
-- entry_name: |
-    araplar bizi arkadan vurdu yalanı
     entry_content: |
 - entry_name: |
     akademisyenlerin öğretmen denilince kızmaları
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     25 ağustos 2017 uefa şampiyonlar ligi kura çekimi
+    entry_content: |
+- entry_name: |
+    25.07.2017 çocuk istismarına rekor ceza verilmesi
     entry_content: |
 - entry_name: |
     1919-1923 istiklal savaşı tiyatrosu
