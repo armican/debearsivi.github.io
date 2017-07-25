@@ -30,19 +30,19 @@ data:
     motosiklet ölüme davetiyedir
     entry_content: |
 - entry_name: |
-    mircea lucescu
-    entry_content: |
-- entry_name: |
     mezarlıkta çiftetelli oynayan çılgın kadınlar
     entry_content: |
 - entry_name: |
-    lüks otellerde porsiyonlar küçülmeli
+    matej mitrovic
     entry_content: |
 - entry_name: |
     kylian mbappe
     entry_content: |
 - entry_name: |
     kanser temalı filmler
+    entry_content: |
+- entry_name: |
+    izmir fuarındaki dans kapışması
     entry_content: |
 - entry_name: |
     iyi kalpli aşırı duygusal sessiz efendi erkek
@@ -69,16 +69,13 @@ data:
     grup sex nedeniyle kovulan banka sube calisanlari
     entry_content: |
 - entry_name: |
-    götten bacaklı insanların hiç seksi olmaması
-    entry_content: |
-- entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
-    film ve dizilerin artık türkçe telaffuz edilmemesi
+    fatih terim'in rüştü reçber'e yazdığı mektup
     entry_content: |
 - entry_name: |
-    fatih terim'in rüştü reçber'e yazdığı mektup
+    fallout 4
     entry_content: |
 - entry_name: |
     evrimci solcu bilime inanan ateist atatürkçü erkek
@@ -96,10 +93,7 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    efendi erkeğin önünde sonunda kazanacak olması
-    entry_content: |
-- entry_name: |
-    eczacıların %50'sinin ayda 2000 tl kazanması
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     çalışmayan bir erkekle evlenmek
@@ -111,10 +105,10 @@ data:
     burhan kuzu
     entry_content: |
 - entry_name: |
-    bu akşam ne yiyeceğim telaşı
+    boşandığı eşin sevgilisinden tazminat talep etmek
     entry_content: |
 - entry_name: |
-    bedelli askerlik
+    bir kadının aşık olduğu adam olmak
     entry_content: |
 - entry_name: |
     barkın bayoğlu
@@ -123,7 +117,7 @@ data:
     ayasofya'nin şişirilmiş balon olması
     entry_content: |
 - entry_name: |
-    altın elbiseli adam
+    araplar bizi arkadan vurdu yalanı
     entry_content: |
 - entry_name: |
     akademisyenlerin öğretmen denilince kızmaları
@@ -132,10 +126,16 @@ data:
     6 patlıcan aldım. hakını helat et
     entry_content: |
 - entry_name: |
+    34 tak 79
+    entry_content: |
+- entry_name: |
     30 yaşından sonra anlaşılan gerçekler
     entry_content: |
 - entry_name: |
     2 kişi aynı odada kalamaz anlarsınız işte
+    entry_content: |
+- entry_name: |
+    25 temmuz 2017 havada bir garipliğin olması
     entry_content: |
 - entry_name: |
     25 temmuz 2017 gemlik depremi
@@ -144,12 +144,12 @@ data:
     25 temmuz 2017 beşiktaş valladolid maçı
     entry_content: |
 - entry_name: |
-    25 temmuz 2017 barkın bayoğlu'nun vefatı
-    entry_content: |
-- entry_name: |
     25 ağustos 2017 uefa şampiyonlar ligi kura çekimi
     entry_content: |
 - entry_name: |
     1919-1923 istiklal savaşı tiyatrosu
+    entry_content: |
+- entry_name: |
+    1.85 boyunda zeki esprili yakışıklı kültürlü erkek
     entry_content: |
 ---
