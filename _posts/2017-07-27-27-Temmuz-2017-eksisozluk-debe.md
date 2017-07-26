@@ -3,19 +3,16 @@ layout: post
 title: 27 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    yılmaz vural'ın milli takımın başına geçmesi
+    y kuşağının sık sık iş değiştirmesi
     entry_content: |
 - entry_name: |
-    yeni darbeyi ulusalcılar yapabilir
+    yılmaz vural'ın milli takımın başına geçmesi
     entry_content: |
 - entry_name: |
     yardımcı doçentliğin kaldırılması
     entry_content: |
 - entry_name: |
     uzaylılar mesaj yollarsa cevap vermemeliyiz
-    entry_content: |
-- entry_name: |
-    uzaylılar mesaj gönderirse cevap vermeyin
     entry_content: |
 - entry_name: |
     uludağ sözlük'te engellilere hakaret edilmesi
@@ -30,7 +27,10 @@ data:
     türkiye'deki ter kokusunun sebebi
     entry_content: |
 - entry_name: |
-    sözlük erkeklerinin yakışıklılık dereceleri
+    sinan küfeoğlu
+    entry_content: |
+- entry_name: |
+    silah zoruyla yazan kızlar
     entry_content: |
 - entry_name: |
     sıçtık kelimesinin pc oyunlarındaki terminolojisi
@@ -81,6 +81,9 @@ data:
     göksel'in okul yıllığındaki fotoğrafı
     entry_content: |
 - entry_name: |
+    game of thrones
+    entry_content: |
+- entry_name: |
     fikret orman'ın şenol güneş açıklaması
     entry_content: |
 - entry_name: |
@@ -126,16 +129,13 @@ data:
     ahmet şık
     entry_content: |
 - entry_name: |
-    ahmethan köse
+    abdullah avcı
     entry_content: |
 - entry_name: |
     5.5 milyar insanın cehenneme gidecek olması
     entry_content: |
 - entry_name: |
     27 temmuz 2017 sturm graz fenerbahçe maçı
-    entry_content: |
-- entry_name: |
-    26 temmuz 2017 rüştü reçber köşe yazısı
     entry_content: |
 - entry_name: |
     26 temmuz 2017 merve kavakçı'nın büyükelçi olması
