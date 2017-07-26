@@ -6,9 +6,6 @@ data:
     y kuşağının sık sık iş değiştirmesi
     entry_content: |
 - entry_name: |
-    yılmaz vural'ın milli takımın başına geçmesi
-    entry_content: |
-- entry_name: |
     yardımcı doçentliğin kaldırılması
     entry_content: |
 - entry_name: |
@@ -27,9 +24,6 @@ data:
     türkiye'deki ter kokusunun sebebi
     entry_content: |
 - entry_name: |
-    sinan küfeoğlu
-    entry_content: |
-- entry_name: |
     silah zoruyla yazan kızlar
     entry_content: |
 - entry_name: |
@@ -45,6 +39,9 @@ data:
     şenol güneş
     entry_content: |
 - entry_name: |
+    şekeri bırakmak
+    entry_content: |
+- entry_name: |
     rakı içen kadın iticiliği
     entry_content: |
 - entry_name: |
@@ -54,10 +51,10 @@ data:
     müftülere resmi nikah kıyma yetkisi verilmesi
     entry_content: |
 - entry_name: |
-    memur alımında mülakat şartı getirilmesi
+    merve kavakçı
     entry_content: |
 - entry_name: |
-    lucas lima
+    memur alımında mülakat şartı getirilmesi
     entry_content: |
 - entry_name: |
     kulüp takımını milli takımdan çok seven beşiktaşlı
@@ -69,10 +66,10 @@ data:
     kahrolsun istibdat yaşasın hürriyet
     entry_content: |
 - entry_name: |
-    israil'in erdoğan için attığı tehditkar tweetler
+    ırkçı değilim ama araplardan nefret ediyorum
     entry_content: |
 - entry_name: |
-    ırkçı değilim ama araplardan nefret ediyorum
+    instagram
     entry_content: |
 - entry_name: |
     ilk kez helikopter kullanacaklara tavsiyeler
@@ -99,9 +96,6 @@ data:
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
-    ekşi muhabbet kuşu aşıkları whatsapp grubu
-    entry_content: |
-- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
@@ -111,16 +105,22 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
-    diyanetin fetö raporu
+    cumhurbaşkanımız şenol güneş'i milli takıma atasın
     entry_content: |
 - entry_name: |
-    cumhurbaşkanımız şenol güneş'i milli takıma atasın
+    çocuklar duymasın
     entry_content: |
 - entry_name: |
     challange yerine kullanılabilecek türkçe kelime
     entry_content: |
 - entry_name: |
+    cengiz ünder
+    entry_content: |
+- entry_name: |
     cambridge'de görev yapan türk akademisyenin sitemi
+    entry_content: |
+- entry_name: |
+    bitcoin
     entry_content: |
 - entry_name: |
     barkın bayoğlu
