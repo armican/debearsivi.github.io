@@ -3,22 +3,10 @@ layout: post
 title: 27 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    y kuşağının sık sık iş değiştirmesi
-    entry_content: |
-- entry_name: |
-    yılmaz vural'ın milli takımın başına geçmesi
-    entry_content: |
-- entry_name: |
-    yeni darbeyi ulusalcılar yapabilir
-    entry_content: |
-- entry_name: |
     yardımcı doçentliğin kaldırılması
     entry_content: |
 - entry_name: |
     uzaylılar mesaj yollarsa cevap vermemeliyiz
-    entry_content: |
-- entry_name: |
-    uludağ sözlük'te engellilere hakaret edilmesi
     entry_content: |
 - entry_name: |
     twitter'daki ilginç iş ilanı
@@ -33,10 +21,13 @@ data:
     tişört için türkçe isim önerileri
     entry_content: |
 - entry_name: |
-    sözlük erkeklerinin yakışıklılık dereceleri
+    silah zoruyla yazan kızlar
     entry_content: |
 - entry_name: |
     sıçtık kelimesinin pc oyunlarındaki terminolojisi
+    entry_content: |
+- entry_name: |
+    sevgilisine prenses diye hitap eden erkek
     entry_content: |
 - entry_name: |
     şenol güneş'in tekrar milli takımın başına geçmesi
@@ -46,6 +37,12 @@ data:
     entry_content: |
 - entry_name: |
     rakı içen kadın iticiliği
+    entry_content: |
+- entry_name: |
+    pigmelere 5 bin yıl sonra gelen değişiklik
+    entry_content: |
+- entry_name: |
+    new york city
     entry_content: |
 - entry_name: |
     müzik aleti olan eve melek girmemesi
@@ -58,6 +55,9 @@ data:
     entry_content: |
 - entry_name: |
     konya'da drift yaparken kaza yapan kız
+    entry_content: |
+- entry_name: |
+    kediyle konuşmak
     entry_content: |
 - entry_name: |
     kaliteli bir yaşam için ipuçları
@@ -81,10 +81,10 @@ data:
     göksel'in okul yıllığındaki fotoğrafı
     entry_content: |
 - entry_name: |
-    fikret orman'ın şenol güneş açıklaması
+    game of thrones
     entry_content: |
 - entry_name: |
-    fatih terim'in galatasaray'a geri dönmesi
+    fikret orman'ın şenol güneş açıklaması
     entry_content: |
 - entry_name: |
     fatih terim
@@ -108,6 +108,9 @@ data:
     cumhurbaşkanımız şenol güneş'i milli takıma atasın
     entry_content: |
 - entry_name: |
+    çocuklar duymasın
+    entry_content: |
+- entry_name: |
     challange yerine kullanılabilecek türkçe kelime
     entry_content: |
 - entry_name: |
@@ -115,6 +118,12 @@ data:
     entry_content: |
 - entry_name: |
     cambridge'de görev yapan türk akademisyenin sitemi
+    entry_content: |
+- entry_name: |
+    bodrum yalıkavak'ın 2006 ve 2017 yıllarındaki hali
+    entry_content: |
+- entry_name: |
+    bir insanla ilişiği kesmek için yeter sebepler
     entry_content: |
 - entry_name: |
     beraber saçmalanabilen insan
@@ -126,16 +135,10 @@ data:
     ahmet şık
     entry_content: |
 - entry_name: |
-    ahmethan köse
-    entry_content: |
-- entry_name: |
     abdullah avcı
     entry_content: |
 - entry_name: |
     5.5 milyar insanın cehenneme gidecek olması
-    entry_content: |
-- entry_name: |
-    26 temmuz 2017 rüştü reçber köşe yazısı
     entry_content: |
 - entry_name: |
     26 temmuz 2017 merve kavakçı'nın büyükelçi olması
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     25 temmuz 2017 havada bir garipliğin olması
-    entry_content: |
-- entry_name: |
-    121 97 122 105 108 105 109 32 103 114 117 98 117
     entry_content: |
 ---
