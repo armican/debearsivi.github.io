@@ -6,6 +6,12 @@ data:
     y kuşağının sık sık iş değiştirmesi
     entry_content: |
 - entry_name: |
+    yılmaz vural'ın milli takımın başına geçmesi
+    entry_content: |
+- entry_name: |
+    yeni darbeyi ulusalcılar yapabilir
+    entry_content: |
+- entry_name: |
     yardımcı doçentliğin kaldırılması
     entry_content: |
 - entry_name: |
@@ -24,13 +30,13 @@ data:
     türkiye'deki ter kokusunun sebebi
     entry_content: |
 - entry_name: |
-    silah zoruyla yazan kızlar
+    tişört için türkçe isim önerileri
+    entry_content: |
+- entry_name: |
+    sözlük erkeklerinin yakışıklılık dereceleri
     entry_content: |
 - entry_name: |
     sıçtık kelimesinin pc oyunlarındaki terminolojisi
-    entry_content: |
-- entry_name: |
-    sevgilisine prenses diye hitap eden erkek
     entry_content: |
 - entry_name: |
     şenol güneş'in tekrar milli takımın başına geçmesi
@@ -39,19 +45,10 @@ data:
     şenol güneş
     entry_content: |
 - entry_name: |
-    şekeri bırakmak
-    entry_content: |
-- entry_name: |
     rakı içen kadın iticiliği
     entry_content: |
 - entry_name: |
     müzik aleti olan eve melek girmemesi
-    entry_content: |
-- entry_name: |
-    müftülere resmi nikah kıyma yetkisi verilmesi
-    entry_content: |
-- entry_name: |
-    merve kavakçı
     entry_content: |
 - entry_name: |
     memur alımında mülakat şartı getirilmesi
@@ -63,22 +60,25 @@ data:
     konya'da drift yaparken kaza yapan kız
     entry_content: |
 - entry_name: |
+    kaliteli bir yaşam için ipuçları
+    entry_content: |
+- entry_name: |
     kahrolsun istibdat yaşasın hürriyet
+    entry_content: |
+- entry_name: |
+    israil'in erdoğan için attığı tehditkar tweetler
     entry_content: |
 - entry_name: |
     ırkçı değilim ama araplardan nefret ediyorum
     entry_content: |
 - entry_name: |
-    instagram
-    entry_content: |
-- entry_name: |
     ilk kez helikopter kullanacaklara tavsiyeler
     entry_content: |
 - entry_name: |
-    göksel'in okul yıllığındaki fotoğrafı
+    ideal seks süresi
     entry_content: |
 - entry_name: |
-    game of thrones
+    göksel'in okul yıllığındaki fotoğrafı
     entry_content: |
 - entry_name: |
     fikret orman'ın şenol güneş açıklaması
@@ -108,9 +108,6 @@ data:
     cumhurbaşkanımız şenol güneş'i milli takıma atasın
     entry_content: |
 - entry_name: |
-    çocuklar duymasın
-    entry_content: |
-- entry_name: |
     challange yerine kullanılabilecek türkçe kelime
     entry_content: |
 - entry_name: |
@@ -120,7 +117,7 @@ data:
     cambridge'de görev yapan türk akademisyenin sitemi
     entry_content: |
 - entry_name: |
-    bitcoin
+    beraber saçmalanabilen insan
     entry_content: |
 - entry_name: |
     barkın bayoğlu
@@ -129,13 +126,16 @@ data:
     ahmet şık
     entry_content: |
 - entry_name: |
+    ahmethan köse
+    entry_content: |
+- entry_name: |
     abdullah avcı
     entry_content: |
 - entry_name: |
     5.5 milyar insanın cehenneme gidecek olması
     entry_content: |
 - entry_name: |
-    27 temmuz 2017 sturm graz fenerbahçe maçı
+    26 temmuz 2017 rüştü reçber köşe yazısı
     entry_content: |
 - entry_name: |
     26 temmuz 2017 merve kavakçı'nın büyükelçi olması
