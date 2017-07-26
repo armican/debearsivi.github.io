@@ -3,9 +3,6 @@ layout: post
 title: 27 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    y kuşağının sık sık iş değiştirmesi
-    entry_content: |
-- entry_name: |
     yılmaz vural'ın milli takımın başına geçmesi
     entry_content: |
 - entry_name: |
@@ -13,6 +10,12 @@ data:
     entry_content: |
 - entry_name: |
     yardımcı doçentliğin kaldırılması
+    entry_content: |
+- entry_name: |
+    uzaylılar mesaj yollarsa cevap vermemeliyiz
+    entry_content: |
+- entry_name: |
+    uzaylılar mesaj gönderirse cevap vermeyin
     entry_content: |
 - entry_name: |
     uludağ sözlük'te engellilere hakaret edilmesi
@@ -48,10 +51,13 @@ data:
     müzik aleti olan eve melek girmemesi
     entry_content: |
 - entry_name: |
-    merve kavakçı
+    müftülere resmi nikah kıyma yetkisi verilmesi
     entry_content: |
 - entry_name: |
     memur alımında mülakat şartı getirilmesi
+    entry_content: |
+- entry_name: |
+    lucas lima
     entry_content: |
 - entry_name: |
     kulüp takımını milli takımdan çok seven beşiktaşlı
@@ -75,9 +81,6 @@ data:
     göksel'in okul yıllığındaki fotoğrafı
     entry_content: |
 - entry_name: |
-    game of thrones
-    entry_content: |
-- entry_name: |
     fikret orman'ın şenol güneş açıklaması
     entry_content: |
 - entry_name: |
@@ -93,40 +96,28 @@ data:
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
-    ekşi müzik
-    entry_content: |
-- entry_name: |
     ekşi muhabbet kuşu aşıkları whatsapp grubu
     entry_content: |
 - entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
+    eczanelerin süpermarket kozmetik reyonuna dönmesi
+    entry_content: |
+- entry_name: |
     dunkirk
+    entry_content: |
+- entry_name: |
+    diyanetin fetö raporu
     entry_content: |
 - entry_name: |
     cumhurbaşkanımız şenol güneş'i milli takıma atasın
     entry_content: |
 - entry_name: |
-    çocuklar duymasın
-    entry_content: |
-- entry_name: |
     challange yerine kullanılabilecek türkçe kelime
     entry_content: |
 - entry_name: |
-    cengiz ünder
-    entry_content: |
-- entry_name: |
     cambridge'de görev yapan türk akademisyenin sitemi
-    entry_content: |
-- entry_name: |
-    bodrum yalıkavak'ın 2006 ve 2017 yıllarındaki hali
-    entry_content: |
-- entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
-    bedelli askerlik
     entry_content: |
 - entry_name: |
     barkın bayoğlu
@@ -141,10 +132,19 @@ data:
     5.5 milyar insanın cehenneme gidecek olması
     entry_content: |
 - entry_name: |
+    27 temmuz 2017 sturm graz fenerbahçe maçı
+    entry_content: |
+- entry_name: |
+    26 temmuz 2017 rüştü reçber köşe yazısı
+    entry_content: |
+- entry_name: |
     26 temmuz 2017 merve kavakçı'nın büyükelçi olması
     entry_content: |
 - entry_name: |
     26 temmuz 2017 fatih terim'in istifa etmesi
+    entry_content: |
+- entry_name: |
+    26 temmuz 2017 club brugge başakşehir maçı
     entry_content: |
 - entry_name: |
     25 temmuz 2017 havada bir garipliğin olması
