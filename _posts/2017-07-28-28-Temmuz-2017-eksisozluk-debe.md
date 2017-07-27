@@ -6,25 +6,19 @@ data:
     yer vermediği için erkeği aşağılayarak ifşa etmek
     entry_content: |
 - entry_name: |
-    yardımcı doçentliğin kaldırılması
-    entry_content: |
-- entry_name: |
-    türkiye'de piknik kültürünün olmaması
-    entry_content: |
-- entry_name: |
     türkiye'de arkeolojinin gelişememesinin nedenleri
     entry_content: |
 - entry_name: |
     türk hava yolları
     entry_content: |
 - entry_name: |
-    sözlük yazarlarının süper güçleri
+    tbmm başkanı kahraman'a 436 bin tl'lik mercedes
+    entry_content: |
+- entry_name: |
+    sözlük yazarlarının okurken zorlandığı kitaplar
     entry_content: |
 - entry_name: |
     sözlükçülerin mezun olduğu okullar ve maaşları
-    entry_content: |
-- entry_name: |
-    sıçtık kelimesinin pc oyunlarındaki terminolojisi
     entry_content: |
 - entry_name: |
     sandalet giyen erkekler
@@ -37,6 +31,18 @@ data:
     entry_content: |
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
+    entry_content: |
+- entry_name: |
+    new york city
+    entry_content: |
+- entry_name: |
+    ne tenkyusu
+    entry_content: |
+- entry_name: |
+    müzik aleti olan eve melek girmemesi
+    entry_content: |
+- entry_name: |
+    mutlu olmak için gerekenler
     entry_content: |
 - entry_name: |
     magnum'un kötü bir dondurma olduğu gerçeği
@@ -63,7 +69,7 @@ data:
     göz kanatan esenyurt fotoğrafı
     entry_content: |
 - entry_name: |
-    game of thrones
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     fatih terim'in galatasaray'a geri dönmesi
@@ -72,25 +78,31 @@ data:
     fatih terim'in 3.5 milyon euro tazminat alması
     entry_content: |
 - entry_name: |
-    fatih terim
-    entry_content: |
-- entry_name: |
     evin üzerine minare düşmesi
     entry_content: |
 - entry_name: |
-    ekşi sözlük android &amp; ios uygulaması
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
+    entry_content: |
+- entry_name: |
+    düşün ki o bunu okuyor
+    entry_content: |
+- entry_name: |
+    dursun özbek
+    entry_content: |
+- entry_name: |
+    dudakları ince hatunlar
+    entry_content: |
+- entry_name: |
+    bosch alacaklara tavsiyeler
     entry_content: |
 - entry_name: |
     bisikletle istanbul'dan antalya'ya gitmek
     entry_content: |
 - entry_name: |
     bir kere yemeyle bağımlılık yapan şeyler
-    entry_content: |
-- entry_name: |
-    bir insanla ilişiği kesmek için yeter sebepler
     entry_content: |
 - entry_name: |
     bir evi daha yaşanılır kılan detaylar
@@ -102,16 +114,10 @@ data:
     beraber saçmalanabilen insan
     entry_content: |
 - entry_name: |
-    barkın bayoğlu
-    entry_content: |
-- entry_name: |
     atv muhabirinin dolu ile imtihanı
     entry_content: |
 - entry_name: |
     ankara'da yer isimlerinin acayip olması
-    entry_content: |
-- entry_name: |
-    alternatif çocuklar duymasın senaryoları
     entry_content: |
 - entry_name: |
     aleyna tilki'nin ilkokuldaki ibretlik hikayesi
@@ -123,7 +129,7 @@ data:
     ahmet şık
     entry_content: |
 - entry_name: |
-    ahmethan köse
+    9 temmuz 2017 yökdil sınavı
     entry_content: |
 - entry_name: |
     27 temmuz 2017 sturm graz fenerbahçe maçı
@@ -138,13 +144,7 @@ data:
     27 temmuz 2017 istanbul'da dolu yağması
     entry_content: |
 - entry_name: |
-    27 temmuz 2017 haydarpaşa yangını
-    entry_content: |
-- entry_name: |
-    27 temmuz 2017 danıştay'ın mülakat kararı
-    entry_content: |
-- entry_name: |
-    27 temmuz 2017 aquaflorya çatı çökmesi
+    27 temmuz 2017 çengelköy tarihi çınarın yıkılması
     entry_content: |
 - entry_name: |
     20 yaş dişi çektirmek isteyenlere tavsiyeler
