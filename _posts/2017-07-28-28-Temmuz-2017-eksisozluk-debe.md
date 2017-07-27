@@ -3,9 +3,6 @@ layout: post
 title: 28 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    y kuşağının sık sık iş değiştirmesi
-    entry_content: |
-- entry_name: |
     yer vermediği için erkeği aşağılayarak ifşa etmek
     entry_content: |
 - entry_name: |
@@ -24,18 +21,6 @@ data:
     sözlükçülerin mezun olduğu okullar ve maaşları
     entry_content: |
 - entry_name: |
-    sen olsan bari
-    entry_content: |
-- entry_name: |
-    sandalet giyen erkekler
-    entry_content: |
-- entry_name: |
-    pakistan'da tecavüze tecavüz cezası
-    entry_content: |
-- entry_name: |
-    omuz göğüs ve kol geliştiren tek hareket
-    entry_content: |
-- entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
     entry_content: |
 - entry_name: |
@@ -45,7 +30,7 @@ data:
     ne tenkyusu
     entry_content: |
 - entry_name: |
-    müzik aleti olan eve melek girmemesi
+    matej mitrovic
     entry_content: |
 - entry_name: |
     magnum'un kötü bir dondurma olduğu gerçeği
@@ -66,6 +51,9 @@ data:
     gülse birsel'in yeni dizisi
     entry_content: |
 - entry_name: |
+    gülse birsel'in burnu
+    entry_content: |
+- entry_name: |
     gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
@@ -75,10 +63,16 @@ data:
     geceye bir şiir bırak
     entry_content: |
 - entry_name: |
+    game of thrones
+    entry_content: |
+- entry_name: |
     fatih terim'in galatasaray'a geri dönmesi
     entry_content: |
 - entry_name: |
     fatih terim'in 3.5 milyon euro tazminat alması
+    entry_content: |
+- entry_name: |
+    fatih terim
     entry_content: |
 - entry_name: |
     evin üzerine minare düşmesi
@@ -96,6 +90,9 @@ data:
     dudakları ince hatunlar
     entry_content: |
 - entry_name: |
+    bosch alacaklara tavsiyeler
+    entry_content: |
+- entry_name: |
     bisikletle istanbul'dan antalya'ya gitmek
     entry_content: |
 - entry_name: |
@@ -108,7 +105,7 @@ data:
     beşşar esed
     entry_content: |
 - entry_name: |
-    beraber saçmalanabilen insan
+    barkın bayoğlu
     entry_content: |
 - entry_name: |
     atv muhabirinin dolu ile imtihanı
@@ -120,16 +117,19 @@ data:
     ankara'da yer isimlerinin acayip olması
     entry_content: |
 - entry_name: |
-    aleyna tilki'nin ilkokuldaki ibretlik hikayesi
+    alman dendiğinde zihinde oluşan ilk imge
     entry_content: |
 - entry_name: |
-    ahmet şık
+    aleyna tilki'nin ilkokuldaki ibretlik hikayesi
     entry_content: |
 - entry_name: |
     9 temmuz 2017 yökdil sınavı
     entry_content: |
 - entry_name: |
     27 temmuz 2017 sturm graz fenerbahçe maçı
+    entry_content: |
+- entry_name: |
+    27 temmuz 2017 las palmas beşiktaş maçı
     entry_content: |
 - entry_name: |
     27 temmuz 2017 istanbul yağmuru
