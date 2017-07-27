@@ -24,10 +24,10 @@ data:
     sözlükçülerin mezun olduğu okullar ve maaşları
     entry_content: |
 - entry_name: |
-    sinan akçıl'ın kendi için güzel yorum yapması
+    sesini duymak istedim
     entry_content: |
 - entry_name: |
-    sesini duymak istedim
+    sen olsan bari
     entry_content: |
 - entry_name: |
     sele kapılan kediyi kurtaran güzel yürekli insan
@@ -45,7 +45,7 @@ data:
     magnum'un kötü bir dondurma olduğu gerçeği
     entry_content: |
 - entry_name: |
-    kız kardeşini öldürüp instagramda canlı yayınlamak
+    kediyle konuşmak
     entry_content: |
 - entry_name: |
     istanbul yağmurunda kaldırıma sıçan teyze
@@ -60,6 +60,9 @@ data:
     ideal seks süresi
     entry_content: |
 - entry_name: |
+    hastası olunan sözler
+    entry_content: |
+- entry_name: |
     gülse birsel'in yeni dizisi
     entry_content: |
 - entry_name: |
@@ -70,6 +73,9 @@ data:
     entry_content: |
 - entry_name: |
     göz kanatan esenyurt fotoğrafı
+    entry_content: |
+- entry_name: |
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones
@@ -84,22 +90,22 @@ data:
     evin üzerine minare düşmesi
     entry_content: |
 - entry_name: |
-    eski sevgiliyle yeniden başlamak
-    entry_content: |
-- entry_name: |
-    ekşi sözlük iş ağı
-    entry_content: |
-- entry_name: |
     ekşi sözlük ekonomik ortaklık platformu
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    çocuklar duymasın
+    dunkirk
     entry_content: |
 - entry_name: |
     bisikletle istanbul'dan antalya'ya gitmek
+    entry_content: |
+- entry_name: |
+    bir insanla ilişiği kesmek için yeter sebepler
     entry_content: |
 - entry_name: |
     bir evi daha yaşanılır kılan detaylar
@@ -109,9 +115,6 @@ data:
     entry_content: |
 - entry_name: |
     atv muhabirinin dolu ile imtihanı
-    entry_content: |
-- entry_name: |
-    ateist olup veganizm'i saçma bulan insan
     entry_content: |
 - entry_name: |
     alman dendiğinde zihinde oluşan ilk imge
@@ -130,9 +133,6 @@ data:
     entry_content: |
 - entry_name: |
     27 temmuz 2017 istanbul yağmuru
-    entry_content: |
-- entry_name: |
-    27 temmuz 2017 istanbul trafiğinde yüzen balık
     entry_content: |
 - entry_name: |
     27 temmuz 2017 istanbul'da dolu yağması
