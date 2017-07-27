@@ -3,6 +3,9 @@ layout: post
 title: 28 Temmuz 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    y kuşağının sık sık iş değiştirmesi
+    entry_content: |
+- entry_name: |
     yer vermediği için erkeği aşağılayarak ifşa etmek
     entry_content: |
 - entry_name: |
@@ -19,6 +22,9 @@ data:
     entry_content: |
 - entry_name: |
     sözlükçülerin mezun olduğu okullar ve maaşları
+    entry_content: |
+- entry_name: |
+    sen olsan bari
     entry_content: |
 - entry_name: |
     sandalet giyen erkekler
@@ -40,9 +46,6 @@ data:
     entry_content: |
 - entry_name: |
     müzik aleti olan eve melek girmemesi
-    entry_content: |
-- entry_name: |
-    mutlu olmak için gerekenler
     entry_content: |
 - entry_name: |
     magnum'un kötü bir dondurma olduğu gerçeği
@@ -90,13 +93,7 @@ data:
     düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
-    dursun özbek
-    entry_content: |
-- entry_name: |
     dudakları ince hatunlar
-    entry_content: |
-- entry_name: |
-    bosch alacaklara tavsiyeler
     entry_content: |
 - entry_name: |
     bisikletle istanbul'dan antalya'ya gitmek
@@ -117,13 +114,13 @@ data:
     atv muhabirinin dolu ile imtihanı
     entry_content: |
 - entry_name: |
+    ateist olup veganizm'i saçma bulan insan
+    entry_content: |
+- entry_name: |
     ankara'da yer isimlerinin acayip olması
     entry_content: |
 - entry_name: |
     aleyna tilki'nin ilkokuldaki ibretlik hikayesi
-    entry_content: |
-- entry_name: |
-    aleyna tilki
     entry_content: |
 - entry_name: |
     ahmet şık
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     27 temmuz 2017 çengelköy tarihi çınarın yıkılması
+    entry_content: |
+- entry_name: |
+    27 temmuz 2017 beşiktaş las palmas maçı
     entry_content: |
 - entry_name: |
     20 yaş dişi çektirmek isteyenlere tavsiyeler
