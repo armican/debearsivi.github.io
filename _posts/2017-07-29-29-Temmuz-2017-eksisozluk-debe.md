@@ -12,6 +12,15 @@ data:
     yazın adana'da yapılabilecek güzel aktiviteler
     entry_content: |
 - entry_name: |
+    vestel led ampul
+    entry_content: |
+- entry_name: |
+    türk tipi ateizm
+    entry_content: |
+- entry_name: |
+    türkiye'de kitap okunmamasının sebepleri
+    entry_content: |
+- entry_name: |
     türkiye 2. dünya savaşına katılmış olsa olacaklar
     entry_content: |
 - entry_name: |
@@ -25,6 +34,9 @@ data:
     entry_content: |
 - entry_name: |
     tanrının insana verdiği en büyük ceza
+    entry_content: |
+- entry_name: |
+    süper ligde kadroların 21 kişiye çıkarılması
     entry_content: |
 - entry_name: |
     sözlük yazarlarının süper güçleri
@@ -51,19 +63,19 @@ data:
     öğretmenliği bırakıp tıp okumak
     entry_content: |
 - entry_name: |
-    nuray mert
+    nagehan alçı rasim ozan kütahyalı çifti
     entry_content: |
 - entry_name: |
     make istanbul green again
+    entry_content: |
+- entry_name: |
+    kılıçdaroğlunun nobele aday gösterilmesi
     entry_content: |
 - entry_name: |
     iş çıkışı birası
     entry_content: |
 - entry_name: |
     ingilizcedeki en güzel kelime
-    entry_content: |
-- entry_name: |
-    ifşacı kadınları mahkemeye veriyoruz
     entry_content: |
 - entry_name: |
     güvenilir torrent siteleri
@@ -75,16 +87,13 @@ data:
     genç girişimcilerin çoğunun batmasının sebebi
     entry_content: |
 - entry_name: |
-    geceye bir şiir bırak
-    entry_content: |
-- entry_name: |
     fatih terim
     entry_content: |
 - entry_name: |
-    ekşi sözlük reklam rezaleti
+    facebook'taki kanser eden atatürk paylaşımı
     entry_content: |
 - entry_name: |
-    ekşi sözlük iş ağı
+    ekşi sözlük reklam rezaleti
     entry_content: |
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
@@ -96,19 +105,13 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dunkirk
-    entry_content: |
-- entry_name: |
-    bitcoin
+    bitcoin cash
     entry_content: |
 - entry_name: |
     bir evi daha yaşanılır kılan detaylar
     entry_content: |
 - entry_name: |
     bafetimbi gomis
-    entry_content: |
-- entry_name: |
-    aykut kocaman
     entry_content: |
 - entry_name: |
     atınç nukan
@@ -144,10 +147,7 @@ data:
     28 temmuz 2017 motosikletlere ek vergi kararı
     entry_content: |
 - entry_name: |
-    27 temmuz 2017 sturm graz fenerbahçe maçı
-    entry_content: |
-- entry_name: |
-    27 temmuz 2017 akşam'ın asparagas manşeti
+    27 temmuz 2017 istanbul yağmuru
     entry_content: |
 - entry_name: |
     24 temmuz 2017 cumhuriyet gazetesi duruşması
