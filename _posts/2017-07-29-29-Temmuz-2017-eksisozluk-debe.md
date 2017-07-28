@@ -12,9 +12,6 @@ data:
     yazın adana'da yapılabilecek güzel aktiviteler
     entry_content: |
 - entry_name: |
-    türk tipi ateizm
-    entry_content: |
-- entry_name: |
     türkiye'de kitap okunmamasının sebepleri
     entry_content: |
 - entry_name: |
@@ -48,9 +45,6 @@ data:
     sen olsan bari
     entry_content: |
 - entry_name: |
-    playstation plus
-    entry_content: |
-- entry_name: |
     oyun bağımlılığından kurtulma rehberi
     entry_content: |
 - entry_name: |
@@ -81,9 +75,6 @@ data:
     geceye bir şiir bırak
     entry_content: |
 - entry_name: |
-    fatih terim parkı'nın adının değiştirilmesi
-    entry_content: |
-- entry_name: |
     fatih terim
     entry_content: |
 - entry_name: |
@@ -93,13 +84,19 @@ data:
     ekşi sözlük reklam rezaleti
     entry_content: |
 - entry_name: |
+    ekşi sözlük iş ağı
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+    entry_content: |
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    bitcoin cash
+    dunkirk
     entry_content: |
 - entry_name: |
     bitcoin
@@ -112,9 +109,6 @@ data:
     entry_content: |
 - entry_name: |
     atınç nukan
-    entry_content: |
-- entry_name: |
-    ankara'da içki içtiği için öldürülen genç
     entry_content: |
 - entry_name: |
     almanya'da lambaların çalışmadığı trafik videosu
@@ -147,7 +141,13 @@ data:
     28 temmuz 2017 motosikletlere ek vergi kararı
     entry_content: |
 - entry_name: |
+    27 temmuz 2017 sturm graz fenerbahçe maçı
+    entry_content: |
+- entry_name: |
     27 temmuz 2017 istanbul yağmuru
+    entry_content: |
+- entry_name: |
+    27 temmuz 2017 akşam'ın asparagas manşeti
     entry_content: |
 - entry_name: |
     24 temmuz 2017 cumhuriyet gazetesi duruşması
