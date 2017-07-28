@@ -12,9 +12,6 @@ data:
     yazın adana'da yapılabilecek güzel aktiviteler
     entry_content: |
 - entry_name: |
-    türkiye'de kitap okunmamasının sebepleri
-    entry_content: |
-- entry_name: |
     türkiye 2. dünya savaşına katılmış olsa olacaklar
     entry_content: |
 - entry_name: |
@@ -39,6 +36,9 @@ data:
     sözlük yazarlarının en beğendiği animasyon film
     entry_content: |
 - entry_name: |
+    sözlükçülerin en büyük korkuları
+    entry_content: |
+- entry_name: |
     simon kjaer
     entry_content: |
 - entry_name: |
@@ -60,6 +60,9 @@ data:
     iş çıkışı birası
     entry_content: |
 - entry_name: |
+    ingilizcedeki en güzel kelime
+    entry_content: |
+- entry_name: |
     ifşacı kadınları mahkemeye veriyoruz
     entry_content: |
 - entry_name: |
@@ -76,9 +79,6 @@ data:
     entry_content: |
 - entry_name: |
     fatih terim
-    entry_content: |
-- entry_name: |
-    facebook'taki kanser eden atatürk paylaşımı
     entry_content: |
 - entry_name: |
     ekşi sözlük reklam rezaleti
@@ -106,6 +106,9 @@ data:
     entry_content: |
 - entry_name: |
     bafetimbi gomis
+    entry_content: |
+- entry_name: |
+    aykut kocaman
     entry_content: |
 - entry_name: |
     atınç nukan
@@ -142,9 +145,6 @@ data:
     entry_content: |
 - entry_name: |
     27 temmuz 2017 sturm graz fenerbahçe maçı
-    entry_content: |
-- entry_name: |
-    27 temmuz 2017 istanbul yağmuru
     entry_content: |
 - entry_name: |
     27 temmuz 2017 akşam'ın asparagas manşeti
