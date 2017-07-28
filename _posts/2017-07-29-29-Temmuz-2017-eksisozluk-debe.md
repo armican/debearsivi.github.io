@@ -15,9 +15,6 @@ data:
     vestel led ampul
     entry_content: |
 - entry_name: |
-    türk tipi ateizm
-    entry_content: |
-- entry_name: |
     türkiye'de kitap okunmamasının sebepleri
     entry_content: |
 - entry_name: |
@@ -81,6 +78,12 @@ data:
     güvenilir torrent siteleri
     entry_content: |
 - entry_name: |
+    gözlerini kaybetmek üzere olan simay bebek
+    entry_content: |
+- entry_name: |
+    göz kanatan esenyurt fotoğrafı
+    entry_content: |
+- entry_name: |
     gianluigi buffon
     entry_content: |
 - entry_name: |
@@ -105,16 +108,10 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    bitcoin cash
-    entry_content: |
-- entry_name: |
     bir evi daha yaşanılır kılan detaylar
     entry_content: |
 - entry_name: |
     bafetimbi gomis
-    entry_content: |
-- entry_name: |
-    atınç nukan
     entry_content: |
 - entry_name: |
     almanya'da lambaların çalışmadığı trafik videosu
@@ -130,6 +127,9 @@ data:
     entry_content: |
 - entry_name: |
     ahmet necdet sezer
+    entry_content: |
+- entry_name: |
+    adblock kullananların kendini akıllı sanması
     entry_content: |
 - entry_name: |
     acun'dan şeyma'ya 56 milyon liralık düğün hediyesi
