@@ -12,6 +12,9 @@ data:
     yazın adana'da yapılabilecek güzel aktiviteler
     entry_content: |
 - entry_name: |
+    türk tipi ateizm
+    entry_content: |
+- entry_name: |
     türkiye'de kitap okunmamasının sebepleri
     entry_content: |
 - entry_name: |
@@ -39,16 +42,10 @@ data:
     sözlük yazarlarının en beğendiği animasyon film
     entry_content: |
 - entry_name: |
-    sözlükçülerin en büyük korkuları
-    entry_content: |
-- entry_name: |
     simon kjaer
     entry_content: |
 - entry_name: |
     sen olsan bari
-    entry_content: |
-- entry_name: |
-    sele kapılan kediyi kurtaran güzel yürekli insan
     entry_content: |
 - entry_name: |
     playstation plus
@@ -60,10 +57,7 @@ data:
     öğretmenliği bırakıp tıp okumak
     entry_content: |
 - entry_name: |
-    mutlu olmak için gerekenler
-    entry_content: |
-- entry_name: |
-    matej mitrovic
+    nuray mert
     entry_content: |
 - entry_name: |
     make istanbul green again
@@ -72,13 +66,10 @@ data:
     iş çıkışı birası
     entry_content: |
 - entry_name: |
-    hem master yapıp hem de çalışmak
+    ifşacı kadınları mahkemeye veriyoruz
     entry_content: |
 - entry_name: |
     güvenilir torrent siteleri
-    entry_content: |
-- entry_name: |
-    gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
     gianluigi buffon
@@ -87,10 +78,7 @@ data:
     genç girişimcilerin çoğunun batmasının sebebi
     entry_content: |
 - entry_name: |
-    game of thrones
-    entry_content: |
-- entry_name: |
-    galatasaray
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     fatih terim parkı'nın adının değiştirilmesi
@@ -99,10 +87,10 @@ data:
     fatih terim
     entry_content: |
 - entry_name: |
-    ekşi sözlük reklam rezaleti
+    facebook'taki kanser eden atatürk paylaşımı
     entry_content: |
 - entry_name: |
-    ekşi sözlük iş ağı
+    ekşi sözlük reklam rezaleti
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -111,13 +99,22 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    ekşi galatasaray twitter sayfası
+    bitcoin cash
+    entry_content: |
+- entry_name: |
+    bitcoin
     entry_content: |
 - entry_name: |
     bir evi daha yaşanılır kılan detaylar
     entry_content: |
 - entry_name: |
     bafetimbi gomis
+    entry_content: |
+- entry_name: |
+    atınç nukan
+    entry_content: |
+- entry_name: |
+    ankara'da içki içtiği için öldürülen genç
     entry_content: |
 - entry_name: |
     almanya'da lambaların çalışmadığı trafik videosu
@@ -148,6 +145,9 @@ data:
     entry_content: |
 - entry_name: |
     28 temmuz 2017 motosikletlere ek vergi kararı
+    entry_content: |
+- entry_name: |
+    27 temmuz 2017 istanbul yağmuru
     entry_content: |
 - entry_name: |
     24 temmuz 2017 cumhuriyet gazetesi duruşması
