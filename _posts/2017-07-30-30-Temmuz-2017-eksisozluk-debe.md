@@ -6,6 +6,9 @@ data:
     yakışıklı olmadığı için reddedilen erkek
     entry_content: |
 - entry_name: |
+    vajina şampuanı
+    entry_content: |
+- entry_name: |
     türkiye 2. dünya savaşına katılmış olsa olacaklar
     entry_content: |
 - entry_name: |
@@ -33,6 +36,9 @@ data:
     sevgilisinin üstsüz güneşlenmesine kızmayan erkek
     entry_content: |
 - entry_name: |
+    şenol güneş
+    entry_content: |
+- entry_name: |
     piercinginden dolayı sınava alınmayan kız
     entry_content: |
 - entry_name: |
@@ -40,9 +46,6 @@ data:
     entry_content: |
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
-    entry_content: |
-- entry_name: |
-    nasa'nın elle tutulur bişey bulamaması
     entry_content: |
 - entry_name: |
     marouane fellaini
@@ -78,6 +81,9 @@ data:
     gelmiş geçmiş en iyi gitar solosu
     entry_content: |
 - entry_name: |
+    game of thrones
+    entry_content: |
+- entry_name: |
     galatasaray
     entry_content: |
 - entry_name: |
@@ -90,13 +96,13 @@ data:
     evli misiniz bekar mısınız diye soran jinekolog
     entry_content: |
 - entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-    entry_content: |
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
+    entry_content: |
+- entry_name: |
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     dunkirk
@@ -126,16 +132,10 @@ data:
     artık çocukların da kötü olması
     entry_content: |
 - entry_name: |
-    arçelik beko vestel kalitesizliği
-    entry_content: |
-- entry_name: |
     aleyna tilki
     entry_content: |
 - entry_name: |
     adblock kullananların kendini akıllı sanması
-    entry_content: |
-- entry_name: |
-    60 bin liraya alınabilecek en iyi araba
     entry_content: |
 - entry_name: |
     29 temmuz 2017 yılmaz büyükerşen'e saldırı
