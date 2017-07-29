@@ -6,6 +6,9 @@ data:
     yakışıklı olmadığı için reddedilen erkek
     entry_content: |
 - entry_name: |
+    türkiye 2. dünya savaşına katılmış olsa olacaklar
+    entry_content: |
+- entry_name: |
     türk askerinin terörist uçurma gösterisi
     entry_content: |
 - entry_name: |
@@ -24,10 +27,10 @@ data:
     söyleyeni entel gösteren kelimeler
     entry_content: |
 - entry_name: |
-    sigara içmenin suç olması hakkında kanun
+    simon kjaer
     entry_content: |
 - entry_name: |
-    şenol güneş
+    sigara içmenin suç olması hakkında kanun
     entry_content: |
 - entry_name: |
     rüştü reçber denince akla gelenler
@@ -45,6 +48,9 @@ data:
     oğuz atay'ın mezar taşına yazı yazılması rezaleti
     entry_content: |
 - entry_name: |
+    netflix
+    entry_content: |
+- entry_name: |
     nasa'nın elle tutulur bişey bulamaması
     entry_content: |
 - entry_name: |
@@ -55,9 +61,6 @@ data:
     entry_content: |
 - entry_name: |
     kilo vermek
-    entry_content: |
-- entry_name: |
-    kadın için seyahatin en tehlikeli olduğu 9. ülke
     entry_content: |
 - entry_name: |
     kadın beyninin erkek beyninden küçük olması
@@ -99,10 +102,10 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    düzgün türkçe kullanamayan yazara saygı duymamak
+    dunkirk
     entry_content: |
 - entry_name: |
-    dunkirk
+    düğünde çalması istenen giriş parçası
     entry_content: |
 - entry_name: |
     döneri süper olan mekanlar rehberi
@@ -114,7 +117,7 @@ data:
     çin'in süper güç olacağına inanmak
     entry_content: |
 - entry_name: |
-    çaresizliği anlatan en iyi cümle
+    çaylak entry'lerini okumak
     entry_content: |
 - entry_name: |
     caner taslaman'ın yapay zekadan da anlaması
@@ -126,13 +129,10 @@ data:
     barkın bayoğlu
     entry_content: |
 - entry_name: |
-    ateizmi bitirecek soru
+    artık çocukların da kötü olması
     entry_content: |
 - entry_name: |
     arçelik beko vestel kalitesizliği
-    entry_content: |
-- entry_name: |
-    aliexpress
     entry_content: |
 - entry_name: |
     adblock kullananların kendini akıllı sanması
