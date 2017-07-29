@@ -21,7 +21,7 @@ data:
     şu anda çalan şarkı
     entry_content: |
 - entry_name: |
-    sözlük yazarlarının en beğendiği animasyon film
+    sözlükteki teyzelere sevgili buluyoruz kampanyası
     entry_content: |
 - entry_name: |
     söyleyeni entel gösteren kelimeler
@@ -72,6 +72,9 @@ data:
     istanbul'da yenilenen 40 yeni modern okul
     entry_content: |
 - entry_name: |
+    iş çıkışı birası
+    entry_content: |
+- entry_name: |
     ingilizcedeki en güzel kelime
     entry_content: |
 - entry_name: |
@@ -87,9 +90,6 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    felipe melo
-    entry_content: |
-- entry_name: |
     fakir instagramı
     entry_content: |
 - entry_name: |
@@ -97,6 +97,9 @@ data:
     entry_content: |
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -126,19 +129,16 @@ data:
     caner taslaman
     entry_content: |
 - entry_name: |
+    bitcoin
+    entry_content: |
+- entry_name: |
     barkın bayoğlu
     entry_content: |
 - entry_name: |
     artık çocukların da kötü olması
     entry_content: |
 - entry_name: |
-    arçelik beko vestel kalitesizliği
-    entry_content: |
-- entry_name: |
     adblock kullananların kendini akıllı sanması
-    entry_content: |
-- entry_name: |
-    60 bin liraya alınabilecek en iyi araba
     entry_content: |
 - entry_name: |
     29 temmuz 2017 yılmaz büyükerşen'e saldırı
