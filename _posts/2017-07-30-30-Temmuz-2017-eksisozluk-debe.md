@@ -6,9 +6,6 @@ data:
     yakışıklı olmadığı için reddedilen erkek
     entry_content: |
 - entry_name: |
-    türkiye 2. dünya savaşına katılmış olsa olacaklar
-    entry_content: |
-- entry_name: |
     türk askerinin terörist uçurma gösterisi
     entry_content: |
 - entry_name: |
@@ -19,9 +16,6 @@ data:
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
-    sözlük yazarlarının okurken zorlandığı kitaplar
     entry_content: |
 - entry_name: |
     sözlük yazarlarının en beğendiği animasyon film
@@ -36,6 +30,9 @@ data:
     şenol güneş
     entry_content: |
 - entry_name: |
+    rüştü reçber denince akla gelenler
+    entry_content: |
+- entry_name: |
     robin van persie
     entry_content: |
 - entry_name: |
@@ -48,19 +45,19 @@ data:
     oğuz atay'ın mezar taşına yazı yazılması rezaleti
     entry_content: |
 - entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-    entry_content: |
-- entry_name: |
     nasa'nın elle tutulur bişey bulamaması
-    entry_content: |
-- entry_name: |
-    mustafa kemal atatürk
     entry_content: |
 - entry_name: |
     marouane fellaini
     entry_content: |
 - entry_name: |
+    kore demokratik halk cumhuriyeti
+    entry_content: |
+- entry_name: |
     kilo vermek
+    entry_content: |
+- entry_name: |
+    kadın için seyahatin en tehlikeli olduğu 9. ülke
     entry_content: |
 - entry_name: |
     kadın beyninin erkek beyninden küçük olması
@@ -75,13 +72,10 @@ data:
     ingilizcedeki en güzel kelime
     entry_content: |
 - entry_name: |
+    ilk bilgisayarda yapılan mallıklar
+    entry_content: |
+- entry_name: |
     hüseyin gülerce
-    entry_content: |
-- entry_name: |
-    gözlerini kaybetmek üzere olan simay bebek
-    entry_content: |
-- entry_name: |
-    genç girişimcilerin çoğunun batmasının sebebi
     entry_content: |
 - entry_name: |
     gelmiş geçmiş en iyi gitar solosu
@@ -90,7 +84,7 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    galatasaray
+    felipe melo
     entry_content: |
 - entry_name: |
     fakir instagramı
@@ -99,7 +93,7 @@ data:
     evli misiniz bekar mısınız diye soran jinekolog
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -108,7 +102,10 @@ data:
     düzgün türkçe kullanamayan yazara saygı duymamak
     entry_content: |
 - entry_name: |
-    düşün ki o bunu okuyor
+    dunkirk
+    entry_content: |
+- entry_name: |
+    döneri süper olan mekanlar rehberi
     entry_content: |
 - entry_name: |
     denize giderken yiyecek hazırlayan varoş kız
@@ -121,6 +118,12 @@ data:
     entry_content: |
 - entry_name: |
     caner taslaman'ın yapay zekadan da anlaması
+    entry_content: |
+- entry_name: |
+    caner taslaman
+    entry_content: |
+- entry_name: |
+    barkın bayoğlu
     entry_content: |
 - entry_name: |
     ateizmi bitirecek soru
@@ -142,9 +145,6 @@ data:
     entry_content: |
 - entry_name: |
     29 temmuz 2017 yeni akit'in akp'ye sert eleştirisi
-    entry_content: |
-- entry_name: |
-    28 temmuz 2017 motosikletlere ek vergi kararı
     entry_content: |
 - entry_name: |
     23 yaşında 4 yıllık fakülteye başlamak
