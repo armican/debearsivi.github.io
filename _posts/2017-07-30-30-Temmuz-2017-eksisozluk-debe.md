@@ -18,9 +18,6 @@ data:
     tanrının insana verdiği en büyük ceza
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
     sözlükteki teyzelere sevgili buluyoruz kampanyası
     entry_content: |
 - entry_name: |
@@ -33,13 +30,7 @@ data:
     sigara içmenin suç olması hakkında kanun
     entry_content: |
 - entry_name: |
-    rüştü reçber denince akla gelenler
-    entry_content: |
-- entry_name: |
-    robin van persie
-    entry_content: |
-- entry_name: |
-    polonya'da kürtajın tamamen yasaklanması
+    sevgilisinin üstsüz güneşlenmesine kızmayan erkek
     entry_content: |
 - entry_name: |
     piercinginden dolayı sınava alınmayan kız
@@ -48,7 +39,7 @@ data:
     oğuz atay'ın mezar taşına yazı yazılması rezaleti
     entry_content: |
 - entry_name: |
-    netflix
+    öğrenildiğinde ufku iki katına çıkaran şeyler
     entry_content: |
 - entry_name: |
     nasa'nın elle tutulur bişey bulamaması
@@ -57,10 +48,13 @@ data:
     marouane fellaini
     entry_content: |
 - entry_name: |
-    kore demokratik halk cumhuriyeti
+    kızını açık saçık giydiren başörtülü anne
     entry_content: |
 - entry_name: |
     kilo vermek
+    entry_content: |
+- entry_name: |
+    kadın için seyahatin en tehlikeli olduğu 9. ülke
     entry_content: |
 - entry_name: |
     kadın beyninin erkek beyninden küçük olması
@@ -70,9 +64,6 @@ data:
     entry_content: |
 - entry_name: |
     istanbul'da yenilenen 40 yeni modern okul
-    entry_content: |
-- entry_name: |
-    iş çıkışı birası
     entry_content: |
 - entry_name: |
     ingilizcedeki en güzel kelime
@@ -87,7 +78,10 @@ data:
     gelmiş geçmiş en iyi gitar solosu
     entry_content: |
 - entry_name: |
-    game of thrones
+    galatasaray
+    entry_content: |
+- entry_name: |
+    felipe melo
     entry_content: |
 - entry_name: |
     fakir instagramı
@@ -120,31 +114,37 @@ data:
     çin'in süper güç olacağına inanmak
     entry_content: |
 - entry_name: |
-    çaylak entry'lerini okumak
+    celal şengör'ün depremlerden de anlaması
     entry_content: |
 - entry_name: |
     caner taslaman'ın yapay zekadan da anlaması
     entry_content: |
 - entry_name: |
-    caner taslaman
-    entry_content: |
-- entry_name: |
-    bitcoin
-    entry_content: |
-- entry_name: |
-    barkın bayoğlu
+    beşiktaş
     entry_content: |
 - entry_name: |
     artık çocukların da kötü olması
     entry_content: |
 - entry_name: |
+    arçelik beko vestel kalitesizliği
+    entry_content: |
+- entry_name: |
+    aleyna tilki
+    entry_content: |
+- entry_name: |
     adblock kullananların kendini akıllı sanması
+    entry_content: |
+- entry_name: |
+    60 bin liraya alınabilecek en iyi araba
     entry_content: |
 - entry_name: |
     29 temmuz 2017 yılmaz büyükerşen'e saldırı
     entry_content: |
 - entry_name: |
     29 temmuz 2017 yeni akit'in akp'ye sert eleştirisi
+    entry_content: |
+- entry_name: |
+    29 temmuz 2017 ensar vakfı meb protokolü
     entry_content: |
 - entry_name: |
     23 yaşında 4 yıllık fakülteye başlamak
