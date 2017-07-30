@@ -21,13 +21,19 @@ data:
     türk askerinin suriyeli mültecileri darp etmesi
     entry_content: |
 - entry_name: |
+    şu anda çalan şarkı
+    entry_content: |
+- entry_name: |
+    sözlük yazarlarının yalnızlık dereceleri
+    entry_content: |
+- entry_name: |
     sözlükteki teyzelere sevgili buluyoruz kampanyası
     entry_content: |
 - entry_name: |
-    söyleyeni entel gösteren kelimeler
+    şişli pendik otobüsünde mastürbasyon yapan adam
     entry_content: |
 - entry_name: |
-    şişli pendik otobüsünde mastürbasyon yapan adam
+    silivri deprem tahmin istasyonu
     entry_content: |
 - entry_name: |
     sıla'nın sezen aksu'dan daha iyi sanatçı olması
@@ -39,7 +45,7 @@ data:
     sevginin bittiği nasıl anlaşılır
     entry_content: |
 - entry_name: |
-    sen olsan bari
+    sevgilinin söylediği unutulmayan sözler
     entry_content: |
 - entry_name: |
     senin gibi bir erkeğin yalnız olmasına şaşırıyorum
@@ -51,10 +57,16 @@ data:
     sahte zaman makinesi satıcıları
     entry_content: |
 - entry_name: |
+    rüştü reçber denince akla gelenler
+    entry_content: |
+- entry_name: |
     mona lisa tablosundaki uzay gemisi koordinatları
     entry_content: |
 - entry_name: |
-    köpeksiz sokaklar istiyoruz
+    milli takım'ın yeni teknik direktörü
+    entry_content: |
+- entry_name: |
+    marouane fellaini
     entry_content: |
 - entry_name: |
     köpekleri öldürüp cezasını öderim
@@ -69,13 +81,10 @@ data:
     instagram'da birbirlerini öven insanların amacı
     entry_content: |
 - entry_name: |
-    hastası olunan sözler
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones'un final tahminleri
-    entry_content: |
-- entry_name: |
-    galatasaray
     entry_content: |
 - entry_name: |
     fatih terim
@@ -84,25 +93,22 @@ data:
     ermeni askerlerin tehditkar fotoğrafı
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-    entry_content: |
-- entry_name: |
-    ekşi sözlük android &amp; ios uygulaması
-    entry_content: |
-- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dünyayı kurtaran küçük çevreci detaylar
+    dünyanın en büyük beş futbol kulübü
     entry_content: |
 - entry_name: |
     dunkirk
     entry_content: |
 - entry_name: |
-    düğünde çalması istenen giriş parçası
+    döneri süper olan mekanlar rehberi
     entry_content: |
 - entry_name: |
     doktorların mesai saatinde gelmemesi
+    entry_content: |
+- entry_name: |
+    dinin türklere bir şey katmamış olması
     entry_content: |
 - entry_name: |
     dibe vurmuş insanlara tavsiyeler
@@ -111,19 +117,13 @@ data:
     çocuklar duymasın
     entry_content: |
 - entry_name: |
-    çin'in süper güç olacağına inanmak
-    entry_content: |
-- entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
     bakanın ablasının büyükelçi olarak atanması
     entry_content: |
 - entry_name: |
-    artık çocukların da kötü olması
+    atomic blonde
     entry_content: |
 - entry_name: |
-    aleyna tilki
+    artık çocukların da kötü olması
     entry_content: |
 - entry_name: |
     ab'nin türkiyeli lgbti'lere sığınma hakkı tanıması
