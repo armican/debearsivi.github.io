@@ -21,19 +21,16 @@ data:
     türk askerinin suriyeli mültecileri darp etmesi
     entry_content: |
 - entry_name: |
-    sözlük yazarlarının yalnızlık dereceleri
+    şu anda çalan şarkı
     entry_content: |
 - entry_name: |
-    sözlükteki teyzelere sevgili buluyoruz kampanyası
+    sözlük yazarlarının yalnızlık dereceleri
     entry_content: |
 - entry_name: |
     şişli pendik otobüsünde mastürbasyon yapan adam
     entry_content: |
 - entry_name: |
     silivri deprem tahmin istasyonu
-    entry_content: |
-- entry_name: |
-    sıla'nın sezen aksu'dan daha iyi sanatçı olması
     entry_content: |
 - entry_name: |
     şeyma subaşı
@@ -78,7 +75,7 @@ data:
     istifa etmedim kovuldum
     entry_content: |
 - entry_name: |
-    instagram'da birbirlerini öven insanların amacı
+    istifa eden kişiyi kovup tazminat ödemek
     entry_content: |
 - entry_name: |
     geceye bir şiir bırak
@@ -96,13 +93,13 @@ data:
     erkeklerin kezban sevme nedenleri
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
     düşün ki o bunu okuyor
-    entry_content: |
-- entry_name: |
-    dünyanın en büyük beş futbol kulübü
     entry_content: |
 - entry_name: |
     dunkirk
@@ -115,6 +112,9 @@ data:
     entry_content: |
 - entry_name: |
     dinin türklere bir şey katmamış olması
+    entry_content: |
+- entry_name: |
+    cüneyt cebenoyan
     entry_content: |
 - entry_name: |
     çocuklar duymasın
@@ -135,6 +135,9 @@ data:
     30 temmuz 2017 ekşi sözlük ayaklanması
     entry_content: |
 - entry_name: |
+    30 temmuz 2017 büyük kudüs mitingi
+    entry_content: |
+- entry_name: |
     30 temmuz 2017 beşiktaş real betis maçı
     entry_content: |
 - entry_name: |
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     1 yıl evli kalıp ömür boyu nafaka ödemek
-    entry_content: |
-- entry_name: |
-    1 ağustos 2017 bütün cemaatlerin yasaklanması
     entry_content: |
 ---
