@@ -18,9 +18,6 @@ data:
     üste para verilse binilmeyecek araba
     entry_content: |
 - entry_name: |
-    türk askerinin suriyeli mültecileri darp etmesi
-    entry_content: |
-- entry_name: |
     şu anda çalan şarkı
     entry_content: |
 - entry_name: |
@@ -36,6 +33,9 @@ data:
     silivri deprem tahmin istasyonu
     entry_content: |
 - entry_name: |
+    şeyma subaşı
+    entry_content: |
+- entry_name: |
     sevginin bittiği nasıl anlaşılır
     entry_content: |
 - entry_name: |
@@ -49,9 +49,6 @@ data:
     entry_content: |
 - entry_name: |
     şanlıurfa'da atatürk heykeline saldıran çomar
-    entry_content: |
-- entry_name: |
-    sahte zaman makinesi satıcıları
     entry_content: |
 - entry_name: |
     mona lisa tablosundaki uzay gemisi koordinatları
@@ -90,10 +87,16 @@ data:
     game of thrones'un final tahminleri
     entry_content: |
 - entry_name: |
+    game of thrones
+    entry_content: |
+- entry_name: |
     fatih terim
     entry_content: |
 - entry_name: |
     ermeni askerlerin tehditkar fotoğrafı
+    entry_content: |
+- entry_name: |
+    erkeklerin kezban sevme nedenleri
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -120,10 +123,13 @@ data:
     bakanın ablasının büyükelçi olarak atanması
     entry_content: |
 - entry_name: |
-    atomic blonde
+    ateizmi bitirecek soru
     entry_content: |
 - entry_name: |
     artık çocukların da kötü olması
+    entry_content: |
+- entry_name: |
+    aleyna tilki
     entry_content: |
 - entry_name: |
     6 aylıkken konuşmaya başlayan zehra melis bebek
@@ -138,9 +144,6 @@ data:
     30 temmuz 2017 beşiktaş parfümerideki kız
     entry_content: |
 - entry_name: |
-    29 temmuz 2017 maçka parkı taciz rezaleti
-    entry_content: |
-- entry_name: |
     2018 yılının süper lig şampiyonu galatasaray
     entry_content: |
 - entry_name: |
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     1 yıl evli kalıp ömür boyu nafaka ödemek
-    entry_content: |
-- entry_name: |
-    1 ağustos 2017 bütün cemaatlerin yasaklanması
     entry_content: |
 ---
