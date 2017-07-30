@@ -36,16 +36,13 @@ data:
     silivri deprem tahmin istasyonu
     entry_content: |
 - entry_name: |
-    sıla'nın sezen aksu'dan daha iyi sanatçı olması
-    entry_content: |
-- entry_name: |
-    şeyma subaşı
-    entry_content: |
-- entry_name: |
     sevginin bittiği nasıl anlaşılır
     entry_content: |
 - entry_name: |
     sevgilinin söylediği unutulmayan sözler
+    entry_content: |
+- entry_name: |
+    sen olsan bari
     entry_content: |
 - entry_name: |
     senin gibi bir erkeğin yalnız olmasına şaşırıyorum
@@ -57,16 +54,19 @@ data:
     sahte zaman makinesi satıcıları
     entry_content: |
 - entry_name: |
-    rüştü reçber denince akla gelenler
-    entry_content: |
-- entry_name: |
     mona lisa tablosundaki uzay gemisi koordinatları
     entry_content: |
 - entry_name: |
-    milli takım'ın yeni teknik direktörü
+    midyatta köpek cinayeti
     entry_content: |
 - entry_name: |
     marouane fellaini
+    entry_content: |
+- entry_name: |
+    mağazaların soyunma kabininde terlik olmaması
+    entry_content: |
+- entry_name: |
+    köpeksiz sokaklar istiyoruz
     entry_content: |
 - entry_name: |
     köpekleri öldürüp cezasını öderim
@@ -81,6 +81,9 @@ data:
     instagram'da birbirlerini öven insanların amacı
     entry_content: |
 - entry_name: |
+    haşema giydiği için havuzdan çıkarılan türk
+    entry_content: |
+- entry_name: |
     geceye bir şiir bırak
     entry_content: |
 - entry_name: |
@@ -93,19 +96,13 @@ data:
     ermeni askerlerin tehditkar fotoğrafı
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dünyanın en büyük beş futbol kulübü
-    entry_content: |
-- entry_name: |
     dunkirk
-    entry_content: |
-- entry_name: |
-    döneri süper olan mekanlar rehberi
-    entry_content: |
-- entry_name: |
-    doktorların mesai saatinde gelmemesi
     entry_content: |
 - entry_name: |
     dinin türklere bir şey katmamış olması
@@ -117,6 +114,9 @@ data:
     çocuklar duymasın
     entry_content: |
 - entry_name: |
+    beşiktaş
+    entry_content: |
+- entry_name: |
     bakanın ablasının büyükelçi olarak atanması
     entry_content: |
 - entry_name: |
@@ -124,9 +124,6 @@ data:
     entry_content: |
 - entry_name: |
     artık çocukların da kötü olması
-    entry_content: |
-- entry_name: |
-    ab'nin türkiyeli lgbti'lere sığınma hakkı tanıması
     entry_content: |
 - entry_name: |
     6 aylıkken konuşmaya başlayan zehra melis bebek
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     2018 yılının süper lig şampiyonu galatasaray
+    entry_content: |
+- entry_name: |
+    2017 macaristan gp
     entry_content: |
 - entry_name: |
     1 yıl evli kalıp ömür boyu nafaka ödemek
