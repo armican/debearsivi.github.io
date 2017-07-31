@@ -18,9 +18,6 @@ data:
     #vatanhainibesiktas
     entry_content: |
 - entry_name: |
-    üste para verilse binilmeyecek araba
-    entry_content: |
-- entry_name: |
     ümit boyner'den barış atay'a efsanevi ayar
     entry_content: |
 - entry_name: |
@@ -31,9 +28,6 @@ data:
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
-    sineği bağlayıp aleyna tilki dinletmek
     entry_content: |
 - entry_name: |
     seviştikten sonra söylenecek en aptalca sözler
@@ -60,7 +54,7 @@ data:
     rıdvan dilmen
     entry_content: |
 - entry_name: |
-    rick and morty
+    periscope'u açık unutup osurarak uyumak
     entry_content: |
 - entry_name: |
     papa alioune ndiaye
@@ -69,10 +63,10 @@ data:
     netflix
     entry_content: |
 - entry_name: |
-    milli vazifenin beşiktaş'tan üstün olduğu gerçeği
+    müftülere resmi nikah kıyma yetkisi verilmesi
     entry_content: |
 - entry_name: |
-    meltem banko'nun var olmayan mahkeme kararı
+    milli vazifenin beşiktaş'tan üstün olduğu gerçeği
     entry_content: |
 - entry_name: |
     mehmet görmez'in görevi bırakması
@@ -81,16 +75,25 @@ data:
     lazerle gözü tedavi eden doktorun gözlüklü olması
     entry_content: |
 - entry_name: |
+    köpeksiz sokaklar istiyoruz
+    entry_content: |
+- entry_name: |
     kırşehir denince akla gelenler
     entry_content: |
 - entry_name: |
     kaskına kamera takan motorcu
     entry_content: |
 - entry_name: |
+    kabenin bir put olması
+    entry_content: |
+- entry_name: |
+    jeremain lens
+    entry_content: |
+- entry_name: |
     ilk kez bira içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
-    hatem ben arfa
+    her konuşmasında ağzından la ifadesi çıkan insan
     entry_content: |
 - entry_name: |
     haşema giydiği için havuzdan çıkarılan türk
@@ -105,22 +108,16 @@ data:
     gelmiş geçmiş en iyi türk doktor
     entry_content: |
 - entry_name: |
-    geceye bir şiir bırak
-    entry_content: |
-- entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
     galatasaray
     entry_content: |
 - entry_name: |
-    fikret orman
-    entry_content: |
-- entry_name: |
     fatih terim'in alacağı tazminat helali hoş olsun
     entry_content: |
 - entry_name: |
-    fatih terim
+    ekşi sözlük'te yükselen motorcu düşmanlığı
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -129,13 +126,10 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
+    dunkirk
+    entry_content: |
+- entry_name: |
     çocuklar duymasın'da fetö propagandası yapılması
-    entry_content: |
-- entry_name: |
-    çin'in süper güç olacağına inanmak
-    entry_content: |
-- entry_name: |
-    cengiz ünder
     entry_content: |
 - entry_name: |
     beşiktaş'ın şenol güneş açıklaması
@@ -151,5 +145,11 @@ data:
     entry_content: |
 - entry_name: |
     ani fren sonrası dörtlüleri yakmak
+    entry_content: |
+- entry_name: |
+    aleyna tilki
+    entry_content: |
+- entry_name: |
+    1 yıl evli kalıp ömür boyu nafaka ödemek
     entry_content: |
 ---
