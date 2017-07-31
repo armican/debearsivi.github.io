@@ -42,9 +42,6 @@ data:
     şenol güneş
     entry_content: |
 - entry_name: |
-    şanlıurfa'da atatürk heykeline saldıran çomar
-    entry_content: |
-- entry_name: |
     şaka maka polis memurunun 4.201 tl maaş alması
     entry_content: |
 - entry_name: |
@@ -52,6 +49,12 @@ data:
     entry_content: |
 - entry_name: |
     rıdvan dilmen
+    entry_content: |
+- entry_name: |
+    rick and morty
+    entry_content: |
+- entry_name: |
+    periscope'u açık unutup osurarak uyumak
     entry_content: |
 - entry_name: |
     papa alioune ndiaye
@@ -66,10 +69,7 @@ data:
     mehmet görmez'in görevi bırakması
     entry_content: |
 - entry_name: |
-    matias delgado
-    entry_content: |
-- entry_name: |
-    lazerle gözü tedavi eden doktorun gözlüklü olması
+    kutsal mekan yıkıp rezidans yapmak
     entry_content: |
 - entry_name: |
     kaskına kamera takan motorcu
@@ -96,9 +96,6 @@ data:
     halkın %59'unun pepsi'yi seçmesi
     entry_content: |
 - entry_name: |
-    habire götten zarto
-    entry_content: |
-- entry_name: |
     gelmiş geçmiş en iyi türk doktor
     entry_content: |
 - entry_name: |
@@ -117,13 +114,16 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    çocuklar duymasın'da fetö propagandası yapılması
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     çin'in süper güç olacağına inanmak
     entry_content: |
 - entry_name: |
     beşiktaş'ın şenol güneş açıklaması
+    entry_content: |
+- entry_name: |
+    bedelli askerlik
     entry_content: |
 - entry_name: |
     başörtülü generaller de olacak
@@ -147,9 +147,9 @@ data:
     aleyna tilki
     entry_content: |
 - entry_name: |
-    2018 yılının süper lig şampiyonu galatasaray
+    6 aylıkken konuşmaya başlayan zehra melis bebek
     entry_content: |
 - entry_name: |
-    1 yıl evli kalıp ömür boyu nafaka ödemek
+    2018 yılının süper lig şampiyonu galatasaray
     entry_content: |
 ---
