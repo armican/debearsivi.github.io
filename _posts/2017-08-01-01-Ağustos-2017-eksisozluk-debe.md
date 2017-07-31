@@ -6,16 +6,19 @@ data:
     yunanistan'a 850 bin türk turist gitmesi
     entry_content: |
 - entry_name: |
+    yazarlar oyuncu olsaydı oynamak isteyecekleri dizi
+    entry_content: |
+- entry_name: |
     yayaya sen niye aynaya bakmıyorsun diyen motorcu
     entry_content: |
 - entry_name: |
     yapı kredi kart kopyalanması rezilliği
     entry_content: |
 - entry_name: |
-    venezuela
+    #vatanhainibesiktas
     entry_content: |
 - entry_name: |
-    #vatanhainibesiktas
+    ümit boyner'den barış atay'a efsanevi ayar
     entry_content: |
 - entry_name: |
     trafikte sağımdan geçen motorcu istemiyorum
@@ -39,28 +42,19 @@ data:
     şenol güneş
     entry_content: |
 - entry_name: |
+    şanlıurfa'da atatürk heykeline saldıran çomar
+    entry_content: |
+- entry_name: |
     şaka maka polis memurunun 4.201 tl maaş alması
     entry_content: |
 - entry_name: |
     sabire meltem banko
     entry_content: |
 - entry_name: |
-    sabire
-    entry_content: |
-- entry_name: |
     rıdvan dilmen
     entry_content: |
 - entry_name: |
-    rick and morty
-    entry_content: |
-- entry_name: |
     papa alioune ndiaye
-    entry_content: |
-- entry_name: |
-    netflix
-    entry_content: |
-- entry_name: |
-    müftülere resmi nikah kıyma yetkisi verilmesi
     entry_content: |
 - entry_name: |
     motosiklet kullanımının yasaklanması
@@ -70,6 +64,9 @@ data:
     entry_content: |
 - entry_name: |
     mehmet görmez'in görevi bırakması
+    entry_content: |
+- entry_name: |
+    matias delgado
     entry_content: |
 - entry_name: |
     lazerle gözü tedavi eden doktorun gözlüklü olması
@@ -84,7 +81,13 @@ data:
     ilk kez bira içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
+    hoşlanılan erkeğe açılmak
+    entry_content: |
+- entry_name: |
     her konuşmasında ağzından la ifadesi çıkan insan
+    entry_content: |
+- entry_name: |
+    hatem ben arfa
     entry_content: |
 - entry_name: |
     haşema giydiği için havuzdan çıkarılan türk
@@ -102,16 +105,10 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    galatasaray
-    entry_content: |
-- entry_name: |
-    fikret orman
-    entry_content: |
-- entry_name: |
     fatih terim'in alacağı tazminat helali hoş olsun
     entry_content: |
 - entry_name: |
-    ekşi sözlük'te yükselen motorcu düşmanlığı
+    ekşi sözlük iş ağı
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -120,7 +117,7 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dunkirk
+    çocuklar duymasın'da fetö propagandası yapılması
     entry_content: |
 - entry_name: |
     çin'in süper güç olacağına inanmak
@@ -129,16 +126,19 @@ data:
     beşiktaş'ın şenol güneş açıklaması
     entry_content: |
 - entry_name: |
-    beşiktaş
+    başörtülü generaller de olacak
     entry_content: |
 - entry_name: |
-    başörtülü generaller de olacak
+    başını örtmediği için camiden çıkarılan kadın
     entry_content: |
 - entry_name: |
     başakşehir'in ibretlik mert günok tanıtım video'su
     entry_content: |
 - entry_name: |
     aziz yıldırım'ın motosikletli ile tartışması
+    entry_content: |
+- entry_name: |
+    aziz yıldırım
     entry_content: |
 - entry_name: |
     ani fren sonrası dörtlüleri yakmak
