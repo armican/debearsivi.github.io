@@ -9,6 +9,9 @@ data:
     yayaya sen niye aynaya bakmıyorsun diyen motorcu
     entry_content: |
 - entry_name: |
+    yapı kredi kart kopyalanması rezilliği
+    entry_content: |
+- entry_name: |
     venezuela
     entry_content: |
 - entry_name: |
@@ -34,9 +37,6 @@ data:
     entry_content: |
 - entry_name: |
     şenol güneş
-    entry_content: |
-- entry_name: |
-    şanlıurfa'da atatürk heykeline saldıran çomar
     entry_content: |
 - entry_name: |
     şaka maka polis memurunun 4.201 tl maaş alması
@@ -123,9 +123,6 @@ data:
     dunkirk
     entry_content: |
 - entry_name: |
-    çocuklar duymasın'da fetö propagandası yapılması
-    entry_content: |
-- entry_name: |
     çin'in süper güç olacağına inanmak
     entry_content: |
 - entry_name: |
@@ -148,6 +145,9 @@ data:
     entry_content: |
 - entry_name: |
     aleyna tilki
+    entry_content: |
+- entry_name: |
+    2018 yılının süper lig şampiyonu galatasaray
     entry_content: |
 - entry_name: |
     1 yıl evli kalıp ömür boyu nafaka ödemek
