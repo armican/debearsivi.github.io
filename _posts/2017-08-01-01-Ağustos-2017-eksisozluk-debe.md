@@ -6,9 +6,6 @@ data:
     yunanistan'a 850 bin türk turist gitmesi
     entry_content: |
 - entry_name: |
-    yazarlar oyuncu olsaydı oynamak isteyecekleri dizi
-    entry_content: |
-- entry_name: |
     yayaya sen niye aynaya bakmıyorsun diyen motorcu
     entry_content: |
 - entry_name: |
@@ -16,9 +13,6 @@ data:
     entry_content: |
 - entry_name: |
     #vatanhainibesiktas
-    entry_content: |
-- entry_name: |
-    ümit boyner'den barış atay'a efsanevi ayar
     entry_content: |
 - entry_name: |
     trafikte sağımdan geçen motorcu istemiyorum
@@ -51,10 +45,13 @@ data:
     sabire meltem banko
     entry_content: |
 - entry_name: |
+    sabire
+    entry_content: |
+- entry_name: |
     rıdvan dilmen
     entry_content: |
 - entry_name: |
-    periscope'u açık unutup osurarak uyumak
+    rick and morty
     entry_content: |
 - entry_name: |
     papa alioune ndiaye
@@ -66,6 +63,9 @@ data:
     müftülere resmi nikah kıyma yetkisi verilmesi
     entry_content: |
 - entry_name: |
+    motosiklet kullanımının yasaklanması
+    entry_content: |
+- entry_name: |
     milli vazifenin beşiktaş'tan üstün olduğu gerçeği
     entry_content: |
 - entry_name: |
@@ -75,16 +75,7 @@ data:
     lazerle gözü tedavi eden doktorun gözlüklü olması
     entry_content: |
 - entry_name: |
-    köpeksiz sokaklar istiyoruz
-    entry_content: |
-- entry_name: |
-    kırşehir denince akla gelenler
-    entry_content: |
-- entry_name: |
     kaskına kamera takan motorcu
-    entry_content: |
-- entry_name: |
-    kabenin bir put olması
     entry_content: |
 - entry_name: |
     jeremain lens
@@ -114,6 +105,9 @@ data:
     galatasaray
     entry_content: |
 - entry_name: |
+    fikret orman
+    entry_content: |
+- entry_name: |
     fatih terim'in alacağı tazminat helali hoş olsun
     entry_content: |
 - entry_name: |
@@ -132,6 +126,9 @@ data:
     çocuklar duymasın'da fetö propagandası yapılması
     entry_content: |
 - entry_name: |
+    çin'in süper güç olacağına inanmak
+    entry_content: |
+- entry_name: |
     beşiktaş'ın şenol güneş açıklaması
     entry_content: |
 - entry_name: |
@@ -139,6 +136,9 @@ data:
     entry_content: |
 - entry_name: |
     başörtülü generaller de olacak
+    entry_content: |
+- entry_name: |
+    başakşehir'in ibretlik mert günok tanıtım video'su
     entry_content: |
 - entry_name: |
     aziz yıldırım'ın motosikletli ile tartışması
