@@ -3,9 +3,6 @@ layout: post
 title: 02 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    yunanistan'a 850 bin türk turist gitmesi
-    entry_content: |
-- entry_name: |
     yılmaz vural'ın milli takımın başına geçmesi
     entry_content: |
 - entry_name: |
@@ -33,7 +30,7 @@ data:
     sözlük yazarlarının kızlarına verecekleri isimler
     entry_content: |
 - entry_name: |
-    sen olsan bari
+    simon kjaer
     entry_content: |
 - entry_name: |
     şenol güneş
@@ -45,16 +42,22 @@ data:
     sabah fethe çıksak avrupa'yı üç günde alırız
     entry_content: |
 - entry_name: |
+    rte'nin içini boşalttığı kelimeler
+    entry_content: |
+- entry_name: |
     rejim değişirken kemalistlerden hiç ses çıkmaması
+    entry_content: |
+- entry_name: |
+    poğaça vs bagel vs croissant
     entry_content: |
 - entry_name: |
     plaja gidip denize girmeyen tip
     entry_content: |
 - entry_name: |
-    müftülere resmi nikah kıyma yetkisi verilmesi
+    mehmet görmez'in helallik dilemesi
     entry_content: |
 - entry_name: |
-    mehmet görmez'in helallik dilemesi
+    mastürbasyon yaparken tüm ailenin odaya girmesi
     entry_content: |
 - entry_name: |
     makam aracı için kurban kesen belediye başkanı
@@ -72,13 +75,13 @@ data:
     kavgaya giderken dinlenilecek şarkılar
     entry_content: |
 - entry_name: |
-    jeremain lens
-    entry_content: |
-- entry_name: |
     iü botanik bahçesinin diyanete devredilmesi
     entry_content: |
 - entry_name: |
     ilk kez sigara içeceklere tavsiyeler
+    entry_content: |
+- entry_name: |
+    ilk kez sevişecek kadınlara tavsiyeler
     entry_content: |
 - entry_name: |
     ilk kez öğretmenlik yapacaklara tavsiyeler
@@ -87,7 +90,13 @@ data:
     ilk kez fethe çıkacaklara tavsiyeler
     entry_content: |
 - entry_name: |
-    hadise'nin en çok masturbasyon yapılan türk olması
+    hadise'nin en çok mastürbasyon yapılan türk olması
+    entry_content: |
+- entry_name: |
+    geceye bir şiir bırak
+    entry_content: |
+- entry_name: |
+    gary medel
     entry_content: |
 - entry_name: |
     game of thrones
@@ -96,19 +105,13 @@ data:
     fatih terim'in 291 bin euro işsizlik maaşı alması
     entry_content: |
 - entry_name: |
+    fatih terim
+    entry_content: |
+- entry_name: |
     fakir uyuşturucuları
     entry_content: |
 - entry_name: |
-    ekşi sözlük hızlandırıcı
-    entry_content: |
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-    entry_content: |
-- entry_name: |
     ekşi itiraf
-    entry_content: |
-- entry_name: |
-    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     dr elif çolak
@@ -138,7 +141,7 @@ data:
     barbar conan okumuş efsane nesil
     entry_content: |
 - entry_name: |
-    atiba hutchinson
+    atm'den kartsız para çekmek
     entry_content: |
 - entry_name: |
     ateistliği artıran besinler
@@ -148,8 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
-    entry_content: |
-- entry_name: |
-    ahmet cemal
     entry_content: |
 ---
