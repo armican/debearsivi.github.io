@@ -9,7 +9,19 @@ data:
     yeni başlayanlar için öğretmenlik
     entry_content: |
 - entry_name: |
+    yazarların akülü araba görünce hissettikleri
+    entry_content: |
+- entry_name: |
+    yayaya sen niye aynaya bakmıyorsun diyen motorcu
+    entry_content: |
+- entry_name: |
     yaşlanınca bana kim bakacak sorunsalı
+    entry_content: |
+- entry_name: |
+    world of çomarcraft
+    entry_content: |
+- entry_name: |
+    #vatanhainibesiktas
     entry_content: |
 - entry_name: |
     ülkemize gelse konserine 1000tl verilecek sanatçı
@@ -18,22 +30,16 @@ data:
     tudor'un c.brugge hocasına taktik vermesi
     entry_content: |
 - entry_name: |
-    the long dark
-    entry_content: |
-- entry_name: |
     şu anda çalan şarkı
     entry_content: |
 - entry_name: |
     sözlük yazarlarının kızlarına verecekleri isimler
     entry_content: |
 - entry_name: |
-    simon kjaer
+    sokak ortasında mastürbasyon yapan işçi
     entry_content: |
 - entry_name: |
     sevgilisinin kredi kartı borcunu ödeyen erkek
-    entry_content: |
-- entry_name: |
-    şenol güneş
     entry_content: |
 - entry_name: |
     seat ibiza
@@ -45,10 +51,13 @@ data:
     rejim değişirken kemalistlerden hiç ses çıkmaması
     entry_content: |
 - entry_name: |
-    poğaça vs bagel vs croissant
+    pompacıya vurmak isterken kendisi ölen yaşlı adam
     entry_content: |
 - entry_name: |
-    #müfredatbiziz
+    plaja gidip denize girmeyen tip
+    entry_content: |
+- entry_name: |
+    onemliuyarilar'a yardım ediyoruz
     entry_content: |
 - entry_name: |
     mehmet görmez'in helallik dilemesi
@@ -72,6 +81,12 @@ data:
     kavgaya giderken dinlenilecek şarkılar
     entry_content: |
 - entry_name: |
+    jeremain lens
+    entry_content: |
+- entry_name: |
+    iü botanik bahçesinin diyanete devredilmesi
+    entry_content: |
+- entry_name: |
     ilk kez sigara içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
@@ -81,25 +96,13 @@ data:
     herkes sevdiği halde sevilmeyen şeyler
     entry_content: |
 - entry_name: |
-    geceye bir şiir bırak
-    entry_content: |
-- entry_name: |
-    gary medel
-    entry_content: |
-- entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
     fatih terim'in 291 bin euro işsizlik maaşı alması
     entry_content: |
 - entry_name: |
-    fatih terim
-    entry_content: |
-- entry_name: |
     fakir uyuşturucuları
-    entry_content: |
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -126,9 +129,6 @@ data:
     beşiktaş'ın bayrak temsilinin alınması gerekliliği
     entry_content: |
 - entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
     bes'den cayma hakkının kısıtlanması
     entry_content: |
 - entry_name: |
@@ -144,12 +144,12 @@ data:
     ateistliği artıran besinler
     entry_content: |
 - entry_name: |
-    antalya'da fayton cinayeti
-    entry_content: |
-- entry_name: |
     alvaro negredo sanchez
     entry_content: |
 - entry_name: |
     2 ağustos 2017 lpg zammı
+    entry_content: |
+- entry_name: |
+    1 ağustos 2017 okmeydanı'da polisin ezdiği çocuk
     entry_content: |
 ---
