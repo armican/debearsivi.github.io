@@ -12,9 +12,6 @@ data:
     yaşlanınca bana kim bakacak sorunsalı
     entry_content: |
 - entry_name: |
-    world of çomarcraft
-    entry_content: |
-- entry_name: |
     ülkemize gelse konserine 1000tl verilecek sanatçı
     entry_content: |
 - entry_name: |
@@ -22,9 +19,6 @@ data:
     entry_content: |
 - entry_name: |
     the long dark
-    entry_content: |
-- entry_name: |
-    şükela reader
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
@@ -54,7 +48,7 @@ data:
     poğaça vs bagel vs croissant
     entry_content: |
 - entry_name: |
-    plaja gidip denize girmeyen tip
+    #müfredatbiziz
     entry_content: |
 - entry_name: |
     mehmet görmez'in helallik dilemesi
@@ -84,7 +78,7 @@ data:
     hoşlanılan erkeğe açılmak
     entry_content: |
 - entry_name: |
-    hadise'nin en çok mastürbasyon yapılan türk olması
+    herkes sevdiği halde sevilmeyen şeyler
     entry_content: |
 - entry_name: |
     geceye bir şiir bırak
@@ -150,6 +144,12 @@ data:
     ateistliği artıran besinler
     entry_content: |
 - entry_name: |
+    antalya'da fayton cinayeti
+    entry_content: |
+- entry_name: |
     alvaro negredo sanchez
+    entry_content: |
+- entry_name: |
+    2 ağustos 2017 lpg zammı
     entry_content: |
 ---
