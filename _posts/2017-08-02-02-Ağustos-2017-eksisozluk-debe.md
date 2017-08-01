@@ -6,9 +6,6 @@ data:
     yılmaz vural'ın milli takımın başına geçmesi
     entry_content: |
 - entry_name: |
-    yeni başlayanlar için öğretmenlik
-    entry_content: |
-- entry_name: |
     yazarların akülü araba görünce hissettikleri
     entry_content: |
 - entry_name: |
@@ -18,16 +15,10 @@ data:
     yaşlanınca bana kim bakacak sorunsalı
     entry_content: |
 - entry_name: |
-    world of çomarcraft
-    entry_content: |
-- entry_name: |
     #vatanhainibesiktas
     entry_content: |
 - entry_name: |
     ülkemize gelse konserine 1000tl verilecek sanatçı
-    entry_content: |
-- entry_name: |
-    tudor'un c.brugge hocasına taktik vermesi
     entry_content: |
 - entry_name: |
     şu anda çalan şarkı
@@ -42,7 +33,7 @@ data:
     sevgilisinin kredi kartı borcunu ödeyen erkek
     entry_content: |
 - entry_name: |
-    seat ibiza
+    sen olsan bari
     entry_content: |
 - entry_name: |
     sabah fethe çıksak avrupa'yı üç günde alırız
@@ -57,16 +48,13 @@ data:
     plaja gidip denize girmeyen tip
     entry_content: |
 - entry_name: |
-    onemliuyarilar'a yardım ediyoruz
+    nevzat çiçek
     entry_content: |
 - entry_name: |
     mehmet görmez'in helallik dilemesi
     entry_content: |
 - entry_name: |
-    mastürbasyon yaparken tüm ailenin odaya girmesi
-    entry_content: |
-- entry_name: |
-    makam aracı için kurban kesen belediye başkanı
+    maymun gibi soyunup adına medeniyet demek
     entry_content: |
 - entry_name: |
     macbook air
@@ -84,9 +72,6 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    iü botanik bahçesinin diyanete devredilmesi
-    entry_content: |
-- entry_name: |
     ilk kez sigara içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
@@ -99,10 +84,19 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
+    galatasaray
+    entry_content: |
+- entry_name: |
     fatih terim'in 291 bin euro işsizlik maaşı alması
     entry_content: |
 - entry_name: |
     fakir uyuşturucuları
+    entry_content: |
+- entry_name: |
+    euron greyjoy
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -138,6 +132,9 @@ data:
     barbar conan okumuş efsane nesil
     entry_content: |
 - entry_name: |
+    bae'nin 2117 yılında mars'a şehir kurması
+    entry_content: |
+- entry_name: |
     atm'den kartsız para çekmek
     entry_content: |
 - entry_name: |
@@ -145,6 +142,9 @@ data:
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
+    entry_content: |
+- entry_name: |
+    30 dakikadır gelmeyen polis
     entry_content: |
 - entry_name: |
     2 ağustos 2017 lpg zammı
