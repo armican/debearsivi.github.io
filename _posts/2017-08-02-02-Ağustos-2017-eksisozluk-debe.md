@@ -6,7 +6,7 @@ data:
     yılmaz vural'ın milli takımın başına geçmesi
     entry_content: |
 - entry_name: |
-    yavaş yürüyen insanlar
+    yeni başlayanlar için öğretmenlik
     entry_content: |
 - entry_name: |
     yaşlanınca bana kim bakacak sorunsalı
@@ -24,6 +24,9 @@ data:
     the long dark
     entry_content: |
 - entry_name: |
+    şükela reader
+    entry_content: |
+- entry_name: |
     şu anda çalan şarkı
     entry_content: |
 - entry_name: |
@@ -33,6 +36,9 @@ data:
     simon kjaer
     entry_content: |
 - entry_name: |
+    sevgilisinin kredi kartı borcunu ödeyen erkek
+    entry_content: |
+- entry_name: |
     şenol güneş
     entry_content: |
 - entry_name: |
@@ -40,9 +46,6 @@ data:
     entry_content: |
 - entry_name: |
     sabah fethe çıksak avrupa'yı üç günde alırız
-    entry_content: |
-- entry_name: |
-    rte'nin içini boşalttığı kelimeler
     entry_content: |
 - entry_name: |
     rejim değişirken kemalistlerden hiç ses çıkmaması
@@ -75,19 +78,10 @@ data:
     kavgaya giderken dinlenilecek şarkılar
     entry_content: |
 - entry_name: |
-    iü botanik bahçesinin diyanete devredilmesi
-    entry_content: |
-- entry_name: |
     ilk kez sigara içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
-    ilk kez sevişecek kadınlara tavsiyeler
-    entry_content: |
-- entry_name: |
-    ilk kez öğretmenlik yapacaklara tavsiyeler
-    entry_content: |
-- entry_name: |
-    ilk kez fethe çıkacaklara tavsiyeler
+    hoşlanılan erkeğe açılmak
     entry_content: |
 - entry_name: |
     hadise'nin en çok mastürbasyon yapılan türk olması
@@ -111,7 +105,13 @@ data:
     fakir uyuşturucuları
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
+    entry_content: |
+- entry_name: |
+    düşün ki o bunu okuyor
     entry_content: |
 - entry_name: |
     dr elif çolak
@@ -124,6 +124,9 @@ data:
     entry_content: |
 - entry_name: |
     cnntürk tarafından organ mafyası ilan edilmek
+    entry_content: |
+- entry_name: |
+    beşiktaş'ın üçüncü büyük olması
     entry_content: |
 - entry_name: |
     beşiktaş'ın bayrak temsilinin alınması gerekliliği
@@ -145,9 +148,6 @@ data:
     entry_content: |
 - entry_name: |
     ateistliği artıran besinler
-    entry_content: |
-- entry_name: |
-    antalya'da fayton cinayeti
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
