@@ -6,13 +6,10 @@ data:
     yakın çağı bitirecek olan gelişme
     entry_content: |
 - entry_name: |
-    üniversite sisteminin patlayacak olması
-    entry_content: |
-- entry_name: |
     türk ifşa siteleri
     entry_content: |
 - entry_name: |
-    selçuk inan'ın takımdan ayrılması
+    selman öğüt
     entry_content: |
 - entry_name: |
     seat ibiza
@@ -45,10 +42,13 @@ data:
     mircea lucescu
     entry_content: |
 - entry_name: |
-    lc waikiki'den giyinen insan
+    kızların sapyoseksüelim deyip kaslı erkek tercihi
     entry_content: |
 - entry_name: |
     jeremain lens'in beşiktaş'a transferi
+    entry_content: |
+- entry_name: |
+    jeremain lens
     entry_content: |
 - entry_name: |
     istanbul başakşehirspor
@@ -61,6 +61,9 @@ data:
     entry_content: |
 - entry_name: |
     gdo'lu piliç dönemi
+    entry_content: |
+- entry_name: |
+    game of thrones'un ensest ilişkiyi meşrulaştırması
     entry_content: |
 - entry_name: |
     game of thrones
@@ -103,9 +106,6 @@ data:
     entry_content: |
 - entry_name: |
     doktor muhittin acil akciğer bekliyor
-    entry_content: |
-- entry_name: |
-    diego maradona
     entry_content: |
 - entry_name: |
     depresyona giren kişiye söylenmemesi gerekenler
