@@ -51,28 +51,19 @@ data:
     jeremain lens'in beşiktaş'a transferi
     entry_content: |
 - entry_name: |
-    jeremain lens
-    entry_content: |
-- entry_name: |
-    japonya
-    entry_content: |
-- entry_name: |
     istanbul başakşehirspor
     entry_content: |
 - entry_name: |
     herkes sevdiği halde sevilmeyen şeyler
     entry_content: |
 - entry_name: |
-    geceye bir şiir bırak
+    hepsiburada.com
     entry_content: |
 - entry_name: |
     gdo'lu piliç dönemi
     entry_content: |
 - entry_name: |
     game of thrones
-    entry_content: |
-- entry_name: |
-    feyza altun
     entry_content: |
 - entry_name: |
     fatih terim vs şenol güneş
@@ -96,10 +87,19 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
+    düşün ki o bunu okuyor
+    entry_content: |
+- entry_name: |
     durak haricinde indirmeyince yumruk atan yolcu
     entry_content: |
 - entry_name: |
+    dünya güzellerim
+    entry_content: |
+- entry_name: |
     dünya çekirdeğine yaklaştıkça zamanın yavaşlaması
+    entry_content: |
+- entry_name: |
+    dostoyevski seven insandan zarar gelmez
     entry_content: |
 - entry_name: |
     doktor muhittin acil akciğer bekliyor
