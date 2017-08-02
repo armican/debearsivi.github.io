@@ -21,9 +21,6 @@ data:
     selman öğüt
     entry_content: |
 - entry_name: |
-    selçuk inan'ın takımdan ayrılması
-    entry_content: |
-- entry_name: |
     rıdvan dilmen'in lucescu transferine çıldırması
     entry_content: |
 - entry_name: |
@@ -43,6 +40,9 @@ data:
     entry_content: |
 - entry_name: |
     mircea lucescu
+    entry_content: |
+- entry_name: |
+    kurban vekalet fiyatının gurbetçiye 600 tl olması
     entry_content: |
 - entry_name: |
     kızların sapyoseksüelim deyip kaslı erkek tercihi
@@ -82,6 +82,9 @@ data:
     entry_content: |
 - entry_name: |
     fatih terim vs şenol güneş
+    entry_content: |
+- entry_name: |
+    eski sevgili unutulur mu
     entry_content: |
 - entry_name: |
     erdoğan'ın 1.kurtuluş savaşı'na da katılmış olması
@@ -126,10 +129,7 @@ data:
     bir erkeğe doğumgününde alınabilecekler
     entry_content: |
 - entry_name: |
-    babanın kapının arkasında asılı pantolonu
-    entry_content: |
-- entry_name: |
-    ayakları güzel olmayan kızın açık ayakkabı giymesi
+    beşiktaş
     entry_content: |
 - entry_name: |
     alvaro negredo sanchez
@@ -138,13 +138,13 @@ data:
     9 nisan 2017 koru hastanesi rezaleti
     entry_content: |
 - entry_name: |
-    2 lahmacun + ayran + salata + tatlı 5 tl
-    entry_content: |
-- entry_name: |
     2 ağustos dünya yakışıklılar günü
     entry_content: |
 - entry_name: |
     2 ağustos 2017 başakşehir club brugge maçı
+    entry_content: |
+- entry_name: |
+    2 ağustos 2017 ajax nice maçı
     entry_content: |
 - entry_name: |
     1 saatlik uçak yolculuğunda tuvalete giden insan
