@@ -3,13 +3,7 @@ layout: post
 title: 03 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    yaşar güler
-    entry_content: |
-- entry_name: |
     yakın çağı bitirecek olan gelişme
-    entry_content: |
-- entry_name: |
-    world of çomarcraft
     entry_content: |
 - entry_name: |
     üniversite sisteminin patlayacak olması
@@ -18,16 +12,10 @@ data:
     türk ifşa siteleri
     entry_content: |
 - entry_name: |
-    sözlük yazarlarının kızlarına verecekleri isimler
-    entry_content: |
-- entry_name: |
     selçuk inan'ın takımdan ayrılması
     entry_content: |
 - entry_name: |
     seat ibiza
-    entry_content: |
-- entry_name: |
-    rüzgarda toplanan türk bayrağını düzelten kedi
     entry_content: |
 - entry_name: |
     rıdvan dilmen'in lucescu transferine çıldırması
@@ -39,10 +27,16 @@ data:
     oyunculuğun tavan yaptığı filmler
     entry_content: |
 - entry_name: |
+    öperken koklamak
+    entry_content: |
+- entry_name: |
     neymar
     entry_content: |
 - entry_name: |
     mutsuz evliliklerin varolduğu gerçeği
+    entry_content: |
+- entry_name: |
+    murat başoğlu
     entry_content: |
 - entry_name: |
     mircea lucescu'nun milli takımın başına geçmesi
@@ -51,16 +45,25 @@ data:
     mircea lucescu
     entry_content: |
 - entry_name: |
+    lc waikiki'den giyinen insan
+    entry_content: |
+- entry_name: |
     jeremain lens'in beşiktaş'a transferi
     entry_content: |
 - entry_name: |
     jeremain lens
     entry_content: |
 - entry_name: |
-    istanbul'da cirit atan hint paki ve afganlar
+    japonya
+    entry_content: |
+- entry_name: |
+    istanbul başakşehirspor
     entry_content: |
 - entry_name: |
     herkes sevdiği halde sevilmeyen şeyler
+    entry_content: |
+- entry_name: |
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     gdo'lu piliç dönemi
@@ -93,16 +96,10 @@ data:
     ekşi itiraf
     entry_content: |
 - entry_name: |
-    dursun özbek
-    entry_content: |
-- entry_name: |
     durak haricinde indirmeyince yumruk atan yolcu
     entry_content: |
 - entry_name: |
     dünya çekirdeğine yaklaştıkça zamanın yavaşlaması
-    entry_content: |
-- entry_name: |
-    dostoyevski seven insandan zarar gelmez
     entry_content: |
 - entry_name: |
     doktor muhittin acil akciğer bekliyor
@@ -141,15 +138,18 @@ data:
     9 nisan 2017 koru hastanesi rezaleti
     entry_content: |
 - entry_name: |
-    2 ağustos dünya yakışıklılar günü
+    2 lahmacun + ayran + salata + tatlı 5 tl
     entry_content: |
 - entry_name: |
-    2 ağustos 2017 euro kuru
+    2 ağustos dünya yakışıklılar günü
     entry_content: |
 - entry_name: |
     2 ağustos 2017 başakşehir club brugge maçı
     entry_content: |
 - entry_name: |
     1 saatlik uçak yolculuğunda tuvalete giden insan
+    entry_content: |
+- entry_name: |
+    11 ağustos 2017 bim'e gelecek iphone usb kablosu
     entry_content: |
 ---
