@@ -15,10 +15,13 @@ data:
     türkiye'deki asgari ücret ne yazık ki çok fazla
     entry_content: |
 - entry_name: |
+    tek başına içmek
+    entry_content: |
+- entry_name: |
     tarkan'ın ankara'da konser vermemesi
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
+    sözlük yazarlarının özlediği şeyler
     entry_content: |
 - entry_name: |
     serkan inci
@@ -27,10 +30,16 @@ data:
     senden hoşlanıyorum ama ilişkiye hazır değilim
     entry_content: |
 - entry_name: |
-    pursaklar'daki feci kavga görüntüleri
+    papa alioune ndiaye
     entry_content: |
 - entry_name: |
-    oyunculuğun tavan yaptığı filmler
+    ntv spor
+    entry_content: |
+- entry_name: |
+    neymar
+    entry_content: |
+- entry_name: |
+    murat başoğlu
     entry_content: |
 - entry_name: |
     meme küçültme
@@ -48,13 +57,7 @@ data:
     kadıköy'de iki polisin darp ettiği çellist gülşah
     entry_content: |
 - entry_name: |
-    iş arkadaşıyla seks arkadaşlığı yapmak
-    entry_content: |
-- entry_name: |
     instagram'daki fotoğrafları kaldırmayan sevgili
-    entry_content: |
-- entry_name: |
-    insanın en hastalıklı duygusu
     entry_content: |
 - entry_name: |
     insanı duygusuzlaştıran şeyler
@@ -72,19 +75,16 @@ data:
     gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
-    gdo'yu zararlı zanneden cahil
+    game of thrones
     entry_content: |
 - entry_name: |
-    game of thrones'un ensest ilişkiyi meşrulaştırması
-    entry_content: |
-- entry_name: |
-    fondöten
+    galatasaray
     entry_content: |
 - entry_name: |
     fernando francisco reges
     entry_content: |
 - entry_name: |
-    ezberlenen oyun replikleri
+    fenerbahçe
     entry_content: |
 - entry_name: |
     evde terlik giyme saçmalığı
@@ -99,16 +99,22 @@ data:
     esenler otogarında wc'nin 1.5 tl olması
     entry_content: |
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
+    ekşi itiraf
     entry_content: |
 - entry_name: |
-    ekşi itiraf
+    dursun özbek
     entry_content: |
 - entry_name: |
     dini nedenleri olmadığı halde alkol içmeyen insan
     entry_content: |
 - entry_name: |
-    christopher nolan vs quentin tarantino
+    daenerys targaryen
+    entry_content: |
+- entry_name: |
+    çocuklar duymasın'a soruşturma açılması
+    entry_content: |
+- entry_name: |
+    cep telefonu rehberinde kayıtlı fantastik isimler
     entry_content: |
 - entry_name: |
     bir ülkenin geri kalmış olduğunu anlama yolları
@@ -117,7 +123,7 @@ data:
     beşiktaş'ın kabak tadı vermeye başlaması
     entry_content: |
 - entry_name: |
-    bedelli askerlik
+    beşiktaş
     entry_content: |
 - entry_name: |
     başörtülü sigara
@@ -141,15 +147,9 @@ data:
     3 ağustos 2017 gezi parkı'nda 28 ağacın kesilmesi
     entry_content: |
 - entry_name: |
-    3 ağustos 2017 galatasaray açıklaması
-    entry_content: |
-- entry_name: |
     3 ağustos 2017 fenerbahçe sturm graz maçı
     entry_content: |
 - entry_name: |
     3 ağustos 2017 ankara yağmuru
-    entry_content: |
-- entry_name: |
-    11 ağustos 2017 bim'e gelecek iphone usb kablosu
     entry_content: |
 ---
