@@ -21,19 +21,19 @@ data:
     şu anda çalan şarkı
     entry_content: |
 - entry_name: |
-    sevgiliye kızıp telefonu duvara fırlatmak
-    entry_content: |
-- entry_name: |
     serkan inci
     entry_content: |
 - entry_name: |
-    serdar aziz
+    senden hoşlanıyorum ama ilişkiye hazır değilim
     entry_content: |
 - entry_name: |
     pursaklar'daki feci kavga görüntüleri
     entry_content: |
 - entry_name: |
     oyunculuğun tavan yaptığı filmler
+    entry_content: |
+- entry_name: |
+    meme küçültme
     entry_content: |
 - entry_name: |
     kurtlar vadisi vatan
@@ -48,15 +48,6 @@ data:
     kadıköy'de iki polisin darp ettiği çellist gülşah
     entry_content: |
 - entry_name: |
-    jeremain lens'in beşiktaş'a transferi
-    entry_content: |
-- entry_name: |
-    jeremain lens
-    entry_content: |
-- entry_name: |
-    japonya
-    entry_content: |
-- entry_name: |
     iş arkadaşıyla seks arkadaşlığı yapmak
     entry_content: |
 - entry_name: |
@@ -66,16 +57,22 @@ data:
     insanın en hastalıklı duygusu
     entry_content: |
 - entry_name: |
+    insanı duygusuzlaştıran şeyler
+    entry_content: |
+- entry_name: |
+    hatırladıkça iç burkan gerizekalılık anıları
+    entry_content: |
+- entry_name: |
     hasta yavru kediler için klinik desteği kampanyası
+    entry_content: |
+- entry_name: |
+    hasan ali kaldırım
     entry_content: |
 - entry_name: |
     gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
     gdo'yu zararlı zanneden cahil
-    entry_content: |
-- entry_name: |
-    gamze ismindeki e harfinin gereksiz olması
     entry_content: |
 - entry_name: |
     game of thrones'un ensest ilişkiyi meşrulaştırması
@@ -93,6 +90,9 @@ data:
     evde terlik giyme saçmalığı
     entry_content: |
 - entry_name: |
+    eski sevgili unutulur mu
+    entry_content: |
+- entry_name: |
     eski huzurlu türkiye'ye dair akla gelen ilk şey
     entry_content: |
 - entry_name: |
@@ -102,25 +102,22 @@ data:
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
+    ekşi itiraf
+    entry_content: |
+- entry_name: |
     dini nedenleri olmadığı halde alkol içmeyen insan
     entry_content: |
 - entry_name: |
-    daenerys targaryen
+    christopher nolan vs quentin tarantino
     entry_content: |
 - entry_name: |
     bir ülkenin geri kalmış olduğunu anlama yolları
     entry_content: |
 - entry_name: |
-    bir erkeğe doğumgününde alınabilecekler
-    entry_content: |
-- entry_name: |
-    beşiktaş'ın negredo transferini açıklama videosu
-    entry_content: |
-- entry_name: |
     beşiktaş'ın kabak tadı vermeye başlaması
     entry_content: |
 - entry_name: |
-    beşiktaş
+    bedelli askerlik
     entry_content: |
 - entry_name: |
     başörtülü sigara
@@ -148,6 +145,9 @@ data:
     entry_content: |
 - entry_name: |
     3 ağustos 2017 fenerbahçe sturm graz maçı
+    entry_content: |
+- entry_name: |
+    3 ağustos 2017 ankara yağmuru
     entry_content: |
 - entry_name: |
     11 ağustos 2017 bim'e gelecek iphone usb kablosu
