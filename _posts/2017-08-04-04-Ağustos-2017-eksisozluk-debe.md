@@ -3,9 +3,6 @@ layout: post
 title: 04 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    zorunlu bireysel emeklilik sistemi
-    entry_content: |
-- entry_name: |
     yaşından küçük göstermek
     entry_content: |
 - entry_name: |
@@ -18,10 +15,10 @@ data:
     türkiye'deki asgari ücret ne yazık ki çok fazla
     entry_content: |
 - entry_name: |
-    türk ifşa siteleri
+    tarkan'ın ankara'da konser vermemesi
     entry_content: |
 - entry_name: |
-    tarkan'ın ankara'da konser vermemesi
+    şu anda çalan şarkı
     entry_content: |
 - entry_name: |
     sevgiliye kızıp telefonu duvara fırlatmak
@@ -30,16 +27,13 @@ data:
     serkan inci
     entry_content: |
 - entry_name: |
+    serdar aziz
+    entry_content: |
+- entry_name: |
     pursaklar'daki feci kavga görüntüleri
     entry_content: |
 - entry_name: |
     oyunculuğun tavan yaptığı filmler
-    entry_content: |
-- entry_name: |
-    lucescu'nun milli takım kadrosu
-    entry_content: |
-- entry_name: |
-    la liga'nın neymar transferini veto etmesi
     entry_content: |
 - entry_name: |
     kurtlar vadisi vatan
@@ -60,7 +54,7 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    ısıyla sıcaklık arasındaki farkı bilmeyen mühendis
+    japonya
     entry_content: |
 - entry_name: |
     iş arkadaşıyla seks arkadaşlığı yapmak
@@ -87,16 +81,16 @@ data:
     game of thrones'un ensest ilişkiyi meşrulaştırması
     entry_content: |
 - entry_name: |
-    fatih terim vs şenol güneş
+    fondöten
+    entry_content: |
+- entry_name: |
+    fernando francisco reges
     entry_content: |
 - entry_name: |
     ezberlenen oyun replikleri
     entry_content: |
 - entry_name: |
     evde terlik giyme saçmalığı
-    entry_content: |
-- entry_name: |
-    eski sevgili unutulur mu
     entry_content: |
 - entry_name: |
     eski huzurlu türkiye'ye dair akla gelen ilk şey
@@ -114,9 +108,6 @@ data:
     daenerys targaryen
     entry_content: |
 - entry_name: |
-    çocuklar duymasın'a soruşturma açılması
-    entry_content: |
-- entry_name: |
     bir ülkenin geri kalmış olduğunu anlama yolları
     entry_content: |
 - entry_name: |
@@ -129,10 +120,19 @@ data:
     beşiktaş'ın kabak tadı vermeye başlaması
     entry_content: |
 - entry_name: |
-    beşiktaş'ın çöküşü
+    beşiktaş
     entry_content: |
 - entry_name: |
     başörtülü sigara
+    entry_content: |
+- entry_name: |
+    aykut kocaman
+    entry_content: |
+- entry_name: |
+    as roma'nın negredo videosuna gönderme yapması
+    entry_content: |
+- entry_name: |
+    asker uğurlama terörü
     entry_content: |
 - entry_name: |
     alkol içmenin medeniyet sayılması
