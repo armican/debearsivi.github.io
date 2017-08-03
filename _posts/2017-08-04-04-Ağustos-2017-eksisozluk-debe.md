@@ -3,6 +3,9 @@ layout: post
 title: 04 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    zorunlu bireysel emeklilik sistemi
+    entry_content: |
+- entry_name: |
     yaşından küçük göstermek
     entry_content: |
 - entry_name: |
@@ -15,6 +18,9 @@ data:
     türkiye'deki asgari ücret ne yazık ki çok fazla
     entry_content: |
 - entry_name: |
+    türk ifşa siteleri
+    entry_content: |
+- entry_name: |
     tarkan'ın ankara'da konser vermemesi
     entry_content: |
 - entry_name: |
@@ -24,19 +30,16 @@ data:
     serkan inci
     entry_content: |
 - entry_name: |
-    serdar aziz
-    entry_content: |
-- entry_name: |
     pursaklar'daki feci kavga görüntüleri
     entry_content: |
 - entry_name: |
     oyunculuğun tavan yaptığı filmler
     entry_content: |
 - entry_name: |
-    neymar
+    lucescu'nun milli takım kadrosu
     entry_content: |
 - entry_name: |
-    meme küçültme
+    la liga'nın neymar transferini veto etmesi
     entry_content: |
 - entry_name: |
     kurtlar vadisi vatan
@@ -57,9 +60,6 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    japonya
-    entry_content: |
-- entry_name: |
     ısıyla sıcaklık arasındaki farkı bilmeyen mühendis
     entry_content: |
 - entry_name: |
@@ -69,13 +69,7 @@ data:
     instagram'daki fotoğrafları kaldırmayan sevgili
     entry_content: |
 - entry_name: |
-    inadına ak parti inadına recep tayyip erdoğan
-    entry_content: |
-- entry_name: |
-    herkes sevdiği halde sevilmeyen şeyler
-    entry_content: |
-- entry_name: |
-    hatırladıkça iç burkan gerizekalılık anıları
+    insanın en hastalıklı duygusu
     entry_content: |
 - entry_name: |
     hasta yavru kediler için klinik desteği kampanyası
@@ -84,13 +78,16 @@ data:
     gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
+    gdo'yu zararlı zanneden cahil
+    entry_content: |
+- entry_name: |
     gamze ismindeki e harfinin gereksiz olması
     entry_content: |
 - entry_name: |
     game of thrones'un ensest ilişkiyi meşrulaştırması
     entry_content: |
 - entry_name: |
-    game of thrones
+    fatih terim vs şenol güneş
     entry_content: |
 - entry_name: |
     ezberlenen oyun replikleri
@@ -108,8 +105,6 @@ data:
     esenler otogarında wc'nin 1.5 tl olması
     entry_content: |
 - entry_name: |
-    en fazla görüntülenen youtube videoları listesi
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
@@ -117,6 +112,9 @@ data:
     entry_content: |
 - entry_name: |
     daenerys targaryen
+    entry_content: |
+- entry_name: |
+    çocuklar duymasın'a soruşturma açılması
     entry_content: |
 - entry_name: |
     bir ülkenin geri kalmış olduğunu anlama yolları
@@ -129,6 +127,9 @@ data:
     entry_content: |
 - entry_name: |
     beşiktaş'ın kabak tadı vermeye başlaması
+    entry_content: |
+- entry_name: |
+    beşiktaş'ın çöküşü
     entry_content: |
 - entry_name: |
     başörtülü sigara
