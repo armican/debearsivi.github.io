@@ -3,7 +3,7 @@ layout: post
 title: 04 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    yaşından küçük göstermek
+    zorunlu bireysel emeklilik sistemi
     entry_content: |
 - entry_name: |
     uçağa alım başlayınca hemen sıraya giren kamil
@@ -57,16 +57,19 @@ data:
     kadıköy'de iki polisin darp ettiği çellist gülşah
     entry_content: |
 - entry_name: |
+    jeremain lens
+    entry_content: |
+- entry_name: |
     instagram'daki fotoğrafları kaldırmayan sevgili
     entry_content: |
 - entry_name: |
     insanı duygusuzlaştıran şeyler
     entry_content: |
 - entry_name: |
-    hatırladıkça iç burkan gerizekalılık anıları
+    ilk kez sigara içeceklere tavsiyeler
     entry_content: |
 - entry_name: |
-    hasta yavru kediler için klinik desteği kampanyası
+    hatırladıkça iç burkan gerizekalılık anıları
     entry_content: |
 - entry_name: |
     hasan ali kaldırım
@@ -75,13 +78,10 @@ data:
     gözlerini kaybetmek üzere olan simay bebek
     entry_content: |
 - entry_name: |
-    game of thrones
+    gamze ismindeki e harfinin gereksiz olması
     entry_content: |
 - entry_name: |
     galatasaray
-    entry_content: |
-- entry_name: |
-    fernando francisco reges
     entry_content: |
 - entry_name: |
     fenerbahçe
@@ -97,6 +97,12 @@ data:
     entry_content: |
 - entry_name: |
     esenler otogarında wc'nin 1.5 tl olması
+    entry_content: |
+- entry_name: |
+    erkeklerin zeki kadın sevmemesi
+    entry_content: |
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -120,15 +126,6 @@ data:
     bir ülkenin geri kalmış olduğunu anlama yolları
     entry_content: |
 - entry_name: |
-    beşiktaş'ın kabak tadı vermeye başlaması
-    entry_content: |
-- entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
-    başörtülü sigara
-    entry_content: |
-- entry_name: |
     aykut kocaman
     entry_content: |
 - entry_name: |
@@ -141,7 +138,7 @@ data:
     alkol içmenin medeniyet sayılması
     entry_content: |
 - entry_name: |
-    akp'nin bilim politikası
+    aleyna tilki
     entry_content: |
 - entry_name: |
     3 ağustos 2017 gezi parkı'nda 28 ağacın kesilmesi
@@ -151,5 +148,8 @@ data:
     entry_content: |
 - entry_name: |
     3 ağustos 2017 ankara yağmuru
+    entry_content: |
+- entry_name: |
+    3 ağustos 2017 100.yıl tacizcisinin yakalanması
     entry_content: |
 ---
