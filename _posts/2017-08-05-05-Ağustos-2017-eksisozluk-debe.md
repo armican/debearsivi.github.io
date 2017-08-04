@@ -6,12 +6,6 @@ data:
     yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
-    volkswagen golf
-    entry_content: |
-- entry_name: |
-    vardar skopje
-    entry_content: |
-- entry_name: |
     türklerin amerikadan nefreti
     entry_content: |
 - entry_name: |
@@ -34,6 +28,9 @@ data:
     entry_content: |
 - entry_name: |
     papa alioune ndiaye
+    entry_content: |
+- entry_name: |
+    ntv spor
     entry_content: |
 - entry_name: |
     neymar
@@ -75,6 +72,9 @@ data:
     hastası olunan sözler
     entry_content: |
 - entry_name: |
+    gözlerini kaybetmek üzere olan simay bebek
+    entry_content: |
+- entry_name: |
     gençlerin türkiye'den kaçmak istemesi
     entry_content: |
 - entry_name: |
@@ -84,13 +84,10 @@ data:
     fikret orman'ın lens esprisi
     entry_content: |
 - entry_name: |
-    fenerbahçe'nin beşiktaş'ın paf takımı gibi olması
+    fatih terim
     entry_content: |
 - entry_name: |
     evrende var oluşun anlamsızlığı
-    entry_content: |
-- entry_name: |
-    erkeklerin zeki kadın sevmemesi
     entry_content: |
 - entry_name: |
     enver paşa
@@ -117,9 +114,6 @@ data:
     diploma gerektirmeyen karizmatik meslekler
     entry_content: |
 - entry_name: |
-    dini nedenleri olmadığı halde alkol içmeyen insan
-    entry_content: |
-- entry_name: |
     çapa tıp fakültesi psikiyatri rezaleti
     entry_content: |
 - entry_name: |
@@ -129,10 +123,16 @@ data:
     bir erkeğin hazırlanıp evden çıkma süresi
     entry_content: |
 - entry_name: |
+    bilişimciye kız vermeyen baba
+    entry_content: |
+- entry_name: |
     beşiktaş
     entry_content: |
 - entry_name: |
     bahşiş için gelin arabasına kaza yaptıran çocuk
+    entry_content: |
+- entry_name: |
+    ayhan ogan'ın fethullah gülen ile fotoğrafı
     entry_content: |
 - entry_name: |
     ayhan ogan
@@ -144,7 +144,7 @@ data:
     alkol içenin cennete gidemeyeceği gerçeği
     entry_content: |
 - entry_name: |
-    3 ağustos 2017 ankara borusan boyalı araç rezaleti
+    4 ağustos 2017 istanbul nemi
     entry_content: |
 - entry_name: |
     3 ağustos 2017 100.yıl tacizcisinin yakalanması
