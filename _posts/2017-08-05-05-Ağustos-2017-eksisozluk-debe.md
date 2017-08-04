@@ -6,22 +6,22 @@ data:
     yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
+    volkswagen golf
+    entry_content: |
+- entry_name: |
     vardar skopje
     entry_content: |
 - entry_name: |
     türklerin amerikadan nefreti
     entry_content: |
 - entry_name: |
+    türk kadınlarının cinsel fantezileri
+    entry_content: |
+- entry_name: |
     türkiye'ye asıl saldırı yeni başladı
     entry_content: |
 - entry_name: |
     türkiye'de milyoner sayısının artması
-    entry_content: |
-- entry_name: |
-    türk ifşa siteleri
-    entry_content: |
-- entry_name: |
-    the international 2017
     entry_content: |
 - entry_name: |
     the dark tower
@@ -33,10 +33,10 @@ data:
     sevilla fc
     entry_content: |
 - entry_name: |
-    sadio diallo
+    papa alioune ndiaye
     entry_content: |
 - entry_name: |
-    pamukkale travertenlerinde erotik dergi çekimi
+    neymar
     entry_content: |
 - entry_name: |
     necip uysal
@@ -66,16 +66,13 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    instagram'daki fotoğrafları kaldırmayan sevgili
-    entry_content: |
-- entry_name: |
-    ilk kez sigara içeceklere tavsiyeler
-    entry_content: |
-- entry_name: |
     ilişkilerinde kaybetmeye mahkum erkekler
     entry_content: |
 - entry_name: |
     hem hala hem teyze hem amca hem dayı sahibi insan
+    entry_content: |
+- entry_name: |
+    hastası olunan sözler
     entry_content: |
 - entry_name: |
     gençlerin türkiye'den kaçmak istemesi
@@ -96,19 +93,22 @@ data:
     erkeklerin zeki kadın sevmemesi
     entry_content: |
 - entry_name: |
+    enver paşa
+    entry_content: |
+- entry_name: |
     enstrümantal bir şarkıda ağlamak
     entry_content: |
 - entry_name: |
     en iyi türk teknik direktör
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
     edebiyatın bilimsel gelişmeyi engellemesi
-    entry_content: |
-- entry_name: |
-    dursun özbek
     entry_content: |
 - entry_name: |
     dunkirk
@@ -120,15 +120,6 @@ data:
     dini nedenleri olmadığı halde alkol içmeyen insan
     entry_content: |
 - entry_name: |
-    diego maradona'nın abartılmış bir balon olması
-    entry_content: |
-- entry_name: |
-    come to beşiktaş
-    entry_content: |
-- entry_name: |
-    çocuğu torpille üstün zekalılar okuluna kaydetmek
-    entry_content: |
-- entry_name: |
     çapa tıp fakültesi psikiyatri rezaleti
     entry_content: |
 - entry_name: |
@@ -138,18 +129,27 @@ data:
     bir erkeğin hazırlanıp evden çıkma süresi
     entry_content: |
 - entry_name: |
+    beşiktaş
+    entry_content: |
+- entry_name: |
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
     ayhan ogan
     entry_content: |
 - entry_name: |
-    asker uğurlama terörü
+    alkol içmenin medeniyet sayılması
     entry_content: |
 - entry_name: |
     alkol içenin cennete gidemeyeceği gerçeği
     entry_content: |
 - entry_name: |
+    3 ağustos 2017 ankara borusan boyalı araç rezaleti
+    entry_content: |
+- entry_name: |
     3 ağustos 2017 100.yıl tacizcisinin yakalanması
+    entry_content: |
+- entry_name: |
+    222 milyon euro ile yapılacaklar
     entry_content: |
 ---
