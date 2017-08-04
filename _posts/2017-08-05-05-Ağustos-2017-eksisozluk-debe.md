@@ -27,7 +27,7 @@ data:
     sevilla fc
     entry_content: |
 - entry_name: |
-    papa alioune ndiaye
+    sen olsan bari
     entry_content: |
 - entry_name: |
     ntv spor
@@ -43,9 +43,6 @@ data:
     entry_content: |
 - entry_name: |
     mircea lucescu
-    entry_content: |
-- entry_name: |
-    metroda viyolonsel çalan bayanın asıl amacı
     entry_content: |
 - entry_name: |
     marsa giderken dinlenecek şarkılar
@@ -90,16 +87,13 @@ data:
     evrende var oluşun anlamsızlığı
     entry_content: |
 - entry_name: |
-    enver paşa
+    erkeklerin zeki kadın sevmemesi
     entry_content: |
 - entry_name: |
     enstrümantal bir şarkıda ağlamak
     entry_content: |
 - entry_name: |
     en iyi türk teknik direktör
-    entry_content: |
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
     entry_content: |
 - entry_name: |
     ekşi itiraf
@@ -126,10 +120,10 @@ data:
     bilişimciye kız vermeyen baba
     entry_content: |
 - entry_name: |
-    beşiktaş
+    bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
-    bahşiş için gelin arabasına kaza yaptıran çocuk
+    ayhan oğan'ın fethullah gülen'le fotoğrafı
     entry_content: |
 - entry_name: |
     ayhan ogan'ın fethullah gülen ile fotoğrafı
@@ -142,6 +136,12 @@ data:
     entry_content: |
 - entry_name: |
     alkol içenin cennete gidemeyeceği gerçeği
+    entry_content: |
+- entry_name: |
+    aleyna tilki
+    entry_content: |
+- entry_name: |
+    9 nisan 2017 koru hastanesi rezaleti
     entry_content: |
 - entry_name: |
     4 ağustos 2017 istanbul nemi
