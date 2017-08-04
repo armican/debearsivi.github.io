@@ -6,6 +6,15 @@ data:
     yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
+    volkswagen golf
+    entry_content: |
+- entry_name: |
+    vardar skopje
+    entry_content: |
+- entry_name: |
+    uşak'ta birahanelerin şehir dışına taşınması
+    entry_content: |
+- entry_name: |
     türklerin amerikadan nefreti
     entry_content: |
 - entry_name: |
@@ -18,16 +27,22 @@ data:
     türkiye'de milyoner sayısının artması
     entry_content: |
 - entry_name: |
-    the dark tower
+    trakya fest
     entry_content: |
 - entry_name: |
     tasfiye edilen fetöcü yerine süleymancı atanması
+    entry_content: |
+- entry_name: |
+    sözlük yazarlarının özlediği şeyler
     entry_content: |
 - entry_name: |
     sevilla fc
     entry_content: |
 - entry_name: |
     sen olsan bari
+    entry_content: |
+- entry_name: |
+    papa alioune ndiaye
     entry_content: |
 - entry_name: |
     ntv spor
@@ -45,13 +60,13 @@ data:
     mircea lucescu
     entry_content: |
 - entry_name: |
+    metroda viyolonsel çalan bayanın asıl amacı
+    entry_content: |
+- entry_name: |
     marsa giderken dinlenecek şarkılar
     entry_content: |
 - entry_name: |
     kitap ile birlikte kahve resmi paylaşmak
-    entry_content: |
-- entry_name: |
-    kendini kedi sahiplendirmeye adamış menopoz teyze
     entry_content: |
 - entry_name: |
     kadıköy'de iki polisin darp ettiği çellist gülşah
@@ -69,10 +84,10 @@ data:
     hastası olunan sözler
     entry_content: |
 - entry_name: |
-    gözlerini kaybetmek üzere olan simay bebek
+    gençlerin türkiye'den kaçmak istemesi
     entry_content: |
 - entry_name: |
-    gençlerin türkiye'den kaçmak istemesi
+    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones
@@ -87,7 +102,7 @@ data:
     evrende var oluşun anlamsızlığı
     entry_content: |
 - entry_name: |
-    erkeklerin zeki kadın sevmemesi
+    enver paşa
     entry_content: |
 - entry_name: |
     enstrümantal bir şarkıda ağlamak
@@ -96,13 +111,13 @@ data:
     en iyi türk teknik direktör
     entry_content: |
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+    entry_content: |
+- entry_name: |
     ekşi itiraf
     entry_content: |
 - entry_name: |
     edebiyatın bilimsel gelişmeyi engellemesi
-    entry_content: |
-- entry_name: |
-    dunkirk
     entry_content: |
 - entry_name: |
     diploma gerektirmeyen karizmatik meslekler
@@ -117,9 +132,6 @@ data:
     bir erkeğin hazırlanıp evden çıkma süresi
     entry_content: |
 - entry_name: |
-    bilişimciye kız vermeyen baba
-    entry_content: |
-- entry_name: |
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
@@ -132,22 +144,10 @@ data:
     ayhan ogan
     entry_content: |
 - entry_name: |
-    alkol içmenin medeniyet sayılması
-    entry_content: |
-- entry_name: |
     alkol içenin cennete gidemeyeceği gerçeği
     entry_content: |
 - entry_name: |
-    aleyna tilki
-    entry_content: |
-- entry_name: |
-    9 nisan 2017 koru hastanesi rezaleti
-    entry_content: |
-- entry_name: |
-    4 ağustos 2017 istanbul nemi
-    entry_content: |
-- entry_name: |
-    3 ağustos 2017 100.yıl tacizcisinin yakalanması
+    3 ağustos 2017 ankara borusan boyalı araç rezaleti
     entry_content: |
 - entry_name: |
     222 milyon euro ile yapılacaklar
