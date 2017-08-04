@@ -6,12 +6,6 @@ data:
     yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
-    volkswagen golf
-    entry_content: |
-- entry_name: |
-    vardar skopje
-    entry_content: |
-- entry_name: |
     uşak'ta birahanelerin şehir dışına taşınması
     entry_content: |
 - entry_name: |
@@ -22,9 +16,6 @@ data:
     entry_content: |
 - entry_name: |
     türkiye'ye asıl saldırı yeni başladı
-    entry_content: |
-- entry_name: |
-    türkiye'de milyoner sayısının artması
     entry_content: |
 - entry_name: |
     trakya fest
@@ -42,6 +33,9 @@ data:
     sen olsan bari
     entry_content: |
 - entry_name: |
+    polisin canlı heykeli gerçekten heykel zannetmesi
+    entry_content: |
+- entry_name: |
     papa alioune ndiaye
     entry_content: |
 - entry_name: |
@@ -57,13 +51,10 @@ data:
     murat başoğlu
     entry_content: |
 - entry_name: |
-    mircea lucescu
-    entry_content: |
-- entry_name: |
-    metroda viyolonsel çalan bayanın asıl amacı
-    entry_content: |
-- entry_name: |
     marsa giderken dinlenecek şarkılar
+    entry_content: |
+- entry_name: |
+    kurtlar vadisi vatan
     entry_content: |
 - entry_name: |
     kitap ile birlikte kahve resmi paylaşmak
@@ -84,6 +75,12 @@ data:
     hastası olunan sözler
     entry_content: |
 - entry_name: |
+    gözlerini kaybetmek üzere olan simay bebek
+    entry_content: |
+- entry_name: |
+    gobekbox
+    entry_content: |
+- entry_name: |
     gençlerin türkiye'den kaçmak istemesi
     entry_content: |
 - entry_name: |
@@ -102,13 +99,16 @@ data:
     evrende var oluşun anlamsızlığı
     entry_content: |
 - entry_name: |
-    enver paşa
+    erkeklerin zeki kadın sevmemesi
     entry_content: |
 - entry_name: |
     enstrümantal bir şarkıda ağlamak
     entry_content: |
 - entry_name: |
     en iyi türk teknik direktör
+    entry_content: |
+- entry_name: |
+    ekşi sözlük iş ağı
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -118,9 +118,6 @@ data:
     entry_content: |
 - entry_name: |
     edebiyatın bilimsel gelişmeyi engellemesi
-    entry_content: |
-- entry_name: |
-    diploma gerektirmeyen karizmatik meslekler
     entry_content: |
 - entry_name: |
     çapa tıp fakültesi psikiyatri rezaleti
@@ -135,9 +132,6 @@ data:
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
-    ayhan oğan'ın fethullah gülen'le fotoğrafı
-    entry_content: |
-- entry_name: |
     ayhan ogan'ın fethullah gülen ile fotoğrafı
     entry_content: |
 - entry_name: |
@@ -147,9 +141,15 @@ data:
     alkol içenin cennete gidemeyeceği gerçeği
     entry_content: |
 - entry_name: |
-    3 ağustos 2017 ankara borusan boyalı araç rezaleti
+    4 ağustos 2017 istanbul nemi
+    entry_content: |
+- entry_name: |
+    4 ağustos 2017 iş bankası hesabımın boşaltılması
     entry_content: |
 - entry_name: |
     222 milyon euro ile yapılacaklar
+    entry_content: |
+- entry_name: |
+    2017-2018 galatasaray'ın transfer politikası
     entry_content: |
 ---
