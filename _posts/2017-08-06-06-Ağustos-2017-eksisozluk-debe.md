@@ -6,12 +6,6 @@ data:
     zuhal demir
     entry_content: |
 - entry_name: |
-    yeni bir devlet kuruyoruz
-    entry_content: |
-- entry_name: |
-    volkswagen golf
-    entry_content: |
-- entry_name: |
     türkiye savaşa girse kaçacak insan
     entry_content: |
 - entry_name: |
@@ -21,13 +15,13 @@ data:
     swinger
     entry_content: |
 - entry_name: |
-    şu anda çalan şarkı
-    entry_content: |
-- entry_name: |
     simitçi çocuğa işkence eden vapur güvenlikleri
     entry_content: |
 - entry_name: |
     shameless'in türkiye'ye uyarlanması
+    entry_content: |
+- entry_name: |
+    seküler kesimin baskı altındayız yalanı
     entry_content: |
 - entry_name: |
     sarıklı sakallı insan görünce korkan ekşi ahalisi
@@ -36,16 +30,25 @@ data:
     papa alioune ndiaye
     entry_content: |
 - entry_name: |
+    pamukkale travertenlerinde erotik dergi çekimi
+    entry_content: |
+- entry_name: |
+    muzaffer izgü
+    entry_content: |
+- entry_name: |
     murat başoğlu
     entry_content: |
 - entry_name: |
     mart 1915'i yaşamadınız ama 15 temmuz'u yaşadık
     entry_content: |
 - entry_name: |
-    kutsal kitapta hayvanlardan bahsedilmemesi
+    marsa giderken dinlenecek şarkılar
     entry_content: |
 - entry_name: |
-    kitap ile birlikte kahve resmi paylaşmak
+    magnum'un porsche vermesi
+    entry_content: |
+- entry_name: |
+    kutsal kitapta hayvanlardan bahsedilmemesi
     entry_content: |
 - entry_name: |
     kim tanrıya daha yakınsa üstün olan odur
@@ -54,16 +57,16 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    igor tudor
+    iki doğru bir kereden fazla kesişebilir mi
     entry_content: |
 - entry_name: |
-    hastası olunan sözler
+    igor tudor
     entry_content: |
 - entry_name: |
     game of thrones
     entry_content: |
 - entry_name: |
-    galatasaray
+    fatih terim
     entry_content: |
 - entry_name: |
     fatih hoca gelirse galatsaray şampiyon olur
@@ -99,10 +102,10 @@ data:
     cumali ceber
     entry_content: |
 - entry_name: |
-    camiden terörist çıkmaz
+    çapa tıp fakültesi psikiyatri rezaleti
     entry_content: |
 - entry_name: |
-    bir şeyi çok istersen olur
+    camiden terörist çıkmaz
     entry_content: |
 - entry_name: |
     bir kadını kaybetmenin en kısa yolu
@@ -117,19 +120,22 @@ data:
     beşiktaş'ın kapatılması
     entry_content: |
 - entry_name: |
-    beşiktaş
-    entry_content: |
-- entry_name: |
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
-    ayhan ogan
+    bahçeli'den yeni devlet açıklamasına sert çıkış
     entry_content: |
 - entry_name: |
     annesi için yardım isteyen donanımhaber üyesi
     entry_content: |
 - entry_name: |
+    6 ağustos 2017 beşiktaş konyaspor maçı
+    entry_content: |
+- entry_name: |
     5 ağustos 2017 venezuela darbesi
+    entry_content: |
+- entry_name: |
+    5 ağustos 2017 haşmet babaoğlu yazısı
     entry_content: |
 - entry_name: |
     5 ağustos 2017 galatasaray hertha berlin maçı
@@ -142,12 +148,6 @@ data:
     entry_content: |
 - entry_name: |
     4-7 arası uyuyunca falafoş olmak
-    entry_content: |
-- entry_name: |
-    2017-2018 sezonunda gol kralı olacak futbolcu
-    entry_content: |
-- entry_name: |
-    15 temmuz olmasaydı akp'nin şu an bulunacağı konum
     entry_content: |
 - entry_name: |
     10 bin tl maaş alıp geçinebilindiğini sanmak
