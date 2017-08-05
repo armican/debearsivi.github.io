@@ -6,10 +6,10 @@ data:
     yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
-    türkiye savaşa girse kaçacak insan
+    türkiye'ye asıl saldırı yeni başladı
     entry_content: |
 - entry_name: |
-    turkcell'in alikev için yüzen çalışanını kovması
+    türkiye savaşa girse kaçacak insan
     entry_content: |
 - entry_name: |
     swinger
@@ -27,7 +27,13 @@ data:
     sarıklı sakallı insan görünce korkan ekşi ahalisi
     entry_content: |
 - entry_name: |
+    papa alioune ndiaye
+    entry_content: |
+- entry_name: |
     muzaffer izgü
+    entry_content: |
+- entry_name: |
+    murat başoğlu
     entry_content: |
 - entry_name: |
     mart 1915'i yaşamadınız ama 15 temmuz'u yaşadık
@@ -46,9 +52,6 @@ data:
     entry_content: |
 - entry_name: |
     igor tudor
-    entry_content: |
-- entry_name: |
-    geceye bir şiir bırak
     entry_content: |
 - entry_name: |
     game of thrones
@@ -99,9 +102,6 @@ data:
     cengiz imren'in düşler sokağı yorumu
     entry_content: |
 - entry_name: |
-    çapa tıp fakültesi psikiyatri rezaleti
-    entry_content: |
-- entry_name: |
     camiden terörist çıkmaz
     entry_content: |
 - entry_name: |
@@ -111,13 +111,7 @@ data:
     bir erkeğin hazırlanıp evden çıkma süresi
     entry_content: |
 - entry_name: |
-    bir erkeği kaybetme yöntemleri
-    entry_content: |
-- entry_name: |
     biber gazı sıkarken sırıtan polis
-    entry_content: |
-- entry_name: |
-    beşiktaş'ın kapatılması
     entry_content: |
 - entry_name: |
     bahşiş için gelin arabasına kaza yaptıran çocuk
@@ -129,6 +123,9 @@ data:
     aydın'lı tostçunun reklam filmi
     entry_content: |
 - entry_name: |
+    ayda 5milyon euro verecez ama uşak'tan çıkamayacan
+    entry_content: |
+- entry_name: |
     annesi için yardım isteyen donanımhaber üyesi
     entry_content: |
 - entry_name: |
@@ -136,6 +133,9 @@ data:
     entry_content: |
 - entry_name: |
     ahmet ercanlar
+    entry_content: |
+- entry_name: |
+    6 ağustos 2017 beşiktaş konyaspor maçı
     entry_content: |
 - entry_name: |
     5 ağustos 2017 venezuela darbesi
