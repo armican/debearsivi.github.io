@@ -6,6 +6,9 @@ data:
     zuhal demir
     entry_content: |
 - entry_name: |
+    türkiye'ye asıl saldırı yeni başladı
+    entry_content: |
+- entry_name: |
     türkiye savaşa girse kaçacak insan
     entry_content: |
 - entry_name: |
@@ -21,16 +24,19 @@ data:
     shameless'in türkiye'ye uyarlanması
     entry_content: |
 - entry_name: |
+    şenol güneş
+    entry_content: |
+- entry_name: |
     seküler kesimin baskı altındayız yalanı
     entry_content: |
 - entry_name: |
     sarıklı sakallı insan görünce korkan ekşi ahalisi
     entry_content: |
 - entry_name: |
-    papa alioune ndiaye
+    pelin çift
     entry_content: |
 - entry_name: |
-    pamukkale travertenlerinde erotik dergi çekimi
+    papa alioune ndiaye
     entry_content: |
 - entry_name: |
     muzaffer izgü
@@ -40,9 +46,6 @@ data:
     entry_content: |
 - entry_name: |
     mart 1915'i yaşamadınız ama 15 temmuz'u yaşadık
-    entry_content: |
-- entry_name: |
-    marsa giderken dinlenecek şarkılar
     entry_content: |
 - entry_name: |
     magnum'un porsche vermesi
@@ -57,9 +60,6 @@ data:
     jeremain lens
     entry_content: |
 - entry_name: |
-    iki doğru bir kereden fazla kesişebilir mi
-    entry_content: |
-- entry_name: |
     igor tudor
     entry_content: |
 - entry_name: |
@@ -72,13 +72,13 @@ data:
     fatih hoca gelirse galatsaray şampiyon olur
     entry_content: |
 - entry_name: |
+    erkeklerin kız seçme ölçütleri
+    entry_content: |
+- entry_name: |
     erkek çocuk için isim önerileri
     entry_content: |
 - entry_name: |
     emmy rossum'un shameless türkiye tweet'i
-    entry_content: |
-- entry_name: |
-    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -90,13 +90,13 @@ data:
     egonun yakıştığı insanlar
     entry_content: |
 - entry_name: |
+    dunkirk
+    entry_content: |
+- entry_name: |
     diploma gerektirmeyen karizmatik meslekler
     entry_content: |
 - entry_name: |
     despacito
-    entry_content: |
-- entry_name: |
-    cumali ceber'e imdb'de 1 puan veriyoruz kampanyası
     entry_content: |
 - entry_name: |
     cumali ceber
@@ -123,9 +123,6 @@ data:
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
-    bahçeli'den yeni devlet açıklamasına sert çıkış
-    entry_content: |
-- entry_name: |
     annesi için yardım isteyen donanımhaber üyesi
     entry_content: |
 - entry_name: |
@@ -148,6 +145,9 @@ data:
     entry_content: |
 - entry_name: |
     4-7 arası uyuyunca falafoş olmak
+    entry_content: |
+- entry_name: |
+    2017 dünya atletizm şampiyonası
     entry_content: |
 - entry_name: |
     10 bin tl maaş alıp geçinebilindiğini sanmak
