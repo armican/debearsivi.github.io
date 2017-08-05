@@ -3,7 +3,7 @@ layout: post
 title: 06 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    türkiye'ye asıl saldırı yeni başladı
+    yeni bir devlet kuruyoruz
     entry_content: |
 - entry_name: |
     türkiye savaşa girse kaçacak insan
@@ -18,22 +18,16 @@ data:
     shameless'in türkiye'ye uyarlanması
     entry_content: |
 - entry_name: |
-    selçuk inan
+    sen olsan bari
     entry_content: |
 - entry_name: |
-    seküler kesimin baskı altındayız yalanı
+    şenol güneş
     entry_content: |
 - entry_name: |
     sarıklı sakallı insan görünce korkan ekşi ahalisi
     entry_content: |
 - entry_name: |
-    papa alioune ndiaye
-    entry_content: |
-- entry_name: |
     muzaffer izgü
-    entry_content: |
-- entry_name: |
-    murat başoğlu
     entry_content: |
 - entry_name: |
     mart 1915'i yaşamadınız ama 15 temmuz'u yaşadık
@@ -54,7 +48,13 @@ data:
     igor tudor
     entry_content: |
 - entry_name: |
+    geceye bir şiir bırak
+    entry_content: |
+- entry_name: |
     game of thrones
+    entry_content: |
+- entry_name: |
+    fenerbahçe
     entry_content: |
 - entry_name: |
     fatih hoca gelirse galatsaray şampiyon olur
@@ -66,7 +66,7 @@ data:
     erkek çocuk için isim önerileri
     entry_content: |
 - entry_name: |
-    emmy rossum'un shameless türkiye tweet'i
+    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
     entry_content: |
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -78,13 +78,13 @@ data:
     egonun yakıştığı insanlar
     entry_content: |
 - entry_name: |
+    dudullu organize san.de perişan haldeki tavşanlar
+    entry_content: |
+- entry_name: |
     diploma gerektirmeyen karizmatik meslekler
     entry_content: |
 - entry_name: |
     dincilerin her şeye karışma cüretinde bulunması
-    entry_content: |
-- entry_name: |
-    despacito
     entry_content: |
 - entry_name: |
     darbecilere badem içi rengi tulum giydirilmesi
@@ -99,6 +99,9 @@ data:
     cengiz imren'in düşler sokağı yorumu
     entry_content: |
 - entry_name: |
+    çapa tıp fakültesi psikiyatri rezaleti
+    entry_content: |
+- entry_name: |
     camiden terörist çıkmaz
     entry_content: |
 - entry_name: |
@@ -106,6 +109,9 @@ data:
     entry_content: |
 - entry_name: |
     bir erkeğin hazırlanıp evden çıkma süresi
+    entry_content: |
+- entry_name: |
+    bir erkeği kaybetme yöntemleri
     entry_content: |
 - entry_name: |
     biber gazı sıkarken sırıtan polis
@@ -117,6 +123,9 @@ data:
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
+    bahçeli'den yeni devlet açıklamasına sert çıkış
+    entry_content: |
+- entry_name: |
     aydın'lı tostçunun reklam filmi
     entry_content: |
 - entry_name: |
@@ -126,13 +135,10 @@ data:
     aleyna tilki
     entry_content: |
 - entry_name: |
-    6 ağustos 2017 beşiktaş konyaspor maçı
+    ahmet ercanlar
     entry_content: |
 - entry_name: |
     5 ağustos 2017 venezuela darbesi
-    entry_content: |
-- entry_name: |
-    5 ağustos 2017 haşmet babaoğlu yazısı
     entry_content: |
 - entry_name: |
     5 ağustos 2017 galatasaray hertha berlin maçı
@@ -145,11 +151,5 @@ data:
     entry_content: |
 - entry_name: |
     4-7 arası uyuyunca falafoş olmak
-    entry_content: |
-- entry_name: |
-    2017 dünya atletizm şampiyonası
-    entry_content: |
-- entry_name: |
-    10 bin tl maaş alıp geçinebilindiğini sanmak
     entry_content: |
 ---
