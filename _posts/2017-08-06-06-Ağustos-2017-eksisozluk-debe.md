@@ -3,9 +3,6 @@ layout: post
 title: 06 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    zuhal demir
-    entry_content: |
-- entry_name: |
     türkiye'ye asıl saldırı yeni başladı
     entry_content: |
 - entry_name: |
@@ -18,22 +15,16 @@ data:
     swinger
     entry_content: |
 - entry_name: |
-    simitçi çocuğa işkence eden vapur güvenlikleri
-    entry_content: |
-- entry_name: |
     shameless'in türkiye'ye uyarlanması
     entry_content: |
 - entry_name: |
-    şenol güneş
+    selçuk inan
     entry_content: |
 - entry_name: |
     seküler kesimin baskı altındayız yalanı
     entry_content: |
 - entry_name: |
     sarıklı sakallı insan görünce korkan ekşi ahalisi
-    entry_content: |
-- entry_name: |
-    pelin çift
     entry_content: |
 - entry_name: |
     papa alioune ndiaye
@@ -66,9 +57,6 @@ data:
     game of thrones
     entry_content: |
 - entry_name: |
-    fatih terim
-    entry_content: |
-- entry_name: |
     fatih hoca gelirse galatsaray şampiyon olur
     entry_content: |
 - entry_name: |
@@ -90,19 +78,25 @@ data:
     egonun yakıştığı insanlar
     entry_content: |
 - entry_name: |
-    dunkirk
+    diploma gerektirmeyen karizmatik meslekler
     entry_content: |
 - entry_name: |
-    diploma gerektirmeyen karizmatik meslekler
+    dincilerin her şeye karışma cüretinde bulunması
     entry_content: |
 - entry_name: |
     despacito
     entry_content: |
 - entry_name: |
+    darbecilere badem içi rengi tulum giydirilmesi
+    entry_content: |
+- entry_name: |
+    cumali ceber'e imdb'de 1 puan veriyoruz kampanyası
+    entry_content: |
+- entry_name: |
     cumali ceber
     entry_content: |
 - entry_name: |
-    çapa tıp fakültesi psikiyatri rezaleti
+    cengiz imren'in düşler sokağı yorumu
     entry_content: |
 - entry_name: |
     camiden terörist çıkmaz
@@ -123,7 +117,13 @@ data:
     bahşiş için gelin arabasına kaza yaptıran çocuk
     entry_content: |
 - entry_name: |
+    aydın'lı tostçunun reklam filmi
+    entry_content: |
+- entry_name: |
     annesi için yardım isteyen donanımhaber üyesi
+    entry_content: |
+- entry_name: |
+    aleyna tilki
     entry_content: |
 - entry_name: |
     6 ağustos 2017 beşiktaş konyaspor maçı
