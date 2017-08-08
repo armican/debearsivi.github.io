@@ -6,56 +6,49 @@ data:
     kürtlerin göç ettiği şehirlerin iflah olmaması
   entry_id:  70044215
   entry_writer: simon petrikov
-  entry_fav_count: 2590
+  entry_fav_count: 2629
   entry_content: |
     öncelikle ayrımcılık yapan birisi değilim. sadece sosyolojik bir tespit yapıyorum.<br/><br/>vardır böyle bir şey. özellikle 1990'larda batıya doğru yapılan göçlerde bu durum çok sık görülüyor. <br/><br/><a class="b" href="/?q=adana">adana</a>: 90'lara kadar yörük ve şehirli adanalıların ve arap-alevi nüfusun olduğu ilde. tarım ve sanayinin gelişmesiyle yoğun bir kürt nüfusu göç etti. bu durum şehirde gecekondu sayısını arttırdı. şehirde kadın, silah ve uyuşturucu ticaretleri, hırsızlık ve terör hücreleri hat safaya ulaştı. bugün haberlerde izlediğimiz absürt suçların işlendiği adana'da bu suçların çoğunluğunu bu kürt nüfus işlemektedir. bazı mahallelere de bir türk veya başka bir etnik köken olarak girememenizin sebebi de yine bu kürt nüfus.<br/><br/><a class="b" href="/?q=mersin">mersin</a>: yine adana gibi 90'lı yıllarda yoğun kürt nüfusu göç etti. gecekondu olmayan mersin'de gecekondu sayısı hızla arttı ve bu durum altyapı ve şehirleşme sorununa yol açtı. eskiden kapı açık yatılabilen şehirde 4. katın pencerelerine bile demir korkuluk taktırmak sıradan hale geldi. eskiden mersin yerlisi alevi arapların yaşadığı çay-çilek mahallerinde arap kalmadı. ve yine bu mahallerde suç oranı çok yüksek. bazı mahallerde yabancı olarak gezmeniz bile çok zor.<br/><br/><a class="b" href="/?q=antalya">antalya</a>: turizmle birlikte 90'lı yılların sonunda yoğun göç aldı. göç eden kürtler burada mafyalaştı, yerli esnaflara kan kusturdu. gasp ve hırsızlık olağan hale geldi. özellikle turizm sektöründeki esnaflar için kazıklama sıradan hale geldi. kürtlerin işlettiği bazı mekanlar yerli almazken sadece yabancı turist almaya başladı. plajlarda şezlong terörü dediğimiz üçkağıtçılık yaygınlaştı. parklarda madde bağımlılığından ölen, yollarda kadınlara ve turistlere laf atan insanların çoğu yine kürt gençleri. bu olay <a class="b" href="/?q=izmir">izmir</a> için de geçerli.<br/><br/><a class="b" href="/?q=gaziantep">gaziantep</a>: sanayinin gelişmesiyle arap ve türkmen şehri antep'te kürtlerin nüfusu diğer etnik kökenlileri geçti. şehirde mafyalaşma ve aşiret kavgaları ortaya çıktı. tek tek anlatmayacağım. yaşadığım şehirde gaziantep'den gelen çok antep yerlisi var. nedenini sorduğumda kürtlerin çok olmasından dolayı göç ettik diyorlar. bu cevap bile başlı başlına anlatıyor her şeyi aslında.<br/><br/><a class="b" href="/?q=istanbul">istanbul</a>: istanbul'daki suçun büyük çoğunluğunu kürtler işliyor. kürtlerin yoğun yaşadığı bağcılar, esenyurt gibi yerlerde kim rahatça gezebiliyor?<br/><br/>eskiden türkmen ve arap şehri olup şimdilerde terörün hat safaya ulaştığı iller ise: <a class="b" href="/?q=van">van</a>, <a class="b" href="/?q=siirt">siirt</a>, <a class="b" href="/?q=mardin">mardin</a>, <a class="b" href="/?q=mu%c5%9f">muş</a>, <a class="b" href="/?q=kilis">kilis</a>, <a class="b" href="/?q=%c4%b1%c4%9fd%c4%b1r">ığdır</a>.<br/><br/>özetle kürtlerin göç ettiği şehirlerde kan davaları, hırsızlık, cinayet, terör, mafyalaşma, uyuşturucu, kaçakçılık, kadın ve silah ticareti hat safalara ulaştı.<br/><br/>not: sözlük beni faşist ilan edecek biliyorum ama amacım sadece sosyolojik tespit yapmak. başka bir etnik köken olsaydı. o etnik köken üzerinden başlık açacaktım. hali hazırda mersin'de kürt nüfusun fazla olduğu bir mahallede yaşıyorum. içlerindeyim yani. özellikle mersin ve adana'nın eski halini hatırlayanlar beni anlayacaktır eminim.<br/><br/>edit: bana mesaj atıp küfredenler çok mu humanist şimdi? kim faşist? yahu ben burda faşistlik mi yapıyorum. göz var izan var. içlerinde yaşadım diyorum. liseyi başka bir ilçede okuyunca aradaki farkı anladım. bariz belli her şey ama faşist deyip geçiyorsunuz. evet 90'lar teröründen kaçtılar. evet sorun eğitimsizlik. fakat hiç biri eğitim için uğraşmıyor ki. benim ailem de şehire sonradan göçmüş ama hepsi okudu, meslek sahibi oldu. mersin'in çay mahallesinde olan okullar doğu görevi diye geçiyor biliyor musunuz? evet doğu. öğretmenler o kadar çok zorluklarla karşılaştılar ki (bıçaklama, adam kaçırma, hırsızlık) devlet doğu görevine saydı oradaki okulları. eğitim almak istemiyorlar. yeri geliyor türkleri de eleştiriyorum. eleştiri yapıp kendimizi düzeltmezsek nasıl değişecek bu dünya?
 - entry_name: |
     prensip gereği tesettürlü bayanları istemeyen otel
   entry_id:  70047503
   entry_writer: ancient aliens hair guy
-  entry_fav_count: 987
+  entry_fav_count: 1002
   entry_content: |
     bu adama plaket verin. parti kursun oy vereyim.
 - entry_name: |
     türk çiftlerin birbirine sürekli aşkım demesi
   entry_id:  70045360
   entry_writer: dunyanin en iyi sitem eden adami
-  entry_fav_count: 333
+  entry_fav_count: 336
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcrk+%c3%a7ift%c3%a7ilerin+birbirine+s%c3%bcrekli+a%c5%9fk%c4%b1m+demesi">türk çiftçilerin birbirine sürekli aşkım demesi</a>)
 - entry_name: |
     nefes almak için chp'li belediyelere geleceksiniz
   entry_id:  70046268
   entry_writer: naletcix
-  entry_fav_count: 320
+  entry_fav_count: 321
   entry_content: |
     bir kaç kaliteli isim (yılmaz büyükerşen vb) haricinde chp'li belediye başkanları da akpliler gibi işe yaramaz.<br/><br/>ama doğru nefes almak için chp'li belediyelerin olduğu yerlere gidiyoruz. bunun sebebi belediye başkanları değil orada yaşayan insanların kültür ve ahlak seviyesi.<br/><br/>konya'ya, erzurum'a, antalya'ya gidip tecavüze uğramak istemiyor kimse. muğla'ya, edirne'ye, eskişehir'e gidip insan gibi muamele görmek istiyor.
-- entry_name: |
-    8 ağustos 2017 cep telefonu bandrol zammı
-  entry_id:  70042769
-  entry_writer: diciotto
-  entry_fav_count: 202
-  entry_content: |
-    cumhurbaşkanlığı başkanlık sistemi ile şahlanan türkiyeyi kıskanan almanyanın yeni bir oyunudur. (bkz: <a class="b" href="/?q=b%c3%bcy%c3%bck+resmi+g%c3%b6rmek">büyük resmi görmek</a>)
 - entry_name: |
     almanya'daki çöpünü buraya at mehmet yazısı
   entry_id:  70049537
   entry_writer: kunduramin akisina olurum turkiyem
-  entry_fav_count: 201
+  entry_fav_count: 203
   entry_content: |
     (bkz: <a class="b" href="/?q=mehmet+onu+okuyam%c4%b1yor+ki">mehmet onu okuyamıyor ki</a>)<br/><br/>15 yıldır almanyadayuk çok şükür 1 kelime almanca öğrenmedik kafasındaki 'alamancılara' pek bir faydası olacağını sanmadığım uygulama
 - entry_name: |
     bebeğini günde 18 defa instagrama koyan yeni anne
   entry_id:  70044214
   entry_writer: gabrrela
-  entry_fav_count: 168
+  entry_fav_count: 169
   entry_content: |
     nazar değmesin diye bebeğinin yüzünü çeşitli emojilerle kapatıp instagrama koyan anne kadar rahatsız etmeyen kadındır. <br/>ablacım madem çekincen var nazar mazar, koyma! koyma yani bu kadar basit. kafaya silah mı dayıyorlar foto koyacaksın diye anlamadım ki
 - entry_name: |
     ırkçı başlığın 1000 küsur favorilenmesi
   entry_id:  70050863
   entry_writer: mazut
-  entry_fav_count: 148
+  entry_fav_count: 157
   entry_content: |
     (bkz: <a class="b" href="/?q=d%c3%b6vlet+bizi+fovorilesin">dövlet bizi fovorilesin</a>)
 - entry_name: |
@@ -76,37 +69,30 @@ data:
     game of thrones
   entry_id:  70039420
   entry_writer: ne dusunuyorsun
-  entry_fav_count: 113
+  entry_fav_count: 114
   entry_content: |
     --- <a class="b" href="/?q=spoiler+7x04">spoiler 7x04</a> ---<br/><br/>drogon'un sahnelerinde gaza gelip muhabbet kuşumun kafesini açtım ama ortalığa sıçtığıyla kaldı bizimki, o yüzden kendinizi fazla kaptırmadan izleyin şu diziyi.<br/>--- <a class="b" href="/?q=spoiler+7x04">spoiler 7x04</a> ---
-- entry_name: |
-    sistem eleştirisi barındıran mahkeme filmleri
-  entry_id:  70051295
-  entry_writer: kaedeoky
-  entry_fav_count: 109
-  entry_content: |
-    uzun zamandır film önermiyordum. izlediğim filmlerden, tasteofcinema ve filimadami gibi sitelerden unuttuğum filmler var mıdır diye göz gezdirerek bir liste oluşturmaya çalıştım. malum adalet herkes için lazım, çalıştığımız yerde, yaşadığımız toplumda her ne kadar bir hiyerarşi olsa bile kanun önünde hepimiz eşitiz. ve sıklıkla düştüğümüz yanlışlardan biri adalet mülkün temelidir ilkesinde geçen mülk vatan oluyor, zengin kesmin toprakları değil. ayrıca haksızlıklara karşı bir bütün olup buradan adaleti sağlayan eksisozluk üyeleriyle bir eksi yazarı olarak ne kadar gurur duyduğumu belirtsem azdır. adalet herkese lazım olacaktır ve bilinçli bir birey olarak haksızlıklara eşitsizliklere her platformda sesimizi çıkartmalıyız.<br/><br/>filmlerle ilgili çok bilgi vermeyeceğim. açın izleyin derim. zekice kurgulanmış diyaloglarıyla zihninizi açacak. <br/><br/>öncelikle sıraladığım filmlerde:<br/><br/>-haklı haksızdan çok iyi bir avukatın faydalarını,<br/>-her şeyin delile bağlı olduğunu,<br/>-zamanının çok ötesinde ucu açık biten filmleri,<br/>-50 yıl öncesinden günümüzün yobazlığını görebildiğimiz,<br/>-kimseye güvenmemizi tembih eden<br/>-zamanın ötesinde sistem eleştirisi getiren,<br/>-sağlam tiradların geçtiği,<br/>-ters köşe yapani hiçbir şeyin göründüğü gibi olmadığı<br/>yapımlara yer verdim.<br/><br/><a class="b" href="/?q=m">m</a> (1931)<br/>linç kültürünün savaş öncesi almanydaki yansımaları<br/><br/><a class="b" href="/?q=rashomon">rashomon</a> (1950)<br/>kim doğru söylüyor?<br/><br/><a class="b" href="/?q=paths+of+glory">paths of glory</a> (1957)<br/>savaş suçları üzerine usta işi bir yapım<br/><br/><a class="b" href="/?q=12+angry+men">12 angry men</a> (1957)<br/>günümüzde hala taklit edilen öncü tek mekan filmlerinden. ırkçılığa tokat gibi. <br/><br/>(1997 versiyonu da iyidir)<br/><br/><a class="b" href="/?q=witness+for+the+prosecution">witness for the prosecution</a> (1957)<br/>seyirciyi ters köşeye yatıran <br/><br/><a class="b" href="/?q=judgment+at+nuremberg">judgment at nuremberg</a> (1961)<br/>insanlığın ikiyüzlülüğünü çok başarılı bir şekilde ortaya çıkartan bir film<br/><br/><a class="b" href="/?q=%c4%b1nherit+the+wind">ınherit the wind</a> (1960)<br/>evrimin müfredattan kaldırıldığı günümüz toplumunu yansıtan bir film. din vs bilim<br/><br/><a class="b" href="/?q=to+kill+a+mockingbird">to kill a mockingbird</a> (1962)<br/>bütünüyle ele aldığımızda mahkeme filmi değil ama duruşma sahnesi efsanedir (ırkçılık ve güney gtiğinin puriten yansımalarına ağır hiciv içerir)<br/><br/><a class="b" href="/?q=anatomy+of+a+murder">anatomy of a murder</a> (1959)<br/>sonu muallak olan zamanının çok ötesinde bir film.<br/><br/>haksız bile olsan iyi bir avukatla, gözünü boyayacağın juri ile davayı kazanırsın:<br/><br/><a class="b" href="/?q=the+devil%27s+advocate">the devil's advocate</a> (1997)<br/>iyi bir avukatla her davayı kazanabilrsin. çürüme ve yozlaşma üzerine mitik bir film <br/><br/><a class="b" href="/?q=sleepers">sleepers</a> (1996)<br/>iyi bir avukatla, doğru soruları sorarak adaleti yanıltabilmek ne derece mümkündür?<br/><br/><a class="b" href="/?q=the+lincoln+lawyer">the lincoln lawyer</a> (2011)<br/>suçlu olanın dışarıda olmasından daha kötü bir şey varsa o da masum birinin içeriye girmesidir. <br/><br/><a class="b" href="/?q=primal+fear">primal fear</a> (1996)<br/>seyirciyle oynayan filmlerden. kurban yeri gelir avukatın bile olabilir. <br/><br/><a class="b" href="/?q=jfk">jfk</a> (1991)<br/>belgesel niteliğinde gizemli ölümü araştıran cesur bir film<br/><a class="b" href="/?q=in+the+name+of+the+father">in the name of the father</a> (1993)<br/>ana karakterin olgunlaştığı, usta oyunculuk yer alan bir film<br/><br/>hak mücadelesi, pek örneği olmayan davalar: <br/><br/><a class="b" href="/?q=the+accused">the accused</a> (1988)<br/>insanın sinirleriyle oynayan, eril kitleyi hedef alan sağlam mide gerektiren filmlerden. kadının adı yok.<br/><br/><a class="b" href="/?q=find+me+guilty">find me guilty</a> (2006)<br/>en uzun süren davalardan biri, sürpriz oyuncular, şaşırtıcı oyunculuk<br/><br/><a class="b" href="/?q=a+time+to+kill">a time to kill</a> (1996)<br/>ırkçılık, önyargı ve bağnazlıkla mücadele<br/><br/>sisteme, düzene meydan okuyan filmler, zor davalar:<br/><br/><a class="b" href="/?q=...and+justice+for+all.">...and justice for all.</a> (1979)<br/>avukatlar, savcı, hakim kimse temiz değildir. <br/><br/><a class="b" href="/?q=you+don%27t+know+jack">you don't know jack</a> (2010)<br/>tanrıyı oynayan ölüm doktorunun narsist hikayesi<br/><br/><a class="b" href="/?q=the+rainmaker">the rainmaker</a> (1997)<br/>milyon dolarlık sigorta şirketine karşı ilk dava<br/><br/><a class="b" href="/?q=the+verdict">the verdict</a> (1982)<br/>bu sefer de haksızlığın kaynağı dini istismar eden kurumlar. <br/><br/><a class="b" href="/?q=eui-roi-in">eui-roi-in</a> (2011)<br/>izleyenle her dakika oynayan, kafa karıştıran çarpıcı bir film.<br/><br/><a class="b" href="/?q=byeon-ho-in">byeon-ho-in</a> (2013)<br/>bir avukatın değişimini gösteren çok farklı bir yere sahip film. <br/><br/><a class="b" href="/?q=do-ga-ni">do-ga-ni</a> (2011)<br/>izleyenin sinirlerini laçka eden gereçk hikayeden yola çıkarak çekilmiş ders niteliğinde bir film. <br/><br/>yargısız infaza karşı yıpratıcı koridorlarda:<br/><br/><a class="b" href="/?q=conviction">conviction</a> (2010)<br/>masumiyete inançla hayatın adandığı bir hayat memat meselesi<br/><br/><a class="b" href="/?q=presume+coupable">presume coupable</a> (2011)<br/>sistemin kokuşmuşluğunu çok sert bir biçimde gözler önüne seren bir yapım<br/><br/><a class="b" href="/?q=the+judge">the judge</a> (2014)<br/>gizemi sonuna kadar koruyan, farklı bir film. hatırlamadıklarımızdan sorumlu muyuz?<br/><br/>yargıyı insanların eline veren, <br/><br/><a class="b" href="/?q=an+inspector+calls">an inspector calls</a> (2015)<br/>bir insanın hayatından ne kadar sorumluyuz. ne kadar masumuz?<br/><br/><a class="b" href="/?q=god+on+trial">god on trial</a> (2008)<br/>tanrı süreki bir ırkı cezalandırıyorsa bunda tanrının suçu nedir? bu sefer sanık koltuğunda tanrı oturuyor. <br/><br/>tekrar izlemeyi hak eden zor filmler:<br/><br/><a class="b" href="/?q=reversal+of+fortune">reversal of fortune</a> (1990)<br/><a class="b" href="/?q=in+cold+blood">in cold blood</a> (1967)<br/><a class="b" href="/?q=trumbo">trumbo</a> (2015)
 - entry_name: |
     gezicilerin arkasında emperyalist güçler vardı
   entry_id:  70052535
   entry_writer: gabrrela
-  entry_fav_count: 102
+  entry_fav_count: 108
   entry_content: |
     kesinlikle doğru olan tespit. <br/><br/>beşiktaş ıhlamur'da soluklanmak için önünde durduğum apartmandan 60 yaşlarında bir teyze çıkıp, yaptığı sarmaları benimle birlikte çevredeki birkaç kişiye daha ikram etmişti. biz sarmaları yerken kulağımıza 'bunlar obama'nın ikramı, yiyin koçlarım' diye fısıldamıştı. orada işi çözmüştük.
-- entry_name: |
-    8 ağustos 2017 konyaspor açıklaması
-  entry_id:  70053162
-  entry_writer: bulunmaz hint kumasi
-  entry_fav_count: 92
-  entry_content: |
-    meali: (bkz: <a class="b" href="/?q=biz+%c3%a7omar%c4%b1z">biz çomarız</a>)
 - entry_name: |
     aleyna tilkiyi kemalizmin ortaya çıkardığı gerçeği
   entry_id:  70048404
   entry_writer: gelecomp
-  entry_fav_count: 87
+  entry_fav_count: 97
   entry_content: |
     (bkz: <a class="b" href="/?q=siktirtme+belani+ertan+cay+koy">siktirtme belani ertan cay koy</a>)
+- entry_name: |
+    8 ağustos 2017 konyaspor açıklaması
+  entry_id:  70053162
+  entry_writer: bulunmaz hint kumasi
+  entry_fav_count: 94
+  entry_content: |
+    meali: (bkz: <a class="b" href="/?q=biz+%c3%a7omar%c4%b1z">biz çomarız</a>)
 - entry_name: |
     kanser gencin sevgilisi tarafından terk edilmesi
   entry_id:  70045330
@@ -118,16 +104,9 @@ data:
     ankara'nın en yaşanılası yeri
   entry_id:  70046929
   entry_writer: zor azizim zor
-  entry_fav_count: 68
+  entry_fav_count: 69
   entry_content: |
     kuzey bati yönünde 450 km. cok guldum , arkadasi dışarı alalim lutfen. ulan bare ayvalik - bozca ada falan de. istanbulu burada öven insan net bir sekilde salaktir. ancak konu ankara'nın en yaşanılası yeri ise kesinlikle cankaya'nin ust kisimleri yildiz tarafi magdur etmez. sosyal olunacak her yere yakındır. guzeldir. candir.
-- entry_name: |
-    bir fikrim var'da hoşafın finale kalması
-  entry_id:  70038678
-  entry_writer: isolde
-  entry_fav_count: 65
-  entry_content: |
-    hayatımda ilk kez duyup hayvan yetenek yarışması konseptli bir program var ve sözlük yazarlarından birinin hoşaf isimli hayvanı finale kaldı da smsle destek isteniyor gibi bir şey zannedip baktım. üzerinde bu kadar uzun konuşmaya değmeyecek bir programda, başındaki türban sayesinde oraya elinde "bardağa su doldurmayı buldum" diyerek çıksa finale kalacağına emin sırtarışıyla bir kız hoşafı şişelemeyi icad etmiş de bu konuşuluyormuş meğerse. harika bir olay, tabi bu arada galatasaray lisesi'ni birincilikle bitirip yale'den 4 senelik burs almış, müzisyen ve mucit, baştan aşağı laik cumhuriyet çocuğu olan <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yale-4-yillik-burs-verdi-40541570" title="http://www.hurriyet.com.tr/yale-4-yillik-burs-verdi-40541570">zeynep</a>'ten hiç bahsedildi mi? hayır. çünkü zeynep gibi tepeden tırnağa her şeyiyle örnek kızları göz önünden olabildiğince kaçırıp vizyonu hoşaf kadar olan cecelistin tekini konuşmalı, hep onu görmeli, ona maruz kalmalıyız, itiraz ederseniz dilenci sesli mağdur bağırtısı sizi bekliyor. zeynep gidecek, biz organik hoşafçı, bayatlamayan börekçi, bozulmadan duayla büyüyen fasulyeci kübraların hep finale kalacağından emin sırıtışlarına kalacağız. çocuk doğurmak için mükemmel bir ülke.
 - entry_name: |
     alternatif bir fikrin mi var projeleri
   entry_id:  70043069
@@ -139,7 +118,7 @@ data:
     8 ağustos 2017 aziz yıldırım %100 futbol yayını
   entry_id:  70043198
   entry_writer: mesinieskimiskeneftakunyasi
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     aziz yıldırım'ın geleneksel olarak;<br/><br/>-konuşturmasınlar beni, konuşursam yer yerinden oynar.<br/>-gerekirse havuzdan çıkarız.<br/>-gökhan'ı, caner'i ve lens'i biz bıraktık yoksa beşiktaş alamazdı.<br/>-volkan demirel milli takıma geri dönmeli.<br/><br/>demesi muhtemel program.
 - entry_name: |
@@ -160,7 +139,7 @@ data:
     ekşi itiraf
   entry_id:  70039071
   entry_writer: seenon2
-  entry_fav_count: 50
+  entry_fav_count: 51
   entry_content: |
     birden fazla sevgiliye söylediğiniz “bitanem”leriniz samimi mi? birden fazla kişiye “bitanem” demiş birinin “seni seviyorum”larına güvenilir mi ? <br/><br/>fotoğraflarınızda ki gülen yüzleriniz samimi mi? çekildikten sonra da yüzünüzde kalıyor mu o gülümseme?<br/><br/>menüdeki fiyatlara rağmen, restoranda girdiğinizde size “hoş geldiniz” diye kapıyı açan şef garson samimi mi ? bizi yürüyen adisyon fişi olarak görmediğine emin olalım mı ?<br/><br/>gün içinde kaç kişinin yüzüne gerçekten düşündüklerinizi söylemiyorsunuz ? mesela patronunuz hakkında düşündüklerinizi yüzüne söylediniz mi ? sevgilinize ? annenize ? kardeşinize ? pardon ama gerçekten düşündüklerinizi söylemiyorsanız, gün boyu ne konuşuyorsunuz ?<br/><br/>reklamlar bizim için firmaların yaptığı indirimden, fırsatlardan, cazip tekliflerden bahsediyor hep. gerçekten bizi düşünen firma var mıdır? eğer samimiyetsizse reklamlar, gözümüzü çevirdiğimiz her yerdeler. farkında mısınız ? <br/><br/>“başka zaman geliriz ya” diye kaç tanıdığınızı kandırdınız ? o anı kurtarmak için söylenen, belirsiz zaman kipinde çekilmiş, kibarlık samimiyetsizliği değil mi bu ?<br/><br/>çocuk yetiştirmek nedir ? okula gönderdiğiniz, televizyon izlettiğiniz, akıllı telefon hediye ettiğiniz çocuğunuzu yetiştiren siz misiniz yoksa öğretmen veya müfredat, tv dizileri ve reklam senaristleri, internet servis sağlayıcıları ve uygulama sahipleri mi? çocuk sevgisi nedir peki? sadece kendi çocuğunuzu sevmek mi? dünya, ülke ülke ağlayan çocuklarla doluyken, çocukları çok seven ebeveynler dolu her yer değil mi?<br/><br/>teselli nedir? en son kimi teselli ettiniz ? bir gerçek yüzünden acı çeken birine teselli vermek samimiyet midir? ortada gerçek bir acı varken, teselli sadece yalan olabilir değil mi? boş kelimeleri arka arkaya dizmektir teselli. <br/><br/>“hayallerinin peşinden koş”, “kendin ol”, “istemek başarmanın yarısıdır” gibi sözler neden bahsediyor? mesela asgari ücretli babanın çocuğu hayallerinin peşinden ne kadar koşabilir ? samimiyetsizlikten sonraki kapı vicdansızlık olabilir mi ?<br/><br/>acaba beyaz gelinliğin beyazı samimi mi?<br/><br/>satılan malda, onu üreten emekçinin emeğini hiç anlatmayan, fiyat etiketi samimi mi?<br/><br/>samimiyet mi yani yüzünüzü olduğundan güzel gösteren tüm makyaj malzemeleriniz ?<br/><br/>gıda boyalı pastalar, market raflarında göz hizasına konulsun diye ekstra para verilmiş çikolatalar, domates satan pazarcının kırmızı renkli büyük şemsiyesi…samimiyet mi?<br/><br/>herkesin kendi çıkarını düşündüğü bir dünyada, bir insanın diğerine “nasılsın ?” diye sorması bile sorgulanmalı sanki.<br/><br/>kadın cinayetine kurban giden kadınlara da beyaz gelinlik giydirilip samimi bir düğün yapılmıştı! nikah şahitleri aslında bir cinayete şahit oluyorlarmış demek ki.<br/><br/>tartışarak ya da aldatarak ayrılan sevgililer bir zamanlar birbirlerine “hayatımın anlamısın” diye sevgi sözcükleri fısıldamıştı! hayatları ancak bu kadar anlamlıymış demek ki.<br/><br/>işinden kovulanlar bir zamanlar onları kovanlara “işveren” diyorlardı! birine işveren demek iyimser bir bakış açısıymış demek ki.<br/><br/>rekabetin olduğu bir sınavda herkese “başarılar” dilemek, yoksulluğun ve yalnızlığın olduğu bir ülkede ana haber bültenini “herkese iyi akşamlar” diye bitirmek, nükleer silah koleksiyonu yapan ülkelerin amacının barış olduğunu iddia etmek, acıdığınız için birine yardım etmek, eğitimin parayla satılmasına rağmen “eğitim şart”, sağlık hizmetinin paralı verilmesine rağmen “sağlık her şeyin başı” demek… hep samimiyetten!<br/><br/>çoktan yok olup gittiği halde, hala oradaymış gibi gökyüzümüzü süsleyen yıldızı, bir ağacı kandırıp çiçek goncalarını açmasına sebep olan yalancı ilkbaharı, güzelliğiyle insanları büyüleyip asla kendine yaklaştırmayan gökkuşağını ve başımıza ne işler açacağını hiç belli etmeden akıp duran zamanı da unutmayalım. <br/><br/>bir anlığına dünyanın, her şeyi ile samimi insanlarla dolu olduğunu düşünün. duygular, hisler, düşünceler hatta evrenin kendisi bile samimi olsun. bu hayali dünyada siz de herkese samimi olun mesela korkmadan…<br/><br/>neler perdeleniyor hayatta değil mi? neler kaçıyor ? kim bilir nelere yazık oluyor gizlilerde, saklılarda, susulanlarda. ve sürekli yalanlar dolanıyor aramızda. sizce “yaşamak harika” veya “hayat güzeldir“ demek samimi midir? böyle bir dünyada?
 - entry_name: |
@@ -171,24 +150,10 @@ data:
   entry_content: |
     sözlüğün jet fadılıdır. bu yüzden de kendisini tebrik ediyorum. hep dinci çomarlar dolandırılacak değil ya biraz da çakma entel sözlük solcuları duygu istismarıyla dolandırılsın.<br/><br/>o pişmiş kelle gibi sırıtarak sergilediğin porselen dişlerine kurban reis. durma devam et arkandayız. şu ota boka duyar kasmayı marifet sanan ekşicileri yeni projelelerinle biraz daha söğüşle.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/AlperenArslntas">https://twitter.com/alperenarslntas</a> şu eşgale bi bakar mısınız? yüzü bağırıyor ben yalancıyım güvenilmez biriyim diye. değil yardım etmek 1lira yol param eksik dese inanılmaz.
 - entry_name: |
-    sevgilisine ateş edip seken kurşunla ölmek
-  entry_id:  70051458
-  entry_writer: uzun bi kiz
-  entry_fav_count: 44
-  entry_content: |
-    sevgilinin taş gibi olduğunun kanıtıdır. <sup class="ab"><a title="(bkz: abbawww kaç kaç kaç)" href="/?q=abbawww+ka%c3%a7+ka%c3%a7+ka%c3%a7!" data-query="abbawww kaç kaç kaç">*</a></sup>
-- entry_name: |
-    artık türkiye dünyada bir idol olmuş durumda
-  entry_id:  70052254
-  entry_writer: gelecomp
-  entry_fav_count: 42
-  entry_content: |
-    evet, <a class="b" href="/?q=b%c3%b6yle+olmay%c4%b1n+idolu">böyle olmayın idolu</a> olduk, evet.
-- entry_name: |
     ösys 2017 yerleştirme sonuçları
   entry_id:  70056344
   entry_writer: s1mple
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     09.45 kuralını eksiksiz yerine getiren <a class="b" href="/?q=%c3%b6sym">ösym</a>, iş kendine gelince nasıl da saati siklemiyor.
 - entry_name: |
@@ -209,21 +174,21 @@ data:
     cumali ceber
   entry_id:  70038768
   entry_writer: syntax terror
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     10 yaşındaki oğlumun sınıf arkadaşı cem tarafından şiddetle davet edildiği film.<br/><br/>cem neden "gidelim! gidelim!" diye böylesine ısrar ve ihtiras içinde anırıyor, merak ettim ve filmin fragmanını seyrettim. tam birbuçuk dakika içinde toplam 6 kez "sıçmak" fiili geçti. <br/><br/>yıl 2017! <br/><br/>halen çoluk çocuğu göt mahsulleriyle güldürme peşindeki film yapımcılarının götü çıksın. <br/><br/>cem sen de uzak dur lan oğlumdan! az seyrek görüşün amk.
 - entry_name: |
     evliliğe özendiren şeyler
   entry_id:  70052494
   entry_writer: moratoryumkisilik
-  entry_fav_count: 30
+  entry_fav_count: 36
   entry_content: |
     belirli bi vakit geçirdikten sonra kimsenin farklı bir eve gitmek zorunda olmaması, tartışma olduğunda bile kısa bir süre sonra barışacağını bilmek.<br/><br/>aynı ev içinde yaşarken küs kalamayanlardanım.
 - entry_name: |
     anderson talisca
   entry_id:  70052095
   entry_writer: saladze
-  entry_fav_count: 25
+  entry_fav_count: 29
   entry_content: |
     arkadaşın da dediği gibi. sen niye kiralık bedelini gününde yatırmıyorsun birader? sözleşmede faiz işlermiş de, bir fesih hakkı doğurmazmış da. geçiniz. esas yaş tahtaya basmayacak olan benfica kulübüdür. avrupa kulüpleri bu işleri bizden çok daha iyi biliyorlar. beni korkutan da bu. adamlar sözleşmede bizi sıkıntıya sokabilecek, faydalanabilecekleri bir şey bulmuş olmalılar ki göndermiyorlar lisans için evrakları. fikret orman'ın konuşmalarındaki rahatlık güvenmeniz değil, korkmanız gereken kısım. aboubakar'ı da 5 yıllığına almıştı, gomez de 1000 euro'ya bizdeydi, lyon maçında da ceza almamız söz konusu bile değildi. tüm bu vakalarda avrupa'nın olaylara fikret orman'ın bakış açısıyla bakmadığını gördük. şu anda bu konuda bana en çok güven veren şey talisca'nın beşiktaş'ta kalmak istemesi ve benfica'ya dönmek istememesi. düşünün yani bana güven veren bu şeyin de kağıt üzerinde hiçbir kıymeti yok. durum fifa'lık ve uefa'lık olduğu anda biz haklı değilsek oyuncu tıpış tıpış benfica'ya döner, biz de izleriz arkasından. yönetim ve başkan şu işi çözemezse yol açtığı rezilliğin altından kalkamaz bilmiş olsunlar. umalım da şu işi halletsinler.<br/><br/>bu arada: fikret orman geçen sene "seneye biçok kısıtlama kalkıyor, rahat edeceğiz" de diyordu. gördüğünüz gibi bu yıl da kalkmadı. hatta lens'in imza töreninde seneye ffp anlaşması bitiyor dedi. onun da aslını söyleyeyim ben size; seneye de bitmiyor. bir sonraki transfer döneminde de aynı kısıtlamaya hazır olun. anlaşma 3 değil 4 yıllık. herkesin ulaşabildiği, kamuya ilan edilmiş anlaşma metinlerini bile hiçe sayarak canlı yayında yalan söyleyebiliyor fikret orman. yani bu konuda en son güveneceğiniz şey fikret orman'ın açıklamaları.
 - entry_name: |
@@ -237,7 +202,7 @@ data:
     türk kızını yabancı kızdan ayıran özellikler
   entry_id:  70054930
   entry_writer: balistic
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     kadin her yerde kadindir. onlari farklilastiran sey icinde yasadiklari kulturdur. kultur kadini asagilamaya, cinsel acidan ezmeye ve hizmetci gibi gormeye yatkinsa kadin da cocuklugundan beri o kulturun icinde yorgruldugundan dolayi kendini ona gore sekilliyor dogal olarak (istisnalar haric).
 - entry_name: |
@@ -255,6 +220,20 @@ data:
   entry_content: |
     belediyelerden ricam nasıl kışın yollara tuz dökülüyorsa yazın da yollara pirinç serpilsin. belki havanın nemini biraz alır.<br/><br/>(bkz: <a class="b" href="/?q=yaz+s%c4%b1caklar%c4%b1+kapat%c4%b1ls%c4%b1n">yaz sıcakları kapatılsın</a>)
 - entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  70049611
+  entry_writer: katil kar tanesi
+  entry_fav_count: 15
+  entry_content: |
+    <a class="b" href="/?q=sobremesa">sobremesa</a>. ispanyolcada anlamı yemekten sonra kirli sofra etrafında dostlarla masadakilerle yapılan sohbet demekmiş. ispanyolların sosyalleşmelerindeki başarılarıyla örtüşüyor. çok hoş. geceden arkadaşında kalırsın, sabah bütün ev kahvaltı yaparsınız, yaptıkça uyanırsın. sonra kirli tabakların etrafında, bir elinin işaret parmağıyla susamları toplarken saatlerce sohbet edersin. cemal süreyanın kahvaltıdaki mutluluktan kastı da bu olsa gerek.<br/><br/>dil ne güzel şey. <a class="b" href="/?q=cafune">cafune</a> var söz gelimi portekizcede. sevgilinin saçları arasında elini gezdirmek miymiş öyle bir şey.<br/><br/>bizde de <a class="b" href="/?q=veli">veli</a> var örneğin. delinin ermişine deniyor. öyle bir delirmek ki akıllıdan bile daha bilge olmak gibi. şarapçı dayılara yüklediğimiz bilgelik karakterinin de bununla bir ilgisi olabilir. sanırım kültürümüz bilginin çile çekmekle, fedakarlıkla olan ilgisinin fazlasıyla farkında.<br/><br/>mihenk taşı denen şey altın gümüş gibi değerli eşyaların doğruluğunu tespit için kullanılırmış. yunancası <a class="b" href="/?q=basanos">basanos</a>. aynı kökten türeyen bir diğer sözcük <a class="b" href="/?q=vasanistino">vasanistino</a>. anlamı işkence. demek ki yunanlılar da işkencenin, çilenin, acının gerçeği ortaya çıkarabileceğini düşünmüş.<br/><br/>japoncada da mesela satın alınıp okunmayan kitapların oluşturduğu yığın anlamına gelen bir sözcük var <a class="b" href="/?q=tsundoku">tsundoku</a>. okuma tembelliğinin gösterişe dönüşmesini ne güzel iğnelemişler. bizde kitaplarımızla övünmek yaygındır. okunmamış olmasının eksikliğine de japonlar değinmiş. <br/><br/>kaynak niyetine:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/CelineSymbioss/status/801518249728999436" title="https://twitter.com/CelineSymbioss/status/801518249728999436">https://twitter.com/…ioss/status/801518249728999436</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.huffingtonpost.com/entry/theres-a-japanese-word-for-people-who-buy-more-books-than-they-can-actually-read_us_58f79b7ae4b029063d364226" title="http://www.huffingtonpost.com/entry/theres-a-japanese-word-for-people-who-buy-more-books-than-they-can-actually-read_us_58f79b7ae4b029063d364226">http://www.huffingtonpost.com/…9b7ae4b029063d364226</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://sobremesa.life/">https://sobremesa.life/</a>
+- entry_name: |
+    dijital sürüm yerine kutulu oyun alan insan
+  entry_id:  70053974
+  entry_writer: anani siken kadi
+  entry_fav_count: 12
+  entry_content: |
+    demek bu dijitalci nesil iki kutu alıp birisini hiç açmadan saklayan koleksiyoncuları görse kalpten gidecek.<br/><br/>bu arada dijital olarak satın aldığınızı sandığınız oyunu sadece kiralamış olabilirsiniz ayıktırayım. atıyorum steam kapanırsa senin o dijital satın aldığın oyun ne olacak? puff uçacak gidecek. kutulu oyun alan adam ise o oyunun tapusunu almış gibidir, bin yıl sonra bile gene açar oynar. o yüzden bir bildiği olan adamdır.
+- entry_name: |
     cinsel çekim hissedilen meslek grupları
   entry_id:  70040144
   entry_writer: kadin tamircisi
@@ -262,17 +241,10 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=taksicilik">taksicilik</a>) bir gün delirip sikecem hepsini, meme uçlarını tırnak markasıyla filan koparacağım.
 - entry_name: |
-    dijital sürüm yerine kutulu oyun alan insan
-  entry_id:  70053974
-  entry_writer: anani siken kadi
-  entry_fav_count: 11
-  entry_content: |
-    demek bu dijitalci nesil iki kutu alıp birisini hiç açmadan saklayan koleksiyoncuları görse kalpten gidecek.<br/><br/>bu arada dijital olarak satın aldığınızı sandığınız oyunu sadece kiralamış olabilirsiniz ayıktırayım. atıyorum steam kapanırsa senin o dijital satın aldığın oyun ne olacak? puff uçacak gidecek. kutulu oyun alan adam ise o oyunun tapusunu almış gibidir, bin yıl sonra bile gene açar oynar. o yüzden bir bildiği olan adamdır.
-- entry_name: |
     en az 10 defa izlenen tek film
   entry_id:  70052588
   entry_writer: gracious
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=the+shawshank+redemption">the shawshank redemption</a>)<br/>(bkz: <a class="b" href="/?q=esaretin+bedeli">esaretin bedeli</a>)
 - entry_name: |
@@ -282,6 +254,13 @@ data:
   entry_fav_count: 9
   entry_content: |
     kanser olan annesine sürpriz olarak koşuyolu'ndaki evini yenilemek istediğini belirterek sözlük yazarlarından eşya isteyen, 06.08.2017 tarihinde açtığı "onemliuyarilar'a yardım ediyoruz 2" başlığı altında ise evde hala eksik olduğunu iddia ettiği birtakım eşyaların dökümünü, markaları ve hesap numarası ile birlikte belirterek toplam 5 bin küsur tl talep eden @onemliuyarilar nickli şahıs. <br/><br/>eski entrylerini inceleyen yazarlar tarafından 1-2 yıl öncesi itibarıyla 8.000 tl civarında aylık geliri olduğu, 2 arabasının ve yazlık evinin olduğu belirtilmektedir. pazar günü başlatıp bugüne kadar sürdürdüğü ve ne kadar para toplandığı bilinmeyen yardım kampanyası ile ilgili herhangi bir mülki idare izni sunmamış olup bu fiiliyle yardım toplama kanunu'nu çiğnemiş olması muhtemeldir. <br/><br/>bu başlık onemliuyarilar'ın yardım talebiyle ilettiği hesabın ömer alperen arslantaş'a ait olmasından yola çıkarak, onemliuyarilar ile ömer alperen arslantaş'ın aynı kişi olduğu varsayımı ile açılmıştır. ikisi aynı kişi değilse başlık silinecek ve ömer alperen arslantaş'a onemliuyarilar'dan uzak durması öğütlenecektir.<br/><br/>edit: isimden emin olmadan bu başlığı açmamı eleştirecekler olabilir. (bkz: <a class="b" href="/?q=onemliuyarilar%27a+yard%c4%b1m+ediyoruz">onemliuyarilar'a yardım ediyoruz</a>) başlığı ilk açıldığında selim yuhay isimli medyatik bir mimara twitter'dan ulaşıldığı ve kendisinin de konuyla ilgilendiği bilgisi içeren bir entry'e rastlamış ve selim yuhay'ın twitter hesabını inceleyerek gerçekten ihtiyaç sahibi kişinin iletişim bilgilerini istediğini görmüştüm <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/selimyuhay/status/882881877471895553" title="https://twitter.com/selimyuhay/status/882881877471895553">link</a>. bu tweete alperen arslantaş isimli bir şahıs tarafından "ilgili kişi benim, iletişim bilgilerimi ileteceğim" vs şeklinde cevaplar verildiğini hatırlıyorum. tabii şimdi o tweetler silinmiş. bu başlığı açarken o tweetleri görmüş olmak da beni rahatlatan ayrı bir unsur oldu.
+- entry_name: |
+    cumali ceber gibi filmlerin çok izlenme nedeni
+  entry_id:  70057683
+  entry_writer: jiesheshuai
+  entry_fav_count: 8
+  entry_content: |
+    değerli doğu romalılar; en anlaşılabilir bir lisan ile anlatmak gerekirse, "sanat" dediğimiz olgunun maalesef ki insandan beslendiğini söylemek mümkün. dolayısıyla insanlar toplumu, toplum da kültürleri var eder. nitekim klişe olsa da sanat, toplumun ve bireyin bir yansımasıdır. bugün abd'nin sinema sektöründeki yansımasına bakarsak, yüksek derecede pompalanan iki tür görürüz: durum komedisi ve bilim-kurgu (süper kahramanlar, uzaylılar, galaksiler). diğer bir yönden avrupa'ya bakarsak, orta avrupa ve kuzey avrupa sinemasında sarsıcı insan dramları ve bireysellik üzerine felsefi bakış açılarını yansıtan bir varyasyonunu görürüz.<br/><br/>ülkemize gelecek olur isek, şöyle bir soruyla başlamamız gerekiyor: "türkiye siyasetinde kim iktidar?" el cevap: muhafazakar merkez parti. peki "bu partinin seçmen profilini kimler oluşturuyor?" diye de sormaya devam edersek, ben diyeyim "yeterince okumamış, anti-burjuva, ekstansif çiftçi, ezilmiş ve dışlanmış iç anadolu insanı." siz deyin "çomar". işte türkiye'de sinema, kolay yönden para kazanmasını bilen garp kurnazları için tam olarak bunu yansıtmakla meşgul. bunun için gösterebileceğim yüzlerce karakter var fakat ben sadece ikisini seçeceğim: recep ivedik ve başlıktan dolayı cumali ceber. yani türkiye'nin damarlarına son 15 yılda pompalanan bir tür olan sığ komedi.<br/><br/>saygıdeğer devlet-i aliyye mağdurları; sinemada karakterle seyirciyi birbirine bağlayamazsanız, bildiğimiz üzre filminizi de halka sevdiremezsiniz. gülmenin oldukça kolay olmasının yanında, çok elitist olacak fakat, hele ki "cahil" demekten imtina etmediğimiz hücre yığınları için çok çok daha kolaydır ve aynı oranda da tatmin edicidir. hülasa düşündürmez; zira acıtmaz. öte yandan hiçbir şekilde meraklandırmaz. karakterler varoluş acısı yaşamaz. ya da filmdeki karakter uzaydaki bir kara delikte büyük zorlukları atlatmaya çalışırken, seyircinin bütün fizik bilimi bilgisini konuşturmasına gerek kalmaz. genel türk insanı, ki artık "anadolu insanı" demek istiyorum, varoluş acısı çekip deniz manzaralı villasında manzaraya bakarak derin birkaç söz söyleyen bir karakterle yakınlık kuramaz; ya da uzaydaki elektron dalgasının içinden gemisini hasar almadan kurtarmaya çalışan kaptanla da herhangi bir ilişki oluşturamaz. çünkü türk halkı, son 50 yılda ne bilimsel/rasyonel atılımını yapabildi; ne de son 100 yılda felsefi bakış açısı kazanacak kadar okuma ve araştırma yapabildi. peki sinemada kendisini film karakteriyle bağdaştıran karakterler ne tür karakterler?; eğitimsiz, asabi, karşısındakini rasyonel bilgiyle değil de günlük hayatın pratik bilgisiyle ezmeye-yenmeye çalışan ve sadece bunda başarıla olabilen. hatta "ben bu konu hakkında 2 tez yazdım!" diyen adama "hadi len ordan!" deyip alt edebilen karakterler. <br/><br/>ezcümle, türk halkı avrupa filmlerindeki felsefeci ya da bilim adamları yerine, örnekte saydığım insan tipleriyle en kolay yönden yakınlık kurup, işte bu insanlarda kendisini görmekte. ekranda kendisini tüm o eğitimli, elit ve kültür sahibi insanları alaşağı ederken görmek de onu inanılmaz mutlu ediyor. nitekim bu katiyen basit bir konu değil. en az akp'nin ılımlı islam projesinin türk ulusu üzerindeki dejenerasyonu kadar ehemmiyet içeren, sanat-toplum ilişkisi açısından kitap bile yazılabilecek bir mevzu. hatta fikri de ortaya attım; yazsanız da okusak.<br/><br/><sup class="ab"><a title="(bkz: imla düzenlemesi yapıldı.)" href="/?q=imla+d%c3%bczenlemesi+yap%c4%b1ld%c4%b1." data-query="imla düzenlemesi yapıldı.">*</a></sup>
 - entry_name: |
     kurulma aşamasındaki devlete isim önerileri
   entry_id:  70057409
@@ -293,16 +272,23 @@ data:
     8 ağustos 2017 real madrid manchester united maçı
   entry_id:  70044529
   entry_writer: lorke bey
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     şanlı mançesterimizin babayı alacağı maç. heyecanla bekliyoruz.
 - entry_name: |
-    diş fırçalarken öğürmek
-  entry_id:  70057118
-  entry_writer: olcut
+    söylenmesi zevk veren ingilizce kelimeler
+  entry_id:  70038663
+  entry_writer: gggsss
   entry_fav_count: 3
   entry_content: |
-    öğürme refleksinin biraz duyarlı olmasından ileri gelir.<br/><br/>bu konuda detaylı bir araştırma yapmadım ancak kendi tecrübelerim doğrultusunda söyleyeyim; dilinizin arka kısmı, yan kısımları, üstte sert damaktan sonra gelen yumuşak damak, devamında bademciğe doğru olan hat -tonsil<sup class="ab"><a title="(bkz: bademcik)" href="/?q=bademcik" data-query="bademcik">*</a></sup> dahil- bu refleksi tetikleyebilir. oralara sert herhangi bir cisim dokunursa öğürürsünüz. <br/><br/>diş fırçasını üst ve alt azı dişlerinizin iç tarafında iken daha dikkatli kullanırsanız bunun önüne büyük ölçüde geçebilirsiniz. zira dişlerdeki sinirler beynin bu refleksi tetikleyecek noktalarına gitmez. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>deynekçi gibi oldu böyle ama kranial sinirlerin 9 ve 10.su sorumlu olmalı bundan, dişinki ise 5. kranial sinire gidiyor. en azından böyle hatırlıyorum. uyaran olursa düzenlerim.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>hazır yeri gelmişken belki bir okuyan olur da faydam dokunur diye doğru fırçalama için dişin her yönünün plaktan arındırılması gerektiğini söylemiş olayım.<br/><br/>dişlerinizin sadece karşıdan görünen kısımları değil, aynı zamanda dile ve damağa bakan kısımları ve özellikle de birbirlerine bakan ara yüzlerini de temizlemelisiniz. bunun için ya ara yüz fırçası ya da diş ipi kullanmalısınız. aynı zamanda fırça ile yaptığınız hareketin genel seyri dişetinden dişe doğru olmalıdır. tıpkı süpürür gibi. <br/>bu arada diş fırçalanırken ağzınız açık olmalı. <br/>bir de son püf noktası veriyorum dilinizin yüzeyi de bakteri birikimi için uygundur sadece çalkalamak yerine birkaç fırça darbesi ile orayı da temizlerseniz daha ferah bir nefesiniz olduğunu hissedebilirisiniz. <br/><br/>kamu spotu ayarında not: "benim midem kalkıyo, öğürüyorum" diye diş fırçalamayı ihmal etmeyin. <br/><br/>sağlıklı ve mutlu gülüşlerle taçlanmış, güzel günler geçirmeniz dileğiyle. :)
+    (bkz: <a class="b" href="/?q=congratulation">congratulation</a>)
+- entry_name: |
+    bitcoin
+  entry_id:  70047439
+  entry_writer: sarcastica
+  entry_fav_count: 3
+  entry_content: |
+    niye herkes x tarihinde y kadar aldığını, şu an da ne kadar olduğunu söylüyor dediğim cryptocurrency. forumlarda bu kadar boş muhabbet dönmüyodur. <br/><br/>son haftalarda yazılan entry'lerin yarısının içeriği aynı. sadece sayılar değişiyor. çarpan aynı. çünkü o tarihten bu tarihe yüzde kaç yükseldiği belli. matematik biliyoruz amk. <br/><br/>yok yatırım tavsiyesi verdim adam parasını 9439849'e katladı, yok x yatırdım 56x kaldırdım, yok sağa yatırdım soldan çektim. <a class="b" href="/?q=bsg">bsg</a>.<br/><br/>adam gibi yorum yapanları da soğutuyorsunuz. yukarıda adam (bkz: <a class="b" href="/?q=razzraziel">razzraziel</a>) ne güzel <a rel="nofollow noopener" class="url" target="_blank" href="https://image.ibb.co/gEPKra/photo_2017_08_08_11_03_59.jpg" title="https://image.ibb.co/gEPKra/photo_2017_08_08_11_03_59.jpg">şu fotoyu</a> vermiş örnek olarak mesela. mis gibi entry'si var.<br/><br/>bize ne amk kaç yatırdın kaç oldu (ki bi s*kim yatırdığınız yok da, allah'tan entry girmesi bedava da yazabiliyosunuz). bitcoin başlığında da parayla hava mı atılır amk. kızlar okumuyo olm bu başlığı merak etmeyin. hep sapız burda bak. valla. başka başlıklarda at tut da şuralar bi ferahlasın ya.
 - entry_name: |
     bebek ziyaretine gelen misafire elini yıka demek
   entry_id:  70045457
@@ -325,12 +311,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=temel+reis">temel reis</a>)
 - entry_name: |
+    paul pogba
+  entry_id:  70058730
+  entry_writer: orcrist
+  entry_fav_count: 1
+  entry_content: |
+    yanındaki bomboş arkadaşına pas vermektense üç kişilik defansın arasına girip onları çalımlayarak gol atacağını düşünen siyahi halı saha topçusu.
+- entry_name: |
     koru hastanesi'nin röportaj engellemesi
   entry_id:  70046487
   entry_writer: ilkistan
   entry_fav_count: 1
   entry_content: |
     lan bu başlık nasıl olay olmadı? ben böyle terbiyesizlik,utanmazlık görmedim ne zamandır, belli ki suserler ve kamuoyu pek sallamıyor.
+- entry_name: |
+    konyaspor taraftarının pepe'ye tekme atması
+  entry_id:  70059014
+  entry_writer: foxtrot
+  entry_fav_count: 1
+  entry_content: |
+    görüntüler tamamen montaj. çünkü passolig, sporda şiddeti tamamen bitirdi. şiddet, holiganizm yok artık.
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  70042357
