@@ -6,58 +6,65 @@ data:
     gerçek olmayan genel kabul görmüş en yaygın bilgi
   entry_id:  70136447
   entry_writer: masonik misyoner imam
-  entry_fav_count: 486
+  entry_fav_count: 495
   entry_content: |
     (bkz: <a class="b" href="/?q=islam+ho%c5%9fg%c3%b6r%c3%bc+dinidir">islam hoşgörü dinidir</a>)
 - entry_name: |
     yardım istediği polisten yumruk yiyen kız
   entry_id:  70128333
   entry_writer: tovbebismillah
-  entry_fav_count: 439
+  entry_fav_count: 440
   entry_content: |
     videodaki görüntüde iki genç kızdan birine durduk yerde yumruk atan polis açıkça görülmektedir. olayın detayı ne olursa olsun bu polisin görevden uzaklaştırılmasını gerektirir. polisler muhtemelen hakarete ve veya darpa uğradıklarını iddia edeceklerdir. her durumda bu ve bunun gibi kamu güvenliğini zedeleyen eylemler yapan kişilere polislik yaptırılması, insanların polis kurumuna ve adalete (zaten çok az olan) güvenini ve inancını baltalamaktadır.
 - entry_name: |
     rte'nin ısparta'da coca cola fabrikası açması
   entry_id:  70138086
   entry_writer: tabudeviren
-  entry_fav_count: 383
+  entry_fav_count: 393
   entry_content: |
     bugün itibariyle gerçekleşendir.<br/><br/>israil'i protesto etmek için coca cola döken reisçilerin devrelerinin yandığı gün bugündür. hatırlayalım:<br/><br/>(bkz: <a class="b" href="/?q=israil%27e+kar%c5%9f%c4%b1+coca+cola+d%c3%b6kme+eylemi">israil'e karşı coca cola dökme eylemi</a>)<br/>(bkz: <a class="b" href="/?q=israil%27i+boykot+i%c3%a7in+kolalar%c4%b1+soka%c4%9fa+d%c3%b6ken+bakkal">israil'i boykot için kolaları sokağa döken bakkal</a>)<br/>(bkz: <a class="b" href="/?q=coca-cola%27y%c4%b1+fanta+i%c3%a7erek+protesto+eden+vali">coca-cola'yı fanta içerek protesto eden vali</a>)<br/><br/>anadolu ajansı da reisçileri uyandırmamak için açılışa "coca cola fabrikası" açılışı diyememiş, "meyve suyu üretim tesisi" açılışı olarak haberleştirmiş :)) şurada:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/AACanli/status/896334756497018880" title="https://twitter.com/AACanli/status/896334756497018880">https://twitter.com/…anli/status/896334756497018880</a><br/><br/>sanki devlet yatırım yaparak su arıtma tesisi, baraj vb.. açıyormuş gibi.. kelime oyunlarıyla gerçeğin üzerini örtüp, gerçeği başka bir şeye çevirmeye, algı yönetimine devam..<br/><br/>edit: coca cola icecek yazisinin onunda rabia isaretli <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cumhuriyetgzt/status/896371421479411712" title="https://twitter.com/cumhuriyetgzt/status/896371421479411712">fotograf</a>. mukemmel.<br/><br/>edit2: aile bakani dr. betül sayan kaya da meyve suyu uretim tesisi demis :)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/drbetulsayan/status/896345670172516353" title="https://twitter.com/drbetulsayan/status/896345670172516353">https://twitter.com/…ayan/status/896345670172516353</a>
 - entry_name: |
     ösym'nin yanlış puanla yerleştirme yapması
   entry_id:  70134815
   entry_writer: loykalina
-  entry_fav_count: 360
+  entry_fav_count: 362
   entry_content: |
     1499 kişinin hepsinin dava etmesi gereken durum. hem fahiş fiyatlarla sınav yap, 1 dakika bile gecikeni sınava alma, sınav sonuçlarını kafana göre ya da kodaman birisi bir tweet attığında açıkla, açıklaman da önceden olduğu gibi sabah saatlerinde değil de mesai saatleri sonrasında olsun ki insanlar şikayet edebilecekleri gün sayısı bir azalsın, aldığın kararları doğru düzgün uygulayama, bunun sonucunda 1499 kişiyi önce bir yerlere yerleştir, akabinde yerleşemediniz özür dileriz de, 1110 kişiyi de sen şuraya yerleştin, ama yanlışlık yapmışız aslında şuraya yerleştin de ve sana karşı bir yaptırım olmasın. yok öyle yağma.
 - entry_name: |
     astronotların ayda 5300 dolar kazanması
   entry_id:  70143567
   entry_writer: taluyka
-  entry_fav_count: 309
+  entry_fav_count: 340
   entry_content: |
     dünyada da 6 katını kazanırlar.<br/><br/>iyi para...<br/><br/>senelerce bu espri için bekledim, dalga geçeni sikerim, keh keh.
 - entry_name: |
     eren bülbül
   entry_id:  70128486
   entry_writer: kasar yaza
-  entry_fav_count: 252
+  entry_fav_count: 256
   entry_content: |
     "fıtrat değişir sanma, <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8dRyNn.jpg" title="https://i.hizliresim.com/8dRyNn.jpg">bu</a> kan, yine <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/N10QpX.jpg" title="https://i.hizliresim.com/N10QpX.jpg">o</a> kandır."<br/><br/>iyi ki varsın eren.
 - entry_name: |
     orman yaktığını itiraf eden askerler
   entry_id:  70136024
   entry_writer: regenarationx
-  entry_fav_count: 222
+  entry_fav_count: 225
   entry_content: |
     ilk entry' deki "öldürmeye yetiştirilmiş çocuklar" ifadesine takıldım. gören de gladyatör yetiştiriliyor sanacak. o gencecik çocuklar vatan savunması için orada bu bir. çatışma çıkmış ve çocuklar karşıdaki tepeyi tararken tepe yanmış bu iki.<br/>sayın sevgi pıtırcığı yazara soruyorum. o askerler çatışmanın ortasında her şeyi bıraksın kovalarla tepede çıkan yangına mı müdahale etsin?<br/>sen rahat ol munzur da akar, kızılırmak da akar. vatan hainlerine rağmen şimdiye kadar aktılarsa bundan sonra da akarlar.
 - entry_name: |
     büyü yapmak
   entry_id:  70130006
   entry_writer: mafederli zengin staylasi
-  entry_fav_count: 181
+  entry_fav_count: 183
   entry_content: |
     izninizle bu konuda bir anımı anlatmak istiyorum. <br/><br/>sene 2013, babamla yıllardır süren seviyeli tartışmaların vs. sonucunda ben dedim bugün itibariyle ateist oldum baba ki kendisi imam hatip mezunu erbakan'ın eski kadrosundan birisi, neyse babam son bir kez bana şans ver dedi, üsküdar sırtlarında tütsü kokan değişik bir loşluğu bulunan bir eve gittik, hocayı bekledik içeriden tür tür insan çıkıyor, hocaya bir süprizim var tabi ama sona saklıyorum, neyse içeri girdik babam tabi oğlu olduğum için bizim çocuğa cin falan gösterelim diyor, hoca mırın kırın ediyor o işler öyle değil falan gibisinden, cebimden 10.000 liralık deste çıkardım, dedim o işler nasılsa sana 1 hafta süre, ne istiyorsan vereyim, saç kılıysa saç kılı vs. bu cinleri bana musallat edeceksin, hatta elinden geliyorsa öyle bir musallat edeceksin ki bu paranın 10 katını vereceğim sana. adamın parayı görünce gözleri ışıldasa da, kem küm edip yardımcı olamacağım dedi, daha sonra babam kartal, fatih ve sarıyer taraflarında beni türlü türlü hocaya götürdü, dedim baba kes artık umudunu bunların hepsi palavra görmüyor musun? kendisini üzmek de istemiyorum ama geliniyle evlenen adamın dinine de inanacak değilim. neyse konu çok uzadı, yıl olmuş 2017 bakın hodri meydan diyorum, bana tek bir cin musallat edebilecek, basiretimi bağlayabilecek, ne bileyim birine aşık edebilecek hoca varsa buyursun. zaten olum siz salak mısınız, öyle kolay olsaydı bu işler bağla obama'yı santrale oynat kukla gibi. biraz düşünün lan biraz.
+- entry_name: |
+    nasa'nın 9 yaşındaki çocuğa cevabı
+  entry_id:  70139072
+  entry_writer: sonradananlayanadam
+  entry_fav_count: 165
+  entry_content: |
+    iki hafta önce maaşlı gezegen koruyucusu ilanı yayımlayan <a class="b" href="/?q=nasa">nasa</a>'nın kendisine aşağıdaki mektubu gönderen 9 yaşındaki jack davis'e gönderdiği yine aşağıdaki cevaptır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sevgili nasa, adım jack davis ve gezegen koruma memuru pozisyonu için başvurmak istiyorum. dokuz yaşında olabilirim ama bu işe çok uygun olduğumu düşünüyorum. bunun bir nedeni kız kardeşimin bana uzaylı demesi. ayrıca izleyebildiğim bütün uzay ve uzaylı filmlerini seyrettim. marvel'ın s.h.i.e.l.d ajanları dizisini de izledim ve siyah giyen adamlar filmini de seyretmek istiyorum. bilgisayar oyunlarında çok iyiyim. daha gencim ve bu yüzden de bir uzaylı gibi düşünmeyi öğrenebilirim. saygılarımla, <br/>jack davis<br/>galaksi koruyucusu<br/>dördüncü sınıf<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sevgili jack, duyduğuma göre 'galaksi koruyucususun' ve nasa'nın gezegen koruyuculuğu pozisyonuyla ilgileniyormuşsun. bu harika! gezegen koruyuculuğu görevimiz oldukça havalı ve çok da önemli. dünya'yı ay'dan, asteroidlerden veya mars'tan getirdiğimiz numunelerdeki mikroplardan korumakla ilgili bir iş. aynı zamanda güneş sistemi'mizi sorumlu bir şekilde keşfetmeye devam ederken, gezegenleri ve uyduları bizim mikroplarımızdan korumak da görev tanımının bir parçası. her zaman bize yardımcı olabilecek geleceğin bilim insanlarına ve mühendislerine kapımız açık. o yüzden umarım çok çalışır ve okulda başarılı olursun. ileride bir gün seni burada, nasa'da görmek ümidiyle! saygılarımla, <br/>dr. james l. green <br/>gezegen bilimi müdürlüğü direktörü<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.nasa.gov/feature/planetary-protection-excites-space-fans-of-all-ages" title="https://www.nasa.gov/feature/planetary-protection-excites-space-fans-of-all-ages">kaynak</a>
 - entry_name: |
     12 ağustos 2017 ösym'nin özür dilemesi
   entry_id:  70134773
@@ -66,12 +73,12 @@ data:
   entry_content: |
     istifa edemeyecek kadar karaktersiz kişilerin halen ösym'de çalıştığı gerçeğini gözler önüne sermiştir. tıpkı devletin diğer kurumlarında olduğu gibi. allahım ve milletim beni affetsin diyip paçayı sıyırmaya iyice alışmışlar. ok. hakkım var ise zehir zıkkım olsun.
 - entry_name: |
-    nasa'nın 9 yaşındaki çocuğa cevabı
-  entry_id:  70139072
-  entry_writer: sonradananlayanadam
-  entry_fav_count: 146
+    hdp'nin eren bülbül açıklaması
+  entry_id:  70141128
+  entry_writer: gotic
+  entry_fav_count: 153
   entry_content: |
-    iki hafta önce maaşlı gezegen koruyucusu ilanı yayımlayan <a class="b" href="/?q=nasa">nasa</a>'nın kendisine aşağıdaki mektubu gönderen 9 yaşındaki jack davis'e gönderdiği yine aşağıdaki cevaptır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sevgili nasa, adım jack davis ve gezegen koruma memuru pozisyonu için başvurmak istiyorum. dokuz yaşında olabilirim ama bu işe çok uygun olduğumu düşünüyorum. bunun bir nedeni kız kardeşimin bana uzaylı demesi. ayrıca izleyebildiğim bütün uzay ve uzaylı filmlerini seyrettim. marvel'ın s.h.i.e.l.d ajanları dizisini de izledim ve siyah giyen adamlar filmini de seyretmek istiyorum. bilgisayar oyunlarında çok iyiyim. daha gencim ve bu yüzden de bir uzaylı gibi düşünmeyi öğrenebilirim. saygılarımla, <br/>jack davis<br/>galaksi koruyucusu<br/>dördüncü sınıf<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sevgili jack, duyduğuma göre 'galaksi koruyucususun' ve nasa'nın gezegen koruyuculuğu pozisyonuyla ilgileniyormuşsun. bu harika! gezegen koruyuculuğu görevimiz oldukça havalı ve çok da önemli. dünya'yı ay'dan, asteroidlerden veya mars'tan getirdiğimiz numunelerdeki mikroplardan korumakla ilgili bir iş. aynı zamanda güneş sistemi'mizi sorumlu bir şekilde keşfetmeye devam ederken, gezegenleri ve uyduları bizim mikroplarımızdan korumak da görev tanımının bir parçası. her zaman bize yardımcı olabilecek geleceğin bilim insanlarına ve mühendislerine kapımız açık. o yüzden umarım çok çalışır ve okulda başarılı olursun. ileride bir gün seni burada, nasa'da görmek ümidiyle! saygılarımla, <br/>dr. james l. green <br/>gezegen bilimi müdürlüğü direktörü<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.nasa.gov/feature/planetary-protection-excites-space-fans-of-all-ages" title="https://www.nasa.gov/feature/planetary-protection-excites-space-fans-of-all-ages">kaynak</a>
+    kürtçülerin klasik açıklaması... herhangi bir pkk'lının ölümünde katil devlet diye hunharca yazanlar, burada hemen sorumluluk kimdeyse o yargılansın. bunların bir kere de pkk'ya laf söylediği görülsün...
 - entry_name: |
     meme ile kalp yapma akımı
   entry_id:  70135158
@@ -80,33 +87,19 @@ data:
   entry_content: |
     penis ile kalp yapmaya çalışmama vesile olmuştur. sanırım bir daha hiç bir şey yapamaycağım.
 - entry_name: |
-    hdp'nin eren bülbül açıklaması
-  entry_id:  70141128
-  entry_writer: gotic
-  entry_fav_count: 142
-  entry_content: |
-    kürtçülerin klasik açıklaması... herhangi bir pkk'lının ölümünde katil devlet diye hunharca yazanlar, burada hemen sorumluluk kimdeyse o yargılansın. bunların bir kere de pkk'ya laf söylediği görülsün...
-- entry_name: |
     giuliano victor de paula
   entry_id:  70130113
   entry_writer: 0 5 ucu olmayan adam
-  entry_fav_count: 135
+  entry_fav_count: 136
   entry_content: |
     bir galatasarayli olarak bjklilerin neden bu kadar ilgilendigini cozemedigim futbolcu.<br/><br/>olm siz dunyanin en iyi takimina sahipsiniz ne diye fener bilmem ne oyuncularina satasiyorsunuz. nasilsa 100 gol ustu yapip 90 puanla sampiyon olcaksiniz.<br/><br/>oguzhan da 150 milyon len amq yeri gelmisken soyliyim.
 - entry_name: |
     aleviler neden terör yapmıyor
   entry_id:  70139837
   entry_writer: dry power
-  entry_fav_count: 98
+  entry_fav_count: 99
   entry_content: |
     (bkz: <a class="b" href="/?q=incinsen+de+incitme">incinsen de incitme</a>)<br/>(bkz: <a class="b" href="/?q=bin+kere+mazlum+olsan+da+bir+kere+zalim+olma">bin kere mazlum olsan da bir kere zalim olma</a>)
-- entry_name: |
-    tunceli
-  entry_id:  70133938
-  entry_writer: no country for old men
-  entry_fav_count: 84
-  entry_content: |
-    bu mide bulandıran dersim muhabbeti sıktı. şu an mülki idari sistemde o şehrin adı tunceli'dir. bitti. bir de sanki bölgeyi bir cennet gibi gösterme goygoyu var. tarih boyunca eşkiya yatağı olmuş coğrafyanın da matah bir yermiş gibi şişirilmesi kabak tadı veriyor.
 - entry_name: |
     izmirlilerin kibirli ve kendini beğenmiş olması
   entry_id:  70135548
@@ -115,54 +108,47 @@ data:
   entry_content: |
     izmirli değilim, kafkas göçmeni bir çerkesim. türkiye'nin 7 farklı yerinde görev yaptım. sadece trakya'da çalışmadım. artık çok rahatlıkla bir bakışta birinin memleketini tanıyorum. izmirlilerdeki kibir az bile. senin sözde modern ankara, adana ya da diyarbakır'ında şehre adım attığın andan itibaren dedikodu makinesi çalışmaya başlayıp seni öğütmeyi denerken izmir ya da ege diyelim insanı seni olduğun gibi yargılamadan kabul eder. basit bir örnek verelim, sen adana'da komşundan bir çekiç istersen komşunun cevabı "çekiçle ne yapacaksın olur." içinden sana ne aq dersin. izmir'de sorduğunda "var, getireyim komşu" ya da "maalesef yok komşu" cevabını verir. senin çekiçle ne yapacağını umursamaz. izmir'de en dindar/dinci kişinin kızı gece ikide göbeği açık gezer sen 2 saniyeden fazla bakamazsın, bakarsan efelerden biri gelip "birader ne oluyor?" der, adana'da merkezde öğretmenin kızı mini elbise giyemez. adana'da insanlar sıraya girsin diye kavga edersin. izmir'de önünde tek kişi bile varsa insanlar kendiliğinden kuyruk oluşturur. çanakkale-aydın arasında gezerken italya'da gibi hissedersin, adana-antep-urfa arası gezerken kendini suriye'de gibi hissedersin. sonra antepli, adanalı adam gelip "izmirliler çok kibirli." der. seni muhatap alıp konuştuğuna şükret<br/>edit: adana'yı ankara ya da diyarbakır ile değiştirip de okuyabilirsiniz isterseniz
 - entry_name: |
-    boxerın uzun yürüme sonrası tangaya dönüşmesi
-  entry_id:  70138678
-  entry_writer: leki
-  entry_fav_count: 57
-  entry_content: |
-    sıkıntı bende olabilir bilmiyorum, hergün temiz boxer giymeme rağmen özellikle uzun mesafa yürümek zorunda kaldığımda boxerın, tanga kıvamında yukarı sıyrılarak gelmesinden nefret ediyorum ve gerçekten rahatsız oluyorum. arkadaşlar hakkınızı helal edin lastikli beyaz dona geri dönüyorum.
-- entry_name: |
     15 yaşında çocuğun çatışmalı ortama sürüklenmesi
   entry_id:  70142127
   entry_writer: efe25
-  entry_fav_count: 49
+  entry_fav_count: 53
   entry_content: |
     çocukların eline taş, molotof kokteyli, el bombası verip askerin, polisin üzerine salanlar mı yapıyor bu açıklamayı.
 - entry_name: |
     keanu reeves'in toplum eleştirisi
   entry_id:  70135303
   entry_writer: dick laurent
-  entry_fav_count: 41
+  entry_fav_count: 49
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3qGb55.jpg">https://i.hizliresim.com/3qgb55.jpg</a>
-- entry_name: |
-    gelinin beline kırmızı kurdele bağlamak
-  entry_id:  70128687
-  entry_writer: jasbafcestayla
-  entry_fav_count: 36
-  entry_content: |
-    rezalet ötesi bir gelenek. <br/><br/>feminist değilim, bekarete önem de veriyorum değerlerim çerçevesinde ama birinin bakire olmasını topluma ilan etmek nasıl bir terbiyesizliktir aklım almıyor. bize ne milletin şeyinden, sıfır km olmasından? bunu hemen feministlik veya kadın olmaya indirgeyen dangozlara da ayrı hastayım. olay kadın cinsi, feministlik falan değil, bakir bir erkeğe kırmızı kurdele bağlayan biri görsem yine aynı tepkiyi veririm. <br/><br/>bizi hep bu mesafesiz geleneksellik bitirdi, hep.
 - entry_name: |
     12 ağustos 2017 trabzonspor'un fifa'ya gitmesi
   entry_id:  70144097
   entry_writer: filth01
-  entry_fav_count: 35
+  entry_fav_count: 43
   entry_content: |
     yav arkadaş ne diyeceksin fifa'ya, "iki takım aralarında anlaşmış, biz oyuncu sağlık kontrolündeyken 8 milyon teklif edip oyuncuyu almaya çalıştık, 7 milyona fenerbahçe'ye gitti." mi diyeceksin? fenerbahçe oyuncuyla görüşmüş, anlaşmış, kontrole sokmuş, protokol anlaşmasına varılmış, iş imzaya kalmış. sen araya girmeye çalışıyorsun, sonra da "hakkım yendi" lan senin ne hakkın var ki yenecek?
 - entry_name: |
-    taş gibi kızdan çıkma teklifi almak
-  entry_id:  70143867
-  entry_writer: oxfordunkoylusu
-  entry_fav_count: 33
+    beşiktaş
+  entry_id:  70131030
+  entry_writer: gunumuz aylagi
+  entry_fav_count: 42
   entry_content: |
-    (bkz: <a class="b" href="/?q=agam+benle+egleniyi">agam benle egleniyi</a>)
+    beşiktaş tarihi ikiye ayrılır. <br/><br/>feda'dan önce. feda'dan sonra.
 - entry_name: |
-    fikret orman
-  entry_id:  70132018
-  entry_writer: kasar yaza
+    gelinin beline kırmızı kurdele bağlamak
+  entry_id:  70128687
+  entry_writer: jasbafcestayla
+  entry_fav_count: 37
+  entry_content: |
+    rezalet ötesi bir gelenek. <br/><br/>feminist değilim, bekarete önem de veriyorum değerlerim çerçevesinde ama birinin bakire olmasını topluma ilan etmek nasıl bir terbiyesizliktir aklım almıyor. bize ne milletin şeyinden, sıfır km olmasından? bunu hemen feministlik veya kadın olmaya indirgeyen dangozlara da ayrı hastayım. olay kadın cinsi, feministlik falan değil, bakir bir erkeğe kırmızı kurdele bağlayan biri görsem yine aynı tepkiyi veririm. <br/><br/>bizi hep bu mesafesiz geleneksellik bitirdi, hep.
+- entry_name: |
+    evde hayvan beslemenin hayvanseverlik olmaması
+  entry_id:  70143803
+  entry_writer: nickbulamadimnolcak
   entry_fav_count: 32
   entry_content: |
-    bugün <a class="b" href="/?q=gary+medel">gary medel</a>'in imza töreni sonrası <a class="b" href="/?q=pfdk">pfdk</a> kararları hakkında yapacağı açıklamayı merakla beklemekteyim. <br/><br/>beşiktaş'a verilen cezayla <a class="b" href="/?q=tff">tff</a>'nin yayınladığı <a class="b" href="/?q=futbol+disiplin+talimat%c4%b1">futbol disiplin talimatı</a> pek çok açıdan çelişiyor. umarım bu maddeler gündeme gelir açıklamada. bir bakalım : <br/><br/>tff disiplin talimatı, madde 7 :<br/><br/>"disiplin ihlallerinin faillerinin şahsen belirlenememesi halinde disiplin cezası faillerin mensubu olduğu kulübe verilir."<br/><br/>beşiktaş için isnat edilen suç eğer gerçekse, faillerin tespiti için bir çalışma yapılmış mıdır ? <a class="b" href="/?q=passolig">passolig</a> sisteminin ülkeye geliş amacı masumla suçluyu ayırmak değil midir ? bu maçta passolig sisteminin deaktif edilme sebebi nedir ? <br/><br/>tff disiplin talimatı, madde 12, fıkra 1 ve 2 :<br/><br/>"fiilin haksız tahrik sonucu işlenmesi halinde cezada indirim yapılır. disiplin kurulu, <br/>haksız tahrikin derecesini dikkate alarak, verilecek cezayı üçte birine kadar indirebilir."<br/><br/>beşiktaş taraftarı eğer isnat edilen suçu işlemiş olsa bile <a class="b" href="/?q=haks%c4%b1z+tahrik">haksız tahrik</a> yok mudur ? futbolcularına bıçak çekilen bir taraftar tahrik edilmiş sayılmaz mı ? bu talimata göre beşiktaş isnat edilen hafif suçtan aslında 3 maç ceza mı almıştır ? <br/><br/>tff disiplin talimatı, madde 52, 3. fıkra :<br/><br/>"ev sahibi olarak oynanan müsabakada verilen ceza, ilgili kulübün ev sahibi olarak oynayacağı müsabakalarda; misafir kulüp olarak oynanan müsabakada alınan ceza, ilgili kulübün misafir kulüp olarak oynayacağı müsabakalarda infaz edilir. lig müsabakalarında alınan cezalar lig müsabakalarında, kupa müsabakalarında alınan cezalar kupa müsabakalarında infaz edilir."<br/><br/>maç tarafsız sahada oynanmış bir <a class="b" href="/?q=s%c3%bcper+kupa">süper kupa</a> karşılaşmasıdır. ceza "iç saha maçını seyircisiz oynatmak" olarak nasıl verilebilir ? bir maçta iki takımın da ev sahibi olması mümkün müdür ? <br/><br/>tff disiplin talimatı, madde 53, 9. fıkra :<br/><br/>"bu madde kapsamındaki ihlalin lig statüleri gereği tarafsız sahada oynanan müsabakalarda gerçekleştirilmesi halinde, ilgili kulüpler misafir kulüp olarak değerlendirilir."<br/><br/>tarafsız sahada oynanan <a class="b" href="/?q=s%c3%bcper+kupa">süper kupa</a> maçında ilgili iki kulüp de misafir kulüpse, iç sahaya ceza vermenin dayanağı nedir ? <br/><br/>tff disiplin talimatı, madde 99, 4. fıkra : <br/><br/>"seyircisiz oynama ve saha kapatma cezalarının infazında profesyonel lig ile kupa müsabakaları ayrı kategori sayılır ve cezalar kendi kategorilerinde infaz edilir" <br/><br/>maç bir <a class="b" href="/?q=s%c3%bcper+kupa">süper kupa</a> mücadelesidir. ceza neye göre lige verilmektedir ?
+    hayatımda duyduğum en gerizekalıca söylem.<br/>3 kedim var. üçünü de el kadarken sokaktan aldım. birisi çocukların elinde çekiştirilip duruyordu. birisi bütün bir gün bir arabanın altında onu terkeden annesi için miyavlayıp durdu. bir diğeri sırf apartmanın merdiveninde duruyor diye orospu evladının birisi tarafından tekmelendi. bıraksaydım da özgürlüklerinin tadını çıkarsaydılar değil mi amınoğlu!!?<br/><br/>edit: ayrıca kediyi kısırlaştırmak orospuçocukluğudur diyen anası sikiksözüm sana; her sene doğurduğu veya doğmasına sebep olduğu onlarca gariban yavruya da sen mi bakacaksın? üç kedimi de kısırlaştırdım. hadi götün yiyosa çık karşıma da yüzüme söyle orospuçocuğu diye!
 - entry_name: |
     dünyanın en zor sporu
   entry_id:  70134466
@@ -199,12 +185,12 @@ data:
   entry_content: |
     size sevgilim hasta diye evine gidip tavuk suyuna çorba yapıp uyusun erkenden diye evinden gittiğim gün boynuzu nasıl yediğimi bu eylemi yaparak öğrendiğim günü anlatmak isterdim ama anlatamam çok saçma birgündü zira. <br/><br/>tanım: genç kardeşlerim; başlarım özel hayatına, özellikle ciddi düşündüğünüz ilişkilerinizde güven eşliğini geçene dek mutlaka yapın dediğim eylem.
 - entry_name: |
-    evde hayvan beslemenin hayvanseverlik olmaması
-  entry_id:  70143803
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 20
+    taş gibi kızdan çıkma teklifi almak
+  entry_id:  70143885
+  entry_writer: taluyka
+  entry_fav_count: 19
   entry_content: |
-    hayatımda duyduğum en gerizekalıca söylem.<br/>3 kedim var. üçünü de el kadarken sokaktan aldım. birisi çocukların elinde çekiştirilip duruyordu. birisi bütün bir gün bir arabanın altında onu terkeden annesi için miyavlayıp durdu. bir diğeri sırf apartmanın merdiveninde duruyor diye orospu evladının birisi tarafından tekmelendi. bıraksaydım da özgürlüklerinin tadını çıkarsaydılar değil mi amınoğlu!!?<br/><br/>edit: ayrıca kediyi kısırlaştırmak orospuçocukluğudur diyen anası sikiksözüm sana; her sene doğurduğu veya doğmasına sebep olduğu onlarca gariban yavruya da sen mi bakacaksın? üç kedimi de kısırlaştırdım. hadi götün yiyosa çık karşıma da yüzüme söyle orospuçocuğu diye!
+    başıma gelse hayallerim gerçek olur.<br/><br/>zira benim hayalim bir kıza bak bir de yanındaki öküze cümlesindeki öküz olmak, ötesi yok. keh keh.
 - entry_name: |
     tsk'nın artık güçsüz bir ordu olması
   entry_id:  70128715
@@ -216,16 +202,16 @@ data:
     digiturkplay
   entry_id:  70139385
   entry_writer: liu kang
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     tv yayınından 1 dakika geç gelen görüntüye sahip platform. <br/>tam 1 dakika !!!<br/>bu ne demek biliyor musunuz ? <br/>gol oluyor. oyuncular seviniyor. taraftarlar seviniyor. <br/>facebook'a, twitter'a gool !! x attı 1-0 oldu. gibi şeyler yazılıyor. siz ondan sonra golü görüyorsunuz. <br/>komşudan goolll bağırışlarından 1 dakika sonra. <br/>mahalledeki kahvehaneden gelen bağırışmalardan 1 dakika sonra.<br/>ve bu hizmeti sağlayan platform sizden 600 tl istiyor bu hizmet için.
 - entry_name: |
-    türk kürt kardeştir
-  entry_id:  70142915
-  entry_writer: morales
-  entry_fav_count: 14
+    volkan demirel
+  entry_id:  70144885
+  entry_writer: neurosurgeon
+  entry_fav_count: 15
   entry_content: |
-    artık kabak tadı veren slogan. keşke en baştan kardeş olmasaydık. lozan'da yapılmış en büyük hatadır bu. hiç değilse herkes kendi yoluna giderdi. batıda yaşayan türk'ün 40 yıl düşünse aklına gelip de gezmeye gitmeyeceği ve gitse bile hayati tehlikesinin olacağı dağlık ve virane şehirler için miydi bunca tantana ?<br/><br/>sahi 40 bin şehit neden verdik ? ve iki türkiye daha kuracak kadar büyük paralar niye harcandı bu işe ?<br/><br/>bugün doğudaki ciddi bir nüfus yüküne, vergileri ile çalışan ve üreten batıdaki insanlar bakıyor.<br/><br/>türkiye yerine almanya, ingiltere falan olsa -bir an önce referandum yapıp, yolları ayıralım- diye düşünürdü. elalem -ekonomik olarak yük olan ayak bağlarından- kurtulmanın derdinde biz ise mevcut belalar yetmezmiş gibi yeni belaları başımıza sarmanın peşindeyiz. mevcut azınlıklar yetmezmiş gibi bir de başımıza milyonlarca suriyeli mülteciyi bela ettik. pek yakında nur topu gibi bir -arap sorunumuz- da olacak.<br/><br/>ama işte mantıktan ve pragmatist düşünce kabiliyetinden yoksun olmak, histerik bir biçimde -haritada büyük yer kaplamayı büyük devlet olmak- sanmak, bu durumu doğurdu.<br/><br/>osmanlı'dan kalma kronik hastalığımız nüksetti ve -ulus devlet kuracağız- dememize rağmen ermeni, arap ve rumlar ile yolları ayırırken kürtler ile yola devam ettik.<br/><br/>-nasıl olsa asimile ederiz- diye düşünüldü o dönem. ancak asimilasyon politikaları tutmadı ve yürümedi.<br/><br/>oysa adamlar sadece -nüfus olarak aritmetik fazlalığa sahip oldukları- 6 şehri istiyorlardı. 6 şehir üzerinde hak iddia ediyorlardı. <br/><br/>6 şehir eksik olsaydı, terörün ve anarşinin olmadığı derli toplu ve çok daha huzurlu bir devletimiz olsaydı neyimiz eksik kalırdı ?<br/><br/>hiç değilse kanser gibi ülkeyi saran, emperyal güçlerin elinde kullanışlı bir silaha dönüşen, hem can hem mal kaybına sebep olan böyle kronik bir sorumuz olmayacaktı.<br/><br/>en önemlisi ise devletimiz çok değerli olan zamanını kaybetmeyecek ve bu denli geri kalmayacaktık.<br/><br/>küreselleşmenin irtiva kaybettiği ve ulus devletlerin tekrar güçlendiği günümüzde bütün hümanist goygoylara inat türk olmayan uluslar ile yolları ayırmak gerektiğini düşünüyorum. hala bu düşüncedeyim.<br/><br/>sınırlar kapatılmalı, ekonomi dışında hiçbir ülke ile siyasi münasebet kurulmamalı, yabancıya mülk satışı yasaklanmalı.<br/><br/>en önemlisi ise suriyeliler, kendi ülkelerine en kısa zamanda geri gönderilmeli. diğer azınlıklara karşı da rasyonel, ülke menfaatlerine ve çağın gereklerine uygun bir çözüm yöntemi bulunmalıdır.
+    oynadığın oynayacağın topu sikeyim demek istediğim sporumcusu.<br/>maça süper başlamışız şu yaptığı şeye bak ya.<br/><br/>edit:bilmeyenler için yazalım; şekil yapmak için klasik atlayışlarından birinde topu alıp içeriye attı. içine tükürdü tüm motivasyonun.
 - entry_name: |
     1500 lira kira vermek vs ev almak
   entry_id:  70129246
@@ -241,6 +227,13 @@ data:
   entry_content: |
     simdi sozcu gazetesi "özetle, kişisel numaralarınız çalınmış" diyor ya, yoooo dostum ben size olani hemen soliyeyim.<br/><br/>numaralariniz falan calinmadi, bizzat sizi rehberine kaydeden bazi bilinçsiz kullanicilar tarafindan bu siteyi/appi yapan insanlara gumus tepside sunuldu.<br/><br/>nasil mi? bu bilincsiz kullanici kisileri, bazi luzumsuz uygulamalari indirdiler ve bunlari indirirken telefon rehberine ulasma yetkisi verdiler. boylece ne oldu? sizin basiniz yandi.<br/><br/>bu sitede numarayla arama yaptiginizda isminiz en az 3-4 kere listeleniyor ve işin komigi o kisi sizi nasil kaydettiyse o isim gorunuyor. mesela bir arkadasimin numarasina baktim, hem kendi ismi hem de sozluk nicki ayri ayri listelendi. hadi bakalim buyrun burdan yakın! yani isimlerin kaydedilme seklinden bir suru ozel bilgi cikarabilir ortaya.<br/><br/>basimiza ne geldiyse bu bilincsiz kullanicilardan geldi zaten...
 - entry_name: |
+    cumartesi gecesi evde oturan ezik ve yalnız insan
+  entry_id:  70143935
+  entry_writer: gokcesuz
+  entry_fav_count: 10
+  entry_content: |
+    evin neresinde ve nasıl oturduğuna bağlıdır.<br/><br/>misal kendi yaptığı kavunlu votkayı içerken evin terasında perseid göktaşı yağmurunu da izleyecek olabilir.<br/><br/>böyle yazınca çok iyiymiş gibi geldi lan.
+- entry_name: |
     ekşi itiraf
   entry_id:  70130584
   entry_writer: bu iste bir yalnizlik var
@@ -248,12 +241,33 @@ data:
   entry_content: |
     her geçen gün, benden bir yol olmayacağı gerçeği yüzüme tokat gibi çarpıyor.<br/>aslında bunu biliyorum ama bir türlü kabullenemiyorum. annemin babamın halini gördükçe kendimden daha da nefret ediyorum. ama elimden bir şey de gelmiyor. harekete geçmeye gücüm yok.<br/>ben bu kadar aciz bir insan değildim aslında. ne ara bu hale geldim. kendimi tanıyamıyorum.<br/><br/>bütün psikolojik rahatsızlıkların kendimde toplandığını düşünüyorum.<br/>uzun süredir gss prim borcu sebebiyle hastaneye gidemiyordum. borcu yapılandırıp ilk taksidi zor da olsa ödedikten sonra soluğu istanbul tıp fakültesi psikiyatri bölümünde aldım.<br/>iyi olduğunu çok duyuyordum. böyle saçları beyazlamış aksi bi doktor beklerken yeni mezun benden genç bir çocuk geldi.<br/>içimden bu beni anlayamaz diye söyleniyordum. nitekim de öyle oldu.<br/>derdimi anlatmaya çalıştım ama ne ben tam anlatabildim ne de o sorunu anlamak için gerekli soruları sordu.<br/>konuşmanın ortasında odaya girip karşıma dikilen asistana ayrı sinir oldum.<br/>en nihayetinde anksiyete bozukluğu diyerek bir antidepresan yazıp gönderdi beni.<br/>yaşadığım hayal kırıklığı bir yana ilacın yan etkilerini biraz araştırdıktan sonra kullanmaktan vazgeçtim.<br/>2 kutu vermiş bir de, masanın üzerinde öylece duruyor.<br/>ne yapsam bilemedim. belki de bana psikiyatristten ziyade psikolog daha iyi gelebilir. bunun kararsızlığı da var. başka doktora gitsem ona muayene parasını nasıl verecem bilmiyorum.<br/>ama şundan çok eminim ki iyi değilim.<br/>hep kendimi oyalamaya çalışıyorum. düşüncelerimi dağıtmak için türlü yöntemlere başvuruyorum. çözmem gereken sorunları çözemediğim için de vicdanım rahat etmiyor. vicdanım rahat etmeyince de stresim artıyor falan böyle kısır bir döngüye giriyorum.<br/><br/>uzun lafın kısası ben hayatın girdabında kalmış, çıkış yolu arayan ama o çıkışı bir türlü bulamayan biriyim.<br/>daha kötüye gidip akıl sağlığımı kaybetmekten korkuyorum.<br/>ama en çok anne babamı rahat ettiremedim ya ona üzülüyorum.<br/>belki bir gün düzelir her şey.
 - entry_name: |
-    cumartesi gecesi evde oturan ezik ve yalnız insan
-  entry_id:  70143935
-  entry_writer: gokcesuz
+    12 ağustos 2017 göztepe fenerbahçe maçı
+  entry_id:  70144913
+  entry_writer: beeyore
   entry_fav_count: 9
   entry_content: |
-    evin neresinde ve nasıl oturduğuna bağlıdır.<br/><br/>misal kendi yaptığı kavunlu votkayı içerken evin terasında perseid göktaşı yağmurunu da izleyecek olabilir.<br/><br/>böyle yazınca çok iyiymiş gibi geldi lan.
+    top volkan demirelin muhteşem kurtarışı eşliğinde gol oldu.
+- entry_name: |
+    masaüstü bilgisayar
+  entry_id:  70144250
+  entry_writer: unicornknight
+  entry_fav_count: 7
+  entry_content: |
+    akıllı telefonların mobil gereksinimleri fazlasıyla karşıladığı günümüzde laptop/notebook denen pahalı, sınırlı ve kolay sorun çıkarmaya eğilimli garabetlere meyletmek yerine tasarım, modelleme, düzenleme ve multimedya işlemleri için ev ya da ofisinizde kullanmak adına edinilebilecek en akıllıca bilgisayar sistemi çözümü masaüstü bilgisayardır.<br/><br/>şimdi burada bir saat apple ağlaklığı yapacak ayrı bir ılık götlü fularlı meriç güruhu var, onları zaten zerrece siklemeyin.
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  70138534
+  entry_writer: sanat tarihi okudukta ne oldu
+  entry_fav_count: 7
+  entry_content: |
+    "çocuk gibi ağladım. o kadar hiç, o kadar boş, manasız ve haksız yere senden uzağım ki.."<br/>-nazım hikmet
+- entry_name: |
+    mühendislik okuyacaklara tavsiyeler
+  entry_id:  70144629
+  entry_writer: mrsengineering
+  entry_fav_count: 6
+  entry_content: |
+    öncelikle çok sosyal bir üniversite hayatınız olmayacak bunu kabul edin, başka bölümlerdeki arkadaşlarınız birer sosyal kelebek olmuşken siz kütüphanede vakit geçireceksiniz buna da kendinizi alıştırın şimdiden, <br/><br/>diğer bölümlerde okuyan arkadaşlarınız vizelerden ya da finallerden bir hafta önce çalışmaya başlarken siz en az 2-3 hafta önce başlayacaksınız ama yine de yetişmeyecek ki siz zaten dönem içinde derslere devam edecek, ikinci vizesiydi, quiziydi derken hep çalışan öğrenciler olacaksınız. şikayet etmeyin. bu düzen böyle işliyor, <br/><br/>hep söylerler ama doğruluk payı çok yüksektir o yüzden ben de söyleyeyim, kendinizi geliştirin. öğrenebildiğiniz kadar program öğrenin. solid, cad, catia, ansys, fluent gibi programlar oldukça işinize yarar. yabancı dile de ağırlık verin. o da çok önemli. <br/><br/>eğer makina, inşaat gibi erkek popülasyonunun yüksek olduğu bir bölümde okuyacaksanız diğer bölümlerden -iibf gibi- arkadaşlarınızla aranızı iyi tutmaya bakın ki sevgili edinme şansınız olsun,<br/><br/>eğer mühendislik okuyacak olan kızlarımız varsa onlara da şunları söyleyeyim, fazla beklentiye girmeyin. mühendis erkekler iyidirler, hoşturlar ama odunluğun da hakkını sonuna kadar verirler. <br/>aman yarabbi bu gözler neler gördü...<br/><br/>mottomuz şu: ne kadar az beklenti o kadar çok mutluluk. bu son söylediğim her iki cins için de geçerli.<br/><br/>edit: okulda öğrendiğiniz en önemli şey pes etmemek olacak. şahsen benim öyle oldu. ilk vizesinden 5 aldığım derse (mukavemet) bile köpekler gibi çalışıp, tarih yazarak geçmişliğim var. bu yüzden ikinci mottomuz şu: <a class="b" href="/?q=never+back+down">never back down</a>.
 - entry_name: |
     ekmeğe eppek diyen tip
   entry_id:  70138241
@@ -269,26 +283,12 @@ data:
   entry_content: |
     kıvırcık gri sakallı hacı murtaza'nın kıldığı namazın şekli de quranda yok bu bikinili hacı ablanınki de. tesettür ve kapalılık desen quran bu meseleye sadece 3 ayet ayırmış onların da tümü muallak.<br/><br/>o yüzden bikinili hacı abla eğer billur geçmiyorsa inancında hacı murtazadan daha az samimi değil. <br/><br/>namaz bitiminde mojitolar ve sangrialar eşliğinde müzik ve dans ile yapılacak kızlı erkekli bir <a class="b" href="/?q=after+namaz+party">after namaz party</a> de qurana ve islama gayet uygundur.<br/><br/>(bkz: <a class="b" href="/?q=islam%2f%40skocax">islam/@skocax</a>)
 - entry_name: |
-    masaüstü bilgisayar
-  entry_id:  70144250
-  entry_writer: unicornknight
+    türk kürt kardeştir
+  entry_id:  70143045
+  entry_writer: sancar
   entry_fav_count: 5
   entry_content: |
-    akıllı telefonların mobil gereksinimleri fazlasıyla karşıladığı günümüzde laptop/notebook denen pahalı, sınırlı ve kolay sorun çıkarmaya eğilimli garabetlere meyletmek yerine tasarım, modelleme, düzenleme ve multimedya işlemleri için ev ya da ofisinizde kullanmak adına edinilebilecek en akıllıca bilgisayar sistemi çözümü masaüstü bilgisayardır.<br/><br/>şimdi burada bir saat apple ağlaklığı yapacak ayrı bir ılık götlü fularlı meriç güruhu var, onları zaten zerrece siklemeyin.
-- entry_name: |
-    12 ağustos 2017 göztepe fenerbahçe maçı
-  entry_id:  70144913
-  entry_writer: beeyore
-  entry_fav_count: 5
-  entry_content: |
-    top volkan demirelin muhteşem kurtarışı eşliğinde gol oldu.
-- entry_name: |
-    volkan demirel
-  entry_id:  70145115
-  entry_writer: koalali gomlek
-  entry_fav_count: 4
-  entry_content: |
-    super ligde kalesine gelen ilk şutu yumurtlayan ayı.<br/><br/>artislik yapacam diye topu tutmaya calisiyor<br/><br/>lan senin neyine o topu tutmak itele gitsin denyo.<br/><br/>aykut yine yaptin yapacagini. hem josef topal bir arada hemde kalede ayi var. <br/><br/>senin kuracagin kadroyu seveyim.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/okRzBk.jpg">https://i.hizliresim.com/okrzbk.jpg</a>
 - entry_name: |
     sofiane feghouli
   entry_id:  70129387
@@ -297,6 +297,13 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=bug%c3%bcn+de+%c5%9f%c3%b6yle+geleyim">bugün de şöyle geleyim</a>)
 - entry_name: |
+    bamya
+  entry_id:  70143198
+  entry_writer: ringingdeath
+  entry_fav_count: 4
+  entry_content: |
+    küçükken nefret ederdim, annemle babam yer biz ayrı bir yemek yerdik. şimdilerde ise bayılıyorum bu yemeğe ama anneme diyemiyorum bunu. bu kadar keskin bir dönüş gururma dokunuyor.
+- entry_name: |
     trabzonspor
   entry_id:  70143963
   entry_writer: sensizdogangunesinaq
@@ -304,26 +311,19 @@ data:
   entry_content: |
     giuliano transferi için fifa'ya gidiyorlarmış. bu trabzonspor'da gerçekten bir mallık var. 2011 senesinin kendilerince intikamını almak için her denemelerinde daha rezil oluyorlar.
 - entry_name: |
-    mühendislik okuyacaklara tavsiyeler
-  entry_id:  70144629
-  entry_writer: mrsengineering
-  entry_fav_count: 2
-  entry_content: |
-    öncelikle çok sosyal bir üniversite hayatınız olmayacak bunu kabul edin, başka bölümlerdeki arkadaşlarınız birer sosyal kelebek olmuşken siz kütüphanede vakit geçireceksiniz buna da kendinizi alıştırın şimdiden, <br/><br/>diğer bölümlerde okuyan arkadaşlarınız vizelerden ya da finallerden bir hafta önce çalışmaya başlarken siz en az 2-3 hafta önce başlayacaksınız ama yine de yetişmeyecek ki siz zaten dönem içinde derslere devam edecek, ikinci vizesiydi, quiziydi derken hep çalışan öğrenciler olacaksınız. şikayet etmeyin. bu düzen böyle işliyor, <br/><br/>hep söylerler ama doğruluk payı çok yüksektir o yüzden ben de söyleyeyim, kendinizi geliştirin. öğrenebildiğiniz kadar program öğrenin. solid, cad, catia, ansys, fluent gibi programlar oldukça işinize yarar. yabancı dile de ağırlık verin. o da çok önemli. <br/><br/>eğer makina, inşaat gibi erkek popülasyonunun yüksek olduğu bir bölümde okuyacaksanız diğer bölümlerden -iibf gibi- arkadaşlarınızla aranızı iyi tutmaya bakın ki sevgili edinme şansınız olsun,<br/><br/>eğer mühendislik okuyacak olan kızlarımız varsa onlara da şunları söyleyeyim, fazla beklentiye girmeyin. mühendis erkekler iyidirler, hoşturlar ama odunluğun da hakkını sonuna kadar verirler. <br/>aman yarabbi bu gözler neler gördü...<br/><br/>mottomuz şu: ne kadar az beklenti o kadar çok mutluluk. bu son söylediğim her iki cins için de geçerli.<br/><br/>edit: okulda öğrendiğiniz en önemli şey pes etmemek olacak. şahsen benim öyle oldu. ilk vizesinden 5 aldığım derse (mukavemet) bile köpekler gibi çalışıp, tarih yazarak geçmişliğim var. bu yüzden ikinci mottomuz şu: <a class="b" href="/?q=never+back+down">never back down</a>.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  70128176
-  entry_writer: varg vikernes
-  entry_fav_count: 2
-  entry_content: |
-    hep aynı adamlar 00:00'ı bekleyip yazıyor amına koduğumun başlığına aha denk geldim ben de yazıyorum, dert dinlemem ama sevişiriz.<br/><br/>edit: düşüyormuş lan böyle, mesaj geldi. bence beni yiyor ama olsun şu an her şey flu ve eğlenceli.
-- entry_name: |
-    bamya
-  entry_id:  70143198
-  entry_writer: ringingdeath
+    alkollüyken çok daha fazla tadına varılan şeyler
+  entry_id:  70145027
+  entry_writer: ayuttudum
   entry_fav_count: 1
   entry_content: |
-    küçükken nefret ederdim, annemle babam yer biz ayrı bir yemek yerdik. şimdilerde ise bayılıyorum bu yemeğe ama anneme diyemiyorum bunu. bu kadar keskin bir dönüş gururma dokunuyor.
+    (bkz: <a class="b" href="/?q=kokore%c3%a7">kokoreç</a>)<br/>(bkz: <a class="b" href="/?q=kelle+pa%c3%a7a">kelle paça</a>)<br/>(bkz: <a class="b" href="/?q=m%c3%bczik">müzik</a>)<br/>(bkz: <a class="b" href="/?q=%c4%b1slak+hamburger">ıslak hamburger</a>)
+- entry_name: |
+    tunceli'de orman yangını
+  entry_id:  70139713
+  entry_writer: hahahahha
+  entry_fav_count: 0
+  entry_content: |
+    nedense çok ilgi çekmemiş bir yangın. onun yerine tunceli mi dersim mi konusuna takılmış insanlar. herkes birbirine küfür ediyor falan, ağaçlar yanıyormuş kime ne. sanki doğudaki ağaçlar batıya oksijen sağlamıyor gibi. ayrıca:<br/><a class="b" href="/entry/70136261">#70136261</a>
 - entry_name: |
     sözlük yazarlarının rumuzlarının hikayeleri
   entry_id:  70128720
@@ -340,11 +340,11 @@ data:
     kural basit. yalan söyleme ama anlatma da.
 - entry_name: |
     aleyna tilki vs edip akbayram
-  entry_id:  70144165
-  entry_writer: eksi peace
+  entry_id:  70144195
+  entry_writer: cilaniyetinebira
   entry_fav_count: 0
   entry_content: |
-    edip akbayram'ın kavuğunu aleyna tilki'ye teslim etmesiyle sonuçlanacak versustur.<br/><br/>lan çok arıyor musunuz böyle versusları?
+    nasıl bir versus bu?<br/><br/>resmen everest ile çemberlitaş tepesi mukayesesi gibi bişey olmuş. <br/>yapmayın etmeyin arkadaşlar. <br/>edip akbayram bir güneş, diğer adını yazdığınız kişi kibrit bile değil
 - entry_name: |
     12 ağustos 2017 chelsea burnley maçı
   entry_id:  70141082
