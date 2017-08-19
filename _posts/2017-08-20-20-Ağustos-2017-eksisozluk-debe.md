@@ -6,7 +6,7 @@ data:
     27.500 dolarlık mustang'in tr'de 490 bin olması
   entry_id:  70277572
   entry_writer: kelebekler gibi bir ki uc
-  entry_fav_count: 518
+  entry_fav_count: 525
   entry_content: |
     devletimizin harika vergilendirme politikası sayesinde gerçekleşen <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/85hmfOQA_j8?t=13m" title="https://youtu.be/85hmfOQA_j8?t=13m">über zevkli olay.</a><br/><br/>abd'de vergiler dahil 27.500$, almanya'da yine vergiler ve ithalat maliyetleri dahil 38.000€ olan <a class="b" href="/?q=ford+mustang">ford mustang</a>; türkiye'de ithalat maliyetleri, ötv, kad ve ötv'nin kdv'si sayesinde tam 140.000$'a, yani 490.000 tl'ye satılıyor.<br/><br/>daha acı olanı ise paylaştığım linkteki video yorumlarında hala "vergiler olmasa devlet nasıl geçinecek?" ya da "chp olsa ekmek kuyruğundaydınız halinize şükredin." diyerek bu olayı savunan oksijen canavarlarının olması.<br/><br/>edit: bu araç için abd'de yüzde 6, almanya'da yüzde 19, türkiye'de ise yüzde 206 vergi alınması olayı. videonun 13. dakikasından itibaren izleyebilirsiniz.
 - entry_name: |
@@ -24,24 +24,38 @@ data:
   entry_content: |
     neresi dayatma pek anlayamadığım mevzuat.<br/><br/>burdaki 17.00 ye kadar durma zorunluluğu bir işe yaramaları içindir yoksa kimse paspas atsın demiyo. ki dese de demese de gerekiyorsa yapsın. <br/><br/>bu milletin temel sorunu bence işten kaçmak. paspas atmak gocunulacak bi şey mi? ne biliyim diğer öğretmen arkadaşlara yardımcı olmak kötü bir şey mi? eee sen de ben de biliyoruz ki oturuyorsun boş boş. <br/><br/>benim birçok rehber arkadaşım böyle. sizin işiniz oturmak değil ki canlarım, geleceğin güzel öğretmenleri... sizin işiniz motivasyon sağlamak, daha doğru tercihler için yalnızca rehber olmak. bu iş de meşakkatli. <br/><br/>her öğrenci ayağınıza gelmez ki siz de gideceksiniz. özellikle liselerde her sınıftan birini her ders arası ya da ders esnasında 10 dakika izin alarak karşına alıp konuşsan ve bir dosya oluştursan bir çetele tutsan? çok değil ki bu. bunu hepimiz biliyoruz ki kapasite zorlayacak bi iş değil bu. en fazla 3 ay sonunda tüm öğrenciler biter. <br/><br/>sonra gelsin devam kontrolleri, uzman yaklaşımıyla öneri sunma ve buna dayalı olarak araştırma yapmak.
 - entry_name: |
+    george r.r. martin vs dostoyevski
+  entry_id:  70283853
+  entry_writer: dipsomania
+  entry_fav_count: 182
+  entry_content: |
+    çok değil 20 yıl sonra, "george r.r. martin! bilemedim onu ama game of thrones, hımm evet güzeldi, galiba duymuştum" denecek iken dostoyevski 200 yıl sonra da büyük yazarlar arasında olmaya devam edecek ... <br/>fark bu kadar basit ...
+- entry_name: |
     erdoğan'ın köpeği sevmek için otobüsten inmesi
   entry_id:  70287305
   entry_writer: yedinci element
-  entry_fav_count: 153
+  entry_fav_count: 165
   entry_content: |
     aman ne merhamet ne merhamet.<br/><br/>bu adamın gezicilerin temsilcilerine "bana sosyoloji mi öğreteceksiniz ulannnn" diye çıkışması boşuna değil. harbiden biliyor sosyolojiyi psikolojiyi. burada bile "aman ne merhametli yhaa" diyen iki üç angut bulabiliyor.<br/><br/>edit: (bkz: <a class="b" href="/?q=ama+%c3%b6ld%c3%bc+efendim">ama öldü efendim</a>)
+- entry_name: |
+    19 ağustos 2017 işten atılmam
+  entry_id:  70283279
+  entry_writer: tom henks
+  entry_fav_count: 145
+  entry_content: |
+    boşluğuma geldi istifa etmişim.
 - entry_name: |
     mahalle arasında düğün yapmak
   entry_id:  70285213
   entry_writer: ideoloji karmasasi yasayan cocuk
-  entry_fav_count: 105
+  entry_fav_count: 113
   entry_content: |
     renkmiş. <br/><br/>(bkz: <a class="b" href="/?q=bok+rengi">bok rengi</a>)<br/><br/>bizi biz yapan bir sürü sikko değer var. kadınları dövmek mesela. onlara da mı saygı duyalım?<br/><br/>mahalle arasında düğün yapmak bildiğin saygısızlıktır. muhitin diğer sakinlerini rahatsız etmektir, varoşluktur, düşüncesizliktir. aynı asker uğurlaması terörü gibi.
 - entry_name: |
     kavgaya başlarken yapılacak ilk hamle
   entry_id:  70274407
   entry_writer: mattafix
-  entry_fav_count: 104
+  entry_fav_count: 106
   entry_content: |
     eğer işlek bir bölgedeysen ve kavga kaçınılmaz olduğunu öğrendiğin an geriye bir iki adım at ve karşıdakini yaklaşmaması konusunda uyar.<sup class="ab"><a title="(bkz: önemli)" href="/?q=%c3%b6nemli" data-query="önemli">*</a></sup> geri zekalı bir barzoysa muhtemelen yaklaşacaktır . yeteri kadar yaklaştığı anda bunu tehdit olarak algıla ve ani bir hareketle sol ayağını ayak kararı 20-30 cm kadar sol tarafa götür, vücudun ağırlığını sol ayağa ver, sağı kaldırıp çene bölgesine yandan yapıştır. ya çeneye vur ya da hiç vurma. başka yere vurursan sıçtığının resmidir. bunu yaparken o hizayı doğru ayarlayabilmek önemli. eğer sola gitmezseniz tekmeniz ıska geçer ve avantajsız duruma düşersiniz. eğer hızlı tekme vuramam diyorsanız yumruk da aynı bölgeye gelecek şekilde vurabilirsiniz. ama sert olmalı. karşıdakini tamamen etkisiz hale getirecek kadar. öldürecek kadar da değil. <br/>ilk başta geriye adım atıp karşıdakini uyarmamızın sebebi polislik bir durum olduğunda hukuku arkamıza almak, kavga yanlısı olmadığımızı ve orada bize saldıran kişiye karşı kendimizi koruduğumuzu belirtmek. işlek bölgede demiştik zaten başta. çevredeki kameralar ve görgü tanıkları bizi destekleyecek ve dayak yesek de atsak da karşıdakinin aksine suçsuz kalacağız. <br/>bu zaten tekvando, karete gibi spor dallarıyla uğraşanların bildiği bir şey. <br/><br/>imza: tekvando kırmızı kuşak
 - entry_name: |
@@ -55,37 +69,44 @@ data:
     diyarbakır atatürk heykeline çekiçli saldırı
   entry_id:  70283929
   entry_writer: kor nokta
-  entry_fav_count: 92
+  entry_fav_count: 94
   entry_content: |
     atatürk'ün ölmediğini gösteriyorlar. "1000 yıl da geçse korkuyoruz." mesajı bu. son iki provakatif eylemin gerçekleştiği yerler ise çok manidar.
 - entry_name: |
     alexis texas
   entry_id:  70284019
   entry_writer: kopuk ucurtma
-  entry_fav_count: 86
+  entry_fav_count: 89
   entry_content: |
     bir porno yıldızı olarak söylüyorum,<br/><br/>(bkz: <a class="b" href="/?q=bi+siktirin+gidin">bi siktirin gidin</a>)
 - entry_name: |
     kuşum aydın'ın içindeki sert erkeği keşfetmesi
   entry_id:  70278674
   entry_writer: kaleci maier
-  entry_fav_count: 83
+  entry_fav_count: 87
   entry_content: |
     (bkz: <a class="b" href="/?q=ku%c5%9fum+ayd%c4%b1n%c4%b1n+ku%c5%9funu+ke%c5%9ffetmesi">kuşum aydının kuşunu keşfetmesi</a>)
 - entry_name: |
     29 saniyede nasıl kanser olunur
   entry_id:  70283590
   entry_writer: trnntkrng
-  entry_fav_count: 78
+  entry_fav_count: 82
   entry_content: |
     +18 uyarisi koyulmali.<br/><br/>ayrica parmagindaki yuzugun diger esini takan abiye gecmis olsun.
 - entry_name: |
     tesadüfen izlenen muhteşem filmler
   entry_id:  70274432
   entry_writer: edepiliedepsiz
-  entry_fav_count: 75
+  entry_fav_count: 76
   entry_content: |
     (bkz: <a class="b" href="/?q=en+iyi+teklif">en iyi teklif</a>) <br/>hayatımdaki güzel filmlerden biri.
+- entry_name: |
+    sigarayı bırakan kişi sayısındaki artış
+  entry_id:  70284439
+  entry_writer: eksi peace
+  entry_fav_count: 71
+  entry_content: |
+    he canım he champix gibi ilaçlar kaynaklıdır.<br/><br/>böyle ucuz reklamları bırakalım.
 - entry_name: |
     bir vegandan et severlere açık mektup
   entry_id:  70279856
@@ -94,59 +115,45 @@ data:
   entry_content: |
     asgari ücretin 1400 tl, etin kilosunun en iyi ihtmalle 40 tl olduğu yerde herkesin biraz vejeteryan olduğu gerçeğini göz ardı ederek yazılmış mektup.<br/>(bkz: <a class="b" href="/?q=millet+a%c3%a7+a%c3%a7">millet aç aç</a>)<br/><br/>şimdi gelelim ciddi tarafına sadece besin tüketimi değil karbon ayak izimizi dolayısıyla ekolojik ayak izimizi acilen küçültememiz gerekiyor. dünya üzerindeki birçok insan sanki üç gezegenimiz varmış gibi tüketiyor. acı ama gerçek. <br/><br/>* elektronik eşyaların ve elektriğin tüketiminin azaltılması<br/>* bireysel yakıt tüketiminin azaltılması, şahsi araçlar yerine toplu taşımanın tercih edilmesi<br/>* fosil yakıtların tüketmi en aza indirilmeli. <br/>* çevre kirliliği ile biyolojik mücadeleyi sağlayacak yollar geliştirilmeli<br/>* orman yangınlarının önüne geçilmeli ve ağaçlık alanlar arttırılarak karbondioksit miktarının azaltılmaya çalışılması<br/>ilk aklıma gelenler bunlar ki çok daha fazlası da yapılmalı. <br/>yoksa şu bizim için yaratıldığına inandığımız ve içine sıçtığımız gezegen sadece toplu mezarımız olacak!
 - entry_name: |
-    sigarayı bırakan kişi sayısındaki artış
-  entry_id:  70284439
-  entry_writer: eksi peace
-  entry_fav_count: 69
-  entry_content: |
-    he canım he champix gibi ilaçlar kaynaklıdır.<br/><br/>böyle ucuz reklamları bırakalım.
-- entry_name: |
-    aşk acısı çekerken hiçbir şeye odaklanamayan insan
-  entry_id:  70285115
-  entry_writer: asparadoxxxx
-  entry_fav_count: 69
-  entry_content: |
-    arkadaslarla gece gezmeleri, spor yapmak, sohbete katilmak ve calismakta dahil hicbir seye verimli ve tam konsantrasyon ile katilim gosteremeyen insandir.<br/>benim de dahil oldugum bu asiri hassas ve detayci insan grubu, karsidaki insanlarin gosterdigi caba karsisinda ancak mahcup hisseder, cunku bir turlu kendisini kaptiramiyordur o ana.<br/>ani yasayamaz bizim gibiler. ya da saniyeler icinde bolunuyordur dikkatleri. bir sarki, bir ses, onu hatirlatacak bir esya..<br/>sanki hayata motive eden tek sey asik oldugu insanmis ve o gidince geriye kocaman bir bosluk kalmis gibi hisseder.<br/>ne yapacagini bilemez. teselli eden insanlarin "bosver gecer, elini sallasan ellisi" gibi telkinlerine irite olur.<br/>baskalari tarafindan anlanamamakta uzerine eklenir boylece. cunku artik kendinde bir sorun oldugunu dusunuyordur.<br/>"herkes kolay atlatmam gerektigini soylerken, ben nasil ve neden bu kadar aci cekiyorum" diye dusunur. artik cektigi acidan utanmaktadir ve bu yuzden de baskalarina karsi bir maske takar.<br/>uzgun gorunmemelidir, ne dusundugunu kimse bilmemeli ve icten ice yasamalidir ozlemi.<br/>tek tavsiye edebilecegim, eger boyle bir yakininiz varsa sakin ona kendini garip hissettirmeyin. evet belki uclarda yasiyor duygularini ama bu da onun gercekligi.<br/>teselli etmek istiyorsaniz sadece acisini paylasin. gerekiyorsa birlikte 1 saat boyunca susun. bu melankoli sizi rahatsiz ediyorsa gorusmeyin ama sakin "aman yaa bosver, zaten o senin sevgini hak etmiyordu" demeyin.
-- entry_name: |
     game of thrones
   entry_id:  70280584
   entry_writer: sergezer
-  entry_fav_count: 68
+  entry_fav_count: 69
   entry_content: |
     jon snow-khaleesi<br/>jon snow-khaalası<br/>jon snow-halaası<br/>jon snow-halası<br/><br/>en baştan beri her şey belliymiş, yazıklar olsun.
 - entry_name: |
     kemalist fethullahçı ittifakı
   entry_id:  70287040
   entry_writer: fenasi kertmen
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     soktuğumun duble yolcularının feto ile geçmişlerini unutturmak için sürekli öne sürdükleri itham.<br/><br/>devleti fetöye teslim edip ülkenin ebesini .iktiler şimdi kalkmış kemalist ulusalcı fetö ittifakı masalı uyduruyorlar. siktirin lan ordan.<br/><br/>ağababalarınıza söyleyin önce siyasetteki, belediyelerdeki medyadaki, ekrandaki aktif fetö tetikçilerini temizlesinler.<br/><br/>nagihan<br/>rok<br/>gülerce <br/>yıldıray oğur<br/>cem küçük <br/>erkan tan<br/>latif erdoğan<br/>vd.
 - entry_name: |
     beypazarı maden suyu
   entry_id:  70273383
   entry_writer: describe it like hemingway
-  entry_fav_count: 63
+  entry_fav_count: 66
   entry_content: |
     hakkında bu kadar çok entry girilince kaynağı kurudu sandığım maden suyu.
 - entry_name: |
     cumartesi sabahı erken kalkmak için bir neden
   entry_id:  70277013
   entry_writer: hadi git
-  entry_fav_count: 62
+  entry_fav_count: 63
   entry_content: |
     hamilelik. yok lan öyle değil, eşin hamile olması desek daha doğru olacak. yok yok o da değil sanırım, kızımı görme heyecanı bu(:<br/><br/>eşimle ikimizde çalıştığımızdan periyodik doktor randevularını cumartesi gününe alıyoruz ve olabilecek en erken saate. çünkü kızım bizi çağırıyor. onun o pıtı pıtı kalp atışını duymak, o küçük hareketlerini izlemek heyecanı ile sabahın körüne aldığımız randevudan 3-4 saat önce falan uyanıyorum işte. normalde her yerim ağrıyor ya diye kalktığım yataktan fırlıyorum resmen. işte öyle güzel bir nedenim var benim(:<br/><br/>hayat ne değişik.
 - entry_name: |
     bafetimbi gomis
   entry_id:  70280212
   entry_writer: aloha martini
-  entry_fav_count: 50
+  entry_fav_count: 57
   entry_content: |
     gol sevincini 8 yasindaki bir cocuk görse inme iner amk.
 - entry_name: |
     19 ağustos 2017 osmanlıspor galatasaray maçı
   entry_id:  70290010
   entry_writer: gok yeleli bozkurtun avukati
-  entry_fav_count: 48
+  entry_fav_count: 52
   entry_content: |
     geçen hafta ligin en zayıf takımı kayseri'ydi bu hafta osmanlı. gelecek hafta da sivas olacak. sıralı tam liste için tıklayın: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.galatasaray.org/s/2017-2018-super-lig-fiksturu/12" title="http://www.galatasaray.org/s/2017-2018-super-lig-fiksturu/12">http://www.galatasaray.org/…8-super-lig-fiksturu/12</a>
 - entry_name: |
@@ -167,9 +174,16 @@ data:
     metin türkcan
   entry_id:  70279813
   entry_writer: tanrinin oglu molla cemal
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     millet atom altı parçacıklarla uğraşıyor, bizim için uzay ve fütürizm hala alüminyom folyo amk.
+- entry_name: |
+    güneş'in 5 milyar yıl sonra ölecek olması
+  entry_id:  70284929
+  entry_writer: 80 li yillari cok ozluyorum lan
+  entry_fav_count: 32
+  entry_content: |
+    ben hep 70 sene yaşadığım için umrumda olmayan durum.
 - entry_name: |
     meral akşener
   entry_id:  70274166
@@ -178,26 +192,12 @@ data:
   entry_content: |
     inisiyatif alarak yola çıkan kadın.<br/><br/>abi bakın, biri inisiyatif alarak yola çıktı.<br/>yıllardır olmayan bir şey oldu.<br/>dizayn edilmiş muhalefet yerine baş kaldıran biri çıktı ortaya.<br/>şayet bunu da desteklemezseniz akp'nin bokunu yiyorsunuz demektir.<br/>götünüzü başınızı oynatmayın.<br/><br/>%1.5 alacak diyenlerin vizyonu ortada. tartışmaya dahi gerek yok.<br/>ben başkan olur demiyorum (ha belki olur o ayrı).<br/>ama %15 civarı bir oyu olduğunu düşünüyorum.
 - entry_name: |
-    güneş'in 5 milyar yıl sonra ölecek olması
-  entry_id:  70284929
-  entry_writer: 80 li yillari cok ozluyorum lan
-  entry_fav_count: 26
+    galatasaray
+  entry_id:  70273666
+  entry_writer: nickimkullanilmismis
+  entry_fav_count: 22
   entry_content: |
-    ben hep 70 sene yaşadığım için umrumda olmayan durum.
-- entry_name: |
-    şenol güneş
-  entry_id:  70274216
-  entry_writer: hll spr bozmadan dvm
-  entry_fav_count: 20
-  entry_content: |
-    su molasının nedenini anlayamıyormuş. allah korusun bir futbolcuya sıcaktan dolayı bir şey olsa anlarsın nedenini filozof. saçma sapan iki özlü sözle şovunu yaparsın o gün utanmadan.
-- entry_name: |
-    alfa romeo
-  entry_id:  70284447
-  entry_writer: bana faydasi olmayan kilisenin papazi
-  entry_fav_count: 20
-  entry_content: |
-    manuel vites, ferrari motorlu, 510 beygir, arkadan itiş, sedan aracı olan markadır. <br/><br/>passat derken?!
+    nasıl işse tinercilerin galip de gelse mağlup da olsa başlığına üşüştüğü takımım.<br/><br/>bana kalırsa içten içe galatasaray'ın en büyük olduğunu biliyorsunuz.<br/><br/>bu yazıları bizi ikna etmek için değil, kendinizi ikna etmek için yazıyorsunuz.
 - entry_name: |
     yazarların en sevdiği starbucks şubesi
   entry_id:  70281943
@@ -206,12 +206,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bckte+yapacak+anket+kalmamas%c4%b1">sözlükte yapacak anket kalmaması</a>)
 - entry_name: |
-    galatasaray
-  entry_id:  70273666
-  entry_writer: nickimkullanilmismis
+    samir nasri
+  entry_id:  70290411
+  entry_writer: uber insan
   entry_fav_count: 19
   entry_content: |
-    nasıl işse tinercilerin galip de gelse mağlup da olsa başlığına üşüştüğü takımım.<br/><br/>bana kalırsa içten içe galatasaray'ın en büyük olduğunu biliyorsunuz.<br/><br/>bu yazıları bizi ikna etmek için değil, kendinizi ikna etmek için yazıyorsunuz.
+    fenerliyim ve antalyasporlyum. gittim antalyaspor kombinesi aldım ve 150 tl ye eto menez ve nasri yi izlicem. bunu yapmak yerine evde fenerin maçlarını izleseydim hasan ali kaldırım josef ozan tufan izlicektim. hayatımda yaptıgım en mantıklı yatırım. tam bir fiyat/performans.
 - entry_name: |
     yazın içilebilecek en iyi içki
   entry_id:  70283091
@@ -219,13 +219,6 @@ data:
   entry_fav_count: 17
   entry_content: |
     (bkz: <a class="b" href="/?q=sangria">sangria</a>)<br/><br/>meyveli, soğuk soğuk, mis gibi!
-- entry_name: |
-    samir nasri
-  entry_id:  70290411
-  entry_writer: uber insan
-  entry_fav_count: 16
-  entry_content: |
-    fenerliyim ve antalyasporlyum. gittim antalyaspor kombinesi aldım ve 150 tl ye eto menez ve nasri yi izlicem. bunu yapmak yerine evde fenerin maçlarını izleseydim hasan ali kaldırım josef ozan tufan izlicektim. hayatımda yaptıgım en mantıklı yatırım. tam bir fiyat/performans.
 - entry_name: |
     sibel kekilli
   entry_id:  70273334
@@ -237,51 +230,58 @@ data:
     taciz nedir nasıl yapılır
   entry_id:  70287976
   entry_writer: return of the kedi
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     erkek: merhaba, ismim x tanışabilir miyiz?<br/><br/>taciz.<br/><br/>erkek: merhaba, ismim x tanışabilir miyiz? (aylık gelir min. $5.000)<br/><br/>taciz değil.
 - entry_name: |
     sözlükçülerin en sevdiği içki isimleri
   entry_id:  70281487
   entry_writer: romantik pepe
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=yarra+yering">yarra yering</a>)
 - entry_name: |
     şenol güneş fikret orman savaşı
   entry_id:  70288694
   entry_writer: zaymon
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     sorunun asil ilk baslangici oyle degil bundan 3 ay once fikret orman takimi aksam yemegi icin nusr-et e goturmek istiyor senol hoca hayir o adam etleri tokatliyor ben onun tokatladigi etleri oyuncularima yedirmem diyor. senol hoca takimi cigerci sebo ya goturmek istiyor. sonra bu yonetim kurulunda oylaniyor fikret ormanin aksine yonetimdeki buyuk cogunluk cigerciye gidelim diyince fikret bey senol hocaya bileniyor ve ayagini kaydirmak icin umreniye nevzat demir tesislerinde senol hocanin odasinin onune iki tane cikita muzu yedikten sonra kabuklarini birakiyor. senol hoca odadan ciktigi gibi ayaginin kaymasi bir oluyor. asil sikintilarin basladigi olaylarin ilk halkası boyle renkli kardeslerim.
 - entry_name: |
-    türk milletinin onurunun yok edildiği gerçeği
-  entry_id:  70288111
-  entry_writer: ismin e hali
-  entry_fav_count: 9
+    alfa romeo
+  entry_id:  70284248
+  entry_writer: winter wyvern
+  entry_fav_count: 11
   entry_content: |
-    çürüdük. <br/>içten içe çürüdük.<br/>bütün ülke çürüdük.<br/><br/>bir ülke düşünün ki çocuklarına tecavüz edildi sesini çıkartmadı.<br/>bir ülke düşünün ki çocuklarını diri diri yaktılar sesini çıkartmadı.<br/>bir ülke düşünün ki şiddet sıradan, bir ülke düşünün ki adalet diye bir şey yok kimsenin gıkı çıkmıyor.<br/><br/>böyle bir onursuzluk olabilir mi? hangi zafer, hangi kazanç insanın onurundan daha önemli olabilir?<br/><br/>siyasetini geçiyorum. bitiyoruz arkadaşlar. bitiyoruz.<br/>çürüyoruz. insanlığımızı kaybediyoruz. <br/><br/>çok yazık.<br/><br/>biat ediyorsunuz. çok yazık.
+    koskoca markayı passatla kıyaslayan davarları gösteren dünya güzeli arabalar üreten şirket. alfa romeo giulia'nın karşısında passat diz çöker tövbe ister. tasarımıyla, motorlarıyla, zf şanzımanıyla halk arabasını tokatlamaktan beter eder. siz tabii 150 beygir arteon için 300 bin tl vermeye devam edebilirsiniz.
 - entry_name: |
-    rıdvan dilmen
-  entry_id:  70273591
-  entry_writer: eyukcell
-  entry_fav_count: 9
+    iz bırakan kitap cümleleri
+  entry_id:  70273119
+  entry_writer: desperate teacher
+  entry_fav_count: 10
   entry_content: |
-    istiklal marşının milli maçlar dışında okunması zaten saçmalık birde sahaya çıkacak oyuncu kriterinin marş okumak olduğunu savunan türk futbolunun düşmanı bundan 5 sene önce yerli zorunluluğu kalksın diye yazılar yazıyordu.
+    handan bakındı bakındı, "yumurta alayım" dedi. "ama az olsun, taze olsun." dedi. "nasıl olsa burayı öğrendim, gelir taze taze alırım." dedi.<br/><br/>sen gel tabii. senin gelmediğin dükkanın ben anasını satarım.<br/><br/>sen gel tabii. senin almadığın yumurtayı ben yere çalarım.<br/><br/>sen gel tabii. ben tüm yozgat'ı bırakır, tüm malı sana saklarım sultanım,<br/><br/>diyemedim.<br/><br/>"her zaman" dedim, "her zaman bekleriz."<sup class="ab"><a title="(bkz: bozkırda altmışaltı - mustafa çiftçi)" href="/?q=bozk%c4%b1rda+altm%c4%b1%c5%9falt%c4%b1+-+mustafa+%c3%a7ift%c3%a7i" data-query="bozkırda altmışaltı - mustafa çiftçi">*</a></sup>
 - entry_name: |
     aşk acısı çekerken seks yapmak
   entry_id:  70289459
   entry_writer: kronikdepresifelvira
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     bu konuda en güzel sözü teoman solemistir.<br/>daha kac vücut gerek bana...<br/>benim seni unutmamaaaaa<br/><br/>: (
 - entry_name: |
     akademik kariyer yapmak isteyenlere tavsiyeler
   entry_id:  70286303
   entry_writer: armut agaci
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     hayatınız için bir b planı yapın, her an akademik kariyeriniz sonlanabilecek veya hiç başlayamayacak gibi başka bir geçim kaynağınız daha olsun. ve lütfen artık yabancı dil öğrenin, çok rica ediyorum.
+- entry_name: |
+    fernando francisco reges
+  entry_id:  70289846
+  entry_writer: spacetimereality
+  entry_fav_count: 9
+  entry_content: |
+    bu performansla devam ederse galatasaray'ın bu sezonki kahramanı olabilir.
 - entry_name: |
     kadınların iktidarını yaşıyor olduğumuz gerçeği
   entry_id:  70280470
@@ -297,6 +297,20 @@ data:
   entry_content: |
     köklerin cehenneme değmeden yaprakların cennete erişemez. kökleri ile resmedilmiş bir ağaç da eşlik etse güzel görünür bence.
 - entry_name: |
+    19 ağustos 2017 karabükspor m. başakşehir maçı
+  entry_id:  70287690
+  entry_writer: acsr777
+  entry_fav_count: 5
+  entry_content: |
+    vay mk adam 40 metreden filan atti.<br/><br/>o degil emre ve adebayor yedek, sanirim avci hoca sevillayi deplasmanda 2 farkli filan yenebilecegini düsünüyor. rüyaniz hayrolsun hocam.
+- entry_name: |
+    igor tudor
+  entry_id:  70290370
+  entry_writer: nickimkullanilmismis
+  entry_fav_count: 4
+  entry_content: |
+    <a class="b" href="/?q=kan%c4%b1m+kaynamaya+ba%c5%9flad%c4%b1+pezevenge">kanım kaynamaya başladı pezevenge</a> loading %5.........
+- entry_name: |
     19 ağustos 2017 bursaspor alanyaspor maçı
   entry_id:  70288060
   entry_writer: bay arkadin
@@ -304,26 +318,19 @@ data:
   entry_content: |
     <a class="b" href="/?q=bursaspor+taraftar%c4%b1">bursaspor taraftarı</a>nın, maçın birinci dakikasına kadar sessizce arkasını dönüp ellerini tutuklu gibi havaya kaldırarak göztepe taraftarının <a rel="nofollow noopener" class="url" target="_blank" href="http://www.ntv.com.tr/spor/goztepe-eskisehir-macina-sorusturma-72-gozalti-karari,vX1DPpMLO06W38tq3fYx2A" title="http://www.ntv.com.tr/spor/goztepe-eskisehir-macina-sorusturma-72-gozalti-karari,vX1DPpMLO06W38tq3fYx2A">tutuklanma</a>sını protesto ettiği maçtır.<br/>ardından da <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/bursasporluyuz/status/898950477085368320" title="https://twitter.com/bursasporluyuz/status/898950477085368320">terörist değiliz taraftarız biz</a> diye slogan atılmıştır. <br/><br/>maça gelecek olursak eğer; bursaspor'un yeni halini ilk kez izliyorum. geçen hafta izleyemediğim için yeni transferleri anca görebildim. geçen sene bütün takım vasat altıyken şimdi orta sahanın göbeğindeki <a class="b" href="/?q=mikel+ndubusi+agu">mikel ndubusi agu</a> ve <a class="b" href="/?q=emmanuel+badu">emmanuel badu</a> ligin üç-dört gömlek üzerinde bir performans sergileyerek ilk 45 dakika için bana güveni verdiler. ayrıca badu timsah arenada çıktığı ilk maçta takımın bu sene ki ilk golünü atmasıyla ekstra sempatimi kazandı. <br/><br/>defans şimdilik pek zorlanmasa da geçen seneye göre çok daha fazla güven veriyor. en azından zırt pırt adam kaçırmıyorlar ki bu maçta karşılarında <a class="b" href="/?q=vagner+love">vagner love</a> gibi ne zaman ne yapacağını bilen bir eski dünya yıldızı var. buna rağmen hiç pozisyon vermeden ilk yarıyı bitirdiler. <br/>yani işin özü; bu sene omurgası daha sağlam bir <a class="b" href="/?q=bursaspor">bursaspor</a> var. umarım sakatlık vs. olmaz.<br/><br/>fakat, kanatlar ve forvet konusu hala vasat altı durumda. fitbol bilmez <a class="b" href="/?q=ali+ay">ali ay</a>'ın "kanatlar uçacak" diye açıklamalar yapmasına rağmen hala oralara bir transfer yapılmaması orta saha ve defansın lig üstü performansına rağmen ligi orta seviyelerde bitirmemize neden olacak. <br/><br/>yaşasın <a class="b" href="/?q=pablo+martin+batalla!">pablo martin batalla!</a>!! penaltıdan da olsa attı yine golünü. <br/><br/>son olarak <a class="b" href="/?q=ali+ay+istifa">ali ay istifa</a>!
 - entry_name: |
-    galatasaray'ın bu sene şampiyon olacağı
-  entry_id:  70290135
-  entry_writer: horoz tavuk 200luk
+    the defenders
+  entry_id:  70278717
+  entry_writer: mindtraveler
   entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=sen+bunu+nerden+bilece%c4%9fi">sen bunu nerden bileceği</a>)
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>istanbul not constantinople adsafasdfasd. ilk kez bir amerigan yapımında düzgün türkçe konuşan insan gördüm.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    fernando francisco reges
-  entry_id:  70289827
-  entry_writer: caymenex
+    düşün ki o bunu okuyor
+  entry_id:  70274248
+  entry_writer: bahara kadar bekle bandini
   entry_fav_count: 3
   entry_content: |
-    iki maçtır dünya çapında bir defansif orta saha oyunu sergiliyor. defanstaki tüm açıkları kapatıyor, takımın sigortası gibi oynuyor, orta sahada pas dağıtımı ondan başlıyor, kolay kolay top kaybetmiyor, pozisyon bilgisi mükemmel. takımı bir kaç seviye üste taşıyor, gerçek futbol severler için onu izlemek büyük bir keyif.
-- entry_name: |
-    beşiktaş
-  entry_id:  70277925
-  entry_writer: geyigindibi
-  entry_fav_count: 3
-  entry_content: |
-    kasımpaşa'nın ilk golünden önce babel'in çok temiz hareketine faul çalınmış devamında da gol yemiş takımdır. ama nedense sarışınlar bundan bahsetmezler.
+    "seni şu dünya gözlerimle ne de seyrek görüyorum."
 - entry_name: |
     ekşi itiraf
   entry_id:  70274062
@@ -332,19 +339,7 @@ data:
   entry_content: |
     bazen düşün ki o bunu okuyor başlığındaki yazıları okuduğumda belirli yazıları onun yazdığından şüphelenip, yazarları stalklıyorum. <br/>sonra onun düşüncesine göre , yazarların farklı konulardaki düşüncesini karsılaştırıp" yok ya böyle düşünmez, bu hatayı yapmaz" diyorum.<br/>iyice manyaklaştım.
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  70275353
-  entry_writer: elishafanz
-  entry_fav_count: 0
-  entry_content: |
-    herd &amp; fitz ft. abigail bailey - i just can't get enough<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=E5rbTo8UhN8">https://www.youtube.com/watch?v=e5rbto8uhn8</a>
-- entry_name: |
-    igor tudor
-  entry_id:  70290332
-  entry_writer: portaka lordaka
-  entry_fav_count: 0
-  entry_content: |
-    kendisini bruma ve sneijder'i kestiği andan itibaren destekliyorum. şımarıklığa, küstahlığa, disiplinsizliğe, ayak oyunlarına, denge politikalarına zerre boyun eğmeden, hep dik durdu. "böyle giderse 2 aya kovulur" dediler. ama kararlılığı ile yönetimin desteğini de aldı. <br/><br/>artık arda turan'ın gelmesine de ses çıkarmam. gelsin de o kaprisleri bir de tudor'a yapsın.
+    galatasaray'ın bu sene şampiyon olacağı
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  70274077
