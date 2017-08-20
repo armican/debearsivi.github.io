@@ -3,6 +3,13 @@ layout: post
 title: 21 Ağustos 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    racon kesilecekse bizzat kendim keserim
+  entry_id:  70302349
+  entry_writer: geri donen mektup
+  entry_fav_count: 447
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yazik+la+kimin+reisiyse">yazik la kimin reisiyse</a>)
+- entry_name: |
     tayyip erdoğan çocuksu sıfır kini olan bir insan
   entry_id:  70297690
   entry_writer: unfug
@@ -10,59 +17,52 @@ data:
   entry_content: |
     katılıyorum. özellikle ölen bir çocuğun ardından, çocuğun acılı annesini miting meydanlarında yuhalatırken tayyip'in suratındaki o çocuksu bakış, o masumiyet yok mu! yerim ben onu!
 - entry_name: |
-    racon kesilecekse bizzat kendim keserim
-  entry_id:  70302349
-  entry_writer: geri donen mektup
-  entry_fav_count: 438
+    sen kimsin türkiye cumhurbaşkanıyla konuşuyorsun
+  entry_id:  70292962
+  entry_writer: tektufek
+  entry_fav_count: 343
   entry_content: |
-    (bkz: <a class="b" href="/?q=yazik+la+kimin+reisiyse">yazik la kimin reisiyse</a>)
+    bu nasıl bir kibirdir aklım almıyor. demek ki karşısına çıkıp yanlışını yüzüne vursak bize de aynını yapacak.<br/>gidişiniz çok acıklı olacak efendiler. sizin dürüst olanlarınızı dahi iktidar gittiği anda acımasız bir kurt kanunu bekliyor sanki. nefret paratoneri gibisiniz.
 - entry_name: |
     bafetimbi gomis
   entry_id:  70292452
   entry_writer: administration
-  entry_fav_count: 341
+  entry_fav_count: 343
   entry_content: |
     gençliğinde bir kaç yıl karanlık bir odada tutup dövmüşler, çiğ etle beslemişler. sorumlusu futbol topu demişler, anasını sikicem demiş, yemin etmiş.<br/><br/>başka bir açıklaması olamaz.
-- entry_name: |
-    sen kimsin türkiye cumhurbaşkanıyla konuşuyorsun
-  entry_id:  70292962
-  entry_writer: tektufek
-  entry_fav_count: 337
-  entry_content: |
-    bu nasıl bir kibirdir aklım almıyor. demek ki karşısına çıkıp yanlışını yüzüne vursak bize de aynını yapacak.<br/>gidişiniz çok acıklı olacak efendiler. sizin dürüst olanlarınızı dahi iktidar gittiği anda acımasız bir kurt kanunu bekliyor sanki. nefret paratoneri gibisiniz.
-- entry_name: |
-    instagram
-  entry_id:  70293304
-  entry_writer: muhendislik ansiklopedisi
-  entry_fav_count: 317
-  entry_content: |
-    insanı <a class="b" href="/?q=ilgi+orospusu">ilgi orospusu</a> yapan uygulama.<br/>normalde bu kelimeler bana hiç yakışmaz ancak demeden edemeyeceğim. normalde hiçbir sosyal medyayı kullanmayan bir insanım. ne <a class="b" href="/?q=twitter">twitter</a> ne de <a class="b" href="/?q=facebook">facebook</a> kullanıyorum. ancak instagram'ı yaklaşık 1 aydır kullanıyorum. ve az önce bıraktım. neden mi?<br/><br/>+insan dışarıdaki hayat yerine oradaki beğenilerle mutlu olmaya başlıyor. (veya öyle zannetmeye)<br/><br/>+sürekli daha fazla kişi, daha fazla beğeni ve daha fazla durum isteyerek veya yaparak sürekli ilgi odağı olmak istiyor.<br/><br/>+bütün bunları yaparken insan beyni öyle bir <a class="b" href="/?q=optimizasyon">optimizasyon</a> yapıyor ki, instagram bağımlısı olduğu düşünülmesin, çok entel gözüksün, çok mutlu gözüksün ve hiçbir vakit de boşa gitmesin.<br/><br/>edit: yaptığım eleştiriler bazı arkadaşları rahatsız etmiş. ancak ben ne popüler kültür eleştirisi yaptım ne de entel gözükmeye çalıştım. bana olan durumları söyledim. ki entel olsaydım çok da entel gözükmeye çalışan postlar yolladığımı yazmazdım son maddede. yaptığım bütün şeyler özeleştiridir.
 - entry_name: |
     kürt atasözleri
   entry_id:  70304038
   entry_writer: supremeelitefirstclass
-  entry_fav_count: 316
+  entry_fav_count: 337
   entry_content: |
     en iyi elektrik kaçak olandır.
+- entry_name: |
+    instagram
+  entry_id:  70293304
+  entry_writer: muhendislik ansiklopedisi
+  entry_fav_count: 324
+  entry_content: |
+    insanı <a class="b" href="/?q=ilgi+orospusu">ilgi orospusu</a> yapan uygulama.<br/>normalde bu kelimeler bana hiç yakışmaz ancak demeden edemeyeceğim. normalde hiçbir sosyal medyayı kullanmayan bir insanım. ne <a class="b" href="/?q=twitter">twitter</a> ne de <a class="b" href="/?q=facebook">facebook</a> kullanıyorum. ancak instagram'ı yaklaşık 1 aydır kullanıyorum. ve az önce bıraktım. neden mi?<br/><br/>+insan dışarıdaki hayat yerine oradaki beğenilerle mutlu olmaya başlıyor. (veya öyle zannetmeye)<br/><br/>+sürekli daha fazla kişi, daha fazla beğeni ve daha fazla durum isteyerek veya yaparak sürekli ilgi odağı olmak istiyor.<br/><br/>+bütün bunları yaparken insan beyni öyle bir <a class="b" href="/?q=optimizasyon">optimizasyon</a> yapıyor ki, instagram bağımlısı olduğu düşünülmesin, çok entel gözüksün, çok mutlu gözüksün ve hiçbir vakit de boşa gitmesin.<br/><br/>edit: yaptığım eleştiriler bazı arkadaşları rahatsız etmiş. ancak ben ne popüler kültür eleştirisi yaptım ne de entel gözükmeye çalıştım. bana olan durumları söyledim. ki entel olsaydım çok da entel gözükmeye çalışan postlar yolladığımı yazmazdım son maddede. yaptığım bütün şeyler özeleştiridir.
 - entry_name: |
     yazarların en iyi beş dizi listesi
   entry_id:  70297307
   entry_writer: concerta
-  entry_fav_count: 261
+  entry_fav_count: 264
   entry_content: |
     (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+10+dizi+listesi">sözlükçülerin en iyi 10 dizi listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+s%c3%bcr%c3%bckleyici+dizi+listesi">sözlükçülerin en sürükleyici dizi listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+10+t%c3%bcrk+dizisi+listesi">sözlükçülerin en iyi 10 türk dizisi listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+mini+dizi+listeleri">sözlükçülerin en iyi mini dizi listeleri</a>)<br/>(bkz: <a class="b" href="/?q=tekrar+izlenebilecek+diziler+listesi">tekrar izlenebilecek diziler listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+100+dizi+listesi">sözlükçülerin en iyi 100 dizi listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+alternatif+dizi+listesi">sözlükçülerin en iyi alternatif dizi listesi</a>)<br/>(bkz: <a class="b" href="/?q=izlenen+diziler+listesi">izlenen diziler listesi</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+iyi+10+%c3%a7izgi+dizi+listesi">sözlükçülerin en iyi 10 çizgi dizi listesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+top+400+dizi+listesi">ekşi sözlük top 400 dizi listesi</a>)<br/><br/>benim şahsi listem ise<br/>(bkz: <a class="b" href="/?q=eben">eben</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bc+%c3%a7%c3%b6pe+%c3%a7evirenler">sözlüğü çöpe çevirenler</a>)<br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)<br/>(bkz: <a class="b" href="/?q=ne+listeymi%c5%9f+arkada%c5%9f">ne listeymiş arkadaş</a>)
 - entry_name: |
     edirne'de sirozdan ölen loto milyoneri
   entry_id:  70300007
   entry_writer: s1mple
-  entry_fav_count: 133
+  entry_fav_count: 143
   entry_content: |
     alınteri olmadan kazanılan haram paradan iflah olunmaz değil mal insandan iflah olmaz.<br/><br/>başka şans oyunlarından para kazanan insanlar da var neden onların haberlerini görmüyoruz? örneğin 8 yıl önce yılbaşından güzel para kazanan 55-60 yaşlarında ki çift parayla gidip ev almışlar, kalanını bankaya atmışlar. bu para bize çok yardımcı oldu ama biz eski düzenimizi bozmadık dediler. olması gerekende o zaten. o para kolay çıkarır ama sağlam indirir bunun bilincinde olmak lazım. bilincinde olmayan insanlar dibi görünce bize ''<a class="b" href="/?q=ibret">ibret</a>'' olarak anlatılıyor. mal insanlardan ibret almam, ben zaten onların farkındayım.
 - entry_name: |
     aleyna tilki'nin üstün zekalı çıkması
   entry_id:  70305553
   entry_writer: xavier naidoo
-  entry_fav_count: 119
+  entry_fav_count: 132
   entry_content: |
     "...dinleyenlerinden..."
 - entry_name: |
@@ -76,16 +76,30 @@ data:
     haluk levent'in ayvalık fidan kampanyası
   entry_id:  70304703
   entry_writer: sana bir sey sorabilir miyim
-  entry_fav_count: 99
+  entry_fav_count: 103
   entry_content: |
     haluk levent, balıkesir ayvalık'taki cennet koyu'nda kül olan 5 hektarlık ormanın yeniden yeşertilmesi için fidan dikim kampanyası başlattı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.haberdevir.com/wp-content/uploads/2017/08/ayvalik-cennet-koyu-yangin.png" title="http://www.haberdevir.com/wp-content/uploads/2017/08/ayvalik-cennet-koyu-yangin.png">yanan bölge</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazetevatan.com/haluk-levent-fidan-kampanyasi-baslatti--1095054-kultur-sanat/" title="http://www.gazetevatan.com/haluk-levent-fidan-kampanyasi-baslatti--1095054-kultur-sanat/">haber</a><br/><br/>rantçı, doğa düşmanı orospu cocuklarına inat gidip ellerimle fidanımı dikeceğim. ekşi sözlük sizde var mısınız?<br/><br/>önemli ekleme: bu olay ne zaman vuku bulacak bilmiyorum, içinde haluk levent olduğu için sanıyorum havada kalmayacak. yardım toplama işi nasıl olacak onu da bilmiyorum. ama eğer bir banka iban'ı vs paylaşılırsa haluk levent tarafından, ekşi sözlük olarak yardım yapalım. mesela "ekşi sözlük fidan yardımı" gibi bir açıklamayla para gönderebiliriz. böylelikle ne kadar katkımız olmuş eğer açıklarlarsa ögrenebiliriz. belki de kim bilir en çok bağışı biz yaparız ve adımıza bir fidanlığımız daha olur.<br/><br/>eğer yardım etmek istediğinizi entryde belirtirseniz böyle bir açıklama geldiği anda haluk levent'ten sizi ilgili açıklama linkiyle yeşillendirebilirim.<br/><br/>not: heyecandan "ayvalık'da" yazmışım, "ayvalık'ta" olacak.
 - entry_name: |
     bir kadının dikkatini çekmenin en etkili yolu
   entry_id:  70303845
   entry_writer: uykudanuyanmayacalisanadam
-  entry_fav_count: 77
+  entry_fav_count: 79
   entry_content: |
     (bkz: <a class="b" href="/?q=sigara+isteyen+k%c4%b1za+%c3%a7oraptan+uzun+l%26m+%c3%a7%c4%b1karmak">sigara isteyen kıza çoraptan uzun l&amp;m çıkarmak</a>)
+- entry_name: |
+    dinlenme tesisi soğuğu
+  entry_id:  70296407
+  entry_writer: haroyin
+  entry_fav_count: 76
+  entry_content: |
+    tuvalet işini halletikten sonra plakasını ezberlediğiniz otobüsünüze yakın bi masada çay sigara yaparak dışınız zangırdasa da içinizi ısıtabilirsiniz. hele bi de otobüsü yıkayan muavin hortumu fırçayla birleştirip aynı anda hem ıslatıp hem temizliyorsa değmeyin keyfinize. ayrı ayrı olunca o kadar da etkileyici değil. işlem bitince ön cam ne kadar da temiz ve güven verici hale geldi değil mi? bu gurur tüm yolcuların.
+- entry_name: |
+    samir nasri
+  entry_id:  70294655
+  entry_writer: mr horsehead
+  entry_fav_count: 72
+  entry_content: |
+    man city'de adam bırakmadınız amk, clichy başakşehire, fernando gs'ye, bu antalya'ya<br/><br/>agüero'yu da boluspor alsın mına koyim.
 - entry_name: |
     galatasaray
   entry_id:  70293921
@@ -97,21 +111,28 @@ data:
     20 ağustos 2017 fenerbahçe trabzonspor maçı
   entry_id:  70292676
   entry_writer: beta karotensel uyum
-  entry_fav_count: 60
+  entry_fav_count: 66
   entry_content: |
     4 adet 100'lük rakısına iddiaya girdiğim maç. <br/><br/>takımıma hiç güvenmiyorum, en ufak bir umut beslemiyorum, takımımın maçlarını izlemiyorum ama yine de toz konduramıyorum. sırf bir tanesi ''trabzon havada karada siker'' dediği için 4 ayrı kişiyle iddiaya girmiş bulundum. <br/><br/>kaybedeyim, hiç umurumda değil. kazanayım, yine umurumda değil. millet bu cesareti hangi ara kazandı, hangi ara fenerbahçe'yi bu derece çantada keklik görmeye başladı; bana koyan bu sadece.
+- entry_name: |
+    türk kızları gitsin iskandinav kızları gelsin
+  entry_id:  70300116
+  entry_writer: yagmuryagincayanindaolmayansemsiye
+  entry_fav_count: 57
+  entry_content: |
+    ben gideyim de kim gelirse gelsin. kampanya akillica.
 - entry_name: |
     pazar sabahı erken kalkmak için bir neden
   entry_id:  70296522
   entry_writer: fairground
-  entry_fav_count: 52
+  entry_fav_count: 54
   entry_content: |
     budur:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ok1jB9.jpg">https://i.hizliresim.com/ok1jb9.jpg</a>
 - entry_name: |
     game of thrones
   entry_id:  70295069
   entry_writer: turdus merula
-  entry_fav_count: 51
+  entry_fav_count: 52
   entry_content: |
     adamların elinde kendiliğinden yanan kılıç var. hala "donarak ölücez sıçtık" diyor. yak kılıçı, sapını da sapla kara. etrafına toplanıp ısının işte amk. bunu da biz akıl edicez.
 - entry_name: |
@@ -122,6 +143,13 @@ data:
   entry_content: |
     ön not olarak belirteyim, fenerbahçeliyim. bu akşam bizlere keyifli bir maç izlettiği için de galatasaray'a teşekkür ediyorum. öncelikle, sahada müthiş bir takım vardı. mükemmel değil ama müthiş. ilk yarının tamamına yakınında müthiş bir efor sarfeden, basan, parçalayan, kilit çözebilen bir takım izledik. bu, galatasaray'ın taktiksel standartı düşük takımlara karşı en büyük avantajı olsa da görece zor maçlarda net bir dezavantaj haline gelebilir. çünkü fizik kalitenizi taşıyabileceğiniz en yüksek seviyeye taşısanız da 90 dakika boyunca hiçbir oyuncunun yüksek seviyede nabız ve tansiyonla mücadele etme şansı yok. nitekim fiziksel sınırlarını sonuna kadar zorlayan galatasaray'ın 60. dakikadan sonra oyundan nasıl düştüğünü gördük. o dakikadan itibaren bile efor sarfetmeye ve dikine, hızlı çıkmaya çalışan takımın top kayıplarında ciddi bir artış olduğunu gördük. osmanlıspor bu düşüşten faydalanabilecek bir takım değil. ancak beşiktaş, başakşehir gibi takımlar affetmez. <br/><br/>şunu da söylemek gerekir. galatasaray'ın bu coşkulu oyunla ligde hacamat edemeyeceği takım iki veya üçtür. geri kalanını bir pres makinesi gibi büküp atar. <br/><br/>tabi, bu durumda kadrodaki olası değişikliklerin yaratacağı etkiyi de düşünmek lazım. bugün kalabalık orta saha hattı, belhanda'nın asıl performansını göstermesine engel oldu. topu kullanmak için çok da geri gelmesine gerek kalmayan belhanda, rakip savunmanın arasına gömüldü ve takım arkadaşlarına kıyasla silik bir performans gösterdi. feghouli'nin takıma yerleşmesi eminim ki kendisine de yarayacaktır. orta sahada bir kişinin eksilmesi, belhanda'nın artık ikinci forvet gibi değil de oyun kurucu olarak hakiki performansını göstermesini sağlayacaktır. ancak bu, ofansif anlamda takımı daha da güçlendirse de direnç, baskı ve defansif yerleşim konusunda takım arkadaşlarının üzerine daha da yük binmesine sebep olacak. <br/><br/>şimdilik en büyük merakım tudor'un taktiksel standartı daha yüksek takımlara karşı tercih edeceği oyun. yine sürekli dikine oynayan ve yorulan bir takım mı izletecek, yoksa skoru bulduğunda topu koşturarak oyuncularını aktif dinlenmeye almayı mı tercih edecek? eminim bu konuda bir planı vardır. eğer varsa galatasaray, kadro kalitesi, fizik kapasitesi ve yüksek oyun aklı ile durdurulamaz bir takım haline gelir. işte o zaman mükemmel bir takım deriz.<br/><br/>bu arada selçuk oyuna girmeden önce kendisini bir hayli zayıflamış hatta cılızlaşmış buldum. açıkçası bu durumun ağırlığını bir nebze ortadan kaldıracağını düşünmüştüm. ancak hala ağır olduğunu söylemek gerek. sanırım çabuk bir oyuncu olmasının sebebi beliyle değil adeleleriyle alakalı. ve maalesef düzeltebilir bir durum değil bu.<br/><br/>sonuç olarak sezon başlamadan önce yazdığım entrylerde bulunduğum tahminlerin tutmuş olması beni sevindirdi. son üç sezondur tamamen bireysel yeteneklere bağımlı oynayan, hücum ve defans şablonu olmayan galatasaray gitmiş, yerine deyim yerindeyse tabanca gibi bir takım gelmiş. ligin kalitesini bariz bir şekilde artıran bir durum bu. dilerim fenerbahçemiz de toparlanıp hem oyun hem de puan olarak bu yarışın içinde kalır da biz de keyifli bir sezon geçiririz. kim kazanırsa kazansın, son gülen türk futbolu olsun.
 - entry_name: |
+    atatürk heykeline saldıranların asıl amacı
+  entry_id:  70302815
+  entry_writer: sigara kibrit
+  entry_fav_count: 49
+  entry_content: |
+    dünyanın dört bir yanında atatürk heykeli ve onun adını taşıyan caddeler, parklar var ve hepsi zarar görmeden muhafaza edilirken hayatını kurtarıp, özgür bir ülke bıraktığı vatandaşları onu sevmiyor. yüz yılın şerefsizliği.<br/><br/><a class="b" href="/?q=avustralya">avustralya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.narsanat.com/wp-content/uploads/2014/11/9-Canberra-AVUSTRALYA.jpg" title="http://www.narsanat.com/wp-content/uploads/2014/11/9-Canberra-AVUSTRALYA.jpg">anıtı</a>, <a class="b" href="/?q=k%c3%bcba">küba</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.narsanat.com/wp-content/uploads/2014/11/KARAKAS.jpg" title="http://www.narsanat.com/wp-content/uploads/2014/11/KARAKAS.jpg">heykeli</a>, <a class="b" href="/?q=japonya">japonya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/japonyaataturk.jpg" title="https://cdn.neredekal.com/image/japonyaataturk.jpg">heykeli</a>, <a class="b" href="/?q=amerika">amerika</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/abdataturk.jpg" title="https://cdn.neredekal.com/image/abdataturk.jpg">heykeli</a>, <a class="b" href="/?q=%c3%a7ekya">çekya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/cekataturk.jpg" title="https://cdn.neredekal.com/image/cekataturk.jpg">heykeli</a>, <a class="b" href="/?q=hindistan">hindistan</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.kadinlarduysun.com/wp-content/uploads/2014/11/Mustafa-Kemal-Ataturk-Marg-Caddesi-Yeni-Delhi-Hindistan.jpg" title="http://www.kadinlarduysun.com/wp-content/uploads/2014/11/Mustafa-Kemal-Ataturk-Marg-Caddesi-Yeni-Delhi-Hindistan.jpg">caddesi</a>, <a class="b" href="/?q=amerika">amerika</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://cdn1.tipeez.com/Cms/News/7/9/12897/769806_130601027030038767397_Original.jpg" title="http://cdn1.tipeez.com/Cms/News/7/9/12897/769806_130601027030038767397_Original.jpg">parkı</a>, <a class="b" href="/?q=almanya">almanya</a>'da bulunan bal mumu müzesindeki atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.lordiz.net/resimler/lordiz/149468993_8520a9d3e1_o_zpsd547878f-1.jpg" title="http://www.lordiz.net/resimler/lordiz/149468993_8520a9d3e1_o_zpsd547878f-1.jpg">heykeli</a>
+- entry_name: |
     türkiye'de minibüslerin kaldırılması
   entry_id:  70299631
   entry_writer: okumluyorum
@@ -129,12 +157,26 @@ data:
   entry_content: |
     küçük şehirlerde çok zor fakat istanbul için söylüyorum: kesinlikle minibüs hatlarının iett'ye devredilmesi ve belli duraklar haricinde durmalarının yasaklanması gerek. ayrıca minibüs şoförleri de otobüs şoförleri gibi temiz giyinmeli, araçta müzik veya radyo çalmamalı.<br/><br/>mesela şu an bakırköy-bağcılar metrosunun inşaatı devam ediyor. bence bu metro bittiği zaman bakırköy-bağcılar minibüsleri tamamen kaldırılmalı. incirli, çalışlar ve haznedar-güngören trafiğini felç eden bu minibüslerin faydadan çok zararı var. zaten şoförleri de saygısız ve serseri tipler. ne zaman binmek zorunda kalsam sinir krizi geçiriyorum bu minibüslerde.
 - entry_name: |
-    atatürk heykeline saldıranların asıl amacı
-  entry_id:  70302815
-  entry_writer: sigara kibrit
-  entry_fav_count: 47
+    ilk ve son kez yenilen içilen şeyler
+  entry_id:  70298462
+  entry_writer: hellgirl
+  entry_fav_count: 48
   entry_content: |
-    dünyanın dört bir yanında atatürk heykeli ve onun adını taşıyan caddeler, parklar var ve hepsi zarar görmeden muhafaza edilirken hayatını kurtarıp, özgür bir ülke bıraktığı vatandaşları onu sevmiyor. yüz yılın şerefsizliği.<br/><br/><a class="b" href="/?q=avustralya">avustralya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.narsanat.com/wp-content/uploads/2014/11/9-Canberra-AVUSTRALYA.jpg" title="http://www.narsanat.com/wp-content/uploads/2014/11/9-Canberra-AVUSTRALYA.jpg">anıtı</a>, <a class="b" href="/?q=k%c3%bcba">küba</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.narsanat.com/wp-content/uploads/2014/11/KARAKAS.jpg" title="http://www.narsanat.com/wp-content/uploads/2014/11/KARAKAS.jpg">heykeli</a>, <a class="b" href="/?q=japonya">japonya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/japonyaataturk.jpg" title="https://cdn.neredekal.com/image/japonyaataturk.jpg">heykeli</a>, <a class="b" href="/?q=amerika">amerika</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/abdataturk.jpg" title="https://cdn.neredekal.com/image/abdataturk.jpg">heykeli</a>, <a class="b" href="/?q=%c3%a7ekya">çekya</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.neredekal.com/image/cekataturk.jpg" title="https://cdn.neredekal.com/image/cekataturk.jpg">heykeli</a>, <a class="b" href="/?q=hindistan">hindistan</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.kadinlarduysun.com/wp-content/uploads/2014/11/Mustafa-Kemal-Ataturk-Marg-Caddesi-Yeni-Delhi-Hindistan.jpg" title="http://www.kadinlarduysun.com/wp-content/uploads/2014/11/Mustafa-Kemal-Ataturk-Marg-Caddesi-Yeni-Delhi-Hindistan.jpg">caddesi</a>, <a class="b" href="/?q=amerika">amerika</a>'da bulunan atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://cdn1.tipeez.com/Cms/News/7/9/12897/769806_130601027030038767397_Original.jpg" title="http://cdn1.tipeez.com/Cms/News/7/9/12897/769806_130601027030038767397_Original.jpg">parkı</a>, <a class="b" href="/?q=almanya">almanya</a>'da bulunan bal mumu müzesindeki atatürk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.lordiz.net/resimler/lordiz/149468993_8520a9d3e1_o_zpsd547878f-1.jpg" title="http://www.lordiz.net/resimler/lordiz/149468993_8520a9d3e1_o_zpsd547878f-1.jpg">heykeli</a>
+    <a class="b" href="/?q=waffle">waffle</a>. fazla tatlıyla arası olmayan bir insan olarak şeker komasına giriyorum sandığım yiyecektir.
+- entry_name: |
+    fetö'nün siyasi ayağı chp'de çıktı iddiası
+  entry_id:  70307127
+  entry_writer: dreamofrock
+  entry_fav_count: 48
+  entry_content: |
+    benim yıllardır söylediğim şeyi yeni farketmeye başlamış güneş gazetesi tespiti. bu gözler ergenekon davaları görülürken ben bu davaların savcısıyım diyen deniz baykal'ı unutmadı. türkçe olimpiyatlarında, yeter artık bitsin bu hasret diyen kemal kılıçdaroğlu değil miydi? hoca efendi hakkında düzgün konuş diyen eskişehir büyükşehir belediye başkanını nasıl unuturuz peki...<br/><br/>insanda biraz izan olur amk. sanki hiç böyle şeyler yaşanmamış gibi milletin unutmasını bekliyorlar... tez elden cehape'ye operasyon yapılmalı...
+- entry_name: |
+    25 ağustos 2017 galatasaray sivasspor maçı
+  entry_id:  70292076
+  entry_writer: temir
+  entry_fav_count: 45
+  entry_content: |
+    52.000 kişilik maç, şartlar oluştu gibi. galatasaray taraftarı futbolcuların 2 haftalık davetine icabet edecektir.
 - entry_name: |
     alevilik
   entry_id:  70295028
@@ -143,12 +185,12 @@ data:
   entry_content: |
     çocukluğumdan beri bir sürü alevi arkadaşım oldu. hatta arkadaşlarımın çoğu aleviydi diyebilirim. ilkokuldan üniversiteye kadar hayatımın her döneminde gelip beni buldular bir şekilde.<br/><br/>tüm genellemeler yanlıştır derler ama ben bu kültürde yetişip de kötü olabilen birine rastlamadım. hepsi mi iyi niyetli, saf insanlar olur?
 - entry_name: |
-    fetö'nün siyasi ayağı chp'de çıktı iddiası
-  entry_id:  70307127
-  entry_writer: dreamofrock
-  entry_fav_count: 38
+    igor tudor
+  entry_id:  70293015
+  entry_writer: sarapci armadillo
+  entry_fav_count: 37
   entry_content: |
-    benim yıllardır söylediğim şeyi yeni farketmeye başlamış güneş gazetesi tespiti. bu gözler ergenekon davaları görülürken ben bu davaların savcısıyım diyen deniz baykal'ı unutmadı. türkçe olimpiyatlarında, yeter artık bitsin bu hasret diyen kemal kılıçdaroğlu değil miydi? hoca efendi hakkında düzgün konuş diyen eskişehir büyükşehir belediye başkanını nasıl unuturuz peki...<br/><br/>insanda biraz izan olur amk. sanki hiç böyle şeyler yaşanmamış gibi milletin unutmasını bekliyorlar... tez elden cehape'ye operasyon yapılmalı...
+    burada bu takım teknik direktörsüz de oynar/oynuyor diyen arkadaşları gördükçe gülesim geliyor. lan en son aziz yıldırım bu takımı teknik direktör şampiyon yapmadı, bu takım teknik direktörsüz de şampiyon olurdu dedi ersun'u kovdu, takım hala toparlanamadı mına. beyler demek istediğim teknik direktör de önemlidir o kadar da abartmayın, bari sizler aziz yıldırım zihniyetinde olmayın.
 - entry_name: |
     türkiye'yi kurtaracak iktidar kadrosu
   entry_id:  70296950
@@ -157,47 +199,26 @@ data:
   entry_content: |
     cumhurbaşkanı : celal şengör <br/>başbakan: ilber ortaylı <br/>milli eğitim bakanlığı : turgay polat<br/>tarım, hayvancılık bakanlığı : cem seymen<br/>dış işleri bakanlığı : hüsnü mahalli<br/>ekonomi bakanı : emin çapa <br/>turizm bakanlığı : ayhan sicimoğlu<br/>sağlık bakanlığı : canan karatay
 - entry_name: |
-    igor tudor
-  entry_id:  70293015
-  entry_writer: sarapci armadillo
-  entry_fav_count: 36
-  entry_content: |
-    burada bu takım teknik direktörsüz de oynar/oynuyor diyen arkadaşları gördükçe gülesim geliyor. lan en son aziz yıldırım bu takımı teknik direktör şampiyon yapmadı, bu takım teknik direktörsüz de şampiyon olurdu dedi ersun'u kovdu, takım hala toparlanamadı mına. beyler demek istediğim teknik direktör de önemlidir o kadar da abartmayın, bari sizler aziz yıldırım zihniyetinde olmayın.
-- entry_name: |
-    ilk ve son kez yenilen içilen şeyler
-  entry_id:  70299424
-  entry_writer: amyreri ramazan
-  entry_fav_count: 35
-  entry_content: |
-    ıspanak.<br/><br/>yıllar evvel küçük bir çocukken "temel reis olacaksın ye" diye verdiler gazı; yer yemez kustum. evet bildiğiniz kustum. o günden sonra da ağzıma sürmedim. temel reisin geçmişini sikeyim. yaşasın kabasakal.
-- entry_name: |
-    fernando francisco reges
-  entry_id:  70292122
-  entry_writer: mete han turkyilmaz
+    türk kızlarının sevgilisiz yaşayamamaları
+  entry_id:  70305628
+  entry_writer: garda
   entry_fav_count: 34
   entry_content: |
-    1600 devirde çalışıp hiç ses çıkarmayan çamaşır makinesi gibi bir şey. yemin ediyorum mucize...
-- entry_name: |
-    ilber ortaylı'nın stalin'e hıyar demesi
-  entry_id:  70301264
-  entry_writer: lukstar
-  entry_fav_count: 32
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>stalin ve sovyet halkı olmasa burada almanca entry girmek zorunda kalacak adamların stalin'e ağız dolusu küfretmeleri bizim değil psikiyatristlerin konusu olabilir ancak.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ybsg, wellington dükü olmasa da fransızca konuşacaktın, kitle katilinin tekine saygı dilenmek için bunlar ne ölçüsüz gerizekalılıklar yarabbim.
+    sevgilisiz yasayamamalari degil. <br/>trip atacagi, kopek cekecegi, ego tatmini yapacagi, kendisini tasitacagi, gezdirecegi, kisaca maddi ve manevi islerini ve ihtiyaclarini giderebilecegi biri olmadan yasayamamasi o.
 - entry_name: |
     iktidarsız olduğu için kocasından boşanan kadın
   entry_id:  70292223
   entry_writer: ningen janai
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     ayıp eden kadındır. sen hem iktidarsız ol hem de kocanı boşa çok ayıp.
 - entry_name: |
-    türk kızlarının sevgilisiz yaşayamamaları
-  entry_id:  70305628
-  entry_writer: garda
-  entry_fav_count: 29
+    ilber ortaylı'nın stalin'e hıyar demesi
+  entry_id:  70301264
+  entry_writer: lukstar
+  entry_fav_count: 33
   entry_content: |
-    sevgilisiz yasayamamalari degil. <br/>trip atacagi, kopek cekecegi, ego tatmini yapacagi, kendisini tasitacagi, gezdirecegi, kisaca maddi ve manevi islerini ve ihtiyaclarini giderebilecegi biri olmadan yasayamamasi o.
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>stalin ve sovyet halkı olmasa burada almanca entry girmek zorunda kalacak adamların stalin'e ağız dolusu küfretmeleri bizim değil psikiyatristlerin konusu olabilir ancak.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ybsg, wellington dükü olmasa da fransızca konuşacaktın, kitle katilinin tekine saygı dilenmek için bunlar ne ölçüsüz gerizekalılıklar yarabbim.
 - entry_name: |
     20 ağustos 2017 tottenham chelsea maçı
   entry_id:  70305429
@@ -206,17 +227,24 @@ data:
   entry_content: |
     koskoca chelsea'nin ilk 11'inde ingiltere marşının okuyacak bir ingiliz yok. skandal resmen. kraliçe elizabeth göreve!
 - entry_name: |
-    younes belhanda
-  entry_id:  70295683
-  entry_writer: 0 5 ucu olmayan adam
-  entry_fav_count: 22
+    lahmacunu rulo yapıp yiyen insan
+  entry_id:  70307191
+  entry_writer: aklazarar
+  entry_fav_count: 27
   entry_content: |
-    oguzhanla karşılaştırılması yanlış olan futbolcu.<br/><br/>oğuzhan 150 milyon aq. belhanda 7-8 civarı.
+    puahahahah bir adanali olarak tek tepkim bu oldu... amk lahmacun lan bu ayaginla yesen ne durup yesen ne<br/><br/>kebap ve turevleri pide vs... elle yenir hem de istedigin gibi yenir. istersen dur isterse sık istersen arasina gofret koy ye. <br/><br/>mal misiniz amk... her derdi siktiniz bir bu kaldi.
+- entry_name: |
+    bilinci açık hastayı yoğun bakıma yollamak
+  entry_id:  70306376
+  entry_writer: ben goncoloz
+  entry_fav_count: 27
+  entry_content: |
+    toplumda her şeyi ne kadar kolay genelliyoruz böyle. belki iç kanama şüphesi vardır. belki başka bir şeylerden şüpheleniliyor (doktor hastaneye varmadan da bir şeylerden şüphelenebilir.). oldu da orada hastan ölüp gitse, bu sefer de gerekli müdahale yapılmadı diye ağlarsın. <br/><br/>neden hepimiz her konunun uzmanıymış davranmak zorundayız? doktorun kararlarını araştırıp eleştirmeyin demiyorum. ama zaten eleştirmiyorsunuz ki... bir boktan anlamadan yargılıyorsunuz. belki yaşanmış, belki de ucuz bir hayal ürünü olan senaryonuzla bok atıyorsunuz. başka bir şey değil bu. bence en iyisi sen kendin iyileştir hastanı. bu ülkede nice kıymetli doktorların kıymeti, siz her boktan anlayan sığırlar yüzünden bilinmiyor. <br/><br/>not: doktor değilim.<br/><br/>edit: imla.
 - entry_name: |
     aykut kocaman
   entry_id:  70307481
   entry_writer: turkiyeden bikan pilot
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     vizyonuna kerkineyim hoca<br/><br/>topal&amp;josef ikilisinin elinde +18 kasetlerin mi var amk nedir bu ısrarın.
 - entry_name: |
@@ -227,33 +255,19 @@ data:
   entry_content: |
     harvard'da falan da yapıyorlar bu illeti. yazıklar olsun tüm üniversitelere. ders vermeden önce ekşisözlük okumaları gerekiyordu halbuki.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=83DaZ5s8Gbk">https://www.youtube.com/watch?v=83daz5s8gbk</a>
 - entry_name: |
-    bilinci açık hastayı yoğun bakıma yollamak
-  entry_id:  70306376
-  entry_writer: ben goncoloz
-  entry_fav_count: 19
+    kwadwo asamoah
+  entry_id:  70292475
+  entry_writer: yerel disk c
+  entry_fav_count: 17
   entry_content: |
-    toplumda her şeyi ne kadar kolay genelliyoruz böyle. belki iç kanama şüphesi vardır. belki başka bir şeylerden şüpheleniliyor (doktor hastaneye varmadan da bir şeylerden şüphelenebilir.). oldu da orada hastan ölüp gitse, bu sefer de gerekli müdahale yapılmadı diye ağlarsın. <br/><br/>neden hepimiz her konunun uzmanıymış davranmak zorundayız? doktorun kararlarını araştırıp eleştirmeyin demiyorum. ama zaten eleştirmiyorsunuz ki... bir boktan anlamadan yargılıyorsunuz. belki yaşanmış, belki de ucuz bir hayal ürünü olan senaryonuzla bok atıyorsunuz. başka bir şey değil bu. bence en iyisi sen kendin iyileştir hastanı. bu ülkede nice kıymetli doktorların kıymeti, siz her boktan anlayan sığırlar yüzünden bilinmiyor. <br/><br/>not: doktor değilim.<br/><br/>edit: imla.
+    puzzle'ın eksik parçası. çotank diye yerleşecek amk gelirse.
 - entry_name: |
-    lahmacunu rulo yapıp yiyen insan
-  entry_id:  70307191
-  entry_writer: aklazarar
-  entry_fav_count: 16
+    nicklerin yanında yazarların yaşının belirtilmesi
+  entry_id:  70302902
+  entry_writer: ramachandran
+  entry_fav_count: 12
   entry_content: |
-    puahahahah bir adanali olarak tek tepkim bu oldu... amk lahmacun lan bu ayaginla yesen ne durup yesen ne<br/><br/>kebap ve turevleri pide vs... elle yenir hem de istedigin gibi yenir. istersen dur isterse sık istersen arasina gofret koy ye. <br/><br/>mal misiniz amk... her derdi siktiniz bir bu kaldi.
-- entry_name: |
-    kadını itici ve sorunlu olan burçlar
-  entry_id:  70295264
-  entry_writer: ningen janai
-  entry_fav_count: 16
-  entry_content: |
-    evet dediğiniz gibi 12 çeşit kadın karakteri vardır ve bu karakterler arasında birkaç tanesi çok itici ve sorunludur. sonuçta milyarlarca kadın ve erkeğin karakterini tanımlamak için 12 neden yeterli bir sayı olmasın ki?<br/><br/>cehalet başa bela azizim.
-- entry_name: |
-    35 yaş üstü erkeklerdeki genç kız sevdası
-  entry_id:  70293648
-  entry_writer: kayranin kedisi
-  entry_fav_count: 14
-  entry_content: |
-    yaşıtları yılların tecrübesiyle 5 dakikada bundan bir bok olmayacağını anlıyordur. <br/>ve kahramanımız gözü açılmamış, duruma aydığında iş işten geçmiş olacak kızların peşine düşer.
+    oldu amk olmazsa (bkz: <a class="b" href="/?q=teen">teen</a>) (bkz: <a class="b" href="/?q=milf">milf</a>) (bkz: <a class="b" href="/?q=mature">mature</a>) diye kategori yapılsın.
 - entry_name: |
     3 aralık 2017 beşiktaş galatasaray maçı
   entry_id:  70303837
@@ -276,33 +290,26 @@ data:
   entry_content: |
     o mutluluk, hiçbir taktik uygulamadan kendiliğinden geliyorsa, ideal ilişki zaten odur. yoksa 3 gram mutlu olucam diye 250 gram taktik yapmam gerekiyorsa, o kadar çaba ile bekarken de o ilişkiyi yaşıyormuşcasına mutlu olursun zaten. mutluluğa giden tek yol ilişki değil zira.
 - entry_name: |
-    fenerbahçe
-  entry_id:  70292051
-  entry_writer: sensizdogangunesinaq
+    35 yaş üstü erkeklerdeki genç kız sevdası
+  entry_id:  70302529
+  entry_writer: fatlace
   entry_fav_count: 7
   entry_content: |
-    bazı kediseverlerin, kendi takımlarını övmek için, başlığı altında hikaye anlattıkları, en büyük.<br/><br/>öyle büyüktür ki, rakiplerinin tek derdi daha iyi olduklarını kanıtlamaya çalışmaktır.
+    "kadına aşık olan erkek geri zekalıdır," düsturunu kulağına küpe etmiş adamların, iki hoplatıp def edeceği maceralar arayışıdır. ileri yaştaki kadınlarla yatıp kalktığınızda, bir daha başka erkek bulamayacağını bildiği için size manyakça tutunuyor, bırakmıyor, uçurumdan düşecekmiş de bulduğu son dala tutunuyormuş gibi kavrıyor.<br/><br/>oysa genç kızları iki sikiyorsunuz, ablanın götü zaten fezada, ben elimi sallasam ellisi kıvamında yaşıyor, hadi kızım yoluna diyorsun, "üç kuruşluk adama beş kuruş değer verirsen, iki kuruşa seni satın almaya kalkar, susuyorsam asaletimdendir, ben kaybetmedim, beni kaybedenler düşünsün" gibi özlü sözler sıçıp siktirip gidiyorlar. mis.
 - entry_name: |
-    nicklerin yanında yazarların yaşının belirtilmesi
-  entry_id:  70302840
-  entry_writer: galaxi
-  entry_fav_count: 5
+    racon kesme'nin ingilizcesi
+  entry_id:  70307328
+  entry_writer: screenwriter
+  entry_fav_count: 4
   entry_content: |
-    (bkz: <a class="b" href="/?q=ak%c4%b1l+ya%c5%9fta+de%c4%9fil+ba%c5%9ftad%c4%b1r">akıl yaşta değil baştadır</a>)
+    (bkz: <a class="b" href="/?q=i+m+not+in+danger%2c+i+m+the+danger">i m not in danger, i m the danger</a>)
 - entry_name: |
-    aleyna tilki
-  entry_id:  70298390
-  entry_writer: acilmayan kavanoz
-  entry_fav_count: 5
+    jerry lewis
+  entry_id:  70307895
+  entry_writer: nick dusunurken yazarligi kacirdim
+  entry_fav_count: 4
   entry_content: |
-    iq'su 140 çıkmışmış. üstün zekalıymış. bugün habertürk'te yazıyor. at yalanını, şey yapıyım inananı... nasılsa kimse çıkıp ölçmeye çalışmıcak. <br/><br/>türkiye'de herkes üstün zekalı, herkesin çocuğu bir dahi, herkesin iqsu en az 140. herkes bizi kıskanıyor.<br/><br/>edit: zekasını desteklemek için kurduğu cümle de şuymuş: "üzerime yağdırılan karışıklıklar hoşuma gitti. paris, helena'yı kaçırmasaydı homeros ilyada destanı'nı nasıl yazacaktı?"
-- entry_name: |
-    counter-strike global offensive
-  entry_id:  70302545
-  entry_writer: dt strangelove
-  entry_fav_count: 3
-  entry_content: |
-    banlanmıyor anasını siktiklerim banlanmıyor.
+    bugün 91 yaşında aramızdan ayrılan komedi atası. umarım gittiği yerde <a class="b" href="/?q=dean+martin">dean martin</a> nerede kaldın diye paylıyordur dostunu. <br/><br/>ikisi de huzur içinde yatsın. bize çok güzellik bıraktılar.
 - entry_name: |
     metin türkcan
   entry_id:  70295309
@@ -318,12 +325,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=sa%c3%a7+ok%c5%9fama+makinesi">saç okşama makinesi</a>)<br/><br/>buna para veririm arkadaş. 10 saatlik uykunun üstüne bile saça temasta +2 saat daha deliksiz uyuyabiliyorum. hem kimsenin şefkatine borçlu olmadan sakinleşmek hem de yiğitliğe bok sürdürmemek adına çin halk cumhuriyeti yetkililerini göreve davet ediyorum. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  70295443
-  entry_writer: demesi kolay tabii
-  entry_fav_count: 2
+    avrupa'da neden sapıklık olmuyor sorunsalı
+  entry_id:  70292139
+  entry_writer: ogux
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=yer+mi+anadolu+%c3%a7ocu%c4%9fu">yer mi anadolu çocuğu</a>)<br/><br/>olmayan çükümle, tombala hareketi eşliğinde söyleyesim var hem de...<br/><br/>olm sizin neden maçanız yetmiyor dürüstlüğe? neden bu kadar zor ulan doğruyu söylemek?<br/><br/>valla bıktım şu fırsatçılıktan. git, buluş, seviş başkalarıyla ama bana ayak yapma gözünü seveyim. salak mı var karşında?!<br/><br/>1 değil 2 değilsiniz, valla bıktım.<br/><br/>büyüyün lan. koskoca insan oldunuz hala annesinin azarladığı, 6 yaşında çocuk gibisiniz.<br/><br/>evet abi, kızgınım. bıktım çünkü.<br/><br/>sizi yalan söylemeye sevk eden her şeyin içine pembe pembe sıçayım!!
+    (bkz: <a class="b" href="/?q=sap%c4%b1kl%c4%b1k+olmamas%c4%b1+sorunsal%c4%b1">sapıklık olmaması sorunsalı</a>)<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>- yıaa bu avrupa'da niye sapıklık yok, offf çok sıkıcı.
 - entry_name: |
     20 ağustos 2017 kayserispor göztepe maçı
   entry_id:  70308420
@@ -332,24 +339,17 @@ data:
   entry_content: |
     beto yine çıkardı penaltıyı helal olsun
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  70308782
-  entry_writer: pimpirik domates
-  entry_fav_count: 0
-  entry_content: |
-    volga nehri (turkish disco folk)<br/><br/>youtube'a girdiğim gibi bu gözüme çarptı önerilenlerde. aşırı bi ısınamadım ama hakkaten şu günlerde dinleyemeyeceğiniz bişey bi göz atmanızı tavsiye ederim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=DBlyYESAmQU" title="https://www.youtube.com/watch?v=DBlyYESAmQU">burdan</a>
-- entry_name: |
-    racon kesme'nin ingilizcesi
-  entry_id:  70307165
-  entry_writer: emilinho
-  entry_fav_count: 0
-  entry_content: |
-    yok cutting the rakun.
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  70305933
-  entry_writer: butundunyaaskolsun
+  entry_id:  70293238
+  entry_writer: makrobrain
   entry_fav_count: 0
   entry_content: |
-    ordan burdan sohbet icin yesillendirebilirsiniz.
+    bir ilişki hakkında tavsiye verecek olan 20-26 arası kadın yazarlar varsa beklerim. <br/><br/>sözlük dışı için <a rel="nofollow noopener" class="url" target="_blank" href="https://connected2.me/ekininiz">https://connected2.me/ekininiz</a>
+- entry_name: |
+    burak yılmaz
+  entry_id:  70308963
+  entry_writer: qazedcsrfvtyhngujmkol
+  entry_fav_count: 0
+  entry_content: |
+    tam sevmiyorum seni sutoglan derken volkanı yine avladı. gsdeyken de sevmezdim fenerde de oynadı hiçbi halt yapamadı meğer herifin derdi fenere abuk sabuk goller atıp taraftardan küfür yemekmiş.
 ---
