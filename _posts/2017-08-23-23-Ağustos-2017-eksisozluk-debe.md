@@ -6,91 +6,77 @@ data:
     kılıçdaroğlu'nun atletli fotoğrafı hakarettir
   entry_id:  70343920
   entry_writer: denekadam
-  entry_fav_count: 619
+  entry_fav_count: 627
   entry_content: |
     kılıçdar kısmı hikaye. <a class="b" href="/?q=atat%c3%bcrk">atatürk</a> demesi asıl bomba.
-- entry_name: |
-    konyaspor başkanı ahmet şan'ın istifa etmesi
-  entry_id:  70343122
-  entry_writer: yeni bela husnu
-  entry_fav_count: 498
-  entry_content: |
-    kendisini izmir marşıyla uğurluyoruz.
 - entry_name: |
     ali şen'in imama masalı kes demesi
   entry_id:  70347993
   entry_writer: portaka lordaka
-  entry_fav_count: 423
+  entry_fav_count: 438
   entry_content: |
     adamın söyledikleri masal, yaptığı ise şovdur. ali şen'i kutlamak lazım, bu yaptığı gayet yerinde bir davranış. allah kelamı anılınca sanki galaksinin yaratıcısı o ortamdaymış gibi suspus olan, her şeye eyvallah diyen insanlara örnek olmalı.
 - entry_name: |
     sokak kedisinin gözünü çıkaran sadist kız
   entry_id:  70337147
   entry_writer: aspikemantar
-  entry_fav_count: 369
+  entry_fav_count: 374
   entry_content: |
     <a class="b" href="/?q=%c3%bcst+edit">üst edit</a>: nerede bu karıyı savunan yavşaklar, çıksanıza şimdi piyasaya? alın size istediğiniz kanıt: (bkz: <a class="b" href="/entry/70352299">#70352299</a>)<br/><br/>merhabalar,<br/><br/>az önce facebook üzerinde 4 saat kadar önce paylaşılmış bir gönderiye denk geldim, ekşide aradım ama bununla ilgili bir başlığa denk gelemedim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/ayfer.karakus.5/posts/10155617562378850" title="https://www.facebook.com/ayfer.karakus.5/posts/10155617562378850">facebook üzerindeki gönderi</a>de (<a class="b" href="/?q=kedinin+yaralanm%c4%b1%c5%9f+%2b18+g%c3%b6rseli+bulunmakta">kedinin yaralanmış +18 görseli bulunmakta</a>) bahsi geçen kişinin kedinin yaralı fotoğrafını içeren paylaşımı, profil bilgileri ve kediye neden zarar verdiğine dair sorulan sorulara verdiği vicdansız, insanlıktan nasibini alamamış cevaplar bulunuyor. gönderiyi paylaşan kişinin yazdıklarını aynen alıntılıyorum:<br/><br/>"acil kedinin gözlerini oyan sude andaş adlı kişinin yakalanması ve ceza alması için lütfen paylaşın!!!!<br/>sakarya da yaşadığı yazıyor!<br/>profilinde sadist olduğu yazıyor"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/29B872.jpg" title="https://i.hizliresim.com/29B872.jpg">kızın kendi hesabından paylaştığı zarar verdiği kediyi içeren fotoğraf</a> (açmamanızı tavsiye ederim, insanın içi yanıyor)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3qQYB0.jpg" title="https://i.hizliresim.com/3qQYB0.jpg">konuşma 1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/PrmPvd.jpg" title="https://i.hizliresim.com/PrmPvd.jpg">konuşma 2</a><br/><br/>hesap bilgilerini buradan paylaşmıyorum, ulaşmak isteyenler verdiğim linkteki gönderide bulunan diğer görsellerden ulaşabilir.<br/><br/><a class="b" href="/?q=edit">edit</a>: ciddi bir ihbar sayısına ulaşılırsa konuyla ilgilenilmesini ve bu kişinin cezasını çekmesini sağlayabiliriz, görselleri kullanarak internet üzerinden şikayette bulunmak için:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bimer.gov.tr/">https://www.bimer.gov.tr/</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.egm.gov.tr/sayfalar/ihbar.aspx">https://www.egm.gov.tr/sayfalar/ihbar.aspx</a><br/><br/><a class="b" href="/?q=edit+2">edit 2</a>: tekrardan merhaba,<br/><br/>henüz çok az ilgi gören bir change.org kampanyası başlatılmış, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/sude-andaş-cezasız-kalmasın?recruiter=53405313&amp;utm_source=share_petition&amp;utm_medium=facebook&amp;utm_campaign=share_petition&amp;utm_term=autopublish" title="https://www.change.org/p/sude-andaş-cezasız-kalmasın?recruiter=53405313&amp;utm_source=share_petition&amp;utm_medium=facebook&amp;utm_campaign=share_petition&amp;utm_term=autopublish">buradan</a> destek verebilirsiniz.<br/><br/>ihbar için nasıl bir yöntem izleneceğine dair mesaj aldım, ihbar için kullanılmaz üzere bir taslak bırakıyorum buraya:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.egm.gov.tr/sayfalar/ihbar.aspx">https://www.egm.gov.tr/sayfalar/ihbar.aspx</a><br/><br/>ili: sakarya<br/>ilçe: serdivan<br/>konu: sokak kedisine zarar veren cani<br/>olay yeri: tahminen sakarya/serdivan<br/><br/><a class="b" href="/?q=a%c3%a7%c4%b1klama">açıklama</a>: sosyal medya hesapları üzerinde sakarya, serdivan bölgesinde yaşadığı görünen "sude andaş" isimli kişinin yine kendi sosyal medya hesabı üzerinden paylaştığı, bir sokak kedisinin gözünü çıkarttığı bir fotoğraf bulunmaktadır. kendisine bu konu hakkında yöneltilen sorulara verdiği olayı kabul ettiği yanıtlar ve konuyla ilgili diğer görsellere aşağıdaki linkten ulaşılabilir. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/ayfer.karakus.5/posts/10155617562378850?pnref=story" title="https://www.facebook.com/ayfer.karakus.5/posts/10155617562378850?pnref=story">https://www.facebook.com/…5617562378850?pnref=story</a><br/><br/>konuyla ilgili detaylı araştırılmanın yapılmasını ve bahsi geçen kişi hakkında gerekli yasal işlemlerin yapılmasını arz ediyorum.<br/><br/>ek belgeler: bu kısma da facebook üzerinde paylaşılan fotoğrafları bilgisayarınıza indirebilir ve ekleyebilirsiniz.<br/><br/><a class="b" href="/?q=edit+3">edit 3</a>: kediye zarar verenin bahsi geçen kişi olmayabileceğine dair yazılanlar ve <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/70345883" title="https://eksisozluk.com/entry/70345883">şu</a> entry'de bahsi geçen konuya yanıt vermek istiyorum. hatta arkadaşın konuyu çarpıtmak için (!) aradan tek cümlemi aldığı tüm konuşmayı ekliyorum buraya:<br/><br/>yargısız infaz niyetinde ya da hak etmeyen birinin durduk yere sosyal lince kurban gitmesi taraftarı değilim, ancak kendisine yöneltilen sorulara verdiği "ne olacak, dava mı edeceksin" gibi insanlık dışı cevaplar beni olayı gerçekleştiren kişinin bu kız olduğunu düşünmeye itiyor.<br/><br/>eğer bahsedildiği gibi bir durum olsaydı ani bir korkuyla kaçmak, sosyal medya hesaplarını bir bir kapatmak yerine çıkıp olay daha da büyümeden özür diler, bir açıklama yapardı bana kalırsa. ayrıca farz edelim ki bu entryler'de söylenenler doğru olsun, yani sokakta gördüğü yaralı bir kedinin fotoğrafını çekip kendi yapmış gibi lanse etmiş olsun, bu da benim gözümde kediye zarar veren kişi olmaktan farksız.<br/><br/>yaralı, savunmasız bir hayvana yardım eli uzatmak yerine böyle bir cani amaca alet eden kişi henüz böyle bir eylemde bulunmadıysa bunun tek sebebi vardır, henüz yeterli imkan ve gücü elinde bulamamıştır. uygun şartlar oluştuğunda eminim ki başka bir canlıya benzeri bir zararı vermekte tereddüt etmeyecektir.<br/><br/>yapan kişi o değilse bile dersini erken almalı, ibreti alem olmalı.
 - entry_name: |
     erkeği itici ve sorunlu olan burçlar
   entry_id:  70334340
   entry_writer: incirliturta
-  entry_fav_count: 310
+  entry_fav_count: 311
   entry_content: |
     haydi kızlar buraya ayrıldığımız erkek arkadaşımızın burcunu yazıyoruz, temalı başlık.
 - entry_name: |
     22 ağustos 2017 sedat peker'in açıklaması
   entry_id:  70339187
   entry_writer: yarim hayat
-  entry_fav_count: 220
+  entry_fav_count: 222
   entry_content: |
     açıklamalarından da anlaşılacağı üzere<br/>liseli ergenlerden herhangi bir farkı olmayan kişi. eşcinsel insanlara nefret söylemi var ayrıca. ve ayrıca kadınsızlık ne demek ? kadınsızlıktan birbirini badelemek ne demektir ? kadınları sex objesi olarak gören ve hem kadınlara, hem eşcinsel insanlara nefret söylemi olan bir zavallı beyanıdır. ayrıca kendisi de uzun yıllar cezaevinde kalmadı mı? ne yaptın kadınsız cezaevinde ? kendini mi parmakladın yada sırayla mı geçtiler diye sormak istiyorum burdan kendisine. bir de yazının sonuna reis sedat peker yazmış. sana reis deyip götünü kaldıranın da, seni adam yerine koyanın da ben taa ... adımından kalan izler lekedir bu topraklarda. bu ülkenin sana ve senin gibilere ihtiyacı yok. mide bulantısından başka birşey değilsiniz ...
-- entry_name: |
-    hiç kitap okumadan zengin olan insan
-  entry_id:  70339498
-  entry_writer: nefesless
-  entry_fav_count: 193
-  entry_content: |
-    kitaplar ruhu zenginleştirir. sen konuyu çok yanlış anlamışsın cüzdan adam.
 - entry_name: |
     robin van persie
   entry_id:  70339983
   entry_writer: cakabo
-  entry_fav_count: 155
+  entry_fav_count: 157
   entry_content: |
     "oğlumla evimizin bahçesinde futbol oynarken, ikimiz de en sevdiğimiz futbolcular olurduk. o, ben olurdu, ben ise takımdan ayrı düz koşu."<br/><br/>robin van persie
 - entry_name: |
     kokusu yaşam sevincini arttıran şeyler
   entry_id:  70336285
   entry_writer: 5 dolarlik milkshake
-  entry_fav_count: 147
+  entry_fav_count: 150
   entry_content: |
     yok sevgilim, yok sevgilimin boynu, yok efenim sevgilimin kulağının arkası, koltuk altı şeklinde entry yazan zevzekleri bir kenara <sup class="ab"><a title="(bkz: yalnızım orospu çocukları)" href="/?q=yaln%c4%b1z%c4%b1m+orospu+%c3%a7ocuklar%c4%b1" data-query="yalnızım orospu çocukları">*</a></sup>, çimen kokusu, kahve kokusu gibi klişe düşkünlerini diğer tarafa bırakırsak kesinlikle tek bir şey kalır geriye:<br/><br/>(bkz: <a class="b" href="/?q=kokore%c3%a7">kokoreç</a>) <br/><br/>olm bu nasıl bir kokudur ki en tok olduğum zaman bile hayvan gibi kokoreç çektirir insanının canını. gözlerim açılıyor kokuyu alınca! nhaaaa kokoreç diye bağırmak, koşup koca şişi dişlemek istiyorum!<br/><br/>kokoreç yiyin!
-- entry_name: |
-    evli erkeğin arkadaşlarıyla 2 saat takılması
-  entry_id:  70351613
-  entry_writer: bgmdnz
-  entry_fav_count: 102
-  entry_content: |
-    gerizekalı kadınlarla evlenen erkeklerin dramıdır bu.
 - entry_name: |
     periscope'u açık unutup osurarak uyumak
   entry_id:  70352161
   entry_writer: hehe
-  entry_fav_count: 97
+  entry_fav_count: 128
   entry_content: |
     (bkz: <a class="b" href="/?q=habire+g%c3%b6tten+zarto">habire götten zarto</a>)<br/><br/>şu başlığın da engellendiği gün hayatımın en büyük kahkahasını atacağım. davada bu sözün söyleniyor olduğunu düşündükçe gülme geliyor.
 - entry_name: |
-    lionel messi
-  entry_id:  70345843
-  entry_writer: tai
-  entry_fav_count: 96
+    evli erkeğin arkadaşlarıyla 2 saat takılması
+  entry_id:  70351613
+  entry_writer: bgmdnz
+  entry_fav_count: 126
   entry_content: |
-    beşiktaş'a gelirse bu tinerciler onu hemen dünyanın en iyi futbolcusu ilan edecekler izleyin ve görün.
+    gerizekalı kadınlarla evlenen erkeklerin dramıdır bu.
+- entry_name: |
+    türk çocuklarına arap ismi verilmesi
+  entry_id:  70347498
+  entry_writer: yoga yapan mistiq kedi
+  entry_fav_count: 99
+  entry_content: |
+    atilla (tanrı'nın kırbacı)<br/>bilgekağan (bilge imparator)<br/>bengü (sonsuzluk)<br/>bahadır (kahraman)<br/>olcay (talih, açık talih)<br/>asena (dişi kurt, efsanevi dişi kurt)<br/>acun (dünya, yeryüzü)<br/>beril (cömert, eli açık)<br/>burçin (dişi geyik)<br/>çağdaş (anlamı malumunuz)<br/>ilkutay<br/>çağla (namuslu, dürüst)<br/>deniz (anlamı malum)<br/>gökbörü<br/>gökçe <br/>kültigin (yenilmez prens)<br/>doğa (bunun da anlamı malumunuz)<br/>emre (aşık)<br/>timuçin<br/>ezgi (anlamı malum)<br/>mete (soylu, saygıdeğer)<br/>öykü<br/>taylan (beyefendi)<br/>selen (temiz, namuslu)<br/>sevim<br/>pelin<br/>tansu <br/>timur<br/>turgut (uzun ömürlü)<br/>tülin (ayın çevresindeki ışık haresi)<br/>utku<br/>varol<br/>yıldız<br/>yeliz<br/><br/>20 tane isim sayabilir misiniz denilmiş, aha size bir çırpıda çevremdeki kişilerin isimlerini sayayım. anlamlarını bildiklerimi de yazdım.<br/>şimdi bana "çocuğa dişi kurt anlamına gelen isim konur mu?" diye çıkışanlar olacaktır. olsun. ücret (ecrin) ya da sol el (yüsra) gibi anlamsız şeyler koymaktansa dişi kurt anlamına gelen ismi koyarım.<br/><br/><a class="b" href="/?q=edit">edit</a>: ceylin, yengeç demek. aleyna da "üstümüze" anlamına geliyor, bir de ilayda var o da su perisi demek.
 - entry_name: |
     postmodernizm
   entry_id:  70338222
   entry_writer: fisin fisi
-  entry_fav_count: 94
+  entry_fav_count: 97
   entry_content: |
     bazı düşünürlere göre 21. yüzyılın entelektüel vebası. yüzyılımızın düşünce sistemini ve eğitim kurumlarını ele geçirmiş bir salgın. neden böyle düşündüklerine dair, <a class="b" href="/?q=jordan+peterson">jordan peterson</a>'ın söylediklerinden birkaç toparlama:<br/><br/>postmodernizme göre hakikat özneldir. bu sebeple de bir değer sistemi yoktur. bir değer sistemi yoktur, çünkü ahlak sistemleri de hep görelidir. bu durumda <a class="b" href="/?q=nietzsche">nietzsche</a> örneğin, insanın kendi içinden çıkan üstün bir ahlak anlayışını, <a class="b" href="/?q=%c3%bcstinsan">üstinsan</a>'ın ahlakını öngörmüştü. postmodernistler ise ahlakın varlığını temelden reddederler. her şey yorumlamadır (<a class="b" href="/?q=interpretation">interpretation</a>).<br/><br/><a class="b" href="/?q=marksizm">marksizm</a>'in daha önce ortaya attığı işçi sınıfı vs. burjuvazi kavgası, postmodernizm'de oppressed (ezilen) vs. oppressor (ezen) kavgasına genişletilmiştir. tabii ilk başta mantıklı gibi görünse de üzerine düşünülünce ezen vs. ezilen kavgasının bir dipsiz kuyu olduğu anlaşılır: herkes bir ya da birkaç yönüyle "diğerlerinden" geridedir. bu da o kişinin kendisini bir şekilde ezilen sınıfına sokabilmesini meşru kılar. örneğin, zeki olmayanlar, boyu kısa olanlar, ılımlı müslümanlar, lgbtq community'den olanlar vesaire vesaire. bu tasnifin sonu yok. bir kişi kendisini onlarca yönden ezilen ve başka onlarca yönden ezen sınıfına sokabilir. fakat gözümüze sokulan hep mağduriyetler olduğu için, böyle bir durumda herkes "ben de mağdurum ulan!" diye bağırır durur. evet birader, sen de mağdursun. dur iki dakka.<br/><br/>nihayetinde postmodernizm bireyselliğe de inanmaz, çünkü her bir birey, ezilmiş bir komunitenin üyesi konumundadır onun için. "kimsin?" sorusunun cevabı, bir lgbtq sempatizanı olmak, bir siyahi olmak, bir kadın olmaktır. bir birey olmak değildir. <br/><br/>postmodernizm entelektüel açıdan çekicidir, ama fikirsel olarak kuruluşunda payı olan <a class="b" href="/?q=mant%c4%b1k">mantık</a>'ı da reddeder. ona göre mantık, güçlü olan sınıfın güçsüz olan sınıf üzerinde hegemonyasını güçlü kılmak üzere yarattığı bir oluşumdur. bizim alıştığımız üzere nesnel doğruya ulaştıran bir kavram değildir yani. zaten postmodernizm'de nesnel doğru yoktur demiştik, di mi? başka ne yok peki? <a class="b" href="/?q=diyalog">diyalog</a> da yok. diyalog kelimesi <a class="b" href="/?q=logos">logos</a> köküne sahip olup (mantık, yani <a class="b" href="/?q=logic">logic</a> de aynı kökten gelir) iki kişinin birbiriyle konuşup fikir alışverişinde bulunarak doğruyu bulabileceğini öngörür. postmodernizm bunu da reddeder!<br/><br/>bir de, topluma "you cannot refer to me with that pronoun" yahut "did you just assume my gender?" gibi kanser kalıpların girişinin sorumlusu da postmodernist ideolojidir. postmodernizme göre <a class="b" href="/?q=gender+identity">gender identity</a>(cinsiyet kimliği) özneldir. haydaaa, bu da mı? öyle. nitekim, karşınızdaki bir kadına <a class="b" href="/?q=her">her</a> ve <a class="b" href="/?q=she">she</a> kullanarak hitap etmek, batıda marjinalize olmuş bir kesim tarafından linç edilme sebebi olma yolunda emin adımlarla gidiyor. ısrarla "bana <a class="b" href="/?q=ze">ze</a> ile yahut <a class="b" href="/?q=xe">xe</a> ile hitap edeceksin" diyen bir güruh türedi. hatta sadece türemekle kalmadı, kanada'da <a class="b" href="/?q=bill+c16">bill c16</a> sayesinde artık eğer bir kişi size "bana şu pronoun ile hitap edeceksin" derse, o pronoun'u kullanmazsanız hukuken suç işliyorsunuz. daha önce, insanın konuşmasına figürsel bir zorunluluk getiren buna benzer bir yasa gelmemişti. jordan peterson bu yasanın ifade özgürlüğünü kısıtladığını düşünüyor. ona göre, böyle bir yasanın varlığı, önleyici ('bana şöyle hitap edemezsin') olacaksa mümkündür ama zorlayıcı ("bana şöyle hitap etmek zorundasın") olacaksa mümkün olmamalıdır. hele hele, bu türetilmiş (<a class="b" href="/?q=neologism">neologism</a>) saçma sapan kelimelerin bu ideolojiye sahip olmayan birisine söyletilmesinin zorunlu kılınması hiç mümkün olmamalıdır!<br/><br/><a class="b" href="/entry/70338017">#70338017</a>'de de söylendiği gibi, <a class="b" href="/?q=feminist">feminist</a>ler ve <a class="b" href="/?q=social+justice+warrior">social justice warrior</a>'lar bu ideolojinin eseridir. bunu başımıza saldıkları için <a class="b" href="/?q=jacques+derrida">jacques derrida</a>, <a class="b" href="/?q=jacques+lacan">jacques lacan</a>, <a class="b" href="/?q=michel+foucault">michel foucault</a> ve <a class="b" href="/?q=gilles+deleuze">gilles deleuze</a>'e teşekkürü borç biliriz<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
@@ -101,12 +87,12 @@ data:
   entry_content: |
     umalım ki bulaşıcı bir cinsel hastalığı olmayan erkektir. çocuğu aldırabilirsin ama aids i zor aldırırsın.
 - entry_name: |
-    türk çocuklarına arap ismi verilmesi
-  entry_id:  70347498
-  entry_writer: yoga yapan mistiq kedi
-  entry_fav_count: 90
+    sözlük yazarlarının geçirdiği en kötü sene
+  entry_id:  70337249
+  entry_writer: eon blue apocalypse
+  entry_fav_count: 87
   entry_content: |
-    atilla (tanrı'nın kırbacı)<br/>bilgekağan (bilge imparator)<br/>bengü (sonsuzluk)<br/>bahadır (kahraman)<br/>olcay (talih, açık talih)<br/>asena (dişi kurt, efsanevi dişi kurt)<br/>acun (dünya, yeryüzü)<br/>beril (cömert, eli açık)<br/>burçin (dişi geyik)<br/>çağdaş (anlamı malumunuz)<br/>ilkutay<br/>çağla (namuslu, dürüst)<br/>deniz (anlamı malum)<br/>gökbörü<br/>gökçe <br/>kültigin (yenilmez prens)<br/>doğa (bunun da anlamı malumunuz)<br/>emre (aşık)<br/>timuçin<br/>ezgi (anlamı malum)<br/>mete (soylu, saygıdeğer)<br/>öykü<br/>taylan (beyefendi)<br/>selen (temiz, namuslu)<br/>sevim<br/>pelin<br/>tansu <br/>timur<br/>turgut (uzun ömürlü)<br/>tülin (ayın çevresindeki ışık haresi)<br/>utku<br/>varol<br/>yıldız<br/>yeliz<br/><br/>20 tane isim sayabilir misiniz denilmiş, aha size bir çırpıda çevremdeki kişilerin isimlerini sayayım. anlamlarını bildiklerimi de yazdım.<br/>şimdi bana "çocuğa dişi kurt anlamına gelen isim konur mu?" diye çıkışanlar olacaktır. olsun. ücret (ecrin) ya da sol el (yüsra) gibi anlamsız şeyler koymaktansa dişi kurt anlamına gelen ismi koyarım.<br/><br/><a class="b" href="/?q=edit">edit</a>: ceylin, yengeç demek. aleyna da "üstümüze" anlamına geliyor, bir de ilayda var o da su perisi demek.
+    1985-2017 hâlâ ısrarla devam etmekte.
 - entry_name: |
     22 ağustos 2017 memur maaş zammı
   entry_id:  70337288
@@ -115,20 +101,6 @@ data:
   entry_content: |
     3 - müzakere edilemez<br/>3.5 - müzakere edilebilir imzaya uzak<br/>4 - anlaştık<br/><br/>hiç toplu sözleşme masası kurulmasa memur %5'i alacakken adamlar öyle bir pazarlık yapıyor ki, görüşmeler uzasa memur borçlu çıkacak.<br/><br/>memur sen'i yetkili sendika yapan tüm üyelerine saygılarımı sunuyorum. bu sendikada devam edecekseniz bana selam vermeyin, çünkü sizin yüzünüzden fakirlik çekiyorum, kalbinizi kırarım.
 - entry_name: |
-    sözlük yazarlarının geçirdiği en kötü sene
-  entry_id:  70337249
-  entry_writer: eon blue apocalypse
-  entry_fav_count: 86
-  entry_content: |
-    1985-2017 hâlâ ısrarla devam etmekte.
-- entry_name: |
-    yeni evlenen erkeğin yaşayacakları
-  entry_id:  70349150
-  entry_writer: peitho the non goddess
-  entry_fav_count: 76
-  entry_content: |
-    arkadaşım sana tavsiyem lütfen evlenme. çünkü sen evliliği kalıplaşmış türk tarzında anlıyorsun. senin gibiler bence evlenmemeli. yanlış anlama sadece evlenmiş olmak için evlenenlerin ülkesi burası. yani mutsuz insanların ülkesi. ben kendimden örnek vereyim sevgilimi çok seviyorum. biz her şeyden önce iki dostuz. gözlerinin içine bakınca ben orada samimiyet görüyorum o da ben de görüyor. herkes bir yana biz bir yana. beraber eğleniyoruz, beraber dertleşiyoruz, beraber susuyoruz bazen. evlilik planları da yapıyoruz. çünkü sabah beraber uyanıp beraber kahvaltı yapıp hayvan gibi yeyip içelim istiyoruz. beraber film, belgesel izleyip sonrada üzerine muhabbet çevirelim istiyoruz. aileden izin almaya gerek kalmadan gecenin bir vakti sokağa çıkıp çiğ köfte yiyelim sabaha karşı birer tek atıp dönelim istiyoruz. tatillerde şehir şehir gezelim bol bol sanatsal fotoğraf çekelim istiyoruz. eve playstation alıp istediğimiz kadar oyun oynayıp eğlenelim istiyoruz. iş sonrası hadi bu akşam bir kaçamak yapalım deyip pizza, cips, kola ne kadar abur cubur varsa yiyelim bir de yanına film açalım istiyoruz. eve arkadaşlarımızı çağırıp şöyle güzel bir rakı sofrası kuralım, etkili bir plak eşliğinde felekten bir gece çalalım istiyoruz. her yıl izin döneminde yurtdışında görmediğimiz bir ülkeye seyahat edip ufkumuzu genişletelim istiyoruz. bizim için evlilik beraberken mutlu olduğumuz insanla bir ömrü beraber geçirip mutlu olmak anlamına geliyor. senin verdiğin örneklere ve rahatsız olduğun şeylere bakılırsa sen bu kadına bağlı değilsin. bağlanma niyetinde de değilsin. sadece evlenmek için evleneceksin. evlenme sebebini bile yaş geldi artık olarak dile getiriyorsun. karşındaki kadında evlilik için uygun gördüğün kriterler bundan 300 yıl önce osmanlı döneminde köyde ot biçen süleymanınkiyle aynı. ne demek istediğimi umarım anlatabilmişimdir. sen sen ol sakın evlenme!<br/><br/>edit: eşcinsel ruhlu olduğumu iddia edip kadın olduğumu öğrenince özür dileyen ve yazıyı bir erkeğin yazdığını düşünerek eşcinsel ruhlu yakıştırması yaptığını dile getiren bir yazar oldu. işte toplumun yozlaşmış sorunu bu zaten. bir erkek duygusal olamaz, bir erkek aşkını en güzel cümleler ile anlatamaz. cahil dostlar, en güzel şairler erkekler arasından çıkar. en güzel dizeleri erkekler yazar. mesele erkek kadın olmak değil mesele sizin cahil, uçkurcu ve duygusal zekası düşük yaratıklar olmanız. mesele sizlerin yetiştirilme tarzınız.
-- entry_name: |
     murat başoğlu
   entry_id:  70336222
   entry_writer: fly84
@@ -136,17 +108,10 @@ data:
   entry_content: |
     kendisini cani gonulden tebrik ediyorum turkiye gibi bir ulkede rezil olmayi basardi kendileri.
 - entry_name: |
-    hakan hepcan
-  entry_id:  70334311
-  entry_writer: aldo baggins
-  entry_fav_count: 63
-  entry_content: |
-    kendisinin linç edilmesi şu an tam bir <a class="b" href="/?q=black+mirror">black mirror</a> parodisidir.
-- entry_name: |
     birayı rakıya tercih eden insan
   entry_id:  70346495
   entry_writer: pyschedelic smurf
-  entry_fav_count: 62
+  entry_fav_count: 66
   entry_content: |
     mezeden fasıldan anlamıyorum hava güzel yorgun eve geldim şimdi açtım <a class="b" href="/?q=beck%27s">beck's</a>i lıkır lıkır yudumluyorum. ferah yumuşak, ayrıca kusturan iğrenç anason tadı da yok. nitekim rakının kokusunu almamak için lıkır lıkır içenlerdenim.<br/><br/>o kadar iğrenç bir alkol düşünün ki sek içilmiyor içine su katıyorsun yetmiyor yanında su içiyorsun ve evet yetmiyor bir şeyler yiyorsun. sonra da bu içkiyi övüyorsun
 - entry_name: |
@@ -167,16 +132,23 @@ data:
     yurtdışındayken en çok özlenen şeyler
   entry_id:  70340271
   entry_writer: isolated system
-  entry_fav_count: 53
+  entry_fav_count: 55
   entry_content: |
     taharet musluğu
 - entry_name: |
     akp'den önce wc fiyatının 1 milyon olması
   entry_id:  70344288
   entry_writer: belacicegi
-  entry_fav_count: 51
+  entry_fav_count: 55
   entry_content: |
     bokumuz bile para ediyordu bir zamanlar...onun bile degeri düştü
+- entry_name: |
+    chp ve hdp'nin ittifak yapması lazım
+  entry_id:  70347313
+  entry_writer: istanbul mebusu ferruh kuku
+  entry_fav_count: 51
+  entry_content: |
+    evet yapmaları gerekir de, bunu diyen adam bir zahmet 2014 yerel seçimleri'nde istanbul'dan büyükşehir belediye başkanı adayı olmayacaktı.
 - entry_name: |
     ev baskınında para ve altın çalan polis
   entry_id:  70342575
@@ -184,13 +156,6 @@ data:
   entry_fav_count: 49
   entry_content: |
     hırsız polis.
-- entry_name: |
-    chp ve hdp'nin ittifak yapması lazım
-  entry_id:  70347313
-  entry_writer: istanbul mebusu ferruh kuku
-  entry_fav_count: 49
-  entry_content: |
-    evet yapmaları gerekir de, bunu diyen adam bir zahmet 2014 yerel seçimleri'nde istanbul'dan büyükşehir belediye başkanı adayı olmayacaktı.
 - entry_name: |
     zengin koca aramayan kız
   entry_id:  70341916
@@ -213,24 +178,17 @@ data:
   entry_content: |
     kadın için aşık olmak o kadar da önemli değildir. kadın doğası gereği bir kelimeye, bir kokuya, bir bakışa aşık olabilir.<br/>aşk kadının bir organı gibidir, bir çok kez, bir çok şeye aşıkca davranabilir.<br/>aynı kadın bir anda, hiç ummadığın anda, onun seni asla bırakamayacağına en emin olduğun anda, hayatından kaybolabilir.<br/>bir gece önce gözlerine aşkla bakıp, tüm şehvetiye sevişen kadın sabah usulca seni terk etmiş olabilir.<br/>bu dünyanın en güçlü ilan edilen kadınları bile,kırılgan ve savunmasızdır.<br/>çabuk ağlatabilirsin bir kadını ama bu sana olan aşkının alevini de çabuk söndürmen demektir. <br/>kadın senin için kaç kez ağladıysa senden o kadar uzaklaşmıştır aslında.<br/>bir kadına herşeyi unutturabilirsin, ama neden ağladığını ve o'nu kimin ağlattığını asla!<br/>kadın aşık olduğu her neyse onu uzun süre inceler, ezberler, bekler.aklının bir köşesinde sağlamasının bile sağlamasını yaptığı hesaplar yapar.<br/>kadını bütün hayatı boyunca kendine hapsetmek senin elindedir. <br/>hayatı boyunca seni adi bir pişmanlık olarak hatırlamasını sağlamakta öyle.<br/>bir kadın sana gerçekten aşık olduysa o an için dünyasının merkezi sensindir. seni düşünür, seni özler, seni kıskanır, seni hatırlar, sana kızar, sana küser.<br/>ama tüm bunlar bir sabah aniden yerini müthiş bir boşluğa bırakabilir.seni dünyasının merkezin koymuş bir kadın yerini yadırgayıp, yadırmadığını hisseder.<br/>orayı hakedip, haketmediğini çoktan ölçüp, tartmıştır.kadınlar aşık olunca sarhoş olmuş gibidir ve ayılıp ayılmaması da yine senin elindedir.ayıldığı an seni tanıyor olmak bile onu rahatsız edecektir.<br/>bir kadın erkeğe binlerce şans verir. söylenen yalanları bilir, çoğunu belli etmez. kadınların erkekleri köşeye sıkıştırma derdi yoktur. ki zaten bundan hoşlanmazlar.biriktiren ve kusan varlıklardır.<br/>bir kadının vazgeçemeceği tek erkek güvendiği erkektir.kime aşık olurlarsa olsunlar, bir gün mutlaka en güvendikleri adama geri döneceklerdir..kadın kolay aşık olduğu kadar, zor güvenir!<br/>güvendiği adamın sevgisinden emindir.sana aşık bir kadın, bir süre sonra rotasını ona sadık bir adama çevirecektir.şüpheyle yaşamak kadınlara göre değildir.seninle göz göze geldiği an, gözlerindeki telaşı da, sakinliği de görür.<br/>kadın için vazgeçilmez olmanın tek yolu güvendiği adam olmaktır.içine şüphe düştüğü an aşkı mum gibi erimeye başlar.<br/>her gün biraz daha yok olursun içinde.ama sana değişme fırsatı da sunar.değişip, değişmeyeceğini anlamak için belki binlerce kez gidip, geri döner.<br/>aşık kadın, sadık kadındır.senin o'nu yarı yolda bırakmayacağına eminse seninle adımlarını,hatta kendini paylaşır.kadın için erkeğinin dürüstlüğü ile övünebilmekten daha gurur verici tek bir şey yoktur.kadınlar, erkekler tarafından sahiplenilmeye ve korunmaya ihtiyaç duyarlar.<br/>erkeğinin omzunun yalnız o'nun başına ait olduğundan emin olmak isterler.<br/>bana bu dünyanın en olması gereken şeyi sorulursa;"kadınına sadık ve sahip olabilmişler" derim.<br/>kadınını ağlatmamış,gözlerinde kadınının aşkına ihanet etmişliğin lekesi olmadığından, kadının yüzüne gururla ve kendinden emin bakabilenler.
 - entry_name: |
-    yazarların hayattan öğrendiği şey
-  entry_id:  70335425
-  entry_writer: jcb7
-  entry_fav_count: 35
-  entry_content: |
-    para. hayatı yaşanılır kılan tek şey para. sizi sosyalleştiren, yaşatan, vezir yapan, rezil yapan, ötekileştiren, yücelten, güçlendiren, güçsüzleştiren, askerliği bedelli yaptıran, sağlıklı olmanızı sağlayan, yaşam kalitenizi yükselten vs. vs. aile içi huzuru veya huzursuzluğu belirleyen şey bile para. benim tek öğrendiğim şey insanların mutluluk seviyesinin para ile doğru orantılı olması.<br/><br/>edit: imla
-- entry_name: |
     sinopspor y.amasya maçında sahada gezen polis
   entry_id:  70349071
   entry_writer: sabitfikirliadam
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     ben üniforması dışında bir gariplik görmedim, ozan tufan 90 dakika boyunca bu adamın yaptığını yapıyor, hemde bilinçli.
 - entry_name: |
     android'den ios'a geçeceklere tavsiyeler
   entry_id:  70349890
   entry_writer: muhendisce
-  entry_fav_count: 26
+  entry_fav_count: 28
   entry_content: |
     halen ipad ve imac sahibi ama eski bir iphone'cu olarak söyliyeyim. dosya yönetimine elveda demeye hazir olun.<br/><br/>gecen bir apple fanboy ile tartisiyoruz. dedim lan daha icinden aldigin fotoyu geri koyamiyorsun amk neyin üstünlügünden bahsediyorsun. <br/><br/>yoo dedi koyuyorum. öyle mi? elinden aldim telefonu bagladim bilgisayarima rastgele bir klasörü actim (50 tane asdhasldh diye klasör var zaten ne alakaysa) icinden 20 tane fotoyu kesip aldim masaüstüme... <br/><br/>dedim al geri simdi fotolari... geldi oturdu pcye sürükle birak denedi falan yok, kabul etmiyor iphone. neyse güldük eglendik. dedi ne yapacagiz simdi?<br/><br/>dedim git bi usb bul gel al fotolarini aksama evde itunes'a baglar atarsin icine. hhehe. neyse gitti buldu geldi aldi fotolarini. sabah da geldi aksam ugrasmis bir sekilde atmis ama bu seferde telefondan kontrol edemiyor fotolari. yani silmek istese silemiyor. hehe gidip tekrar itunes'a baglayip öyle silmesi lazim. kamillige bak amk. beddua ediyor bana is actin basima diye. <br/><br/>bir de yine bir seminerdeyiz, 30 sayfa bir pdf ve 2 video vardi kizin sundugu. istedik kizdan olur tabi alin dedi. ben bagladim telefonumu sunan kizin bilgisayarina kopyaladim kendime hemen. iphonecu arkadaslarda istediler ama sunucu kizin bilgisayar internete bagli degil, dosyalar da zaten büyük, atamaz sonradan da maille falan. <br/><br/>iphone'cu kamiller napti peki? videoyu oynatip ekrandan kamera ile kaydediyorlar, pdf i de sayfa sayfa foto cekiyorlar falan komedi resmen. <br/><br/>adam iphone ile foto cekip instagramda gezerek alet cok iyi diyor ya gülüyorum sadece.
 - entry_name: |
@@ -244,7 +202,7 @@ data:
     22 ağustos 2017 side world star otel rezaleti
   entry_id:  70342315
   entry_writer: duzkosuyapanadam
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     ooo almancı tatili rezaleti. <br/><br/>siz zaten uçak biletini beleşe getirmek için almıyor musunuz bu tatilleri. yemeyin bizi. <br/><br/>rezalet puanım 0,3/10.
 - entry_name: |
@@ -262,19 +220,40 @@ data:
   entry_content: |
     android sadece ios un yapabildikleri yapsa idi, ios dan daha stabil çalışırdı emin olun.
 - entry_name: |
-    cep telefonuyla konuşurken sahaya giren polis
-  entry_id:  70347048
-  entry_writer: ssstttt biz geldik
-  entry_fav_count: 18
+    meral akşener
+  entry_id:  70342068
+  entry_writer: elife meftun muellif
+  entry_fav_count: 20
   entry_content: |
-    hattı kesin avea (türk telekom) olan polistir. avea'nın var böyle saçmalıkları. yatağın bir ucunda çekerken diğer ucunda çekmez.
+    arapperest gürcü kralın zulmüne son verecek <a class="b" href="/?q=tomris+hatun">tomris hatun</a> .
 - entry_name: |
     sude andaş
   entry_id:  70340079
   entry_writer: meursault samsa
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     bu işi böyle olmuyor, böyle çözülmüyor. burada öfkemizi kusup rahatlıyoruz bu ve bunun gibiler ise hayatlarına hiçbir şey olmadan devam ediyor, belki de başka bir kediye zarar veriyor, sadece onu bu kadar rahat paylaşmıyor.<br/><br/>bir kere bu kesinlikle bir hastalık bu çok net. sebeplerini üşenmezsem başka bir entryde anlatırım ama buradaki mesele farklı. artık gönüllülerden oluşan bir topluluk mu kurarız yoksa parayla birilerini mi tutarız bilmiyorum ama bu tarz eylemlerin karşılığı şiddet olmalı. canının yanacağını bilmeli, bir daha yaparsa bir daha yanacağını bilmeli. bu kız tekme tokat dövülmeli çok netim bu konuda. başka bir çözümü yok bunun. gelecek nesilleri eğitimle kurtarırsın ama bu kurtulma yaşını geçmiş, önce dövelim sonra kurtuluyorsa yine kurtarırız.
+- entry_name: |
+    22 ağustos 2017 sevilla fc medipol başakşehir maçı
+  entry_id:  70353819
+  entry_writer: uber insan
+  entry_fav_count: 16
+  entry_content: |
+    başakşehirin ilk 10 dakikada yediği baskıyı herhangi bir türk takımı yese topu yarı sahadan çıkarmak için sürekli ileriye dikerdi. adamlar ona rağmen kısa pasla çıkmaktan vazgeçmediler. helal olsun abdullah avcı.
+- entry_name: |
+    gustavo gomez
+  entry_id:  70350929
+  entry_writer: gracious
+  entry_fav_count: 14
+  entry_content: |
+    <a class="b" href="/?q=%c5%9fekip+mosturo%c4%9flu">şekip mosturoğlu</a> ve <a class="b" href="/?q=hasan+%c3%a7etinkay">hasan çetinkay</a>a'nın bizzat italya'ya giderek milan'da kalmaya ikna ettiği futbolcu.
+- entry_name: |
+    zeytinli rock fest 2017
+  entry_id:  70335109
+  entry_writer: rowt
+  entry_fav_count: 11
+  entry_content: |
+    2006 senesinde gittim ve o gün bugündür, çadırla bir daha rock festivaline gitmeye tövbe ettim. ne duşu var ne de doğru düzgün tuvaleti. karnınız acıksa, gerizekalı bodyguardları aşıp dışarı çıktığınız takdirde sizi ayakta sikmeye hazır balıkesir seyyar satıcılarıyla karşılaşırsınız. minibüsçüler mesailerini bitirdiği anda "rockçı kız sikeceğüzz" diyerek alkollü bir şekilde bölgeye damlar ve kavga çıkartırlar. balıkesir şehir merkezinden toygar mahallesindeki it kopuk takımı kuş serisi araçlarıyla gelir, etrafa salça olurlar. eğer ki kamp alanında konaklayacaksanız, tecrübeli adamlarla gidin. onlar uygun yerleri bulur seçerler. karı kız düşürür piyasa yaparım diye düşünüyorsan, gelen kızların çoğunluğu erkek arkadaşıyla, geri kalanı günübirlik gelir ve giderler. ben müziğimi dinlerim, ona buna salça olmam, tecrübeli festivalcilerle takılırım ve zor şartlarda karnımı doyururum diyorsan, git çadırınla yerleş arkadaşım. <br/><br/>hala içki satışı yapılıyor mu bilmiyorum tayyip yasaklamış olabilir. çantalarınızla sokacaksanız eğer hiç uğraşmayın piç bodyguardlar arıyor çantaları. en azından 10 sene önce öyleydi. kapı girişinin değilde, kamp alanının birtiği alanlarda güvenlik falan yok, o bölgeden yiyecekte sokarsınız içki de. en sağ taraftan bahsediyorum, sahneye en uzak olan bölgeden istediğinizi sokarsınız. bizim zamanımızda piç kurusu bodyguardlarla kavga çıkmış, mını siktiklerimi dövmüştük. eskiden rockçılar iyi kavga ederdi. hayvan gibi yüzükleri vardı, muşta görevi görürdü o yüzükler. sizlere tavsiyem, günübirlik gidip sonra evinize dönün. geri kalanı rezillik. karı-kız düşürme olayı hikaye. ha şu var,çok fena tipin vardır, yakışıklısındır, düşer. ama sıradan tipin varsa, dinle müziğini doğru evine dön. o wclerden sarılık kapma riskine değmez.<br/><br/>edit: arkadaşlar burada yazdıklarım hakkında gram iyileştirme yapıldıysa 2006'dan beri en adi orospu evladıyım.
 - entry_name: |
     22 ağustos 2017 istanbul yağmuru
   entry_id:  70339107
@@ -290,54 +269,61 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=devleti+aliyye-i+osmaniyeden+siktir+olup+gitmek">devleti aliyye-i osmaniyeden siktir olup gitmek</a>)
 - entry_name: |
-    bütün iyi kadınların kapılmış olması
-  entry_id:  70351785
-  entry_writer: mum boya
-  entry_fav_count: 9
-  entry_content: |
-    dogru olmadigini gormeye gorecek goz gereken onerme. cevreme bakiyorum akli basinda, zeki, hanim hanimcik ve hatta guzel, kimisi ufak tefek, kimisi uzun ince pekcok iyi kadin var hala bekar olan. hicbirinin major problemi yok, saglik problemi yok, kisilik bozuklugu yok. okumus yazmis ve hatta calisip iyi bir geliri olan insanlar. bos vakitlerinde dunya sehirlerini gezen, kultur sanat faaliyetlerine katilanlari var. cevreye duyarli olup dunyaya bir faydasi olsun diye gonullu faaliyetlere katilanlar var. var da var. <br/><br/>siz hala bu kadinlari gormezden gelin, "iyi kadinlar kapilmis, bize kotuleri denk geliyor" diye aglayin. mutsuzluk mustehak size. <br/><br/>(tabii ki kendimden bahsetmiyorum. zaten ben bu sartlari tasimiyorum.)
-- entry_name: |
-    22 ağustos 2017 sevilla fc medipol başakşehir maçı
-  entry_id:  70353819
-  entry_writer: uber insan
-  entry_fav_count: 9
-  entry_content: |
-    başakşehirin ilk 10 dakikada yediği baskıyı herhangi bir türk takımı yese topu yarı sahadan çıkarmak için sürekli ileriye dikerdi. adamlar ona rağmen kısa pasla çıkmaktan vazgeçmediler. helal olsun abdullah avcı.
-- entry_name: |
     tuvalette internetin çekmemesi
   entry_id:  70353156
   entry_writer: zombieg
-  entry_fav_count: 4
+  entry_fav_count: 7
   entry_content: |
     var böyle bişey. tuvalete gidiyosun, ne işyerinin wifi bağlantısı çekiyor, ne operatör. çekim gücü 1-2 arasi ve lte yok. tam diyosun şöyle keyifle bir sıçayım, yok oluyor o sana 10 dakikalık sıkıtı, ızdırap.
 - entry_name: |
     şükrü kızılot
   entry_id:  70348305
   entry_writer: maximus decimus meridius
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     hayatını kaybetmiştir. ülkenin alanında en donanımlı akademik insanlarından biriydi. sevenlerinin, öğrencilerinin başı sağolsun..
 - entry_name: |
     16 ağustos 2017 büyük riva ihalesi kazığı
   entry_id:  70344553
   entry_writer: muto
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     dursun ozbek'in "kagit uzerinde zarar gorunuyor ama is bittikten sonra asil kar belli olacak" aciklamasi bu isin peskes oldugunun acik acik kanitidir benim icin. bu aciklama ile "sesinizi cikarmayin da surec tamamlansin, ati alan uskudar'i gecsin." demek degilse biri bana aciklasin ne oldugunu.<br/><br/>galatasaray'a ihanet eden, bunu yaparken de taraftar sesini cikarmasin diye bol keseden para harcayarak transfer yapan adamin icraatidir. bu sekilde galatasaray'in gelecegini iki defa tehlikeye atmistir. ama basarili olmus gorunuyor cunku taraftar sorgulamayi bile birakti iki galibiyet sonrasinda. "yiyorlar ama calisiyorlar" gercekten yasam felsefesi bu ulkenin anlasilan.
 - entry_name: |
-    türk hava kuvvetlerine yabancı pilot alımı
-  entry_id:  70350750
-  entry_writer: koc ri
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  70336396
+  entry_writer: sigara kibrit
+  entry_fav_count: 3
+  entry_content: |
+    bugün 3 arkadaş bir yerde oturuyorduk. karşımızda da 3 kız oturuyordu. detaya gerek yok tavırlarından "pelinsu" oldukları belliydi. benimkilerle kızlar sürekli bakıştılar. kalkmaya yakın bizden en tatlı dilli, yakışıklı olan gitti konuştu. gelin hep beraber oturalım diye haber yollamışlar. ben mümkün değil tanımadığım insanlarla oturmam, akrabaya bile tahammülüm yoktur. siz oturun ben arabada sigara yakar beklerim dedim. geçtim arabaya bekle bekle gelen giden yok. 30 dakika sonra tanışmaya giden yakışıklı geldi. kızlarla konuştum altımız birden bize gideceğiz, şu kızla da sen takılırsın dedi. kız güzel ama böyle ortam da bu kız da bana göre değil. ben eve kaçtım. <br/><br/>ertesi gün konuştuk. bana ayırdıkları kızı eve bırakmışlar, dördü eve geçmişler. yine detaya gerek yok, finali tahmin edersiniz. 2-3 gün sonrasına yine sözleşmişler. <br/><br/>ulan kızda hastalık mı var, belalı bir abisi mi var, sevgilisini mi aldatıyor, nedir ne değildir bilmeden, tanımadan, güvenmeden biraz da sıcaklık hissetmeden yakınlaşmak hem de eve çağırmak bana göre değil. aha içerken kız çıkardı içkine uyku hapı attı, evi soyup soğana çevirdiler, böbreğini aldılar, devreye mafyalar girdi zorla 100 bin liralık senet imzalattılar?????<br/><br/>benim gibi düşünen, anlık heyecanlardan sevmeyen, karşı cins konusunda katı olan başkası var mı merak ediyorum? ben mi sorunluyum, fazla mı hassasım? hem erkekler hem kadınlar ne düşünüyor acaba? <br/><br/>böyle halimden memnunum ama galiba ben, beni süründüren, ağlatan, üzen, zor kızları seviyorum ya da ne bileyim yalnızlığı seviyorum.
+- entry_name: |
+    bitcoin
+  entry_id:  70339177
+  entry_writer: keten prens
   entry_fav_count: 2
   entry_content: |
-    size türkçe öğreten eğitim sisteminin anasını avradını öpeyim.<br/><br/>tanım: yalan haberdir.
+    yavrusuna yavşakcoin denir.
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  70335628
-  entry_writer: mezzaluna ayisigi
+    türk hava kuvvetlerine yabancı pilot alımı
+  entry_id:  70350627
+  entry_writer: plazma
   entry_fav_count: 1
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LWS-mmuRIjs">https://youtu.be/lws-mmurijs</a><br/><br/>olsun kapris yok bir de bu yanaktan bam bam bam! <br/><br/>tam bir sân-at eseri cocuklar, bildiginiz gibi degil.
+    olmayan alımdır. dış kaynaktan kasıt hali hazırda sivil havacılıkta zaten temel uçuş eğitimi ve deneyimi olan sivillerin alımıdır.
+- entry_name: |
+    rıza kayaalp
+  entry_id:  70348205
+  entry_writer: freng
+  entry_fav_count: 1
+  entry_content: |
+    kendisiyle ne sevincini ne de üzüntüsünü paylaşacağım sporcu.<br/><br/>ahlaklı güreşçi desteklemek isteyenler için<br/><br/>(bkz: <a class="b" href="/?q=taha+akg%c3%bcl">taha akgül</a>)
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  70344484
+  entry_writer: zephyrantes
+  entry_fav_count: 0
+  entry_content: |
+    <a class="b" href="/?q=barbarossa">barbarossa</a> - <a class="b" href="/?q=bloodline">bloodline</a> `:<a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8PW3C-MFdaU">https://www.youtube.com/watch?v=8pw3c-mfdau</a>`<br/><br/>yağmurlu bir gün için.<br/><br/>ps. önerdiğim kaleo'yu seven dinlesin bunu :)
 - entry_name: |
     ekşi siyasetçiler &amp; adalet kurultayı çalıştayı
   entry_id:  70352873
@@ -346,10 +332,24 @@ data:
   entry_content: |
     memlekette adaletin olmadığının son derece farkında olan bireylerin kendi sesini duyurmak ve kaygılarını paylaşmak için yapacakları çalıştay. <br/><br/>türkiye de adaletsizlik partiler üzeri bir kavramdır ve sadece chp olarak düşünmemek gerektiğinin altını çizmek lazım.
 - entry_name: |
-    24 ağustos 2017 uefa şampiyonlar ligi kura çekimi
-  entry_id:  70352037
-  entry_writer: stefan kuntz
+    bülent uluer
+  entry_id:  70345576
+  entry_writer: karanliktaki kilic
   entry_fav_count: 0
   entry_content: |
-    beşiktaş'a sahibi gelecek.<br/><br/>(bkz: <a class="b" href="/?q=real+madrid">real madrid</a>)
+    doğu perinçek ve ertuğrul kürkçü arasındaki efsane düelloda yer almıştı zamanında. sakin, kendinden emin tavırları ile hatırlanacaktır.
+- entry_name: |
+    balık etli kadınların libidosunun yüksek olması
+  entry_id:  70354073
+  entry_writer: gercekgibiyalanruyagorenadam
+  entry_fav_count: 0
+  entry_content: |
+    bacak omza yapılamayan kadında libido olsa ne olur olmasa ne olur
+- entry_name: |
+    ali yalçın
+  entry_id:  70339531
+  entry_writer: mc43
+  entry_fav_count: 0
+  entry_content: |
+    4+3.5+4+5 i toplayamayan ama pazarlık yaptığını iddia eden sendika başkanıymış<br/><br/>1 tane mi nitelikli adam çıkmaz bu akepe içinden arkadaş!
 ---
