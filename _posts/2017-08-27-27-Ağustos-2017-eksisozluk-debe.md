@@ -6,7 +6,7 @@ data:
     23 ağustos 2017 metro turizm rezaleti
   entry_id:  70429954
   entry_writer: alecia moore
-  entry_fav_count: 329
+  entry_fav_count: 334
   entry_content: |
     rezaletin ilk kısmı; haklarından bir sürü olay çıkan firmaya hala ısrarla biniyor olmanız, hakediyorsunuz artık. satışlar azalmadıkça düzelmeye gitmicek o firmalar.
 - entry_name: |
@@ -16,6 +16,13 @@ data:
   entry_fav_count: 294
   entry_content: |
     bir zamanlar fetöşü peygambere benzeten,<br/>hükümete yakın<br/>yeni şafak gazetesi yazarı son<br/>zamanların türedi<br/>'gazetecilerinden!' gümüş yüzüklü, <br/>tv lerin gözde yorumcularından<br/>her konuda fikri olan ergün<br/>yıldırım efendi buyurmuş.<br/><br/>ve yine ergün yıldırım efendi ,<br/>engellilerin özel tüketim vergisi ödemeden<br/>engelli aracı almalarına da karşı çıkmış sebep,<br/>engellilerin çoğu zenginmiş!!<br/><br/>oysa gerçek bir gazeteci!nin <br/>sosyal devlet diye geçinilen yerde<br/>elden ayaktan düşmüş,<br/>kimsesiz bakıma muhtaç erkek<br/>evlada da emekli maaşı <br/>bağlamalıdır demesi gerekir.<br/>ee, tabii adam hep iktidarın <br/>gücün tarafında hiç yokluk çekmiyor<br/>demek ki.<br/><br/>ekmek yoksa pasta <br/>yesinler diyen marie antuaniette gibi konuşmuş.<br/><br/>peki, kocası ölen bir emekli kadınlar ne yapar?<br/>hiç evlenmemiş , hiç çalışamamış eğitimsiz<br/>yaşlı bir kız evlat ne yer?<br/>ülkesini , toplumunu bu kadar tanımayan<br/>biri nasıl gazeteci olabilir?<br/><br/>önce bir kendisine sorsun bakalım, kendi <br/>acaba kendi yazılarını para verip okur mu?
+- entry_name: |
+    kanlı pedini twitter'da paylaşan kadın
+  entry_id:  70423908
+  entry_writer: melodili okul zili
+  entry_fav_count: 212
+  entry_content: |
+    1. reglde kan o kadar kırmızı çıkmaz.<br/>2. ped değil peçete.<br/><br/>bu iki öncüle dayanarak diyorum ki hanım kızımız başka bir yerin kanamasını regl olarak yutturmaya çalışıyor.
 - entry_name: |
     24 ağustos 2017 akbank rezaleti
   entry_id:  70425135
@@ -27,23 +34,9 @@ data:
     osmanlı imparatorluğu'nun çöküş nedeni
   entry_id:  70424625
   entry_writer: kaizenuberalles
-  entry_fav_count: 206
+  entry_fav_count: 207
   entry_content: |
     ben bu konuda çok düşündüm. aslında osmanlı daha kurulurken çökük olmasına sebep olan unsurlar vardı. fakat bu unsurlar aynı zamanda osmanlının savaşlarda başarı göstermesini sağladı. osmanlının büyük zaafları aynı zamanda savaşlardaki güçlü yönüydü. lise tarih derslerinde anlatılanın aksine maça yenik başladık. tarih müfredatının yanlış bir bakış açısıyla tarihi ele almasının sebebi şu soruya toplum olarak doğru yanıtı verememiş olmamızdır: "bir millet için başarı nedir?". <br/><br/>bu aslında çok önemli bir sorudur. çinliler hiç fetih yapmadan sulama kanalları inşa ederek nüfuslarını arttırdılar ve medeniyet kurdular. makedonlar ise şanlı zaferlerle dünyayı feth etti. moğolların ele geçirmediği yer kalmadı. peki sonuç olarak şu anda makedonların gücü ne kadar, moğolistan ne durumda? hiç savaş kazanmamış çinlilerin gücü ne kadar? o kadar fetih ne işe yaradı? sun tzu der ki galibiyetlerin en büyüğü hiç savaşa girmeden kazanılandır. <br/><br/>osmanlı feodal dünyaya göçebe kitlelerle merhaba dedi. göçebelik bir yandan osmanlının ticari, bilimsel, nüfus artışı, şehirleşme gibi konularda çok zayıf olmasına yol açarken diğer yandan göçebe nüfusu asker yaparak askeri konuda büyük bonus kazandı. o sırada teknoloji isteyen konularda da diğer yerleşik milletlerden yardım aldı. <br/><br/>göçebe nüfus savaşlarda bonus sağlıyor çünkü bir tarafta hayvancılık sayesinde etle beslenmiş, at bolluğu nedeniyle ordusunda fazladan süvari bulunan ve her bireyi göçebe yaşam tarzı sayesinde asker gibi yetişmiş vatandandaşlar ki bu vatandaşlar şehirli olmadıkları için canları da çok tatlı değil. mesela şehirli bir venedikli neden altın yağma etmek için bir sefere asker olarak katılsın. adam zaten ürettiği aynaları çevre ülkelere satıp para kazanıyor. <br/>diğer yanda hayatlarında ellerine kılıç almamış, talim bilmeyen, etle beslenmemiş sümsük avrupa köylüleri. öyle olunca osmanlının savaşlarda bonusu var. tabi arada sırada karşılarına köylüler yerine şovalyeler çıkınca da epey zorlandıkları oluyor. <br/><br/>gel zaman git zaman osmanlı devleti göçebeleri köylü yapmaya başlar. çünkü köylü olmadan medeniyet olmaz. köylü olmadan kazanılan başarı sürdürülebilir değildir. köylü ürün üretecek ve sen köylünün malına vergi diye el koyacaksın ki o parayla medeniyet inşa edilsin. fakat böyle olunca da savaşlarda toslamaya başlanılır. işte insanların çöküş sebebi olarak aradığı neden budur. fakat dedik ya göçebe olarak da nüfus arttırmadan ayakta kalmak bir yere kadar.<br/><br/>merak ederim eğer osmanlı bulgaristan ve batı trakyayı aldıktan sonra hiç mora, romanya, arnavutluk, macaristan gibi yerlere bulaşmasa da savaş kaynaklarını içte imar ve iskan politikalarına ayırıp köylüleşme, nüfus artışı, şehirleşme ve ekonomiyi teşvik edici politikalar izleseydi günümüz türkiyesi nasıl olurdu?<br/><br/>edit: göçebelik, konar göçer anlamında kullanılmıştır. boylar göçmekte fakat genelde aynı mekanlarda takılmaktalar. fakat işgale uğradıklarında direkt olarak coğrafya da değiştirebildikleri oluyor.
-- entry_name: |
-    kanlı pedini twitter'da paylaşan kadın
-  entry_id:  70423908
-  entry_writer: melodili okul zili
-  entry_fav_count: 206
-  entry_content: |
-    1. reglde kan o kadar kırmızı çıkmaz.<br/>2. ped değil peçete.<br/><br/>bu iki öncüle dayanarak diyorum ki hanım kızımız başka bir yerin kanamasını regl olarak yutturmaya çalışıyor.
-- entry_name: |
-    lahmacuncudan hamburger isteme şakası yapan kız
-  entry_id:  70427314
-  entry_writer: duzkosuyapanadam
-  entry_fav_count: 188
-  entry_content: |
-    buraya gelip bu hareket hakkında tespit kasanları tebrik ediyorum. <br/><br/>ulan 10 yaşında ergen bir kızın, 20'yaşındaki beyinsiz youtuberlara özenip yaptığı bir hareket işte. adam burdan toplumsal sosyolojik tespit çıkarmış valla bravo. gören de kendisi 9 yaşında felsefi çalıştay düzenliyordu sanacak.
 - entry_name: |
     25 ağustos 2017 galatasaray sivasspor maçı
   entry_id:  70420997
@@ -52,31 +45,24 @@ data:
   entry_content: |
     tudorun ne kadar zeki bir adam olduğunu bu maç anladım.<br/>adam resmen selçukla yasini oyuna sokarak geçen sene mal buydu ben ne yapsaydım dedi
 - entry_name: |
-    dikkat şahan çıkabilir
-  entry_id:  70432599
-  entry_writer: bulutlari bekleyen
-  entry_fav_count: 123
-  entry_content: |
-    bira kelimesinin, camdaki biraların, sigaranın sansürlendiği yayın.<br/><br/>2005'te yayınlanan görüntüler şimdi yasak, daha mı ahlaklıyız şimdi sanki 2005'e göre? nereden nereye geldiğimizin de kanıtı aynı zamanda. yazık...
-- entry_name: |
     game of thrones
   entry_id:  70420897
   entry_writer: sinpecado
-  entry_fav_count: 111
+  entry_fav_count: 115
   entry_content: |
     gece sızsan bari<br/>hadi sızsan bari lo <br/>sızıversen gari<br/>bu gece sızsan bariiii<br/>hazırım diyorum dünden<br/>çıkmıyorsun zihnimden<br/>sızan sızmış zaten<br/>yine sızsan bari lo.
 - entry_name: |
     yurt dışında türklerin yunan sanılması
   entry_id:  70423052
   entry_writer: hakuna matata35
-  entry_fav_count: 100
+  entry_fav_count: 101
   entry_content: |
     ben yunanistan'da yaşıyorum beni de yunan sanıyorlar. işin garibi yunanlılar beni yunan sanıyor. <br/><br/>yani karistirilmiyor , bilakis birbirimize benziyoruz.
 - entry_name: |
     antrikotun kilosunun 70 tl olması
   entry_id:  70432521
   entry_writer: yatagants
-  entry_fav_count: 96
+  entry_fav_count: 98
   entry_content: |
     ülke ekonomisin ne halde olduğu gösteren et fiyatı. ulan 4 kişilik ailede akşam herkes 250 gram et yesin dersen cebinden 70 tl çıkıyor. sonra yok efenim ekonomi çok iyi, bok iyi.<br/><br/>ne tarım iyi bu ülkede, ne hayvancılık, ne de sanayi onda da anca montaj zaten.
 - entry_name: |
@@ -90,51 +76,44 @@ data:
     türkiye'nin ekonomide ispanya'yı sollaması
   entry_id:  70432115
   entry_writer: monoditri
-  entry_fav_count: 78
+  entry_fav_count: 82
   entry_content: |
     bunun kişi başı hasılaya ne faydası olacak anlatsana delikanlı.<br/><br/>benzer mantıkla çin ekonomisi norveçin 30 katı. hangisi daha müreffeh ?<br/><br/>imla edit.
-- entry_name: |
-    tolga ciğerci
-  entry_id:  70421257
-  entry_writer: top scorer goalkeeper
-  entry_fav_count: 72
-  entry_content: |
-    <a class="b" href="/?q=kontenjan">kontenjan</a> <a class="b" href="/?q=kontenjan">kontenjan</a> diye aglayanlar bu adama iyi bakin.<br/><br/>su anda elinden forma alacak futbolcu var mi? kim kesebilir kendisini? belki de yeri su an <a class="b" href="/?q=belhanda">belhanda</a>'dan saglam.<br/><br/><a class="b" href="/?q=basaksehir">basaksehir</a>'de 36'lik <a class="b" href="/?q=emre+belozoglu">emre belozoglu</a>. kendisini kesecek futbolcu, istemeyecek takim var mi? gidip de uc gomlek oyununu arttirmayacagi takim var mi?<br/><br/>demek ki neymis? iyi topcu, caliskan topcu formayi her turlu aliyormus. <a class="b" href="/?q=turk+futbolculari">turk futbolculari</a>ni kontenjan yaratip tembellesmeye alistirmak, hak etmedikleri seyleri saglamak yerine caliskanliga ve rekabete alistirmak lazimmis. <br/><br/>esas o zaman <a class="b" href="/?q=milli+takim">milli takim</a> ucusa gecer.
 - entry_name: |
     olan biten
   entry_id:  70434601
   entry_writer: ekşisözlük
-  entry_fav_count: 72
+  entry_fav_count: 80
   entry_content: |
     a milli takım ve villarreal oyuncusu enes ünal, yarın akşam siz ekşi sözlük yazarlarının sorularını cevaplayacak. gözünüz sol frame'de olsun.
 - entry_name: |
-    josef de souza dias
-  entry_id:  70422751
-  entry_writer: pckopatjam
-  entry_fav_count: 66
+    bir oturuşta okunan kitaplar
+  entry_id:  70427543
+  entry_writer: at the eye
+  entry_fav_count: 75
   entry_content: |
-    (bkz: <a class="b" href="/?q=beyler+buray%c4%b1+okumazlar">beyler burayı okumazlar</a>)
+    her sayfasında artan gerilimi ile (bkz: <a class="b" href="/?q=stefan+zweig">stefan zweig</a>)'in satranç'ı. öykü olmasının da etkisi var elbette.
 - entry_name: |
     lady bir gaga'da tutan şey ikimizi
   entry_id:  70421086
   entry_writer: kaderdeki bekir
-  entry_fav_count: 55
+  entry_fav_count: 58
   entry_content: |
     (bkz: <a class="b" href="/?q=kerhaneci+sarho%c5%9fum+bu+gece">kerhaneci sarhoşum bu gece</a>)
-- entry_name: |
-    bir oturuşta okunan kitaplar
-  entry_id:  70425084
-  entry_writer: qrstv
-  entry_fav_count: 53
-  entry_content: |
-    dönüşüm (bkz: <a class="b" href="/?q=kafka">kafka</a>)
 - entry_name: |
     26 ağustos 2017 floyd mayweather vs conor mcgregor
   entry_id:  70425189
   entry_writer: saftirik tilki
-  entry_fav_count: 50
+  entry_fav_count: 55
   entry_content: |
     bugün, sırf bu maç için las vegas'a 1300 tane özel jetin inmesi bekleniyor. jet sosyete dedikleri bu mu acaba amk.
+- entry_name: |
+    deniz naki
+  entry_id:  70436402
+  entry_writer: loose aggressive
+  entry_fav_count: 49
+  entry_content: |
+    yapılan saldırı üzerinden pkk ve terör örgütü güzellemesi yapan orospu çocuklarını bizlere gösteren futbolcu.<br/><br/>deniz naki'ye yumruk atıldı o zaman pkk gidip otobüsleri havaya uçurabilir en doğal hakkıdır.<br/><br/>deniz naki'ye yumruk atıldı, pkk gidip sivil vatandaş katledebilir.<br/><br/>deniz naki'ye yumruk atıldı, pkk canlı bombaları ile şehirleri yaşanmaz hale getirebilir.<br/><br/>varlığınızı ayrı, yokluğunuzu ayrı sikeyim amına kodumun terörist köpekleri sizi.
 - entry_name: |
     26 ağustos 2017 sosyal medya çökmesi
   entry_id:  70431619
@@ -153,23 +132,37 @@ data:
     doktorların doktor olduğunu bir şekilde söylemesi
   entry_id:  70424259
   entry_writer: plaza communisti
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     <a class="b" href="/entry/70406480">#70406480</a><br/><br/>misal şu entryde tıp öğrencisiydim diyor adam. konu ile alakası yok, istanbulda öğrenciyim bile dememiş. ben de nedenini sordum kendisine, yani hiçbir arkadaşım istanbulda boğaziçi elektronikte öğrenciyken diye giriş yapıp, alakasız bir konu hakkında konuşmaz, ben öğrenciyken der dedim, kendisi çekemiyorsunuz karanlığınızda boğulun falan dedi. screenshotları var.<br/><br/>ne diyim ki...
 - entry_name: |
     hollanda vizesi rezaleti
   entry_id:  70432402
   entry_writer: kenjin
-  entry_fav_count: 44
+  entry_fav_count: 46
   entry_content: |
     vize memurlarının nefret ettiği birşey varsa o da yalan söylenmesidir. <br/><br/>anladığım vize mağduru arkadaşımız sevgilisini ziyaret etmeye gidecek fakat vize memurları kıllanmasın diye bu gerçeği söylemiyor ve yalandan bir otel rezervasyonu ile başvurusunu yapıyor, ki bu gayet anlaşılabilinir bir durum, fakat rezervasyonu biraz erken iptal edilince ve vize memuru rezervasyonu kontrol edince yakayı ele veriyor. sıçıp sıvama kısmı ise itiraz dilekçesinde "ben zaten sevgilimi ziyaret edecektim, biz ciddi düşünüyoruz" itirafı ile yaşanıyor. yani vize başvurusunda yalan beyanda bulunduğunu itiraf ediyor arkadaş. ve bu bir vize memuruna karşı yapılmaması gereken ölümcül bir hata. <br/><br/>ben malesef bu arkadaşın bir daha hollanda'dan kolay kolay vize alabileceğini sanmıyorum.
 - entry_name: |
-    en dehşet verici gerçek
-  entry_id:  70422001
-  entry_writer: sinirlarlapazarlikederken
-  entry_fav_count: 41
+    oğuzhan özyakup
+  entry_id:  70423968
+  entry_writer: marpione
+  entry_fav_count: 40
   entry_content: |
-    ölmek değil de, yani eğer gerçekten öteki bir dünya varsa ölüm o kadar koyan bir şey değil. asıl dehşet verici olan, tek bir hayat varsa ve bu hayat şu an bu entryi girerken yaşadığım hayatsa, hiçbir ama hiçbir, zerrece değerimizin olmadığıdır. düşünsenize özene bezene, üzerine titreyerek büyüttüğünüz yetiştirdiğiniz çocuklarınız öleceek gidecek, geriye hiç bir şey kalmayacak. kim kaldı iskenderden geriye, ne kaldı? ne kaldı onlarca imporatordan, savaşçıdan?
+    bu sene oğuzhan'ın beşiktaş futbol takımında geçireceği 6. sezon ve bu adam 1 ay sonra 25 yaşını bitirecek. <br/><br/>son 5 sezondaki tüm maçlardaki istatistikleri : <br/><br/>30 maç - 2 gol - 8 asist<br/>29 maç - 7 gol - 4 asist<br/>42 maç - 2 gol - 12 asist<br/>40 maç - 10 gol - 8 asist<br/>39 maç - 5 gol - 9 asist<br/><br/>rica ediyorum, lütfen ekşi sözlük futbol ulemaları türkiye'de üst üste 5 sezon boyunca benzer verimle oynayan, düzenli olarak aynı sürekliliği sağlamış, az sakatlanan, etkisiz oynasa bile "ruhsuz" bir halde sahada dolanmayan, her maç elinden geleni ortaya koyan, işini disiplinli bir şekilde yapan, serserilik ve gece hayatı peşinde koşmayan, camiasını utandıracak olaylara karışmayan, takımdaki tüm arkadaşları tarafından sevilen, teknik direktörlerle sorun yaşamayan ve oynadığı takımı gönülden seven 3 tane türk futbolcusu yazsınlar benim için. <br/><br/>onun beşiktaş'ta oynadığı sürede gs ve fb kaç tane 6 veya 8 numara oynatmış, bunların hangisi 5 sene boyunca stabil bir performans göstermiş anlatın da öğrenelim. <br/><br/>son zamanlarda tolgay arslan ile kıyaslanıyor. yanlış anlaşılmasın ben tolgay'ı da sever, sayarım. beşiktaş futbol takımı için bir değer olduğuna da inanırım. fakat geçenlerde tolgay ile sözleşme yenilenirken tüm haber kaynakları onun istatistiklerini de yayınladılar. 74 maç - 2 gol - 9 asist! sırf bu değerler bile tolgay bireysel olarak oğuzhan'dan "yetenekli" olsa bile! neden oğuzhan'ın daha "verimli" ve "efektif" olduğunu ortaya koyuyor. tolgay arslan çok yetenekli bir oyuncu ama sonuca etki etme kapasitesi düşük. bir önceki sene sakattı şans bulamadı ama geçen sene bol bol oynadı ve buna rağmen istatistikleri oğuzhan ile kıyas bile kabul etmeyecek düzeyde. <br/><br/>bir de şu "oğuzhan bilmem kaç milyon euro len mq" geyikleri hakkında söyleyeceklerim var. arkadaş adam 25 yaşında ve hala gelişiyor. henüz en verimli yıllarına erişmiş bile değil. eğer bana sorsalar "oğuzhan'ı 20m euro'ya satmak mı istersin yoksa 5 sene daha aynı performansla takımında görmek mi istersin?" diye ben kesinlikle kalsın derim. <br/><br/>bu verimlilikte bir adamı 20m euro'ya satıp yerine aynı verimlilikte başka bir oyuncuyu 5m euro'ya koyacak bir futbol düzeni ve sistemi yok bu ülkede. ben beşiktaş'ı yönetsem 20m euro yerine 5 sene daha aynı performansı verecek ve futbolu beşiktaş'ta bırakıp "bayrak adam" olacak oğuzhan'ı 1000 kere tercih ederim. <br/><br/>beşiktaş taraftarı olmayıp maçlar haricindeki beşiktaş gündemini takip etmeyenler fark edemez ama geçen seneye kadar bu takımın en temel yerli futbolcuları oğuzhan - cenk - necip ve olcaydı. olcay artık trabzonspor'da fakat kalan üçlü hala bu takımın saha dışındaki omurgası. bu üçlü ne takım içerisinde hegemonya kurma sevdasına girer, ne yabancı düşmanlığı yapar, ne yedek kalınca olay çıkartır, ne kazandıkları başarılardan sonra şımarıp kendisini şaşırır, ne de saha dışında rezillikler yapar. tam tersi bu üçlü takımın omurgasının temelidir. hem yerlilere hem de yabancılara örnek olurlar, beşiktaş'ta oynamanın nasıl bir sorumluluk olduğunu anlatırlar, takım içerisindeki arkadaşlık ortamına katkıda bulunurlar. fikret orman beşiktaş futbol takımındaki bir çok futbolcuyu tanımlarken genellikle "düzgün karakterli bir insan" der. oğuzhan da bu takımdaki en karakterli futbolculardan birisidir. <br/><br/>haftalardır oğuzhan'ın performansı üzerine bu ortamda dönen geyikleri okuyorum. zamanında galatasaraylı bir trollün gelip yazdığı bir entry üzerinden "oğuzhan xxx milyon ulen mq" geyiği üzerine onlarca yazı okudum. <br/><br/>sevgili beşiktaş ve diğer takım taraftarları artık bir gerçeği iyi anlayın : <br/><br/>-oğuzhan özyakup yarın öbür gün satılacağı zaman kulübe kazandıracağı milyon eurolar ile kıyaslanamayacak kadar değerli ve önemli bir futbolcu beşiktaş için. onun bu takımda olmasının değeri ve bedeli kendisine ödenecek olan potansiyel bonservis bedelinin çok çok daha üzerinde -en azından- benim için! bence aklı başında ve futboldan anlayan milyonlarca beşiktaşlı da bu durumun farkında zaten. <br/><br/>bu nedenle ismi etrafında döndürülen geyiklere, rakip takım taraftarlarının bu adamı küçümsemek için yazdıklarına, tatminsiz ve futbolu sadece sonuç/görsel keyif odaklı yorumlayan ve elindekinden zevk almak yerine her şeyi eleştirerek mutlu olabilen tatminsiz beşiktaş taraftarlarının kendilerini parçalarcasına uğraşmasına sadece gülümsüyorum, sinirlenmiyorum bile. <br/><br/>kıskanananlar elbette kendini paralayacak, futbol değil skor meraklısı beşiktaş taraftarı elbette eleştirecek ama bunların hiç birisi oğuzhan özyakup'un değerini azaltmadı, azaltamaz, azaltmayacak!
+- entry_name: |
+    26 ağustos 2017 akp devlet bahçeli gerilimi
+  entry_id:  70435734
+  entry_writer: manitunun cayirlarinda otlayan egeli
+  entry_fav_count: 35
+  entry_content: |
+    parti içi ufak sürtüşmeler bunlar.<br/>öpüşüp barışırlar. <br/>adam türkiye cumhuriyeti projesinin sonlandırılmasına yardım etmiş. onu mu kıracaklar.
+- entry_name: |
+    sözlükçülerin favori müzik grupları
+  entry_id:  70427777
+  entry_writer: parques
+  entry_fav_count: 34
+  entry_content: |
+    1- herkesin ismini bildiği ama dinlemediği entel bir grup<br/>2- ben dahil çoğu kişinin bilmediği , ama yazarsam entel sanılacağım bir grup<br/>3- yutupta dolaşırken en fazla 500 bin dinlenme aldığını görüp yazdığım bir grup.<br/>4- natink els medır metalikası<br/>5- çok da sikimde olmayan, yutupda bile olmayan, belki de olmayan bir grup<br/><br/>hadi bakalım attık oltayı bekliyoruz.<br/><br/>not: (bkz: <a class="b" href="/?q=sadece+%c3%a7aylaklar+favorileyince+%c3%a7ok+%c3%a7ok+%c3%a7ok+%c3%bcz%c3%bclmek">sadece çaylaklar favorileyince çok çok çok üzülmek</a>)<br/><br/>edit: oh insanlar beni favladı kendimi iyi hissettim ohhhh zirvede bırakmalıyım kamoon
 - entry_name: |
     zam yapmak yerine ürünü küçültme prensibi
   entry_id:  70421229
@@ -178,12 +171,12 @@ data:
   entry_content: |
     tadım çekirdekte yıllardır yapıyor bunu. mesela kırmızı paket bugün diyelimki 400 gram ve 8 lira mavi ise 200 gram ve 4 lira. bir yıl sonra kırmızı paketi 300 gram, maviyi 150 gram yapıyor. fiyat aynı kalıyor. kırmızı 200 grama düştümü farklı bir renkte 400 gram çıkarıyor. döngü devam ediyor. ben de çekirdeğimi alıp izliyorum.
 - entry_name: |
-    sözlükçülerin favori müzik grupları
-  entry_id:  70427777
-  entry_writer: parques
-  entry_fav_count: 33
+    aleyna tilki üstadın ibretlik sorusu
+  entry_id:  70434865
+  entry_writer: renksiz hayat
+  entry_fav_count: 28
   entry_content: |
-    1- herkesin ismini bildiği ama dinlemediği entel bir grup<br/>2- ben dahil çoğu kişinin bilmediği , ama yazarsam entel sanılacağım bir grup<br/>3- yutupta dolaşırken en fazla 500 bin dinlenme aldığını görüp yazdığım bir grup.<br/>4- natink els medır metalikası<br/>5- çok da sikimde olmayan, yutupda bile olmayan, belki de olmayan bir grup<br/><br/>hadi bakalım attık oltayı bekliyoruz.<br/><br/>not: (bkz: <a class="b" href="/?q=sadece+%c3%a7aylaklar+favorileyince+%c3%a7ok+%c3%a7ok+%c3%a7ok+%c3%bcz%c3%bclmek">sadece çaylaklar favorileyince çok çok çok üzülmek</a>)<br/><br/>edit: oh insanlar beni favladı kendimi iyi hissettim ohhhh zirvede bırakmalıyım kamoon
+    hadi bu da benden olsun<br/><br/>neden yazın daha sıcak, kışın daha soğuk yerlere tatile gidiyoruz?
 - entry_name: |
     zeytinli rock fest 2017
   entry_id:  70424677
@@ -195,16 +188,9 @@ data:
     bim ve a101 sucuklarında tükürük bezi çıkması
   entry_id:  70432793
   entry_writer: concerta
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     gıda tarım ve hayvancılık bakanlığı tarafından yapılan analizlerde, bim marketlerde satılan <a class="b" href="/?q=da%c4%9fhan">dağhan</a> ve a101 marketlerde satılan <a class="b" href="/?q=ikbal">ikbal</a> baş tacı sucuklarda baş eti ve tükürük bezi çıkması skandalıdır.<br/><br/>haber tarihi 2016 ekim ayı ancak sözlükte konuyla ilgili başlık bulamadığımdan yazma gereği hissettim. bu markalar hala bim ve a101'lerde satılmaya devam ediyorlar.<br/><br/>ülkede neredeyse her sokakta en az bir tane açılmış olan bu marketlerde satılan bu sucuklardan almayan yoktur herhalde.<br/><br/>sadece bim ve a101'den ibaret değil skandalın boyutu elbette. bakanlık tarafından yapılan denetlemelerde tespit edilen toplam 229 firmaya ait 355 parti ürün yasaklandı. bakanlık tarafından tespit edilen ürünlerin içerisinde <a class="b" href="/?q=at+eti">at eti</a>, <a class="b" href="/?q=e%c5%9fek+eti">eşek eti</a>, kanatlı hayvan karışımı ve tarihi geçen ürünlerin tekrar piyasaya sürüldüğü görüldü.<br/><br/>kaynaklar<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.turder.org/bimde-satilan-daghan-sucuktan-cikanlar/" title="http://www.turder.org/bimde-satilan-daghan-sucuktan-cikanlar/">http://www.turder.org/…an-daghan-sucuktan-cikanlar/</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://resistancehonorable.blogspot.com.tr/2017/04/bim-ve-a101de-buyuk-skandal-bakn-et.html?m=1" title="https://resistancehonorable.blogspot.com.tr/2017/04/bim-ve-a101de-buyuk-skandal-bakn-et.html?m=1">https://resistancehonorable.blogspot.com.tr/…ml?m=1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.gercektaraf.com/haber/215/a-101de-satilan-ikbal-bastaci-sucuktan-cikanlar.html" title="http://www.gercektaraf.com/haber/215/a-101de-satilan-ikbal-bastaci-sucuktan-cikanlar.html">http://www.gercektaraf.com/…-sucuktan-cikanlar.html</a>
-- entry_name: |
-    aleyna tilki üstadın ibretlik sorusu
-  entry_id:  70434865
-  entry_writer: renksiz hayat
-  entry_fav_count: 26
-  entry_content: |
-    hadi bu da benden olsun<br/><br/>neden yazın daha sıcak, kışın daha soğuk yerlere tatile gidiyoruz?
 - entry_name: |
     izmirlilerin araba kullanmada zayıf olması
   entry_id:  70424818
@@ -213,26 +199,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=tokat%27tan+gelip+istanbulluyum+demek">tokat'tan gelip istanbulluyum demek</a>)<br/>(bkz: <a class="b" href="/?q=kendini+istanbullu+sanan+yozgatl%c4%b1">kendini istanbullu sanan yozgatlı</a>)
 - entry_name: |
-    alvaro negredo sanchez
-  entry_id:  70426597
-  entry_writer: savisa
+    death note
+  entry_id:  70422203
+  entry_writer: hellgirl
   entry_fav_count: 22
   entry_content: |
-    eyşan olma bahar ol be negredo.
-- entry_name: |
-    26 ağustos 2017 akp devlet bahçeli gerilimi
-  entry_id:  70435734
-  entry_writer: manitunun cayirlarinda otlayan egeli
-  entry_fav_count: 21
-  entry_content: |
-    parti içi ufak sürtüşmeler bunlar.<br/>öpüşüp barışırlar. <br/>adam türkiye cumhuriyeti projesinin sonlandırılmasına yardım etmiş. onu mu kıracaklar.
+    tanım: anime dünyasının başı çeken animelerinden biri olmasına rağmen netflix tarafından hunharca katledilmiş uyarlamaya sahip film.<br/><br/>ya var ya ne küfür etsem azdır, kim yaptı lan bu filmi? <br/><br/>hadi bakalım başlıyoruz:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>1) <a class="b" href="/?q=light">light</a>'ı neden tam bir ezik, tam bir loser yaptınız amına koyayım ya? kim dedi olm size. abi ilk bölümden yumruk yedi, okul cezasına kaldı, nerede kaldı o cool, zeki çocuk? resmen karizmayı paramparça ettiniz.<br/><br/>2) <a class="b" href="/?q=light">light</a>'ı neden amsalak yaptınız? light dahi denilebilecek zekaya sahip bir karakter, analitik düşünebilecek kapasitede, bu yüzden zaten kolay kolay soğukkanlılığını kaybetmez ve düşünerek, plan kurarak her şeyin içinden çıkabilir. ayrıca kızlardan da etkilenmez ki zaten bu yüzden de <a class="b" href="/?q=amane+misa">amane misa</a>'yı kullanmıştır.<br/><br/>3) <a class="b" href="/?q=light">light</a>'ın ilk cinayetini neden ergen kavgasındaki bir herif olarak yaptınız? light'ın o felsefesini, adalet savunuculuğunu neden daha ilk dakikalardan yıktınız? <br/><br/>4) <a class="b" href="/?q=ryuk">ryuk</a>'un suratını neden <a class="b" href="/?q=deadpool">deadpool</a> gibi yaptınız?<br/><a class="b" href="/?q=wade+wilson">wade wilson</a>: do you like what you see?<br/><a class="b" href="/?q=weasel">weasel</a>: no. you look like an avocado had sex with an older, more disgusting avocado.<br/><a class="b" href="/?q=wade+wilson">wade wilson</a>: yeah.<br/><a class="b" href="/?q=weasel">weasel</a>: not gently. like it was hate-fucking. there was something wrong with the relationship and that was the only catharsis that they could find without violence.<br/><br/>5) <a class="b" href="/?q=death+note">death note</a>'un yapraklarına dokunan herkes <a class="b" href="/?q=ryuk">ryuk</a>'u görebilir. <a class="b" href="/?q=mia">mia</a> neden göremiyor anasını satayım. hadi uyarladınız bir halt yediniz bari kuralları orijinal bıraksaydınız, bari en azından açıp insan gibi doğru düzgün izleseydiniz. <br/><br/>6) <a class="b" href="/?q=l">l</a>'i niye zenci yaptınız? bunu gerçekten çok merak ediyorum. <br/><br/>7) ya yemin ederim salaksınız, yapacağınız işe sokayım, koskoca <a class="b" href="/?q=light">light</a>, koskoca <a class="b" href="/?q=kira">kira</a> hatun tribi yiyor amk. götümle senaryo yazsam daha güzel yazarım herhalde. sen adalet savunucusu diye ün yap. ajanları öldürmedin diye, babanı öldürmedin diye otur hatun tribi ye. abi salaksınız yemin ederim salaksınız ya. <br/><br/>8) <a class="b" href="/?q=mia">mia</a>, light'tan daha akıllı koduğumun filminde.<br/><br/>9) <a class="b" href="/?q=l">l</a>'i neden soğukkanlılığını koruyamayan dahi görünümlü geri zekalı yaptınız? oturuş? check. şeker yemek? check. ismini l koyduk mu? check. böyle mi profil belirlediniz anasını satayım? izlediğimiz <a class="b" href="/?q=l">l</a> figürü bundan ibaretti. içi boş, hiçbir çaresi kalmayıp tek çaresi <a class="b" href="/?q=light">light</a>'ı öldürmek kalmış aptal bir dedektif. tişikkirlir nitfliks.<br/><br/>yeter lan. içine sıçmışsınız konunun. sadece defterin ve isimlerin mi telif haklarını alabildiniz amk. tamam kısıtlı süre, tamam uyarlama. bu kadar da mahvedilmez ama ya? madem kısıtlı süreye sığdıramıyorsun, o zaman dokunmazsın olur biter. death note'un işleyişi ve konusu mantığa ve mantığı kullanmaya dayanır, bir satranç oyunu gibidir, filmde mantıktan çok aksiyon vardı resmen güzelim konuyu popüler kültüre yem edip çöp etmişsiniz. <br/><br/>bunu izleyeceğinize gidin japon film uyarlamalarını izleyin, en azından konuya daha sadıklar.<br/><br/><a class="b" href="/?q=edit">edit</a>: "<a class="b" href="/?q=l%27i+neden+zenci+yapt%c4%b1n%c4%b1z">l'i neden zenci yaptınız</a>" dememden rahatsız olanlar var, onlara iki çift lafım var:<br/>"karakterlerin sarışın, esmer, kumral yapılmasını normal bulup l'in zenci yapılmasından rahatsız olmak" gibi bir durum yok ortada. filmi de normal bulmadım zaten. animeyi izlediyseniz animede de kişilerin her kökenden olduğunu görebilirsiniz. orada da kumral vardır, esmer vardır, sarışın vardır. saçma sapan argümanlarla gelip ırkçılık duyarı kasmayın bana. ayrıca şu entry'i gözlerinizi ve beyninizi kullanarak okursanız şayet; l'in sadece zenci yapılmasına değil her bir zıkkımından rahatsız olduğumu görürsünüz. nerenizle okuyorsunuz.<br/>animede <a class="b" href="/?q=l">l</a>'in yeri her izleyici için farklıdır. <a class="b" href="/?q=l">l</a> bir ikondur. <a class="b" href="/?q=l">l</a> bambaşkadır. onu alıp başka bir şekle sokuyorlarsa tabi ki tepki çekecektir. benim de tepkimi topladı. <a class="b" href="/?q=watari">watari</a>'yi zenci yapsalardı ona da tepki gösterirdim. <a class="b" href="/?q=ryuk">ryuk</a>'un suratını <a class="b" href="/?q=deadpool">deadpool</a>'a benzetmişler ona da tepkimi dile getirdim. diğerleri gibi bir tepkidir, her <a class="b" href="/?q=zenci">zenci</a> lafı gördüğünüz yerde lafı ırkçılığa getirmeyin. çekilmez oluyorsunuz.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     26 ağustos 2017 beşiktaş bursaspor maçı
   entry_id:  70435572
   entry_writer: ruwenzori 3
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     şenol güneş'in negredo'ya verdiği süreler artıyor, bu gidişle önümüzdeki sezonun ortalarına doğru 90 dakika oynamaya başlar.
+- entry_name: |
+    volkswagen golf
+  entry_id:  70429512
+  entry_writer: acxewd
+  entry_fav_count: 20
+  entry_content: |
+    mercedes clk'dan daha iyi olan araba. golfte 4 tane kapi varken clk'da 2 tane vardir. 4&gt;2
 - entry_name: |
     selçuk inan
   entry_id:  70421033
@@ -244,7 +230,7 @@ data:
     şenol güneş
   entry_id:  70434821
   entry_writer: i have got too many legs
-  entry_fav_count: 11
+  entry_fav_count: 13
   entry_content: |
     burak yılmaz - alışma dönemi 0 - gol 3<br/>gomis - alışma dönemi 0 - gol 3<br/>nasri - dün geldi - 20.dk 1 gol<br/>negredo - cenk küser :( beklesin.<br/><br/>sabit fikirli deyince küfür yiyoruz
 - entry_name: |
@@ -262,12 +248,33 @@ data:
   entry_content: |
     aleni şekilde suç işleyen insanları ifşa etmenin neresi mallık, anlayamadım.<br/><br/>bence bu insanlar görüşleri ulu orta yayılıp da tepki çekmesin diye bu kadar kızıyorlar.<br/><br/>bu tiplerin bu açıklamaları çarşaf çarşaf yayınlanmalı ki neyle karşı karşıya olduğumuz görülsün.<br/><br/>yoksa bu tipler "nur yüzlü hoca efendi" gibi laflarla evinin içine kadar gelecek, her yeri ele geçirecek sonra ağlayacaksın "aaa bunları mal diye önemsemedik ama evimize kadar gelmişler" diye.
 - entry_name: |
+    mete kalkavan
+  entry_id:  70436423
+  entry_writer: solinas
+  entry_fav_count: 8
+  entry_content: |
+    26 agustos 2017 besiktas bursaspor macinda taliscaya yapilan harekete birak kirmiziyi sari bile cikartmamasinin aciklamasi sadece kotu niyetli olmasidir.<br/>hic bir hakem o pozisyonu en azindan sari kartsiz gecistirmez. herif bele taban gecirdi, ama sari karti oldugu icin kart bile gosteremedi.<br/><br/>bunun adi serefsizliktir.
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  70432119
+  entry_writer: life is but a dream
+  entry_fav_count: 8
+  entry_content: |
+    one day someone is going to hug you so tight that all of your broken pieces will stick back together.
+- entry_name: |
     enes ünal
   entry_id:  70434708
   entry_writer: adam olan cocuk
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=come+to+ek%c5%9fi+s%c3%b6zl%c3%bck">come to ekşi sözlük</a>)
+- entry_name: |
+    500 bin tl ile yapılacak en iyi yatırım
+  entry_id:  70436627
+  entry_writer: one punch man
+  entry_fav_count: 6
+  entry_content: |
+    her yatırım başlığı altında "dinya tıru in iyi yıtırımdır..." entrysinden sonra kumbaraya 100 lira atsaydım şu an arsa alarak yatırım yapıyor olurdum.<br/>sokuşturucam dünya turunuza. bir kaç sene sonra öz çocuğun arkandan "mına kodumun çocuğu gitmiş amsterdam'da yemiş bütün parasını" diye sövdüğünde çok güzel olacak. bu kadar dünya turu meraklısıysanız gidin parasız dünya turu yapan blogları falan okuyun.
 - entry_name: |
     ricardo quaresma
   entry_id:  70435071
@@ -276,12 +283,26 @@ data:
   entry_content: |
     caner korner atmaya hazırlanırken gelip topun arkasına geçti. ilk defa korner kullanılırken iki futbolcunun topa vurmak için hazırlandığını gördüm. amacı neydi gerçekten anlamadım. talisca'nın frikiklerine salça olması yetmiyor sanki.
 - entry_name: |
+    muzaffer izgü
+  entry_id:  70436204
+  entry_writer: bora ve gorkem
+  entry_fav_count: 4
+  entry_content: |
+    bundan 20-25 yıl önce çocukluğumda ailemle çeşme'ye yazlığa gittiğimizde çarşıda roma dondurmacısının civarında bir masada standı olurdu akşamları. oradan kitaplarını alırdık annemle. sonra onları imzalarken de 5-10 dakika sohbet ederdi benle. <br/><br/>kitaplarını isteyerek ve severek okurdum. akıllı uslu, örnek gösterilen bir çocuk olmama çok faydası vardı kitaplarının. ruhu şad olsun.
+- entry_name: |
     murat başoğlu'nun abisinin tacizci çıkması
   entry_id:  70434105
   entry_writer: 404gibi
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     içinde bol bol 'iddia edildi' ve 'ileri sürüldü' bulunduran bir haber. inanayım mı inanmayayım bilemedim.
+- entry_name: |
+    beşiktaş
+  entry_id:  70426048
+  entry_writer: 02
+  entry_fav_count: 4
+  entry_content: |
+    beşiktaş'la lyon arasındaki transfer geliri uçurumunun nedeni takımlar arasındaki fark değil ligler arasındaki farktır.<br/>türkiye ligi çöp liglerden biridir. bu nedenle de, türkiye ligindeki bir takım bahsi geçen rakamlara asla ulaşamaz. <br/>şöyle örneklendireyim. lyon türkiye liginde olsaydı, aynı satışlardan elde edeceği gelir 20-30 milyon euro bandının bir kuruş üzerinde olmazdı.<br/>misal neymar, aynı neymar olarak bizim üç büyüklerden psg'ye gitseydi, serbest kalma bedeli maksimum 25-30 milyon euro olurdu.
 - entry_name: |
     ekşi itiraf
   entry_id:  70423476
@@ -297,27 +318,6 @@ data:
   entry_content: |
     geçen zamana bak... halbu ki çok güzel günler yaşayabilirdik...
 - entry_name: |
-    500 bin tl ile yapılacak en iyi yatırım
-  entry_id:  70436627
-  entry_writer: one punch man
-  entry_fav_count: 3
-  entry_content: |
-    her yatırım başlığı altında "dinya tıru in iyi yıtırımdır..." entrysinden sonra kumbaraya 100 lira atsaydım şu an arsa alarak yatırım yapıyor olurdum.<br/>sokuşturucam dünya turunuza. bir kaç sene sonra öz çocuğun arkandan "mına kodumun çocuğu gitmiş amsterdam'da yemiş bütün parasını" diye sövdüğünde çok güzel olacak. bu kadar dünya turu meraklısıysanız gidin parasız dünya turu yapan blogları falan okuyun.
-- entry_name: |
-    muzaffer izgü
-  entry_id:  70436204
-  entry_writer: bora ve gorkem
-  entry_fav_count: 2
-  entry_content: |
-    bundan 20-25 yıl önce çocukluğumda ailemle çeşme'ye yazlığa gittiğimizde çarşıda roma dondurmacısının civarında bir masada standı olurdu akşamları. oradan kitaplarını alırdık annemle. sonra onları imzalarken de 5-10 dakika sohbet ederdi benle. <br/><br/>kitaplarını isteyerek ve severek okurdum. akıllı uslu, örnek gösterilen bir çocuk olmama çok faydası vardı kitaplarının. ruhu şad olsun.
-- entry_name: |
-    mete kalkavan
-  entry_id:  70436497
-  entry_writer: aler
-  entry_fav_count: 2
-  entry_content: |
-    orospu çocuklarının algı operasyonu işe yaramış. yeni fırat aydınus hayırlı olsun.
-- entry_name: |
     bursa izmit sakarya düzce bolu
   entry_id:  70429977
   entry_writer: kedi canini senin
@@ -325,19 +325,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=bithynia">bithynia</a>)
 - entry_name: |
-    oğuzhan özyakup
-  entry_id:  70424748
-  entry_writer: herepsilonbuyuk
-  entry_fav_count: 1
-  entry_content: |
-    yanındakiler olmasın da görelim ne olduğunu denmiş. ha işte neden-sorun-cevap hepsi bu. ozzy takım oyuncusu. sırf bu kafa yüzünden emre mor gibi birine gol attırmış bir oyuncu. dolayısıyla takım olmayan bir takıma alınmaması normal. ayrıca gerçekten bir sürü milli takıma oyuncu gönderiyor beşiktaş ve bu beşiktaş'a bir noktadan sonra iyi gelmiyor. uzanamadığım ciğere murdar diyorum şuan ama ciğerde de bi sorun var sanki. kedilere bile vermemek lazım.
-- entry_name: |
     26 ağustos 2017 göztepe trabzonspor maçı
-  entry_id:  70428350
-  entry_writer: kavimler gocunde evi yagmalanan adam
+  entry_id:  70437078
+  entry_writer: toplamiyorumulankozalaklari
   entry_fav_count: 1
   entry_content: |
-    nolur şu ghilas denen herif oynamasın
+    izmir marşı yankılanan maç.
 - entry_name: |
     sözlük yazarlarının satın aldıkları son kitap
   entry_id:  70432996
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     kadıköy'ü, moda'yı sevenler yeşillendirebilir.
+- entry_name: |
+    alvaro negredo sanchez
+  entry_id:  70427479
+  entry_writer: asirac
+  entry_fav_count: 0
+  entry_content: |
+    tıpkı demba ba, mario gomez ve abubakar gibi ligde ilk gollerini atması için dördüncü haftaya kadar bekleyeceğimizi düşündüğüm star santrforumuz. sonradan açılıyorlar zaten sıkıntı olmaz.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 ---
