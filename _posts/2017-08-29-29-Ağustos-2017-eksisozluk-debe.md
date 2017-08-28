@@ -6,44 +6,51 @@ data:
     aylarca tatil yapanlar parayı nereden buluyor
   entry_id:  70467587
   entry_writer: phi fenomen
-  entry_fav_count: 283
+  entry_fav_count: 286
   entry_content: |
     her yıl yaz aylarında iç sesimin sık sık sorduğu soru.<br/><br/>gayet orta halli, sıradan görünen insanlar yaz gelince o koy senin bu plaj benim dolaşıp güzel otellerde kalmaya başlıyor.<br/><br/>ulan ben bi ailemin yanına gittim, dışarıda birkaç kez yemek yedim diye iflas ettim siz nasıl böyle lüks yaşıyorsunuz!? <br/><br/>para biriktiriyorlar falan demeyin, inanmam. kış gelince de kayak merkezlerinden çıkmıyorlar; para böyle birikmez.<br/><br/>bahis mi oynuyorsunuz? ne yapıyorsunuz? değirmenin suyu nereden geliyor?
 - entry_name: |
     game of thrones
   entry_id:  70462305
   entry_writer: fakirpislik06
-  entry_fav_count: 251
+  entry_fav_count: 257
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>jon: "abilerim ablalarım beni bir saniye dinlemenizi istiyorum. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/vp1OyR.png" title="https://i.hizliresim.com/vp1OyR.png">şu elimde görmüş olduğunuz dragonglass</a> dünyanın en iyi kılıcıdır. dünyanın bütün meşhurları bununla ak gezen öldürüyor. ingiltere kralı, rahmetli başkan kenedy, taçsız kral pele, beckenbauer, kaleci maier, nadya komanaçi, biricik bardo, fenerbahçeli cemil..."<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     top geçer adam geçmez denince akla gelen futbolcu
   entry_id:  70464146
   entry_writer: atesisonukejderha
-  entry_fav_count: 217
+  entry_fav_count: 219
   entry_content: |
     (bkz: <a class="b" href="/?q=volkan+demirel">volkan demirel</a>)
 - entry_name: |
     tinder'da yapılan çocuk tecavüzcüsü deneyi
   entry_id:  70462733
   entry_writer: depremoldudiyeyazmakicingeldim
-  entry_fav_count: 183
+  entry_fav_count: 186
   entry_content: |
     (bkz: <a class="b" href="/?q=kad%c4%b1nlar%c4%b1n+efendi+adam+yerine+o%c3%a7+tercihi">kadınların efendi adam yerine oç tercihi</a>)
 - entry_name: |
     27 ağustos 2017 vatan şaşmaz'ın öldürülmesi
   entry_id:  70469992
   entry_writer: stevemcqueen
-  entry_fav_count: 179
+  entry_fav_count: 186
   entry_content: |
     merhaba. bir üst entrydeki şiyirden daha kötü bir şiyir bu yaşıma kadar gerçekten okumadım.
 - entry_name: |
     amazon türkiye'nin kurulması
   entry_id:  70472401
   entry_writer: foxtrot
-  entry_fav_count: 159
+  entry_fav_count: 183
   entry_content: |
     türkiye'de dolandırıcı kılıklı online alışveriş sitelerinin önünü kesecektir umarım. hani ekşi sözlük'te her gün rezalet başlığı açılan, süper hızlı kargo gönderimlerini 1 hafta ürün yok diye iptal eden dolandıcılar var ya. isim vermeyelim, başımız belaya girmesin. sırf bu şark kurnazı dolandırıclar iflas etsin diye bütün online alışveriş alışkanlıklarımı amazon türkiye'ye taşımaya hazırım.
+- entry_name: |
+    filiz aker
+  entry_id:  70459032
+  entry_writer: dakikada 100 dil darbesi
+  entry_fav_count: 155
+  entry_content: |
+    1 yıldır conrad hilton'da yaşıyormuş. düşünün dehşet derecede paranız var, abd vatandaşısınız, vizesiz istediğiniz ülkede tatil yapabilirsiniz, bahamalar'da, cancun'da, hawaii'de cennet gibi yerlerde hayatınızı mutlulukla yaşayabilir conrad hotele 1 ayda verdiğiniz paraya meşhur malibu sahilinde villa kiralayabilirsiniz.<br/><br/>ama siz kendinizi beşiktaşta bir otel odasına kapatıp 1 yıl burada yaşıyorsunuz. sadece bunlar bile kadının nasıl bir ruh hastası olduğunun ispatıdır.
 - entry_name: |
     28 ağustos 2017 pkk'nın 3 işçiyi öldürmesi
   entry_id:  70465752
@@ -52,52 +59,52 @@ data:
   entry_content: |
     ekmeğinin derdinde olan gariban işçilerin, emekçilerin, açılımı "kürdistan işçi partisi" olan bir terör örgütü tarafından katledilmesi olayı.
 - entry_name: |
-    filiz aker
-  entry_id:  70459032
-  entry_writer: dakikada 100 dil darbesi
-  entry_fav_count: 154
-  entry_content: |
-    1 yıldır conrad hilton'da yaşıyormuş. düşünün dehşet derecede paranız var, abd vatandaşısınız, vizesiz istediğiniz ülkede tatil yapabilirsiniz, bahamalar'da, cancun'da, hawaii'de cennet gibi yerlerde hayatınızı mutlulukla yaşayabilir conrad hotele 1 ayda verdiğiniz paraya meşhur malibu sahilinde villa kiralayabilirsiniz.<br/><br/>ama siz kendinizi beşiktaşta bir otel odasına kapatıp 1 yıl burada yaşıyorsunuz. sadece bunlar bile kadının nasıl bir ruh hastası olduğunun ispatıdır.
-- entry_name: |
     arka koltuk diz mesafesi geniş araç
   entry_id:  70463682
   entry_writer: sagdansoldanestarabim
-  entry_fav_count: 118
+  entry_fav_count: 119
   entry_content: |
     (bkz: <a class="b" href="/?q=skoda+superb">skoda superb</a>)
 - entry_name: |
     arakan'daki vahşetin kimsenin umrunda olmaması
   entry_id:  70460696
   entry_writer: anani siken kadi
-  entry_fav_count: 114
+  entry_fav_count: 115
   entry_content: |
     müslüman oldukları için denmiş ama alakası yok.<br/>myanmarlı müslümanlar fakir olduğu içindir.<br/>yemendeki müslümanlar da öldürülüyor, o da kimsenin umrunda değil çünkü onlar da fakir. peki katar? ooo ona asker bile yollarız çünkü onların dolarları var.<br/><br/>myanmar veya yemen'e asker yollayalım demiyorum, sadece gerçek dinin dolar dini olduğunu görün diye söylüyorum.
 - entry_name: |
     sevişmek istenen ünlüler
   entry_id:  70465587
   entry_writer: kocgiri
-  entry_fav_count: 100
+  entry_fav_count: 101
   entry_content: |
     kesinlikle <a class="b" href="/?q=e">e</a>'dir. her ne kadar zerafetiyle <a class="b" href="/?q=i">i</a> daha makbul gibi görünse de sıfır beden sevmeyip hafif balık eti seven benim için <a class="b" href="/?q=e">e</a> vazgeçilmezdir.
 - entry_name: |
     2017 turizm şahlanması
   entry_id:  70463394
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 86
+  entry_fav_count: 88
   entry_content: |
     mal beyanında bulunmuş herhalde arkadaş. veri okumayı bilse böyle davranmaz eminim.<br/>evet 2002-2014 arasında sürekli artan turizm geliri var.<br/>turizmin şahlandığı en son yıl 2014, bak istersen türsab verilerine 34 milyar dolar ve 40 milyon turist görürsün.<br/>peki ne oldu?<br/>2015 de rus uçağı düşürdük<br/>2016 da fetö darbesi<br/>2017 de rte atarı<br/><br/>2015 yılından beri türk turizmi çöküşte. kayıp 20 milyar dolara ulaştı.<br/>2017 yılının ilk 6 aylık diliminde 8.5 milyar dolar gelir varken, turist sayısı da düştü.<br/><br/>ingiliz, orta avrupalı ve iskandinavların yerini, rus, ukran ve faslı, cezayirli, lübnanlı, ürdünlü beş parasız kekolar aldı.<br/><br/>dolayısıyla kişi başına harcamalar 850 usd dan 600 dolarlara geriledi.<br/><br/>şimdi git çay demle gel.<br/><br/>şahlanan tek şey var iflas etmiş yunan ekonomisi ve iflastan dönmüş ispanyol ekonomisi.<br/><br/>hadi az ötede oynayın.<br/><br/>turizm krzinde baz yıl 2014 olarak alın. bakalım hangi yıllara geri dönmüşüz.<br/><br/>edit: ahahahaha korkak götlek küfür edip mesaja kapatıyor kendisini. mal oğlu mal seni.<br/><br/>şuraya gerçek rakamları da bırakalım.<br/>(bkz: <a class="b" href="/entry/69961755">#69961755</a>)
 - entry_name: |
     luis neto
   entry_id:  70468364
   entry_writer: ben hastayim
-  entry_fav_count: 72
+  entry_fav_count: 73
   entry_content: |
     ön libero da oynayabiliyor olması şüphesiz aykut kocaman'ı sevindirmiştir.<sup class="ab"><a title="(bkz: aykut kocaman ve yedi ön liberolar strike back)" href="/?q=aykut+kocaman+ve+yedi+%c3%b6n+liberolar+strike+back" data-query="aykut kocaman ve yedi ön liberolar strike back">*</a></sup>
+- entry_name: |
+    50 tl'lik elektrik tüketimine 50 tl vergi almak
+  entry_id:  70464391
+  entry_writer: cevre muhendisi
+  entry_fav_count: 72
+  entry_content: |
+    evime kesilmiş olan elektrik faturasını incelediğimde,<br/><br/>enerji bedeli: 50.61tl<br/>dağıtım bedeli: 27.85tl<br/>enerji fonu: 0.51tl<br/>trt payı: 1.01tl<br/>btv: 2.53tl<br/>kdv: 14.85tl<br/><br/>ödenecek tutar: 97tl olarak gözüküyor. kardeşim tamam sen gene dağıtım bedeli, kdv al ama 50tl lik fatura kadar kesinti yapmak nedir ya.<br/><br/>not: sayaç akıllı sayaç değil.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/lWaJ4E.jpg" title="https://i.hizliresim.com/lWaJ4E.jpg">fatura caps</a>
 - entry_name: |
     game of thrones'un jon snow'un rüyası olması
   entry_id:  70470351
   entry_writer: nutella yiyen ayi
-  entry_fav_count: 68
+  entry_fav_count: 71
   entry_content: |
     tyrion lannister tuzlukmuş.<br/><br/><a class="b" href="/?q=edit">edit</a>: başlık umarım üzerime kalmaz, peşin peşin yazıyorum.
 - entry_name: |
@@ -107,6 +114,13 @@ data:
   entry_fav_count: 62
   entry_content: |
     1 yaşını bekleme babasına git direk eline boşalsın yere akıtmadan evlendirme dairesine git bas nikahı,artık kız mı olur erkek mi olur kısmetine.
+- entry_name: |
+    hiçbir kız tarafından gerçekten sevilmemiş erkek
+  entry_id:  70472839
+  entry_writer: justmentalamele
+  entry_fav_count: 56
+  entry_content: |
+    şimdi hemen yapıştıracaklar: yok sen şöylesin, böylesin, kadını anlamıyorsun, mutlu etmeyi bilmiyorsun falan diye binlerce anti-tez yazacaksınız buraya. iyi de bu söylediklerinizin kat kat üstünde olan piç erkeklerin nasıl daha çok tercih edildiğini açıklayamayacaksınız ama.<br/><br/>bence bu konu ne sosyoloji ne psikoloji nede eğitimle ilgili. sadece olasılık teorisi ile alakalı. bazı insanlar, başında sahibi olmayan bu kainata sadece mutsuz olmak için geliyor. gerçek sadece bu ve çözümsüz.
 - entry_name: |
     samsung galaxy note 8
   entry_id:  70461038
@@ -125,21 +139,14 @@ data:
     chp adalet kurultayında risale-i nur sohbetleri
   entry_id:  70468759
   entry_writer: dede korkut paradoksu
-  entry_fav_count: 53
+  entry_fav_count: 54
   entry_content: |
     risale-i nur denen deli saçması zırvaların değil chp etkinliklerinde, başka yerlerde okunması bile cumhuriyete, laik düzene ve en önemlisi akla ihanettir. <br/><br/>risale-i nur denen bu zırvalar o kadar tehlikelidir ki maruz bırakılan bünyeyi anında eblehleştirmekte üstüne yoktur. zaten kitlenin hipnotize olmuş bir vaziyette sohbeti dinlemesinden bu tehlikeyi anlayabiliyoruz. <br/><br/>böyle giderse chp'nin de akp'lileştirilmesi yakındır. <br/><br/>hipnoz olmuş kitleden diyen kimse çıkmamış ama ben haykırıyorum:<br/><br/><a class="b" href="/?q=yallah+arabistan%27a">yallah arabistan'a</a>...
-- entry_name: |
-    hiçbir kız tarafından gerçekten sevilmemiş erkek
-  entry_id:  70472839
-  entry_writer: justmentalamele
-  entry_fav_count: 44
-  entry_content: |
-    şimdi hemen yapıştıracaklar: yok sen şöylesin, böylesin, kadını anlamıyorsun, mutlu etmeyi bilmiyorsun falan diye binlerce anti-tez yazacaksınız buraya. iyi de bu söylediklerinizin kat kat üstünde olan piç erkeklerin nasıl daha çok tercih edildiğini açıklayamayacaksınız ama.<br/><br/>bence bu konu ne sosyoloji ne psikoloji nede eğitimle ilgili. sadece olasılık teorisi ile alakalı. bazı insanlar, başında sahibi olmayan bu kainata sadece mutsuz olmak için geliyor. gerçek sadece bu ve çözümsüz.
 - entry_name: |
     ozan tufan
   entry_id:  70462448
   entry_writer: dis
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     tek eksigi ayaklarini kullanamamasiymis. <br/><br/>amk oyunun adi futbol zaten? foot-ball. ayak topu. sakl;je;qlwkejqw
 - entry_name: |
@@ -150,19 +157,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=densizlik">densizlik</a>)<br/>(bkz: <a class="b" href="/?q=hadsizlik">hadsizlik</a>)<br/>(bkz: <a class="b" href="/?q=g%c3%b6rg%c3%bcs%c3%bczl%c3%bck">görgüsüzlük</a>)<br/>(bkz: <a class="b" href="/?q=sayg%c4%b1s%c4%b1zl%c4%b1k">saygısızlık</a>)<br/>(bkz: <a class="b" href="/?q=torpil">torpil</a>)<br/>(bkz: <a class="b" href="/?q=cahillik">cahillik</a>)
 - entry_name: |
+    plaja köpeğiyle gelenleri uyarmak
+  entry_id:  70465265
+  entry_writer: ben nereye geldim
+  entry_fav_count: 33
+  entry_content: |
+    bence aranızda plaj uyarı timleri kurun neyi beğenmiyorsanız uyarın bu iş çözülsün. ayrıca deniz de senin yaşam alanın değil neden girip deniz canlılarını rahatsız ediyorsun o zaman.<br/><br/>tanım: sürekli uyarma ihtiyacı hisseden birey önerisi.
+- entry_name: |
+    as monaco
+  entry_id:  70463395
+  entry_writer: siparisi koreden 75 gunde gelen adam
+  entry_fav_count: 33
+  entry_content: |
+    bize de bir aleyküm selam diyecekler gibi
+- entry_name: |
     vatan şaşmaz
   entry_id:  70459832
   entry_writer: clstl
   entry_fav_count: 31
   entry_content: |
     herkes merak ediyordu ya 'gram üzülmediğinizi' başlığa girip hemen yazma gereği hissetmişsiniz nasıl nefretse ölünce de devam ediyor. ben mesela ölümüne üzülmediğim bir adam için açılan başlığa girip üzülmediğimi yazmaya bile tenezzül etmem amaç ne onu da anlamış değilim yazılan çoğu şey nasıl, neden öldüğüyle ilgiliyken birden 'ben üzülmedim' yazısı aman allahım diyorum helal olsun demek üzülmedin herkes kendini yerlere vuruyor sen dimdik ayaktasın aferin lan gel hemen madalyanı takalım. tamam biz de kendimizi paralamıyoruz üzüntüden gencecik insan kimse böyle ölmeyi hak etmez daha yaşayacakları vardı diyoruz bi burukluk oluyor içimizde ama böyle saygısızlık yapmanın ne gereği var. bir de adamdan bu kadar nefret edecek kadar ne samimiyetiniz var onu da anlamış değilim. bu başlık adamın adına açılmış başlık ileriki yıllarda merak eden açıp okuyacak bu yazdığınız saçmalıkları görecek adam ölmeden önce nefretiniz aklınıza gelseydi de nedenleriyle yazsaydınız ölünce sol framede görüp hatırladığı adama yardırmak da yeni moda oldu herhalde.<br/><br/>edit:düzeltme
-- entry_name: |
-    as monaco
-  entry_id:  70463395
-  entry_writer: siparisi koreden 75 gunde gelen adam
-  entry_fav_count: 30
-  entry_content: |
-    bize de bir aleyküm selam diyecekler gibi
 - entry_name: |
     arda turan'ın oğuzhan'ı milli takıma aldırmaması
   entry_id:  70464406
@@ -171,12 +185,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcrkiye+milli+tak%c4%b1m%c4%b1+dingosu+ve+ah%c4%b1r%c4%b1">türkiye milli takımı dingosu ve ahırı</a>)
 - entry_name: |
-    plaja köpeğiyle gelenleri uyarmak
-  entry_id:  70465265
-  entry_writer: ben nereye geldim
-  entry_fav_count: 26
+    jon snow
+  entry_id:  70466977
+  entry_writer: onedu3
+  entry_fav_count: 24
   entry_content: |
-    bence aranızda plaj uyarı timleri kurun neyi beğenmiyorsanız uyarın bu iş çözülsün. ayrıca deniz de senin yaşam alanın değil neden girip deniz canlılarını rahatsız ediyorsun o zaman.<br/><br/>tanım: sürekli uyarma ihtiyacı hisseden birey önerisi.
+    (bkz: <a class="b" href="/?q=motherfucker+of+the+dragons">motherfucker of the dragons</a>)
+- entry_name: |
+    vatan şaşmaz'ın cansız görüntülerinin yayınlanması
+  entry_id:  70473696
+  entry_writer: vallabiznickbilmiyorum
+  entry_fav_count: 21
+  entry_content: |
+    sahipsiz olunca insanın cenazesi bile malzeme demek ki.. adamcaz resmen meze oldu niteliksiz karektersiz ekran şeylerine.. yazık. <br/>mesala şu manisa'dasiniz bütün silahlı kuvvetleri zehirleyen yemek şirketi hakkında bir tek haber yapmayanların bunları basın özgürlüğü diye servis etmesini o.ç. haricinde başka bir şeyle tanımlamak pek mümkün olmasa gerek.
+- entry_name: |
+    gitmek mi zor kalmak mı
+  entry_id:  70460907
+  entry_writer: sanat tarihi okudukta ne oldu
+  entry_fav_count: 21
+  entry_content: |
+    gitmeye karar verip, olduğun yere çakılı kalmak.
 - entry_name: |
     josef de souza dias
   entry_id:  70460429
@@ -184,13 +212,6 @@ data:
   entry_fav_count: 20
   entry_content: |
     hakkındaki teklif red filan edilmemiştir zira ortada böyle bir teklif yoktur.<br/><br/>3 senedir yerlerde sürünen ve gerek lokal gerekse evrensel anlamda hiçbir başarısı olmayan bir kulüpte, aman aman bir top oynamamış düz bir dos'u, bir premier lig kulübünün alınan paradan fazlasına (11 milyon euro) satın alacağına inanan cidden gerizekâlıdır ve şunlara da inanmıştır:<br/><br/>(bkz: <a class="b" href="/?q=may%c4%b1s%27ta+transferler+bitecek">mayıs'ta transferler bitecek</a>)<br/><br/>(bkz: <a class="b" href="/?q=vitor+ben+gidene+kadar+tak%c4%b1m%c4%b1n+ba%c5%9f%c4%b1nda+kalacak">vitor ben gidene kadar takımın başında kalacak</a>)<br/><br/>(bkz: <a class="b" href="/?q=ersun+yanal%27%c4%b1+getirmeyece%c4%9fim">ersun yanal'ı getirmeyeceğim</a>)<br/><br/>(bkz: <a class="b" href="/?q=aykut+kocaman+bu+kul%c3%bcpten+i%c3%a7eri+giremez">aykut kocaman bu kulüpten içeri giremez</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c3%bc%c3%a7+y%c4%b1l+%c3%bcst+%c3%bcste+%c5%9fampiyon+olaca%c4%9f%c4%b1z">üç yıl üst üste şampiyon olacağız</a>)<br/><br/>(bkz: <a class="b" href="/?q=ersun%27un+ses+kayd%c4%b1n%c4%b1+s%c4%b1zd%c4%b1ranlar%c4%b1+bulaca%c4%9f%c4%b1z">ersun'un ses kaydını sızdıranları bulacağız</a>) (meğerse azizmiş).<br/><br/>(bkz: <a class="b" href="/?q=o%c4%9fuz+kaan%27a+manchester+city+be%c5%9f+milyon+euro+verdi">oğuz kaan'a manchester city beş milyon euro verdi</a>)<br/><br/>(bkz: <a class="b" href="/?q=nani%27ye+20+milyon+euro+verdiler+satmad%c4%b1m">nani'ye 20 milyon euro verdiler satmadım</a>)<br/><br/>(bkz: <a class="b" href="/?q=kasada+100+milyon+euro+var+istersem+harcar%c4%b1m">kasada 100 milyon euro var istersem harcarım</a>)<br/><br/>(bkz: <a class="b" href="/?q=finansal+fair+play%27i+ben+istedim">finansal fair play'i ben istedim</a>)<br/><br/>(bkz: <a class="b" href="/?q=ibrahimovic%27e+10+milyon+euro+teklif+ettik">ibrahimovic'e 10 milyon euro teklif ettik</a>)<br/><br/>(bkz: <a class="b" href="/?q=iki+g%c3%bcne+kadar+forma+sponsorunu+a%c3%a7%c4%b1klar%c4%b1z">iki güne kadar forma sponsorunu açıklarız</a>) (hani aq?)<br/><br/>(bkz: <a class="b" href="/?q=bu+hafta+i%c3%a7erisinde+d%c3%b6rt+transfer+yapaca%c4%9f%c4%b1z">bu hafta içerisinde dört transfer yapacağız</a>) (loldado ve giuliano geldi, kalan 2'si nerede?)<br/><br/>edit: gençlik, göt olmak üzereyim. inşallah olurum. lütfen yönetim son dört yılda ilk kez doğru bir şey söylemiş olsun. ama oldukça şaşırtıcı yine de.
-- entry_name: |
-    gitmek mi zor kalmak mı
-  entry_id:  70460907
-  entry_writer: sanat tarihi okudukta ne oldu
-  entry_fav_count: 20
-  entry_content: |
-    gitmeye karar verip, olduğun yere çakılı kalmak.
 - entry_name: |
     içki içenlerin partiden ilişiğinin kesilmesi
   entry_id:  70470293
@@ -206,12 +227,12 @@ data:
   entry_content: |
     iyiden iyiye saçmaladılar artık..<br/>bu resmen bariz belli ki yukarıdan birinin talimatıyla gaz alınmak için yapılmış bir harekettir..<br/>beşiktaşlı olsam gerçekten de kızacağım durumdu..<br/><br/>arda gelmicem dedi, ayağına gittiler, geldi..<br/>oğuzhanı çağırmadılar , kamuoyu tepkisiyle karar değiştirdiler..<br/>bu tff baştan kokmuş arkadaş..
 - entry_name: |
-    vatan şaşmaz'ın cansız görüntülerinin yayınlanması
-  entry_id:  70473696
-  entry_writer: vallabiznickbilmiyorum
-  entry_fav_count: 16
+    sevgilisinin bedelli askerlik ücretini ödeyen kız
+  entry_id:  70472474
+  entry_writer: ataride ordek vuran adam
+  entry_fav_count: 17
   entry_content: |
-    sahipsiz olunca insanın cenazesi bile malzeme demek ki.. adamcaz resmen meze oldu niteliksiz karektersiz ekran şeylerine.. yazık. <br/>mesala şu manisa'dasiniz bütün silahlı kuvvetleri zehirleyen yemek şirketi hakkında bir tek haber yapmayanların bunları basın özgürlüğü diye servis etmesini o.ç. haricinde başka bir şeyle tanımlamak pek mümkün olmasa gerek.
+    5-6 ay sonra terk edilecek kızdır.
 - entry_name: |
     lazerle göz ameliyatı
   entry_id:  70464292
@@ -241,13 +262,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=tavsan+daga+k%c3%bcsm%c3%bcs+dagin+haberi+olmamis">tavsan daga küsmüs dagin haberi olmamis</a>)<br/><br/>amk adam belli ki eksi sözlük okuyan takip eden biri. hakkinda da güzel yorumlarin agirlikli oldugunu ve bu platformda sevilen biri oldugunu bildigi icin tesekkür anlaminda böyle bir etkinlik yapmis. yüzlerce sacma sapan ilkokul seviyesinde soruyu tabiki cevaplamayacak. hem adamı vizyonlu oldugu icin tebrik edin, ardadan emreden uzak dur orada diyin hem de gel burada pes mi fifa mi diye sor. baccayi sorarsan adam tabiki cevaplamaz. daha yeni takimina geleli 2 ay olmamis adamdan baska yeni transfer hakkinda yorum yapmasi bekleniyor.<br/><br/>cevap verdigi sorular özel hayatiyla ilgili ve hobileryle ilgili sorular agirlikli olarak. cünkü adam profesyonel. kariyerini tehlikeye atacak seyler söylemek istememesi cok normal. adama sevdigi diziler sorulmus ve yanitlamis. 20 yasindaki cocuga tff baskani olmak ister misin bir gün denir mi? <br/><br/>bence kalitesini bir kez daha göstermis ve dogru bir etkinlikle kalpleri tekrar kazanmistir.
 - entry_name: |
-    sevgilisinin bedelli askerlik ücretini ödeyen kız
-  entry_id:  70472474
-  entry_writer: ataride ordek vuran adam
-  entry_fav_count: 14
-  entry_content: |
-    5-6 ay sonra terk edilecek kızdır.
-- entry_name: |
     oğuzhan özyakup
   entry_id:  70467256
   entry_writer: ostrava
@@ -255,10 +269,17 @@ data:
   entry_content: |
     tayfur teknik sebeple davet etmedik diye açıklama yapmıştı dün. sanırım takımın taktiği değişti dün akşamdan bugüne.<br/><br/>bok gibi bir memlekette yaşıyoruz lan.<br/><br/>not: atiba
 - entry_name: |
+    bir kadını çok sevmek
+  entry_id:  70462146
+  entry_writer: kadin tamircisi
+  entry_fav_count: 13
+  entry_content: |
+    - yazıp yazıp silmektir.<br/>- üzülmesin, kırılmasın, dudağını büküp yüzünü asmasın diye içine atmaktır.<br/>- film izlerken uyuyakaldığında rahatsız olmasın diye kontrollü nefes almaktır.<br/>- tüm parayı hediyeye harcadıktan sonra bakırköy'den büyükçekmece'ye kadar otostopla gitmektir.<br/>- okul kaydını yaptırabilmesi için sigarayı bırakmak, okul bittikten sonra yeniden başlamaktır.<br/>- sigara kokusunu sevmiyor diye günde 1500 kere diş fırçalamaktır.<br/>- sırf doktordan korkuyor diye, muayene öncesi telefon açıp rahatlatmak için uyanamam korkusuyla sabaha kadar uyumamaktır.<br/>- en sevdiğin şiir kitabının kapağına yazdığın notu bir yıl sonra fark ettiğinde bile susmaktır.<br/>- odanı, evini, şehrini değiştirmektir.<br/>- ağır geçen regl sancılarında internetten araştırıp karnına sıcak su torbası koymaktır.<br/>- zehirlendiğinde acil serviste bile sıkılmasın diye kitap okumaktır.<br/>- arkadaşların evinde kaçak göçek sevişmeye çalışmaktır.<br/>- doğum günü için mükellef bir sofra hazırladıktan sonra kenardan arkadaşlarıyla nasıl güldüğünü izlemektir.<br/>- gecenin bir vakti başkasını sevdiğini söyleyip seni terk etmesine rağmen, başına bir iş gelmesin diye yeni sevgilisinin evine kadar arabayla bırakmaktır. arkasından eve girene kadar bakmaktır.<br/>- her seferinde kokusunun burnuna gelmesidir, içine öküz oturmasıdır.<br/>- her seferinde, yine, yeni, yeniden inanmaktır.<br/>- her seferinde, yine, yeni, yeniden göt olmaktır.<br/>- ahmaklıktır.
+- entry_name: |
     bir erkeği çok sevmek
   entry_id:  70461787
   entry_writer: kadin tamircisi
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     bir süre sonra elinde bavulunla kapı önüne koyulmak demektir.<br/>not: erkeğim ve freelance olarak meriçlik yapıyorum.
 - entry_name: |
@@ -269,26 +290,12 @@ data:
   entry_content: |
     örümcek adam m.topalın artık acilen takımdan uzaklaştırılmasını; bitmeyen yan topları, odun gibi top kontrolü ve futbol zeka eksikliğiyle haykırdığı maç
 - entry_name: |
-    sinan oğan
-  entry_id:  70465949
-  entry_writer: aygedee
-  entry_fav_count: 5
-  entry_content: |
-    meral akşener'in partisinde yer almayacağını beyan eden mhp muhalifi. <br/>aldığı bu kararla kendisinin asıl kaygısının vatan değil koltuk olduğu ortaya çıktı. eski lideri bahçeli'den hiç bir farkı olmadığını ortaya koymuştur. dilerim bu yanlışından tez vakitte geri adım atıp olması gerektiği yerde saf alır, muhaliflerin yanında.
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  70461809
-  entry_writer: bazarovunfedaisi
-  entry_fav_count: 5
-  entry_content: |
-    hayırlısı oldu bence. kapkaranlık benim hayatım. kolay kolay da kimsenin aydınlatabileceğini zannetmiyorum. aydınlanmak da istemiyorum. kompleksli gıcık bir insanım ben. tam bir şimdiki zaman düşmanıyım. 15 dakika öncesini bile özlüyorum. hayatımda hiçbir şey iyiye gitmedi çünkü benim. gidecek gibi oldu bazen de, olmadı işte. bencilsin, egoistsin cümlelerini çok duyuyorum artık. umursamaz olmanın egoistlikle ne alakası var anlamış değilim. kendimi de çok umursamıyorum ki ben öyle. şurada topu topu 60-70 sene yaşayıp geberip gidicez. ne bu hırs, ne bu dert tasa anlamıyorum insanlardaki. şu insan ilişkilerindeki uyumsuzluğumun sebebi biraz da güvensizlik galiba. kendimden başka kimseye güvenmiyorum ki yaşayarak defalarca gördüm. bir şeyin peşinden koşacak güç yok bende. ben yürüyorum dedim. yürümeye devam edeceğim. birlikte yürümek isteyen olursa yürüyebilir. fakat birinin ayağı tökezledi ya da durmak istedi diye durmadım, durmicam da. neyse işte..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=rvE5EtH3gCk" title="https://www.youtube.com/watch?v=rvE5EtH3gCk">garip halimden</a>
-- entry_name: |
-    esnafların çok para kazandığının düşünülmesi
-  entry_id:  70459914
-  entry_writer: siyahinsozu
+    merkez demokrat parti
+  entry_id:  70474628
+  entry_writer: sakalli vasfi
   entry_fav_count: 4
   entry_content: |
-    işim dolayısıyla esnaflara tahakkuk eden vergilerle haşır neşirim. gerçek usul mükellefleri bir kenara bırakacak olursak basit usul mükelleflerin -çok para kazandığı algısından ziyade- vergi ödemediğine bizzat tanığım. artık yalnızca benim çalıştığım bölgede mi böyle bilmiyorum, ama 2016 yılı basit usul ticari kazanç beyannameleri dolayısıyla bir lira bile<sup class="ab"><a title="(bkz: damga vergisini saymıyorum)" href="/?q=damga+vergisini+saym%c4%b1yorum" data-query="damga vergisini saymıyorum">*</a></sup> vergi ödeyen mükellefe denk gelmedim. şöyle ki: <br/><br/>2016 yılındaki düzenleme ile gelen 8000 lira indirim+mükellefin giderleri+her zamanki gerçek dışı kesilen perakende satış fişleri, faturalar, vb. mükellefte vergi matrahını direkt sıfırlıyor. en fazla 7.000,00 tl gördüğüm ticari kazanç, daha giderler bile göz önünde bulundurulmadan bahsi geçen indirim dolayısıyla matraha varana kadar sıfırlanıyor. en iyi ticari kazanç 7.000,00 lira. <br/><br/>yoklamalara, denetimlere çıkıldığında yapılan hasılat tespitleri ise beyanların yanından geçmiyor. adam net kazancını yıllık 1.500,00 lira beyan etmiş. yapılan denetimdeki günlük hasılat tespiti 100 lira, haftalık çalışma süresi 6 gün şeklinde iken 1.500,00 tl net kazanç nedir abi ya? 1.500,00 lira net kazançla ne yapıyorsun sen? 4 kişilik bir ailede eve her gün iki ekmek alsan yıllık 730 lira eder. bahsettiğim esnaf 15-20 yıllık esnaf... komşu mükellef ise gerçek usul olduğu için onlarca beyanname verirken bir sürü vergi tahakkuk ediyor, ama bu adamlar gerçeğe yakın belge tutmuyorlar. demem o ki sgk primlerine yeterince hakim değilim, ancak gelir vergisi yönünden bu abiler hiçbir şey ödemiyorlar. ya da dediğim gibi anadolu'nun 35 bin nüfuslu bir ilçesinde böyle.
+    isimden çok algı önemli meral hanım isterse komünist hareket partisi koysun.önemli olan üzerindeki o mhp gömleğini çıkartması<br/><br/>meral hanımın yanındakilere bakarsak sadece mhp den ismler var.akp den ve chp den özellikle akp den faal siyaset hayatına devam eden ağır top diyebileceğimiz kişiler lazım. abdüllatif şener gibi kişilerden de uzak durması lazım<br/><br/>mesela yozgatta mhp ve chp yi geçen lütfullah kayalar gibi kişiler lazım.yoksa koray aydın kim cihan paçacı kim
 - entry_name: |
     ekşi itiraf
   entry_id:  70461119
@@ -304,12 +311,12 @@ data:
   entry_content: |
     solcuları sağcı cumhurbaşkanı adayına, yani yeni bir ekmel'e ikna etmek amacıyla toplanan bir etkinlikte üç beş yurttaşın alanın dışında ik üç kadeh şarap içip eğlenmesi çok garip (!) kaçmıştır. <br/><br/>oysa bu etkinlikte risale-i nur sunumu yapılmış, bilumum gerici, şeriatçı 28 şubat mağduru sıfatı ile baş köşeye oturtulmuş, akp'nin dönekleri şakşaklanmış, yetmemiş atatürk'e deccal diyen şahıs saygı ile (!) anılmıştır. eh böyle bir ortamda hızını alamayan bülent tezcan içki içmek sanki suçmuşçasına yurttaşları suçlamıştır. <br/>aferin chp böyle devam. akp içki içmeyi suç haline getirmeye çalışırken siz de kaypakça davranıp içki içenleri suçlayın. <br/>zaten akp sözcüsü numan kurtulmuş da bu fırsatı değerlendirerek içki içen yurttaşlar hakkında yasal işlem yapılacağını söylemiş. <br/><br/>neyse napalım bundan sonra chp'nin seçim çadılarına karşı "şerefine kemal" diye bağırırız.
 - entry_name: |
-    kwadwo asamoah
-  entry_id:  70468760
-  entry_writer: penchepathi
+    filiz aker'in cinayet sırasında eldiven takması
+  entry_id:  70474301
+  entry_writer: takeredpill
   entry_fav_count: 2
   entry_content: |
-    bilindiği gibi asamoah'ın galatasaray'a transferi juve'nin atalanta'ya kiralık verdiği spinazzola'yı geri almasına bağlıydı. oyuncu juve'ye dönerse, kulüp asamoah'ı elinden çıkaracaktı. juve yetkilileri de sürecin bu şekilde işlediğine dair demeçler vermişlerdi.<br/><br/>ve nihayet spinazzola atalanta'ya teşekkür ettiği veda mesajını yayınlamış; <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BYVN_UcFd_9/?taken-by=spina_leo" title="https://www.instagram.com/p/BYVN_UcFd_9/?taken-by=spina_leo">spinazzola</a><br/><br/>juventus asamoah'ın mevkiisine bir oyuncu aldığına göre, artık futbolcuyu serbest bırakabilir. oyuncunun kendisiyle ve aacağı ücrette de anlaşma sağlanmıştı zaten. kısa süre sonuçlanır sanıyorum ki.
+    odaya giriş ve çıkışların videolarının internete bile düştüğünü dikkate alacak olursak, birinin odaya kameraya takılmadan girip, çıkabilmesi için su formuna geçip klozetten akması lazım.<br/><br/>kısacası olamayacak, olsa çoktan anlaşılacak hadise.<br/><br/>edit: kamera kayıtları silinmiştir diyen, doğru çalışmıyordur diyen arkadaşlar olmuş. ilgili dakikalardaki herhangi bir kopukluk veya eksiklik zaten dikkat çekecektir ve inceleme oraya yoğunlaşacaktır. diğer kamera kayıtları da işin içine girdiğinde olay daha kolay aydınlatılır. polisiye filminde değiliz ve devlet başkanına suikast yapılmıyor arkadaşlar, abartmayın . olayın ne şekilde olduğu gayet net.
 - entry_name: |
     arda turan
   entry_id:  70464017
@@ -318,19 +325,12 @@ data:
   entry_content: |
     gelme galatasaray'a gelme, gelme, gelme, gelme. kale arkasındaki top toplayan halinle hatırlan. gelme, gelme, gelme, gelme, gelme. hiçbir taraftarın şu durumda gelmesini istediğini sanmıyorum. kötü olsak da gelme, gelme, gelme. 2. lige düşsek bile gelme, maç izlemeye stada bile gelme. üzerine para versen bile gelme. takımdaki futbolcuları aramak için telefonu eline bile alma.
 - entry_name: |
-    aegon targaryen
-  entry_id:  70462588
-  entry_writer: kedi seven insan
-  entry_fav_count: 2
+    petyr baelish
+  entry_id:  70471358
+  entry_writer: progressive psychedelia
+  entry_fav_count: 1
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>kitapta dar deniz'in karşısında ordusunu ve gemilerini toplayıp westeros'a yelken açan taht iddiasındaki bir bireyken dizide kimliğini bastardımızın üzerine yıkmışlardır.<br/><br/>gerçi hatırlayabildiğim kadarıyla, kitapta sadece söz ediliyordu. yanındaki bir karakterin veya kendisinin bakış açısıyla bir bölüm okumamıştık. (yanlış hatırlama ihtimalim yüksek)<br/><br/>edit: uyaran herkese teşekkürler :d bayağı uyaran oldu sağolsunlar :) jon connington'dan bir pov okuyormuşuz kitapta ve westeros'a ayak basıyorlarmış.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    merkez demokrat parti
-  entry_id:  70474792
-  entry_writer: thirtyeightthousandfeet
-  entry_fav_count: 0
-  entry_content: |
-    2. emine ulker tarhan hezimeti geliyor, mhp nin basina gecse yeni bir umut olabilirdi ancak takim tutar gibi parti tutulan bir ulkede ne yapsa %1 i gecemez, cem uzan gibi dolar milyarderi ve medya baronu bile %7 yi anca yakalayip baraj alti kaldi bu ulkede.
+    önce en dipte olup sonra etrafındaki üst insanlarla etkileşim haline girmeye başladığında; isteklerimizin ve gereksinimlerimizin, yukarıya doğru ve sınırsız olduğunu, buz ve ateşin şarkısı tarzında bir örneğini veren karakter.<br/><br/>--- <a class="b" href="/?q=spoiler+-+game+of+thrones+7x7">spoiler - game of thrones 7x7</a> --- <br/>en son kuzey'de görüldü. kuzey'in hakimiyetini almak uğruna oyun içinde oyun oynarken kaybetti ve infaz edildi.<br/><br/>--- <a class="b" href="/?q=spoiler+-+ejderhalar%c4%b1n+dans%c4%b1">spoiler - ejderhaların dansı</a> ---<br/>en son vadi'de, hem arryn hem de stark topraklarının hakimiyetini almak için planlar yapıyor. harrold hardyng ve sansa stark'ı evlendirip, oynayacağı diğer bir oyunla bu kilidi çözebileceğine inanıyor. kraliyetin finansal sorunları nedeniyle de cersei tarafından konseye geri çağrılıyor.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     ekşi sözlük yakıt tüketimi veritabanı
   entry_id:  70465852
