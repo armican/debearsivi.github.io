@@ -6,79 +6,107 @@ data:
     iktidar olursak sarayı üniversite yapacağız
   entry_id:  70560306
   entry_writer: sirgalahad777
-  entry_fav_count: 1859
+  entry_fav_count: 1882
   entry_content: |
     <a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a>'in kuracağı yeni parti hakkında konuşan <a class="b" href="/?q=%c3%bcmit+%c3%b6zda%c4%9f">ümit özdağ</a>'ın <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/sarayi-universite-yapacagiz-ucak-filosunu-da-satacagiz-1997019/" title="http://www.sozcu.com.tr/2017/gundem/sarayi-universite-yapacagiz-ucak-filosunu-da-satacagiz-1997019/">sözleri</a>.<br/><br/>alıntı:<br/><br/>"– iktidara geldiğinizde ilk icraatınız ne olacak?<br/><br/>saray, yeni kurulacak bir üniversiteye kampüs olarak verilecek. cumhurbaşkanı'na ait 13 uçak satılacak. sayın akşener, atatürk'ün mirası olan köşk'te kalacak. bütün israfa sert ve kesin bir şekilde son verilecek. devlette tasarruf ana ilke olacak. sonra üretim ekonomisi başlayacak."<br/><br/>(bkz: <a class="b" href="/?q=hadi+in%c5%9fallah">hadi inşallah</a>)
 - entry_name: |
     menzil cemaati
   entry_id:  70554196
   entry_writer: return of the kedi
-  entry_fav_count: 725
+  entry_fav_count: 733
   entry_content: |
     terör örgütüdür.<br/>müritleri teröristtir.<br/>maddi manevi destek olan herkes terörle mücadele kapsamında cezalandırılmalıdır. <br/><br/>ama bu olmayacaktır. çünkü 10 yıl sonra bu terör örgütü devletin ve halkın anasını avradını siktikten sonra ortaya çıkıp "yeav bilememişiz, kandırmışlar" demek daha kolay.
 - entry_name: |
     referans torpil değildir
   entry_id:  70558514
   entry_writer: ktrci
-  entry_fav_count: 348
+  entry_fav_count: 352
   entry_content: |
     devlet kurumu icin referans torpildir. ozel sektorde referans referanstir, torpil de torpildir.
 - entry_name: |
     bu akşam ukrayna'yı arakan için yeneceğiz
   entry_id:  70563559
   entry_writer: eon blue apocalypse
-  entry_fav_count: 320
+  entry_fav_count: 323
   entry_content: |
     beyefendi mirasının yarısını bu kardeşleriyle paylaşsa daha iyi olur. <br/>zira bu tarz duygu sömürüsü yapmaya gerek bile yoktu. sen yenince arakanlı kardeşlerinin zulmü bitecek mi? <br/>şovcu şebelek.
 - entry_name: |
     arakanlı mültecilerin türkiye'ye getirilmesi
   entry_id:  70562297
   entry_writer: celiktepe stayla
-  entry_fav_count: 302
+  entry_fav_count: 309
   entry_content: |
     "suriyeli sığınmacılar ülkemize kısa sürede uyum sağladı"<br/><br/>dünya'nın en kısa fıkrası. mültecilerin geri dönmesi için uygun şartlar sağlanacağına adamlar yenilerini getiriyor. delirmemek elde değil.<br/><br/>not: nefretizi savaştan kaçan zavallı insanlara değil, mültecileri herhangi bir önlem almadan toplum içine salan siyasetçilere yöneltin lütfen.
 - entry_name: |
     balçiçek ilter
   entry_id:  70565039
   entry_writer: wishborn
-  entry_fav_count: 140
+  entry_fav_count: 148
   entry_content: |
     vicdan yapmış gazeteci.<br/><br/>bildirisinin tercümesi; midem izin verdiğince pislik yaptım, yeterince para toparladım, artık yeter yüzüne bakabileceğim 1-2 insan kalsın bari (başta kendim).
 - entry_name: |
     üç erkekle yapılabilecekler
   entry_id:  70559853
   entry_writer: aslinda baska bir nick istiyordum
-  entry_fav_count: 131
+  entry_fav_count: 133
   entry_content: |
     1(siz) + 3(erkekler) okeye hazir 4 kisi. seytaniniz bol olsun gencler.
+- entry_name: |
+    beşiktaş galatasaray rekabeti
+  entry_id:  70556965
+  entry_writer: tecpatl ixcuahua
+  entry_fav_count: 123
+  entry_content: |
+    sene 2003. liverpool, lig kupası finalinde manchester united'ın eline veriyor. maç sonrası oyuncular soyunma odasına girmeden roy keane ile röportaj yapılıyor. roy keane'in dediği şey şu:<br/><br/>"liverpool istediği kadar kupa kazanıp, sevinebilir. umursamıyoruz çünkü bizim rakibimiz arsenal." <br/><br/>futbol muhabbetlerinde sivri konuşmayı sevmem ama bu başlığı görünce ister istemez bu muhabbet geldi. yani gs'nin müzesindeki bütün kupaları alsanız da, her sene 30 puan fark taksanız da, bizim rakibimiz fenerbahçe.
 - entry_name: |
     vücut geliştirme
   entry_id:  70561114
   entry_writer: kamerarkasi
-  entry_fav_count: 118
+  entry_fav_count: 121
   entry_content: |
     10×3 yeğen at-tut<br/>150m×3 yeğenin peşinden parkta koştur<br/>15×3 yeğenleri ayaklara bağlayıp zıpla<br/>5×3 tek kolla yeğen indir kaldır<br/>20x3 göğüse yeğeni oturtup mekik çek<br/>20x3 sırta yeğeni yatır şınav çek<br/>3x3 ayağa yeğeni tuttur barfiks çek vs..<br/><br/>bi dk beyler arnold arıyor...
 - entry_name: |
     the red pill
   entry_id:  70566478
   entry_writer: immanuel tolstoyevski
-  entry_fav_count: 92
+  entry_fav_count: 93
   entry_content: |
-    bu işin kökünde tabii ki <a class="b" href="/?q=evrimsel+psikoloji">evrimsel psikoloji</a>nin (ep) yanlış anlaşılması yatmıyor. başka tatminsizlikler ve duygular yatıyor. ama bu işe bir <a class="b" href="/?q=sayg%c4%b1nl%c4%b1k">saygınlık</a> kazandıran, ayrımcılığı "kurumsallaştıran" teknik araç, evrimsel psikoloji. o yüzden ona odaklanacağım.<br/><br/>evrimsel psikoloji ile entellik yaparken dikkat edilecek hususlar:<br/><br/>1) ep, fizik gibi bir bilim dalı değil. astroloji kadar uyduruk da değil. en iyi haliyle bir "zayıf bilim" (<a class="b" href="/?q=soft+science">soft science</a>), kötü kullanıldığında ise <a class="b" href="/?q=pseudoscience">pseudoscience</a>. kulağa mantıklı gelen ama çoğu test edilemeyecek, bazısı da birbiriyle çelişkili bir sürü hipotez.<br/><br/>**<br/><br/>2) hipotezler ve test edilmiş teorileri karıştırmanın tek tehlikesi, yalan yanlış şeylere inanmak değil. asıl tehlike <a class="b" href="/?q=yar%c4%b1-do%c4%9fru">yarı-doğru</a> şeyler. red pill'in en büyük günahı bu: soft-science ile başlayan bir paragraf, pseudoscience ile bitebiliyor, fakat akıllarda kalan otorite hard-science seviyesinde oluyor (sanki bir fizik kanunuymuş gibi).<br/><br/>**<br/><br/>3) örnek: her ülkedeki ortalama bir erkeğin, kadında gençlik ve güzellik aradığını, kadınların da zengin ve başarılı erkekler aradığını buldunuz. daha bu noktada bilgi kaybı yaşanıyor. çünkü <a class="b" href="/?q=ortalama">ortalama</a> lafı, bana bir dağılım bilgisi vermiyor. belki erkeklerin %30'u güzelliğe öncelik verdi ama ikinci gelen şıkka katılım %28'di. daha bunların eğitime ve gelir grubuna göre değişimi var. tüm bu bilgilerin tek bir rakama indirgenmesi imkansız ama beynim tek bir rakam istiyor.<br/><br/>**<br/><br/>4) istisnasız her erkek "önce vatan, sonra güzellik" demişse bile, o cevapların özü epey farklı olabilir. ben de çirkin kadınla beraber olmam ama misal, 10 üzerinden 6 güzellik sağlandığı sürece, güzellik önemini kaybediyor. bir başkası için bu sınır 3 olabilir. yahut, başımızdan geçenler bizi birbirimize bağlamışsa, sınır mınır koymayabilirim.<br/><br/>insan karmaşık bir yaratık, fakat dünyanın kalanını basitleştirmek istiyor. tüm bu detayları aktarabilecek deneyler yapılsa bile (ki yapılmıyor, çok pahalı) insanın aklında kalan bilgi ne yazık ki şu: "her erkek güzellik ister, her kadın da zenginlik".<br/><br/>**<br/><br/>5) devam edelim. her ülkede aynı sonuç çıktı diyelim. kültürleri aşan bir trend yakaladığınızda, doğal olarak cevabı evrimde arayacaksınız. fakat psikolojinin fosili yok (gerçi cenaze törenlerinin fosilleri olabilir ama çok istisnai). bu noktada farkında olmadan <a class="b" href="/?q=senarist">senarist</a> oldunuz: "kadınlar zengin erkek ister, çünkü senede en fazla bir çocuk yapabilirler, onu da büyütme süreci uzun iş, onlara bakacak adam lazım. erkeklerinse çocuk sınırı yok, sağlıklı her kad....".<br/><br/>**<br/><br/>6) bu senaryoyu bitirmeye bile gerek yok, çünkü çoktan ikinci yanlışı yaptık: kültürleri aşan her trend, evrimsel olmak zorunda değil. evrimle alakasız şu açıklamayı düşünün: <br/><br/>"kadınlar, yakın zamana kadar köleden hallicelerdi. eğitilmezler, tarla dışında çalışmazlar, mal mülk sahibi olamazlardı. halen de bir çok kültür böyle. bu düzende, kadının tek kurtuluş şansı, daha üst birini bulup sınıf atlamak (<a class="b" href="/?q=hipergami">hipergami</a>). başarılı erkek ise, özgürlüğüne paralel olarak, eşit ve alt statüdeki kadınlara kolayca erişebilir. dolayısıyla, eş seçimindeki tercihler sosyoekonomik yapıya bağlıdır, öğrenilmiştir" (<a class="b" href="/?q=social+learning+theory">social learning theory</a>).<br/><br/>**<br/><br/>7) bu ikinci teori, ep teorisinden daha bilimsel çünkü <a class="b" href="/?q=yanl%c4%b1%c5%9flanabilir">yanlışlanabilir</a>liği var: eğer kadın-erkek eşitliği arttıkça, eş seçilim tercihleri yakınsamıyorsa, teori yanlıştır. ama ep hipotezini yanlışlayamıyorsun. ne dersen de, "ep'nin de etkisi vardır" denilebilir. (ki ben de buna inanıyorum zaten)<br/><br/>**<br/><br/>8) devam edelim üçüncü büyük yanlışa: herhangi bir ep hipotezi doğru olsa bile, bu onu tek geçerli faktör yapmaz. ana faktör hiç yapmaz. <br/><br/>hasta eşine yıllarca bakan, o öldükten sonra tekrar evlenmeyen insanların motivasyonu nedir? belki beyinlerinin bir köşesinde "alfa erkek bul, elmas yüzük kap, bir çocuk daha yap" komutu çalışıyordu ama en kuvvetli komut bu değildi belli ki. <br/><br/>insan nasıl ki basit sonuçlar istiyor, aynı şekilde çok-boyutlu davranış modellerini de işleyemiyor. "ayşe neden mehmet'i seçti? arabası yüzünden tabii". yoksa "%20 arabası, %15 kendisine çiçek alması, %129 beşiktaşlı olması" değil.<br/><br/>**<br/><br/>9) <a class="b" href="/?q=stephen+jay+gould">stephen jay gould</a> bu yukardaki hata hakkında uyarıyordu insanları. kültürün (<a class="b" href="/?q=sosyoloji">sosyoloji</a>) temeli <a class="b" href="/?q=psikoloji">psikoloji</a> olabilir, onun da temeli <a class="b" href="/?q=biyoloji">biyoloji</a> olabilir ama her bir seviyede, bir öncekine indirgenemeyen etkileşimler vardır. yoksa tek ihtiyacımız <a class="b" href="/?q=par%c3%a7a%c3%a7%c4%b1k+fizi%c4%9fi">parçaçık fiziği</a> olurdu. <br/><br/>ve burada savunulduğu gibi, bu üst-seviye etkiler, modern toplumun bize dayattığı şeylerden ibaret değil. yani "en baz güdülerimizi reddetmek yerine, onlara göre yaşarsak daha mutlu oluruz" düşüncesi, ahlaksal boyutunu geçtim, bilimsel olarak da bir uydurma. bu da bizi suna getiriyor:<br/><br/>**<br/><br/>10) farzedelim ep hipotezleri baskın faktör olsunlar. birbirine ters ep etkileri, aynı anda geçerli olabilir. yani tek bir ep anlatısı yok. <br/><br/>yine bu "hipergami" kavramı üzerinden örneklendireyim: "kadın daha iyisini bulduğunda bırakır" deniyor. hayır. çocuğuna bakacağı %100 garantili olan mevcut vasat eş, bu garantiyi vermeyen übermenshe kıyasla evrimsel olarak daha değerli olabilir. dünyanın en iyi genleri de olsa, çocuğun o genleri bir sonraki nesile aktarabilecek yaşa gelmesi için, senden yıllarca yatırım alması lazım. o yatırım vaadinin ve ilgili davranış biçimlerinin (örneğin sadakat, dürüstlük, istikrar) evrimsel değeri, mutlak gen kalitesinden daha büyük.<br/><br/>**<br/><br/>11) bu tip çoklu-etkiler, insanların <a class="b" href="/?q=topluluk">topluluk</a> içinde yaşadıklarını düşününce iyice artıyor. mesela çok <a class="b" href="/?q=alfa">alfa</a> olan bir erkek düşünün. taviz vermez, gözünü kaçırmaz, özür dilemez, egosu kuvvetlidir, vs... bu kişinin genleri değerli olabilir ama toplulukla uyum sağlayamadığı sürece soyunun devamı zor.<br/><br/>zaten insanlar gibi toplu avlanan ve toplu yiyen hayvanlarda, fiziksel özelliklere dayalı genetik üstünlüğün değeri azalıyor. empati, fedakarlık, ittifak kurabilme yeteneği önem kazanıyor. egosu yüzünden olur olmadık kavga çıkaran insanlarla beraber olmaktan hoşlanıyor musunuz? <br/><br/>**<br/><br/>12) dahası, bu topluluklar içindeki insanlar eşleşiyorlar (<a class="b" href="/?q=pair+bonding">pair bonding</a>). bu insanın doğasında olan bir şey. yani "erkeğin tek ihtiyacı, maksimum sikişle genlerini yaymak, kalan her şey fasa fiso, o yüzden evlilik müessesi erkeğe getirilmiş bir yüktür" gibi yaygın görüşler asıl fasa fiso. yukarda gördük zaten, 5 dakikalık sikişle gen yayamıyorsun, o çocuk ölüyor sonra. <br/><br/>zaten bunun sağlamasını şöyle yapabilirsiniz: bu faydalı bir strateji olsaydı, medeniyet öncesi her erkek <a class="b" href="/?q=tecav%c3%bcz">tecavüz</a>cü olurdu. hatta her hayvan böyle olurdu. kadınlarını korumakla harcayacağın enerji, tecavüze harcayacağından fazla. üstelik tecavüzün riski az: bir erkekle dövüşeceğine, ufak dişilere dadan. en zayıf erkekler dahi hemen her kadına tecavüz edebilir değil mi? hatta tüm çocuklar o zayıf adamdan da olabilir. e ne oldu birkaç nesil sonra? uyumsuz bir topluluk ve genetik kumar sonucu zayıflamış bir yeni nesil. yani red pillcilerin mantığıyla gitsek bile zaten sonucu yanlışlıyoruz.<br/><br/>velhasıl, pair bonding muhtemelen bu saçma stratejiye alternatif olarak gelişmiş ve başarılı olmuş belli ki. yani pair-bonding yapmayan insan topluluğu yok. erkek-kadın 50 bin yıl önce de bağ oluşturuyordu. o bağı tanımlayan bir sürü psikolojik etmen var, bunlar "güçlü çene kemiği" geninden daha değerliler.<br/><br/>dolayısıyla buradaki yanlış sadece "korteksimiz ve kültürümüz bu kadar gelişmişken, evrimsel güdülere fazla önem vermekten" ibaret değil, o güdülerin ep yorumu da eksik. işin açıkcası, reddit'teki "red pill theory" etiketi olan veya burada en beğenilenlere giren hemen her evrimsel açıklama benzer hatalarla dolu. çürütemeyeceğim bir tane argüman göremedim, ki bu konunun gerçekten uzmanı olsam herhalde delirirdim.<br/><br/>(bu arada, pair bonding'in modern kurumsal hali olan <a class="b" href="/?q=evlilik">evlilik</a> üzerine: " kadınların sizi hapsetmesi için gelişmiş bir kurumdur", yahut "kapitalizmin bize çok mal satması için beklentileri değiştirilmiş bir kurumdur, eski güzel günlerdeki denge bozulmuştur" düşünceleri, medeniyet tarihi açısından da uydurma teoriler. bir feministin, evlilik kurumundan nefret etmesi için, 100 kat daha mantıklı tarihsel nedenleri var).<br/><br/>**<br/><br/>13) ama tüm bunlar yine işin iyi kısmı, asıl sorun şurada: kesin doğru ve tek faktörmüş gibi kabul ettiğimiz bir ep hipotezinden, bir <a class="b" href="/?q=ahlaki+yarg%c4%b1">ahlaki yargı</a> türetiyoruz. <br/><br/>mesela, kadının evrimsel strateji olarak hipergami yaptığını mı söyledik? öyleyse "kadınlar <a class="b" href="/?q=nank%c3%b6r">nankör</a>dür, iyisini buldu mu sizi bırakır, <a class="b" href="/?q=bu+kar%c4%b1+milletine+g%c3%bcven+olmaz">bu karı milletine güven olmaz</a>".<br/><br/>bunu "straw man" olarak ortaya atmıyorum, en beğenilen yazılar arasında nankörlükle ilgili bir şeyler bulmamanız imkansız. ha, bazısı daha sofistike oluyor, "nannnnkörrr!" diye rakı kadehini masaya vurmuyor da, "işte efenim, kadınlar doğalarından kaynaklanan, kötü niyetle yapmadıkları, bizim amiyane tabirle nankörlük dediğimiz ama aslen..." diyor. <a class="b" href="/?q=k%c3%bcf%c3%bcr+olmayan+ama+k%c3%bcf%c3%bcr+etkisi+yaratan+c%c3%bcmleler">küfür olmayan ama küfür etkisi yaratan cümleler</a>. <br/><br/>kadını "duyarlı ve anaç", erkeği "mantıklı ve koruyucu" olarak stereotipleştirmek de aynı. sofistike kardeşlerimiz bunun nötr bir tespit olduğunu savunsalar da, toplumun mantıklı olmaya atadığı değer daha yüksek. yani kadına "salak" demiyorsun da, demeden diyorsun, incitmeden sikiyorsun. bravo. <br/><br/>**<br/><br/>14) bu tip söylemlerle birbirinizi fiştekleye fiştekleye, şöyle garabetler yer bulmuş (bunu da öyle dipten çekip çıkarmadım, en beğenilen entrylerden):<br/><br/>"tüm insanlık tarihinde kadınların kalkındırdığı, yücelttiği bir tane toplum yoktur. aksine kadınlar en zor zamanda toplumunu anında satar. <a class="b" href="/?q=nazi">nazi</a>'ler fransa'yı işgal ettiğinde fransız kadınları anında kendilerini nazi subaylarının kollarına bırakmıştır, çünkü artık fransız erkekleri güçsüzdür"<br/><br/>bu ne şimdi? bunu "haggaten ya, evrimsel psikoloji işte hacı" diye beğenenlerin kaçı, "erkeğin özü" olan rasyonelliğini kullanıp şunları sormuş:<br/><br/>a) fransız kadınların kaçta kaçı nazilerin altına yattı, kaç tanesi bunu zorunluluktan yaptı? bu bilgilerin bir önemi var mı?<br/><br/>b) fransız kadınları yattı da, fransız erkekleri de <a class="b" href="/?q=vichy+h%c3%bck%c3%bcmeti">vichy hükümeti</a>ni kurmadılar mı? "işbirlikçi orospu çocukları" kümesinin ne kadarı kadın?<br/><br/>c) fransız kadınlar, olağanüstü bir savaş sırasında yaptıklarından ötürü, tüm kadınların gerçek doğalarını mı göstermiş oluyorlar? bu erkeklere işlemiyor mu?<br/><br/>d) tarihte kadının kalkındırdığı toplum yok <a class="b" href="/?q=%c3%a7%c3%bcnk%c3%bc+e%c5%9f%c5%9fe%c4%9fin+zikinden+dolay%c4%b1">çünkü eşşeğin zikinden dolayı</a>. tarihte kölelerin kalkındırdığı bir toplum var mı? 2500 yıllık demokrasi tarihinde kadının oy atabilmesi 100 senelik. abd dünyanın en eski cumhuriyetlerinden, 1776'da bağımsızlığını ilan etti, yıl oldu 2017, neredeyse mars'a insan gönderecek, hala kadın başkan seçilmesi büyük olay. onlar yine iyi, 2000 sene öncesinin süpergücü roma'da, evin reisi karısını herhangi bir sebepten ötürü öldürebilir ve hiç bir ceza almazdı. daha yaşama hakkı kendine ait olmayan bir "kast"ın, eğitilip, mal mülk sahibi olup, sonra üretime ve yönetime katkısından mı bahsedeceğiz?<br/><br/>(çok çok çok ufak bir ayrıntı olabilir ama ingiltere'yi &lt;caps&gt; <a class="b" href="/?q=d%c3%bcnya+tarihinin+en+b%c3%bcy%c3%bck+imparatorlu%c4%9fu">dünya tarihinin en büyük imparatorluğu</a> &lt;/caps&gt; haline getiren, her alanda tarihinin zirvesini yaşatan ve gezegendeki her dört insandan birini 63 sene boyunca aralıksız yöneten <a class="b" href="/?q=krali%c3%a7e+victoria">kraliçe victoria</a> erkek miydi?)<br/><br/>yahu işin trajikomik yanı, adam bildiğin nazilerden bahsediyor, fatura yine kadınlara çıkıyor. bari başka bir örnek kullanılsa. tüm insanlık tarihinde kadınların soykırıma uğrattığı kaç tane toplum var? kaç şehir yağmalamışlar, kaç savaş çıkarmışlar, kaç atom bombası atmışlar, kaç erkeği cadı diye yakmışlar, kaç din kurup kaç cihad başlatmışlar? kurbağa kadar beyni olan bu soruları da sorar, sonra argümanının aptallığını görür, utanır.<br/><br/>**<br/><br/>15) bu saçmalıklarla aynı solukta, "kadınların <a class="b" href="/?q=mant%c4%b1ks%c4%b1z">mantıksız</a>" oluşlarını okuyorum, "mantık kapasiteleri olduğunu ama bunu fazla kullanmayacak şekilde evrimleştiklerini" okuyorum. özfarkındalığa gel. <br/><br/>arkadaşlar, mantık genel olarak insana ters bir şey. <a class="b" href="/?q=cognitive+bias">cognitive bias</a> deneylerinde, kadın-erkek sonuçları arasında bir fark çıkmıyor. hatta iq testlerinde de ortalamalar aynı (varyasyonda az bir fark var, erkekler arasında moron ve deha oranı biraz daha fazla. ama az bak. üstüne basıyorum, çünkü cognitive bias'ların en kötülerinden biri istatistiki düşünme yetimizin olmaması. bunu okuyup "işte bu yüzden tüm buluşları erkekler yapıyor" sonucuna atlamaya can atanlar var, hissediyorum)<br/><br/>söyleyeceklerim bitmedi (red pillci olmanın psikolojisi, elitizm karşıtlığı, alt-right ile örtüşme, vs) başka zamana artık. şimdi sinirlerimi yatıştırmak için, ünlü bir erkek olan nazım'ın bir şiiriyle veda edeyim:<br/><br/>erkeklik öyle bir sorumluluktur ki anlayamazsın,<br/>öyle bir sevmektir ki korkarsın,<br/>öyle bir dövmektir ki şevhetle domalırsın,<br/>öyle bir sikip atmaktır ki arkamdan ağlarsın,<br/>ama istediğimden değil sevdiceğim, mecburen,<br/>mecburiyetten."
+    bu işin kökünde tabii ki <a class="b" href="/?q=evrimsel+psikoloji">evrimsel psikoloji</a>nin (ep) yanlış anlaşılması yatmıyor. başka tatminsizlikler ve duygular yatıyor. ama bu işe bir <a class="b" href="/?q=sayg%c4%b1nl%c4%b1k">saygınlık</a> kazandıran, ayrımcılığı "kurumsallaştıran" teknik araç, evrimsel psikoloji. o yüzden ona odaklanacağım.<br/><br/>evrimsel psikoloji ile entellik yaparken dikkat edilecek hususlar:<br/><br/>1) ep, fizik gibi bir bilim dalı değil. astroloji kadar uyduruk da değil. en iyi haliyle bir "zayıf bilim" (<a class="b" href="/?q=soft+science">soft science</a>), kötü kullanıldığında ise <a class="b" href="/?q=pseudoscience">pseudoscience</a>. kulağa mantıklı gelen ama çoğu test edilemeyecek, bazısı da birbiriyle çelişkili bir sürü hipotez.<br/><br/>**<br/><br/>2) hipotezler ve test edilmiş teorileri karıştırmanın asıl tehlikesi, yalan değil de <a class="b" href="/?q=yar%c4%b1-do%c4%9fru">yarı-doğru</a> şeylere inanmak. red pill'le ilgili hemen her "teori", soft-science ile başlayıp pseudoscience ile bitiyor, ama akıllarda kalan ağırlığı hard-science seviyesinde oluyor (sanki bir fizik kanunuymuş gibi).<br/><br/>**<br/><br/>3) <a class="b" href="/?q=%c3%b6rnek">örnek</a>: her ülkedeki ortalama bir erkeğin, kadında gençlik ve güzellik aradığını, kadınların da zengin ve başarılı erkekler aradığını buldunuz. <br/><br/>güzel ama daha bu noktada bilgi kaybı yaşanıyor. çünkü <a class="b" href="/?q=ortalama">ortalama</a> lafı, bana bir dağılım bilgisi vermiyor. belki erkeklerin %30'u güzelliğe öncelik verdi ama ikinci gelen şıkka katılım %28'di. daha bunların eğitime ve gelir grubuna göre değişimi var. tüm bu bilgilerin tek bir rakama indirgenmesi imkansız ama beynim tek bir rakam istiyor.<br/><br/>**<br/><br/>4) her erkek "önce vatan, sonra güzellik" demişse bile, o cevapların özü epey farklı olabilir. ben de çirkin kadınla beraber olmam ama misal, 10 üzerinden 6 güzellik sağlandığı sürece, güzellik önemini kaybediyor. bir başkası için bu sınır 3 olabilir.<br/><br/>insan karmaşık bir yaratık, fakat dünyanın kalanını basitleştirmek istiyor. tüm bu detayları aktarabilecek deneyler yapılsa bile (ki yapılmıyor, çok pahalı) insanın aklında kalan bilgi ne yazık ki şu: "her erkek güzellik ister, her kadın da zenginlik".<br/><br/>**<br/><br/>5) devam edelim. her ülkede aynı sonuç çıktı diyelim. kültürleri aşan bir trend yakaladığınızda, doğal olarak cevabı evrimde arayacaksınız. fakat psikolojinin fosili yok (gerçi cenaze törenlerinin fosilleri olabilir ama çok istisnai). bu noktada <a class="b" href="/?q=senaryo">senaryo</a>ya başladık: "kadınlar niye zengin erkek istiyorlar? çünkü senede en fazla bir çocuk yapabilirler, onu da büyütme süreci uzun iş, onlara bakacak adam lazım. erkeklerinse çocuk sınırı yok, sağlıklı her kad....".<br/><br/>**<br/><br/>6) bu senaryoyu bitirmeye bile gerek yok, çünkü çoktan ikinci yanlışı yaptık: kültürleri aşan her trend, evrimsel olmak zorunda değil. evrimle alakasız şu açıklamayı düşünün: <br/><br/>"kadınlar, yakın zamana kadar köleden hallicelerdi. eğitilmezler, tarla dışında çalışmazlar, mal sahibi olamazlardı. halen de bir çok kültür böyle. bu düzende, kadının tek kurtuluş şansı, daha üst birini bulup sınıf atlamak (<a class="b" href="/?q=hipergami">hipergami</a>). yani hipergami, kadının doğasından gelen bir özellik değil, bulunduğu "kast"ın sonucu. başarılı erkek ise, özgürlüğüne paralel olarak, eşit ve alt statüdeki kadınlara kolayca erişebilir. dolayısıyla, eş seçimindeki tercihler sosyoekonomik yapıya bağlıdır, öğrenilmiştir" (<a class="b" href="/?q=social+learning+theory">social learning theory</a>).<br/><br/>**<br/><br/>7) bu ikinci teori, ep teorisinden daha bilimsel çünkü <a class="b" href="/?q=yanl%c4%b1%c5%9flanabilir">yanlışlanabilir</a>liği var: eğer kadın-erkek eşitliği arttıkça, eş seçilim tercihleri yakınsamıyorsa, teori yanlıştır (yakınsıyor). ama ep hipotezini yanlışlayamıyorsun. ne dersen de, "ep'nin de etkisi vardır" denilebilir (bu arada bence de etkisi var).<br/><br/>**<br/><br/>8) gelelim üçüncü büyük yanlışa: bir ep hipotezi doğru olsa bile, bu onu tek geçerli faktör yapmaz. ana faktör hiç yapmaz. <br/><br/>hasta eşine yıllarca bakanların, tekrar evlenmeyen dulların motivasyonu nedir? belki beyinlerinin bir köşesinde "alfa erkek bul, elmas yüzük kap, bir çocuk daha yap" komutu çalışıyordu ama en kuvvetli komut bu değildi belli ki. <br/><br/>insan çok-boyutlu davranış modellerini de işleyemiyor. "ayşe neden mehmet'i seçti? arabası yüzünden tabii". yoksa "%20 arabası, %15 kendisine çiçek alması, %129 beşiktaşlı olması" değil.<br/><br/>**<br/><br/>9) <a class="b" href="/?q=stephen+jay+gould">stephen jay gould</a> bu yukardaki hata hakkında uyarıyordu insanları. kültürün (<a class="b" href="/?q=sosyoloji">sosyoloji</a>) temeli <a class="b" href="/?q=psikoloji">psikoloji</a> olabilir, onun da temeli <a class="b" href="/?q=biyoloji">biyoloji</a> olabilir ama her bir seviyede, bir öncekine indirgenemeyen etkileşimler vardır. yoksa tek ihtiyacımız <a class="b" href="/?q=par%c3%a7a%c3%a7%c4%b1k+fizi%c4%9fi">parçaçık fiziği</a> olurdu. <br/><br/>ve bu üst-seviye etkiler, modern toplumun bize dayattığı şeylerden ibaret değil. ormandaki toplulukların da bir kültürü var. "en baz güdülerimizi reddetmek yerine, onlara göre yaşarsak daha mutlu oluruz" düşüncesi bu yüzden saçma: en baz güdün, en kuvvetli güdünle aynı şey değil, ve kendi içinde de çelişkili.<br/><br/>**<br/><br/>10) bu da bizi son sistematik yanlışa getiriyor: bir ep hipotezi doğru olsa bile, ve ep'den başka etkiler olmasa bile, ep burada sanıldığı kadar tek boyutlu değil. <br/><br/>yine bu "hipergami" kavramı üzerinden örneklendireyim: "kadın daha iyisini bulduğunda bırakır" deniyor. hayır. çocuğuna bakacağı %100 garantili olan mevcut vasat eş, bu garantiyi vermeyen übermenshe kıyasla evrimsel olarak daha değerli olabilir. dünyanın en iyi genleri de olsa, çocuğun o genleri bir sonraki nesile aktarabilecek yaşa gelmesi için yıllarca yatırım alması lazım. o yatırım vaadinin ve ilgili davranış biçimlerinin (örneğin <a class="b" href="/?q=sadakat">sadakat</a>, <a class="b" href="/?q=d%c3%bcr%c3%bcstl%c3%bck">dürüstlük</a>) evrim piyasasındaki değeri, mutlak gen kalitesinden daha büyük olabilir.<br/><br/>**<br/><br/>11) bu tip çoklu-etkiler, insanların <a class="b" href="/?q=topluluk">topluluk</a> içinde yaşadıklarını hesaba katınca iyice artıyor. mesela çok <a class="b" href="/?q=alfa">alfa</a> bir erkek düşünün. taviz vermez, gözünü kaçırmaz, özür dilemez, egosu kuvvetlidir, vs... bu kişinin genleri değerli olabilir ama toplulukla uyum sağlayamadığı sürece soyunun devamı zor. <br/><br/>zaten insanlar gibi <a class="b" href="/?q=toplu+avlanan">toplu avlanan</a> ve toplu yiyen hayvanlarda, fiziksel özelliklere dayalı genetik üstünlüğün değeri az. empati, fedakarlık, ittifak kurabilme yeteneği önemli. halbuki red pill'ciler, kaplanla aynı evrimsel dinamiklere sahipmişiz gibi analiz yapıyorlar.<br/><br/>**<br/><br/>12) dahası, bu topluluklar içindeki insanlar eşleşiyorlar (<a class="b" href="/?q=pair+bonding">pair bonding</a>). bu insanın doğasında olan bir şey. yani "erkeğin tek ihtiyacı, maksimum sikişle genlerini yaymak, kalan her şey bize dayatılan kurumlardır" gibi görüşlerin zerre bilimsel dayanağı yok. <br/><br/>yani ep standardına göre de dandik argümanlar bunlar: yukarda gördük zaten, 5 dakikalık sikişle gen yayamıyorsun, o çocuk ölüyor sonra. <br/><br/>zaten bu faydalı bir strateji olsaydı, medeniyet öncesi her erkek <a class="b" href="/?q=tecav%c3%bcz">tecavüz</a>cü olurdu. hatta her benzer hayvan böyle olurdu. kadınlarını korumakla harcayacağın enerji ve yaralanma riskin, başka kadınlara tecavüze harcayacağından fazla değil mi?<br/><br/>bu nasıl bir topluluk yaratır bir hayal edin:<br/>-bir kere tecavüz ayıplanmazdı. tecavüz diye bir kavram da olmazdı zaten, normal seks bu olurdu. <br/>-kadınların hiçbir eş seçimi tercihi olmazdı. sürekli birileri tarafından hamile bırakılıyorsan, belli erkekleri sevecek şekilde evrilmezsin<br/>-erkeklerin de tercihleri olmazdı. niye güzel kalça seçeyim, %30 daha doğurgan olacak diye? spermi sayıyla mı veriyorlar bana? güzelini de çirkinini de hamile bırakırdım işte, doğurdan doğurur. bir kaybım yok. güzel-çirkin ayrımım dahi olmazdı.<br/>-en zayıf erkekler dahi hemen her kadına tecavüz edebildiğinden, iyi genlere sahip olmanın hiçbir avantajı yok. <br/>-hatta akıl hastası bir erkek, sırf spermleri daha kuvvetli diye, sürünün yarısını hamile bırakabilir şansına. 100 nesilde 99 kez şanslı olsan ama sadece bir kere böyle katastrofik bir gen kazası olsa, tüm topluluk dağılır zaten.<br/><br/>yani bu resim ne bizim evrimimize uyuyor, ne de verimli bir evrimsel sonuç çıkarıyor. velhasıl, <a class="b" href="/?q=pair+bonding">pair bonding</a> muhtemelen buna alternatif olarak gelişmiş ve başarılı olmuş belli ki. yani bunu yapmayan insan topluluğu yok. sırf bu bilginin bile "erkeğe sadece seks lazım" varsayımını çürütmesi lazım. o kadın-erkek bağlarını tanımlayan bir sürü psikolojik etmen var, bunlar "güçlü çene kemiği" geninden daha değerliler.<br/><br/>**<br/><br/>12.5) dolayısıyla buradaki yanlış sadece "korteksimiz ve kültürümüz bu kadar gelişmişken, evrimsel güdülere fazla önem vermekten" ibaret değil, o güdülerin ep yorumu da eksik. <br/><br/>işin açıkcası, reddit'teki "red pill theory" etiketi olan veya burada en beğenilenlere giren hemen her evrimsel açıklama benzer hatalarla dolu. çürütemeyeceğim bir tane argüman göremedim, ki bu konunun gerçekten uzmanı olsam herhalde delirirdim.<br/><br/>(bu arada, pair bonding'in modern kurumsal hali olan <a class="b" href="/?q=evlilik">evlilik</a> üzerine: " kadınların sizi hapsetmesi için gelişmiş bir kurumdur", yahut "kapitalizmin bize çok mal satması için beklentileri değiştirilmiştir, eski güzel günlerdeki denge bozulmuştur" düşünceleri, medeniyet tarihi açısından da uydurma teoriler. bunlar başka bir yazının konusu ama bir feministin, evlilik kurumundan nefret etmesi için, 100 kat daha mantıklı tarihsel nedenleri var).<br/><br/>**<br/><br/>13) ama tüm bunlar yine işin iyi kısmı. şarampole yuvarlandığımı kısım şu: bir ep hipotezinden, bir <a class="b" href="/?q=ahlaki+yarg%c4%b1">ahlaki yargı</a> türetiyoruz. <br/><br/>mesela, kadının evrimsel strateji olarak hipergami yaptığını mı söyledik? (ve erkeğin yaptığını söylemedik). öyleyse "kadınlar <a class="b" href="/?q=nank%c3%b6r">nankör</a>dür, iyisini buldu mu sizi bırakır, <a class="b" href="/?q=bu+kar%c4%b1+milletine+g%c3%bcven+olmaz">bu karı milletine güven olmaz</a>".<br/><br/>bunu "straw man" olarak ortaya atmıyorum, en beğenilen yazılar arasında nankörlükle ilgili bir şeyler bulmamanız imkansız. ha, bazısı daha sofistike oluyor, "nannnnkörrr!" diye rakı kadehini masaya vurmuyor da, "efendim kadınlar doğalarından kaynaklanan, kötü niyetle yapmadıkları, bizim amiyane tabirle nankörlük dediğimiz ama aslen..." diye yaklaşıyor. kısacası: <a class="b" href="/?q=k%c3%bcf%c3%bcr+olmayan+ama+k%c3%bcf%c3%bcr+etkisi+yaratan+c%c3%bcmleler">küfür olmayan ama küfür etkisi yaratan cümleler</a>. <br/><br/>kadını "duyarlı ve anaç", erkeği "mantıklı ve koruyucu" olarak stereotipleştirmek de benzer: tam öküz olmayanlarımız, bunun nötr bir tespit olduğunu ve iki rolün de eşit derecede gerekli olduğunu söyleyebilirler. ama toplumun mantıklı olmaya atadığı değer daha yüksek. yani kadına "salak" demiyorsun da, demeden diyorsun, incitmeden sikiyorsun.<br/><br/>**<br/><br/>14) bu tip söylemlerle birbirinizi fiştekleye fiştekleye, o sofistike söylemler bir süre sonra şu garabetlere "evrilmiş". (bakın bunu da öyle dipten çekip çıkarmadım, en beğenilen entrylerden birinin başlangıcı):<br/><br/>"tüm insanlık tarihinde kadınların kalkındırdığı, yücelttiği bir tane toplum yoktur. aksine kadınlar en zor zamanda toplumunu anında satar. <a class="b" href="/?q=nazi">nazi</a>'ler fransa'yı işgal ettiğinde fransız kadınları anında kendilerini nazi subaylarının kollarına bırakmıştır, çünkü artık fransız erkekleri güçsüzdür"<br/><br/>bu ne şimdi? bunu mantıklı bulanların kaçı, "erkeğin özü" olan mantıklarını kullanıp şunları sormuş:<br/><br/>a) fransız kadınların kaçta kaçı nazilerin altına yattı, kaç tanesi bunu zorunluluktan yaptı? bu bilgilerin bir önemi var mı?<br/><br/>b) fransız kadınları yattı da, fransız erkekleri de <a class="b" href="/?q=vichy+h%c3%bck%c3%bcmeti">vichy hükümeti</a>ni kurmadılar mı? "işbirlikçi orospu çocukları" kümesinin ne kadarı kadın?<br/><br/>c) fransız kadınlar, olağanüstü bir savaş sırasında yaptıklarından ötürü, tüm kadınların gerçek doğalarını mı göstermiş oluyorlar? bu erkeklere işlemiyor mu?<br/><br/>d) tarihte kadının kalkındırdığı toplum yok <a class="b" href="/?q=%c3%a7%c3%bcnk%c3%bc+e%c5%9f%c5%9fe%c4%9fin+zikinden+dolay%c4%b1">çünkü eşşeğin zikinden dolayı</a>. şunu uzun uzun açıklamak bile acı verici, çünkü muadili "`evrim doğruysa bugünkü maymunlar neden insan olmuyor`" olan bir soru. bin kere sorulmuş, bin kere cevaplanmış.<br/><br/>o cevap da "tarihte kölelerin kalkındırdığı bir toplum var mı?" sorusunda gizli. 2500 yıllık demokrasi tarihinde kadının oy atabilmesi 100 senelik, oy alabilmesi daha da yeni. roma'da, evin reisi karısını herhangi bir sebepten ötürü öldürebilir ve hiç bir ceza almazdı. daha yaşama hakkı kendine ait olmayan bir grubun, eğitilip, mal mülk sahibi olup, sonra üretime ve yönetime katkısından mı bahsedeceğiz?<br/><br/>(ufak bir ayrıntı ama ingiltere'yi &lt;caps&gt; <a class="b" href="/?q=d%c3%bcnya+tarihinin+en+b%c3%bcy%c3%bck+imparatorlu%c4%9fu">dünya tarihinin en büyük imparatorluğu</a> &lt;/caps&gt; haline getiren, her alanda tarihinin zirvesini yaşatan ve gezegendeki her dört insandan birini 63 sene boyunca aralıksız yöneten <a class="b" href="/?q=krali%c3%a7e+victoria">kraliçe victoria</a> erkek miydi?)<br/><br/>e) yahu işin trajikomik yanı, adam bildiğin <a class="b" href="/?q=nazi">nazi</a>lerden bahsediyor, fatura yine kadınlara çıkıyor. bari başka bir örnek kullanılsa. tüm insanlık tarihinde kadınların soykırıma uğrattığı kaç tane toplum var? kaç şehir yağmalamışlar, kaç savaş çıkarmışlar, kaç atom bombası atmışlar, kaç erkeği cadı diye yakmışlar, kaç din kurup kaç cihad başlatmışlar? <br/><br/>baştaki soruya aklınız eriyor, <a class="b" href="/?q=neden+sonu%c3%a7">neden sonuç</a> ilişkilerinin ve <a class="b" href="/?q=sosyoloji">sosyoloji</a>nin ağzına sıça sıça çıkarımlar yapmasını biliyorsunuz da, bu sorulara aklınız ermiyor mu? <br/><br/>eriyor da "yaptıysak biz yaptık" demeye götünüz mü yemiyor? "alfa erkek" işi buraya kadar demek. zaten bu kadar <a class="b" href="/?q=alfa">alfa</a> meraklısının, bu ağır <a class="b" href="/?q=ma%c4%9fdur+psikolojisi">mağdur psikolojisi</a>nden bu kadar beslenmesi de ayrı bir tez konusu olur.<br/><br/>**<br/><br/>15) şu konularda dönen muhabbetle, 1800'lerin başında <a class="b" href="/?q=haiti+ba%c4%9f%c4%b1ms%c4%b1zl%c4%b1k+sava%c5%9f%c4%b1">haiti bağımsızlık savaşı</a> sırasında, paris'te meclise çıkıp "bu zencilerin tarihte kalkındırdığı tek toplum yoktur, bunlara özgürlük veremeyiz" diyen şeker kamışı tarlası sahibi büyük asillerin muhabbeti arasında zerre fark yok. <br/><br/>bunu sadece öküz kesim için söylemiyorum. onların muhabbetiyle, buradaki daha ılımlıların tutumu da benzer. zira o asiller de <a class="b" href="/?q=ayd%c4%b1nlanma+%c3%a7a%c4%9f%c4%b1">aydınlanma çağı</a>nın ürünleriydi ve kendilerince "bilimsel" yaklaşıyorlardı olaya. zencilerden nefret etmiyorlar, onlara eziyeti savunmuyorlardı. doğaları gereği böyle olduklarını düşünüyor, kendilerini biçilen role uydukları sürece beraber çok şahane yaşayacaklarını söylüyorlardı.<br/><br/>daha güncel bir örnek, <a class="b" href="/?q=snowpiercer">snowpiercer</a>'daki <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=7ZsQhmLKV-E" title="https://www.youtube.com/watch?v=7ZsQhmLKV-E">ayaklar ve başlar muhabbeti</a><br/><br/>**<br/><br/>16) ve bu saçmalıklarla aynı solukta, "kadınların <a class="b" href="/?q=mant%c4%b1ks%c4%b1z">mantıksız</a>" oluşlarını okuyorum, "mantık kapasiteleri olduğunu ama bunu fazla kullanmayacak şekilde evrimleştiklerini" okuyorum. özfarkındalığa gel. ironi yapıyor olsan "o kadar bariz olmasın" derdim.<br/><br/>arkadaşlar, mantık genel olarak insana ters bir şey. <a class="b" href="/?q=cognitive+bias">cognitive bias</a> deneylerinde, kadın-erkek sonuçları arasında bir fark çıkmıyor. hatta iq testlerinde de ortalamalar aynı (varyasyonda az bir fark var, erkekler arasında moron ve deha oranı biraz daha fazla. ama az bak. tarihte mucitlerin çoğunun erkek olmasında, bu varyasyonun etkisi %1 falandır)<br/><br/>**<br/><br/>söyleyeceklerim bitmedi (elit düşmanlığı, komploculuk, alt-right ile örtüşme, "napalım acı ama gerçek, bir kere uyandık" söylevinin mastürbasyon oluşu, vs) başka zamana artık. şimdi sinirlerimi yatıştırmak için, ünlü bir beta erkeği olan nazım'ın bir şiiriyle veda edeyim:<br/><br/>erkeklik öyle bir sorumluluktur ki anlayamazsın,<br/>öyle bir sevmektir ki korkarsın,<br/>öyle bir dövmektir ki şevhetle domalırsın,<br/>öyle bir sikip atmaktır ki arkamdan ağlarsın,<br/>ama istediğimden değil sevdiceğim, mecburen,<br/>mecburiyetten."
 - entry_name: |
     türkiye'de yasaklanması gereken şeyler
   entry_id:  70564242
   entry_writer: mum boya
-  entry_fav_count: 83
+  entry_fav_count: 90
   entry_content: |
     4. surekli bir seylerin yasaklanmasini istemek.
+- entry_name: |
+    türkiye'de ensest oranının yüzde 40 olması
+  entry_id:  70558505
+  entry_writer: bogakadini
+  entry_fav_count: 85
+  entry_content: |
+    muhtemelen pek sağlıklı yapılmayan bir araştırmanın sonucu. böyle düşünme sebebim, bu kadar yüksek bir yüzde olacağına inanamıyor olmam değil; araştırmayı yansıtan yazıda kavram karmaşasının bulunması ve yazarın, araştırma ile yakınen ilgilenmiş görünmesi nedeniyle araştırmanın da kavram karmaşası içinde yapılmış olma ihtimali olduğunu düşünmem.<br/><br/>öncelikle "ensest" nedir? hadi bakalım türk dil kurumu'nun güncel sözlüğüne: aile içi yasak ilişki.<br/><br/>yazıda ise ensest vakalarındaki "mağdur"lardan bahsedilmiş, "istismardan"dan bahsedilmiş, "korku içindeki kız"lardan bahsedilmiş. oysa ensestten bahsediyorsak ortada bir ilişki vardır, karşılıklılık söz konusudur, rıza söz konusudur. eğer aile içi gerçekleşen bir cinsel davranışta taraflardan birinin rızası bulunmuyorsa o zaman bu, kan hısımlığı ilişkisi içinde bulunan kişiye karşı cinsel saldırı veya istismar suçudur; bu durumda artık "ensest"ten bahsedemeyiz.<br/><br/>murat başoğlu'nun yeğeni olan ilişkisi, ensest iken yazıda verilen örnekler, cinsel saldırı veya istismar vakaları. <br/><br/>çoğumuz için düşünülemez bir şey olsa da aile içinde "karşılıklı rıza" ile ilişki yaşayanlar gerçekten de var, bunun adı "ensest" ve sanmıyorum ki oranı %40 olsun.<br/><br/>aile içinde bir tarafın mağdur olduğu, yani tek taraf bakımından "rıza olmaksızın" gerçekleştirilen cinsel davranışlar var; bunların adı cinsel saldırı/veya istismar ve eminim ki oran bazı yerlerde %70-80'i bile bulur. ülke genelinde %40 olması, hiçbir şekilde şaşırtmaz.
 - entry_name: |
     suriyeli sığınmacılar
   entry_id:  70561174
   entry_writer: nickdedigin
-  entry_fav_count: 56
+  entry_fav_count: 62
   entry_content: |
     türkiye'yi de diğerleri gibi terör yuvası haline getirmek ve parçalamak için sistematik olarak uygulanan ortadoğu projelerinden biridir.
+- entry_name: |
+    sigara içenlerin oy haklarının ellerinden alınması
+  entry_id:  70561825
+  entry_writer: neyazem
+  entry_fav_count: 47
+  entry_content: |
+    vay be, yasasaydi atatürk de kurdugu ulkede oy kullanamayacakti.
+- entry_name: |
+    şener özbayraklı
+  entry_id:  70569321
+  entry_writer: donjohnston
+  entry_fav_count: 42
+  entry_content: |
+    bu futbolcu olduysa herkes her şeyi başarabilir bu hayatta. ted konuşmacısı gibi motivasyon kaynağı resmen herif yeteneksizliğiyle.
 - entry_name: |
     melih mahmutoğlu
   entry_id:  70554164
@@ -97,9 +125,16 @@ data:
     2 eylül 2017 ukrayna türkiye maçı
   entry_id:  70559361
   entry_writer: cualo cualo
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     maçın özeti; aardaaa ardaa ardaa taç millilerimizin.
+- entry_name: |
+    kurban edilen ineğin hamile çıkması
+  entry_id:  70563110
+  entry_writer: mockdeath
+  entry_fav_count: 38
+  entry_content: |
+    adamlar halen etleri parçalamaya çalışıyor geçen yıl bir hoca çıkıp "hamile çıkarsa etini yiyin" demişti.bunlar kafasına göre dini kural uyduruyor.<br/>yavruya içim gitti, yerde yatan mı hayvan bunlar mı anlayamadığım olay.<br/>veterinerleri vardı hani sultangazi kesim merkezi'nin ona ne oldu acaba.
 - entry_name: |
     2 eylül 2017 beşiktaş kayserispor maçı
   entry_id:  70560503
@@ -108,33 +143,12 @@ data:
   entry_content: |
     süper maç. hahahahahha adamın teki beşiktaş hakemsiz puan alamaz diye yazmış ve hazırlık maçı olduğu lafını yiyince silip kaçmış. işte sözlükteki futbol muhabbeti bu seviyeye indi. kahvehanedeki futbol muhabbeti bile buradakinden daha kaliteli ve delikanlıca. çoluk çocuğun trollüklerine kaldık. zamanınıza yazık ulan.
 - entry_name: |
-    galatasaray
-  entry_id:  70556003
-  entry_writer: parken
-  entry_fav_count: 36
-  entry_content: |
-    vivald denilen ne idüğü belirsiz tarafından hala itham ve iftiralara maruz kalan takım.<br/><br/>araştırmadan fetö diyor, araştırsa beşiktaş içerisinden fetö kapsamında daha fazla gözaltı ve tutuklama olduğunu görecek.<br/><br/>araştırmadan vergi affı diyor, araştırsa galatasaray 304 milyon tl vergi barışı sağlarken, beşiktaşın da 210 milyon tl bu aftan faydalanarak kurtardığını görecek.<br/><br/>genelleme yapmak istemiyorum ama bunun gibi beşiktaşlılar yüzünden beşiktaş nefreti oluşuyor rakip takımlarda. sanmasınlar beşiktaş başarılı olduğu için oluştu bu nefret.
-- entry_name: |
-    kurban edilen ineğin hamile çıkması
-  entry_id:  70563110
-  entry_writer: mockdeath
-  entry_fav_count: 35
-  entry_content: |
-    adamlar halen etleri parçalamaya çalışıyor geçen yıl bir hoca çıkıp "hamile çıkarsa etini yiyin" demişti.bunlar kafasına göre dini kural uyduruyor.<br/>yavruya içim gitti, yerde yatan mı hayvan bunlar mı anlayamadığım olay.<br/>veterinerleri vardı hani sultangazi kesim merkezi'nin ona ne oldu acaba.
-- entry_name: |
     menzil şeyhinin torununun oturduğu koltuk
   entry_id:  70565900
   entry_writer: seylann
   entry_fav_count: 33
   entry_content: |
     yakışır yiğidime. gelecekte ülkeyi onlar yönetecek zaten. amına çaktımlarım.
-- entry_name: |
-    1 eylül 2017 locabus'un kendini öldürmek istemesi
-  entry_id:  70557604
-  entry_writer: mimarbasi
-  entry_fav_count: 32
-  entry_content: |
-    gelmiş yine "intihar ederse etsin, ne karışıyorsunuz"cu tipler. <br/><br/>siz ne gereksiz, ne saçmasapan insanlarsınız yahu? cool bir hareket olduğunu mu sanıyorsunuz intiharı övmenin? kızlar özelden mi yürüyecek hemen size?<br/><br/>burada psikolojik olarak tedavi olduğu tahmin edilen bir birey intihar etmek istediğini söyledi ergen sürüleri sizi. adam tedavi oluyor zaten, tedavi! uyuşturucu tedavisi olan kişiye canı istiyor diye şırınga mı uzatıyorsunuz siz? ne farkı var ulan? sanki sağlıklı düşünebiliyor ve 65 yaşında ötenazi istedi.<br/><br/>kına yakın kıçınıza. ulaşamıyoruz zaten kendisine. belki de bir anne, bir baba, bir dede, bir nine, sevgili, bir kızkardeş çığlıklar içinde uyanacak güne. siz klavye başında artistçe "intihar hak yea" derken tavandan indirecekler kendisini.<br/><br/>haspama bak. intihar edecek kişi edeceğini söylemezmiş, bu onun aslında etmek istemediğini gösterirmiş. biz de onu diyoruz zaten! etmek istemiyor ve yardım arıyor! belli ki tereddüt ediyor ve insanlar ona değer veriyor mu görmek istiyor! ve belki de senin gibi, sizin gibi çok bilmişler yüzünden değersiz hissedecek kendini.<br/><br/>eğer biri size intihar edeceğini söylüyorsa tereddütleri vardır ama intihar fikrine sıcak bakıyordur. eğer biri ilgi çekmek için intihar fikrini kullanıyorsa, ilgi istiyordur evet ve yeterli ilgiyi görmezse bir sonraki aşama buna gerçekten teşebbüs etmesi olabilir. sizin mantığınızla intihara teşebbüs edip sonradan yaşayan herkesin yaşadığına pişman olması lazım? silopi'de sevgilisinden ayrılıp, kalbine sıktıktan sonra ambulansa yetiştirdiğimiz asker hıçkıra hıçkıra "ölmek istemiyorum." diye ağladı lan. haberiniz var mı? çatıya intihar etmek için çıkıp, son anda tuttuğumuz asker bu sabah arayıp bayramımı kutladı ve tekrar teşekkür etti, tanıyor musunuz kendisini? kimsiniz oğlum siz de bir insan kendini öldürsün diye cesaretlendiriyorsunuz?<br/><br/>midemi bulandırıyorsunuz. çatıdaki adama "atla, atla, atla" diye tezahürat eden cahil cühela takımından farkınız yok. sizin için insanların hayatı bir şovdan ibaret. intihar ederken fotoğraf, videolarını çekin hatta. arkadaşlarınıza gösterirsiniz; belki sizin gibi ölü sevici bir sevgili edinirsiniz!
 - entry_name: |
     keanu reeves
   entry_id:  70560925
@@ -143,17 +157,38 @@ data:
   entry_content: |
     metro, marmaray, hatta metrobüs kullanan, aylık akbilin yetmediği, tutamaçların dayanamadığı, toplu taşımanın baş kahramanı olan kişi. 15 temmuz'da da tankların önünde durmuştur kendisi. bugün doğum günü kutlu olsun. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Pr836O.jpg">https://i.hizliresim.com/pr836o.jpg</a><br/><br/>daha önce bahsedilmemiş, şaşırdım. ayrıca kendisi neo filminde matrix'i oynamıştır.
 - entry_name: |
-    bir atatürk gider bin atatürk gelir
-  entry_id:  70562557
-  entry_writer: savaras
-  entry_fav_count: 28
+    kadınların bilim ve sanata katkı yapamaması
+  entry_id:  70554946
+  entry_writer: enyedirenk
+  entry_fav_count: 29
   entry_content: |
-    fesli soytarı bir bu iki.
+    bir ablam var eşi ödüllü bir yazar. adam yıllardır odasına kapanıp yazar. temizliği kim yapar, önüne yemek nasıl konur sormaz. kadının bakımlı olmasını ister. zayıf kalmasını ister. düğüne, cenazeye kadın katılır. kadın, biri pilot biri odtü kimya mezunu iki çocuk yetiştirmiş. bu arada kitaplıklarındaki dörtbin kitabın çoğunu okumuş ve bence gayet derinlik kazanmış bir kadın. adam, yalnızca haneye para girişinde mevcut. onun dışında kadın hep yalnız ve bir "işleri yetiştirme" halinde. bu toplumca normal görülüyor. roller tam tersi olsa hem kadın hem de adam dışlanırdı. nitekim benim babam ve annem böyle boşandı. annem yazmaya gömüldü. evini boşladı. evlilik tepetaklak gitti. bunu okuyanların arasında da annemi suçlayan kafalar oldu şu anda mutlaka. ekşi'de bile... neden ki? babam yapsa bohem yazar olurdu. annem yapınca sorumsuzluk...<br/><br/>kariyer yapacağım diye boşanan en az beş kadın tanıyorum. ama erkeklerin evli kalanları daha rahat kendini geliştiriyor. neden acaba? cevabı malûm.<br/><br/>bir erkek başucunda defteri, banklarda yatabilir veya "rus yazar stayla" bir oda kiralayıp namusuna göz dikilmeden bir yerlerde yaşayabilir. <br/><br/>daha geçenlerde bir kadın siyasetçinin torununun doğumunda bulunmaması sebebiyle ayıplandığına şahit oldum. -ki kadınlar ayıpladı en çok- . erkek, torununun doğumuna yetişmeyince haber değeri yok.<br/><br/>erkeklere nazaran daha az sayıda olduğu doğrudur ve çağlar ötesinden gelen sosyo-ekonomik sebepleri olduğu ortada. <br/>erkeğin sahip olduğu koşulları, altyapısı olan kadına verin ortalığın a*ına bile koyar. nitekim kalite, başarı oranı daha yüksek bence. <br/><br/>bazen engel toplum kuralları, bazen diğer kadınlardır. neticede atanmış rollerin sonucu hep.
+- entry_name: |
+    türk youtuber
+  entry_id:  70564930
+  entry_writer: zehirlibaklava
+  entry_fav_count: 27
+  entry_content: |
+    (bkz: <a class="b" href="/?q=evet+arkada%c5%9flar">evet arkadaşlar</a>)
+- entry_name: |
+    bir erkeğin kaliteli olduğunu anlama yolları
+  entry_id:  70554937
+  entry_writer: bowersolufsen
+  entry_fav_count: 23
+  entry_content: |
+    bir kız tarafından;<br/><br/>''erkek kızları taşımalı, sahip çıkmalı, erkek çalışmalı ve kızları doyurmalı, erkek hep güçlü olmak zorunda vs...'' gibi zırvalara girdiğinde ortamı terk edip, o kızı hayatından siliyorsa, o erkek a kalitedir.
+- entry_name: |
+    sevişirken çıkarılması gereken şeyler
+  entry_id:  70568723
+  entry_writer: josemontana
+  entry_fav_count: 22
+  entry_content: |
+    aklıma cemal süreya'nın önceleyin şiirini getiren başlık. <br/><br/>(bkz: <a class="b" href="/?q=serbest+%c3%a7a%c4%9fr%c4%b1%c5%9f%c4%b1m">serbest çağrışım</a>)<br/><br/>önce bir ellerin vardı yalnızlığımla benim aramda <br/>sonra birden kapılar açılıverdi ardına kadar <br/>sonra yüzün onun ardından gözlerin dudakların <br/>sonra her şey çıkıp geldi <br/><br/>bir korkusuzluk aldı yürüdü çevremizde<br/>sen çıkardın utancını duvara astın<br/>ben masanın üstüne kodum kuralları<br/>her şey işte böyle oldu önce
 - entry_name: |
     ceza'nın 12 dev adam şarkısı
   entry_id:  70556669
   entry_writer: pasa eren
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     başta "bu ne la böyle" tepkisi versem de aklımda kalmayı başarabilen şarkı. gerçi sık duymanın da payı muhakkak var ancak duydukça alışıyorsun. bence gideri var.<br/><br/>on iki on iki dev adam<br/>on iki on ikiden vuran<br/>gönüllerde taht kuran<br/>göründüğü gibi olan<br/>gücünü milletten alan<br/>recep tayyip erdoğan<br/><br/>pardon hatlar karıştı
 - entry_name: |
@@ -171,75 +206,61 @@ data:
   entry_content: |
     futbol gurularımızdan iki maçta notunu almış oyuncumuz.<br/><br/>bunu bir de böbürlenerek söylüyorsunuz ya, şaka gibisiniz.<br/><br/>edit: almeida cılar da gelmiş, hoş gelmiş. neyse, siz bozmayın kendinizi, her boku bilmeye devam çocuklar.<br/><br/>umarım çocuksunuzdur...<br/><br/>edit 2: boş yapmayın ulen fm oynayın diyen adam gördüm. nutkum tutuldu.
 - entry_name: |
-    juventus
-  entry_id:  70556929
-  entry_writer: knipeos
+    dünyanın yuvarlak olması mason uydurması dünya düz
+  entry_id:  70556552
+  entry_writer: kriminal vaka
   entry_fav_count: 17
   entry_content: |
-    insanlara salak olduklarini soyleme ihtiyacini nadiren hissederim ancak bu ihtiyac bazen karsi konulmaz oluyor... <br/><br/>mesele su... elimizde calciopoli skandalini juventus ve figurleriyle ele alan bilgi icerikli bir girdi var. soz konusu entry icin (bkz: <a class="b" href="/entry/27221729">#27221729</a>)<br/>(ilginc olan entry tarihi 2012. bu entrynin girildigi tarihten 3 yil sonra isler juventus'un daha da lehine dondu...)<br/><br/>bir de soz konusu surecin yalniz juventus ile ilgili oldunu dusunen ve calciopoli skandalina dair kuvvetle muhtemel hicbir sey bilmeyen bir mal var.<br/><br/>bak gerizekali, juventus genel menajeri moggi'nin sike yaptigina dair suclamalar delil yetersizliginden oturu dusuruldu ve maclarda sike yapilmadigi aciklandi. cezalar sikeden degil hakem atamalarini gerceklestiren koordinatorlerle kurulan iletisimden oturu verildi... isin ilginc yani su ki ayni sucu isleyen milan, juventus'tan daha az ceza aldi... ve gene ayni sucu isledigi sacma bir sekilde daha sonra kanitlanan inter, zamanasimindan oturu hicbir ceza almayan tek takim oldu.<br/><br/>2015'teki gelismeler ve suclamalarin dusurulmesiyle birlikte juventus federasyona 443 milyon euro'luk bir dava acti. federasyon baskani tevecchio, 04-05 ve 05-06'daki sampiyonluklarin juventus'a geri verilmesi icin juventus'un federasyona actigi davalari dusurmesi gerektigini acikladi. <br/><br/>burada juventus idarecilerinin hem dava hem dava sonrasi sureci korkunc yonettigini de belirtmek gerek. ancak bunun sebebinin de politik oldugu soyleniyor.<br/><br/>gerizekalilarin anlamakta en cok zorlanacagi bolum geliyor. calciopoli davasi halihazirda zaman asimina ugradi.<br/><br/>soz konusu sampiyonluklarin inter'e verilmesi o tarihlerde oldugu gibi bugun de hatali bir karar olarak kabul ediliyor. juventus soz konusu sezonlardaki sampiyonluklarinin kendisine ait oldugunu kabul ediyor. ancak aksi bir gelisme olmadikca inter'in, kendisine hediye edilen bu sampiyonluklardan kendi rizasiyla, gonullu olarak vazgecmesi gerekiyor...<br/><br/>nasil bir sans ki interli yetkililere ait telefon kayitlarinin dava suresince hasiralti edildigi, kayitlarin kendisi gibi dava zamanasimina ugradiktan sonra ortaya cikti... avukatlar bunu cok uzun calismalarin ardindan basardilar.<br/><br/>calciopoli incelemesi muazzam bir skandal... juventus'a karsi kullanilan telefon kayitlarini sizdiran firmanin sahibinin inter'de board member olmasindan, o sezon mac yayin haklarinin sahibi mediaset'in berlusconi'ye ait olmasina kadar. uzerinden uzun zaman gectigi uzere net hatirlamiyorum ancak mediaset, maclari yayinlamamakla tehdit etmisti. berlusconi'nin milan'in buyuk bir ceza yememesi icin elinden gelen her seyi yaptigini dusunmek cok da yersiz olmayacaktir.<br/><br/>nihayetinde, tum bu surecin sonunda ceza almayan tek kulup olan inter, bedavadan sampiyonluk aldigi gibi surecin devaminda da en buyuk kazanci sagladi.<br/><br/>moggi, italya'da sevilmeyen bir figurdu ve surecin sonunda kendisinden kurtulmayi basardilar. moggi'ye dair detaylari yukarida bkz. verdigim entryden daha net ogrenebilirsiniz.<br/><br/>ote yandan italya'da en buyuk kulubun kim oldugu benim hakikaten hic sikimde degil... <br/>dolayisiyla gerizekalilar icin son bir kapanis yapmak isterim.<br/><br/>lance armstrong tour de france'i 7 kez kazandi ve bu 7 unvan, meshur doping skandali uzerine elinden alindi... ancak organizasyon, bu 7 unvani gidip lance'ten sonra gelen kisiye vermedi... italya'da ise, serie a unvanlari sacma bir sekilde juventus'tan alinip inter'e verildi. ancak inter aleyhine kanitlar dava zamanasimina ugradiktan sonra ortaya cikti ve bu konuda hicbir sey yapilmadi.<br/><br/>simdi siktirip gidip basit google aramasi yapmaya devam edebilirsiniz.<br/><br/>sigir, icerisinde oldugu durumdan bihaber "cahil ozguveni" diyor...
-- entry_name: |
-    sevişirken çıkarılması gereken şeyler
-  entry_id:  70568723
-  entry_writer: josemontana
-  entry_fav_count: 16
-  entry_content: |
-    aklıma cemal süreya'nın önceleyin şiirini getiren başlık. <br/><br/>(bkz: <a class="b" href="/?q=serbest+%c3%a7a%c4%9fr%c4%b1%c5%9f%c4%b1m">serbest çağrışım</a>)<br/><br/>önce bir ellerin vardı yalnızlığımla benim aramda <br/>sonra birden kapılar açılıverdi ardına kadar <br/>sonra yüzün onun ardından gözlerin dudakların <br/>sonra her şey çıkıp geldi <br/><br/>bir korkusuzluk aldı yürüdü çevremizde<br/>sen çıkardın utancını duvara astın<br/>ben masanın üstüne kodum kuralları<br/>her şey işte böyle oldu önce
-- entry_name: |
-    şener özbayraklı
-  entry_id:  70569321
-  entry_writer: donjohnston
-  entry_fav_count: 16
-  entry_content: |
-    bu futbolcu olduysa herkes her şeyi başarabilir bu hayatta. ted konuşmacısı gibi motivasyon kaynağı resmen herif yeteneksizliğiyle.
-- entry_name: |
-    beşiktaş
-  entry_id:  70554486
-  entry_writer: kasar yaza
-  entry_fav_count: 16
-  entry_content: |
-    <a class="b" href="/?q=uefa+%c5%9fampiyonlar+ligi">uefa şampiyonlar ligi</a> için <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Besiktas/status/903714360652128260" title="https://twitter.com/Besiktas/status/903714360652128260">kadro listesi</a>'ni yollamıştır. <br/><br/>ben her zaman iyimser olmaya çalışan bir taraftar olarak bu listeden hoşnut değilim. en büyük amacı avrupa'da başarı olan bir takım için yanlış ve riskli bir kadro var elimizde. özellikle defansif yönden. <br/><br/><a class="b" href="/?q=andreas+beck">andreas beck</a> gönderildi. bu satışla birlikte elimizde harcamaya hazır 3 m. €'muz vardı. buna gitme ihtimali yüksek olan <a class="b" href="/?q=alexander+milosevic">alexander milosevic</a> ve <a class="b" href="/?q=denys+boyko">denys boyko</a>'dan gelecek parayı da eklersek 5 m. €'ya yakın bir para var elimizde. bununla birlikte yabancı listesine eklenebilecek 2 oyuncu var. 12 yabancımız var şuanda. <br/><br/>durum bu haldeyken hala bir <a class="b" href="/?q=sol+stoper">sol stoper</a> alamamak çok büyük bir hata. <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a>, <a class="b" href="/?q=gary+medel">gary medel</a>'i antrenmanlarda bile stoper denemiyor. geldiğinde de "orta sahaya geldi" dedi. bu halde beşiktaş'ın listesinde sadece 3 stoper var. <a class="b" href="/?q=pepe">pepe</a>, <a class="b" href="/?q=dusko+tosic">dusko tosic</a> ve <a class="b" href="/?q=matej+mitrovic">matej mitrovic</a>. <br/><br/>geçen yıl en çok <a class="b" href="/?q=dusko+tosic">dusko tosic</a>'in düşük formundan başımız ağrıdı. şuan formu yüksek. peki düşerse yerine kim oynayacak ? <a class="b" href="/?q=monaco">monaco</a>'ya karşı stoperde <a class="b" href="/?q=necip+uysal">necip uysal</a> mı oynatılacak ? <br/><br/>adı geçen <a class="b" href="/?q=domagoj+vida">domagoj vida</a> hem sağ hem sol stoperimizi yedekleyebilirdi. tosic'ten formayı da yüksek ihtimal alırdı. menajer üzerinden yürüdü görüşmeler. bu beceriksizliğin nedeni menajere teslim edilmesi bu işin. zira <a class="b" href="/?q=dinamo+kiev">dinamo kiev</a>'in talebi zaten 2 m. €'ydu. menajerin son teklifiyse vida'ya "bonservisini hallet o parayı sana verelim" şeklinde oldu. zaten zar zor ikna olan kiev'e bu teklifle gitmek büyük hata. avrupa'da başarıya mal oldu büyük ölçüde.<br/><br/>sağ bek rotasyonumuzu hiç ihtiyacımız olmamasına rağmen bir kişi eksilttik. yerine de kimse alınmadı uefa listesine. ayrıca geçen seneden farklı olarak üçüncü kaleci yok listede. <a class="b" href="/?q=utku+yuvakuran">utku yuvakuran</a> liste dışı kalmış. şuan öyle gelmiyor ama yine büyük risk oldu bu. listede 2-3 aya dönecek olan <a class="b" href="/?q=g%c3%b6khan+t%c3%b6re">gökhan töre</a> de yok. bu belki biraz daha anlaşılabilir. <br/><br/>beşiktaş tam 4 transfer dönemine de <a class="b" href="/?q=sol+stoper">sol stoper</a> mevkisi eksik şekilde girdi ve bu dönemlerin hiçbirinde bu açığı kapatamadı. artık kabak tadı vermeye başladı bu iş. her sezon en zayıf mevki olarak görülen yere sanki inat yapıyomuş gibi transfer yapmıyoruz. bu defans düzeniyle kuradan sonra yükselen umutlarım azaldı.<br/><br/>bundan sonra 7 gün var önümüzde lig için. <a class="b" href="/?q=domagoj+vida">domagoj vida</a> veya başka bir oyuncu transfer edilse bile yalnızca ligde oynayabilecek artık. ocak'ta bedavaya alabilmek için <a class="b" href="/?q=%c5%9fampiyonlar+ligi">şampiyonlar ligi</a>'ni boşvermiş olduk. <br/><br/><a class="b" href="/?q=alvaro+negredo+sanchez">alvaro negredo sanchez</a>, <a class="b" href="/?q=jeremain+lens">jeremain lens</a>, <a class="b" href="/?q=pepe">pepe</a>, <a class="b" href="/?q=gary+medel">gary medel</a> ve <a class="b" href="/?q=orkan+%c3%a7%c4%b1nar">orkan çınar</a> transferlerinde çok akıllı işler yaptık. özellikle negredo büyük bir transfer başarısıdır. ama sol stoper alamamak da bana göre yine büyük bir başarısızlık oldu. <a class="b" href="/?q=miranda">miranda</a> gibi <a class="b" href="/?q=aymen+abdennour">aymen abdennour</a> gibi alternatif oyuncular da vardı. özellikle miranda 1,5 m. €'ya bağlanacaktı. ama vida'ya odaklanıp alternatifleri tamamen sildik.<br/><br/>benim şahsi beklentim en azından lig için bir stoper transferi yapılması artık. <a class="b" href="/?q=domagoj+vida">domagoj vida</a> ocak'a kalırsa, <a class="b" href="/?q=dinamo+kiev">dinamo kiev</a> onu <a class="b" href="/?q=avrupa+ligi">avrupa ligi</a>'nde oynatacak. grupta üçüncü olup avrupa ligi'ne gitmemiz halinde vida oynayamayacak yani. o da olmazsa bir sağ bek transferi olabilir. ama bence elde para varken transferi bugünden kapatmak daha da büyük bir hata olacak.<br/><br/>bu arada unutmadan cenk tosun konusuna değineyim. <a class="b" href="/?q=cenk+tosun">cenk tosun</a> meselesi türk futbolunun durumunu gözler önüne seriyor. başka bir oyuncuya trink diye 25 m. € veren <a class="b" href="/?q=crystal+palace">crystal palace</a> cenk tosun için teklif ettiği 14 m. €'yu 24 takside bölmek istedi. türk futbol piyasası bir para kaynağı olarak düşünülüyor yurtdışında. yıllarca kazıklanan olduğumuz için aynı şeyi devam ettirmek istiyolar. ligin en kaliteli stoperini satabildiğimiz fiyat 8 m. € oldu işte. her yere para akıtanlar konu türk takımlarından transfer olunca kesenin ağzını kapatıyor. bu iş de böylece yatmış oldu. cenk tosun konusunda anlaşma olsaydı <a class="b" href="/?q=fyodor+smolov">fyodor smolov</a> gelecekti yerine. bunun için her şey hazırdı. <br/><br/>edit : <a class="b" href="/?q=utku+yuvakuran">utku yuvakuran</a> u-21 listesinden girebiliyormuş. <a class="b" href="/?q=disappeared">disappeared</a> uyardı.
+    bu kulaklarını neler duydu. buna mı sasiriyorsunuz?<br/><br/>lozanı imzalayan ingiliz lordlar kamarasini "biz öyle bir devlet kurduracagiz ki, istediğimiz herşey olacak" demiş. bunun üzerine lordlar kamarası ikna olmuş. bu yalan üzerine usenmeyip lozan la alakalı lordlar kamarasinda yapılan tüm tartışmaları <br/>üşenmeden okudum. ilk duyduğum yalandı. <br/><br/>ikinci olarak lozandaki gizli madde yalanları çıktı ortaya. bu maddelere istinaden hilafeti kaldırmışız, latin alfabesini getirmisiz filan. <br/><br/>bu yalanlar uzayıp gitti. en son atatürk ün canakkale de savastigini ispatlamaya çalışırken kendimi buldum lan ben. <br/><br/>adamlar lozan ın hezimet olduğunu savunuyorlar lan. atatürk canakkale de savasmadi diyorlar. dünyanın düz olduğunu söyleyincemi şaşiriyorsunuz. <br/><br/>ugrasmayin amk. anlamiyorlar. kurtuluş savaşını anlatırken "keşke yunan kazansaydi" diyen tipler bunların en buyuk ustadi. ne bekliyordunuz amk.
 - entry_name: |
     ufuk sarıca
   entry_id:  70555077
   entry_writer: mikua
-  entry_fav_count: 14
+  entry_fav_count: 16
   entry_content: |
     fenerbahçe'ye türk basketbol tarihinin en iyi sezonunu yaşatan kadrodan <a class="b" href="/?q=jan+vesely">jan vesely</a>, <a class="b" href="/?q=bogdan+bogdanovi%c3%a7">bogdan bogdanoviç</a>, <a class="b" href="/?q=ekpe+udoh">ekpe udoh</a>, <a class="b" href="/?q=luigi+datome">luigi datome</a>, <a class="b" href="/?q=kostas+sloukas">kostas sloukas</a>, <a class="b" href="/?q=nikola+kalini%c3%a7">nikola kaliniç</a>, <a class="b" href="/?q=james+nunnaly">james nunnaly</a>, <a class="b" href="/?q=pero+anti%c3%a7">pero antiç</a>'ten hiçbirini kadroya almayarak büyük bir risk almıştır. hadi bu isimleri almadın, <a class="b" href="/?q=final+four">final four</a>'un kapısından dönmüş <a class="b" href="/?q=anadolu+efes">anadolu efes</a>'ten <a class="b" href="/?q=jayson+granger">jayson granger</a>, <a class="b" href="/?q=derrick+brown">derrick brown</a>, <a class="b" href="/?q=bryant+dunston">bryant dunston</a>, <a class="b" href="/?q=brandon+paul">brandon paul</a>, <a class="b" href="/?q=tyler+honeycutt">tyler honeycutt</a>, <a class="b" href="/?q=thomas+huertel">thomas huertel</a>, <a class="b" href="/?q=deshaun+thomas">deshaun thomas</a>, <a class="b" href="/?q=alex+kirk">alex kirk</a> isimlerinden de birini bile kadroya almaz mı insan?<br/><br/>bobby dixon sakat, ersan ilyasova sakat, ömer aşık hastalığı nedeniyle kadroda yok. geçen sezonu iyi geçiren takımlardaki türk oyuncular 6 dakika, 7 dakikadan fazla süre alamamış. alabilmiş olanlar da zaten milli takıma çağrılmış. oyuncu havuzu bu ve bu kısıtlı oyuncu havuzuna rağmen enerjik, mücadeleci bir takım ortaya çıkarmış. hem takımın hem de kendisinin elbette eksikleri ve hataları var ama elinde yeteneğe boğulmuş oyuncu grubu varmış da kendisi tercih etmemiş gibi boş boş konuşulması gereksiz.<br/><br/>eksik diye bahsettiğimiz adamlardan biri devşirme, diğeri de geçen sezon oynayabildiği 37 maçta 3.4 sayı, 5.4 ribaund ile oynamış. oyuncu yetiştiremiyorsun, başarını yabancı oyuncularla yakalıyorsun ve belli bir seviyeye gelen oyuncular o kadarını kâfi görüp daha fazlasına dair herhangi bir iştah beslemiyor. herifler bunu sorgulamıyor da, geçen sene normal sezonu 2. bitirip, finale kadar yükselen ve finalde de avrupa'nın en güçlü takımına şampiyonluk kaybeden bir takımdan neden oyuncu olduğunu sorguluyor.<br/><br/>elindeki oyuncu grubuna göre planlar geliştirmesi gerektiği elbette yapıcı bir eleştiri ama dönüp dolaşıp melih mahmutoğlu'nun eline bakan bir milli takımda tam olarak ne geliştirecek bilmiyorum. yani bu biraz ''osasuna da sahaya 11 kişi çıkıyor real madrid de. osasuna adam gibi oynasa real madrid'e basar geçer'' demek gibi bir şey.
-- entry_name: |
-    mircea lucescu
-  entry_id:  70560080
-  entry_writer: muto
-  entry_fav_count: 11
-  entry_content: |
-    birisi kendisi için "kacirtacaksiniz su adami da diger basarili hocalari kacirttiginiz gibi" demiş burada. kendisinin asla kaçırılmaması gereken inanılmaz başarılı bir teknik direktör olduğunu düşünenleri şu soruları cevaplamaya davet ediyorum:<br/><br/>1. <a class="b" href="/?q=t%c3%bcrk+futbolunda+yabanc%c4%b1+s%c4%b1n%c4%b1rlamas%c4%b1">türk futbolunda yabancı sınırlaması</a> konusunda kendisinin yaptığı zırvalamaları nasıl savunacaksınız?<br/><br/>2. kendisi yabancı olduğu halde, hatta kendisi en başarılı olduğu kulüp olan şahtar'da ukraynalıdan çok güney amerikalı oynattığı halde, bu yabancı düşmanlığı nereden geliyor?<br/><br/>3. oğuzhan'ı çağırmama sebebini ("son 3 maçtaki performansından memnun değildim") hakikaten yediniz mi? yedinizse arda turan, selçuk inan, cenk gönen ve ozan tufan gibi isimleri neye göre çağırdığını sorguladınız mı?<br/><br/>4. oğuzhan'ı sonradan çağırmasının sebebini ("son maçta daha iyiydi") gerçekten yediniz mi?<br/><br/>daha "eskiden yabancı sınırlaması varken ingilizleri, italyanları yeniyordu türkiye, yabancı sayısı arttı, her şey kötü oldu" gibi gerçekle yakından uzaktan bağı olmayan, buram buram ısmarlama kokan açıklamayı sormadım bakın.<br/><br/>buyrun birader... cevap verin şunlara. henüz bir tane bile cevap göremedik.<br/><br/>ipucu vereyim (bkz: <a class="b" href="/?q=t%c3%bcp%c3%a7%c3%bc">tüpçü</a>)<br/><br/>hoşunuza gitsin ya da gitmesin lucescu, tüpçü'nün yabancı sınırını tekrar daraltmak için kullandığı kamuoyu oluşturacak figürdür. burada bazı galatasaraylılar "sırf gs iyi gidiyor diye yabancı sınırını daraltmaya çalışıyorlar" falan diyorlar da, olayın galatasaray'la falan alakası yok bu arada. iş tamamen menajerlerin avantalarının azalması. galatasaray, beşiktaş, fenerbahçe falan umrunda değil bunların şu anda. ekmeklerinin(!) derdindeler. lucescu da parasını alıp istedikleri açıklamaları yapıyor, zaten dünya kupasına kalınmazsa basar gider. bu şafaktan sonra lucescu mu düşünecek türk futbolunun geleceğini?
-- entry_name: |
-    atatürk'ü sevenler cenazeme gelmesin
-  entry_id:  70555155
-  entry_writer: alpixoid
-  entry_fav_count: 11
-  entry_content: |
-    piçliğine gidelim mi?
 - entry_name: |
     ozan tufan
   entry_id:  70569390
   entry_writer: evre1983
-  entry_fav_count: 8
+  entry_fav_count: 15
   entry_content: |
     bilseydim bunun gibiler milli takıma kadar yükseliyor zamanında futbolu bırakmazdım. 80 milyonluk ülkede 11 tane adam seçiliyor, bir tanesi de ozan tufan. deli çıkacağım arkadaş
 - entry_name: |
-    ekşi itiraf
-  entry_id:  70556093
-  entry_writer: yukaf
-  entry_fav_count: 7
+    mircea lucescu
+  entry_id:  70560080
+  entry_writer: muto
+  entry_fav_count: 12
   entry_content: |
-    ben bu kanser hastalığının anasını sikeyim bayram seyran dinlemeden acı çektiren inim inim inleten bir rahat huzur vermeyen bu hastalığın anasını bacısını sikiyim. bu saatte kocaman dağ gibi babayı hüngür hüngür ağlatan o orospu çocuğu,boğazdan çıkmayan balgamın amına koyim. yıl olmuş bilmem kaç bu lanete çare bulamayan biliminde tıbbın da ta amına koyim.
+    birisi kendisi için "kacirtacaksiniz su adami da diger basarili hocalari kacirttiginiz gibi" demiş burada. kendisinin asla kaçırılmaması gereken inanılmaz başarılı bir teknik direktör olduğunu düşünenleri şu soruları cevaplamaya davet ediyorum:<br/><br/>1. <a class="b" href="/?q=t%c3%bcrk+futbolunda+yabanc%c4%b1+s%c4%b1n%c4%b1rlamas%c4%b1">türk futbolunda yabancı sınırlaması</a> konusunda kendisinin yaptığı zırvalamaları nasıl savunacaksınız?<br/><br/>2. kendisi yabancı olduğu halde, hatta kendisi en başarılı olduğu kulüp olan şahtar'da ukraynalıdan çok güney amerikalı oynattığı halde, bu yabancı düşmanlığı nereden geliyor?<br/><br/>3. oğuzhan'ı çağırmama sebebini ("son 3 maçtaki performansından memnun değildim") hakikaten yediniz mi? yedinizse arda turan, selçuk inan, cenk gönen ve ozan tufan gibi isimleri neye göre çağırdığını sorguladınız mı?<br/><br/>4. oğuzhan'ı sonradan çağırmasının sebebini ("son maçta daha iyiydi") gerçekten yediniz mi?<br/><br/>daha "eskiden yabancı sınırlaması varken ingilizleri, italyanları yeniyordu türkiye, yabancı sayısı arttı, her şey kötü oldu" gibi gerçekle yakından uzaktan bağı olmayan, buram buram ısmarlama kokan açıklamayı sormadım bakın.<br/><br/>buyrun birader... cevap verin şunlara. henüz bir tane bile cevap göremedik.<br/><br/>ipucu vereyim (bkz: <a class="b" href="/?q=t%c3%bcp%c3%a7%c3%bc">tüpçü</a>)<br/><br/>hoşunuza gitsin ya da gitmesin lucescu, tüpçü'nün yabancı sınırını tekrar daraltmak için kullandığı kamuoyu oluşturacak figürdür. burada bazı galatasaraylılar "sırf gs iyi gidiyor diye yabancı sınırını daraltmaya çalışıyorlar" falan diyorlar da, olayın galatasaray'la falan alakası yok bu arada. iş tamamen menajerlerin avantalarının azalması. galatasaray, beşiktaş, fenerbahçe falan umrunda değil bunların şu anda. ekmeklerinin(!) derdindeler. lucescu da parasını alıp istedikleri açıklamaları yapıyor, zaten dünya kupasına kalınmazsa basar gider. bu şafaktan sonra lucescu mu düşünecek türk futbolunun geleceğini?
 - entry_name: |
     bitcoin
   entry_id:  70555500
   entry_writer: hulkikesbi
-  entry_fav_count: 7
+  entry_fav_count: 9
   entry_content: |
     beş yıl önce para yatırsaydık, uçardık, zengin olurduk, a.. bile koyardık diyen yazar arkadaşlar; bundan beş sene sonra sizi zengin edecek bir sürü fırsat var. madem öyle onu da şimdi tahmin edin. millet müneccim değil ki. yoksa herkes zengin olurdu. <br/><br/>adamın biri gitmiş marstan arsa almış. şuan taşşak geçiyorsunuz belki ama beş sene sonra ulan keşke zamanında biz de marstan arsa alsaydık diyebilirsiniz. bu da öyle bir şey. millet o zaman almış bir cacık olmadığını görünce bırakmış. son günlerde patladı. piyasanın balinaları var, ara sıra keriz silkeliyorlar. yakında bir silkeleme gelebilir...sıkı tutunun.
+- entry_name: |
+    ekşi itiraf
+  entry_id:  70556093
+  entry_writer: yukaf
+  entry_fav_count: 8
+  entry_content: |
+    ben bu kanser hastalığının anasını sikeyim bayram seyran dinlemeden acı çektiren inim inim inleten bir rahat huzur vermeyen bu hastalığın anasını bacısını sikiyim. bu saatte kocaman dağ gibi babayı hüngür hüngür ağlatan o orospu çocuğu,boğazdan çıkmayan balgamın amına koyim. yıl olmuş bilmem kaç bu lanete çare bulamayan biliminde tıbbın da ta amına koyim.
+- entry_name: |
+    nick değiştirmek istiyoruz kampanyası
+  entry_id:  70566433
+  entry_writer: sedat senin gotune koyim lan
+  entry_fav_count: 7
+  entry_content: |
+    nereyi imzalıyoruz dediğim kampanyadir. nick imi sevmiyorum. kazara alınan bir nick tir kendileri.
+- entry_name: |
+    cinayeti vatan şaşmaz işledi
+  entry_id:  70554343
+  entry_writer: sigara kibrit
+  entry_fav_count: 7
+  entry_content: |
+    ölenin ya da öldürenin ırkı, dini, mezhebi, <a class="b" href="/?q=cinsiyeti">cinsiyeti</a>, mal varlığı... tartışılıyorsa orada masum insan yoktur. orada art niyetli insanlar var demektir. <br/><br/>ne yani şimdi vatan şaşmaz'ın ailesinden bir erkek çıkıp, bu yazıdan rahatsız olsa ve yazan kadını öldürse; kadın o katili azmettirmiş mi olacak? katilin hiç mi suçu olmayacak?
 - entry_name: |
     parasına kesinlikle değen şeyler
   entry_id:  70555564
@@ -248,26 +269,54 @@ data:
   entry_content: |
     ne bitcoin<br/>ne drug<br/>ne de ayfon <br/><br/>(bkz: <a class="b" href="/?q=e%c4%9fitim">eğitim</a>)
 - entry_name: |
-    feminizm
-  entry_id:  70566231
-  entry_writer: maria de fosforosa
-  entry_fav_count: 6
-  entry_content: |
-    son iki yüzyıla damgasını vurmuş önemli politik akımlardan biridir.<br/><br/>bir süredir sözlükte dönen <a class="b" href="/?q=the+red+pill">the red pill</a> ve <a class="b" href="/?q=feminizm">feminizm</a> tartışmaları üzerinden bir iki laf da ben söyleyeyim dedim. malum, kutuplaşma arttıkça taraflar arası saldırganlık yükselir, bir tarafın dediğini diğer taraf duymaz ve her iki taraf da saçmalamaya başlar. red pillciler ile feministlerin ya da anti-red pillciler ile anti-feministlerin eşit derecede saçmaladığını söyleyemeyeceğim maalesef (redpillciler ağır saçmalıyor), fakat tarafların her birinde ciddi tuhaflıklar mevcut. örneğin redpillcileri "çirkin" olmakla suçlayan feminist birtakım insanlar var ki hangi feminist bakış açısına oturtulabilir bilemiyorum.<br/><br/>kendimi bir süredir feminist olarak tanımlamıyorum. feminizm ile bir derdim yok, hatta iyi ki var diyorum. "özgürlükçülük" dışında herhangi bir kimliğin bir yerden sonra sapıtacağına inanıyorum. ne demiş niçe: "canavarlarla savaşan kişi, kendi de canavar olmamaya bakmalıdır. ve uzun süre uçuruma bakarsan uçurum da sana bakar."<br/><br/>lakin açıkçası buraya feminizm eleştirisi vermeye gelmedim. zaten feminizme karşı olmadığımı belirtmiştim, daha ziyade feministlerle sıkıntılıyım. yukarıda bilip bilmeden "birinci dalga iyiydi ama ikinci dalga fena bozdu" diye konuşulanların aksine ikinci dalgayı birinci dalgadan daha mantıklı buluyor, üçüncü dalgaya çok daha yakın hissediyorum. feministlerin kendi aralarında da çok ciddi ayrımları var ve olması da gerekiyor zaten. gerçi bunu da "kadınların rekabetçiliği"ne yoran kafalar mevcut. onlara kalsa, feministler tümden aynı kafada olsalar "kadınlar sürü psikolojisiyle hareket eden varlıklar, birbirine asla itiraz etmezler" diyecekler. neyse, söylemek istediğim şu: çeşit çeşit feminizm var, üstelik birbiriyle epey zıt özelliklere sahip olan feminizmler var ve siz hangisini eleştirdiğinizi söylemeden hepsini aynı potada eritiyorsunuz. e, haliyle art niyetiniz ortaya çıkıyor, maksadınız üzüm yemek değil bağcıyı dövmek.<br/><br/>örneğin <a class="b" href="/?q=sex-positive">sex-positive</a> feministler ile <a class="b" href="/?q=anti-porn">anti-porn</a> feministler arasında ciddi bir ayrım var. anti-porn feministler pornonun temel olarak kadın bedenini metalaştırdığını, erkeklerde karşılanması mümkün olmayan cinsel arayışlara yol açtığını, tamamen erkek zevkine hizmet ettiğini savunurken, sex positive feministler tam aksine porno aracılığıyla kadınların bedenlerini, hazlarını keşfettiğini, cinsel açıdan sub ya da dom olan bir kadının bu özellikleriyle barışık bir şekilde yaşayabileceğini, bu yüzden de özgürleştirici bir şey olduğunu savunur. ya da <a class="b" href="/?q=terf">terf</a> olarak kısaltılan <a class="b" href="/?q=trans+exclusionary+radical+feminism">trans exclusionary radical feminism</a> ile <a class="b" href="/?q=transgender+feminism">transgender feminism</a> arasında basit bir karşıtlıktan ziyade düpedüz varoluşsal bir düşmanlık vardır. yahut islami feminizm ile <a class="b" href="/?q=slutwalk">slutwalk</a>'a katılan feministleri nasıl aynı kefeye koyacaksınız? <br/><br/>feministler saçmaladıkları zaman "çok ileri gittin" demek başka bir şey, "feminizm aslında kadın egemenliği istiyor" demek bambaşka bir şey (kadın egemenliği isteyen feministler yok değil, şahsen katılmıyorum, <a class="b" href="/?q=%c3%b6zc%c3%bc">özcü</a> buluyorum.) eh, bunca yıldır kadınların hakları konusunda günahıyla sevabıyla ciddi kazanımlar getirmiş bir akıma tümüyle saldırdığınızda, paçalarınızdan akan kadın düşmanlığınızı bir zahmet yüzünüze vuralım.<br/><br/>yazılıp çizilenler üzerinden kendimce cevap vererek ilerlediğim için, dağınık gidiyorum. yine yukarılarda bir yerde feminizm ortaya çıktığından bu yana bin beş yüzüncü kez dillendirilen askerlik mevzusu dile getirilmiş. misal, maşallah sapır sapır ingilizceniz var ve google diye bir şey icat edildi, oradan "feminism and militarism" yazıp aratırsanız, sayısız makale bulacaksınız. benim gönlümden geçen şey, ordu denen şeyin tamamen ortadan kalkması, fakat fazla ütopik olacağını düşündüğümden bunun yerine "cinsiyet ayrımı gözetmeksizin isteyen ve yeteneği olan herkesin katılabildiği ama hiç kimsenin zorla alınmadığı bir ordu" olmasını isterdim, istedim ve istiyorum. zamanında bir feminist olarak erkeklerin <a class="b" href="/?q=vicdan%c3%ae+ret">vicdanî ret</a> hakkı için eylemlere katıldığımda siz ve sizin gibiler beni vatan hainliği ile suçluyordu. olsun varsın. kadın değil miyim, tabiatım ihanete meyilli. her neyse, açıkçası kadınların ya da erkeklerin zorla askere alındıkları, hayatlarından bir kısmının çalındığı 1984'ten bozma bir dünya yerine, bedelli askerlik tartışmalarında sedasayanesk bir tavırla "ben sizden daha errrrkeğim be!" diye dolanan kadınların kendi rızalarıyla askere gittiği, askere gitmek istemeyen erkeklerin de askere gitmedikleri bir dünyada yaşamak isterdim. alâkalı olarak: (bkz: <a class="b" href="/?q=ataerkil+toplumda+erkegin+magduriyeti%2f%40maria+de+fosforosa">ataerkil toplumda erkegin magduriyeti/@maria de fosforosa</a>). feministler, söz konusu başka türlü cinayetler olduğunda neden sessiz kalıyor diye soruluyor. şu "şuna ses çıkarmadın, buna da çıkaramazsın" tavrına ifrit olduğum kadar hiçbir şeye ifrit olmuyorum politik tartışmalarda. ses çıkarmamak ile desteklemek arasında dağlar kadar fark var. erkek katliamını destekleyen bir feminist görürseniz, elbette saldırın. fakat feministlere gidip "şuna niye sesinizi çıkarmıyorsunuz" demek, "kanserle mücadele derneği"ne gidip "niye aids'le de savaşmıyorsunuz" demek ile eşdeğer. belirli sorunların belirli sebepleri vardır ve bu sebepler üzerine uzmanlaşan birtakım grupların olması, özel olarak o soruna dikkat çekecek olmaları bir dezavantaj değil, avantajdır. kadın cinayetleri ağırlıklı olarak kadını aşağı gören erkek egemen düzenin bir sonucudur. bu yüzden feminist bir mevzudur. erkek cinayetleri ise daha farklı sebeplerle ortaya çıkar ve farklı bakış açılarının ele alması gerektiği mevzulardır. diğer yandan herkes bir superhero olacak ve toplumdaki tüm adaletsizliklere karşı savaşacak diye bir şey yok. buna kimsenin ne vakti ne de gücü yeter. biri çıkar, "şöyle bir sorun var" der, diğeri çıkar "burada da böyle bir mesele var" der. taraflar birbirini kösteklemesin yeter ki. <br/><br/>bu bağlamda erkekler kendilerini rahatsız eden mevzuları dile getirmeliler tabii ki. sünnet olayına mı karşısınız? bir örgüt kurun ve sünnete karşı savaşın; feministler size gelip de "erkek olduğunuz için bunu yapmanız lazım" gibi abuk sabuk bir laf ederse o zaman söz söylemeye hakkınız olur. fakat erkek sünnetine karşı çıkan feministler olduğu <a rel="nofollow noopener" class="url" target="_blank" href="http://bfy.tw/DiAA" title="http://bfy.tw/DiAA">için</a> işiniz biraz zor. <br/><br/>kadın cinayetleri konusuna geri dönelim. feminizm size der ki "<a class="b" href="/?q=kad%c4%b1n+cinayetleri+politiktir">kadın cinayetleri politiktir</a>." şu anlama geliyor: kadın cinayetleri basit bir biçimde cinnet getirme, kendini kaybetme vs. gibi psikiyatrik sebeplerle açıklanamaz, arkasında kocaman bir kültürel, ideolojik ve politik bir arka plan vardır. kocanızdan şiddet görürsünüz; polise şikayet edersiniz, polis "siz karı-kocasınız, öpüşün barışın" der; mahkeme sizi bir türlü boşamaz; aileniz sahip çıkmaz, zaten kendi ayakları üzerinde durabilecek şekilde eğitilmemişsinizdir; o akşam yemeği iyi pişirmediğiniz için ölür gidersiniz. meşrulaştırmak için söylemiyorum (bunu özellikle belirtiyorum çünkü yanlış anlamaya müsait çok arkadaş var), bir kadın bir erkeği öldürdüğünde böyle sistematik kültürel bir yapı kolay kolay bulamazsınız (vatan şaşmaz örneğiyle ilgili feminist birinin yazdığı bir yazı vardı, iğrenç bulsam da bu yukarıda bahsettiğim ile tam olarak aynı şey değil). <br/><br/>şu red pillci arkadaşların iddiaları var bir de: "kadınlar zaten kendilerine şiddet uygulayan erkeklerden kaçmıyor, çünkü alfa erkek, çünkü kadın doğası." bu iddianın birkaç alt başlığı var. birincisi kadınların bir kısmı kaçıyorken, bir kısmı kaçamıyor, bir kısmı da bilinçli olarak kaçmıyor. kaçanlar ve kaçmak isteyip de kaçamayanlar zaten tartışma dışı fakat bilinçli olarak kaçmayanların "erkeğinin karşısında tir tir titreyerek itaat etmekten zevk alan dengesiz kadın doğası" ile bir alâkası yok. bunlar kişilikle ya da kültürle alâkalı şeyler. kaçmayan kadınlar da iki gruba ayrılıyor diye düşünüyorum: 1) kaçması gerektiğini bilmeyenler; 2) kaçması gerektiğini bilip yine de kaçmayanlar. birinci grubun sebepleri kültürle alâkalı ("erkektir, yapar") , ikinci grup ise kişilikle. bununla ilgili çok güzel bir morçatı röportajı vardı, şuraya linkini <a rel="nofollow noopener" class="url" target="_blank" href="http://bianet.org/bianet/kadin/169534-kadinlar-siddet-gordukleri-erkekleri-neden-terk-etmiyor" title="http://bianet.org/bianet/kadin/169534-kadinlar-siddet-gordukleri-erkekleri-neden-terk-etmiyor">bırakıyorum</a>, başlangıç için şahane. buradan sonra şu konularla ilgili yapılmış araştırmalara göz atabilirsiniz: (bkz: <a class="b" href="/?q=abuse">abuse</a>), (bkz: <a class="b" href="/?q=physical+abuse">physical abuse</a>) (bkz: <a class="b" href="/?q=psychological+abuse">psychological abuse</a>), (bkz: <a class="b" href="/?q=emotional+abuse">emotional abuse</a>), (bkz: <a class="b" href="/?q=stockholm+syndrom">stockholm syndrom</a>), (bkz: <a class="b" href="/?q=traumatic+bonding">traumatic bonding</a>). buralarda araştırdıkça göreceksiniz ki "kötü davranışlara katlananlar" sadece kadınlar değil. erkekler de pekâlâ duygusal ve hatta fiziksel şiddet (ön not: "aa senin adamın gol diyor" muhabbetine hiç gerek yok. niye, diye soracak olursanız, bu da ayrı bir tartışma konusu, başka bir yerde tartışırım) karşısında gıklarını çıkarmadan kalabiliyorlar; tabii siz bunu "dişisinin karşısında tir tir titreyerek itaat eden isterik erkek doğası" ile değil, "yeterince erkek olamamak" ile açıklarsınız o da ayrı bir konu. <br/><br/>hah işte, burada ikinci alt başlığa geliyoruz: sözde kadın doğası ile sözde erkek doğası. bu tip biyolojik determinizmler aslında çok anlaşılır. aromantik veya aseksüel olmayan herkesin hayatını etkileyen romantik ilişkilerin doğasını anlamaya çalışırız. bu gibi ilişkiler, işin içinde yoğun duyguların bulunduğu ilişkiler oldukları için oldukça karmaşık ilişkilerdir (gerçi insana dair her şey karmaşıktır, o da ayrı bir mevzu). sadece cinsiyet ile açıklayamayacağınız onlarca farklı faktörün bir araya gelmesiyle oluşur ve siz yaşadığınız tüm ilişkiyi bir kameraya kaydetseniz de, kaydettiğiniz filmi sonrasında on defa izleseniz de hiçbir zaman işin tamamını anlayamazsınız. her zaman görmediğiniz bir şeyler olacaktır, sizi bu kadar etkileyen bir şey söz konusu olduğunda. böyle "kadın şudur", "erkek budur" gibi biyolojik determinizmler meseleleri basitleştirir, "her şeyi anladığınız" yanılgısı yaratır, üstüne üstlük suçu karşı tarafın doğasına atarak sorumluluğu sizin üzerinizden alır. oysa insan beyni daha tam olarak çözülmemiştir; kadın beyni ile erkek beyni arasındaki farklara dair tartışmalar hâlâ <a rel="nofollow noopener" class="url" target="_blank" href="http://www.evrimagaci.org/fotograf/73/5342" title="http://www.evrimagaci.org/fotograf/73/5342">sürüp gitmektedir</a>; insan davranışlarını açıklamaya çalışan pek çok disiplin mevcutken ve bunların kendi aralarında bile sayısız tartışması varken, en basitinden psikolojide bile "acaba insanları bilmemne hastalığı diye etiketlemesek mi" diye tartışmalar dönüyorken, çıkıp "kadınlar doğaları gereği şöyle" demeniz, komik ve acınası.<br/><br/>yapılan tespitlerden hiçbirine katılmıyor değilim, fakat bunların daha ziyade kültürle alâkalı sorunlar olduğunu düşünüyorum. kadın ve erkek arasında cinsiyete dayalı hiçbir farkın olmadığını da düşünmüyorum. elbette ki evrimsel süreç birtakım eğilimleri kadınlarda daha fazla erkeklerde daha az (ya da tam tersi) kılmış olabilir, fakat bunun iddia edildiği kadar keskin ayrımlar üretmediği de bariz bir biçimde ortada. üstelik yirmi birinci yüzyılda diğer cinsiyet ihtimallerinden ve cinsiyetsizlik ihtimallerinden konuşuyorken...<br/><br/>kendimi düşünüyorum: hayatımda, sizin <a class="b" href="/?q=alfa+erkek">alfa erkek</a> olarak adlandıracağınız türden bir erkekle de ilişkim oldu. zihniyet olarak cinsiyetçi biri değildi, lafa gelince kadın erkek eşitliğini savunurdu, fakat baya dominant bir kişilikti ve sistematik olarak aşağılanarak özgüvenimin yok edildiği bir ilişki yaşadım. a-ha! kadınlar kendilerine kötü davranan erkekleri sever! canım, size sonrasını anlatayım: övünerek söylüyormuşum gibi olmasın, aldatmak büyük ayıptır ama sonrasında bu adamı, beni insan yerine koyan ilk kişiyle -evet bildiniz, "efendi adam" ile- aldattım. şu an ise, kesinlikle "efendi-piç" skalasında değerlendirmediğim, tamamen nevi şahsına münhasır bir adama aşığım ve onunla birlikteyim <sup class="ab"><a title="(bkz: iki gözümün çiçeği)" href="/?q=iki+g%c3%b6z%c3%bcm%c3%bcn+%c3%a7i%c3%a7e%c4%9fi" data-query="iki gözümün çiçeği">*</a></sup>. halbuki kadın doğam gereği istikrarlı bir biçimde daha alfaya, daha da alfaya, o alfadan bu alfaya koşmam gerekirdi, alfa erkeklerin içimi ferahlatıyor olması gerekirdi. ne değişti? o zaman kadındım da şimdi kadınlığımdan mı caydım? hayır, kardeşim. kişiliğim değişti. benliğimi, sınırlarımı keşfettim. bana neler yapılmasına izin verip, nelere izin vermeyeceğimi keşfettim. <br/><br/>demem o ki, bu kadınlık-erkeklik mevzuları sandığınız kadar basit değil. basite indirgemek işinize geliyor ama ağzı yanan ilk siz olacaksınız, haberiniz yok. <br/><br/>neyse, şimdilik bu kadar. dağınık oldu belki ama bir iki laf edeyim istedim.
-- entry_name: |
-    iki kişilik yatakta yalnız uyumak
-  entry_id:  70555984
-  entry_writer: arkadasim once o eli indir
-  entry_fav_count: 5
-  entry_content: |
-    manyak mısın olm? gece uyanıp bi düzine oyuncağıyla yanına gelen bebelerle dört kişi uyu da; iki kişilik yatakta tek uyumanın nasıl bir lüks olduğunu anlarsın. şu yaşımda koskoca yatağı peluş oyuncaklarla paylaşıyorum, sabah kıçımın altından maşa bebeği, omzumun dibinden emzik, boş biberon filan çıkıyor deli misin lan? git zıbar uyu asabımı bozma!
-- entry_name: |
     arda turan
   entry_id:  70557413
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     adamdır adam. adamın dibidir.<br/>fatih terim'i kovdurduktan sonra şimdi de barcelona başkanın kovudracak gibi.<br/><br/>taraftar forumları yıkılıyor "herkesi gönderdiniz, takımı en vasıfsızı duruyor. sizin gibi yönetimin allah belasını versin" diye.
+- entry_name: |
+    1 eylül 2017 hiçbir yerin açık olmaması rezaleti
+  entry_id:  70554108
+  entry_writer: veret hekau
+  entry_fav_count: 6
+  entry_content: |
+    türkiye'de bayram gerçeğidir. herhangi bir dini bayram öncesi tüm işler halledilmeli, ev alışverişi yapılmalıdır. bence problem değil, bu kültürel bir süreç. insanların da dinlenmeye ihtiyaçları var. tatil güzel bir şey.
+- entry_name: |
+    iki kişilik yatakta yalnız uyumak
+  entry_id:  70560895
+  entry_writer: dreamfactory
+  entry_fav_count: 5
+  entry_content: |
+    alışkanlık yaptığı için olur da tek kişilik yatakta uyumak zorunda kalırsam döne döne yere çakılıyorum, daha mesafe var sanıyorum dönerken. alt komşu arkadaşıma kurban kestiniz herhalde, allah kabul etsin, gece parçaladınız galiba, bir iki kere ses geldi sizden diye sormuş.<br/>sana ne yau, belki zigişiliyor, belki koçun taşağını yerden yere vuruyoruz?<br/><br/>edit: çift kişilik yataktan koç taşağına nasıl geldim ben de bilmiyorum.
+- entry_name: |
+    fatih terim
+  entry_id:  70570056
+  entry_writer: mozambik asilliyim
+  entry_fav_count: 5
+  entry_content: |
+    finlandiya, izlanda'ya döşediğini duyduğum andan beri ahlar vahlar içerisinde aradığım kişidir. tam onluk bir ortam oluşmuşken takıma şöyle güzel bir gaz verip işi bitirebilirdik.<br/><br/>lakin milli takımı fatih terim'in elinden gittik arda ve onun itlerinin nazı için gittik bu hale getirdik işte. fatih terim şu işi öyle ya da böyle buraya kadar getirmişti. bıraksaydınız da takımı batıracaksa da çıkaracaksa da o yapsaydı... ne güzel arda'sız ve kaşarsız bir milli takım görürdük en azından...<br/><br/>he bu arada lucescu'nun aldığı maaşı, fatih terim'in aldığı maaş kadar konuşacak mısınız merak ediyorum...
+- entry_name: |
+    tolga ciğerci
+  entry_id:  70570353
+  entry_writer: nickbulamadimnolcak
+  entry_fav_count: 4
+  entry_content: |
+    milli takımda diğer herkes ronaldo, messi ayarında oynarken dökülen tek futbolcu!<br/>hastirin lan oradan. çevresinde bu kadar futbola uzak adam varken tolga ne yapsın? sizin cenkinizi gören varmı sahada?
+- entry_name: |
+    arakanlı mültecileri metro otobüslerinin getirmesi
+  entry_id:  70566790
+  entry_writer: catch the arrow
+  entry_fav_count: 4
+  entry_content: |
+    kimsenin böyle bir şey söylediği yoktur ama ekşi sözlük'te okuduğu her şeye inanan birkaç mal elbette bu başlığı ciddiye alıp yorum yazacak.
+- entry_name: |
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+  entry_id:  70563484
+  entry_writer: bana lukslerimi verin
+  entry_fav_count: 3
+  entry_content: |
+    eskişehir'den qizlar eqlesin. napcaz erkek erkege:)<br/><br/>edit: oha ekliyorlar. yuzde yuz calisiyor. doktor herhalde, bobreklerimin saglikli calisip calismadigini falan soruyor. egitim duzeyi yuksek tabi sozlukte.
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  70555528
@@ -276,19 +325,26 @@ data:
   entry_content: |
     ayni gokyuzune baktigimiz surece ne kadar uzak olabiliriz ki?
 - entry_name: |
-    arakanlı mültecileri metro otobüslerinin getirmesi
-  entry_id:  70566790
-  entry_writer: catch the arrow
-  entry_fav_count: 3
-  entry_content: |
-    kimsenin böyle bir şey söylediği yoktur ama ekşi sözlük'te okuduğu her şeye inanan birkaç mal elbette bu başlığı ciddiye alıp yorum yazacak.
-- entry_name: |
-    fatih terim
-  entry_id:  70570056
-  entry_writer: mozambik asilliyim
+    ölümden korkmak
+  entry_id:  70569452
+  entry_writer: dreamfactory
   entry_fav_count: 2
   entry_content: |
-    finlandiya, izlanda'ya döşediğini duyduğum andan beri ahlar vahlar içerisinde aradığım kişidir. tam onluk bir ortam oluşmuşken takıma şöyle güzel bir gaz verip işi bitirebilirdik.<br/><br/>lakin milli takımı fatih terim'in elinden gittik arda ve onun itlerinin nazı için gittik bu hale getirdik işte. fatih terim şu işi öyle ya da böyle buraya kadar getirmişti. bıraksaydınız da takımı batıracaksa da çıkaracaksa da o yapsaydı... ne güzel arda'sız ve kaşarsız bir milli takım görürdük en azından...<br/><br/>he bu arada lucescu'nun aldığı maaşı, fatih terim'in aldığı maaş kadar konuşacak mısınız merak ediyorum...
+    ben mesela ölmekten değil de ölememekten korkuyorum, saatlerce belki günlerce can çekişmekten, acı çekmekten ve bu zaman zarfında bilincimin açık olmasından.<br/><br/>öyle pat diye öleceğimi bilsem korkmam. doğmadan öncesini bilmiyordum, ölünce de bilmeyeceğim, bilinç yok olacak. nasıl uyurken uyuduğumuzu bilmiyorsak ölüm de bana göre öyle.<br/>sevdiklerim bilecek öldüğümü, ben değil.
+- entry_name: |
+    hayatta her şey para değildir
+  entry_id:  70567116
+  entry_writer: chuckal
+  entry_fav_count: 2
+  entry_content: |
+    her şey olmasa bile çoğu şey paradır. eğer yeterince paranız varsa geri kalanları elde etmek için, parası olmayanlara nazaran daha az çaba göstermeniz yeterli olur.<br/><br/>insanın nelerden mutlu olacağı kişiye göre değişir.<br/>huzur istiyorsanız; sakin bir sahil kasabasında ev satın alıp istediğiniz gibi yaşarsınız.<br/>okumak, öğrenmek istiyorsanız; istediğiniz bir özel üniversiteye kaydolabilirsiniz. <br/>dünyayı gezmek isterseniz; sizi tutan yok.<br/><br/>yok efendim, "sağlık olmazsa huzur, mutluluk olmaz." benzeri klişelere de gerek yok. kimse zaten aksini iddia edecek değil. parası olan ile parası olmayan iki kişinin aynı hastalığa yakalanması durumunu düşünmek bile başlı başına konuyu açıklık getirebilir.
+- entry_name: |
+    gay biriyle arkadaş olmak istemeyen erkek
+  entry_id:  70555004
+  entry_writer: shipshack
+  entry_fav_count: 2
+  entry_content: |
+    şimdiye kadar tanıdığım veya denk geldiğim gayler, genel olarak fazla yırtık karakterli, yüksek egolu ve gereksiz bir özgüvene sahip oldukları için kendilerinden mesafeli davranarak uzak durmayı tercih ettim. sevmiyorum böyle insanları. cinsel kimliğinden öte varlığı rahatsız ediyor. bir de bana çok ısrarcı tipler denk geldi sanırım. konuşmadıkça üsteleyen, laf sokmaya çalışan, tacize varan rahatsızlık yaratan. <br/><br/>gece ne zaman dışarı çıksam bu tiplerle sorun yaşamışımdır. en nihayetinde ricky martin de gay bizim o çakma dj de. adını unuttum şimdi. ricky gelsin can feda ama öbürünü direkt tokatlarım.
 - entry_name: |
     dünyanın yuvarlak olduğunun kanıtları
   entry_id:  70568301
@@ -296,60 +352,4 @@ data:
   entry_fav_count: 2
   entry_content: |
     istanbul'dan direkt ucusla kuzey kutbu uzerinden los angeles'a varilmasi. atlantik okyanusu uzerinden ucmak varken sizce neden boyle bir guzergah izleniyor, dusundunuz mu? madem dunya bir tepsi, neden tepsiyi cevreledigini dusundugunuz o buzullarin ustunden uculuyor? madem buzullar cemberin sinirlarini olusturuyorlar, nasil oluyor da ucuslar o dogrultuda? hadi buzullarda biraz takilip geri donup abd yonune ucuyor demis olun. neden atlantik okyanusu uzerinden direkt dumduz ucmaktan daha kisa suruyor bu? yol nasil oluyor da uzamiyor? <br/>bu sazan.avi tarzi bir durumsa eger bunlari yazdigim icin sazan durumuna dusmeye raziyim, o kadar nefret ettim bazilarinin cehaletinden.<br/><br/>edit: kimi haritalarda tam ortada kuzey kutbu duruyormus, kimilerinde dalga dalga yayilmislar, kimilerinde ise sadece kenarlarda. sok oldum gercekten. guney kutbu uzerinden ucus olmamasinin sebebini soyle aciklayabilirim. haritada gordugunuz guney kutbunu gecince karsiniza bir anda kuzey kutbu cikmiyor. dunya haritalarina yansimayan ciddi bir su kutlesi var ve tum kitalar pangea'dan ayrildigi icin bu yuzey alaninda gorece bir tarafta toplanmislar.
-- entry_name: |
-    ölümden korkmak
-  entry_id:  70569452
-  entry_writer: dreamfactory
-  entry_fav_count: 1
-  entry_content: |
-    ben mesela ölmekten değil de ölememekten korkuyorum, saatlerce belki günlerce can çekişmekten, acı çekmekten ve bu zaman zarfında bilincimin açık olmasından.<br/><br/>öyle pat diye öleceğimi bilsem korkmam. doğmadan öncesini bilmiyordum, ölünce de bilmeyeceğim, bilinç yok olacak. nasıl uyurken uyuduğumuzu bilmiyorsak ölüm de bana göre öyle.<br/>sevdiklerim bilecek öldüğümü, ben değil.
-- entry_name: |
-    mustafa pektemek
-  entry_id:  70567817
-  entry_writer: callejee
-  entry_fav_count: 1
-  entry_content: |
-    anladığımız kadarıyla şenol güneş daha çok forvet arkası kesici, pas dağıtıcı olarak deniyor. ileri uç orta saha kopukluğunda elinde bazı takımlara karşı bir hamle seçeneği olabilir ama hala ileri uçta eli ayağına dolaşıyor. kayserispor maçında şenol güneş 4-5 pozisyonda denedi sanırım, en son bi ara stoperde gördüm işlemcisi yanmış bi şekilde dolaşıyordu.
-- entry_name: |
-    hayatta her şey para değildir
-  entry_id:  70566799
-  entry_writer: fiepic01
-  entry_fav_count: 1
-  entry_content: |
-    o kadar iddialı bir cümledir ki hiç bir kutsal kitapta kullanılmaya cesaret edilmemiştir. bazı değerler vardır, ancak onların üzerine kullanılırsa eyvallah dediğim; yanı sıra başarısız insanın kendisini bir şekilde avutmak için sarf ettiği cümledir. arkadaş bu cümleyi olur olmaz kullanandan uzak dur. mümkünse o şahsa çok yakın olma. <a class="b" href="/?q=her+%c5%9feyin+bir+de%c4%9feri+vard%c4%b1r">her şeyin bir değeri vardır</a> cümlesi bu cümleden daha doğru ve daha gerçekçidir. vesselam.
-- entry_name: |
-    eylül
-  entry_id:  70554693
-  entry_writer: cristina yang
-  entry_fav_count: 1
-  entry_content: |
-    ilk aşık olduğumda aylardan eylül'dü. iki yıl sonra bittiğinde yine eylül'dü. hayatımda yediğim ilk dost kazığı ve ihanete ağlarken de eylül'dü. sonra eşimle tanıştık eylül'dü. boşandık yine eylül. <br/>geçen yıl bugün "tamam mı? devam mı?" sorusuna en çok çaresiz kaldığım ve kalbimin tüm kuvvetiyle "devam" diye haykırdığı geceydi. balkonun bir köşesine sindim sabaha dek ağladım, güldüm, sevdim... eylül'dü. <br/>şimdi de hayatımda ilk kez bayramı yalnız geçiriyorum ve bazı şeyler kâh anlam kazanırken kâh kaybederken şarabımı yudumluyorum. takvim yine eylül...<br/><br/>seni sevsem mi? yoksa neftret mi etsem? bilemedim... ama iyi ki varsın eylül. anlamın içinde saklı, yükün yüreklerde...
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  70556553
-  entry_writer: huguker
-  entry_fav_count: 1
-  entry_content: |
-    uzun süredir baktığım muhabbet kuşum '' adebisi '' nin gözümün önünde yaptığımız tüm tedaviye rağmen eriyip gitmesidir. <br/><br/>triflucan ve kusmasın diye metpamid şuruptan tutun da sülfürüne antibiotiğine kadar hepsini verdik izmir'in en bilinen veterinerine götürdük ancak oğlum gözümün önünde kusarak eriyor. resmen o parlak tüylü müthiş hareketli oğlumdan geriye eser kalmadı. <br/><br/>bugün elime alıp sevmek isterken çıkardığı ses çok garipti sanki boğuluyor gibi. kusura bakmayın sözlük kurallarına aykırı da olsa şu; '' :(((( '' işareti yapıcam...<br/><br/>oğlumun yavaş yavaş kucağımızda öldüğünü görmek beni depresyona soktu. zaten anksiyete ve panik atak hastasıyım sabahtan beri ağlıyorum. ne bayram yapabildim ne bayramlaşma. halen ağlıyorum ve içiyorum. gitar çalıp rahatlarım dedim sürekli içli şarkılar söylüyorum anasını satayım...<br/><br/>'' ölüm '' onun için bir kurtuluş olacak gibi artık... :(( <br/><br/>oğlum adebisim seni çok sevdik bunu bil, bana her babacım dediğinde tüylerim diken diken oluyordu. sabah beni '' s.kiyim '' diyerek uyandırmanı da seviyordum. banyonun kapısında benim duştan çıkmamı bekleyişini çok özlüycem. o en son sesinle ötüp beni çağırışını özlüycem. işaret parmağımla gagana vuruşumu senin de aynı şekilde parmağıma vuruşunu özlüycem. bildiğin izola banta kerkinmeni özlüycem, sana baktığımda utanmış gibi kaçmanı özlüycem...<br/><br/>özetle; şu anda bildiğin ölmesini bekliyorum. :((( acaba ne zaman ölecek nasıl ölecek huzurlu mu ölecek ölürken onu elime alıp yanında olabilecek miyim ? bu sorular kafamı allak bullak etti. vedalaşmaya korkuyorum. her evden çıktığımda evde ölü bulurum diye vedalaşıp son bir kezdir diye dokunup çıkıyorum...<br/><br/>not: berbatım sözlük... bir daha hayvan sahibi olmak istemiyorum. bu acı beni bitirdi. ben kendimi metanetli biri sanırdım hani bir de erkekler ağlamaz mantığı var ya yok öyle bir şey aga hem de nasıl ağlıyoruz var ya...
-- entry_name: |
-    tolga ciğerci
-  entry_id:  70570731
-  entry_writer: varyete
-  entry_fav_count: 0
-  entry_content: |
-    bu adam hakkında en düzgün yorumu iki hafta önce profesyonel futbolcu olan bir arkadaşım tolga'ya bok atmama cevaben yaptı:<br/><br/>"tolga'ya dandik bir takımda ana bacı küfüt edersin; ama iyi bir takımda en favori adamın olur"
-- entry_name: |
-    hırvatistan denince akla gelenler
-  entry_id:  70554426
-  entry_writer: generalkenobi
-  entry_fav_count: 0
-  entry_content: |
-    milletçe milletlerin kültürünü futbol veya basketbol ile sınırlı zannettiğimiz bir başlık daha.<br/><br/>sorsan herkes bilgili herkes araitırmayı bilgi öğrenmeyi sever.
-- entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  70562958
-  entry_writer: satarel
-  entry_fav_count: 0
-  entry_content: |
-    <a class="b" href="/?q=%c3%a7anakkale">çanakkale</a> merkez olan varsa bira yuvarlanir , kopekler gezdirilir envai cesit serserilik yapilir. evinden alip evine motosikletle birakilir.<br/><br/>yesillendirin ve ya mail hypermuse666@gmail.com (bir zamanlar biz de ergendik )
 ---
