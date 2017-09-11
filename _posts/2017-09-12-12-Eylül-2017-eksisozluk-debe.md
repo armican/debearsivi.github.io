@@ -6,21 +6,21 @@ data:
     dindar nesille çağ atlanabileceği gerçeği
   entry_id:  70731261
   entry_writer: gunumuz aylagi
-  entry_fav_count: 695
+  entry_fav_count: 699
   entry_content: |
     kemalizm'e bok atacağına dindar nesille nasıl çağ atlanacağını anlatsaydın keşke. başlık açmışsın ya hani.
 - entry_name: |
     aldatmayan erkeğin olmaması
   entry_id:  70732113
   entry_writer: fuzzy olmak istemistim
-  entry_fav_count: 375
+  entry_fav_count: 376
   entry_content: |
     aldatmayan erkek vardır. aldatmayan erkeği çekici bulan kadın yoktur.
 - entry_name: |
     tolga çevik'ten eşine duygusal mesaj
   entry_id:  70741526
   entry_writer: kasar yaza
-  entry_fav_count: 307
+  entry_fav_count: 318
   entry_content: |
     adam çıkıp "kadın dediğin çocuğuna kendi bakar" filan dememiş. müteşekkir olduğu konuları sıralayıp güzel bir teşekkür etmiş. eşinin bu mesajdan çok mutlu olduğuna eminim, size ne oluyor yahu ?<br/><br/>bir tweet vardı, "bunlar ekşi sözlük'te biri espri yapınca seksist mi değil mi diye 10 gün tartışıp sonra gülüyolar" diye. <a class="b" href="/?q=ek%c5%9fici">ekşici</a> olmama rağmen katılıyorum. fazla kasıyosunuz sanki.
 - entry_name: |
@@ -34,21 +34,14 @@ data:
     selçuk inan'ın gomis'e pas atmaması
   entry_id:  70737804
   entry_writer: doctor ross geller
-  entry_fav_count: 153
+  entry_fav_count: 159
   entry_content: |
     burak yılmaz'a bu şekil 40 kere gol attıran adam, gelip şu pası atamadı. bulup başlık açanın eline sağlık.
-- entry_name: |
-    halil sezai'nin babası öldüğü gün konser vermesi
-  entry_id:  70734280
-  entry_writer: ihtiyatsiz adam
-  entry_fav_count: 142
-  entry_content: |
-    vicdansız bir muhabir tarafından yazılmış haberle öğrendiğimiz durumdur.<br/><br/>yazmış ki; konserden önce babasının hayatını kaybettiğini öğrenen halil sezai, programını iptal etmeyerek hayranlarını eğlendirdi.<br/>konser verdi değil, sevenleriyle beraber oldu değil, şarkılarını söyledi değil, eğlendirdi.<br/><br/>eğlendirdi.<br/><br/>eğlendirdi kelimesini özellikle kullanıyor ki okuyanın zihninde eller havaya durumları canlansın, babası ölmüşken soytarılık yapan halil sezai'ye daha bir iç rahatlığı ile sövsün okuyucular, içlerindeki irinleri boşaltacak kanalları daha bir genişlesin, güldür güldür aksın pislikleri.<br/><br/>edit: sinirimizden başsağlığı dilemeyi atlamışız, allah halil bey'e, sevenlerine sabır versin.
 - entry_name: |
     dünyanın en kısa korku hikayesi
   entry_id:  70729409
   entry_writer: beni bana vermeyen beni neyleyim
-  entry_fav_count: 142
+  entry_fav_count: 143
   entry_content: |
     dişini fırçalamak için banyoya girdi. dedesi lavabonun önündeydi. dedesinin, takma dişlerini kendi diş fırçasıyla fırçaladığını fark etti. "dede ne yapıyorsun o benim diş fırçam" diye çıkıştı. dedesinin cevabı netti: "nereden senin oluyor, ben bunu kaç zamandır kullanıyorum!"
 - entry_name: |
@@ -62,72 +55,72 @@ data:
     müzik dersinde salavat ve ilahi öğretilmesi
   entry_id:  70737720
   entry_writer: oluroylearada
-  entry_fav_count: 109
+  entry_fav_count: 111
   entry_content: |
     normal ve olması gerekenmiş. türk müziği usulleri ve dini müzik öğretilecekmiş. ben sana ne olacağını söyleyeyim. o millete yutturmak için söyledikleri türk müziği usulleri falan ilk planda terk edilecek ve sınıflarda ilahi ve salavat koro halinde söylenmeye zorlanacaktır. bunun almanya ile ya da fransayla ilgisi yoktur. "türkiye laikliği" ayrımcılığı engellemek için tek çaredir ve bu düzenleme laikliğe yüzde yüz aykırıdır. alevi vatandaşlarımızın dini müziği olan deyişleri de ilave et görelim bakalım ne kadar samimisin. öğret bakalım pir sultan abdalı ve yaşam felsefesini. <br/><br/>bu işin boku çıkmaya başladı. bunların anlamı halkı açık bir şekilde tahrik etmektir. başka bir dertleri yok.
 - entry_name: |
     genç doktorlar güvenilmez
   entry_id:  70730152
   entry_writer: derwisssh
-  entry_fav_count: 98
+  entry_fav_count: 99
   entry_content: |
     hastalar ya da mağdurlar değil, bir tıp otoritesi.. istanbul tabip odası başkan'ının iddiası.. başkan öyle bir mesleki sırrı paylaşıyor ki, normal bir ülkede yer yerinden oynar:<br/><br/><a class="b" href="/?q=akdeniz+%c3%bcniversitesi+t%c4%b1p+fak%c3%bcltesi">akdeniz üniversitesi tıp fakültesi</a>'nden mezun olan çiçeği burnunda bir doktor kızımızın açıklaması aynen şöyle: <br/>“mezun olan arkadaşlarımızla anket yaptık, <br/>-'ananız babanız hastalansa sınıf arkadaşlarınıza emanet eder misiniz?' <br/>diye sorduk. yüzde 99'u <br/>-‘asla emanet etmeyiz' <br/>cevabını verdi.” <br/><br/>3-5 değil, %99... <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/genc-doktorlarimizin-cogunun-egitimi-yetersiz-2005268/" title="http://www.sozcu.com.tr/2017/gundem/genc-doktorlarimizin-cogunun-egitimi-yetersiz-2005268/">durum çok vahim</a>
 - entry_name: |
     bir kız bir erkekle ilgili olmayan türkçe şarkı
   entry_id:  70736851
   entry_writer: awkward aardvark
-  entry_fav_count: 92
+  entry_fav_count: 94
   entry_content: |
     ismail türüt - <a class="b" href="/?q=adam+var">adam var</a><br/><br/>iki erkek arasında geçer.
 - entry_name: |
     parlak beyinlerimizi batıya kaptırıyoruz
   entry_id:  70728602
   entry_writer: sejlav
-  entry_fav_count: 83
+  entry_fav_count: 85
   entry_content: |
     parlak beyinlerin çıktığı okulları kişisel hırslarınızın kurbanı yaparak değerini düşürdünüz. bütün süper liseleri anadolu lisesi yapıp imam hatip dönemindeki içten ezikliğinizi bastırdınız. o dönemlerden çok net hatırlıyorum anadolu lisesi'ni yeni kazanmıştım yaşça benden büyük mahalleden bir imam-hatipli abimiz "bu anadolu liselerinin topunun temeline dinamit koyacan ha" demişti. onun da büyük abileri yönetime gelince farklı bir şekilde koydular. okulları kapatmadılar lakin normal okulların hepsini anadolu lisesine çevirdiler.<br/><br/>sonra o parlak çocuklar yerine kendi ortaklık yaptığınız adamlarla beraber soruları çalarak sınavlarda kendiniz için yaptığınız sistemle (!) puan aldırdınız.<br/><br/>sonra mülakatlarda o parlak çocukların önüne her türlü seti koydunuz. sizden mi değil mi diye araştırdınız. yetiştirdiğiniz üniversite öğrencilerine bu arkadaşlarının cumaya gidip gitmediğine kadar sordunuz.<br/><br/>özelde kitte kendinize bağladığınız kurumlarda o parlak beyinlerin puanlarını gördüğünüz için sınav sonuçlarını açıklamadan sadece kazanamadınız diye mail gönderdiniz. defalarca maille puanları sormalarına rağmen bu sınavlara giren insanlar cevap alamadılar.<br/><br/>parlak beyinleri her türlü ayrıcalığa rağmen geçemeyen bu arkadaşlarınıza saçma sapan kadrolar uydurdunuz.<br/><br/>yetmedi güya burada beceremediklerini söylemek yerine zulüm gördüler diye avrupa'nın belli yerlerinde öbekleşen orda da bir halt edemeyen beyinlerinizi thy başta olmak üzere kadrolara yerleştirdiniz.<br/><br/>kadrolara yerleştirdiğiniz sizin beyinler bilgisizlikleri yüzünden kalan az sayıda parlak beyni de söndürdü küstürdü.<br/><br/>sonra artık oturacak koltuk kalmayınca birbirinize düşüp kandırıldık dediniz konuyu kapattınız.<br/><br/>o parlak beyinler ise yılmadı, savaştı, kadro için maaş için el etek öpmediler, bu süreç geçici zaten deyip dünyanın neresinde olursa olsun emeğiyle ekmek kazanmaya gittiler.<br/><br/>parlak beyinlerin yer yurt edinemediği yerde liyakatı olman uzmanlık nedir bi haber hemşehriler konsensüsü her şeyin içine etti. marka çaldılar, proje çaldılar, gelişime engel oldular.<br/><br/>bizzat içinde olduğum bir proje belediye tarafından uzun vadeli bu işe yaramaz denilip teşekkür ettiler sonra bir baktık televizyonlarda evirip çevirdikleri projeyi kendileri yapmış gibi sundular.<br/><br/>bizzat bir ortaokul mezunu cuma kaçırmayan genel müdür yıllardır çalıştığı yere marka bulamadı lakin arkadaşlarımın ekibiyle anlaşıp 4 günde bulunan markayı kendi bulmuş gibi anlatıyor mutabakat yapmamak için 55 yaşındaki müslüman kardeş köşe bucak kaçıyor.<br/><br/>parlak beyinler yerine iş verdikleri sosyoloji 3. sınıf terk adam kendini geliştirmiş bir yazılımcı olabiliyor ama yazılım mühendisliği okumuş biri bunların gözünde ukala ego sahibi bir insan oluyor.<br/><br/>kamusundan özeline batak halinde memleket, bu memleketin çocukları bu tiplerin yüzünden nefes almak iyi yaşamak için gittiler. kaçmadılar hepsi memleketini seven çocuklar bu parlak beyinler sadece artık beyinsizlere dayanamıyorlar.<br/><br/>haydi artık meydan tamamen sizin üretin, doları düşürün, euro'yu düşürün, icat çıkarın mucit çıkarın. haydi ver mehteri iç hoşafı fethet avrupa'yı...
 - entry_name: |
     iphone'dan bilgisayara fotoğraf aktaramamak
   entry_id:  70744219
   entry_writer: emckarelamasyon
-  entry_fav_count: 64
+  entry_fav_count: 78
   entry_content: |
     ben mi kolay yolunu buldum bilmiyorum ama kabloyla bilgisayara bağlayınca dcim klasörü gözüküyor ve oradan video-fotoğraf aktarımı yapabiliyorum hemde çözünürlüğü değiştirmeden? usb bellekten dosya aktarımı yapar gibi.
 - entry_name: |
     sigara devirme oyununda suriyelileri yolan dayı
   entry_id:  70743464
   entry_writer: babacooo
-  entry_fav_count: 50
+  entry_fav_count: 60
   entry_content: |
     sene 98. üsküdarda lunapark vardı bilen bilir. aynı tezgah kurulmuş. bayram günü kalabalık. dayı milletten aldığı biriken paraları tezgahın üstünde bırakıyor ve bağırıyor: vurana bütün parayı veriyorum. millet iyice gaza geliyor. tezgahın üstü alabildiğine kağıt para dolmuş. kimse vuramıyor. derken bi abla beliriyor. ben de oynayabilir miyim diyor. ılk atista deviriyor sigaraları. tomarla parayı alıp yürüyor. millet şokta. tekrar gaza gelip başlıyorlar yine. akşama kadar bu döngü yeni kekliklerle sürüp gidiyor. <br/>böylece dayı ve karısı zenginliklerine zenginlik katıp mutlu mesut hayatlarına devam ediyor.
-- entry_name: |
-    10 eylül 2017 antalyaspor galatasaray maçı
-  entry_id:  70728169
-  entry_writer: kowalski
-  entry_fav_count: 49
-  entry_content: |
-    küfür kıyamet yazan eksik iq'lu yazarimsilarin cahilliklerini, hiçbir konuda dünyayi takip etmediklerini ve acz içinde zavalliliklarini burada görebiliyoruz. manchester unt bu hafta stoke deplasmaninda öne gecip az kaldi maçı veriyordu. geçen hafta arsenal'a 4 atan liverpool bu hafta manchester city deplasmaninda sadece 5 gol yedigine şükretti. dün everton'i deplasmanda mahveden tottenham, geçtigimiz hafta evinde burnley gibi bir takima puan kaybetmisti. fenerbahce gayet yakisikli oynadigi macta 3 yedi ve kendi evinde puansiz bir hafta gecirmis oldu. futbolu bundan dolayi seviyoruz. benim uzuntum eksi sözluk'un seviyesinin dustugu yer. 99'dan beri yazdigim bu ortamda tek bir kufurden kovulan harika adamlar taniyorum. buradaki rezillerin hala yazar olarak tutulmasi bu ortama yakismiyor. gercek taraftar ve futbol severlere saygilar bunlari yazarken.<br/>edit: @identikit mesaj atmış sağolsun. stoke maçıyla ilgili düzeltme yapıldı.
 - entry_name: |
     pucca
   entry_id:  70741786
   entry_writer: cas2b
-  entry_fav_count: 48
+  entry_fav_count: 50
   entry_content: |
     tolga çevik paylaşımında haklıdır... bütün kadınlar kendisi gibi "otelde yakışıklı genci odama atıp nasıl üstünde zıpladım, arkadaşlarım yan odadan zevk çığlıklarımı nasıl da duyup hasetlerinden çatladılar ayol!" tandanslı yazılar yazıp, bayağılığın dibine vurarak, diz üstü edebiyatı denen allahın belası bir oluşumun para sağma makinesi olarak kadınlıklarını dünyaya haykırmalılar... anne veya evinin kadını olmak bir kadının "tercihi" olamaz çünkü beyinsizler değil mi? karşıdaki kadına sordunuz mu? yok!!! etrafında kadın diye bayağıları erkek okur diye de meriçleri topladığını şu başlık altında kendini savunanlara bakarak dahi anlarsınız...<br/><br/>bir adamın "maddi manevi en zor günlerimde sen yanımdaydın, 13 yıl sonra ve halim vaktim yerindeyken de seni yanımda görmekten, seninle aile olmaktan çok mutluyum" içerikli mesajından nasıl bir seksist anlam çıkardın lan? bir kadın daha ne kadar güzel ve naif şekilde 13 yılın üstüne onore edilebilirdi? <br/><br/>sen ne verdin kadınlara ve kadınlığa şu zamana dek? ne kattın bizim dünyamıza da hala gazetelerin magazin eklerinden millete ahkam kesip yargılama hakkını kendinde buluyorsun? kimsin, nesin sen allah için artık bir dur biraz durul artık ya... seni şu havalara sokan kitleyle birlikte bir düşsen yakamızdan artık yalvarırım... bir gerici, yobaz kitle bir de bu bayağılık satarak kendini entelektüel, kültürlü ve modern çağ insanı sanan ukala, cahil kitleyi sırtından bir atsa bu ülke yemin ediyorum şaha kalkacak...
 - entry_name: |
     eski sevgilinin hala sevdiğini söylemesi
   entry_id:  70741955
   entry_writer: sigara kibrit
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     özlediğini söylerse anlarım, sevdiğini söylerse gülerim ama tekrar bana dönmek isterse; ben de ona dönerim ama götümü.
 - entry_name: |
     aleyna tilki'nin konveyöre binip ceza alması
   entry_id:  70737575
   entry_writer: unknownartist
-  entry_fav_count: 39
+  entry_fav_count: 43
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%a7ocuklar%c4%b1+pistten+alalim">çocukları pistten alalim</a>)
+- entry_name: |
+    abd'ye 30 milyon usd arakan'a 100 bin usd yardım
+  entry_id:  70733523
+  entry_writer: aslagelmeyecektelefonubekleyenadam
+  entry_fav_count: 41
+  entry_content: |
+    <a class="b" href="/?q=arakan%27daki+vah%c5%9fetin+kimsenin+umrunda+olmamas%c4%b1">arakan'daki vahşetin kimsenin umrunda olmaması</a> başlığında kitleleri duyarsız olmakla itham eden <a class="b" href="/?q=yemen%27de+102+bin+ki%c5%9finin+kolera+olmas%c4%b1">yemen'de 102 bin kişinin kolera olması</a>nı görmezden gelen zihniyet, <a class="b" href="/?q=ihvan">ihvan</a>'cı katar'ın ikiyüzlü tutumu karşısında ne düşünüyor merak konusudur?<br/><br/>--- <a class="b" href="/?q=haber+al%c4%b1nt%c4%b1">haber alıntı</a> ---<br/><br/>katar: teksas’a 30 milyon dolar arakan’a 100 bin dolar<br/><br/>katar, arakanlı müslümanlar için 100 bin dolar yardım gönderdi. <br/><br/>harvey kasırgası’ndan zarar gören amerikalılara ise tam 300 katı yardım yolladı. <br/><br/>abd’ye yardım yapma yarışına 10 milyon dolarla birleşik arap emirlikleri de katıldı. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/dunya/insafin-kurusun-katar-teksasa-30-milyon-dolar-arakana-100-bin-dolar-2006131/" title="http://www.sozcu.com.tr/2017/dunya/insafin-kurusun-katar-teksasa-30-milyon-dolar-arakana-100-bin-dolar-2006131/">kaynak</a><br/><br/>--- <a class="b" href="/?q=haber+al%c4%b1nt%c4%b1">haber alıntı</a> ---
 - entry_name: |
     selçuk inan
   entry_id:  70728146
@@ -135,13 +128,6 @@ data:
   entry_fav_count: 38
   entry_content: |
     antalyaspor maçında yine karaktersizliği gözler önüne sermiş, yüzüne tükürme isteği uyandıran "futbolcu".<br/>bütün takım kötü oynadı diyenler haksızlık yapıyor. bu akşam antalyaspor yapması gereken herşeyi yaptı. fakat galatasaray alternatif üretmedi. bu durumun en büyük sorumlusu igor tudor'dur. yanlış anlaşılmasın hoca değildir ve gitsin takımın başından diyen arkadaşlardan değilim. kendisinin taktisyen yönleriyle ön plana çıkan bir teknik adam olmadığını aksine takım planlaması yapan bir teknik adam olduğunu düşünüyorum. o yüzden de kendisine desteğim devam etmekte. ama, bu karaktersiz selçuk'un yıllardır yaratılan öyle bir ağırlığı var ki tudor kendisini selçuk'u kazanmak zorunda hissediyor gibi geliyor bana. bahsi geçen karaktersizin ise sadece sabit ücretini ve fırsat olursa gol primini kazanma derdinde olduğu da ortada. frikik veya penaltı olduğu an hemen topun başında bitmesinin sebebi de bu. o yüzden de igor tudor'a bu adamdan kurtulması için cesaret vermeliyiz. gerekirse oyuna girdiğinde ve topu her ayağına aldığında ıslıklanmalıdır. kimse koca bir camiayı salak yerine koyamaz. hatasını telafi etmek yerine sakat numarası yaparak hatasını başından savmaya çalışan bir karaktersiz bu formayı giyemez.<br/>edit:imla.
-- entry_name: |
-    abd'ye 30 milyon usd arakan'a 100 bin usd yardım
-  entry_id:  70733523
-  entry_writer: aslagelmeyecektelefonubekleyenadam
-  entry_fav_count: 38
-  entry_content: |
-    <a class="b" href="/?q=arakan%27daki+vah%c5%9fetin+kimsenin+umrunda+olmamas%c4%b1">arakan'daki vahşetin kimsenin umrunda olmaması</a> başlığında kitleleri duyarsız olmakla itham eden <a class="b" href="/?q=yemen%27de+102+bin+ki%c5%9finin+kolera+olmas%c4%b1">yemen'de 102 bin kişinin kolera olması</a>nı görmezden gelen zihniyet, <a class="b" href="/?q=ihvan">ihvan</a>'cı katar'ın ikiyüzlü tutumu karşısında ne düşünüyor merak konusudur?<br/><br/>--- <a class="b" href="/?q=haber+al%c4%b1nt%c4%b1">haber alıntı</a> ---<br/><br/>katar: teksas’a 30 milyon dolar arakan’a 100 bin dolar<br/><br/>katar, arakanlı müslümanlar için 100 bin dolar yardım gönderdi. <br/><br/>harvey kasırgası’ndan zarar gören amerikalılara ise tam 300 katı yardım yolladı. <br/><br/>abd’ye yardım yapma yarışına 10 milyon dolarla birleşik arap emirlikleri de katıldı. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/dunya/insafin-kurusun-katar-teksasa-30-milyon-dolar-arakana-100-bin-dolar-2006131/" title="http://www.sozcu.com.tr/2017/dunya/insafin-kurusun-katar-teksasa-30-milyon-dolar-arakana-100-bin-dolar-2006131/">kaynak</a><br/><br/>--- <a class="b" href="/?q=haber+al%c4%b1nt%c4%b1">haber alıntı</a> ---
 - entry_name: |
     bütün şarkıların sevgi temalı olması
   entry_id:  70733117
@@ -164,10 +150,17 @@ data:
   entry_content: |
     otomobil,çadır ve güzel bir rota.
 - entry_name: |
+    dolar dip yaparken sesi çıkmayan ekşici
+  entry_id:  70745343
+  entry_writer: persona non grata
+  entry_fav_count: 28
+  entry_content: |
+    3,30 küsür nasıl dip lan?
+- entry_name: |
     2002'ye kadar ülkeyi kemalistlerin yönetmesi
   entry_id:  70741371
   entry_writer: milamber
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     olmayanların da yönettiği ülkeyi gördük. nerdeyse anahtar teslim yapacaklar
 - entry_name: |
@@ -192,12 +185,19 @@ data:
   entry_content: |
     fb isterse küme düşmemeye oynasın ama kendi sahasında gs'ye asla yenilmez. ben artık bunu kabullendim. siz de kabullenin. yani şu kumbaraya dönen volkan bile gs maçında panter dönüşür bundan eminim.<br/><br/>bu işin performansı falan yok yani anlayacağınız. fb-gs maçlarının özellikle fb stadında oynanan kısımlarının bambaşka bir yapısı var. hatta bizim tt stadındaki maçlar bile bazen bu yapıda geçiyor... misal geçen sene.<br/><br/>ölü rvp kendi sahasında oynanan maçta gs'ye yağdırdı... daha önce guiza gibi adam gs'ye topuk golü attı. selçük şahin denilen futbol fakiri adam bile gs maçlarında bambaşka bi şey oldu... yani biliyorum bizim taraftarlarımız çok ümitli her sene ama lütfen bırakın bu işleri artık...<br/><br/>hee bu adamlara karşı bi tek o pino'nun efsane oynadığı maçta o sabri'li, culio'lu kalede aykut'lu rezil bir kadroyla çıktığında 0-0 kalmıştı ya işte ben en çok oyun olarak gs'nin fb'yi orada ezdiğini görmüştüm. onun dışında hava çivaydık...
 - entry_name: |
-    irma kasırgası
-  entry_id:  70731031
-  entry_writer: manzikert
+    en sadık erkek burcu
+  entry_id:  70742981
+  entry_writer: pelinimmm
   entry_fav_count: 22
   entry_content: |
-    eğri oturup doğru konuşmak gerekirse beklendiği kadar veya abd medyasının yaygara yaptığı kadar büyük bir yıkıma (amerika'da)sebep olmamıştır. zaten kategorisi de neredeyse 1'e düşecek...an itibaiyle esen rüzgarın şiddeti 80-90 kmh... niye bunu söyleyenlere karşı bu kadar cellaleniyorsunuz anlaşılmıyor... fox medianın şok görüntüler dediği görüntüler ankarada her yağmur sonrası yaşanan görüntüler. olan yine garip ada milletlerine oldu, zaten fakirlerdi bir de üzerlerine cat5 fırtına ile herşeylerini kaybettiler... ama amerika'ya da helal olsun 7 milyon insan çat diye 2-3 günde tahliye edildi. ayrıca tvlerde gördüğüm manzara da ne güzel, bütün devlet kurumları eyaletler hizmet için birbiri ile yarışıyorlar. atlanta eyaleti şu kadar arabalık otoparklı kamp alanı yapıyor. filanca eyalet yol güzergahlarını gelecekler için değiştiriyor vs... bütün medya kanalları da yapılan hizmetleri öve öve anlatıyor. florida valisi neredeyse saatte bir ya tv'ye çıkıyor ya da açıklama yapıyor. türkiye'de olsa daha fırtına gelmeden herkes birbirini suçlar, bütün kurumlar birbirine bilenir, kimse bi bok yapmaz, cat0.1 fırtına ile de bütün evler milletin başına yıkılırdı. üç gün sonra da vali ortaya çıkar "biz elimizden geleni yaptık devletin kusuru yoktur" filan derdi... üzülüyorum hep böyle başka ülkelerde basit şeyleri görüp bizim bunları bile beceremiyor olmamıza...
+    (bkz: <a class="b" href="/?q=o%c4%9flak+diye+biliyorum">oğlak diye biliyorum</a>)
+- entry_name: |
+    rick and morty
+  entry_id:  70732412
+  entry_writer: bu boku yerken iyiydi
+  entry_fav_count: 20
+  entry_content: |
+    en iyi bölümlerinden biriydi her halde 3x7, o nasıl bir bölümdü öyle ya deniz kızları, atlantis falan of of of...
 - entry_name: |
     mini eteğe özgürlük tesettüre düşmanlık
   entry_id:  70731395
@@ -209,23 +209,30 @@ data:
     kasırgadan kaçarken emniyet şeridini kullanmamak
   entry_id:  70735853
   entry_writer: mdh
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     medeniyetten çok ,yasalara ve bu yasalara uyulmaması halinde doğabilecek yaptırımlara ve ya cezalara duyulan saygıdan kaynaklıdır.<br/>sen ülkendeki,hali hazırda yasak varken dahi emniyet şeridini kullanan davarlara gerekli cezayı kesmezsen,kusura bakma ama zaten paçasından cehalet akan halkın seni hiç siklemez.
 - entry_name: |
-    en sadık erkek burcu
-  entry_id:  70742981
-  entry_writer: pelinimmm
+    pucca'nın takipçilerine hakaret etmesi
+  entry_id:  70740828
+  entry_writer: that aint falco
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=o%c4%9flak+diye+biliyorum">oğlak diye biliyorum</a>)
+    tolga çevik'in eşine yazdıklarını seksist bulan hanım kızımız(!) twitter'dan birine "sunepe esim bi siker allahini sasirsin orospu babali" yazarak eril dilin dibine vurmuştur. <br/><br/>bu insanları meşhur etmeye devam mı?
 - entry_name: |
-    rick and morty
-  entry_id:  70732412
-  entry_writer: bu boku yerken iyiydi
-  entry_fav_count: 18
+    bedelli askerlik
+  entry_id:  70740479
+  entry_writer: beyaz prensli at
+  entry_fav_count: 17
   entry_content: |
-    en iyi bölümlerinden biriydi her halde 3x7, o nasıl bir bölümdü öyle ya deniz kızları, atlantis falan of of of...
+    askerlik yaparak "adam" olmayı başarmış insanlarca eleştirilen muafiyet türü. sen o yaşa kadar "adam" olamadıysan biz ne yapalım be kardeş?
+- entry_name: |
+    özlem kumrular
+  entry_id:  70738602
+  entry_writer: yongonimo
+  entry_fav_count: 16
+  entry_content: |
+    şu kadını savunanlar bile var ya, ne desem boş! sığırın biri de demiş ki hayvanseverlerin tepkisini çektiğine göre esaslı hatun. keşke baban peçeteye boşalsaydı da senin gibi bir kımıl zararlısı dünyaya gelmeseydi. ülkenin güya aydın-merhametli-vicdan sahibi olması gereken akademisyeni bile bunu yapıyorsa yurdum düz adamı neler yapmaz? yok ya, ne okumuşundan ne cahilinden bir bok olmaz bu ülkenin. neymiş apartmanı kokuyormuş! yani bir köpeğin hayatı madamın apartman kokusundan daha değersiz, sıçayım senin oturduğun apartmana.<sup class="ab"><a title="(bkz: literally)" href="/?q=literally" data-query="literally">*</a></sup> umarım bu yaptığının bedelini öder, vicdansızlık cezasız kalmayacak ki, yarınlara dair umudumuz olsun. bekliyorum...
 - entry_name: |
     galatasaray
   entry_id:  70731607
@@ -234,33 +241,19 @@ data:
   entry_content: |
     9. haftadan sonra baş aşağı çakılabilir, şampiyon olamayabilir tamamda beşiktaşlı olmana rağmen sana daha karga bokunu yemeden sabahın köründe bu başlığa entry yazdıran hırs nedir amına koyim ya?
 - entry_name: |
-    bedelli askerlik
-  entry_id:  70740479
-  entry_writer: beyaz prensli at
-  entry_fav_count: 16
-  entry_content: |
-    askerlik yaparak "adam" olmayı başarmış insanlarca eleştirilen muafiyet türü. sen o yaşa kadar "adam" olamadıysan biz ne yapalım be kardeş?
-- entry_name: |
-    özlem kumrular
-  entry_id:  70738602
-  entry_writer: yongonimo
-  entry_fav_count: 14
-  entry_content: |
-    şu kadını savunanlar bile var ya, ne desem boş! sığırın biri de demiş ki hayvanseverlerin tepkisini çektiğine göre esaslı hatun. keşke baban peçeteye boşalsaydı da senin gibi bir kımıl zararlısı dünyaya gelmeseydi. ülkenin güya aydın-merhametli-vicdan sahibi olması gereken akademisyeni bile bunu yapıyorsa yurdum düz adamı neler yapmaz? yok ya, ne okumuşundan ne cahilinden bir bok olmaz bu ülkenin. neymiş apartmanı kokuyormuş! yani bir köpeğin hayatı madamın apartman kokusundan daha değersiz, sıçayım senin oturduğun apartmana.<sup class="ab"><a title="(bkz: literally)" href="/?q=literally" data-query="literally">*</a></sup> umarım bu yaptığının bedelini öder, vicdansızlık cezasız kalmayacak ki, yarınlara dair umudumuz olsun. bekliyorum...
-- entry_name: |
-    pucca'nın takipçilerine hakaret etmesi
-  entry_id:  70740828
-  entry_writer: that aint falco
-  entry_fav_count: 13
-  entry_content: |
-    tolga çevik'in eşine yazdıklarını seksist bulan hanım kızımız(!) twitter'dan birine "sunepe esim bi siker allahini sasirsin orospu babali" yazarak eril dilin dibine vurmuştur. <br/><br/>bu insanları meşhur etmeye devam mı?
-- entry_name: |
     ekşici kadınların ekseriyetle çirkin olması
   entry_id:  70728360
   entry_writer: khajiit has no words for you
   entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=there+is+no+girl+on+the+internet">there is no girl on the internet</a>)
+- entry_name: |
+    pero antic
+  entry_id:  70743365
+  entry_writer: erayesportes
+  entry_fav_count: 10
+  entry_content: |
+    kızılyıldız'la anlaşmıştır.benim gözümde volkan demirel'den daha fenerbahçelidir.
 - entry_name: |
     delirmemek için edinilen basit alışkanlıklar
   entry_id:  70729037
@@ -269,33 +262,40 @@ data:
   entry_content: |
     çay demlemek, yapraklardan ya da çiçeklerden...<br/><br/>hatta akla şu satırları getirir:<br/><br/>"yemek yapmayı, evi toplamayı, sizi anlamayı öğrenemedim. benden ne istediğinizi öğrenemedim. beni sevip sevmediğinizi hiç bilemedim. sadece kendime çiçeklerden çaylar demledim ve sizi seyrettim." <br/><br/>(bkz: <a class="b" href="/?q=mine+s%c3%b6%c4%9f%c3%bct">mine söğüt</a>) <br/>(bkz: <a class="b" href="/?q=deli+kad%c4%b1n+hikayeleri">deli kadın hikayeleri</a>)
 - entry_name: |
-    pero antic
-  entry_id:  70743365
-  entry_writer: erayesportes
-  entry_fav_count: 8
-  entry_content: |
-    kızılyıldız'la anlaşmıştır.benim gözümde volkan demirel'den daha fenerbahçelidir.
-- entry_name: |
     cizreli mehmet'in anne marie ile sahneye çıkması
   entry_id:  70734333
   entry_writer: ekyana
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     abi yemin ediyorum bu topraklarda yeni bir hastalık keşfettim dememe sebep olan olay.<br/>hastalığın adı: ''kürdophophia'' <br/>ya adam kendi çapında güzel bir deneme yapmış ve karşılığını almış. sırf cizre'li bir kürt diye bir dövmedikleri kaldı.<br/>adamlarda ciddi manada ''kürt fobisi'' var.<br/>kürt başarılı olamasın.<br/>kürt zengin olamasın.<br/>kürt okumasın.<br/>sonra da biz de kürtlere fakir, eğitimsiz, başarısız diyelim.<br/>malsınız!<br/>cahil adam ırkçı bile olamaz demişti ilber ortaylı... hakikatten ırkçı bile olamayacak kadar beyinsizsiniz.
-- entry_name: |
-    özlem kumrular'ın köpek kaçırması
-  entry_id:  70740556
-  entry_writer: bak suraya yaziyorum
-  entry_fav_count: 7
-  entry_content: |
-    kadının açıklamasında "sarıp ataköye götürdüm, buradan da cebeci hayvan barınağına bıraktım." ibaresi var.<br/><br/>şimdi ataköy nerede, sultangazi cebeci barınagı nerede ? <br/><br/>bu arada ne oldu, çimene bıraktı da acaba iki üç gün sonra baktığında açlıktan ölmek üzereydi de alıp barınağa mı götürdü, neden bu kadar uzun mesafelerde bir transfere maruz kaldı, neden onca gün "iyi durumda" diyerek geçiştirdi, aslı astarı nedir bilmek istiyoruz. <br/><br/>evet apartmanda bakılmasına karşı olabilir ama bunun çözümü çarşafa sarıp çimene atmak degildir. ataköydeki her veterinerin de "bize böyle bir köpek gelmedi" demesi çimenlere atılıp üç beş gün sonra alınıp barınaga götürülme tezine yaklaştırıyor. <br/><br/>insan zihni aynı mekanizmalara sahip, hepimizde. yaşanan geçmiş deneyimlerle ufak farklılıklar gösterse de aynı çalışır. <br/><br/>yani deneyimli biriyseniz, olaylar karşısında bir insanla ilgili şüphelendiğiniz şeyler ve senaryolar genellikle doğrudur. <br/><br/>daha ilk gördüğüm gün öldüğünü anladım. kimse kendine laf ettirmez. kalkar hemen fotograflar o köpegi. <br/><br/>ataköye de muhtemelen "orada yeşil alan çok, bırakalım yaşasın diger köpeklerle." tarzı bir zihniyetle gidildi. kamuoyu oluşmadan birkaç şikayet ve tepki alınca da gidip köpeğe bakıldı. bıraktıkları yerde açlıktan can çekişir halde buldular. alıp uzak oldugundan kimse uğramaz diye ya da tek boş yer buldukları barınak orası oldugundan sultangazideki cebeci barınagına götürdüler ve orada da öldü. 28 inde köpek kaçırılmış, 1 inde barınaga gidip 2 sinde ölmüş. benim düşüncemde ve tahminimce olay bu şekilde olmuştur. <br/><br/>yani eger senaryo doğruysa, o zavallı hayvanın kuytu çimen köşesinde can çekişirkenki her anını düşündüğümde içim acıyor. <br/><br/>ataköy kamera dolu. bu kadının köpeği çimene atarkenki kamera görüntüsünü çıkarıp gösteren olursa kendisini gülümsetecek miktarda bir para ödülü vaat ediyorum. ben para ödülü verdigimde gerçekten gülümsetirim. "iyi ki ugrasmisim." dedirtirim,komik miktarlar ödemem.<br/><br/>keşke ilk götürdügü gün haberim olsaydı. o ataköyü adım adım gezip bulurdum. keşkeler daima hüzün doludur maalesef. <br/><br/>ve gecenin bir kör karanlığında, kimsenin görmediginden eminken, kimsenin hesap sormayacagını bilirken yaptığınız şeyler, aldıgınız kararlar, sizin gerçekte ne olduğunuzu gösterir.
 - entry_name: |
     koltukaltı kıllarını almayan erkek
   entry_id:  70743348
   entry_writer: kedisini arayan sahip
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     koltuk altını jilet ile almanın köylülük olduğunu öğrendiğim durum.<br/>ne yapacaktık kardeş, yazın sıcağında terli terli ağda sürüp mazoşist acılar mı çekecektik? ya da ne bileyim yüzümüze sürdüğümüz traş makinesini koltuk altına da sürüp üstüne bir de tüm eve kıllarımızı saçmak gibi bir köylülük mü yapacaktık?<br/>kendimize epilasyon aleti alıp tam da akciğer ucuna denk gelen bölgedeki kılları yolacak mıydık?<br/>jilet ölü deriyi temizleyen gayet sağlıklı bir alettir. köylülük yapacaksam da sağlığa zararı olmayan bu yolu tercih ederim; kendime işkence etmektense.<br/><br/>tanım: vücudun en çok terleyen kısımlarından birinde zaman zaman yapılması gereken bir temizliği yapmayan erkektir.<br/>not: ayrıca kıl almak nedir arkadaş? hakikaten siz ne kullanıyorsunuz bu temizlik sırasında.
+- entry_name: |
+    fernando muslera
+  entry_id:  70731646
+  entry_writer: lisbeth
+  entry_fav_count: 6
+  entry_content: |
+    selçuk danası oyuna girer girmez kolundan kaptanlık bandını hangi ara alıp kendi koluna geçirdi göremedim. bu nasıl bir egodur selçuk.
+- entry_name: |
+    ekşi sözlük android &amp; ios uygulaması
+  entry_id:  70745006
+  entry_writer: fuzzy olmak istemistim
+  entry_fav_count: 6
+  entry_content: |
+    durduk yere logout olmuşum. hiçbir şekilde login olamıyorum.<br/><br/>ekleme: çok ilginçtir ki mesaj bildirimleri geliyor?<br/><br/>ekleme 2: ulan hiç entry girilmeyince de sadece bende sorun var sandım, korktum hesabım sakata geldi diye.
+- entry_name: |
+    11 eylül 2017 cumhuriyet gazetesi duruşması
+  entry_id:  70740877
+  entry_writer: komutan bey
+  entry_fav_count: 6
+  entry_content: |
+    bununla beraber hakkında sekiz tane entry olan, islami fasizme karsi direnen gazetecilerin 'yargilandigi' durusma. neyse gencler macti, diziydi goygoya devam. titanik batarken keman calin siz.
 - entry_name: |
     meslek lisesinden hacettepe tıp kazanan kız yalanı
   entry_id:  70728515
@@ -304,33 +304,26 @@ data:
   entry_content: |
     foyası ortaya çıkmasına rağmen yalanı sürdürmeye çalışması daha vahim. gerçeği nasıl kabullenecek diye merak etmekteyim. <br/><br/>hürriyet'in haberine göre hacettepe'ye kayıt olmuş ve ankara'da bir akrabasının yanına yerleşmiş. gerçekte hacettepe'ye kayıt olmadıysa bu kız ankara'da ne yapacaktı? okula gider gibi yapıp evden çıkıp oyalanıp akşamları eve mi gelecekti? derin düşüncelerdeyim. zorla şizofren yapacak kız kendini.<br/><br/>bu arada üniversite yolunda başarı peşinde koşturulan çocukları hasta ediyoruz. bu çarpık düzende üniversite her şeyin çözümü gibi algılatılıyor. kız diyor ki "zeki olsam bilgisayar mühendisliği okurdum, tıp niye okuyayım?" yavrucum tıp bilgisayar mühendisliğinden daha az zeka gerektirmiyor ki? iyi ki kazayla tıp kazanmamış. başını yakacaktı hastaların.
 - entry_name: |
-    ekşi sözlük android &amp; ios uygulaması
-  entry_id:  70745006
-  entry_writer: fuzzy olmak istemistim
+    kuzen ile evlenmek
+  entry_id:  70732488
+  entry_writer: daldakielmakurdu
   entry_fav_count: 3
   entry_content: |
-    durduk yere logout olmuşum. hiçbir şekilde login olamıyorum.<br/><br/>ekleme: çok ilginçtir ki mesaj bildirimleri geliyor?<br/><br/>ekleme 2: ulan hiç entry girilmeyince de sadece bende sorun var sandım, korktum hesabım sakata geldi diye.
-- entry_name: |
-    narcos
-  entry_id:  70733373
-  entry_writer: hicbir masraftan kacinmayan adam
-  entry_fav_count: 2
-  entry_content: |
-    3. sezonunda aksiyon, heyecan, karakterler olarak ilk iki sezonu geride bırakmış dizi. oyunculuklar muhteşem, her karakteri izlemek ayrı bir tat veriyor.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu görünce tokatlama isteği uyandıran tipleri nereden buluyorlar her dizide, burada da miguel'in oğlu david rodriguez karakteri tam da böyle. her gördüğümde tokatlayasım geliyor.<br/><br/>maria salazar sen ne güzel bir <a rel="nofollow noopener" class="url" target="_blank" href="https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/c115.0.849.849/14607122_558640917659003_4452228854982901760_n.jpg?ig_cache_key=MTM5MTc0OTEzNDI0MzAxMDMwNQ%3D%3D.2.c" title="https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/c115.0.849.849/14607122_558640917659003_4452228854982901760_n.jpg?ig_cache_key=MTM5MTc0OTEzNDI0MzAxMDMwNQ%3D%3D.2.c">detaysın.</a><br/><br/>salcedo'nun karısı paola salcedo rolüyle izlediğimiz <a rel="nofollow noopener" class="url" target="_blank" href="http://2.bp.blogspot.com/-F77nj9Agjr4/UXGUiA0SkII/AAAAAAAAiRE/wvLvgtSYMsk/s1600/TalianaVargas5.jpg" title="http://2.bp.blogspot.com/-F77nj9Agjr4/UXGUiA0SkII/AAAAAAAAiRE/wvLvgtSYMsk/s1600/TalianaVargas5.jpg">taliana vargas</a> ablamız da 2007 kolombiya güzellik kraliçesidir, onu da yabana atmayalım.<br/><br/>pallomari'de de bir tip bu kadar cuk oturur, müthiş.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    dolar dip yaparken sesi çıkmayan ekşici
-  entry_id:  70745338
-  entry_writer: mustafik
-  entry_fav_count: 1
-  entry_content: |
-    bunları kafa süper he. fetoyu başımıza musallat edip fetodan kurtulma operasyonlarından prim kazanıyor ve ama kendine asla bulaştırmıyor doları yükseltip sonra tekrar aynı değere yakın yapınca bundan siyaset çıkıyor. bu arada fakirleşenleri, haksız yere heba olanları hikaye sayıyor. çok güzel ya. tam ahlaksız ve tembel insan işi. <br/><br/>o arada dolar stoklayanlar sanırım yandaş firmalar. <br/><br/>(bkz: <a class="b" href="/?q=lale+devri">lale devri</a>)
+    aile samimiyetsizliği budur işte. büyüyünceye kadar siz kardeşsiniz büyüdüğünüzde hadi evlenin. annem,halalarım,teyzelerim,dayılarımın bol bol baskısına maruz kaldım. dayının kızını alalım , halanın kızı var yabancıya gitmesin bak. sanki yatırım yapıyoruz amq.
 - entry_name: |
     türk kızlarının çok çabuk kilo almasının nedeni
   entry_id:  70744653
   entry_writer: xeru
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     türk halkının genel problemi olan "hareket etme" eksikliğindendir.
+- entry_name: |
+    tip hariç kadınları aşık ettirebilecek şeyler
+  entry_id:  70735751
+  entry_writer: dandik tavsan
+  entry_fav_count: 0
+  entry_content: |
+    yoktur. kendinizi kandırmayın. <br/><br/>tip harici değil, tipin yanı sıra bir kadını kendisinize aşık ettirebileceğiniz ek özellikler vardır. evet; bir kadın sizi sevebilir, size saygı duyabilir, veya yaşamının bir kısmını sizin ile birlikte geçirmek isteyebilir. ancak, bir kadının aşık olması ve sizi tutkulu bir şekilde arzulaması+sevmesi ile mantık üzerine kurulu bir ilişki üzerinde dağlar kadar fark vardır.<br/><br/>hayır; aşk, hastalıklı bir şey değildir... (sadece, aşık olduğunuz öküz bunu hak etmiyor, sizi anlayamıyor ve her şeyin içine içine sıçıyordur)<br/><br/>ve evet; bir kadının beni sevmesinden, huzurdan, "mantıklı" bir ilişkidense aşkı tercih ederim; çünkü, dünya aşk üzerinde dönüyor...
 - entry_name: |
     penaltı kaçırmayan futbolcu
   entry_id:  70740933
@@ -338,6 +331,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     eski bursaspor kalecisi <a class="b" href="/?q=dimitar+ivankov">dimitar ivankov</a>. <br/><br/>7'si bursaspor'da (biri fenerbahçe'ye karşı) olmak üzere 40'ın üzerinde penaltı kullandı ve hiç kaçırmadı. kendisi aynı zamanda dünya'nın en golcü üçüncü kalecisi.
+- entry_name: |
+    hasan cihat örter
+  entry_id:  70744571
+  entry_writer: swallowed arsenic
+  entry_fav_count: 0
+  entry_content: |
+    it horozlarını öksüz bırakmıştır.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  70730553
@@ -351,5 +351,5 @@ data:
   entry_writer: ari maya
   entry_fav_count: 0
   entry_content: |
-    kendim icin soyle bir istegim var (utandim bunu yazarken ama)<br/>ya benim yds icin kursa gitmem mecburi resmen. ama babama bu fikri acmaya bile niyetlenemiyorum zira adamin durumu beni okutmaya zor yetiyor. burs istemiyorum, ayrica istegim kurs masrafi karsilanmasi da degil, sayet ucretsiz yds kursu ayarlayabilirseniz tanidik vs araciligiyla accaaaayippp sevinirim valla.<br/>not: sinavdan aldigim puan 53,75 su anlik bu yani. ama duzgun bisi almam farz bundan. matematik bolumu 4. sinif ogrencisiyim ve yasim cok fena (32) <br/>oyle iste.
+    kendim icin soyle bir istegim var (utandim bunu yazarken ama)<br/>ya benim yds icin kursa gitmem mecburi resmen. ama babama bu fikri acmaya bile niyetlenemiyorum zira adamin durumu beni okutmaya zor yetiyor. burs istemiyorum, ayrica istegim kurs masrafi karsilanmasi da degil, sayet ucretsiz yds kursu ayarlayabilirseniz tanidik vs araciligiyla accaaaayippp sevinirim valla.<br/>not: sinavdan aldigim puan 53,75 su anlik bu yani. ama duzgun bisi almam farz bundan. matematik bolumu 4. sinif ogrencisiyim ve yasim cok fena (32) <br/>oyle iste.<br/>not: sehir izmir bornova :)
 ---
