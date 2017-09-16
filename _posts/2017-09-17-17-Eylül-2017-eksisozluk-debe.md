@@ -6,28 +6,28 @@ data:
     kürdistan
   entry_id:  70830585
   entry_writer: chepi
-  entry_fav_count: 568
+  entry_fav_count: 574
   entry_content: |
     türkiye'deki bütün kürtler gidip burada yaşayacaksa destekliyorum. ondan sonra sıra suriyeli ve diğer ne idüğü belirsizlerde işallah.
 - entry_name: |
     erdoğan'ın eğitime önem vermeye başlaması
   entry_id:  70830760
   entry_writer: kitaplikkurdu
-  entry_fav_count: 291
+  entry_fav_count: 295
   entry_content: |
     eğitim dediği seyin ne olduğunu da hepimiz görüyoruz mufredatin son hali ile, okullarda çocuklara gösterdikleri şeyler ile. anaokullarinda 15 temmuz canlandırması, ilkokullarda namaz nasıl kılınır uygulaması, ortaokulda kadının örtüsü temasi sonrasında en az 3 cocuk derken kendi secmenini cogalttikca cogaltiyor zaten. <br/><br/>onun eğitim anlayışı ile çağdaş bilimsel eğitim anlayışının aynı olmadığını biliyoruz. hiç umutlanmaya gerek yok. <br/><br/>tanım; göründüğü gibi olmadığını düşündüğüm durumdur.
 - entry_name: |
     ameliyat olan hastaların amansız soruları
   entry_id:  70834566
   entry_writer: azminelindenbirseykurtulmaz
-  entry_fav_count: 242
+  entry_fav_count: 248
   entry_content: |
     ah ekselansları ah, ameliyatta dillerini de kesip dikmek lazım bunların.
 - entry_name: |
     ölmek istememek ama yaşamaktan da zevk almamak
   entry_id:  70826627
   entry_writer: brayn
-  entry_fav_count: 218
+  entry_fav_count: 221
   entry_content: |
     türkiye'de hayatın özetidir.
 - entry_name: |
@@ -41,44 +41,44 @@ data:
     sanal bahis oynayanların paralarına el konulması
   entry_id:  70835696
   entry_writer: buradakanzukdenenbirhiyarvarmis
-  entry_fav_count: 127
+  entry_fav_count: 130
   entry_content: |
     zor biraz o is. ben bi keresinde para yatirirken bilmem ne mobilya sirketi adina yatirmistim. nasil anlayacaklar? sen doğru duzgun bahis sitelerini yasal yap bunlarla da ugrasma. zorla iddaa oynatamazsiniz. oynayan oynasin ben o oranlara oynamam. sirf tekel diye istedigini yapiyor. siz oyle yaparsaniz bende parami yabanci siteye veririm. (kazanirim kaybederim o ayri)
-- entry_name: |
-    teog'un kaldırılması lazım
-  entry_id:  70825518
-  entry_writer: blacksoul
-  entry_fav_count: 95
-  entry_content: |
-    torunlar teog'a girecek herhalde bu sene.
-- entry_name: |
-    bafetimbi gomis
-  entry_id:  70839048
-  entry_writer: yazarken ellerini birakan herif
-  entry_fav_count: 95
-  entry_content: |
-    gol attigin pozisyon oncesinde ataga cikan kasimpasa defansindan topu kayarak cal, 1<br/><br/>topla bulusan takim arkadasin sana pas vermeden once yine rakip defansa fake atip kendini bosa cikar, 2 <br/><br/>pasi almadan once iki kere ofsayttan cik, pas bekle, 3<br/><br/>gelen topu mukemmel sekilde stop et, 4<br/><br/>topu cekip rakip kaleciyi ve stoperi pazara yolla, 5<br/><br/>zayif ayaginla koseye yuvarla, 6<br/><br/>eeee butun bu boklari yedikten sonra, "kusura bakmayin abi, kazara oldu" diyemezsin. inanmazlar.<br/><br/>sikerler olm, hepimizi sikerler.
 - entry_name: |
     fethullah gülen'in kolon kanseri olması
   entry_id:  70838035
   entry_writer: masa penisi
-  entry_fav_count: 91
+  entry_fav_count: 126
   entry_content: |
     ininde saklanmayan versiyonu için de yıllardır kolon kanseri deniyor ama bişey olduğu yok.
 - entry_name: |
-    türk kızlarının bikini giymeye korkması
-  entry_id:  70833357
-  entry_writer: mrsengineering
-  entry_fav_count: 88
+    bafetimbi gomis
+  entry_id:  70839048
+  entry_writer: yazarken ellerini birakan herif
+  entry_fav_count: 113
   entry_content: |
-    "çünkü dikdörtgen gibi vücutları varmış..." <br/><br/>bunu diyenler de kalça genişliği omuz genişliğinden fazla olan -bazı- türk erkekleri.
+    gol attigin pozisyon oncesinde ataga cikan kasimpasa defansindan topu cal, 1<br/><br/>topla bulusan takim arkadasin sana pas vermeden once yine rakip defansa fake atip kendini bosa cikar, 2 <br/><br/>pasi almadan once iki kere ofsayttan cik, pas bekle, 3<br/><br/>gelen topu mukemmel sekilde stop et, 4<br/><br/>topu cekip rakip kaleciyi ve stoperi pazara yolla, 5<br/><br/>zayif ayaginla koseye yuvarla, 6<br/><br/>eeee butun bu boklari yedikten sonra, "kusura bakmayin abi, kazara oldu" diyemezsin. inanmazlar.<br/><br/>sikerler olm, hepimizi sikerler.
+- entry_name: |
+    teog'un kaldırılması lazım
+  entry_id:  70825518
+  entry_writer: blacksoul
+  entry_fav_count: 96
+  entry_content: |
+    torunlar teog'a girecek herhalde bu sene.
 - entry_name: |
     içi mucize dolu bir kitaba insan kelamı demek
   entry_id:  70836114
   entry_writer: perkins tp
-  entry_fav_count: 70
+  entry_fav_count: 81
   entry_content: |
     (bkz: <a class="b" href="/?q=mirastan+kar%c4%b1lar+1%2c+erkekler+2+pay+als%c4%b1n.">mirastan karılar 1, erkekler 2 pay alsın.</a>)<br/>(bkz: <a class="b" href="/?q=islam+kad%c4%b1na+en+%c3%a7ok+de%c4%9fer+veren+hukuk+sistemidir">islam kadına en çok değer veren hukuk sistemidir</a>)<br/><br/>adamı buna inandırırlar. asıl mucize işte budur.
+- entry_name: |
+    amasya elması ile ünlü ilimiz
+  entry_id:  70838136
+  entry_writer: antik sozluk
+  entry_fav_count: 67
+  entry_content: |
+    (bkz: <a class="b" href="/?q=amasya+province">amasya province</a>)
 - entry_name: |
     meral akşener
   entry_id:  70833114
@@ -86,13 +86,6 @@ data:
   entry_fav_count: 66
   entry_content: |
     bu kadın fetöcü,<br/>fetönün yargıyı ele geçirmesini protesto için hakimlikten istafa eden chp'nin avukatı fetöcü,<br/>ateist ahmet şık fetöcü,<br/>cumhuriyet, sözcü fetöcü<br/>ama <a class="b" href="/?q=h%c3%bcseyin+g%c3%bclerce">hüseyin gülerce</a> fetöcü değil.<br/>geri zekalısınız desem, geri zekalıya hakaret olur.<br/>ruhunuzu kiraya vermiş soytarılarsınız.
-- entry_name: |
-    amasya elması ile ünlü ilimiz
-  entry_id:  70838136
-  entry_writer: antik sozluk
-  entry_fav_count: 66
-  entry_content: |
-    (bkz: <a class="b" href="/?q=amasya+province">amasya province</a>)
 - entry_name: |
     plaja çocuğuyla gelenleri uyarmak
   entry_id:  70834779
@@ -111,30 +104,23 @@ data:
     16 eylül 2017 galatasaray kasımpaşa maçı
   entry_id:  70838861
   entry_writer: mesele adami
-  entry_fav_count: 56
+  entry_fav_count: 58
   entry_content: |
     şu maça bir bakıyorum yabancı sınırı tartışmaları aklıma gelip tüylerim ürperiyor amk.<br/>not : bjk
 - entry_name: |
     erdoğan'a ikizi kadar benzeyen kızıl ordu askeri
   entry_id:  70835068
   entry_writer: nickbulamadimnolcak
-  entry_fav_count: 52
+  entry_fav_count: 55
   entry_content: |
     gürcü asıllı olması muhtemeldir.
 - entry_name: |
     15 eylül 2017 izmir'de köpeğe saldırı
   entry_id:  70837295
   entry_writer: suntii
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
-    dün akşam saatlerinde aliağa çarşıya yakın konyalım'ın karşısında yaşanmış bu olay<br/><br/>''videoda gördüğünüz şerefsiz bu güzel köpeğin mia'nın canını yakarak kaybolmasına sebep oldu.<br/>mia'yı gören, bu şerefsizi tanıyan bilen lütfen bildirsin ''<br/><br/>köpeğin sahibi ben değilim. yardım etmek ve daha çok kişiye ulaşmak için paylaşıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/CYAXWC-WKUU" title="http://youtu.be/CYAXWC-WKUU">saldırı anı</a>
-- entry_name: |
-    beden eğitiminde eşofman zorunluluğunun kalkması
-  entry_id:  70835711
-  entry_writer: hadi git
-  entry_fav_count: 39
-  entry_content: |
-    harika fikir, bunca zamandır nasıl kimsenin aklına gelmedi hayret ediyorum. zaten spor dediğin şalvarla falan yapılır. allah aklınıza zeval vermesin!
+    dün akşam saatlerinde aliağa çarşıya yakın konyalım'ın karşısında yaşanmış bu olay<br/><br/>''videoda gördüğünüz şerefsiz bu güzel köpeğin mia'nın canını yakarak kaybolmasına sebep oldu.<br/>mia'yı gören, bu şerefsizi tanıyan bilen lütfen bildirsin ''<br/><br/>köpeğin sahibi ben değilim. yardım etmek ve daha çok kişiye ulaşmak için paylaşıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/CYAXWC-WKUU" title="http://youtu.be/CYAXWC-WKUU">saldırı anı</a><br/><br/>saldırıyı yapan mahlukatın facebook adresi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/profile.php?id=1360782028&amp;hc_ref=ARRBl_i6Qp8J8-t4942FN3GSALIEL3u_ExBihToCQcvuiiJ1u7fAHjEOaVxfWSbtV4k&amp;fref=nf" title="https://www.facebook.com/profile.php?id=1360782028&amp;hc_ref=ARRBl_i6Qp8J8-t4942FN3GSALIEL3u_ExBihToCQcvuiiJ1u7fAHjEOaVxfWSbtV4k&amp;fref=nf">şerefsizin profili</a><br/><br/>benim bildiğim petkim bu adamı çalıştırmaz
 - entry_name: |
     recep tayyip erdoğan
   entry_id:  70829709
@@ -146,16 +132,23 @@ data:
     galatasaray
   entry_id:  70835161
   entry_writer: hochstwahrscheinlich
-  entry_fav_count: 27
+  entry_fav_count: 31
   entry_content: |
     geçtiğimiz gün almanya'da ispanyol bir kızla tanıştım, kendisi tam bir katalan ve barcelona aşığı, madrid düşmanı. uzun bir süre katalonya referandumu hakkında konuştuktan sonra sohbet futbola geldi tabi ki. tam o dakikalarda porto-beşiktaş maçının sonucunu gördüm, ona da gösterdim. beşiktaş diye bir takımı hiç duymadığını, sadece galatasaray'ı bildiğini söyledi. aynı gün japon öğrencilerle konuştum, türkiye hakkında ne bildiklerini sordum ilk söyledikleri şey (bkz: <a class="b" href="/?q=g%c3%bcnayd%c4%b1n">günaydın</a>) ikincisi ise galatasaray oldu.. türkiye denildiğinde akla gelen iki şeyden biri istanbul, diğeri galatasaray. bu yüzden diyoruz ya türkiyedir galatasaray. <br/><br/>bu imaj ancak bir başka türk takımının şampiyonalr ligi şampiyonu olmasıyla değişir, onu da gerçekleştirirse yine ilklerin takımı galatasaray gerçekleştirir. dünya'da ki en büyük gurur kaynağım önce atatürk, sonra galatasaray.
 - entry_name: |
     iasmin latovlevici
   entry_id:  70839368
   entry_writer: kisa klasik
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     takımda çok zenci var araya ben de kaynayayim diye sanırım kapkara maskeyle çıkan sol bek
+- entry_name: |
+    doğu asyalılara çekik gözlü demek
+  entry_id:  70837387
+  entry_writer: edepiliedepsiz
+  entry_fav_count: 22
+  entry_content: |
+    hiç <a class="b" href="/?q=%c3%a7ekik+g%c3%b6zl%c3%bc">çekik gözlü</a> diyip aşağılayan bir <a class="b" href="/?q=t%c3%bcrk">türk</a> görmedim.<br/><br/>duyarlılık böyle kasamazsın <a class="b" href="/?q=kekocan">kekocan</a>. try again later.
 - entry_name: |
     bedelli askerlik
   entry_id:  70830376
@@ -174,23 +167,23 @@ data:
     younes belhanda
   entry_id:  70838988
   entry_writer: scabbar
-  entry_fav_count: 14
+  entry_fav_count: 18
   entry_content: |
     10 numara değildir zaten. 8,5 diyebiliriz bu adama. 10 numaraların yapmadığı presi koşuyu yapar. 10 numara gibi tekniktir. <br/><br/>bu maçta da asistini yapmıştır ayrıca.
-- entry_name: |
-    hoşlandığı kıza cd yapan erkek
-  entry_id:  70826646
-  entry_writer: fatlace
-  entry_fav_count: 14
-  entry_content: |
-    benim. <br/><br/>fakültede çok hoşlanıp da açılamadığım bir kız vardı fakat muhabbetimiz koyu. o yıllarda internet, youtube, spotify, soundcloud falan da yok. kızımız ben müziği çok seviyorum diye her muhabbette üstüne basıyor. ablayla sürekli müzik muhabbeti yapıyoruz, zira ben de müziği çok seven bir eziğim.<br/><br/>neyse, bu kıza nasıl bir sürprizle açılsam diye düşünürken, müzisyen arkadaşlarımın (kendileri şu anda ülkenin önemli müzisyenleri arasında yer alıyor) arşivine girip, saatlerce, günlerce şarkı dinleyip, türkiye'de kolay bulunmayan, az bilinen ama çok güzel indie şarkılardan bir cd oluşturdum.<br/><br/>planıma göre de kıza cd'yi vereceğim, bak diyeceğim, bu şarkıları başka yerde bulamazsın, çok özel bir arşivden çektim kendim için, sana da bir kopya yaptım... hala kıza açılmaya niyetim yok yani, amacım kızın bana açılmasını sağlamak.<br/><br/>neyse, yağmurlu bir gün, hiç dersim olmamasına rağmen, o pis yağmurda it gibi ıslanıp fakülteye ulaştım. sırtımda çantam, yüzümde heyecanımı belli edip de aptal gibi görünmemek için poker suratım, kantine girdim. sıcak bir çay aldım, çayı yudumlayarak kantinden çıkarken bizim ablayı kapıda gördüm. çat diye karşıma çıktı. <br/><br/>ferit naber, dedi. senin bugün dersin var mıydı? diye sordu.<br/><br/>yoktu ama kütüphanede çalışmam lazım, dedim en soğuk, en cool, en umursamaz sesimle. sonra nuriyeciğim dedim, seni gördüğüm iyi oldu, bak sana ne getirdim... çay bardağından boş kalan elimi sırtımdaki çantanın yan cebine atıp cd'yi çıkardım.<br/><br/>benim müzisyen arkadaşların arşivinden derledim bunu, türkiye'de bulamayacağın çok güzel şarkılar, sana da bir kopya çıkardım yapmışken...<br/><br/>ay gerçekten mi diye atladı nuriye, çok sevinmişti. çok mutlu oldum şu an ya, hep aynı şarkıları döndürüp dinlemekten yorulmuştum, akşam bunu evde merakla dinleyc... derken, kapıdan fakültenin en zengin oğlanlarından biri girdi, kapıya son model spor otomobili ile gelen tiplerden biri. <br/><br/>her üniversiteli, ezik, fakir, amele, varoş oğlanı o çocukları çok iyi bilir, kimden bahsettiğimi anlamışsınızdır. sizin de hayatınızda bunlardan biri mutlaka vardır. babalarının aldığı 100 bin dolarlık spor otomobille fakültenin otoparkına girerler, içinden fakültenin en güzel kızları iner. gülüşmeler, kahkahalar falan, sonra bunlar el ele derse girerler.<br/><br/>neyse bu bizim oğlan kapıdan girdi, zaten biz de kantin kapısının önündeyiz, çocuk çat diye nuriye'ye sarıldı, aşkıııım, seni arıyordum diye öptü bunu. sonra kızın elindeki cd'ye baktı, bu nedir bebeğim dedi... <br/><br/>ay aşkıım, ferit bana arkadaşlarının müzik arşivinden doldurduğu bir cd'yi getirmiş, ne kadar ince bir adam şu ferit, müziği çok sevdiğimi biliyor, benim için de bir kopya yapmış..<br/><br/>aaa çok iyi ya dedi, bu bizim oğlan, okul çıkışında benim arabada çalarız. sağol ferit ya, dedi bizim oğlan.<br/><br/>ne demek, dedim. umarım beğenirsiniz. hadi benim dersim var, size iyi eğlenceler...<br/><br/>sonra o yağmurda fakülteden çıktım. beşiktaş'tan sarıyer'e kadar sahildeki bütün taşlara tekme atarak yürüdüm. sarıyer'den otobüse binip, varoşlardaki evime döndüm.<br/><br/>bu arada başlıkta kimse yazmamış, ben yazayım.<br/><br/>size lüks arabasının teybinde cd çalan zengin çocukları için size cd doldurmak için günlerce şarkı seçen erkekleri üzdünüz. <br/><br/>o zaman, fakirliğime, amemeliğime, ezikliğime, varoşluğuma bakıp da kulağına onu sevdiğimi söylemeye cesaret bulamadığım bütün güzel kızlara bir şarkı armağan edeyim, zengin sevgililerinizin lüks otomobillerinde dinlersiniz:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ePBw9ia-wRU">https://www.youtube.com/watch?v=epbw9ia-wru</a>
 - entry_name: |
     metin 2 oyununda kendinden geçen lonca lideri
   entry_id:  70839576
   entry_writer: babayarisi
-  entry_fav_count: 13
+  entry_fav_count: 18
   entry_content: |
     vay amın feryadı, sanırsın 40 çeriyle musul'u ana vatana kattı.
+- entry_name: |
+    hoşlandığı kıza cd yapan erkek
+  entry_id:  70826646
+  entry_writer: fatlace
+  entry_fav_count: 15
+  entry_content: |
+    benim. <br/><br/>fakültede çok hoşlanıp da açılamadığım bir kız vardı fakat muhabbetimiz koyu. o yıllarda internet, youtube, spotify, soundcloud falan da yok. kızımız ben müziği çok seviyorum diye her muhabbette üstüne basıyor. ablayla sürekli müzik muhabbeti yapıyoruz, zira ben de müziği çok seven bir eziğim.<br/><br/>neyse, bu kıza nasıl bir sürprizle açılsam diye düşünürken, müzisyen arkadaşlarımın (kendileri şu anda ülkenin önemli müzisyenleri arasında yer alıyor) arşivine girip, saatlerce, günlerce şarkı dinleyip, türkiye'de kolay bulunmayan, az bilinen ama çok güzel indie şarkılardan bir cd oluşturdum.<br/><br/>planıma göre de kıza cd'yi vereceğim, bak diyeceğim, bu şarkıları başka yerde bulamazsın, çok özel bir arşivden çektim kendim için, sana da bir kopya yaptım... hala kıza açılmaya niyetim yok yani, amacım kızın bana açılmasını sağlamak.<br/><br/>neyse, yağmurlu bir gün, hiç dersim olmamasına rağmen, o pis yağmurda it gibi ıslanıp fakülteye ulaştım. sırtımda çantam, yüzümde heyecanımı belli edip de aptal gibi görünmemek için poker suratım, kantine girdim. sıcak bir çay aldım, çayı yudumlayarak kantinden çıkarken bizim ablayı kapıda gördüm. çat diye karşıma çıktı. <br/><br/>ferit naber, dedi. senin bugün dersin var mıydı? diye sordu.<br/><br/>yoktu ama kütüphanede çalışmam lazım, dedim en soğuk, en cool, en umursamaz sesimle. sonra nuriyeciğim dedim, seni gördüğüm iyi oldu, bak sana ne getirdim... çay bardağından boş kalan elimi sırtımdaki çantanın yan cebine atıp cd'yi çıkardım.<br/><br/>benim müzisyen arkadaşların arşivinden derledim bunu, türkiye'de bulamayacağın çok güzel şarkılar, sana da bir kopya çıkardım yapmışken...<br/><br/>ay gerçekten mi diye atladı nuriye, çok sevinmişti. çok mutlu oldum şu an ya, hep aynı şarkıları döndürüp dinlemekten yorulmuştum, akşam bunu evde merakla dinleyc... derken, kapıdan fakültenin en zengin oğlanlarından biri girdi, kapıya son model spor otomobili ile gelen tiplerden biri. <br/><br/>her üniversiteli, ezik, fakir, amele, varoş oğlanı o çocukları çok iyi bilir, kimden bahsettiğimi anlamışsınızdır. sizin de hayatınızda bunlardan biri mutlaka vardır. babalarının aldığı 100 bin dolarlık spor otomobille fakültenin otoparkına girerler, içinden fakültenin en güzel kızları iner. gülüşmeler, kahkahalar falan, sonra bunlar el ele derse girerler.<br/><br/>neyse bu bizim oğlan kapıdan girdi, zaten biz de kantin kapısının önündeyiz, çocuk çat diye nuriye'ye sarıldı, aşkıııım, seni arıyordum diye öptü bunu. sonra kızın elindeki cd'ye baktı, bu nedir bebeğim dedi... <br/><br/>ay aşkıım, ferit bana arkadaşlarının müzik arşivinden doldurduğu bir cd'yi getirmiş, ne kadar ince bir adam şu ferit, müziği çok sevdiğimi biliyor, benim için de bir kopya yapmış..<br/><br/>aaa çok iyi ya dedi, bu bizim oğlan, okul çıkışında benim arabada çalarız. sağol ferit ya, dedi bizim oğlan.<br/><br/>ne demek, dedim. umarım beğenirsiniz. hadi benim dersim var, size iyi eğlenceler...<br/><br/>sonra o yağmurda fakülteden çıktım. beşiktaş'tan sarıyer'e kadar sahildeki bütün taşlara tekme atarak yürüdüm. sarıyer'den otobüse binip, varoşlardaki evime döndüm.<br/><br/>bu arada başlıkta kimse yazmamış, ben yazayım.<br/><br/>size lüks arabasının teybinde cd çalan zengin çocukları için size cd doldurmak için günlerce şarkı seçen erkekleri üzdünüz. <br/><br/>o zaman, fakirliğime, amemeliğime, ezikliğime, varoşluğuma bakıp da kulağına onu sevdiğimi söylemeye cesaret bulamadığım bütün güzel kızlara bir şarkı armağan edeyim, zengin sevgililerinizin lüks otomobillerinde dinlersiniz:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ePBw9ia-wRU">https://www.youtube.com/watch?v=epbw9ia-wru</a>
 - entry_name: |
     bitcoin
   entry_id:  70825543
@@ -206,6 +199,20 @@ data:
   entry_content: |
     aranızda hayal kırıklığı , çok klişe diye söylenen arkadaşlar var. olum zaten korku klişelerinin bir kısmını yaratan adam stephen king .olmuş filmdir.
 - entry_name: |
+    ekşi itiraf
+  entry_id:  70826088
+  entry_writer: mezzaluna ayisigi
+  entry_fav_count: 10
+  entry_content: |
+    aksamdan beri gulmemem gereken bir olaya guluyorum cocuklar. olay su ki; annenim halasini hastahaneye yatiriyorlar, kadin kafasina gore cikiyor hastahaneden tin tin tin geziyor etrafta, tipi de cok komikti rahmetlinin boyle minyon zayif bir kadin kafasini yana ege ege gezerdi biraz da cadiydi goz kapaklarindan biri kesikti, kedi gibi bakardi boyle. neyse iste oglu demis ki buna, anne niye ciktin hastahaneden oleceksin yavvv demis, kadin da iyi o zaman oleyim bari deyip oglunun kucagina yatmis ve olmus, oglu sok! tovbe esta... kadinin olumu bile bi denisik ya, oglu hala o travmadan kurtulamamis. saka gibi bir olum, kadin son golunu atmis. konusmasi da bir denisikti burnundan konusurdu son sozlerini nasil soyledigini de hayal edebiliyorum, bir gulme geliyor tovbe est...
+- entry_name: |
+    devlet bahçeli
+  entry_id:  70837175
+  entry_writer: victory90
+  entry_fav_count: 10
+  entry_content: |
+    (bkz: <a class="b" href="/?q=osuruktan+tayyare">osuruktan tayyare</a>)<br/><br/>söyledikleri hiç kimse tarafından ciddiye ve dikkate alınmayan miadı dolmuş siyasetçi. partisinin grup toplantısında götünü açsa gündem olmaz, o derece kaale alınmıyor.
+- entry_name: |
     gelmiş geçmiş en güzel duvar yazısı
   entry_id:  70826419
   entry_writer: son istavrit
@@ -213,24 +220,10 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9D9vEr.jpg" title="https://i.hizliresim.com/9D9vEr.jpg">budur</a>
 - entry_name: |
-    ekşi itiraf
-  entry_id:  70826088
-  entry_writer: mezzaluna ayisigi
-  entry_fav_count: 9
-  entry_content: |
-    aksamdan beri gulmemem gereken bir olaya guluyorum cocuklar. olay su ki; annenim halasini hastahaneye yatiriyorlar, kadin kafasina gore cikiyor hastahaneden tin tin tin geziyor etrafta, tipi de cok komikti rahmetlinin boyle minyon zayif bir kadin kafasini yana ege ege gezerdi biraz da cadiydi goz kapaklarindan biri kesikti, kedi gibi bakardi boyle. neyse iste oglu demis ki buna, anne niye ciktin hastahaneden oleceksin yavvv demis, kadin da iyi o zaman oleyim bari deyip oglunun kucagina yatmis ve olmus, oglu sok! tovbe esta... kadinin olumu bile bi denisik ya, oglu hala o travmadan kurtulamamis. saka gibi bir olum, kadin son golunu atmis. konusmasi da bir denisikti burnundan konusurdu son sozlerini nasil soyledigini de hayal edebiliyorum, bir gulme geliyor tovbe est...
-- entry_name: |
-    devlet bahçeli
-  entry_id:  70837175
-  entry_writer: victory90
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=osuruktan+tayyare">osuruktan tayyare</a>)<br/><br/>söyledikleri hiç kimse tarafından ciddiye ve dikkate alınmayan miadı dolmuş siyasetçi. partisinin grup toplantısında götünü açsa gündem olmaz, o derece kaale alınmıyor.
-- entry_name: |
     mariano ferreira filho
   entry_id:  70838865
   entry_writer: mr spock vardi da biz mi kirk olmadik
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=ak%c4%b1%c5%9fkanlar+mekani%c4%9fi">akışkanlar mekaniği</a>)
 - entry_name: |
@@ -248,19 +241,19 @@ data:
   entry_content: |
     isini dogru yapan bir şanzıman yazmış ama 2.5 yıllık<br/>arabanın şanzıman bozulduğundan dolayı değişmiş de yazmış. ya malsın bunu yazıyorsun ya da okuzsun saglam şanzımani 2.5 senede bozdun.
 - entry_name: |
+    evlenmek isteyen kızdan beş yıllık ön ödeme almak
+  entry_id:  70840169
+  entry_writer: fatlace
+  entry_fav_count: 6
+  entry_content: |
+    evlenecek gençlere tavsiye ettiğim finansal güvence işlemi.<br/><br/>şimdi bu kız milleti, biliyorsunuz, "işkiiiim, biz ivlinirsik hiyitli birlikte micidili idiciğiz. bin di bitin misrifliri kitilicim, ivimizi birlikti çikip çiviriciğiz," gibi sikko yalanlar uydurup sayısız fakir oğlanı, sayısız geri zekalı erkeği evliliğe ikna ediyorlar. <br/><br/>ancak evlendikten sonra bu çakal karılar, "oh nasılsa sana nikahı bastım, artık beni boşayamazsın, boşarsan bana ömür boyu nafaka ödersin işime gelir. evliliğe devam etmek istiyorsan da çalışıp kazancaksın, köpek gibi benim masraflarımı ödeyeceksin," kıvamına geliyor. buna inanmıyorsan, çevrenizdeki evli arkadaşlarınıza sorun. <br/><br/>işte bu sorunu çözmek için size tavsiye ettiğim yöntem, evlenmeden önce bir anlaşma hazırlayarak, kızın önümüzdeki 5 yıl boyunca evin bütçesine yapmayı söz verdiği katkıyı toplu olarak almanızdır. 5 yıl sonra da ikinci beş yıllık taksidi ödemediği takdirde, şartsuz şurtsuz boşanmayı kabul ettiğini ve evlilik nedneiyle erkeğin yaşadığı tüm zararı tanzim etmek zorunda kalacağına dair beyanını imzalı ve noter tasdikli olarak alın.<br/><br/>ondan sonra bakın karınız nasıl mis gibi bir kadın oluyor. <br/><br/>mutluluğun sırrı budur.<br/><br/>-ay sen ne biçim adamsın, evlilik para demek değil, ben kocamı severek ev...<br/>-ya kızım bi siktir git.
+- entry_name: |
     cüneyt çakır
   entry_id:  70840079
   entry_writer: sektorunde lider suser
   entry_fav_count: 6
   entry_content: |
     nabza göre şerbet verir, ligde o hafta ne gerekiyorsa onu çalar, bir hafta kart gösterdiğine öteki hafta düdük bile çalmaz, günümüz türkiyesinin hakemlikteki karşılığı...
-- entry_name: |
-    sinan gümüş
-  entry_id:  70840064
-  entry_writer: pezzonovante
-  entry_fav_count: 4
-  entry_content: |
-    mahalle maçında yapılsa sonu kaleye geçmek olacak işler yaptı az önce, bir bu bir de yasin, nelerine güveniyorlar hiç anlamıyorum.
 - entry_name: |
     kadıköy
   entry_id:  70837704
@@ -311,13 +304,6 @@ data:
   entry_content: |
     çok meraklısı olduğumdan değil ama sözlüğe insanlar bilgi almak için giriyor, adam yarım yamalak bilgileri android telefonları öveceğim diye sıralamış. iki çekirdekli işlemci yazmışlar, ben de lansmanı izledim adamlar 4 tane yüksek verimiliğe sahip çekirdek iki de yüksek performansa sahip çekirdek dediler. sızdırılan bazı benchmark testlerine göre çift çekirdekli güncel macbook pro’lardan çoklu çekirdek testlerinde daha yüksek skorlar almış, bir sürü sitede var bu bilgi de, tabi sızdırılan yanlıştır doğrudur bilemeyiz piyasaya çıkınca alırlar, test ederler, öğreniriz.
 - entry_name: |
-    erkeklerin sevgili olmak istediği kızda aradıkları
-  entry_id:  70838512
-  entry_writer: biraz akilli biraz salak
-  entry_fav_count: 2
-  entry_content: |
-    hamburger siparişiyle karıştırılmış başlıktır. " karamelize soğan, double köfte ama ekmek susamsız olsun evet, ne zamana hazır olur?"<br/><br/>henüz öyle bir sistem gelmedi arkadaşlar üzgünüm. <br/><br/>birisi gülerken dudaklarının yanında parantez oluşsun yazmış. insan gerçekten hayret ediyor.
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  70837756
   entry_writer: kahve muptelasi
@@ -325,12 +311,12 @@ data:
   entry_content: |
     ben de dert dinliyorum bugün.<br/><br/>öncelikle cinsiyet farketmez. karız kız peşinde koşmuyorum.<br/><br/>sohbet, muhabbet, dert dinleme, ilişki konuları, siyaset, sanat, bilim, kitaplar kısaca her konudan konuşabiliriz.<br/><br/>ön koşul insan olmak.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/tramendus2003">http://connected2.me/tramendus2003</a>
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  70825760
-  entry_writer: en guzel entryler benimm
+    sinan gümüş
+  entry_id:  70840143
+  entry_writer: murattemur
   entry_fav_count: 0
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=OZ-W9sKJKHg">https://m.youtube.com/watch?v=oz-w9skjkhg</a><br/>"sevişen yaramaz çocuklar gibi" limlim...<br/><br/>hissedince sana vurulduğumu<br/>anladım ne kadar yorulduğumu<br/>sakinleştiğimi, durulduğumu<br/>denize dökülen bir pınar gibi..
+    galatasaray alt yapısına yıllık 500 bin euro ücretle transfer oldu. bir taraftar olarak bende çok ümitliydim lakin her sezon yaşattığı illa onbir isteği (onbir sözle istenmez sahada yaptıklarınla hak edilir) ve bu sezon başı menajerinin tuzağına düşmesi ile bu hale geldi.<br/>genç sporcu arkadaşlar ve bir şekilde erken yaşta galatasaray, fenerbahçe, beşiktaş ve trabzonspor'a kapağı atmış olanlar kulüplerinizin değerini bilin.
 - entry_name: |
     nagehan alçı
   entry_id:  70832708
@@ -352,4 +338,18 @@ data:
   entry_fav_count: 0
   entry_content: |
     - benden önce kaç mail adresin oldu?<br/>- sen ilksin.<br/>- hmm!
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  70833964
+  entry_writer: montana reis
+  entry_fav_count: 0
+  entry_content: |
+    kaliteli adam yüzeysel konuşur, derin iş yapar.
+- entry_name: |
+    erkeklerin sevgili olmak istediği kızda aradıkları
+  entry_id:  70835945
+  entry_writer: engilady
+  entry_fav_count: 0
+  entry_content: |
+    hem sevgilim hem de en iyi arkadaşım olabilecek ayrıca katlayınca halam, kolunu burktuğumda ise amcam olmalı.
 ---
