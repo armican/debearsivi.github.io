@@ -6,93 +6,107 @@ data:
     taksicinin pkk'lı diye polislerce öldürülmesi
   entry_id:  71100246
   entry_writer: liku it
-  entry_fav_count: 579
+  entry_fav_count: 585
   entry_content: |
     inandırıcılıkta çığır açmış hikayedir. "polis pusu kuruyor, taksici sokağa giriyor, polis tarıyor". propaganda yapan itler yüzünden doğruyu, yanlışı ayırt edemez olduk. polisin, askerin yaptığı bir yanlış varsa da inanamaz olduk.<br/><br/>edit: evet bir hikayenin daha sonuna geldik. "masum taksici" uzaktan çok da masum <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DK-QIREWAAIMOu1.jpg" title="https://pbs.twimg.com/media/DK-QIREWAAIMOu1.jpg">görünmüyor.</a>
-- entry_name: |
-    ördeğin kafasını golf sopasıyla koparmak
-  entry_id:  71098987
-  entry_writer: deli ali 667
-  entry_fav_count: 344
-  entry_content: |
-    et yemekle bu olayı bağdaştıran duyar kasıcılar doluşmuş gene.<br/><br/>bir hayvanı yemek için kesmek başka, eziyet ve zevk için öldürmek başka. önce bunun ayrımına varın bir.<br/><br/>tanım: şerefsizliktir.
 - entry_name: |
     atv'nin sahte yağmuru
   entry_id:  71100259
   entry_writer: bilan
-  entry_fav_count: 337
+  entry_fav_count: 366
   entry_content: |
     en doğru haberde bile yalan söyleme isteğini bastıramamanın sonucudur.
+- entry_name: |
+    ördeğin kafasını golf sopasıyla koparmak
+  entry_id:  71098987
+  entry_writer: deli ali 667
+  entry_fav_count: 348
+  entry_content: |
+    et yemekle bu olayı bağdaştıran duyar kasıcılar doluşmuş gene.<br/><br/>bir hayvanı yemek için kesmek başka, eziyet ve zevk için öldürmek başka. önce bunun ayrımına varın bir.<br/><br/>tanım: şerefsizliktir.
 - entry_name: |
     google street view'daki inanılmaz görüntü
   entry_id:  71103695
   entry_writer: fsm in the sky
-  entry_fav_count: 253
+  entry_fav_count: 255
   entry_content: |
     muhtemelen köprü onarımında görev yapan bir işçinin street view tarafından çekilmiş görüntüsü.<br/><br/>hemen alt tarafında duran boru benzeri aletlerden de anlaşılıyor.<br/><br/>edit: ayrıca bir insanın oradan atlayıp ölmeye çalışması da hem komik, hem de ihtimal dışı.
 - entry_name: |
     game of thrones'tan daha iyisini yapabiliriz
   entry_id:  71096805
   entry_writer: forrestgump
-  entry_fav_count: 246
+  entry_fav_count: 247
   entry_content: |
     trt'de yayınlanan <a class="b" href="/?q=dirili%c5%9f+ertu%c4%9frul">diriliş ertuğrul</a>'un yapımcısı ve senaristi mehmet bozdağ'ın sözü...<br/><br/>onlar 45 dakika dizi çekiyorlarmış, mehmet başkan da 45 dakikalık dizi çekebilseymiş game of thrones'tan, vikings'ten daha iyi dizi çekermiş. ayrıca diriliş ertuğrul'u dünya'da 1,5 milyar kişi izliyormuş. bu bilgi bence yanlış, en az 9-10 milyar kişi izliyordur.<br/><br/>(bkz: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.posta.com.tr/mehmet-bozdag-game-of-thrones-tan-daha-iyi-projeler-cikaracak-gucumuz-var-haberi-1337488" title="http://www.posta.com.tr/mehmet-bozdag-game-of-thrones-tan-daha-iyi-projeler-cikaracak-gucumuz-var-haberi-1337488">http://www.posta.com.tr/…gucumuz-var-haberi-1337488</a>)
+- entry_name: |
+    erkekte şık duran davranışlar
+  entry_id:  71099284
+  entry_writer: domates yiyom
+  entry_fav_count: 208
+  entry_content: |
+    davranış olarak saat ve ayakkabı yazanları görmemizi sağlamıştır.
 - entry_name: |
     32 milyon dolar verseler domuz eti yer misin
   entry_id:  71092535
   entry_writer: ancuez
-  entry_fav_count: 191
+  entry_fav_count: 195
   entry_content: |
     32 milyon dolara kendi etimi yemeyi dusunurum. domuz eti de neymi
 - entry_name: |
     ak parti kaybederse türkiye kaybeder
   entry_id:  71100681
   entry_writer: balikci filozof
-  entry_fav_count: 155
+  entry_fav_count: 159
   entry_content: |
     her yeri sarıp sarmaladık, kaybedersek pisliği temizlemek zor olacak haberiniz olsun demek olabilir.
 - entry_name: |
     çarpıştığı kadını tek yumrukta deviren öküz
   entry_id:  71103311
   entry_writer: benim neyim eksik
-  entry_fav_count: 144
+  entry_fav_count: 145
   entry_content: |
     tweetin altında gerizekalılara ait onlarca yorum olan olay. neymiş “şortlu olsaymış türkiye ayağa kalkarmış”, ulan gerizekalılar anlayamadınız gitti. mesele kadının şortlu olması değil şortlu olduğu için saldırıya uğraması ki saldırgan da zaten ifadesinde bunu kabul ediyor.<br/><br/>buradaki başörtülü kadına başörtülü diye saldırıldığına dair bir ipucu var mı?
 - entry_name: |
     savunma sanayisi için ek kaynağa ihtiyacımız var
   entry_id:  71101769
   entry_writer: voltranin sag kolu
-  entry_fav_count: 134
+  entry_fav_count: 141
   entry_content: |
     cb kışlık saraydan ve lüks merakından vazgeçerse gerek kalmayacak olan ek kaynaktır. <br/><br/>bütçesini 8 ayda bitirmiş, diyanete para üstüne para vermiş, dünya kadar uçak almış şimdi mi aklına gelmiş ek bütçe?<br/><br/>allah korusun biz savaşa mavaşa giremeyiz. ne üretim kaldı, ne tarım, ne hayvancılık. 15 yılda her konuda dışa bağımlı hale geldik. hadi %40 ı savunma için yaptın. peki ne yiyip içecek bu millet? onlar için hangi vergileri getireceksin?<br/><br/>akp iktidarı çöküyor ama ülkeyi de beraberinde götürüyor. yıllar önce milli varlıklarımız satılırken bugünlerin geleceğini söylediğimizde bizi savaş çığrtkanlığıyla suçlayanlar şimdi kıçınıza kına yakın. <br/><br/>ya da artık şu yanlışlarınızdan vazgeçin.
 - entry_name: |
     lady gaga'nın metallica'ya katılması
   entry_id:  71093187
   entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 103
+  entry_fav_count: 104
   entry_content: |
     (bkz: <a class="b" href="/?q=metalligaga">metalligaga</a>)<br/><br/>pek yaratıcı olmadı evet.
-- entry_name: |
-    30 eylül 2017 galatasaray karabükspor maçı
-  entry_id:  71106860
-  entry_writer: ssekk
-  entry_fav_count: 93
-  entry_content: |
-    negredo'nun 35 gol atmasına sadece 35 gol kalmışken stoper maicon 3 gol attı. <br/><br/>iyi akşamlar.
 - entry_name: |
     30 eylül 2017 yeni zam paketinin açıklanması
   entry_id:  71101780
   entry_writer: oziwankenozi
-  entry_fav_count: 90
+  entry_fav_count: 91
   entry_content: |
     yüksek verginin ekonomik durgunluğa neden olacağını bilmeyen ya da bilip de çaresizlikten saçmalamak zorunda kalan organize cehalet örgütü'nün işlediği yeni suç.<br/><br/>yargılanacaksınız...
 - entry_name: |
     bedava gibi görünüp aslında paralı olan şeyler
   entry_id:  71099209
   entry_writer: oxeyedhera
-  entry_fav_count: 84
+  entry_fav_count: 88
   entry_content: |
     insanların bedava sandığı ya da maliyetini başkalarının karşıladığı sanılan şeylerdir. <br/><br/>(bkz: <a class="b" href="/?q=devlet+hastanelerinde+muayene+olmak">devlet hastanelerinde muayene olmak</a>)<br/>(bkz: <a class="b" href="/?q=cenaze+i%c5%9flemleri">cenaze işlemleri</a>)<br/>(bkz: <a class="b" href="/?q=sevgili+ile+sevi%c5%9fmek">sevgili ile sevişmek</a>)<br/>(bkz: <a class="b" href="/?q=kredi+kart%c4%b1+kullanmak">kredi kartı kullanmak</a>)
+- entry_name: |
+    30 eylül 2017 milli takım aday kadrosu
+  entry_id:  71098799
+  entry_writer: fayfim
+  entry_fav_count: 79
+  entry_content: |
+    bir trabzonsporlu olarak volkan şeni şu kadroya layık görenlerin tümünün amk.
+- entry_name: |
+    30 eylül 2017 galatasaray karabükspor maçı
+  entry_id:  71107158
+  entry_writer: od2111
+  entry_fav_count: 76
+  entry_content: |
+    galatasaray’ın 3-2 kazanarak fenerbahçe ile olan puan farkını beşiktaş’a çıkardığı maç <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     kedisiz sokaklar istiyoruz
   entry_id:  71092373
@@ -104,16 +118,23 @@ data:
     kibar insanların kullandığı küfürler
   entry_id:  71100527
   entry_writer: misafirhavlusu
-  entry_fav_count: 65
+  entry_fav_count: 67
   entry_content: |
     <a class="b" href="/?q=%c3%a7aps%c4%b1z">çapsız</a>
 - entry_name: |
     rıdvan dilmen
   entry_id:  71092680
   entry_writer: leitmotif
-  entry_fav_count: 64
+  entry_fav_count: 65
   entry_content: |
     5-6 sene önce izleniyordu. mümkün olduğunca tarafsız olmaya da çalışıyordu. tabi o zamanlar fenerin iyi zamanları olduğundan tarafını belli etmeden yaşayabiliyordu, herkes tarafını biliyor olsa da.<br/>ama artık hem yorumları fanatiklik kokuyor hem de iktidar yalayıcısı olmuş durumda. bazen güntekin için programı seyrediyordum ama artık yüzüne bakmıyorum. benim gibi düşünen milyonlar olduğundan da eminim.
+- entry_name: |
+    android kullananların power bank taşıması
+  entry_id:  71107801
+  entry_writer: tum haklari saklidir
+  entry_fav_count: 62
+  entry_content: |
+    belki "korkmadan" <a class="b" href="/?q=telefon">telefon</a> kullandıkları için şarjları bitiyordur.
 - entry_name: |
     ülkü ocakları başkanının kalaşnikoflu paylaşımı
   entry_id:  71104326
@@ -125,98 +146,84 @@ data:
     maicon pereira roque
   entry_id:  71105221
   entry_writer: zirrealist
-  entry_fav_count: 46
+  entry_fav_count: 52
   entry_content: |
     az önce attığı golü atsa atsa hakan şükür atabilirdi. o nasıl vuruş babacım ya. hahaha.<br/><br/>edit: attığı ikinci gol ağlak şeref yoksunlarına, hakemlerle maç kazananlara, karakter satan karaktersizlere girsin.<br/><br/>galatasaray adamın amına koyar.
 - entry_name: |
     emrah serbes
   entry_id:  71093713
   entry_writer: fakirpislik06
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     sonuna t konularak menemen <a class="b" href="/?q=t+tipi">t tipi</a> cezaevine <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3pabvj.jpg" title="https://i.hizliresim.com/3pabvj.jpg">nakledilen</a> kişi.<br/><br/>adamın öyle sonuna koyarlar işte emrah.
 - entry_name: |
-    bafetimbi gomis
-  entry_id:  71107187
-  entry_writer: siyahbeyaznegatif
-  entry_fav_count: 37
+    cumartesi gecesi evde oturan ezik ve yalnız insan
+  entry_id:  71106449
+  entry_writer: desade
+  entry_fav_count: 40
   entry_content: |
-    <a class="b" href="/?q=30+eyl%c3%bcl+2017+galatasaray+karab%c3%bckspor+ma%c3%a7%c4%b1">30 eylül 2017 galatasaray karabükspor maçı</a>nda son golden önceki pozisyonda ceza alanında dört rakip defans oyuncusunun arasında kendini yere bıraksa penaltı. orada ayakta kalıp mücadeleyi sürdürmesi ne kadar iyi niyetli ve temiz bir futbolcu olduğunu göstermiştir. <br/><br/>yürüyedur <a class="b" href="/?q=predator">predator</a>
-- entry_name: |
-    android kullananların power bank taşıması
-  entry_id:  71107801
-  entry_writer: tum haklari saklidir
-  entry_fav_count: 37
-  entry_content: |
-    belki "korkmadan" <a class="b" href="/?q=telefon">telefon</a> kullandıkları için şarjları bitiyordur.
+    evde her şeyi olan insandır<sup class="ab"><a title="(bkz: çok şükür)" href="/?q=%c3%a7ok+%c5%9f%c3%bck%c3%bcr" data-query="çok şükür">*</a></sup><br/><br/>dışarıya sosyalleşmek için çıkılır ve bu coğrafyanın beyin özürlü spastik insanlarıyla sosyalleşmek mümkün değildir. kızları desen kezban, erkekleri desen gay mı lan acaba diye kafasında deli sorular. şimdi geriye arkadaşlarla dışarıya çıkmak kalıyor, eh gelsinler bizde oturalım veya onlarda madem. sonuç olarak dışarıda kimseyle tanışamıyorsun ve asıl amacını ıskalıyorsun. bütün bu aksilikler ve olumsuzluklar varken niye bir bardak biraya 15 lira vergi ödeyeyim, mal mıyım ben.
 - entry_name: |
     younes belhanda
   entry_id:  71106315
   entry_writer: crowley
-  entry_fav_count: 35
+  entry_fav_count: 39
   entry_content: |
     burdaki ergenlere bakmayın, adam sürekli top kapıyor, ara pası veriyor. defansif yönü daha kuvvetli ve kritik yerlerde top kapıyor. mücadele gücü de yüksek. laubali evet katılıyorum ama etkili
+- entry_name: |
+    bafetimbi gomis
+  entry_id:  71107187
+  entry_writer: siyahbeyaznegatif
+  entry_fav_count: 38
+  entry_content: |
+    <a class="b" href="/?q=30+eyl%c3%bcl+2017+galatasaray+karab%c3%bckspor+ma%c3%a7%c4%b1">30 eylül 2017 galatasaray karabükspor maçı</a>nda son golden önceki pozisyonda ceza alanında dört rakip defans oyuncusunun arasında kendini yere bıraksa penaltı. orada ayakta kalıp mücadeleyi sürdürmesi ne kadar iyi niyetli ve temiz bir futbolcu olduğunu göstermiştir. <br/><br/>yürüyedur <a class="b" href="/?q=predator">predator</a>
 - entry_name: |
     fenerbahçe
   entry_id:  71093136
   entry_writer: samseyin
-  entry_fav_count: 35
+  entry_fav_count: 36
   entry_content: |
     ligde kazandigi 3 macin 2sinde rakip 9 kisi kalmis ve bu 3 macta toplam 4 penalti kullanmis takim.
+- entry_name: |
+    tankın egzosuna tıkılan tişört inovasyon örneğidir
+  entry_id:  71108349
+  entry_writer: passion rules the game
+  entry_fav_count: 34
+  entry_content: |
+    bence asıl inovasyon buna inanabilecek bir kişinin bir ülkenin bakanı olabilmesidir.<br/><br/>beynim aktı yemin ediyorum.<br/><br/>“the effects of tshirt stuffing on tanks with internal combustion engines: findings from empirical evidence” (kaya, 2017)
 - entry_name: |
     meral akşener
   entry_id:  71100120
   entry_writer: kafana bi bak
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     25 ekim'de partisinin açılışının yapılacağı otel anlaşmayı iptal etmiştir.<br/>(kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/meral_aksener/status/914075093885767680" title="https://twitter.com/meral_aksener/status/914075093885767680">https://twitter.com/…ener/status/914075093885767680</a> )<br/><br/>işte bunlar hep "son yılların balonu" olmasından kaynaklanıyor değil mi gerizekalı aktroller? yani göt korkusuyla falan hiç alakası yok?<br/><br/>ne yaparsanız yapın korkunun ecele faydası yok. o açılış gerekirse sokakta yapılır, gerekirse meydanda, gerekirse tarlada.. atatürk'ün de dediği gibi: türk milletini ayağa kaldırmak çok zordur. ancak bu millet ayağa kalkınca onu durdurmak daha da zordur. bu millet ayağa kalktı artık.
-- entry_name: |
-    güzel kızların genellikle kabız olması
-  entry_id:  71105299
-  entry_writer: sfd
-  entry_fav_count: 31
-  entry_content: |
-    kore savaşı ile talas savaşı arasında bağlantı kurmuş adamım; böyle bağlantı kurma görmedim. <br/><br/>saygı duyduğum tespit...
-- entry_name: |
-    cumartesi gecesi evde oturan ezik ve yalnız insan
-  entry_id:  71106113
-  entry_writer: butterflytruelove
-  entry_fav_count: 31
-  entry_content: |
-    bütün hafta bu muhteşem ve kutsal geceyi bekliyorum. iyi ki ezik ve yalnızım benden mutlusu yok.
 - entry_name: |
     29 eylül 2017 alper potuk'un gördüğü kırmızı kart
   entry_id:  71094816
   entry_writer: seylann
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     o anı buraya koyuyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nJg8z1.png">https://i.hizliresim.com/njg8z1.png</a><br/><br/>beyazlı futbolcunun ayağına havalardan uçarak öyle sert bir darbe geliyor ki, inanın bu kareyi yakalamakta hayli zorlandım. görüntüyü sadece 1 salise oynattığımda ise aldığı şiddet yüzünden ayak resmen meridyen değiştiriyordu. çok net bir kırmızı kart. tek kelime ile muhteşem bir hakem kararı olmuş. her kimse kendisini kutlarım.
 - entry_name: |
     beşiktaş
   entry_id:  71101589
   entry_writer: neither living nor dead
-  entry_fav_count: 24
+  entry_fav_count: 25
   entry_content: |
     sıfır çekmek ya da gruplarda rekor gol yiyip dönmek yerine bir maç kötüyü yaşar döneriz sizlere sokup çıkarıp yine donanmayı denize süreriz. bir gün gelir bir bakarız ki o maçta kötüyü yaşatmışız. o yüzden sabırlı olup size vurmaya devam ettiğimiz müddetçe sorun yok koçum.<br/><br/>vurmaya devam etmeli.
 - entry_name: |
-    galatasaray
-  entry_id:  71107185
-  entry_writer: mangon
-  entry_fav_count: 22
+    30 eylül 2017 galatasaray aleyhine verilen penaltı
+  entry_id:  71107018
+  entry_writer: sittirevalli
+  entry_fav_count: 23
   entry_content: |
-    malum takımlar gibi puan kaybedip hakemler diye ağlamaz galatasaray. hiç polemiğe girmez. hakemi ve rakip takımı üst üste koyup öyle yener.
-- entry_name: |
-    hastası olunan sözler
-  entry_id:  71094491
-  entry_writer: olsunnapalim
-  entry_fav_count: 21
-  entry_content: |
-    kaç yaşında olursan ol, uyuyunca geçecekmiş gibi gelecek. kaç yaşında olursan ol, uyuyunca geçmeyecek.<br/><br/>cesare pavese
+    tff ve bjk ikisi birden nasıl yenilir gösterdik!<br/>uğraşma tüpçü başka kapıya!<br/>en kötüsünü bidaha ki maça yollayın!
 - entry_name: |
     ekşi itiraf
   entry_id:  71092316
   entry_writer: she lives in magic
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     bazen ‘kırıldım’ diyemiyorsun, ‘yorgunum’ diyorsun ve uyuyorsun.”
 - entry_name: |
@@ -227,12 +234,26 @@ data:
   entry_content: |
     bir tek istisna hariç dünya üzerindeki herhangi 2 nokta arasındaki mesafeyi 1 saatin altına indirebilir.<br/><br/>o istisna da köprü geçişidir.<br/><br/>new york - tokyo arasını 1 saate indirmek kolay iş musk efendi.<br/>kolaysa gel de gayrettepe - ümraniye arasını 1 saate indir akşam trafiğinde!<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
-    30 eylül 2017 galatasaray aleyhine verilen penaltı
-  entry_id:  71107018
-  entry_writer: sittirevalli
+    kız arkadaşın aileyi beğenmeyip ayrılması
+  entry_id:  71106819
+  entry_writer: alpino
+  entry_fav_count: 19
+  entry_content: |
+    akıllı kızmış helal olsun. <br/><br/>aynısı 7 sene önce benim de başıma geldi. o zamanlar saflık var tabi. sevgili kişisi gayet çağdaş, zeki , koskoca uzman doktor.!! ailesi köylü olsa ne olacak ki? <br/><br/>2 sene sonra kayınvalidenin tribi ;<br/><br/>herkesin gelini kiraz toplamaya geliyor bizim gelin niye gelmiyor??<br/><br/>sonrası ;<br/><br/>4 seneye kalmadan boşanma.<br/><br/>herkes kendi kültüründen ve düşünce yapısından kişilerle evlenmeli.
+- entry_name: |
+    galatasaray
+  entry_id:  71107037
+  entry_writer: ivankaramazov
   entry_fav_count: 18
   entry_content: |
-    tff ve bjk ikisi birden nasıl yenilir gösterdik ? uğraşma tüpçü başka kapıya!!!en kötüsünü bidaha ki maça yollayın!!
+    sadece karabuk'u degil besiktas'in hakemlerini de yenmiş takımim.
+- entry_name: |
+    gelmiş geçmiş en güzel duvar yazısı
+  entry_id:  71100774
+  entry_writer: unutulan replik
+  entry_fav_count: 14
+  entry_content: |
+    en güzel direniş kalbi temiz tutmaktır<a rel="nofollow noopener" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/originals/0e/86/14/0e86143f35c6993e037ddf79b9a30b61.jpg" title="https://s-media-cache-ak0.pinimg.com/originals/0e/86/14/0e86143f35c6993e037ddf79b9a30b61.jpg">.</a>
 - entry_name: |
     manuel vites arabaların yasaklanması
   entry_id:  71101872
@@ -248,13 +269,6 @@ data:
   entry_content: |
     kısa saç denirken subay tıraşı kastedilmiyor amk malları. normalden kısa saç orada bahsedilen.<br/><br/>biri de yazmış domalınca erkek sikmiş gibi olursun, diye. senin partnerinde erkek götü varsa bence domaltmadan kontrol et birader. "sıra bende!" deyiverir mazallah.<br/><br/>tanım: olabilen çekicilik.
 - entry_name: |
-    gelmiş geçmiş en güzel duvar yazısı
-  entry_id:  71100774
-  entry_writer: unutulan replik
-  entry_fav_count: 12
-  entry_content: |
-    en güzel direniş kalbi temiz tutmaktır<a rel="nofollow noopener" class="url" target="_blank" href="https://s-media-cache-ak0.pinimg.com/originals/0e/86/14/0e86143f35c6993e037ddf79b9a30b61.jpg" title="https://s-media-cache-ak0.pinimg.com/originals/0e/86/14/0e86143f35c6993e037ddf79b9a30b61.jpg">.</a>
-- entry_name: |
     düşün ki o bunu okuyor
   entry_id:  71095926
   entry_writer: kendimikendimdencikarsam0kalmaz
@@ -262,19 +276,12 @@ data:
   entry_content: |
     sen ölünce sadece senin değil, diğer bütün canlıların da yaşamı bitti sandım.<br/>ama<br/>bahçenin çimleri sen olmayınca da büyüdü. kaç defa biçmek zorunda kaldık. halbuki artık büyümezler sanmıştım.<br/>üstüne kar yağdı bir de. kardan heykeller yaptık. yapamayız sanmıştım.<br/>koca bi düğün geçti bu evden. insanlar geldi, yedi içti eğlendi. hiç tanışamadığın bi gelinin oldu. niyeyse ben evlenmezler sanmıştım.<br/>izlediğin dizilerin yeni bölümleri çıktı senden sonra, devam etmezler sanmıştım.<br/>evi onlarca kez daha süpürdük, halbuki o günden sonra hiç kirlenmeyecek sanmıştım.<br/><br/>sen yaşamıyosan benim de yaşamayı reddetme hakkım varmış gibi soyutladım kendimi dış dünyadan, insanlardan, arkadaşlarımdan ve eve kapandım. başımı kuma gömersem kimse beni burada göremez ve yavaş yavaş ölürüm sandım. <br/><br/>galiba yakalandım. yaşamaya devam etmem için zorluyorlar beni. iş bul, arkadaş edin, hobilerine devam et, diyorlar. inatla direniyorum. yeni bi hayat istemiyorum. ben bu kadar yaşamayı planlamamıştım. hiç hesapta yokken maç penaltılara uzamış gibi. yiyeceğim kaç tane kaldıysa golümü yesem de bitse de gitsek artık.
 - entry_name: |
-    kız arkadaşın aileyi beğenmeyip ayrılması
-  entry_id:  71105662
-  entry_writer: nikini vermek istemeyen bir izleyici
-  entry_fav_count: 10
-  entry_content: |
-    üzücü olsa da iki taraf için ailelere bağlılık sözkonusu ise yani ailenin kararlarına önem veriliyorsa en baştan yapılmasının doğru olduğu durumdur. <br/><br/>gerçekten de öyledir, evlenince sadece o kişiler değil iki tarafın da sülalesi evlenir ve evlilikte huzur kaçırıcı diyaloglar oluşmaya başlar. aşıkken gözgözü görmez ama evlenip cicim ayları geçince gerçekler de ufak ufak ortaya çıkmaya başlar. evlilik bir uyum işi, ha zıt karakterler de çok güzel evlilikler yaparlar ama işte burada yukarıda bahsettiğim ailenin önceliklerde nereye koyulduğudur.<br/><br/>aile vardır, çocuklarının kiminle hayatını kuracağına asla karışmaz, gölge gibidir. aile vardır kızın/oğlun evinden çıkmaz ve her şeye dâhil olmak ister. mırç mırç ilişkilerin yaşandığı ailelerde birbirinden hazzetmeyen tarafların birbirine laf sokmaması, saygı sevgi içinde işi götürmesi imkansız. <br/><br/>en fazla söylenmez, biriktirilir ve patlar.
-- entry_name: |
     kenan sofuoğlu
-  entry_id:  71108005
-  entry_writer: feysbuktaki komik yorum
-  entry_fav_count: 9
+  entry_id:  71108615
+  entry_writer: sahanda sucuklu paskalya yumurtasi
+  entry_fav_count: 11
   entry_content: |
-    (bkz: <a class="b" href="/?q=bu+aileden+kimse+kald%c4%b1+m%c4%b1+ya">bu aileden kimse kaldı mı ya</a>)
+    kaza falan geçirmişse, devletin bütün imkanları seferber edilip özel ambulans uçakla anavatanına getirilmeli. herkes üzerine titremeli. dışişleri ve sağlık bakanlığı üzerlerine düşeni yapmalı.<br/><br/>sonuçta bilim insanı veya gazeteci değil adam, reyizci bir motozikletçiden bahsediyoruz burada!
 - entry_name: |
     fifa 18
   entry_id:  71098463
@@ -283,12 +290,19 @@ data:
   entry_content: |
     nerede o eski santralar diyenler için santra kısmında l2'ye basılı tutarsaniz ikinci oyuncu yanınıza geliyor ve klasik şekilde santra yapabiliyorsunuz. bilmeyenler vardır belki, iyi santralar!
 - entry_name: |
-    hahahahahahahahahaha
-  entry_id:  71107227
-  entry_writer: siradan cinko karbon pil
-  entry_fav_count: 5
+    sigara cüzdan ve anahtarı nereye bırakacağız
+  entry_id:  71107727
+  entry_writer: 25799
+  entry_fav_count: 4
   entry_content: |
-    heyecanlandın bir an itiraf et. <br/><br/>ahahahahahahahahaahahah.
+    sigarayı çorabının içine koyup, anahtar için pantolonun kemer kısmına halka taktıracaksın. cuzdan için de sütyen kullanıp, sütyenin içine koydun muydu; sıkıntı kalmaz.
+- entry_name: |
+    geceye bir şiir bırak
+  entry_id:  71095007
+  entry_writer: elektroallah
+  entry_fav_count: 4
+  entry_content: |
+    gibiydim hep<br/>buldum sandım<br/>koşmak istedim<br/>nereye bilemedim
 - entry_name: |
     vega
   entry_id:  71099072
@@ -297,33 +311,12 @@ data:
   entry_content: |
     son albümlerini çıkardıklarında üniversiteden yeni mezun olmuştum ve eski sevgilimle yeniden barışmıştık. garip bir gençlik aymazlığı vardı üstümde. aradan geçen zamanda bir sürü işe girdim çıktım. dostlar kaybettim, bazıları ülkeden taşındı, en sevdiğim öldü. patron kahrı çektim. yeni bir meslek edindim, barıştığım adamla evlendim. şimdi 1,5 yaşında oğlum var. <br/><br/>dün dinleyince bir tuhaf hissettim kendimi. aynısı bir de <a class="b" href="/?q=charlotte+sometimes">charlotte sometimes</a>'ı dinlerken oluşuyor. gençlikle yetişkinlik arasındaki mesafenin ne kadar hızlı koşulduğu hissi. kısacası bunları yaşarken hep fon müziği olarak yer almışlar aslında kulağımda. bu kadar özletmesinler kendilerini. hayatımızın onlara ihtiyacı var.
 - entry_name: |
-    tankın egzosuna tıkılan tişört inovasyon örneğidir
-  entry_id:  71108544
-  entry_writer: mc43
-  entry_fav_count: 3
-  entry_content: |
-    bunu söyleyen burslu bilkent elektrik elektronik mezunu. hatta sonra cerrahpaşa da tıp bitirmiş. <br/><br/>aslında çok donanımlı çok zeki bir insan. ama ufak bir nüans herşeyi alıp götürüyor. yandaşlık adı.<br/><br/>ülkemizde verilen eğitimde bir eksiklik var. tamam belki çok iyi mühendislerimiz ve doktorlarımız var ama birşeyler eksik hep.
-- entry_name: |
-    geceye bir şiir bırak
-  entry_id:  71095007
-  entry_writer: elektroallah
-  entry_fav_count: 3
-  entry_content: |
-    gibiydim hep<br/>buldum sandım<br/>koşmak istedim<br/>nereye bilemedim
-- entry_name: |
-    apple airpods
-  entry_id:  71105144
-  entry_writer: dostmahallenizinkocaoglani
+    aspava lokantası motorcusunun kedi yakması
+  entry_id:  71108786
+  entry_writer: tucoramires
   entry_fav_count: 2
   entry_content: |
-    ısınan kulaklık mı olur ameke?
-- entry_name: |
-    sigara cüzdan ve anahtarı nereye bırakacağız
-  entry_id:  71107727
-  entry_writer: 25799
-  entry_fav_count: 1
-  entry_content: |
-    sigarayı çorabının içine koyup, anahtar için pantolonun kemer kısmına halka taktıracaksın. cuzdan için de sütyen kullanıp, sütyenin içine koydun muydu; sıkıntı kalmaz.
+    aspava açılımı: allah sağlık para afiyet versin amin<br/><br/>bundan sonra: allah belanızı versin amin
 - entry_name: |
     ege bölgesinde yaşanacak en güzel sahil kasabası
   entry_id:  71107176
@@ -345,6 +338,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     telefonla aradığımda telefonu açan anneannemin kendimi tanıttıktan sonra "anlat" demesini hiç unutamam mezara kendisini koyan 3 kişiden biri bendim büyümüştüm o zaman falan neyse işte hayat...
+- entry_name: |
+    apple airpods
+  entry_id:  71100714
+  entry_writer: masa penisi
+  entry_fav_count: 0
+  entry_content: |
+    ses kalitesinin muadili kablolu kulaklıklardan daha iyi olmasının allah katında bile mümkün olmadığı hede. nedeni ise bluetooth kullanması, bluetooth kullanan hiç bir kulaklığın sesi kablolu muadillerinden daha iyi olamaz.
 - entry_name: |
     30 yaşındaki adamın 20 yaşındaki kızla çıkması
   entry_id:  71108039
