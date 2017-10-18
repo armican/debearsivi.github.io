@@ -6,65 +6,72 @@ data:
     d harfini yazamayan öğrencisini döven öğretmen
   entry_id:  71459563
   entry_writer: yan komsunun wireless sifresi
-  entry_fav_count: 786
+  entry_fav_count: 808
   entry_content: |
     sevmiyorsan, beceremiyorsan yapmayacaksın. bu kadar basit. <br/>6-7 yaşındaki çocukla uğraşamıyorsan yapmayacaksın bu mesleği. <br/><br/>vurduğu çocuğun anne ve babası muhtemelen:<br/>-hakim, savcı yada polis değildir.<br/>-doktor değildir.<br/>-öğretmen değildir. <br/>-zengin değildir(zenginin devlet okulunda ne işi var gerçi.)<br/>yoksa götü yemez vurmaya.
 - entry_name: |
     boğaziçi'nde yemek fiyatlarının yüzde 60 artması
   entry_id:  71459360
   entry_writer: anani siken kadi
-  entry_fav_count: 761
+  entry_fav_count: 775
   entry_content: |
     eğer bugün öğrenciye verilen yemek 15-20 lira değilse, zamanında 1.5 lira da para mı lan demeyip tepki gösteren öğrenciler sayesindedir.<br/><br/>bugün 2.5 lira para mı denir.<br/>yarın 5 lira olur, o da para değildir.<br/>öbür sene 7.5 lira olur, olsun gene de dışarıdan ucuzdur.<br/>diğer sene 10 lira olur, dışarıda da 10 liralık yemek satan yerler vardır ama ne idüğü belli değildir.<br/>diğer sene 15 lira olur, 15 lirası olmayana adam mı denir denir.<br/>öteki sene 25 lira olur beğenmeyen yemesin denir.<br/><br/>ucunu sokturursan kökünü de sokarlar hacu, en baştan hiç sokturmamak lazım.
 - entry_name: |
     rte'nin baykal için yurtdışından doktor getirmesi
   entry_id:  71456062
   entry_writer: sarabi eskiya
-  entry_fav_count: 394
+  entry_fav_count: 396
   entry_content: |
     vefalı adamdır sayın cumhurbaşkanı. <br/><br/>siyasi kariyerinde önemli katkıları vardır deniz baykal'ın. ne zaman başı sıkışsa her zaman imdadına yetişmiştir.
 - entry_name: |
     vücuda saplanan oku kırınca gelen rahatlama
   entry_id:  71462166
   entry_writer: epistemofili
-  entry_fav_count: 328
+  entry_fav_count: 336
   entry_content: |
     inanılmaz bir olay. yapanları görünce ne alakası var der, dalga geçerdim. geçen kendi başıma gelince deneyeyim dedim, hala etkisini üzerimden atabilmiş değilim. böyle bir rahatlama olamaz. sanki o ok oraya hiç girmemiş gibi, çok enteresan!<br/><br/>edit: gerçekten okçuyum (bkz: <a class="b" href="/entry/40886670">#40886670</a>)
 - entry_name: |
     iphone'da video kaydı duraklatma özelliği olmaması
   entry_id:  71460868
   entry_writer: nutellali balik ekmek
-  entry_fav_count: 211
+  entry_fav_count: 220
   entry_content: |
     iphone 11'in bütün sırrını bozdun ama yaa :(
 - entry_name: |
     r.madrid b.münih juve'li torbadan monaco çekmek
   entry_id:  71461499
   entry_writer: templarist
-  entry_fav_count: 195
+  entry_fav_count: 197
   entry_content: |
     o kadar takım arasından geçen senenin yarı finalistini çekmek diye de tabir edilebilen durumdur.
 - entry_name: |
     bahşiş vermenin aptalca bir hareket olması
   entry_id:  71465477
   entry_writer: kissofh3ll
-  entry_fav_count: 182
+  entry_fav_count: 186
   entry_content: |
     (bkz: <a class="b" href="/?q=ders+sonunda+profes%c3%b6r%c3%bcn+cebine+5+tl+s%c4%b1k%c4%b1%c5%9ft%c4%b1rmak">ders sonunda profesörün cebine 5 tl sıkıştırmak</a>)
+- entry_name: |
+    hafızadan sildirmek istenen gereksiz bilgiler
+  entry_id:  71446149
+  entry_writer: soguk iklimin sicak insani
+  entry_fav_count: 176
+  entry_content: |
+    (bkz: <a class="b" href="/?q=1s2+2s2+2p6+3s2+3p6+4s2+3d10+4p6+5s2">1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2</a>)
 - entry_name: |
     türkçülük yapmak bölücülüktür
   entry_id:  71462912
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 155
+  entry_fav_count: 160
   entry_content: |
     tayyip erdoğan ırk asabiyesi yerine din asabiyesine inanır. ideolojisi ona göre şekillenmiştir.<br/>ibni halduncu bir bakış açısı vardır ve toplumları birbirine bağlayan en güçlü bağın, ırk, demokrasi vs yerine din olduğuna inanır. <br/>kendisi bunu defalarca ifade etmiştir. <br/>en meşhur ifadesini <a class="b" href="/?q=t%c3%bcm+milliyet%c3%a7ilikleri+ayaklar+alt%c4%b1na+ald%c4%b1k">tüm milliyetçilikleri ayaklar altına aldık</a> diyerek net bir şekilde söylemiştir.<br/>din derken bütün islam alemi buna dahil değildir. tayyip erdoğanın sünni islam anlayışıyla sınırlıdır bu. <br/>bunu biraz daha sınırlara hapsetmek isterim ama bırakalım da bunu türk islam sentezciler, türkçüler ve diğerleri düşünsün. akepeye oy veren milliyetçiler düşünsün. <br/><br/>rte'nin gizli ajandası değildir bu. şaşırmanız gereksiz.
 - entry_name: |
-    para mutluluk getirir mi
-  entry_id:  71463110
-  entry_writer: tarkanbenimleevlen
-  entry_fav_count: 152
+    e-sigaranın dumanlı sigaradan hiçbir farkı yok
+  entry_id:  71455782
+  entry_writer: sentenza
+  entry_fav_count: 151
   entry_content: |
-    bir gün, çok sevdiğim biri bana "sence para mutluluk getirir mi?" diye sormuştu. üzerine çok düşünmeden "yoooğ getirmez herhalde ya" dediğimde de, para zamanı satın alır, kazandığın vakitte de seni mutlu edecek her şeyi yapabilirsin, yani evet para mutluluk getirir demişti. haklıydı. <br/><br/>paranın mutluluk değil yıkım getireceği düşüncesine inanmak, ancak asla daha fazlasına sahip olamayacakların içini rahatlatabilir. <br/><br/>daha fazlasını istemek, hayal etmek akıllı insan işi.
+    az önce okuduğum haberde denk geldiğim <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/dumansiz-sigarada-geri-adim-40613986" title="http://www.hurriyet.com.tr/dumansiz-sigarada-geri-adim-40613986">ifade.</a> <br/><br/>bunu söyleyen de gazi üniversitesi tıp fakültesi dekanı prof. dr. sadık demirsoy beyefendi. acaba bir araştırma yapmış da sonucunu mu paylaşmış diye baktım, hayır. böyle dümdüz bir cümle sarf etmiş. <br/>isminin başına prof. dr. ünvanı alınca insanların "ha öyle mi, doğrudur" demesini bekleyen bir zihniyetin yansıması bu. <br/><br/>peki ben neden bu cümleye muhalifim? anlatayım.<br/><br/>son 1 haftadır e-sigara kullanıyorum. öncesinde günde 2 pakete yakın sigara içiyordum. son 1 haftada toplam 10 dal bile sigara içmedim. son 3 gündür tek dal içmedim. yaşadığım rahatlamanın tarifi imkansız. sanki göğsümde oturan öküze 7 kişi girmiş de kurban bayramında hiç etmiş gibi. yapacağım betimlemeyi sikeyim ama durum tam olarak bu. <br/><br/>sigara içerken ve e-sigara içerken yaptığım sporu kıyasladım. şu son bir haftada performansım resmen 3 katına çıktı. içimden rocky balboa fırlamış gibi amk. sigara resmen felç ediyordu performansı. e-sigara kullanarak sigara illetinden 1 haftadır uzağım ve bir daha sigara içersem cümle alem beni ...<br/>burayı muallak bırakıyorum, ne olur olmaz diye. ama iddialıyım.<br/><br/>şimdi soruyorum prof. dr. sadık demirsoy beyefendiye. sen mi biliyorsun yoksa ben mi? bizzat test edip onayladım. sen bu cümleyi neye dayanarak kurdun? hangi araştırmaya dayanarak bu cümleyi sarf edebiliyorsun? <br/><br/>mesela <a rel="nofollow noopener" class="url" target="_blank" href="http://www.dailymotion.com/video/x5f5g6t" title="http://www.dailymotion.com/video/x5f5g6t">şu belgeseli</a> izledim, yapılan araştırmaları gördüm. elin oğlu böyle iddialı bir cümle sarf etmeden önce kendini lablara kapatıyor da öyle konuşuyor. söyledikleri kısaca şu: e-sigaranın zararları kesinlikle sigaraya kıyaslanmayacak derecede daha az. sigarayı bıraktırmaya yardımcı oluyor. sigaranın yerine başka bir şey koyamadığınızda bırakması çok zor. <br/><br/>sadık demirsoy ne diyor? e-sigaranın normal sigaradan hiçbir farkı yok. kaynak ne?<br/><br/>hızını alamama editi: 20 yıldır günde 1 paketten az olmamak üzere sigara kullanıyordum. bu geçen 20 yılda sadece 1 defa sigarayı bırakmayı denedim, o da 1 gün sürdü. ben 3 gündür tek dal sigara içmediysem bunun tek sebebi e-sigara. evet, o da zararlı. ama sigara kadar zararlı olmadığını vücudumun verdiği tepkiler sayesinde anlayabiliyorum. <br/>ve araştırma yapmaya üşenip, kaynak göstermeden tvlere gazetelere beylik laflar eden akademisyenlere ciddi manada uyuz oluyorum.
 - entry_name: |
     kendini 23 yaşında sanan 33 yaşındaki kız
   entry_id:  71454420
@@ -90,65 +97,79 @@ data:
     çaylak onay listesi
   entry_id:  71446147
   entry_writer: baskaldiran adam
-  entry_fav_count: 95
+  entry_fav_count: 99
   entry_content: |
     2.5 sene sonra kurtulduğum liste. yarın fularımı almaya gidiyorum. sandalyeden düşme egzersizlerini zaten son 6 aydır yapıyordum o konuda tecrübeliyim diyebilirim. <br/><br/>nutella yerine peripella kullanırsam sorun olur mu bilen varsa yeşillendirsin.
-- entry_name: |
-    sevişmenin ortasında beni seviyor musun diyen kız
-  entry_id:  71466500
-  entry_writer: elvinlalaith
-  entry_fav_count: 85
-  entry_content: |
-    deneme sürümünüz bitti, ücretli sürüme geçin diyen uygulama gibidir. lütfen ücretli sürüme geçin (bkz: <a class="b" href="/?q=evlilik">evlilik</a>)
-- entry_name: |
-    tarihin en zayıf şampiyonlar ligi grubu
-  entry_id:  71454543
-  entry_writer: omiros
-  entry_fav_count: 79
-  entry_content: |
-    cluj ve braga’lı galatasaray grubu olabilir. galatasaray ilk 3 maçta 1 puan almıştı. sondan 1 önceki maçta gruptan çıkmayı garantileyen man utd’ın rezerv takımını kendi evinde 1-0 zor yenmişti. 17 yaşındaki nick powell'ı falan ilk 11'de oynamıştı ferguson. son maç öncesinde braga sonuncu olmayı garantilemişti. onlar da yedeklerle çıkınca galatasaray kazandı ve cluj ile aynı puanda olmasına rağmen, ikili averaj ile gruptan zar zor çıkmıştı.
-- entry_name: |
-    en güzel bira
-  entry_id:  71460880
-  entry_writer: most valuable player
-  entry_fav_count: 79
-  entry_content: |
-    (bkz: <a class="b" href="/?q=carlsberg">carlsberg</a>)
-- entry_name: |
-    umut sarıkaya
-  entry_id:  71458983
-  entry_writer: bedenci
-  entry_fav_count: 75
-  entry_content: |
-    naber dergisi üzerinden geyik yapmak için farklı zamanlarda iki öğretmen arkadaşıma " umut sarıkaya'yı biliyor musun ?" dedim. aldığım cevapları yazıyorum.<br/><br/>" şarkıcı di mi o ? "<br/>" hangi sınıfta o hocam ?"<br/><br/>8 b' de amk. ama bugün gelmedi dayısına zebra çarpmış.
-- entry_name: |
-    5 bin tl maaş alıp lcw'den giyinen erkek
-  entry_id:  71462155
-  entry_writer: gayim ama para bende
-  entry_fav_count: 72
-  entry_content: |
-    lcw dediğiniz firmada kazaklar 59.99, ile 89.99 tl arasında değişken fiyatlarda satılıyor.<br/><br/>artık oralardan bile alışveriş yapanlar iki kez düşünüyor.
-- entry_name: |
-    ekşi sözlük öğrencilerine bedava pizza almamız
-  entry_id:  71464462
-  entry_writer: marques de pombal
-  entry_fav_count: 69
-  entry_content: |
-    dün açtığım başlıkta (<a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/dominosun-yeni-pizzasinin-adini-sen-koy--5474720" title="https://eksisozluk.com/dominosun-yeni-pizzasinin-adini-sen-koy--5474720">https://eksisozluk.com/…inin-adini-sen-koy--5474720</a>) vermiş olduğum pizza siparişinin üzerine hem gülmüş, eğlenmiş hem de markaya eleştrilerimizi dile getirmiştik. açıkcası ben bu kadar dikkat çekeceğini de ummamıştım. baktım ki bu kadar dikkat çekiyor ve firma benimle iletişime geçmek istiyor, burada öğrenci arkadaşlara bütçesi dahilinde burs veren, sıkıntılarını bilen biri olarak bir talepte bulundum.<br/><br/>bu durumun üzerine dominos'tan özlem hanım tarafıma ulaştı. 10 yerine 20 öğrenci arkadaşımıza büyük boy pizza ve içecek temin edeceklerini söyledi.<br/><br/>bana ulaşan öğrenci arkadaşlar aşağıdaki gibi olup, görüldüğü üzre kota doldu.<br/><br/>ek not olarak; firmaya buradan gönderilecek pizzaları, ekşisözlük üyelerine göndereceğini tekrar hatırlatayım ki siparişe dikkat etsinler. :)<br/><br/>şimdiden öğrenci arkadaşlarımıza afiyet olsun.<br/><br/>başvuran ve firmaya bilgileri iletilen arkadaşlar:<br/><br/>1. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/meyve-parcacikli-kadin" title="https://eksisozluk.com/biri/meyve-parcacikli-kadin">meyve-parcacikli-kadin</a><br/>2. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/paldies" title="https://eksisozluk.com/biri/paldies">paldies</a><br/>3. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/orjinalpringles" title="https://eksisozluk.com/biri/orjinalpringles">orjinalpringles</a><br/>4. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/brkwashere" title="https://eksisozluk.com/biri/brkwashere">brkwashere</a><br/>5. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/feldherrnhalle" title="https://eksisozluk.com/biri/feldherrnhalle">feldherrnhalle</a><br/>6. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/felatunbey" title="https://eksisozluk.com/biri/felatunbey">felatunbey</a><br/>7. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/kanguruya-yumruk-atamayan-adam" title="https://eksisozluk.com/biri/kanguruya-yumruk-atamayan-adam">kanguruya yumruk atamayan adam</a><br/>8. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/solanumtuberosum" title="https://eksisozluk.com/biri/solanumtuberosum">solanumtuberosum</a><br/>9. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/lacioje" title="https://eksisozluk.com/biri/lacioje">lacioje</a><br/>10. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/trmert" title="https://eksisozluk.com/biri/trmert">trmert</a><br/>11. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/aat-bh" title="https://eksisozluk.com/biri/aat-bh">aat bh</a><br/>12. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/saturn-boy" title="https://eksisozluk.com/biri/saturn-boy">saturn boy</a><br/>13. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/theshining" title="https://eksisozluk.com/biri/theshining">theshining</a><br/>14. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/zaman-burusugu" title="https://eksisozluk.com/biri/zaman-burusugu">zaman burusugu</a><br/>15. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/chloe-price" title="https://eksisozluk.com/biri/chloe-price">chloe-price</a><br/>16. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/a133-fix" title="https://eksisozluk.com/biri/a133-fix">a133 fix</a><br/>17. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/partisol" title="https://eksisozluk.com/biri/partisol">partisol</a><br/>18. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/ferrarisini-satan-kovboy" title="https://eksisozluk.com/biri/ferrarisini-satan-kovboy">ferrarisini satan kovboy</a><br/>19. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/firered" title="https://eksisozluk.com/biri/firered">firered</a><br/>20. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/solaryumdaerekteolanadam" title="https://eksisozluk.com/biri/solaryumdaerekteolanadam">solaryumdaerekteolanadam</a><br/><br/>edit: bir arkadaş 19 ken kota doldu yazdığım için, birini kendime söylediğimi ima etmiş. onada açıkladım. buraya da yazayım kimsenin aklında kalmasın. arkadaşların nickleri yazarken (18 deydim sanırsam) başvuru 20 yi çoktan aşmıştı. (dakikada 4 mesaj attınız sağolasınız :) doldu diye editledim ki başka başvuru gelmesin diye. ne yazık ki ona rağmen 27 oldu. 7 arkadaşa üzülerek doldu dedim. aşkolsun yani.<br/><br/>edit2: burada 35 yaşında arkadaşlar var diyen olmuş. ben herkesden öğrenci kimliği istedim. hepside attı sağolsun. hani arada beni yiyen olmuşsa bilemem. umarım olmamıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/OyVy73.png" title="https://i.hizliresim.com/OyVy73.png">ayrıca afiyet olsun arkadaşlar.</a><br/><br/>edit3: dominos pizza şöyle yazmış: "gönderimlerin 18 i sağlanmış olup 2 kişiye ulaşılamadığından dolayı daha sonra iletişime geçilecektir. bilgilerinize sunarız."<br/><br/>beklediğimden çok daha iyi götürdüler süreci. kendilerine ben de ayrıca teşekkür ediyorum.
 - entry_name: |
     japonların ayda 50 km mağara bulması
   entry_id:  71471919
   entry_writer: thirtyeightthousandfeet
-  entry_fav_count: 65
+  entry_fav_count: 93
   entry_content: |
-    ayda 50 km magara buluyorlarsa, yilda 600 km magara yapar, bence iyi is.<br/><br/>bulduklari magaralar mozaikli veya buzlu camli olmasin yanliz , pek anlasilmiyor oyle olunca.
+    ayda 50 km magara buluyorlarsa, yilda 600 km magara yapar, bence iyi is.<br/><br/>bulduklari magaralar mozaikli veya buzlu camli olmasin yalniz , pek anlasilmiyor oyle olunca.<br/><br/>edit: tdk
+- entry_name: |
+    tıp profesörlerinin saatte 3.000 tl kazanması
+  entry_id:  71467850
+  entry_writer: vladimir ozcanov
+  entry_fav_count: 91
+  entry_content: |
+    (bkz: <a class="b" href="/?q=laz+muteahhitin+t%c4%b1p+profesorunden+fazla+kazanmas%c4%b1">laz muteahhitin tıp profesorunden fazla kazanması</a>) (bkz: <a class="b" href="/?q=ali+a%c4%9fao%c4%9flu">ali ağaoğlu</a>)
+- entry_name: |
+    sevişmenin ortasında beni seviyor musun diyen kız
+  entry_id:  71466500
+  entry_writer: elvinlalaith
+  entry_fav_count: 86
+  entry_content: |
+    deneme sürümünüz bitti, ücretli sürüme geçin diyen uygulama gibidir. lütfen ücretli sürüme geçin (bkz: <a class="b" href="/?q=evlilik">evlilik</a>)
+- entry_name: |
+    para mutluluk getirir mi
+  entry_id:  71466547
+  entry_writer: cevherr
+  entry_fav_count: 84
+  entry_content: |
+    parası olmayan insanların soracağı soru. parası olanlar zaten mutlu olmakla meşgul.<br/><br/>param yok.
+- entry_name: |
+    en güzel bira
+  entry_id:  71460880
+  entry_writer: most valuable player
+  entry_fav_count: 82
+  entry_content: |
+    (bkz: <a class="b" href="/?q=carlsberg">carlsberg</a>)
+- entry_name: |
+    tarihin en zayıf şampiyonlar ligi grubu
+  entry_id:  71454543
+  entry_writer: omiros
+  entry_fav_count: 80
+  entry_content: |
+    cluj ve braga’lı galatasaray grubu olabilir. galatasaray ilk 3 maçta 1 puan almıştı. sondan 1 önceki maçta gruptan çıkmayı garantileyen man utd’ın rezerv takımını kendi evinde 1-0 zor yenmişti. 17 yaşındaki nick powell'ı falan ilk 11'de oynamıştı ferguson. son maç öncesinde braga sonuncu olmayı garantilemişti. onlar da yedeklerle çıkınca galatasaray kazandı ve cluj ile aynı puanda olmasına rağmen, ikili averaj ile gruptan zar zor çıkmıştı.
+- entry_name: |
+    ea sports it's in the game
+  entry_id:  71470635
+  entry_writer: norman standfieldd
+  entry_fav_count: 75
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ie+sports+t%c4%b1na+geym">ie sports tına geym</a>)
+- entry_name: |
+    5 bin tl maaş alıp lcw'den giyinen erkek
+  entry_id:  71462155
+  entry_writer: gayim ama para bende
+  entry_fav_count: 74
+  entry_content: |
+    lcw dediğiniz firmada kazaklar 59.99, ile 89.99 tl arasında değişken fiyatlarda satılıyor.<br/><br/>artık oralardan bile alışveriş yapanlar iki kez düşünüyor.
 - entry_name: |
     araplar gibi soylu bir milleti küçümsemek
   entry_id:  71470492
   entry_writer: zibarasica
-  entry_fav_count: 65
+  entry_fav_count: 72
   entry_content: |
     (bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)
+- entry_name: |
+    cenk tosun
+  entry_id:  71446780
+  entry_writer: cable guy
+  entry_fav_count: 66
+  entry_content: |
+    <a class="b" href="/?q=slaven+bilic">slaven bilic</a> in <a class="b" href="/?q=mustafa+pektemek">mustafa pektemek</a> in yedegi olarak yaninda oturttugu futbolcu. hirvat koylusu ve yavsak manifestoculari olmasa bu sicramayi yillar once yapacakti. kivirin sokun o manifestoyu bi yerinize simdi.
 - entry_name: |
     metrobüse binmenin artık imkansız olması
   entry_id:  71446733
@@ -160,16 +181,23 @@ data:
     samsung'un apple'dan üstün olduğunu kabullenmemek
   entry_id:  71467860
   entry_writer: ancientceremony
-  entry_fav_count: 51
+  entry_fav_count: 54
   entry_content: |
     sana gayet mantıklı bir savla geliyorum sevgili kamil. işte savım;<br/>(bkz: <a class="b" href="/?q=kimin+ne+ald%c4%b1%c4%9f%c4%b1ndan+sana+ne+yarra%c4%9fam">kimin ne aldığından sana ne yarrağam</a>)
 - entry_name: |
     ios 11
   entry_id:  71447389
   entry_writer: pesimist iyimser
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     güncellemeden sonra whatsapp bildirimlerinin ara ara gelmediği sürüm
+- entry_name: |
+    elinin ucuyla tokalaşan insan
+  entry_id:  71452915
+  entry_writer: turuncumuturuncu
+  entry_fav_count: 44
+  entry_content: |
+    beni müthiş şekilde rahatsız eden bir davranış.<br/><br/>bu hareket aslında kişinin karakteri hakkında ipuçları veriyor. sanırım bu yüzden bu kadar rahatsız ediyor. <br/><br/>karşınızda tokalaşmak istemediğiniz biri varsa bedenen biraz uzakta kalıp, net ve keskin bir baş selamı akabinde mesela ellerinizi birleştirerek ya da elinize bir nesne alarak karşınızdakinin size elini uzatma ihtimalini bertaraf edersiniz. ama bunu yapmayıp size uzatılan eli ucundan kıyınsından sıkınca hiç hoş olmuyor.<br/><br/>tokalaşmanın da bir adabı var; elinizi uzatır, adam gibi el sıkışır, bu arada sağa sola değil karşınızdakine bakar, duruma göre tebessüm eder, kendinizi tanıtır veya hal hatır faslına geçersiniz.<br/><br/>bu ritüellere uyulmayınca nefret etmek değil de karşımdakine saygımı yitiriyorum, elimde değil.<br/><br/>tüm bu tespitler ışığında merakımı her daim cezbeden bir soru olmuştur: iki tane el ucuyla tokalaşan insan tokalaşacağı zaman nasıl tokalaşıyor ? yani birbirlerinin parmak uçlarına falan mı dokunuyorlar sadece ?<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     zaytung'un deniz baykal'a yaptığı adilik
   entry_id:  71462690
@@ -178,68 +206,61 @@ data:
   entry_content: |
     her şey mizahın konusu olabilir. bunun içine din ve dini değerler de girer. hele hele politikacılar tam merkezindedir bu işin. buna ek olarak yakın çevrenizden olmayan kişilere fazla önem atfetmeyin. inanın umurlarında değilsiniz.
 - entry_name: |
+    akp'nin hazırladığı kampüse hoş geldin videosu
+  entry_id:  71472599
+  entry_writer: the purple
+  entry_fav_count: 40
+  entry_content: |
+    genel başkanları da üniversite anılarını anlatsaydi keşke. gerçekten çok merak ediyoruz o günleri.
+- entry_name: |
     isam zehreddin
   entry_id:  71462807
   entry_writer: polocan
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     hiçbir zaman mültecileri geri dönerlerse öldüreceklerini söylememiştir. bilakis 'af' kavramından da anlaşılacağı üzere kastı, suriye ordusuna karşı savaşan ancak hükümetin "af " çıkardığı dünün kaidecileridir. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.almasdarnews.com/article/syrian-general-issues-clarification-statement-refugees-video/" title="https://www.almasdarnews.com/article/syrian-general-issues-clarification-statement-refugees-video/">https://www.almasdarnews.com/…ement-refugees-video/</a> (ki onları da öldüreceğini söylemiyor, hükümet sizi affetse de biz affetmeyeceğiz diyor)<br/><br/>diğer bir yalansa şu <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DMap9m5W4AAczc6.jpg">https://pbs.twimg.com/media/dmap9m5w4aaczc6.jpg</a> foto. bu fotoda parçalanan cesetler , der ezzor'a yönelik kapsamlı bir ışid saldırısı sırasında bombalı araçlarla suriye ordusu pozisyonlarına dalan ışid militanlarından geriye kalandır. insan kafası kesen, hatta askerin cenazesini deşip kalbini yiyen, sırf mezhepleri yüzünden kadın çocuk demeden öldürenlerin şakşakçıları bu boktan yalanlarıyla ancak kendilerini kandırırlar.<br/><br/>gerçekte asıl içlerine koyan, issam zahrettin'in onları humus bab-ı amr'da, şam deraya'da, halep anadan'da ve son olarak deyr ezzor'da tokat manyağı yapmasıdır... dezenformasyon kampanyasına girişen islamcı ezikler "ışid mücahitlerini, kaideci kardeşlerimizi öldürdü" diyemedikleri için bunlara sarıyorlar işte.
 - entry_name: |
-    59 yaşındaki şempanzenin eski dostunu tanıması
-  entry_id:  71469577
-  entry_writer: matilda effect
-  entry_fav_count: 24
+    cenk tosun'un c.ronaldo'dan daha iyi forvet olması
+  entry_id:  71472989
+  entry_writer: susuz yaz
+  entry_fav_count: 25
   entry_content: |
-    2016 yılına ait bir görüntü fakat bir araştırmaya konu olunca gündem olmuş.royal burgers hayvanat bahçesi'nde geçen olayda şempanze 59 yaşında ve ölmek üzere, yemek yemiyor, hareketsiz duruyor.1972 yılından tanıştığı davranış psikolojisi profesörü jan van hooff geliyor. şempanzenin yüzü gülüyor, <br/>"şempanze politikası" adlı kitapta yazarı frans de waal, bu şempanzenin kolonisinin incelenmesi üzerine yazı var.<br/><br/>orjinal video;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=INa-oOAexno&amp;t=59s">https://www.youtube.com/watch?v=ina-ooaexno&amp;t=59s</a>
+    tatava yapma engelle gec.<br/>not:bjk
 - entry_name: |
     hiç kadın şair olmamasının sebepleri
   entry_id:  71469840
   entry_writer: ne14u
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     <a class="b" href="/?q=can+y%c3%bccel">can yücel</a> bu soruyu soran bir öğrenciye "ne bileyim oğlum, sikimizle mi yazıyoruz şiiri" demiştir.
 - entry_name: |
     çakar lambaların geçiş üstünlüğünün iptal edilmesi
   entry_id:  71469203
   entry_writer: dama atilan pabuc
-  entry_fav_count: 18
+  entry_fav_count: 21
   entry_content: |
     o şeridi kullanma hakkı sadece ambulans, itfaiye ve belki çok acil durumlar için polise ait.<br/><br/>neredeyse haftada 2-3 kez, çakarlı ve sirenli araçları şikayet ettirip ceza yazdırıyorum. tahmin ettiğiniz gibi, ne yazık ki o çakarlı araçların çoğu, kendini zeki sanan çakal vatandaşlara ait. hiç acımıyorum valla. yol vermediğim gibi, bir de üstüne ceza yazdırıyorum.<br/><br/>ufak bir anımı paylaşmak isterim;<br/><br/>yaklaşık 10 yıl önce bir yaz günü, köprü trafiğinde arabam hararet yapmıştı. elimde pet şişeler, emniyet şeridinde cebelleşiyorum. sıcağın da etkisiyle sinirlerim tepemde. arabayı yakacağım neredeyse sıkıntıdan.<br/>4 lüler açık, radyatöre su doldururken, durmakta olduğum emniyet şeridinde bana doğru yaldır yaldır gelmekte olan s kasa siyah bir mercedes gördüm. çakar, siren, korna, selektör.. ulan sanki keyfimden duruyorum orda orospu çocuğu. trafik de sıkışık, geçemeyince iyice sinirlenip dibime kadar yanaştı ve aralıksız korna çaldı. refleks olarak elimdeki 5 litrelik pet şişeyi ön camına fırlattım, sonra da yerde duran ötekini. <br/>şoför camı açıp bana atar gider yaptı. "konsolosluk aracı, konsolosluk aracı !" diye bağırdı.<br/>"konsolosu ayrı, seni ayrı sikerim amk sikik şöförü" diye ben de ona bağırdım. fransız konsolosuymuş. arka koltukta şok ifadesi içerişinde eblek gibi bakıyordu.<br/><br/>sonuç olarak, değil konsolos ya da başbakan, peygamber gelse o şeridi işgal etme hakkı yok.<br/><br/>resmî araç olmadığından emin olduğunuz çakarlı araçları da ihbar edip ceza yazdırmak, bana göre bir vatandaşlık görevidir.
 - entry_name: |
     22 ekim 2017 galatasaray fenerbahçe maçı
   entry_id:  71455585
   entry_writer: awakening of faith in the mahayana
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     "annenizin ligi" muhabbeti yapan tiner müptelalarının hepsini pazar günü ekrana kilitleyecek ve fenerbahçe'nin kazanması için hatimler indirtecek maç.<br/><br/>fener formalarınızı giyip de izleyin ha.
 - entry_name: |
-    gordon hayward
-  entry_id:  71451746
-  entry_writer: kimblee
-  entry_fav_count: 13
-  entry_content: |
-    <a class="b" href="/?q=paul+george">paul george</a> o sakatlıktan döndüyse bu sempatik arkadaşımızın da döneceğini umuyorum. çok talihsiz bir geceydi.
-- entry_name: |
-    ea sports it's in the game
-  entry_id:  71472435
-  entry_writer: sir yes sir
+    cingöz recai
+  entry_id:  71451813
+  entry_writer: bir nick bulamadim ki
   entry_fav_count: 10
   entry_content: |
-    sahte cd'miz çiziklerle dolduğunda, üzerine türlü tükürük-tişört ve kolonya-pamuk işlemi gerçekleştirsek dahi oyun açılmazdı.<br/><br/>denerdik, denerdik, denerdik...<br/><br/>bazen cd sürücüsünden çıkan sesleri analiz edip heyecanlanırdık ama...<br/><br/>o ses... o sesi duyunca birden sevinçle havaya zıplardık. <br/><br/>sonra tam maçı açacakken babamız gelir, bilgisayarın sıcaklığını kontrol eder ve sıcaklığı hisseder hissetmez tokadı yapıştırırdı. o gün bugündür ne zaman bilgisayar alsam refleks olarak fanının nasıl olduğunu sorarım.
+    birkaç yıl önce çalıştığım iş yerinden istifa ettim (birazdan ayrıntılarını hatırlarım ama paylaşmam muhtemelen) ve o günden beri evden çalışıyorum.<br/><br/>mahallede yaptığım kısa yürüyüşler ve yandaki mekanda takılan anne kızı ziyaret etmek dışında evden pek çıkmıyorum. genellikle sabaha kadar oturup öğleye kadar uyuyorum. işim varsa bahanem oluyor sabahlamak. işim yoksa depresyonda gibi görünüyorum. (hiçbir şey ne olduğumuzla ilgili değil, nasıl olduğumuzla ilgili.)<br/><br/>bazı sabahlar tam uyuyacakken kızıma yakalanıyorum. panikleyip -nedense- elimdeki su bardağını düşürecek gibi oluyorum ama genellikle son anda tutuyorum ve suçlu olduğunu bilen insanların iki yüzlü gülüşüyle "günaydın" diyorum.<br/><br/>"ne güzel bir gün değil mi?"<br/><br/>uykudan yeni uyanmış birinin suratsızlığıyla "bir de bana sor" diyor kızım. sonra birlikte saniyeleri sayıyoruz, servisin aceleyle gelişini izliyoruz ve birbirimize el sallıyoruz. <br/><br/>geç kalan servis yine de servistir. (onu okula bırakma fikri korkunç geliyor bana çünkü. araba kullanmaktan nefret ediyorum. üstelik okulunun nerede olduğu konusunda en küçük bir fikrim yok. her sabah okula gitmesi gerekenin o olduğunu bildiğim için kendimi hiç hazırlamadım bu duruma.)<br/><br/>alkolle sorunlu bir ilişkim var. muhtemelen çok içiyorum. aslında neredeyse her gün içiyorum ama itiraf etmem gerekirse alkolden pek hoşlanmıyorum.<br/><br/>akşamcıları tam da bu yüzden severim. bütün gün bir yerlerde onlara biçilen rolleri oynarlar ama yine de pes etmeyip akşamı beklerler. üzerlerinden geçen bütün saçmalıklara rağmen "akşamın" tadını çıkarırlar ve güzel bir uyku çekmek için evlerine giderler. ertesi sabah başlayan mesai yeni bir umuttur onlar için. üstelik bu umut için çok fazla beklemeleri de gerekmez. (akşam olması yeterlidir her zaman.)<br/><br/>ben onlar gibi değilim. "onlar" gibi olmamanın işleri biraz daha zorlaştırdığını biliyorsunuzdur muhtemelen.<br/><br/>"yine mi içtin?" "boyun devrilsin." "çoluk çocuğun rızkını içkiye vermeye utanmıyor musun" "ben affetsem allah affetmez." sözlerinden mahrum kalıyorum.<br/><br/>benim durumumdaki insanlara genellikle daha yapıcı yaklaşıyor insanlar: "dışarı çık" "nefes al" "yürü" "sinemaya git" "kalabalığa karış."<br/><br/>karım elimden tutup mağramdan ("a" düştü) çıkardı beni dün akşam. böyle durumlarda her zaman yapıldığı gibi sinemaya gittik. <br/><br/>yıllar sonra gördüğüm perdenin gözüme çok büyük göründüğünü itiraf etmeliyim. çocuklara özgü bir şaşkınlıkla (iyimserlik de barındırıyordu içinde) izlemeye başladım filmi. <br/><br/>daha ilk dakikalarda sıkıldım. sonra hayal kırıklığı daha ağır bastı.<br/><br/>kandırılmıştım!<br/><br/>sevdiğim oyunculardan, kariyerinin başlangıcında beni fazlasıyla heyecanlandıran bir yönetmenden böyle bir film için hayatımı değiştirmelerini beklemiyordum elbette. <br/><br/>beklediğim tek şey "seyirlik" bir film izlemekti ve sinemadan "aylak adam" duygusuna yakın bir ruh haliyle ayrılmaktı. <br/><br/>emekçileri dışında bu işte payı olan herkesin "sahtekar" olduğunu düşünüyorum. <br/><br/>yönetmeninden oyuncusuna kadar bu filmin baş aktörlerinin ne kadar boktan bir işe imza attıklarını bildiklerine eminim. birçoğu sadece kazanacakları para için bu "saçmalığın" bir parçası oldular. bir yerde oyuncuları da anlayabiliyorum, onlara biçilen rollere bürünüyorlar sonuçta. <br/><br/>ama onur ünlü'yü hiçbir zaman affetmeyeceğim. beni kandırdı çünkü. bu saçmalığı bilerek isteyerek kabul etti ve bilerek isteyerek yarattı. bu lanet, hayatı boyunca takip edecek kendisini. <sup class="ab"><a title="(bkz: yandaki mekanda takılan anne kıza içelim)" href="/?q=yandaki+mekanda+tak%c4%b1lan+anne+k%c4%b1za+i%c3%a7elim" data-query="yandaki mekanda takılan anne kıza içelim">*</a></sup>
 - entry_name: |
-    tüm insanlık dinliyor olsaydı söylenecek ilk şey
-  entry_id:  71446293
-  entry_writer: desem olmaz mi
+    iş stresine iyi gelen antidepresanlar
+  entry_id:  71469211
+  entry_writer: hadi git
   entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%bcremeyi+keselim+art%c4%b1k">üremeyi keselim artık</a>)
-- entry_name: |
-    bitcoin
-  entry_id:  71448428
-  entry_writer: emre islekk
-  entry_fav_count: 9
-  entry_content: |
-    bu başlık altında yazılan üç bin küsür entry'i taramayıp da nereden alabilirim diye soran arkadaşlara tekrardan belirtmek isterim. en kolay ve güvenilir olarak kapalıçarşı ve tahtakale'deki kuyumcu ve dövizcilerden alabilirsiniz. yüksek alımlarda wallet da hediye ediyorlar. deri wallet.
+    sanırım artık ihtiyacım olan. azalan iş gücü sonrası neredeyse tüm yükün omuzlara binmesi, hiç bir işe yetişememe, her işi geriden yapma ve tüm bunların oluşturduğu önlenemez stres durumu. işteki yoğunlukan saat 15.00 gibi pilim atıyor. son kurşunlarımı atıp saati 18.00 ediyorum. her akşam mesaiye kalsam en az 3 ay kalmam lazım ama gücüm yetmiyor ve çıkıyorum işten. eve pestil gibi dönüyorum. yemek ye, telefonu kurcala, hanımla biraz sohbet. bazı akşamlar stresten biraz olsun uzaklaşabilmek için 2 bira iç ve yat. yorgun kalk ve işe git. sürdürülebilir olmaktan çıkmaya başladı hayat. istanbul eziyetinden bahsetmiyorum bile. değer mi diyorum? siktir et diyorum. 5 dk sürüyor. sonra aynı döngüye yine giriyorum. cidden bunaldım. naapsam bilemiyorum ama aşırı yoruldum onu çok iyi biliyorum. <br/><br/>daha çok para için, daha iyi bir pozisyon için hayatını heba etmek, gerçekten emin değilim. kızım annesinin karnında, daha çok para lazım. hep bu ikilem. <br/><br/>senin kapitalist düzen gibi ta aq. parayı bulan şerefsizin ta aq. herkes ihtiyacı kadar alsa dünya nimetlerinden, herkes eşit olsa. bu dünya cidden çok kahpe ve boş.<br/><br/>sanırım yalnız değilim. kafamda deli sorular.
 - entry_name: |
     izmir
   entry_id:  71467340
@@ -247,6 +268,13 @@ data:
   entry_fav_count: 8
   entry_content: |
     <a class="b" href="/?q=k%c4%b1%c5%9f">kış</a>ını falan özlemediğim şehir.<br/><br/>ya yeniden <a class="b" href="/?q=yaz">yaz</a> olsun ya da hep böyle <a class="b" href="/?q=bahar">bahar</a> kalsın.
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  71462900
+  entry_writer: 5 8 10 11 23 30 neighbours by five
+  entry_fav_count: 8
+  entry_content: |
+    ya bir gün karşılaştığımızda 'düşman' gibi değilde 'pişman' gibi bakarsak ?<br/>hiç düşündün mü ?
 - entry_name: |
     aras kargo
   entry_id:  71457155
@@ -262,26 +290,12 @@ data:
   entry_content: |
     cercei 'nin intikam aldığı bölümün başında çalan soundtrack <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=pS-gbqbVd8c" title="https://www.youtube.com/watch?v=pS-gbqbVd8c">light of seven</a>
 - entry_name: |
-    melih gökçek
-  entry_id:  71446713
-  entry_writer: akagamina
+    anderson talisca
+  entry_id:  71446416
+  entry_writer: bugungunlerdenisyan
   entry_fav_count: 5
   entry_content: |
-    ankara beba'si.<br/><br/>buradaki bazı gerzekleri anlayamıyorum bazen. ulan bu millete 17-25 aralık kayıtlarını montaj diyerek yalanlattılar. melih gökçek'in elindeki belgelerden mi korkacaklar? klavyesi olan yazıyor işte.
-- entry_name: |
-    iş stresine iyi gelen antidepresanlar
-  entry_id:  71469211
-  entry_writer: hadi git
-  entry_fav_count: 5
-  entry_content: |
-    sanırım artık ihtiyacım olan. azalan iş gücü sonrası neredeyse tüm yükün omuzlara binmesi, hiç bir işe yetişememe, her işi geriden yapma ve tüm bunların oluşturduğu önlenemez stres durumu. işteki yoğunlukan saat 15.00 gibi pilim atıyor. son kurşunlarımı atıp saati 18.00 ediyorum. her akşam mesaiye kalsam en az 3 ay kalmam lazım ama gücüm yetmiyor ve çıkıyorum işten. eve pestil gibi dönüyorum. yemek ye, telefonu kurcala, hanımla biraz sohbet. bazı akşamlar stresten biraz olsun uzaklaşabilmek için 2 bira iç ve yat. yorgun kalk ve işe git. sürdürülebilir olmaktan çıkmaya başladı hayat. istanbul eziyetinden bahsetmiyorum bile. değer mi diyorum? siktir et diyorum. 5 dk sürüyor. sonra aynı döngüye yine giriyorum. cidden bunaldım. naapsam bilemiyorum ama aşırı yoruldum onu çok iyi biliyorum. <br/><br/>daha çok para için, daha iyi bir pozisyon için hayatını heba etmek, gerçekten emin değilim. kızım annesinin karnında, daha çok para lazım. hep bu ikilem. <br/><br/>senin kapitalist düzen gibi ta aq. parayı bulan şerefsizin ta aq. herkes ihtiyacı kadar alsa dünya nimetlerinden, herkes eşit olsa. bu dünya cidden çok kahpe ve boş.<br/><br/>sanırım yalnız değilim. kafamda deli sorular.
-- entry_name: |
-    hepsiburada.com
-  entry_id:  71454892
-  entry_writer: evegecgeldim
-  entry_fav_count: 4
-  entry_content: |
-    "süper hızlı gönderi" logosu ve "1 saat içinde sipariş verirsen aynı anda kargoda" ibaresi bulunan ürünü 6 gündür gönderemeyen e-ticaret sitesi. işin enteresan tarafı sipariş ne durumda site de bilmiyor. 3 adet destek kaydı açıldı, 3ü de farklı şeyler söylüyor. biri ürünün tedarik edilemediğini söylüyor (bu durumda süper hızlı gönderi nesi?), biri ürün kargoya verilmiş ama takip numarasını almayı unuttuk 4 güne alırız diyor, biri kargoya verilmedi daha diyor. <br/>enteresan şeyler yaşıyorum bu siteyle şu sıralar <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    <a class="b" href="/?q=17+ekim+2017+monaco+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">17 ekim 2017 monaco beşiktaş maçı</a>'nda açıkça görüldü ki şenol güneş tarafından enerjini 90 dakikaya yay uyarısı yemiştir. beşiktaş golü yedikten sonra da sikerler böyle işi diyerek yoktan bir gol hazırlamıştır.<br/>aslında lig maçlarına da biraz asılsa o maçları antrenman gibi görse kondüsyonunu maximum seviyeye getirse, gerçi o zaman beşiktaşta işi ne.<br/><br/>ne dersek diyelim bu adamı idare edeceğiz bir şekilde. talisca yoksa büyük maçlarda gol yok.
 - entry_name: |
     ekşi itiraf
   entry_id:  71465111
@@ -290,33 +304,33 @@ data:
   entry_content: |
     yıllar önce baya bir kişinin hayatını trolledim:<br/><br/>(bkz: <a class="b" href="/entry/71463498">#71463498</a>)
 - entry_name: |
-    cenk tosun'un c.ronaldo'dan daha iyi forvet olması
-  entry_id:  71472989
-  entry_writer: susuz yaz
-  entry_fav_count: 4
+    sevişmek istenen ünlüler
+  entry_id:  71472469
+  entry_writer: uzaydan gelip gote giren semsiye
+  entry_fav_count: 3
   entry_content: |
-    tatava yapma engelle gec.<br/>not:bjk
+    (bkz: <a class="b" href="/?q=ek%c5%9finin+akl%c4%b1+sikinde+timi">ekşinin aklı sikinde timi</a>)
 - entry_name: |
-    yapay zekanın yapay zeka üretmesi
-  entry_id:  71470774
-  entry_writer: tadinda olmayan tatlar
+    ekşi sözlük iş ağı
+  entry_id:  71468971
+  entry_writer: sefertai
   entry_fav_count: 2
   entry_content: |
-    insan beynini biyolojik yapay zeka olarak ele alırsak etik değerimize sahip olmayan yapay zekanın insanoğlu için pek sorun olmayacak bir hadise olması. <br/><br/>birbirinden farklı her insanın kendine göre etik anlayışı var. dünya'da birbirinden çok farklı milyonlarca etik değer var. yapay zekanın da bizimkinden farklı olması durumda ne değişir? <br/><br/>sonuçta etik değerler; düşünebilen varlıkların kültürünün, yaşamının ve anlayış felsefenin süzgecinden geçerek belirlenir.<br/><br/>haydi düşünceler diyarına çıkalım.<br/><br/><a class="b" href="/?q=teizm">teizm</a> için;<br/>'tanrı insanı kendi suretinden yarattı' sözü tanrının insanda biyolojik beyin yaratıp düşünme / karar verme yetisini vermesi. yapay zeka şiddetsever, kötücül çıkarsa onu yok etmek için elinden geleni yaparsın. <br/>sonucta geçmiş dönemlerde insanların sapkınlıkları, şiddetleri yüzünden tanrının gazabına uğramıştır. (bkz: <a class="b" href="/?q=nuh+tufan%c4%b1">nuh tufanı</a>) (kaynak: kutsal kitaplar, (bkz: <a class="b" href="/?q=s%c3%bcmer+tabletleri">sümer tabletleri</a>), (bkz: <a class="b" href="/?q=g%c4%b1lgam%c4%b1%c5%9f+destan%c4%b1">gılgamış destanı</a>))<br/>bu demektir ki yarattığımız yapay zekanın bizim etik değerlerimize sahip olup olmayacağını bilemeyiz. nuh tufanı örneği gibi bizim etik değere sahip olmayan tüm kötü yapay zekaları yok edip iyilerin önünü açabiliriz. hal bu ki insanoğlunun iyi yapay zekayı nuh'un gemisine alıp diğerlerini neden yok etmeyesin?<br/><br/><a class="b" href="/?q=uzayl%c4%b1+teorisyenleri">uzaylı teorisyenleri</a> için;<br/>bizden kat be kat bir üstün varlıkların kendi çıkarları için bizi yaratmasına değineceğim. genelde uzaylı teorisyenler bu konu üzerinde çok sık dururlar. hatta bu görüş <a class="b" href="/?q=s%c3%bcmer+tabletleri">sümer tabletleri</a>nde sık sık geçer.<br/><br/>düşünme yetisi olmayan dünyalı herhangi bir varlığa kendi dna sını katarak düşünme yetisine sahip melez insan türünü ortaya çıkarmak. sonucta mecazen olarak yapay zekası olan biyolojik surete sahip bir varlık olmalı insan türü.<br/><br/>her nedense basit bir anlatımla, yapay zeka oluşturmak için çeşitli algoritmalardan oluşan sayı ve matematiksel verilerinden yararlanırız. eh insan zekası için dna kodu aynı özellikte. özellikle dna'mız şempanzelerle %99 aynıyken insan gibi düşünme, karar verme yetisi dna kodunun farklı olan %1'lik dilimde saklı olmalı. <br/><br/>sonuç olarak insan eliyle üretilecek yapay zekanın etik değerleri ve niyetleri, yaratılışında kullanılacak algoritmalardan geçiyor olmalı. ama doğru sonuç alabileceğimizi hiç bir zaman bilemeyiz. karamsar yapay zeka iyimser bir maskenin ardında saklanıyor da olabilir. tıpkı insanoğlu gibi.<br/><br/>her zaman en iyi sonuç almanın en iyi yolu denemektir. yarat, sına, ayıkla. tıpkı tanrı gibi. <br/><br/>tanrı insanı yarattı, insanoğlu da yapay zekayı yarattı.. yapay zeka ise kendi yapay zekasını... sonsuz döngü...<br/>demek o dur ki etik değerler; düşünebilen varlıkların kültürünün, yaşamının ve anlayış felsefenin süzgecinden geçerek belirlenir.<br/><br/>edit: imla. ekleme.
+    (entry hala durduğuna göre tekrar yazmakta beis yok sanırım) toptan canlı hayvan satışı yapılacağı belirtilen <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/71431647" title="https://eksisozluk.com/entry/71431647">71431647</a> numaralı entrynin silinmesi gereken başlıktır. bazı arkadaşlar belirtmiş biraz da olsa vicdanımıza kulak verelim lütfen.
 - entry_name: |
-    melih gökçek istifa tahmin yarışması
-  entry_id:  71466579
-  entry_writer: galektersiz
+    veganizm
+  entry_id:  71470489
+  entry_writer: frottce
   entry_fav_count: 1
   entry_content: |
-    çok kolay. 29 ekim 2017<br/><br/>başka türlü gündem nasıl değişebilir.
+    acı çeken canlılara gereksiz yere işkence edip, onları öldürüp et yiyerek 90 sene yaşayacağıma, bitki tabanlı beslenir 50 sene yaşarım. en azından ölürken yüzde yüz başaramasam da vicdanlı, merhametli ve onurlu bir şekilde yaşamaya çalıştığım için gözüm açık gitmem.
 - entry_name: |
-    kpss 2018 güncel bilgiler
-  entry_id:  71446576
-  entry_writer: josias
+    duygulandıran eski cep telefonları
+  entry_id:  71469733
+  entry_writer: demonsrunwhenagoodmangoestowar
   entry_fav_count: 1
   entry_content: |
-    başarılı bir uygulama. oldukça sade, güzel bir arayüze sahip. sorular/güncel bilgiler de gayet kaliteli görünüyor. emeği geçen herkese teşekkürler.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/NOlDgX" title="https://hizliresim.com/NOlDgX">nokia 7380</a> üniversitedeyken almıştım. baya karizmaydı. çok zordu ama karizmaydı.
 - entry_name: |
     18 ekim 2017 hepsiburada.com rezaleti
   entry_id:  71471227
@@ -325,31 +339,17 @@ data:
   entry_content: |
     ben de bir zamanlar bu siteden mağdur olduğum için up diyorum.
 - entry_name: |
-    sevişmek istenen ünlüler
-  entry_id:  71472725
-  entry_writer: willie cicci
+    şu anda çalan şarkı
+  entry_id:  71461367
+  entry_writer: geek in aad
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=abd%c3%bclhak+hamit+tarhan">abdülhak hamit tarhan</a>)
+    semiha yankı - seninle bir dakika<br/><br/>ulan ne şarkı be..
 - entry_name: |
-    en son alınan iltifat
-  entry_id:  71468477
-  entry_writer: nice tnetennba
+    firuz kanatlı
+  entry_id:  71466978
+  entry_writer: edepiliedepsiz
   entry_fav_count: 0
   entry_content: |
-    "böyle bi manzarada aklıma gelen tek şeysin."<br/><br/>diyen kişi en yakın arkadaşım. iltifatı bile hemcinslerimden duyabiliyorum ahdjdf
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  71459868
-  entry_writer: nextsigor
-  entry_fav_count: 0
-  entry_content: |
-    sıkıntıdan buralara geldik...<br/><br/>dert vs her türlü dinlenir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/nextsigor" title="http://connected2.me/nextsigor">c2</a><br/><br/>ed: entry saati/tarihine bakmayın.
-- entry_name: |
-    akp'nin hazırladığı kampüse hoş geldin videosu
-  entry_id:  71473207
-  entry_writer: ertunga
-  entry_fav_count: 0
-  entry_content: |
-    sonuç: akp milletvekillerinin yarısından çoğu genel başkan yardımcısıymış.
+    <a class="b" href="/?q=sabri+%c3%bclker">sabri ülker</a>'den sonra üzüldüğüm diğer bir iş adamı...<br/>allah rahmet eylesin.
 ---
