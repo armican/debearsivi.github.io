@@ -6,98 +6,98 @@ data:
     para karşılığı seks yapan üniversiteli kız
   entry_id:  71486564
   entry_writer: baret the white
-  entry_fav_count: 716
+  entry_fav_count: 724
   entry_content: |
     meriçleri ilgilendirmeyen meseledir. <br/><br/>valla benim gibi düz adamları ilgilendirebilir. nasıl ilgilendirir ? <br/><br/>kızlara gidip de sana 500 tl vereyim benimle seks yap dersen yapmaz. çünkü orospu gibi hisseder kendini. fakat bu kızları alıp arabayla gezdirsen, şık bir restaurantta yemek ısmarlayıp, ardından da geceyi güzel bir barda sonladığın takdirde (çiçek böcek v.s gibi ekstraya giren yan ürünleri de sayarsak) 400-500 tl gibi bir para harcadığın takdirde o kız senle pekala seks yapar. ve sanır ki para karşılığında seks yapmamış olur. <br/><br/>kadınları elde etmek için mücadele etmeli ya da en azından mücadele edermiş gibi görünmek gerek. bu şekilde yaptığınız takdirde para karşılığında seks yapmış gibi görünmezsiniz.<br/><br/>gelen mesajlar üzerine edit : "sex" olarak yazımlar "seks" olarak düzeltildi. ilk başta "sex" olarak yazmamdaki gaye daha aşağılık bir durum olduğunu kendimce vurgulamak içindi. düzeltildi. saygılar
-- entry_name: |
-    cumhurbaşkanlığına 38 yeni araç alınacak olması
-  entry_id:  71480347
-  entry_writer: ilteber
-  entry_fav_count: 614
-  entry_content: |
-    ''yoksulluk pek çok şeyin olmayışıdır ama açgözlülük hiçbir şeyin olmayışıdır.''<br/><br/>"yoksulluk çok şey ister, açgözlülük ise her şeyi"
-- entry_name: |
-    melih bey'e istifa talebimiz iletildi
-  entry_id:  71479526
-  entry_writer: baygezen
-  entry_fav_count: 436
-  entry_content: |
-    caps lock tuşunun yetim kalacağına işarettir. en azından açılacak müzede o caps lock tuşu sergilenebilir.
 - entry_name: |
     ekşi sözlük'te cerrah rolü yapan sahtekar
   entry_id:  71492276
   entry_writer: kargakargagaakdedi
-  entry_fav_count: 434
+  entry_fav_count: 444
   entry_content: |
     kendisi tahta kılıçlı dandik şövalye nickli yazardır. bu yazismayi ise instagram hesabındaki fotoğraflarıni ve yazılarını yürüttüğü dr ibrahim engin kavak'in onayını alarak paylaşıyorum. onay yazisinin fotografini ekliyorum. kalp cerrahı olduğunu iddia eden ve mert mercan diye sahte isim kullanan kişinin gerçek isminin bir kısmını engin kavak dava dosyasında paylaşmış.bahsettiğim konuşma:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/pGXJYm">https://hizliresim.com/pgxjym</a><br/><br/>engin kavak'ın fotoğrafları ne yaptığını ve dava dosyasını ise doktorun 30 eylül tarihinde instagram hesabına koyduğu fotograflardan görebilirsiniz. burada da eksi itiraf'da, adamın fotograflarini kullanarak sınır tanımayan doktorlara katıldığıni söylemiş ve nijer'de afrikalılar'a yardim ettim diye bir suru palavra sıkmışti. itirafta kullandığı hikaye de engin kavak'in instagram hesabından çalıntı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/OyV6PP">https://hizliresim.com/oyv6pp</a><br/><br/>yukarıda dr ibrahim engin kavak'ın 26 ağustos tarihli paylaşımını ekledim.aşağıya ise buraya girdiği itirafı ekleyeceğim:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/g92MqZ">https://hizliresim.com/g92mqz</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/pGXJ0J">https://hizliresim.com/pgxj0j</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/WGg3Om">https://hizliresim.com/wgg3om</a><br/><br/>marxizm, rex sineması, khodo filmi, matematik bilimi ve daha pek çok entry'si hep bir yerlerden çalıntı. engin kavak'in fotograflarini kullanarak, dr ege yılmaz diye sahte bir jinekolog hesabi açmış. facebook hesabı gerçek gibiydi ve güya gezi eylemlerinde sağlık bakanlığı ceza vermiş buna. kosuyolu hastanesinden kacirdigi ilaclarla yaralilari tedavi etmiş de, o yüzden almışmis cezayı, yersen tabii. saglik bakanligi'nin kendisine bes gun ceza verdigine dair yine kalp cerrahı mert mercan adına sahte bir belge duzenlemis ve paylaşmıştı facebook hesabında. o sahte belgenin altinda ise dunyaca unlu kalp cerrahimiz cevat yakut, "sevgili asistanim, seninle gurur duyuyorum." demis. düşünün dünyaca unlu bir cerrahimiz adına sahte facebook hesabi açıp, kendine övgüler dizdirmis. o kadar çok kişi adına sahte hesap açmış, ya da bir sürü insan o belgenin doğru olduğuna inanmış olmalı ki, o belgenin altında sahte cerrahı kahraman ilan eden pek çok yorum vardı.facebook'ta mert mercan ismini kullanıyor ve bu isimle doktorumonline.net'de kalp cerrahi olarak görünüyor:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/5GL6Xj">https://hizliresim.com/5gl6xj</a><br/><br/>doktor arkadaşıma sordum, dr değilse orada hesap acamaz dedi.. onları da sahte belge ile kandırdı galiba. tabii ki saglik bakanlığı randevu sistemini aradigimda öyle bir cerrah olmadığını öğrendim. yine koşuyolu hastanesinin kalp cerrahları arasında ismi görünmemekte ama kadrosunun aslında amerika'da olduğunu, buraya oradaki üniversitesi adına araştırma yapmaya geldiğini söylemişti. adam marmara üniversitesi evrim makalemi basmadi diye cumhuriyet, birgün, sol, t24 ve daha pek çok gazeteyi kandırdı. mert mercan diye birisi kadrolarında yok halbuki marmara universitesi'nin ve sonra bu olayi tekzip etti zaten marmara üniversitesi. ayrıca hiç mi akademiyi bilen bir muhabiriniz yok, dekan mi basıyor makaleleri? adam güya dekanin odasını basıp, "evrimle ilgili makalemi nasil basmassiniz diyip, siktir çekmiş ve olmayan kadrosundan istifa etmiş. burada da en az beş sahte hesabı var. çünkü bir ara mert mercan başlığı altında kendisinin ne kadar iyi bir cerrah olduğu ovuluyordu. engin kavak'in açtığı dava dilekçesine savunmasına ise sunu yazmış. ege yılmaz diye sahte hesap açmasinin nedeni, hastalığı ile ilgili bir şeyler danışmak ve sorununa çözüm bulmakmis. bir erkeğin jinekologa gidebilecegi ne rahatsizligi olacaksa artik? engin kavak'in dediğine gore kadınlardan çıplak fotoğraf isteyip, onları tehdit ediyormuş. <br/><br/>dava dosyası: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/V3PWdj">https://hizliresim.com/v3pwdj</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/V3PWqj">https://hizliresim.com/v3pwqj</a><br/><br/>itiraf için engin kavak'ın hesabından çaldığı fotoğraflar:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/lb35MB">https://hizliresim.com/lb35mb</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/Aynr9z">https://hizliresim.com/aynr9z</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/jQXb99">https://hizliresim.com/jqxb99</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/g92MdZ">https://hizliresim.com/g92mdz</a><br/><br/>daha sonra sildiği entry'sinin numarası:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/mJ4AVP">https://hizliresim.com/mj4avp</a><br/><br/>güya cerrah:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/NOlRbN">https://hizliresim.com/nolrbn</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/POnZpv">https://hizliresim.com/ponzpv</a><br/><br/>şurada da bir hastasını öldürdü:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/DyB0lz">https://hizliresim.com/dyb0lz</a><br/><br/>bu vatandaşın sözlükte de pek çok yan hesabı var. umarım sözlükten hiçbir kadını dolandırmamış ve onlara zarar vermemiştir. çünkü mert mercan adına başlık açılmış ve başlık altında pek çok kişi bu olmayan cerrahın başarılarını övmüştü. güya kimsenin ameliyat etmek istemediği en riskli hastaları bu vatandaş ameliyat ediyormuş. lütfen çok çok dikkatli olun ve fake gibi görünmeyen hesapların bile sahte hesap olabileceğine dair bir kuşkuyu hep taşıyın.<br/><br/>edit: olay kari kız düşürme ya da kandirilma kadar basit bir şey mi? nerenizle okuyup da kadın düşmanlığı yapıyorsunuz? adam diken, cumhuriyet, sol, bir gün gibi tüm sol tandansli gazeteleri marmara üniversitesi'nde yardımcı docentim diye kandırmis ötesi var mi? mert mercan diye bir elemanı yok halbuki universitenin. medyadan birileri de görür ve araştırma yapmayı öğrenir umarım. evrim hakkindaki makalesi basılmamış da, bu da güya dekana sıktır çekip, istifa etmiş. olay karı kız muhabbetinin çok ötesinde. teşhisi psikiyatristlere bırakıyorum.<br/><br/>edit 2: biraz uzun ve karışik bir hikaye olduğu için pek anlasilmamis galiba. adam doktorumonline.net ve facebook hesabında kalp cerrahi ve kendi fotoğraflarını kullanıyor. o mecralarda adi mert mercan. instagram hesabında ise dr engin kavak'in fotoğraflarını çalip, jinekolog ege yılmaz adında sahte bir hesap açmış. gerçek adi ise b harfi ile başlıyor. bunu da engin kavak'in 30 eylül tarihinde yaptığı paylaşım sayesinde öğrendim. benim bu adamı yakalamam, itirafta kullandığı fotoğraflar sayesinde oldu. o fotoğraflardan sonra, hemen engin kavak ile irtibata gectim. hep şüphelendim ama doktorumonline.net' e, dr değilse üye olamaz diyen arkadaş yüzünden biraz geç kaldım.
+- entry_name: |
+    melih bey'e istifa talebimiz iletildi
+  entry_id:  71479526
+  entry_writer: baygezen
+  entry_fav_count: 438
+  entry_content: |
+    caps lock tuşunun yetim kalacağına işarettir. en azından açılacak müzede o caps lock tuşu sergilenebilir.
 - entry_name: |
     serra yılmaz'ın türk olmaktan utanması
   entry_id:  71486559
   entry_writer: dikis tutmaz sabri
-  entry_fav_count: 342
+  entry_fav_count: 346
   entry_content: |
     bu aşağılık söze hak veren bazı itler var ki, utanmadan kendilerini atatürkçü olarak tanımlayabiliyorlar. bu soysuzlara tavsiyem sülük bir göçmen olarak yaşadıkları batı ülkesinde liberal-sol sloganlarla ezikliklerini ve sığlıklarını saklamaya çalışsınlar ama atatürk'ü ağızlarına alma hadsizliğine düşmesinler.
 - entry_name: |
     xavi'nin yer sofrasında etli pilava yumulması
   entry_id:  71482534
   entry_writer: kalyanschik
-  entry_fav_count: 307
+  entry_fav_count: 312
   entry_content: |
     <a class="b" href="/?q=et">et</a> ve <a class="b" href="/?q=xavi">xavi</a> hariç aynı bizim ev amk.
+- entry_name: |
+    beşiktaş'ın basel ile eşleşeceği gerçeği
+  entry_id:  71477046
+  entry_writer: glide
+  entry_fav_count: 301
+  entry_content: |
+    (bkz: <a class="b" href="/?q=korkudan+totem+ba%c5%9fl%c4%b1%c4%9f%c4%b1+a%c3%a7mak">korkudan totem başlığı açmak</a>)<br/><br/>korkma mariborlu grubu çekmediği gibi baseli de çekmez kimse bize. <br/><br/>o sensin sen astana aslanı<sup class="ab"><a title="(bkz: lol)" href="/?q=lol" data-query="lol">*</a></sup>, <br/><br/>cluj fatihi<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     hayatını değiştirmek için atılacak ilk adım
   entry_id:  71477053
   entry_writer: romantik jedi abaza sith e karsi
-  entry_fav_count: 266
+  entry_fav_count: 270
   entry_content: |
     1- barı açıyorum, <br/>2- ayla’yla aramı düzeltiyorum, <br/>3- babamı da yanıma alıyorum. <br/><br/>olay bitmiştir
 - entry_name: |
     kasım 2017 sigara zammı
   entry_id:  71487898
   entry_writer: naletcix
-  entry_fav_count: 237
+  entry_fav_count: 246
   entry_content: |
     o kadar çok sevniyorum ki. özellikle dar gelirliyi zora sokan bu tarz zam haberlerine inanılmaz seviniyorum. beter olsun amk fakirleri. <br/><br/>not: fakir olup yine de onurundan, gururundan zerre taviz vermeden sadaka kültürü ile geçinmeyip gerçekleri gören fukara kardeşlerim için ise bir o kadar üzülüyorum.<br/><br/>not2: ayrıca sigara içmiyorum ki diyene de kafam girsin. ulusal ekonomide her şey birbirini tetikler. benzin zammı meyve sebze fiyatlarını etkiler. doğalgaz, elektrik zammı endüstriyel ürünleri etkiler. ve sigara zammı için sakın içmeyeni etkilemez diye düşünme; sen içmiyorsun ama tamire gelen usta, saçını kesen berber sigara içiyor. ve o parayı senden kazanmak zorunda...
 - entry_name: |
     tavadaki yengecin etrafındaki sebzeleri yemesi
   entry_id:  71486187
   entry_writer: bosmuhendis
-  entry_fav_count: 213
+  entry_fav_count: 214
   entry_content: |
     bu yengeçte şu anki halimizi gördüm.<br/><br/>yanan bir tava üzerinde ölecek olan fakat her şey yolunda gibi yemeye devam eden bir yengeç. aynı türk halkı, her şey berbat fakat keyfe devam.
 - entry_name: |
     windows live messenger
   entry_id:  71476629
   entry_writer: cikaskondikas
-  entry_fav_count: 208
+  entry_fav_count: 210
   entry_content: |
     zamanında “ne dinlediğimi göster” özelliği ile kız arkadaşımla ilişki durumumu neticeye bağlayan uygulamadır. ben tarkan’dan vazgeçemem şarkısını dinlerken, o da orhan gencebay’dan vazgeç gönlüm adlı şarkıyı dinlenmiştir. (evet orhan gencebay’ı dinleyen kız arkadaşımdı). <br/>ben de sonrasında sezen aksu’dan vazgeçtim adlı şarkıyı dinledim. bu da böyle bir anımdır.
 - entry_name: |
     erdoğan'ın bu dünyada yaşamak istememesi
   entry_id:  71492911
   entry_writer: siphonensis lacus
-  entry_fav_count: 163
+  entry_fav_count: 173
   entry_content: |
     biz tutmayalım seni.
 - entry_name: |
     but you don't look like turkish
   entry_id:  71488872
   entry_writer: explorateur
-  entry_fav_count: 159
+  entry_fav_count: 162
   entry_content: |
     -türkleri tanırım, cesur, yiğit ve savaşcıdırlar.<br/><br/>“<a class="b" href="/?q=hain+kostok">hain kostok</a>”<br/>(kostok the traitor.)
 - entry_name: |
     östersunds fk
   entry_id:  71496354
   entry_writer: gok yeleli bozkurtun avukati
-  entry_fav_count: 137
+  entry_fav_count: 161
   entry_content: |
     aynı bjk gibi bunlar da 3'te 3 yaptılar. bu sene bu tür takımların yılı galiba. ikisine de helal olsun.
 - entry_name: |
     kenan imirzalıoğlu'nun yönetmene posta koyması
   entry_id:  71491390
   entry_writer: faydam yoksa da zararim olmaz
-  entry_fav_count: 99
+  entry_fav_count: 103
   entry_content: |
     yalnız kenan imirzalıoğlu burada postayı tüm ekip adına koyuyor. yani bir nevi sözcülük yapıyor. haklı da olabilir.<br/><br/>ışıkçının posta koyacak hali yok ya..
 - entry_name: |
@@ -111,58 +111,86 @@ data:
     2017 ekonomik krizi
   entry_id:  71477396
   entry_writer: pinata
-  entry_fav_count: 94
+  entry_fav_count: 95
   entry_content: |
     yine gelmis "kriz ya vardir ya yoktur" diyen tipler. bu konuda sorun sensin. sorun senin algilaman, senin gozlerin, verileri degerlendirememen. <br/><br/>gerci senin gunahin da pek yok. tuik denilen ve veri kalitesi dunya bankasi tarafindan supheli bulunan kurumun rakamlari manuple edilen kurumun ve havuzdan nemalanan medyanin sucu. dogrulari size anlatmiyorlar. anlatamiyorlar. ulke oyle bir taklaya geldi ki, agzini acip konusabilecek herkes korkudan susuyor. cok agdali, ustu kapali kelimelerle sinyal verebiliyorlar.<br/><br/>bak ben acik ve secik yazayim anla. ekonominin icine sictilar. ellerine cumhuriyet tarihinin en buyuk firsati gecti. dunya uzerinde gorulmemis bir likidite akisi oldu. global ekonomiye donuldu. 2000'lerde iletisim ve ulasimin gelismesiyle her ulkeden irili ufakli firmalar diger ulkelere yatirim yapabilecek seviyeye geldi. tum bunlarin yaninda hukumet hic bir zaman koalisyon engeli yasamadi. tek basina her karari cikaracak konuma geldiler. ozellestirmelerde engel yasamadilar. ufak tefek itirazlari kolayca astilar. <br/><br/>yetmedi yeni vergiler konuldu, deprem icin konulan vergiden toplanan paralari baska yerlerde ve ihalelerde kullandilar. tum bu siyasi stabilite devam ederken, likidite bollugu akarken "sasaa ve debdebe" yapmayi da ihmal etmediler. kici kirik ilce belediye baskani bile "napim audilerin yanina passat mi cekeyim" diyerek yuzbinlerce dolarlik araba siparis etti. saraylara, harcamalara, danisman maaslarina suna buna hic girmiyorum bile. tum bunlar yasanirken, turkiye kendine uretimde uzmanlasacagi bir alan secmedi. bir ar-ge yatirimi yapmadi. mesela tekstilde iyiydik bir donem, ona yonelmedi. tarim yok, hayvancilik yok. yuksek teknoloji uretimi yok. otomotiv yok, ucak yok, maden yok, petrol yok. ne var? turizm ve insaat. turizmin hali ortada. insaat zangir zangir sallaniyor. <br/><br/>boylesine bir bolluk ortamindan kriz cikarabilmek cok zordu. ve turkiye cumhuriyeti hukumeti, 15 yildir iktidarda olan bu hukumet korkunc politikalarla bu bolluktan kriz esigine geldi. simdi "sasaa debdebe bitti" diyorlar. cunku hazine de eriyor. <br/><br/>suriyelilere harcanan ve halen harcanmaya devam eden para, devlete yuk olan korkunc yap-islet-devret projeleri, buyuk altyapi harcamalari, filan derken, diyanet bile abartili butcesini dogru kullanamayip, ek butce ister olmus. <br/><br/>bak guzel kardesim su an ortam nasil biliyor musun? domino taslari dizilmis, en bastaki tasa dogru hafiften guclenerek esen bir yel var. en bastaki tas kucuk kucuk titriyor. inan bana o tas yikildiginda her sey o kadar cabuk zincirleme yikilacak ki, nooluyo lan demeye vaktin olmayacak. <br/><br/>durum o kadar boktan bir yere gidiyor.
-- entry_name: |
-    galatasaray'ın cl gruplarından beş kez çıkması
-  entry_id:  71492952
-  entry_writer: mozambik asilliyim
-  entry_fav_count: 80
-  entry_content: |
-    günümüze bakarsak tarihinde ilk defa gruptan çıkacak bir takımımız vardır.<br/><br/>ayrıca o 5 kere çıkmalar 3 kere çeyrek final oynamalarının getirdiği puanlar sayesinde yıllarca lig şampiyonlarımız şl'ye doğrudan katılma hakkı elde etti... <br/><br/>daha 3-4 yıl önce mesela gs bir kere son16 oynayıp bir kere çeyrek final oynamıştı... o senelerde gs bunları elde etmese bjk şampiyonlar ligine katılmak için eleme oynardı. bunları sadece düşünün biraz saygı duyun yeterli benim için. geçmiş geçmiştir zaten önümüze bence de bakalım ama saygı da duyalım bi zahmet.
 - entry_name: |
     insana güncelleme gelse istenecek özellik
   entry_id:  71494687
   entry_writer: skibbe atti gol oldu
-  entry_fav_count: 78
+  entry_fav_count: 91
   entry_content: |
     tartisma/kavga esnasinda akla gelmeyen ama gece yatarken bir an da dank eden,”off bunu diyecektim olm yaa” dedigimiz tum seylerin olay esnasinda aklina gelmesi.<br/><br/>hep yatarken aklima geliyo,diyemedim diye icimde kaliyor sonra hep ya:(
+- entry_name: |
+    galatasaray'ın cl gruplarından beş kez çıkması
+  entry_id:  71492952
+  entry_writer: mozambik asilliyim
+  entry_fav_count: 84
+  entry_content: |
+    günümüze bakarsak tarihinde ilk defa gruptan çıkacak bir takımımız vardır.<br/><br/>ayrıca o 5 kere çıkmalar 3 kere çeyrek final oynamalarının getirdiği puanlar sayesinde yıllarca lig şampiyonlarımız şl'ye doğrudan katılma hakkı elde etti... <br/><br/>daha 3-4 yıl önce mesela gs bir kere son16 oynayıp bir kere çeyrek final oynamıştı... o senelerde gs bunları elde etmese bjk şampiyonlar ligine katılmak için eleme oynardı. bunları sadece düşünün biraz saygı duyun yeterli benim için. geçmiş geçmiştir zaten önümüze bence de bakalım ama saygı da duyalım bi zahmet.
+- entry_name: |
+    19 ekim 2017 rte melih gökçek görüşmesi
+  entry_id:  71489490
+  entry_writer: soguk iklimin sicak insani
+  entry_fav_count: 83
+  entry_content: |
+    öğle yemeğinde nijerya cumhurbaşkanı da olacakmış. farklı bir ikna yöntemi denenecek herhalde.
+- entry_name: |
+    türkiye'de futbolculuk ne biliyor musunuz
+  entry_id:  71482099
+  entry_writer: nobrans
+  entry_fav_count: 75
+  entry_content: |
+    adamlık demek olarak yanıtlanacak olan sorudur.<br/><br/>kıyamam 30 yasından sonrası gelecek kaygısıymıs, biz 22-23 yasında basladık o gelecek kaygısına, üstelik 30umuza geldiğimizde milyon dolarlarımız olmadan 65 yasına kadar calısacağız.
 - entry_name: |
     ryan babel
   entry_id:  71491976
   entry_writer: supr3
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     43. maddeden sevk edilen alper potuk'a 1 maç ceza veren pfdk, aynı maddeden sevk edilen ryan babel'e 2 maç ceza vermiştir. ha kural kitabı ne diyor? direkt kırmızı kart 2 maçtan başlıyor sıkıntı şu orta sahasında alternatifi olmayan fenerbahçe'ye kural işlemezken beşiktaş'a işlemesi. sonra amk çocukları (bkz: <a class="b" href="/?q=be%c5%9fikta%c5%9f+futbol+federasyonu">beşiktaş futbol federasyonu</a>) diye ağlıyorlar.
 - entry_name: |
     78 kilo ile mide ameliyatına alınan kadın
   entry_id:  71486450
   entry_writer: aryansmomma
-  entry_fav_count: 60
+  entry_fav_count: 67
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6zge+%c5%9feker">özge şeker</a>)<br/><br/>malesef kasap doktorların elinde vefat etmiştir. normalde <a class="b" href="/?q=morbid+obez">morbid obez</a> bireylere yapılan ve her zaman riskli olan bu ameliyat sadece 78 kilo bir kadına uygulanmakla kalmamış bir de kan değerlerine bakmadan lakayt bir şekilde hasta eve gönderilmiş.<br/><br/>cinayet gibi olay. sözlükte sürekli fat shaming yapan, şişman kadınların iğrenç olduğunu ima eden orospu çocukları bu başlığa gelmesin, iki dakika saygılı olup "ama o da azıcık bogazını tutsaymış canııım" yorumları yapmasın lütfen. lütfen. <br/><br/>korkunç olayı sevgilisinin ağzından dinlemek için:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.hurriyet.com.tr/yazarlar/ayse-arman/" title="http://m.hurriyet.com.tr/yazarlar/ayse-arman/">tık</a>
 - entry_name: |
     avrupa'nın türkiye vatandaşlarına vize vermemesi
   entry_id:  71496871
   entry_writer: dakikada 100 dil darbesi
-  entry_fav_count: 51
+  entry_fav_count: 58
   entry_content: |
     öğrencisi var, işadamı var, öğretim üyesi var, akrabalarına giden var gerizekalının biri çıkmış avrupa yerine vizesiz ukraynaya gidiyorum yarı fiyatına eğleniyorum yazmış. herkes senin gibi sex turizmi için avrupa’ya vize almıyor beyinsiz herif.<br/><br/>şu tipler yüzünden sözlükten iyice nefret etmeye başladım.
-- entry_name: |
-    tokalaşmak istemediği kadınla halay çeken rektör
-  entry_id:  71495181
-  entry_writer: aslagelmeyecektelefonubekleyenadam
-  entry_fav_count: 48
-  entry_content: |
-    <a class="b" href="/?q=kad%c4%b1nla+tokala%c5%9fmak+ate%c5%9f+tutmaktan+daha+korkun%c3%a7">kadınla tokalaşmak ateş tutmaktan daha korkunç</a> beyan sahibi rektörün kadınlarla birlikte halay çekmesidir.<br/><br/>izlemek için <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ATuncayOzkan/status/920966818973601792" title="https://twitter.com/ATuncayOzkan/status/920966818973601792">kaynak</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/t24comtr/status/920967836184514562" title="https://twitter.com/t24comtr/status/920967836184514562">kaynak 2</a><br/><br/>bir başka ikiyüzlü tutum için: (bkz: <a class="b" href="/?q=s%c3%bcleymanc%c4%b1lar+tar%c4%b1kat%c4%b1n%c4%b1n+domuz+etli+sucuk+sat%c4%b1%c5%9f%c4%b1">süleymancılar tarıkatının domuz etli sucuk satışı</a>)<br/><br/>edit : müyesser yıldız'ın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/notes/müyesser-yıldız/müftü-nikâhından-sonra-sırada-ne-var/1798504843523845/" title="https://www.facebook.com/notes/müyesser-yıldız/müftü-nikâhından-sonra-sırada-ne-var/1798504843523845/">"müftü nikâhından sonra sırada ne var?"</a> başlıklı yazısı mutlaka okunmalıdır.
 - entry_name: |
     madem bira içiyorsun neden domuz eti yemiyorsun
   entry_id:  71482218
   entry_writer: m 602 reo
-  entry_fav_count: 44
+  entry_fav_count: 50
   entry_content: |
     çünkü "kararlarımı verirken mantık süzgecini değil, bana doğduğum günden beri empoze edilen fikirleri baz alıyorum" şeklinde cevaplanacak sorudur. <br/><br/>ancak bu cevabı verebilmek kolay değil çünkü; bu cevabın sonunda özgürlük var. <br/><br/>özgürlüğün bedeli ise bu coğrafyada size huzur yok demek.
+- entry_name: |
+    üniversite öğrencisini devamsızlıktan bırakmak
+  entry_id:  71489702
+  entry_writer: quansis
+  entry_fav_count: 49
+  entry_content: |
+    bir türlü anlamadığım, anlamlandıramayacağım mevzudur. üniversite çağına gelmiş bi' bireyin sorumluluğu kendisini ilgilendirir. derse girmiyorsa, öğrenemez ve her halükarda kalır. ya da senin gereğinden fazla ego kastığın rezil akademisyenliğini tercih etmiyor ve dışarıdan kendi imkanlarıyla anlattığın konuyu öğreniyor olabilir. <br/><br/>hatırlıyorum da, üniversite zamanımda okulun zorunlu olarak koyduğu devamsızlıktan bırakma mevzusunu iplemeyen bir öğretim görevlimiz vardı. "çocuk musunuz siz? derse gelip gelmeyeceğinizi ben mi söyleyeceğim? ha, derse gelmeniz serbest değil ama inanın gelmezseniz kalırsınız." <br/><br/>hakikaten de dediği gibi olmuştu. bu tarz akademisyenlerin artması ve 18 yaşını geçmiş öğrenciye bi' birey gibi davranılmasının önünün gelecekte daha da açılmasını dilerim.
+- entry_name: |
+    tokalaşmak istemediği kadınla halay çeken rektör
+  entry_id:  71495181
+  entry_writer: aslagelmeyecektelefonubekleyenadam
+  entry_fav_count: 49
+  entry_content: |
+    <a class="b" href="/?q=kad%c4%b1nla+tokala%c5%9fmak+ate%c5%9f+tutmaktan+daha+korkun%c3%a7">kadınla tokalaşmak ateş tutmaktan daha korkunç</a> beyan sahibi rektörün kadınlarla birlikte halay çekmesidir.<br/><br/>izlemek için <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ATuncayOzkan/status/920966818973601792" title="https://twitter.com/ATuncayOzkan/status/920966818973601792">kaynak</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/t24comtr/status/920967836184514562" title="https://twitter.com/t24comtr/status/920967836184514562">kaynak 2</a><br/><br/>bir başka ikiyüzlü tutum için: (bkz: <a class="b" href="/?q=s%c3%bcleymanc%c4%b1lar+tar%c4%b1kat%c4%b1n%c4%b1n+domuz+etli+sucuk+sat%c4%b1%c5%9f%c4%b1">süleymancılar tarıkatının domuz etli sucuk satışı</a>)<br/><br/>edit : müyesser yıldız'ın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/notes/müyesser-yıldız/müftü-nikâhından-sonra-sırada-ne-var/1798504843523845/" title="https://www.facebook.com/notes/müyesser-yıldız/müftü-nikâhından-sonra-sırada-ne-var/1798504843523845/">"müftü nikâhından sonra sırada ne var?"</a> başlıklı yazısı mutlaka okunmalıdır.
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  71480725
+  entry_writer: arketip16
+  entry_fav_count: 36
+  entry_content: |
+    zamanında bir deney yapılır. japon bıldırcın kuşları için bir düzenek hazırlanır. <br/><br/>düzeneğe göre kimi zaman aydınlık ortam sağlanır, kimi zaman karanlık. her iki koşulda japon bıldırcın kuşlarının cinsel içerikli davranışları sayılır. bakılır ki karanlık ortamda kuşların cinsel içerikli davranış sayıları, aydınlık ortama göre daha azdır. nedir bu karanlıkla cinsellik arasındaki ilişki diye dert edinir araştırmacılar. bir sürü test, analiz derken sonuca ulaşırlar, karanlık, kuşlardaki testosteron hormonu seviyesinde düşüşe sebep olmaktadır. bu durum, doğal olarak cinsel içerikli davranış sayısının azalmasına yol açıyordur. <br/><br/>araştırmacılar, burada durmaz. testosteron hormonuyla ilgili insanlar üzerinde de testler yapılır. evet, insanlardaki etki, kuşlardaki gibidir. o zaman derler, insanların biyolojiye tamamen aykırıyken karanlık ortamda sevişmeyi sevmelerinin sebebi tamamen öğrenilmiş bir durumdur. peki testosteron ve diğer biyolojik belirleyicilere göre erkekler için en iyi sevişme vakti ne zamandır? tekrar incelerler, kafa yorarlar, buldukları en ideal zamanın sabah saatleri olduğunu ilan ederler. <br/><br/>araştırmaya dahil ettikleri bazı erkeklerin testosteron seviyesindeki değişimler dikkatlerinden kaçmaz. buldukları şudur, evli erkeklerin eşleri hamile kaldığında doğum sonrası lohusalık dönemi bitinceye kadar testosteron seviyeleri oldukça azalmaktadır. yani biyoloji erkeğe şöyle demektedir, 'bak eşin hamile, senin cinsel isteklerini yerine getirmekte zorlanabilir, hem çocuğun da olacak, sen bunlara motive ol'. tabi anlayana. <sup class="ab"><a title="(bkz: kıps)" href="/?q=k%c4%b1ps" data-query="kıps">*</a></sup> <br/><br/>çok eskilerde tasavvuf kültüründe yer alan, kişilerin karanlık bir ortama girip, aylarca orada kalıp 'çile' adını verdikleri ritüelle nefislerini terbiye ettiklerini belki duymuşsunuzdur. bu 'çile' ile kişiler az yer, az uyurmuş. dünya nimetlerinden kendilerini arındırırlarmış. aslında bilmeden, cinsel yönden, sürekli karanlıkta durarak testosteron hormonu seviyelerini düşürüp, cinsel istek ve davranışlarının da azalmasına sebep olmuşlar. ne diyelim, darısı zamanın tasavvuf insanıyım diyerek her türlü sapıklıkla adını duyuranların başına.<br/><br/>kaynak : bu araştırmanın bizzat içerisinde yer alan bir hocamın deney sonuçları üzerine verdiği bilgilerden toparlanmıştır. deney, hocamın akademik çalışmalar için gittiği amerika birleşik devletlerinde bir üniversite'de yapılmıştır.
 - entry_name: |
     cenk tosun'un bonservis bedeli
   entry_id:  71492216
@@ -174,7 +202,7 @@ data:
     melih gökçek'in chp'nin başına geçmesi
   entry_id:  71492876
   entry_writer: offff of
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     (bkz: <a class="b" href="/?q=yok+anas%c4%b1n%c4%b1n+am%c4%b1+dememek+i%c3%a7in+kendini+zor+tutmak">yok anasının amı dememek için kendini zor tutmak</a>)
 - entry_name: |
@@ -188,65 +216,44 @@ data:
     türkiye'de iyi kruvasan olmaması
   entry_id:  71492083
   entry_writer: countofmontecristo
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     fransa'da yedikten sonra dunyada yok dersin. ingilizler de guzel yapar mesela. ama zaten kruvasan avrupanin urunu. turkiye'de yapilamamasi dogal. onlar da besiktas 7-8 hasanpasa nin yaptigi pogacalarin %10 unu yapamazlar.
-- entry_name: |
-    bedelli askerlik
-  entry_id:  71490548
-  entry_writer: circassia
-  entry_fav_count: 23
-  entry_content: |
-    zamanında neden gitmedin ?<br/><br/>çünkü eşşeğin ziki yüzünden gitmedim amk. herkes sizin gibi baba parasıyla at koşturup krallar gibi okutulup zamanı geldiğinde gidemiyor vatani görevini yerine getirmeye. kimisi yalnız başlıyor, kimsesi yok, plan yok, program yok. bir hayat inşa ediyor ve bu kolay olmuyor, çünkü yalnızsın. ben hasta olan babama baktım mesela; anneme yardımcı olmayı tercih ettim askere gitmek yerine. buradaki komandoları bir gece bir hastanın başında 2 saat ıslatıp dövsen uyuklamadan duramaz; ama ben durdum 15 yıl. çünkü bir evlat böyle yapar. bu süreçte bırak okulu; işime yoğunlaşamadım bile. pişman değilim, her sorumluluğumu eksiksiz yerine getirdim. kimseye laf anlatacak değiliz aslında. başkasının hayat savaşına saygı duyacaksınız, işin başı bu. ya da boşverin, derdinizi sikeyim sizin ben ya. kimisi evleniyor kimisi çocuk sahibi oluyor ve bu işlem sırası o senin sikik hayatındaki gibi el kitabından yazılıp çizilmiyor, özeti bu<sup class="ab"><a title="(bkz: filtreden geçsin istedim)" href="/?q=filtreden+ge%c3%a7sin+istedim" data-query="filtreden geçsin istedim">*</a></sup>.<br/>seve seve çıkacak olan bir askerlik uygulaması. er ya da geç.
-- entry_name: |
-    üniversite öğrencisini devamsızlıktan bırakmak
-  entry_id:  71489702
-  entry_writer: quansis
-  entry_fav_count: 20
-  entry_content: |
-    bir türlü anlamadığım, anlamlandıramayacağım mevzudur. üniversite çağına gelmiş bi' bireyin sorumluluğu kendisini ilgilendirir. derse girmiyorsa, öğrenemez ve her halükarda kalır. ya da senin gereğinden fazla ego kastığın rezil akademisyenliğini tercih etmiyor ve dışarıdan kendi imkanlarıyla anlattığın konuyu öğreniyor olabilir. <br/><br/>hatırlıyorum da, üniversite zamanımda okulun zorunlu olarak koyduğu devamsızlıktan bırakma mevzusunu iplemeyen bir öğretim görevlimiz vardı. "çocuk musunuz siz? derse gelip gelmeyeceğinizi ben mi söyleyeceğim? ha, derse gelmeniz serbest değil ama inanın gelmezseniz kalırsınız." <br/><br/>hakikaten de dediği gibi olmuştu. bu tarz akademisyenlerin artması ve 18 yaşını geçmiş öğrenciye bi' birey gibi davranılmasının önünün gelecekte daha da açılmasını dilerim.
-- entry_name: |
-    kelime kökenlerine inmeye bayılan insan
-  entry_id:  71480837
-  entry_writer: carline
-  entry_fav_count: 17
-  entry_content: |
-    batı dillerinden köken alan kelimelere de bayılabilir. özellikle de mesleği gereği latinceyle falan haşır neşirse...<br/><br/>anlatmadan geçemeyeceğim. yayınlandığı eski zamanlarda, henüz bu kadar uyduruk değilken, bir kim milyoner olmak ister sorusu vardı. "aşağıdakilerden hangisi ingiliz çorbası anlamına gelen bir tatlıdır?" diye.<br/>tabii ki cevaplayabilmek müthiş zevk verir: "supangle"= soupe anglaise
-- entry_name: |
-    devlet bahçeli ismini değiştirsin
-  entry_id:  71490712
-  entry_writer: bestman777
-  entry_fav_count: 17
-  entry_content: |
-    (bkz: <a class="b" href="/?q=devret+bah%c3%a7eli">devret bahçeli</a>)
 - entry_name: |
     19 ekim 2017 hoffenheim başakşehir maçı
   entry_id:  71497950
   entry_writer: bir cevabim yok ama soru guzelmis
-  entry_fav_count: 17
+  entry_fav_count: 24
   entry_content: |
     şimdi bu takım avrupa kupasında niye rotasyon yapıyor?<br/>- türkiye ligi için<br/>peki türkiye ligi'nde başarılı olursa ne olacak?<br/>- avrupa'ya gidecek<br/>?_&amp;&amp;-++()65_?#&amp;++:!?'*™[[
 - entry_name: |
     whatsapp'ta yazıyor...'dan sonra gelmeyen mesaj
   entry_id:  71495534
   entry_writer: obscruite
-  entry_fav_count: 15
+  entry_fav_count: 19
   entry_content: |
     whats app'ta "yazıyor..."dan sonra bir türlü gelmeyen mesajdır... canına yandığımdır... yazıp yazıp silmiş midir, eli bir harfe takılı kalmıştır da onun acemiliği midir; düşün dur sebaha qadar!
+- entry_name: |
+    samsung galaxy note 8
+  entry_id:  71480559
+  entry_writer: erkek pisi
+  entry_fav_count: 19
+  entry_content: |
+    "bunun parmak izi okuyucusu argada gardessim, beyenmiyorsan alma!"<br/><br/>samsung ortadogu pazarlama bolge sorumlusu - jong woon.
 - entry_name: |
     nikah yetkisi verilmesi önerilen meslekler
   entry_id:  71490846
   entry_writer: maniakpesimist
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     makine mühendisliği.<br/><br/>evli de olsa ara sıra kadın görmüş olurlar.<br/><br/>diş hekimleri de yapabilir. zaten doktor değiller bari bir şey olsunlar.
 - entry_name: |
-    yüz yüze
-  entry_id:  71496142
-  entry_writer: yardirayy
-  entry_fav_count: 13
+    batılı devletlerin dünyayı yaşanmaz hale getirmesi
+  entry_id:  71497400
+  entry_writer: lukstar
+  entry_fav_count: 12
   entry_content: |
-    hişşşt sesi çok sinir bozucu evin içinde ses olsun diye açtım, hayırdır birader deyip televizyona dalmak üzereyim o derece.
+    ''dikkat edin hiçbir doğulu ülke durduk yere kimseye savaş açmazken saydığım bu batılı katiller buldukları ilk fırsatta zavallı ülkeleri ve liderlerini al aşağı edip aç gözlerini doyurmaya çalıştılar.''<br/><br/>yani <br/><br/>rusya gürcistan'a saldırmadı ve fiilen bölmedi, ukrayna'da iç savaş çıkarmadı ve işgal etmedi?<br/><br/>çin, vietnam'a saldırmadı? <br/><br/>vietnam, kamboçya'yı işgal etmedi? <br/><br/>libya, çad'a ve mısır'a saldırmadı?<br/><br/>ırak, iran ve kuveyt'e saldırmadı?<br/><br/>sscb, afganistan'ı, polonya'yı, macaristan'ı, çekoslovakya'yı, finlandiya'yı işgal etmedi? <br/><br/>çin, hindistan'a saldırmadı?<br/><br/>japonya; kore'yi, filipinler'i, çin'i, vietnam'ı, burma'yı, tayland'ı, pasifik adalarını, mançurya'yı, endonezya'yı, malezya'yı, kamboçya'yı işgal etmedi? <br/><br/>gibi gibi.<br/><br/>şu insanımızdaki cahil cesareti hayranlık uyandıracak seviyede.
 - entry_name: |
     22 ekim 2017 galatasaray fenerbahçe maçı
   entry_id:  71483735
@@ -254,6 +261,20 @@ data:
   entry_fav_count: 12
   entry_content: |
     -saha avantajı<br/>-form durumu<br/>-puan farkı<br/>-bireysel performans<br/>-kadro stabilitesi<br/>-moral-motivasyon-psikoloji<br/>-atan-tutan kalitesi<br/>-kulüp içi kaotik durum<br/><br/>gibi göstergeler galatasaray lehine olduğu için fenerbahçe'nin galibiyeti kaçınılmaz. ama hakem ama şans ama başka bir etken. belki de taş gibi top oynar fenerbahçe, kim bilir? şu maçta galibiyeti çantada keklik gören adam ya galatasaray'ı ya da fenerbehçe'yi zerre tanımıyordur.
+- entry_name: |
+    sonu et ile biten lokanta adı alternatifleri
+  entry_id:  71496985
+  entry_writer: bilmukabele guzel kardesim
+  entry_fav_count: 10
+  entry_content: |
+    iade-i ziyar et
+- entry_name: |
+    prime gerek yok fenerbahçe'yi yeneceğiz
+  entry_id:  71497364
+  entry_writer: island er besti stadurinn til ad lifa
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=oradayd%c4%b1m+belgeseli">oradaydım belgeseli</a>)
 - entry_name: |
     hiç kadın şair olmamasının sebepleri
   entry_id:  71476936
@@ -269,13 +290,6 @@ data:
   entry_content: |
     müstehcen diye degildir. sanat degeri tasımadıgı içindir. neyin sanat degeri taşıdıgına kim karar verir, herkesin sanat algısı farklı derseniz, louvre'a gidip gezin. anlarsınız neyin sanat eseri olup olmadıgını.
 - entry_name: |
-    batılı devletlerin dünyayı yaşanmaz hale getirmesi
-  entry_id:  71497400
-  entry_writer: lukstar
-  entry_fav_count: 7
-  entry_content: |
-    ''dikkat edin hiçbir doğulu ülke durduk yere kimseye savaş açmazken saydığım bu batılı katiller buldukları ilk fırsatta zavallı ülkeleri ve liderlerini al aşağı edip aç gözlerini doyurmaya çalıştılar.''<br/><br/>yani <br/><br/>rusya gürcistan'a saldırmadı ve fiilen bölmedi, ukrayna'da iç savaş çıkarmadı ve işgal etmedi?<br/><br/>çin, vietnam'a saldırmadı? <br/><br/>vietnam, kamboçya'yı işgal etmedi? <br/><br/>libya, çad'a ve mısır'a saldırmadı?<br/><br/>ırak, iran ve kuveyt'e saldırmadı?<br/><br/>sscb, afganistan'ı, polonya'yı, macaristan'ı, çekoslovakya'yı, finlandiya'yı işgal etmedi? <br/><br/>çin, hindistan'a saldırmadı?<br/><br/>japonya; kore'yi, filipinler'i, çin'i, vietnam'ı, burma'yı, tayland'ı, pasifik adalarını, mançurya'yı, endonezya'yı, malezya'yı, kamboçya'yı işgal etmedi? <br/><br/>gibi gibi.<br/><br/>şu insanımızdaki cahil cesareti hayranlık uyandıracak seviyede.
-- entry_name: |
     ekşi itiraf
   entry_id:  71478874
   entry_writer: kocamanduslerim
@@ -283,40 +297,12 @@ data:
   entry_content: |
     31 yaşında hala okuyorum. 31 yaşında hala kalbimde güller açabiliyor. 31 yaşında hala gözlerinin içi beni görünce gülen biri var. <br/><br/>geçen yıl hayatım tümüyle değişti. ikinci sayfayı açtım. iyi ki açmışım.
 - entry_name: |
-    bir kadına söylenebilecek en güzel şey
-  entry_id:  71494058
-  entry_writer: mrmayhem
-  entry_fav_count: 6
-  entry_content: |
-    "afitap" kelimesidir. günün ilk ışığı anlamına gelen sözcük, çok bucak keko'suna çevirmemek kaydı ile "afitap'ım" şeklinde sunulabilir ya da karanlık bir geçmişten gelen bad boy imajı üzerine süslenerek servis edilebilir. denendi, çalışıyor.<br/>şaka bir yana bir kadına söylenebilecek en güzel şey doğrulardır, fazla kasmayın. ama söz güzel. afitap.
-- entry_name: |
-    prime gerek yok fenerbahçe'yi yeneceğiz
-  entry_id:  71497364
-  entry_writer: island er besti stadurinn til ad lifa
+    yüz yüze
+  entry_id:  71495249
+  entry_writer: peder hose
   entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=oradayd%c4%b1m+belgeseli">oradaydım belgeseli</a>)
-- entry_name: |
-    19 ekim 2017 konyaspor red bull salzburg maçı
-  entry_id:  71491170
-  entry_writer: yawheehe
-  entry_fav_count: 4
-  entry_content: |
-    ya sacma saçma konuşmayın. gaspçı diye tum taraftarı suclarsan art niyet ararım. sanki bana 3 büyüklerin taraftarı melek, hic başkalarına saldırmazlar.formalarını çıkartmazlar. hepimiz aynı bokun laciverdiyiz iste kandırmayın kendinizi. <br/><br/>konyaya başarılar. büyük ihtimal yenilirler zaten.<br/><br/>not: 3te3 spor.
-- entry_name: |
-    sonu et ile biten lokanta adı alternatifleri
-  entry_id:  71496277
-  entry_writer: pilli pepelek
-  entry_fav_count: 3
-  entry_content: |
-    istifa et
-- entry_name: |
-    mr. robot
-  entry_id:  71494752
-  entry_writer: chris dorner
-  entry_fav_count: 3
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bayrak sahnesi aslında bir şey ifade etmiyor. philip konuşurken arkaya bakarsanız aslında bu konuşmanın türkiye 2015 u.n konferansında geçmiş olduğunu görebilirsiniz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    fırına gelen kadına pavyonda çalışıyor diye ekmek vermeyen elemanın araba hacılayan çete elemanı olması da iyiymiş hani.<br/><br/>ülke bu tiplerden kaynıyor işte amk.
 - entry_name: |
     iz bırakan kitap cümleleri
   entry_id:  71476596
@@ -326,11 +312,11 @@ data:
     "...nemecsek ağlıyordu, iki gözü iki çeşme , er yüreğinin en derin acılarıyla ağlıyordu. ve sarsıla sarsıla ağlarken, yalnızca şunları kekeleyebildi:<br/><br/>-adımı küçük harflerle yazdılar. ah anacığım, zavallı adımı küçük harflerle yazdılar..."<br/><br/>(bkz: <a class="b" href="/?q=pal+utcai+fiuk">pal utcai fiuk</a>)
 - entry_name: |
     çakar lambaların geçiş üstünlüğünün iptal edilmesi
-  entry_id:  71497474
-  entry_writer: poturgilinpotur
-  entry_fav_count: 2
+  entry_id:  71483193
+  entry_writer: liberty walk
+  entry_fav_count: 3
   entry_content: |
-    bu konuyu ben, diyanet işleri başkanının tepkiler üzerine elindeki ultra lüks mersedesi iade etmesi ama birkaç ay sonra başka türlü bir yasal hile/hülle ile yine muadili bir aracın kendisine alınmasını bekliyorum. özellikle ankara ve istanbul'da binlerce çakarlı sirenli sivil araba dolaşıyor, emniyet şeritlerini ihlal ediyor, kendine yol açmak için diğer arabaları taciz ve zorbalıkta bulunuyor, yüzde seksen de rutin günlük hatta kişisel işleri için seyahat ediliyordur tahminim de odur. bunları her partiden insanın tepksini çekmesine yönelik bir gaz alma. hatta bir iki kişiye ceza da kesilir, ama milletvekili arabasında bile var. bir milletvekili ne kadar acil bir iş yapıyor olabilir? operasyona mı gidiyor, işi kanun çıkarmak, anlık bir şey değil, idari-bürokratik-politik bir iş, ama onda bile var. milletvekilinde olmaması gereken şeyi belediye meclis üyesi bile kullanıyor. ben size söyleyeyim, belediye meclisi üyesinin oğlu veya şöforü kendi özel işleri için gezerken kullanıyor. <br/><br/>yeni düzenlemeye göre bunların çakar siren vs. kullanması yasaklandı mı? bunların sökülmesi için emir yayınlandı mı? ben okudum göremedim? kullanana para cezası deniyor, hikaye, zaten adam ben yüksek yerledeyim diye cesaret ediyor, resmi plaka vs. oluyor, bunları polis durduracak da başını belaya alacak, hali hazırdaki şekliyle kafası atmış vatandaşın yol vermeyip kendi başını yakması dışında kullananları kıllandıracak bir durum yok.
+    bende bu şans varken ik uyaracağım çakarlı aracın mit müsteşarı çıkması muhtemel olan karardır.
 - entry_name: |
     en iyi 100 yönetmen
   entry_id:  71494963
@@ -338,6 +324,13 @@ data:
   entry_fav_count: 1
   entry_content: |
     yine gelmiş şu yoksa geçersiz liste bu yoksa bilmem ne listeciler. imdb ve bilimum sosyal medya kanalları da kaynıyor bu tiplerden.<br/><br/>ya arkadaşlar dünya üzerindeki bütün listeler ve ödüller bir ölçüde subjektiftir. herkesi memnun etmesinin imkanı yoktur. o nedenle bu listelere mutlak liste gözüyle bakmayıp ilgili listeleri bir öneri ve keşif listesi olarak görmek lazım. öbür türlü sadece milletin emeğine çamur atmış olursunuz.<br/><br/>yazar arkadaş da kendi listesini ortaya koymuş. sen de uğraş, çabala, yap bi liste, içinde favori yönetmenlerinin olduğu. seni de takdir edelim.<br/><br/>ben de kişisel olarak beklediğim bazı yönetmenleri görememiş olabilirim. o zaman derim ki arkadaş, eline sağlık ama ben olsam şu şu isimleri de koyardım veya şu şu isimlerin olmamasına üzüldüm/şaşırdım. üslup önemli burada.<br/><br/>hemen şu yok geçersiz liste, bu yok berbat liste. ayıp yani gerçekten.
+- entry_name: |
+    schengen vizesi başvurularının askıya alınması
+  entry_id:  71498716
+  entry_writer: frozen inferno
+  entry_fav_count: 0
+  entry_content: |
+    an itibariyle gerçekleşen durum. macaristan başkonsolosluğu talimatına istinaden 20 kasım 2017 tarihi sonrasındaki seyahatlar için başvurular kabul edilmeyecekmiş. bu konsolosluk <a class="b" href="/?q=macaristan">macaristan</a>, <a class="b" href="/?q=portekiz">portekiz</a>, <a class="b" href="/?q=norve%c3%a7">norveç</a> ve <a class="b" href="/?q=slovenya">slovenya</a> vizeleri ile protokol sahibi olduğu için bu dört ülkeye artık vize verilmeyecek.<br/><br/>kaynak: başvuruların yapıldığı aracı firma visalia global <a rel="nofollow noopener" class="url" target="_blank" href="http://tr.visaliaglobal.com/" title="http://tr.visaliaglobal.com/">sitesi</a><br/><br/>not: şu an için kaynağım yok ama <a class="b" href="/?q=italya">italya</a>, <a class="b" href="/?q=hollanda">hollanda</a> ve <a class="b" href="/?q=avusturya">avusturya</a>'nın da yavaşlatma eylemine başlayacağını duydum. bu entry kaynak için güncellenecektir.<br/><br/>`ilk edit:` orange vize öldü arkadaşlar, el fatiha. bir süredir bahsi geçen dört ülkenin vizesini aynı yerde bulunan ama yeni isimli <a class="b" href="/?q=visalia+global">visalia global</a> firması veriyor. kaynak ben, bu ayın başında vize aldım.<br/><br/>`ikinci edit:` macaristan başkonsolosluğu'nun açıklamasını yazan, bu dört ülkenin vizesini veren firmayı kaynak göstermek, kulaktan kulağa oynamakmış. vay be sözlük daha neler öğreteceksin bizlere. macaristan başkonsolosluğu sitesine ulaşılamıyor an itibariyle.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  71496173
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     adamlar aylarca montaj kitliyormuş da, senaryo defalarca revize ediliyormuş da, ondan eleştiremezmişiz. bre çok bilmiş, dünya üzerinde aylarca montajının yapılmadığı ya da defalarca senaryosunun revize edilmediği film mi var? sektörün hangi sapına tutunmuşsun bilmiyorum da, hayatında hiç first draft senaryonun çekildiğini duydun mu?<br/><br/>o zaman hiçbir filmi eleştirmeyelim. recep ivedik'te falan da aylarca montaj kitleniyor, senaryo kaç draft yazılıyor. şahan'dan iyi mi bileceeniz amk?
+- entry_name: |
+    19 ekim 2017 olimpia milan fenerbahçe doğuş maçı
+  entry_id:  71498950
+  entry_writer: kabul edilmeyen vezir gambiti
+  entry_fav_count: 0
+  entry_content: |
+    mellinin jeneriklik bir blok yaptığı maç.
 ---
