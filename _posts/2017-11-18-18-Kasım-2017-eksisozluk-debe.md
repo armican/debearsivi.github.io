@@ -6,42 +6,42 @@ data:
     reza zerrab'ın itirafa başlaması
   entry_id:  72179142
   entry_writer: geri donen mektup
-  entry_fav_count: 1716
+  entry_fav_count: 1732
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6t%c3%bcyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">ötüyor gönlümün efendisi</a>)
 - entry_name: |
     kyk bursunda dönen büyük şerefsizlik
   entry_id:  72178446
   entry_writer: ddr house
-  entry_fav_count: 1015
+  entry_fav_count: 1041
   entry_content: |
     evi olana ver, okula arabasıyla gelene ver, kyk nın rezil yurtlarında kalmaya tenezzül dahi etmeyip ev tutacak parası olana ver, bakanlıkta torpili olana, yalamaya ver, başarı seviyesi çöp olan, aldığı bursu ot parası yapacaklara ver, 400 liradan aşağı ayakkabı giymeyene ver, bakan çocuğunun kankasına, yetmedi mi? kankasının kuzenine dahi ver. <br/><br/>daha nicelerini yazsam ne fayda?<br/><br/>kısacası, gençlik ve spor bakanlığının ülkenin vergileriyle oluşturduğu maddi gelirin, sözde maddi sıkıntılı öğrencilere yardım adına verdiği parayı hiç bir sıkıntısı olmayan 3 5 zengin çocuğuna, ahbaplarina dağıtmasına ve ciddi mânâda maddi yardıma ihtiyaç duyan öğrencilere kredi verip, mezun olunca verdiği paranın 2.7 katını alarak cebine katan, bu siktigimin sistemine tepkim.<br/><br/>bu tepki inanın kişisel değil. üniversite okuyanlar, okumuş olanlar bilir. sabah kahvaltısıyla akşam eden öğrencilerin olduğunu ve bunlara devletin 5 kuruş bile vermediğini biliyordur. hatta aranızda kyk dan mecbur kalarak aldığı krediyi faizleriyle birlikte hala ödemeye çalışanlar bile vardır.<br/><br/>son olarak, bursiyer seçimi yapan, sabah 8 akşam 4 göt üstü, facebook oyunlari oynamaktan başka zerre vasfi olmayan, torpilli bursiyer secme kısımlarını halledip geriye kalan 3 5 bursiyer kontejaninı o piti piti oynayarak seçenler; size de sizi oraya oturanlara da selam olsun. ben size ne desem övgü olur anca. kendinizin hangi sıfatları hakettiginizi bildiğinize adım gibi eminim.<br/><br/>umarım bu konu gündem olabilir. hiç bir halt olmasa bile, en azından bir kamuoyu oluşur. sizden varlıklılara yardım adında dağıtılan para, sizin bizim paramız ve birileri araba taksitini ödesin diye dağıtılıyor<br/><br/>edit: bir iki düzeltme.
 - entry_name: |
     nato'nun atatürk ve erdoğan'ı hedef yapması
   entry_id:  72183696
   entry_writer: gayim ama para bende
-  entry_fav_count: 420
+  entry_fav_count: 425
   entry_content: |
     artık çarpıtmalarında atatürk'ü de kullanacaklarını göstermektedir.<br/>benim yanımda atatürk'e de hakaret ediyorlar diyerek kendisi kadar atatürk'ü de mağdur göstermeye çalışacaktır.<br/><br/>umuyorum yanlış duyumdur.<br/>yanlış değil ise sıkıntı...<br/><br/>doğruymuş. sıçtık!
 - entry_name: |
     limonataya ötv gelmesi
   entry_id:  72181078
   entry_writer: modern tinerci
-  entry_fav_count: 259
+  entry_fav_count: 260
   entry_content: |
     son torba yasa ile birlikte limonata, meyve suyu, soda gibi artık lüks tüketim olarak değerlendirebileceğimiz içeceklere, ekonominin çogh iyi olduğu türkiyede ötv eklenmiş.<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.businessht.com.tr/guncel/haber/1717326-limonata-ve-meyve-suyuna-otv-geldi" title="http://www.businessht.com.tr/guncel/haber/1717326-limonata-ve-meyve-suyuna-otv-geldi">http://www.businessht.com.tr/…eyve-suyuna-otv-geldi</a><br/><br/>(bkz: <a class="b" href="/?q=halk+y%c3%bcksek+vergiler+alt%c4%b1nda+eziliyordu">halk yüksek vergiler altında eziliyordu</a>)
 - entry_name: |
     bekaretini 2.5 milyon dolara satan kız
   entry_id:  72186624
   entry_writer: nickimi ver
-  entry_fav_count: 216
+  entry_fav_count: 222
   entry_content: |
     (bkz: <a class="b" href="/?q=elit+orospuluk">elit orospuluk</a>)
 - entry_name: |
     ilk kafa naklinin başarıyla gerçekleştirilmesi
   entry_id:  72188084
   entry_writer: dogmeli kelle
-  entry_fav_count: 201
+  entry_fav_count: 204
   entry_content: |
     <a class="b" href="/?q=brad+pitt">brad pitt</a> kafası geldi.
 - entry_name: |
@@ -55,9 +55,16 @@ data:
     sarma sigara içenlere 6 yıl hapis cezası verilmesi
   entry_id:  72187103
   entry_writer: blackdog
-  entry_fav_count: 176
+  entry_fav_count: 177
   entry_content: |
     içenlere değil, dumanına maruz kalanlara 6 yıl hapis veriliyor. içenleri asacaklar. götünüzle okumayın şu haberleri.
+- entry_name: |
+    konya'da kurulan ilk insansı robot fabrikası
+  entry_id:  72183432
+  entry_writer: gayim ama para bende
+  entry_fav_count: 165
+  entry_content: |
+    bizdeki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg" title="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg">insansı türk robot</a><br/><br/>japonlardaki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg" title="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg">insansı japon robot</a><br/><br/>japon robot bizimkini evine alır cam silme işlerinde kullanır, kendisi de komşularına çaya gider.
 - entry_name: |
     dolardaki şişkinliğin kalkacağına inanıyorum
   entry_id:  72183189
@@ -66,33 +73,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=nereye+do%c4%9fru">nereye doğru</a>)
 - entry_name: |
-    konya'da kurulan ilk insansı robot fabrikası
-  entry_id:  72183432
-  entry_writer: gayim ama para bende
-  entry_fav_count: 159
-  entry_content: |
-    bizdeki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg" title="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg">insansı türk robot</a><br/><br/>japonlardaki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg" title="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg">insansı japon robot</a><br/><br/>japon robot bizimkini evine alır cam silme işlerinde kullanır, kendisi de komşularına çaya gider.
-- entry_name: |
     kapıcının 10 yaşındaki çocuğa tecavüz etmesi
   entry_id:  72181865
   entry_writer: caymenex
-  entry_fav_count: 114
+  entry_fav_count: 116
   entry_content: |
     <a class="b" href="/?q=%c5%9feyma+suba%c5%9f%c4%b1">şeyma subaşı</a> hanımefendiye internet üzerinden hakaret edenler için interpol devreye sokulurken, bu zavallı yavrucağın vücudundaki morluklar daha iyileşmeden olayın sanığı tutuksuz yargılanmak üzere serbest bırakılıyor. ulan bu adamın tutuklanması için illa <a class="b" href="/?q=serap+ezg%c3%bc">serap ezgü</a>nün programına mı çıkması gerekiyor, adaletin, düzenin batsın be dünya!
 - entry_name: |
     viceroy'un okunuşu sorunsalı
   entry_id:  72186922
   entry_writer: viski raki sarap bira
-  entry_fav_count: 99
+  entry_fav_count: 104
   entry_content: |
     bizim bakkal vikori diyor.
 - entry_name: |
-    gezicilerin yargılanacaksınız mastürbasyonu
-  entry_id:  72176887
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 73
+    seks için arzu edilen ırk
+  entry_id:  72177073
+  entry_writer: arthistoryatavratpusat
+  entry_fav_count: 60
   entry_content: |
-    (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+da+geldi+tam+oldu">orospu çocuğu da geldi tam oldu</a>)
+    (bkz: <a class="b" href="/?q=neandertal">neandertal</a>)
 - entry_name: |
     türk erkeklerinin kadınlara çok kaba davranması
   entry_id:  72189221
@@ -101,6 +101,20 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=hatunlar%c4%b1n+efendi+adam+yerine+pi%c3%a7+tercihi">hatunların efendi adam yerine piç tercihi</a>)<br/><br/>umarım yeterince açıklayıcı olmuştur.
 - entry_name: |
+    yalnızlık ne kokar
+  entry_id:  72180958
+  entry_writer: welekrock
+  entry_fav_count: 57
+  entry_content: |
+    küllük.
+- entry_name: |
+    30 yaş üstü bekar erkeklerin arıza olması
+  entry_id:  72187918
+  entry_writer: tyranno
+  entry_fav_count: 53
+  entry_content: |
+    madem evlisin, ne diye uğraşırsın bunları yazmakla? keşke sen de negatif enerjini uzağa salsaydın.
+- entry_name: |
     illere göre iq sıralaması
   entry_id:  72191355
   entry_writer: excelsior was here
@@ -108,19 +122,12 @@ data:
   entry_content: |
     sene nerdeyse 2018 ve bizlere mynet'ten haber okuyanları göstermiştir. teşekkürler ekşi.
 - entry_name: |
-    30 yaş üstü bekar erkeklerin arıza olması
-  entry_id:  72187918
-  entry_writer: tyranno
-  entry_fav_count: 51
+    imdb puanı yanıltıcı olan filmler
+  entry_id:  72175667
+  entry_writer: born to sleep
+  entry_fav_count: 48
   entry_content: |
-    madem evlisin, ne diye uğraşırsın bunları yazmakla? keşke sen de negatif enerjini uzağa salsaydın.
-- entry_name: |
-    yalnızlık ne kokar
-  entry_id:  72180958
-  entry_writer: welekrock
-  entry_fav_count: 47
-  entry_content: |
-    küllük.
+    kesinlikle hint filmleri. imdb kullanılamaz hale geldi bu hintlilerin en kötü hint filmlerine bile 10 puan basmasından.<br/><br/>bunun dışında süper kahraman filmleri. burda da ergenler bu saçma sapan filmlere basıyor 10 puanı. ortalık süper kahraman saçmalıklarından geçilmez oldu bunlar yüzünden.<br/><br/>hakettiği puanın altında alan filmler de korku filmleri. ne kadar iyi olursa olsun 7 puanı nadiren geçiyorlar. izlemeyin kardeşim korku filmlerini sevmiyorsanız. izleyip izleyip düşük puan veriyorlar. ben süper kahraman filmi izliyor muyum?
 - entry_name: |
     samsung'un akıl almaz garanti rezaleti
   entry_id:  72185605
@@ -139,7 +146,7 @@ data:
     bedelli askerlik
   entry_id:  72181467
   entry_writer: agactan inen maymun
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     yıl 2013, youtube'dan para basıyorum o dönemler.<br/>sistemimi oturtmuş ve rayına sokmuşum. okulu da bıraktım (üni'den kaydımı sildirdim), ki emekliliğimi yaşayacak kadar birikim ve geleceğe yönelik yatırımımı da yapmışım.<br/>bir an önce askere gideyim de aradan çıkarayım diye düşünmekteyim, hem böylelikle askerlik sürecinde(uzun dönem) harcamalarım da minimum seviyeye inecek ve böylelikle ekstra bir birikim daha yapmış olurum diye düşünmekteyim.<br/><br/>gün geldi bedelli askerlik yasası çıktı(2014), ve tanıdığım tüm lise veya askerliğini yapmamış yakın arkadaşlarım bedelli askerlik ile işlerini hallettiler. işini gören bana geliyor ağız yoklamaya, sen de ödedin mi diye.<br/>"hayır" cevabını alan inanamayıp tekrar soruyor. sonra binbir türlü akıl verme polemikleri başlıyor aramızda, işte ne yapacaksın gidip, amelelik falan fişman vs hepimizin bildiğiniz laflar sözler işte.<br/><br/>ama kafaya koydum gidip askerliğimi yapacağım. aynı zamanda askerliği "hayatıma belki ekstra bir deneyim ve tecrübe katar" diye görmekteyim. neyse bedelli askerlik yasası geldi geçti, tanıdığım herkes(lise arkadaşlarım, yaşıtlarım, çevrem) bu yasadan yararlandılar. askerlik derdinden tek kurtulmayan ben kalmıştım ortamda.<br/><br/>yasanın geçerlilik sürecinin bitmesinden kısa bir süre sonra bir gün ruh ve psikolojik olarak kendimi hazırladım ve şubeye gidip başvurdum. yığılma var, 1 yıl sonra gel dediler ve geri postaladılar beni. açıkcası bu cevabı beklemiyordum, çünkü her şeyimi askere alınacağım yönünde hazırlamış ve ayarlamıştım.<br/><br/>neyse askerliğin kapısından böylelikle geri dönmüş oldum ve 1 yıl boyunca boş boş gezdim tozdum keyfime baktım. derken bir gün ekşi'de köprüler kapatıldı asker barikat kurdu gibisinden bir şeyler okudum. tv'yi açtım bir baktım o da ne, darbe girişimi...<br/><br/>bu süreci dikkatle takip ettim, gerçi tv'de gösterilenler yaşananların belki sadece 5'de 1'i idi. çevremden arkadaşlardan dostlardan anlık olarak videolar gelmeye başladı. parçalanmış ve etrafa savrulmuş insan uzuvları...<br/>kim kime darbe yapıyor onu anlamak zaten güçtü, iktidar iktidarla çatışıyordu işin komik yanı. öküz öldü ortaklık bozuldu mevzusu.<br/><br/>bu zaman diliminde, suçsuz yere yobazlar tarafından katledilenler erler, suçsuz yere parmaklıklar arasında çürüyen emir komuta zincirinin el alt kademesinde bulunan yine erler, binbir türlü hakareti işitip aşağılanan yine erler. düşündüm ve dedim ki "ulan insaf, en alt tabakadaki izmarit toplayıcı grubu olan erleri nasıl yargılayabiliyor devlet darbe suçundan".<br/>bu erler mi organize etti, planladı darbe girişimini veya ayaklanmayı?<br/>bunların suçu neydi?<br/>o tsk'nın sınırından içeri girdiğin an, askerliğini yapmış ve yapmamış olanlar dahil bilir ki bağlı olduğun komutanından hariç kimseyi tanımazsın tezkereni alana dek. o ne derse o olur. emir demiri keser.<br/><br/>yani bu olayda;<br/>- hem devlet zoruyla tsk'ya alınıyorsun.<br/>- hem yine devletin bir kolu zoruyla darbe girişiminde yer alıyorsun.<br/>- hem devlet eliyle yine yargılanıp taşlanıyorsun şeytan gibi.<br/><br/>tek suçun, milli vazife diyerek askere gitmek... ve bir bakmışsın, hayatın alt üst olmuş, dünyan kararmış. ölmekten beter olmuşsun.<br/><br/>belki, askerlik şubesinde başvurduğum dönem yığılma olmasa ve beni almış olsalar idi ben de o gariban erlerden biri olacaktım şu an kim bilir.<br/><br/>bu süreçten sonra pişman oldum, bedelliden yararlanabilme hakkım olmasına rağmen bunu kullanmadığım için.<br/>yarın bir gün aynısının olmayacağı ne malum? fetö gider, tetö gelir, tetö gider sekö gelir.<br/>devlet, hem göz göre göre bunlara müsade ediyor hem de sonrasında kırbaçlıyor...<br/><br/>yok sağ olun ben almayayım bundan sonra, bakaya spor olarak beklemekteyim yeni bedelli askerlik yasasını.<br/>açıkcası, yargı ve adalet konusunda devlete ve tsk'ya olan güvenim sarsıldı.<br/>ki ben, çocukluğumda siyah beyaz tv'de trt'nin yan kanallarında askeri marşları, koroları ve propagandaları ağlaya ağlaya zorla açtırtıp izleyen biriydim.<br/><br/>son söz olarak diyeceğim şu ki; bazı değerlere olan saygımı sarstı ve vicdanımı incitti bu son yıllar da olan olaylar. tek bahanem bu.<br/><br/>ister korkak desinler, ister hain desinler. ben vatan ve askeriye konusunda duygusal biriyim, kalbi kırılan ve güveni sarsılan sevgiliyi geri getiremezsiniz.
 - entry_name: |
@@ -157,13 +164,6 @@ data:
   entry_content: |
     öncelikle bilinmelidir ki bu dava <a class="b" href="/?q=%c3%bclkenin">ülkenin</a> beka sorunu değildir,hükümetin beka sorunudur.<br/>eğer böyle birşey varsa,yani kara para aklama ambargoyu delme,üstüne dünya kadar rüşvet alma ve verme.<br/>kimse kusura bakmasın o paraları ben yemedim.şu anda hükümetin üst kanadında bulunanların nice mal varlıkları var allah bilir.ve böyle birşey yapmış bir hükümet varsa yargılanmalıdır,eğer yargılamazsan senin ülkenin değeri 2 paralık olur dışarıda,kimse sana güvenmez,iş yapacak adam bulamazsın ambargolardan.haliyle bu da fakirlik demektir.<br/>yapılacak şey bellidir,tc devletinin kasasından 1 kuruş bile çıkmadan eğer böyle bir dava olup rüşvet alanlar gerçekse,tutuklarsın bu adamları,tüm mal varlıklarını ve yurtdışı paralarına el koyma hükmü verirsin,takır takır bu ceza ödenir ve türkiye alnının akıyla yoluna devam eder.<br/><br/>yok bunu yapmaz da ,benim hükümetim beni düşünüyor ölene kadar onunla gitmek istiyorum diyorsan salaksın,çünkü aç kalacak günlerin gelecektir ki abd nin işine daha fazla gelir,zaten fakirleştirip türkiye yi bölme gibi bir planları var iken,daha kolay olmuş olur.<br/><br/>beyler bayanlar şöyle bir titreyin ve kendinize gelin.rüşvet ,yolsuzluk falan bahsediliyor,heeeey. bu ülkeyi akp kurmadı,millet kurdu.yarın öbürgün olduda varsayalım ülkeyi yöneten kişi kalp krizi geçirdi öldü.ne kamış yeriz hiç düşüneniniz oldu mu ? yahu kardeşim bu adam fani fani ,ölümlü yani.bu adam öldüğünde ülke komple kapanacak falan mı sanıyorsunuz nedir anlamadım ben,yahu bugün gitmese yarın gidecek ve bu ülke yönetilmeye yine devam edecek.koca devlet nasıl olurda bir kişi üzerinden gider,kafayımı yediniz.bırakın suçu olan kim varsa cezasını çeksin,eğer çekmezse,çektirmezseniz tüm millet kamışı yiyecek.kişiler önemli değil,kurumlarımız sağlam ve dirayetli olsun bize yeter.<br/><br/>chavez öldü venezuela kamışı yedi,castro öldü küba kamışı yedi,saddam öldü ırak kamışı yedi,kaddafi öldü libya kamışı yedi,mübarek öldü mısır kamışı yedi vs. daha niceleri.. ama keneddy öldüğünde abd kamışı yedi mi ? hayır, niye ? çünkü işleyen bir devlet sistemi var,adamların kurumları güçlü,kişiler umurlarında bile değil.<br/><br/>millet kafayı yemiş abi valla bakın.yok ülkenin beka sorunuymuş da bilmem neymiş.burada tc devleti suçlanmıyor,hükümet suçlanıyor,kendinize gelin.<br/><br/>tanım: abd de tutuklu bulunan ve türkiye hükümetinde ki bazı mv hakkında ,irana karşı ambargoyu deldiklerine ve kara para akladıkları,rüşvet aldıkları gibi konularda ötmesi beklenen kişi.bu ülkenin belki de başına bugüne kadar gelmiş olan en kötü şeylerden biri.
 - entry_name: |
-    aselsan
-  entry_id:  72183810
-  entry_writer: 0111000001101001011011000110111101110100
-  entry_fav_count: 29
-  entry_content: |
-    borsa ile ilgilenenlerin anlattığı benim de sevdiğim bir hikaye vardır;<br/><br/>kodaman, zengin bir adam gemiyle büyük bir adaya gider. ada halkına "maymun satın almak istiyorum, getirdiğiniz her maymun için $20 ödeyeceğim" der. adadaki herkes maymun yakalamaya çıkar, bulabildikleri tüm maymunları toplarlar bizim elemana satarlar.<br/><br/>kodaman bir hafta sonra tekrar gelir "daha fazla maymuna ihtiyacım var, maymun başına bu sefer $50 ödeyeceğim" der. ada halkı sağda solda kalan, saklanmayı başaran 3-5 tane ne kadar maymun varsa hepsini yakalar bizim elemana satarlar, bir tane bile maymun kalmamıştır artık adada.<br/><br/>kodaman bir hafta sonra tekrar gelir "bulabilirseniz daha fazla maymun alacağım, her biri için $300 ödeyeceğim" der. ada halkı fellik fellik maymun aramaktadır ama adada tek bir maymun bile kalmamıştır. bu esnada adaya başka bir gemi yanaşır, gemiyle gelen tüccar maymun taşımaktadır. "maymunları tanesi $200'dan satıyorum" der.<br/>tabi bizim ada halkı uyanık, çok zeki çocuklar. $200'den alıp, $300'e satacaklar, temiz para. tüccardan bütün maymunlarını $200'dan alırlar.<br/><br/>ellerindeki maymunu kodamana satmak için ertesi gün sahile geldiklerinde ortada ne kodaman kalmıştır ne de tüccar. kodaman ve yancısı tüccar(!) adadan çoktan ayrılmışlardır. bizimkiler de $20'a sattıkları maymunlara $200 ödeyerek geri aldıklarıyla kalmışlardır.<br/><br/>kıssadan hisse, güzelim kağıdı maymuna çevirdiler.
-- entry_name: |
     tr'deki milyonlarca çomarla nasıl gelişilir
   entry_id:  72187501
   entry_writer: otodidakt adam
@@ -171,12 +171,33 @@ data:
   entry_content: |
     en mantıklısı gelin memleketi komple satalım, elde edilen parayı tüm herkese eşit dağıtalım isteyen gitsin istediği yerde yaşasın. yoksa gelişmek hayal.
 - entry_name: |
+    15 temmuz öncesi gülen sevip saymak suç muydu
+  entry_id:  72191989
+  entry_writer: the prince of heaven
+  entry_fav_count: 27
+  entry_content: |
+    başlığın tam hali:<br/><br/>"15 temmuz öncesi gülen sevip saymak suçsa, bu suça ortak olmamış insan bulmak neredeyse imkânsız"<br/><br/>olan bülent arınç'ın son <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/gazeteduvar/status/931512248295604224" title="https://twitter.com/gazeteduvar/status/931512248295604224">açıklaması.</a><br/><br/>şahsen bizzat kendim 15 temmuz öncesi de fethullah gülen denen şeytandan nefret ediyordum. o beyinleri gitmiş ilkokul mezunu bir manyağa tapanlarla da muhatap olmuyordum <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Q-rWNfah9NM" title="https://youtu.be/Q-rWNfah9NM">açıkçası.</a> hâlâ da olmuyorum. <br/><br/>kişi kendinden bilir işi.
+- entry_name: |
     emlak balonu
   entry_id:  72185146
   entry_writer: xibillian
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     emlak balonunun şiştiğini görmeyen bilmeyen yok. epeydir herkes şişkinliğin farkında ama balonumuz bir türlü patlamıyor. neden? <br/><br/>çünkü devletimiz ( <a rel="nofollow noopener" class="url" target="_blank" href="http://www.kgf.com.tr/index.php/tr/" title="http://www.kgf.com.tr/index.php/tr/">kgf</a> ) tüm gücüyle inşaat firmalarının arkasında. yanlış anlaşılmasın müteahhit faruk abiyi salladığı yok devletin. ama çükübikoğlu inşaat, penisium towers projesi gibi baba firmalar, projeler falan hep devletin korumasında. bu adamlardan biri çıkıp "batıyorum beyler allaha emanet" dese devlet babamız anında "çekil lan kenara vatan haini, kayyum bey buyrun lütfen" der. zaten bu baba firmalar baştan batmama garantisiyle iş yapmak için "emlak konut işbirliğiyle" girişiyolar bu projelere..<br/><br/>dolayısıyla bu balon şişer, şişeeeer ve şişer.<br/><br/>ne zaman patlar? o da çok net aslında.. devlet vatandaşa daha fazla bindiremediği gün patlar. <br/><br/>türkiye cumhuriyeti devletinin en önemli finansörü türkiye cumhuriyeti halkıdır. halkın gücü kalmazsa devletin de inşaat sektörünü destekleyecek gücü kalmaz. <br/><br/>peki bin yıldır iliğine kadar sömürülmeye alışık bu halk nereye kadar dayanır? bunun cevabını verebiliyorsanız grafik mrafik bırakın direkt ekonomi doktorası alın. ister psikolojik sorun deyin ister cefakarlık deyin. anadolu halkı çok zor şartlara çok basit motivasyonlarla dayanabiliyor. bu yüzyılda işler değişecek mi, değişirse nasıl değişecek beraber izleyip göreceğiz.
+- entry_name: |
+    abd dizisinde fetö darbe yapmadı propagandası
+  entry_id:  72194554
+  entry_writer: altay horda
+  entry_fav_count: 22
+  entry_content: |
+    bir <a class="b" href="/?q=netflix">netflix</a> dizisi olan <a class="b" href="/?q=designated+survivor">designated survivor</a>'ın 2. sezon 7. bölümünde yapılandır.<br/><br/>dizide fethullah gülen, muhalif lider "<a class="b" href="/?q=nuri+%c5%9fahin">nuri şahin</a>" olarak gösteriliyor ve darbe ile bir alakası olmadığı belirtiliyor.<br/>tayyip erdoğan ise cumhurbaşkanı "<a class="b" href="/?q=fatih+turan">fatih turan</a>" olarak adlandırılmış.<br/><br/>bölümün hemen başında abd başkanı ve kurmayları türkiye-abd ittifakı hakkında konuşuyor, türklerden "<a class="b" href="/?q=pi%c3%a7ler">piçler</a>" olarak bahsediliyor<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/JONqRW.jpg">https://i.hizliresim.com/jonqrw.jpg</a><br/><br/>abd'nin hava üsleri için türkiye'ye yıllık 6 milyar dolar ödediğine vurgu yapılıyor.<br/>yıllık 6 milyar dolar ödedikleri hava üslerimizde nükleer silahlarını saklıyorlarmış;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/bLpkOG.jpg">https://i.hizliresim.com/blpkog.jpg</a><br/><br/>türkiye'deki gelişmelere göndermeler yapılıyor.<br/>örneğin, başkan'ın yaptırdığı villa;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/ByNvVV.jpg">https://i.hizliresim.com/bynvvv.jpg</a><br/><br/>dizide türkiye cumhurbaşkanını oynayan kişi şu;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LONy7b.jpg">https://i.hizliresim.com/lony7b.jpg</a><br/><br/>sakallı falan, bir ortadoğu emiri gibi betimlenmiş, konuşma yapıyor, darbe girişimi yapan nuri şahin'in iade edilmesini istiyor.<br/>bu iade talebine abd başkanı dalga geçerek yanıt veriyor, oradakiler gülüyor, güya türkiye cumhurbaşkanı küçük düşürülüyor.<br/><br/>devam ediyoruz.<br/>türkiye cumhurbaşkanının basın toplantısında nuri şahin'den terörist olarak bahsetmesi, abd başkanını rahatsız ediyor. cumhurbaşkanını ofisine çekiyor ve fırçalıyor. nuri şahin'in (feto) darbe ile bir alakası olmadığını söylüyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/7yd7LW.jpg">https://i.hizliresim.com/7yd7lw.jpg</a><br/><br/>karşılıklı atışıyorlar.<br/>bizim cumhurbaşkanı "<a class="b" href="/?q=o+zaman+%c3%bcslerimizi+kulland%c4%b1rmay%c4%b1z">o zaman üslerimizi kullandırmayız</a>" diye posta koyuyor ve "üslerimizi rusya'ya kullandırabiliriz" diyerek odadan ayrılıyor.<br/><br/>dizide fetöcü darbe girişimine abd'nin bakışı net bir şekilde işlenmiş.<br/>abd'ye göre 15 temmuz darbe girişimi konusunda feto iti suçsuz. <br/><br/>ve dizideki fethullah gülen, muhalif ve özgürlükçü biri. laik ve modern türkiye için bu adamın türkiye'nin başına geçmesi gerektiği vurgulanıyor.<br/>türkiye nato toplantısında bu kişinin iadesini istiyor, aksi takdirde nato'dan ayrılacağını söylüyor.<br/>diğer nato üyeleri türkiye'nin ayrılmaması için abd başkanına baskı yapıyor, ama abd yine de masum fetöcüyü(!) iade etmiyor.<br/>hatta türkiye cumhurbaşkanı, abd başkanının oğluna tuzak kuruyor, şantaj yapıyor falan.<br/>ama abd başkanı türkiye cumhurbaşkanını çağırarak fırçalıyor ve olay abd'nin istediği şekilde kapanıyor.<br/><br/>yaratılan algı net.<br/>türkiye istenmeyen ülke ilan edilmeye, fetö de hak ve özgürlükler için mücadele eden demokratik bir kahraman olarak gösterilmeye çalışılıyor.<br/><br/>neyse, uzatlayalım.<br/>bugün <a class="b" href="/?q=nato">nato</a>'dan gelen haberler, abd dizisinde işlenen bu konular...<br/>bizim artık abd ile ortak bir paydada buluşmamızın imkansız olduğu apaçık ortada.<br/><br/>yine de takdir sizin.<br/>dizinin ilgili bölümünü malum ortamlardaki malum linklerden bulup izleyebilirsiniz.<br/>tabi izlemeye dayanabilirseniz.
+- entry_name: |
+    ricardo quaresma
+  entry_id:  72195309
+  entry_writer: kaset ile kalem arasindaki iliski
+  entry_fav_count: 20
+  entry_content: |
+    ulan senin yüzünden bu gece televizyon ekranına bira şişesi attım amına koyayım 2500 lira zarara soktun beni senin oynayacağım topun da amına koyayım seninde piç
 - entry_name: |
     dünyanın en mükemmel üçlemeleri
   entry_id:  72185728
@@ -185,47 +206,47 @@ data:
   entry_content: |
     f+f+m
 - entry_name: |
+    van'da ayakkabısız çocuk kalmasın
+  entry_id:  72176952
+  entry_writer: anayurtoteli
+  entry_fav_count: 18
+  entry_content: |
+    ihtiyaç sahibi olan bütün çocukların ayakkabı masraflarını karşılamak istediğim kampanya. bir arkadaşın bilgilendirmesi üzerine başlıktan haberdar olmuş durumdayım. kampanyayla ilgilenen arkadaşımız bana özelden ulaşabilirse sevinirim.
+- entry_name: |
     17 kasım 2017 beşiktaş akhisarspor maçı
   entry_id:  72193455
   entry_writer: adet adet insan
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     adamlar sırf korkalım diye rodallega’ya benzeyen forvet almışlar.
 - entry_name: |
     bitcoin
   entry_id:  72185268
   entry_writer: david lynch
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     bir refli link paylaşan dilencilerden bir de atarlı giderli "biri bana açıklasın" adamcıklarından gına geldi artık şurada. <br/><br/>kimse sana bir şey açıklamak zorunda değil birader. binlerce entry, makale, döküman, video var. siktir git araştır öğren. öğrenmiyorsan da alma. alma yahu. bu kadar basit. <br/><br/>herif hem para kazanmak istiyor, hem de gelmiş "bana bunlarla gelmeyin, şunu açıklayın"... kimse açıklamasın lan bunlara. bitcoin yükseldikçe kudursunlar aq. 2 satır makale okumaktan aciz adamlara bir şey anlatmaya çalışmayın.
-- entry_name: |
-    15 temmuz öncesi gülen sevip saymak suç muydu
-  entry_id:  72191989
-  entry_writer: the prince of heaven
-  entry_fav_count: 15
-  entry_content: |
-    başlığın tam hali:<br/><br/>"15 temmuz öncesi gülen sevip saymak suçsa, bu suça ortak olmamış insan bulmak neredeyse imkânsız"<br/><br/>olan bülent arınç'ın son <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/gazeteduvar/status/931512248295604224" title="https://twitter.com/gazeteduvar/status/931512248295604224">açıklaması.</a><br/><br/>şahsen bizzat kendim 15 temmuz öncesi de fethullah gülen denen şeytandan nefret ediyordum. o beyinleri gitmiş ilkokul mezunu bir manyağa tapanlarla da muhatap olmuyordum <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Q-rWNfah9NM" title="https://youtu.be/Q-rWNfah9NM">açıkçası.</a> hâlâ da olmuyorum. <br/><br/>kişi kendinden bilir işi.
-- entry_name: |
-    van'da ayakkabısız çocuk kalmasın
-  entry_id:  72176952
-  entry_writer: anayurtoteli
-  entry_fav_count: 14
-  entry_content: |
-    ihtiyaç sahibi olan bütün çocukların ayakkabı masraflarını karşılamak istediğim kampanya. bir arkadaşın bilgilendirmesi üzerine başlıktan haberdar olmuş durumdayım. kampanyayla ilgilenen arkadaşımız bana özelden ulaşabilirse sevinirim.
 - entry_name: |
     sigara tüketimini arttıran durumlar
   entry_id:  72175792
   entry_writer: theonewhocoughs
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     kafanin iyi olmasi.
 - entry_name: |
-    15 bin suriyeli'ye çalışma izni verilmesi
-  entry_id:  72190860
-  entry_writer: atmosferikcandir
+    evliliğin mantıklı gelmeye başlaması
+  entry_id:  72176057
+  entry_writer: sinpecado
+  entry_fav_count: 13
+  entry_content: |
+    anlik bir durumdur.<br/>atin cavusa iki tokat ve kendinize gelin.
+- entry_name: |
+    jeremain lens
+  entry_id:  72193535
+  entry_writer: sick mind
   entry_fav_count: 12
   entry_content: |
-    (bkz: <a class="b" href="/?q=aferin">aferin</a>)<br/>(bkz: <a class="b" href="/?q=iyi+halt+ettin">iyi halt ettin</a>)<br/>mülteci olduklarını unutulan, burada geçici olarak durmaları gereken, hatta hazır savaş bitmişken geri gönderilmeleri gereken, ama daha en başta o kadar mülteciyi alıp ülkenin yapısını değiştirip patlamaya hazır bir bombaya çeviren hükumetimizin bok varmış gibi hala burada tutmak için mücadele verdiğini kanıtlayan olaylardan sadece biridir..<br/>bari izin verdikleri suriyelilere aylık yardımları kesseler..<br/><br/>bir de "göç hareketlerinde hedef ülke olmuşuz" yazıyor.. biz bize yetiyoruz da yabancılar kaldı aq..
+    aziz yıldırım'ın ajanı olabilir.
 - entry_name: |
     ekşi itiraf
   entry_id:  72175811
@@ -241,13 +262,6 @@ data:
   entry_content: |
     daha bismillah demeden filmin yarısında çıkanlar damladığına göre olmuş filmdir.
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  72184498
-  entry_writer: she lives in magic
-  entry_fav_count: 9
-  entry_content: |
-    “aşık olmuyorsan, dans edemiyorsan, şarkılar mırıldanamıyor ıslık bile çalamıyorsan; ne anlamı var ki aklı başında olmanın ?”
-- entry_name: |
     boğaziçi'yi kazanan köylülerin dönüşümü
   entry_id:  72176399
   entry_writer: jamais woohoo
@@ -262,33 +276,12 @@ data:
   entry_content: |
     klozetlere ötv getirilmesi.<br/><br/>lükstür efenim, alaturka'ya yapsınlar. bizim milli tuvaletimiz alaturkadır!
 - entry_name: |
-    iphone x
-  entry_id:  72181506
-  entry_writer: alpernative
-  entry_fav_count: 5
-  entry_content: |
-    turkcell'de ön satışların başladığı hede. 48 ay vade seçeneğinde 256 gb'lık modelinin toplam maliyeti 11 bin 25 türk lirası. başka sözüm yok sözlük bey.
-- entry_name: |
     17 kasım 2017 cska moskova fenerbahçe doğuş maçı
   entry_id:  72193403
   entry_writer: cumaya giden domates
   entry_fav_count: 5
   entry_content: |
     "ağacı kökünden sökerim adamı götünden sikerim."<br/><a class="b" href="/?q=jan+vesely">jan vesely</a><br/><br/>fenerbahçe'nin şu ana kadar çok iyi oynadığı karşılaşma.<br/><br/>edit: ben bunu yazdığımda ikinci çeyreğin ortalarıydı akabinde takım ishal oldu.
-- entry_name: |
-    zenci mahkumların reza zarrab'a bıçak çekmesi
-  entry_id:  72175870
-  entry_writer: titrek mum alevi
-  entry_fav_count: 4
-  entry_content: |
-    taraf olmayan bertaraf olur. <br/><br/>bulamamış mı koca hapishanede cebini tutacağı bir büyük!
-- entry_name: |
-    ricardo quaresma
-  entry_id:  72193607
-  entry_writer: david jon gilmour
-  entry_fav_count: 4
-  entry_content: |
-    kendisi şut özürlü bir arkadaş olmasına rağmen her duran topun başında bitiyor. bunun sikik egosu yüzünden tüm frikikler ve penaltılar(cenk olmadığı zaman) çöp oluyor ama hoca bu duruma ısrarla dur demiyor.
 - entry_name: |
     erdoğan türkiye'sini nato'dan şutlama zamanı
   entry_id:  72192297
@@ -297,19 +290,12 @@ data:
   entry_content: |
     kaç yıl önce yazılmış yazıya yeni başlık açılmış, bir allah’ın kulu da yazıyı okumaya zahmet etmemiş. kafanıza tüküreyim...
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  72175695
-  entry_writer: cozuf
-  entry_fav_count: 2
+    şenol güneş
+  entry_id:  72195656
+  entry_writer: saladze
+  entry_fav_count: 3
   entry_content: |
-    bu başlığı her gördüğümde aklıma, afiyet olsun denilip tanımadığınız insanın masasına oturulan esnaf lokantası geliyor.<br/><br/>sonra da muhabbet muhabbeti açıyor vs.
-- entry_name: |
-    jeremain lens
-  entry_id:  72193374
-  entry_writer: tombikpasta
-  entry_fav_count: 1
-  entry_content: |
-    şaka gibi oynamaya devam eden topçu... babel’in gözünü seveyim...
+    yine leş kargalarını başına toplamış teknik direktörümüz. bir top eskaza girseydi hepsi inlerindeydi bunların. <br/><br/>neymiş, maçı çantada keklik görüp niye rotasyon yapmışmış. sanırsın mustafa pektemek, necip ve altyapıdan bir oyuncuyu oynattı. oynayan adamlar lens, negredo. bu adamlar bu maratonda kadro derinligi icin, böyle maçlar icin alındı. kendi sahandasın. biri gelir negredo niye yok der hocaya söver, biri gelir niye negredo var der. niye lens var der. defolun gidin lan şurdan.
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
   entry_id:  72192701
@@ -318,19 +304,26 @@ data:
   entry_content: |
     istanbul avrupa yakasinda , gece 1 gibi bagcilarda takilacagimiz arkadas, erkek ya da bayan olmasi onemli degil bobrekleri saglam olsun yeter
 - entry_name: |
-    atiba hutchinson
-  entry_id:  72189726
-  entry_writer: yilki
-  entry_fav_count: 1
-  entry_content: |
-    bırakın antrenör yardımcılığını, ölüsü bile vodafone park'a gömülsün. onun çüreyen bedeniyle harmanlanan toprak bile daha bereketli olur.
-- entry_name: |
     the punisher
   entry_id:  72191398
   entry_writer: torrancelar80
   entry_fav_count: 0
   entry_content: |
     tam yabancı bir diziye başlayayım dediğim zamanlarda karşıma çıkan dizidir. umarım güzeldir.
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  72181620
+  entry_writer: bi defolabilir misiniz
+  entry_fav_count: 0
+  entry_content: |
+    sıla/muhbir
+- entry_name: |
+    spor ve diyet yapmamasına rağmen fit olan insan
+  entry_id:  72194847
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 0
+  entry_content: |
+    içinde parazit besleyen insandır.<br/>ortağın çok ondan kilo almıyorsundur.
 - entry_name: |
     müzik aleti çalarken suratın şekil değiştirmesi
   entry_id:  72192510
@@ -346,10 +339,17 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=komplekse+girmeyin+diye+yazmiyorum">komplekse girmeyin diye yazmiyorum</a>)
 - entry_name: |
-    ahmet kaya
-  entry_id:  72194129
-  entry_writer: arthistoryatavratpusat
+    18 kasım 2017 medipol başakşehir galatasaray maçı
+  entry_id:  72195426
+  entry_writer: rowerio
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=b%c3%b6l%c3%bcc%c3%bc+yav%c5%9fak">bölücü yavşak</a>)
+    6esiktasin puan kaybetmesiyle gsnin farki acmamasi icin tinersporun tetikcileri gsyi dograyacaktir.<br/><br/>gs kaybeder ve gs kırmızı kart bahislerine bobrek basilmasi gereken mactir.
+- entry_name: |
+    17 kasım 2017 wikipedia yasağının kalkması
+  entry_id:  72195816
+  entry_writer: nixferstehen
+  entry_fav_count: 0
+  entry_content: |
+    sevgili arkadaşlar 17 kasım 2017'de değil ama 16 kasım 2017 de benim de gözlerimle şahit olduğum olay. başlığı açan susere troll diyenler olmuş, ben onu bunu bilmem. dün bizzat yaşadım ve dünya bir kaç dakikalığına güzelleşti. bu gün girilmiyor o ayrı. <br/>tüm bunların bir önemi olmasa da paylaşmak istedim.
 ---
