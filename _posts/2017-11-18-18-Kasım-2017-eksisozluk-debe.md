@@ -6,37 +6,51 @@ data:
     reza zerrab'ın itirafa başlaması
   entry_id:  72179142
   entry_writer: geri donen mektup
-  entry_fav_count: 1749
+  entry_fav_count: 1760
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6t%c3%bcyor+g%c3%b6nl%c3%bcm%c3%bcn+efendisi">ötüyor gönlümün efendisi</a>)
 - entry_name: |
     kyk bursunda dönen büyük şerefsizlik
   entry_id:  72178446
   entry_writer: ddr house
-  entry_fav_count: 1085
+  entry_fav_count: 1108
   entry_content: |
     evi olana ver, okula arabasıyla gelene ver, kyk nın rezil yurtlarında kalmaya tenezzül dahi etmeyip ev tutacak parası olana ver, bakanlıkta torpili olana, yalamaya ver, başarı seviyesi çöp olan, aldığı bursu ot parası yapacaklara ver, 400 liradan aşağı ayakkabı giymeyene ver, bakan çocuğunun kankasına, yetmedi mi? kankasının kuzenine dahi ver. <br/><br/>daha nicelerini yazsam ne fayda?<br/><br/>kısacası, gençlik ve spor bakanlığının ülkenin vergileriyle oluşturduğu maddi gelirin, sözde maddi sıkıntılı öğrencilere yardım adına verdiği parayı hiç bir sıkıntısı olmayan 3 5 zengin çocuğuna, ahbaplarina dağıtmasına ve ciddi mânâda maddi yardıma ihtiyaç duyan öğrencilere kredi verip, mezun olunca verdiği paranın 2.7 katını alarak cebine katan, bu siktigimin sistemine tepkim.<br/><br/>bu tepki inanın kişisel değil. üniversite okuyanlar, okumuş olanlar bilir. sabah kahvaltısıyla akşam eden öğrencilerin olduğunu ve bunlara devletin 5 kuruş bile vermediğini biliyordur. hatta aranızda kyk dan mecbur kalarak aldığı krediyi faizleriyle birlikte hala ödemeye çalışanlar bile vardır.<br/><br/>son olarak, bursiyer seçimi yapan, sabah 8 akşam 4 göt üstü, facebook oyunlari oynamaktan başka zerre vasfi olmayan, torpilli bursiyer secme kısımlarını halledip geriye kalan 3 5 bursiyer kontejaninı o piti piti oynayarak seçenler; size de sizi oraya oturanlara da selam olsun. ben size ne desem övgü olur anca. kendinizin hangi sıfatları hakettiginizi bildiğinize adım gibi eminim.<br/><br/>umarım bu konu gündem olabilir. hiç bir halt olmasa bile, en azından bir kamuoyu oluşur. sizden varlıklılara yardım adında dağıtılan para, sizin bizim paramız ve birileri araba taksitini ödesin diye dağıtılıyor<br/><br/>edit: bir iki düzeltme.
 - entry_name: |
     nato'nun atatürk ve erdoğan'ı hedef yapması
   entry_id:  72183696
   entry_writer: gayim ama para bende
-  entry_fav_count: 433
+  entry_fav_count: 437
   entry_content: |
     artık çarpıtmalarında atatürk'ü de kullanacaklarını göstermektedir.<br/>benim yanımda atatürk'e de hakaret ediyorlar diyerek kendisi kadar atatürk'ü de mağdur göstermeye çalışacaktır.<br/><br/>umuyorum yanlış duyumdur.<br/>yanlış değil ise sıkıntı...<br/><br/>doğruymuş. sıçtık!
 - entry_name: |
-    sahte hesap açan kürt kökenli norveç subayı
-  entry_id:  72190186
-  entry_writer: comic sans kullanan profesor
-  entry_fav_count: 331
+    limonataya ötv gelmesi
+  entry_id:  72181078
+  entry_writer: modern tinerci
+  entry_fav_count: 270
   entry_content: |
-    (bkz: <a class="b" href="/?q=h%c3%a6walss%c3%b8n">hæwalssøn</a>)
+    son torba yasa ile birlikte limonata, meyve suyu, soda gibi artık lüks tüketim olarak değerlendirebileceğimiz içeceklere, ekonominin çogh iyi olduğu türkiyede ötv eklenmiş.<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.businessht.com.tr/guncel/haber/1717326-limonata-ve-meyve-suyuna-otv-geldi" title="http://www.businessht.com.tr/guncel/haber/1717326-limonata-ve-meyve-suyuna-otv-geldi">http://www.businessht.com.tr/…eyve-suyuna-otv-geldi</a><br/><br/>(bkz: <a class="b" href="/?q=halk+y%c3%bcksek+vergiler+alt%c4%b1nda+eziliyordu">halk yüksek vergiler altında eziliyordu</a>)
 - entry_name: |
     bekaretini 2.5 milyon dolara satan kız
   entry_id:  72186624
   entry_writer: nickimi ver
-  entry_fav_count: 228
+  entry_fav_count: 232
   entry_content: |
     (bkz: <a class="b" href="/?q=elit+orospuluk">elit orospuluk</a>)
+- entry_name: |
+    ilk kafa naklinin başarıyla gerçekleştirilmesi
+  entry_id:  72188084
+  entry_writer: dogmeli kelle
+  entry_fav_count: 207
+  entry_content: |
+    <a class="b" href="/?q=brad+pitt">brad pitt</a> kafası geldi.
+- entry_name: |
+    konya'da kurulan ilk insansı robot fabrikası
+  entry_id:  72183432
+  entry_writer: gayim ama para bende
+  entry_fav_count: 191
+  entry_content: |
+    bizdeki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg" title="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg">insansı türk robot</a><br/><br/>japonlardaki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg" title="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg">insansı japon robot</a><br/><br/>japon robot bizimkini evine alır cam silme işlerinde kullanır, kendisi de komşularına çaya gider.
 - entry_name: |
     boston dynamics
   entry_id:  72177216
@@ -45,45 +59,52 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=i%c3%a7inde+adam+var+bunlar%c4%b1n">içinde adam var bunların</a>)
 - entry_name: |
-    konya'da kurulan ilk insansı robot fabrikası
-  entry_id:  72183432
-  entry_writer: gayim ama para bende
-  entry_fav_count: 181
+    sarma sigara içenlere 6 yıl hapis cezası verilmesi
+  entry_id:  72187103
+  entry_writer: blackdog
+  entry_fav_count: 180
   entry_content: |
-    bizdeki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg" title="https://img.donanimhaber.com/images/haber/81070/600x338Konyaya-ilk-insansi-robot-fabrikasi-geliyor.jpg">insansı türk robot</a><br/><br/>japonlardaki robot<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg" title="http://www.ufuktarhan.com/resimler/ROBOT-4.jpg">insansı japon robot</a><br/><br/>japon robot bizimkini evine alır cam silme işlerinde kullanır, kendisi de komşularına çaya gider.
+    içenlere değil, dumanına maruz kalanlara 6 yıl hapis veriliyor. içenleri asacaklar. götünüzle okumayın şu haberleri.
+- entry_name: |
+    kılıçdaroğlu ssk'yı 1999'da 42 milyar batırdı
+  entry_id:  72184488
+  entry_writer: insan donuna girmis telli turna
+  entry_fav_count: 128
+  entry_content: |
+    erdoğan <a rel="nofollow noopener" class="url" target="_blank" href="http://m.haberturk.com/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisi-nda-aciklamalar-1717650" title="http://m.haberturk.com/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisi-nda-aciklamalar-1717650">açıklaması</a>. kılıçdaroğlu'nun 1999'daki 2.5 milyar zararının, bugün tüfe hesabı ile 42 milyara geldiğini söylemekte.<br/><br/>bir kaç dakika sonra ise erdoğan "ssk emeklisi 257 lira maaş alıyordu. bugün 1430 lira maaş alıyor en düşük ssk emeklisi." ifadesinde bulunuyor. tüfe ile 2.5 milyarlık borç 17-18 katına çıkıyor da, ssk emeklisinin aldığı 257 tele neden 17-18 katına çıkmıyor?
 - entry_name: |
     viceroy'un okunuşu sorunsalı
   entry_id:  72186922
   entry_writer: viski raki sarap bira
-  entry_fav_count: 107
+  entry_fav_count: 108
   entry_content: |
     bizim bakkal vikori diyor.
 - entry_name: |
     okan buruk
   entry_id:  72195642
   entry_writer: sonnesilyazar
-  entry_fav_count: 67
+  entry_fav_count: 102
   entry_content: |
     nasıl böyle bir şey olabilir? sen akhisar'ı yönetiyorsun ve beşiktaş deplasmanında takımın kapanıyor. halbuki 5 forvet ile çıkmalıydın. yazıklar olsun sana. dünyaca ünlü yıldızlarla dolu bir akhisar'ın düştüğü hale bak. utanıyorum resmen.
-- entry_name: |
-    türk erkeklerinin kadınlara çok kaba davranması
-  entry_id:  72189221
-  entry_writer: birgunyineyakisikliyim
-  entry_fav_count: 66
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hatunlar%c4%b1n+efendi+adam+yerine+pi%c3%a7+tercihi">hatunların efendi adam yerine piç tercihi</a>)<br/><br/>umarım yeterince açıklayıcı olmuştur.
 - entry_name: |
     yalnızlık ne kokar
   entry_id:  72180958
   entry_writer: welekrock
-  entry_fav_count: 65
+  entry_fav_count: 70
   entry_content: |
     küllük.
+- entry_name: |
+    türk erkeklerinin kadınlara çok kaba davranması
+  entry_id:  72189221
+  entry_writer: birgunyineyakisikliyim
+  entry_fav_count: 70
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hatunlar%c4%b1n+efendi+adam+yerine+pi%c3%a7+tercihi">hatunların efendi adam yerine piç tercihi</a>)<br/><br/>umarım yeterince açıklayıcı olmuştur.
 - entry_name: |
     30 yaş üstü bekar erkeklerin arıza olması
   entry_id:  72187918
   entry_writer: tyranno
-  entry_fav_count: 58
+  entry_fav_count: 60
   entry_content: |
     madem evlisin, ne diye uğraşırsın bunları yazmakla? keşke sen de negatif enerjini uzağa salsaydın.
 - entry_name: |
@@ -101,40 +122,40 @@ data:
   entry_content: |
     erik ile votka
 - entry_name: |
-    bedelli askerlik
-  entry_id:  72181467
-  entry_writer: agactan inen maymun
-  entry_fav_count: 35
+    evrim teorisi
+  entry_id:  72179728
+  entry_writer: prometheuss
+  entry_fav_count: 36
   entry_content: |
-    yıl 2013, youtube'dan para basıyorum o dönemler.<br/>sistemimi oturtmuş ve rayına sokmuşum. okulu da bıraktım (üni'den kaydımı sildirdim), ki emekliliğimi yaşayacak kadar birikim ve geleceğe yönelik yatırımımı da yapmışım.<br/>bir an önce askere gideyim de aradan çıkarayım diye düşünmekteyim, hem böylelikle askerlik sürecinde(uzun dönem) harcamalarım da minimum seviyeye inecek ve böylelikle ekstra bir birikim daha yapmış olurum diye düşünmekteyim.<br/><br/>gün geldi bedelli askerlik yasası çıktı(2014), ve tanıdığım tüm lise veya askerliğini yapmamış yakın arkadaşlarım bedelli askerlik ile işlerini hallettiler. işini gören bana geliyor ağız yoklamaya, sen de ödedin mi diye.<br/>"hayır" cevabını alan inanamayıp tekrar soruyor. sonra binbir türlü akıl verme polemikleri başlıyor aramızda, işte ne yapacaksın gidip, amelelik falan fişman vs hepimizin bildiğiniz laflar sözler işte.<br/><br/>ama kafaya koydum gidip askerliğimi yapacağım. aynı zamanda askerliği "hayatıma belki ekstra bir deneyim ve tecrübe katar" diye görmekteyim. neyse bedelli askerlik yasası geldi geçti, tanıdığım herkes(lise arkadaşlarım, yaşıtlarım, çevrem) bu yasadan yararlandılar. askerlik derdinden tek kurtulmayan ben kalmıştım ortamda.<br/><br/>yasanın geçerlilik sürecinin bitmesinden kısa bir süre sonra bir gün ruh ve psikolojik olarak kendimi hazırladım ve şubeye gidip başvurdum. yığılma var, 1 yıl sonra gel dediler ve geri postaladılar beni. açıkcası bu cevabı beklemiyordum, çünkü her şeyimi askere alınacağım yönünde hazırlamış ve ayarlamıştım.<br/><br/>neyse askerliğin kapısından böylelikle geri dönmüş oldum ve 1 yıl boyunca boş boş gezdim tozdum keyfime baktım. derken bir gün ekşi'de köprüler kapatıldı asker barikat kurdu gibisinden bir şeyler okudum. tv'yi açtım bir baktım o da ne, darbe girişimi...<br/><br/>bu süreci dikkatle takip ettim, gerçi tv'de gösterilenler yaşananların belki sadece 5'de 1'i idi. çevremden arkadaşlardan dostlardan anlık olarak videolar gelmeye başladı. parçalanmış ve etrafa savrulmuş insan uzuvları...<br/>kim kime darbe yapıyor onu anlamak zaten güçtü, iktidar iktidarla çatışıyordu işin komik yanı. öküz öldü ortaklık bozuldu mevzusu.<br/><br/>bu zaman diliminde, suçsuz yere yobazlar tarafından katledilenler erler, suçsuz yere parmaklıklar arasında çürüyen emir komuta zincirinin el alt kademesinde bulunan yine erler, binbir türlü hakareti işitip aşağılanan yine erler. düşündüm ve dedim ki "ulan insaf, en alt tabakadaki izmarit toplayıcı grubu olan erleri nasıl yargılayabiliyor devlet darbe suçundan".<br/>bu erler mi organize etti, planladı darbe girişimini veya ayaklanmayı?<br/>bunların suçu neydi?<br/>o tsk'nın sınırından içeri girdiğin an, askerliğini yapmış ve yapmamış olanlar dahil bilir ki bağlı olduğun komutanından hariç kimseyi tanımazsın tezkereni alana dek. o ne derse o olur. emir demiri keser.<br/><br/>yani bu olayda;<br/>- hem devlet zoruyla tsk'ya alınıyorsun.<br/>- hem yine devletin bir kolu zoruyla darbe girişiminde yer alıyorsun.<br/>- hem devlet eliyle yine yargılanıp taşlanıyorsun şeytan gibi.<br/><br/>tek suçun, milli vazife diyerek askere gitmek... ve bir bakmışsın, hayatın alt üst olmuş, dünyan kararmış. ölmekten beter olmuşsun.<br/><br/>belki, askerlik şubesinde başvurduğum dönem yığılma olmasa ve beni almış olsalar idi ben de o gariban erlerden biri olacaktım şu an kim bilir.<br/><br/>bu süreçten sonra pişman oldum, bedelliden yararlanabilme hakkım olmasına rağmen bunu kullanmadığım için.<br/>yarın bir gün aynısının olmayacağı ne malum? fetö gider, tetö gelir, tetö gider sekö gelir.<br/>devlet, hem göz göre göre bunlara müsade ediyor hem de sonrasında kırbaçlıyor...<br/><br/>yok sağ olun ben almayayım bundan sonra, bakaya spor olarak beklemekteyim yeni bedelli askerlik yasasını.<br/>açıkcası, yargı ve adalet konusunda devlete ve tsk'ya olan güvenim sarsıldı.<br/>ki ben, çocukluğumda siyah beyaz tv'de trt'nin yan kanallarında askeri marşları, koroları ve propagandaları ağlaya ağlaya zorla açtırtıp izleyen biriydim.<br/><br/>son söz olarak diyeceğim şu ki; bazı değerlere olan saygımı sarstı ve vicdanımı incitti bu son yıllar da olan olaylar. tek bahanem bu.<br/><br/>ister korkak desinler, ister hain desinler. ben vatan ve askeriye konusunda duygusal biriyim, kalbi kırılan ve güveni sarsılan sevgiliyi geri getiremezsiniz.
+    evrim teorisi ile ilgili en büyük yanılgılardan biri, "çevresel etkilere uyum sağlayan canlıların bunu nesilden nesile gen yoluyla aktarması" olarak algılanması/algılatılmasıdır bence.<br/><br/>çevresel etkilere uyum sağlayınca gen değişmez. yani "hava soğuk, ben şu kürkümü bi beyaz yapayım, ne güzel çevreye de uyum sağlarım, 'yavrım' da beyaz olur sülalecek üşümeyiz" diye düşünmüyor ayı. kutup ayısı da böyle oluşmuyor.<br/><br/>genetik mutasyonlar sonucu, ki bu mutasyon dediğimiz şey ayda yılda bir olan bir şey değil, çevreye daha çok uyum sağlayabilen genlerin üreyebilmesi, diğerlerinin ise soyunun tükenmesi meselesidir, evrim teorisi.<br/><br/>yani yukarıdaki örnekten gidersek, kutuplarda sadece beyaz kürklü olan ayılar hayatta kalabilmiş, onlar üreyebilmiş, diğerleri soğuktan telef olmuştur.
 - entry_name: |
     15 temmuz öncesi gülen sevip saymak suç muydu
   entry_id:  72191989
   entry_writer: the prince of heaven
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     başlığın tam hali:<br/><br/>"15 temmuz öncesi gülen sevip saymak suçsa, bu suça ortak olmamış insan bulmak neredeyse imkânsız"<br/><br/>olan bülent arınç'ın son <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/gazeteduvar/status/931512248295604224" title="https://twitter.com/gazeteduvar/status/931512248295604224">açıklaması.</a><br/><br/>şahsen bizzat kendim 15 temmuz öncesi de fethullah gülen denen şeytandan nefret ediyordum. o beyinleri gitmiş ilkokul mezunu bir manyağa tapanlarla da muhatap olmuyordum <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Q-rWNfah9NM" title="https://youtu.be/Q-rWNfah9NM">açıkçası.</a> hâlâ da olmuyorum. <br/><br/>kişi kendinden bilir işi.
 - entry_name: |
     tecavüzün cezası ne olmalı
   entry_id:  72183411
   entry_writer: terlikli hayvan
-  entry_fav_count: 31
+  entry_fav_count: 33
   entry_content: |
     tecavüzün cezası hiç de az değildir. hatta türk ceza kanunu'ndaki en ağır cezalar arasındadır. kanunda 16 sene ağır hapisler, 24 sene ağır hapisler havada uçuşuyor. istenirse daha da ağırlaştırılabilir. ancak sıkıntı bu değil.<br/><br/>tecavüz suçlarında toplumun adalet duygusunu zedeleyen, kanunların gerektiği gibi uygulanmamasıdır. sıkıntı burada başlıyor.<br/><br/>24 sene ağır hapis cezası alması gereken adama 10 sene hapis cezası veriyosun 1 ay sonra açık ceza evine çıkıyor amk. <br/>adama 10 sene hapis cezası veriyosun 3 sene yatıp çıkıyor. bilemedin 6-7 sene yatıyor. ama 10 sene yatmıyor. <br/><br/>adamı yakalıyosun, suçu ortaya çıkarıyosun. hop hakimin biri çıkıp saçma sapan hafifletici sebepleri uyguluyor. ya da olmayacak gerekçelerle suçun vasfını değiştiriyor, daha hafif bir tanıma sokuyor fiili. toplumda infial uyanıyor. <br/><br/>tecavüze idam cezası getirsen de değişen bir şey olmaz. hukukumuza giren idamla toplumdaki muhalifler yüzleşir. arap toplumu olmaya bir adım daha yaklaşırız. zaten pek de fazla mesafe kalmadı aramızda. ama tecavüzcü yine aynı indirimi alır. yine hakettiği cezayı çekmekten kurtulur.<br/><br/>sorun sadece tecavüz suçunda değil. adalet sisteminde. bildiğin çöktü. çapsız, tek özelliği yandaşlık olan hakimler yüzünden hukuk üretmiyor ülke. aynı et, buğday, mısır, saman, bamya, çivi, makina üretmediği gibi. hakimlerin bağımsız olmasını bırak, çoğunun hukuktan haberi yok. komik komik kararlar veriyorlar. <br/><br/>cezayı değiştirsen ne olur... zaten kol gibi cezası var. uygula yeter. birine tecavüz etmiş adamı 24 sene hapse tıkarsan çıktığında ömrünü muhtemelen erken boşaldığı 5 dakika uğruna harcamış olacak ve zaten o yaştan sonra siki kalkmayacak. yeter ki hızlı ve etkin şekilde cezasını uygulamaya koy.
 - entry_name: |
-    tr'deki milyonlarca çomarla nasıl gelişilir
-  entry_id:  72187501
-  entry_writer: otodidakt adam
-  entry_fav_count: 28
+    17 kasım 2017 cska moskova fenerbahçe doğuş maçı
+  entry_id:  72196354
+  entry_writer: tesqele
+  entry_fav_count: 27
   entry_content: |
-    en mantıklısı gelin memleketi komple satalım, elde edilen parayı tüm herkese eşit dağıtalım isteyen gitsin istediği yerde yaşasın. yoksa gelişmek hayal.
+    cska evindeki son 71 maçta 5. mağlubiyetini almış oldu. 4 ü fenerbahce'den.
 - entry_name: |
-    abd dizisinde fetö darbe yapmadı propagandası
-  entry_id:  72195819
-  entry_writer: hitokiri kenshin
-  entry_fav_count: 28
+    17 kasım 2017 beşiktaş akhisarspor maçı
+  entry_id:  72195516
+  entry_writer: penchepathi
+  entry_fav_count: 26
   entry_content: |
-    yalnız görüntülerin ss alındığı dizibox'da bu dizinin çevirisi bana ait, fazla dillendirmeyin bu mevzuyu arada beni de kaynatmasınlar <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    "galatasaray büyük takımlara puan kaybediyor" diyen beşiktaşlılar, takımları çer-çöp anadolu kulüplerine patır patır puan kaybederken "rakip yerden kalkmadı" diye ağlıyor. zırlayınca tff 2 puan daha yazıyormuş hanenize çünkü.<br/><br/>beşiktaş'ın bu seneki puan kayıpları;<br/><br/>- kasımpaşa<br/>- fenerbahçe<br/>- trabzonspor<br/>- gençlerbirliği<br/>- başakşehir<br/>- akhisar<br/><br/>12 maç oynandı hepi topu, 6 maçta puan kaybı var amk. 3'ü içeride üstelik.<br/><br/>galatasaray'ın puan kaybettiği maçlar;<br/><br/>- antalyaspor<br/>- fenerbahçe<br/>- trabzonspor<br/><br/>varsayalım gs zor takımlara puan kaybediyor, peki ya bjk? çelik-çomak demeden, büyük takıma da küçük takıma da, içeride dışarıda tonla puan kaybettiniz. <br/><br/>unutmadan, alanya ve karabük maçlarınıysa, son on dakikada, sidik zoruyla kotardıklarını söyleyelim.<br/><br/>umarım bir daha; "gs küçük takımları yeniyor yeaa, büyüklere gelince fos" lafını söylemeden önce daha temkinli olursunuz.
 - entry_name: |
     emlak balonu
   entry_id:  72185146
@@ -143,38 +164,31 @@ data:
   entry_content: |
     emlak balonunun şiştiğini görmeyen bilmeyen yok. epeydir herkes şişkinliğin farkında ama balonumuz bir türlü patlamıyor. neden? <br/><br/>çünkü devletimiz ( <a rel="nofollow noopener" class="url" target="_blank" href="http://www.kgf.com.tr/index.php/tr/" title="http://www.kgf.com.tr/index.php/tr/">kgf</a> ) tüm gücüyle inşaat firmalarının arkasında. yanlış anlaşılmasın müteahhit faruk abiyi salladığı yok devletin. ama çükübikoğlu inşaat, penisium towers projesi gibi baba firmalar, projeler falan hep devletin korumasında. bu adamlardan biri çıkıp "batıyorum beyler allaha emanet" dese devlet babamız anında "çekil lan kenara vatan haini, kayyum bey buyrun lütfen" der. zaten bu baba firmalar baştan batmama garantisiyle iş yapmak için "emlak konut işbirliğiyle" girişiyolar bu projelere..<br/><br/>dolayısıyla bu balon şişer, şişeeeer ve şişer.<br/><br/>ne zaman patlar? o da çok net aslında.. devlet vatandaşa daha fazla bindiremediği gün patlar. <br/><br/>türkiye cumhuriyeti devletinin en önemli finansörü türkiye cumhuriyeti halkıdır. halkın gücü kalmazsa devletin de inşaat sektörünü destekleyecek gücü kalmaz. <br/><br/>peki bin yıldır iliğine kadar sömürülmeye alışık bu halk nereye kadar dayanır? bunun cevabını verebiliyorsanız grafik mrafik bırakın direkt ekonomi doktorası alın. ister psikolojik sorun deyin ister cefakarlık deyin. anadolu halkı çok zor şartlara çok basit motivasyonlarla dayanabiliyor. bu yüzyılda işler değişecek mi, değişirse nasıl değişecek beraber izleyip göreceğiz.
 - entry_name: |
-    17 kasım 2017 cska moskova fenerbahçe doğuş maçı
-  entry_id:  72196354
-  entry_writer: tesqele
-  entry_fav_count: 24
-  entry_content: |
-    cska evindeki son 70 maçta 5. mağlubiyetini almış oldu. 4 ü fenerbahce'den.
-- entry_name: |
     van'da ayakkabısız çocuk kalmasın
   entry_id:  72176952
   entry_writer: anayurtoteli
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     ihtiyaç sahibi olan bütün çocukların ayakkabı masraflarını karşılamak istediğim kampanya. bir arkadaşın bilgilendirmesi üzerine başlıktan haberdar olmuş durumdayım. kampanyayla ilgilenen arkadaşımız bana özelden ulaşabilirse sevinirim.
-- entry_name: |
-    17 kasım 2017 beşiktaş akhisarspor maçı
-  entry_id:  72195516
-  entry_writer: penchepathi
-  entry_fav_count: 21
-  entry_content: |
-    "galatasaray büyük takımlara puan kaybediyor" diyen beşiktaşlılar, takımları çer-çöp anadolu kulüplerine patır patır puan kaybederken "rakip yerden kalkmadı" diye ağlıyor. zırlayınca tff 2 puan daha yazıyormuş hanenize çünkü.<br/><br/>beşiktaş'ın bu seneki puan kayıpları;<br/><br/>- kasımpaşa<br/>- fenerbahçe<br/>- trabzonspor<br/>- gençlerbirliği<br/>- başakşehir<br/>- akhisar<br/><br/>12 maç oynandı hepi topu, 6 maçta puan kaybı var amk. 3'ü içeride üstelik.<br/><br/>galatasaray'ın puan kaybettiği maçlar;<br/><br/>- antalyaspor<br/>- fenerbahçe<br/>- trabzonspor<br/><br/>varsayalım gs zor takımlara puan kaybediyor, peki ya bjk? çelik-çomak demeden, büyük takıma da küçük takıma da, içeride dışarıda tonla puan kaybettiniz. <br/><br/>unutmadan, alanya ve karabük maçlarınıysa, son on dakikada, sidik zoruyla kotardıklarını söyleyelim.<br/><br/>umarım bir daha; "gs küçük takımları yeniyor yeaa, büyüklere gelince fos" lafını söylemeden önce daha temkinli olursunuz.
 - entry_name: |
     jeremain lens
   entry_id:  72193535
   entry_writer: sick mind
-  entry_fav_count: 16
+  entry_fav_count: 21
   entry_content: |
     aziz yıldırım'ın ajanı olabilir.
+- entry_name: |
+    dünyanın en mükemmel üçlemeleri
+  entry_id:  72185728
+  entry_writer: viewport
+  entry_fav_count: 19
+  entry_content: |
+    f+f+m
 - entry_name: |
     evliliğin mantıklı gelmeye başlaması
   entry_id:  72176057
   entry_writer: sinpecado
-  entry_fav_count: 14
+  entry_fav_count: 16
   entry_content: |
     anlik bir durumdur.<br/>atin cavusa iki tokat ve kendinize gelin.
 - entry_name: |
@@ -188,9 +202,23 @@ data:
     ricardo quaresma
   entry_id:  72193607
   entry_writer: david jon gilmour
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     kendisi şut özürlü bir arkadaş olmasına rağmen her duran topun başında bitiyor. bunun sikik egosu yüzünden tüm frikikler ve penaltılar(cenk olmadığı zaman) çöp oluyor ama hoca bu duruma ısrarla dur demiyor.<br/><br/>edit: maç sonu taraftarlar tarafından bir de tribüne çağrılmış. cidden eğitilmez bu taraftar.
+- entry_name: |
+    abd dizisinde fetö darbe yapmadı propagandası
+  entry_id:  72196116
+  entry_writer: benjamin breeg
+  entry_fav_count: 12
+  entry_content: |
+    feto'ya nuri şahin, tayyip'e fatih terim ile arda turan'ı crossing over yapıp fatih turan ismini veren senaristlerin sağlam fm'ci ya da bahisçi olduğunu düşünüyorum. dizide hakan şükür de hakan şükür'ü oynuyordur kesin.
+- entry_name: |
+    justice league
+  entry_id:  72189786
+  entry_writer: thereisnothingtoshow
+  entry_fav_count: 11
+  entry_content: |
+    daha bismillah demeden filmin yarısında çıkanlar damladığına göre olmuş filmdir.
 - entry_name: |
     ekşi itiraf
   entry_id:  72175811
@@ -198,6 +226,13 @@ data:
   entry_fav_count: 11
   entry_content: |
     yarın yeni bir işe başlıyorum. sevgili sözlük bana şans dile
+- entry_name: |
+    6 ayda maaşımın 335 dolar azalması
+  entry_id:  72186327
+  entry_writer: bozradagast
+  entry_fav_count: 10
+  entry_content: |
+    4500 tl maaşı olan biri olarak bu başlığı 09.01.2017 de açtığımda paramın dolar olarak değeri 1206 dolarmış.<br/><br/>15.06.2016 da ise 1541 dolar alıyormuşum.<br/><br/>aynı para ile şu an 1162 dolar alabiliyorum. <br/><br/>yakında 1000 doların da altına düşecek bi gidişle...
 - entry_name: |
     maliye bakanlığı için alternatif vergi önerileri
   entry_id:  72189236
@@ -213,33 +248,26 @@ data:
   entry_content: |
     su videoyu köylü asağılaması olarak görmek icin baya baya ezik olmak lazım sanıyorum. mizah zıtlıklardan beslenen bir şey. duyarcı sjw tayfayı vurgulamak için ve sarkı bir dönüsüm hikayesi anlattığı için köylü tipolojisi betimlemek çok doğal bir seçim. kaldı ki kötü bir betimleme de yok ortada. sadece duyarci sjwlerin absürtlüğünü arttırıyor, kızla ilk biraraya geldikleri sahnedeki gibi. köylü olması da videonun tamamı için çok önemsiz bir detay. sjw tartısmaları boğazicinde amerikada oldugu gibi yaygın bir konu ve ekşide karsılığını bulamamıs olabilir, zaten video bogazici inside jokeları ile dolu. köylü betimlemesine alınıp, elitistlikle suçlayıp sonra da yok bu okula böyle adamlar nasıl girmis, yok bogazici söyleymis boyleymis diye saçma sapan yorumlar yapmaksa buram buram eziklik. gereksiz duyarın tema olduğu bir video için gereksiz duyar kasmak da ironinin dibi olmus tabi. eklemeden geçemeyeceğim bir nokta da rezalet köylü betimlemeleri zaten türk tvsinin ata sporu ama onlarla ilgili böyle yorumlar bulamazsınız. çünkü boğaziçinden çıkmadıkları için elitistlikle suçlancak bir zemin olmuyo sizin için ve bu cok mantıksız bir durum. dediğim gibi bunlar hep eziklik. <br/><br/>tanım: güldürmeyen bir video.
 - entry_name: |
-    justice league
-  entry_id:  72187200
-  entry_writer: severuss
-  entry_fav_count: 8
-  entry_content: |
-    filmi daha izlemedim kesitlerden oluşmuş birkaç video izledim.eleştirmek istediğim bir nokta var bu filmlerle ilgi.insanların bu tür filmlerden beklentisi aksiyon süper güçler dehşetli canavarlar uçan kaçan bir sürü şey ama mizah değil abiler.zorlama espriler insanı bu filmlerden soğutuyor.yok loki osurdu yok iron man esprili laf soktu thor cem yılmazlık yaptı.bir de mal bir izleyici kitlesi var bunlara gülüyor bildiğin.benim bu filmlerden beklediğim ruh nolan'ın batman serisi man of steel veya bayman v superman tarzı karanlık dünyalar.adamlar sanki lunaparkta çekiyor sahneleri bildiğin lay lay lom.
-- entry_name: |
-    yörük denilince akla gelenler
-  entry_id:  72196148
-  entry_writer: buyuk develi camel
-  entry_fav_count: 7
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sar%c4%b1ke%c3%a7ili+y%c3%b6r%c3%bckleri">sarıkeçili yörükleri</a>)<br/>haklarında yüksek lisans tezi hazırladığım bu güzel insanlarla 1 yılımı çadırda geçirdim torosun tepelerinde. toplamda 3 yıllık bir serüvenin sonunda tezimi bitirebilmiştim.<br/>saf (temiz) ve iyi insanlardır.
-- entry_name: |
-    istanbullu gelin
-  entry_id:  72195631
-  entry_writer: heyitsok
-  entry_fav_count: 6
-  entry_content: |
-    aslı enver’in sahnelerinden en az %70’inin özcan deniz veya dizideki herhangi birine sarılması ile son bulduğu türk yapımı dizi.<br/><br/>başroldeki esas kıza resmen gülmek ve sarılmaktan başka rol vermiyorsunuz, bu nasıl iş?
-- entry_name: |
     spor tarihinin en çekişmeli ikilileri
   entry_id:  72195831
   entry_writer: real tapir
-  entry_fav_count: 4
+  entry_fav_count: 7
   entry_content: |
     <a class="b" href="/?q=michael+schumacher">michael schumacher</a> - <a class="b" href="/?q=mika+hakkinen">mika hakkinen</a><br/><br/><a class="b" href="/?q=ayrton+senna">ayrton senna</a> öldüğünde şumi gelecek vaad eden genç yıldızdı.
+- entry_name: |
+    şenol güneş
+  entry_id:  72196397
+  entry_writer: rainyways
+  entry_fav_count: 7
+  entry_content: |
+    bugün yaptığı yorumda " iki takım da gol atmayı başaramayınca skor 0-0 bitiyor, bunu değiştirmek için iki takımdan birinin gol atması gerek" diyerek bilgi haznemizin gelişimine katkı sağlamış teknik direktör.
+- entry_name: |
+    spor ve diyet yapmamasına rağmen fit olan insan
+  entry_id:  72194995
+  entry_writer: kac yasina gelmisin nelerle ugrasiyorsun
+  entry_fav_count: 6
+  entry_content: |
+    başlığı açan kişi yalancılığıyla ünlüdür ve her zaman olduğu gibi yine yalan söylüyor. kendisinin 97 kiloluk bir yağ fıçısı olduğunu şahsen biliyorum.
 - entry_name: |
     erdoğan türkiye'sini nato'dan şutlama zamanı
   entry_id:  72192297
@@ -248,47 +276,33 @@ data:
   entry_content: |
     kaç yıl önce yazılmış yazıya yeni başlık açılmış, bir allah’ın kulu da yazıyı okumaya zahmet etmemiş. kafanıza tüküreyim...
 - entry_name: |
-    enpara.com
-  entry_id:  72180585
-  entry_writer: jameskeenan
-  entry_fav_count: 3
-  entry_content: |
-    yıllardır müşterisiyim, ne kredi kartına layık gördüler beni ne de evime çikolata yolladılar. kalbim kırık.<br/><br/>bütün mevduatımı alıp hesabı kapatacağım. benim için bitmiştir.
-- entry_name: |
-    furkan bölükbaşı
-  entry_id:  72181399
-  entry_writer: kan bankasina tunel kazan sivrisinek
+    yörük denilince akla gelenler
+  entry_id:  72196573
+  entry_writer: gelecekvaadedenveteranoyuncu
   entry_fav_count: 2
   entry_content: |
-    çalıştığı kurum olan marmara üniversitesinde fetö operasyonu başlamış ve 42 kişi göz altına alınmış. kendisi var mıdır merak ettim. zira hakkında bazı suçlamalar vardı.
+    orijinal isimler.<br/>emeti.<br/>durmuş.<br/>aynımah.<br/>dudu.<br/>huma.<br/>şiveden ziyade öztürkçe kelimeler.<br/>mavi demezler. gök derler.<br/>zıplamazlar. tüngürler. <br/>sen sallanırsın. onlar döllenir.<br/>sen çok süper dersin. onlar yaşıl der.(yahşı)<br/>o la la mı diye mi şaşırıyorlar? yörükler aleleleh diye şaşırıyor.<br/>sevdikleri çocuklara uşak, sevmediklerine moza(domuz yavrusu) derler.<br/>nabıyon sevimsizliği ile değil, ni'şen samimiyetiyle halini sorarlar.<br/>lan diyemezler. ley derler. mamafih<br/>gurur duyduğum kökenimdir.
 - entry_name: |
-    tesla roadster
-  entry_id:  72185621
-  entry_writer: mungonmun
-  entry_fav_count: 1
+    istanbullu gelin
+  entry_id:  72196085
+  entry_writer: kisaolan
+  entry_fav_count: 2
   entry_content: |
-    tesla'nın yeni canavarı. otomobil dünyasına boyut atlatacaktır. özellikleri bakalım.<br/><br/>0-100 1.9 saniye. (dünyanın en hızlı arabası olarak görünen bugatti chiron 2.1 saniyede çıkıyor.<br/><br/>en yüksek hız 250+ mph. yani 400+ km. piyasada 400'ün üzerine çıkan kaç araç var? saysan iki elin parmağını geçmez.<br/><br/>10 bin nm tork. ve tamamı gaza bastığın anda tekerde. lamborgini aventador'un torku 690 nm. üstelik 5000 devirden sonra verebiliyor. şaka gibi elon musk.<br/><br/>620 mil gidebiliyor. yaklaşık 1000 km. en iyi model s yaklaşık 400 mil gidebiliyordu. (bence bunun amacı uzun km gitmek değil. bu araca sahip olan kişiler aracın her damla gücünü kullanacağı için en uzun süre kullanmasını sağlamak. bu araca, model s motoru koysalardı muhtemelen sürücüler pilleri 3-4 saatte bitirirdi.)<br/><br/>asıl bombaya gelelim.<br/><br/>fiyatı sadece baz modelde 200bin dolar.<br/><br/>benzer özelliklere sahip araçların milyon dolar seviyesinde olduğunu düşününce herif şunu bedava veriyor. 200 bin dolar para mı lan it. türkiye fiyatı maximum 1.5-2 milyon tl olarak düşünsen, bmw m3'e m4'e m5'e binen mütahhit oğullarının yeni gözdesi olabilir.
+    dayakçı psikopat kocanın bi evle affedildiği dizi. daha da izlemem. ülkenin kanayan yarasına böyle mi değiniyorsunuz? kocamdır döver. orospu çocukları.
 - entry_name: |
-    spor ve diyet yapmamasına rağmen fit olan insan
-  entry_id:  72194847
-  entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 1
+    firefox quantum
+  entry_id:  72183846
+  entry_writer: ssg
+  entry_fav_count: 2
   entry_content: |
-    içinde parazit besleyen insandır.<br/>ortağın çok ondan kilo almıyorsundur.
+    birkaç gündür kullanıyorum. ram ve cpu tüketiminde chrome'dan daha fazla ama chrome'dan daha hızlı tepki verir ve akışkan hissettiriyor. o yüzden önemli de değil (bkz: <a class="b" href="/?q=%c3%a7ok+ram+yemek+k%c3%b6t%c3%bcd%c3%bcr%2f%40ssg">çok ram yemek kötüdür/@ssg</a>). pürüzleri de kısa zamanda yamanacaktır eminim.<br/><br/>ayarlar ekranını da chrome kadar kullanışlı hale getirmişler. şu ana dek yarattığı tek sıkıntı google'ın firefox'ta <a class="b" href="/?q=u2f">u2f</a> desteklemiyor olması. onun da en kısa zamanda geleceğini tahmin ediyorum.<br/><br/>tasarımını da beğendim. olmuş dedirten firefox'tır.<br/><br/>not: bu arada windows'ta <a class="b" href="/?q=edge">edge</a> hepsinden hızlı ve akışkan hissettiriyor ama hem chrome/firefox alışkanlıklarına aykırı bir arabirimi var, hem de <a class="b" href="/?q=u2f">u2f</a> desteği yok.
 - entry_name: |
-    şenol güneş
-  entry_id:  72195949
-  entry_writer: mutfak kapisindan giren yabanci
-  entry_fav_count: 1
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  72175695
+  entry_writer: cozuf
+  entry_fav_count: 2
   entry_content: |
-    hocam diyemedin mi penaltıyı negredo atsın diye! şu çingen kılıklıya azcık topları bırak diyemiyorsun küsecek diye değil mi ?
-- entry_name: |
-    hahahahahahahahahaha
-  entry_id:  72195459
-  entry_writer: 0 5 ucu olmayan adam
-  entry_fav_count: 1
-  entry_content: |
-    mahalledeki ahmet abinin 'akhisar siyah beyaz topitoslara celme takmis, ben de koyucam bu topitoslara zuhahahahahaha' seklinde katildigi gulme efekti.
+    bu başlığı her gördüğümde aklıma, afiyet olsun denilip tanımadığınız insanın masasına oturulan esnaf lokantası geliyor.<br/><br/>sonra da muhabbet muhabbeti açıyor vs.
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
   entry_id:  72192701
@@ -296,13 +310,6 @@ data:
   entry_fav_count: 1
   entry_content: |
     istanbul avrupa yakasinda , gece 1 gibi bagcilarda takilacagimiz arkadas, erkek ya da bayan olmasi onemli degil bobrekleri saglam olsun yeter
-- entry_name: |
-    ayla
-  entry_id:  72178829
-  entry_writer: simrin
-  entry_fav_count: 1
-  entry_content: |
-    çok güzel film, çok güzel hikaye. ve bazı insanlar hala çok temiz, hala çok güzel.<br/>uzun yaşa sen süleyman dede! senden daha öğreneceklerimiz var.<br/>siz de lütfen gidin sinemada izleyin, türk sineması iyi işler çıkartıyor...<br/>çıkartacak...<br/>söyleyeceklerim bu kadar.<br/><br/>hah bir de;<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a class="b" href="/?q=akepe">akepe</a> yanlısı <a class="b" href="/?q=murat+y%c4%b1ld%c4%b1r%c4%b1m">murat yıldırım</a>'ın komünisti oynaması da ironik olmuş...<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     the punisher
   entry_id:  72191398
@@ -318,19 +325,19 @@ data:
   entry_content: |
     sıla/muhbir
 - entry_name: |
-    müzik aleti çalarken suratın şekil değiştirmesi
-  entry_id:  72192510
-  entry_writer: yondu udonta
+    geceye bir şiir bırak
+  entry_id:  72177843
+  entry_writer: ha doh
   entry_fav_count: 0
   entry_content: |
-    pozitif psikolojide flow denir bu olaya. sadece müzik özelinde değil herhangi bir görev hem zorsa hem de o görevi yapmak için gereken beceri üst düzeydeyse bu ruh hali çıkar ortaya.
+    oysa ne kadar alışmıştık<br/>varlığına unicornun<br/>tadı keskindi balın<br/>yokluğunda unicornun
 - entry_name: |
     en son alınan iltifat
-  entry_id:  72196060
-  entry_writer: cirkus
+  entry_id:  72197283
+  entry_writer: kayarken 153 km gormus yazar
   entry_fav_count: 0
   entry_content: |
-    "yetersiz olduğun hususları saptama konusunda alışılagelmedik bir zekan var"
+    kayarken 153 km gormus yazar insan değilsin<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     beşiktaş
   entry_id:  72183500
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     6esiktasin puan kaybetmesiyle gsnin farki acmamasi icin tinersporun tetikcileri gsyi dograyacaktir.<br/><br/>gs kaybeder ve gs kırmızı kart bahislerine bobrek basilmasi gereken mactir.
-- entry_name: |
-    17 kasım 2017 wikipedia yasağının kalkması
-  entry_id:  72196011
-  entry_writer: mentuhotep
-  entry_fav_count: 0
-  entry_content: |
-    birilerinin çok ihtiyacı olduysa “ya sıfırla falan uğraştırmayın, açın hele bir sonra kapatırsınız” şeklinde bir serzenişiyle açılıp kapanmış olsa şaşırmayacağım durum. çünkü neden şaşırayım.
 ---
