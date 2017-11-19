@@ -6,105 +6,119 @@ data:
     o kadar öğretmene iş bulamayız
   entry_id:  72229813
   entry_writer: tekila sisesindeki balik
-  entry_fav_count: 476
+  entry_fav_count: 490
   entry_content: |
     (bkz: <a class="b" href="/?q=o+kadar+h%c4%b1rbo+milletvekili+olmu%c5%9f+ama">o kadar hırbo milletvekili olmuş ama</a>)
 - entry_name: |
     asgari ücretin 2 bin lira olması
   entry_id:  72226508
   entry_writer: desprado
-  entry_fav_count: 408
+  entry_fav_count: 411
   entry_content: |
     asgari ücretin arttığı oranda tüketim ürünlerin fiyatı da artarken 5000 tl olsa ne farkeder! kimse de demiyorki burada bir mantık hatası var. milletin alım gücünü artırmak varken asgari ücret şovu yapmak herkesin işine geliyor anlaşılan.<br/><br/>edit: verilerle destekleyelim.<br/>nisan 2017 raporuna göre geçen yılın aynı ayına oranla asgari ücret %7.9 arttı (1404 tl oldu) buna karşın enflasyon %11.87 arttı, alım gücü de % 3.5 düştü.<br/>kaynak: bisam enflasyon ve hayat pahalılığı nisan 2017 dönem raporu<br/><br/>edit 2: "asgari ücretin arttığı oranda tüketim ürünlerin fiyatı da artarken..." kısmındaki ifade "x oran artış=x fiyat artışı" şeklinde anlaşılmış haklı olarak. düzeltmek gerekirse asgari ücretin artışı enflasyon artışına sebep olur ve bu da tüketim ürünlerinin fiyatında bir artışa sebep olur.
 - entry_name: |
     lgbti'nin tüm etkinliklerinin süresiz yasaklanması
   entry_id:  72226805
   entry_writer: gulsah spears
-  entry_fav_count: 343
+  entry_fav_count: 349
   entry_content: |
     a h l a k l a n d ı n ı z<br/><br/>ya o pavyonlar nolcak peki?
 - entry_name: |
     edirne'de cafelere tebliğe gelen yobazlar
   entry_id:  72225105
   entry_writer: tovbebismillah
-  entry_fav_count: 335
+  entry_fav_count: 336
   entry_content: |
     bu vatandaşların yobazlıkla suçlanması hiç adil değil. camiye tebliğe gelen ateist bir grup "allah yok, din yalan, peygamberler sahte" diye tebliğde bulunsa gayet büyük bir olgunlukla dinleyip sonra ibadetlerine devam edebilecek olgunluktaki güzel insanlar bunlar. aynı olgunluğu laikçi allah'sız kafirlerden de beklemeleri yobazlık mı oluyor? ne güzel karılarının, mallarının ve canlarının kendilerine helal olduğunu tebliğ edeceklerdi halbuki!
+- entry_name: |
+    bugün geri dönse atatürk'ün alacağı oy oranı
+  entry_id:  72229050
+  entry_writer: pikaia
+  entry_fav_count: 298
+  entry_content: |
+    dikta ile demokrasi getiren başka lider gösterin sonra tartışalım bu konuyu. <br/><br/>adam "siz seçeceksiniz. mal da olsanız, sığır da olsanız sizi insan olarak görüyorum ve kendi kendinizi yönetmeyi zorla da olsa öğreneceksiniz." diyerek dayatma yaptı diye ağlayan başka millet de yoktur.
 - entry_name: |
     sscb'den insan manzaları
   entry_id:  72226555
   entry_writer: sen benim kadinimsin
-  entry_fav_count: 203
+  entry_fav_count: 206
   entry_content: |
     2. dünya savaşından sonra fotoğrafçı <a class="b" href="/?q=semyon+osipovich+friedland">semyon osipovich friedland</a> tarafından <a class="b" href="/?q=sscb">sscb</a>'de çekilmiş fotoğraflardır. kurgusal mı, değil mi bilmiyorum ama gayet enteresan fotoğraflar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youshouldseeit.com/retro/struggle-utopia-daily-soviet-life.html" title="https://youshouldseeit.com/retro/struggle-utopia-daily-soviet-life.html">şurada</a>
 - entry_name: |
     sigara içen kadınla öpüşmem erkeği
   entry_id:  72226156
   entry_writer: cehennemdeki asgari ucretli itfaiyeci
-  entry_fav_count: 180
+  entry_fav_count: 182
   entry_content: |
     (bkz: <a class="b" href="/?q=k%c3%bcl+tablas%c4%b1+ile+%c3%b6p%c3%bc%c5%9fen+erkekler">kül tablası ile öpüşen erkekler</a>)
+- entry_name: |
+    paola saulino'nun tam 700 erkeğe oral seks yapması
+  entry_id:  72223321
+  entry_writer: biturluaklagelmeyenadam
+  entry_fav_count: 172
+  entry_content: |
+    bedava yaşıyoruz dediğim olay. daha geçen hafta oradaydım resmen kıl payı kurtulmuşum. insanın aklı gerçekten almıyor, lanet olsun böyle dünyaya.
 - entry_name: |
     beyda şükür'ün abd'de başörtüsünü çıkarması
   entry_id:  72231939
   entry_writer: burada basladi burada bitti
-  entry_fav_count: 137
+  entry_fav_count: 145
   entry_content: |
     ülkeyi ele geçirme hedeflerini gerçekleştirebilseler, muhtemelen başı açık kadınları 'ahlaksız' olarak fişleyecek dini bir terör örgütünün üyesi ile evli kadındır.
 - entry_name: |
     30 yaş üstü erkeklerin patatese dönmesi
   entry_id:  72222760
   entry_writer: apo kadri
-  entry_fav_count: 121
+  entry_fav_count: 123
   entry_content: |
     elhak doğru. napalım pilates topu alıp götümüzün altında çiğneyecek zamanımız yok.<br/><br/>ama bir de daha 25'ine yeni basmış selülitli hatunlar vardı noldu onlar?
 - entry_name: |
     meme açmanın kötü bir şey olmaması
   entry_id:  72231430
   entry_writer: gercekgibiyalanruyagorenadam
-  entry_fav_count: 120
+  entry_fav_count: 122
   entry_content: |
     görmeden bir şey diyemeyiz.<br/>edit :başlık başa kaldı,benimkileri görmek istemezsiniz.
 - entry_name: |
     kanser olmak için yapılması gerekenler
   entry_id:  72231941
   entry_writer: renksiz hayat
-  entry_fav_count: 116
+  entry_fav_count: 119
   entry_content: |
     böyle rezil bir hastalığın adını bile görmek hastaların psikolojisini altüst ediyor. bunu unutmak için didinip duruyorlar. bu başlık gibi başlıklar keşke hiç açılmasa
 - entry_name: |
     atatürk'ün laikliği halka sormadan getirmesi
   entry_id:  72233371
   entry_writer: sudan gelen esek
-  entry_fav_count: 101
+  entry_fav_count: 109
   entry_content: |
     halk o sırada eşek sikmekle meşguldü arkadaşlar... mustafa kemal ve gibileri geldi, onları bir hizaya sokup ülkeyi emperyalist işgalden kurtaran savaşın bir parçası haline getirdi... savaştan sonra ise iktidarı ele geçiren bir klik olarak elbette kendi düşüncelerini hayata geçirmeye başladılar. vahdettin de direnseydi de savaştan sonra peygamberliğini ilan etseydi aq!<br/><br/>halk ise hala eşek sikiyor...
 - entry_name: |
     19 kasım 2017 ales
   entry_id:  72228524
   entry_writer: sessiz sakin suskun adam
-  entry_fav_count: 90
+  entry_fav_count: 91
   entry_content: |
     ibretlik bir şey yaşadım.<br/><br/>sınava girerken görevliler '' ulaşım kartı ile sınava giremezsiniz '' dediler. cevap olarak '' bu ulaşım için gerekli bir alet, millet buraya neyle geliyor sanıyorsunuz '' dedim. '' yapacak bir şey yok, harici eşya sokmuyoruz'' dediler. hülasa, baktım herkes bahçede bulunan simitçiye, kalemciye falan telefonlarını, anahtarlarını, kartlarını falan emanet etmeye başladı. ulan adamın sattığı simit 2 lira emanet edilen telefonlar 2000 veya 2500 lira. adam da emanete aldığı eşyayı 5 liraya emanete alıyor. tam bir public seks var bahçede. simitçi tuttuğuna geçiriyor. sınav görevlileri ile bahçede bulunan satıcılar şirket gibi sanki.. abartmıyorum. hani ata demirer'in aslan grubunda olup ceylanları tuzağa düşürme sahnesi gibi lan;<br/><br/>'' mahmut abi akıyor ceylanlar, çevir abi, çevir çevir''<br/><br/>nevrim döndü simitçi ellerini ovuştururken. ehh dedim ben bu lavuğa gidip 5 lira vermem aga. kartı götüme sokar girerim yine de 5 lira vermem dedim. gittim okulun arka bahçesine saklamaya karar verdim. böyle de zekiliklerim vardır. orada bir teneke gördüm onu kaldırıp altına koyacak iken bi baktım başka biri de oraya kart koymuş. vay dedim bu da benim gibi pintinin teki dedim, sürüden ayrılmış. kapadım tenekeyi. sonra dedim neden kapatıyorsun, sen de hemen yanına koy ulan dedim. koydum kartı gittim sınavımı olup çıktım. geri gelip tenekeyi kaldırdığımda sadece bir kart vardı.<br/><br/>çocuk benden önce sınavını bitirmiş ve kendi kartını alıp gitmiş... var böyle insanlar işte... helal dedim. inşallah kazanır lan evet.
 - entry_name: |
     okul yerine avm ağaç yerine beton
   entry_id:  72232260
   entry_writer: atacan2
-  entry_fav_count: 83
+  entry_fav_count: 88
   entry_content: |
     ülkemiz ve avrupa’nın sayılı mesleki eğitim veren okullarından biri olan şişli mesleki ve teknik anadolu lisesi için yıkım kararı alınmış ve bu kararın uygulanması aşamasına geçilmiştir.<br/>okul bahçesindeki ağaç sayısı 849 adetti. yıkım işleri başladığından beri kesilmeye devam ediyor. şişli bölgesindeki yeşil alanlardan biri ve en önemlisi afet toplanma alanı ranta kurban oldu. okul arazisine rezidans ve avm yapılacak. <br/>yaklaşık 5000 öğrencinin okuduğu lise, prefabrik yapılara taşınacaktır. eğitim ve öğretim önemli ölçüde sekteye uğrayacak ve verilecek eğitimin kalitesi de düşecektir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/sacar.edu/posts/1960113757534403" title="https://www.facebook.com/sacar.edu/posts/1960113757534403">ağaçların kesilme ve yıkım videosu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=5VGxnlx3nO4" title="https://www.youtube.com/watch?v=5VGxnlx3nO4">şişli endüstri meslek lisesi nasıl yıkılmak isteniyor?</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/okul-gidiyor-avm-geliyor-40649247" title="http://www.hurriyet.com.tr/okul-gidiyor-avm-geliyor-40649247">haber linki</a><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/birgungazetesi/videos/1607223432647260/?hc_ref=ARSYIgYRn_FqZIIfQBsNSchh-WwCC3mMogN7GrXBFb1k-_AJRGUu91t78CR3WurB7E8&amp;fref=gs&amp;dti=567660189921008&amp;hc_location=group" title="https://www.facebook.com/birgungazetesi/videos/1607223432647260/?hc_ref=ARSYIgYRn_FqZIIfQBsNSchh-WwCC3mMogN7GrXBFb1k-_AJRGUu91t78CR3WurB7E8&amp;fref=gs&amp;dti=567660189921008&amp;hc_location=group">şişli e.m.l. mezunları ve mensupları derneği başkanının açıklamaları</a>
 - entry_name: |
-    18 kasım 2017 belediye otobüsünde yaşanan kavga
-  entry_id:  72225548
-  entry_writer: shataquli
-  entry_fav_count: 73
+    roberto soldado
+  entry_id:  72237179
+  entry_writer: cozulemeyen adam
+  entry_fav_count: 62
   entry_content: |
-    eşkıya ulkesinden bir manzara daha...<br/>eşkıya dayı bu ülkedeki belirli zümreyi, itilip kakılan, hakkını arayan kibar yolcu ise belirli diğer zümreyi temsil ediyor. <br/>öncesinde ne yaşandığını bilemem; ama otobüs şoförünün biletini basmış yolcunun, bedelini ödediği hizmeti alma hakkını kendince elinden alması bu ülkenin kısa bir özetidir.<br/>otobüsteki "biletini bastı,yolculuk etmeli, sen kimseyi otobüsten indiremezsin" diyemeyen diğer yolcular ise bu ülkede olup biten her şeyi akşam evlerinde çekirdek çitleyerek izleyen, "bana dokunmayan yılan bin yaşasın" grubunu temsil ediyor.<br/>ülke olarak çok süper bir durakta indik...
+    az önce attığı golle, alvaro negredo sanchez'i yakalamış golcüdür.<br/>edit: şu an, geçmiş futbolcudur.ikinciyi yazdı.<br/>edit: şu an, negredo'ya iki fark attı. <br/>şaka gibi lan, adam hatt trick yaptı. adam resmen taşak geçiyor bizle.<br/>allahım daha nice editler nasip eyle amin.
 - entry_name: |
     gratis
   entry_id:  72219286
   entry_writer: oztrink
-  entry_fav_count: 61
+  entry_fav_count: 62
   entry_content: |
     1)zaten sık sık indirim yapan bir mağaza. <br/><br/>2)ürünlerinin genel fiyat aralığı orta direk bir ailenin zaten karşılayabileceği rakamlar. üst segment bir yer değil. <br/><br/>3)bir taksici abi “sonradan müslüman olan bir millet olarak çok abarttık” demişti. gülmüştüm. ama biz neyi abartmıyoruz ki? bedava bok bulsak kuyruğa girecek varoş bir kültürümüz var. bakın bunun parayla da ilgisi yok içimizden gelen bir varoşluk, olmamışlık bu. kendimizi çok akıllı ve karda sayıyoruz. gidip burada satılan ürünleri evde stok yapmak için 40 dakika kuyruğa girenler var. aldığımız şeylere bu oranda ihtiyacımız var mı? bir ay geçmeden tekrar bir ton üründe %50-60larda indirim yapacak bir mağaza için bu stok kafası nedir? <br/><br/>4)bir de bizim ülke insanında en bittiğim şey hesaplanamayan maliyetleri hep sıfır kabul etmeleri. misal 1 saat sıra beklemek, kalabalığın içinde kaos yaşamak, verem olmak gibi faktörler hiç hesaplanmıyor. halbuki kar edeceğim 50tl’den daha fazla para eder benim rahatım ve konforum. ama hep çekmeye alışmışız, gözümüze gelmiyor böyle şeyler. üç kuruş için 1 saat kuyruğa ancak ekmek, su gibi hayati ihtiyaçlar söz konusuysa girerim. kulak pamuğu, fondoten, şampuan için değil. ama gel de anneme, teyzeme anlat.
 - entry_name: |
@@ -114,13 +128,6 @@ data:
   entry_fav_count: 60
   entry_content: |
     yani adam diyo ki, fizik yasalarınca bir asa yılan olamaz, deniz ikiye ayrılamaz ama "tanrı var ve oldu işte mucize" diğer taraftan da diyo ki fizik yasalarınca bilmem kaç da bir oran var nasıl mümkün oluyo?" mucize oldu işte ve tanrı var"<br/><br/>ve bu adam felsefe falan bildiğini sanıyor. hey yavrum hey...
-- entry_name: |
-    roberto soldado
-  entry_id:  72237179
-  entry_writer: cozulemeyen adam
-  entry_fav_count: 59
-  entry_content: |
-    az önce attığı golle, alvaro negredo sanchez'i yakalamış golcüdür.<br/>edit: şu an, geçmiş futbolcudur.ikinciyi yazdı.<br/>edit: şu an, negredo'ya iki fark attı. <br/>şaka gibi lan, adam hatt trick yaptı. adam resmen taşak geçiyor bizle.<br/>allahım daha nice editler nasip eyle amin.
 - entry_name: |
     valerios leonidis
   entry_id:  72226932
@@ -136,61 +143,61 @@ data:
   entry_content: |
     777. entrymi ilk okul numaram ile taçlandırmak istiyorum. onca sene 777 numarayı taşıdık, unutmak da imkansız o zaman ona olan vefamı böyle göstereyim. hayatın toz pembe olduğu, özlenen günlerdir.
 - entry_name: |
-    sevgilisine astral seyahat yapıp mindfuck olan kız
-  entry_id:  72234248
-  entry_writer: isoroku yamamoto
-  entry_fav_count: 50
-  entry_content: |
-    "...ben mısıra gittim mesela pramitlere, bir gece astralle..."<br/><br/>(bkz: <a class="b" href="/?q=astral+turizm">astral turizm</a>)
-- entry_name: |
     2017 2018 süper lig şampiyonu fenerbahçe
   entry_id:  72237702
   entry_writer: hatanin varyansi
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     son yılların en hızlı gaza gelişi. <br/><br/>var mı bunun herhangi bir yerde kaydı falan? rekor olabilir çünkü.
 - entry_name: |
     kışlık montların çok pahalı olması
   entry_id:  72235853
   entry_writer: ben de iibf mezunuyum
-  entry_fav_count: 36
+  entry_fav_count: 45
   entry_content: |
     bu yıl yüzüme tokat gibi çarpan gerçek. geçen yıla kadar kalbur üstü markaları saymazsak gayet güzel montları, kaşe kabanları maksimum 200 liraya alabiliyorken bu yıl en dandiği bile 200 liradan başlıyor. fiyatlar da ortalama 350-500 lira arasında gördüğüm kadarıyla. ben almak için geç kaldım desem bir ayı aşkın süredir bakıyorum fiyatlar hep yüksekti yani yeni bir şey değil. ayda beş haneli maaşı cukkalayan müdürüm bile almak istediği 500 liralık montun aşırı pahalılığından yakınıyordu ki zavallı brüt maaş, kümülatif vergi matrahı kurbanı ben o çok istediğim 549 liralık kaşe kabanı nasıl alabilirim hiç bilmiyorum. kesin kışlık mont enflasyonu var.<br/><br/>mevsimlik mont diye bir şeyin olduğunu duymayanları da görmüş olduk çok şükür.
+- entry_name: |
+    ev sahibine 5 bin lira su faturası kitlemek
+  entry_id:  72239013
+  entry_writer: o kadar yaratici degilim
+  entry_fav_count: 39
+  entry_content: |
+    suyun değerini bilmeyip sadece faturadan ibaret bir şey sanan insan(?) beyanatı.
 - entry_name: |
     niçin atatürk hiçbir yere gitmemiştir
   entry_id:  72232337
   entry_writer: kuartz
-  entry_fav_count: 29
+  entry_fav_count: 31
   entry_content: |
     abd de süren bm ambargosunun delinmesi davasından (reza davası) çıkacak muhtemel sonucun psikolojik altyapısını yapmaya başlamış olabilirler.
 - entry_name: |
     telefon numarasını hiç değiştirmemiş insan
   entry_id:  72228696
   entry_writer: insurer
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     düzgün insandır.<br/>geride bıraktıklarından kaçma ihtiyacı hissetmiyordur. veremeyecek hesabı yoktur.
 - entry_name: |
     kedi saldırısına uğramak
   entry_id:  72237793
   entry_writer: vogojin
-  entry_fav_count: 17
+  entry_fav_count: 20
   entry_content: |
     ''bir kedi bir sebep olmadan saldırmaz. kesin insan oğlu bir çakallık yapmış ve onu sinir etmiştir. ondan gözüne kestirip gerekeni yapmıştır. var olsunlar.''<br/><br/>ulan bunu yazan ciddi sanırım. kedi dini falan mı var oğlum bu ne bağnazlık?
 - entry_name: |
     19 kasım 2017 fenerbahçe dg sivasspor maçı
   entry_id:  72237900
   entry_writer: oylegolas
-  entry_fav_count: 14
+  entry_fav_count: 16
   entry_content: |
     kırmızı kart gören futbolcunun şike mi yaptığı, defansın komple mi şike yaptığı, hakemin haksız kırmızı kart mı gösterdiği konusunda fikir ayrılıklarının olduğu maç. önce bir kendi aranızda bir fikir birliğine varın. ona göre saldırın. adamlar yenilmeye çıkmışsa neden o kadar kastılar gol atmaya. eğer maç satışı diye bir şey varsa sezon başından beri defansıyla, teknik direktörüyle, yönetimiyle fenerbahçe yapıyor diyebiliriz.
 - entry_name: |
-    aykut kocaman
-  entry_id:  72227517
-  entry_writer: mebegu
-  entry_fav_count: 12
+    sevgilisine astral seyahat yapıp mindfuck olan kız
+  entry_id:  72234430
+  entry_writer: bazenzazen
+  entry_fav_count: 14
   entry_content: |
-    bu akşam maç sonrası basın toplantısında muhtemelen şu şekilde anlamsız bir konuşma yapacak olan fenerbahçe teknik direktörü.<br/><br/>"gereğini yapacağım dediğimde zaman belirtmemiştim... oradaki -ecek, -acak eki gelecek zamandır... ama tam olarak zamanı belirtmemektedir... ki sonuç olarak... günümüz futbolunda... her şeyi hemen elde etmeyi istiyoruz... ancak futbol böyle bir şey değil... şans faktörü de çok önemli... dört önemli futbolcumuzun olmadığı ortamda elimizden geleni yaptık... neyse sorudan çok sapmayalım... ama gereğini yavaş yavaş yapacağız... hem taktik, hem kadro, hem de kendimle ilgili..."<br/><br/>not: cümleleri duygusuz aykut tonunda ve hızlı okuyun, üç noktalar ise aykut kocaman sessizliği<br/><br/>not2: alexspor
+    (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+mindfuck+buddy+aran%c4%b1yor+ilanlar%c4%b1">ekşi sözlük mindfuck buddy aranıyor ilanları</a>)
 - entry_name: |
     naim süleymanoğlu
   entry_id:  72219966
@@ -227,19 +234,40 @@ data:
   entry_content: |
     lokantalarda herkesin bulduğu türk tipi fast food ürünler hariç ise katıldığım önerme. <br/><br/>döner, kebap çeşitleri falan filan bunları bütün dünyada bulursunuz fakat özellikle türk kültürüne ait ev yemeklerini dünyanın hiçbir yerinde bu kadar kaliteli olarak bulamazsınız.<br/><br/>evet türk erkeği bilimde ve teknolojide geridir. kafaları basmaz fazla fakat türk kadını mutfakta dünya klasmanında liderliğe oynamaktadır. <br/><br/>evet über-süper-hiper güçlü, attın mı milyonları öldüren silahlar, kendini göstermeden koca bir ilçeyi havaya uçuran sinsi uçaklar yapamıyoruz fakat kültürel açıdan bizi kimsenin dövemeyeceğini açık ve net söyleyebilirim.<br/><br/>türk dilinin, türk mutfağının, türk kültürünün yerine koyulacak hiçbir şey yok.<br/><br/>türkleri türk yapan kültürleridir. hani şu birilerinin arap kültürü ile değiştirmeye çalıştığı şey... <sup class="ab"><a title="(bkz: kültürümü değiştirmek istiyorsan beni öldür)" href="/?q=k%c3%bclt%c3%bcr%c3%bcm%c3%bc+de%c4%9fi%c5%9ftirmek+istiyorsan+beni+%c3%b6ld%c3%bcr" data-query="kültürümü değiştirmek istiyorsan beni öldür">*</a></sup>
 - entry_name: |
-    19 kasım 2017 apple id rezaleti
-  entry_id:  72237778
-  entry_writer: iskenderkebap ii
-  entry_fav_count: 7
+    neden insanlar akp'ye oy veriyorlar
+  entry_id:  72231716
+  entry_writer: pierre carton
+  entry_fav_count: 8
   entry_content: |
-    hesabima girmeye calisti. aldigim uyarilar ve apple'in guvenlik onlemleri sayesinde giremedi!<br/><br/>eee?<br/><br/>rezalet puani: otur sifir.
+    toplumun çok büyük bir bölümünün yoksul, eğitimsiz bırakılmış olması, onları kolay manipüle edilebilir kılıyor. islam nedir bilmeyen, okumayan, duyduklarını sorgulamayan insanlar yani bizim gibi olgunlaşamamış toplumlardaki dinini bilmeyenleri din ile yoğurmak çocuk hamuruyla oynamaktan daha basit. <br/><br/>kim ne derse desin akp propaganda konusunda başarılı bir yol izliyor ve kendi doğrultularında da amaçlarına pekala ulaşıyor. <br/><br/>akp'ye oy vermek için kör ve sağır olmak lazım fakat yıllar içinde insanların beyinleri körleştirildi.
 - entry_name: |
     barış özcan
   entry_id:  72221530
   entry_writer: delu cocuk
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     nedenini tam bilmiyorum ama, bu arkadaşı sahte peygamber gibi görüyorum. ya da sahte budist mi demeliyim? zerre kadar bir kinim, hasedim falan yok, yanlış anlaşılmasın. sanki resmiyet ve subjektifliğin içiçe geçtiği derin bir samimiyetsizlik seziyorum.<br/><br/>izleyicilerine yürüyün dediği yolların aslında yol olmadığına inanıyor sanki. <br/><br/>bir de izleyicilere sürekli dikte ettiği mükemmellik, planlılık, dakiklik ve düzen gibi şeyler ne kadar doğru? bence özgün ve orijinal bir insan, belirlenmiş yollardan kurallara uyarak değil, çölleri ve denizleri çaprazlama yara yara gitmeli. kendi yol işaretlerini kendi belirlemeli.
+- entry_name: |
+    19 kasım 2017 apple id rezaleti
+  entry_id:  72237778
+  entry_writer: iskenderkebap ii
+  entry_fav_count: 8
+  entry_content: |
+    hesabima girmeye calisti. aldigim uyarilar ve apple'in guvenlik onlemleri sayesinde giremedi!<br/><br/>eee?<br/><br/>rezalet puani: otur sifir.
+- entry_name: |
+    rum ortodoks kilisesinin kapısına yazılanlar
+  entry_id:  72238559
+  entry_writer: adana kebapspor
+  entry_fav_count: 6
+  entry_content: |
+    hristiyanlık bunu yapanı bile kınamayı değil sevmeyi öğütler. <br/><br/>incil matta 5. bölüm:<br/><br/>43 “ ‘komşunu seveceksin, düşmanından nefret edeceksin’ dendiğini duydunuz. 44 ama ben size diyorum ki, düşmanlarınızı sevin, size zulmedenler için dua edin. 45 öyle ki, göklerdeki babanız’ın oğulları olasınız. çünkü o, güneşini hem kötülerin hem iyilerin üzerine doğdurur; yağmurunu hem doğruların hem eğrilerin üzerine yağdırır. 46 eğer yalnız sizi sevenleri severseniz, ne ödülünüz olur? vergi görevlileri de öyle yapmıyor mu? 47 yalnız kardeşlerinize selam verirseniz, fazladan ne yapmış olursunuz? putperestler de öyle yapmıyor mu? 48 bu nedenle, göksel babanız yetkin olduğu gibi, siz de yetkin olun.”
+- entry_name: |
+    mesaja geç cevap verenin mesajına geç cevap vermek
+  entry_id:  72237617
+  entry_writer: abso
+  entry_fav_count: 6
+  entry_content: |
+    bir keresinde hoşlandığım kız mesajıma 10 dakika geç cevap verdi diye sinirlenmiş, ben de ona 20 dakika geç cevap vermiştim. kız bir sonraki mesajı 40 dakika geç yazdı, ben 80 dakika derken 2 senedir konuşmuyoruz.
 - entry_name: |
     işsiz doktor
   entry_id:  72232589
@@ -247,20 +275,6 @@ data:
   entry_fav_count: 5
   entry_content: |
     suan icin olmayan kavramdir issiz hekim kavrami. vakti zamaninda ogretmenler icin de ayni sey soyleniyordu fakat her yil 100.000 ogretmenlik mezunu olmakta ve is bulamiyorlar. yilda 10.000 mezun veren tip fakulteleri de ayni kadere mahkum olabilir bence.
-- entry_name: |
-    3 ölçek tuz ruhu 1 ölçek perhidrol
-  entry_id:  72235875
-  entry_writer: tranceaddict
-  entry_fav_count: 5
-  entry_content: |
-    eğer bilgisayarda tasarlanmış düzgün bir çizim basmışsanız karta, ağzınızdan salyalar akarak izlersiniz çözünmeyi. iddia ediyorum iş makinası izlemek kadar zevklidir. istenmeyen kısım çözülüp devre yolları cillop gibi hatasız ortaya çıkınca mutluluktan uçarsınız. sanki vestel'in pcb tasarım müdürüsünüz o an.<sup class="ab"><a title="(bkz: oyşşş)" href="/?q=oy%c5%9f%c5%9f%c5%9f" data-query="oyşşş">*</a></sup>
-- entry_name: |
-    mesaja geç cevap verenin mesajına geç cevap vermek
-  entry_id:  72237617
-  entry_writer: abso
-  entry_fav_count: 4
-  entry_content: |
-    bir keresinde hoşlandığım kız mesajıma 10 dakika geç cevap verdi diye sinirlenmiş, ben de ona 20 dakika geç cevap vermiştim. kız bir sonraki mesajı 40 dakika geç yazdı, ben 80 dakika derken 2 senedir konuşmuyoruz.
 - entry_name: |
     justice league
   entry_id:  72222174
@@ -283,20 +297,6 @@ data:
   entry_content: |
     ~~~~~~~~~~ ~<br/>~~~~~~~~~~ ~<br/>~~~~~~~~~~ ~ ~o<br/>~~~~~~~~~~<br/>~~~~~~~~~~ ~
 - entry_name: |
-    rum ortodoks kilisesinin kapısına yazılanlar
-  entry_id:  72237823
-  entry_writer: captain chop
-  entry_fav_count: 3
-  entry_content: |
-    <a class="b" href="/?q=inan%c3%a7">inanç</a>'a saygısızlıktır, <a class="b" href="/?q=cahillik">cahillik</a>tir, <a class="b" href="/?q=eziklik">eziklik</a>tir, <a class="b" href="/?q=yobazl%c4%b1k">yobazlık</a>tır.
-- entry_name: |
-    neden insanlar akp'ye oy veriyorlar
-  entry_id:  72231716
-  entry_writer: pierre carton
-  entry_fav_count: 3
-  entry_content: |
-    toplumun çok büyük bir bölümünün yoksul, eğitimsiz bırakılmış olması, onları kolay manipüle edilebilir kılıyor. islam nedir bilmeyen, okumayan, duyduklarını sorgulamayan insanlar yani bizim gibi olgunlaşamamış toplumlardaki dinini bilmeyenleri din ile yoğurmak çocuk hamuruyla oynamaktan daha basit. <br/><br/>kim ne derse desin akp propaganda konusunda başarılı bir yol izliyor ve kendi doğrultularında da amaçlarına pekala ulaşıyor. <br/><br/>akp'ye oy vermek için kör ve sağır olmak lazım fakat yıllar içinde insanların beyinleri körleştirildi.
-- entry_name: |
     nadir gelen hayat süper lan hissi
   entry_id:  72238418
   entry_writer: edepiliedepsiz
@@ -304,52 +304,52 @@ data:
   entry_content: |
     yaklaşık 3 aydır bu hava da yaşıyorum. hatta adına bir blogger hesabım da var.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://iamilker.blogspot.com.tr/">https://iamilker.blogspot.com.tr/</a><br/>kanseri yen sonra hayat güzel deme... vah babuş vah...
 - entry_name: |
-    21 kasım 2017 beşiktaş porto maçı
-  entry_id:  72233611
-  entry_writer: susuz yaz
-  entry_fav_count: 1
+    amerika'daki dünya düzdür konferansı
+  entry_id:  72239127
+  entry_writer: prion
+  entry_fav_count: 3
   entry_content: |
-    şerefsiz karaborsacıların başlığına doluştuğu maç.
+    <a class="b" href="/?q=pop%c3%bclizm">popülizm</a>in sonuçlarındandır. <br/>facebook'ta okuduğu her şeyi gerçek sanan adamlara oy hakkı veriyorsunuz. yarın öbür gün bunların örgütlenip dünya yuvarlaktır diyenleri yakmayacağını nerden biliyorsunuz? daha önce yapmadıkları bi şey mi?
 - entry_name: |
     sözlükte yazar olduğunu eşinden saklayan insan
   entry_id:  72237982
   entry_writer: bakura
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     efendilik, dürüstlük ya da oynak bir götle alakalı olmayan durum. kişi bu platformda kendisine bir sevgili aramıyorsa, sözlüğü cilveleşme mekanı olarak kullanmıyorsa gayet saklayabilir. burayı dertleşmek için kullanan yazarlar bile gördüm. efendilik dediğin şey böyle saçma sapan mevzularla ölçülecek bir şey değil. sözlüğün olayı bu ayrıca. öyle olmasa takma isimlerle değil, isim soyisimlerimizle yazardık.
 - entry_name: |
     meltem cumbul'un okuduğu kitaplar
   entry_id:  72238999
   entry_writer: xavininarapasi
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     bir ünlünün kitap okumasının haber değeri taşıdığı garip bir ülkeyiz.<br/><br/>bu arada zevkli kadınmış, hem kafka oteli'ni hem de akılla bir konuşmam oldu'yu okuyormuş.
 - entry_name: |
-    galatasaray 2017-2018 teknik direktörü anketi
-  entry_id:  72235175
-  entry_writer: asosyal vurdumduymaz utangac usengec
-  entry_fav_count: 0
+    ayla
+  entry_id:  72220303
+  entry_writer: glorysp
+  entry_fav_count: 1
   entry_content: |
-    kusura bakmayın ama şahsi kanaatinizi sikeyim.
+    birçok dizide ve filmde son senelerde ya bilindik klişe konular ya da yurtdışındaki ünlü dizilerden ve filmlerden alıntı yapılırken, yerli filmlerde birkaç eski filde biraz değinme dışında pek yer verilmeyen kore savaşı'nı, gerçek karakterler üzerinden konu alan, hem bu açıdan hem de genel atmosferi ve çekimleri açısından güzel olmuş film. gerçekten duygusal sahneleri var ama zaman zaman güldüren yerleri de var neyse ki. insanı sıkmıyor. kuzey kore'nin yeniden dünyaya meydan okumaya kalktığı bir dönemde yapılmış olması da dikkatimi çekti ama sonuçta siyasi ve diplomatik meseleleri bir kenara bırakırsak genelde güzel bir film olmuş. izlediğim salon da neredeyse tamamen doluydu. emeği geçenlerin emeğine sağlık.
 - entry_name: |
-    ev sahibine 5000 lira su faturası kitlemek
-  entry_id:  72239861
-  entry_writer: ekşisözlük
+    iyi parti
+  entry_id:  72227529
+  entry_writer: sakit ol cempion
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=ev+sahibine+5+bin+lira+su+faturas%c4%b1+kitlemek">ev sahibine 5 bin lira su faturası kitlemek</a>)
+    benim bir siyasi partiden beklediğim, ortalama olarak hak ettiğim refahı bana sağlamasıdır. yüksek vergiler ve bilişimde geri kalmış olmak benim canımı sıkan durumlar.<br/><br/>örneğin yurtdışından alışveriş sınırının 30euro olması bence doğru değil. yurtiçinde üretilmeyen ürünlerde vergi olmaması, üretilenlere de 250euro gibi bir üst sınır getirilmesi doğru olur düşüncesindeyim. yurtdışından cep telefonu alamamak, yanında getirsen bile imei kaydetme gibi sırf vergi olsun diye çıkarılmış sistemler kaldırılmalıdır. yüksek vergilendirme ve sınırlandırmalar ile yurtiçinde fason mal üretenler yüksek oranlarda para kazanırken, son tüketici ise düşük kaliteli mala dünya ortalamasının çok üstünde paralar vermek zorunda kalıyor.<br/><br/>internet ise başka bir konu. saçma sapan yasaklar var. (bkz: <a class="b" href="/?q=imgur">imgur</a>) bunlara bir standart getirilmesi ve keyfe göre engelleme yapılmasının önüne geçilmesi lazım. internet hızı ve fiyatı ise bir başka konu. btk, akk sistemini kaldırmış olmasına rağmen bir kamu kurumu olan uydunet hala akk'li internet satıyor. bulgaristanda 100dl/100ul internet 35tl bunu türkiye'de satın alamıyorsun bile. 100mb 75gb kotalı internet 135tl. dünya standartlarının çok gerisindeyiz ve bunun yakın sürede değişeceğine dair bir çalışma bile yok. zamanında özelleştirilen türk telekom'u satın alan oger telecom borç batağında, yapması gereken altyapılar yapılmıyor 17 yıl öncesinin teknolojisi olan bakır kabloyla internete giriliyor.<br/><br/>eğer yeni nesilin isteklerine kulak verirlerse ve bu söylediğim sorunlara değinirlerse ilçe belediye dışında büyükşehir ve genel seçimde kendileri için olumlu düşünebilirim.
+- entry_name: |
+    ismail köybaşı
+  entry_id:  72239737
+  entry_writer: toisfalan
+  entry_fav_count: 0
+  entry_content: |
+    twitter'da yazmıştım buraya da yazayım;<br/><br/>ismail köybaşı ile aramızdaki farklar :<br/>1 - aktif futbolcu olduğu için fit, benden zayıf.<br/>2 - futbol oynarken yaptığı hataların aynısı bende yapıyorum tıpkı onun gibi ama ben futbolcu değilim halısahada oynuyorum o fenerbahçede.<br/>bu kadar.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  72232993
-  entry_writer: vladimir ozcanov
+  entry_id:  72239778
+  entry_writer: oakpost
   entry_fav_count: 0
   entry_content: |
-    olmek icin harika bi aksam. buyrun beraber olsun.<br/><br/>not: sikintidan olmek manasinda. sakin olun.
-- entry_name: |
-    amerika'daki dünya düzdür konferansı
-  entry_id:  72238814
-  entry_writer: no one knows who i am
-  entry_fav_count: 0
-  entry_content: |
-    mal dünya'nın her yerinde maldır. beyin olsa bir tane bilim adamı çıkıp da bugüne kadar neden aksini ispatlamadı diye düşünmez mi?
+    aq atanamayan öğretmenim dedim,muhabbet kesildi.<br/><br/>connectedme yok.profesyonel hayat tavsiyesi verenler,mutluluk reçetesi dağıtanlar,kariyeristler yeşillendirmesin lütfen.
 ---
