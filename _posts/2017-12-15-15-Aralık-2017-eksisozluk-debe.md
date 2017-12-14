@@ -6,58 +6,79 @@ data:
     dünyada sadece 7 kişinin cevabını bildiği soru
   entry_id:  72803724
   entry_writer: klarkkent
-  entry_fav_count: 474
+  entry_fav_count: 482
   entry_content: |
     (bkz: <a class="b" href="/?q=i%c3%a7inden+ge%c3%a7mek">içinden geçmek</a>)<br/><br/><a class="b" href="/?q=edit">edit</a>: hiçbir şekilde hareket ettirilemeyen ve hiçbir şekilde durdurulamayan cisme inanıyorsun da, durdurulamayan cismin hareket ettirilemeyen cismin içinden geçeceğine mi inanmıyorsun?
 - entry_name: |
     lisedeki en arka dörtlünün bugünkü durumu
   entry_id:  72804510
   entry_writer: aradeth
-  entry_fav_count: 461
+  entry_fav_count: 470
   entry_content: |
     biri hacettepe tibbi bitirdi, yillarini zorunlu hizmet ile gecirirken evlendi dunya tatlisi bir kizi var.<br/><br/>biri odtu elektronigi bitirdi, cok ucuk bir insan oldugundan standard bir is bulmayip kendi sirketini kurdu. birkac makine icat etti (evet hakikaten icat etti oyle bir adam), ama sonunda ulkeye dayanamayip isvec'e goctu simdi orada bir sirket kurdu avrupa bilim destek fund'larindan yararlaniyor.<br/><br/>biri bogazici elektronigi bitirdi, mit'ye doktoraya gitti. yillar yili calisti aldi doktorayi, sonra konusma firsatimiz olmadi.<br/><br/>biri de mal mal eksisozlukte entry girmekte an itibariyle.<br/><br/>not: fen lisesi
+- entry_name: |
+    rte hakkında suç duyurusunda bulunan vatandaş
+  entry_id:  72812189
+  entry_writer: kemaliz kiz
+  entry_fav_count: 386
+  entry_content: |
+    ismi aydın aydoğan'dır.<br/>yürek yemiş bir vatandaşımızdır.<br/>suç duyurusunun hemen ardından gözaltına alınmıştır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>gezi parkı direnişi sırasında polisin attığı biber gazı kapsülünün ayağına çarpması sonucu yaralanan aydın aydoğan, cumhurbaşkanı tayyip erdoğan hakkında “halkı sosyal, sınıf ve bölge üzerinden ayrıştırdığı” iddiasıyla suç duyurusunda bulundu. aydoğan, suç duyurusunun ardından gözaltına alındı.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>istanbul cumhuriyet başsavcılığı özel soruşturma bürosu’na başvuran aydoğan, suç duyurusu dilekçesinde “şahsımı yaklaşık 4.5 yıldır basın yolu ile hedef gösteren akp genel başkanı sayın recep tayyip erdoğan, çeşitli yerlerde yapmış olduğu konuşmalarda gezi olaylarına karışanlar için ‘çapulcu’, ‘hain’, ‘kemirgen’, ‘terörist’ ve ‘dış mihrakların piyonu’ diyerek ve ayrıca 15 temmuz darbe girişimine karşı katılanlar geziciler değildir diyerek toplumu, halkı sosyal ve sınıf bölge üzerinden ayrıştırdığı için kendisi hakkında şikâyetçiyim” dedi. 4.5 yıldır sıkıntılar çektiğini vurgulayan aydoğan dilekçesinde, “gezi olaylarına katılanlar esasen mağdur durumdadır. ben esasen yaralandığım için iş güç yapamaz durumdayım. bende astım çıktı. vücut bütünlüğüm bozuldu. televizyonlarda gezi parkına katılanlar için uygun olmayan sözler sarf etmesi bizleri üzmektedir. bu nedenle şikâyetçiyim” ifadelerini kullandı.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/885707/Erdogan_hakkinda_suc_duyurusunda_bulunan_Aydin_Aydogan_gozaltina_alindi.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/885707/Erdogan_hakkinda_suc_duyurusunda_bulunan_Aydin_Aydogan_gozaltina_alindi.html">link</a>
 - entry_name: |
     kürtçe konuşabilen türk sayısı
   entry_id:  72812470
   entry_writer: provokator mistik
-  entry_fav_count: 300
+  entry_fav_count: 307
   entry_content: |
     bilim dili mi? hayır.<br/>büyük bir coğrafyada kullanılan bir dil mi? hayır.<br/>fonetik mi? hayır.<br/>öyleyse neden öğrenilsin? hasbel kader aynı coğrafyadayız diye yabancı bir dili öğrenmenin mantığı yoktur.
 - entry_name: |
     14 aralık 2017 ruhi çenet trafik kazası
   entry_id:  72809547
   entry_writer: byzantium
-  entry_fav_count: 292
+  entry_fav_count: 296
   entry_content: |
     (bkz: <a class="b" href="/?q=ruhi+%c3%a7enet+kim+aq">ruhi çenet kim aq</a>)<br/><br/>edit: her kazaya başlık açalım bundan sonra. özelden delirenlere ne oluyor anlamadım. ruhi çenet kim işte? tanınmak için ne yapmış? youtube takip ediyorum ama tanımıyorum. <br/><br/>(bkz: <a class="b" href="/?q=23+a%c4%9fustos+2008+day%c4%b1ma+zebra+%c3%a7arpmas%c4%b1">23 ağustos 2008 dayıma zebra çarpması</a>)
+- entry_name: |
+    metrobüs tutacaklarına dini sözler yerleştirilmesi
+  entry_id:  72809781
+  entry_writer: ssekk
+  entry_fav_count: 220
+  entry_content: |
+    henüz bugün farkettiğim bir gerçek. metrobüslerin tutacaklarına islami ögeler içeren kartlar yerleştirilmiş. anladığım kadarıyla hadis ve ayet bunlar<br/><br/>tüm türk milletini müslüman zanneden akp’nin son icraatı sanırım. <br/><br/>adım adım şeriat. adamlar uzaya, biz geriye gidiyoruz. <br/><br/>buyrun; <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/DyaBZy.jpg">https://i.hizliresim.com/dyabzy.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/mJn4B2.jpg">https://i.hizliresim.com/mjn4b2.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/EyZroD.jpg">https://i.hizliresim.com/eyzrod.jpg</a><br/><br/>sen müslümansan senin inancından bana ne ? ben müslüman değilsem benden sana ne ? <br/><br/>şuraya özlü bir yahudi, hristiyan sözü yazılsa metrobüsü bombalarsınız din elden gidiyor diye. <br/><br/>carl sagan sözü yazılsaydı yazanın kafasını keserdiniz. <br/><br/>siz yapınca herşey normal, işinize gelmeyince rerörö. parasını ödediğimiz taşıtta inancınızı görmek zorunda mıyız ?<br/>bir şeyi de gözümüze gözümüze sokmadan becerin ya.
 - entry_name: |
     14 aralık 2017 denizhan vural'ın basın açıklaması
   entry_id:  72812496
   entry_writer: chandrasupra
-  entry_fav_count: 207
+  entry_fav_count: 213
   entry_content: |
     klasik yeni türkiye delikanlısı olduğunu öğrendiğimiz basın toplantısı.<br/><br/>kahpelik: var<br/><br/>yalancılık: var<br/><br/>iftiracılık: var<br/><br/>zeka: yok<br/><br/>haysiyet: yok<br/><br/>utanma: hiç yok<br/><br/>yeni yetme ergen gibi bir de kaşına faça atmış dümbük.
 - entry_name: |
     günlük politikalarla uğraşmayın bilim öğrenin
   entry_id:  72806272
   entry_writer: doktor mussak
-  entry_fav_count: 167
+  entry_fav_count: 168
   entry_content: |
     -hocam günlük politika bizimle uğraşıyor. bi rahat verseler neler yapacağız da...<br/><br/>ispatın bu türlüsü bilimden sayılırsa hergün terörist veya vatan haini olmadığımızı ispatla uğraşıyoruz.
 - entry_name: |
     çağın en büyük hastalığı
   entry_id:  72805758
   entry_writer: leylanin son sozleri
-  entry_fav_count: 161
+  entry_fav_count: 164
   entry_content: |
     teşhir. yediğini, içtiğini, giydiğini, gezdiğini, ibadetini, vücudunu, en özel anlarını, sporunu, kolundaki serumunu, paranı, pulunu tüm dünya merak içerisinde bekliyormuşçasına sürekli paylaşma hastalığı.
 - entry_name: |
     1. yazar ödülleri
   entry_id:  72816609
   entry_writer: the spy in the attic
-  entry_fav_count: 141
+  entry_fav_count: 147
   entry_content: |
     elbette ki "yilin en iyi rezaleti" kategorisi de unutulmamali, o firma sahiplerine sahnede ucan tekme hediye edilmelidir.
+- entry_name: |
+    ahsen tv atatürk rezaleti
+  entry_id:  72800771
+  entry_writer: sircyborg
+  entry_fav_count: 118
+  entry_content: |
+    bir halk kurucusunu bu kadar mı sevmez, bu kadar mı düşman olur. almanlar hitler ile bu kadar uğraşmıyor. iğrençsiniz. atam cumhuriyeti sizin gibi gericiler için ilan etmedi.
 - entry_name: |
     oray eğin'in skandal yaratan tarkan yorumu
   entry_id:  72805146
@@ -69,14 +90,14 @@ data:
     sözlük yazarlarının favori starbucks içeceği
   entry_id:  72801582
   entry_writer: ahmetaslanahmet
-  entry_fav_count: 73
+  entry_fav_count: 80
   entry_content: |
     vayt çaklıt moka<br/><br/>en son gittiğimde çalışan çocuk "kahvesi sert olsun ister misiniz?" dedi. ben de olur tabi dedim. çay demli olsun gibi birşey zannettim. kahve kültürüne alışmış nesiliz sonuçta. meğerse artı ücret kilitliyorlarmış mini çakallar. kandırıldım.<br/><br/>edit: utandığım için yazamamıştım. aynı kişi "karamel sever misiniz? " diye sormuştu. evet demiştim. onu da kilitlemişti sözlük
 - entry_name: |
     nükleer santral konya'ya yapılsın
   entry_id:  72816857
   entry_writer: ffermolay
-  entry_fav_count: 63
+  entry_fav_count: 72
   entry_content: |
     reis-i cumhurumuzun en sevdiği memleket, ak parti’nin gözbebeği konya ülkemizin gelişmesinde reisin çok önem verdiği bu projeyi hak ediyor. evet ben böyle düşünüyorum.
 - entry_name: |
@@ -87,54 +108,75 @@ data:
   entry_content: |
     dedi çiş içmeye alışmış çiş adam.<br/>(bkz: <a class="b" href="/?q=deve+idrar%c4%b1">deve idrarı</a>)
 - entry_name: |
-    2 çocuklu kadını taciz edip silah çeken maganda
-  entry_id:  72814074
-  entry_writer: ombutosman
-  entry_fav_count: 57
-  entry_content: |
-    orospu çocuğu desen fahişeler ayaklanır "biz böyle çocuk yetiştirmeyiz" diye...<br/><br/>nereye gidiyoruz arkadaş ya... yanında iki çocuğu olan bir kadının poposunu avuçlamışsın, ne yapacaktı kadın, "ohh biraz da mememi avuçla" mı diyecekti?!<br/><br/>bunlar nerden alıyorlar bu cesareti diyeceğim de, geçmişteki demeçler geliyor aklıma hep...<br/><br/>ondan sonra da "her bokta da hükümet mi suçlu..."
-- entry_name: |
     maltepe belediyesi'nin memurlara %20.8 zam yapması
   entry_id:  72817256
   entry_writer: o kedi
-  entry_fav_count: 54
+  entry_fav_count: 60
   entry_content: |
     maltepe belediyesi 2018 yılı için, belediyede çalışan memurlara %20.8 zam yapmış, üstelik 6 maaş da ikramiye verilecekmiş.<br/><br/>ayrıca kadın çalışanlarına 8 martta, engelli çalışanlara ise 3 aralıkta ekstra bir ikramiye daha verilmesi kararı da alınmış. <br/><br/>ve yine bu sözleşmeye göre 1 mayısta tüm memurlar, 8 martta kadın memurlar, 3 aralıkta ise engelli çalışanlar izinli sayılacakmış.<br/><br/>bu tarz zamlar, sözleşmeler her belediye tarafından yapılıyor mu bilmiyorum ama maltepe belediyesine helal olsun.<br/><br/>burada da iki siteden link koyuyorum dileyen dilediğine bakabilir:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/maltepe-belediyesinden-calisanlarina-istanbul-yerelhaber-2465512/" title="http://www.milliyet.com.tr/maltepe-belediyesinden-calisanlarina-istanbul-yerelhaber-2465512/">milliyet gazetesi linki</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/memura-ilk-zam-maltepe-belediyesi-nden-195416.html" title="https://www.birgun.net/haber-detay/memura-ilk-zam-maltepe-belediyesi-nden-195416.html">bu da birgün</a><br/><br/>edit: linkler düzeltildi
 - entry_name: |
-    ripple
-  entry_id:  72808837
-  entry_writer: frege
-  entry_fav_count: 44
+    2 çocuklu kadını taciz edip silah çeken maganda
+  entry_id:  72814074
+  entry_writer: ombutosman
+  entry_fav_count: 60
   entry_content: |
-    şımarık, sik beyinli, herhangi bir kadın gibi bir karım var. <br/><br/>canı sıkılıyor, mücevher istiyor. canı sıkılıyor, 10 yıldızlı otelde tatil istiyor. canı sıkılıyor, onu bunu istiyor. üstelik bunları kendi maaşıyla da yapmıyor, kocam dil misin sen yapacaksın diye benden istiyor.<br/><br/>ben de şöyle bir mantık geliştirdim.<br/><br/>karım benden ne zaman bir şey istese, hayır deyip, istediği şeyin parasıyla ripple alıyorum.<br/><br/>normal, sıradan, herhangi bir gerizekalı erkek olsaydım, tabi ki o paraları karıma istediklerini almak için harcayacaktım. dolayısıyla, ripple birgün çöp bile olsa, zaten çöpe gidecek olan parayı yatırdığım için, para yükselmiş mi, batmış mı, hiç sikimde değil. <br/><br/>ama şu da bir gerçek ki, karıyı boşayacağım garanti ve bu evlilik bana havadan güzel para kazandırdı, 0.15, 0.20 dolardan aldığım ripple'lar bugün 1 dolar bandına geldi. %400! üstelik kazandığım para resmen kayıtlarda görünmediği için boşanma davasında karımla paylaşmak zorunda da değilim. ripple'ın önümüzdeki 3-5 yıl içinde yeni zirveler göreceği de malum. sadece gerizekalı bir karının şımarık isteklerine hayır diyerek ikinci bir servet yarattım kendime. o paraları da boşandıktan sonra orospularla yiyeceğim. teşekkürler kancık karım.
+    orospu çocuğu desen fahişeler ayaklanır "biz böyle çocuk yetiştirmeyiz" diye...<br/><br/>nereye gidiyoruz arkadaş ya... yanında iki çocuğu olan bir kadının poposunu avuçlamışsın, ne yapacaktı kadın, "ohh biraz da mememi avuçla" mı diyecekti?!<br/><br/>bunlar nerden alıyorlar bu cesareti diyeceğim de, geçmişteki demeçler geliyor aklıma hep...<br/><br/>ondan sonra da "her bokta da hükümet mi suçlu..."
+- entry_name: |
+    star wars iyi parti reklamı
+  entry_id:  72800900
+  entry_writer: kotl
+  entry_fav_count: 54
+  entry_content: |
+    malum kişinin "tek vatan, tek millet, tek bayrak, <a class="b" href="/?q=tek+y%c3%bcz%c3%bck">tek yüzük</a>" sloganıyla acilen reboundu alması gereken reklam.
 - entry_name: |
     anaokulunda kız çocuklarına ayak yıkama eğitimi
   entry_id:  72816798
   entry_writer: kotu ogretmen
-  entry_fav_count: 44
+  entry_fav_count: 54
   entry_content: |
     rol gereği diye gevelemek katıksız bir cahillik gerektirir gerçekten. örtük öğrenme diye bir kavram var biraz okuyun aydınlanın.<br/><br/>tanım: daha çok küçük yaşlarında beyin fukarası geleneklerle zihni yıkanan tertemiz çocuklardır.
 - entry_name: |
-    baro kimliğiyle banka hesabı açmaya çalışan avukat
-  entry_id:  72816811
-  entry_writer: gauri wide
-  entry_fav_count: 37
+    sevilen kişiden vazgeçme eşiği
+  entry_id:  72800804
+  entry_writer: dijalli
+  entry_fav_count: 50
   entry_content: |
-    bir bankacı olarak deli olduğum avukatların dahil olduğu gruptur. <br/><br/>şöyle ki; <br/><br/>avukat kişisi baro kimliğiyle işlem yapmak ister. bankacı kişisi de bankacılık işlemlerinde kimlik olarak bunu alamayacağını ehliyet, nüfus cüzdanı ya da pasaportla işlem yapabileceğini söyler. <br/><br/>buraya kadar olay tamam. gün içerisinde yüz kez karşılaştığımız durumlardan bir tanesi sayılabilecek özellikle bir olay her iki taraf için de. <br/><br/>asıl sorun burda başlıyor. bazı avukatlar söylenerek başka kimlik veriyor ve işlemini yaptırıyor, bazıları direkt hımm tamam diyerek başka kimlik vererek işlemini yaptırıyor. bazıları ise oradaki personele söylenmeye veya bağırmaya başlıyor. <br/><br/>siz banka olarak hukukun tanıdığı kimliği nasıl tanımazsınız ya da hukuktan daha mı üstünsünüz diye kendince haklı olduğu konuyu yanlış bir biçimde savunuyor. <br/><br/>bu durumdan bankadaki diğer müşteriler etkilenmeye başlıyor, personel olarak siz etkilenmeye başlıyorsunuz. yöneticiniz geliyor alttan alta süreci yönetemeyen insan konumuna düsüyorsunuz sicilinize yansıyor. birden içeride onlarca gergin birbirine bakan insan oluveriyor. <br/><br/>yahu kardeşim tamam ben bir şekilde bankayı temsilen senin bankacılık işlemlerini yapmak icin oradayım, evet. ama bankayı hukuki bir konuda savunacak kişi ben değilim ki. benim böyle bir vasfım ya da temsil yetkim yok ki. <br/><br/>sonsuza kadar haklı olabilirsin ancak bu konuda birlik olup bankaların ilgili bölümleriyle irtibata geçmek yerine herkesin ortasında karsındaki insanı azarlayarak ne sonuca varmaya çalısıyorsun. özellikle bir hukukçu olarak izlemen gereken yolları ben mi söyleyeyim sana. <br/>ben gelip anayasada neden bu madde var lölölö diye bağırıyor muyum sana? <br/><br/>oradaki personel maaş ile çalışan belli kurallara uymak zorunda olan birisi. evet bence de haklısınız verin kimliğinizi işleminizi yapayım diyerek alkışlar eşliğinde işlemi yapabilecek bir durumda değil ki bu kişi. ayrıca ben manyak mıyım yapabileceğim bir şey olsa senin iki saat söylenmeni hatta ardından hakaretlerini dinleyeyim gönüllü olarak. <br/><br/>bu yüzden zaten gün içerisinde yüzlerce insanın aşağılamalarına maruz kalan ve hatta asgari ücretin birazcık üzerinde maaş alıp en ufak hatasında o bedeli maaşından ödemek zorunda olan insanlara bu kadar kötü davranmayın. <br/><br/>istediğiniz çözümse bunun çözüm yolu biz değiliz. <br/><br/>oh be resmen senelerdir içimde tutuyormuşum bunu. ziyadesiyle rahatladım. eyyorlamam bu kadar. <br/><br/>tanım: umarım en yakın zamanda gerekli düzenlemelerle bankacılık işlemlerini baro kimliğiyle yapabilecek meslek grubuna dahil kişilerdir.
+    onun hayatının neresinde durduğunuzu bilmediğiniz ve yürümeye karar verdiğinizde ne kadar yavaş yürürseniz yürüyün sizi takip etmediğini anladığınız andır.
+- entry_name: |
+    ripple
+  entry_id:  72808837
+  entry_writer: frege
+  entry_fav_count: 45
+  entry_content: |
+    şımarık, sik beyinli, herhangi bir kadın gibi bir karım var. <br/><br/>canı sıkılıyor, mücevher istiyor. canı sıkılıyor, 10 yıldızlı otelde tatil istiyor. canı sıkılıyor, onu bunu istiyor. üstelik bunları kendi maaşıyla da yapmıyor, kocam dil misin sen yapacaksın diye benden istiyor.<br/><br/>ben de şöyle bir mantık geliştirdim.<br/><br/>karım benden ne zaman bir şey istese, hayır deyip, istediği şeyin parasıyla ripple alıyorum.<br/><br/>normal, sıradan, herhangi bir gerizekalı erkek olsaydım, tabi ki o paraları karıma istediklerini almak için harcayacaktım. dolayısıyla, ripple birgün çöp bile olsa, zaten çöpe gidecek olan parayı yatırdığım için, para yükselmiş mi, batmış mı, hiç sikimde değil. <br/><br/>ama şu da bir gerçek ki, karıyı boşayacağım garanti ve bu evlilik bana havadan güzel para kazandırdı, 0.15, 0.20 dolardan aldığım ripple'lar bugün 1 dolar bandına geldi. %400! üstelik kazandığım para resmen kayıtlarda görünmediği için boşanma davasında karımla paylaşmak zorunda da değilim. ripple'ın önümüzdeki 3-5 yıl içinde yeni zirveler göreceği de malum. sadece gerizekalı bir karının şımarık isteklerine hayır diyerek ikinci bir servet yarattım kendime. o paraları da boşandıktan sonra orospularla yiyeceğim. teşekkürler kancık karım.
 - entry_name: |
     sözlükçülerin tavlada en sevdiği başlama zarı
   entry_id:  72815845
   entry_writer: wham city citizen
-  entry_fav_count: 36
+  entry_fav_count: 42
   entry_content: |
     bu soruya 1-1 olarak cevap vermeyen tavladan anlamıyordur net.
 - entry_name: |
-    denizhan vural
-  entry_id:  72801212
-  entry_writer: format c iki nokta
-  entry_fav_count: 27
+    baro kimliğiyle banka hesabı açmaya çalışan avukat
+  entry_id:  72816811
+  entry_writer: gauri wide
+  entry_fav_count: 39
   entry_content: |
-    memleketin dağına taşına kurban, ne bereket varmış.<br/>her yerinden türlü türlü orospu çocugu çıkıyor.<br/><br/>yakında bunun da erkeklerle seks yaparken kaseti çıkabilir. öyle bir tipi var.
+    bir bankacı olarak deli olduğum avukatların dahil olduğu gruptur. <br/><br/>şöyle ki; <br/><br/>avukat kişisi baro kimliğiyle işlem yapmak ister. bankacı kişisi de bankacılık işlemlerinde kimlik olarak bunu alamayacağını ehliyet, nüfus cüzdanı ya da pasaportla işlem yapabileceğini söyler. <br/><br/>buraya kadar olay tamam. gün içerisinde yüz kez karşılaştığımız durumlardan bir tanesi sayılabilecek özellikle bir olay her iki taraf için de. <br/><br/>asıl sorun burda başlıyor. bazı avukatlar söylenerek başka kimlik veriyor ve işlemini yaptırıyor, bazıları direkt hımm tamam diyerek başka kimlik vererek işlemini yaptırıyor. bazıları ise oradaki personele söylenmeye veya bağırmaya başlıyor. <br/><br/>siz banka olarak hukukun tanıdığı kimliği nasıl tanımazsınız ya da hukuktan daha mı üstünsünüz diye kendince haklı olduğu konuyu yanlış bir biçimde savunuyor. <br/><br/>bu durumdan bankadaki diğer müşteriler etkilenmeye başlıyor, personel olarak siz etkilenmeye başlıyorsunuz. yöneticiniz geliyor alttan alta süreci yönetemeyen insan konumuna düsüyorsunuz sicilinize yansıyor. birden içeride onlarca gergin birbirine bakan insan oluveriyor. <br/><br/>yahu kardeşim tamam ben bir şekilde bankayı temsilen senin bankacılık işlemlerini yapmak icin oradayım, evet. ama bankayı hukuki bir konuda savunacak kişi ben değilim ki. benim böyle bir vasfım ya da temsil yetkim yok ki. <br/><br/>sonsuza kadar haklı olabilirsin ancak bu konuda birlik olup bankaların ilgili bölümleriyle irtibata geçmek yerine herkesin ortasında karsındaki insanı azarlayarak ne sonuca varmaya çalısıyorsun. özellikle bir hukukçu olarak izlemen gereken yolları ben mi söyleyeyim sana. <br/>ben gelip anayasada neden bu madde var lölölö diye bağırıyor muyum sana? <br/><br/>oradaki personel maaş ile çalışan belli kurallara uymak zorunda olan birisi. evet bence de haklısınız verin kimliğinizi işleminizi yapayım diyerek alkışlar eşliğinde işlemi yapabilecek bir durumda değil ki bu kişi. ayrıca ben manyak mıyım yapabileceğim bir şey olsa senin iki saat söylenmeni hatta ardından hakaretlerini dinleyeyim gönüllü olarak. <br/><br/>bu yüzden zaten gün içerisinde yüzlerce insanın aşağılamalarına maruz kalan ve hatta asgari ücretin birazcık üzerinde maaş alıp en ufak hatasında o bedeli maaşından ödemek zorunda olan insanlara bu kadar kötü davranmayın. <br/><br/>istediğiniz çözümse bunun çözüm yolu biz değiliz. <br/><br/>oh be resmen senelerdir içimde tutuyormuşum bunu. ziyadesiyle rahatladım. eyyorlamam bu kadar. <br/><br/>tanım: umarım en yakın zamanda gerekli düzenlemelerle bankacılık işlemlerini baro kimliğiyle yapabilecek meslek grubuna dahil kişilerdir.
+- entry_name: |
+    15 temmuz'da erdoğan'ı ilk karşılayanlardanım
+  entry_id:  72814958
+  entry_writer: mcleod
+  entry_fav_count: 28
+  entry_content: |
+    şüphe etmediğimiz gerçek.<br/><br/>salaydılar bari?
+- entry_name: |
+    çirkinlikten dolayı sokağa çıkmak istememek
+  entry_id:  72815661
+  entry_writer: artik yazar yapsaniza
+  entry_fav_count: 26
+  entry_content: |
+    içinde olduğum durum. şişmanım. hatta obezim. doğal olarak çirkinim. evden dışarı adım atmıyorum. herkes bana güler, dedikodumu yapar, beni aşağılar diye ödüm patlıyor. markete zor iniyorum. battıkça batıyorum. keşke güzel olsaydım. sokaktan geri gelmezdim.
 - entry_name: |
     aniden refah seviyesini arttıran şeyler
   entry_id:  72813995
@@ -143,40 +185,26 @@ data:
   entry_content: |
     nafaka ödemesinin sona ermesi.
 - entry_name: |
-    15 temmuz'da erdoğan'ı ilk karşılayanlardanım
-  entry_id:  72814958
-  entry_writer: mcleod
-  entry_fav_count: 26
-  entry_content: |
-    şüphe etmediğimiz gerçek.<br/><br/>salaydılar bari?
-- entry_name: |
-    çirkinlikten dolayı sokağa çıkmak istememek
-  entry_id:  72815661
-  entry_writer: artik yazar yapsaniza
-  entry_fav_count: 25
-  entry_content: |
-    içinde olduğum durum. şişmanım. hatta obezim. doğal olarak çirkinim. evden dışarı adım atmıyorum. herkes bana güler, dedikodumu yapar, beni aşağılar diye ödüm patlıyor. markete zor iniyorum. battıkça batıyorum. keşke güzel olsaydım. sokaktan geri gelmezdim.
-- entry_name: |
-    kabataş yalanı
-  entry_id:  72809761
-  entry_writer: so far so good so what
-  entry_fav_count: 23
-  entry_content: |
-    bir kadının türbanlı bile olsa cinsel fantezilerinin ne seviyede olduğunu tüm toplumca öğrenmemiz açısından muhteşem aydınlatıcı bir örnek olmuştur.<br/><br/>asıl acı olan şey şu ki bu yalanı ortaya yayan ve toplumun gözünün içine bak baka utanmadan yalanı devam ettirenlerden biri hala sarayından bu ülkeyi yönetiyor.
-- entry_name: |
     erdal özyağcılar
   entry_id:  72812306
   entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     türk sinema tarihinin kayınço rolünü yapan en iyi sanatçısıdır.<br/>(bkz: <a class="b" href="/?q=kibar+feyzo">kibar feyzo</a>)<br/>(bkz: <a class="b" href="/?q=namussuz+namuslu">namussuz namuslu</a>)<br/>(bkz: <a class="b" href="/?q=postac%c4%b1">postacı</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7%c3%b6p%c3%a7%c3%bcler+kral%c4%b1">çöpçüler kralı</a>)
 - entry_name: |
     mesleğini söyleyince verilen cevaplar
   entry_id:  72805490
   entry_writer: biribanadedi2
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     cim , cif var mı ?
+- entry_name: |
+    kızların sözlüğü erkek düşürmek için kullanması
+  entry_id:  72819479
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 21
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bakal%c4%b1m+b%c3%b6yle+d%c3%bc%c5%9fecek+mi">bakalım böyle düşecek mi</a>)
 - entry_name: |
     mehmet hakan atilla'nın itirafçı olması
   entry_id:  72816354
@@ -185,26 +213,19 @@ data:
   entry_content: |
     olmayandır. <br/><br/>buradaki okuduğunu anlamayan ya da anladığı işine gelmeyen mallara bakmayın. hakan atilla sadece tanık kürsüsüne çıkmayı kabul etmiştir. abd’de sanığın tanık kürsüsüne çıkma zorunluluğu yoktur, sadece kendisi isterse sorulara cevap verebilir. hakan atilla da sorulara cevap vermeyi kabul etmiştir. olay bundan ibarettir.
 - entry_name: |
-    datça'nın imara açılması
-  entry_id:  72806991
-  entry_writer: varolan
+    türkiye radikal dincilerin ana sponsoru olmuştur
+  entry_id:  72811955
+  entry_writer: jedilost
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=anadoludaki+2.+mo%c4%9fol+istilas%c4%b1">anadoludaki 2. moğol istilası</a>)
+    türkiye'de her türlü sorunun ihalesinin cehapeye kalması gibi, abd de kendi yarattığı sorunu aynı maharetle türkiye'ye ihale etmiştir.
 - entry_name: |
-    erkeklerin kota mahkum oluşunu ilginç bulmaması
-  entry_id:  72803939
-  entry_writer: klarkkent
-  entry_fav_count: 17
+    vatanım sensin
+  entry_id:  72818676
+  entry_writer: zirrealist
+  entry_fav_count: 14
   entry_content: |
-    (bkz: <a class="b" href="/?q=kota+mahkumu">kota mahkumu</a>)
-- entry_name: |
-    bedelli askerlik
-  entry_id:  72805661
-  entry_writer: tekduze bir olum
-  entry_fav_count: 16
-  entry_content: |
-    askerliğini çok değil 1 yıl önce bitirip gelmiş biri olarak söylüyorum çıkmasını istediğim askerlik türü.<br/><br/>ben müsaittim gittim geldim. askere gitmeden önce işsizdim. bedelliyi verecek param da yoktu. ama herkesin durumu benimki gibi değil. adam evli, hatta çocuğu var. eee 4 5 bin maaşı da var. sen bu adamı askere alıp ne yapacaksın? tsk'ya ne gibi bir yararı olacak? yaş olmuş zaten 30. <br/><br/>çıksın abi çıksın. acil çıksın hem de.<br/><br/>bu arada söylemeden geçemeyeceğim alınmayın lütfen;<br/><br/>(bkz: <a class="b" href="/?q=ben+mi+bekleyeyim%3f">ben mi bekleyeyim?</a>)
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dinci, gerici, yobaz, orospu evladı: bundan sonra yolumuz ankara.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ankara ananızı iyi sikti ama. günümüze kadar gelen artıklarınızı da bu halk sikecek merak etmeyin.
 - entry_name: |
     star wars episode viii the last jedi
   entry_id:  72803144
@@ -220,12 +241,12 @@ data:
   entry_content: |
     türkiye'nin açık ara en dandik uygulaması. o kadar reklam parası nereye gidiyor anlamıyorum.
 - entry_name: |
-    vatanım sensin
-  entry_id:  72818676
-  entry_writer: zirrealist
+    sen erkeksen diğer ekşi sözlük erkekleri ne
+  entry_id:  72817271
+  entry_writer: birakin ulan beni ibneler
   entry_fav_count: 11
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dinci, gerici, yobaz, orospu evladı: bundan sonra yolumuz ankara.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ankara ananızı iyi sikti ama. günümüze kadar gelen artıklarınızı da bu halk sikecek merak etmeyin.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://3.bp.blogspot.com/-S6zJMjaeMhs/VhZVgpUByJI/AAAAAAAAARo/hOSCPbAklho/s640/35.jpg" title="https://3.bp.blogspot.com/-S6zJMjaeMhs/VhZVgpUByJI/AAAAAAAAARo/hOSCPbAklho/s640/35.jpg">https://3.bp.blogspot.com/…/hoscpbaklho/s640/35.jpg</a>
 - entry_name: |
     araplar osmanlı'ya ihanet etti yalanı
   entry_id:  72813410
@@ -234,12 +255,12 @@ data:
   entry_content: |
     arap tecavüzleri sırasında atılan tohumların bugün bu tarihi gerçekleri yalanlamaları tabii ki normaldir. araplar tarihleri boyunca neredeyse hareket eden her şeye ihanet etmiş garip bir toplumdur.
 - entry_name: |
-    beşiktaş
-  entry_id:  72817466
-  entry_writer: donatien
-  entry_fav_count: 8
+    enpara.com
+  entry_id:  72810235
+  entry_writer: themonster
+  entry_fav_count: 9
   entry_content: |
-    bir "top rakipteyken ıslıkçı" olarak diyorum ki, <br/><br/>geçmiş ne güzeldi varsın şampiyon olmayalım varsın şl'de gruptan çıkmayalım diyorsanız, bak ciddi söylüyorum ciddi sorunlar var. kendi hayatınızı hangi berbat felsefeyle yönetirseniz yönetin ama ne olur bu kara enerjiyi, bu karanlık enerjiyi, bu kulüpten, bu takımdan uzak tutun.
+    kredi kartı başvurumu anında red eden banka. öğrenci olduğum için, 1500 tl aylık gelirim olduğu için ve diğer kredi kartıma borcum olduğu ve geç ödeme yaptığım icin kabul etmediler herhalde. haksız sayılmazlar, kabul etseler bunlarada borçlanırdım.
 - entry_name: |
     istanbul'da 192 sokak isminin değiştirilmesi
   entry_id:  72818341
@@ -248,6 +269,13 @@ data:
   entry_content: |
     "o isimleri zamanında kim koydu acaba sokaklara" sorusunu da beraberinde getiren gelişme.
 - entry_name: |
+    doğmuş olmak istenen ülke
+  entry_id:  72801099
+  entry_writer: usta66
+  entry_fav_count: 7
+  entry_content: |
+    yozgat'ta doğdum.<br/>istanbul güzel olurdu. şöyle beşiktaş, kadıköy, beykoz falan.
+- entry_name: |
     bitcoin
   entry_id:  72800932
   entry_writer: makrobrain
@@ -255,82 +283,47 @@ data:
   entry_content: |
     hay ben bu piyasanın eşeklerini çayırlarda otlatayım.neredeyse bir aydır 68 den aldığım verge coini 49 lara kadar düştü satmadım. sonra yüksekldi 74 e kadar daha yükselir dedim yine satmadım. yine tepe taklak 52 lere kadar düştü. az önce 70 den aşağıya düşer dedim sattım 80 lere kadar vardı. çıldırmak istiyorum<br/><br/>edit:94 oldu helvamı yiyin
 - entry_name: |
-    ilk türk kripto parası için isim önerileri
-  entry_id:  72807379
-  entry_writer: simdi yedim seni
+    atatürkçüler+akp+sosyalistlerin kuracağı ittifak
+  entry_id:  72819225
+  entry_writer: wiwinateri
   entry_fav_count: 6
   entry_content: |
-    (bkz: <a class="b" href="/?q=amuakoyin">amuakoyin</a>)
-- entry_name: |
-    hakan yılmaz ve eşinin otel lobisinde dayak yemesi
-  entry_id:  72802535
-  entry_writer: david jon gilmour
-  entry_fav_count: 6
-  entry_content: |
-    düpedüz orospu çocukluğudur. <br/><br/>bu karaktersiz orospu çocukları; insanın yanında karısı, çocuğu varken saldıracak kadar haysiyetsiz döl israflarıdır. bu orospu evlatları; kadına el kaldıracak kadar delikanlılardır. yine bu orospu çocukları; siktimin ülkesinde adalet olmadığından, kendilerinde her türlü magandalığı yapma hakkını görüyorlar. memlekete hiçbir faydası olmadıkları gibi, bir de kendi çaplarında mafyacılık oynuyorlar. aldığınız nefesi sikeyim sizin amk çocukları.<br/><br/>edit: bazı arkadaşlar "yanında karısı varken" sözüne takılmış. yahu arkadaşlar, siz şaka mısınız? yanında kadın var ya da yok, siz bu entry'den gerçekten bunu mu anladınız? <a class="b" href="/?q=14+aral%c4%b1k+2017+denizhan+vural%27%c4%b1n+bas%c4%b1n+a%c3%a7%c4%b1klamas%c4%b1">14 aralık 2017 denizhan vural'ın basın açıklaması</a> olayında görüleceği üzere; bu saldırgan şerefsiz "yanında karısının olduğunu görmedim, bizde kadına el kalkmaz" yalanını söylüyor.<br/><br/>mesela; <a class="b" href="/?q=sedat+peker%27e+k%c3%bcfreden+adam%c4%b1n+%c3%b6ld%c3%bcresiye+d%c3%b6v%c3%bclmesi">sedat peker'e küfreden adamın öldüresiye dövülmesi</a> olayında mağdur adamın yanında karısı mı vardı? bu olayı tasvip mi ettik? önce okuduğunuzu anlayın, sonra gelin yorum yapın.
-- entry_name: |
-    enpara.com
-  entry_id:  72810235
-  entry_writer: themonster
-  entry_fav_count: 4
-  entry_content: |
-    kredi kartı başvurumu anında red eden banka. öğrenci olduğum için, 1500 tl aylık gelirim olduğu için ve diğer kredi kartıma borcum olduğu ve geç ödeme yaptığım icin kabul etmediler herhalde. haksız sayılmazlar, kabul etseler bunlarada borçlanırdım.
-- entry_name: |
-    akut lösemi arkadaşımız için acil trombosit bağışı
-  entry_id:  72802124
-  entry_writer: merkurbenidusundurur
-  entry_fav_count: 4
-  entry_content: |
-    26 yaşında bir genç. <br/>26 yaşında lösemiye yakalanan bir genç overrated yiyecek ve içeceklerden daha önemli bir genç.
-- entry_name: |
-    sen erkeksen diğer ekşi sözlük erkekleri ne
-  entry_id:  72817119
-  entry_writer: stockholm sen de mi
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sen+e%c4%9fer+keksen+di%c4%9ferleri+ne%3f">sen eğer keksen diğerleri ne?</a>)
-- entry_name: |
-    sözlükçülerin yılbaşı planları
-  entry_id:  72803247
-  entry_writer: ayuttudum
-  entry_fav_count: 2
-  entry_content: |
-    yolda olmazsam şayet;<br/><br/>(bkz: <a class="b" href="/?q=bira">bira</a>)<br/>(bkz: <a class="b" href="/?q=world+of+warships">world of warships</a>)<br/>(bkz: <a class="b" href="/?q=motosiklet+hayali">motosiklet hayali</a>)<br/>(bkz: <a class="b" href="/?q=istanbul%27dan+ka%c3%a7ma+hayali">istanbul'dan kaçma hayali</a>)<br/>(bkz: <a class="b" href="/?q=osbir">osbir</a>)<br/>(bkz: <a class="b" href="/?q=kapan%c4%b1%c5%9f">kapanış</a>)
+    fetö, işid ve mhp’yle ittifak kuranlar boşa atatürkçülerden ve sosyalistlerden medet ummasın!
 - entry_name: |
     sözlükçülerin en sevdiği satranç açılışı
   entry_id:  72816140
   entry_writer: hayhaymatlos
-  entry_fav_count: 2
+  entry_fav_count: 4
   entry_content: |
     ispanyol savunması ile başlamayı tercih ediyorum genelde.
 - entry_name: |
-    dunkirk
-  entry_id:  72806733
-  entry_writer: radius
+    karın tokluğuna hizmetçilik yapan ev hanımı
+  entry_id:  72808323
+  entry_writer: moon grass
+  entry_fav_count: 4
+  entry_content: |
+    "evi temizlemek, yemek pişirmek, kadın programları izlemek, dedikodu yapmak dışında hiçbir vasfı olmayan kadındır. "<br/><br/>eksik söylenilmiş. büyük ihtimalle çocuk da büyüten kadındır ve bunu hakkıyla yapıyorsa yalnızca kendisi ve ailesi için değil ülkesi için de çok önemli bir şey yapan kadındır. hayatını bomboş geçirenleri tenzih ediyorum ama hakkıyla yapılan ev hanımlığı önünde sadece saygı duruşuna geçebiliyorum ve umarım öyle emekçi kadınların eşleri de kendilerine bir şey bağışlıyor gibi harçlık veren değil, dışarıda kazandığını eşiyle paylaşan insanlardır, evde kazandıklarının kıymetini biliyorlardır.<br/><br/>bir de alakasız olacak ama, insan hiçbir konuda büyük konuşmamalı. ev kadınları kendisini geliştirsin, gün boyu saçma şeylere kanalize olup beynini boşaltmasın demenin yolu hakaret etmek değil.<br/><br/>ve hayır, ev hanımı değilim.
+- entry_name: |
+    bafetimbi gomis
+  entry_id:  72815055
+  entry_writer: yerel disk c
+  entry_fav_count: 4
+  entry_content: |
+    tipik, her kornerde ya da her an yaşananabilecek türde bir sürtüşme sonrası mustafa yumlu'nun olayı egzajere etmesiyle hakem kolpasına gelmiş futbolcumuzdu. artık süper lig topçularını yeterince tanıdığını düşünüyorum. otokontrol sahibi bir insan zaten. bir daha futbolcularla el kol muhabbetine gireceğini sanmıyorum. ayrıca maçı 2-2'ye getirip arkamıza aldığımız rüzgarı kesmemek için saha içinde olay çıkarmadan hızlıca sahayı terk etmesi kendisine yakışır cinsten bir hareketti. olayda tahrik olduğu için 1 maç ceza verdiler muhtemelen. sahadan atılması zaten haksızlıktı. ben bu federasyondan en az 3 maç ceza bekliyordum ama onlar bile insafa gelmişler.
+- entry_name: |
+    bir erkeğin gay olduğunu anlama yolları
+  entry_id:  72805397
+  entry_writer: pul
   entry_fav_count: 2
   entry_content: |
-    400.000 askerinden sahilde dizlerine kadar suda tek sıra halinde beklediğini, başlarında hiç komutan falan olmadığını, bunca kalabalığın havadan bakınca 100 kişi göründüğünü ve 400.000 insan evladının 15-20 balıkçı teknesiyle kurtarıldığını öğrendiğimiz film.<br/><br/>ha bu arada almanlarda toplam 1 bombardıman 2 avcı uçağı, koskoca raf'da da 3 tane avcı uçağı olduğunu öğrendik.<br/><br/>yani ortalık yarım milyon insanın can pazarından çok ufak sürtüşmelerin yaşandığı no mans land gibi bir ortamdı.
+    okuldayken çok ilginç bir kız arkadaşım vardı. bir sürü tuhaf insan tanıdım ama o listenin üst sıralarını zorlar. güzel tarafı ilginç olmak için çabalamıyor oluşuydu, kendinden değişikti yani.<br/>bir de 5 yılda 5 kere derse giren bir sınıf arkadaşımız daha vardı. o çocuk için ise ilginç demek çok hafif kalır. baya yeni bir türdü kendisi. <br/><br/>ikisinin ortak noktası çok iyi insanlar olmaları ve kurduğunuz cümleleri direkt ilk anlamlarıyla anlamalarıydı. hani bazen konuşurken aslında söylemek istediğiniz şeyi söylemezsiniz de dolambaçlı konuşursunuz, başka bir niyetiniz vardır. işte bu ikisi bunu anlamazdı. öyle dümdüz bakarlardı. <br/><br/>haliyle bir süre sonra beraber takılmaya başladılar. zaman geçti kız “madem hep birlikteyiz neden sevgili olmuyoruz” diye düşünüp çocuğa bu talebini iletti. hem de kantinden, hepimizin olduğu masada. cümleleri tam hatırlayamasam da şöyle bir diyalog oldu:<br/>+ya bence biz sevgili olalım.<br/>-nasıl yani?<br/>+baksana hep beraberiz, aynı şeyleri seviyoruz. niye çift olmuyoruz ki?<br/>-bana çok anlamlı gelmedi, gerek yok. böyle iyi.<br/>....sessizlik....<br/>+niye, gay misin?<br/>....sessizlik....<br/>+cevap versene?<br/>-düşünüyorum...hayır gay değilim.<br/>+ok<br/><br/>ve konu kapandı. sevgili olmadılar.<br/>bence bir erkeğin gay olup olmadığını öğrenmenin en doğrusu direkt sormaktır. bunu merak ediyorsanız o erkeğe ilgi duyuyorsunuzdur, öğrenin ki boşa ümitlenmeyin. aksi halde bu bilgi hayatta ne işimize yarar ki?
 - entry_name: |
-    dark
-  entry_id:  72813182
-  entry_writer: murat yuzyirmidordunu satan bilge
+    binance
+  entry_id:  72811385
+  entry_writer: amcayanickinigostermeyencocuk
   entry_fav_count: 2
   entry_content: |
-    (bkz: <a class="b" href="/?q=dallas">dallas</a>)'ın zamanda yolculuk versiyonu gibi başlayıp bir noktadan sonra (bkz: <a class="b" href="/?q=predestination">predestination</a>)a bağlayan muhteşem ve karmaşık dizi. ve çok acayip bağlantılar kurabilir ve bulabilirsiniz, misal aşağıda ben kurdum ki bu en açık hali;<br/>dark'ın 3.bölümünün sonunda 1986 yılındaki claudia tiedemann'ın elinde h. g. tannhaus tarafından yazılmış 'zamanda yolculuk' isimli bir kitap görüyoruz. kitabın yayın evi olarak da 'mino tauros' adı okunuyor. elbette h. g. tannhaus adı h.g.wells'ten esinlenmiş. ve yazdığı kitabın adı da wells'in kitabıyla aynı: zamanda yolculuk. ancak h. g. tannhaus karakter olarak da (bkz: <a class="b" href="/?q=donniedarko">donniedarko</a>) daki 'zamanda yolculuğun felsefesi' isimli kitabın yazarı 'ölüm nine'yi fazlasıyla anımsatıyor. ikiside zamanda yolculuk ile ilgili bir kitap yazıyor. ikisi de aynı yaşlardalar ve ikisini de belli bir hareketi sürekli tekrarlıyorlar; tanhauss sürekli bozuk saatleri tamir ediyor, ölüm nine de posta kutusunu kontrol ediyor. diğer taraftan kitabın yayınevi 'mino tauros' ise mitolojik bir yaratık olan boğa başlı insan gövdeli (yarı boğa yarı insan) minotauros'a gönderme. mitolojiye göre minotauros girit adasındaki labirent'in içinde saklanıyor babası minos tarafından. bu labirentin bir çizimini de zamanın bir alegorisi olarak gelecekten gelen jonas'ın otel odasındaki duvarda görüyoruz 2. bölüm içerisinde. kitabın kapağındaki üçgen de yapısı ile labirentin bir türevi. aynı duvarda labirent resminin yanında ise minotauros'u öldüren theseus'u minotauros'la savaşırken görüyoruz. labirent döngüsel ve çıkılmaz yapısı ile zamanı simgelerken, minotauros ise belki dizideki zamansal döngüyü devam ettiren unsuru/kişiyi (noah) temsil ediyor. labirentte minotauros'u öldüren theseus ise sevgilisi ariadne'nin ona verdiği ipi takip ederek labirentten çıkıyor. ariadne'nin adı da 4. bölüm sonunda jonas uykusundan uyandığında anlatıcı tarafından anılıyor; "ariadne'nin ipini arıyoruz. bizi doğru yola yönlendirecek." diyerek. bundan da elindeki haritayı takip ederek zaman geçidini bulmaya çalışan jonas'ın theseus'la özdeşleştirildiğini anlıyoruz. ayrıca jonas'ın sevgilisi/halası martha da ariadne isimli bir oyunda ariadneyi canlandırıyor ve bu oyun sırasında elinde ariadne'nin theseus'a verdiği kırmızı ip varken, aynı anda da jonas kırmızı bir ipi takip ederek solucan deliğinin olduğu mağaraya girmekte; böylece ikisi arasındaki ariadne-theseus benzerliği yanı sıra zaman-labirent benzerliği de vurgulanmakta.
-- entry_name: |
-    izmir'de engelli rampasına araç park etmek
-  entry_id:  72816048
-  entry_writer: gercekgibiyalanruyagorenadam
-  entry_fav_count: 1
-  entry_content: |
-    yozgat'ta park etmekten farkı yokmuş,sen yozgatlı tepkisi görmemişsin..gel bi dene,yozgat'ta.
-- entry_name: |
-    iota
-  entry_id:  72802097
-  entry_writer: anthony afterwit
-  entry_fav_count: 1
-  entry_content: |
-    elin yirmi bir yasindaki oglanlari yapar veya yapamaz orasi ayri ama bir problem gormus, cozmek istemis onun icin paradigma degistirmis farkli bir yolla cozebilirin demis ortaya bir proje koymus ve ugrasiyor sonucta ama biz burada her zamanki gibi mac muhabbeti gibi iotaspor, bitcoinspor, ethspor kavga edlp duruyoruz, yaziklar olsun bize.
+    (bkz: <a class="b" href="/?q=ek%c5%9fis%c3%b6zl%c3%bck+binance+%c3%b6l%c3%bcc%c3%bcleri">ekşisözlük binance ölücüleri</a>)<br/><br/>nefret ettirdiniz kendinizden. bu tip entry görünce özenle linkin üzerine geliyorum, eğer referanslı ise direk eksiliyorum. bir de herkesin defalarca yazdığı şeyi yazarak yardımcı olma ayakları yok mu.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  72813697
@@ -339,12 +332,19 @@ data:
   entry_content: |
     erkekler ve cinsellik hakkında merak ettiğim sorular bakımından dertli olduğum ve insan aradigim veritabanı. yaş 23 kadın, avukat.
 - entry_name: |
-    anderson talisca
-  entry_id:  72819173
-  entry_writer: yarasiz yuz
+    cex.io
+  entry_id:  72819748
+  entry_writer: joliot curie
   entry_fav_count: 0
   entry_content: |
-    <a class="b" href="/?q=benfica">benfica</a> satar <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a> izin verir de talisca ister mi? adam genç daha neden çin'e gitsin?
+    exchance değerlerini kendi yaptığı alım satımlarla piyasanın üzerinde tutarak (bkz: <a class="b" href="/?q=arbitraj">arbitraj</a>) la para kazanmak isteyenleri kendisine çeken ancak depositleri dondurarak (bugün (bkz: <a class="b" href="/?q=ripple">ripple</a>) da yaptığı gibi) ya da süresini uzatarak düşüşünü bekleyen, bu arada satışını kendi yapan ve bundan para kazanan dolandırıcı kripto para exchange sitesidir.
+- entry_name: |
+    anderson talisca
+  entry_id:  72819843
+  entry_writer: quansis
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ma%c3%a7+se%c3%a7en+futbolcu">maç seçen futbolcu</a>)<br/><br/>hani güzel / yakışıklı olduğunu bilip, bunun üzerine oynayan, kullanan insanlar var ya? hah, işte bu da tam olarak öyle biri. piç, işine gelince hayvanlar gibi oynarken, önemsiz gördüğü maçları siklemez.
 - entry_name: |
     14 aralık 2017 fenerbahçe doğuş z. kaunas maçı
   entry_id:  72818875
