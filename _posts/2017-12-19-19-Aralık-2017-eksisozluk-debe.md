@@ -6,23 +6,23 @@ data:
     tbmm başkanlığı makam odasına alınan emsalsiz halı
   entry_id:  72896357
   entry_writer: gkhnspmz
-  entry_fav_count: 485
+  entry_fav_count: 489
   entry_content: |
     peygamberi açlıktan sadece hurma yiyen ümmetin halısı.
-- entry_name: |
-    ales sorularının 8 yıl boyunca çalınması
-  entry_id:  72897676
-  entry_writer: kaderdeki bekir
-  entry_fav_count: 473
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>savcılık harekete geçmiş ve 20 bin akademisyenin sicili, geçmişi ve sınav başarıları incelemeye alınmış.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>adım gibi eminim şu haberi okuyan herkesin aklına ilk furkan gelecek. furkii bakalım bundan da yırtacak kadar torpilli misin?
 - entry_name: |
     manuş baba türkiye'nin yeni barış manço'sudur
   entry_id:  72903773
   entry_writer: run dmc
-  entry_fav_count: 469
+  entry_fav_count: 481
   entry_content: |
     (bkz: <a class="b" href="/?q=manu%c5%9f+baba+kim+a.q">manuş baba kim a.q</a>)
+- entry_name: |
+    ales sorularının 8 yıl boyunca çalınması
+  entry_id:  72897676
+  entry_writer: kaderdeki bekir
+  entry_fav_count: 476
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>savcılık harekete geçmiş ve 20 bin akademisyenin sicili, geçmişi ve sınav başarıları incelemeye alınmış.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>adım gibi eminim şu haberi okuyan herkesin aklına ilk furkan gelecek. furkii bakalım bundan da yırtacak kadar torpilli misin?
 - entry_name: |
     ya anneni sileceksin ya beni diyen kadın
   entry_id:  72889866
@@ -31,61 +31,82 @@ data:
   entry_content: |
     geçen ay anacığım anjiyo olmuştu. normal bildiğin anjiyo, beş dakikalık iş değil mi? değil. orospu evladı doktor öyle bir anlattı ki 1 hafta daha getirmesek ölecekmiş, beyanı bu. karar verme aşamamız üç gün sürdü. ameliyat olursa ölüm riski elbette var. o üç gün geçmedi arkadaşlar. 4 kilo vermişim. ben hayatımda bu kadar üzüldüğümü cidden hatırlamıyorum. <br/><br/>hanım kardeşlerim kusura bakmasın, çok da büyük konuşmak istemiyorum da bu dünyada anne bir yanadır, diğer 7 milyar insan bir yana. şimdi kızlar burda romantiklik yapmasın, anasını bırakan size ne yapmaz. <br/><br/>hayat çocuk oyuncağı değil güzel kardeşlerim, büyüyün biraz. annenize babanıza da adam gibi davranın. siktirtmeyin dalağınızı.
 - entry_name: |
+    türkçenin uzun cümle kurunca çuvallaması
+  entry_id:  72891202
+  entry_writer: burnunukolunasilenilkcocuk
+  entry_fav_count: 313
+  entry_content: |
+    bunu bir de <a class="b" href="/?q=ahmet+hamdi+tanp%c4%b1nar">ahmet hamdi tanpınar</a>a söylesene delikanlı.
+- entry_name: |
     bilecik'e yeni isim önerileri
   entry_id:  72897573
   entry_writer: trmert
-  entry_fav_count: 208
+  entry_fav_count: 215
   entry_content: |
     (bkz: <a class="b" href="/?q=bilemeyicik">bilemeyicik</a>)
 - entry_name: |
     toplu taşımada 65 yaş beleşçiliği kaldırılsın
   entry_id:  72905414
   entry_writer: morales
-  entry_fav_count: 162
+  entry_fav_count: 177
   entry_content: |
     kesinlikle hak verdiğim haklı taleptir. bir hizmet bedava oldukça o hizmetin kalitesi azalıyor, randımanı düşüyor.<br/><br/>üstelik nüfusun belli bir kesimine siyasi rant sağlamak için bir hizmeti bedava yapmak ve bu dalkavukluğun acısını da çalışan kesime ek vergiler koyarak veya hizmetin fiyatını zamlayarak çıkarmak olacak iş değil. adamlar 65 yaş üstüne bedava ulaşım hakkı tanıyor ve finansmanını da ulaşım ücretlerini zamlayarak çalışan kesimden çıkarıyor.<br/><br/>böyle kıyak hangi dine, hangi ahlaka hangi vicdana sığar ?<br/><br/>iyilik yapacaksanız kendi paranız ile yapın. size ait olmayan para ile değil.<br/><br/>toplu taşımayı 65 yaş üstüne bedava yapacağına emekli maaşlarına 100 lira zam yap. isteyen toplu taşımada kullansın parayı isteyen başka bir ihtiyacını gidersin.<br/><br/>kime ne ?
 - entry_name: |
     18 aralık 2017 igor tudor'un kovulması
   entry_id:  72898666
   entry_writer: seksi domat
-  entry_fav_count: 147
+  entry_fav_count: 148
   entry_content: |
     yanlış teşhis, yanlış tedavidir. <br/><br/>özellikle fatih terim gelirse, en büyük yanlış yapılacaktır. zira gazla çalışan futbolcu kalmadığı için, fatih terim devri bitmiştir. ayrıca fatih terim son yıllarda yeni bir para kazanma metodu geliştirmiş, uzun süreli kontratlar imzalayıp erkenden kovularak ceplerini doldurmaktadır. bunu milli takıma yapan kişi galatasaray 'a da acımayacaktır. <br/><br/>yazdıklarım doğruluğu günü gelince anlaşılmak üzere tarihe not düşülsün...<br/><br/>edit : "gerçek sorun ne?" diye soranlara: tabii ki "boş bardaktan su içmeye çalışan tostos"
 - entry_name: |
     kudüse sahip çık
   entry_id:  72902174
   entry_writer: rulingus
-  entry_fav_count: 140
+  entry_fav_count: 143
   entry_content: |
     eh onlar da bu kadar imzayi görünce vazgecerler sanirim.
-- entry_name: |
-    igor tudor yerine gs'nin yeni teknik direktörü
-  entry_id:  72899130
-  entry_writer: thestoryofus
-  entry_fav_count: 128
-  entry_content: |
-    (bkz: <a class="b" href="/?q=eric+gerets">eric gerets</a>)<br/>değerini bilemedik adamın tek forvet neymiş, ne kadar forvet varsa saha da olacaktır.<br/>eren, gomis yetmez.<br/>hasan kabze, necati, ümit karan, hakan sukur, nonda hepsi sahada.<br/>korku yok.
 - entry_name: |
     kitap okuyan kişilerin mutsuz tipler olması
   entry_id:  72893876
   entry_writer: eldarion sionnodel
-  entry_fav_count: 127
+  entry_fav_count: 130
   entry_content: |
     bugün ekşisözlük kitap okuyanlara sövme şenlikleri mi yapılıyor da benim haberim olmadı ? nedir bu sizin yapmayı beceremediğiniz bir şeyi yapabilen ve bunu yaparken keyif alan insanlara bu kadar gömmeniz. <br/><br/>kitap okuyorum, bir oda dolusu kitabım var, işimi de kitap okuyabileceğim bir iş olacak şekilde seçtim ve çalışıyorum, mutsuzluğumun kaynağı da benim kitap okumamdan değil, kitap okumayanların hakimi olduğu bir dünyada yaşıyor olmamdandır. <br/><br/>şimdi dağılabilirsiniz, kitap okuyanlar da geri zekalı ahmak insanlardan oluşuyor ki ben dahil oturup size laf anlatmaya çabalıyoruz, biz de dağılalım derim.
+- entry_name: |
+    igor tudor yerine gs'nin yeni teknik direktörü
+  entry_id:  72899130
+  entry_writer: thestoryofus
+  entry_fav_count: 130
+  entry_content: |
+    (bkz: <a class="b" href="/?q=eric+gerets">eric gerets</a>)<br/>değerini bilemedik adamın tek forvet neymiş, ne kadar forvet varsa saha da olacaktır.<br/>eren, gomis yetmez.<br/>hasan kabze, necati, ümit karan, hakan sukur, nonda hepsi sahada.<br/>korku yok.
 - entry_name: |
     18 aralık 2017 fenerbahçe k. karabükspor maçı
   entry_id:  72910195
   entry_writer: shinigami ryuk
-  entry_fav_count: 114
+  entry_fav_count: 124
   entry_content: |
     ismail, allahın adını verdim siktir git, bir gol sevincine de katılma amk. adam ampul gibi aşmış bırak bi kaysın, yuvarlansın, taraftara şovunu yapsın. lan bi ağız tadıyla sevindirmedin kralı. bir de bu pezevenk her gol atan kişiye 0.3 saniyede nasıl yetişiyor anlamıyorum. flash mısın mübarek? oynadığı kanatta şu hızla oyuncu takip etse roberto carlos olurdu ama bunun yerine biri gol atsın da gidip boynunu kırayım diye bekliyor.
 - entry_name: |
-    eski sevgili nerede ne yapıyor sorunsalı
-  entry_id:  72891515
-  entry_writer: queen bee
-  entry_fav_count: 89
+    1 bitcoin 2018'de 140 milyon dolar olacak
+  entry_id:  72903826
+  entry_writer: acgacg
+  entry_fav_count: 108
   entry_content: |
-    (bkz: <a class="b" href="/?q=benim+hi%c3%a7+umrumda+olmamas%c4%b1">benim hiç umrumda olmaması</a>) <br/><br/>harbiden o kıvama ulaştım ya. darısı başınıza kardeşlerim.
+    kullanımdaki bitcoin sayısı : <a class="b" href="/?q=16%2c246%2c200">16,246,200</a><br/><br/>bir bitcoin 140 milyon dolar olursa &gt;&gt; 16.2*10^6 * 14*10^7= <a class="b" href="/?q=226*+10%5e13">226* 10^13</a> civarında bir bitcoin hacmi olacak.<br/><br/><a class="b" href="/?q=2+katrilyon+260+trilyon+dolar">2 katrilyon 260 trilyon dolar</a> eder. <br/><br/>dünya yıllık ticaret hacmi: 2015 yılında <a class="b" href="/?q=41+trilyon+dolar">41 trilyon dolar</a> civarı<br/><br/>sallarken düzgün sallayın. uzaylılar mı alım yapacak kim alacak ?
+- entry_name: |
+    #akpbedellioyunukaybetti
+  entry_id:  72903591
+  entry_writer: a rainy day in falkreath
+  entry_fav_count: 97
+  entry_content: |
+    geyiğini yapıyorlar burada, twitter'da falan eyvallah ama gerçekten sırf bedelli için akp'ye oy veren kancıklar mevcut ise, ilerde bedelli çıksa bile umarım bu ibibikleri kapsamaz veya bi şekilde faydalanamazlar ve -20 derece soğukta nöbet tutarlar hatta sonraki nöbetçi de bi 15 dk nöbet takar. belki o nöbette anlarlar <a class="b" href="/?q=bedel">bedel</a> ödemek neymiş, oy verme sorumluluğu nasıl bi şeymiş...<br/>tamam, sakinim.<br/><br/>tanım: götoğlanlarının kullandığı hashtag.<br/><br/>edit: imla.
+- entry_name: |
+    kitap okuyanlarda görülen burnu havadalık
+  entry_id:  72890678
+  entry_writer: sigara kibrit
+  entry_fav_count: 91
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/mJm0yR" title="https://hizliresim.com/mJm0yR">@</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>bence gereksiz bir aktivite insana bir şeyler kattığına da inanmıyorum okumayanlar okuyanlardan daha sosyal ve samimi insanlar.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"kitap okumanın insana bir şey kattığına inanmıyorum" diyorsan en yakındaki kitaba bak; o da senin gibi bir zamanlar odundu.
 - entry_name: |
     kız bebeği duvara çarpa çarpa öldürmek
   entry_id:  72897166
@@ -97,21 +118,14 @@ data:
     kedilere su kabı koyanlara 10 dolar ceza verilmesi
   entry_id:  72906114
   entry_writer: taranis
-  entry_fav_count: 74
+  entry_fav_count: 78
   entry_content: |
     istanbul’da maltepe narcity sitesindeki <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/elisabethnikoladze/posts/10156069472582878" title="https://www.facebook.com/elisabethnikoladze/posts/10156069472582878">uygulama</a><br/><br/>vicdansızlıkta yeni ufuklar açmışlar tebrikler.<br/><br/>öte yandan böyle bir para cezasını hangi yetkiyle verebileceklerini sanıyorlarsa artık.
-- entry_name: |
-    mathieu valbuena
-  entry_id:  72910034
-  entry_writer: scentofawoman
-  entry_fav_count: 50
-  entry_content: |
-    attığı şu jeneriklik gol nedeni ile aykut tarafından haftaya kadroya alınmayacaktır.
 - entry_name: |
     en erotik türkçe dizeler
   entry_id:  72904758
   entry_writer: renksiz hayat
-  entry_fav_count: 47
+  entry_fav_count: 55
   entry_content: |
     demirciler demir döver ocakta<br/>şimdiki kızlar ne hoş olur kucakta
 - entry_name: |
@@ -143,68 +157,61 @@ data:
   entry_content: |
     star wars hayranları için hüzünlü bir filmdir. hani devamının çekileceğini duyduğunuz da acaba hissi uyandı ya hepimizde, işte o umutları söndürdü bu yeni seri.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>daha önce de söylendiği gibi, biraz saygınız olsun eski seriye george lucas a. <br/>siz bu seriyi çeken adamlar size söylüyorum siz eski seriyi izlemişsiniz ama bizler gibi anlayamamışsınız.<br/>force ulan bu voodoo mu sandınız. <br/><br/>yazıklar olsun.<br/><br/>en çok içerlediğimi en başta söyleyeyim, yoda lan yoda, yok rey bizden daha iyi biliyor gibi bişeyler söylüyor.<br/>lan amına kodumun yeni versiyon yodası, o anakini eğitme konusu için konseyde karar aldınız hatırlar mısın? bu iş bu kadar ciddiye alınırdı .<br/><br/>bu herifler yemin ederim eski seriye tükürmek için yapmışlar bu filmi. kitapları okudun mu diyor luke a, bak bak.. <br/>zaten sürükleyici değilmiş.<br/>allahım aklıma mukayyet ol.<br/><br/>luke iki tane evren’in en iyi masterından eğitim almış adam lan, rey kim?<br/><br/>şimdi asıl yoruma geliyorum. <br/>anakinin hikayesi var ya anakinin hikayesi, dramadır lan, sevdiği için karanlık tarafa geçmiş bir adamdır anakin. adamın hakkıdır ulan darth vader olmak. <br/>herifin hayatını yaşadık yıllarca onunla birlikte.<br/>adam galaksinin en kötüsü olmasına rağmen adama kızamadık. <br/><br/>star wars yamuk yumuk uzaylı hayvan karışımı karakterlere sahip olmasına rağmen ciddi bir filmdi.<br/><br/>kylo ren ne için karanlık tarafa geçti?<br/>motivasyonu neydi?<br/>ulan ilk 3 filmi biz anakinin bu motivasyonu öğrenebilmek için izledik. 3 filmde anlattı adamlar iliklerimize işletti lan. herifin karanlık tarafa geçmesine hak verdik olm işte öyle bir filmdi star wars.<br/>şimdi bırak hak vermeyi kylo'nun neden geçtiğini bile anlayamadık.<br/>özetle:<br/>kylo niye maske takıyor? darth vaderın çakması olduğu için, darth vader niye maske takıyor? <br/>çünkü onsuz yaşayamıyor.<br/>maske kendisi, onun yaşadıklarının sembolü, kendi masterı bacaklarını kestikten sonra yanarak ölecekken,karanlık taraf gelip son kez ona el uzatıyor. adam o maske oluyor.<br/><br/>herifin o maskeyi neden taktığını anlatmak için ben burayı sayfalarca doldururum. <br/><br/>işte ben bu farkı eski seri yeni seride de aynı buluyorum, yeni seri neden var eskisinin çakması olduğu için,ç...<br/><br/>ya bırakın allah aşkına dahada fazla yazmıyorum lanet olsun..<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    aykut kocaman
-  entry_id:  72893911
-  entry_writer: 14 love
-  entry_fav_count: 33
+    6. ile 1. arasında 3 puan olan lig
+  entry_id:  72910828
+  entry_writer: graphicarts
+  entry_fav_count: 40
   entry_content: |
-    şaka maka suni puan farkı söylemi ile hepimizi göt etmiş haşortmanlı.
-- entry_name: |
-    yaş ilerledikçe katlanılması zor şeyler
-  entry_id:  72890585
-  entry_writer: seker portakalinin kabugu
-  entry_fav_count: 31
-  entry_content: |
-    duygusal ya da fiziksel fark etmeksizin, gerçek acıyı hiç tatmamış insanların fındık kabuğunu doldurmayacak dertlerini 7/24 anlatmaları ve bunu yaparken çok çaresiz bir tavır takınmaları.
+    yabancı kuralının kaldırılmasıyla takımlar arasındaki kalite farkı biraz olsun azaldığı için olan durumdur. yabancı oyuncu noktasında doğru hamleler yapan anadolu klüplerinin yükselişleri tesadüf değil. <br/><br/>ligde bulunan takımların yarısının bu heyecanı yaşaması çok güzel bir durum. şuanda kayserili, malatyalı, göztepeli, trabzonsporlu, beşiktaşlı, fenerbahçeli, galatasaraylı olan taraftarlar takımlarına inanıyor ve güveniyor.
 - entry_name: |
     18 aralık 2017 amerika tren kazası
   entry_id:  72909467
   entry_writer: sinpecado
-  entry_fav_count: 29
+  entry_fav_count: 35
   entry_content: |
     masum insanların öldüğü kazaya dalga geçerek "çok üzüldük" tarzı yorum atan orta doğuluları gördüğümüz başlık. çocuk boğan askerden, engelli çocuğunu öldüren anneden veya tecavüzcü bir seri katilden zihniyet olarak hiçbir farkınız yok! sizlere acıyorum.
 - entry_name: |
-    galatasaray'ı tutmaktan vazgeçme eşiği
-  entry_id:  72908261
-  entry_writer: kimselerduymasn
-  entry_fav_count: 26
+    yaş ilerledikçe katlanılması zor şeyler
+  entry_id:  72890585
+  entry_writer: seker portakalinin kabugu
+  entry_fav_count: 34
   entry_content: |
-    sen tutma kardeşim ben 2 forma fazladan alacağım. gölge etme yeter ki.
+    duygusal ya da fiziksel fark etmeksizin, gerçek acıyı hiç tatmamış insanların fındık kabuğunu doldurmayacak dertlerini 7/24 anlatmaları ve bunu yaparken çok çaresiz bir tavır takınmaları.
 - entry_name: |
-    kızların evlenmeden cinsel ilişkiye girme nedeni
-  entry_id:  72907427
-  entry_writer: trolobit
-  entry_fav_count: 25
+    aykut kocaman
+  entry_id:  72893911
+  entry_writer: 14 love
+  entry_fav_count: 34
   entry_content: |
-    herkes"canı istemiştir girmiştir" konusunda hemfikir olmuş,ne kadar güzel. peki biz erkekler neden canımız istediğinde sevişemiyoruz aq.
+    şaka maka suni puan farkı söylemi ile hepimizi göt etmiş haşortmanlı.
 - entry_name: |
     tokat attı diye okul müdürünü öldürebilen zihniyet
   entry_id:  72909193
   entry_writer: desek ki hayat guzel
-  entry_fav_count: 24
+  entry_fav_count: 30
   entry_content: |
     şimdi o adamın tokadı daha çok konuşulur. <br/><br/>vuran pişman değilmiş bir de. yine olsa yine yaparmış.. öyle demiş.. o sikik yüzü insan hayatından daha değerli çünkü. yıllarca "sen, sen" diye yetiştirilmiş, en önemlisi "ben" olmuş. öncesinde neler yaptı kimbilir de o adam çileden çıktı. bok gibi çocuk yetiştiriliyor. öğretmenin eli kolu bağlı.. muhteşem özgüvenli çocuklarımız meyvelerini veriyor birer birer.
 - entry_name: |
-    6. ile 1. arasında 3 puan olan lig
-  entry_id:  72910828
-  entry_writer: graphicarts
-  entry_fav_count: 23
+    kızların evlenmeden cinsel ilişkiye girme nedeni
+  entry_id:  72907427
+  entry_writer: trolobit
+  entry_fav_count: 28
   entry_content: |
-    yabancı kuralının kaldırılmasıyla takımlar arasındaki kalite farkı biraz olsun azaldığı için olan durumdur. yabancı oyuncu noktasında doğru hamleler yapan anadolu klüplerinin yükselişleri tesadüf değil. <br/><br/>ligde bulunan takımların yarısının bu heyecanı yaşaması çok güzel bir durum. şuanda kayserili, malatyalı, göztepeli, trabzonsporlu, beşiktaşlı, fenerbahçeli, galatasaraylı olan taraftarlar takımlarına inanıyor ve güveniyor.
+    herkes"canı istemiştir girmiştir" konusunda hemfikir olmuş,ne kadar güzel. peki biz erkekler neden canımız istediğinde sevişemiyoruz aq.
+- entry_name: |
+    galatasaray'ı tutmaktan vazgeçme eşiği
+  entry_id:  72908261
+  entry_writer: kimselerduymasn
+  entry_fav_count: 27
+  entry_content: |
+    sen tutma kardeşim ben 2 forma fazladan alacağım. gölge etme yeter ki.
 - entry_name: |
     18 aralık fatih'te kedimin kaybolması
   entry_id:  72907456
   entry_writer: nesli tukenmeyen panda
-  entry_fav_count: 20
+  entry_fav_count: 23
   entry_content: |
     (bkz: <a class="b" href="/?q=yaran+yanl%c4%b1%c5%9f+okumalar">yaran yanlış okumalar</a>)<br/>(bkz: <a class="b" href="/?q=18+aral%c4%b1k+fatih+terim%27in+kaybolmas%c4%b1">18 aralık fatih terim'in kaybolması</a>)<br/><br/>malum kendisi gündemin en üst sıralarında.<br/><br/>fotoğrafın da konması gereken durumdur. umarım en yakın zamanda bulunur.<br/>(bkz: <a class="b" href="/?q=up">up</a>)
-- entry_name: |
-    iota
-  entry_id:  72900678
-  entry_writer: yagsizetyenirmilan
-  entry_fav_count: 19
-  entry_content: |
-    kafayı bitcoin ile hesap yapmaya takmış adamları anlayan var mı? adamın dolar da umrunda değil güzel kardeşim. adamın hesabı şu ben buraya 2500 tl yatırdım,şu an kaç param var adamın merakı bu. adam iota veya ripple daha fazla değerlenir bitcon den diye düşünerek alıyor bunları, hesabı da dolarla yapması gayet mantıklı. adam en son dışarıya tl çıkaracak, dolarla daha kolay hesap ediyor. bitcoin karşısında değer kaybettiyse de adam reel de kar ediyor, adamın hesap etmek istediği kaç tl girecek cebime. bunu anlamak bu kadar zor mu aq. adam 00,2875 ile bilmemneyi çarpmak istemiyor. sen ister bitcoin ile hesapla ister güvercin bokuyla, millete karışmayın aq.
 - entry_name: |
     yurt dışında yaşamaya alışma eşiği
   entry_id:  72894482
@@ -216,16 +223,9 @@ data:
     geceye bir underrated film tavsiyesi bırak
   entry_id:  72909797
   entry_writer: viktor mancini
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     dsahgdashjdaskjdafsfaf ulan adam <a class="b" href="/?q=old+boy">old boy</a> yazmış amk. oldu olacak <a class="b" href="/?q=the+shawshank+redemption">the shawshank redemption</a>, <a class="b" href="/?q=the+godfather">the godfather</a> yazsaydınız. benim önerim ise şudur;<br/><br/>(bkz: <a class="b" href="/?q=los+amantes+del+circulo+polar">los amantes del circulo polar</a>)<br/><br/>hatta vaktiniz bol ise bütün <a class="b" href="/?q=julio+medem">julio medem</a> filmlerini izleyin.
-- entry_name: |
-    galatasaray ile aramızda suni puan farkı var
-  entry_id:  72892827
-  entry_writer: ne yaptin asuman
-  entry_fav_count: 14
-  entry_content: |
-    galatasaray’ın topladığı 32 puanı epl, bundesliga takımlarıyla kazandığını düşünüyor bazı galatasaray taraftarı sanırım. <br/><br/>galatasaray topladığı 32 puanın sadece 1’ini şampiyonluk adayı 3 takımdan almıştır. fenerbahçe ise topladığı 29 puandan 4’ünü şampiyonluk adayı 3 takımdan almıştır. <br/><br/>“sikik” anadolu takımlarından kim daha çok puan toplamış şimdi? <br/><br/>aykut kocaman’ın haklı söylemidir. 5 hafta önce kendisiyle dalga geçenlerin eğer utanma duyguları varsa şuan için özür dilemelidir. <br/><br/>bu da benim tahminim: fenerbahçe ve galatasaray sezonu transfer yapmadan kapatırlarsa puan cetvelinde üstte olan fenerbahçe olacaktır.
 - entry_name: |
     sobalı evde büyümüş çocuk
   entry_id:  72889931
@@ -234,6 +234,13 @@ data:
   entry_content: |
     babam, ben, oğlum. oğlum daha iki aylık. fakirlik bizde ırsi. kış gelince tv'yi de sobanın kurulacağı küçük odaya taşıyoruz. e haliyle sıcak diye küçük odada yatıyoruz. yaz gelince en serin oda küçük oda oluyor . yatak odası atıl vaziyette baharlar hariç. zengin parasıyla oynayadursun. <br/>odunuydu, kömürüydü, kirlenen halısı, perdesi, duvarıydı. duman yapınca kapı, pencerenin açılıp içerinin buz gibi olması da cabası. demem o ki soba otantik olabilir ama konforlu değil.<br/>kış gelince de evde şortla gezmek, elbise teferruatından kurtulmak için yaşasın kombi.
 - entry_name: |
+    çukur
+  entry_id:  72910984
+  entry_writer: usuyorum
+  entry_fav_count: 13
+  entry_content: |
+    <a class="b" href="/?q=mustafa+%c3%bcst%c3%bcnda%c4%9f">mustafa üstündağ</a> konuk oyuncu değil has oyuncu olmalıydı ya. <br/><br/>son görüşme demeseydin iyiydi be.
+- entry_name: |
     bir kadına verilecek en güzel hediye
   entry_id:  72895936
   entry_writer: muhamdelal eblettin
@@ -241,12 +248,26 @@ data:
   entry_content: |
     <a class="b" href="/?q=pandora">pandora</a> isimli markanın reklamının yapıldığı başlık.<br/><br/>şimdi bu reklam ile ilgili bir kaç eleştirim olacak, açılın.<br/><br/>1-) biz erkekler mal mıyız? size bir ipucu gönderdi diye o ürünün fotoğrafı ve kadının kendi fotoğrafı var. o kadar malız yani daha hassas daha enteresan ipuçlarını bilemiyoruz, böyle havallanındaki <a class="b" href="/?q=follow+me">follow me</a> arabaları gibi tabelalarla yönlendirilmeye ihtiyacımız var. <br/><br/>2-) kadınları "bu yılbaşında istediğinize sahip olun" diye iğrenç kapitalist oyunlarınızda kullanmayı bırakın. olay bu mudur? erkek alır, kadın tüketir şeklinde midir? çok ayıp, ve çok basit. <br/><br/>3-) toplumun genelinde bu tarz yönlendirmelre arttıkça, toplum sağlığı, bireylerin psikolojik sağlıkları bozulmaktadır. belki de bazı evliliklerin, arkadaşlıkların bozulmasına bile sebep oluyorsunuz. <br/><br/>yukarıdaki eleştriler, para kazanmayın kardeşim demek için değildir, kapitalist bir düzendeyiz, elbette reklam yapacak ve para kazanacaksınız ancak; bu kadar basit, kadını beyinsiz bir tüketim aracı, erkeği beyinsiz harcamacı/kasa gibi gösteren reklamlardan uzak durunuz. <br/><br/>marka değeriniz gözümde çok düştü.
 - entry_name: |
-    çukur
-  entry_id:  72910984
-  entry_writer: usuyorum
-  entry_fav_count: 12
+    mathieu valbuena
+  entry_id:  72910120
+  entry_writer: herkes gercek bi benim sahte
+  entry_fav_count: 11
   entry_content: |
-    <a class="b" href="/?q=mustafa+%c3%bcst%c3%bcnda%c4%9f">mustafa üstündağ</a> konuk oyuncu değil has oyuncu olmalıydı ya. <br/><br/>son görüşme demeseydin iyiydi be.
+    muhabbeti çok iyi futbolcu.<br/>şu futboluna rağmen aykut’un yanında oturtmasını ancak böyle açıklayabiliyorum.
+- entry_name: |
+    fenerbahçe
+  entry_id:  72895430
+  entry_writer: tungatar
+  entry_fav_count: 10
+  entry_content: |
+    meşhur tarlaların sürüldüğü sezonda, sürdüğü tarlalar arasında inönü ve türk telekom arenanın da bulunan takım. nasıl sürdüyse artık, yıllar geçti ama hala sürülmelerinin açısını yaşıyor bağzı taraftarlar
+- entry_name: |
+    bitcoin
+  entry_id:  72898270
+  entry_writer: lost aci soyler
+  entry_fav_count: 8
+  entry_content: |
+    adam demis ki "goren de milyon dolarlık adamsınız sanır. 5000 tl paranın kaç kazandıracağı bellidir. koy vadeliye geç."<br/><br/>ahahahahah bu başlıkta okuduğum en vizyonsuz entry yemin ederim. zerre okumadığı gibi vadeliden gelecek %10 yıllık faiz para ile kıyaslıyor koca yatırım teknolojisini, bi de gelip başlığa yazıp kendine güldürüyor milleti.<br/><br/>5.000 tl'si olan adamın eylülde aldığı bitcoin sayesinde su an 35.000 tl parası var la. hangi vadeli?
 - entry_name: |
     almanya 1. dünya savaşını kazansaydı olacaklar
   entry_id:  72911084
@@ -254,27 +275,6 @@ data:
   entry_fav_count: 8
   entry_content: |
     hepsinden önce <a class="b" href="/?q=brest-litovsk+antla%c5%9fmas%c4%b1">brest-litovsk antlaşması</a> uygulamaya geçirilirdi.<br/>-polonya, baltık ülkeleri, bugünkü beyaz rusya'nın olduğu arazi almanya'nın olurdu.<br/>-ukrayna toprakları avusturya macaristan'a bırakılırdı.<br/>-osmanlı'da kafkas topraklarının sahibi olurdu.<br/><br/>fransa'ya kol gibi savaş tazminatı ödetilir, ağır anlaşmalar imzalatılır, fransız halkı hitler benzeri bir manyağın etrafında birleşmeye başlardı.<br/><br/>enver paşa savaş kahramanı sayılıp mareşal ilan edilir, sarıkamış olaylarının üstü örtülürdü.<br/><br/>fransa ve ingiltere afrika'da bulunan sömürgelerinin bir kısmını almanya'ya savaş ganimeti olarak bırakırdı.<br/><br/>osmanlı'da ittihatçı yönetim iyice güçlenip padişahlık makamını tamamen sembolik hale getirirdi. hatta ortamı müsait bulurlarsa padişahlığı kaldırıp ülkeyi parti devletine çevirirdi.<br/><br/>mustafa kemal atatürk muhtemelen generallikten emekli olup daha sonra siyasete atılırdı.<br/><br/>almanya süper güç olup iyice palazlanırdı. fakat bu sefer ingiltere ile fransa, abd'yi iyice gaza getirip yeni bir savaş için ikna ederdi.<br/><br/>osmanlı ile avusturya macaristan savaşın kazanan tarafında yer alsalar bile içlerinde barındırdıkları bir çok ulus yüzünden tonla sorun yaşar, kaçınılmaz olarak parçalanmaya başlardı.<br/><br/>sovyetler birliği geniş toprak kayıpları yüzünden sorunlar yaşamaya başlardı. ya propaganda gücünü iyi şekilde yansıtıp imparatorlukları içeriden çökertmeye başlardı ya da çarlık benzeri soylu bir oluşum yeniden iktidarı ele geçirirdi.<br/><br/>yeni çıkacak savaşta abd ingiltere ve fransa bir şekilde almanya'yı alt edip seve seve demokrasi getirirlerdi. <br/><br/>kısacası ufak tefek toprak değişimleri hariç günümüz sistemine yakın bir sistem 20 yıl gecikmeli de olsa oluşurdu.
-- entry_name: |
-    bitcoin
-  entry_id:  72898270
-  entry_writer: lost aci soyler
-  entry_fav_count: 7
-  entry_content: |
-    adam demis ki "goren de milyon dolarlık adamsınız sanır. 5000 tl paranın kaç kazandıracağı bellidir. koy vadeliye geç."<br/><br/>ahahahahah bu başlıkta okuduğum en vizyonsuz entry yemin ederim. zerre okumadığı gibi vadeliden gelecek %10 yıllık faiz para ile kıyaslıyor koca yatırım teknolojisini, bi de gelip başlığa yazıp kendine güldürüyor milleti.<br/><br/>5.000 tl'si olan adamın eylülde aldığı bitcoin sayesinde su an 35.000 tl parası var la. hangi vadeli?
-- entry_name: |
-    fenerbahçe
-  entry_id:  72895430
-  entry_writer: tungatar
-  entry_fav_count: 6
-  entry_content: |
-    meşhur tarlaların sürüldüğü sezonda, sürdüğü tarlalar arasında inönü ve türk telekom arenanın da bulunan takım. nasıl sürdüyse artık, yıllar geçti ama hala sürülmelerinin açısını yaşıyor bağzı taraftarlar
-- entry_name: |
-    galatasaray
-  entry_id:  72907158
-  entry_writer: o felix
-  entry_fav_count: 5
-  entry_content: |
-    sezon sonu tudor'u çok arayacağını zannettiğim takımım. tudor güzellemesi yapmayacağım burada. gerek de yok zaten. artılarını da eksilerini de yeterince gösterebildi diye düşünüyorum. <br/><br/>ama şunu da anlayamıyorum. galatasaray kulübünün ve taraftarının beklentisi nedir allah aşkına? sezon başlamadan önce, hemen hemen herkes takımdan fazla bir şey beklenemeyeceğinin farkındaydı. şimdi ne oldu da her şey bir anda değişiverdi? <br/><br/>ligin başındaki müthiş performans, çok da sürdürülebilir bir şey değilmiş. bunu gördük, eyvallah. tudor'un yapması gereken, zorlu maçlarda da takımın öz güvenini artırıp, direncini yükseltmesiydi. eğer bunu başarabilseydi, şampiyonluk da kendiliğinden gelecekti. bu kadar basit. avrupada çok erken havlu attığımız bir sezondan bahsediyoruz bakın. yani elde avuçta tek kriter olarak ligin kaldığı bir sezon. <br/><br/>yeni gelecek teknik direktörün ne yapması bekleniyor çok merak ediyorum? elinde sihirli değnekle tek bir dokunuşla takımın performansını ikiye mi katlayacak? ne yapacak?<br/><br/>hele ki şimdi bir de içinde bulunduğumuz durumu düşünün. kulüp ciddi bir maddi krizin eşiğinde. dursun, adını zikretmeye gerek duymamızın yegane sebebi olan galatasaray başkanlığı sıfatını kaybetmek istemiyorsa, tudoru koltuğundan eden medyayı ve kof taraftarları memnun edebilmek için yine kesenin ağzını açmak zorunda. sonra gelsin milyonluk çöpler, gitsin çiçeği burnunda teknik direktörler. en sonunda da artık ffpden tekme mi yeriz, bir hiç uğruna rivanın paralarını mı sıfırlarız bilemem. <br/><br/>yemin ediyorum bu takımın yöneticileri de, önemli bir kısım taraftar kitlesi de kanser gibi. koskoca kulübü yiye yiye bitiremediler, bu kadar da olmaz artık dedirtmeyi daha hala başarabiliyorlar. vücuda eklemlenmişler, kesip atamıyorsun da. çocukluğumdan kalan nadir şeylerden birisi galatasaray, onu bari rahat bırakın ulan!<br/><br/>gidin başakşehire taraftar olun siz. hem bu aralar başarılı gidiyor, hem de taraftara ihtiyacı var zaten. gidin onların tribününü şenlendirin. abdullah avcı ile ilgili o çok değerli eleştirilerinizi paylaşın, hatta iki maç sendeleyince avcı istifa diye tezahürat yapın, terime imparator ayağı çekin. ama galatasarayı rahat bırakın lan artık. <br/><br/>biz tudorlarla, mancinilerle falan yolumuza devam edelim. iki sezon, üç sezon şampiyon olamadan aynı teknik direktörlerle oynayalım futbolumuzu. takımın kasası boşaldığında yönetimi değiştirelim, teknik direktörü değil. medya üstümüze geldiğinde "tipik türk spor medyası işte, bir bok olmaz bunlardan" diyelim. ölü taklidi yapalım, siktir olup gitsinler. iki maç kazandığımızda yine bizi göklere çıkaracaklar nasılsa. aklı başında hangi insan bu spor medyasına kulak kabartır ki? o yüzden bir gidin de nefes alalım lan. şu takım da bir kendine gelsin artık. taraftar gazıyla teknik direktörlere, beş para etmez topçulara para saçmayı bıraksın artık.
 - entry_name: |
     ekşi itiraf
   entry_id:  72892312
@@ -297,26 +297,26 @@ data:
   entry_content: |
     liseliler bilmez,<br/><br/>kona - moşe - kuşe
 - entry_name: |
-    geceye bir beşiktaş golü bırak
-  entry_id:  72908244
-  entry_writer: bidakka bise dicem
+    fi
+  entry_id:  72895347
+  entry_writer: bgr
   entry_fav_count: 3
   entry_content: |
-    koray, yerden, gol.
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kayınpederin muhafazakar bir karakter olarak çizilmiş olması dikkatlerden kaçmasın.<br/><br/>orospu çocuğunun en önde gideni için biçilmiş bir kaftan olmuş bu karakter seçimi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    18 aralık 2017 göztepe konyaspor maçı
-  entry_id:  72909573
-  entry_writer: otuzikiyetmis
-  entry_fav_count: 3
-  entry_content: |
-    konya forması giymiş bir yavşağın eliyle gol atıp sonrasında gol verilmeyince itiraz ettiği karşılaşma.<br/><br/>biraz utan lan biraz haysiyetsiz.
-- entry_name: |
-    yükselticili antenle tv izlemiş efsane nesil
-  entry_id:  72911883
-  entry_writer: elmadrigal00
+    öğrencilerin şiddete şiddetle cevap verme hakkı
+  entry_id:  72911985
+  entry_writer: taluyka
   entry_fav_count: 2
   entry_content: |
-    güzel zamanlardan bir ayrıntı..<br/>yayın gittiğinde anteni ayarlamak için uğraşırken "çaffffffff" diye bir sesle irkilmek,hızla frekans aramaya devam etmek,bulamayınca gürültüye daha fazla dayanamayıp fişi çekmek..<br/><br/>önce bir damla yaş..
+    vardır.<br/><br/>kendim de öğretmenim.<br/><br/>hiçbir öğrencime fiziki şiddet uygulamadım. yeri geldiğinde kızdığım bağırdığım anlar oldu. maalesef bunlar olmadan bazen sorunlar çözülemiyor. gençler çok yaramaz.<br/><br/>fakat kendi öğrenciliğimde çok dayak yedim öğretmenlerimden.<br/><br/>hepsinde de karşılığını verdim. ben bir de kötü bir okulda okumadım. sınavla girilen yüksek puanlı bir okuldu. dört tarafımızın anadolu lisesi ile çevrili olmadığı zamanlardı. <br/><br/>hiçbir hocama saygısızlık etmedim. fakat yine de dayak yemekten kaçamıyordum.<br/><br/>okulumuzda çok zengin ailelerin çocukları okuyordu. bizler 4-5 arkadaş memur çocuğu işçi çocuğu kendi hâlimizde takılırdık. öğretmenlerimin bizlere karşı tavırlarıyla onlara karşı tavırları arasında dağlar kadar fark vardı. benim en büyük travmam budur aslında ama ben konuyla alakalı yorum yapacağım.<br/><br/>iki anımı anlatayım:<br/><br/><a class="b" href="/?q=an%c4%b1+1">anı 1</a><br/><br/>teneffüsler 3 zilden ibarettir bilirsiniz. biri teneffüs zili biri 5. dksında çalan zil bir de 10. dk'da çalan zil vardır.<br/><br/>sınıfımızın kapısının önünde dururken nöbetçi öğretmen bana sınıfıma girmemi söyledi. daha 5. dk'daki zil bile çalmamıştı. "niçin hocam" dedim hâliyle. ben gir diyorum lan, dedi. çok sert bir üslubu vardı mana veremedim. ben de girmiyorum hocam daha zil çalmadı, dedim. iki eliyle boğazıma sarıldı. ben de yüzüne gözüne vurmaya başladım. sonra ayırdılar falan.<br/><br/>hâliyle derste müdür tarafından çağrıldım. müdür atar yapmaya başladı. ben tabi sinirimi alamıyorum. polis gelsin, aileme de haber verilsin, dedim. ben böyle deyince götleri tutuştu alttan almaya başladılar ve inanmayacaksınız ama boğazımı sıkan hoca gelip benden özür diledi.<br/><br/>evde hanımıyla kavga etmiş de kafası dağınıkmış da falan filan...<br/><br/><a class="b" href="/?q=an%c4%b1+2">anı 2</a><br/><br/>lise 2'deyim. lise sondaki arkadaşlarım mezun olacaklar. kızlar börek çörek yapmış okulun hemen önündeki parkta yiyecekler. raporlular zaten, karışanları falan yok. ben de müdür yardımcısından izin istedim onlara katılmak için. dönem sonu anlayacağınız. müdür yardımcısı da bana izin veremeyeceğini ama dilersem onlara katılabileceğimi ama o süre zarfındaki derslerde yok yazılacağımı söyledi. benim de devamsızlık sorunum yoktu. tamam, dedim.<br/><br/>neyse katıldım bunlara. yemekler yenildi, gömlekler imzalandı, defterler dolduruldu falan filan.<br/><br/>sonra ben kalan derslerime girmek için öğle arasını bekledim. öğle arasında okula girdim. tabi gömlek yazılı. sırtında bir sürü yazı var. adettendir bilirsiniz.<br/><br/>müdür çevirdi arkamdan. ne bu gömleğin hâli, dedi. dedim hocam böyle böyle. arkadaşlar hatıra diye yazdılar. <br/><br/>iyi tamam git, dedi. <br/>arkamı döndüm 5-6 adım attım. <br/><br/>gel bakim buraya, dedi. <br/>içimden sayıkladım "n'oluyoruz amına koyim?" <br/><br/>lan pezevenk bu kılıkla okula mı gelinir, dedi.<br/><br/>ben şok oldum bi' kaç saniye. mana vermeye çalışıyorum. aklıma önceki hadise geliyor.<br/><br/>durdum durdum: sensin lan pezevenk, dedim. tokat savurdu bu bana. geri çekildim ama parmaklarının ucu değdi. kısa boylu bir piçti zaten. ittim bunu sonra. sarsıldı korktu. sen görürsün, dedi. hayatımda ilk defa babamı aradım okula gelmesi için. durumu anlattım. <br/><br/>babam beni hayatında hiç savunmamış, hiçbir zaman da takdir etmemiştir. fakat bu sefer yanımda olmasını söyledim. gözlerim doluydu zaten sinirden. babam ortalığı kasıp kavurmuş tabi. bir şey yapamadılar.<br/><br/>_______<br/><br/>velhasılı kelam. iyi bir öğretmen olmak da iyi bir öğrenci olmak da emek istiyor.<br/><br/>zaten iyi öğretmenler o yaşlardaki insanların hassasiyetlerini bilip ona göre davranıyorlar. bazı öğretmenler ise gerçekten haddi aşıyorlar.<br/><br/>fiziksel şiddete ve hakarete aynı misliyle cevap verilebilir diyorum ben. kimsenin bir insanı buhrana sokmaya hakkı yok. hele öğrencisini asla ! kızarsın. otur yerine dersin. lan dersin, kız dersin. konuşma, kalk başka yere otur, dersin. bunlar onlarda travmaya yol açmaz. <br/><br/>ama pezevenk dersen, döversen vs. sıkıntı olur.
+- entry_name: |
+    yükselticili antenle tv izlemiş efsane nesil
+  entry_id:  72912065
+  entry_writer: offff of
+  entry_fav_count: 1
+  entry_content: |
+    sen ne diyorsun, biz televizyonu regülatör olmadan açamıyorduk bile...<br/>az yangın tehlikesi yaşamadık.
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  72905891
@@ -342,14 +342,14 @@ data:
     ethereum
   entry_id:  72911888
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     dünyanın en pahalı ethereumunu aldığınız türk borsalarında, dünyanın en pahalı ethereumunu bozarsınız. şu işleri kavrayın artık. para yatırdığınız borsada kaldığınız müddetçe öyle bir dezavantaj yaşamazsınız.
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  72893812
-  entry_writer: 3 yil sonra
-  entry_fav_count: 0
+    alvaro recoba'nın en iyi şut atan futbolcu olması
+  entry_id:  72891014
+  entry_writer: efendim lebraam
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=pornodan+b%c4%b1kan+%c3%a7irkin+erkekler+veritaban%c4%b1">pornodan bıkan çirkin erkekler veritabanı</a>)
+    "şutunuzla gol atmayı değil, kaleciyi yok etmeyi düşünün."<br/><br/>(bkz: <a class="b" href="/?q=steven+gerrard">steven gerrard</a>) benim gördüğüm en iyi şut çeken futbolcu.<br/><br/>her iki ronaldo, scholes, interli adriano, lampard aklıma ilk gelen diğer iyiler.
 ---
