@@ -3,31 +3,38 @@ layout: post
 title: 20 Aralık 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    suriye sinirina 911km'lik duvar
+  entry_id:  72917282
+  entry_writer: oduncu ilyas
+  entry_fav_count: 1215
+  entry_content: |
+    4 milyon suriyeliyi sınırdan içeri soktuktan sonra yapılması da enteresan olan duvar. gelenler suriyeye geri dönemesin diye heralde
+- entry_name: |
     sevgilisinin eşinin tecavüzüne uğrayan adam
   entry_id:  72924549
   entry_writer: anne ben akatsukiye katildim
-  entry_fav_count: 1023
+  entry_fav_count: 1045
   entry_content: |
     olum neler oluyor gene ülkede ya.<br/><br/>adam karıyı sikiyor, kadını daha önce defalarca kez siken kişi, yani kadının eşi de bu adamı sikiyor. şimdi görüntüleri paylaştı ve tecavuz etti diye yargı ve kolluk kuvvetleri de bu adamı sikecek. adam hapse girerse tecavüzden yattığı için koğuş arkadaşları da bu adamı sikecek. evli iken bile başkasıyla beraber olan karısı, adam içerdeyken daha rahat milletle yatıp kalkacak. onu da sikecekler. başlığı açan arkadaş da bu zincirin dolaylı bir parçası olarak türkçeyi sikmiş. <br/><br/>lan bu sikiş zincirinde siki taşağı olmayan biriyle biz de sevişelim bu zincirin dışında olmak beni çok rahatsız ediyor.<br/><br/>edit: imla düzeltmesi.
 - entry_name: |
     çaykur'un türkiye'de 26 almanya'da 10 tl olması
   entry_id:  72921910
   entry_writer: seylann
-  entry_fav_count: 581
+  entry_fav_count: 600
   entry_content: |
     ihraç ettiğimiz çayı ithal edebiliyorsak çok ucuza geliyor.
 - entry_name: |
-    çiftlik bank
-  entry_id:  72916649
-  entry_writer: rahat ya
-  entry_fav_count: 474
+    türk insanının vergilere karşı ayaklanacağı gün
+  entry_id:  72914795
+  entry_writer: screenwriter
+  entry_fav_count: 340
   entry_content: |
-    konuyla ilgili epeydir bi şeyler yazmak istiyordum kısmet bugüneymiş. birincisi bu tarz oluşumlara 1 kuruş bile yatırmadım, bugün 1 kuruş yatır yarın 1 milyar olacak diye garanti verseler yine de yatırmam. bedava paraya her zaman şüpheyle bakan biriyim çünkü. <br/><br/>şimdi gelelim konumuza. biz ailecek dededen hatta dedemin babasından beri hayvancıyız. çiftçilik de yaparız ama genel olarak hayvancılıkla uğraşıyoruz. ha babam memurdu onun kuşakta bi 20 sene ara vermişiz fakat şimdi halen hayvancılıkla uğraşıyoruz neyse konu biz değiliz zaten. <br/><br/>bakın güzel arkadaşlar, hayvancılıktan kar etme para kazanma dönemi biteli aylar yıllar oldu. bundan 20 sene önce 10 tane büyükbaş hayvanın varsa krallar gibi yaşıyordun köy yerinde ama şimdi 100 tane de hayvanın olsa o rahatlık yok. <br/><br/>birincisi girdisi çok. bu girdilerin hepsi her sene zamlanırken sattığın ürüne çok düşük yüzdelerde zam geliyor. çok basit örnekler vereceğim ki bunlar benim bizzat şahit olduğum rakamlar;<br/><br/>sene 2003 - bir balya samanı satıcıdan almanın maliyeti 1.5 lira. <br/><br/>sene 2003 - bir litre süt için üreticiye ödenen tutar 0.75 lira<br/><br/>sene 2017 - bir balya samanı satıcıdan alma maliyeti 8.5-9 lira. <br/><br/>sene 2017 - bir litre süt için üreticiye ödenen tutar 1.40 lira <br/><br/>bak bu verdiğim örnek sadece 1 adet saman balyasının 14 senede maliyeti 5 kat artarken üreticiye ödenen tutar 1 kat bile artırılmamış. diğer bi deyişle 14 sene içerisinde maliyet %500 artarken gelir %100 bile artmamış . <br/><br/>yani o hayvancılıktan köşeyi döneceğiz devri çoktaaaaan geçti babacım. ha kendi tarlan vardır kendin işler kendin sürer kendin samanını, otunu, yoncanı, mısırını hasat edersin maliyetlerini %50 daha azaltırsın ki bu bile maliyetlerde %200-250 artış olmasına rağmen gelirde yine %100 artış sağlayamadığını gösterir. <br/><br/>çok fazla sayısal veriyle kafa ütülemek istemiyorum çünkü bizim insanımız okumayı sevmeyen bi insan olduğu için en kısa yoldan yazmaya devam ediyorum, hayatında en yakın ineği kurban pazarında gören insanlarımız bu olaydan zengin olacağını zannediyor. <br/><br/>hayvancılık zor iştir. kar marjı şu zamanda çok düşük bi iştir. bildiğim kadarıyla buzağı desteği veren devlet artık onu da kesti vermiyor diye biliyorum. neden? zaten ithal ediyoruz ne gerek var desteğe di mi? bunun haricinde balya bağlamak, balya yükle, indir, bindir yapmak ve bunlar için işçi maliyeti karşılamak, o balyaları tarladan samanlığa getirmek için traktör maliyeti, mazot maliyeti gibi girdiler adamın iliğini kemiğini kurutan şeyler. <br/><br/>hayvanlar da insanlar gibi farklı farklı şeyler yiyiyor maalesef. bunun buzağı başlangıç yemi var, buzağı büyütme yemi var, süt yemi var, besi yemi var var da var. yani hepsine daya samanı şeklinde olacak iş değil ki zaten samanın besin değeri sıfır tamamen hayvanları tok tutması ve oyalama amaçlı bi şey. biz daha çok samanı altlarına atmak için kullanıyoruz yalan yok. <br/><br/>bunun yanında sağım yapmak için elektrikli makineleriniz olacak, sonra suyun bol olacak, suyunuz yoksa şebeke suyu maliyetiniz olacak. burada şimdi bazı zeki arkadaşlar diyecek ki ''ya bizim kuyumuz var ne suyu ehehehe' diye kendince akıllıca bi tespit yapacak fakat devlet der ki bahçende kuyu varsa ve sen bu suyu kullanıyorsan kuyuna sayaç takarım sen de kuyu suyunun faturasını bana ödersin. heee yani biz her ay boşuna 200 lira su faturası ödemiyoruz canikom. <br/><br/>bunun haricinde ilkbaharda meraya çıkarmak için çobana ihtiyacın olacak ki bu adamlar öyle 2000 liraya falan çalışmıyor. hadi kendin çıkardın diyelim eyvallah bu hayvanlarla her gün sabah serinlikte çıkıp akşam hava kararmadan döneceksin. bu da demektir ki günde 10-12 saat o güneşin altında hayvanların başında bekleyeceksin.<br/><br/>eğer hayvanlarını çıkarmazsan hayvanlar yağ bağlar aynı zamanda eti sert olur, kuru olur, lezzetsiz olur. hayvan koşacak, dolaşacak edecek bu böyle olmalı. <br/><br/>gelelim işin veteriner boyutuna. e tabi bu hayvanlar da insanlar gibi hastalanıyor ya da doğum yaparken sezaryan yapmak zorunda olabiliyor veya atıyorum samanı tarladan bağlarken içine tel girebiliyor bunu inek yiyebiliyor o tel bağırsaklara kadar gidebiliyor ve türlü türlü hastalıklar olabiliyor uzatmayayım. veteriner maliyeti şöyle diyeyim biz aylık 10 hayvan için 1500 lira para ödüyoruz veterinere. açık konuşuyorum. bi tohumlama 100 lira. tutmazsa ikincisi 80 yine tutmazsa üçüncüsü 70 dördüncüsü 60 beşincisi 50 lira. yani hayvanın 5 kere tohumlanırsa sana maliyeti 360 lira bu sadece bir hayvan için. <br/><br/>yine tarım ve hayvancılık bakanlığının şap aşıları var. tanesi 12 lira. senede 2 defa vuruyorlar. tek hayvan için maliyetin 24 lira. <br/><br/>bunlar dışında çobanlar haricinde bu hayvanlara bakacak ahır içinde çalışacak 2 tane adamın olması lazım. tek adamla olmuyor o işler. bi yere kadar sonra kafayı kırıyorsun o yüzden 2 adam ideal. bunların maliyeti var. <br/><br/>bak ahırın kirasını falan saymadım. onu kendi malın olarak varsaydım. bunun haricinde hidroforlu suluğundan tut, bağlamak için zincirine, gübre küremek için gelberi ,sürileri, diğren, el arabası gibi ekipman maliyetleri var. bak daha soğutma tankı bilmem ne onlara hiiiiiç girmedim. <br/><br/>şimdi bu kadar sana maliyet verdim kafan karıştı doğal olarak. daha kısa şöyle söyleyeyim senin günde bir hayvandan sağdığın 20-30 litre süt o hayvanın günlük maliyetini bile karşılamıyor üstüne cepten veriyorsun. kafan karıştıysa bu şekilde anlatmış olayım. e şimdi diyeceksin ki ''ya madem cepten veriyorsunuz da siz niye bu işi yapıyorsunuz?'' hayvancılık yapan adamın karı yavru buzağıdır. yavru buzağı o hayvandan ettiği kardır ki o da bak şimdi aklıma geldi her doğan yavruyu kaydettirme şartın var onlara küpe takılıyor 9 lira da onlar. <br/><br/>dediğim gibi hayvancılıkla uğraşan adamın karı buzağı. iyi de dedim ya en başta hayvanlar da insanlar gibi diye. onlar da düşük yapabiliyor, ölü doğum yapabiliyor ne bileyim buzağının boynuna kordon dolanıp ölebiliyor ya da anne ineğin çatısı(vajinası) zorlamadan yırtılıp kan kaybından ölebiliyor hani birden çok ihtimal var. %100 buzağı sağ salim doğacak diye bi şey yok. e buzağı da öldü mü ne oluyor kocaaaaa 9 ay baktığın ineğin maliyeti sana koskocaman bi eksi yazıyor babacım. <br/><br/>durum böyle gençler. hayvancılıktan sütten para kazanamazsın, etten hiç kazanamazsın. çünkü ülkemizde bu işi yapan adam sayısı azaldıkça et fiyatı artıyor ve daha da artacak. aynı şekilde böyle devam etsin 5 sene sonra etin kilosu 100 lira olmazsa bak bu yazdıklarım burada gel beni yeşillendir. <br/><br/>o yüzden farmville ve türevleri oyunları oynayıp hayatında inek boku görmemiş üstüne bassa köstebek pasta zannedecek adamlar bu sistemi savunabilir. gayet normal ama siz siz olun sakın ha hayvancılıkla zengin olacağınızı düşünüp bu adamlara paralarınızı kaptırmayın.<br/><br/>edit: unutmadan tanımımızı yapalım; keriz silkelemek isteyen bi adet tosunun tokatlama amaçlı kurduğu ponzi yapılı kerttirgeç.
+    benim bir hayalim var: bir gün gerçekten dürüst, namuslu ve demokrasiye inanan insanlar hükümeti yönetecek ve diyecekler ki 'halkı uyutmaktan vazgeçelim, vergileri ürün ve hizmetlere gömmeyelim, örneğin benzinin litre fiyatı 5.50 tl değil 1.75 tl yazsın, ödeme esnasında vergisi ayrıca alınsın, marketlerde ürünlerin vergisiz fiyatı yazsın, kasada vergi ayrıca alınsın, maaşlar brüt ödensin, insanlar maaş aldıktan sonra vergi dairesine gelir vergisi yatırsın ki, harcadığımız her kuruşu kendilerinin ödediğini halk anlasın, böylece demokrasi gelişsin, hükümet kafasına göre har vurup harman savuramasın, en dindarı dahi diyanetin bütçesine isyan etsin, yolsuzlukların, yanlış yatırımlarla heba edilen paraların, belediyelerin aynı kaldırımı 8 kere yapıp, 9 kere sökmesinin hesabı sorulsun'
 - entry_name: |
     fenerbahçenin her sene hakemlerden +10 puan alması
   entry_id:  72925477
   entry_writer: kendinekadaravukat
-  entry_fav_count: 244
+  entry_fav_count: 245
   entry_content: |
     bu şey değil mi ya,<br/><br/>hocası futbolcu döven<br/><br/>futbolcusu hakeme ana avrat söven<br/><br/>federasyon başkanı eski başkanı olan<br/><br/>şerefli takımın taraftarı.
 - entry_name: |
@@ -48,37 +55,58 @@ data:
     libidosu yüksek kadın
   entry_id:  72916765
   entry_writer: rahat ya
-  entry_fav_count: 197
+  entry_fav_count: 202
   entry_content: |
     türkiye şartlarında bulunması asla ve asla zor olmayan aksine çok kolay kadındır. bunu orospuluk ya da escortluk anlamında söylemiyorum. kadınlarımızın libidosu gayet de yüksek gençler. yeter ki kadın senden o elektriği alsın. <br/><br/>şimdi sen hayatın boyunca sabah kahvaltını 2 poğaca+1 çay olarak yapmışsın affedersin götün göbeğin salınmış, moda nedir deseler kadıköy'deki sahi kenarı sanırım diyeceksin, giyim kuşam trendinden şundan bundan bihabersin, üstüne üstlük açlık sınırı altında yaşıyorsun, yetmedi metrobüs hayatının en önemli bi parçası olmuş, yarın metrobüs çalışmasa ne bok yerim nasıl işe giderim diye düşünüyorsun eee sonra libidosu yüksek kadın türkiye'de bulmak zor. <br/><br/>değil abicim değil. kadın ne ister biliyor musun? 1) rahatlık 2) güvenlik. bu ikisini sağladın mı ya da hissettirdin mi etrafındaki kadınların %90'nın libidosu zaten kendiliğinden yükseliyor merak etme. <br/><br/>he ama sen kıçındaki donu bile 2 senede bi değiştir o da lastiği atınca artık sonra libidosu yüksek kadın türkiye'de yok. ulan ben kadın olsam ben de vermem niye illa vereceksem benim de hoşuma gitmeli benim de duygularımı okşamalı öyle bi dünya var mı? sen vücut temizliğinden bihaber olacaksın, dişlerin sigara içmekten sapsarı olacak, her tarafın kıl tüy içinde olacak, terden leş gibi kokacasın sonra ee libidosu yüksek kadın türkiye'de yok. <br/><br/>peşin edit: bu entry yukarıdaki entrye ithafen yazılmamıştır. tamamen genel erkek profili üzerinden değerlendirilmiştir.<br/><br/>sonradan edit: üstte bi entry vardı libidosu yüksek kadın olmadığına dair ama işte entry silme olayları malum...
 - entry_name: |
     berkin elvan'ın atatürk hakkındaki düşünceleri
   entry_id:  72930382
   entry_writer: lecagot
-  entry_fav_count: 185
+  entry_fav_count: 200
   entry_content: |
     önce katilinin kim olduğu aydınlatılmalıdır, geri kalan her şey önemsiz ve gereksizdir
 - entry_name: |
     eşek gibi çalıştıktan sonra erkeğe yemek yapmak
   entry_id:  72923734
   entry_writer: eduman9
-  entry_fav_count: 149
+  entry_fav_count: 167
   entry_content: |
     iyi beslenmek beni şu hayatta en çok tatmin eden şeylerden biri. evlenmesem de işten geldiğimde lezzetli sağlıklı ev yemeği hazırlarım kendime, ne kadar yorgun da olsam. anne yemeği işte bildiğin. <br/><br/>evliyken işten geleceğim, tek yaptığım hazırladığım yemeği daha fazla yapmak olacak. hatta masayı ben hazırlamayacağım, eşim hazırlayacak. o yemeği yalnız değil, sevdiğim insanla yiyeceğim. kendi kendime "ne güzel yapmışım yemeği be." demekten çok onun "acayip lezzetli olmuş eline koluna sağlık." demesi mutlu edecek beni. sorun ne anlayamıyorum o yüzden, bazen mutsuzluğumuza ve gerçeklere bahane olarak sorun yaratıldığını düsünüyorum.
 - entry_name: |
     canan karatay
   entry_id:  72921897
   entry_writer: ceylinmarti
-  entry_fav_count: 130
+  entry_fav_count: 132
   entry_content: |
     evet, her doktor kendini ilaç mümessillerine satmıyor. kimi daha karlı yerlere, medyaya pazarlıyor!
 - entry_name: |
     filistin uydurma bir ülkedir
   entry_id:  72927548
   entry_writer: popoya popo
-  entry_fav_count: 114
+  entry_fav_count: 117
   entry_content: |
     batı şeria 1967 yılına kadar ürdün'e aitti. israil ele geçirdikten sonra o bölgeye filistin demeye başladılar. çünkü ürdün, batı şeria'daki tüm haklarından vazgeçti. <br/><br/>dolayısıyla haklı söylemdir.<br/><br/><a class="b" href="/?q=edit">edit</a> elemanın biri tarihi olarak var demiş. '' filistin'' kavramı binlerce yıldır <a class="b" href="/?q=co%c4%9frafi">coğrafi</a> olarak o bölge için kullanılan tabirdir. günümüzde bahsedilen <a class="b" href="/?q=filistin+devleti">filistin devleti</a> palavrası ise 1967'de israil, batı şeria'yı ürdün'den, gazze'yi ise mısır'dan <a class="b" href="/?q=fethetti%c4%9finde">fethettiğinde</a> kullanılmaya başlanmış bir kavramdır. batı şeria, ürdün'e aitken kimse filistin devleti demiyordu. geçeceksiniz bu palavraları. <br/><br/><a class="b" href="/?q=filistin+devleti">filistin devleti</a> , 50 yıl önce uydurulmuş, arapların her seferinde kendilerinin saldırıp, kaybettikleri topraklarda kalan araplar için uydurdukları, topraksız hayali bir ülkedir.
+- entry_name: |
+    açık tehdit ediyorum fatih portakalı öldürecem
+  entry_id:  72926360
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 115
+  entry_content: |
+    fatih portakalı öldürmedikçe hakkında işlem yapılmayacak kişinin mesajıdır.<br/>en iyi ihtimal ifadeye çağrılır ardından salınır.
+- entry_name: |
+    danla bilic'in youtube hesabını kapatması
+  entry_id:  72931889
+  entry_writer: yan komsunun wireless sifresi
+  entry_fav_count: 98
+  entry_content: |
+    gündeme gelmek için kapatmıştır. (bkz: <a class="b" href="/?q=pr+%c3%a7al%c4%b1%c5%9fmas%c4%b1">pr çalışması</a>) <br/><br/>aleyna tilki de kendi şarkısına telif atmıştı zamanında.<br/><br/>edit: altta bazı yazarlar "danla bilic kim" demiş. ınsan biraz araştırır. kendisi <a class="b" href="/?q=cern">cern</a>'de çalışan ilk türk bilim kadını. işte bu yüzden bu ülkede bilim gelişmiyor.
+- entry_name: |
+    istanbul nüfusunun 3 milyona düşürülmesi
+  entry_id:  72928506
+  entry_writer: godless commie
+  entry_fav_count: 94
+  entry_content: |
+    peki, hanginiz gidecek?
 - entry_name: |
     en efsanevi film açılış sahnesi
   entry_id:  72921675
@@ -94,12 +122,12 @@ data:
   entry_content: |
     son sahneyi gösterip tekrar reklama girmeleri selimin yaptıklarından daha büyük orospu çocukluğu.
 - entry_name: |
-    istanbul nüfusunun 3 milyona düşürülmesi
-  entry_id:  72928506
-  entry_writer: godless commie
-  entry_fav_count: 86
+    ajan yetiştiren lisans bölümünün açılması
+  entry_id:  72931910
+  entry_writer: casusbubelli
+  entry_fav_count: 87
   entry_content: |
-    peki, hanginiz gidecek?
+    yüksek lisans yapanlara da 00 kodu verilecekmiş. <br/><br/>my name is mal, ce mal.
 - entry_name: |
     günlük hayatta etek giyen kalmaması
   entry_id:  72921750
@@ -108,40 +136,26 @@ data:
   entry_content: |
     beni de üzen durum. pantolon denen iğrenç şeyden nefret ediyorum, özellikle reglken pantolon giymenin nasıl zor olduğunu hiçbir erkek tahmin edemez. uzun kaban falan gibi kombinlerle bir şekilde etek giymeye çalışsam da olmuyor, millet uzaylı görmüş gibi bakıyor, ben de eski dizileri, her gün etek giyen kadınların zarafetini görüp üzülüyorum. pantolon bildiğimiz erkek kıyafeti oysa ki. hele ki o dar pantolonları giymek sağlığa öyle zararlı ki, rahat falan diyorsunuz ya etek bin kat daha rahat. üstteki entrye ithafen diyebileceğim tek şey ise esas devrim rahat rahat etek giymektir. dar pantolon giymek mi rahatlık, şu dar pantolonları kim üretiyor, kim çıkarıyor, esas vücut sergileme odur güzel kardeşim. skinny pantolon denen şeyden nefret eden bir yazar olarak artık herkesi etek gitmeye davet ediyorum.
 - entry_name: |
-    kalitesiz insanların övündükleri şeyler
-  entry_id:  72913711
-  entry_writer: yorgunum patron
-  entry_fav_count: 75
+    toplu taşımada 65 yaş beleşçiliği kaldırılsın
+  entry_id:  72914550
+  entry_writer: justus jonas
+  entry_fav_count: 80
   entry_content: |
-    doğuştan sahip oldukları her şey...<br/>din, dil, ırk, mezhep, memleket, akraba, cinsiyet, boy...
-- entry_name: |
-    danla bilic'in youtube hesabını kapatması
-  entry_id:  72931889
-  entry_writer: yan komsunun wireless sifresi
-  entry_fav_count: 75
-  entry_content: |
-    gündeme gelmek için kapatmıştır. (bkz: <a class="b" href="/?q=pr+%c3%a7al%c4%b1%c5%9fmas%c4%b1">pr çalışması</a>) <br/><br/>aleyna tilki de kendi şarkısına telif atmıştı zamanında.<br/><br/>edit: altta bazı yazarlar "danla bilic kim" demiş. ınsan biraz araştırır. kendisi <a class="b" href="/?q=cern">cern</a>'de çalışan ilk türk bilim kadını. işte bu yüzden bu ülkede bilim gelişmiyor.
-- entry_name: |
-    ekşi orman
-  entry_id:  72926822
-  entry_writer: eksi seyler
-  entry_fav_count: 73
-  entry_content: |
-    daha önce <a class="b" href="/?q=ek%c5%9fi+%c5%9feyler%27">ekşi şeyler'</a>de yayınlanan her içerik için bir fidan dikerek oluşturacağımızı söylediğimiz yeni ormanımız.<br/><br/>aradan geçen sürede ekşi şeyler'de yayınlanan içeriklerin sayısı bir orman oluşturacak sayıya ulaştı ve biz de daha önceki ekşi orman projesinde olduğu gibi <a class="b" href="/?q=tema">tema</a> aracılığıyla harekete geçtik.<br/><br/>buna göre tema tarafından <a class="b" href="/?q=%c3%a7anakkale+do%c4%9fandere+a%c4%9fa%c3%a7land%c4%b1rma+sahas%c4%b1">çanakkale doğandere ağaçlandırma sahası</a>'nda 5500 fidan dikilecek ve ekşi şeyler'e hayat veren entry'ler doğada can bulacak.<br/><br/>yeni ormanımızın konumunu ve alana ait fotoğrafları fidan dikimi bittikten sonra sizinle paylaşacağız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/eksi-seylerde-yayinlanan-her-icerik-icin-bir-fidan-dikme-projemizi-hayata-geciriyoruz" title="https://seyler.eksisozluk.com/eksi-seylerde-yayinlanan-her-icerik-icin-bir-fidan-dikme-projemizi-hayata-geciriyoruz">https://seyler.eksisozluk.com/…i-hayata-geciriyoruz</a>
-- entry_name: |
-    ajan yetiştiren lisans bölümünün açılması
-  entry_id:  72931910
-  entry_writer: casusbubelli
-  entry_fav_count: 73
-  entry_content: |
-    yüksek lisans yapanlara da 00 kodu verilecekmiş. <br/><br/>my name is mal, ce mal.
+    <a class="b" href="/?q=erich+fried">erich fried</a> demiş ki: "çocuklar kurbağalara şaka olsun diye taş atar ama kurbağalar ciddi ölür." <br/><br/>buradaki yeni yetmeler, toplu taşıma araçlarındaki yaşlılarla empati kuracak bilgi ve görgüyü henüz edinememiş olabilirler. görmüş geçirmiş emektar insanlar hakkında böyle hafif sözler sarf edecek cesareti bu bilgisizlikten alıyor olabilirler. <br/><br/>o halde size gerçek bir hayat öyküsü anlatayım, eğer birazcık yüzünüz kızarırsa korkmayın, bu çok iyi birşeydir: <br/><br/>adam 70 yaşında. bu ülkenin yetiştirdiği en iyi türkçe edebiyat öğretmenlerinden. emekli maaşıyla geçinemediği için özel ders veriyor. sincan'da oturuyor, ders için gerektiğinde elmadağ'a gidip geliyor. toplu taşım araçları kendisi için büyük kolaylık, böylelikle, tasarrufta bulunabiliyor. kendi otomobili hiç olmadı. hoş, olsaydı da rahat bırakmazdınız: (bkz: <a class="b" href="/?q=60+ya%c5%9f+%c3%bcst%c3%bc+bireylerin+ara%c3%a7+kullan%c4%b1m%c4%b1+yasaklans%c4%b1n">60 yaş üstü bireylerin araç kullanımı yasaklansın</a>).<br/><br/><a class="b" href="/?q=kel+mahmut">kel mahmut</a> gibi namuslu, ilkeli bir cumhuriyet öğretmeni. giresun'da, şebinkarahisar'da ve sürgüne gittiği bir çok anadolu kasabasında, yoksul ama parlak cevherleri bulup yetiştirdi. gerektiğinde, masraflarını bizzat karşılayıp okumalarını sağladı. <br/><br/>bugün, kendisine halen minnet duyan, bayramlarda elini öpmeye koşan nice başarılı doktor, mühendis, öğretmen, müfettiş ve üst düzey yöneticiler kazandırdı bu memlekete. 40 yıllık memuriyeti sırasında ödediği vergi de cabası!<br/><br/>biri işletmeci, diğeri mühendis olmak üzere iki evlat da yetiştirdi. ne onları okuturken, evlendirirken, ne de kendi işleri için kimseden torpil, tavassut talep etmedi. <br/><br/>boğazından tek kuruş haram geçmemiştir, çocuklarına ve öğrencilerine de hep bunu öğütledi. alın teriyle elde edilmiş başarının verdiği mutluluğun yerini hiçbir şeyin alamayacağına inanıyordu.<br/><br/>kanser oldu, ciğerinin yarısını aldılar. yine de çalışmaktan vazgeçmedi. halen kimsenin tek kuruşuna muhtaç olmadan çalışmaya devam ediyor. <br/><br/>bırakın da, en azından devletin sağladığı hak sayesinde toplu taşım araçlarını kullansın, öğrencilerinin ayağına gidebilsin!
 - entry_name: |
     türkiye'de yahudi olmak
   entry_id:  72930471
   entry_writer: asklepios26eses
-  entry_fav_count: 68
+  entry_fav_count: 78
   entry_content: |
     halkın yüzde doksanına göre orospu çocuğuyuz. hepimiz ibneyiz ve bunu yaymaya çalışıyoruz. hepimiz çok zenginiz ve ticari dehayız. kazandığımız paralarla israil'e silah aldırıp filistinli çocukları öldürüyoruz. amerika'yı biz yönetiyoruz. amerika'nın yaptığı her boku biz yaptırıyoruz. dinimiz imanımız para ama ticarette çok ahlaklıyız. ödeme sözü verirsek o ödeme o gün olur ama ticari zekamız sayesinde sizi öyle ya da böyle sikeriz. bu nasıl oluyor bu kısmı anlamak zor. hem ahlaklıyız düzgün ticaret yaparız ama sinsi sinsi sikeriz.<br/><br/>erkeğin erkeği sikmesini biz bulduk. helak edilmemiz gerekir. hitler bunlara az bile yapmış. <br/><br/>tam şahit olmasam da hepimiz gizli bir örgüte üyeyiz. bizi yöneten üst akıl ne derse onu yapıyoruz. bunu düşünenler yıllarca fetullah gülen denen kişinin sözünden çıkmayanlar genelde. <br/><br/>yanlış anlaşılma olmasın halkı suçlamıyorum. bu halk saf tepedekiler ne derse inanıyor. okullarda televizyonlarda sürekli beyin yıkanıyor. <br/><br/>konuya yani başlığa gelirsek biraz zordur. zor değil ama biraz sinir bozucudur. ancak değişmeyen tek şey değişimdir dedik 1992 yılında. halkı bilinçlerdirmeye karar verdik. üst akıl söyledi biz yaptık diyelim. <br/><br/>islamiyeti zayıflatmaya karar verdik. bu halkta bu inanç varken bu ülkeyi yıkamayacağımızı anladık. o yüzden halkı bilinçlerdirmeye karar verdik. bu ne sikim üst akıl. ülkeyi yıkmak için halkı bilinçlendirmek sadece şeytanın aklına gelir.<br/><br/>o yıllarda türkiye'de ateistim demek göt isterdi. mutlaka vardır ama çok çok azdı. kızanlar olabilir ama en zeki kişileri hedef seçtik. o yüzden tıp fakülteleri ve odtü'yü seçtik. <br/><br/>aramızdaki en zeki kişiler bu okullara kolaylıkla girdi. sonrasında bu zeki var olduğunu saydığımız kişilere islamı anlatmaya başladık. yanlış anlaşılma olmasın yalan yanlış bilgiler vermedik. zaten versek zeki kişiler ikna olmazdı. kuranı kerimi okuduk ve tartıştık. sonrasında bu kişiler ateist oldu ve okul bitince tüm türkiye'ye dağıldı.<br/><br/>sonrasında sosyal medya diye bir şey çıktı. bu zeki çocuklar tahmin edebileceğiniz şekilde popüler oldu. ekşi sözlük'ün ilk yıllarında buradan düşüncelerini anlattılar. ekşi sözlük onlar sayesinde ekşi sözlük oldu. <br/><br/>sonrasında bu zeki çocukları örnek alanlar arasında ateizm yayıldı. hatta hatun düşürmek için ateistim diyenler ortaya çıktı. moda gibi bir şey oldu. <br/><br/>şimdi amacımız hepinizin götünü sikmek. çok emin değilim ama sanırım aykut kocaman dikine futbol diye bir şey uydurdular gibi bir şey söylemişti. onu da biz uydurduk bu arada. <br/><br/>sinsiyiz abi. gizli gizli çocuklarınız bilinçli ibne olsun diye uğraşıyoruz. halk bilinçli olursa bu ülke biter. cem yılmaz bile eğitim şart diyorken bizden etkilenmiş olabilir. belki o bile gizli örgüttendir. ülkeyi yıkacağız allahın izniyle.
+- entry_name: |
+    ekşi orman
+  entry_id:  72926822
+  entry_writer: eksi seyler
+  entry_fav_count: 74
+  entry_content: |
+    daha önce <a class="b" href="/?q=ek%c5%9fi+%c5%9feyler%27">ekşi şeyler'</a>de yayınlanan her içerik için bir fidan dikerek oluşturacağımızı söylediğimiz yeni ormanımız.<br/><br/>aradan geçen sürede ekşi şeyler'de yayınlanan içeriklerin sayısı bir orman oluşturacak sayıya ulaştı ve biz de daha önceki ekşi orman projesinde olduğu gibi <a class="b" href="/?q=tema">tema</a> aracılığıyla harekete geçtik.<br/><br/>buna göre tema tarafından <a class="b" href="/?q=%c3%a7anakkale+do%c4%9fandere+a%c4%9fa%c3%a7land%c4%b1rma+sahas%c4%b1">çanakkale doğandere ağaçlandırma sahası</a>'nda 5500 fidan dikilecek ve ekşi şeyler'e hayat veren entry'ler doğada can bulacak.<br/><br/>yeni ormanımızın konumunu ve alana ait fotoğrafları fidan dikimi bittikten sonra sizinle paylaşacağız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/eksi-seylerde-yayinlanan-her-icerik-icin-bir-fidan-dikme-projemizi-hayata-geciriyoruz" title="https://seyler.eksisozluk.com/eksi-seylerde-yayinlanan-her-icerik-icin-bir-fidan-dikme-projemizi-hayata-geciriyoruz">https://seyler.eksisozluk.com/…i-hayata-geciriyoruz</a>
 - entry_name: |
     çocukken çok isteyip de aldırılamayan oyuncaklar
   entry_id:  72920271
@@ -150,6 +164,13 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=ak%c3%bcl%c3%bc+araba">akülü araba</a>)<br/><br/>hayalini kurarken bile ağzımın suyu akardı
 - entry_name: |
+    pisuvara türkçe isim önerileri
+  entry_id:  72920180
+  entry_writer: taksi kime
+  entry_fav_count: 65
+  entry_content: |
+    sözkonusu kelime zaten türkçe olduğu için gerek olmayan önerilerdir. <br/><br/><a class="b" href="/?q=pis">pis</a> <a class="b" href="/?q=su">su</a> <a class="b" href="/?q=var">var</a>
+- entry_name: |
     19 aralık 2017 abd vize açıklaması
   entry_id:  72926048
   entry_writer: oric
@@ -157,31 +178,31 @@ data:
   entry_content: |
     abd'nin erdoğan'a kızıp, erdoğan'ı sevmeyenleri cezalandırması.<br/><br/>abd'nin yerinde olsam her sene 100.000 türk öğrenciye amerika'da karşılıksız burs verip türkiye'yi boşaltırdım, bu sikko diplomatik hamleden daha anlamlı olurdu
 - entry_name: |
-    başak burcunu tek cümleyle anlatmak
-  entry_id:  72913954
-  entry_writer: gokyuzunde yalniz gezen birseyler
-  entry_fav_count: 45
+    2017'de türkiye'de terörün bıçak gibi kesilmesi
+  entry_id:  72930360
+  entry_writer: nexavar
+  entry_fav_count: 47
   entry_content: |
-    yaptığı bir işi düzgün yapmak isteyen, gayet düzgün yaptığı halde, ayrıntılara takılarak istediği gibi olmadığını düşünüp, kendi kendinin moralini bozabilen bir burçtur.
+    yakınlarda seçim olmadığındandır.
+- entry_name: |
+    bir geldin sanki hiç sevişmemiş gibi
+  entry_id:  72922068
+  entry_writer: xy kromozomu
+  entry_fav_count: 40
+  entry_content: |
+    you cum like never before
 - entry_name: |
     her il ve ilçede en az 1 tane olan dükkan isimleri
   entry_id:  72930435
   entry_writer: hi five ghost
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     (bkz: <a class="b" href="/?q=teras+cafe">teras cafe</a>)
-- entry_name: |
-    2017'de türkiye'de terörün bıçak gibi kesilmesi
-  entry_id:  72930360
-  entry_writer: nexavar
-  entry_fav_count: 33
-  entry_content: |
-    yakınlarda seçim olmadığındandır.
 - entry_name: |
     dünyanın en güzel kokusu
   entry_id:  72927933
   entry_writer: guneyk
-  entry_fav_count: 27
+  entry_fav_count: 31
   entry_content: |
     tiner kokusu.<br/><br/>yeminle burnumdan ciğerlere giderken algılarım açılıyor.<br/><br/>şampiyon beşiktaş.
 - entry_name: |
@@ -199,6 +220,13 @@ data:
   entry_content: |
     o şerefsiz beni de kovaladı. yazar bir arkadaş "sol gözümün bir cm altında gagalama izi hâlâ durur yazmış" yemin ediyorum aynı yerden deşildim, belki de aynı psikopat horozdu. gerçi bizimki ev sahibinin horozuydu; ev sahibimiz amca olayı duyduğu gibi "az daha çocuğun gözünü çıkaracakmış namussuz" deyip derhal horozu kesti, kanını da alnıma sürdü (gaga yarasının 3 cm üstüne) etini de komple bize verdi, ailecek yidik.<br/><br/>o zaman tabii çocuk psikolojisi filân diye bir şey icat edilmemişti, edildiyse de henüz bizim mahalleye gelmemişti zira bizim mahalle epey bi kenardaydı. düşünün yan komşumuzun koyunları filan vardı hatta bu davarlardan biri de <a class="b" href="/?q=avret+mahalli">avret mahalli</a>mden süsmüştü beni. ev sahibimizin gösterdiği duyarlılığı komşudan da bekledik, "az daha çocuğun yımırtalarını patlatacakmış namussuz" gibisine. lakin komşu dayı: "bi süsmeylen dağ gibi koç mu kesilir aminiyum, başka yerde oynasaydı hımbıl velet!!" deyip olayı örtbas etmişti.<br/><br/>her neyse o horozun ruhumda açtığı, şaka şaka o dönem çoçuk kısmının ruhu da yoktu, yüzümde açtığı yaranın izini<sup class="ab"><a title="(bkz: nedbe)" href="/?q=nedbe" data-query="nedbe">*</a></sup> hâlâ gururla taşırım; soran hatunlara 'geçmişte bir kavgadan kalma' diyorum. acayip havam oluyor; gerçekten böyle düşüyor, düşeni eve götürüp koçun süstüğü yeri gösteriyorum. "öpüüm geçsin" diyen oluyor. <br/><br/>sonuç ve fayda: bana göre hayvanlar tarafından kovalanmamış çocuk, çocukluğunu yeterince yaşamamıştır. bakın şahsen benim çocukluğunda kazlar, hindiler hatta eşşekler tarafından kovalanmış arkadaşlarım var; hepsi de çok mutlu, çok düzgün insanlar.
 - entry_name: |
+    ufak tefek cinayetler
+  entry_id:  72932683
+  entry_writer: aporrhais pespelicani
+  entry_fav_count: 23
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"ben azıcığına muhtaçken o hepsini çöpe atıyormuş gibi" betimlemesiyle kalbimi fena halde burkmuştur. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
     bir volkanı durdurmanın yolları
   entry_id:  72927258
   entry_writer: yohari
@@ -206,12 +234,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=wesley+sneijder+ay%c4%b1n%c4%b1n+izinde">wesley sneijder ayının izinde</a>)
 - entry_name: |
-    bir ebeveynin çocuğuna yapacağı en büyük iyilik
-  entry_id:  72914360
-  entry_writer: becauseyouunforgiven
-  entry_fav_count: 23
+    türkçenin uzun cümle kurunca çuvallaması
+  entry_id:  72913631
+  entry_writer: mete han turkyilmaz
+  entry_fav_count: 22
   entry_content: |
-    <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitmek">türkiye'den siktir olup gitmek</a>
+    işte bu tam bir beyni <a class="b" href="/?q=arap%c3%a7a">arapça</a> ve <a class="b" href="/?q=fars%c3%a7a">farsça</a>yla patatese çevrilmiş kişi iddiasıdır. bugünün arap özentilerinin en çok ortaya attığı iddia da bu. türkçe zayıf bir dilmiş de yeterli değilmiş. bir de derler ki "arapça-farsça olmasaydı türkçe böyle zengin olmazdı." zaten amaçları bu şekilde <a class="b" href="/?q=arapperestlik">arapperestlik</a> yapmak.<br/><br/>oysa azıcık türkçe bilgisi edinmiş kişi bunun aslı astarını bilir! gönül koyarım, biraz kitap okuyun. okuyun ve okurken de düşünün.<br/><br/>örneğin osmanlı dönemi seyahatnameleri okuyun. padişah fermanlarını okuyun. sonra ilk roman örneklerimizi ele alın. tanzimat dönemi romanları okuyun. sonra milli edebiyat ve cumhuriyet dönemi eserleri okuyun.<br/><br/>okuyun da özellikle arapça (ve tabii ki farsça) sözcüklerin ve söz diziminin yüzyıllar boyu güzel türkçemizi nasıl parça parça yiyip erittiğini; yüzlerce, binlerce yıllık geçmişi olan sözcükleri öldürdüğünü ve sonra oluşturduğu boşluklara rahat rahat nasıl yerleştiğini görün. <br/><br/>hâlâ daha inanmıyorsanız alın bir <a class="b" href="/?q=b%c3%bcy%c3%bck+t%c3%bcrk%c3%a7e+s%c3%b6zl%c3%bck">büyük türkçe sözlük</a> ve sayfaları dolaşın. ne türkçe sözcükler var, unutulmuş gitmiş. anca bakir köy ağızlarında kalmış bir çoğu. onların da gelişen teknolojiyle birlikte pek bakirliği kalmadı malum.<br/><br/>peki neden unutulmuş? <br/><br/>edebî eserlerinde kullanmaz, sanatsal yazıyla tarihe kazımazsan nasıl unutulmasın? sonra vay efendim türkçe şöyle türkçe böyle. arapça-farsça olmasaydı dil zengin olmazdı, gibi bir sürü zırva. <br/><br/>yahu son bin yıldır tanzimat dönemine kadar kurduğumuz devletlerin resmî ve sanat dili arapça-farsça. eser verilmeyen ve bu şekilde geliştirilmeyen bir dili kendi çocuklarının zayıf diye eleştirmesi tam aptallık. dili değil, o dile değer vermeyen özenti dedelerini eleştir! ama yok, anca dizi izleyip gaza gelmeyi bilirsiniz.<br/><br/>yabancı dillerden tabii ki sözcük alınır, alınacaktır da. hatta alınmıyorsa-verilmiyorsa sorun var demektir. ya siz dünyadan kopmuşsunuzdur ya da dünya sizi tecrit etmiştir ki bu durum değil sadece dili, baştan başa bir milleti öldürür. yani diğer dillerle alışverişte bulunmak doğal bir gerekliliktir ama bu iş ihtiyaç dahilinde yapılır. yeni bir sözcüğe, kavrama, deyişe gerek vardır, alırsınız. teknolojik bir yenilik olur, alırsınız. sosyolojik bir değişim olur, alırsınız ama sen bal gibi "<a class="b" href="/?q=ay">ay</a>" varken "<a class="b" href="/?q=kamer">kamer</a>"i niye alıyorsun kardeşim? "<a class="b" href="/?q=g%c3%bcne%c5%9f">güneş</a>" varken "<a class="b" href="/?q=%c5%9fems">şems</a>", "<a class="b" href="/?q=y%c4%b1ld%c4%b1z">yıldız</a>" varken "<a class="b" href="/?q=necm">necm</a>" nedir? <br/><br/>özentiliktir, ne olacak! <br/><br/>yatın kalkın tanzimat sonrası türkçeye dönüş sevdalısı sanatçı ve fikir adamlarına dua edin.<br/><br/>yoksa hâlâ tek seferde beş on tane "ve" bağlacıyla ya da bol bol arapça-farsça tamlamalarla kurulup bir cümleye hapsedilmiş cümleleri güzel konuşma yazma zannetmeye devam edersiniz böyle.<br/><br/>not: inanmayanlara <a class="b" href="/?q=ahmet+hamdi+tanp%c4%b1nar">ahmet hamdi tanpınar</a> üstadın <a class="b" href="/?q=be%c5%9f+%c5%9fehir">beş şehir</a> adlı eserinden bir örnek verelim:<br/><br/>"alelhusus kulunuz yanında erzurumlu abbas derler bir yiğit vardır. uyvar muharebesinde bi-bâk ü perva kale bedenine çıkıp küffâr-ı hâksâr her çend ki üzerine tüfenk daneleri yağdırırlar, yerinden ayıramayıp düşmana sebat gösterdikçe anı görüp bir yeniçeri dilâveri dahi anın yanına uruc ettiğin sair guzat-ı müslümîn gördükleri saat lücce-i cemiyetleri huruşa gelip zemzeme-i kâfir küş-i tekbir ile cümlesi yekpare yürüyüş ettiklerinde düşmen-i din için adem-i mukavemet mukarrer ve bu tarikle ân-ı vahitte kalenin fethi müyesser oldu, deyu takrir eyledi. şehriyar-ı inayetmedar hazretleri otağdan has odayı teşrif buyurduklarında mezbur abbas'ı hu-zur-ı hümayunlarına getirdip kendüyü vafir istintak buyurduklarından sonra avatıf-ı aliyye-i mülûkânelerinden başına çifte çelenk takıp ve kendü talebiyle hatt-ı hümâyun-u şevket makrunlarıyla erzurum gümrüğü malından yevmî yetmiş beş akçe tekaüt ulufesi ve dört top kumaş ve dört donluk çuha ve vafir sikke-i hasene ihsan ve karındaşına dahi yine erzurum gümrüğünden elli akçe ulufe ve mezbur abbas ile maan bâlâ-yı beden-i kaleye uruc eden yeniçeriye dahi ocağından tekaüt ulufesi verilmesin ferman eylediler." (ra-şid tarihi, ikinci tabı, cilt ı, s. 100).<br/><br/>ne güzel türkçe ama! <br/><br/>bu tarz metinleri okuyup hafakanlar basması gayet doğal çünkü bu dil türkçe değil. özne ve yüklemi türkçe temel üzerine arapça-farsça doldurulmuş bir yüksek zümre dilidir. doğal olmayan, toplum genelinde yerleşmemiş bir konuşma üslubudur. bu tarz cümleleri okurken yaşanan sıkıntı da türkçenin değil, osmanlı yüksek zümre dilinin sorunudur.<br/><br/>türkçe metinlerden tokat gibi örnekler istiyorsanız zahmet olacak ama bin küsür sene önce yazılmış <a class="b" href="/?q=orhun+yaz%c4%b1tlar%c4%b1">orhun yazıtları</a>nı okuyun da ondan sonra iddia ortaya atın.
 - entry_name: |
     peynir uyuşturucu gibi bağımlılık yapıyor
   entry_id:  72929586
@@ -220,13 +248,6 @@ data:
   entry_content: |
     150 yıl önce robert louis stevenson anlamış demek bu durumu.<br/><br/>'define adası' kitabında yıllardır ıssız adada tek başına kalan çocuk, sanırım adı ben gun idi, yıllar sonra ilk kez bir insan gördüğünde çılgın gibi peynir istiyordu. ne ekmek, ne başka birşey.<br/>peynir.<br/><br/>güzel kitaptı, çocukluğumuza da buradan selam olsun.
 - entry_name: |
-    türkçenin uzun cümle kurunca çuvallaması
-  entry_id:  72913631
-  entry_writer: mete han turkyilmaz
-  entry_fav_count: 20
-  entry_content: |
-    işte bu tam bir beyni <a class="b" href="/?q=arap%c3%a7a">arapça</a> ve <a class="b" href="/?q=fars%c3%a7a">farsça</a>yla patatese çevrilmiş kişi iddiasıdır. bugünün arap özentilerinin en çok ortaya attığı iddia da bu. türkçe zayıf bir dilmiş de yeterli değilmiş. bir de derler ki "arapça-farsça olmasaydı türkçe böyle zengin olmazdı." zaten amaçları bu şekilde <a class="b" href="/?q=arapperestlik">arapperestlik</a> yapmak.<br/><br/>oysa azıcık türkçe bilgisi edinmiş kişi bunun aslı astarını bilir! gönül koyarım, biraz kitap okuyun. okuyun ve okurken de düşünün.<br/><br/>örneğin osmanlı dönemi seyahatnameleri okuyun. padişah fermanlarını okuyun. sonra ilk roman örneklerimizi ele alın. tanzimat dönemi romanları okuyun. sonra milli edebiyat ve cumhuriyet dönemi eserleri okuyun.<br/><br/>okuyun da özellikle arapça (ve tabii ki farsça) sözcüklerin ve söz diziminin yüzyıllar boyu güzel türkçemizi nasıl parça parça yiyip erittiğini; yüzlerce, binlerce yıllık geçmişi olan sözcükleri öldürdüğünü ve sonra oluşturduğu boşluklara rahat rahat nasıl yerleştiğini görün. <br/><br/>hâlâ daha inanmıyorsanız alın bir <a class="b" href="/?q=b%c3%bcy%c3%bck+t%c3%bcrk%c3%a7e+s%c3%b6zl%c3%bck">büyük türkçe sözlük</a> ve sayfaları dolaşın. ne türkçe sözcükler var, unutulmuş gitmiş. anca bakir köy ağızlarında kalmış bir çoğu. onların da gelişen teknolojiyle birlikte pek bakirliği kalmadı malum.<br/><br/>peki neden unutulmuş? <br/><br/>edebî eserlerinde kullanmaz, sanatsal yazıyla tarihe kazımazsan nasıl unutulmasın? sonra vay efendim türkçe şöyle türkçe böyle. arapça-farsça olmasaydı dil zengin olmazdı, gibi bir sürü zırva. <br/><br/>yahu son bin yıldır tanzimat dönemine kadar kurduğumuz devletlerin resmî ve sanat dili arapça-farsça. eser verilmeyen ve bu şekilde geliştirilmeyen bir dili kendi çocuklarının zayıf diye eleştirmesi tam aptallık. dili değil, o dile değer vermeyen özenti dedelerini eleştir! ama yok, anca dizi izleyip gaza gelmeyi bilirsiniz.<br/><br/>yabancı dillerden tabii ki sözcük alınır, alınacaktır da. hatta alınmıyorsa-verilmiyorsa sorun var demektir. ya siz dünyadan kopmuşsunuzdur ya da dünya sizi tecrit etmiştir ki bu durum değil sadece dili, baştan başa bir milleti öldürür. yani diğer dillerle alışverişte bulunmak doğal bir gerekliliktir ama bu iş ihtiyaç dahilinde yapılır. yeni bir sözcüğe, kavrama, deyişe gerek vardır, alırsınız. teknolojik bir yenilik olur, alırsınız. sosyolojik bir değişim olur, alırsınız ama sen bal gibi "<a class="b" href="/?q=ay">ay</a>" varken "<a class="b" href="/?q=kamer">kamer</a>"i niye alıyorsun kardeşim? "<a class="b" href="/?q=g%c3%bcne%c5%9f">güneş</a>" varken "<a class="b" href="/?q=%c5%9fems">şems</a>", "<a class="b" href="/?q=y%c4%b1ld%c4%b1z">yıldız</a>" varken "<a class="b" href="/?q=necm">necm</a>" nedir? <br/><br/>özentiliktir, ne olacak! <br/><br/>yatın kalkın tanzimat sonrası türkçeye dönüş sevdalısı sanatçı ve fikir adamlarına dua edin.<br/><br/>yoksa hâlâ tek seferde beş on tane "ve" bağlacıyla ya da bol bol arapça-farsça tamlamalarla kurulup bir cümleye hapsedilmiş cümleleri güzel konuşma yazma zannetmeye devam edersiniz böyle.<br/><br/>not: inanmayanlara <a class="b" href="/?q=ahmet+hamdi+tanp%c4%b1nar">ahmet hamdi tanpınar</a> üstadın <a class="b" href="/?q=be%c5%9f+%c5%9fehir">beş şehir</a> adlı eserinden bir örnek verelim:<br/><br/>"alelhusus kulunuz yanında erzurumlu abbas derler bir yiğit vardır. uyvar muharebesinde bi-bâk ü perva kale bedenine çıkıp küffâr-ı hâksâr her çend ki üzerine tüfenk daneleri yağdırırlar, yerinden ayıramayıp düşmana sebat gösterdikçe anı görüp bir yeniçeri dilâveri dahi anın yanına uruc ettiğin sair guzat-ı müslümîn gördükleri saat lücce-i cemiyetleri huruşa gelip zemzeme-i kâfir küş-i tekbir ile cümlesi yekpare yürüyüş ettiklerinde düşmen-i din için adem-i mukavemet mukarrer ve bu tarikle ân-ı vahitte kalenin fethi müyesser oldu, deyu takrir eyledi. şehriyar-ı inayetmedar hazretleri otağdan has odayı teşrif buyurduklarında mezbur abbas'ı hu-zur-ı hümayunlarına getirdip kendüyü vafir istintak buyurduklarından sonra avatıf-ı aliyye-i mülûkânelerinden başına çifte çelenk takıp ve kendü talebiyle hatt-ı hümâyun-u şevket makrunlarıyla erzurum gümrüğü malından yevmî yetmiş beş akçe tekaüt ulufesi ve dört top kumaş ve dört donluk çuha ve vafir sikke-i hasene ihsan ve karındaşına dahi yine erzurum gümrüğünden elli akçe ulufe ve mezbur abbas ile maan bâlâ-yı beden-i kaleye uruc eden yeniçeriye dahi ocağından tekaüt ulufesi verilmesin ferman eylediler." (ra-şid tarihi, ikinci tabı, cilt ı, s. 100).<br/><br/>ne güzel türkçe ama! <br/><br/>bu tarz metinleri okuyup hafakanlar basması gayet doğal çünkü bu dil türkçe değil. özne ve yüklemi türkçe temel üzerine arapça-farsça doldurulmuş bir yüksek zümre dilidir. doğal olmayan, toplum genelinde yerleşmemiş bir konuşma üslubudur. bu tarz cümleleri okurken yaşanan sıkıntı da türkçenin değil, osmanlı yüksek zümre dilinin sorunudur.<br/><br/>türkçe metinlerden tokat gibi örnekler istiyorsanız zahmet olacak ama bin küsür sene önce yazılmış <a class="b" href="/?q=orhun+yaz%c4%b1tlar%c4%b1">orhun yazıtları</a>nı okuyun da ondan sonra iddia ortaya atın.
-- entry_name: |
     sims'te para şifresi yazmayıp işe giden insan
   entry_id:  72930938
   entry_writer: ofis canlisiyim multinetle beslenirim
@@ -234,26 +255,12 @@ data:
   entry_content: |
     kapitalist sistemin kopegi olmustur.
 - entry_name: |
-    ufak tefek cinayetler
-  entry_id:  72932683
-  entry_writer: aporrhais pespelicani
-  entry_fav_count: 19
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"ben azıcığına muhtaçken o hepsini çöpe atıyormuş gibi" betimlemesiyle kalbimi fena halde burkmuştur. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
     arda turan
   entry_id:  72928168
   entry_writer: yarasiz yuz
-  entry_fav_count: 16
+  entry_fav_count: 19
   entry_content: |
     beşiktaş'a gelirse caner'le beraber birlik olur takımı karıştırırlar. şenol güneş sene sonu kaçar, fikret forest istifa etmek zorunda kalır. arda turan "olsun adamız biz" demeye devam eder.
-- entry_name: |
-    fatih terim
-  entry_id:  72914983
-  entry_writer: mordor tinercisi
-  entry_fav_count: 12
-  entry_content: |
-    umarım gelir. ama şöyle bol sıfırlı bir kontrat ile. kovulduğunda ise milli takımda olduğu gibi okkalı bir tazminat almalı tabi bir de. <br/><br/>umarım gelir ki fatih kerim allah terimci embesil tayfa dileğine bir an önce kavuşur.<br/><br/>adamlar o kadar dangalak ki 3 sene önce galatasaray'a operasyon yapıldığını, aysal'ın terim'i kovduğunu düşünüyor.<br/><br/>ulan ünal aysal bunun önüne 2 yıllık sözleşmeyi koyup gayet şeffaf bir şekilde süreci yönetirken, kapalı kapılar ardında galatasaray'a büyük kazıklar atan tüpçüyle oynaşıp gs başkanının telefonlarına çıkmayan kimdi? zorla kovdurdu kendini ama aptal olmadığı için mağduru oynayarak, aptalların gözünde kahraman olarak gitti. bir de üstüne aslolan galatasaray'dır diye rol kesip takımı satmasına rağmen hala müritleri fink atıyor ortada. ne midesizsiniz lan.<br/><br/>fenerbahçe, kebapçının reklamını alırsa iyi güleriz ama<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>türkiye'nin en kolpa en yavşak taraftarı bizimkiler ya her durumda belli ediyorlar. musleramızın başını da yiyecek puştlar.
 - entry_name: |
     geceye bir underrated film tavsiyesi bırak
   entry_id:  72916877
@@ -269,26 +276,12 @@ data:
   entry_content: |
     biraz önce geldim sinemadan, söyleyecek tek sözüm var; finn ve rose karakterlerini star wars evrenine koyanlara allah akıl fikir versin...
 - entry_name: |
-    demba ba
-  entry_id:  72927782
-  entry_writer: mc43
-  entry_fav_count: 7
+    19 aralık 2017 fenerbahçe doğuş kızılyıldız maçı
+  entry_id:  72933038
+  entry_writer: 6 ustu bir mac 0 kadar abartmayalim
+  entry_fav_count: 6
   entry_content: |
-    bıktırdı valla<br/><br/>bu adam en son maça yine bizimle çıktı<br/><br/>bizimle. yani geçen sene mayıs ayında<br/><br/>geçen sene de martta sahada deniyordu<br/><br/>cenki satıp yerine bunu koymak ilhan mansızı satıp yerine adrian ilieyi getirmekten daha vizyonsuz olur<br/><br/>fikret başkanın böyle birşey yapacağını sanmıyorum<br/><br/>edit : bizimle geçen sene oynadığı maçlarda aldığı süre 25 dakika. as forveti satıp yerine bu adamı koymak isteyenlere acil şifalar dilerim
-- entry_name: |
-    türklere özgü ikna yöntemleri
-  entry_id:  72925003
-  entry_writer: brhmdrcn
-  entry_fav_count: 5
-  entry_content: |
-    bizzat yaşanmıştır.<br/>kendini asmak için ağaca çıkan ve kimsenin ikna edemediği oğlunu görünce, "-o dal seni tartmaz oğlum, diğerine as." diyen baba. <br/>neticesinde çocuk hayal kırıklığıyla aşağıya inmiştir.
-- entry_name: |
-    domagoj vida
-  entry_id:  72921204
-  entry_writer: saladze
-  entry_fav_count: 5
-  entry_content: |
-    türk spor basını hakkındaki haberleri öyle yalama etti ki artık domagoj vida'nın ve dinamo kiev'in adını görmek bile mide bulantısı yaratıyor bende. <br/><br/>te haziran ayında anlaşmıştık güya bu adamla. alınmıştı. boyko + 2-3 milyon euro'ya bizdeydi. sonra o iş yalan oldu. vazgeçildi transferinden dendi.<br/><br/>1-2 ay sonra ocak için söz kesildi denildi. ocak'ta vida geliyor dendi. okey.<br/><br/>bikaç gün önce vida'yı ingiltere istiyormuş beşiktaş hiç karışmadan imzalattığı protokol ile 5 milyon euro'yu kasasına koyacak hikayesi patladı ki piyasadaki en kolpa haber bu bence. mario gomez'i 1 milyon euro'ya aldık haberi gibi. medyada bazı isimler var böyle abuk subuk saçmasapan haberlerle beşiktaş, beşiktaş yönetim ve başkan yağlaması yapıyor. bu konuda 3 isim var. 1 serdar sarıdağ, 2 hakan gündoğar gereksizi, 3 turgay demir fanatiği. bunların hiçbir dediğine inanmıcaksın.<br/><br/>şimdi de vida dinamo kiev ile yeniden sözleşme uzatıp, protokolü boşa çıkartıp ingiltere'ye gidecek haberleri var.<br/><br/>lütfen vida havaalanına ininceye kadar artık vida konuşulmasın. gerçekten artık bıktırdı. hayır gelip beşiktaş'ı kurtaracak sanki.
+    kızılyıldız koçunun teknik faul aldığı için antiç i azarlamaya başlayınca fenerbahçe tarafından azari yiyip sustuğu maçtır. <br/><br/>sen kimin sahasında kimi azarlıyorsun götlek.
 - entry_name: |
     bitcoin
   entry_id:  72920506
@@ -297,12 +290,12 @@ data:
   entry_content: |
     şahsen benim için <a class="b" href="/?q=mehmet+%c5%9fim%c5%9fek">mehmet şimşek</a> ve <a class="b" href="/?q=nihat+zeybek%c3%a7i">nihat zeybekçi</a>‘nin bu sanal para hakkında; “saadet zinciridir”, “lale çılgınlığıyla aynıdır” gibi alakasız beyanlarda bulunmasından sonra güvenirliliğiyle ilgili aklımda en ufak bir soru işareti kalmamıştır. bu adamlar ne söylüyorsa aksini gönül rahatlığıyla yapabilirsiniz.
 - entry_name: |
-    kıvılcım ural
-  entry_id:  72925644
-  entry_writer: ozsercehacer
+    öğrencilerin şiddete şiddetle cevap verme hakkı
+  entry_id:  72914245
+  entry_writer: zoranlasilanbilge
   entry_fav_count: 4
   entry_content: |
-    kendi deyimiyle 'kaliteli ve herkesin anlayamayacağı besteler yapan şarkıcı(!)' gerçekte olansa kaan tangöze'yle öpüşürken görüntülendikten sonra ünlü olan ve kimsenin tek bir şarkısını dahi duymadığı kişi. <br/><br/>aynı zamanda tam bir ironi ve yüzsüzlük abidesidir kendisi. evli ve çocuk sahibi olduğunu bile bile bir insanla ilişki yaşayıp, o evliliğin bitmesine sebep olduğu halde 'o çocukları annelerinden çok ben düşünüyorum' deme hadsizliğini gösterebilmiştir. gerçekten pes.<br/><br/>bugün seçkin piriler hakkında çocuklarına kötü davrandığına yönelik çıkan haberleri kendisinin yaptırdığı söyleniyor. 7 yaşındaki oğlunu evden kovmuş-muş. böyle haberler çıkarıp üzerinden 'çocukları düşünüyorum çok vicdanlıyım:((' imajı yaratmaya çalışacak kadar sorunlu biri midir? sanırım evet. seçkin piriler'in çocuklarına inanılmaz düşkün olduğunu ve gerçekten iyi kalpli bir insan olduğunu biliyorum. kendisiyle tanışıklığım var. ben dahil kimse bir annenin böyle bir şey yapmayacağını bilir ama bu kadının ne yapmaya çalıştığını aklı şeytanlığa çalışmayan kimse bilemez, anlayamaz. ben de anlayabilmiş değilim.
+    evet tüm kurallara uyalım ne güzel olur. derste hayvan sesleri çıkarmasın öğrenciler, sakallı okula gelmesin, öğretmeni kafaya almaya calismasin, arkadaşları ile kavga etmesin.<br/><br/>öğretmenler de ogrencileri dövmesin küçük düşürücü davranışlarda bulunmasin, haksiz yere düşük not vermesin. bak ne guzel anlaştık.<br/><br/>şimdi yukaridakine bakalım kaç öğrenci dersi bölüyor? kaç öğrenci arkadaşları ile kavga ediyor? kaç öğrenci kıyafet kurallarını bozuyor? sayamiyoruz sayaç bozuldu.<br/><br/>kaç öğretmen öğrenci dövüyor? kaç öğretmen haksiz yere not kırıyor? istisna ve çok az. şimdi sen düşün küçük bey.
 - entry_name: |
     iota
   entry_id:  72923860
@@ -311,12 +304,19 @@ data:
   entry_content: |
     konuyla ilgili soru moru gelmiyor onlarca. totonuzdan element uydurup sanki böyle bir durum varmış gibi işi binance referansına bağlamayın. yeter artık ne yüzsüzlük yahu bu.<br/><br/>bu ne rezilliktir ya. 2 adımda bir anlatılmış zaten sayfalarca sayenizde; "çık sırı giliyir idim idim inllitiyirim bi di binins rif kidim."<br/><br/>laned ossun baynensinize de ayotanıza da.
 - entry_name: |
-    19 aralık 2017 fenerbahçe doğuş kızılyıldız maçı
-  entry_id:  72933038
-  entry_writer: 6 ustu bir mac 0 kadar abartmayalim
+    alternatif cafe isimleri
+  entry_id:  72932149
+  entry_writer: horlayan balik
+  entry_fav_count: 4
+  entry_content: |
+    inşa at avrat nargile kafe
+- entry_name: |
+    18 aralık 2017 fenerbahçe'ye yapılan eyyam
+  entry_id:  72932979
+  entry_writer: s p q r
   entry_fav_count: 3
   entry_content: |
-    kızılyıldız koçunun teknik faul aldığı için antiç i azarlamaya başlayınca fenerbahçe tarafından azari yiyip sustuğu maçtır. <br/><br/>sen kimin sahasında kimi azarlıyorsun götlek.
+    2 yıldır harika yönetilen süper ligin her nasılsa son birkaç haftadır kirlendiğini gösteren olay. merak etmeyin yıl sonunda fenerbahçe şampiyon olamaz ise bu lig yine sütten çıkmış ak kaşık olacaktır.
 - entry_name: |
     ekşi itiraf
   entry_id:  72926848
@@ -325,26 +325,26 @@ data:
   entry_content: |
     hayatımda 2 kere psikoloji testine girdim ve ikisinde de psikopat çıktım sözlük.<br/><br/>babam vefat edince beylik tabancası bana kaldı. biz de annemle konuştuk ne yapsak diye. dedim olmazsa ruhsat alayım dursun bir kenarda. onun için de test yapıyorlarmış devlet hastanesinde. neyse efendim psikiyatri polikliniğine gittim böyle 500 küsür soruluk bir test verdiler bana. adı da minnesota çok yönlü kişilik envanteri imiş. dediler git bunu yap gel. testte de garip garip sorular var. yok afrika'da aslan avlamak ister misiniz? yok akşamları karanlıkta yürürken sizi birisinin takip ettiği hissine kapılır mısınız? mesela ben bu iki soruda da hayırı işaretlemiştim. <sup class="ab"><a title="(bkz: buna rağmen nasıl psikopat çıktım lan ben)" href="/?q=buna+ra%c4%9fmen+nas%c4%b1l+psikopat+%c3%a7%c4%b1kt%c4%b1m+lan+ben" data-query="buna rağmen nasıl psikopat çıktım lan ben">*</a></sup> işte şu gün gel sonuç için dediler ben de gittim.<br/><br/>günü gelince sonuç için gittim hastaneye. hoca sonuç zarfını bir açtı. hayvan kadar psikopatik eğilimli bişey bişey yazıyor. doktor bana bakıyor ben doktora. sonra ikimiz birden dönüp kağıda bakıyoruz. arada "cık cık cık" "allah allaaaah" "insan gerçekten hayret ediyor" tarzında şaşırıyoruz. hadi ben şaşırıyorum normal olarak da doktor neye bu kadar şaşırdı orasını hiç anlamadım. doktor dedi sana bu şekilde silah ruhsatı alabilir raporu veremem. seni en yakın ruh ve sinir hastalıkları hastanesine sevk edicem bir de orada test yapılacak. dedim ulan başımıza iş aldık durduk yere. dur pederin silah süs eşyası olmasın bari ruhsat alayım diye hastaneye gidip ayaküstü deli gömleğini giyecektim neredeyse. ama gurur yaptım dedim sevk et lan nolucaksa olsun.<br/><br/>gittim manisa ruh ve sinir hastalıkları hastanesine orada da bir teste soktular. dediler ki evladım sen silah alamazsın. ben de dedim ulan askerde 15 ay tüfeklerle halay çektirirken öyle demiyodunuz? sorum cevapsız kaldı tabi <sup class="ab"><a title="(bkz: ne bilsin lan adam)" href="/?q=ne+bilsin+lan+adam" data-query="ne bilsin lan adam">*</a></sup> <sup class="ab"><a title="(bkz: senin askerde neyle ne yaptığını)" href="/?q=senin+askerde+neyle+ne+yapt%c4%b1%c4%9f%c4%b1n%c4%b1" data-query="senin askerde neyle ne yaptığını">*</a></sup> yalnız bu doktor sanırım bende bir ted bundy havası görmüş olacak ki "dur bir şeyler yaparız. ben bu testlerde bir sorun olduğunu düşünüyorum" dedi. ve ekledi " üstünü çıkartır mısın?" kendi kendime "yaa diyorum şimdi konunun bununla ne alakası var. acaba bunlarda mı sırt dinleyip öksür falan diyor. rica etsem de direkt gömleği mi getirseler. hem psikopatım madem belki hannibal gibi maske falan da takarlar namım yürür." o ara derinlerden "çıkar çıkar da bir bakayım" diye sesi geldi yine doktorun. bunu sen istedin diyerek çıkardım bende üstümü. kollarıma, sırtıma, boynuma falan baktı. dedi tamam giyinebilirsin. ben bu raporu onaylıyorum ruhsatını alabilirsin. hocam sizin birimde işlerin böyle yürüdüğünü bilsem buralara gelmeden edremit'te soyunurdum asghhfdhashk gibi gereksiz bir samimiyete girmeme rağmen adam onayladı raporumu.<br/><br/>tamam raporu aldım ama yol boyunca eve dönene kadar "benim içimde hakkatten bir cani mi var lan acaba" diye düşündüm durdum. eve geldim kapıdan girer girmez ilk lafım "anne biz bu silahı bağışlayalım yaa" oldu. kadın daha ne olduğunu anlamadan paldır küldür savcılığa gidip dilekçeyle emniyete bağışladık silahı. <sup class="ab"><a title="(bkz: zaten benim ne işim olur lan silahla)" href="/?q=zaten+benim+ne+i%c5%9fim+olur+lan+silahla" data-query="zaten benim ne işim olur lan silahla">*</a></sup> <sup class="ab"><a title="(bkz: ben taramalı tüfek seviyorum)" href="/?q=ben+taramal%c4%b1+t%c3%bcfek+seviyorum" data-query="ben taramalı tüfek seviyorum">*</a></sup><br/><br/>demem o ki; anacım sen o gün benim o yersiz ısrarımı anlayamadın. ben de yüreğine inmesin diye sana bir türlü işin doğrusunu söyleyemedim. izmir'e arkadaşlarımı görmeye değil manisa'ya ruh ve sinir hastalıkları hastanesinde doktora soyunarak piskopat olmadığımı kanıtlamak için gittim. ama gurur duy anne oğlun bunu yaparak belki de tıp literatüründe bir ilki gerçekleştirdi. üstsüz halimi gören doktor iki tane koskoca testi hiç yapılmamış gibi sayarak bana olumlu rapor verdi. <sup class="ab"><a title="(bkz: keşke test sırasında sıkılıp)" href="/?q=ke%c5%9fke+test+s%c4%b1ras%c4%b1nda+s%c4%b1k%c4%b1l%c4%b1p" data-query="keşke test sırasında sıkılıp">*</a></sup><sup class="ab"><a title="(bkz: rastgele işaretlemeye başlamasaydım)" href="/?q=rastgele+i%c5%9faretlemeye+ba%c5%9flamasayd%c4%b1m" data-query="rastgele işaretlemeye başlamasaydım">*</a></sup>
 - entry_name: |
-    18 aralık 2017 fenerbahçe'ye yapılan eyyam
-  entry_id:  72932979
-  entry_writer: s p q r
-  entry_fav_count: 2
-  entry_content: |
-    2 yıldır harika yönetilen süper ligin her nasılsa son birkaç haftadır kirlendiğini gösteren olay. merak etmeyin yıl sonunda fenerbahçe şampiyon olamaz ise bu lig yine sütten çıkmış ak kaşık olacaktır.
-- entry_name: |
-    ismail köybaşı
-  entry_id:  72924199
-  entry_writer: hele buna
-  entry_fav_count: 1
-  entry_content: |
-    ahahaa.. valbuena 'nın gol sevincini piç edip azarını oracıkta işiten loser topçu.<br/><br/>chelsea - beşiktaş maçında da aynısını sergen'e yapan okan koç zılgıtı yemişti sol ayaklı futbol tanrımızdan. <br/><br/>ünlü birinin fotosu çekilirken kadraja girmeye çalışan kaldırım balicileri gibi amk.. bsg artık . . .
-- entry_name: |
-    inşa aşamasındaki cafe için isim önerileri
-  entry_id:  72933502
-  entry_writer: ekşisözlük
+    geceye bir beşiktaş golü bırak
+  entry_id:  72915721
+  entry_writer: fenafillah
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=alternatif+cafe+isimleri">alternatif cafe isimleri</a>)
+    (bkz: <a class="b" href="/?q=en+iyi+oyuncunuzu+al%c4%b1r%c4%b1z+yedek+b%c4%b1rak%c4%b1r%c4%b1z.">en iyi oyuncunuzu alırız yedek bırakırız.</a>)
+- entry_name: |
+    eşek gibi çalıştıktan sonra kadın dırdırı dinlemek
+  entry_id:  72931576
+  entry_writer: gercekgibiyalanruyagorenadam
+  entry_fav_count: 0
+  entry_content: |
+    kadın gibi çalışıp akşama bir eşşeğin anırtısını dinlemekten kötü olamaz.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  72913761
+  entry_writer: ortamciblader
+  entry_fav_count: 0
+  entry_content: |
+    amacını hala çözemediğim başlık. genelleme yapmak istemiyorum ama küçücük bir ihtimal olsada sevişebilme imkanı elde etmek için insanoğlunun yapmayacağı delilik yok. 31 çekin hacılar ne demişler sex hayalgücünü öldürür mastürbasyon körükler. dirtlişmik istiyinlir yisillendirsin.
 - entry_name: |
     btcturk
   entry_id:  72932395
