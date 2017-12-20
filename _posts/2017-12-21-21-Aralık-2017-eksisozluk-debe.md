@@ -3,19 +3,19 @@ layout: post
 title: 21 Aralık 2017 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    migros'ta 69.90 tl'ye satılan 2018 yılbaşı sepeti
-  entry_id:  72944033
-  entry_writer: bialo czerwoni
-  entry_fav_count: 492
-  entry_content: |
-    ''*selpak collection peçete 33x33 '' ile yeni yıla abdestsiz girmek isteyen yalnızlara da selamı çakmıştır.
-- entry_name: |
     yılbaşı rezaleti son bulsun
   entry_id:  72943829
   entry_writer: kel imana gel
-  entry_fav_count: 491
+  entry_fav_count: 503
   entry_content: |
     oo yurtdisi gormus comar.<br/><br/>kaporta degisiyor ama zihniyet hala ayni.<br/><br/>comar her yerde comar.<br/><br/>tanim: comar feryadi.
+- entry_name: |
+    migros'ta 69.90 tl'ye satılan 2018 yılbaşı sepeti
+  entry_id:  72944033
+  entry_writer: bialo czerwoni
+  entry_fav_count: 498
+  entry_content: |
+    ''*selpak collection peçete 33x33 '' ile yeni yıla abdestsiz girmek isteyen yalnızlara da selamı çakmıştır.
 - entry_name: |
     şişman kızla sevgili olan erkek
   entry_id:  72937800
@@ -27,79 +27,86 @@ data:
     adana'da suriyeli kasabın fare eti satması
   entry_id:  72946856
   entry_writer: anani siken kadi
-  entry_fav_count: 342
+  entry_fav_count: 344
   entry_content: |
     suriyeli din kardeşlerinden alışveriş yaparak onlara destek olan dini bütün mü'min vatandaşlarımıza afiyet olsun diyorum. daha beterini yemeniz lazımdı ama şimdilik bunla idare ediverin.
 - entry_name: |
     ali ece
   entry_id:  72949793
   entry_writer: madmen
-  entry_fav_count: 313
+  entry_fav_count: 321
   entry_content: |
     herkesin içerisinde amirini küçük düşürücü söz söyleyerek alenen çıkıntılık yapan isimmiş.<br/><br/>biz buna halk arasında göte göt demek diyoruz... ''amiri'', patronu, ceo'su fark etmez, eğer bir insan cesursa düşündüğü her şeyi açıkça yazar ya da söyler çalıştığı kurumda, bu yüzden ali ece de doğruyu yapmıştır her zamanki gibi. tabii bırakın üst yönetimi eleştirmeyi, çalıştığı şirkette üstlerine elinden gelen her türlü yalakalığı yapan omurgasız karakter yoksunu insanların bunu anlamasını bekleyemeyiz. <br/><br/>8-6 çalışıp ev ve araba kredinizi ödemeye devam edin siz.
 - entry_name: |
     aralık 2017 bavul dergi rezaleti
   entry_id:  72939018
   entry_writer: mickey isedi
-  entry_fav_count: 288
+  entry_fav_count: 291
   entry_content: |
     yazının sahibi <a class="b" href="/?q=asl%c4%b1+tohumcu">aslı tohumcu</a>. twitter'ında şöyle demiş "bu ay bavul dergi'de 5harfliler.com'dan esinle erkeklerin ağzından gerçek taciz hikayeleri yazdım.<a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aslitohumcu/status/940853533368291330" title="https://twitter.com/aslitohumcu/status/940853533368291330">"</a><br/><br/>5harfliler.com'daki yazı da <a rel="nofollow noopener" class="url" target="_blank" href="http://www.5harfliler.com/biraz-da-erkekler-anlatsin/" title="http://www.5harfliler.com/biraz-da-erkekler-anlatsin/">şu</a>. bu yazı da aslında birden çıkmış değil. türkiye'deki #sendeanlat kampanyası gibi kadınların uğradıkları tacizleri yazdığı #metoo etiketi twitter'da ve facebook'ta yayılıyor. bu etiketin çıkış noktası da son zamanlarda sık sık duyduğumuz hollywood tacizlerine dayanıyor. abartısız milyonlarca kadın bu etiket altında yaşadıkları tacizleri anlatırken okuyan pek çok erkeğin tepkisi tıpkı #sendeanlat etiketinde olduğu gibi; "inanamıyorum, bunu yapan insan olamaz, midem bulandı, başım döndü, bütün erkekler böyle değil, kadınlara sahip çıkalım vs vs" ekseninde dönüyor. bir kısım erkek de #howiwillchange (nasıl değişeceğim?) konulu başka bir etiketle hem kadınlara destek veriyor hem de kadınlardan tavsiye istiyor.<br/><br/>sonrasında ise 5harfliler.com'daki yazıda da belirtildiği üzere israilli aktivist bir kadın çıkıp; kadınların uğradıkları tacizleri anlattığı yeter, değişmek istiyorsanız önce özeleştiri verin bir #metoo etiketi de siz açıp yaptığınız ve pişman olduğunuz tacizleri yazın diyerek; örnekler veriyor.<br/><br/>verilen örnekler net, çarpıcı, edebiyat kasmadan olduğu gibi yazılmış. tavsiyenin amacı özeleştiri verilmesini sağlamak, yaptığından utanan erkeklerin de olduğunu göstermek, tacizin sadece kadının üzerine yığılmasına bir nebze de olsa engel olmak. çünkü ne kadar duyarlı olursa olsun bir erkek; kadına yönelik tacizi gözüyle görmediği sürece tahayyül etmekte zorlanabiliyor. hemcinslerinin ne kadar ileri gidebileceğini haberlerde görse de bizzat birinci ağızdan duymadıkça hayatın içerisinde konumlandıramayabiliyor. <br/><br/>bu kadar uzattıktan sonra asıl mevzu bahis "yazıya" geldiğimizde ise karşımıza ciddi anlamda büyük bir sorun çıkıyor. 5harflilerde yayınlanan yazıdaki, israilli aktivist bir kadının yazısındaki erkeklere "yazın" diye tavsiye edilenle, aslı tohumcu namlı şahsiyetin yazdığı arasındaki zihniyet ve söylem farkı o kadar bariz ki! <br/><br/>kendini kadın hakkı savunucusu olarak tanımlayan bir kadın '90ların internet sitelerindeki erotik hikayeler formatında bir şeyler yazıp; bunu "taciz karşıtlığı" olarak pazarlıyor. bir ilkokul çocuğunu merkez alarak açık açık neredeyse yazılı çocuk pornosu sahnesini bir derginin sayfaları arasında oynatıyor. asıl sorun ise bunu yaparken kullandığı üslup! pişmanlıklarınızı paylaşın diye ortaya atılmış bir fikri; pişman olmak şöyle dursun yaptığını anlatırken tekrar zevke gelen birinin ağzıyla yazıyor. <br/>çarpıcı olsun, tiksindirici olsun diye bu şekilde yazmış denilebilir. ama hepimizin algısının yeteceği şekilde yazı tiksindirici değil, tacizci-pedofil birilerinin hayal edip zevk alabileceği kadar özendirici. <br/><br/>bavul, ot, kafa vb. cehaletinin farkında olamayacak kadar kibirli lümpen kesime sığ bile denemeyecek kadar rezil bir muhaliflik pazarlamaktan, ortazekalılığın alametifarikası sözlerle "marjinal ve zeki" gözükmeye çalışan yazarlarla dolup taşmaktan başka hiçbir işe yaramayan bu dergilerden çok da bir şey beklememek lazım aslında ama insan yine de bir dur durak noktaları olmasını istiyor. marjinal olacağız, muhalif gözükeceğiz diye derginin orta yerine çocuk pornosu yazmamalarını bekliyor!<br/><br/><a class="b" href="/?q=yeni+t%c3%bcrkiye">yeni türkiye</a>'nin yeni edebiyatına ait yeni yazarı tarafından yazılmış bir yazı; hepimize hayırlı olsun.<br/><br/>edit: twitter'dan da kendisine karşı en kalbî duygularımı ileteyim dedim ama hanım abla twitterını kilitlemiş. neymiş yazdıkları kendi başına gelenlermiş. canım ya! bu tipler yazar, aydın, solcu, ilerici, muhalif gibi sıfatları haiz oluyor. bu sapık yazılarını eleştiren bizler de hiçbir şeyden anlamayan sanat düşmanı, kadın bile olsak kadın düşmanı gericiler oluyoruz.
-- entry_name: |
-    taksim'deki yılbaşı kutlaması yasağı
-  entry_id:  72945377
-  entry_writer: ates senturk
-  entry_fav_count: 270
-  entry_content: |
-    başa tutturulan <a class="b" href="/?q=d%c3%bczenleme">düzenleme</a>: şimdi de emniyet müdürlüğü <a class="b" href="/?q=anadolu+ajans%c4%b1">anadolu ajansı</a>'nın yaptığı habere ilişkin öyle bir şey demedik diyor. "yasak yok tedbir var" diyorlar. hükumete yakın anadolu ajansı'nın yaptığı yalan habere karşılık yaptırım olacak mı acaba? ben hiç sanmıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/son-dakika-taksim-icin-yilbasi-muammasi-yasak-yok-yogun-guvenlik-onlem-var-2139557/" title="http://www.sozcu.com.tr/2017/gundem/son-dakika-taksim-icin-yilbasi-muammasi-yasak-yok-yogun-guvenlik-onlem-var-2139557/">kaynak</a><br/><br/>emniyet müdürü demiş, terör bu şekilde önlenecekmiş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/turkiye/taksimde-yilbasi-kutlamasi-yapilmayacak,qqQlQ-ZtkEegs9vkVqax4Q" title="https://www.ntv.com.tr/turkiye/taksimde-yilbasi-kutlamasi-yapilmayacak,qqQlQ-ZtkEegs9vkVqax4Q">kaynak</a><br/><br/>ek olarak toplanmak da yasak denmiş. taksim'e normal zamanda gitsen bile topluluk oluşuyor zaten. sizin göreviniz terörü önlemek, olmaması için insanları sokaklardan uzak tutmak değil. <br/><br/>birisi de demiş işte taciz var iyi karar vermişler. bak bak kafaya bak. o zaman arabalar da tümden yasaklansın hiç trafik kazası olmaz değil mi einstein?<br/><br/>çok ilginç acaba cuma namazlarına saldırı olsa cuma namazını mı yasaklayacaklar? böyle mantık mı olur? <br/><br/><a class="b" href="/?q=d%c3%bczenleme">düzenleme</a> 2: rezalettir.<br/><br/><a class="b" href="/?q=d%c3%bczenleme">düzenleme</a> 3: yahu arkadaşlar siz hasta mısınız ben taksim'de yılbaşı mükemmel kutlanır mı diyorum? ben oraya gidecektim gidemiyorum mu diyorum? <br/><br/>esas soru şu: taksim bir çok inanca ve kültüre ev sahipliği yapmış bir yer. insanlar bu tarihi yerde neden top-la-na-mı-yor? <br/>terör örgütlerinin amacı da ülkedeki işleyişi değiştirmek değil midir? yüreklere korku salmak değil midir? ekonomiyi baltalamak değil midir? terör saldırılarıyla 80 milyonu öldüremeyeceklerini biliyorlar herhalde. bazı arkadaşlar lütfen birazcık düşünerek konuşsun. <br/><br/>ek olarak tacize alışmış olmanız da, bunu normalleştirmeniz de ahlaki olarak ne kadar yozlaştığınızı gösterir. size ve ülkemdeki sizin gibi düşünenlere üzülüyorum.
 - entry_name: |
     akıllı telefonların elimizden aldıkları
   entry_id:  72940707
   entry_writer: buraya ne yaziyoz
-  entry_fav_count: 269
+  entry_fav_count: 270
   entry_content: |
     ya ota boka şikayet ediyorsunuz. ne bu nostalji kardeşim kimse sana kitap okuma mı diyor? teknoloji sana elektronik kitap okuma cihazları veriyor ve tek cihazda binden fazla kitap tutup okuyabiliyorsun ama sen kalkıp "kitabın o güzel kokusu, ah o restoran konuşmaları" diyorsun. eğer elinde telefon olduğu için yanında bulunan kişileri unutuyorsan bu senin yetersizliğindendir. akıllı cihazlar sayesinde her an bilgi akışı içerisindeyiz. tarih boyunca hiçbir insanın olamadığı kadar bilgiye yakınız. ancak sen kalkmış fiziksel yakınlık, kitap kokusu bilmem ne diyorsun. o zaman ayak uydur kardeşim, kimse sana evden çıkma, kitap okuma demiyor; onu da yap. her yerde karikatür çizip şarj cihazını tasmaya, metroda elinde telefon olanları da robota benzetiyorsunuz. akıllı cihazlar olmadan önce de insanlar metroda halı çakması büyüklükte gazeteleri okuyorlardı aynı şekilde. hem kağıt israfından hem de zaman israfından başka bir şey degil. adamlar ne güzel almış minnacık kutunun içine koyup sana veriyorlar sen tü kaka diyorsun. git o zaman tibet'te falan yaşa.
+- entry_name: |
+    taksim'deki yılbaşı kutlaması yasağı
+  entry_id:  72945377
+  entry_writer: ates senturk
+  entry_fav_count: 269
+  entry_content: |
+    başa tutturulan <a class="b" href="/?q=d%c3%bczenleme">düzenleme</a>: şimdi de emniyet müdürlüğü <a class="b" href="/?q=anadolu+ajans%c4%b1">anadolu ajansı</a>'nın yaptığı habere ilişkin öyle bir şey demedik diyor. "yasak yok tedbir var" diyorlar. hükumete yakın anadolu ajansı'nın yaptığı yalan habere karşılık yaptırım olacak mı acaba? ben hiç sanmıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2017/gundem/son-dakika-taksim-icin-yilbasi-muammasi-yasak-yok-yogun-guvenlik-onlem-var-2139557/" title="http://www.sozcu.com.tr/2017/gundem/son-dakika-taksim-icin-yilbasi-muammasi-yasak-yok-yogun-guvenlik-onlem-var-2139557/">kaynak</a><br/><br/>emniyet müdürü demiş, terör bu şekilde önlenecekmiş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/turkiye/taksimde-yilbasi-kutlamasi-yapilmayacak,qqQlQ-ZtkEegs9vkVqax4Q" title="https://www.ntv.com.tr/turkiye/taksimde-yilbasi-kutlamasi-yapilmayacak,qqQlQ-ZtkEegs9vkVqax4Q">kaynak</a><br/><br/>ek olarak toplanmak da yasak denmiş. taksim'e normal zamanda gitsen bile topluluk oluşuyor zaten. sizin göreviniz terörü önlemek, olmaması için insanları sokaklardan uzak tutmak değil. <br/><br/>birisi de demiş işte taciz var iyi karar vermişler. bak bak kafaya bak. o zaman arabalar da tümden yasaklansın hiç trafik kazası olmaz değil mi einstein?<br/><br/>çok ilginç acaba cuma namazlarına saldırı olsa cuma namazını mı yasaklayacaklar? böyle mantık mı olur? <br/><br/><a class="b" href="/?q=d%c3%bczenleme">düzenleme</a> 2: rezalettir.<br/><br/><a class="b" href="/?q=d%c3%bczenleme">düzenleme</a> 3: yahu arkadaşlar siz hasta mısınız ben taksim'de yılbaşı mükemmel kutlanır mı diyorum? ben oraya gidecektim gidemiyorum mu diyorum? <br/><br/>esas soru şu: taksim bir çok inanca ve kültüre ev sahipliği yapmış bir yer. insanlar bu tarihi yerde neden top-la-na-mı-yor? <br/>terör örgütlerinin amacı da ülkedeki işleyişi değiştirmek değil midir? yüreklere korku salmak değil midir? ekonomiyi baltalamak değil midir? terör saldırılarıyla 80 milyonu öldüremeyeceklerini biliyorlar herhalde. bazı arkadaşlar lütfen birazcık düşünerek konuşsun. <br/><br/>ek olarak tacize alışmış olmanız da, bunu normalleştirmeniz de ahlaki olarak ne kadar yozlaştığınızı gösterir. size ve ülkemdeki sizin gibi düşünenlere üzülüyorum.
 - entry_name: |
     abd'de 2 pitbullun sahibini öldürüp yemesi
   entry_id:  72942524
   entry_writer: mesinieskimiskeneftakunyasi
-  entry_fav_count: 219
+  entry_fav_count: 222
   entry_content: |
     biraz sonra burası "sahibinin hatasıdır. iyi eğitememiş" diyeceklerle dolacak. lan pittbull doğal bir hayvan değil. canavar. bir çeşit frenkestein. yetiştirmeyin. köpek falan değil. köpek dediğin laftan anlar.
 - entry_name: |
     ekşi sözlük'ün çoluk çocuk dolması
   entry_id:  72950467
   entry_writer: cigostar
-  entry_fav_count: 162
+  entry_fav_count: 166
   entry_content: |
     ortalığın truman show'a bağlamasından dolayı her allah'ın günü yüzümüze çarpan gerçeklik.<br/>her başlığın altı aynı şakalar, aynı kelimeler. eskiden burada yazmak kıymetliydi. ama şimdi öyle mi herkesi yazar yaptılar. sahi yazar sayısının artmasının kime ne faydası var ki?<br/>neyse, demem o ki ilk 10 entrye bakarak yazar yapmak değil son 10 entrye bakarak yazarlık statüsünün kontrol edilmesi gelsin. burası da türkiye'nin bir bataklığı olmasın.
 - entry_name: |
     53 milyon dolarlık kokain ile yakalanan kaplumbağa
   entry_id:  72949951
   entry_writer: dougsampson
-  entry_fav_count: 159
+  entry_fav_count: 161
   entry_content: |
     (bkz: <a class="b" href="/?q=tortuga">tortuga</a>)
 - entry_name: |
     kıvanç tatlıtuğ'lu coca cola reklamı
   entry_id:  72945940
   entry_writer: habercik
-  entry_fav_count: 122
+  entry_fav_count: 132
   entry_content: |
     ilk yudumdan sonra karşılıklı geğirmelerini bekledim, olmamış..
 - entry_name: |
-    akp kapanırsa atılması muhtemel gazete manşetleri
-  entry_id:  72948109
-  entry_writer: oylegolas
-  entry_fav_count: 122
+    20 aralık 2017 oğlumun doğması
+  entry_id:  72954476
+  entry_writer: mrclever
+  entry_fav_count: 113
   entry_content: |
-    sabah: kandırılmışız.<br/>takvim: emekliye zam müjdesi.<br/>fotomaç: ronaldo beşiktaş'a geliyor.
+    (bkz: <a class="b" href="/?q=kafas%c4%b1nda+emojili+foto%c4%9fraf+bekliyoruz">kafasında emojili fotoğraf bekliyoruz</a>)
 - entry_name: |
     tsk'ya ihale edilen 4050 kg at eti
   entry_id:  72947186
   entry_writer: balkanlar uzerinden gelen alcak basinc
-  entry_fav_count: 101
+  entry_fav_count: 105
   entry_content: |
     askerdeyken neredeyse her allahın günü öğle-akşam balık çıkıyordu yemekte. ben de bu kadar balığı nereden buluyorlar diyordum. meğer hepsi ismail abiymiş.
+- entry_name: |
+    sucuklu yumurtayı yağ döküp yapan kara cahil
+  entry_id:  72941077
+  entry_writer: ruzgaroglu
+  entry_fav_count: 101
+  entry_content: |
+    sucugun yagini eksik bulduysa az miktar tereyagi ilavesi yapmasinda beis gormedigim cahildir.
 - entry_name: |
     çok önemli ufo gerçeği
   entry_id:  72948833
@@ -108,68 +115,47 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=evet+taraf%c4%b1ndan">evet tarafından</a>)
 - entry_name: |
-    20 aralık 2017 oğlumun doğması
-  entry_id:  72954476
-  entry_writer: mrclever
-  entry_fav_count: 72
+    20 aralık 2017 trump'ın tüm dünyayı tehdit etmesi
+  entry_id:  72953489
+  entry_writer: kutup cizgisinde ask
+  entry_fav_count: 77
   entry_content: |
-    (bkz: <a class="b" href="/?q=kafas%c4%b1nda+emojili+foto%c4%9fraf+bekliyoruz">kafasında emojili fotoğraf bekliyoruz</a>)
-- entry_name: |
-    sahibinden.com'da yalan söyleyen insanlar
-  entry_id:  72942927
-  entry_writer: bilinmeyene kosan adam
-  entry_fav_count: 71
-  entry_content: |
-    bu memlekette bir tane namuslu adam kalmadi mi arkadas dogrulari soyleyecek?<br/>lan "takla attigim icin komple boyattim" desene. ne diye kiviriyorsunuz? 50 bin tane yalanin arkasina siginiyorsunuz? biraz karakterli olun lan.<br/>ufak tefek ciziklerden keyfe keder boyaliymis, bak bak. sigorta sirketi sisirmis o yuzden bu kadar tramer kaydi cikiyormus.<br/>sigorta sirketleri de isi gucu birakmis; "dur lan sunun masrafini sisirelim de ileride satarken zorlansin ehe ehe" diye size komplo kuruyor degil mi amk?<br/><br/>edit: imla
+    "iç politikada sıkıştın mı dışarı saydır" stratejisini uyguladığı için çok garipsenmemesi gerekir. yakında thomas jefferson ve george washington'dan alıntılar paylaşırsa şaşırmayın. bize çok tanıdık gelebilir. <br/><br/>(bkz: <a class="b" href="/?q=ba%c4%9f%c4%b1ms%c4%b1zl%c4%b1k+bildirisi+g%c3%bcncellenmeli">bağımsızlık bildirisi güncellenmeli</a>)
 - entry_name: |
     bae dışişleri bakanının türkiye'ye hakaret etmesi
   entry_id:  72947221
   entry_writer: transatlantik
-  entry_fav_count: 70
+  entry_fav_count: 76
   entry_content: |
     bir kere fahreddin pasa gibi rutbeli osmanli subaylari, burokratlari, pasalari kattiyen recep tayyip erdogan'in atalari filan degildir. bu sahislar ile recep tayyip erdogan ne ayni kulturu paylasir ne de ayni ahlaki paylasir, hatta bu sahislarin isimlerini daha yeni bir yardimcisi ona aciklamistir, cunku erdogan'in kultur seviyesi aslen benim erzincan'li kapicimla aynidir. anadolulu ezik yobaz kapici kulturudur ve erdogan ile akp kadrosu ne istanbul'u bilirler, ne de osmanli'nin pasalarini, askerlerini bilirler, o hayatlar o kulturler bir belcikali ya da samoali kadar onlara uzaktir.
 - entry_name: |
-    ufak tefek cinayetler
-  entry_id:  72939311
-  entry_writer: pozitif pekistirici
-  entry_fav_count: 69
+    sahibinden.com'da yalan söyleyen insanlar
+  entry_id:  72942927
+  entry_writer: bilinmeyene kosan adam
+  entry_fav_count: 73
   entry_content: |
-    diziyi izlerken tek düşünebildiğim şey, <a class="b" href="/?q=mert+f%c4%b1rat">mert fırat</a>ın hiç yakışıklı olmadan nasıl bu kadar yakışıklı olması?
+    bu memlekette bir tane namuslu adam kalmadi mi arkadas dogrulari soyleyecek?<br/>lan "takla attigim icin komple boyattim" desene. ne diye kiviriyorsunuz? 50 bin tane yalanin arkasina siginiyorsunuz? biraz karakterli olun lan.<br/>ufak tefek ciziklerden keyfe keder boyaliymis, bak bak. sigorta sirketi sisirmis o yuzden bu kadar tramer kaydi cikiyormus.<br/>sigorta sirketleri de isi gucu birakmis; "dur lan sunun masrafini sisirelim de ileride satarken zorlansin ehe ehe" diye size komplo kuruyor degil mi amk?<br/><br/>edit: imla<br/><br/>al iste bayandan bir araba; nasil bir bayansa artik hem vites topuzunda, hem de dikiz aynasinda tesbih <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/d7pRgp.png" title="https://i.hizliresim.com/d7pRgp.png">duruyor.</a>
 - entry_name: |
     ekmeği ve şekeri kesmeden kilo vermek
   entry_id:  72948291
   entry_writer: artik herkes evine donmeli
-  entry_fav_count: 67
+  entry_fav_count: 69
   entry_content: |
     olmayan yoldur.<br/><br/>beyaz ekmek, şeker, tuz, şekerli ve yağlı her şey kesilecek. 19:30 ya da en geç 20:00 son öğün. ardından yalnızca su içilebilir. uyku düzenli olacak. spor terleyerek yapılacak.<br/><br/>güzel şeyler hep zor olandır. unutmayın.<br/><br/>edit: <a class="b" href="/?q=crazy+joe+davola">crazy joe davola</a> 18:30 diyor. şöyle açıklayalım. uyumadan 4 saat öncesinde son öğünü almanız gerek. hemen hemen her gün aynı saatler olmalı. gece 2'de yatacaksanız 22'de yediğiniz yemek yine zararlıdır.<br/><br/>edit2: yediğine içtiğine dikkat edip, akşam künefe yeme tavsiyesine uyan arkadaşlar 1 ay sonra gelsin bana mesaj atsın kilosuyla alakalı. onu bunu kesmek gerçekten zorunlu muymuş değil miymiş o zaman tartışalım tekrar.<br/><br/>edit3: son kez editliyorum. bir daha yazmayacağım çünkü iş it dalaşına girdi. en sevmediğim şey bilgi sahibi olmadan fikir sahibi olmaktır. uykunun yeme içmeyle ne alakası mı var? akşam hava kararana kadar vücut, yediğiniz her şeyi yakar. bir şekilde enerjiye dönüştürür. gece yatmadan önce yedikleriniz ne kadar hafif olursa olsun vücutta kendine sağlam yer edinir. gün boyu dikkat edip akşam yediğiniz künefe ya da diğer şekerli yağlı şeyler vücudunuzda yağ kütlesi olarak kalır. (göbeğim yağ bağladı derler, o söz buradan gelir.) kimisinde göbek, kimisinde kalça, kimisinde basen olarak şişer. uyku düzeni önemlidir. çünkü havanın kararmasıyla beraber vücut da kendisini bir makineymiş gibi dinlenme moduna alır. halsizleşir ve yorgun düşersiniz. bu yüzden yediklerinizi ve içtiklerinizi yakamazsınız. daha da bir bok anlatmıyorum. ne haliniz varsa görün.
-- entry_name: |
-    20 aralık 2017 trump'ın tüm dünyayı tehdit etmesi
-  entry_id:  72953489
-  entry_writer: kutup cizgisinde ask
-  entry_fav_count: 64
-  entry_content: |
-    "iç politikada sıkıştın mı dışarı saydır" stratejisini uyguladığı için çok garipsenmemesi gerekir. yakında thomas jefferson ve george washington'dan alıntılar paylaşırsa şaşırmayın. bize çok tanıdık gelebilir. <br/><br/>(bkz: <a class="b" href="/?q=ba%c4%9f%c4%b1ms%c4%b1zl%c4%b1k+bildirisi+g%c3%bcncellenmeli">bağımsızlık bildirisi güncellenmeli</a>)
 - entry_name: |
     20 aralık 2017 ankara ulaşım rezaleti
   entry_id:  72949435
   entry_writer: persona non grata
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     ortada bir rezalet yok, sen salaksın.
 - entry_name: |
     seni aldattım diyen sevgiliye söylenecek ilk söz
   entry_id:  72946360
   entry_writer: yandesk
-  entry_fav_count: 52
+  entry_fav_count: 54
   entry_content: |
     - seni aldattım<br/>- .... (cevap dahi vermem. ona o kadar verdiğim değerden sonra bana bu şekilde karşılık vermişse kesinlikle hakarete falan gerek yok. bi 10 sn kadar sanırım dik dik suratına bakar sonra kalkar giderim. durumu dramatize etmeye veya kendinizi sinir hastası etmeye gerek yok... unutmayın karşınızdaki insan sinirlenmenize dahi değmez... zaten kendinizi yeteri kadar sonra homurdanıp üzüleceksiniz... ama asla affetmeyin. inanın tekrar yapıyorlar. test edildi. onaylandı...)
-- entry_name: |
-    suudi arabistan'ın iran'ı işgal videosu
-  entry_id:  72940360
-  entry_writer: osiet
-  entry_fav_count: 45
-  entry_content: |
-    iran 1 balistik füze atıyor, suudların 20 patriot füzesi ile savunduğu işgal videosu. <br/>(bkz: <a class="b" href="/?q=arap+ya%c4%9f%c4%b1+bol+buldu+mu+k%c4%b1%c3%a7%c4%b1na+ba%c5%9f%c4%b1na+s%c3%bcrermi%c5%9f">arap yağı bol buldu mu kıçına başına sürermiş</a>) <br/><br/>iranlıların sokakta sevinmesi de ayrı komik olmuştur. şii şeriatı bitti, sünni şeriatı geldi, diye mi seviniyorlar, gibi düşüncelere sevk edebilir.
 - entry_name: |
     seyredilmiş en zevkli dünya kupası
   entry_id:  72941537
@@ -181,7 +167,7 @@ data:
     yunan savunma bakanının gel de al demesi
   entry_id:  72936272
   entry_writer: aslagelmeyecektelefonubekleyenadam
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     önce <a class="b" href="/?q=yunanistan+cumhurba%c5%9fkan%c4%b1%27n%c4%b1n+mu%c4%9fla+ziyareti">yunanistan cumhurbaşkanı'nın muğla ziyareti</a> görmezden gelindi,<br/><br/>sonra <a class="b" href="/?q=yunan+bakan%27%c4%b1n+atat%c3%bcrk%27%c3%bc+soyk%c4%b1r%c4%b1m+ile+su%c3%a7lamas%c4%b1">yunan bakan'ın atatürk'ü soykırım ile suçlaması</a> söz konusu oldu ve fakat bu konuda yunanistan'a diplomatik herhangibi uyarı verilmedi.<br/><br/><a class="b" href="/?q=lozan+antla%c5%9fmas%c4%b1+g%c3%bcncellenmeli">lozan antlaşması güncellenmeli</a> ve <a class="b" href="/?q=bir+adadan+dolay%c4%b1+hemen+ortal%c4%b1%c4%9f%c4%b1+kar%c4%b1%c5%9ft%c4%b1r%c4%b1yorlar">bir adadan dolayı hemen ortalığı karıştırıyorlar</a> beyanları sonrası yakın zaman'da <a class="b" href="/?q=yunanistan+d%c4%b1%c5%9fi%c5%9fleri+bakan%c4%b1n%c4%b1n+lozan+a%c3%a7%c4%b1klamas%c4%b1">yunanistan dışişleri bakanının lozan açıklaması</a> geldi,<br/><br/>ve şimdi <a class="b" href="/?q=akp%27nin+yunanistan%27a+b%c4%b1rakt%c4%b1%c4%9f%c4%b1+18.+ege+adas%c4%b1">akp'nin yunanistan'a bıraktığı 18. ege adası</a> konusunda <a class="b" href="/?q=yunan+savunma+bakan%c4%b1n%c4%b1n+gel+de+al+demesi">yunan savunma bakanının gel de al demesi</a>ne yine sessiz mi kalınacak merak konusudur.<br/><br/>her zaman söyledik yine tekrarlıyoruz : <a class="b" href="/?q=lozan%27%c4%b1+g%c3%bcncelle%c5%9ftirmenin+sonu+sevr%27dir">lozan'ı güncelleştirmenin sonu sevr'dir</a>
 - entry_name: |
@@ -192,17 +178,10 @@ data:
   entry_content: |
     kızılırmak ankara'ya bağlandığından beri cevabı ankara olmayan şehirdir. <br/><br/>mis gibi musluğa ağzımızı dayardık lan çocukken. yeni nesil o keyfi yaşayamayacak ona yanarım. parklardaki çim sulama musluklarından bile temiz su akardı. hortumdan gelen suya bile ağımızı dayardık.
 - entry_name: |
-    önüne geleni yiyen kurbağa
-  entry_id:  72949506
-  entry_writer: kel imana gel
-  entry_fav_count: 36
-  entry_content: |
-    o yedikce ben kotu oldum aq.<br/><br/>helal olsun tabiat anaya ne evlatlar yetistiriyor.<br/><br/>seni gordugum en hayvani hayvanlar arasinda ilk 5'e koyuyorum.<br/><br/>yolun acik, miden genis, avin cok olsun...
-- entry_name: |
     20 aralık 2017 ali ece'nin işine son verilmesi
   entry_id:  72950462
   entry_writer: morales
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     ertuğrul ö. ile tartışmasının bir sonucudur. polemiğe girdiğin adamın işte gerçek yüzü !<br/><br/>70 küsür yaşında patronunun limitsiz kredi kartı ile dünyayı gezen, kendisini genç ve çekici zanneden, herbokolog ve kopyacı bir çakma entel ile polemiğe girmeyecektin.<br/><br/>yıllardır güçlüden yana tavır takınan, bukelemun ruhlu, itici, ingilizce kaynaklardan aşırdığı film ve müzik yorumlarını kendi zevkiymiş gibi takdim eden ve gazete köşesini günlük blog gibi kullanacak kadar şımarık bir adam bu. <br/><br/>gazeteyi de el altından idare eden kişi. ahmet hakan ile rekabet halindeymiş gibi olmasına aldanmayın. ahmet hakan bunun oğlu yaşında. ertuğrul genel yayın yönetmenliğinden kendi isteği ile ayrılmış gibi yapsa da doğan medyanın gizli genel yayın yönetmeni olarak kalacaktır ex olana kadar !<br/><br/>doğan medyanın uluslararası bağlantılarını sağlayan çevresi derin ve geniş olan bir şahsiyet bu.<br/><br/>bir gün emin çölaşan'a sorun da anlatsın size bu jakoben bukalemunun gerçek yüzünü. mideniz kaldırırsa tabii !
 - entry_name: |
@@ -213,19 +192,19 @@ data:
   entry_content: |
     geri vites dişlisinde de <a class="b" href="/?q=helisel+di%c5%9fli">helisel dişli</a> çark kullanılması. bu tip dişli kullanılan araçlarda geri geri giderken o bildiğimiz ses çıkmaz.
 - entry_name: |
+    her il ve ilçede en az 1 tane olan dükkan isimleri
+  entry_id:  72937524
+  entry_writer: ufopilotu
+  entry_fav_count: 21
+  entry_content: |
+    antalya'da gördüklerim:<br/><br/><a class="b" href="/?q=karde%c5%9fler+pide+salonu">kardeşler pide salonu</a><br/><a class="b" href="/?q=stil+erkek+kuaf%c3%b6r%c3%bc">stil erkek kuaförü</a><br/><a class="b" href="/?q=klas+erkek+kuaf%c3%b6r%c3%bc">klas erkek kuaförü</a><br/><a class="b" href="/?q=k%c3%b6%c5%9fem+market">köşem market</a><br/><a class="b" href="/?q=osmanl%c4%b1+lokantas%c4%b1">osmanlı lokantası</a><br/><a class="b" href="/?q=g%c3%bcven+emlak">güven emlak</a><br/><a class="b" href="/?q=evren+b%c3%bcfe">evren büfe</a><br/><a class="b" href="/?q=tobacco+shop">tobacco shop</a><br/><a class="b" href="/?q=hayat-%c5%9fifa-derman+eczaneleri">hayat-şifa-derman eczaneleri</a><br/><br/>bugün de anket doldurduk. zeus kabul etsin.
+- entry_name: |
     kıvılcım ural
   entry_id:  72944955
   entry_writer: bir nick var benden iceri
   entry_fav_count: 20
   entry_content: |
     evli adamlarla kırıştıran gülben ergen'in baş düşmanı bi kadının yayınına çıkacak kadar zeka seviyesi düşük bir kadın.<br/>hacı, yılların gülbenine bunları yapan sana neler etmez? <br/><br/>mağdur edebiyatını yiyeyim senin.
-- entry_name: |
-    her il ve ilçede en az 1 tane olan dükkan isimleri
-  entry_id:  72937524
-  entry_writer: ufopilotu
-  entry_fav_count: 20
-  entry_content: |
-    antalya'da gördüklerim:<br/><br/><a class="b" href="/?q=karde%c5%9fler+pide+salonu">kardeşler pide salonu</a><br/><a class="b" href="/?q=stil+erkek+kuaf%c3%b6r%c3%bc">stil erkek kuaförü</a><br/><a class="b" href="/?q=klas+erkek+kuaf%c3%b6r%c3%bc">klas erkek kuaförü</a><br/><a class="b" href="/?q=k%c3%b6%c5%9fem+market">köşem market</a><br/><a class="b" href="/?q=osmanl%c4%b1+lokantas%c4%b1">osmanlı lokantası</a><br/><a class="b" href="/?q=g%c3%bcven+emlak">güven emlak</a><br/><a class="b" href="/?q=evren+b%c3%bcfe">evren büfe</a><br/><a class="b" href="/?q=tobacco+shop">tobacco shop</a><br/><a class="b" href="/?q=hayat-%c5%9fifa-derman+eczaneleri">hayat-şifa-derman eczaneleri</a><br/><br/>bugün de anket doldurduk. zeus kabul etsin.
 - entry_name: |
     kilo vermek isteyenlere tavsiyeler
   entry_id:  72941786
@@ -234,40 +213,33 @@ data:
   entry_content: |
     buraya gelip 'yemeyin', 'az yiyin pis şişkolar', 'eşeğin sikini yiyin' , 'bok boğazınıza sahip çıkın' vs. tarzı yazılar yazanları direkt engelleyin. kilo vermenize bir faydası olur mu bilmiyorum ama en azından daha kaliteli ve faydalı entryler okumanıza yardımcı olabilir. <br/><br/>not: 43 kilo vermiş bir dostunuz...
 - entry_name: |
-    kaan tangöze
-  entry_id:  72950601
-  entry_writer: marques de pombal
-  entry_fav_count: 18
+    kadın erkek arkadaşlığı
+  entry_id:  72948549
+  entry_writer: blooddawn
+  entry_fav_count: 19
   entry_content: |
-    bu tip bir sanatçının eşini aldatmasına şaşıranlara şaşırıyorum açıkcası. ulan adamın yaşadığı hayat alkol, uyuşturucu, müzik ve seksten ibaret.<br/><br/>şaşıracağınız birşey var ise adamın nasıl evlendiğine ve çocuk yaptığına şaşırın bence.
+    olmuyor desem yalan olur. oluyor ama nadir oluyor.<br/><br/>burada ‘’çevremde erkekten çok kız arkadaş var’’ veya ‘’en yakın arkadaşım karşı cins’’ diyen meriçlere bakmayın ya yalan söylüyor ya da adı üstünde meriç.
 - entry_name: |
     noel süsü önünde fotograf çektiren türbanlı
   entry_id:  72950690
   entry_writer: size hocam diyebilirmiyim
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     bırakınız çeksinler, bırakınız yapsınlar. kime ne.
-- entry_name: |
-    kadın erkek arkadaşlığı
-  entry_id:  72948549
-  entry_writer: blooddawn
-  entry_fav_count: 15
-  entry_content: |
-    olmuyor desem yalan olur. oluyor ama nadir oluyor.<br/><br/>burada ‘’çevremde erkekten çok kız arkadaş var’’ veya ‘’en yakın arkadaşım karşı cins’’ diyen meriçlere bakmayın ya yalan söylüyor ya da adı üstünde meriç.
 - entry_name: |
     çok çabuk hazırlanabilecek pratik yiyecekler
   entry_id:  72953081
   entry_writer: stormblade
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     başkasının yerine aramaya inanmak<br/><br/>(bkz: <a class="b" href="/?q=pratik+yemekler">pratik yemekler</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9frenci+evinden+yemek+tarifleri">öğrenci evinden yemek tarifleri</a>)<br/>(bkz: <a class="b" href="/?q=haz%c4%b1rlamas%c4%b1+kolay+y%c3%bcksek+proteinli+yemekler">hazırlaması kolay yüksek proteinli yemekler</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+pratik+yemek+tarifleri">sözlükçülerin pratik yemek tarifleri</a>)<br/>(bkz: <a class="b" href="/?q=kolay+yemek+tarifleri">kolay yemek tarifleri</a>)<br/>(bkz: <a class="b" href="/?q=bekarlar+i%c3%a7in+kolay+ve+leziz+yemek+tarifleri">bekarlar için kolay ve leziz yemek tarifleri</a>)
 - entry_name: |
-    ismiyle spoiler veren filmler
-  entry_id:  72939182
-  entry_writer: fideliowerty
+    iz bırakan kitap cümleleri
+  entry_id:  72938596
+  entry_writer: narcolepsy
   entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=the+devil%27s+advocate">the devil's advocate</a>)
+    çocuklar boyama kitabı değildir, onları en sevdiğin renge boyayamazsın.<br/><br/>uçurtma avcısı
 - entry_name: |
     bitcoin
   entry_id:  72941872
@@ -275,6 +247,13 @@ data:
   entry_fav_count: 8
   entry_content: |
     hicbir sey anlamiyorum gibi ama okumak zevkli geliyor.
+- entry_name: |
+    mahzuni'ye saygı
+  entry_id:  72936871
+  entry_writer: cowboy bebop
+  entry_fav_count: 7
+  entry_content: |
+    demet akalın’ın aşık mahzuni şarkısı yorumladığı albüm.<br/><br/>başka söze gerek var mı bilmiyorum.
 - entry_name: |
     geceye bir şiir bırak
   entry_id:  72936578
@@ -290,13 +269,6 @@ data:
   entry_content: |
     insanın alıp kıçına sokası geliyor. o derece şirin, o derece güzel bir ağaçtır. ancak biraz pahalı 15 bin liraya düşerse düşünmeden alırım.
 - entry_name: |
-    eşek gibi çalıştıktan sonra erkeğe yemek yapmak
-  entry_id:  72938976
-  entry_writer: jagermeister
-  entry_fav_count: 6
-  entry_content: |
-    yemek yapmak gibi aşırı eğlenceli bir eylemi bir kadına bırakamam kimse kusura bakmasın. ha ütüyü kadın yapsın ama. allah ütünün belasını versin.
-- entry_name: |
     ekşi itiraf
   entry_id:  72936860
   entry_writer: zizuks
@@ -304,19 +276,26 @@ data:
   entry_content: |
     iki saat kadar önce teyze oldum...sanırım bu olduğum her şeyin en üstünde. iyi de ben bu heyecanla şimdi nasıl uyurum? hayatımda ilk defa sadece sevinçten ağlıyorum. bu da burada hayatımın en güzel anlarından biri olarak kalsın.
 - entry_name: |
-    27 kasım 2017 türk hava yolları rezaleti
-  entry_id:  72947269
-  entry_writer: pocket rocket
-  entry_fav_count: 5
-  entry_content: |
-    her yolcunun başına gelebilecek tatsız olaydır. <br/><br/>ama;<br/><br/>sağlam valizim koli bantlı şekilde uçaktan gelecek ve ben o valizin içine uyuşturucu, bomba, ceset veya başka birşey konup konmadığını incelemeden alıp alandan çıkacağım ha.<br/><br/>çok iyiymiş gerçekten!
-- entry_name: |
     bitcoin olayını anlayamayanlar derneği
   entry_id:  72954490
   entry_writer: kalamar
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     resmi geçitlerde flamasını taşıyabilirim.
+- entry_name: |
+    tron coin
+  entry_id:  72949904
+  entry_writer: akarui me
+  entry_fav_count: 3
+  entry_content: |
+    dolardan konuşalım ki dışarda olup buralara girmeyi düşünenler de hesap kitap yapabilsin.<br/><br/>şuan piyasada 65 milyar trx var arkadaşlar, market cap'ı şuan 2,5 milyar dolar. <br/>bakın daha hiç trx çıkmasa 65 milyarla 20.000 doları siz çarpın ben karışmayacağım, böyle bir şey mümkün mü siz hesaplayın.<br/><br/>bu coin'in 10 dolar olması demek bile hali hazırdaki coin piyasasının 2 katına çıkması demek (şuan coin market kap 650 milyar dolar). diğer hiç bir coinin piyasa değeri artmasa, yeni coinler gelmese diğer coinlerdeki varımızı yoğumuzu her şeyimizi çekip buna yatırsak olacağı miktar şuan 10 dolar. bu coin ıkınsa, tıkınsa, sıçsa, osursa, uçsa 2018'de 1 dolar olamaz, 0.50 dahi imkansıza yakın.
+- entry_name: |
+    kim milyoner olmak ister
+  entry_id:  72955732
+  entry_writer: morfeus emmi
+  entry_fav_count: 2
+  entry_content: |
+    pembe kazaklı bir hanımefendi yarışıyor şuanda. yarışmaya sunucusu için geldiğini söyledi, sesli soruda cevabı bilince aynı müzik ile dans etti. şimdi de düğün anılarını falan anlatıyor.<br/><br/>güzelim yarışma ne hale gelmiş, yazık.
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  72938078
@@ -339,6 +318,13 @@ data:
   entry_content: |
     evde sürekli discovery kanalı açık olanların beğenmediği film olmuş gördüğüm kadarıyla. samimi bir komedi filmiydi. zamanında güldürüp zamanında o seviyeyi düşürmüştür bir çok sahnede. olması gerektiği gibiydi. gülse birsel kendisi olmasa da olurmuş orası ayrı tabi.<br/><br/>ben beğendim komikti diyin geçin, beğenmeyen adamı niye ikna etmeye çalışıyorsunuz onu da anlamış değilim.<br/><br/>beklentim düşük olmasına rağmen gayet beğendiğimi belirtip kaçayım.
 - entry_name: |
+    vergecoin
+  entry_id:  72944452
+  entry_writer: monch
+  entry_fav_count: 0
+  entry_content: |
+    verdiğim satış emirlerinde huzursuzluk sezip kaldırdım ve ardından you'll never walk alone eşliği ile karşısına geçip izlemeye geçtiğim canımın içi coindir kendisini seviyoruz. <br/><br/>link mink yok bam bam bam
+- entry_name: |
     makale aranıyor duyuruları
   entry_id:  72955464
   entry_writer: yarin bos musun
@@ -346,10 +332,24 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://polen.itu.edu.tr/handle/11527/14249">https://polen.itu.edu.tr/handle/11527/14249</a><br/><br/>(yök sayfasında "yazar tarafından şu tarihe kadar kısıtlanmıştır" yazısı var)<br/><br/>itü'den ulaşılabiliyor ise; şimdiden teşekkürler
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  72951881
-  entry_writer: dur arkandan su dokeyim
+    işerken yan pisuvardaki kişinin penisine bakmak
+  entry_id:  72944227
+  entry_writer: scientific
   entry_fav_count: 0
   entry_content: |
-    eksiciler çok mutsuzum veteriner hekimin aradığı vakit köpeğimi kısırlaştıracagim. çok korkuyorum.<br/><br/>ölmez değil mi?
+    normaldir. bizde yine arada istinat duvarı var, avrupa'da o da yok çoğu bölgede. hatta bazı yerlerde (özellikle rock barlarda) bayağı dizilip modern alüminyum inek yalağına işiyorsun. ister istemez göz kayıyor yandakine tabii.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  72953184
+  entry_writer: hakiki ssg benim
+  entry_fav_count: 0
+  entry_content: |
+    ulan şu gluhwein acaip birşey ya. gel gel. beraber içelim. yarım saat falan.<br/><br/>not: hiçbir zaman bilemeyeceksin !!!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/hakikissgbenim">http://ribony.com/hakikissgbenim</a>
+- entry_name: |
+    burak elmas'ın galatasaray başkanı olması
+  entry_id:  72955781
+  entry_writer: the clown prince of crime
+  entry_fav_count: 0
+  entry_content: |
+    fatih terim 2000 süper kupa zaferi sonrası faruk süren ile yaşadığı polemikte kendisi için”damat bile konuşuyor” demişti. yıllar içinde bu konu aralarında bir soğukluğa yol açtı mı bilgim yok.
 ---
