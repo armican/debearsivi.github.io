@@ -6,70 +6,70 @@ data:
     artık galatasaraylı değilim
   entry_id:  72979831
   entry_writer: fizikgazisi
-  entry_fav_count: 828
+  entry_fav_count: 836
   entry_content: |
     <a class="b" href="/?q=21+aral%c4%b1k+2017+fatih+terim%27in+gelmesi">21 aralık 2017 fatih terim'in gelmesi</a> ile o çocukluğumda tanju diye bağırdığım sarı kırmızılı camianın taraftarı değilim. isteyen devam edebilir ama bizi yarı yolda bırakanı, <a class="b" href="/?q=milli+g%c3%b6rev">milli görev</a> diyerek gitti milli takımda milyonlarca euro prim ve tazminat peşinde koşmaktan işini doğru düzgün yapamayan bir insanı buraya türlü oyunlarla getirmesini sindiremiyorum. size bol şans, ben yokum. <br/><br/>not: artık sadece şehrimin ezilen takımı ankaragücü var.
 - entry_name: |
     fatih terim'in 1905 tl ücretle gs'ye imza atması
   entry_id:  72992005
   entry_writer: alpernative
-  entry_fav_count: 453
+  entry_fav_count: 469
   entry_content: |
     1905 bitcoin dedi ama siz duymadınız dediğim anlaşmadır.
 - entry_name: |
     enes batur hayal mi gerçek mi
   entry_id:  72986740
   entry_writer: scentofawoman
-  entry_fav_count: 288
+  entry_fav_count: 297
   entry_content: |
     bu filme sponsor olanın, bu filmi çekenin ve bu filmi solanlarında gösterecek patronların kafasına sıçayım.
 - entry_name: |
     2002 öncesi bilgisayar lükstü
   entry_id:  72985442
   entry_writer: darkscar
-  entry_fav_count: 280
+  entry_fav_count: 284
   entry_content: |
     (bkz: <a class="b" href="/?q=tuvalet+yoktu+le%c4%9fene+s%c4%b1%c3%a7%c4%b1yorduk">tuvalet yoktu leğene sıçıyorduk</a>)
 - entry_name: |
     annelerimizin %90'ının psikolojisinin bozuk olması
   entry_id:  72991020
   entry_writer: balkanlar uzerinden gelen alcak basinc
-  entry_fav_count: 264
+  entry_fav_count: 265
   entry_content: |
     uzun zaman boyunca yaptığım gözlemler sonucu vardığım vahim gerçek. bunları asla ve asla türk kadınını olumsuz bir biçimde eleştirmek için ya da rus kadınını yüceltmek için söylemiyorum. onları şöyle bir gözlemleyin; belediye otobüsünde, pazarda, düğünde, telefonda konuşurken ya da veli toplantısında... allah aşkına gözlemleyin. normal olmayan bir şeyler var bu kadınlarda. astronot olacakken kıl payı ev hanımı olmuş gibi davranıyorlar. bu kadınlar kendi kendilerine bu hale gelmediler. toplum bu hale getirdi belki de onları. sürekli kendilerini ifade etmeye çalışıyorlar, bazıları artık kendini ifade etmenin bir işe yaramayacağının farkında, kimisi ise hala bir şeylerin mücadelesini veriyor ve biz bunlara "çok konuşan kadın" diyoruz. babalarımız olacak görgüsüzler yüzünden bu hale gelmiş olabilirler. mesela telefonda konuşurken izleyin onları. bir insan aynı cümleyi, ögelerinin yerlerini değiştirerek yirmi altı farklı şekilde söyler mi? karşısındaki kişinin onu dinleyip dinlememesi, cevap vermemesi onun için önemli değil. piaget’ye göre okul öncesi dönemdeki çocuklar böyle davranışlar gerçekleştiriyor. birileri annelerimizin duygularını bastırmış, birileri bu kadınların psikolojisini bozmuş. aklı başında bir anne, kırk beş yaşındaki oğluna "içliğini çorabına tep soğuk girmesin" der mi? şu insanları mutlu etmek için, psikolojilerini düzeltmek için bir şeyler yapalım ne olur. anneler günü dışında aklımıza geldikleri yok lan. dünyanın tüm ekşicileri birleşin, annelerimizi öpüyoruz!
 - entry_name: |
     aşkım parana yazık simit yiyelim diyen kız
   entry_id:  72993835
   entry_writer: ulu bilge dandoldenyus
-  entry_fav_count: 218
+  entry_fav_count: 231
   entry_content: |
     bombayı kucağınıza bırakmış kızdır. sıkıysa simit yemeye götürün
 - entry_name: |
     instagram kullanmayan kız
   entry_id:  72989469
   entry_writer: bestman777
-  entry_fav_count: 206
+  entry_fav_count: 212
   entry_content: |
     şüphesiz ki zayıflamayı bekliyordur.
 - entry_name: |
     canan karatay'ın vücut geliştirenleri uyarması
   entry_id:  72989925
   entry_writer: applefanboy
-  entry_fav_count: 193
+  entry_fav_count: 197
   entry_content: |
     kadıncağız kalp ve iç hastalıkları profesörü, dermatolog değil ki. vardır bir fikri, söylemiştir.<br/><br/>kullanacak olsam, hemen kadına küfür etmek yerine, körü körüne, kulaktan dolma bilgilerle, spor salonundaki hocanın sözü ile kullanmak yerine, bunu ihbar kabul edip, derinlemesine araştırır, öyle kararımı verirdim.
 - entry_name: |
     evet meral akşener bir fetöcüdür
   entry_id:  72990598
   entry_writer: zeus faber
-  entry_fav_count: 184
+  entry_fav_count: 188
   entry_content: |
     zamanında dil atmadığı yer kalmayan, buna rağmen kendisi dışında herkesi fetöcü ilan eden dönek iktidarın yavşak medya yayın organı haberi.
 - entry_name: |
     22 aralık 2016 ışid'in 2 askerimizi şehit etmesi
   entry_id:  72978877
   entry_writer: nickbulamadimnolcak
-  entry_fav_count: 170
+  entry_fav_count: 172
   entry_content: |
     üzerinden tam 1 (yazıyla bir) sene geçen vahşet. bu bir sene boyunca iktidar, muhalefet, medya, tsk, stk vs kim varsa ağzını açıp bu katliamla ilgili tek kelime etmedi, hiç olmamış gibi davrandılar. sadece genelkurmay görüntülerin gerçek olup olmadığını inceleyeceğini söyledi ama aradan 365 gün geçmesine rağmen inceleme bir türlü bitmedi! <br/>bu arada şehitlerden sadece birinin şehitliği doğrulandı ama nasıl şehit edildiği hakkında tek kelime edilmedi. diğer askerle ilgiliyse ölüm suskunluğu devam ediyor. <br/><br/>bir sene önce bugün türk askeri resmen sahipsiz bırakıldı.
 - entry_name: |
@@ -83,72 +83,93 @@ data:
     her gün yesem bıkmam yemekleri
   entry_id:  72990503
   entry_writer: napipdurun
-  entry_fav_count: 157
+  entry_fav_count: 161
   entry_content: |
     taze ekmek arası ezine beyaz peynir domates biber. offff.bıkmam.bıkamam.
+- entry_name: |
+    fatih terim vs şenol güneş
+  entry_id:  72980828
+  entry_writer: shifte telli
+  entry_fav_count: 124
+  entry_content: |
+    başarısızlıktan dolayı milli takımı bırakan vs başarısından dolayı milli takıma çağırılan.
+- entry_name: |
+    rusya'nın silah harici bir şey üretmemesi
+  entry_id:  72992770
+  entry_writer: deadastronautinspace
+  entry_fav_count: 111
+  entry_content: |
+    putin bir keresinde ''bugün silah yerine iphone'a para yatıranlar yarın düşman ülkesini işgal ederken düşmanın fotoğrafını çeker.'' gibi bir laf etmişti. ordan anla sen işte.
 - entry_name: |
     prof. dr. asaf savaş akat'ın bitcoin açıklaması
   entry_id:  72989219
   entry_writer: the tale of a warrior from snowy north
-  entry_fav_count: 107
+  entry_fav_count: 109
   entry_content: |
     kardeş 1500 doların çalınsa ne olur şimdi milyon doların vardı. kaybettiğinde seni batırmayacak bi parayla risk al gir nasıl ekonomi uzmanısın yav.
 - entry_name: |
     21 aralık 2017 fatih terim'in gs'ye gelmesi
   entry_id:  72978922
   entry_writer: kasar yaza
-  entry_fav_count: 76
+  entry_fav_count: 77
   entry_content: |
     "galatasaray'a bir daha dönersem, başkan olarak dönerim"<br/><br/>- <a class="b" href="/?q=fatih+terim">fatih terim</a> 25 eylül 2013
 - entry_name: |
     22 aralık 2017 büyük bitcoin çöküşünün başlaması
   entry_id:  72983506
   entry_writer: ah minel aski ve halatihi
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     ben daha nasıl bitcoin alınır-satılır'ı öğrenemeden başlamış.
 - entry_name: |
     manuş baba türkiye'nin yeni cem karaca'sıdır
   entry_id:  72987885
   entry_writer: gozde bir yerlerde
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     (bkz: <a class="b" href="/?q=nick+entry+uyumsuzlu%c4%9fu">nick entry uyumsuzluğu</a>)
-- entry_name: |
-    hastaya sormadan muadil ilaç veren eczacı
-  entry_id:  72979869
-  entry_writer: gandalfbuyucuoglu
-  entry_fav_count: 55
-  entry_content: |
-    bir de ben anlatayım.<a class="b" href="/?q=%c3%a7ocuk+sa%c4%9fl%c4%b1%c4%9f%c4%b1+ve+hastal%c4%b1klar%c4%b1">çocuk sağlığı ve hastalıkları</a> uzmanıyım.<br/><br/>muadil ilaç olayı eczacı ve hastanın takdirine kalmış. ancak bazı konularda sözlüğe bir katkım olsun istiyorum.<br/><br/>ilacı yazarken dikkat ettiğim bazı şeyler var. sıklıkla şurup yazıyorum.<br/><br/>1. tadı: etken maddeler aynı olsada tadlar farklı oluyor. bir çocuğa tadı kötü bir ilacı içirmeye çalışmak çok zor. çocuk tadını sevmeli. mesela çok iyi bir ilaç olsada küçük bir çocuğa çok zorda kalmadıkça <a class="b" href="/?q=sefuroksim+aksetil">sefuroksim aksetil</a> yazmam. içemiyorlar.<br/><br/>2. kıvamı: çok önemli bir sorun. klaritromisin çok sevilen bir ilaçtır. çocuklar genelde çok fayda görürler ama aynı etken madde de acayip kıvam farkı var. biri çok pütürlü ve çocuk içemiyor. elimden geldiğince dikkat ediyorum.<br/><br/>3. şişenin kapağı: kesinlikle bas çevir kapak olmalı. çocuk şişeyi alıp açamamalı. sonra bir gün bir gün bir çocuk, eve de gelmiş kimse yok oluyorlar. sonra biz midesini yıkıyoruz falan çok sıkıntı.<br/><br/>4. şişe rengi: bazı ilaçlar koyu renkli çünkü ilacın maddesi ışıktan etkileniyor. ilacın rengi ve kıvamı bozuluyor. ışık ilacın stabilizasyonunu etkiliyor. ilaç isimi yazmayacağım merak edenler mesaj atabilir. <br/><br/>5. ölçek ve boyutlar: örnek amoksisilin klavunat ın bazı markalarda es 600 formu mevcut. klavunat oranı amoksisiline göre az. 400 mg'lık ta 57 mg klavunat var 1,5 ölçek alınca hop klavunat oranı da artıyor. sonra antibiyotik ishali falan uğraş dur.<br/>ya da aynı ilaçta 140 ml 100 ml ve 70 ml form var. ben hastam 10 gün ilacını kesmesin istiyorum. 70 lik kullanınca erken bitiyor. tedavi yarım kalıyor.<br/><br/>6.kaşık/ölçek: bazı ilaçlarda kilogram bazlı ölçek pipet var. aileler için kulanımı çok daha kolay olabilir. ayrıca 2,5 ml(kaşıklarda sıklıkla 1/2 ye denk gelir) çok göz kararı. enjektör yine daha kullanışlı.<br/><br/>muadile karşı değilim. eczacı arkadaşlar ve hasta yakınları (benimkiler küçük boy oldukları için ilaçlarını kendileri seçemiyor) sadece etken madde olarak bakmasınlar olaya. bazı muadiller bence orjinal molekülden daha başarılı.
 - entry_name: |
     göğüs çatalına bakmayacak olgunluğa erişmek
   entry_id:  72984717
   entry_writer: isleten adam
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     böyle bir olgunluk yoktur. güzel memeye ve göte bakarım. benim için ayasofya, efes, göreme neyse güzel meme ve güzel göt odur. fazla uzatmayın bu konuyu.
-- entry_name: |
-    erkeklerin aşık olduklarında yaptıkları
-  entry_id:  72980022
-  entry_writer: cobaniyiyenkurt
-  entry_fav_count: 40
-  entry_content: |
-    -olabildiğince iyi davranmak,<br/>-karşı tarafı mutlu etmek için elinden geleni yapmak,<br/>-çokça umut etmek ve toz pembe bakmak,<br/>-bolca rezil olmak,<br/>-kendinden taviz vermek,<br/>-karşılık bulamamak,<br/>-kalbin kırılması,<br/>-istiklal marşı ve kapanış.
-- entry_name: |
-    igor tudor
-  entry_id:  72986277
-  entry_writer: mr horsehead
-  entry_fav_count: 35
-  entry_content: |
-    henüz 39 yaşında; bir takımı 13 hafta ligin tepesinde, 2 hafta 1 puan farkıyla 2. sırada tutabilmiş adam. <br/><br/>senin yaşında <a class="b" href="/?q=mourinho">mourinho</a> leira'da geziniyordu, <a class="b" href="/?q=j%c3%bcrgen+klopp">jürgen klopp</a> mainz'de dolanıyordu. <a class="b" href="/?q=allegri">allegri</a> grosseto'daydı.<br/><br/>şimdi hepsinin geldiği yer ortada. basın toplantılarından anlaşıldığı kadarıyla zeki bir adama benziyorsun. kendini geliştirmeye devam edersen çok daha iyi yerlere geleceğine dair ümitlerim var. yolun açık olsun kel adam.
 - entry_name: |
     sultan abdulhamit'in marangoz olması
   entry_id:  72996090
   entry_writer: attirmayin makedonun kafasini
-  entry_fav_count: 34
+  entry_fav_count: 42
   entry_content: |
     marangozluğu komik bulan komiklerce komik olarak değerlendirilmiş olaydır.<br/><br/>marangozluk komik değildir efendim. sağından da baksanız, solundan da baksanız, götünüzle de baksanız komik değildir.<br/>zanaattır.<br/>götüne güvenen buyursun marangoz olsun.
+- entry_name: |
+    dursun özbek'in yönetimine mehmet ağar'ı alması
+  entry_id:  72986106
+  entry_writer: kumulatifvergimatrahi
+  entry_fav_count: 42
+  entry_content: |
+    federasyon başkanlığına da tekrar haluk ulusoy seçilerek 3 yıllık şampiyonluk garantilenebilir.
+- entry_name: |
+    kavga ayıracak kişide olması gereken özellikler
+  entry_id:  72986626
+  entry_writer: usudumbiraz
+  entry_fav_count: 39
+  entry_content: |
+    kundura ayakkabı, kareli bir gömlek, ağzında sigara, yüksek bir ses tonu, pos bıyık, mümkünse şiveli bir konuşma, irice bir göbek ve babacan bir tavır olmalı. <br/><br/>kavgayı ayırdıktan sonra nasihatle karışık fırça atmasını da bilmeli.
+- entry_name: |
+    igor tudor
+  entry_id:  72986277
+  entry_writer: mr horsehead
+  entry_fav_count: 36
+  entry_content: |
+    henüz 39 yaşında; bir takımı 13 hafta ligin tepesinde, 2 hafta 1 puan farkıyla 2. sırada tutabilmiş adam. <br/><br/>senin yaşında <a class="b" href="/?q=mourinho">mourinho</a> leira'da geziniyordu, <a class="b" href="/?q=j%c3%bcrgen+klopp">jürgen klopp</a> mainz'de dolanıyordu. <a class="b" href="/?q=allegri">allegri</a> grosseto'daydı.<br/><br/>şimdi hepsinin geldiği yer ortada. basın toplantılarından anlaşıldığı kadarıyla zeki bir adama benziyorsun. kendini geliştirmeye devam edersen çok daha iyi yerlere geleceğine dair ümitlerim var. yolun açık olsun kel adam.
+- entry_name: |
+    ibb daire başkanın zabıta tokatlaması
+  entry_id:  72978880
+  entry_writer: mete han turkyilmaz
+  entry_fav_count: 34
+  entry_content: |
+    bir kişiyi, çocuk ya da büyük fark etmez bir insanı hele de arkadaşlarının önünde, herkesin ortasında dövmek insanlık suçudur. bunun başka hiçbir açıklaması olamaz.<br/><br/>tanzimat döneminde fincanların üzerinde "hürriyet, müsavat" gibi sözcükler yazılması modaymış. (müsavat: eşitlik, denklik)<br/><br/>bundan 150 yıl önce biz millet içinde herkesin eşit olması gerektiğini savunduk, kanun padişahtan üstündür diye mücadele verdik.<br/><br/>kişi yargılanmadan cezalandırılmasın, suçlu da kanunda var olan ceza neyse alsın, dedik. ii. mahmut bunlara uymaya yemin etti.<br/><br/>150 yıl sonra geldiğimiz duruma bak...
 - entry_name: |
     fatih terim
   entry_id:  72981074
@@ -157,12 +178,12 @@ data:
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bir fenerbahçeli olarak galatasaray’ın başına geçmesi beni çok mutlu etmiştir. gelsin şimdi xelçuklar, hakan baltalar yeni yüksek maliyetli futbolcular. bu klüp harbi birilerinin çiftliği olmuş. koskoca milyar dolarlık mecidiyeköy arazisi gitti, riva arazisi gitti, florya gitti. ama yine terim geldi. ünal aysal gelse de voltanı tamamlasalar keşke. tek merak ettiğim kovulduğunda alacağı tazminat miktarı ne kadar acaba. zira terim tazminatlara bayılır. adamın tek geçim kaynağı. bunca şeye rağmen bide fenerliler korkuyor demezler mi şaka gibi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>adamların terim yüzünden gün ışığı görmemekten, defalarca kupa ve final kaybetmekten şirazeleri kaymış. birilerinin çiftliği olmuş derken çiftliklerinin sahibi 20 yıldır tek başına yönetiyor bunları. yüksek maliyet xelçuk diyor da alpere 6 ozana 8 veren noel baba sanki amk. birde gelip diyor ki ''gs'nin başına geçmesi beni çok mutlu etmiştir''. bak bunu fenerbahçe'li söylüyor. terim'den en çok muzdarip olan camia'nın taraftarı. ulan sen 32 puan topladın diye bayram eden, galatasaray ise 32 puan'da kaldığı için teknik direktörünü kovan bir camia. allah akıl fikir versin diyorum.
 - entry_name: |
-    ibb daire başkanın zabıta tokatlaması
-  entry_id:  72978880
-  entry_writer: mete han turkyilmaz
-  entry_fav_count: 33
+    hayattan zevk alamamak
+  entry_id:  72990709
+  entry_writer: gkbrg1985
+  entry_fav_count: 32
   entry_content: |
-    bir kişiyi, çocuk ya da büyük fark etmez bir insanı hele de arkadaşlarının önünde, herkesin ortasında dövmek insanlık suçudur. bunun başka hiçbir açıklaması olamaz.<br/><br/>tanzimat döneminde fincanların üzerinde "hürriyet, müsavat" gibi sözcükler yazılması modaymış. (müsavat: eşitlik, denklik)<br/><br/>bundan 150 yıl önce biz millet içinde herkesin eşit olması gerektiğini savunduk, kanun padişahtan üstündür diye mücadele verdik.<br/><br/>kişi yargılanmadan cezalandırılmasın, suçlu da kanunda var olan ceza neyse alsın, dedik. ii. mahmut bunlara uymaya yemin etti.<br/><br/>150 yıl sonra geldiğimiz duruma bak...
+    yaşadığım kayıplardan mıdır, hayal kırıklıklarından mıdır neden bilmiyorum artık hayattan eskisi kadar zevk alamıyorum. futbolu çok severdim, yine seviyorum, maç izlemek haftanın en değerli anlarıydı ama artık eski heyecanı hissetmiyorum. eskisi kadar sürprizlerle dolu gelmiyor hayat, hiçbir şey beni şaşırtmıyor her şey eskidi sanki. depresyonda falan da değilim sadece eski renkleri göremiyorum ya da ben fazla anlamlar yüklemişim geçmişte bir şeylere. arkadaşlarla buluşmak eskisi kadar keyif vermiyor, kaçasım geliyor hatta. sıkılıyorum çoğu zaman. insanlar boş geliyor hayır gerçekten depresyonda değilim hatta son zamanlar gayet mutluyum ama hayattan artık eskisi kadar zevk almıyorum. çoğu şey düştü gözümden, hevesim kalmadı.
 - entry_name: |
     tayfun karali
   entry_id:  72983346
@@ -174,121 +195,100 @@ data:
     bitcoin
   entry_id:  72986647
   entry_writer: timbirlak castin
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     (bkz: <a class="b" href="/?q=satoshi+nakamoto%27nun+%c3%b6n%c3%bcne+yazar+kasa+f%c4%b1rlatmak">satoshi nakamoto'nun önüne yazar kasa fırlatmak</a>)
-- entry_name: |
-    hayattan zevk alamamak
-  entry_id:  72990709
-  entry_writer: gkbrg1985
-  entry_fav_count: 29
-  entry_content: |
-    yaşadığım kayıplardan mıdır, hayal kırıklıklarından mıdır neden bilmiyorum artık hayattan eskisi kadar zevk alamıyorum. futbolu çok severdim, yine seviyorum, maç izlemek haftanın en değerli anlarıydı ama artık eski heyecanı hissetmiyorum. eskisi kadar sürprizlerle dolu gelmiyor hayat, hiçbir şey beni şaşırtmıyor her şey eskidi sanki. depresyonda falan da değilim sadece eski renkleri göremiyorum ya da ben fazla anlamlar yüklemişim geçmişte bir şeylere. arkadaşlarla buluşmak eskisi kadar keyif vermiyor, kaçasım geliyor hatta. sıkılıyorum çoğu zaman. insanlar boş geliyor hayır gerçekten depresyonda değilim hatta son zamanlar gayet mutluyum ama hayattan artık eskisi kadar zevk almıyorum. çoğu şey düştü gözümden, hevesim kalmadı.
-- entry_name: |
-    adana'da kocasının üzerine kızgın yağ döken kadın
-  entry_id:  72988462
-  entry_writer: herkes gercek bi benim sahte
-  entry_fav_count: 27
-  entry_content: |
-    şehri başlığa yazmak karekter israfı olmuş ; tahmin ederdik zaten.
-- entry_name: |
-    kılıçdaroğlu şirket kuramamış birisidir
-  entry_id:  72995469
-  entry_writer: hadi git
-  entry_fav_count: 21
-  entry_content: |
-    partili cumhurbaşkanı’nın kılıçdaroğlu’nu eleştirdiği cümleden bir bukle bu sözler. cümlemin tam hali şöyle;<br/><br/>“bu zat ömründe devletten aldığı maaş dışında anlının teriyle bileğinin ve yüreğinin gücüyle tek kuruş kazanamamış, ticaret yapamamış, risk alamamış, şirket kurmamış birisidir.” <br/><br/>hayır anlamıyorum ben arkadaş. devletten alınan maaş alnının teriyle kazanılmıyor mu demek isteniyor mesela? ya da bir şekilde sermayesi olmayan, ticaret yapamayan benim gibi insanlar risk alamadı mı oluyor? şirket kuramayan milyonlar var bu ülkede, milyonlar. bırak şirket kurmayı, işsiz milyonlar var. ayrıca bir siyasetçinin başarısı geçmişte şirket kurmasıyla mı ölçülüyor? eğer öyleyse cumhurbaşkanı’nın kurduğu şirketler hangileri? bu konuşmanın bir kısmında geçen kılıçdaroğlu’nun elindeki belgelerde iddia edilen man adasındaki şirketi kuranlar alın teri ile mi kurmuştur mesela?
-- entry_name: |
-    yeni bir insanla tanışmaya üşenmek
-  entry_id:  72989819
-  entry_writer: delfina
-  entry_fav_count: 19
-  entry_content: |
-    bazen öyle bişey olur ki, (lale müldür'ün güzel kaleminden ifade edersek),<br/>"iki geyiğin aynı anda zıplayıp havada öpüşmesi gibi"<br/>öyle biri çıkar gelir... çoğu zaman da bi tesadüfle. <br/><br/>sohbet öyle bi akar, ilk görüşte çakıveren o alev, o çekim öyle bi yükselir ki...<br/>ittirmeceli bişeyden bahsetmiyorum. tamamen kendiliğinden olan bişey bu. hatta coşkun akan bi dere gibi. o an susman, gitmen gerekse bile yapamamak..<br/><br/>ben herif taifesiyle öyle çok konuşmayı sevmem sanırdım. o da öyle... 8 saat aralıksız içip sohbet etmiştik ilk gün. ve ikimizin de çok derinden hissettiği- bildiği o gerçek...<br/>yetmemişti. doyamıyorduk... 88 saat daha sürse bile doyacak gibi değildik.<br/><br/>öyle öyle tanıyorsun işte... <br/>"hadi üşenmeeee, bi şans ver. anlat kendini" gibi bi iç ses varsa zaten o iş olmayacak duaya amin demek gibi bence.<br/><br/>zaten "o" potansiyel varsa, daha iç ses filan ne olduğunu anlamadan büyük bir iştahla anlatmaya ve dinlemeye başlamış oluyorsun.<br/><br/>yüreğin ağzında, midende kelebekler, aklında "eyvah eyvah" alarmları...<br/><br/>iş konuşmak için biraraya gelmiş iki insanın yarım saat sonra kahve içtikleri mekandan kalkıp - öğle vakti- yandaki meyhaneye geçebildiği, 8 saat rakı içebildiği, arada kıyafetlerle denize filan girebildiği ve sonra -<br/>gülmekten kırılarak- çıkıp içmeye devam edecek kadar beraber delirebildiği bişeyden bahsediyorum... <br/><br/>bu iki insan da son derecede ciddi bi noktadalar bu arada iş dünyasında. biri sanayici bi patron, biri önemli projelere imza atan bir sanatçı... <br/>kazık kadar insanlar. yaş 35, dante gibi ortasındalar bi de ömrün... <br/><br/>... <br/><br/>hasılı, somut biri var da üşeniyorsan, zaten o kişi "o" değildir. <br/>"o" geldiğinde delilik gibi geliyor zaten... önünde duramıyorsun o delirmenin...<br/>yaş, kariyer, pozisyon, engel faktörler ne olursa olsun
-- entry_name: |
-    her sabah sevgilisine waffle yapan erkek
-  entry_id:  72985667
-  entry_writer: gelsomina
-  entry_fav_count: 19
-  entry_content: |
-    yakında şişman bir sevgiliye sahip olacak erkektir.
-- entry_name: |
-    enes batur türkiye'nin yeni nejat uygur'udur
-  entry_id:  72995549
-  entry_writer: gods of war
-  entry_fav_count: 19
-  entry_content: |
-    (bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)
-- entry_name: |
-    arif v 216
-  entry_id:  72996158
-  entry_writer: damon and his friends are stupid but you
-  entry_fav_count: 18
-  entry_content: |
-    zerre kadar umrunda değilse neden başlığına yazıyorsun be bilader diye serzenişte bulunmak istediğim insanların da gidip izleyeceklerini düşündüğüm filmdir.
-- entry_name: |
-    arda turan
-  entry_id:  72980882
-  entry_writer: dokuz numara dort yildiz
-  entry_fav_count: 18
-  entry_content: |
-    (bkz: <a class="b" href="/?q=come+to+be%c5%9fikta%c5%9f">come to beşiktaş</a>)<br/><br/>not: fb
-- entry_name: |
-    sıçtık kelimesinin mesleklerdeki terminolojisi
-  entry_id:  72994216
-  entry_writer: pitch bend
-  entry_fav_count: 16
-  entry_content: |
-    "matbaadan arıyorlar."<br/>(bkz: <a class="b" href="/?q=grafik+tasar%c4%b1m">grafik tasarım</a>)
 - entry_name: |
     banyodayken dikkat edilmesi gerekenler
   entry_id:  72996348
   entry_writer: normalman
-  entry_fav_count: 16
+  entry_fav_count: 27
   entry_content: |
     yeni nesil evlerin duşakabinlerinde arkanız musluğa dönükken hızla eğilmeyin!
 - entry_name: |
-    30 yaşından sonra oynanabilecek pc oyunları
-  entry_id:  72989351
-  entry_writer: oluyenyuru
-  entry_fav_count: 13
+    kılıçdaroğlu şirket kuramamış birisidir
+  entry_id:  72995469
+  entry_writer: hadi git
+  entry_fav_count: 26
   entry_content: |
-    yaş gözetmeksizin her daim oynayabileceğim yegane oyun (bkz: <a class="b" href="/?q=world+of+warcraft">world of warcraft</a>)
+    partili cumhurbaşkanı’nın kılıçdaroğlu’nu eleştirdiği cümleden bir bukle bu sözler. cümlemin tam hali şöyle;<br/><br/>“bu zat ömründe devletten aldığı maaş dışında anlının teriyle bileğinin ve yüreğinin gücüyle tek kuruş kazanamamış, ticaret yapamamış, risk alamamış, şirket kurmamış birisidir.” <br/><br/>hayır anlamıyorum ben arkadaş. devletten alınan maaş alnının teriyle kazanılmıyor mu demek isteniyor mesela? ya da bir şekilde sermayesi olmayan, ticaret yapamayan benim gibi insanlar risk alamadı mı oluyor? şirket kuramayan milyonlar var bu ülkede, milyonlar. bırak şirket kurmayı, işsiz milyonlar var. ayrıca bir siyasetçinin başarısı geçmişte şirket kurmasıyla mı ölçülüyor? eğer öyleyse cumhurbaşkanı’nın kurduğu şirketler hangileri? bu konuşmanın bir kısmında geçen kılıçdaroğlu’nun elindeki belgelerde iddia edilen man adasındaki şirketi kuranlar alın teri ile mi kurmuştur mesela?
+- entry_name: |
+    mario gomez
+  entry_id:  72987793
+  entry_writer: bilemiyorum altan bilemiyorum
+  entry_fav_count: 23
+  entry_content: |
+    adam bundesliga'nın 12. sırasındaki takımdan 14. sırasındaki takıma transfer oldu.<br/><br/>belli ki başarıya doymuş. galibiyet kupa mupa hikaye (ki stuttgart pokal cup'tan da elendi), "emekli olmadan önce karımla kendi ülkemde takılıyım" diyor.<br/><br/>yaşı 32 olsa dahi bu tutumu tuhaf. eto'o 36 yaşında, geçmişi başarılarla dolu. hâlâ futbola ne kadar aç olduğu ortada. terör, kıl, yün, tüy demedi. geçen sezon 17 maçta dipden alıp nereye taşıdı antalyaspor'u. ayrıca takımı bıraksaydı, beşiktaş'a gelecekti sanki. belli oluyordu istediği. o da bilirdi atıyorum malaga'ya transfer olup bildiği ülkede ense yapmayı.<br/><br/>her neyse.<br/><br/>zorla güzellik olmaz.<br/><br/>acı ama bu kadarmış. futbol tarihinden ve türk futbolundan bir alman panzeri geçti. keşke başka hikayeler yazmak için daha istekli olsaydı. yapacak birşey yok.
+- entry_name: |
+    arif v 216
+  entry_id:  72996158
+  entry_writer: damon and his friends are stupid but you
+  entry_fav_count: 19
+  entry_content: |
+    zerre kadar umrunda değilse neden başlığına yazıyorsun be bilader diye serzenişte bulunmak istediğim insanların da gidip izleyeceklerini düşündüğüm filmdir.
+- entry_name: |
+    sıçtık kelimesinin mesleklerdeki terminolojisi
+  entry_id:  72994216
+  entry_writer: pitch bend
+  entry_fav_count: 18
+  entry_content: |
+    "matbaadan arıyorlar."<br/>(bkz: <a class="b" href="/?q=grafik+tasar%c4%b1m">grafik tasarım</a>)
 - entry_name: |
     kurşunlarla rte yazan akp'li vatandaş
   entry_id:  72996801
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 9
+  entry_fav_count: 16
   entry_content: |
     gecici korluk yaratan bir vatandasimiz.<br/><br/>kardesim biz naif ve muhalif kimligimizle <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rJl6O3.jpg" title="https://i.hizliresim.com/rJl6O3.jpg">bu</a> tiplerle nasil basa cikalim allah askina?<br/><br/>bu saatten sonra reisin yolu benim yolumdur. sikerler ya yeter artik. fotografi da telefona arka plan yaptim. oh amk mis gibi delirdim.
+- entry_name: |
+    30 yaşından sonra oynanabilecek pc oyunları
+  entry_id:  72989351
+  entry_writer: oluyenyuru
+  entry_fav_count: 16
+  entry_content: |
+    yaş gözetmeksizin her daim oynayabileceğim yegane oyun (bkz: <a class="b" href="/?q=world+of+warcraft">world of warcraft</a>)
+- entry_name: |
+    paribu
+  entry_id:  72986992
+  entry_writer: dragonlady
+  entry_fav_count: 15
+  entry_content: |
+    bitcoin 53.000'lere düşmüş, 49.000'den alış emri veriyorum, paribu'dan gelen mesaj "alış emriniz çok düşük, lütfen makul bir seviyeden fiyat belirtiniz".<br/><br/>zuahahaha. borsaya bak ya. sana ne amına koyayım? sana ne ya? ulan istersem 1 kuruşa alış emri veririm, istersem 10 liraya. sana mı soracağım? götüm ya.<br/><br/>fakat balinalar da çok iyi manipüle ediyorlar. valla helal olsun. koskoca borsaya bile yan bastırdı. safljhdkaslf.<br/><br/>son olarak bir lafım daha var sana paribu:<br/><br/>- bugün 10:30'da binance'te bitcoin fiyatı 12.570 usd.<br/><br/>- bugün 10:30'da paribu'da bitcoin fiyatı 57.500 tl.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.investing.com/currencies/btc-usd?cid=1035793" title="https://www.investing.com/currencies/btc-usd?cid=1035793">investing'den açıp bakın</a>.<br/><br/>türk her yerde türk amına koyayım. paribu'daki lavuklar da biliyorlar bunun manipülatif hareket olduğunu ama bıraksanız 80.000'de tutacaklar btc fiyatını. bu nasıl bir şark kurnazlığıdır ya? <br/><br/>3.83'ten hesaplarsanız binance'teki fiyat 48.143 tl ediyor. %25 fazladan satmak nedir ya? belki buraya yazmıyorum ama içimden hepinize ana bacı küfür ediyorum haberiniz olsun. monacoin hepinizin, her bir çalışanınızın, şark kurnazlığınızın, küçük beyinlerinizin.<br/><br/>evet, bilmiyorsanız böyle bir coin var.<br/><br/><a class="b" href="/?q=monacoin">monacoin</a> senin paribu.<br/><br/>(bkz: <a class="b" href="/?q=monacoin">monacoin</a>)<br/><br/>*<br/><br/>edit: bunun taksi versiyonu, havalimanında 100 kişi öldüğünde 300 liradan aşağıda gitmeyen taksi şoförlüğüdür. ben buna insanlık dışıdır diyorum, ki benim için en ağır küfürlerden beterdir. para için ananızı babanızı satacaksınız be. utanın. her gün bitfinex'ten hesap açmaya çalışıyorum sırf swift ile dolar gönderebilmek için, size maruz kalmamak için. neyse ki çoktan diğer borsalara aktardım parayı da, zerre kazanamıyorsunuz benden. çekerken de sizden çekip bir yerinize monte etmezsem ne olayım.<br/><br/>edit 2: şaka gibi ya şimdi de borsası bozuldu. şahin mi lan bu. marş basmıyor şu an. yarım saattir 60.000 tl de btc fiyatı. bi ara bi 66.801 e çıktı kendi kendine sonra indi falan. adamların zihniyet bu işte. 60.000’e alt limit koymuşlar. birazdan 2-3 bine düşücek bitcoin, burda hala 60.000 amk. neyse ya sabahtan beri kanser ettiler. iş de bitti gidip bira içicem ben. gelen varsa gelsin.
 - entry_name: |
     başlayınca durdurmanın imkansız olduğu hareketler
   entry_id:  72996662
   entry_writer: patryn
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=bacak+sallamak">bacak sallamak</a>)<br/><br/>biri uyarmasa sonuna kadar devam edilesidir bazen.
-- entry_name: |
-    amerika'nın türkiye'yi bir türlü bölememesi
-  entry_id:  72996677
-  entry_writer: dondurmayacipsbananadam
-  entry_fav_count: 6
-  entry_content: |
-    nere bölememesi? illa doğu türkiye, batı türkiye ya da kuzey türkiye güney türkiye falan olmasını bekleyen varsa net gerizekalıdır.<br/><br/>türkiye cumhuriyeti vatandaşlarının yarısı, diğer yarısından ölesiye nefret ediyor ve bütün sorunların kaynağı olarak görüyor. bir sonraki bölünme aşaması zaten bu grupların karşılıklı ölümlere varan çatışmalara evrilmesi. hala daha "emeriha bizi bölemeyor, tek fatan tek payrak tek lölölöl" kafasında devam edin siz ahaberle.
-- entry_name: |
-    kafayı boşaltma yöntemleri
-  entry_id:  72980446
-  entry_writer: superstupid
-  entry_fav_count: 5
-  entry_content: |
-    (bkz: <a class="b" href="/?q=y%c3%bcr%c3%bcy%c3%bc%c5%9f">yürüyüş</a>) <br/>rotasız, amaçsız.
 - entry_name: |
     22 aralık 2017 meral akşener halk tv canlı yayını
   entry_id:  72997661
   entry_writer: toplamiyorumulankozalaklari
-  entry_fav_count: 4
+  entry_fav_count: 8
   entry_content: |
     - 18-25 yaş arası gençler umutlarını kaybetmişler,hayal kuramıyorlar.<br/><br/>meral hanım ekşi sözlük okuyor galiba.
+- entry_name: |
+    kafayı boşaltma yöntemleri
+  entry_id:  72980446
+  entry_writer: superstupid
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=y%c3%bcr%c3%bcy%c3%bc%c5%9f">yürüyüş</a>) <br/>rotasız, amaçsız.
+- entry_name: |
+    fi
+  entry_id:  72981501
+  entry_writer: ineedanintervention
+  entry_fav_count: 4
+  entry_content: |
+    yukarıda bolca yazılmış olan bir yorumla ilgili ufak bir eyyor/düzeltmemin olacağı dizidir. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>herkes özge'nin iki kişinin ölümüne neden olduğundan bahsetmiş. aslında çatıdan atılan adamın da özge ile bağlantılı konu yüzünden ölmek durumunda kaldığını da göz önünde bulundurursak, özge'nin ölümüne neden olduğu kişi sayısı 3'tür. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    star wars episode viii the last jedi
+  entry_id:  72980399
+  entry_writer: snidget
+  entry_fav_count: 3
+  entry_content: |
+    yerden yere vurulacak kadar kötü olmayan, hele hele the force awakens'tan kat kat iyi olan, ancak sinema eleştirmenlerinin "star wars'ta devrim oluyor, rian johnson başyapıt çıkarmış, serinin en iyi filmlerinden" tarzı artık abartırlarken eşeğin amına su kaçırmalarına sebep verecek kadar da asla iyi olmayan bir film. kaliteli yönetmenlik, tarzı olan bir sinema dili + bol gösterişli, iyi çekilmiş aksiyon sahnelerinden oluşan standart bir hollywood eğlenceliği, başka bir şey değil. zira çok büyük bir kusuru var ki şayet bir sinema filminden bahsediliyorsa aslında en büyük kusur da budur, senaryosu çok kötü ve sıkıntılı. <br/><br/>pek bilmiş sinema eleştirmenleri bunun kadar bile berbat senaryosu olmayan benzer bir sürü hollywood filmine sümüklerini bile atıp, hakkında iki kelam etmeye gerek görmezlerken, bu kadar sorunlu bir senaryoya sahip bir filmi nasıl oluyor da bu kadar övüp, zorla insanların başına "başyapıt" diye kakma noktasına getirebiliyorlar, anlamak mümkün değil. star wars fan şımarıklığı, başka bir şey değil. kaliteli yönetmenlik bok gibi senaryoyu örtemez, kusura bakmasınlar. zira ortada kendi başına ayakları üstünde durabilen bir film senaryosu değil, artık anlatmak istedikleri her ne boksa devamlı bir sonraki bölüme sarkıtıp kendisine zaman kazanmaya çalışan bir "arkası yarın" senaryosu var. ambalajı pek şık, hatta pek entel ancak içi bomboş. hem de 152 dakikalık süresine rağmen. şimdi hemen diyenler çıkacaktır ; "e star wars zaten space soap opera" diye bilinen bir seri diye, ben de diyeceğim ki "ama buna rağmen önceki 6 filmin hepsi kendi anlatacağı konuları adam gibi anlatıp bitiriyordu, hepsi kendi ayakları üstünde durabiliyordu"... the last jedi 2.5 saat sürdü, ne anlattı allah aşkına? hikaye mi vardı ortada?<br/><br/>rey ya da kylo ren'i falan da geçtim, bu serinin en büyük sıkıntısı neden çekilmekte olduğunu, yeni ve farklı ne anlatmakta olduğunu, insanların neden başında vakit geçirmeleri gerektiğini anlatabilmekten fersah fersah uzakta olması, hatta zaten bunu anlatmaya tenezzül bile etmemesi. yepyeni bir serinin ilk bölümü değil bu, 40 yıldır devam eden bir serinin 8. bölümü. boşverin siz iki ergen irisini, en son episode 6'da yıkılan imparatorluktan sonra bu kadar kuvvetli bir ilk düzen (first order) hangi ara nasıl kurulabildi, jediler bugünkü acınası hallerine nasıl düşebildi, snoke denen şekilsiz bunca gücü ve adamı nereden nasıl buldu da bugünkü konumuna gelebildi, kim neyin kavgasını neden veriyor, bu seri neden çekiliyor, hiçbir sikin cevabı yok iki filmde de. serideki ana çatışma noktalarının ne oldukları, nereden kaynaklandıklarıyla ilgili tek bir satır bile ikna edici açıklama yok, bir arka plan bilgilendirmesi, üçlemeyi bir mantığa bürüme hamlesi yok. varsa yoksa iki tane ergenin nereden peydahlandığı belli olmayan kerameti kendinden menkul güçleriyle iki günde jedi kesilmesi, sith lordlarını öldürebilmeleri vs. vs. zırvalıkları. 40 sene önce en âlâsını izlediğimiz orijinal bir şeyi temcit pilavı gibi neredeyse birebir kopyalarak tekrar izletiyorlar ve sinema eleştirmenleri buna rağmen izlerken zevkten ıslanıyorlar öyle mi? şaka gibiler. <br/><br/>üstelik de bütün bunları yaparken (daha doğrusu yapamazken) bir de efsane serinin efsane karakterlerini rezil kepaze ettiler. yeni bir jenerasyonu anlatan yeni bir seri çekmek istiyorlardıysa yeni bir jenerasyonu anlatan yeni bir seri çekerlerdi. <a class="b" href="/?q=luke+skywalker">luke skywalker</a>, <a class="b" href="/?q=han+solo">han solo</a> ve hatta <a class="b" href="/?q=prenses+leia">prenses leia</a> gibi ölümsüz karakterleri soytarı etmeye, 40 senelik ve 6 filmlik bir külliyatın mitini bozmaya, yaratılan şeyin suratına tükürmeye gerek yoktu. madem kullanacaklardı, hepsini haklarını vererek kullansalardı. "ben yaptım olduculuğun" adı da "devrimcilik" oldu, "yeniyi getirebilmek için eskiyi yok etmek gerek" düsturu savunulur oldu. üstelik de yeniyi orijinal üçlemenin her şeyini mot a mot taklit etmeye çalışarak getirmeye çalışan, bütün olayı klasik üçlemenin nostalji duygusunu ve karakterlerini sömürerek para söğüşlemek olan bir üçleme bu, devrim yapıyormuşmuş... ha siktirin gidin oradan derler adama. <br/><br/>daha ilk filmde kurmaya başladıkları hikayeyi bile bozan, cevap bekleyen soruların neredeyse hiçbirine ikna edici cevaplar veremeyen, verdiği kadarı da son derece zorlama olup karın doyurmayan ve bütün karakterlerin hikayelerinin, motivasyonlarının altını dolduramadan eksik bırakan, kendi içinde bir sürü mantık hatası barındıran ama işbilir bir yönetmenlikle bir sürü görkemli ve gösterişli aksiyon sahnesi tasarlandığı için, özellikle ikinci yarısındaki tempo ve gerilimle gazı dayayıp işi kurtaran "eğlen coş, işte kiboş" filmi. daha ötesi değil. ayrıca rose ve finn kadar gereksiz iki karakter ve canto bay denen silah tüccarlarının gezegeninde, uzay atı denen soytarılıklarla harcanan 20 küsur dakika bu filmden tümden kaldırılıp atılsa kimsenin ruhunun bile duymayacağına eminim. o kadar gereksizler. senaryodan çakıyor, üstüne bir de kurgudan çakıyor, buna rağmen <a class="b" href="/?q=the+empire+strikes+back">the empire strikes back</a>'le falan bir tutulabiliyor utanılmadan. hele hele hele...
 - entry_name: |
     istinyepark'ta açılan yataklı sinema salonu
   entry_id:  72984435
@@ -297,26 +297,12 @@ data:
   entry_content: |
     tek başınıza izlemiyorsunuz olm birsürü yatak var. sevişemezsiniz yani. <br/>çok da absürt değil. "ulan yatarak sinemada film izlemek nasıl bir keyif acaba?" diye merak edenler gidebilir.<br/><br/>ama yani kıyıda köşede boş bi salona gidip de yatarak film izleyebilirken niye 150 lira vereyim olm?<br/><br/>ben vermem; verene de beyinsiz demem. para onun. adama koymuyor demek ki. <br/>aylık 1500 alıp sevgilisini rahatça emmek için 300 lira veren adama beyinsiz derim. çünkü beyinsiz.
 - entry_name: |
-    ekşi itiraf
-  entry_id:  72993528
-  entry_writer: pul
-  entry_fav_count: 3
-  entry_content: |
-    son aylarda dizilere verdim kendimi. baya uzak kalmıştım bu ortamlardan, ilk önce fenomen olmuş, dünyayı sallamış ama beni es geçmiş dizilerle başladım. <br/><a class="b" href="/?q=game+of+thrones">game of thrones</a>’un bütün bölümlerini 3 haftada bitirdim. siz beklerken nasıl sabırsızlanmışsınızdır kim bilir, ben hepsini tek seferde yuttum, çok zevkliydi. kana, güce, kışa, popoya, intikama doydum şükür.<br/><br/>sonra dedim ki neden aynı şeyi <a class="b" href="/?q=breaking+bad">breaking bad</a> için de yapmıyorum? kabul et kıskandın beni, çünkü yine hiç beklemeden tüm bölümleri istediğim anda izledim. dizinin güzelliği bir yana bunun hemen ertesinde reza zarrab davasını takip ettiğim için o ara para mefhumumu kaybettim. herkese deste deste para dağıtıp (bahşiş için bir tomar parayı garsona vermek gibi mesela) hayatımda hiç yapmamış olmanın da merakıyla her işim için rüşvet vermek istedim. yine aynı dönemde bitcoin almadığım için dizlerimi dövdüm. gerçi ben bunu hayatım boyunca yapacağım için çok önemli bir detay değil artık. <br/><br/>lanet olsun parasına da hırsına da gideyim biraz entrika izleyeyim serzenişiyle kitabını okumadan <a class="b" href="/?q=big+little+lies">big little lies</a> ile haşır neşir oldum. <a class="b" href="/?q=david+e.+kelley">david e. kelley</a> işi sonuçta her türlü izlerim dedim. önüme polisiye, kriminal olayları anlatan her tür kitap-dizi-filmi, hukuk dizisi, seri katil hikayesi, amerikan mahkemesi at, elimden servetimi al. öyle dalar giderim. dizi zaten 7 bölüm, hemen bitiverdi, dozu da kesmedi. ablaların dertleri yeterince zorlayıcı değildi, çocuklar da korkutucu gelmedi. konuyu hemen çözdüm, çünkü aşırı zekamla tanınırım. (şaka şaka konu çok basitti yoksa salağımdır)<br/><br/>işte bu noktada <a class="b" href="/?q=dark">dark</a> düştü kucağıma. ya da ben onunkine, bilemedim. bu arada sözlüğün zayıf olduğu bir yanı buldum. almanları övmek için çok klişe şeyler söylüyoruz. “almanlık ne güzel, bütün dünya almanın orasını burasını yesin, almanlıktan aldığım tadı hiçbir şeyden almadım, alman yapmış abi...” rica ediyorum bu konuya biraz eğilelim. daha çok övmek, haklarını vermek istiyorum. 10 bölüm 10 günde bitti. bu yoksunluğa nasıl dayanırım derken <a class="b" href="/?q=mindhunter">mindhunter</a>’a atladım. yalnız ben bu film-dizi işlerinde baya amerika’nın köpeği olmuşum. dark’ın son bölümünden bir saat sonra başladım diziye, bildiğin köyüne dönmüş emmi gibi hissettim kendimi, toprak koktu. hem de 70’lerin sonu pensilvanya’sında başlıyor dizi. ama hakikaten ne dönem, ne ortam, ne arabalar, ne oyuncular hiçbirine yabancı değilim. beynimi yıkamışsınız namuzsuzlar!<br/><br/>şimdi bu kadar şeyin itirafla ne alakası var diyeceksiniz. şöyle ki, kendime diziler üzerinden bir sınır çizmeye karar verdim. kitaplar ve şarkılar kişinin benliğine göre şekilleniyor ve oradan bir ayrım yapmak bir sürü insanı sınır dışı bırakabilir. oysa diziler, hikayesi, görselliği, müziği, genel şemaliyle izleyiciye pek iş bırakmıyor. ya seversin ya sevmezsin. hoooppp al sana ortak zevkin göstergesi. <br/>bu durumda kendi onayımı dram ve komedi dallarında <a class="b" href="/?q=house+m.d.">house m.d.</a> ve <a class="b" href="/?q=seinfeld">seinfeld</a>’e verdim. o kadar şey izledim, şu ikisinden aldığım tadı alamıyorum. bu dizileri aşırı derecede sevenlerle ve özleyenlerle gönül bağım var. din kurarsanız beni de yazın, yönetim toplantılarına katılır, aidatımı aksatmam.
-- entry_name: |
     sözlükçülerin hayalindeki ev
   entry_id:  72995299
   entry_writer: mystic falls
   entry_fav_count: 1
   entry_content: |
     betonlardan uzak evdir. <a class="b" href="/?q=harry+styles">harry styles</a>'ın <a class="b" href="/?q=beverly+hills">beverly hills</a> semalarında <a rel="nofollow noopener" class="url" target="_blank" href="http://static.celebuzz.com/uploads/2016/07/harry-styles-house-620x413.jpg" title="http://static.celebuzz.com/uploads/2016/07/harry-styles-house-620x413.jpg">şöyle</a> rustik tarzda inşa edilmiş bir evi vardı gördüğüm kadarıyla satışa çıkarmış işte budur. ama buna hayal denemez hayal ötesi çünkü. beğendiğim ev diyelim.
-- entry_name: |
-    ideal türk erkeği
-  entry_id:  72996638
-  entry_writer: jack oneill with two ls
-  entry_fav_count: 1
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>cosmopolitan dergisi türk kadınlarına sormuş, gelen cevaplara göre seçimler...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>haber, olay, durum ya da her ne haltsa okurken (bkz: <a class="b" href="/?q=sevgili+k%c4%b1zlar+nas%c4%b1l+olucak">sevgili kızlar nasıl olucak</a>) hatırlayan bir ben mi varım acaba.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://cf.kizlarsoruyor.com/q3573693/b2a52185-ba0d-4fff-ad53-2d6e9c179fa0.jpg" title="https://cf.kizlarsoruyor.com/q3573693/b2a52185-ba0d-4fff-ad53-2d6e9c179fa0.jpg">1</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://1.bp.blogspot.com/_1F5nbCPrUAE/TJZTTIFkB4I/AAAAAAAAAqg/lSZmQhx6XmA/s1600/sevgilikızlar2.jpg" title="http://1.bp.blogspot.com/_1F5nbCPrUAE/TJZTTIFkB4I/AAAAAAAAAqg/lSZmQhx6XmA/s1600/sevgilikızlar2.jpg">2</a>
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  72982571
@@ -332,12 +318,33 @@ data:
   entry_content: |
     güzel film ama dizi olsa efsane olurmuş. şahane bir evren tasarlayıp buna yeteri kadar değinmemeleri / değinememeleri yazık olmuş. yine de 10 üzerinden 7 veririm en az.
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  72998206
-  entry_writer: karvedilol
+    madam tussaud müzesindeki türk erkeği heykeli
+  entry_id:  72998655
+  entry_writer: o yok bu yok ne var lan it
   entry_fav_count: 0
   entry_content: |
-    <a class="b" href="/?q=baris+manco">baris manco</a> -<a class="b" href="/?q=kezban">kezban</a><br/><br/>kitabına uyduran kervanı yükleyip yüksek dağlardan aşırır <br/>beceriksiz kişi sağa sola bakınıp ta düz ovada yolunu şaşırır <br/>dünyanın hali böyle <br/>bir bakışın yeter düşerim yollarına dünyalar güzeli kezban <br/>sarı sarı bileziği takarım kollarına dünyalar güzeli kezban
+    (bkz: <a class="b" href="/?q=kutsi+mi+lan+o">kutsi mi lan o</a>)
+- entry_name: |
+    kedilerin en bayıldığı yiyecekler
+  entry_id:  72997916
+  entry_writer: walter klemmer
+  entry_fav_count: 0
+  entry_content: |
+    şahit olduğum kadarıyla yumurta ve ayran.<br/>ben kedi beslemeden önce onların bu kadar ayran ve yumurta delisi olduğunu bilmiyordum.
+- entry_name: |
+    hashflare
+  entry_id:  72988431
+  entry_writer: bugatti
+  entry_fav_count: 0
+  entry_content: |
+    referanslı linkini vermek millet için milletin götünü siktireceği bulut madencilik sitesi. <br/><br/>bakıyorum olay kısmında yeni entry girilmiş hashflare başlığına. girdiğimde gördüğüm manzara, daha önce beş kere falan okuduğum entry silinmiş, aynısı tekrar girilmiş. bunu hemen hergün yapanlar var.<br/><br/>entry silmeler falan elbet kayıt altına alınıyordur, habire aynı entry'yi girip silip tekrar girenleri spamdan dolayı bi uçuruverin be moderatörler? sourlines iyi uçuşlar dilesin artık.
+- entry_name: |
+    enes batur türkiye'nin yeni nejat uygur'udur
+  entry_id:  72995540
+  entry_writer: oyadabu
+  entry_fav_count: 0
+  entry_content: |
+    süheyl uygurdur o. nejat olsa duramazsın.<br/><br/>gerçi süheyl'e de haksızlık oldu ama neyse.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  72997883
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 0
   entry_content: |
     bir saatliğine buradayım, dertten ziyade elimde içkim, kulağımda <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=7O-29B9p8Uc" title="https://www.youtube.com/watch?v=7O-29B9p8Uc">müziğim</a> havadan sudan muhabbete bekliyorum. din,dil,cinsiyet fark etmez muhabbetin güzelse, anlatacakların varsa gel :)<br/><br/>sözlük dışı: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://connected2.me/nategreysky">https://connected2.me/nategreysky</a>
-- entry_name: |
-    cex.io
-  entry_id:  72992758
-  entry_writer: suleyman hiyarto
-  entry_fav_count: 0
-  entry_content: |
-    yeni kayıt alımını donduran site. bugün kaydolayım dedim, yeni kayıtlar donduruldu mesajıyla karşılaştım. bence site cortingen.
 ---
