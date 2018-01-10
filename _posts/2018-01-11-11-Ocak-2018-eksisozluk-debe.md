@@ -6,58 +6,72 @@ data:
     boğaziçi öğrencilerinin erdoğan'a cevabı
   entry_id:  73401748
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 867
+  entry_fav_count: 871
   entry_content: |
     şöyledir;<br/><br/>‘diplomasız diktatör’<br/><br/>“türkiye siz değilsiniz!<br/><br/>dün (07.01.2018) boğaziçi üniversitesinde diplomasız cumhurbaşkanı tayyip erdoğan’ın katıldığı bir etkinlik gerçekleşti. etkinlikte üniversitemizin yerli ve milli olmayışından, “batılı” özgürlük anlayışından dolayı başarısız olduğuna değinen diplomasız diktatör, bir de biz boğaziçi üniversitesi öğrencilerine görev çağrısında bulundu.<br/><br/>bizim de bir çift lafımız olacak elbet.”<br/><br/>‘okul kapalıydı ayırt edememişsiniz; boğaziçililer cumhuriyet’in çocukları, gezi’yi omuzlayanlardır!’<br/><br/>“okul kapalıyken geldiğinizden ayırt edememiş olacaksınız; göreve çağırdığınız boğaziçililer, yani bizler, cumhuriyet’in çocuklarıyız. 90 kuşağıyız, gezi direnişi’ni omuzlayanlarız.<br/><br/>sizin halk düşmanı tarih yazımınızda bir orta doğu ülkesi olarak resmettiğiniz türkiye hikayelerine pabuç bırakır mıyız sandınız?”<br/><br/>‘saray soytarılarının ne amaçladığının farkındayız’<br/><br/>“gerek saray, gerekse saray’ın medya soytarıları tarafından yıllardır maruz kaldığımız “millilik” tartışmasının, üniversitemizi köksüzleştirmek ve marjinalleştirmekten başka bir amaç gütmediğinin farkındayız.<br/><br/>asıl türkiye’nin, cumhuriyet devrimini yaratmış bir batı ülkesi, boğaziçi üniversitesi tarihinin ise cumhuriyet ve eşit yurttaşlık mücadelesinin kendisi olduğunu çok iyi biliyoruz.”<br/><br/>‘kampüse ancak biz yokken sessizce girmenizi anlıyoruz’<br/><br/>“elbette kampüslerimize ancak bizler yokken, sessiz sedasız ve korkakça girmenizi çok iyi anlıyoruz. çünkü biz yine biliyoruz ki, üniversitemiz, tarihinde olduğu gibi bugün ve gelecekte de cumhuriyet’in kazanımlarının, eşit yurttaşlık mücadelesinin, laiklik ve bilimin öncüsü olmaya devam edecek.”<br/><br/>“biz boğaziçililer,<br/><br/>ülkemizi de, üniversitemizi de karanlığınıza teslim etmeyeceğimizi bildiriyoruz!"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/900984/Bogazici_Universitesi_ogrencilerinden_Erdogan_a_yanit__Diplomasiz_diktator.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/900984/Bogazici_Universitesi_ogrencilerinden_Erdogan_a_yanit__Diplomasiz_diktator.html">kaynak</a>
 - entry_name: |
     erdoğan'a isyan eden antalyalı çiftçi kadın
   entry_id:  73408252
   entry_writer: arjantin ovalarini sulayan nehir
-  entry_fav_count: 625
+  entry_fav_count: 636
   entry_content: |
     "sana oy attıysak bizi böyle et demedik."<br/><br/>sır bu cümlede arkadaşlar. başkanlık seçiminde hiç düşünmeden reis'e oy verecek kadının isyanıdır.
+- entry_name: |
+    türkiye simülasyonunu başarıyla geçtiniz
+  entry_id:  73413846
+  entry_writer: forumdayim
+  entry_fav_count: 381
+  entry_content: |
+    aniden uyanıp gözünüzü açtığınızda, karşınızda dikilen beyaz önlüklü bir kaç kişinin gülümseyerek söylediği ilk cümledir.<br/>siz kendinize gelmeye çalışırken bu kişiler ellerindeki tabletlere bir takım veriler girmektedir. <br/>sağa sola bakınırken duvardaki ekranda ülkedeki çarpıklıklara karşı verdiğiniz tepkiler ve başarı puanınız yazmaktadır. <br/><br/>level 74: araç almak istediğinde ötv’yi son sınırına çıkar. <br/>sonuç: geçti( çıldırma belirtileri saptansa da uzun süreli etki gözlemlenemedi)<br/><br/>level 132: tez yazarken abidük gübidik tezlerin onaylandığı haberinin yayınlanması<br/>sonuç: geçti (atom profesörlüğüne sövdü ama deveyi gütmeye devam etti)
 - entry_name: |
     bir ortaokul mezununun bile ateizmi çürütebilmesi
   entry_id:  73402179
   entry_writer: coldeavinibekleyenkutupayisi
-  entry_fav_count: 281
+  entry_fav_count: 286
   entry_content: |
     subhanallah kardes ibretlik bir gerizekaliymissin.
 - entry_name: |
     uyap'ı maalesef fetö'cülere kaptırdık
   entry_id:  73406659
   entry_writer: zattiri zottiri
-  entry_fav_count: 258
+  entry_fav_count: 260
   entry_content: |
     ''uyap gibi çok önemli bir teknolojiyi maalesef,bu bir öz eleştiridir. fetö’cülere kaptırdık.''<br/><br/>bu bir öz eleştiri değil suçtur.ve her suç işleyen şuçlu gibi yargılanmalıdır.
 - entry_name: |
     beyinden gelen cpu sesi
   entry_id:  73403908
   entry_writer: torikaeshi
-  entry_fav_count: 257
+  entry_fav_count: 258
   entry_content: |
     uzun sürmüş akşamların gecesinde böyle omurilik soğanı dolaylarında, içerden duyulan, genelde 1-1.5 saniye saniye süren ses, cızırtı. literatürde tespit edilmiş midir acaba.
-- entry_name: |
-    türkiye simülasyonunu başarıyla geçtiniz
-  entry_id:  73413846
-  entry_writer: forumdayim
-  entry_fav_count: 251
-  entry_content: |
-    aniden uyanıp gözünüzü açtığınızda, karşınızda dikilen beyaz önlüklü bir kaç kişinin gülümseyerek söylediği ilk cümledir.<br/>siz kendinize gelmeye çalışırken bu kişiler ellerindeki tabletlere bir takım veriler girmektedir. <br/>sağa sola bakınırken duvardaki ekranda ülkedeki çarpıklıklara karşı verdiğiniz tepkiler ve başarı puanınız yazmaktadır. <br/><br/>level 74: araç almak istediğinde ötv’yi son sınırına çıkar. <br/>sonuç: geçti( çıldırma belirtileri saptansa da uzun süreli etki gözlemlenemedi)<br/><br/>level 132: tez yazarken abidük gübidik tezlerin onaylandığı haberinin yayınlanması<br/>sonuç: geçti (atom profesörlüğüne sövdü ama deveyi gütmeye devam etti)
 - entry_name: |
     organize işler 2 nin kadrosu
   entry_id:  73410206
   entry_writer: nuri
-  entry_fav_count: 239
+  entry_fav_count: 250
   entry_content: |
     <a class="b" href="/?q=erdal+tosun">erdal tosun</a> olmadan her daim eksik kalacak kadrodur.
 - entry_name: |
     otobüste uyuyan güzel kızı öpmeyi istemek
   entry_id:  73399436
   entry_writer: genckartal301
-  entry_fav_count: 232
+  entry_fav_count: 238
   entry_content: |
     vay mınakoduğumun ağzını yüzünü siktiğimin iki yüzlü ekşici piçleri sizi.<br/><br/>metro muavini yapınca hede hödö diyorsunuz ama zamanında burada başlığını açıp ağzınızdan salyanız akarak neler yazmışsınız. ibnetor dümbük top götverenler sizi. <br/><br/>ulan yoksa malum metro muavini dingil herif bu başlığı açan ekşici mi? gerçi olmasa da aralarında pek fark yok gibi duruyor.
+- entry_name: |
+    newton yasasına uymayan turuncu madde
+  entry_id:  73404142
+  entry_writer: garipbasci
+  entry_fav_count: 217
+  entry_content: |
+    bildiğin türk milletine benziyor. <br/><br/>birden saldırınca taş gibi oluyor. yavaş yavaş çaktırmadan elini sokunca dibine kadar girebiliyorsun.
+- entry_name: |
+    10 ocak 2018 adil gür anket sonuçları
+  entry_id:  73408561
+  entry_writer: january rain
+  entry_fav_count: 192
+  entry_content: |
+    <a class="b" href="/?q=a+haber+canl%c4%b1+yay%c4%b1n%c4%b1nda+a%c3%a7%c4%b1klad%c4%b1.">a haber canlı yayınında açıkladı.</a> <br/><a class="b" href="/?q=a+haber+canl%c4%b1+yay%c4%b1n%c4%b1nda">a haber canlı yayınında</a> <br/><a class="b" href="/?q=a+haber+canl%c4%b1">a haber canlı</a> <br/><a class="b" href="/?q=a+haber">a haber</a>
 - entry_name: |
     türk olmakla övünmek
   entry_id:  73396902
@@ -66,19 +80,19 @@ data:
   entry_content: |
     türklerin dünyaya, bilime, insanlığa muazzam katkıları vardır. bir bozkır milleti olarak tüm imkanlarıyla insanlığa katlı vermiş bir ırktır türkler. bozkırın ortasında rönasans reformu yapacak değillerdi. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?q=üzengi+türk&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=C9m9gVM02TY9WM%253A%252C6DvAPPJlxzYcVM%252C_&amp;usg=__FSEKKil2wakC420XxgwhqLa9oe0%3D&amp;sa=X&amp;ved=0ahUKEwjZ_8azk83YAhUKKewKHY7DAbIQ9QEINjAD#imgrc=fu334WsNK3jIeM:" title="https://www.google.com.tr/search?q=üzengi+türk&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=C9m9gVM02TY9WM%253A%252C6DvAPPJlxzYcVM%252C_&amp;usg=__FSEKKil2wakC420XxgwhqLa9oe0%3D&amp;sa=X&amp;ved=0ahUKEwjZ_8azk83YAhUKKewKHY7DAbIQ9QEINjAD#imgrc=fu334WsNK3jIeM:">at koşum takımları</a>ndan, <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/pantolonu-turkler-mi-buldu-2901171200.html" title="https://odatv.com/pantolonu-turkler-mi-buldu-2901171200.html">pantolon</a>a ihtiyaçları dahilinde dünyaya katkılar vermişlerdir. uygurlar döneminde bozkır yaşamından biraz koparak bu katkıları o dönemin ilker <a rel="nofollow noopener" class="url" target="_blank" href="https://onturk.org/2011/03/24/ilk-matbaa-uygur-turkleri-tarafindan-kullanildi/" title="https://onturk.org/2011/03/24/ilk-matbaa-uygur-turkleri-tarafindan-kullanildi/">matbaa</a>larını yapacak kadar geliştirmişlerdir. araplara din öğretmişlerdir. türklerin tek yaptığı savaşçılık değildir. <a rel="nofollow noopener" class="url" target="_blank" href="https://insanveevren.files.wordpress.com/2013/08/altinadam18vr.jpg?w=531&amp;h=450" title="https://insanveevren.files.wordpress.com/2013/08/altinadam18vr.jpg?w=531&amp;h=450">altın elbiseli adam</a> kurganındaki sanata bakarsanız türklerin savaş dışında sanatta geliştiğini görürsünüz. aynı şekilde <a rel="nofollow noopener" class="url" target="_blank" href="https://onturk.files.wordpress.com/2011/04/tarak.jpg" title="https://onturk.files.wordpress.com/2011/04/tarak.jpg">altın tarak</a> da buna örnektir. eski türk çalgılarını dinleyip de sevmeyecek adam tanımıyorum. kadına değeri milattan önce verebilen ve <a rel="nofollow noopener" class="url" target="_blank" href="https://onedio.com/haber/9-maddeyle-dunyanin-ilk-kadin-hukumdari-tomris-hatun-727791" title="https://onedio.com/haber/9-maddeyle-dunyanin-ilk-kadin-hukumdari-tomris-hatun-727791">tomris hatun</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.turktarihim.com/Iskitler.html" title="https://www.turktarihim.com/Iskitler.html">amazon kadınları</a>nı var eden bir yapısı vardır.<br/><br/>savaşlarda sayı üstünlüğü olmadığı zamanlarda vardır. onları da kazanmıştır. fatih sultan mehmet ile dünyanın bilim açısından en yüksek devrini yaşamıştır. bir deha olan fatihin bilim dünyasına katkıları da çoktur. aynı şekilde timur atatürk gibi dehalarda yetiştirmiştir. dünyanın yedi harikasından olan bir mimari eseri türkler yapmıştır. avrupadaki minik derebeylikleri yenerek yükseldiği doğrudur. ancak avrupa o dönemde zaten bundan öte bir devlet değildir. o minik derebeyliklerin arkasındaki büyük devletlerin düzenlediği haçlı akınlarından da sayısal olarak az olsa bile galip çıkmıştır. dağılma ve duraklama devrine girmesinin sebebi güçlü avrupa devletleri değil çağının gereklerini yerine getirmeyen şarlatan bir zihniyete bürünmesidir. o zihniyette atatürk ile yıkılmıştır.<br/><br/>başka millet olmayı aşağılık saymadığı sürece her türk, türklüğüyle övünebilir. dünyanın kadim milletlerinden olan türklere gereksiz eleştiriler sunmanın anlamı yoktur.
 - entry_name: |
-    10 ocak 2018 adil gür anket sonuçları
-  entry_id:  73408561
-  entry_writer: january rain
-  entry_fav_count: 189
-  entry_content: |
-    <a class="b" href="/?q=a+haber+canl%c4%b1+yay%c4%b1n%c4%b1nda+a%c3%a7%c4%b1klad%c4%b1.">a haber canlı yayınında açıkladı.</a> <br/><a class="b" href="/?q=a+haber+canl%c4%b1+yay%c4%b1n%c4%b1nda">a haber canlı yayınında</a> <br/><a class="b" href="/?q=a+haber+canl%c4%b1">a haber canlı</a> <br/><a class="b" href="/?q=a+haber">a haber</a>
-- entry_name: |
     optik mağazasına isim önerileri
   entry_id:  73409925
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 126
+  entry_fav_count: 128
   entry_content: |
     15 temmuz şehitler optik
+- entry_name: |
+    cinemaximum'da suyun 4 tl olması
+  entry_id:  73405018
+  entry_writer: golfnutella
+  entry_fav_count: 122
+  entry_content: |
+    hatalı bir satış stratejisidir. tam olarak emin olmasam da, sanırım tüm sinemaların olduğu yerde, bir adet market mevcut. yani yaklaşık 2 dakika yürüyerek, maksimum 1 liraya alınacak suyun yerine, küçük boy ve susamış insana yetmeyecek miktardaki suyu 4 liraya almaz kimse.<br/><br/>alternatifinin olmadığı yerlerde, kazıklama mantığını yine bir nebze anlıyorum. örneğin havaalanları, ucuz satan hiç bir yer yok. ama bu cinemaximum işletmesinin fiyatlarını kim belirliyorsa, özel üniversite mezunu, zorla mezun olmuş, okuldan bir şey anlamamış birisi olduğunu anlamak hiç zor değil. keşke torpille falan adam almasaydınız.<br/><br/>kar maksimizasyonu nedir? bunu bilen birini işe almanızı tavsiye ediyorum.<br/><br/>edit: cinemaximum’a gitme diyen parlak zekalı arkadaşlar var, adamlar neredeyse tekel vaziyette. sinemaya gideceğim diye bir sürü yol derdi çekip, aracıma park yeri aramak daha zoruma gidiyor.<br/><br/>aynı zamanda bilet parasına laf edenler var, ilk seanslar 7 lira, migrostan 20 liralık alışveriş yaparsanız, tüm seanslar 10 lira. daha ucuza sinema mı var?<br/><br/>anlıyorum, dikkat çekmek için yazıyorsunuz. anlıyorum farklı olma çabası falan, yaşlar ufak. ama bu yaptığınız, mantıklı bir argüman geliştirirseniz başarılı olur. bu şekilde safi saçmalık.
 - entry_name: |
     ufak tefek cinayetler
   entry_id:  73396797
@@ -94,33 +108,40 @@ data:
   entry_content: |
     şehirli nüfusun yüzde 40'ı yerde yemek yiyormuş.<br/>"köyler komple şehre göçtü" demenin bir başka türü.<br/><br/>bu saçma sapan şeyleri otantiklik diye ballandırmak da varoşluğun bayrak taşıyanı olmak, başka bir şey değil.
 - entry_name: |
-    turktorrent.cc
-  entry_id:  73407338
-  entry_writer: chekirdek13
-  entry_fav_count: 59
+    binali yıldırım'ın hiç görülmemiş fotoğrafları
+  entry_id:  73410625
+  entry_writer: administration
+  entry_fav_count: 62
   entry_content: |
-    lösev'e 10 tl'lik bağış yapan iki kişiye davetiyesini gönderebileceğim torrent sitesi. 2 adet davetiye mevcut elimde. ilk mesaj atan iki kişiye bağışın ekran görüntüsünü attıkları takdirde davetiye yollayacağım.<br/><br/>ekleme: 2si de gitti. davetiyesi olanlar da bu yolu kullansın. bi ise yarayalım. bağış yapan iki arkadaşa da teşekkürler.<br/><br/>bi kaç güzel mesaj aldım. entryleri de gördüm. davetiye sahibi tüm yazarları yaptığım şekilde yapmaya davet ediyorum.
+    en meşhur resmi konmamış <br/><br/>şöyle <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C6A9XHwXQAAoU7A.jpg" title="https://pbs.twimg.com/media/C6A9XHwXQAAoU7A.jpg">bırakayım</a>
 - entry_name: |
     işe alımlarda burçlara bakılsın
   entry_id:  73406538
   entry_writer: hasirt to the blackboard
-  entry_fav_count: 59
+  entry_fav_count: 61
   entry_content: |
     yengeçler işsiz, yengeçler aç, yengeçler ağlıyor...
-- entry_name: |
-    binali yıldırım'ın hiç görülmemiş fotoğrafları
-  entry_id:  73410625
-  entry_writer: administration
-  entry_fav_count: 59
-  entry_content: |
-    en meşhur resmi konmamış <br/><br/>şöyle <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/C6A9XHwXQAAoU7A.jpg" title="https://pbs.twimg.com/media/C6A9XHwXQAAoU7A.jpg">bırakayım</a>
 - entry_name: |
     abdullah gül şubatta sahalara iniyor
   entry_id:  73409786
   entry_writer: beeyore
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     meral akşenerden sağlam oy alır. <br/><br/>sonra da mhp gibi akpyi destekliyoruz der. gül beyden çıkacak maksimum iş budur.
+- entry_name: |
+    kadınların görünce dayanamadıkları tek şey
+  entry_id:  73412491
+  entry_writer: west
+  entry_fav_count: 50
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yarrak+afedersin">yarrak afedersin</a>)
+- entry_name: |
+    kirayı öde buzdolabını doldur faturaları yatır öl
+  entry_id:  73409084
+  entry_writer: dogville
+  entry_fav_count: 48
+  entry_content: |
+    bu sizin tercihinizdir.<br/>gözünüz yiyorsa alın sırtınıza çantanızı ülke ülke gezin ya da evlenmeyin birlikte yaşayın, çocuk yapmak zorunda da değilsiniz, küresel ısınma vs zaten dünyanın fazla ömrü kalmadı.<br/>ben de kira ödüyorum ama aynı zamanda kendim için, gelişmek için, hayattan zevk almak için pek çok aktivite yapıyorum.<br/>kendinizi geliştirmek, ilgi alanları yaratmak, dünyanızı değiştirmek sizin elinizde.<br/>sızlanmayı bırakın.<br/><br/>edit. metin
 - entry_name: |
     her gün beş kere ezanı duyup inançsız kalabilmek
   entry_id:  73396683
@@ -132,49 +153,42 @@ data:
     ekşi muhaliflerini çıldırtan fotoğraf
   entry_id:  73411505
   entry_writer: ekinid
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     tarihin devlet bahçeliyi yazacağı kesin. ama sandıkları gibi bir kahraman olarak değil, koltuk uğruna kimliğini ve partisini peşkeş çeken basit bir adam olarak.
 - entry_name: |
-    kadınların görünce dayanamadıkları tek şey
-  entry_id:  73412491
-  entry_writer: west
-  entry_fav_count: 43
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yarrak+afedersin">yarrak afedersin</a>)
-- entry_name: |
-    sevişilmek istenen ekşi sözlük yazarları
-  entry_id:  73398824
-  entry_writer: osmanosmanci
+    arda turan
+  entry_id:  73398298
+  entry_writer: zelsuk
   entry_fav_count: 40
   entry_content: |
-    hic eksisozluk yazariyla sevisilirmi yahu, sevistikten sonra milyon tane yazi yazar. <br/><br/>sikti birakti yazar veritabani<br/>erkeklerin igrenc olmasi<br/>saka maka adam gibi adam olmamasi...<br/>vs..
+    ntvspor'da, emek ege ve mert aydın sundukları gol programı içerisinde, ünlü futbolcuların yaşamlarının alternatif hikayelerini verildiği bir bölüm var. buradan esinlenerek atletico madrid'den ayrılışından itibaren kendisi ile ilgili alternatif hikaye karaladım. hemi de resimli.<br/><br/>okurken dinlenebilecek fon müzik önerileri <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=mGx_FATyasQ" title="https://www.youtube.com/watch?v=mGx_FATyasQ">1</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=76qRF5-qvZM" title="https://www.youtube.com/watch?v=76qRF5-qvZM">2</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=bsSbT-VfQ7w" title="https://www.youtube.com/watch?v=bsSbT-VfQ7w">3</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=4H0JDomv8ac" title="https://www.youtube.com/watch?v=4H0JDomv8ac">4</a>. modunuza göre takılın.<br/><br/>-------------------------------------------------------------<br/><br/>2015 yılı yazında arda turan atletico madrid'deki göz dolduran futbolundan dolayı türkiye şartlarında rekor denilecek bir fiyata barcelona'ya transfer <a rel="nofollow noopener" class="url" target="_blank" href="http://img-fanatik.mncdn.com/mnresize/980/565/images/16x9/2017/12/15/5237529.jpg" title="http://img-fanatik.mncdn.com/mnresize/980/565/images/16x9/2017/12/15/5237529.jpg">olur</a>. bu haber tüm türkiye'yi sevince boğar. <br/><br/>arkasında milyonların olduğunu bilen arda messi, iniesta, neymar, suarez gibi yıldızların arasından kendine yer bulmak için canla başla çalışır. takımı ile daha uyum sağlamak için ispanyolca öğrenir. her fırsatta istanbul'a gidip gelmek yerine, klubünün kültürü ile yoğrulmaya başlar. hatta bir ara takım arkadaşı <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/images/6SRd8x" title="https://goo.gl/images/6SRd8x">pique</a> ile beraber harvard'da eğitim programına katılmak ister ama dil probleminden ve yoğun maç temposundan dolayı fırsat bulamaz.<br/><br/>ligin ilk yarısında sonradan oyuna giren arda, yavaş yavaş daha çok süre almaya, ilk 11'e girmeye başlamıştır. ülkesinde bir çok problem olduğunu bilen arda, bu olaylarla ilgili açıklama yapmak, taraf olmak yerine, kendisini takip eden milyonları en azından futbol ile mutlu etmek için daha da odaklanır işine. şampiyonlar ligine erken veda eden barcelona'nın o sezon ligi real madrid'in <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mackolik.com/Puan-Durumu/s=35896/ISPANYA-Primera-Lig" title="http://www.mackolik.com/Puan-Durumu/s=35896/ISPANYA-Primera-Lig">1 puan</a> önünde göğüslemesinde önemli paylardan biri de arda'ya düşmüştür. kupa sırasıyla messi, neymar, iniesta, suarez ve sırtında türkiye bayrağı asılı arda'nın elinde yükselir.<br/><br/>arda'nın barcelonadaki başarısı milli takıma da yansımıştır. euro 2016'da arda kaptanlığındaki türkiye fırtına gibi eser. fakat yarı final maçında daha sonra şampiyon olacak cristiano ronaldo'lu portekiz'e 3-2 yenilerek elenir. oynanan oyun tüm futbolseverlerce ayakta alkışlanır. arda'nın maçın bitiminde <a rel="nofollow noopener" class="url" target="_blank" href="https://img.haberler.com/haber/273/arda-turan-izlanda-maci-bittikten-sonra-agladi-7775273_45_m.jpg" title="https://img.haberler.com/haber/273/arda-turan-izlanda-maci-bittikten-sonra-agladi-7775273_45_m.jpg">ağlarken çekilen fotoğrafları</a> tüm dünya'da ertesi gün gazetelerin baş sayfasındadır. milli takım yurda döndüğünde onbinlerle karşılanır.<br/><br/>o yaz kameralardan uzak bir hayat sürmeye çalışan arda tatilini ailesi, sevgilisi ve arkadaşlarıyla geçirir. bir akşam gece klubünden çıktığı sırada foto muhabirlerin baskınına uğrayan arda önce şaşırsa da <a rel="nofollow noopener" class="url" target="_blank" href="https://img.haberler.com/haber/420/arda-turan-esmer-bir-bayanla-goruntulendi-5472420_8023_o.jpg" title="https://img.haberler.com/haber/420/arda-turan-esmer-bir-bayanla-goruntulendi-5472420_8023_o.jpg">hiç bozuntuya vermez</a>. muhabirlerin sorularını cevaplar, şakalaşır ve tek tek elini sıktıktan sonra yoluna devam eder.<br/><br/>teknik direktörü luis enrique'nin tam güvenini kazanan arda 2016 yılı yazı hazırlık kampında ilk 11 kadrosunda yer bulur. hatta luis enrique neymar'ın istemesi halinde psg'ye gönderilebileceğini söyler. <a rel="nofollow noopener" class="url" target="_blank" href="https://qzprod.files.wordpress.com/2017/08/rts1aeek-1.jpg?quality=80&amp;strip=all&amp;w=2000" title="https://qzprod.files.wordpress.com/2017/08/rts1aeek-1.jpg?quality=80&amp;strip=all&amp;w=2000">neymar</a> rekor bedelle psg'ye geçerken arda artık ilk 11'in değişmez parçası haline gelmiştir. 2016-2017 sezonu <a rel="nofollow noopener" class="url" target="_blank" href="http://www.goalbien.com/images/haberler/2017/02/barcelona_da_yeni_uclu_messi_suarez_arda_h4022_2ec36.jpg" title="http://www.goalbien.com/images/haberler/2017/02/barcelona_da_yeni_uclu_messi_suarez_arda_h4022_2ec36.jpg">arda-messi-suarez</a> üçlüsü için harika bir yıl olmuştur. la liga şampiyonluğunu aldıktan 4 gün sonra oynanan şampiyonlar ligi finalinde, barcelona juventus ile kıran kırana geçen maçta arda'nın uzatma dakikalarındaki mükemmel volesiyle barcelona öne geçecek ve şampiyon olacaktır. maçın adamı arda seçilir, ama o bu sırada <a rel="nofollow noopener" class="url" target="_blank" href="http://www.yerelhaberim.net/images/haberler/turk_beckham_arda_turan_h24131.jpg" title="http://www.yerelhaberim.net/images/haberler/turk_beckham_arda_turan_h24131.jpg">bir elinde kupası diğer elinde bayrağı</a> cardiff'teki millenyum stadını turluyordur. sezonu lig, kral kupası ve şampiyonlar liginde toplam 36 gol, 23 asist ile tamamlayan arda için her şey bitmemiştir henüz.<br/><br/>2017 yılı yazında 30 yaşını dolduran arda'ya premier lig'den teklifler yağmaktadır. yaz kampından önce barcelona başkanı bartomeu ve teknik direktörü valvarde ile bir araya gelir ve sonrasında bir basın toplantısı düzenler. manchester city'e gitmesi kesin gözüyle bakılan arda "verilmiş sözlerim var" , "yuvama dönme zamanım geldi artık" der. türkiye'de bir anda gündeme oturur, gs store daha uçağı havalanmadan 20bin <a rel="nofollow noopener" class="url" target="_blank" href="http://4.bp.blogspot.com/-edOQm7k8mi4/TkJq9l35F2I/AAAAAAAAAEQ/UoW9FbKPLQM/s1600/arda-turan-kirmizi-mi-mavi-mi-olacak.jpg" title="http://4.bp.blogspot.com/-edOQm7k8mi4/TkJq9l35F2I/AAAAAAAAAEQ/UoW9FbKPLQM/s1600/arda-turan-kirmizi-mi-mavi-mi-olacak.jpg">arda forması</a> satmıştır bile. elinde sayısız kupasıyla, hedeflerini gerçekleştirmenin gururuyla istanbul'a iner. onbinler havaalanındadır, <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/BG87nJnCYAE64Wl.jpg" title="https://pbs.twimg.com/media/BG87nJnCYAE64Wl.jpg">meşalelerden</a> göz gözü görmemektedir. türkiye'nin gururu evine dönmüştür.<br/><br/>-------------------------------------------------------------<br/><br/>kim isterdi bu hikayenin sonu bu <a rel="nofollow noopener" class="url" target="_blank" href="https://foto.sondakika.com/haber/2018/01/09/basaksehir-baskani-gumusdag-arda-yla-prensipte-10434743_169_o.jpg" title="https://foto.sondakika.com/haber/2018/01/09/basaksehir-baskani-gumusdag-arda-yla-prensipte-10434743_169_o.jpg">fotoğraf</a> ile bitsin. kim sana her kamera gördüğünde adamlığından bahset, faiz ile ilgili açıklama yap, oy topla, prim kavgası yap, 60 yaşında gazeteciye saldır, rıdvan'a yanla dediyse seni bu hallere o getirdi. yok ben kendim yaptım diyorsan da sonuna kadar müstehak.<br/><br/>kendi hayatını kararttığı gibi bizim hayallerimizle de oynamış olan gereksiz adam.
 - entry_name: |
-    kirayı öde buzdolabını doldur faturaları yatır öl
-  entry_id:  73409084
-  entry_writer: dogville
-  entry_fav_count: 39
+    28-30 ocak'ta erkek yazarları mesaja boğuyoruz
+  entry_id:  73413882
+  entry_writer: senebilmemkac
+  entry_fav_count: 40
   entry_content: |
-    bu sizin tercihinizdir.<br/>gözünüz yiyorsa alın sırtınıza çantanızı ülke ülke gezin ya da evlenmeyin birlikte yaşayın, çocuk yapmak zorunda da değilsiniz, küresel ısınma vs zaten dünyanın fazla ömrü kalmadı.<br/>ben de kira ödüyorum ama aynı zamanda kendim için, gelişmek için, hayattan zevk almak için pek çok aktivite yapıyorum.<br/>kendinizi geliştirmek, ilgi alanları yaratmak, dünyanızı değiştirmek sizin elinizde.<br/>sızlanmayı bırakın.<br/><br/>edit. metin
-- entry_name: |
-    her şey bitti derken çıkagelen insan
-  entry_id:  73396615
-  entry_writer: lukrentos
-  entry_fav_count: 37
-  entry_content: |
-    sizi seveni bırakmayın, sizi sikene bu kadar el açmayın gençler. öyle güzel insanlar varki onlara yer açın gitsin. tam siz düşecekken sizi tutuyorsa biri vardır bir sebebi. tutun o eli, utanmayın. vicdani rahat olan herkes daha kolay toparlanır. siz o vicdanı beş para etmez, riyakar ve uçkur azmanları yüzüne hayat davanızda size ilham verenlerden olmayın.<br/><br/>safi kötülükler görmüş biriyim ben. kime el uzattiysam bileğimden kırıp o eli götüme soktu. ama ben vazgeçmedim iyi düşünmekten. şimdi hayat benden daha yaratıcı oldu benim adıma. öyle güzel şeyler verdi ki bana resmen yatağıma yoluma aktım gittim. adalet yerini buldu, o cüppenin hakkını veren o kişiyi giymenin gururunu yaşıyorum. <br/><br/>ınanın ne yediğim kazıklari, ne yapılanları hatırlayacak ve hatta kim olduklarını dahi düşünecek vaktim yok. zihnim pir-u pak ve yarınlarım aydınlık içinde... <br/><br/>eğer kendini bir yol ayrımında gördü isen sana tavsiyem en karanlık yola git; o karanlık yol çok klise olacak ama seni aydınlığa boğacak. sadece kalbin ve niyetin temiz kalmalı. siktir et inancı ve tanrıyı. güzel şeyler inançsizlara da geliyor vallahi. <br/><br/>vicdanı çirkef olmuşları da vicdanı derya olmuşları da gözünden tanıtıyor bu hayat. en güzeli de tersine soluduğun nefesini, doğru yerinden ciğerine üfletiyor bazıları. ışte o size huzur veren, nefes veren ve el verenlere sahip çıkın. zamanla dediğimi kaybedince anlarsınız.<br/><br/>winter is coming bizim qız bizim oglan... o göte şaplağı yemekten korkma. yeter ki o şaplağı atan olma.
+    (bkz: <a class="b" href="/?q=haz%c4%b1r+de%c4%9fillermi%c5%9f">hazır değillermiş</a>)
 - entry_name: |
     deliha 2
   entry_id:  73402581
   entry_writer: vuvuzela
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     <a class="b" href="/?q=limonata">limonata</a> gibi muhteşem ötesi bir filmin ikincisi ne zaman çekilir diye beklerken, nerde anlamsız nerde çamur film var onların ikincisi çekiliyor :/<br/><br/>cidden söyleyecek söz bulamıyorum mk. yazıyorum yazıyorum siliyorum. deliha lan deliha, telefonun klavyesi ile yazarken bile "semiha" olarak düzeltiyor otomatik klavye. telefona bile anlamlı gelmiyor <a class="b" href="/?q=deliha">deliha</a>.
+- entry_name: |
+    her şey bitti derken çıkagelen insan
+  entry_id:  73396615
+  entry_writer: lukrentos
+  entry_fav_count: 38
+  entry_content: |
+    sizi seveni bırakmayın, sizi sikene bu kadar el açmayın gençler. öyle güzel insanlar varki onlara yer açın gitsin. tam siz düşecekken sizi tutuyorsa biri vardır bir sebebi. tutun o eli, utanmayın. vicdani rahat olan herkes daha kolay toparlanır. siz o vicdanı beş para etmez, riyakar ve uçkur azmanları yüzüne hayat davanızda size ilham verenlerden olmayın.<br/><br/>safi kötülükler görmüş biriyim ben. kime el uzattiysam bileğimden kırıp o eli götüme soktu. ama ben vazgeçmedim iyi düşünmekten. şimdi hayat benden daha yaratıcı oldu benim adıma. öyle güzel şeyler verdi ki bana resmen yatağıma yoluma aktım gittim. adalet yerini buldu, o cüppenin hakkını veren o kişiyi giymenin gururunu yaşıyorum. <br/><br/>ınanın ne yediğim kazıklari, ne yapılanları hatırlayacak ve hatta kim olduklarını dahi düşünecek vaktim yok. zihnim pir-u pak ve yarınlarım aydınlık içinde... <br/><br/>eğer kendini bir yol ayrımında gördü isen sana tavsiyem en karanlık yola git; o karanlık yol çok klise olacak ama seni aydınlığa boğacak. sadece kalbin ve niyetin temiz kalmalı. siktir et inancı ve tanrıyı. güzel şeyler inançsizlara da geliyor vallahi. <br/><br/>vicdanı çirkef olmuşları da vicdanı derya olmuşları da gözünden tanıtıyor bu hayat. en güzeli de tersine soluduğun nefesini, doğru yerinden ciğerine üfletiyor bazıları. ışte o size huzur veren, nefes veren ve el verenlere sahip çıkın. zamanla dediğimi kaybedince anlarsınız.<br/><br/>winter is coming bizim qız bizim oglan... o göte şaplağı yemekten korkma. yeter ki o şaplağı atan olma.
 - entry_name: |
     tron coin
   entry_id:  73398628
   entry_writer: maddisli
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     inandık traderlara, öyle böyle dediler. <br/>trx sayesinde elumize verdiler.
 - entry_name: |
@@ -184,13 +198,6 @@ data:
   entry_fav_count: 33
   entry_content: |
     arap ise <a class="b" href="/?q=bulgur+pilav%c4%b1">bulgur pilavı</a><br/>rus/ukraynalı ise <a class="b" href="/?q=mercimek+%c3%a7orbas%c4%b1">mercimek çorbası</a><br/>hint<sup class="ab"><a title="(bkz: müslüman)" href="/?q=m%c3%bcsl%c3%bcman" data-query="müslüman">*</a></sup>/pakistanlı ise <a class="b" href="/?q=k%c3%b6fte">köfte</a><br/>alman ise <a class="b" href="/?q=k%c4%b1s%c4%b1r">kısır</a><br/>koreli ise <a class="b" href="/?q=sarma">sarma</a><br/>fransız ise <a class="b" href="/?q=b%c3%b6rek">börek</a><br/>portekizli ise <a class="b" href="/?q=lahmacun">lahmacun</a><br/><br/>hollandalı ise her boku yiyor.
-- entry_name: |
-    28-30 ocak'ta erkek yazarları mesaja boğuyoruz
-  entry_id:  73413882
-  entry_writer: senebilmemkac
-  entry_fav_count: 30
-  entry_content: |
-    (bkz: <a class="b" href="/?q=haz%c4%b1r+de%c4%9fillermi%c5%9f">hazır değillermiş</a>)
 - entry_name: |
     silah zoruyla yazan kızlar
   entry_id:  73410553
@@ -209,30 +216,16 @@ data:
     gaza getiren şarkılar
   entry_id:  73397165
   entry_writer: sqlcom
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     bu başlığı görünce hem utandığım hemde gülmekten kendimi alamadığım bir gece geldi aklıma.<br/><br/>arkadaşlar taksim'de suavi 'nin sahne aldığı mekandan ön masada rezervasyon yapmışlar beni de davet etmişlerdi.(mekan sahibi tanıdıklarıymış)<br/><br/>gece oldukça güzel başlamıştı.yalnız alkol seçimin de biraz sıkıntı vardı.herkes şarap içiyor diye bende şarap içmeye karar verdim. ama şarap oldum olası ikinci kadehten sonrası beni sarhoş etmiştir. limit 2.<br/><br/>ortam gayet güzel hoş sohbet devam ediyor, müzik bunu tamamlıyordu.o 2 duvarını aşmam iyi olmadı. <br/><br/>derken suavi sahne aldı.<br/>kibar nezih ve dinleyicilerine karşı oldukça tevazu dolu hitaplarıyla daha başlar başlamaz mest etti.(sevenleri için ses ve parçalarını anlatmama gerek yok)<br/><br/>öyle ki pantolonunun ütüsü bozulur, dinleyiciye şık görünmem diye yüksek sandelyeyi kabul etmedi. <br/><br/>tabii bu arada ben 2,3,4 devam ettim şaraba.<br/><br/>ve yalı çapkını söylemeye başladı suavi. <br/>tâbi ben iyice gaza geldim. alkolün de verdiği yetkiye dayanarak parça bittiğinde ıslık ötürüp alkış ve bravo bravo diye haykırıyordum...<br/><br/>derin bir sessizlik oluştu. alkışlayan bir bendim.tempom yavaş yavaş düştü ve tam sessizlik...<br/><br/>suavi bana dönerek, <br/><br/>parça yeni değil, <br/>bende yeni biri değilim sahnelerde , <br/>beğenmenize sevindim,alkışlarınız gurur verici ancak o bravo neyin nesi? <br/><br/>beni yeni mi keşfettiniz?<br/><br/>tam o esnada tüm bedenimi saran sıcaklık tarif edilemez boyutlara ulaştı.alkolden eser kalmadı.yer yarılda içine girsem toprağı kendim örtücem üstüme. <br/><br/>koca gece bir daha ağzımı açmadım açamadım. <br/><br/>sahne arasında suavi masamıza geldi.bir şeyler anlattı hiç birini duymadım.çünkü kendimi hissetmiyordum.<br/><br/>sonra arkadaşlar anlattı.suavi bana şaka yapmış. benim donup kalacağımı düşünmemiş.ben kilitlenince üzülmüş.<br/><br/>o gün bu gün gaza gelmiyorum arkadaş...
 - entry_name: |
     oğuzhan özyakup
-  entry_id:  73404700
-  entry_writer: horlayan balik
-  entry_fav_count: 16
-  entry_content: |
-    kendisi, beşiktaş takımındaki son kaledir. <br/>beşiktaş'ın son 3 yıldır başarılı olmasının en büyük nedenlerinden birisi, takım arkadaşlığıdır. ve bunu sağlayan da ozi, cenk, olcay ve necip arasındaki bağdr. dikkat edin, adamlar izinli günlerinde bile beraberler.<br/><br/>olcay gitti, cenk gitti, şimdi de oğuzhan gitsin diyorsanız eğer, ben başka bir şey demiyorum.
-- entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id:  73402276
-  entry_writer: bitkisel hayattaki bitki
+  entry_id:  73411338
+  entry_writer: neyyy
   entry_fav_count: 14
   entry_content: |
-    (bkz: <a class="b" href="/entry/73399534">#73399534</a>)<br/><br/>kürtçe bir küfrün latince bir atasözü olarak yedirilmesi ve daha da ufuk açanı milletin bunu yemesi. favlamadan önce bir araştırsaydınız keşke!
-- entry_name: |
-    en iyi sucuk markası
-  entry_id:  73396857
-  entry_writer: dshq
-  entry_fav_count: 14
-  entry_content: |
-    inatla markasız sucuk / kasap sucuğu tavsiyesi verilen anket.<br/><br/>ya arkadaş başlıkta kocaman "marka" ibaresi var. herkes de ayrı ayrı markasız olsun diyor. hatta biri gidin kastamonudan alın falan yazmış... he amk verem 300 tl uçak biletine gidem en güzel sucuğu yiyem.<br/><br/>düzgün bi marka yazın ki, tek sucuk kaynağı marketler olan, yerel esnafa güvenemeyen, belki gurbette olan, belki evinden 1000 km uzakta olan kişiler, marketlerden bari düzgün sucuklar bulabilsin. baharat/yağ deposu sucuklarla sindirim sistemini haşat etmesin. <br/><br/>tekrar hatırlatayım başlık: <a class="b" href="/?q=en+iyi+sucuk+markas%c4%b1">en iyi sucuk markası</a><br/><br/><a class="b" href="/?q=en+iyi+sucuk">en iyi sucuk</a> değil!
+    oğuzhan’a 5 milyon veren olmadığını söyleyen insan var. <br/>bunu geçtim bir de bunu hakaret yoluyla söylüyor. <br/>onun ne kadar yetersiz ve beceriksiz olduğunu söylemiş. olcay’ı bile elden geçirmiş. <br/><br/>benim üzüldüğüm böyle insanlar bir şeyler yazıyor, sonra bir çok insan bunları okuyor. bazılarımız kızıyor muhatap olup cevap verme telaşına giriyor, bazılarınız siktiret pezevengi diyip eksiyi basıp geçiyor. insanın kendi takımının taraftarını engellemesi ne kötü şey.<br/><br/>yönetim geçen sene oğuzhan’ın %30 luk payı için arsenal’e para ödemeyi teklif etti ama arsenal kabul etmedi. daha geçen hafta arsenal oğuzhan’ın %70 i için 11 milyon teklif etti beşiktaş reddetti. milanın teklif getirdiği söyleniyor. yani teklif geldiğine inanmak için illa bu adamın satılması mı gerekiyor. sen inansan ne olur inanmasan ne olur.<br/><br/>sözleşmesinin bitmesine 5 ay kalmış bir adamın beşiktaştan ayrılmayacağına kesin gözüyle bakılıyor. <br/>biz oğuzhan’ı transfer listesine koydukta teklif mi gelmedi? oğuzhan’ı 5 milyona satıyorum dense onun pozisyonunda adama ihtiyacı olan ama ona 5 milyon ödemeyecek takım olabilir mi?<br/>insan kendi takımını nasıl bu kadar değersiz görürde itibarsızlaştırır anlamak zor. yani adamı beğenmezsin eyvallah. yahu bu adam bizim kaptanımız be. hakaret etmek niye. kaptanımız olan bir adamı bu kadar değersiz görmek hakaret etmek için sadece salak olmak gerekir ya da beşiktaş düşmanı bir provakatör olmak gerekir.
 - entry_name: |
     arif v 216
   entry_id:  73397440
@@ -241,24 +234,17 @@ data:
   entry_content: |
     yeni izleme fırsatı bulduğum, başıma bir iş gelmeyecekse de beğendiğim film. cem yılmaz gora, arog ve yahşi batı’da karikatürist kimliğiyle biriktirdiği tarz esprileri sinemaya aktardı ve o defteri kapattı gibi görünüyor. yani sinema salonunda kasıkları tuta tuta güldürmeyecek bizi artık.<br/><br/>lakin bu filme ilişkin en çok hoşuma giden ayrıntı 40 küsür yaşında bir adamın kendi zevkini ön plana koyarak çekmiş olması. ayhan ışık’la ve sadri alışıkla aynı sahnede de göründü, zeki müren kostümüyle tarkan şarkısı da söyledi, klas bir dövüş sahnesi de çekti... yani biraz cem yılmaz’ın çocukluğundan beri kendini görmek istediği her sahneyi izledik gibi geliyor. ve bunları naif yeşilçam atmosferinde izlemek benim hoşuma gitti.<br/><br/>açmak istediğim iki parantez var ki: <a class="b" href="/?q=kerem+al%c4%b1%c5%9f%c4%b1k">kerem alışık</a>’ne turist ömer olmuş be. ve farah zeynep abdullah’tan ajda olmuş mu emin değilim ama feci çekici bir şey olmuş.
 - entry_name: |
-    veganizm
-  entry_id:  73400061
-  entry_writer: frottce
-  entry_fav_count: 12
-  entry_content: |
-    dogru beslenirseniz vegan beslenmede b12 disinda herhangi bir eksik yoktur. zaten hayvan yeseniz de dogru beslenmezseniz eksik kalan bir sürü sey olur. b12'yi cok cüzi bir fiyat karsiligi takviye edebilirsiniz. eti mercimekle degistirdiginizde tasarruf ettiginizden cok daha cüzi miktarda. vegan beslenme pahali degildir. üsengecseniz, hazir gidalarla beslenirseniz pahalidir. et yerine kuru fasulye, mercimek, nohut yemek nasil daha pahali olabilir? kalsiyumu yogurttan degil de brokoliden, kara lahanadan almak nasil daha pahali olabilir? hayatinda pazara gitmemis insanlar, veganizm hakkinda (daha dogrusu vegan diyet hakkinda) yorum yapiyor.<br/><br/>vegan bir diyet günümüzde gelismis ülkelerde önde gelen ölüm sebeplerini geri cevirmekte yardimci olabilir. vegan beslenmenin herhangi bir fizyolojik hastaliga yol actigina dair herhangi bir kanit yoktur. aksine dünyanin önde gelen saglik kuruluslari, vegan beslenmenin her yasta saglikli olabilecegini söylerler. veganlar kalp hastaligina, kansere ve tip 2 diyabete daha az yakalanir, daha düsük kolestrol, daha düsük tansiyon ve diger gruplar arasinda istatistiksel olarak normal bmi'ye sahip olan tek gruptur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/19562864">https://www.ncbi.nlm.nih.gov/pubmed/19562864</a><br/><br/>gercek deri bu kadar pahaliyken, giyim vs. konusu da cok absürd. elbette vegan pazar olusuyor. insanlarin neye ilgisi varsa o alanda pazar olusur, olusacaktir. veganlar arasinda kapitalizm karsiti durus sergileyenler var, dogru. bunlar benim gözlemledigim kadariyla her seyi boykot ediyor zaten. kimisi de kapitalizmi daha "insancil" yöne cevirmeye, daha az aciya, ölüme yol acan pazarlara kaydirmaya calisiyor paralarini. ben kendimi sahsen bu ikinci grupta görüyorum. kapitalizm ile savasmak manasiz. o zaman onun anladigi dilden konusmak gerek.<br/><br/>dogaya uygunluk konusu zaten <a class="b" href="/?q=argumentum+ad+naturam">argumentum ad naturam</a> safsatasi. dogaya uygun olmak bir seyin iyi oldugu ve tercih edilmesi gerektigi anlamina gelmez. tuvalet kullanmak da dogal degildir. insanlar aslanlar gibi <a class="b" href="/?q=obligate+carnivore">obligate carnivore</a> degildir. insanlar hepcildir, hatta daha ziyade oportunistik yiyicilerdir. kisacasi bulunduklari cografyalarda ne buldularsa onu yemislerdir hayatta kalmak icin. bu et yemek zorunda olduklari anlamina gelmez aslanlar gibi. sadece et yiyebildikleri anlamina gelir. et yemek zorunda olmadigimizi da vücudumuzda taurin sentezlememizden anlayabilirsiniz. burada hep b12 konusu aciliyor. b12 hayvansal bir vitamin degildir. b12 bakteriler tarafindan üretilir ve bütün hayvanlar gibi bizde de kalin bagirsakta bulunur. b12'nin emilimi ince bagirsakta oldugu icin biz kendi vücudumuzda üretilen b12'den yararlanamiyoruz. eskiden topraktan, filtrelenmemis, aritilmamis sudan saglandigi düsünülüyor. artik tarim ve hayvancilik yüzünden topraktan da yeteri kadar saglanamiyor, suyu zaten aritiyoruz (dogal degil yani), böylesi daha iyi. hayvanlar da topraktan aliyor normalde, ama onlar da artik alamadigi icin hayvan yemlerine b12 takviye ediliyor. sirf b12 icin de hayvana takviye edip hayvani yemeye gerek yok, direkt takviye almak cok kolay ve cok ucuz, üstelik cok daha güvenilir bir yöntem. hayvan yiyenlerde bile b12 eksikligini sikca görüldügünü düsünürsek.<br/><br/>hayvan yemeyi biraktiginizda (dolayli yoldan) tükettiginiz bitki miktari da azalir. üstelik bu bitkilerin cogu da yagmur ormanlarini yok edilmesine yol acan soya bitkisi. yani hep vegan yiyecegi sanilan soyayi aslinda hayvan yiyenler daha cok tüketiyor. insan tüketimi icin üretilen soyanin da büyük cogunlugu avrupa'da üretiliyor zaten. kisacasi bitkileri düsünüyorsak da vegan olmak en mantikli secenek.<br/><br/>dünyadaki bütün aciyi yok edemeyecegiz diye hicbirini yok etmememeye yemin etmek dünyanin en mantiksiz davranisi. ben insanlarin aci cekmesini engelleyemiyorsam, inadina hayvanlara aci mi cektirecegim? hayvan ürünleri kullanmamak cok kolay (kaldi ki insanin hayatindan bütün hayvan sömürüsünü, ölümünü ve acisini cikartmasi imkansiz, kimse de %100 vegan olunabilecegini iddia etmiyor. elimizden gelen cabayi gösteriyoruz sadece). insan sömürüsünü yok etmek o kadar kolay degil ama elbette herkesin caba göstermesi gerekir. <br/><br/>teknolojik ürün demisken, akilli telefonlarda <a class="b" href="/?q=fairphone">fairphone</a> seceneginiz var. eger telefona ihtiyaciniz varsa tercih edebilirsiniz. internette diger teknolojik ürünler icin de fair seceneklerin siralandigi siteler bulabilirsiniz. cocuk isciler konusundan, kullanilan madenlere kadar bircok alanda degerlendirilip skor cikariliyor. yine daha insancil seceneklere yönelmek mümkün.<br/><br/>ben konuya cok hakim degilim ama insan haklari acisindan da veganizmin faydali oldugu sikca dile getiriliyor. <br/><br/>dünyadaki aclikla hayvansal beslenme iliskisi ve vegan beslenmenin dünyayi nasil doyurabilecegi:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.fao.org/fileadmin/user_upload/animalwelfare/HSI--The Impact of Industrialized Animal Agriculture on World Hunger.pdf" title="http://www.fao.org/fileadmin/user_upload/animalwelfare/HSI--The Impact of Industrialized Animal Agriculture on World Hunger.pdf">http://www.fao.org/…agriculture on world hunger.pdf</a><br/><br/>karides sektöründe köle kullanimi:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://apnews.com/8f64fb25931242a985bc30e3f5a9a0b2/ap-global-supermarkets-selling-shrimp-peeled-slaves" title="https://apnews.com/8f64fb25931242a985bc30e3f5a9a0b2/ap-global-supermarkets-selling-shrimp-peeled-slaves">https://apnews.com/…ts-selling-shrimp-peeled-slaves</a><br/><br/>hayvan endüstrisinin küresel isinmaya da büyük bir katkisi oldugunu artik kimse inkar etmiyor. küresel isinmanin sonucu olarak, dünyanin en fakir yerlerinde yasayan insanlar göce zorlaniyorlar mesela. temiz su kaynaklarinin da büyük miktari hayvan endüstrisinde kullaniliyor.<br/><br/>mezbaha calisanlari ve suc oranlari konusunda bir inceleme de var:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.animalstudies.msu.edu/Slaughterhouses_and_Increased_Crime_Rates.pdf" title="http://www.animalstudies.msu.edu/Slaughterhouses_and_Increased_Crime_Rates.pdf">http://www.animalstudies.msu.edu/…d_crime_rates.pdf</a><br/><br/>kisacasi vegan olunca insanlar icin de bir seyler yapmis oluyorsunuz. <br/>bunun yani sira cocuk iscileri de azaltmak icin bir seyler yapin. ama bu hayvanlara aci cektirmek icin bahaneniz olmasin. siz hayvan yiyince cocuk iscilere hicbir katkiniz olmuyor cünkü.
-- entry_name: |
-    bitcoin
-  entry_id:  73400792
-  entry_writer: salgindan kurtulan bahtsiz bedevi
+    bedelli askerlik
+  entry_id:  73406601
+  entry_writer: whybae
   entry_fav_count: 11
   entry_content: |
-    bitcoin bir otobüstür binmesini bilmeli<br/>dump yemeden inmesini bilmeli
+    2011 ve 2014... 3 yılda 2 kez çıkarıyorsanız, sonra yıllarca çıkarmamak için efor harcıyorsanız, bunun hiçbir ideoloji, ekonomi, iç-dış etkenlerle ilgisi yoktur. insanları salak yerine koymayın. bu meseleyi rant kapısı hâline getirmeyin. kalıcı bir çözüm bulamıyorsanız, kalıcı çözüm bulabilecekleri bulun, onu da yapamıyorsanız ekşi sözlük’ten tek başlıkta çözüm üretilir, onu da yapamıyorsanız kalıcı çözüm bulan ülkelere bakın. anayasal bir hak olarak her vatandaş bu imkândan faydalanabilmeli.
 - entry_name: |
     1996 yılından hatırda kalanlar
   entry_id:  73411263
   entry_writer: taktaktaksii
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     bir aile dostumuzun ablası ailecek kaza geçirmislerdi.taziyeye gitmistik ailecek biz de.. arabadaki anne ve oğul ölmüştü, baba ve kız yaşıyordu..oğlan 2 yasindaydi kurtulan kız çocuk 8.. babanne sürekli ağlıyor ve aynı cümleyi tekrarlıyordu " keşke oğlan degil kız olseydi, allah'ım niye kızı almadın oğlumu bana geri ver kızı al" .. küçük kız da yanımizda ağlıyordu..<br/><br/>hayatımda daha kötü birini goremeyecegimden emindim o an..
 - entry_name: |
@@ -283,6 +269,13 @@ data:
   entry_content: |
     ya arkadaş, kuran-ı kerim'de açıkça belirtiliyor ki, hz. muhammed (sav) gönderilmiş son peygamber, ondan sonra gelmeyecek. ve o bile allah'ın hükmüne karışma hakkına sahip değil, sadece elçi, depremi yapma deme hakkı yok. nasıl oluyor da, "müslümanım" diyen, kuran- kerim'e inanan yöneticileri olan, diyanet işleri diye bir kurumu olan, binlerce imam hatip lisesi olan bir ülkede bu densizin konuşmasına, allah'a şirk koşmasına izin veriliyor, nasıl oluyor da bu sapkın hala serbest dolaşabiliyor? ülke olarak ateist olsak, dine, yaradana saygımız olmasa, dalga geçiyor olsak tamam diyecem. ama bu nedir artık ya???
 - entry_name: |
+    mezuniyet + iş bulma + evlilik + çocuk
+  entry_id:  73414169
+  entry_writer: kararliadam
+  entry_fav_count: 5
+  entry_content: |
+    hiçbir zaman evlilik, araba ya da ev gibi hülyalarım olmadı. maişet derdi yaşamayacak kadar bir meşgale istedim sadece zira annemin avuntusu olarak yaşamak bu yaşta ağır geliyor artık. telafisi ve tedavisi imkânsız bir ömür kaldı geride. şimdi boş bir gayretle yaş alıyorum. omuzundaki kayayı tepeye çıkarttığı gibi yuvarlanan kayayı tekrar sırtlayan tanrının uğramış olduğu cezaya uğramış gibiyim.
+- entry_name: |
     ekşi itiraf
   entry_id:  73398525
   entry_writer: kuzeylimarti
@@ -290,40 +283,40 @@ data:
   entry_content: |
     canım kızım yaşasaydın 14 yaşında olacaktın. bu günlerde sen oluyorum. önce saçlarının kokusu geliyor sonra ben ölüyorum. bazen başını göğsüme yaslarken ellerini hissediyorum yüzümde. sonra kayboluyorsun yine. sahi sesin nasıldı ki, işte o zamanlar abi'ni arıyorum sesini duyunca, sen oluyorum. <br/>bazen uyuyamazsın işte; kalkıp, bütün şehri yürürsün, <br/>bazende acıdan sızıp kalırsın.
 - entry_name: |
-    mezuniyet + iş bulma + evlilik + çocuk
-  entry_id:  73414169
-  entry_writer: kararliadam
-  entry_fav_count: 4
-  entry_content: |
-    hiçbir zaman evlilik, araba ya da ev gibi hülyalarım olmadı. maişet derdi yaşamayacak kadar bir meşgale istedim sadece zira annemin avuntusu olarak yaşamak bu yaşta ağır geliyor artık. telafisi ve tedavisi imkânsız bir ömür kaldı geride. şimdi boş bir gayretle yaş alıyorum. omuzundaki kayayı tepeye çıkarttığı gibi yuvarlanan kayayı tekrar sırtlayan tanrının uğramış olduğu cezaya uğramış gibiyim.
-- entry_name: |
-    spotify'da olmayan grup ve şarkılar
-  entry_id:  73401667
-  entry_writer: safesql
+    bir gün beraber gidelim
+  entry_id:  73410901
+  entry_writer: kiskanmayan kiskanc hatun
   entry_fav_count: 3
   entry_content: |
-    arada bir girip, bir ümit, belki eklenen vardır diye girip baktığım grup ve şarkılardır.<br/><br/>duman'ın albümleri eksik.<br/><br/>özlem tekin'in ilk albümü yok.<br/><br/>kargo - yalnızlık mevsimi yok.<br/><br/>athena'nın eksik albümleri var.
+    flört cümlesi. sevgili olunsa bile o yere asla beraber gidilmez. öyle boş boş söylenir.
 - entry_name: |
-    abdullah gül
-  entry_id:  73397539
-  entry_writer: onun vitamini kabugunda
+    beşiktaş
+  entry_id:  73409348
+  entry_writer: punchup
   entry_fav_count: 3
   entry_content: |
-    elle tutulur yani yoktur. onayladigi ve hak-ozgurlukleri silip atan yasalar icin vebali buyuktur. rte’den farksizdir.
+    çok çok başarılı bir şekilde yönetilmektedir. son 3 sezonda futbolcu alış-satışından yaklaşık 37 milyon euro <a class="b" href="/?q=kar">kar</a> elde etmiştir.<br/><br/>bu 3 yılda gs ve fb için aynı miktar yaklaşık 22'şer milyon euro <a class="b" href="/?q=zarar">zarar</a>. ki bu takım aynı süre içerisinde 2 sezonda da şampiyon olmuştur ve avrupa'da ülkenin en ileri giden ve en çok para kazanan kulübü olmayı 3 sezondur başarmaktadır. inanılmaz bir fark bu.
 - entry_name: |
-    havacı askerlerin diğerlerini aşağılaması
-  entry_id:  73413130
-  entry_writer: syl0w
+    eşcinselliğin türkiye'de tutmamasının nedenleri
+  entry_id:  73414569
+  entry_writer: mdh
   entry_fav_count: 2
   entry_content: |
-    başlığın tam hali "askerliği havacı olarak yapanların diğer kuvvetlerdeki askerleri aşağılaması" olacaktı. ama ekşi sözlük olmaz olsun böyşe başlık diye uyarınca, inat edip başlığı bu şekilde açtım.<br/><br/>konuya dönelim, neden bu kanıya vardım, dinleyin ulan develer:<br/><br/>askerliği, hava kuvvetlerinin bir parçası olarak yaptığım 5 ay 5 günlük zaman diliminin her anında diğer kuvvetlerdeki erlerden üstün olduğumuzu iddaa ettik. mavi lacivert kamuflajımız ile ortada moda ikonu gibi gezerken en andavalımız bile vakur bir edayla halinden memnundu.<br/><br/>bir törende diğer askerler asfalt sıkıştırma makinası gibi yürürken biz nazi subayları bok yesin edasıyla kaz adımlarıyla şovumuzu yapıyorduk. <br/><br/>herkes dümdüz el selamı verirken, biz havadaki bir f16 manevrasıyla selam verirdik.<br/><br/>kendimizin elit askerler olduğuna emindik. hatta bir gün bir arkadaşımız baş harfi ersin, bölük komutanına şekilli havacı selamı çakıp, şu soruyu bile sordu:<br/><br/>- komutanım, bizi çok yakışıklı olduğumuz için mi havacı yaptılar?<br/><br/>diğer kuvvetler en enterasan olarak tuvalet temizlerken, arizona'daki gizli abd üssü zannedebileceğiz hangarlarda hayalet avcılarının sırtındaki makinalar gibi makinalarla hangar temizlerdik.ardından hanar önünde ayak uzatıp sigara içerken fuck vietnam, fuck viet kong! demek rutinimizdi.<br/><br/>follow me aracı bizim için dolmuş gibiydi.<br/><br/>ya-ma-ha yaptığımız günlerde sıcaktan bayılıp uçak pistine uzanıp gökyüzünü izlerdik.
+    (bkz: <a class="b" href="/?q=moda+sahilinde+oral+seks+yapan+amca">moda sahilinde oral seks yapan amca</a>)
 - entry_name: |
-    sözlük yazarlarının duygu durumları
-  entry_id:  73397973
-  entry_writer: mutfak sarkicisi
+    sözlük yazarlarının müziksel karşılıkları
+  entry_id:  73402827
+  entry_writer: elifmanifestosu
   entry_fav_count: 0
   entry_content: |
-    böyle... bilemedim ki nasıl anlatmalı... içinde resmi olmayan bir çerçeve gibi... içinde filmi olmayan bir foroğraf makinası gibi... süt vermeyen bir inek gibi... ya da yün vermeyen bir koyun...
+    <a class="b" href="/?q=tool">tool</a>/ <a class="b" href="/?q=schism">schism</a>
+- entry_name: |
+    sözlük yazarlarının duygu durumları
+  entry_id:  73414838
+  entry_writer: sanat tarihi okudukta ne oldu
+  entry_fav_count: 0
+  entry_content: |
+    üzerime ateşle yaklaşma yazsalar yeridir.
 - entry_name: |
     kitaplıktan ödünç kitap vermemek
   entry_id:  73412861
@@ -332,12 +325,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6d%c3%bcn%c3%a7+verilen+kitap+geri+al%c4%b1namaz">ödünç verilen kitap geri alınamaz</a>)<br/>biraz esnaf vari oldu ama bu mottoyu ilke edinin
 - entry_name: |
-    kaybetmekten korkmamak
-  entry_id:  73400962
-  entry_writer: hakan tasiyan
+    karşı cinse dönüşülse yapılacak ilk şey
+  entry_id:  73414781
+  entry_writer: bstncltcs
   entry_fav_count: 0
   entry_content: |
-    kazanmanın yarısıdır.
+    cirilciplak soyunup ayna karisina gecer detayli bir sekilde gordugum vucudu incelerim.<br/><br/>sonucda basli basina fiziksel bir degisim. ilk is oje surecek halimiz yok heralde.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  73399632
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     tarafsız gözle 80 milyon ülkede sadece bir insan bulabildiysen, sen hiç bakma.
+- entry_name: |
+    10 ocak 2018 kentpark avm mado rezaleti
+  entry_id:  73415570
+  entry_writer: lae
+  entry_fav_count: 0
+  entry_content: |
+    hala mado'ya gidenlerin olduğunu gösteren rezalet. puanım 0/10. müstehaktır.
 ---
