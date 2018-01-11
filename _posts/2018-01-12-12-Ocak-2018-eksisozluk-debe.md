@@ -6,56 +6,63 @@ data:
     tolga çevik'e gülen insan
   entry_id:  73419866
   entry_writer: appeal
-  entry_fav_count: 1224
+  entry_fav_count: 1228
   entry_content: |
     türk insanının psikolojisinin bozulduğunu gösteren başlıktır. sadece bu değil son zamanlarda olan cem yılmaz komik değil abi yeaaa yazan herkesten sonra iyice emin olmaya başladım. oğlum azıcık hayattan keyif alın lan, gülün eğlenin, sevmediğiniz insanlar olabilir ama sevmediğiniz herkesten nefret etmeyin. eskiyi aramayın sürekli.
 - entry_name: |
     diyanet'in sohbet için evlere gelecek müjdesi
   entry_id:  73428897
   entry_writer: aslagelmeyecektelefonubekleyenadam
-  entry_fav_count: 1104
+  entry_fav_count: 1114
   entry_content: |
     öncelikle aşağıdaki konu başlıklarında ahlaksızlıkları deşifre olan zihniyet mensuplarını ziyaret etsinler;<br/><br/>(bkz: <a class="b" href="/?q=kuran+kursunda+tecav%c3%bcz">kuran kursunda tecavüz</a>)<br/>(bkz: <a class="b" href="/?q=camide+%c3%a7ocuk+taciz+eden+dinci">camide çocuk taciz eden dinci</a>)<br/>(bkz: <a class="b" href="/?q=k%c4%b1z+karde%c5%9fine+tecav%c3%bcz+eden+imam">kız kardeşine tecavüz eden imam</a>)<br/>(bkz: <a class="b" href="/?q=bir+kerecik+tecav%c3%bczden+bir+%c5%9fey+olmaz">bir kerecik tecavüzden bir şey olmaz</a>)<br/>(bkz: <a class="b" href="/?q=24+mart+2016+artvin+tecav%c3%bcz+skandal%c4%b1">24 mart 2016 artvin tecavüz skandalı</a>)<br/>(bkz: <a class="b" href="/?q=bilecik%27te+%c3%a7ocu%c4%9fa+tecav%c3%bcz+eden+imam">bilecik'te çocuğa tecavüz eden imam</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakf%c4%b1+tecav%c3%bcz+su%c3%a7lar%c4%b1+kronolojisi">ensar vakfı tecavüz suçları kronolojisi</a>)<br/>(bkz: <a class="b" href="/?q=9+ya%c5%9f%c4%b1ndaki+yetime+tecav%c3%bcz+edilen+kurs">9 yaşındaki yetime tecavüz edilen kurs</a>)<br/>(bkz: <a class="b" href="/?q=imam+hatip+lisesi%27nde+tecav%c3%bcz+skandal%c4%b1">imam hatip lisesi'nde tecavüz skandalı</a>)<br/>(bkz: <a class="b" href="/?q=u%c5%9fak+imam+hatip+lisesinde+15+k%c4%b1za+taciz">uşak imam hatip lisesinde 15 kıza taciz</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9frencisiyle+birlikte+olan+ihl+%c3%b6%c4%9fretmeni">öğrencisiyle birlikte olan ihl öğretmeni</a>)<br/>(bkz: <a class="b" href="/?q=karaman%27da+45+erkek+%c3%b6%c4%9frenciye+tecav%c3%bcz">karaman'da 45 erkek öğrenciye tecavüz</a>)<br/>(bkz: <a class="b" href="/?q=camide+fuhu%c5%9f+yaparken+yakalanan+imam">camide fuhuş yaparken yakalanan imam</a>)<br/>(bkz: <a class="b" href="/?q=kurban+keserek+tacizin+%c3%bcst%c3%bcn%c3%bc+kapatmak">kurban keserek tacizin üstünü kapatmak</a>)<br/>(bkz: <a class="b" href="/?q=alanya%27da+tacizden+tutuklanan+din+hocas%c4%b1">alanya'da tacizden tutuklanan din hocası</a>)<br/>(bkz: <a class="b" href="/?q=10+ya%c5%9f%c4%b1ndaki+k%c4%b1za+camide+tecav%c3%bcz+edilmesi">10 yaşındaki kıza camide tecavüz edilmesi</a>)<br/>(bkz: <a class="b" href="/?q=12+may%c4%b1s+2016+ensar+vakf%c4%b1+tecav%c3%bcz+skandal%c4%b1">12 mayıs 2016 ensar vakfı tecavüz skandalı</a>)<br/>(bkz: <a class="b" href="/?q=rize%27deki+istismardan+da+ensar+ba%c5%9fkan%c4%b1+%c3%a7%c4%b1kt%c4%b1">rize'deki istismardan da ensar başkanı çıktı</a>)<br/>(bkz: <a class="b" href="/?q=kuran+hocas%c4%b1n%c4%b1n+%c3%b6%c4%9frencilere+tecav%c3%bcz+etmesi">kuran hocasının öğrencilere tecavüz etmesi</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+%c3%a7ocuklara+y%c3%b6nelik+taciz+ve+tecav%c3%bcz">türkiye'de çocuklara yönelik taciz ve tecavüz</a>)<br/>(bkz: <a class="b" href="/?q=11+ya%c5%9f%c4%b1ndaki+k%c4%b1z%c4%b1+cami+tuvaletinde+taciz+etmek">11 yaşındaki kızı cami tuvaletinde taciz etmek</a>)<br/>(bkz: <a class="b" href="/?q=dinselle%c5%9fen+toplumda+cinsel+su%c3%a7lar%c4%b1n+artmas%c4%b1">dinselleşen toplumda cinsel suçların artması</a>)<br/>(bkz: <a class="b" href="/?q=arabas%c4%b1na+ald%c4%b1%c4%9f%c4%b1+gen%c3%a7+k%c4%b1za+tecav%c3%bcz+eden+imam">arabasına aldığı genç kıza tecavüz eden imam</a>)<br/>(bkz: <a class="b" href="/?q=kuran+kursunda+tecav%c3%bcze+u%c4%9frayan+yetim+%c3%a7ocuk">kuran kursunda tecavüze uğrayan yetim çocuk</a>)<br/>(bkz: <a class="b" href="/?q=be%c5%9f+k%c4%b1z+%c3%b6%c4%9frenciyi+taciz+eden+kuran+kursu+hocas%c4%b1">beş kız öğrenciyi taciz eden kuran kursu hocası</a>)<br/>(bkz: <a class="b" href="/?q=tecav%c3%bcze+g%c3%b6z+yumana+bir+g%c3%bcnl%c3%bck+maa%c5%9f+kesintisi">tecavüze göz yumana bir günlük maaş kesintisi</a>)<br/>(bkz: <a class="b" href="/?q=cemaat+yurdunda+9+%c3%a7ocu%c4%9fa+tecav%c3%bcz+eden+g%c3%b6revli">cemaat yurdunda 9 çocuğa tecavüz eden görevli</a>)<br/>(bkz: <a class="b" href="/?q=giresun+kuran+kursunda+cinsel+istismar+skandal%c4%b1">giresun kuran kursunda cinsel istismar skandalı</a>)<br/>(bkz: <a class="b" href="/?q=alucra+haf%c4%b1zl%c4%b1k+kursunda+ya%c5%9fanan+%c3%a7ocuk+istismar%c4%b1">alucra hafızlık kursunda yaşanan çocuk istismarı</a>)<br/>(bkz: <a class="b" href="/?q=konya+yat%c4%b1l%c4%b1+kutsal+kitap+kursunda+%c3%a7ocuk+istismar%c4%b1">konya yatılı kutsal kitap kursunda çocuk istismarı</a>)<br/>(bkz: <a class="b" href="/?q=7+eyl%c3%bcl+2017+s%c3%bcleymanc%c4%b1lar+yurdunda+taciz+skandal%c4%b1">7 eylül 2017 süleymancılar yurdunda taciz skandalı</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6%c4%9frencisine+tecav%c3%bcz+edip+nikah+k%c4%b1ymak+isteyen+hoca">öğrencisine tecavüz edip nikah kıymak isteyen hoca</a>)<br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman%27da+imam+hatipli+76+%c3%a7ocu%c4%9fun+taciz+edilmesi">adıyaman'da imam hatipli 76 çocuğun taciz edilmesi</a>)<br/>(bkz: <a class="b" href="/?q=ad%c4%b1yaman%27da+imam+hatipli+30+%c3%a7ocu%c4%9fun+taciz+edilmesi">adıyaman'da imam hatipli 30 çocuğun taciz edilmesi</a>)<br/>(bkz: <a class="b" href="/?q=yunus+emre+camii+imam%c4%b1n%c4%b1n+tecav%c3%bczden+tutuklanmas%c4%b1">yunus emre camii imamının tecavüzden tutuklanması</a>)<br/><br/>ayrıca <a class="b" href="/?q=baban%c4%b1n+%c3%b6z+k%c4%b1z%c4%b1na+%c5%9fehvet+duymas%c4%b1">babanın öz kızına şehvet duyması</a> ve <a class="b" href="/?q=diyanet%27in+9+ya%c5%9f%c4%b1ndaki+k%c4%b1z+evlenebilir+a%c3%a7%c4%b1klamas%c4%b1">diyanet'in 9 yaşındaki kız evlenebilir açıklaması</a> sonrası milyonlarca baba, evlatları adına böylesine saygısızca karar veren diyanet yetkililerini dört gözle bekleyecektir.
 - entry_name: |
     oy oranımız %20.5
   entry_id:  73425985
   entry_writer: frtpsrc
-  entry_fav_count: 489
+  entry_fav_count: 493
   entry_content: |
     ilk bakışta ütopik bir açıklama olarak gözükmekle beraber; <br/><br/>1- mhp'ye oy vermeyecek olan 80 iq üzerindeki her ülkücüyü<br/>2- geçmişte mecburen chp'ye oy veren ancak bi yol olmayacağını anlayıp şu an alternatif arayanları<br/>3- uzun adama artık oy vermeyecek olan ama kılışdara da oy vermeyeyim diyen<br/><br/>grubu topladığımız zaman, doğruluk payı olabilecek açıklamadır.
 - entry_name: |
     yaban domuzunu zalimce avlayan adam
   entry_id:  73432137
   entry_writer: gavun garpuz
-  entry_fav_count: 334
+  entry_fav_count: 337
   entry_content: |
     yaban domuzunu zalimce değil gayet temiz, net, ders niteliğinde avlamıştır. hayvan azılı bir erkektir ve öldüğünü dahi anlamamıştır. popülasyonu kontrol altında tutulması gereken bir hayvandır. ülkemizdeki nüfusu tam bilinmemekle birlikte milyonlarla ifade ediliyor. avcılığa karşı dik duruşunuzu bir batımda 15 -20 yavru doğurabilen, çiftçiye büyük zararlara yol açan (zararları sigorta karşılamamaktadır) bu hayvana karşı değilde geyiklerimizi, yaban keçilerimizi ve hatta dünyada bir tek türkiye'de bulunan yaban koyunlarımızı dahi yabancı avcılara satan zihniyete karşı gösterin.
 - entry_name: |
     bu fakir görevde olduğu müddet terörist alamazsın
   entry_id:  73433337
   entry_writer: kubariye
-  entry_fav_count: 279
+  entry_fav_count: 281
   entry_content: |
     fucker'dır o... çok sikildim ordan biliyorum.
 - entry_name: |
     27 ekim 1957 istiklal caddesi fotoğrafı
   entry_id:  73426961
   entry_writer: exposure
-  entry_fav_count: 188
+  entry_fav_count: 190
   entry_content: |
     neredeyse tüm erkeklerin "eskiden beyoğluna kravatsız çıkılmazdı" şehir efsanesini doğrular biçimde şık olduğu ve arkadaki vw t1'in gözden kaçmadığı güzel fotoğraf.
+- entry_name: |
+    merhabayı aleyküm selam ile karşılamak
+  entry_id:  73428931
+  entry_writer: bana her yer cehennem
+  entry_fav_count: 185
+  entry_content: |
+    elektrik süpürgesinin bir parçası arızalanmıştı. bu sabah parçayı elime alıp yedek parça satan dükkana gittim.<br/><br/>- kolay gelsin. hayırlı işler<br/>+ aleyküm selam<sup class="ab"><a title="(bkz: soğuk bir şekilde. sanki anasını siktim)" href="/?q=so%c4%9fuk+bir+%c5%9fekilde.+sanki+anas%c4%b1n%c4%b1+siktim" data-query="soğuk bir şekilde. sanki anasını siktim">*</a></sup><br/>- hayırlı işler. kolay gelsin <br/><br/>dedim ve dükkandan çıktım<br/><br/>gidip yeni süpürge aldım.<br/>lan yavşak 50 liralık mal satacan altı üstü.<br/>önce esnaflık yapmayı öğren.<br/>göt.
 - entry_name: |
     rte'nin şehit torunu olması
   entry_id:  73428619
   entry_writer: ginc
-  entry_fav_count: 183
+  entry_fav_count: 184
   entry_content: |
     100 sene önceki belge ortaya çıkıyor nedense diploma bir türlü ortaya çıkmıyor
 - entry_name: |
     kuzene rüyalanmak
   entry_id:  73432012
   entry_writer: hayatin anlamini arayan insan
-  entry_fav_count: 104
+  entry_fav_count: 106
   entry_content: |
     (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bc%c4%9f%c3%bcn+seks+hikayeleri+sitesine+d%c3%b6nmesi">ekşi sözlüğün seks hikayeleri sitesine dönmesi</a>)
 - entry_name: |
@@ -66,47 +73,40 @@ data:
   entry_content: |
     şahsen ben anlamam<br/><br/>sevgili hükümetimiz saatleri siktiği için sabah karanlıkta işe geliyorum, akşam yine karanlıkta çıkıyorum. güneşi gördüğümüz mü var orospu çocukları.<br/><br/>tamam sakinim.
 - entry_name: |
-    laiklerin fetö'ye değil inançlılara karşı olması
-  entry_id:  73430726
-  entry_writer: redturtle
-  entry_fav_count: 98
+    mastürbasyon eşcinselliktir
+  entry_id:  73436282
+  entry_writer: uzbey
+  entry_fav_count: 94
   entry_content: |
-    evladım siz vaktinde fetönün götünü yalarken biz, o din satan göt yalanmaz diyorduk. daha nasıl izah edelim ikiniz de birbirinizden betersiniz.
+    heteroseksüel ilişkide de kendimizi (hemcinsimizi) tatmin ettiğimize göre heteroseksüel ilişki de homoseksüellik midir diye sorduran beyan.
 - entry_name: |
     chp yerli ve milli değil
   entry_id:  73430503
   entry_writer: o degil de neyse
-  entry_fav_count: 91
+  entry_fav_count: 93
   entry_content: |
     tabi lan manyak mısın hepimiz gevur dölü vatan hainleriyiz.
 - entry_name: |
     ağladığı için bebeğin suratını sıkan hemşire
   entry_id:  73426441
   entry_writer: haciz mahallinde tango
-  entry_fav_count: 85
+  entry_fav_count: 87
   entry_content: |
     işkence etme kastıyla değil, sözümona severken yapmış aslında ama neticede bebeğin canını yakmış ve onu korkutmuş. kastını aşan bir hareket olmuş kısacası. haberde yazdığı gibi "ağlayan bebeğin ağzını kapattı!!!" falan; yok öyle bir durum abi; çarpıtmayın gözünüzü seveyim.<br/><br/>kötü niyetli olmadığından, bebeği incitmeyi amaçlamadığından, çocuklara şiddet uygulayan diğer canilerle bir tutulmasını doğru bulmuyorum. "ağladığı için bebeğin suratını sıkmış" şeklindeki bir başlık da yanlış bence; ağladığı için işkence etmiyor kadın, kendi aklınca seviyor işte. yanlış seviyor, bokunu çıkarıyor ama seviyor yani; videoda ne bir azarlama var ne bir şiddet var; sadece severken hırpalamış; mahalledeki ayşe teyze gibi yani.<br/><br/>yaptığı şey kati surette yanlış; bu noktada diğer yazarlarla hemfikirim. en azından bebeğin canının yanacağını, korkacağını öngörmesi gerekirdi. ya da allah korusun; başkaca kazalara da meydan verebilir bu gibi hırpalamalar. ama türk insanı böyledir abi, ısıra ısıra sever, döve döve sever; çok yanlış ama böyledir yani. aynılarını yeğenime de yapıyorlar; sinir olurum ama tek kelime edemem mesela; azarlasan "sevdim canım, ne var?" diyecek...<br/><br/>netice itibariyle bu kadını, haberlerde okuduğumuz diğer insanlarla bir tutup üstelik "ağladığı için bebeğin yüzünü sıkan hemşire" diye de başlık açarsanız, yine haksız bir linç eylemine kapı açmış olursunuz. yazıktır, günahtır, vebaldir; aman diyeyim.
 - entry_name: |
     nba maçlarının artık keyif vermemesi
   entry_id:  73430326
   entry_writer: dort ogeyi anlatir yedi gokten soz eder
-  entry_fav_count: 77
+  entry_fav_count: 78
   entry_content: |
     nba maçları zevk vermiyor cünkü nba'i nba yapan hayvani pivotlarıydı bence. şimdi herkes üclükcü bu ne aq.
 - entry_name: |
     muhtarları dünya turuna çıkarmak
   entry_id:  73430492
   entry_writer: loria
-  entry_fav_count: 74
+  entry_fav_count: 75
   entry_content: |
     recep tayyip erdoğan tarafından 43. muhtarlar toplantısında dile getirelen vaat.<br/><br/>eğitim görmüş, ülkeye gerçekten hizmet eden yüzbinlerce genç insan dururken muhtarlara niye böyle bir iltimas geçiliyor anlayabilmiş değilim. masrafları devlet tarafından karşılanan dünya turu bir muhtara ne katacak; muhtar bununla vatana millete ne katkı sağlayacak?
-- entry_name: |
-    mastürbasyon eşcinselliktir
-  entry_id:  73436282
-  entry_writer: uzbey
-  entry_fav_count: 60
-  entry_content: |
-    heteroseksüel ilişkide de kendimizi (hemcinsimizi) tatmin ettiğimize göre heteroseksüel ilişki de homoseksüellik midir diye sorduran beyan.
 - entry_name: |
     türkler yapınca eğreti duran şeyler
   entry_id:  73423279
@@ -125,65 +125,86 @@ data:
     türk gitaristler
   entry_id:  73429118
   entry_writer: erika
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     (bkz: <a class="b" href="/?q=as%c4%b1m+can+g%c3%bcnd%c3%bcz">asım can gündüz</a>)
+- entry_name: |
+    belki mi daha acıdır keşke mi
+  entry_id:  73420762
+  entry_writer: skywalkerdarthvader
+  entry_fav_count: 38
+  entry_content: |
+    belki'de bir umut söz konusudur diyen arkadaş çok yanlış gelmiş. <br/>belki, keşke'nin insanın kendisine itiraf edemediği halidir.
 - entry_name: |
     üç kutsal kitabı birleştirip tek kitap yapmak
   entry_id:  73429676
   entry_writer: sage fouineur
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcm+dersler+soru+bankas%c4%b1">tüm dersler soru bankası</a>)
-- entry_name: |
-    sensörlü lambanın apartmanda kimse yokken yanması
-  entry_id:  73426986
-  entry_writer: gelecomp
-  entry_fav_count: 34
-  entry_content: |
-    sensörlü lambanın sıçarken sönmesi kadar kötü bir şey değildir.
 - entry_name: |
     sibirya'da çekilen klozet fotoğrafı
   entry_id:  73435799
   entry_writer: appeal
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     offf be düşünsene sıcak sıcak işiyorsun, karlar eriyor. <br/><br/>tanım: erkekler için harika olay.
+- entry_name: |
+    yanlış park eden bmw'ye isim kazımak
+  entry_id:  73436366
+  entry_writer: muti90
+  entry_fav_count: 29
+  entry_content: |
+    bmw sahibinin açacağı tazminat davasında kaybederse muhtemelen kendi aracını tazminat ödemek için satacak olan cahil vatandaş davranışıdır.<br/>ararsın polisi, çektirirsin aracı, hem park cezası yazılır hem polise otopark ve çekici ücreti öder o daha iyi bi ceza olurdu. burada vatandaş kendisine ceza kesmiştir adeta.<br/><br/>işte bunlar hep <a class="b" href="/?q=cezay%c4%b1+kendim+keserim">cezayı kendim keserim</a> sevdasındandır.
 - entry_name: |
     bedelli askerlik
   entry_id:  73431697
   entry_writer: osiet
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     seçim malzemesi olarak kullanılan, askerlikten muaf tutulma durumu, olarak tanımlasak doğru olacaktır.<br/><br/>savcı ve hakimlerin 35 yaşına kadar askerliğini yapmaması, 38 yaşına kadar milyon dolarları cebe indiren futbolcuların askerlik yapmaması, suriyelilerin bedavadan yaşayıp askerlik bile yapmaması ve yurtdışında 3 yıl çalışanların 1000eu ile dövizli askerlik yapabilmesi, durumları düşünülecek olursa, okuyan, çalışan, istihdam sağlayan gençler bu ülkenin üvey evladıdır. sizi bakayaya düşürdükten sonra da gbt ile sizleri terörist gibi ararlar, çalıştığınız yerlere tebligat ile zar zor bulduğunuz işten atarlar. işten atıldktan bir süre sonra da gss borcunu döşerler o da yetmez bakaya cezasını kitlerler. borcu harcı var mıdır, ailede muhtaç insan var mıdır, bu insanların işi gücü ne olacak, evli midir, çocuğu var mıdır, ailesine kim bakar diye kimse sormaz sorgulamaz. <br/><br/>kısa ve öz bu ülkede değerli olmak için, yurtdışında yaşayan vatandaşı olacaksın veya suriyeli olacaksın ötesi yok. insan kendini, babasının aldığı 2. eşin çocuklarına sizden daha fazla değer veriyor gibi hissediyor.
 - entry_name: |
     en iyi black mirror bölümü
   entry_id:  73435456
   entry_writer: la libertad
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     (bkz: <a class="b" href="/?q=white+christmas">white christmas</a>)<br/><br/>plase: (bkz: <a class="b" href="/?q=san+junipero">san junipero</a>)
+- entry_name: |
+    tükürdüğü otobüs şoföründen dayak yiyen kadın
+  entry_id:  73436873
+  entry_writer: perkins tp
+  entry_fav_count: 27
+  entry_content: |
+    son darbeyi yediğinde kadının bulanıklaşan bakışları, o sırada kafasındaki koruma kalkanın neden işe yaramadığını ruhani bir dille sorgular nitelikte. <br/><br/>oysa ki o bez parçası onun ömür boyu mağduriyet ve dokunulmazlık sertifikası olmalıydı. o tükürebilir, çalabilir, rüşvet alabilir ve cazgırlık yapabilirdi. fakat toplum tarafından her zaman takdir edilmeli, kollanmalıydı. kitapta da öyle yazdığını hacca giden komşusu hacer teyze demişti. <br/><br/>tanım: güzel dayak. otobüs şoförünün eline sağlık.
+- entry_name: |
+    playerunknown's battlegrounds
+  entry_id:  73424393
+  entry_writer: plaza communisti
+  entry_fav_count: 26
+  entry_content: |
+    2018 yılına gelince, oynanabilirlik, zevk önemini yitiriyor grafikler ön plana çıkıyorsa gidip 4k film izleyin çok güzel çekimleri olan.<br/><br/>1997 nin oyunu olan <a class="b" href="/?q=ultima+online">ultima online</a> kadar hala keyif veren bir oyun görmedim, bir ara wow verir gibi oldu ama onda da sistemler, loot pvp düzeni saçma idi. ölünce itemların üstünde kaldığı bir saçmalıktı çünkü. <br/><br/>pubg nin tutulmasının sebebi grafik falan değil oynanabilirliktir. h1z1 fornite gibi oyunlar zaten varken aynı fikiri çalıp yaptı sonuçta oyunu herifler.<br/><br/>gta5 far cry serisinde çok güzel grafikler var neden pubg kadar satmıyor? demek ki grafik amaç değil araçtır.<br/><br/>age of empires 2 neden 3 boyutlu age of empires 3 den çok tuttu? <br/>diablo 2 ile yatıp kalkardık, neden diablo 3'ü yüklemedik bile? <br/>red alert 2 ile sabahlardık, neden red alert 3 satmadı hiç?<br/>halflife 1 gibi 20 senelik oyunun <a class="b" href="/?q=crossfire">crossfire</a> custom game'i neden hala binlerce kişi tarafından oynanıyor? <br/><br/>gibi soruları düşünmek lazım.
 - entry_name: |
     tavuk döner
   entry_id:  73421066
   entry_writer: mavi orangutan
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     bir yerde çok fazla tavuk döner satan yer varsa o bölgenin alım gücü düşüktür bu çok net bir şey. tamamen arz-talep meselesi.
+- entry_name: |
+    sevgilim var ama seni de istiyorum diyen erkek
+  entry_id:  73427664
+  entry_writer: deadastronautinspace
+  entry_fav_count: 20
+  entry_content: |
+    erkeğin orospusu nasıl oluyor diyenlere gelsin.
 - entry_name: |
     beyin mr'ı çekilirken akıldan geçenler
   entry_id:  73428528
   entry_writer: 31feetunder
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     "ulan koskoca uçak nasıl uçuyor ya?"<br/><br/>bir de,<br/><br/>"gavur ne biçim yapmış lan, şu teknolojilere bak, dönüyor!"<br/><br/>bir takım örneklerdir.
-- entry_name: |
-    yanlış park eden bmw'ye isim kazımak
-  entry_id:  73436366
-  entry_writer: muti90
-  entry_fav_count: 18
-  entry_content: |
-    bmw sahibinin açacağı tazminat davasında kaybederse muhtemelen kendi aracını tazminat ödemek için satacak olan cahil vatandaş davranışıdır.<br/>ararsın polisi, çektirirsin aracı, hem park cezası yazılır hem polise otopark ve çekici ücreti öder o daha iyi bi ceza olurdu. burada vatandaş kendisine ceza kesmiştir adeta.<br/><br/>işte bunlar hep <a class="b" href="/?q=cezay%c4%b1+kendim+keserim">cezayı kendim keserim</a> sevdasındandır.
 - entry_name: |
     sevildiğini hissetmek
   entry_id:  73420451
@@ -192,26 +213,26 @@ data:
   entry_content: |
     uyuşturucudan farksızdır. etkisi geçtiğinde ruhsal<sup class="ab"><a title="(bkz: depresyon)" href="/?q=depresyon" data-query="depresyon">*</a></sup> ve fiziksel <sup class="ab"><a title="(bkz: kilo kaybı)" href="/?q=kilo+kayb%c4%b1" data-query="kilo kaybı">*</a></sup> açıdan oluşturduğu tahribat, yaşattığı duygu yoğunluğundan daha fazladır.
 - entry_name: |
-    sevgilim var ama seni de istiyorum diyen erkek
-  entry_id:  73427664
-  entry_writer: deadastronautinspace
-  entry_fav_count: 17
+    birayı 2 lira yapacak iktidar
+  entry_id:  73434914
+  entry_writer: mahoaganinkuluyam
+  entry_fav_count: 16
   entry_content: |
-    erkeğin orospusu nasıl oluyor diyenlere gelsin.
-- entry_name: |
-    tükürdüğü otobüs şoföründen dayak yiyen kadın
-  entry_id:  73436873
-  entry_writer: perkins tp
-  entry_fav_count: 14
-  entry_content: |
-    son darbeyi yediğinde kadının bulanıklaşan bakışları, o sırada kafasındaki koruma kalkanın neden işe yaramadığını ruhani bir dille sorgular nitelikte. <br/><br/>oysa ki o bez parçası onun ömür boyu mağduriyet ve dokunulmazlık sertifikası olmalıydı. o tükürebilir, çalabilir, rüşvet alabilir ve cazgırlık yapabilirdi. fakat toplum tarafından her zaman takdir edilmeli, kollanmalıydı. kitapta da öyle yazdığını hacca giden komşusu hacer teyze demişti. <br/><br/>tanım: güzel dayak. otobüs şoförünün eline sağlık.
+    bir elde kılıç bir elde kumanda <a class="b" href="/?q=dirili%c5%9f+ertu%c4%9frul">diriliş ertuğrul</a> izlememe sebep olacak iktidar.<br/><br/>ıstırırım <a class="b" href="/?q=tuborg+gold">tuborg gold</a>'u ıstırırım!<br/>aaa yalarım bile, aslan o aslan aslan. <br/>nelerini gördük yiğenim nelerini nelerini.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: şiir yazma dediniz belaya çattınız it südükleri,<br/><br/>şu çukurovanın yazı yabanı<br/>yağlı toprağı kara sabanı<br/>tekel bayileri olmuş kurt kapanı <br/>s.....m birayı 9 lira yapanı <br/><br/>bunlarda iman var mı bilmem <br/>her gün ağladığım ahuzar mı bilmem <br/>.mımız o kadar tatlı dar mı bilmem<br/>s......m birayı 9 lira yapanı <br/><br/>birayı kadehte 2 buzla içer oldum <br/>meyhanede konmadan göçer oldum<br/>bir badem bıyığın insafına düçar oldum<br/>s......m birayı 9 lira yapanı <br/><br/>kul maho eydür menekşe koktu m'ola<br/>ağ götüm zamdan bıktı m'ola<br/>haşmetlimiz zekerini soktu m'ola <br/>s.......m birayı 9 lira yapanı <br/><br/><a class="b" href="/?q=edit">edit</a>:hem nükteyi anlamayıp hem laf sokmaya çalışan sığır sikleri için amme hizmeti, <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Jt10Yp8Q0K0">https://youtu.be/jt10yp8q0k0</a>
 - entry_name: |
     yuvarlak kalçalı iri dudaklı büyük memeli kadın
   entry_id:  73434616
   entry_writer: oylmz
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     (bkz: <a class="b" href="/?q=kedicik">kedicik</a>)
+- entry_name: |
+    iphone x
+  entry_id:  73433938
+  entry_writer: bowersolufsen
+  entry_fav_count: 12
+  entry_content: |
+    6000tl verip parasını hak ediyor diyenler olduğu sürece, 2-3 seneye kadar telefon fiyatları peşin 10.000tl'yi, taksitli 15.000tl'leri görecek.
 - entry_name: |
     ekşi itiraf
   entry_id:  73423986
@@ -227,6 +248,13 @@ data:
   entry_content: |
     mesajlaşmak için boyunu, yaşını, yaşadığı şehri belirten yazarları ortaya çıkarmış über olay. <br/><br/>zaten 1.75'ten kısa erkeklere mesaj yollanamıyor benim bildiğim...
 - entry_name: |
+    keanu reeves
+  entry_id:  73435173
+  entry_writer: sonsuza kadar yiyebilen adam
+  entry_fav_count: 11
+  entry_content: |
+    motorsikleti ile kirmizi isikta durdugunda hayranlarina poz vermis aktor:<br/><br/>[<a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LbooLV.jpg">https://i.hizliresim.com/lboolv.jpg</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LbooLV.jpg">https://i.hizliresim.com/lboolv.jpg</a>]
+- entry_name: |
     karşı cinse dönüşülse yapılacak ilk şey
   entry_id:  73420443
   entry_writer: sinpecado
@@ -241,20 +269,6 @@ data:
   entry_content: |
     bazi kadinlar saygi duymadiklari erkeklere deger vermezler. bir insana da, sana bir sey katiyorsa ya da bazi konularda senden daha iyiyse saygi duyarsin. zeka, bircok ‘bazi konu’yu kapsar. burada bahsi gecen, bilimsel zeka degildir tabi. <br/><br/>erkegi, dolayisiyla hayatini ve parasini yonetmekten hoslanan dominant kadinlar icin gecerli olabilecek onerme. boyle dusunmeyen kadinlar icin ise, zeki olmayan erkek tam bir iskencedir.
 - entry_name: |
-    iphone x
-  entry_id:  73433938
-  entry_writer: bowersolufsen
-  entry_fav_count: 11
-  entry_content: |
-    6000tl verip parasını hak ediyor diyenler olduğu sürece, 2-3 seneye kadar telefon fiyatları peşin 10.000tl'yi, taksitli 15.000tl'leri görecek.
-- entry_name: |
-    birayı 2 lira yapacak iktidar
-  entry_id:  73434914
-  entry_writer: mahoaganinkuluyam
-  entry_fav_count: 11
-  entry_content: |
-    bir elde kılıç bir elde kumanda <a class="b" href="/?q=dirili%c5%9f+ertu%c4%9frul">diriliş ertuğrul</a> izlememe sebep olacak iktidar.<br/><br/>ıstırırım <a class="b" href="/?q=tuborg+gold">tuborg gold</a>'u ıstırırım!<br/>aaa yalarım bile, aslan o aslan aslan. <br/>nelerini gördük yiğenim nelerini nelerini.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: şiir yazma dediniz belaya çattınız it südükleri,<br/><br/>şu çukurovanın yazı yabanı<br/>yağlı toprağı kara sabanı<br/>tekel bayileri olmuş kurt kapanı <br/>s.....m birayı 9 lira yapanı <br/><br/>bunlarda iman var mı bilmem <br/>her gün ağladığım ahuzar mı bilmem <br/>.mımız o kadar tatlı dar mı bilmem<br/>s......m birayı 9 lira yapanı <br/><br/>birayı kadehte 2 buzla içer oldum <br/>meyhanede konmadan göçer oldum<br/>bir badem bıyığın insafına düçar oldum<br/>s......m birayı 9 lira yapanı <br/><br/>kul maho eydür menekşe koktu m'ola<br/>ağ götüm zamdan bıktı m'ola<br/>haşmetlimiz zekerini soktu m'ola <br/>s.......m birayı 9 lira yapanı <br/><br/><a class="b" href="/?q=edit">edit</a>:hem nükteyi anlamayıp hem laf sokmaya çalışan sığır sikleri için amme hizmeti, <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Jt10Yp8Q0K0">https://youtu.be/jt10yp8q0k0</a>
-- entry_name: |
     arif v 216
   entry_id:  73421040
   entry_writer: tutankamon
@@ -262,54 +276,33 @@ data:
   entry_content: |
     yekten kötü film demeye yazık ama yine de hayal kırıklığı.<br/><br/>beğenmeyenlerin bir kısmı meseleyi cem yılmaz'ın lüküs hayatla halktan kopmasına bağlamış ama bu adam resim, heykel de mi almasın, modern sanat da mı tüketmesin? asıl mesele memleketin en büyük komedyeninin ürettiği en büyük sinema prodüksiyonunun hollywood'un demode b sınıfı parodi komedileri kıvamında olması. ertem eğilmez'lerden, natuk baytan'lardan ileri gideceğimize "ulan iyiydi ya" diye geçmişe çakılan selamlara kaldık.<br/><br/>ayrıca bu filmler tamamen cem yılmaz'ın kendi sinema görüşü ve zevkine göre üretiliyor gibi görünüyor. ama ekol olmak öyle kolay değil, metin akpınar oturduk çalıştık, duygusal komediyi biz böyle kurduk <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/zeki-metin-ikilisi-yarinin-demokrasi-kulturunun-cekirdegidir-40456742" title="http://www.hurriyet.com.tr/zeki-metin-ikilisi-yarinin-demokrasi-kulturunun-cekirdegidir-40456742">diyor</a>. illa teori çalışmak da şart değil, koca star wars'u daha en başta, lucas'ın o zamanki karısı bir hale yola koyup, üstüne bir de oscar almış <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=GFMyMxMYDNk" title="https://www.youtube.com/watch?v=GFMyMxMYDNk">vaktiyle</a>. peki burada milyon dolarlık kostüm efekt vs. bütçesinin yanında bir senarist, dramaturg bakmış mıdır senaryoya, kurguya acaba?<br/><br/>bu arada gönderme dediğinin kralı <a class="b" href="/?q=ula+%c5%9furda+141-142+ba%c5%9fs%c4%b1n%c4%b1z">ula şurda 141-142 başsınız</a> gibi olur, yoksa kim napsın whiplash'i yirmi otuz sene sonra.
 - entry_name: |
-    vaizlerin 4000tl maaş alması
-  entry_id:  73436996
-  entry_writer: midilli35
-  entry_fav_count: 9
+    insanın kendine sorduğu soru
+  entry_id:  73434077
+  entry_writer: kissofh3ll
+  entry_fav_count: 8
   entry_content: |
-    yeni zam ile birlikte 4082 tl almaya baslamislar.<br/><br/>fakirlere ve asgari ucretlilere "sukredin, dua edin, sabredin" diye telkinde bulunurken aldigi paradir. bu dedikleriniz ise yariyorsa, size hic para vermeyelim.<br/><br/>not: vaizler, ogretmen, universite mezunu hemsire ve universite mezunu memurdan da daha fazla kazanmaktaymis. avukata da yakin maas aliyormus.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.kpssalandersleri.com/2018/01/2018-yili-ocak-ayi-memur-ve-emekli-zammi-belli-oldu.html" title="https://www.kpssalandersleri.com/2018/01/2018-yili-ocak-ayi-memur-ve-emekli-zammi-belli-oldu.html">https://www.kpssalandersleri.com/…i-belli-oldu.html</a>
-- entry_name: |
-    belki mi daha acıdır keşke mi
-  entry_id:  73421876
-  entry_writer: demesi kolay tabii
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=belki+format%c4%b1+sikmemi%c5%9flerdir">belki formatı sikmemişlerdir</a>)<br/>(bkz: <a class="b" href="/?q=ke%c5%9fke+format%c4%b1+sikmeselerdi">keşke formatı sikmeselerdi</a>)
+    ne için yaşıyoruz?
 - entry_name: |
     devlet bahçeli
   entry_id:  73423141
   entry_writer: thestoryofus
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     "siyasette ilk defa bir parti genel başkanı başka bir partinin genel başkanına "ülkeyi sen yönet" dedi."<br/><br/>bu kişide bu şahıstır efendim. tarihe not düşülsün .
-- entry_name: |
-    2018 tus ücretinin 350 lira olması
-  entry_id:  73434926
-  entry_writer: queen bee
-  entry_fav_count: 3
-  entry_content: |
-    şaka gibi bir olay. bir de 120 tl'yi geçmeyecek diye açıklama yapmışlardı önceden.
 - entry_name: |
     kolay gibi görünen ama çok zor olan şeyler
   entry_id:  73436393
   entry_writer: minnoklokumcuk
-  entry_fav_count: 2
+  entry_fav_count: 5
   entry_content: |
     (bkz: <a class="b" href="/?q=so%c4%9fukkanl%c4%b1l%c4%b1k">soğukkanlılık</a>)<br/>(bkz: <a class="b" href="/?q=kriz+y%c3%b6netimi">kriz yönetimi</a>)<br/><br/>insanın hem ıq ve hem de eq'sunun ne derece uyum içinde ve kuvvette olduğunu gösteren iki ana unsur. bence.
 - entry_name: |
-    insanın kendine sorduğu soru
-  entry_id:  73433820
-  entry_writer: bilmemadinisenkoy
-  entry_fav_count: 2
+    2018 tus ücretinin 350 lira olması
+  entry_id:  73436960
+  entry_writer: queen bee
+  entry_fav_count: 3
   entry_content: |
-    nedir bu mevlanın bize kestiği ceza ? yeter be yeter !
-- entry_name: |
-    binance
-  entry_id:  73428986
-  entry_writer: explorateur
-  entry_fav_count: 2
-  entry_content: |
-    ırkıdışlır binance coin almak için önce türk borsalarında bitcoin alıyoruz sonra binance borsasına aktarıp binance coine çeviriyoruz. bu kadar çok bilgi verdiğim için referansımla üye ılırsınız ırtık. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://galeri.omusozluk.com/uploads/images/2015/11/2015-11-26/big/kizil-sacli-kizlar-208.jpg" title="http://galeri.omusozluk.com/uploads/images/2015/11/2015-11-26/big/kizil-sacli-kizlar-208.jpg">lınk</a><br/><br/><sup class="ab"><a title="(bkz: bi bitmediniz)" href="/?q=bi+bitmediniz" data-query="bi bitmediniz">*</a></sup>
+    evet 3 dklık muayene ücreti 500 tl diyen adam da gelmiş. <br/><br/>demek ki bu işler böyle <a class="b" href="/?q=sitep">sitep</a> sitep. doktorları böyle bezdiriyorsunuz adam bi yere gelene kadar işkencenin büyüğünü çekiyor sonra 3 dk oluyor tabi ki 500 tl.<br/><br/>artık ben de o tayfadan olacağım hadi size hayırlı olsun. size müstehak lan başka türlü senin 3 dk suratını kim çekebilir ki tabi ki 500 tl olacak. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     yeşim salkım'dan seda sayan'a videolu tehdit
   entry_id:  73421637
@@ -325,12 +318,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=change.org+kampanyalar%c4%b1n%c4%b1n+siklenmemesi">change.org kampanyalarının siklenmemesi</a>)
 - entry_name: |
-    türk olmakla övünmek
-  entry_id:  73421924
-  entry_writer: chatrefill
+    vaizlerin 4000tl maaş alması
+  entry_id:  73437681
+  entry_writer: başlık taşıyan
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=kimlik+mast%c3%bcrbasyonu">kimlik mastürbasyonu</a>)
+    (bkz: <a class="b" href="/?q=vaizlerin+4+bin+tl+maa%c5%9f+almas%c4%b1">vaizlerin 4 bin tl maaş alması</a>)
 - entry_name: |
     sözlük yazarlarının satın aldıkları son kitap
   entry_id:  73433545
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     fışkiyemden taşanlar olabilir, tabii büyük harflerle
+- entry_name: |
+    dark
+  entry_id:  73427183
+  entry_writer: 29 haziran
+  entry_fav_count: 0
+  entry_content: |
+    eşimle satır satır izlediğimiz dizi. evet satır satır. her geçen isimden sonra durdurup bakıyoruz fotoğrafına kimdi diye, kaçırdığımız kimse yok gibi duruyor. herkes herkesin birşeyi ve anladıkça haaa diyip şok oluyoruz.<br/><br/>normalde hafta hafta yayınlanan dizilerin spoiler ibarelerine hangi bölüm hakkında spoiler verdildiği yazılır. bende eğer o ölümü izlemediysem o spoilerları okumam ama izlediklerimi diğerlerini okurum, bölüm hakkında kaçırdığım birşey varmı diğer kişiler neler düşünmüş gibi gibi merak ederim.<br/><br/>ama vicdansızlar, bu dizi komple yayınlandı diye neden böyle yapıyorsunuz. komple çatır çatır herşeyi yazıyorsunuz. izlediğim bölüm hakkında bilgi alamıyorum, eleştrilerinizi okuyamıyorum az kalsın spoiler yicem diye. üstüne üstlük normalde got ve twd izlerken spoiler yemek için elimden ne gelirse yapan ben, bu dizide istemiyorum ya, zaten herşey karmakarışık kendim çözmek istiyorum. <br/><br/>neyse 2 bölüm kaldı bitmesine, bu akşamdan sonra tek tek tüm entryleri okucam.
 ---
