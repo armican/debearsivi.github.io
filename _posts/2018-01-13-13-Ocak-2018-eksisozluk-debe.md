@@ -6,63 +6,63 @@ data:
     dayak azaldıkça öğrenci kalitesinin düşmesi
   entry_id:  73447886
   entry_writer: sinpecado
-  entry_fav_count: 753
+  entry_fav_count: 764
   entry_content: |
     avrupa'da hic dayak yok. ogrenci kalitesi gayet iyi durumda. ama ogretmen kalitesi dustukce ogrenci kalitesinin dustugu fikrine katilabilirim.
 - entry_name: |
     regl olduğunu cart diye söyleyen kadın tipi
   entry_id:  73445542
   entry_writer: seni gidi bok
-  entry_fav_count: 290
+  entry_fav_count: 294
   entry_content: |
     cart diye de söylerim, şap diye de söylerim. neyin var neyin var diye insanı delirtince çevresi, regl oldum ve yürüyün gidin lütfen deyince ortalık bir sakinliyor. <br/><br/>hatta köpeğim regl oldu. onu da herkese söylüyorum. benim kızım regl oldu diye hahaah. ona da bir sakinlik geldi ama. karnı ağrıyor herhalde birkaç gündür. çok garip lan. 40 kg, kocaman, ilk kez regl oldu, aşırı garip garip davrandı filan. sonra sakinleşti. poposunda bezle gezerken bir kadın sordu, yanında kızı. buna niye bunu bağladın diye. regl oldu çünkü dedim. kadın kıza baktı, şok oldu, yanlış bir şey söylenmiş gibi kapamaya çalıştı. kıza ben de “o şimdi kanıyor. biz de oluyoruz, sen de olacaksın. hepimiz regl oluyoruz.” dedim ve köpeğimi koşturtmaya devam ettim parkta. hahhaa. utandı ya kadın. ciddi bundan utandı.
 - entry_name: |
     skinny pantolon giyen erkek
   entry_id:  73443149
   entry_writer: zaza190312
-  entry_fav_count: 241
+  entry_fav_count: 244
   entry_content: |
     bir skinny'me benzemeyen erkektir.
+- entry_name: |
+    bilimle yakından ilgilenen cumhurbaşkanı şahsımdır
+  entry_id:  73455248
+  entry_writer: unicornknight
+  entry_fav_count: 172
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/NZbZ0g.jpg">https://i.hizliresim.com/nzbz0g.jpg</a>
 - entry_name: |
     tarımın çökme noktasına gelmesi
   entry_id:  73442683
   entry_writer: kara ruhlu noker
-  entry_fav_count: 164
+  entry_fav_count: 165
   entry_content: |
     bir çiftçi evladı olarak (ki henüz çalışmadığım için çiftçilikten geçinmiş oluyorum) çok doğru tespit, örneğin bizim ailede babam çiftçilik yapan son kişi olacak. çünkü ne ağabeyim, ne de ben çiftçiliğe pek yanaşmıyoruz. <br/><br/>peki neden?<br/><br/>1. çiftçi olacaksan kırsalda yaşamak zorundasın mutlaka, öyle şehirde yaşayayım araziye giderim falan olacak şey değil. kırsalda yaşamak demek kötü bir sosyal hayat, çocuklar için kötü eğitim ve kısıtlı imkan demek.<br/><br/>2. mazot, gübre, tohum, ilaç fiyatları çok yüksek, adam akıllı para kazanmak için çok arazi ekerek sürümden kazanman lazım. çok arazi demek, çok çalışmak demek.<br/><br/>3. çalıştıracak işçi bulunmuyor, herkes fabrikalarda çalışıyor.<br/><br/>4. benim çiftçiliği tercih etmemek için en büyük nedenim; hor görülmek. ne kadar kazanırsan kazan, hadi parayı geçtim, kendini ne kadar geliştirirsen geliştir, çiftçiysen köylü, cahil ve geri kafalısındır.
 - entry_name: |
     ertuğrul özkök
   entry_id:  73444645
   entry_writer: jedilost
-  entry_fav_count: 163
+  entry_fav_count: 164
   entry_content: |
     sözlük'te en çok eleştirilen kişi kanzuk olduğu için haksız bir yazıdır.<br/><br/>kanzuk eğer özkok'un iddia ettiği gibi ekşi'nin patronuysa, patronunu en fazla iplemeyen platformlardan biri ekşi'dir. ama bir diğeri hürriyet değildir.
 - entry_name: |
     ahmet türk'ün 1994'te giydiği takım elbise
   entry_id:  73449449
   entry_writer: ivedigiden
-  entry_fav_count: 162
+  entry_fav_count: 163
   entry_content: |
     2040'lar da hala buraları okuyor olursanız,şimdi sizin giydiğiniz kısa ve dar paça,çorapsız takım elbiselerinizle daha fazla taşak geçecekler haberiniz olsun:)
-- entry_name: |
-    bilimle yakından ilgilenen cumhurbaşkanı şahsımdır
-  entry_id:  73455248
-  entry_writer: unicornknight
-  entry_fav_count: 154
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/NZbZ0g.jpg">https://i.hizliresim.com/nzbz0g.jpg</a>
 - entry_name: |
     halkbank'a bir ceza gelirse bunu halkbank öder
   entry_id:  73451553
   entry_writer: oyuncak bulut
-  entry_fav_count: 147
+  entry_fav_count: 148
   entry_content: |
     halk ödeyecek demenin resmi beyanatıdır.<br/><br/>edit: geçenlerde bir açıklama yapmıştı uzun "bu fakir kardeşiniz olduğu sürece" ile başlayan.<br/>fakir makir diyince anlamalıydık aslında kendi yırtacak bu ödeme olayından.
 - entry_name: |
     neden yabancı dil öğrenemiyoruz
   entry_id:  73441782
   entry_writer: schanzer
-  entry_fav_count: 139
+  entry_fav_count: 140
   entry_content: |
     ingilizce'yi ana dilin bir tik altinda, almanca'yi ise 2 tik altinda konusan biri olarak söyleyeyim.<br/><br/>öncelikle dilin konusuldugu ülkede bile yasasaniz kendinizi dile maruz birakmazsaniz ögrenemezsiniz. nedir kendini dile maruz birakmak:<br/><br/>-<a class="b" href="/?q=her+t%c3%bcrl%c3%bc+medya">her türlü medya</a>yi o dilden takip edeceksiniz.<br/>-o dili ana dili olarak konusan insanlarla hata yapma korkusuna kapilmadan konusacaksiniz.<br/><br/>kendini rezil etme korkusu olanlar bir sikim ögrenemez. biz de ayni yollardan gectik biliyoruz. gramatik hata yapinca karsidakinin gülmemek icin kendini tutmasina ragmen devam edince sebat ettiginiz taktirde o dili ögrenirsiniz.
 - entry_name: |
@@ -73,103 +73,82 @@ data:
   entry_content: |
     hazır ayağa kalkmışken iki milyon daha eklesinler, suriye'nin yarı nüfusunu tam olarak içimize almış olalım. <br/><br/>şu haliyle bile ülkenin demografik yapısını geri döndürülemez şekilde değiştirdiler. bakın şaka yapmıyorum. ekonomi, eğitim, işsizlik, gelişmemişlik, terör bile bir şekilde çözülür ama demografi değişirse geri dönüşü olmaz. tarihten biliyoruz ki bu yapıyı ekonomik iflaslar, savaşlar, hatta toplama kamplarında insanları yakmak bile değiştiremedi. <br/><br/>eğer bir dış mihrak, üst akıl planı aranıyorsa bundan ötesi olamaz. türkiye'nin seküler yapısını bozarak tam bir orta doğu ülkesine çevirmek için gerekli olan şey bir kaç milyon arap ve üreyebilmeleri için yeterli süre. ekonomik olarak batmaya filan lüzum yok. ülke değişen demografisiyle de gelişir zenginleşir fakat içinde türk nüfus azınlık kaldıktan sonra adının türkiye olmasının ne manası kalır varın siz düşünün.<br/><br/>ufak bir edit:<br/><br/>abidik gubidik mesajlar geliyor. daha iyi kavramanız açısından iki farklı örnek vereyim. birincisi kendi tarihimizden. ırak savaşı sonrası ülkeye aldığımız yarım milyon ıraklı kürtten geriye kalan iki yüz bin insanın ülkedeki terörü ne hale getirdiğini hatırlayın. pkk'nın en güçlü olduğu, yol kesip askerlerimizi kurşuna dizdiği dönemden bahsediyorum. kürdistan söylemi de aynı dönemde başlamıştır. bilmeyenler için şurada detaylı özetini geçtim. (bkz: <a class="b" href="/entry/59754286">#59754286</a>) aynı durumun ankara nüfusundan fazla suriyeli ile cereyan ettiğinde ne olacağını bir düşünün. terör ve savaş gibi en uç örnekleri kenara koyalım. zararsız görünen başka bir örnek vereyim. <br/><br/>singapur, zamanında önleyemediği çinli göçü yüzünden bugün ülkenin kendi halkı azınlık olarak kaldı. dil kültür her şey asimile olmuş durumda. evet, yönetim hala ülkenin yerlilerinde ama bu cibiliyetsizlere medeniyet öğretmek için ülkenin her yanına dört dilde tabela çaktılar. sokağa sıçmak/işemek/tükürmek yasaktır, sıçmanın cezası 500 dolardan başlar şeklinde tabela var. canlarından öyle bezmişler. ülkenin bir ruhu, birliği, bereketi kalmamış. daha kötüsü bugün bir singapurlu yurt dışına çıktığında nereden geldiğini söyler söylemez adama çince konuşmaya başlıyorlar. adamın ana dili malaycaymış filan kimsenin umurunda değil. türküm dediğiniz vakit birilerinin aa ben arapça biliyorum hebele hübele demesi gibi bir şey. durumun acziyetini kavrayabiliyor musunuz?
 - entry_name: |
+    motosiklet sürücülerine duyulan antipatinin sebebi
+  entry_id:  73447844
+  entry_writer: rooibos vanilla
+  entry_fav_count: 103
+  entry_content: |
+    şeritleri kullanmayıp boş buldukları her yerden geçmeye çalışmaları.
+- entry_name: |
     microsoft edge
   entry_id:  73449695
   entry_writer: nundu
-  entry_fav_count: 96
+  entry_fav_count: 100
   entry_content: |
     her tarayicinin yillardir sunduğu tarayiciyi kapayinca ayni sekmelerle açma ve sadece site ismi yazarak siteye gitme özelliklerini "getirdi" diye övülen tarayıcı.<br/><br/>ama asıl önemli özelliği yazilmamış, çok sık girdiğiniz siteleri sık kullanılanlara ekleyip rahatca girebilir ve hatta daha önce girdiğiniz sitelere geçmişten bakabilirsiniz, vallahi büyük hizmet..
 - entry_name: |
     öğrencilik yıllarında solculardan çok çektik
   entry_id:  73454016
   entry_writer: nickbulamadimnolcak
-  entry_fav_count: 88
+  entry_fav_count: 92
   entry_content: |
     "altıncı filoya karşı doğru dürüst bir namaz bile kıldırtmazlardı" diye devam edesi olan cümle.
-- entry_name: |
-    bakire kız arama nedenleri
-  entry_id:  73452351
-  entry_writer: grotowski
-  entry_fav_count: 78
-  entry_content: |
-    tek bir koşulda anlaşılabilir o da erkeğin de "evlenene dek bakir kalmış olması."<br/><br/>vardır böyle bir inancı ya da isteği,"o sadece bana ben de sadece o'na ait olayım" der,saygı duyarım.<br/><br/>gerisi tamamen cinsiyetçilik ve güvensizliktir.<br/><br/>senle evlenmeden üç gün önce başkasıyla sevişerek hamile kalan (ya da senle evliyken de olabilir) kadınla ilgili zaten çok ciddi başka problemler yaşarsın,bekaret filan solda sıfır kalır;soluğu adliye koridorunda alırsın.
 - entry_name: |
     uluslararası uzay istasyonu'ndaki laptop
   entry_id:  73451421
   entry_writer: mahoaganinkuluyam
-  entry_fav_count: 76
+  entry_fav_count: 89
   entry_content: |
     (bkz: <a class="b" href="/?q=thinkpad">thinkpad</a>)<br/>(bkz: <a class="b" href="/?q=ibm">ibm</a>) (bkz: <a class="b" href="/?q=lenovo">lenovo</a>) <br/><br/>plaza kaşarı bilgisayarı <a class="b" href="/?q=macbook">macbook</a>ları afedersiniz havada ters domaltıp yerde düz sikecek bilgisayar serisidir.
 - entry_name: |
-    türkiye'nin savaş çıkarmaktan başka çaresi yok
-  entry_id:  73447665
-  entry_writer: mrlaw
-  entry_fav_count: 73
+    bakire kız arama nedenleri
+  entry_id:  73452351
+  entry_writer: grotowski
+  entry_fav_count: 79
   entry_content: |
-    suriye ve ırak sınırına paladin yığalım. bulgaristan ve yunanistan sınırına ise catapult+janissary yığarak bu işi kökten çözeriz. ha tabi archer da lazım.
+    tek bir koşulda anlaşılabilir o da erkeğin de "evlenene dek bakir kalmış olması."<br/><br/>vardır böyle bir inancı ya da isteği,"o sadece bana ben de sadece o'na ait olayım" der,saygı duyarım.<br/><br/>gerisi tamamen cinsiyetçilik ve güvensizliktir.<br/><br/>senle evlenmeden üç gün önce başkasıyla sevişerek hamile kalan (ya da senle evliyken de olabilir) kadınla ilgili zaten çok ciddi başka problemler yaşarsın,bekaret filan solda sıfır kalır;soluğu adliye koridorunda alırsın.
 - entry_name: |
     12 ocak 2018 kendini yakmak isteyen vatandaş
   entry_id:  73456528
   entry_writer: az gelismislik az gelismisliktir
-  entry_fav_count: 70
+  entry_fav_count: 76
   entry_content: |
     ama bir yazar kasa atmamış. yazar kasa atsaydı kriz oluyor çünkü.<br/><br/>tanım: ana akım medyada doğru düzgün gündem maddesi olamayacak olay. <br/><br/>sorarlarsa ekonomi çok iyi, vatandaşlar da mutlu dersiniz.
 - entry_name: |
-    fetö'den ihraç edilen albay yerine fetö'cü atamak
-  entry_id:  73453128
-  entry_writer: tnhnkck
-  entry_fav_count: 61
+    türkiye'nin savaş çıkarmaktan başka çaresi yok
+  entry_id:  73447665
+  entry_writer: mrlaw
+  entry_fav_count: 75
   entry_content: |
-    eski düzce jandarma il komutanı albay <a class="b" href="/?q=bilal+g%c3%bcvenir">bilal güvenir</a>, <a class="b" href="/?q=bylock">bylock</a> kullandığı gerekçesiyle ordudan ihraç edilip 5 yıl, 2 ay hapis cezasına çarptırılır. ancak kendisi, <a class="b" href="/?q=mor+beyin">mor beyin</a> uygulaması nedeniyle <a class="b" href="/?q=bylock">bylock</a> kullandığı sanılan 11 bin mağdur kişiden birisidir. 697 sayılı khk ile görevine döner. <br/><br/>yerine atanan kıdemli albay <a class="b" href="/?q=y%c4%b1lmaz+%c3%b6zdemir">yılmaz özdemir</a>, fetö'cü olduğunu itiraf ederek 4 ocak 2018'de teslim olur.<br/><br/>işte <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cnnturk.com/turkiye/duzcede-fetocu-diye-ihrac-edilen-albay-aklandi-yerine-atanan-orgut-uyesi-cikti?utm_content=bufferb18b7&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" title="https://www.cnnturk.com/turkiye/duzcede-fetocu-diye-ihrac-edilen-albay-aklandi-yerine-atanan-orgut-uyesi-cikti?utm_content=bufferb18b7&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">haberi</a>.<br/><br/>ancak türkiye'de yaşanacak bir skandaldır. bu hukuksuzlukların bedelini türkiye, ağır biçimde ödeyecek.
+    suriye ve ırak sınırına paladin yığalım. bulgaristan ve yunanistan sınırına ise catapult+janissary yığarak bu işi kökten çözeriz. ha tabi archer da lazım.
 - entry_name: |
     meltem bankoyu anlatacak filme isim onerisi
   entry_id:  73453697
   entry_writer: feng shuili odada bir maarif takvimsin
-  entry_fav_count: 60
+  entry_fav_count: 63
   entry_content: |
     (bkz: <a class="b" href="/?q=fart+away">fart away</a>)
-- entry_name: |
-    abd için seyahat uyarısı yapılması
-  entry_id:  73448273
-  entry_writer: epir
-  entry_fav_count: 58
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hahahahahahahahahaha">hahahahahahahahahaha</a>)<br/>(bkz: <a class="b" href="/?q=trip+yapan+eski+sevgili">trip yapan eski sevgili</a>)
 - entry_name: |
     kpss'si olmayanın kpss puanını 70 kabul etmek
   entry_id:  73455990
   entry_writer: siradanbiedebiyatogretmeni
-  entry_fav_count: 45
+  entry_fav_count: 52
   entry_content: |
     86 puanla bir bok olamadım. ne öğretmen olarak atanabildim ne de memur. sonra yırttım attım diplomayı işte. fabrikada bekçiliğe devam. <br/><br/>tanım: torpildir. orospu çocukluğudur.
-- entry_name: |
-    depresyondan çıkma yöntemleri
-  entry_id:  73443498
-  entry_writer: ramachandran
-  entry_fav_count: 45
-  entry_content: |
-    depresyonun tanımına aykırıdır. çünkü zaten depresyonda olan birisi "x yapın, y deneyin" tavsiyelerini uygulayamadığı için depresyondadır. yani "insanları ciddiye almayın" tavsiyesini yapıyor olsa zaten depresyona girmeyecek. ya da geleceğini düşünmese, ya da geçmişi bıraksa, ya da hayatı ciddiye almasa... bunları beceremediği için depresyonda olamaz mı sence? "kolumu oynatınca acıyor" diyen birine kolunu oynatmazsan acımaz demek gibi bir şey bu.
-- entry_name: |
-    arif v 216
-  entry_id:  73441759
-  entry_writer: walnutbreaker
-  entry_fav_count: 40
-  entry_content: |
-    birçok kişinin gözünden kaçan (en azından sözlükte bahseden yok) sadece bir kaç yerde bahsedilen ince bir gönderme de şöyledir.<br/><br/>gora yazılırken arif karakterinin gerçek adı samidir ve bütün senaryo <a class="b" href="/?q=sami">sami</a> karakteri üzerine yazılır. daha sonradan sami <a class="b" href="/?q=kula%c4%9fa+ho%c5%9f+gelmedi%c4%9fi">kulağa hoş gelmediği</a> için cem yılmazın babasının adı olan arif ile değiştirilir. hatta cem yılmaz karakter ismini son anda değiştirdiklerini, son dakikada yazım programındaki ‘şu kelimeyi bul ve hepsini değiştir’ yöntemiyle samiyi arif yaptıklarından bahseder.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>geleceğe gittiklerinde ise arif pembeşekere kafayı yemiş bir şekilde <br/><br/>-bundan sonra sami de bana sami benim adım samiyim ben<br/><br/>gibilerinden laflar söyler<br/><br/>pembeşekerin cevabı ise şu olur<br/><br/>- ben arif diyeceğim <a class="b" href="/?q=kula%c4%9fa+daha+ho%c5%9f+geliyor">kulağa daha hoş geliyor</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    motosiklet sürücülerine duyulan antipatinin sebebi
-  entry_id:  73448228
-  entry_writer: smal
-  entry_fav_count: 39
-  entry_content: |
-    küçük cc'li veya elektrikli motor sürücülerinin ters $erit, kaldırımdan gitme, ışıkta geçme gibi hareketler.
 - entry_name: |
     selahattin demirtaş
   entry_id:  73454690
   entry_writer: mobynin dicki
-  entry_fav_count: 38
+  entry_fav_count: 41
   entry_content: |
     kanser tedavisi gördüğüm yıllarda tüm tedavi masraflarımı üstlenmiş siyasetçidir. yıllarca ülkü ocaklarında görev aldım. kanser olduğum öğrenildiğinde partili insanlar bana sırtını dönerken düşman olarak gördüğüm selahattin demirtaş ilaçlarımı alabilmek için gece yarılarına kadar çalışan babamın feryadına kulak vermişti. o yüzden hdpli siyasetçiler arasında yalnızca kendisinin bendeki yeri apayrıdır. umarım tez zamanda tahliye olup ailesine kavuşur.
+- entry_name: |
+    arif v 216
+  entry_id:  73441759
+  entry_writer: walnutbreaker
+  entry_fav_count: 41
+  entry_content: |
+    birçok kişinin gözünden kaçan (en azından sözlükte bahseden yok) sadece bir kaç yerde bahsedilen ince bir gönderme de şöyledir.<br/><br/>gora yazılırken arif karakterinin gerçek adı samidir ve bütün senaryo <a class="b" href="/?q=sami">sami</a> karakteri üzerine yazılır. daha sonradan sami <a class="b" href="/?q=kula%c4%9fa+ho%c5%9f+gelmedi%c4%9fi">kulağa hoş gelmediği</a> için cem yılmazın babasının adı olan arif ile değiştirilir. hatta cem yılmaz karakter ismini son anda değiştirdiklerini, son dakikada yazım programındaki ‘şu kelimeyi bul ve hepsini değiştir’ yöntemiyle samiyi arif yaptıklarından bahseder.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>geleceğe gittiklerinde ise arif pembeşekere kafayı yemiş bir şekilde <br/><br/>-bundan sonra sami de bana sami benim adım samiyim ben<br/><br/>gibilerinden laflar söyler<br/><br/>pembeşekerin cevabı ise şu olur<br/><br/>- ben arif diyeceğim <a class="b" href="/?q=kula%c4%9fa+daha+ho%c5%9f+geliyor">kulağa daha hoş geliyor</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     bitcoin
   entry_id:  73442124
@@ -178,19 +157,40 @@ data:
   entry_content: |
     başlığına tam 00:00'ı bekleyip 15432575678658 defa yazılan şeyleri sırf referanslı link vermek için yazan köylü kurnazları var.bir de uzun yazıyorlar güya yazılarına emek verdiklerine inandırmak için 2 tane nöronlarıyla.eskiden kutsal bilgi kaynağı derlerdi, şimdi ne kaynağı oldu bilinmez.
 - entry_name: |
+    amcamın güzel bir kızı vardı
+  entry_id:  73453108
+  entry_writer: doctor doctor kids alone
+  entry_fav_count: 38
+  entry_content: |
+    babasının kızmayacağını bilse amcasını, <br/>amcasının kızmayacağını bilse yengesini, <br/>kimsenin duymayacağını bilse kuzenini - kardeşini, <br/>babası öldüyse annesini, <br/>annesi öldüyse babasını, <br/>ısırmayacağını bilse köpeğini,<br/>tırnaklarını geçirmeyeceğini bilse kedisini,<br/>gagalamayacağını bilse tavuğunu, <br/>içine sıkışmayacağını bilse pet şişeyi,<br/>gece mezarlıktan çıkardığı ceseti,<br/>dağı, taşı, denizi, dalgayı, güneşi, ayı, venüsü<br/><br/>ve dara düşenin hep en değerlisini sikmek isteyen insanlarla birlikte yaşıyoruz.<br/><br/>bazı insanların adam olması için allahtan korkmaları şart.
+- entry_name: |
     şampiyonlar ligi şampiyonu beşiktaş
   entry_id:  73453777
   entry_writer: bilmemadinisenkoy
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     (bkz: <a class="b" href="/?q=al+abi+bi+snickers+ye">al abi bi snickers ye</a>)
+- entry_name: |
+    çiftlik bank
+  entry_id:  73443368
+  entry_writer: shinigami ryuk
+  entry_fav_count: 35
+  entry_content: |
+    vaktiyle bu saadet zinciri işlerinin organizasyonunda yer alan ve vurgunu yaptığı günden beri tropik adalarda fink atan bir arkadaşım vardı. aynı ekiple bu işi türkiye'de bir kez daha yaptıktan sonra başka ülkelere açıldılar. türkiye'de artık millet uyandı, zokayı yutmuyorlar demişti bir keresinde.<br/><br/>sonra şu başlığa tıkladım ve anladım ki bu işin kompetanı olmuş haysiyetsiz arkadaşım çok yanılıyordu. çünkü bu ülke tam bir sazan çiftliği. üstelik çabuk ve çok sayıda ürüyorlar. yeterli süre tanırsan büyük babasını dolandırdığın adamın oğlunu hatta torununu dahi aynı yöntemle tokatlayabilirsin. kenan şeranoğlu kaç yaşında kelli felli adamdı. iş dünyasından ve siyasi isimlerden oluşan hayvan gibi çevresini dahil ederek bu işlere girmişti. adamın dolandırıcılığı bile kaliteliydi çünkü göz boyama işini çok iyi yapıyordu. en büyük avantajı ise türk halkının henüz böyle bir dolandırıcılık yöntemi görmemiş olmasıydı.<br/><br/>bir de bu toramana bakıyorum. herif 25 yaşında lan. henüz sakalı yok pezevengin. bunun çevresinden ne olur? insanlara yaptığı garanti gösterisi ise boş arazi. ne ferrari, ne lüks yat partileri, ne havaya saçılan paralar. boş tarla iki de tavuk göstererek tokatlamış. geçen zaman içerisinde kerizin bile kalitesi düşmüş. anladım ki bu ülkede bu işler hiç bitmeyecek. jet fadıl gibi dönüp dolaşıp yine tokatlayacak birileri çıkacak ve kimse bunlardan bir ders çıkarmayacak. fadıl iki ay sonra çıkıp müslümcoin veya jetcoin diye bir şey çıkarsın evini arabasını satacak en az yüz bin keriz bulacağına kalıbımı basarım.
 - entry_name: |
     teoman
   entry_id:  73448700
   entry_writer: mbx
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     en sevdiğin <a class="b" href="/?q=m%c3%bczik+insan%c4%b1">müzik insanı</a> kim sorusunun benim için cevabıdır. <br/><br/>şimdiye kadar müziğe kazandırdıkları efsane olması için yeterlidir. bundan sonra cepten yese de olur.
+- entry_name: |
+    konya denilince akla gelenler
+  entry_id:  73454566
+  entry_writer: okur yazar adam
+  entry_fav_count: 34
+  entry_content: |
+    (bkz: <a class="b" href="/?q=etli+ekmek">etli ekmek</a>)<br/>(bkz: <a class="b" href="/?q=f%c4%b1r%c4%b1n+kebab%c4%b1">fırın kebabı</a>)<br/>(bkz: <a class="b" href="/?q=bamya+%c3%a7orbas%c4%b1">bamya çorbası</a>)<br/>(bkz: <a class="b" href="/?q=mevlana">mevlana</a>)<br/>(bkz: <a class="b" href="/?q=bozk%c4%b1r">bozkır</a>)<br/>(bkz: <a class="b" href="/?q=do%c4%9fan+marka+otomobil">doğan marka otomobil</a>)<br/>(bkz: <a class="b" href="/?q=h%c4%b1zl%c4%b1+tren">hızlı tren</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fehir+d%c3%bczeni">şehir düzeni</a>)
 - entry_name: |
     aşk mektubu analiziyle kızların yalanını yakalamak
   entry_id:  73446106
@@ -198,20 +198,6 @@ data:
   entry_fav_count: 31
   entry_content: |
     tutarlı ve denenmiş bir tekniktir gençler, bu fikri yabana atmayın. <br/><br/>ben ikna oldum, özgüvenimi test etmek için kendime aşk mektubu yazarak başlayacağım.<br/><br/>6 ay kadar önce boşandığım hatun ile 13 yıl evli kaldım. evlenmeden önce ne mektuplar yazardım ki sayfa sayfa, katlandığında zarfa sığmazdı. <br/><br/>karşılığında bir kaç sayfa ya gelirdi ya da gelmezdi. o da havadan sudan. sınavları nasıl geçti, yurt ortamı nasıl gidiyor vs. <br/><br/>sonuç? bok edilmiş en az 13 yıl. <br/><br/>halbuki gençliğimde bu tekniği biri bana deseydi, bu gün olduğu gibi 'vay ben duymadım, vay ben bilmedim' diye kel kafamı dövmez idim.<br/><br/>gençler deneyin bunu. gelen mektuplarda takıldığınız yer olursa yeşillendirin.
-- entry_name: |
-    konya denilince akla gelenler
-  entry_id:  73454566
-  entry_writer: okur yazar adam
-  entry_fav_count: 30
-  entry_content: |
-    (bkz: <a class="b" href="/?q=etli+ekmek">etli ekmek</a>)<br/>(bkz: <a class="b" href="/?q=f%c4%b1r%c4%b1n+kebab%c4%b1">fırın kebabı</a>)<br/>(bkz: <a class="b" href="/?q=bamya+%c3%a7orbas%c4%b1">bamya çorbası</a>)<br/>(bkz: <a class="b" href="/?q=mevlana">mevlana</a>)<br/>(bkz: <a class="b" href="/?q=bozk%c4%b1r">bozkır</a>)<br/>(bkz: <a class="b" href="/?q=do%c4%9fan+marka+otomobil">doğan marka otomobil</a>)<br/>(bkz: <a class="b" href="/?q=h%c4%b1zl%c4%b1+tren">hızlı tren</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fehir+d%c3%bczeni">şehir düzeni</a>)
-- entry_name: |
-    çiftlik bank
-  entry_id:  73443368
-  entry_writer: shinigami ryuk
-  entry_fav_count: 28
-  entry_content: |
-    vaktiyle bu saadet zinciri işlerinin organizasyonunda yer alan ve vurgunu yaptığı günden beri tropik adalarda fink atan bir arkadaşım vardı. aynı ekiple bu işi türkiye'de bir kez daha yaptıktan sonra başka ülkelere açıldılar. türkiye'de artık millet uyandı, zokayı yutmuyorlar demişti bir keresinde.<br/><br/>sonra şu başlığa tıkladım ve anladım ki bu işin kompetanı olmuş haysiyetsiz arkadaşım çok yanılıyordu. çünkü bu ülke tam bir sazan çiftliği. üstelik çabuk ve çok sayıda ürüyorlar. yeterli süre tanırsan büyük babasını dolandırdığın adamın oğlunu hatta torununu dahi aynı yöntemle tokatlayabilirsin. kenan şeranoğlu kaç yaşında kelli felli adamdı. iş dünyasından ve siyasi isimlerden oluşan hayvan gibi çevresini dahil ederek bu işlere girmişti. adamın dolandırıcılığı bile kaliteliydi çünkü göz boyama işini çok iyi yapıyordu. en büyük avantajı ise türk halkının henüz böyle bir dolandırıcılık yöntemi görmemiş olmasıydı.<br/><br/>bir de bu toramana bakıyorum. herif 25 yaşında lan. henüz sakalı yok pezevengin. bunun çevresinden ne olur? insanlara yaptığı garanti gösterisi ise boş arazi. ne ferrari, ne lüks yat partileri, ne havaya saçılan paralar. boş tarla iki de tavuk göstererek tokatlamış. geçen zaman içerisinde kerizin bile kalitesi düşmüş. anladım ki bu ülkede bu işler hiç bitmeyecek. jet fadıl gibi dönüp dolaşıp yine tokatlayacak birileri çıkacak ve kimse bunlardan bir ders çıkarmayacak. fadıl iki ay sonra çıkıp müslümcoin veya jetcoin diye bir şey çıkarsın evini arabasını satacak en az yüz bin keriz bulacağına kalıbımı basarım.
 - entry_name: |
     tükürdüğü otobüs şoföründen dayak yiyen kadın
   entry_id:  73447957
@@ -230,30 +216,44 @@ data:
     hayvanların ağzından atasözleri
   entry_id:  73448186
   entry_writer: law abiding citizen
-  entry_fav_count: 24
+  entry_fav_count: 26
   entry_content: |
     sakla samanı, geviş zamanı!
 - entry_name: |
-    nba maçlarının artık keyif vermemesi
-  entry_id:  73445730
-  entry_writer: durruk
-  entry_fav_count: 16
+    sakarya'da yavru aslan satılıyor iddiası
+  entry_id:  73450814
+  entry_writer: fancia
+  entry_fav_count: 17
   entry_content: |
-    sahsen bence bunun en buyuk sebeplerinden biri amina koydugum molalari. eskiden bu kadar mola yoktu oyunda, oturup soyle kesintisiz 10 dakka mac izleyebiliyoduk. bilmiyorum bana mi oyle geliyo ama su an 5 dakka kesintisiz izleyemiyoruz. ha bi de bu videodan pozisyon tekrarina bakma olayi. hayir bi de bakip hemen karar da veremiyo kodumun hakemleri, kafalarina kulakligi takmalari 2 dakka suruyo, ki niye taktiklari da muallak, sonra pozisyonu suzmeleri 10 dakka. yav bu futboldaki var sistemi gibi kenara da bi hakem koyun, o izleyip soylesin hemencecik. oyunun akiciligini sikip attiniz resmen.
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id:  73444223
-  entry_writer: oziwankenozi
-  entry_fav_count: 13
-  entry_content: |
-    tepemizden inmemiştir , bop getirmiştir.
+    mutlaka peşine düşülmesi gereken iddia. bu korkunç ticarete dur denilmesi lazım. hayvan satışı vahşettir. bir papağanınız olacak diye yüzlerce yavru papapan pet şişeler içinde kaçak getirilirken boğularak ölüyor. talep olmazsa arz olmaz. kendini bilen hiçkimse hayvan satışına ortak olmaz. roma havaalanında kaçak getirilen hayvan parçaları sergileniyor. utanç sergisi.
 - entry_name: |
     ekşi itiraf
   entry_id:  73442332
   entry_writer: banasordun
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     iş arayışımı bilen biri tarafından yeni kurulan bir fabrika projesi için iş yemeğine davet edildim. kendim başvurduğum bir iş için gitmiyorum, bir iş teklifi için çağırılıyorum. ne kadar heyecanlı olduğumu tahmin edebilirsiniz. <br/><br/>fabrikanın sahibi şık bir restoranda garsonlara saçma sapan ve kaprisli emirler yağdırıyor. herkes etrafında pervane. şark kurnazı patronunu sürekli yağlayıp ballayan bir çalışanı var. masadan kalktığı anda beceriksizliği mevzubahis oluyor, geri gelip oturduğu anda çalışkanlığı. kötü bir dizi senaryosunun karikatürize tiplerinin içinde gibiyim. ne içmek istediğim sorulmadan masanın sultanı benim adıma bira buyuruyor. içmeyeceğimi söylüyorum. yoo içersin, içersin, diyor. bira geliyor ve içmiyorum. bu sefer de içmem konusunda ısrar görüyorum. ikinci kez yine fikrim sorulmadan, oğlum hanımefendiye şarap getir, diyor. sadece su içmek istiyorum, lütfen fikrimi sormadan artık içecek sipariş etmeyin, diyorum. karşılığında, “ooo bakın işte bu kız yırtık!” iltifatı alıyorum. iltifata gel…<br/><br/>çapkınlığıyla övünen, bu tiple bu kadar kadın sana nasıl bakıyor anlamadım, diye soran, (bunu orta yaşı geçkin bir kadın henüz tanıştığı, ebeveyni olabileceği yaşta genç bir adama soruyor.) ödediği ‘paranın gömleğiyle’ gösteriş yapan, çok daha zengin olmak isteyen, ‘adil’ yoldan daha fazla kâr etme peşinde koşan, bana fikrimi sormadan beni de oraya çoktan dâhil eden, onlar gelsin benden ders alsın diyip tecrübeli şahıslardan öğrendiğim bilgileri küçümseyen, kendisini baştan çıkarmayacak sekreter arama beyanında adamlar… (adam alacağım sekreterin beni baştan çıkarmaması lazım, diyor, kendi insiyatifi yok bu konuda.) bir yanda magazin figürlerinin paralarıyla muhabbet döndüren, ben ne kadar da kırılganım, ben ne kadar da duygusalım derken bencillikten burnunun ucunu görmeyen, az parayla çok iş bekleyen ve bunu yapmak istemeyeni küçümseyen, kadın dediğin derken cinsiyetçiliğin dik alasını yapıp hakkaniyet bekleyen kadınlar. <br/><br/>detaylara girmeye dilim varmıyor, leş bir muhabbetin arasında, cidden büyük bir yatırımın altında, bu masada bana kurumsallık hayallerinden bahsediliyor; kurumsallıktan enseye şaplak samimiyeti arasında savrulma hızını ölçemiyorum. bedenimden ayrılmış gibiyim; o masada oturan beni izleyen bir başka ben gibiyim. masada kalan benin sahte gülümsemesi ve kayıtsızlığı karşısında dehşete düşüyorum. biri mandalina kabuklarını önündeki bardağa tıkmakla meşgul, biri üçüncü defa önündeki çayı değiştirtiyor. bütün saçmalıkları onaylayıp, iş mevzusu içermeyen her konuda bir fikrim yok, beyanında bulunuyorum. öyle yaptıkça daha çok sıkıştırılıyorum. nasıl yok, nasıl fikrin olmaz… <br/><br/>adam işi kabul ettiğimden o kadar emin ki… belli bir görev tanımı tabi ki yok. masadan bir an önce kalkıp kaçmak için bahane arıyorum. teşekkür ederim teklifiniz için ama şartlarınız bana uygun değil diyorum. pişman olurmuşum, iyi anlatıldığım için, hatır için çağrılmışım, yoksa bu işi almak için can atanlar varmış. çok bilmişmişim ama işi bilmişler değil onun gibiler götürüyormuş. benim onun gibilere ihtiyacım varmış. işte yeni nesil böyle bıdıbıdısının ardından hayatımın teklifini reddetmişim bakışları altında, bak bir daha düşün, tembihleriyle herkesten önce çıktım. <br/><br/>dil dökmemin hiçbir anlam ifade etmeyeceğini anladığımda dil dökmüyor, gerizekalı gibi görünmeye razı oluyorum. boş bakışlarla aptalca sırıtıp dinler görünüyorum. o kadar nafile bir çaba ki bazen dil dökmek ve öyle sahteyim ki ben... bu hiç fikri yok aptalı rolüyle ne kadar yol alacağım bilmiyorum. <br/><br/>eve gelip kustum.
+- entry_name: |
+    biyonik penisli erkek seks robotu
+  entry_id:  73441843
+  entry_writer: 4hm37
+  entry_fav_count: 14
+  entry_content: |
+    vay amk kadınlara bak paragraf paragraf yazılar. sosyokültürel açıdan ahlaki açıdan bilmem empatili gereklilikli bi dünyaz yazı. kadın seks robotu başlığındaki erkek entryleri:<br/>-buradan mı sikiyoruz<br/>- of ne sikilir be <br/>- ulan ben buna bi çakarım ömür boyu full şarj gider.<br/><br/>kadınlar ya. canlarım. bunlar hayatta erkeksiz hayatta kalamaz. sizi kim dinler amk başka.
+- entry_name: |
+    aykut kocaman
+  entry_id:  73453996
+  entry_writer: emreetosuun
+  entry_fav_count: 12
+  entry_content: |
+    neymiş efendim lisansını yırtacakmışız, dikine futbol diye bi şey yok diyormuş.<br/><br/>bugün öğlen antalya'da yapılan basın toplantısında muhabir 'biliyorum siz sevmezsiniz bu tanımı ama dikine futbol...' diye bi cümle kurdu. hocanın cevabı ise, ''dikine futbol bu oyunun bi gerçeğidir, kesinlikle inkar etmiyorum, ancak futbol ne sadece savunma oyunudur ne de sadece hücum oyunudur. futbol bugün pek çok işin aynı anda yapılmasının gerektiği bir oyundur.'' oldu.<br/><br/>oynattığı futbolu beğenme, fenerbahçe'nin başında görmek istemediğini söyle, hatta haksız olmana rağmen alex üzerinden hocayı vur ama söylemediği, kastetmediği şeyler üzerinden saldırma.<br/><br/>pek çoğumuz daha vitamin dahi değilken fenerbahçe için goller atan, yakın zamanda uefa yarı finali oynatmış, çok zor bi dönemde görevi kabul edip bu imkansızlıklar ve kısıtlı kadroyla şampiyonluk mücadelesi vermeye çalışan en az bizim kadar fenerbahçeli olan efsane eski forvetimiz ve teknik direktörümüzdür.
+- entry_name: |
+    ozan tufan
+  entry_id:  73446654
+  entry_writer: aprewday
+  entry_fav_count: 9
+  entry_content: |
+    aykut kocaman ın kafasındaki oyun planında ozan tufan a yer yokmuş! o yüzden gönderilecekmiş.ozan tufan gitsin kalsın umrumda değil yalnız aykut kocaman “kafamdaki oyun planı” deyince bir gülme geliyor o kafasındaki olağanüstü plan her ne boksa alex i bile harcadı bir zamanlar.
 - entry_name: |
     türkçe konuşan araplar olduğumuz gerçeği
   entry_id:  73453690
@@ -262,12 +262,12 @@ data:
   entry_content: |
     türkçe konuşan rumlar olduğumuz gerçeğinin yanında önemsiz kalan ifade.
 - entry_name: |
-    vatanım sensin
-  entry_id:  73446126
-  entry_writer: birahalasoguk
-  entry_fav_count: 4
+    40 numara ayak sahibi erkek
+  entry_id:  73457199
+  entry_writer: bionical turk
+  entry_fav_count: 5
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>gerçekten güzel bir bölüme imza atmışlar. özellikle bu bölümde dağıstanlı'nın egoları ve aldığı zehir sebebiyle zihninde kontrolden çıktığı sahneler oldukça başarılıydı. çok üst düzey bir oyunculuk var. onun haricinde hilal'in aptallıklarından gerçekten bıktım<br/>ismet paşa'ya ayrı bir atıfta bulunmak istiyorum. gerçekten o dönemin şartlarında vatan savunmak, vatan sevdası her şeyin üzerinde geliyor. yiğitlerle konuşurken yemek sofrasında her birini tanıdığını, her birini bildiğini anlattığı sahne çok iyiydi. <br/>mehmet'in kendini feda etmesi klasik bir son oldu aslında. leon'a durumu anlatıp oradan çıkabilirlerdi ama muhtemelen leon'un başı büyük belaya girerdi<br/><a class="b" href="/?q=onur+saylak">onur saylak</a> çok büyük oyuncusun.<br/>ve son sözüm yakup'a. izmir'in en güzel kızı ile evlisin. tamam görevini çaktırmamak istiyorsun ama şu yıldız'a biraz insan gibi davran. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    benim bu.<br/><br/>(bkz: <a class="b" href="/entry/71985242">#71985242</a>)<br/><br/>edit: ayrıca gözlüklüyüm, kaşlarım birleşik, yüzüm sivilceli, dişlerim çarpık, ağzım yamuk, kulaklarım kepçe, omzum bir karış, parmaklarım dolma gibi...<br/><br/>ey suser, bir daha böyle bir başlık açma dürtüsü geldiğinde aç bu entrimi oku ve egonu tatmin et.
 - entry_name: |
     playerunknown's battlegrounds
   entry_id:  73452792
@@ -276,12 +276,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c4%9fla+fakir">ağla fakir</a>)
 - entry_name: |
-    11 ocak 2018 leyla zana'nın vekilliğinin düşmesi
-  entry_id:  73442421
-  entry_writer: fullcontact
+    biyonik penis boşalınca içinden çıkacak şey
+  entry_id:  73458374
+  entry_writer: nosuchnick
   entry_fav_count: 4
   entry_content: |
-    pkk'nın eline propaganda için koz verilmesidir. şöyle düşünün tamamı radikalleşmiş bir grup var. bunları barışçıl yoldan ülkeye dahil etmek lazım. bunlara devlet olarak silahlı mücadelenin meşruiyetini sorgulatmak için söylediğimiz bir söz vardı " silahı bırak , siyaset yap " <br/><br/>takunyalılar her şeyi çok iyi bildikleri için önce yanlış karakterlerle barış süreci yürütmeye çalıştılar ,olmadı. çuvallayınca kürtlere tüm siyaset yollarını tıkamaya başladılar. <br/><br/>resmiyette olmasa da , fiilen kapattığın partinin 5 milyon seçmeni var. siyasi olarak temsil edilemeyen bu insanlar terör örgütünün propagandalarına açık demektir. şu an pkk mahalle mahalle dolaşıp bunu satıyor olabilir " biz size demiştik , bu iş silahsız olmaz" diyerek örgüte sempatizan topluyor olabilir. <br/><br/>ben kalaşnikoflu kürt yerine siyasetçi kürt görmeyi tercih eden vatansever bir türküm.peki bunlarla ilgili sizin öneriniz nedir küçük dahiler ? atom bombesi mi atacaksınız ? gerçi sizin götünüz rahat . meskun mahale bizim asker , polis kardeşlerimiz gidecek, siz de haberlerde izleyip klavyede çoşacaksınız.
+    sizin gibiler olmayacak.
 - entry_name: |
     vikings
   entry_id:  73452854
@@ -290,54 +290,47 @@ data:
   entry_content: |
     dizideki neredeyse tüm erkek başroller zaten <a class="b" href="/?q=ragnar+lothbrok">ragnar lothbrok</a>'un oğulları. erkek çocukların mimikleri babalarına çekmeyecek de sana mı çekecek amcık ağızlı?
 - entry_name: |
-    12 ocak 2018 iş bankası kredi kartı rezaleti
-  entry_id:  73451963
-  entry_writer: blue black
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kredi+kart%c4%b1+borcunu+nakit+avansla+%c3%b6demek">kredi kartı borcunu nakit avansla ödemek</a>)
-- entry_name: |
-    koyu antoloji
-  entry_id:  73454399
-  entry_writer: wywh
+    tarih sahnesine çıkan en önemli alman
+  entry_id:  73442013
+  entry_writer: do be do be do
   entry_fav_count: 2
   entry_content: |
-    dünyada ilk defa kullanılmış bir mikrofonlama tekniği kullanılmış olan albüm.<br/>örneğin, 'güzel bir gün' de mikrofonu teoman'ın boğazının içine implant şeklinde yerleştirmişler. bütün balgam, tükürük ne varsa hepsi çok net duyuluyor.
-- entry_name: |
-    iphone x
-  entry_id:  73441781
-  entry_writer: bellek read olamadi
-  entry_fav_count: 2
-  entry_content: |
-    yaklaşık bir haftadır kullandığım, daha iyi olabilirmiş dediğim telefondur. kendimce gördüğüm artıları ve eksileri yazıcak olursam belki satın almak isteyenlere bir katlısı olur düşüncesiyle başlıyorum.<br/><br/>+ telefonunuza herhangi bir uygulamadan bildirim geldiği zaman sizin yüzünüzü görmeden mesajı deşifre etmiyor. bu whatsapp olur veya bir banka uygulaması olur. meraklı gözler baktığı zaman mesajlarınızı göremez. <br/><br/>- faceid ye ek olarak bir parmak okuyucu güzel olabilirdi. gecenin kör karanlığında telefonu yüzünüze tutmak hoş bir kullanıcı deneyimi değil. parmak okuyucuya alışan bünyenin de şifreyle falan uğraşası kalmıyor bir yerde... <br/><br/>+faceid beklediğimden çok daha iyi çalışıyor. karanlık ortamda bile hiç sıkıntı çıkarmadı şu ana kadar. gözlük vb aksesuarlarla denemediğimi ayrıca belirtmek isterim.<br/><br/>- modelin şu ana kadar yumuşak karnı diye tabir edebileceğim eksisi ise wireless alıcısı; göze batıcak bir şekilde zayıf. bunu ciddi bir sorun olarak görüyorum. muhtemelen yazılım güncellemesi ile giderilebilecek bir durum diye tahmin etmekteyim. pil tüketimini azaltmak için yapıldığı kanaatindeyim.<br/><br/>+ pil tüketimi arka planda çok fazla uygulama koşmasına rağmen şu an gayet iyi idare ediyor. bu kadar çok sensörü olan alet için optimizasyon üzerine ciddi mesai harcandığı belli oluyor.<br/><br/>- telefonu elinize aldığınızda istemsiz de olsa ekran ışığı sizin kontrolünüz dışında açılabiliyor. çünkü telefon onu kullanmak istediğinizi düşünüp faceid yi aktive ediyor ve bu maalesef birike birike hızlı batarya bitimine sebep olabiliyor. ben belki kullanımına alışamadığımdan böyle oluyordur ama sonuçta ben bir end userım. basit insan işidir iphone. çıkış noktası bu çünkü...<br/><br/>küçü bir edit: washe uyardı, tahmin ettiğim gibi ben bilmiyormuşum olayı, “uyandırmak için kaldır” gibi bir seçenek koymuş apple ve bu kapatılabiliyormuş. benim bundan önce kullandığım iphone 6 telefonumda böyle bir özellik yoktu, iphone6s ve üzerine gelmiş galiba bu seçenek.<br/><br/>- genel olarak ios11 <br/><br/>+ ios 11 ama hızlı<br/><br/>sonuç olarak takıntılı inceleme yapacak adamlar için aslında yazılıp çizilebilecek ıncığı cıncığı konuşulacak çok şey var hem de bizim gibi basit adamlar için çok da bir şey yok. built-in gelen ve ekstra yazılımla halledilebilecek şeyleri yazmaya bence değmez. genel olarak telefonu ben beğendim. aldığıma pişman değilim. ama burda yere göğe sığdıramayan sonradan görme taşralılara çok da aldırış etmeyin. elimden geldiğince mağazalarda ilk anlarda fark edemeyeceğiniz hususlara değinmek istedim. <br/>ücreti konusunda yorum yapmayacağım parasını hak eder, hak etmez o herkesin kendi kazancı ve parayı kazanma metodunun kolaylığı ile alakalı. fakat şunu söylemeden geçemeyeceğim ki hiçbir apple ürünü sizi burada caka sattığınız şekliyle asilzade veya entelektüel yapmaz.<br/>gerçek entelektüel olmak için en az 3 nesil gerekir. yoksa böyle en ufak bir statü göstergesi nesnede burhan altıntop oluverirsiniz.
-- entry_name: |
-    40 numara ayak sahibi erkek
-  entry_id:  73457199
-  entry_writer: bionical turk
-  entry_fav_count: 2
-  entry_content: |
-    benim bu.<br/><br/>(bkz: <a class="b" href="/entry/71985242">#71985242</a>)<br/><br/>edit: ayrıca gözlüklüyüm, kaşlarım birleşik, yüzüm sivilceli, dişlerim çarpık, ağzım yamuk, kulaklarım kepçe, omzum bir karış, parmaklarım dolma gibi...<br/><br/>ey suser, bir daha böyle bir başlık açma dürtüsü geldiğinde aç bu entrimi oku ve egonu tatmin et.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  73447697
-  entry_writer: keten prens
-  entry_fav_count: 1
-  entry_content: |
-    ''anlat'' / ''anlatabilirsin'' yazıp coolluğunu kelimelere dökenlere her seferinde içimden şöyle cevap veriyorum:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>malı arap faik'ten alıyorduk, karabük'te ikinci yükleme yapılıyordu. adana'ya kadar da ben kullanıyorudum kamyonu.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>genelde erkeklerin am/göt/meme aradığı veritabanı. bu trioyu bazı kadınlar da arıyor.
+    (bkz: <a class="b" href="/?q=alman+ernst">alman ernst</a>)
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  73453322
   entry_writer: uc vakte kadar dort
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     özlemek sıkıntı değil de, senin özlemediğini bilmek kötü.<br/><br/>lan ben böyle bir insan değildim ya.
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  73458186
-  entry_writer: dreamfactory
+    140journos'un ingilizce bilmemekle ilgili videosu
+  entry_id:  73443701
+  entry_writer: kanadaninkarsi
+  entry_fav_count: 2
+  entry_content: |
+    uzunca bir suredir bu youtube kanalina aboneyim. ayni zamanda whatsapp uzerinden gundemin kirintilarini da gunluk olarak aliyorum. habercilik anlayislarina saygi duyuyor, caktirmadan videolarda enjekte ettikleri dusuncelerine de kismen katiliyorum. ancak bu video ile gozumden dustuklerini soylemeden edemeyecegim. roportaj olarak sectikleri kisiler -neredeyse- ayni sosyo ekonomik sinifa ait, yeni mezun arkadasimizi saymazsak eger. “turkler”in ingilizce ile imtihani olarak baslik koyup da, uc bes tatli su insaninin gorus ve tecrubelerini videonun tamamina yaymalari hic hosuma gitmedi.<br/><br/>tanim: reklam videosudur.
+- entry_name: |
+    yardımcı doçentliğin kaldırılması
+  entry_id:  73444234
+  entry_writer: ghostinthemachine
+  entry_fav_count: 1
+  entry_content: |
+    kaldırılmasını destekliyor olabilirsiniz, sistemin düzeleceğine de inanabilirsiniz. aynı görüşte olmam ama saygı duymaya çalışırım. ancak zaten yurtdışında da yok vs diye başlamayın gözünüzü seviyim. <br/>ps. çok istiyosanız yurt dışından bildireyim, avrupada tıkıır tıkıır işleyen yar. doç- doç- prof sistemi hiyerarşik bir düzen içerisinde var.
+- entry_name: |
+    koyu antoloji
+  entry_id:  73451847
+  entry_writer: keten prens
+  entry_fav_count: 1
+  entry_content: |
+    teoman'ın herhangi bir şarkısını youtube'tan açıp x1 oranında yavaşlatırsanız, albümde olmayan şarkıları da ekleyebildiğiniz albüm.<br/>anlamadın değil mi? değil.
+- entry_name: |
+    oyuncağı alınınca kendini yerlere atan panda
+  entry_id:  73458371
+  entry_writer: cbi
   entry_fav_count: 0
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/c61jlHO3rVM" title="http://youtu.be/c61jlHO3rVM">massive attack -atlas air</a>
+    sanırım bu gördüğümüz panda siniri. <br/><br/>damarına basmayın şu şapşiklerin diyeceğim ama hep böyle sinirleniyorlarsa kızdırabilirsiniz, nasıl tatlı ordan oraya atıyor kendini. <br/><br/>sırf panda görmek için çin'e gitmek istiyorum, videosu bile nasıl eğlendiriyor. bi de dokunabilse, sevebilse insan nasıl güzel bir duygudur kim bilir...<br/><br/>filmin birinde<sup class="ab"><a title="(bkz: remember me)" href="/?q=remember+me" data-query="remember me">*</a></sup> esas oğlan esas kız için lunaparktaki oyunlardan oynayıp kocaman bi panda oyuncak kazanmıştı, onu aklıma getirdi. işte o kızın yerinde olmak isterdim...
 - entry_name: |
     ludovico einaudi
   entry_id:  73456610
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     sabretmek...<br/>sadece öylece durman gerekiyor oysa bakınca.
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  73448098
+  entry_writer: lightsbane
+  entry_fav_count: 0
+  entry_content: |
+    her gün süt içicem diye evde inek beslemenin alemi yok.
 ---
