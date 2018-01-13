@@ -3,6 +3,13 @@ layout: post
 title: 14 Ocak 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    av agir hewa welat ultra edition uçurulsun
+  entry_id:  73476281
+  entry_writer: the galvanize
+  entry_fav_count: 254
+  entry_content: |
+    alenen terör örgütü propagandası yapan ırkçı bir yazarın uçurulması için başlattığım kampanya.<br/><br/>benim sorum şu: "<a class="b" href="/?q=pyd">pyd</a> propagandası yapan yazara uygulama yapılmıyorsa, yarın ben de <a class="b" href="/?q=%c4%b1%c5%9fid">ışid</a> propagandası yapabilir miyim?" <br/>her ikisi de ülkemizde terör örgütü kabul ediliyor neticede.<br/><br/>ne bileyim, ışid'e övgüler yazsam falan? kamplarındaki moral durumunu paylaşsam?<br/>sözlük yonetimi cevap verirse derhal başlıyorum.<br/><br/>yazarın entry'leri:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Yg5Y6j.jpg" title="https://i.hizliresim.com/Yg5Y6j.jpg">ypg propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LboBlz.jpg" title="https://i.hizliresim.com/LboBlz.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3ERmgj.jpg" title="https://i.hizliresim.com/3ERmgj.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9mpnAQ.jpg" title="https://i.hizliresim.com/9mpnAQ.jpg">pkk'nın kurucu üyelerinden birini aklama çalışmaları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jyY9aJ.jpg" title="https://i.hizliresim.com/jyY9aJ.jpg">türkiye için "sömürgeci" sıfatını kullandığı entry</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rOdADN.jpg" title="https://i.hizliresim.com/rOdADN.jpg">yazarımızın ıslak rüyası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/D7kQgO.jpg" title="https://i.hizliresim.com/D7kQgO.jpg">alenen ırkçılık yapılan entry</a>
+- entry_name: |
     13 ocak 2018 arda turan'ın başakşehir'e transferi
   entry_id:  73471348
   entry_writer: you are everything
@@ -10,38 +17,24 @@ data:
   entry_content: |
     galatasaray taraftarını canı gönülden kutluyorum. bu büyük bir ideolojinin eseridir. arda turan denen top koşturucu hak ettiği yerde, başakşehirde’dir. bu büyük galatasaray taraftarının futbola, insanlığa koyduğu tepkidir. tarih bunu da yazacaktır.
 - entry_name: |
-    av agir hewa welat ultra edition uçurulsun
-  entry_id:  73476281
-  entry_writer: the galvanize
-  entry_fav_count: 211
-  entry_content: |
-    alenen terör örgütü propagandası yapan ırkçı bir yazarın uçurulması için başlattığım kampanya.<br/><br/>benim sorum şu: "<a class="b" href="/?q=pyd">pyd</a> propagandası yapan yazara uygulama yapılmıyorsa, yarın ben de <a class="b" href="/?q=%c4%b1%c5%9fid">ışid</a> propagandası yapabilir miyim?" <br/>her ikisi de ülkemizde terör örgütü kabul ediliyor neticede.<br/><br/>ne bileyim, ışid'e övgüler yazsam falan? kamplarındaki moral durumunu paylaşsam?<br/>sözlük yonetimi cevap verirse derhal başlıyorum.<br/><br/>yazarın entry'leri:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Yg5Y6j.jpg" title="https://i.hizliresim.com/Yg5Y6j.jpg">ypg propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LboBlz.jpg" title="https://i.hizliresim.com/LboBlz.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3ERmgj.jpg" title="https://i.hizliresim.com/3ERmgj.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9mpnAQ.jpg" title="https://i.hizliresim.com/9mpnAQ.jpg">pkk'nın kurucu üyelerinden birini aklama çalışmaları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jyY9aJ.jpg" title="https://i.hizliresim.com/jyY9aJ.jpg">türkiye için "sömürgeci" sıfatını kullandığı entry</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rOdADN.jpg" title="https://i.hizliresim.com/rOdADN.jpg">yazarımızın ıslak rüyası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/D7kQgO.jpg" title="https://i.hizliresim.com/D7kQgO.jpg">alenen ırkçılık yapılan entry</a>
-- entry_name: |
     sözlükçülerin iyi ki almışım dediği şeyler
   entry_id:  73463313
   entry_writer: lazybones
-  entry_fav_count: 199
+  entry_fav_count: 202
   entry_content: |
     ilkokulda matematikten 5 almıştım. iyi ki almışım. hâlâ onunla övünür dururum.
 - entry_name: |
     nagehan alçı
   entry_id:  73468357
   entry_writer: kartal kalkar dal sarkar
-  entry_fav_count: 186
+  entry_fav_count: 187
   entry_content: |
     cesaretiniz varsa isminizle, cisminizle çıkın ortaya... demis<br/><br/>basligi altina yazdiklarimi aynen, adima soyadima aldigim gmail adresimden htgazete email adresine yolladim. ciktim ortaya nagehan alci, senden mi korkacagim. sen kimsin, ne saniyorsunuz kendinizi? nereden bu gucu aldiginizi saniyorsunuz? senin, benden ne farkin var? hatta eksigin var, ben kariyerimde bir yerlere gelebilmek icin senin gibi yalamadim. daha agzimi bozardim da degmezsin. yazarken sinirlendim, bu entry yi de email attim
-- entry_name: |
-    güreşen oğlunun rakibine tokat atan anne
-  entry_id:  73463578
-  entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 167
-  entry_content: |
-    oğlu ile rakibi arasına girerek güreş tutulması olayını gerçekleştirmiştir.
 - entry_name: |
     britney spears'ın instagram'da paylaştığı video
   entry_id:  73473647
   entry_writer: i am not noob
-  entry_fav_count: 154
+  entry_fav_count: 162
   entry_content: |
     herhangi bir seksapelitesi olmayan ve aynı zamanda yürekleri de hoplatmayan sıradan bir video.
 - entry_name: |
@@ -55,28 +48,28 @@ data:
     13 ocak 2018 tottenham hotspur everton maçı
   entry_id:  73470609
   entry_writer: lok
-  entry_fav_count: 134
+  entry_fav_count: 136
   entry_content: |
     cenk'in 6 gol atacağı maç, 2 tanesi röğaşataylan.
 - entry_name: |
     arda turan
   entry_id:  73471242
   entry_writer: sapkasiz cikmam abi
-  entry_fav_count: 129
+  entry_fav_count: 132
   entry_content: |
     artık ona belediye bakacak.
 - entry_name: |
     gol sevincinde fenalaşan taraftarı döven polisler
   entry_id:  73467883
   entry_writer: sun tizu
-  entry_fav_count: 107
+  entry_fav_count: 111
   entry_content: |
     altta yer alan ''tanrılara kurban edilircesine sunuldu polislere'' yorumu ile yarmıştır.
 - entry_name: |
     sıla ve ahmet kural aşkının bitmesi
   entry_id:  73474286
   entry_writer: dear god make me a bird
-  entry_fav_count: 81
+  entry_fav_count: 83
   entry_content: |
     safiye &amp; faik aşkından başkasının yalan olduğunu bizlere bir kez daha göstermiştir.
 - entry_name: |
@@ -90,7 +83,7 @@ data:
     cenk tosun
   entry_id:  73466310
   entry_writer: tskitishvili
-  entry_fav_count: 66
+  entry_fav_count: 71
   entry_content: |
     2003 yilinda real sociedad maci bekler gibi yarinki macini bekledigim futbolcu.
 - entry_name: |
@@ -104,7 +97,7 @@ data:
     1.90 boyundaki türk erkeği
   entry_id:  73463677
   entry_writer: dreamfactory
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     1.92 boyunda bir türk erkeğiyle evliyim. ne gibi avantajları var derseniz, tam bilemiyorum. ama şu olabilir, at gibi kadın olduğum için yanında at gibi durmuyorum, bu güzel sanırım. <br/>üst raflardaki eşyalara uzanamadığımda kendisini çağırıyorum. evde yokken sandalyeye çıkıp alıyorum. başka bir numarası da yok sanırım.<br/><br/>1.72 boyunda olsaydı da onunla evlenirdim. bu sefer ama yanında at gibi dururdum ve topuklu ayakkabı da giymezdim, o evdeyken bile sandalyeye çıkardım. buna üzülür müydüm? sanmıyorum.
 - entry_name: |
@@ -121,6 +114,13 @@ data:
   entry_fav_count: 46
   entry_content: |
     beşiktaş taraftarı çok şey istiyor.<br/><br/>taraftarın aradığı santrfor oyuncusu şu:<br/><br/>çok iyi futbolcu olsun. takım çok yaşlandı yaşlı olmasın. ileride parlatıp satabilelim yani potansiyelli olsun. hızlı olsun. çevik olsun. şutları iyi olsun. bayern münih ile oynayacağız ona kafa tutabilsin. bir de son olarak, bonservisi olmasın ve yıllık ücreti de az olsun.<br/><br/>istediğimiz şeyin imkânsız olduğunu farkında olmanız gerekiyor. cyle larin gelecek. tutarsa tutacak. tutmazsa tutmayacak. tutarsa ileride 20-30'a satılabilir. tutmazsa da bonservis + yıllık ücreti kadar zarar edersiniz. bu işler böyle. risk almadan ödül yok.
+- entry_name: |
+    13 ocak 2018 taksici şiddeti
+  entry_id:  73472555
+  entry_writer: emrahus
+  entry_fav_count: 45
+  entry_content: |
+    bir arkadaşımın kardeşinin başına gelen vahim olay. aynen aktarıyorum. dün gece yaşanmış bir olaydır. <br/><br/>daha 18 yaşındaki kardeşim bugün çok ayrı bir olay yaşadı. hala durumun stresi ve korkusu altında. malum saat 23:30 dan sonra otobüs bulmak neredeyse imkansız. o da şehir dışından gelen arkadaşıyla senede bir eğlenmek için dışarı çıktı, uber çağırdı kadıköy haldun taner sahnesi önüne (bu kısma kadar ben de tanık oldum). sonrasında otomatik kapısı olan bir araç gelmiş, ancak şanslarına kapı kapanmamış. iş bankası dönüşüne kadar denemişler olmamış. en son şoför arabayı kapatmış kontaktan ve manual olarak kapatmaya çalışmışlar, istop ettire ettire çalıştırıp kapatmayı denedmişler. bu sırada iş bankası kavşağındaki taksi durağındaki taksiciler açık kapılı uber'in içine atlayıp uber şoförünu darp etmeye başlamışlar (ki aracın uber aracı olup olmadığını nasıl anladıklarını hala düşünüyoruz.). sol kapı, sağ kapı ve aracın misafir kapısı kısmından şoföre vurmaya başlamışlar arkaya giren birkaç şoförde çocuklara "inin lan aşağı", "anasını siktim o içindekilerin de" diyerek içeri dalmışlar. şapkalı göbekli bir dayı aracın içerisine girmiş ve onları tehdit ederken ve şoföre vurup dark ederken gözlüklü bıyıklı kilolu biri "kalkın siktirin gidin lan burdan inin lan aşağı siz de!" diyerek onları da araçtan zorla indirmeye çalışmışlar (adama bakın, nasıl bir haktır ki bu başkasının özgürlüğüne, başka insanlara kendi mallarıymışçasına küfür edip, emir telakki edebiliyorlar). tam o sırada çevreden yada duraktan birkaç kişi şoför kapısından içeri atlayanı tutmuşlar. şoför o an gaza basmış ve uzaklaşmış.<br/><br/>ve kardeşim şu an gayet korkmuş halde ve diyor şu ki; "bu araç turist taşıyan bir vito da olabilirdi, tur şirketleri de havaalanlarında gördüyseniz siyah ve siyah cam filmli oluyorlar. ülkeye ilk kez gelen bir turist bunu yaşamış da olabilirdi. taksıler bu kadar dürüst ve kaliteli iş yaptı da biz mi kullanmadık? 6 kişi taksiye binmeye çalışsak almazlar. trafikte ekstra fiyat çıkartırlar taksimetreden dolayı. üstüne üstlük bu uber hizmetini kullananlara dahil ölümüne saldıracaklardı adam gaza basıp gitmese."
 - entry_name: |
     yardımcı doçentliğin kaldırılması
   entry_id:  73464353
@@ -150,26 +150,26 @@ data:
   entry_content: |
     “koçta ve sabancıda hocalar dersten geçirmeyi kendiler teklif ediyor”<br/><br/>ulan ilahi hiç gülüceğim yoktu gece gece ahahahaha :)
 - entry_name: |
+    dil sınavı şartı kaldırılmalıdır
+  entry_id:  73476146
+  entry_writer: unknownmaninchains
+  entry_fav_count: 31
+  entry_content: |
+    dil şartından sonra akademisyen olmak için istenen üniversite mezuniyet şartını da kaldıralım. <br/><br/>fahri doktoraları gerçek yapalım. <br/><br/>ayrıca doktor olmak için gerekli tıp fakültesi ve hakim olmak için hukuk fakültesi mezuniyetini de kaldıralım. hakimlik babadan oğula, hekimlik anadan kıza, mühendislik dayıdan yeğene geçsin. çünkü öz ve gerçek yerli ve millilik budur; kız anadan öğrenir oba gezmeyi oğlan dayıdan öğrenir yazı yazmayı atasözü de yeter ve geçer milli eğitim müfredatı olsun.<br/><br/>son olarak ismi selman olan tüm kel yar doçlara saç ektirelim. bu önemli.<br/><br/>ciddi: mevcut sınav eksik ve yetersiz olabilir ancak ingilizce bilmeyen bilim adamı da nedir allesen? adam tercüme bürosunu adres gösterecek kadar konudan ve bilimden uzak. ne tercüme bürosu google translate neyinize yetmiyor??
+- entry_name: |
+    125-200 kadar medipol başakşehir taraftarı
+  entry_id:  73476847
+  entry_writer: paul sahillleri
+  entry_fav_count: 30
+  entry_content: |
+    taraftar falan değil kadro bekleyen belediye çalışanlarıdır.
+- entry_name: |
     arif v 216
   entry_id:  73465242
   entry_writer: hersey olur
   entry_fav_count: 28
   entry_content: |
     bunca sansüre rağmen sağlam bir <a class="b" href="/?q=yeni+t%c3%bcrkiye">yeni türkiye</a> eleştirisi var.<br/><br/>sit alanı, dilin önemine vurgu, komşularla sıfır sorun, almanlar için "zaten kıskanıyo pezevenkler", basın eleştirisi, merhaba'ya karşılık selamun aleyküm diyen robot ve şu an anımsayamadığım epey iyi göndermeler vardı.<br/><br/>uzun yıllardır bir sinema filminde malum şahıs, aveneleri ve çomar kitlesine bu kadar iyi geçirildiği bir film hatırlamıyorum. hoş, onlar ne kadar anlar ayrı mesele de; sırf bunun için bile teşekkür ederim cem yılmaz'a.
-- entry_name: |
-    hastası olunan sözler
-  entry_id:  73467893
-  entry_writer: ayrikotu
-  entry_fav_count: 26
-  entry_content: |
-    "belki kasten yüzüme kapı kapatılmadı ama; o kapı rüzgarla kapansın diye arkamdan açılan camı da unutmam."
-- entry_name: |
-    dil sınavı şartı kaldırılmalıdır
-  entry_id:  73476146
-  entry_writer: unknownmaninchains
-  entry_fav_count: 25
-  entry_content: |
-    dil şartından sonra akademisyen olmak için istenen üniversite mezuniyet şartını da kaldıralım. <br/><br/>fahri doktoraları gerçek yapalım. <br/><br/>ayrıca doktor olmak için gerekli tıp fakültesi ve hakim olmak için hukuk fakültesi mezuniyetini de kaldıralım. hakimlik babadan oğula, hekimlik anadan kıza, mühendislik dayıdan yeğene geçsin. çünkü öz ve gerçek yerli ve millilik budur; kız anadan öğrenir oba gezmeyi oğlan dayıdan öğrenir yazı yazmayı atasözü de yeter ve geçer milli eğitim müfredatı olsun.<br/><br/>son olarak ismi selman olan tüm kel yar doçlara saç ektirelim. bu önemli.<br/><br/>ciddi: mevcut sınav eksik ve yetersiz olabilir ancak ingilizce bilmeyen bilim adamı da nedir allesen? adam tercüme bürosunu adres gösterecek kadar konudan ve bilimden uzak. ne tercüme bürosu google translate neyinize yetmiyor??
 - entry_name: |
     ekşi itiraf
   entry_id:  73463050
@@ -206,19 +206,19 @@ data:
   entry_content: |
     "pkk'nın afrin'deki noktalarına yoğun topçu atışı yaptı"<br/><br/>onlarca yıldır türkiye cumhuriyeti vatandaşı olmanın getirdiği tecrümebe göre yine dağı taşı bombalıyoruz.<br/><br/>bizim istediğimiz farklı şey. gerçekten sonuç alınacak bir operasyon başlamadan önce değil bittikten sonra medyaya servis edilir.<br/><br/>diğer türlüsü havanda su dövmek ve bundan sıkılalı çok oldu.
 - entry_name: |
-    tron coin
-  entry_id:  73469766
-  entry_writer: kedisevmeyenesaldirdim
-  entry_fav_count: 20
-  entry_content: |
-    bu işten bir bok anlamayıp yatırım yapanlara ders olması istenen coindir.<br/>ne istiyorsunuz olum üç kuruş para kazanmak isteyen insanlardan ?<br/>herkes sizin gibi boş vakit bulup coin analizi yapıp, borsa grafiklerini takip edip, duvar tespitleri yapamıyor.<br/>sizler gibi white paper okuyamıyor.<br/>oradan buradan duyduklarıyla azıcık para kazanıp biraz rahatlamak belki kredi taksidini ödemek istiyor.<br/>size ne amınakoyim ?<br/>insan ilişkileri kötü olan, kitlelerin kötülüğünü isteyip kendi iyiliğini isteyen sosyal sıkıntıları olan insanların batmasını umduğu coin.<br/>umarım 5 e katlar da buradaki çakma ekonomistlerimiz göt olur.<br/>justin sun bizi diskoya götür.
-- entry_name: |
     dinden çıkmak için sebepler
-  entry_id:  73474815
-  entry_writer: bir cevabim yok ama soru guzelmis
+  entry_id:  73476006
+  entry_writer: sonderbar
+  entry_fav_count: 18
+  entry_content: |
+    mudara isimli suser'in (<a class="b" href="/entry/73473997">#73473997</a>) no'lu entrisinde peygamberin çok eşli olmasını savunduğu 1 numaralı maddesine karşılık bende şunu söylemek isterim. kendisi bir müslüman ve dini inancı gereği konuya yaklaşması elbetteki doğal, biz konuya biraz mantık açısından yaklaşıyoruz.<br/><br/>mudara'nın tanımıyla el cevap : <br/>muhammed mekke'nin en zengin kadınlarından haticeyle evlidir ve hatice kervan sahibi ticaretle uğraşan bir kadındır. kendisi mekke'nin en zenginlerinden olduğundan parasal olarak imkanları çoktur ve arkası güçlüdür. <br/><br/>muhammed neden ömrünün cinsel olarak en verimli yıllarını hatice ile geçirmişte en verimsiz yıllarında 50 yaşından sonra evlenmiştir. savunduğu konu bu.. hemen açıklık getirmek gerekirse yazılı kaynaklara göre muhammed haticeyle evlendiğinde muhammed 25, hatice 40 yaşındaydı. muhammed haticeyle evlendiğinde çobandı ve hatice kervan sahibi zengin bir tüccardı. yıl olarak konuyu incelersek muhammed'in doğum yılı 570 olarak gösteriliyor kaynaklarda, yani muhammed haticeyle evlendiğinde 595 yılıydı takriben. peygamberlik iddiası ise 610 yılında gerçekleşiyor. yani muhammed 40 yaşındayken. buraya kadar tarihler konusunda kimsenin tereddütü yok sanırım. peygamber olduğunda ise hatice 610 yılında 55 yaşındaydı. hatice resmi kaynaklara göre 619 yılında peygamberliğin 9. yılında hayatını kaybediyor. muhammed bu yılda tahmini 49 hatice ise hayatını kaybettiğinde yaşı 64 olmalı tarihlere göre.. <a rel="nofollow noopener" class="url" target="_blank" href="https://en.m.wikipedia.org/wiki/Khadija_bint_Khuwaylid" title="https://en.m.wikipedia.org/wiki/Khadija_bint_Khuwaylid">https://en.m.wikipedia.org/…/khadija_bint_khuwaylid</a><br/><br/>evet muhammed neden bu yaşa kadar genç kızlar ve cariyeler almayıp haticeyle evli kalmıştır?<br/><br/>bununla ilgili yorum ve düşünceler üzerinde beyin fırtınası yaparken bazı tarihler ve olayları bilmek gerekiyor yoksa duygusal ve din eksenli düşünüp taraflı bakarsınız. <br/><br/>hicret 622 yılında gerçekleşti, peki neden hatice öldükten sonra 3 yıl geçince muhammed medine'ye gitmek zorunda kaldı? her yerde anlatılan hepimizinde bildiği gibi baskıların artması ve dışlanması.. muhammed hatice ölmeden önce 9 yıl mekke'de ben peygamberim diye dolaşırken neden baskı olmuyordu? neden muhammed göç etmek zorunda kalmıyordu? muhammed'i koruyan çok güçlü bir ekonomik ve nüfusu yüksek bir zırh mı vardı? evet, bu zırh haticeydi. hatice kervanlar sahibi mekke'nin dönemindeki en zengin kadınıydı ( en zengin insanı demiyorum, kadını diyorum).. peki hatice ölünce 9 yıldır süren mekke macerası neden 3 yılda bitmek zorunda kaldı? belki ticaret engellendi ( bilinen durumlardan biri bu, ticaret kaynağının hatice ölünce mekkenin diğer önde gelenleri tarafından kesilmesi), belki de nüfusu yüksek zırhı kuvvetli kişi öldü ve muhammed bu baskılara dayanamadı, paranın kesilmeside büyük neden burada.. <br/><br/>evet, cevap aslında basit düşününce ortada.. kendinden 15 yaş büyük zengin bir kadınla parası ve nüfusu için evlenen muhammed o ölene kadar nüfusu ve parasını kullanıyor öldükten sonra ise elinde kalan para ve arkasındaki cemaatiyle yeni şehirlere yeni hayatlara yelken açıyor. hatice varken açabilir miydi yeni hayatlara yelken? en başta hatice tarafından kapı dışarı edilirdi, sonra parasından olurdu, sonra peygamberlik iddasından vazgeçerdi.<br/><br/>içgüdüsel değil, mantıklı bakalım olaylara lütfen.
+- entry_name: |
+    ateizme göre evlatlığın eski karısıyla evlenmek
+  entry_id:  73478885
+  entry_writer: gavatar34
   entry_fav_count: 17
   entry_content: |
-    1- (bkz: <a class="b" href="/?q=k%c3%b6lelik">kölelik</a>)<br/>(bkz: <a class="b" href="/?q=cariyelik">cariyelik</a>)<br/>20.yuzyil insan hakları evrensel beyannamesi ne göre suç olan ve insan onurunun asla kabul edemeyeceği bir şeyin tanrı tarafından yazıldığı iddia edilen bir kitapta gayet sıradan bir şekilde anlatılması ve yasaklamaması. oysa mesele domuz içki olduğunda şak diye yasaklamış.<br/>2- (bkz: <a class="b" href="/?q=%c3%a7ocuk+ya%c5%9fta+evlili%c4%9fe+ve+ili%c5%9fkiye+cevaz+vermesi">çocuk yaşta evliliğe ve ilişkiye cevaz vermesi</a>)<br/>(bkz: <a class="b" href="/?q=talak+4">talak 4</a>)<br/>(bkz: <a class="b" href="/?q=nebe+33">nebe 33</a>)
+    ulan isiniz gucunuz akrabaya, hisima hallenmek ne pis adamlarsiniz ya.<br/><br/>(bkz: <a class="b" href="/?q=dincilerin+ahlaksiz+olmasi">dincilerin ahlaksiz olmasi</a>)
 - entry_name: |
     kürdistan'ın sömürge olması
   entry_id:  73474437
@@ -227,6 +227,20 @@ data:
   entry_content: |
     işte sonra bu hdp'li eleman çıkıp diyor ki "hdp bölücü değildir, halkların kardeşliği" vs.<br/><br/>iki gün şehit haberi gelmesin böyle başlıklar fışkırıyor ortaya, bizim cihangir tayfası da kapıp tuzluğu koşuyor.
 - entry_name: |
+    eski sevgilisinin mutlu olmasını isteyen insan
+  entry_id:  73464655
+  entry_writer: gelsomina
+  entry_fav_count: 15
+  entry_content: |
+    mutlu olsun ki bana bulaşmasın.
+- entry_name: |
+    h&amp;m'deki erkek personellerin fazla feminen olması
+  entry_id:  73477925
+  entry_writer: kotu amacli yazar hesabi
+  entry_fav_count: 11
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sana+ne+ayol">sana ne ayol</a>)
+- entry_name: |
     12 ocak 2018 yerel mahkemelerin aym'ye direnmesi
   entry_id:  73463829
   entry_writer: sitkisiyrilmis
@@ -234,26 +248,12 @@ data:
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>anayasa mahkemesi'nin ihlal kararının ardından önceki gün şahin alpay hakkında tahliye talebini reddeden 13. ağır ceza mahkemesi, bugün alpay'ın avukatının yaptığı itirazı da reddetti. 13. ağır ceza itiraz gerekçesinde aym’nin yetkilerini aştığını belirterek, “anayasa mahkemesi'nin dosyamızın esasına girerek karar vermesi ‘görev gaspı’ niteliğindedir” dedi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>zamanında aym kararlarının denetimi başlığına şu <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/58837704" title="https://eksisozluk.com/entry/58837704">entryi</a> yazmış, gülmüş eğlenmiş, hatta debe'ye bile girmiştim : ) gelin görün ki yok artık <a class="b" href="/?q=ebesinin+am%c4%b1+ali+sami">ebesinin amı ali sami</a> tadında dalga geçtiğim durum 12.01.2018 tarihi itibarıyla gerçeğe dönüşmüş oldu.<br/><br/>bu da bana kapak olsun !
 - entry_name: |
-    h&amp;m'deki erkek personellerin fazla feminen olması
-  entry_id:  73477925
-  entry_writer: kotu amacli yazar hesabi
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sana+ne+ayol">sana ne ayol</a>)
-- entry_name: |
     barcelona'dan başakşehir'enin ingilizcesi
   entry_id:  73474891
   entry_writer: quansis
   entry_fav_count: 9
   entry_content: |
     (bkz: <a class="b" href="/?q=coming+down+from+horse+to+donkey">coming down from horse to donkey</a>)<sup class="ab"><a title="(bkz: attan inip eşeğe binmek.)" href="/?q=attan+inip+e%c5%9fe%c4%9fe+binmek." data-query="attan inip eşeğe binmek.">*</a></sup>
-- entry_name: |
-    parayla her kadının elde edilebilmesi
-  entry_id:  73475355
-  entry_writer: doctoragon
-  entry_fav_count: 7
-  entry_content: |
-    pareto prensibi gibi %80-%20 desek daha doğru olur.<br/>evet, %80'i para ile elde edilebilir. <br/>(bkz: <a class="b" href="/?q=hipergami">hipergami</a>)
 - entry_name: |
     akp'nin arkasındaki dış mihrak
   entry_id:  73477364
@@ -269,45 +269,24 @@ data:
   entry_content: |
     barış atay'ın tek kişilik tiyatro gösterisinin engellenmesidir.<br/><br/>son olarak artvin valiliği oyunu sakıncalı bulup oyunun oynanmasını yasaklamış.<br/><br/>bunlar öyle insanlar ki nazilerden bin kat daha kötüler. nazilerin en azından sanatçı bir tarafı vardı, bunlarda zerre bir şey yok. memleketi bu barbarlara teslim eden halka her şey mustehak.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/kultur-sanat/901663/Baris_Atay_in__Sadece_Diktator__oyununa__sakincali__denilerek_salon_verilmedi.html" title="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/kultur-sanat/901663/Baris_Atay_in__Sadece_Diktator__oyununa__sakincali__denilerek_salon_verilmedi.html">kaynak</a>
 - entry_name: |
-    regl olduğunu cart diye söyleyen kadın tipi
-  entry_id:  73468153
-  entry_writer: nutellapilsen
-  entry_fav_count: 4
-  entry_content: |
-    feminist değilim ama soyleyeceklerim var. <br/><br/>erkeklerin aletinden et kesiliyor düğünler yapılıyor mevlütler okutuluyor. kadın regl olduğu günler sancı eşliğinde çalışıyor okula gidiyor evini temizliyor kimseye yansıtmamaya çalışarak. zorunda kalınca regl olduğunu söylüyor cart diye söyledi deniyor. <br/><br/>yıl olmuş 2018. ped alındığında gazeteye saran kasiyerler yok artık bildiğim kadarıyla. biriyle alışverişe gittiğimizde pedimizi tamponumuzu alabiliyoruz utanmadan (!!!) çünkü neden utanalım. <br/><br/>kadınlara da söyleyecek lafım var konu açılmışken. ben kadın olmaktan neden utanırım bu regl konusunda? tuvalette sarilmadan açık şekilde kanlı kanlı pedleri çöpe atılmış hatta yerlere atılmış şekilde görünce utanırım. onu guzelce rulo yapar atarsin halbuki biseye sarıp. klozet kapagina damlamis kani gorunce utanirim. senin kukun oraya senden sonra girenden yada o tuvaleti temizleyenden daha degerli degil. çoğu erkek tuvaleti bizden temiz kullanır diye düşünüyorum.
-- entry_name: |
     kemal kılıçdaroğlu
   entry_id:  73471572
   entry_writer: victory90
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     gündeme göre fetöcü ya da pkk'lı ilan edilebilen çok işlevli ana muhalefet lideri. evet aynen öyle, gündem neyse erdoğan ona göre suçluyor kendisini; fetö'yse fetöcü ilan ediyor, pkk'ysa pkk'lı ilan ediyor ve bu zat da kendini hiçbir şekilde savunamıyor ve türkiye cumhuriyeti'nin kurucu iradesi, mustafa kemal atatürk'ün partisine bu lekelerin sürülmesine engel olamıyor.
-- entry_name: |
-    eleague major 2018
-  entry_id:  73465722
-  entry_writer: buzzer beater of life
-  entry_fav_count: 4
-  entry_content: |
-    ss'in awp sorunu olmadığını söylemek harbiden deli saçması olmuş. takımın en iyi ct side oyuncusu paz elinde awp ile hayalet gibi geziniyor, biz maçların cogunu awp katkısı almadan bitiriyoruz ama awp sorunumuz olmuyor.<br/><br/><a class="b" href="/?q=woxic">woxic</a> küstürülmeden bu takıma getirilebilseydi şimdi çok farklı şeyler konuşuyor olurduk. calyxin dp'den ayrılış şekli türk cs sahnesine bir takım ve en iyi awp oyuncusunun küsüp avrupaya gitmesine mal oldu (yine de woxic için daha iyi olduğu kanaatindeyim). dp hala devam ediyor ama vp'ye top 3 olduğu dönemde kafa tutan takım yok olup gitti.<br/><br/>ss'in elinde xantares gibi bir entry fragger var ki adam tribe fln girmeden her seferinde bal porsugu gibi dalıyor ortama.<br/><br/>paz gibi kalbur üstü bir rifler ve cidden çok özel bir ct oyuncusu var.<br/><br/>calyx gibi defansif oynamayı seven ve sonlara kalıp clutch oynayabilen bir oyuncu var.<br/><br/>takımdaki tek eksik parça fark yaratacak bir awp oyuncusu. despe fark yaratamiyor, woxic süreç yönetilemedigi için takıma gelmiyor ve biz yine elimizde bir dolu potansiyelle, taşlar yerine oturamadigi için boğuluyoruz. <br/><br/>majore gitsek bile bu takımın mutlaka awp oyuncusuna ihtiyacı var. eski optic kadrosu (tarik,mixwell,stanislaw,rush ve naf) bizim oynadığımız şekilde belirgin bir awpsiz oynuyordu ve sonu belli ki o kadro bizimkinden daha üstteydi.<br/><br/>her mapte farklı bir oyuncunun awp oynaması gibi saçma bir anlayış olamaz. hele ct siteda awp kolay iş hallolur diye bir salaklik hiç olamaz. az biraz hazırlanıp gelen tier 5 takımı eline verir bakakalirsın.
-- entry_name: |
-    ateizme göre evlatlığın eski karısıyla evlenmek
-  entry_id:  73478835
-  entry_writer: spetsnaz
-  entry_fav_count: 4
-  entry_content: |
-    ateizm konusu açıp caizlikten bahsetmek <br/><br/>tamam he he he<br/><br/>9 yaşındaki kızla evlenilebilir diyen de baba öz kıza şehvet duyabilir diyende ateist zaten
 - entry_name: |
     kadın içerikli başlıkların bitmek bilmemesi
   entry_id:  73478541
   entry_writer: hayvan gibi sey yapiyosunuz
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     sozlugun sivilceli ergen kaynamasi nedeniyle olagan karsiladigim durumdur.
 - entry_name: |
     erkek sevgilinin ağzınıza çırılçıplak sıçması
   entry_id:  73477167
   entry_writer: nick bulmam lazim
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     bunlar uçurulmaz amk. <br/><br/>(bkz: <a class="b" href="/?q=%c3%a7%c3%b6p+entry">çöp entry</a>)
 - entry_name: |
@@ -318,6 +297,20 @@ data:
   entry_content: |
     deprem
 - entry_name: |
+    everton
+  entry_id:  73479306
+  entry_writer: dodger
+  entry_fav_count: 2
+  entry_content: |
+    ilk kez 45 dakika oturup izledim kendilerini.<br/><br/>isimler kağıt üstünde güzel ama koca takım resmen çöp. orta saha göz kanatır.
+- entry_name: |
+    ethereum
+  entry_id:  73464926
+  entry_writer: en son uctugumda 14 yasindaydim
+  entry_fav_count: 2
+  entry_content: |
+    4-5 güne 2000 doları geçmesi beklenen coin.
+- entry_name: |
     enes ünal
   entry_id:  73478604
   entry_writer: viktor mancini
@@ -325,31 +318,38 @@ data:
   entry_content: |
     enes ünal'ın başlığında bir yazar<sup class="ab"><a title="(bkz: zorla yazar yaptiniz beni)" href="/?q=zorla+yazar+yaptiniz+beni" data-query="zorla yazar yaptiniz beni">*</a></sup> var. arkadaş bir insan nasıl bu kadar kıskanç olur hala anlayamadım amk. adam yemiyor içmiyor sürekli bu çocuğu karalama peşinde. <br/><br/>2015 yılından beri durmadan kötülüyor. en son levante'ye gitti diye taşşak geçiyordu. villarreal geri alınca bu sefer "villareal salak mı sezon başında 15 milyona aldığı oyuncuyu daha iki maç oynatmadan gönderecek. 15 milyona transfer etmiş gibi gösterip el altından 20 almışlardır. 5 milyon cepte." gibisinden garip garip şeyler yazmış. sadasfdasdfasfadasdf ulan ben hayatımda bu kadar azimli kıskanç birini görmedim. 3 yıldır karalıyor. sen böyle yazmaya devam et kardeş. sen böyle yazdıkça enes daha da yükseliyor.
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  73465205
-  entry_writer: raporsuz deli
+    13 ocak 2018 hawaii füze saldırısı uyarısı
+  entry_id:  73479532
+  entry_writer: evillive
+  entry_fav_count: 2
+  entry_content: |
+    daha dün honolulu yakınlarındaki manoa bölgesindeydim verilmiş sadakam varmış.
+- entry_name: |
+    parayla her kadının elde edilebilmesi
+  entry_id:  73477506
+  entry_writer: eflatun dua
   entry_fav_count: 1
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=qwi6POwtfnc" title="https://www.youtube.com/watch?v=qwi6POwtfnc">balthazar - bunker</a>
+    yukarıdaki entrileri okuyan da düşünür ki erkekler para uğruna adam öldürmüyor, öz kardeşini bile dolandırmıyor, koltuk uğruna onun bunun götünü öpmüyor, yalakalıkta çığır açmıyor.<br/><br/>he yavrum hee kadınlar.
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  73464749
-  entry_writer: dergus
-  entry_fav_count: 1
-  entry_content: |
-    yaş 30. cinsiyet erkek. ormanda on kaplan gücünde. konunun sınırı yok. müzik, sinema hatta can çekişen şiir:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/cheap-thrills">http://ribony.com/cheap-thrills</a>
-- entry_name: |
-    bitcoin diamond
-  entry_id:  73471493
-  entry_writer: janissarie
-  entry_fav_count: 1
-  entry_content: |
-    şaka gibi.binance'dan kucoin'e arbitrajı yapılır mı biri aydınlatsın ? lol<br/><br/>(bkz: <a class="b" href="/?q=neler+d%c3%b6nm%c3%bc%c5%9f+serhat+ya">neler dönmüş serhat ya</a>)
-- entry_name: |
-    ertuğrul özkök
-  entry_id:  73465050
-  entry_writer: mete han turkyilmaz
+    iyi parti
+  entry_id:  73470377
+  entry_writer: en afili 40 karakter
   entry_fav_count: 0
   entry_content: |
-    bu şahıs için "başında bir patron" olması o kadar normal, o kadar olması gereken bir şey ki sözlük yazarlarının da patronu olduğunu zannediyor.<br/><br/>omurgasızlığın bu kadarı.
+    akp'nin kararsız seçmeninden oy alabilecek bir partidir elbette ama kısıtlıdır bu oran. chp'den oy alması şu durumda hiçbir işe yaramaz. mhp seçmeni ise bilemiyorum altan, 2 yıl önce akp'ye sövüp şimdi 1 numaraları reisçi olan bir kitleden bahsediyoruz. kopan tayfa zaten koptu kanımca.<br/><br/>akp 16 sene önce iktidara gelirken, basit ve temiz bir oy oranı ile iktidar oldu. sonra gerek muhafazakarlardan gerek başka kesimlerden fakat en en önemlisi kürtlerden oy alarak oy oranlarını yükselttiler. bakın türkiye tarihinde ilk defa bir parti kürtleri oy potansiyeli olan bir grup olarak tanımlayıp ona göre oynadı ve kazandı da. şu anda dahi azımsanamayacak bir kısım hala akp taraftarı kürtler içerisinde. <br/><br/>diyeceğim şu aslında; 15-20 milyon insandan bahsediyoruz, türkiye içerisinde herhangi bir partinin kürtleri görmezden gelerek siyaset yapabilmesi iktidar olabilmesi im kan sız. akp, 7 haziranda hem örgütlü kitlenin varlığı hem de kürtlerden aldığı ağır darbeler sonucu iktidar olamadı. bu aslında türkiye'de siyasetin ne kadar kirli, alçakça yapıldığının bir göstergesi çünkü 7 hazirandan sonrası aynı zamanda çözüm sürecinin bitişine denk geliyor. sonrası akp'nin mhp ile cilveleşmeleri vs işte.<br/><br/>velhasılı, aklı başında olan herkes bu gerçekliğin farkındadır. hdp'ye terörist diyerek, kürt siyasetçilere terörist diyerek, iktidar mekanizmasının yaptığı tarzda bir siyaset yürüterek bu işi kotaramazsınız. demirtaş başlığında akşamdan sabaha kadar uuu iyi ki içerde çok mutluyum yazmanız iktidarda var olan gerçekliği değiştirmeyecek. kaldı ki bu gerçeklik sizinle uyum içerisinde olan tek siyasi aktör. temelde fikir birliği içerisindesiniz çünkü.<br/><br/>şu anda bu topraklar içerisinde türkiyedeki tüm değerleri ortak bir kotada toparlayabilecek bir partinin varlığı söz konusu değil. çünkü öyle medeni bir kafaya sahip değil türkiye toplamı. ya bir tarafa oynayıp diğer tarafı görmezden gelecek ya da diğer tarafa oynayıp aynı şekilde diğer tarafı ötekileştireceksiniz. bunun sebebi yalnızca siyasiler değil, aynı zamanda halk çünkü bir şekilde hak ettiğiniz şekilde yönetiliyorsunuz.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  73465911
+  entry_writer: daucus carota
+  entry_fav_count: 0
+  entry_content: |
+    böyle mi dertleşiyoduk ? <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/anilcivelek">http://ribony.com/anilcivelek</a>
+- entry_name: |
+    13 ocak 2018 kemal kılıçdaroğlu cahilliği
+  entry_id:  73477884
+  entry_writer: renksiz hayat
+  entry_fav_count: 0
+  entry_content: |
+    üstü kapalı rte'nin hitler'den farkı kalmadı, gelin bitirin bu işi der gibi bazılarına.
 ---
