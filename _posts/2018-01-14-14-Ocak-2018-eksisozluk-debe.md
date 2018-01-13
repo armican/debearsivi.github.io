@@ -6,42 +6,42 @@ data:
     real madrid'in çok güzel bir yer olması
   entry_id:  73469389
   entry_writer: nickimi veriyorum yaz
-  entry_fav_count: 342
+  entry_fav_count: 346
   entry_content: |
     tabi lan özellikle cristiano ronaldo bulvarı gezilmesi gereken yerlerin başında gelir.
 - entry_name: |
     faturamı kürtçe istiyorum
   entry_id:  73472206
   entry_writer: acemiyolcu
-  entry_fav_count: 271
+  entry_fav_count: 275
   entry_content: |
     ödeyeceklerini bilsem destekleyeceğim kampanya
 - entry_name: |
     13 ocak 2018 arda turan'ın başakşehir'e transferi
   entry_id:  73471348
   entry_writer: you are everything
-  entry_fav_count: 233
+  entry_fav_count: 236
   entry_content: |
     galatasaray taraftarını canı gönülden kutluyorum. bu büyük bir ideolojinin eseridir. arda turan denen top koşturucu hak ettiği yerde, başakşehirde’dir. bu büyük galatasaray taraftarının futbola, insanlığa koyduğu tepkidir. tarih bunu da yazacaktır.
 - entry_name: |
     sözlükçülerin iyi ki almışım dediği şeyler
   entry_id:  73463313
   entry_writer: lazybones
-  entry_fav_count: 187
+  entry_fav_count: 191
   entry_content: |
     ilkokulda matematikten 5 almıştım. iyi ki almışım. hâlâ onunla övünür dururum.
 - entry_name: |
     nagehan alçı
   entry_id:  73468357
   entry_writer: kartal kalkar dal sarkar
-  entry_fav_count: 178
+  entry_fav_count: 180
   entry_content: |
     cesaretiniz varsa isminizle, cisminizle çıkın ortaya... demis<br/><br/>basligi altina yazdiklarimi aynen, adima soyadima aldigim gmail adresimden htgazete email adresine yolladim. ciktim ortaya nagehan alci, senden mi korkacagim. sen kimsin, ne saniyorsunuz kendinizi? nereden bu gucu aldiginizi saniyorsunuz? senin, benden ne farkin var? hatta eksigin var, ben kariyerimde bir yerlere gelebilmek icin senin gibi yalamadim. daha agzimi bozardim da degmezsin. yazarken sinirlendim, bu entry yi de email attim
 - entry_name: |
     güreşen oğlunun rakibine tokat atan anne
   entry_id:  73463578
   entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 161
+  entry_fav_count: 164
   entry_content: |
     oğlu ile rakibi arasına girerek güreş tutulması olayını gerçekleştirmiştir.
 - entry_name: |
@@ -55,58 +55,58 @@ data:
     arda turan
   entry_id:  73471242
   entry_writer: sapkasiz cikmam abi
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     artık ona belediye bakacak.
 - entry_name: |
     britney spears'ın instagram'da paylaştığı video
   entry_id:  73473647
   entry_writer: i am not noob
-  entry_fav_count: 107
+  entry_fav_count: 121
   entry_content: |
     herhangi bir seksapelitesi olmayan ve aynı zamanda yürekleri de hoplatmayan sıradan bir video.
 - entry_name: |
     13 ocak 2018 tottenham hotspur everton maçı
   entry_id:  73470609
   entry_writer: lok
-  entry_fav_count: 101
+  entry_fav_count: 115
   entry_content: |
     cenk'in 6 gol atacağı maç, 2 tanesi röğaşataylan.
-- entry_name: |
-    tr'nin finlandiya eğitim sistemini kopyalamaması
-  entry_id:  73467956
-  entry_writer: yeeihpoy
-  entry_fav_count: 99
-  entry_content: |
-    yazım yanlışı ile ilgili eleştiri yaparken yazım yanlışı yapmazsak daha da haklı oluruz. <sup class="ab"><a title="(bkz: dahi anlamında olmayan de ayrı yazılmaz)" href="/?q=dahi+anlam%c4%b1nda+olmayan+de+ayr%c4%b1+yaz%c4%b1lmaz" data-query="dahi anlamında olmayan de ayrı yazılmaz">*</a></sup><br/><br/>edit: eleştiriyi eleştirirken eleştirilmek.. yapmasak değil yapmazsak tabi o..
 - entry_name: |
     gol sevincinde fenalaşan taraftarı döven polisler
   entry_id:  73467883
   entry_writer: sun tizu
-  entry_fav_count: 91
+  entry_fav_count: 96
   entry_content: |
     altta yer alan ''tanrılara kurban edilircesine sunuldu polislere'' yorumu ile yarmıştır.
-- entry_name: |
-    kürdistan benekli semenderi
-  entry_id:  73473007
-  entry_writer: meshur olmak isteyen cig kofteci
-  entry_fav_count: 69
-  entry_content: |
-    bana daha çok <a class="b" href="/?q=tatl%c4%b1+su+hewali">tatlı su hewali</a> gibi geldi.
 - entry_name: |
     13 ocak 2018 can dündar cahilliği
   entry_id:  73472455
   entry_writer: ali kalaylar
-  entry_fav_count: 69
+  entry_fav_count: 72
   entry_content: |
     almanların birçoğu, hepsi demiyorum ancak birçoğu bugün hala onlara hitlerle ilgili bir imada bulunduğunda suratı kızarıyor, sesi içine kaçıyor geçmişteki bir hataydı diyerek utanıyor. anayasal olarak hitler ile ilgili birçok yasak da mevcut.<br/><br/>almanların hitler düzenini yıkması işte budur. bunu kastediyor olabilir mi amına kodumun malı seni?<br/><br/>sen fethullah gülen düzenini yıkabildin mi peki? neydi onun düzeni? kendinden olmayan herkesi bertaraf etmek, hırsızlık yapmak, yapanları korumak, kul hakkı yemek, masumları hapse atmak...<br/><br/>yıkabildin mi? yıkamamışsın bak. fetö gider, menzö gelir bu kafayla devam edersen. anlayışı yıkmak budur işte. anlayışı yıkmak budur: (bkz: <a class="b" href="/entry/70285813">#70285813</a>)<br/><br/>seni ve senin gibi tüm cahil art niyetli insanların yok olmasını istiyorum. bu devran dönecek and, and olsun.<br/><br/>yoo almanlar utanmıyor her biri aslında bir nazi diyen arkadaşlara da şu gelsin: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.quora.com/What-do-Germans-think-of-Hitler-1" title="https://www.quora.com/What-do-Germans-think-of-Hitler-1">https://www.quora.com/…do-germans-think-of-hitler-1</a>
 - entry_name: |
     sıla ve ahmet kural aşkının bitmesi
   entry_id:  73474286
   entry_writer: dear god make me a bird
-  entry_fav_count: 66
+  entry_fav_count: 70
   entry_content: |
     safiye &amp; faik aşkından başkasının yalan olduğunu bizlere bir kez daha göstermiştir.
+- entry_name: |
+    kürdistan benekli semenderi
+  entry_id:  73473007
+  entry_writer: meshur olmak isteyen cig kofteci
+  entry_fav_count: 70
+  entry_content: |
+    bana daha çok <a class="b" href="/?q=tatl%c4%b1+su+hewali">tatlı su hewali</a> gibi geldi.
+- entry_name: |
+    av agir hewa welat ultra edition uçurulsun
+  entry_id:  73476281
+  entry_writer: the galvanize
+  entry_fav_count: 68
+  entry_content: |
+    alenen terör örgütü propagandası yapan ırkçı bir yazarın uçurulması için başlattığım kampanya.<br/><br/>benim sorum şu: "<a class="b" href="/?q=pyd">pyd</a> propagandası yapan yazara uygulama yapılmıyorsa, yarın ben de <a class="b" href="/?q=%c4%b1%c5%9fid">ışid</a> propagandası yapabilir miyim?" <br/>her ikisi de ülkemizde terör örgütü kabul ediliyor neticede.<br/><br/>ne bileyim, ışid'e övgüler yazsam falan? kamplarındaki moral durumunu paylaşsam?<br/>sözlük yonetimi cevap verirse derhal başlıyorum.<br/><br/>yazarın entry'leri:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Yg5Y6j.jpg" title="https://i.hizliresim.com/Yg5Y6j.jpg">ypg propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LboBlz.jpg" title="https://i.hizliresim.com/LboBlz.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3ERmgj.jpg" title="https://i.hizliresim.com/3ERmgj.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9mpnAQ.jpg" title="https://i.hizliresim.com/9mpnAQ.jpg">pkk'nın kurucu üyelerinden birini aklama çalışmaları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jyY9aJ.jpg" title="https://i.hizliresim.com/jyY9aJ.jpg">türkiye için "sömürgeci" sıfatını kullandığı entry</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rOdADN.jpg" title="https://i.hizliresim.com/rOdADN.jpg">yazarımızın ıslak rüyası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/D7kQgO.jpg" title="https://i.hizliresim.com/D7kQgO.jpg">alenen ırkçılık yapılan entry</a>
 - entry_name: |
     tasarruf yaparak 1 yılda 18 bin tl biriktirmek
   entry_id:  73463286
@@ -115,17 +115,10 @@ data:
   entry_content: |
     lüks yaşayan bir yazarın türkiye şartlarında normal yaşantıya alışma sürecini anlatan yazı. maaşı yüksek olduğu ve içki sigara masrafı olmadıgı için para birktirmiş hepsi bu. ben taksiye en son 10 yıl önce bindim amk
 - entry_name: |
-    rahatsız edici gerçekler
-  entry_id:  73466011
-  entry_writer: cualo cualo
-  entry_fav_count: 60
-  entry_content: |
-    bir gün arkadaşlarımızla son kez saklanbaç oynadık. ama kimse bunu fark bile etmedi.
-- entry_name: |
     cenk tosun
   entry_id:  73466310
   entry_writer: tskitishvili
-  entry_fav_count: 58
+  entry_fav_count: 60
   entry_content: |
     2003 yilinda real sociedad maci bekler gibi yarinki macini bekledigim futbolcu.
 - entry_name: |
@@ -135,6 +128,13 @@ data:
   entry_fav_count: 54
   entry_content: |
     1.92 boyunda bir türk erkeğiyle evliyim. ne gibi avantajları var derseniz, tam bilemiyorum. ama şu olabilir, at gibi kadın olduğum için yanında at gibi durmuyorum, bu güzel sanırım. <br/>üst raflardaki eşyalara uzanamadığımda kendisini çağırıyorum. evde yokken sandalyeye çıkıp alıyorum. başka bir numarası da yok sanırım.<br/><br/>1.72 boyunda olsaydı da onunla evlenirdim. bu sefer ama yanında at gibi dururdum ve topuklu ayakkabı da giymezdim, o evdeyken bile sandalyeye çıkardım. buna üzülür müydüm? sanmıyorum.
+- entry_name: |
+    13 ocak 2018 tsk'nın pyd'yi vurmaya başlaması
+  entry_id:  73474889
+  entry_writer: birazfasistbirazkomunist
+  entry_fav_count: 48
+  entry_content: |
+    inşallah türk askeri kayıp vermeden temizleyebildiği kadar döl israfını temizler.
 - entry_name: |
     diferansiyel denklemler
   entry_id:  73464835
@@ -150,40 +150,26 @@ data:
   entry_content: |
     beşiktaş taraftarı çok şey istiyor.<br/><br/>taraftarın aradığı santrfor oyuncusu şu:<br/><br/>çok iyi futbolcu olsun. takım çok yaşlandı yaşlı olmasın. ileride parlatıp satabilelim yani potansiyelli olsun. hızlı olsun. çevik olsun. şutları iyi olsun. bayern münih ile oynayacağız ona kafa tutabilsin. bir de son olarak, bonservisi olmasın ve yıllık ücreti de az olsun.<br/><br/>istediğimiz şeyin imkânsız olduğunu farkında olmanız gerekiyor. cyle larin gelecek. tutarsa tutacak. tutmazsa tutmayacak. tutarsa ileride 20-30'a satılabilir. tutmazsa da bonservis + yıllık ücreti kadar zarar edersiniz. bu işler böyle. risk almadan ödül yok.
 - entry_name: |
-    13 ocak 2018 tsk'nın pyd'yi vurmaya başlaması
-  entry_id:  73474889
-  entry_writer: birazfasistbirazkomunist
-  entry_fav_count: 43
-  entry_content: |
-    inşallah türk askeri kayıp vermeden temizleyebildiği kadar döl israfını temizler.
-- entry_name: |
     2018 ekonomik krizi
   entry_id:  73466838
   entry_writer: emeginelleri
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     gece cnn türk'ün tekrar yayinlarina denk geliyorum, yüz programdan 99'u yok hayir 100'de 100'ü feto üzerine. <br/>birkez olsun su ülkenin bu ekonomik perisanligi hakkinda bir fikir üreten, elestiri getiren, cözüm öneren bir programa denk gelmedim.<br/>bazen diyorum ki " acaba ben yanlis ülkeye mi gidiyorum "<br/>ortada bir gercek var, vatandasin hali cok perisan. vatandas dedigimiz kemik yalamayan, nemalanmayan yandas olmayan saf anadolu insani, ülkenin gercek sahipleri.<br/>ızmir'in tire ilcesinin sokaklarinda bu izinde gördüklerim,<br/>iki büklüm yere oturmus, yaz günü üzerinde örgü yelegiyle bir posette erik satan bir nine,<br/>kasaptan utanarak iki yüz gram kiyma alan insaat isicisi,<br/>ugradigim kahvelerde hemen hemen herkesin idda oynamasi,<br/>parklarda sabahtan aksama kadar bos bos oturan yüzlerce genc, oyun oynayacak para yok<br/>tanidik tekel bayisinden sigara yazdiran arkadaslar,<br/>iki cocuk sahibi abimin internetten poker oynayip kazandigi cip'leri satarak para kazanmaya calismasi (issiz). ıs arayip bulamamasi,<br/>kizkardeslerimin temizlik firmasi acip, " isciler bizi aradan cikarip verdigimiz isleri sonradan düsük ücretle kendileri aliyorlar " demesi ve minik firmanin birkac ay icinde batmasi,<br/>dayimin tandir ekmegi yapip ( lavas ) satmaya calisarak üc cocuguna bakmaya calismasi,<br/>emekli babamin maasina 100 tl zam yapilmasi,<br/>üniversite mezunu kuzenimin büyük sehirde gecinemeyip iki cocukla babasinin yanina dönmesi, tarlada organik ürünler üretip satacagim diye hayallere dalmasi,<br/>ben ülkeme ne zaman gelsem bunlari görüyorum,<br/>su an tv acik, konu basligi; bylock mudur nedir o'nu götümüze kim soktu.<br/>oturmuslar 5-6 kocabas geveleyip duruyorlar.<br/>beni iki ayri dünya arasinda carpip duran krizdir.
-- entry_name: |
-    chp'nin oy potansiyeli %85
-  entry_id:  73473614
-  entry_writer: oyadabu
-  entry_fav_count: 34
-  entry_content: |
-    15 puanı nerden kırdınız hocam?<br/><br/>aslında düz mantıkla baktığımızda tüm partilerin oy potansiyeli yüzde yüzdür. yani herkes oy verebilir. nedense düşük söylenmiş orandır.
 - entry_name: |
     3 yıl boyunca aynı cüzdanı kullanan erkek
   entry_id:  73474446
   entry_writer: azizjohn
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     10-12 yıldır kullandığım adidas cüzdanımla köpek çektiğim erkektir. vay lan ortaokulu beraber bitirdik, liseyi bitirirken yanımdaydı, üniversiteyi bitirdim benimleydi, hiç bu açıdan düşünmemiştim. sadık dostum lan bildiğin, aydınlandım. işimi gücümü düzene sokup mürüvetimi de görünce artık bundan sonrasını kendi başıma yapmam gerektiğine kanaat getirip köşesine çekilecek galiba.
 - entry_name: |
-    özel üniversitelerin çok kolay olması
-  entry_id:  73465635
-  entry_writer: bilmukabele guzel kardesim
-  entry_fav_count: 31
+    chp'nin oy potansiyeli %85
+  entry_id:  73473614
+  entry_writer: oyadabu
+  entry_fav_count: 35
   entry_content: |
-    “koçta ve sabancıda hocalar dersten geçirmeyi kendiler teklif ediyor”<br/><br/>ulan ilahi hiç gülüceğim yoktu gece gece ahahahaha :)
+    15 puanı nerden kırdınız hocam?<br/><br/>aslında düz mantıkla baktığımızda tüm partilerin oy potansiyeli yüzde yüzdür. yani herkes oy verebilir. nedense düşük söylenmiş orandır.
 - entry_name: |
     9 yıl süren cinsel istismar ve biz
   entry_id:  73468665
@@ -199,12 +185,19 @@ data:
   entry_content: |
     arda turan'ı da alırlarsa türkiye'nin en itici takımı olma noktasında açık ara lider olacak olan futbol kulübü. emre belözoğlu &amp; arda turan bir arada. düşman götüne.
 - entry_name: |
-    av agir hewa welat ultra edition uçurulsun
-  entry_id:  73476281
-  entry_writer: the galvanize
+    ekşi itiraf
+  entry_id:  73463050
+  entry_writer: hatirlamak unutmaktan zordur
   entry_fav_count: 23
   entry_content: |
-    alenen terör örgütü propagandası yapan ırkçı bir yazarın uçurulması için başlattığım kampanya.<br/><br/>benim sorum şu: "<a class="b" href="/?q=pyd">pyd</a> propagandası yapan yazara uygulama yapılmıyorsa, yarın ben de <a class="b" href="/?q=%c4%b1%c5%9fid">ışid</a> propagandası yapabilir miyim?" <br/>her ikisi de ülkemizde terör örgütü kabul ediliyor neticede.<br/><br/>ne bileyim, ışid'e övgüler yazsam falan? kamplarındaki moral durumunu paylaşsam?<br/>sözlük yonetimi cevap verirse derhal başlıyorum.<br/><br/>yazarın entry'leri:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Yg5Y6j.jpg" title="https://i.hizliresim.com/Yg5Y6j.jpg">ypg propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/LboBlz.jpg" title="https://i.hizliresim.com/LboBlz.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/3ERmgj.jpg" title="https://i.hizliresim.com/3ERmgj.jpg">pyd propagandası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9mpnAQ.jpg" title="https://i.hizliresim.com/9mpnAQ.jpg">pkk'nın kurucu üyelerinden birini aklama çalışmaları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jyY9aJ.jpg" title="https://i.hizliresim.com/jyY9aJ.jpg">türkiye için "sömürgeci" sıfatını kullandığı entry</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rOdADN.jpg" title="https://i.hizliresim.com/rOdADN.jpg">yazarımızın ıslak rüyası</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/D7kQgO.jpg" title="https://i.hizliresim.com/D7kQgO.jpg">alenen ırkçılık yapılan entry</a>
+    *6-7 yaşından bu yana sahip olduğum ve hayat boyu taşıyacağım bir psikolojik rahatsızlığım var. tam bitti diyorum, rahat huzurlu günler geçiriyorum. yeniden ortaya çıkıyor. bugünlerde hafif ataklar geliyor. bazen çok üzülüyorum. hayat boyu mücadele etmek zorunda olduğum için. <br/><br/>*eskiden daha çok üzülürdüm. derdim ki keşke fiziksel bir rahatsızlığım olsaydı. keşke kanser olsaydım derdim. bununla başa çıkmak çok zor derdim. ama sonra anladım ki <a class="b" href="/?q=hastal%c4%b1klar%c4%b1m%c4%b1z%c4%b1+biz+se%c3%a7emiyoruz">hastalıklarımızı biz seçemiyoruz</a>. ama yine de bazen üzülüyorum işte. amaaaan ne bileyim. :/<br/><br/>*deri ceket giyen adamlardan korkuyorum. deri ceket giyen adamlar benden uzak durun.<br/><br/>*2012 yılında yolda gördüğüm dilenci bir kadın önce hediye diyip sonra elindeki lifi zorla sattı bana asdggfgjk. böyle girişimci insanları ve kendim gibi enayileri görünce durup düşünüyorum. <br/><br/>*aslında hayatımın her alanında lif olayındaki gibiyim. mesela eski sevgililerim de o dilenci kadın gibi hayatıma zorla girdiler sonra çıkıp ettiler. <br/><br/>*geçen gün kuzenimle arkalı önlü arabayla bir yere gidiyorduk. kuzenim bana arabayı park edeceğim bir yer gösterdi. babam oraya giremezsin dar orası. bence başka bir yere gir dedi. dediğini yaptım. sonra kuzenim niye oraya girmedin deyince babam giremezsin oraya dedi dedim. sonra oraya tekrar baktım halbuki girermişim. <br/><br/>* başka bir zaman iki aracın arasından geçmem gerekti. geçebilir miyim yaa dedim. yanımda kardeşim vardı. geçersin yaa, geniş orası dedi. geçemedim, arabayı sürttüm. hep beni kandırıyorlar :/ <br/><br/>*bugün bir başlığa girdiğim entry üzerine bana denildi ki <a class="b" href="/?q=hatunlar%c4%b1n+efendi+adam+yerine+pi%c3%a7+tercihi">hatunların efendi adam yerine piç tercihi</a> sende de var. hayır arkadaşlar. ben piç adamları efendi zannedip tercih ediyorum. sonradan piç oldukları ortaya çıkıyor. halbuki benim onları ilk tercih etme kriterim efendilikleri, karakterleri oluyor. <a class="b" href="/?q=insanlar%c4%b1+hi%c3%a7+tan%c4%b1yam%c4%b1yorum.">insanları hiç tanıyamıyorum.</a> <br/><br/>*1 haftadır doğru düzgün ders çalışamıyorum. yarından itibaren <a class="b" href="/?q=beyin+bedava">beyin bedava</a> yöntemine geçiyorum. hızlı, gayretli ve sabırlı olmam lazım. <br/><br/>*edebiyatı ilk kez ne zaman sevmeye başladığımı hiç bilemeyeceğim galiba. başı yok gibi ama sonsuz gibi de. <br/><br/>*birkaç kez sevdim ama hiç aşık olmadım. hiç karşılıksız sevgi de yaşamadım. ilk adımı da hiç atmadım. seven ve ilk adımı atan hep karşı taraf oldu. terk edenler de yine onlar oldular. bazen ilişkilerimde kendimi figüran gibi hissediyorum. <br/><br/>* özleyeceğimi bildiğim insanlar var gideceklerinden o kadar eminim. <br/><br/>*lisede bir hocam vardı derdi ki "insanoğluna deseler ki düz duvara tırmanıp orada yaşayacaksın deselerdi ya da bir suyun içinde yaşayacağını söyleselerdi insan ona da <a class="b" href="/?q=al%c4%b1%c5%9f%c4%b1r">alışır</a>" derdi. o zaman onu sadece <a class="b" href="/?q=dinlemi%c5%9ftim">dinlemiştim</a> şimdi <a class="b" href="/?q=anl%c4%b1yorum">anlıyorum</a> da.<br/><br/>*kendimi çok yorgun hissediyorum. kimseye yetemiyorum. en çok da kendime. <br/><br/>* yazdıklarımı okuyunca kendime acıdım. :/
+- entry_name: |
+    125-200 kadar medipol başakşehir taraftarı
+  entry_id:  73476847
+  entry_writer: paul sahillleri
+  entry_fav_count: 23
+  entry_content: |
+    taraftar falan değil kadro bekleyen belediye çalışanlarıdır.
 - entry_name: |
     cumhurbaşkanı erdoğan gibisi gelmedi
   entry_id:  73472505
@@ -213,24 +206,17 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=afedersin+ermeni">afedersin ermeni</a>)<br/><br/>sıçacaksın ki iyi olacaksın derdi rahmetli anneannem.
 - entry_name: |
-    125-200 kadar medipol başakşehir taraftarı
-  entry_id:  73476847
-  entry_writer: paul sahillleri
+    bitcoin
+  entry_id:  73463895
+  entry_writer: aberkal
   entry_fav_count: 21
   entry_content: |
-    taraftar falan değil kadro bekleyen belediye çalışanlarıdır.
-- entry_name: |
-    maaşların mezun olunan üniversiteye göre verilmesi
-  entry_id:  73463271
-  entry_writer: hitokiri kenshin
-  entry_fav_count: 19
-  entry_content: |
-    hayatım boyunca, yaptığı işte başarılı olan bir insanın bu tür şeylerle uğraştığına şahit olmadım. bu tür şeyler ancak hayatındaki tek yeterliliği iyi bir üniversiteden mezun olabilmek olan insanları rahatsız ediyor.<br/><br/>sen iyi bir üniversiteden mezun olduysan ve bu sebeple iyi bir eğitim aldıysan, işini daha iyi yaptığın için ve senin mantığınla daha zeki bir insan olduğun için zaten daha iyi kazanman gerekir.<br/><br/>yok kazanamayıp bunun yerine daha kötü sayılabilecek üniversiteden mezun olmuş insanlara sarıyorsan demek ki pek başarılı olamamışsın ve o üniversite mezunlarının senin önüne geçmesinden rahatsız oluyorsun demektir.<br/><br/>belki sen sadece okulunun havasını atarken kötü üniversiteden mezun olan birey kendini geliştirmiş, bol bol pratik yapmış, dil(ler) öğrenmiş ve çevre edinmiştir. bundan dolayı da senden daha iyi kazanıyordur. dolayısıyla sen onu aşağı çekmeye çalışacağına kendini yukarı çek. üniversitenin adından dolayı zaten avantajın var ama bu senin hayal ettiğinin aksine sonsuz bir avantaj değil.
+    bu sozlukte hemen herkes kriptoparayi bitcoinle tanidi, sonra da <a class="b" href="/?q=iota">iota</a> ile sanirim. ben de burdaki bircok kisi gibi iotayla kripto para macerasina atildim. herkes gibi ben de yok microsoftla ortakmis yok su yok bu oldu diye saga sola haber saldim dedim bu ise girelim. nitekim girdik 50.000 tl ile. sonra o konferans olayi ortaklik olayinin pump icin oldugunu ogrendik ama iotalari almistik bir kere. sonrasinda dustu kalkti dustu kalkti 10 gun kadar sonra o zamanki kur ile 8bin zararla ciktik.<br/><br/>peki ya sonra?<br/><br/><a class="b" href="/?q=xrb">xrb</a> ile tanistik. mercatox gibi bir koy borsa sitesinden 33s iken paranin ceyregini yatirdim. sonra yukseliyor 55s iken biraz daha derken 75ten tum parayi xrbye gecirdik. bu sirada ufak tefek al-sat yapiyoruz. sonra yukseldi yukseldi site caaaat 2 gun kapali. dedik paralar uctu filan neyse site acildi acilmasina da 270slere yukselen xrb 140lara dustu. neyse biz <a class="b" href="/?q=kucoin">kucoin</a>e gectik. kcsden al-sat al-sat basta 0.70 btcmiz varken su an 2.6 bitcoine yukselttik.<br/><br/>simdi burada surekli tartisma donuyor bitcoin balon mu degil mi duser mi yukselir mi gec kaldik daha erken vs diye. bitcoin kriptopara isinde tepede bayrak sallayan coin ama bunun bir de altcoinleri var (bitcoin dolarsa altcoinlerde ruble, euro gibi dusunun). <br/><br/>dunyada yeni bir devrim yasaniyor. bu devrim finansta, ticarette, parada; yani hayatin oldugu her yerde gerceklesiyor. bu devrim de yeni sektorler doguruyor. siz de gec olmadan bu ise kafa yorun, isin bir ucundan tutmaya baslarsaniz devaminda biseyler yapabilirsiniz.<br/><br/>evet her zaman, lan keske basinda girseydim, keske ben de su herif gibi voleyi vursam diyorsunuz. iste mis gibi firsat. insanlar milyonlar kaldirdi, kaldiriyorlar. bin lira atin su ise deneyin sonra yapabiliyorsaniz devam edin. okuyun, arastirin. hangi coin ne is yapar grafik nasil okunur. inanin zor degil. ilerideki hacimleri dusununce piyasa halen bakir, gec kalmis degilsiniz. <br/><br/>kendi yatirdigim coinleri ve bilgileri <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/monmoainv">https://twitter.com/monmoainv</a> adresinde paylasiyorum, dileyen takip edebilir, yardimci olabilirim.
 - entry_name: |
     kürdistan
   entry_id:  73475325
   entry_writer: edlund
-  entry_fav_count: 16
+  entry_fav_count: 20
   entry_content: |
     emperyalizme karşı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ou8RnCnrLKQ" title="https://www.youtube.com/watch?v=ou8RnCnrLKQ">asldşasdl</a><br/>evet emperyalizme bir küfür etme var gerçekten ama niye yardımı kestin diye ahah. ulan:)
 - entry_name: |
@@ -248,6 +234,13 @@ data:
   entry_content: |
     bu film hakkında en çok da şaşırtan ise bu filmin oyuncularının (yönetmeni de başroldeki kadın) çok iyi bir iş çıkardıklarını düşünmeleri.
 - entry_name: |
+    dinden çıkmak için sebepler
+  entry_id:  73476006
+  entry_writer: sonderbar
+  entry_fav_count: 10
+  entry_content: |
+    mudara isimli suser'in (<a class="b" href="/entry/73473997">#73473997</a>) no'lu entrisinde peygamberin çok eşli olmasını savunduğu 1 numaralı maddesine karşılık bende şunu söylemek isterim. kendisi bir müslüman ve dini inancı gereği konuya yaklaşması elbetteki doğal, biz konuya biraz mantık açısından yaklaşıyoruz.<br/><br/>mudara'nın tanımıyla el cevap : <br/>muhammed mekke'nin en zengin kadınlarından haticeyle evlidir ve hatice kervan sahibi ticaretle uğraşan bir kadındır. kendisi mekke'nin en zenginlerinden olduğundan parasal olarak imkanları çoktur ve arkası güçlüdür. <br/><br/>muhammed neden ömrünün cinsel olarak en verimli yıllarını hatice ile geçirmişte en verimsiz yıllarında 50 yaşından sonra evlenmiştir. savunduğu konu bu.. hemen açıklık getirmek gerekirse yazılı kaynaklara göre muhammed haticeyle evlendiğinde muhammed 25, hatice 40 yaşındaydı. muhammed haticeyle evlendiğinde çobandı ve hatice kervan sahibi zengin bir tüccardı. yıl olarak konuyu incelersek muhammed'in doğum yılı 570 olarak gösteriliyor kaynaklarda, yani muhammed haticeyle evlendiğinde 595 yılıydı takriben. peygamberlik iddiası ise 610 yılında gerçekleşiyor. yani muhammed 40 yaşındayken. buraya kadar tarihler konusunda kimsenin tereddütü yok sanırım. peygamber olduğunda ise hatice 610 yılında 55 yaşındaydı. hatice resmi kaynaklara göre 619 yılında peygamberliğin 9. yılında hayatını kaybediyor. muhammed bu yılda tahmini 49 hatice ise hayatını kaybettiğinde yaşı 64 olmalı tarihlere göre.. <a rel="nofollow noopener" class="url" target="_blank" href="https://en.m.wikipedia.org/wiki/Khadija_bint_Khuwaylid" title="https://en.m.wikipedia.org/wiki/Khadija_bint_Khuwaylid">https://en.m.wikipedia.org/…/khadija_bint_khuwaylid</a><br/><br/>evet muhammed neden bu yaşa kadar genç kızlar ve cariyeler almayıp haticeyle evli kalmıştır?<br/><br/>bununla ilgili yorum ve düşünceler üzerinde beyin fırtınası yaparken bazı tarihler ve olayları bilmek gerekiyor yoksa duygusal ve din eksenli düşünüp taraflı bakarsınız. <br/><br/>hicret 622 yılında gerçekleşti, peki neden hatice öldükten sonra 3 yıl geçince muhammed medine'ye gitmek zorunda kaldı? her yerde anlatılan hepimizinde bildiği gibi baskıların artması ve dışlanması.. muhammed hatice ölmeden önce 9 yıl mekke'de ben peygamberim diye dolaşırken neden baskı olmuyordu? neden muhammed göç etmek zorunda kalmıyordu? muhammed'i koruyan çok güçlü bir ekonomik ve nüfusu yüksek bir zırh mı vardı? evet, bu zırh haticeydi. hatice kervanlar sahibi mekke'nin dönemindeki en zengin kadınıydı ( en zengin insanı demiyorum, kadını diyorum).. peki hatice ölünce 9 yıldır süren mekke macerası neden 3 yılda bitmek zorunda kaldı? belki ticaret engellendi ( bilinen durumlardan biri bu, ticaret kaynağının hatice ölünce mekkenin diğer önde gelenleri tarafından kesilmesi), belki de nüfusu yüksek zırhı kuvvetli kişi öldü ve muhammed bu baskılara dayanamadı, paranın kesilmeside büyük neden burada.. <br/><br/>evet, cevap aslında basit düşününce ortada.. kendinden 15 yaş büyük zengin bir kadınla parası ve nüfusu için evlenen muhammed o ölene kadar nüfusu ve parasını kullanıyor öldükten sonra ise elinde kalan para ve arkasındaki cemaatiyle yeni şehirlere yeni hayatlara yelken açıyor. hatice varken açabilir miydi yeni hayatlara yelken? en başta hatice tarafından kapı dışarı edilirdi, sonra parasından olurdu, sonra peygamberlik iddasından vazgeçerdi.<br/><br/>içgüdüsel değil, mantıklı bakalım olaylara lütfen.
+- entry_name: |
     arif v 216
   entry_id:  73466642
   entry_writer: andrea birlo
@@ -262,19 +255,19 @@ data:
   entry_content: |
     trajikomik bir türkiye <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/turkiye/904439/Meclis_onunde_kendini_yakan_isci_konustu__Oyumu_Tayyip_e_attim.html" title="http://www.cumhuriyet.com.tr/m/haber/turkiye/904439/Meclis_onunde_kendini_yakan_isci_konustu__Oyumu_Tayyip_e_attim.html">hikayesi</a>. evet sevgili türk vatandaşları, hakkınızı aramazsanız bir gün siz de şirinleri görebilirsiniz.<br/><br/>"2013 yılında iş kazası geçirdim. hayatımdan bıktım. ruhsal bunalımdayım’ dedim. onlar beni sağdan-soldan almaya çalışınca çakmağı tetiklemişim. eğer müdahale etmeseler, sakin ol deseler tetiklemeyecektim çakmağı. ben oyumu daha önce tayyip’e attım. tecavüz suçlusu olsa, adam vursa öbür kapıdan çıkıyor. ben alnımın teriyle çalışmışım, 3. kattan yere çakılmışım. müzice eseri hayattayım. 5 sene oldu benim evraklarım görüldü, şahitlerim dinlenildi ama hala sonuçlanmadı."
 - entry_name: |
+    barcelona'dan başakşehir'enin ingilizcesi
+  entry_id:  73474891
+  entry_writer: quansis
+  entry_fav_count: 8
+  entry_content: |
+    (bkz: <a class="b" href="/?q=coming+down+from+horse+to+donkey">coming down from horse to donkey</a>)<sup class="ab"><a title="(bkz: attan inip eşeğe binmek.)" href="/?q=attan+inip+e%c5%9fe%c4%9fe+binmek." data-query="attan inip eşeğe binmek.">*</a></sup>
+- entry_name: |
     dil sınavı şartı kaldırılmalıdır
   entry_id:  73476146
   entry_writer: unknownmaninchains
   entry_fav_count: 7
   entry_content: |
     dil şartından sonra akademisyen olmak için istenen üniversite mezuniyet şartını da kaldıralım. <br/><br/>fahri doktoraları gerçek yapalım. <br/><br/>ayrıca doktor olmak için gerekli tıp fakültesi ve hakim olmak için hukuk fakültesi mezuniyetini de kaldıralım. hakimlik babadan oğula, hekimlik anadan kıza, mühendislik dayıdan yeğene geçsin. çünkü öz ve gerçek yerli ve millilik budur; kız anadan öğrenir oba gezmeyi oğlan dayıdan öğrenir yazı yazmayı atasözü de yeter ve geçer milli eğitim müfredatı olsun.<br/><br/>son olarak ismi selman olan tüm kel yar doçlara saç ektirelim. bu önemli.<br/><br/>ciddi: mevcut sınav eksik ve yetersiz olabilir ancak ingilizce bilmeyen bilim adamı da nedir allesen? adam tercüme bürosunu adres gösterecek kadar konudan ve bilimden uzak. ne tercüme bürosu google translate neyinize yetmiyor??
-- entry_name: |
-    barcelona'dan başakşehir'enin ingilizcesi
-  entry_id:  73474891
-  entry_writer: quansis
-  entry_fav_count: 7
-  entry_content: |
-    (bkz: <a class="b" href="/?q=coming+down+from+horse+to+donkey">coming down from horse to donkey</a>)<sup class="ab"><a title="(bkz: attan inip eşeğe binmek.)" href="/?q=attan+inip+e%c5%9fe%c4%9fe+binmek." data-query="attan inip eşeğe binmek.">*</a></sup>
 - entry_name: |
     ara güler
   entry_id:  73470215
@@ -284,32 +277,46 @@ data:
     iktidar sığınmacısı. hayır yaşını başını almışsın neyin peşindesin, ne amaçlamakta nereye varmak istemektesin?
 - entry_name: |
     parayla her kadının elde edilebilmesi
-  entry_id:  73475533
-  entry_writer: bildiklerini anlatamayan adam
+  entry_id:  73475355
+  entry_writer: doctoragon
   entry_fav_count: 6
   entry_content: |
-    doğru olmayan önermedir. eğer doğru olsaydı, erkekler aşk acısı çekmek yerine gerekli parayı bulur ve aşklarına kavuşurlardı.
-- entry_name: |
-    doktor öğretim görevlisi
-  entry_id:  73469742
-  entry_writer: intern in the house
-  entry_fav_count: 5
-  entry_content: |
-    yeni akademik ünvanımız. <br/><br/>yardımcı doçentlik yerine kullanılacak.<br/><br/>hayırlı olsun.<br/><br/>detaylar:<br/><br/>yök'ün açıkladığı yeni sistemin soru ve cevaplarla detayları:<br/><br/>1. yasa değişikliği önerisinde yardımcı doçentlik kadrosunun kaldırılması mı önerilmektedir?<br/><br/>evet.<br/><br/>2. doktorasını bitirenler doğrudan doçentliğe başvurabilecekler midir?<br/><br/>evet, aslında yasal zorunluluk bulunmasa da ve aykırı örnekleri olsa da uygulamada “doktoradan sonra doçentlikten önce zorunlu bir kademe olarak kabul edilmekte olan” yardımcı doçentlik kaldırılacak ve doktorasını bitirenlerin doğrudan doçentliğe geçişi aşağıdaki düzenlemelerle kolaylaştırılacaktır.<br/><br/>3. mevcut durumda yardımcı doçent kadrosunda bulunan öğretim üyelerinin durumu ne olacaktır?<br/><br/>mevcut durumda “yardımcı doçent” kadrosunda bulunan öğretim üyelerine hak kaybı olmadan ihdas edilen “doktor öğretim görevlisi” kadrosuna herhangi bir işlem ve şarta gerek duymaksızın geçirilecektir.<br/><br/>ayrıca ihdas edilen bu kadronun aylık ücretleri, yardımcı doçent kadrosuna göre daha iyi olacaktır.<br/><br/>4. “doktor öğretim görevlisi” kadrolarına doktor veya eşdeğer unvana sahip tüm adaylar da başvurabilecek midir?<br/><br/>evet
-- entry_name: |
-    dinden çıkmak için sebepler
-  entry_id:  73475650
-  entry_writer: gehen gehen
-  entry_fav_count: 5
-  entry_content: |
-    o nasıl kıvırmadır arkadaş. alt tarafı diğerlerinden araklanarak hazırlanmış, insan eliyle yazılmış komik bir roman.<br/><br/>tek sebep yeterli; 6 yaşında evlenip 9 yaşında gerdeğe girmek.<br/><br/>hadi mezdeke çalıyor kıvırın bakayım...
+    pareto prensibi gibi %80-%20 desek daha doğru olur.<br/>evet, %80'i para ile elde edilebilir. <br/>(bkz: <a class="b" href="/?q=hipergami">hipergami</a>)
 - entry_name: |
     enes ünal
   entry_id:  73476779
   entry_writer: krnja
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     takiminin real madrid deplasmanina cift forvetle baslamasini bekleyen andavallar var galiba. tek forvetle basliyorsa takimdaki ilk forvet carlos bacca'dir ve dogal olarak yedek baslar. umarim ikinci yari sans bulur. burda bu cocugu ovenlerden cok ovenlere, beklentisi olanlara kizanlar dolustu. bu cocuktan bir seyler beklemek neden birilerini rahatsiz eder anlamis degilim.
+- entry_name: |
+    sadece diktatör oyununun engellenmesi
+  entry_id:  73465134
+  entry_writer: oakpost
+  entry_fav_count: 5
+  entry_content: |
+    barış atay'ın tek kişilik tiyatro gösterisinin engellenmesidir.<br/><br/>son olarak artvin valiliği oyunu sakıncalı bulup oyunun oynanmasını yasaklamış.<br/><br/>bunlar öyle insanlar ki nazilerden bin kat daha kötüler. nazilerin en azından sanatçı bir tarafı vardı, bunlarda zerre bir şey yok. memleketi bu barbarlara teslim eden halka her şey mustehak.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/kultur-sanat/901663/Baris_Atay_in__Sadece_Diktator__oyununa__sakincali__denilerek_salon_verilmedi.html" title="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/kultur-sanat/901663/Baris_Atay_in__Sadece_Diktator__oyununa__sakincali__denilerek_salon_verilmedi.html">kaynak</a>
+- entry_name: |
+    eleague major 2018
+  entry_id:  73465722
+  entry_writer: buzzer beater of life
+  entry_fav_count: 4
+  entry_content: |
+    ss'in awp sorunu olmadığını söylemek harbiden deli saçması olmuş. takımın en iyi ct side oyuncusu paz elinde awp ile hayalet gibi geziniyor, biz maçların cogunu awp katkısı almadan bitiriyoruz ama awp sorunumuz olmuyor.<br/><br/><a class="b" href="/?q=woxic">woxic</a> küstürülmeden bu takıma getirilebilseydi şimdi çok farklı şeyler konuşuyor olurduk. calyxin dp'den ayrılış şekli türk cs sahnesine bir takım ve en iyi awp oyuncusunun küsüp avrupaya gitmesine mal oldu (yine de woxic için daha iyi olduğu kanaatindeyim). dp hala devam ediyor ama vp'ye top 3 olduğu dönemde kafa tutan takım yok olup gitti.<br/><br/>ss'in elinde xantares gibi bir entry fragger var ki adam tribe fln girmeden her seferinde bal porsugu gibi dalıyor ortama.<br/><br/>paz gibi kalbur üstü bir rifler ve cidden çok özel bir ct oyuncusu var.<br/><br/>calyx gibi defansif oynamayı seven ve sonlara kalıp clutch oynayabilen bir oyuncu var.<br/><br/>takımdaki tek eksik parça fark yaratacak bir awp oyuncusu. despe fark yaratamiyor, woxic süreç yönetilemedigi için takıma gelmiyor ve biz yine elimizde bir dolu potansiyelle, taşlar yerine oturamadigi için boğuluyoruz. <br/><br/>majore gitsek bile bu takımın mutlaka awp oyuncusuna ihtiyacı var. eski optic kadrosu (tarik,mixwell,stanislaw,rush ve naf) bizim oynadığımız şekilde belirgin bir awpsiz oynuyordu ve sonu belli ki o kadro bizimkinden daha üstteydi.<br/><br/>her mapte farklı bir oyuncunun awp oynaması gibi saçma bir anlayış olamaz. hele ct siteda awp kolay iş hallolur diye bir salaklik hiç olamaz. az biraz hazırlanıp gelen tier 5 takımı eline verir bakakalirsın.
+- entry_name: |
+    hüseyin nihal atsız
+  entry_id:  73466027
+  entry_writer: the unforgivinel
+  entry_fav_count: 3
+  entry_content: |
+    ben fikirlerini beğeniyorum. bu göreceli bir durum tabi, aksini düşünen fazlaca insan var. çok değerli romanları ve şiirleri var. bu da göreceli tabi.<br/><br/>ancak şu konuda kimse haksızlık edemez; atsız savunduğu görüşü esnetmeden, açık açık ve yapılan tüm baskılara rağmen dimdik bir şekilde savunmuştur. cumhuriyet tarihinde böyle mert, böyle dik duruşlu bir fikir adamı daha bilmiyorum ben.
+- entry_name: |
+    doktor öğretim görevlisi
+  entry_id:  73474046
+  entry_writer: thewomanwhosoldtheworld
+  entry_fav_count: 3
+  entry_content: |
+    ama ben akrabaların bir kısmına süreci anlatmayı başarmıştım! bir kısmına, küçük bir kısmına!<br/><br/>halen "ne doktoru olacaksın? neden 30 yaşında öğrencisin? daha ne kadar okuyacaksın? okutman ne? kitap mı okutuyorsun? maaş veriyorlar mı sana? gerçek kadro ne zaman?..." diyenler var ama yardımcı docentligi az çok anliyorlardi. bunu anlamayı başaranlar "yardımcı doçent olamadın mı?" demeye başlayacak şimdi yaa. vay benim ömrüm!<br/><br/>yaramdan değil, sorandan...
 - entry_name: |
     1999 yılından hatırda kalanlar
   entry_id:  73465697
@@ -345,11 +352,4 @@ data:
   entry_fav_count: 1
   entry_content: |
     yaş 30. cinsiyet erkek. ormanda on kaplan gücünde. konunun sınırı yok. müzik, sinema hatta can çekişen şiir:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/cheap-thrills">http://ribony.com/cheap-thrills</a>
-- entry_name: |
-    erkek sevgilinin ağzınıza çırılçıplak sıçması
-  entry_id:  73477167
-  entry_writer: nick bulmam lazim
-  entry_fav_count: 0
-  entry_content: |
-    bunlar uçurulmaz amk. <br/><br/>(bkz: <a class="b" href="/?q=%c3%a7%c3%b6p+entry">çöp entry</a>)
 ---
