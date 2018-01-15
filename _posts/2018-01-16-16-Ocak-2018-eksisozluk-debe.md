@@ -6,128 +6,135 @@ data:
     çaykovski dinletirsek adam oluruz zannedildi
   entry_id:  73510803
   entry_writer: no status
-  entry_fav_count: 355
+  entry_fav_count: 362
   entry_content: |
     türkü de dinletmediniz ki; yaktınız.
 - entry_name: |
     erdoğan bayraktar
   entry_id:  73504573
   entry_writer: skytiret
-  entry_fav_count: 347
+  entry_fav_count: 349
   entry_content: |
     hungur hungur aglattigi kanser hastasi kiz bugun vefat etmis. kendisi 65 milyon lira maliyeti olan bir cami yaptiriyormus. degil 65 milyon, 650 milyarlik cami yaptirsan ne olur. asla vicdanin rahatlamayacak.<br/><br/>simdi istedigin kadar camii yaptirt vicdansiz...
 - entry_name: |
     kıçı kirli birileri bize sınırda tehdit sallıyor
   entry_id:  73515283
   entry_writer: sosyal filozof
-  entry_fav_count: 291
+  entry_fav_count: 296
   entry_content: |
     reis çıtayı fena yükseltti. yakında "sikeriz belanızı," gibi söylemler bekliyorum.
 - entry_name: |
     enes batur hayal mi gerçek mi
   entry_id:  73513800
   entry_writer: tintobrass
-  entry_fav_count: 215
+  entry_fav_count: 224
   entry_content: |
     az önce kültür bakanlığı'na şikayet ettiğim filmdir. <br/>ve sorumlu her anne babanın aynı şekilde davranmasını, tavsiye ediyorum.<br/><br/>çünkü bu filme, çöplüğe dönen türk komedi sineması yığınına katılan sıradan bir film muamelesi yapılamaz! <br/><br/>enes batur denen şahsiyet, milyonlarca çocuk hayranı olan, aslında ekran başında boş - çöp bilgi üreten ve bundan para ve şöhret kazanan biri. <br/>bu filmde de bunu nasıl yaptığını, bir asosyal çocukken anne ve babasının sert itirazlarına rağmen nasıl <a class="b" href="/?q=youtuber">youtuber</a> olduğunu anlatan bir film. <br/><br/>70-80'lerde türeyen evden kaçıp, istanbul'a gidip ünlü olacağını düşünen bir zamanların kuşağını, şimdi çocuklarda farklı bir şekilde dolaylı olarak oluşturacak bir filmdir.<br/><br/>bilen bilir bu youtuber denen güruhun çocuklar üzerinde ciddi etkileri var.<br/>çoğu çocuk, şimdiden basit bir youtube kanalı açarak zengin ve ünlü olacağının hayalleri içinde. <br/>bu durum çok masum ve normal gelebilir ama, şuan yaşanan youtuber patlaması suni bir balon. <br/>ve bu balon, çocuklara asosyal olmanın bir dezavantaj değil, avantaj olduğunu, iyi bir eğitim alıp, iyi üniversiteler bitirmenin anlamsız olduğunu alttan alta çocukların beynine pompalıyor -ki bu film de açık açık bunun propagandasını yapıyor.
 - entry_name: |
     kanal istanbul
   entry_id:  73511329
   entry_writer: seykooooah
-  entry_fav_count: 194
+  entry_fav_count: 198
   entry_content: |
     gerçekten aklım almıyor. istanbul'da bir boğaz var. bu boğazda 3 tane (yazı ile üç!) köprü, 1 tane tünel, 1 tane raylı hat, 1 tane metrobüs hattı var. 10 küsür milyonluk bu şehirde her gün binlerce insan bu boğazı aşabilmek için saatlerce trafikte kalıyor. sadece 3.köprünün kendisinden kilometrelerce uzaktaki mahmutbey kavşağı'nda yarattığı trafik inanılmaz boyutta. <br/><br/>biz ne yapıyoruz? yeni bir boğaz daha yaratıp oluşturacağı trafik yoğunluğunu düşünmeden yeni köprü, tünel ihtiyacı doğuruyoruz. <br/><br/>gerçekten şaka gibi...
 - entry_name: |
     dilek özçelik
   entry_id:  73504658
   entry_writer: sejlav
-  entry_fav_count: 155
+  entry_fav_count: 158
   entry_content: |
     merak etme dilek. senin eline para sıkıştıran vatandaş bir stat dolusu taraftar tarafından yuhalandı, sonra ben yaptıysam tayyip erdoğan dediği için yaptım ben istifa ediyorsam o da etmeli dedikten sonra koca yaşına rağmen dememiş gibi açıklama yaptı. sonra diğer bakanların rüşvet yedikleri ortaya çıktı, istifa ettiler ya da gittiler, biri o kadar parasına rağmen dışarı çıkamıyor başka bir ülke yakalama kararı çıkardı diye, beraber ödül verdikleri adam başka bir ülkede hapiste, beraber ödül verdikleri adama şimdi canı cehenneme diyor ödül veren, aynı ödül veren darbe günü şarjör falan bekliyorum derken otoparktan görüntüleri çıktı. sen gittin şimdi huzurlu uyuyacaksın belki para bulamadığın için tedavini olamadın ya da paranı buldun ama çözüm bulunamadı ama onurunla gittin. sana orda çok para var diyenlerin çoğu gittiğinde huzurlu gitmeyecek geriden gelenleri de huzurlu olmayacak. mekanı cennet olsun.
 - entry_name: |
     türk kızlarının %90-95'inin taş gibi olması
   entry_id:  73504935
   entry_writer: gkarek
-  entry_fav_count: 143
+  entry_fav_count: 145
   entry_content: |
     türk kızlarının size karşı musalla taşı olmalarının nedenleri:<br/>1. kız arkadaşımla sevişebilmeliyim ama karım hiçbir şey bilmesin ve bakire olsun ki benimle yetinsin zihniyeti.<br/>2. sürekli kadını aşağılama, ağır şakalar yapma zihniyeti.<br/>3. makyajlı kadınları yıkayın, makyajsız kadın sokağa çıkmasın zihniyeti.<br/>4. kadınlar incecik belli, incecik bilekli, porselen ciltli olmalı çünkü kadınlar tek tip sanayi malı zihniyeti.<br/>5. kadınlarla ilgili başlıklar açıp onları gömme ama koca göbeğe, sarı dişlere, pis koltuk altı kıllarına bakmama zihniyeti.<br/>kadınların sizi musalla taşına yatırmadıklarına şükredin beyler. kadınların güzellikleri oranlarla ölçülemez. bir insandaki güzelliği göremiyorsanız kendi kalbinizin kötülüğündendir. umarım düzelirsiniz.
 - entry_name: |
     1998 yılında matrix'i çekmek
   entry_id:  73508672
   entry_writer: ates senturk
-  entry_fav_count: 121
+  entry_fav_count: 131
   entry_content: |
     edit 3: daha fazla edit yapmak istemiyordum ama size bana gelen şu mesajı göstermeden duramadım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9m9OJk.jpg">https://i.hizliresim.com/9m9ojk.jpg</a><br/><br/>yahu bu nedir şimdi? ben ne diyorum bunlar ne diyor. (kimlik ifşası yasak diye yazar ismi sansürlendi)<br/><br/>yazar arkadaşlar, bakın. yaşınız çok ilerlemiş olabilir ama kimse sizin komplekslerinizi burada çekmek zorunda değil. konumuz sinema tarihi ve ben birçok öğeyi bir araya getirmiş bir film hakkında içerik girdim. eğer varsa aklınızda döneminde daha çok çığır açan ve birçok bu tarz öğeyi barındıran film söyleyin biz de faydalanalım. en azından <a class="b" href="/?q=andropoz">andropoz</a> sorunlarınızla uğraşmamış oluruz.<br/><br/>edit 2: kendimi tam olarak anlatamadım galiba hala mesajlar geliyor. madde madde izah edeyim.<br/><br/>1- daha önce varoluşu sorgulayan film çekildi mi? çekildi.<br/>2- içindeki sözler daha önce söylenmiş sözler mi? evet.<br/>3- yapay zeka, insan çatışması daha önce incelendi mi? evet.<br/>4- o teknoloji bir başka filmde daha önce kullanıldı mı? evet.<br/>5- daha önce kapitalizm eleştirisi film çekildi mi? çekildi, evet.<br/>6- geleceğe ışık tutan, öngörülebilir gerçeklik fikri daha önce işlendi mi? evet.<br/><br/>ama bu film hepsini aynı anda yapmış arkadaşlar adamı delirtmeyin. benim demem tamamen odur. bir bütün olarak bakın olaya.<br/><br/>edit: bazı salak arkadaşlar anlamamakta diretiyor, konuyu sadece yapay zekaya indirgiyor, ya da sadece efektlere indirgiyor. <br/>ya diyorum ki herifler var oluşu sorgulamışlar. şu an yaşadığımız dünyanın matrix olmadığını nereden bilelim mesela? neo bilgisayar başındayken, kendini gerçek hayatta zannediyordu. ta ki alice göndermeli beyaz tavşanı takip et, gerçeklerin peşinden git temalı muazzam geçiş sahnesine kadar. neyse, halbuki sistemin sadece bir çarkıymış herif. ama bilgisayar başında özgür olduğunu düşünüyordu.<br/>mesela şu anda da hiçbirimizin sisteme bir etkisi yok. şuan ki sistemin tepesinde dünya'nın bütün kaynaklarını sömüren ve dünyanın sonunu hazırlayan lobiler var. orada da o lobiyi ajan smith (esasen mimar) temsil ediyor. kendini kopyalayarak, isyana meyilli bütün verileri siliyor, insanları yok ediyor. benim şaşırmam senaryo, efekt, felsefe, tariz, mitolojik öğelerin hepsini bu insanların bir filme yedirebilmeleri.<br/><br/>bir sinemacı olarak aklım almıyor. günümüz teknolojisini biliyorum, günümüzün gündemini biliyorum, <a class="b" href="/?q=elon+musk">elon musk</a>, <a class="b" href="/?q=mark+zuckerberg">mark zuckerberg</a> "yapay zekaya sahip mekanik tehlikeli midir?"<br/>tartışmasını biliyorum ama 98'de karşımıza "robotlar savaşıyor" tarzında sığ olmayan insan ve mekanik ilişkisini inceleyen hatta bunun üzerine felsefe kuran sosyolojik, günün şartlarına göre über teknolojik bir film çıkıyor.<br/><br/>akıl alır gibi değil, yahu adamlar plütoncu düşünceyle <a class="b" href="/?q=megali+idea">megali idea</a> fikrinden yola çıkıp, geleceğin insanının o fikre ulaşırken sarpa sardığını, <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcn%c3%bcyorum+%c3%b6yleyse+var%c4%b1m">düşünüyorum öyleyse varım</a> sözünü içimize işleyen, bilincin bedenden ayrı olduğunu, belki hepimizin bir sistemin içinde çark olabileceğimi sorgulatan, bolca kapitalizm eleştirisi barındıran, varlık matrix'den ayrı düşünülebilir mi tarzında felsefik bir derinliğe inen film çekilebiliyor. <br/><br/>bir de filmdeki her karakter, bir mitolojik değere denk düşüyor. hepsini tek tek anlatmam saatler sürer. <br/><br/>bir de tam 20 yıl sonra bizim çektiğimiz sinema ürünlerine bak. (bkz: <a class="b" href="/?q=recep+ivedik">recep ivedik</a>)<br/><br/>yahu arkadaş geriden gelinir anlarım da, bu kadar mı geriden gelinir.<br/><br/>dipnot: bizim sinemamızda aynı türe ait olan bir film olmadığı için, her hangi bir türden pay biçtim.<br/><br/>parçalanıyorum sözlük.
 - entry_name: |
     hiçbir kadının büyük aşkı olamamış gereksiz erkek
   entry_id:  73512250
   entry_writer: serbest dalici
-  entry_fav_count: 103
+  entry_fav_count: 106
   entry_content: |
     piç olmayan erkekler (efendi) grubunda bulunan erkektir.<br/><br/>(bkz: <a class="b" href="/?q=kad%c4%b1nlar%c4%b1n+efendi+erkek+yerine+pi%c3%a7+tercihi">kadınların efendi erkek yerine piç tercihi</a>)<br/><br/>efendi erkek efendi ayrılır. kadına değer verdiğinden ayrılırken incitmez. piç tercih edersen öyle bir ayrılırkı çok büyük bir aşk yaşamış olduğunu zannedersin.<br/><br/>edith piaf: başlık başa. ozimus adlı suser bazı erkeklerin kadınları üzmeden, kırmadan ayrıldıklarını ve bunun onları büyük aşk olmaktan çıkarıp ezik bireyler olmasına neden olduğunu belirten bir giri girmisti.
 - entry_name: |
     15 ocak 2018 beşiktaş tanıtımı
   entry_id:  73512508
   entry_writer: alabamaclarence
-  entry_fav_count: 101
+  entry_fav_count: 102
   entry_content: |
     müthiş bir video olmuş ama en sonda arda’nın fotoğrafı çıksa ve altta “sen gelme ulan ayı” yazsa daha efsane olurdu :)
 - entry_name: |
     volkan demirel'in yaptırdığı muazzam portre
   entry_id:  73517202
   entry_writer: nadnan
-  entry_fav_count: 96
+  entry_fav_count: 101
   entry_content: |
     volkan demirel'den çok metin şentürk'e benzeyen bir resim içerir.
 - entry_name: |
     görüyorum ki çaresizliği tatmamışsınız hayatınızda
   entry_id:  73504825
   entry_writer: burada basladi burada bitti
-  entry_fav_count: 87
+  entry_fav_count: 91
   entry_content: |
     evet tatmamıştık güzel kız. <br/>özellikle darbe sonrası doğan nesil. yani bizler. <br/>ota boka gülen, her şeyden espri üreten, kendinden başkasını düşünmeyen...<br/>biraz narsist, biraz hedonist.<br/>hatırlıyorum. cumhuriyet gazetesi'nin 'tehlike'nin farkında mısınız?' kampanyası vardı. <br/>küçük aklımla dalga geçerdim. bunlar iktidara yerleştikçe yaşatılan suni refahtan keyif alırdım.<br/>sonra yavaş yavaş uyandık. sesimizi yükseltmeye, itiraz etmeye başladığımızda çok geç olmuştu. <br/>sesi çıkanın sesinin kesildiği zamanlar gelmişti. <br/>ilk kez konforumuzdan ödün verip bir şeyler yapmaya kalktık ama beceremedik. <br/>senin bu cümleni duyduğumda çok canım yanmıştı. karşındaki hoyratlık, umursamazlık ve senin çığlığın yüreğimi dağlamıştı.<br/><br/>şimdi en az senin kadar çaresiziz.
 - entry_name: |
     ümit kocasakal'ın chp genel başkanlığına adaylığı
   entry_id:  73510381
   entry_writer: mikhail tal
-  entry_fav_count: 84
+  entry_fav_count: 87
   entry_content: |
     orta yolcu siyasetçilerden gına gelmişti; artık gemileri yakıp, masaları devirecek politikacı lazım.<br/><br/>bu bağlamda chp için ümit kocasakal'dan daha iyi bir genel başkan yoktur.
-- entry_name: |
-    işçilere birayla ödeme yapılması
-  entry_id:  73518504
-  entry_writer: garipbasci
-  entry_fav_count: 75
-  entry_content: |
-    bira hamallık lafı buradan gelmektedir.
-- entry_name: |
-    15 ocak 2018 e-postama gelen esrarengiz mail
-  entry_id:  73519738
-  entry_writer: my name is paris
-  entry_fav_count: 72
-  entry_content: |
-    (bkz: <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)<br/><br/>not : yazarların attığı entry ile konuyu anlamış bulunuyorum ve tekrar ediyorum.<br/><br/>(bkz: <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)
-- entry_name: |
-    sinop'un underrated bir il olması
-  entry_id:  73512528
-  entry_writer: viewport
-  entry_fav_count: 70
-  entry_content: |
-    müthiş denizi ve sahilleri, cevizli mantı ve nokulun inanılmaz tadı, yakın dostluklar, rahat ortamı, her noktadan denizin görülebilmesi, temiz havası, yeşile bürünmüş adeta bir amazon hissi yaşatan doğası ve sıcak bir kasaba havası alabileceğiniz türkiyenin belki de en underrated ilidir. <br/><br/>(bkz: <a class="b" href="/?q=erfelek+tatl%c4%b1ca+%c5%9felaleri">erfelek tatlıca şelaleri</a>)<br/>(bkz: <a class="b" href="/?q=hamsilos+koyu">hamsilos koyu</a>)
-- entry_name: |
-    bir döneme damga vurmuş iş furyaları
-  entry_id:  73519919
-  entry_writer: ginaly
-  entry_fav_count: 66
-  entry_content: |
-    sene 99 ya da 2000 tam hatırlamıyorum. iş yerimiz tapu dairesinin altında, kırtasiye fotokopi allah ne verdiyse yapıyoruz. kaşe işinden dolayı da bilgisayarımız var. siyah, beko marka. taksitle almışız 10 ay. şeklimiz 1500 iş hanında. derken tc kimlik numarasının dahil olduğu <a class="b" href="/?q=mernis">mernis</a> sistemi devreye girmeye başladı haberleri çıktı. tapu dairesine de yeni yönetmelik geldi, tapuyu kimler alıp satacaksa tc kimlik numarası ekranından çıktıya ihtiyaç var.<br/><br/>e neredeyse kimsede kimlik numarası yazılı kimlik yok, bize geliyorlar "çıkarıyor musunuz" diye. biz o aralar internet cafeler revaçta olduğu için her köşebaşında var bir tane, oraya yönlendiriyoruz.<br/><br/>babam sikerler bu işi deyip 145'le internete bağladı bizi, yeni telefon hattı falan çektirdi. fax modemle cazur cuzur internete girip inkjet yazıcıdan sorgulama ekranını yazdırıp veriyoruz.<br/><br/>ben diyeyim günde 150 tane, siz deyin 250 tane kimlik numarası sorgusu çıkarıyoruz. dükkan altın dönemini yaşıyor 2 sene boyunca. öyle şark kurnazlığı da yapmıyor tabi babam, 1 milyona (eski milyon helecan yapmayın) çıkarıyoruz kişi başı. oradan voleyi vuruyor babam. beni haftasonları burger king'e falan götürüyor, o derece işine yarıyorum.<br/><br/>gel zaman git zaman o iş bitiyor. sonra babam bir hp r65 inkjet yazıcı alıyor. yazıcının asıl olayı renkli fotokopi çekmesi ve fotoğraf kağıdına baskı yapabilmesi. noterlik'ten tapu dairesinden gelen fotoğrafları çoğaltıp çoğaltıp veriyoruz. yetmiyor hafta sonları izmir'in köylerini dolaşıyoruz anadol kamyonetimizle, köy kahvelerini elimizle yazdığımız afişlerle donatıp "gel vatandaş, ananın atanın fotoğrafını büyüttür, çerçevelettir! hem de fotoğrafçının yarı parasına!" diye reklamımızı yapa yapa iş görüyoruz.<br/><br/>her köye gidiyoruz ama, ta anasının örekesinden, izmir'in tire'sine kadar her kahveye tezgah kurup kahveciye günlük kira veriyoruz. kahveciler beni seviyor, akşama kadar gazozlardan para falan almıyor. sanırım halen gazozları o kadar sevmemin sebebi de onlar. bedavaydı çünkü bana, çocuk midemle en fazla 3 tane içebiliyordum günde ne de olsa...<br/><br/>şimdi o furyalar yok, o eski işler de yok. yatırdığımız binlerce liranın dönüşünün seneleri bulması olayı var. babam yok mesela, tek başımayım. farkındayım onun kadar akıllı değilim, belki de onun zamanındaki gibi fırsatlar da yok memlekette. <a class="b" href="/?q=bilemiyorum+altan.">bilemiyorum altan.</a>
 - entry_name: |
     danla bilic
   entry_id:  73515123
   entry_writer: yopbaz
-  entry_fav_count: 64
+  entry_fav_count: 74
   entry_content: |
     kendisiyle barışık filan değildir. sadece kendisiyle barışıkmış rolüyle masum ayakları yapan bir kezbandır. kendisiyle barışık insan ne o kadar botoks yapar ne de o kadar makyaj. hadiniz ordan.
+- entry_name: |
+    15 ocak 2018 e-postama gelen esrarengiz mail
+  entry_id:  73519738
+  entry_writer: my name is paris
+  entry_fav_count: 73
+  entry_content: |
+    (bkz: <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)<br/><br/>not : yazarların attığı entry ile konuyu anlamış bulunuyorum ve tekrar ediyorum.<br/><br/>(bkz: <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)<br/><br/>son not : yazdığım entry hakkında yazarlardan çok teşekkür mesajı geldi. uyardığın için çok sağol diyen oldu ve tekrarlamamı istedikleri için tekrar yazıyorum<br/><br/>(bkz: <a class="b" href="/?q=okuyan%c4%b1+siksinler">okuyanı siksinler</a>)<br/><br/>bokunu çıkarmayalım yeter bu kadar :)
+- entry_name: |
+    bir döneme damga vurmuş iş furyaları
+  entry_id:  73519919
+  entry_writer: ginaly
+  entry_fav_count: 72
+  entry_content: |
+    sene 99 ya da 2000 tam hatırlamıyorum. iş yerimiz tapu dairesinin altında, kırtasiye fotokopi allah ne verdiyse yapıyoruz. kaşe işinden dolayı da bilgisayarımız var. siyah, beko marka. taksitle almışız 10 ay. şeklimiz 1500 iş hanında. derken tc kimlik numarasının dahil olduğu <a class="b" href="/?q=mernis">mernis</a> sistemi devreye girmeye başladı haberleri çıktı. tapu dairesine de yeni yönetmelik geldi, tapuyu kimler alıp satacaksa tc kimlik numarası ekranından çıktıya ihtiyaç var.<br/><br/>e neredeyse kimsede kimlik numarası yazılı kimlik yok, bize geliyorlar "çıkarıyor musunuz" diye. biz o aralar internet cafeler revaçta olduğu için her köşebaşında var bir tane, oraya yönlendiriyoruz.<br/><br/>babam sikerler bu işi deyip 145'le internete bağladı bizi, yeni telefon hattı falan çektirdi. fax modemle cazur cuzur internete girip inkjet yazıcıdan sorgulama ekranını yazdırıp veriyoruz.<br/><br/>ben diyeyim günde 150 tane, siz deyin 250 tane kimlik numarası sorgusu çıkarıyoruz. dükkan altın dönemini yaşıyor 2 sene boyunca. öyle şark kurnazlığı da yapmıyor tabi babam, 1 milyona (eski milyon helecan yapmayın) çıkarıyoruz kişi başı. oradan voleyi vuruyor babam. beni haftasonları burger king'e falan götürüyor, o derece işine yarıyorum.<br/><br/>gel zaman git zaman o iş bitiyor. sonra babam bir hp r65 inkjet yazıcı alıyor. yazıcının asıl olayı renkli fotokopi çekmesi ve fotoğraf kağıdına baskı yapabilmesi. noterlik'ten tapu dairesinden gelen fotoğrafları çoğaltıp çoğaltıp veriyoruz. yetmiyor hafta sonları izmir'in köylerini dolaşıyoruz anadol kamyonetimizle, köy kahvelerini elimizle yazdığımız afişlerle donatıp "gel vatandaş, ananın atanın fotoğrafını büyüttür, çerçevelettir! hem de fotoğrafçının yarı parasına!" diye reklamımızı yapa yapa iş görüyoruz.<br/><br/>her köye gidiyoruz ama, ta anasının örekesinden, izmir'in tire'sine kadar her kahveye tezgah kurup kahveciye günlük kira veriyoruz. kahveciler beni seviyor, akşama kadar gazozlardan para falan almıyor. sanırım halen gazozları o kadar sevmemin sebebi de onlar. bedavaydı çünkü bana, çocuk midemle en fazla 3 tane içebiliyordum günde ne de olsa...<br/><br/>şimdi o furyalar yok, o eski işler de yok. yatırdığımız binlerce liranın dönüşünün seneleri bulması olayı var. babam yok mesela, tek başımayım. farkındayım onun kadar akıllı değilim, belki de onun zamanındaki gibi fırsatlar da yok memlekette. <a class="b" href="/?q=bilemiyorum+altan.">bilemiyorum altan.</a>
+- entry_name: |
+    sinop'un underrated bir il olması
+  entry_id:  73512528
+  entry_writer: viewport
+  entry_fav_count: 71
+  entry_content: |
+    müthiş denizi ve sahilleri, cevizli mantı ve nokulun inanılmaz tadı, yakın dostluklar, rahat ortamı, her noktadan denizin görülebilmesi, temiz havası, yeşile bürünmüş adeta bir amazon hissi yaşatan doğası ve sıcak bir kasaba havası alabileceğiniz türkiyenin belki de en underrated ilidir. <br/><br/>(bkz: <a class="b" href="/?q=erfelek+tatl%c4%b1ca+%c5%9felaleri">erfelek tatlıca şelaleri</a>)<br/>(bkz: <a class="b" href="/?q=hamsilos+koyu">hamsilos koyu</a>)
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  73505756
+  entry_writer: olsa da yemesek
+  entry_fav_count: 53
+  entry_content: |
+    2018'in %4'ünün geride kalmış olması. şu ana kadar yaşadığımız süre zarfından 24 tane daha yaşayınca yılın bitecek olması. neden böyle olması.
+- entry_name: |
+    nuri bilge ceylan
+  entry_id:  73514555
+  entry_writer: bira icelim
+  entry_fav_count: 51
+  entry_content: |
+    <a class="b" href="/?q=tarihsel+bulgular+isiginda+sevisen+adam">tarihsel bulgular isiginda sevisen adam</a> nickli yazarın, burjuvaya burjuvayı anlatır iddiasında bulunduğu yönetmen. şunu öğrenin, bunu bilin öyle gelin gibi bir üslubu tercih etmeyeceğim bu iddiaya cevap verirken. oturaklı bir tartışma kültüründen böyle yaraklıklar yüzünden fersah fersah uzaklaşıyoruz. bir adama fikrine katılmadığını söylemek için, eşantiyon olarak ithamları da dizmemiz gerektiğini bize kim öğrettiyse -varsa- allah onun belasını versin. eğer ana mesele bir tarafın daha çok okuduğu, daha çok araştırdığı ise bu özel mesaj yoluyla tartışılır biter. her neyse. <br/><br/>cumhuriyetin aydınları, bilhassa aziz nesin ve yılmaz güney'in arkadaş gibi filmleri, "bir meseleyi bilal'e anlatır gibi anlatmak," şeklinde özetleyebileceğim yöntemi izleyen aydınlardı. hatta köy enstitüsü çıkışlı kimi yazarların kitaplarına yönelik mükemmel bir incelemeye imza atan kadir cangızbay makalesi okunursa (sosyolojik praksis kitabında bulmak mümkün), projenin köylere atanan chpli öğretmenler gibi politik bir temelinin olduğu da görülebilir. işte köylü hurafelere inanırken, bir anda aydın öğretmen çıkar ve ne hurafesi, bilim şunu söylüyor, doğrusu budur, hurafe yalandır, gericilikltir diye aydınlanmacı bir müdahalede bulunur. geçmiş dönem işlerine imza atan ve bugünün kimi aydınları da böyle bir yöntemi izler. şerif mardin'nin mahalle baskısı ile ilgili programında da nefis bir tespit vardır. cumhuriyet'le birlikte, bir öğretmen kavramı gidiyor taşraya. evet kavramı. öğretmen bir figür, aydınlanmanın sürdürücüsü olarak köylerde ortaya çıkmaya başlıyor vs. her neyse, sonuçta bizim aydınlanma yürüyüşümüzde bir öğretmen - öğrenci kültürü oluşmuş bulunuyor. sözgelimi yılmaz güney'in arkadaş filmine baktığımızda, kör göze parmak bir toplumculuk görürüz. burjuva sınıfa mensup iki zengin erkek, karılarını paylaşmaktan falan söz ederler, bunu da iğrenç bir şekilde "bakın ben canavarım," dercesine yaparlar, yılmaz güney ise bu yozluğa bakar ve allah belanızı versin der. bu, tam bir öğretmenliktir işte. bilal'e anlatır gibi anlatmaktır. iyi midir kötü müdür ya da doğru mudur yanlış mıdır ayrı konu. bu bir yöntemdir. toplumcu gerçekçiliği tek bir yönteme indirgemeli miyiz? işte tartışmamızın kapsamı budur bana kalırsa. ki nbc ile ilgili yazdığım yazıda bunun da altını çizdim. böyle yöntemler var ama nbc bunları benimsemiyor falan dedim. <br/><br/>şimdi bir kültür oluşuyor ister istemez. her şeyde olduğu gibi bizde de bize has bir aydınlanma çabasının kültür hâline geldiği gerçeği ve bu kültüre mensup aydın tayfası mevcut. biz, kültürel değerlerimizi, bir fetişist gibi, sanki korunması gereken bir şeymişçesine fanusun içine hapsetmeye kalkarsak, kültürü dönüştürmeyi parantez içine almış olmaz mıyız? bugün osmanlıcı yaratıklar gibi, kültürümüz de kültürümüz demek, ankaralı namık, ibrahim tatlıses gibi tayfanın alın size kültür diye çirkinleşmesini doğurmaz mı, ne de olsa birilerine göre "halk bunu istiyor," ise, yapılan iş de halk için sanat olup çıkar. kültür, hamurumuzdur ve hamurunu reddetmek gibi beyhude çabalara gerek yoktur. ne var ki kültür bir fanusun içine hapsedilirse, orada ilerleme de mümkün değildir. öyleyse kültürü dönüştürmek, yeniden üretmek gibi şeyler hiç olmadığı kadar önem kazanır bizim gibi toplumlarda. bunun kapsamına, cumhuriyet'in dinamiklerinin ürettiği aydın kültürü de dahil. <br/><br/>bugün, böyle bir çağda, öğretmencilik, ancak bir komedinin konusu olur. ki ben de yazdığım kimi metinlerde "hocanız olarak sizlere şunu söylemek isterim," gibi vurguları mizahın sınırlarına dahil ederek kullanmayı tercih ederim; daha doğrusu metni mizahın sınırlarına bu şekilde yaklaştırırım. geçmiş işlere yapılan bir saygısızlık değil bu. dönem bir mahmut hoca'yı gerektiriyordu ki aydınlarımız böyle bir yöntemle ilerlediler ya da hiçbirisinin aklına böyle bir aydın kültürünü dönüştürmek gelmedi. her neyse, sonuçta, sinemadan gitmek gerekirse, yılmaz güney(şerif gören?) yol filmini çekti ve bence bu öğretmenciliğin aşıldığı bir işti. orada kör göze parmak meselesinin dönüşümünün belki de ilk adımlarından birisini yakaladık.<br/><br/>nbc'nin filmlerinde kişilerin ne gördükleri, ne anladıkları üzerine tartışmak sayfalar sürebilir. iddia sahibi olarak ben ne görüyorum bunu biraz açmalıyım, karşı iddiaya cevap olarak. ben nbc'nin işlerinde, halkla aydın/burjuva arasındaki sessiz çatışmanın nefis bir eleştirisini görüyorum. burada nbc'nin burjuvanın değil, halkın tarafını tuttuğunu ayan beyan görüyorum. kış uykusu'ndaki aydın karakteri ve uzak filmindeki mahmut karakteri, halkı temsil eden karakterlerin ayak kokularıyla uğraşacak kadar ileri giden tipler. nbc bunu bir komedi olarak vurgulamıyor. yine kış uykusu filminde, bir yazar arkadaşın mükemmel yakaladığı, tren bileti alma sahnesinde, halkı temsil eden şoför arkadaşın ayağı kayıp yere düşerken, burjuvanın temsilcisi aydının ayakları kaymıyor. bu bir fotoğraftır ve kim daha çirkindir, aydın mı yoksa şoför mü? uzak filmine bakalım, gümüş saatin kaybolduğu sahnede, burjuva mahmut saati bulur, yüzüne bir pişmanlık yerleşir ama bunu köyden gelen elemandan gizler. kim daha çirkindir? halkın temsilcisi mi yoksa saati çaldığından şüphe ettiğini resmen haykıran, sonra da göt olan ama hatasını kabul etmeyen burjuva mahmut mu? bu, burjuvaya burjuvayı anlatmak mıdır yoksa burjuva ile halk arasındaki sınıfsal çatışmada halkın tarafının tutulması mıdır? isteniyor ki, kör göze parmak şeklinde mesele ortaya konsun. devrimci mücadelenin günümüzde geldiği noktaya bir bakın rica ediyorum. bağırmak, bağırarak anlatmak, bitmiştir. sol, solcuların dönüştürmedikleri kültürden dolayı bir komedinin konusu olup çıkmıştır. "yine niye toplanmışlar?" işte türkiye solcularının mücadelesinin, halk için mücadelesinin halk nezdinde karşılığı budur. buna uyanmak yerine, aynı yöntemde diretmenin devrimci duruşla bir ilgisi var mı? <br/><br/>nbc ne yapıyor? hakikati bağırmadan ama hakikatin içinde olarak, temayı ön plana çıkartarak ve ayarını da vererek girişiyor işe. sapına kadar ilerici ve evet, toplumcu gerçekçi işler yapıyor. kış uykusu'nda imam köpekleşiyor ise, bu imamın orospu çocuğu karakterinden, yani halkın kaypaklığından değil, gelir dağılımı gibi derin meselelerin herifi mecbur bıraktığı bir nokta olarak işleniyor. ki herifin(imamın) kardeşi, kendisine sadaka vererek vicdan rahatlatmaya çalışan orospuya, getirdiği paraları ateşe atarak tavrını koymasını da biliyor. burada nbc burjuvaya burjuvayı mı anlatıyor? yoksa sizin aydın tribinizi sikerim mi diyor. ben ikincisini görüyorum. bu, kendisine entelektüel diyenlere yapılmış bir saldırı ve çağrıdır. halkla aranızda bir uçurum varsa, bu uçurumu siz, tavırlarınızla, eylemlerinizle, yani kendi ellerinizle yarattınız diyor. dolayısıyla iddiamın arkasında duruyorum. ve yinelemek gerekirse: git şunu oku, öğren de gel at arabası gibi ithamlarla değil, düzgünce tartışmayı tercih ederim.<br/><br/>edit: harf hataları.<br/>edit 2: söz konusu yazar arkadaş, üslubundan dolayı özür diledi. bu inceliği burada belirtmeliyim. evet. harika.
 - entry_name: |
     canan kaftancıoğlu
   entry_id:  73506300
@@ -136,33 +143,12 @@ data:
   entry_content: |
     chp’nin içinde, apoyu partiye alsalar ezber bozuluyor diyecek bir tayfa var. bunlar atatürk’ün partisini ele geçirmek üzere. yakın gelecekte atatürkçüler kendilerine partide yet bulamayacaklar.
 - entry_name: |
-    nuri bilge ceylan
-  entry_id:  73514555
-  entry_writer: bira icelim
-  entry_fav_count: 48
-  entry_content: |
-    <a class="b" href="/?q=tarihsel+bulgular+isiginda+sevisen+adam">tarihsel bulgular isiginda sevisen adam</a> nickli yazarın, burjuvaya burjuvayı anlatır iddiasında bulunduğu yönetmen. şunu öğrenin, bunu bilin öyle gelin gibi bir üslubu tercih etmeyeceğim bu iddiaya cevap verirken. oturaklı bir tartışma kültüründen böyle yaraklıklar yüzünden fersah fersah uzaklaşıyoruz. bir adama fikrine katılmadığını söylemek için, eşantiyon olarak ithamları da dizmemiz gerektiğini bize kim öğrettiyse -varsa- allah onun belasını versin. eğer ana mesele bir tarafın daha çok okuduğu, daha çok araştırdığı ise bu özel mesaj yoluyla tartışılır biter. her neyse. <br/><br/>cumhuriyetin aydınları, bilhassa aziz nesin ve yılmaz güney'in arkadaş gibi filmleri, "bir meseleyi bilal'e anlatır gibi anlatmak," şeklinde özetleyebileceğim yöntemi izleyen aydınlardı. hatta köy enstitüsü çıkışlı kimi yazarların kitaplarına yönelik mükemmel bir incelemeye imza atan kadir cangızbay makalesi okunursa (sosyolojik praksis kitabında bulmak mümkün), projenin köylere atanan chpli öğretmenler gibi politik bir temelinin olduğu da görülebilir. işte köylü hurafelere inanırken, bir anda aydın öğretmen çıkar ve ne hurafesi, bilim şunu söylüyor, doğrusu budur, hurafe yalandır, gericilikltir diye aydınlanmacı bir müdahalede bulunur. geçmiş dönem işlerine imza atan ve bugünün kimi aydınları da böyle bir yöntemi izler. şerif mardin'nin mahalle baskısı ile ilgili programında da nefis bir tespit vardır. cumhuriyet'le birlikte, bir öğretmen kavramı gidiyor taşraya. evet kavramı. öğretmen bir figür, aydınlanmanın sürdürücüsü olarak köylerde ortaya çıkmaya başlıyor vs. her neyse, sonuçta bizim aydınlanma yürüyüşümüzde bir öğretmen - öğrenci kültürü oluşmuş bulunuyor. sözgelimi yılmaz güney'in arkadaş filmine baktığımızda, kör göze parmak bir toplumculuk görürüz. burjuva sınıfa mensup iki zengin erkek, karılarını paylaşmaktan falan söz ederler, bunu da iğrenç bir şekilde "bakın ben canavarım," dercesine yaparlar, yılmaz güney ise bu yozluğa bakar ve allah belanızı versin der. bu, tam bir öğretmenliktir işte. bilal'e anlatır gibi anlatmaktır. iyi midir kötü müdür ya da doğru mudur yanlış mıdır ayrı konu. bu bir yöntemdir. toplumcu gerçekçiliği tek bir yönteme indirgemeli miyiz? işte tartışmamızın kapsamı budur bana kalırsa. ki nbc ile ilgili yazdığım yazıda bunun da altını çizdim. böyle yöntemler var ama nbc bunları benimsemiyor falan dedim. <br/><br/>şimdi bir kültür oluşuyor ister istemez. her şeyde olduğu gibi bizde de bize has bir aydınlanma çabasının kültür hâline geldiği gerçeği ve bu kültüre mensup aydın tayfası mevcut. biz, kültürel değerlerimizi, bir fetişist gibi, sanki korunması gereken bir şeymişçesine fanusun içine hapsetmeye kalkarsak, kültürü dönüştürmeyi parantez içine almış olmaz mıyız? bugün osmanlıcı yaratıklar gibi, kültürümüz de kültürümüz demek, ankaralı namık, ibrahim tatlıses gibi tayfanın alın size kültür diye çirkinleşmesini doğurmaz mı, ne de olsa birilerine göre "halk bunu istiyor," ise, yapılan iş de halk için sanat olup çıkar. kültür, hamurumuzdur ve hamurunu reddetmek gibi beyhude çabalara gerek yoktur. ne var ki kültür bir fanusun içine hapsedilirse, orada ilerleme de mümkün değildir. öyleyse kültürü dönüştürmek, yeniden üretmek gibi şeyler hiç olmadığı kadar önem kazanır bizim gibi toplumlarda. bunun kapsamına, cumhuriyet'in dinamiklerinin ürettiği aydın kültürü de dahil. <br/><br/>bugün, böyle bir çağda, öğretmencilik, ancak bir komedinin konusu olur. ki ben de yazdığım kimi metinlerde "hocanız olarak sizlere şunu söylemek isterim," gibi vurguları mizahın sınırlarına dahil ederek kullanmayı tercih ederim; daha doğrusu metni mizahın sınırlarına bu şekilde yaklaştırırım. geçmiş işlere yapılan bir saygısızlık değil bu. dönem bir mahmut hoca'yı gerektiriyordu ki aydınlarımız böyle bir yöntemle ilerlediler ya da hiçbirisinin aklına böyle bir aydın kültürünü dönüştürmek gelmedi. her neyse, sonuçta, sinemadan gitmek gerekirse, yılmaz güney(şerif gören?) yol filmini çekti ve bence bu öğretmenciliğin aşıldığı bir işti. orada kör göze parmak meselesinin dönüşümünün belki de ilk adımlarından birisini yakaladık.<br/><br/>nbc'nin filmlerinde kişilerin ne gördükleri, ne anladıkları üzerine tartışmak sayfalar sürebilir. iddia sahibi olarak ben ne görüyorum bunu biraz açmalıyım, karşı iddiaya cevap olarak. ben nbc'nin işlerinde, halkla aydın/burjuva arasındaki sessiz çatışmanın nefis bir eleştirisini görüyorum. burada nbc'nin burjuvanın değil, halkın tarafını tuttuğunu ayan beyan görüyorum. kış uykusu'ndaki aydın karakteri ve uzak filmindeki mahmut karakteri, halkı temsil eden karakterlerin ayak kokularıyla uğraşacak kadar ileri giden tipler. nbc bunu bir komedi olarak vurgulamıyor. yine kış uykusu filminde, bir yazar arkadaşın mükemmel yakaladığı, tren bileti alma sahnesinde, halkı temsil eden şoför arkadaşın ayağı kayıp yere düşerken, burjuvanın temsilcisi aydının ayakları kaymıyor. bu bir fotoğraftır ve kim daha çirkindir, aydın mı yoksa şoför mü? uzak filmine bakalım, gümüş saatin kaybolduğu sahnede, burjuva mahmut saati bulur, yüzüne bir pişmanlık yerleşir ama bunu köyden gelen elemandan gizler. kim daha çirkindir? halkın temsilcisi mi yoksa saati çaldığından şüphe ettiğini resmen haykıran, sonra da göt olan ama hatasını kabul etmeyen burjuva mahmut mu? bu, burjuvaya burjuvayı anlatmak mıdır yoksa burjuva ile halk arasındaki sınıfsal çatışmada halkın tarafının tutulması mıdır? isteniyor ki, kör göze parmak şeklinde mesele ortaya konsun. devrimci mücadelenin günümüzde geldiği noktaya bir bakın rica ediyorum. bağırmak, bağırarak anlatmak, bitmiştir. sol, solcuların dönüştürmedikleri kültürden dolayı bir komedinin konusu olup çıkmıştır. "yine niye toplanmışlar?" işte türkiye solcularının mücadelesinin, halk için mücadelesinin halk nezdinde karşılığı budur. buna uyanmak yerine, aynı yöntemde diretmenin devrimci duruşla bir ilgisi var mı? <br/><br/>nbc ne yapıyor? hakikati bağırmadan ama hakikatin içinde olarak, temayı ön plana çıkartarak ve ayarını da vererek girişiyor işe. sapına kadar ilerici ve evet, toplumcu gerçekçi işler yapıyor. kış uykusu'nda imam köpekleşiyor ise, bu imamın orospu çocuğu karakterinden, yani halkın kaypaklığından değil, gelir dağılımı gibi derin meselelerin herifi mecbur bıraktığı bir nokta olarak işleniyor. ki herifin(imamın) kardeşi, kendisine sadaka vererek vicdan rahatlatmaya çalışan orospuya, getirdiği paraları ateşe atarak tavrını koymasını da biliyor. burada nbc burjuvaya burjuvayı mı anlatıyor? yoksa sizin aydın tribinizi sikerim mi diyor. ben ikincisini görüyorum. bu, kendisine entelektüel diyenlere yapılmış bir saldırı ve çağrıdır. halkla aranızda bir uçurum varsa, bu uçurumu siz, tavırlarınızla, eylemlerinizle, yani kendi ellerinizle yarattınız diyor. dolayısıyla iddiamın arkasında duruyorum. ve yinelemek gerekirse: git şunu oku, öğren de gel at arabası gibi ithamlarla değil, düzgünce tartışmayı tercih ederim.<br/><br/>edit: harf hataları.
-- entry_name: |
     pegasus airlines
   entry_id:  73504920
   entry_writer: part of me
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     ilgili merkezden izin verilmeden motor çalıştırmanın bile mümkün olmadığı bir sektörde, fazla risk aldığı iddia edilen havayolu şirketi. <br/><br/>çok salaksınız, keşke ölseniz amk...
-- entry_name: |
-    köprüde linç edilen askerlerin yeni görüntüleri
-  entry_id:  73504875
-  entry_writer: ahmetkecas
-  entry_fav_count: 42
-  entry_content: |
-    gerçekleri bize gösteren görüntülerdir.<br/>şu olayı savunmaya çalışanlar önce şunun cevabını verin; <br/>yerli filmlerde pek sık duyduğumuz bir söz vardır.<br/><br/>"türk'e aman dileyene el kalkmaz."<br/><br/>görüntülerde bunu görüyoruz.<br/>teslim olmuş, muhtemelen orada ne işi olduğunu dahi bilmeyem masum erlerin 'aman dilemesi'ni.<br/><br/>peki karşılığı nedir? <br/>köprüden atılmak, boğazlanmak, darp edilmek, lince uğramak.<br/><br/>bir de utanmadan bunu savunurken askerleri kötülemek için ya senin de anne babanı öldürmüş olsalardı minvalinde cümleler kuranlar var.<br/><br/>gören de karşılarında fethullah gülen var sanır.<br/><br/>"askerlere o emri verenin, türk askerine o emri verdirecek duruma gelmesini sağlayanlara sandıkta oy atmayı bilirsiniz."<br/><br/>kilit cümle bu.<br/><br/>daha söylenecek birşey yok.
-- entry_name: |
-    kalçasının üstüne dövme yaptırmanın amacı
-  entry_id:  73518993
-  entry_writer: ama bak simdi
-  entry_fav_count: 37
-  entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcrk%c3%a7esinin+am%c4%b1na+koyman%c4%b1n+amac%c4%b1">türkçesinin amına koymanın amacı</a>)
 - entry_name: |
     ankara soğuğu
   entry_id:  73507496
@@ -178,13 +164,6 @@ data:
   entry_content: |
     90 öncesi doğanlardır. bunu içip karaciğer muayenesine giderdik. bir nevi stress test. karaciğer benchmark'ı da denebilir.
 - entry_name: |
-    14 ocak 2018 abd'nin sınırımızda ordu kurması
-  entry_id:  73505574
-  entry_writer: aydaki ayak izi
-  entry_fav_count: 32
-  entry_content: |
-    bu ülkenin, ekonomisi kötü olsa da, yıllarca terörle mücadele etse de, ekonomik krizler atlatsa da 74’te kıbrıs’a harekat düzenleyecek, cumhurbaşkanı seviyesinde(süleyman demirel) meclisten suriye’yi tüm dünyanın önünde tehdit edecek, rumlarla s300 füzeleri yüzünden ortalığı karıştıracak kadar da taşağı vardı.neden? iyi bir askeri yapılanması, şimdi monşer diye aşağılanan iyi yetişmiş diplomatları, lazım olduğunda işe yarar kurumları vardı. şimdi hinterlandımızı çad, sudan gibi ülkelerle oluşturmaya çalışıyoruz. 15 temmuzda ordu fetöcüler yüzünden varolduğu tarihten bu yana görmediği bir travma yaşadı. dış politikada pragmatik davranmıyoruz, birbiri ile düşman iki ülkeyle aynı anda düşman oluyoruz. geldiğimiz noktada, abd sınırımıza bize sorma gereği bile duymadan bizim yıllardır savaştığımız adamlardan teşekkül ordu kuruyor. son tahlilde ülke olarak dünya sahnesinde çok yalnız kaldık.
-- entry_name: |
     rte'nin kafasındaki demokrasi anlayışı
   entry_id:  73518398
   entry_writer: ismin e hali
@@ -192,26 +171,19 @@ data:
   entry_content: |
     ben anlamıyorum.<br/>sen anlamıyorsun.<br/>abdullah gül anlamıyor.<br/>bülent arınç anlamıyor.<br/>kemal kılıçdaroğlu anlamıyor.<br/>selahattin demirtaş anlamıyor.<br/>etyen mahçupyan anlamıyor.<br/>mehmet altan anlamıyor.<br/><br/>bir kendisi anlıyor. bir de büyük önder devlet bahçeli.<br/>anlatsanıza bizim gibi aptallara nedir tayyip erdoğan'ın kafasındaki demokrasi anlayışı?<br/><br/>medyaya baskı - var <br/>yargıya müdahale - var<br/>seçimlere müdahale - var<br/>seçilmiş belediye başkanlarını görevden almak - var<br/>rektör seçimlerine müdahale - var<br/>ulan futbol federasyonu seçimlerine müdahale bile var.<br/>anlatsanıza nasıl bir şey tayyip erdoğan'ın kafasındaki demokrasi anlayışı.
 - entry_name: |
-    meral akşener'e sitem eden musevi asıllı vatandaş
-  entry_id:  73519221
-  entry_writer: hgzr
-  entry_fav_count: 27
+    galatasaray turkcell reklam filmi
+  entry_id:  73520722
+  entry_writer: theeye
+  entry_fav_count: 28
   entry_content: |
-    amerika'daki yanlı yahudi lobisinden cesaret madalyası alınmasını eleştirmek yahudi düşmanlığı değildir. kimse kimseyi kandırmasın.
+    galatasaray'ın ilk formasının, ali sami yen ve arkadaşları tarafından nasıl yaptırıldığının hikayesini anlatan turkcell-galatasaray reklam filmi.<br/><br/>film olsa izlenir derecesinde güzel bir çalışma olmuş.bir ara odamda bir ninja sanırım soğan doğruyordu gözüm yaşardı..<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.turkcell.com.tr/gsdestek" title="https://www.turkcell.com.tr/gsdestek">galatasaray ilk günkü reklam filmi</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=kTpOmhAlzr4" title="https://www.youtube.com/watch?v=kTpOmhAlzr4">youtube linki</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.galatasaray.org/s/renklerin-oykusu/15" title="http://www.galatasaray.org/s/renklerin-oykusu/15">gs forma rengi tarihçesi hakkında</a><br/><br/>edit:youtube link, açıklama ve gs forma rengi ile ilgili link
 - entry_name: |
     aydın boysan'ın cenaze namazı kılınmamalıydı
   entry_id:  73507264
   entry_writer: nenay
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     başkasının inancını sorgulamak size mi düşüyor ? sen mi karar vereceksin adamın inancına? arap gibi giyinip, arap gibi davranmadığı için mi inançsız oldu adam. <br/><br/>kul hakkı yemek ne oluyordu islama göre? bizim vergilerimizi toplayıp kendi ceplerine atanlar sırf arap gibi davrandıkları için daha inançlı mı oluyorlar. <br/><br/>sizi ikiyüzlü, şekilci pezevenkler sizi.
-- entry_name: |
-    tek başına sinemaya gitmek
-  entry_id:  73506202
-  entry_writer: gunebakandolmakalem
-  entry_fav_count: 19
-  entry_content: |
-    - 16.45 seansında yer var mı?<br/>- hemen bakıyorum.. maalesef beyefendi tek bir koltuğumuz kaldı.<br/>- e tamam varmış işte, süper.<br/><br/>öyle bir baktı ki eleman, abi kıyamam sana ya bekle sonraki seansa birlikte gidelim demesinden korktum.
 - entry_name: |
     ekşi itiraf
   entry_id:  73505244
@@ -220,27 +192,6 @@ data:
   entry_content: |
     çok korkuyorum , zaten sınırda çalışıyorum, bu kadar askeri , tankı bir daha bir arada görmek istemiyorum. şu an tek güvendiğim şey askerlerimizin gücü, lütfen bu nesil savaş görmesin , bu millet bir daha savaş görmesin.
 - entry_name: |
-    ntv spor
-  entry_id:  73515010
-  entry_writer: yarasiz yuz
-  entry_fav_count: 16
-  entry_content: |
-    arkadaşlar ciddi misiniz? çok ender görülen bir olay için beşiktaş'ın görüntüleri kesildi, biraz anlayış! iki senedir ayağına top değmemiş bir <a class="b" href="/?q=adam">adam</a> ilk defa topla buluşuyor.
-- entry_name: |
-    90'lı yıllarda tr'de olup da şimdi olmayan şey
-  entry_id:  73507112
-  entry_writer: butundunyaaskolsun
-  entry_fav_count: 16
-  entry_content: |
-    kaliteli pop muzik, dogallik, komsuluk. her sey cöp artik.
-- entry_name: |
-    arif v 216
-  entry_id:  73507209
-  entry_writer: dergus
-  entry_fav_count: 15
-  entry_content: |
-    yeşilçam seven adamı güldürür mü bilmem ama ağlatma potansiyeline sahip filmdir.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kerem alışık sadri alışık'a veda ederken bir benim mi gözlerim doldu lan?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>10 numara olmuş, izlemek için sağlam eski türk sineması genel kültürü gerekiyor. hepsi bu.
-- entry_name: |
     netflix türkiye'nin black mirror reklamı
   entry_id:  73516429
   entry_writer: immanuel tolstoyevski
@@ -248,19 +199,33 @@ data:
   entry_content: |
     arkadaşlar, tamamen hedefini şaşmış <a class="b" href="/?q=elitizm">elitizm</a>inizi görüyorum ve arttırıyorum:<br/><br/>"black mirror izleyen, a+ müşteri profilindeki biri olarak, esra erol seven orklarla bir tutulmak istemiyorum" diyen cücelerle bir tutulmak istemiyorum.<br/><br/>hem black mirror seven, hem de bu reklamdaki kara mizahı anlamış, a++ profilindeki biz elflerin, "üyeliğimi iptal ettireceğim" diyenlerle aynı üyelik seviyesine sahip olması kabul e-di-le-mez. <br/><br/>eyy netflix! ya "siz istifa etmiyorsunuz, ben sizi kovuyorum" diyerek bunları acilen tasfiye edeceksin, ya da bizim gibilere elite plus üyelik çıkaracaksın. yoksa üyeliğimi iptal etmeyi düşünüyorum.<br/><br/>**<br/><br/>not 1: tabii ki amerikadaki orijinal netflix'e üyeliğimden bahsediyorum, çakma netflixlerle işim olmaz. a+++ madırfakırs!<br/><br/>not 2: ayrıca prensibimdir, sevmediğim bir şey olursa amerikan başkanı dahil <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/amysenem/status/952547925854507009" title="https://twitter.com/amysenem/status/952547925854507009">herkesin kovulması gerek</a>.<br/><br/>ciddili not: "reklam kalitesiz" veya "param esra erol'a gitmesin" diyenlere lafım yok. buradaki tek esrarengiz olay zaten o kadının reklamda oynaması -üstelik "kötü" rolünde- ve bunu sosyal medyadan duyurması. müşteri profiline aykırı hareket eden netflix'ten ziyade esra erol.
 - entry_name: |
-    memleketine göre insan fişleyen tipler
-  entry_id:  73521458
-  entry_writer: normalman
-  entry_fav_count: 12
-  entry_content: |
-    buna en güzel cevabı <a class="b" href="/?q=ya%c5%9far+kemal">yaşar kemal</a> vermiştir.<br/><br/>“o insana güvenmeyen, bu insana güvenmeyen, her insanda bir kötülük gören, insanı insan saymayan ‘insan‘ değil piçtir yavrum.”
-- entry_name: |
     insanlara maaşını sormak
   entry_id:  73517603
   entry_writer: yohari
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     ayni ya da benzer sektörde olup ancak farkli sirketlerde calisan insanlarin kesinlikle yapmasi gereken davranis.<br/><br/>piyasadaki degerinizi bilmek size daha iyi pazarlik kozu verdigi gibi, sektör, sirket degisimi gibi konularda geleceginizi daha iyi planlamaniza yardimci olur.<br/><br/>"maas sormak ayiptir" önyargisindan cikmazsaniz patronlar daha cok sömürür sizi. emin olun o patronlariniz sizin ve kendilerinin is piyasasindaki degerini sizden daha iyi biliyor.
+- entry_name: |
+    cumhuriyet halk partisi
+  entry_id:  73507847
+  entry_writer: uskudari gecen atli
+  entry_fav_count: 13
+  entry_content: |
+    sozlukte kisa bir gozlem yapilirsa son politikalarini en cok savunanlarin orospu evladi hdp/pkkli yazarlar oldugu gorulur.<br/><br/>bu partiye bu utanc yeter. dagda esek sikmesi gereken kodugumun pici gelmis burda alti okundan birinin milliyetcilik oldugu partiye oy verenlere"soz bosko portoyo oy voron" diyor.<br/><br/>yazik benim ulkeme... ataturk'un partisinde tr 705 kod adli ajan kosturuyor mk. amerika ajani. adam yatiyor kalkiyor "pkklilari oldurmeyelim, siha kullanmayalim" diyor. genel baskani desen zaten vasifsiz bir mudur. o da seyit riza teroristine "insan" hendekci piclere "hendek kazan arkadaslar" demisti.<br/><br/>neresinden tutsan elinde kalacak bu parti kemal kilicdaroglu zihniyeti ile yuzyil gecse de iktidar olamaz.
+- entry_name: |
+    sözlükteki uzun yol seven yazarlar
+  entry_id:  73520774
+  entry_writer: thestoryofus
+  entry_fav_count: 10
+  entry_content: |
+    ben. <br/>ara sıra kafam esince arabaya atlayıp nereye gittigimi bilmeden yaptığım eylem. <br/>yollarda olmak, yalnız kalmak, yalnızlığı iliklerime kadar hissetmek istiyorum. başka da çarem yok gibi geliyor.
+- entry_name: |
+    bitcoin
+  entry_id:  73505076
+  entry_writer: estebanin sakasi yoktur
+  entry_fav_count: 9
+  entry_content: |
+    sözlükten tıklayarak üye olduğunuz siteler referanslı link ve sizden fazla ücret alıyor. o yüzden bir borsaya üye olacaksanız google da adını aratıp öyle girin.<br/><br/>(bkz: <a class="b" href="/?q=combo+breaker">combo breaker</a>)<br/><br/>şimdi sabaha kadar yazın amına koduklarım.
 - entry_name: |
     tron coin
   entry_id:  73514328
@@ -268,20 +233,6 @@ data:
   entry_fav_count: 8
   entry_content: |
     devlet bahçeli'nin de yatırımcısı olduğu coin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DTkrjs1W4AAvU1m.jpg:large" title="https://pbs.twimg.com/media/DTkrjs1W4AAvU1m.jpg:large">https://pbs.twimg.com/…ia/dtkrjs1w4aavu1m.jpg:large</a>
-- entry_name: |
-    sözlükteki uzun yol seven yazarlar
-  entry_id:  73520774
-  entry_writer: thestoryofus
-  entry_fav_count: 8
-  entry_content: |
-    ben. <br/>ara sıra kafam esince arabaya atlayıp nereye gittigimi bilmeden yaptığım eylem. <br/>yollarda olmak, yalnız kalmak, yalnızlığı iliklerime kadar hissetmek istiyorum. başka da çarem yok gibi geliyor.
-- entry_name: |
-    galatasaray turkcell reklam filmi
-  entry_id:  73521424
-  entry_writer: bodybuilder
-  entry_fav_count: 8
-  entry_content: |
-    izleyipte duygulanmayan bir galatasaraylı olduğunu zannetmiyorum. gerçekten çok başarılı bir kısa film olmuş. <br/><br/>ayrıca galatasaray'ın kuruluşuna dair bir film çekilse ne de güzel olurdu diye düşündürmedi değil. o dönem yabancı güçler tarafından ezilip bastırılan memleketin içindeki yabancı takımlara karşı oynayan, özellikle "ülke içindeki türk olmayan takımları yenmek" üzerine kurulmuş bu tarihi kulübün, yabancı takımları yenerek, seneler sonra tam bağımsızlığını kazanacak olan türk milli bilinci birleştirip, kuvvetlendirdiğini konu alan güzel bir film ne de güzel olurdu.
 - entry_name: |
     adana'da engelli bir genci linç eden ahlaksızlar
   entry_id:  73508770
@@ -293,9 +244,16 @@ data:
     intikam almak için tanımadığı biriyle yatan kadın
   entry_id:  73520193
   entry_writer: muhendiskafasi
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     sözlükteki erkeklerin derdi olmuş kadın.<br/>maşallah herkes de orospu demiş. kimse aldatan kocaya/adama pezevenk dememiş.<br/>canımlar yaaa, hepinizin çükü düşsün inşallah <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+- entry_name: |
+    diş fırçalamayan insan
+  entry_id:  73509436
+  entry_writer: what is going on around here
+  entry_fav_count: 6
+  entry_content: |
+    sabah akşam ikişer dakikasını dişlerine ayırmayı çok gören insan. <br/><br/>çok doluyum ben bu konuda. ağız kokusuna katlanamıyorum. mide rahatsızlığın vardır, dişinde sorun vardır, hastasındır; her insanın ağzı bu durumlarda kokabilir. her derdin çaresi var güzel insanlar. diş fırçalamamak ise bir seçim. dişini fırçalamayan, dibime girip yüzüme hohlaya hohlaya konuşmakta sakınca görmeyen, en başta kendine saygısı olmayan başlığa konu olmuş insanlar; en fazla iki dakikalık bir eylem için küfür ettirmeyin kendinize. <br/><br/>kendimi bildim bileli dişlerimi düzenli fırçalarım. huyumu bilen dişlerini fırçalamayan bir arkadaşım diş fırçalamanın gereksiz olduğunu ima etti bir keresinde. <br/>"dişlerimin üzerinde tabaka oluşuyor, rahatsız oluyorum" deyince "işte ben o tabaka olmadan yaşayamıyorum" dedi. bu seviyedeki durumlarda elden bir şey gelmiyor pek. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>on günlük tatilde yanına diş fırçası almayanlar, sadece dişçiye giderken dişlerini fırçalayanlar gördüm. ben sigara içiyorum zaten fırçalasam da fark etmez diyenler duydum.<br/><br/>nolur fırçalayın dişlerinizi. siz de seveceksiniz diş fırçalamayı, alışacaksınız ona. hatta diş ipi ve ağız bakım suyuyla taçlandırın bu güzel eylemi. kimse iş yerinde dedikodunuzu yapamasın, okulda sizi görünce yüzünü ekşitemesin. geleceğe yatırım bir kere. hadi fırçalarla lavabolara!
 - entry_name: |
     ekşi siyasetçiler &amp; osman ertürk özel zirvesi
   entry_id:  73519441
@@ -304,26 +262,75 @@ data:
   entry_content: |
     27 ocak 2018 tarihinde <a class="b" href="/?q=iyi+parti+gen%c3%a7lik+kollar%c4%b1">iyi parti gençlik kolları</a> kurucu başkanı ve iyi parti kurucular kurulu üyesi <a class="b" href="/?q=osman+ert%c3%bcrk+%c3%b6zel">osman ertürk özel</a> ile <a class="b" href="/?q=ankara">ankara</a>'da gerçekleşecek zirvedir. <br/><br/>her türlü ideolojiye açık bir yapı olan <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler">ekşi siyasetçiler</a>'in 20.zirvesi olacaktır. <br/><br/>zirvelerin verimli geçebilmesi, herkesin söz alabilmesi ve istediği soruyu sorabilmesi için katılımcı sayımız sınırlıdır. başvuru için <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/spiritus-sanctus" title="https://eksisozluk.com/biri/spiritus-sanctus">spiritus sanctus</a> <sup class="ab"><a title="(bkz: yani ben)" href="/?q=yani+ben" data-query="yani ben">*</a></sup>'a mesaj atabilirsiniz.<br/><br/>ekşi siyasetçiler'i hala bilmiyor ve kim olduğunu merak ediyorsanız; <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisiyasetciler.com/hakkimizda/">https://eksisiyasetciler.com/hakkimizda/</a><br/><br/>bugüne kadar yapılan zirveler; <br/><br/>(bkz: <a class="b" href="/?q=aylin+nazl%c4%b1aka+ile+yazarlar+zirvesi">aylin nazlıaka ile yazarlar zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ankara+milletvekili+murat+emir+ve+yazarlar+zirvesi">ankara milletvekili murat emir ve yazarlar zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+mansur+yava%c5%9f+ankara+zirvesi">ekşi siyasetçiler &amp; mansur yavaş ankara zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+zeynep+g%c3%bcrcanl%c4%b1+ankara+zirvesi">ekşi siyasetçiler &amp; zeynep gürcanlı ankara zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+mustafa+%c3%b6nsel+zirvesi">ekşi siyasetçiler &amp; mustafa önsel zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+aykut+erdo%c4%9fdu+zirvesi">ekşi siyasetçiler &amp; aykut erdoğdu zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+%c3%bcmit+%c3%b6zda%c4%9f+zirvesi">ekşi siyasetçiler &amp; ümit özdağ zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+ismail+saymaz+zirvesi">ekşi siyasetçiler &amp; ismail saymaz zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+ocak+ba%c5%9fkanlar%c4%b1+zirvesi">ekşi siyasetçiler &amp; ocak başkanları zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+emre+kongar+zirvesi">ekşi siyasetçiler &amp; emre kongar zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+levent+g%c3%bcltekin+zirvesi">ekşi siyasetçiler &amp; levent gültekin zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+nihat+gen%c3%a7+zirvesi">ekşi siyasetçiler &amp; nihat genç zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+ali+t%c3%bcrk%c5%9fen+zirvesi">ekşi siyasetçiler &amp; ali türkşen zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+kemal+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu+zirvesi">ekşi siyasetçiler &amp; kemal kılıçdaroğlu zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+adalet+kurultay%c4%b1+%c3%a7al%c4%b1%c5%9ftay%c4%b1">ekşi siyasetçiler &amp; adalet kurultayı çalıştayı</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+tuncay+%c3%b6zkan+zirvesi">ekşi siyasetçiler &amp; tuncay özkan zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+ihsan+elia%c3%a7%c4%b1k+zirvesi">ekşi siyasetçiler &amp; ihsan eliaçık zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+s%c3%b6zl%c3%bck+yazarlar%c4%b1+zirvesi">ekşi siyasetçiler &amp; sözlük yazarları zirvesi</a>)<br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+siyaset%c3%a7iler+%26+bar%c4%b1%c5%9f+doster+zirvesi">ekşi siyasetçiler &amp; barış doster zirvesi</a>)
 - entry_name: |
-    turan özdemir
-  entry_id:  73518966
-  entry_writer: adam fawer
-  entry_fav_count: 2
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  73511751
+  entry_writer: keten prens
+  entry_fav_count: 4
   entry_content: |
-    vefat haberi geldi, çok üzgünüm.<br/>çok güzel bir insandı...<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.kenttv.net/haber.php?id=40644" title="http://www.kenttv.net/haber.php?id=40644">haber</a>
+    geçenlerde birisi ''askerdeyim, derdini anlatmak isteyen yazsın.'' demişti.<br/>klasdjlkasd.<br/><br/>ulan son yıllarda okuduğum en güzel espri. adam askerde ve dert dinlemek istiyor. fıkra gibi ülke jasdjklşa.<br/><br/>ayrıca kirilmisss sarhoşken alınan bir nick. taam mı?<br/><br/>çok şekil veritabanı.<br/><br/>edit: bak bak aşağılarda akademik izinde olanlar var. kızların donundan boşalıyor valla zevk suları. koşun ulan koşun kaçırmayın dohtoru.
+- entry_name: |
+    uçurumun kenarına uçak pisti yapmak
+  entry_id:  73521595
+  entry_writer: kartal kalkar dal sarkar
+  entry_fav_count: 3
+  entry_content: |
+    trabzonla sinirli degildir. ayrica ucurum degildir. havacilikla ilgilenenler bilir, abd dahil bircok ulkede deniz kiyisinda pistler vardir. hatta su biter arada az toprak vardir pist baslar. tum havaalani planlamacilari genis arazinin ortasina havaalani planlamak ister, ama bircok kriter ve gunumuzdeki yogun kentlesme nedeniyle mumkun degildir
 - entry_name: |
     gerçek balı anlamanın yolu
   entry_id:  73518653
   entry_writer: wiggin
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     şeker hastalarına( diabetus "mellitus") bal önerenlerinki muhtemelen sahtedir. satan da aklını kaybetmiştir.
 - entry_name: |
-    sözlükçülerin iş ile ev arası yolculuk süreleri
-  entry_id:  73522427
-  entry_writer: hayatdevamediyor
+    memleketine göre insan fişleyen tipler
+  entry_id:  73522373
+  entry_writer: olmasa olur mu
+  entry_fav_count: 2
+  entry_content: |
+    gerçekten doğup büyüdükleri çevrenin insanları etkilemeyeceğini düşünecek kadar aptal mısınız amk? gizli soru değil cidden soruyorum.
+- entry_name: |
+    kadınlar yatakta ne ister
+  entry_id:  73521301
+  entry_writer: belkibirgun11
+  entry_fav_count: 2
+  entry_content: |
+    afedersin yarrak
+- entry_name: |
+    rahatsız edici gerçekler
+  entry_id:  73507522
+  entry_writer: kesyapistirmikelanj
+  entry_fav_count: 1
+  entry_content: |
+    şu anasını sattığımın kahvesini içersem uykumun kaçtığı gerçeği. mal mal karanlığa bakıyor, kendi kendime espri yapıp gülüyorum. yarın güneş yarrak gibi doğacak benim için.<br/><br/>bu arada noluyor azizim alayınız filozof olmuşsunuz. yıldız tozları, başka gezegenler... kokoyu azaltın yaramıyor size.
+- entry_name: |
+    kürtlerin yurtdışında türküm demesi
+  entry_id:  73510059
+  entry_writer: ftck
+  entry_fav_count: 1
+  entry_content: |
+    türkiye'de yaptıkları kürtçülüğü başka yerde yapamamalarından süre gelen durum.
+- entry_name: |
+    dolores o'riordan
+  entry_id:  73521637
+  entry_writer: hayrullah amazingogullari
+  entry_fav_count: 1
+  entry_content: |
+    80'lerde doğmuş birçok türk gencini <a class="b" href="/?q=zombie">zombie</a> şarkısıyla yabancı müzikle tanıştırmış insandır. ölümünü duymak üzücü oldu.
+- entry_name: |
+    turan özdemir
+  entry_id:  73522464
+  entry_writer: ogu
   entry_fav_count: 0
   entry_content: |
-    50 saniye
+    allah rahmet eylesin. iş yerinde saçmalıklara daraldıkça kullandığım şerefsizim bir cinnete bakar sözü öksüz kaldı.
+- entry_name: |
+    sözlükçülerin iş ile ev arası yolculuk süreleri
+  entry_id:  73521786
+  entry_writer: muharrem89
+  entry_fav_count: 0
+  entry_content: |
+    araba ile 10 dakikaya ervis ile 25 ya tekabül eden süredir. mesafeolarak yaklaşık 7 km dir
 - entry_name: |
     okuduğun üniversiteyi söylemeden anlat
   entry_id:  73505588
@@ -332,24 +339,17 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=lord+eddard+stark">lord eddard stark</a>)
 - entry_name: |
-    kürtlerin yurtdışında türküm demesi
-  entry_id:  73510059
-  entry_writer: ftck
+    neo
+  entry_id:  73513606
+  entry_writer: dozzi89
   entry_fav_count: 0
   entry_content: |
-    türkiye'de yaptıkları kürtçülüğü başka yerde yapamamalarından süre gelen durum.
+    bu gidişle değil, zaten hakettiği rakamlar an itibariyle 400-500 eylül 2018 itibariyle 700-800 dolardır. <br/>ben biriktiriyorum, fiyat iniş çıkışları olabilir.<br/>ytd...
 - entry_name: |
-    kadınlar yatakta ne ister
-  entry_id:  73521301
-  entry_writer: belkibirgun11
+    izmir soğuğu
+  entry_id:  73512864
+  entry_writer: bulentersoyunpsikologu
   entry_fav_count: 0
   entry_content: |
-    afedersin yarrak
-- entry_name: |
-    dolores o'riordan
-  entry_id:  73521637
-  entry_writer: hayrullah amazingogullari
-  entry_fav_count: 0
-  entry_content: |
-    80'lerde doğmuş birçok türk gencini <a class="b" href="/?q=zombie">zombie</a> şarkısıyla yabancı müzikle tanıştırmış insandır. ölümünü duymak üzücü oldu.
+    lisedeki coğrafya hocamız yıllarca erzurum'da yaşadıktan sonra izmir'e yerleşmiş. "izmir'de 0'ı yaşayacağıma erzurum'da -40'a razıyım." diye anlatırdı hep.
 ---
