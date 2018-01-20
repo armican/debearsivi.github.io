@@ -6,63 +6,56 @@ data:
     400 tl'ye kendi arabasını yapan genç
   entry_id:  73622442
   entry_writer: i am not noob
-  entry_fav_count: 507
+  entry_fav_count: 509
   entry_content: |
     iddia ettiği üzere 400 tl'ye kendi arabasını yapan genç. <br/><br/>yaşıtları gibi sanal dünyada hipnoz olmak yerine, gerçek dünyada çok güzel bir iş başarmış. eline sağlık kardeşim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=NNSjcGWUFmo">https://www.youtube.com/watch?v=nnsjcgwufmo</a><br/><br/>edit: link güncellendi.<br/>kardeşimize abone olmayı unutmayalım.
 - entry_name: |
     oğlunun doğum gününde striptizci çağıran milyoner
   entry_id:  73630365
   entry_writer: miafori
-  entry_fav_count: 476
+  entry_fav_count: 485
   entry_content: |
     acilen o çocuğu aileden alın beni verin.
 - entry_name: |
     ocak 2018 elektrik faturaları
   entry_id:  73627014
   entry_writer: pisduvar
-  entry_fav_count: 395
+  entry_fav_count: 397
   entry_content: |
     elektrik kullanımım en son 19.11.2017 de okunmuş ve faturalandırılmış. yani aralık pas geçilmiş ve ocak ile beraber gelen zamlı tarife ile 2 aylık kullanımım hesaplanmıştır. bu başlığın gündemde tutulması lazım, vatandaş istene istene biline biline soyuluyor. vatandaş sahipsiz, vatandaşı sermayeye yem ettiler.<br/><br/>edit: oepsaş
 - entry_name: |
     recep tayyip erdoğan'a gazi unvanı verilmesi
   entry_id:  73629648
   entry_writer: ramachandran
-  entry_fav_count: 335
+  entry_fav_count: 338
   entry_content: |
     zamanında attan düştüğü için verilebilir. adam çok büyük tehlike geçirdi. eziliyordu.
-- entry_name: |
-    19 ocak 2018 jolly joker bülent ersoy rezaleti
-  entry_id:  73623650
-  entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 328
-  entry_content: |
-    yeni açılan jolly joker vadistanbul'da bülent ersoy'un çıkacağını duyunca, bülent ersoy'u canlı izlemeyi çok isteyen eşime bir sürpriz yapıp iki bilet aldım. orta bistro bölümünden iki bilete sanıyorum 300-350 tl bir para verdim. sahne önünde oturanlar sanıyorum bunun iki katı, loca alanlarsa üç katı bir para ödemiştir. paradan daha önemlisi çok da evden çıkmayan bir çift olarak bu gece için özellikle beklememiz, heyecanlanmamızdı. bülent ersoy gibi muhteşem bir sesi canlı izleyecektik.<br/><br/>mekana biraz erken gittik, bistro kısmında adımıza ayrılmış masamıza oturduk. keyifle içeceklerimizi söyledik, bülent hanımın sahneye çıkmasını bekledik. biraz rötarlı olsa da sonunda çok sevdiğimiz "bir ben bir allah biliyor" ile sahneye çıktı.<br/><br/>eşim "kadına bak ya, plak gibi söylüyor" dedi... ben de hak verdim ama sanki böyle bir lip-sync anomalileri de seziyorum... kadının ağzı uymuyor şarkıya, dudaklar tutmuyor.<br/><br/>"ya galiba play back yapıyor" dedim ama, dediğim şey o kadar saçma geliyor ki bana da... koskoca bülent ersoy herhalde play back yapmaz, öyle bir durum olsa konseri iptal eder diye düşünüyorum. <br/><br/>"bir teselli ver"e geçti. döktürüyor ama bu sefer de ya arkasını dönüyor ya bir şekilde ağzını saklıyor anlayamıyorum ne olduğunu...<br/><br/>dördüncü parçadan sonra seyirciye hitaben konuştu nihayet. ses yok...<br/><br/>sesi kısık ki ne kısık... sonra başladı "ay hiç sevmem seyirciyi kandırmayı", "size borcum olsun" filan... sonra sahneye zeynep mansur'u çıkarttı şarkı söylemesi için.<br/><br/>zeynep mansur dinlemeye gitmedi ki o kadar insan oraya... cd dinlemeye hiç gitmedi...<br/><br/>zeynep mansur detone olarak iki şarkı okudu. biz de hesabı isteyip kalktık. <br/><br/>bülent ersoy sahneye konmuş jozefin koltukta yan gelmiş yatıyor, önde hiç konserine ya da çalıştığı mekana gitmeyi hiç düşünmeyeceğim bir kadın şarkı söylemeye çalışıyor, dayanamadık.<br/><br/>yahu konseri niye ertelemezsin? playback okumak ne demek? sen bülent ersoy'sun, insanlar senin sesini canlı dinlemek, "vay be ne okuyor" demek, performansına şahit olmak için konserlerine geliyor... <br/><br/>bu seyirciye yapılan çok büyük bir saygısızlık. hatta daha da ileri gideyim, neredeyse dolandırıcılık... <br/><br/>rezalet puanını siz kaç verirsiniz bilmem ama bizim için özel bir gecenin içine edildi bülent ersoy, jolly joker işbirliğiyle...<br/><br/>edit: bülent ersoy hayranı olmanız bile rezalet zaten diyenler olmuş. tam tersi; bülent ersoy hayranı değiliz... bazı sesler vardır, bir kere canlı dinlemek, sahnede görmek hoştur. erol evgin, sezen aksu, ajda pekkan, rahmetli cem karaca, barış manço, zeki müren gibi. güzel anılar bunlar. gerçi işte bülent ersoy kötü bir anı oldu sonuçta...
 - entry_name: |
     noam chomsky'nin afrin çağrısı
   entry_id:  73629226
   entry_writer: lightofearendil
-  entry_fav_count: 291
+  entry_fav_count: 298
   entry_content: |
     uluslararası terörizm nedir sorusuna abd ordusu cevabı veren, avrupa için aşırı ırkçı ilerliyor diyen ve aynı zamanda israil'in filistin'e karşı hareketlerini vahşet olarak tanımlayan bir adamdır aynı zamanda, itin adına sahibi konuşuyormuş. bilmeden yazmak en yaygın davranışlarımızdan biri tabii.<br/><br/>yazdıklarına katılırız, katılmayız ama tüm düşünceleri dikkatle değerlendirilmesi gereken önemli düşünürlerden biridir.<br/><br/>edit: bildiriyi okudum, hiçbir yerinde "barış içinde bir cennet" falan yazmıyor, nasıl tercüme etmiş bu insanlar inanamıyorum.
 - entry_name: |
     yazarların ölmek üzereyken söyleyeceği 2 kelime
   entry_id:  73623164
   entry_writer: ereksiyon ferhat
-  entry_fav_count: 281
+  entry_fav_count: 283
   entry_content: |
     (bkz: <a class="b" href="/?q=imam+hatipler">imam hatipler</a>)
 - entry_name: |
     okul müdüründen velilere gönderilmiş tatil mesajı
   entry_id:  73621566
   entry_writer: muhendiskafasi
-  entry_fav_count: 279
+  entry_fav_count: 281
   entry_content: |
     müdüre sis bunun için para alıyorsunuz diyen dangozları yağmurda salyangozlar gibi ortaya çıkaran mesaj.<br/>sen çocuğuna herhangi birinin ya da kurumun malına zarar vermemeyi öğretme, sonra gel öğretmenlerin/okul müdürlerinin senin gerizekalı şımarık bebene sabretmek için maaş aldıklarını söyle. sen ne olmuşsun ki senden çıkacak ne olsun.
 - entry_name: |
     20 ocak 2018 abd hükümetinin kapanması
   entry_id:  73626493
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 234
+  entry_fav_count: 238
   entry_content: |
     * piyasalar acik, borsa etkilenmiyor.<br/>* 1 milyondan fazla memur ucretsiz izne cikartiliyor.<br/>* hukumet bu zamana kadar 15 defa kepenk kapatti.<br/><br/>konuyu kisaca ozetlemek gerekirse;<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>federal hükümetin para harcayabilmesi için kongre’nin bütçeyi onaylamış olması gerek. trump yönetiminin para harcama yetkisi cuma gece yarısı dolacak. senato’dan geçici erteleme için onay çıkmazsa, gece yarısından itibaren abd’de, devletin acil ve kritik hizmetler dışındaki tüm faaliyetlerini duracak.<br/><br/>asayiş kolluğu, itfaiye, meteoroloji, devlet hastaneleri, posta servisi, hava trafik kontrol hizmetleri, silahlı kuvvetler ve hapishaneler görevine devam edecek hizmetler. bu acil hizmetler dışındaki devlet daireleri çalışamaz. pazartesi sabahı acil hizmetler dışındaki memurlar işe geldikten 4 saat sonra zorunlu ücretsiz izne çıkarılacak. çünkü, devletin kongre’den yetki olmadan para harcaması anayasaya aykırı.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yeni baslayanlar icin <a rel="nofollow noopener" class="url" target="_blank" href="http://amerikabulteni.com/2018/01/19/yeni-baslayanlar-icin-abdde-federal-devletin-kepenk-kapatmasi-tartismasi-klavuzu/" title="http://amerikabulteni.com/2018/01/19/yeni-baslayanlar-icin-abdde-federal-devletin-kepenk-kapatmasi-tartismasi-klavuzu/">abd kilavuzu</a>
 - entry_name: |
@@ -73,31 +66,31 @@ data:
   entry_content: |
     tamam anladık herkes kahvaltıda havyar yiyor.<br/><br/>lise yıllarında hep yapardım.arasına ketçap mayonez sıkarak kolayla akıp gidiyordu.
 - entry_name: |
-    otelde bedava konaklama isteyen youtuber
-  entry_id:  73632185
-  entry_writer: lawforever
-  entry_fav_count: 187
-  entry_content: |
-    haysiyetli, şerefli, onurlu yaşamanın önemine; oluşturduğu zıt örnekle dolaylı olarak temas etmiş youtuberdır.<br/><br/>otelin reklamını yapması ve konaklamadan yaşadığı memnuniyeti takipçileriyle paylaşması karşılığında, kendisi ve erkek arkadaşı için sevgililer günü için 5 gecelik ücretsiz bir tatil talep eden elle darby, hiç beklemediği bir cevapla karşılaşmış.<br/><br/>otele mail atan elle darby, geçtiğimiz sene florida'da yer alan universal orlando ile bu şekilde bir anlaşma yaptığını ve iki tarafın da durumdan memnun ayrıldığını belirtmiş. -bunu meslek haline getirdim diyor-<br/><br/>kendisi ve erkek arkadaşı için sevgililer gününü de kapsayan 5 gecelik ücretsiz bir tatil talep eden uyanık youtuber'a otel işletmesinin verdiği şahane <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/otelde-bedava-konaklama-isteyen-unlu-youtuber-hayatinin-sokunu-yasadi-40716271" title="http://www.hurriyet.com.tr/otelde-bedava-konaklama-isteyen-unlu-youtuber-hayatinin-sokunu-yasadi-40716271">cevap</a>:<br/><br/>"attığınız bedava konaklama postası için teşekkürler. öz benliğine saygı ve haysiyet gerektirmese de, böyle bir posta atmak cesaret ister. size burada video karşılığında ücretsiz kalma izni verirsek sizinle ilgilenecek personelin parasını kim verecek? bu arada şanslıyız ki facebok sayfamızda 186 bin, ınstagram'da 32 bin ve twitter'dan 12 bin takipçimiz var. ama şükürler olsun ki milyonlarca yıl bile geçse kimseden beleş bir şeyler istemem. gelecekte tavsiyem odur ki, herkes nasıl ödeme yapıyorsa lütfen siz de öyle yapın. böylece kendinize olan saygınızı göstermiş ve daha az utandırıcı bir şey yapmış olursunuz.<br/><br/>saygılarımızla.<br/><br/>not: cevabımız, hayır."<br/><br/>bu vesileyle; ülkemizdeki celebritylerin de instagram gibi mecralardan yaptıkları reklam sayesinde vergisiz milyonlarca para kazandığını; tahsilli, profesyonel meslek sahibi insanların ise sefalet ücretine zincirsiz köle olarak yaşadığını göz önünde bulundurursak; popüler kültürün ve gelir dağılımındaki adaletsizliğin uğradığı erozyonu daha iyi tahlil edebiliriz.
-- entry_name: |
     zeytin dalı harekatı
   entry_id:  73634193
   entry_writer: a shih na chieh she shuai
-  entry_fav_count: 186
+  entry_fav_count: 203
   entry_content: |
     türk silahlı kuvvetleri'nin 20 ocak 2018 17.00 itibariyle, aslen arap ve türkmen halklarının yoğunlukla yaşadığı kuzey suriye'de, demografik ve etnik yapıyı insanlık dışı operasyonlarla değiştirerek, sömürgeci devletlerin desteğiyle sözde "sosyalist" bir ordu ve ironik bir şekilde faşist yapıda bir "devlet" kurmaya çalışan işgalci birliklere karşı, bölgedeki güvenlik ve istikrarı sağlamak amacıyla başlattığı harekat. mevcut bölgenin yüce türk ordusunun temin edeceği özgür bir yaşam alanına ivedilikle kavuşması temennisiyle. <br/><br/>çekinmeyin; biziz: <a class="b" href="/?q=mustafa+kemal%27in+askerleriyiz">mustafa kemal'in askerleriyiz</a>.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.tsk.tr/BasinFaaliyetleri/BA_47">http://www.tsk.tr/basinfaaliyetleri/ba_47</a>
+- entry_name: |
+    otelde bedava konaklama isteyen youtuber
+  entry_id:  73632185
+  entry_writer: lawforever
+  entry_fav_count: 190
+  entry_content: |
+    haysiyetli, şerefli, onurlu yaşamanın önemine; oluşturduğu zıt örnekle dolaylı olarak temas etmiş youtuberdır.<br/><br/>otelin reklamını yapması ve konaklamadan yaşadığı memnuniyeti takipçileriyle paylaşması karşılığında, kendisi ve erkek arkadaşı için sevgililer günü için 5 gecelik ücretsiz bir tatil talep eden elle darby, hiç beklemediği bir cevapla karşılaşmış.<br/><br/>otele mail atan elle darby, geçtiğimiz sene florida'da yer alan universal orlando ile bu şekilde bir anlaşma yaptığını ve iki tarafın da durumdan memnun ayrıldığını belirtmiş. -bunu meslek haline getirdim diyor-<br/><br/>kendisi ve erkek arkadaşı için sevgililer gününü de kapsayan 5 gecelik ücretsiz bir tatil talep eden uyanık youtuber'a otel işletmesinin verdiği şahane <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/otelde-bedava-konaklama-isteyen-unlu-youtuber-hayatinin-sokunu-yasadi-40716271" title="http://www.hurriyet.com.tr/otelde-bedava-konaklama-isteyen-unlu-youtuber-hayatinin-sokunu-yasadi-40716271">cevap</a>:<br/><br/>"attığınız bedava konaklama postası için teşekkürler. öz benliğine saygı ve haysiyet gerektirmese de, böyle bir posta atmak cesaret ister. size burada video karşılığında ücretsiz kalma izni verirsek sizinle ilgilenecek personelin parasını kim verecek? bu arada şanslıyız ki facebok sayfamızda 186 bin, ınstagram'da 32 bin ve twitter'dan 12 bin takipçimiz var. ama şükürler olsun ki milyonlarca yıl bile geçse kimseden beleş bir şeyler istemem. gelecekte tavsiyem odur ki, herkes nasıl ödeme yapıyorsa lütfen siz de öyle yapın. böylece kendinize olan saygınızı göstermiş ve daha az utandırıcı bir şey yapmış olursunuz.<br/><br/>saygılarımızla.<br/><br/>not: cevabımız, hayır."<br/><br/>bu vesileyle; ülkemizdeki celebritylerin de instagram gibi mecralardan yaptıkları reklam sayesinde vergisiz milyonlarca para kazandığını; tahsilli, profesyonel meslek sahibi insanların ise sefalet ücretine zincirsiz köle olarak yaşadığını göz önünde bulundurursak; popüler kültürün ve gelir dağılımındaki adaletsizliğin uğradığı erozyonu daha iyi tahlil edebiliriz.
 - entry_name: |
     20 ocak 2018 afrin harekatı
   entry_id:  73634477
   entry_writer: dipkosebucak
-  entry_fav_count: 117
+  entry_fav_count: 122
   entry_content: |
     "zeytin dalı" bildiğiniz anlamıyla seçilmedi. hafız esad döneminde, afrin türkiye arasına binlerce zeytin ağacı dikildi. sırf türk zırhlılarını yavaşlatsın diye. şimdi tsk diyor ki, zeytin dalları nı götünüze sokmaya geliyoruz.
 - entry_name: |
     fi
   entry_id:  73624911
   entry_writer: samit
-  entry_fav_count: 93
+  entry_fav_count: 96
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>can manay pislik içindeki tuvalet deliğine baktığında su içme takıntısının karşı konulamaz temizlenme veya arınma ihtiyacından kaynaklandığını öğreniyoruz. doğduğu yeri ve sembolik olarak geçmişini pislikten farksız görmektedir. dolayısıyla arınma ihtiyacını geçmişinden bir kaçma isteği olarak da değerlendirebiliriz.<br/><br/>bu noktada duru gibi suyu çağıştıran bir ismin yazar tarafından özellikle seçildiğini söyleyebiliriz. can manay'ın tıpkı su gibi şiddetle arzuladığı bir nesnedir duru. <br/><br/>ancak su, can manay'ı temizlememektedir. aslında tam tersi olmaktadır. can manay, hayatına soktuğu her insanı kendisine benzetmekte yani kirletmektedir. onu suyun zıttı, kirletici bir madde olarak görebiliriz.<br/><br/>diğer yandan, can manay tüm insanlara bu tarz nesneler olarak bakmaktadır. bu yüzden kimseyle doğru düzgün bir ilişki kurmadığını görüyoruz. herkese stratejik hamlelerle yaklaşıyor. ihtiyaç duyduğu nesneleri elde etmek için manipülasyon yapmaktan kaçınmıyor. halbuki manipülasyon nesnenin doğallığını, geçekliğini ya da 'duruluğunu' bozduğu için can manay hiçbir zaman gerçek anlamda duru olana ulaşamayacaktır.<br/><br/>ulaştığını düşündüğü duru artık duru değildir. arındırıcı olmaktan çıkıp tüm o pisliği anımsatıcıya dönüşmüştür. su zehre dönüşmüştür. bunun adı ihanettir ve can manay'a karşı işlenebilecek tek günah ihanettir. çünkü sadece su içen bir insana sudan başka hiçbir şey zarar veremez.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
@@ -118,21 +111,14 @@ data:
     20 ocak 2018 galatasaray olağanüstü kongresi
   entry_id:  73636070
   entry_writer: iki cay biri acik
-  entry_fav_count: 69
+  entry_fav_count: 73
   entry_content: |
     bir fenerbahçe'li olarak imrenerek izlediğim seçimdir. düşünsenize, bir seçim oluyor, seçime adaylar giriyor ve demokratik bir şekilde biri kazanıp biri kaybediyor...
-- entry_name: |
-    chp-iyiparti-hdp seçim ittifakının açıklanması
-  entry_id:  73630671
-  entry_writer: olsa da yemesek
-  entry_fav_count: 67
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ba%c5%9far%c4%b1s%c4%b1z+troll+giri%c5%9fimleri">başarısız troll girişimleri</a>)<br/>(bkz: <a class="b" href="/?q=siklemiyoruz">siklemiyoruz</a>)
 - entry_name: |
     abdurrahman dilipak'ın hint keneviri yazısı
   entry_id:  73629065
   entry_writer: erdemselevren
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     tabi kafaları uyuşturmak için din de bir yere kadar.
 - entry_name: |
@@ -178,19 +164,40 @@ data:
   entry_content: |
     bedelli karsiti bi parti benden oy alamaz. bitti. herkesin onceligi kendine benim onceligim bu amk sanane.<br/><br/>millet drone savaslarina baslamis, uzaydan birbirine roket atacak seviyeye gelmis, marsa falan ray döşenmiş bu ulke hala sivilceli yeni yetme ergenleri, kekolari , tinercileri, gtunu yikamayi bilmeyenleri ve isinde gucunde adamlari ayni kogusa koyup 6 ay beraber olup adam olacaksiniz , ondan bundan kufur yiyecek, kendini jiletleyen tiplerin esiri olacaksiniz istiyor.<br/><br/>çare profesyonel askerlik. nasil ki herkes zorla polis olmuyorsa polislik bir meslekse askerlik de meslek olmali.
 - entry_name: |
+    mustafa cengiz
+  entry_id:  73635803
+  entry_writer: paul sahillleri
+  entry_fav_count: 39
+  entry_content: |
+    inşallah kazandıktan sonraki konuşmasının ilk cümlesi şu olacaktır.<br/><br/>'sizi pezevenklerin elinden aldık'
+- entry_name: |
+    20 ocak 2018 everton west bromwich maçı
+  entry_id:  73635168
+  entry_writer: hitokiri kenshin
+  entry_fav_count: 34
+  entry_content: |
+    bu tür maçları izlediğim zaman süper ligi fazla hafife aldığımızı fark ediyorum.<br/><br/>gününde bir beşiktaş, başakşehir veya galatasaray iki takıma da 4-5 tane atar geçer. gerçekten çok kötüler.<br/><br/>edit: fenerbahçe demedim çünkü fenerbahçe 1 tane attıktan sonra savunmaya çekilirdi. <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> effect.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+- entry_name: |
+    15 temmuz'dan sonra bir ay tırsarak gezdim
+  entry_id:  73636764
+  entry_writer: medeniyet
+  entry_fav_count: 29
+  entry_content: |
+    cemaat desteğiyle akademisyen olan atatürk düşmanı kripto fetöcülerin 10 yıl sonra kullanacağı cümle.
+- entry_name: |
     kitap okumaktan evrendeki güzellikleri ıskalamak
   entry_id:  73628089
   entry_writer: muhterem fil
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     bir diğer açıdan bakacak olursak: evrendeki bir güzellik olarak kitap okumak.
 - entry_name: |
-    20 ocak 2018 everton west bromwich maçı
-  entry_id:  73635308
-  entry_writer: macaas1
-  entry_fav_count: 24
+    rus f16'sı
+  entry_id:  73635781
+  entry_writer: el zikembe
+  entry_fav_count: 22
   entry_content: |
-    formaları hazırlayan grafiker arkadaş cenk'in adını yazarken cenk yazdıktan sonra space yerine tab tuşuna basmış galiba. o nasıl boşluk amk avcılar-beylikdüzü metrobüs hattı gibi.
+    bonba attığı düşünülen ve sadece hewaller tarafından görülen tanımlanamayan rus hava aracı.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/XPvoM5.jpg" title="https://i.hizliresim.com/XPvoM5.jpg">the heval dream</a>
 - entry_name: |
     19 ocak 2017 öğretmenlerin tatile çıkması rezaleti
   entry_id:  73621610
@@ -199,19 +206,12 @@ data:
   entry_content: |
     tatile çıkmak ne ki? yurt dışına çıkıyorum. asıl rezalet budur.<br/>aldığım maaş, ek ders, kurs ücreti, özel ders parası, sınav görev ücretlerini yiyeceğim.<br/><br/>(bkz: öğretmenlerin her şeylerinin(!) birilerine fena batması)
 - entry_name: |
-    15 temmuz'dan sonra bir ay tırsarak gezdim
-  entry_id:  73636764
-  entry_writer: medeniyet
-  entry_fav_count: 20
+    yahudilerin üstün zekalı olması
+  entry_id:  73628946
+  entry_writer: mandir
+  entry_fav_count: 19
   entry_content: |
-    cemaat desteğiyle akademisyen olan atatürk düşmanı kripto fetöcülerin 10 yıl sonra kullanacağı cümle.
-- entry_name: |
-    rus f16'sı
-  entry_id:  73635781
-  entry_writer: el zikembe
-  entry_fav_count: 18
-  entry_content: |
-    bonba attığı düşünülen ve sadece hewaller tarafından görülen tanımlanamayan rus hava aracı.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/XPvoM5.jpg" title="https://i.hizliresim.com/XPvoM5.jpg">the heval dream</a>
+    üstün zekalı değil çalışkan, gayretli, bilime ve işbirliğine önem veren bir toplumdur. kulağa basit geliyor ama kaç toplum yapabiliyor ki? özellikle ortadoğu'da.
 - entry_name: |
     25 yaşında olmak
   entry_id:  73634045
@@ -234,20 +234,6 @@ data:
   entry_content: |
     rüzgar türbinlerinden,<br/>denizde oluşan dev dalgalardan,<br/>yatağın kenarına oturmuşken yatağın altında saklanan birinin neşterle aşil tendonumu kesmesinden,<br/>arkamdan bebek arabalı biri geliyorsa arabayla aşil tendonumu ezmesinden,<br/>kimyasal madde taşıyan tankerlerden,<br/>tibbi atık ihtiva eden çöp kutularından,<br/>tüp kamyonundan,<br/>kalabalık ve sessiz bir yerde istem dışı zarıl zarıl osurmaktan,<br/>hatta altıma sıçmaktan <br/>çok korkuyorum.
 - entry_name: |
-    20 ocak 2018 fenerbahçe göztepe maçı
-  entry_id:  73636315
-  entry_writer: redddadmiral
-  entry_fav_count: 13
-  entry_content: |
-    çok sinsi bir hakem yönetimine sahne olan maç. 20 dakikada 6 tane hatalı karar çıktı fener aleyhinde. hatalı ofsaytlar, kesilen ataklar havada uçuşuyor.<br/><br/>ümit öztürk denilen hakem bu yönetimiyle ne yapmak nereye varmak istemektedirler.<br/><br/>bu arada fernandao muazzam bir performans sergiliyor.
-- entry_name: |
-    yürürken sigara içenlerin o.ç olması
-  entry_id:  73636621
-  entry_writer: cahma
-  entry_fav_count: 11
-  entry_content: |
-    sigara içmeyen birisi olarak sanane yarraaam diyorum. insan yürürken ve oturarak sigarasını içebilir.
-- entry_name: |
     kızları seks objesi olarak gören erkek
   entry_id:  73634589
   entry_writer: deli petro
@@ -255,26 +241,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=kafa+siken+meric+ve+kezban+zirvalari">kafa siken meric ve kezban zirvalari</a>)
 - entry_name: |
-    mustafa cengiz
-  entry_id:  73635227
-  entry_writer: by myself but not alone
-  entry_fav_count: 9
-  entry_content: |
-    en önemli özelliği dursun özbek olmamasıdır.
-- entry_name: |
-    yahudilerin üstün zekalı olması
-  entry_id:  73633448
-  entry_writer: jouxtebouville
-  entry_fav_count: 6
-  entry_content: |
-    yahudiler çalışkan , eğitime yatırım yapan , ileri görüşlü insanlardır . babama israil'den gelen patronu çikolata getirmişti kare kare çikolataların bir yüzeyinde ibranice harfler diğerinde elementlerin simgesi ve atom numaraları yazıyordu. düşünsenize daha okuma bilmeyen çocuğa o çikolata sayesinde hem alfabeyi hem elementleri öğretip çocukta merak duygusunu uyandırıyorlar.<br/>yani yahudilerin başarısı tesadüf değildir alın teridir , emektir .
-- entry_name: |
     geceye bir atatürk sözü bırak
   entry_id:  73623859
   entry_writer: manuelka
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     “çalışmadan, yorulmadan ve üretmeden, rahat yaşamak isteyen toplumlar; evvela haysiyetlerini, sonra hürriyetlerini daha sonra da istiklal ve istikballerini kaybetmeye mahkumdurlar.”
+- entry_name: |
+    türk kürt kardeştir
+  entry_id:  73637282
+  entry_writer: zamazingonun tam ortasi amazing
+  entry_fav_count: 6
+  entry_content: |
+    katılmıyorum.<br/><br/>şunu gördüm ki; dünya üzerinde yaşayan insan haklarına ve özgürlüklerine sorgusuz sualsiz inanan, belli bir kültür ve eğitim seviyesine sahip herkes kardeştir.<br/><br/>sadece sorunlu, eğitimsiz, ideolojilerin kurbanı olmuş tipler hangi ırktan milletten olursa olsun kimseyle kardeş olamıyor, nefretten besleniyor.<br/><br/>değil kardeş, arkadaş bile olmak istemeyeceğim türkler varken, kardeşim diyebileceğim rumlar, arjantinliler, avustralyalılar var. kardeşliği, dostluğu ya da düşmanlığı ırklar milletler üzerinden genellemek kadar yanlış bir şey yok...
+- entry_name: |
+    20 ocak 2018 eskişehir trafik kazası
+  entry_id:  73627128
+  entry_writer: kedi kovalanir mi lan
+  entry_fav_count: 6
+  entry_content: |
+    olay yeri fotoğraflarına göre kaptan kalp krizi filan geçirmemişse bariz şekilde uyumuş ve hızla ağaca sağ taraftan vurmuş.<br/><br/>muhtemelen ölen vatandaşlarımızın tamamı sağ taraf ön koltuklarda oturan yolculardır.<br/><br/>araç çift dingilli mercedes travego 17 shd, kaptan dahil 55 yolcu kapasiteli. yani araç içerisinde o kadar yolcu olması normal, asıl normal olmayan kaptanın düz yolda bu kazayı yapmış olması.<br/><br/>aracın hiç fren yapmadığı resimlerde görünüyor, buzlanma nedeni ile kayma olması muhtemel değil çünkü yolun buzlu olduğunu fark eden kaptan yavaşlardı ve bu kaza basit maddi hasarlı kaza olarak kayıtlara geçerdi.<br/><br/>açıkçası ölümlere sebep olan o yol kenarındaki büyük ağaç olmasa muhtemelen başı boş kalan otobüs çok daha fazla ölümlü bir kazaya neden olacaktı, kaza nedeni olarak yola köpek çıktı gibi bir argümanın hiç bir geçerliliği yoktur, çünkü otobüsler yüksek/tonajlı araçlardır ve bir köpeğe çarpmayı çok dert etmezler, köpeğe çarpar ve devam ederler.<br/><br/>eskişehir - bursa yolu eskişehir çimento fabrikası civarına kadar dümdüzdür, düz yol uyku getirir ki kazanın sabaha karşı olması kaptanın uyuduğunun kanıtlarındandır.<br/><br/>ölenlere rahmet, sevenlerine başsağlığı ve yaralılara acil şifalar diliyorum, ani gelen her ölüm çok acıdır.<br/><br/>her kaza gibi bu kazada önlenebilirdi veya hafif atlatılabilirdi, en basit önlem olarak yol kenarına bariyer konabilirdi. fakat siz istediğiniz kadar önlem alın, işin içinde insan faktörü olduğu sürece kaza kaçınılmazdır.
+- entry_name: |
+    üniversitede arkadaş olunan ilk kişi
+  entry_id:  73621677
+  entry_writer: femalesheldon
+  entry_fav_count: 5
+  entry_content: |
+    kesinlikle bir süre sonra görüşülmeyen kişidir...
 - entry_name: |
     türkiye'de ırkçılığın olmaması
   entry_id:  73622451
@@ -290,12 +283,12 @@ data:
   entry_content: |
     çok da romantik olmadığımı anladım bugün bir kez daha. <br/><br/>ne zamandır kendi bilgisayarım olmamasından yakınıyordum. eski dizüstü bilgisayarımı yeğenime vermiştim. evlenirken masaüstü bilgisayarımı, canım 22” ekranımı babama bırakmıştım facebook’ta daha iyi gezinsin, geniş geniş özlü sözler paylaşsın diye. eşimin ofis için ve evde kullanmak üzere iki dizüstü bilgisayarı var, ikisinde de benim işime yarayacak programlar yok. kendi müzik arşivim bile harddiskte yüklü. dinlemek istediğimde onu bul, kabloyu tak, aman kablosu oynamasın, bozuldu bozulacak korkusu derken çocukluğumdan beri bilgisayarla vakit geçirmeye alışmış ben, bilgisayardan uzaklaşır oldum. bu da özellikle yazı yazmaktan ve yeni albümler indirmekten uzaklaşmam demek oluyor. iş dışında şahsi kullanımım için bilgisayarım yoktu yanı özetle. <br/><br/>son zamanlarda yazı yazma isteğim arttı, deftere yazıyorum, telefona yazıyorum ama bilgisayarda alışık olduğum için aynı hızda yazamıyordum. dün akşam da eskiden yazdığım yazılar, şiirlere bakıyordum. bazılarını okudum eşime, dedim ne kadar çok yazardım evlenmeden önce. çocuk da olunca iyice içimde birikti sanki cümleler, kelimeler, hisler. oku oku bitmiyor. benim bey başladı uyuklamaya. bozuldum tabi. <br/><br/>bu akşam eve geldi, elinde koca bir paket. sana hediye aldım dedi. bu kadar yazınca, buraya kadar okuduysanız, tahmin ettiniz siz tabi ama ben o an hiç tahmin edemedim. merakla açtım paketi, kutudan çıkardım, sehpaya koydum ve başladım kurulumu yapmaya. daktilosuna kavuşmuş kendi halinde yazar gibiydim o an. o kadar mutlu oldum ki. eşim uzaktan uzaktan beni seyredip güldü. ben belki mutluluğumu belli edememişimdir, çok teşekkür ederim dedim. çok belli ettin, gözlerin parlıyor dedi. dün akşam o kadar özlemiştin ki yazı yazmayı, yazdıklarını okurken o zamanki kendine özlem duyduğunu anladım dedi. bunca zaman beni anlamadığını düşündüğüm, kendim olamadığımı, kendimden uzaklaştığımı göremediğini düşündüğüm adam görmüş, anlamış beni. kendim de alırdım bir bilgisayar, ama bunu ben bile akıl etmemiş, eksikliğinin farkında değilken eşim düşünmüş, almış, yeni bir harddisk hediyesiyle beraber kucağıma verdi ya paketi sanki kendimi hediye etti bana. <br/><br/>bunca zaman aldığı çiçekler, takı, toka, tabak, çanak, kitap da dahil hiçbir şey bu kadar mutlu etmemişti. ben de bu kadar romantikmişim işte, şunca zaman meğer bir bilgisayar beklemişim. yazı yazıp, özgür olabileceğim alan beklemişim. <br/><br/>önümüzdeki yıllarda başarısız bir kitap denemesine kalkışırsam, temelleri bu gece atıldı diye buraya not düşüyorum.
 - entry_name: |
-    20 ocak 2018 eskişehir trafik kazası
-  entry_id:  73627128
-  entry_writer: kedi kovalanir mi lan
-  entry_fav_count: 5
+    yürürken sigara içenlerin o.ç olması
+  entry_id:  73636747
+  entry_writer: bayanacizane
+  entry_fav_count: 4
   entry_content: |
-    olay yeri fotoğraflarına göre kaptan kalp krizi filan geçirmemişse bariz şekilde uyumuş ve hızla ağaca sağ taraftan vurmuş.<br/><br/>muhtemelen ölen vatandaşlarımızın tamamı sağ taraf ön koltuklarda oturan yolculardır.<br/><br/>araç çift dingilli mercedes travego 17 shd, kaptan dahil 55 yolcu kapasiteli. yani araç içerisinde o kadar yolcu olması normal, asıl normal olmayan kaptanın düz yolda bu kazayı yapmış olması.<br/><br/>aracın hiç fren yapmadığı resimlerde görünüyor, buzlanma nedeni ile kayma olması muhtemel değil çünkü yolun buzlu olduğunu fark eden kaptan yavaşlardı ve bu kaza basit maddi hasarlı kaza olarak kayıtlara geçerdi.<br/><br/>açıkçası ölümlere sebep olan o yol kenarındaki büyük ağaç olmasa muhtemelen başı boş kalan otobüs çok daha fazla ölümlü bir kazaya neden olacaktı, kaza nedeni olarak yola köpek çıktı gibi bir argümanın hiç bir geçerliliği yoktur, çünkü otobüsler yüksek/tonajlı araçlardır ve bir köpeğe çarpmayı çok dert etmezler, köpeğe çarpar ve devam ederler.<br/><br/>eskişehir - bursa yolu eskişehir çimento fabrikası civarına kadar dümdüzdür, düz yol uyku getirir ki kazanın sabaha karşı olması kaptanın uyuduğunun kanıtlarındandır.<br/><br/>ölenlere rahmet, sevenlerine başsağlığı ve yaralılara acil şifalar diliyorum, ani gelen her ölüm çok acıdır.<br/><br/>her kaza gibi bu kazada önlenebilirdi veya hafif atlatılabilirdi, en basit önlem olarak yol kenarına bariyer konabilirdi. fakat siz istediğiniz kadar önlem alın, işin içinde insan faktörü olduğu sürece kaza kaçınılmazdır.
+    gözünü sevdiğimin ülkesinde bir şekilde o.ç olmamak mümkün değil...
 - entry_name: |
     makas atarken bariyerlere çarpan sürücü
   entry_id:  73621691
@@ -304,6 +297,13 @@ data:
   entry_content: |
     bunlar keşke böyle kimseye zarar vermeden birer birer geberip gitse. bu sikiklere geçmiş olsun diyenler o kaza yapmadan önceki son aracın arkasında 1 saniye fazla dursa ne olacağını düşünsünler. o arabada kendi eşi çocuğu olduğunu düşünsünler. <br/><br/>keşke geberip gitseydi amına koduğumun orospu çocukları
 - entry_name: |
+    sabire meltem banko
+  entry_id:  73633510
+  entry_writer: kanguruya yumruk atamayan adam
+  entry_fav_count: 3
+  entry_content: |
+    ne yapıyorsun sabire, sildiriyorsun habire.<br/><br/>işsiz olduğunu düşündüğüm, türk hukuk sistemini gereksiz konularla meşgul eden, sarı saçlı ve metan gazlı bir avukat ablamız.
+- entry_name: |
     istanbullu gelin
   entry_id:  73621352
   entry_writer: hatirlamak unutmaktan zordur
@@ -311,19 +311,26 @@ data:
   entry_content: |
     sanırım bu akımı ilk ben başlattım ya da benden önce birisi de olabilir bilemiyorum ama dizi hakkında entry giren tüm sözlük kadınları osman'dan <a class="b" href="/?q=osman%c4%b1m">osmanım</a> diye bahsediyor.<br/><br/>hiçbir haltı beğenmeyen ekşici kadınların gönlünü fethettin osman. hepimizin yerine bana sarılabilirsin. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
-    türk kürt kardeştir
-  entry_id:  73637170
-  entry_writer: son entry
-  entry_fav_count: 2
-  entry_content: |
-    bu siz sevişemezsiniz demek sanırım.
-- entry_name: |
     dursun özbek
   entry_id:  73636727
   entry_writer: mete han turkyilmaz
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     "fırat günayer: "fark açılıyor. dursun özbek güven tazelemek için olağanüstü kongreye gidip, seçimi kaybeden ilk başkan olma yolunda ilerliyor."<br/><br/>ahahahahahahahahha.
+- entry_name: |
+    mehmet ayan
+  entry_id:  73636996
+  entry_writer: realist muhendis
+  entry_fav_count: 2
+  entry_content: |
+    radyoculuk ve yorumculuğun yanında hobi olarak göt olmayı seven kişi.
+- entry_name: |
+    cenk tosun
+  entry_id:  73637199
+  entry_writer: yine ucurun
+  entry_fav_count: 2
+  entry_content: |
+    hep avrupalılar mı bizi kazıklayacak arada biz de sokuşturalım. everton'un yediği yağlı kazıktır.
 - entry_name: |
     yazarların şu an duymak istediği söz
   entry_id:  73625727
@@ -332,19 +339,12 @@ data:
   entry_content: |
     beştepe de şu an yas var
 - entry_name: |
-    cenk tosun
-  entry_id:  73637199
-  entry_writer: yine ucurun
+    20 ocak 2018 fenerbahçe göztepe maçı
+  entry_id:  73630958
+  entry_writer: 29 ekim 1923
   entry_fav_count: 1
   entry_content: |
-    hep avrupalılar mı bizi kazıklayacak arada biz de sokuşturalım. everton'un yediği yağlı kazıktır.
-- entry_name: |
-    mehmet ayan
-  entry_id:  73636996
-  entry_writer: realist muhendis
-  entry_fav_count: 0
-  entry_content: |
-    radyoculuk ve yorumculuğun yanında hobi olarak göt olmayı seven kişi.
+    aykut bu maça da valbuena'sız çıkarsa işin bokunu çıkarır. maksat ders vermekse valbuena'nın o dersi aldığını kendisi söyledi. hala işi uzatıp makas atarsa bu saatten sonra valbuena haklı duruma geçer. ikinci alex vakası olmasın.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  73636103
