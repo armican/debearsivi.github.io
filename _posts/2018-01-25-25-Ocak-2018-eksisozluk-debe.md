@@ -3,124 +3,131 @@ layout: post
 title: 25 Ocak 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    500k lira kazanan youtuber'ı maliyeye ihbar etmek
-  entry_id:  73714500
-  entry_writer: plaza communisti
-  entry_fav_count: 1292
-  entry_content: |
-    doğru olandır;<br/><br/>bir de ispiyonladı diyor, kıskanıyorsun diyor dingilin biri altta. devlet bizim maaşın yarısına gavat olduğumuz için mi el koyuyor? ne özelliği var bu boş beleş videocuların?<br/><br/>sizin mantığa göre kaçak elektrik kullanan da ispiyonlanmamalı, rüşvet alan da. devlet ettiğin kar üzerinden pay alıyor ise vereceksin arkadaşım. vergi düşüktür yüksektir, gereklidir değildir bunlar ayrı konu. <br/><br/>medeniyete vergi kaçırarak, kaçıranı gizleyerek ve hatta ihbar edene ispiyoncu diyerek yarrak ulaşırsınız. normalleştiriyor bir de hele bak hele.
-- entry_name: |
     170'ten fazla isimden savaşı durdurun çağrısı
   entry_id:  73722352
   entry_writer: patryn
-  entry_fav_count: 864
+  entry_fav_count: 873
   entry_content: |
     türkiye'ye bir tehditte bulunmayan mı? beşiktaş saldırısının faili afrindeki kamplardan yetiştiği doğrulanmasına rağmen bu nasıl bir kör olma durumudur? <br/><br/>tanım: gerçeklerden uzak ve doğru olmayan bir çağrıdır.<br/><br/>düzeltme: imla
 - entry_name: |
     24 ocak 2018 hdp'lilerin açlık grevine başlaması
   entry_id:  73730075
   entry_writer: renksiz hayat
-  entry_fav_count: 586
+  entry_fav_count: 610
   entry_content: |
     (bkz: <a class="b" href="/?q=aman+bozmay%c4%b1n">aman bozmayın</a>)
 - entry_name: |
     why is turkey's military fighting the ypg
   entry_id:  73720495
   entry_writer: neonsurfing
-  entry_fav_count: 577
+  entry_fav_count: 587
   entry_content: |
     <a class="b" href="/?q=trt+world">trt world</a> tarafından ingilizce olarak hazırlanmış, türkiye’nin neden afrin’de olduğunu, <a class="b" href="/?q=zeytin+dal%c4%b1+harekat%c4%b1">zeytin dalı harekatı</a>’nın neden yaptığımızı kısa ve öz olarak başarılı bir şekilde anlatan videodur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/u8Zx4kHLZPQ" title="https://youtu.be/u8Zx4kHLZPQ">why is turkey’s military fighting the ypg in afrin, syria?</a>
 - entry_name: |
     25 ocak 2018 benzin zammı
   entry_id:  73719635
   entry_writer: eksimtrack
-  entry_fav_count: 488
+  entry_fav_count: 496
   entry_content: |
     <a class="b" href="/?q=irlanda">irlanda</a><br/>benzin fiyatı : 5,24 tl<br/>asgari ücret : 7.100 tl<br/><br/>yani 1 asgari ücrete 1.354 litre benzin alabilirsin.<br/><br/><a class="b" href="/?q=t%c3%bcrkiye">türkiye</a><br/>benzin lt fiyatı : 5,85 tl<br/>asgari ücret : 1.603 tl<br/><br/>yani 1 asgari ücrete 274 litre benzin alabilirsin. sadece irlandadan bile neredeyse 5 kat fakiriz. haram zıkkım olsun vergilerim.
 - entry_name: |
     nick yüzünden kız zannedilmek
   entry_id:  73723100
   entry_writer: core zone
-  entry_fav_count: 478
+  entry_fav_count: 483
   entry_content: |
     yazarı yakından tanıyan biri olarak, mesajlardan kurtulmak için yalan söylediğini belirtmek istediğim başlıktır, kendisi 1,75 boyunda sarışın bir afettir. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     fabrikamdan işçileri operasyona götürebilirsiniz
   entry_id:  73725905
   entry_writer: sea19
-  entry_fav_count: 464
+  entry_fav_count: 476
   entry_content: |
     doğrusu; "fabrikamdan istediğiniz kadar işçiyi operasyona götürebilirsiniz" olacaktı. (malum sınırlama)<br/><br/>ankara polatlı osb'de kraldan çok kralcı bazı işverenlerin talebi imiş.<br/><br/>böylesine bir lakaytlık, en başta operasyondaki askerlerimize hakaret değil mi?<br/>ulan! siz çalıştırdığınız işçinin hakkını düzgünce verin, ticarette ahlaklı olun, bu ülkeye daha iyi hizmet edemezsiniz zaten. bu şova ne gerek var?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/fabrikamdan-istediginiz-kadar-isciyi-operasyona-goturebilirsiniz-2401181200.html" title="https://odatv.com/fabrikamdan-istediginiz-kadar-isciyi-operasyona-goturebilirsiniz-2401181200.html">ilgili haber</a><br/><br/>edit: arkadaşlar haklı, birde bunlar işçileri kendi malı gibi görüp canı hakkında da tasarrufta bulanabileceğini düşünüyorlar. hey gidi kapitalizm! sen nelere kadirsin?
 - entry_name: |
     obama da bizi aldattı
   entry_id:  73723553
   entry_writer: this is a weeping song
-  entry_fav_count: 323
+  entry_fav_count: 332
   entry_content: |
     erkek değil mi hepsi aynı bunların...
 - entry_name: |
     7-8 şehidimiz var
   entry_id:  73724484
   entry_writer: tarzanbaba
-  entry_fav_count: 254
+  entry_fav_count: 256
   entry_content: |
     şükür, bu kez <a class="b" href="/?q=kelle">kelle</a> dememiş.
+- entry_name: |
+    kate upton ile yemek vs lionel messi ile antrenman
+  entry_id:  73715983
+  entry_writer: cikolatasurmesi
+  entry_fav_count: 214
+  entry_content: |
+    kate upton ile antrenman ?
 - entry_name: |
     adolf hitler'in ilkokul fotoğrafı
   entry_id:  73730042
   entry_writer: kovboyunusikenduldul
-  entry_fav_count: 134
+  entry_fav_count: 143
   entry_content: |
     birde kendi ilk okul fotoğrafıma baktım. karşılaştırınca bi sik olmayacağım kabak gibi ortada
-- entry_name: |
-    24 ocak 2018 kilis'e roket atılması
-  entry_id:  73730226
-  entry_writer: en sonunda yazar olan adam
-  entry_fav_count: 103
-  entry_content: |
-    <a class="b" href="/?q=sava%c5%9fa+hay%c4%b1r">savaşa hayır</a> diyenleri görmek istediğmiz başlık. siviller ölmesin diyen ılık götlü pkkcılar burda mı?
 - entry_name: |
     şeytan'ın en çok kullandığı kelimeler
   entry_id:  73721046
   entry_writer: einsoph
-  entry_fav_count: 102
+  entry_fav_count: 105
   entry_content: |
     (bkz: <a class="b" href="/?q=sen+kimsin+ya">sen kimsin ya</a>)
+- entry_name: |
+    24 ocak 2018 kilis'e roket atılması
+  entry_id:  73730226
+  entry_writer: en sonunda yazar olan adam
+  entry_fav_count: 104
+  entry_content: |
+    <a class="b" href="/?q=sava%c5%9fa+hay%c4%b1r">savaşa hayır</a> diyenleri görmek istediğmiz başlık. siviller ölmesin diyen ılık götlü pkkcılar burda mı?
 - entry_name: |
     seviştiği kadını arkadaşlarına anlatan erkek
   entry_id:  73726486
   entry_writer: rulingus
-  entry_fav_count: 95
+  entry_fav_count: 102
   entry_content: |
     birinden duymustum. bir arkadas grubu. erkeklerden olusuyor. bir arkadas da calistigi yerden bir kizla tanisiyor. ilk baslarda demekki evlilik niyeti yoktuki gelip gelip anlatiyor, iste kiz kaldirdim, söyle cakiyorum böyle hoplatiyorum diye. gün geliyor bunlarin iliskileri evlilige varinca bu salak arkadaslariyla tüm iliskisini kesmek zorunda kaliyor. eh en ince detayina kadar yaptigi isleri anlat birde kalkip dügününemi davet edeceksin insanlari. ama anlamadigim sey evlide olsa sevgili de olsa kadinlar kendi aralarinda daha detayli konusuluyor bunlar. garip.
 - entry_name: |
     24 ocak 2018 thy rezaleti
   entry_id:  73732637
   entry_writer: regenarationx
-  entry_fav_count: 87
+  entry_fav_count: 90
   entry_content: |
     rezalet kısmı uçağın inememesi mi yoksa hostesin kapılarını açmaması mı anlamadım. uçağın inememesi ise ona yapacak bişey yok ha hostesin kapıları açmaması ise sen bunu <a class="b" href="/?q=peugeot+j9">peugeot j9</a> mu sandın amk kapıyı yarım açsın da havalansın. <br/><br/>rezalet puanım: 0/ 10.
 - entry_name: |
-    dolar dip yaparken sesi çıkmayan ekşici
-  entry_id:  73729651
-  entry_writer: bagimsiz elektron
-  entry_fav_count: 75
+    24 ocak 2018 türk tabipler birliği tweet'i
+  entry_id:  73734222
+  entry_writer: beholderr
+  entry_fav_count: 85
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/qGR2P5.jpg" title="https://i.hizliresim.com/qGR2P5.jpg">işte o dip</a>
-- entry_name: |
-    lebron james
-  entry_id:  73719887
-  entry_writer: sys coyg
-  entry_fav_count: 74
-  entry_content: |
-    kendisi kobe bryant’tan daha isabetli 2 sayı ile üç sayı atmakta ve daha çok ribaund, daha çok asist, daha çok top çalma ve blok ortalamalarına sahiptir. kobe bryant’ın kendisinden üstte olduğu nadide istatistik toplam sayıdır ancak yaklaşık 3500 olan bu fark büyük ihtimalle kapanacaktır. hatırlatmakta fayda var, lebron sayı ortalamasında da kobe’den yukarıdadır. kobe bryant ilk üç şampiyonluğunda shaq’ın inanılmaz dominant oyununun gölgesinde kalmıştır ve finallerin mvp’si ödülü hak ettiği üzere shaq’ın olmuştur. toplam şampiyonluk sayısına bakacaksak bill russell, sam jones, tom sanders, john havlicek vs. oyuncular gelmiş geçmiş en iyilerdir. aklıma gelmişken söyleyeyim, oyuncuların maçta yaptığı hemen her şeyi kapsamlıca değerlendiren bir istatistik olan per<sup class="ab"><a title="(bkz: player efficiency rating)" href="/?q=player+efficiency+rating" data-query="player efficiency rating">*</a></sup> konusunda yine lebron ciddi biçimde öndedir. basketbolda kıyaslama yaparken en güvenilir analiz yöntemlerinden biri olan vorp<sup class="ab"><a title="(bkz: value over replacement player)" href="/?q=value+over+replacement+player" data-query="value over replacement player">*</a></sup>‘ye bakarsak yine lebron ezici biçimde öndedir. özetleyecek olursak kobe’nin lebron’a karşı üstün olduğu basketbol özelliği hemen hemen yoktur. fark ettiyseniz basketbol dışı olaylara (isminin tecavüz davalarına karışması gibi) hiç girmedim. o yüzden sakin olun, bu adama ve bu adamın basketbola kattıklarına saygı duyun.
+    “savaş bir halk sağlığı sorunudur.” <br/><br/>düşünebilen her birey, doktor olmasına gerek yok, savaşta tek kaybedenin halklar olduğunun farkındadır. savaşın hem psikolojik hem bedenen halk sağlığını tehlikeye attığının bilincindedir. <br/><br/>düşünebilen dedim.
 - entry_name: |
     burak yılmaz'ın cristiano ronaldo'dan iyi olması
   entry_id:  73723276
   entry_writer: bugbulur
-  entry_fav_count: 71
+  entry_fav_count: 82
   entry_content: |
     allah, trollün bile akıllısını, matematik bilenini nasip etsin. <br/><br/>maç sayısı/gol sayısı ne demek? attığı her gol için oynadığı maç sayısı. böyle bir istatistik yok maalesef.<br/><br/>gol sayısı/maç sayısı. oynadığı her maç için attığı ortalama gol sayısı doğru olan ve sıklıkla kullanılan istatistik.<br/><br/>bu durumda, <br/><br/>b.yılmaz 151/211=0,715<br/><br/>c.ronaldo. 364/463=0,786<br/><br/>c.ronaldo, oynadığı her maç 0,786 gol atarken b.yılmaz 0,715 gol atmış oluyor.<br/><br/>ayrıca, ronaldo'nun bu istatistiği, b.yılmaz'ın iki katı maçta oynayıp yakalaması bu istatistiğin daha güvenilir olduğu göstermektedir ki, o konuya girmeyelim hiç.<br/><br/>edit:<br/><br/>cristiano ronaldo toplam oynadığı maç sayısı / gol sayısı<br/>463 / 364 = 1,27<br/><br/>meali; ronaldo, 1 gol atmak için ortalama 1,27 maç oynamalıdır.<br/><br/>burak yılmaz toplam oynadığı maç sayısı / gol sayısı<br/><br/>211 / 151 = 1,39<br/><br/>meali, burak, 1 gol atmak için ortalama 1,39 maç oynamalıdır.<br/><br/>yani, burak'ın ronaldo ile aynı sayıda gol atması için ronaldo'dan daha fazla sayıda maç oynaması gerekmektedir. bre arkadaş, bu durumda burak nasıl ronaldo'dan daha iyi oluyor?<br/><br/>matematik ve istatistik bilgisi şart.
+- entry_name: |
+    dolar dip yaparken sesi çıkmayan ekşici
+  entry_id:  73729651
+  entry_writer: bagimsiz elektron
+  entry_fav_count: 78
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/qGR2P5.jpg" title="https://i.hizliresim.com/qGR2P5.jpg">işte o dip</a>
+- entry_name: |
+    lebron james
+  entry_id:  73717748
+  entry_writer: as a rookie
+  entry_fav_count: 73
+  entry_content: |
+    gelmiş geçmiş en büyük basketbolcu diyebilmek için 15 yaşında olmak gerekir, zira liseliler majestelerini bilmez.
 - entry_name: |
     ursula k. le guin
   entry_id:  73715994
@@ -132,42 +139,42 @@ data:
     uğur mumcu
   entry_id:  73713534
   entry_writer: the prince of heaven
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     katledilişinin 25. yıl dönümünde andığım atatürkçü aydınlıkçı güzel insan. radikal islam, gülen cemaati ve pkk terörünü yıllar önce yazdığı kitaplarla bize anlatmıştı lakin susturdular onu, tıpkı diğerlerine yaptıkları gibi. düşünceleri halen geçerlidir. ruhu şad, mekanı cennet olsun.<br/><br/>''ben atatürkçüyüm. ben, cumhuriyetçiyim. ben laiğim. ben anti emperyalistim. ben tam bağımsız türkiye'den yanayım. ben insan hakları savunucuyum. ben, terörün karşısındayım. ben, yobazların, hırsızların, vurguncuların, çıkarcıların düşmanıyım. dün sabaha değin, araştırarak yazdığım hiçbir konuyu yalanlayamadınız. öyleyse vurun, parçalayın, her parçamdan benim gibiler beni aşacaklar doğacaktır.''<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=3LpJABH4JCk" title="https://www.youtube.com/watch?v=3LpJABH4JCk">bir pazar sabahıydı..ankara kar altında...</a><br/><br/>uğurlar olsun.
-- entry_name: |
-    24 ocak 2018 istanbul kar yağışı
-  entry_id:  73719751
-  entry_writer: my name is paris
-  entry_fav_count: 55
-  entry_content: |
-    az önce arabamın ön camına bir tane yapıştı.<br/>isteyen varsa yeşillendirsin, şuan muhafaza ediyorum kendisini.<br/><br/>fiyat 500 tl.
-- entry_name: |
-    starbucks
-  entry_id:  73722446
-  entry_writer: strobist
-  entry_fav_count: 47
-  entry_content: |
-    artık son tercihim olan mekan..<br/><br/>aşırı talebi karşılamada yetersiz kalıyorlar.. temizlik kavramı sıfır.. filtre kahvesi de berbat.. geçen gün kız arkadaşımla gloria kafeye oturduk, çizkek kahve menüsü varmış nefisti.. dün akşam da arkadaşlarla caribou kafeye oturduk, şömine yanında süper rahat koltuklar.. ikisi de makul kalabalıktaydı, ikisinin de kahvesi güzel.. <br/><br/>starbucks artık öğrenci yemekhanesi gibi dağınık ve pasaklı.. yine de bu markayı tebrik etmek lazım, birçok kafenin işletmecilik anlayışını gözden geçirmesini sağladı.. birçok kafe self servis sistemine geçti, mekana oturunca kimse tepenize dikilmiyor.. işte bunlar hep beklediğimiz hareketler..
-- entry_name: |
-    zeytin dalı harekatı
-  entry_id:  73713714
-  entry_writer: der meister
-  entry_fav_count: 45
-  entry_content: |
-    resmi bir kaynaktan teyit edebilmiş değilim ama birden çok kaynaktan okuduğuma göre rus askerleri ve suriye sınır muhafızları da arimah ve menbiç'ten çekilmeye başlamış yavaş yavaş. bu gerçekse eğer hewaller feci şekilde yan basmış demektir.<br/><br/>yalnız genel anlamda bize karşı takınılan tavır o kadar ılımlı ve hatta yer yer pozitif ki ben korkuyorum ister istemez. çoğu avrupa devletinin "türkiye'nin kendini savunma hakkı var" demesi falan ne bileyim. evet, ne yaptığı belli olmayan bir gruptansa nato üyesi, avrupa'ya ve orta doğu'ya sınırı olan bir devleti tercih etmek işler ciddiye bindiğinde en kolay tercih olarak görülebilir ama bu ülkelerin ve politikacıların ne kadar ikiyüzlü olabildiklerini de biliyoruz. umarım en az kayıpla ve bizim istediğimiz şekilde neticelenir bu süreç.
 - entry_name: |
     koreli misyonerlerin türkiye'yi zehirlemesi
   entry_id:  73728687
   entry_writer: singidunum
-  entry_fav_count: 42
+  entry_fav_count: 59
   entry_content: |
     abi benim takıldığım nokta; o buluştuğın 3 koreli kadından birini yatağa atıp atamadığın. eğer atamamışsan büyük beceriksizlik.
+- entry_name: |
+    24 ocak 2018 istanbul kar yağışı
+  entry_id:  73719751
+  entry_writer: my name is paris
+  entry_fav_count: 56
+  entry_content: |
+    az önce arabamın ön camına bir tane yapıştı.<br/>isteyen varsa yeşillendirsin, şuan muhafaza ediyorum kendisini.<br/><br/>fiyat 500 tl.
+- entry_name: |
+    trt kapansın para boşa akmasın
+  entry_id:  73723475
+  entry_writer: spoked
+  entry_fav_count: 50
+  entry_content: |
+    24.01.2018 tarihli sözcü gazetesi, murat muratoğlu yazısıdır.<br/>trt'nin neden kapanması gerektiğini detayları ile anlatmış. yazının tamamına katılarak.<br/>son paragrafından bir alıntı yapayım;<br/><br/>"trt'yi kapayın gitsin! en fazla osmanlı dönemi dizilerini seyredemezsin. hiç değilse ülkenin tarihini yanlış öğrenmezsin."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2018/yazarlar/murat-muratoglu/trt-kapansin-para-bosa-akmasin-2186988/" title="http://www.sozcu.com.tr/2018/yazarlar/murat-muratoglu/trt-kapansin-para-bosa-akmasin-2186988/">ilgili yazı.</a>
+- entry_name: |
+    zeytin dalı harekatı
+  entry_id:  73713714
+  entry_writer: der meister
+  entry_fav_count: 46
+  entry_content: |
+    resmi bir kaynaktan teyit edebilmiş değilim ama birden çok kaynaktan okuduğuma göre rus askerleri ve suriye sınır muhafızları da arimah ve menbiç'ten çekilmeye başlamış yavaş yavaş. bu gerçekse eğer hewaller feci şekilde yan basmış demektir.<br/><br/>yalnız genel anlamda bize karşı takınılan tavır o kadar ılımlı ve hatta yer yer pozitif ki ben korkuyorum ister istemez. çoğu avrupa devletinin "türkiye'nin kendini savunma hakkı var" demesi falan ne bileyim. evet, ne yaptığı belli olmayan bir gruptansa nato üyesi, avrupa'ya ve orta doğu'ya sınırı olan bir devleti tercih etmek işler ciddiye bindiğinde en kolay tercih olarak görülebilir ama bu ülkelerin ve politikacıların ne kadar ikiyüzlü olabildiklerini de biliyoruz. umarım en az kayıpla ve bizim istediğimiz şekilde neticelenir bu süreç.
 - entry_name: |
     koreli misyonerler
   entry_id:  73728466
   entry_writer: baskasininbardagindansuicenadam
-  entry_fav_count: 38
+  entry_fav_count: 41
   entry_content: |
     şimdi buraya epey uzun bir entry yazacağım okumak istemeyen sondaki özet kısmına da geçebilir.<br/><br/>olayları kronolojik sırada ve tüm ayrıntıları ile yazacağım ki herhangi bir eksik kalmasın.<br/><br/>2017 temmuz ayında yani geçtiğimiz temmuz ayında istanbul mecidiyeköy'deki profilo avm'ye telefonumu tamir ettirmek için gittim. burada türk insanlarının yapısı ile alakalı araştırma yapmak istiyoruz diyen üç koreli kadın yanıma geldi. bana kimsenin ingilizce bilmediğini benim iyi konuştuğumu iki dakika yardımcı olup olamayacağımı sordu, ben de peki dedim ve anketi doldurdum. anket dediğim bu arada boş kağıda şekiller çiziyorsunuz. ad yazıyorsunuz ve bir de numara. (numaramı da yazmasaydım keşke yazdım bir kere)<br/><br/>aradan bir hafta geçtikten sonra beni aradı biri, dedi ki kişilik analizini yaptık almak isterseniz beşiktaş tarafında oluyoruz biz sana yemek de ısmarlamak istiyoruz yardımcı oldun bize dedi. ben de yemek varsa gidilir dedim ve gittim. buluştuk beşiktaş'ta oturduk bir pizzacı vardı barbaros bulvarındaki yokuştan çıkarken solda kalıyor. orada sonuçları bir verdiler bana, bakıyorum bakıyorum benim yani net her şeyimi çıkarmışlar. ben o testin sonucunu görünce etkilendim sordum direk siz nasıl yaptınız bunu diye. iki kişilerdi onlardan biri ben eğitimini aldım yıllarca burada da temelli kalabilmek adına kendi ofisimi açacağım dedi. (bu kısım aklınızda kalsın bir.) normalde kore'de terapi ücretim çok yüksektir ama burada tanıtım yapmak için ücretsiz alacağım pek çok kişiyi sen de onlardan biri ol dedi. ben de diyorum ki korelidir zararı olmaz herhalde hafta sonu oturup bir saat anlatırım dedim. kalktım yanlarından.<br/><br/>tarih olarak temmuzun ortalarından sonuna doğru geldiğimizde ben haftada bir gün bu kadını görüyordum. kadına ben anlatıyordum o dinliyordu, sadece not alıyordu kağıdına. derken temmuzun son günlerinde yani ya 29 ya 30'uydu arkadaşlarım ile oturalım hep birlikte onlarla da tanış dedi. tamam dedim neden olmasın. yine buluştuk beşiktaş'ta 5 kişi geldiler ben ve kadın haricinde. ikisi türk (bir kız- bir erkek) ve üçü koreliydi(iki kız- bir erkek) gelenlerin. türk olanlarla muhabbete girdim ben direk erkek olan "benim de boş vaktim vardı, tanıştım iyi insanlara benziyorlar" dedi. (bu kısım aklınızda kalsın iki.)<br/><br/>o günden sonra her iş çıkışında (evim kadıköy'e çok yakın) hadi kadıköy'de hep birlikte buluşalım diye beni çağırmaya başladılar. bir de her şeyi ısmarlıyorlar nasıl hoşuma gidiyor. derken bir gün sen inanıyor musun diye sordu bir tanesi bana. ben de dedim ki allah'a inanıyorum ama dinlere inanmıyorum. direk cevap verdi ben de sadece allah'a inanıyorum ne güzel düşünüyorsun diye. içimden dedim iyi bari başımın etini yemeyecek. bunu diyen benim ya bir saat sonra derdimi anlattığım terapist kadın dinlerle aran nasıl dedi. ben yine aynı cevabı verdim o da diğer kızla aynı cevabı verdi.<br/><br/>aradan iki gün sonra elinde incille geldi terapist kadın hadi bu sefer bir şeyler okuyalım diye. iyi dedim okuyalım.(gram umurumda değil, bedava yiyorum içiyorum) bana önce bir uygulama indirtti. "bible+" app store'da da play store'da da var. başladı karışık bir oradan bir buradan okumaya. ben de diyorum haklısın, çok doğru, o kadar doğru ki falan diye. dediği şeyler de tanrı çok iyi şeytan hep işleri bozdu, ah cizız vah cizız. o gün bir şey demedim artık. sonra dışarıda hep bir buluşmalara incil getirmeye başladı. bir baktım bu "ben de yeni tanıştım" ayağı çeken eleman bildiğin bunları daha önce dinlemiş ve destekliyor. o an dedim "burada bir pislik dönüyor dur bakayım bir şey çıkacak mı?" bunlar zaman ilerledikçe sürekli sürekli incil muhabbetine vurdular olayı, bunlar konuşuyor ben yiyip içip arkadaşlarımın yanına geçiyorum.<br/><br/>ağustos ayında artık tertemiz bir işsizdim. bir yandan nasıl para harcamasam ve nasıl vakit geçirsem derken içimden dedim koreliler ile takılayım da bedava yer içerim. başladım gün içinde de buluşmaya. zaten ola ki ararsan direkt gel de bir şeyler ısmarlayayım diyorlar. ağustosun sonuna doğru kadın dedi ki senin incili dinlemenden çok etkilendim seni bir büyüğümüz ile tanıştıracağım. dedim iyi olur getir. yalnız bunu dediğim gibi adam oturduğumuz kafede belirdi. geldi dünya görüşün nedir falan diye sordu, konuştuk biraz başladı bu da çok hoşuma gitti söylediklerin ben seninle daha çok vakit geçirmek isterim diye. sırf göt kaldırıyorlar peygamber yaptılar beni bir ayda. doğum günüm ağustos ayındaydı illa dediler ki evine gelelim her şey bizden. ben de konuştum arkadaşlarla dedik gelsinler biz sonra buluşuruz diye. geldiler eve aman allah'ım pastalar, yemekler, hediyeler.(hediyelerin toplam tutarı 400 lira vardır rahat) içimden dedim bunlar bu kadar yatırım yaptı bana beni bırakmazlar ben azardan tüyeyim. azardan başladım bana yol verin demeye.<br/><br/>ağustos ayının sonuna geldik bunlar geldi dedi ki sana iş bulduk en iyisinden git de bir görüş. harbiden de kore firmasından normalde kazanacağımın 3 katı maaşlı iş bulmuşlar. teklif öyle olunca dedim ben gireyim bu işe iyi para kasarım.(iş yeri çalıştığımın ikinci ayında battı.)<br/><br/>başladım ben çalışmaya, çalışma saatleri çok güzel, iş şartları çok güzel ben de devam ediyorum. bu sırada bu totalde 7 koreli (her şeyi bildiğini iddia eden abileri, terapist kadın ve 3 işlevsiz koreli ile 2 türk) iş çıkışlarıma geliyorlar sürekli kahve ve yemek ısmarlıyorlar.<br/><br/>eylül'ün sonuna doğru bunlar geldi biz ofis açtık seni de bekliyoruz diye. ne yapıyorsunuz ofiste dedim, türkler ile kaynaşıyoruz sen de gel epey insanla tanışırsın dediler. iyi dedim gittim ben de ve içeride bunlar haricinde 7 türk daha vardı. ofis dedikleri şey bildiğin sınıf yalnız sıralar var ve beyaz tahta var duvarda büyük. bunlar herkesi oturttular başladılar bana anlattıklarını millete anlatmaya. içerideki insan profili ise hep dinen kararsız kalmış benimle yaşıt veya biraz büyük veya küçük yaşta olanlar. o gün bir şey demeden kalktım gittim.<br/><br/>bu sırada iş yerinde düşünüyorum bu insanlar bildiğin misyoner gençlerin kafalarına girecekler. derken oradaki kadın olan türk bana mesaj attı müsait misin diye. dedim buluşayım ne diyecek diye. bir başladı anlatmaya; dikkatli ol bu insanlara bir kere bulaştın mı kendini kurtaramazsın, her bilgine bir şekilde ulaşıyorlar, seni zehirliyorlar yalan yanlış şeylerle diye. ben de sen rahat ol dedim bana bir şey olmaz. (amcam ve abim savcı, annem ve babam bakanlıkta müfettiş ve ben de avukatım) ayıptır demesi arkam sağlamdır. ben direkt sordum sen niye bu insanlarlasın diye? meğerse kıza aylık 6 bin lira veriyorlarmış onlarla çalışsın diye. arkadaşlar "6" "altı" büyük harflerle yazıyorum altı. kızın da o paraya gerçekten ihtiyacı var o konulara girmeyeceğim.<br/><br/>bir gün sonra gittim ben ofise yine ama nasıl kuruldum, içimden diyorum ben bunlara pislik yapacağım. başladım sözde "derste" anlattığı her şeye muhalefet olmaya. rahat rahat da muhalefet olabiliyorum o konuları okuduğum için önceden. o her şeyi çok bilen bir sinirlendi elindeki tahta kalemini tahtaya vurarak " yeter artık sus veya defol" dedi. içimden dedim aha herkes gördü gerçek yüzünü. başladım mağdur ayağına ben öğrenmeye çalışıyorum siz ne yapıyorsunuz diye. çıktım ofislerinden o gün.<br/><br/>bir gün sonra yine geldim bir baktım kimse kalmamış sınıfta. nasıl sevinçliyim içimden diyorum sıçtım ağızlarına. gittim bir de dedim ben de gelmiyorum artık beni aramayın da sormayın da diye. sen misin bunu diyen sevdiğim kız vardı o zaman ona beni ifşa etmeler (bak onun çok sevgilisi oldu o şöyledir böyledir zart zurt diye). bende film koptu tabi. aradım sözde terapisti (iki ay oldu ofis falan yok ortada hepsi uydurmaca) başladım saymaya "beni veya benimle ilgili bir şeye bir daha karışırsanız yakarım ofisinizi" diye. yalnız ciddi ciddi elime alacaktım sopayı girecektim öyle şeyler demişler ki kıza. ondan sonra beni bir daha aramadılar. yalnız kızdan öğrendiğime göre oturduğum evin sahibine bakmışlar falan bana ulaşmak için niyetleri varmış ama korkuyorlarmış türk kızdan öğrendiğime göre. ben de dedim kıza isterlerse denesinler görelim neler olacak diye.<br/><br/>sonuç: bu hayatta bedavacı olmak kötü sonuçlanıyor ve insanlara sırf ırkları sebepli olumlu veya olumsuz ön yargılı yaklaşmamak gerek. misyonerler orospu çocuğudur.<br/><br/>tavsiye: burayı okuyan kore hayranı insanlar varsa türkiye'de bulunan koreliler'e karşı dikkatli olsunlar incil muhabbeti açıldığı gibi uzaklaşsınlar. benim gücüm vardı belki ondan az zararla kurtuldum ama çok daha büyük zararlara yol açabilirler. hemen aile ile paylaşılmalı bu muhabbetler ayrıca.<br/><br/>özet: misyoner koreliler iyi niyetli yaklaşarak türkiye'de insanları hristiyan (her korelinin kendi yorumladığı hristiyanlığı var bu arada) yapmak istiyorlar ve gerçekten çok profesyonel yapıyorlar bu işi ben de bu tuzakların arasından çıktım.<br/><br/>not: isteyene özelden hangi topluluk olduğu gibi bilgileri verebilirim ancak önemli olan isimler değil de bu tiplerin tümünün insanları zehirlemeye çalışması, çünkü amaçları din yaymaktan ziyade mürit toplamak. fetö gibi pislikleri temizlerken bir de bu tiplerle uğraşmayalım.<br/><br/>bu insanların fetöden tek farkı henüz devletimizi kandıramamış olmaları.
 - entry_name: |
@@ -181,14 +188,14 @@ data:
     sevgili dışında birine ithafen yapılmış şarkılar
   entry_id:  73723831
   entry_writer: erotic lounge
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     abdurrahman onul'un kabe yollari da bu kategoriye girebilir.
 - entry_name: |
     jahrein
   entry_id:  73713872
   entry_writer: ceyfi
-  entry_fav_count: 27
+  entry_fav_count: 29
   entry_content: |
     bu eleman değil miydi engelli bi çocuğun kendine eğlence olsun diye açtığı youtube kanalından bahsederken bir sürü aşağılayici laf eden. ben mi yanlış hatırlıyorum?
 - entry_name: |
@@ -206,26 +213,33 @@ data:
   entry_content: |
     çocukça bir mantıkla ilerleyen senaryosunda devamlılık sorunu olan dizi. bu yapımı, izlesem de olur izlemesem de noktasına cekip ona cerezlik bir hava veriyor. amiral konumda olmak isteyen bir yapım bu hataları kaldırmaz. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dizinin bir bölümü ne kadar zamanda geciyor anlaşılmıyor. bir gün içinde aynı kıyafetlerle hem öğretmeni kafalıyor merve hem ortalığı karıştırıyor hem evi teslim alıyor. o derece hızlı. <br/><br/>merve parti veriyor gece. parti bitiyor. kocası evden çıkıp oyanın yanına yeni ofise gidiyor. oya usta başı ile beraber tadilat işlerine bakıyor. gece ikide usta ile buluşmuş heralde evde. <br/><br/>kimi sorunların en düğüm noktası en sorunsuz halledilen bölüm oluyor bazen. ilkokul öğretmenini pelin'in kendisine aşık olduğuna inandırıp kocası taylan ile karşı karşıya getiren merve çok rahatlıkla öğretmeni görevinden sürdürüyor. o öğretmen noluyo ben oyuna geldim filan demiyor. pelin'in de ne hikmetse evi geri almak için merve nin şantaj yaptığını kocasına söylemesi bir seçenek değil. üstüne üstlük bu kadar zenginlerin yaşadığı yerde çocukları devlet okuluna mi gidiyor. yoksa kolejde o öğretmenin tayini nasıl ağrı ya çıkacak. taylan karısına inanmıyorsa onun arkadaşına neden inanıyor peki. ve daha nicesi. <br/><br/>bu kadar özensizlik çok fazla. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    beyler koğuşa su basılacak
-  entry_id:  73729244
-  entry_writer: calgonun duzeltemedigi camasir makinasi
-  entry_fav_count: 20
-  entry_content: |
-    kabuslar yaşatan cümle. bizim bölükte hakkarili bir koğuşcu vardı. bu müptezel pezevenk resmen zevk alırdı su basmaktan. öyle bir su başardı ki yastık yorgan su içinde kalır, japon balığı atsan yuzerdi. suyu çekmek 45 dakika sürerdi. buradan koğuşcu nurettin'e selam göndermek istiyorum ama okuma yazması yok.
-- entry_name: |
     devlet bahçeli
   entry_id:  73733112
   entry_writer: novy
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     süper güce boyun eğmeme gibi bir duruşun sebebi olarak öne sürülen amerikancı.<br/><br/>amerikancı.<br/><br/>edit:gösterin denmiş. 9.filo ve mhp'nin kuruluşu diyor ve çekiliyorum. zeki çocuklarsınız siz. okuyun biraz da.
 - entry_name: |
-    jet sosyete
-  entry_id:  73715155
-  entry_writer: melankolik optimist
+    24 ocak 2018 yeter ulan artık yeter be
+  entry_id:  73734764
+  entry_writer: no status
+  entry_fav_count: 22
+  entry_content: |
+    (bkz: <a class="b" href="/?q=al+abi+snickers+ye">al abi snickers ye</a>)
+- entry_name: |
+    beyler koğuşa su basılacak
+  entry_id:  73729244
+  entry_writer: calgonun duzeltemedigi camasir makinasi
+  entry_fav_count: 21
+  entry_content: |
+    kabuslar yaşatan cümle. bizim bölükte hakkarili bir koğuşcu vardı. bu müptezel pezevenk resmen zevk alırdı su basmaktan. öyle bir su başardı ki yastık yorgan su içinde kalır, japon balığı atsan yuzerdi. suyu çekmek 45 dakika sürerdi. buradan koğuşcu nurettin'e selam göndermek istiyorum ama okuma yazması yok.
+- entry_name: |
+    24 ocak 2018 meral akşener'in esad açıklaması
+  entry_id:  73732476
+  entry_writer: insan donuna girmis telli turna
   entry_fav_count: 18
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>50. bölümden sonra izlenme oranı azalınca yaşlı bir teyzenin ortaya çıkacağı dizi. o teyzenin bir cümlesi sosyal medyada çok kullanılacak vs.<br/><br/>(bkz: <a class="b" href="/?q=avrupa+yakas%c4%b1">avrupa yakası</a>) --&gt; (bkz: <a class="b" href="/?q=dilber+hala">dilber hala</a>) --&gt; (bkz: <a class="b" href="/?q=terledim+ha">terledim ha</a>)<br/><br/>(bkz: <a class="b" href="/?q=yalan+d%c3%bcnya">yalan dünya</a>) --&gt; (bkz: <a class="b" href="/?q=vasfiye+teyze">vasfiye teyze</a>) --&gt; (bkz: <a class="b" href="/?q=ne+%c3%a7ektin+be">ne çektin be</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    bir chp'li olarak katıldığım açıklama.<br/><br/>bu operasyonu esad yürütmeliydi, o topraklar için suriyeliler savaşmalıydı. biz de havadan destek verirdik, askerlerimizi bataklığın içine sokmamış olur, güney sınırımızda ypg'nin oluşumunu engellemiş olurduk.
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  73713581
@@ -234,26 +248,19 @@ data:
   entry_content: |
     anlayamiyorum; en kucuk ayrintisina kadar bildigin insanla nasil iki yabanci olunuyor? insanoglunun icinde daha kac tane boyle adi, boyle asagilik duygu var? bazen, keske bir hamambocegi olarak gelseydim dunyaya diyorum...
 - entry_name: |
-    24 ocak 2018 meral akşener'in esad açıklaması
-  entry_id:  73732476
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 14
-  entry_content: |
-    bir chp'li olarak katıldığım açıklama.<br/><br/>bu operasyonu esad yürütmeliydi, o topraklar için suriyeliler savaşmalıydı. biz de havadan destek verirdik, askerlerimizi bataklığın içine sokmamış olur, güney sınırımızda ypg'nin oluşumunu engellemiş olurduk.
-- entry_name: |
     selfie çekerken tren çarpmasıyla komaya giren adam
   entry_id:  73727328
   entry_writer: tichko
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     bundan önce baba olduysa, doğal seleksiyon işlememiştir.
 - entry_name: |
-    24 ocak 2018 türk tabipler birliği tweet'i
-  entry_id:  73733990
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 13
+    erbatur ergenekon
+  entry_id:  73733987
+  entry_writer: deathstarinmemeucu
+  entry_fav_count: 14
   entry_content: |
-    tabip sen elleme bizim yaramizi.
+    istediğiniz kadar kafa adam diye övün yaptığı salak salak yorumlar gazeteciliğe, profesyonelliğe, sunuculuğa yakışmıyor. haber sunarken bile haberin arkasından kahvehane ağzı yaptığı yorumlar çok uyuz. kanalda kimse kalmadığı için her şeye de sürülüyor, ne zaman ntvspor açsak ya bu ya 0-0 devam eden gent-anderlecht maçı.
 - entry_name: |
     13 yaşında alınan nick'ler
   entry_id:  73726748
@@ -262,19 +269,47 @@ data:
   entry_content: |
     biz 13 yaşımızdayken internet amerikan ordusunun tekelindeydi.<br/><br/>yaşlanmışız ya la...
 - entry_name: |
-    erbatur ergenekon
-  entry_id:  73733987
-  entry_writer: deathstarinmemeucu
-  entry_fav_count: 11
+    alfa romeo giulietta
+  entry_id:  73719769
+  entry_writer: varos cloudstrider
+  entry_fav_count: 10
   entry_content: |
-    istediğiniz kadar kafa adam diye övün yaptığı salak salak yorumlar gazeteciliğe, profesyonelliğe, sunuculuğa yakışmıyor. haber sunarken bile haberin arkasından kahvehane ağzı yaptığı yorumlar çok uyuz. kanalda kimse kalmadığı için her şeye de sürülüyor, ne zaman ntvspor açsak ya bu ya 0-0 devam eden gent-anderlecht maçı.
+    "otobanda giderken arkadan selektör yapıp gelen hiçbir arabanın siz istemedikten sonra sizi geçme ihtimali yok" denmiş.<br/><br/>sen araba kullanma güzel kardeşim, sen yolun bundan sonrasına katırlarla devam et bence. alfa romeo'nun kendisi bile böyle bir iddiada bulunmamıştır.
+- entry_name: |
+    kıskanmayan trip atmayan hesap sormayan kadın
+  entry_id:  73733169
+  entry_writer: kahve muptelasi
+  entry_fav_count: 7
+  entry_content: |
+    çok farklı bir kadın imajı çizerek saf erkekleri tuzağına düşürmeye çalışan dişi modelidir. imzayı atıp evlendikten sonra nasıl bir oyunun içine çekildiğinizi daha iyi anlarsınız. ama işte o zaman artık her şey için çok geçtir. ya kadının kölesi olup her dediğini yapacaksınız, ya da boşanıp istediği nafakayı ömür boyu ödeyeceksiniz . iki ucu boklu değnek misali. <br/><br/>kaşınmayın, akıllı olun kadınlara aldanmayın!
+- entry_name: |
+    futbolda izlenilen oyunculardan kurulu en iyi 11
+  entry_id:  73726054
+  entry_writer: fenerbahce fedaisi
+  entry_fav_count: 7
+  entry_content: |
+    dida<br/>cafu - nesta - stam - maldini<br/>gattuso - pirlo - kaka - seedorf <br/>shevchenko - ınzaghi<br/><br/>ben daha iyisinin kurulduğunu hatırlamıyorum
+- entry_name: |
+    8.5 saatte 1500 çinli işçinin yaptığı demiryolu
+  entry_id:  73725133
+  entry_writer: aksiyom
+  entry_fav_count: 7
+  entry_content: |
+    8.5 çinli işçinin 1500 saatte yapacagi demiryoludur ayni zamanda. <br/><br/>ı love matematik. <br/>(burda, iki elimizi kivirip gogus hizasinda birlestirerek kalp figuru oluşturuyoruz)
 - entry_name: |
     23 ocak 2018 iki şehidin naaşlarına ulaşılamaması
   entry_id:  73733147
   entry_writer: awieanton
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     savasi sansürle yoksaymayi, ölen insanlari da yokmus göstermeyi marifet sayan ve bunu yapmayanlari da vatanhainligiyle suclayanlarin toplandigi baslik.<br/><br/>ülkece gözlerinize perde inmis anlasilan.
+- entry_name: |
+    ___o/___
+  entry_id:  73734181
+  entry_writer: ne bilem la
+  entry_fav_count: 6
+  entry_content: |
+    su çok güzel gelsene diyen dayı.
 - entry_name: |
     londra'nın bitmiş olması
   entry_id:  73714170
@@ -283,45 +318,10 @@ data:
   entry_content: |
     başlık tam bir <a class="b" href="/?q=clickbait">clickbait</a> ama entry kısmen haklı. kısmen diyorum çünkü bahsettiği ankara anlaşmalılar ve o.ç. türk işverenler hakikaten var ve çok ama herkes aynı şartlarda yaşamıyor. sadece ankara anlaşmasına başvururken beyan ettiği işi yapan hakikaten az insan var kaldı ki has ingiliz de olsan iyi bir işin yoksa 2-3 farklı işte çalışmak gayet normal. <br/><br/>diğerlerinin de bahsettiği şu 2. sınıf 3. sınıf meselesi tamamen yalan. sarayda kontlarla mı takılıyorsunuz bilmiyorum ama ben henüz hiç böyle birşeyle karşılaşmadım. ne bir ırkçılık ne de ingiliz olmadığım için dışlanma vb. yaşamadım.<br/><br/>iki sene oldu buraya geleli, ilk bir sene hakikaten çok zordu. çalışma iznim olmasına rağmen kendi mesleğimle ilgili ufak tefek freelance iş dışında pek birşey çıkmadı ilk yıl. şu anda gayet iyi kazandığım mükemmel bir işim, bir sürü ingiliz ve diğer milletlerden arkadaşım var. kız arkadaşım da ingiliz, onun sayesinde normalde öğrenmesi nispeten zor olan ince ingiliz geleneklerini de öğreniyorum. <br/><br/>kısacası londranın bittiği falan yok. aynı şey amerika veya almanya da yaşanıyordur muhtemelen.
 - entry_name: |
-    ___o/___
-  entry_id:  73734181
-  entry_writer: ne bilem la
-  entry_fav_count: 2
-  entry_content: |
-    su çok güzel gelsene diyen dayı.
-- entry_name: |
-    kıskanmayan trip atmayan hesap sormayan kadın
-  entry_id:  73733817
-  entry_writer: soguktu ve yagmur ciseliyordu
-  entry_fav_count: 2
-  entry_content: |
-    terk edilecektir.<br/><br/>erkekler, ne kadar inkâr ederse etsinler, arıza kadın seviyorlar. rahatsız, ruh hastası, şirret, hiçbir şeyden memnun olmayan, tipine bile bakmadan zor kadını oynayan kezbanlara aşık olup değer veriyorlar. tıpkı kadınların piç erkeklere değer verdiği gibi.
-- entry_name: |
-    24 ocak 2018 yeter ulan artık yeter be
-  entry_id:  73734745
-  entry_writer: sun train
-  entry_fav_count: 2
-  entry_content: |
-    rezalet başlığı olarak değerlendirilebilir. ancak çok genel bir entry olmuş. tam olarak neden bıktığınızı anlatırsanız...
-- entry_name: |
-    futbolda izlenilen oyunculardan kurulu en iyi 11
-  entry_id:  73734552
-  entry_writer: erua
-  entry_fav_count: 1
-  entry_content: |
-    <a class="b" href="/?q=sergio+ramos">sergio ramos</a>u defansa koyanlar herhalde futbolla yeni tanıştı. <a class="b" href="/?q=lucio">lucio</a>, <a class="b" href="/?q=cannavaro">cannavaro</a>, <a class="b" href="/?q=nesta">nesta</a>, <a class="b" href="/?q=maldini">maldini</a>, <a class="b" href="/?q=puyol">puyol</a> <a class="b" href="/?q=rio+ferdinand">rio ferdinand</a> (daha uzar gider bu liste) dururken adam gidiyor ramos yazıyor. üzmeyin lan beni.<br/><br/>tanım: lise yıllarının değişilmez goygoylarından birisi.
-- entry_name: |
-    cem yılmaz'ın afrin hakkında paylaşım yapmaması
-  entry_id:  73717037
-  entry_writer: dogru
-  entry_fav_count: 1
-  entry_content: |
-    yapmamış olması hassas olmadığı anlamına mı geliyor? komik olmayın. storylerle twitlerle yaşıyorsunuz amk! hayatınız dijital amk! <br/><br/>yapsa bu sefer de yeni filmin reklamı için yaptı dersiniz. <br/><br/>siz gidin yeni filmindeki asker fotosuyla paylaşım yapanların filmlerini izleyin.
-- entry_name: |
     asla mutlu olamayacak insanlar
   entry_id:  73733685
   entry_writer: sekil bozuklugu
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     sevgiyi, sevmeyi, sevilmeyi bilmeyen insanlar.
 - entry_name: |
@@ -339,12 +339,12 @@ data:
   entry_content: |
     vay anasını arkadaş şu adamın tutuklanmasına bile üzülüp duyar kasan var vay amk ya.<br/><br/>ulan siz mi çok safsınız yoksa biz mi çok abartıyoruz. lan adam terörü övüyor göz göre göre. ne yapsınlar? ödül mü versinler bu kansıza? bıktık sizin bu sahte duyarlılıklarınızdan. sen ekmek yediğin vatana ihanet etmedikçe devlet neden seni durduk yere hapse tıksın? bu kadar mı güvenmiyorsun yaşadığın ülkeye? tamam çok gelişmiş bir ülke olmayabiliriz hatta iktidarın birçok politikasını şahsım da yanlış buluyor. ancak bu nedir arkadaş, siyasetteki parti muhalifliği uğruna vatanına her fırsatta bok atmaya çalışmak?! bunu anlayamam güzel kardeşim kusura bakma. istediğin dünya görüşüne sahip olabilirsin, beni ilgilendirmez. ama ottan boktan sebeplerle kendi memleketini itin götüne sokan birine duyar kasılmaz. duyar niye, kime kasılır? gerçekten çaresiz ve ihtiyacı olan masum insanlara destek olmak için yapılır. kimsesizlerin kimsesi olmak için yanında olunur. devletin imkanlarıyla okuyup doktor olan biri kalkıp "anneme sordum, ypg'ye katılacağım dedim. katıl oğlum dedi" gibi bir tweet atıyorsa bu adamın neresinde masumiyet arıyorsun?<br/><br/>elindeki ilk fırsatta sizleri öldürmekten çekinmeyecek insanlara bu kadar üzülmeyin tatlı su hümanistleri. gözlerimi yaşartıyorsunuz.
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  73725725
-  entry_writer: posta kodum da ayni yavrum
+    sen anlat karadeniz
+  entry_id:  73734730
+  entry_writer: sanki bana falan filan
   entry_fav_count: 0
   entry_content: |
-    grafiker + web uı / ux tasarımcısı aranıyor.<br/><br/>bilmesi elzem olan şeyler : html - css , photoshop<br/><br/>bilirse güzel olan şeyler : javascript<br/><br/>iyi tasarım / dizayn yeteneğinin olması şart,<br/><br/>çizim yeteneğinin olması artı, çok şart değil,<br/><br/>erkek / kadın fark etmez , çalışılabilir olması önemli.<br/><br/>not : oyun/oyuncu geçmişi olması da çok artı olmasa da artı
+    ben de kalelileri bi bok sanmistim aq. adam istanbuldan geldi adamin memleketinde evine basti.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  73722917
