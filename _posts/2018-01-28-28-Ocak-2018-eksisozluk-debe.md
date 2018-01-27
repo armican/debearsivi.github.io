@@ -6,14 +6,14 @@ data:
     dara düşenin malını ucuza almak
   entry_id:  73786203
   entry_writer: bir sessiz adam
-  entry_fav_count: 297
+  entry_fav_count: 300
   entry_content: |
     dara düşen birisi ihtiyaçtan satılık diyerek malını satışa çıkarınca "dur satma, al ihtiyacını gider, sonra ödersin" demez kimse.<br/><br/>bu bir yana yok pahasına o kişinin malını alan şahıs "abi adam sıkışmış, çok ucuza adeta bedava aldım" diye hava atar. üstelik de bu konuşma hiç yadırganmadığı gibi övgü alır. kişi açıkgözlü ve işini bilen bir tip olduğu için adeta tebrik edilir, takdir görür.<br/><br/>ama sorsan herkes ahlak abidesi.<br/>din ve ahlak unutulmuş, sadece edebiyatı kalmıştır ne yazık ki.<br/>bu da bunun en bariz örneklerinden.
 - entry_name: |
     lozan'da kim neyi vermiş anlatacağım
   entry_id:  73796334
   entry_writer: kesesini kaybeden kanguru
-  entry_fav_count: 280
+  entry_fav_count: 289
   entry_content: |
     ben soyleyim. adalari osmanli kaptirmisti. sevr denen rezalet vardi bir de. teslimiyet belgesi. hani lozan sayesinde temizlenen kara leke.
 - entry_name: |
@@ -27,7 +27,7 @@ data:
     başlık ayrımı önerileri
   entry_id:  73789823
   entry_writer: ddr house
-  entry_fav_count: 226
+  entry_fav_count: 227
   entry_content: |
     ekşi sözlük (sözlük)<br/>ekşi sözlük (forum)<br/><br/>oyumu forumdan yana kullanıyorum.<sup class="ab"><a title="(bkz: bgv)" href="/?q=bgv" data-query="bgv">*</a></sup>
 - entry_name: |
@@ -41,23 +41,44 @@ data:
     ypg'nin afrin'deki enternasyonel savaşçıları
   entry_id:  73791782
   entry_writer: uff snne be slk
-  entry_fav_count: 177
+  entry_fav_count: 178
   entry_content: |
     doğdukları topluma tutunamayan loser tayfa. gübre olacak yavşaklar.
+- entry_name: |
+    geldiğimizde sadece 1 tane hava yolu vardı
+  entry_id:  73793698
+  entry_writer: trmert
+  entry_fav_count: 120
+  entry_content: |
+    cumhurbaşkanı'nın kasımpaşa'da yaptığı açılışta sarf ettiği sözdür. <br/><br/>kendisi <a class="b" href="/?q=sunexpress">sunexpress</a>'in 1989'da, <a class="b" href="/?q=onur+air">onur air</a>'in 1992'de, <a class="b" href="/?q=atlasglobal">atlasglobal</a>'in<sup class="ab"><a title="(bkz: önceden)" href="/?q=%c3%b6nceden" data-query="önceden">*</a></sup><sup class="ab"><a title="(bkz: atlasjet)" href="/?q=atlasjet" data-query="atlasjet">*</a></sup> 2001'de kurulduğundan, <a class="b" href="/?q=istanbul+hava+yollar%c4%b1">istanbul hava yolları</a>'nın 1985-2000 arasında faal olduğundan bihaber olmalı ki böyle bir yanlış önermede bulunsun.<br/><br/><a class="b" href="/?q=freebird">freebird</a> (2001), <a class="b" href="/?q=pegasus">pegasus</a> (1990) ve diğer charter firmalar<sup class="ab"><a title="(bkz: birgenair)" href="/?q=birgenair" data-query="birgenair">*</a></sup> da ilave edilebilir bu kapsamda.<br/>listeye ilaveler geliyor: <a class="b" href="/?q=mng+airlines">mng airlines</a>, <a class="b" href="/?q=sky+airlines">sky airlines</a>, <a class="b" href="/?q=kthy">kthy</a> gibi...<br/>hatta şuradan irili ufaklı hepsi görülebilir. <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Türkiye&#39;nin_faaliyet_dışı_havayolları" title="https://tr.wikipedia.org/wiki/Türkiye&#39;nin_faaliyet_dışı_havayolları">link</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.airlinehistory.co.uk/europe/turkey/airlines.asp" title="http://www.airlinehistory.co.uk/europe/turkey/airlines.asp">link 2</a><br/><br/>katkıları için <a class="b" href="/?q=dai">dai</a>, <a class="b" href="/?q=ready+for+departure">ready for departure</a> ve <a class="b" href="/?q=ferli+kerli">ferli kerli</a>'ye de teşekkürler!
 - entry_name: |
     15 yaşındaki suriyeli kızın tecavüze uğraması
   entry_id:  73794824
   entry_writer: alter mann
-  entry_fav_count: 111
+  entry_fav_count: 113
   entry_content: |
     bahse varım tartışılsa "ama onlar bizim din kardeşlerimiz" diyerek ülkemizdeki sığınmacıları savunacak kesimden birinin tecavüzüne uğramıştır.
 - entry_name: |
     ali koç
   entry_id:  73793023
   entry_writer: adam olan cocuk
-  entry_fav_count: 106
+  entry_fav_count: 108
   entry_content: |
     an itibariyle konuşmaktadır. <br/><br/>aziz yıldırım ve yönetimin karşısında nazikçe 'günü kurtarıcaz diye, kulübün anasını siktiniz. koltuk sevdasına düşüp bunun için her yolu mübah gördünüz; sağa sola saldırıp milleti bize düşman ettiniz. siktirin gidin lan artık bu kulüpten düşün yakamızdan' demektedir.<br/><br/>edit: nane limon verin başkanıma hemen çabuk
+- entry_name: |
+    müsterinin pizzasından tırtıklayan dominos kuryesi
+  entry_id:  73800550
+  entry_writer: kumrengi
+  entry_fav_count: 105
+  entry_content: |
+    derhal işinden kovulması gereken pizzacıdır. senin görevin o pizzayı teslim etmek. pis mi temiz mi belli olmayan ellerinle tırtıklamak değil. ne hakla başkasının yemeğini yiyebiliyorsun? kargocu olsan paketleri sallayıp içini mi açacaksın? bir örnek daha verecektim ama gg.<br/><br/>kokmuştur veya canı çekmiştir gibi yorumları gördükçe bizim ülkenin neden adam olamayacağını daha iyi anlıyorum.. bu aşırı duyar/merhametle, "amaan noolcak canım" larla daha çoook gelişirsiniz. kitlerler böyle 5 milyon göçmeni.<br/><br/>editos: olay türkiye'de yaşanmamış. entryimi burda yaşanmış gibi okuyun.
+- entry_name: |
+    iskilipli atıf hoca
+  entry_id:  73791031
+  entry_writer: annl
+  entry_fav_count: 101
+  entry_content: |
+    mantığını siktiğim iskilipliler aralarında para toplamış diye, sadece iskilipli diye bu yavşak vatan hainini masum ilan etmiş , bir de tarihi suçlamış.<br/><br/>siktiğimin cinsi cinsine çeker diye boşuna dememişler.
 - entry_name: |
     star wars'ta her gezegenin atmosferi olması
   entry_id:  73792231
@@ -66,19 +87,19 @@ data:
   entry_content: |
     hikayenin on binlerce yıldız sistemindeki on binlerce gezegenin sadece yaşama elverişli olanlarından geçmesi kaynaklı bir gerçek.<br/><br/>edit: başlıkta imla kurallarına tecavüz edilmiş şimdi fark ettim.
 - entry_name: |
-    iskilipli atıf hoca
-  entry_id:  73791031
-  entry_writer: annl
-  entry_fav_count: 94
+    fakirlerin isyan edip ayaklanmama nedeni
+  entry_id:  73798604
+  entry_writer: iste boyle laz ismail
+  entry_fav_count: 95
   entry_content: |
-    mantığını siktiğim iskilipliler aralarında para toplamış diye, sadece iskilipli diye bu yavşak vatan hainini masum ilan etmiş , bir de tarihi suçlamış.<br/><br/>siktiğimin cinsi cinsine çeker diye boşuna dememişler.
+    düzeni, varolan durumu kabullenmiş ve içselleştirmiş olmalarındandır : "bir kölenin en büyük hayali özgürlük değildir, köle sahibi olmaktır"
 - entry_name: |
-    müsterinin pizzasından tırtıklayan dominos kuryesi
-  entry_id:  73800550
-  entry_writer: kumrengi
-  entry_fav_count: 88
+    öso'cuların linç etmeye çalıştığı ypg'li terörist
+  entry_id:  73795877
+  entry_writer: ejdereksi
+  entry_fav_count: 85
   entry_content: |
-    derhal işinden kovulması gereken pizzacıdır. senin görevin o pizzayı teslim etmek. pis mi temiz mi belli olmayan ellerinle tırtıklamak değil. ne hakla başkasının yemeğini yiyebiliyorsun? kargocu olsan paketleri sallayıp içini mi açacaksın? bir örnek daha verecektim ama gg.<br/><br/>kokmuştur veya canı çekmiştir gibi yorumları gördükçe bizim ülkenin neden adam olamayacağını daha iyi anlıyorum.. bu aşırı duyar/merhametle daha çoook gelişirsiniz. kitlerler böyle 5 milyon göçmeni.<br/><br/>editos: olay türkiye'de yaşanmamış. entryimi burda yaşanmış gibi okuyun.
+    ösocular refleks olarak kafa kesmeye götürmeye çalışıyorlar, allahtan türk askeri orada da katliam önleniyor.
 - entry_name: |
     papa alioune ndiaye
   entry_id:  73789126
@@ -87,26 +108,26 @@ data:
   entry_content: |
     transferinden en kazançlı selçuk çıkar. yani en büyük kaybı galatasaray yaşar. her kötülüğün başı selçuk, galatasaray'dan ayrılmadıkça orta sahada sıkıntılar bitmez.
 - entry_name: |
-    öso'cuların linç etmeye çalıştığı ypg'li terörist
-  entry_id:  73795877
-  entry_writer: ejdereksi
-  entry_fav_count: 83
-  entry_content: |
-    ösocular refleks olarak kafa kesmeye götürmeye çalışıyorlar, allahtan türk askeri orada da katliam önleniyor.
-- entry_name: |
-    fakirlerin isyan edip ayaklanmama nedeni
-  entry_id:  73798604
-  entry_writer: iste boyle laz ismail
-  entry_fav_count: 81
-  entry_content: |
-    düzeni, varolan durumu kabullenmiş ve içselleştirmiş olmalarındandır : "bir kölenin en büyük hayali özgürlük değildir, köle sahibi olmaktır"
-- entry_name: |
     bafetimbi gomis
   entry_id:  73801520
   entry_writer: nitta
-  entry_fav_count: 61
+  entry_fav_count: 74
   entry_content: |
     golden sonraki hareketiyle, paramı verin yoksa giderim demek isteyen oyuncu. haber: fanatik.
+- entry_name: |
+    27 ocak 2018 kabil bombalı saldırısı
+  entry_id:  73800464
+  entry_writer: kerevizyon
+  entry_fav_count: 50
+  entry_content: |
+    bir bombalı saldırıda yüze yakın kişi ölüyor. ama haber değeri ne kadar, işte görüyorsunuz. çünkü söz konusu afganistan, kabil.
+- entry_name: |
+    terk ederken söylenebilecek en ağır cümle
+  entry_id:  73789416
+  entry_writer: yengecin intikami
+  entry_fav_count: 48
+  entry_content: |
+    "senden cocuklarima baba olmaz. maneviyatin cok dusuk." burada maneviyattan kasti dini konular. isin asli evet cok dindar biri olmasamda allah'a inancim var. ilginc tabi 5 sene birliktelikten sonra bunu bahane etmesi. halbuki "iflas ettin, evine hacizler geliyor, gezmeye belediye otobusu ile gidiyoruz, altima araba cekemiyorsun ben sefil bir hayat yasamak istemiyorum." dese belki daha samimice olurdu. gecen yillarin ardindan samimi sebepler duymayi hak etmistim :) yillarca pesimi birakmayan kizin ben iflas edince boyle bir bahane one surmesi agirima gitmisti. paraymis meger hersey.
 - entry_name: |
     ekşi itiraf
   entry_id:  73785141
@@ -122,12 +143,12 @@ data:
   entry_content: |
     2018'in güzel bir yıl olacağına delalettir.<br/><br/>(bkz: <a class="b" href="/?q=go+(programlama+dili)">go (programlama dili)</a>)
 - entry_name: |
-    evde spor yapmak
-  entry_id:  73785505
-  entry_writer: schrodingerssheep
-  entry_fav_count: 42
+    27 ocak 2018 osmanlıspor'un iptal edilen golü
+  entry_id:  73800001
+  entry_writer: 364
+  entry_fav_count: 44
   entry_content: |
-    evde yapılan spor spor değilmiş...<br/>pirelli reklamı mısın lan pezevenk?<br/><br/>pull up spor değil<br/>chin up spor değil<br/>push up spor değil<br/>burpees var mesela, sporla alakası yok olm onun<br/>neyse daha saymayalım, bunlar çünkü spor değil<br/><br/>peki nedir bu spor? abi spor için önce; <br/>- atlet alıyoruz kendimize<br/>- eldiven alıyoruz bakın o şart<br/>- spor şort alıyoruz hemen bi tane (ama şort dediysek bakın; climacool climalight climaüber airdry dryfit flexstrech falan bunlardan olacak. çünkü neden? çünkü sıradan şortla yapılan spor spor değildir)<br/>- şort olmazsa tayt da olur ama kumaşı yukarıdaki özelliklere sahip olsun kesinlikle<br/>- ayakkabı alıyoruz mümkünse airmax climamax übermax highjump superfoam3 climajump8 olanlardan<br/>- bilek bandı kafa bandı falan alırsanız kas yapımı artıyor<br/>- protein tozu alıyoruz, güzel bir shaker alıyoruz<br/>- farklı çeşit supplementlerimizi saklamak için farklı saklama kapları alıyoruz<br/>- bluetooth kulaklık alıyoruz, bakın bu şart<br/>- smart watch alıyoruz çünkü nabzı bilmek önemli<br/><br/>tamam şimdi spora hazır olduğumuza göre, bir de domalacak salon buluyoruz. mortgage'la eve girer gibi 1 senelik anlaşıyoruz 3 taksitte ödüyoruz, aylık 200'ü falan gözden çıkarıyoruz.<br/><br/>tamam, spora hazırız.<br/><br/>salona geldik. ayna nerde abi? aynayı bulun. şimdi önce geçen haftadan bu yana kolumuza kıçımıza nolmuş ona bakıyoruz bi süre, sırtınızı dönün falan şöyle bir süzün vücudunuzu. maşallah adamım taş gibisin!<br/><br/>ilk hareketimiz biceps curl. aslında 15kg yapmamız lazım mesela ama 25'lik alıyoruz, maksat dostlar alışverişte görsün. 3x10 falan olması lazım düzenimizin ama biz 6 4 2 falan yapabiliyoruz ama olsun yeterli, her şeyin fazlası zarar zaten.<br/><br/>bench'e geçiyoruz. olurumuz toplam 80 ise mesela, 100 koyuyoruz. pozisyonu alıyoruz ve basıyoruz. basarken bakın şu önemli:<br/><br/>ııııggghhhhhhhhhaaartrrrhhh<br/>pıssssssssssşşşşiiiuuuvvv<br/>uuuuaaarrgggghhhjjjj<br/>pıııısssssssşşşşiiiiuuuvvvvvv<br/>uuuujauauajajmdidkauabej<br/>aaah hassiktir... yine mi omzum attı amk ya...<br/><br/>of amk of şu omzum bi rahat bırakmadı ya...<br/><br/>"abi noldu spor?"<br/>"bro sorma 120 bench'e ısınmadan girince attırdık omzu iyi mi..."
+    pozisyonun içindeki osmanlısporlu futbolcunun bile düdükten sonra itirazsız uzaklaştığı aslında hiç olmayan goldür. başlık israfıdır.
 - entry_name: |
     mert fırat
   entry_id:  73785729
@@ -136,12 +157,19 @@ data:
   entry_content: |
     5 sene önce "öcalan ile görüşme talimatını ben verdim" diyen erdoğan’a oy verenler,<br/>5 sene önce bir röportajda "öcalan ile görüşülmeli" diyen mert fırat’ı linç ediyor bugün. "hain" tarifinizin çapsızlığı bir yana ağır leşsiniz. ne kadar doğru düzgün yürekli dostlar edindiğimizi anlıyoruz her kudurduğunuzda. klavyelerine irin akıtmaktan öte "milli" mesaileri olmayan, hayatı boyunca kin ve nefret kusmaktan başka hiçbir şey üretememiş insan toplulugu; sanat güç ve para önünde eğilmeyecek kadar kuvvetlidir. toplamınızın cümleleri onun hayata kattığı değerin zerresi olamaz. döl israfı soytarılar.
 - entry_name: |
-    27 ocak 2018 osmanlıspor'un iptal edilen golü
-  entry_id:  73800001
-  entry_writer: 364
+    26 ocak ankara kızılay dilenci rezaleti
+  entry_id:  73785776
+  entry_writer: accpileup
   entry_fav_count: 39
   entry_content: |
-    pozisyonun içindeki osmanlısporlu futbolcunun bile düdükten sonra itirazsız uzaklaştığı aslında hiç olmayan goldür. başlık israfıdır.
+    yazarın duygu ve düşüncelerini en dibine kadar hissettiğim rezalet gibi rezalet.<br/><br/>* ışıklarda durup para isteyen suriyeli çocuk dilencilere tam para verirken arkamda duran sivil polisin gelip "şunlara lütfen para vermeyin trafiği çok büyük tehlikeye sokuyorlar ayrıca günlük de 1000 lira topluyorlar" demesinden sonra,<br/><br/>* kendisine yemek menüsü ısmarlanan dilencinin menüyü götürüp iade etmek suretiyle menünün parasını almak istemesini gördükten sonra,<br/><br/>* bankacı bir arkadaşımın "bu dilenciler günde üç kere gelir bir para yatırırlar aklınız şaşar" demesinden sonra,<br/><br/>* dilenci ablanın kucağındaki bebeğin oyuncak çıktığını gördükten sonra ve <br/><br/>buradaki gibi benim kişisel alanıma her türlü taciz ve tecavüzü çok rahatlıkla yapabilen dilenci görünümlü elemanları okuduktan sonra kimse kusura bakmasın ama vicdansızın kralı da olurum, duyarsız vatandaş da olurum ve artık öyle elini cebime atacak elemanları da bir güzel tekmelerim abi. o yardım çizgisi varya abi onu geçtiler artık. olay başka birşeye evrildi.
+- entry_name: |
+    özgür suriye ordusu
+  entry_id:  73794388
+  entry_writer: beni bana vermeyen beni neyleyim
+  entry_fav_count: 31
+  entry_content: |
+    mevcut iktidarla aynı dini görüştedir. arkasındaki desteğin asıl nedeni de mezhepçiliktir.
 - entry_name: |
     ege adaları'nı lozan'da chp'nin başındakiler verdi
   entry_id:  73797796
@@ -150,26 +178,54 @@ data:
   entry_content: |
     zeytin dalı operasyonu'na bütün milletten topyekün destek gelince istediği siyasi ivmeyi yakalayamamış olsa gerek. oysa chp'nin içinde operasyona karşı çatlak sesler yükselmeli ve "bunlaaaağğğrr haaiiinnn" diye meydanlarda bağırmalıydı. <br/><br/>dolayısıyla chp'ye saldırarak bu birliğe çomak sokup biraz kutuplaşma yaratmak elzem oldu.<br/><br/>prim vermeyiniz.
 - entry_name: |
-    özgür suriye ordusu
-  entry_id:  73794388
-  entry_writer: beni bana vermeyen beni neyleyim
-  entry_fav_count: 29
+    ali koç'un kullandığı cep telefonu
+  entry_id:  73800938
+  entry_writer: shortest straw
+  entry_fav_count: 28
   entry_content: |
-    mevcut iktidarla aynı dini görüştedir. arkasındaki desteğin asıl nedeni de mezhepçiliktir.
-- entry_name: |
-    27 ocak 2018 kabil bombalı saldırısı
-  entry_id:  73800464
-  entry_writer: kerevizyon
-  entry_fav_count: 26
-  entry_content: |
-    bir bombalı saldırıda yüze yakın kişi ölüyor. ama haber değeri ne kadar, işte görüyorsunuz. çünkü söz konusu afganistan, kabil.
+    geçen yıl trump başkan seçildiğinde hala çok eski güvensiz bir cihaz (samsung galaxy s3) kullandığını duymamış cahilleri şaşırtabilecek durumdur. hatta o cihazdan tweet atmaya devam etmesi yüzünden bayağı olay olmuştu. bu adamların telefon değiştirmeme sebebi tutumluluk değil sadece işlerini görüyorsa yenisine ihtiyaç duymuyorlar ve ilgilenmiyorlar. senin tek hava atabileceğin şey telefonken adam milyon euro’luk saatlerle havasını atıyor ondan dolayı her sene telefon değiştirme gereği duymuyor. <br/>edit: imla
 - entry_name: |
     27 ocak 2018 galatasaray osmanlıspor maçı
   entry_id:  73799882
   entry_writer: medicapa
-  entry_fav_count: 26
+  entry_fav_count: 28
   entry_content: |
     oha amk bu pozisyona da itiraz eden yoktur herhalde dedim ki bir baktım ekşi yine "ne faul var orada ya buz gibi gol" diyen avellerle dolmuş. altıpasta kaleciyi indirdi lan adam daha ne yapsın? kaleciye "temas" dahi faul sayılır o bölgede. hangi özgüvenle futbol yorumluyorsunuz siz sövdürtmeyin adama.
+- entry_name: |
+    sokakta tanımadığı kadına yumruk atan adam
+  entry_id:  73800624
+  entry_writer: ahmetgm
+  entry_fav_count: 25
+  entry_content: |
+    bu insanlar da gidip kuru kuru şikayette bulunuyor.<br/>yahu serbest kalacağı belli.<br/>desene polise "yumruk atarken cumhurbaşkanına da hakaret etti" diye. böylelikle olması gerektiği gibi içeride yatardı.<br/><br/>tanım: tımarhaneye dönmüş ülkede sıradan olay.
+- entry_name: |
+    ciğer sevmeyen insan
+  entry_id:  73796433
+  entry_writer: meisys
+  entry_fav_count: 25
+  entry_content: |
+    ben de sevmiyorum ve en gıcığı seven insanlar bunu anlayamıyor. kendisi seviyor bayılıyor diye inatla benim ciğerin tadını bilmediğimi düşünüyor. hele çocukken ağza zorla tepilen ciğerler travmadır, unutulamaz.
+- entry_name: |
+    haşim kılıç'ın oğlunun bylock nedeniyle aranması
+  entry_id:  73792881
+  entry_writer: midilli35
+  entry_fav_count: 24
+  entry_content: |
+    oğlu hakkında yakalama kararı çıkmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html" title="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html">http://www.cumhuriyet.com.tr/…tan_ilk_aciklama.html</a><br/><br/>bilmeyenlere hatırlatalım:<br/>haşim kılıç verdiği karşı tek oy sayesinde akp nin kapatılmasına engel olmuştur. kapatılsın ya da hazine yardımı kesilsin deseydi, akp kapatılacak, erdoğan da artık siyaset yapamayacaktı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/" title="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/">http://www.milliyet.com.tr/…anacak--siyaset-972729/</a><br/><br/>hayat çok ilginç, vapurlar falan.
+- entry_name: |
+    enes batur
+  entry_id:  73795376
+  entry_writer: dodger
+  entry_fav_count: 24
+  entry_content: |
+    yakında fetö'nun <a class="b" href="/?q=youtube+imam%c4%b1">youtube imamı</a> ilan edilme olasılığı olan insan.
+- entry_name: |
+    almanca güzel şarkı olmaması
+  entry_id:  73796308
+  entry_writer: oluroylearada
+  entry_fav_count: 24
+  entry_content: |
+    <a class="b" href="/?q=falco">falco</a> (bkz: <a class="b" href="/?q=jeanny">jeanny</a>)
 - entry_name: |
     türk ordusunun muharebe kabiliyeti düşük
   entry_id:  73785311
@@ -178,54 +234,26 @@ data:
   entry_content: |
     sivil, çoluk çocuk, hastane, okul demeden bombalamayı taktik sanan dangalağın açıklaması .<br/>türk ordusu bilmiyor mu 1 hafta bombalayıp afrin’i dümdüz edip sonra zafer kazanan komutan edasıyla şehire girmeyi?<br/>hayır herkesi salak sanmaları ayrı bir dangalaklık.<br/>ha bu arada bir rehine olayında içeriye gazı sıkıp eylemciler dahil onlarca rehineyi de öldüren ve operasyonu da böyle yöneten bir rusya’dan bahsediyoruz gel de gülme asgaafagags
 - entry_name: |
-    sokakta tanımadığı kadına yumruk atan adam
-  entry_id:  73800624
-  entry_writer: ahmetgm
-  entry_fav_count: 22
-  entry_content: |
-    bu insanlar da gidip kuru kuru şikayette bulunuyor.<br/>yahu serbest kalacağı belli.<br/>desene polise "yumruk atarken cumhurbaşkanına da hakaret etti" diye. böylelikle olması gerektiği gibi içeride yatardı.<br/><br/>tanım: tımarhaneye dönmüş ülkede sıradan olay.
-- entry_name: |
-    enes batur
-  entry_id:  73795376
-  entry_writer: dodger
-  entry_fav_count: 22
-  entry_content: |
-    yakında fetö'nun <a class="b" href="/?q=youtube+imam%c4%b1">youtube imamı</a> ilan edilme olasılığı olan insan.
-- entry_name: |
-    almanca güzel şarkı olmaması
-  entry_id:  73796308
-  entry_writer: oluroylearada
-  entry_fav_count: 22
-  entry_content: |
-    <a class="b" href="/?q=falco">falco</a> (bkz: <a class="b" href="/?q=jeanny">jeanny</a>)
-- entry_name: |
-    ali koç'un kullandığı cep telefonu
-  entry_id:  73800938
-  entry_writer: shortest straw
-  entry_fav_count: 22
-  entry_content: |
-    geçen yıl trump başkan seçildiğinde hala çok eski güvensiz bir cihaz (samsung galaxy s3) kullandığını duymamış cahilleri şaşırtabilecek durumdur. hatta o cihazdan tweet atmaya devam etmesi yüzünden bayağı olay olmuştu. bu adamların telefon değiştirmeme sebebi tutumluluk değil sadece işlerini görüyorsa yenisine ihtiyaç duymuyorlar ve ilgilenmiyorlar. senin tek hava atabileceğin şey telefonken adam milyon euro’luk saatlerle havasını atıyor ondan dolayı her sene telefon değiştirme gereği duymuyor. <br/>edit: imla
-- entry_name: |
-    ciğer sevmeyen insan
-  entry_id:  73796433
-  entry_writer: meisys
-  entry_fav_count: 21
-  entry_content: |
-    ben de sevmiyorum ve en gıcığı seven insanlar bunu anlayamıyor. kendisi seviyor bayılıyor diye inatla benim ciğerin tadını bilmediğimi düşünüyor. hele çocukken ağza zorla tepilen ciğerler travmadır, unutulamaz.
-- entry_name: |
-    haşim kılıç'ın oğlunun bylock nedeniyle aranması
-  entry_id:  73792881
-  entry_writer: midilli35
-  entry_fav_count: 19
-  entry_content: |
-    oğlu hakkında yakalama kararı çıkmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html" title="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html">http://www.cumhuriyet.com.tr/…tan_ilk_aciklama.html</a><br/><br/>bilmeyenlere hatırlatalım:<br/>haşim kılıç verdiği karşı tek oy sayesinde akp nin kapatılmasına engel olmuştur. kapatılsın ya da hazine yardımı kesilsin deseydi, akp kapatılacak, erdoğan da artık siyaset yapamayacaktı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/" title="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/">http://www.milliyet.com.tr/…anacak--siyaset-972729/</a><br/><br/>hayat çok ilginç, vapurlar falan.
-- entry_name: |
     gülmenin zamanla değişmesi
   entry_id:  73799229
   entry_writer: renksiz hayat
-  entry_fav_count: 15
+  entry_fav_count: 19
   entry_content: |
     bir süredir bildiğiniz pezevenkler gibi yayvan yayvan gülüyorum. annem niye öyle gülüyorsun deyince farkettim. insan kendi anlayamıyor. arkamdan rahmetli tam bir pezevenkti demesinler istiyorum.
+- entry_name: |
+    garry mendes rodrigues
+  entry_id:  73801630
+  entry_writer: pocoyo
+  entry_fav_count: 17
+  entry_content: |
+    tek başına galatasaray'ın hücum yaratacılığının yarısını sırtlıyor bu sezon.<br/><br/>tam bir <a class="b" href="/?q=underrated">underrated</a> adam; bu sezonki performansını belhanda, feghouli filan göstermiş olsa beton karıştırmaya başlamıştı taraftarlar. <br/><br/>ayıp oluyor çocuğa, hakkını verelim.
+- entry_name: |
+    27 ocak 2018 su faturamın 85 tl gelmesi
+  entry_id:  73801493
+  entry_writer: oakpost
+  entry_fav_count: 15
+  entry_content: |
+    yerli ve milli faturadır.<br/><br/>komünist deyip beğenmediğiniz ovacık'ta suyun tonu 50 kuruş.ovacık belediyesi başkanına terörist,sizi soyanlara vatansever dediğiniz sürece o faturalar göte girecek. <br/><br/>tek vaadi asfalt yapmak olan adamlara oy verirseniz ağlamayacaksınız.
 - entry_name: |
     kadıköy'ün ortasında kız döven pkklı kürtler
   entry_id:  73791051
@@ -241,12 +269,12 @@ data:
   entry_content: |
     avustralya'da yasasaydik bizde cocugu, ucuza aldigimiz ciftlik arazisinda ineklerin yanina salip sut sagmayi ogretirdik, malesef iklim ve insani kosullar sebebi ile avm tercih ediyoruz. parka gidiyorsun, ayyasi, tinercisi ne ararsan var, en azindan avmlerde bir tertip duzen ve saygi var. bazi yazar arkadaslara kalsa cocugu evde kereviz gibi buyutmek lazim, o isler oyle olmuyor pasam ileride sende anlarsin.
 - entry_name: |
-    vatanım sensin
-  entry_id:  73791001
-  entry_writer: naturmort
-  entry_fav_count: 9
+    ulan ahlaksız orada öso teröristleri yok ediyor
+  entry_id:  73802484
+  entry_writer: jaweh
+  entry_fav_count: 10
   entry_content: |
-    tbmm'nin ordusundan biri sahnede her göründüğünde şu müziği çalıyorlar:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=viG-DK-Rdxc">https://www.youtube.com/watch?v=vig-dk-rdxc</a><br/><br/>önce kara fatma sahnesinde yaptılar. en son da ismet paşa'nın göründüğü sahnede. adı sanı bilinmeyen ordu komutanları görününce de çalıyorlar. acayip mutlu oluyorum. gözlerim doluyor.<br/><br/>milli mücadelenin lider kadrosu bu ülkenin en özendiğim insanları. osmanlı'nın kültüründe yetişmiş, çalışkan, eğitimli, idealist, dünya vatandaşı insanlar hepsi. istanbul hükümeti bir şey yapamaz hale gelince sahip oldukları niteliklerle memleketi maddi manevi toparlayıp yeni ve çağdaş bir ülke kurmuşlar. başlarında da "bir gün sözlerim bilimle ters düşerse bilimi tercih edin" diyen biri var.<br/><br/>bu insanlarla aynı millete mensup olmaktan gurur duyuyorum. aslında türk olmakla ilgili duyduğum en büyük gurur bu.
+    "benim mehmetim" dediği kim lan? şu vaktiyle "kelle" dedikleri mi?
 - entry_name: |
     insan kaynaklarına duyulan antipati
   entry_id:  73799204
@@ -262,13 +290,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=trump%27a+k%c4%b1z%c4%b1p+turp+yiyen+muhtarlar">trump'a kızıp turp yiyen muhtarlar</a>) vardı bir de.
 - entry_name: |
-    iz bırakan kitap cümleleri
-  entry_id:  73796257
-  entry_writer: kabak cekirdegi
-  entry_fav_count: 6
-  entry_content: |
-    "“insan birisini bu kadar severse nasıl darılır?” diyordu. <br/>hiç darılabilir mi? muhakkak yorulmuştur."<br/><br/>ahmet hamdi tanpınar/ saatleri ayarlama enstitüsü<br/><br/>duyguların hiçbir zamana ait olamayacağının en güzel kanıtı satırlarını bize bahşettiği için, saygı ve minnetle...
-- entry_name: |
     bal porsuğu tipli defansif orta saha kontenjanı
   entry_id:  73800261
   entry_writer: baska yildiz
@@ -276,19 +297,19 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=arturo+vidal">arturo vidal</a>) <br/><br/>adami gorunce iki kilo kokain sar yigidim diyesi geliyor insanin.
 - entry_name: |
-    ulan ahlaksız orada öso teröristleri yok ediyor
-  entry_id:  73802345
-  entry_writer: martakisnida95
-  entry_fav_count: 4
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ulan">ulan</a>)<br/><br/>he ulan anladık.
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  73788730
-  entry_writer: passion or obsession
+    younes belhanda
+  entry_id:  73800634
+  entry_writer: singidunum
   entry_fav_count: 3
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/6EA-MIYY1bg" title="https://youtu.be/6EA-MIYY1bg">hooverphonic - mad about you</a><br/><br/>mükemmel ses, mükemmel yorum...<br/><br/>.<br/>.<br/>so mad about you, mad about you, mad<br/>trouble is your middle name<br/>.<br/>.<br/>.
+    (bkz: <a class="b" href="/?q=koy+am%c4%b1na+sat+gitsin+koy+am%c4%b1na+sat+sat+sat+sat">koy amına sat gitsin koy amına sat sat sat sat</a>)
+- entry_name: |
+    pizzalardaki sucukların tavuk eti olması rezaleti
+  entry_id:  73800801
+  entry_writer: fifa 08 ingiliz spikeri
+  entry_fav_count: 3
+  entry_content: |
+    pizzanın fiyatının 10 tl olduğunu zanneden malları gösteren rezalet.<br/><br/>pizza diye frizbi satan dominos'ta bile küçük boy pizzanın ortalama fiyatı 25 tl. "salak mısınız?" diye sormak istiyorum.
 - entry_name: |
     ölümlü dünya
   entry_id:  73794911
@@ -318,20 +339,6 @@ data:
   entry_content: |
     <a class="b" href="/?q=neredesin+firuze">neredesin firuze</a> filminde <a class="b" href="/?q=m%c3%bcsl%c3%bcm+g%c3%bcrses">müslüm gürses</a>'in <a class="b" href="/?q=sensiz+olmaz">sensiz olmaz</a> şarkısını söylediği sahnedir. sigara içmeyen adamı sigaraya başlatır. içen insanlarda sigarayı komple ağzına sokma isteği uyandırır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/l-KmnqbT3ZA" title="https://youtu.be/l-KmnqbT3ZA">bir bilet alana bir jilet hediye</a>
 - entry_name: |
-    garry mendes rodrigues
-  entry_id:  73799725
-  entry_writer: elrondanc
-  entry_fav_count: 2
-  entry_content: |
-    bugün yine fişek gibi fındık faresi. iki defa boş kaleye servis yaptı, önce tolga sonra feghouli kaçırınca çıldırdı tabii. böyle devam fındık reis.
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  73791928
-  entry_writer: nickbulamadimyalan
-  entry_fav_count: 1
-  entry_content: |
-    varlık içinde yokluk çektiriyorsun. bir "günaydın" demene hasretim. sevgim kurusun ne diyeyim.
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  73798498
   entry_writer: ben senin bildigin erkeklerden degilim
@@ -339,17 +346,10 @@ data:
   entry_content: |
     bu kadar erken saatte hortladığına göre suserların dertleşme bahanesiyle cumartesi gecesi fuhuş yapacak badiler aradığı fesilite. gece ikna etsen de evden çıkarması zor oluyor haklısınız.
 - entry_name: |
-    dudullu postası (dizi)
-  entry_id:  73794256
-  entry_writer: kesesini kaybeden kanguru
+    27 ocak 2018 simona halep caroline wozniacki maçı
+  entry_id:  73793395
+  entry_writer: i need a therapy
   entry_fav_count: 0
   entry_content: |
-    ilk bolum icin fena degildi. tek sorun baci muhabbetinin acayip baymasi.<br/><br/>atama sahnesi cok iyiydi. ara ara ince gondermeleri, absurtlukler ile farkli bir yapim.<br/>illa bir yapimi izlerken anira anira gulmeye gerek yok. bunu isteyen gitsin apis arasi espirileri olan yapimlari izlesin.<br/><br/>kisacasi hitap ettigi kesim espiri, zeka ve kulturel seviyesi ortalamin ustunde olan bir kesim.
-- entry_name: |
-    27 ocak 2018 su faturamın 85 tl gelmesi
-  entry_id:  73800858
-  entry_writer: ofsayttandogan
-  entry_fav_count: 0
-  entry_content: |
-    onceleri 35 tl civarinda gelen su faturamiz<br/>sonralari 50 tl civarina gelmisti. simdilerde 85'lere cikti. ver mehteri.
+    güzellik bakımından wozniacki fersah fersah öndedir aksini iddia eden fetöcüdür. ama tenis kalitesi bakımından halep daha öndedir.
 ---
