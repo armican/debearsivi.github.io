@@ -6,14 +6,14 @@ data:
     dara düşenin malını ucuza almak
   entry_id:  73786203
   entry_writer: bir sessiz adam
-  entry_fav_count: 294
+  entry_fav_count: 297
   entry_content: |
     dara düşen birisi ihtiyaçtan satılık diyerek malını satışa çıkarınca "dur satma, al ihtiyacını gider, sonra ödersin" demez kimse.<br/><br/>bu bir yana yok pahasına o kişinin malını alan şahıs "abi adam sıkışmış, çok ucuza adeta bedava aldım" diye hava atar. üstelik de bu konuşma hiç yadırganmadığı gibi övgü alır. kişi açıkgözlü ve işini bilen bir tip olduğu için adeta tebrik edilir, takdir görür.<br/><br/>ama sorsan herkes ahlak abidesi.<br/>din ve ahlak unutulmuş, sadece edebiyatı kalmıştır ne yazık ki.<br/>bu da bunun en bariz örneklerinden.
 - entry_name: |
     lozan'da kim neyi vermiş anlatacağım
   entry_id:  73796334
   entry_writer: kesesini kaybeden kanguru
-  entry_fav_count: 270
+  entry_fav_count: 280
   entry_content: |
     ben soyleyim. adalari osmanli kaptirmisti. sevr denen rezalet vardi bir de. teslimiyet belgesi. hani lozan sayesinde temizlenen kara leke.
 - entry_name: |
@@ -27,14 +27,14 @@ data:
     başlık ayrımı önerileri
   entry_id:  73789823
   entry_writer: ddr house
-  entry_fav_count: 223
+  entry_fav_count: 226
   entry_content: |
     ekşi sözlük (sözlük)<br/>ekşi sözlük (forum)<br/><br/>oyumu forumdan yana kullanıyorum.<sup class="ab"><a title="(bkz: bgv)" href="/?q=bgv" data-query="bgv">*</a></sup>
 - entry_name: |
     başkan olunca rte kk db yardımcım olacak
   entry_id:  73792206
   entry_writer: the good the bad the gudubet
-  entry_fav_count: 200
+  entry_fav_count: 202
   entry_content: |
     rte ve kk'yı bilmem ama devlet bahçeli'nin kabul edeceğini düşündüğüm teklif.
 - entry_name: |
@@ -45,33 +45,40 @@ data:
   entry_content: |
     doğdukları topluma tutunamayan loser tayfa. gübre olacak yavşaklar.
 - entry_name: |
-    geldiğimizde sadece 1 tane hava yolu vardı
-  entry_id:  73793698
-  entry_writer: trmert
-  entry_fav_count: 119
+    15 yaşındaki suriyeli kızın tecavüze uğraması
+  entry_id:  73794824
+  entry_writer: alter mann
+  entry_fav_count: 111
   entry_content: |
-    cumhurbaşkanı'nın kasımpaşa'da yaptığı açılışta sarf ettiği sözdür. <br/><br/>kendisi <a class="b" href="/?q=sunexpress">sunexpress</a>'in 1989'da, <a class="b" href="/?q=onur+air">onur air</a>'in 1992'de, <a class="b" href="/?q=atlasglobal">atlasglobal</a>'in<sup class="ab"><a title="(bkz: önceden)" href="/?q=%c3%b6nceden" data-query="önceden">*</a></sup><sup class="ab"><a title="(bkz: atlasjet)" href="/?q=atlasjet" data-query="atlasjet">*</a></sup> 2001'de kurulduğundan, <a class="b" href="/?q=istanbul+hava+yollar%c4%b1">istanbul hava yolları</a>'nın 1985-2000 arasında faal olduğundan bihaber olmalı ki böyle bir yanlış önermede bulunsun.<br/><br/><a class="b" href="/?q=freebird">freebird</a> (2001), <a class="b" href="/?q=pegasus">pegasus</a> (1990) ve diğer charter firmalar<sup class="ab"><a title="(bkz: birgenair)" href="/?q=birgenair" data-query="birgenair">*</a></sup> da ilave edilebilir bu kapsamda.<br/>listeye ilaveler geliyor: <a class="b" href="/?q=mng+airlines">mng airlines</a>, <a class="b" href="/?q=sky+airlines">sky airlines</a>, <a class="b" href="/?q=kthy">kthy</a> gibi...<br/>hatta şuradan irili ufaklı hepsi görülebilir. <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Türkiye&#39;nin_faaliyet_dışı_havayolları" title="https://tr.wikipedia.org/wiki/Türkiye&#39;nin_faaliyet_dışı_havayolları">link</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.airlinehistory.co.uk/europe/turkey/airlines.asp" title="http://www.airlinehistory.co.uk/europe/turkey/airlines.asp">link 2</a><br/><br/>katkıları için <a class="b" href="/?q=dai">dai</a>, <a class="b" href="/?q=ready+for+departure">ready for departure</a> ve <a class="b" href="/?q=ferli+kerli">ferli kerli</a>'ye de teşekkürler!
+    bahse varım tartışılsa "ama onlar bizim din kardeşlerimiz" diyerek ülkemizdeki sığınmacıları savunacak kesimden birinin tecavüzüne uğramıştır.
 - entry_name: |
     ali koç
   entry_id:  73793023
   entry_writer: adam olan cocuk
-  entry_fav_count: 105
+  entry_fav_count: 106
   entry_content: |
     an itibariyle konuşmaktadır. <br/><br/>aziz yıldırım ve yönetimin karşısında nazikçe 'günü kurtarıcaz diye, kulübün anasını siktiniz. koltuk sevdasına düşüp bunun için her yolu mübah gördünüz; sağa sola saldırıp milleti bize düşman ettiniz. siktirin gidin lan artık bu kulüpten düşün yakamızdan' demektedir.<br/><br/>edit: nane limon verin başkanıma hemen çabuk
 - entry_name: |
     star wars'ta her gezegenin atmosferi olması
   entry_id:  73792231
   entry_writer: karakurtsert
-  entry_fav_count: 97
+  entry_fav_count: 98
   entry_content: |
     hikayenin on binlerce yıldız sistemindeki on binlerce gezegenin sadece yaşama elverişli olanlarından geçmesi kaynaklı bir gerçek.<br/><br/>edit: başlıkta imla kurallarına tecavüz edilmiş şimdi fark ettim.
 - entry_name: |
     iskilipli atıf hoca
   entry_id:  73791031
   entry_writer: annl
-  entry_fav_count: 90
+  entry_fav_count: 94
   entry_content: |
     mantığını siktiğim iskilipliler aralarında para toplamış diye, sadece iskilipli diye bu yavşak vatan hainini masum ilan etmiş , bir de tarihi suçlamış.<br/><br/>siktiğimin cinsi cinsine çeker diye boşuna dememişler.
+- entry_name: |
+    müsterinin pizzasından tırtıklayan dominos kuryesi
+  entry_id:  73800550
+  entry_writer: kumrengi
+  entry_fav_count: 88
+  entry_content: |
+    derhal işinden kovulması gereken pizzacıdır. senin görevin o pizzayı teslim etmek. pis mi temiz mi belli olmayan ellerinle tırtıklamak değil. ne hakla başkasının yemeğini yiyebiliyorsun? kargocu olsan paketleri sallayıp içini mi açacaksın? bir örnek daha verecektim ama gg.<br/><br/>kokmuştur veya canı çekmiştir gibi yorumları gördükçe bizim ülkenin neden adam olamayacağını daha iyi anlıyorum.. bu aşırı duyar/merhametle daha çoook gelişirsiniz. kitlerler böyle 5 milyon göçmeni.<br/><br/>editos: olay türkiye'de yaşanmamış. entryimi burda yaşanmış gibi okuyun.
 - entry_name: |
     papa alioune ndiaye
   entry_id:  73789126
@@ -83,37 +90,30 @@ data:
     öso'cuların linç etmeye çalıştığı ypg'li terörist
   entry_id:  73795877
   entry_writer: ejdereksi
-  entry_fav_count: 81
+  entry_fav_count: 83
   entry_content: |
     ösocular refleks olarak kafa kesmeye götürmeye çalışıyorlar, allahtan türk askeri orada da katliam önleniyor.
-- entry_name: |
-    müsterinin pizzasından tırtıklayan dominos kuryesi
-  entry_id:  73800550
-  entry_writer: kumrengi
-  entry_fav_count: 71
-  entry_content: |
-    derhal işinden kovulması gereken pizzacıdır. senin görevin o pizzayı teslim etmek. pis mi temiz mi belli olmayan ellerinle tırtıklamak değil. ne hakla başkasının yemeğini yiyebiliyorsun? kargocu olsan paketleri sallayıp içini mi açacaksın? bir örnek daha verecektim ama gg.<br/><br/>kokmuştur veya canı çekmiştir gibi yorumları gördükçe bizim ülkenin neden adam olamayacağını daha iyi görüyorum. bu aşırı duyar/merhametle daha çoook gelişirsiniz. kitlerler böyle 5 milyon göçmeni.<br/><br/>editos: olay türkiye'de yaşanmamış. entryimi burda yaşanmış gibi okuyun.
 - entry_name: |
     fakirlerin isyan edip ayaklanmama nedeni
   entry_id:  73798604
   entry_writer: iste boyle laz ismail
-  entry_fav_count: 63
+  entry_fav_count: 81
   entry_content: |
     düzeni, varolan durumu kabullenmiş ve içselleştirmiş olmalarındandır : "bir kölenin en büyük hayali özgürlük değildir, köle sahibi olmaktır"
-- entry_name: |
-    hacamat ile otizmi tedavi eden doktor
-  entry_id:  73794841
-  entry_writer: lord akira
-  entry_fav_count: 50
-  entry_content: |
-    otizmli bir çocuk babası olarak 7 gün 24 saat uykumda dahil oğlumu ve onun hastalığını düşünerek geçiyorum.ekşisözlük gibi bir yerde bile insanlar otizmi bilmiyor.ama herkes en ufak bir konuda bile bilgi sahibi olmadan akıl veriyor.en başta otizmi şöyle düzeltiyorum böyle oluyor diyenlerin alayı yalancı ve benim gibi insanları sömürmeye çalışıyor.bir yılı aşkın zamandır bu çakallara küfretmekten bıktım.neymiş hacamatla otizm tedavisi neymiş gasp diyeti neymiş tohum otizm vakfı bağış yapın neymiş otizm farkındalık günü yok yok tek bir şey var otizm ananızın amı günü ve otizmli masumlar üzerinden onların ailelerinin umutlarını çalarak aldığınız her kuruş zehir zıkkım olsun.otizm o kadar değişik bir yelpazeki şu anda bile ne olduğu tam bilinmiyor hatta otizm dediğimiz bazı durumlar belki otizm bile değil bambaşka bir şey.ayrıca down sendromu ilede alakası falan yok.çareside tedaviside malesef.tek iyileştirici ya da azaltıcı şeyde özel eğitim rehabilitasyon onu bile sömürüyor insanlar ne diyim.ben de otizimli olup insanoğlunun bu kadar orospu çocuğu olduğu bir dünyadan kendimi izole etmek istiyorum.
 - entry_name: |
     bafetimbi gomis
   entry_id:  73801520
   entry_writer: nitta
-  entry_fav_count: 49
+  entry_fav_count: 61
   entry_content: |
     golden sonraki hareketiyle, paramı verin yoksa giderim demek isteyen oyuncu. haber: fanatik.
+- entry_name: |
+    ekşi itiraf
+  entry_id:  73785141
+  entry_writer: hatirlamak unutmaktan zordur
+  entry_fav_count: 46
+  entry_content: |
+    * <a class="b" href="/?q=%c3%a7erkes+milliyet%c3%a7isi">çerkes milliyetçisi</a> bir kadının <a class="b" href="/?q=t%c3%bcrk+torun">türk torun</a>uydum ben. daha dört beş yaşlarında kıvırcık saçlı, çekik gözlü, bir çocukken anneannem üzerime eğilir beni "<a class="b" href="/?q=anneannesi+kurban">anneannesi kurban</a>, <a class="b" href="/?q=kendisi+t%c3%bcrkmen">kendisi türkmen</a>" diye severdi.<br/><br/>*ilkokuldayken bir defa yanlışlıkla evde kendi odamda yangın çıkarmıştım. koşarak anneannemin yanına gitmiştim. dilim tutulduğu için konuşamamış elbisesinin eteğinden tutup "eauuuu" gibi sesler çıkarıp odama çekiştirmiştim. yangını görünce gece nöbetinden gelmiş uyuyan babamı uyandırma şeklini hala unutmam. incecik sesiyle "amaaaaan koş koş, çocuk evi yakıyor." diye çırpınışı bugün gibi gözümün önünde. gülerek hatırlıyorum. <br/><br/>*bazen bir şeye sinirlendiğimde, bir şeyi çok isteyip direttiğimde mutfağa koşup kendimi bıçaklıycam, öldürcem derdim. sanırdım ki dur yapma, tamam istediğini yaparız diyecek. dur derdi can tatlı, sen kendini bıçaklayamazsın ver bana ben seni bıçaklayım. elimdeki meyve bıçağını alıp hafifçe karnıma değdirirdi. tamam, duuur yaşamak istiyorum vazgeçtim diye bıkkınlıkla, pes etmeyle karışık ağlardım. <br/><br/>*şarkı söylemeyi çok severdi. hep şarkı söyleyerek iş yapardı evde. her nazıma oynardı. ben istiyorum diye gece kalkıp geceliğiyle benimle birlikte halay çeker, mendil sallardı. <br/><br/>*ben çok arsızlaştığımda, etrafı tekmelediğimde "oha oha jem<sup class="ab"><a title="(bkz: inek)" href="/?q=inek" data-query="inek">*</a></sup>, şit<sup class="ab"><a title="(bkz: eşek)" href="/?q=e%c5%9fek" data-query="eşek">*</a></sup>" derdi. <br/><br/>*namaz kılarken o secdeye varacağı zaman omzuna asılır o yatarken yatar omzunda yatar, kalkarken kalkardım. bazen de o namaz kılarken kenarda kendi kendime ugraşırdım, oyun oynardım. kim bilir ne saçmalık yapıyorsam namaz esnasında kendini tutamaz gülerdi. sonra yeni baştan kılardı. <br/><br/>*senden sadece ölünce kurtulacam herhalde derdi. ben otobüse biner oraya da gelirim kurtulamazsın derdim. <br/><br/>* her gece yatmadan önce ya mavi ya da mor plastik bardakta bana süt verirdi. kahverengi pirinçli geyiğim, kırmızı beyaz tavşanım, oyuncak bebeğim, ben ve anneannem birlikte uyurduk. evet, hepimiz aynı yatakta ve yan yana. uyumadan önce bir sürü dua okurdu. ellerine çorap geçirirdi. pis sivrisinekler benim kanımı çok seviyor derdi. <br/><br/>* öyle işte. ona olan sevgimi anlatacağım ne bir kelime var ne de bir şarkı. sen gittin ama ben senin yanına gelecek otobüsü bir türlü bulamadım. huzur içinde yat. seni seviyorum. eşek torunun &lt;3
 - entry_name: |
     başlık ayrımı
   entry_id:  73787289
@@ -122,12 +122,12 @@ data:
   entry_content: |
     2018'in güzel bir yıl olacağına delalettir.<br/><br/>(bkz: <a class="b" href="/?q=go+(programlama+dili)">go (programlama dili)</a>)
 - entry_name: |
-    ekşi itiraf
-  entry_id:  73785141
-  entry_writer: hatirlamak unutmaktan zordur
+    evde spor yapmak
+  entry_id:  73785505
+  entry_writer: schrodingerssheep
   entry_fav_count: 42
   entry_content: |
-    * <a class="b" href="/?q=%c3%a7erkes+milliyet%c3%a7isi">çerkes milliyetçisi</a> bir kadının <a class="b" href="/?q=t%c3%bcrk+torun">türk torun</a>uydum ben. daha dört beş yaşlarında kıvırcık saçlı, çekik gözlü, bir çocukken anneannem üzerime eğilir beni "<a class="b" href="/?q=anneannesi+kurban">anneannesi kurban</a>, <a class="b" href="/?q=kendisi+t%c3%bcrkmen">kendisi türkmen</a>" diye severdi.<br/><br/>*ilkokuldayken bir defa yanlışlıkla evde kendi odamda yangın çıkarmıştım. koşarak anneannemin yanına gitmiştim. dilim tutulduğu için konuşamamış elbisesinin eteğinden tutup "eauuuu" gibi sesler çıkarıp odama çekiştirmiştim. yangını görünce gece nöbetinden gelmiş uyuyan babamı uyandırma şeklini hala unutmam. incecik sesiyle "amaaaaan koş koş, çocuk evi yakıyor." diye çırpınışı bugün gibi gözümün önünde. gülerek hatırlıyorum. <br/><br/>*bazen bir şeye sinirlendiğimde, bir şeyi çok isteyip direttiğimde mutfağa koşup kendimi bıçaklıycam, öldürcem derdim. sanırdım ki dur yapma, tamam istediğini yaparız diyecek. dur derdi can tatlı, sen kendini bıçaklayamazsın ver bana ben seni bıçaklayım. elimdeki meyve bıçağını alıp hafifçe karnıma değdirirdi. tamam, duuur yaşamak istiyorum vazgeçtim diye bıkkınlıkla, pes etmeyle karışık ağlardım. <br/><br/>*şarkı söylemeyi çok severdi. hep şarkı söyleyerek iş yapardı evde. her nazıma oynardı. ben istiyorum diye gece kalkıp geceliğiyle benimle birlikte halay çeker, mendil sallardı. <br/><br/>*ben çok arsızlaştığımda, etrafı tekmelediğimde "oha oha jem<sup class="ab"><a title="(bkz: inek)" href="/?q=inek" data-query="inek">*</a></sup>, şit<sup class="ab"><a title="(bkz: eşek)" href="/?q=e%c5%9fek" data-query="eşek">*</a></sup>" derdi. <br/><br/>*namaz kılarken o secdeye varacağı zaman omzuna asılır o yatarken yatar omzunda yatar, kalkarken kalkardım. bazen de o namaz kılarken kenarda kendi kendime ugraşırdım, oyun oynardım. kim bilir ne saçmalık yapıyorsam namaz esnasında kendini tutamaz gülerdi. sonra yeni baştan kılardı. <br/><br/>*senden sadece ölünce kurtulacam herhalde derdi. ben otobüse biner oraya da gelirim kurtulamazsın derdim. <br/><br/>* her gece yatmadan önce ya mavi ya da mor plastik bardakta bana süt verirdi. kahverengi pirinçli geyiğim, kırmızı beyaz tavşanım, oyuncak bebeğim, ben ve anneannem birlikte uyurduk. evet, hepimiz aynı yatakta ve yan yana. uyumadan önce bir sürü dua okurdu. ellerine çorap geçirirdi. pis sivrisinekler benim kanımı çok seviyor derdi. <br/><br/>* öyle işte. ona olan sevgimi anlatacağım ne bir kelime var ne de bir şarkı. sen gittin ama ben senin yanına gelecek otobüsü bir türlü bulamadım. huzur içinde yat. seni seviyorum. eşek torunun &lt;3
+    evde yapılan spor spor değilmiş...<br/>pirelli reklamı mısın lan pezevenk?<br/><br/>pull up spor değil<br/>chin up spor değil<br/>push up spor değil<br/>burpees var mesela, sporla alakası yok olm onun<br/>neyse daha saymayalım, bunlar çünkü spor değil<br/><br/>peki nedir bu spor? abi spor için önce; <br/>- atlet alıyoruz kendimize<br/>- eldiven alıyoruz bakın o şart<br/>- spor şort alıyoruz hemen bi tane (ama şort dediysek bakın; climacool climalight climaüber airdry dryfit flexstrech falan bunlardan olacak. çünkü neden? çünkü sıradan şortla yapılan spor spor değildir)<br/>- şort olmazsa tayt da olur ama kumaşı yukarıdaki özelliklere sahip olsun kesinlikle<br/>- ayakkabı alıyoruz mümkünse airmax climamax übermax highjump superfoam3 climajump8 olanlardan<br/>- bilek bandı kafa bandı falan alırsanız kas yapımı artıyor<br/>- protein tozu alıyoruz, güzel bir shaker alıyoruz<br/>- farklı çeşit supplementlerimizi saklamak için farklı saklama kapları alıyoruz<br/>- bluetooth kulaklık alıyoruz, bakın bu şart<br/>- smart watch alıyoruz çünkü nabzı bilmek önemli<br/><br/>tamam şimdi spora hazır olduğumuza göre, bir de domalacak salon buluyoruz. mortgage'la eve girer gibi 1 senelik anlaşıyoruz 3 taksitte ödüyoruz, aylık 200'ü falan gözden çıkarıyoruz.<br/><br/>tamam, spora hazırız.<br/><br/>salona geldik. ayna nerde abi? aynayı bulun. şimdi önce geçen haftadan bu yana kolumuza kıçımıza nolmuş ona bakıyoruz bi süre, sırtınızı dönün falan şöyle bir süzün vücudunuzu. maşallah adamım taş gibisin!<br/><br/>ilk hareketimiz biceps curl. aslında 15kg yapmamız lazım mesela ama 25'lik alıyoruz, maksat dostlar alışverişte görsün. 3x10 falan olması lazım düzenimizin ama biz 6 4 2 falan yapabiliyoruz ama olsun yeterli, her şeyin fazlası zarar zaten.<br/><br/>bench'e geçiyoruz. olurumuz toplam 80 ise mesela, 100 koyuyoruz. pozisyonu alıyoruz ve basıyoruz. basarken bakın şu önemli:<br/><br/>ııııggghhhhhhhhhaaartrrrhhh<br/>pıssssssssssşşşşiiiuuuvvv<br/>uuuuaaarrgggghhhjjjj<br/>pıııısssssssşşşşiiiiuuuvvvvvv<br/>uuuujauauajajmdidkauabej<br/>aaah hassiktir... yine mi omzum attı amk ya...<br/><br/>of amk of şu omzum bi rahat bırakmadı ya...<br/><br/>"abi noldu spor?"<br/>"bro sorma 120 bench'e ısınmadan girince attırdık omzu iyi mi..."
 - entry_name: |
     mert fırat
   entry_id:  73785729
@@ -136,40 +136,33 @@ data:
   entry_content: |
     5 sene önce "öcalan ile görüşme talimatını ben verdim" diyen erdoğan’a oy verenler,<br/>5 sene önce bir röportajda "öcalan ile görüşülmeli" diyen mert fırat’ı linç ediyor bugün. "hain" tarifinizin çapsızlığı bir yana ağır leşsiniz. ne kadar doğru düzgün yürekli dostlar edindiğimizi anlıyoruz her kudurduğunuzda. klavyelerine irin akıtmaktan öte "milli" mesaileri olmayan, hayatı boyunca kin ve nefret kusmaktan başka hiçbir şey üretememiş insan toplulugu; sanat güç ve para önünde eğilmeyecek kadar kuvvetlidir. toplamınızın cümleleri onun hayata kattığı değerin zerresi olamaz. döl israfı soytarılar.
 - entry_name: |
-    15 yaşındaki suriyeli kızın tecavüze uğraması
-  entry_id:  73794915
-  entry_writer: dirilis 1209
-  entry_fav_count: 40
-  entry_content: |
-    engelli kızın tecavüze uğraması iğrençliği. hem zihinsel hem bedensel engelli kız. hayır engelli olmasa bile olay vahşet de, ülkede ne kadar yaratık yaşadığını gösteriyor. şimdi bu suçu işleyeni idam etseler, hadım etseler dünya ne kaybeder? insanlık ne kaybeder. insan hakları suçluyu değil, mağduru korumak için geçerlidir. toplumsal sterilizasyona ihtiyacımız var. büyük bir temizlik operasyonu ile.
-- entry_name: |
-    26 ocak ankara kızılay dilenci rezaleti
-  entry_id:  73785776
-  entry_writer: accpileup
-  entry_fav_count: 39
-  entry_content: |
-    yazarın duygu ve düşüncelerini en dibine kadar hissettiğim rezalet gibi rezalet.<br/><br/>* ışıklarda durup para isteyen suriyeli çocuk dilencilere tam para verirken arkamda duran sivil polisin gelip "şunlara lütfen para vermeyin trafiği çok büyük tehlikeye sokuyorlar ayrıca günlük de 1000 lira topluyorlar" demesinden sonra,<br/><br/>* kendisine yemek menüsü ısmarlanan dilencinin menüyü götürüp iade etmek suretiyle menünün parasını almak istemesini gördükten sonra,<br/><br/>* bankacı bir arkadaşımın "bu dilenciler günde üç kere gelir bir para yatırırlar aklınız şaşar" demesinden sonra,<br/><br/>* dilenci ablanın kucağındaki bebeğin oyuncak çıktığını gördükten sonra ve <br/><br/>buradaki gibi benim kişisel alanıma her türlü taciz ve tecavüzü çok rahatlıkla yapabilen dilenci görünümlü elemanları okuduktan sonra kimse kusura bakmasın ama vicdansızın kralı da olurum, duyarsız vatandaş da olurum ve artık öyle elini cebime atacak elemanları da bir güzel tekmelerim abi. o yardım çizgisi varya abi onu geçtiler artık. olay başka birşeye evrildi.
-- entry_name: |
     27 ocak 2018 osmanlıspor'un iptal edilen golü
   entry_id:  73800001
   entry_writer: 364
-  entry_fav_count: 31
+  entry_fav_count: 39
   entry_content: |
     pozisyonun içindeki osmanlısporlu futbolcunun bile düdükten sonra itirazsız uzaklaştığı aslında hiç olmayan goldür. başlık israfıdır.
 - entry_name: |
     ege adaları'nı lozan'da chp'nin başındakiler verdi
   entry_id:  73797796
   entry_writer: bahcivan
-  entry_fav_count: 29
+  entry_fav_count: 31
   entry_content: |
     zeytin dalı operasyonu'na bütün milletten topyekün destek gelince istediği siyasi ivmeyi yakalayamamış olsa gerek. oysa chp'nin içinde operasyona karşı çatlak sesler yükselmeli ve "bunlaaaağğğrr haaiiinnn" diye meydanlarda bağırmalıydı. <br/><br/>dolayısıyla chp'ye saldırarak bu birliğe çomak sokup biraz kutuplaşma yaratmak elzem oldu.<br/><br/>prim vermeyiniz.
 - entry_name: |
     özgür suriye ordusu
   entry_id:  73794388
   entry_writer: beni bana vermeyen beni neyleyim
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     mevcut iktidarla aynı dini görüştedir. arkasındaki desteğin asıl nedeni de mezhepçiliktir.
+- entry_name: |
+    27 ocak 2018 kabil bombalı saldırısı
+  entry_id:  73800464
+  entry_writer: kerevizyon
+  entry_fav_count: 26
+  entry_content: |
+    bir bombalı saldırıda yüze yakın kişi ölüyor. ama haber değeri ne kadar, işte görüyorsunuz. çünkü söz konusu afganistan, kabil.
 - entry_name: |
     27 ocak 2018 galatasaray osmanlıspor maçı
   entry_id:  73799882
@@ -185,59 +178,52 @@ data:
   entry_content: |
     sivil, çoluk çocuk, hastane, okul demeden bombalamayı taktik sanan dangalağın açıklaması .<br/>türk ordusu bilmiyor mu 1 hafta bombalayıp afrin’i dümdüz edip sonra zafer kazanan komutan edasıyla şehire girmeyi?<br/>hayır herkesi salak sanmaları ayrı bir dangalaklık.<br/>ha bu arada bir rehine olayında içeriye gazı sıkıp eylemciler dahil onlarca rehineyi de öldüren ve operasyonu da böyle yöneten bir rusya’dan bahsediyoruz gel de gülme asgaafagags
 - entry_name: |
-    türkiye'yi anlayabilmek için okunabilecek kitaplar
-  entry_id:  73787668
-  entry_writer: pablo andres
-  entry_fav_count: 21
+    sokakta tanımadığı kadına yumruk atan adam
+  entry_id:  73800624
+  entry_writer: ahmetgm
+  entry_fav_count: 22
   entry_content: |
-    (bkz: <a class="b" href="/?q=devlet-i+aliyye">devlet-i aliyye</a>)<br/>(bkz: <a class="b" href="/?q=halil+inalc%c4%b1k">halil inalcık</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%e2%80%99nin+d%c3%bczeni">türkiye’nin düzeni</a>)<br/>(bkz: <a class="b" href="/?q=do%c4%9fan+avc%c4%b1o%c4%9flu">doğan avcıoğlu</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+iktisat+tarihi+1908-2009">türkiye iktisat tarihi 1908-2009</a>)<br/>(bkz: <a class="b" href="/?q=korkut+boratav">korkut boratav</a>) <br/><br/>(bkz: <a class="b" href="/?q=asya+%c3%bcretim+tarz%c4%b1+ve+osmanl%c4%b1+toplumu">asya üretim tarzı ve osmanlı toplumu</a>)<br/>(bkz: <a class="b" href="/?q=sencer+divit%c3%a7io%c4%9flu">sencer divitçioğlu</a>)<br/><br/>(bkz: <a class="b" href="/?q=osmanl%c4%b1-t%c3%bcrkiye+iktisadi+tarihi+1500-1914">osmanlı-türkiye iktisadi tarihi 1500-1914</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fevket+pamuk">şevket pamuk</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+pop%c3%bclizm+(1908-1923)">türkiye'de popülizm (1908-1923)</a>)<br/>(bkz: <a class="b" href="/?q=zafer+toprak">zafer toprak</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%2c+islam+ve+sek%c3%bclarizm">türkiye, islam ve sekülarizm</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+toplum+ve+siyaset+makaleler+1">türkiye'de toplum ve siyaset makaleler 1</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9ferif+mardin">şerif mardin</a>)<br/><br/>(bkz: <a class="b" href="/?q=denge+oyunu">denge oyunu</a>)<br/>(bkz: <a class="b" href="/?q=simgeden+millete">simgeden millete</a>)<br/>(bkz: <a class="b" href="/?q=selim+deringil">selim deringil</a>)<br/><br/>(bkz: <a class="b" href="/?q=modernle%c5%9fen+t%c3%bcrkiye%27nin+tarihi">modernleşen türkiye'nin tarihi</a>)<br/>(bkz: <a class="b" href="/?q=milli+m%c3%bccadelede+ittihat%c3%a7%c4%b1l%c4%b1k">milli mücadelede ittihatçılık</a>)<br/>(bkz: <a class="b" href="/?q=erik+jan+z%c3%bcrcher">erik jan zürcher</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%e2%80%99de+devlet+ve+s%c4%b1n%c4%b1flar">türkiye’de devlet ve sınıflar</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7a%c4%9flar+keyder">çağlar keyder</a>)<br/><br/>(bkz: <a class="b" href="/?q=anka%27n%c4%b1n+y%c3%bckseli%c5%9fi+ve+d%c3%bc%c5%9f%c3%bc%c5%9f%c3%bc">anka'nın yükselişi ve düşüşü</a>)<br/>(bkz: <a class="b" href="/?q=oral+sander">oral sander</a>)<br/><br/>(bkz: <a class="b" href="/?q=paradigman%c4%b1n+iflas%c4%b1">paradigmanın iflası</a>)<br/>(bkz: <a class="b" href="/?q=fikret+ba%c5%9fkaya">fikret başkaya</a>)<br/><br/>(bkz: <a class="b" href="/?q=k%c3%bcrt+sorunu+ve+devlet">kürt sorunu ve devlet</a>)<br/>(bkz: <a class="b" href="/?q=tarih+vakf%c4%b1+yurt+yay%c4%b1nlar%c4%b1">tarih vakfı yurt yayınları</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+kurulurken+k%c3%bcrtler">türkiye kurulurken kürtler</a>)<br/>(bkz: <a class="b" href="/?q=sinan+hakan">sinan hakan</a>)<br/><br/>(bkz: <a class="b" href="/?q=azgeli%c5%9fmi%c5%9flik+s%c3%bcrecinde+t%c3%bcrkiye">azgelişmişlik sürecinde türkiye</a>)<br/>(bkz: <a class="b" href="/?q=stefanos+yerasimos">stefanos yerasimos</a>)<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+%c3%a7a%c4%9fda%c5%9fla%c5%9fma">türkiye'de çağdaşlaşma</a>)<br/>(bkz: <a class="b" href="/?q=niyazi+berkes">niyazi berkes</a>)<br/><br/>(bkz: türkiye cumhuriyeti'nde tek-parti yönetiminin kurulması 1923-1931)<br/>(bkz: <a class="b" href="/?q=mete+tun%c3%a7ay">mete tunçay</a>)<br/><br/>(bkz: <a class="b" href="/?q=cereyanlar">cereyanlar</a>)<br/>(bkz: <a class="b" href="/?q=tan%c4%b1l+bora">tanıl bora</a>)<br/><br/>edebiyatçı olarak <a class="b" href="/?q=refik+halid+karay">refik halid karay</a>, <a class="b" href="/?q=yakup+kadri+karaosmano%c4%9flu">yakup kadri karaosmanoğlu</a>, <a class="b" href="/?q=kemal+tahir">kemal tahir</a>, <a class="b" href="/?q=orhan+kemal">orhan kemal</a> ve <a class="b" href="/?q=ya%c5%9far+kemal">yaşar kemal</a>...<br/><br/>yukarıdaki eserlerde geçen her fikre katılmam, okuma eylemi zaten kendi dünya görüşümüz açısından mühimmat depolamak üzerine olmamalı. unutmayalım ki farklı bakış açılarını yansıtan, yeni yaklaşımlara sahip eserler zihin açıcı ve öğreticidir.
+    bu insanlar da gidip kuru kuru şikayette bulunuyor.<br/>yahu serbest kalacağı belli.<br/>desene polise "yumruk atarken cumhurbaşkanına da hakaret etti" diye. böylelikle olması gerektiği gibi içeride yatardı.<br/><br/>tanım: tımarhaneye dönmüş ülkede sıradan olay.
 - entry_name: |
     enes batur
   entry_id:  73795376
   entry_writer: dodger
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     yakında fetö'nun <a class="b" href="/?q=youtube+imam%c4%b1">youtube imamı</a> ilan edilme olasılığı olan insan.
-- entry_name: |
-    sokakta tanımadığı kadına yumruk atan adam
-  entry_id:  73799021
-  entry_writer: varolan
-  entry_fav_count: 20
-  entry_content: |
-    ifadesi alınıp serbest bırakılacaktır.
 - entry_name: |
     almanca güzel şarkı olmaması
   entry_id:  73796308
   entry_writer: oluroylearada
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     <a class="b" href="/?q=falco">falco</a> (bkz: <a class="b" href="/?q=jeanny">jeanny</a>)
 - entry_name: |
     ali koç'un kullandığı cep telefonu
   entry_id:  73800938
   entry_writer: shortest straw
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     geçen yıl trump başkan seçildiğinde hala çok eski güvensiz bir cihaz (samsung galaxy s3) kullandığını duymamış cahilleri şaşırtabilecek durumdur. hatta o cihazdan tweet atmaya devam etmesi yüzünden bayağı olay olmuştu. bu adamların telefon değiştirmeme sebebi tutumluluk değil sadece işlerini görüyorsa yenisine ihtiyaç duymuyorlar ve ilgilenmiyorlar. senin tek hava atabileceğin şey telefonken adam milyon euro’luk saatlerle havasını atıyor ondan dolayı her sene telefon değiştirme gereği duymuyor. <br/>edit: imla
 - entry_name: |
-    alvaro negredo sanchez
-  entry_id:  73790963
-  entry_writer: neverland resident
-  entry_fav_count: 14
+    ciğer sevmeyen insan
+  entry_id:  73796433
+  entry_writer: meisys
+  entry_fav_count: 21
   entry_content: |
-    zamanında, yeteneği kısıtlı da olsa isteği, arzusu yerinde olan tüm futbolculara sonuna kadar sahip çıkarak sadakat temelli bir tribün ve futbol kültürü yaratan beşiktaş taraftarının yerini, bugün hırs dolu, gözü dönmüş, barcelona'ya fark atılmazsa mutlu olmayacak bir takım manyaklar almaya başladı. bu huzursuz tipler o kadar hızla artıyor ki, eskide kalan sadakat kültürüne sahip taraftarları da bastırıyorlar artık.<br/><br/>beşiktaş çok başarılı. ama başarı böyle birşey işte, etrafınıza işe yaramaz sırtlanları çeker, sizi siz yapan değerleri zorlamaya başlar. zor günlerde adı sanı duyulmayan tipler gelip sizden büyük laflar etmeye başlarlar.<br/><br/>beşiktaş'ın önündeki en büyük sınav, derbi maçları, süper lig veya şampiyonlar ligi değildir. o maçlar her sene tekrar tekrar var. esas sınav bu taraftar kültürüne sahip çıkma sınavıdır, çünkü o elden gitti mi bir daha asla geri gelmez.<br/><br/>tanım: yönetimin biraz fazla maaş vermesinin bedeli ödetilen, çalışkan, zeki, yetenekli futbolcu.
+    ben de sevmiyorum ve en gıcığı seven insanlar bunu anlayamıyor. kendisi seviyor bayılıyor diye inatla benim ciğerin tadını bilmediğimi düşünüyor. hele çocukken ağza zorla tepilen ciğerler travmadır, unutulamaz.
 - entry_name: |
-    27 ocak 2018 kabil bombalı saldırısı
-  entry_id:  73800464
-  entry_writer: kerevizyon
-  entry_fav_count: 14
+    haşim kılıç'ın oğlunun bylock nedeniyle aranması
+  entry_id:  73792881
+  entry_writer: midilli35
+  entry_fav_count: 19
   entry_content: |
-    bir bombalı saldırıda yüze yakın kişi ölüyor. ama haber değeri ne kadar, işte görüyorsunuz. çünkü söz konusu afganistan, kabil.
+    oğlu hakkında yakalama kararı çıkmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html" title="http://www.cumhuriyet.com.tr/amp/haber/turkiye/914122/Oglu_icin_yakalama_karari_cikartilan_Hasim_Kilic_tan_ilk_aciklama.html">http://www.cumhuriyet.com.tr/…tan_ilk_aciklama.html</a><br/><br/>bilmeyenlere hatırlatalım:<br/>haşim kılıç verdiği karşı tek oy sayesinde akp nin kapatılmasına engel olmuştur. kapatılsın ya da hazine yardımı kesilsin deseydi, akp kapatılacak, erdoğan da artık siyaset yapamayacaktı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/" title="http://www.milliyet.com.tr/karar--font-color-red-bugun-mu---font--aciklanacak--siyaset-972729/">http://www.milliyet.com.tr/…anacak--siyaset-972729/</a><br/><br/>hayat çok ilginç, vapurlar falan.
 - entry_name: |
     gülmenin zamanla değişmesi
   entry_id:  73799229
   entry_writer: renksiz hayat
-  entry_fav_count: 13
+  entry_fav_count: 15
   entry_content: |
     bir süredir bildiğiniz pezevenkler gibi yayvan yayvan gülüyorum. annem niye öyle gülüyorsun deyince farkettim. insan kendi anlayamıyor. arkamdan rahmetli tam bir pezevenkti demesinler istiyorum.
 - entry_name: |
@@ -251,9 +237,23 @@ data:
     haftasonları avm'ye gezmeye giden çocuklu aile
   entry_id:  73792754
   entry_writer: battaniyeli gazi
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     avustralya'da yasasaydik bizde cocugu, ucuza aldigimiz ciftlik arazisinda ineklerin yanina salip sut sagmayi ogretirdik, malesef iklim ve insani kosullar sebebi ile avm tercih ediyoruz. parka gidiyorsun, ayyasi, tinercisi ne ararsan var, en azindan avmlerde bir tertip duzen ve saygi var. bazi yazar arkadaslara kalsa cocugu evde kereviz gibi buyutmek lazim, o isler oyle olmuyor pasam ileride sende anlarsin.
+- entry_name: |
+    vatanım sensin
+  entry_id:  73791001
+  entry_writer: naturmort
+  entry_fav_count: 9
+  entry_content: |
+    tbmm'nin ordusundan biri sahnede her göründüğünde şu müziği çalıyorlar:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=viG-DK-Rdxc">https://www.youtube.com/watch?v=vig-dk-rdxc</a><br/><br/>önce kara fatma sahnesinde yaptılar. en son da ismet paşa'nın göründüğü sahnede. adı sanı bilinmeyen ordu komutanları görününce de çalıyorlar. acayip mutlu oluyorum. gözlerim doluyor.<br/><br/>milli mücadelenin lider kadrosu bu ülkenin en özendiğim insanları. osmanlı'nın kültüründe yetişmiş, çalışkan, eğitimli, idealist, dünya vatandaşı insanlar hepsi. istanbul hükümeti bir şey yapamaz hale gelince sahip oldukları niteliklerle memleketi maddi manevi toparlayıp yeni ve çağdaş bir ülke kurmuşlar. başlarında da "bir gün sözlerim bilimle ters düşerse bilimi tercih edin" diyen biri var.<br/><br/>bu insanlarla aynı millete mensup olmaktan gurur duyuyorum. aslında türk olmakla ilgili duyduğum en büyük gurur bu.
+- entry_name: |
+    insan kaynaklarına duyulan antipati
+  entry_id:  73799204
+  entry_writer: internal
+  entry_fav_count: 8
+  entry_content: |
+    sebepleri:<br/>1-iş mülakatlarında abuk sabuk sorular sormaları<br/>2-mülakata gelen aday üzerinde egolarını tatmin etmek istemeleri<br/>3- gereksiz bir artistlik içinde olmaları
 - entry_name: |
     ak partiye kızıp ampul kıran adam
   entry_id:  73801264
@@ -262,12 +262,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=trump%27a+k%c4%b1z%c4%b1p+turp+yiyen+muhtarlar">trump'a kızıp turp yiyen muhtarlar</a>) vardı bir de.
 - entry_name: |
-    insan kaynaklarına duyulan antipati
-  entry_id:  73799204
-  entry_writer: internal
-  entry_fav_count: 7
+    iz bırakan kitap cümleleri
+  entry_id:  73796257
+  entry_writer: kabak cekirdegi
+  entry_fav_count: 6
   entry_content: |
-    sebepleri:<br/>1-iş mülakatlarında abuk sabuk sorular sormaları<br/>2-mülakata gelen aday üzerinde egolarını tatmin etmek istemeleri<br/>3- gereksiz bir artistlik içinde olmaları
+    "“insan birisini bu kadar severse nasıl darılır?” diyordu. <br/>hiç darılabilir mi? muhakkak yorulmuştur."<br/><br/>ahmet hamdi tanpınar/ saatleri ayarlama enstitüsü<br/><br/>duyguların hiçbir zamana ait olamayacağının en güzel kanıtı satırlarını bize bahşettiği için, saygı ve minnetle...
+- entry_name: |
+    bal porsuğu tipli defansif orta saha kontenjanı
+  entry_id:  73800261
+  entry_writer: baska yildiz
+  entry_fav_count: 5
+  entry_content: |
+    (bkz: <a class="b" href="/?q=arturo+vidal">arturo vidal</a>) <br/><br/>adami gorunce iki kilo kokain sar yigidim diyesi geliyor insanin.
+- entry_name: |
+    ulan ahlaksız orada öso teröristleri yok ediyor
+  entry_id:  73802345
+  entry_writer: martakisnida95
+  entry_fav_count: 4
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ulan">ulan</a>)<br/><br/>he ulan anladık.
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  73788730
+  entry_writer: passion or obsession
+  entry_fav_count: 3
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/6EA-MIYY1bg" title="https://youtu.be/6EA-MIYY1bg">hooverphonic - mad about you</a><br/><br/>mükemmel ses, mükemmel yorum...<br/><br/>.<br/>.<br/>so mad about you, mad about you, mad<br/>trouble is your middle name<br/>.<br/>.<br/>.
 - entry_name: |
     ölümlü dünya
   entry_id:  73794911
@@ -283,6 +304,13 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=eric+cantona">eric cantona</a>)<br/>(bkz: <a class="b" href="/?q=pascal+nouma">pascal nouma</a>)
 - entry_name: |
+    iasmin latovlevici
+  entry_id:  73799876
+  entry_writer: by myself but not alone
+  entry_fav_count: 3
+  entry_content: |
+    an itibariyle tt stadyumunda galatasaray taraftarı tarafından ıslıklanmakta olan futbolcu. böyle bir gerizekalılık olamaz. daha oynanacak 60 dakika var ve adamın moralini mahvediyorsunuz. oyundan iyice düşse gol yesek çok mu hoşunuza gidecek?
+- entry_name: |
     filmlerdeki en güzel sigara içme sahnesi
   entry_id:  73787752
   entry_writer: mehmedd
@@ -290,26 +318,12 @@ data:
   entry_content: |
     <a class="b" href="/?q=neredesin+firuze">neredesin firuze</a> filminde <a class="b" href="/?q=m%c3%bcsl%c3%bcm+g%c3%bcrses">müslüm gürses</a>'in <a class="b" href="/?q=sensiz+olmaz">sensiz olmaz</a> şarkısını söylediği sahnedir. sigara içmeyen adamı sigaraya başlatır. içen insanlarda sigarayı komple ağzına sokma isteği uyandırır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/l-KmnqbT3ZA" title="https://youtu.be/l-KmnqbT3ZA">bir bilet alana bir jilet hediye</a>
 - entry_name: |
-    bal porsuğu tipli defansif orta saha kontenjanı
-  entry_id:  73800261
-  entry_writer: baska yildiz
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=arturo+vidal">arturo vidal</a>) <br/><br/>adami gorunce iki kilo kokain sar yigidim diyesi geliyor insanin.
-- entry_name: |
-    iasmin latovlevici
-  entry_id:  73799876
-  entry_writer: by myself but not alone
+    garry mendes rodrigues
+  entry_id:  73799725
+  entry_writer: elrondanc
   entry_fav_count: 2
   entry_content: |
-    an itibariyle tt stadyumunda galatasaray taraftarı tarafından ıslıklanmakta olan futbolcu. böyle bir gerizekalılık olamaz. daha oynanacak 60 dakika var ve adamın moralini mahvediyorsunuz. oyundan iyice düşse gol yesek çok mu hoşunuza gidecek?
-- entry_name: |
-    garry mendes rodrigues
-  entry_id:  73801736
-  entry_writer: paul sahillleri
-  entry_fav_count: 1
-  entry_content: |
-    27 ocak 2018 galatasaray osmanlıspor maçının kahramanlarından.<br/><br/>4 adet al da at tarzı pas attı ve bunların 3'ü neredeyse boş kaleyeydi. görece en zor pası gomis gole çevirdi.<br/><br/>akıyor maşallah.
+    bugün yine fişek gibi fındık faresi. iki defa boş kaleye servis yaptı, önce tolga sonra feghouli kaçırınca çıldırdı tabii. böyle devam fındık reis.
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  73791928
@@ -332,24 +346,10 @@ data:
   entry_content: |
     ilk bolum icin fena degildi. tek sorun baci muhabbetinin acayip baymasi.<br/><br/>atama sahnesi cok iyiydi. ara ara ince gondermeleri, absurtlukler ile farkli bir yapim.<br/>illa bir yapimi izlerken anira anira gulmeye gerek yok. bunu isteyen gitsin apis arasi espirileri olan yapimlari izlesin.<br/><br/>kisacasi hitap ettigi kesim espiri, zeka ve kulturel seviyesi ortalamin ustunde olan bir kesim.
 - entry_name: |
-    ciğer sevmeyen insan
-  entry_id:  73801008
-  entry_writer: redblood
-  entry_fav_count: 0
-  entry_content: |
-    kurban bayramı sabahı yapılan kavurma şöleni ayinlerinde ,peder ortak yenen kavurma tavasına bi kaç parça ciğer atardı.ciğer yemeyen ben, tadını ve görüntüsünü o kadar unutmuş olurdum ki,et parçalarıyla ciğeri ancak ağzıma atıp bir kez ısırdıktan sonra birbirinden ayırabilirdim.o an ki suratımı görüp, geberene kadar gülmek aile fertlerimin ritüelleri arasındadır.
-- entry_name: |
     27 ocak 2018 su faturamın 85 tl gelmesi
   entry_id:  73800858
   entry_writer: ofsayttandogan
   entry_fav_count: 0
   entry_content: |
     onceleri 35 tl civarinda gelen su faturamiz<br/>sonralari 50 tl civarina gelmisti. simdilerde 85'lere cikti. ver mehteri.
-- entry_name: |
-    27 ocak 2018 simona halep caroline wozniacki maçı
-  entry_id:  73793395
-  entry_writer: i need a therapy
-  entry_fav_count: 0
-  entry_content: |
-    güzellik bakımından wozniacki fersah fersah öndedir aksini iddia eden fetöcüdür. ama tenis kalitesi bakımından halep daha öndedir.
 ---
