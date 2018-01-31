@@ -6,21 +6,21 @@ data:
     6 yıllık ilişkinin tus için bitmesi
   entry_id:  73889693
   entry_writer: guest22474
-  entry_fav_count: 842
+  entry_fav_count: 851
   entry_content: |
     çok özür dilerim ama hem kendi hem de etrafımdaki insanlardan edindiğim tecrübeye göre, <a class="b" href="/?q=tus+bahane+ba%c5%9fka+partnerler+%c5%9fahane">tus bahane başka partnerler şahane</a> olayı olmuş. <br/><br/>üzüldüm. ama hayatın gerçeği bu. ve emin ol kariyer falan için terk edilmedin. aynı bahaneyi sunan bir arkadaşımın eski sevgilisi kpss için ara verdiğini söyleyip başka bir erkekten hamile kalıp evlendi. <br/><br/>git bir tatile çık kafa dinle. sonra kendine gelirsin.<br/><br/>edit: boşluk tuşuna basıldı. @archer05 sağolsun uyardı.
 - entry_name: |
     gümrük limitinin 30 euro'dan 22 euro'ya çekilmesi
   entry_id:  73892192
   entry_writer: supurgesini satan cadi
-  entry_fav_count: 427
+  entry_fav_count: 433
   entry_content: |
     isterseniz 1 euro yapın. bütün elektronik ve gıda dışı envai çeşit alışverişimi amazon'dan yapıyorum. yapacağım. daha pahalı bile olsa!<br/><br/>paramın yolsuzlara, hırsızlara, araplara, ekonomi coh eyicilere, geçmediğim köprülere, adımımı atamadığım saraylara, çocuk tecavüzcülerine gitmesi kadar rahatsız etmiyor inanın. bir de diğer yönden bakalım. satıcılar yönünden: dürüst, ahlaklı, beni önemseyen adamlar dururken şark kurnazı, malının arkasında durmayan adamları neden paramla semirteyim?<br/><br/>dipnot: abd, gümrük vergisi sınırını geçtiğimiz yıl 200 dolardan 800 dolara yükseltmiştir. tabii orada tayyip gibi "halk adamı" bir yönetici olmadığı için normal.<br/><br/>edit: çok mesaj aldım. amazon'dan alınca da yine vergi alıyor devlet deniyor. evet yine vergi ödüyorsun ancak doğrudan türkiye'deki bir satıcıdan aldığınızda devletin kasasına daha çok para giriyor. ürünü satın aldığın firma ülkeye ithal ederken gümrük vergisi ödüyor, sana satarken fiyata ötv, kdv, yerine göre trt bandrol payı vs. ekliyor. tüm bunlar devlete giden kalemler oluyor. bitiyor mu? bitmiyor. türkiye'deki firma; sana yaptığı satıştan elde ettiği karın %30 civarını yine gelir vergisi olarak devlete ödüyor. <br/><br/>buna ek olarak hb ve n11'den yapılan her alışverişle bu kokmuş düzeni destekliyorsunuz. çünkü bu firmaların büyük çoğunluğu hükümet yandaşı. yani paralarınız size yol, su, elektrik olarak değil; daha çok hakaret, daha çok baskı, daha büyük kazık olarak geri dönüyor.<br/><br/>şayet amazon'dan yaptığım alışveriş; bir kuruş bile olsa bu hükümete daha az para aktaracaksa yurt dışından alışveriş yapmaya devam edeceğim. nasıl ki devlet yemiyor içmiyor ufak hesaplarla milleti daha nasıl soyarım diye düşünüyorsa ben de bu konuda ufak hesap yapıyorum. unutmayın eğer biz doğrudan yurt dışından aldığımızda bunların cebine daha fazla para giriyor olsaydı bırakın limiti düşürmeyi limiti tamamen kaldırırlardı. hatta yurt dışından alışveriş yapmamız için bizi teşvik bile ederlerdi. cari açık filan umurlarında değil.
 - entry_name: |
     tsk'nın abdullah öcalan posterini bombalaması
   entry_id:  73894889
   entry_writer: 260611
-  entry_fav_count: 324
+  entry_fav_count: 339
   entry_content: |
     klozetin kenarındaki boku işeyerek temizlemek gibi olmuş.
 - entry_name: |
@@ -52,33 +52,54 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=adnan+oktar">adnan oktar</a>)<br/>tek geçerim.<br/>mal ortada ama kimsenin adam akıllı bir fikri veya açıklaması yok.
 - entry_name: |
-    ilk cinsel deneyimi eş ile yaşamak
-  entry_id:  73880024
-  entry_writer: hayatimgibinickimdebos
-  entry_fav_count: 123
-  entry_content: |
-    sözlük değil sanki fuhuş bataklığına çekmek için uğraşan pezevenk grubu.erkek veya kız tecrübesizse eşinle tecrübelenir, beraber ögrenirler.herkes anasının karnında mı ögreniyor seksi.<br/>aklıma gelmişken söyleyim editi: olum birde şu kız önden vermedi analdan verdi.bakirelik zarda değil muhabbetini bitirin ya.
-- entry_name: |
     1 şubat 2018 avrasya tüneli zammı
   entry_id:  73896051
   entry_writer: ugm
-  entry_fav_count: 117
+  entry_fav_count: 121
   entry_content: |
     16 tl pahalı geldiği için geçmediğim tüneldi, şimdi 21 tl oldu hiç geçmeyeceğim.<br/><br/>gram kafa yok bu işi düzenleyenlerde. ulan gerizekalı 16 tl yi 10 tl falan yap köprüyü kullananlardan bir kısmı daha gelsin. <br/>şimdi yine bir kısım daha köprüye kaçacak, elindeki 16 tl olacak sana 8,75 tl ve ekstra trafik.<br/>mal sürüsü tarafından yönetilmek zor gerçekten...
 - entry_name: |
     reza zarrab'ın hücre arkadaşına salatalık sokması
   entry_id:  73894960
   entry_writer: shades of fucking grey
-  entry_fav_count: 88
+  entry_fav_count: 93
   entry_content: |
     ebru'ya neler yapmıştır acaba diye düşündürtür.
 - entry_name: |
     fethiye'de küçük kızların zenginlere pazarlanması
   entry_id:  73897477
   entry_writer: anani siken kadi
-  entry_fav_count: 83
+  entry_fav_count: 90
   entry_content: |
     işin içinde din, dinci, kur'an kursu, hacı amca gibi oyuncular yoksa hesabı sorulur, herkes de destekler.<br/><br/>bunlar varsa milyonlarca orul orul orospu çocuğu bunları savunur, bu orospu çocukluğunun üstünü kapatmak için analarını bile siktirir.
+- entry_name: |
+    ankara'da güzel döner yenebilecek yerler
+  entry_id:  73888209
+  entry_writer: peepdurple
+  entry_fav_count: 86
+  entry_content: |
+    1. kumrular sokak'taki cici piknik<br/>2. cici'nin hemen yanındaki anadolu lokantası<br/>3. demirtepe'deki özge piknik<br/>4. güvenlik caddesi'ndeki mutlu döner (bim'in yanındaki olanı. aşağıda kalan çakmasıdır.)<br/>5. tunus caddesi'ndeki mutlu döner. (bu da insanı çok mutlu eder.)<br/><br/>sanırım 4 ve 5 hariç ilk 3'ü odun/kömür ateşinde piştiği için özellikle daha lezzetli oluyor. döner gurmesi olduğum için favori yerlerim bu şekildedir.<br/><br/>edit: aşağıdaki (bkz: <a class="b" href="/entry/73889476">#73889476</a>) bu girdide, yazar arkadaşın bahsettiği kalenin oradaki dönerci tüm bunların arasında en efsane döneri yapar. adını bilmiyorum. tam kalenin oradaki yemekçilerin en başındaki köşedeki yer. öğlen saat en geç 13.00 dedin mi döneri biter kalmaz. var ya şu an kalkıp oraya gidebilirim. o derece iyidir döneri. kuzu döner üstelik. danadan değil.<br/><br/>edit 2: olm amma favladınız len (: bu kadar adam bence toplanıp birlikte döner zirvesi falan verelim. güzel fikir bence.<br/><br/>edit 3: mesaj atan, ciddi ciddi döner zirvesine varım diyen arkadaşlar var. sağ olsunlar var olsunlar. ancak, ben bu gibi organizasyon işlerine girmek istemediğimden, herhangi birisi bu meseleyi organize eder ise seve seve katılacağım zirve olur. peşinen bilginize sunarım.
+- entry_name: |
+    31 ocak 2018 diyanet'in adnan oktar açıklaması
+  entry_id:  73900413
+  entry_writer: doludizginbiroduncu
+  entry_fav_count: 86
+  entry_content: |
+    diyanetin her an kapatılmasına sebep olabilecek açıklama.<br/><br/>edit: hiçbir güç kapatamazdı ama adnan hocam başarabilir. hadi hocam göster gücünü bakalım. gücüne inandır bizi kapındayız.
+- entry_name: |
+    türk kızlarından nefret etmek
+  entry_id:  73881054
+  entry_writer: yeni klasor 3
+  entry_fav_count: 84
+  entry_content: |
+    ben at hırsızına benzemiyorum. <br/><br/>ben gayet kibar ve saygılı bir insanım. <br/><br/>ben modernim. tacizle falan işim olmaz...<br/><br/>kadınlar tecavüz vakalarının altına sığınıyorlar ya hah, işte o kişi ben değilim! ben düzgünüm ama sıkıntıyı da sadece ben çekiyorum.<br/><br/>sen o at hırsızı, tecavüze meyilli adamdan sadece kaçarsın ama beni ezmeye çalışırsın çünkü benim sana vurmayacağımdan çok eminsin. <br/><br/>bütün feminist zırvalarını kadını birey olarak gören, düzgün ve modern erkek çeker; gerçekten tepki göstermen gereken adamın karşına bile çıkamazsın zira belanı siker.<br/><br/>çok büyük bir nezaket probleminiz var ve bütün nezaketsizliği nazik insanlara karşı yapıyorsunuz, kaba ve hoyrat erkek her zaman kazançlı çıkıyor sayenizde.<br/><br/>üzgünüm ama <a class="b" href="/?q=ssss">ssss</a>
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  73881775
+  entry_writer: chauncey1
+  entry_fav_count: 82
+  entry_content: |
+    yarın gece en son 152 yıl önce olduğu gibi, <a class="b" href="/?q=s%c3%bcper+ay">süper ay</a>, <a class="b" href="/?q=mavi+ay">mavi ay</a> ve <a class="b" href="/?q=kanl%c4%b1+ay+tutulmas%c4%b1">kanlı ay tutulması</a> aynı geceye denk gelecek. bunların ne anlama geldiğini söyleyelim.<br/><br/><a class="b" href="/?q=s%c3%bcper+ay">süper ay</a>: ay'ın dünya'ya en yakın olduğu zaman normalde gözüktüğünden yaklaşık %14 daha büyük ve %30 daha parlak <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.vox-cdn.com/thumbor/BAQb9XwhXnH16WH8GBFIdIRB_5o=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9789047/29_supermoon_size_1280.jpg" title="https://cdn.vox-cdn.com/thumbor/BAQb9XwhXnH16WH8GBFIdIRB_5o=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9789047/29_supermoon_size_1280.jpg">gözükmesi</a>.<br/><br/><a class="b" href="/?q=mavi+ay">mavi ay</a>: 1 yıl içinde ay, dünyamızın çevresinde yaklaşık 12 kez döner. bir yılda 12 ay olması buradan geliyor yani, takvim aylarına "ay" dememizin nedeni de bu. bu yüzden yılda genellikle 12 kez dolunay gerçekleşir.<br/><br/>ancak bazen bir yılda ay dünyanın etrafında 13 kez döner, bu durumda bir ayda iki dolunay gerçekleşir, ocak ayındaki ilk dolunay 1 ocak 2018'de oldu ve diğeri de 31 ocak 2018 gecesi olacak. aynı ay içinde gerçekleşen ikinci dolunaya <a class="b" href="/?q=mavi+ay">mavi ay</a> ismi verilmiş. sadece bir isim, aslında ay mavi olmuyor. <br/><br/><a class="b" href="/?q=kanl%c4%b1+ay+tutulmas%c4%b1">kanlı ay tutulması</a>: dünya, ay ve güneş arasında kaldığında güneş ışınları ay'ı aydınlatamadığı için ay tutulması denen olay gerçekleşir. ancak güneş ışınları dünya'nın atmosferinden yansıyarak ay'ı az a olsa aydınlatır ve ay kızıl bir renk alır. bu duruma tam ay tutulması ya da romantik ismiyle <a rel="nofollow noopener" class="url" target="_blank" href="https://cdn.vox-cdn.com/thumbor/rE1eDP0g3KiuGDVwAhT_4tIzRMo=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10115559/Lunar_eclipse_sideview.jpg" title="https://cdn.vox-cdn.com/thumbor/rE1eDP0g3KiuGDVwAhT_4tIzRMo=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10115559/Lunar_eclipse_sideview.jpg">kanlı ay tutulması</a> deniyor. <br/><br/>ülkemizde gözlemlenemeyecek ancak türkiye saatiyle 14:30'dan itibaren <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8ccbe6NKiuk" title="https://www.youtube.com/watch?v=8ccbe6NKiuk">youtube</a> üzerinden takip edilebilir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.nasa.gov/feature/super-blue-blood-moon-coming-jan-31" title="https://www.nasa.gov/feature/super-blue-blood-moon-coming-jan-31">https://www.nasa.gov/…blue-blood-moon-coming-jan-31</a>
 - entry_name: |
     ufak tefek cinayetler
   entry_id:  73881270
@@ -94,13 +115,6 @@ data:
   entry_content: |
     burcuna göre insanları genelleyen tiplerin bir baltaya sap olmadıklarını iddia ettikleri erkektir.<br/><br/>ulan sen astrolojiye inanıyosun ve insanları bir baltaya sap olamamakla itham ediyorsun. gerçekten çok sığsın arkadaşım kusura bakma. <br/><br/>not: ben yay burcu da değilim, kişisel de algılamadım, sadece gerizekalı hadsiz tiplere tahammül edemiyorum.
 - entry_name: |
-    31 ocak 2018 diyanet'in adnan oktar açıklaması
-  entry_id:  73900413
-  entry_writer: doludizginbiroduncu
-  entry_fav_count: 62
-  entry_content: |
-    diyanetin her an kapatılmasına sebep olabilecek açıklama.<br/><br/>edit: hiçbir güç kapatamazdı ama adnan hocam başarabilir. hadi hocam göster gücünü bakalım. gücüne inandır bizi kapındayız.
-- entry_name: |
     aybike alev yanar
   entry_id:  73887918
   entry_writer: zwiegesprach
@@ -111,70 +125,70 @@ data:
     türk kızının uzman olduğu konular
   entry_id:  73895355
   entry_writer: comudus
-  entry_fav_count: 56
+  entry_fav_count: 58
   entry_content: |
     (bkz: <a class="b" href="/?q=yalan">yalan</a>)
-- entry_name: |
-    köpeksiz sokaklar istiyoruz
-  entry_id:  73885746
-  entry_writer: surround
-  entry_fav_count: 54
-  entry_content: |
-    köpek fobisi olan birinin köpekle karşılaştıktan sonra ve köpek ona havladıktan sonraki durumunu gördükten sonra desteklemesek bile karşı çıkamayacağım istektir. <br/><br/>bunu çocukluğunu müstakil evde geçirmiş kedi köpekle yatıp uyumuş bir hayvansever olarak söylüyorum. köydeki bahçeye yuva yaptık hala da besliyoruz.<br/><br/>ağızları var dilleri yok ama dişleri de var ve kimileri saldırgan oluyor. ben kendimi bir kaç defa ısırılmaktan korudum ama herkes yapamazdı. <br/><br/>çocuğum olsa ve yolda yürürken köpeğin biri çocuğuma saldırsa o saatte bendeki sevgi override olur hayvan - insan dinlemem siker atarım. <br/><br/>duyar kasıcam derken saçmalamamak gerek.
 - entry_name: |
     31 ocak 2018 giresunspor fenerbahçe maçı
   entry_id:  73890420
   entry_writer: obsessions lament to freedom
-  entry_fav_count: 53
+  entry_fav_count: 57
   entry_content: |
     tam anlamıyla gözleri kanatacak bir fenerbahçe maçı daha. nuri bilge ceylan filmleri bu maçın ilk yarısından daha hareketli geçer. aykut kocamanla uzun bakışmalar ve sessizlikler, yan paslar, hasan aliler, ismailler...
 - entry_name: |
     ölümlü dünya ekibi olarak sorularınızı bekliyoruz
   entry_id:  73898619
   entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 44
+  entry_fav_count: 45
   entry_content: |
     iskender mi yiyelim filme mi gidelim doğu bey?
 - entry_name: |
     yılmaz morgül'ün afrin operasyonu gönüllülüğü
   entry_id:  73894818
   entry_writer: cigiltepe
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     kolpacı akkefenlilere göre yine de delikanlıca hareket.
 - entry_name: |
     çift ayaklı futbolcular
   entry_id:  73898301
   entry_writer: entrynin girildigi tarih ve saat
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     dünya üzerindeki, <a class="b" href="/?q=amp%c3%bcte">ampüte</a> olmayan bütün futbolculardır.
 - entry_name: |
     konyaspor'un eto'o için hazırladığı video
   entry_id:  73898003
   entry_writer: matayyuna
-  entry_fav_count: 32
+  entry_fav_count: 34
   entry_content: |
     antalyaspor'a yer verilmeyerek ayıp edilen video. sanki everton'dan aldılar eto'yu.
 - entry_name: |
     aykut kocaman
   entry_id:  73895423
   entry_writer: bugs bunnydeki kel adam
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     takımı bugünlere zamanında yaptığı çöp transferler ile getiren kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>takımın en iyi oyuncusunu sırf kendi kaprisleri için oynatmayan kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>sezonun basında <a class="b" href="/?q=nabil+dirar">nabil dirar</a> adlı yeteneksize hem de 30 küsür yaşında balıklama atlayıp 4.5 milyon euro veren kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>yıllardır bir işe yaramayan <a class="b" href="/?q=hasan+ali+kald%c4%b1r%c4%b1m">hasan ali kaldırım</a> 'a dünyada hiçbir takımın vermeyeceği paraları vererek sözleşme yenileten kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>30 küsür yaşında uzun süreli bir sakatlıktan daha yeni çıkmış olan, kendisini toparlama ihtimali tamamen şansa bağlı olan <a class="b" href="/?q=roberto+soldado">roberto soldado</a> 'ya 5 milyon bayılan kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>takımın transfere ihtiyacı yok deyip 10 küsür transfer yaptıran kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>volkan demirel'den daha iyi bir kaleci almak varken 4.5 milyon dirar' a, 5 milyon soldado'ya bayılan kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>belki de fenerbahçe kariyerinin en iyi dönemini yaşayan <a class="b" href="/?q=ozan+tufan">ozan tufan</a>'ı kadrodışı bırakan kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>bu sezon şu ana kadar ne golü ne de asisti olan yeteneksizlik abidesi <a class="b" href="/?q=aatif">aatif</a> 'ı oynatıp takımın skor yükünü taşıyan <a class="b" href="/?q=mathieu+valbuena">mathieu valbuena</a> 'yı sürekli yedek bırakan kim? <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a> <br/><br/>hadi hepsini geçtim, <a class="b" href="/?q=vardar">vardar</a> denen köy takımına iki maçta da yenilen kim? ona da siz cevap verin.<br/><br/>sonra efendim neymiş? elindeki kadro yeteneksizmiş.<br/><br/>hadi lan oradan.<br/><br/>edit : bir de <a class="b" href="/?q=alex+de+souza">alex de souza</a> olayında kendisinin suçu yokmuş. adama yaptığı mobbingleri bilmiyoruz sanki. gönderene kadar, kendisiyle ters düşene kadar elinden geleni yaptı.
 - entry_name: |
     140 km ile giderken kontrolünü kaybeden audi a4
   entry_id:  73880960
   entry_writer: gunes girmeyen eve giren adam
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     dikkat edilirse, araba, bir tırın yanından geçiyorken savrulmaya başlamıştır. <br/>bunun sebebi, tırın kendi altında yarattığı büyük <a class="b" href="/?q=hava+bo%c5%9flu%c4%9fu">hava boşluğu</a> ve akabinde gelen <a class="b" href="/?q=hava+ak%c4%b1m%c4%b1d%c4%b1r">hava akımıdır</a>.<br/><br/>hızlı giden büyük vasıtalardan olabildiğince uzak durulması gerektiğini; aksi taktirde, kullanılan arabanın, bu vasıtaların yarattıkları hava akımlarından dolayı savrulabileceğini yıllar yılı önce trafik hocamdan öğrenmiştim.
+- entry_name: |
+    jahrein'e 15000 tl bağış gelmesi
+  entry_id:  73900379
+  entry_writer: screenwriter
+  entry_fav_count: 26
+  entry_content: |
+    sokak satıcılarının, özellikle kumar oynatanların müşteri gibi davranan yancıları vardır. nedense aklıma onlar geldi.
 - entry_name: |
     efsanevi yalanlar
   entry_id:  73898172
   entry_writer: 14 love
-  entry_fav_count: 23
+  entry_fav_count: 25
   entry_content: |
     genellikle yeni çiftler için söylenen; (bkz: <a class="b" href="/?q=ma%c5%9fallah+%c3%a7ok+yak%c4%b1%c5%9fm%c4%b1%c5%9flar">maşallah çok yakışmışlar</a>)<br/><br/>yalan amk. bakıyorsun yarrak gibi çift ama "mosolloh cok yokosmussonoz"
 - entry_name: |
@@ -184,6 +198,13 @@ data:
   entry_fav_count: 23
   entry_content: |
     şu (<a class="b" href="/entry/73889033">#73889033</a>) entry'ye ek olarak süper ay, mavi ay, kanlı ay nedir kısaca bakalım.<br/><br/>süper ay : ayın normalden %17 daha büyük gözükmesi. bunun sebebi de dünyaya en yakın konumda olması.<br/><br/>mavi ay : ay, dünya etrafında 1 yılda 12 kez döner. her ay 1 kez dolunay gerçekleşir. eğer 1 ay içerisinde 2. dolunay gerçekleşirse buna mavi ay diyorlar. evet renkle hiçbir alakası yok.<br/><br/>kanlı ay : dünya, güneş ile ay arasına girdiğinde ay tutulması gerçekleşir. bu durumda ay, güneş ışınlarını doğrudan alamaz; fakat dünyadan kırılan kırmızı dalgaboyundaki ışık, ayın yüzeyine vuracağı için kızıl bir renk alır.<br/><br/>bugün gerçekleşecek olan olayda işte bu 3 durum aynı anda olacak. herkese iyi seyirler dilerim.
+- entry_name: |
+    1980 yılında beşiktaş'ta çekilen fotoğraf
+  entry_id:  73901286
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 23
+  entry_content: |
+    cok acaip bi <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/BLP9YQ.jpg" title="https://i.hizliresim.com/BLP9YQ.jpg">nostalji</a><br/><br/>sene 1980, nufus epeyce az, yesillik bolca mevcut. alarko bile o zamanlar holdingmis, simdi ne? klima..<br/><br/>bogazin karsindaki ormanlik alana bak. hey yavrum be harbiden dutlukmus.
 - entry_name: |
     yuto nagatomo
   entry_id:  73889126
@@ -195,21 +216,21 @@ data:
     ekşi itiraf
   entry_id:  73880194
   entry_writer: onuraydin
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     gelecekte torunlarımız bizim hakkımızda : "hepsi delirene kadar her şeyden haberdar olmaya çalıştılar" diye bahsedecekler diye düşünüyorum.
 - entry_name: |
-    jahrein'e 15000 tl bağış gelmesi
-  entry_id:  73900379
-  entry_writer: screenwriter
-  entry_fav_count: 17
+    eljif elmas
+  entry_id:  73899688
+  entry_writer: antartika vatandasi
+  entry_fav_count: 19
   entry_content: |
-    sokak satıcılarının, özellikle kumar oynatanların müşteri gibi davranan yancıları vardır. nedense aklıma onlar geldi.
+    bugün yine maça etkili başlamış, aldığı tüm topları dikine pas yapmış, uzaktan bir de etkili şut çıkarmıştır.<br/><br/>bunları yaparak kendi sonunu hazırlamakta, resmen hocasına "beni yedeğe çek hocam" demektedir. azıcık akıllı olsa, geri ve yan pas yapar, kapamayacağı toplara boş pres yapar ve pas tercihlerini hatalı kullanır.<br/><br/>eğer böyle yeteneklerini göstermeye devam ederse; stoch, alex de souza, valbuena gibi isimlerle aynı kaderi yaşar. şeyşu, selçuk, mehmet topuz, hasan ali, dirar abileri gibi düzenli oynaması için derhal dediklerimi uygulamalıdır.<br/><br/>edit : asisti de yaparak skora etki etti ve yedek kalmayı garantiledi.
 - entry_name: |
     artistik buz pateni yapan türbanlı sporcu
   entry_id:  73898212
   entry_writer: benyinedebildigimiyapayim
-  entry_fav_count: 17
+  entry_fav_count: 19
   entry_content: |
     sonuna kadar kadınları desteklerim ama anlamadigim bir konu var; bütün olay saç gostermemekte mi? giyilen kiyafet ki bu spor icin zaten başka birşey giyilemez tabii de mensup olunan dince onaylaniyor mu şimdi?
 - entry_name: |
@@ -220,19 +241,19 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=k%c3%bcf%c3%bcrbaz+haydo">küfürbaz haydo</a>) miras davası bölümü.<br/>başından-sonuna, tüm replikler ezberimde
 - entry_name: |
+    bulaşık makinesi teknolojisinin hiç gelişmemesi
+  entry_id:  73900412
+  entry_writer: nikini vermek istemeyen bir izleyici
+  entry_fav_count: 14
+  entry_content: |
+    bir gerçektir. <br/><br/>her şeyde teknoloji inanılmaz gelişmişken bulaşık makinesi kenarda sinsi sinsi bu gelişmeleri izlemekte, başka da bir şey yapmamaktadır. gelişeceği filan yoktur. aç kapak, kapa kapak. <br/><br/>öyle yok 10 programa çıkmış, hassas yıkamaymış cartmış curtmuş ondan bahsetmiyorum. bu lanet makineler 30 yıl önce de tabakların kiri sıyrılıp tek tek dizmek ve sonra yıkandıktan sonra çıkarmak şeklinde kullanılıyordu bugün de böyle. yani tabağı önünden alıp başka hiçbir şey yapmadan pırıl pırıl önüne koyan bir sistem geliştiremediler. <br/><br/>çalışan bir beyim, bıktım anlıyor musunuz? gerçekten bıktım. mühendisler o kadar zırlıyor burada. biri de şunu daha iyi yapalım, farklı bir makine icat edelim demiyor argelere gelesiceler.
+- entry_name: |
     bir maaşımızı devletimize bağışlıyoruz kampanyası
   entry_id:  73897255
   entry_writer: bir nickim olsun yeter
   entry_fav_count: 12
   entry_content: |
     vergiler yetmiyor, maaslari da alsinlar. kacak saraya bi kat daha ciksinlar.
-- entry_name: |
-    1980 yılında beşiktaş'ta çekilen fotoğraf
-  entry_id:  73901286
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 11
-  entry_content: |
-    cok acaip bi <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/BLP9YQ.jpg" title="https://i.hizliresim.com/BLP9YQ.jpg">nostalji</a><br/><br/>sene 1980, nufus epeyce az, yesillik bolca mevcut. alarko bile o zamanlar holdingmis, simdi ne? klima..<br/><br/>bogazin karsindaki ormanlik alana bak. hey yavrum be harbiden dutlukmus.
 - entry_name: |
     kemal kılıçdaroğlu
   entry_id:  73884737
@@ -241,13 +262,6 @@ data:
   entry_content: |
     isvec'te siyaset yapsa efendiligiyle fahri baskan olurdu. norvec'te durustluguyle ust uste 8 secim kazanirdi. luksemburg'da yasasa asaletiyle dük olurdu. tek sorun caponya, iste orda olsa bu kadar secim kaybedince harakiri yapardi.
 - entry_name: |
-    bulaşık makinesi teknolojisinin hiç gelişmemesi
-  entry_id:  73900412
-  entry_writer: nikini vermek istemeyen bir izleyici
-  entry_fav_count: 10
-  entry_content: |
-    bir gerçektir. <br/><br/>her şeyde teknoloji inanılmaz gelişmişken bulaşık makinesi kenarda sinsi sinsi bu gelişmeleri izlemekte, başka da bir şey yapmamaktadır. gelişeceği filan yoktur. aç kapak, kapa kapak. <br/><br/>öyle yok 10 programa çıkmış, hassas yıkamaymış cartmış curtmuş ondan bahsetmiyorum. bu lanet makineler 30 yıl önce de tabakların kiri sıyrılıp tek tek dizmek ve sonra yıkandıktan sonra çıkarmak şeklinde kullanılıyordu bugün de böyle. yani tabağı önünden alıp başka hiçbir şey yapmadan pırıl pırıl önüne koyan bir sistem geliştiremediler. <br/><br/>çalışan bir beyim, bıktım anlıyor musunuz? gerçekten bıktım. mühendisler o kadar zırlıyor burada. biri de şunu daha iyi yapalım, farklı bir makine icat edelim demiyor argelere gelesiceler.
-- entry_name: |
     bul beni
   entry_id:  73880100
   entry_writer: tekbeer
@@ -255,12 +269,12 @@ data:
   entry_content: |
     yavuz çetin'e ait olandan bahsediliyor sandım da keşfedildi diye ödüm koptu. neyse ki başka parçadan bahsediliyormuş. sıkıntı yok, devam.
 - entry_name: |
-    eljif elmas
-  entry_id:  73899737
-  entry_writer: stavrogin
-  entry_fav_count: 7
+    kadının erkeğin göğsüne başını koyduğu an
+  entry_id:  73898136
+  entry_writer: lernemania
+  entry_fav_count: 5
   entry_content: |
-    fenerbahçelilerin 2007'de tuncay'ın gidişinden beri 10 yıldır hissettiği al yanaklı futbolcu eksikliğini gidermeye gelmiş al yanaklı. bir de saçlarını uzattı mı taraftarın yeni prensi olmaması icin hiçbir neden yok.<br/><br/>ilk 11 de başladığı ilk maçta asistini de yaptı tosunum.<br/><br/>edit: 40 yılın başı bir futbol maçı izleyeyim dedim. tek ilgimi çeken şey de eljif elmas'ın nasıl oynayacağıydı. ama aykut efendi ikinci yarıya eljif elmas'ı çıkararak başlamayı uygun gördü. bizeyse kala kala zulüm gibi bir 45 dakika kaldı.
+    instagrama atılası andır yazmış aynen birlikte sıçarken de atarsınız.
 - entry_name: |
     çukur (dizi)
   entry_id:  73879949
@@ -276,19 +290,12 @@ data:
   entry_content: |
     görüntülerin neresinde hırsızlık var anlamadım. dayak atan tarafın üste çıkma çabası olabilir.<br/><br/>diğer yandan, eğer gerçekten hırsızlık varsa bu linci hukuki yönden haklı çıkarmaz. ama etik yönden bal gibi de minibüste durduk yerde adam dövmekten farklı bir yere koyar.
 - entry_name: |
-    kadının erkeğin göğsüne başını koyduğu an
-  entry_id:  73898136
-  entry_writer: lernemania
-  entry_fav_count: 3
+    31 ocak 2018 everton leicester maçı
+  entry_id:  73889122
+  entry_writer: az dusunur cok konusur arada yazar
+  entry_fav_count: 5
   entry_content: |
-    instagrama atılası andır yazmış aynen birlikte sıçarken de atarsınız.
-- entry_name: |
-    sevgilisi ne isterse hemen yapan oğlan
-  entry_id:  73897309
-  entry_writer: etmaynkil
-  entry_fav_count: 2
-  entry_content: |
-    he oğlandır he hanımdır.. ulan ne boş adamlara kaldık.. adamlar oturup yok şunu yapan böyledir, onu yapan şöyledir diye yafta dağıtıp duruyorlar.. yazık anasını satayım nice hayatlar heba oluyor şu memlekette
+    yeterince derdimiz yokmuş gibi bir de bu çıktı başımıza. adam gol atana kadar bize rahat yok. tinerci değilim ama tabi ki başarılı olmasını istiyorum tosun'un. artık 3-5 tane atsan da huzur içinde kendi leş ligimize dönsek.
 - entry_name: |
     en güzel kitap adları
   entry_id:  73899009
@@ -297,6 +304,20 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=anlatmak+i%c3%a7in+ya%c5%9famak">anlatmak için yaşamak</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcz+y%c4%b1ll%c4%b1k+yaln%c4%b1zl%c4%b1k">yüz yıllık yalnızlık</a>)<br/>(bkz: <a class="b" href="/?q=a%c5%9fk+gibi+ayd%c4%b1nl%c4%b1k%2c+%c3%b6l%c3%bcm+gibi+karanl%c4%b1k">aşk gibi aydınlık, ölüm gibi karanlık</a>)
 - entry_name: |
+    axess kredi kartı üyelik ücreti
+  entry_id:  73894411
+  entry_writer: mahmut adinda bir balik
+  entry_fav_count: 2
+  entry_content: |
+    gün itibariyle ekstremde 95 lira olarak görünen ücret. her sene iptal ediyorlardı, bu sene iptal talebimi reddettiler. itiraz talebinde bulundum, kabul edilmeze kartı iptal edeceğim.
+- entry_name: |
+    31 ocak 2018 fenerbahçe'nin kazandığı penaltı
+  entry_id:  73902444
+  entry_writer: bildiginiinsanligasunanadam
+  entry_fav_count: 2
+  entry_content: |
+    biraz daha müsait olduğum bir günde bu hakemin aynı pozisyona dair vermediği eski maçlarındaki pozisyonları bulup buradan ekleyeceğim inşallah. <br/><br/>aynı dakikada aynı ğozisyon giresun lehine olsa kesinlikle vermezdi. bak eski bir hakem olarak söylüyorum kesinlikle vermezdi. <br/><br/>bu tür pozisyonlara penaltı verilmesi gerekiyorsa o zaman her maç 10 tane penaltı çalınmalıdır. ne yani hiç mi pres yapmasın rakip, hiç mi adamına yapışmasın? o zaman defans olmanın adam tutmanın ne manası var allasen? ben rakibimi tutacağım omuz omuza yapışacağım o da dirençli olsun arkadaş. hemen yere yapıştı koskoca dağ gibi fernandao. ulan kurban bayramında 16 kişi ortak girse herkese 35 kg et düşer. topsuz alanda kalınca arkadan da temas var attı kendini hooop penaltı.<br/><br/>zaten ziraat t kupasını izleyen bir ben kalmıştım bu saatten sonra federasyon ve hakemler izlesin kürt çalıp çingen oynasın.<br/><br/>giresunspor gibi düşük bütçeli takımlar biraz başarılarla az imkanlarla buralara kadar gelmiş hooop hemen gel aşağı.<br/><br/>sinir bastı ya. <br/><br/>neyse hakemin eski maçlarına bir bakıp döneceğim.
+- entry_name: |
     yazarların favori film soundtrack'leri
   entry_id:  73887878
   entry_writer: demonofthefall
@@ -304,40 +325,19 @@ data:
   entry_content: |
     <a class="b" href="/?q=the+good+the+bad+and+the+ugly">the good the bad and the ugly</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/AFa1-kciCb4" title="https://youtu.be/AFa1-kciCb4">the ecstacy of gold</a> (<a class="b" href="/?q=ennio+morricone">ennio morricone</a>)<br/><a class="b" href="/?q=pulp+fiction">pulp fiction</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/VXi3mCfv15k" title="https://youtu.be/VXi3mCfv15k">surf rider</a> (<a class="b" href="/?q=the+lively+ones">the lively ones</a>)<br/><a class="b" href="/?q=life+of+pi">life of pi</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/_4ZaDu2zfWI" title="https://youtu.be/_4ZaDu2zfWI">pi's lullaby</a> (<a class="b" href="/?q=bombay+jayashri">bombay jayashri</a> , <a class="b" href="/?q=mychael+danna">mychael danna</a>)<br/><a class="b" href="/?q=platoon">platoon</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/ECQeLQURNuw" title="https://youtu.be/ECQeLQURNuw">adagio for strings</a> (<a class="b" href="/?q=samuel+barber">samuel barber</a>)<br/><a class="b" href="/?q=saw">saw</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/vhSHXGM7kgE" title="https://youtu.be/vhSHXGM7kgE">`hello zepp`</a> (<a class="b" href="/?q=charlie+clouser">charlie clouser</a>)<br/><a class="b" href="/?q=resident+evil">resident evil</a>- <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/fd7PXjcSRNs" title="https://youtu.be/fd7PXjcSRNs">convoy</a> (<a class="b" href="/?q=charlie+clouser">charlie clouser</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/94dY-QxjDiE" title="https://youtu.be/94dY-QxjDiE">1492: conquest of paradise</a> (<a class="b" href="/?q=vangelis">vangelis</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/CSav51fVlKU" title="https://youtu.be/CSav51fVlKU">chariots of fire theme</a> (<a class="b" href="/?q=vangelis">vangelis</a>)
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  73885054
-  entry_writer: aylardan ekim
+    geceye bir şiir bırak
+  entry_id:  73881009
+  entry_writer: je te promets
   entry_fav_count: 1
   entry_content: |
-    "finally taking flight<br/>i know you don't think it's right<br/>i know that you think it's fake<br/>maybe fake's what i like"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/x57ZM02NhF0" title="https://youtu.be/x57ZM02NhF0">same ol' mistakes</a> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/JQngVB.jpg" title="https://i.hizliresim.com/JQngVB.jpg">shotshot</a>
+    şöyle bir içten öpmeni senin,<br/>bin tane cennete değişmem...<br/><br/>varsın yatağımız ipek olmasın,<br/>güzel vücudun danteller içinde değilmiş,<br/>ne çıkar...<br/>o bütün tatlı saatlerinde gecenin<br/>güneş perdelere gelene kadar,<br/>kollarında bulutlarda gibiyim,<br/><br/>mehtap saçağımızdaki buzlarda<br/>odamıza bir soğuk aydınlık dolmuş.<br/>gözlerin gözlerimde,<br/>boynumda sımsıcak kolların,<br/>gündüzki yorgunluğum kaybolmuş.<br/>seni her an minnetle yad ederim<br/>sen şimdi şarkılarla evimizdesin,<br/>sahibem, efendim, elagözlüm<br/>gözlerinden öperim..<br/><br/>boydan boya bekçi düdükleri sokaklarda<br/>gecemiz huzur içinde ela gözlüm.<br/>öpüşlerin öpüşlerin ardarda...<br/>hem sevgi hem şefkat dolu ellerin<br/>ne olur yine böyle yarın da<br/>binlerce şükrediyorum hayata geldiğime <br/>kollarında..<br/><br/>bir başka lezzet var hayatta ela gözlüm,<br/>öteki alemleri bilmek istemem.<br/>şöyle bir içten öpmeni senin,<br/>binlerce cennete değişmem.<br/><br/>turgut uyar
 - entry_name: |
-    fatma avlar
-  entry_id:  73895621
-  entry_writer: altay horda
-  entry_fav_count: 1
+    sevgilisi ne isterse hemen yapan oğlan
+  entry_id:  73898185
+  entry_writer: kahve muptelasi
+  entry_fav_count: 0
   entry_content: |
-    sözde hümanistler tarafından görmezden gelinmiş olan şehit kızımız.<br/>türkün yavrusu bile şehadetiyle bazı itleri kudurtuyor.<br/>şehadetin mübarek olsun kızım.<br/>tanrı seni tıpkı serap eser kızımız gibi cennetin en güzel yerinde saklasın.<br/><br/>ek: (bkz: <a class="b" href="/?q=ttb%27nin+%c5%9fehit+fatma+avlar+i%c3%a7in+att%c4%b1%c4%9f%c4%b1+tweet">ttb'nin şehit fatma avlar için attığı tweet</a>)
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  73883090
-  entry_writer: ahbual
-  entry_fav_count: 1
-  entry_content: |
-    eski bir ekşi atasözü der ki “dertleşmenin sonu sertleşmedir.” ben demiyorum bana savurmayın küfürlerinizi.
-- entry_name: |
-    31 ocak 2018 macron'un ermeni soykırımı açıklaması
-  entry_id:  73901247
-  entry_writer: meksika
-  entry_fav_count: 1
-  entry_content: |
-    her zamanki fransız taktiği, ya artık türkiye bu konuda dayak arsızı oldu, çok etkilenmiyor, batı ittifakı artık başka taktik geliştirsin bu plan tutmuyor.
-- entry_name: |
-    31 ocak 2018 everton leicester maçı
-  entry_id:  73889122
-  entry_writer: az dusunur cok konusur arada yazar
-  entry_fav_count: 1
-  entry_content: |
-    yeterince derdimiz yokmuş gibi bir de bu çıktı başımıza. adam gol atana kadar bize rahat yok. tinerci değilim ama tabi ki başarılı olmasını istiyorum tosun'un. artık 3-5 tane atsan da huzur içinde kendi leş ligimize dönsek.
+    oğlanların yüz karasıdır. oğlanın bile bir karakteri, duruşu var be yazıklar olsun.
 - entry_name: |
     ozan tufan
   entry_id:  73891138
@@ -346,10 +346,10 @@ data:
   entry_content: |
     çok yanlış bir tercihle premier league ve crystal palace a gidecek oyuncu.<br/>bir defa bu fizik, tempo ve oyun aklı ile box-to-box tipi orta sahaları meşhur olan ingiltere'de tutunabileceğini dakika bulabileceğini falan sanmıyorum. zaten 22 yaşında ve gelişime muhtaç bir oyuncu olarak kesinlikle kariyerine boş bir 6 ay ekleyecek.<br/><br/>ayrıca gittiği takımın kadrosunda <a class="b" href="/?q=yohan+cabaye">yohan cabaye</a> ve <a class="b" href="/?q=luka+milivojevic">luka milivojevic</a> gibi kaliteli ve istikrarlı iki merkez orta saha var. fb, milivojevic i olympiakos tan almak için 2 sene uğraşmıştı.<br/><br/>emre çolak gibi 2. sınıf bir la liga takımına gitse, hem dakika bulur hem de stiline uygun bir ligde tırmalar dururdu. <br/><br/>bu kafayla ve kariyer planlaması ile giderse, 2 sene sonra 2. lig kırmızı grupta izleyeceğiz kendisini.
 - entry_name: |
-    28-30 ocak'ta erkek yazarları mesaja boğuyoruz
-  entry_id:  73884234
-  entry_writer: sari muhendis
+    31 ocak 2018 macron'un ermeni soykırımı açıklaması
+  entry_id:  73901342
+  entry_writer: lazybones
   entry_fav_count: 0
   entry_content: |
-    ulan niye hiç haber vermiyorsunuz. uyuyakalmışım yine.
+    ülke olarak siklenmemesi gereken açıklamalardır. her sene böyle bir muhabbet dönüyor. olan bir bok yok.
 ---
