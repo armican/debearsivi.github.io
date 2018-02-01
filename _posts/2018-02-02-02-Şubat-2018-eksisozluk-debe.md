@@ -6,72 +6,86 @@ data:
     1 şubat 2018 efes boykotu
   entry_id:  73909664
   entry_writer: antalya konyaustu
-  entry_fav_count: 1901
+  entry_fav_count: 1921
   entry_content: |
     edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.gazeteduvar.com.tr/ekonomi/2018/02/01/ozilhan-konustu-eksi-sozlukte-bira-boykotu-baslatildi/" title="https://www.gazeteduvar.com.tr/ekonomi/2018/02/01/ozilhan-konustu-eksi-sozlukte-bira-boykotu-baslatildi/">haberlere</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201802011032066232-eksi-sozluk-bira-boykotu/" title="https://tr.sputniknews.com/turkiye/201802011032066232-eksi-sozluk-bira-boykotu/">çıkmaya</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/bbcturkce/status/959047895197671426" title="https://twitter.com/bbcturkce/status/959047895197671426">başladık</a> gençler, devam! hashtag: <a class="b" href="/?q=%23boykotefespilsen">#boykotefespilsen</a><br/><br/>bu arada aramızda akpli biracılar varsa rica ediyorum kola mevzusunda yaptıkları gibi efes alıp sokaklara dökerek protesto etmesinler. <br/><br/>son olarak, migros'un da hatta anadolu grubuna ait tüm markaların da boykot kapsamına girmesini isteyen birçok öfkeli arkadaştan mesajlar alıyorum. efes ve benzeri ürünleri boykot ederken başka yerden kendisine kazandırmamak için, alışveriş yaptığınız yerlerin ve aldığınız ürünlerin anadolu grubuna ait olup olmadığını düşünmekte gerçekten fayda var.<br/><br/>-----<br/><br/>yurtdışı satışı artmaya devam ederken sırf yurtiçinde %5 kaybı var diye evde bira yapanlara <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/ekonomi/201802011032058171-anadolu-grubu-bira-vergi-tuncay-ozilhan/" title="https://tr.sputniknews.com/ekonomi/201802011032058171-anadolu-grubu-bira-vergi-tuncay-ozilhan/">yaptırım isteyen</a> anadolu grubu sahibi özilhan'a "kayıp öyle olmaz böyle olur" demek için başladığım boykottur.<br/><br/>siz de katılın. müşterisine devlet sopası isteyenlere en güzel tokadı biz atalım.<br/><br/>--------<br/><br/><a class="b" href="/?q=edit">edit</a>: <a class="b" href="/?q=acgacg">acgacg</a> ve <a class="b" href="/?q=susamli+cubuk">susamli cubuk</a> nickli arkadaşlar efesten kaçarken miller'a tutulmayalım diye bütün anadolu grubu biralarının <a rel="nofollow noopener" class="url" target="_blank" href="http://www.dosya.tc/server11/yu2k64/EFES_20180104.pdf.html" title="http://www.dosya.tc/server11/yu2k64/EFES_20180104.pdf.html">liste</a>sini gönderdiler sağolsun, <a class="b" href="/?q=i%c5%9fte+o+liste">işte o liste</a>!!:<br/><br/><a class="b" href="/?q=yerli">yerli</a><br/><br/>efes pilsen<br/>efes pilsen fıçı<br/>efes pilsen özel seri: 10<br/>efes pilsen pastörsüz<br/>efes malt<br/>efes lıght<br/>efes brewmaster serisi red ale<br/>efes brewmaster serisi amber ale<br/>efes brewmaster serisi whıte ale<br/>bomontı %100 malt<br/>bomontı filtresiz %100 malt<br/>bomonti red ale %100 malt<br/><br/><a class="b" href="/?q=yabanc%c4%b1">yabancı</a><br/><br/>mıller genuıne draft<br/>beck's<br/>velcopopovıcky kozel<br/>grolsch<br/>yüksek alkollü<br/>efes xtra<br/>efes xtra shot<br/>amsterdam navıgator<br/>özel ürünler<br/>duvel<br/>peronı nastro azzurro<br/>samuel adams boston lager<br/>erdınger<br/>ekonomik<br/>marmara gold %100 malt<br/>marmara 34
 - entry_name: |
     1 şubat 2018 adnan oktar'ın diyanet açıklaması
   entry_id:  73914558
   entry_writer: fylorc
-  entry_fav_count: 523
+  entry_fav_count: 535
   entry_content: |
     <a class="b" href="/?q=31+ocak+2018+diyanet%27in+adnan+oktar+a%c3%a7%c4%b1klamas%c4%b1">31 ocak 2018 diyanet'in adnan oktar açıklaması</a> üzerine adnan oktar'ın verdiği cevaptır. tam olarak "kerhanelerden, kumarhanelerden, içki fabrikalardan alınan paralarla, vergilerle maaşlarınız ödeniyor. bir kere bunlar hakkında açıklama yaptınız mı, bunlara sesinizi çıkarttınız mı? gıkın çıkmıyor hoca efendi" demiştir. <br/><br/>ekşi sözlükte de çok fazla geyiği yapılan bir konuya parmak basmış adnan oktar. diyanet işleri başkanı erbaş'ın bu topa girip cevap vereceğini hiç sanmıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.mynet.com/haber/guncel/adnan-oktardan-diyanet-isleri-baskanina-sok-cevap-3664735-1" title="http://www.mynet.com/haber/guncel/adnan-oktardan-diyanet-isleri-baskanina-sok-cevap-3664735-1">kaynak</a><br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0bk9YPLwfuU" title="https://www.youtube.com/watch?v=0bk9YPLwfuU">video için</a>
 - entry_name: |
     sertab erener'in eurovision birinciliği politiktir
   entry_id:  73909959
   entry_writer: choud
-  entry_fav_count: 506
+  entry_fav_count: 515
   entry_content: |
     mfö değil mazhar alanson beyanıdır. mfö denince hep bir ağızdan senkron bir şekilde bu cümleyi mi söylediler acaba diye sordum içimden.
 - entry_name: |
     kerhanelerden gelen vergiyle maaşınız ödeniyor
   entry_id:  73916040
   entry_writer: orgof
-  entry_fav_count: 338
+  entry_fav_count: 341
   entry_content: |
     <a class="b" href="/?q=dinsizin+hakk%c4%b1ndan+imans%c4%b1z+gelir">dinsizin hakkından imansız gelir</a> sözü hiç bu kadar şeraite oturmamıştı.
 - entry_name: |
     evde bira yapımına vergi getirilmeli
   entry_id:  73910064
   entry_writer: island er besti stadurinn til ad lifa
-  entry_fav_count: 284
+  entry_fav_count: 285
   entry_content: |
     normal şartlarda açıklama "içkideki vergi yükü insanları başka alternatiflere yönlendiriyor. evde bira yapımı hijyen açısından sıkıntılar doğurabilir ve halk sağlığını etkileme riski yüksektir. bu nedenle devletten ricamız vergi yükünü hafifletmeleri, bu sayede evde bira yapımı da cazibesini yitirecektir" şeklinde olmalıydı.<br/><br/>ama burası türkiye, "benden alıyorsun onlardan da al çünkü satışlarım azalıyor" demiş. ülkenin görece elit kesimi bile bu kafa yapısındaysa vah bize vahlar bize.
 - entry_name: |
     chivas regal
   entry_id:  73913328
   entry_writer: lavishiri
-  entry_fav_count: 221
+  entry_fav_count: 224
   entry_content: |
     içine haşlanmış patates ve bir miktar soğumuş menemen koyulduğunda inanılmaz lezzetli olmaktadır. ancak market yumurtası değil, köy yumurtasıdır doğasına uygun olanı.
 - entry_name: |
     bir ay alkol tüketmiyoruz
   entry_id:  73915616
   entry_writer: cizisfakinkirayst
-  entry_fav_count: 169
+  entry_fav_count: 172
   entry_content: |
     edit: konuya biraz açıklık getirelim.<br/>*şubat ayında alkol almıyoruz. #alkolsüzşubat<br/>*sloganımız da 'birayla değil bir ayla çözeceğiz!' <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><sup class="ab"><a title="(bkz: hometree)" href="/?q=hometree" data-query="hometree">*</a></sup><br/>*hali hazırda evinizde olan alkolleri içmek serbest. free shop serbest. kendi yaptığınız alkoller serbest.<br/>*evet alkolü bırakmak zor iş. kendinize evinde alkol bulunan veya kendi birasını, şarabını, rakısını kendisi yapan arkadaşlar edinmenizi tavsiye ederim.<br/>*ayda 300 lira bira vergisi vermişim arkadaşlar. verirken öyle gelmiyor bir biradan ne olacak gibi geliyor ama bir ay içtiklerinizi siz de hesaplasanız verdiğiniz vergiye içiniz acır.<br/><br/>konu sadece efesle ilgili değil. her biraya hayvan gibi vergi ödüyoruz. bir ay alkol kullanmasak veya en aza indirsek büyük ölçüde bunları zarara uğratırız. biraz kalburüstü bir mekanda 15 liradan aşağı bira içemiyoruz. üç bira içmek 45 liraya mal oluyor. tekelden alsan da verdiğin paranın yarısı vergi. bu vergiler belimizi büktü. üçüncüyü içsem mi diye düşünmek istemiyorum artık. ağustosta sadece biraya 600 lira vermişim. birayla eve çıkardık o paraya. rakı falan zaten az içiyoruz. 70lik rakıda yanlış hatırlamıyorsam 59 lira vergi ödüyoruz. sinirlerim bozuldu. <br/><br/>ezcümle, siz varsanız ben kendi adıma bir ay alkol almamaya varım. pınar boykotu başarılı bir boykottu. ben gittiğim üç mekanda pınar suyu değiştirdiklerini gördüm. tabi onda alternatif vardı bunda nasıl bir alternatif olur bilemiyorum. ama alkole artık bu kadar para vermek istemiyorum.<br/><br/>zirve düzenleyip kendi biramızı yapar iceriz gerekirse.
 - entry_name: |
     1 şubat 2018 şeriatın gelmesi
   entry_id:  73917434
   entry_writer: beauty in the beast
-  entry_fav_count: 137
+  entry_fav_count: 151
   entry_content: |
     şeriat falan hikaye de, şarkıda 'allah baba' ibaresi geçti diye <a class="b" href="/?q=1+milyon+lira">1 milyon lira</a> ceza kesmişler. sanırım allah'a ödenecek bu para, yoksa müslüman bir tv denetleme kurulu allah'ın adını kullanıp sağdan soldan haraç mı kesiyor? memleket bu kadar mı kötü durumda?<br/><br/>edit: <a class="b" href="/?q=garipbasci">garipbasci</a> uyardi, para birimi dolardi, turk lirasi olarak degistirildi. gerci ne fark eder, soygun soygundur (:
+- entry_name: |
+    1 şubat 2018 kanserin ilacının bulunması
+  entry_id:  73921241
+  entry_writer: avni mutlu amca
+  entry_fav_count: 127
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html" title="https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html">bu</a> linkte de görülebileceği üzere gerçekleştiği söylenen inanılmaz olaydır. <br/><br/>habere göre stanford üniversitesi'nde ronald levy tarafından yapılan çalışmalar sonucu 90 farenin 90'nında bir çok kanser tipi elimine edilmiş.<br/><br/>saygılarımla<br/><br/>yrd. doç. dr amcanız avni mutlu<br/><br/>edit 1 : bakıyorum ki sözlük bu güzel haberin içeriğini bile okumak yerine espri kasan ''hee tamam'' diyen liselilerle dolmuş. utanıyorum. eserinle gurur duy başak.
 - entry_name: |
     melek yargıcı'nın akıllara zarar videosu
   entry_id:  73905956
   entry_writer: chocolate brown
-  entry_fav_count: 114
+  entry_fav_count: 115
   entry_content: |
     (bkz: <a class="b" href="/?q=tamamen+akli+dengesi+herhalde+bozulmu%c5%9f">tamamen akli dengesi herhalde bozulmuş</a>)
 - entry_name: |
     bitcoin
   entry_id:  73904790
   entry_writer: definition of seeker
-  entry_fav_count: 110
+  entry_fav_count: 112
   entry_content: |
     <a class="b" href="/entry/73904341">#73904341</a><br/><br/>şimdi de amerikan dolarıyla yapılanların listesini verelim ;<br/><br/>1. silah<br/>2. kiralık katil <br/>3. terörist gruplara destek <br/>4. kaçırılıp köle olarak satılan insanlar<br/>5. her çeşit uyuşturucu <br/>6. porno<br/>7. çocuk pornosu<br/>8. bebek pornosu <br/>9. canlı yayın işkence yapılan chat odalarını izlemek<br/>10. muhtemelen aklımıza gelmeyecek çeşitli pislikler <br/><br/>japon yeniyle yapılanlar,<br/><br/>1. silah<br/>2. kiralık katil <br/>3. terörist gruplara destek <br/>4. kaçırılıp köle olarak satılan insanlar<br/>5. her çeşit uyuşturucu <br/>6. porno<br/>7. çocuk pornosu<br/>8. bebek pornosu <br/>9. canlı yayın işkence yapılan chat odalarını izlemek<br/>10. muhtemelen aklımıza gelmeyecek çeşitli pislikler <br/><br/>meksika pezosuyla yapılanlar,<br/><br/>1. silah<br/>2. kiralık katil <br/>3. terörist gruplara destek <br/>4. kaçırılıp köle olarak satılan insanlar<br/>5. her çeşit uyuşturucu <br/>6. porno<br/>7. çocuk pornosu<br/>8. bebek pornosu <br/>9. canlı yayın işkence yapılan chat odalarını izlemek<br/>10. muhtemelen aklımıza gelmeyecek çeşitli pislikler
+- entry_name: |
+    çamaşır kurutma makinesi
+  entry_id:  73906385
+  entry_writer: gozunu acan maymun
+  entry_fav_count: 103
+  entry_content: |
+    sözlükte de amma övülmüş. iyi hoş tabii de kesinlikle bir bulaşık makinesi değil. <br/><br/>bulaşıkları kendi kendine toplayan bir şey icat edilene kadar en iyi icat bulaşık makinesidir. aksini iddia eden de fetöcüdür. evlenecek olsam eve kocadan bile önce bir tane bulaşık makinesi alırım. ev deyince bile aklıma direkt bulaşık makinesi geliyor. çamaşır çitiler, tokaçlar,<sup class="ab"><a title="(bkz: tokaçlamak)" href="/?q=toka%c3%a7lamak" data-query="tokaçlamak">*</a></sup> kurusun diye elli kere asar ve toplarım ama bulaşık deyince sinir oluyorum çünkü. depresyondayken bulaşık çıkmasın diye aylarca plastik tabak, çatal vb. kullanmış bir insanım. hadi bakalım eyyorlamam bu gadar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     terk eden kadının yenisini bulmadan terk etmemesi
   entry_id:  73904535
@@ -80,19 +94,12 @@ data:
   entry_content: |
     hayatımdan uzun yıllar eksik olmamış kadın modelidir... <br/><br/>1- böyle kadınlar genel itibari ile hayatında birisi yokken mutlu görünürler... malumunuz reklam ne kadar düzgün olursa hedef kitlenin ilgisi o derece çekilecektir. <br/><br/>2- bir ilişki yaşarkende sürekli talep eden taraf olurlar... bu talep illa maddi değildir... ilgi , sürekli ego’nun okşanması, sürprizler... kısaca hayatınız onun etrafında dönmelidir. yaptığınız şeylerden mutlu olmuş gibi gözükse de asla tatmin olmaz bir maymun iştahı vardır. onun için hep daha fazlası vardır... <br/><br/>3- sosyal medyada aktif bir kadınsa yeni avları için ilişkisi varken çok ince melankoli modelinde paylaşımlara başlar... ki o malum soru sorulsun ? merhaba cnm ? uzun zaman oldu nasılsın ? canın mı sıkkın ? eğer bu soru hanım kızımızın beklentilerine hitap eden bir birey ise sanal yürüyüşler başlayacaktır.<br/><br/>4- genelde hayatınızdaki bu çıkarcı tatminsiz yaratık son zamanlarında iyice bıkkın ve mutsuz mu olmaya başladı ? sürekli eleştiri vs modunda mı ? evet sebebi sensin tatlı çocuk... çünkü artık varlığın yeni hedefler için tehdit oluşturuyor... senin varlığın amacını tamamladı...<br/><br/>5- burada kızımız çeşitli yollar izleyebilir. öncelikle “ya artık eskisi gibi değiliz bu ilişki de artık değişiklikler var” konsepti ile sorunları size yıkmayı deneyebilir... bunun dışında “hayatım sorun sen değilsin benim...” konsepti sorunu kendine çekip hızlı soğutma modeli denenebilir... unutmayın erkek birey ne kadar kibar ve alttan alan bir birey olursa kadın ayrılmak için o kadar çirkinleşecek ve hayvanlaşacaktır. ( bana oldu ordan biliyorum.) <br/><br/>6- normal soğutma evresi işe yaramaz ise artık ahlaksızlaşma modu ön plana çıkar... ilişki hataları artık açık açık yüze vurulmaya başlanır. baktı adam halen dayanıyor... altın vuruş onurunuza dokunan nankörlük konseptinde sarf edilecek 2-3 cümle ondan tamamen nefret etmenize yetecektir.<br/><br/>7- bu tarz kadınlar için tamamen kalbiniz rahat olsun. asla mutlu olamazlar. çünkü tatmin bilmez halleri ve sürekli yeni istekler onları belli bir yaştan sonra ya yalnız ya da tamamen alakasız bir birey ile başbaşa kalmasına sebep olacaktır. doğal seleksiyonuz seviyorum. daha beter olsunlar.<br/><br/>8- bu kadınları hayatınızda fark ettiğiniz anda çıkartın... çünkü bunlarla geçirilen zaman kayıptır ve yazıktır. kibarlığınız , nezaketiniz, anlayışlı davranışlarına bu birey asla layık olamayacaktır... ve mümkünse ayrılırken ne olduğunu bildiğinizi ona belirterek yapın ki tekrardan size yaklaşmaya cesaret edemesin... bırakın kendi pisliğinde boğulsunlar...<br/><br/>9- kalpleri güzel, nazik ve kibar beyefendi veya hanımefendilere asla lafım yoktur ve onlara bir ömür boyu hayalleri ötesi mutluluklar dilerim. <br/><br/>10- bu maddeleri okuyup uyuz olan şark kurnazı hanımlara gelince... evet nasıl bir pislik olduğunuzu gayet iyi biliyorum ve sizin canınızı sıktığım için çok mutluyum. kokunuz 1km den farkediliyor... kendi lağım çukurunuzda tez elden boğulmanız dileklerimle...<br/><br/>not: genel bir yanlış anlaşılma farkettim. bakınız efendim kızın son model arabasının olması veya lüks yaşaması kızı mutlu etmez. kızın mutsuzluğunun temel sebebi kendi çevrelerinde sevgilisinden veya eşinden daha zengin veya gösteriş budalası alfa kadın veya erkek olmasıdır. kızımızın son model iphone x cep telefonu olabilir. ancak sevgilisinin arkadaşı mehmet kendi eşine doğum gününde yaklaşık 30 bin euro fiyatı bulan zümrüt kaplamalı timsah derisi vertu signature cep telefonu almışsa bizim yaratık otomatik mutsuz olacaktır. başka bir örnek verirsem hanım kızımızın eşi sense 50 yelkenli sahibi iken hemen karşısısına demirli lagoon 620 katamaran var ise bu yine hanım kızımızı kıskançlıktan çıldırtacak sebeptir. kızımızın mutsuzluk sebebi kendilerine yakın bireylerin daha fazlasına sahip olma durumu ile doğru orantılıdır. bu davranış türü cinsiyet farketmeksizin erkekleri de kapsayabilir. dolayısıyla sadece fırıldak kadın mı ? tabi ki hayır... ama bu başlığın konusu kadındır... erkek konulu başlık açın oraya da yazayım 3-5 bişi...
 - entry_name: |
-    çamaşır kurutma makinesi
-  entry_id:  73906385
-  entry_writer: gozunu acan maymun
-  entry_fav_count: 100
+    bizim de 20 civarında 25 kadar şehidimiz var
+  entry_id:  73918931
+  entry_writer: damon and his friends are stupid but you
+  entry_fav_count: 81
   entry_content: |
-    sözlükte de amma övülmüş. iyi hoş tabii de kesinlikle bir bulaşık makinesi değil. <br/><br/>bulaşıkları kendi kendine toplayan bir şey icat edilene kadar en iyi icat bulaşık makinesidir. aksini iddia eden de fetöcüdür. evlenecek olsam eve kocadan bile önce bir tane bulaşık makinesi alırım. ev deyince bile aklıma direkt bulaşık makinesi geliyor. çamaşır çitiler, tokaçlar,<sup class="ab"><a title="(bkz: tokaçlamak)" href="/?q=toka%c3%a7lamak" data-query="tokaçlamak">*</a></sup> kurusun diye elli kere asar ve toplarım ama bulaşık deyince sinir oluyorum çünkü. depresyondayken bulaşık çıkmasın diye aylarca plastik tabak, çatal vb. kullanmış bir insanım. hadi bakalım eyyorlamam bu gadar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-- entry_name: |
-    1 şubat 2018 kanserin ilacının bulunması
-  entry_id:  73921241
-  entry_writer: avni mutlu amca
-  entry_fav_count: 80
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html" title="https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html">bu</a> linkte de görülebileceği üzere gerçekleştiği söylenen inanılmaz olaydır. <br/><br/>habere göre stanford üniversitesi'nde ronald levy tarafından yapılan çalışmalar sonucu 90 farenin 90'nında bir çok kanser tipi elimine edilmiş.<br/><br/>saygılarımla<br/><br/>yrd. doç. dr amcanız avni mutlu<br/><br/>edit 1 : bakıyorum ki sözlük bu güzel haberin içeriğini bile okumak yerine espri kasan ''hee tamam'' diyen liselilerle dolmuş. utanıyorum. eserinle gurur duy başak.
+    sessiz sokakların sesi, milletinin hizmetçisi olan cumhurbaşkanımızın afrin operasyonuyla ilgili olarak verdiği rakamsal <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/917788/Erdogan__20_civarinda__25_kadar_sehidimiz_var.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/917788/Erdogan__20_civarinda__25_kadar_sehidimiz_var.html">değerdir.</a> bunların bir kısmı tsk mensubu asker, bir kısmı öso mensubu, bir kısmı da -o da ne demekse- sivilmiş.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>cumhurbaşkanı recep tayyip erdoğan, tügva gençlik buluşması'nda yaptığı konuşmada, "bugün de afrin'den hamdolsun, teröristlerden 800 tanenin işi bitti, ila cehenneme zümera. akşama kadar bu sayı daha da artacak. bizim de 20 civarında, 25 kadar şehidimiz var" dedi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>80-85 milyon kadar olan türk milleti sözüm sanadır. sen bunu hak ediyorsun. sen bu muameleye çok yakışıyorsun.
 - entry_name: |
     cumhuriyetin uykusunda ölen liseli fatma rezilliği
   entry_id:  73908591
@@ -101,33 +108,19 @@ data:
   entry_content: |
     politik kısmını bir kenara bırakarak tamamen habercilik açısından bakmaya çalışıyorum ve müthiş bir fiyasko görüyorum, ben cumhuriyetin ana sayfasında gezerken bu haberi gördüm ve "uykusunda ölen kız niye haber olmuş acaba?" diye düşünsem de habere tıklamadan geçtim. <br/><br/>kızın roket saldırısı yüzünden öldüğünü ise sözlükte öğreniyorum. başlığın salaklığı bence şu şekilde çok rahat anlaşılabilir: bir insanın evine roket isabet edip onu öldürüyorsa orada önemli olan nokta, yani haberi haber yapan nokta, uyuyor olması, liseli olması veya yemek yiyor olması değildir, evine bir roketin girip onu öldürmesidir. dolayısıyla bu kız uykusunda ölen bir kız değil evinde roketle vurularak öldürülen bir kızdır. uyuyor olması gibi, haberin çok daha önemsiz bir ayrıntısını bu haberin başlığı yapmak bence salak gazetecilik örneği olamayacak kadar bariz hata. belli ki birilerinin roketler atıp siviller öldürüyor olmasını pek de göze batırmamaya çalışan birileri var orada. bunun aksini iddia edebilmek için büyük politik at gözlükleri olması lazım bence insanın.<br/><br/>edit: ilk hali "uykusunda ölen liseli fatma son yolcuğuna uğurlandı" olan başlık, başına "afrinden atılan roketle" ibaresi eklenerek güncellenmiş.
 - entry_name: |
-    bizim de 20 civarında 25 kadar şehidimiz var
-  entry_id:  73918931
-  entry_writer: damon and his friends are stupid but you
-  entry_fav_count: 79
-  entry_content: |
-    sessiz sokakların sesi, milletinin hizmetçisi olan cumhurbaşkanımızın afrin operasyonuyla ilgili olarak verdiği rakamsal <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/917788/Erdogan__20_civarinda__25_kadar_sehidimiz_var.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/917788/Erdogan__20_civarinda__25_kadar_sehidimiz_var.html">değerdir.</a> bunların bir kısmı tsk mensubu asker, bir kısmı öso mensubu, bir kısmı da -o da ne demekse- sivilmiş.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>cumhurbaşkanı recep tayyip erdoğan, tügva gençlik buluşması'nda yaptığı konuşmada, "bugün de afrin'den hamdolsun, teröristlerden 800 tanenin işi bitti, ila cehenneme zümera. akşama kadar bu sayı daha da artacak. bizim de 20 civarında, 25 kadar şehidimiz var" dedi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>80-85 milyon kadar olan türk milleti sözüm sanadır. sen bunu hak ediyorsun. sen bu muameleye çok yakışıyorsun.
-- entry_name: |
     30 yaş üstü erkeklerin mastürbasyon erbabı olması
   entry_id:  73919320
   entry_writer: sad clown
-  entry_fav_count: 70
+  entry_fav_count: 72
   entry_content: |
     (bkz: <a class="b" href="/?q=seni+sikerim+%c3%a7ocuk">seni sikerim çocuk</a>)
 - entry_name: |
     1 şubat 2018 üsküdar halk otobüsü kazası
   entry_id:  73911666
   entry_writer: bacadan kovulup kapidan giren adamim
-  entry_fav_count: 67
+  entry_fav_count: 69
   entry_content: |
     eleştirdiğim yönleri olsada kayseride bu ulaşım sisteminde çok güzel değişiklikler yapıldı ve çok temiz bir sistem oluşturuldu. havuz sistemi. araç aldığı yolcu değil havuzda biriken paradan kilometre hesabıyla para kazanıyor. eğer ki toplu ulaşım sistemleri havuza dönüştürülürse aracın boş gitmesi dolu gitmesi gibi bir şey olmayacak yolcu kapma ihtiyacı doğmayacak. çünkü sistem kendini tek havuzda beslediği için elbet birisi alacak ve para kazanılacak. bu magandalığın çözümü bence budur. <br/>edit: yazar arkadaşlar istanbulda da havuz sistemi olduğunu söyledir. bu ihtimalde elendiğine göre aklımq sadece denetimsizlik geliyor.
-- entry_name: |
-    köylerde de ekmek yapıyorlar
-  entry_id:  73918387
-  entry_writer: kendimgeldim
-  entry_fav_count: 61
-  entry_content: |
-    (bkz: <a class="b" href="/?q=-de+birle%c5%9fik+hayvan">-de birleşik hayvan</a>)<br/><br/>edit: başlık köyler de ekmek yapıyor diye açılsaydı daha doğru olurdu o zaman. ek olarak “tandır da” yazman gözlerimi kanattı kardeş.<br/><br/>edit 2: başlık köyler de ekmek yapıyorlar diye açılmıştı. şimdi düzeltildi hoş oldu :)
 - entry_name: |
     tez yazamamak
   entry_id:  73904854
@@ -139,14 +132,14 @@ data:
     117 yıldır hiç sönmeyen ampül
   entry_id:  73913646
   entry_writer: mor esek
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c4%9fz%c4%b1ndan+yel+als%c4%b1n">ağzından yel alsın</a>)
 - entry_name: |
     akp'nin iktidarı kaybettiği günkü türkiye
   entry_id:  73914038
   entry_writer: seylann
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     "gog ile birlikte 200 milyon kişilik bir orduya komuta edecek olan tomargah büyük ihtimalle akp olabilir."<br/><br/>sesli güldüm.<br/><br/>ulan hırsızdan, arsızdan, vatan haini namussuzdan tomargah mı olur? olsa olsa çomargahtır o.
 - entry_name: |
@@ -157,19 +150,12 @@ data:
   entry_content: |
     nasıl bir haber lan bu. ne güzel işte çok talep olunca ikinci treni koymuşlar karaborsa olmasın diye. solculukla ilgisi olmayan saçma haberdir.
 - entry_name: |
-    galatasaray
-  entry_id:  73908183
-  entry_writer: yafes kagan
-  entry_fav_count: 45
-  entry_content: |
-    çapulcuların ağlama duvarına dönmüş başlıktır. winner diye dalga geçilmeye çalışıyor garibim.<br/><br/>evvela winner ne demek? dursun özbek gibi bir varlığın başkanlığında;<br/>1 şampiyonluk<br/>2 türkiye kupası<br/>2 süper kupa<br/>1 avrupa basketbol şampiyonluğu kazanmaktır.<br/>bunlara rağmen kulübe yakışmayan hal ve tavırlarda bulunduğu için kapının önüne koymak demektir.<br/><br/>borçlar!<br/>borç-alacak farkı beşiktaş'tan bile daha azdır. ama alçak basınımıza göre 2000 senesinden beridir her sene batmaktadır. bu sene gene batıyor, maşallah durduramıyoruz...<br/>velev ki diğer kulüpler kadar borçlu, mal varlıklarından sadece galatasaray adası bile rakiplerinin tüm mal varlığından değerlidir. <br/><br/>basında güçlüymüş!<br/>wagner love iftirasını atıp, galatasaray topçu ayartıyor diye ortalığı inleten yavşaklar, beşiktaş transfer edince hiç konuşmuyor, konuşmaz, alışkınız. çünkü, türkiye'de futbol galatasaray'a karşı oynanan bir oyundur!<br/>rüştü, rıdvan, ahmet çakar, oğuz çetin ve beşiktaş tetikçileri her kanalda galatasaray'a sallarken, galatasaray'ın bir tane bile adam akıllı temsilcisi ekranlara çıkartılmıyor. en son ergün çıkmıştı, 3 hafta bile sürmedi.<br/><br/>n'diaye gitmiş, şampiyonluk gitmişmiş.yönetimsiz, hatta teknik direktörsüz bile şampiyon olmadı mı bu takım? üstelik şimdi 8'de 6 yapmış bir teknik direktör var. yönetim çapsızmış. yahu yönetim diye bir şey yok. sadece mayısa kadar görev verilmiş insanlar var. galatasaray yönetimi şampiyonluktan sonra seçilecektir.<br/><br/>tff dersen maşallahı var. bir kulübün eski yöneticilerinin toplama kampı gibi çalışıyor.<br/><br/>tüm bu şartlar altında başka bir kulüp olsa çoktaan yerle yeksan olurdu.<br/><br/>ammavelakin galatasaray ait olduğu mecraya, avrupa sahnesine kaldığı yerden devam etmek için, şampiyon olacaktır. şampiyonluk başarı mıdır? olağandır, olması gerekendir. 14 sene averaj verdik, hala daha yakalayamıyorlar.<br/><br/>bizi diğerlerinden ayıran kuruluş bildirgesindeki rakiplerimizdir, türk olmayanlardır.<br/><br/>haa türk olanların birisi 15, diğeri 5 sene gerimizden takip etmektedeler. bize en çok kim yaklaşırsa, o vakit kendilerini başarılı sayarlar.<br/>birisi, 15 sene evvel taktığımız yıldızı, geçen sene taktı diye en büyük ilan ettiler kendilerini.<br/>diğer kulübün umut kaynağı başkan adayı ise 5 sene sonra hala daha 4. yıldızı takacağız derdinde.
-- entry_name: |
-    türk kızının uzman olduğu konular
-  entry_id:  73904387
-  entry_writer: misafirhavlusu
+    jahrein'e 15 bin tl bağış gelmesi
+  entry_id:  73904679
+  entry_writer: frequences
   entry_fav_count: 43
   entry_content: |
-    küçük barzolar yetiştirmek, şüphesiz ki gökten zembille inmiyorlar. hanimiş benim paşam, aslan oğlum benim.
+    patronum lise mezunu bir inşaatçı, altında çalışan mühendisler (ben mühendis değilim, mühendis yarısı gibi birşeyim) ihalelere çalışıp, ihalelere girip, ihaleyi kazanıp sonrasında o işi başlatıp bitiriyorlar (hepsi açık ihale). şu an devam eden 11 şantiye (hatta 12 olmak üzere, pardon şubatta 13 olacak) var. işlerin toplam bedeli 600 milyonun üstünde. neredeyse 120 milyon türk lirası kemiksiz geliri var senede. çevremizdeki inşaat sektöründe en kötü şirketin 10 milyonluk işi var. sen bu adamın aldığı 15 bin türk lirasını sorguluyorsun. kariyer yapıp zengin olmuş kim var çevrende? hiç bir girişim yapmamışsın, sistemi delmeye çalışacağın yere, sistemin parçası olmuşsun adamın 15 bin lirası batıyor sana. girişim yapmanın hiç bir zaman kaybı yok. her zaman kazanan girşimcidir. vermeyenin iki yüzü...
 - entry_name: |
     1 şubat 2018 avrasya tüneli indirimi
   entry_id:  73917818
@@ -185,6 +171,13 @@ data:
   entry_content: |
     ak parti'ye vuranı sözlükte itibarsızlaştırmaya çalışıyorlar. <br/><br/>bu sözlük uludağ sözlük gibi bir yer haline gelmiş.<br/><br/>ak parti burayı da ele geçirmiş. yazık.
 - entry_name: |
+    8 numara denildiğinde akla gelen ilk isim
+  entry_id:  73915662
+  entry_writer: vosvogen kasap
+  entry_fav_count: 36
+  entry_content: |
+    (bkz: <a class="b" href="/?q=steven+gerrard">steven gerrard</a>)<br/><br/>işinize gelirse
+- entry_name: |
     tuncay özilhan
   entry_id:  73910038
   entry_writer: sorun sende degil bende
@@ -195,37 +188,44 @@ data:
     3 günlük egemen bebek için kan ihtiyacı
   entry_id:  73918601
   entry_writer: cj
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     edit: arkadaşlar konunun üstlerde yer alması için siz değerli yazarlarımıza bolca mesaj atıyorum. bu nedenle banlanmam ve ya şikayet edilmem söz konusu olabilir. rahatsız ettiğim yazarlar lütfen özürlerimi kabul etsinler.<br/><br/>söz konusu 3 günlük açık kalp ameliyatı olacak ve hayati tehlikesi olan bir melek olunca bırakın sözlükten atılmayı iyileşmesi için ömrümden zaman bile verebilirim kabul etseler. <br/>--------------------------------------------------<br/><br/>dünyaya 3 gün önce gözlerini açan egemen bebeğin <a class="b" href="/?q=a%c3%a7%c4%b1k+kalp+ameliyat%c4%b1">açık kalp ameliyatı</a> olabilmesi için <a class="b" href="/?q=0+rh-">0 rh-</a> ve <a class="b" href="/?q=b+rh-">b rh-</a> kana acil olarak ihtiyaç duyulmaktadır.<br/><br/><a class="b" href="/?q=kan%c4%b1n+bulunmas%c4%b1+hayati+%c3%b6nem+ta%c5%9f%c4%b1maktad%c4%b1r.">kanın bulunması hayati önem taşımaktadır.</a><br/><br/>kan verebilecek kişiler,<br/><br/>acıbadem mehmet aydınlar üniversitesi atakent hastanesi kan merkezi'ne (halkalı merkez mah. turgut özal bulvarı no:16 34303 -1.kat) istanbul<br/><br/>başvurarak bugün ve yarın kan örneği, 3 şubat 2018 cumartesi gününden itibaren de kan verebilirler.<br/><br/>--- <a class="b" href="/?q=%c3%b6nemli">önemli</a> ---<br/><br/>kan verecek kişilerin son 3 gün içerisinde alkol, sigara ve herhangi bir ilaç kullanmammış olması gerkmektedir.<br/><br/>son 1 yıl içerisinde anestezi almamış olması (diş tedavisi dahil) ve 1 yıl içerisinde dövme yaptırmamış olması gerekmektedir.<br/><br/>--- <a class="b" href="/?q=%c3%b6nemli">önemli</a> ---<br/><br/>ayrıntılı bilgi ve iletişim için:<br/><br/>hakan hilmi kapucu 0542 251 92 32<br/>servet cankurt 05442356852
-- entry_name: |
-    8 numara denildiğinde akla gelen ilk isim
-  entry_id:  73915662
-  entry_writer: vosvogen kasap
-  entry_fav_count: 33
-  entry_content: |
-    (bkz: <a class="b" href="/?q=steven+gerrard">steven gerrard</a>)<br/><br/>işinize gelirse
-- entry_name: |
-    rtük'ün 7 kocalı hürmüz raporu
-  entry_id:  73912290
-  entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 30
-  entry_content: |
-    şudur: <br/><br/>"bir sahne dolusu kadın dansçı, şiddetli bir biçimde erkek arzulayan, yatsıdan sonra yağmur duasına çıkar gibi dama çıkıp, bu istekleri için allah’a dua edip yalvaran, duaların kabul edilmesi neticesinde de ‘allah baba’ya şükreden kadınları teatral bir biçimde canlandırmışlardır.<br/><br/>bu içerikte allah; erkeksizlikten hayati düzeyde etkilenmiş kız evlatların bu yoksunluğunu erkek bolluğu ile giderecek erkek bir tanrıya, lütufkar ve hoşgörülü bir babaya benzetilmektedir.<br/><br/>kuranı kerim’de, allah’ın cinsiyet, doğurma ve doğurulma gibi insana ve diğer varlıklara atfedilen özelliklerden münezzeh olduğu açıkça ve mutlak bir biçimde belirtilmektedir. allah’a ‘baba’ atfında bulunulması, yahudilik ve hıristiyanlık’ta bulunan; ancak kuran’da küfür ve şirk olarak eleştirilen bir durumdur.<br/><br/>çoğunluğun müslüman olduğu ülkemizde, kuranı kerim’deki temel inanç esası olan tevhid’e aykırı olan, ‘allah baba’ tabirinin milyonların izlediği bir yarışma programında, diğer dinlerden etkileşimle zikredilmesi ve müslümanlar açısından kutsal olan bir durumun eğlenceye vesile yapılarak hafife alınması suretiyle ihlal oluştuğu değerlendirilmiştir.<br/><br/>‘toplumun milli ve manevi değerlerine, genel ahlaka ve ailenin korunması ilkesine aykırılık’ gerekçesiyle, cezalandırılmasına oy çokluğu ile karar verildi."<br/><br/>cezaya sebep veren şarkı da <a class="b" href="/?q=7+kocal%c4%b1+h%c3%bcrm%c3%bcz+m%c3%bczikali">7 kocalı hürmüz müzikali</a>'ndeki <a class="b" href="/?q=el+hubb">el hubb</a> parçası.<br/><br/>sadık şendil bu müzikali 1980'de yazmış, bugüne kadar da böyle şeyhülislam ağızlarıyla ceza kesen olmamış. <br/><br/>bu cezayı verene bir, bu cezayı vereni o koltuğa oturtana iki... akzibidiler sizi...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/seyhulislam-degil-rtuk-sarkida-gecen-allah-baba-sozu-nedeniyle-tv8e-ceza/" title="http://www.diken.com.tr/seyhulislam-degil-rtuk-sarkida-gecen-allah-baba-sozu-nedeniyle-tv8e-ceza/">kaynak</a>
 - entry_name: |
     1 şubat 2018 çukurambar patlaması
   entry_id:  73922407
   entry_writer: golgem ve ben
-  entry_fav_count: 26
+  entry_fav_count: 34
   entry_content: |
     bu tür başlıklarda 'bilmem nereden de duyulan patlama' diye entry'ler girmeseniz de olayın asıl nedenini açıklayan entry'ler arada kaynamasa keşke! ne oldu acaba diye yüreğimiz hopluyor şurada zaten. bir de bilgi içerikli entry bulana kadar dokuz doğuruyoruz!
+- entry_name: |
+    chp önünde kendini yakmak isteyen heykeltraş
+  entry_id:  73921273
+  entry_writer: excaliboor
+  entry_fav_count: 32
+  entry_content: |
+    klasik ve rutin chp refleksi ile tiyatro olduğu öne sürülmüş ama bu eylem geliyorum demiş resmen.<br/><br/>12 eylül 2015 <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazetemizmir.com/ragip-cicen-soruyor-27-milyon-nerede/11273/" title="http://www.gazetemizmir.com/ragip-cicen-soruyor-27-milyon-nerede/11273/">http://www.gazetemizmir.com/…7-milyon-nerede/11273/</a> linkinden;<br/>" projeye başlamadan önce kendisine iller bankası'ndan kredi çekileceği sözünün verildiğini ancak öyle olmadığını söyleyen heykeltıraş çiçen, "kavga dövüşten sonra projeyi yapmam için yalvardılar. öyle kabul ettirdiler. işe başladığımın 3. ayında bir başkan yardımcısı 'proje için ayrılan parayı çoktan bitirdiler' dedi. karşılıklı taahhütlerimiz vardı. sözler tutulmadı. zemin etüdü, altyapı onlara aitti. 60 gün zemin etüdü yapmadılar. kendim yaptırmak zorunda kaldım. sonradan bana yüz binlerce lira gecikme cezası kestiler" diye konuştu. eski belediye başkanı sıtkı kürüm'ün kendisinden sözleşmeyi iptal etme tehdidiyle 1.5 milyon lira borç aldığı iddiasına ilişkin de konuşan çiçen, "beni sıtkı kürüm ile bu olaydan 1.5 sene önce torbalı'da şantiyede çalışırken bedri serter tanıştırmıştı. 500 bin liralık ilk taksidi almaya oğlunun arabasıyla bedri serter geldi. sonradan diğer iki taksidi de kürüm'e makamında teslim ettik. kürüm parayı aldıktan sonra bana şantiyedeyken 'sen o parayı unut' dedi. sıkıntıdan 2 kez kalp krizi geçirdim. kürüm, 'bu paranın tamamını meclis üyelerine ve encümene dağıttım. bir kuruşu boğazımdan geçmedi. bunun üzerine su içeceksin' dedi. nasreddin hoca kafasını takamamamın sebebi budur" açıklamasını yaptı."<br/><br/>21 mayıs 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.medyagundem.com/kilicdarogluna-o-protestonun-altindan-chpli-belediyedeki-rusvet-rezaleti-cikti/" title="http://www.medyagundem.com/kilicdarogluna-o-protestonun-altindan-chpli-belediyedeki-rusvet-rezaleti-cikti/">http://www.medyagundem.com/…-rusvet-rezaleti-cikti/</a> linkinden;<br/>"chp genel başkanı kemal kılıçdaroğlu’na antalya havalimanında “benim hayatımı mahvettiniz” diye tepki gösteren heykeltraş ragıp çiçen, izmir’in karabağlar belediyesine 1,5 milyon lira rüşvet verdiğini öne sürdü.<br/><br/>çiçen, ofisinde düzenlediği basın toplantısında, karabağlar ilçesinde 250 hektarlık alanda sanatsal yapılar ve tematik oyun alanları yapmak için 3 sene önce sözleşme imzaladığını söyledi.<br/><br/>zamanın belediye başkanı sıtkı kürüm’ün “iller bankasında kredimiz sadece 14 milyon lira. şu anda böyle bir projeyi yapma imkanımız yok. bunun bir bölümünü şimdi gösterelim. söz veriyorum 2014’ün 1 ocak tarihinde ek bir ihale ile gerisini halledeceğiz.” şeklinde söz vermesi üzerine 25 milyon lira bedelli iş için 11,5 milyon liraya sözleşmeyi imzaladığını öne süren çiçen, belediye başkan yardımcısının kendisinden ‘başkan senden 1,5 milyon lira borç istiyor’ diyerek rüşvet talep ettiğini savundu.<br/><br/>çiçen, “(vermeyeceğim) demem üzerine yapımına başlanan rekreasyon alanı projesinin iptalinin söz konusu olacağını ve yatırdığım paranın yanacağını söylediler. mecburen üç taksit halinde 1,5 milyon liralık rüşvet verdim.” iddiasında bulundu"<br/><br/>6 aralık 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/antalya-kilicdaroglu-na-hakaret-davasi-9033338-haberi/" title="https://www.haberler.com/antalya-kilicdaroglu-na-hakaret-davasi-9033338-haberi/">https://www.haberler.com/…et-davasi-9033338-haberi/</a> linkinden; <br/>"açılan kamu davasının görülmesine antalya 23'üncü asliye ceza mahkemesi'nde başlandı. davanın ilk duruşmasında 2 yıla kadar hapis istemiyle yargılanan tutuksuz sanık ragıp çiçen hazır bulundu. kılıçdaroğlu'nun avukatı ise mazeret bildirdiği için duruşmaya gelmedi.<br/><br/>mahkemede verdiği ifadesinde suçlamaları kabul etmeyen ragıp çiçen, 'ben kemal kılıçdaroğlu'nun baştan sona sahte ve kurmaca bir insan olduğunu düşünüyorum. hakaretse, bunu da ekleyin. sahte ve kurmaca bir insan olduğunu da ispat edebilirim. buna ilişkin delillerimi de sunacağım" dedi. söydedikleri ve yazdıklarının arkasında olduğunu belirten çiçen, eleştiri hakkını kullandığını söyledi. kendisine ceza verilmesi halinde bununla ilgili hükmün açıklanmasının geri bırakılmasını da istemediğini söyleyen çiçen, 'çünkü ben suç işlemedim" dedi.<br/><br/>kılıçdaroğlu'nu canlı yayına davet etti<br/>mahkemeye 7 sayfalık savunma dilekçesi ile 13 mart 2015 tarihli kemal kılıçdaroğlu'na noterden gönderdiği ihtarnamenin bir suretini de veren çiçen, yaşadığı mağduriyet nedeniyle herşeyini kaybettiğini iddia etti.<br/><br/>12 mayıs 2017 <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/kilicdarogluna-hakaret-eden-heykeltirasa-12-bin-lira-ceza-40455580" title="http://www.hurriyet.com.tr/kilicdarogluna-hakaret-eden-heykeltirasa-12-bin-lira-ceza-40455580">http://www.hurriyet.com.tr/…-bin-lira-ceza-40455580</a> linkinden; <br/>"chp genel başkanı kemal kılıçdaroğlu'na geçen yıl mayıs ayında antalya havalimanı'nda hakaret ettiği iddiasıyla yargılanan heykeltıraş ragıp çiçen, 12 bin lira adli para cezasına mahkum edildi."<br/><br/>3 ocak 2018<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.star.com.tr/guncel/heykeltiras-ragip-cicen-kilicdaroglu-yuzunden-atolyem-batti-intiharin-esigine-geldim-haber-1293319/" title="http://www.star.com.tr/guncel/heykeltiras-ragip-cicen-kilicdaroglu-yuzunden-atolyem-batti-intiharin-esigine-geldim-haber-1293319/">http://www.star.com.tr/…igine-geldim-haber-1293319/</a> linkinden;<br/>"heykeltıraş ragıp çiçen: kılıçdaroğlu yüzünden atölyem battı, intiharın eşiğine geldim<br/>antalya’da yaşayan heykeltıraş, chp lideri kemal kılıçdaroğlu yüzünden 250 kişinin çalıştığı atölyesinin battığını, bütün mal varlığını kaybettiğini ve intiharın eşiğine geldiğini ileri sürdü."<br/><br/>ve final 1 şubat 2018<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/917769/Heykeltiras_Ragip_Cicen__CHP_Genel_Merkezi_onunde_kendini_yakmaya_calisti.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/917769/Heykeltiras_Ragip_Cicen__CHP_Genel_Merkezi_onunde_kendini_yakmaya_calisti.html">http://www.cumhuriyet.com.tr/…_yakmaya_calisti.html</a> linkinden;<br/>"chp genel başkanı kemal kılıçdaroğlu tarafından dolandırıldığını iddia eden heykeltıraş ragıp çiçen, partinin genel merkezi önünde kendini yakmaya çalıştı."<br/><br/>evet lan tiyatro!
+- entry_name: |
+    rtük'ün 7 kocalı hürmüz raporu
+  entry_id:  73912290
+  entry_writer: zamazingonun tam ortasi amazing
+  entry_fav_count: 31
+  entry_content: |
+    şudur: <br/><br/>"bir sahne dolusu kadın dansçı, şiddetli bir biçimde erkek arzulayan, yatsıdan sonra yağmur duasına çıkar gibi dama çıkıp, bu istekleri için allah’a dua edip yalvaran, duaların kabul edilmesi neticesinde de ‘allah baba’ya şükreden kadınları teatral bir biçimde canlandırmışlardır.<br/><br/>bu içerikte allah; erkeksizlikten hayati düzeyde etkilenmiş kız evlatların bu yoksunluğunu erkek bolluğu ile giderecek erkek bir tanrıya, lütufkar ve hoşgörülü bir babaya benzetilmektedir.<br/><br/>kuranı kerim’de, allah’ın cinsiyet, doğurma ve doğurulma gibi insana ve diğer varlıklara atfedilen özelliklerden münezzeh olduğu açıkça ve mutlak bir biçimde belirtilmektedir. allah’a ‘baba’ atfında bulunulması, yahudilik ve hıristiyanlık’ta bulunan; ancak kuran’da küfür ve şirk olarak eleştirilen bir durumdur.<br/><br/>çoğunluğun müslüman olduğu ülkemizde, kuranı kerim’deki temel inanç esası olan tevhid’e aykırı olan, ‘allah baba’ tabirinin milyonların izlediği bir yarışma programında, diğer dinlerden etkileşimle zikredilmesi ve müslümanlar açısından kutsal olan bir durumun eğlenceye vesile yapılarak hafife alınması suretiyle ihlal oluştuğu değerlendirilmiştir.<br/><br/>‘toplumun milli ve manevi değerlerine, genel ahlaka ve ailenin korunması ilkesine aykırılık’ gerekçesiyle, cezalandırılmasına oy çokluğu ile karar verildi."<br/><br/>cezaya sebep veren şarkı da <a class="b" href="/?q=7+kocal%c4%b1+h%c3%bcrm%c3%bcz+m%c3%bczikali">7 kocalı hürmüz müzikali</a>'ndeki <a class="b" href="/?q=el+hubb">el hubb</a> parçası.<br/><br/>sadık şendil bu müzikali 1980'de yazmış, bugüne kadar da böyle şeyhülislam ağızlarıyla ceza kesen olmamış. <br/><br/>bu cezayı verene bir, bu cezayı vereni o koltuğa oturtana iki... akzibidiler sizi...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/seyhulislam-degil-rtuk-sarkida-gecen-allah-baba-sozu-nedeniyle-tv8e-ceza/" title="http://www.diken.com.tr/seyhulislam-degil-rtuk-sarkida-gecen-allah-baba-sozu-nedeniyle-tv8e-ceza/">kaynak</a>
 - entry_name: |
     moral bozuk olunca kaçılan yer
   entry_id:  73907201
   entry_writer: eaky3
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     uyuyalım insan uyudu mu her şeyi unutur. <br/><a class="b" href="/?q=%c5%9feker+portakal%c4%b1">şeker portakalı</a>
+- entry_name: |
+    türkiye'de istanbul dışında hayat olmaması
+  entry_id:  73908043
+  entry_writer: horacegoesskiing
+  entry_fav_count: 25
+  entry_content: |
+    hayatın sahte tavırlar, alışveriş merkezleri, trafik ve anksiyete gibi şeylerden oluşmasından kaynaklanır.
 - entry_name: |
     papa alioune ndiaye
   entry_id:  73905748
@@ -241,13 +241,6 @@ data:
   entry_content: |
     süslü olmak istiyorum anne, beni herkes beğensin istiyorum.<br/>uçak kenarında, bir yat kabininde, bir lüks araba içinde fotografım olsun istiyorum,<br/>çünkü herkes böyle seyler yaşıyor, bende yaşasam olmaz mı?<br/>o çocuk beni sevdiğini söyledi anne,<br/>bende onu seviyorum<br/>onu sevdiğim için o eve gitmem gerekiyormuş, sevgililer evde buluşmalı anne...<br/>ben bir genç kızım...<br/>anne<br/>anne<br/>beni duymuyor musun?<br/>kukum acıyor, her yanım ağrıyor. <br/>o çocuk beni seviyordu anne<br/>bana kola verdi - kapağıni yanimda açtı.<br/>anne canım yaniyor<br/>benden utanıyor musunuz?<br/>sence ben ölmeli miyim?<br/>bana yardım edemezsin ama anne...<br/>anne beni seviyor musun? <br/>ben çok karayım artık...<br/><br/>genç bir kadın olarak her geçen gün ölmeyi istiyorum bu ülkede. yahut silahlı bir örgüt kurup tek tek bu pislikleri öldürüp cezam neyse çekeceğim. bu iş eğitimle, dernekle, afişle, sempozyumla filan çözülmez.
 - entry_name: |
-    chp önünde kendini yakmak isteyen heykeltraş
-  entry_id:  73921273
-  entry_writer: excaliboor
-  entry_fav_count: 23
-  entry_content: |
-    klasik ve rutin chp refleksi ile tiyatro olduğu öne sürülmüş ama bu eylem geliyorum demiş resmen.<br/><br/>12 eylül 2015 <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazetemizmir.com/ragip-cicen-soruyor-27-milyon-nerede/11273/" title="http://www.gazetemizmir.com/ragip-cicen-soruyor-27-milyon-nerede/11273/">http://www.gazetemizmir.com/…7-milyon-nerede/11273/</a> linkinden;<br/>" projeye başlamadan önce kendisine iller bankası'ndan kredi çekileceği sözünün verildiğini ancak öyle olmadığını söyleyen heykeltıraş çiçen, "kavga dövüşten sonra projeyi yapmam için yalvardılar. öyle kabul ettirdiler. işe başladığımın 3. ayında bir başkan yardımcısı 'proje için ayrılan parayı çoktan bitirdiler' dedi. karşılıklı taahhütlerimiz vardı. sözler tutulmadı. zemin etüdü, altyapı onlara aitti. 60 gün zemin etüdü yapmadılar. kendim yaptırmak zorunda kaldım. sonradan bana yüz binlerce lira gecikme cezası kestiler" diye konuştu. eski belediye başkanı sıtkı kürüm'ün kendisinden sözleşmeyi iptal etme tehdidiyle 1.5 milyon lira borç aldığı iddiasına ilişkin de konuşan çiçen, "beni sıtkı kürüm ile bu olaydan 1.5 sene önce torbalı'da şantiyede çalışırken bedri serter tanıştırmıştı. 500 bin liralık ilk taksidi almaya oğlunun arabasıyla bedri serter geldi. sonradan diğer iki taksidi de kürüm'e makamında teslim ettik. kürüm parayı aldıktan sonra bana şantiyedeyken 'sen o parayı unut' dedi. sıkıntıdan 2 kez kalp krizi geçirdim. kürüm, 'bu paranın tamamını meclis üyelerine ve encümene dağıttım. bir kuruşu boğazımdan geçmedi. bunun üzerine su içeceksin' dedi. nasreddin hoca kafasını takamamamın sebebi budur" açıklamasını yaptı."<br/><br/>21 mayıs 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.medyagundem.com/kilicdarogluna-o-protestonun-altindan-chpli-belediyedeki-rusvet-rezaleti-cikti/" title="http://www.medyagundem.com/kilicdarogluna-o-protestonun-altindan-chpli-belediyedeki-rusvet-rezaleti-cikti/">http://www.medyagundem.com/…-rusvet-rezaleti-cikti/</a> linkinden;<br/>"chp genel başkanı kemal kılıçdaroğlu’na antalya havalimanında “benim hayatımı mahvettiniz” diye tepki gösteren heykeltraş ragıp çiçen, izmir’in karabağlar belediyesine 1,5 milyon lira rüşvet verdiğini öne sürdü.<br/><br/>çiçen, ofisinde düzenlediği basın toplantısında, karabağlar ilçesinde 250 hektarlık alanda sanatsal yapılar ve tematik oyun alanları yapmak için 3 sene önce sözleşme imzaladığını söyledi.<br/><br/>zamanın belediye başkanı sıtkı kürüm’ün “iller bankasında kredimiz sadece 14 milyon lira. şu anda böyle bir projeyi yapma imkanımız yok. bunun bir bölümünü şimdi gösterelim. söz veriyorum 2014’ün 1 ocak tarihinde ek bir ihale ile gerisini halledeceğiz.” şeklinde söz vermesi üzerine 25 milyon lira bedelli iş için 11,5 milyon liraya sözleşmeyi imzaladığını öne süren çiçen, belediye başkan yardımcısının kendisinden ‘başkan senden 1,5 milyon lira borç istiyor’ diyerek rüşvet talep ettiğini savundu.<br/><br/>çiçen, “(vermeyeceğim) demem üzerine yapımına başlanan rekreasyon alanı projesinin iptalinin söz konusu olacağını ve yatırdığım paranın yanacağını söylediler. mecburen üç taksit halinde 1,5 milyon liralık rüşvet verdim.” iddiasında bulundu"<br/><br/>6 aralık 2016<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/antalya-kilicdaroglu-na-hakaret-davasi-9033338-haberi/" title="https://www.haberler.com/antalya-kilicdaroglu-na-hakaret-davasi-9033338-haberi/">https://www.haberler.com/…et-davasi-9033338-haberi/</a> linkinden; <br/>"açılan kamu davasının görülmesine antalya 23'üncü asliye ceza mahkemesi'nde başlandı. davanın ilk duruşmasında 2 yıla kadar hapis istemiyle yargılanan tutuksuz sanık ragıp çiçen hazır bulundu. kılıçdaroğlu'nun avukatı ise mazeret bildirdiği için duruşmaya gelmedi.<br/><br/>mahkemede verdiği ifadesinde suçlamaları kabul etmeyen ragıp çiçen, 'ben kemal kılıçdaroğlu'nun baştan sona sahte ve kurmaca bir insan olduğunu düşünüyorum. hakaretse, bunu da ekleyin. sahte ve kurmaca bir insan olduğunu da ispat edebilirim. buna ilişkin delillerimi de sunacağım" dedi. söydedikleri ve yazdıklarının arkasında olduğunu belirten çiçen, eleştiri hakkını kullandığını söyledi. kendisine ceza verilmesi halinde bununla ilgili hükmün açıklanmasının geri bırakılmasını da istemediğini söyleyen çiçen, 'çünkü ben suç işlemedim" dedi.<br/><br/>kılıçdaroğlu'nu canlı yayına davet etti<br/>mahkemeye 7 sayfalık savunma dilekçesi ile 13 mart 2015 tarihli kemal kılıçdaroğlu'na noterden gönderdiği ihtarnamenin bir suretini de veren çiçen, yaşadığı mağduriyet nedeniyle herşeyini kaybettiğini iddia etti.<br/><br/>12 mayıs 2017 <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/kilicdarogluna-hakaret-eden-heykeltirasa-12-bin-lira-ceza-40455580" title="http://www.hurriyet.com.tr/kilicdarogluna-hakaret-eden-heykeltirasa-12-bin-lira-ceza-40455580">http://www.hurriyet.com.tr/…-bin-lira-ceza-40455580</a> linkinden; <br/>"chp genel başkanı kemal kılıçdaroğlu'na geçen yıl mayıs ayında antalya havalimanı'nda hakaret ettiği iddiasıyla yargılanan heykeltıraş ragıp çiçen, 12 bin lira adli para cezasına mahkum edildi."<br/><br/>3 ocak 2018<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.star.com.tr/guncel/heykeltiras-ragip-cicen-kilicdaroglu-yuzunden-atolyem-batti-intiharin-esigine-geldim-haber-1293319/" title="http://www.star.com.tr/guncel/heykeltiras-ragip-cicen-kilicdaroglu-yuzunden-atolyem-batti-intiharin-esigine-geldim-haber-1293319/">http://www.star.com.tr/…igine-geldim-haber-1293319/</a> linkinden;<br/>"heykeltıraş ragıp çiçen: kılıçdaroğlu yüzünden atölyem battı, intiharın eşiğine geldim<br/>antalya’da yaşayan heykeltıraş, chp lideri kemal kılıçdaroğlu yüzünden 250 kişinin çalıştığı atölyesinin battığını, bütün mal varlığını kaybettiğini ve intiharın eşiğine geldiğini ileri sürdü."<br/><br/>ve final 1 şubat 2018<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/917769/Heykeltiras_Ragip_Cicen__CHP_Genel_Merkezi_onunde_kendini_yakmaya_calisti.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/917769/Heykeltiras_Ragip_Cicen__CHP_Genel_Merkezi_onunde_kendini_yakmaya_calisti.html">http://www.cumhuriyet.com.tr/…_yakmaya_calisti.html</a> linkinden;<br/>"chp genel başkanı kemal kılıçdaroğlu tarafından dolandırıldığını iddia eden heykeltıraş ragıp çiçen, partinin genel merkezi önünde kendini yakmaya çalıştı."<br/><br/>evet lan tiyatro!
-- entry_name: |
     aykut kocaman
   entry_id:  73905431
   entry_writer: sehvani
@@ -255,24 +248,17 @@ data:
   entry_content: |
     temel bir gün yanlışlıkla otobanda ters yola girer. bakar ki herkes üstüne üstüne gelmekte. o sırada da radyoda bir aracın otobanda ters yöne girdiği anonsu geçilir. temel de şöyle der ; "ne bir aracı, bunların hepsi ters yöne gidiyor."<br/><br/>burası aykut kocaman başlığıydı değil mi?<br/><br/>pardon...
 - entry_name: |
-    6 yıllık ilişkinin tus için bitmesi
-  entry_id:  73904585
-  entry_writer: tekila sisesindeki balik
-  entry_fav_count: 18
-  entry_content: |
-    unutmak zor denmiş lakin öyle bir unutulur ki, unutmak yeniden anlam kazanır... <br/><br/>hem de nasıl unutulur, öyle böyle unutulmaz. olayın başrolü bile şaşırır nasıl unuttuğuna. bir unutmak ki, saç tellerine kadar, parmak uçlarına kadar... <br/><br/>sıcak sıcak, fırından yeni çıkmış gibi bir unutmak. mis kokan, papatya gibi bir unutmak. adamakıllı unutmak. sorulduğunda afallayıp "kim?" diye sorabilecek kadar unutmak. spordan sonra duş alıp başını yastığa koyarken uykuya dalmak gibi unutmak. <br/><br/>sapına kadar unutmak ulan! <br/><br/>unutacaksın, hem de ne unutacaksın. <br/><br/>hem ne demiş şair<sup class="ab"><a title="(bkz: nazım hikmet ran)" href="/?q=naz%c4%b1m+hikmet+ran" data-query="nazım hikmet ran">*</a></sup>, "en fazla bir yıl sürer yirminci asırlarda ölüm acısı". bizse 21. yy'dayız ve bu sadece bir terk ediliş... <br/><br/>rahat ol.
-- entry_name: |
     adnan oktar
   entry_id:  73912883
   entry_writer: aziraphale
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     diyanet işleri başkanını kapak manyağı yapan adam.<br/><br/>yaptığı açıklamada "kerhanelerden, şans oyunlarından, kumardan, içki fabrikalarından alınan vergilerle maaşlarınız ödeniyor. bir kere bunlar hakkında açıklama yaptınız mı, bunlara sesinizi çıkarttınız mı?" demiş ve <a class="b" href="/?q=saks%c4%b1ya+fesle%c4%9fen+gibi+oturtmu%c5%9ftur">saksıya fesleğen gibi oturtmuştur</a>
 - entry_name: |
     cep telefonu rehberinde kayıtlı fantastik isimler
   entry_id:  73917831
   entry_writer: sozlugumerakedenadam
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     taksici dayının telefonu çalar, arayan<br/>haysiyetsiz şerefsiz 1'dir.<br/><br/>(bkz: <a class="b" href="/?q=adana%27da+s%c4%b1radan+bir+g%c3%bcn">adana'da sıradan bir gün</a>)
 - entry_name: |
@@ -304,19 +290,19 @@ data:
   entry_content: |
     kendime bile itiraf etmediğim şeyi az önce aldığım bir haberle kabullendim.<br/><br/>kısa zaman öncesine dek çocuğum olmamasını "seçtiğimi" sanıyordum. böyle bir isteğim olmadığını sanıyordum. ama ben çocuğum olsun istiyormuşum.<br/><br/>çalıştığım odada an itibariyle iki hamile var. biri az önce öğrendi. <br/><br/>bir kadın olarak dürtüsel şekilde bir süredir bu isteği duyuyordum. <br/>bu, zaman içerisinde kadının içine yerleşen bir şey sanırım. dürtüsel bir şey, belki gelişimsel, evrimsel. <br/>bilmiyorum ama bir yaştan sonra böyle bir hissiyatı oluyor kadın cinsinin. ben de doğurmalıydım hissine kapılıyor. <br/>ama ben bunu kabullenmiyordum. herkes anne olmak zorunda değil, ben olmamayı seçtim diyordum. kendim istemedim diyordum.<br/><br/>bu böyle değilmiş. şartlar elvermediği için anne olmamışım ben. olmak istiyormuşum da olamamışım. <br/><br/>şimdi bu gerçekten biyolojik mi, sosyolojik mi bilmiyorum. yani, gerçekten bu duygu kadının içine dürtüsel olarak mı yerleşiyor yoksa toplum mu bize bunu kodluyor da belli bir yaştan sonra anne olmamız gerektiğini düşünüyor da olmayınca mutsuz oluyoruz?<br/><br/>kıskandım ben bu kadınları. kötü niyetli değilim. neden onlar hamile, neden onları çocukları oluyor da benim olmuyor değil.<br/>neden benim de olmuyor hissi bu.<br/><br/>bir de mesela bir saattir çocuk hissinin bambaşka bir şey olduğunu, dünyada hiçbir şeye benzemediğini, her kadının bunu mutlaka(!) deneyimlemesi gerektiğini konuşuyorlar.<br/>ben çok üzülüyorum, farkında değiller.<br/>olmak zorunda da değiller, anneler ve anne adayları hayatlarını anne olamayacak olanlara göre yaşamak zorunda değil tabi ki. ama yine de insan üzülüyor. <br/><br/>evet ben de anne olmak isterdim. gebelik nasıl bir his mesela? bir canlının içinde büyüdüğünü hissetmek. sonra hayatın boyunca o içindeki canlının gelişimini ve koca bir insana dönüştüğünü gözlemlemek.<br/><br/>birini kıskandığını itiraf etmek zordur. ama bunu hissettim. kötü düşünceli bir insan değilim. çocuğu olsun isteyen ve bunu gerçekten layığıyla yerine getirebilecek insanların da hepsinin bunu deneyimlemesini temenni ederim.<br/><br/>ama sanırım ben hayatım boyunca keşke benim de evladım olsaydı diyeceğim.
 - entry_name: |
-    barış manço'nun öldüğü gün yapılanlar
-  entry_id:  73912400
-  entry_writer: kapi orda serefsiz
-  entry_fav_count: 6
-  entry_content: |
-    dedemin evinde kalmıştık o gece. salonda yeryatağında uyuyordum. dedem her zamanki gibi sabah çayını içerken trt 1'i açmıştı. gözümü açtığımda kırmızı fon üzeri beyaz yazıyla son dakika altyazısı geçmekteydi. yüzümü yıkayıp döndüğümde altyazıyı okudum. inanamadım. bir daha okudum. dedeme baktım. "dede barış manço mu ölmüş?" dedim. "evet ölmüş" dedi. dedeme sarılarak ağlamaya başladım. o yıl dedemi de barış abimin yanına uğurladım.
-- entry_name: |
     hacamatcılar derneklerinin doktor protestosu
-  entry_id:  73921366
-  entry_writer: redhexx
+  entry_id:  73921167
+  entry_writer: zarat
+  entry_fav_count: 5
+  entry_content: |
+    ülkenin çivisi çıkmış işte gericilik tam da budur aşağıdaki cibilliyetsizler tabib odasını protesto ediyorlar hacamatcılar çıktı ülkeye bak be <br/><br/>degerli haccam ve haccame arkadaşlar,<br/>türkiye tabibler odası ve istanbul tabib odası , ülke güvenligi ve sınır güvenligini saglamak amacıyla başlatılan, zeytin dalı harekatı’nı bahane ederek, sayın cumhurbaşkanımız r.tayyip erdogan'a karşı karalama kampanyası başlatmışlardır… <br/>bu vesileyle , cumhurbaşkanımızın yanında oldugumuzu, ülke güvenligi için başlatılan bu savunma harekatını destelemek ve tabibler odasını kınamak adına, eminönü'ndeki tabibler odasının önünde toplanarak, basın açıklaması yapılacaktır. tüm haccam ve haccamelere duyrulur.<br/>nuruosmaniye camii nde kılınacak olan cuma namazından sonra <br/>adres ve saati saat;14:30 türkocağı cad.no:9 cağaloğlu<br/>türkiye hacamatcılar federasyonu<br/>istanbul hacamatcılar federasyonu<br/>anadolu hacamatcılar federasyonu<br/>haccameler dayanışma dernegi<br/>bursa saglıklı yaşam dernegi<br/>mersin merhaba dernegi<br/>yozgat saglıklı yaşam dernegi<br/>türkiye hacamat ve sülük tamamlayıcı tıp derneği, <br/>kastamonu sağlıklı yaşam derneği, <br/>karabük cevizkent toki hacamat sülük akupunktur derneği, <br/>zonguldak hacamat alternatif tıp derneği, <br/>istanbul sağlıklı yaşam ve bilgi derneği, <br/>safranbolu hacamat alternatif tıp ve sağlıklı yaşam derneği<br/>tıbbi nebevi araştırma ve yaşatma derneği maltepe sağlıklı yaşam derneği <br/>tarabya sağlıklı yaşam derneği <br/>pendik sağlıklı yaşam derneği <br/>kadıköy alternatif sağlıklı yaşam derneği
+- entry_name: |
+    spor ayakkabıların aşırı pahalı olması
+  entry_id:  73911094
+  entry_writer: drjb
   entry_fav_count: 4
   entry_content: |
-    (bkz: <a class="b" href="/?q=ayaklar+ba%c5%9f%2c+ba%c5%9flar+ayak+oldu">ayaklar baş, başlar ayak oldu</a>)<br/>(bkz: <a class="b" href="/?q=gg">gg</a>)
+    arkadaşıma spor ayakkabı bakmaya gittik, bir model deniyor beğeniyor ama bizimle ilgilenen çalışan fiyatına 300 lira diyor, ben ise gereksiz pahalı olduğunu ve başka ayakkabı bakmasını söylüyorum arkadaşa, başka deniyor ama fiyatı 290,bir başkası 320 derken böyle üç dört ayakkabı geçiyor arkadaşın elinden.<br/><br/>sonra mağaza çalışanının ağzından o muhteşem cümle dökülüyor : '' ama ayakkabı alıyorsunuz sonuçta, kaç para olmasını bekliyorsunuz ki''<br/><br/>bense içimden tıpkı ozan güven edasıyla bir ''ulan dalyarak '' çekiyorum. sen burda asgari ücretle çalışan adamsın, üç çift ayakkabı senin maaşın ediyor ve bu sana çok normal geliyor amk.<br/><br/>yanlış anlaşılmasın adamın gelirini ya da işini eziklediğim yok, ki ben zaten işsizim.<br/><br/>o yüzden durumu olan olmayan da 300 liraya ayakkabı alır, 5000'e telefon da alır. allah akıl fikir versin.
 - entry_name: |
     evde bira yapımı
   entry_id:  73915761
@@ -325,6 +311,20 @@ data:
   entry_content: |
     hayır benim anlamadığım şey şu; görüyorsunuz işte evde bira yapma furyası aldı başını gidiyor. salak herifler üretin siz de bir kit. yazın üzerine "tadı efes'e, tuborg gold'a benzeyen kit" diye. bak gör noluyor ortalık. sonra gelsin paralar. tarihlerinin en büyük kazançlarını elde etmezlerse ben birşey bilmiyorum. üstelik kitlerden vergi alınmadığı için asıl kendileri vergi vermeyecek. olay bu kadar basit.<br/><br/>hem ortalık bu soruyu soran salaklardan da temizlenmiş olur.
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  73918848
+  entry_writer: darkwizard
+  entry_fav_count: 2
+  entry_content: |
+    dertleri aile bile anlamıyorken, buradaki tanımadık şahıslar mı anlayacak, kaldı ki tedavisi olmayan şeylere nasıl derman olacaklar diyerek yeni bir önermeyle yerle bir ettiğim saçma salak veritabanı.
+- entry_name: |
+    fatma avlar
+  entry_id:  73906551
+  entry_writer: denragi
+  entry_fav_count: 1
+  entry_content: |
+    terör olmasa daha çok yaşayacaktı. hayallerini, umutlarını, sevgisini yarım bıraktınız. o çok sevdiğiniz, sevdiğinizi dile getirmeseniz bile, bu gerçekleştirmiş oldukları vahşeti görmezden geldiğiniz terör örgütü yüzünden hayata gencecik yaşında veda etmiştir.
+- entry_name: |
     ankara'da güzel döner yenebilecek yerler
   entry_id:  73909055
   entry_writer: sardonic grin
@@ -332,24 +332,24 @@ data:
   entry_content: |
     güvenlik cd. mutlu lokantası bir numaradır.
 - entry_name: |
+    la casa de papel
+  entry_id:  73913885
+  entry_writer: button nose
+  entry_fav_count: 0
+  entry_content: |
+    daha izlediğin bölüm bitmeden, bir sonraki bölümü merak etmeye başlıyorsun. uzun zamandır beni bu kadar merak içerisinde bırakan bir dizi izlememiştim, iyi oldu.<br/>karakterleri ve oyunculukları da sevdim. bir tek arturo diye kıl bir karakter var, zaten gıcık olunsun diye yaratılmış, anlıyorum tabii ki. ama umarım ölür 2.sezonda çünkü görmeye bile dayanamıyorum.
+- entry_name: |
     1 şubat 2018 ankara'da patlama
-  entry_id:  73922239
-  entry_writer: waytofall
-  entry_fav_count: 1
-  entry_content: |
-    az önce ayrancıdan duyup içimden birşeylerin koptuğu ses. allahım ne olur aklımıza gelen şeyler olmuş olmasın...<br/>biz unutmaya başlamıştık...yine başlamasın ne olur allahım...
-- entry_name: |
-    ölümlü dünya ekibi olarak sorularınızı bekliyoruz
-  entry_id:  73906478
-  entry_writer: totkymotky
+  entry_id:  73922142
+  entry_writer: sainteagle
   entry_fav_count: 0
   entry_content: |
-    tüh yaa kaçırdım! feyyaz yiğit’e neden oyun oynayış videolarının devamını getirmediğini ve eski oyun oynayışları kanalından silerken vicdanının sızlayıp sızlamadığını soracaktım<br/><br/>e: kilo yakışmış ponçiğe
+    cukurambar vergi dairesinin kazan dairesinde patlama olmus.<br/><br/>tunali civarinda buyuk bir patlama sesi duyulmustu, umarim can kaybi vr yarali olmamistir.
 - entry_name: |
-    makale aranıyor duyuruları
-  entry_id:  73910538
-  entry_writer: larsvontier
+    1 aralık 2018 ankarada patlayan şey
+  entry_id:  73922529
+  entry_writer: patronaj
   entry_fav_count: 0
   entry_content: |
-    merhaba, <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sciencedirect.com/science/article/pii/0014482772904806" title="https://www.sciencedirect.com/science/article/pii/0014482772904806">https://www.sciencedirect.com/…pii/0014482772904806</a> nedense açılmıyor, makaleye ulaşamıyorum. <br/><br/>ulaşabilen olursa thelarsvontier@yahoo.com.tr adresinde sizi bekliyorum.<br/><br/>şimdiden çok teşekkürler.<br/><br/>edit: <a class="b" href="/?q=gunesin+isigi">gunesin isigi</a> sağolsun hemen buldu.
+    (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1+a%c3%a7an+mal">başlığı açan mal</a>)
 ---
