@@ -6,28 +6,28 @@ data:
     gelin saçını damada ödeten türk kızı
   entry_id:  73957575
   entry_writer: tunguska11
-  entry_fav_count: 339
+  entry_fav_count: 343
   entry_content: |
     neymiş gelenekmiş yok yaa, hiç unutmam istanbul’da üniversite arkadaşımın biri tokat’ta düğün yapıyor, biz de toplandık üniversiteden bir kaç arkadaş tokat’a gittik.<br/><br/>neyse bu kız erasmus’a giden 3 dil bilen, keman çalan entelektüel bir hatun.<br/><br/>ispanya’dan erasmus’tan arkadaşı da gelmiş, biz arkadaşlarla kuaförün dışında bekliyoruz arabalarda erkekler olarak.<br/><br/>o da ne, bizim ispanyol ağlayarak çıktı aniden<br/>sorduk ingilizce :<br/><br/>“sorun ne, niye ağlıyorsun?” falan kız bir şey demedi, somurtarak uzaklaştı , sonrasında akşam düğünde ben ispanyol’un yanına gittim:<br/>“ne oldu kuaförden neden ağlayarak çıktın?”diye sordum<br/><br/>meğer bizim kezbanuslar buna baskı yapmış saçını yap diye gelin saçı yapılırken...<br/><br/>kızın annesi, baldızı, yengesi, teyzesi, halası, anneannesi, kardeşi, arkadaşları herkes saç yaptırmış bir bu istememiş neden dedim, hepsini damat ödüyordu yük olmak istemedim evlenecek paraya ihtiyacı var diye düşündüm dedi.<br/><br/>bu öyle dediği için kızı siktiretmişler.<br/>buna gelenek gibi gören kafanıza tüküreyim ben türk kızı en iyi okulları bitiriyor, yurtdışını görüyor ama iş paraya, menfaate gelince oralı olmuyor.<br/><br/>niye gelin saçını ben veriyorum hacı, kadın erkek eşit değil mi, hadi onu verdim diyelim sülalesinin saç masrafı niye bana giriyor.<br/><br/>sonra bunlarla yarın öbür gün evlenince de bulaşık, ütü, çamaşır yapmaz hayat müşterek ben de çalışıyorum derler kesin.haklısın ben de çamaşır, bulaşık yıkayıp ütü yapmalıyım ama sen çalışıyorsan ama işine gelince gelenekçi adetçi, işine gelince ben senin annen gibi değilim deme o zaman.<br/><br/>bunlar tabi sadece bir örneği.<br/><br/>bu gözler arkadaşlarının nişanlılarında sevgililerinde pahalı tek taşı beğenmeyip değiştirenler,düğün masrafını milyarlarca ödeyip surat çekenler ve daha neler neler gördü.<br/><br/>sonra bunların evlenenleri instagrama tatil,benim bebeğim daha güzel, arabamızda kocişimle yolculuk yapıyoruz fotolarını koyarlar.<br/>vay efendim sonra neden türk kadınını eleştiriyorsunuz.<br/><br/>dikkat edin dostlar türk kadını maalesef kendini yalıda geçen türk dizisinde sanıyor ve hala bazı şeyleri analiz edemiyor ya da etmek işine gelmiyor.
-- entry_name: |
-    3.5 milyon suriyeliye kalıcı konut müjdesi
-  entry_id:  73957441
-  entry_writer: sultanahmetli
-  entry_fav_count: 315
-  entry_content: |
-    afrin operasyonu sonrası suriyelileri geri göndereceğini söyleyen ağızla aynı ağızdan çıkmış söz öbeği.<br/><br/>yalan icat ettikleri dininin direği olmıştur.
 - entry_name: |
     diyanetin sol elle şeytanlar yemek yer fetvası
   entry_id:  73959939
   entry_writer: condenser mikrofona tukuren sarkici
-  entry_fav_count: 312
+  entry_fav_count: 327
   entry_content: |
     oğlum hani melekler yemez, içmez, uyumazdı lan? <br/><br/>orta çağ’a ait bir açıklama.<br/><br/>editto: bazı uyarılar aldım, şeytan melek değil cin grubundan diye. ne farkeder? cinler yemek mi yiyor? ne yiyorlar? mesela mutfak masrafları aylık ne tutuyor? veganlar mı yoksa et balık allah ne verdiyse mi? ben şeytanın default yaradılış şekline bakarım. ne diyor: meleklerden adem’e secde etmelerini istedik, şeytan etmedi. yani şeytan da aslında bir melekti. sonradan tenzili rütbe almış olması melek olduğu gerçeğini değiştirmiyor. ne yani rütbesi düşünce mide mi monte edildi yemek yesin diye? diyanetin bu saçmalıkları garibinize gitmiyor da benim yorumum mu gitti?
+- entry_name: |
+    3.5 milyon suriyeliye kalıcı konut müjdesi
+  entry_id:  73957441
+  entry_writer: sultanahmetli
+  entry_fav_count: 319
+  entry_content: |
+    afrin operasyonu sonrası suriyelileri geri göndereceğini söyleyen ağızla aynı ağızdan çıkmış söz öbeği.<br/><br/>yalan icat ettikleri dininin direği olmıştur.
 - entry_name: |
     polisin ilgilenmediği gerekçesiyle garson dövmesi
   entry_id:  73956965
   entry_writer: koca nickli zenci
-  entry_fav_count: 278
+  entry_fav_count: 296
   entry_content: |
     görevden alınıp, mahkeme sonucunda ağır tazminatlar ödeyip bir daha devlet kurumlarında çalıştırılmaması gereken 2 kişidirler. tabi bu normal şartlarda. şimdi kokoreçcinin fetöcü olma ihtimali falan derken ceza almadan insan içine salınabilirler.<br/><br/>edit: video (<a class="b" href="/?q=hayranim">hayranim</a> adlı yazar arkadaş bulmuş sağolsun)<br/>video'yu izlemeden yorum yapmak istemedim, şimdi izledim. önce ilgili <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=uQhP2GTzC7c&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=uQhP2GTzC7c&amp;feature=youtu.be">video</a><br/><br/>açıkca görüldüğü üzere ne garsonun ne de mekan sahibinin bir kabahati bulunuyor. masaya gelen garsona dayılanan bir polis, tokat atyor. garson saygılı ses bile etmiyor. büyük ihtimal birde azar kayıyor çocuğa. hesap ödemeye gidince herkes sakinden aynı polis yanındakilerden güç alarak mekan sahibine yumruk sallıyor. mekan sahibi fark edip kaçıyor ve istese kolayca dövebileceği memuru biraz tartaklıyor. polis yanındakilerin gazına gelerek mekan sahibine tekrar saldırıyor. bir başka polis ise kavgaya karışıp garsonu dövüyor. diğer polisler mekan sahibini tutarken ilk olay çıkartan polis tekrar efelenerek, eli kolu tutulan adama dalıyor. mekan kadın ve çocuk dolu olsa da umursamadan olay çıkartıyorlar. söylenene göre tabanca çekip, insanların canını hiçe sayarak ateş de edilmiş. müşteriler canlarını kurtarmak için polislerden kaçmaya başlıyor.<br/><br/>bu anlattıklarım yaşanan olaylar, yorum yapmadım. daha önce bende buna benzer bir olay yaşadım, tüm polis teşkilatı elbet böyle değil. polisler kötü demek yanlış olur. benim başıma da bu şekil bir durum geldi, iki polis memuru o zamanlar çalıştığım dükkandan alışveriş yaparak, biz para ödemeyiz diye gittiler. aldıkları belki 10 lira tutmaz ama peşine düştüm. en son ayağımıza kadar gelip, özür dileyip. aldıklarını iade ettiler. bu süreçte bana en çok destek olan ise diğer polis memurlarıydı. karakol amirleri çok çaba sarf etti. o yüzden hala eminim ki türk polisi bunlar gibi değil.
 - entry_name: |
@@ -41,7 +41,7 @@ data:
     chp 36. olağan kurultayı
   entry_id:  73950944
   entry_writer: toplamiyorumulankozalaklari
-  entry_fav_count: 194
+  entry_fav_count: 199
   entry_content: |
     umarım muharrem ince seçilerek bu ülke adına umutlarımızı yeşertir.
 - entry_name: |
@@ -55,58 +55,51 @@ data:
     alex de souza vs gheorghe hagi
   entry_id:  73959707
   entry_writer: ne yapsa yeridir
-  entry_fav_count: 147
+  entry_fav_count: 148
   entry_content: |
     bu kıyaslamaya alex diye cevap verenlerin hepsi fenerbahçelidir. hagi diye cevap verenlerin içinde fenerbahçeliler de vardır.
-- entry_name: |
-    dünya dışında bir yaşam formunun bulunmaması
-  entry_id:  73955025
-  entry_writer: ruhlar aleminin gece bekcisi
-  entry_fav_count: 123
-  entry_content: |
-    şu an için bunu tanrı'nın varlığına kanıt olarak görenlerin, olur da bir gün dünya dışı yaşam bulunursa ''e zaten onları da allah yarattı, bak ayet var'' diyerek kıvıracaklarını şimdiden görebiliyorum.
 - entry_name: |
     muharrem ince
   entry_id:  73951624
   entry_writer: tahinli pekmez sevmeyen adam
-  entry_fav_count: 120
+  entry_fav_count: 123
   entry_content: |
     bütün avel kk. destekçileri gelsin;<br/><br/>yıl 2013 veya 2014 bütçe görüşmeleri yapılıyor tbmm'de. <br/>çıktı kk. konuşuyor arkada da tayyip ve saz arkadaşları gülüyor, sırıtıyor, ti'ye alıyorlar kk.'yı. neyse bir süre sonra muharrem ince anonsu yapıldı uzun ve saz arkadaşları tbmm' den topukları bir yerlerine vura vura kaçıp gittiler. aslında bu çok şey anlatıyor çünkü muharrem ince gibi bir adam uzun'un karizmasını epey çizer ve akdeniz toplumlarında bu agresif yapıda siyasetçiler iyi prim yapar. bu realiteyi artık öğrenmeniz gerekiyor.
+- entry_name: |
+    erkek içen sigara içki kızan sigara birlikteliği
+  entry_id:  73966351
+  entry_writer: jessejamess
+  entry_fav_count: 123
+  entry_content: |
+    zaten kafam güzel acaba bende mi sorun var diye defalarca okudum. açacağın başlığı sikeyim.
 - entry_name: |
     korku evinde titreyerek bayılan genç
   entry_id:  73960223
   entry_writer: bonghamton
-  entry_fav_count: 108
+  entry_fav_count: 110
   entry_content: |
     verdigi paranin hakkini almistir, amac korkmak degil mi zaten :)
 - entry_name: |
     3 şubat 2018 muhaliflerin rus uçağı düşürmesi
   entry_id:  73965947
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 83
+  entry_fav_count: 101
   entry_content: |
     siktigim sitesinde herkes ortadogu uzmani.<br/><br/>bak bak "ucagi oso'nun dusurmesi teknik anlamda imkansizmis" bu adama sor ortadogunun envanter kaydini da cikartir size. bak pezevenge bak.. teknik meknikte biliyor.<br/><br/>abd rusya'yi cozmus falan. ya olum siz doristoslu ellerinizle ne acaip analizler yapiyonuz ya?
-- entry_name: |
-    donanımhaber'in ekşi'ye diss atması
-  entry_id:  73965023
-  entry_writer: quattrochas
-  entry_fav_count: 74
-  entry_content: |
-    haklılar. daha dün sol frameden görüp haberdar olduğu bir kavramın profesörü kesilen tipler dolu aramızda. cacık tipler yani.
 - entry_name: |
     evlendikten sonra hayatının kadınına rastlamak
   entry_id:  73963895
   entry_writer: ooopapatya
-  entry_fav_count: 73
+  entry_fav_count: 89
   entry_content: |
     makak maymunu gibi baygın gözlerle sürekli arayış halinde gezerse hayatının adamına bile rastlayabileceğinden pek de zor olmayandır.
 - entry_name: |
-    erkek içen sigara içki kızan sigara birlikteliği
-  entry_id:  73966351
-  entry_writer: jessejamess
-  entry_fav_count: 66
+    donanımhaber'in ekşi'ye diss atması
+  entry_id:  73965023
+  entry_writer: quattrochas
+  entry_fav_count: 84
   entry_content: |
-    zaten kafam güzel acaba bende mi sorun var diye defalarca okudum. açacağın başlığı sikeyim.
+    haklılar. daha dün sol frameden görüp haberdar olduğu bir kavramın profesörü kesilen tipler dolu aramızda. cacık tipler yani.
 - entry_name: |
     öğretmene en az 5250 tl maaş ve bir maaş ikramiye
   entry_id:  73958865
@@ -118,23 +111,16 @@ data:
     kemal kılıçdaroğlu
   entry_id:  73952996
   entry_writer: shot bardagi
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     bu atanamamış devlet bahçeli, her seferinde rte'yi canlı yayında tartışmaya çağırıyordu.<br/><br/>ama kendisi uğur dündar'ın davetine rağmen diğer chp genel başkan adayları ile canlı yayına çıkmadı...<br/><br/>ee demezler mi adama bu ne perhiz bu ne lahana?<br/><br/>demezler amk mal mısın burası türkiye.
 - entry_name: |
     ingiliz aksanını sevdiren insanlar
   entry_id:  73952584
   entry_writer: zencirella
-  entry_fav_count: 50
+  entry_fav_count: 51
   entry_content: |
     (bkz: <a class="b" href="/?q=benedict+cumberbatch">benedict cumberbatch</a>) <br/>(bkz: <a class="b" href="/?q=sherlock">sherlock</a>)
-- entry_name: |
-    anıtkabir 12 yılda bitti saray'ı 2 yılda bitirdik
-  entry_id:  73953551
-  entry_writer: narcissist
-  entry_fav_count: 50
-  entry_content: |
-    mesela 1500 lü yıllara dönüp baktığımızda mimar sinan denen çapsızın bir camiyi anca 6-7 yılda bitirdiğini görüyoruz.
 - entry_name: |
     counter-strike global offensive
   entry_id:  73960710
@@ -143,33 +129,33 @@ data:
   entry_content: |
     insanlar pkk'lı olabilir, ateist olabilir, deist olabilir, müslüman olabilir, türk olabilir, kürt olabilir. counter strike global offensive bir oyundur en nihayetinde, insanlar oyun oynamak için girip oyun oynarlar. oyuna girerken bir nick alırsın ve onunla birlikte oynarsın.<br/><br/>bu orospu çocuğunu şikayet edin, pkk'lı..<br/><br/>bu nasıl bir kafadır yarabbim? adam napmış cs go'da türk askerlerini mi şehit etmiş? <br/><br/>senin ben başlıkta flood yapan beynini sikeyim ya. illa küfür ettiriyorsunuz adama, gir oyununu oyna siktir git sonra.<br/><br/>napalım bimer'e falan da yazalım mı?
 - entry_name: |
-    3 şubat 2018 muharrem ince'nin chp başkanı olması
-  entry_id:  73961604
-  entry_writer: 5 8 10 11 23 30 neighbours by five
-  entry_fav_count: 42
-  entry_content: |
-    1260 tane fosil delege ile zor be azizim.
-- entry_name: |
     bekaretin beyinde olduğunu zanneden çağdaş kadın
   entry_id:  73965018
   entry_writer: cisar
-  entry_fav_count: 36
+  entry_fav_count: 46
   entry_content: |
     mağazada denenmemiş ayakkabı var mı diye sorduğun tezgahtarın çıkardığı ayakkabıları aslında başkasının çoktan denediği; ama tekrar kartonunda saklandığı için senin öyle düşünmenin sağlanması.. sonuçta adam yeni çıkardı, gıcır gıcır duruyor, kim giymiş olabilir ki bunu.. hatta bağcıklarına bile dokunulmamıştır, baksana nasıl da parlıyor. neyse öpüyorum badem gözlerinden.
+- entry_name: |
+    3 şubat 2018 muharrem ince'nin chp başkanı olması
+  entry_id:  73961604
+  entry_writer: 5 8 10 11 23 30 neighbours by five
+  entry_fav_count: 43
+  entry_content: |
+    1260 tane fosil delege ile zor be azizim.
+- entry_name: |
+    amasya'da kısa dönem askerlik yapacak olan şehzade
+  entry_id:  73966730
+  entry_writer: rete mirabile
+  entry_fav_count: 38
+  entry_content: |
+    beyler arkadaşı tezkereye yakın boğduralım.
 - entry_name: |
     ölen kişiden geriye kalan en hüzün verici nesne
   entry_id:  73950608
   entry_writer: voluntas
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     günlük.<br/><br/>(<a class="b" href="/entry/61614934">#61614934</a>) burada bahsettiğim eniştem, ceketinin iç cebine sığacak büyüklükte defter taşırdı hep üzerinde. gençlik yıllarından beri onlarca defteri birikmişti. her günü uzun uzun anlatmazdı ama, o güne ait önemli bir olay olduysa, hem kendi özel yaşamı hem ülke genelini ilgilendiren, mutlaka not alırdı. gittiği tarihi yapılar, turistik yerler hakkında da notlar alırdı defterine ve oradan bahsedeceği zaman açar bilgi verirdi tarihçesiyle ilgili. <br/><br/>hayattayken kimse açıp okumadı onları. gizli saklı değildi, kitaplığında açıkta dururdu ama ben bile açıp bakmamıştım hiç. ölümünün ardından, kitaplığındaki defterleri karıştırmaya başladı çocukları. hepimiz bir masanın etrafında, küçük küçük defterlere bakıyorduk. hem hüzün hem heyecan hem de biraz utanç hissediyordum onun şahsi notlarını okuduğumuz için. <br/><br/>teyzemle nişanlandığı tarihi not etmiş; sevgili filanca hanımla nişanlandık, saadetim sonsuz. evleneceği gün yazmış; rahmetli kız kardeşim de görebilseydi beni takım elbise içinde. istanbul erkek lisesi’nde okurken yazmış; istanbul’a aşık oldum, okula gitmek yerine sokakları arşınlamak istiyorum. büyük kuzenim yürümeye başladığında, teyzem çocuk aldırdığında(hiçbirimiz bilmiyorduk bunu), emekli olduğunda, işçi bayramlarında taksim’de, ben üniversiteyi kazandığımda, bana kitaplarını verdiğinde... her şeyi, bizim bile unuttuğumuz her şeyi not etmiş.<br/><br/>o zaman ölüm düşüncesi beni girdabına almıştı. en sevdiğin defterin, dolma kalemin arkanda kalıyor ve yazdığın her gerçeklik bir masal gibi, hayal gibi duruyor öylece, boynu bükük. anıların sahibi olmadıkça, onların yaşanmış olduğu gerçeği bile anlamsız oluyor. <br/><br/>insan ölüyor ve onun bu hayattan geçtiğine dair tek kanıt arkasında kalanların ömrü kadar oluyor. adı anıldığı, fotoğraflarda güldüğü, yazdığı çizdiği kadar yok oluyor. yok olabilmek için bile insan insana muhtaç oluyor. <br/><br/>ne bileyim, hala içim ürperir el yazısının arkada kalması; deftersiz, hazırlıksız bir yolculuğa çıkmasını hatırladıkça. <br/><br/>ölümün değil ama öldükten sonra “ben de vardım” “ben de o havayı soludum, ben de yürüdüm yollar boyunca” diyebilmenin, bu hayata imza bırakabilmenin tek yolunun kişinin kendisi değil diğer insanlara bağlı olduğunu anladım. <br/><br/>okunabilecek bir yazı, yüzleri güldürecek bir anı, arkasına tarih atılmış bir fotoğraf, gölgesinde dinlenilecek bir ağaç, yürünecek bir yol, dolaptaki yün kaşkol ve niceleri, bunları emanet edecek, kıymet bilecek insanlarla bir anlam kazanıyor. <br/>insan ne kadar çok yoldaş edinir, ne kadar özne eklerse cümlelerine, ne kadar kahkaha biriktirirse gözlerinin etrafında o kadar şahit bırakıyor arkasında. kimse kimseye dokunmuyor, kimse kimseyi hissetmiyorsa, orada hep ölüm oluyor, giden gittiğiyle kalıyor.<br/><br/>biteceği kesin bir yolculukta bırakılacak en güzel ayak izinin el yazısı olduğunu öğrendim eniştemden. varışı ötelemenin tek yolunun izini takip edenler, cümlelerine virgül koyanlarla gerçekleştiğini gördüm. <br/><br/>dün doğum günüydü ve ona ulaşabilmemin tek yolu cümlelerden merdiven uzatmaktı gökyüzüne. buraları okuyorsan, gittin gideli çok şey değişti enişte ama bir tek sana olan sevgim değişmedi. inanır mısın neler soğudu içimde, neler buz tuttu, keşke burada kalsaydın ömrümce. <br/><br/>senin bıraktığın yerden ben devam ediyorum günlüklere; dün doğum günündü ve hasretle kutladık hep birlikte.
-- entry_name: |
-    serdar ali çelikler
-  entry_id:  73960834
-  entry_writer: canka
-  entry_fav_count: 28
-  entry_content: |
-    1-) aykut istifa sinyalleri verdiginde "etmeyecek, birkac güne doner." demisti. <br/>2-) fatih terim gs'ye gelecek mi, avrupa'dan da teklifler var iddialarina "teklif meklif yok dandik pr calismasi, gs tek secenegi." demisti. <br/>3-) bundan 1-2 ay kadar once ali koc icin "3 temmuz'da neredeydin muhabbetleri baslayabilir ali bey dikkatli olsun." demisti. (son kongre tartismalarindan sonra da basina daha neler gelecek dedi)<br/>4-) dursun herkes tarafindan favori gösterilirken "mustafa bey mayıs'ta secim olacak diyerek büyük hamle yapti." deyip ufukta bir seyler sezmisti. (tabii yine dursun kazanamaz demiyordu.)<br/>5-) n'diaye haberleri daha medyada yokken 'ndiaye gidiyo diyorlar?' diyerek fitili cakmisti. <br/><br/>aklima gelmeyen birkac dogru tespiti daha var geldikce editlerim.<br/><br/>medya-okur yazarligi ve futbolun sektörel, yonetimsel kasarliklarinin uzmani olmus bir medyacidir.
 - entry_name: |
     kendisinden hoşlanıldığını anlamayan erkek
   entry_id:  73952819
@@ -192,6 +178,13 @@ data:
   entry_content: |
     haftalarca bununla ilgili bulduğum her şeyi okudum. analizlerin çoğu ezbere, öngörülerin hepsi tırttı. yalnız biri şöyle yazmıştı: "yatırım araçlarına kimse bakmazken gireceksin, herkes girerken çıkacaksın."
 - entry_name: |
+    neden köpekleri severken inekleri yeriz
+  entry_id:  73950784
+  entry_writer: sultan of rum
+  entry_fav_count: 24
+  entry_content: |
+    dalga geçmek veya gereksiz duyar kasmak isteyenleri kenara bırakırsak, cevabı eski insanların tercihlerinde saklıdır.<br/><br/>genellikle yerleşik hayata geçiş ile bitki/hayvanların evcilleştirilmesi birbirini takip eder. insanlar 'ehlileştirme' olanağının farkına vardıklarında bir tercih yapmak zorundalardı. beslemek için ideal hayvanlar hangileridir?<br/><br/>cevapları az çok biliyoruz. domuz, koyun, keçi, sığır, lama<sup class="ab"><a title="(bkz: amerikalarda)" href="/?q=amerikalarda" data-query="amerikalarda">*</a></sup>bunlardan başlıcaları. (tavuk vs. daha sonradır). <br/><br/>aslında bu hayvanların evcilleştirilip kullanılma nedenleri, diğer hayvanların (örneğin köpek) neden tercih edilmediğinin de yanıtıdır. bunlar kısaca,<br/><br/>-hızlı üremeleri,<br/>-bakımına oranla verdiği ürünün (et/kalori) kazançlı olması,<br/>-sakin başlı, yönlendirilebilir olmaları,<br/>-etlerinin lezzetli olması (çok büyük bir neden olmasa da)<br/><br/>olarak sıralanabilir. <br/><br/>köpekler ise başka faydalarından dolayı ehlileştirilmiş ve kullanılmışlardır. ancak deneme yanılma yoluyla etleri için yetiştirmenin verimli olmadığı binlerce yıl önce anlaşılmış ve zamanla insanlarla kurdukları bağlar bu düşünceyi tamamen ortadan kaldırmıştır.<br/><br/>zaten avcı/toplayıcılık dönemlerinde de insanlar belli başlı hayvanları avlıyorlardı (köpekler bu grupta yoktur diyebiliriz).<br/><br/>bu arada; s*ktiniz formatı eylediniz viran.<br/><br/>edit: ekleme
+- entry_name: |
     selin sayek böke'nin ypg'ye terörist diyememesi
   entry_id:  73957277
   entry_writer: mad season
@@ -199,19 +192,26 @@ data:
   entry_content: |
     işin ironik yanı ; bugün atatürk yaşasa idam ettireceği kişilerin onun partisinde siyaset yapması.emperyalistlerin intikam alma şekli sanırım.<br/><br/>not:katıldığı tüm seçimlerde chp'yi desteklemiş bir seçmen.
 - entry_name: |
-    neden köpekleri severken inekleri yeriz
-  entry_id:  73950784
-  entry_writer: sultan of rum
+    beden eğitimi öğretmenlerinin gereksiz olması
+  entry_id:  73961247
+  entry_writer: always good
   entry_fav_count: 23
   entry_content: |
-    dalga geçmek veya gereksiz duyar kasmak isteyenleri kenara bırakırsak, cevabı eski insanların tercihlerinde saklıdır.<br/><br/>genellikle yerleşik hayata geçiş ile bitki/hayvanların evcilleştirilmesi birbirini takip eder. insanlar 'ehlileştirme' olanağının farkına vardıklarında bir tercih yapmak zorundalardı. beslemek için ideal hayvanlar hangileridir?<br/><br/>cevapları az çok biliyoruz. domuz, koyun, keçi, sığır, lama<sup class="ab"><a title="(bkz: amerikalarda)" href="/?q=amerikalarda" data-query="amerikalarda">*</a></sup>bunlardan başlıcaları. (tavuk vs. daha sonradır). <br/><br/>aslında bu hayvanların evcilleştirilip kullanılma nedenleri, diğer hayvanların (örneğin köpek) neden tercih edilmediğinin de yanıtıdır. bunlar kısaca,<br/><br/>-hızlı üremeleri,<br/>-bakımına oranla verdiği ürünün (et/kalori) kazançlı olması,<br/>-sakin başlı, yönlendirilebilir olmaları,<br/>-etlerinin lezzetli olması (çok büyük bir neden olmasa da)<br/><br/>olarak sıralanabilir. <br/><br/>köpekler ise başka faydalarından dolayı ehlileştirilmiş ve kullanılmışlardır. ancak deneme yanılma yoluyla etleri için yetiştirmenin verimli olmadığı binlerce yıl önce anlaşılmış ve zamanla insanlarla kurdukları bağlar bu düşünceyi tamamen ortadan kaldırmıştır.<br/><br/>zaten avcı/toplayıcılık dönemlerinde de insanlar belli başlı hayvanları avlıyorlardı (köpekler bu grupta yoktur diyebiliriz).<br/><br/>bu arada; s*ktiniz formatı eylediniz viran.<br/><br/>edit: ekleme
+    beden eğtimi dersi komple fiyaskodur öğretmenini geç.<br/><br/>okulda kıyafet değiştirecek yer bulamazsın, 2 ders bedenin üzerine 3 ders matematik vardır, sınıfta 30-40 tane senin gibi ter kokan insanla o havayı solursun, kız öğrenciler kati suretle derse katılmaz hepsinin bir mazereti vardır, okulda düzgün top bulamazsın, file hiç olmamıştır.<br/><br/>ha elbet kabataş erkek, avusturya lisesi ya da robert kolej mezunuysanız size bir yararı illa dokunur bu öğretmenlerin.
 - entry_name: |
-    amasya'da kısa dönem askerlik yapacak olan şehzade
-  entry_id:  73966730
-  entry_writer: rete mirabile
+    ankara üniversitesi tıp fakültesi
+  entry_id:  73966072
+  entry_writer: de nada
   entry_fav_count: 23
   entry_content: |
-    beyler arkadaşı tezkereye yakın boğduralım.
+    hadi canım okulum diyorum bu kadar.<br/><br/>bayağı kötü bir jenerasyon var sözlükte. hakikaten insan şöyle şeyler yazarken az utanır. bu bilginin kime ne faydası var der. acaba gerçekten yazmalı mıyım der. falan filan. hadi ankara tıplısın ve sözlüğün bunu duymasını istiyorsun koskoca tıp fakültesi öğrencisi olarak bunun daha şık bir yolunu bulabilirsin diye tahmin ediyorum. kıro gibi kör göze parmak sokarcasına yazmak hakikaten komik.<br/><br/>entry’miz çok da boktan olmasın diye az biraz bir şey diyelim ankara tıp fakültesi çok uzun zaman ülkedeki bir numaralı genel cerrahi ekolü olmuştur.
+- entry_name: |
+    nabil dirar
+  entry_id:  73967106
+  entry_writer: unutulamayanlar
+  entry_fav_count: 22
+  entry_content: |
+    volkan demirelin de golden sonra dediği gibi.<br/><br/>"mal amınakoyayım."
 - entry_name: |
     avm'de elinde paltoyla gezen adamın arabası yoktur
   entry_id:  73950461
@@ -220,75 +220,61 @@ data:
   entry_content: |
     mesajın atıldığı <a class="b" href="/?q=twitter">twitter</a> hesabı 1 saat önce <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/ormy9R" title="https://goo.gl/ormy9R">açılmış</a>. toplamda 2 takipçisi ve 2 mesaj var. anlaşılan başlığı açan arkadaş sıkılmış ve aklınca bir oyun kurgulamış. yalnız böyle şeyler yapan hesapların hızla uçurulması gerekiyor yoksa <a class="b" href="/?q=ek%c5%9fis%c3%b6zl%c3%bck">ekşisözlük</a> bu çöp başlıklarla yakında nalları diker.
 - entry_name: |
-    beden eğitimi öğretmenlerinin gereksiz olması
-  entry_id:  73961247
-  entry_writer: always good
-  entry_fav_count: 21
-  entry_content: |
-    beden eğtimi dersi komple fiyaskodur öğretmenini geç.<br/><br/>okulda kıyafet değiştirecek yer bulamazsın, 2 ders bedenin üzerine 3 ders matematik vardır, sınıfta 30-40 tane senin gibi ter kokan insanla o havayı solursun, kız öğrenciler kati suretle derse katılmaz hepsinin bir mazereti vardır, okulda düzgün top bulamazsın, file hiç olmamıştır.<br/><br/>ha elbet kabataş erkek, avusturya lisesi ya da robert kolej mezunuysanız size bir yararı illa dokunur bu öğretmenlerin.
-- entry_name: |
     lübnan'ın dünyaya kazandırdıkları
   entry_id:  73964330
   entry_writer: gulsah spears
-  entry_fav_count: 19
+  entry_fav_count: 21
   entry_content: |
     (bkz: <a class="b" href="/?q=mia+khalifa">mia khalifa</a>)
 - entry_name: |
     fi
   entry_id:  73952002
   entry_writer: groove salad
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>koskoca zengin villasında yangın alarmının olmadığı dizidir. kız yangın çıkarınca vaay zeki, itfaiye polis falan getirecek diye düşünmüştüm. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     alvaro negredo sanchez
   entry_id:  73953665
   entry_writer: bakura
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     bir çok kişi yazmış ama yazacağım. kendi kalesine attığı golde hatalı olan kendisi değil. top içeri giriyordu zaten ve negredo son bir gayretle topu çelmek istedi, olmadı. beşiktaş’a cuk oturan bir forvet mi? değil ama ben kötü bir oyuncu olduğunu düşünmüyorum. bence beşiktaş’a şampiyonluk yolunda güzel katkıları olacak. üzerinde hissettiği baskı televizyonun karşısında beni germeye yetiyor ama çabasını görebiliyorum. en azından rvp gibi ipimle kuşağım modunda takılıp yatmaya gelmemiş. azim ve çaba her zaman sonuç verir. bekliyoruz.
 - entry_name: |
-    nabil dirar
-  entry_id:  73967106
-  entry_writer: unutulamayanlar
-  entry_fav_count: 15
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  73962576
+  entry_writer: cammasaninatinasumuksurenadam
+  entry_fav_count: 16
   entry_content: |
-    volkan demirelin de golden sonra dediği gibi.<br/><br/>"mal amınakoyayım."
+    avrupa'da nüfusta eğer katolik-protestan yada yahudi olarak kayıtlı iseniz, gelir verginizin belli bir oranı kadar din vergisi ödersiniz. ateistler ve müslümanlar o ülkeler de bu vergiden muaftır. <br/><br/>içki ve farklı yerlerden alınan yada ateistlerden alınan haram para ile papazlar ve hahamlar maaş almaz, kiliseye ve sinagoglara haram para girmez. <br/><br/>evet onlar gavurlar. bu düzenleme biz de olsa nüfusta din hanesini değiştirecek milyonlarca zengin olacaktır.
+- entry_name: |
+    3 şubat 2018 fenerbahçe gençlerbirliği maçı
+  entry_id:  73967236
+  entry_writer: alirsin iste boyle cevabini
+  entry_fav_count: 14
+  entry_content: |
+    bi dün negredo'nun kendi kalesine attığı gole bak, bi de dirar'ın bugün kendi kalesine attığı gole bak.<br/><br/>bu negredo'dan bir bok olmaz hacı.<br/><br/>not: beşiktaş.
 - entry_name: |
     kocanız sizi döverse ayaklarını öpün
   entry_id:  73956989
   entry_writer: karanliktaki kilic
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     (bkz: <a class="b" href="/entry/73956833">#73956833</a>)<br/><br/>neymiş iran aleviymiş, burada bu sözü gömenlerde aleviymiş çelişiyormuşuz, cahiliz salak nesiliz.<br/><br/>mal artığı öncelikle şiilik ile aleviliğin farklı olduğunu bilmiyor, türkiye'de ki alevilerin yaşam tarzından haberi yok, gelmiş buraya yaw siz çok re rö rö.<br/><br/>hakikaten çok salak bir nesil yetişiyor.
 - entry_name: |
-    arabayı kilitledikten sonra kapıyı kontrol etmek
-  entry_id:  73952249
-  entry_writer: marquis de nietzsche
-  entry_fav_count: 11
+    czn burak
+  entry_id:  73959554
+  entry_writer: apolitikherif
+  entry_fav_count: 12
   entry_content: |
-    babadan kalma alışkanlıktır bende...
+    9gag’e yüklü miktarda para ödeyip reklamını yaptıran kişi olsa gerek.
 - entry_name: |
-    incir çekirdeği kadar tohumdan 100m ağaç çıkması
-  entry_id:  73959308
-  entry_writer: efe25
-  entry_fav_count: 7
+    survivor 2018 all-star
+  entry_id:  73954006
+  entry_writer: bartlebysendrom
+  entry_fav_count: 5
   entry_content: |
-    incir çekirdeği kadar tohum artı 100 m'lik ağaç hacmi kadar mineral ve sudan bahse <br/>konu 100 m'lik ağaç çıkıyor.
-- entry_name: |
-    3 subat 2018 tankımızın vurulması
-  entry_id:  73964857
-  entry_writer: hapsuruktan tayyare
-  entry_fav_count: 7
-  entry_content: |
-    “erii eerii” diyen ağzına tankın namlusunu soktuklarım tarafından gerçekleştirilmiş üzücü hadise..<br/><br/>orospu çocukları sizi..<br/><br/>kahraman şehidimize allah’tan rahmet diliyorum..
-- entry_name: |
-    1 şubat 2018 efes boykotu
-  entry_id:  73950373
-  entry_writer: entelsiz dantel
-  entry_fav_count: 6
-  entry_content: |
-    bira aşkımı, ilgili entrylerimi okuyup, favlayanlar bilir ki, çok severim. <br/>öyle iradeli biri de değilim. ancak çok kızdığımda, zurnanın zırt dediği yerde, <br/>en sevdiğim, en müptela olduğum şeyi de bir defada kesip atarım. <br/><br/>bir daha anadolu grubuna ait bir çöp bile satın almayacağım. beni ve paramı asla hak etmiyorlar. tıpkı pınar'ın patronu gibi bu zihniyetin de hak ettikleri müşteri grubu aynı. fakat onlar ayran içiyor. bira değil.
+    izlemeyecegim program. nihat dogan denilen kuş beyinli salataligin oldugu programi izleyene bir, izlettirene iki. <br/>laik sistemin ahlaksizlastirdigiymis... aklima geldikçe sinirlerim bozuluyor. <br/>özgecan 'i unutan acun medya'yi affetmiyor ve boykot ediyorum.<br/>edit. imlâ.
 - entry_name: |
     penise kan gitmemesi
   entry_id:  73964899
@@ -304,6 +290,13 @@ data:
   entry_content: |
     bugün haksız yere işimden çıkartıldım. haksız olmasının sebebi de işyerinde bir ne idiğü belirsiz şerefsizin hakkımda iftira atması sonrasında yaşanan baskı-hataya zorlama gibi şeylere yenilmem. <br/><br/>bugün işten çıkartıldığımda hiç yüzümü düşürmeden herşey normalmiş gibi devam ettim, beni sevmeyen bir kişi var o da patronu dolduruşa getirdi zaten. diğerleri üzüldü ama ben hep güldüm,espriye vurdum işi. çünkü beklediğim bişeydi. herkes beni korumaya çalıştı haklı olduğumu savundu patrona ama nafile. <br/><br/>dün bu saatlerde aklımda hiç işle alakalı böyle bir durum yokken bugün işsiz kaldım ve geleceğe dair en ufak planım yok. belki de daha iyi bir şey yapacağım. bilmiyorum, ama dün bu konuda problemim yokken bugün işsiz dımdızlak kaldım. <br/><br/>bugün varım yarın yokum. keşke hiç olmasaydım. ben hayatıma yön vermek istiyorum, ama hayat bana istediği gibi yön veriyor. yaşamak istiyorum,yaşamı yakalamak istiyorum ama yok olmuyo, bu başarısızlığın sonu nereye gidecek onu da biliyorum. <br/><br/>yıprandım amına koyim yıprandım.
 - entry_name: |
+    doktordan rapor al diyen öğretmene efsane cevap
+  entry_id:  73950849
+  entry_writer: raki kadehindeki balik
+  entry_fav_count: 4
+  entry_content: |
+    bu notu bir doktorun yazdığına inanmıyorum. zira bir doktorun bunun için vakit harcayacağına inanmıyorum. bu büyük ihtimalle derse giremeyen öğrencinin kendi yediği bir nane. bu bir.<br/><br/>ikincisi bir öğretmen eğer o derste sınav yapıyorsa ve sözkonusu öğrenci sınava alınamayacak kadar geç kaldıysa (mesela o gelene kadar bir başka öğrenci kağıdını teslim edip çıkmış olabilir veya bir öğrenci tuvalete gitmek için izin isteyip gelmiş olabilir... çok elzem değilse ikinci mazeret için izin verilmez ama sonuçta bunların hepsi sınav güvenliğini ve güvenilirliğini etkiler) öğretmen sınıfa almaz. bunun dışında derse geç kaldı ise idareden alınacak geç kağıdıyla seve seve alır. ve fakat o yoklama fişine yok yazılmış öğrenci her halükarda devamsız muamelesi görecektir. bir derse bile girmese yarım gün yok yazılacaktır. bunu bilen işgüzar öğrencilerin bir kısmı devamsızlık problemi var ise veya sınava çalışmamış ise ya da gerçekten sınava geç kalmışsa (bu tamamen öğrencinin sorumluluğudur. hatta sorumsuzluğu) topu öğretmene atıp durumu avantaja çevirmek için bu yöntemi kullanır. doktorlar da salak olmadığı için öyle her gelen öğrenciye rapor vermediği gibi burada döşenen entrylerin aksine vaktini çaldığı için öğrenciyi bir güzel azarlar ve gönderir. <br/><br/>sözlük ahalisi öğretmenlerin ekseriyetini gerizelakı bellediği için, yerin dibine sokma fırsatı bulunca da sazan gibi atlar. işi öğrenciye bilgi aktarmak olan insanın bahsi geçen öğrenciyi sırf gıcıklık olsun diye doktor kapısına gönderebileceğine, öğrencinin geleceğiyle bu kadar keyfi bir şekilde oynayacağına inanır. hadi sizi de kırmayayım bir açık kapı bırakayım. bu olayın sizin dediğiniz gibi olma ihtimali %5, benim anlattığım şekilde olma ihtimali ise %95'tir. <br/><br/>bir de anlayamadığım bir başka şey de şu. bu tarz başlıklarda yazanların başına ne çok şey gelmiş arkadaş lisede. sanırsın nazi kampında okumuş, nazi subayları öğretmenlik yapmış. belki hep aynı kişi yazıyordur da ben abartıyorumdur ama herkes bir dertli, bir mağdur. arkadaşım sizin dediğinizi yapacak öğretmen dakikasında bimere şikayet ediliyor, soruşturma geçiriyor. bu kadar salakça bir sebepten bir öğretmen bu ihtimali göze alır mı yahu...
+- entry_name: |
     la casa de papel
   entry_id:  73966443
   entry_writer: yildiz kare sifir alti kare
@@ -318,33 +311,40 @@ data:
   entry_content: |
     şampiyon olması, hatta ikici olması mucize olur.<br/><br/>ama bu takım şampiyonluğu malatya maçından sonra futbol oynamayan oyuncuları alkışladığı, bağrına bastığı gün kaybetti. o gün oyunculara "cl'deki başarı bize yeter, lig olmasa da olur, canınız sağolsun" mesajı verildi adeta. o günlerde bu işin böyle gitmeyeceği takıma hissettirilebilseydi belki birşeyler değişebilirdi.
 - entry_name: |
-    3 şubat 2018 fenerbahçe gençlerbirliği maçı
-  entry_id:  73967092
-  entry_writer: cok sesli kuzular
-  entry_fav_count: 2
-  entry_content: |
-    volkan, dirar için “mal amına koyayayım ya” dedi.
-- entry_name: |
-    ölümlü dünya (film)
-  entry_id:  73960650
-  entry_writer: lilypad
+    türkiye'nin dünyaya kazandırdıkları
+  entry_id:  73966493
+  entry_writer: frege
   entry_fav_count: 1
   entry_content: |
-    beğenmeyenle selamı sabahı kesin açık ve net sölüyorum
+    önce annesinin sonra karısının elinde maymun olan çok özel bir erkek türü.
 - entry_name: |
-    cebimdeki yabancı
-  entry_id:  73960080
-  entry_writer: demesi kolay tabii
+    moral bozuk olunca kaçılan yer
+  entry_id:  73967219
+  entry_writer: pul
+  entry_fav_count: 1
+  entry_content: |
+    benim de vardı böyle bir yerim. kafamdaki sesler birbirini dinlemeyi unutup hep bir ağızdan konuşunca, sakinleşmek, kakofoniden kurtulmak için gidiyordum. denize bakan bir bank. manzarası güzel...<br/>sonra bir hata yaptım. başka başka insanlarla da gittim oturdum o banka. hatta çok lüzumsuz konuşmalar geçti. hiçbiri de kafamın içindekiler gibi değildi üstelik. sırf güzel bir manzaraya doğru saçmalamak için böyle salakça bir şey yaptığımı düşündükçe moralim bozuluyor. ama moralim bozulunca kaçtığım yerde görmek istemediğim birini göreceğim korkusu yüzünden mal gibi olduğum yerde kalıyorum, gidemiyorum oraya. bak yazarken bile canım sıkıldı. <br/>o nedenle bu tür kaçış mekanlarınızı tapusu üstünüze olan yerlerden seçmenizi tavsiye ederim. banyo iyi mesela, su var, temiz, beyaz sabun kokusu var, anahtarı var. zaten şimdi panoramik sokak fotoğraflarından baktım, benim bankta iki sevgili sarmaş dolaş oturuyor. onlar da ayrılınca bir daha gidemeyecek o banka. düşündüm de ben yine iyiyim ya.<br/>(yine anya diye başlayıp konya diye bitirdim, aferin bana)
+- entry_name: |
+    mete kalkavan
+  entry_id:  73967425
+  entry_writer: smete
   entry_fav_count: 0
   entry_content: |
-    tıpkı eyfel’in görünmediği tek yer olduğu için sürekli eyfel’de takılan <a class="b" href="/?q=guy+de+maupassant">guy de maupassant</a> gibi, serra yılmaz’ın görünmediği ve görünmeyeceği tek ferzan özpetek içeren film olduğu için gitmeyi düşündüğüm film.
+    beşiktaş'ın puan kaybettiği haftada dengeyi sağlamaktadır. gösteremediği kırmızı kart kendisine çıkmıştır.
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  73953759
+  entry_writer: 3 yil sonra
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%a7ok+%c3%bcz%c3%bcc%c3%bc+durumda+olan+insanlar+veritaban%c4%b1">çok üzücü durumda olan insanlar veritabanı</a>)
 - entry_name: |
     3 şubat 2018 rus uçağının sarakip'te düşmesi
-  entry_id:  73966824
-  entry_writer: tart bakalim kac kilo
+  entry_id:  73966903
+  entry_writer: oradangecenatli
   entry_fav_count: 0
   entry_content: |
-    yalnız pilotu öldürüp cenazesini teşhir eden ceyş el nasr isimli örgüt afrin operasyonuna katılan öso unsurlarından biri. perinçek'in beyni yanacak, garibim.
+    rus uçaklarının alçaktan uçmasıyla ilgisi olduğunu düşünüyorum. neden alçaktan uçuyorlar? güdümlü mühimmat yerine dumb bomb kullanıyorlar, haliyle isabet arttırmak için alçaktan uçmak zorunda kalıyorlar. <br/><br/>gerçi güdümlü mühimmatları da tam hedefi vuramıyor ama o da ayrı mesele.
 - entry_name: |
     2 şubat 2018 bursaspor beşiktaş maçı
   entry_id:  73951163
