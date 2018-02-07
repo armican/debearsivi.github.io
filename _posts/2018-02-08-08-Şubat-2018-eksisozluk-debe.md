@@ -6,70 +6,70 @@ data:
     7 şubat 2018 icloud açığı ve apple rezaleti
   entry_id:  74054341
   entry_writer: hepinizinickiyim
-  entry_fav_count: 822
+  entry_fav_count: 834
   entry_content: |
     sevgili yazarlar bana göre rezaletin şahı olan bir durumu paylaşmak için huzurlarınızdayım. olay kişisel bir rezaletten çok <a class="b" href="/?q=icloud">icloud</a> ’dan kaynaklanan sistemsel bir sorun aslında ama firmanın buna kayıtsızlığı olayı aynı zamanda rezalet kategorisine sokmak için yeterli bence. okuyunca anlayacaksınız.<br/><br/>sanırım 10 yıllık falan <a class="b" href="/?q=iphone">iphone</a> kullanıcısıyım. bildiğiniz gibi apple her iphone kullanıcısına icloud.com uzantılı bir de e-posta adresi veriyor. iphone kullanıcısı olduğum bu 10 yılda ben bu adresi sanırım birkaç defadan fazla kullanmadım. öyle duruyor işte. bu icloud.com adresinin dışında bir de <a class="b" href="/?q=me.com">me.com</a> adresim var benim. <a class="b" href="/?q=apple">apple</a>’ın dediğine göre 19 eylül 2012 tarihinden önce bir icloud hesabı oluşturanların bir de me.com hesabı oluyormuş. <a rel="nofollow noopener" class="url" target="_blank" href="https://support.apple.com/tr-tr/HT201771" title="https://support.apple.com/tr-tr/HT201771">bilgi burada</a><br/><br/>işte bu iki adres benim icloud e-posta hesabımda ortak kullanılıyor. yani bu ikisinden birine gelen e-postalar benim icloud.com mailime düşüyor. şu <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/qGErbB.jpg" title="http://i.hizliresim.com/qGErbB.jpg">fotodan</a> görülebilir. <br/><br/>benim bu her iki adresim de notlar diye başlıyor. yani notlar@icloud.com ve notlar@me.com.<br/><br/>bu e-postalar hep “notlar” şeklinde mi başlıyor onu da bilmiyorum. ama internette gördüğüm kadarıyla millet uzantıdan önceki kısmı (bende notlar yazan kısmı yani) kendi belirliyormuş. bende hem icloud.com un hem de me.com un “notlar” diye başlamasının sebebini bilmiyorum. ben böyle e-posta adresleri yarattığımı hatırlamıyorum. zaten notlar ne yav ben oluştursam adımı soyadımı falan yazarım. bunların şifresi nedir onu bile bilmiyorum. ben zaten apple kimlik olarak da bunlardan birini değil kendi hotmail.com adresimi kullanıyorum.<br/>neyse konuya gireyim: ilk olarak 30.03.2015 günü icloud hesabıma bir e-posta geldi. b.ş. adlı biri bazı kişisel notlarını göndermiş. hatadır herhalde deyip geçtim.<br/><br/>ardından 17.04.2015 günü h.g.s. isimli birinden gene kişisel notlara dair bir e-posta geldi. sonra bu belli aralıklarla böyle sürdü gitti. bugüne kadar şu sıralamayla insanlardan bana e-posta geldi. göndericilerin isimlerinin sadece baş harflerini alıyorum.<br/><br/>30.03.2015 – b.ş.<br/>17.04.2015 – h.g.s.<br/>13.05.2015 – m.y<br/>18.06.2015 – m.c.<br/>24.08.2015 – o.ç.<br/>03.10.2015 – d.b.<br/>09.11.2015 – m.b.<br/>16.12.2015 – b.ö.<br/>29.12.2015 – s.e.<br/>03.01.2016 – e.ö.<br/>11.01.2016 – z.b.<br/>05.03.2016 – e.k.<br/>21.03.2016 – s.k.<br/>30.04.2016 – i.t.<br/>09.05.2016 – t.a.<br/>30.06.2016 – u.ş.<br/>26.07.2016 – b.k.<br/>29.07.2016 – h.g.<br/>27.08.2016 – e.ö.<br/>31.08.2016 – a.d.<br/>20.11.2016 – b.s.<br/>03.12.2016 – o.f.a.<br/>23.01.2017 – g.c.<br/>28.01.2017 – a.a.<br/>14.02.2017 – o.u.<br/>23.02.2017 – o.k.<br/>03.05.2017 – s.y.<br/>11.05.2017 – i.s.<br/>22.05.2017 – b.d.<br/>18.06.2017 – a.z.<br/>21.06.2017 – b.k.<br/>23.06.2017 – a.ö. (üst üste 4 e-posta)<br/>30.06.2017 – b.ö.<br/>22.08.2017 – g.t.<br/>09.10.2017 – e.b.<br/>13.11.2017 – ş.a.<br/>14.11.2017 – m.m.<br/>08.12.2017 – u.c.<br/>09.12.2017 – a.t.<br/>09.12.2017 – n.y.<br/>13.12.2017 – n.k.<br/>11.01.2018 – a.ö.<br/>22.01.2018 – a.h.e (üst üste iki e-posta)<br/>02.02.2018 – m.ş.<br/><br/>şimdiye kadar toplamda 44 ayrı kişiden 48 e-posta gelmiş bu şekilde.<br/><br/>bunların tamamı insanların kendilerine gönderdikleri e-postalar. insanlar kendi hayatlarına dair önemli gördükleri hususları kendi kendine e-posta atar ya arşivinde kalsın diye. işte tamamı bu tür e-postalar. içlerinde neler var neler. mesela adamın biri evli olan sevgilisiyle yazışmalarını atmış. “kocam yanımda uyuyor ama ben hala seni istiyorum.” falan gibi top secret yazışmalar. daha çok da şifreler var. istesem milletin anasını ağlatacağım türden şifreler hem de. <br/><br/>mesela birkaç tanesi elektronik bankacılıkta kullandığı tüm şifreleri atmış. e-postaların 10’dan fazlası bu tür şifrelerle dolu.<br/><br/>e-postaların ardı arkası kesilmeyince biraz bunları kolaçan ettim ve hepsinde iki ortak nokta keşfettim.<br/><br/>1- hepsi türk kullanıcılardan gelmiş<br/>2- bu tüm e-postaların bilgi kısmında (başka bir yerinde değil, sadece bilgi kısmında) notlar@me.com adresi girilmiş.<br/><br/>hatalı e-postaların hiçbirine geri dönüş yapıp da “kardeş senin e-posta yanlışlıkla bana geldi.” demedim. çünkü ilk bir ikisinde zaten hataen gönderildiğini düşünmüştüm. sonrasında da bunun sistemsel bir sorun olduğunu ve e-posta sahibine ulaşmanın bir yarar sağlamayacağını düşündüm. bir de tabi e-posta sahibi şifrelerim yabancı birinin eline geçti diye kıllansın ve sonra tüm şifrelerini değiştirmekle uğraşsın istemedim. ben nasıl olsa bunlardan yarar sağlayacak sütü bozuk biri değilim.<br/><br/>peki ne yaptım? apple türkiye ve apple merkeze birkaç defa e-posta attım bununla ilgili. hatta ekran görüntüleri falan gönderdim. ama hiç dönüş olmadı. her ios güncellemesinde belki bu sorunu çözerler diye düşündüm ama bugüne kadar çözülmedi de.<br/><br/>en son gelen hatalı e-posta ise (02.02.2018 tarihli olan) inanılır gibi değildi. istesem zavallı herifi donuna kadar soyarım öyle diyeyim. adam hayatındaki her şeyle ilgili tüm şifreleri göndermiş. o zaman kendi kendime dedim ki “ulan belki de bu sorun sadece bende değildir. belki başka masum insanların başka e-postaları da başka birilerine gidiyordur ve onlar kötü niyetle bundan yararlanıyordur.” bunu düşününce birden nerdeyse panik halde uğraştım ve aynı gün yani 02.02.2018 günü apple’dan bir müşteri temsilcisinin beni aramasını sağladım. uğur diye biri aradı. kendisine 15-20 dakika boyunca bu konuyu anlattım. o ısrarla göndericilerin hata ile benim e-posta adresimi yazdıklarını yani bu e-postaların kullanıcı hatasından dolayı bana geldiğini söyledi. dedim ki “peki güzel kardeşim neden hepsi bilgi kısmına me.com hesabı girilen e-postalardan geliyor bunların. yani 48 defa yanlışlıkla bilgi kısmına benim me.com adresim girilerek bana e-posta gelmiş ama bir kere bile bilgi kısmında değil alıcı kısmında yanlışlıkla benim adresimin yazılı olduğu bir e-posta gelmemiş. bu kadar büyük bir tesadüf olur mu? üstelik neden hepsi me.com da bir tanesi bile icloud.com değil?” ben böyle diyince kendisi "me.com da ne ola ki?” dedi. güler misin ağlar mısın? adam apple’ın verdiği me.com uzantılı bir e-posta adres olduğunu bile bilmiyor. o zaman ben de bunu bilmiyordum. kendisi apple’ın verdiği me.com uzantılı bir hesap yok diyince acaba ben mi yanılıyorum diye düşündüm ve kendisiyle konuşurken aynı anda gugıllayınca yukarıda verdiğim linkteki sayfayı gördüm ve öğrendim ki me.com adresi apple’a ait. ben bunu söyleyince müşteri temsilcisi “hatta bekleyin bilmem ne birimine bir danışacağım” dedi. “tamam” dedim. ama ben beklemedeyken birden hat kesildi. geri ararlar veya e-posta falan atarlar diye bekledim ama ı ıh. hiç dönüş olmadı. belki de herif benden yılınca suratıma kapattı bilmiyorum.<br/><br/>aramaya dair appledan gelen e-postanın görüntüsü <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/qGErvV.jpg" title="http://i.hizliresim.com/qGErvV.jpg">burada</a><br/><br/>ben bunun hatalı adres girmek gibi basit bir sebebi olduğunu düşünmüyorum. hatalı e-postaların yukarıda belirttiğim iki ortak noktası yani hepsinin türk kullanıcılarından gelmesi ve hepsinin bilgi kısmına notlar@me.com adresi girilen e-postalar olması böyle düşünmemi engelliyor. ayrıca benim 5-6 tane aktif e-posta adresim var hiç birine böyle düzenli aralıklarla hatalı e-posta gelmiyor.<br/><br/>bence burada ciddi bir sorun var. eğer bu gerçekten sistemsel bir sorun ise bunun sadece benim değil başkalarının da başına gelmesi ve o başkalarının kötü niyetli olup bu e-postalardaki bilgiyi kötüye kullanması ihtimali çok ürkütücü.<br/><br/>çareyi konuyu buraya taşımakta buldum. belki sizlerin desteğiyle konu bir süre gündemde kalırsa sırça köşkünden kafasını çıkarıp bu sorunu önce kabul edip sonra çözecek bir apple yetkilisi sesimi duyar.<br/><br/>ha eğer bu gerçekten basit bir kelime girme hatası ise biriniz beni buna ikna etsin de içim rahatlasın.<br/><br/>edit: ben avukatım. şeytan diyor mail sahiplerinden birkaçına ulaş, aç davayı elma’nın anasını ağlat <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit-2: @pan kediayak ın önerisi hoşuma gitti. zararsız olanlardan birine e-posta attım. bakalım ne cevap gelecek, bakalım onda da notlar@me.com olarak mı kayıtlı.<br/><br/>edit-3: çok eğlenceli lan. az önce iki yeni e-posta geldi. biri m. ç. diğeri m. ö. ikisi de deneme yapmış belli ki. sanırım bazı yazarlar hatayı deniyor :))<br/><br/>edit-4: o.u. - e.y.- s.i. - a.s. - g.g.- hepinizin e-postaları geldi. yollamayın olm daha fazla işim gücüm var :)<br/><br/>edit-5: h.z. - d.b. - a.o. ve a.k. nin de e-postaları geldi. başka gelen olursa daha editlemem haberiniz olsun.<br/><br/>edit-6: yapılan yorumlar ağırlıklı olarak bilgi kısmına notlar yazılan e-postaların sonunu sistemin @me.com olarak otomatik doldurması ve otomatik olarak da bu e-postaları notlar@me.com adresine yani bana göndermesi şeklinde. bu ihtimal bana da makul geliyor. şunu söyleyeyim hukukçu gözüyle bakılınca buna kullanıcı hatası denemez. hiçbir kullanıcı sistemin otomatik olarak bir mail adresine gönderim yapmasını öngörmez. hukuk sistemi de bunu kullanıcı hatası saymaz. işin asıl korkutucu yanı şu ki anlaşılan her dilde aynı şey söz konusu. yani bir ingiliz cc bölümüne notes yazdığında o e-posta notes@me.com adresine gidiyor. o adresin sahibi her kimse elinde kim bilir ne kadar veri var ve kim bilir bu verilerle ne yapacak. aynısı tüm diller için geçerli. cidden büyük rezalet. çok merak ediyorum acaba appledan bana ulaşan olacak mı?<br/><br/>edit-7: nasıl bunda apple ın kabahati yok denebilir ki. buradaki yazarların çoğu akıllı tipler. aranızda "ben bilgi kısmına yazılan bir kelimenin otomatik olarak bir mail adresine tamamlanıp o adrese gene otomatik olarak e-posta atılacağını ön görürdüm diyebilen var mı?<br/><br/>edit-8: çok mevzusu olduğundan tekrar yazıyorum: bu adresleri ben almadım. kıllanmamın sebeplerinden biri de bu zaten. her yeni telefona bir öncekinin yedeğini yüklediğimden yıllardan beri taşınıp durmuş her yeni telefonuma.<br/><br/>edit-9: gazeteciler bile bana ulaştı ama appledan hala tık yok. büyük bir haber kanalı benimle ropörtaj yapmak istiyor. yapayım mı elma kardeş ne dersin?<br/><br/>edit-10: yav hala şebelek şebelek e-postalar geliyor sizden.<br/><br/>edit-11: ohaa ayıp lan şifremi çalmak için üyeliğinizi onaylayın falan tarzı e-postalar gelmeye başladı. salağa mı benziyorum lan ben. demek ki bu adres sizde olsa milletin nasıl canını yakarmışsınız.
 - entry_name: |
     çocuklar açlıktan ölürken uzaya araba göndermek
   entry_id:  74051992
   entry_writer: the playmaker
-  entry_fav_count: 546
+  entry_fav_count: 548
   entry_content: |
     normal bir durum. genele gitmeye gerek yok, mahallende aç fakir çocuklar dolanırken sen internete telefona ayda 100+ lira döşeyip çocuklara 1 lira bile destek olmuyorsan senin de bir farkın yok. aç insan var diye bilim de yapmasınlar oldu amk.
 - entry_name: |
     bankta yanındaki dedeye oral seks yapan dede
   entry_id:  74048341
   entry_writer: bulutlari bekleyen
-  entry_fav_count: 523
+  entry_fav_count: 525
   entry_content: |
     aslında insanlık tarihi boyunca, coğrafyamızda ve tüm dünyada var olan ama hep hasır altına itilmiş olanın teknoloji ve sosyal medya yoluyla gözler önüne serilmesi.<br/><br/>o amcanın ilk seferi mi sizce? gençliğinden beri kimbilir kaç farklı erkekle, kaç kez sevişti... ama bizler sadece tedbirsiz yakalandığı bir anı görüyoruz. hamamlar mesela, neler dönüyor hamamlarda biliyor musunuz? <br/><br/>eşcinsellik denince aklınıza hala travestiler geliyorsa bu ülke ve toplum hakkında hiç ama hiçbir şey bilmiyorsunuz demektir.<br/><br/>edit: eşcinsellik doğal bir yönelimdir ve tüm toplumlarda birbirine yakın oranda eşcinsel birey bulunur. ancak cinselliği tabu haline getirmiş kapalı ve gelişmemiş toplumlarda eşcinsel ilişki tavan yapar. çünkü cinselliğe ulaşmak için en kolay yöntem eşcinsel ilişkidir. türk toplumunda da eşcinsel olmayan milyonlarca erkek eşcinsel ilişkiye girmiştir, bunlar hepimizin bildiği sırlar.<br/><br/>heteroseksüel olduğu her halinden belli olan bir erkeğin 'tek erkekler bana yazmasın ama karısıyla gelen erkeklerle de ilişkiye girerim.' yazısı da bunu ispatlayan milyonlarca örnekten biri.
 - entry_name: |
     karaköy'de makatına silikon sıkılan köpek
   entry_id:  74048036
   entry_writer: texasred
-  entry_fav_count: 414
+  entry_fav_count: 417
   entry_content: |
     ne alaka dedirten olay.amına soktumu evladı ne istiyosun köpekten ne alaka silikon falan annenin amına sık o silikonu.
 - entry_name: |
     afrin'de ak-47'lar ile yürüyen sivil kadınlar
   entry_id:  74055303
   entry_writer: jiesheshuai
-  entry_fav_count: 356
+  entry_fav_count: 367
   entry_content: |
     ellerinde ak-47'lar ile sokaklarda eylem yapan, tsk'nın bilhassa zarar görmemeleri için harekatı titizlikle sürdürmesine yol açan masum siviller:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/z0nOq9.jpg">http://i.hizliresim.com/z0noq9.jpg</a><br/><br/>aman ha, zarar görürlerse tam bir sivil katliamı olur. hatta savaş suçundan bile yargılanabiliriz. bu ağızları süt kokan temiz kalpli bebelere dokunmak falan yok.
 - entry_name: |
     bakan'ı kızdıran robota özür diletilmesi
   entry_id:  74063548
   entry_writer: von lindenhauch
-  entry_fav_count: 304
+  entry_fav_count: 331
   entry_content: |
     "daha kiminle konuştuğunu anlayabilecek yaşta değil, üç yaşında"
 - entry_name: |
     gavur uzaya roket gönderdi diye sevinen ekşici
   entry_id:  74051938
   entry_writer: koca nickli zenci
-  entry_fav_count: 303
+  entry_fav_count: 311
   entry_content: |
     gavur yaptı gibi bir yaklaşıma sahip olacak kadar aşağılık kompleksi olmayan ekşicidir. şahsen ben insanlığım mirasına katkı olarak görüp seviniyorum. çünkü gerizekalı bir ezik grubuna dahil etmiyorum kendimi. uzay gibi bir mecra da insanın çabasını anlayamayacak kadar salak olanlar, hala modası geçmiş din temelli düşüncelere sahip olabiliyorlar, ne acı ki tarih hala yok edemedi bunları. <br/><br/>diğer bir açıdan bakınca gavur olmayanlar maalesef en basit teknolojileri bile üretmekten aciz, kendi karnını doyuracak ürünleri bile yetiştiremeyen zavallı tipler. bilim dünyanın tek umududur ve tek gerçekliğidir. bilime sırtını dönen zavallı toplumlar ve gruplar ya köleleşmiş yada yok olmuştur. islam çoğrafyası 1600 yılında bilime dair son umudunu galata rasathanesini, ulema soytarısı ile beraber yıktırarak kaybeden tarafa geçmiştir. mustafa kemal atatürk'ün geri kazanım çabaları ise bu toplumlara fazla ağır gelmiştir. sonu nereye varacak merakla bekliyoruz. devletler kaybeder, milletler kaybeder, inanışlar kaybeder, tanrılar kaybeder geriye sadece bilim kalır. insanlığın tek kabul gören inanışı bilimdir ve yok edilemez. o yüzden gavur, kafir falan diye konuşan geri zekalı sürüsünü önemsemeyin. bırakın o salakları her zaman olduğu gibi geçici cehalet zaferlerinin keyfini sürsünler, kendi sonlarına doğru yürüsünler.<br/><br/>hadis editi: <a class="b" href="/?q=alimin+m%c3%bcrekkebi+%c5%9fehidin+kan%c4%b1ndan+a%c4%9f%c4%b1r+gelecek">alimin mürekkebi şehidin kanından ağır gelecek</a> buyuran islam peygamberini ve onun dinini anlayamamış bir (kendi deyimiyle) gavur iddiası. hz. muhammedin cennet ile müjdelediği adama gavur demek, peygambere saygısızlık değil de nedir?
-- entry_name: |
-    çaykur'u boykot ediyoruz
-  entry_id:  74057745
-  entry_writer: thefdeniz
-  entry_fav_count: 222
-  entry_content: |
-    bir ürünün güzel olup olmamasıyla ilgili değildir boykot ya da tepki. burada önemli olan bu sözü edecek kadar geri kafalı insanların böyle kurumların başında olabilmesidir. sen "ama çayları çok güzel ya" diye tepki göstermezsen, diğeri "sütleri çok iyi ya" diye tepki göstermezse bu tipler de gelir istedikleri gibi at koşturur. <br/><br/>azıcık farkında olun gücünüzün.
 - entry_name: |
     gıda sektörünün aşırı şeker kullanması
   entry_id:  74064097
   entry_writer: troll lord
-  entry_fav_count: 203
+  entry_fav_count: 237
   entry_content: |
     sağlık bakanlığının ve gıda bakanlığının derhal ilgilenmesi gereken konudur.<br/><br/>tam 12 yıldır ağzıma rafine şeker içeren hiçbir gıda koymadım.<br/><br/>bunların içinde bisküviler, kekler, çikolatalar, gazlı içecekler ve benzeri rafine şeker içeren gıdalar bulunuyor.<br/><br/>tatlı ihtiyacımı sadece bal, pekmez, meyveler ve benzeri gıdaları olabildiğince hassas olarak seçen biri olarak giderdim.<br/><br/>bugün az önce bir arkadaşımın yoğun ısrarı üzerine sadece 1 adet bisküvi yedim "pro" bilmem ne söylediğine göre şeker oranı en az bisküvilerden birisiymiş, diğerleri buna göre aşırı tatlıymış ve bunda protein de varmış.<br/><br/>bisküviyi ağzıma koyup çiğnemeye başladığım anda keskin bir şeker hissi yaşadım. yutmamama rağmen kulaklarımın arkasındaki ve ensemdeki kaslar gerildi ve gözlerim hafifçe karardı. bu şiddetle insülin salgıladığım anlamına geliyor. halbuki şeker hastası falan değilim, sadece uzun zamandır rafine şeker yemiyorum. bisküviyi çıkarmak zorunda kaldım. bir çorba kaşığı bal yesem bu kadar ani bir salgılama olamazdı. büyük ihtimalle ağzıma aldığım şey tamamen sindirilmiş halde bulunan glikoz şurubu olmalıydı ki dilimin altındaki dokular tarafından hunharca emildiler.<br/><br/>"bende neden olmuyor lan 3 paket yerim bir oturuşta?" çünkü sende insülin direnci gelişmiş, sen 1kg baklavayı göm hissetmezsin.<br/><br/>sağlık bakanlığı ve gıda bakanlığı ortak çalışarak geçtiğimiz yıllarda ekmeğin içindeki tuz oranını yavaş bir şekilde düşürmüşlerdi. bu çalışmaları için kendilerini tebrik ederim. şu anda ise toplumun sağlığına en fazla katkıyı sağlayacağını düşündüğüm düzenli ve yavaş biçimde rafine şeker oranını düşürmelerini bekliyorum.<br/><br/>kaçınız ekmeğin tuzundaki azalmayı hissedebildi? şu anda ekmeğin içindeki tuz yok denecek kadar az ancak halen fazla ve düşmeye devam ediyor. bunun aynısı hazır gıdalar için de yapılmalı. <br/><br/>sağlık bakanlığının "insülin direnci" uyarılarını yapmadan önce şu şeker olayına bir el atması gereklidir.<br/><br/>şeker pahalı bir malzemedir. gıda sektörü ise şeker gibi pahalı bir şeyi aşırı derecede kullanıyorsa bunun altında bir pislik aramanız gerekmektedir.<br/><br/>o çok vatansever "osmanlı torunu" gıda firmalarınız halkın insülin direncini kontrollü olarak yükselterek halkın daha fazla gıda tüketmesine neden oluyor. böylece terör örgütlerinin yapamadığını bu adamlar tatlı tatlı yapıyor. ilaç harcamaları da var tabi.
+- entry_name: |
+    çaykur'u boykot ediyoruz
+  entry_id:  74057745
+  entry_writer: thefdeniz
+  entry_fav_count: 232
+  entry_content: |
+    bir ürünün güzel olup olmamasıyla ilgili değildir boykot ya da tepki. burada önemli olan bu sözü edecek kadar geri kafalı insanların böyle kurumların başında olabilmesidir. sen "ama çayları çok güzel ya" diye tepki göstermezsen, diğeri "sütleri çok iyi ya" diye tepki göstermezse bu tipler de gelir istedikleri gibi at koşturur. <br/><br/>azıcık farkında olun gücünüzün.
 - entry_name: |
     şirine hangi şirinle sevişiyor sorunsalı
   entry_id:  74060229
   entry_writer: lucky5
-  entry_fav_count: 199
+  entry_fav_count: 202
   entry_content: |
     (bkz: <a class="b" href="/?q=wrong+hole">wrong hole</a>)<br/><br/>(bkz: <a class="b" href="/?q=sakar+%c5%9firin">sakar şirin</a>)
 - entry_name: |
@@ -83,7 +83,7 @@ data:
     sinema tarihinin en abartılmış filmi
   entry_id:  74056428
   entry_writer: dunyanin en buzin seven insani
-  entry_fav_count: 150
+  entry_fav_count: 156
   entry_content: |
     başlıkta 20-25 entry var, 15 tanesi "şu filme abartılmış diyen gerizekalıdır, hepsini engelliyorum" tarzında entry'lerden ibaret.<br/><br/>ekşi sözlük, tarihinin en berbat dönemini yaşıyor. en basit konularda dahi fikir belirtmek ve tartışmak imkansız. ya küfür yiyorsun ya da engellenecek yazarlar listesine sokulmakla tehdit ediliyorsun.
 - entry_name: |
@@ -97,44 +97,16 @@ data:
     hamile eşin başkasıyla birlikte olduğunu öğrenmek
   entry_id:  74062395
   entry_writer: ebolaks
-  entry_fav_count: 128
+  entry_fav_count: 136
   entry_content: |
     malum site ne amk? (bkz: <a class="b" href="/?q=nas%c4%b1l+bir+ka%c5%9farla+evlisin%3f">nasıl bir kaşarla evlisin?</a>)
-- entry_name: |
-    meral akşener
-  entry_id:  74055326
-  entry_writer: kayi2
-  entry_fav_count: 121
-  entry_content: |
-    hakkında solcu çomarın ayrı, sağcı çomarın ayrı komplo teorisi kurduğu güzel insandır.<br/><br/>bak solcu kardeşim olayın chp ile falan ilgisi yok, chp yönetiminin atatürk ve türkiye düşmanı terörist tipleri doldurduğunu söyleyenlerin hepsi sağcı değil. iyi parti olmasa belki de bir kısmı sandığa bile gitmeyecek solcu parti yönetimleri yüzünden<br/><br/>bak sağcı kardeşim olayın küresel güçlerle falan ilgisi yok, ulaşım ve inşaat sektörleri dışında her alanda (eğitim, kültür, ekonomi, turizm v.s.) türkiye geriye gidiyor. bunu muhafazakar-milliyetçi bir seçmen olarak ben söylüyorum.<br/><br/>iyi parti türk siyasetine bir renk getirmiştir. daha önce söylediğim gibi sağcı-solcu farketmez yeter ki radikal görüşlere sahip olmasın herkese kapısı açıktır.
-- entry_name: |
-    elon musk'a meydan okuyan yiğit
-  entry_id:  74058794
-  entry_writer: drunkenshoe
-  entry_fav_count: 119
-  entry_content: |
-    "çok abarttılar...amerika'nın altı petrol dolu, o kadar enerji olunca...ben mi yapıcam roketi, sen yapıcan tabii..." sözleriyle orta doğulu insanı bir çırpıda tanımlamış, nedense ekşi sözlük yazarı olduğunu düşündüğüm yiğittir.
 - entry_name: |
     kadınlara özel spor salonu
   entry_id:  74052070
   entry_writer: realjaew
-  entry_fav_count: 101
+  entry_fav_count: 105
   entry_content: |
     her iki tip spor salonuna da gitmis bir kadin olarak curutecegim iddia. <br/><br/>plates dersinde kadin hocamiz bacak esnetmek icin one dogru egildiginde tum erkeklerin poposuna bakip gulumsedigini gormemle fikrim sabitlenmis oldu. kusura bakmayin ama erkekler kadinlari rahatsiz ediyor. kadinlarin kendilerine ait alan istemesinde hicbir beis yok bence.
-- entry_name: |
-    kyk borcunu kocasına ödettiren kadın
-  entry_id:  74055667
-  entry_writer: seovi
-  entry_fav_count: 97
-  entry_content: |
-    benimkisi. ben kendisine evlenmek istediğimde bana şöyle demişti. <br/><br/>bak koçero benim babam astsubay emeklisi, alkolik, hovarda bir adam. şu hayatta bana ait hiçbir şeyim yok. henüz okuyorum işim bile yok. evlenirsek eve bir bavulla gelirim o da kesin değil. <br/><br/>sonra evlendik o zamanın parası 11 ktl kyk borcu çıktı. bende de yok, maaş anca evin kredisi fatura o bu. babamdan borç aldım. kızı eksi bakiyede mi almışız dedi, he dedim. olsun iyi kız dedi. kızım gibi sevdim dedi. <br/><br/>sonra ödedik borcu, babama da ödedik. o iş buldu, şimdi isviçreli bir şirkette yönetici. ben işsizim bir süredir. az önce aramış iphone 8 indirimdeymiş alayım mı sana diyor. bunları düşünmeyin yani gençler. eşiniz teninizden içeri girer. siz o, o siz olursunuz.
-- entry_name: |
-    bana neden kardeş yapmadınız sorusuna cevap
-  entry_id:  74051512
-  entry_writer: kedi mi olsaymisim ben acaba
-  entry_fav_count: 86
-  entry_content: |
-    'sen bize yettin' demişti babamlar.<br/><br/>sevinmiştim çocuk aklıyla 'benim sevgim onlara yetmiş' diye.<br/><br/>uzun yıllar sonra anladım yapılan sarcasmı.
 - entry_name: |
     ufak tefek cinayetler
   entry_id:  74048539
@@ -142,13 +114,6 @@ data:
   entry_fav_count: 82
   entry_content: |
     ———alternatif 15. bölüm senaryosu in a land where there is no rtük——<br/>oya ve serhan yatakta uyanır. yatak cilveleşmesi izleriz. morning sex de yapıldıktan sonra oya duşa girer. serhan sürpriz kahvaltı hazırlayayım derken arzu gelir, kapıyı çalar. serhan kapıyı açar. arzu serhan’ı oya’nın evinde görünce şok olur, serhan durumu inkar etmez. arzu poğaçalarını bırakıp gider. arzu’nun ikilemini izleriz sonrasında. kendi aldatıldılışını söylemeyen merve’ye, kocasının onu oya’yla aldattığını söyleyip söylememesi konusunda vicdan muhakemesini izleriz.<br/>oya duştan çıkar. oo ne güzel kahvaltı hazırlamışsın der, sonra bu poğaçalar nerden geldi diye sorar. serhan arzu getirdi der. oya panik olur. aynı kavgayı ve havuz sahnesini buraya montajlayabiliriz. <br/>sonra arzu oya’yı arar, merve’den önce oya’yla görüşmek ister. öncelikle çocuğu olamayacak olmasına çok üzüldüğünü, ama böyle mi intikam aldığını sorar oya’ya. oya da hayır der, bu intikam değil, ben aşık oldum. arzu da tıpkı merve’nin burcu’yu saklaması gibi istemeyerek de olsa bu ilişkiyi merve’ye söyleyemez. <br/>pelin hastaneden çıkar, okulda yangın değil de sadece onun çocuğunu ilgilendiren bir başka vukuat olmuş olsun. örneğin, çocuk düşer, kafasını çarpar ve beyin travması geçirir. o sırada taylan okula gider, durumla ilgilenir, pelin, çocuğun uyutulmaması gereken zamanlarda çocuğun yanında olamaz. taylan da derin derin düşünür. bu kadın intihar etti madem ambulansı kim aradı, kapıyı kim açtı, bunlar planlı mıydı vs kafasında sorular oluşur. ertesi gün çocuk taburcu edildiğinde pelin makyajsız koştur koştur çocuğuna koştuğunda kendisine çok öfkeli bir taylan bulur. kendisine bilerek zarar vermiş bir anneyi ölümden dönen çocuğunun yanında olamamaktan dolayı suçlamaktadır. evde soğuk savaş döner. <br/>merve ve avukat arasındaki diyalog oya ile serhan’ın sevişme sahnelerinden sonra verilir, yani merve kocasının başka birine aşık olma ihtimaline bölüm başında uyanır. <br/>merve pelin yüzleşmesi izleriz. merve pelin’e geçmiş olsun der, hangisi için geçmiş olsun diyorsun der pelin, canıma kıymaya kalktığım için mi, oğlum ölümden döndüğü için mi? o da oğlun için der. canına kıyma kısmının numara olduğuna yönelik bir mimik vs hissedilir merve ambulansı kim aradı sahi diye sorduktan sonra. <br/>sonra onu bunu bırak, konuşmamız lazım der merve. serhan benden boşanmak istiyor. anlamıyorum der. ilk kez merve’yi böyle panik görürüz bir insanın yanında. birine mi aşık oldu der. pelin manidar gülümser, sen beni kocama kötülediysen de bak benim ailem yanımda, ne oldu merve, bu kez kazanamadın mı der. yine de iyilik bende kalsın, seni bu sorularla bırakmayacağım der ve merve’nin eline taylan’ın kol düğmelerinden birini bırakır. sen cevabı bulursun der. kalkıp gider. merve g.t gibi kalır afedersiniz.<br/>şimdilik bu kadar. iyi geceler.
-- entry_name: |
-    dayağı en çok hak eden meslek mensupları
-  entry_id:  74046183
-  entry_writer: femalesheldon
-  entry_fav_count: 68
-  entry_content: |
-    emlakçılar!!!gözünün içine baka baka yalan söylüyorlar...<br/>- bu duvar küf olmuş demek ki su alıyor<br/>- aaa olur mu ben 20 senedir emlakçı'yım bilirim<br/>- benim de gözüm görüyor finansçıyım <br/>-bu bir badana boya ile hallolur küf değil <br/>- bina eski zaten izolasyonu da yok ayrıca bu küf yeşermiş!!!yıkılır bu yakında, kentsel dönüşüm ayağına.<br/>- öyle bir şey kesinlikle yok apartmanın böyle bir kararı yok. <br/>6 ay sonra binanın yerinde yeller esmektedir ... <br/>yazın sıcağında bakılan bir ev için<br/>- burası en üst kat ısınma problemi olmasın?!?<br/>- yok mümkün değil çıkan kiracı ev aldı da gitti.<br/>zilden ve kapıcıdan eski kiracı bulunur isim telefon vs. niye çıktınız diye sorulur, çünkü donduk cevabı alınır ...<br/>daha bir sürü anım var bunlar ilk aklıma gelenler...<br/>bir de kargoculara çok acayip gıcığım yurtiçi kargo istanbul göztepe şubesi seni unutmadım ve unutmayacağım...
 - entry_name: |
     zeytin dalı harekatı
   entry_id:  74056816
@@ -160,16 +125,16 @@ data:
     850 metrede ülkeden soğumak
   entry_id:  74066344
   entry_writer: turfahakan
-  entry_fav_count: 48
+  entry_fav_count: 56
   entry_content: |
     (bkz: <a class="b" href="/?q=ihtiyac%c4%b1+olmad%c4%b1%c4%9f%c4%b1+halde+trafi%c4%9fe+%c3%a7%c4%b1kan+g%c3%b6rg%c3%bcs%c3%bcz">ihtiyacı olmadığı halde trafiğe çıkan görgüsüz</a>)
 - entry_name: |
-    30 yaş üstünde olup çocuk doğurmak
-  entry_id:  74063146
-  entry_writer: birbenexiktim
-  entry_fav_count: 38
+    __i^i__
+  entry_id:  74065772
+  entry_writer: kopenhag07
+  entry_fav_count: 33
   entry_content: |
-    s.kicem belanızı dedirten başlık. önce doğurana kezban, evlilik delisi diyen sözlük cemaati, sonrasına da kulp bulmuş. evlenmek isteyen kezban, istemeyen evde kalmış, çocuk seven kezban sevmeyen ruhsuzmuş. hepinizden nefret ediyorum. iğrençsiniz
+    bir ibadethane türüne benziyor.
 - entry_name: |
     ekşi itiraf
   entry_id:  74046728
@@ -178,12 +143,19 @@ data:
   entry_content: |
     bi kere bornovadan konağa yürümüştüm üzgün olduğum için. ankarada rekorum balgattan cebeciye yürümek. ortaokulda da şehir çıkışındaki okulumdan şehrin diğer çıkışındaki ananemlere yürümüştüm geçmemişti üzüntüm. allah kimseyi küçük şehirlerde üzmesin.
 - entry_name: |
-    iş yerinde başarılı olmanın yolları
-  entry_id:  74048024
-  entry_writer: fredininmerkuru
-  entry_fav_count: 26
+    evden işe işten eve tipteki insan modeli
+  entry_id:  74062819
+  entry_writer: patryn
+  entry_fav_count: 29
   entry_content: |
-    bana göre en temel kural, <a class="b" href="/?q=%c3%a7%c3%b6z%c3%bcm+odakl%c4%b1+olmak">çözüm odaklı olmak</a>tır. basit ama temel bir kural olduğunu düşünüyorum. kaldı ki bu şekilde kendinizi dönüştürebilirseniz, gündelik hayatınızda da farkını görebiliyorsunuz.<br/><br/>problem, hata veya sorun insanın olduğu her yerde var, olmaya da devam edecek. fakat önemli olan hata oluştuktan, sorun yaşandıktan sonraki yaklaşımdır. aslında dünya çapındaki büyük şirketleri ve markaları da ayıran en büyük farklılıklardan birisi bu.<br/><br/>(bkz: <a class="b" href="/?q=kriz+y%c3%b6netimi">kriz yönetimi</a>)
+    bu benimdir.<br/><br/>ilerideki hayalim ise, o eve mutlu bir eş ile benden çikolata bekleyen bir iki lokum yerleştirip hayat resmimi tamamlamaktır.
+- entry_name: |
+    sen anlat karadeniz
+  entry_id:  74066648
+  entry_writer: daminustundekisaksagan
+  entry_fav_count: 28
+  entry_content: |
+    her iki repliklerinden biri " karadeniz insanı şöyledir, böyledir " olan dizi. <br/><br/>karadeniz insanı iyi de biz orosbu çocuğu muyuz anlamadım ki?
 - entry_name: |
     balkan göçmenlerinin geriye göçü
   entry_id:  74055049
@@ -192,12 +164,19 @@ data:
   entry_content: |
     dinciler bile diger dincilerle birlikte yasamak istemezken, gayet normal olan durum.
 - entry_name: |
-    __i^i__
-  entry_id:  74065772
-  entry_writer: kopenhag07
-  entry_fav_count: 22
+    meslek örgütlerinin lağv edilmesi
+  entry_id:  74063413
+  entry_writer: muhendis kadin
+  entry_fav_count: 21
   entry_content: |
-    bir ibadethane türüne benziyor.
+    zaten 10 yıldır adım adım her fırsatta tüm yetkileri elinden alınan meslek odaları fiilen susturulmuştur. kendi odam tmmob için konuşayım, şu memlekette 3-5 sit alanı birkaç cumhuriyet mimarisi bu yamyamların elinden kurtarılabildiyse mimarlar odası ve inşaat mühendisleri odası sayesindedir. üye sayıları ve mali güçleri olduğu için sonuna kadar direnirlerdi. o yüzden ilk iş mali kaynaklarını kesmek oldu. üyelik aidatı dışında proje denetleme gibi kalemlerden kazançları engellendi. <br/>odalar bu ülkede soldan yürür yollarına barikat kurmaları beklenen faşit harekettir. <br/>mücadeleye devam!<br/><br/>ha aidat almaktan başka ne iş yapıyor diyenlere birkaç örnek vereyim. hani teknoloji mühendisliği diye bi zırvalığa kalkıştılar. talep olmamasına rağmen arz yaratan meslek lisesi teknik öğretmenliği fakültelerini teknoloji fakültesi diye bir şeye çevirip mezunlarına da fark ders sınavı ile mühendis unvanı verdiler. odalar ne yaptı? şiddetle karşı çıktı. zaten talebin üzerinde arz sağlayan her ile açılan mühendislik bölümlerine itiraz ederken bir de bu haksız devşirme ile haksız rekabeti önlemek istediler. teknoloji mühendilerinin herhangi bir odaya kayıt yaptırarak imza yetkisi sahibi olamayacağı kararı alındı.<br/>sgk ile asgari ücret protokolü imzalandı. devlet her şeyde olduğu gibi bunda da kontrole gitmedi ama en azından sgk'ya dilekçe yazdığınızda asgari mühendis ücreti altında yatan primlerinizi şirkete tamamlattırabiliyordunuz. sgk tahsil ediyordu. sgk geçen yıl tek taraflı anlaşmayı feshetti.<br/>projelerin uygunluğu bağımsız tarafsız odalarca da onaylanıyordu onay alamayan müteahhit reisine ağlayınca tabi...<br/>serbest çalışma protokolü, makbuz, vergi kaçırmadan çalışma, meslek etiği yaptırımları, meslek içi eğitimler...<br/>ve evet her zaman tabi ki işçinin ve emekçinin yanında örgütlü yapılardır meslek odaları zorunuza mı gitti?<br/><br/>yani meslek odasıyla tek ilişiği oda belgesi alabilmek için aidat ödemek olanların “haraç kesmekten başka icraat yok” demesi beni benden alıyor.
+- entry_name: |
+    ilkokul öğretmenine söylemek istenen şeyler
+  entry_id:  74053209
+  entry_writer: ravagex
+  entry_fav_count: 20
+  entry_content: |
+    konuşuyoruz diye bana son hız attığın tebeşirin son anda eğilip arkadaki günahsızın alnına gelip saatlerce ağlamasının acısını halen hissediyorsundur umarım mal. emin ol her saniye haline gülüyordum anne babası veli toplantısında ağzına sıçarken.
 - entry_name: |
     7 şubat 2018 takip ve taciz edilmem rezaleti
   entry_id:  74064291
@@ -206,12 +185,26 @@ data:
   entry_content: |
     'bana neden baktın? 'sebebinden kavga çıkartıp, cinayete götürebilecek potansiyelde insanların 20 dakika takip ve göz hapsi ile yapılan ahlaksızlığı 'bundan bir şey olmaz' diyerek savunmaya çalıştıkları başlık haline gelmiş. <br/><br/>sözlüğün geldiği durum, ülkenin de geldiği durumu gösteriyor. yazık.
 - entry_name: |
-    meslek örgütlerinin lağv edilmesi
-  entry_id:  74063413
-  entry_writer: muhendis kadin
-  entry_fav_count: 19
+    emre belözoğlu
+  entry_id:  74053045
+  entry_writer: sarilarin selo
+  entry_fav_count: 18
   entry_content: |
-    zaten 10 yıldır adım adım her fırsatta tüm yetkileri elinden alınan meslek odaları fiilen susturulmuştur. kendi odam tmmob için konuşayım, şu memlekette 3-5 sit alanı birkaç cumhuriyet mimarisi bu yamyamların elinden kurtarılabildiyse mimarlar odası ve inşaat mühendisleri odası sayesindedir. üye sayıları ve mali güçleri olduğu için sonuna kadar direnirlerdi. o yüzden ilk iş mali kaynaklarını kesmek oldu. üyelik aidatı dışında proje denetleme gibi kalemlerden kazançları engellendi. <br/>odalar bu ülkede soldan yürür yollarına barikat kurmaları beklenen faşit harekettir. <br/>mücadeleye devam!<br/><br/>ha aidat almaktan başka ne iş yapıyor diyenlere birkaç örnek vereyim. hani teknoloji mühendisliği diye bi zırvalığa kalkıştılar. talep olmamasına rağmen arz yaratan meslek lisesi teknik öğretmenliği fakültelerini teknoloji fakültesi diye bir şeye çevirip mezunlarına da fark ders sınavı ile mühendis unvanı verdiler. odalar ne yaptı? şiddetle karşı çıktı. zaten talebin üzerinde arz sağlayan her ile açılan mühendislik bölümlerine itiraz ederken bir de bu haksız devşirme ile haksız rekabeti önlemek istediler. teknoloji mühendilerinin herhangi bir odaya kayıt yaptırarak imza yetkisi sahibi olamayacağı kararı alındı.<br/>sgk ile asgari ücret protokolü imzalandı. devlet her şeyde olduğu gibi bunda da kontrole gitmedi ama en azından sgk'ya dilekçe yazdığınızda asgari mühendis ücreti altında yatan primlerinizi şirkete tamamlattırabiliyordunuz. sgk tahsil ediyordu. sgk geçen yıl tek taraflı anlaşmayı feshetti.<br/>projelerin uygunluğu bağımsız tarafsız odalarca da onaylanıyordu onay alamayan müteahhit reisine ağlayınca tabi...<br/>serbest çalışma protokolü, makbuz, vergi kaçırmadan çalışma, meslek etiği yaptırımları, meslek içi eğitimler...<br/>ve evet her zaman tabi ki işçinin ve emekçinin yanında örgütlü yapılardır meslek odaları zorunuza mı gitti?<br/><br/>yani meslek odasıyla tek ilişiği oda belgesi alabilmek için aidat ödemek olanların “haraç kesmekten başka icraat yok” demesi beni benden alıyor.
+    hiç bir taraftar uğraşmasın, bu sene başakşehiri şampiyon yapacaklar allayıp pullayıp satacaklar, yeni başakşehir de geliyor alt ligden. ümraniyespor. herkes farkında ümraniyenin korunduğundan ama kimse sesini çıkarmıyor yazık
+- entry_name: |
+    falcon heavy'yi türkler fırlatsaydı olacaklar
+  entry_id:  74056869
+  entry_writer: beeyore
+  entry_fav_count: 16
+  entry_content: |
+    maliyeti 90 milyon değil, 900 milyon tl olurdu. <br/><br/>bildiğim tek şey budur. sevgiler.
+- entry_name: |
+    bitcoin
+  entry_id:  74063388
+  entry_writer: gecengunyine
+  entry_fav_count: 16
+  entry_content: |
+    aynen fiyatı düştüğü için altcoin piyasası acayip hareketlendi ve bir sürü ico çıktı. ne kadar aptal şeyler yazıyorsunuz ya referans linki paylaşacağım diye.<br/>(bkz: <a class="b" href="/?q=al+%c5%9fu+be%c5%9f+liray%c4%b1+siktir+git">al şu beş lirayı siktir git</a>)
 - entry_name: |
     kadınların bazı haklarının geri alınması gerektiği
   entry_id:  74063916
@@ -220,19 +213,12 @@ data:
   entry_content: |
     atatürk'ün verdiği hakları geri alma konusunda ekşi sözlük'teki aşağılık geri zekalı 31ciler hariç destek görebileceğin bir yer olmayacak furkan. ayrıca yds'den 55 alıp akademisyen olmuş birinin hak hukuktan bahsetmesi saçma olmuş. kim bilir kimlerin hakkını yedin şimdiki terörist eski dostların sayesinde o kadroya yerleşirken. <br/><br/>sözlük'teki kadın düşmanlığına oynamakla yağlı kapı bulmuşsun. sen ve senin gibileri akademide, sözlük'te şurada burada barındıran, destek çıkan herkesle ilgili düşüncelerimi şimdi yazmayacağım ki entry silinmesin.
 - entry_name: |
-    sen anlat karadeniz
-  entry_id:  74066648
-  entry_writer: daminustundekisaksagan
-  entry_fav_count: 14
+    aysel gürel
+  entry_id:  74047253
+  entry_writer: alchoburn
+  entry_fav_count: 13
   entry_content: |
-    her iki repliklerinden biri " karadeniz insanı şöyledir, böyledir " olan dizi. <br/><br/>karadeniz insanı iyi de biz orosbu çocuğu muyuz anlamadım ki?
-- entry_name: |
-    emre belözoğlu
-  entry_id:  74053045
-  entry_writer: sarilarin selo
-  entry_fav_count: 14
-  entry_content: |
-    hiç bir taraftar uğraşmasın, bu sene başakşehiri şampiyon yapacaklar allayıp pullayıp satacaklar, yeni başakşehir de geliyor alt ligden. ümraniyespor. herkes farkında ümraniyenin korunduğundan ama kimse sesini çıkarmıyor yazık
+    google'ın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/logos/doodles/2018/aysel-gurels-89th-birthday-5553469934010368.3-l.png" title="https://www.google.com.tr/logos/doodles/2018/aysel-gurels-89th-birthday-5553469934010368.3-l.png">doodle</a>'ı ile tekrar andığımız, çağımızın en güzel delisi &lt;3
 - entry_name: |
     xiaomi
   entry_id:  74048259
@@ -241,20 +227,6 @@ data:
   entry_content: |
     türkiye/avrupa pazarına resmi olarak girmeyerek git gide müşteri kaybeden firma. xiaomi avrupa pazarına girmemesini "henüz hazır değiliz,çin pazarında pişiyoruz" açıkladı. fakat ürünleri bu pazarlarda da yok satıyor. türkiye'de bu sene en çok satılan 5 telefon arasına mi 6 rahat rahat girer. fakat ürünlerin arkadasında kimseyi bulamayınca soğuyorsunuz. <br/>yurtdışından gelen xiaomi mi 5 cihazımı 1,5 yıldır kullanıyorum. batarya kapasitesi çok düştü 3 saat gidiyor batarya.neden ? orjinal şarj aleti bozuldu ve o zamanlar orijinal şarj aleti bulamadığım için başka şarj aleti kullanmak zorunda kaldım. şu an türkiye'de satış yapan ithalatçılar cihazıma bakmıyor. xiaomi firmasına mail attım bana bataryayı satın alabileceğim bir site,bir yer gösterin çinden bile olsa sipariş ederim dedim resmi olarak satış yapmıyoruz kimden aldıysanız oraya gidin dediler. şimdi mecburen yan sanayi batarya takıp telefonu mahvedeceğim. <br/><br/>yine yurtdışından mi drone aldım. gimbal yamuk,görüntü 5 derece yatık.karşımda bunu nasıl düzelteceğimi anlatacak bir muhatap yok. internette altına kitap koyun kalibre edin yazıyor. ben 2 bin lira verip drone alacağım,kitap ile göz kararı kalibre edeceğim. <br/><br/>yine yurtdışından xiaomi amazfit aldım,telefon dili türkçede olunca bağlantı kopuyor ve hafızadaki herşey siliniyor. <br/>uygun fiyata iyi cihazlar almak mantıklı fakat ufak görünen,o cihazı işlevsizleştiren bir sorun olunca cihazın fiyatı önemsiz oluyor.
 - entry_name: |
-    evden işe işten eve tipteki insan modeli
-  entry_id:  74063155
-  entry_writer: welcometofreakshow
-  entry_fav_count: 12
-  entry_content: |
-    son dönemlerde benimdir. insanlara katlanma eşiğim giderek düştü. sırf sosyal ortama girmek için rol kesme işi 20’lerin başında daha kolaydı sanki. ama artık başaramıyorum malesef.
-- entry_name: |
-    aysel gürel
-  entry_id:  74047253
-  entry_writer: alchoburn
-  entry_fav_count: 11
-  entry_content: |
-    google'ın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/logos/doodles/2018/aysel-gurels-89th-birthday-5553469934010368.3-l.png" title="https://www.google.com.tr/logos/doodles/2018/aysel-gurels-89th-birthday-5553469934010368.3-l.png">doodle</a>'ı ile tekrar andığımız, çağımızın en güzel delisi &lt;3
-- entry_name: |
     sözlük yazarlarının fransızca seviyeleri
   entry_id:  74055336
   entry_writer: vagabondo
@@ -262,19 +234,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=vous+avez+bais%c3%a9+le+format+du+site">vous avez baisé le format du site</a>)
 - entry_name: |
-    airdrop
-  entry_id:  74050096
-  entry_writer: lateralusz
-  entry_fav_count: 7
-  entry_content: |
-    eğer siz de benim gibi <a class="b" href="/?q=bitcoin">bitcoin</a> ve <a class="b" href="/?q=altcoin">altcoin</a> piyasasını yakından takip ediyor ve işin içine girmeye bir türlü kendinizi ikna edemiyorsanız finans sitelerinde şansınızı denemek için bu airdroplar aracılığıyla alacağınız tokenların size yardımcı olacağı tanıtım olayıdır. bunu anlamak için öncelikle altcoin mantığını da kavramak gerekir. altcoinlerin temel mantığı projelerdir. yani aslında her bir altcoin bir projedir. piyasaya sokulacak bu coin aracılığıyla proje, katılımcılar tarafından desteklenir ve bir taban oluşur, bu süreçte proje sahipleri ico ismi verilen bir süreç başlatırlar. bu bir nevi coin'in erken indirimli satış dönemidir. projeler genellikle fütüristiktir ve özellikle siperpunk filmlerde gördüğünüz sistemlerle de benzer özellikler taşır. proje ne kadar kaliteli ve iddialı ise coininin de tutma olasılığı o kadar yüksektir. sonuç olarak projelerini tanıtan proje yaratıcıları ico (initial coin offering) ile tanıtım yaparlar ve insanlara airdrop aracılığıyla da üçer beşer bu <a class="b" href="/?q=token">token</a>ları dağıtırlar. projelerin sağlamlığına, dağıtılan ve basılan coin miktarına bakarak istediğiniz herhangi bir tanesine üyelik alabilir ve böylelikle elinize geçen tokenlar hayata geçirildiğinde ve borsaya giriş yaptığında finans sitelerinde al-sat yapabilirsiniz. böylelikle başlangıç için cebinizden para çıkarmadan da bu projelerin tanıtımı vasıtasıyla bu pazara ufak bir giriş yapabilirsiniz, yeni olanlar ve airdroplar aracılığıyla bir şeyler yapmak isteyenler için de ayrıntılı bir şekilde anlatıyorum.<br/><br/>eğer bu şekilde pazara giriş yapmak isterseniz tokenların taban coini olan <a class="b" href="/?q=ethereum">ethereum</a>'un cüzdanını açmanız gerekiyor. bunun için en bilindik ve en güvenli cüzdan olarak <a rel="nofollow noopener" class="url" target="_blank" href="https://www.myetherwallet.com/#generate-wallet" title="https://www.myetherwallet.com/#generate-wallet">myetherwallet</a> kullanılır genelde. buradan bir şifre girip verilen yönergelere göre cüzdanınızı oluşturuyorsunuz. buradaki cüzdan kodunuz sizin iban kodunuz gibi bir şeyiniz oluyor. bunu bir kenara kopyalayın çünkü eğer airdroplara katılacaksanız bir <a class="b" href="/?q=telegram">telegram</a> (mobil) hesabıyla beraber ihtiyacınız olan bir numaralı şey olacak. bir sonraki yapmanız gereken ise eğer yoksa whatsapp benzeri fakat daha geniş bir içerik olanağı sunan telegram isimli mobil uygulamayı telefonunuza indirdikten sonra tarayıcınıza uygun telegram uzantısını indirmek. uzantıyla beraber web telegram kullanmak süreci sizin için oldukça rahatlatacaktır. (dikkat etmeniz gereken bir nokta var, birçok airdrop üyeliğinde size "telegram id"niz sorulacak, bu telegramda kullandığınız isim değil, telegram ayarlarından kendinize bir id almanız gerekiyor, telegram id istendiğinde bu aldığınız id'yi yazacaksınız kendi isminizi değil) sonrasında ise projelere kendi çapımda yaptığım analizleriyle beraber göz atalım. herkes refli linklerini vermiş geçmiş, ben teker teker sizlere bütün projeleri açıklayacağım, kafanıza yatana katılırsınız. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://vy.tc/eigaZ92" title="http://vy.tc/eigaZ92">ethereum soft</a>: aldığınız ethereum adresiyle beraber üye olup yönergeleri takip ettiğinizde airdrop'a katılmaya hak kazanmış oluyorsunuz, daha fazla arkadaşınızı yönlendirerek daha fazla token alabiliyorsunuz. bilindiği üzere bitcoin'in ardından altcoinler arasında en büyük çıkışı ethereum yaptı. ethereum'un kendine adeta bir ekosistem kurdu ve tokenlar aracılığıyla finansal ve teknolojik projelere yer verdi. ethereum ve token arasındaki ilişki oldukça karmaşık ve kafa kurcalayıcı. fakat özetle ethereum'un stabil bir altcoin olarak kendine yer edinmesindeki en büyük pay, alt dalları olarak niteleyebileceğimiz ve burada anlattığımız projeler ve proje tokenları ile tabanını kuvvetlendirmesidir. ethereum soft ise kendi adıyla ve aynı yaratıcı kadrosuyla açılan bir proje. projenin amacı tamamen yeni ve genç bir kriptopara oluşturarak aslında bir nevi yatırımcıların yeni odağı olmak. tamamen güvenli, blockchain tabanlı, şeffaf ve geleceğe yönelik bir kriptopara olma hedefleri bulunmakta. arkasında bulunan proje geliştiricileri sebebiyle şu an en güvenilirlerden bir tanesi. ana siteye <a rel="nofollow noopener" class="url" target="_blank" href="http://ethereumsoft.co/" title="http://ethereumsoft.co/">buradan</a> ulaşabilirsiniz. kendileri az bir miktarda bastıkları coinden airdrop aracılığıyla hatrı sayılır bir kısmını dağıtıyor. basılan/dağıtılan orantısı oldukça iyi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://airdrop.havven.io/?kid=KZQK8" title="https://airdrop.havven.io/?kid=KZQK8">havven</a>: bu airdrop adını neredeyse her yerde duyurdu ve oldukça geniş çaplı bir kampanya yürütüyorlar. projenin amacı tamamen stabil ve merkezden bağımsız bir kriptopara oluşturmak. milyon dolarlık coin basımı yapıyorlar ve yine bunun hatrı sayılır bir kısmını airdrop aracılığıyla paylaşıyorlar. klasik üyelik işlemlerini takip ederek ve yukarıda bahsettiğim ethereum cüzdanı ve telegram hesabı iliştirmelerini yaparak katılabiliyorsunuz. şu an ethereum soft ile beraber en güvenilir ve en bilindik token olma yolunda ilerliyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://airdropalert.com/cms/join/CEEK/7ce3bae7-7a91-3a00-a163-34ec619af3fa" title="https://airdropalert.com/cms/join/CEEK/7ce3bae7-7a91-3a00-a163-34ec619af3fa">ceek</a>: yine ethereum cüzdanızı ve telegram hesabınızı iliştirerek üyelik alarak katıldığınız bir airdrop. şahsen müzikle yakından ilgilendiğim için benim en çok dikkatimi çeken ve ico sürecinde yatırım yapmayı düşündüğüm bir proje. olayı ise büyük bir vr network oluşturup sanal konserler ve tiyatrolar düzenlemek. yani mesela buradan alacağınız bir vr aleti ile favori sanatçılarınızın konserlerini sanki gerçek konserdeymiş gibi izleyebilecek veya tiyatro salonundaymış gibi tiyatro izleyebileceksiniz. projenin ilk destekçilerinden bir tanesi ise ünlü thrash metal grubu <a class="b" href="/?q=megadeth">megadeth</a>. 2017 yılında çıkardıkları <a class="b" href="/?q=dystopia">dystopia</a> isimli albümlerinin vr patentini bu şirket satın aldı ve bu albümün de grammy kazanmasıyla beraber isimlerini duyurmuş oldular. (ironiye bak distopyayı anlatan albüm distopik bir geleceğe girişin adımlarını atıyor. tabi kime göre neye göre distopik orası da ayrı neyse.) şu an dystopia albümünün vr paketi hazırlanmış ve satışa sunuldu. katy perry, u2, elton john, lady gaga gibi sanatçılarla anlaşmalar yapmaya başladılar ve oldukça sağlam yapım şirketleriyle (mesela universal studios) de anlaşmaları var. sonuç olarak bu proje aracılığıyla ortaya çıkan tokenlar vr setler üzerinden konserler vb. satın almak için kullanılacak bir para birimi olacak. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://steward.friendz.io/go?r=NTk1NjA" title="https://steward.friendz.io/go?r=NTk1NjA">friendz ico</a>: burada da aynı şekilde ethereum cüzdanınızı iliştireceğiniz bir üyelik alıp yönergeleri takip ediyorsunuz. friendz markaları hedef kitleleriyle buluşturmayı amaçlamış bir şirket. bu amaçları doğrultusunda da bu projeyi gerçekleştiriyorlar. projedeki amaç ise dijital bir market ortamı oluşturup markaların kullanıcılarına daha rahat ulaşabilmesini sağlamak ve aynı zamanda hedef kitle ve marka arasındaki iletişimi kolaylaştırmak. yani reklamcılığa yeni bir boyut getirmek istiyorlar. kendileri şimdiye kadar 200 markayla anlaşmış ve bu projeyle büyük bir atılım gerçekleştirdiler. basım/dağıtım orantısı da oldukça makul. güvenilir projeler arasında sayabiliriz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://referral.dacc.co/nciND4Mj" title="http://referral.dacc.co/nciND4Mj">dac</a>: ethereum cüzdanı ve telegramınızı bağlayarak katılıyorsunuz ve üç hafta içerisinde size token'ı gönderiyorlar. açılımı decentralized audio center. adından da anlaşılabileceği gibi herhangi bir merkeze bağlı olmaksızın oluşturacakları bir coin sistemi ile müzisyenler ve yapım şirketleri ve proje ilerlerse dinleyiciler ve müzisyenler arasındaki para meselesini kökünden kolaylaştırma gibi bir amaçları var. mantıklı bir proje. oluşturdukları miktar ve yatırdıkları miktar arasındaki orantı biraz bozuk olsa da değerleneceğini düşünüyorum. eğlence sektörü ile kripto paraların buluştuğu projeler genellikle büyük destek alıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://oju.io/t/refer/KtjVHTFAl9M" title="https://oju.io/t/refer/KtjVHTFAl9M">ojut</a>: klasik üyelik prosedürünü takip ediyorsunuz, free claim butonuna tıklıyorsunuz ve telegram hesabınızı iliştiriyorsunuz, sonucunda beş dolar değerinde token veriyor. bu proje basit bir şekilde ulaşımın birçok alanında geçen bir para birimi olmayı hedefliyor. tur şirketleri ve ulaşım şirketleriyle anlaşmalar planlıyorlar ve böylelikle seyahat etmek isteyenleri birçok angarya işten kurtarmayı hedefliyorlar. bu sebeplerden ötürü oldukça ses getiren değerli bir proje haline geldi. bu da sağlam projeler listesinde. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ccrb.io/826749/r/EKN9GIQDDG" title="https://ccrb.io/826749/r/EKN9GIQDDG">ccrb</a>: üye olduktan sonra beş dolarlık ccrb token veriyorlar. henüz ico sürecindeyken borsaya girebilmiş çok sağlam bir proje. özetle kripto para aleminin paypal'ı olmaya çalışıyorlar. mesela en büyük hedefleri transfer ücretlerini tamamen kaldırmak. bu da sağlam projeler arasında.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://sphere.social/?ref_code=9iq8w0tjr4py" title="https://sphere.social/?ref_code=9iq8w0tjr4py">social sphere</a>: bu da sağlam ve mantıklı projelerden bir tanesi. üyelik alıp gerekli işlemleri yaptıktan sonra token alabiliyorsunuz. bu projenin mantığı ise şu şekilde: mesela bugün facebook, twitter vb. kullandığınız sosyal medya sitelerinde size ait olan birçok kişisel bilginiz kullanılıyor ve bunlar özellikle kişiselleştirilmiş reklamlarda kullanılıyor. aslında sizin üzerinizden bazı şirketler yüklü miktarda para kazanıyor, reklam kaynağı siz oluyorsunuz. social sphere projesi ise var olan bütün sosyal medya sitelerinden bağımsız ve merkezsiz bir sosyal medya alanı kurarak bütün kontrolü size vermeyi hedefliyor. yani kişisel bilgileriniz reklam için kullanılacak mı kullanılmayacak mı buna siz karar veriyorsunuz ve eğer kullanılırsa da parayı siz alıyorsunuz, herhangi bir şirket değil. bu tokenlar da bu sistemin bel kemiği olacak. mantıklı projelerden bir diğeri de bu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://u.network/Airdrop/7KTtTuaF61" title="http://u.network/Airdrop/7KTtTuaF61">unetwork</a>: ethereum cüzdan kodunuzu girip, size verilen kodu telegrama girip oraya yapıştırıyorsunuz, üyelik gerekmiyor. projenin amacı online kurs ve sertifika almak isteyenleri tek bir ağda toparlayıp bu tokenlar aracılığıyla kurs ve sertifika şirketleri ve müşteri arasındaki para alışverişini kolaylaştırmak. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://s.tubi.top/?code=JSoZHj70" title="http://s.tubi.top/?code=JSoZHj70">tubi</a>: ethereum cüzdan kodunuzu girip, size verilen kodu telegrama girip oraya yapıştırıyorsunuz, üyelik gerekmiyor. bu ise fotoğraf ve video paylaşımı için kurulan bir proje. bu token sayesinde bir network oluşturup fotoğraf ve video paylaşımı/ticareti için bir sistem kuruyorlar. orantısı güzel ve artırılabiliyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://vy.tc/ej65343" title="http://vy.tc/ej65343">redvolution</a>: yine aynı şekilde ethereum cüzdan kodunuzla beraber üye olarak belli aşamaları kat ediyorsunuz ve katılıma hak kazanıyorsunuz. bu proje ise token cüzdanı olma yolunda ilerliyor. yani bir nevi ethereum cüzdanlarından bağımsız bir token cüzdanı yaratmak istiyorlar. bu doğrultuda açtıkları projenin coinleri de cüzdan için gerekli minimal transfer ücretlerini karşılayacak. vaatleri arasında p2p mesajlaşma ve saniyelik işlem hızı bulunuyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://drop.lino.network/?code=koy95YoL" title="https://drop.lino.network/?code=koy95YoL">lino</a>: ethereum cüzdan kodunuzu iliştirip twitter adreslerini takip etmeniz gerekiyor. bu proje ise twitch benzeri bir streaming servisi. abonelik ve bağış işlemlerini proje kapsamındaki token yönetimine alma hedefleri var. twitch gibi dev bir oluşumu yerinden edecek bir güce ulaşamaz fakat kripto para pazarı büyüdükçe bu proje önemli bir konuma ulaşır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://referral.current.us/?mwr=6402-dcb68e79" title="https://referral.current.us/?mwr=6402-dcb68e79">crnc</a>: lino'ya benzer bir streaming hizmeti sunan bir proje. lino'dan farklı olarak bu daha çok netflix'e benzeyen bir sistem. üyelik alıp siz de çevrenize dağıttığınız taktirde hatrı sayılır miktarda token veriyorlar. bu tokenlar yine abonelik işleminde kullanılacak. video haricinde müzik, podcast vb. hizmetleri sunmayı da amaçlıyorlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://r.cnntoken.io/invite?c=9af9c3" title="http://r.cnntoken.io/invite?c=9af9c3">cnn token</a>: telegram grubuna katılıp twitter adresini takip ettiğinizde 128 token veriyor. cnn blockchain hindistan menşeili bir içerik sağlayıcı şirket. proje kapsamında büyük bir içerik ekosistemi yaratma peşindeler. günümüzde içerik sağlayıcıların önemini göz önünde bulundurduğumuzda mantıklı bir proje olarak göz önüne geliyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://legitcoin.me/signup/ref/690890" title="https://legitcoin.me/signup/ref/690890">legitcoin</a>: mastercard'ın blockchain alemindeki eşdeğeri olma yolundaki bir proje. internet üzerinden alışverişlerde kriptopara kullanımını kolaylaştırmak gibi bir hedefleri var. bu da en büyük projelerden bir tanesi ve şu an bir legitcoin 1.68 dolar. siteye üye olduğunuzda size 5 legitcoin veriyor. değerlendirilmesi gereken sağlam projelerden.<br/><br/>bir de sadece ethereum cüzdan kodunuzla beraber telegram üzerinden işlem yaptığınız airdroplar var. bunları da yapıp bir kenara atmış olun, işlemi çok daha kısa sürüyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t.me/ebcoin_bot?start=ı47rhc" title="http://t.me/ebcoin_bot?start=ı47rhc">ebcoin</a> (bu projenin amacı da dünya genelindeki free shoplarda geçerli para birimi olmak. böylelikle bütün işlemleri oldukça kolaylaştırmayı hedefliyorlar.)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t.housepanda.eu/hodl2bot?start=grkan9aec" title="http://t.housepanda.eu/hodl2bot?start=grkan9aec">housepanda</a> (bu ilginç bayağı, adamların token sistemiyle çalışan bir süper bilgisayar kurmaya çalışıyorlar. bahsettikilerine göre dünyanın en güçlü 17. süper bilgisayarı olacakmış ve kriptoparaların ve normal piyasanın geleceğini tahmin edebilmek için kullanılacakmış. proje <a class="b" href="/?q=nvidia">nvidia</a> tarafından destekleniyor. oldukça iddialı ve sağlam desteği var projenin.)<br/><br/>evet, bu işlemleri yaptıktan sonra iki-üç haftalık bir süreç içerisinde tokenlar hesabınıza yatmaya başlıyorlar. sonrası sizin keyfinize kalıyor. ister tokenların değerlenmesini bekleyebilir ona göre hareket edersiniz isterseniz de direk bitcoin finans siteleri üzerinden al-sat yapmaya başlayabilirsiniz. aynı zamanda önemli olduğunu hissettiğiniz projeleri paylaşıp kazanacağınız token sayısını da artırabilirsiniz, tamamen size kalmış. hep beraber el ele siberpunk bir dünyaya adım adım.
-- entry_name: |
     geceye bir şiir bırak
   entry_id:  74047553
   entry_writer: tozasor
-  entry_fav_count: 5
+  entry_fav_count: 8
   entry_content: |
     van gogh kulağını kesip<br/>bir<br/>orospuya verdi<br/>orospu<br/>hunharca fırlattı<br/>kulağı<br/>sokağa tiksinerek.<br/><br/>van,<br/>orospular<br/>kulak<br/>istemezler<br/>para isterler<br/><br/>sanırım bu yüzden<br/>muhteşem bir<br/>ressamsın sen<br/>başka<br/>bir şeyden<br/>anlamadığından…
+- entry_name: |
+    türk ordusu'nun kimyasal silah kullandığı iddiası
+  entry_id:  74065779
+  entry_writer: gulsever
+  entry_fav_count: 6
+  entry_content: |
+    bu tip yalan haberler yapiliyorsa bilin ki turkiye cok dogru seyler yapıyor demektir. bugun mezopotamya esekleri avrupanin bilumum ulkelerinde eylem yapip bir de pesinden dayak yiyor. abd fransa sabah ve aksam olmak uzere gunde en az iki açıklama yapıyorsa bir seyler fena acitiyor demektir. <br/>ote yandan iran'in cikari daha baska. her seyden once mezhepcilik agir basiyor. turkiye bu operasyonla giderek gucleniyor. pek tabii guclenen bir komşu istemez zira kendisi de ayni topraklarda emellere sahip. yalan ve manipulasyonlarla hem devleti hem orduyu yipratma cabasi icerisindeler.<br/><br/>hadi onları anladik. iran, abd, fransa ile cok benzer cumleleri savuran anamuhalefet partisine ne oluyor? adeta turkiye üzerinde emelleri olanlarin yurtiçi subesi gibi. abd dis islerinin aciklamasina benzer aciklamayi kilicdaroglu da yapıyor.<br/><br/>hülasa bir seyler ulkemiz lehine dönüyor. ama icte ve dista cokca engelle karsilasacagiz. bunlari da goze alarak girdik zaten. devletin ilgili birimleri propagandalara etkili bir bicimde cevap ve karsilik vermeli.
+- entry_name: |
+    türkiye'nin uzaya test için göndereceği ilk nesne
+  entry_id:  74066419
+  entry_writer: lmca
+  entry_fav_count: 4
+  entry_content: |
+    pusulalı seccade
 - entry_name: |
     sözlük yazarlarının litvanca seviyesi
   entry_id:  74056065
@@ -282,6 +261,13 @@ data:
   entry_fav_count: 4
   entry_content: |
     (bkz: <a class="b" href="/?q=sarunas+jasikevicius">sarunas jasikevicius</a>)
+- entry_name: |
+    bir erkek olarak yaşanılan en büyük kız tacizi
+  entry_id:  74067932
+  entry_writer: tovbebismillah
+  entry_fav_count: 4
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%23dirent%c3%bcrk%c3%a7e">#direntürkçe</a>)
 - entry_name: |
     beşiktaş
   entry_id:  74047120
@@ -297,13 +283,6 @@ data:
   entry_content: |
     bu filme başyapıt diyenler çok garibime gidiyor. sevmiş/ beğenmiş olabilirsin ama bu film başyapıtsa dükkanı kapatalım gidelim yahu. <br/><br/>filmi bu ekip değil de başkaları çekseydi o zaman görürdük yorumları<sup class="ab"><a title="(bkz: swf)" href="/?q=swf" data-query="swf">*</a></sup><br/><br/>ortalama üstü çerezlik bir filmdir efendim izlemeyenler yorumları okuyup beklentilerini yukseltmesin.
 - entry_name: |
-    ilkokul öğretmenine söylemek istenen şeyler
-  entry_id:  74058533
-  entry_writer: welcometofreakshow
-  entry_fav_count: 3
-  entry_content: |
-    bana kötülük kavramını somut bir şekilde öğreten ilk insanlardan birisiniz. tahtayı göremiyor diye dövmek dahil her türlü psikolojik/fiziksel şidetti gösterdiğiz, salak muamelesi yaptığınız o çocuk şimdi kendi öğrencilerine asla sizin gibi davranmıyor. nasıl eğitimci olunmaması gerektiği konusunda üniversite eğitiminden daha çok şey kattınız bana. mesleki hayatımdaki başarımı size borçluyum.
-- entry_name: |
     7 şubat 2018 fenerbahçe giresunspor maçı
   entry_id:  74064768
   entry_writer: uber insan
@@ -311,12 +290,19 @@ data:
   entry_content: |
     salak mısınız olm siz? biz bile maçı siklemeyip çoluk çocukla çıkmışız adam gelmiş hahahaha yazıyor yenen gole. maç sakata gelse valbuş tek bacağı ile çevirir bu maçı amk bu maçtan mi medet umuyorsunuz?
 - entry_name: |
-    türkiye'nin uzaya test için göndereceği ilk nesne
-  entry_id:  74066419
-  entry_writer: lmca
+    7 şubat 2018 ales ve yds sınav ücretleri zammı
+  entry_id:  74067463
+  entry_writer: sen istiyor nick verejek 50 dolar daha
+  entry_fav_count: 3
+  entry_content: |
+    iş için sınav, sınav için iş kısır döngüsüyle bizi kediye atılmış yumak misali oyalayıp durduklarının kanıtıdır. bu kadar para veriyoruz 3 vesaitle sınav yerine gidiyoruz, sınavlara girmeden tırnağımıza kadar aranıp sınavdan sonra da '10 yıldır bu sınavlarda şike var' haberleri okuyoruz. delirmeyenler normal değil bu ülkede ben diyim.
+- entry_name: |
+    rte'yi eleştiren boksöre meydan okuyan boksör
+  entry_id:  74067805
+  entry_writer: gregoryhousemd
   entry_fav_count: 2
   entry_content: |
-    pusulalı seccade
+    (bkz: <a class="b" href="/?q=cellad%c4%b1na+a%c5%9f%c4%b1k+olmu%c5%9fsa+bir+millet">celladına aşık olmuşsa bir millet</a>) <br/><br/>yanındayız ünsal. vurduğun balyoz, yiyen nakavt olsun.
 - entry_name: |
     la casa de papel
   entry_id:  74063424
@@ -324,6 +310,13 @@ data:
   entry_fav_count: 2
   entry_content: |
     türk versiyonu için senaryo düzenlemelerini yapıyorum, sağlam bir yapımcı mesaj atsın, merkez bankasını değil tabi sarayı soyacağız. türkiye'de para insandan değerli olduğu için rehin olarak paraları alacağız, üstlerine benzin döküp, yaklaşırsanız yakacağız diyerek zaman kazanılacak sonra olaylar olaylar...
+- entry_name: |
+    yemek seks uyku yemek seks uyku
+  entry_id:  74068523
+  entry_writer: halledicezkamil
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=20%27li+ya%c5%9flar">20'li yaşlar</a>) ve (bkz: <a class="b" href="/?q=k%c4%b1br%c4%b1s">kıbrıs</a>)
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  74053294
@@ -339,17 +332,24 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=madame+bovary">madame bovary</a>)<br/><br/>cidden oturup, bacım derdin neydi senin diye sorasım var. hayatında olmayan neydi. aslında neyi aradın.<br/><br/>aslında o olmasa da (bkz: <a class="b" href="/?q=anna+karenina">anna karenina</a>) da olur.<br/><br/>hiç olmadı (bkz: <a class="b" href="/?q=bihter+ziyagil">bihter ziyagil</a>) olsun.<br/><br/>ama bunlardan biri olsun. kafamda mas manyak sorular var.
 - entry_name: |
-    eski sevgilinin unutulmayan sözleri
-  entry_id:  74062189
-  entry_writer: kucuk insomnik
+    tipsiz bir erkeği yakışıklı gösterebilecek şeyler
+  entry_id:  74052739
+  entry_writer: chekhov
   entry_fav_count: 0
   entry_content: |
-    "benim beddualarım bile incedir bilirsin. inşallah en romantik anınızda sevgiline adımla seslenirsin.''
+    ses, dosthane bir ses. çok pes olmayan, gülmek yakışan bir ses.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  74050802
-  entry_writer: sabah kacta kaldirayim
+  entry_id:  74068088
+  entry_writer: ciplak gotte saka olmaz
   entry_fav_count: 0
   entry_content: |
-    1 ay once yeni eve tasindik,bina 1 yillik ve henuz internet altyapisi cekilmemis durumda.<br/>turk telekoma bildirdigimde odenek yok deyip postaladilar beni.<br/>simdi ben bu altyapi olayini nasil hizlandirabilirim?<br/><br/>veya gecici olarak kullanabilecegim ekonomik bir kablosuz net varmidir?<br/><br/>tek derdim bu su an
+    merhaba arkadaşlar, saçmalamak serbest<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/kirilmisss">http://connected2.me/kirilmisss</a><br/><br/>peşin edit: erkek<br/><br/>not: kirilmisss alkollüyken aldığım bir isimdir, takmayın takılmayın o kadar.....
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  74068629
+  entry_writer: halledicezkamil
+  entry_fav_count: 0
+  entry_content: |
+    yıllarca dinledin, ne oldu ?<br/>okusan ne olur amk ?
 ---
