@@ -6,28 +6,28 @@ data:
     nihat doğan'lı survivor'ı izlemiyoruz
   entry_id:  74106237
   entry_writer: kuafor cengiz
-  entry_fav_count: 868
+  entry_fav_count: 889
   entry_content: |
     survivor'ı izleyen herkesi attığı <a rel="nofollow noopener" class="url" target="_blank" href="http://i.hurimg.com/i/hurriyet/75/0x0/55eabb6af018fbb8f893280d" title="http://i.hurimg.com/i/hurriyet/75/0x0/55eabb6af018fbb8f893280d">bu</a> twit ile mini etek giyen kadınların tecavüzü hakettiğini düşünen ve bunun sorumlusunun da laik sistem kabul eden bu adamı affetmiş, dediklerini unutmuş sayarım.<br/><br/>siz de bu adamın içinde yer aldığı şov programını izlemeden önce tekrar düşünün. hep kızdığınız "yaa bizim halk balık hafızalı, her şeyi unutuyor" dediğiniz insanlardan biri de sizsinizdir belki.<br/><br/>#survivorboykotu<br/><br/>edit: choud adlı yazar arkadaş başta olmak üzere sinirle yazdığım edit'lere tepki gösteren arkadaşlar; haklısınız, sildim hepsini. teşekkür ederim uyarınız için.<br/><br/>edit 2: tamam anladık. "zaten izlemiyordunuz" hiçbiriniz. izleyenler duysun diye destek verin o halde.<br/><br/>edit 3: destekler başladı. haydi bakalım. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.toplumsal.com.tr/magazin/sosyal-medyada-buyuk-kampanya-h15311.html" title="https://www.toplumsal.com.tr/magazin/sosyal-medyada-buyuk-kampanya-h15311.html">https://www.toplumsal.com.tr/…-kampanya-h15311.html</a><br/><br/>edit 4: bir moderatör ''nihat doğanlı'' şeklinde revize edebilirse ne güzel olur. hata etmişim orada.<br/><br/>edit 5: ne olur üç entry'den biri ''nihat doğan olmasa izleyecektiniz yani'' olmasın. hayır izlemeyecektik, ama ülkenin en çok izlenen şovu olduğu gerçeğini değiştiremeyiz. bari eşimiz dostumuz babaannemiz komşu teyzemiz izlemesin. bu kafada bir yarışmacı barındırdığını bilsinler yarışmanın. kumandaya uzanıp ''ben bu adamın olduğu yarışmayı izlemiyorum'' diyen bir kişi çıkarsa bile amacımıza ulaşmış oluruz. <br/><br/>geçen sene yarışmaya almayıp ''seneye yarışır ya, nasıl olsa unutur bunlar'' demişler belli ki. ''unutur bunlar''daki ''bunlar'' olmayalım, unutmayalım. unutmayabileceğimizi gösterelim.<br/><br/>coca-cola gibi büyük sponsorların laiklik karşıtı ve tecavüzü meşru gören biri ile markalarının yan yana gelmesine nasıl bakacaklarını da bekleyip göreceğiz.<br/><br/>edit 6: twit'i özgecan için değil mini etek giyen kadınlar için yazdığı söyleniyor. o yüzden giriş yazımı edit'ledim. karşımdaki düşmanım da olsa gerçeklik barındırmayan bir sav ile mücadele etmeyi yediremem kendime. ayrıca ''mini etek giyersen tecavüze uğraman normal'' cümlesi bile başlı başına boykotu haklı kılar.
 - entry_name: |
     continental reklamında türkiye'nin silinmesi
   entry_id:  74101033
   entry_writer: aggarui
-  entry_fav_count: 458
+  entry_fav_count: 462
   entry_content: |
     fındık kadar kıbrıs'ın kuyruğunu bile çizmeyi unutmamışlar ama.
 - entry_name: |
     furkan v. üyesinin çocuk pornosundan tutuklanması
   entry_id:  74100892
   entry_writer: el zikembe
-  entry_fav_count: 344
+  entry_fav_count: 348
   entry_content: |
     ooo dinci ve sapık. çok şaşırdım.
 - entry_name: |
     e-devlet'in efsane yoğunluk açıklaması
   entry_id:  74104170
   entry_writer: cas
-  entry_fav_count: 318
+  entry_fav_count: 319
   entry_content: |
     12 saatte 200000 talebin yarattığı yoğunluğun 2 saatte 110000 talebin yarattığı yoğunluktan daha az olduğunun belirtildiği açıklamadır.
 - entry_name: |
@@ -41,56 +41,56 @@ data:
     erdoğan'ı tanıyorsam seçimlerde hdp ile anlaşır
   entry_id:  74105501
   entry_writer: saviela
-  entry_fav_count: 255
+  entry_fav_count: 259
   entry_content: |
     ben mi yanlis anladim bi aciklayin. meral hanim son cumlede kocasini da gommemis mi?
 - entry_name: |
     afrin merkezine girilmesin kaybımız çok olabilir
   entry_id:  74099408
   entry_writer: zerdest
-  entry_fav_count: 217
+  entry_fav_count: 219
   entry_content: |
     gayet mantıklı öneri. <br/><br/>internet cafe’de counter oynayanları izleyen yancı pezevenk misali operasyon takip eden dallamalar tarafından kılıçdaroğlu’nun akıl sağlığı sorgulanıyor. açık arazi, köy tamam da şehirde nereden ne çıkacağını bilmeden, yabancı bir şehire o insanları yollamak sarsıcı sonuçlar verebilir.
 - entry_name: |
     her sınıfa diyanet temsilcisi dönemi
   entry_id:  74105931
   entry_writer: selim alai
-  entry_fav_count: 180
+  entry_fav_count: 199
   entry_content: |
     fettullahçı yapılanmanın yıllarca gizli gizli yaptığı şeyin devlet versiyonu.<br/><br/>(abiler bunu beğendi)
 - entry_name: |
     tarkan'ın baba olacağını duyurması
   entry_id:  74092905
   entry_writer: lazybones
-  entry_fav_count: 176
+  entry_fav_count: 177
   entry_content: |
     videoyu izledim ama baba olacağını şimdi öğrendim. odaklanması çok zor. adam sürekli gözleri açarak değişik bir mimik yapıyor. bir de dişlere beyaz led takmış insanın gözünü alıyor. meğer baba olacağını duyurmuş.
 - entry_name: |
     soy uygulamasının bu kadar popüler olma nedeni
   entry_id:  74098987
   entry_writer: gezentikelebek
-  entry_fav_count: 149
+  entry_fav_count: 150
   entry_content: |
     valla ben o başlıkta yazılanların dün+bugün vs en az %60'ını okudum, çok ama çok eğlendim, gözümden yaşlar geldi gülmekten. meğer ne kadar güzel kendiyle barışık insanlar varmış dedim, 40 yılın başı sözlükçüler sol frame'de "kadın şu şu şu olursa" başlıklarından kurtuldu fabrika ayarlarına döndü dedim. <br/>"annem selanik babam maraş ben yarı çomar'mıyım" diyen mi istersin, "cleeveland'liymişiz" diyen mi ;) "nenem sana nasıl kıyıp adını hurda koymuşlar" diyen mi, "dedeciğim seni bana göstermiyorlar" diyen mi "babamın babası bekar gözüküyor, yoksa .. yoksa ben??" diyen mi vs vs... bunları okurken farklı farklı çiçeklerin kokusu geldi sanki burnuma, hepimiz bir yerlerden göçmüş olsakta çok güzeliz farklılıklarımızla dedim. böyle zamanlarda herkes kendi gerçeğini kabullenip önümüze sererken (gönlünü karizma yapmadan açarken) çok daha güzeliz. o başlığa yazıp gülmeme sebep olan herkese çok tşk ederim...
 - entry_name: |
     jigolog arayanlar telefon numaram burada yazıyor
   entry_id:  74107793
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 135
+  entry_fav_count: 145
   entry_content: |
     hanımların dikkatine,<br/>jigolog makinesi ayağınıza geldi.<br/>doggy, misyoner, bacak omza pozisyonu yapılır.<br/>oral çekilir. <br/>beş dakikada yapılır,<br/>hemen orgazm edilir.
 - entry_name: |
     yuval noah harari'nin davos 2018 konuşması
   entry_id:  74106869
   entry_writer: aparullo
-  entry_fav_count: 129
+  entry_fav_count: 133
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=bg27nJb7Rck" title="https://www.youtube.com/watch?v=bg27nJb7Rck">şoradan</a> izlenebilir.<br/><br/>cüneyd zapsu <a class="b" href="/?q=ba%c4%9f%c4%b1ms%c4%b1z+d%c3%bc%c5%9f%c3%bcnebilen+son+insan+jenerasyonu">bağımsız düşünebilen son insan jenerasyonu</a> açıklamasında mealen şöyle demişti: "ben bu davos'a 90'ların başında katıldığımda o zamanlar çocuk olan <a class="b" href="/?q=bill+gates">bill gates</a> "akıllı telefonlar"dan bahsetmişti. dediği çıktı. bugün <a class="b" href="/?q=harari">harari</a>'yi izledim o da yakın zamanda düşüncelerimizin okunacağından, duygu ve düşüncelerimizin hack'leneceğinden ve elit bir grubun köle gibi diğer insanlar üzerinde hakimiyet kuracağından bahsediyor. demek ki sona yaklaşıyoruz."<br/><br/>ben bilmem. <a class="b" href="/?q=harari">harari</a>'nin konuşmasını izleyin, kararı kendiniz verin.
 - entry_name: |
     savaş karşıtı olduğu için yasaklanan çocuk oyunu
   entry_id:  74098803
   entry_writer: d e j i n
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     cihatçı piç yetiştirilmesini desteklemediği için yasaklanmıştır.
 - entry_name: |
@@ -101,6 +101,13 @@ data:
   entry_content: |
     dedemi canlandirip sorsak daha az eforlu ve maliyetli olurdu
 - entry_name: |
+    nevşin mengü'nün ekşi sözlük soru cevap videosu
+  entry_id:  74109859
+  entry_writer: pena
+  entry_fav_count: 91
+  entry_content: |
+    geçtiğimiz günlerde ekşi sözlük'e konuk olarak sözlük yazarlarının sorularını yanıtlayan <a class="b" href="/?q=nev%c5%9fin+meng%c3%bc">nevşin mengü</a>'nün birtakım sürprizli bölümler de içeren videosu.<br/><br/>izlemek için: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=01zgmy5Wuow&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=01zgmy5Wuow&amp;feature=youtu.be">https://www.youtube.com/…zgmy5wuow&amp;feature=youtu.be</a>
+- entry_name: |
     atatürk'ün ateist olduğunu kabullenememek
   entry_id:  74093430
   entry_writer: mermar
@@ -108,12 +115,12 @@ data:
   entry_content: |
     benim de anlam veremediğim durumdur.<br/>yalnız atatürk'ün ateist olma ihtimalini kabullenememek diye düzeltelim, sonuçta kişinin imanını biz bilemeyiz.<br/><br/>konuya tekrar dönecek olursak, atatürk eğer ateist ise de, deist ise de, müslüman ise de eğer mucize diye bir şey varsa türk milleti için gerçek bir mucizedir. inancı ya da inançsızlığı kimseyi ilgilendirmez. isterse mandalinaya tapsın, bu ülkenin kurucusu olduğu ve bu milletin onu her zaman minnetle anacağı gerçeği değişmez.<br/><br/>nasıl ki atatürk'ün inançsızlığı(?) üzerinden goy goy yapanların azalarak bitmesi gerekiyorsa aynı şekilde " hayır atatürk gerçek müslümandı, bu bu bu sözleri demiş, iftiracılar! " bıdı bıdısı yapanların da azalarak bitmesi gerekiyor.<br/><br/>benim düşüncem atatürk'ün ateist değil deist olduğu yönünde. cumhuriyet öncesin söylemlerinde açıkla islamı öven söylemleri var, belki bir zamanlar koyu bir müslümandır da, ama din ile ilgili cumhuriyet sonrası söylemleriyle cumhuriyet öncesi söylemleri arasında uçurum var.<br/><br/>"gökten indiği sanılan kitapların doğmaları” <br/>" arap oğlunu yavelerini anlasınlar diye kuranı türkçeye çevirttim"<br/>"tanrı tarafından gönderildiğini söyleyen adamlar"<br/>"kuran'ın yasalarını muhammed yazmıştır" <br/>...<br/>gibi cumhuriyet sonrası söylemleri manevi yönden çok büyük değişimler yaşadığına işaret ediyor. şahsi fikrim, atatürk'ün cumhuriyetten sonra okumaya ve araştırmaya daha çok önem vermesiyle birlikte islamın aslında ne kadar çağ dışı ve insan onuruna ne kadar aykırı olduğunu görmesiyle deist ya da agnostik olduğunu düşünüyorum (yaratıcıyı reddeden herhangi bir söylemine rastlamadığım için ateist olduğunu düşünmüyorum).<br/><br/>ölmeden yaklaşık bir sene önce ankara'da verilen bir davette romanya dışişleri bakanına söylediği şu sözler de manevi bir arayış(doğru kelime mi bilemedim) içinde olduğunu gösteriyor.<br/><br/>"..zamanında kitaplar karıştırdım. hayat hakkında filozofların ne dediklerini anlamak istedim. bir kısmı her şeyi kara görüyordu. “mademki hiçiz ve sıfıra varacağız, dünyadaki geçici ömür sırasında sevinç ve mutluluğa yer bulunmaz” diyorlardı. başka kitaplar okudum, bunları daha akıllı adamlar yazmışlardı. diyorlardı ki: “mademki sonu nasıl olsa sıfırdır, hiç olmazsa yaşadığımız sürece şen ve neşeli olalım.” ben kendi karakterim bakımından ikinci hayat görüşünü beğeniyorum, fakat şu sınırlar içinde: bütün insanlığın varlığını kendi şahıslarında gören adamlar zavallıdır. "<br/><br/>böyle düşünmemin nedenlerinden biri kendimin de dindarlıktan deizme geçişimin inandığım dini daha çok anlamak istememle, kuranı, hadisleri, tevrat'ı, incil'i, dinlere ilişkin eleştiri kitaplarını okumamla başlaması. okudukça islamdan ve diğer dinlerden daha çok şüphe eder hale geldim, şüphelerim arttıkça daha çok okudum, okdukça din denen zehirden nefret eder hale geldim. zaten bir insanın islamiyeti terketmesi için sadece kuran mealini okuması bile yeterli.<br/><br/>atatürk'ün kuran'ı türkçe'ye çevirmesiyle ilgili şöyle bir sözü var :<br/><br/>"türkler dinlerinin ne olduğunu bilmiyorlar. bunun için kur’an türkçe olmalıdır."<br/><br/>evet aynen öyle türkler dinlerinin ne olduğunu hala bilmiyor, bilseler zaten terkedecekler. yobazların arapça ısrarı da bu yüzden. <br/><br/>kuran'ın türkçe'ye çevrilmesiyle ilgili kazım karabekir'e söylediği şu sözlerde <br/>bence atatürk'ün islama bakış açısını özetliyor.<br/><br/>"evet karabekir, arap oğlunun yavelerini türk oğullarına öğretmek için kur’ân’ı türkçeye çevirttireceğim. ve böylece de okutacağım. ta ki budalalık edip de aldanmakta devam etmesinler…"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.wikizero.info/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvQXRhdMO8cmsnw7xuX2RpbsOuX2luYW5jxLE" title="http://www.wikizero.info/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvQXRhdMO8cmsnw7xuX2RpbsOuX2luYW5jxLE">şurda</a> atatrük'ün islamla ilgili görüşlerinden bazılarını okuyabilirsiniz.<br/><br/>bir müslüman inandığı dini bilmediği için hala müslümandır deyip bitirmek istiyorum.<br/><br/>edit:imla
 - entry_name: |
-    nevşin mengü'nün ekşi sözlük soru cevap videosu
-  entry_id:  74109859
-  entry_writer: pena
+    uçakta kadın-erkeğin yan yana oturabilmesi
+  entry_id:  74112317
+  entry_writer: yedinci element
   entry_fav_count: 88
   entry_content: |
-    geçtiğimiz günlerde ekşi sözlük'e konuk olarak sözlük yazarlarının sorularını yanıtlayan <a class="b" href="/?q=nev%c5%9fin+meng%c3%bc">nevşin mengü</a>'nün birtakım sürprizli bölümler de içeren videosu.<br/><br/>izlemek için: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=01zgmy5Wuow&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=01zgmy5Wuow&amp;feature=youtu.be">https://www.youtube.com/…zgmy5wuow&amp;feature=youtu.be</a>
+    tren otobüste o olgunluğa erişmek yerine yakında uçakta da çemkirmeye başlarız çünkü ileri değil geri giden bir toplumuz.
 - entry_name: |
     sözlük ergenlerinde artan kadın düşmanlığı
   entry_id:  74108819
@@ -122,12 +129,19 @@ data:
   entry_content: |
     sözlükte <a class="b" href="/?q=the+red+pill">the red pill</a> denen nanenin iyiden iyiye yayılmasıyla artan kadın düşmanlığıdır. <br/><br/>bu kişilerin en temel özellikleri; başkalarının haklarına saygılı, sağduyulu erkeklere "<a class="b" href="/?q=meri%c3%a7">meriç</a>, ibne kılıklı, <a class="b" href="/?q=pembe+g%c3%b6tl%c3%bc">pembe götlü</a>" gibi yakıştırmalar yapmalarıdır. <a class="b" href="/?q=alfal%c4%b1k">alfalık</a>, betalık diye atıp tutarlar ve sağa sola erkeklik taslarlar. onlar için yaşamdaki hezeyanlarının neredeyse tamamı yeterince "erkek" olamamaktan kaynaklıdır. sanki <a class="b" href="/?q=feminizm">feminizm</a> kamuoyunda yaygın bir teveccüh görmüş ve medeniyetin önündeki en büyük engelmişçesine yel değirmenleriyle savaşır gibi feminizmle savaşırlar. yaşadığı tacizi anlatan kadınlara <a class="b" href="/?q=attention+whore">attention whore</a> derler. birçoğunun profillerine girip baktığınızda hükümetin eylemleri üzerinden de erkeklik kastıklarına şahit olabilirsiniz. savaş çığırtkanlığı yapmaktan geri durmazlar. çünkü şiddet ve güç erkekliğin kendini gerçekleştirdiği bir zemindir. nasıl sağduyulu erkeklere meriç, tacize uğrayan kadınlara attention whore diyorlarsa savaş hakkında mütereddit insanlara da <a class="b" href="/?q=vatan+haini">vatan haini</a> demekten geri durmazlar. <br/><br/>bu şekilde kolektif bir akıl tutulmasından daha tehlikeli bir durum varsa bu akıl tutulmasının bilimsel temellere dayandırılmasıdır. the red pill öğretisi <a class="b" href="/?q=evrimsel+psikoloji">evrimsel psikoloji</a>ye dayanan bir öğretidir. günümüz psikoloji dünyasında evrimsel psikolojiye dayalı bir kuram ortaya koyan bilim adamını taşlarlar. o derece literatürde itibarsız bir alandır. ancak yine de red pill ergenlerinin kendilerini doğrulaması konusunda işlevseldir.<br/><br/>ayrıca şunu da buraya bırakıyorum. asıl eziğin kadınlara hakaret edenler olduğunu izah eden güzel bir çalışma:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131613" title="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131613">http://journals.plos.org/…1371/journal.pone.0131613</a>
 - entry_name: |
-    uçakta kadın-erkeğin yan yana oturabilmesi
-  entry_id:  74112317
-  entry_writer: yedinci element
-  entry_fav_count: 45
+    bir erkek olarak yaşanılan en büyük kız tacizi
+  entry_id:  74096170
+  entry_writer: domuzkokorec
+  entry_fav_count: 65
   entry_content: |
-    tren otobüste o olgunluğa erişmek yerine yakında uçakta da çemkirmeye başlarız çünkü ileri değil geri giden bir toplumuz.
+    fantazilere gel.
+- entry_name: |
+    suriyeliler'in istanbul'a girişinin yasaklanması
+  entry_id:  74110477
+  entry_writer: aparullo
+  entry_fav_count: 38
+  entry_content: |
+    istanbul'a vizeyle girildiğini de öğrenmiş olduk. hatay'dan gelen suriyeliyi yalova sınır kapısında engellerler artık.
 - entry_name: |
     continental'i boykot ediyoruz
   entry_id:  74103060
@@ -136,19 +150,12 @@ data:
   entry_content: |
     yaşar grubu yöneticisinin bir lafına bakarak, pınar boykotunu destekleyenler, ülkesinin haritadan silinmesi gibi bir rezalete imza atmış firmayı boykot edenleri liseli olmakla, galeyana gelmekle, tatava yapmakla suçluyor. iki yüzlüsünüz. <br/><br/>lafımı yanlış anlayacaklar mutlaka çıkacaktır. peşinen belirteyim ki, pınar boykunu referandum gecesinden beri sürdürüyorum ve sonuna kadar haklı buluyorum.
 - entry_name: |
-    suriyeliler'in istanbul'a girişinin yasaklanması
-  entry_id:  74110477
-  entry_writer: aparullo
-  entry_fav_count: 36
+    hayatı çekilir kılan detaylar
+  entry_id:  74108458
+  entry_writer: laagland
+  entry_fav_count: 34
   entry_content: |
-    istanbul'a vizeyle girildiğini de öğrenmiş olduk. hatay'dan gelen suriyeliyi yalova sınır kapısında engellerler artık.
-- entry_name: |
-    53 lira hesap kitlenen dh ölücüsü
-  entry_id:  74093527
-  entry_writer: gui de souza
-  entry_fav_count: 30
-  entry_content: |
-    hak edene hak ettiğini vermiş olan bir genç kardeşimiz, gerçek anlamda aslan parçası. istediğiniz yerinden çekiştirin bu konuda söz konusu asalakları haklı çıkaracak en küçük bir nokta bulmak mümkün değil. bizim görgüsüzler bilmez ama genel bir görgü kuralı der ki "hesabı davet eden öder". bu kişi kadın da olsa, erkek de olsa kural budur. kaldı ki davet edilen aslan parçası 2-3 lira için bile başkasına yük olmak istememiş kendi hesabını masaya bırakmaya yeltenmiş ama doğuştan parazit hatunlar kendi hesaplarını da çocuğa iteleyip kaçmış.<br/><br/>yüzsüz insan nezaketten anlamaz. yüzsüze, edepsize, çomara hakkını vereceksin. susup efendilik etmek, lafını etmek bana yakışmak demek yerine ahlaksızlıklarını yüzlerine vuracaksın. çünkü bu ahlak yoksunları, terbiyeli insanların ar duygusundan alıyorlar bu cesareti.
+    aksam sıcak evime gelince, kapımı kapattığım andan itibaren gelen, tüm o kişiliksiz, karaktersiz ve pislik insanlardan ve o insanların dünyasından uzak olduğum hissi........
 - entry_name: |
     sözlükçülerin 2018 yılı zam oranları
   entry_id:  74102760
@@ -157,12 +164,12 @@ data:
   entry_content: |
     4 yıldır çalışıyorum, %10 oranında zam aldım. <br/>yumurtaya %16 zam geldi, bana %10.
 - entry_name: |
-    hayatı çekilir kılan detaylar
-  entry_id:  74108458
-  entry_writer: laagland
+    e-devlete giremediği için vatandaşı suçlayan tip
+  entry_id:  74103156
+  entry_writer: kayayi delen incir
   entry_fav_count: 28
   entry_content: |
-    aksam sıcak evime gelince, kapımı kapattığım andan itibaren gelen, tüm o kişiliksiz, karaktersiz ve pislik insanlardan ve o insanların dünyasından uzak olduğum hissi........
+    ancak türkiye'de görülebilecek bir kafasızlığın sahibidir. twitter, facebook gibi yerlerde çokça görülür.<br/><br/>bakalım neymiş olay; devlet bir hizmet sunmuş ve bu hizmeti de e-devlet üzerinden vermeye karar vermiş ama aynı devlet o kadar kayserili esnaf mantığında ki hiç bir boku beceremediği gibi bunu da becerememiş site çökmüş. bu devlete çok yakışan salak tipler de "bönöm öşöm vor kordoşum" moduna girip işlerini bu vatandaşlar yüzünden halledemediğini iddia eden beyinsizlik dolu yazılar yazmışlar...<br/><br/>arkadaşlar suç siteye girip devletin vaat ettiği hizmeti almaya çalışan masum vatandaşta değil. suç siteyi kartonpiyerden yapıp tükürükle yapıştıran embesil, beyinsiz site yetkililerinde. lütfen sövecekseniz onlara sövün amk manyak mısınız siz?
 - entry_name: |
     hayat kalitesini düşüren şeyler
   entry_id:  74108141
@@ -171,12 +178,12 @@ data:
   entry_content: |
     <a class="b" href="/?q=stres">stres</a><br/>“duvarı nem, insanı gam öldürür.”<br/><a class="b" href="/?q=dengesiz+beslenme">dengesiz beslenme</a><br/>“bir kaptan kırk lokma değil, kırk kaptan birer lokma ye”.<br/><a class="b" href="/?q=mutsuzluk">mutsuzluk</a><br/>“herkes sakız çiğner, çingene tadını çıkarır”. <br/><a class="b" href="/?q=kin">kin</a><br/>“birinden nefret etmek, insanın kendi içine kurt koyması demektir. hayatını kemirir”. pearl s. buck
 - entry_name: |
-    e-devlete giremediği için vatandaşı suçlayan tip
-  entry_id:  74103156
-  entry_writer: kayayi delen incir
-  entry_fav_count: 26
+    pahalı arabayla 7 kız tavlamak
+  entry_id:  74111938
+  entry_writer: normalman
+  entry_fav_count: 24
   entry_content: |
-    ancak türkiye'de görülebilecek bir kafasızlığın sahibidir. twitter, facebook gibi yerlerde çokça görülür.<br/><br/>bakalım neymiş olay; devlet bir hizmet sunmuş ve bu hizmeti de e-devlet üzerinden vermeye karar vermiş ama aynı devlet o kadar kayserili esnaf mantığında ki hiç bir boku beceremediği gibi bunu da becerememiş site çökmüş. bu devlete çok yakışan salak tipler de "bönöm öşöm vor kordoşum" moduna girip işlerini bu vatandaşlar yüzünden halledemediğini iddia eden beyinsizlik dolu yazılar yazmışlar...<br/><br/>arkadaşlar suç siteye girip devletin vaat ettiği hizmeti almaya çalışan masum vatandaşta değil. suç siteyi kartonpiyerden yapıp tükürükle yapıştıran embesil, beyinsiz site yetkililerinde. lütfen sövecekseniz onlara sövün amk manyak mısınız siz?
+    “7 adet” fazlaymış. kalanları paket yaptırsaymışsınız gençler, evde yerdiniz.
 - entry_name: |
     kadınlara saygı duyan erkekler
   entry_id:  74102590
@@ -185,24 +192,31 @@ data:
   entry_content: |
     kadınlardan zerre saygı görmeyecek erkeklerdir.
 - entry_name: |
+    fikret orman'ın maçlarımız ertelensin çağrısı
+  entry_id:  74111283
+  entry_writer: yarasiz yuz
+  entry_fav_count: 24
+  entry_content: |
+    haklı çağrıdır. zamanında uefa'da yarı final yapıp kupada devam ettiğimizde aynı çağrıyı biz de yapmıştık ama kimse siklememişti.
+- entry_name: |
     9 şubat 2018 badi sekmesinin adının takip olması
   entry_id:  74110718
   entry_writer: fsoceity
-  entry_fav_count: 18
+  entry_fav_count: 21
   entry_content: |
     ekşisözlük'ü ekşisözlük dışında bir şeye çevirme sürecindeki adımlardan en yenisi.
 - entry_name: |
-    pahalı arabayla 7 kız tavlamak
-  entry_id:  74111938
-  entry_writer: normalman
-  entry_fav_count: 17
+    e-devlet soy ağacı yoğunluğuna çözüm
+  entry_id:  74110826
+  entry_writer: t601
+  entry_fav_count: 20
   entry_content: |
-    “7 adet” fazlaymış. kalanları paket yaptırsaymışsınız gençler, evde yerdiniz.
+    sistemi adam etmektir.<br/><br/>turk usulu, "sen bugun git, yarin gelirsin... sen de persembeye gel"<br/><br/>bunlar ile anca oldugunuz yerde oyalanmaya devam edersiniz.<br/><br/>kumda oynamayi birakin.
 - entry_name: |
     akp'nin dizisi çekilse komedi mi olur dram mı
   entry_id:  74100246
   entry_writer: uyumayan prens
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     (bkz: <a class="b" href="/?q=trajikomedi">trajikomedi</a>)
 - entry_name: |
@@ -227,27 +241,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=refli+link+payla%c5%9fanlar%c4%b1+sikme+iste%c4%9fi">refli link paylaşanları sikme isteği</a>)<br/>yeter amk çocukları yeter. <br/>siktirin gidin airdrop başlığında falan umutlanın.<br/>şuraya piyasa hakkında 2 kelam bilgi öğrenmek için giriyoruz, 5 para etmeyen ve hiçbir zaman da etmeyecek olan ethereum soft adlı scam coin'in refli linklerinden geçilmiyor ortalık.<br/>amk dangalakları. <br/>referanslı link ile piyasada adını duyurmaya çalışan şu salak coinin yeni bir bitcoin white olacağını düşünecek kadar malsınız.
 - entry_name: |
-    e-devlet soy ağacı yoğunluğuna çözüm
-  entry_id:  74110826
-  entry_writer: t601
-  entry_fav_count: 14
-  entry_content: |
-    sistemi adam etmektir.<br/><br/>turk usulu, "sen bugun git, yarin gelirsin... sen de persembeye gel"<br/><br/>bunlar ile anca oldugunuz yerde oyalanmaya devam edersiniz.<br/><br/>kumda oynamayi birakin.
-- entry_name: |
-    tmmob'a üyelik zorunluluğunun kalkması
-  entry_id:  74102526
-  entry_writer: venusteki limon agaci
-  entry_fav_count: 13
-  entry_content: |
-    çok iyi olmuş aga o kadar aidatı alıp yatırmayınca hacizle tehdit ediyolardı :((((((((((((((<br/>desteklediğim uygulama oğluam bişe yaptıkları yoq ztn şahane uygulama.<br/><br/>tatlım benim içinde bulunduğum meslek örgütü <a class="b" href="/?q=tavla+turnuvas%c4%b1">tavla turnuvası</a> düzenliyor. t a v l a t u r n u v a s ı. hani düzenleyeceğin varsa da "hacı çok laubali kaçar ya yapmayalım istersen" dersin di mi? yok. o yüzden bırak da ben söveyim.<br/><br/>ülkenin içinde bulunduğu durumun tek müsebbibinin sandığımız üzere örgütlü cahillik grupları, sıradan çomarlar ya da siyasal islam olmadığı; içine saplandığımız bu bok çukurunun bizzat bizim okumuş ya da en azından bir odaya bağlı çalışabilecek niteliği haiz insanlarımız tarafından getirildiğinin ne kadar mükemmel bir kanıtı. çünkü paşam aidat vermek istemiyor ve haciz çok onur kırıcı:((<br/><br/>bak canım sana meslek örgütü nedir anlatayım. ttb'nin son çıkışıyla yaklaşık 10 senedir "ağzını açana kodesin kapılarını açar, tüm varlığını sikertirim. sizler de duydunuz mu ulan?" politikasından sonra böyle bir uygulamaya gidilmesi sende hiç ense kaşıntısına sebep olmuyor değil mi? çünkü en az yağmur suyu kadar safsın.<br/><br/>meslek örgütü dediğin şey, aynı mesleği paylaşanların bir araya gelip oluşturduğu örgütlü gücü aşan bazen baskı grubudur. iktidar talebi olmadığı gibi iktidarı etkileme-bak buraya dikkat et- iktidarın siyasal erkini sınırlama, denetim altına alma gibi bir hedefleri vardır. mesela sen sarı çizmeli mehmet ağa olarak ali ismail'in davasına müdahil olamazsın ama baro olur. sen, kanuna aykırı özelleştirilen kamu arazileri için kılını kıpırdatmazsın ama tmmob dava açar, çatır çatır hakkının hukukunun peşinden koşar. meslek örgütü dediğin şey, bir zamanlar siyasi mahkum olan arkadaşıma ruhsat veren baroya "derhal verdiğin ruhsatını geri al" diyen adalet bakanlığı'na siktiri çeken ve "kimin avukat olup olmayacağına ben karar veririm" diyen barodur. meslek örgütü dediğin şey, şehrin ortasına dikilmeye çalışılan ucubeleri açtığı davalarla çatır çatır söktüren tmmob'dur. senin meslek odası dediğin şey ali ismail'e, mesleğini icra ederken katledilen avukatlara, kedi yamuk'a müdahil olma yetisini elinde tutandır. meslek örgütü dediğin şey, değişebilir iktidarlar karşısında değişmeyen mesleki duruşu tavla turnuvası düzenlese de bir sonraki iktidar dönemine çatır çatır devredendir. sivil toplum kuruluşlarının olmadığı yerde sen basit bir plepsin. ama aidat ödemeyen bir plep:)<br/><br/>şimdi senin cebinden çıkan aidatı(yazarken bile kederden ellerim titriyor) aşan örgütlü duruşu muktedir hiç sevmiyor, anladın mı? çünkü üzerine ölü toprağı serpilmiş ve kör-sağır taklidi yapan yığınların izdihamlara sebep olduğu bu ülkede yine ağzını açan, "hayır" diyen, "bu kadarı fazla" diyebilen sadece meslek odaları kaldı. onun derdi senin sikimsonik aidatın değil karşısında 4 kişiden müteşekkil de olsa herhangi bir örgütlü dik duruşa katlanamaması. ha ama senin aidat evet.
-- entry_name: |
-    fikret orman'ın maçlarımız ertelensin çağrısı
-  entry_id:  74111283
-  entry_writer: yarasiz yuz
-  entry_fav_count: 13
-  entry_content: |
-    haklı çağrıdır. zamanında uefa'da yarı final yapıp kupada devam ettiğimizde aynı çağrıyı biz de yapmıştık ama kimse siklememişti.
-- entry_name: |
     tarkan'ın çocuğu için ad önerileri
   entry_id:  74103140
   entry_writer: seferoglu suphi
@@ -262,19 +255,19 @@ data:
   entry_content: |
     annemin saçlarının uzamaya başlaması bu gece ki neşe sebebim oldu. kökleri yenileniyor yeni saçları çıkıyor. kirpikleri ve kaşları yok denecek kadar lakin saçlarına mutlu olduk. seni seviyorum annem.
 - entry_name: |
-    geceye bir pişmanlık cümlesi bırak
-  entry_id:  74093091
-  entry_writer: macaas1
-  entry_fav_count: 8
-  entry_content: |
-    başlıyorum. <br/><br/>(bkz: <a class="b" href="/?q=selam%c3%bcn+aleyk%c3%bcm+dilara+ben+mustafa">selamün aleyküm dilara ben mustafa</a>)<br/><br/>(bkz: <a class="b" href="/?q=lanet+olsun+nerden+geldim+de+oturdum+masan%c4%b1za">lanet olsun nerden geldim de oturdum masanıza</a>)
-- entry_name: |
     ön sevişme türk erkeğinin sırtındaki bir kamburdur
   entry_id:  74099340
   entry_writer: orange blossom
-  entry_fav_count: 6
+  entry_fav_count: 9
   entry_content: |
     sahibine, "hani 'elim' diye başlamışsın ya, gerçi farklı anlamda kullanmışsın biliyorum ama aynen yine elinle devam et" diyesimi getirten iddia.
+- entry_name: |
+    9 şubat cuma a101 yoğurt rezaleti
+  entry_id:  74113687
+  entry_writer: gipsy dipsy doo
+  entry_fav_count: 8
+  entry_content: |
+    bu seride silikon yeterince çözünmemiş demekki.
 - entry_name: |
     insanı değiştiren şeyler
   entry_id:  74094764
@@ -286,7 +279,7 @@ data:
     tarkan
   entry_id:  74099047
   entry_writer: tarkanbenimleevlen
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     bu adam benim çocukluğumdan beri guilty pleasure’ım. evlendiğinde bir ay kadar küs kaldım kendisine, şimdi çocuk haberiyle yıkıldım. benimle evlenmeliydi.
 - entry_name: |
@@ -304,6 +297,13 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=ne+g%c3%bczel+kar%c4%b1s%c4%b1n+lan+sen">ne güzel karısın lan sen</a>)
 - entry_name: |
+    sözlük yazarlarının okumakta olduğu kitaplar
+  entry_id:  74111852
+  entry_writer: selimselim
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=franny+ve+zooey">franny ve zooey</a>)
+- entry_name: |
     2018 pyeongchang kış olimpiyatları
   entry_id:  74108814
   entry_writer: invictus
@@ -317,13 +317,6 @@ data:
   entry_fav_count: 0
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=1AJPHnsjuXM" title="https://www.youtube.com/watch?v=1AJPHnsjuXM">mfö - aşkın kenarından</a>
-- entry_name: |
-    sözlük yazarlarının okumakta olduğu kitaplar
-  entry_id:  74111852
-  entry_writer: selimselim
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=franny+ve+zooey">franny ve zooey</a>)
 - entry_name: |
     ethereum soft
   entry_id:  74108073
@@ -339,6 +332,13 @@ data:
   entry_content: |
     amacım dertleşmekten ziyade havadan sudan sohbet<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/eingilhamarr">http://ribony.com/eingilhamarr</a>
 - entry_name: |
+    düz dünya teorisi
+  entry_id:  74098275
+  entry_writer: orange blossom
+  entry_fav_count: 0
+  entry_content: |
+    bu zeka yoksunu şahıslar için dünya düzmüş, yamukmuş, silindirmiş fark etmez. onların derdi bilimle ve bilimin kanıtladığı gerçeklerle. çünkü dünyanın düz olmasını kabul etmeleriyle birlikte kilise ya da camilere iade etmek istedikleri gücü seküler düzenden geri alamayacaklar, kadın-erkek eşitliği, eşcinselliğin günah olmadığı falan gibi başka gerçekleri de kuzu kuzu kabul etmek zorunda kalacaklar.
+- entry_name: |
     bulaşık yıkamak
   entry_id:  74110478
   entry_writer: altering lives
@@ -346,10 +346,10 @@ data:
   entry_content: |
     nefretliktir ama <a class="b" href="/?q=iron+maiden">iron maiden</a> dinlerken yapılırsa bir nebze katlanılabilir bir eylem olur. <a class="b" href="/?q=aces+high">aces high</a> dinlerken hunharca bulaşık yıkamak ayrı bir zevkmiş, test edilip onaylandı.
 - entry_name: |
-    airdrop
-  entry_id:  74112678
-  entry_writer: perrin
+    9 şubat 2018 fenerbahçe doğuş brose bamberg maçı
+  entry_id:  74113108
+  entry_writer: mesglsn sanirm bn yatiyrm
   entry_fav_count: 0
   entry_content: |
-    21 adet güncel airdrop içeren liste için buyrun: <a rel="nofollow noopener" class="url" target="_blank" href="https://dijitalcoins.com/ico-asamasinda-bedava-coin-veren-projeler-guncel-liste/" title="https://dijitalcoins.com/ico-asamasinda-bedava-coin-veren-projeler-guncel-liste/">https://dijitalcoins.com/…en-projeler-guncel-liste/</a>
+    boş smaca giden adamı arkadan itip +1'i hediye etti thompson. değişik bir adam. faul yapmadan duramıyor adeta.<br/><br/>77-69 bitti. veysel dabıl dabıl yaptı.
 ---
