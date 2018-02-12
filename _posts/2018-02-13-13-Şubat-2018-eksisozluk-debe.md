@@ -6,7 +6,7 @@ data:
     memur maaşıyla 101 ülke gezen adam
   entry_id:  74167806
   entry_writer: kabuletsenelan
-  entry_fav_count: 284
+  entry_fav_count: 286
   entry_content: |
     memur maaşı diyerek olayı dramatize etmeye gerek yok. adam uzman, aşağı yukarı 5000 tl maaş alıyor. zaten önceden planlandığında gayet makul fiyatlarla seyahat edilebilir. ama yine de helal olsun. ev, araba kredisi ödeyerek ömrünü heba etmek yerine en güzelini yapıyor.
 - entry_name: |
@@ -20,28 +20,21 @@ data:
     odtü'de okurken kafayı çizip dağa çıkan adam
   entry_id:  74165839
   entry_writer: akenatons
-  entry_fav_count: 243
+  entry_fav_count: 247
   entry_content: |
     "dağa çıkan" yazınca terörist oldu sandım. kimseye zararı yoksa istediği gibi yaşasın.
 - entry_name: |
     eski sevgilinin yeni sevgilisiyle fotoğrafı
   entry_id:  74161569
   entry_writer: sigara kibrit
-  entry_fav_count: 220
+  entry_fav_count: 222
   entry_content: |
     (bkz: <a class="b" href="/?q=onun+g%c3%bclerek+%c3%a7ektirdi%c4%9fi+foto%c4%9frafa+a%c4%9flayarak+bakmak">onun gülerek çektirdiği fotoğrafa ağlayarak bakmak</a>)<br/><br/>gariban bir ailenin oğlu olan arkadaşım, çok zengin bir ailenin kızıyla sevgili olmuştu. arkadaşımın babasının hayatı boyunca çalışıp da biriktiremeyeceği para, yenge hanımın babasının kendisine aldığı doğum günü hediyesiydi (bkz: <a class="b" href="/?q=mercedes+e+250">mercedes e 250</a>)<br/><br/>kız, gayet mütevazı, çok da güzel, kültürlü bir kızdı. arkadaşım da öyle yakışıklı, efendi, başarılı, potansiyeli olan biriydi ama fakirdi. (anasını, avradını sikeyim o fakirliğin.) sürekli kızın yanında ezildiğinden dem vurup dururdu. kız da o kadar anlayışlı ki buluşmaya toplu taşımayla gelirdi. hesabı ortaklaşa öderlerdi. hediyeleşme yoktu. para konuşmak yasaktı....<br/><br/>birbirlerini deli gibi seviyorlardi ama bizimki fazla gururlu davranıp; "ben zengin kadın avcısı değilim." diyerek terk etti kızı. kız ne yaptıysa bizimki kararından dönmedi. hatta babasına bile anlatmış; "baba benim sevdiğim var ama kendini bana layık görmüyor" diye, üstüne sitem etmiş; "niye bu kadar zenginsin" diye. <br/><br/>daha sonra zaman geçtikçe bizimki pişman olmaya başladı. artık istese bile kızla muhatap dahi olamazdı. olamadı da zaten. o boktan karardan iki ay kadar sonra bir yerlerde otururken, konu açıldı, o ne yapıyora geldi. "bilmem ki, bakalım hemen instagram'dan" dedi. arama çubuğuna kızın kullanıcı adını yazdıktan 2 saniye sonra yüz ifadesi öyle bir değişti ki anlatılmaz. hiçbir şey görmedik ama içimiz parçalandı. telefonu bize çevirdi ve ex yenge ile yeni sevgilisinin fotoğrafı vardı. benim işim var diyerek apar topar kalktı. aşk acısı zaten zor, fakirlere 3 kat daha zor, üstüne pişmanlığı da ekleyince kafayı yedi bizimki.<br/><br/>şu an ikisi de ne yapıyor bilmiyorum ama umarım mutludurlar.
-- entry_name: |
-    manuel neuer
-  entry_id:  74162232
-  entry_writer: antartika vatandasi
-  entry_fav_count: 179
-  entry_content: |
-    fenerbahçe'nin yarı finali kıl payı kaçırdığı sezon chelsea takımı oyuncuları röportaj vermişti.<br/><br/>lampard, terry, ballack, hepsi ülkemizi ve fenerbahçe'yi övüyor, nezaketen de olsa çekindiklerini söylüyorlardı.<br/><br/>favori olmak ayrı birşey, rakibe saygı duymak bambaşka. yoksa elbet bir şekilde turlar bayern.<br/><br/>bu sebeple açıklamalarını gereksiz bulduğum oyuncu.
 - entry_name: |
     abd b.elçiliğinin bulunduğu cadde adının değişmesi
   entry_id:  74174241
   entry_writer: patronaj
-  entry_fav_count: 136
+  entry_fav_count: 147
   entry_content: |
     sahada görmek istediğimiz hareketlerdendir.<br/>gittikçe köşeye sıkışıyor abd. bakalım şimdi ne yapacak.<br/><br/>akla şunu da getirmiştir<a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201712081031314854-sisli-metrosu-trump-tabelasi-sokuldu/" title="https://tr.sputniknews.com/turkiye/201712081031314854-sisli-metrosu-trump-tabelasi-sokuldu/">.</a><br/><br/>(bkz: <a class="b" href="/?q=milliyet%c3%a7ili%c4%9fin+gerizekal%c4%b1l%c4%b1k+olmas%c4%b1">milliyetçiliğin gerizekalılık olması</a>)
 - entry_name: |
@@ -55,14 +48,14 @@ data:
     türkiye'de internetin ilk yılları
   entry_id:  74163301
   entry_writer: darkcape
-  entry_fav_count: 125
+  entry_fav_count: 126
   entry_content: |
     biri gelip de;<br/>"abi 146 çevirince internete giriliyomış, denesene bi" diyinceye kadar her şey iyiydi mınaki ://<br/><br/>telefon faturası gelince, evden kaçtım. halen laylon evde, köprüaltındayım. babama naylon demeyin, anlamaz!
 - entry_name: |
     e-devlet alt-üst soy bilgisi sorgulama
   entry_id:  74163276
   entry_writer: ucyuzdoksaniki
-  entry_fav_count: 101
+  entry_fav_count: 102
   entry_content: |
     bazılarının kafası şuna basmıyor, aile geçmişini merak eden herkes soylu çıkmayı ummuyor, falanca yerli olduğunu öğrenip buradan prestij kazanmayı ummuyor. mevzu çok insani, merak! merak ediyoruz kardeşim bunun nesi garip? ben babamı kaybettikten sonra, özellikle de son 3-4 yıldır baba tarafımın erzincan'a nereden geldiğini merak ediyorum çünkü bizim köyle hiç bağımız olmadı. bu yanımı hep eksik hissettim. bu merakla geçmişi araştırırken o köyün ne kadar kozmopolit bir köy olduğunu, köyden uzaklaştırılan ermenileri, o ermenilerin 1900'lerin başında istanbul'daki fırıncılık sektörünü elinde tuttuğunu, köyden çıkmış ünlü bir ermeni öykücünün günlüklerinde anlattığı eski istanbul'u ve erzincan'ı öğrendim. tüm bunları öğrenince dedemin köydeki evi yaparken evin temelinde bulduğu üzeri ermenice yazılı bakır kaplar daha bir anlam kazandı, ermeni bir akademisyenle iletişime geçip o tabaklarda ne yazdığını öğrendim, o isimlere ulaşmaya çalıştım, kim bu insanlar nereye nasıl gittiler bununla ilgili okumalar yaptım. belki büyük dedem o öykücü ermeni yazarla çocukluk arkadaşıydı. o yazar köyüne dönüp öğretmenlik yapmış, belki dedem onun öğrencisiydi. bunun aslını hiç öğrenemeyecek olsam bile o merak ettiğim geçmişe dair bir iki somut bilgiyi, tarihi, ismi bir belge üzerinde görmek benim için önemli.<br/>aynı şey anne tarafım için de geçerli. bir tarafı yörük, bir tarafı arap, trajik kavuşma ayrılma hikayeleri, göçler, hasretler, gurbetler. ben bunları yaşayan insanların ismini öğrenmek istiyorum. bunun nesi garip? hala da öğrenemedim zaten sinirlerim bozuk, uzun zamandır hayalini kurduğum şey ben giremeden çöktü. özetle sistemin fişinin çekilmesiyle ayrı, geçmişini merak eden insanlara verilen tepkilerle ayrı sinirimi bozan durumdur.
 - entry_name: |
@@ -80,82 +73,89 @@ data:
   entry_content: |
     o virüs ülkeye 16 yıl önce bulaştı.
 - entry_name: |
-    şehit askere haciz gelmesi
-  entry_id:  74165647
-  entry_writer: lostdiary
-  entry_fav_count: 88
-  entry_content: |
-    hemen gaza gelmeyin. olay gayet kanuni.<br/><br/>şehit olmak ayrı şey, borçlu olmak ayrı şey!<br/><br/>şehitlerin borçlarını devlet üstlense diğer borçsuz şehitlere haksızlık olur. onlara da ekstra tazminat ödemesi mi yapacağız? <br/><br/>rahmetli kaza yapmış ve tazminata mahkum edilmiş. ödeyemeyince de icra hakkı doğmuş.<br/><br/>avukatın görevi müvekkilinin hakkını savunmaktır ki görevini yapmış. şehit ailesi borçtan reddi miras ile kurtulabilir. şehitlik tazminatı ile şehit dul maaşına haciz koyamazlar.<br/><br/>sözcü öyle bir vermiş ki haberi, tamamen acıtasyon!
-- entry_name: |
     bir dikişte jagermeister'i bitiren kız
   entry_id:  74160149
   entry_writer: emrah emrah
-  entry_fav_count: 86
+  entry_fav_count: 89
   entry_content: |
     kız güzel<sup class="ab"><a title="(bkz: klasik bir erkek olduğum doğrudur)" href="/?q=klasik+bir+erkek+oldu%c4%9fum+do%c4%9frudur" data-query="klasik bir erkek olduğum doğrudur">*</a></sup>ama olay fake.<br/>jager'i bilen biri buna inanmaz zaten.
 - entry_name: |
-    köfteci yusuf
-  entry_id:  74174302
-  entry_writer: hasirt to the blackboard
-  entry_fav_count: 78
+    şehit askere haciz gelmesi
+  entry_id:  74165647
+  entry_writer: lostdiary
+  entry_fav_count: 87
   entry_content: |
-    inegöl'den eskişehir istikametine giderken, bozüyük sarar avm'yi geçince bi şubesi var. bugün, bu şubede down sendromlu bir gencin istihdam edildiğini gördüm, mutlu oldum.<br/><br/>(bkz: <a class="b" href="/?q=hayata+dair+umut+veren+detaylar">hayata dair umut veren detaylar</a>)
+    hemen gaza gelmeyin. olay gayet kanuni.<br/><br/>şehit olmak ayrı şey, borçlu olmak ayrı şey!<br/><br/>şehitlerin borçlarını devlet üstlense diğer borçsuz şehitlere haksızlık olur. onlara da ekstra tazminat ödemesi mi yapacağız? <br/><br/>rahmetli kaza yapmış ve tazminata mahkum edilmiş. ödeyemeyince de icra hakkı doğmuş.<br/><br/>avukatın görevi müvekkilinin hakkını savunmaktır ki görevini yapmış. şehit ailesi borçtan reddi miras ile kurtulabilir. şehitlik tazminatı ile şehit dul maaşına haciz koyamazlar.<br/><br/>sözcü öyle bir vermiş ki haberi, tamamen acıtasyon!
+- entry_name: |
+    3 yaşındaki çocuğa tecavüz girişimi
+  entry_id:  74161786
+  entry_writer: h r
+  entry_fav_count: 87
+  entry_content: |
+    tüyleri diken diken eden hadisedir. <br/><br/>pedofilinin de dereceleri vardır ve kişi ne kadar küçük yaşta çocuklara aşık olup onlara cinsel bir çekim hissediyorsa pedofili olma derecesi de o kadar fazladır ve işte buradan yola çıkarak diyebiliriz ki bu adam ileri düzey bir pedofilidir. <br/><br/>bana bir psikoloji hocası şunu demişti daha bir sene önce: "dünyada henüz bir tedavisi bulunamamış iki tane psikolojik hastalık vardır. bunlardan biri pedofili, diğeri de narsisizmdir". ülkemizde 'şükür ki' ikisinden de bol bol var. boşuna demiyoruz açık hava tımarhanesi diye.
 - entry_name: |
     demet akalın'ın tweet'lerini düzelten koreli
   entry_id:  74176271
   entry_writer: maddisli
-  entry_fav_count: 71
+  entry_fav_count: 81
   entry_content: |
     demet akalın ne kadar kötü türkçe kullanıyorsan artık elin korelisine bile dert olmuş adam oturup tweetlerini düzeltmiş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=xkHDUUTlX0U">https://www.youtube.com/watch?v=xkhduutlx0u</a>
 - entry_name: |
-    hiç seks yapmamış sözlük yazarı
-  entry_id:  74173355
-  entry_writer: tyrion degil islevi
+    alman vekilinin türk dükkanlarını boykot çağrısı
+  entry_id:  74171819
+  entry_writer: misafir kullanici 8894
   entry_fav_count: 69
   entry_content: |
-    (bkz: <a class="b" href="/?q=sikmeseler+bari">sikmeseler bari</a>)<br/><br/>boşverin lan, eskiden seks mi varmış zaten. adam olan eşeysiz de ürer.
+    hayır yani ne bekliyorsunuz onu anlamadım. kolaları sokaklara döken, portakal bıçaklayan, çinli diye gidip korelilere saldıran, (sahte) dolar yakan vs.. vs.. bizim insanımız değil mi? başkası yapınca niye garip karşılanıyor?
 - entry_name: |
     öğretmen maaşı
   entry_id:  74174086
   entry_writer: dedim ama niye
-  entry_fav_count: 62
+  entry_fav_count: 65
   entry_content: |
     mesleğe yeni başlayanlar için tüm ek derslerin dolu olması halinde 3500 tl civarındadır. yani 4 yıllık üniversite mezunu işine yeni başlayan çoğu kamu görevlisinden daha fazlaymış. bu yüzden de düşürülmesi arzu ediliyor anladığım kadarıyla. o yeni mezun kamu görevlilerinin de maaşının arttırılmasını talep etmesi gerektiği arkadaşın aklına gelmiyor maalesef. nedense kendi maaşı aynı kalıp öğretmenin maaşı azalsa daha mutlu olacak. <br/><br/>o zaman nazım hikmet’ten gelsin:<br/><br/>(bkz: <a class="b" href="/?q=d%c3%bcnyan%c4%b1n+en+tuhaf+mahlukusun+yani">dünyanın en tuhaf mahlukusun yani</a>)
 - entry_name: |
     f-16 gidiyor yerli ve milli savaş uçakları geliyor
   entry_id:  74174768
   entry_writer: yaslanmayan user
-  entry_fav_count: 60
+  entry_fav_count: 63
   entry_content: |
     türkiye'de yerli f-16 yapmamızdaki yada uzaya roket göndermemizdeki engel teknoloji olarak geride olmamız değildir. bu fark çok kısa sürede kapatılır. teknolojik fark bir semptomdur, bu semptoma sebep olan sebepler ortadan kalkarsa teknolojik fark da çok çabuk ortadan kalkar. ancak sebepler kolay kolay ortadan kalkmaz o yüzdendir ki burada bizim yerli "bilmem ne" yapacak olma iddiamızla dalga geçmektedir insanlar. yani onlar vatan haini değillerdir, ben de değilim ama biz bunların gerçek olacağına inanmayız. çünkü biliriz ki:<br/><br/>- bizde liyakat yoktur<br/>- bizde iş ahlakı yoktu<br/>- bizde adam kayırma vardır<br/>- bizde işi bilenin ayağını kaydırma vardır<br/>- bizde kısa dönemli kar düşünmek vardır
 - entry_name: |
     sözlükçülerin seks hariç hayal ettiği fantezileri
   entry_id:  74169494
   entry_writer: trendline
-  entry_fav_count: 59
+  entry_fav_count: 62
   entry_content: |
     (bkz: <a class="b" href="/?q=hayal+edilen+fantezi">hayal edilen fantezi</a>)
 - entry_name: |
     kayhan
   entry_id:  74166908
   entry_writer: cascascas
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     "ulan bu filme gittiniz bide utanmadan kritiğini mi yapıyorsunuz amk?" dedirten filmimsi.
 - entry_name: |
-    bursalıların akhisarlı dedelerden dayak yemesi
-  entry_id:  74168850
-  entry_writer: ne14u
-  entry_fav_count: 51
+    abd'nin pyd'ye 550 milyon dolar ayirmasi
+  entry_id:  74177974
+  entry_writer: false pretension
+  entry_fav_count: 40
   entry_content: |
-    ne gerizekalı adamlar bunlar ya. kahveye girip olay çıkartmak nedir amk? izle maçını siktir ol git evine. yemin ederim bunlarda sike sürülecek akıl yok. sövünce de sövdü oluyor sonra. boşuna memleketin haline şaşırmayın, böyle sığırlarla yaşıyoruz işte.
+    nato'ya bağlı bir ülkenin terör örgütüne yaptığı bütçe ayırımıdır.
 - entry_name: |
     kadınlara çekici gelen erkek meslekleri
   entry_id:  74168394
   entry_writer: kukulak
-  entry_fav_count: 34
+  entry_fav_count: 38
   entry_content: |
     bodrum yat limanında demirli yatında,<br/>uydu bağlantısı ile dünya borsalarını speküle etme mesleği'dir.
+- entry_name: |
+    ihsan şenocak'tan genç kaynana eleştirisine cevap
+  entry_id:  74174631
+  entry_writer: patryn
+  entry_fav_count: 32
+  entry_content: |
+    karısını soyup millete takdim eden birileri varsa, onlar cennet vaadi ile şeyhinin koynuna kendi eliyle sokanlardan başkası değildir.<br/><br/>tanım: giriş cümlesini okuduktan sonra izlemediğim cevaptır.
 - entry_name: |
     emine gün
   entry_id:  74166862
@@ -163,13 +163,6 @@ data:
   entry_fav_count: 32
   entry_content: |
     savunduğu zenginlerden alacağı avanta için, evlâdını yok yere kaybetmiş bir ailenin elindeki her şeye göz dikmiş bir avukat.<br/><br/>abi nasıl bir çiledir ya, neredeyse on senedir sıçtığımın yükünü sırtında taşı, maaşına haciz konsun, ne kredi çekebil, ne evlenmenin hayâlini kurabil, ne gençliğini yaşayabil, sonra bazı amına koduğumun çocukları sahte çürük raporuyla taşak kebabı yapabilsin diye askerlik denen adaletsizlik simülasyonuna dahil olup bir defa geldiğin hayattan da koparılıp toprağın altına konul. sonra emine gün gibi biri gelip aileni rahatsız etmeye devam etsin para için. bazıları için ölmek bile çözüm değil, allah kahretsin böyle düzeni be...<br/><br/>not: bedellispor.
-- entry_name: |
-    ihsan şenocak'tan genç kaynana eleştirisine cevap
-  entry_id:  74174631
-  entry_writer: patryn
-  entry_fav_count: 31
-  entry_content: |
-    karısını soyup millete takdim eden birileri varsa, onlar cennet vaadi ile şeyhinin koynuna kendi eliyle sokanlardan başkası değildir.<br/><br/>tanım: giriş cümlesini okuduktan sonra izlemediğim cevaptır.
 - entry_name: |
     ferhan şensoy zirvesi
   entry_id:  74168298
@@ -181,44 +174,37 @@ data:
     olimpiyat sporcularının tinder'a hücum etmesi
   entry_id:  74175652
   entry_writer: exsequor
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     arkadaş olimpiyat sporcuları sevişmeyecek de, mezuniyet sonrası yaptığı tek spor çay karıştırmak olan sen ben mi sevişeceğiz?<br/><br/>branşlarının tepe noktasındaki insanlar bir araya gelmiş, kafalar rahat. vucutlar makine gibi. moraller yüksek. kafalar pırıl pırıl. her milletten de insan var. <br/><br/>geniş katılımlı orgy düzenlemek istesen bu kadar temiz organizasyon yapamazsın.
-- entry_name: |
-    5 yaşındaki kızından kira alan anne
-  entry_id:  74159945
-  entry_writer: bellum
-  entry_fav_count: 24
-  entry_content: |
-    bütçe yönetimini öğrenmesi, tutumlu olması açısından güzel ancak..! bu durum bu kadar küçük yaşta eve ve aileye aidiyet duygusunu zedeleyebilir. kızım dört yaşındayken, bana çok kırılıp üzülünce, beslenme çantasına suluğunu, oyuncak ayısını ve akşamları yatarken okuduğum masal kitabını koyup, evden ayrılmaya kalkmıştı. ona nereye gideceğini sorduğumda da çimenlerde yatıp, çöpe atılan yemekleri yiyeceğini söylemişti. hatta sonra geri dönüp bir elma aldı. bu durumda aklıma gelen ilk şey, kızımın evimizi " benim " evim olarak görmesi olmuştu. orası sadece benim evimdi. demek ki ona ortak kullanım alanlarıyla ilgili karışıyor, evi benimsemesine engel oluyordum. daha sonra bu tutumu değiştirip, kazandığımız herşeyin bizim olduğu inancını aşıladım ona. ama bunun okullarını bitirip, güzel bir işe yerleşinceye kadar olduğunu, üniversiteyi bitirdikten sonra en fazla altı ay yardımcı olacağımı da belirttim. şimdi 12 yaşında. ondan kira aldığımı düşünemiyorum. bana kızdığında" eytere beahh, paramla kalıyorum " deme lüksü var. daha ileri gidip, " başka bir evde " yaşamaya karar vermesi var, var da var. ama bu ev hepimizin, hepimiz eşit şartlarda aynı haklara sahibiz ve bütçe planlamasını da sadece verdiğim haftalıklardan özel ihtiyaçlarını karşılamasını sağlayarak yapıyorum.
 - entry_name: |
     12 şubat 2018 boğaziçi koprüsünde silah sıkılması
   entry_id:  74176774
   entry_writer: onlardainsan
-  entry_fav_count: 24
+  entry_fav_count: 27
   entry_content: |
     umarim koprunun adini 12 subat meczuplar koprusu diye degistirmezler
 - entry_name: |
     ümit özdağ'ın incirlik isyanı
   entry_id:  74175596
   entry_writer: aretius
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     özdağ’ın ege isyanını dikkate almadınız 18 ada verdik bari bunları dikkate alın
-- entry_name: |
-    bafetimbi gomis
-  entry_id:  74178121
-  entry_writer: fratsc
-  entry_fav_count: 23
-  entry_content: |
-    bu adam bizde olsa vodafone arenada beraberlik vermeyiz lan.bir insan bu kadar mı iyi karakterli olurken aynı zamanda hırslı da olabiliyomuş.sertliği hırçınlığı saha dışına taşırmayan bu kadar centilmen bir adam görmemiştim.<br/><br/>gs.liler tadınızı kaçırmak istemem ama şunu artık kendi gözlerinizle görün melo gibi itlik yapmadan da hırslı ve takım için herşeyini veren tipler çıkabiliyomuş.gomis efendiliğiyle herkese gösterdi,caneri savunan renkdaşlarıma ya da volkan şişkosunu savunan fenerli arkadaşlara belirtmek isterim.
 - entry_name: |
     12 şubat 2018 galatasaray antalyaspor maçı
   entry_id:  74171217
   entry_writer: bu konuda soylemek istediklerim bu kadar
-  entry_fav_count: 21
+  entry_fav_count: 24
   entry_content: |
     2004-2005<br/>2005-2006<br/>2006-2007<br/>2007-2008<br/>2008-2009<br/>2009-2010<br/>2010-2011<br/>2011-2012<br/>2012-2013<br/>2013-2014<br/>2014-2015<br/>2015-2016<br/><br/>sezonlarında ali sami yen ve tt arena kombinelerini alıp tek maçı dahi aksatmadan gittiğim tribüne dursun özbek sebebiyle ara vermiştim. hikayesi uzun sürer, lafı uzatmayayım, "dursun gidene kadar maça gidersem..." şeklinde büyük konuşmuştum. artık dursun yok.<br/><br/>bugün o gün, bu maç o maç dostlar.<br/>evime dönüyorum.
+- entry_name: |
+    ömer turan'ın afrin şehitleriyle dalga geçmesi
+  entry_id:  74176612
+  entry_writer: karanliktaki kilic
+  entry_fav_count: 19
+  entry_content: |
+    klasik islamcı kafası. şehitliği över dururlar, ama kendileri ve çocukları askerlikten kaçmak için her türlü yolu yapar. <br/><br/>ayrıca bu nur sadece fakirlerin üstüne yağıyor galiba. zenginler hep nursuz
 - entry_name: |
     aykut kocaman
   entry_id:  74173529
@@ -230,16 +216,16 @@ data:
     ekşi itiraf
   entry_id:  74161268
   entry_writer: diyeceklerimvar
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     eski sevgilimi stalklamak için dün butik hesabı açtım bugün 250 takipçim oldu. ben burdan yürüyorum eyv sevgilim.
 - entry_name: |
-    ömer turan'ın afrin şehitleriyle dalga geçmesi
-  entry_id:  74176612
-  entry_writer: karanliktaki kilic
-  entry_fav_count: 10
+    ölmek istememek ama yaşamaktan da zevk almamak
+  entry_id:  74161383
+  entry_writer: kesinlikle dengesizim
+  entry_fav_count: 14
   entry_content: |
-    klasik islamcı kafası. şehitliği över dururlar, ama kendileri ve çocukları askerlikten kaçmak için her türlü yolu yapar. <br/><br/>ayrıca bu nur sadece fakirlerin üstüne yağıyor galiba. zenginler hep nursuz
+    " sevgili yok + muhabbet yok + deniz yok + meslek yok" kombosu sonucunda ortaya çıkar.<br/><br/>not: meslek derken, iş demedim. böyle eğitildiğin, herkesin beceremediği, saygı duyulduğun bir niteliğin olacak.<br/><br/>ilacı: yukarıdaki 4 yoktan 2sini var etmektir. buzdan soğuk bira da olursa süper olur.
 - entry_name: |
     bitcoin
   entry_id:  74173950
@@ -251,16 +237,30 @@ data:
     gökhan zan'ın attığı efsane tweet
   entry_id:  74176696
   entry_writer: panterussss
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     altaki ilk yorum cuk oturmuş.<br/><br/>'hesabı demet akalın devralmış sanırım.'
 - entry_name: |
-    abd'nin pyd'ye 550 milyon dolar ayirmasi
-  entry_id:  74178640
-  entry_writer: patryn
+    çin'in suriye'ye yardım edeceğini açıklaması
+  entry_id:  74176466
+  entry_writer: 80 li yillari cok ozluyorum lan
+  entry_fav_count: 8
+  entry_content: |
+    anadolu'daki bi söz vardır..<br/><br/><a class="b" href="/?q=hatunun+nikah%c4%b1+bizim%2c+bacaklar%c4%b1+ba%c5%9fkas%c4%b1n%c4%b1n+omzunda">hatunun nikahı bizim, bacakları başkasının omzunda</a> diye..<br/><br/>4 milyon suriyeliyi biz besleyelim..<br/><br/>işin kaymağını çin yesin..<br/><br/>sikerler..
+- entry_name: |
+    bafetimbi gomis
+  entry_id:  74178723
+  entry_writer: varyete
+  entry_fav_count: 8
+  entry_content: |
+    biraz önce öyle bir şut çekti ki, direkten dönen topta rakip kontra atağa çıktı.
+- entry_name: |
+    geceye bir şiir bırak
+  entry_id:  74159987
+  entry_writer: sonradan da gormemis adam
   entry_fav_count: 7
   entry_content: |
-    günlük harcamasını 2 milyar doları bulan pentagon'u düşündüğümüzde, amerika'nın orta doğu emellerinde kullandığı taşeron için ayırdığı bu miktar, son derece kabul edilir.<br/><br/>ancak... <br/><br/>alparslan demiş ya zamanında: ' onlar ne kadar giyinmişse, siz o kadar soyunun! '<br/><br/>gazi mustafa kemal demiş ya zamanında: ' ben size savaşmayı değil, ölmeyi emrediyorum! '<br/><br/>işte böyle asil bir milleti, parayla tasmalandırdığınız eşkiya sürüsüne esir edemeyeceksiniz.
+    bir gün sabah vakti kapıyı çalsam, <br/>uykudan uyandırsam seni: <br/>ki, daha sisler kalkmamıştır haliçten. <br/>vapur düdükleri ötmededir. <br/>etraf alacakaranlık, <br/>köprü açıktır henüz. <br/>bir gün sabah sabah kapıyı çalsam… <br/><br/>yolculuğum uzun sürmüş oldukça. <br/>gece demir köprülerden geçmiştir tren. <br/>dağ başında beş on haneli köyler, <br/>telgraf direkleri yollar boyunca <br/>koşuşup durmuş bizle beraber. <br/><br/>şarkılar söylemişim pencereden, <br/>uyanıp uyanıp yine dalmışım. <br/>biletim üçüncü mevki, <br/>fakirlik hali. <br/>lületaşından gerdanlığa gücüm yetmemiş, <br/>sana sapancadan bir sepet elma almışım… <br/><br/>ver elini haydarpaşa demişiz, <br/>vapur rıhtımdadır pırıl pırıl, <br/>hava hafifiten soğuk, <br/>deniz katran ve balık kokulu <br/>köprüden kayıkla geçmişim karşıya, <br/>bir nefeste çıkmışım bizim yokuşu… <br/><br/>birgün sabah sabah kapıyı vursam, <br/>-kim o? dersin uykulu sesinle içerden. <br/>saçların dağınıktır, mahmursundur. <br/>kimbilir ne güzel görünürsün sevgilim, <br/>bir gün sabah vakti kapıyı çalsam, <br/>uykudan uyandırsam seni, <br/>ki, daha sisler kalkmamıştır haliçten <br/>fabrika düdükleri ötmededir.<br/><br/><a class="b" href="/?q=turgut+uyar">turgut uyar</a> | <a class="b" href="/?q=bir+g%c3%bcn+sabah+sabah">bir gün sabah sabah</a>
 - entry_name: |
     sevgililer günü
   entry_id:  74166759
@@ -269,20 +269,6 @@ data:
   entry_content: |
     yılın en salak günü budur. lan sevgilinizle aranızda olan cümle özel günlerinizi bir yana koyup nasıl oluyor da elin herifinin size dayattığı “lan bak bugün sizin için çok özel, ona göre davranın” gününde heyecanlanıyorsunuz?<br/><br/>(bkz: <a class="b" href="/?q=kafamda+deli+sorular">kafamda deli sorular</a>)
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  74159987
-  entry_writer: sonradan da gormemis adam
-  entry_fav_count: 6
-  entry_content: |
-    bir gün sabah vakti kapıyı çalsam, <br/>uykudan uyandırsam seni: <br/>ki, daha sisler kalkmamıştır haliçten. <br/>vapur düdükleri ötmededir. <br/>etraf alacakaranlık, <br/>köprü açıktır henüz. <br/>bir gün sabah sabah kapıyı çalsam… <br/><br/>yolculuğum uzun sürmüş oldukça. <br/>gece demir köprülerden geçmiştir tren. <br/>dağ başında beş on haneli köyler, <br/>telgraf direkleri yollar boyunca <br/>koşuşup durmuş bizle beraber. <br/><br/>şarkılar söylemişim pencereden, <br/>uyanıp uyanıp yine dalmışım. <br/>biletim üçüncü mevki, <br/>fakirlik hali. <br/>lületaşından gerdanlığa gücüm yetmemiş, <br/>sana sapancadan bir sepet elma almışım… <br/><br/>ver elini haydarpaşa demişiz, <br/>vapur rıhtımdadır pırıl pırıl, <br/>hava hafifiten soğuk, <br/>deniz katran ve balık kokulu <br/>köprüden kayıkla geçmişim karşıya, <br/>bir nefeste çıkmışım bizim yokuşu… <br/><br/>birgün sabah sabah kapıyı vursam, <br/>-kim o? dersin uykulu sesinle içerden. <br/>saçların dağınıktır, mahmursundur. <br/>kimbilir ne güzel görünürsün sevgilim, <br/>bir gün sabah vakti kapıyı çalsam, <br/>uykudan uyandırsam seni, <br/>ki, daha sisler kalkmamıştır haliçten <br/>fabrika düdükleri ötmededir.<br/><br/><a class="b" href="/?q=turgut+uyar">turgut uyar</a> | <a class="b" href="/?q=bir+g%c3%bcn+sabah+sabah">bir gün sabah sabah</a>
-- entry_name: |
-    çin'in suriye'ye yardım edeceğini açıklaması
-  entry_id:  74176466
-  entry_writer: 80 li yillari cok ozluyorum lan
-  entry_fav_count: 6
-  entry_content: |
-    anadolu'daki bi söz vardır..<br/><br/><a class="b" href="/?q=hatunun+nikah%c4%b1+bizim%2c+bacaklar%c4%b1+ba%c5%9fkas%c4%b1n%c4%b1n+omzunda">hatunun nikahı bizim, bacakları başkasının omzunda</a> diye..<br/><br/>4 milyon suriyeliyi biz besleyelim..<br/><br/>işin kaymağını çin yesin..<br/><br/>sikerler..
-- entry_name: |
     la casa de papel
   entry_id:  74160117
   entry_writer: ceks
@@ -290,12 +276,12 @@ data:
   entry_content: |
     arkadaşlar güzel dizidir ama abartıldığı kadar da değil. bak sürükleyicidir ama bu kalite demek kesinlikle değil. ayrıca o kadar güzel <a class="b" href="/?q=estrella+galicia">estrella galicia</a> reklamı yapılmış ki merak ediyorum namussuzu. viral işe yaradı bende.<br/><br/>şunu da belirtmeden edemeyeceğim. maskeye bayıldım. bugüne kadar en beğendiğim dizi-film maskesi <a class="b" href="/?q=true+blood">true blood</a>'daki obama maskesiydi fakat artık favorim dali maskesi. bir tane almam lazım popüler kültüre bayılırım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>gelelim eleştirilere<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>1-akıl oyunları bakımından prison break'le karşılaştırılma gafletine düşülmüş. öyle bir şey yok. tabi prison break 1. sezondan bahsediyorum sonradan giderek kaliteyi düşürdü reisler. güzel birkaç şey düşünülmüş tabi dizide plan olarak hakkını da yememek lazım.<br/><br/>2-çok basit hatalar içeriyor dizide. şu an tam hatırlayamıyorum ama rio'nun telefonu kıza kaptırması,silahı kaptırması,profesörün üzerinde kırmızı ip kalması. insan üstüne bakmaz mı evden çıkarken neyse bunun gibi çok basit şeyler daha var.<br/><br/>3-aksiyon sahneleri ki en büyük sorunu. dizideki aksiyon sahneleri arka sokakla aynı. motor sahnesi,son bölümdeki kalkanlı sahne hadi hepsini geçtim ilk sahne bile abi kurşunlar yağıyor yağıyor bu kadar mı kazma ispanyol özel timleri. şahsen ben bu sahnelerde normalde hiç yapmayacağım şeylerden biri olan dizi izlerken bir yandan da mesaj yazma eylemine giriştim sıkıntıdan. berlin'in son sahnesi hariç çünkü seviyordum adamı.<br/><br/>4-karakterler ikide bir birbirine silah çekip 5 dakika sonra kanka olabiliyor. insanda biraz kin olur ne bileyim en azından samimi olmayıp araları soğuk olsun.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    dünyanın en güzel üçlüsü
-  entry_id:  74171190
-  entry_writer: guest22474
+    a-10 thunderbolt
+  entry_id:  74177080
+  entry_writer: 5 8 10 11 23 30 neighbours by five
   entry_fav_count: 5
   entry_content: |
-    uçak bileti + pasaport + batı’ya doğru başka ülke<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    vietnam savaşında çok fazla hava saldırısı tekniği deneyen fakat hiçbirisinde başarılı olamayan abd yakın hava desteği gerçekleştirebilecek bir uçağa ihtiyacı olduğunu anlamış ve bu ihtiyaç abd'nin tank katili veya tank avcısı olarak da bilinen a-10 thunderbolt ıı'nin üretimesiyle sonuçlanmıştır. <br/><br/>tank avcısı olarak bilinen a-10'lar aslında soğuk savaş döneminde abd'nin baş rakibi olan sovyetler birliği'ne karşı alınmış bir önlem olarak üretildi. yayılmacı bir politika izleyen sovyetler birliği'nin ileri tank gücünü avrupa'ya yayması ve abd'nin vietnam savaşındaki başarısızlığını böyle bir senaryoda avrupa'da da elde etmesi abd için hem hezimet hem de tam bir kabus olurdu. bu nedenle de a-10 tasarlandı ve acil olarak 1972'den itibaren üretilmeye başlandı. fakat 1976'den itibaren görev almaya başladı.<br/><br/>fairchild republic firması tarafından üretilmiş olan a-10 thunderbolt ıı koskoca bir hava platformudur. kara birliklerine hava desteği sağlamak için üretilmiş olan a-10 thunderbolt ıı'ler 300 m'ye kadar inebilmektedir. düşük irtifalarda da görev yapabilen a-10 thunderbolt ıı'lerin ana silahları, burnundaki 30 mm'lik makinelisi ve taşıdığı bomba ve güdümlü füzeleridir.<br/><br/>geniş kanatları sayesinde üstün bir manevra kabiliyetine sahip olan a-10'un zırhı çok kuvvetlidir. düşük irtifalarda hasar alsa bile pilotun uçağı üsse geri döndürebileceği şekilde tasarlanmıştır. pilot kabinin etrafı 38 mm'lik bir titanyum zırh ile kaplıdır. zırh sadece kokpit ve yakıt deposunda vardır. <br/><br/>a-10'lar ilk defa köfrez savaşında gündeme gelmişlerdir. saddam hüseyin'in tanklarını imha eden a-10'ların bazılarında 30 cm büyüklüğünde uçaksavar mermi delikleri görülmüş fakat bu halde bile a-10'lar üsse geri dönebilmişlerdir. <br/><br/>ilki 10 mayıs 1972'de üretilen a-10 thunderbolt ıı, 1984 yılına kadar üretilmeye devam etmiştir. toplamda 716 adet üretilen bu tank avcılarının birim maliyeti ise 18.8 milyon $'dır.<br/><br/>bu tank avcıları o kadar sağlam yapılmıştır ki hala servistedir. hatta ekim 2015'te suriye iç savaşında bile görev yapmak üzere incirlik üssüne indirilmiştir.
 - entry_name: |
     sigara içenlerin insanı delirten davranışları
   entry_id:  74162274
@@ -303,6 +289,20 @@ data:
   entry_fav_count: 3
   entry_content: |
     keyifli keyifli, güzel güzel sigara içmeleri. <br/><br/>yeni bıraktım ibneler.
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  74163017
+  entry_writer: naklen
+  entry_fav_count: 3
+  entry_content: |
+    veren varken sevene sıra gelmez..
+- entry_name: |
+    gs'li teknik direktörlerdeki gs'ye yatma huyu
+  entry_id:  74178706
+  entry_writer: i am not noob
+  entry_fav_count: 3
+  entry_content: |
+    (bkz: <a class="b" href="/?q=tiner+kokan+ba%c5%9fl%c4%b1klar">tiner kokan başlıklar</a>)
 - entry_name: |
     meslek lisesinde öğretmene büyük saygısızlık
   entry_id:  74165047
@@ -319,18 +319,11 @@ data:
     (bkz: <a class="b" href="/?q=ne+diyonuz+aq">ne diyonuz aq</a>)
 - entry_name: |
     ağrı'daki köy okuluna yardım ediyoruz kampanyası
-  entry_id:  74174129
-  entry_writer: bu kopege ne ekmek ne de su verin
-  entry_fav_count: 2
+  entry_id:  74172045
+  entry_writer: ydmkrt
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=up">up</a>)<br/>arkadaşlar hiç olmazsa uplarsanız başlığı gündeme getirebiliriz.
-- entry_name: |
-    a-10 thunderbolt
-  entry_id:  74176568
-  entry_writer: papaouteala
-  entry_fav_count: 2
-  entry_content: |
-    burundaki topu mermi olarak uranyum içerikli bir mühimmat kullanmaktadır. bu top ile tankları ortadan ikiye bölme kabiliyetine sahiptir. pilot kabininin etrafı titanyumdan üretilen bir zırhla kaplıdır, bu pilotu sadece korumakla kalmaz aynı zamanda psikolojik olarak da kendisini güvende hissetmesini ve daha fazla risk almasını sağlar. youtube'da "brrtt" diye aratırsanız çıkar, pike yapıp silahını ateşlediğinde çıkan ses insanın bi tarafını titretir
+    mail adresi alabilir miyim? <br/>up
 - entry_name: |
     ölümlü dünya (film)
   entry_id:  74168386
@@ -345,6 +338,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     umarım bu adamla birlikte takımımızın transfer politikası da değişir. tam bir fiyat–performans transferi. ayrıca kâr ederek gönderebileceğimiz nadir oyunculardan.<br/><br/>bu transferden ders alıp böyle futbolculara yönelmek şart.
+- entry_name: |
+    futbolu gol dışında zevkli kılan şeyler
+  entry_id:  74166915
+  entry_writer: cavdar tarlasinda fukara cocuklar
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sabri+sar%c4%b1o%c4%9flu">sabri sarıoğlu</a>)<br/><br/>taraflı tarafsız herkesin sempatisini kazanan sabri reis'in klas hareket videoları bir zamanların akıllı telefonu olan 66 00'ların 512 megabaytlık hafıza kartlarının bir bölümünü mutlaka kaplardı. bazen ronaldo, messi ve ronaldinho'nun hareketlerinden oluşan kolajlarda yer bulurdu kendine. özellikle yabancı sinemayı halkımıza sevdiren truva ve shrek filmlerinin düblajlı halleri ile birlikte telefondan telefona bluetooth ile yolculuk yapar. izleyen herkesi bir neşe kaplardı. üşüyoruz reis!
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74160772
