@@ -6,63 +6,63 @@ data:
     en iyi türk ölü türk'tür
   entry_id:  74214774
   entry_writer: beat purple
-  entry_fav_count: 605
+  entry_fav_count: 616
   entry_content: |
     yüzmeyi seven eski bakan açıklaması.
-- entry_name: |
-    dalgaların kate upton'ı düşürmesi
-  entry_id:  74216050
-  entry_writer: jason305
-  entry_fav_count: 396
-  entry_content: |
-    (bkz: <a class="b" href="/?q=dalgalar%c4%b1n+bile+k%c4%b1z+d%c3%bc%c5%9f%c3%bcrmesi">dalgaların bile kız düşürmesi</a>)
 - entry_name: |
     instagram satıcılarını maliyeye şikayet hareketi
   entry_id:  74213908
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 395
+  entry_fav_count: 404
   entry_content: |
     <a class="b" href="/?q=aptallar+i%c3%a7in+yeni+edit">aptallar için yeni edit</a>: kardeşim siz salak mısınız? adam babasının bakkal dükkanını örnek veriyor. "babam çağa ayak uyduramadı battı" diyor. ulan biz de internette nsatıyoruz anlamıyor musunuz? <a class="b" href="/?q=biz+de+%c3%bcr%c3%bcnlerimizi+instagramda+sergiliyoruz">biz de ürünlerimizi instagramda sergiliyoruz</a>. nesini anlamadınız bu işin? <a class="b" href="/?q=biz+de+e-ticaret+yap%c4%b1yoruz">biz de e-ticaret yapıyoruz</a>. biz vergi veriyoruz, onlar vergi vermiyor. aradaki farkı daha nasıl anlatayım size? aynı platformda, aynı işi yapıyoruz. adamın <a class="b" href="/?q=sgk%2c+ba%c4%9fkur%2c+kdv%2c+gelir+vergisi%2c+muhasebeci+gideri">sgk, bağkur, kdv, gelir vergisi, muhasebeci gideri</a> yok çünkü kaçak yapıyor bu işi. benim verdiğim fiyatın yarısını verse bile zarar etmiyor. size bunu türkçe anlatıyoruz adam gelmiş bakkalların kredi kartına karşı kaybedişini anlatıyor. akıl yok, beyin hiç yok.<br/><br/><a class="b" href="/?q=edit">edit</a>: bazılarınızda zeka geriliği mi var bilmiyorum. ancak instagram'da vergisiz satış yapanlardan bahsediyoruz. adam gelmiş "kuzenim satıyor valal faturasını da kesiyor kıskanın kudurun" diyor. gerizekalı kardeşim; biz de instagram, adwords, facebook reklamlarıyla satış yapıyoruz. biz vergi veriyoruz, onlar vermiyor. aradaki fark bu. herhalde biz böyle yazınca millet zannetti ki eminönünde 6 metrekare dükkanda satış yapıyoruz, o yüzden internetten satanları kıskanıyoruz. şaka mısınız nesiniz siz?<br/><br/>diğer "devlet niye vergi alıyor diye sormuyor da başkasının kazancına göz dikiyor" tayfasına değinmiyorum bile. siz sefil dahi değilsiniz. böyle bir aptallık olamaz, hırsızlığı böyle mi savunacaksınız? herkes vergi ödemek zorunda kalırsa, ya halk "ağır vergilerin altında" ezildiği için bu işe isyan edip daha dengeli vergi oranlarımız olur ya da zaten bir şekilde vergiler düşer. şuanki sistem hiç kimse vergi vermediği için, vergisini vereni öpmeye yönelik. hıyarağası 3000 lira maaş alıyor, devlete 2500 lira onun maaşının vergisi, sgk'sı ödendiğinin farkında değil. sen vergi ödüyorsun, ben ödüyorum, bu ödemeden köşeyi dönenlerin nesi farklı da onları savunuyorsunuz?<br/><br/>ben kimseyi paçasından çekmeye falan çalışmıyorum. onlar bana yaşam alanı bırakmıyor. o "haftalık 300 lira kazanan adamın ekmeğinde mi gözünüz" muhabbetiniz de geçersiz.<br/><br/>benim sektörümde aylık 5000 satışlık hacim var diyelim.<br/>ben 500 satış yapıyorum aylık.<br/>evde, sağda solda bu işi kaçak yapanlar ise 10 satış yapar diyelim.<br/><br/>bu evde, sağda solda bu işi kaçak yapanlardan 300 tane var. bir anda bütün pazarın yarısından fazlasını ele geçiriyorlar demektir bu. 5000 satış hacminin 3000'i bu "tek tük elde ekmeğini çıkaranlar" tarafından satılıyorken ben asla yüksek maliyetli ürünümü satamayacağım demektir. ya dükkanımı kapatıp gideceğim (e-mağazamdan bahsedioyrum) ya da ben de vergisiz satışa başlayacağım. kapatacağım şirketi, kaçak göçek iş yapacağım.<br/><br/>bu mudur? çözüm olarak bunu mu istiyorsunuz? biz batalım, herkes 300-400 lira haftalık çıkarmak için sektörü ele geçirsin.<br/><br/>---------------<br/><br/>yakında başlatacak olduğum, türkiye cumhuriyetinin en kapsamlı şikayet listesini oluşturacağımız harekettir.<br/><br/>tek kuruş vergi vermeden, vergi veren yasal iş yapan insanlara karşı maliyet avantajı yaratarak onları batmanın eşiğine getiren "evde satarım internetten" tayfasının kökünü kazımaya çalışacağız. işin özeti budur.<br/><br/>hareket kapsamında;<br/>- tüm yasal satıcılar bilinçlendirilerek, hekresin kendi sektöründeki parazitleri kolayca maliyeye şikayet etmesi sağlanacak<br/>- oluşturulan websitesinde şikayet listeleri oluşturularak bu listeler toplu olarak düzenli bir şekilde maliye bakanlığıyla paylaşılacaktır.<br/><br/>yakında güncellerim ben bu başlığı. cezanın da, verginin de yalnızca resmi iş yapan, bir şey kaçırmayan orta gelirliyi darmaduman ettiği ortamda ya artık toplu bir hareket yapıp herkese kol gibi cezaların gelmesini sağlarız. ya da biz de şirketleri kapatır instagramdan merdiven altı satış yaparız.
+- entry_name: |
+    dalgaların kate upton'ı düşürmesi
+  entry_id:  74216050
+  entry_writer: jason305
+  entry_fav_count: 401
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dalgalar%c4%b1n+bile+k%c4%b1z+d%c3%bc%c5%9f%c3%bcrmesi">dalgaların bile kız düşürmesi</a>)
 - entry_name: |
     sibirya malta bangkok
   entry_id:  74219351
   entry_writer: denizsabun
-  entry_fav_count: 338
+  entry_fav_count: 383
   entry_content: |
     yakın zamanda ziyaret etmek istediğim 3 destinasyon.
-- entry_name: |
-    elimi öpen cennete gidiyor
-  entry_id:  74213188
-  entry_writer: kasvetlikutlama
-  entry_fav_count: 199
-  entry_content: |
-    gerçek islam bu değil, bu da değil, bu bizim köyden değil.
 - entry_name: |
     sakarya'da teşhir ürünü klozete sıçan çocuk
   entry_id:  74215470
   entry_writer: saving private haydar
-  entry_fav_count: 194
+  entry_fav_count: 213
   entry_content: |
     teşhir veya gerçek en azından nereye sıçılacağı konusunda yeni nesilde bir ilerleme var. ülkemiz ve milletimiz adına umut verici olması gerekendir.
+- entry_name: |
+    elimi öpen cennete gidiyor
+  entry_id:  74213188
+  entry_writer: kasvetlikutlama
+  entry_fav_count: 208
+  entry_content: |
+    gerçek islam bu değil, bu da değil, bu bizim köyden değil.
 - entry_name: |
     bekarlar da sanıyor ki evliler her gün sevişiyor
   entry_id:  74214797
   entry_writer: huaaa allah ne kadar super lan
-  entry_fav_count: 184
+  entry_fav_count: 186
   entry_content: |
     (bkz: <a class="b" href="/?q=arkada%c5%9f%c4%b1n+kar%c4%b1s%c4%b1na+i%c3%a7+%c3%a7ama%c5%9f%c4%b1r%c4%b1+tavsiyeleri">arkadaşın karısına iç çamaşırı tavsiyeleri</a>)
 - entry_name: |
     türklerin tarihleri boyunca yaptığı en büyük hata
   entry_id:  74205814
   entry_writer: blackmore neo
-  entry_fav_count: 165
+  entry_fav_count: 173
   entry_content: |
     araplara benzemek, arapca kullanmak, arap gibi yasamak, araplarin islam anlayisini kabul etmek vs.<br/><br/>araplarla ilgili ne varsa onu kabul etmektir.
 - entry_name: |
     sabire meltem banko
   entry_id:  74219247
   entry_writer: amudakalkansempaze
-  entry_fav_count: 127
+  entry_fav_count: 145
   entry_content: |
     osurarak uyurken periscope'u açık unutan akp'li sarışın avukat.
 - entry_name: |
@@ -73,26 +73,33 @@ data:
   entry_content: |
     lr: peynirciyim.
 - entry_name: |
-    türkiye'nin ırak'a 5 milyar dolar kredi vermesi
-  entry_id:  74214539
-  entry_writer: homonaledious
-  entry_fav_count: 113
-  entry_content: |
-    olayın aslı türk müteahhitlere ırakta iş yapması şartıyla harcanacak olan para. özalın "1 koyup 3 alacağız" cümlesindeki 3 ün 1 idir.
-- entry_name: |
     aiesec'in türkiye'yi haritalarından silmesi
   entry_id:  74212555
   entry_writer: you know my name
-  entry_fav_count: 112
+  entry_fav_count: 116
   entry_content: |
     üniversite öğrencilerine staj imkanı sağlayan, yani dolaylı da olsa bir şekilde bilime katkı sağlayan bir kurumun en basitinden coğrafya bilimini hiçe sayarak dünya haritasını kafasına göre değiştirmesi nasıl bir akla mantığa sığar anlayamıyorum.<br/><br/>türkiye'ye karşı önyargılı olabilirsin, komple sevmiyor hatta nefret ediyor da olabilirsin de harita lan bu. yani orada bir kara parçası var, sen bunu kafana göre yok ediyorsun. ve sen global hizmeti olan bir kuruluşsun. ayıp yahu.
+- entry_name: |
+    türkiye'nin ırak'a 5 milyar dolar kredi vermesi
+  entry_id:  74214539
+  entry_writer: homonaledious
+  entry_fav_count: 114
+  entry_content: |
+    olayın aslı türk müteahhitlere ırakta iş yapması şartıyla harcanacak olan para. özalın "1 koyup 3 alacağız" cümlesindeki 3 ün 1 idir.
 - entry_name: |
     jahrein
   entry_id:  74205583
   entry_writer: dedim ama niye
-  entry_fav_count: 108
+  entry_fav_count: 109
   entry_content: |
     insanların eleştirmek için bu kadar yazı yazmış olmasına anlam veremediğim boş adamın önde gideni.
+- entry_name: |
+    sevgilisi olmayanların 14 şubat'ta yapacakları
+  entry_id:  74209183
+  entry_writer: twister
+  entry_fav_count: 108
+  entry_content: |
+    sevgilisi olan başka bir arkadaşının yerine nöbet tutmak... umarım günün yüzü suyu hürmetine kolay geçer
 - entry_name: |
     bir anda evde panik yaratan çok basit şey
   entry_id:  74205044
@@ -101,13 +108,6 @@ data:
   entry_content: |
     evdeki insan nüfusu eksiksiz olarak yerindeyse kapı zilinin çalması yeterlidir.
 - entry_name: |
-    sevgilisi olmayanların 14 şubat'ta yapacakları
-  entry_id:  74209183
-  entry_writer: twister
-  entry_fav_count: 99
-  entry_content: |
-    sevgilisi olan başka bir arkadaşının yerine nöbet tutmak... umarım günün yüzü suyu hürmetine kolay geçer
-- entry_name: |
     2018 türkiye yunanistan çatışması
   entry_id:  74211578
   entry_writer: kac gigibayt
@@ -115,26 +115,40 @@ data:
   entry_content: |
     2018 yılı itibari ile 18 adası yunanlılar tarafından işgal edilen bi ülkeyiz.<br/>hani şu ekonomik krizde batacaklar, az uzo-balık, sirtaki yapsınlar diye dalga geçtiğimiz ülke bu.<br/><br/>koyun, hurşit, formoz, eşek, nergizcik, bulamaç, kalolimnoz, keçi, sakarcılar, koçbaba, ardacık, gavdos, dhia, dionisades, gaidhouronisi, koufonisi ve venedik kayalıkları.<br/>bu adalar bu ülkenin; bodrum, marmaris, didim, kuşadası'ndan görülebilen adalar. ama askerler yunan. şimdi sesimiz çıkacak öyle mi?<br/>yersen.<br/>not: yukarıdaki adalardan keçi adası, büyükada'dan iki kat büyüktür. hayalinizde kayalık canlanmasın.
 - entry_name: |
-    motosikleti bırakmak
-  entry_id:  74211702
-  entry_writer: ilkerrr
-  entry_fav_count: 79
-  entry_content: |
-    öncelikle (bkz: <a class="b" href="/entry/55964862">#55964862</a>)<br/>(bkz: <a class="b" href="/entry/60675998">#60675998</a>)<br/><br/>resmi tatil, işler istediğim gibi gitmiyor, kız arkadaşımla eften püften bir sebeple tartışmışım o da çekip memleketine kafa dinlemeye gitmiş. her şey üstüme üstüme geliyor. atlıyorum motoruma eskişehir'e doğru yola çıkıyorum. <br/><br/>ankara - eskişehir yolu dünyanın en sıkıcı yollarından, dümdüz. ankara'dan çıkmadan rotamı dağ yollarına çeviriyorum. yarım saat sonra kafamda ne kız arkadaşım var ne de işler. virajlarda yatarken asfalta yaklaştıkça yaşadığımı hissediyorum. kuş cennetinin orada duruyorum. bir fotoğraf çekip dinleniyorum.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i63.tinypic.com/ngpnnt.jpg">http://i63.tinypic.com/ngpnnt.jpg</a><br/><br/>yolun kalan kısmında yavaş gideyim diye içimden geçiriyorum. atlıyorum motora ve yavaş yavaş yol almaya devam ediyorum. eskişehir'e 20 km var. yokuş yaklaşık 30 km hızla inerken bir viraj var. hızım virajı dönmek için yeterli ama biraz daha yavaşlamak istiyorum. motorun dengesi bozulmasın diye arka frene yavaşça dokunuyorum. yol çok tozlu ve arka teker kızaklıyor. panik oluyorum, arka freni bırakıp öne dokunuyorum yine kayıyor. bu sırada en yapmamam gereken şeyi yapıyor ve bakışlarımı yol dışına kaydırıyorum. çok kısa bir sürede yol kenarındaki kum birikintisine çarpıyorum. çarparken kendimi kasıyorum, gözlerim kapalı. sonra gözlerimi açıyorum. tüm korumalarım var. motorum karşımda kuma saplanmış duruyor. hemen elimi belime atıyorum. tamam hissediyorum felç değilim. boynumu oynatıyorum oynuyor. sonra bacaklarıma bakıyorum. sağ bacağımda bir gariplik var. oynatamıyorum ama acı yok. doğrulup yola işaret ediyorum. kırmızı bir brodway duruyor. nerde olduğumuzu biliyor musunuz diye soruyorum. anlatmaya başlıyor. adamın lafını kesiyor 112'yi arıyorum. motosiklet kazası geçirdim sağ uyluk kemiğim kırık gibi ambulans yollayın diyorum. yerimi soruyorlar broadway'li amcaya veriyorum telefonu. <a class="b" href="/?q=eksiteker">eksiteker</a>deki arkadaşlara yazıp, "ben kaza yaptım bacağım kırık gibi eskisehir'de bana yardım edebilecek birisi var mı?" diyorum. o sırada ambulans geliyor. ambulansa bindirilirken dayanılmaz acılar çekiyorum. hastahaneye giderken köpeğimi düşünüyorum. ona kim bakar.<br/><br/>acile yattıktan sonra kafamda bir plan kuruyorum. ailemi korkutmak istemediğim için haber vermemeye karar veriyorum. tamam bacağım kırık, ama oturturlar ve alçıya alırlar ben de otobüste yan koltuğu da satın alır ankara'ya dönerim diyorum. resmi tatil olduğu için hastahanede ortopedist yok. evinden çağırıyorlar. geliyor elimi tutuyor. dur bi dakika ben doktorları sevmem ki. sakin ol diyor. ben sakinim zaten. ama bir pislik olduğunu o zaman anlamaya başlıyorum. röntgene götürülüyorum. sedyeden sedyeye geçmek zulüm geliyor. filmlerim çıkıyor. doktor yanıma geliyor. tebrik ederim vücudun en kalın kemiğini kırmışsın diyor. sağ <a class="b" href="/?q=femur">femur</a> ve <a class="b" href="/?q=femur+boynu">femur boynu</a>'nu kırmışım. ama beni korkutan o değil. femur boynun kaynamaya bilir diyor. ne olacak diyorum. konuşuruz diyip gidiyor. 15 dakika sonra yanıma geliyor. beni alçıya alın ben ankara'ya gideyim diyorum. bu öyle bir kırık değil diyip anlatmaya başlıyor. femur'u toparlarım diyor ama femur boynu çok riskli. kaynamayabilir diyor. risk ne diyorum. %20 kaynamama riski var kaynasa bile yürümen eskisi gibi olmayabilir diyor. %80 iyileşirim o zaman cevabını veriyorum. tıpta %20 çok yüksek ihtimal sen yine de o kadar ümitlenme diyor. sonra anlatmaya başlıyor. bu tarz kırıklarda acil müdahele önemliymiş. ameliyat günüm değil ama istersen birkaç saat sonra gelip seni ameliyata alayım diyorum. tamam diyorum. aileme haber vermemi istiyor. ama bir dakika nasıl söyleyeceğim. durumum iyi desem de inanmazlar ki zaten iyi de değil. eksiteker den arkadaşlar geliyor bana destek oluyor ve ilgileniyorlar. ankara'dan bir abimi arıyorum. atla eskişehir'e gel kaza yaptım diyorum. 2 saatte eskişehir'e geliyor. abi babamı ara ilker kaza yaptı durumu iyi yanındayım de diyorum. arıyor. sonra telefonu alıyorum baba bacağım kırık ameliyat olacağım korkmayın diyorum. babam antalya'dan annem ankara'dan yola çıkıyor ben ameliyata giriyorum. kız arkadaşımı arıyorum ve ben kaza yaptım önemli birşeyim yok, ankara'ya dönüp köpeğime bakabilir misin diyorum. o kadar çok kişiyi tedirgin ve mutsuz ediyorum ki o an kendimi düşünmüyorum. doktorum bir kağıt getiriyor. ameliyatın risklerini anlatan ve düzelemeyebileceğim ihtimalini bilerek ameliyata gireceğimin kağıdına imza atıyorum.<br/>ameliyathanedeyim. çekik gözlü bir ameliyat görevlisi beni bayıltmak için yaklaşıyor. sen de tam eskişehirliymişsin diyorum. gülümsüyor herhalde. ağzında ağızlık var görmüyorum. sonra bir tokat ile uyanıyorum. 5 saat ameliyatta kalmışım odama götürürken ayılayım diye tokat atmışlar. çağırdığım abi ve eşi yanımda. annem ilerde bekliyor. hiçbir şey demiyor. ağlamıyor bile. beni görünce hemen yanıma geliyor, her şey düzelecek diyor. o an doktorun söylediklerini idrak ediyorum. düzelemeyebilirim. sabaha karşı babam geliyor. herkes perişan ve sorumlusu benim.<br/>sabah yanımda biri yatıyor. bende de <a class="b" href="/?q=1000rr">1000rr</a> vardı diyor. sen nasıl kaza yaptın diyorum. ben bıraktım menisküs ameliyatı oldum diyor. abi nasıl bıraktın diyorum. oğlum oldu diyor. aklıma babam geliyor gözlerim doluyor.<br/><br/>uzatmayayım 2 hafta hastanede yatıp taburcu oluyorum. ambulansla ankara'ya kadar getiriyorlar. 6 ay yürüyemiyorum.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i65.tinypic.com/24boh91.jpg">http://i65.tinypic.com/24boh91.jpg</a> <br/><br/>bu benim motorla ilk ciddi kazamdı ama 1 yıl önce ciddi bir araba kazam da var. babam "oğlum 2 oldu ben 3. ye dayanamam diyor". babam hayatında ilk defa bana böyle bir şey diyor. motorumu satıyorum. kaskımı artık sadece soğan soyarken takıyorum.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i66.tinypic.com/2m4jl.jpg">http://i66.tinypic.com/2m4jl.jpg</a><br/><br/>hayatımda hiçbir şeyi özlemediğim kadar o motorun üstünde olmayı özlüyorum. <sup class="ab"><a title="(bkz: ailenizin drama queen&#39;i ilker ankara&#39;dan bildirdi)" href="/?q=ailenizin+drama+queen%27i+ilker+ankara%27dan+bildirdi" data-query="ailenizin drama queen&#39;i ilker ankara&#39;dan bildirdi">*</a></sup>
-- entry_name: |
     05353068279
   entry_id:  74219662
   entry_writer: penguent
-  entry_fav_count: 73
+  entry_fav_count: 76
   entry_content: |
     aradım açmadı. <br/><br/>sonra o aradı, intikam almak için ben açmadım. nasıl olsa tekrar arar dedim. aramadı.<br/><br/>dayanamayıp tekrar aradım. bu sefer açtı. tam ben alo deyince yüzüme kapadı. <br/><br/>bir daha aramayacağıma söz verdim. aramadım da. o aradı. alo dedi. hüzünlü bir sesi vardı. haline acıdım ama hırsıma yenilip yüzüne kapadım.<br/><br/>whatsapp'tan yazdı. "selam" yazmış. "selam" yazdım. bir şeyler yazdı, sonra sildi, tekrar yazdı, tekrar sildi, çevrimdışı oldu. sanırım engelledi beni. profil resmi kayboldu çünkü. bilemiyorum. <br/><br/>14 şubat'ı yine yalnız geçirdim.
+- entry_name: |
+    hürriyet'in şeyma subaşı haberi
+  entry_id:  74211805
+  entry_writer: queen bee
+  entry_fav_count: 64
+  entry_content: |
+    şeyma'nın harvard ve stanford'da doktora yaptığını öğrendiğim haber. <br/><br/>hani benim hayallerimi yaşıyormuş ya hürriyete göre.<br/><br/>türk kadınlarının hepsini evli bi adamdan çocuk yaparak dolaylı yoldan zengin olan bi kadına özeniyor sananlara hastayım. hayat sizin için ne kolay lan.
 - entry_name: |
     fırat üniversitesi'nde geliştirilen robot balık
   entry_id:  74219602
   entry_writer: sad clown
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     ondan sonra gömünce bizim insanımızı neden gömüyorsun diyorlar...<br/><br/>desinler çok da sikimde.<br/><br/>ulan bunun <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=dp55IPU2mdI" title="https://www.youtube.com/watch?v=dp55IPU2mdI">uzaktan kumandalısını</a> daha geçen yeğenime aldım amk.
+- entry_name: |
+    referandumdan 51 nokta 2 hayır çıktı
+  entry_id:  74221062
+  entry_writer: machete klonu
+  entry_fav_count: 54
+  entry_content: |
+    (bkz: <a class="b" href="/?q=peki+bu+bilgi+ger%c3%a7ek+hayatta+ne+i%c5%9fimize+yarayacak">peki bu bilgi gerçek hayatta ne işimize yarayacak</a>)
+- entry_name: |
+    habire götten zarto
+  entry_id:  74219374
+  entry_writer: zwiegesprach
+  entry_fav_count: 52
+  entry_content: |
+    dilekçesi muhtemelen aşağıdaki gibi olan başlık:<br/>"ekşi sözlük'te yer alan <a class="b" href="/?q=habire+g%c3%b6tten+zarto">habire götten zarto</a> başlığının kişilik haklarımı zedelemesi nedeniyle başlıkta yer alan içeriklere erişimin engellenmesi için gereğinin yapılmasını arz ederim."<br/><br/>yazarken kahkahalarımı tutamıyorum, cidden bunu yazdı mı acaba?
 - entry_name: |
     geceye bir recep tayyip erdoğan atarı bırak
   entry_id:  74206743
@@ -143,12 +157,19 @@ data:
   entry_content: |
     geceye bir recep tayyip erdoğan atarı bırakmayı <a class="b" href="/?q=sizden+%c3%b6%c4%9frenecek+de%c4%9filim.">sizden öğrenecek değilim.</a>
 - entry_name: |
-    habire götten zarto
-  entry_id:  74219374
-  entry_writer: zwiegesprach
+    evlilikte seksin bitme sebebi
+  entry_id:  74216066
+  entry_writer: bunker tepesi dusleri
+  entry_fav_count: 48
+  entry_content: |
+    sen çok yanlış gelmişsin kardeş diyerek girizgah yapmak istediğim tespit. lakin şöyle bir şey var; evlilikte seks bitmiyor, seksten alınan haz azalıyor. şu da hatalı; evlilikte seksin ve seks hayatının durağanlaşmasının sebebi yek olarak ' evlilik, evlenmiş olmak ' değildir. <br/><br/><a class="b" href="/?q=a+dangerous+method">a dangerous method</a> filminde, <a class="b" href="/?q=michael+fassbender">michael fassbender</a>in canlandırdığı, psikanalitik bilimin öncülerinden <a class="b" href="/?q=carl+gustav+jung">carl gustav jung</a>'a atfedilen cümle de karakterimiz şöyle diyor;<br/><br/>'' aynı çatı altından yaşayan bireyler için seks artık bir alışkanlık oluyor. ''<br/><br/>tam olarak budur.<br/><br/>kafa ütülemeye gerek yok.
+- entry_name: |
+    adana'da kavgaya iş makinasıyla giren adam
+  entry_id:  74219765
+  entry_writer: piki miki
   entry_fav_count: 47
   entry_content: |
-    dilekçesi muhtemelen aşağıdaki gibi olan başlık:<br/>"ekşi sözlük'te yer alan <a class="b" href="/?q=habire+g%c3%b6tten+zarto">habire götten zarto</a> başlığının kişilik haklarımı zedelemesi nedeniyle başlıkta yer alan içeriklere erişimin engellenmesi için gereğinin yapılmasını arz ederim."<br/><br/>yazarken kahkahalarımı tutamıyorum, cidden bunu yazdı mı acaba?
+    şaka maka işin ehli gibi gözüküyor. adam kepçeyi akülü araba gibi kullanıyor lan.
 - entry_name: |
     14 şubat 2018 sevgililer günü
   entry_id:  74204774
@@ -157,40 +178,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9fi%c5%9feden+%c5%9farap+i%c3%a7ip+a%c4%9flayarak+otuzbir+%c3%a7ekmek">şişeden şarap içip ağlayarak otuzbir çekmek</a>)
 - entry_name: |
-    evlilikte seksin bitme sebebi
-  entry_id:  74216066
-  entry_writer: bunker tepesi dusleri
-  entry_fav_count: 43
-  entry_content: |
-    sen çok yanlış gelmişsin kardeş diyerek girizgah yapmak istediğim tespit. lakin şöyle bir şey var; evlilikte seks bitmiyor, seksten alınan haz azalıyor. şu da hatalı; evlilikte seksin ve seks hayatının durağanlaşmasının sebebi yek olarak ' evlilik, evlenmiş olmak ' değildir. <br/><br/><a class="b" href="/?q=a+dangerous+method">a dangerous method</a> filminde, <a class="b" href="/?q=michael+fassbender">michael fassbender</a>in canlandırdığı, psikanalitik bilimin öncülerinden <a class="b" href="/?q=carl+gustav+jung">carl gustav jung</a>'a atfedilen cümle de karakterimiz şöyle diyor;<br/><br/>'' aynı çatı altından yaşayan bireyler için seks artık bir alışkanlık oluyor. ''<br/><br/>tam olarak budur.<br/><br/>kafa ütülemeye gerek yok.
-- entry_name: |
     cumhurbaşkanlığı adaylığımı öcalan engelledi
   entry_id:  74219054
   entry_writer: quat
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     iddia kanıtlansa da bir halt olmaz.
-- entry_name: |
-    adana'da kavgaya iş makinasıyla giren adam
-  entry_id:  74219765
-  entry_writer: piki miki
-  entry_fav_count: 36
-  entry_content: |
-    şaka maka işin ehli gibi gözüküyor. adam kepçeyi akülü araba gibi kullanıyor lan.
 - entry_name: |
     talisca'ya türk isim önerileri
   entry_id:  74217737
   entry_writer: darkman
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     adamın adı anderson lan
 - entry_name: |
     1500 pound maaş londra vs 10 bin tl maaş istanbul
   entry_id:  74204456
   entry_writer: trumpets
-  entry_fav_count: 35
+  entry_fav_count: 36
   entry_content: |
     türkiyede aylık yaklaşık 2500 tl geliri ile ünüversitede çocuk okutabilen bir baba olarak hayretle okuduğum yazıları içeren başlık. haşin ekşiciler beni gömmeden önce kısa kısa bilgiler vereyim.<br/>kira ödemiyorum.<br/>arabam, motorum, bisikletim bile yok.<br/>yaşadığım ilçede toplu taşımaya ihtiyacım yok.<br/>sigaramı kendim sarıyorum.<br/>bahçemde tavuklarım, üç adet zeytin ağacım var.<br/>interneti yan komşumdan sömürüyorum. (sağ olsun şifreyi verdi.)<br/>evinde kaçak rakı yapan arkadaşım bana arada sırada votka yapıyor. (rakı sevmem.içmem)<br/>kıza aylık 1300 tl gönderiyorum. geri kalan 1200 tl ile şimdilik geçinebiliyorum. ( ortalama elk,su,tlf masrafı yaklaşık 175tl)<br/>sonuç: orayı burayı mukayese edeceğinize götü kurtarmaya bakın..
+- entry_name: |
+    14 şubat 2018 real madrid psg maçı
+  entry_id:  74214592
+  entry_writer: ge ji kai
+  entry_fav_count: 34
+  entry_content: |
+    başlama saati: 22.45 (tsi)<br/>kanal: tivibuspor 2<br/><br/>saatine ayrı <sup class="ab"><a title="(bkz: kış saati uygulaması)" href="/?q=k%c4%b1%c5%9f+saati+uygulamas%c4%b1" data-query="kış saati uygulaması">*</a></sup> kanalına ayrı sokayım dedirtmiştir.
 - entry_name: |
     esprilerde kullanılan erkek isimleri
   entry_id:  74209307
@@ -199,6 +213,13 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=mahmut">mahmut</a>)
 - entry_name: |
+    13 şubat 2018 tarihli uğur meleke yazısı
+  entry_id:  74210535
+  entry_writer: yawheehe
+  entry_fav_count: 33
+  entry_content: |
+    paranoyak mısınız oğlum ne var adamın bu yazısında? hamza'yı eleştiriyor adam takımı hiçbir reaksiyon veremediği için eleştirmesin mi? gs'yi de övüyor aynı paragraf içerisinde. yeminlen kafayı yemişssiniz siz, işiniz zor.
+- entry_name: |
     sait faik'in abasıyanık kitabı
   entry_id:  74204414
   entry_writer: aparullo
@@ -206,38 +227,17 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=lin%c3%a7+ya%c5%9f%c4%b1n%c4%b1n+12%27lere+kadar+d%c3%bc%c5%9fmesi">linç yaşının 12'lere kadar düşmesi</a>)
 - entry_name: |
-    14 şubat 2018 real madrid psg maçı
-  entry_id:  74214592
-  entry_writer: ge ji kai
-  entry_fav_count: 29
-  entry_content: |
-    başlama saati: 22.45 (tsi)<br/>kanal: tivibuspor 2<br/><br/>saatine ayrı <sup class="ab"><a title="(bkz: kış saati uygulaması)" href="/?q=k%c4%b1%c5%9f+saati+uygulamas%c4%b1" data-query="kış saati uygulaması">*</a></sup> kanalına ayrı sokayım dedirtmiştir.
-- entry_name: |
-    anderson talisca'ya türkçe isim önerileri
-  entry_id:  74217086
-  entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 28
-  entry_content: |
-    talih sıska
-- entry_name: |
-    en acıklı müziğe sahip olan filmler
-  entry_id:  74204855
-  entry_writer: bahara kadar bekle bandini
-  entry_fav_count: 23
-  entry_content: |
-    <a class="b" href="/?q=can%c4%b1m+karde%c5%9fim">canım kardeşim</a> - <a class="b" href="/?q=cahit+oben">cahit oben</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Y231x2bhWkE" title="https://youtu.be/Y231x2bhWkE">dinlerken yutkunamamak garanti</a><br/><br/>ek olarak:<br/><a class="b" href="/?q=u%c3%a7urtmay%c4%b1+vurmas%c4%b1nlar">uçurtmayı vurmasınlar</a> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Lf3eXixRxeE" title="https://youtu.be/Lf3eXixRxeE">küçük barış'ın yaşlarındayken izlemişseniz baya sizi hüzünlendirecek ve içinizi acıtacak</a>
-- entry_name: |
     dursun özbek
-  entry_id:  74216007
-  entry_writer: high functioning psychopath
-  entry_fav_count: 22
+  entry_id:  74216041
+  entry_writer: sen degil ben degil peki kim kardashian
+  entry_fav_count: 24
   entry_content: |
-    dursun özbek, alacak, sponsor, beyefendi, duruş...<br/><br/>bu anahtar kelimelerle kurulabilecek en yanlış cümleleri kurmuş arkadaş, tebrik ederim. iyi para veriyorsa ben daha güzel bir paragraf çıkarabilirim amatörlerle çalışmasın.
+    kendisini öven en ufak bir entry gördüğümde basıyorum engeli. çünkü bu tip insanların ağır psikolojik problemleri olduğunu düşünüyorum.<br/><br/>galatasaray tarihinin en yalancı ve en iş bilmez başkanı. en sevimsizi, en sevilmeyeni, en en en iticisi, en başarısızı.
 - entry_name: |
     nuray hafiftaş
   entry_id:  74212051
   entry_writer: whatyougetiswhatyoudid
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     bugün tekrar yoğun bakıma alınmış ve doktorlar artık her şeyin sonuna gelindiğini alenen söylüyorlarmış...<br/><br/>çok çok üzüldüm. gittiğim ilk konser onundu, kars'ta idik 7-8 yaşında falandım. evet bu kadar özel bir anımın sahibidir.<br/><br/>ne diyeyim... allah onun için en hayırlısını versin :'(
 - entry_name: |
@@ -248,6 +248,13 @@ data:
   entry_content: |
     elon mars
 - entry_name: |
+    apo'dan talimat getiren bakan
+  entry_id:  74219917
+  entry_writer: bakhele sen bugun cok komiksin ha
+  entry_fav_count: 21
+  entry_content: |
+    islamcılar ve kürtçüler el ele türkiye cumhuriyetini yıkmak için uğraşıyor dediğimizde tepki alıyorduk. işte kanıtı
+- entry_name: |
     ufak tefek cinayetler
   entry_id:  74204433
   entry_writer: turiq
@@ -255,26 +262,12 @@ data:
   entry_content: |
     taytay: aa sevgililer günü ve gidiyosun. aa yırttık valla yırttık.<br/><br/>efsane karaktersin lan taytay.<br/><br/>neyse. <br/><br/>haftaya yayınlanacak bölümün de yarısını izlediğimize göre yatabiliriz. <br/><br/>seviyorum bu diziyi.
 - entry_name: |
-    hakemli dergide sözlüğe atıf yapan yayın
-  entry_id:  74204912
-  entry_writer: korsantrenistasyonu
-  entry_fav_count: 17
+    fetö darbe yapmayı kimden öğrendi
+  entry_id:  74220159
+  entry_writer: taurielin cool cuhu
+  entry_fav_count: 14
   entry_content: |
-    kendisi hakkari üniversitesi(!) iktisat fakültesinde yrd.doç. (yeni adıyla dr.öğretim üyesi) kadrosundadır tıpkı şu doktora tezi skandalındaki şahıs gibi, aynı zamanda idari görev olarak dekan yardımcısıdır. akademik seviyesi, kaynak bulma ve gösterme becerisi de maalesef bu kadardır. makalenin kaynakçası göz kanatır seviyededir, sözlüğe bile eyvallah desek, cia ile ilgili bilgiyi forum sitesinden almış, yuh denir yuh. uluslararası ilişkiler okumuş ama büyük ihtimalle yes/no haricinde ingilizcesi yoktur. tercüman mıyız biz, ingilizceye ne gerek var diyen tayfaya en büyük örneklerden birisidir bu, ingilizce kaynak tarayamadığı için büyük bilgi kaynağı olan türkçe "forumlara" başvurmuştur. sonuçta bir sıkıntı yaşamayacaktır kendisi. bu haliyle uluslararası indeks yayın yapamaz kendisi ama başkasına yanaşır, ortak yazar olur, hatta para verir onu da halleder doçent de olur profesör de.
-- entry_name: |
-    apo'dan talimat getiren bakan
-  entry_id:  74219917
-  entry_writer: bakhele sen bugun cok komiksin ha
-  entry_fav_count: 16
-  entry_content: |
-    islamcılar ve kürtçüler el ele türkiye cumhuriyetini yıkmak için uğraşıyor dediğimizde tepki alıyorduk. işte kanıtı
-- entry_name: |
-    küçükken istenen ama sahip olunamayan şeyler
-  entry_id:  74210269
-  entry_writer: my love away
-  entry_fav_count: 15
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bisiklet">bisiklet</a>)<br/><br/>çok ama çok istemiştim. almanya da çalışıp yaz tatillerinde memlekete gelen bir arkadaşımız vardı. her yaz yeni bir şeyle gelirdi. o gelişinde bisikletle gelmişti. mahallenin çocukları hep peşindeyiz. kız bir havalı hir havalı. kimsede bisiklet yok o zamanlar. herkes yalvarıyor binmek için, o da, herkesi inletip canı isterse olur diyor. ben de bir gurur bir gurur, çok istiyorum ama yalvarmak da istemiyorum. çocukların düştüğü halleri görüyorum.her gece o bisikleti düşünüp uyudum bir ay boyunca elimi bile sürmedim. sonra gittiler, bisikletini arabalarına yükleyip.<br/><br/>ardan zaman geçti babamdan istedim “paramız yok” dedi, oysa vardı, peki dedim. <br/><br/>yıllar yıllar sonra artık ben genç kız olduğumda küçük erkek kardeşim ister istemez alındı. bunu da gurur yapıp o an içimden ve gece gizli gizli ağladım.<br/><br/>kardeşim ısrar etse de hiç binmedim. sonra yine biraz zaman geçince denedim ama beceremedim.<br/><br/>yıllar içinde ne zaman bir yerde görsem denedim ama hiç beceremedim. hala da isteyip öğrenemediğim şeylerden biridir, bisiklet kullanmak. nasıl yaralanmışsam artık
+    bunu o kizilirmak ilkögretimde, maltepe dersanesinde ayni kaptan yeyip ayni kaba pisledigin fetocu abilerine birinci agizdan sorsana delikanli.
 - entry_name: |
     the red pill
   entry_id:  74210239
@@ -297,19 +290,12 @@ data:
   entry_content: |
     şimdiden san marinolular doluşmaya başlamış. destansı luksemburg tokadını lichtensteinlılara bir sorsunlar.<br/><br/>geliyoruz! <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
-    fetö darbe yapmayı kimden öğrendi
-  entry_id:  74220159
-  entry_writer: taurielin cool cuhu
-  entry_fav_count: 10
+    cedi osman
+  entry_id:  74219570
+  entry_writer: bionical turk
+  entry_fav_count: 11
   entry_content: |
-    bunu o kizilirmak ilkögretimde, maltepe dersanesinde ayni kaptan yeyip ayni kaba pisledigin fetocu abilerine birinci agizdan sorsana delikanli.
-- entry_name: |
-    sevgililer günü
-  entry_id:  74209729
-  entry_writer: cheza seeker
-  entry_fav_count: 9
-  entry_content: |
-    sevgililer gününde sözlük ve arkadaşlarımla hasret gidermek ve aşk hakkında birkaç laf etmek istiyorum. <br/><br/>“aşk mutlu olmak için değil, mutlu olmayı öğrenmek için vardır” diyerek başlayalım ve "aşk nedir?" sorusu ile devam edelim:<br/><br/>aşk, "bölünmüş bütün"ün (öncel mutluluk ve tamlık evreninin), dişi ve erkek bazında yeniden 'bir' olması, böylece o evrenin yasak mutluluk frekansı ile kontağa geçebilme ortamıdır. ("öncel mutluluk ve tamlık evreni" hakkında bilgi almak için <a rel="nofollow noopener" class="url" target="_blank" href="http://www.janus722.com/yasak_yazilar/yazilar/1_722_5.html" title="http://www.janus722.com/yasak_yazilar/yazilar/1_722_5.html">bu</a>) linki ziyaret edebilirsiniz.<br/><br/>şimdi de "aşk nasıl meydana gelir?" sorusu ile konuda biraz daha derine inelim:<br/><br/>aşkı, madde ve madde ötesi adlı iki ayrı planda gerçekleşen iki farklı çakışma yaratır. yani aşk, kişinin beden ve ruhunun elektromanyetik (em) alanlarının, başka birinin beden ve ruhunun em alanları ile "çakışması" ile oluşur.<br/><br/>günlük ortamda (genelde) bedensel em alanlar çakışır ve böylece seksüel duygular kolayca uyanır. bunda bir kötülük yoktur, bu duygu da kutsal bir ortam yaratır; çünkü seks de öncel tamlığı tesis etme yoludur. (tabii ki "seks" derken, bir erkeğin bir kadına abanıp boşalması ile yorumlanan bir eylemden değil; "paylaşma ve sonuca birlikte varma" şeklinde ifade edilebilecek bir tamlıktan söz edilmektedir.)<br/><br/>işin kötü yanı bu duygunun yaratığı kuantum entanglement’ın (“kuantum dolanıklığı”nın) aşk sanılması ile başlar. aşk, güçlü bir dolanıklık yaratsa da -pop kültürün belletmeye çalıştığı gibi- her dolanıklık aşk değildir.<br/><br/>buraya dek söz ettiklerimizi toparlayalım: aşk, ruh adlı particle’ın yaydığı em alan ile bedenden yayılan em alanın (ilginçtir, en fazla kalpten yayıldığı tespit edilmiştir) çakışmasıdır.<br/><br/>ancak maddesel planda, yani dünyada, işler her zamanki gibi böyle kolayca ilerlememektedir: bu ortamda bedenleri çakıştırmak görece kolaydır... ama ruhların çakışması? işte zurnanın "zurt" dediği yer burasıdır; çünkü ruhların çakışmasını engelleyen (bizlerin -fazla derine inmemek için- "ataerkil kültür" dediği) bir sistem vardır ve bu istem beyin üzerinde obsede durumdadır. beyin, sadece kendisine öyle ezberletildiği için "alelacayip" davranmakta ve ruh çakışmasının iki oyuncusu arasına aşılmaz bir kanyon açmaktadır.<br/><br/>stuart hameroff tarafından "platonik gerçekler" olarak ifade edilen öznel iyilik (doğal uyum ve denge eğilimi) fotonların var olduğu düzeyde (kuantum uzay-zaman geometrisinde) reeldir.<br/><br/>söz konusu (denge ve uyum vibrasyonu olarak ifade edilecek frekans) her bir elektronunun doğasında yer alır. "seçimler yapma kapasitesi kaynağı olarak algılanacak ana bilinç bir ölçüde her elektron’un doğasında gömülüdür.” freeman dyson.<br/><br/>ancak bu gerçekler bilinçli deneyim meydana getirmek için beyin süzgecinden geçmek zorundadırlar. "fotonların var olduğu düzeyde sübjektivitenin var olmasına rağmen, bilinçli deneyimin temeli olan modeller meydana getirmek için beyin sistemlerine gerek vardır." herms romijn.<br/><br/>işte aşkın acı verme nedeni beden em alanları çakışmış ruhların çakışmasına engel olan -neredeyse hepsi yaygın inanç ve kültürün ürünü olan, yani doğal, doğada (beynin fabrika ayarlarında) özgün şekilde yer alamayan kavramlar tarafından- obsesyona uğramış beyindir!<br/><br/>ataerki beyinlere yerleştirdiği programlarla neler belletmemiştir ki? “erkeksin ele geçir, sahip ol, hükmet, yönet” den, “kadınsın naz yap, kaç, verme, ayıp”a değin neler de neler...<br/><br/>hatta, “erkeksin/kadınsın kıskan, ezilme, aldatılma, yalnız kalma, bırakma, yollama, engel ol, sözünü geçir, dediğini yaptır!"...<br/><br/>örneklediğime benzer yüzlerce belalı ve doğa dışı bilgi ile yüklenmiş zavallı beyin -iyi bir iş yapıyorum diye- kişiyi mahv-ü perişan olmaya yönlendirir durur. kısa süre sonra negatif enerjinin devreye girerek ortada cirit atmaya başlaması artık kaçınılmazdır.<br/><br/>fark edilmesi zor olsa da;<br/>- en az sevilenle empati yapılır,<br/>- en az sevilene güvenilir,<br/>- en az sevilene -istek ve ihtiyaçları adına- anlayış ve hoşgörü gösterilir.<br/><br/>sevilen, sevenin yaşamında erdem adlı kavramlardan en az pay alan kimsedir genelde. sevilen sadece sevilir, istenir ve özlenir. yapılan özveriler armağan almak, soğukta ceket vermek, arabayla bırakmak, hesabı ödemekten öte geçmez. fedakarlık, sabır, anlayış gibi kavramlar genelde petler, yaşlı akrabalar, hatta kimsesizler içindir.<br/><br/>oysa her ilişkide olduğu gibi, aşkta da mutluluk (ve başarı) ancak sevilene erdem denilen kavramların sergilenmesi ile başlayabilir; çünkü bu kavramları sergilemek, aradaki yarığı kapatmak "bir"leştirmek anlamındadır. erdemler "bütünlük" yaratmak adına vardır.<br/><br/>ne yazık ki ataerkil doğrularla terbiye edilmiş(!) beyinler sevdiklerini sadece öldürmeye (silah çekip vurmaktan değil, ruhunu öldürmekten söz ediyorum) çalışırlar... çünkü değiştirmeye uğraşırlar. (yaşanan çatışmaların nedeni genelde “şunu şöyle yap” / “hayır yapmıyorum, sen yap” değil midir?) sevilen kişi, her zaman sevenin gerçekleri bazında yeniden yaratılmaya çalışılır. oysa yeniden yaratmak için önce öldürmek gerekir. kimse ölmek istemediği için olay çıkar.<br/><br/>ayrıca "sevilenin sevenin istediği gibi davranmaya zorlanması" tavrı sinesinde “sevilenin orijinal hali ile sevilmediği” düşüncesini taşımaktadır; çünkü gizli amaç "sevileni kendi ihtiyaç ve beklentilerine uygun modele indirgeyerek asıl sevebileceği kişiyi yaratmak"tır! bu yüzden "sevdiğinin üzerine titremek", onu her saniye yanında istemek demek değil; sevdiğinin ihtiyaçlarını, hatta gerçeklerini anlamak, bunlara saygı duymayı becermek, bunları realize etmesine destek ve yardımcı yardımcı olmak, yani uyum göstermektir.<br/><br/>“anlayış, hoşgörü, fedakarlık, sabır, saygı" benzeri davranışların üstlenememe nedeni bu davranışların sıkıntı vermesi, zor gelmesi, hatta ufak çaplı acılar yaratmasıdır. işin trajik-komik yanı ise asıl acıyı (hatta tehlikeyi) bu davranışlardan -acı çekecek olma korkusu yüzünden- kaçmanın yaratıyor olmasıdır.<br/><br/>aşık olmak kolaydır... zor olan beyni aşık olduğuna ikna etmek, yani hatalı programları silmesini ve ruhların kaynaşmasına olanak sağlayacak doğal vibrasyonlarla bütünleşmesini istemektir.<br/><br/>söz konusu yıkıcı programlar delete edildikten sonra elde edilen "iyileşme” ile sadece aşkın vereceği benzersiz mutluluklarla değil, çok farklı alanlarda bile -başarı, rahatlık, doyum, keyif, benzeri- nadide sanılan kavramların ne denli yakında olduğu görülecektir. <br/><br/>sözün özü: aşk bir eğitim sürecidir, zayıf puanlar can sıksa da birer yol göstericidir. yaşam değil, aşk gazlanacak yerdir. o zaman sözün daha da özü: aşık olmaya tam gaz devam!
+    hakkında "sirf turk vatandasi (ki devsirme) diye nba izleyecekler izlemesin dedirten basketbolcu." şeklinde bir cümle yazılmış türk basketbolcu.<br/><br/>türk mü devşirme mi olduğunu isterseniz aşağıdaki videoda kendi ağzından dinleyebilirsiniz: (28:17'den itibaren dinleyin)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/_kKC9QmnxHY?t=1697" title="https://youtu.be/_kKC9QmnxHY?t=1697">cedi osman</a>
 - entry_name: |
     sevgilinin daha çok sevildiği an
   entry_id:  74206648
@@ -317,6 +303,27 @@ data:
   entry_fav_count: 8
   entry_content: |
     ayakkabı bağlamayı beceremediğim için bağcıklarımın sürekli açılması ve dışarda üşenmeyip her defasında eğilip bağlaması, zayıf olduğum için sürekli 'şunu bitir, şundan da yer misin?' demesi, yazın sinekler yediği için 'bak her yerim ısırık oldu' dedim diye ertesi gün sinek ilacı alması, çok üşüdüğüm için termal çorap, şişme mont alması, yine birlikte duşa girip çıktıktan sonra üşümemem için saç kurutma makinesiyle beni kurulaması, mutluluğumdan mutlu olması, bilmediğim görmediğim yerleri götürmesi, ne olursa olsun saygısını ve sabrını kaybetmemesi ve de en önemlisi varlığından dolayı şükrettiğim anlar..
+- entry_name: |
+    pkk'lı obez terörist
+  entry_id:  74204727
+  entry_writer: katamaster
+  entry_fav_count: 8
+  entry_content: |
+    aggro tutsun diye partiye alınmış tanktır. yatınca "healer bize bokmiyır" deme olasılığı yüksektir.
+- entry_name: |
+    survivor 2018 all-star
+  entry_id:  74210236
+  entry_writer: cj
+  entry_fav_count: 5
+  entry_content: |
+    nihat doğan nedeniyle izlemediğimiz survivor dır kendisi.<br/><br/>(bkz: <a class="b" href="/?q=ay%c4%b1p+ettin+acun">ayıp ettin acun</a>)
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  74208137
+  entry_writer: coolest
+  entry_fav_count: 5
+  entry_content: |
+    "günlük tuttum senin için her buluştuğumuzun akşamı. hiç haberinin olmadığı nice aksamlar seni dusunerek gecirdim ben dile kolay 4 yıl. al oku okuyabilirsen diyecegim de katılaşmış yüreğin için artık çabalamaktan yoruldum ben. birşeyi kanıtlamaya falan da çalışmıyorum. hiç haketmedigin bu sevdayı atamadım içimden o da benim ayıbım olsun. kör müydün be adam bitirdin beni. belki bir gün seversin beni diye günlerimi eskittim. haketmediğin bu sevdayı da elindeki o günlüğü de içimdeki seninle birlikte yakacağım bu akşam. zor olacak ama şimdikinden daha kötü olmam sanırım. herşey senin için iyi olsun bundan sonra. ne beddua ne başka birşey kötülüğünü bile isteyemiyorum görüyorsun ya. sevda nedir bilmeyecek kalbin sana yeter daha kötü ne olur ki zaten. kendine iyi bak" deyip gittin. yazık ki sevda nedir bilmeyecek kalbim beni mahvediyor haklı çıktın. o günü düşündükçe bir ağırlık çöküyor yalnızlığımda boğuluyorum. anlayacağın müthiş bir uyuşukluk bir hissizlik hali. bu kadar.<br/>"hiçbir şeyim yok akıp giden sokaktan başka,<br/>keşke yalnız bunun için sevseydim seni”
 - entry_name: |
     ekşi itiraf
   entry_id:  74205372
@@ -332,24 +339,17 @@ data:
   entry_content: |
     son zamanlarda izlediğim en iyi komedi filmi. filmin çoğunda gülmekle beraber bazı bölümlerde gülmekten ağladım.<br/>net şekilde feyyaz yiğit ve ali atay eli değmiş. dialoglar çok iyiydi. herkes iyiydi yahu. elinize sağlık.
 - entry_name: |
-    finaliyle ters köşe eden filmler
-  entry_id:  74209866
-  entry_writer: stormblade
-  entry_fav_count: 1
+    aç değilsin açıkta değilsin
+  entry_id:  74220351
+  entry_writer: arkadiy
+  entry_fav_count: 2
   entry_content: |
-    1968 yapımı (bkz: <a class="b" href="/?q=planet+of+the+apes">planet of the apes</a>) yani ilk maymunlar cehenneminin yazılmadığını görünce hayret ettiğim başlık. twist yani ters köşe nin en meşhurlarındandır.<br/><br/>daha da eskiye gidersek 1941 yapımı (bkz: <a class="b" href="/?q=maltese+falcon">maltese falcon</a>) var. james bond lara ilham olmuştur ayrıca benzer bir başlıkta konuyla ilgili daha kapsamlı bir entry girmiştim: (bkz: <a class="b" href="/entry/71210486">#71210486</a>)
-- entry_name: |
-    referandumdan 51 nokta 2 hayır çıktı
-  entry_id:  74221055
-  entry_writer: renksiz hayat
-  entry_fav_count: 0
-  entry_content: |
-    adam bildiğin sessizliğe gömüldü. sine-i millete dönmeyerek türkiye'de demokrasi varmış gibi bir algı oluşturmakla görevli. agit'in seçimle ilgili raporu ortada.
+    dost lafıdır.<br/><br/>dostunuz olmayanlar, sizi idare edenler söylemez.
 - entry_name: |
     14 şubat 2018 fenerbahçe doğuş anadolu efes maçı
-  entry_id:  74215156
-  entry_writer: captain tsubasa
-  entry_fav_count: 0
+  entry_id:  74221637
+  entry_writer: alukard
+  entry_fav_count: 2
   entry_content: |
-    alternatif sevgililer gunu aktivitesi. gidemeyecegim icin efes tribununden iki adet biletimi uygun fiyata devretmek istedigim musabaka. sinan erdem'de oynanacak.
+    kadrosunda bulundurmasına rağmen, böylesine bir maçta yorumcu olarak kaan kural'ı bizden esirgeyen tivibu spor'a da yazıklar olsun.
 ---
