@@ -6,30 +6,44 @@ data:
     adet döneminde seks
   entry_id:  74304610
   entry_writer: rushyapansniper
-  entry_fav_count: 590
+  entry_fav_count: 591
   entry_content: |
     (bkz: <a class="b" href="/?q=sava%c5%9f%c3%a7%c4%b1n%c4%b1n+k%c4%b1l%c4%b1c%c4%b1+kanl%c4%b1+olur">savaşçının kılıcı kanlı olur</a>)
+- entry_name: |
+    2 kişi aylık mutfak masrafı 100 tl
+  entry_id:  74301535
+  entry_writer: grt
+  entry_fav_count: 565
+  entry_content: |
+    demokrasi istiyoruz yazan bir pankart yapıp ilinizin meydanına çıkın. pankart 100 tl tutar.<br/><br/>en az 1 ay gözaltında tutulursunuz. <br/>yemek verirler heralde.<br/><br/>10 kişi yapsanız da 2 kişi alıyolar gözaltına. yada 2 güne salıyolar diğerlerini.<br/>2 kişi yaparsanız ikiniz için garanti.
 - entry_name: |
     17 şubat 2018 izban'daki meydan dayağı
   entry_id:  74305174
   entry_writer: mefk
-  entry_fav_count: 555
+  entry_fav_count: 559
   entry_content: |
     nolur bu kadınlar bağırmasın... nolur!
 - entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id:  74300882
-  entry_writer: fantasma danza
-  entry_fav_count: 283
+    yemekteyiz'de ekşi yazarının tehdit edilmesi
+  entry_id:  74301562
+  entry_writer: adam fawer
+  entry_fav_count: 243
   entry_content: |
-    bu başlığa yazarken hep alçak gönüllü davranıyordum. ancak bu sefer tam olarak ufkunuzu 2 katına çıkarabilecek 2 bilgi ile geldim. <br/><br/>1) neredeyse tüm ülkelerdeki yaşam standardını araştıran bir grup insan gittiği ülkelerde gördüğü her objeyi fotoğraflayak bir site oluşturdu. bardak, kapı kolu, küvet vs. ne ararsanız var. bu sayede diğer dünya ülkeleri ile ne zenginlikte yaşıyoruz karşılaştırabileceksiniz. <br/><br/>detaylı bilgi ve kaynak için (türkçe): <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/_Rr58KCGpyo?t=1h5m42s">https://youtu.be/_rr58kcgpyo?t=1h5m42s</a><br/><br/>ve ilgili ted konuşması.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ted.com/talks/anna_rosling_ronnlund_see_how_the_rest_of_the_world_lives_organized_by_income" title="https://www.ted.com/talks/anna_rosling_ronnlund_see_how_the_rest_of_the_world_lives_organized_by_income">https://www.ted.com/…orld_lives_organized_by_income</a><br/><br/>ilgili site linki: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.gapminder.org/dollar-street/matrix?thing=Families&amp;countries=World&amp;regions=World&amp;zoom=4&amp;row=0&amp;lowIncome=26&amp;highIncome=15000&amp;lang=en" title="https://www.gapminder.org/dollar-street/matrix?thing=Families&amp;countries=World&amp;regions=World&amp;zoom=4&amp;row=0&amp;lowIncome=26&amp;highIncome=15000&amp;lang=en">https://www.gapminder.org/…highincome=15000&amp;lang=en</a><br/><br/>2) dünyadaki ülkelerin kullandığı kaynaklara oranla vatandaşlarına ne verdiği hakkında university of leeds bir araştırma yaptı. gayet ufuk açıcı. <br/><br/>detaylı bilgi ve kaynak için (türkçe): <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/0zSo9-p5iVw?t=1h7m53s">https://youtu.be/0zso9-p5ivw?t=1h7m53s</a><br/><br/>ilgili site linki: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goodlife.leeds.ac.uk/countries/#Turkey">https://goodlife.leeds.ac.uk/countries/#turkey</a>
+    yemekteyiz izleyen yazar, çaylak bile olmamalı.<br/>saçma salak programlara aptal bahanelerle prim yaptırmayın amk !
 - entry_name: |
     bebek arabası terörü
   entry_id:  74306333
   entry_writer: bayc
-  entry_fav_count: 225
+  entry_fav_count: 229
   entry_content: |
     gerçekten var olan terördür. kardeşim niye alınganlık yapıyorsunuz ki? bebek arabasını insan gibi kullanmasını bilmiyorsunuz sağa sola çarpıyor bi de sikimde değilsiniz tripleri yapıyorsunuz e kusura bakmayın tam bir sığırsınız. mesele bebek sahibi olmak değil etrafındakilere saygı duyacaksın. anne olman her boku yeme hakkı vermiyor sana. yeni nesil annelere de bi haller oldu haksızsan haksızlığını kabul et amk hep instagram anneleri yüzünden bunlar.
+- entry_name: |
+    çok geniş arkadaş çevresi olan insanlar
+  entry_id:  74307189
+  entry_writer: icemint
+  entry_fav_count: 226
+  entry_content: |
+    cuma günü doktorum söyledi. herkesi anlayıp onların sevmeye çalışmak sadece senin kendini değersiz hissetmenden kaynaklanıyor. sesini çıkar. sevmediğin bir özelliği varsa dile getir. düzeltemiyorsan kabul etme. bütün insanlığı kabullenmeye çalışman büyük bir problemin olduğunu gösterir.
 - entry_name: |
     musevilerin türkiye'yi hızla terk etmesi
   entry_id:  74302295
@@ -41,23 +55,37 @@ data:
     servis şoföründen motosikletliye otobanda dayak
   entry_id:  74309136
   entry_writer: gaileli
-  entry_fav_count: 172
+  entry_fav_count: 173
   entry_content: |
     bir tarafta servisçi bir tarafta motosikletçi. <br/><br/>ne diyelim, vurduğunuz yerden ses gelsin.
 - entry_name: |
     acil iniş isteyen uçak için vip uçaktan izin almak
   entry_id:  74301241
   entry_writer: tspark98
-  entry_fav_count: 167
+  entry_fav_count: 168
   entry_content: |
     o kontrolör bence hava kontrolörlerinin nasıl acil durum bildirilmez derslerinde dinletilmek üzere tarihe geçti bile. senin maaşını o vip uçağın sahibi mi ödüyor arkadaş? acil durum var, tüm iniş kalkışlar iptal, öncelik şu uçağın inişinde de bitir, rica etmek ne demek? o uçaktakilerin hayatı da 2.planda, mühim olan kendi adının tarihe geçmemesi.<br/><br/>hayatımda 100'den fazla uçak kazası raporu izledim, ulusal havacılık kurallarında acil iniş için diğer uçaklardan icazet almak diye birşey olmadığını bilecek kadar çok yani.
 - entry_name: |
     türk hukuk sisteminin ana sorunu
   entry_id:  74305460
   entry_writer: reshad the lionheart
-  entry_fav_count: 160
+  entry_fav_count: 163
   entry_content: |
     hakimlik mesleğine alımlarda yazılı sınava ek olarak yapılan mülakatlardır hiç şüphesiz. bilemiyorum, bu işten canı yanan biri olarak belki de objektif bakamıyorumdur meseleye. fakat yazılı sınavda vasat bir puan aldığı halde amcalarının, dayılarının güçlü bağlantıları sayesinde 2 dakikalık mülakatlarda başarılı sayılıp mesleğe alınan, koca bir ömür boyunca aslında kendisine haram olan maaşı yiyen, herkesin "hakim bey, savcı bey" dediği, böbürlene böbürlene yürüyen kifayetsiz muhterisler meslek hayatları boyunca bu diyetin bedelini elli defa vermek zorunda bırakılıp her defasında adaleti temelinden dinamitlemekte beis görmezler. <br/><br/>olduğu yere bileğinin hakkıyla değil de büyüklerinin ittirmesiyle gelebilmiş ve üzerine giydiği o cübbenin aslında emanet olduğunu çok iyi bilen namertler hakim savcı olduğunda dilerseniz olabilecek en güzel hukuki metinleri kanunlaştırın, yine de gün yüzü görmez toplumunuz.<br/><br/>doktorluk mesleği hakimlikten daha mı az önemli veya boğaziçi bilgisayarın talibi daha mı az ki buralara girişte sadece adayın niteliklerini somut olarak ölçmeye yarayan yazılı sınav sonuçlarına bakmakla yetiniliyor da hakim savcılar daha mesleğe başlamadan birilerine karşı minnet borcu altına sokuluyor? <br/><br/>bir de sanmayın ki bu bahsettiğim şekilde hakim savcı olanlar azınlıkta. aksine, bugün önünde el pençe divan durduğunuz tipi tiplerin çok büyük çoğunluğu 4 yıllık hukuk fakültesi eğitiminin ardından girdikleri sınavda ancak 70-75 alabilmiş, cübbeyi asla hak etmeyen, kaderinde vasat altı bir avukat olup kuru gürültü yapmaktan başka işe yaramamak olan mediocre’lardır.<br/><br/>yazılı sınavda rock 'n' roll yapan akıllı, çalışkan ve fakat gariban vatan evlatlarının çiğnen hakları da işin cabası.
+- entry_name: |
+    ali ihsan varol'un karısına yumruk atması
+  entry_id:  74314759
+  entry_writer: redkitincinselhayati
+  entry_fav_count: 111
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bir+yumruk+alay%c4%b1m">bir yumruk alayım</a>)<br/><br/>affınıza sığınaraktan...
+- entry_name: |
+    fazla itibarı olmayıp iyi para kazanan meslekler
+  entry_id:  74314438
+  entry_writer: bos gezenin bos ustasi
+  entry_fav_count: 106
+  entry_content: |
+    itibar nedir sorgulatan başlık. <br/><br/>adam sanayide metal doğramaya itibarsız meslek gözüyle bakıyor. <br/><br/>ulan itibarlı meslek için illa takım elbise kravat giyip camdan binalarda mı çalışmak lazım? <br/><br/>sonra bu ülkede emeğin neden değeri yok diye sorarlar. <br/><br/>itibarlı meslek yoktur, nitekim itibar meslekle elde edilen bir olgu değildir.
 - entry_name: |
     kadınla erkeğin asansöre binmesi halvettir
   entry_id:  74309891
@@ -66,54 +94,54 @@ data:
   entry_content: |
     öyle bir memleket ki 2 adet dayının binmesi bile kimi zaman minik halvetlere dönüşebiliyor.
 - entry_name: |
-    ali ihsan varol'un karısına yumruk atması
-  entry_id:  74314759
-  entry_writer: redkitincinselhayati
-  entry_fav_count: 101
+    bir kızın kezban olduğunu anlama yolları
+  entry_id:  74314697
+  entry_writer: messor
+  entry_fav_count: 102
   entry_content: |
-    (bkz: <a class="b" href="/?q=bir+yumruk+alay%c4%b1m">bir yumruk alayım</a>)<br/><br/>affınıza sığınaraktan...
-- entry_name: |
-    fazla itibarı olmayıp iyi para kazanan meslekler
-  entry_id:  74314438
-  entry_writer: bos gezenin bos ustasi
-  entry_fav_count: 100
-  entry_content: |
-    itibar nedir sorgulatan başlık. <br/><br/>adam sanayide metal doğramaya itibarsız meslek gözüyle bakıyor. <br/><br/>ulan itibarlı meslek için illa takım elbise kravat giyip camdan binalarda mı çalışmak lazım? <br/><br/>sonra bu ülkede emeğin neden değeri yok diye sorarlar. <br/><br/>itibarlı meslek yoktur, nitekim itibar meslekle elde edilen bir olgu değildir.
+    ebru gündeş hayranı olması, sürekli acun'un programlarını takip etmesi ve her gün tv'de bir başka türk dizisini izlemesi. kaçın kaçın.
 - entry_name: |
     youtube'da 150 milyon izlenen erik dalı videosu
   entry_id:  74312587
   entry_writer: bir adet eksi sozluk yazari
-  entry_fav_count: 98
+  entry_fav_count: 99
   entry_content: |
     videoyu izlememle evlenmem bir oldu. teşekkürler sözlük.
-- entry_name: |
-    bir kızın kezban olduğunu anlama yolları
-  entry_id:  74314697
-  entry_writer: messor
-  entry_fav_count: 95
-  entry_content: |
-    ebru gündeş hayranı olması, sürekli acun'un programlarını takip etmesi ve her gün tv'de bir başka türk dizisini izlemesi. kaçın kaçın.
 - entry_name: |
     evlenilecek kızın ünide erasmusa gitmiş olması
   entry_id:  74308749
   entry_writer: sigara kibrit
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     benden 2 yıl önce mezun olan bir kız vardı. aşırı derecede güzel bir kızdı. kız her hafta farklı biriyle takılırdı, yaşça büyük erkeklerle, hatta evli erkeklerle takılırdı. ailesi duysa 3. sayfa haberi olurlardı. benim kızla hiç muhabbetim olmadı. attığı her adımı biliyorum, çünkü güzel kızların çirkin arkadaşı olur. onun çirkin arkadaşı da benim çok iyi arkadaşımdı. benim arkadaşım çirkin değildi ama o kızın yanında çirkin kalıyordu. <br/><br/>kız mezun oldu. dindar, zengin bir ailenin oğlu bunu istemeye geldi. kızın üniversitedeki yaşamının 1/10'unu bilseler arkalarına bakmadan kaçarlar. önce nişanlandılar. evlilik olayı yaklaşınca, kız, kızlık zarını diktirmek için istanbul'a gidiyor. ama doğal olarak herkes sınava gitti diye biliyor. (sadece 3 büyük şehirde yapılan bir sınav. olay da anadolu'nun büyük şehirlerinden birinde geçiyor.) kızın uçak biletine kadar nişanlısı alıyor, havaalanına kadar nişanlısı götürüyor. sonuç; hanım kızımız hiç erasmus yapmadı. şu an evliler, galiba 2 tane de çocukları var. <br/><br/>not: kızın özel hayatı, yaşamı kimseyi ilgilendirmez. eleştiri de yok övgü de yok. karşısındaki insanları aptal yerine koyması kendi vicdanı, şerefiyle alakalı.<br/><br/>ben bu olayı dinlediğimde çocukları leyleklerin getirmediğini öğrendiğim gün yaşadığım şoku yaşamıştım. benim arkadaşım; "oooo bunlar ne ki? daha neler var bir bilsen?" demişti.
+- entry_name: |
+    cengiz ünder
+  entry_id:  74303395
+  entry_writer: entwine
+  entry_fav_count: 69
+  entry_content: |
+    yine la gazzetta dello sport'u <a rel="nofollow noopener" class="url" target="_blank" href="http://www.gazzetta.it/Calcio/Serie-A/Roma/17-02-2018/roma-under-mania-mezza-europa-fila-intervistarlo-quel-17-spalle-250348505046.shtml" title="http://www.gazzetta.it/Calcio/Serie-A/Roma/17-02-2018/roma-under-mania-mezza-europa-fila-intervistarlo-quel-17-spalle-250348505046.shtml">süslemiştir</a>. <br/><br/>aynı yaşlarda totti'nin de roma'da 17 numarayı giydiği belirtilmiş ve "yeni bir fenomenimiz mi doğuyor?" denmiş. haberin altına hemen tinerci juve'li piçler doluşmuş. 2 maçla ne fenomeni falan demişler. ancak romalı tifosi'lerimiz altta kalmamış. bekleyin 13 mayıs'ta size de bilezik gibi geçirecek, saksıya fesleğen gibi oturtacak vs. demişler. la gazzetta dello sport'un sitesinde kullanıcı yorumları kısmı adeta ekşisözlük'e dönmüş. daha da girmem bu siteye.<br/><br/>not: dolmabahçe tinercisi.
 - entry_name: |
     kilis'te 8 bin tl borç defterinin satın alınması
   entry_id:  74315346
   entry_writer: bilgisavar
-  entry_fav_count: 58
+  entry_fav_count: 66
   entry_content: |
     kilis'te muhtemelen firin oldugu görülen bir esnaftan borc defterinin satin alinmasidir. fakir, fukara kimin ne borcu varsa ödenmis oluyor haliyle. <br/>böyle güzel insanlar oldukca, sirtimiz yere gelmez allahin izniyle. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=itYImn0MblA" title="https://www.youtube.com/watch?v=itYImn0MblA">cok güzel hareketler bunlar</a>
 - entry_name: |
     doktorların şehir hastanesinde çalışmak istememesi
   entry_id:  74309869
   entry_writer: vicilantist
-  entry_fav_count: 56
+  entry_fav_count: 58
   entry_content: |
     vatandaşların da tercih etmediği hastaneler hakkındaki doktorların görüşü. <br/><br/>adana ve mersin’de insanlar şehir hastanelerine mecbur kalmadıkça gitmiyor. mersin’de toros devlet hastanesi, adana’da ise aşkım tüfekçi ve numune eğitim araştırma hastaneleri tercih ediliyor. <br/><br/>şehir hastaneleri çok ama çok büyük. içinde çalışan personelin dahi kaybolduğu ucubeler bunlar. binaların içinde ulaşım için golf arabaları alındı. onlarda bir kaç ayda bozuldu. poliklinik, servis ve diğer işlem odalarının arası, hasta insanların , hastalarıyla uğraşan insanların çilesine çile katacak kadar uzak. öyle olunca kısa sürede herkes nefret etti. <br/><br/>işletmeci şirketler de pişman. çünkü hizmet verilen alan çok büyük. kontrolü çok zor. sadece bir koridorun temizliği için aylık onbinlerce lira harcanıyor. yine de şikayet geliyor. binlerce koridor, asansör, odalar, teçhizat vs var. sürekli bi yerler kırılıyor, arızalanıyor. binlerce kişinin günde 3 hatta 4 öğün beslenmesinin gerektiği de cabası. keza çalışan işçilerin alacakları, takip ve kontrolleri var. bu kadar devasa bir yerin, 7/24 saat aralıksız çalışması gerekiyor.<br/><br/>ilk yılın sonunda devletin cebinden çıkacak rakamlar belli olur.
+- entry_name: |
+    jet sosyete (dizi)
+  entry_id:  74311768
+  entry_writer: onyuzmilyonbalon
+  entry_fav_count: 55
+  entry_content: |
+    (bkz: <a class="b" href="/?q=avrupa+yakas%c4%b1">avrupa yakası</a>) <br/><br/>(bkz: <a class="b" href="/?q=yalan+d%c3%bcnya">yalan dünya</a>) <br/><br/>aynı formatta hazırlanan başka bir gülse birsel dizisi. gag zamanlarından beri takip ediyorum ama artık kendi kendini tüketiyor.<br/><br/>zaten ilginçtir, gülse birsel, beyaz türk/beyaz yaka sit-com'larını ülkeye benimsetti. nişantaşı ve cihangir entellerini/zenginlerini, yurdum insanının tüketebileceği bir formatta karikatürize ederek bir anlamda <a class="b" href="/?q=recep+ivedik">recep ivedik</a> ve <a class="b" href="/?q=cumali+ceber">cumali ceber</a> tarzı bir sosyolojik yıkıma çanak tuttu.<br/><br/>recep ivedik'in temsil ettiği sosyolojik olguları çok güzel analiz eden bir akademik yazı okumuştum. şu anda aradığımda bulamadım. özetlemem gerekirse, recep ivedik'in, girdiği ortamlardaki kaideleri bozan, kaos yaratan, ikircikli maskeleri düşüren o <a class="b" href="/?q=maganda">maganda</a> yapısının; yurdum insanında biriken bu nefretin kanalize edilip, yeniden biçime sokulduğu bir araç olmasına dikkat çekiyordu. örnekle, starbucks'a gidip mırra isteyen karakter, aslında dışarıdan bakıldığında imrenilen bu yaşam tarzını bozan ve dolayısıyla da toplumu deşarje eden; parmağı ile işaret ettiği bu orta-üst sınıf yaşam tarzlarına karşı duyulan <a class="b" href="/?q=g%c3%b6receli+mahrumiyet">göreceli mahrumiyet</a>in, yerini hor görme ve kahkahalara bırakmasını temin eden bir sinema ikonu.<br/><br/>gülse birsel de, nişantaşı/cihangir tayfasının koftiden entelliğini, mutluluk getirmeyen zenginliğini, geleneksel ve organik olan her şeye dayanılmaz arzusunu, içlerinde dolduramadıkları boşlukları; sürekli arkaya döşenmiş bir kahkaha eşliğinde topluma yediriyor.<br/><br/><a class="b" href="/?q=kemal+sunal">kemal sunal</a>, kendi filmlerini incelediği yüksek lisans tezinde, oynadığı karakterlerin aslında toplumda yer alan feodal ve geç-kapitalist sömürü sistemlerine bir başkaldırı olduğunu; onun budalalığının ve sakarlığının, bu sorgulanamayan çarkları ters yüz ederek her şeyi aslı gibi ifşa ettiğini anlatır. yeri gelir marabadır, yeri gelir çöpçüdür; ancak o her zaman toplumun en altında; yolsuzluk ve mahrumiyet içinde hayatta kalmaya çalışan "içimizden biri"dir. hatta, son dönemlerde can verdiği dedektif <a class="b" href="/?q=kamber">kamber</a> karakterini de, düzen bekçiliği yapması açısından kabul edilemez görür, öz eleştirisini yapar.<br/><br/>velhasıl, toplumda artık kemikleşen; okumuş insanı hor görme, onu ötekileştirme refleksinin <a class="b" href="/?q=hard+core">hard core</a> versiyonu recep ivedik ise, <a class="b" href="/?q=soft">soft</a> versiyonu gülse birsel'dir. kendi kendini tekrara düştüğünden söz ederken, bu noktayı hatırlatmakta fayda var diye düşündüm.<br/><br/>edit: yazıyı sonunda bulabildim. <a rel="nofollow noopener" class="url" target="_blank" href="http://yarinhaber.net/yaklasimlar/47792/la-haine-recep-ivedik-ve-isid" title="http://yarinhaber.net/yaklasimlar/47792/la-haine-recep-ivedik-ve-isid">la haine, recep ivedik ve ışid</a>
 - entry_name: |
     canan karatay
   entry_id:  74301082
@@ -129,19 +157,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=am%c4%b1m%c4%b1n+da+bir+%c5%9ferefi+var">amımın da bir şerefi var</a>)<br/><br/>kendileri beğenmedikleri kız için, <a class="b" href="/?q=sikimin+de+bir+%c5%9ferefi+var">sikimin de bir şerefi var</a> diyorlar. <br/><br/>sen de acıma abla. yapıştır cevabını gitsin.
 - entry_name: |
-    jet sosyete (dizi)
-  entry_id:  74311768
-  entry_writer: onyuzmilyonbalon
-  entry_fav_count: 38
-  entry_content: |
-    (bkz: <a class="b" href="/?q=avrupa+yakas%c4%b1">avrupa yakası</a>) <br/><br/>(bkz: <a class="b" href="/?q=yalan+d%c3%bcnya">yalan dünya</a>) <br/><br/>aynı formatta hazırlanan başka bir gülse birsel dizisi. gag zamanlarından beri takip ediyorum ama artık kendi kendini tüketiyor.<br/><br/>zaten ilginçtir, gülse birsel, beyaz türk/beyaz yaka sit-com'larını ülkeye benimsetti. nişantaşı ve cihangir entellerini/zenginlerini, yurdum insanının tüketebileceği bir formatta karikatürize ederek bir anlamda <a class="b" href="/?q=recep+ivedik">recep ivedik</a> ve <a class="b" href="/?q=cumali+ceber">cumali ceber</a> tarzı bir sosyolojik yıkıma çanak tuttu.<br/><br/>recep ivedik'in temsil ettiği sosyolojik olguları çok güzel analiz eden bir akademik yazı okumuştum. şu anda aradığımda bulamadım. özetlemem gerekirse, recep ivedik'in, girdiği ortamlardaki kaideleri bozan, kaos yaratan, ikircikli maskeleri düşüren o <a class="b" href="/?q=maganda">maganda</a> yapısının; yurdum insanında biriken bu nefretin kanalize edilip, yeniden biçime sokulduğu bir araç olmasına dikkat çekiyordu. örnekle, starbucks'a gidip mırra isteyen karakter, aslında dışarıdan bakıldığında imrenilen bu yaşam tarzını bozan ve dolayısıyla da toplumu deşarje eden; parmağı ile işaret ettiği bu orta-üst sınıf yaşam tarzlarına karşı duyulan <a class="b" href="/?q=g%c3%b6receli+mahrumiyet">göreceli mahrumiyet</a>in, yerini hor görme ve kahkahalara bırakmasını temin eden bir sinema ikonu.<br/><br/>gülse birsel de, nişantaşı/cihangir tayfasının koftiden entelliğini, mutluluk getirmeyen zenginliğini, geleneksel ve organik olan her şeye dayanılmaz arzusunu, içlerinde dolduramadıkları boşlukları; sürekli arkaya döşenmiş bir kahkaha eşliğinde topluma yediriyor.<br/><br/><a class="b" href="/?q=kemal+sunal">kemal sunal</a>, kendi filmlerini incelediği yüksek lisans tezinde, oynadığı karakterlerin aslında toplumda yer alan feodal ve geç-kapitalist sömürü sistemlerine bir başkaldırı olduğunu; onun budalalığının ve sakarlığının, bu sorgulanamayan çarkları ters yüz ederek her şeyi aslı gibi ifşa ettiğini anlatır. yeri gelir marabadır, yeri gelir çöpçüdür; ancak o her zaman toplumun en altında; yolsuzluk ve mahrumiyet içinde hayatta kalmaya çalışan "içimizden biri"dir. hatta, son dönemlerde can verdiği dedektif <a class="b" href="/?q=kamber">kamber</a> karakterini de, düzen bekçiliği yapması açısından kabul edilemez görür, öz eleştirisini yapar.<br/><br/>velhasıl, toplumda artık kemikleşen; okumuş insanı hor görme, onu ötekileştirme refleksinin <a class="b" href="/?q=hard+core">hard core</a> versiyonu recep ivedik ise, <a class="b" href="/?q=soft">soft</a> versiyonu gülse birsel'dir. kendi kendini tekrara düştüğünden söz ederken, bu noktayı hatırlatmakta fayda var diye düşündüm.<br/><br/>edit: yazıyı sonunda bulabildim. <a rel="nofollow noopener" class="url" target="_blank" href="http://yarinhaber.net/yaklasimlar/47792/la-haine-recep-ivedik-ve-isid" title="http://yarinhaber.net/yaklasimlar/47792/la-haine-recep-ivedik-ve-isid">la haine, recep ivedik ve ışid</a>
-- entry_name: |
     ölünce her şeyin açıklığa kavuşması
   entry_id:  74315003
   entry_writer: proust
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     aklımdan geçen garip düşüncedir. ölünce tanrı'nın bütün sistemini, hangi dinin doğru olduğunu ya da neden hiçbirinin doğru olmadığını, tanrı'nın varlığı dışında kalan varlıkların mahiyetini, paralel evrenleri ya da sicim teorisini, kara deliklerin içinde ne olduğunu, big bang anını, o anın başlamasına neden olan şeyi, babanızın sizi aslında neden terk ettiğini, neden bir çocuğun acılar içinde ölebildiğini... her şeyi ama her şeyi ölüm anından sonraki ilk anda bilincimiz yerine gelir gelmez kimse anlatmadan "heeeee" diye anlayacağımızı düşünüyorum. <br/><br/>nedenini bilmiyorum ama ölümün aynı zamanda bir aydınlanma anı olduğunu hissediyorum. at fava bekle. :)
+- entry_name: |
+    18 şubat 2018 kasımpaşa galatasaray maçı
+  entry_id:  74317428
+  entry_writer: okumadanyazdim
+  entry_fav_count: 36
+  entry_content: |
+    bi daha galatasaray ı kayırıyorlar diyen olursa yatırır sikerim.
+- entry_name: |
+    18 şubat 2018 galatasaray aleyhine verilen penaltı
+  entry_id:  74317506
+  entry_writer: mindflow
+  entry_fav_count: 34
+  entry_content: |
+    rakip takımlara penaltı çalmak için tek kaide: rakibin ceza sahasında düşmesi iken.<br/><br/>galatasaray'a penaltı verilmesi için ya maçın 3-0 falan olması gerekiyor ya da ceza sahasında oyuncumuzun bıçaklanması.
 - entry_name: |
     yazarların maaşlarının tek cümlelik özeti
   entry_id:  74300858
@@ -150,19 +185,19 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw0_e1eIdw9nuoBiOdIlWc9nXTArZuW_t04MTxtnMqeTajwj8gbZBWSH43Hw" title="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw0_e1eIdw9nuoBiOdIlWc9nXTArZuW_t04MTxtnMqeTajwj8gbZBWSH43Hw">benim için küçük ama insanlık görse götünün düşeceği bir rakam</a>
 - entry_name: |
-    18 şubat 2018 kasımpaşa galatasaray maçı
-  entry_id:  74317428
-  entry_writer: okumadanyazdim
-  entry_fav_count: 33
+    atatürkçülerin kiliseli semtlere bayılması
+  entry_id:  74315837
+  entry_writer: plaza communisti
+  entry_fav_count: 29
   entry_content: |
-    bi daha galatasaray ı kayırıyorlar diyen olursa yatırır sikerim.
+    dindar olup, balayına müslüman ülkeler yerine kafir avrupaya giden arkadaşlara da bir sormak lazım.<br/><br/>herhangi bir gezme tozma durumunda arabistanı, iranı falan gezmiyorlar çok ilginç. hemen avrupa.<br/><br/>hadi onu bunu geç, parası olan hiçbir dindar çocuğunu müslüman ülkelerde okutmuyor yahu, amerikada avrupada nerde ateist dinsiz, kafir profesör fazla ise oralardalar. yahu sayın cumhurbşknımızın çocukları bile en çok ateistin olduğu harvarda gitmedi mi? niye ki? boğaziçi bizim değerlerimize sahip çıkmıyor diyip, bizim değerlere sahip bir okul bulunamadı mı hayret.<br/><br/>burdan çıkan sonuç bizim dinle alakalı olabilir mi acaba?
 - entry_name: |
-    18 şubat 2018 galatasaray aleyhine verilen penaltı
-  entry_id:  74317506
-  entry_writer: mindflow
-  entry_fav_count: 27
+    fenerbahçe atatürk'tür
+  entry_id:  74316263
+  entry_writer: futurama
+  entry_fav_count: 26
   entry_content: |
-    rakip takımlara penaltı çalmak için tek kaide: rakibin ceza sahasında düşmesi iken.<br/><br/>galatasaray'a penaltı verilmesi için ya maçın 3-0 falan olması gerekiyor ya da ceza sahasında oyuncumuzun bıçaklanması.
+    başlığa bakıp da cevap yazanlara hatırlatmak isterim: "önemli olan atatürk'ün hangi takımı tuttuğu değil, hangi takımın onun yolundan ilerlediği önemlidir" diyor ali koç. daha ne desin?<br/><br/>ekleme: ve ali koç bu cümleyi yıllardan beri kuran kişidir. al, 2012: <a rel="nofollow noopener" class="url" target="_blank" href="http://nettavir.com/anitkabirde-5-bin-fenerli/">http://nettavir.com/anitkabirde-5-bin-fenerli/</a><br/><br/>yok popülist açıklamaymış, yok siyasetmiş. 30sn'lik videoyu bile izlemeden ezbere entry döşüyorsunuz. ondan sonra aziz yıldırım yüzünden fenerbahçe'yi sevmiyoruz diyorsunuz. siz kendinize bile yalan söyleyen, iyi niyetli olmayan insanlarsınız.
 - entry_name: |
     chp kurultayına giden otobüste çocuk tacizi olayı
   entry_id:  74311705
@@ -171,33 +206,33 @@ data:
   entry_content: |
     istifa yetmez. olayı ört bas etmeye çalışan herkes ceza almalı.
 - entry_name: |
-    gözü açık öpüşen kadın
-  entry_id:  74310287
-  entry_writer: renksiz hayat
-  entry_fav_count: 25
-  entry_content: |
-    kadınlar bugün de bu yüzden suçlu oldu elhamdülillah.
-- entry_name: |
-    fenerbahçe atatürk'tür
-  entry_id:  74316263
-  entry_writer: futurama
-  entry_fav_count: 24
-  entry_content: |
-    başlığa bakıp da cevap yazanlara hatırlatmak isterim: "önemli olan atatürk'ün hangi takımı tuttuğu değil, hangi takımın onun yolundan ilerlediği önemlidir" diyor ali koç. daha ne desin?<br/><br/>ekleme: ve ali koç bu cümleyi yıllardan beri kuran kişidir. al, 2012: <a rel="nofollow noopener" class="url" target="_blank" href="http://nettavir.com/anitkabirde-5-bin-fenerli/">http://nettavir.com/anitkabirde-5-bin-fenerli/</a><br/><br/>yok popülist açıklamaymış, yok siyasetmiş. 30sn'lik videoyu bile izlemeden ezbere entry döşüyorsunuz. ondan sonra aziz yıldırım yüzünden fenerbahçe'yi sevmiyoruz diyorsunuz. siz kendinize bile yalan söyleyen, iyi niyetli olmayan insanlarsınız.
-- entry_name: |
-    atatürkçülerin kiliseli semtlere bayılması
-  entry_id:  74315837
-  entry_writer: plaza communisti
-  entry_fav_count: 24
-  entry_content: |
-    dindar olup, balayına müslüman ülkeler yerine kafir avrupaya giden arkadaşlara da bir sormak lazım.<br/><br/>herhangi bir gezme tozma durumunda arabistanı, iranı falan gezmiyorlar çok ilginç. hemen avrupa.<br/><br/>hadi onu bunu geç, parası olan hiçbir dindar çocuğunu müslüman ülkelerde okutmuyor yahu, amerikada avrupada nerde ateist dinsiz, kafir profesör fazla ise oralardalar. yahu sayın cumhurbşknımızın çocukları bile en çok ateistin olduğu harvarda gitmedi mi? niye ki? boğaziçi bizim değerlerimize sahip çıkmıyor diyip, bizim değerlere sahip bir okul bulunamadı mı hayret.<br/><br/>burdan çıkan sonuç bizim dinle alakalı olabilir mi acaba?
-- entry_name: |
-    mimarlık
-  entry_id:  74304894
-  entry_writer: the galvanize
+    afrin'de 3 yabancı uyruklu ypg'linin öldürülmesi
+  entry_id:  74311799
+  entry_writer: 260611
   entry_fav_count: 18
   entry_content: |
-    ahahah..<br/><br/>mimarlık yapabilmeniz için en önemli şart iyi bir müşteriye sahip olmaktır arkadaşlar. yoksa yaptığınız iş yalnızca çizimde kalır. <br/><br/>türkiye gibi zavallı ülkelerde "liyakat" denen sözcük kullanımda olmadığı için bugün kurumlar işleri direk yandaşlara paslıyor. sen de ortaya çıkan ucube yapıları görüp "memlekette mimar yok yeaa" diye geviş getiriyorsun.<br/><br/>ha ama öğrencilerin çok boş mezun oldukları gerçek. buna %100 katılırım.<br/>le corbusier'i restoran ismi sanan adamlar tanıyorum.
+    fıkra gibi olmuş amk. bir fransız bir hollandalı ve bir ispanyol afrin'e gitmiş. bunları gören temel "sizun kafanuzu sikeyum da" demiş.
+- entry_name: |
+    iphone se
+  entry_id:  74308473
+  entry_writer: le jeune turc
+  entry_fav_count: 16
+  entry_content: |
+    bir tık daha büyük isteyenlerin 6s alması gereken telefon. <br/><br/>(bkz: <a class="b" href="/?q=you+had+one+job">you had one job</a>)
+- entry_name: |
+    erdoğan'ın ermeni ve rumları saymaması
+  entry_id:  74313516
+  entry_writer: unfug
+  entry_fav_count: 16
+  entry_content: |
+    erdoğan’ın genellikle mitinglerde ve kongrelerde konuşmasının sonunda rabia işareti yaparak insanlara tekrar ettirdiği tek devlet, tek bayrak, tek vatan, tek millet kısımda asla dile getirmediği azınlık türk vatandaşlarımızın durumudur.<br/><br/>“türküyle, kürdüyle, lazıyla, çerkeziyle, abazasıyla, boşnağıyla, ...” der ama asla ermeni ve rumları saymaz.
+- entry_name: |
+    halis özkahya
+  entry_id:  74317345
+  entry_writer: gokyuzundeyuzdum
+  entry_fav_count: 15
+  entry_content: |
+    tertemiz pozisyona penaltı çalmıştır. daha 16. dakikada tereddütsüz nagatomaya sarıyı çekerken atağa çıkan feghouliyi arkadan biçene kart vermemiştir. art niyetlidir!!
 - entry_name: |
     e-devlet alt-üst soy bilgisi sorgulama
   entry_id:  74301846
@@ -206,26 +241,12 @@ data:
   entry_content: |
     aslında adetim değildir başlık altında polemiğe girmek ama iddia sahibine mesaj yollanamadığı için burdan yazmak zorundayım.<br/><br/>herkesin dedesi sağ olmayabilir. hatta anne babası bile anne babalarını ya da dedelerini doğru dürüst tanımamış olabilir. sorduğunuzda "bilmiyorum oğlum, görmedimki hiç birini!" diyebilir.<br/><br/>bazılarının anne babası nüfus kaydını başka şehre taşımış olabilir. böylece nüfus kütüğünde ailenin ilk bireyi, babası; ikincisi annesi; kalanlar da kardeşleri olabilir. üstsoyları görmek için her nesil için ayrı tarama yapmak gerekir.<br/><br/>ancak bu hizmet, üstsoyları, nerde kayıtlı olduğuna bakmadan tek bir listede önümüze getiren, çok güzel ve başarılı bir hizmet. <br/><br/>size bir zararı yoksa neden karşı çıkıyor ya da küçümsüyor ya da kullananlara çemkiriyorsunuz anlamıyorum.
 - entry_name: |
-    halis özkahya
-  entry_id:  74317345
-  entry_writer: gokyuzundeyuzdum
-  entry_fav_count: 13
+    beşiktaş bayern münih'i elerse olabilecekler
+  entry_id:  74301227
+  entry_writer: bluearth1903
+  entry_fav_count: 15
   entry_content: |
-    tertemiz pozisyona penaltı çalmıştır. daha 16. dakikada tereddütsüz nagatomaya sarıyı çekerken atağa çıkan feghouliyi arkadan biçene kart vermemiştir. art niyetlidir!!
-- entry_name: |
-    toplu taşımada kitap okuyanlardan ücret alınmaması
-  entry_id:  74308618
-  entry_writer: teres
-  entry_fav_count: 12
-  entry_content: |
-    bu kültür nereden yerleşti her şey için maddi teşvik bekleniyor.<br/><br/>yani biz hiç bir şeyi kendi kendimize,kendimiz için, öylesine, allah rızası için (hangisi size uygunsa artık) yapamayacağız her bir beklenti veya lütuf içinde olacağız.<br/><br/>bütün itelemelerin sonunda "bu nesiller neden menfaatçi"<br/><br/>okumanin artık içi boşaldı ya. bu son derece boş bir kitapta olabilir. bir sosyal fenomenin kitabını bir ergen okusun diye vergi vermek istemiyorum.
-- entry_name: |
-    ali ihsan varol
-  entry_id:  74310950
-  entry_writer: alukard
-  entry_fav_count: 10
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/dokuz8haber/status/965177318070243328" title="https://twitter.com/dokuz8haber/status/965177318070243328">iddialar</a> doğru mu bilmiyorum ama eğer doğru ise bu ülkede gerçekten samimiyetine inanılacak kimse kalmamış. kalk sen iq seviyesi yerlerde olan yarışmacılara bile sabırla kelimeleri kopya vererek anlat ama eşini döv. insan gerçekten hayret ediyor.<br/><br/>o kadar kibar, beyefendi bi adamın bile bunu yapması, ülkece delirdiğimizin en büyük kanıtlarından. neyse ki yeri geldiğinde hiçbir şey anlamayıp tek kendisinin değil izleyen herkesin sabrını zorlayan yarışmacılara bi şiddette bulunmamış.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aihsanvarol/status/965246933836226560" title="https://twitter.com/aihsanvarol/status/965246933836226560">twitter</a> adresinden, iftara olduğu açıklamasında bulunmuş. içim rahatladı yeminle.
+    (bkz: <a class="b" href="/?q=g%c3%b6t">göt</a>) <br/><br/>bir beşiktaşlı olarak ben bile göt olurum.
 - entry_name: |
     18 şubat 2018 trabzonspor medipol başakşehir maçı
   entry_id:  74314322
@@ -241,13 +262,6 @@ data:
   entry_content: |
     eskiden gayet ilgi görürdü. son 10 yıldır falan böyle bir durum var. öncesinde, taa 60'lar 70'lerden beri epey ilgi gören bir spordu boks türkiye'de.
 - entry_name: |
-    amerikalılar türkler hakkında neler biliyor
-  entry_id:  74309186
-  entry_writer: liku it
-  entry_fav_count: 9
-  entry_content: |
-    amerikalılara, amerika'yı da sorsan muhtemelen aynı cevapların geleceği videodur.
-- entry_name: |
     20 şubat 2018 bayern münih beşiktaş maçı
   entry_id:  74303143
   entry_writer: no status
@@ -258,16 +272,16 @@ data:
     arkadaşlığın yalan olduğunun anlaşıldığı anlar
   entry_id:  74316085
   entry_writer: al sana bir kaya nereye dayarsan daya
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     tüm çocukluğumun birlikte geçtiği en yakın arkadaşımda tecrübe ettiğim andır.hayatımın tamamında yanımdaydı bu şahıs.marmara depreminde koca koca adamlar kıyıda köşede ağlarken ben 16 yaşındaki halimle depremden 20 dakika sonra bu arkadaşın evine koşmuş,kardeşim ve babamla birlikte canımızı tehlikeye atarak bir katı çökmüş yan duran beş katlı binanın enkazından(yerin dibine giren,çöken kat bunların katıydı) bu kişinin annesini,babasını ve 10 aylık kardeşini kurtarıp,çıkarmıştık.<br/>annem ayağı alçılı halde bu kişi ve ailesi için acıdan ağlaya ağlaya ev aramış,eşe dosta dil dökerek,kefil olarak bunlara kiralık daire bulmuştu.ama yakın zamanda ne oldu?bu şerefsiz,kardeşimin otoparkçıların saldırısında darp edilmesinin tek şahidi olmasına rağmen ne dersek diyelim mahkemede şahit olmayı kabul etmemiş,şahit olmamasının da tek sebebi olarak otoparkçıların bingöllü olması,hemşehrisi olmasını göstermişti.hadi gelde sövme bu gavata.
 - entry_name: |
-    survivor 2018 all-star
-  entry_id:  74301312
-  entry_writer: dreamtoparis
-  entry_fav_count: 3
+    ali ihsan varol
+  entry_id:  74314906
+  entry_writer: nizamulmulk
+  entry_fav_count: 6
   entry_content: |
-    cast faciası yaşıyorum. abi rekabet sıfır daha ilk oyunda anlıyorum ki all star alacak. keşke tamamı all star olsaydı. iki takım kurulsaydı, ikisi de geçmiş oyunculardan. işte o zaman kıran kırana izlerdik
+    suçlu mu, suçsuz mu tartışmasına girmeyeceğim ama hakkında "benim tanıdığım adam böyle bir şey yapmaz" tarzında entryler döşeyen yazarları hayretle izlediğim kişidir. hele şahsı üstünden kadına şiddeti normalleştirmeye çalışanlar var ki, onları allah'a havale ediyorum. <br/><br/>başarılı bir sunucu, iyi bir muhalif, dışarıya karşı iyi bir insan olabilir, ama kapalı kapılar ardında nasıl birisi olduğunu nereden bileceksiniz. bırakın sadece ekranlarda gördüğümüz insanları, yıllar yılı yanyana olduğumuz insanların bile gerçek yüzlerini birtakım olaylar sonucunda anlayabiliyoruz.<br/><br/>umarım hakkında çıkan haberler doğru değildir, ama doğruluk payı varsa, ilahlaştırılan bir kişinin daha linç edilip aynı hızla aşağıya düşürülmesine şahit olacağız sanırım.
 - entry_name: |
     ryan donk
   entry_id:  74317015
@@ -276,19 +290,12 @@ data:
   entry_content: |
     donk 500 bin euro len mq.<br/><br/>fatih terim etkisinin ne olduğunu göstermiştir an itibariyle.
 - entry_name: |
-    iphone se
-  entry_id:  74315724
-  entry_writer: pogaca memet
+    kişinin hayatını özetleyen şarkı
+  entry_id:  74316193
+  entry_writer: eolosss
   entry_fav_count: 3
   entry_content: |
-    apple tarafindan kucuk ekran sevenler icin cikartilmisken, ekrani kucuk diye elestirilen telefon. <br/><br/>bir kac kisitlama (3d touch olmamasi gibi) haricinde donanim ozellikleri 6s ile esdegerdir.
-- entry_name: |
-    galatasaray
-  entry_id:  74308394
-  entry_writer: for let the angel rise
-  entry_fav_count: 3
-  entry_content: |
-    benim güzel takımım. bu sene şampiyonluk çok yakışır bebeğime. yürüyedur şanlı cimbom.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/4MhgH6RRoLEzc07fdxlyKV?si=jxy0jMyqQlmiKGMzJ88Uxw" title="https://open.spotify.com/track/4MhgH6RRoLEzc07fdxlyKV?si=jxy0jMyqQlmiKGMzJ88Uxw">nev- benmişim</a>
 - entry_name: |
     ekşi itiraf
   entry_id:  74304728
@@ -311,27 +318,6 @@ data:
   entry_content: |
     zihni'nin (şevket altuğ) kırılmaz bardakları tanıtırken emin olduğu kadar emin olunan kıyaslama.<br/><br/>adam maşallah gitmiş yerinde görmüş ki bu kadar kendinden emin.
 - entry_name: |
-    three billboards outside ebbing missouri
-  entry_id:  74307032
-  entry_writer: kemal trophy
-  entry_fav_count: 2
-  entry_content: |
-    bende bir miktar <a class="b" href="/?q=nebraska">nebraska</a> tadı bırakan film. <br/><br/>bir süreçteki ikili ilişkileri işleyen filmleri çok seviyorum. bu filmde oldukça beğendiğim bir film oldu. oyunculuklar çok başarılı. siyah ve beyaz karakterler yok. herkes gri. yer yer sıcacık, yer yer buz gibi gerçek; izlenilesi bir film.
-- entry_name: |
-    kişinin hayatını özetleyen şarkı
-  entry_id:  74316193
-  entry_writer: eolosss
-  entry_fav_count: 2
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/4MhgH6RRoLEzc07fdxlyKV?si=jxy0jMyqQlmiKGMzJ88Uxw" title="https://open.spotify.com/track/4MhgH6RRoLEzc07fdxlyKV?si=jxy0jMyqQlmiKGMzJ88Uxw">nev- benmişim</a>
-- entry_name: |
-    hadi be oğlum
-  entry_id:  74309763
-  entry_writer: no one knows who i am
-  entry_fav_count: 2
-  entry_content: |
-    kıvanç tatlıtuğ hayranı kızların, kıvanç'ı çocuğuyla ilgilenen baba rolünde izleyebilsin diye çekilmiş bir film. onun dışında film bomboş. fragman zaten bütün filmin özeti olmuş. filmde ekstradan bu sahneler kaş manzaralarıyla uzun uzun gösteriliyor o kadar.
-- entry_name: |
     sözlük nick'lerinden meslek tahmini yapmak
   entry_id:  74301335
   entry_writer: radioactive cockroach
@@ -339,17 +325,31 @@ data:
   entry_content: |
     <a class="b" href="/?q=pirt+yaptim">pirt yaptim</a>- ankara 2. sulh'taki hakimlerle arası iyi işsiz <a class="b" href="/?q=avukat">avukat</a>.
 - entry_name: |
+    kişiye 17 yaşındaki halinin vereceği tepki
+  entry_id:  74302116
+  entry_writer: as usual
+  entry_fav_count: 1
+  entry_content: |
+    yine aynı varoluşsal problemler.... bravo lan bana istikrarlıyım.
+- entry_name: |
+    ekşi sözlük iş ağı
+  entry_id:  74316652
+  entry_writer: sadbuttrue
+  entry_fav_count: 1
+  entry_content: |
+    para karşılığı tez yazanların iş ilanlarını görmemizi sağlayan başlıktır. para karşılığı tez yazmak suçtur.
+- entry_name: |
+    m. serdar kuzuloğlu
+  entry_id:  74318824
+  entry_writer: ocagin altina baktin mi
+  entry_fav_count: 0
+  entry_content: |
+    danla denilen şahsi muhteremi konuk eden sözlük camiasına her ne kadar şaşırsam da, amirimin bi gün mutlaka geleceğini düşünüyordum zati, şaşırtmadı. o da bizden..<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/><a class="b" href="/?q=tan%c4%b1m">tanım</a>: adam.
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74314843
   entry_writer: dunadan
   entry_fav_count: 0
   entry_content: |
     bunca insan yalnızken neden bunca insan yalnız.
-- entry_name: |
-    airdrop
-  entry_id:  74313728
-  entry_writer: erenyceylan
-  entry_fav_count: 0
-  entry_content: |
-    uğraşana faydalı ama risklidirler. her an vurulabilirsiniz, sizden önce alan biri pusu kurmuş olabilir. yeni pubg oyuncularına önerilmez.
 ---
