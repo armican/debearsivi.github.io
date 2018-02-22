@@ -6,77 +6,77 @@ data:
     google'ı ilk icat eden sultan abdülhamit han'dır
   entry_id:  74402241
   entry_writer: jamesharden
-  entry_fav_count: 1283
+  entry_fav_count: 1288
   entry_content: |
     google earth'ün fikir babası da piri reis'tir.
 - entry_name: |
     sedyeye çıkıp hastaya kalp masajı yapan doktor
   entry_id:  74405824
   entry_writer: malta erigi
-  entry_fav_count: 478
+  entry_fav_count: 481
   entry_content: |
     <a class="b" href="/?q=eli+%c3%b6p%c3%bclesi+doktordur">eli öpülesi doktordur</a>.<br/><br/>"bursa’da kalbinin altından bıçak yarasıyla hastaneye gelen kişiyi, acil tıp uzmanı dr. hüseyin yenice ameliyathaneye gidene kadar sedyenin üzerinde kalp masajı yaparak hayatta tuttu. doktorun insan hayatı için gösterdiği bu çaba ise saniye saniye kameralara yansıdı. "<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911" title="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911">http://www.hurriyet.com.tr/…hatirlamiyorum-40749911</a><br/><br/>edit: doktoru tanıyan yazarları görmemizi sağlayan başlık.<br/>(bkz: <a class="b" href="/entry/74406136">#74406136</a>)<br/>(bkz: <a class="b" href="/entry/74406300">#74406300</a>)<br/><br/>edit 2: hastanın son durumu iyiymiş.
 - entry_name: |
     tombi'nin sınıfına geri dönmesi
   entry_id:  74409633
   entry_writer: umberto d
-  entry_fav_count: 413
+  entry_fav_count: 417
   entry_content: |
     bir insan bir hayvanla aynı ortamda bulunmak istemiyorsa neden o hayvana düşman sayılıyor, bunu anlamadım bir türlü.<br/><br/>çocuğunun sınıfını değiştirsin falan denebilir, başka çözüm de bulunabilir ama farklı olan niçin hemen ötekileştiriliyor? nerede kaldı tercihlere saygı?<br/><br/>yoksa sizler de güce kavuşmayı bekleyen, bugünün mazlumları, yarının zalimleri misiniz?
 - entry_name: |
     erkeklerin bekarete takma sebepleri
   entry_id:  74400833
   entry_writer: hegel kim lan
-  entry_fav_count: 333
+  entry_fav_count: 343
   entry_content: |
     toplum öğretisinin oluşturduğu super-ego'dur.<br/><br/>teşbihte hata olmaz da bu kadar da olmaz. sen de sikilmiş dondurmadan çıktın güzel insan.
-- entry_name: |
-    cüneyt çakır
-  entry_id:  74405452
-  entry_writer: okaberintarou
-  entry_fav_count: 294
-  entry_content: |
-    fenerliler 10 sayfa fener düşmanı diye bahsedecekler, beşiktaşlılara göre zaten tüm dünya beşiktaş düşmanı, arada gsliler de sövecek gs düşmanı diye. derbi bitene kadar kafa sikecek gerizekalı fanatikler. sonra adam gidecek barcelona chelsea gibi sayılı maçlardan birini yönetecek siz kendinizi sikerken. <br/><br/>dışarıdan bir kendinize baksanız keşke. çocuklar bile daha olgun duruyor. her takım bu adamı düşman bellemiş. derbiye kadar fb düşmanı bjk dostu, bjk düşmanı fb dostu diye sayfalarca tartışacaksınız. keşke ben de bu kadar boş bir hayat yaşayabilsem. <br/><br/>kendisine kolay gelsin. ne yaparsa yapsın eleştirileceği bir işi yapmak cidden sabır ister.<br/><br/>edit: ben bunu yazarken biri damlamış bile hemen. hiç şaşmaz. fenerliyim bu arada.
 - entry_name: |
     soyagac.im
   entry_id:  74413508
   entry_writer: delixtarter
-  entry_fav_count: 291
+  entry_fav_count: 299
   entry_content: |
     acilin 10 yillik yazilimciyim, durumu acikliyorum.<br/><br/>sistemi kontrol ettim, hic bir sekilde bir sunucuya veri gondermiyor. olay tamamen tarayicinizin ekraninda gerceklesiyor javascript ile. yani sen istesen bile, bilgilerini siteyi yapanlara gondermen mumkun degil kisaca.<br/><br/>ben sana inanmiyorum, nasil gorecegim yollamadigini mi diyorsun? o zaman sunu yapacaksin. o siteyi acacak, f12 tusuyla consolu acip oradan network kismina gececek, o kisma gectikten sonra oraya herhangi bir pdf yada resim dosyasi atacak, sonra network kisminda yeni bir iletisim olup olmadigina bakacaksin.<br/><br/>ha ben bunlarla ugrasamam mi diyorsun? daha kolayi var.<br/><br/>siteyi ac. internetini kes (wifi kapat, etherneti cek, modemi parcala, driverlari sistemden sil. nasil dilersen.) internetin yokken pdf dosyasini siteye at. <br/><br/>sonra internete geri baglanmadan once siteyi kapat.<br/><br/>adamlar kaynak kodlarini bile oraya koymus erisebil ve kodu gorebil diye, iki uc tane sarlatan gelip burada "bolgoloromozo coloyor" diye agliyor. ucuz ucuz espri kasiyor. <br/><br/>niye mi sinirlendim? babamin oglu mu? degil.<br/><br/>ulan bundan 2 yil once eksi sozluk entry silme zamaninda bi program yayinlamistim kaynak kodlariyla birlikte, 3 tane gotveren "bobrek.avi" yazdi diye millet kullanmamisti, 10 gun ugrasmistim programi bitirmek icin. sizin gibi bi sikten anlamayip her boka, her ise laf atan ibnelerden nefret ediyorum.<br/><br/>ayrica niye yapmis o zaman boyle bisey? he? he niye ucretsiz he? diye aglayacaklar icin, siteye 5 saniye bakinca okul101 isimli bir projeleri oldugunu gordum, belli ki bunu populer hale getirip, ana projeye backlink falan saglayacaklar en olasi ihtimalle. <br/><br/>siteyi yapan ekibe selamlar, bi sik bilmedne elestirenlere de kafam girsin. kalitesiz yeni turkiye ogeleri sizi.
+- entry_name: |
+    cüneyt çakır
+  entry_id:  74405452
+  entry_writer: okaberintarou
+  entry_fav_count: 296
+  entry_content: |
+    fenerliler 10 sayfa fener düşmanı diye bahsedecekler, beşiktaşlılara göre zaten tüm dünya beşiktaş düşmanı, arada gsliler de sövecek gs düşmanı diye. derbi bitene kadar kafa sikecek gerizekalı fanatikler. sonra adam gidecek barcelona chelsea gibi sayılı maçlardan birini yönetecek siz kendinizi sikerken. <br/><br/>dışarıdan bir kendinize baksanız keşke. çocuklar bile daha olgun duruyor. her takım bu adamı düşman bellemiş. derbiye kadar fb düşmanı bjk dostu, bjk düşmanı fb dostu diye sayfalarca tartışacaksınız. keşke ben de bu kadar boş bir hayat yaşayabilsem. <br/><br/>kendisine kolay gelsin. ne yaparsa yapsın eleştirileceği bir işi yapmak cidden sabır ister.<br/><br/>edit: ben bunu yazarken biri damlamış bile hemen. hiç şaşmaz. fenerliyim bu arada.
 - entry_name: |
     osmanlı ocakları başkanının aracını park şekli
   entry_id:  74410458
   entry_writer: zwiegesprach
-  entry_fav_count: 271
+  entry_fav_count: 277
   entry_content: |
     (bkz: <a class="b" href="/?q=ankara+s%c4%b1%c4%9f%c4%b1r%c4%b1">ankara sığırı</a>)
 - entry_name: |
     dokunulamayan bir ürünün 120 milyar $ etmesi
   entry_id:  74410742
   entry_writer: drone agabey
-  entry_fav_count: 242
+  entry_fav_count: 247
   entry_content: |
     120 milyar dolarada dokunamadığımız için bizim açımızdan fark eden bir şey yok.
 - entry_name: |
     fransız escort sitesindeki aşık olduğum kız
   entry_id:  74402157
   entry_writer: elbian
-  entry_fav_count: 226
+  entry_fav_count: 228
   entry_content: |
     gecelik 1500 euroymuş. kim kimi sikecek anlamadım.
 - entry_name: |
     fransızlar ben sızlamam
   entry_id:  74407507
   entry_writer: syzer
-  entry_fav_count: 219
+  entry_fav_count: 220
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg" title="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg">http://galeri8.uludagsozluk.com/…sikin_844766_m.jpg</a>
 - entry_name: |
     mühürsüz oyların geçerli sayılması
   entry_id:  74398722
   entry_writer: varolan
-  entry_fav_count: 179
+  entry_fav_count: 194
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html" title="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html">https://www.amerikaninsesi.com/…ilacak/4264641.html</a><br/><br/>evet bundan sonra tüm seçimlerde mühürsüz oylar geçerli sayılacak.<br/>bu ne demek biliyor musunuz?<br/>bundan sonra tüm seçimler göstermelik yapılacak demek.<br/>iktidara çöreklenen güruh ölene kadar koltuklarından kalkmayacak demek.<br/><br/>türkiye cumhuriyeti bitti.
 - entry_name: |
@@ -90,23 +90,30 @@ data:
     gelini görünce gözyaşına boğulan damat
   entry_id:  74409557
   entry_writer: tatilsepeti
-  entry_fav_count: 137
+  entry_fav_count: 139
   entry_content: |
     ulan ne çektim bee!<br/>anamdan emdiğim süt burnumdan geldi<br/>gelinliğiydi, takısıydı, düğünüydü,ev döşemesi,<br/>evi, balayısı...iflahım kesildi...of be sonunda ...<br/>diyordur.<br/>onun için ağlıyordur.
 - entry_name: |
     orgazmdan daha zevkli anlar
   entry_id:  74400340
   entry_writer: mralemdar
-  entry_fav_count: 120
+  entry_fav_count: 125
   entry_content: |
     baba ile aynı anda kahkaha atmaktır.<br/><br/>ailecek muhabbet ederken spontane gelişen espriye aynı anda kahkaha atmak mükemmel bir duygu. iyi ki varsın baba!
 - entry_name: |
     ormanda seviştikten sonra teyemmüm alan girlfriend
   entry_id:  74407995
   entry_writer: barton smiley
-  entry_fav_count: 103
+  entry_fav_count: 104
   entry_content: |
     zorlansa güzel bakınızlar doğuracak <a class="b" href="/?q=serin+hikaye">serin hikaye</a>dir.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=la+ilahe+illallah+dedim+wait+a+second+%c3%a7ektim">la ilahe illallah dedim wait a second çektim</a>)<br/>(bkz: <a class="b" href="/?q=earth+or+water+bebe%c4%9fim">earth or water bebeğim</a>)<br/>(bkz: <a class="b" href="/?q=welcome+to+real+world">welcome to real world</a>)<sup class="ab"><a title="(bkz: morpheus sanki pezevenk)" href="/?q=morpheus+sanki+pezevenk" data-query="morpheus sanki pezevenk">*</a></sup><br/>(bkz: <a class="b" href="/?q=hijab+dedi+laiklik+dedim">hijab dedi laiklik dedim</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    düğünde topal oyunu ile kendinden geçen teyze
+  entry_id:  74414521
+  entry_writer: koca nickli zenci
+  entry_fav_count: 100
+  entry_content: |
+    eğlenmesini bilen teyze'dir. eğlenmeyi bilen insandan zarar gelmez.eleştirmeye gerek yok.
 - entry_name: |
     2018 ekonomik krizi
   entry_id:  74398889
@@ -115,68 +122,68 @@ data:
   entry_content: |
     artik yok diyebilmek icin zeytin dali operasyonuna bile siginilan, kabak gibi ortada olan kriz.<br/><br/>bu kadar kuculmeyin ulan.
 - entry_name: |
-    düğünde topal oyunu ile kendinden geçen teyze
-  entry_id:  74414521
-  entry_writer: koca nickli zenci
-  entry_fav_count: 85
-  entry_content: |
-    eğlenmesini bilen teyze'dir. eğlenmeyi bilen insandan zarar gelmez.eleştirmeye gerek yok.
-- entry_name: |
     taksicilerin uber şöforüne saldırması
   entry_id:  74411900
   entry_writer: arcticfur ve elem
-  entry_fav_count: 76
+  entry_fav_count: 78
   entry_content: |
     90 usd yaklaşık 340 lira ediyor, ufak bir arama ile istanbul'da 4 lira ile açılış yapıldığını ve kilometre başına 2.5 lira yazdıklarını öğrendim. bu da demek oluyor ki taksici 136 kilometrelik bir yol için nijeryalı kızlardan ücret talep etmiş. bir harita açıp deneye deneye silivri'den gebze'ye bir yol çizdim, 133 kilometre ettiğini gördüm.<br/><br/>bu kızların istanbul içinde havalimanından nereye gitmek istediklerini ve taksiciden "ücreti 90 dolar olur" sözünü işittiklerini çok merak ediyorum.
 - entry_name: |
     youtube'daki uygunsuz çocuk görüntüleri
   entry_id:  74411539
   entry_writer: turiq
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     video'ların bitanesine baktım. izlenme sayısı da 1 milyonu aşkın. <br/><br/>ya bizde bi anormallik var ya da dünya gitgide boka sarıyor..<br/><br/>edit: sanırım başlıktaki yorumların çoğu haklı. birincisi bu videolardan tahrik olanlar bildiğiniz sapkın, ruh hastası insanlardır. yani küçücük çocuktan tahrik olanların bence psikolog yardımı alması lazım. ikincisi ne amaçla bu video’lar çekip konuyor? evet hiçbir sakıncası olmayan bir video ancak bahsettiğim o değil. neden insanlar tüm özel hayatlarını ifşa etmeye başladılar? ve buna çocuklar da dahil olmaya başladılar. yediğimiz, içtiğimiz, evimiz sınırları içinde yaptığımız her şeyi insanlarla paylaşmaya başladık. <br/><br/>yok ben eminim. dünya kesinlikle boka sarıyor..
 - entry_name: |
     temel karamollaoğlu
   entry_id:  74405234
   entry_writer: celikk
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     ''bu yaşa kadar bu adam neredeydi, nasıl da keşfedilemedi diye düşündüğüm akıllı ve iyi niyetli olduğunu düşündüğüm siyasetçi.'' demiş bir kişi hakkında.<br/><br/>hakikaten pes lan. bu yaşa kadar bu adamın nerelerde olduğunu, neler yaptığını, kim olduğunu bilmeyen cehaletine mi sinirleneyim, iyi niyetli olduğunu düşünen aptallığına mı öfkeleneyim bilemedim.<br/><br/>sivas katliamı baş sorumlusu eski sivas belediye başkanı, şimdinin saadet partisi genel başkanı.
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  74401374
+  entry_writer: ulookawesome
+  entry_fav_count: 61
+  entry_content: |
+    türbanın 1980 yılında icat edilmiş olması. ufkumu gerçekten iki katına çıkardı. <br/><br/>iran islam devriminden sonra humeyni yasalarınca uygulamaya koyulan bir gelenekmiş günümüzde kullanılan türban şekli.<br/><br/>ondan öncesinde baş örtüsü saçın baya bir kısmı görünecek şekilde başa örtülürmüş. eski istanbul resimlerinde ya da anne-ninelerimizin resimlerinde gördüğümüz şekilde. <br/><br/>hatta ve hatta siyasal islamcıların ağa babası necmettin erbakan’ın düğününde dahi günümüz şeklinde kullanılan türbanlı kimse yok. düğün fotoğraflarında gördüm. şimdi twitter’dan tekrar bulup buraya koymak zor geldi. ilgi olursa paylaşırım. <br/><br/>yani günümüzde çoğu kişinin sıkmabaş gezmesinin sebebi, yazdığı kitapta “kundaktaki bebekten cinsel olarak faydalanabilirsiniz” diyen sapık humeyni’ymiş. (isteyene humeyni’nin bebeklere karşı cinsel anlamlar taşıyan sözler söylediğini de kanıtlayabilirim. hem de kendi yazdığı kitaptan)<br/><br/>işte böyle bir sapığın sapkın düşünceleri benim annemi bile etkileyebilmiş ya ona deliriyorum. <br/><br/>din böyle bir şey işte. bebeklere cinsel ilgi duyan bir yavşağın sözü, annenizi sizin sözünüzden daha çok etkileyebiliyor. ben anneme anlatsam türban takmaması gerektiğini, inandıramam.
 - entry_name: |
     ıslıkla pkk marşı çalan kişinin gözaltına alınması
   entry_id:  74398027
   entry_writer: eniyizamanoldurucu
-  entry_fav_count: 59
+  entry_fav_count: 60
   entry_content: |
     gözaltına alınılmasaydı eğer türk polisini böyle trolledik gibi bir başlıkla paylaşılacak video idi. şimdi mağduruz ayağına paylaşılmış videodur. <br/>bu teroristlere yağmurlu günde 1 bardak su bile verilmez çünkü bunlar o bardağa sıçar. <br/>yedikleri kaba sıçmayı sever bunlar.
 - entry_name: |
     windows 10
   entry_id:  74405299
   entry_writer: baros tipi forvet
-  entry_fav_count: 57
+  entry_fav_count: 58
   entry_content: |
     kimi bilgisayarda kaymak gibi çalışırken bazılarında disk hatası olan ama her ne hikmetse argümanı "ssd al, yoksa ağlama" olan kişiler tarafından hatası savunulan işletim sistemi. ilk olarak kimse hatalı olarak piyasaya sürülmüş bir işletim sistemi yüzünden kapasite düşürmek ya da binlerce lira harcamak zorunda değil. ssd iyi bir teknoloji ama hdd de halihazırda kullanılan ve ciddi bir sektörü olan bir teknoloji. hayır, sanki millet "disket okumuyor" diye ağlıyor. hard disk kararsız çalışıyor, kafa sürekli hareket ediyor. 1 haftada 1 yılda yapacağı kadar salınım yapan kafa kısa süre sonra atıyor. microsoft forumları bunun "sorun" olduğunu kabul eden uzmanlarla dolu. <br/><br/>bilgisayar kullanmadığınız bir iş yapıyor olabilirsiniz ama ben gün boyu bilgisayar karşısındayım. devlet kurumunda "ya bu hdd %100 disk hatası veriyor" dersem ağzıma yüzüme hdd ile vururlar. geriye sizin alıp takmanız kalır ama bu işin 2 mantıksız tarafı var. birinci demirbaşı değiştirmiş olursunuz. ikincisi benim gibi bilgisayar laboratuvarı olan bir kurumda çalışıyorsanız hangisini siz karşılayacaksınız? öyle ya da böyle bu işletim sistemi problemlidir kardeşim. internette zibille bu hatayı çözdüğünü söyleyen adam var ama hepsi geçici çözümler.
-- entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id:  74401374
-  entry_writer: ulookawesome
-  entry_fav_count: 56
-  entry_content: |
-    türbanın 1980 yılında icat edilmiş olması. ufkumu gerçekten iki katına çıkardı. <br/><br/>iran islam devriminden sonra humeyni yasalarınca uygulamaya koyulan bir gelenekmiş günümüzde kullanılan türban şekli.<br/><br/>ondan öncesinde baş örtüsü saçın baya bir kısmı görünecek şekilde başa örtülürmüş. eski istanbul resimlerinde ya da anne-ninelerimizin resimlerinde gördüğümüz şekilde. <br/><br/>hatta ve hatta siyasal islamcıların ağa babası necmettin erbakan’ın düğününde dahi günümüz şeklinde kullanılan türbanlı kimse yok. düğün fotoğraflarında gördüm. şimdi twitter’dan tekrar bulup buraya koymak zor geldi. ilgi olursa paylaşırım. <br/><br/>yani günümüzde çoğu kişinin sıkmabaş gezmesinin sebebi, yazdığı kitapta “kundaktaki bebekten cinsel olarak faydalanabilirsiniz” diyen sapık humeyni’ymiş. (isteyene humeyni’nin bebeklere karşı cinsel anlamlar taşıyan sözler söylediğini de kanıtlayabilirim. hem de kendi yazdığı kitaptan)<br/><br/>işte böyle bir sapığın sapkın düşünceleri benim annemi bile etkileyebilmiş ya ona deliriyorum. <br/><br/>din böyle bir şey işte. bebeklere cinsel ilgi duyan bir yavşağın sözü, annenizi sizin sözünüzden daha çok etkileyebiliyor. ben anneme anlatsam türban takmaması gerektiğini, inandıramam.
 - entry_name: |
     hileli gıda üreten firmaların artık açıklanmaması
   entry_id:  74403937
   entry_writer: nadnan
-  entry_fav_count: 53
+  entry_fav_count: 57
   entry_content: |
     yazar kanat atkaya'nın 22.02.2018 tarihli köşe yazısına konu olmuştur. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673" title="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673">canım sahtekarım sana birşey olmasın</a><br/><br/>yazının tamamı:<br/><br/>yaklaşan süt krizine dikkat çekmek için elinde peynir paketleriyle basın toplantısı düzenleyen chp niğde milletvekili ömer fethi gürer, “içinde süt yok bu peynirlerin” dedi.<br/><br/>“sütsüz peynir”de süt yoksa ne var?<br/><br/>bolca margarin ve “katı madde karışımı” var.<br/><br/>peki “katı madde karışımı”nda ne var?<br/><br/>sütü para etmediği için kesilen hayvanın kemiğinin tozu var, nişasta var, “iade” peynir var.<br/><br/>“tanışalım mı? adım pollyanna? süt ürünlerini kemik gelişimi için kullanıyorum zaten, kemik tozu faydalı olabilir” diyen çıkar mı bilmem...<br/><br/>“fıstık tozu” diye ağaç kabuğu; pul biber veya zencefil diye boyanmış talaş yediriyorlar...<br/><br/>organik tavuk boku<br/>kıyma niyetine hayvanın toynağını bile yediriyorlar; “o kıymanın içinde yok yok” diyeceğim ama et yok mesela bazı durumlarda...<br/><br/>“plastik pirinç tuzağına dikkat” diye haber okuduk çok şükür; pilav niyetine yediğimiz şeye bak!<br/><br/>organik yumurta diye sanayi üretimi yumurtayı tavuk bokuna bulayıp satıyorlar; “serbest gezen sersem” olarak afiyetle lüpletiyoruz...<br/><br/>ekonomi müdürümüz sefer levent geçen ay hepimizi “dışarıda ve hatta evde yemek yemekten” soğutan o şahane yazılarda neler anlatıyordu hatırlıyor musunuz?<br/><br/>yoğurda peçete ile “kaymak tabakası” yapan var...<br/><br/>karpuz kabuğunu ince kıyım yapıp hıyar diye cacığa katıp kakalayan var...<br/><br/>üzümsüz pekmeze gel<br/>dönerin içine hayvanın iç organları, bağırsak, hayvan tırnağı, tavuk kırıntıları katan var... at mıdır eşek midir o kısmına girmiyorum bile...<br/><br/>bu arada hazmı kolay olsun veya yiyen “kâbus görmesin” diye değil, rengi tutturmak için lohusa şerbeti de basıyorlar. oh be, şifa niyetine!<br/><br/>üzüm görmemiş pekmez var...<br/><br/>“nasıl olur?” demeyin. musluk suyuna basın glikoz şurubunu ve boyayı, bal gibi olur.<br/><br/>“bal gibi olur” derken, bal da öyle üretilebiliyor gerçekten de...<br/><br/>hal böyleyken...<br/><br/>ne yediğimiz belli değilken...<br/><br/>arkadaşımız hacer boyacıoğlu geçen hafta ankara’dan bildirdi: “hileli gıda üretenler artık açıklanmıyor...”<br/><br/>hatırlar mısınız?<br/><br/>bakanlık bir ara “taklit, tağşiş (karıştırılmış) ve bozuk” ürünleri kamuoyuna duyuruyordu.<br/><br/>açıkçası ben hâlâ duyurduklarını varsayıyordum...<br/><br/>meğer son liste aralık 2016’da yayınlanmış...<br/><br/>arkadaşımız sormuş: “niye yayınlanmıyor artık listeler?”<br/><br/>cevap gelmiş bakanlık yetkililerinden: “listeler açıklanınca üreticiler mağduriyet yaşayabiliyor...”<br/><br/>vah canım, onlar mağdur olmasın.<br/><br/>biz yiyelim, onlara yarasın.<br/><br/>canlarım benim, sahtekârlarım benim...<br/><br/>size canımız feda...
 - entry_name: |
     donald trump'ın öğretmenleri silahlandırması
   entry_id:  74413857
   entry_writer: veniceviolins
-  entry_fav_count: 45
+  entry_fav_count: 53
   entry_content: |
     "silahla okul basan öğrenci, öğretmeni tarafından vuruldu. öğretmeni vuran veli ise okul müdürü tarafından kurşuna dizildi." <br/><br/>"amerikan hükümeti silah satışlarından elde edilen vergilerin kutsal olduğunu açıkladı."<br/><br/>(bkz: <a class="b" href="/?q=gelecekten+haber+veren+entry">gelecekten haber veren entry</a>)
+- entry_name: |
+    sinema ve dizi tarihinin en troll karakteri
+  entry_id:  74418020
+  entry_writer: evanescence
+  entry_fav_count: 42
+  entry_content: |
+    yeşilçam'ın 70'li yıllardaki en troll karakteri <a class="b" href="/?q=g%c3%bclen+g%c3%b6zler">gülen gözler</a> filmindeki <a class="b" href="/?q=vecihi">vecihi</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=1A10yt7saaY" title="https://www.youtube.com/watch?v=1A10yt7saaY">karakteridir</a>.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yaşar usta: ben sana kız vermem!<br/>vecihi: verirsiniz!<br/>(böyle bir süre inatlaştıktan sonra)<br/>yaşar usta: vermem yahu senin gibi deliye kız verilir mi?<br/>vecihi: aaaa aman yaşar bey, benim nerem deli?<br/>yaşar usta: sen değil misin boyuna evimin üstünde uçakla gırrr gırrr diye dolaşan arkadaş?<br/>vecihi: çok haklısınız efendim, ben de sizin yerinizde olsam vermem!<br/>yaşar usta: haaa peki öyleyse niye istiyorsun?<br/>vecihi: ne istiyorum efendim?<br/>yaşar usta: kızımı istemiyor musun?<br/>vecihi: aman efendim! siz verdikten sonra niye istemeyeyim? öpeyim..<br/>yaşar usta: bırahhhhhh!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>düzeltme: gülerken yazamamaktan hep.
 - entry_name: |
     türklerin mars'a göndereceği ilk nesne
   entry_id:  74411665
@@ -188,30 +195,30 @@ data:
     survivor 2018 all-star
   entry_id:  74402433
   entry_writer: stratejisizsiniz
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6zgecan">özgecan</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6zgecan+aslan">özgecan aslan</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6zgecan+aslan+cinayeti">özgecan aslan cinayeti</a>)<br/>(bkz: <a class="b" href="/?q=11+%c5%9fubat+2015+%c3%b6zgecan+aslan+cinayeti">11 şubat 2015 özgecan aslan cinayeti</a>)
 - entry_name: |
     zeytin dalı harekatı
   entry_id:  74416198
   entry_writer: kartallar yuksek ucar
-  entry_fav_count: 22
+  entry_fav_count: 24
   entry_content: |
     * harekatta ilerleme devam ediyor. 5 köy ve bazı noktalar teröristlerden temizlendi.<br/>* tsk: zeytin dalı harekatı'nın başlangıcından bu yana 1,829 terörist etkisiz hale getirildi.<br/>* tsk, afrin'de pkk/ypg'den alınan tüm köylerde sivillere sağlık desteğinde bulunmaya başladı.<br/>* zeytin dalı harekatı'na yüzlerce özel harekat mensubu sevkedildi.<br/>* bordo bereli mehmetçikler, pentagon'un özel iletişim cihazları ve uydu bağlantı sistemleri kurduğu afrin'de teröristlerin mevzilendiği meydanki'ye sızdı. tespit edilen hedefler bombalandı. <br/><br/>* pkk/ypg - esad anlaşmasıyla ilgili konular. bunların bir çoğu iddia düzeyinde, kesin olarak bakmayın!:<br/>- başbakan yardımcısı bekir bozdağ, "afrin için rejim ile terör örgütü pkk/ypg'nin pazarlık yaptığı ama anlaşamadığı" duyumunu paylaştı. <br/>- pkk/ypg'yi korumak için afrin'e gelmek isteyenlere fırsat vermeyeceklerini söyleyen dışişleri bakanı çavuşoğlu, "suriye'de toprak bütünlüğü konusunda kimsenin endişesi olmasın" dedi.<br/>- mehmetçiğe afrin şehir merkezine girmek isteyen esad yanlısı milisler için "vur" emri verildi.<br/>- pkk/pyd eski eş başkanı salih müslim: "diktatör ve baskıcı suriye rejimiyle siyasi anlamda bir anlaşma söz konusu değil, mevcut anlaşma sadece askeri alanda".<br/>- pkk/ypg sözcüsü: anlaşmaya iran aracılık etti.<br/>- terör örgütü pkk/ypg, halep'te bulunan tüm teröristlerini afrin'e çekti, buraları esad'a teslim etti.<br/>- esad güçleri, terör örgütü pkk/ypg'nin halep'te boşalttığı mahallelere girdi.buralarda istihbarat ile işbirliğiyle geniş çaplı bir tutuklama yapıldı.<br/>- pkk/ypg'nin tel rifat'ın kontrolünü suriye ordusuna devretmeyi kabul ettiği ve buradan çekildiği ileri sürüldü.<br/>- rusya askeri polisleri afrin sınırındaki kontrol noktasında görüldü.<br/>- suriye doğusundan (muhtemelen halep) gelip afrin'e giriş yapmaya çalışan pkk/ypg konvoyu topçu atışları ile vuruldu.<br/><br/>* başbakan yıldırım, mit müsteşarı hakan fidan'ı çankaya köşkü'nde kabul etti.<br/>* wsj'ye konuşan beyaz saray kaynakları, trump yönetiminin, türkiye'yle ilişkileri onarmak ve ankara'yı moskova-tahran'la kurduğu ittifaktan koparmak için yeni bir çalışma başlattığını söyledi. ankara'ya, iran ile müttefiklerinin suriye'den çıkarılması konusunda yardım teklif edilmesi planlanıyor.<br/><br/>* yunanistan'da dostluk eşitlik barış partisi başkanı aliçavuş, "en iyi türk ölü türk" sözlerini söyleyen eski yunanistan dışişleri bakanı hakkında suç duyurusunda bulundu.<br/><br/>* deyri zor'da suriye ordusu ile pkk/sdg arasında çatışma olduğu söyleniyor. <br/>* abd’ye ait helikopterlerin suriye’nin haseke kentindeki cezaevinden ışid militanlarını kaçırdıkları bildirildi.<br/><br/>* 5. nesil rus savaş uçağı su-57’den 2 adet dün “test” için suriye’ye sevkedildi.<br/>* kremlin sözcüsü dmitriy peskov, şam kırsalındaki doğu guta'da yaşanan gelişmelerden teröristleri destekleyen ülkelerin sorumlu olduğunu söyledi.<br/><br/>* ankara'da sosyal medyada terör propagandası yaptıkları ve zeytin dalı harekatı aleyhinde paylaşımlarda bulundukları gerekçesiyle gözaltı kararı verilen 18 şüpheliden 11'i yakalandı.<br/>* anka iha yerli motoruyla ilk uçuşunu gerçekleştirdi. pd155 motoruyla farklı irtifa ve hızlarda gerçekleştirilen uçuş testleri başarıyla tamamlandı.<br/>* türkiye ile ukrayna arasında askeri ve teknik işbirliği konusundaki görüşmelerin 2016 yılında abd tarafından engellendiği ileri sürüldü. ukraynalı bir kaynak, abd'nin türkiye'nin 'kontrolsüz güçlenmesinden' çekindiğini belirtti.<br/><br/>* ab komisyonu'nun genişlemeden sorumlu üyesi johannes hahn, gelecek yıllarda ikili ilişkilerde türkiye'nin ab'ye üyeliğine değil, "stratejik ortaklığa" yoğunlaşılması gerektiğini söyledi.<br/>* almanya'nın rusya'yı dizginlemek için nato tatbikatlarına 12 bin askerle katılacağı ve moskova'ya 'net mesaj' göndereceği belirtildi.<br/>* trump yönetiminin iran'a gizli şekilde doğrudan görüşme önerdiği, ancak tahran yönetiminin trump'a hiç güvenmediği için teklifi reddettiği ileri sürüldü.
-- entry_name: |
-    mezuniyet + iş bulma + evlilik + çocuk
-  entry_id:  74398847
-  entry_writer: gozunu acan maymun
-  entry_fav_count: 21
-  entry_content: |
-    ilk iki level iyi kötü bir şekilde geçiliyor da üçüncü level çok büyük bir stres kaynağı. en azından benim için öyle. modern görücü usullerini falan görünce ciddi ciddi bulantılar geliyor bana. mecazi değil gerçek, psikosomatik bulantılar. bu şekilde mutlu olan çok fazla kişi olabilir. onlara herhangi bir laf etmiyorum. bu tamamen şahsi bir konu. bir şekilde bu stil, kötü bir hayatın ön koşulu olarak kodlanmış kafamda. hangi konuda öleyim daha iyi dersiniz diye bir soru soran olsa cevap olarak bunu verirdim. <br/><br/>kuzenim daha yeni modern görücü usulü yoluyla nişanlandı. yani söz hakkın var ama hızlı olacaksın. normalde hız da sıkıntı olmaz benim için, ben zaten birinden ya en başta hoşlanırım ya da hiç hoşlanmam. ama işin içinde başkasının hadi hadi itelemesi olunca sinir oluyorum. "bir ay konuştular işte, hadi ne uzatıyorsunuz. laf çıkar." demeler, boş düğün salonuna göre düğün tarihi belirlemeler falan derken iki aydır yeminle içim bayıldı. yalnız bunların bana şöyle bir faydası oldu: bu sırayla giden proje bir hayatı yaşayabilecek bir insan olmadığıma karar verdim. çünkü bu hayat planının kendisi beni hiçbir şekilde heyecanlandırmıyor. özenmiyorum yani, özensem özendiğim şeyi ne yapar eder yaparım. isteklerime ket vuracak kadar iradeli biri değilim. bu işlerin bu kadar da proje olduğunu daha yeni yeni anlayabiliyorum. mesela beni eş olarak hedefleyen kitle belli: özel sektör okumuşları. atanmış birkaç arkadaşım var onları hedefleyenler de ya denk ya üst düzey devlet memurları. ben bunu bizzat yaşıyorum ya. bizzat böyle bir şeyin içindeyim. anlaşmak yok, beğenmek yok, konuşmak-iletişim kurmak yok. ne var? işler falan var sadece işte. memur memurla tayin yapar, iyi olur. memur kadın özelde çalışanları istemez, o yüzden kalan özeldekiler özeldekilere kalıyor falan. hemşire bir arkadaşım var, doktorların ve meslektaşlarının çoğunun antidepresan kullandığından, hayatlarında rutinleri dışında bir sıkıntı olmamasına rağmen eve gitmek istemediklerinden falan bahsediyor sürekli. sorun da tamamen bu zaten. bence hayatlarında, belli zorunlu rollerden başka hiçbir şey yok. herhangi gerçek bir paylaşım veya sevgi yok. yaptıkları her şeyi bir görev gibi yapmış bu insanlar. zamanı gelmiş diye evlenmiş, zamanı gelmiş diye çocuğunu yapmış falan filan. şansa bala bazıları aynı kafada çıkıyor da anlaşıyorlar. peki ya ortak paydada buluşamayanlar ne olacak? ben anlamıyorum, bu insanların duyguları yok mu veya varsa da nereye saklıyorlar? ya da ne hissettiklerini anlayacak kadar kafaları basmıyor mu? hiç mi aşık olmadılar mesela? rahat etmek rahat yaşamak için götlerini kaldırıp çalışmak yerine neden sürekli bir hesap içerisindeler? birkaç aydır oturdum ciddi ciddi bunu düşünüyorum. <br/><br/>annesi babası "okudun da ne oldu? hadi artık evlen." diye baskı yapan "öylesine evlenmek istemiyorum. birini sevmeden, onunla iyi anlaşmadan evlenmek istemiyorum. ya hemen evlenir de anlaşamazsam ve paylaşacak hiçbir şey bulamazsam?" diye dert yanan çok fazla arkadaşım var benim. hani şu sözlükteki otuzluk teyze klanından. kimseyi beğenmemekten, herkesi reddetmekten falan değil. sadece normal insani paylaşım aradıkları için bu durumdalar. karşı cinsten hayat garantisi değil de daha farklı incelikler bekledikleri ve sırf bu yüzden sürekli hayal kırıklığı yaşadıkları için. ve onlar da bu şekilde düşünüyorlar. proje hayattaki rolleri oynayacak kadar düşük farkındalıklı değiliz demek istiyorlar aslında. ama toplum, böyle düşünen insanları dışlıyor. her kanaldan ''sen eksiksin.'' mesajı veriyor sürekli. halbuki eksik olan bunların tamamını seçerek değil de bir görev gibi yapanlar. bu kadar insanın bu şekilde proje yaşadığını düşündükçe aklımı kaybedecek gibi oluyorum. benim kafam hiçbir şekilde bunu almıyor gerçekten.<br/><br/>bazıları da diyor ki ''40'tan sonra yalnızlık çok zor, evlen diyen teyzelerin lafına gelirsiniz.'' en kötü yalnızlık bile istemediğin tiyatroyu oynamaktan ve kendini bunu istediğine inandırmaktan daha onurludur. velhasıl üçüncü level'de kendini iyi dinlemek, baskı veya anlık hezeyanlar sebebiyle ''evleniyorum'' kezbanlığı yapmamak ve şöyle bir durup düşünmek lazım: tamam evleniyorum ama görev bilinciyle mi yoksa cidden biriyle bir hayatı paylaşmak için mi? zira bazı hataların dönüşü çok zor ve de sancılı olabilir.
 - entry_name: |
     ekşi itiraf
   entry_id:  74398624
   entry_writer: turuncan53
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     neredeyse bebek denebilecek bir yaşta babamı kaybetmem ve ne dayımın ne de dedemin o boşluğu kapatması/kapatabilmesi nedeniyle hep kadınların arasında büyüdüm desem yeridir.<br/><br/>lise 2 ve sonrasında hep yabancı dil bölümü okuduğum için sınıfımın % 95’i falan hep kızlardan oluşuyordu.<br/><br/>iş yerlerimde de biri hariç hep kadın patronlarım, kadın iş arkadaşlarım oldu. şimdi de 15 kadına 2 erkeğiz, ki diğer erkek arkadaş... neyse.<br/><br/>abi cidden yeter. bu kadar östrojen yemin ediyorum kimyamı bozdu artık. yakında “erkek istiyom erkeeeekk!” diye sokaklarda ağlaya ağlaya koşarken falan tutuklanacağım diye korkuyorum.
+- entry_name: |
+    22 şubat 2018 hollanda'nın soykırımı kabul etmesi
+  entry_id:  74417353
+  entry_writer: slhmlr
+  entry_fav_count: 20
+  entry_content: |
+    ermeni soykırımı'nın ankara tarafından tanınması türkiye'yi yok etmez. 1914'te ermeni sayısı 1.2 milyon, rum sayısı 1.7 milyon; bugün ermeni sayısı 40 bin bile değil. neden koptu gitti bu adamlar? çünkü devlet terörüne maruz kaldılar, mülkleri gasp edildi, sürüldüler, öldürüldüler. bugün anadolu birkaç milyon rum ve ermeni'ye sahip olsaydı hem ekonomik hem sosyal olarak batı avrupa standartlarında olurduk; maalesef şu anda yozgatistan'a döndük zira silme türk-sünni bir toplum yaratıldı "modern" cumhuriyet tarafından.<br/><br/>"ermeni diasporası" diye lanetle anılan grup anadolu'ludur, bu topraklardan çıkmadırlar. ermenistan'ı falan ermeni halkının temsilcisi olarak sallamazlar. soykırımı kabul et, içtenlikle özür dile, diasporayı ülkesine geri çağır. bu topraklardan çıkan tüm büyük ileri sıçramaların arkasında halkların ortak işbirliği yatar, kofti ulus devlet anadolu'ya kan ve terörden başka ne getirdi?
 - entry_name: |
     bedelli askerlik
   entry_id:  74403910
@@ -220,33 +227,26 @@ data:
   entry_content: |
     vatanını en çok seven bedelli askerlik yapandır.<br/><br/>not : askerdeyim, gelmeyin.
 - entry_name: |
-    sinema ve dizi tarihinin en troll karakteri
-  entry_id:  74418020
-  entry_writer: evanescence
+    business class ve economy class arasındaki fark
+  entry_id:  74405805
+  entry_writer: coldeavinibekleyenkutupayisi
   entry_fav_count: 14
   entry_content: |
-    yeşilçam'ın 70'li yıllardaki en troll karakteri <a class="b" href="/?q=g%c3%bclen+g%c3%b6zler">gülen gözler</a> filmindeki <a class="b" href="/?q=vecihi">vecihi</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=1A10yt7saaY" title="https://www.youtube.com/watch?v=1A10yt7saaY">karakteridir</a>.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yaşar usta: ben sana kız vermem!<br/>vecihi: verirsiniz!<br/>(böyle bir süre inatlaştıktan sonra)<br/>yaşar usta: vermem yahu senin gibi deliye kız verilir mi?<br/>vecihi: aaaa aman yaşar bey, benim nerem deli?<br/>yaşar usta: sen değil misin boyuna evimin üstünde uçakla gırrr gırrr diye dolaşan arkadaş?<br/>yaşar usta: çok haklısınız efendim, ben de sizin yerinizde olsam vermem!<br/>yaşar usta: haaa peki öyleyse niye istiyorsun?<br/>vecihi: ne istiyorum efendim?<br/>yaşar usta: kızımı istemiyor musun?<br/>vecihi: aman efendim! siz verdikten sonra niye istemeyeyim? öpeyim..<br/>yaşar usta: bırahhhhhh!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    patates soyar gibi nasır temizleyen adam
-  entry_id:  74402292
-  entry_writer: tom joad
-  entry_fav_count: 13
-  entry_content: |
-    adam heykeltıraş aslında, videonun sonunda kafayı falan da şekle sokuyor. <br/>köpeğe de iyi öğle yemeği çıktı bu arada. kurumuş, nasırlaşmış insan derisi. bizim iskendere tekabül eder köpek dünyasında.
-- entry_name: |
-    22 şubat 2018 hollanda'nın soykırımı kabul etmesi
-  entry_id:  74417353
-  entry_writer: slhmlr
-  entry_fav_count: 12
-  entry_content: |
-    ermeni soykırımı'nın ankara tarafından tanınması türkiye'yi yok etmez. 1914'te ermeni sayısı 1.2 milyon, rum sayısı 1.7 milyon; bugün ermeni sayısı 40 bin bile değil. neden koptu gitti bu adamlar? çünkü devlet terörüne maruz kaldılar, mülkleri gasp edildi, sürüldüler, öldürüldüler. bugün anadolu birkaç milyon rum ve ermeni'ye sahip olsaydı hem ekonomik hem sosyal olarak batı avrupa standartlarında olurduk; maalesef şu anda yozgatistan'a döndük zira silme türk-sünni bir toplum yaratıldı "modern" cumhuriyet tarafından.<br/><br/>"ermeni diasporası" diye lanetle anılan grup anadolu'ludur, bu topraklardan çıkmadırlar. ermenistan'ı falan ermeni halkının temsilcisi olarak sallamazlar. soykırımı kabul et, içtenlikle özür dile, diasporayı ülkesine geri çağır. bu topraklardan çıkan tüm büyük ileri sıçramaların arkasında halkların ortak işbirliği yatar, kofti ulus devlet anadolu'ya kan ve terörden başka ne getirdi?
+    business class'da bileti sirket aliyordur, economy class'da kendin aliyorsundur.<br/><br/>cok zenginler istisnadir. ibnelik yapip kaideyi bozmasinlar.
 - entry_name: |
     delik çevresini nasıl beyazlatırız semineri
-  entry_id:  74416479
-  entry_writer: jaheira
+  entry_id:  74416757
+  entry_writer: hasanikisalakosmandort
   entry_fav_count: 11
   entry_content: |
-    gayet aydınlatıcı ve önemli bir çalışma. ne zamandır estetiğin mantığı sorgulanır oldu arkadaş? cevap bekliyorsanız: daha güzel gözükmek için. nerede? yatakta. <br/><br/>cinsel organı, anüsü ya da koltuk altı kapkara olan bir kadın erkeklere çekiyor geliyor da ben mi bilmiyorum yani? erkekler bembeyaz tenli kadınları daha çok arzulamıyor mu? pornolarda cinsel organları ve anüsleri açık pembe renginde olan, koltuk altları bembeyaz olan kadınlar ezici bir çoğunlukla tercih edilmiyor mu? kadınlar da kendilerini yatakta daha iyi hissetmek, daha özgüvenli sevişmek için bunu yaptırıyor ya da yaptırmak istiyor olabilirler. yalnızca kendileri için değil, aynı zamanda partnerleri için de bunu yaptırıyorlar hatta. hepinizin hayallerini süsleyen o kadının üstte, yüzünü erkeğe ters dönerek oturduğu pozisyon o kısımların beyazlatılmasından sonra rahatça icra edilebilir yani, konuşturmayın şimdi beni. <br/><br/>üstteki kısım olayın estetik kısmıydı. şimdi olayın asıl nedenine gelelim: cildin siyahlaşması bir tek döt deliğinde görülen bir şey değil arkadaşlar. kadınlar jilet, ağda, epilatör, lazer epilasyon vb. yöntemlerle tüylerini sürekli, çıktıkça alıyorlar. bu işlemler sonrasında da bazen ne yazık ciltte kararmalar meydana geliyor. bunların da başlıca nedenleri: cilt üzerinde toplanan ölü hücreler, epilasyondan dolayı oluşan sürtünme, hormon değişiklikleri ya da terlemeye bağlı oluşan bakteriler. bunun sonucunda ciltte pürüzler oluşuyor, deri önce kırmızıya, sonra da kahverengiye dönüyor. daha ileri seviyesi için: (bkz: <a class="b" href="/?q=eritrazma">eritrazma</a>)<br/><br/>bu cilt kararmasının limonla, patatesle, karbonatla vs. doğal yollarla tedavisi var. ee tabii, ortada böyle bir estetik kaygı olunca kozmetik şirketleri de kendi piyasasını oluşturuyor. bu insanlar da kanlı canlı bir örnekle ürünlerini tanıtıyorlar. olay bu yani. her gün anal videoları izleyen adam gelmiş burada "ööğğğkk internet çok iğrüünççç, yasaklanmalüü" diyor. kendinize karşı dürüst olun bari.
+    gözlerin <a class="b" href="/?q=tamer+g%c3%bcltekin">tamer gültekin</a> beyi aradığı seminer. <br/><br/>(bkz: <a class="b" href="/?q=merhabalar">merhabalar</a>)
+- entry_name: |
+    netflix ve youtube için gelen rtük denetimi
+  entry_id:  74403000
+  entry_writer: lew ashby
+  entry_fav_count: 9
+  entry_content: |
+    goren de youtubeda netflixte hayvan pornosu falan gosteriyorlar sanacak amk 2 tane opusme sahnesi yuzunden panik atak geciriyor adamlar. <a class="b" href="/?q=siyasal+islam">siyasal islam</a> cehennemdir.
 - entry_name: |
     iyi üniversitelerde okuyan terör yandaşları
   entry_id:  74410545
@@ -258,16 +258,9 @@ data:
     ev kirasının evin değerine oranlanması
   entry_id:  74415120
   entry_writer: mindtrap
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     amerika'da 1'e 150 gibi bir rakamda su an bu deger, insanlar emlak balonu diye feryat ediyorlar. mortgage ise %4 gibi bir degerde 100 bin dolar krediyi aylik 480$ taksitle almak mumkun.<br/><br/>turkiye'de ise iyicene ucmussunuz siz, yakindir birileri indirir (loading... )
-- entry_name: |
-    netflix ve youtube için gelen rtük denetimi
-  entry_id:  74403000
-  entry_writer: lew ashby
-  entry_fav_count: 7
-  entry_content: |
-    goren de youtubeda netflixte hayvan pornosu falan gosteriyorlar sanacak amk 2 tane opusme sahnesi yuzunden panik atak geciriyor adamlar. <a class="b" href="/?q=siyasal+islam">siyasal islam</a> cehennemdir.
 - entry_name: |
     murat bardakçı'nın nurettin yıldız'ı desteklemesi
   entry_id:  74411489
@@ -276,12 +269,12 @@ data:
   entry_content: |
     kardeşim herif haklı. din bu. inan ya da siktir git kendine göre yorma diyor. ne var bunda?
 - entry_name: |
-    business class ve economy class arasındaki fark
-  entry_id:  74405805
-  entry_writer: coldeavinibekleyenkutupayisi
+    iyi parti'nin %53.3 ile iktidar olması
+  entry_id:  74412523
+  entry_writer: yarasa talag
   entry_fav_count: 7
   entry_content: |
-    business class'da bileti sirket aliyordur, economy class'da kendin aliyorsundur.<br/><br/>cok zenginler istisnadir. ibnelik yapip kaideyi bozmasinlar.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/5DyZgj.jpg">https://i.hizliresim.com/5dyzgj.jpg</a><br/><br/>evvela bi 5.33'ü görsünler koçero, bi sakin!
 - entry_name: |
     25 şubat 2018 beşiktaş fenerbahçe maçı
   entry_id:  74414949
@@ -289,6 +282,13 @@ data:
   entry_fav_count: 4
   entry_content: |
     hakemi baskı altına alıp kendilerine kıyak geçmesi için beşiktaşlıların twitter'da fener'in umudu cüneyt diye gündem oluşturmaya başladığı maç. beşiktaşlılar o kadar korkaksınız o kadar ağlaksınız ki böyle algılar peşindesiniz. bu cüneyt kadar bize zarar vermiş hakem yoktur belki de. siz de biliyorsunuz da amacınız böyle algı oluşturup maçta size kıyak geçmesini sağlamak. ulan bu adam daha taptazedir sow'un röveşatasını vermedi. allah'ın ezikleri bu şekilde algıdan kazanç sağlamaya çalışacak kadar acizsiniz. maçta yenmeniz yenilmeniz ayrı konu ama bu bildiğin büyük piçlik aşırı kötü niyet. sinsi emzikçiler sizi. işte bu yüzden asla büyük olamayacaksınız ağlak tinerciler.
+- entry_name: |
+    22 şubat 2018 tsk'nın esad konvoyunu vurması
+  entry_id:  74418622
+  entry_writer: nutellali balik ekmek
+  entry_fav_count: 3
+  entry_content: |
+    hemen a haberi açıp baktım.<br/><br/>gerçek olsaydı çoktan şova başlarlardı.<br/><br/>bence haber yalan.
 - entry_name: |
     22 şubat 2018 fenerbahçe doğuş olimpia milan maçı
   entry_id:  74408882
@@ -304,40 +304,40 @@ data:
   entry_content: |
     salak sulak adamları kafaya takmaktan vazgeç, manyak mısın nesin ya.
 - entry_name: |
-    iyi parti'nin %53.3 ile iktidar olması
-  entry_id:  74412714
-  entry_writer: azizjohn
+    çocuklar duymasın'ın yeni havuç'u
+  entry_id:  74416557
+  entry_writer: cathars
   entry_fav_count: 2
   entry_content: |
-    ve hatta meral hanımın zıplayarak arşa yükselip dünyaya yaklaşmakta olan meteoru ışın kılıcıyla ikiye yarmak suretiyle dünyayı kurtarması...
+    adam meltem'in abisi, haluk'un da 5 yaş küçük kardeşi gibi duruyor.
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  74399829
-  entry_writer: d e ayri yazilir
-  entry_fav_count: 2
-  entry_content: |
-    küçük bir işletme için site kurulumu ve seo işlemleri yaptırmak istiyor bir tanıdığım.<br/>bilgisayardan anlıyorum diye bana yapmamı söyledi fakat bu işler öyle olmuyormuş anladıgım kadarıyla...<br/>öncelikle google aramalarında üst sıralarda görünmesini sağlayacak arkadaşımız. <br/><br/>duruma göre sektörle alakalı sitelerde görünen reklamlardan yaptırcak.<br/><br/>haa site çok allengirli bişey olmayacak.<br/>20 tane resim, 1 hakkında yazısı, 1 telefon numarası (basılınca otomatik arama yapacak mobilde) koyulacak siteye.<br/>ücret vs gibi konular için mesaj kutuma bekliyorum.
-- entry_name: |
-    mükemmel erkeği bulma yolları
-  entry_id:  74399888
-  entry_writer: kuartz
+    şu anda çalan şarkı
+  entry_id:  74406823
+  entry_writer: our hopes and expectations
   entry_fav_count: 1
   entry_content: |
-    boynunuza o güzel öpücüğü konduracak adamı görürseniz hiç terddüt etmeden ona küpemi düşürdüm bulmamda bana yardım eder misiniz deyin. ederse senindir, etmezse bir başkasına sorun aynı soruyu...
-- entry_name: |
-    jet sosyete (dizi)
-  entry_id:  74398341
-  entry_writer: gelismekteolanyazar
-  entry_fav_count: 0
-  entry_content: |
-    sosyal medya hesabından da bakıyorum diğer yerlerde de görüyorum. gürse birselin yanıldığı bir konu var şahsımca. rating oranlarını çok ciddiye alıyor, çok izlendiği için çok güzel ve çok beğenilen bir iş yaptığını düşünüyor. ancak ilk bölümünün bu kadar izlenmesinin sebebi büyük oranda yıllardır "hadi be bir ikinci avrupa yakası daha çıkar mı" ümidiyle bekleyen seyirciydi. ki o seyircinin beklediğini de alamadığını düşünüyorum. <br/>ha, bu oranları 3-4 hafta düşmeden götürürse amenna, ben yanılmışım diyeceğim, umarım demem ancak görünen köy kılavuz istemiyor ne yazık ki.
+    <a class="b" href="/?q=nightwish">nightwish</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Kmiw4FYTg2U" title="https://www.youtube.com/watch?v=Kmiw4FYTg2U">`while your lips are red`</a>
 - entry_name: |
     iphone x
   entry_id:  74398551
   entry_writer: hanz le
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     birkaç ayda bir çoluk çocukla beraber türkiyeye gelirim, her gelişimde en az bir tane bu ve muadili ürünlerden getiriyorum, uçak biletlerinin masrafının yarısı çıkıyor. vergi kaçırma bilmem ne diyen sığırlara da hiç takılmayın, ellerinde fırsat olsa daha ucuza alıp satmak için ruhlarını verirler, neymiş vergi kaçırıyormuşsun bilmem ne. dürüst olup yahu benim elime böyle kelepir telefon düşmüyor, siz bundan kar ediyorsunuz kuduruyorum diyemedikleri için dürüst vatandaş ayakları yapıyorlar.
+- entry_name: |
+    hamdi alkan'ın kızının dansına yaptığı yorum
+  entry_id:  74417571
+  entry_writer: perebron
+  entry_fav_count: 1
+  entry_content: |
+    kimi haber siteleri ve magazin programları hamdi alkan'ın kızının sosyal medyadaki görüntülerini utanılacak bir şeymiş gibi haber yapmıştı. o da <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/1HcOYN1GZpw" title="https://youtu.be/1HcOYN1GZpw">böyle</a> bir kapak yapmış. nefis!
+- entry_name: |
+    mükemmel erkeği bulma yolları
+  entry_id:  74399526
+  entry_writer: imstillremembering
+  entry_fav_count: 0
+  entry_content: |
+    mukemmel erkegi aramayin mukemmel bir kadin olun.<br/>mukemmel erkek gelir sizi bulur.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74400852
@@ -346,10 +346,10 @@ data:
   entry_content: |
     herkese selamlar;<br/><br/>sohbet etmek isterseniz, ister 5 dakika, ister 5 saat, isterseniz 5 gün sohbet edebiliriz. söz veriyorum söylemek istemediğiniz hiç bir şeyi sormayacağım!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/fusafi">http://ribony.com/fusafi</a><br/><br/>güzel geceler.
 - entry_name: |
-    23 şubat 2018 galatasaray bursaspor maçı
-  entry_id:  74413344
-  entry_writer: high and dry and high
+    düşün ki o bunu okuyor
+  entry_id:  74406154
+  entry_writer: paninormanperisi
   entry_fav_count: 0
   entry_content: |
-    galatasaray'dan guzel bir dogum gunu hediyesi bekledigim mac.
+    içine dramatik unsurlar da eklesen, mağduru da oynasan; gerekçe olarak sunduğun şeylerin aslında bahane olduğunu saklayamıyorsun; kokusunu alıyorum, üzerine ne örtersen ört altına sakladığın şey çürüyor.
 ---
