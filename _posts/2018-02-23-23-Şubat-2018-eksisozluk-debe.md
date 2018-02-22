@@ -6,42 +6,42 @@ data:
     google'ı ilk icat eden sultan abdülhamit han'dır
   entry_id:  74402241
   entry_writer: jamesharden
-  entry_fav_count: 1198
+  entry_fav_count: 1207
   entry_content: |
     google earth'ün fikir babası da piri reis'dir.
 - entry_name: |
     sedyeye çıkıp hastaya kalp masajı yapan doktor
   entry_id:  74405824
   entry_writer: malta erigi
-  entry_fav_count: 459
+  entry_fav_count: 464
   entry_content: |
     <a class="b" href="/?q=eli+%c3%b6p%c3%bclesi+doktordur">eli öpülesi doktordur</a>.<br/><br/>"bursa’da kalbinin altından bıçak yarasıyla hastaneye gelen kişiyi, acil tıp uzmanı dr. hüseyin yenice ameliyathaneye gidene kadar sedyenin üzerinde kalp masajı yaparak hayatta tuttu. doktorun insan hayatı için gösterdiği bu çaba ise saniye saniye kameralara yansıdı. "<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911" title="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911">http://www.hurriyet.com.tr/…hatirlamiyorum-40749911</a><br/><br/>edit: doktoru tanıyan yazarları görmemizi sağlayan başlık.<br/>(bkz: <a class="b" href="/entry/74406136">#74406136</a>)<br/>(bkz: <a class="b" href="/entry/74406300">#74406300</a>)<br/><br/>edit 2: hastanın son durumu iyiymiş.
 - entry_name: |
     tombi'nin sınıfına geri dönmesi
   entry_id:  74409633
   entry_writer: umberto d
-  entry_fav_count: 371
+  entry_fav_count: 380
   entry_content: |
     bir insan bir hayvanla aynı ortamda bulunmak istemiyorsa neden o hayvana düşman sayılıyor, bunu anlamadım bir türlü.<br/><br/>çocuğunun sınıfını değiştirsin falan denebilir, başka çözüm de bulunabilir ama farklı olan niçin hemen ötekileştiriliyor? nerede kaldı tercihlere saygı?<br/><br/>yoksa sizler de güce kavuşmayı bekleyen, bugünün mazlumları, yarının zalimleri misiniz?
-- entry_name: |
-    cüneyt çakır
-  entry_id:  74405452
-  entry_writer: okaberintarou
-  entry_fav_count: 284
-  entry_content: |
-    fenerliler 10 sayfa fener düşmanı diye bahsedecekler, beşiktaşlılara göre zaten tüm dünya beşiktaş düşmanı, arada gsliler de sövecek gs düşmanı diye. derbi bitene kadar kafa sikecek gerizekalı fanatikler. sonra adam gidecek barcelona chelsea gibi sayılı maçlardan birini yönetecek siz kendinizi sikerken. <br/><br/>dışarıdan bir kendinize baksanız keşke. çocuklar bile daha olgun duruyor. her takım bu adamı düşman bellemiş. derbiye kadar fb düşmanı bjk dostu, bjk düşmanı fb dostu diye sayfalarca tartışacaksınız. keşke ben de bu kadar boş bir hayat yaşayabilsem. <br/><br/>kendisine kolay gelsin. ne yaparsa yapsın eleştirileceği bir işi yapmak cidden sabır ister.<br/><br/>edit: ben bunu yazarken biri damlamış bile hemen. hiç şaşmaz. fenerliyim bu arada.
 - entry_name: |
     erkeklerin bekarete takma sebepleri
   entry_id:  74400833
   entry_writer: hegel kim lan
-  entry_fav_count: 282
+  entry_fav_count: 289
   entry_content: |
     toplum öğretisinin oluşturduğu super-ego'dur.<br/><br/>teşbihte hata olmaz da bu kadar da olmaz. sen de sikilmiş dondurmadan çıktın güzel insan.
+- entry_name: |
+    cüneyt çakır
+  entry_id:  74405452
+  entry_writer: okaberintarou
+  entry_fav_count: 288
+  entry_content: |
+    fenerliler 10 sayfa fener düşmanı diye bahsedecekler, beşiktaşlılara göre zaten tüm dünya beşiktaş düşmanı, arada gsliler de sövecek gs düşmanı diye. derbi bitene kadar kafa sikecek gerizekalı fanatikler. sonra adam gidecek barcelona chelsea gibi sayılı maçlardan birini yönetecek siz kendinizi sikerken. <br/><br/>dışarıdan bir kendinize baksanız keşke. çocuklar bile daha olgun duruyor. her takım bu adamı düşman bellemiş. derbiye kadar fb düşmanı bjk dostu, bjk düşmanı fb dostu diye sayfalarca tartışacaksınız. keşke ben de bu kadar boş bir hayat yaşayabilsem. <br/><br/>kendisine kolay gelsin. ne yaparsa yapsın eleştirileceği bir işi yapmak cidden sabır ister.<br/><br/>edit: ben bunu yazarken biri damlamış bile hemen. hiç şaşmaz. fenerliyim bu arada.
 - entry_name: |
     soyagac.im
   entry_id:  74413508
   entry_writer: delixtarter
-  entry_fav_count: 240
+  entry_fav_count: 254
   entry_content: |
     acilin 10 yillik yazilimciyim, durumu acikliyorum.<br/><br/>sistemi kontrol ettim, hic bir sekilde bir sunucuya veri gondermiyor. olay tamamen tarayicinizin ekraninda gerceklesiyor javascript ile. yani sen istesen bile, bilgilerini siteyi yapanlara gondermen mumkun degil kisaca.<br/><br/>ben sana inanmiyorum, nasil gorecegim yollamadigini mi diyorsun? o zaman sunu yapacaksin. o siteyi acacak, f12 tusuyla consolu acip oradan network kismina gececek, o kisma gectikten sonra oraya herhangi bir pdf yada resim dosyasi atacak, sonra network kisminda yeni bir iletisim olup olmadigina bakacaksin.<br/><br/>ha ben bunlarla ugrasamam mi diyorsun? daha kolayi var.<br/><br/>siteyi ac. internetini kes (wifi kapat, etherneti cek, modemi parcala, driverlari sistemden sil. nasil dilersen.) internetin yokken pdf dosyasini siteye at. <br/><br/>sonra internete geri baglanmadan once siteyi kapat.<br/><br/>adamlar kaynak kodlarini bile oraya koymus erisebil ve kodu gorebil diye, iki uc tane sarlatan gelip burada "bolgoloromozo coloyor" diye agliyor. ucuz ucuz espri kasiyor. <br/><br/>niye mi sinirlendim? babamin oglu mu? degil.<br/><br/>ulan bundan 2 yil once eksi sozluk entry silme zamaninda bi program yayinlamistim kaynak kodlariyla birlikte, 3 tane gotveren "bobrek.avi" yazdi diye millet kullanmamisti, 10 gun ugrasmistim programi bitirmek icin. sizin gibi bi sikten anlamayip her boka, her ise laf atan ibnelerden nefret ediyorum.<br/><br/>ayrica niye yapmis o zaman boyle bisey? he? he niye ucretsiz he? diye aglayacaklar icin, siteye 5 saniye bakinca okul101 isimli bir projeleri oldugunu gordum, belli ki bunu populer hale getirip, ana projeye backlink falan saglayacaklar en olasi ihtimalle. <br/><br/>siteyi yapan ekibe selamlar, bi sik bilmedne elestirenlere de kafam girsin. kalitesiz yeni turkiye ogeleri sizi.
 - entry_name: |
@@ -55,65 +55,79 @@ data:
     yurt dışında yaşamanın bir albenisi olmaması
   entry_id:  74398871
   entry_writer: daldakielmakurdu
-  entry_fav_count: 211
+  entry_fav_count: 212
   entry_content: |
     yurtdışının neresi olduğuna bağlı değişir. ben endonezya'ya gittim. türkiye bana cennet geldi. ama amerika,avustralya,isviçre gibi ülkelere gidince bizimkisi yaşamak değil lan biz sadece hayatta kalıyoruz hayatı bunlar yaşıyor dedim.<br/>türkiyede çok para kazanırsınız ama bu hayat kalitesini artırmaz sadece daha fazla mal edinmenize yol açar. amerika örneğinden ilerleyelim. mesela eyalete göre değişir ama teksasta 200-300.000 dolara müstakil bahceli baya iyi bir ev alabilirsiniz götünüz düşer lan böyle ev olur mu demeyin. hatta bu rakam uzerinden sıkı pazarlıklarla 230.000-250.000 arasına bile çekilebilir fiyatlar.<br/>bir tanıdık 320.000 dolarlık evi 270.000e almıştı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.zillow.com/homes/for_sale/house,condo,apartment_duplex,mobile,townhouse_type/70316399_zpid/200000-300000_price/785-1178_mp/2100-5000_size/2000-2017_built/globalrelevanceex_sort/29.908966,-95.041866,29.709674,-95.349483_rect/11_zm/" title="https://www.zillow.com/homes/for_sale/house,condo,apartment_duplex,mobile,townhouse_type/70316399_zpid/200000-300000_price/785-1178_mp/2100-5000_size/2000-2017_built/globalrelevanceex_sort/29.908966,-95.041866,29.709674,-95.349483_rect/11_zm/">teksas malikane</a>. karı koca ayda toplam 5000dolar kazandığını düşün 4-5 yıllık maaşına alabiliyor. istanbulda sikko 70m2 dairelere 500-600.000tl istiyorlar. karı koca 6000tl kazansanız toplamda hesabını yap 10 seneden aşağı alamazsın. ya da araba alacağını düşün. adam porsche panemera 2012 modelini 30.000dolara aylık 300-500 dolar taksitle alıyor hemde kasmadan. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=470521496&amp;zip=08527&amp;referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D08527%26startYear%3D1981%26numRecords%3D100%26sortBy%3DderivedpriceASC%26incremental%3Dall%26firstRecord%3D0%26endYear%3D2019%26modelCodeList%3DPANAMERA%26makeCodeList%3DPOR%26searchRadius%3D100&amp;startYear=1981&amp;numRecords=100&amp;firstRecord=0&amp;endYear=2019&amp;modelCodeList=PANAMERA&amp;makeCodeList=POR&amp;searchRadius=100&amp;makeCode1=POR&amp;modelCode1=PANAMERA" title="https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=470521496&amp;zip=08527&amp;referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D08527%26startYear%3D1981%26numRecords%3D100%26sortBy%3DderivedpriceASC%26incremental%3Dall%26firstRecord%3D0%26endYear%3D2019%26modelCodeList%3DPANAMERA%26makeCodeList%3DPOR%26searchRadius%3D100&amp;startYear=1981&amp;numRecords=100&amp;firstRecord=0&amp;endYear=2019&amp;modelCodeList=PANAMERA&amp;makeCodeList=POR&amp;searchRadius=100&amp;makeCode1=POR&amp;modelCode1=PANAMERA">porsche</a> yani 3000 dolar kazanan adamın 10 aylık maaşı. sen 10 aylık maaşınla anca yıllık vergisini bok püsürü ödersin. sen türkiyede aynı aracı 300-400.000 tl ye alırsın . şimdi senin ömür boyu edinemeyeceğin şeyleri adamlar genel ihtiyaç olarak edinebiliyor. en kaliteli kıyafetleri senin waikiki seviyene satın alıyor. senin 50 lira verdiğin kıymayı 10 birim paraya alıyor. senin 5.500 birim paraya aldığın iphone x'i 1000 birime alıyor, sen 200 liraya 1 depo benzin alırken adam 25-40 birim paraya deposunu dolduruyor. senden çok kazanıp senden daha kaliteli yaşayıp senden daha ucuza sahip oluyor herşeye.<br/>daha albenisi ne olsun devlet her ay karı mı göndersin eve?
 - entry_name: |
     osmanlı ocakları başkanının aracını park şekli
   entry_id:  74410458
   entry_writer: zwiegesprach
-  entry_fav_count: 205
+  entry_fav_count: 210
   entry_content: |
     (bkz: <a class="b" href="/?q=ankara+s%c4%b1%c4%9f%c4%b1r%c4%b1">ankara sığırı</a>)
 - entry_name: |
     dokunulamayan bir ürünün 120 milyar $ etmesi
   entry_id:  74410742
   entry_writer: drone agabey
-  entry_fav_count: 200
+  entry_fav_count: 203
   entry_content: |
     120 milyar dolarada dokunamadığımız için bizim açımızdan fark eden bir şey yok.
 - entry_name: |
     fransızlar ben sızlamam
   entry_id:  74407507
   entry_writer: syzer
-  entry_fav_count: 199
+  entry_fav_count: 200
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg" title="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg">http://galeri8.uludagsozluk.com/…sikin_844766_m.jpg</a>
 - entry_name: |
     chp ip sp dsp dyp gp dp tkp ldp btp kp ap ittifakı
   entry_id:  74411523
   entry_writer: pocoyo
-  entry_fav_count: 163
+  entry_fav_count: 164
   entry_content: |
     (bkz: <a class="b" href="/?q=parti+hard">parti hard</a>)
 - entry_name: |
     cengiz ünder
   entry_id:  74397561
   entry_writer: mionel lessi
-  entry_fav_count: 156
+  entry_fav_count: 158
   entry_content: |
     kendisi kadar övgüyü de roma sportif direktörü monchi haketmektedir. golden sonra belki görenler olmuştur, tribünde el sharawy ve totti seviniyordu, arkalarında gururla sevinen kel sakallı adamsa monchi idi. <br/><br/>düşünün, kendini liginizin seviyesinden çok daha düşük bir ligin orta sınıf bir takımında henüz 20 yaşında bir çocuk buluyorsunuz. bu çocuk 1 sene önce o düşük seviyeli ülkede bile 2.ligde oynuyor. muhtemelen çocuğu tanıyan dünya üzerinde 1 roma taraftarı bile yok. bu çocuğu 15 milyon euro gibi gayet yüksek bir paraya aldırıyorsunuz ve bu çocuk bugün bütün roma'nın sevgilisi oluyor.<br/><br/>bu transferi türkiye'ye şöyle uyarlayabilirim. fenerbahçe'nin sportif direktörü bulgaristan liginin litex takımından 20 yaşındaki bir futbolcuyu 7 milyon euro'ya transfer ettirmek istiyor. bak düşüncesi bile komik oldu. aldırmayız yani. bu fikri ortaya koyan adamı cümlesini bitirmeden kovarlar. düşünün cengiz transferindeki scouting başarısını.
 - entry_name: |
     gelini görünce gözyaşına boğulan damat
   entry_id:  74409557
   entry_writer: tatilsepeti
-  entry_fav_count: 112
+  entry_fav_count: 121
   entry_content: |
     ulan ne çektim bee!<br/>anamdan emdiğim süt burnumdan geldi<br/>gelinliğiydi, takısıydı, düğünüydü,ev döşemesi,<br/>evi, balayısı...iflahım kesildi...of be sonunda ...<br/>diyordur.<br/>onun için ağlıyordur.
 - entry_name: |
-    5 kişilik bir avrupa ailesi
-  entry_id:  74403280
-  entry_writer: snegurochka
-  entry_fav_count: 95
+    tsk'nın boğazına kadar siyasete bulaşması
+  entry_id:  74402231
+  entry_writer: varolan
+  entry_fav_count: 91
   entry_content: |
-    “düşünebiliyor musunuz, doğu kültüründe ortalama 5 kişilik bir ailede, en az bir kişi, en az bir defa kadın dövmeye teşebbüs etmiş. hepsi öldürmüyor ama kurbanlar o sarsıntıdan da kolay kolay kurtulamıyorlar. 5 kişilik bir ailede en az bir kişi uyuşmak için acun ya da ağır doz kadın programı kullanıyor. 5 kişilik bir ailede en az bir kişi çocuk tacizcisi ya da çocuk yaşta kızla evlenme/ evlendirme sevdalısı ama sapına kadar hetero. 5 kişilik bir ailede en az bir kişi el alem ne der diyor ama her türlü üç kağıda gizlice bulaşmakta sakınca görmüyor. 5 kişilik bir ailede en az 5 kişi psikolojik destek almadan kendini yönetemiyor. 5 kişilik bir ailede en az bir kişi ağır dincilik, yobazlık, ortaçağlılık gibi rahatsızlıklar da dahil olmak üzere engelli” snegurochka dilisivri.
+    alevi şehidin cenazesi cemevinde diye katılmayan ordu mensuplarının olduğu bir yapının geleceği tehlike altındadır.<br/><br/>ülkenin bir bölümünü yok sayarsanız bunun bedeli er ya da geç olur.<br/>tarih öyle söylüyor.
 - entry_name: |
     2018 ekonomik krizi
   entry_id:  74398889
   entry_writer: coldeavinibekleyenkutupayisi
-  entry_fav_count: 88
+  entry_fav_count: 89
   entry_content: |
     artik yok diyebilmek icin zeytin dali operasyonuna bile siginilan, kabak gibi ortada olan kriz.<br/><br/>bu kadar kuculmeyin ulan.
+- entry_name: |
+    ormanda seviştikten sonra teyemmüm alan girlfriend
+  entry_id:  74407995
+  entry_writer: barton smiley
+  entry_fav_count: 85
+  entry_content: |
+    zorlansa güzel bakınızlar doğuracak <a class="b" href="/?q=serin+hikaye">serin hikaye</a>dir.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=la+ilahe+illallah+dedim+wait+a+second+%c3%a7ektim">la ilahe illallah dedim wait a second çektim</a>)<br/>(bkz: <a class="b" href="/?q=earth+or+water+bebe%c4%9fim">earth or water bebeğim</a>)<br/>(bkz: <a class="b" href="/?q=welcome+to+real+world">welcome to real world</a>)<sup class="ab"><a title="(bkz: morpheus sanki pezevenk)" href="/?q=morpheus+sanki+pezevenk" data-query="morpheus sanki pezevenk">*</a></sup><br/>(bkz: <a class="b" href="/?q=hijab+dedi+laiklik+dedim">hijab dedi laiklik dedim</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    fenerbahçe
+  entry_id:  74409077
+  entry_writer: trollerde aglar
+  entry_fav_count: 82
+  entry_content: |
+    korner kullanmaya 2 kişi gitmesinin sebebi hasan ali ve ismail köybaşı'yı ceza sahası içerisinden uzak tutabilmek olduğunu düşünüyorum.
 - entry_name: |
     youtube'daki çocuk oyunculu absürt video
   entry_id:  74398120
@@ -129,10 +143,17 @@ data:
   entry_content: |
     ''bu yaşa kadar bu adam neredeydi, nasıl da keşfedilemedi diye düşündüğüm akıllı ve iyi niyetli olduğunu düşündüğüm siyasetçi.'' demiş bir kişi hakkında.<br/><br/>hakikaten pes lan. bu yaşa kadar bu adamın nerelerde olduğunu, neler yaptığını, kim olduğunu bilmeyen cehaletine mi sinirleneyim, iyi niyetli olduğunu düşünen aptallığına mı öfkeleneyim bilemedim.<br/><br/>sivas katliamı baş sorumlusu eski sivas belediye başkanı, şimdinin saadet partisi genel başkanı.
 - entry_name: |
+    mühürsüz oyların geçerli sayılması
+  entry_id:  74398722
+  entry_writer: varolan
+  entry_fav_count: 65
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html" title="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html">https://www.amerikaninsesi.com/…ilacak/4264641.html</a><br/><br/>evet bundan sonra tüm seçimlerde mühürsüz oylar geçerli sayılacak.<br/>bu ne demek biliyor musunuz?<br/>bundan sonra tüm seçimler göstermelik yapılacak demek.<br/>iktidara çöreklenen güruh ölene kadar koltuklarından kalkmayacak demek.<br/><br/>türkiye cumhuriyeti bitti.
+- entry_name: |
     taksicilerin uber şöforüne saldırması
   entry_id:  74411900
   entry_writer: arcticfur ve elem
-  entry_fav_count: 59
+  entry_fav_count: 61
   entry_content: |
     90 usd yaklaşık 340 lira ediyor, ufak bir arama ile istanbul'da 4 lira ile açılış yapıldığını ve kilometre başına 2.5 lira yazdıklarını öğrendim. bu da demek oluyor ki taksici 136 kilometrelik bir yol için nijeryalı kızlardan ücret talep etmiş. bir harita açıp deneye deneye silivri'den gebze'ye bir yol çizdim, 133 kilometre ettiğini gördüm.<br/><br/>bu kızların istanbul içinde havalimanından nereye gitmek istediklerini ve taksiciden "ücreti 90 dolar olur" sözünü işittiklerini çok merak ediyorum.
 - entry_name: |
@@ -143,6 +164,20 @@ data:
   entry_content: |
     gözaltına alınılmasaydı eğer türk polisini böyle trolledik gibi bir başlıkla paylaşılacak video idi. şimdi mağduruz ayağına paylaşılmış videodur. <br/>bu teroristlere yağmurlu günde 1 bardak su bile verilmez çünkü bunlar o bardağa sıçar. <br/>yedikleri kaba sıçmayı sever bunlar.
 - entry_name: |
+    düğünde topal oyunu ile kendinden geçen teyze
+  entry_id:  74414521
+  entry_writer: koca nickli zenci
+  entry_fav_count: 53
+  entry_content: |
+    eğlenmesini bilen teyze'dir. eğlenmeyi bilen insandan zarar gelmez.eleştirmeye gerek yok.
+- entry_name: |
+    youtube'daki uygunsuz çocuk görüntüleri
+  entry_id:  74411539
+  entry_writer: turiq
+  entry_fav_count: 51
+  entry_content: |
+    video'ların bitanesine baktım. izlenme sayısı da 1 milyonu aşkın. <br/><br/>ya bizde bi anormallik var ya da dünya gitgide boka sarıyor..
+- entry_name: |
     sabah kahve içip spor yaptıktan sonra işe gitmek
   entry_id:  74401939
   entry_writer: kirkimusvedde
@@ -150,33 +185,19 @@ data:
   entry_content: |
     2 dakika önce uyandım, bu entry tuvalette gözlerim kapalı sıçarken yazılmıştır. kıskanılacak şey değildir. uykum var lan <br/><br/>ekmek parası spor
 - entry_name: |
-    mühürsüz oyların geçerli sayılması
-  entry_id:  74398722
-  entry_writer: varolan
-  entry_fav_count: 48
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html" title="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html">https://www.amerikaninsesi.com/…ilacak/4264641.html</a><br/><br/>evet bundan sonra tüm seçimlerde mühürsüz oylar geçerli sayılacak.<br/>bu ne demek biliyor musunuz?<br/>bundan sonra tüm seçimler göstermelik yapılacak demek.<br/>iktidara çöreklenen güruh ölene kadar koltuklarından kalkmayacak demek.<br/><br/>türkiye cumhuriyeti bitti.
-- entry_name: |
-    youtube'daki uygunsuz çocuk görüntüleri
-  entry_id:  74411539
-  entry_writer: turiq
-  entry_fav_count: 46
-  entry_content: |
-    video'ların bitanesine baktım. izlenme sayısı da 1 milyonu aşkın. <br/><br/>ya bizde bi anormallik var ya da dünya gitgide boka sarıyor..
-- entry_name: |
     windows 10
   entry_id:  74405299
   entry_writer: baros tipi forvet
-  entry_fav_count: 40
+  entry_fav_count: 46
   entry_content: |
     kimi bilgisayarda kaymak gibi çalışırken bazılarında disk hatası olan ama her ne hikmetse argümanı "ssd al, yoksa ağlama" olan kişiler tarafından hatası savunulan işletim sistemi. ilk olarak kimse hatalı olarak piyasaya sürülmüş bir işletim sistemi yüzünden kapasite düşürmek ya da binlerce lira harcamak zorunda değil. ssd iyi bir teknoloji ama hdd de halihazırda kullanılan ve ciddi bir sektörü olan bir teknoloji. hayır, sanki millet "disket okumuyor" diye ağlıyor. hard disk kararsız çalışıyor, kafa sürekli hareket ediyor. 1 haftada 1 yılda yapacağı kadar salınım yapan kafa kısa süre sonra atıyor. microsoft forumları bunun "sorun" olduğunu kabul eden uzmanlarla dolu. <br/><br/>bilgisayar kullanmadığınız bir iş yapıyor olabilirsiniz ama ben gün boyu bilgisayar karşısındayım. devlet kurumunda "ya bu hdd %100 disk hatası veriyor" dersem ağzıma yüzüme hdd ile vururlar. geriye sizin alıp takmanız kalır ama bu işin 2 mantıksız tarafı var. birinci demirbaşı değiştirmiş olursunuz. ikincisi benim gibi bilgisayar laboratuvarı olan bir kurumda çalışıyorsanız hangisini siz karşılayacaksınız? öyle ya da böyle bu işletim sistemi problemlidir kardeşim. internette zibille bu hatayı çözdüğünü söyleyen adam var ama hepsi geçici çözümler.
 - entry_name: |
-    düğünde topal oyunu ile kendinden geçen teyze
-  entry_id:  74414521
-  entry_writer: koca nickli zenci
+    hileli gıda üreten firmaların artık açıklanmaması
+  entry_id:  74403937
+  entry_writer: nadnan
   entry_fav_count: 36
   entry_content: |
-    eğlenmesini bilen teyze'dir. eğlenmeyi bilen insandan zarar gelmez.eleştirmeye gerek yok.
+    yazar kanat atkaya'nın 22.02.2018 tarihli köşe yazısına konu olmuştur. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673" title="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673">canım sahtekarım sana birşey olmasın</a><br/><br/>yazının tamamı:<br/><br/>yaklaşan süt krizine dikkat çekmek için elinde peynir paketleriyle basın toplantısı düzenleyen chp niğde milletvekili ömer fethi gürer, “içinde süt yok bu peynirlerin” dedi.<br/><br/>“sütsüz peynir”de süt yoksa ne var?<br/><br/>bolca margarin ve “katı madde karışımı” var.<br/><br/>peki “katı madde karışımı”nda ne var?<br/><br/>sütü para etmediği için kesilen hayvanın kemiğinin tozu var, nişasta var, “iade” peynir var.<br/><br/>“tanışalım mı? adım pollyanna? süt ürünlerini kemik gelişimi için kullanıyorum zaten, kemik tozu faydalı olabilir” diyen çıkar mı bilmem...<br/><br/>“fıstık tozu” diye ağaç kabuğu; pul biber veya zencefil diye boyanmış talaş yediriyorlar...<br/><br/>organik tavuk boku<br/>kıyma niyetine hayvanın toynağını bile yediriyorlar; “o kıymanın içinde yok yok” diyeceğim ama et yok mesela bazı durumlarda...<br/><br/>“plastik pirinç tuzağına dikkat” diye haber okuduk çok şükür; pilav niyetine yediğimiz şeye bak!<br/><br/>organik yumurta diye sanayi üretimi yumurtayı tavuk bokuna bulayıp satıyorlar; “serbest gezen sersem” olarak afiyetle lüpletiyoruz...<br/><br/>ekonomi müdürümüz sefer levent geçen ay hepimizi “dışarıda ve hatta evde yemek yemekten” soğutan o şahane yazılarda neler anlatıyordu hatırlıyor musunuz?<br/><br/>yoğurda peçete ile “kaymak tabakası” yapan var...<br/><br/>karpuz kabuğunu ince kıyım yapıp hıyar diye cacığa katıp kakalayan var...<br/><br/>üzümsüz pekmeze gel<br/>dönerin içine hayvanın iç organları, bağırsak, hayvan tırnağı, tavuk kırıntıları katan var... at mıdır eşek midir o kısmına girmiyorum bile...<br/><br/>bu arada hazmı kolay olsun veya yiyen “kâbus görmesin” diye değil, rengi tutturmak için lohusa şerbeti de basıyorlar. oh be, şifa niyetine!<br/><br/>üzüm görmemiş pekmez var...<br/><br/>“nasıl olur?” demeyin. musluk suyuna basın glikoz şurubunu ve boyayı, bal gibi olur.<br/><br/>“bal gibi olur” derken, bal da öyle üretilebiliyor gerçekten de...<br/><br/>hal böyleyken...<br/><br/>ne yediğimiz belli değilken...<br/><br/>arkadaşımız hacer boyacıoğlu geçen hafta ankara’dan bildirdi: “hileli gıda üretenler artık açıklanmıyor...”<br/><br/>hatırlar mısınız?<br/><br/>bakanlık bir ara “taklit, tağşiş (karıştırılmış) ve bozuk” ürünleri kamuoyuna duyuruyordu.<br/><br/>açıkçası ben hâlâ duyurduklarını varsayıyordum...<br/><br/>meğer son liste aralık 2016’da yayınlanmış...<br/><br/>arkadaşımız sormuş: “niye yayınlanmıyor artık listeler?”<br/><br/>cevap gelmiş bakanlık yetkililerinden: “listeler açıklanınca üreticiler mağduriyet yaşayabiliyor...”<br/><br/>vah canım, onlar mağdur olmasın.<br/><br/>biz yiyelim, onlara yarasın.<br/><br/>canlarım benim, sahtekârlarım benim...<br/><br/>size canımız feda...
 - entry_name: |
     yol vermeyen arabanın önüne kıran mercedes
   entry_id:  74397758
@@ -192,12 +213,26 @@ data:
   entry_content: |
     15 temmuz sehitler maddesi
 - entry_name: |
-    hileli gıda üreten firmaların artık açıklanmaması
-  entry_id:  74403937
-  entry_writer: nadnan
-  entry_fav_count: 33
+    donald trump'ın öğretmenleri silahlandırması
+  entry_id:  74413857
+  entry_writer: veniceviolins
+  entry_fav_count: 30
   entry_content: |
-    yazar kanat atkaya'nın 22.02.2018 tarihli köşe yazısına konu olmuştur. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673" title="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673">canım sahtekarım sana birşey olmasın</a><br/><br/>yazının tamamı:<br/><br/>yaklaşan süt krizine dikkat çekmek için elinde peynir paketleriyle basın toplantısı düzenleyen chp niğde milletvekili ömer fethi gürer, “içinde süt yok bu peynirlerin” dedi.<br/><br/>“sütsüz peynir”de süt yoksa ne var?<br/><br/>bolca margarin ve “katı madde karışımı” var.<br/><br/>peki “katı madde karışımı”nda ne var?<br/><br/>sütü para etmediği için kesilen hayvanın kemiğinin tozu var, nişasta var, “iade” peynir var.<br/><br/>“tanışalım mı? adım pollyanna? süt ürünlerini kemik gelişimi için kullanıyorum zaten, kemik tozu faydalı olabilir” diyen çıkar mı bilmem...<br/><br/>“fıstık tozu” diye ağaç kabuğu; pul biber veya zencefil diye boyanmış talaş yediriyorlar...<br/><br/>organik tavuk boku<br/>kıyma niyetine hayvanın toynağını bile yediriyorlar; “o kıymanın içinde yok yok” diyeceğim ama et yok mesela bazı durumlarda...<br/><br/>“plastik pirinç tuzağına dikkat” diye haber okuduk çok şükür; pilav niyetine yediğimiz şeye bak!<br/><br/>organik yumurta diye sanayi üretimi yumurtayı tavuk bokuna bulayıp satıyorlar; “serbest gezen sersem” olarak afiyetle lüpletiyoruz...<br/><br/>ekonomi müdürümüz sefer levent geçen ay hepimizi “dışarıda ve hatta evde yemek yemekten” soğutan o şahane yazılarda neler anlatıyordu hatırlıyor musunuz?<br/><br/>yoğurda peçete ile “kaymak tabakası” yapan var...<br/><br/>karpuz kabuğunu ince kıyım yapıp hıyar diye cacığa katıp kakalayan var...<br/><br/>üzümsüz pekmeze gel<br/>dönerin içine hayvanın iç organları, bağırsak, hayvan tırnağı, tavuk kırıntıları katan var... at mıdır eşek midir o kısmına girmiyorum bile...<br/><br/>bu arada hazmı kolay olsun veya yiyen “kâbus görmesin” diye değil, rengi tutturmak için lohusa şerbeti de basıyorlar. oh be, şifa niyetine!<br/><br/>üzüm görmemiş pekmez var...<br/><br/>“nasıl olur?” demeyin. musluk suyuna basın glikoz şurubunu ve boyayı, bal gibi olur.<br/><br/>“bal gibi olur” derken, bal da öyle üretilebiliyor gerçekten de...<br/><br/>hal böyleyken...<br/><br/>ne yediğimiz belli değilken...<br/><br/>arkadaşımız hacer boyacıoğlu geçen hafta ankara’dan bildirdi: “hileli gıda üretenler artık açıklanmıyor...”<br/><br/>hatırlar mısınız?<br/><br/>bakanlık bir ara “taklit, tağşiş (karıştırılmış) ve bozuk” ürünleri kamuoyuna duyuruyordu.<br/><br/>açıkçası ben hâlâ duyurduklarını varsayıyordum...<br/><br/>meğer son liste aralık 2016’da yayınlanmış...<br/><br/>arkadaşımız sormuş: “niye yayınlanmıyor artık listeler?”<br/><br/>cevap gelmiş bakanlık yetkililerinden: “listeler açıklanınca üreticiler mağduriyet yaşayabiliyor...”<br/><br/>vah canım, onlar mağdur olmasın.<br/><br/>biz yiyelim, onlara yarasın.<br/><br/>canlarım benim, sahtekârlarım benim...<br/><br/>size canımız feda...
+    "silahla okul basan öğrenci, öğretmeni tarafından vuruldu. öğretmeni vuran veli ise okul müdürü tarafından kurşuna dizildi." <br/><br/>"amerikan hükümeti silah satışlarından elde edilen vergilerin kutsal olduğunu açıkladı."<br/><br/>(bkz: <a class="b" href="/?q=gelecekten+haber+veren+entry">gelecekten haber veren entry</a>)
+- entry_name: |
+    2019 seçimleri için yeni oy pusulası örneği
+  entry_id:  74409910
+  entry_writer: turti lr
+  entry_fav_count: 29
+  entry_content: |
+    2019'a kadar su <a rel="nofollow noopener" class="url" target="_blank" href="http://i.sozcu.com.tr/wp-content/uploads/2017/01/almanya-1938-genel-secim-pusulasi.jpg" title="http://i.sozcu.com.tr/wp-content/uploads/2017/01/almanya-1938-genel-secim-pusulasi.jpg">sekle</a> evrilmesini bekledigim pusuladir.
+- entry_name: |
+    iyi üniversitelerde okuyan terör yandaşları
+  entry_id:  74411226
+  entry_writer: nahrok
+  entry_fav_count: 28
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>cünkü solcularin kafasi sagcilardan daha cok calisir, akilli adam sagci olmaz, hele dinci hic olmaz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>bak bak solcuların kafası sağcılardan daha iyi çalışıyor diyip teröristleri solculukla ilişkilendirip onlara aklamaya çalışma çabasına bak.<br/><br/>bana bir tane ileri düzeyde zeki türk solcu söyle desem selo demirtaş der ancak. mesela benim aklıma türk sağından(milliyetçiliği sağcılık olarak gördüğünüz için) zeki, entelektüel diyince hemen halil inalcık, aziz sancar, ilber ortaylı ve celal şengör gibi örnekler geliyor. hadi şimdi solcolor doho zoko yooo mastürbasyonunuzu yapın.
 - entry_name: |
     chp'li yöneticinin çocuk istismarı
   entry_id:  74408001
@@ -206,19 +241,12 @@ data:
   entry_content: |
     adam anında ihraç edilmiş, işlem başlatılmış. olay bizzat diğer partililer tarafından ortaya çıkartılmış, kimse korumamış. malum parti ve malum vakıflarda olanın aksine..
 - entry_name: |
-    donald trump'ın öğretmenleri silahlandırması
-  entry_id:  74413857
-  entry_writer: veniceviolins
-  entry_fav_count: 24
+    idama karşı olmak
+  entry_id:  74399058
+  entry_writer: aydinlanmis
+  entry_fav_count: 26
   entry_content: |
-    "silahla okul basan öğrenci, öğretmeni tarafından vuruldu. öğretmeni vuran veli ise okul müdürü tarafından kurşuna dizildi." <br/><br/>"amerikan hükümeti silah satışlarından elde edilen vergilerin kutsal olduğunu açıkladı."<br/><br/>(bkz: <a class="b" href="/?q=gelecekten+haber+veren+entry">gelecekten haber veren entry</a>)
-- entry_name: |
-    bitcoin
-  entry_id:  74401070
-  entry_writer: hegel kim lan
-  entry_fav_count: 24
-  entry_content: |
-    1929 krizinde amerika'da ünlü bir ekonomist evine duvar boyamaya gelen adamın hisse senetleri hakkında konuştuğunu duyunca şunu sorar: nerelisin?<br/><br/>adamdan türk'üm cevabını alan ekonomist, türklerin girdiği platform yarrağı yemiştir diyerek bütün parasını bir günde borsadan çeker. <br/><br/>işte o ekonomistin adı albert einstein'dır.
+    sadece balyoz ve ergenekon davalarin bakarak neden karsi olundugu anlasilabilir. yargi bagimsiz olmadigi surece idam, hadim vs cezalar gelmemeli.
 - entry_name: |
     ekşi itiraf
   entry_id:  74398624
@@ -227,26 +255,19 @@ data:
   entry_content: |
     neredeyse bebek denebilecek bir yaşta babamı kaybetmem ve ne dayımın ne de dedemin o boşluğu kapatması/kapatabilmesi nedeniyle hep kadınların arasında büyüdüm desem yeridir.<br/><br/>lise 2 ve sonrasında hep yabancı dil bölümü okuduğum için sınıfımın % 95’i falan hep kızlardan oluşuyordu.<br/><br/>iş yerlerimde de biri hariç hep kadın patronlarım, kadın iş arkadaşlarım oldu. şimdi de 15 kadına 2 erkeğiz, ki diğer erkek arkadaş... neyse.<br/><br/>abi cidden yeter. bu kadar östrojen yemin ediyorum kimyamı bozdu artık. yakında “erkek istiyom erkeeeekk!” diye sokaklarda ağlaya ağlaya koşarken falan tutuklanacağım diye korkuyorum.
 - entry_name: |
-    on üç bin milyonerin ülkeyi terk etmesi
-  entry_id:  74399160
-  entry_writer: nixferstehen
-  entry_fav_count: 14
-  entry_content: |
-    herkesin yapmak istediğini yapmış olan on üç bin milyoner. işin komik yanı ise sokakta kağıt toplayanından yalılarda yaşayanına kadar herkesin bu ülkeden gitmek istemesi fakat bu ülkenin bu hale gelmesinin sebebinin yine bizzat bu kişilerin kendileri olması.<br/>çok ironik bir kısır döngü var ortada. tıpkı gurbetçilerin türkiye'nin şartları süper diye yırtınıp ülkeye dönmeyi akıllarından bile geçirmemesi gibi. tabi ki herkes birey birey ele alındığında kimseyi doğrudan suçlu ilan edemeyiz. örneğin ben şahsen toplumda huzuru düzeni bozan hiç bir konuyu üzerime alınmıyor ve erdemli olarak yaşama konusunda titiz davranıyorum. fakat yüzde doksanımız torpil, adam kayırma, insan sömürme, kamusal mekanlarda düzeni bozma, kurnazlık, en basitinden her hangi bir resmî kurumda adamı varsa kendi sırasını öne aldırma, trafikte kural ihlali, okulda kopya çekme, işini savsaklama, kaytarma ve hatta <a class="b" href="/?q=sabunlama">sabunlama</a>, sokakları kirletme, enerji zaiyatı, gösteriş budalalığı, cahil kalmakta direnme, boş beleş işlerle uğraşma, kul hakkı yeme, görgü kurallarını ihlal etme, çıkarcılık, yalakalık, kaypaklık, bilinçsiz beslenip erken yaşta sağlığını kaybetme (bunun sonucu diğerlerinden daha dolaylı tabi), tembellik gibi ülke düzenini doğrudan etkilediğine inandığım bir takım negatif davranışların farklı kombinasyonlarını yapmaktayız. "kayfedeki" emmiden tutun da yoga salonunda güneşe selam yollayan organik ablaya varana kadar, politikacısından inşaat işçisine varana kadar herkes ağlıyor ülke şöyle düzensiz, böyle berbat, şöyle kuralsız diye. <br/>kim yapıyor ulan o zaman yukarda saydıklarımı? torpil konusundaki görüşlerim yüzünden kaç kişiyle aram açıldı. doğru değil yapmamalısın dedim diye, kendim asla bulaşmıyorum diye enayi gözüyle bakıyorlar bana. herkes yapıyor mecburum torpil bulmaya zihniyeti yüzünden bu hale gelmediysek ben de nixferstehen değilim. yanımda bir arkadaşım yere çöp atınca uyarıyorum " onu mu taşıyacam iki saat diyor." e daha dün ağlamıyor muydun avrupa şöyle temiz böyle güzel sokaklar, yerlerde bir tane çöp bulamazsın bizimki berbat diye bre mübarek? <br/>erdemli insan sayısı artmadığı sürece burnumuz asla boktan çıkmayacak bunu bilmeliyiz. nasıl yaşıyorsak öyle yönetiliyoruz. ben <a class="b" href="/?q=%c3%bcbermensch">übermensch</a> olduğum için yazmıyorum bunları. hepimizde var hata. en masumumuz hiç bir şey yapmasa bile savruk yaşıyor, tembellik yapıyor, baştan savıyor. herkes düzgün olsun ben arada kaynarım mantığı batırdı bizi. <br/>sonrası malum, "türkiye'den defolup gitme" çabaları... bindiğimiz dalı kesiyoruz yavaş yavaş. kuş olup uçan kurtuluyor, uçamayanın işi yaş.<br/><br/>üşenmeden okuyana not: doğru düzgün yaşamaya gayret edene sözüm yok, yazdıklarım, kendini bilmeyene, asla özeleştiri yapmayana karşı bir serzenişimdir.<br/>edit: imla
-- entry_name: |
     chp ile iyi parti ittifak yapsın kampanyası
   entry_id:  74399239
   entry_writer: 6agustos1945
-  entry_fav_count: 13
+  entry_fav_count: 15
   entry_content: |
     verin amk ak partiye verin ananızı da bellese akp ye verin.hatta arkanızdaki organı da reisinize verin.<br/>yok iyi parti chp ile ittifak yaparsa yine akp ye verirmiş de.ver amk.zaten geçen seçimde vererek anasını siktin ülkenin bir daha ver.herkes terörist bir siz değilsiniz zaten.
 - entry_name: |
-    beşiktaş
-  entry_id:  74402889
-  entry_writer: miki hiir
-  entry_fav_count: 11
+    sözlük yazarları evlenmelik erkek veritabanı
+  entry_id:  74400275
+  entry_writer: tirmanmak zordur emek ister yurek ister
+  entry_fav_count: 10
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>tamamen kompleks haline getirdikleri galatasaray<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bunu diyen tiplerin son 20 entrysinin 16 tanesinin öznesi olan kulüp.<br/>daha geçmişi de doludur ama düzenli sildiğinden bilemiyoruz.<br/>bkz verdiği entryleri bile silinmiş :)
+    hiçbir özelliğim yok. şimdiden hayırlı uğurlu olsun, ikimize de mutluluklar dilerim.
 - entry_name: |
     25 şubat 2018 beşiktaş fenerbahçe maçı
   entry_id:  74410613
@@ -262,13 +283,6 @@ data:
   entry_content: |
     kötü bir durum ama çözümü olan bir durum ( bu olay için değil, belki başkalarına faydası olur diye yazıyorum) diyelim ki istanbul'dan izmire uçacaksınız fakat bileti aldığınız tarihten öncesine gitmeniz gerekti izmir'e dönüşü de uçakla yapmanız gerekiyor, thy yi aramazsanız dönüş biletiniz yanar maalesef fakat arayıp durumu izah edip biletleri ayırmak istiyorum derseniz birbirinden bağımsız biletleriniz olur. yani dönüş biletiniz yanmaz artık. <br/><br/>yazarın başına gelen olay içinse çözüm önerim yok malesef, geçmiş olsun.
 - entry_name: |
-    iyi üniversitelerde okuyan terör yandaşları
-  entry_id:  74410545
-  entry_writer: kirik sandalye
-  entry_fav_count: 8
-  entry_content: |
-    güneydoğu'da 1990'larda yapılan hemen hemen tüm sınavlarda kopya çekilmiştir. sılho'nun girdiği sınav iyi araştırılsın.
-- entry_name: |
     mezuniyet + iş bulma + evlilik + çocuk
   entry_id:  74398231
   entry_writer: cekilmezbirkiz
@@ -279,7 +293,7 @@ data:
     cumhur ittifakı
   entry_id:  74403026
   entry_writer: avenger
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     chp-hdp-iyi parti ve diğer adını sayamadığım partiler de kendi aralarında ittifak kurup acaba oy pusulasına ittifak olarak kendilerini yazdırabilirler mi? yoksa bunu engellemek için en fazla 3 parti şeklinde diye kanun mu çıkarırlar?<br/><br/>barajı geçemeyeceğini bilen mhp ve bbp'nin koltuk sevdası, akp'nin ise düşen oy oranlarının diğerlerinin alacağı oy ile yükseltmeye çalışması için kurulmuş bir ittifak.<br/><br/>adil seçim istiyorsan arkadaş kaldır tamamen barajı. %10'da koyma. herkes adayını göstersin. hangi ilden kim fazla aldı koy meclise partisine bakmadan. <br/><br/>ama yok laf kalabalığıyla kendi çıkarlarını korumak için yapmayacağı şey yok bunların.<br/><br/>devlet bahçeli inşallah o seçimi göremez ölür gidersin. bizde senden kurtuluruz.
 - entry_name: |
@@ -290,26 +304,26 @@ data:
   entry_content: |
     “aralarında 8 yaş olsun da ilki para kazanıp ikincisine baksın” diyen ve kendi zevkinin cefasını ilk çocuğuna çektirmeye kalkan malları dinlemeden verilmesi gereken karardır. bırakın da o ilk çocuk ebeveynlik sorumluluğunu kendi çocuğuyla tatsın. maddi manevi kendinize güvenmiyorsanız enik gibi üremeyin. hiçbir çocuk sikinizin keyfi yüzünden kısıtlı maddi durumla ve ablaya abiye itelenerek büyümek zorunda değil.
 - entry_name: |
-    yorganın cinsel dürtüleri uyandırması
-  entry_id:  74402218
-  entry_writer: spinapubica
+    netflix kullananların yasal programlarının listesi
+  entry_id:  74401020
+  entry_writer: zrl
+  entry_fav_count: 4
+  entry_content: |
+    utorrent<br/>daemon tools<br/>popcorn time<br/>hamachi<br/><br/>hepsini de resmi sitelerinden legal olarak indirdim alnımın akıyla. torrent sitelerinde fake upload yapmış tipler adamlığımızı sorgulamasın lütfen.
+- entry_name: |
+    ev kirasının evin değerine oranlanması
+  entry_id:  74415120
+  entry_writer: mindtrap
   entry_fav_count: 3
   entry_content: |
-    halkimizin fikih alimlerinden cevabini bekledigi iki soru var.<br/><br/>1. sakiz cignemek orucu bozar mi?<br/>2. kimi sikebiliriz?<br/><br/>yorgan meselesi, 2. soruyla alakali.
+    amerika'da 1'e 150 gibi bir rakamda su an bu deger, insanlar emlak balonu diye feryat ediyorlar. mortgage ise %4 gibi bir degerde 100 bin dolar krediyi aylik 480$ taksitle almak mumkun.<br/><br/>turkiye'de ise iyicene ucmussunuz siz, yakindir birileri indirir (loading... )
 - entry_name: |
-    survivor 2018 all-star
-  entry_id:  74411491
-  entry_writer: dekolteli kefen
-  entry_fav_count: 3
-  entry_content: |
-    truman show'a dönen program. yarışmacılar kendi aralarında konuşurlarken birden mokoko kahvesi olsa da içsek falan diyecekler diye korkuyorum. ne baraka yapmaya çalışmak var, ne yemek için çabalamak var, ne balık tutmaya çalışan var ki olta yok zaten ellerinde ilk ödüllerden birisi olmalıydı olta. ödüller komedi ötesi. popkek nedir lan. çizi nedir. napıyorsun. <br/><br/>kendi elleri ile batırdı programı acun. adamlar 30 sezon yapmışlar bu programı onlar bilmiyor mu all star yapmayı. her sene başka yarışmacı geliyor. ben turabili hiç bir sezonu izlemedim mesela. bu sene nihat doğan'ı getirerek en büyük hatayı yaptın zaten. <br/><br/>haftalarca seçme yapıyorsun ama gönüllü dediğin adamlar bile ya senin ya da şeyma'nın tanıdığı arkadaşı. aa bizim var mısın yok musun metin'in oğlu da burdaymış yaa ne tesadüf değil mi. yemedik be acun.
-- entry_name: |
-    21 şubat 2018 sırmagrup ik maili
-  entry_id:  74399650
-  entry_writer: eq
+    06 rgn 02
+  entry_id:  74398506
+  entry_writer: cobongo
   entry_fav_count: 2
   entry_content: |
-    davutun çocukları laptop recai gibi galiba. sanırsam uygulama işine girmişler. geliştirdiği süper oyunun adı da "gizli kelime". uvvv ne de harika bir oyun bu. galiba çok özgün bir oyun içeriği olduğundan sadece sırma su çalışanları kullanıyor.<br/><br/>yahu adamdaki zihniyete bakar mısınız? oğlunun yaptığı oyun indirilsin de, oğlu mutlu olsun, bir halt olduğunu zannetsin diye konumunu kullanıp, resmen çalışanlarına indirin de, oğlum sevinsin diye mail atıyor.<br/><br/>oğlunun mutluluğu için tüm çalışanlarına bu kadar gayriresmi bir mail atan patron, işçisinin 15 dakikalık sigara keyfini çok görüyor. çünkü çalışanlar kendi çocuğu değil ama empati kurup düşünse o çalıştırdığı insanların da tıpkı kendi oğullarına beslediği duygular gibi duyguları var.
+    bence her arabada ön/arka yol kamerası şart koşulmalı, kamerasız ve kayıt yapamayan araç muayeneden geçememeli ve yol kamerası görüntü kayıtları polise verildiğinde delil teşkil edip, araç sürücüsü belli olamayacağı için plaka sahibine adeta polise yakalanmışçasına ceza yollanmalı. <br/><br/>trafik terörünün önüne geçilmesinin en önemli yolu bu.<br/><br/>ben hükümet olsam böyle yapardım.<br/><br/>1- hem hayvan gibi ceza keser ve kazanç kapısı açmış olurum.<br/>2- hem mecburi tuttuğum kamera sektörüne can gelir, kendi yeğenlerime kamera şirketi kurar ve kazanmalarını sağlarım,<br/>3- hem memlekette biraz da olsa huzur veya delile dayalı güven baş gösterir.<br/>4- hem de dünya'da bir ilk girişime imza atmış olur, parmakla gösterilirim.<br/>5- hem de sırf bu anlar için değil, trafikle alakası olmayan ülkedeki bilumum farklı adli vakanın çözümünde milyonlarca kamera kaydına anında ulaşma şansı elde edip ülkedeki suç oranına ve suçluyu yakalama oranına çok büyük ölçüde müspet müdahelede bulunup tarihe geçerdim.<br/><br/>6- ha ülkenin 4 bir yanında 7/24 her şeyin milyonlarca kamera tarafından kaydedilmesi devlet'in işine gelmeyebilir. onu bilemem. beni aşar. ama hukuk devletiysek, barıştan, adaletten yanaysak. bu tarz bir hamle bütün bir ülke'nin yaşayış şeklini değiştirebilir.<br/><br/>şunu bimer'e mi cimer'e mi egm'ye mi kime yazmak gerekiyorsa yazabiliriz.
 - entry_name: |
     mükemmel erkeği bulma yolları
   entry_id:  74399888
@@ -331,20 +345,6 @@ data:
   entry_fav_count: 1
   entry_content: |
     başkasına koca
-- entry_name: |
-    arjen robben'ın beşiktaş ile dalga geçmesi
-  entry_id:  74400035
-  entry_writer: zzgx
-  entry_fav_count: 1
-  entry_content: |
-    yalnız ben haberden aşağılama değil bilakis tam tersini anladım.
-- entry_name: |
-    ev kirasının evin değerine oranlanması
-  entry_id:  74415700
-  entry_writer: kamerarkasi
-  entry_fav_count: 0
-  entry_content: |
-    moğolistan'da 1/10'dur.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74413964
