@@ -6,105 +6,91 @@ data:
     google'ı ilk icat eden sultan abdülhamit han'dır
   entry_id:  74402241
   entry_writer: jamesharden
-  entry_fav_count: 1278
+  entry_fav_count: 1283
   entry_content: |
     google earth'ün fikir babası da piri reis'tir.
 - entry_name: |
     sedyeye çıkıp hastaya kalp masajı yapan doktor
   entry_id:  74405824
   entry_writer: malta erigi
-  entry_fav_count: 475
+  entry_fav_count: 478
   entry_content: |
     <a class="b" href="/?q=eli+%c3%b6p%c3%bclesi+doktordur">eli öpülesi doktordur</a>.<br/><br/>"bursa’da kalbinin altından bıçak yarasıyla hastaneye gelen kişiyi, acil tıp uzmanı dr. hüseyin yenice ameliyathaneye gidene kadar sedyenin üzerinde kalp masajı yaparak hayatta tuttu. doktorun insan hayatı için gösterdiği bu çaba ise saniye saniye kameralara yansıdı. "<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911" title="http://www.hurriyet.com.tr/gundem/ameliyathaneye-kadar-durmadi-sedyeye-ciktigim-ani-hatirlamiyorum-40749911">http://www.hurriyet.com.tr/…hatirlamiyorum-40749911</a><br/><br/>edit: doktoru tanıyan yazarları görmemizi sağlayan başlık.<br/>(bkz: <a class="b" href="/entry/74406136">#74406136</a>)<br/>(bkz: <a class="b" href="/entry/74406300">#74406300</a>)<br/><br/>edit 2: hastanın son durumu iyiymiş.
 - entry_name: |
     tombi'nin sınıfına geri dönmesi
   entry_id:  74409633
   entry_writer: umberto d
-  entry_fav_count: 411
+  entry_fav_count: 413
   entry_content: |
     bir insan bir hayvanla aynı ortamda bulunmak istemiyorsa neden o hayvana düşman sayılıyor, bunu anlamadım bir türlü.<br/><br/>çocuğunun sınıfını değiştirsin falan denebilir, başka çözüm de bulunabilir ama farklı olan niçin hemen ötekileştiriliyor? nerede kaldı tercihlere saygı?<br/><br/>yoksa sizler de güce kavuşmayı bekleyen, bugünün mazlumları, yarının zalimleri misiniz?
 - entry_name: |
     erkeklerin bekarete takma sebepleri
   entry_id:  74400833
   entry_writer: hegel kim lan
-  entry_fav_count: 325
+  entry_fav_count: 333
   entry_content: |
     toplum öğretisinin oluşturduğu super-ego'dur.<br/><br/>teşbihte hata olmaz da bu kadar da olmaz. sen de sikilmiş dondurmadan çıktın güzel insan.
 - entry_name: |
     cüneyt çakır
   entry_id:  74405452
   entry_writer: okaberintarou
-  entry_fav_count: 293
+  entry_fav_count: 294
   entry_content: |
     fenerliler 10 sayfa fener düşmanı diye bahsedecekler, beşiktaşlılara göre zaten tüm dünya beşiktaş düşmanı, arada gsliler de sövecek gs düşmanı diye. derbi bitene kadar kafa sikecek gerizekalı fanatikler. sonra adam gidecek barcelona chelsea gibi sayılı maçlardan birini yönetecek siz kendinizi sikerken. <br/><br/>dışarıdan bir kendinize baksanız keşke. çocuklar bile daha olgun duruyor. her takım bu adamı düşman bellemiş. derbiye kadar fb düşmanı bjk dostu, bjk düşmanı fb dostu diye sayfalarca tartışacaksınız. keşke ben de bu kadar boş bir hayat yaşayabilsem. <br/><br/>kendisine kolay gelsin. ne yaparsa yapsın eleştirileceği bir işi yapmak cidden sabır ister.<br/><br/>edit: ben bunu yazarken biri damlamış bile hemen. hiç şaşmaz. fenerliyim bu arada.
 - entry_name: |
     soyagac.im
   entry_id:  74413508
   entry_writer: delixtarter
-  entry_fav_count: 279
+  entry_fav_count: 291
   entry_content: |
     acilin 10 yillik yazilimciyim, durumu acikliyorum.<br/><br/>sistemi kontrol ettim, hic bir sekilde bir sunucuya veri gondermiyor. olay tamamen tarayicinizin ekraninda gerceklesiyor javascript ile. yani sen istesen bile, bilgilerini siteyi yapanlara gondermen mumkun degil kisaca.<br/><br/>ben sana inanmiyorum, nasil gorecegim yollamadigini mi diyorsun? o zaman sunu yapacaksin. o siteyi acacak, f12 tusuyla consolu acip oradan network kismina gececek, o kisma gectikten sonra oraya herhangi bir pdf yada resim dosyasi atacak, sonra network kisminda yeni bir iletisim olup olmadigina bakacaksin.<br/><br/>ha ben bunlarla ugrasamam mi diyorsun? daha kolayi var.<br/><br/>siteyi ac. internetini kes (wifi kapat, etherneti cek, modemi parcala, driverlari sistemden sil. nasil dilersen.) internetin yokken pdf dosyasini siteye at. <br/><br/>sonra internete geri baglanmadan once siteyi kapat.<br/><br/>adamlar kaynak kodlarini bile oraya koymus erisebil ve kodu gorebil diye, iki uc tane sarlatan gelip burada "bolgoloromozo coloyor" diye agliyor. ucuz ucuz espri kasiyor. <br/><br/>niye mi sinirlendim? babamin oglu mu? degil.<br/><br/>ulan bundan 2 yil once eksi sozluk entry silme zamaninda bi program yayinlamistim kaynak kodlariyla birlikte, 3 tane gotveren "bobrek.avi" yazdi diye millet kullanmamisti, 10 gun ugrasmistim programi bitirmek icin. sizin gibi bi sikten anlamayip her boka, her ise laf atan ibnelerden nefret ediyorum.<br/><br/>ayrica niye yapmis o zaman boyle bisey? he? he niye ucretsiz he? diye aglayacaklar icin, siteye 5 saniye bakinca okul101 isimli bir projeleri oldugunu gordum, belli ki bunu populer hale getirip, ana projeye backlink falan saglayacaklar en olasi ihtimalle. <br/><br/>siteyi yapan ekibe selamlar, bi sik bilmedne elestirenlere de kafam girsin. kalitesiz yeni turkiye ogeleri sizi.
 - entry_name: |
     osmanlı ocakları başkanının aracını park şekli
   entry_id:  74410458
   entry_writer: zwiegesprach
-  entry_fav_count: 266
+  entry_fav_count: 271
   entry_content: |
     (bkz: <a class="b" href="/?q=ankara+s%c4%b1%c4%9f%c4%b1r%c4%b1">ankara sığırı</a>)
 - entry_name: |
     dokunulamayan bir ürünün 120 milyar $ etmesi
   entry_id:  74410742
   entry_writer: drone agabey
-  entry_fav_count: 231
+  entry_fav_count: 242
   entry_content: |
     120 milyar dolarada dokunamadığımız için bizim açımızdan fark eden bir şey yok.
 - entry_name: |
     fransız escort sitesindeki aşık olduğum kız
   entry_id:  74402157
   entry_writer: elbian
-  entry_fav_count: 225
+  entry_fav_count: 226
   entry_content: |
     gecelik 1500 euroymuş. kim kimi sikecek anlamadım.
 - entry_name: |
     fransızlar ben sızlamam
   entry_id:  74407507
   entry_writer: syzer
-  entry_fav_count: 213
+  entry_fav_count: 219
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg" title="http://galeri8.uludagsozluk.com/412/sikin_844766_m.jpg">http://galeri8.uludagsozluk.com/…sikin_844766_m.jpg</a>
-- entry_name: |
-    yurt dışında yaşamanın bir albenisi olmaması
-  entry_id:  74398871
-  entry_writer: daldakielmakurdu
-  entry_fav_count: 212
-  entry_content: |
-    yurtdışının neresi olduğuna bağlı değişir. ben endonezya'ya gittim. türkiye bana cennet geldi. ama amerika,avustralya,isviçre gibi ülkelere gidince bizimkisi yaşamak değil lan biz sadece hayatta kalıyoruz hayatı bunlar yaşıyor dedim.<br/>türkiyede çok para kazanırsınız ama bu hayat kalitesini artırmaz sadece daha fazla mal edinmenize yol açar. amerika örneğinden ilerleyelim. mesela eyalete göre değişir ama teksasta 200-300.000 dolara müstakil bahceli baya iyi bir ev alabilirsiniz götünüz düşer lan böyle ev olur mu demeyin. hatta bu rakam uzerinden sıkı pazarlıklarla 230.000-250.000 arasına bile çekilebilir fiyatlar.<br/>bir tanıdık 320.000 dolarlık evi 270.000e almıştı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.zillow.com/homes/for_sale/house,condo,apartment_duplex,mobile,townhouse_type/70316399_zpid/200000-300000_price/785-1178_mp/2100-5000_size/2000-2017_built/globalrelevanceex_sort/29.908966,-95.041866,29.709674,-95.349483_rect/11_zm/" title="https://www.zillow.com/homes/for_sale/house,condo,apartment_duplex,mobile,townhouse_type/70316399_zpid/200000-300000_price/785-1178_mp/2100-5000_size/2000-2017_built/globalrelevanceex_sort/29.908966,-95.041866,29.709674,-95.349483_rect/11_zm/">teksas malikane</a>. karı koca ayda toplam 5000dolar kazandığını düşün 4-5 yıllık maaşına alabiliyor. istanbulda sikko 70m2 dairelere 500-600.000tl istiyorlar. karı koca 6000tl kazansanız toplamda hesabını yap 10 seneden aşağı alamazsın. ya da araba alacağını düşün. adam porsche panemera 2012 modelini 30.000dolara aylık 300-500 dolar taksitle alıyor hemde kasmadan. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=470521496&amp;zip=08527&amp;referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D08527%26startYear%3D1981%26numRecords%3D100%26sortBy%3DderivedpriceASC%26incremental%3Dall%26firstRecord%3D0%26endYear%3D2019%26modelCodeList%3DPANAMERA%26makeCodeList%3DPOR%26searchRadius%3D100&amp;startYear=1981&amp;numRecords=100&amp;firstRecord=0&amp;endYear=2019&amp;modelCodeList=PANAMERA&amp;makeCodeList=POR&amp;searchRadius=100&amp;makeCode1=POR&amp;modelCode1=PANAMERA" title="https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=470521496&amp;zip=08527&amp;referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D08527%26startYear%3D1981%26numRecords%3D100%26sortBy%3DderivedpriceASC%26incremental%3Dall%26firstRecord%3D0%26endYear%3D2019%26modelCodeList%3DPANAMERA%26makeCodeList%3DPOR%26searchRadius%3D100&amp;startYear=1981&amp;numRecords=100&amp;firstRecord=0&amp;endYear=2019&amp;modelCodeList=PANAMERA&amp;makeCodeList=POR&amp;searchRadius=100&amp;makeCode1=POR&amp;modelCode1=PANAMERA">porsche</a> yani 3000 dolar kazanan adamın 10 aylık maaşı. sen 10 aylık maaşınla anca yıllık vergisini bok püsürü ödersin. sen türkiyede aynı aracı 300-400.000 tl ye alırsın . şimdi senin ömür boyu edinemeyeceğin şeyleri adamlar genel ihtiyaç olarak edinebiliyor. en kaliteli kıyafetleri senin waikiki seviyene satın alıyor. senin 50 lira verdiğin kıymayı 10 birim paraya alıyor. senin 5.500 birim paraya aldığın iphone x'i 1000 birime alıyor, sen 200 liraya 1 depo benzin alırken adam 25-40 birim paraya deposunu dolduruyor. senden çok kazanıp senden daha kaliteli yaşayıp senden daha ucuza sahip oluyor herşeye.<br/>daha albenisi ne olsun devlet her ay karı mı göndersin eve?
-- entry_name: |
-    cengiz ünder
-  entry_id:  74397561
-  entry_writer: mionel lessi
-  entry_fav_count: 165
-  entry_content: |
-    kendisi kadar övgüyü de roma sportif direktörü monchi haketmektedir. golden sonra belki görenler olmuştur, tribünde el sharawy ve totti seviniyordu, arkalarında gururla sevinen kel sakallı adamsa monchi idi. <br/><br/>düşünün, kendini liginizin seviyesinden çok daha düşük bir ligin orta sınıf bir takımında henüz 20 yaşında bir çocuk buluyorsunuz. bu çocuk 1 sene önce o düşük seviyeli ülkede bile 2.ligde oynuyor. muhtemelen çocuğu tanıyan dünya üzerinde 1 roma taraftarı bile yok. bu çocuğu 15 milyon euro gibi gayet yüksek bir paraya aldırıyorsunuz ve bu çocuk bugün bütün roma'nın sevgilisi oluyor.<br/><br/>bu transferi türkiye'ye şöyle uyarlayabilirim. fenerbahçe'nin sportif direktörü bulgaristan liginin litex takımından 20 yaşındaki bir futbolcuyu 7 milyon euro'ya transfer ettirmek istiyor. bak düşüncesi bile komik oldu. aldırmayız yani. bu fikri ortaya koyan adamı cümlesini bitirmeden kovarlar. düşünün cengiz transferindeki scouting başarısını.
 - entry_name: |
     mühürsüz oyların geçerli sayılması
   entry_id:  74398722
   entry_writer: varolan
-  entry_fav_count: 161
+  entry_fav_count: 179
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html" title="https://www.amerikaninsesi.com/a/akp-mhp-ittifaki-resmilesti-muhursuz-oylar-gecerli-sayilacak/4264641.html">https://www.amerikaninsesi.com/…ilacak/4264641.html</a><br/><br/>evet bundan sonra tüm seçimlerde mühürsüz oylar geçerli sayılacak.<br/>bu ne demek biliyor musunuz?<br/>bundan sonra tüm seçimler göstermelik yapılacak demek.<br/>iktidara çöreklenen güruh ölene kadar koltuklarından kalkmayacak demek.<br/><br/>türkiye cumhuriyeti bitti.
 - entry_name: |
-    iyi üniversitelerde okuyan terör yandaşları
-  entry_id:  74403658
-  entry_writer: ogenki
-  entry_fav_count: 136
+    cengiz ünder
+  entry_id:  74397561
+  entry_writer: mionel lessi
+  entry_fav_count: 167
   entry_content: |
-    o üniversiteleri nasıl kazandıklarını merak ettiğim insanlardır.<br/><br/>odtü, boğaziçi, istanbul, marmara gibi üniversitelerde rastlayabilirsiniz.<br/><br/>pkk yanlısı ve kısmen militan olan bu öğrenciler türkçe'yi zor konuşuyorken o kadar neti nasıl yaptılar diye merak etmiyor değil insan.<br/><br/>edit: saçma sapan şeyler yazan olmuş. mesele solcu sağcı vs değil. doğrudan terör yandaşı olanlar. çoğu da doğuda kolayca sınav geçenler. evet türkçe bilmeden kazanamayacağı bir sınavda odtü'yü kazanıyor. bu normal değil. mühendislik okuyor ama çarpmayı bilmiyor mesela. bu arada iyi bir puanla okudum üniversiteyi.<br/><br/>edit: doğuluyum ve içimde zerre ırkçılık yok. salak salak küfür etmenizi de takmıyorum. evet bariz bir şekilde terör yandaşı hatta teröristler var üniversitelerde.<br/><br/>edit: eğer şu yazdığımdan "kurt düşmanlığı, solcu düşmanlığı, kıskanç, puanı yetmemiş o yüzden başlık açmış" diye sonuçlar çıkaran varsa onlar inek sümüğü kadar değerlidir ancak. olum siz geri zekalımısınız? bu yazdığımın kurt düşmanlığı ile ne ilgisi var. şükür ki bir kaç yazar doğrudan şahit olduğu olayları yazmış da öküzlere örnek vermeye gerek kalmamış.
+    kendisi kadar övgüyü de roma sportif direktörü monchi haketmektedir. golden sonra belki görenler olmuştur, tribünde el sharawy ve totti seviniyordu, arkalarında gururla sevinen kel sakallı adamsa monchi idi. <br/><br/>düşünün, kendini liginizin seviyesinden çok daha düşük bir ligin orta sınıf bir takımında henüz 20 yaşında bir çocuk buluyorsunuz. bu çocuk 1 sene önce o düşük seviyeli ülkede bile 2.ligde oynuyor. muhtemelen çocuğu tanıyan dünya üzerinde 1 roma taraftarı bile yok. bu çocuğu 15 milyon euro gibi gayet yüksek bir paraya aldırıyorsunuz ve bu çocuk bugün bütün roma'nın sevgilisi oluyor.<br/><br/>bu transferi türkiye'ye şöyle uyarlayabilirim. fenerbahçe'nin sportif direktörü bulgaristan liginin litex takımından 20 yaşındaki bir futbolcuyu 7 milyon euro'ya transfer ettirmek istiyor. bak düşüncesi bile komik oldu. aldırmayız yani. bu fikri ortaya koyan adamı cümlesini bitirmeden kovarlar. düşünün cengiz transferindeki scouting başarısını.
 - entry_name: |
     gelini görünce gözyaşına boğulan damat
   entry_id:  74409557
   entry_writer: tatilsepeti
-  entry_fav_count: 134
+  entry_fav_count: 137
   entry_content: |
     ulan ne çektim bee!<br/>anamdan emdiğim süt burnumdan geldi<br/>gelinliğiydi, takısıydı, düğünüydü,ev döşemesi,<br/>evi, balayısı...iflahım kesildi...of be sonunda ...<br/>diyordur.<br/>onun için ağlıyordur.
 - entry_name: |
@@ -118,7 +104,7 @@ data:
     ormanda seviştikten sonra teyemmüm alan girlfriend
   entry_id:  74407995
   entry_writer: barton smiley
-  entry_fav_count: 99
+  entry_fav_count: 103
   entry_content: |
     zorlansa güzel bakınızlar doğuracak <a class="b" href="/?q=serin+hikaye">serin hikaye</a>dir.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=la+ilahe+illallah+dedim+wait+a+second+%c3%a7ektim">la ilahe illallah dedim wait a second çektim</a>)<br/>(bkz: <a class="b" href="/?q=earth+or+water+bebe%c4%9fim">earth or water bebeğim</a>)<br/>(bkz: <a class="b" href="/?q=welcome+to+real+world">welcome to real world</a>)<sup class="ab"><a title="(bkz: morpheus sanki pezevenk)" href="/?q=morpheus+sanki+pezevenk" data-query="morpheus sanki pezevenk">*</a></sup><br/>(bkz: <a class="b" href="/?q=hijab+dedi+laiklik+dedim">hijab dedi laiklik dedim</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
@@ -129,31 +115,24 @@ data:
   entry_content: |
     artik yok diyebilmek icin zeytin dali operasyonuna bile siginilan, kabak gibi ortada olan kriz.<br/><br/>bu kadar kuculmeyin ulan.
 - entry_name: |
-    fenerbahçe
-  entry_id:  74409077
-  entry_writer: trollerde aglar
-  entry_fav_count: 97
-  entry_content: |
-    korner kullanmaya 2 kişi gitmesinin sebebi hasan ali ve ismail köybaşı'yı ceza sahası içerisinden uzak tutabilmek olduğunu düşünüyorum.
-- entry_name: |
     düğünde topal oyunu ile kendinden geçen teyze
   entry_id:  74414521
   entry_writer: koca nickli zenci
-  entry_fav_count: 77
+  entry_fav_count: 85
   entry_content: |
     eğlenmesini bilen teyze'dir. eğlenmeyi bilen insandan zarar gelmez.eleştirmeye gerek yok.
 - entry_name: |
     taksicilerin uber şöforüne saldırması
   entry_id:  74411900
   entry_writer: arcticfur ve elem
-  entry_fav_count: 71
+  entry_fav_count: 76
   entry_content: |
     90 usd yaklaşık 340 lira ediyor, ufak bir arama ile istanbul'da 4 lira ile açılış yapıldığını ve kilometre başına 2.5 lira yazdıklarını öğrendim. bu da demek oluyor ki taksici 136 kilometrelik bir yol için nijeryalı kızlardan ücret talep etmiş. bir harita açıp deneye deneye silivri'den gebze'ye bir yol çizdim, 133 kilometre ettiğini gördüm.<br/><br/>bu kızların istanbul içinde havalimanından nereye gitmek istediklerini ve taksiciden "ücreti 90 dolar olur" sözünü işittiklerini çok merak ediyorum.
 - entry_name: |
     youtube'daki uygunsuz çocuk görüntüleri
   entry_id:  74411539
   entry_writer: turiq
-  entry_fav_count: 66
+  entry_fav_count: 67
   entry_content: |
     video'ların bitanesine baktım. izlenme sayısı da 1 milyonu aşkın. <br/><br/>ya bizde bi anormallik var ya da dünya gitgide boka sarıyor..<br/><br/>edit: sanırım başlıktaki yorumların çoğu haklı. birincisi bu videolardan tahrik olanlar bildiğiniz sapkın, ruh hastası insanlardır. yani küçücük çocuktan tahrik olanların bence psikolog yardımı alması lazım. ikincisi ne amaçla bu video’lar çekip konuyor? evet hiçbir sakıncası olmayan bir video ancak bahsettiğim o değil. neden insanlar tüm özel hayatlarını ifşa etmeye başladılar? ve buna çocuklar da dahil olmaya başladılar. yediğimiz, içtiğimiz, evimiz sınırları içinde yaptığımız her şeyi insanlarla paylaşmaya başladık. <br/><br/>yok ben eminim. dünya kesinlikle boka sarıyor..
 - entry_name: |
@@ -163,13 +142,6 @@ data:
   entry_fav_count: 66
   entry_content: |
     ''bu yaşa kadar bu adam neredeydi, nasıl da keşfedilemedi diye düşündüğüm akıllı ve iyi niyetli olduğunu düşündüğüm siyasetçi.'' demiş bir kişi hakkında.<br/><br/>hakikaten pes lan. bu yaşa kadar bu adamın nerelerde olduğunu, neler yaptığını, kim olduğunu bilmeyen cehaletine mi sinirleneyim, iyi niyetli olduğunu düşünen aptallığına mı öfkeleneyim bilemedim.<br/><br/>sivas katliamı baş sorumlusu eski sivas belediye başkanı, şimdinin saadet partisi genel başkanı.
-- entry_name: |
-    youtube'daki çocuk oyunculu absürt video
-  entry_id:  74398120
-  entry_writer: alii ad inferos
-  entry_fav_count: 65
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/aFXJE90ZRe8" title="https://youtu.be/aFXJE90ZRe8">1</a> adresinden izlenebilecek tuhaf video. yetişkin olan bir bireyi bile yer yer tedirgin edebilen bu video youtube’da çok masum görülebilecek pepe gibi videoların ardından önerilen video olarak gelmekte ve milyonlarca kez izlenmişliği var. <br/>02:55’ten sonra ağlayan bir bebekle özdeşleştirilen balonun iğneyle patlatılması, 02:20’den itibaren palyaçonun bir anda arkada belirerek çocuğun saçına dokunuşu...<br/><br/>ben şahsen çocuğumun bu masum görünen videoyu izlemesinden rahatsızlık duydum. <br/>videoyu izlerseniz siz de anlayacaksınız. <br/><br/>aynı kişiler tarafından çekilen bir diğer video <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/2-CYOQvuYgM" title="https://youtu.be/2-CYOQvuYgM">2</a><br/>04:50’den itibaren çocuğun o gerçekçi bağırışları, plastik de olsa bebeğin kolunun koptuğunu söylemesi falan çok gerçekçi.<br/><br/>aile iyi niyetli olabilir ama erişkin bir insanı dahi rahatsız edebilen videolar çocukta nasıl bir etki bırakır düşünmek gerek. milyonlarca kullanıcıya hitap eden sosyal medyada bu içeriğe pedofillerin de ulaşabildiği düşünülünce durum çok daha korkutucu bir hal alıyor. ve biz elimiz kolumuz bağlı öylece oturuyoruz. yazık.<br/><br/>edit: linkler düzeltildi.<br/><br/>edit: ekşisözlüğün yoğun ilgisi ile karşılaşması ile şaşırdığım videodur. ama tabi saatlerdir fransız escort sitesinde aşık olunan kız entrysinin önüne geçememesiyle bir hayalkırıklığıdır da aynı zamanda.<br/><br/>lütfen elinizden geldiğince yukarıda tutun ki gündem oluşsun. bana ne demeyin. aptal ebeveynler izletmesin çocuğuna demekle vicdanınızı temizleyemezsiniz. sen gündem oluşturmazsan o videoları o çocuklar izlemeye devam edecek ve bu içeriği normal olarak algılayacaklar. lütfen bimer, cimer, ihbarweb fark etmeksizin bir şekilde temas kurup kaldırtalım şu rezil içeriği.<br/><br/>ayrıca (bkz: <a class="b" href="/?q=elsagate">elsagate</a>)<br/>ve <br/>iki ay önce hürriyet gazetesi yazarı <a class="b" href="/?q=emre+k%c4%b1z%c4%b1lkaya">emre kızılkaya</a> tarafından kaleme alınmış bir <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/emre-kizilkaya/youtubedaki-tehlikenin-farkinda-misiniz-40676234" title="http://www.hurriyet.com.tr/yazarlar/emre-kizilkaya/youtubedaki-tehlikenin-farkinda-misiniz-40676234">yazı</a>. ibretlik.
 - entry_name: |
     ıslıkla pkk marşı çalan kişinin gözaltına alınması
   entry_id:  74398027
@@ -185,40 +157,54 @@ data:
   entry_content: |
     kimi bilgisayarda kaymak gibi çalışırken bazılarında disk hatası olan ama her ne hikmetse argümanı "ssd al, yoksa ağlama" olan kişiler tarafından hatası savunulan işletim sistemi. ilk olarak kimse hatalı olarak piyasaya sürülmüş bir işletim sistemi yüzünden kapasite düşürmek ya da binlerce lira harcamak zorunda değil. ssd iyi bir teknoloji ama hdd de halihazırda kullanılan ve ciddi bir sektörü olan bir teknoloji. hayır, sanki millet "disket okumuyor" diye ağlıyor. hard disk kararsız çalışıyor, kafa sürekli hareket ediyor. 1 haftada 1 yılda yapacağı kadar salınım yapan kafa kısa süre sonra atıyor. microsoft forumları bunun "sorun" olduğunu kabul eden uzmanlarla dolu. <br/><br/>bilgisayar kullanmadığınız bir iş yapıyor olabilirsiniz ama ben gün boyu bilgisayar karşısındayım. devlet kurumunda "ya bu hdd %100 disk hatası veriyor" dersem ağzıma yüzüme hdd ile vururlar. geriye sizin alıp takmanız kalır ama bu işin 2 mantıksız tarafı var. birinci demirbaşı değiştirmiş olursunuz. ikincisi benim gibi bilgisayar laboratuvarı olan bir kurumda çalışıyorsanız hangisini siz karşılayacaksınız? öyle ya da böyle bu işletim sistemi problemlidir kardeşim. internette zibille bu hatayı çözdüğünü söyleyen adam var ama hepsi geçici çözümler.
 - entry_name: |
-    chp ip sp dsp dyp gp dp tkp ldp btp kp ap ittifakı
-  entry_id:  74411637
-  entry_writer: muslumhiphopcalga
-  entry_fav_count: 44
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  74401374
+  entry_writer: ulookawesome
+  entry_fav_count: 56
   entry_content: |
-    hemen yeni khk ile en fazla 2 parti ittifak kurabilir maddesi gelmelidir.
+    türbanın 1980 yılında icat edilmiş olması. ufkumu gerçekten iki katına çıkardı. <br/><br/>iran islam devriminden sonra humeyni yasalarınca uygulamaya koyulan bir gelenekmiş günümüzde kullanılan türban şekli.<br/><br/>ondan öncesinde baş örtüsü saçın baya bir kısmı görünecek şekilde başa örtülürmüş. eski istanbul resimlerinde ya da anne-ninelerimizin resimlerinde gördüğümüz şekilde. <br/><br/>hatta ve hatta siyasal islamcıların ağa babası necmettin erbakan’ın düğününde dahi günümüz şeklinde kullanılan türbanlı kimse yok. düğün fotoğraflarında gördüm. şimdi twitter’dan tekrar bulup buraya koymak zor geldi. ilgi olursa paylaşırım. <br/><br/>yani günümüzde çoğu kişinin sıkmabaş gezmesinin sebebi, yazdığı kitapta “kundaktaki bebekten cinsel olarak faydalanabilirsiniz” diyen sapık humeyni’ymiş. (isteyene humeyni’nin bebeklere karşı cinsel anlamlar taşıyan sözler söylediğini de kanıtlayabilirim. hem de kendi yazdığı kitaptan)<br/><br/>işte böyle bir sapığın sapkın düşünceleri benim annemi bile etkileyebilmiş ya ona deliriyorum. <br/><br/>din böyle bir şey işte. bebeklere cinsel ilgi duyan bir yavşağın sözü, annenizi sizin sözünüzden daha çok etkileyebiliyor. ben anneme anlatsam türban takmaması gerektiğini, inandıramam.
+- entry_name: |
+    hileli gıda üreten firmaların artık açıklanmaması
+  entry_id:  74403937
+  entry_writer: nadnan
+  entry_fav_count: 53
+  entry_content: |
+    yazar kanat atkaya'nın 22.02.2018 tarihli köşe yazısına konu olmuştur. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673" title="http://www.hurriyet.com.tr/yazarlar/kanat-atkaya/canim-sahtekarim-sana-bir-sey-olmasin-40749673">canım sahtekarım sana birşey olmasın</a><br/><br/>yazının tamamı:<br/><br/>yaklaşan süt krizine dikkat çekmek için elinde peynir paketleriyle basın toplantısı düzenleyen chp niğde milletvekili ömer fethi gürer, “içinde süt yok bu peynirlerin” dedi.<br/><br/>“sütsüz peynir”de süt yoksa ne var?<br/><br/>bolca margarin ve “katı madde karışımı” var.<br/><br/>peki “katı madde karışımı”nda ne var?<br/><br/>sütü para etmediği için kesilen hayvanın kemiğinin tozu var, nişasta var, “iade” peynir var.<br/><br/>“tanışalım mı? adım pollyanna? süt ürünlerini kemik gelişimi için kullanıyorum zaten, kemik tozu faydalı olabilir” diyen çıkar mı bilmem...<br/><br/>“fıstık tozu” diye ağaç kabuğu; pul biber veya zencefil diye boyanmış talaş yediriyorlar...<br/><br/>organik tavuk boku<br/>kıyma niyetine hayvanın toynağını bile yediriyorlar; “o kıymanın içinde yok yok” diyeceğim ama et yok mesela bazı durumlarda...<br/><br/>“plastik pirinç tuzağına dikkat” diye haber okuduk çok şükür; pilav niyetine yediğimiz şeye bak!<br/><br/>organik yumurta diye sanayi üretimi yumurtayı tavuk bokuna bulayıp satıyorlar; “serbest gezen sersem” olarak afiyetle lüpletiyoruz...<br/><br/>ekonomi müdürümüz sefer levent geçen ay hepimizi “dışarıda ve hatta evde yemek yemekten” soğutan o şahane yazılarda neler anlatıyordu hatırlıyor musunuz?<br/><br/>yoğurda peçete ile “kaymak tabakası” yapan var...<br/><br/>karpuz kabuğunu ince kıyım yapıp hıyar diye cacığa katıp kakalayan var...<br/><br/>üzümsüz pekmeze gel<br/>dönerin içine hayvanın iç organları, bağırsak, hayvan tırnağı, tavuk kırıntıları katan var... at mıdır eşek midir o kısmına girmiyorum bile...<br/><br/>bu arada hazmı kolay olsun veya yiyen “kâbus görmesin” diye değil, rengi tutturmak için lohusa şerbeti de basıyorlar. oh be, şifa niyetine!<br/><br/>üzüm görmemiş pekmez var...<br/><br/>“nasıl olur?” demeyin. musluk suyuna basın glikoz şurubunu ve boyayı, bal gibi olur.<br/><br/>“bal gibi olur” derken, bal da öyle üretilebiliyor gerçekten de...<br/><br/>hal böyleyken...<br/><br/>ne yediğimiz belli değilken...<br/><br/>arkadaşımız hacer boyacıoğlu geçen hafta ankara’dan bildirdi: “hileli gıda üretenler artık açıklanmıyor...”<br/><br/>hatırlar mısınız?<br/><br/>bakanlık bir ara “taklit, tağşiş (karıştırılmış) ve bozuk” ürünleri kamuoyuna duyuruyordu.<br/><br/>açıkçası ben hâlâ duyurduklarını varsayıyordum...<br/><br/>meğer son liste aralık 2016’da yayınlanmış...<br/><br/>arkadaşımız sormuş: “niye yayınlanmıyor artık listeler?”<br/><br/>cevap gelmiş bakanlık yetkililerinden: “listeler açıklanınca üreticiler mağduriyet yaşayabiliyor...”<br/><br/>vah canım, onlar mağdur olmasın.<br/><br/>biz yiyelim, onlara yarasın.<br/><br/>canlarım benim, sahtekârlarım benim...<br/><br/>size canımız feda...
 - entry_name: |
     donald trump'ın öğretmenleri silahlandırması
   entry_id:  74413857
   entry_writer: veniceviolins
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     "silahla okul basan öğrenci, öğretmeni tarafından vuruldu. öğretmeni vuran veli ise okul müdürü tarafından kurşuna dizildi." <br/><br/>"amerikan hükümeti silah satışlarından elde edilen vergilerin kutsal olduğunu açıkladı."<br/><br/>(bkz: <a class="b" href="/?q=gelecekten+haber+veren+entry">gelecekten haber veren entry</a>)
 - entry_name: |
     türklerin mars'a göndereceği ilk nesne
   entry_id:  74411665
   entry_writer: huzursuz
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     15 temmuz sehitler maddesi
-- entry_name: |
-    chp'li yöneticinin çocuk istismarı
-  entry_id:  74408001
-  entry_writer: utopian
-  entry_fav_count: 28
-  entry_content: |
-    adam anında ihraç edilmiş, işlem başlatılmış. olay bizzat diğer partililer tarafından ortaya çıkartılmış, kimse korumamış. malum parti ve malum vakıflarda olanın aksine..
 - entry_name: |
     survivor 2018 all-star
   entry_id:  74402433
   entry_writer: stratejisizsiniz
-  entry_fav_count: 23
+  entry_fav_count: 28
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6zgecan">özgecan</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6zgecan+aslan">özgecan aslan</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6zgecan+aslan+cinayeti">özgecan aslan cinayeti</a>)<br/>(bkz: <a class="b" href="/?q=11+%c5%9fubat+2015+%c3%b6zgecan+aslan+cinayeti">11 şubat 2015 özgecan aslan cinayeti</a>)
+- entry_name: |
+    zeytin dalı harekatı
+  entry_id:  74416198
+  entry_writer: kartallar yuksek ucar
+  entry_fav_count: 22
+  entry_content: |
+    * harekatta ilerleme devam ediyor. 5 köy ve bazı noktalar teröristlerden temizlendi.<br/>* tsk: zeytin dalı harekatı'nın başlangıcından bu yana 1,829 terörist etkisiz hale getirildi.<br/>* tsk, afrin'de pkk/ypg'den alınan tüm köylerde sivillere sağlık desteğinde bulunmaya başladı.<br/>* zeytin dalı harekatı'na yüzlerce özel harekat mensubu sevkedildi.<br/>* bordo bereli mehmetçikler, pentagon'un özel iletişim cihazları ve uydu bağlantı sistemleri kurduğu afrin'de teröristlerin mevzilendiği meydanki'ye sızdı. tespit edilen hedefler bombalandı. <br/><br/>* pkk/ypg - esad anlaşmasıyla ilgili konular. bunların bir çoğu iddia düzeyinde, kesin olarak bakmayın!:<br/>- başbakan yardımcısı bekir bozdağ, "afrin için rejim ile terör örgütü pkk/ypg'nin pazarlık yaptığı ama anlaşamadığı" duyumunu paylaştı. <br/>- pkk/ypg'yi korumak için afrin'e gelmek isteyenlere fırsat vermeyeceklerini söyleyen dışişleri bakanı çavuşoğlu, "suriye'de toprak bütünlüğü konusunda kimsenin endişesi olmasın" dedi.<br/>- mehmetçiğe afrin şehir merkezine girmek isteyen esad yanlısı milisler için "vur" emri verildi.<br/>- pkk/pyd eski eş başkanı salih müslim: "diktatör ve baskıcı suriye rejimiyle siyasi anlamda bir anlaşma söz konusu değil, mevcut anlaşma sadece askeri alanda".<br/>- pkk/ypg sözcüsü: anlaşmaya iran aracılık etti.<br/>- terör örgütü pkk/ypg, halep'te bulunan tüm teröristlerini afrin'e çekti, buraları esad'a teslim etti.<br/>- esad güçleri, terör örgütü pkk/ypg'nin halep'te boşalttığı mahallelere girdi.buralarda istihbarat ile işbirliğiyle geniş çaplı bir tutuklama yapıldı.<br/>- pkk/ypg'nin tel rifat'ın kontrolünü suriye ordusuna devretmeyi kabul ettiği ve buradan çekildiği ileri sürüldü.<br/>- rusya askeri polisleri afrin sınırındaki kontrol noktasında görüldü.<br/>- suriye doğusundan (muhtemelen halep) gelip afrin'e giriş yapmaya çalışan pkk/ypg konvoyu topçu atışları ile vuruldu.<br/><br/>* başbakan yıldırım, mit müsteşarı hakan fidan'ı çankaya köşkü'nde kabul etti.<br/>* wsj'ye konuşan beyaz saray kaynakları, trump yönetiminin, türkiye'yle ilişkileri onarmak ve ankara'yı moskova-tahran'la kurduğu ittifaktan koparmak için yeni bir çalışma başlattığını söyledi. ankara'ya, iran ile müttefiklerinin suriye'den çıkarılması konusunda yardım teklif edilmesi planlanıyor.<br/><br/>* yunanistan'da dostluk eşitlik barış partisi başkanı aliçavuş, "en iyi türk ölü türk" sözlerini söyleyen eski yunanistan dışişleri bakanı hakkında suç duyurusunda bulundu.<br/><br/>* deyri zor'da suriye ordusu ile pkk/sdg arasında çatışma olduğu söyleniyor. <br/>* abd’ye ait helikopterlerin suriye’nin haseke kentindeki cezaevinden ışid militanlarını kaçırdıkları bildirildi.<br/><br/>* 5. nesil rus savaş uçağı su-57’den 2 adet dün “test” için suriye’ye sevkedildi.<br/>* kremlin sözcüsü dmitriy peskov, şam kırsalındaki doğu guta'da yaşanan gelişmelerden teröristleri destekleyen ülkelerin sorumlu olduğunu söyledi.<br/><br/>* ankara'da sosyal medyada terör propagandası yaptıkları ve zeytin dalı harekatı aleyhinde paylaşımlarda bulundukları gerekçesiyle gözaltı kararı verilen 18 şüpheliden 11'i yakalandı.<br/>* anka iha yerli motoruyla ilk uçuşunu gerçekleştirdi. pd155 motoruyla farklı irtifa ve hızlarda gerçekleştirilen uçuş testleri başarıyla tamamlandı.<br/>* türkiye ile ukrayna arasında askeri ve teknik işbirliği konusundaki görüşmelerin 2016 yılında abd tarafından engellendiği ileri sürüldü. ukraynalı bir kaynak, abd'nin türkiye'nin 'kontrolsüz güçlenmesinden' çekindiğini belirtti.<br/><br/>* ab komisyonu'nun genişlemeden sorumlu üyesi johannes hahn, gelecek yıllarda ikili ilişkilerde türkiye'nin ab'ye üyeliğine değil, "stratejik ortaklığa" yoğunlaşılması gerektiğini söyledi.<br/>* almanya'nın rusya'yı dizginlemek için nato tatbikatlarına 12 bin askerle katılacağı ve moskova'ya 'net mesaj' göndereceği belirtildi.<br/>* trump yönetiminin iran'a gizli şekilde doğrudan görüşme önerdiği, ancak tahran yönetiminin trump'a hiç güvenmediği için teklifi reddettiği ileri sürüldü.
+- entry_name: |
+    mezuniyet + iş bulma + evlilik + çocuk
+  entry_id:  74398847
+  entry_writer: gozunu acan maymun
+  entry_fav_count: 21
+  entry_content: |
+    ilk iki level iyi kötü bir şekilde geçiliyor da üçüncü level çok büyük bir stres kaynağı. en azından benim için öyle. modern görücü usullerini falan görünce ciddi ciddi bulantılar geliyor bana. mecazi değil gerçek, psikosomatik bulantılar. bu şekilde mutlu olan çok fazla kişi olabilir. onlara herhangi bir laf etmiyorum. bu tamamen şahsi bir konu. bir şekilde bu stil, kötü bir hayatın ön koşulu olarak kodlanmış kafamda. hangi konuda öleyim daha iyi dersiniz diye bir soru soran olsa cevap olarak bunu verirdim. <br/><br/>kuzenim daha yeni modern görücü usulü yoluyla nişanlandı. yani söz hakkın var ama hızlı olacaksın. normalde hız da sıkıntı olmaz benim için, ben zaten birinden ya en başta hoşlanırım ya da hiç hoşlanmam. ama işin içinde başkasının hadi hadi itelemesi olunca sinir oluyorum. "bir ay konuştular işte, hadi ne uzatıyorsunuz. laf çıkar." demeler, boş düğün salonuna göre düğün tarihi belirlemeler falan derken iki aydır yeminle içim bayıldı. yalnız bunların bana şöyle bir faydası oldu: bu sırayla giden proje bir hayatı yaşayabilecek bir insan olmadığıma karar verdim. çünkü bu hayat planının kendisi beni hiçbir şekilde heyecanlandırmıyor. özenmiyorum yani, özensem özendiğim şeyi ne yapar eder yaparım. isteklerime ket vuracak kadar iradeli biri değilim. bu işlerin bu kadar da proje olduğunu daha yeni yeni anlayabiliyorum. mesela beni eş olarak hedefleyen kitle belli: özel sektör okumuşları. atanmış birkaç arkadaşım var onları hedefleyenler de ya denk ya üst düzey devlet memurları. ben bunu bizzat yaşıyorum ya. bizzat böyle bir şeyin içindeyim. anlaşmak yok, beğenmek yok, konuşmak-iletişim kurmak yok. ne var? işler falan var sadece işte. memur memurla tayin yapar, iyi olur. memur kadın özelde çalışanları istemez, o yüzden kalan özeldekiler özeldekilere kalıyor falan. hemşire bir arkadaşım var, doktorların ve meslektaşlarının çoğunun antidepresan kullandığından, hayatlarında rutinleri dışında bir sıkıntı olmamasına rağmen eve gitmek istemediklerinden falan bahsediyor sürekli. sorun da tamamen bu zaten. bence hayatlarında, belli zorunlu rollerden başka hiçbir şey yok. herhangi gerçek bir paylaşım veya sevgi yok. yaptıkları her şeyi bir görev gibi yapmış bu insanlar. zamanı gelmiş diye evlenmiş, zamanı gelmiş diye çocuğunu yapmış falan filan. şansa bala bazıları aynı kafada çıkıyor da anlaşıyorlar. peki ya ortak paydada buluşamayanlar ne olacak? ben anlamıyorum, bu insanların duyguları yok mu veya varsa da nereye saklıyorlar? ya da ne hissettiklerini anlayacak kadar kafaları basmıyor mu? hiç mi aşık olmadılar mesela? rahat etmek rahat yaşamak için götlerini kaldırıp çalışmak yerine neden sürekli bir hesap içerisindeler? birkaç aydır oturdum ciddi ciddi bunu düşünüyorum. <br/><br/>annesi babası "okudun da ne oldu? hadi artık evlen." diye baskı yapan "öylesine evlenmek istemiyorum. birini sevmeden, onunla iyi anlaşmadan evlenmek istemiyorum. ya hemen evlenir de anlaşamazsam ve paylaşacak hiçbir şey bulamazsam?" diye dert yanan çok fazla arkadaşım var benim. hani şu sözlükteki otuzluk teyze klanından. kimseyi beğenmemekten, herkesi reddetmekten falan değil. sadece normal insani paylaşım aradıkları için bu durumdalar. karşı cinsten hayat garantisi değil de daha farklı incelikler bekledikleri ve sırf bu yüzden sürekli hayal kırıklığı yaşadıkları için. ve onlar da bu şekilde düşünüyorlar. proje hayattaki rolleri oynayacak kadar düşük farkındalıklı değiliz demek istiyorlar aslında. ama toplum, böyle düşünen insanları dışlıyor. her kanaldan ''sen eksiksin.'' mesajı veriyor sürekli. halbuki eksik olan bunların tamamını seçerek değil de bir görev gibi yapanlar. bu kadar insanın bu şekilde proje yaşadığını düşündükçe aklımı kaybedecek gibi oluyorum. benim kafam hiçbir şekilde bunu almıyor gerçekten.<br/><br/>bazıları da diyor ki ''40'tan sonra yalnızlık çok zor, evlen diyen teyzelerin lafına gelirsiniz.'' en kötü yalnızlık bile istemediğin tiyatroyu oynamaktan ve kendini bunu istediğine inandırmaktan daha onurludur. velhasıl üçüncü level'de kendini iyi dinlemek, baskı veya anlık hezeyanlar sebebiyle ''evleniyorum'' kezbanlığı yapmamak ve şöyle bir durup düşünmek lazım: tamam evleniyorum ama görev bilinciyle mi yoksa cidden biriyle bir hayatı paylaşmak için mi? zira bazı hataların dönüşü çok zor ve de sancılı olabilir.
 - entry_name: |
     ekşi itiraf
   entry_id:  74398624
@@ -227,33 +213,19 @@ data:
   entry_content: |
     neredeyse bebek denebilecek bir yaşta babamı kaybetmem ve ne dayımın ne de dedemin o boşluğu kapatması/kapatabilmesi nedeniyle hep kadınların arasında büyüdüm desem yeridir.<br/><br/>lise 2 ve sonrasında hep yabancı dil bölümü okuduğum için sınıfımın % 95’i falan hep kızlardan oluşuyordu.<br/><br/>iş yerlerimde de biri hariç hep kadın patronlarım, kadın iş arkadaşlarım oldu. şimdi de 15 kadına 2 erkeğiz, ki diğer erkek arkadaş... neyse.<br/><br/>abi cidden yeter. bu kadar östrojen yemin ediyorum kimyamı bozdu artık. yakında “erkek istiyom erkeeeekk!” diye sokaklarda ağlaya ağlaya koşarken falan tutuklanacağım diye korkuyorum.
 - entry_name: |
-    mezuniyet + iş bulma + evlilik + çocuk
-  entry_id:  74398847
-  entry_writer: gozunu acan maymun
-  entry_fav_count: 20
-  entry_content: |
-    ilk iki level iyi kötü bir şekilde geçiliyor da üçüncü level çok büyük bir stres kaynağı. en azından benim için öyle. modern görücü usullerini falan görünce ciddi ciddi bulantılar geliyor bana. mecazi değil gerçek, psikosomatik bulantılar. bu şekilde mutlu olan çok fazla kişi olabilir. onlara herhangi bir laf etmiyorum. bu tamamen şahsi bir konu. bir şekilde bu stil, kötü bir hayatın ön koşulu olarak kodlanmış kafamda. hangi konuda öleyim daha iyi dersiniz diye bir soru soran olsa cevap olarak bunu verirdim. <br/><br/>kuzenim daha yeni modern görücü usulü yoluyla nişanlandı. yani söz hakkın var ama hızlı olacaksın. normalde hız da sıkıntı olmaz benim için, ben zaten birinden ya en başta hoşlanırım ya da hiç hoşlanmam. ama işin içinde başkasının hadi hadi itelemesi olunca sinir oluyorum. "bir ay konuştular işte, hadi ne uzatıyorsunuz. laf çıkar." demeler, boş düğün salonuna göre düğün tarihi belirlemeler falan derken iki aydır yeminle içim bayıldı. yalnız bunların bana şöyle bir faydası oldu: bu sırayla giden proje bir hayatı yaşayabilecek bir insan olmadığıma karar verdim. çünkü bu hayat planının kendisi beni hiçbir şekilde heyecanlandırmıyor. özenmiyorum yani, özensem özendiğim şeyi ne yapar eder yaparım. isteklerime ket vuracak kadar iradeli biri değilim. bu işlerin bu kadar da proje olduğunu daha yeni yeni anlayabiliyorum. mesela beni eş olarak hedefleyen kitle belli: özel sektör okumuşları. atanmış birkaç arkadaşım var onları hedefleyenler de ya denk ya üst düzey devlet memurları. ben bunu bizzat yaşıyorum ya. bizzat böyle bir şeyin içindeyim. anlaşmak yok, beğenmek yok, konuşmak-iletişim kurmak yok. ne var? işler falan var sadece işte. memur memurla tayin yapar, iyi olur. memur kadın özelde çalışanları istemez, o yüzden kalan özeldekiler özeldekilere kalıyor falan. hemşire bir arkadaşım var, doktorların ve meslektaşlarının çoğunun antidepresan kullandığından, hayatlarında rutinleri dışında bir sıkıntı olmamasına rağmen eve gitmek istemediklerinden falan bahsediyor sürekli. sorun da tamamen bu zaten. bence hayatlarında, belli zorunlu rollerden başka hiçbir şey yok. herhangi gerçek bir paylaşım veya sevgi yok. yaptıkları her şeyi bir görev gibi yapmış bu insanlar. zamanı gelmiş diye evlenmiş, zamanı gelmiş diye çocuğunu yapmış falan filan. şansa bala bazıları aynı kafada çıkıyor da anlaşıyorlar. peki ya ortak paydada buluşamayanlar ne olacak? ben anlamıyorum, bu insanların duyguları yok mu veya varsa da nereye saklıyorlar? ya da ne hissettiklerini anlayacak kadar kafaları basmıyor mu? hiç mi aşık olmadılar mesela? rahat etmek rahat yaşamak için götlerini kaldırıp çalışmak yerine neden sürekli bir hesap içerisindeler? birkaç aydır oturdum ciddi ciddi bunu düşünüyorum. <br/><br/>annesi babası "okudun da ne oldu? hadi artık evlen." diye baskı yapan "öylesine evlenmek istemiyorum. birini sevmeden, onunla iyi anlaşmadan evlenmek istemiyorum. ya hemen evlenir de anlaşamazsam ve paylaşacak hiçbir şey bulamazsam?" diye dert yanan çok fazla arkadaşım var benim. hani şu sözlükteki otuzluk teyze klanından. kimseyi beğenmemekten, herkesi reddetmekten falan değil. sadece normal insani paylaşım aradıkları için bu durumdalar. karşı cinsten hayat garantisi değil de daha farklı incelikler bekledikleri ve sırf bu yüzden sürekli hayal kırıklığı yaşadıkları için. ve onlar da bu şekilde düşünüyorlar. proje hayattaki rolleri oynayacak kadar düşük farkındalıklı değiliz demek istiyorlar aslında. ama toplum, böyle düşünen insanları dışlıyor. her kanaldan ''sen eksiksin.'' mesajı veriyor sürekli. halbuki eksik olan bunların tamamını seçerek değil de bir görev gibi yapanlar. bu kadar insanın bu şekilde proje yaşadığını düşündükçe aklımı kaybedecek gibi oluyorum. benim kafam hiçbir şekilde bunu almıyor gerçekten.<br/><br/>bazıları da diyor ki ''40'tan sonra yalnızlık çok zor, evlen diyen teyzelerin lafına gelirsiniz.'' en kötü yalnızlık bile istemediğin tiyatroyu oynamaktan ve kendini bunu istediğine inandırmaktan daha onurludur. velhasıl üçüncü level'de kendini iyi dinlemek, baskı veya anlık hezeyanlar sebebiyle ''evleniyorum'' kezbanlığı yapmamak ve şöyle bir durup düşünmek lazım: tamam evleniyorum ama görev bilinciyle mi yoksa cidden biriyle bir hayatı paylaşmak için mi? zira bazı hataların dönüşü çok zor ve de sancılı olabilir.
-- entry_name: |
-    hileli gıda üreten firmaların artık açıklanmaması
-  entry_id:  74403501
-  entry_writer: dort ogeyi anlatir yedi gokten soz eder
-  entry_fav_count: 17
-  entry_content: |
-    hileli gıda ureten firmaların, hala uretime devam edebilmesi kadar garip olmayan uygulamadır, bu ıste uyarı ceza olmaz, hileli gıda mı yaptın kardeşim sen o gıdayı yıyenlerı dusunmemıssın , seni ve aileni biz mi dusunelim, işini paranı kaybet aklın başına gelsin.
-- entry_name: |
-    zeytin dalı harekatı
-  entry_id:  74399310
-  entry_writer: tanriparcacigi
-  entry_fav_count: 16
-  entry_content: |
-    daha öncede benzer şeyler yazıldı ama tekrar etmekte fayda var çünkü bazı terörist seviciler hala <a class="b" href="/?q=dezenformasyon">dezenformasyon</a> yapıyor. <br/><br/>#bugün harekatta kuzey cepleri birleştirilerek iki ana hat oluşturuldu. harekat başında 7-8 tane olan bu cep sayısı şuan 3 olmuştur. bu küçük cepler stratejik olarak önemli noktalardır ve hiç ayak bakmadığınız toprağa girerken, ufak ve stratejik noktalar alarak alan hakimiyeti ve görüş sağlarsınız. daha sonrada bu noktalardan kontrollü bir şekilde ilerleme sağlayarak alanları birleştirirsiniz. <br/><br/>#esad gelmeyince yine ağlayan terörist sevicileri 1 aydır 3-4 km ancak gidebildiniz, 3 günde afrin'e gireriz dediniz diye ağlamaya başlamış. operasyon öncesi <a class="b" href="/?q=kanton">kanton</a> olan afrin, şuan küçük bir kasaba oldu, pkk'lılar için. küçük kasaba direniyor diye haberler yapılıyor. <br/>bin kere söyledik bu bir <a class="b" href="/?q=i%c5%9fgal">işgal</a> operasyonu değil, bu terörist organizasyonlara karşı yapılan <a class="b" href="/?q=bul">bul</a> ve <a class="b" href="/?q=yok+et">yok et</a> operasyonudur. burada alınan toprak miktarı değil öldürürlen terörist ve imha edilen hedef sayısıdır. 1ay süre içerisinde varolan teröristlerin %15 imha edilmiştir. haritada yeşilllerin çoğalmasından çok imha olan hedef ve teröristler önemlidir. bununla ilgili şu örneği vermek gerekiyor, ırak ordusu ani ve hızlı bir saldırı yaparak <a class="b" href="/?q=musul">musul</a> ve çevresini kısa sürede elle geçirdi, ancak gelen bilgilere göre musul kırsalında ışid unsurları mevcut. bu alanın alınmasına karşın %100 güvenliğe alınmadığını gösteriyor. ek olarak <a class="b" href="/?q=rakka">rakka</a> örneği de var, rakka'nın %85'i yok edildi ve bir şekilde alındı, ancak bölgede arama ve tarama faaliyetleri uygun şekilde yapılmadığı için hala <a class="b" href="/?q=eyp">eyp</a> patlamaları görüyoruz.<br/>tsk aldığı bölgelerde arama,tarama ve terörist tespiti yaparak kitabına uygun şekilde devam ediyor. <br/><br/>#iran destekli şii milislerin afrin'e gitmesi tamamen show amaçlı, devede kulak kalacak miktarda şii teröristin geçtiğini söyleyebiliriz. burada <a class="b" href="/?q=iran">iran</a> bende varım diyor. <br/><br/>#racu, cinderes, şeyh hadid ve şeyh muhammedli bölgelerinde direnç kalmadığını, <a class="b" href="/?q=meskun">meskun</a> <a class="b" href="/?q=mahal">mahal</a> çatışmalarının başlayacağı söyleniyor. <a class="b" href="/?q=pkk">pkk</a> 'nın burada fazla dayanamayacağı söyleniyor.<br/><br/>#rusya ankara'nın şam ile afrin konusunda görüşmesi gerektiği vurguladı, bugün iktidardan görüşmedik ama görüşebiliriz gibi bir söylem geldi. aynı zamanda iktidar uydusu basında esad ile görüşelebileceği tarzı yorum ve haberler yapılıyor. ankara ve şam ilerleyen zamanlarda direk olmasada da kontak kurmaya başlayacaktır. <br/><br/>#rusya'nın <a class="b" href="/?q=bmgk">bmgk</a> 'yi toplantıya çağırması günün en ilginç olayı, <a class="b" href="/?q=do%c4%9fu">doğu</a> <a class="b" href="/?q=ghuta">ghuta</a> hakkında operasyonun durdurulması istediler. etkisini artıran iran'a karşı yapılmış bir hamle gibi duruyor, çünkü şii'lerin yaptığı mezhepçilik <a class="b" href="/?q=%c4%b1%c5%9fid">ışid</a> 'ten farklı değil. bu şekilde <a class="b" href="/?q=rusya">rusya</a> kendini temize çekmeye çalışıyor. ciddi anlamda doğu ghuta'da soykırım yapıldığını söylemek gerekiyor.
-- entry_name: |
     bedelli askerlik
   entry_id:  74403910
   entry_writer: hadi hayirlisi olsun
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     vatanını en çok seven bedelli askerlik yapandır.<br/><br/>not : askerdeyim, gelmeyin.
+- entry_name: |
+    sinema ve dizi tarihinin en troll karakteri
+  entry_id:  74418020
+  entry_writer: evanescence
+  entry_fav_count: 14
+  entry_content: |
+    yeşilçam'ın 70'li yıllardaki en troll karakteri <a class="b" href="/?q=g%c3%bclen+g%c3%b6zler">gülen gözler</a> filmindeki <a class="b" href="/?q=vecihi">vecihi</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=1A10yt7saaY" title="https://www.youtube.com/watch?v=1A10yt7saaY">karakteridir</a>.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yaşar usta: ben sana kız vermem!<br/>vecihi: verirsiniz!<br/>(böyle bir süre inatlaştıktan sonra)<br/>yaşar usta: vermem yahu senin gibi deliye kız verilir mi?<br/>vecihi: aaaa aman yaşar bey, benim nerem deli?<br/>yaşar usta: sen değil misin boyuna evimin üstünde uçakla gırrr gırrr diye dolaşan arkadaş?<br/>yaşar usta: çok haklısınız efendim, ben de sizin yerinizde olsam vermem!<br/>yaşar usta: haaa peki öyleyse niye istiyorsun?<br/>vecihi: ne istiyorum efendim?<br/>yaşar usta: kızımı istemiyor musun?<br/>vecihi: aman efendim! siz verdikten sonra niye istemeyeyim? öpeyim..<br/>yaşar usta: bırahhhhhh!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     patates soyar gibi nasır temizleyen adam
   entry_id:  74402292
@@ -262,26 +234,40 @@ data:
   entry_content: |
     adam heykeltıraş aslında, videonun sonunda kafayı falan da şekle sokuyor. <br/>köpeğe de iyi öğle yemeği çıktı bu arada. kurumuş, nasırlaşmış insan derisi. bizim iskendere tekabül eder köpek dünyasında.
 - entry_name: |
-    thy'nin dönüş bileti kurnazlığı
-  entry_id:  74397527
-  entry_writer: muzmin evli
-  entry_fav_count: 9
-  entry_content: |
-    kötü bir durum ama çözümü olan bir durum ( bu olay için değil, belki başkalarına faydası olur diye yazıyorum) diyelim ki istanbul'dan izmire uçacaksınız fakat bileti aldığınız tarihten öncesine gitmeniz gerekti izmir'e dönüşü de uçakla yapmanız gerekiyor, thy yi aramazsanız dönüş biletiniz yanar maalesef fakat arayıp durumu izah edip biletleri ayırmak istiyorum derseniz birbirinden bağımsız biletleriniz olur. yani dönüş biletiniz yanmaz artık. <br/><br/>yazarın başına gelen olay içinse çözüm önerim yok malesef, geçmiş olsun.
-- entry_name: |
     22 şubat 2018 hollanda'nın soykırımı kabul etmesi
   entry_id:  74417353
   entry_writer: slhmlr
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     ermeni soykırımı'nın ankara tarafından tanınması türkiye'yi yok etmez. 1914'te ermeni sayısı 1.2 milyon, rum sayısı 1.7 milyon; bugün ermeni sayısı 40 bin bile değil. neden koptu gitti bu adamlar? çünkü devlet terörüne maruz kaldılar, mülkleri gasp edildi, sürüldüler, öldürüldüler. bugün anadolu birkaç milyon rum ve ermeni'ye sahip olsaydı hem ekonomik hem sosyal olarak batı avrupa standartlarında olurduk; maalesef şu anda yozgatistan'a döndük zira silme türk-sünni bir toplum yaratıldı "modern" cumhuriyet tarafından.<br/><br/>"ermeni diasporası" diye lanetle anılan grup anadolu'ludur, bu topraklardan çıkmadırlar. ermenistan'ı falan ermeni halkının temsilcisi olarak sallamazlar. soykırımı kabul et, içtenlikle özür dile, diasporayı ülkesine geri çağır. bu topraklardan çıkan tüm büyük ileri sıçramaların arkasında halkların ortak işbirliği yatar, kofti ulus devlet anadolu'ya kan ve terörden başka ne getirdi?
 - entry_name: |
     delik çevresini nasıl beyazlatırız semineri
-  entry_id:  74416757
-  entry_writer: hasanikisalakosmandort
+  entry_id:  74416479
+  entry_writer: jaheira
+  entry_fav_count: 11
+  entry_content: |
+    gayet aydınlatıcı ve önemli bir çalışma. ne zamandır estetiğin mantığı sorgulanır oldu arkadaş? cevap bekliyorsanız: daha güzel gözükmek için. nerede? yatakta. <br/><br/>cinsel organı, anüsü ya da koltuk altı kapkara olan bir kadın erkeklere çekiyor geliyor da ben mi bilmiyorum yani? erkekler bembeyaz tenli kadınları daha çok arzulamıyor mu? pornolarda cinsel organları ve anüsleri açık pembe renginde olan, koltuk altları bembeyaz olan kadınlar ezici bir çoğunlukla tercih edilmiyor mu? kadınlar da kendilerini yatakta daha iyi hissetmek, daha özgüvenli sevişmek için bunu yaptırıyor ya da yaptırmak istiyor olabilirler. yalnızca kendileri için değil, aynı zamanda partnerleri için de bunu yaptırıyorlar hatta. hepinizin hayallerini süsleyen o kadının üstte, yüzünü erkeğe ters dönerek oturduğu pozisyon o kısımların beyazlatılmasından sonra rahatça icra edilebilir yani, konuşturmayın şimdi beni. <br/><br/>üstteki kısım olayın estetik kısmıydı. şimdi olayın asıl nedenine gelelim: cildin siyahlaşması bir tek döt deliğinde görülen bir şey değil arkadaşlar. kadınlar jilet, ağda, epilatör, lazer epilasyon vb. yöntemlerle tüylerini sürekli, çıktıkça alıyorlar. bu işlemler sonrasında da bazen ne yazık ciltte kararmalar meydana geliyor. bunların da başlıca nedenleri: cilt üzerinde toplanan ölü hücreler, epilasyondan dolayı oluşan sürtünme, hormon değişiklikleri ya da terlemeye bağlı oluşan bakteriler. bunun sonucunda ciltte pürüzler oluşuyor, deri önce kırmızıya, sonra da kahverengiye dönüyor. daha ileri seviyesi için: (bkz: <a class="b" href="/?q=eritrazma">eritrazma</a>)<br/><br/>bu cilt kararmasının limonla, patatesle, karbonatla vs. doğal yollarla tedavisi var. ee tabii, ortada böyle bir estetik kaygı olunca kozmetik şirketleri de kendi piyasasını oluşturuyor. bu insanlar da kanlı canlı bir örnekle ürünlerini tanıtıyorlar. olay bu yani. her gün anal videoları izleyen adam gelmiş burada "ööğğğkk internet çok iğrüünççç, yasaklanmalüü" diyor. kendinize karşı dürüst olun bari.
+- entry_name: |
+    iyi üniversitelerde okuyan terör yandaşları
+  entry_id:  74410545
+  entry_writer: kirik sandalye
+  entry_fav_count: 9
+  entry_content: |
+    güneydoğu'da 1990'larda yapılan hemen hemen tüm sınavlarda kopya çekilmiştir. sılho'nun girdiği sınav iyi araştırılsın.
+- entry_name: |
+    ev kirasının evin değerine oranlanması
+  entry_id:  74415120
+  entry_writer: mindtrap
   entry_fav_count: 8
   entry_content: |
-    gözlerin <a class="b" href="/?q=tamer+g%c3%bcltekin">tamer gültekin</a> beyi aradığı seminer. <br/><br/>(bkz: <a class="b" href="/?q=merhabalar">merhabalar</a>)
+    amerika'da 1'e 150 gibi bir rakamda su an bu deger, insanlar emlak balonu diye feryat ediyorlar. mortgage ise %4 gibi bir degerde 100 bin dolar krediyi aylik 480$ taksitle almak mumkun.<br/><br/>turkiye'de ise iyicene ucmussunuz siz, yakindir birileri indirir (loading... )
+- entry_name: |
+    netflix ve youtube için gelen rtük denetimi
+  entry_id:  74403000
+  entry_writer: lew ashby
+  entry_fav_count: 7
+  entry_content: |
+    goren de youtubeda netflixte hayvan pornosu falan gosteriyorlar sanacak amk 2 tane opusme sahnesi yuzunden panik atak geciriyor adamlar. <a class="b" href="/?q=siyasal+islam">siyasal islam</a> cehennemdir.
 - entry_name: |
     murat bardakçı'nın nurettin yıldız'ı desteklemesi
   entry_id:  74411489
@@ -290,26 +276,40 @@ data:
   entry_content: |
     kardeşim herif haklı. din bu. inan ya da siktir git kendine göre yorma diyor. ne var bunda?
 - entry_name: |
-    ev kirasının evin değerine oranlanması
-  entry_id:  74415120
-  entry_writer: mindtrap
-  entry_fav_count: 7
-  entry_content: |
-    amerika'da 1'e 150 gibi bir rakamda su an bu deger, insanlar emlak balonu diye feryat ediyorlar. mortgage ise %4 gibi bir degerde 100 bin dolar krediyi aylik 480$ taksitle almak mumkun.<br/><br/>turkiye'de ise iyicene ucmussunuz siz, yakindir birileri indirir (loading... )
-- entry_name: |
     business class ve economy class arasındaki fark
   entry_id:  74405805
   entry_writer: coldeavinibekleyenkutupayisi
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     business class'da bileti sirket aliyordur, economy class'da kendin aliyorsundur.<br/><br/>cok zenginler istisnadir. ibnelik yapip kaideyi bozmasinlar.
 - entry_name: |
     25 şubat 2018 beşiktaş fenerbahçe maçı
   entry_id:  74414949
   entry_writer: pasa eren
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     hakemi baskı altına alıp kendilerine kıyak geçmesi için beşiktaşlıların twitter'da fener'in umudu cüneyt diye gündem oluşturmaya başladığı maç. beşiktaşlılar o kadar korkaksınız o kadar ağlaksınız ki böyle algılar peşindesiniz. bu cüneyt kadar bize zarar vermiş hakem yoktur belki de. siz de biliyorsunuz da amacınız böyle algı oluşturup maçta size kıyak geçmesini sağlamak. ulan bu adam daha taptazedir sow'un röveşatasını vermedi. allah'ın ezikleri bu şekilde algıdan kazanç sağlamaya çalışacak kadar acizsiniz. maçta yenmeniz yenilmeniz ayrı konu ama bu bildiğin büyük piçlik aşırı kötü niyet. sinsi emzikçiler sizi. işte bu yüzden asla büyük olamayacaksınız ağlak tinerciler.
+- entry_name: |
+    22 şubat 2018 fenerbahçe doğuş olimpia milan maçı
+  entry_id:  74408882
+  entry_writer: der glaube
+  entry_fav_count: 3
+  entry_content: |
+    canlı olarak izleyeceğim kağıt üstünde favori gözüken taraf fenerbahçe olabilir; ama sahada zorlu bir mücadeleye sahne olacak maçtır. ilk maçı uzatmada kazandığımızı anımsatmak isterim.<br/><br/>maçla ilgili bilgilere gelelim:<br/><br/>fenerbahçe doğuş basketbol takımımız, 2017-2018 turkish airlines euroleague sezonu 23. hafta maçında italyan temsilcisi ax armani exchange olimpia milan takımını konuk ediyor. 22 şubat perşembe günü 20:45’te ülker spor ve etkinlik salonu’nda oynanacak mücadele beın sports3 ve beın sports haber kanallarından canlı yayınlanacak. karşılaşmayı; juan carlos garcia gonzalez (ispanya), milivoje jovcic (sırbistan) ve ıoannis foufis (yunanistan) hakem üçlüsü yönetecek.<br/><br/>fenerbahçe doğuş’ta son durum:<br/><br/>ekibimiz, euroleague’deki son maçında brose bamberg’i ülker spor ve etkinlik salonu’nda konuk etti. takımımız, mücadeleyi 77-69 kazanarak 15. galibiyetini aldı. fenerbahçe doğuş’ta jan vesely 26 sayı ve 11 ribaund ile yıldızlaştı.<br/><br/>obradovic’in öğrencileri, son resmi maçına ptt türkiye kupası’nda çıktı. fenerbahçe doğuş, çeyrek final mücadelesinde anadolu efes’e 80-83 yenildi. sarı lacivertlilerde jan vesely 18 sayı, 6 ribaund ve 3 asist ile oynarken; marko guduric ise 17 sayı, 7 asist ve 4 ribaund üretti.<br/><br/>ekibimizde sakatlık sorunu olan oyuncu bulunmuyor. melih mahmutoğlu ve ali muhammed ise milli takım kampında yer aldıkları için bu mücadelede forma giymeyecekler.<br/><br/>maç önü notları – fenerbahçe doğuş:<br/><br/>koç obradovic bu sezon 12 farklı ilk beş kullandı. hiçbir oyuncu tüm maçlara ilk beşte başlamadı.<br/><br/>kostas sloukas, euroleague’de kullandığı son 19 serbest atışta isabet buldu.<br/><br/>james nunnally, son 12 euroleague mücadelesinde de en az bir üç sayılık atış isabeti kaydetti.<br/><br/>marko guduric’in son yedi euroleague maçında da en az bir üç sayılık basketi var. guduric, bu süreçte üç sayılık atışlarda 11/19 (%57.8) isabet oranı yakaladı.<br/><br/>brad wanamaker, bu sezon maç başına 1.6 top çalma ortalamasıyla euroleague genelinde ikinci sırada.<br/><br/>james nunnally, %54.6’lık üç sayılık isabet oranıyla euroleague genelinde birinci.<br/><br/>luigi datome, faul çizgisinde %90.58’lik isabet yüzdesi yakaladı ve euroleague tarihinin en iyi beşinci oyuncusu.<br/><br/>brad wanamaker, euroleague kariyerinde 1.48 top çalma ortalaması yakaladı ve tüm aktif oyuncular arasında lider.<br/><br/>james nunnally, euroleague kariyerinde yakaladığı %49.21 üç sayı isabet oranıyla tüm aktif oyuncular arasında ilk sırada bulunuyor.<br/><br/>ax armani exchange olimpia milan hakkında:<br/><br/>milano temsilcisi, geçtiğimiz yıl euroleague organizasyonuna iyi bir giriş yapmıştı. ilk iki maçını maccabi ve darüşşafaka’ya karşı kazanan milan, ardından oynadığı üç maçı kaybetse de efes ve baskonia galibiyetleriyle birlikte ilk yedi haftayı dört galibiyetle geçmeyi bilmişti. sezonun devam eden bölümünde gelen 10 maçlık mağlubiyet serisi, milan’ın play-off umutlarına da ciddi darbe vurdu. rakibimiz, 2016-2017 euroleague sezonunu 8 galibiyet ve 22 yenilgiyle 16. ve son sırada tamamladı. italyan temsilcisi, geçtiğimiz yıl krunoslav simon, mantas kalnietis, rakim sanders ve zoran dragic gibi önemli isimlerinin sakatlık sorunlarından da fazlasıyla etkilendi. milan, italya kupası’nı dinamo sassari’yi yenerek kazansa da, normal sezonunu lider bitirdiği italya ligi play-offlarında yarı finalde dolomiti energia trento takımına elenmekten kurtulamadı.<br/><br/>müzesinde 27 italya ligi, 6 italya kupası, 1 italya süper kupası, 3 euroleague, 3 saporta kupası, 2 koraç kupası ve 1 kıtalararası kupa şampiyonlukları bulunan milan, günümüzde italya basketbolunu en üst seviyede temsil eden takım konumunda.<br/><br/>euroleague’de son şampiyonluğunu 1988 yılında elde eden milano, 1993 yılında da koraç kupası’nın sahibi oldu. tarihinde mike d’antoni, dino meneghin, riccardo pittis, aleksandar djordjevic, gregor fucka ve ferdinando gentile gibi önemli isimlerin yeri olan milano’nun yakın dönemde formasını giyen isimler arasında da özellikle danilo gallinari dikkat çekiyor.<br/><br/>ax armani exchange olimpia milan’da son durum:<br/><br/>antrenörlüğünü, bir dönem fenerbahçe’yi de çalıştıran simone pianigiani’nin yaptığı italyan temsilcisinin kadrosunda eski oyuncumuz andrew goudelock’ın yanı sıra jordan theodore, mindaugas kuzminskas, vladimir micov, amath m’baye, dairis bertans, arturas gudaitis, mantas kalnietis, andre cinciarini, curtis jerrells, kaleb tarczewski, davide pascolo, marco cusin, awudu abass ve patric young gibi isimler dikkat çekiyor.<br/><br/>milan, bu sezon euroleague’de oynadığı 22 maçta 7 galibiyet elde etti. son beş euroleague karşılaşmasında üç kez kazanan milan, bu süreçte aldığı unicaja malaga, baskonia ve barcelona galibiyetleriyle dikkat çekti. pianigiani’nin öğrencileri, son euroleague müsabakasında ise kızılyıldız’a deplasmanda 100-89 kaybetti. bu maçta kuzminskas 17, goudelock ise 15 sayı üretti.<br/><br/>olimpia milan, bu sezon italya ligi’nde çıktığı 19 maçta 14 kez kazandı ve ligin zirvesindeki avellino ve venezia takımlarıyla aynı galibiyet sayısına sahip. milan, son lig karşılaşmasında deplasmanda brindisi’yi 72-84 yendi. bu mücadelede vladimir micov 17, andrew goudelock ise 14 sayı buldu.<br/><br/>kırmızı beyazlılar, son resmi maçına italya kupası’nda çıktı. çeyrek finalde cantu ile karşılaşan milan, mücadeleyi 87-105 kaybederek organizasyona erken veda etti. milan da goudelock 23, theodore ise 16 sayı buldu.<br/><br/>maç önü notları – ax armani exchange olimpia milan:<br/><br/>milan’da patric young’ın diz sakatlığı bulunuyor. jordan theodore da ayak bileğindeki sakatlık nedeniyle bu maçta forma giyemeyecek.<br/><br/>rakibimizde davide pascolo ve awadu abass, italya milli takımı’nın 16 kişilik kadrosunda yer alıyor. iki oyuncu da bu karşılaşmada oynamayacak.<br/><br/>simone pianigiani, bu sezon ilk beşlerde 11 farklı oyuncu kullandı. sadece kaleb tarczewski her maça ilk beşte başladı.<br/><br/>vladimir micov, son 14 euroleague maçının 13’ünde en az bir üç sayı isabeti buldu.<br/><br/>arturas gudaitis’in euroleague’de %73.7’lik iki sayılık atış yüzdesi var ve bu alanda ilk sırada. tarczewski ise bu istatistik alanında %68.8 ile üçüncü sırada yer alıyor.<br/><br/>andrew goudelock, euroleague tarihinde bir maçta en çok 3 sayı isabeti bulan isim. goudelock, bu rekoru fenerbahçe formasıyla 2014 yılının kasım ayında oynanan bayern münih maçında kırmıştı.<br/><br/>goudelock, euroleague kariyerinde maç başına 2.3 adet 3 sayılık atış isabeti buluyor. birleşik amerikalı oyuncunun bu ortalaması euroleague tarihinde dördüncü sırada yer alırken, tüm aktif oyuncular içerisinde ise ilk sırada bulunuyor.<br/><br/>takım istatistikleri – hücum (fenerbahçe doğuş – milan):<br/><br/>sayı: 79.6 – 82.2<br/><br/>hücum ribaundu: 10.3 – 8.9<br/><br/>savunma ribaundu: 22.5 – 21.9<br/><br/>toplam ribaund: 32.8 – 30.8<br/><br/>asist: 18.8 – 16.6<br/><br/>top çalma: 6.3 – 5.1<br/><br/>blok: 3.1 – 2.5<br/><br/>2 sayı yüzdesi: 53.1 % - 53.1 %<br/><br/>3 sayı yüzdesi: 40.0 % - 37.8 %<br/><br/>sa yüzdesi: 77.4 % - 77.0 %<br/><br/>verimlilik: 92.6 – 88.0<br/><br/>takım istatistikleri – savunma (fenerbahçe doğuş – milan):<br/><br/>sayı: 74.7 – 87.0<br/><br/>hücum ribaundu: 10.9 – 10.0<br/><br/>savunma ribaundu: 20.5 – 24.2<br/><br/>toplam ribaund: 31.4 – 34.2<br/><br/>asist: 16.5 – 18.9<br/><br/>top çalma: 6.2 – 5.7<br/><br/>blok: 2.5 – 2.0<br/><br/>2 sayı yüzdesi: 51.3 % - 54.1 %<br/><br/>3 sayı yüzdesi: 35.0 % - 42.2 %<br/><br/>sa yüzdesi: 75.3 % - 79.1 %<br/><br/>verimlilik: 78.7 – 98.3<br/><br/>istatistik liderleri (fenerbahçe doğuş – milan):<br/><br/>sayı: vesely 13.8, wanamaker 12.8, nunnally 10.4 / goudelock 13.6, theodore 12.6, micov 10.7<br/><br/>ribaund: vesely 5.2, melli 5.1 / tarczewski 6.0, gudaitis 5.8<br/><br/>asist: sloukas 5.1, wanamaker 4.0 / theodore 4.7<br/><br/>top çalma: wanamaker 1.6 / theodore 1.0<br/><br/>blok: vesely 0.9, thompson 0.7, datome 0.6 / tarczewski 0.9, gudaitis 0.9<br/><br/>verimlilik: vesely 17.8, wanamaker 14.7, melli 11.1 / gudaitis 14.8, theodore 12.0, goudelock 11.6<br/><br/>geçmiş karşılaşmalar:<br/><br/>fenerbahçe doğuş, rakibiyle bugüne dek euroleague’de oynadığı 11 maçta sekiz galibiyet elde etti. ekibimiz, rakibini son yedi karşılaşmada da mağlup etmeyi başardı.<br/><br/>iki ekip, euroleague’in ikinci haftasında italya’da karşılaştı. fenerbahçe doğuş, rakibini deplasmanda bir uzatma bölümü sonunda 86-92 yendi. fenerbahçe doğuş’ta kostas sloukas 17 sayı ve 9 asist ile 27 verimlilik puanı üretti. nicolo melli ise karşılaşmayı 15 sayı ve 11 ribaund ile tamamladı. mücadelede luigi datome ve brad wanamaker ise 16’şar sayı buldu. ev sahibi takımda amath m’baye ve dairis bertans 16’şar, jordan theodore ve vladimir micov ise 15’er sayı üretti.<br/><br/>2017-18 – normal sezon – ax armani exchange milan 86-92 fenerbahçe doğuş<br/><br/>2016-17 – normal sezon – fenerbahçe 86–70 ea7 emporio armani milan<br/><br/>2016-17 – normal sezon - ea7 emporio armani milan 70 – 79 fenerbahçe <br/><br/>2014-15 - top 16 – fenerbahçe ülker 98 – 77 ea7 emporio armani milan<br/><br/>2014-15 - top 16 - ea7 emporio armani milan 71 – 82 fenerbahçe ülker<br/><br/>2014-15 – normal sezon - ea7 emporio armani milan 74 – 80 fenerbahçe ülker<br/><br/>2014-15 – normal sezon – fenerbahçe ülker 77 – 74 ea7 emporio armani milan<br/><br/>2013-14 - top 16 – fenerbahçe ülker 73 – 82 ea7 emporio armani milan<br/><br/>2013-14 - top 16 - ea7 emporio armani milan 90 – 85 fenerbahçe ülker<br/><br/>2011-12 - top 16 - ea7 emporio armani - 85 – 72 fenerbahçe ülker<br/><br/>2011-12 - top 16 – fenerbahçe ülker 65 – 63 ea7 emporio armani
+- entry_name: |
+    kendime not
+  entry_id:  74416837
+  entry_writer: murky
+  entry_fav_count: 2
+  entry_content: |
+    salak sulak adamları kafaya takmaktan vazgeç, manyak mısın nesin ya.
+- entry_name: |
+    iyi parti'nin %53.3 ile iktidar olması
+  entry_id:  74412714
+  entry_writer: azizjohn
+  entry_fav_count: 2
+  entry_content: |
+    ve hatta meral hanımın zıplayarak arşa yükselip dünyaya yaklaşmakta olan meteoru ışın kılıcıyla ikiye yarmak suretiyle dünyayı kurtarması...
 - entry_name: |
     ekşi sözlük iş ağı
   entry_id:  74399829
@@ -318,33 +318,26 @@ data:
   entry_content: |
     küçük bir işletme için site kurulumu ve seo işlemleri yaptırmak istiyor bir tanıdığım.<br/>bilgisayardan anlıyorum diye bana yapmamı söyledi fakat bu işler öyle olmuyormuş anladıgım kadarıyla...<br/>öncelikle google aramalarında üst sıralarda görünmesini sağlayacak arkadaşımız. <br/><br/>duruma göre sektörle alakalı sitelerde görünen reklamlardan yaptırcak.<br/><br/>haa site çok allengirli bişey olmayacak.<br/>20 tane resim, 1 hakkında yazısı, 1 telefon numarası (basılınca otomatik arama yapacak mobilde) koyulacak siteye.<br/>ücret vs gibi konular için mesaj kutuma bekliyorum.
 - entry_name: |
-    06 rgn 02
-  entry_id:  74398506
-  entry_writer: cobongo
-  entry_fav_count: 2
-  entry_content: |
-    bence her arabada ön/arka yol kamerası şart koşulmalı, kamerasız ve kayıt yapamayan araç muayeneden geçememeli ve yol kamerası görüntü kayıtları polise verildiğinde delil teşkil edip, araç sürücüsü belli olamayacağı için plaka sahibine adeta polise yakalanmışçasına ceza yollanmalı. <br/><br/>trafik terörünün önüne geçilmesinin en önemli yolu bu.<br/><br/>ben hükümet olsam böyle yapardım.<br/><br/>1- hem hayvan gibi ceza keser ve kazanç kapısı açmış olurum.<br/>2- hem mecburi tuttuğum kamera sektörüne can gelir, kendi yeğenlerime kamera şirketi kurar ve kazanmalarını sağlarım,<br/>3- hem memlekette biraz da olsa huzur veya delile dayalı güven baş gösterir.<br/>4- hem de dünya'da bir ilk girişime imza atmış olur, parmakla gösterilirim.<br/>5- hem de sırf bu anlar için değil, trafikle alakası olmayan ülkedeki bilumum farklı adli vakanın çözümünde milyonlarca kamera kaydına anında ulaşma şansı elde edip ülkedeki suç oranına ve suçluyu yakalama oranına çok büyük ölçüde müspet müdahelede bulunup tarihe geçerdim.<br/><br/>6- ha ülkenin 4 bir yanında 7/24 her şeyin milyonlarca kamera tarafından kaydedilmesi devlet'in işine gelmeyebilir. onu bilemem. beni aşar. ama hukuk devletiysek, barıştan, adaletten yanaysak. bu tarz bir hamle bütün bir ülke'nin yaşayış şeklini değiştirebilir.<br/><br/>şunu bimer'e mi cimer'e mi egm'ye mi kime yazmak gerekiyorsa yazabiliriz.
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  74406823
-  entry_writer: our hopes and expectations
+    mükemmel erkeği bulma yolları
+  entry_id:  74399888
+  entry_writer: kuartz
   entry_fav_count: 1
   entry_content: |
-    <a class="b" href="/?q=nightwish">nightwish</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Kmiw4FYTg2U" title="https://www.youtube.com/watch?v=Kmiw4FYTg2U">`while your lips are red`</a>
+    boynunuza o güzel öpücüğü konduracak adamı görürseniz hiç terddüt etmeden ona küpemi düşürdüm bulmamda bana yardım eder misiniz deyin. ederse senindir, etmezse bir başkasına sorun aynı soruyu...
 - entry_name: |
-    marmara ereğlisi yeni belediye binası
-  entry_id:  74408306
-  entry_writer: burdan post modern nicklere selam ederim
-  entry_fav_count: 1
+    jet sosyete (dizi)
+  entry_id:  74398341
+  entry_writer: gelismekteolanyazar
+  entry_fav_count: 0
   entry_content: |
-    öyle bir bina ki aynı anda her tarafında ayrı konseptli bir dönem dizisi çekilebiliyor. misal bi tarafında türk mimarisi içerikli yerli dizi, diğer tarafında antik yunan’da geçen bir savaş hikayesi, beriki tarafında amerika’da yaşanmış acıklı bir köle hikayesi, tepesinde de abd başkanının olaya müdahale ettiği kasırgalı bir felaket filmi... caesar’ı bu binadan çıkarken öldür senaryo gereği sırıtmaz, aynı şekilde wakanda’dan kenya’dan nairobi’den getirttiğin siyahilerin çıplak etini kırbaçlarken arkada bu bina görünsün yine sırıtmaz. çok amaçlı bir film platosu olmuş. tebrik ederim.
+    sosyal medya hesabından da bakıyorum diğer yerlerde de görüyorum. gürse birselin yanıldığı bir konu var şahsımca. rating oranlarını çok ciddiye alıyor, çok izlendiği için çok güzel ve çok beğenilen bir iş yaptığını düşünüyor. ancak ilk bölümünün bu kadar izlenmesinin sebebi büyük oranda yıllardır "hadi be bir ikinci avrupa yakası daha çıkar mı" ümidiyle bekleyen seyirciydi. ki o seyircinin beklediğini de alamadığını düşünüyorum. <br/>ha, bu oranları 3-4 hafta düşmeden götürürse amenna, ben yanılmışım diyeceğim, umarım demem ancak görünen köy kılavuz istemiyor ne yazık ki.
 - entry_name: |
-    eski sevgiliden olabilecekler
-  entry_id:  74410294
-  entry_writer: zinharyalan
-  entry_fav_count: 1
+    iphone x
+  entry_id:  74398551
+  entry_writer: hanz le
+  entry_fav_count: 0
   entry_content: |
-    başkasına koca
+    birkaç ayda bir çoluk çocukla beraber türkiyeye gelirim, her gelişimde en az bir tane bu ve muadili ürünlerden getiriyorum, uçak biletlerinin masrafının yarısı çıkıyor. vergi kaçırma bilmem ne diyen sığırlara da hiç takılmayın, ellerinde fırsat olsa daha ucuza alıp satmak için ruhlarını verirler, neymiş vergi kaçırıyormuşsun bilmem ne. dürüst olup yahu benim elime böyle kelepir telefon düşmüyor, siz bundan kar ediyorsunuz kuduruyorum diyemedikleri için dürüst vatandaş ayakları yapıyorlar.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74400852
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     herkese selamlar;<br/><br/>sohbet etmek isterseniz, ister 5 dakika, ister 5 saat, isterseniz 5 gün sohbet edebiliriz. söz veriyorum söylemek istemediğiniz hiç bir şeyi sormayacağım!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/fusafi">http://ribony.com/fusafi</a><br/><br/>güzel geceler.
+- entry_name: |
+    23 şubat 2018 galatasaray bursaspor maçı
+  entry_id:  74413344
+  entry_writer: high and dry and high
+  entry_fav_count: 0
+  entry_content: |
+    galatasaray'dan guzel bir dogum gunu hediyesi bekledigim mac.
 ---
