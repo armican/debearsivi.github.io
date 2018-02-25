@@ -5,10 +5,12 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
+  <article itemscope itemtype="http://schema.org/Article" class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
+        <span itemprop="name">
         {{ post.title }}
+        </span>
       </a>
     </h1>
 
