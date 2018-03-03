@@ -6,44 +6,51 @@ data:
     baharat ketçap ve kahve şehvet uyandırır
   entry_id:  74666406
   entry_writer: le fougueux
-  entry_fav_count: 349
+  entry_fav_count: 355
   entry_content: |
     sınırsız bir cinsel açlıkla karşı karşıyayız. mini eteği tartıştığımız günlerden ketçaba geldik, sıra hızla demir bakır krom mangeznuma doğru ilerliyor. evrendeki bütün atom ve enerji bu dindoşlardan uzaklaştırırmalı. hiçbirşey güvende değil.
 - entry_name: |
     okullarda cinsellik dersinin şart olması
   entry_id:  74666894
   entry_writer: scoobydoowhereareyou
-  entry_fav_count: 245
+  entry_fav_count: 256
   entry_content: |
     ilk olarak kız çocuklarına regl sürecini anlatacakları zaman erkekleri sınıftan çıkarmamakla başlasalar, o bile yeter.
+- entry_name: |
+    kadınlarkulübü.com'da tecavüze uğrayan üye
+  entry_id:  74658405
+  entry_writer: burclarainanmam
+  entry_fav_count: 237
+  entry_content: |
+    başlığı nasıl açayım gerçekten bilemedim. ne yazsam sığmadı.<br/><br/>az önce gördüm. bir üye konu açıp amcasının oğlu tarafından tecavüze uğradığını, uyuşturucuya alıştırıldığını ve artık yaşamak istemediğini yazmış. <br/><br/>40 sayfayı geçik yorum var, hepsini tek tek okuyamadım. yalnız 19.sayfada site yöneticisi olayın tekirdağ/çorlu'da gerçekleştiğini, mağdur ile iletişimde olduğunu, şu an polisleri yönlendirdiğini ve kendi telefon numarasını yayınlamış. bir kaç üye de seslerini duyurabilmek için ekşi sözlükte başlık açılmasını talep etmiş.<br/><br/>çok üzgünüm, yazılanları okuyunca kanım dondu. umarım içinde bulunduğu durumdan bir an önce kurtulur..<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.kadinlarkulubu.com/forum/threads/allah-rizasi-icin-biri-benimle-konussun-cok-kotuyum.1061148/" title="https://www.kadinlarkulubu.com/forum/threads/allah-rizasi-icin-biri-benimle-konussun-cok-kotuyum.1061148/">https://www.kadinlarkulubu.com/…ok-kotuyum.1061148/</a><br/><br/>edit2: site yöneticisi numarasını silmiş. üyelik nicki @kazen yorum olarak bildiği kadarıyla son gelişmeleri yazıyor.<br/><br/>edit3: site yöneticisinin son mesajı "polis benle görüştükten sonra o şerefsiz uyanmış polisin geldiğini ve eve girmiş. <br/>kızı darp etmeye başlamış. kızın çığlıklarına apartman ayağa kalkmış. <br/>adam içeriden kapıyı kilitleyip maalesef kızı darp etmeye devam etmiş. <br/>çilingir beklenmiş, çilingir gelmiş kapı az önce açılmış. 112 de olay yerindeymiş kızı 112 almış şerefsizi de 155 almış....<br/>polis arkadaşlar ve savcı bey konu ile çok ilgilenmiş" <br/>@fsoceity arkadaşıma teşekkürler.<br/><br/>edit4: "çorluda olan varsa devlet hastanesinden kız hakkında bilgi alabilir. kızın telefonunu çok üzgünüm ama paylaşamam.." site yöneticisinin son yorumu bu şekilde.<br/><br/>edit5: sitede yazan son yorumlara göre @_kubeyhatun_ isimli üye bu sabah bilgi almak için karakola gitmiş ve kızın şikayetçi olmadığını, adamın serbest bırakıldığını öğrenmiş.
 - entry_name: |
     bafetimbi gomis
   entry_id:  74671881
   entry_writer: hadi git
-  entry_fav_count: 183
+  entry_fav_count: 217
   entry_content: |
     bu akşam <a class="b" href="/?q=hattrick">hattrick</a> yapacaktır.
+- entry_name: |
+    2018 ekonomik krizi
+  entry_id:  74664066
+  entry_writer: nickineyleyim
+  entry_fav_count: 166
+  entry_content: |
+    bu gün itibarı ile ekonomik durumum<br/><br/>aldığım maaş 3,200 tl<br/><br/>kira: 800 tl<br/>elektirik 113 tl (kullanımım 50 tl gerisi vergi, 44 tl dağıtım bedeli ödemişim niye acaba)<br/>su: 75 tl (kullanımım 5, yazı ile beş metre küp, anlamayana rakam ile 5 m3)<br/>telefon: 84 tl ( özel operatörlerin allah belasını versin)<br/>mutfak: 350 tl ( daha uzuca dolap dolduruyorum diyenin amına koyarım net)<br/>mazot: 750 tl (işe gitmek için kullanıyorum sadece,gezmek mi ne haddimize)<br/>sigara: 300 tl<br/>internet: 80 tl<br/><br/>ödemem gereken diğer vergilerin aylık ortalama maliyeti 184 tl <br/><br/>toplamda 2736 tl giderim oluyor. bunlar sadece standart bir hayatı geçirebilmem için gerekli. geri kalan 464 tl ile ay sonunu getirmeye çalışacağım.<br/><br/>şimdi ak çomarlara sorum: ben ortalamanın üzerinde bir maaş alıp, ay sonunu nasıl getireceğimi düşünürken, be koyduğumun çocuğu sen asgari ücret alıp ekonominin nasıl iyi olduğunu iddia ediyorsun?<br/><br/>senin iyi algını sikeyim.<br/><br/>edit: ısınmayı unuttuk anasını satayım. osurarak ısınırız artık.
 - entry_name: |
     türkiye'de kadınların hala çıldırmaması
   entry_id:  74663677
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 157
+  entry_fav_count: 162
   entry_content: |
     başka ülkeden normal bir kadınla tanışırsınız türk kadınının çıldırmış olduğunu çok net anlarsınız.<br/>türk erkeği de çıldırmıştır.<br/><br/>ülke kafayı yemiş vaziyette ama kimse farkında değil.
 - entry_name: |
     spotify turkey top 50 apaçiliği
   entry_id:  74668612
   entry_writer: a book on c
-  entry_fav_count: 153
+  entry_fav_count: 155
   entry_content: |
     bugün "bakayım hele güzel ülkemde hangi şarkılar dinleniyor" dememle suratıma tokat gibi çarpan acı gerçek.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/6JvZ2k.png" title="https://i.hizliresim.com/6JvZ2k.png">bu ne rezilliktir</a> arkadaş? ne ara bu kadar apaçi arabeskçi şarkı top 50 listesine girebildi? hayır blues jazz falan beklemiyorum elbette ama yine de hafif batı müziği manvalindeki parçalar olabilirmiş.<br/><br/>şarkı isimleri dahi yetti. çoğuna 20 saniye ancak dayanabildim. yazık.
-- entry_name: |
-    2018 ekonomik krizi
-  entry_id:  74664066
-  entry_writer: nickineyleyim
-  entry_fav_count: 145
-  entry_content: |
-    bu gün itibarı ile ekonomik durumum<br/><br/>aldığım maaş 3,200 tl<br/><br/>kira: 800 tl<br/>elektirik 113 tl (kullanımım 50 tl gerisi vergi, 44 tl dağıtım bedeli ödemişim niye acaba)<br/>su: 75 tl (kullanımım 5, yazı ile beş metre küp, anlamayana rakam ile 5 m3)<br/>telefon: 84 tl ( özel operatörlerin allah belasını versin)<br/>mutfak: 350 tl ( daha uzuca dolap dolduruyorum diyenin amına koyarım net)<br/>mazot: 750 tl (işe gitmek için kullanıyorum sadece,gezmek mi ne haddimize)<br/>sigara: 300 tl<br/>internet: 80 tl<br/><br/>ödemem gereken diğer vergilerin aylık ortalama maliyeti 184 tl <br/><br/>toplamda 2736 tl giderim oluyor. bunlar sadece standart bir hayatı geçirebilmem için gerekli. geri kalan 464 tl ile ay sonunu getirmeye çalışacağım.<br/><br/>şimdi ak çomarlara sorum: ben ortalamanın üzerinde bir maaş alıp, ay sonunu nasıl getireceğimi düşünürken, be koyduğumun çocuğu sen asgari ücret alıp ekonominin nasıl iyi olduğunu iddia ediyorsun?<br/><br/>senin iyi algını sikeyim.<br/><br/>edit: ısınmayı unuttuk anasını satayım. osurarak ısınırız artık.
 - entry_name: |
     galatasaray ile fenerin beşiktaş nefreti
   entry_id:  74661366
@@ -55,28 +62,28 @@ data:
     öğretmen maaşını öğrenci belirleyecek
   entry_id:  74668057
   entry_writer: mantiksiz seyler
-  entry_fav_count: 124
+  entry_fav_count: 131
   entry_content: |
     mahkumlar da hakimlerin maaşını denetlesin.
 - entry_name: |
     2 bakanlık 20 m.vekili ve bir miktar para
   entry_id:  74671506
   entry_writer: akan ha bu dereler
-  entry_fav_count: 107
+  entry_fav_count: 111
   entry_content: |
     holosko nerede lan it şeklinde isyan ettiğim tekliftir.
 - entry_name: |
     türkiye'deki herkesin gergin ve mutsuz olması
   entry_id:  74666158
   entry_writer: panpatube
-  entry_fav_count: 104
+  entry_fav_count: 106
   entry_content: |
     tek sebebi olmasa da, 2018 yılı şubat ayı itibari ile <a class="b" href="/?q=yoksulluk+s%c4%b1n%c4%b1r%c4%b1">yoksulluk sınırı</a>nın 5.330,93 tl olmasının da büyük etken olduğunu düşündüğüm elim durum.
 - entry_name: |
     yılmaz vural'ın teknik direktörlüğü bırakması
   entry_id:  74664089
   entry_writer: thedewil
-  entry_fav_count: 96
+  entry_fav_count: 99
   entry_content: |
     bir devrin sonu.<br/><br/>(bkz: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/yilmaz-vural-teknik-direktorlugu-biraktigini-acikladi-206653.html" title="https://www.birgun.net/haber-detay/yilmaz-vural-teknik-direktorlugu-biraktigini-acikladi-206653.html">https://www.birgun.net/…tigini-acikladi-206653.html</a>)<br/><br/>30 sezonluk football manager save dosyasını yanlışlıkla silmiş gibi hüzünlerdeyim şu an. iyiydik be yılmaz abi.<br/><br/>edit: kendisi türk futbolunun bugün söyleyip yarın vazgeçen yanar döner isimlerinden değildir. liseliler bilmez ama <a class="b" href="/?q=fuat+%c3%a7apa">fuat çapa</a> ile beraber 1998 yılında aldığı uefa pro lisansıyla bu lisansa sahip olan ilk türk teknik direktörlerdendir. çalıştırdığı takımların bir kısmının küme düşmesinin sebebi, genellikle küme düşme potasından teklif almasıdır. biraz patavatsız olduğu doğrudur ama türk futbolunun temiz yüzlerindendir.
 - entry_name: |
@@ -87,24 +94,24 @@ data:
   entry_content: |
     2 aydır fava atıyorum ibneler, gol mol attığı yok amk<br/><br/><a class="b" href="/?q=edit+%3b">edit ;</a> keşke hep böyle göt olsam
 - entry_name: |
-    öso'nun raco'da suriye bayrağını çiğnemesi
-  entry_id:  74666941
-  entry_writer: kurk mantolu maradona
-  entry_fav_count: 94
-  entry_content: |
-    öso neden kurtuluş savaşı'ndaki kuvayi milliye değildir belli olmuştur umarım. neden kurtuluş savaşında ki atatürk askeri değillerdir belli olmuştur umarım . biz ne olursa olsun başka bir ülkenin bayrağını ezmemeyi düşmanımız olsa bile saygı göstermeyi öğrendik bu ülkenin tek liderinden. <br/><br/><a class="b" href="/?q=ahmet+g%c3%bcrel">ahmet gürel</a>, <a class="b" href="/?q=b%c3%bclent+t%c3%bcrker">bülent türker</a>‘in <a class="b" href="/?q=atat%c3%bcrk+ve+unutulmaz+an%c4%b1lar%c4%b1">atatürk ve unutulmaz anıları</a> kitabında şöyle bir anı yazar;<br/><br/>30 ağustos 1922 sabahı, gazi mustafa kemal paşa savaş sahasını geziyordu. etraf binlerce düşman cesedi birbiri üzerine yığılmış topçu havanı, top ve cephane ile doluydu. gazi şöyle söylendi:<br/><br/>“bu manzara insanlığı utandırabilir! fakat haklı vatan savunmamız için buna mecbur olduk. türkler başka milletlerin vatanında böyle bir harekete kalkışmazlar.”<br/><br/>harp artıkları arasında yırtılmış ve terkedilmiş bir de yunan bayrağını gören başkomutan, eliyle bayrağın yerden kaldırılmasını işaret ederek:<br/><br/>“bir milletin bağımsızlık işaretidir. düşman da olsa hürmet etmek gerekir. kaldırıp topun üzerine koyunuz”
-- entry_name: |
     kadınların bir erkekte baktığı ilk yer
   entry_id:  74658080
   entry_writer: icelimguzelleselimmi
-  entry_fav_count: 83
+  entry_fav_count: 85
   entry_content: |
     100 küsür entryde paradan bahsedilmiş . bahsedenler hep erkek. <br/>bırakın kadınlar yazsın oğlum. nasıl bi manyaksınız siz .
+- entry_name: |
+    3 mart 2018 türkiye'nin 40 suriye askerini vurması
+  entry_id:  74670752
+  entry_writer: santradauclusex
+  entry_fav_count: 85
+  entry_content: |
+    (bkz: <a class="b" href="/?q=han%c4%b1m+ko%c5%9f+kartlar+da%c4%9f%c4%b1t%c4%b1l%c4%b1yor">hanım koş kartlar dağıtılıyor</a>)
 - entry_name: |
     süperlig'de olması gereken 14 anadolu takımı
   entry_id:  74664652
   entry_writer: mystyc
-  entry_fav_count: 81
+  entry_fav_count: 82
   entry_content: |
     (bkz: <a class="b" href="/?q=otur+s%c4%b1f%c4%b1r">otur sıfır</a>)<br/><br/>göztepe karşıyaka nerde lan?
 - entry_name: |
@@ -114,6 +121,13 @@ data:
   entry_fav_count: 79
   entry_content: |
     balkona çıkıp "seeeeeeeeeeeks" diye bağırın. muhakkak sese geleceklerdir.
+- entry_name: |
+    imamlar meyhaneye de gitsin
+  entry_id:  74667471
+  entry_writer: nickicem ama
+  entry_fav_count: 68
+  entry_content: |
+    döverim.net<br/><br/>bence hiç bulaşmasınlar.
 - entry_name: |
     2017 2018 çalınan gasp edilen beşiktaş puanları
   entry_id:  74667267
@@ -125,65 +139,65 @@ data:
     zeytin dalı harekatı
   entry_id:  74664957
   entry_writer: tanriparcacigi
-  entry_fav_count: 63
+  entry_fav_count: 65
   entry_content: |
     "türk sınırına çok yakındı" <br/>"dağlar yeteri kadar yüksek değildi." <br/>"tüneller yeteri kadar derin ve uzun değildi." <br/>"abd ordusu burada değildi.." <br/>"tc'nin uçakları olmasaydı,hiçbirşey yapamazdı." <br/>"hava çok kötüydü " <br/>"sabah çok erken saatlerdeydi."<br/><br/>gündüz rüyası gören <a class="b" href="/?q=hewaller">hewaller</a> uyandı, bahanelerin biri bin para, 6 saatte <a class="b" href="/?q=rajo">rajo</a> 'mu düşermiş, 6 ay öz savunma kuvvetlerince savunma yapılacaktı, faşist tc durdulacaktı. bundan sonra harekât yavaş diyenin aklı yoktur, call of duty'de bile bölüm 6 saate bitmiyor beyler, ayrıntılar akşam geliyor. :)
-- entry_name: |
-    3 mart 2018 karabükspor galatasaray maçı
-  entry_id:  74673086
-  entry_writer: feldherrnhalle
-  entry_fav_count: 56
-  entry_content: |
-    gomis bir maçta negredo'nun sezon boyunca attığı golü attı aq
-- entry_name: |
-    imamlar meyhaneye de gitsin
-  entry_id:  74667471
-  entry_writer: nickicem ama
-  entry_fav_count: 49
-  entry_content: |
-    döverim.net<br/><br/>bence hiç bulaşmasınlar.
 - entry_name: |
     hadi lan oradan'ın ingilizcesi
   entry_id:  74671954
   entry_writer: kaynayankazan
-  entry_fav_count: 49
+  entry_fav_count: 62
   entry_content: |
     (bkz: <a class="b" href="/?q=get+outta+here">get outta here</a>)
+- entry_name: |
+    3 mart 2018 karabükspor galatasaray maçı
+  entry_id:  74673086
+  entry_writer: feldherrnhalle
+  entry_fav_count: 61
+  entry_content: |
+    gomis bir maçta negredo'nun sezon boyunca attığı golü attı aq
 - entry_name: |
     bebek maması çalıp 3 yıl 10 ay hapis cezası almak
   entry_id:  74664638
   entry_writer: boyun posun devrilsin
-  entry_fav_count: 47
+  entry_fav_count: 49
   entry_content: |
     haberlerin gerisini okumayan yazarları göstermiştir. adamın mesleği hırsızlık. daha önce de kesinleşmiş cezası var. o yüzden erteleme merteleme falan yok. a
 - entry_name: |
     ekşi itiraf
   entry_id:  74654465
   entry_writer: tanrim tipimden asalet akiyor
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     "biri ölür üzülmezsiniz. sonra sandalyeye asılı hırkasını görürsünüz, o hırkanın duruşu kalbinize oturur."<br/>şu cümleyi okuduğumdan beri hüzün bastı yine bugün beni. ne kadar doğru bir tespit.<br/>sevdiklerimin ölümünü görme fikri beni derinden korkutuyor. ağlayasım var.
-- entry_name: |
-    cengiz ünder
-  entry_id:  74669545
-  entry_writer: psikopatkoala
-  entry_fav_count: 37
-  entry_content: |
-    devam et böyle çocük!!! başarılar çocuk. çocuğum gibi sevdiğşm çocuk ama aramızda 2 yaş var çocuk!
-- entry_name: |
-    2 mart 2018 yunan askerlerinin tutuklanması
-  entry_id:  74661044
-  entry_writer: oguzbatur
-  entry_fav_count: 35
-  entry_content: |
-    şimdi bu askerler davar ekşicilerin yazdığı gibi gariban iki kişi değil, muvazzaf asker. yani teskere bekleyen adamlar değil meslekleri askerlik. ekşici davarlar haber okumayı bilmediği için orayı yine kaçırmışlar. <br/><br/>buraya kadar anlaşıldıysa başka yere çekelim olayı. bu askerler türk askeri olup yunan sınırını geçseysi ve tutuklansaydı buradaki yorumların aşağı yukarı %90'ı <br/><br/>"sen sınırı geçersen adam da tutuklar abii normal yami, hata bizde. beceriksiz adamları asker yaparsan olacağı budur. hata bizde. eeyy yunanistan deriz olur biter. hata bizde. hatanın bizde olduğunu söylemiş miydim? hata bizde" <br/><br/>şeklinde olacaktı. <br/><br/>iki muvazzaf asker sınırı geçerse bu askeri yasak bölgeye giriş ve casusluk kabul edilir, sınırı ihlal edilen ülkenin de bu askerleri tutuklama hakkı vardır. dünyanın her yerinde bu böyledir.
 - entry_name: |
     özgür suriye ordusu
   entry_id:  74672902
   entry_writer: liku it
-  entry_fav_count: 33
+  entry_fav_count: 44
   entry_content: |
     başlığına yine kansızların üşüştüğü ordudur. tsk'ya komuta ettiklerini iddia eden itin eski entrylerine bir göz atın derim. kuyruk acılarını öso'dan çıkarmaya çalışıyorlar.<br/><br/>afrin'in gerçek sahibi bu örgütün mensuplarıdır. içlerinde kürt, türk, arap bulunmaktadır. bölgeyi yakinen bilen birisi olarak söylüyorum, o bölgedeki kürt nüfusu şuankinin dörtte biriydi ancak. evinden yurdundan edilen insanlar, bugün karşılarına çıkınca ağlamaya başlayan terörist kancıklara kanmayın. <br/><br/>bugün bu başlığa yazmalarının tek bir nedeni var. o da, bölgede bekledikleri pkk direncinin görülmemesi, raco'nun bir günde temizlenmesi, barajın yarısının kontrol edilmesi, cinderes-afrin yolunun kontrol edilmesi... kısaca tsk ve öso, emdikleri sütü burunlarından getiriyor bu itlerin, havlamalarının sebebi budur.
+- entry_name: |
+    cengiz ünder
+  entry_id:  74669545
+  entry_writer: psikopatkoala
+  entry_fav_count: 43
+  entry_content: |
+    devam et böyle çocük!!! başarılar çocuk. çocuğum gibi sevdiğşm çocuk ama aramızda 2 yaş var çocuk!
+- entry_name: |
+    adı konulmamış ilişkilerin amip gibi çoğalması
+  entry_id:  74667309
+  entry_writer: would you like some company
+  entry_fav_count: 37
+  entry_content: |
+    sağmal bir erkek bulup kendini ona saplamak derdiyle ortada gezen kezbanlar çoğaldıkça adı konulmamış ilişkilerin artması kadar olağan bir durum olamaz. <br/><br/>piç adam efendi adam ayrımına girmeyeceğim ama bu canavarı siz yarattınız hanımlar. adam gibi adamları üzdünüz, korkuttunuz onları. o güzel adamlar o at gibi karılara binip gittiler. <br/><br/>biz şimdi neyiz sorusunu sormadan önce geçmişinize bir bakın derim.
+- entry_name: |
+    mangal + rakı + dağ havası + akarsu
+  entry_id:  74665244
+  entry_writer: kendikalem
+  entry_fav_count: 34
+  entry_content: |
+    (bkz: <a class="b" href="/?q=anlatmaya+gerek+yok+g%c3%b6r%c3%bcyorsunuz">anlatmaya gerek yok görüyorsunuz</a>)
 - entry_name: |
     kadir mısıroğlu
   entry_id:  74668893
@@ -192,47 +206,40 @@ data:
   entry_content: |
     yumurtaya can veren rabbim, dualarımızı kabul eyle, şu tipini sömürdüğümün gereksiz feslisini al şu dünyadan. huzur bulalım.
 - entry_name: |
-    bir kadının canını en çok yakan şey
-  entry_id:  74656965
-  entry_writer: hastasiyim
-  entry_fav_count: 21
+    sözlükçülerin en eften püften başarıları
+  entry_id:  74673651
+  entry_writer: garipadam
+  entry_fav_count: 31
   entry_content: |
-    diğer kadındır.
+    2 dakika önce gerçekleşti. kedi sahibi olduğumu bilen üst komşularım ( 3 adet dişi ve muhtemelen öğrenciler) kapımı çaldı. kedileri balkona kaçmış. onlar da düşecek korkusuyla alamamışlar. hemen ben devreye girdim. seksi ses tonumla gel pisi pisi dedim gelmedi şerefsiz. biraz cesaretlenip yanına gittim. yavaşça kulağına "kaçarsan rezil olurum" dedim. sağolsun anladı. kucağıma aldım ve görevimi başarıyla sonlandırmamın mutluğunu yüzüme yansıttım. kızlar teşekkür edip beni alkışladılar. <br/><br/>inşalla yarın muslukları bozulur sözlük.
 - entry_name: |
     fenerbahçe çirkefliği
   entry_id:  74671373
   entry_writer: barankovan
-  entry_fav_count: 19
+  entry_fav_count: 28
   entry_content: |
     kullanılan tiner arttıkça daha da inanılası laf.<br/>adamlar yıldız alabilmek için ağlaya ağlaya kayıt dışı şampiyonluk saydırdı, halısaha maçları için müracat etti; gelmiş fenere saydırıyor.<br/>siktiğimin eziği.<br/><br/>(bkz: <a class="b" href="/?q=amatem">amatem</a>)
 - entry_name: |
-    bak hele'nin ingilizesi
-  entry_id:  74665526
-  entry_writer: oylmz
-  entry_fav_count: 18
+    bir kadının canını en çok yakan şey
+  entry_id:  74656965
+  entry_writer: hastasiyim
+  entry_fav_count: 22
   entry_content: |
-    çok sevgili müdürüm yurt dışı gezisinde saç kurutma makinesini “hair huuuu” diye istemişti. aklına kurban. aynı mantıkla<br/>look hele diyorum:)
-- entry_name: |
-    3 mart 2018 türkiye'nin 40 suriye askerini vurması
-  entry_id:  74670694
-  entry_writer: gurur
-  entry_fav_count: 18
-  entry_content: |
-    haber doğru veya değil bilmiyorum, sadece afrin'e gitmiş olan askerler esad'ın askeri değil. esad yanlısı milisler olarak geçmekteler. öso gibi bişi heralde.<br/><br/>neyse uzmanı gelir zaten. ortalık karışmadan bu farkı yazayım dedim.
-- entry_name: |
-    türkiye'ye nükleer saldırı olursa harekete geçeriz
-  entry_id:  74654911
-  entry_writer: jaweh
-  entry_fav_count: 17
-  entry_content: |
-    lan altmış yıl komünist diye şeytan bellediniz, amerikanın çavuşu oldunuz. şimdi götünüz sıkıştı rusya diyorsunuz. abdülhamid'in denge politikası buydu işte. sonunda ne olduğunu merak edenler tarihe baksınlar.
+    diğer kadındır.
 - entry_name: |
     menbiç'in yarısı sizde olsun yarısı bizde
   entry_id:  74669775
   entry_writer: unfug
-  entry_fav_count: 17
+  entry_fav_count: 21
   entry_content: |
     (bkz: <a class="b" href="/?q=menbi%c3%a7%27in+yar%c4%b1s%c4%b1+art%c4%b1+holosko">menbiç'in yarısı artı holosko</a>)
+- entry_name: |
+    kuryeler ve hız baskısı
+  entry_id:  74671579
+  entry_writer: leylasoysal
+  entry_fav_count: 21
+  entry_content: |
+    "merhaba, uzun süre yemeksepeti ile çalışan restoranlarda kuryelik yaptım. sistemde üç çeşit puanlama türü bulunmakta. hız, servis ve lezzet. servis ve şezzet puanlamalarının işleyişiyle alakalı sorun yok. lakin hız puanlaması yüzünden kuryeler üzerinde ağır baskı oluşmakta. etrafta gördüğünüz kaldırımda, ters yönde sürüş yapan, ışıkları ihlal eden bir çok kuryeyi o an durdurma şansınız olsa inanın üzerinde taşıdığı siparişin yemeksepeti.com üzerinden verilmiş olduğunu öğrenme ihtimaliniz %90. işletmelerdeki müşteriye hızlı götürelim yoksa hıza 1 puan verir korkusu, yemeksepetinin müşterilerine hız puanını adeta silah gibi kullandırtması yüzünden bir çok arkadaşımız her gün kaza geçirmekte, sakat kalmakta yahut yaşamını yitirmekte. lütfen trafiğimizi kirleten ve kuryelerin ve de insanların hayatını tehlikeye atan bu puanlama sistemini başlığa taşımamıza yardımcı olun."<br/><br/><a class="b" href="/?q=tilkiyi+gaklatan+karga">tilkiyi gaklatan karga</a> nickli çaylak kardeşimizin serzenişidir. kuryelerin can güvenliği olmadığı zaten yıllarca tartışılan bir konu. bu konudaki baskı can kayıplarına dahi yol açıyor. dominos'un 30 dakika kampanyasını bilenler bilir. bu uğurda kuryeler yoğun baskı altına giriyor. bu tür "insan canını tehlikeye atan" kampanya vb kesinlikle etik bulmuyoruz ve protesto ediyoruz.
 - entry_name: |
     galatasaray
   entry_id:  74656860
@@ -251,30 +258,23 @@ data:
     doğu ekspresi+instagram+şarap+ışıklar
   entry_id:  74655344
   entry_writer: illallah be hocam
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     kars'ın haritadaki konumunu gösteremeyecek popülerizm kurbanlarının yeni trendi.
-- entry_name: |
-    kuryeler ve hız baskısı
-  entry_id:  74671579
-  entry_writer: leylasoysal
-  entry_fav_count: 14
-  entry_content: |
-    "merhaba, uzun süre yemeksepeti ile çalışan restoranlarda kuryelik yaptım. sistemde üç çeşit puanlama türü bulunmakta. hız, servis ve lezzet. servis ve şezzet puanlamalarının işleyişiyle alakalı sorun yok. lakin hız puanlaması yüzünden kuryeler üzerinde ağır baskı oluşmakta. etrafta gördüğünüz kaldırımda, ters yönde sürüş yapan, ışıkları ihlal eden bir çok kuryeyi o an durdurma şansınız olsa inanın üzerinde taşıdığı siparişin yemeksepeti.com üzerinden verilmiş olduğunu öğrenme ihtimaliniz %90. işletmelerdeki müşteriye hızlı götürelim yoksa hıza 1 puan verir korkusu, yemeksepetinin müşterilerine hız puanını adeta silah gibi kullandırtması yüzünden bir çok arkadaşımız her gün kaza geçirmekte, sakat kalmakta yahut yaşamını yitirmekte. lütfen trafiğimizi kirleten ve kuryelerin ve de insanların hayatını tehlikeye atan bu puanlama sistemini başlığa taşımamıza yardımcı olun."<br/><br/><a class="b" href="/?q=tilkiyi+gaklatan+karga">tilkiyi gaklatan karga</a> nickli çaylak kardeşimizin serzenişidir. kuryelerin can güvenliği olmadığı zaten yıllarca tartışılan bir konu. bu konudaki baskı can kayıplarına dahi yol açıyor. dominos'un 30 dakika kampanyasını bilenler bilir. bu uğurda kuryeler yoğun baskı altına giriyor. bu tür "insan canını tehlikeye atan" kampanya vb kesinlikle etik bulmuyoruz ve protesto ediyoruz.
-- entry_name: |
-    sözlükçülerin en eften püften başarıları
-  entry_id:  74673651
-  entry_writer: garipadam
-  entry_fav_count: 13
-  entry_content: |
-    2 dakika önce gerçekleşti. kedi sahibi olduğumu bilen üst komşularım ( 3 adet dişi ve muhtemelen öğrenciler) kapımı çaldı. kedileri balkona kaçmış. onlar da düşecek korkusuyla alamamışlar. hemen ben devreye girdim. seksi ses tonumla gel pisi pisi dedim gelmedi şerefsiz. biraz cesaretlenip yanına gittim. yavaşça kulağına "kaçarsan rezil olurum" dedim. sağolsun anladı. kucağıma aldım ve görevimi başarıyla sonlandırmamın mutluğunu yüzüme yansıttım. kızlar teşekkür edip beni alkışladılar. <br/><br/>inşalla yarın muslukları bozulur sözlük.
 - entry_name: |
     müslüm gürses anısına yabancıların yaptığı cover
   entry_id:  74670654
   entry_writer: askim nickini buldun mu
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     youtube trendlerde denk geldim ve açıkçası baya duygulandırdı beni. <br/>adamlar başka ülkelerden gelip müslüm gürses'i tanımış sevmiş ve ölüm yıldönümünde onun anısına affet şarkısını coverlamışlar.<br/><br/>koreliyi zaten tanıyoruz da kenyalı elemanın sesi fena değilmiş.<br/><br/>link: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OauzOOAbghE">https://www.youtube.com/watch?v=oauzooabghe</a>
+- entry_name: |
+    la casa de papel
+  entry_id:  74662083
+  entry_writer: munique
+  entry_fav_count: 14
+  entry_content: |
+    su diziye dair en sevdigim sey kadin oyuncularin burunlarinin dogalligi.<br/><br/>hangi turk dizisinde bu kadinlara rol verilirdi? neden bizim toplumumuzda sadece kucuk ve hokka burun kabul goruyor? kadinlarin instagram sayfasinda bile turkler "karadenizli misin abla?" "burnunu yaptirman icin yardim kampanyasi baslatalim xd" seklinde yorumlar yapmislar. bu kadar kompleksli insanlarin bulundugu bir ulkede buyuyup sekillendigim icin cok uzuluyorum.
 - entry_name: |
     3 mart 2018 başakşehir göztepe maçı
   entry_id:  74669656
@@ -297,26 +297,26 @@ data:
   entry_content: |
     günün birinde metroda fark edileceğimi ve adıma başlık açılacağını biliyordum, gün bugünmüş.<br/><br/>sabah marmarayla anadolu’ya geçtim. insan söylerken de biraz utanıyor ama oturmadan kitap okuma davranışında bulundum.<br/>üstelik de kürklü kapüşonlu montum ve kış günlerinde giydiğim beyaz spor pabuçlarımla tam bir boş beyinli namzeti idim. <br/><br/>buna rağmen çok detaylı bir plan yapmıştım:<br/><br/>etrafı kesmeye başladım; bana bakan bir iki göz gördüğüm an kitabı çantamdan bir silah gibi çıkaracak ve okur gibi yapacaktım.<br/>arada uzaklara dalıp düşünecektim; dün bütün gece ayna karşısında bunu çalışmıştım.<br/>hatta daha entel görünürüm belki diye arada çizer gibi de yapacaktım. <br/>okuduğum kitap <a class="b" href="/?q=harlequin">harlequin</a> aşk romanı idi ama tabi ki bunu görsünler istemezdim.<br/><a class="b" href="/?q=jean-jacques+rousseau">jean-jacques rousseau</a>‘nun <a class="b" href="/?q=insanlar+aras%c4%b1ndaki+e%c5%9fitsizli%c4%9fin+kayna%c4%9f%c4%b1">insanlar arasındaki eşitsizliğin kaynağı</a> kitabının kapağını kesip bunun kapağına yapıştırmıştım.<br/><br/>derken onu gördüm. bir teyze bana bakıyordu; hemen güvenli tavrımı takındım ve kitabı okumaya başladım. arada da etrafı kesiyordum beni izliyorlar mı diye? eğer izlemiyorlarsa orda kitapla mal gibi dikilmemin bir anlamı yoktu. böyle hava yapayım derken durağı kaçırmışım, bir durak daha gitmek zorunda kaldım.<br/><br/>ama değdi doğrusu, inerken teyze yanıma yanaştı:<br/><br/>“tatlı kızım ne kadar güzel okuyorsun, benim de senin gibi kültürlü bir oğlum var. tanışmak ister misin dedi?” <br/><br/>çok memnun olacağımı söyledim. bir muhallebiciye oturduk; hayallerimin erkeğini bekliyoruz. darısı tüm çakma entellerin başına.
 - entry_name: |
+    iphone x
+  entry_id:  74674179
+  entry_writer: garipbasci
+  entry_fav_count: 8
+  entry_content: |
+    -merhaba, bir dost yoğurt, bir lokella bir de iphone x alabilir miyim?<br/>+siktir git burdan.
+- entry_name: |
+    bir kadının kalçaları ile anlatabildikleri
+  entry_id:  74667504
+  entry_writer: swollenmember
+  entry_fav_count: 8
+  entry_content: |
+    <a class="b" href="/?q=sen+sus+da+g%c3%b6tlerin+konu%c5%9fsun">sen sus da götlerin konuşsun</a> dur.
+- entry_name: |
     kadın dayak yiyorsa şükretsin
   entry_id:  74673358
   entry_writer: panpatube
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     itibar edilmemesi gereken bir beyan.<br/><br/>“milletimiz güçlü bir millet olmaya azmetmiştir. bunun gereklerinden biri de kadınlarımızın her konuda yükselmelerini sağlamaktır. bundan dolayı kadınlarımız ilim ve fen sahibi olacaklar ve erkeklerin geçtikleri bütün öğretim basamaklarından geçeceklerdir.” <br/><br/><a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a>
-- entry_name: |
-    geceye bir şiir bırak
-  entry_id:  74656438
-  entry_writer: nceylan
-  entry_fav_count: 4
-  entry_content: |
-    beni bana bırakma, beni ona bırakma,<br/>azalır çoğalınca, beni çoğa bırakma!<br/><br/>behçet necatigil
-- entry_name: |
-    iphone x
-  entry_id:  74673668
-  entry_writer: birgunolursun
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=bim">bim</a>'de satılması ile parodoksal bir durum ortaya çıkaran telefon modeli.<br/><br/>-<a class="b" href="/?q=iphone+x">iphone x</a>' i olan adamsın hala <a class="b" href="/?q=bim">bim</a>'den mi alışveriş yapıyorsun abi?
 - entry_name: |
     eşini bıçaklayarak öldüren adama iyi hal indirimi
   entry_id:  74668260
@@ -324,13 +324,6 @@ data:
   entry_fav_count: 2
   entry_content: |
     öncelikle bu suçu işleyen şerefsiz herif umarım hayatının geri kalanında sadece hapiste kalmaz, hapiste çekebileceği tüm çileleri çekerek devam ettirir hayatını.<br/><br/>sonraki sözüm de şu “ asıl katil çevredeki diğer erkekler” geyiği çeviren durum tahlili yapmaktan bir haber ve linç kültürüne yatkın yazarlara gelecek.<br/><br/>bu adam karısına yumrukla mı saldırıyor ? hayır.<br/><br/>herhangi bir itme kakma yaşanıyor mu olay öncesinde ? hayır.<br/><br/>adam çekiyor ekmek bıçağını saldırıyor.<br/><br/>ne bekliyorsunuz lan çevredekilerden beyinsiz sürüsü ? onların görevi mi mermiye kafa atmak ? elinde ekmek bıçağıyla karısını bıçaklayan bir psikopata mı saldırmalılardı ? bu nasıl beyinsiz bir beklentidir arkadaş ya. lan bu kadar mı ergen zihniyetlisiniz. mutlaka linç edecek başka insanlar bulmak zorunda mısınız ?<br/><br/>orada kaçan insanların en ufak bir suçu da yoktur sorumluluğu da yoktur. orada elinde silah olan ve bunu aktif şekilde kullanan bir psikopat var. elinde bu katili uzaktan etkisiz hale getirebilecek imkanı olmayan herkesin bu durumdaki tek sorumluluğu kendi canı ve polise haber vermektir. o entryleri giren rambo dingillerin de bu durumun onda biri karşısında bile kıllarını kıpırdatamayacaklarını iddia ediyorum. zira daha bu durumun psikolojisini ön göremeyecek kapasitede bir adamdan böyle ani durumlarda tek olumlu hareket göremezsiniz.<br/><br/>sözlük linççileri sizi.
-- entry_name: |
-    bir kadının kalçaları ile anlatabildikleri
-  entry_id:  74667504
-  entry_writer: swollenmember
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=sen+sus+da+g%c3%b6tlerin+konu%c5%9fsun">sen sus da götlerin konuşsun</a> dur.
 - entry_name: |
     9 nisan 2017 koru hastanesi rezaleti
   entry_id:  74659406
@@ -340,11 +333,11 @@ data:
     unutulmaması gereken, unutulmasına ucundan bile destek veren herkesin utanması gereken olay.
 - entry_name: |
     mete kalkavan
-  entry_id:  74673655
-  entry_writer: burakas
+  entry_id:  74674736
+  entry_writer: gol d roger
   entry_fav_count: 0
   entry_content: |
-    galatasaray serbest vuruş kullanıyor ve 2 sarı kart yiyor. ortada ne ciddi bir kavga ne de hareket var. bu hafta olmadı haftaya başka bir mete çıkacak. galatasaray bu hakemlere rağmen lider.
+    fernando'ya da götünden uydurduğu bir sarı kartı çıkartarak en az 7-0'lık galibiyetle bitecek bir maçta, galatasaray'a 3 adet sarı kart çıkarmayı başarabilmiş erol ersoy artığı.
 - entry_name: |
     havalimanında sarhoş olmak
   entry_id:  74662202
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     bunlardan iri kıyım bir tanesi bir kere uçağa kadar gelmiş oturmuş, uçak havalanana kadar da sessiz beklemişti. çakal. uçak havalandıktan sonra da kendi kendine konuşmaya gittikçe sinirlenmeye sonra da bağıra bağıra küfretmeye başladı. durdan anlamadı sustan anlamadı atsan atamadın.. inene kadar küfretti pis pis. olacak iş mi? olmaması lazım tabi. <br/>buradan yetkilililere sesleniyorum şu an. bakın bunlara.
+- entry_name: |
+    bir kadına söylenebilecek en kötü şey
+  entry_id:  74671297
+  entry_writer: cacar10
+  entry_fav_count: 0
+  entry_content: |
+    "ilişkimizde gelecek görmüyorum" cümlesidir. üstelik bu cümleye tepki gösterdiğinizde durumu kendince toplamak için " öyle demek istemedim. sadece 30 yaşıma seninle girdiğimi düşünemiyorum." demesi de olabilir.
 ---
