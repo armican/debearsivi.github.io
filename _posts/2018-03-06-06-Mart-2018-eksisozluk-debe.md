@@ -6,65 +6,72 @@ data:
     bilal erdoğan beyefendi hazretleri
   entry_id:  74712544
   entry_writer: ismin e hali
-  entry_fav_count: 846
+  entry_fav_count: 856
   entry_content: |
     gençlik eğitim ve kültür konfederasyonu'nun yahya kemal beyatlı gösteri merkezi'nde düzenlediği, "son büyük sultan abdülhamid han'ı anlamak" etkinliğinde küçükçekmece belediye başkan vekili mehmet besim müftüoğlu, bilal erdoğan'ı böyle selamlamış...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/anlatamayrum/status/970415940105105414" title="https://twitter.com/anlatamayrum/status/970415940105105414">link</a><br/><br/>bu halka cumhuriyet, demokrasi fazla gerçekten. bu kadar onurlu bir yaşamı belli ki haketmiyoruz. <br/><br/>daha uzun yıllar, yüzyıllar boyunca bir ailenin iktidarında, köle gibi yaşamamız gerekiyordu. <br/><br/>atatürk erken hareket etti cumhuriyet için. ihtiyaç yok ki. arkadaşlar hazır biat etmeye.
 - entry_name: |
     5 mart 2018 ankara esenboğa havalimanı zikir olayı
   entry_id:  74722354
   entry_writer: geldi ggiine tipini s2ktigim
-  entry_fav_count: 670
+  entry_fav_count: 676
   entry_content: |
     havaalanına gitmişler ama bunların uçağa ihtiyacı yok ki uçuyorlar zaten amk...
+- entry_name: |
+    29. sıradaki oğlunu araş. gör. yapan rektör
+  entry_id:  74716728
+  entry_writer: mikhail tal
+  entry_fav_count: 561
+  entry_content: |
+    31 kişilik başvuru listesinde 29. sıradaki rektör oğlunun araştırma görevlisi olması mucizesi.<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mynet.com/haber/guncel/rektor-28-adayi-eleyip-oglunu-arastirma-gorevlisi-yapti-3813562-1" title="http://www.mynet.com/haber/guncel/rektor-28-adayi-eleyip-oglunu-arastirma-gorevlisi-yapti-3813562-1">mynet</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.sozcu.com.tr/2018/gundem/rektor-28-adayi-eleyip-oglunu-arastirma-gorevlisi-yapti-2264471/" title="http://www.sozcu.com.tr/2018/gundem/rektor-28-adayi-eleyip-oglunu-arastirma-gorevlisi-yapti-2264471/">sözcü</a><br/><br/>"kamu denetçisi arif dülger'in skandalla ilgili hazırladığı rapora göre oğul halit ziya pakiş, ales ve yabancı dil sıralamasında 31 kişilik listede 29'uncu sırada yer aldı. rapora göre başvuranlardan 19'u, transkrip belgesinde “mühür üzerinde imza olmaması, kaşenin imzasız olması” gibi gerekçelerle elendi.<br/><br/>kalan 12 kişiden 8'i sınava girmedi. 4 kişi ise üniversitenin yazılı sınavında 5-15 gibi puanlarla elendi. elenen adayların genel notlarının 84, 79 gibi yüksek puanlar olması da dikkat çekti."
 - entry_name: |
     utanmadan otomatik vitesli araç kullanan erkek
   entry_id:  74713630
   entry_writer: gurcanbal
-  entry_fav_count: 484
+  entry_fav_count: 491
   entry_content: |
     babama "neden otomatik vites?" diye sorduğumda, "hayat yeterince uğraştırıyor, bir de vites atmakla uğraşmak istemiyorum bu yaştan sonra." cevabını aldığım durumdur. utanılacak bir durum değildir.<br/><br/>gelen enteresan mesajlar üzerine edit: cinsiyetçi olmayı, homofobikliği, ötekileştirmeyi ve kof hakaretleri bırakmanızda sayısız faydalar mevcuttur arkadaşlar. ayrıca "erkeklik" kavramınızı basit bir vites seçeneğinin bile tehdit ettiğini düşünüyorsanız, oturup bir irdeleyin kendinizi. muhakkak ki yolunda gitmeyen ve kabullenmenizin size fayda sağlayacağı bir şeyler çıkacaktır bu irdelemeler sonucunda.
 - entry_name: |
     rabbin seni terk etmedi
   entry_id:  74724383
   entry_writer: kasimi severiz biz o baska bir guzeldir
-  entry_fav_count: 370
+  entry_fav_count: 390
   entry_content: |
     simdi inanc isi soyut bir mesele. yani inanmayan birisi icin bu ayet fasa fiso gelebilir.<br/><br/>gelgelelim bayramdan bayrama camiye giden birisi bile dara dustugunde ilk duaya kurana namaza sarilir. adam cezaevine girer dinle diyanetle alakasi yoktur gider kutuphaneden kuran meali alir, okur kendisini rahatlatmaya calisir. dua eder tam manasiyla ucar anlicaginiz.<br/><br/>bu cumle inanan birisi icin teselli ve umut verir. net. simdi hemen neden yardim gelmiyor? hani tanri nerde nasil beni terk etmedi hala beni gormuyor sikintilar devam ediyor diyen kulu icinse sabir et diyor ayni kitapta.<br/><br/>bir de <a class="b" href="/?q=rabbin+kimseye+haksizlik+etmez">rabbin kimseye haksizlik etmez</a> ayeti varki vallahi de dogru.<br/><br/>bu dunyanin hakkini bu dunyada belki alamazsin ama bu ayetler insana sabir ve tahammul veriyor. cunku ahiret var ve allah cok adil. o unutmuyor, o da sabrediyor biriktiriyor sonra ya bu dunyada ya da ahirette hesabi goruyor. <br/><br/>terketmiyor vallahi ben ne kadar hayirsiz isyankar asi bir kul oldugum halde beni dahi terk etmedi.
 - entry_name: |
     selçuk üniversitesi'de yapılan hava savunma robotu
   entry_id:  74726782
   entry_writer: tatli biber
-  entry_fav_count: 301
+  entry_fav_count: 307
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9fimdi+toys%27r%27us+d%c3%bc%c5%9f%c3%bcns%c3%bcn">şimdi toys'r'us düşünsün</a>)
-- entry_name: |
-    iki kadına birden aşık olmak
-  entry_id:  74720649
-  entry_writer: butterflytruelove
-  entry_fav_count: 290
-  entry_content: |
-    bu konudaki en güzel söz bu bence: eğer iki kişi arasında kalıyorsanız; ikinciyi seçin. çünkü birinciyi gerçekten sevseydiniz, ikincisi olmazdı. <br/><a class="b" href="/?q=charles+bukowski">charles bukowski</a>
-- entry_name: |
-    #pınarürünleriboykot
-  entry_id:  74716195
-  entry_writer: crazy tiftik
-  entry_fav_count: 245
-  entry_content: |
-    fiyat konusunda her zaman bariz daha pahalı olan pınar, artık değil.<br/><br/>bu bile yeter.<br/><br/>belki unutuldu, belki yapılmıyor ama şahsım adına her zaman pınar alan ve tercih eden ben, o günden beri evime sokmadım, sokturtmadım.
 - entry_name: |
     e-devlet miras sorgulama
   entry_id:  74723699
   entry_writer: bir maruzatim var
-  entry_fav_count: 240
+  entry_fav_count: 248
   entry_content: |
     (bkz: <a class="b" href="/?q=anam+%c3%a7o%c5%9ftu+lan+bunlar">anam çoştu lan bunlar</a>)
 - entry_name: |
-    korsan oyuna karşı çıkıp uber'i desteklemek
-  entry_id:  74729096
-  entry_writer: bidurlabidur
-  entry_fav_count: 232
+    #pınarürünleriboykot
+  entry_id:  74716195
+  entry_writer: crazy tiftik
+  entry_fav_count: 247
   entry_content: |
-    elektronic arts, beni kadıköyden sabihaya bakırköy üzerinden götürse ona da karşı çıkarım.
+    fiyat konusunda her zaman bariz daha pahalı olan pınar, artık değil.<br/><br/>bu bile yeter.<br/><br/>belki unutuldu, belki yapılmıyor ama şahsım adına her zaman pınar alan ve tercih eden ben, o günden beri evime sokmadım, sokturtmadım.
+- entry_name: |
+    lacoste'un logosunu değiştirmesi
+  entry_id:  74717757
+  entry_writer: trmert
+  entry_fav_count: 217
+  entry_content: |
+    <a class="b" href="/?q=%c3%a7akmac%c4%b1">çakmacı</a>lara ekstra iş olacak hamledir. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+- entry_name: |
+    amerika birleşik devletleri
+  entry_id:  74711222
+  entry_writer: brondby
+  entry_fav_count: 156
+  entry_content: |
+    ordusunun yüzde onu ile dunyayi idare ederken, geri kalani ile kendi topraklarında degil rusya, cin, tüm dünyayı karşılayabilecek bir güce sahiptir. siz bakmayın abd yi suan isgalle suclayan diger ulkelere, abd nin yarisi guce sahip olsalar ebemizi mikecek, isgal de çığır açacak, kültürü bozuk, sicili bozuk, niyeti bozuk devletler vardır. <br/>üç bes şirketinin büyüklüğü, "en büyük benim" diyen bir cok ulkeyi cebinden çıkaran bir ülkedir. biz demokratik ulkemiz de entry yazarken bile "pot kirmayalim durup dururken içeri almasinlar bizi" diye osmanli turkcesi ile olayin zuhuratina vakıf olmaya çalışan adamlara derdimizi anlatırken, amerika da başkanın anasindan girip yedi ceddine bir paragraf küfür de etseniz kimsenin umrunda olmazsiniz, umursanmama özgürlüğünüz vardir. bayraklari ile kendinize don yapsanız da kimse sizi iceri atmaz. ıstediginiz elementten kendi bokserinizi yapma ozgurlugunuz vardir.avrupanin aksine sosyal devlet anlayışı yoktur, çalışmazsan ac kalırsıniz ölürsünuz, ölme özgürlüğün de vardir. tam resit oldum deyip, gidip marketten icki alamazken, iki adim ötede silah satan dükkanda tam otomatik silah alabilirsiniz. suc işleme özgürlüğünüz de vardir. suc işlerseniz insan haklarını unutma özgürlüğünüz de vardır. o zaman yasalarin vermis oldugu yetki ile devletinde ebenizi sikme özgürlüğü vardır. öyle bir ülkedir.
 - entry_name: |
     erikli su'ya gelen zam
   entry_id:  74724149
@@ -83,9 +90,16 @@ data:
     evli kadınlarla ilişkiye giren sözlük yazarları
   entry_id:  74727981
   entry_writer: kiskanmayan kiskanc hatun
-  entry_fav_count: 124
+  entry_fav_count: 128
   entry_content: |
     kimseyi ilgilendirmeyen sözlük yazarlarıdır. sosyal medyanın bu linç kültürü artık çok iğrenç bir hal aldı. adam paylaşır bunu anlatmak istemiştir olur ama kalkıp da hadi linç edelim hurrraaaa demek de aynı şey. yani siz o adamın iğrenç olduğunu düşünüyorsunuz ama linç etmeye çalışmak da aynı iğrençlik. insanların sosyal medyada özgürce bir şeyler paylaşabilmelerine izin verin yahu.
+- entry_name: |
+    alvaro negredo sanchez
+  entry_id:  74734731
+  entry_writer: uzaydan gelip gote giren semsiye
+  entry_fav_count: 116
+  entry_content: |
+    (bkz: <a class="b" href="/?q=35+gol+demedim+35+asist+dedim">35 gol demedim 35 asist dedim</a>)
 - entry_name: |
     galatasaray'ın kadıköy'de fenerbahçe'yi yenmesi
   entry_id:  74712994
@@ -94,75 +108,68 @@ data:
   entry_content: |
     "iş adamı tıraş olurken bir yandan da berberiyle sohbet etmektedir. derken, kapının önünden ağır ağır geçmekte olan paspal bir çocuk görürler. berber, iş adamının kulağına fısıldar; 'bu çocuk var ya, dünyanın en aptal çocuklarından biridir! bak; dikkat et şimdi...'<br/><br/>berber çocuğa seslenir: 'ali, buraya gel!'<br/><br/>bunun üzerine çocuk sakince dükkâna girer ve yüzündeki aptalca sırıtmayla berberi selamlar. berber işadamının kulağına sessizce, 'bak şimdi' diye fısıldar ve bir elinde 5 liralık, diğer elinde 20 liralık bir banknot olduğu halde çocuğa sorar:<br/><br/>'hangisini istiyorsan alabilirsin? '<br/><br/>çocuk dalgın dalgın bir 5 liraya bir de 20 liraya bakar ve sonunda 5 liralık banknotu hızlıca çekerek berberin elinden alır.berber işadamına döner ve gülerek:<br/><br/>'gördün mü? sana söylemiştim' der.<br/><br/>tıraş bitince işadamı sokağa çıkar ve az ileride kendi kendine oynayan ali'yi görür. yanına giderek, neden 20 liralık değil de, 5 liralık banknotu aldığını sorar. çocuk hiç de aptalca olmayan bir sırıtmayla yanıt verir:<br/><br/>'eğer 20 liralığı alırsam oyun biter!'"<br/><br/>velhasıl kelam galatasaray kadıköy'de fener'i yenerse aziz başkan gider. bu başarısız başkanın gitmesi de galatasaray'ın işine gelmez.
 - entry_name: |
-    alvaro negredo sanchez
-  entry_id:  74734731
-  entry_writer: uzaydan gelip gote giren semsiye
-  entry_fav_count: 77
-  entry_content: |
-    (bkz: <a class="b" href="/?q=35+gol+demedim+35+asist+dedim">35 gol demedim 35 asist dedim</a>)
-- entry_name: |
     yavuz bingöl'ün mesam'a kayyım olarak atanması
   entry_id:  74724029
   entry_writer: thestoryofus
-  entry_fav_count: 69
+  entry_fav_count: 74
   entry_content: |
     yavuz bingöl "uyumlu" olmanın karşılığını aldı. <br/>"ne kadar yalama o kadar makam! "<br/><br/>ayrıca ;<br/><br/>türkücü yavuz bingöl’ün kızı sinem türkü bingöl’ün, trt’de yayınlanan ‘evlilik okulu’ adlı programın yapımcısı olduğu ortaya çıktı.<br/>şaşırdınız mı?<br/>adam bal tuttu, parmak yalıyor.
-- entry_name: |
-    5 mart 2018 türk hava yolları skandalı
-  entry_id:  74722394
-  entry_writer: signoreasc
-  entry_fav_count: 65
-  entry_content: |
-    olmayan skandaldır<br/><br/>ben bu uçaktaydım. bahsedilen yakıtsız havalanma meselesi arkamda oturan algı özürlü yolcunun yorumudur. olayın çarpıtılmamış hali şu şekildedir;<br/><br/>uçak yarım saat rötar yaptı. bu sırada yolcular bir koordinasyon probleminden dolayı bekleme salonunda tutulmak yerine 10 dakika kadar apronda uçağa dayanan merdivende bekletildi. saçma bir boarding'den sonra taksiye başladık ancak muhtemelen uçağın önüne bir şey çıktı veya kuleden dur emri geldi ve pilot aniden bir saniyeliğine fren yaptı (durmadı bile). bu sırada yemek hazırladığı için ayakta olan hosteslerden ikisi yaralanmış.<br/><br/>bize burada bir açıklama yapıldı: "prosedür gereği hostes sayısı eksik olarak devam edemeyeceğimiz için hostes değişimi yapılıp operasyona devam edilecektir". bu sırada rötardan dolayı zaten gerilen yolcular iyice sinirlendi. bir yolcu "annem komada, ölürse ve göremezsem hesabını nasıl vereceksiniz?" diye ayaktaki erkek kabin memurunun üzerine yürüdü. memur adamı sakinleştirdi ve yerine oturmasını sağladı.<br/><br/>kritik nokta şu: biz yeni hostesleri beklerken 1 saat gibi bir süre uçak çalışır vaziyetteydi. bu yüzden de haliyle yakıt harcadı. ankara gibi kısa bir mesafede depoyu fullerseniz o ağırlıkla uçağı yere indiremezsiniz. en iyi ihtimalle inişte yakıt dolu kanatları esenboğa'ya bırakırsınız. zaten az olan yakıt o süreçte de harcandığı için pilot anons yaptı. "hostesler değişti, birazdan yakıt alıp operasyona devam edeceğiz" <br/><br/>bu anonsu bizim aptal yolcular "yakıt yok muydu?" olarak yorumladı.<br/><br/>edit: tanım eklenmesi, host, erkek kabin memuru düzeltmesi.
-- entry_name: |
-    itü odtü boğaziçi hariç mühendislik okuyanlar
-  entry_id:  74709977
-  entry_writer: the tale of a warrior from snowy north
-  entry_fav_count: 61
-  entry_content: |
-    aradan cımbızla çekicem biraz ama kocaeliyi bi topluca linç edersek sevinirim. matematik sınavları test lan adamların. böyle baya bildiğin 4 şıkkı olan 10 sorulu tek sayfa test. işlem için yer falan da yok. salla geç usulü. e beni sikin yani madem. boşuna adım adım, kafama göre bile değil, istenen teoreme göre çözmüşüm sınavları. bu adam da ortaokul fen sınavı cinsinden sınavıyla mühendis olacak sonuçta. 6-a sınıfından mert final sınavını veriyor hemen okuyoruz; 1a 2b 3d 4c(5 değil 4 şık var bu arada tekrar uyandırayım) 5a 6d 7d 8c 9a 10b evet mert finalden 65 aldı tebrik ediyoruz al diploman mertçim hoşçakal.
 - entry_name: |
     istanbul'un 3. havalimanı için isim önerileri
   entry_id:  74727780
   entry_writer: sivri sinek savar
-  entry_fav_count: 59
+  entry_fav_count: 66
   entry_content: |
     (bkz: <a class="b" href="/?q=uluslararas%c4%b1+vecihi+h%c3%bcrku%c5%9f+havaliman%c4%b1">uluslararası vecihi hürkuş havalimanı</a>)
 - entry_name: |
-    5 mart 2018 trabzonspor beşiktaş maçı
-  entry_id:  74733274
-  entry_writer: abilerin casio saati
-  entry_fav_count: 59
+    itü odtü boğaziçi hariç mühendislik okuyanlar
+  entry_id:  74709977
+  entry_writer: the tale of a warrior from snowy north
+  entry_fav_count: 62
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c5%9funu+banlay%c4%b1n+art%c4%b1k">şunu banlayın artık</a>)
-- entry_name: |
-    istanbul'da araç takip mesafesi
-  entry_id:  74725321
-  entry_writer: tuy kalem
-  entry_fav_count: 38
-  entry_content: |
-    yarım araçlık bırakıyorsunuz bu sefer de i10 ya da motosiklet falan giriyor. çok ilginç.
-- entry_name: |
-    jeremain lens
-  entry_id:  74727740
-  entry_writer: kartacali makedo
-  entry_fav_count: 34
-  entry_content: |
-    trabzon'a bayılır. ligin ilk yarısındaki maçta dünyaları kaçırdı, berabere kaldık. bayıldığından hep.
+    aradan cımbızla çekicem biraz ama kocaeliyi bi topluca linç edersek sevinirim. matematik sınavları test lan adamların. böyle baya bildiğin 4 şıkkı olan 10 sorulu tek sayfa test. işlem için yer falan da yok. salla geç usulü. e beni sikin yani madem. boşuna adım adım, kafama göre bile değil, istenen teoreme göre çözmüşüm sınavları. bu adam da ortaokul fen sınavı cinsinden sınavıyla mühendis olacak sonuçta. 6-a sınıfından mert final sınavını veriyor hemen okuyoruz; 1a 2b 3d 4c(5 değil 4 şık var bu arada tekrar uyandırayım) 5a 6d 7d 8c 9a 10b evet mert finalden 65 aldı tebrik ediyoruz al diploman mertçim hoşçakal.
 - entry_name: |
     yaya yolundaki arabaların üzerinden geçen adam
   entry_id:  74727532
   entry_writer: perebron
-  entry_fav_count: 31
+  entry_fav_count: 46
   entry_content: |
     adam yıllardır yapmak istediğim şeyi yapmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/0R4CPzE17hk">https://youtu.be/0r4cpze17hk</a><br/><br/>tebrik ediyorum kendisini.
+- entry_name: |
+    istanbul'da araç takip mesafesi
+  entry_id:  74725321
+  entry_writer: tuy kalem
+  entry_fav_count: 46
+  entry_content: |
+    yarım araçlık bırakıyorsunuz bu sefer de i10 ya da motosiklet falan giriyor. çok ilginç.
+- entry_name: |
+    5 mart 2018 trabzonspor beşiktaş maçı
+  entry_id:  74735475
+  entry_writer: zekeke
+  entry_fav_count: 43
+  entry_content: |
+    katar emiri’nin posteriyle açılan statta izmir marşı söyleyen bjk taraftarına saygılar. her şey futbol değil.<br/><br/>not: fb
+- entry_name: |
+    ekşi beşiktaş whatsapp grubu
+  entry_id:  74718653
+  entry_writer: by myself but not alone
+  entry_fav_count: 37
+  entry_content: |
+    içeride ne şampiyonlar ligi şampiyonlukları, ne <a class="b" href="/?q=150+milyon+len+amq">150 milyon len amq</a>lar dönüyordur kim bilir. deep web bilmem kaçıncı seviye gibi bir ortam hayal ediyorum. ağır bir tiner kokusu ve beşiktaş’ın her zaman en büyük ve her zaman mağdur olduğu bir alternatif evren. psychedelic bir whatsapp grubu.
 - entry_name: |
     vagner love
   entry_id:  74733446
   entry_writer: vodkavandetta
-  entry_fav_count: 28
+  entry_fav_count: 36
   entry_content: |
     3 milyon euro'ya bunun yerine alanya'dan muz alsaydık daha karlıydık aq. enflasyon tavan zaten memlekette satar kar ederdik en azından.
+- entry_name: |
+    jeremain lens
+  entry_id:  74727740
+  entry_writer: kartacali makedo
+  entry_fav_count: 35
+  entry_content: |
+    trabzon'a bayılır. ligin ilk yarısındaki maçta dünyaları kaçırdı, berabere kaldık. bayıldığından hep.
 - entry_name: |
     90. oscar ödül töreni
   entry_id:  74715999
@@ -171,6 +178,41 @@ data:
   entry_content: |
     iş bu giri servisle işe giderken yazılmıştır.<br/>zamanında bu ödül törenlerini sizler gibi canlı olarak takip ederdim.<br/><br/>yazık olmuş lan bana. şimdi fark ettim.
 - entry_name: |
+    yılda 2 kez check up'ı herkese zorunlu kılmak
+  entry_id:  74732103
+  entry_writer: kiskanmayan kiskanc hatun
+  entry_fav_count: 23
+  entry_content: |
+    şimdi bir şey anlatacağım.<br/><br/>meme kanseri olma riskim çok yüksek olduğu için doktorum 2 3 senede 1 kontrole gelmem gerektiğini söyledi.<br/><br/>ilk kontrolüme geçen gittim. ultrason çektirmek istiyorum dedim. neden dedi. kontrol dedim. bir şeyin mi var dedi. meme kanseri riskim yüksek olduğundan birkaç sene önce böyle böyle demiştiniz dedim.<br/><br/>neyse gittim randevu aldım. ultrasona 1 ay sonra girebildim. gittim. ultrasonu çeken kadın neden geldin dedi. kontrol çünkü dedim. bir şeyin mi var dedi. yoooo riskim yüksek sadece dedim.<br/><br/>yani erken teşhis için doktora gidip kontrol olmak istediğinizde garipsiyorlar. yılda 2 kez check up mı?<br/><br/>hayaller hayatlar falan.
+- entry_name: |
+    ryan babel
+  entry_id:  74718067
+  entry_writer: ihbala
+  entry_fav_count: 23
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ona+h%c4%b1rs%c4%b1z+diyorlar+%c3%a7%c3%bcnki+bizim+ta%c3%a7%c4%b1m%c4%b1z%c4%b1+%c3%a7ald%c4%b1">ona hırsız diyorlar çünki bizim taçımızı çaldı</a>)
+- entry_name: |
+    kadınların ekonomik özgürlük çabası
+  entry_id:  74729778
+  entry_writer: damladamlazaman
+  entry_fav_count: 23
+  entry_content: |
+    adam "siktir ol git" dediğinde siktir olup gidecek yol parasını bile adamdan istemesi gerekiyorsa, böyle bir onursuzluğu yaşamamak adına gayet yerinde bir çaba.<br/>(bkz: <a class="b" href="/?q=bir+arkada%c5%9f%c4%b1m">bir arkadaşım</a>)
+- entry_name: |
+    trabzonspor
+  entry_id:  74735170
+  entry_writer: guinness girmeyen ev
+  entry_fav_count: 22
+  entry_content: |
+    sezona başlarken en büyük hedefi galatasaray’ı yenmek olan takım.
+- entry_name: |
+    survivor 2018 all-star
+  entry_id:  74721425
+  entry_writer: frodonunparmagi
+  entry_fav_count: 19
+  entry_content: |
+    -ada hayatı yok<br/>-güneşin altında ve kavurucu sıcakta bikini giymek yok hattta erkekler bile tişörtünü çıkartmıyor<br/>-rekabet yok<br/>-yeni gelenlerden gayet başarılı olan emreyi oyunlarda oynatmayıp ilk haftadan elemeye çalışmak var<br/>-entrika yok gerginlik yok<br/>-sıkıcı oyunlar<br/>-ne balık avlayan var ne doğayı keşfeden<br/>-barakalar ayrı ve hazır barakalar eskiden tamamen kendileri yapardı<br/>-yatak var!<br/>-her hafta aileyle görüşme var<br/>-eğlenceli bir kişilik yok<br/>-yarışmanın sonuna doğru yapılan eğlenceli oyunları rutin yapıp sıkıcılaştırmak var<br/><br/>kısacası izlemek için bir neden yok.
+- entry_name: |
     saat alacaklara tavsiyeler
   entry_id:  74718790
   entry_writer: lew ashby
@@ -178,47 +220,33 @@ data:
   entry_content: |
     su basliga gelip <a class="b" href="/?q=rolex">rolex</a>, <a class="b" href="/?q=patek">patek</a> falan oneren adamlara bayiliyorum ya. film olarak da <a class="b" href="/?q=the+godfather">the godfather</a> tavsiye eder bunlar asdgafa
 - entry_name: |
-    en iyi film oscar'ını kazanan en kötü filmler
-  entry_id:  74729728
-  entry_writer: boga etkisi
-  entry_fav_count: 19
-  entry_content: |
-    <a class="b" href="/?q=hurt+locker">hurt locker</a>; başka ne olabilirdi?
-- entry_name: |
-    survivor 2018 all-star
-  entry_id:  74721425
-  entry_writer: frodonunparmagi
-  entry_fav_count: 18
-  entry_content: |
-    -ada hayatı yok<br/>-güneşin altında ve kavurucu sıcakta bikini giymek yok hattta erkekler bile tişörtünü çıkartmıyor<br/>-rekabet yok<br/>-yeni gelenlerden gayet başarılı olan emreyi oyunlarda oynatmayıp ilk haftadan elemeye çalışmak var<br/>-entrika yok gerginlik yok<br/>-sıkıcı oyunlar<br/>-ne balık avlayan var ne doğayı keşfeden<br/>-barakalar ayrı ve hazır barakalar eskiden tamamen kendileri yapardı<br/>-yatak var!<br/>-her hafta aileyle görüşme var<br/>-eğlenceli bir kişilik yok<br/>-yarışmanın sonuna doğru yapılan eğlenceli oyunları rutin yapıp sıkıcılaştırmak var<br/><br/>kısacası izlemek için bir neden yok.
-- entry_name: |
-    la casa de papel
-  entry_id:  74716627
-  entry_writer: oztrink
-  entry_fav_count: 17
-  entry_content: |
-    lanet olası dizide senaristler öyle bir profesör karakteri yaratmışlar ki dizi bitince insan ergenler gibi boşluğa düşüyor. adeta bir <a class="b" href="/?q=nicholai+hel">nicholai hel</a>. <br/><br/>adam <a class="b" href="/?q=g%c3%bcven">güven</a>ilir, söz verdiği kişileri en boktan özelliklerine rağmen arkada bırakmıyor. <br/><br/>zeka, akıl almış başını yürümüş. <br/><br/>ince bir mizah anlayışı var.<br/><br/>kendisine salva lakabını seçen birinin sanat gibi zevkleri olduğunu da söylemek mümkün. <br/><br/>sisteme uymayan, uymadığı gibi eyleme geçen bir anarşist, muhalif ruh. <br/><br/>tipi ortalama üstü. <br/><br/>piç değil. aşık olduğu insan afet değil, çıtır değil. <br/><br/>kavgada ilk yumrukta devrilecek gibi duran halinin arkasında dövüş sanatlarından da efsane anlayan biri var. <br/><br/>iyi ve vicdan kapasitesi çok yüksek. duygusal. <br/><br/>kısacası: allah belanı versin <a class="b" href="/?q=salva">salva</a>.
-- entry_name: |
-    yılda 2 kez check up'ı herkese zorunlu kılmak
-  entry_id:  74732103
-  entry_writer: kiskanmayan kiskanc hatun
-  entry_fav_count: 16
-  entry_content: |
-    şimdi bir şey anlatacağım.<br/><br/>meme kanseri olma riskim çok yüksek olduğu için doktorum 2 3 senede 1 kontrole gelmem gerektiğini söyledi.<br/><br/>ilk kontrolüme geçen gittim. ultrason çektirmek istiyorum dedim. neden dedi. kontrol dedim. bir şeyin mi var dedi. meme kanseri riskim yüksek olduğundan birkaç sene önce böyle böyle demiştiniz dedim.<br/><br/>neyse gittim randevu aldım. ultrasona 1 ay sonra girebildim. gittim. ultrasonu çeken kadın neden geldin dedi. kontrol çünkü dedim. bir şeyin mi var dedi. yoooo riskim yüksek sadece dedim.<br/><br/>yani erken teşhis için doktora gidip kontrol olmak istediğinizde garipsiyorlar. yılda 2 kez check up mı?<br/><br/>hayaller hayatlar falan.
-- entry_name: |
     ekşi itiraf
   entry_id:  74717831
   entry_writer: bu hikaye bitti mi
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     2010 yılında evlendim. eşim almanya doğumluydu. evlenince istanbul'a geldi. 2,5 sene istanbul'da yaşadık, alışamadı buralara, 2012'de almanya'ya gittik.<br/><br/>bir ev tuttuk. orada ustaların fiyatları çok yüksek olduğundan, evin bir çok şeyini ben yaptım (parkeler, mineflolar, ikea'dan alınmış dolapların montajı, duvar kağıtları vs.)<br/>1 sene sonra, oğlumuz daha 39 günlükken boşandık. ben türkiye'ye döndüm.<br/><br/>2 sene oğlumun fotoğrafını bile görmedim. <br/>bu dünyada gelmiş - geçmiş hiç kimse, bu derece bir pişmanlık yaşamamıştır. <br/>ayrılık anında tek yol bu gibiydi ama hemen sonrasında yaşadığım pişmanlık, intihar noktasına getirdi beni. <br/>sonra bir şekilde orta yol bulundu, ben yılda 2 kez haftasonu oğlumu görmek için gidip gelmeye başladım.<br/><br/>bu hafta sonu da oradaydım. o eve gittim gene. benim için paralel evren gibi bir şey. <br/><br/>geçen gidişimde oğluma bir tren almıştım. baktım pili bitmiş trenin. eski eşime "tornavida nerde var, pilini değiştireyim trenin" dedim.<br/><br/>"koyduğun yerde tornavida" dedi. <br/>6 sene önce bütün el aletlerini bir karton kutuya doldurup kilerin köşesine koymuştum. aynı kutu, aynı yerde. <br/>aynı parkeler, aynı dolaplar, aynı koltuklar.<br/>vitrin dolabını açtım, bir kaç klasör vardı, evrakları toparlamışım, aynı şekilde duruyor hepsi. <br/><br/>çok zor geldi be sözlük.<br/><br/>şimdi benim başka bir hayatım var. evlendim geçen sene, istanbul'da minik bir aile kurdum. mutluyum. <br/>ama ne bileyim...<br/><br/>benim yerim orasıydı. oğlumun yanıydı. <br/>3,5 yaşına kadar ne yaptı, nasıl yaşadı hiç bilmiyorum.<br/>annesi nasıl altından kalktı, o neler yaşadı..<br/><br/>dün sabah oğlum bir şarkı söylüyordu; "masanın üstünde minik bir rüzgar var" diye.<br/><br/>ne şarkısı o dedim, "ben küçükken bu masaya çıkardım, annem de bana bu şarkıyı söylerdi" dedi. ben bunları hiç bilmiyorum mesela.<br/><br/>boğazım düğümeniyor. ağlarsam, şu an yaşadığım hayata ihanet etmiş olurum diye düşünüyorum. beynim uyuşuyor. <br/><br/>ziyan oldu hayatım sözlük..
 - entry_name: |
-    trabzonspor
-  entry_id:  74735170
-  entry_writer: guinness girmeyen ev
-  entry_fav_count: 13
+    işe git çalış eve gel bira iç
+  entry_id:  74731601
+  entry_writer: kahve muptelasi
+  entry_fav_count: 15
   entry_content: |
-    sezona başlarken en büyük hedefi galatasaray’ı yenmek olan takım.
+    çok şanslısınız gençler. <br/><br/>bir de bunun; <br/>işe git, çalış, eve gel, karınla kavga et, nafakayla tehdit edil.... versiyonları vardır.
+- entry_name: |
+    evliliğin ortaya çıkışı
+  entry_id:  74723615
+  entry_writer: baygezen
+  entry_fav_count: 15
+  entry_content: |
+    çok merak ettiğim süreç, kesinlikle bu araştırma konusu yapılması gereken bir şeydir. acaba birileri çıkıp gelin lan böyle bir şey yapıp milleti kekleyelim, bakalım onlar da aynısını yapacak mı dedi? <br/><br/>yoksa biri çıkıp "x hanım gelin sizinle bir anlaşma yapalım ve bundan sonra sadece ikimiz sevişelim, ben sizin karnınızı doyururum siz de ev işlerini yaparsınız" deyip evlilik akımını mı başlattı? (bunu günümüzde diğer türlü de uyarlayabilirsiniz ama ben ilk zamanlara göre düşünüyorum:d)
+- entry_name: |
+    matematiğe veda edilen an
+  entry_id:  74730866
+  entry_writer: icefire
+  entry_fav_count: 14
+  entry_content: |
+    iyi kötü idare ediyorduk birbirimizi, ta ki eşitliğin iki yanına 1 ekleyip 1 çıkarana kadar. ben böyle pervazsiz, lüzumsuz bir hareket görmedim. o an bitti dediğim andır.
 - entry_name: |
     tanrıya söylemek istenilenler
   entry_id:  74731940
@@ -227,20 +255,6 @@ data:
   entry_content: |
     bi ben sürü dışı kalmışım gibi, benide takip edip kollarmısın daha ne kadar üzüleceğim sıkılacağım, bi el atsan şu yarattığın garibe, babasız atasızım zaten bide allahsız mı olayım.
 - entry_name: |
-    matematiğe veda edilen an
-  entry_id:  74730866
-  entry_writer: icefire
-  entry_fav_count: 11
-  entry_content: |
-    iyi kötü idare ediyorduk birbirimizi, ta ki eşitliğin iki yanına 1 ekleyip 1 çıkarana kadar. ben böyle pervazsiz, lüzumsuz bir hareket görmedim. o an bitti dediğim andır.
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  74710053
-  entry_writer: ahbual
-  entry_fav_count: 11
-  entry_content: |
-    bir çok insanın samimiyetsiz bir şekilde yazdığına inandığım veritabanıdır.<br/><br/>efenim şöyle ki; bundan bir kaç ay önce bu tarz bir ilana rastladım.bir kaç entrysini okudum yazan arkadaşın, samimi bir arkadaş zannettim ve bütün samimiyetimle "anlat hacı abi, dinliyorum seni" tarzı bir mesaj yazdım. dönmedi tabii ki. neden? e amk o'nun derdi başka, sürttürecek hatun arıyor, n'apsın benim gibi sapı gecenin bir saati dimi?<br/><br/>samimi olun, en azından diyalog kurmak istediğiniz insanın cinsiyetini belirtin.”<br/><br/>demiş bir arkaşımız. e hala güncel, hala doğru.<br/><br/>not: dünden bugüne yenilendi.
-- entry_name: |
     rıza çalımbay
   entry_id:  74724125
   entry_writer: kartacali makedo
@@ -248,12 +262,12 @@ data:
   entry_content: |
     son 3-5 yıldır olanın aksine maç gününe kadar bu maç hakkında ağzından tek kelime çıkmadı, takdir ettim. maça asılsın, en iyi şekilde hazırlansın, hatta oyuncu bile sakatlasın(allah korusun); ama çıkıp mart ayının maçı için ocak ayından konuşmaya başlamasın. kaybedince de mayıs ayında çıkıp "mart'taki beşiktaş maçında tacımız verilmedi" demesin. iş disiplini başka kompleks yapmak başka.
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  74712624
-  entry_writer: haremlikselam
+    güzel kadın denince akla gelen ilk kadın
+  entry_id:  74710718
+  entry_writer: neandros
   entry_fav_count: 8
   entry_content: |
-    anne kerevizi patates diye yutturdun sanıyorsun ama kasten bişey demedim, gastronomiyle aram iyi yani bilirsin. yıllardır kaç kişi bana kazık atmış, kandırmaya çalışmış, sen istersinde kanmaz mıyım ben.
+    ahu türkpençe.<br/>f1 yarışına kartal ile katılmış gibi hissediyorum ama olsun.
 - entry_name: |
     numarameofficial
   entry_id:  74728311
@@ -262,19 +276,12 @@ data:
   entry_content: |
     yazarlara spam mesaj gönderen bir <a class="b" href="/?q=%c3%a7aylak+hesab%c4%b1">çaylak hesabı</a>. entrysi falan da yok. çaylaklara mesajlaşma açılınca zekinin biri spam yapmak için açmış hesabı hemen.
 - entry_name: |
-    ekşi sözlük'e yazmanın altında yatan sebepler
-  entry_id:  74719659
-  entry_writer: carriebradshaw
-  entry_fav_count: 7
+    künefenin lezzeti abartılmış bir tatlı olması
+  entry_id:  74735509
+  entry_writer: kariyer diye kafayi usuten kadin
+  entry_fav_count: 4
   entry_content: |
-    kimse birbirine benzemediğine göre hepimiz için farklı nedenleri var muhakkak. birçoğumuzun ortak söylemi "sözlük çok bozdu, sözlük bitti." <br/>ama hala bir şekilde burdayız ve birikime katkıda bulunmaya çalışıyoruz.<br/><br/>geçmişten gelen bir arşiv ve bilgi niteliği var buranın. benim ve tanıdığım bir çok kişinin bir bilgi için hala ilk baktığı yer.<br/><br/>şu an üretilen içeriklerin niteliksiz olması geçmişin arşiv değerine dokunmadığı için hala büyük bir değeri var.<br/><br/>ben hem bildiğim bir şeyi paylaşmayı sevdiğim hem de bu birikim içinde benim de sözüm olsun ve ileriye kalsın istediğim için yazıyorum. <br/>yazdığım bir şeyle ilgili fikir beyan eden, katkı sunan, eleştiri getiren ya da daha detay bilgi isteyen biriyle karşılaştığımda da yazdığım şey havaya karışmayıp birilerine ulaştığı için manevi tatmin yaşıyorum.<br/>okunması için yazmıyor muyuz hepimiz?<br/>bilgi niteliği olmayan entrylerim de bana bir nevi rahatlama etkisi verdiği için burdalar. yazmak bende bir boşaltım çeşidi. <br/><br/>herkes niteliğini, ne yazmak ve nasıl yazmak istediğini kendi belirliyor. burda nasıl iz bırakmak istersek öyle yazıyoruz. <br/>ben yazmaktan hoşnutum ve bu sistem artık çöktü diyeceğimiz güne kadar da buralardayım gibi duruyor.
-- entry_name: |
-    evliliğin ortaya çıkışı
-  entry_id:  74723721
-  entry_writer: achtundsiebzug
-  entry_fav_count: 5
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ailenin+%c3%b6zel+m%c3%bclkiyetin+ve+devletin+k%c3%b6keni">ailenin özel mülkiyetin ve devletin kökeni</a>)
+    (bkz: <a class="b" href="/?q=kral+k%c3%bcnefe">kral künefe</a>)/antakya-iskenderun<br/><br/>(bkz: <a class="b" href="/?q=petek+pastanesi">petek pastanesi</a>)/iskenderun<br/><br/>(bkz: <a class="b" href="/?q=ferah+k%c3%bcnefe">ferah künefe</a>)/antakya<br/><br/>başlık sahibinin buralardan künefe yememiş olması..
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
   entry_id:  74733796
@@ -311,27 +318,6 @@ data:
   entry_content: |
     homo sapiens de değildir. diğer homo sapiensleri kandırmayı başarmış ve hala bunu sürdürebilen en tepedeki %1'dir.<br/><br/>tanım: ormanlar kralı değil, hayvanlar kralıdır.
 - entry_name: |
-    sam rockwell
-  entry_id:  74721285
-  entry_writer: nice tnetennba
-  entry_fav_count: 2
-  entry_content: |
-    tam bir <a class="b" href="/?q=karakter+oyuncusu">karakter oyuncusu</a>, genellikle yan rollerde yer almasına karşın <a class="b" href="/?q=moon">moon</a>'daki tek kişilik dev performansını unutmamak gerek. <a class="b" href="/?q=viola+davis">viola davis</a> ödülü takdim etti, sam rockwell, yakın arkadaşlarından <a class="b" href="/?q=philip+seymour+hoffman">philip seymour hoffman</a>'ı unutmadı, sevgilisi <a class="b" href="/?q=leslie+bibb">leslie bibb</a>'e "to my beloved leslie. you light my fire, baby, i love you." dedi, eridim şrfsz.
-- entry_name: |
-    google song maker
-  entry_id:  74725489
-  entry_writer: thebestisyettocome
-  entry_fav_count: 2
-  entry_content: |
-    birden fazla kanal eklenebilse süper olacakmış. ayrıca nota vuruş süreleri standart. jenerik müzik yapmak için tam. buyrun bu da ilk denemem:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/f6EGPd" title="https://goo.gl/f6EGPd">deneme1</a>
-- entry_name: |
-    künefenin lezzeti abartılmış bir tatlı olması
-  entry_id:  74735509
-  entry_writer: kariyer diye kafayi usuten kadin
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kral+k%c3%bcnefe">kral künefe</a>)/antakya-iskenderun<br/><br/>(bkz: <a class="b" href="/?q=petek+pastanesi">petek pastanesi</a>)/iskenderun<br/><br/>(bkz: <a class="b" href="/?q=ferah+k%c3%bcnefe">ferah künefe</a>)/antakya<br/><br/>başlık sahibinin buralardan künefe yememiş olması..
-- entry_name: |
     ingiliz dendiğinde zihinde oluşan ilk imge
   entry_id:  74731924
   entry_writer: lordum
@@ -339,12 +325,26 @@ data:
   entry_content: |
     sinsi, plan hastası, sömürgeci, vicdansız, kan, çanakkale...<br/>marketlerde ingiliz ürünü ithal bir şey gördüğüm zaman iğreniyorum o derece.<br/><br/>ırkçılığa karşıyız ancak geçmişi bildiğimiz gibi geleceği de iyi kötü görüyoruz, adamına göre muamele ediyoruz.
 - entry_name: |
-    kadınların ekonomik özgürlük çabası
-  entry_id:  74733878
-  entry_writer: vallabanauyar
+    dame n'doye
+  entry_id:  74735768
+  entry_writer: baska yildiz
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=defansif+forvet">defansif forvet</a>)
+- entry_name: |
+    numaramepro
+  entry_id:  74734782
+  entry_writer: oray
   entry_fav_count: 0
   entry_content: |
-    iki kızım var. onlara tek vasiyetim ayaklarının üzerinde durabilecekleri, onlara hayır deme özgürlüğünü sağlayan bir altın bilezik edinmeleridir.bu bilezik aynı zamanda sadece türkiye'de değil başka ülkelerde de işe yaramalı. hiçbir zaman kızlarıma zengin bir erkekle evlenmeleri konusunda teşvikim olmamıştır. seçeceği erkeklerde denklik aramalarını istemişimdir hep. yaşam tarzı, ekonomik denklik gibi. onlara hiçbir erkek "maaşım üzerinde hayâl kurma, "artık düş yakamdan, "gitmek istiyorsan işte kapı, çıkarken anahtarını bırakmayı unutma ", "çocukların velayetini unut bu arada", "zaten seni hiçbir zaman sevmemiştim" diyememelerinin yolu bi zahmet meslek edinmeleri, yüksek egitimli olmaları ve ileride doğacak çocuklarına aklı başında bir anne olmaları için elzem olan çabadır.
+    eksi yonetimi ayni devlet yonetimi gibi, izin veriyor bir seylere ama sonunu dusunmuyor... belliydi boyle reklam mesajlarinin spam sekilde gelecegi...<br/><br/>bastan koysana caylaklara gunluk mesaj sinirini... ıllaha basina bir sey gelince mi yapman lazim bir seyler.
+- entry_name: |
+    erkeğin ellerine önem veren kız modası
+  entry_id:  74732381
+  entry_writer: phthalo blue red
+  entry_fav_count: 0
+  entry_content: |
+    sadece parmak uclarini opme istegi degil, o parmaklari emme, ama gote sokma istegi de uyandirir.
 - entry_name: |
     çukur (dizi)
   entry_id:  74734884
