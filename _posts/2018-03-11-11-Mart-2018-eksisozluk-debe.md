@@ -6,65 +6,58 @@ data:
     şişli'de uber sürücüsüne saldıran taksici
   entry_id:  74889925
   entry_writer: klasikdick
-  entry_fav_count: 1005
+  entry_fav_count: 1011
   entry_content: |
     (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)
 - entry_name: |
     taksicilerin haklı olduğu gerçeği
   entry_id:  74896069
   entry_writer: bitly
-  entry_fav_count: 687
+  entry_fav_count: 736
   entry_content: |
     evet atatürk havaalanından 15 temmuz günü sadece 3-5 km mesafe için 300 usd istemeleride ne kadar ekmek peşinde olduklarının delili zaten
 - entry_name: |
     istanbul taksicilerine boykot
   entry_id:  74890148
   entry_writer: otobustekicocuk
-  entry_fav_count: 603
+  entry_fav_count: 613
   entry_content: |
     edit 2: başka bir arkadaşımız az önce bana ulaştı, epeyi kapsamlı bir çalışması varmış bu konuyla ilgili neden boykot etmemiz gerektiğini en detaylı şekilde açıklayan arkadaşımız sanırım:<br/>(bkz: <a class="b" href="/entry/74604798">#74604798</a>)<br/><br/>istanbul taksicilerinin artık bir teröristten farkı kalmadığını düşünürsek uygulamamız gereken boykottur. adam dövme, mobing, çalışanın ayağına çelme takmaya çalışma(ki bu bir ülkeye yapılacak en büyük ihanetlerden biridir), hanzoluk, güvenilmezlik, para aşırmaya çalışmak hepsine sahip bu insanlar birisi işini iyi yaptı diye gidip karşısındakini dövüyor. bunlar yarın sizin çocuklarınızı da döver. bu ayıların çocukları babalarından gördükleriyle yetişecek ve sizin çocuklarınıza karşılarına çıktığında aynı darpı uygulayacak, bir yere alın terinizle gelmeye çalıştığınızda aynı çelmeyi takacak. bu ayılara karşı boykot uygulamalıyız ve taksiciler adam dövmekle işlerin çözülmediğini anlamalı artık. katılın, herkesi kattırın.<br/>edit: çaylak bir arkadaşımız başlık açamadığı için mesaj gönderdi olaylar şu şekilde gelişmiş:<br/>“olay yeri üsküdar sahil şehir hatları önü. tarih 8 mart saat gece 2 suları.bir karı koca belirttiğim bölgede uber'den parasını ödeyip iniyor. o esnada orada bulunan taksiciler kuşkulanıyor. adamın aracına gidip bi tanesi soruyor ‘sen uber misin’ diye. adam evet diyor. adamı araçtan indirip tartaklıyorlar, müşterileri araya giriyor filan. ”<br/>arkadaşa teşekkür ederim. en azından yapılan açıklamalardaki gibi taksici arkadaşların böyle bir şeye tenezzül edip etmeyeceğini(!) görmüş olduk.<br/><br/>(bkz: <a class="b" href="/?q=taksicilerin+uber+%c3%a7a%c4%9f%c4%b1r%c4%b1p+%c5%9f%c3%b6f%c3%b6r%c3%bc+d%c3%b6vmesi">taksicilerin uber çağırıp şöförü dövmesi</a>)<br/>(bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)<br/>(bkz: <a class="b" href="/?q=taksicilerin+uber+%c5%9f%c3%b6for%c3%bcne+sald%c4%b1rmas%c4%b1">taksicilerin uber şöforüne saldırması</a>)<br/>(bkz: <a class="b" href="/?q=taksicilerin+yine+%c3%bcber+%c5%9f%c3%b6f%c3%b6r%c3%bc+d%c3%b6vmesi">taksicilerin yine über şöförü dövmesi</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fi%c5%9fli%e2%80%99de+uber+s%c3%bcr%c3%bcc%c3%bcs%c3%bcne+sald%c4%b1ran+taksici">şişli’de uber sürücüsüne saldıran taksici</a>)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.haberturk.com/otogarda-uber-dayak-1870392" title="http://m.haberturk.com/otogarda-uber-dayak-1870392">*</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.haberturk.com/taksi-uber-kavgasi-darp-iddiasiyla-buyudu-1868910" title="http://m.haberturk.com/taksi-uber-kavgasi-darp-iddiasiyla-buyudu-1868910">*</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.haberturk.com/taksiciler-musteri-gibi-cagirdiklari-uber-soforunu-dovdu-1866849" title="http://m.haberturk.com/taksiciler-musteri-gibi-cagirdiklari-uber-soforunu-dovdu-1866849">*</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.hurriyet.com.tr/gundem/otogarda-yine-uber-dayagi-40767305" title="http://m.hurriyet.com.tr/gundem/otogarda-yine-uber-dayagi-40767305">*</a>
 - entry_name: |
     en basit mühendislik bilgisi
   entry_id:  74882692
   entry_writer: pluton bir gezegendir
-  entry_fav_count: 564
+  entry_fav_count: 582
   entry_content: |
     bir mühendis olarak hayatımın prensibidir. <br/><br/>“çalışıyorsa dokunma”
 - entry_name: |
     10 mart 2018 rte'nin bozkurt işareti yapması
   entry_id:  74893405
   entry_writer: dont eat me
-  entry_fav_count: 356
+  entry_fav_count: 358
   entry_content: |
     (bkz: <a class="b" href="/?q=yava%c5%9f+d%c3%b6n+reis+%c3%bcmmet+yeti%c5%9femiyor">yavaş dön reis ümmet yetişemiyor</a>)
-- entry_name: |
-    prada çalışanına 50 tl karşılığında poşet taşıtmak
-  entry_id:  74893189
-  entry_writer: napipdurun
-  entry_fav_count: 329
-  entry_content: |
-    işte bu tipler yüzünden sözlük bu hale geldi. ayrıca insan hayret ediyor toynaklarınla bunu nasıl yazdın diye.<br/><br/>edit: bir de mesaj'la "%100 gerçek bir olay" diye mesaj atıyor bana.ezik sanırım.<br/><br/>edit2: whatsapp grubuna attım dediğin fotoğrafı bekliyoruz ayrıca.
 - entry_name: |
     zorla fotoğrafları çekilip şantaj yapılan kız
   entry_id:  74889540
   entry_writer: koministimam2
-  entry_fav_count: 294
+  entry_fav_count: 299
   entry_content: |
     <a class="b" href="/?q=ba%c5%9fedit">başedit</a>:tehdit <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/e_u_kadin/status/972489891866120193?s=21" title="https://twitter.com/e_u_kadin/status/972489891866120193?s=21">mesajları</a><br/>piçin ses <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/e_u_kadin/status/972483267046801408?s=21" title="https://twitter.com/e_u_kadin/status/972483267046801408?s=21">kaydı</a> <br/>kızın babasının arabasının yanmış <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/e_u_kadin/status/972485565210857477?s=21" title="https://twitter.com/e_u_kadin/status/972485565210857477?s=21">hali</a><br/><br/>bu kızı twitter’dan lütfen takip edin! yalnız olmadığını bilsin, yanında milyonlar olduğu zaman bakalım yine böyle ahkam kesebilecek mi yavşak!<br/><br/>————————-////————————-<br/>istanbul’da yaşayan, bir markette kasiyer olarak çalışan bir adet yurdum kadını daha. <br/>kusura bakmayın böyle gündem yapıyoruz, belki akp istanbul kadın kolları başkanı bize kızacaktır ama kusura bakmayın sayın <sup class="ab"><a title="(bkz: akparti istanbul kadın kolları başkanı...)" href="/?q=akparti+istanbul+kad%c4%b1n+kollar%c4%b1+ba%c5%9fkan%c4%b1..." data-query="akparti istanbul kadın kolları başkanı...">*</a></sup> <br/>şimdi kınayacaksınız belki beni, zira böyle fantastik beyanlarınız var <br/><br/>(bkz: <a class="b" href="/?q=kad%c4%b1na+%c5%9fiddeti+g%c3%bcndeme+getirenleri+k%c4%b1n%c4%b1yorum">kadına şiddeti gündeme getirenleri kınıyorum</a>)<br/><br/>polis size davrandığı gibi bu insanlara davranmıyor ve korumuyor evet korumuyor hanımefendi ve elimizdeki en büyük silah ise sosyal medya ve burası da olmasa sessiz sedasız ölecek insanlar. biliyorum bunu istiyorsunuz ama olmayacak! <br/>biz kamuoyunu oluşturalım da, siz kınayın durun...<br/><br/><a class="b" href="/?q=melis+alphan">melis alphan</a> ‘ın haberi....<br/><br/>insan okurken sinirden geberiyor. inşallah cumhurbaşkanına hakaret falan etmiştir de girer içeri bi daha da çıkmaz... <br/>yoksa başka türlü bizim ülkede sapık falan içeri atılmaz...<br/><br/>kasiyer kızın twiter adresi: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/e_u_kadin/status/972383094845202432?s=21" title="https://twitter.com/e_u_kadin/status/972383094845202432?s=21">https://twitter.com/…status/972383094845202432?s=21</a><br/><br/>haberin linki : <a rel="nofollow noopener" class="url" target="_blank" href="https://t.co/P5OcknJa8u?amp=1">https://t.co/p5ocknja8u?amp=1</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>polis bu kadının ölmesini mi bekliyor?<br/>istanbul’da h.i.g. isimli erkek, 3 yıl önce, müşteri olarak geldiği markette çalışan 30 yaşındaki e.u.’yu gördü, kadının telefon numarasını buldu ve bir ay mesajlaştılar. bir gün e. adamın evine gitti. adam orada e.’yi kaba kuvvet kullanarak soydu, çıplak fotoğraflarını çekti.<br/><br/>polis bu kadının ölmesini mi bekliyor<br/><br/>bu olaydan sonra adam e.’yi zorla çektiği fotoğraflarla tehdit etti, “elimde artık bunlar var. beni bırakırsan fotoğrafları ailene, akrabalarına gönderir, seni rezil ederim” dedi.<br/><br/>e. kimse duymasın diye, bir süre adamın istediği her şeye, “tamam” demek zorunda kaldı. adam, elindekilerle yetinmiyor, e.’den çıplak fotoğraflarını çekip yollamasını istiyordu. yollamazsa tehdit ediyordu.<br/><br/>e., adamın 4-5 facebook hesabından birisinin şifresini tahmin edip hesaba girdi. gördü ki, adam sadece e.’ninkileri değil, daha pek çok kadının çıplak fotoğraflarını hesapları arasındaki mesajlarda saklıyor.<br/><br/>arabayı yaktı, molotof attı<br/><br/>e., “ne olacaksa olsun” diyerek adamla görüşmeyi kesti.<br/><br/>bunun üzerine adam, e. adına facebook’ta hesap açarak, yakınlarına kadının çıplak fotoğraflarını yolladı.<br/><br/>1 mart 2016’da e. adamı şikâyet etti. özel hayatın gizliliğini ihlal, tehdit, hakaret suçlarından adama dava açıldı. adam ilk duruşmaya gelip avukat talep etti, sonraki duruşmalara katılmadı.<br/><br/>5-6 ay ses çıkmadı. sonra adam e.’nin işyerine geldi. uzaklaştırma kararı olmasına rağmen buraya geldiği için yeni bir dava açıldı. adam, “barışmaya gitmiştim” diyerek beraat etti.<br/><br/>adam, e.’nin adıyla açtığı facebook hesaplarından kadının tanıdıklarına yine aynı fotoğrafları attı. zorla çekildiği belli olanları değil, e.’ye şantajla çektirdiklerini yolluyordu.<br/><br/>uzaklaştırma kararını da umursamıyordu. bir gün e.’nin evine geldi, kapıyı e.’nin kardeşi açtı. adam elindeki makasla onu yaralayınca, e. bıçakla araya girdi. o geceyi e. nezarette, adam hastanede geçirdi. ardından adam serbest kaldı. tutuksuz yargılandığı bir dava daha açıldı.<br/><br/>bir ay sessizlik. sonra, adam e.’nin telefonundan vaktiyle numaralarını kopyaladığı herkese whatsapp’tan e.’nin çıplak fotoğraflarını attı.<br/><br/>e. şikâyet etti.<br/><br/>adam fotoğrafları ınstagram’da paylaştı.<br/><br/>e. yine şikâyet etti.<br/><br/>bir yıl böyle geçti. adam yaptı, e. şikâyet etti.<br/><br/>adam bir gün e.’yi sokakta yakaladı, “seni ve aileni öldüreceğim” dedi. e. biber gazını sıkınca kaçtı.<br/><br/>iki ay önce, e.’nin abisi balkonda sigara içerken, adam motoruyla evin önüne gelip silahla ateş etti.<br/><br/>bir ay önce, bir gece, adam e.’nin babasının arabasını yakıp kaçtı.<br/><br/>bu olaydan birkaç gün önce adam e.’nin abisinin eşini aramış, “bu işin sonunda çok can yanacak” demiş, e.’ye de “babandan başlayacağım” diye mesaj atmıştı.<br/><br/>arabayı yaktıktan sonra e.’ye attığı mesajlarda şimdi onu yakacağını söylüyor.<br/><br/>en son bu hafta başında gecenin bir vakti e.’nin evinin camına molotof attı. neyse ki, molotof camın altına çarpıp yerde patladı.<br/><br/>polisin kayıtsızlığı<br/><br/>büyükçekmece 14, 15 ve 16. asliye ceza mahkemesi’nde görülen davalar var. temyizde dosya var. e.’nin 6 şikâyeti, babası ve abisinin şikâyetleri var.<br/><br/>davalar açılıp duruyor, duruşmalar oluyor ama adam ortada yok. ikametgâh adresinde yaşamıyor, telefonlara çıkmıyor. polis adamı bir türlü bulamasa da, adam sürekli e.’nin evinin etrafında dolanıyor.<br/><br/>en son e. adamın, “evini, abinin evini yakacağım, 3 yaşındaki yeğenin de yanacak. ömür boyu peşindeyim. iş yerine gelip benzin döküp yakacağım seni” yazdığı mesajlarla şikâyete gittiğinde, ilk kez savcı gözaltı kararı çıkardı.<br/><br/>polis bulamıyor tabii, o ayrı.<br/><br/>e.’nin ifadesini alan polis, “mahkemeden bir gün önce haber verirsin, seni götürürüz” deyince e. haliyle, “peki işe gidip gelirken kim koruyacak?” diye sordu. polis, eğer günlük ihtiyaçlarını sağlar ve ona araba gönderirse e.’yi koruyabileceğini söyledi. e., “benim zaten o kadar param olsa gider özel koruma tutardım” dedi. polisin önerisi, “o zaman sığınma evine git” oldu. e.’nin yine haklı bir cevabı vardı: “çözüm değil. çünkü sadece ben değil, ailem de tehdit altında.” polis son olarak, “sen o evden gittikten sonra ailene bir şey yapamaz” dedi ve uzaklaştı.<br/><br/>oysa yapar.<br/><br/>adam e.’ye söylemişti: “benim kaybedeceğim bir şey yok. sonunda zaten hapse gireceğim. hiç olmazsa öldürür, öyle girerim<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a class="b" href="/?q=edit">edit</a>: bir adet gülay mübarek olayı daha...<br/>bu da tehdit mesajları... <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/e_u_kadin/status/972441209682710529?s=21" title="https://twitter.com/e_u_kadin/status/972441209682710529?s=21">https://twitter.com/…status/972441209682710529?s=21</a><br/>bu herif yakalanana kadar elimizden gelen tek şey kamuoyu oluşturmak ve tekrar söylüyorum tek yapabileceğimiz şey twiter ve sözlüklerden bu konuyu olabildiğince herkese duyurmak..
-- entry_name: |
-    daha yeni bir arabaya binseler ölmeyeceklerdi
-  entry_id:  74886181
-  entry_writer: kozzy
-  entry_fav_count: 246
-  entry_content: |
-    savunmadan bağımsız olarak, ölümlü trafik kazalarında çok sık düşündüğüm şey. <br/>ağır vergiler olmasa picanto alacağım paraya volvo alırdım ve kazada yaşama şansım artardı. kaderi bile vergilerin belirlediği bir ülke.
 - entry_name: |
     kendi dizisi çekilse tutacak dizi yan karakterleri
   entry_id:  74889149
   entry_writer: everythingsfine
-  entry_fav_count: 204
+  entry_fav_count: 207
   entry_content: |
     tabikide (bkz: <a class="b" href="/?q=burhan+alt%c4%b1ntop">burhan altıntop</a>)
+- entry_name: |
+    prada çalışanına 50 tl karşılığında poşet taşıtmak
+  entry_id:  74893207
+  entry_writer: murtaza gelsin
+  entry_fav_count: 161
+  entry_content: |
+    100 tl vererek başlığını açtırdığım eylem.
 - entry_name: |
     mini etekli bir kızın arkasından merdiven çıkmak
   entry_id:  74887285
@@ -73,6 +66,13 @@ data:
   entry_content: |
     genelde yan durur mağazalara bakıyor gibi yaparım.<br/><br/>ama 1 2 kere de çaktırmadan bakarım ne yalan söyleyeyim.
 - entry_name: |
+    en basit askerlik bilgisi
+  entry_id:  74897946
+  entry_writer: acad r12 for dos
+  entry_fav_count: 129
+  entry_content: |
+    duran şeyleri boya, hareket eden şeylere selam ver.
+- entry_name: |
     rusların en iyi olduğu konu
   entry_id:  74883828
   entry_writer: axlfan
@@ -80,31 +80,24 @@ data:
   entry_content: |
     cs go da hack kullanmak.<br/>cyka blyet.
 - entry_name: |
-    en basit askerlik bilgisi
-  entry_id:  74897946
-  entry_writer: acad r12 for dos
-  entry_fav_count: 124
-  entry_content: |
-    duran şeyleri boya, hareket eden şeylere selam ver.
-- entry_name: |
     yunanlıların en iyi olduğu konu
   entry_id:  74896433
   entry_writer: ad astra per aspera
-  entry_fav_count: 97
+  entry_fav_count: 100
   entry_content: |
     yunanların değil de atalarının en iyi olduğu konu farklılıklara saygı. hatırlayamadığım bir kaynakta şöyle yazıyordu: " mevcut halinizle milat öncesi zamanlara gönderilseniz dünyanın neresine giderseniz gidin insanlar sizi farklı ve dolayısıyla tehlikeli göreceklerinden öldürürler. sadece antik yunanlar anlamaya çalışır".<br/><br/>edit: imla
 - entry_name: |
     en basit futbol bilgisi
   entry_id:  74889166
   entry_writer: trollerde aglar
-  entry_fav_count: 91
+  entry_fav_count: 92
   entry_content: |
     beşiktaş her zaman mağdurdur.
 - entry_name: |
     cinsel ilişkiye girmekten hoşlanmıyorum
   entry_id:  74895919
   entry_writer: fxinturevi
-  entry_fav_count: 86
+  entry_fav_count: 89
   entry_content: |
     (bkz: <a class="b" href="/?q=icloud+bunu+be%c4%9fendi">icloud bunu beğendi</a>)
 - entry_name: |
@@ -118,7 +111,7 @@ data:
     en basit tıbbi bilgi
   entry_id:  74882547
   entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 73
+  entry_fav_count: 74
   entry_content: |
     (bkz: <a class="b" href="/?q=s%c3%bcd+zehri+al%c4%b1r">süd zehri alır</a>)
 - entry_name: |
@@ -129,6 +122,13 @@ data:
   entry_content: |
     * operasyon hızlı ilerliyor. sabahtan beri 4 köy alındı. <br/><br/>* afrin merkeze azez tarafından ulaşıldı. dün afrin merkezini gören fotoğraf atıldı. muhtemelen diğer taraflardan da gelerek şehir kuşatılacak. <br/><br/>* afrin'in her tarafı çevrilmiş durumda. sadece esad bölgesinden bir giriş kapısı var. ancak tsk/öso, bu giriş kapısından gelen yolları da tutmuş durumda. buradan gelen konvoyları görerek vurabilirler. <br/><br/>* ilerleyiş pkk/ypg'de ve taraftarlarında travmatik etkiler yapıyor. bir alman eyalet başkanının attığı twit : <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/SonKaleTurkiye2/status/972378259815108608" title="https://twitter.com/SonKaleTurkiye2/status/972378259815108608">https://twitter.com/…iye2/status/972378259815108608</a><br/><br/>* dışişleri bakanı çavuşoğlu, dün "abd ile menbiç ve fırat'ın doğusu ile anlaştık" diye alman basınına açıklama yaptı. detayını bugün öğrendik, komisyon kurulması olayından bahsediyormuş. ekstra bir anlaşma yok, olacağını da sanmam. abd'nin klasik oyalama taktikleri bunlar... <br/><br/>* dünkü türkiye-abd komisyon toplantısında, abd tarafı afrin'i masaya yatırmak istemiş. generalimiz: "bizim afrin diye bir sorunumuz yok" deyince jet hızıyla konu kapanmış. <br/><br/>* dün abd başkanı trump, çeliğe ve aliminyuma ek gümrük vergisi kararını, tüm tepkilere rağmen imzaladı. bununla ticaret savaşlarını başlatmış oldu. bunu soğuk savaşın bir öncesi hamle olarak yorumlayanlar var. <br/><br/>abd, senelerce "dünya köy haline geldi. bu çağda ne vergisi, ne gümrüğü. açın sınırları, herkes istediğini satsın. liberal ekonomi..." diye herkese ürün sattı. şimdi işler tersine dönüp, ekonomi alanında geriye düşünce; ilk işi gümrük vergisi koymak oldu. böyle de adiler...
 - entry_name: |
+    uber aracının silahlı saldırıya uğraması
+  entry_id:  74901949
+  entry_writer: zafersproblemset
+  entry_fav_count: 69
+  entry_content: |
+    (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)
+- entry_name: |
     en basit ekonomi bilgisi
   entry_id:  74881455
   entry_writer: cimbi
@@ -136,12 +136,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=pazarl%c4%b1k+s%c3%bcnnettir">pazarlık sünnettir</a>)
 - entry_name: |
-    maaşı geciktiren patron
-  entry_id:  74886049
-  entry_writer: choose and circle
-  entry_fav_count: 51
+    atatürk yerine karabekir'in cumhurbaşkanı olması
+  entry_id:  74887779
+  entry_writer: avasas
+  entry_fav_count: 54
   entry_content: |
-    bol küfür yer. o yüzden işleri de rast gitmez. mesela. uyarılar yuzunden ünvanı sildim, ünlü bir tv kanalı sahibi her haftasonu 3000 lira harcar kendi zevki için. oğlunun altına bmw jip çeker. ama işçilerinin maaşlarını 3 ay gecikmeli öder. kendisine yatacak yer araması tavsiye edilir.
+    (bkz: <a class="b" href="/?q=kaz%c4%b1m+karabekir">kazım karabekir</a>)<br/>(bkz: <a class="b" href="/?q=ben+ve+kolordum+emrinizdeyim+pa%c5%9fam">ben ve kolordum emrinizdeyim paşam</a>)
 - entry_name: |
     ahmet şık
   entry_id:  74879959
@@ -153,16 +153,30 @@ data:
     fakirlerin isyan edip ayaklanmama nedeni
   entry_id:  74893909
   entry_writer: axlfan
-  entry_fav_count: 39
+  entry_fav_count: 44
   entry_content: |
     öldükten sonra cenneti yaşayacaklarına inanmalarıdır.<br/>sınırsız kadın ve şarap şelaleleri gibi.
 - entry_name: |
     en basit satranç bilgisi
   entry_id:  74899207
   entry_writer: s d o
-  entry_fav_count: 36
+  entry_fav_count: 43
   entry_content: |
     (bkz: <a class="b" href="/?q=oyun+bitince+%c5%9fah+da+piyon+da+ayn%c4%b1+kutuya+at%c4%b1l%c4%b1r">oyun bitince şah da piyon da aynı kutuya atılır</a>)<br/><br/>zaaa.
+- entry_name: |
+    galatasaray'ın kadıköy'de fenerbahçe'yi yenmesi
+  entry_id:  74886692
+  entry_writer: yuruyedur
+  entry_fav_count: 41
+  entry_content: |
+    artık fenerbahçe bile kadıköy de yenemiyor biz hiç yenemeyiz.
+- entry_name: |
+    cenk tosun
+  entry_id:  74901749
+  entry_writer: keci surat
+  entry_fav_count: 37
+  entry_content: |
+    bugun guzel bir <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/ph6or" title="https://streamable.com/ph6or">gol</a> atmis futbolcu. <a class="b" href="/?q=goodison+park">goodison park</a>'taki ilk golu.
 - entry_name: |
     fi
   entry_id:  74881115
@@ -171,33 +185,26 @@ data:
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dizide geçen olaylar sonda imzaladığı kitabın (bir insan yaratmak) konusuymuş ve yarattığı insanı (duru) karşısında görüyor işte. hapisten ya da akıl hastanesinden nasıl çıkmış diyenler mi anlamadı ben mi bir tarafımdan uydurdum şüpheye düştüm.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
-    cenk tosun
-  entry_id:  74901749
-  entry_writer: keci surat
-  entry_fav_count: 32
-  entry_content: |
-    bugun guzel bir <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/ph6or" title="https://streamable.com/ph6or">gol</a> atmis futbolcu. <a class="b" href="/?q=goodison+park">goodison park</a>'taki ilk golu.
-- entry_name: |
     italyanların en iyi olduğu konu
   entry_id:  74889451
   entry_writer: mahoaganinkuluyam
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     (bkz: <a class="b" href="/?q=abartmak">abartmak</a>)<br/><br/>burda barzoların yaptığı "olumm şöyle siktim böyle siktim karı 2 gün yürüyemedi vs." tarzı leş muhabbetleri daha ballandıra ballandıra ve italyanca anlatınca italyanca bilmeyen diğer insanlara hoş geliyor.<br/><br/>ibnelerin her hareketi abartı, yarram bir ekmek yapıyor izliyorum yutubda boku boka sürmek deyiminin hakkını vererek saçma sapan bir ekmek yaptı 2 dakika yapımı sürdü 13 dakika ekmeğini övdü göt oğlanı.
 - entry_name: |
     bir kızın bir erkeği kesmesinin nedeni
   entry_id:  74879576
   entry_writer: sibylvane
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     dondurucuya sığmamasıdır.
 - entry_name: |
-    türkiye cumhuriyeti'ni sevmek için tek neden
-  entry_id:  74892162
-  entry_writer: mantiksuzgeci
-  entry_fav_count: 23
+    ekonominin kötüye gidişinin göstergeleri
+  entry_id:  74878965
+  entry_writer: dituba
+  entry_fav_count: 26
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>insan memleketini niye sever? başka çaresi yoktur da ondan. ama biz biliriz ki bir yerde mutlu mesut olmanın ilk şartı orayı sevmektir. burayı seversen, burası dünyanın en güzel yeridir. ama dünyanın en güzel yerini sevmezsen, orası dünya'nın en güzel yeri değildir...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=izw9jInfs_o" title="https://www.youtube.com/watch?v=izw9jInfs_o">ilgili video</a>. en nihayetinde ben bu ekolden geliyorum. nedenim de bu .
+    20 yıldır ilk kez, maliye memurları sözde denetim için iş yerine gelip, boşuna direnmeyin, biz bugün ceza kesmeye geldik diyorlarsa, yani devlet eşkiyalığa başvuruyorsa, durum gerçekten vahim demektir.
 - entry_name: |
     aşk-ı memnu'dan akılda kalanlar
   entry_id:  74887821
@@ -206,12 +213,12 @@ data:
   entry_content: |
     kimse yazmamış hayret..<br/><br/>ben :)
 - entry_name: |
-    uber aracının silahlı saldırıya uğraması
-  entry_id:  74901949
-  entry_writer: zafersproblemset
+    geceye unutulmayan bir futbol maçı bırak
+  entry_id:  74884364
+  entry_writer: lafleur96
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)
+    (bkz: <a class="b" href="/?q=25+may%c4%b1s+2005+milan+liverpool+ma%c3%a7%c4%b1">25 mayıs 2005 milan liverpool maçı</a>)
 - entry_name: |
     fransız arabaları vs alman arabaları
   entry_id:  74886817
@@ -237,7 +244,7 @@ data:
     edirne'de köpek katliamı
   entry_id:  74883864
   entry_writer: cendhalus
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BgEqvQngecc/" title="https://www.instagram.com/p/BgEqvQngecc/">edirne’de köpek katliamı</a><br/><br/>sosyal medyada durmadan çevreci paylaşımlar yapan, zamanında trakya üniversitesi genel sekreterliği yapmış chp’li sayın belediye başkanı <a class="b" href="/?q=recep+g%c3%bcrkan">recep gürkan</a> beyefendiye sormak lazım, nedir bu rezalet? günlerdir edirne’deki hayvan hakları savunucuları durmadan edirne’deki sokak köpeklerine ne olduğunu sormakta, toplu bir katliama maruz kaldıklarına dair ciddi şüpheleri olduğunu dile getirmektedirler ve edirne belediyesi ısrarla bunu yalanlamaktaydı. hatta utanmadan edirne’ye kar yağdığında sokaktaki dostlarımızı unutmadık diye sokak köpeklerine yemek verirken çekmiş oldukları videoları sosyal medyada paylaşmaktaydılar. başta recep gürkan olmak üzere bu olayın şüphelilerine sormak lazım; edirne’deki köpek barınağı ne için vardır? yeterli yer yok ise, hayvan hakları savunucuları hatta onlara hiç gerek kalmadan hayvan sevgisinin fazlasıyla bulunduğu edirne halkından işbirliği talep edilse bir çözüm bulunamaz mıydı? savunmasız onlarca canlıya zarar vererek, yaşamlarını sonlandırarak hangi çağdaş ilkeyi yerine getirmiş oldunuz? recep gürkan özellikle twitterı aktif kullanır, lütfen tepkisiz kalmayalım; <br/>recep gürkan (@recepgurkan) adlı kişiye göz at: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/recepgurkan?s=09">https://twitter.com/recepgurkan?s=09</a><br/><br/>ilgili haberler;<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.edirneyenigun.com/haber/17959/kose-bucak-kopekleri-ariyorlar.html" title="http://www.edirneyenigun.com/haber/17959/kose-bucak-kopekleri-ariyorlar.html">http://www.edirneyenigun.com/…ekleri-ariyorlar.html</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenisafak.com/gundem/edirnede-500-kopek-kayboldu-iddiasi-3109880" title="https://www.yenisafak.com/gundem/edirnede-500-kopek-kayboldu-iddiasi-3109880">https://www.yenisafak.com/…kayboldu-iddiasi-3109880</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/921825/Edirne_de_500_kopek_kayboldu_iddiasi.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/921825/Edirne_de_500_kopek_kayboldu_iddiasi.html">http://www.cumhuriyet.com.tr/…kayboldu_iddiasi.html</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.posta.com.tr/edirne-de-kayip-500-kopek-araniyor-haberi-1385968" title="http://www.posta.com.tr/edirne-de-kayip-500-kopek-araniyor-haberi-1385968">http://www.posta.com.tr/…ek-araniyor-haberi-1385968</a>
 - entry_name: |
@@ -255,6 +262,13 @@ data:
   entry_content: |
     lgbt bireyleri için facebook profilimi rengarenk yapıyorum, taksim'e gidip ulu orta bir taraflarını parmaklıyorlar.<br/><br/>emekçi kadınlar şöyle değerlidir böyle bilmem nedir diye paylaşımda bulunuyorum, pankartlarıyla kuştepe çingeneleri aratmıyorlar.<br/><br/>sikerim ezilmişliğinizi azınlıklaşmışlığınızı. ne haliniz varsa görün.
 - entry_name: |
+    çikolatalı gofret satarak 7 milyar dolar kazanmak
+  entry_id:  74900715
+  entry_writer: monoditri
+  entry_fav_count: 11
+  entry_content: |
+    bahsedilen gofret firmasının kuruluş tarihi 1944tür. hadi abi gofret işine girelim diyip girerek aynı randıman alınmaz gibi.<br/><br/>en iyisi işlek caddede büfe.
+- entry_name: |
     hollanda'da halkın wc'den sonra elini yıkamaması
   entry_id:  74880696
   entry_writer: ebmoldcity
@@ -269,19 +283,12 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=have+you+tried+turning+it+off+and+on+again">have you tried turning it off and on again</a>)
 - entry_name: |
-    10 mart 2018 manchester united liverpool fc maçı
-  entry_id:  74897802
-  entry_writer: homest
-  entry_fav_count: 7
-  entry_content: |
-    salah a, salak diyen, sıradan savunmalara gol atıyor diyip iyice sıvayan bir mal beyanı sunan arkadaş; anlaşılan premier lig izlemiyorsun. çok zorlama kendini. mal salak diyip kendini bu duruma düşürüyorsun haberin yok.
-- entry_name: |
-    çikolatalı gofret satarak 7 milyar dolar kazanmak
-  entry_id:  74900715
-  entry_writer: monoditri
+    meral akşener
+  entry_id:  74898703
+  entry_writer: bir cevabim yok ama soru guzelmis
   entry_fav_count: 6
   entry_content: |
-    bahsedilen gofret firmasının kuruluş tarihi 1944tür. hadi abi gofret işine girelim diyip girerek aynı randıman alınmaz gibi.<br/><br/>en iyisi işlek caddede büfe.
+    ahmet şık" a destek vermek hukuk dışılığı, haksızlığa karşı taraf olmaktır. bu tüm ideolojiler ve siyaset üstü bir duruştur. yoksa ne ahmet'in ne de meral akşener' in taraf değiştirmişliği vardır <br/>yapacağınız algıyı siktirtmeyin, hangi partiye destek verirseniz, verin önce insan olun.<br/>tanım: sağ tarafta alternatif oluşturabilme ihtimali olan siyasetçi.
 - entry_name: |
     ilişki bitince atılamayan eşyalar
   entry_id:  74880367
@@ -293,16 +300,16 @@ data:
     nur subaşı
   entry_id:  74899477
   entry_writer: hayrullah amazingogullari
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     <a class="b" href="/?q=c%c3%bcneyt+t%c3%bcrel">cüneyt türel</a> ile birlikte ülkedeki en karizmatik sese sahip sanatçıydı. gidişi üzmüştür. hep <a class="b" href="/?q=%c5%9firinler">şirinler</a>'in girişindeki yaptığı seslendirmeyle hatırlayacağım kendisini.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=VAy4Sf10g9k">https://www.youtube.com/watch?v=vay4sf10g9k</a>
 - entry_name: |
-    uber
-  entry_id:  74890235
-  entry_writer: mal bulmus magribi
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+  entry_id:  74901583
+  entry_writer: minesota
   entry_fav_count: 2
   entry_content: |
-    taksiciler uber şöförü dövdükçe hem insanları ticari taksilerden soğutuyorlar hem de uberi bilmeyen insanlarda uber de nedir acaba diye merak uyandırıyorlar. bu uberi bilmeyip te meraktan kullanan insanlar da bir kez deneyip memnun kalınca artık üste para verseler de ticari taksi kullanmaz. <br/><br/>ticari taksiciler belki hala farkında değil ama istemeyerek de olsa uberin reklamını yapıyorlar ve uberin ekmeğine yağ sürüyorlar. üstelik zaten sevilmeyen ticari taksiciler kendilerinden daha çok nefret ettiriyorlar. <br/><br/>böyle devam edip bir iki uber şöförü daha darp ederlerse ellerindekinden de olacaklar haberleri yok. <br/><br/>ben onların yerlerine olsam ubere kaydolur ve müşteri memnuniyetini en üst düzeyde tutarak böyle bir teknolojiden faydalanmanın yoluna bakardım. <br/><br/>forza uber, hep destek tam destek.
+    dışarı çıkmak kolay, böcek ilaçlaması sonrası bok götüren evime ince temizlik yapabilecek arkadaş arıyorum. <br/><br/>hodri meydan, herkes dışarı çıkabilir ama kim içeri girebilecek görelim.<br/><br/>ist anadolu yakası.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  74879053
@@ -311,26 +318,12 @@ data:
   entry_content: |
     bir çok insanın samimiyetsiz bir şekilde yazdığına inandığım veritabanıdır.<br/><br/>efenim şöyle ki; bundan bir kaç ay önce bu tarz bir ilana rastladım.bir kaç entrysini okudum yazan arkadaşın, samimi bir arkadaş zannettim ve bütün samimiyetimle "anlat hacı abi, dinliyorum seni" tarzı bir mesaj yazdım. dönmedi tabii ki. neden? e amk o'nun derdi başka, sürttürecek hatun arıyor, n'apsın benim gibi sapı gecenin bir saati dimi?<br/><br/>samimi olun, en azından diyalog kurmak istediğiniz insanın cinsiyetini belirtin.”<br/><br/>demiş bir arkaşımız. e hala güncel, hala doğru.<br/><br/>not: dünden bugüne yenilendi.
 - entry_name: |
-    geceye unutulmayan bir futbol maçı bırak
-  entry_id:  74900491
-  entry_writer: 0110010101101110011101000111001001101111
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=9+kas%c4%b1m+1988+galatasaray+neuchatel+xamax+ma%c3%a7%c4%b1">9 kasım 1988 galatasaray neuchatel xamax maçı</a>)<br/><br/>80’lerde çocuk olanlar için daha ötesi yoktur, olamaz sanırım.
-- entry_name: |
     9 mart 18 izmirgaz çalışanının saldırısı rezaleti
   entry_id:  74900501
   entry_writer: ourgodgivenrighttobeararms
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     bornovadaki evimize 4 kere gelip sırf bahşiş vermiyoruz diye (sonradan emlakçı ayıktırdı) hiç bir sorunu olmayan doğalgazı açmadan 4 kere geri dönen ve en sonunda para karşılığında gazı açan izmirgaz çalışanlarının olduğunu bildiğim için şaşırmadığım durum.
-- entry_name: |
-    türkiye'de laikliği kaldırsanız hiçbir şey olmaz
-  entry_id:  74881923
-  entry_writer: kesesini kaybeden kanguru
-  entry_fav_count: 0
-  entry_content: |
-    türkiye de laiklikği bunun gibi fetö severler içini boşalttı ve sonuç olarak fetö terör örgütü doğdu.<br/>laiklik işte bu cemaatçi o.çocuklarının önündeki settir. bu adamlar ise o seti hazmedemiyor.<br/>çünkü cehalet ve din ile ülkeyi istedikleri gibi şekillendirmek istiyorlar.<br/><br/>işte o yüzden abd dürtmesi ile saldırıyorlar laikliğe. zira abd laikliğin olmadığı bir ülkeyi rahatça afganistan'a çevirip, istediği gibi idare edeceğini biliyor.<br/><br/>atamız ne kadar büyük bir insanmış. bunca o.çocukluğunu, adam 70-80 sene önce görmüş ve teminat olarak laikliği getirmiş.
 - entry_name: |
     mustafa öğretmenoğlu
   entry_id:  74884224
@@ -339,17 +332,24 @@ data:
   entry_content: |
     10.03.2018 tarihli beşiktaş - gençlerbirliği maçına verilen hakem. inşallah iyi bir yönetim gösterir ve rezalet olan süper lig hakemlerine yeni bir rezil hakem eklenmez
 - entry_name: |
-    ilk görüşte aşık olunan şehirler
-  entry_id:  74879293
-  entry_writer: kahlua lover
+    beylikdüzü istanbul'un izmir'idir
+  entry_id:  74901046
+  entry_writer: pamuk adam
   entry_fav_count: 0
   entry_content: |
-    ilk görüşte aşkı geçtim her şeyi, herkesi geride bırakıp o an yerleşmek istediğim yer <a class="b" href="/?q=fatsa">fatsa</a> idi. yeşil / mavi kombinasyonunun en iyi tonunu orada yakaladığıma inanıyorum.
+    doğru belkide öyledir ama izmirin neresi bence basmane olabilir haklısın
 - entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  74896257
-  entry_writer: jessusse
+    başlık açtığında kimsenin siklememesi
+  entry_id:  74903158
+  entry_writer: başlık taşıyan
   entry_fav_count: 0
   entry_content: |
-    fethiye'de balık tutmaya ya da bisiklet sürmeye gidebileceğim biri varsa yeşillendirsin.
+    (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1k+a%c3%a7%c4%b1p+siklenmemek">başlık açıp siklenmemek</a>)
+- entry_name: |
+    baharın geldiğinin anlaşıldığı an
+  entry_id:  74896075
+  entry_writer: otlukek
+  entry_fav_count: 0
+  entry_content: |
+    bir şeye heyecanlanırken ya da sevinirken göğüse oturan ani ağırlık. bir bahar daha geldi ve sen yine işsizsin. yine sevdiğin birileri ve arkadaşların yok. gelecek planları gazı kaçmış kola gibi. aşırı heves ve hevessizlik arasında bocaladığın an bahar gelmiş demektir.
 ---
