@@ -35,11 +35,6 @@
   <!-- Latest compiled and minified JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <script src="/public/app.js"></script>
-  <script>
-  function resizeIframe(obj) {
-	  obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-  </script>
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
