@@ -6,14 +6,14 @@ data:
     erkek yazarların saç tıraşı için ödediği ücret
   entry_id:  74991119
   entry_writer: righteous man
-  entry_fav_count: 377
+  entry_fav_count: 386
   entry_content: |
     (bkz: <a class="b" href="/?q=ger%c3%a7ekten+yaz%c4%b1yorlar">gerçekten yazıyorlar</a>)
 - entry_name: |
     pelin çift'in canlı yayında yaptığı saygısızlık
   entry_id:  74991169
   entry_writer: rosencruz
-  entry_fav_count: 324
+  entry_fav_count: 340
   entry_content: |
     ya oğlum siz de ne kurcalıyorsunuz. kız trt'de yağlı kapı bulmuş, yağmur yağarken küpünü dolduruyor. senin elektrik faturanla sana masal anlatıyor. <br/><br/>ekmeğinin peşinde. osmanlı, abdülhamit ıı, kayı boyu, oğuzlar, dirilişler, şahlanışlar bu ara popüler işte. kız da programını yapıyor. arada kitap mitap da çıkarıyor sakalına bakıyor. kim ne yapsın gerçek tarihi? duymak istediklerini veriyor malum kitleye, hem de devlet televizyonunda. suyu bulandırmayın canım siz de. bunun çakması bile çıktı, bu aralar o derece popüler bu sarışın tarihçiler :)<br/><br/>ha unutmadan bir de kel var bir tane. sanat tarihçisi mi ne? o da sonradan iyi yanladı malum kitleye. o da dolduruyor küpünü. yiyin efendiler yiyin. döner elbet bu devran.
 - entry_name: |
@@ -24,73 +24,73 @@ data:
   entry_content: |
     bazı ilerizekalı arkadaşların milyonlarca lira kar eden firmaların vergi borçlarını silinmesine laf etmeyip, okumak için öğrenim kredisi çeken ve ödemeyecek durumda olanların ben ödedim sende öde demesine neden olan durum. <br/><br/>kardeşim vergini verdiğin halde büyük firmaların vergi borcuna af geldiğinde neden çıkıp bişeyler demiyorsunda gelip burda ahkam kesiyordu.
 - entry_name: |
-    13 mart 2018 mühürsüz oyların yasalaşması
-  entry_id:  74990364
-  entry_writer: one cut the source of the flow
-  entry_fav_count: 273
-  entry_content: |
-    meclisten geçmiş. şüpheli bir durum olmadığı sürece mühürsüz olması sıkıntı olmayacakmış. şüpheli bir durum olmadığı süreceymişahahahahahaha<br/><br/>sadece chp'nin halkı yardıma çağırması başlığı açılmış ve başka yerlere gitmiş olay.<br/>niye kimse konuşmuyor bunu burada? öpüşen çift ve taksicilerden sıra mı gelmedi bende mi bi yanlış var dostlar? <br/><br/>ilgili haber:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/toplum/akpnin-meclisinde-bugun-muhursuz-oylar-artik-serbest-231383" title="http://haber.sol.org.tr/toplum/akpnin-meclisinde-bugun-muhursuz-oylar-artik-serbest-231383">http://haber.sol.org.tr/…oylar-artik-serbest-231383</a><br/><br/>edit: sakinleşmememiz, sinirlenmemiz ve daha da sinirlenmemiz lazım belki. gene de benim gibi sakinleşmek isteyenler için bir video bırakıyorum: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=w27OoaK5lKM">https://www.youtube.com/watch?v=w27ooak5lkm</a>
-- entry_name: |
     12 mart 2018 dur ihtarına uymayan gencin vurulması
   entry_id:  74998213
   entry_writer: tk2154clearedfortakeoffrunway03r
-  entry_fav_count: 269
+  entry_fav_count: 297
   entry_content: |
     akp'li değilim sikseler de oy moy vermem ama yıllardır ohal ile yaşadığın ülkede kalkıp polisin dur ihtarına uymuyorsan ya saf salaksındır, ya terörist ya da sağır...<br/><br/>ha avrupa amerika vs vs diye bik bik ötecek olanlara da peşinen edit: farklısı olmaz, denemek isteyen varsa bilet parası benden siktirip gidip yapsın bakalım dönüş uçağında koltukta mı geliyor, kargo bölümünde tabut içinde mi görelim
+- entry_name: |
+    13 mart 2018 mühürsüz oyların yasalaşması
+  entry_id:  74990364
+  entry_writer: one cut the source of the flow
+  entry_fav_count: 281
+  entry_content: |
+    meclisten geçmiş. şüpheli bir durum olmadığı sürece mühürsüz olması sıkıntı olmayacakmış. şüpheli bir durum olmadığı süreceymişahahahahahaha<br/><br/>sadece chp'nin halkı yardıma çağırması başlığı açılmış ve başka yerlere gitmiş olay.<br/>niye kimse konuşmuyor bunu burada? öpüşen çift ve taksicilerden sıra mı gelmedi bende mi bi yanlış var dostlar? <br/><br/>ilgili haber:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/toplum/akpnin-meclisinde-bugun-muhursuz-oylar-artik-serbest-231383" title="http://haber.sol.org.tr/toplum/akpnin-meclisinde-bugun-muhursuz-oylar-artik-serbest-231383">http://haber.sol.org.tr/…oylar-artik-serbest-231383</a><br/><br/>edit: sakinleşmememiz, sinirlenmemiz ve daha da sinirlenmemiz lazım belki. gene de benim gibi sakinleşmek isteyenler için bir video bırakıyorum: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=w27OoaK5lKM">https://www.youtube.com/watch?v=w27ooak5lkm</a>
 - entry_name: |
     çiftlik bank
   entry_id:  74975306
   entry_writer: roket adam
-  entry_fav_count: 199
+  entry_fav_count: 201
   entry_content: |
     ben seviyorum bu olayları, çiftlik bank ve benzeri oluşumlara ben bir nevi özel eğitim kurumu gözüyle bakıyorum. dershane gibi bir şey yani, parayı veriyorsun dersini alıyorsun, oturuyorsun aşağı. <br/><br/>amerika'da, almanya'da, isviçre'de, israil'de, çin'de, malezya'da, finlandiya'da dünyanın dört bir yanında insanlar 4 yaşından 30 yaşına kadar okuyorlar, üstüne deli gibi çalışıyorlar, o yıllarca verilmiş emeğin karşılığında 3-5 kuruş maaşla para kazanıp yaşayıp gidiyorlar. bizim mahalledeki bu ahmet abiler de kolay yoldan para kazanacak ya, çok zekiler ya, bu eğitimli arkadaşlara her türlü saygısızlığı yapar, okudun diye sana keriz gözüyle bakar. her ortamda vardır bu ahmet abi. hiç şaşmaz, muhafazakardır, osmanlıcıdır, dindardır, dinini ülkesini sever ama cebini daha çok sever. tüm dünya salak, bi sen akıllısın di mi ahmet abi? bi bıraksalar, bu eşsiz köylü zekanla yorulmadan milyoner olacaksın di mi ahmet abi?<br/><br/>işte bu abiler böyle oluşumlara para gömüp zengin olmanın peşinde koşarken aslında çok pahalı bir eğitim programı satın aldıklarının farkına varıyorlar işin sonunda. maalesef çok geç oluyor, bi bakmışsın anneannenin bileziklerine kadar geçirmişler tavukları. işte bütün gün kahvede osmanlıcılık oynayacağına ilköğretimi bitirseydin belki üç-beş ibret alırdın tarihten ama nafile; kulaklar gözler kapalı, beyinden zaten eser yok! hadi geçmiş olsun ahmet abi.<br/><br/>"çalışmadan, öğrenmeden, yorulmadan rahat yaşamanın yollarını aramayı alışkanlık haline getirmiş milletler; evvela haysiyetlerini, sonra hürriyetlerini ve daha sonra da istikballerini kaybetmeye mahkumdurlar." - mustafa kemal atatürk.
 - entry_name: |
     siyasetçinin adını söylemeden anlat
   entry_id:  74988914
   entry_writer: snoop dogg millionaire
-  entry_fav_count: 175
+  entry_fav_count: 178
   entry_content: |
     yazarlar bu başlık altına yazarak ne yapmak nereye varmak istemektedir?
 - entry_name: |
     zengin koca bulup evlenmek
   entry_id:  74982114
   entry_writer: kedi mi olsaymisim ben acaba
-  entry_fav_count: 134
+  entry_fav_count: 137
   entry_content: |
     gençken hiçbir anlam ifade etmeyen bu eylem 30 yaşından sonra kulağa giderek daha mantıklı gelecektir.<br/><br/>siz 20'li yaşlarda "aşık olayım yeter. isterse manavda limon satsın, ben çalışır ikimize de yetecek kadar para kazanırım. gerekirse sokakta yaşarız, birbirimize sahipken başka hiçbir şeyin önemi yok" derken 30 yaşına gelip beş para etmez adamların altında haftada 6 gün günde 10 saat çalışıp da, iki kuruşluk fuzuli alışveriş yaptım diye vicdan azabı çektiğinizde hayat kendini şöyle güzelce bir sorgulatır.<br/><br/>etrafınızda zengin adamlarla/kadınlarla evlenip çalışmayan, çatır çutur koca/karı parası yiyen, buna rağmen partnerinden sınırsız saygı ve sevgi gören insanlar gözünüze gözünüze batmaya başlar.<br/><br/>millet götüne desteyle koca parası sokarken, kendi yediğini içtiğini bile ısmarlatmayıp ödeyen siz, sizden iki kuruş daha fazla parası var diye evlilik sözleşmesi talep eden sevgilinizle yetinmek durumunda kalırsınız.<br/><br/>siz sabahın sikinde uyanıp işe giderken zengin koca sahibi insanlar öğlene kadar mis gibi uyuyup, sporunu bakımını yapıp, akşama şıkır şıkır giyinip dışarı çıkar. sizin iş kıyafetleriyle yorgun argın katıldığınız bu aktivitelerde, kendisi de aslında çok bir bok olmayan sevgiliniz ise sizinle iki kelam etmek yerine bu hatunları kesmeyi yeğler.<br/><br/>işte o anlar "sıçayım böyle hayatın içine" der ve birisiyle parası için evlenmiş kaypak insanlardan biri olmuş olmak istersiniz.
 - entry_name: |
     kıvanç tatlıtuğ'un yürek dağlayan yeni imajı
   entry_id:  74992692
   entry_writer: once
-  entry_fav_count: 127
+  entry_fav_count: 128
   entry_content: |
     türkiye'deki erkeklerin %99'undan daha yakışıklıyken %98'inden daha yakışıklı olmasına sebep olmuş imajdır. "öhööö maymuna dönmüş!" diyenler kendi fotoğrafını koysa da ortalık şenlense biraz.<br/><br/>mesaj çekmeyin erkeğim.
 - entry_name: |
     en az 10 defa izlenen tek film
   entry_id:  74981477
   entry_writer: poslwa
-  entry_fav_count: 122
+  entry_fav_count: 124
   entry_content: |
     (bkz: <a class="b" href="/?q=s%c3%bct+karde%c5%9fler">süt kardeşler</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9faban+o%c4%9flu+%c5%9faban">şaban oğlu şaban</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fekerpare">şekerpare</a>)<br/>(bkz: <a class="b" href="/?q=tosun+pa%c5%9fa">tosun paşa</a>)
 - entry_name: |
     bir insanın cahil olduğunu gösteren şeyler
   entry_id:  74981319
   entry_writer: ps4
-  entry_fav_count: 108
+  entry_fav_count: 110
   entry_content: |
     benim için acun medya programlarını izliyor olmasi. öğrendiğim anda muhabbeti kesiyorum.
 - entry_name: |
     alex de souza vs anderson talisca
   entry_id:  74998137
   entry_writer: rennie rising
-  entry_fav_count: 94
+  entry_fav_count: 98
   entry_content: |
     çüşş. oh ha. sonrada tinerci denilince kızıyoruz.<br/><br/>not:bjk
 - entry_name: |
     metrobüste öpüştüler diye deliren adam
   entry_id:  74975180
   entry_writer: endoplazmikretikulum
-  entry_fav_count: 88
+  entry_fav_count: 89
   entry_content: |
     gayet önyargı ile haksız olduğundan emin olduğum ayı.<br/>ben bunca yaşımda hayatın normal akışı içinde topluma açık yerde öpüştü denilen çiftlerin en fazla ne kadar öpüştüklerini biliyorum. böyle bir şey gördüğümde de kafamı çeviririm, o da rahatsız olduğumdan da değil onları rahatsız etmemek için aslında. muhtemelen bu ayı da kimseyi rahatsız etmeyecek bir öpücüğe kinlenmiş, söz konusu çifti tıfıl bulmuş üzerine gitmiş. sana ne lan deyip suratına geçirecek kalıpta bir çocuk olsa ses edemezdi.
 - entry_name: |
@@ -111,65 +111,72 @@ data:
     30 yaşında evi arabası eşi/sevgilisi olmayan insan
   entry_id:  74976392
   entry_writer: biraz kurgan biraz kumbet
-  entry_fav_count: 63
+  entry_fav_count: 64
   entry_content: |
     oraya ''işi'' hanesini de eklemenizi rica edeceğim.
-- entry_name: |
-    bilmediği şeye bilmiyorum diyebilen insan
-  entry_id:  74976378
-  entry_writer: antipartizan
-  entry_fav_count: 61
-  entry_content: |
-    edit: bir de bilmediğine bilmiyorum diyemeyen tiplerin adres soran kişilere yanlış da olsa mutlaka bir adres tarif etmek zorunda hisseden tipleri var ki onlardan tanrı korusun bizleri a dostlar. kaç defa yanlış yollara saptım sayelerinde.<br/><br/>pamuklara sarılası insan. eğer hayatınızda böyle insanlar varsa onları çok sevin çünkü o kadar azlar ki.<br/><br/>bilmiyorum dediğin zaman insanlar ezik gibi görüyorlar. <br/>bilmiyorum dediğin zaman o konu hakkında karşı taraf bilmese bile biliyor gibi sallıyor. bir nevi yalancı turnusolu.<br/><br/>bilmiyorum diyebilmek erdemdir. <br/>bilmiyorum diyebilmek eziklik veya aptallık değil olgunluk belirtisidir.
 - entry_name: |
     ahlak bekçisi olmak için gerekenler
   entry_id:  74992583
   entry_writer: okutturan
-  entry_fav_count: 55
+  entry_fav_count: 58
   entry_content: |
     - öncelikle ahlaksız olmak gerekir. bu birinci ve en önemli maddedir.<br/>- ikinci olarak patavatsız olmak gerekir. ulu orta yerde bu unvan söylenmelidir.<br/>- üçüncü olarak ta tereyağı gibi üste çıkma özelliği gerekir ki haksız olunulan bir tartışmada bile haklı konuma geline bilsin.
-- entry_name: |
-    orgazmdan daha zevkli anlar
-  entry_id:  74975702
-  entry_writer: cek london
-  entry_fav_count: 53
-  entry_content: |
-    gece şehirde araba sürmek. ama öyle 20.00, 22.00 gibi saatlerde değil 03.00-05.00 arası. <br/>sarı sarı yanan aydınlatma ışıkları, güzel bi çalma listesi, sessiz bir şehir, kontrollü geçiş olarak yanan trafik ışıkları ve boş yollar. <br/>benim için listenin ilk sırasındadır.
 - entry_name: |
     iphone x
   entry_id:  74992768
   entry_writer: isaac sherman
-  entry_fav_count: 49
+  entry_fav_count: 51
   entry_content: |
     video çekme özelliği ile gönülleri fethetmiştir.
-- entry_name: |
-    anderson talisca
-  entry_id:  74976605
-  entry_writer: sampiyonadam
-  entry_fav_count: 36
-  entry_content: |
-    2016- "mario gomez bonservisli oyuncumuz diyebiliriz, 1000 euro gibi bir bonservisle hemde"<br/>2017- "aboubakar'la 4 yıllık anlaştık. ffp yüzünden kiralık gösterdik, bonservisi 10 milyon euro"<br/>2018- "talisca 20 milyon euro, benfica'nın yapabileceği hiçbir şey yok. parayı yatırdık mı oyuncu bizde"<br/><br/>her bölümde seviye gitgide daha zorlaşıyor. ilk seviye ne güzeldi, bin euroya mario gomez'i alıyordun
 - entry_name: |
     14 mart 2018 beşiktaş bayern münih maçı
   entry_id:  74988153
   entry_writer: vardavela
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     llk maçta ağzımızı yüzümüzü siken coman ve robben yok.<br/>normal süre 5-0 biter. uzatma devrelerinin ilk dakikalarında penaltı+kırmızı kart combosuyla 5-1 olur. ilk uzatma devresinin sonunda bir tane, ikincinin başında da bir tane kitleriz. skor 7-1'e gelir. 120+'da bayern korner kazanır. kaleci dahil cümbür cemaat bizim kale çevresindelerken (deniz tarafı) topu kazaniriz, orta saha civarından boş kaleye bi tane daha sıkıştırırız, 8-1 biter....<br/>manyak gibi ıslıklamaktan, bagirmaktan ve hayal kurmaktan başka yapacak bir şeyimiz yok. madem hayal kuruyoruz, en efsanesinden kuralım anasını satayım...
 - entry_name: |
     1 euro 5 tl olursa olacaklar
   entry_id:  75000371
   entry_writer: said i nursi
-  entry_fav_count: 16
+  entry_fav_count: 30
   entry_content: |
     en olası durumlardan bir tanesi yeniden 4.99'a düşerek ekonomiye nefes aldırması.
+- entry_name: |
+    baba yorgun'un ingilizcesi
+  entry_id:  74998029
+  entry_writer: e a p
+  entry_fav_count: 21
+  entry_content: |
+    (bkz: <a class="b" href="/?q=daddy%27s+fucked+up">daddy's fucked up</a>)
+- entry_name: |
+    13 mart 2018 euro kuru
+  entry_id:  74985948
+  entry_writer: bozdoganli
+  entry_fav_count: 17
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ab+batiyor">ab batiyor</a>)
 - entry_name: |
     çomarların sürekli dolandırılmasının nedenleri
   entry_id:  74992999
   entry_writer: culsuz banker bilo
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     parayı çalışarak düşünerek değil kısa yollardan bedavacılıkla kazanmayı hedeflerindendir.<br/>bu sebeple çok tuzaklara düşmeye elverişlidirler.
+- entry_name: |
+    mehmet demirkol ve ırmak kazuk soruları yanıtlıyor
+  entry_id:  74999434
+  entry_writer: aranan hayvan
+  entry_fav_count: 15
+  entry_content: |
+    aynı ortamda bulunuyorsunuz diye soruyorum. lütfen pas geçmeyin:<br/><br/>rıdvan dilmen fenerbahçe puan kaybettiği zaman kendisinin stresli ve üzgün hallerini izlemek için ntv açan dev kitleden haberdar mı? :)
+- entry_name: |
+    bursa'da otobanda meydana gelen feci kaza
+  entry_id:  74993133
+  entry_writer: kabili rucu
+  entry_fav_count: 15
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sadece+t%c3%bcrkiye%e2%80%99+de+ya%c5%9fanabilecek+olaylar">sadece türkiye’ de yaşanabilecek olaylar</a>)<br/>arkadaş arasında hep söylerim: koskoca istanbul' u ya da yaşadığım bursa' yı baştan başa ters şeritten geçerim, bir allah' ın kulu da durdurup, ''hemşerim, sen ne yapıyorsun?'' demez diye. aha da buyrun oldu işte. çünkü, malesef ülkemizde trafik polisi, arasıra çevirme yapmak ve biri geçsin diye yol kapatmaktan başka hiçbir işe yaramıyor.<br/>ölenlere allah' tan rahmet dilerim, ne diyim?
 - entry_name: |
     pelin çift
   entry_id:  74994418
@@ -177,13 +184,6 @@ data:
   entry_fav_count: 14
   entry_content: |
     bizim vergilerimizle periler, cinler, peygamberler ve abdülhamit'in dehası konulu saçmalık ötesi programlar yapan yandaş.
-- entry_name: |
-    mehmet demirkol ve ırmak kazuk soruları yanıtlıyor
-  entry_id:  74999434
-  entry_writer: aranan hayvan
-  entry_fav_count: 14
-  entry_content: |
-    aynı ortamda bulunuyorsunuz diye soruyorum. lütfen pas geçmeyin:<br/><br/>rıdvan dilmen fenerbahçe puan kaybettiği zaman kendisinin stresli ve üzgün hallerini izlemek için ntv açan dev kitleden haberdar mı? :)
 - entry_name: |
     ekşi itiraf
   entry_id:  74975535
@@ -199,12 +199,19 @@ data:
   entry_content: |
     şuan maç başlığında 18 entry gözüküyor. esra ceyda ve sikerler diyen 2 mal hariç herkes maç hakkında konuşmuş, küfretmemiş, taktikler üzerine tartışmış. tam da olması gerektiği gibi yani.<br/><br/>keşke şu maç başlıkları hep böyle maçı konuşan, maç hakkında yorumlar yapan insanlarla dolu olsa.
 - entry_name: |
-    13 mart 2018 euro kuru
-  entry_id:  74985948
-  entry_writer: bozdoganli
+    çok güzel olmasına rağmen evde kalmış kız
+  entry_id:  75000946
+  entry_writer: neozomer
   entry_fav_count: 13
   entry_content: |
-    (bkz: <a class="b" href="/?q=ab+batiyor">ab batiyor</a>)
+    sahip olduğu hayatın değerini bilip, sadece evlenmiş olmak için klasik bir bakıma muhtaç türk duygusal öküzü veya bir zengin ayıyla evlenmemiş kendi kendine mutlu olabilen kız/kadındır
+- entry_name: |
+    istanbul'da lüks başka şehirlerde lüks olmayan şey
+  entry_id:  74975968
+  entry_writer: pashazade ragip
+  entry_fav_count: 12
+  entry_content: |
+    diğer şehirleri bilmiyorum ama istanbul'da lüks olan en büyük şey kaldırımdır. istanbul'un çoğu yerinde, kaldırımda 20 adım atamazsınız. <br/><br/>çoğu yerde evler, sokaklar yeniliyor ama kaldırım payı bırakmak gibi bir insani hak es geçiliyor. adam evi yenilemiş yan taraftan 3 metre kaçılmış (komşu pencere payı) ön tarafta aynı yerden bina yapılıyor, sokakta bildiğin kaldırım yok. sokaklar zaten araba parkına dönüşmüş durumda. engellisi var, yaşlısı var, çocuğu var. kimse görmüyor sanırım? <br/><br/>bebek arabası ile slalom yapılan medeni bir şehir olur mu? lüks vallahi...
 - entry_name: |
     sözlükçülerin favori ilaç listesi
   entry_id:  74975666
@@ -213,47 +220,26 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=dolorex">dolorex</a>)<br/><br/>geçmek bilmeyen baş ağrım olduğunda beni kurtaran ilaçtır kendisi.
 - entry_name: |
-    istanbul'da lüks başka şehirlerde lüks olmayan şey
-  entry_id:  74975968
-  entry_writer: pashazade ragip
-  entry_fav_count: 11
-  entry_content: |
-    diğer şehirleri bilmiyorum ama istanbul'da lüks olan en büyük şey kaldırımdır. istanbul'un çoğu yerinde, kaldırımda 20 adım atamazsınız. <br/><br/>çoğu yerde evler, sokaklar yeniliyor ama kaldırım payı bırakmak gibi bir insani hak es geçiliyor. adam evi yenilemiş yan taraftan 3 metre kaçılmış (komşu pencere payı) ön tarafta aynı yerden bina yapılıyor, sokakta bildiğin kaldırım yok. sokaklar zaten araba parkına dönüşmüş durumda. engellisi var, yaşlısı var, çocuğu var. kimse görmüyor sanırım? <br/><br/>bebek arabası ile slalom yapılan medeni bir şehir olur mu? lüks vallahi...
-- entry_name: |
-    çok güzel olmasına rağmen evde kalmış kız
-  entry_id:  75000946
-  entry_writer: neozomer
-  entry_fav_count: 9
-  entry_content: |
-    sahip olduğu hayatın değerini bilip, sadece evlenmiş olmak için klasik bir bakıma muhtaç türk duygusal öküzü veya bir zengin ayıyla evlenmemiş kendi kendine mutlu olabilen kız/kadındır
-- entry_name: |
-    baba yorgun'un ingilizcesi
-  entry_id:  74998135
-  entry_writer: nongrata
-  entry_fav_count: 8
-  entry_content: |
-    (bkz: <a class="b" href="/?q=i%27m+too+old+for+this+shit">i'm too old for this shit</a>)
-- entry_name: |
     alex'in maça gelmesini yanlış buluyorum
   entry_id:  74998198
   entry_writer: aslinda gec kaldim
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     mahmut uslu denen şahsın, alex’in bu hafta cska moskova euroleague maçına gitmesiyle ilgili açıklaması.<br/><br/>hayatının merkezine fenerbahçe’yi koymuş biri olarak ben bu adamın fenerbahçe’nin değerleri hakkında böyle konuşabilmesine katlanamıyorum artık. alex bu takıma gelmiş en büyük yabancıdır. koskoca bir neslin fenerbahçeli olmasını sağlamıştır. gerçi bu adamın fenerbahçeli o nesle de saygısı yok. geçenlerde de yetiştirme taraftar açıklaması yaptı.<br/><br/>umarım haziranda seçime katılarak kaybedersiniz. paralı askerlerinizle seçimi kazansanızda fenerbahçe’nin gerçek sahipleri bizleriz. biz kazanacağız er ya da geç.<br/><br/>not: ali koç.<br/><br/>edit:<a rel="nofollow noopener" class="url" target="_blank" href="http://skor.sozcu.com.tr/2018/03/13/mahmut-usludan-flas-alex-aciklamasi-703934/amp/" title="http://skor.sozcu.com.tr/2018/03/13/mahmut-usludan-flas-alex-aciklamasi-703934/amp/">kaynak</a>.
 - entry_name: |
     kadınların parayla mutlu olacağını düşünen erkek
   entry_id:  74998919
   entry_writer: soruyu isaret eden soru isareti
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     peki kadınların bundan haberi var mı? parayla mutlu olamayacaklarından yani, hı?
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  74977384
-  entry_writer: bir uyumsuz rastlasma
-  entry_fav_count: 6
+    hdp'nin türkiye'yi işgalci olmakla suçlaması
+  entry_id:  74999996
+  entry_writer: limontuzu
+  entry_fav_count: 5
   entry_content: |
-    yalvarıyorum sana en azından rüyalarımdan çık git artık. her zerremle seni bu kadar çok özlerken seni rüyalarımda görmek bana iyi gelmiyor. ben seni canlı görmek istiyorum, ben senin sıcaklığını duyumsamak istiyorum, ben sana sarılmak istiyorum. her rüyadan sonrası zehir zemberek. en azından oradan çık git artık.
+    bu hdp'liler için sözlükte ihanet diye bir kanal açılması şart.
 - entry_name: |
     en az 5 defa okunan tek kitap
   entry_id:  74984894
@@ -268,13 +254,6 @@ data:
   entry_fav_count: 5
   entry_content: |
     ekşi sözlük düzlüklerinde rızkını arayan abazanların yeni oltası, aferin lan devam edin böyle.<br/><a class="b" href="/?q=he+he+taam+taam">he he taam taam</a> kimse anlamadı, çok zekisiniz.
-- entry_name: |
-    hdp'nin türkiye'yi işgalci olmakla suçlaması
-  entry_id:  74999996
-  entry_writer: limontuzu
-  entry_fav_count: 4
-  entry_content: |
-    bu hdp'liler için sözlükte ihanet diye bir kanal açılması şart.
 - entry_name: |
     çiftlik bank vurgununun düşündürdükleri
   entry_id:  74998376
@@ -297,6 +276,13 @@ data:
   entry_content: |
     polatlı <a class="b" href="/?q=58.+top%c3%a7u+tugay%c4%b1">58. topçu tugayı</a> diğer adı <a class="b" href="/?q=ac%c4%b1k%c4%b1r">acıkır</a>. soğan tarlalarına ve mevsimlik işçileri izleyerek 6 ay geçti. hele şu aralar aradan 10 yıl geçmiş deli gibi özlüyorum lan. öyle güzel kafa dinliyordum ki. kitabımı alıp sivil işçilerin peşinde akşama kadar kafam rahat geziyordum. şimdi sorumluluklar 8 kollu piston gibi biri giriyor biri çıkıyor.
 - entry_name: |
+    gangbang nedir bilmeyen kadın
+  entry_id:  74996440
+  entry_writer: love me hate me
+  entry_fav_count: 2
+  entry_content: |
+    bilmezden de gelebilir. malum günümüzde her haltı yiyip masum ya da namuslu ayağına yatmak moda oldu.
+- entry_name: |
     fantastic beasts the crimes of grindelwald
   entry_id:  74999024
   entry_writer: zeddicus zu l zorander
@@ -318,6 +304,13 @@ data:
   entry_content: |
     6-0 olmadı 0-0 olsun o da olumlu.
 - entry_name: |
+    12.03.2018 gazi üniversitesi aşağılanma rezaleti
+  entry_id:  75001227
+  entry_writer: tantunizade murat efendi
+  entry_fav_count: 1
+  entry_content: |
+    h: ne diyorsun sen, köylü milletin efendisidir.<br/>ö: o zaman efendi olunuz ve dersinize kaldığınız yerden devam ediniz.<br/><br/>şeklinde devam etmesi ve sonlanması gereken rezalettir.
+- entry_name: |
     olan biten
   entry_id:  74977442
   entry_writer: alperen42
@@ -333,11 +326,18 @@ data:
     iki o ve iki u ile hemen psikiyatristimi arayıp randevu aldım.
 - entry_name: |
     ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  75000996
-  entry_writer: fikinivermekistemeyenkullanici
+  entry_id:  75001292
+  entry_writer: irish seven adam
   entry_fav_count: 0
   entry_content: |
-    aydin veya denizli ozellikle caylaklar dahil yesillendirebilirsiniz
+    1 saat içinde biramı alıp moda sahilde içeceğim. iki bira içip sanat hakkında muhabbet etmek isteyen varsa ulaşabilir.
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  75001712
+  entry_writer: histiocytosis
+  entry_fav_count: 0
+  entry_content: |
+    biraz olsun kafan çalışsa anlardın. görmezden geldin. kendi seçimindi. kimse gitmedi.
 - entry_name: |
     çaylak onay listesi
   entry_id:  74989429
@@ -347,9 +347,9 @@ data:
     (bkz: <a class="b" href="/?q=nerede+%c3%a7okluk+orada+bokluk">nerede çokluk orada bokluk</a>)<br/><br/>hoşgeldiniz demek isterdim ama içimden gelmiyor. keşke geldiğiniz yere geri gitseniz.
 - entry_name: |
     13 mart 2018 hepsiburada rezaleti
-  entry_id:  75000775
-  entry_writer: nuka cola
+  entry_id:  74999750
+  entry_writer: allahdiyenallah
   entry_fav_count: 0
   entry_content: |
-    kullanıcının içine sinmeyip değiştirmesi yasal hakkı olan rezalet. zaten ayıplı mal diye bi iddia yok.
+    hakem heyeti vasıtasıyla çözülebilinecek rezalet.
 ---
