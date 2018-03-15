@@ -6,56 +6,56 @@ data:
     tek kadınla doyan erkek sapıktır
   entry_id:  75049771
   entry_writer: sigara kibrit
-  entry_fav_count: 830
+  entry_fav_count: 841
   entry_content: |
     akla şu hikayeyi getirir;<br/><br/>bektaşi camiye gitmiş...<br/>hoca konuşuyor; "şarap içenler öbür tarafta her türlü cezayı çekecek, şarap içmeyenler her türlü sefayı sürecek. hatta her birinin emrine 40 huri verilecek. huriler de çok güzel olacak. şarap içenlerin ise içtikleri her şişe şarap, sirat köprüsünden geçerken boyunlarına asılacak!"<br/><br/>bektaşi dayanamayıp seslenmiş; "hoca efendi, şişeler dolu mu olacak boş mu olacak?"<br/><br/>hoca gürlemiş; "bre zındık, sen dolu şişelerle öbür tarafı meyhane mi sanırsın!?"<br/><br/>bektaşi itiraz etmiş; "peki hoca, adam başı 40 huri ile sen öbür tarafı kerhane mi sanırsın?"
 - entry_name: |
     ronaldo'nun beşiktaş'a gelmek istemesi
   entry_id:  75053136
   entry_writer: giotean
-  entry_fav_count: 785
+  entry_fav_count: 794
   entry_content: |
     oradan ortaköy'e geçecek herhalde, canı kumpir çekti demek.
 - entry_name: |
     2 yaşındaki kıza göz kırptığı için tutuklanan adam
   entry_id:  75047454
   entry_writer: nexavar
-  entry_fav_count: 739
+  entry_fav_count: 741
   entry_content: |
     özellikle hareketli ve hiperaktif çocuklara karşı çok sıklıkla yaptığım eylem olduğundan beni oldukça endişelendiren başlıktır. <br/><br/>ve göz kırpmakla yetinmemem ve elemanlara ayrıca dil çıkartmam ve el sallamam da cabası.<br/><br/>haberin doğru olduğunu varsayarsak, yani sadece göz kırpma ile sınırlı olduğunu varsayarsak, bu adamın dayak yemesi ve tutuklanmasına anlam veremiyorum. <br/><br/>sanırım milletçe paranoyak olduk ve dengemiz bozuldu.
+- entry_name: |
+    uber taksicilik yapmak istiyorsa t plaka alsın
+  entry_id:  75043019
+  entry_writer: ormantik sevgili
+  entry_fav_count: 645
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yak%c4%b1n+mesafe+ba%c5%9fl%c4%b1%c4%9fa+yazm%c4%b1yoruz">yakın mesafe başlığa yazmıyoruz</a>)
 - entry_name: |
     dil devrimi adı altında damarlarımız kesildi
   entry_id:  75058737
   entry_writer: perkins tp
-  entry_fav_count: 577
+  entry_fav_count: 599
   entry_content: |
     biz fabrika ayarlarımıza dönersek orhun yazıtlarını okuyabilir hale geliriz zira bizim fabrikamız orta asyadadır, sizin gibi ortadoğu bok çukurunda değil.<br/><br/>ekleme; adam dinde güncelleme ile büyük gaf yaptı. bunu duzeltmek için bir süre yobaz tabanının mamalarını vermek zorunda olduğundan devrim kanunlarına birkaç gün daha saldırmak zorunda. <br/><br/>yoksa ne bayrak, ne istiklal marşı ne de başkent yani daha doğrusu ilk 3 madde değiştirilemez bu ülkede artık. 2012 olsaydi olurdu ama artık siyasal islam kaçırdı o treni. rahat ama tetikte olun.<br/><br/>edit: <a class="b" href="/?q=bedelli+ogrenci">bedelli ogrenci</a> nin uyarısıyla başlığı açan dallamanın girilerine göz atınca aklınca atatürkçüleri devlete (bakın devlete diyorum, hükümete değil) karşı kışkırtabileceğini sanan bir pkk'lı olduğu ortaya çıkıyor. <br/><br/>oğlum kot pantolonun üstüne sargı bezi sarıp yaralı siviller var algısı oluşturmaya benzemez bu işler. madem beceremiyorsunuz bu işleri bırakın iyice komik duruma düştünüz amk.
 - entry_name: |
     camide fuhuş yaparken yakalanan imam
   entry_id:  75059371
   entry_writer: koministimam2
-  entry_fav_count: 538
+  entry_fav_count: 554
   entry_content: |
     hem camide sikiş, hem başlığa yazılanları kaldır! ne güzel la, öyle ben de yaparım imamlık...<br/><br/>az delikanlı ol olum, az dininin adamı ol! siktiysen siktim de mü’min yalan söyler mi(!)<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/?q=yardima+muhtac+kadinlari+istismar+eden+emekli+imam">yardima muhtac kadinlari istismar eden emekli imam</a>)<br/><br/>bu başlığa bir gözaltın derim... imam bunu sildirmeyi unutmuş...<br/><br/><a class="b" href="/?q=edit2">edit2</a> adam hayır işliyormuş piçler! beni de gaza getirdiniz yaa. özür dilerim hocam, meğer zorda kalanlara dayıyormuşsun para ile... helal olsun yardıma muhtaç bağyyanlara yardımı kendine şiar edinen <a class="b" href="/?q=koca+y%c3%bcrekli+imam">koca yürekli imam</a> :)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>konya selçuklu'da uzun yıllar imamlık yaptıktan sonra emekli olan y.y.'nin gönüllü müezzinlik yaptığı camide yardıma muhtaç kadınlarla para karşılığında ilişkişe girdiği iddia edildi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    sgk'nın 34 milyar lira açık vermesi
-  entry_id:  75049428
-  entry_writer: turiq
-  entry_fav_count: 417
-  entry_content: |
-    oysa kasım 2017 döneminde bakanımız <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201711151031012207-sarieroglu-sgk-acik-kilicdaroglu/" title="https://tr.sputniknews.com/turkiye/201711151031012207-sarieroglu-sgk-acik-kilicdaroglu/">21 milyar tl açığımız var</a> demişti. hatta sebebini kılışdar olarak göstermişti. <br/><br/>aradaki 13 milyar tl açığın sebebi ismet inönü olabilir mi sorusu geldi aklıma istemsizce.
 - entry_name: |
     hadise'nin montu
   entry_id:  75050712
   entry_writer: skydreams
-  entry_fav_count: 383
+  entry_fav_count: 395
   entry_content: |
     rtük'ün hediyesidir
 - entry_name: |
     istiklal marşı'nın ilahi gibi okunması
   entry_id:  75051017
   entry_writer: sultanahmetli
-  entry_fav_count: 277
+  entry_fav_count: 282
   entry_content: |
     istiklal marşı okuduğu zaman türk milletinin tüylerinin diken diken olmasını hazmedemeyen babası kansız tiyniyetsiz, hiç işi gücü kalmamış sapıkların iktidardan destek alarak gerçekleştirdiği olay.<br/>inadına yerli yersiz her yerde istiklal marşını sonuna kadar açıp çomarların ve onların sahiplerinin kudurmasına sebep olacağım.
 - entry_name: |
@@ -69,100 +69,86 @@ data:
     kaybedenler kulübü ekibinin galaya sarhoş gelmesi
   entry_id:  75049756
   entry_writer: henrikissenger
-  entry_fav_count: 216
+  entry_fav_count: 218
   entry_content: |
     (bkz: <a class="b" href="/?q=pr+yapay%c4%b1m+derken+bokunu+%c3%a7%c4%b1karmak">pr yapayım derken bokunu çıkarmak</a>)<br/><br/>+farklı bir şey yapmamız lazım abi ne yapalım tanıtım için?<br/>-jetskiyle kaybolsak?<br/>+gökhan özen yaptı<br/>-birisi senaryo çalıntı diye dava etsin?<br/>+sürekli yapılıyor<br/>-köy okuluna neyim yardım edelim?<br/>+sus vururum ağzına<br/>-o zaman galaya sarhoş gidelim saçmalayalım. hem filmimizin konusunu oluşturan kadıköy varoşluğu ile uyumlu olur, hem oyuncularımızın aşina olduğu bir durum, hem de çok tepki çeker çok konuşulur. tartışmalar seküler-muhafazakar çatışmasına dönüşürse sekülerlerin toplumsal desteğiyle gişe rekoru gelir. <br/>+canımsın, gel öpücem.
 - entry_name: |
     kırıkkale dünyanın en berbat yeri
   entry_id:  75050450
   entry_writer: hokage
-  entry_fav_count: 171
+  entry_fav_count: 180
   entry_content: |
     bir kırıkkaleli olarak çok da şey yapmayın oğlum dediğim durum.<br/><br/>hak vermiyor değilim. <br/><br/>:)<br/><br/>bir şehir 30 yılda hiç mi gelişmez?
 - entry_name: |
     hulusi akar'ın iç mekanda şapkasız selam vermesi
   entry_id:  75055163
   entry_writer: kanamayan yara
-  entry_fav_count: 169
+  entry_fav_count: 173
   entry_content: |
     ankara'da yaptığım askerlikte, bizim bölükte bir er, tümgeneral'e şapkasız selam verince bölük komutanı fırçayı yemişti. şapkasız selam veren er de iki gün disko'ya ( hapse) gönderilmişti.<br/><br/>düşünün ülkenin halini. bunu yapan genelkurmay başkanı amk.. üçüncü dünya ülkesi işte. ne desek elimizde kalıyor. her yeri çamur ve bataklık.
+- entry_name: |
+    12 mart 2018 tarihinde tinercilerin öldürdüğü genç
+  entry_id:  75050673
+  entry_writer: kirli sakalli anadolu comari
+  entry_fav_count: 160
+  entry_content: |
+    düşünün, hayatınız boyunca okuyorsunuz, başarılar elde ediyorsunuz, uğraşa didine bir üniversiteye giriyorsunuz ve daha yeni mezun olmuşsunuz. önünüzde uzun yıllar var ve parlak bir geleceğiniz var. iş görüşmesine gidiyorsunuz, olumlu geçiyor ve sizi işe kabul ediyorlar. hayatınızı çalışarak geçirmenin meyvelerini toplamaya başlayacakken bir adet orospu çocuğu tinerci karşınıza çıkıyor ve sizi bıçaklayıp öldürüyor. bu tinercinin kim olduğu bile önemli değil, insan bile değil, sadece bir varlık, hayatı bok, hiçbir birikimi yok, hiçbir geleceği yok, kimliği bile muhtemelen yok. bıçaklıyor, yakalansa cezaevine konsa ona ödül bile olur, yakalanmasa yine rastgele adam bıçaklamaya devam edecek. siz bu tinerciyi öldürseniz yine hayatınızın birikimini kaybedip içeri tıkılıyorsunuz. ama ortada hala bir tinerci gerçeği var. ne polis yardımcı oluyor, ne devlet, ne bir başkası. onlar kimliksiz yaşamlarıyla istediğini bıçaklayıp öldürebiliyor. siz ise 24 yıllık bir dünya emek ile geçen yaşamınızı oracıkta kaybediyorsunuz. <br/><br/>bunun tanımı nedir?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/942877/Metrobus_duraginda_dehset..._ise_girdigi_gun_olduruldu.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/942877/Metrobus_duraginda_dehset..._ise_girdigi_gun_olduruldu.html">http://www.cumhuriyet.com.tr/…gi_gun_olduruldu.html</a>
+- entry_name: |
+    mehmet aydın'ın çaldığı paraları yayınlaması
+  entry_id:  75062678
+  entry_writer: ogretmen bey
+  entry_fav_count: 147
+  entry_content: |
+    avrupanın en büyük sığır tesisini kuruyoruz derken haklıymış.<br/><br/>yılda %140 kar vaadine kananlar sayesinde adam rolex gösterip balya balya paranın videosunu koymuş, ne ka güzel...
 - entry_name: |
     10 liradan ucuz tavuk döner yemeyin
   entry_id:  75057798
   entry_writer: cadillacman
-  entry_fav_count: 137
+  entry_fav_count: 142
   entry_content: |
     ne kadar gerzekçe bir söylem. yemeyin diye millete söyleyeceğinize ucuz satanları denetleyin, kedi eti, at eti yedirenleri birebir tespit edip ibreti alem için teşhir edin. yemeyin demek de ne saçmalaktır? adam bunu duyunca 8 liralık dönerini 15 liraya çıkarıp "benimki kaliteli" dese kim bilecek?
-- entry_name: |
-    yay sat bayisinde sıra beklemiş nesil
-  entry_id:  75051326
-  entry_writer: carriebradshaw
-  entry_fav_count: 136
-  entry_content: |
-    gazeteden kupon karşılığı kazanılmış tencere-tava, tabak, bardak, televizyon, müzik seti vb. hediyeleri alabilmek için sabahtan bayi önünde sıraya girmiş olan nesil.<br/><br/>doksanlar çocukları bu zulmü çok iyi bilirler. gazeteler bilmem kaç bin kupon karşılığı hediyeler verirdi. bu furya bir ara araba hatta eve dahi uzandı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=qMAhjkZ5izs" title="https://www.youtube.com/watch?v=qMAhjkZ5izs">en güzide kampanyalar</a><br/><br/>sonra yasaklandı ama biz yeterince çile çektik. <br/>benim görevim belliydi mesela; düzenli olarak kuponları kesmek. çünkü hiçbir kupon eksik olmamalıydı. çünkü reklamlarında sibel can'ın oynadığı arcoroc, arcopal yemek takımlarını tek bir kupon yüzünden kaçırabilirdik.<br/>sonra bunun da kolayı bulundu gerçi; "süper jumbo kupon."<br/><br/>hanımlar müjde! yarın arcoroc yemek takımı için 750 kupon değerinde süper jumbo kupon var. sakın kaçırmayın!!!<br/><br/>önceki 750 kuponu biriktirdiğin için kerizliğine mi yanacaksın? eksiğin kapandı diye mi sevineceksin? sen karar ver.<br/><br/>neyse, kupon biriktirme çilesi bitince yay sat'tan ürünü teslim alma çilesi başlardı. nice yaşlı amca, teyze orda onuncu sınıf porselen tabak uğruna zayi oldu.<br/><br/>bizim mahallede de yay sat bayisi vardı, annem büyük gün gelince beni sıraya yollardı. sonra da kendi gelirdi. mahallenin diğer arcoroc talihlisi annelerinin çocukları, ben, amcalar, teyzeler elimizde 789558 tane kuponla bayinin dağıtıma başlamasını beklerdik.<br/><br/>şimdi sanki o günler hiç olmamış gibi ama ne güzel demiş <a class="b" href="/?q=l.+p.+hartley">l. p. hartley</a>;<br/><br/>"geçmiş yabancı bir ülkedir ve orda her şeyi farklı yaparlar."
 - entry_name: |
     babam öldü herkes gırgır yapıyor
   entry_id:  75048837
   entry_writer: fictionel
-  entry_fav_count: 124
+  entry_fav_count: 137
   entry_content: |
     sözlükte <a class="b" href="/?q=poz+vereyim+derken+u%c3%a7urumdan+d%c3%bc%c5%9fen+adam">poz vereyim derken uçurumdan düşen adam</a> olarak başlığı açılan, urfa kalesinden düşerek hayatını yitiren halil dağ’ın kızının söylediği söz. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/urfa-kalesi-nden-dusup-olen-halil-dag-in-kizi-babam-oldu-herkes-girgir-yapiyor-208059.html" title="https://www.birgun.net/haber-detay/urfa-kalesi-nden-dusup-olen-halil-dag-in-kizi-babam-oldu-herkes-girgir-yapiyor-208059.html">haberi</a> okuduktan sonra eminim ki bu olayı komedi malzemesi haline getirenler vicdanlarını biraz sorgulayacaktır.<br/><br/>gerçi sorgulaması bu saatten sonra neyi değiştirir. zaten kızların psikolojisi bozulmuş. intihara kalkışanı olmuş. benim anlamadığım neden bu tür olayları daha en baştan komik olmayacağını algılayamıyoruz. neden empati yeteneğinden yoksunuz. tüm bunların sebebi sosyal medya denen (sözlüğü de buna dahil edebiliriz) bok çukurunda 1-2 fazla beğeni almak için vicdanımızı ve ahlakımızı askıya asmamızdan ileri geliyor. başka birşey değil.<br/><br/>edit—adamın <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=Ghwq450CmPA" title="https://m.youtube.com/watch?v=Ghwq450CmPA">videosu</a> dikkatlice seyredilirse, aslında çok da riskli bir atlayış yapmadığı görülebilir. adamın atladıktan sonra konduğu yer ile uçurumdan düştüğü yer arasında belli bir mesafe var. adam ne yazık ki konduktan sonra dengesini kaybediyor ve kendini durduramıyor. yaşı genç bir insan bu şekilde atlayıp dengesini kaybetse belki bir çeviklikle kendini kurtarabilirdi düşmekten.<br/><br/>yani adam gerçekten büyük bir talihsizlik sonucu hayatını kaybetmiş. bu adamın yaptığını bulaşık makinesi tableti yiyenlerle veya gözü kapalı karşıdan karşıya geçenlerle bir tutmayın. adam ölmeyi göze alarak poz vermemiş, güzel bir anı olsun istemiş sadece.
-- entry_name: |
-    2 maçta 10 gol yiyen futbol takımı
-  entry_id:  75061185
-  entry_writer: cozulemeyen adam
-  entry_fav_count: 121
-  entry_content: |
-    bir maçta 8 gol yiyen takımdan 5 lig, 1 uefa, 1 süper kupa fazlalığı olup, hala o takımın bulunduğu ligde lider olan takımdır.<br/><br/>not: diğer sarışın
 - entry_name: |
     lionel messi
   entry_id:  75043356
   entry_writer: jr invincible
-  entry_fav_count: 119
+  entry_fav_count: 120
   entry_content: |
     az önce kaybettiği toptan sonra ingiliz spikerin yorumu:<br/><br/>“oh,he is human.”<br/><br/>adam bütün dünyayı şüpheye düşürüyor.
 - entry_name: |
     yaşadığın şehrin adını söylemeden anlat
   entry_id:  75050575
   entry_writer: vitamineral
-  entry_fav_count: 116
+  entry_fav_count: 119
   entry_content: |
     altında erenleri üstünde g.tverenleri ile meşhur dümdüz ilimiz.
-- entry_name: |
-    mehmet aydın'ın çaldığı paraları yayınlaması
-  entry_id:  75062678
-  entry_writer: ogretmen bey
-  entry_fav_count: 114
-  entry_content: |
-    avrupanın en büyük sığır tesisini kuruyoruz derken haklıymış.<br/><br/>yılda %140 kar vaadine kananlar sayesinde adam rolex gösterip balya balya paranın videosunu koymuş, ne ka güzel...
 - entry_name: |
     atv dizi oyuncularının fotoğrafta rakıyı saklaması
   entry_id:  75059997
   entry_writer: tabudeviren
-  entry_fav_count: 107
+  entry_fav_count: 112
   entry_content: |
     fotoğraf dışarıdan birinin (basın mensubu vb.) çektiği fotoğraf değil, kendilerinin çektiği fotoğraf. kendi çektiği ve yüklediği fotoğrafa bile sansür koyuyor. sansür kafada yerleşip otomatikleşmiş. yazık.
-- entry_name: |
-    çiftlik bank
-  entry_id:  75042346
-  entry_writer: siradan cinko karbon pil
-  entry_fav_count: 87
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/5D3kpM.jpg">https://i.hizliresim.com/5d3kpm.jpg</a><br/><br/>adam paraları alıp uruguay'a kaçmış. facebook grubunda arkasından yazılanlar ise türkiye'nin özeti.<br/><br/>mehmet kardeşim çok güzel bir yere olta atmışsın ya.<br/><br/>edit: caps uçtu
-- entry_name: |
-    türkiye bayrağınının değiştirilmesi
-  entry_id:  75058148
-  entry_writer: prion
-  entry_fav_count: 86
-  entry_content: |
-    bunu mu demek istediniz<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+bayra%c4%9f%c4%b1">türk bayrağı</a>)
 - entry_name: |
     çiftlik bank'ı anlatan filme isim önerileri
   entry_id:  75042508
   entry_writer: sh1t
-  entry_fav_count: 86
+  entry_fav_count: 88
   entry_content: |
     catch the tombalak if you can
+- entry_name: |
+    çiftlik bank
+  entry_id:  75042346
+  entry_writer: siradan cinko karbon pil
+  entry_fav_count: 88
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/5D3kpM.jpg">https://i.hizliresim.com/5d3kpm.jpg</a><br/><br/>adam paraları alıp uruguay'a kaçmış. facebook grubunda arkasından yazılanlar ise türkiye'nin özeti.<br/><br/>mehmet kardeşim çok güzel bir yere olta atmışsın ya.<br/><br/>edit: caps uçtu
 - entry_name: |
     türk gencinin ömrünü mahveden üç şey
   entry_id:  75043241
@@ -174,65 +160,79 @@ data:
     türk kızındaki tavanı ayna kaplatma fantezisi
   entry_id:  75056235
   entry_writer: selamun aleykum kitty
-  entry_fav_count: 70
+  entry_fav_count: 76
   entry_content: |
     hiç duyulmadık bir genelleme gerçekten iyice yalan da söylemeye başladınız ha. içkiniz kumarınız kadınınız bitti bi de yalanınız başladı.
 - entry_name: |
     ryanair
   entry_id:  75055226
   entry_writer: antonin artaud
-  entry_fav_count: 66
+  entry_fav_count: 67
   entry_content: |
     türkiye pazarına girmiş şirket. dalaman-dublin, dalaman-bratislava uçuşları ile başlayacaklarmış.<br/><br/>şu anda dalaman-dublin tek yön fiyatı 40 euro. çok iyi oldu bu.
+- entry_name: |
+    türkiye'den siktir olup gitmek
+  entry_id:  75045260
+  entry_writer: tahirikemal
+  entry_fav_count: 61
+  entry_content: |
+    marmaris turizm çalışanları arasında yaygınlaşan eylem.<br/><br/>son 3 yılda 20'den fazla animatör, barmen, garson, acentacı, botçu, şezlongçu ve hatta otel işletmecisi kanada'ya gitti.<br/><br/>'niçin kanada, sebebi nedir?' diye sordum;<br/>kanada'ya vize alıp oraya gittikten sonra 'eşcinselim' deyip pasaportlarını teslim ediyorlar ve siğinmaci durumuna dusuyorlar. 3 ay sonra bunlara dunyanin heryerinde kullanabilecekleri kanada gecici kimligi veriliyor. hastane, egitim filan ücretsiz. ustelik turkiyeye de girip cikabiliyorlar. hintliler de ayni yöntemi kullaniyorlarmis ve son iki yilda toronto ve vancouver'da türk &amp; hint nüfusu patlama yapmış.<br/><br/>sebebini bilmiyorum. belki göçmene ve hizmet sektöründe çalışana ihtiyaç vardır, ama kanada hükumeti göz yummaya devam ederse orada bir nesil sonra bayagi etkili bir türk popülasyonu olur diye düşünüyorum.<br/><br/>edit: daha önce kardeşi ve kuzenleri kanadaya gittiğinden kanada vizesi alamayan iskenderunlu barmen maykıl'ın(asıl adı engin) geçen sene a.b.d vizesi alıp a.b.d'ye gittiğini, sacini pembeye boyayip(eşcinsellikle alakasi yok, aslinda vurucu tim'in en önde bayrak sallayanı) kırıtarak sınirdaki niagara'ya, akabinde yürüyerek a.b.d'den elini kolunu sallayarak kanada'ya girdiğini, mahkemede hakime kıkirdayıp eşcinsel oldugunu iddia ederek tr'de baskiya ugradini söyleyip pasaportunu teslim ettigini, şu an calgary'de bir barda garsonluk yaptigini duyduktan sonra şu söze bir kez daha hak verdim ahbaplar; <br/>azimle işeyen betonu deler!
+- entry_name: |
+    talat paşa
+  entry_id:  75051480
+  entry_writer: mukan
+  entry_fav_count: 59
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yiğit bir ermeni devrimcisi<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>korkudan talat paşa'nın gözlerine bakamayıp bir tur daha atıp arkasına geçen ve paşa'yı sırtından vuran yavşak nasıl bir yiğit oluyor hele anlatın bakalım!<br/><br/>osmanlı sadrazamı.
 - entry_name: |
     ispanyol erkeği erkekse türk erkeği ne
   entry_id:  75060635
   entry_writer: sennickbulamamaknedirbilirmisin
-  entry_fav_count: 54
+  entry_fav_count: 58
   entry_content: |
     (bkz: <a class="b" href="/?q=eved">eved</a>)<br/>(bkz: <a class="b" href="/?q=te%c5%9fekk%c3%bcr+ediyoruz">teşekkür ediyoruz</a>)
 - entry_name: |
     bekar erkeğin boşanmış çocuklu kadın ile evlenmesi
   entry_id:  75042654
   entry_writer: koway
-  entry_fav_count: 47
+  entry_fav_count: 48
   entry_content: |
     hiçte öyle kolay olmayan bir durum.<br/><br/>bundan 10 yıl kadar önce moldova uyruklu çocuklu bir kadınla aşk yaşıyorduk. kendisi ile aynı yaştaydık. harika bir kadındı ve gerçekten birbirimiz için yaratılmıştık. daha önce hiçbir kadınla yaşayamadığım mutluluğu onunla yaşıyorum. dedim bu kadından bana eş olur. <br/>neyse aileye konuyu açtım. <br/>işte uzun süredir bir kadın var hayatımda, kendisi moldovalı diyorum. buraya kadar her şey normal, kimsenin bir şey dediği yok. yalnız 3 yaşında bir oğlu var diyorum. o an ki durum hala aklımdadır. annem bana kıyamadığına bir şey demedi ama babam resmen aşağılayan gözlerle bakıyordu bana. neyse konuyu ilk açışım diye pek üstelemedim. sonra yine açtım, yine aynı şeyler. daha sonra kapattım konuyu.<br/><br/>aşkımızı yaşamaya devam ettik. sonra benden hamile kaldı kadın. bizimkilere söyledim, hamile kendisi diye. aldırmamı istediler. hatun hiç istemedi bunu tabi. neyse aldırdık. sonra kendisi moldovaya gittiği için mecburi ayrılık yaşadık. <br/><br/>üzerinden 7 yıl geçti ve bir gün telefonum çaldı. açtım telefonu, seni dinleyip o bebeği aldırdığım için çok pişmanım dedi. içim parçalandı.<br/><br/>üzerinden 9 yıl geçti, geçenlerde annem. oğlum evlen artık, bi çoluğun cocuğun olsun, baban rahmetli oldu, bana bir şey olsa tek başına kalacaksın demeye başladı. ben kimseyi istemiyorum anne dedim. bunun üzerine keşke sana engel olmasaydık, şimdi kocaman çocuğun olurdu dedi. geçti anne hepsi diyebildim sadece.<br/><br/>hayat akıp gider, şartlar değişir, zaman asla geri gelmez.<br/><br/>hayır ailem geri kafalı insanlardan oluşmuyor ama o zamanlar ben çok gençtim ve bu durumu ailemin bana yakıştıramamasına kurban gittim. ailem de haklıydı belki, sonuçta çevre baskısı denen bir şey var. <br/><br/>neyse anlayacağınız pekte kolay bir şey değil boşanmış çocuklu bir kadınla evlenmek.
-- entry_name: |
-    popstar 2018
-  entry_id:  75043581
-  entry_writer: mungojerry
-  entry_fav_count: 45
-  entry_content: |
-    bülent ersoy'a özel taht yapmışlar görünce kahkaha attım. bari deniz'e de ranza falan koyun yabancılık çekmesin kadın.
 - entry_name: |
     17 mart 2018 fenerbahçe galatasaray maçı
   entry_id:  75048749
   entry_writer: didierdrogba07
-  entry_fav_count: 44
+  entry_fav_count: 47
   entry_content: |
     galatasaray kadro kalitesi olarak daha üst düzey;<br/>hücum organizasyonları daha kaliteli;<br/>kazanma hırsı isteği ile maçı her ne şartta olursa olsun koparmayı biliyor;<br/>defansif anlamda yan toplar hariç olmak üzere daha ayakları yere basıyor;<br/>orta sahada daha dinamik, oyunu rakip yarı sahaya yıkmayı seviyor;<br/>galatasaray kalecisi daha güven veriyor;<br/>teknik direktörü daha tecrubeli ve daha iyi bir teknik adam;<br/>özellikle golcüleri çok tehlikeli;<br/>vs. vs. vs...<br/><br/>görüldüğü gibi tüm şartlar fenerbahçe'nin galibiyetine uygun durumda...
 - entry_name: |
     mehmet aydın
   entry_id:  75044905
   entry_writer: buyuyup buyuk adam olacaktim
-  entry_fav_count: 39
+  entry_fav_count: 42
   entry_content: |
     6 ay spor ve diyet sonrası hiç kimse tanıyamaz, gelir bir tur daha bindirir.
 - entry_name: |
     beymen'de satılan halı motifli gömlek
   entry_id:  75051286
   entry_writer: gayim ama para bende
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     halı motifli değil koltuk örtüsüdür.<br/><br/>ayrıca bu gömleğe o kadar para verenin seçme ve seçilme hakkı elinden alınmalı.
 - entry_name: |
-    beşiktaş
-  entry_id:  75043465
-  entry_writer: kokomiram
-  entry_fav_count: 28
+    seküler milliyetçinin el kitabı
+  entry_id:  75056070
+  entry_writer: nostalgiaman
+  entry_fav_count: 21
   entry_content: |
-    gecen sene oldugu gibi bu yili da yaklasik 20 puanla bitirdi ve toplam 57 puanla avrupa'da 24. siraya yerlesti. arkasinda onu gecebilecek liverpool ve roma var. onumuzdeki yil cok kritik cunku 0 puanla bitirdigi bir sezon klasman disi kalacak ve onumuzdeki yilin puanlari eklenecek. bir sezon daha puan istikrarini surdurdugu takdirde 75 puan civarina ulasacak ve avrupa'da 15-20 siralama bandina yerlesecek. bundan sonraki iki sezonda da bunlar olursa once 10-15 ve sonra 5-10 bandina atlayabilir. ıhtiyaci olan kendi kapasitesini asan basarilar degil istikrar. ıstikrar da her sene ligde ilk ikiye girmek, avrupa'da makul olcude tur atlama. ya da ligi ilk 4 de bitirip avrupa kupasinda en az ceyrek final oynama.<br/><br/>onumuzdeki sene sampiyonlar ligine ucuncu torbadan girecegimiz icin her halukarda grupta ilk uce girmek makul bir hedef ve uefa'da seri basi olup bir - iki tur atlayarak bu puanlara ulasmak mumkun.<br/><br/>ornegin sevillla ve dortmund bu duzeyde. sampiyonlar liginde zirveye oynamiyor ama istikrarli bicimde 20 puan topladigi icin avrupa'da ilk 10 klup arasinda. <br/><br/>bu pazar oynanacak basaksehir maci bayern macindan 30 kat daha onemli.
+    (bkz: <a class="b" href="/?q=m.+bahad%c4%b1rhan+din%c3%a7aslan">m. bahadırhan dinçaslan</a>) imzalı kitap, (bkz: <a class="b" href="/?q=yenisey+kitap">yenisey kitap</a>)'tan çıktı. karar gazetesi, kırım haber ajansı ve mbdincaslan.com'da yayımlanan makalelerinden oluşuyor. yazarın mevcut şovenist yahut islamcı milliyetçilik furyaları içinde yeni, akılcı, bilimsel bir milliyetçilik düşüncesine yol ararken geçtiği merhalelere dair notlar derlenerek bir kitap haline getirilmiş.<br/><br/>kitabın takdimini yazardan biraz daha büyük, yazarla yaşıt ve yazardan biraz daha genç üç nesli temsilen üç genç yapmış. arka kapakta ise <a class="b" href="/?q=servet+avc%c4%b1">servet avcı</a> kitaba dair şunları söylüyor:<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>tamamına katılmasanız bile tamamını tekrar tekrar okumadan bırakamayacağınız bir eser çıkmış ortaya… ilk okuduğunuzda zaman zaman sert tepki vereceğiniz, sonra kendinizle baş başa kalınca “acaba” diyerek, içinize kurt düşmüş hâlde ‘olay yeri’ne dönüp bir daha bakmaktan geri duramayacağınız… <br/><br/>yazar, uzunca zamandır kimi milliyetçilerin, daha doğrusu milliyetçiliği temsil iddiasındaki mekaniğin sinir uçlarına abana abana yazıyordu… onların aslında ideoloji zannettikleri, çağı okumaya uzak, dondurulmuş, adeta ‘içtihat kapısı’ kapatılmış, sloganlardan ve basit davranış kalıplarından ibaret dünyalarına çomak sokuyordu… üstelik alacağı tepkileri, yalnızlaşma tehlikesini, belki de yaftalanma ihtimalini bile bile ama çekinmeden, yutkunmadan yazıyordu… <br/><br/>‘seküler milliyetçinin el kitabı’, fazlasıyla rahatsız edici!.. tembelliğe alışkın yanlarımızı dürtüyor… ideolojiyi ve siyaseti beleşe getirmiş, milliyetçileri sadece ‘eleman’laştıran, ‘itaat’i kutsayıp ‘bilgi’yi kovan, ‘özgür düşünce’yi ‘tabular’la boğan taassubumuza saldırıyor… yüksek volümlü bu itiraz ve öneriler, ‘mutlu ve gururlu’ görünmeye çalıştığımız sanallığımıza kastediyor… <br/><br/>üzerinden kadastro geçmiş siyasî coğrafyamızın ‘milliyetçilik parsel’ine, tutunabilmek ve muktedir olabilmek için, vatan ve toprak kadar, o toprağın üzerindeki insanı, tabiatı, birey olmanın önemini, bilgiyi, üretmeyi, teknolojiyi, kaliteyi, kültürü, hukuku, şüpheyi ve tarihin öğrettiklerini, sivri diliyle hatırlatıyor… <br/><br/>içerikten mahrum bırakılmış, bol sloganlı, soğuk savaş bakiyesi emir-komutalı hayata razı edilerek, beşeri yaratıcılıkları kısıtlanmış bir büyük potansiyele ufka bakmayı dayatıyor… işte bunun için fazlasıyla rahatsız edici!..<br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> --- <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.kitapyurdu.com/kitap/sekuler-milliyetcinin-el-kitabi/454980.html" title="http://www.kitapyurdu.com/kitap/sekuler-milliyetcinin-el-kitabi/454980.html">http://www.kitapyurdu.com/…in-el-kitabi/454980.html</a>
+- entry_name: |
+    bir erkeği bağlamanın yolları
+  entry_id:  75062103
+  entry_writer: cipso
+  entry_fav_count: 18
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ip">ip</a>)
 - entry_name: |
     14 mart 2018 beşiktaş bayern münih maçı
   entry_id:  75042220
@@ -241,26 +241,12 @@ data:
   entry_content: |
     artık formalite maçı olmuş bir müsabakayı oldukça keyifli bir maça dönüştüren bjk taraftarına teşekkürlerimi sunuyorum.
 - entry_name: |
-    bir erkeği bağlamanın yolları
-  entry_id:  75062103
-  entry_writer: cipso
-  entry_fav_count: 16
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ip">ip</a>)
-- entry_name: |
     16 mart 2018 şampiyonlar ligi kura çekimi
   entry_id:  75046979
   entry_writer: niel esapura
   entry_fav_count: 16
   entry_content: |
     adam üstteki entryde, "ispanyol futbolu düşüşte" yazmış.<br/><br/>son 4 sezonda; 4 sampiyonlar ligi, 4 süper kupa ve 3 uefa kupası alan ülkenin takımları için söylemiş bunu. son 12 avrupa kupasının 11'ini almış 3 ispanyol takımımın çeyrek finale çıkması da büyük başarı" imiş.<br/><br/>ne yazacağımı bilemedim. allah akıl fikir versin.<br/><br/>umarım bu sene o sene olur ve yıllardır hayalini kurduğumuz o el clasico finalini izleriz.
-- entry_name: |
-    pelin çift ile anlamaya çalışıyorum
-  entry_id:  75063838
-  entry_writer: cyrano de panpa
-  entry_fav_count: 14
-  entry_content: |
-    nurettin yıldız ile <a class="b" href="/?q=kimleri+sikebiliyoruz">kimleri sikebiliyoruz</a>
 - entry_name: |
     hastası olunan sözler
   entry_id:  75044224
@@ -276,19 +262,33 @@ data:
   entry_content: |
     bir de şu grafikler üzerine alttan üstten çizgi çizip coin/bitcoin falına bakanlar var ((; böyle deyince alınıyor hasbam. bana çok salakça geliyor. herifin biri telegram grubunda izliyorum grafik paylaşıyor. kafasına göre çizmiş boyamış 8200 dolar direnç noktası diyor. sonra 8200'ün altını görünce grafiği güncellemem lazım deyip aynı grafiğin üzerine yeni eğik büğük şekiller çizip "arkadaşlar yeni direnç noktamız bu". ooo yaşa kardeş, sağol, varollar süzülüyor tabi iktisat amelelerinin parmaklarından. <br/><br/>forex piyasasının, bist'in çömezleri olduğuna inanıyorum bu arkadaşların.<br/><br/>bunlara: "kardeş bu ne ya, sçmışsın" denmiyor; "analiz işi bu, anlamazlar", "arkadaş yeni galiba" deyip seni çömez ederler (((; birde bunların kıvırmada usta olanları: "efendim binance'nin hack'lenmesi yoktu", "çin kararını açıklamamıştı", "gtme bitcoin kaçtı" vs.vs... yağlayıp pullayıp grafiklerle bir güzel anlatırlar sonra: "efendim ytd".<br/><br/>olur sktrgt.<br/><br/>ekleme: efendim sokturtmayınız iktisad teorilerinize. havadan nem kapan, akışın çok hızlı olduğu bir yerde iktisat fallarınızın bir halta yaramadığını aşikar. şaka maka gidişat tolga karel'i haklı çıkartacak (; bu grafikçi arkadaşlardan daha makbul bir şekilde pozisyonunu savunuyordu herif. haklı da çıkıyor gibi...
 - entry_name: |
-    fatih terim vs şenol güneş
-  entry_id:  75063062
-  entry_writer: delixtarter
-  entry_fav_count: 6
+    az bilinen görgü kuralları
+  entry_id:  75051873
+  entry_writer: amy leenin gozleri
+  entry_fav_count: 12
   entry_content: |
-    fatih terim'e sari taksi diyen tekerleksiz bisikletleri ortaya doken versus.<br/><br/>fatih terimin tasaklarini senol gunes'in suratina vura vura kazanacagi versus da olabilir, emin degilim.
+    otobüs,kantin gibi insanların toplu halde kullanabileceği ortamlarda sıraya girmek..<br/><br/>az bilinen değil,hiç bilinmeyen görgü kuralı olsa gerek. çünkü hiç kimse böyle bir görgü kuralının olduğundan haberdar değil. nuhun gemisine yetişmeye çalışıyor gibi birbirlerini eziyorlar.
+- entry_name: |
+    108cm bacakları olan isveçli model
+  entry_id:  75064564
+  entry_writer: telli kursun yarasi
+  entry_fav_count: 11
+  entry_content: |
+    cirkin bacakli bir kadindir. sporcu olmasini ve celik gibi bir vücudunun olmasini takdir ettim orasi ayri. ama bacak dediginin boyu degil estetigi önemlidir kanaatindeyim. felan pavir.<br/><br/>(bkz: <a class="b" href="/?q=blake+lively">blake lively</a>)
 - entry_name: |
     eşini en çok aldatan meslek grubu
   entry_id:  75063337
   entry_writer: gokyuzunde yalniz gezen birseyler
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     tüm genellemeler yanlıştır. <br/>fakat çevremde gördüğüm istatistiklere bakarsam;<br/>sağlıkçılar aldatma konusunda başı çekiyor. fazla nöbet tutmaktan mıdır nedir?<br/><br/>yine çevremdeki istatistiklerden yola çıkarsam, en sadık meslek gruplarından birinin de mühendisler olduğunu gördüm.<br/><br/>he evet aldatmanın mesleği olmaz, karakter meselesi tabi tabi.
+- entry_name: |
+    tek başına sinemaya gitmek
+  entry_id:  75051509
+  entry_writer: forrest gumpin turkiye subesi
+  entry_fav_count: 4
+  entry_content: |
+    sürekli yaptığım eylem.<br/><br/>(bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1%c4%9f%c4%b1n+anla%c5%9f%c4%b1ld%c4%b1%c4%9f%c4%b1+anlar">yalnızlığın anlaşıldığı anlar</a>)
 - entry_name: |
     yazarların sakinleşmek için yaptığı işler
   entry_id:  75042924
@@ -304,20 +304,6 @@ data:
   entry_content: |
     "asılı kaldım bir ipin ucunda.."
 - entry_name: |
-    tek kadınla doyan erkek
-  entry_id:  75064156
-  entry_writer: erdlbbr
-  entry_fav_count: 2
-  entry_content: |
-    tek kadınla doymayıp, tek kadını bile doyuramayan yobaza dert olmuş erkektir.<br/><br/>(bkz: <a class="b" href="/?q=tek+kad%c4%b1nla+doyan+erkek+sap%c4%b1kt%c4%b1r">tek kadınla doyan erkek sapıktır</a>)
-- entry_name: |
-    tek başına sinemaya gitmek
-  entry_id:  75051509
-  entry_writer: forrest gumpin turkiye subesi
-  entry_fav_count: 2
-  entry_content: |
-    sürekli yaptığım eylem.<br/><br/>(bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1%c4%9f%c4%b1n+anla%c5%9f%c4%b1ld%c4%b1%c4%9f%c4%b1+anlar">yalnızlığın anlaşıldığı anlar</a>)
-- entry_name: |
     onca zorluğun arasında mağaraya resim yapan tip
   entry_id:  75062210
   entry_writer: ganx
@@ -332,12 +318,19 @@ data:
   entry_content: |
     vermek çok kolay yaptığım birşeydir. hele ki sevdiğim şeyleri özellikle kendime saklamaz daha bir veririm, bunun tadını hiçbirşeye değişmedim şu güne kadar.<br/><br/>bugün nihayet eski bir dostuma söz verdiğim ve benden 6 yıldır beklediği hediyelerden birini bulup yolladım. mutlu ve huzurluyum.<br/><br/>öte yanda hayli uzun zamandır tüm tedbirlere rağmen kendini her geçen gün daha da hatırlatıp duran garip bir hastalıkla mücadele ediyorum ve biraz tedirgindim, çok şükür şimdilik korktuğumdan iyiyim ama haftalardır bedenimle konuşuyor ve biraz daha dayan diyorum, az daha...
 - entry_name: |
-    fenerbahçe'nin derbi için hazırladığı video
-  entry_id:  75064049
-  entry_writer: kac para ulan bir flut
+    şu anda çalan şarkı
+  entry_id:  75062351
+  entry_writer: hamlettin semspirzade
   entry_fav_count: 1
   entry_content: |
-    neresinden kalite aktığını merak ettiğim video. fan yapımı videolar bile çok daha güzel oluyor.<br/>(bkz: <a class="b" href="/?q=fenerliler+de+kalitesizli%c4%9fin+kalite+olmas%c4%b1">fenerliler de kalitesizliğin kalite olması</a>)
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/V_4bqiDnruI" title="https://youtu.be/V_4bqiDnruI">kako band</a>
+- entry_name: |
+    fatih terim vs şenol güneş
+  entry_id:  75062762
+  entry_writer: strong enough
+  entry_fav_count: 1
+  entry_content: |
+    birinin kazandığı tüm başarılarda şans faktörü ön plandadır. diğeri emekçi ve eğitmendir. şansızlığına rağmen başarılıdır.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  75046818
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     işsizseniz 1 ay içinde platformadki çoğu dizi - filmi izlemiş yada en azından hepsinin konusunu biliyor oluyorsunuz. hayvan gibi bi içerik derinliği beklerdim ama yok.
+- entry_name: |
+    fenerbahçe'nin derbi için hazırladığı video
+  entry_id:  75064166
+  entry_writer: kullanimdaolmayannickarayancaylak
+  entry_fav_count: 0
+  entry_content: |
+    sezon başından beri her branşta uyuyan taraftarı gaza getirecek bir video olmuş.
 ---
