@@ -6,44 +6,65 @@ data:
     tek kadınla doyan erkek sapıktır
   entry_id:  75049771
   entry_writer: sigara kibrit
-  entry_fav_count: 878
+  entry_fav_count: 882
   entry_content: |
     akla şu hikayeyi getirir;<br/><br/>bektaşi camiye gitmiş...<br/>hoca konuşuyor; "şarap içenler öbür tarafta her türlü cezayı çekecek, şarap içmeyenler her türlü sefayı sürecek. hatta her birinin emrine 40 huri verilecek. huriler de çok güzel olacak. şarap içenlerin ise içtikleri her şişe şarap, sirat köprüsünden geçerken boyunlarına asılacak!"<br/><br/>bektaşi dayanamayıp seslenmiş; "hoca efendi, şişeler dolu mu olacak boş mu olacak?"<br/><br/>hoca gürlemiş; "bre zındık, sen dolu şişelerle öbür tarafı meyhane mi sanırsın!?"<br/><br/>bektaşi itiraz etmiş; "peki hoca, adam başı 40 huri ile sen öbür tarafı kerhane mi sanırsın?"
+- entry_name: |
+    ronaldo'nun beşiktaş'a gelmek istemesi
+  entry_id:  75053136
+  entry_writer: giotean
+  entry_fav_count: 823
+  entry_content: |
+    oradan ortaköy'e geçecek herhalde, canı kumpir çekti demek.
 - entry_name: |
     2 yaşındaki kıza göz kırptığı için tutuklanan adam
   entry_id:  75047454
   entry_writer: nexavar
-  entry_fav_count: 764
+  entry_fav_count: 772
   entry_content: |
     özellikle hareketli ve hiperaktif çocuklara karşı çok sıklıkla yaptığım eylem olduğundan beni oldukça endişelendiren başlıktır. <br/><br/>ve göz kırpmakla yetinmemem ve elemanlara ayrıca dil çıkartmam ve el sallamam da cabası.<br/><br/>haberin doğru olduğunu varsayarsak, yani sadece göz kırpma ile sınırlı olduğunu varsayarsak, bu adamın dayak yemesi ve tutuklanmasına anlam veremiyorum. <br/><br/>sanırım milletçe paranoyak olduk ve dengemiz bozuldu.
 - entry_name: |
     dil devrimi adı altında damarlarımız kesildi
   entry_id:  75058737
   entry_writer: perkins tp
-  entry_fav_count: 723
+  entry_fav_count: 738
   entry_content: |
     biz fabrika ayarlarımıza dönersek orhun yazıtlarını okuyabilir hale geliriz zira bizim fabrikamız orta asyadadır, sizin gibi ortadoğu bok çukurunda değil.<br/><br/>ekleme; adam dinde güncelleme ile büyük gaf yaptı. bunu duzeltmek için bir süre yobaz tabanının mamalarını vermek zorunda olduğundan devrim kanunlarına birkaç gün daha saldırmak zorunda. <br/><br/>yoksa ne bayrak, ne istiklal marşı ne de başkent yani daha doğrusu ilk 3 madde değiştirilemez bu ülkede artık. 2012 olsaydi olurdu ama artık siyasal islam kaçırdı o treni. rahat ama tetikte olun.<br/><br/>edit: <a class="b" href="/?q=bedelli+ogrenci">bedelli ogrenci</a> nin uyarısıyla başlığı açan dallamanın girilerine göz atınca aklınca atatürkçüleri devlete (bakın devlete diyorum, hükümete değil) karşı kışkırtabileceğini sanan bir pkk'lı olduğu ortaya çıkıyor. <br/><br/>oğlum kot pantolonun üstüne sargı bezi sarıp yaralı siviller var algısı oluşturmaya benzemez bu işler. madem beceremiyorsunuz bu işleri bırakın iyice komik duruma düştünüz amk.
 - entry_name: |
     camide fuhuş yaparken yakalanan imam
   entry_id:  75059371
   entry_writer: koministimam2
-  entry_fav_count: 642
+  entry_fav_count: 656
   entry_content: |
     hem camide sikiş, hem başlığa yazılanları kaldır! ne güzel la, öyle ben de yaparım imamlık...<br/><br/>az delikanlı ol olum, az dininin adamı ol! siktiysen siktim de mü’min yalan söyler mi(!)<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/?q=yardima+muhtac+kadinlari+istismar+eden+emekli+imam">yardima muhtac kadinlari istismar eden emekli imam</a>)<br/><br/>bu başlığa bir gözaltın derim... imam bunu sildirmeyi unutmuş...<br/><br/><a class="b" href="/?q=edit2">edit2</a> adam hayır işliyormuş piçler! beni de gaza getirdiniz yaa. özür dilerim hocam, meğer zorda kalanlara dayıyormuşsun para ile... helal olsun yardıma muhtaç bağyyanlara yardımı kendine şiar edinen <a class="b" href="/?q=koca+y%c3%bcrekli+imam">koca yürekli imam</a> :)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>konya selçuklu'da uzun yıllar imamlık yaptıktan sonra emekli olan y.y.'nin gönüllü müezzinlik yaptığı camide yardıma muhtaç kadınlarla para karşılığında ilişkişe girdiği iddia edildi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+- entry_name: |
+    uber taksicilik yapmak istiyorsa t plaka alsın
+  entry_id:  75043019
+  entry_writer: ormantik sevgili
+  entry_fav_count: 655
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yak%c4%b1n+mesafe+ba%c5%9fl%c4%b1%c4%9fa+yazm%c4%b1yoruz">yakın mesafe başlığa yazmıyoruz</a>)
 - entry_name: |
     sgk'nın 34 milyar lira açık vermesi
   entry_id:  75049428
   entry_writer: turiq
-  entry_fav_count: 449
+  entry_fav_count: 456
   entry_content: |
     oysa kasım 2017 döneminde bakanımız <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201711151031012207-sarieroglu-sgk-acik-kilicdaroglu/" title="https://tr.sputniknews.com/turkiye/201711151031012207-sarieroglu-sgk-acik-kilicdaroglu/">21 milyar tl açığımız var</a> demişti. hatta sebebini kılışdar olarak göstermişti. <br/><br/>aradaki 13 milyar tl açığın sebebi ismet inönü olabilir mi sorusu geldi aklıma istemsizce.
 - entry_name: |
     mehmet aydın'ın çaldığı paraları yayınlaması
   entry_id:  75062678
   entry_writer: ogretmen bey
-  entry_fav_count: 291
+  entry_fav_count: 301
   entry_content: |
     avrupanın en büyük sığır tesisini kuruyoruz derken haklıymış.<br/><br/>yılda %140 kar vaadine kananlar sayesinde adam rolex gösterip balya balya paranın videosunu koymuş, ne ka güzel...
+- entry_name: |
+    istiklal marşı'nın ilahi gibi okunması
+  entry_id:  75051017
+  entry_writer: sultanahmetli
+  entry_fav_count: 291
+  entry_content: |
+    istiklal marşı okuduğu zaman türk milletinin tüylerinin diken diken olmasını hazmedemeyen babası kansız tiyniyetsiz, hiç işi gücü kalmamış sapıkların iktidardan destek alarak gerçekleştirdiği olay.<br/>inadına yerli yersiz her yerde istiklal marşını sonuna kadar açıp çomarların ve onların sahiplerinin kudurmasına sebep olacağım.<br/><br/>edit:<br/>bu akşam iş çıkışı tramvayda ve sokakta ''taşeron yıkım ekibi'' tarafından tahrif edilmemiş bozulmamış istiklal marşımızı sesini açarak dinledim, dinlettim.
 - entry_name: |
     börü
   entry_id:  75042766
@@ -55,107 +76,128 @@ data:
     kaybedenler kulübü ekibinin galaya sarhoş gelmesi
   entry_id:  75049756
   entry_writer: henrikissenger
-  entry_fav_count: 230
+  entry_fav_count: 234
   entry_content: |
     (bkz: <a class="b" href="/?q=pr+yapay%c4%b1m+derken+bokunu+%c3%a7%c4%b1karmak">pr yapayım derken bokunu çıkarmak</a>)<br/><br/>+farklı bir şey yapmamız lazım abi ne yapalım tanıtım için?<br/>-jetskiyle kaybolsak?<br/>+gökhan özen yaptı<br/>-birisi senaryo çalıntı diye dava etsin?<br/>+sürekli yapılıyor<br/>-köy okuluna neyim yardım edelim?<br/>+sus vururum ağzına<br/>-o zaman galaya sarhoş gidelim saçmalayalım. hem filmimizin konusunu oluşturan kadıköy varoşluğu ile uyumlu olur, hem oyuncularımızın aşina olduğu bir durum, hem de çok tepki çeker çok konuşulur. tartışmalar seküler-muhafazakar çatışmasına dönüşürse sekülerlerin toplumsal desteğiyle gişe rekoru gelir. <br/>+canımsın, gel öpücem.
 - entry_name: |
     kırıkkale dünyanın en berbat yeri
   entry_id:  75050450
   entry_writer: hokage
-  entry_fav_count: 212
+  entry_fav_count: 215
   entry_content: |
     bir kırıkkaleli olarak çok da şey yapmayın oğlum dediğim durum.<br/><br/>hak vermiyor değilim. <br/><br/>:)<br/><br/>bir şehir 30 yılda hiç mi gelişmez?
 - entry_name: |
-    10 liradan ucuz tavuk döner yemeyin
-  entry_id:  75057798
-  entry_writer: cadillacman
-  entry_fav_count: 164
+    babam öldü herkes gırgır yapıyor
+  entry_id:  75048837
+  entry_writer: fictionel
+  entry_fav_count: 201
   entry_content: |
-    ne kadar gerzekçe bir söylem. yemeyin diye millete söyleyeceğinize ucuz satanları denetleyin, kedi eti, at eti yedirenleri birebir tespit edip ibreti alem için teşhir edin. yemeyin demek de ne saçmalaktır? adam bunu duyunca 8 liralık dönerini 15 liraya çıkarıp "benimki kaliteli" dese kim bilecek?
+    sözlükte <a class="b" href="/?q=poz+vereyim+derken+u%c3%a7urumdan+d%c3%bc%c5%9fen+adam">poz vereyim derken uçurumdan düşen adam</a> olarak başlığı açılan, urfa kalesinden düşerek hayatını yitiren halil dağ’ın kızının söylediği söz. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/urfa-kalesi-nden-dusup-olen-halil-dag-in-kizi-babam-oldu-herkes-girgir-yapiyor-208059.html" title="https://www.birgun.net/haber-detay/urfa-kalesi-nden-dusup-olen-halil-dag-in-kizi-babam-oldu-herkes-girgir-yapiyor-208059.html">haberi</a> okuduktan sonra eminim ki bu olayı komedi malzemesi haline getirenler vicdanlarını biraz sorgulayacaktır.<br/><br/>gerçi sorgulaması bu saatten sonra neyi değiştirir. zaten kızların psikolojisi bozulmuş. intihara kalkışanı olmuş. benim anlamadığım neden bu tür olayları daha en baştan komik olmayacağını algılayamıyoruz. neden empati yeteneğinden yoksunuz. tüm bunların sebebi sosyal medya denen (sözlüğü de buna dahil edebiliriz) bok çukurunda 1-2 fazla beğeni almak için vicdanımızı ve ahlakımızı askıya asmamızdan ileri geliyor. başka birşey değil.<br/><br/>edit—adamın <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=Ghwq450CmPA" title="https://m.youtube.com/watch?v=Ghwq450CmPA">videosu</a> dikkatlice seyredilirse, aslında çok da riskli bir atlayış yapmadığı görülebilir. adamın atladıktan sonra konduğu yer ile uçurumdan düştüğü yer arasında belli bir mesafe var. adam ne yazık ki konduktan sonra dengesini kaybediyor ve kendini durduramıyor. yaşı genç bir insan bu şekilde atlayıp dengesini kaybetse belki bir çeviklikle kendini kurtarabilirdi düşmekten.<br/><br/>yani adam gerçekten büyük bir talihsizlik sonucu hayatını kaybetmiş. bu adamın yaptığını bulaşık makinesi tableti yiyenlerle veya gözü kapalı karşıdan karşıya geçenlerle bir tutmayın. adam ölmeyi göze alarak poz vermemiş, güzel bir anı olsun istemiş sadece.
+- entry_name: |
+    hulusi akar'ın iç mekanda şapkasız selam vermesi
+  entry_id:  75055163
+  entry_writer: kanamayan yara
+  entry_fav_count: 187
+  entry_content: |
+    ankara'da yaptığım askerlikte, bizim bölükte bir er, tümgeneral'e şapkasız selam verince bölük komutanı fırçayı yemişti. şapkasız selam veren er de iki gün disko'ya ( hapse) gönderilmişti.<br/><br/>düşünün ülkenin halini. bunu yapan genelkurmay başkanı amk.. üçüncü dünya ülkesi işte. ne desek elimizde kalıyor. her yeri çamur ve bataklık.
 - entry_name: |
     atv dizi oyuncularının fotoğrafta rakıyı saklaması
   entry_id:  75059997
   entry_writer: tabudeviren
-  entry_fav_count: 163
+  entry_fav_count: 177
   entry_content: |
-    fotoğraf dışarıdan birinin (basın mensubu vb.) çektiği fotoğraf değil, kendilerinin çektiği fotoğraf. kendi çektiği ve yüklediği fotoğrafa bile sansür koyuyor. sansür kafada yerleşip otomatikleşmiş. yazık.
+    fotoğraf dışarıdan birinin (basın mensubu vb.) çektiği fotoğraf değil, kendilerinin çektiği fotoğraf. kendi çektiği ve yüklediği fotoğrafa bile sansür koyuyor. sansür kafada yerleşip otomatikleşmiş. yazık.<br/><br/>edit: orada içki içmek istedin ve içtin/içiyorsun. fotoğraf çekerken bunu neden gizleyip kendini farklı göstermeye çalışıyorsun? bu senin tercihin. sen busun. "başkaları ne der" korkusuyla kendin olmaktan vazgeçiyorsun. "hayat benim, içki benim, kimse karışamaz" diyemiyorsun.
+- entry_name: |
+    10 liradan ucuz tavuk döner yemeyin
+  entry_id:  75057798
+  entry_writer: cadillacman
+  entry_fav_count: 173
+  entry_content: |
+    ne kadar gerzekçe bir söylem. yemeyin diye millete söyleyeceğinize ucuz satanları denetleyin, kedi eti, at eti yedirenleri birebir tespit edip ibreti alem için teşhir edin. yemeyin demek de ne saçmalaktır? adam bunu duyunca 8 liralık dönerini 15 liraya çıkarıp "benimki kaliteli" dese kim bilecek?
 - entry_name: |
     yaşadığın şehrin adını söylemeden anlat
   entry_id:  75050575
   entry_writer: vitamineral
-  entry_fav_count: 138
+  entry_fav_count: 148
   entry_content: |
     altında erenleri üstünde g.tverenleri ile meşhur dümdüz ilimiz.
 - entry_name: |
     türk kızındaki tavanı ayna kaplatma fantezisi
   entry_id:  75056235
   entry_writer: selamun aleykum kitty
-  entry_fav_count: 112
+  entry_fav_count: 121
   entry_content: |
     hiç duyulmadık bir genelleme gerçekten iyice yalan da söylemeye başladınız ha. içkiniz kumarınız kadınınız bitti bi de yalanınız başladı.
 - entry_name: |
     108 cm bacakları olan isveçli model
   entry_id:  75064564
   entry_writer: telli kursun yarasi
-  entry_fav_count: 105
+  entry_fav_count: 115
   entry_content: |
     cirkin bacakli bir kadindir. sporcu olmasini ve celik gibi bir vücudunun olmasini takdir ettim orasi ayri. ama bacak dediginin boyu degil estetigi önemlidir kanaatindeyim. felan pavir.<br/><br/>(bkz: <a class="b" href="/?q=blake+lively">blake lively</a>)
-- entry_name: |
-    coca-cola'dan çıkan fare
-  entry_id:  75064546
-  entry_writer: sittirevalli
-  entry_fav_count: 95
-  entry_content: |
-    asitli içecekler sağlığa zararlıdır, ayrıca yüksek seviyede şeker ihtiva etmesi malum içeceğin zaten sağlıksız olduğunu ayan beyan belli etmektedir. <br/><br/>bunlar tamam , tamam da başlığı açan herifte ağır bir cahillik var. cahilliklerini sıralarsak;<br/><br/>1) cola o tenekelere, büyük kazanlardan çekilerek , küçücük enjektörler aracılığı ile basılır. dolayısıyla üretimin o aşamasında farenin kazana girmesi muhtemel değildir.hadi girdi , bu sefer o pompalı ve hassas ayarlı enjektörler den çıkması mümkün değildir. <br/><br/>2)cola doldurulduktan hemen sonra ağzı kapatılır. kapatma işlemi milimetrik hassasiyettedir. misal orda girmeye calisti fare diyelim,makine o kadar seri calisirki, fareyi daha girmeden kapak gibi ezer parçalar atar, dolayısıyla fare o kapaktan içeri giremez.<br/><br/>3) cola üretimine insan eli değmez, üretim tamamen otomatik makineler tarafından yapılır. farenin girmesi de mümkün değildir. elbette fabrikada olabilir ama o kapağın içinden giremez.( ilk başta yazdım sağlıksız olduğunu zaten , homurdanmayin)<br/><br/>4)son olarak fare , koku duyusu çok gelişmiş bir hayvandır. ağzı açık bir teneke dibindeki bol şekerli bir şerbete asla hayır diyemez. belgesel izleyenler az çok bilir.<br/><br/>uzatmayalım; bir şeye bok atacaksınız eğer , az çok arastiracaksiniz. araştırmadan dalarsaniz , çok komik hallere düşebilirsiniz. " dünya düzdür" diyenlerden farkiniz olmalı.
 - entry_name: |
     türkiye bayrağınının değiştirilmesi
   entry_id:  75058148
   entry_writer: prion
-  entry_fav_count: 94
+  entry_fav_count: 104
   entry_content: |
     bunu mu demek istediniz<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+bayra%c4%9f%c4%b1">türk bayrağı</a>)
+- entry_name: |
+    rusya çenesini kapamalı
+  entry_id:  75063744
+  entry_writer: erdlbbr
+  entry_fav_count: 96
+  entry_content: |
+    rusya'nın çenesi kapalı zaten adamlar konuşmuyor icraat yapıyor. teker teker öldürdüler ingiltere'deki ajanları ve putin muhaliflerini. bence ingiltere çenesini kapatsın yoksa putin reis çıkarıp malı masaya vuracak.
+- entry_name: |
+    coca-cola'dan çıkan fare
+  entry_id:  75064546
+  entry_writer: sittirevalli
+  entry_fav_count: 96
+  entry_content: |
+    asitli içecekler sağlığa zararlıdır, ayrıca yüksek seviyede şeker ihtiva etmesi malum içeceğin zaten sağlıksız olduğunu ayan beyan belli etmektedir. <br/><br/>bunlar tamam , tamam da başlığı açan herifte ağır bir cahillik var. cahilliklerini sıralarsak;<br/><br/>1) cola o tenekelere, büyük kazanlardan çekilerek , küçücük enjektörler aracılığı ile basılır. dolayısıyla üretimin o aşamasında farenin kazana girmesi muhtemel değildir.hadi girdi , bu sefer o pompalı ve hassas ayarlı enjektörler den çıkması mümkün değildir. <br/><br/>2)cola doldurulduktan hemen sonra ağzı kapatılır. kapatma işlemi milimetrik hassasiyettedir. misal orda girmeye calisti fare diyelim,makine o kadar seri calisirki, fareyi daha girmeden kapak gibi ezer parçalar atar, dolayısıyla fare o kapaktan içeri giremez.<br/><br/>3) cola üretimine insan eli değmez, üretim tamamen otomatik makineler tarafından yapılır. farenin girmesi de mümkün değildir. elbette fabrikada olabilir ama o kapağın içinden giremez.( ilk başta yazdım sağlıksız olduğunu zaten , homurdanmayin)<br/><br/>4)son olarak fare , koku duyusu çok gelişmiş bir hayvandır. ağzı açık bir teneke dibindeki bol şekerli bir şerbete asla hayır diyemez. belgesel izleyenler az çok bilir.<br/><br/>uzatmayalım; bir şeye bok atacaksınız eğer , az çok arastiracaksiniz. araştırmadan dalarsaniz , çok komik hallere düşebilirsiniz. " dünya düzdür" diyenlerden farkiniz olmalı.
+- entry_name: |
+    türk gencinin ömrünü mahveden üç şey
+  entry_id:  75043241
+  entry_writer: planckintuvali
+  entry_fav_count: 94
+  entry_content: |
+    siyaset<br/>boktan eğitim sistemi<br/>vizyonsuz aileler
 - entry_name: |
     çiftlik bank
   entry_id:  75042346
   entry_writer: siradan cinko karbon pil
-  entry_fav_count: 93
+  entry_fav_count: 94
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/5D3kpM.jpg">https://i.hizliresim.com/5d3kpm.jpg</a><br/><br/>adam paraları alıp uruguay'a kaçmış. facebook grubunda arkasından yazılanlar ise türkiye'nin özeti.<br/><br/>mehmet kardeşim çok güzel bir yere olta atmışsın ya.<br/><br/>edit: caps uçtu
 - entry_name: |
     çiftlik bank'ı anlatan filme isim önerileri
   entry_id:  75042508
   entry_writer: sh1t
-  entry_fav_count: 88
+  entry_fav_count: 90
   entry_content: |
     catch the tombalak if you can
-- entry_name: |
-    rusya çenesini kapamalı
-  entry_id:  75063744
-  entry_writer: erdlbbr
-  entry_fav_count: 83
-  entry_content: |
-    rusya'nın çenesi kapalı zaten adamlar konuşmuyor icraat yapıyor. teker teker öldürdüler ingiltere'deki ajanları ve putin muhaliflerini. bence ingiltere çenesini kapatsın yoksa putin reis çıkarıp malı masaya vuracak.
 - entry_name: |
     ispanyol erkeği erkekse türk erkeği ne
   entry_id:  75060635
   entry_writer: sennickbulamamaknedirbilirmisin
-  entry_fav_count: 83
+  entry_fav_count: 84
   entry_content: |
     (bkz: <a class="b" href="/?q=eved">eved</a>)<br/>(bkz: <a class="b" href="/?q=te%c5%9fekk%c3%bcr+ediyoruz">teşekkür ediyoruz</a>)
-- entry_name: |
-    türkiye'den siktir olup gitmek
-  entry_id:  75045260
-  entry_writer: tahirikemal
-  entry_fav_count: 81
-  entry_content: |
-    marmaris turizm çalışanları arasında yaygınlaşan eylem.<br/><br/>son 3 yılda 20'den fazla animatör, barmen, garson, acentacı, botçu, şezlongçu ve hatta otel işletmecisi kanada'ya gitti.<br/><br/>'niçin kanada, sebebi nedir?' diye sordum;<br/>kanada'ya vize alıp oraya gittikten sonra 'eşcinselim' deyip pasaportlarını teslim ediyorlar ve siğinmaci durumuna dusuyorlar. 3 ay sonra bunlara dunyanin heryerinde kullanabilecekleri kanada gecici kimligi veriliyor. hastane, egitim filan ücretsiz. ustelik turkiyeye de girip cikabiliyorlar. hintliler de ayni yöntemi kullaniyorlarmis ve son iki yilda toronto ve vancouver'da türk &amp; hint nüfusu patlama yapmış.<br/><br/>sebebini bilmiyorum. belki göçmene ve hizmet sektöründe çalışana ihtiyaç vardır, ama kanada hükumeti göz yummaya devam ederse orada bir nesil sonra bayagi etkili bir türk popülasyonu olur diye düşünüyorum.<br/><br/>edit: daha önce kardeşi ve kuzenleri kanadaya gittiğinden kanada vizesi alamayan iskenderunlu barmen maykıl'ın(asıl adı engin) geçen sene a.b.d vizesi alıp a.b.d'ye gittiğini, sacini pembeye boyayip(eşcinsellikle alakasi yok, aslinda vurucu tim'in en önde bayrak sallayanı) kırıtarak sınirdaki niagara'ya, akabinde yürüyerek a.b.d'den elini kolunu sallayarak kanada'ya girdiğini, mahkemede hakime kıkirdayıp eşcinsel oldugunu iddia ederek tr'de baskiya ugradini söyleyip pasaportunu teslim ettigini, şu an calgary'de bir barda garsonluk yaptigini duyduktan sonra şu söze bir kez daha hak verdim ahbaplar; <br/>azimle işeyen betonu deler!
 - entry_name: |
     bir erkeği bağlamanın yolları
   entry_id:  75062291
   entry_writer: kullanimdaolmayannickarayancaylak
-  entry_fav_count: 76
+  entry_fav_count: 84
   entry_content: |
     büyük, dolgun, yumuşak ve diri memeler. aksini iddia eden fetöcüdür, pkk lı dır, puşttur, göttür,ılıktır.
+- entry_name: |
+    ryanair
+  entry_id:  75055226
+  entry_writer: antonin artaud
+  entry_fav_count: 67
+  entry_content: |
+    türkiye pazarına girmiş şirket. dalaman-dublin, dalaman-bratislava uçuşları ile başlayacaklarmış.<br/><br/>şu anda dalaman-dublin tek yön fiyatı 40 euro. çok iyi oldu bu.
 - entry_name: |
     17 mart 2018 fenerbahçe galatasaray maçı
   entry_id:  75048749
@@ -167,65 +209,65 @@ data:
     bekar erkeğin boşanmış çocuklu kadın ile evlenmesi
   entry_id:  75042654
   entry_writer: koway
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     hiçte öyle kolay olmayan bir durum.<br/><br/>bundan 10 yıl kadar önce moldova uyruklu çocuklu bir kadınla aşk yaşıyorduk. kendisi ile aynı yaştaydık. harika bir kadındı ve gerçekten birbirimiz için yaratılmıştık. daha önce hiçbir kadınla yaşayamadığım mutluluğu onunla yaşıyorum. dedim bu kadından bana eş olur. <br/>neyse aileye konuyu açtım. <br/>işte uzun süredir bir kadın var hayatımda, kendisi moldovalı diyorum. buraya kadar her şey normal, kimsenin bir şey dediği yok. yalnız 3 yaşında bir oğlu var diyorum. o an ki durum hala aklımdadır. annem bana kıyamadığına bir şey demedi ama babam resmen aşağılayan gözlerle bakıyordu bana. neyse konuyu ilk açışım diye pek üstelemedim. sonra yine açtım, yine aynı şeyler. daha sonra kapattım konuyu.<br/><br/>aşkımızı yaşamaya devam ettik. sonra benden hamile kaldı kadın. bizimkilere söyledim, hamile kendisi diye. aldırmamı istediler. hatun hiç istemedi bunu tabi. neyse aldırdık. sonra kendisi moldovaya gittiği için mecburi ayrılık yaşadık. <br/><br/>üzerinden 7 yıl geçti ve bir gün telefonum çaldı. açtım telefonu, seni dinleyip o bebeği aldırdığım için çok pişmanım dedi. içim parçalandı.<br/><br/>üzerinden 9 yıl geçti, geçenlerde annem. oğlum evlen artık, bi çoluğun cocuğun olsun, baban rahmetli oldu, bana bir şey olsa tek başına kalacaksın demeye başladı. ben kimseyi istemiyorum anne dedim. bunun üzerine keşke sana engel olmasaydık, şimdi kocaman çocuğun olurdu dedi. geçti anne hepsi diyebildim sadece.<br/><br/>hayat akıp gider, şartlar değişir, zaman asla geri gelmez.<br/><br/>hayır ailem geri kafalı insanlardan oluşmuyor ama o zamanlar ben çok gençtim ve bu durumu ailemin bana yakıştıramamasına kurban gittim. ailem de haklıydı belki, sonuçta çevre baskısı denen bir şey var. <br/><br/>neyse anlayacağınız pekte kolay bir şey değil boşanmış çocuklu bir kadınla evlenmek.
-- entry_name: |
-    mehmet aydın
-  entry_id:  75044905
-  entry_writer: buyuyup buyuk adam olacaktim
-  entry_fav_count: 48
-  entry_content: |
-    6 ay spor ve diyet sonrası hiç kimse tanıyamaz, gelir bir tur daha bindirir.
-- entry_name: |
-    fatih terim vs şenol güneş
-  entry_id:  75062877
-  entry_writer: jam master jay
-  entry_fav_count: 30
-  entry_content: |
-    birini sadece kara fatmalar üstün görür.<br/><br/>değil türkiye, global çapta anket yapılsa kimin kazanacağı bariz bellidir.<br/><br/>(bkz: <a class="b" href="/?q=mercedes+s+class+vs.+fiat+doblo">mercedes s class vs. fiat doblo</a>)<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://img.fotospor.com/images/content/136000/135215/13773482455.jpg" title="http://img.fotospor.com/images/content/136000/135215/13773482455.jpg">tık</a>
 - entry_name: |
     ninja kaplumbağalar'daki hristiyanlık propagandası
   entry_id:  75067204
   entry_writer: zurnaci kovboy
-  entry_fav_count: 29
+  entry_fav_count: 47
   entry_content: |
-    adana sormazlar mı sen vatikan'a neden gittin diye?
+    adama sormazlar mı sen vatikan'a neden gittin diye?
 - entry_name: |
-    15 mart 2018 avrupa parlamentosunun afrin kararı
-  entry_id:  75061270
-  entry_writer: goldencrab
-  entry_fav_count: 27
+    tek başına sinemaya gitmek
+  entry_id:  75064147
+  entry_writer: alingan demokrat
+  entry_fav_count: 31
   entry_content: |
-    strazburg'u gezdiğim zaman avrupa konseyi binası'nın karşısındaki parkın girişinde dev bir öcalan posterini ve öcalan için imza kampanyasını görmüştüm. avrupa'nın güya terör örgütü olarak tanıdığı bir oluşumun liderinin posterinin hemen karşılarına asılmasına ses etmemesi zaten ikiyüzlülüğün en büyük göstergesidir.<br/><br/>ab, pkk'yı sever ve kollar. iki kere iki eşittir dört.
+    güzel bir şeyler yapmak için her daim başka birine ihtiyaç duymayı oldum olası anlamadım. birisi varsa olur da yoksa gitmemek nedir onu da anlamadım. filme odaklanmak keyif almak kendime vakit ayırmak adına çokça yaptığım eylemdir. tavsiye edilir.
 - entry_name: |
     çift diplomalı iş bulamayan çaresiz kadın
   entry_id:  75059087
   entry_writer: muasaka
-  entry_fav_count: 23
+  entry_fav_count: 29
   entry_content: |
     videoyu açmadan önce 2 tane dandik önlisans aöf bölümü bitirmiş biri çıkacak sandım ama iki tane iyi üniversite ve iki iyi bölüm bitirmiş tecrübeli birini görünce zaten farkında olduğum dibe batmışlığımızı bir kere daha fark ettim. maalesef ki bu kadının gözyaşları bu ülkenin köküne dökülen kibrit suyundan başka birşey değil.
 - entry_name: |
-    fikret orman
-  entry_id:  75061751
-  entry_writer: cloudyrainyday
-  entry_fav_count: 22
+    15 mart 2018 avrupa parlamentosunun afrin kararı
+  entry_id:  75061270
+  entry_writer: goldencrab
+  entry_fav_count: 28
   entry_content: |
-    fenerlilere kompozisyon yazdiran baskan. ha şöyle efendi efendi kudurun edebiyat bilginiz gelissin. hahahah
+    strazburg'u gezdiğim zaman avrupa konseyi binası'nın karşısındaki parkın girişinde dev bir öcalan posterini ve öcalan için imza kampanyasını görmüştüm. avrupa'nın güya terör örgütü olarak tanıdığı bir oluşumun liderinin posterinin hemen karşılarına asılmasına ses etmemesi zaten ikiyüzlülüğün en büyük göstergesidir.<br/><br/>ab, pkk'yı sever ve kollar. iki kere iki eşittir dört.
 - entry_name: |
-    2018 ekonomik krizi
-  entry_id:  75047968
-  entry_writer: fenerbahce fedaisi
-  entry_fav_count: 22
+    15 mart 2018 marmara diş rezaleti
+  entry_id:  75065210
+  entry_writer: member of illuminati
+  entry_fav_count: 24
   entry_content: |
-    karşılıksız çeke hapis cezası gelse dışardaki suriyeli sayısı türkleri geçer.<br/><br/>öyle bir kriz işte.
+    aslında uzun zamandır devam eden bir rezalet durumudur.<br/>bir çaylak arkadaşın ricası üzerine bu başlığı açıyor ve yazdıklarını aynen kopyalıyorum.<br/><br/>sözlükte (bkz: <a class="b" href="/?q=%23marmaradisrezaleti">#marmaradisrezaleti</a>) uzun zaman önce konu olan durum hala devem etmektedir.<br/><br/>marmara diş hekimliği öğrencisiyim ve bu sefer bir öncekinden de fazla sözlükten destek gerekli. (bknz. #marmaradisrezaleti )<br/>marmara diş hekimliğinde öğrenciler hasta bakmakta aynı diğer diş hekimliği hastaneleri gibi ama bizdeki sıkıntı öğrencilerin tüm zaman ve kapasitelerini aşan imkansız kere imkansız sayılarda hasta bakmamızın istenmesi. ki bu gerçekleşmediğinde sınıfta bırakılmakla (tüm 1 sene tekrarı söz konusu) tehtid ediliyoruz. en başından beri hocaların bizden istediği imkansız hasta sayılarına daha okulun ilk haftasından itiraz etmemize rağmen hiçbir şey değişmedi. geçen seneki aynı dönemde okuyanlardan daha az zamanımız var ama daha çok hasta bakmamız isteniyor ki geçen senelerdeki sayılar bile aşırı fazla ve üst dönemlerin %40 ı sınıf tekrarı yaşıyor olmasına rağmen hem sayı arttı hem zamanımız azaltıldı.belli bir sürede,4 5 ve ya 6 kişinin paylaştığı ünitlerle,üstelik her hastanın tam zamanında geldiğini, hiç kar-yağmur yağmadığını,trafiğin olmadığını, röntgen cihazlarının her zaman çalıştığını, bizle ilgilenmekle yükümlü asistanları klinikte beklediğini ve hiç zaman harcamadan buşabileceğimizi, teknisyenlerin her işi tek seferde yaptığını-yapmayı unutmadığını, her şeyin mükemmel bir şekilde giderse ve biz de hiç hasta olmazsak tüm seansları etkin kullanırsak bakılabilecek maksimum hasta sayısını okula ilettik.<br/>peki marmara üniversitesi diş hekimliği fakültesi bize ne diyor? sizden istenen bu imkansız sayıları yapacaksınız, hastalardan ve devletten hasta başına okula ve bizlerin(hocaların) cebine girecek muayene ücretlerinin azalmasını istemiyoruz,planlarımızı yaptık. bu arada yazın klinikleri açmayacağız çünkü kazandığımız paraları tatilde yiyemiyoruz siz klinikte çalışcaksınız diye.(tabiki okuldaki her hocayı kastetmiyorum, sayıların yetişmeyeceğinin farkında olan ve çözüm arayan hocalarımızı tenzih ederim) <br/>yani ne diyeceğimi bilmiyorum kaç arkadaşımın bursu kesilecek ve okula devam edemeyecek(okul çok çok çok masraflı) , kaç kişi 20 li yaşlarda tükenmişlik yaşayacak,öss sınavında dereceler alıp başarılı olup bu okulu kazananlardan kaçı günlerce ağlayacak "başarısız" olduğu için pırıl pırıl hayatını sonlandırmak isteyecek, ailesinin yüzüne bakamayacak. zaten mobbingin allahı dönüyor okulda, azarlar havada uçuşuyor, "senen yanar"la tehtid ediliyoruz, hastaları kendi telefonlarımızdan aradığımız için hem sapıklıkla hem de "işimiz erken bitsin hekim bey/hanım yoksa gelmem" gibi hasta tehtidlerini de alttan alıyor hatta tedaviyi bırakmasınlar yoksa sınıfta kalırız diye de yol parası, yemek parası, protez diş ve muayene ücretlerini öğrenciler olarak bizler cebimizden öder olduk. başka bölümlerden hatta başka diş fakültelerinden kat kat fazla para cebimizden çıkıyor ve onlardan çooook daha fazla hasta bakıyoruz. en son dekanın asla hasta sayısı azaltılmayacak demesi üzerine haftasonu da açın okulu gelip çalışalım önerisini sunduk yani dus u(diş hekimliğinde uzmanlık sınavı)falan da bıraktık haftasonu dershaneye gitmeyelim yeterki hasta bakalım. bir de akşam 4 7 arasını açmaları talep edeceğiz kendimizi klonlarsak belki yetişecek... <br/>bizler bakılabilecek kadar hasta bakmak, bu mesleği öğrenmek, işlerin çakallığını değil de açıp 2 literatür taramak istiyoruz. yaptığımız işi robot gibi seri üretim değil neden yaptığımızı anlamak, hastalarımızı kontrol seanslarına çağırmak, yapılan tedavinin sonuçlarını görmek yani diş hekimi olarak mezun olmak istiyoruz. ama bu mümkün değil artık geceleri bunları düşünmekten uyuyamaz olduk bu his sadece bir sene kaybetmek değil elinden gelenin fazlasını yapıp kendini hayattan soyutlayıp sadece robot gibi hasta bakarken bile "başarılı" olamayacağını bilmekle alakalı. daha ilk günden beri bu sayıların yetişmeyeceği belliyken hergün 8 de klinikte hasta bakmak insanı delirtme sınırına getiriyor, tüm uğraşımız boşuna çünkü zaten yetişmeyecek ve sınıfta kalacağız hissiyle yaşıyoruz. her gün ailemle konuşurken ağlıyorum. sanki bir kapandayız ve çözümü yok, hocalar tarafından kesinlikle dinlenmiyoruz. sözlük lütfen bir ses verin bilmiyorum belki bir şey değişir belki yazın okulu açarlar belki akşam da hasta bakmaya izin verirler. hasta sayısını azaltmamak için her şeyi yapıyorlar bari gece gündüz çalışalım.
 - entry_name: |
     az bilinen görgü kuralları
   entry_id:  75051873
   entry_writer: amy leenin gozleri
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     otobüs,kantin gibi insanların toplu halde kullanabileceği ortamlarda sıraya girmek..<br/><br/>az bilinen değil,hiç bilinmeyen görgü kuralı olsa gerek. çünkü hiç kimse böyle bir görgü kuralının olduğundan haberdar değil. nuhun gemisine yetişmeye çalışıyor gibi birbirlerini eziyorlar.
+- entry_name: |
+    kalbi kırılmış bir kadının yapabilecekleri
+  entry_id:  75062716
+  entry_writer: femme noir
+  entry_fav_count: 21
+  entry_content: |
+    kadın dediğin yekpare bir şey değil elbet. hepimizin farklı farklı huyları var.<br/>ben meselâ, şarkı söylerim.<br/><br/>evet, bazen arabaya biner, bazen balkona çıkar, tek dinleyicim kendim olacak şekilde şarkı söylerim.<br/><br/>bence kırılmış bir kalbe en iyi gelen şey kendi sesinizden şarkı dinlemek. duygularınızın inişini, çıkışını kendi sesinizden duymak, halet-i ruhiyenizi daha iyi anlamanızı sağlıyor. seçtiğiniz şarkı aslında neye üzgün olduğunuzu daha iyi fark ettiriyor size. gururunuz muydu incinen yoksa özlem yüzünden mi kırık kalbiniz? şarkılar hepsini anlatır. sesiniz de size sizi anlatır.<br/><br/>bir daha kalbiniz kırılınca deneyin, pişman olmazsınız.
+- entry_name: |
+    yazarların sakinleşmek için yaptığı işler
+  entry_id:  75042531
+  entry_writer: cevirmenin notu
+  entry_fav_count: 18
+  entry_content: |
+    <a class="b" href="/?q=cif">cif</a>lemek. küveti ciflemek. lavaboyu ciflemek. buzdolabını çekip yanlarını ciflemek. ciflemek de ciflemek. eskinin izleri, kirleri, pasları gitsin. sinirlendiğiniz kişiyi pataklar gibi bastıra bastıra cifleyin anacım. sinirinizi hoplatan kişi yok olmasa da eviniz pırıl pırıl olur. tıpkı onsuz günleriniz gibi<sup class="ab"><a title="(bkz: kıps)" href="/?q=k%c4%b1ps" data-query="kıps">*</a></sup>
 - entry_name: |
     16 mart 2018 şampiyonlar ligi kura çekimi
   entry_id:  75046979
@@ -234,20 +276,6 @@ data:
   entry_content: |
     adam üstteki entryde, "ispanyol futbolu düşüşte" yazmış.<br/><br/>son 4 sezonda; 4 sampiyonlar ligi, 4 süper kupa ve 3 uefa kupası alan ülkenin takımları için söylemiş bunu. son 12 avrupa kupasının 11'ini almış 3 ispanyol takımımın çeyrek finale çıkması da büyük başarı" imiş.<br/><br/>ne yazacağımı bilemedim. allah akıl fikir versin.<br/><br/>umarım bu sene o sene olur ve yıllardır hayalini kurduğumuz o el clasico finalini izleriz.
 - entry_name: |
-    yazarların sakinleşmek için yaptığı işler
-  entry_id:  75042531
-  entry_writer: cevirmenin notu
-  entry_fav_count: 16
-  entry_content: |
-    <a class="b" href="/?q=cif">cif</a>lemek. küveti ciflemek. lavaboyu ciflemek. buzdolabını çekip yanlarını ciflemek. ciflemek de ciflemek. eskinin izleri, kirleri, pasları gitsin. sinirlendiğiniz kişiyi pataklar gibi bastıra bastıra cifleyin anacım. sinirinizi hoplatan kişi yok olmasa da eviniz pırıl pırıl olur. tıpkı onsuz günleriniz gibi<sup class="ab"><a title="(bkz: kıps)" href="/?q=k%c4%b1ps" data-query="kıps">*</a></sup>
-- entry_name: |
-    survivor 2018 all-star
-  entry_id:  75059784
-  entry_writer: hepmihep
-  entry_fav_count: 16
-  entry_content: |
-    sema adlı homosapiens türü ada hayatında futbolcu türü bir canlı bulur bulmaz onun sırtına yapışır ve başka türlü katiyen ada şartlarında hayatta kalamaz.
-- entry_name: |
     jurassic park türkiye'de açılsaydı
   entry_id:  75066097
   entry_writer: ramachandran
@@ -255,68 +283,54 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=dinozora+tecav%c3%bcz">dinozora tecavüz</a>)
 - entry_name: |
-    15 mart 2018 marmara diş rezaleti
-  entry_id:  75065210
-  entry_writer: member of illuminati
-  entry_fav_count: 14
+    duman'ın en iyi şarkısı
+  entry_id:  75066960
+  entry_writer: ezzra
+  entry_fav_count: 12
   entry_content: |
-    aslında uzun zamandır devam eden bir rezalet durumudur.<br/>bir çaylak arkadaşın ricası üzerine bu başlığı açıyor ve yazdıklarını aynen kopyalıyorum.<br/><br/>sözlükte (bkz: <a class="b" href="/?q=%23marmaradisrezaleti">#marmaradisrezaleti</a>) uzun zaman önce konu olan durum hala devem etmektedir.<br/><br/>marmara diş hekimliği öğrencisiyim ve bu sefer bir öncekinden de fazla sözlükten destek gerekli. (bknz. #marmaradisrezaleti )<br/>marmara diş hekimliğinde öğrenciler hasta bakmakta aynı diğer diş hekimliği hastaneleri gibi ama bizdeki sıkıntı öğrencilerin tüm zaman ve kapasitelerini aşan imkansız kere imkansız sayılarda hasta bakmamızın istenmesi. ki bu gerçekleşmediğinde sınıfta bırakılmakla (tüm 1 sene tekrarı söz konusu) tehtid ediliyoruz. en başından beri hocaların bizden istediği imkansız hasta sayılarına daha okulun ilk haftasından itiraz etmemize rağmen hiçbir şey değişmedi. geçen seneki aynı dönemde okuyanlardan daha az zamanımız var ama daha çok hasta bakmamız isteniyor ki geçen senelerdeki sayılar bile aşırı fazla ve üst dönemlerin %40 ı sınıf tekrarı yaşıyor olmasına rağmen hem sayı arttı hem zamanımız azaltıldı.belli bir sürede,4 5 ve ya 6 kişinin paylaştığı ünitlerle,üstelik her hastanın tam zamanında geldiğini, hiç kar-yağmur yağmadığını,trafiğin olmadığını, röntgen cihazlarının her zaman çalıştığını, bizle ilgilenmekle yükümlü asistanları klinikte beklediğini ve hiç zaman harcamadan buşabileceğimizi, teknisyenlerin her işi tek seferde yaptığını-yapmayı unutmadığını, her şeyin mükemmel bir şekilde giderse ve biz de hiç hasta olmazsak tüm seansları etkin kullanırsak bakılabilecek maksimum hasta sayısını okula ilettik.<br/>peki marmara üniversitesi diş hekimliği fakültesi bize ne diyor? sizden istenen bu imkansız sayıları yapacaksınız, hastalardan ve devletten hasta başına okula ve bizlerin(hocaların) cebine girecek muayene ücretlerinin azalmasını istemiyoruz,planlarımızı yaptık. bu arada yazın klinikleri açmayacağız çünkü kazandığımız paraları tatilde yiyemiyoruz siz klinikte çalışcaksınız diye.(tabiki okuldaki her hocayı kastetmiyorum, sayıların yetişmeyeceğinin farkında olan ve çözüm arayan hocalarımızı tenzih ederim) <br/>yani ne diyeceğimi bilmiyorum kaç arkadaşımın bursu kesilecek ve okula devam edemeyecek(okul çok çok çok masraflı) , kaç kişi 20 li yaşlarda tükenmişlik yaşayacak,öss sınavında dereceler alıp başarılı olup bu okulu kazananlardan kaçı günlerce ağlayacak "başarısız" olduğu için pırıl pırıl hayatını sonlandırmak isteyecek, ailesinin yüzüne bakamayacak. zaten mobbingin allahı dönüyor okulda, azarlar havada uçuşuyor, "senen yanar"la tehtid ediliyoruz, hastaları kendi telefonlarımızdan aradığımız için hem sapıklıkla hem de "işimiz erken bitsin hekim bey/hanım yoksa gelmem" gibi hasta tehtidlerini de alttan alıyor hatta tedaviyi bırakmasınlar yoksa sınıfta kalırız diye de yol parası, yemek parası, protez diş ve muayene ücretlerini öğrenciler olarak bizler cebimizden öder olduk. başka bölümlerden hatta başka diş fakültelerinden kat kat fazla para cebimizden çıkıyor ve onlardan çooook daha fazla hasta bakıyoruz. en son dekanın asla hasta sayısı azaltılmayacak demesi üzerine haftasonu da açın okulu gelip çalışalım önerisini sunduk yani dus u(diş hekimliğinde uzmanlık sınavı)falan da bıraktık haftasonu dershaneye gitmeyelim yeterki hasta bakalım. bir de akşam 4 7 arasını açmaları talep edeceğiz kendimizi klonlarsak belki yetişecek... <br/>bizler bakılabilecek kadar hasta bakmak, bu mesleği öğrenmek, işlerin çakallığını değil de açıp 2 literatür taramak istiyoruz. yaptığımız işi robot gibi seri üretim değil neden yaptığımızı anlamak, hastalarımızı kontrol seanslarına çağırmak, yapılan tedavinin sonuçlarını görmek yani diş hekimi olarak mezun olmak istiyoruz. ama bu mümkün değil artık geceleri bunları düşünmekten uyuyamaz olduk bu his sadece bir sene kaybetmek değil elinden gelenin fazlasını yapıp kendini hayattan soyutlayıp sadece robot gibi hasta bakarken bile "başarılı" olamayacağını bilmekle alakalı. daha ilk günden beri bu sayıların yetişmeyeceği belliyken hergün 8 de klinikte hasta bakmak insanı delirtme sınırına getiriyor, tüm uğraşımız boşuna çünkü zaten yetişmeyecek ve sınıfta kalacağız hissiyle yaşıyoruz. her gün ailemle konuşurken ağlıyorum. sanki bir kapandayız ve çözümü yok, hocalar tarafından kesinlikle dinlenmiyoruz. sözlük lütfen bir ses verin bilmiyorum belki bir şey değişir belki yazın okulu açarlar belki akşam da hasta bakmaya izin verirler. hasta sayısını azaltmamak için her şeyi yapıyorlar bari gece gündüz çalışalım.
-- entry_name: |
-    tek başına sinemaya gitmek
-  entry_id:  75051509
-  entry_writer: forrest gumpin turkiye subesi
-  entry_fav_count: 13
-  entry_content: |
-    sürekli yaptığım eylem.<br/><br/>(bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1%c4%9f%c4%b1n+anla%c5%9f%c4%b1ld%c4%b1%c4%9f%c4%b1+anlar">yalnızlığın anlaşıldığı anlar</a>)
-- entry_name: |
-    monica belucci'nin şişirilmiş bir balon olması
-  entry_id:  75042942
-  entry_writer: xavier naidoo
-  entry_fav_count: 9
-  entry_content: |
-    "üfleyen güzel üflemiş şişirirken..."
+    <a class="b" href="/?q=ah">ah</a> eğleniyor kendi başına <br/>ah neşesi yeter!
 - entry_name: |
     fenerbahçe'nin derbi için hazırladığı video
   entry_id:  75063821
   entry_writer: lethalizer
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     videoda gecen "bu senin kaderin" cumlesi muthis olmus. her yere cekilir valla, gs'ye karsi yillardir suren seriye atif da olabilir, fenerbahcelilerin aziz yildirim'a mahkum olmasi anlami da cikarilabilir :)
 - entry_name: |
-    duman'ın en iyi şarkısı
-  entry_id:  75066960
-  entry_writer: ezzra
-  entry_fav_count: 6
+    fatih terim vs şenol güneş
+  entry_id:  75065247
+  entry_writer: wonderkid91
+  entry_fav_count: 9
   entry_content: |
-    <a class="b" href="/?q=ah">ah</a> eğleniyor kendi başına <br/>ah neşesi yeter!
-- entry_name: |
-    bir ülkenin geri kalmış olduğunu anlama yolları
-  entry_id:  75057445
-  entry_writer: casandrarheme
-  entry_fav_count: 6
-  entry_content: |
-    yönetimini, siyasetini, insanlarını, eğitim sistemini, sağlık hizmetlerini hatta daha bir çok detayını düşünüp güzide ülkemizle karşılaştırın. sonucunda ülkemizle olan benzerlikleri baya baya mevcutsa geçmiş olsun o ülke geri kalmıştır.
+    hiç utanmadan burada fatih terim için sarı taksi denmiş. fatih terim, beşiktaş müzesi kadar kupa kazanmıştır. fatih terim ilk şampiyonluğunu kazandığında 43 veya 44 yaşındaydı, şenol güneş'in o yaşlarda ne yaptığını bilmiyorum bile. fatih terim egoludur, şenol güneş'in ne olduğunu bu yaşına rağmen hala çözemedik. fatih terim thy'dir, tüm dünyaya uçar ve tüm dünya tanır. şenol güneş ise sun express, onur air'dır, belli yerlere belli kalitede uçar ve tanınmışlığı bellidir. <br/><br/>tiner çekerken lütfen buraya entry girmeyin.
 - entry_name: |
     chp döneminde çekilmiş ekmek kuyruğu fotoğrafı
   entry_id:  75066646
   entry_writer: renksiz hayat
-  entry_fav_count: 5
+  entry_fav_count: 9
   entry_content: |
     1951'de ülkeyi kimin yönettiğinin bir önemi yok. bunu böyle paylaştığında tersi ispat edilse bile algıyı yerleştirmiş oluyorsun. sosyal medyanın bizi getirdiği yer bu. çarpıt çarpıtabildiğin kadar. sesin çok çıksın yeter.
 - entry_name: |
     stephen hawking'in şişirilmiş balon olması
   entry_id:  75067470
   entry_writer: dergul
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OCsuHvv_D0s" title="https://www.youtube.com/watch?v=OCsuHvv_D0s">burada kanıtını görebilirsiniz.</a><br/><br/>trol'lerin canı sıkılınca, başka ilgi kaynaklarına yönelecekler ama, stephen hawking'in mirası yüzlerce yıl hatırlanacaktır.(tıpkı kendinden öncekiler gibi.)<br/><br/>ek: başlığı açan kişinin, yazdıklarını silip, kaçacağından adım gibi eminin
 - entry_name: |
     vatanım sensin
   entry_id:  75067094
   entry_writer: archin
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     hilal'e replik yazmakta sıkıntı çekmeyen dizi, her üç satırda bir; <br/><br/>' durun napıyorsunuz, durun napıyorsunuz'<br/><br/>elinin körü canım
+- entry_name: |
+    sevilen şarkının en vurucu cümlesi
+  entry_id:  75049024
+  entry_writer: caladan
+  entry_fav_count: 4
+  entry_content: |
+    "asılı kaldım bir ipin ucunda.."
 - entry_name: |
     merkez bankası'nın faiz videosu
   entry_id:  75068288
@@ -331,20 +345,6 @@ data:
   entry_fav_count: 1
   entry_content: |
     en karlı olanı<br/><br/>(bkz: <a class="b" href="/?q=%c3%a7iftlik+bank">çiftlik bank</a>)
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  75046818
-  entry_writer: niye boyle oluyo ya
-  entry_fav_count: 1
-  entry_content: |
-    uyanik olan var mi acabasindan girilen entry.
-- entry_name: |
-    müzik tarihinin en seksi videosu
-  entry_id:  75067693
-  entry_writer: paranoid humanoid
-  entry_fav_count: 0
-  entry_content: |
-    <a class="b" href="/?q=metin+arolat">metin arolat</a> - <a class="b" href="/?q=dert+de%c4%9fil">dert değil</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/IFpgOdRGAGk" title="https://youtu.be/IFpgOdRGAGk">hey gidi</a>
 - entry_name: |
     ekşi itiraf
   entry_id:  75063239
