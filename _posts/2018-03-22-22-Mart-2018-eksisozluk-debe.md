@@ -6,28 +6,28 @@ data:
     çanakkale köprüsü'nün geçiş ücretinin 70 tl olması
   entry_id:  75232662
   entry_writer: le realisateur
-  entry_fav_count: 673
+  entry_fav_count: 675
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%a7anakkale+ge%c3%a7ilmez">çanakkale geçilmez</a>)
 - entry_name: |
     berk oktay'ın çıplak fotoğraflarının hacklenmesi
   entry_id:  75239898
   entry_writer: eksi peace
-  entry_fav_count: 459
+  entry_fav_count: 472
   entry_content: |
     kaderimiz bu dedirten olay.<br/><br/>yurtdışında jennifer lawrence, kate upton hacklenir bize düşen ise berk oktay.
 - entry_name: |
-    cuma hutbesine reklam almak
-  entry_id:  75234401
-  entry_writer: crowbar
-  entry_fav_count: 453
+    türkiye'nin şaka maka çökmüş olması
+  entry_id:  75249929
+  entry_writer: uda
+  entry_fav_count: 470
   entry_content: |
-    şu fıkrayı akıllara getirmiştir:<br/><br/>çok iyi giyimli bir iş adamı vatikan’a gelir papa’yla görüşmek istediğini söyler. kendisini bir kardinal’e götürürler. adam ısrar eder.<br/>– sizinle değil, doğrudan papa ile ve yalnız görüşmek istiyorum.<br/>sonunda adamı papa’nın huzuruna çıkarırlar. ama adamın ne istediğini merak eden kardinaller kapının dışında kulak kesilmiş içeriyi dinlemektedirler. içeride sesler yükselmiştir.<br/>adam :<br/>– 1 milyar dolar.<br/>papa :<br/>– olmaz<br/>– 2 milyar dolar.<br/>– hayır.<br/>– 5 milyar dolar.<br/>– hayır.<br/>adam kapıyı çarpar, hışımla uzaklaşırken kardinaller içeri koşuşur.<br/>– sayın papa hazretleri, 5 milyar dolar muazzam bir para. düşünün bu para ile kaç katedral, kaç kilise yapılır, dünya üzerine kaç misyoner gönderilirdi. parayı niçin kabul etmediniz?<br/>– ne yani? her duadan sonra amin yerine coca cola mı deseydik ?
+    kimsenin sikine takmadığı gerçek.<br/><br/>gerçekten anlamıyorum, neyi tutarsan elde kalıyor. milletin gıkı çıkmıyor.<br/><br/>en büyük medya organı a habere dönüştü bugun itibari ile<br/>ekonomi yerlerde, tamamen dışa bağımlı bir ülkeyiz dolar olmuş 4 benzin 6 <br/>seçim güvenliği yok lan böyle ülke mi olur, oyunu veriyosun ama adam saymıyor onu, o başkadır başka ona vermek istemedin aslında deyip eline veriyorlar kimliği.<br/>eğitim sistemine hiç girmiyorum, benim en son girdiğim sınav sistemi en az 10 kere değişti işte hesap edin<br/><br/>olm cidden normal mi lan bunlar ? <br/><br/>sikildik ey halkım uyan<br/><br/>edit: diriliş den gelen bazı aktrollere göre bir devletin çökmesi için işgal edilmesi gerekiyormuş, evet 1600 lü yıllardayız. <br/>ulan tipik herşeyin dip görmüş, her anlamda dışa bağımlısın, bunun adı çöküş olmuyor mu ?<br/><br/>edi: benzin 6 olmuş. ben atamıyorum abi bilemedim.
 - entry_name: |
     16 yılda 4 milyar fidan diktik inanmayan saysın
   entry_id:  75239913
   entry_writer: supersonic hate
-  entry_fav_count: 401
+  entry_fav_count: 412
   entry_content: |
     milletin ocağına diktikleri incir ağaçlarını da eklemiş hesaba anlaşılan...
 - entry_name: |
@@ -48,44 +48,37 @@ data:
     21 mart 2018 doğan medya grubunun satılması
   entry_id:  75239512
   entry_writer: naletcix
-  entry_fav_count: 365
+  entry_fav_count: 372
   entry_content: |
     lacivertler arası geçiş yaşanmıştır.
-- entry_name: |
-    türkiye'nin şaka maka çökmüş olması
-  entry_id:  75249929
-  entry_writer: uda
-  entry_fav_count: 364
-  entry_content: |
-    kimsenin sikine takmadığı gerçek.<br/><br/>gerçekten anlamıyorum, neyi tutarsan elde kalıyor. milletin gıkı çıkmıyor.<br/><br/>en büyük medya organı a habere dönüştü bugun itibari ile<br/>ekonomi yerlerde, tamamen dışa bağımlı bir ülkeyiz dolar olmuş 4 benzin 6 <br/>seçim güvenliği yok lan böyle ülke mi olur, oyunu veriyosun ama adam saymıyor onu, o başkadır başka ona vermek istemedin aslında deyip eline veriyorlar kimliği.<br/>eğitim sistemine hiç girmiyorum, benim en son girdiğim sınav sistemi en az 10 kere değişti işte hesap edin<br/><br/>olm cidden normal mi lan bunlar ? <br/><br/>sikildik ey halkım uyan<br/><br/>edit: diriliş den gelen bazı aktrollere göre bir devletin çökmesi için işgal edilmesi gerekiyormuş, evet 1600 lü yıllardayız. <br/>ulan tipik herşeyin dip görmüş, her anlamda dışa bağımlısın, bunun adı çöküş olmuyor mu ?<br/><br/>edi: benzin 6 olmuş. ben atamıyorum abi bilemedim.
 - entry_name: |
     newroz piroz be
   entry_id:  75231776
   entry_writer: bora ben
-  entry_fav_count: 306
+  entry_fav_count: 310
   entry_content: |
     ulan herşey çalınır anlarım da bir millet tarihinde kutlamaya değecek bir başarısını bulamayıp bayram çalar sonra bunu da aşırı milliyetçi bir hale nasıl sokar onu anlayamıyorum. <br/><br/>bilen şu <a class="b" href="/?q=newroz">newroz</a>'un hikayesini de yazıversin bari ben de size ergenekonu anlatırım <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: ben hikayesini sordum orospu dölü yazıp gönderdiler. sanirim orospu dölü olmakla ilgili bir hikayesi var bu <a class="b" href="/?q=newroz">newroz</a>'un<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 - entry_name: |
     uber kullanıcılarının on günde yüzde 500 artması
   entry_id:  75235778
   entry_writer: dede korkuttun beni
-  entry_fav_count: 240
+  entry_fav_count: 242
   entry_content: |
     ben bu taksicilerde zerre beyin olmadığını düşünmeye başladım. kendi plakasını süren taksi şoförü oranı max. %1'dir geri kalan hepsi taşeron, çıkıp demiyor ki amk ben plaka sahibini zengin edeceğime, her gün parayı çıkartmak için stres olup insan sikeceğime, bulup buluşturup bir araba edinsem, uber'le anlaşma yapsam kendi işimin patronu olsam. azıcık uyanık olsalar plaka sahipleri o plakaları götüne sokmak zorunda kalırlar.<br/><br/>edit : <a class="b" href="/?q=svihs">svihs</a>
 - entry_name: |
     misvak dergisinin afrin fatihi karikatürü
   entry_id:  75249894
   entry_writer: 404gibi
-  entry_fav_count: 225
+  entry_fav_count: 235
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="http://images.ranini.tv/e8d7f8c9-dbfd-4e62-bf46-b7c1640c07e9.jpg" title="http://images.ranini.tv/e8d7f8c9-dbfd-4e62-bf46-b7c1640c07e9.jpg">http://images.ranini.tv/…4e62-bf46-b7c1640c07e9.jpg</a>
 - entry_name: |
-    şişş sok o cüzdanı cebine hesap benden diyen kız
-  entry_id:  75246675
-  entry_writer: ogretmen bey
-  entry_fav_count: 180
+    21 mart 2018 tsk hizbulah çatışması
+  entry_id:  75252946
+  entry_writer: supertosbaa
+  entry_fav_count: 177
   entry_content: |
-    eşimdir benim. dışarıda hiç hesap ödetmiyor sağolsun. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> kredi kartıyla ödüyor, ay sonunda da kartları ben ödüyorum. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    ne renkli coğrafya lan bir giriyorsun her ideolojiden adamla çatışıyorsun.<br/><br/>counter strike serverı gibi şerefsizim.
 - entry_name: |
     mehmed bir cihan fatihi
   entry_id:  75223703
@@ -97,93 +90,100 @@ data:
     oğuzhan uğur
   entry_id:  75224069
   entry_writer: cilgin kovboy
-  entry_fav_count: 139
+  entry_fav_count: 144
   entry_content: |
     oğuzhan uğur başlığına oğuzhan uğur kim yazıyor mnk zırtapozu. çok merak ediyorsan on saniyeni ayır 719 entry dahaya tıkla kim olduğunu öğren allahın salağı<br/><br/>çanakkale konusunda iyi konuşmuş tebrik ederim ama maalesef low iq kitleyi eğitmeye çalışması üzücü. yani 'buluta, keramete' inanan insanı ikna etmeye çalışmak yerine daha üst segmenti eleştirebilir bence
-- entry_name: |
-    bu parti artık benim oy verdiğim ak parti değil
-  entry_id:  75242571
-  entry_writer: savaras
-  entry_fav_count: 119
-  entry_content: |
-    o da bişey mi. bizim hiç oy vermediğimiz akp bile değil, daha beteri.
-- entry_name: |
-    21 mart 2018 tsk hizbulah çatışması
-  entry_id:  75252946
-  entry_writer: supertosbaa
-  entry_fav_count: 108
-  entry_content: |
-    ne renkli coğrafya lan bir giriyorsun her ideolojiden adamla çatışıyorsun.<br/><br/>counter strike serverı gibi şerefsizim.
 - entry_name: |
     manisa'da mesir macunu izdihamı çıkması
   entry_id:  75246999
   entry_writer: hergun
-  entry_fav_count: 97
+  entry_fav_count: 102
   entry_content: |
     macunu yemeden önce bu kuvvet varsa, macunu yedikten sonra vay halimize dedirten olaydır.
-- entry_name: |
-    kıza asla hesap ödetmeyen erkek
-  entry_id:  75240439
-  entry_writer: oray
-  entry_fav_count: 91
-  entry_content: |
-    kadınla erkeğin artık eşit konuma gelmeye başladığı bu yüzyılda saçma bulduğum eylemdir. ilk buluşmada tamam da, her buluşmada ödüyorsan ve hele ki karşındaki hiç cüzdanına elini uzatmıyorsa kusura bakma malsındır!
 - entry_name: |
     kendi eşinin sütünü içmek
   entry_id:  75251917
   entry_writer: okeye aranan dorduncu
-  entry_fav_count: 77
+  entry_fav_count: 99
   entry_content: |
     hiç de engin olmayan din bilgimle, bildiğim kadarıyla; eşiniz bu durumda süt anneniz oluyor, çocuğunuz süt kardeşiniz oluyor. dolayısıyla nikahınız da düşüyor. <br/><br/>(bkz: <a class="b" href="/?q=bir+gecede+e%c5%9fsiz+kald%c4%b1k">bir gecede eşsiz kaldık</a>)<br/><br/>edit: yanlış bilgiymiş, nikah falan düşmüyormuş. amaaan napıyorsanız yapın allahın manyakları.
+- entry_name: |
+    kıza asla hesap ödetmeyen erkek
+  entry_id:  75240439
+  entry_writer: oray
+  entry_fav_count: 95
+  entry_content: |
+    kadınla erkeğin artık eşit konuma gelmeye başladığı bu yüzyılda saçma bulduğum eylemdir. ilk buluşmada tamam da, her buluşmada ödüyorsan ve hele ki karşındaki hiç cüzdanına elini uzatmıyorsa kusura bakma malsındır!
 - entry_name: |
     ayakkabı numarası 37.5'tan büyük olan kadın
   entry_id:  75233015
   entry_writer: mrsengineering
-  entry_fav_count: 69
+  entry_fav_count: 72
   entry_content: |
     benimdir. <br/><br/>ayaklarım 37.5 ten büyük ve şu an ne yapmam gerektiğini bilmiyorum. kendimi vursam da mı ölsem yoksa zehirlesem mi? çünkü bu şartlar altında daha fazla yaşayamam.
 - entry_name: |
     yıllar geçse de unutulmayan oyun hileleri
   entry_id:  75227576
   entry_writer: david jon gilmour
-  entry_fav_count: 67
+  entry_fav_count: 69
   entry_content: |
     - save&amp;load<br/>- add new manager<br/><br/>(bkz: <a class="b" href="/?q=football+manager">football manager</a>)
+- entry_name: |
+    amerika'da 300 dolara alınan araba
+  entry_id:  75239728
+  entry_writer: ugur dindar
+  entry_fav_count: 67
+  entry_content: |
+    2010 yılında almanya'ya üni. için gitmiştim.<br/><br/>98 model benzinli fiesta fun vardı türkiye'de, çok da severdim.<br/>gitmeden sattım 10.500 liraya.<br/><br/>almanya'ya gidince arabanın fiyatına baktım.<br/>500 euro(kur 1.99'du) yani 1.000 lira.<br/><br/>türkiye'deki ikinci el araç piyasasının gelmişine geçmişine sövmüştüm.
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
   entry_id:  75229675
   entry_writer: birlesikki
-  entry_fav_count: 52
+  entry_fav_count: 55
   entry_content: |
     ismi jeana yeager olan texaslı bir hanım ablanın kağıttan yaptığı ve voyager adını verdiği uçakla (tekrar edeyim kağıttan) hiç mola vermeden dünyanın etrafında 25000 milden fazla (yaklaşık 40000 km) yol kat ederek bir tam tur atması. <br/><br/>şöyle ki bu ablamızın kağıttan uçakla dünyayı turlama hayali varmış inanmış araştırmış. 1986'da yardımcı bir pilotla bu turu 13 günde gerçekleştirmiş ve o tarihe kadar hiç iniş yapılmadan gerçekleştirilmiş en uzun uçuşu gerçekleştirmiş hem de kağıttan yapılan bir uçakla. <br/><br/>belgeselini izlemek isteyenlere: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=UvYNvq-mjgU" title="https://m.youtube.com/watch?v=UvYNvq-mjgU">link</a>
+- entry_name: |
+    yazarların en iyi beş dizi listesi
+  entry_id:  75244447
+  entry_writer: jotunogullari
+  entry_fav_count: 52
+  entry_content: |
+    yazdığınız listeler kimsenin umrunda değil arkadaşlar. gereksiz başlıktır.
 - entry_name: |
     osmanlının yetiştirdiği bilim adamları
   entry_id:  75243686
   entry_writer: tearhunter
-  entry_fav_count: 48
+  entry_fav_count: 50
   entry_content: |
     (bkz: <a class="b" href="/?q=osmanl%c4%b1ya+ra%c4%9fmen+yeti%c5%9fen+bilim+adamlar%c4%b1">osmanlıya rağmen yetişen bilim adamları</a>)
+- entry_name: |
+    2050 yılında hayvan eti yemenin yasaklanması
+  entry_id:  75254632
+  entry_writer: bulent ersoy
+  entry_fav_count: 48
+  entry_content: |
+    (bkz: <a class="b" href="/?q=vegan+z%c4%b1rval%c4%b1%c4%9f%c4%b1">vegan zırvalığı</a>)
 - entry_name: |
     börü
   entry_id:  75249470
   entry_writer: dynamo
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>4. bölüm kıraathane sahnesinde arka planda <a class="b" href="/?q=bank+asya+birinci+lig">bank asya birinci lig</a> maçı oynanan dizi.<br/><br/>(bkz: <a class="b" href="/?q=bank+asya">bank asya</a>)<br/>(bkz: <a class="b" href="/?q=bank+asya+birinci+lig">bank asya birinci lig</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çoğu sahnesinde çok ince göndermeler barındırıyor. anlayana.
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  75234827
   entry_writer: binaya uzaktan bakan adam
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     sorduğum soruya neden hiç bir zaman tek seferde cevap alamıyorum ?<br/><br/>buba: nerdesin ?<br/><br/>hatun kişisi: geliyorum<br/><br/>---<br/><br/>buba: geliyor musun?<br/><br/>hatun kişisi: şurdayım.
 - entry_name: |
-    yazarların en iyi beş dizi listesi
-  entry_id:  75244447
-  entry_writer: jotunogullari
-  entry_fav_count: 39
+    4-6 nöbeti
+  entry_id:  75247086
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 41
   entry_content: |
-    yazdığınız listeler kimsenin umrunda değil arkadaşlar. gereksiz başlıktır.
+    cok siksok bi nobet saati.<br/><br/>4'deki nobet icin 3.30'da kaldirirlar, tek goz acik silahliga in, yelek giy, g3'u al nobet yerine git saat oldu 4.. mal gibi 2 saat etrafi izle, caktirmadan sigara ic, sarki soyle.. hava soguksa sayko hareketler yapip isinmaya calis, saat oldu 6 senden sonra nobeti devir alacak asker ust devreyse en iyi ihtimalle 20 dakika takar nobeti saat oldu 6:20.. nobeti devret, doldur bosalta git, silahliga in saat oldu 6.45..<br/>kogus kalk saati zaten 7 amk..<br/><br/>e ne oldu sen 3.30'dan beri ayaktasin, bi de gun icinde nobetin varsa vay bana vaylar bana. yazarken moralim bozuldu amk ya.. iyi bitirmisim ben askerligi.
 - entry_name: |
     nevşin mengü
   entry_id:  75230481
@@ -192,24 +192,24 @@ data:
   entry_content: |
     edit: la susayım iplemeyeyim şu dal ve yaprak birleşimlerini diyorum ama dayanamadım. hemen bitirmiş bazıları gazetecilik hayatını nevşin mengü'nün. oğlum siz uzaydan mı geldiniz bu ülkeye, bu ülkede ne yalan gazetecilik olayları oldu; darbe şifresi diye oyun şifrelerini yayınlayan oldu, kabataşlar, gidip kendini zdf önünde rezil edenler, milletin karısına kızına sarkanlar, alo fatihler, nereden girdim bu işe diye anıra anıra ağlayanlar, tamam ben o zaman anketlerde biraz manipülasyon yapayım diyenler, neler neler. bu adam ve kadınlar hala pişkin pişkin çıkıp yayın yapıyorlar ama. ki bunların yaptığı hata değil, yalan ve iftira. <sup class="ab"><a title="(bkz: yani kasıtlı.)" href="/?q=yani+kas%c4%b1tl%c4%b1." data-query="yani kasıtlı.">*</a></sup> <br/><br/>tabi gücünüz sadece kardeşi yüzünden bir hata yapmış, nevşin mengü'ye yetiyor değil mi? haaa! bu olayı kardeşiyle beraber planladıkları ortaya çıkarsa o zaman zaten diyecek birşey yok. ama şimdiden yok bitti, yok yalancı vb. gömmeye çalışmanız acizliğinizin göstergesi. <br/><br/>hani koyun keçi hikâyesi var ya aynen o hesap; koyunun bir kere kıçı görünmüş ama keçinin aslında her gün götü açık. <sup class="ab"><a title="(bkz: yani koyuna gülüyorsunuz ama)" href="/?q=yani+koyuna+g%c3%bcl%c3%bcyorsunuz+ama" data-query="yani koyuna gülüyorsunuz ama">*</a></sup> <sup class="ab"><a title="(bkz: sizin göt hep açıkta kardeşim.)" href="/?q=sizin+g%c3%b6t+hep+a%c3%a7%c4%b1kta+karde%c5%9fim." data-query="sizin göt hep açıkta kardeşim.">*</a></sup> <br/><br/>....<br/><br/>delikanlı gibi hatasını kabul eden gazeteci. ama bir gazeteci olarak kardeşinin neden böyle bir şey yaptığını araştırıp kamuoyunu aydınlatırsa samimiyetine daha fazla inanır insanlar diye düşünüyorum. <sup class="ab"><a title="(bkz: ha ben zaten samimiyetine inanıyorum o ayrı.)" href="/?q=ha+ben+zaten+samimiyetine+inan%c4%b1yorum+o+ayr%c4%b1." data-query="ha ben zaten samimiyetine inanıyorum o ayrı.">*</a></sup>
 - entry_name: |
-    4-6 nöbeti
-  entry_id:  75247086
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 36
-  entry_content: |
-    cok siksok bi nobet saati.<br/><br/>4'deki nobet icin 3.30'da kaldirirlar, tek goz acik silahliga in, yelek giy, g3'u al nobet yerine git saat oldu 4.. mal gibi 2 saat etrafi izle, caktirmadan sigara ic, sarki soyle.. hava soguksa sayko hareketler yapip isinmaya calis, saat oldu 6 senden sonra nobeti devir alacak asker ust devreyse en iyi ihtimalle 20 dakika takar nobeti saat oldu 6:20.. nobeti devret, doldur bosalta git, silahliga in saat oldu 6.45..<br/>kogus kalk saati zaten 7 amk..<br/><br/>e ne oldu sen 3.30'dan beri ayaktasin, bi de gun icinde nobetin varsa vay bana vaylar bana. yazarken moralim bozuldu amk ya.. iyi bitirmisim ben askerligi.
-- entry_name: |
     öğretmenlerimizin yetersiz olduğu gerçeği
   entry_id:  75247605
   entry_writer: evremy12
-  entry_fav_count: 33
+  entry_fav_count: 37
   entry_content: |
     yeterli olanı bile yetersiz hale getirdiklerindendir
+- entry_name: |
+    21 mart 2018 internete rtük denetimi
+  entry_id:  75254305
+  entry_writer: occupy gezi
+  entry_fav_count: 34
+  entry_content: |
+    getirilmiştir. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cnnturk/status/976546776030134272?s=19" title="https://twitter.com/cnnturk/status/976546776030134272?s=19">https://twitter.com/…status/976546776030134272?s=19</a><br/><br/>hülya koçyiğit'in içi rahatlamıştır artık sanırım malum çok özgürdük.<br/>(bkz: <a class="b" href="/?q=allah+belam%c4%b1z%c4%b1+vermi%c5%9f">allah belamızı vermiş</a>)
 - entry_name: |
     şahsiyet (dizi)
   entry_id:  75223702
   entry_writer: agluna
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     türk halkına kaliteli dizi diye pompalanan, aylardır reklamları dönen <a class="b" href="/?q=mehmed+bir+cihan+fatihi">mehmed bir cihan fatihi</a>ne bakıyorum, bir de kısıtlı bütçeyle çekilmiş, ücretsiz bir internet kanalında yayınlanan <a class="b" href="/?q=%c5%9fahsiyete">şahsiyete</a> bakıyorum... sanırım, dizi sektöründe kaliteye ulaşmak, kalabalıklardan uzaklaşmakla oluyormuş demek.<br/><br/>şahsiyet'i izlediğinizde, <a class="b" href="/?q=breaking+bad">breaking bad</a>, <a class="b" href="/?q=dexter">dexter</a> ve hatta <a class="b" href="/?q=hannibal">hannibal</a>'dan izler görmek mümkün ancak bunları o kadar iyi harmanlamışlar ki, insanın gözüne çiğ veya yapmacık gelmiyor. özellikle, <a class="b" href="/?q=haluk+bilginer">haluk bilginer</a>, öyle sağlam bir karakter yaratmış, normal bir insanın, adeta bir <a class="b" href="/?q=vigilante">vigilante</a>ye dönüşümünü öyle güzel işlemiş ki... ve gizli kahraman <a class="b" href="/?q=onur+saylak">onur saylak</a>, sahneleri müthiş bir başarıyla işlemiş, heyecanı hep en üst noktada tutmayı başarmış. bir insan hem şahane bir oyuncu, hem de süper bir yönetmen olabilir mi? oluyormuş meğer...<br/><br/>kısacası, prime time'daki diğer tüm diziler, agah bey'in renkli çoraplarına kurban olsunlar!
 - entry_name: |
@@ -223,35 +223,35 @@ data:
     yere tüküren insanlar
   entry_id:  75242597
   entry_writer: kaidesini bozan istisna
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     görüldükleri yerde dövülmeleri gereken insanlardır.<br/><br/>ekleme: noluyo olm, ben dışarı çıktım elemanın biri harrk hurk deyip yere tükürdü benim de onu dövesim geldi sonra dayak yeme ihtimalini düşünüp dövmedim sonra geldim hıncımı ekşi'den çıkarayım dedim. niye favladınız ki bu kadar anlamadım.<br/><br/>başka güzel entirilerim var onları da favlayın madem.
-- entry_name: |
-    gelir düştükçe artan şeyler
-  entry_id:  75248664
-  entry_writer: isvicreli
-  entry_fav_count: 21
-  entry_content: |
-    islam, çocuk, arabesk, linç, makarna,
-- entry_name: |
-    21 mart 2018 internete rtük denetimi
-  entry_id:  75254305
-  entry_writer: occupy gezi
-  entry_fav_count: 21
-  entry_content: |
-    getirilmiştir. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cnnturk/status/976546776030134272?s=19" title="https://twitter.com/cnnturk/status/976546776030134272?s=19">https://twitter.com/…status/976546776030134272?s=19</a><br/><br/>hülya koçyiğit'in içi rahatlamıştır artık sanırım malum çok özgürdük.<br/>(bkz: <a class="b" href="/?q=allah+belam%c4%b1z%c4%b1+vermi%c5%9f">allah belamızı vermiş</a>)
 - entry_name: |
     topuk sesinden tahrik olan erkek
   entry_id:  75250544
   entry_writer: modern homeros
-  entry_fav_count: 20
+  entry_fav_count: 23
   entry_content: |
     aslında ses değildir tahrik eden, sesin hatırlattığı görüntüdür.<br/>topuklu ayakkabının, bir kadını nasıl seksi hale getirdiğini hatırlatır o ses ve o hatıra tahrik eder. ses değil.
+- entry_name: |
+    gelir düştükçe artan şeyler
+  entry_id:  75248664
+  entry_writer: isvicreli
+  entry_fav_count: 22
+  entry_content: |
+    islam, çocuk, arabesk, linç, makarna,
+- entry_name: |
+    kemal kılıçdaroğlu
+  entry_id:  75229853
+  entry_writer: madonnanin yagli zencisi 2
+  entry_fav_count: 20
+  entry_content: |
+    çiftlikbank konusunda saçmalamaktadır.<br/><br/>1. çiftlikbank’ın resmi adı zaten banka değil<br/>2. çiftlikbank bankacılık faaliyetlerine girmedi ki. tosun mevduat mı topladı, tahvil mi çıkardı, kredi mi verdi? bddk ya da spk hangi yetkiyle müdahale edecekti? bu mantıkla bakarsak <a class="b" href="/?q=sperm+bankas%c4%b1">sperm bankası</a>, <a class="b" href="/?q=powerbank">powerbank</a>, parklardaki banklar, <a class="b" href="/?q=do%c4%9fubank">doğubank</a> falan hep bddk’nın sorumluluğunda!<br/><br/>yani biz sözlükçe <a class="b" href="/?q=seks+partisi">seks partisi</a> yapsak yüksek seçim kurulu’na mı tabi olacağız?
 - entry_name: |
     ikamet edilen evin bim'e yakın olması
   entry_id:  75245374
   entry_writer: degisik megisik
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     emlak ilanlarında bir tür opsiyon olarak eklenen avantaj.<br/><br/>sahibinden kiralık <br/>•3+1 <br/>•kapalı otopark<br/>• site<br/>•bodrumunda <a class="b" href="/?q=bim">bim</a> vardır.
 - entry_name: |
@@ -262,26 +262,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+bank">sözlük bank</a>)<sup class="ab"><a title="(bkz: hayırlı olsun reis)" href="/?q=hay%c4%b1rl%c4%b1+olsun+reis" data-query="hayırlı olsun reis">*</a></sup>
 - entry_name: |
-    2050 yılında hayvan eti yemek yasaklanacak
-  entry_id:  75254632
-  entry_writer: bulent ersoy
+    ufak tefek cinayetler
+  entry_id:  75224261
+  entry_writer: betulesque
   entry_fav_count: 14
   entry_content: |
-    (bkz: <a class="b" href="/?q=vegan+z%c4%b1rval%c4%b1%c4%9f%c4%b1">vegan zırvalığı</a>)
+    ya pilates topu burcu birsuru entrikalarla yok arzudan kurtulucam yok oyadan kurtulucam diye ugrasacagina oranj mehmetten gercekten hamile kalmaya ugrassaydi ya? oya vermis sana 3 hafta, hic mi sevismiyosunuz nedir yani...
 - entry_name: |
-    ferrari 458 spider parçalayan ingiliz polisi
-  entry_id:  75243322
-  entry_writer: mgh
-  entry_fav_count: 10
+    futbolu renklendirmesi olası kural değişiklikleri
+  entry_id:  75252732
+  entry_writer: rampoldi
+  entry_fav_count: 12
   entry_content: |
-    hurdaya ayrılmış aracı açık artırmadan alıp tamir ettirerek trafiğe sokan şahsın başına gelen olay. haber ve yorumlardan okuduğuma göre sigortası yokmuş çünkü bu kategorideki (cat b) araçlara sigorta yapılamıyormuş. araç satın alındıktan sonra parçalarına ayrılmalı ve o şekilde satılmalıydı.
+    0-0 biten maclarda takımlara puan verilmemeli
 - entry_name: |
     üstteki yazarın nickinin düşündürdüğü
   entry_id:  75250039
   entry_writer: sanamed
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     kate upton?!
+- entry_name: |
+    chp ve iyip liderinin teröristlerle olan fotoğrafı
+  entry_id:  75250131
+  entry_writer: sansabosa
+  entry_fav_count: 9
+  entry_content: |
+    hala daha troll sayfanın paylaşımına başlık açıp espri yaptığını sananlar var. sizi 3 hayırla uğurluyoruz. bııravo.
 - entry_name: |
     ekşi itiraf
   entry_id:  75225026
@@ -290,12 +297,19 @@ data:
   entry_content: |
     artık sevdiğim bi kadın olsun istiyorum sözlük. bir şeyler hissetmek ve o hisse ömür vermek istiyorum delice. birini sevmeye çalışmadıkça geçmişinde geziniyor insan. ben geçmişimde gezinmek de istemiyorum sözlük.
 - entry_name: |
-    chp ve iyip liderinin teröristlerle olan fotoğrafı
-  entry_id:  75250131
-  entry_writer: sansabosa
+    recep tayyip erdoğan'ın askeri dehası
+  entry_id:  75251848
+  entry_writer: max tooney
   entry_fav_count: 7
   entry_content: |
-    hala daha troll sayfanın paylaşımına başlık açıp espri yaptığını sananlar var. sizi 3 hayırla uğurluyoruz. bııravo.
+    kantinciyken haşlama çay yaparak ilgili kurumu kâra geçirmiştir bildiğim kadarıyla.
+- entry_name: |
+    eski sevgilisinin mutlu olmasını isteyen insan
+  entry_id:  75253737
+  entry_writer: dreamworld
+  entry_fav_count: 5
+  entry_content: |
+    bana en güzel olması gereken yaşlarımda acı çektiren bir insanın mutlu olmasını isteyebilecek kadar yüce gönüllü değilim sanırım. iki sene ızdırabın dip noktasındayken “yeter ki o mutlu olsun” diyemedim. mutlu olamadı da. ben yoluma devam ettim ama o hala mutsuz. yine de mutlu olsun diyemiyorum.<br/><br/>diyebilenin de asil duygularına hayranım zaten.<br/><br/>edit: bütün evreler yaşanıp bitse de bazen bazı insanlar canınızı çok yakar, size yapılan kötülüğü affedemezsiniz.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  75226433
@@ -304,27 +318,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+sertle%c5%9fecek+insan+veritaban%c4%b1">ekşi sözlük sertleşecek insan veritabanı</a>)na dönmüş başlıktır.
 - entry_name: |
-    recep tayyip erdoğan'ın askeri dehası
-  entry_id:  75251848
-  entry_writer: max tooney
-  entry_fav_count: 3
-  entry_content: |
-    kantinciyken haşlama çay yaparak ilgili kurumu kâra geçirmiştir bildiğim kadarıyla.
-- entry_name: |
-    eski sevgilisinin mutlu olmasını isteyen insan
-  entry_id:  75253737
-  entry_writer: dreamworld
-  entry_fav_count: 3
-  entry_content: |
-    bana en güzel olması gereken yaşlarımda acı çektiren bir insanın mutlu olmasını isteyebilecek kadar yüce gönüllü değilim sanırım. iki sene ızdırabın dip noktasındayken “yeter ki o mutlu olsun” diyemedim. mutlu olamadı da. ben yoluma devam ettim ama o hala mutsuz. yine de mutlu olsun diyemiyorum.<br/><br/>diyebilenin de asil duygularına hayranım zaten.<br/><br/>edit: bütün evreler yaşanıp bitse de bazen bazı insanlar canınızı çok yakar, size yapılan kötülüğü affedemezsiniz.
-- entry_name: |
-    21 mart 2018 tff fikstür rezaleti
-  entry_id:  75239763
-  entry_writer: 0903200427022013
-  entry_fav_count: 3
-  entry_content: |
-    tüm takımların adaletli ve orantılı şekilde fikstürünün yapılması gerekmektedir. gerekirse yayıncı kuruluş vs dinlenmemelidir. gerekirse aynı gün farklı saatlerde oynatılabilirdi.<br/>gs bu durumda dezavantajlı gözükmektedir.<br/><br/>şöyle bir tablo olabilirdi :<br/><br/>gs : cuma lig, çarşamba kupa, c.tesi lig.<br/>bjk : c.tesi lig ( saat : 16.00 ), perşembe kupa, pazar lig ( saat 19:00 )<br/>fb : c.tesi lig, ( saat : 19:00 )perşembe kupa, pazar lig. ( saat 16:00 )<br/><br/>( tff başkanı olacak adamım )<br/>not : gary medel
-- entry_name: |
     şu anda çalan şarkı
   entry_id:  75228510
   entry_writer: b2g
@@ -332,19 +325,19 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Yhh3QxktZZY" title="https://www.youtube.com/watch?v=Yhh3QxktZZY">fikret kızılok &amp; sonay tanrısever - gecenin tam üçünde</a>
 - entry_name: |
-    futbolu renklendirmesi olası kural değişiklikleri
-  entry_id:  75253702
-  entry_writer: sempatikyazar
-  entry_fav_count: 2
-  entry_content: |
-    ofsayt kaldırılsın diyen var lan!<br/><br/>kaldırılsın,kaldırılsın da eskiden oynadığımız mahalle maçlarını yad ederiz.
-- entry_name: |
     kitap satın alma hastalığı
   entry_id:  75253095
   entry_writer: silver2rose1
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     bu hastalığı çekenlere okumadılarsa carlos maria dominguez’in kâgıt ev’ini öneririm. ve bende de var bu hastalık. kurtulmaya, istifçiliği ardımda bırakmaya çalışıyorum. eskiden yılda 150 kitap okursam da artık 80 zor okuyorum. bu orana göre, önce okumadığım 500 kitabı bitirmem (5 6 yıl sürer) ve ondan sonra almam gerek. ama alıyorum. ben de kendime “ beş yıl sonra okur muyum?” diye sorarak satın alma yöntemini buldum. yanıt evetse, bir kitap daha ekleniyor listeye. hayırsa zaten iki ay sonra aklıma bile gelmiyor.
+- entry_name: |
+    geceye bir şiir bırak
+  entry_id:  75248042
+  entry_writer: eulerstein
+  entry_fav_count: 0
+  entry_content: |
+    biliyor musun az az yaşıyorsun içimde <br/>oysaki seninle güzel olmak var <br/>örneğin rakı içiyoruz, içimize bir karanfil düşüyor gibi <br/>bir ağaç işliyor tıkır tıkır yanımızda <br/>midemdi aklımdı şu kadarcık kalıyor. <br/><br/>sen o karanfile eğilimlisin, alıp sana veriyorum işte <br/>sen de bir başkasına veriyorsun daha güzel <br/>o başkası yok mu bir yanındakine veriyor <br/>derken karanfil elden ele. <br/><br/>görüyorsun ya bir sevdayı büyütüyoruz seninle <br/>sana değiniyorum, sana ısınıyorum, bu o değil <br/>bak nasıl, beyaza keser gibisine yedi renk <br/>birleşiyoruz sessizce. <br/><br/>edip cansever
 - entry_name: |
     ekşi sözlük iş ağı
   entry_id:  75254887
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     (bkz: <a class="b" href="/?q=hot+girls+wanted">hot girls wanted</a>)
+- entry_name: |
+    abdullah gül olabildiğince tarafsızdı
+  entry_id:  75255534
+  entry_writer: blue ox
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%a7ankaya+noteri">çankaya noteri</a>)
 ---
