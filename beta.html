@@ -32,8 +32,19 @@ sitemap: false
     <ul id="entry_ul">
     <div class="container content col-md-9">
 
-{% site.data[10] | jsonify %}
-{% for i in site.data[10] %}
+{{ site.pages[0] | jsonify }}
+{{ site.pages[1] | jsonify }}
+{{ site.pages[2] | jsonify }}
+{{ site.pages[3] | jsonify }}
+{{ site.pages[4] | jsonify }}
+{{ site.pages[4] | jsonify }}
+{{ site.pages[5] | jsonify }}
+{{ site.pages[6] | jsonify }}
+{{ site.pages[7] | jsonify }}
+{{ site.pages[8] | jsonify }}
+{{ site.pages[9] | jsonify }}
+{{ site.pages[10] | jsonify }}
+{% for i in site.data[3] %}
       <li class="entry_li card">
         <a class="entry_list card-header" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
         <div class="entry_content card-body card-text" id="entry_{{ i.entry_id }}"
