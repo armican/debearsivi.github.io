@@ -32,7 +32,8 @@ sitemap: false
     <ul id="entry_ul">
     <div class="container content col-md-9">
 
-{{ site.documents[0] | jsonify }}
+{% assign idx = site.documents.size | minus: 2 %}
+{{ site.documents[idx].data | jsonify }}
 {% for i in site.data[3] %}
       <li class="entry_li card">
         <a class="entry_list card-header" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
