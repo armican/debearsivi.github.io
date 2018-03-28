@@ -40,6 +40,7 @@ sitemap: false
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
+  // So PoC, TODO: fix this.
   var idx = 0;
   $(document).ready(function() {
     $("body").keydown(function (event) {
@@ -59,7 +60,6 @@ sitemap: false
         } else if(idx > 49) {
           idx = 49;
         }
-	//window.location.href = "#" + idx;
         document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
     });
    });
