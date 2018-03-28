@@ -38,6 +38,28 @@ sitemap: false
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="public/beta.css">
 
+  <script>
+    var idx = 0;
+    $(document).keydown(function(e) {
+    switch(e.which) {
+        case 37: // left
+        break;
+
+        case 39: // right
+        break;
+
+        default: return; // exit this handler for other keys
+    }
+    e.preventDefault(); // prevent the default action (scroll / move caret)
+    });
+    if(idx < 0) {
+      idx = 0;
+    } else {
+      idx = idx % 50;
+    }
+    document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
+  </script>
+
 </head>
 
 <body class="bg-light">
