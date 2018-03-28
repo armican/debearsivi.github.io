@@ -41,24 +41,17 @@ sitemap: false
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
     var idx = 0;
-    $(document).keydown(function(e) {
-    switch(e.which) {
-        case 37: // left
-        break;
-
-        case 39: // right
-        break;
-
-        default: return; // exit this handler for other keys
+    window.onkeypress = function() {
+        var x;      
+        x=event.which;
+    
+       if(idx < 0) {
+         idx = 0;
+       } else {
+         idx = idx % 50;
+       }
+       document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
     }
-    e.preventDefault(); // prevent the default action (scroll / move caret)
-    });
-    if(idx < 0) {
-      idx = 0;
-    } else {
-      idx = idx % 50;
-    }
-    document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
   </script>
 
 </head>
