@@ -59,7 +59,8 @@ sitemap: false
         } else if(idx > 49) {
           idx = 49;
         }
-	window.location.href = "#" + idx;
+	//window.location.href = "#" + idx;
+        document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
     });
    });
   </script>
