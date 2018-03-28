@@ -44,14 +44,14 @@ sitemap: false
   var idx = 0;
   $(document).ready(function() {
     $("body").keydown(function (event) {
-        // left arrow
+        // left arrow or k
         if (((event.keyCode || event.which) == 37) || ((event.keyCode || event.which) == 75))
 
         {
           idx -= 1;
         }
         
-        // right arrow
+        // right arrow or j
         if (((event.keyCode || event.which) == 39) || ((event.keyCode || event.which) == 74))
         {
           idx += 1;
