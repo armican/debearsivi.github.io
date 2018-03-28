@@ -49,13 +49,13 @@ sitemap: false
 
         {
           idx -= 1;
-        }
-        
-        // right arrow or j
-        if (((event.keyCode || event.which) == 39) || ((event.keyCode || event.which) == 74))
+        } else if (((event.keyCode || event.which) == 39) || ((event.keyCode || event.which) == 74))
         {
           idx += 1;
+        } else {
+          return;
         }
+
         if(idx < 0) {
           idx = 0;
         } else if(idx > 49) {
