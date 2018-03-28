@@ -6,72 +6,79 @@ data:
     annesine vuran adama uçan tekme atan buzağı
   entry_id:  75480032
   entry_writer: albinoleffe
-  entry_fav_count: 693
+  entry_fav_count: 695
   entry_content: |
     izlemelere doyamıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/yecYORX_E0w">https://youtu.be/yecyorx_e0w</a>
 - entry_name: |
     ekşi sözlük'ün düşen kalitesinin nedenleri
   entry_id:  75465807
   entry_writer: climberserdar
-  entry_fav_count: 626
+  entry_fav_count: 629
   entry_content: |
     edit: açtığım başlık nedeniyle sözlük yönetimi beni "lanetli yazar" ilan ederek haklılığımı bir kez daha bana hatırlattı.<br/><br/>yaklaşık 8-9 yıldır ekşi sözlükteyim. son 1-2 senedir eski sözlüğü arar oldum. eskiden sözlüğün bir heybeti vardı. ekşi sözlük denilince akan sular dururdu. çaylaklık süreci ağır ve sancılı olmasına rağmen kurallara uyulmaya gayret gösterilirdi. sözlüğün algoritmasına bir saygımız vardı. şimdilerde ise (bkz: <a class="b" href="/?q=6+g%c3%bcnde+yazar+olan+%c3%a7aylak">6 günde yazar olan çaylak</a>),(bkz: <a class="b" href="/?q=%c3%a7aylak+entry%27sini+%c3%a7alan+yazar">çaylak entry'sini çalan yazar</a>) gibi durumlar yaşanıyor. bu kalite düşüşünün (bkz: <a class="b" href="/?q=ssg">ssg</a>)'nın ayrılmasından sonra yaşanması aklıma sözlük denetim koltuğuna (bkz: <a class="b" href="/?q=kanzuk">kanzuk</a>)'un henüz kimseyi atamadığını getiriyor.<br/><br/>aklıma gelen bir kaç konuyu yazmak istedim. umarım (bkz: <a class="b" href="/?q=kanzuk">kanzuk</a>) konuya bir el atar. <br/><br/>*her önüne gelenin ucuz başlık açması. <br/><br/>*son zamanlarda kontrol edilmeden binlerce çaylağın yazar yapılması.<br/><br/>*büyük çoğunluğun konuları anlamadan entry girmesi.<br/><br/>*çoğu yazarların imla kurallarına dikkat etmiyor olması.<br/><br/>*girilen entry'lerden dolayı bazı ergenler tarafından küfür ve lince maruz kalınması.<br/><br/>*özellikle vatan, millet, sakarya konularında girilen entry'lerden dolayı vatan haini ilan edilmek.<br/><br/>*en önemlisi ise sözlük yönetiminin denetim mekanizmasının işlememesi.
 - entry_name: |
     1 türk lirasının 2 norveç kronu olması
   entry_id:  75484235
   entry_writer: polyhymnia
-  entry_fav_count: 495
+  entry_fav_count: 502
   entry_content: |
     norveç'in gsmh'sının kişi başına 80,749$ olduğunu bilmeyen bir yazarın sıçmığı. <br/><br/>torbacısının walter white olduğunu düşünüyorum...<br/><br/>edit: üstteki girdi için birileri “ironi” demiş. heee, <a class="b" href="/?q=ironi+yapmak+i%c3%a7in+s%c3%b6zl%c3%bc%c4%9fe+giren+libdem">ironi yapmak için sözlüğe giren libdem</a> ise malı arap faik’ten alıyordur. walter’a sıkleti yetmez...
 - entry_name: |
     kaynanasıyla ilişkiye giren yerli ve milli damat
   entry_id:  75472580
   entry_writer: kissofh3ll
-  entry_fav_count: 494
+  entry_fav_count: 501
   entry_content: |
     dayı ve damadın isimlerinin aynı olması kafamı karıştırdı. ilişki zaten karmaşık kimin kime kaydığı belli değil. <br/><br/>not: dayı değil kayın biraderin adı aynıymış. bir de arkadaş damat nasıl oturup da eşine annenle seviştim diyor bu ne marjinallik.
 - entry_name: |
     dolar için bir dörtlük bırak
   entry_id:  75477892
   entry_writer: tecnikker
-  entry_fav_count: 362
+  entry_fav_count: 370
   entry_content: |
     dörtnala gidiyor dolar<br/>ne market kurtarıyor ne pazar<br/>böyle giderse bu ekonomi<br/>ne ampul kalacak ne çomar.
+- entry_name: |
+    ekşide yazar olmanın insana kazandırdıkları
+  entry_id:  75486747
+  entry_writer: patryn
+  entry_fav_count: 343
+  entry_content: |
+    çok değerli insanlar var. hepsinden güzel şeyler katıyorsun kendine. instagram gibi görsel gösteriş bombardımanı yerine, salt kelimelerin raksı söz konusu. <br/><br/>burada zengin olan değil, bilen adam kıymetli oluyor.
 - entry_name: |
     2018 ekonomik krizi
   entry_id:  75464006
   entry_writer: herturluyazar
-  entry_fav_count: 327
+  entry_fav_count: 331
   entry_content: |
     asla gercekleşmeyecek olan krizdir.<br/><br/>ülke dediğin bir trendir,bir tek lokomotif onlarca vagonu ceker,<br/>bir ülkenin de ekonomik krize girmesi demek lokomotifin stop olması demek.tıpkı yunanistan gibi, orada lokomotif stop oldu,devlet, memur maslarını bile odeyemedi.<br/><br/>turkiye de halen tıkır tıkır giden,işleyen bir lokomotif var,amma bir de turkiye cumhuriyetinin görmedigi ve hatta gecmiş kriz dönemlerinde bile yasamadıgı bir vagonlar faciası var.<br/><br/>vagonlar fakirlikten yakınıyor, <br/><br/>ama olsun,bakın sadece fakirlik yaşanıyor daha sefalete dönüşmediniz,şükredin ,çünkü daha bunlar iyi günleriniz,fakirlikten kırılacaksınız sefalete düseceksiniz amma o lokomotif bir şekilde hep gidecek hep ilerleyecek,ve lokomotif kullanıcıları o kadar duygusuz arsiz yuzsuz ki dönüp de arka vagonlarda yaşayan halkı görmeyecek,duymayacak,ücretlerini ödüyor muyum,ödüyorum gerisi beni ilgilendirmez diyecek.<br/><br/>daha azerbeycan halkı gibi olmadık,şükür,bakın orada da bir saltanat süren sözde laik, diktator var bizimkinin aynısı.<br/>halk açlıktan kırılıyor,maslar 100-200 dolar arası,devlet bu kadar veririm gerisi beni ilgilendirmez diyor,aliyevler sarayda altın wc lere kaka yapıyor.halk ise evinde karısına bile hukumeti eleştiremiyor yerin kulagı var diyor, sesi cıkanı zindanlara atıveriyorlar.memuru, mühendisi iş cıkışı taş taşıyor, kadınlar evde pişi yapıp satıyor,eeee biz daha bugünlere gelmedik..ne krizi..<br/><br/>sonumuz aynen onlar gibi olacak.kriz yok, daha da sefalet bekleyin.yok oyle maası alıp dısarı yemeklere, tatillere, tiyatrolara gitmek..azıcık fakirlik hissettiniz diye de zır zır bagırmayın ,söyluyorum bak, bunlar iyi günleriniz.siz ki vatanınızın, turklugunuzun,atanızın kıymetini bildiniz mi ?,bilmediniz, el birliği ile ulkeyi yamyamlara teslim ettiniz,şimdi yepyeni bir hayat yeni bir yaşam tarzı sizi bekliyor ,güle güle yaşayın . <br/>azerbeycanın,suriye nin,moldovya nin gürcistanın canı yok mu,onlar nasıl katlanıyor sefalete ?sen de katlanacaksın cicim,bitti o eski modern, laik ülke,olsa dükkan senin.<br/><br/>edit:bu yasadıgın fakirlik dönemi var ya ,hani içinde bulundugun durum,haah bu durum krizin gelme işareti degil, yeni yaşam tarzına evrilmenin sancısı, yeni hayat standartının dogum sancısı,anlayamadıysan özetleyim dedim.kusura bakma bilal bilal dedik..ortalık bilal doldu da ondan anlayamadın sandım.acıkladım.kusura bakma cicim.
 - entry_name: |
     ilber ortaylı'nın vikipedi'yi önermiyorum demesi
   entry_id:  75474305
   entry_writer: gameoverclocker
-  entry_fav_count: 324
+  entry_fav_count: 327
   entry_content: |
     viki nin çalışma prensibini bilen yazarlar için mantıklı önermedir. bilmeyenler için yüce şahsiyet google a sorabilirler.
-- entry_name: |
-    kemal sunal'ın iyi bir insan olmaması
-  entry_id:  75468341
-  entry_writer: avamkamarasi
-  entry_fav_count: 294
-  entry_content: |
-    çok yanlış düşünen yazar konusudur.<br/>anlatayım , ben o zaman 11 yaşındayım,eniştem işi gereği "kemal sunal'ın evine gitmiş ve telefon hatlarını kontrol etmiş falan. sonrasında kemal sunal'da "bayramda ailenle seni ağırlamak isterim" demiş. bize bu haber geldiğinde hem bizim aile hem de teyzemin ailesi hep birlikte süslenip püslenip kemal sunal'ın kozyatağındaki evine gittik. o kadar iyi ağırlandık ki hala unutamam,kemal sunal'ın eşi muhteşem "un kurabiyesi" yapmıştı. ali ve zeyno sunal'da oradaydı,bildiğin akraba ziyareti gibi gittik,harçlığımızı aldık,saatlerce oturduk ve sohbet ettik.<br/>kemal sunal gayet mütevazi bir insandı.<br/>hala bu anıyı unutamam. o yüzden fırça falan yemezdiniz lan adam bizi evinde ağırladı.<br/>allah rahmet eylesin.
-- entry_name: |
-    ekşide yazar olmanın insana kazandırdıkları
-  entry_id:  75486747
-  entry_writer: patryn
-  entry_fav_count: 286
-  entry_content: |
-    çok değerli insanlar var. hepsinden güzel şeyler katıyorsun kendine. instagram gibi görsel gösteriş bombardımanı yerine, salt kelimelerin raksı söz konusu. <br/><br/>burada zengin olan değil, bilen adam kıymetli oluyor.
 - entry_name: |
     en unutulmaz son dakika golü
   entry_id:  75472553
   entry_writer: gunaha girip boy veren adam
-  entry_fav_count: 283
+  entry_fav_count: 287
   entry_content: |
     benim için, belki de bir çoğumuz için euro 2008' de (bkz: <a class="b" href="/?q=semih+%c5%9fent%c3%bcrk">semih şentürk</a>)' ün hırvatistan' a attığı goldür.
+- entry_name: |
+    atatürk tişörtü ile meclise alınmayan vatandaş
+  entry_id:  75471078
+  entry_writer: cingan bebe
+  entry_fav_count: 255
+  entry_content: |
+    ben ana avrat sallamadan önce, mantıklı bir açıklaması olan varsa lütfen yazsın ve aydınlatsın.<br/><br/>yoksa o sakalını siktiğim kahbe evladı meclise cübbeyle girebiliyor da, ülkenin kurucusu olan atamızın basılı olduğu tişört ne tehlike yaratıyor?<br/><br/>daha laflarım var, geçerli bir açıklama bekliyorum.<br/><br/>doğruysa gerçekten inanılmaz.
+- entry_name: |
+    nasa'nın dünya fotoğrafındaki sex yazısı
+  entry_id:  75486759
+  entry_writer: bilgisavar
+  entry_fav_count: 247
+  entry_content: |
+    (bkz: <a class="b" href="/?q=damacanaya+tecav%c3%bczden+d%c3%bcnyaya+tecav%c3%bcz">damacanaya tecavüzden dünyaya tecavüz</a>)<br/><br/>göremedigim yazi. belkide orda bir sex yazisi görebilmek icin yeterli abazanlik kriterlerini de tamamlayamamis olabilirim.<br/><br/>edit: düzeltme/imla.
 - entry_name: |
     insan ömrü 250 yıl olsa olabilecekler
   entry_id:  75464209
@@ -80,54 +87,33 @@ data:
   entry_content: |
     kabul et aklına malum şahıs geldi ve seni de bir hüzün kapladı sevgili yazar
 - entry_name: |
-    nasa'nın dünya fotoğrafındaki sex yazısı
-  entry_id:  75486759
-  entry_writer: bilgisavar
-  entry_fav_count: 230
-  entry_content: |
-    (bkz: <a class="b" href="/?q=damacanaya+tecav%c3%bczden+d%c3%bcnyaya+tecav%c3%bcz">damacanaya tecavüzden dünyaya tecavüz</a>)<br/><br/>göremedigim yazi. belkide orda bir sex yazisi görebilmek icin yeterli abazanlik kriterlerini de tamamlayamamis olabilirim.<br/><br/>edit: düzeltme/imla.
-- entry_name: |
     gökova körfezi'nin imara açılması
   entry_id:  75471912
   entry_writer: gary33
-  entry_fav_count: 193
+  entry_fav_count: 198
   entry_content: |
     bir insanın gökova körfezi'ni görüp de böyle bir kararın altına imza atabilmesi için tüm insani değerlerini kaybetmiş olması gerekir.<br/><br/>gerçekten iğrenç bir haber. en az 3. sayfa haberleri kadar mide bulandırıcı.
-- entry_name: |
-    bir kadını kırmadan ona çirkin olduğunu söylemek
-  entry_id:  75464067
-  entry_writer: aynstayn was here
-  entry_fav_count: 161
-  entry_content: |
-    bir insanın, ona çirkin olduğunu söyleyen at yarağı kılıklı bir insandan daha çirkin olma ihtimali yoktur. <br/><br/>senin zevklerine hitap etmiyor olabilir, sevmemiş olabilirsin, çirkin olduğunu bile düşünüyor olabilirsin. ama bir insana bunu söylemek şerefsizliktir. <br/><br/>bak farkettiysen cinsiyet belirtmedim. insan olan, başka bir insana bunu yapmaz zaten...
-- entry_name: |
-    türkiye'de etin pahalı olmasının nedeni
-  entry_id:  75469440
-  entry_writer: yarimporsiyonaydinlik
-  entry_fav_count: 149
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://seyler.eksisozluk.com/hayvancilikla-ugrasan-birinin-agzindan-turkiyede-et-neden-pahali" title="https://seyler.eksisozluk.com/hayvancilikla-ugrasan-birinin-agzindan-turkiyede-et-neden-pahali">kaynak</a><br/><br/>türkiye'de çok et yendiği için et krizi çıkmıyor. hükümetin "gelir arttı, lüks tüketim tavan, herkes et yiyor, durduramıyoruz" laflarına rağmen ortalama bir avrupalı nın yarısı kadar et yiyoruz. (buna tavuk eti dahil. kırmızı ette oran 4'te bire düşüyor) yani vatandaş gerçekten et yiyemiyor ve buna rağmen et krizi çıkıyor.<br/><br/>neden? sebebi basit:<br/>"arz çok düşük".<br/><br/>yani et üretimimiz o denli az ki, bu kadar düşük olan tüketimi dahi karşılayamıyor. yani asıl sıkıntı "eti üretememek".<br/><br/>peki kökeni göçebe hayvancılıktan gelen bizler, neden et üretemiyoruz? genlerimiz mi bozuldu?<br/><br/>evet, biraz da öyle oldu ama gerçek sebepler farklı. 2 taneler:<br/><br/>1-) "mera" yok.<br/>2-) "et ithalatı" var.<br/><br/>aracıların fahiş karları üretici eti 1 yıl emek harcayıp, 23 lira maliyet ile üretip, kilosu 27 liraya aracılara satıyor. aynı eti, o aracılar, bir gün içinde 45 liraya bize satıyor. kuzu bıçak fiyatı ise koyunculukla uğraşan kalmadığı için 43 tl ye kadar çıktı<br/><br/>bilinçsiz yapılan hayvancılık: öğretmenin, mimarın, doktorun, mühendisin çoban olmaya meyletmesi.<br/><br/>hayvancılığın zor bir meslek olması: öyle bir meslek ki, 1-2 değil, yılın her günü bok temizliyorsunuz. üstelik insan boku değil. elinizi bir koyunun vajinasına sokup, ters dönmüş kuzuyu zarar vermeden çıkarıyorsunuz.<br/><br/>hayvancılığın sosyokultürel algısı: çoban, sığır, inek, öküz, hayvan, sürü, malak, davar, camış, koyun...... vs gibi hayvancılık ile ilgili her kelimenin, türkçe'de aynı zamanda bir hakaret, aşağılama sıfatı olması mesela. yol boyunda koyun otlatan bir çobana olan bakış açınız nasıldır? ön yargılı değil mi?<br/><br/>meran yoksa" eğer, hayvanlarının açlıktan ölmemesi için beslemek zorundasın.<br/>yem fiyatları da bu memlekette (çok afedersin) kol gibi. 1 tonu 1 milyar. sen bu pahalı yemi hayvana verince, hayvanın eti de hali ile pahalı oluyor. "pahalı yem = pahalı et". dünyanın en basit denklemi bu. kaçınılmaz sonuç yani. mera yoksa, hayvana yem vermemek gibi lüksün yok. ölürler.<br/><br/>et pahalı diye "ithalatı açmak". o zaman ne oluyor? o pahalı yetiştirilmiş hayvan değer kaybediyor. normal şartlar altında zaten kazancı düşük olan zor bir iş, ithalat sonrası zarar ettirmeye başlıyor.<br/><br/>sonuç: üretici mefta. çok ciddi zarar ediyor. aldığı para ile yem borçlarını kapatamıyor. en iyi ihtimal kar etmeden kapıyor defteri. boşa hamallık yapıyor anlayacağınız. nihayetinde üretimden çekiliyor. çünkü kimse bedavaya çalışmaz. bir kimse, bir işi ne kadar severse sevsin, bedavaya yapmaz. yapamaz. ınsanların sorumlulukları var.<br/><br/>(bkz: <a class="b" href="/?q=10+yilda+600+bin+ciftcinin+uretimi+birakmasi">10 yilda 600 bin ciftcinin uretimi birakmasi</a>)<br/><br/>üretimden her çekilen üretici, üretimin daha da düşmesine neden oluyor. ıthalat yeniden gündeme geliyor.<br/><br/>ithalat ile et sorununu çözmeye çalışmak ise, "cüzam yarasını fondötenle, pudrayla" kapatmaya çalışmak gibi. sorunu o anlık örtüyor belki ama gerçek sorun, tam olarak orada, üstelik büyüyerek bekliyor.<br/><br/>işte bu yüzden her yıl şiddeti değişen et krizleri yaşanıyor bu memlekette. yer yıl!.. üstelik et ithalatı açık iken.<br/><br/>ve eski bakan eker zamanında çıkıp şu açıklamayı yapabiliyor: “hayvancılıkta cumhuriyet tarihinin rekorunu kırdık.”<br/><br/>güler misin, sabaha mı bırakırsın.
-- entry_name: |
-    tek taş yüzük istemeyen kadın
-  entry_id:  75466330
-  entry_writer: la plage
-  entry_fav_count: 149
-  entry_content: |
-    şahsi fikrim bir alyansın yeterli olacağı yönünde. arkadaş ortamında, yaşça büyüklerin ortamında bu konu açıldığında alyans yeter dediğimde, “seni çok süzerler böyle”, “salaksın”, “gözünü aç erkek tek taş da almayacaksa evlenme teklifi bile etmesin” minvalindeki şeyler duyarım. amaç nedir? orada bir tek taş olunca ele geçen nedir? amaç sonuç ilişkisi açısından benim mantığımda bir sonuç yok. ha tabi piremseslere sorarsanız en basitinden instagramda o tek taşı göstermezse ne olacaktır? bütün fotoğraflarda o tek taş gözükmelidir ki, benim evleneceğim adam bunu bana aldı demelidir o. sosyal hayatında tek taşlı arkadaşlarının yanında boynu bükük kalmamalıdır. ben bunları sonuç olarak göremiyorum, aksine bunlar o insanların yanlış yolda olduklarının göstergesidir. çünkü sevginin bu nevi şeylerle hiçbir ilgisi yoktur. birini gerçekten seviyorsanız o tek taş bu beş taş önceliğiniz değildir. olmaması umrunuzda olmaz, tek taşla değil o adamla ömür geçireceksiniz. <br/><br/>70 yaşında kocasını kaybetmiş bir kadın kocasını kaybetmiş olmasına rağmen hala alyansını takıyor ve eşinin konusu ne zaman açılsa o incecik alyansa dokunuyorsa, evlendiklerinde hiçbir şeyleri olmayan o çift bir alyansla evlenmiş ve o adam o kadın için o benim hayattaki şansım keşke onunla daha erken karşılaşsaydık diyorsa sevginin paraya bağlı olan tek taş nevi şeylerle hiçbir bağlantısı yoktur benim gözümde. önemli olan her koşulda, gerçekten iyi günde de kötü günde de yanınızda mı değil mi, gönül bağınız var mı yok mu? bunlar yoksa geriye kalan hiçbir şeyin bir hükmü ve önemi yoktur.
-- entry_name: |
-    fatih sultan mehmet vs mustafa kemal atatürk
-  entry_id:  75470035
-  entry_writer: i for ipeyro
-  entry_fav_count: 133
-  entry_content: |
-    ikisi de birbirlerinin yerinde olsa en az birbirleri kadar basarılı olurlardı. çok benziyorlar aslında kimlik olarak... <br/><br/>ne kadar şanslıyız ki ikisi de türklere ata oldu...
 - entry_name: |
     4 bin tl maaş alıp güzel yaşayamamak
   entry_id:  75478770
   entry_writer: erdlbbr
-  entry_fav_count: 127
+  entry_fav_count: 150
   entry_content: |
     600 kira+200 servis+ayda 200 tl bira=1000tl<br/><br/>mutfak masrafı taş çatlasın 500 tl arkadaşın var sanırım / 2=250tl<br/><br/>doğuda olduğundan sosyal aktiviten yok denecek kadar az o yüzden saymadım onları.<br/><br/>geriye kaldı 2750 tl birader. bu parayla her gün pubg, gta 5 alıp hediye etmiyorsan millete nasıl yetmiyor birader. bence temel muhasebe kursuna git bir an önce<br/><br/>edit: altta elemanın biri sadece mutfak masrafıyla mutlu olunmaz gibi birşeyler zırvalamış. evet haklısın birader bak ben 3000 tl maaşla mutlu yaşıyorum neden ?<br/>çünkü para sikimde değil ailem yanımda sağlıklıyım. bu para da bana yetiyor artıyor bile. önce mutlu olmayı öğren sonra para diye ağlarsın.<br/><br/>koca sakıp sabancı ne demişti engelli oğluyla ilgili "koskoca toyota fabrikam var ama kullanacak oğlum yok". elinizdekiyle yetinmeyi bilin sonra gerisi gelir zaten.
+- entry_name: |
+    fatih sultan mehmet vs mustafa kemal atatürk
+  entry_id:  75470035
+  entry_writer: i for ipeyro
+  entry_fav_count: 136
+  entry_content: |
+    ikisi de birbirlerinin yerinde olsa en az birbirleri kadar basarılı olurlardı. çok benziyorlar aslında kimlik olarak... <br/><br/>ne kadar şanslıyız ki ikisi de türklere ata oldu...
+- entry_name: |
+    casus krizi türkiye'yi dünya kupasına götürebilir
+  entry_id:  75478290
+  entry_writer: ravinrabbid
+  entry_fav_count: 122
+  entry_content: |
+    yiğit özgür'ün yıllar önce <a rel="nofollow noopener" class="url" target="_blank" href="http://karikaturistan.com/wp-content/uploads/2016/06/milli-takimin-tur-atlamasi.jpg" title="http://karikaturistan.com/wp-content/uploads/2016/06/milli-takimin-tur-atlamasi.jpg">öngördüğü durumdur</a>.
 - entry_name: |
     kabin memurlarının aşırı yüksek maaş alması
   entry_id:  75477944
@@ -136,33 +122,26 @@ data:
   entry_content: |
     9 yıldır thy'de kabin memuru olarak çalışıyorum. daha o paraya yaklaşamadım bile. <br/>hangi thy bu. <br/>biz farklı thy'de mi çalışıyoruz amk.
 - entry_name: |
-    casus krizi türkiye'yi dünya kupasına götürebilir
-  entry_id:  75478290
-  entry_writer: ravinrabbid
-  entry_fav_count: 119
-  entry_content: |
-    yiğit özgür'ün yıllar önce <a rel="nofollow noopener" class="url" target="_blank" href="http://karikaturistan.com/wp-content/uploads/2016/06/milli-takimin-tur-atlamasi.jpg" title="http://karikaturistan.com/wp-content/uploads/2016/06/milli-takimin-tur-atlamasi.jpg">öngördüğü durumdur</a>.
-- entry_name: |
     bedelli askerlik
   entry_id:  75471713
   entry_writer: nate
-  entry_fav_count: 109
+  entry_fav_count: 110
   entry_content: |
     solcuların yüksek sesle, islamcıların kısık sesle, ülkücülerin gizlice beklediği bir sevdadır bedelli askerlik.
-- entry_name: |
-    sosyalizm
-  entry_id:  75468469
-  entry_writer: kral leopoldun kongolu arkadasi
-  entry_fav_count: 101
-  entry_content: |
-    tam olarak liberalizm nedir, hele de neo-liberalizm nedir ne değildir bilmeyen bir suserin saldırısına uğrayan güzide yönetim biçimi.<br/><br/>en başta şuradan başlamak istiyorum.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>sosyalist olmak ya da kendini solda görmek çok basittir. çaba istemez, emek harcama ihtiyacı gerekmez. kapitalizmin bütün imkânlarını sonuna kadar kullanıp, piyasa çarkları sayesinde televizyonunuza gelen bir filmi izleyip, cep telefonunuza internet bağlantısı üzerinden indirdiğiniz bir şarkıyı dinleyip kolaylıkla sosyalizme sempati duyup kapitalizmden nefret edebilirsiniz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sosyalist olmak genelde bedel ödemektir. bunu en yakında <a class="b" href="/?q=kom%c3%bcnist+gen%c3%a7lere+okuma+hakk%c4%b1+vermeyece%c4%9fiz">komünist gençlere okuma hakkı vermeyeceğiz</a> sözleriyle gördük. şimdi komünizmle sosyalizm aynı şey değil demeyin, o ayrı bir tartışma. kısaca anarşist olmayan aşağı yukarı bütün komünistler komünizme "işçi sınıfı diktatörlüğü" üzerinden varılması gerektiğini düşünürler.<br/><br/>ikincisi de suserin sosyalizmin bilimsel gelişmelere hiç fayda sağlamadığı iddiası ve filmlerin, internet bağlantısının falan hep kapitalizm sayesinde olduğunu düşünmesi. evet, senin suçun yok sevgili suser, sistem beynini iyi yıkamış. ama beynin hala eğitilmeye açıksa burayı iyi takip et:<br/><br/>* ilk uzaya gönderilen uydu<br/><br/>* ilk uzaya gönderilen insan<br/><br/>* ilk venüse inen uzay aracı, henüz sovyetler birliği dışında hiçbir ülke venüse inmeyi başaramış, dağılmasından 27 yıl sonra hala bayrağı taşıyor.<br/><br/>* zamanında sürdürülebilir füzyona en çok yaklaşan sistem (tokamak). çok bilim adamının sovyetler dağıldıktan sonra batıya gitmesine rağmen sovyet tokamaklarının performansı ancak yakın zamanda yakalandı.<br/><br/>* 7 nobel fizik ödülü, ki politik sebeplerle sovyet bilim adamlarına pek nobel ödülü verilmezdi. sovyetler dağıldıktan sonra eğitimlerini sovyetler birliği döneminde alan 5 bilim adamının daha nobel fizik ödülünü alması bunun bir nevi ispatıdır.<br/><br/>* 3 nobel kimya ödülü<br/><br/>* matematiğe ve mühendisliğe sayısız katkı<br/><br/>bunları bilmiyorsan öğrendin şimdi sevgili suser. yani bilime katkı sağlamak için liberalizme gerek yok.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>oysa liberal fikirleri dillendirmek, piyasanın serbestliğini savunmak çok daha zordur. emek ister, araştırma gerektirir, sorgulama ihtiyacı yaratır.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>abd'ye hiç gitmemişsin sevgili suser. orada sadece liberal fikirler konuşulur. hele ki bir tanesi var ki onun yüzünden her sene binlerce kişi ölüyor<sup class="ab"><a title="(bkz: gun control)" href="/?q=gun+control" data-query="gun control">*</a></sup>. kısaca liberalizmi savunan çok insan var. bundan sonra sadece liberal ekonomiden bahsedeceğim.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>oysa sosyalizmin insanları eşitleyebildiği tek bir eşik olduğu tarihî tecrübe ile sabittir, o da fakirlik. bütün insanları fakirleştirerek eşitler sosyalizm.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>izlemediysen hemen <a class="b" href="/?q=inside+job">inside job</a>'ı izlemelisin. serbest piyasa ekonomisinin dünyanın nasıl mahvedeceğinin en basit ve en anlaşılabilir örneğini orada göreceksin. tabii <a class="b" href="/?q=2007+abd+mortgage+krizi">2007 abd mortgage krizi</a> liberal ekonomi modeli yüzünden çıkmış ilk kriz değil. <a class="b" href="/?q=dot+com+bubble">dot com bubble</a>, <a class="b" href="/?q=b%c3%bcy%c3%bck+buhran">büyük buhran</a> global etkileri olmuş krizler. küçük ülkelerde liberalizm yüzünden kaç insan krizlerde aç kaldı biraz araştırmak gerek. bunu sana bırakıyorum.<br/><br/>bir de o kadar insan fakirken sovyetler birliği nasıl 70 sene dayandı hiç düşündün mü? hepsi korktuğu için mi fakirliği kabul etti? komik olma sevgili suser, bu insanlar çarlık rusyası zamanında gerçek açlığı gördükleri için sovyetlere sahip çıktı. hatta sovyetlerin dağılması da çarlık rusyası gören kuşaktan sonra olur.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>sosyalist ülkelerde de ne eğitim, ne sağlık ne de farklı bir sektör (aslında) ücretsiz değildir. o, ülkede yaşayan insanların zengin olma haklarının ellerinden alınmasının bir sonucudur.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>burası açıkçası abd'li cumhuriyetçi senatörlerin konuşmalarından aşırılmış gibi duruyor. sadece yılan ısırığı için abd'de 70000 dolar fatura kesilen insanlar biliyorum. bir gün, allah korusun, çocuğun kanser gibi milyonlarca dolar gerektiren bir illete yakalanır ve yardım kampanyaların yeterli dikkati çekmezse çocuğuna "bu ülkede yaşayan insanların zengin olma hakkından dolayı öleceksin." dersin. breaking bad izlediysen <a rel="nofollow noopener" class="url" target="_blank" href="https://s-i.huffpost.com/gen/1371807/thumbs/o-BREAKING-BAD-CANADA-COMIC-570.jpg?3" title="https://s-i.huffpost.com/gen/1371807/thumbs/o-BREAKING-BAD-CANADA-COMIC-570.jpg?3">şuna</a> da bir bakıver. <br/><br/>şimdi avrupa'yı ya da türkiye'yi düşünme. bu ülkelerde edinilen geniş haklar sovyetler birliği korkusu ile edinilmiş haklardır. bunların yıldan yıla nasıl tırpanlandığını türkiye'de görüyor olmalısın. yani aslında hiçbir zaman liberalizm senin iyileşmeni zerre önemsemedi. sadece sosyalist devrimin ülkelerine yayılmasından korkuyorlardı. yakında abd'deki kabus buralara da gelecek. o zaman zengin olma hakkın için sağlık hakkından vazgeçeceksin.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>zenginlik, aleyhinde yapılan karalamalara rağmen kötü bir şey değil tam tersine fakirliğin azalmasını sağlayacak tek ilaç, medeniyetlerin gelişmesinin, dünyanın ilerlemesinin en temel gereklerinden biridir.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>tek şey değildir. rönesans zamanında zenginlerin paralarını sanata bilime yatırması dışında zenginler sayesinde bilim gelişmemiştir. orjinal fikirler <a class="b" href="/?q=erc">erc</a>'nin, <a class="b" href="/?q=dod">dod</a>'un, <a class="b" href="/?q=nsf">nsf</a>'in, türkiye'de de tübitak'ın verdiği teşviklerle gelişir, şirketler sadece var olan teknolojilerin biraz daha ilerlemesi için uğraşırlar, riskli fikirleri desteklemezler. burada genelde <a class="b" href="/?q=elon+musk">elon musk</a>'ı örnek verirler. <a rel="nofollow noopener" class="url" target="_blank" href="http://thehill.com/blogs/pundits-blog/economy-budget/345338-can-we-wean-elon-musk-off-government-support-already" title="http://thehill.com/blogs/pundits-blog/economy-budget/345338-can-we-wean-elon-musk-off-government-support-already">kimse de elon musk'ın 5 milyar dolar devlet teşviği aldığından bahsetmez</a>. bir de burada zuckerberg'in bill gates'in falan servetini bağışlaması örnekleri gelir. bu kısım için <a class="b" href="/?q=limited+liability+company">limited liability company</a> nedir onu araştırmanı öneririm. çok da iyi bildiğim bir alan değil, ama öyle bütün servetten vazgeçmek gibi bir şey yok.<br/><br/>ek: bir de zenginlerin bilime aktif olarak zarar verdiği durumlar da var. petrol şirketlerinin gelecek vaadeden alternatif enerji şirketlerini alması ya da patentleri satın alıp kullandırmaması buna bir örnektir. <a class="b" href="/?q=dr.+pepper">dr. pepper</a>'ın şekerin obeziteye sebep olmadığını destekleyen bilim adamlarına sponsor olması da başka bir örnek.<br/><br/>gördüğün üzere bilim heryerde devlet desteği ile ilerler. yani kapitalin birilerinin elinde toplanması, senin deyiminle zenginleşme hakkı, bilimsel gelişmelerde pek işe yaramaz. hiç zengini olmayan sovyetlerde de bilim devlet desteği ile ilerledi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>peki sosyalizmin romantizmi nasıl böyle kolay yapılabilmekte? bunun cevabı gayet basit, çünkü sosyalizm dünya üzerinde bir yeryüzü cenneti vaat ediyor.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sosyalizm cennet vaadetmez. sosyalizm insanın insana olan sömürüsünün biteceğini vaadeder. burada mümkünse mülksüzleri oku.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>oysa, sosyalizm dünyaya olumlu yönde bir şeyler sunmak yerine kan, gözyaşı, sefalet ve fakirlik bırakmıştır.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kaynak götüm tarzı bir bitiriş olmuş. peki kaç kişi abd ırak'a özgürlük ve demokrasi getirirken öldü? al sana serbest piyasa kapitalizmi. afrika'da kaç iç savaşta kaç kişi öldü? suriye iç savaşı'nda kaç kişi öldü? liberalizme alakası yok diyeceksin ama gayet var sevgili suser. rte'nin planı suriyede bize bağlı bir yönetimin kurulması, türk müteahhitlerin de suriye'yi baştan inşa etmeleriydi. bunlar hep serbest piyasa ekonomisi. <br/><br/>daha somut bir örnek vereyim. soma'da kaç işçi öldü? <a rel="nofollow noopener" class="url" target="_blank" href="http://www.radikal.com.tr/turkiye/alp-gurkan-vahap-munyara-konusmustu-1191955/" title="http://www.radikal.com.tr/turkiye/alp-gurkan-vahap-munyara-konusmustu-1191955/">soma'daki şirketin sahibinin kazadan önce verdiği röportaj burada</a>. oradan şu kısma dikkatini çekeyim:<br/><br/>- tki, soma'da kömürü kendisi çıkarırken tonunu 130-140 dolara mal ediyordu. biz ihaleye girip, tonun tki'ye yüzde 15'lik rödovans payı dahil 23.80 dolara çıkarma taahhüdü verdik.<br/>- tki, kömürün maliyetini oldukça indirmiş. bu model size de para kazandırıyor mu? <br/>- gerek biz, gerekse diğer özel şirketler kâr etmesek bu işe girmezdik. <br/>- kârlılığa ulaşmak nasıl oldu? <br/>- bizim mühendis ve işçilerimiz uzaydan gelmedi. sadece işi iyi planlamak, özel sektörün çalışma tarzı devreye girdi o kadar. <br/><br/>aradaki ton başına 100 dolar liberalizmin 301 kişinin canına kıymasına sebep oldu. burada da hemen "devlet regülasyon yapsın" derler hep. kardeşim, senin zengin olma hakkın yüzünden kapital az sayıda kişide toplandığında devletler regülasyon yapamaz hale gelir. özel sektörün çalışma tarzı dedikleri şey budur işte.<br/><br/>sen yine ayn rand okumaya devam et. sen yine ortamlarda liberalizmi savunmaya devam et sevgili suser. ama burada yüzlerce kişinin görebileceği bir yerde yapınca komik oluyorsun.<br/><br/>düzeltme: <a class="b" href="/?q=nfs">nfs</a> değil, <a class="b" href="/?q=nsf">nsf</a> olacaktı. national science foundation. bir de yukarıdaki ek var.
 - entry_name: |
     en yavşak insan tipi
   entry_id:  75465195
   entry_writer: casandrarheme
-  entry_fav_count: 84
+  entry_fav_count: 92
   entry_content: |
     hayatı belli sorular üzerine endeksli olan insan tipidir.<br/><br/>çocukken başlar sormaya;<br/><br/>- büyüyünce ne olacaksın?<br/>- anneni mi daha çok seviyorsun babanı mı?<br/><br/>sonra seneler geçer değişik değişik sorularla <br/><br/>- hangi okulu kazandın bakayım ? <br/><br/>okul kazanılır, okumaya başlanılır<br/><br/>- bitirince ne olacaksın bakalım... hayır ananın amı olucam da diyemiyor insan.<br/>- 2 senelik mi 4 senelik mi o ?<br/><br/>bu sefer okul biter iş güç sorar, iş güç bulunur evlilik sorar, evlenirsin çocuk sorar, çocuk yaparsın 2. çocuğu sorar... sanane ablacım sanane abicim ya sanananeeeeee sa na ne yani.
+- entry_name: |
+    sosyalizm
+  entry_id:  75465457
+  entry_writer: celiktepe stayla
+  entry_fav_count: 83
+  entry_content: |
+    haftada 45-70 saat çalışıp ucu ucuna ev gecindiren birisi için sosyalist olmak tabii ki çok kolaydır. dikkat edin serbest piyasayı götünüze sokuvermesin.
 - entry_name: |
     bir şirketin kurumsal olmadığını gösteren detaylar
   entry_id:  75463982
@@ -178,13 +157,6 @@ data:
   entry_content: |
     emsonhaber denen pislik yuvasının attığı manşet:<br/>“merkez uyuma”<br/>alttaki yorumlardan biri:<br/>“merkez bankası başkanı metal yorgunuysa istifa etsin. reis hangi birine yetişsin.”<br/><br/>evet, merkez bankası başkanı suçlu, almanya suçlu, uzaylılar suçlu ama reis ne yapsın... herkes metal yorgunu, o değil. hatırlarsanız bir önceki merkez bankası başkanı da “vatan haini”ydi. <br/><br/>bu gerizekalılar oy verdiği sürece dolar 5 de olur 6 da..
 - entry_name: |
-    barış manço'nun abartılmış bir balon olması
-  entry_id:  75464019
-  entry_writer: dusunenbiyik
-  entry_fav_count: 48
-  entry_content: |
-    kişisel yaşantımda çok ciddi olarak tanımlanan bir adamım... bakın bu şekilde düşünen insanların olması beni ağlatır. hakikatten ağlatır. yazıklar olsun lan barış manço'dan bahsediyoruz, senin ne haddine böyle bir başlık açmak?
-- entry_name: |
     ekşi sözlük'te tanışıp sevgili olmak
   entry_id:  75467061
   entry_writer: kafkasli17
@@ -192,75 +164,61 @@ data:
   entry_content: |
     bu kadar irrite olanları anlamadığım durum. yahu burası nispeten elit bir ortam değil mi ? istisnalar harici hepiniz öyle veya böyle çeşitli konularda birikimi olan insanlarsınız hatta bazılarınız uzman. sokakta 100 kişiye sorsanız bulamayacağınız ortak noktaları burada çok kolay yakalayabiliyorsunuz. ee o zaman mantıksız olan veya irrite eden nedir? illa filmlerdeki gibi kitaplarınız falan mı düşecek yere. yok artık öyle bir dünya millet tablet taşıyor elinde. buradan öyle bir ortak noktada kesişirsiniz ki o sizi arkadaş yapar. ee görüşmeye başlayınca da bu ortak noktaları birtakım güzel hislerle süslerseniz neden gayet elit bir ilişkiniz olmasın.
 - entry_name: |
-    yorgun görünüyorsun git dinlen diyen patron
-  entry_id:  75479080
-  entry_writer: sdfghj
-  entry_fav_count: 46
+    ekşi sözlük iş ağı
+  entry_id:  75469661
+  entry_writer: de la pena
+  entry_fav_count: 36
   entry_content: |
-    çalışanların sürekli yorgun görünmesine sebebiyet verecek patrondur.<br/><br/>burası türkiye, iyi niyeti suistimalin ana vatanı.<br/><br/>birbirimizi kandırmayalım.
-- entry_name: |
-    ufak tefek cinayetler
-  entry_id:  75464057
-  entry_writer: ascartia
-  entry_fav_count: 40
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bence her şey taylan’ın oğlunun rüyası. zaten rachel de tuzluk. <sup class="ab"><a title="(bkz: bu tırt senaryonun tek açıklaması sanırım)" href="/?q=bu+t%c4%b1rt+senaryonun+tek+a%c3%a7%c4%b1klamas%c4%b1+san%c4%b1r%c4%b1m" data-query="bu tırt senaryonun tek açıklaması sanırım">*</a></sup><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-- entry_name: |
-    destek bilgisayar aş iş görüşmesi rezaleti
-  entry_id:  75475311
-  entry_writer: heuristic algorithmic
-  entry_fav_count: 39
-  entry_content: |
-    20 dakika iş hayatındaki herhangi bir toplantı için kabul edilebilir bir bekleme-bekletme zamanı. özellikle istanbul ve ankara gibi büyük şehirlerdeyseniz. patronlar, genel müdürler dahi yarım saate kadar geciklemeri çoğu kez fark bile etmezler.<br/><br/>diğer taraftan iş görüşmesi bir pazarlık görüşmesidir. bu pazarlıkta; çalışan satıcı, işveren müşteri konumundadır. iş hayatından pazarlık yapmanın temel kuralı satıcının pazarlık masasından "dışsal konuları" temizlemesidir.<br/><br/>eğer 20 dakika bekletilmek, özür dilenmemek ve terslenmek adayın gururuna dokunduysa, bilişim sektöründe çalışmamak en doğru yol olacaktır. çünkü bilişim sektöründe "müşteri" bekletmeyi her zaman bir pazarlık avantajı olarak kullanır. satıcı ise müşteriyi elinde tutmak için bunu kompanse eder, dışsallıkları temizler. (müşteri görüşmede bekletir, revizyonda bekletir, teklife cevapta bekletir, randevu vermez, kendi iletmesi gereken bilgiyi geç iletir vs vs...)<br/><br/>bir yazılımcı (dolaylı olarak da olsa) veya bilişim sektöründeki herhangi bir orta-üst düzey çalışan, müşterisi ile çok zor bir ilişki yaşar. iş görüşmesinde bu ilişkinin stresi test edilmek zorundadır.
-- entry_name: |
-    1 nisan 2018 galatasaray trabzonspor maçı
-  entry_id:  75479361
-  entry_writer: gokyuzundeyuzdum
-  entry_fav_count: 31
-  entry_content: |
-    ilk yarıdaki trabzon maçı ve geçtiğimiz 2 yıldaki tüm büyük maçlardan bir farkı var.<br/><br/>artık rakibin herhangi bir pozisyonundaki adam bir şeyi iyi yapıyor diye takımın sisteminin anasını siken tudor yok.<br/><br/>artık rakip bala göte bir gol attığında ne yapacağım ben diye elleri ayağına dolaşan riekerink yok.<br/><br/>artık çok mu gol yiyoruz. e o zaman ben tüm defansif oyuncuları sahaya süreyim ön liberoyu bile stoperden yapayım diyen denizli yok.<br/><br/>artık yerli olsun kötü olsun farketmez biz idare ederiz diyen hamza yok.<br/><br/>artık saçma sapan futbol anlayışını orta sahada mümkün olduğunca dmc-cm tutarak topu tutma sıfır hücum aşkına sahip prandelli yok.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://cdn.ntvspor.net/cb9a8e49c4dd40d69e44563f0b7117f3.jpg?&amp;mode=crop&amp;w=940&amp;h=626.6666666666666" title="http://cdn.ntvspor.net/cb9a8e49c4dd40d69e44563f0b7117f3.jpg?&amp;mode=crop&amp;w=940&amp;h=626.6666666666666">artık kim olduğunu hepiniz biliyorsunuz</a><br/><br/>yenebiliriz yeniledebiliriz. kesin olan bir şey olacak bu maçla ilgili o da savaşmayı asla bırakmayacağız. olabildiğince çabalayacağız ve hücum edeceğiz.<br/><br/>ha seyirci mi. son sezonlarda trabzon maçlarında olanları izleyip izleyip bileniyoruz zaten biz. bizden yana problem yok!
+    erciyes üniversitesi iktisat terk<br/>anadolu üniversitesi edebiyat terk<br/>anadolu üniversitesi işletme mezunu (örgün ne önemi varsa artık) <br/>sosyal hizmetler mezun.<br/>2 kere simple paste tenseden ilerisini goremeyip hazirlikta kalmış 4 yıllık müzmin işsiz geçimini iptv satarak sağlayan biri olarak iş arıyorum. okuduğum bölümlerin niteliksiz olduğunun bilincindeyim.<br/><br/>iş tecrübelerim ve bırakma nedenlerin ayrıntıları ile verilmiştir.<br/><br/>1 gün havalimanında garsonluk sürekli ayaktasin bir gece bir gunduz dediler ertesi gün beni insan kaynaklarına stajyer olarak alın para da istemiyorum dedim kabul etmediler <br/><br/>1 gün bim'de kasiyerlik sigortalı <br/>gece 10 oldu ayaklar iflas etti birde sayım var dediler siz esnek çalışma saatinin bokunu cikarmissiniz dedim bıraktım.<br/><br/>3 ay emlak dükkanı<br/>1 tane bile ev satamadim günde 12 saat çalışıyordum ayda 800 tl<br/><br/>1 hafta sekreterlik<br/><br/>1 gün vale ( bir türlü sokamadik arabayı araya kovdular ) <br/><br/>diğer iş denemeleri<br/><br/>çobanlık düşündüm babam izin vermedi<br/><br/>bankacılık ayakta satış yapican dediler kredi kartı felan ayakta sikiş yani dedim operasyonel kısım almayacaksaniz mülakata devam etmemize gerek yok teşekkürler<br/><br/>yine banka ayakta satış prim usulü<br/><br/>mendil satsam daha çok kazanirim ustelik kendi isimin patronuyum dedim.<br/>ne farkı var ki kapı kapı dolaşıp kredi kartı satmakla mendil satmanın ? <br/>iş hayatı çetin <br/>he he hee yarram he herkes bilge kişi zaten bu ülkede. sikise kılıf arıyorlar çetin çetin.<br/><br/>birmot mülakat <br/><br/>bugüne kadar ne basardin hayalin ne<br/><br/>- ben ????<br/>tek hayalim yaşamak diyebildim.<br/><br/>senin kendine hayrın yok diye direk asagladi oc ısparta işletme mezunu dangalak tek şansı benden 7-8 sene önce mezun olmak.<br/><br/>birçok şey başarmış olabilirim belki de hiçbir şey ama hayalim kesinlikle siktirboktan fiat arabalarınızi asgari ucrete yakın paraya kendimi satarak pazarlamak değil demek isterdim diyemedim.<br/><br/>son bir yere deniyim dedik kız erkek eleman aranıyor yazıyor yok biz sadece kız ariyoz dedi siktiklerim. herkes her işe kız arıyor.<br/><br/>vakıfbanka meclisten liste gelip direk elenme kpss 85 le atanamama polislik 2 cm ile olamama konuları klasik burda deginmicem.<br/><br/>3 yıldır iptv satıyorum başka da bir boktan anlamam <br/><br/>vasiflarim <br/><br/>yok<br/><br/>dürüst birşeyler öğrenmeye niyetli para değil aile kurabilecigim iş arıyorum vs vs bir ton şey zirvalasam kimsenin sikinde değil<br/><br/>sikimden uzun maddelerle yetkinlik arayan işverenlere lan onların onda biri bende olsa senin vereceğin 3 kuruşami kalırım prezentabilina girişken ruhuna dinamigine exeline wordune 20 yasini geçmemiş tecrübeli elemanina soktugum diyebilme ozguvenine sahip olmayı isterdim. yukarıdakilerin bir kısmı doğru da olsa diyemedim çünkü bu kadar sicik duruma düşeceğimi ongoremedim.<br/><br/>en büyük hayalimde bir gün özellikle bu başlığa bunu yazabilmekti.<br/><br/>sizin vereceğiniz işe sokayım çok ovdugunuz liberal düzenin de ta amk. <br/><br/>2 yıl sonra döneceginiz hiç ihtiyaç olmadığı halde açtığınız alimlara köle ilanlarina ayrıntılı cv mi bıraktım arkasını çevirin koca bir sik resmi goruceksiniz bizi ahmak yerine koydugunuz için teşekkürler.<br/><br/>sik kafalı patronlar <br/>sik kafali ikcilar<br/><br/>özet.<br/>iş arıyorum<br/>mümkünse gemide olsun cayci olmaya razıyım yeterki siktirip gideyim şu ülkeden.
 - entry_name: |
     chp iyi parti hdp ortak adayı olabilecek isimler
   entry_id:  75488484
   entry_writer: kara ruhlu noker
-  entry_fav_count: 30
+  entry_fav_count: 35
   entry_content: |
     aktroller de geldiğine göre engel listesine devam edebilirim<br/><br/>iyi parti %2 alıyormuş anketlerde :) hangi anket o acaba, akp gençlik kollarında falan mı yapıldı :)
 - entry_name: |
-    barbiegibikizimcanim
-  entry_id:  75479194
-  entry_writer: antik sehir
-  entry_fav_count: 28
+    1 nisan 2018 galatasaray trabzonspor maçı
+  entry_id:  75479361
+  entry_writer: gokyuzundeyuzdum
+  entry_fav_count: 33
   entry_content: |
-    spam mesaj atan orospu çocuğunun teki.<br/><br/>şu çaylakların mesaj atma kriterlerini geliştirin amına koim ya. bunun gibi orospu çocukları yüzünden mesaj alımını kapamak istemiyorum. ama bu orospu çocuklarına da maruz kalmak istemiyorum.
-- entry_name: |
-    vergi artışı yapılmasının gerekliliği
-  entry_id:  75477964
-  entry_writer: apacinindovmelisi
-  entry_fav_count: 27
-  entry_content: |
-    artık o kadar bıktık ki şakası bile hoş olmuyor.
-- entry_name: |
-    türkçe futbol tezahüratlarının ingilizceleri
-  entry_id:  75478074
-  entry_writer: paganiniyasasaydimalmsteendinlerdi
-  entry_fav_count: 25
-  entry_content: |
-    eskilerden bir klasik:<br/><br/>we support beşiktaş, we're against swearing,<br/>football is friendship, football is fellowship.<br/>let's wipe it all clean and forget the past<br/>but for the last time suck my d*ck fener.
+    ilk yarıdaki trabzon maçı ve geçtiğimiz 2 yıldaki tüm büyük maçlardan bir farkı var.<br/><br/>artık rakibin herhangi bir pozisyonundaki adam bir şeyi iyi yapıyor diye takımın sisteminin anasını siken tudor yok.<br/><br/>artık rakip bala göte bir gol attığında ne yapacağım ben diye elleri ayağına dolaşan riekerink yok.<br/><br/>artık çok mu gol yiyoruz. e o zaman ben tüm defansif oyuncuları sahaya süreyim ön liberoyu bile stoperden yapayım diyen denizli yok.<br/><br/>artık yerli olsun kötü olsun farketmez biz idare ederiz diyen hamza yok.<br/><br/>artık saçma sapan futbol anlayışını orta sahada mümkün olduğunca dmc-cm tutarak topu tutma sıfır hücum aşkına sahip prandelli yok.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://cdn.ntvspor.net/cb9a8e49c4dd40d69e44563f0b7117f3.jpg?&amp;mode=crop&amp;w=940&amp;h=626.6666666666666" title="http://cdn.ntvspor.net/cb9a8e49c4dd40d69e44563f0b7117f3.jpg?&amp;mode=crop&amp;w=940&amp;h=626.6666666666666">artık kim olduğunu hepiniz biliyorsunuz</a><br/><br/>yenebiliriz yeniledebiliriz. kesin olan bir şey olacak bu maçla ilgili o da savaşmayı asla bırakmayacağız. olabildiğince çabalayacağız ve hücum edeceğiz.<br/><br/>ha seyirci mi. son sezonlarda trabzon maçlarında olanları izleyip izleyip bileniyoruz zaten biz. bizden yana problem yok!
 - entry_name: |
     ateist şarkıları
   entry_id:  75483347
   entry_writer: sahikalar destani
-  entry_fav_count: 24
+  entry_fav_count: 29
   entry_content: |
     (bkz: <a class="b" href="/?q=imagine">imagine</a>)<br/>(bkz: <a class="b" href="/?q=john+lennon">john lennon</a>)<br/><br/>imagine there's no countries,<br/>it isn't hard to do,<br/>nothing to kill or die for,<br/>no religion too,<br/>imagine all the people<br/>living life in peace...
+- entry_name: |
+    türkçe futbol tezahüratlarının ingilizceleri
+  entry_id:  75478074
+  entry_writer: paganiniyasasaydimalmsteendinlerdi
+  entry_fav_count: 26
+  entry_content: |
+    eskilerden bir klasik:<br/><br/>we support beşiktaş, we're against swearing,<br/>football is friendship, football is fellowship.<br/>let's wipe it all clean and forget the past<br/>but for the last time suck my d*ck fener.
 - entry_name: |
     levent gültekin
   entry_id:  75467855
   entry_writer: irlandali
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     hep siyaset konuştuğu için tam olarak fark edemiyoruz ama siyaset dışında konuştuğu zaman ne kadar derin bir adam olduğunu anlıyoruz.<br/><br/>"kadın ile erkek karşılıklı etkileşim halindedir. erkek kadından şefkati, inceliği, zerafeti kısacası insanı insan yapan duyguları öğrenir. kadın erkekten güçlü olmayı, kendi ayakları üstünde durmayı, kararlılığı kısacası doğada hayatta kalmak için gerekli güdüleri öğrenir.<br/>erkeklerden uzak kalan kadınlar silik karakterli kadınlardan uzak kalan erkekler de duygusuz odunlar olur "<br/><br/>demiş ve beni benden almıştır. sonra duramayıp şöyle devam etmiştir.<br/>" ortadoğu ve islam ülkelerinin en büyük sıkıntısı bu. kadın ve erkekleri birbirinden uzak tuttukları için toplum da aktif rol alamayan kadınlar ve yontulmamış odun olan erkekler ortaya çıkıyor. o yontulmamış odunlarda bugün ortadoğuyu kasıp kavuruyor."<br/><br/>parti kur oy verelim reiz.
+- entry_name: |
+    hiçbir evli erkeğin evliliği tavsiye etmemesi
+  entry_id:  75489427
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 19
+  entry_content: |
+    bugun sirkette kamuoyu arastirmasi yaparak tekrardan emin oldugum durum.<br/><br/>gun icerisinde cok fazla personelle muhattap oldugumdan dolayi genis bir kitlenin fikrini alma imkanim oldu. kisa kisa cok insanla gorusurum gerek telefonla (cogunlukla telefon) gerek yuz yuze.. isle ilgili mevzulari cozdukten sonra hepsine kucuk bi anketimiz var katilmak ister misiniz diye sordum. sag olsunlar hepsi kabul etti.<br/><br/>hojam evliligi oneriyor musun? <br/><br/>sorusuna 30 kisiden sadece 2 tanesi evet cevabini verdi. geri kalan 28 kisinin genel tavri <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/MDinPiqK6Bs" title="https://youtu.be/MDinPiqK6Bs">bu</a> sekilde hayir olarak kategorize edildi. 28 kisiden 20'ye yakinin cocugu yok.. bu sartlar altinda yapmayi da dusunmuyorlar. <br/><br/>genel kani; <br/>ozgur olamamak, maddi kulfet ve surekli olarak her seyden sorumlu tutulmaktan sikayetci. <br/><br/>evleneni siksinler.
+- entry_name: |
+    getcontact
+  entry_id:  75466639
+  entry_writer: marcus minucius rufus
+  entry_fav_count: 16
+  entry_content: |
+    uygulamayı indirip kullanan denyolara bir soru:<br/>(edit: rehberini paylaşanlar diye ekleyeyim gönlünüz olsun)<br/><br/>rehberinizde kayıtlı olan, kişisel verisini paylaştığınız insanlari yaptığınız şey ile ilgili bilgilendiriyor musunuz? çünkü bu olay şirketlerin reklam stratejileri için veri toplaması boyutunu çoktan aştı. siz artık en yakınınızdaki insanların verilerini, kendi elinizle herkesin erişimine açıyorsunuz. ve bunu o kişilerin, numaralarını bu ortamda listelemek isteyip istemediklerini hiç düşünmeden yapiyorsunuz.<br/><br/>'insanların sizi nasıl kaydettiğini merak etmek' bu eyleminizi aklayabilecek bir açıklama değil, çünkü karşılığında ödediğiniz bedel sadece sizi ilgilendirmiyor, bilgisi ve rızası dışında verilerini paylaştığınız insanları da ilgilendiriyor. özür dilerim, yaptığınızın meraktan çok sorumsuzluğunuz, bilinçsizliğiniz ve aptallığınızla ilgisi var. ve hatta özgüven problemleriniz ve sosyal kaygı bozukluklarınızla. detaylı bilgi için psikoloğunuza başvurunuz.<br/><br/>saçma sapan savunmalara da cevap verelim de bitsinler<br/><br/>1- vatsap, feysbuk kullanmıyor musunuzcular<br/><br/>verilerini bu gibi uygulamalar üzerinden paylaşmak kişinin kendi insiyatifindedir. benim internet ortamında ne gibi bilgilerimi paylaştığım sadece beni ilgilendirir. ancak şöyle bir rehberime göz gezdirdiğimde, sosyal medyasıydı internetiydi hiçbiriyle alakası olmayan bir sürü insan var. hatta akıllı telefonu olmayan da var. eminim sizde de vardır bir bakın. şimdi ben bu uygulamayı kullanırsam hangi yetkiyle bu insanların bilgilerini paylaşmış oluyorum?<br/><br/>2- paranoya yapmayıncılar<br/><br/>'kişisel verilerin korunması kanunu, madde 5- (1) kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez.'<br/><br/>mahremiyet hakkımı savunmak ne zamandan beri paranoya olarak adlandırılmaya başladı? madem öyle mülkiyet hakkını savunanları pinti, seyahat hakkını savunanları da gezenti ilan edelim. <br/>whatsapp, facebook gibi uygulamaları ben de kullanıyorum ancak numaramın hangi uygulamayla paylaşılacağına sadece ben karar veririm. spam, reklam yememek için gözüm gibi sakladığım numaramın bu gibi uygulamalar üzerinden paylaşılmasını istemeyebilirim mesela. veya yeni tanıştığım birine numaramı verdiğimde, lise arkadaşımın beni kaydettiği şekilde görmesini istemeyebilirim de. sorun kişisel verilerinizi paylaşmanız değil ayrıca, sorun başkalarının kişisel verilerini paylaşmanız<br/><br/>3- rehbere erişim izni vermeye gerek yokçular<br/><br/>açıklayıcı edit: kimse erişim izni vermediği için mi herkesin numarası meydanda. üzgünüm en temel akıllı telefon kullanım bilgisinde de sınıfta kaldınız.<br/>numaranızı sorgulattığınızda kaç tane kayıt çıkıyor? kimse rehberini paylaşmasa kaç tane çıkardı? herkes numarasını sorgulattığında ortalama 10-15 kayıt görüyorsa, demek ki o izin azımsanmayacak bir insan güruhu tarafından verilmiş. buradan da sorumsuzluk ve bilinçsizlik kısmına geri dönüyoruz. eğer akıllı telefon kullanımınız başkalarının mahremiyet hakkı üzerine bu denli tehlikeler arz edecekse kullanmayın o zaman. zaten sorun kendi kişisel verilerinizi paylaşmanız değil, sorun başkalarının kişisel verilerini paylaşmanız
 - entry_name: |
     çok güzel bir kadın olmak
   entry_id:  75466339
@@ -270,11 +228,18 @@ data:
     keşke şu başlığa yazanların hepsi fotoğrafını da koysa. <br/><br/>tanım: göreceli olan bir kavrama sahip olduğunu düşünmek.
 - entry_name: |
     güzelliğin rakamların ötesinde olması
-  entry_id:  75464620
-  entry_writer: pbkc
+  entry_id:  75465679
+  entry_writer: zulmet
   entry_fav_count: 15
   entry_content: |
-    insan bu mantalitede bir reklamda, kilosu "fazla", burnu biraz eğri, çenesi biraz çıkık, farklı sosyo ekonomik düzeylerden ve yaşlardan kadınlar görmeyi bekliyor. hatta reklamı açana kadar emindim bundan.<br/><br/>izleyince çok şaşırdım. sanki reklamı çekerken çıkış noktasını unutmuşlar. en azından yeni doğum yapmış kadının "veremediği" kiloları filan olsaydı, biraz gerçekçi olurdu.<br/><br/>güzellik hiç önemli değil derken çok güzel kadınlar kullanan "güzellik sabunu" markası: dove.
+    "ötesinde dediysek o kadar da ötesinde demedik şoyle hemen az ilerisinde" diyebilecek gibi duran reklam.
+- entry_name: |
+    utanma hissinin ortadan kalkmasının sebebi
+  entry_id:  75486079
+  entry_writer: scarletletter
+  entry_fav_count: 14
+  entry_content: |
+    tüketim toplumu.<br/><br/>en fazla ne kadar rezil olabilirsiniz? kaç gün mesela?<br/><br/>sürekli anlık paylaşımlarla gündem akıp gidiyor. bir adet insan için maksimum 5-10 saniye rezil oluyorsunuz. genelde hepsi de eş zamanlı oluyor. bir an dikkatler üzerinize toplanıyor. 1-2 güne hop unutuluyor. <br/><br/>utanmak için utandirilmak gerek. sürekli "puuu sana" diyen komşu teyzeler bile başını başka yöne çevirdi. gündüz kuşağında, müge anlı larda falan daha fazla malzeme var o teyzeler için. <br/><br/>ınsanların gözünde rezil olmak biraz magazinel bir durum. o da akıyor zebil gibi maşallah. taa adıyaman'daki adama puu deme lüksü var artık teyzelerin. <br/><br/>ha insan kendinden utanmaz mı? bir yaratıcı'dan utanmaz mı? annesinden babasından? utanir ama utanmak için sağlam kalmış bir gönül ilişkin olması lazım. allah'tan, anne babadan ve hatta kendinden kalben kopmak da çok rastlanan bir durum. cevap yine tüketim toplumu ve sosyal medya. aynaya bakıp kendinle hesaplaşmak yerine üç beş selfie çekip ınstagram'daki sen'e bakmak daha konforlu ve iç açıcı.
 - entry_name: |
     jandarma genel komutanlığı jöak tanıtım videosu
   entry_id:  75490000
@@ -283,12 +248,12 @@ data:
   entry_content: |
     jandarma genel komutanlığı tarafından, <br/>halkımızca <a class="b" href="/?q=j%c3%b6ak">jöak</a> kısaltma ismi ile bilinen; <br/>"jandarma komando özel asayiş ve kurtarma tugay komutanlığımızı" <br/>birbirinden müthiş görsel sahneleriyle, müthiş bir müzik ve kliple hazırlanarak tanıttıkları <a rel="nofollow noopener" class="url" target="_blank" href="http://www.jandarma.gov.tr/duyurular/ceza_sus_pus_joak.html" title="http://www.jandarma.gov.tr/duyurular/ceza_sus_pus_joak.html">kahraman teşkilatımızın videosu</a><br/><br/>ulu önderimiz mustafa kemal atatürk'ün sözünde belirttiği gibi:<br/>“jandarma, her zaman yurt, ulus ve cumhuriyete aşk ve sadakatle bağlı<br/>tevazu, fedakarlık ve feragat örneği<br/>bir kanun ordusu’dur.”<br/><br/>her türlü zor koşul ve şartlarda en üst fedakarlıkla, en yüksek özveriyle, emsali olmayan bir vatanseverlik örneğiyle görevlerini yapan kahraman jandarma teşkilatımızın tüm mensuplarına saygılarımızı sunar, sözlük yazar ve okurlarına iyi seyirler dileriz.
 - entry_name: |
-    utanma hissinin ortadan kalkmasının sebebi
-  entry_id:  75486079
-  entry_writer: scarletletter
-  entry_fav_count: 12
+    9 yaşındaki kıza türban takmak
+  entry_id:  75489930
+  entry_writer: ignotus peverell
+  entry_fav_count: 10
   entry_content: |
-    tüketim toplumu.<br/><br/>en fazla ne kadar rezil olabilirsiniz? kaç gün mesela?<br/><br/>sürekli anlık paylaşımlarla gündem akıp gidiyor. bir adet insan için maksimum 5-10 saniye rezil oluyorsunuz. genelde hepsi de eş zamanlı oluyor. bir an dikkatler üzerinize toplanıyor. 1-2 güne hop unutuluyor. <br/><br/>utanmak için utandirilmak gerek. sürekli "puuu sana" diyen komşu teyzeler bile başını başka yöne çevirdi. gündüz kuşağında, müge anlı larda falan daha fazla malzeme var o teyzeler için. <br/><br/>ınsanların gözünde rezil olmak biraz magazinel bir durum. o da akıyor zebil gibi maşallah. taa adıyaman'daki adama puu deme lüksü var artık teyzelerin. <br/><br/>ha insan kendinden utanmaz mı? bir yaratıcı'dan utanmaz mı? annesinden babasından? utanir ama utanmak için sağlam kalmış bir gönül ilişkin olması lazım. allah'tan, anne babadan ve hatta kendinden kalben kopmak da çok rastlanan bir durum. cevap yine tüketim toplumu ve sosyal medya. aynaya bakıp kendinle hesaplaşmak yerine üç beş selfie çekip ınstagram'daki sen'e bakmak daha konforlu ve iç açıcı.
+    henüz kendi kararlarını veremeyecek kadar küçük olan bir çocuğun, ailesi sığ görüşlü olduğu için, ondan tahrik olunabilineceğini düşünen yobazlar sebebiyle başını örtme durumudur. şimdi sorulması gereken iki soru var;<br/><br/>şeriat nedir? kuralları nelerdir? afedersin ama 9 yaşında çocuğa türban takılmasını söyleyen bir kuralı uygulamak düpedüz cehalettir. <br/><br/>beyfendi demiş ki "siz kimsiniz küçücük çocuğun giyimine dil uzatıyorsunuz?"<br/><br/>ulan sen kimsin de küçücük çocuğun başını örtüp kendi yobaz fikirlerini büyümeden çocuğun beynine yerleştiriyorsun? kendi kararlarını alabilecek yaşa geldiği zaman kendisi karar vermesi gerekmez mi buna? hayat tarzıymış... <br/><br/>işte bunlar kız çocuğunu okutmayan, imkanı olsa işide katılıp kendisi gibi olmayan herkesi katletme zihniyetindeki aşağılık yobazlardır. o kadar çok tiksiniyiroum ki sizden, zihniyetinizi düşündükçe midem bulanıyor ve kusuyorum.
 - entry_name: |
     bir evi daha yaşanılır kılan detaylar
   entry_id:  75464454
@@ -304,19 +269,33 @@ data:
   entry_content: |
     antartika belirli bir ülkeye ait olmayan ve 53 ülke tarafından yönetiliyor görünümünde olan güney kutuptaki kıtadır. <br/><br/>bu ülkeler ise; danışman ve gözlemci statüsünde bulunuyor. türkiye gözlemci konumundaki ülkelerden, danışman ülke olabilmesi için kıtada bilimsel çalışmalar yapmak durumunda. itü'deki küçük bir grup bu konuyla ilgili çalışmaya başlıyor ve ardından itü okyanus ve kutup araştırma merkezi öncülüğünde, farklı bilimadamlarının da bulunduğu bir grupla bu işe adım atıyorlar. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.polarresearch.center/" title="http://www.polarresearch.center/">itü</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/teknoloji/antarktikada-kurulacak-turk-bilim-ussu-icin-yola-ciktilar,pcbVVgvMU0W4lwHCcpw64Q" title="https://www.ntv.com.tr/teknoloji/antarktikada-kurulacak-turk-bilim-ussu-icin-yola-ciktilar,pcbVVgvMU0W4lwHCcpw64Q">haber</a><br/><br/>potansiyel petrol vb fosil yakıtların da olduğu bilinen kutuplarda gelecek için söz sahibi olabilmek için de danışman ülke olması gerekiyor. türkiye'de bir grup insan bununla uğraşıyor.
 - entry_name: |
-    yazarların cenazesinde çalınmasını istediği müzik
-  entry_id:  75464626
-  entry_writer: sefiller8
-  entry_fav_count: 7
-  entry_content: |
-    bu başlığa cidden yazayım diyorum ama aklıma cenazede pide-ayran yiyen güruh geliyor.
-- entry_name: |
     ekşi itiraf
   entry_id:  75487354
   entry_writer: karanliktan korkan vampir
   entry_fav_count: 6
   entry_content: |
     dün gece evlenme teklifi aldım sözlük.<br/>evleniyorum... içim kıpır kıpır. 20li yaşlarda bir adam sevip evlenmiştim. olmadı yürütemedik. bu ikinci evliğim olacak. 30dan sonra karar vermek daha zormuş. kabul ettim teklifi. seviyorum, öyle çok seviyorum ki, uzun zaman sonra yeniden gülümseyebiliyorum. iki haftaya artık evli bir kadın olacagım. küçük bir kızım var. annem babam bakıyorum yıllardır. onun hayatı için dogru olan nedir sorgulamaya başladım. <br/><br/>yeni bir hayata selam olsun.
+- entry_name: |
+    dünyanın yok oluşuna 5 dakika kala dinlenen şarkı
+  entry_id:  75470078
+  entry_writer: snoop dogg millionaire
+  entry_fav_count: 6
+  entry_content: |
+    muhtemelen dünyanın sonuna bir buçuk dakka önce biter.<br/><br/>çifte dram.
+- entry_name: |
+    kadını seksi yapan unsurlar
+  entry_id:  75480562
+  entry_writer: idi imis ise dir nedir
+  entry_fav_count: 4
+  entry_content: |
+    gagasının sivri olması, kanatlarının gergin ve her an uçmaya hazır durması, tüylerinin parlak ve gözalıcı olması.
+- entry_name: |
+    televizyonda oral seks dersi veren teyze
+  entry_id:  75490974
+  entry_writer: ismin e hali
+  entry_fav_count: 3
+  entry_content: |
+    tüm dünya halklarına büyük hizmetleri olmuş teyzemizdir.<br/>hassas bölgelere dair uyarıları çok önemli. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?time_continue=80&amp;v=TK6sT_R-nis" title="https://www.youtube.com/watch?time_continue=80&amp;v=TK6sT_R-nis">oral seks teknikleri</a><br/><br/>uyarı: porno linki değil arkadaşlar. televizyonda cinsellik dersi. ortada erkek yok.<br/>imam hatipler kapatılsın virali.
 - entry_name: |
     kütüğü istanbul olmayanları istanbul'dan göndermek
   entry_id:  75490697
@@ -339,17 +318,38 @@ data:
   entry_content: |
     <a class="b" href="/?q=epiphone">epiphone</a>- <a class="b" href="/?q=les+paul+costom+pro">les paul costom pro</a>
 - entry_name: |
-    hiçbir evli erkeğin evliliği tavsiye etmemesi
-  entry_id:  75489583
-  entry_writer: angarya
-  entry_fav_count: 2
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  75484366
+  entry_writer: uroboros
+  entry_fav_count: 1
   entry_content: |
-    evlilik konusundaki görüşün eksik bir şekilde ifade edilmiş biçimi.<br/><br/>tanıdığım hiçbir evli kadın da evliliği tavsiye etmiyor. zaten insanlar evlilik öncesinde başlarına gelecekleri bildikleri halde evleniyorlar. çünkü toplumun belli konularda gösterdiği baskıya herkes karşı koyamıyor.
+    beyleri sohbete beklerim. geyim kadın değilim.
 - entry_name: |
-    sözlükte 1.85'in altında erkek yazar olmaması
-  entry_id:  75469513
-  entry_writer: de la pena
+    şu anda çalan şarkı
+  entry_id:  75482257
+  entry_writer: garfibonus
   entry_fav_count: 0
   entry_content: |
-    terlikli ölçümle 1.68 boyumla katilmadigim önerme. boyu değil işlevi önemli diyecem ama ondan yana da tık yok. 1.50 kız bile senin gibi çük kadar boyu olan erkeği napam dediydi. 9 yaşından beri uzamıyorum amk.<br/>köy sütü içtim, basket de oynadım yok uzamadi.<br/>ilkokulda cücük dediğim elemanlar bile 1.80i geçti lan.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OmPw3SPgWrw" title="https://www.youtube.com/watch?v=OmPw3SPgWrw">let me kiss you</a>
+- entry_name: |
+    istenirse cumhurbaşkanı adayı olurum ve kazanırım
+  entry_id:  75472334
+  entry_writer: koministimam2
+  entry_fav_count: 0
+  entry_content: |
+    cumhurbaşkanlığı için gerekli vizyona sahip değil demiş birisi... <br/>güleyim mi ağlayayım mı, sanki şimdiki cumhurbaşkanı siyasal okumuş, sanatla edebiyatla uğraşan 6 dil bilen bir aristokrat!
+- entry_name: |
+    iphone alma nedenleri
+  entry_id:  75489075
+  entry_writer: koca nickli zenci
+  entry_fav_count: 0
+  entry_content: |
+    samsung'dur efendim, kesinlikle samsung'dur. asus'a geçene kadar her gün android'e lanet etmiştim.
+- entry_name: |
+    dolar 5 lira olunca yapılacaklar
+  entry_id:  75491124
+  entry_writer: murder of neon
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=4.88%27den+dolar+al%c4%b1n+diyen+s%c3%bcper+zekalar">4.88'den dolar alın diyen süper zekalar</a>)
 ---
