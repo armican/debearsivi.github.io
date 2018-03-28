@@ -45,13 +45,14 @@ sitemap: false
   $(document).ready(function() {
     $("body").keydown(function (event) {
         // left arrow
-        if ((event.keyCode || event.which) == 37)
+        if (((event.keyCode || event.which) == 37) || ((event.keyCode || event.which) == 75))
+
         {
           idx -= 1;
         }
         
         // right arrow
-        if ((event.keyCode || event.which) == 39)
+        if (((event.keyCode || event.which) == 39) || ((event.keyCode || event.which) == 74))
         {
           idx += 1;
         }
