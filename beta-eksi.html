@@ -40,28 +40,49 @@ sitemap: false
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
-    var idx = 0;
-    window.onkeypress = function() {
-        var x;      
-        x=event.which;
-
-        switch(e.which) {
-            case 37: // left
-            break;
-
-            case 39: // right
-            break;
-
-            default: return; // exit this handler for other keys
+  var idx = 0;
+  $(document).ready(function() {
+    $("body").keydown(function (event) {
+        // left arrow
+        if ((event.keyCode || event.which) == 37)
+        {
+          idx -= 1;
         }
-    
-       if(idx < 0) {
-         idx = 0;
-       } else {
-         idx = idx % 50;
-       }
-       document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
-    }
+        
+        // right arrow
+        if ((event.keyCode || event.which) == 39)
+        {
+          idx += 1;
+        }
+        if(idx < 0) {
+          idx = 0;
+        } else {
+          idx = idx % 50;
+        }
+	window.location.href = "#" + idx;
+    });
+   // window.onkeypress = function() {
+   //     var x;      
+   //     x=event.which;
+
+   //     switch(e.which) {
+   //         case 37: // left
+   //         break;
+
+   //         case 39: // right
+   //         break;
+
+   //         default: return; // exit this handler for other keys
+   //     }
+   // 
+   //    if(idx < 0) {
+   //      idx = 0;
+   //    } else {
+   //      idx = idx % 50;
+   //    }
+   //    document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
+   // }
+  }
   </script>
 
 </head>
