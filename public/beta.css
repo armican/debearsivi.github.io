@@ -16,6 +16,10 @@ a:hover {
   color: black;
 }
 
+.disable_href {
+  text-decoration: none;
+}
+
 // Blog post or page title
 .page-title,
 .post-title,
