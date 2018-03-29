@@ -9,6 +9,7 @@
 
 a {
   color: black;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -72,6 +73,7 @@ a:hover {
 
 .entry_list {
   font-weight: bold;
+  text-decoration: none;
 }
 
 #prev_next_opt {
