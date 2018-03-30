@@ -3,138 +3,124 @@ layout: post
 title: 31 Mart 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    başı kapalı bir kadınla evlenmek
-  entry_id:  75539112
-  entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 765
-  entry_content: |
-    pek çok sebepten gerçekleştirmeyeceğim eylem.<br/><br/>- ailesiyle anlaşamam<br/>- kendisiyle de anlaşamam<br/>- çevresiyle de anlaşamam<br/>- kişiliğinin oturmadığını düşünürüm<br/>- özgüveni olmadığını düşünürüm<br/>- sorgulama yetisinin olmadığını ya da korkak olduğunu düşünürüm<br/>- kendisine yazık ettiğini düşünürüm<br/>- okumuş cahil olduğunu düşünürüm<br/>- edilgen olduğunu düşünürüm<br/>- özgürlük kapanmaktır gibi laflar eder çıldırırım<br/><br/>ben yapamam, allah sevdiğine bağışlasın, mesut etsin...<br/><br/>edit: kılık kıyafete göre, dış görünüşe göre değerlendirmek filan diyenler olmuş... kardeş burada söz konusu kombinin şık olmaması, kalitesiz manto giymek, burnunun kemerli olması filan değil ki kılık kıyafete, dış görünüşe göre olsun... gamalı haç dövmeli kadınla da evlenmem, mohawk kesimli yeşil saçları olan 10 küsur piercing'liyle de... bazı kıyafet ve aksesuarlar giyinmeye değil, kim olduğunu, kimlerden olduğunu sergilemeye yarar.<br/><br/>edit2: bu başlığı açmaktaki motivasyonumu merak edenler olmuş... sözlükteki yüzbinlerce saçma sapan başlığın motivasyonunu merak etmiyorlar da bu sosyal olguyu mu merak ediyorlar?<br/><br/>edit3: "alta da sıra sıra hakaretleri dizmiş" denmiş... yahu hakaret nerede? bir daha okuyun isterseniz... hem hakaret yok hem de şöyledir, böyledir demiyorum, "ben öyle düşünürüm" diyorum, hakaret varsa kendi ön yargılarıma var...<br/><br/>final edit: baktım "<a class="b" href="/?q=ba%c5%9f%c4%b1+a%c3%a7%c4%b1k+bir+kad%c4%b1nla+evlenmek">başı açık bir kadınla evlenmek</a>" diye de bir başlık açılmış 2014'de... anladığım kadarıyla başlığı açan işi iffetsizliğe kadar götürüp, günaha bağlayıp kaçmış başlıktan... "<a class="b" href="/?q=dul+bir+kad%c4%b1nla+evlenmek">dul bir kadınla evlenmek</a>", "<a class="b" href="/?q=bo%c5%9fanm%c4%b1%c5%9f+bir+kad%c4%b1nla+evlenmek">boşanmış bir kadınla evlenmek</a>", "<a class="b" href="/?q=%c3%a7ok+g%c3%bczel+bir+kad%c4%b1nla+evlenmek">çok güzel bir kadınla evlenmek</a>", "<a class="b" href="/?q=zenci+bir+kad%c4%b1nla+evlenmek">zenci bir kadınla evlenmek</a>" gibi başlıklar da mevcut... bu başlık da diğerleri gibi sosyal bir olgu sadece... söyledim, bir daha söyleyeyim hakaret de yok yazdıklarımda... ben robert kolej ve odtü mezunu bir babayla, alman lisesi mezunu bir annenin oğluyum, doğma büyüme istanbul'lu, istanbul'u da geçtim bebek'liyim... iki üniversite bitirdim, iki dil konuşuyorum, üst düzey yöneticiyim ve kutsal kitapların hepsini okuduktan ve araştırdıktan sonra dinden uzak durmaya karar vermiş biriyim... benim gibi biriyle, başı kapalı bir kadın anlaşamaz... sadece görsellik değil mesele, açıklamaya çalıştım ama tekrar deneyeyim... aile baskısıyla takıyorsa korkaklık, kişilik sorunları devreye giriyor, kendi isteğiyle takıyorsa da "bana göre" algılamada, sorgulamada, sebep sonuç ilişkisi kurmakta, öz saygısında sorunları vardır diyorum... herkes saldırıyor... bir kiş de çıkıp demiyor ki ben de şu şu sebepten evlenirim çünkü şöyle artıları vardır, böyle güzellikleri vardır... yahu anlatın bilelim... yok faşist, yok bilmem ne...
-- entry_name: |
     dinden uzak bir erkekle evlenmek
   entry_id:  75542029
   entry_writer: brayn
-  entry_fav_count: 515
+  entry_fav_count: 522
   entry_content: |
     bir sebepten gerçekleştirmeyeceğim eylem:<br/><br/>-erkeğim.
 - entry_name: |
     doktor maaşı azaltılsın kampanyası
   entry_id:  75535783
   entry_writer: cok mu cok marjinaliz
-  entry_fav_count: 464
+  entry_fav_count: 467
   entry_content: |
     bizim ülkemizdeki en başlıca sorun bu.<br/>hayır doktor maaşı değil, insanımız ve düşüncesi.<br/><br/>ya biz niye normalden az alıyoruz yoksulluk sınırı olmuş 5.5 bin demiyoruz<br/><br/>doktor niye çok alıyor diyoruz. <br/><br/>yukarı çıkmaya ve orda eşitlenmeye niyetimiz yok. <br/>çıkanları da aşağı indirelim eşitlenelim ki bok çukurunda yüzelim.
 - entry_name: |
     galatasaray'ın 25 yılda 12 kere şampiyon olması
   entry_id:  75544912
   entry_writer: wham city citizen
-  entry_fav_count: 434
+  entry_fav_count: 446
   entry_content: |
     ön edit: arkadaşlar aşağıdaki entry'mde ne fenere, ne beşiktaş'a bir küfür, hakaret yok. daha da ötesi, biz sizden büyüğüz gibi bir cümle de yok. büyüklük görecelidir, herkes taraftarı olduğu takımı en büyük olarak görür, isterse hiç şampiyonluğu olmasın. ama başarı göreceli değildir, objektif rakamlara dayanmalıdır. sürekli olarak uefa kupası ve süper kupayla övünmemizi kafaya taktığınız için, bu başarıları dışarıda bırakarak başarı anlamında galatasaray'ın neden önde olduğunu gösteren bir fotoğraf çektim. avrupa kulüplerini örnek verme sebebim onlarla aynı seviyede olduğumuzu iddia etmek değil, lig içindeki başarı dağılımını benzeştirmek. paniklemeye, sinirlenmeye gerek yok. unutmayın ki rakibini küçülterek kendin büyüyemezsin, size de bizim başarılarımızı, elinde hiçbir kanıt olmadan fetö'ye bağlayarak küçültmek yerine, kendi takımınızın başarılarıyla karşılık vereceğiniz güzel 25 yıllar dilerim.<br/><br/>------<br/><br/>son 25 yıl için geçerli olan gerçek. aynı dönemde;<br/><br/>almanya'da tek kutup olduğu dünyaca kabul edilen bayern münih'in 14<br/>alex ferguson'a sir ünvanı kazandıran man utd'nin 13<br/>italya'nın şu an bir numarası, 6 yıldır şampiyon olan juventus'un 12<br/>iki takım dışında çöp denilen la liga'da barcelona'nın 10, rakibi real madrid'in 8<br/><br/>şampiyonluğu var.<br/><br/>değerli rakiplerimize içinde uefa kupası ve süper kupa olmayan bir argüman sunuyorum. açık ara ülkenin en başarılı kulübü bu iki kupa olmasa da galatasaray'dır, özellikle 2 yıl şampiyon oldular diye havaya giren renksizler iyi okusun.
-- entry_name: |
-    fetö'ye yıllar önce de fetö diyebilmiş kişiler
-  entry_id:  75535766
-  entry_writer: bittimicocugum
-  entry_fav_count: 392
-  entry_content: |
-    annem ve babam devlet çalışanıyken sırf bu sebeple işten atılmıştı :)
 - entry_name: |
     aşı yaptırmaya mecbur değilim hareketi
   entry_id:  75550512
   entry_writer: alla turca
-  entry_fav_count: 369
+  entry_fav_count: 414
   entry_content: |
     gerizekalılığın diğer adının "cesur yürek"lik olduğunu öğrenmemize vesile olmuş hareket.
+- entry_name: |
+    fetö'ye yıllar önce de fetö diyebilmiş kişiler
+  entry_id:  75535766
+  entry_writer: bittimicocugum
+  entry_fav_count: 396
+  entry_content: |
+    annem ve babam devlet çalışanıyken sırf bu sebeple işten atılmıştı :)
 - entry_name: |
     bedelli askerlik yapıp erkeğim diye dolaşmak
   entry_id:  75547154
   entry_writer: katil vuvuzela
-  entry_fav_count: 289
+  entry_fav_count: 292
   entry_content: |
     öncelikle erkekliğin kanıtlanması gereken bir konu olduğunu, ikinci olarak erkekliğin bir üstünlük sağladığını, ve son olarak erkekliğin askerlik yaparak kanıtlanacağını sanan gerizekalı beyanı.<br/><br/>edit: fiziksel engelli insanlardan özürlü kelimesini bu tür insanlar için kullandığım için özür diliyorum. yeniyim burda, dikkatsizce yazdım, affınıza sığınıyorum.
 - entry_name: |
     2018 fransa türkiye savaşı
   entry_id:  75545227
   entry_writer: gundelikyasaminhickiriklari
-  entry_fav_count: 281
+  entry_fav_count: 290
   entry_content: |
     (bkz: <a class="b" href="/?q=bir+ergen+yuvas%c4%b1+olarak+ek%c5%9fi+s%c3%b6zl%c3%bck">bir ergen yuvası olarak ekşi sözlük</a>)<br/>(bkz: <a class="b" href="/?q=kahrol+d%c3%bc%c5%9fman+al+sana+bomba">kahrol düşman al sana bomba</a>)
 - entry_name: |
     erleri tehdit ettiği için hapis cezası alan teğmen
   entry_id:  75548391
   entry_writer: satilik
-  entry_fav_count: 252
+  entry_fav_count: 259
   entry_content: |
     sonuna kadar haklı olan teğmendir.ibadet yerleri belli iken gidip koğuşta kılarsan bu askeri ciddiyete sığmaz.resmen erler kumpas kurarak teğmeni cezalandırmışlar.<br/><br/>vah benim türk silahlı kuvvetlerim vah.<br/><br/>------------------<br/>edit<br/>çok sinirlendim.teğmene verilen bu cezaya sus pus olan rütbeliler artık tamamiyle tayyibe biat etmişlerdir.şerefiniz varsa teğmeni kurtarırsınız.o ''er''lere de askerlik hayatlarını dar edersiniz.
-- entry_name: |
-    mobil uygulaması en iyi olan banka
-  entry_id:  75530796
-  entry_writer: davacu
-  entry_fav_count: 249
-  entry_content: |
-    kesinlikle;<br/>iş bankası.<br/><br/>edit: (bkz: <a class="b" href="/?q=ihtiyac%c4%b1+olan+%c3%b6%c4%9frencilere+yard%c4%b1m+kampanyas%c4%b1">ihtiyacı olan öğrencilere yardım kampanyası</a>)
 - entry_name: |
     afrin antakya'ya ait olacak
   entry_id:  75554693
   entry_writer: klorobam
-  entry_fav_count: 220
+  entry_fav_count: 233
   entry_content: |
     bence direk adanaya bağlansın. sonuçta iç savaştan çıkan bir şehrin adaptasyon süreci söz konusu.
 - entry_name: |
     kendini il sanan ilçeler
   entry_id:  75537997
   entry_writer: bilgisavar
-  entry_fav_count: 214
+  entry_fav_count: 216
   entry_content: |
     o da bir sey mi? kendini ülke sanan ilce bile var. <br/><br/>(bkz: <a class="b" href="/?q=bagcilar">bagcilar</a>) (bkz: <a class="b" href="/?q=suriye">suriye</a>)
-- entry_name: |
-    tesla'nın iflas etmesi
-  entry_id:  75536583
-  entry_writer: citol
-  entry_fav_count: 197
-  entry_content: |
-    bizim uzunun elini sıkan batıyor.<br/>herif tarkandanki ahtopot gibi amk
 - entry_name: |
     sigara içen insanların en büyük sorunu
   entry_id:  75547358
   entry_writer: tuarek
-  entry_fav_count: 197
+  entry_fav_count: 204
   entry_content: |
     icerken kendilerini brad pitt zannederken muharrem dayi gibi gozukmeleri.
+- entry_name: |
+    tesla'nın iflas etmesi
+  entry_id:  75536583
+  entry_writer: citol
+  entry_fav_count: 200
+  entry_content: |
+    bizim uzunun elini sıkan batıyor.<br/>herif tarkandanki ahtopot gibi amk
 - entry_name: |
     gss prim borcu
   entry_id:  75541390
   entry_writer: sokratesla16
-  entry_fav_count: 165
+  entry_fav_count: 173
   entry_content: |
     ödemeyeceğim . gerekirse hapis yatacağım ama ödemeyeceğim.<br/><br/>devlet önce gitsin 'bu milletin amına koyacağız' diyen adamdan sildiği vergi borçlarını tahsil etsin.<br/><br/>işsiz güçsüz adama sen neyin borcunu çıkarıyorsun.<br/><br/>devlet vatandaşını düdüklemek için var olmamıştır.
 - entry_name: |
     inşaat işçisine kürtçe konuşmak yasak
   entry_id:  75540021
   entry_writer: bafomet
-  entry_fav_count: 148
+  entry_fav_count: 150
   entry_content: |
     iki şey artık öğrenilmeli<br/>1-kürtçe lazca bla bla dillerde konuşulmasından rahatsız olmamayı<br/>2-bu dili konuşan insanların dili bilmeyenler arasında bu dili kullanmamayı bir görgü kuralı olarak benimsemesi
+- entry_name: |
+    sarhoş olunduğunun anlaşıldığı an
+  entry_id:  75557017
+  entry_writer: korrayatgmailcom
+  entry_fav_count: 144
+  entry_content: |
+    tuvalete gidip çişini yaparken salak salak güldüğünü fark ettiğin andır.
 - entry_name: |
     19 yaşında kızın 32 yaşında adamla çıkması
   entry_id:  75536676
   entry_writer: murattemur
-  entry_fav_count: 124
+  entry_fav_count: 127
   entry_content: |
     arada daddy issues anlatıldı. ısrarla ebeveynlerinizin yaşındaki insanlarla ilişkiniz oluyorsa bir psikologa gidiniz.<br/><br/>edit: başlıktaki konuyla alakası yok ilk yazdığımın.
 - entry_name: |
     kız arkadaşının pornoda oynamasına izin veren adam
   entry_id:  75535860
   entry_writer: carsafgibideniz
-  entry_fav_count: 115
+  entry_fav_count: 118
   entry_content: |
     allie haze denen kadının milyonlarca dolarlık serveti var. <br/><br/>kadın sikişerek milyoner olmuş, adamın sikinde değil. adam taşaklarını kaşıyarak uyuyor, belki de porno yıldızı karısının porno yıldızı arkadaşlarını götürüyor, siz de burada adamın gavatlığını tartışıyorsunuz diyerek konuya katkımı sunuyorum. <br/><br/>not: allie haze <a rel="nofollow noopener" class="url" target="_blank" href="https://i1.wp.com/www.evanino.com/wp-content/uploads/2018/02/vApEXNa.jpg?fit=683%2C1024" title="https://i1.wp.com/www.evanino.com/wp-content/uploads/2018/02/vApEXNa.jpg?fit=683%2C1024">şöyle</a> bir kadındı. amk dombilisi kendisine benzetmiş kadını.
-- entry_name: |
-    sarhoş olunduğunun anlaşıldığı an
-  entry_id:  75557017
-  entry_writer: korrayatgmailcom
-  entry_fav_count: 111
-  entry_content: |
-    tuvalete gidip çişini yaparken salak salak güldüğünü fark ettiğin andır.
 - entry_name: |
     fransız ordusu vs türk ordusu
   entry_id:  75547613
@@ -143,24 +129,24 @@ data:
   entry_content: |
     ''dünyada tek bir ülke olsaydı, sanayisi almanlardan, ordusu türklerden, fahişesi fransızlardan olurdu"<br/><br/>führer
 - entry_name: |
-    kalp masajı 30/dk'dan 15/dk'ya düşürülsün
-  entry_id:  75549848
-  entry_writer: sorrik
-  entry_fav_count: 90
-  entry_content: |
-    güldüğüm başlık. ama bilmeyenler için yine de yazayım, kalp masajı dakikada 100 defa basma şeklinde 45dk yapılır. özellikle genç hastalarda bu sürenin sonlarında bile hayata dönme olasılığı azımsanmayacak düzeydedir. <br/>bu ilk yardım bilgisini keşke her insanımıza ayrıntısıyla ulastirabilsek.
-- entry_name: |
     skyler white
   entry_id:  75552178
   entry_writer: brtmgc
-  entry_fav_count: 78
+  entry_fav_count: 97
   entry_content: |
     4 yıldır çaylak beklerken hep bu başlığa yazmak istemişimdir. <br/><br/>orospu skyler
+- entry_name: |
+    kalp masajı 30/dk'dan 15/dk'ya düşürülsün
+  entry_id:  75549848
+  entry_writer: sorrik
+  entry_fav_count: 94
+  entry_content: |
+    güldüğüm başlık. ama bilmeyenler için yine de yazayım, kalp masajı dakikada 100 defa basma şeklinde 45dk yapılır. özellikle genç hastalarda bu sürenin sonlarında bile hayata dönme olasılığı azımsanmayacak düzeydedir. <br/>bu ilk yardım bilgisini keşke her insanımıza ayrıntısıyla ulastirabilsek.
 - entry_name: |
     sabahları poğaça çay ile kahvaltı yapan kitle
   entry_id:  75537310
   entry_writer: davacu
-  entry_fav_count: 77
+  entry_fav_count: 82
   entry_content: |
     imrendiğim kitledir.<br/>çekmecede leblebi buldum, bugün beni götürür.
 - entry_name: |
@@ -174,58 +160,65 @@ data:
     nihat doğan'ın seda akgül'e kaşar demesi
   entry_id:  75539442
   entry_writer: bebek yuzlu seri katil
-  entry_fav_count: 46
+  entry_fav_count: 52
   entry_content: |
     siz böyle kekolara prim vermeye devam edin. survivoru kimse izlemese herkes nihat doğan var diye protesto etse inanın o adam oraya dahil olamazdı. ben survivor ve türevleri programlardan nefret ediyorum. bir ara sporuda çok severdim artık hepsi boş geliyor. bu ülkede insanı herşeyden soğuttular. adam canlı yayında kaşar diyor özgecan olayından sonra demek ki yeteri kadar tepki görmedi. bundan sonrada izlemeye devam edin bu programı bu adam sürekli çıksın.<br/><br/>pardon adam mı dedim ...
 - entry_name: |
     erkeklerin şişman kadınları sevmeme nedenleri
   entry_id:  75556047
   entry_writer: solidsnake
-  entry_fav_count: 42
+  entry_fav_count: 51
   entry_content: |
     üst girideki her şeyi anladım da dudak kenarı salyası nedir yav.<br/><br/>(bkz: <a class="b" href="/?q=hepsini+yap%c4%b1yorum+da+g%c3%b6z%c3%bcmden+ate%c5%9f+%c3%a7%c4%b1karam%c4%b1yorum">hepsini yapıyorum da gözümden ateş çıkaramıyorum</a>)
+- entry_name: |
+    başı kapalı bir kadınla evlenmek
+  entry_id:  75540371
+  entry_writer: pegasos
+  entry_fav_count: 49
+  entry_content: |
+    bende hep saçını görmeden mi evleniyor acaba sorusunu uyandıran durum
 - entry_name: |
     erkeklerin kadınlarda baktığı ilk yer
   entry_id:  75554255
   entry_writer: guzelceli
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     bana bakıp bakmadığına, bakmıyorsa götüne bakarım.
 - entry_name: |
-    bülent arınç'ın gece yarısı yaptığı retweet
-  entry_id:  75534426
-  entry_writer: cocuklara selam
+    boğaziçi üniversitesi lokum olaylarının özeti
+  entry_id:  75557855
+  entry_writer: kullerdeki sir
   entry_fav_count: 33
   entry_content: |
-    mesir macunu festivalinin işe yaradığını gösteren olay
+    öncelikle bu entry'nin arşiv niteliğinde ve nispeten uzun olacağını söyleyerek başlayayım.<br/><br/>günlerdir gündemi meşgul eden, sayısız lince malzeme olmuş bu olaylar hakkında derli toplu bir kaynak oluşturmak için olaylar hakkında mümkün olduğunca bilgi ve kaynak topladım ve bu bilgileri bir entry'ye dönüştürmek istedim. söylediklerimi mümkün olduğunca fazla kaynak ve resimle desteklemeye çalıştım. geri kalan bilgilerin tamamı öğrencilerle kurduğum <a class="b" href="/?q=bire+bir">bire bir</a> iletişimlerden elde edilmiştir. bunun olayların "objektif" aktarımı olduğunu iddia etmiyorum, ama günlerdir dönen dezenformasyon fırtınalarındaki pek çok saçmalığı ortaya çıkardığını düşünüyorum.<br/><br/>aşağıda verdiğim her bilgi eleştiriye, düzeltmeye ve karşı kanıtlara açıktır.<br/><br/>***<br/><br/><a class="b" href="/?q=19+mart+pazartesi">19 mart pazartesi</a>:<br/><br/>- saat 13.00 civarında afrin zaferini kutlamak amacıyla "afrin lokumu" yazılı bir masa açılıyor. masayı açan kişilerden birinin "keyif sigarası" içtiğini beyan ettiği <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Oo6v8Q.jpg" title="https://i.hizliresim.com/Oo6v8Q.jpg">şöyle bir tweet mevcut</a>. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/WhatsApp_Image_2018-03-29_at_17.01.55.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/WhatsApp_Image_2018-03-29_at_17.01.55.jpg">alternatif link.</a><br/><br/>- saat 14.00-14.30 civarlarında masanın karşısında muhalif bir kalabalık birikmeye başlıyor. "işgalin katliamın lokumu olmaz" yazılı bir <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Oo6v5Z.jpg" title="https://i.hizliresim.com/Oo6v5Z.jpg">pankart</a> açan grup ile masa arasında bire bir tartışmalar ve kısa süreli arbedeler yaşanıyor. arbedelerde herhangi bir yaralanma yaşanmıyor. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/pankart.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/pankart.jpg">alternatif link.</a><br/><br/>- muhalif grubun attığı sloganlar: "katil akp, işbirlikçi öso," "katil akp, işbirlikçi bisak<sup class="ab"><a title="(bkz: boğaziçi islam araştırmaları kulübü)" href="/?q=bo%c4%9fazi%c3%a7i+islam+ara%c5%9ft%c4%b1rmalar%c4%b1+kul%c3%bcb%c3%bc" data-query="boğaziçi islam araştırmaları kulübü">*</a></sup>," "savaşa hayır, barış hemen şimdi." tek kürtçe slogan ise: "biji bıratiya gelan" yani "yaşasın hakların kardeşliği." ypg ve pkk yanlısı sloganlar atıldığı iddiasını doğrulayabilecek hiçbir kayıt veya tanıklık mevcut değil, bu iddialar olay havuz medyasına yansıdıktan sonra ortaya çıkmış gibi görünüyor.<br/><br/>- okul yönetimi ve sivil polislerin isteğiyle, iki tarafı da dağıtmak amacıyla masa kaldırılıyor ve masayı açanlar sloganlar atarak gidiyorlar. kalabalık dağılırken muhalif taraftan üç kişi gözaltına alınıyor. ifade ve sağlık kontrollerinin ardından aynı akşam serbest bırakılıyorlar.<br/><br/><a class="b" href="/?q=20+mart+sal%c4%b1">20 mart salı</a>:<br/><br/>- <a class="b" href="/?q=y%c3%b6k">yök</a> bir <a rel="nofollow noopener" class="url" target="_blank" href="http://www.yok.gov.tr/web/guest/bogazici-universitesinde-yasanan-olaya-iliskin-aciklama" title="http://www.yok.gov.tr/web/guest/bogazici-universitesinde-yasanan-olaya-iliskin-aciklama">basın açıklaması</a> yaparak olaya müdahil oluyor ve disiplin cezaları ile mevzuat değişikliğini gündeme getiriyor.<br/><br/>- çeşitli ulusal ve sosyal medya platformlarında olay gündemleşiyor ve "boğaziçi'ndeki terör yandaşlarının türk bayrağına saldırması" gibi söylemler üzerinden tartışılıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenisafak.com/video-galeri/gundem/terorist-yuvasina-donen-bogazici-universitesinde-skandal-2175654" title="https://www.yenisafak.com/video-galeri/gundem/terorist-yuvasina-donen-bogazici-universitesinde-skandal-2175654">link 1</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ahaber.com.tr/yazarlar/fahrettin-altun/2018/03/21/bogazici-universitesindeki-ihanet-goruntusu" title="https://www.ahaber.com.tr/yazarlar/fahrettin-altun/2018/03/21/bogazici-universitesindeki-ihanet-goruntusu">link 2</a>, <a rel="nofollow noopener" class="url" target="_blank" href="http://www.ensonhaber.com/bogazici-universitesinde-teror-propagandasi.html" title="http://www.ensonhaber.com/bogazici-universitesinde-teror-propagandasi.html">link 3</a>.<br/><br/><a class="b" href="/?q=21+mart+%c3%a7ar%c5%9famba">21 mart çarşamba</a>:<br/><br/>- <a class="b" href="/?q=ak+parti+gen%c3%a7li+kollar%c4%b1">ak parti gençli kolları</a> güney kampüs önünde <a rel="nofollow noopener" class="url" target="_blank" href="https://aa.com.tr/tr/turkiye/bogazici-universitesi-ogrencilerinden-afrin-aciklamasi/1094366" title="https://aa.com.tr/tr/turkiye/bogazici-universitesi-ogrencilerinden-afrin-aciklamasi/1094366">basın açıklaması ve yürüyüş yapıyor</a>.<br/><br/>- <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+%c3%bcniversitesi">boğaziçi üniversitesi</a> rektörlüğü muhalif öğrencilere karşı bir <a rel="nofollow noopener" class="url" target="_blank" href="http://haberler.boun.edu.tr/tr/haber/bogazici-universitesi-rektorlugunden-aciklama-2" title="http://haberler.boun.edu.tr/tr/haber/bogazici-universitesi-rektorlugunden-aciklama-2">açıklama yayımlıyor</a>.<br/><br/><a class="b" href="/?q=22+mart+per%c5%9fembe">22 mart perşembe</a>:<br/><br/>- sabah 5.30 civarında şafak operasyonuyla okul yurtları ve öğrenci evleri kar maskeli özel harekat polisleri ve sivil memurlarca basılıyor ve muhalif 5 öğrenci gözaltına alınıyor. sabahki baskınlarda bulunamayan 1 öğrenci okula girerken gözaltına alınıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/bogazici-universitesi-ndeki-gozalti-sayisi-13-e-yukseldi-209061.html" title="https://www.birgun.net/haber-detay/bogazici-universitesi-ndeki-gozalti-sayisi-13-e-yukseldi-209061.html">haber</a><br/><br/>- öğlen 12.00 civarında, öğrenciler sabahki baskınları protesto etmek üzere okulda bir basın açıklaması yapmak istiyor. henüz açıklama başlamadan polis gözaltı yapmaya başlıyor. kalabalıktan 7 kişi gözaltına alınıyor. okula giren çevik kuvvet polisleri kalabalığın kalanını dağıtıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0bQKgNSvwok" title="https://www.youtube.com/watch?v=0bQKgNSvwok">video.</a><br/><br/>- gözaltına alınan 4'ü kadın 7 kişi, gözaltı prosedürü başlatılmadan üç saat boyunca polis aracında darp ve işkenceye maruz bırakılıyor. bir öğrencinin burnu çatlıyor. hastaneden alınan darp raporları mevcut. aynı akşam serbest bırakılıyorlar. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/bogazicinde-gozaltina-alinan-ogrenci-aracta-gozumu-bagladilar-darp-edildik/" title="http://www.diken.com.tr/bogazicinde-gozaltina-alinan-ogrenci-aracta-gozumu-bagladilar-darp-edildik/">haber linki.</a><br/><br/><a class="b" href="/?q=23+mart+cuma">23 mart cuma</a>:<br/><br/>- cumhurbaşkanı <a class="b" href="/?q=erdo%c4%9fan">erdoğan</a>, 6. olağan kongre'de olaylardan bahsediyor ve muhalif öğrencileri "terörist" olmakla itham ediyor ve "gereğinin yapılacağını" <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201803231032762527-erdogan-beyoglu-konusuyor-gezi/" title="https://tr.sputniknews.com/turkiye/201803231032762527-erdogan-beyoglu-konusuyor-gezi/">söylüyor.</a><br/><br/>- okul kapısından 1 öğrenci daha gözaltına alınıyor. <br/><br/>- 22 mart şafak operasyonuyla gözaltına alınıp protestoda olmadığı tespit edilen 3 öğrenci serbest bırakılıyor.<br/><br/>- "<a class="b" href="/?q=bo%c4%9fazi%c3%a7i+%c3%bcnversitesi+mezunu+bir+grup+m%c3%bcsl%c3%bcman">boğaziçi ünversitesi mezunu bir grup müslüman</a>" imzasıyla <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/rOk0gN.jpg" title="https://i.hizliresim.com/rOk0gN.jpg">şu bildiri yayımlanıyor</a>. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/mus-KamuoyunaAciklama.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/mus-KamuoyunaAciklama.jpg">alternatif link.</a><br/><br/><a class="b" href="/?q=24+mart+cumartesi">24 mart cumartesi</a>:<br/><br/>- cumhurbaşkanı <a class="b" href="/?q=erdo%c4%9fan">erdoğan</a>, öğrencileri "komünist" ve "vatan haini" olarak anıyor ve "bu gençlere üniversitede okuma hakkı vermeyeceğiz" <a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/348522/erdogan-o-komunist-vatan-haini-genclere-okuma-hakki-vermeyecegiz" title="https://www.evrensel.net/haber/348522/erdogan-o-komunist-vatan-haini-genclere-okuma-hakki-vermeyecegiz">diyor.</a><br/><br/>- boğaziçi üniversitesi <a class="b" href="/?q=siyaset+bilimi+ve+uluslararas%c4%b1+ili%c5%9fkiler">siyaset bilimi ve uluslararası ilişkiler</a> bölümü öğrencileri bir bildiri yayımlıyor: (bkz: <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+politika%27dan+%c3%b6%c4%9frencilerin+bildirisi">boğaziçi politika'dan öğrencilerin bildirisi</a>)<br/><br/><a class="b" href="/?q=25+mart+pazar">25 mart pazar</a>:<br/><br/>- yeni bir şafak operasyonuyla yurt ve öğrenci evleri tekrar basılıyor ve 3 muhalif öğrenci daha gözaltına alınıyor.<br/><br/>- okuldaki <a class="b" href="/?q=sesli+k%c3%bct%c3%bcphane">sesli kütüphane</a>'de <a class="b" href="/?q=gbt">gbt</a> yapılıyor.<br/><br/>- boğaziçi üniversitesi <a class="b" href="/?q=t%c3%bcrk+dili+ve+edebiyat%c4%b1">türk dili ve edebiyatı</a> bölümü öğrencileri <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/dOdL7n.jpg" title="https://i.hizliresim.com/dOdL7n.jpg">şu bildiriyi yayımlıyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/edb-bildiri.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/edb-bildiri.jpg">alternatif link.</a><br/><br/><a class="b" href="/?q=26+mart+pazartesi">26 mart pazartesi</a>:<br/><br/>- üniversite içerisinde dersliklerde, kütüphanelerde ve kampüs alanlarında sivil polisler çoğalıyor.<br/><br/>- 3 öğrenci okul kapısından, 1 öğrenci ise ifade vermeye gittiğinde gözaltına alınıyor.<br/><br/><a class="b" href="/?q=27+mart+sal%c4%b1">27 mart salı</a>:<br/><br/>- öğrenciler okulun üzerindeki siyasi baskıyı protesto etmek ve ifade özgürlüğünü savunmak için kampüsün çeşitli yerlerine <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/vj2aND.jpg" title="https://i.hizliresim.com/vj2aND.jpg">renkli kurdeleler asmaya başlıyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/kurdele1.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/kurdele1.jpg">alternatif link.</a><br/><br/>- <a class="b" href="/?q=chp">chp</a> genel başkanı <a class="b" href="/?q=kemal+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu">kemal kılıçdaroğlu</a> da <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201803271032801189-kemal-kilicdaroglu-tbmm-chp-grup-toplantisi/" title="https://tr.sputniknews.com/turkiye/201803271032801189-kemal-kilicdaroglu-tbmm-chp-grup-toplantisi/">olayı gündemine alıyor.</a><br/><br/>- <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+%c3%bcniversitesi+i%c3%a7in+mezunlar+giri%c5%9fimi">boğaziçi üniversitesi için mezunlar girişimi</a><sup class="ab"><a title="(bkz: buim)" href="/?q=buim" data-query="buim">*</a></sup> <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/jyOqrg.jpg" title="https://i.hizliresim.com/jyOqrg.jpg">şu bildiriyi yayımlıyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/buim-bildiri.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/buim-bildiri.jpg">alternatif link.</a><br/><br/><a class="b" href="/?q=28+mart+%c3%a7ar%c5%9famba">28 mart çarşamba</a>:<br/><br/>- öğrencilerin kurdeleli protestosu git gide büyüyor ve kampüslere yayılıyor. bu protestonun fotoğraflarının paylaşıldığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/bogaziciozgurkalacak/" title="https://www.facebook.com/bogaziciozgurkalacak/">) facebook</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OzgurBogazici" title="https://twitter.com/OzgurBogazici">twitter</a> sayfaları açılıyor.<br/><br/>- bu protestonun devamı niteliğindeki <a class="b" href="/?q=%23bo%c4%9fazi%c3%a7ine%c3%b6zg%c3%bcrl%c3%bck">#boğaziçineözgürlük</a> hashtag'i türkiye'de <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/QV3P33.png" title="https://i.hizliresim.com/QV3P33.png">trending topic oluyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/hashtag.png" title="http://www.hizliresimyukle.com/images/2018/03/30/hashtag.png">alternatif link.</a><br/><br/><a class="b" href="/?q=29+mart+per%c5%9fembe">29 mart perşembe</a>:<br/><br/>- yaklaşık bir haftadır gözaltında olan 11 öğrencinin gözaltı süreleri bir hafta daha <a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/bogazici-universitesi-ogrencilerinin-gozalti-suresi-bir-hafta-uzatildi,592866" title="http://t24.com.tr/haber/bogazici-universitesi-ogrencilerinin-gozalti-suresi-bir-hafta-uzatildi,592866">uzatılıyor</a>.<br/><br/><a class="b" href="/?q=30+mart+cuma">30 mart cuma</a>:<br/><br/>- aralarında <a class="b" href="/?q=judith+butler">judith butler</a>, <a class="b" href="/?q=nancy+fraser">nancy fraser</a>, <a class="b" href="/?q=seyla+benhabib">seyla benhabib</a> gibi dünyanın önde gelen sosyal bilimcilerin bulunduğu 199 kişinin imzaladığı <a rel="nofollow noopener" class="url" target="_blank" href="https://bianet.org/bianet/hukuk/195658-199-akademisyenden-bogazicili-ogrencilere-destek-mektubu" title="https://bianet.org/bianet/hukuk/195658-199-akademisyenden-bogazicili-ogrencilere-destek-mektubu">bir dayanışma bildirisi yayımlanıyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://docs.google.com/forms/d/1XOQPVdDVPY4Dco160gsYyF1ZE9WNwMbH3avUDv7vraM/viewform?edit_requested=true" title="https://docs.google.com/forms/d/1XOQPVdDVPY4Dco160gsYyF1ZE9WNwMbH3avUDv7vraM/viewform?edit_requested=true">ingilizce orijinali.</a><br/><br/>- dünyaca ünlü felsefeci ve sosyolog <a class="b" href="/?q=etienne+balibar">etienne balibar</a> "boğaziçi'ndeki öğrencilerle dayanışma" yazılı şu pankartla <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nO6bXN.jpg" title="https://i.hizliresim.com/nO6bXN.jpg">bir destek fotoğrafı paylaşıyor.</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/IMG-20180330-WA0006.jpg" title="http://www.hizliresimyukle.com/images/2018/03/30/IMG-20180330-WA0006.jpg">alternatif link.</a><br/><br/>- okulun kayıt işlerinden bütün öğrenci ve mensuplara <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/JQJW4q.png" title="https://i.hizliresim.com/JQJW4q.png">şöyle bir mail</a> gönderiliyor. kısa süre sonra ilk mailin dikkate alınmaması gerektiğini söyleyen <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/VrnBLq.png" title="https://i.hizliresim.com/VrnBLq.png">şu mail</a> gönderiliyor. <a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/bogazici-universitesi-baskici-ortam-devam-ettigi-surece-ders-verilmesi-mumkun-degildir,593872" title="http://t24.com.tr/haber/bogazici-universitesi-baskici-ortam-devam-ettigi-surece-ders-verilmesi-mumkun-degildir,593872">haber linki.</a> alternatif linkler: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/registrar.png" title="http://www.hizliresimyukle.com/images/2018/03/30/registrar.png">1</a>, <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hizliresimyukle.com/images/2018/03/30/registrar2.png" title="http://www.hizliresimyukle.com/images/2018/03/30/registrar2.png">2</a>.<br/><br/>ayrıca (bkz: <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+%c3%bcniversitesi%27ni+%c3%a7alkalayan+mail">boğaziçi üniversitesi'ni çalkalayan mail</a>)<br/><br/>- 1 öğrenci daha okul civarından gözaltına alınıyor.<br/><br/>***<br/><br/>şu ana kadar derleyip toparlayabildiğim bilgiler bu kadar. ek bilgiler, kaynaklar ve itirazlar geldikçe güncellenecektir.<br/><br/>yorum yapmak istemiyorum, ama şunu söyleyeceğim: "keyif sigarası" diye başlayan olayın "teröristler türk bayrağına/şehitlere saldırdı"ya nasıl dönüştürüldüğünü izlemek gerçekten dehşet verici.
 - entry_name: |
     ben hariç herkes eğleniyor hissi
-  entry_id:  75557177
-  entry_writer: annl
-  entry_fav_count: 31
+  entry_id:  75556740
+  entry_writer: professionaltools
+  entry_fav_count: 33
   entry_content: |
-    sosyal medya kullanmayı bir süre önce bıraktım, bu his tamamen kayboluyor gençler, yatırım tavsiyesi
+    çevremdeki insanların çoğunun mal gibi hayatlara sahip olduğunu bilmeme rağmen zaman zaman hissettiğim şey .
 - entry_name: |
     kastamonu denince akla gelenler
   entry_id:  75531736
   entry_writer: olsakesinkalkardi
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     (bkz: <a class="b" href="/?q=kastamonu%27nun+ka%27s%c4%b1">kastamonu'nun ka'sı</a>)
+- entry_name: |
+    en çok küfür yiyen eşyalar
+  entry_id:  75558164
+  entry_writer: gelismekteolanyazar
+  entry_fav_count: 29
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sehpa">sehpa</a>) değil de nedir a dostlar.
 - entry_name: |
     bitcoin
   entry_id:  75536528
   entry_writer: pavlov
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     bunlar için her değer bir destek oluyor, mükemmel analiz.<br/>6999 desteği kırıldı, 6998 desteği kırıldı,6997 dest.................<br/>böyle spekülatif bir ortamda teknik analiz yapmaya çalışanlar var, geçen senenin sonunda aselsan için de teknik analiz yapıyorlardı ...<br/><br/>edit: teknik analizi yatırımlarımda kullanmaktayım. doğru düzgün okuyan kişi btc yatırımcısına ve teknik analize laf atmadığımı anlar, eleştirdiğim konu böylesine spekülatif yerlerde az derece finans okuryazarlığıyla teknik analiz yapmaya çalışanlar. 5-6 ayda 4-5 katına çıkan aselsan’ı örnek verme sebebim de bundandır.
-- entry_name: |
-    temel karamollaoğlu
-  entry_id:  75531122
-  entry_writer: a shih na chieh she shuai
-  entry_fav_count: 21
-  entry_content: |
-    bu adamın parti seçmeni falan değilim ama, hdp'ye bile oy veren cihangir finolarının, yok efendim zamanında elini kana buladı da muhalefet yapmaya hakkı yok gibi şeyler demesinden artık midem bulanıyor.<br/><br/>selo ve partisi onlarca defa ölümlere sebep oldu; yeri gelince tek takıldı, yeri gelince akp ile bir olup dağdakini besledi. bunlar da yetmezmiş gibi canlı bombaları dahi destekledi. bir kere bile ses çıkardınız mı "bu nasıl bir insanlık düşmanlığıdır" diye? hangi yüzle bu adam şurası kundaklanırken sesini çıkarmadı falan dersiniz be hey katiller?
 - entry_name: |
     ekşi sözlük android &amp; ios uygulaması
   entry_id:  75541589
@@ -234,68 +227,68 @@ data:
   entry_content: |
     sorunlarını yazmaktansa sorun olmayan şeyleri yazmak daha mantıklı. evet dokununca açılıyor gerçekten de çok başarılı bir ar-ge ve yazılım başarısı, tebrikler! <br/><br/>soru: <a class="b" href="/?q=nerde+yapt%c4%b1rd%c4%b1n%c4%b1z+bunu+afrikada+m%c4%b1%3f">nerde yaptırdınız bunu afrikada mı?</a><br/><br/>edit: artık açılmıyor.
 - entry_name: |
-    en çok küfür yiyen eşyalar
-  entry_id:  75558164
-  entry_writer: gelismekteolanyazar
-  entry_fav_count: 19
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sehpa">sehpa</a>) değil de nedir a dostlar.
-- entry_name: |
-    güzellik hariç erkekleri aşık ettirebilecek şeyler
-  entry_id:  75552983
-  entry_writer: fuckerlove
-  entry_fav_count: 16
-  entry_content: |
-    biri, "erkekler her seyden once biraz pedofilidir" demis. 40 kusur kisi de favorilemis. diyeceklerim bu kadar.<br/><br/>(bkz: <a class="b" href="/?q=sen+sevme+ulan+ay%c4%b1">sen sevme ulan ayı</a>)<br/><br/>edit: entry'i silmis pezevenk. ss almadigim icin pisman oldum suan. sozlukte suan min 43 adet pedofili olan or*spu cocugu var ama ispatlayamiyorum. ss alan varsa paylassin pls.<br/><br/>edit2: pedofildir yazmis.
-- entry_name: |
     mahir çayan
   entry_id:  75540706
   entry_writer: thewhitebuffalo
-  entry_fav_count: 14
+  entry_fav_count: 19
   entry_content: |
     düşünsene iktidar olmuşşun her gün televizyon da gözükmek zorundasın bir şekilde her gün senden bahsetmeliler yoksa bitersin<br/><br/>bir de mahir var 46 sene olmuş hala insanlar arkdasından tereddüt etmeden gidiyolar lar onun gibi teslim olmuyor direniyorlar.ne şimdiki ne de daha önceki ne de daha sonraki kuşaklar da biteremeyecek bunu . öldürülmüş olabilir ama yenilmedi bunu hiç bir zaman değiştiremeyeceksiniz
 - entry_name: |
     kadınların kısa boylu erkekleri beğenmemesi
   entry_id:  75558186
   entry_writer: ikitekerlibisiklet
-  entry_fav_count: 13
+  entry_fav_count: 19
   entry_content: |
     bıkmadınız mı lan bik bik şunun buna bakması şunun bunu beğenmesi muhabbetinden. allah aşkına sözlüğü okumayı bıraktım sizin yüzünüzden, hepinize kadın/erkek bulmak lazım ki biraz sevişip başka hobiler bulun.<br/><br/>aklınız biraz da başka şeylere çalışsın.<br/><br/>dediğim durumdur. <br/><br/>şimdi gelir analiz kasan arkadaşlar. şu analizleri biraz başka şeylere kassalar dünya daha güzel bir yer olacak.
+- entry_name: |
+    güzellik hariç erkekleri aşık ettirebilecek şeyler
+  entry_id:  75552983
+  entry_writer: fuckerlove
+  entry_fav_count: 17
+  entry_content: |
+    biri, "erkekler her seyden once biraz pedofilidir" demis. 40 kusur kisi de favorilemis. diyeceklerim bu kadar.<br/><br/>(bkz: <a class="b" href="/?q=sen+sevme+ulan+ay%c4%b1">sen sevme ulan ayı</a>)<br/><br/>edit: entry'i silmis pezevenk. ss almadigim icin pisman oldum suan. sozlukte suan min 43 adet pedofili olan or*spu cocugu var ama ispatlayamiyorum. ss alan varsa paylassin pls.<br/><br/>edit2: pedofildir yazmis.
 - entry_name: |
     fenerbahçe doğuş
   entry_id:  75550608
   entry_writer: antemortem
-  entry_fav_count: 11
+  entry_fav_count: 14
   entry_content: |
     nalları dikmiş bir takımmış. nalları diken takım euroleague şampiyonu olup üst üste bu ülkeyi final four'da temsil etmektedir.<br/><br/>sponsor alıp başına sonuna sponsor ismi alan her takım nal dikiyormuş duyduğuma göre. mesela barcelona lassa. nalları dikmiş lassa ismini alması bile skandal bence.<br/><br/>kendi takımları fi tarihinde nalları dikince hemen rakiplere nalları diktirir bu ibneler. takmayınız. aynen devam.
 - entry_name: |
     hastası olunan sözler
   entry_id:  75530131
   entry_writer: dinsizin hakkindan gelen imansiz
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     kalp için en iyi arkadaş, yanında uyuyan veya yemek yiyen değil, seni hayatın karmaşasında yalnız bırakmayan ve ihanet etmeyendir.
 - entry_name: |
     ali koç
   entry_id:  75535067
   entry_writer: biralexdegilimtabiki
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     başlığı altında küreği ağzına ağzına vurulanlar doymuyor. hala gelip yorum yapma cesaretinde bulunuyor kodumun şoparı.<br/><br/>tamamen ihtimaller üzerinden konuşan, ortaya bir link, bir kaynak veremeyen piçler, gelip burda aynı başlığa 2. kez şamar yemek için yazı yazıyor. anlamıyorum beyin hücreleri mi ölü nedir yani ?<br/><br/>iş bu entry direkt olarak yukarıdaki kişiye yazılmıştır.
 - entry_name: |
-    mühendislik fakültelerindeki en zor ders
-  entry_id:  75530400
-  entry_writer: melez pirens
+    yazarların bugünkü mutluluk sebebi
+  entry_id:  75539130
+  entry_writer: carriebradshaw
+  entry_fav_count: 9
+  entry_content: |
+    istanbul’u terk etmek.<br/>kötüleye kötüleye bütün malzememi tüketmiştim baktım kötüleyecek tarafı kalmadı gideyim dedim.<br/>ben gidiyorum dostlar , artık bu şehirden yoruldum. yeni bir şehirde yeni bir hayata başlayıp organik tarım...<br/><br/>şaka ya şaka; alt tarafı üç günlüğüne bodrum’a gidiyorum. <sup class="ab"><a title="(bkz: gülücük)" href="/?q=g%c3%bcl%c3%bcc%c3%bck" data-query="gülücük">*</a></sup><br/><br/>ama bakın ölü sezonda bodrum fevkalade olur. kusursuz olur, aşık olunası olur. yani yerimde siz olsanız siz de şımarırsınız.<br/><br/>kendime sonsuz eğlence hakkı tanıdım. en büyük çılgınlığı gençken bodrum’da otostop çekmek olan biri ne derece sapıtabilir göreceğiz.<br/><br/>bon voyage!
+- entry_name: |
+    bedelli askerlik
+  entry_id:  75553785
+  entry_writer: finethankyou
   entry_fav_count: 5
   entry_content: |
-    elektrik elektronik mühendisliği:<br/>(bkz: <a class="b" href="/?q=electromagnetics+wave+theory">electromagnetics wave theory</a>) <br/>(bkz: <a class="b" href="/?q=circuit+analysis+%c4%b1%c4%b1">circuit analysis ıı</a>) <br/>3. sınıfı düşünemiyorum.
+    telefonum çalsa, telefonun ucundaki ses “ bedelli askerlik çıktı laaaaaan “ dese. ne güzel olur. di mi di mi ? di mi?
 - entry_name: |
-    dindar bir erkekle evlenmek
-  entry_id:  75547496
-  entry_writer: honeyyybadger
+    30 mart 2018 wikipedia'nın erişime açılması
+  entry_id:  75560192
+  entry_writer: cafecreme
   entry_fav_count: 4
   entry_content: |
-    birilerinin ciddi ciddi toplumdaki kamplaşmaları kutuplaşmaları artırmak istediklerini düşünüyorum bunun sosyal medya ayağında ekşi sözlük gibi bir yerleri de boş bırakmaları mümkün değil.<br/><br/>bu tarz başlıkları bazıları sırf diğerlerini görüp gerizekalılıklarından açıyorlar ve gerizekalı koyun sürüsü dolduruyor ama bunu bilinçli yapanlar da var.
+    muhtemelen +18 izledikten sonra vpn'yi açık unutmuş yazarın beyanıdır.
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  75542606
@@ -312,11 +305,18 @@ data:
     (bkz: <a class="b" href="/?q=s%c4%b1rf+risk+ile+i%c5%9f+yapmak">sırf risk ile iş yapmak</a>)
 - entry_name: |
     1 nisan 2018 galatasaray trabzonspor maçı
-  entry_id:  75530742
-  entry_writer: yazara yazar kac yazar
+  entry_id:  75534079
+  entry_writer: mozambik asilliyim
+  entry_fav_count: 3
+  entry_content: |
+    ts'nin bjk'ye, fb'ye ve başakşehir'e deplasmanda yenilmediğini bir belirtmemiz lazım. <br/><br/>gs için ise fb deplasmanında oynadığı oyunu oynaması galibiyet için yeterli olacaktır. yeterli olacaktır diyorum çünkü ordaki ciddiyeti ts maçına yansıtırlarsa ayaklar daha rahat olacağı için net bir skorla kazanılabilecek bir maç bile çıkabilir.<br/><br/>gs içinde umarım bir başlangıç olur bu maç. 2 senedir ligde büyük maç galibiyeti göremiyor bu takım. burada kıvılcım olursa gs tekrar şahlanır ve daha özgüvene sahip olur. hem de ses kesmiş olur. özellikle gomis'e güç kuvvet diliyorum. vurduğu gol olsun... çok kişinin sesini keseceğiz daha.
+- entry_name: |
+    hiç maklube yememiş insan
+  entry_id:  75559322
+  entry_writer: tender branson
   entry_fav_count: 2
   entry_content: |
-    galatasaray taraftarı olarak şu gerilimi şişirme işini bırakmamız gereken maçtır. son 2 sezondur özellikle trabzon'daki maçlarda karaktersizlikleri diz boyuydu, olcay'a karşı ben de doluyum vs. ancak;<br/><br/>- 7 kişi kalmış takıma oley çekildiği maçta tribündeydim ve pek anlam verememiştim açıkçası. açıkçası adamlar buna tepki vermekte haklılar.<br/><br/>- içerde beşiktaş'a hiç top oynamadılar ancak hem beşiktaş hem başakşehir hem de fenerbahçe deplasmanlarında puan aldılar. bugün bu puanlar bizim gayet işimize yarıyor iken son beşiktaş-trabzon maçına bu kadar takılmamak lazım.<br/><br/>velhasıl 1-0 olsun bizim olsun. temiz, olaysız ve sakince 3 puanı alıp geçelim. böylesi psikolojik olarak daha kesin bir üstünlük göstergesi olur rakiplere.
+    15 temmuz’dan sonra anlamı değişmiş durumdur. pek çok akplinin kolay kolay iddia edemeyeceği durumdur ayrıca:) neyse ki içim rahat, hayatım boyunca sadece resmini görmüş olduğum bir şeydir maklube.
 - entry_name: |
     survivor 2018 all-star
   entry_id:  75558179
@@ -324,13 +324,6 @@ data:
   entry_fav_count: 1
   entry_content: |
     seyredenlerle aynı ortamda bulunmak istemeyen süper entellektüelin bütün entryleri futbol ve diziler üstüne. güler misin ağlar mısın. ben gülmeyi tercih ediyorum.
-- entry_name: |
-    erkeklerin arabalarda baktığı ilk yer
-  entry_id:  75543777
-  entry_writer: simsin
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=dashboard">dashboard</a>)
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  75530297
@@ -345,6 +338,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     uzun zaman sonra ilk defa bi şey başardım. istanbul film festivali'ne basın kartı alma hakkı kazandım. kusana kadar film izliycem.
+- entry_name: |
+    dindar bir erkekle evlenmek
+  entry_id:  75558733
+  entry_writer: sexpress
+  entry_fav_count: 0
+  entry_content: |
+    yengemin yaptığı olaydır. abim dindar bir adam fakat yengemin herhangi bir hareketini kısıtlamış değil kaç senedir. ki yengem süslü püslü sosyal bir kadın. adam kendine dindar ve eşine dinle alakalı herhangi bir kısıtlama veya dayatmada bulunmadı hiç. 10 yıldır birlikteler ve 6 yıldır evliler. <br/>allah bir ömür mutlu etsin.
 - entry_name: |
     az kişinin bildiği süper şarkılar
   entry_id:  75544039
