@@ -153,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hR_L9ouDFrwXJKglTcC5HAKRuBBUyOUa_8DQmlRqcQM.jpg?s=e23ad217637ed10c7b951856e9aaf4f4 frameborder=0>
 - entry_name: |
-    Kiss cam guy got too excited
-  entry_id: 88d3os
-  entry_content: |
-    <iframe src=https://v.redd.it/6faequgqeyo01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Dear People Who Won't Shut Up In Movie Theaters: You're The Worst
   entry_id: 88ht9o
   entry_content: |
@@ -228,11 +223,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jEzB3aAGv6SX2Tv3LQsM8daJ58Dv7EJsV_IALeERrFs.jpg?s=3419adf094b478513194adece2bc6ee7 frameborder=0>
 - entry_name: |
-    Fixed a problem today, feel like a genius
-  entry_id: 88d43a
-  entry_content: |
-    <img src=https://i.redditmedia.com/ae2amHG-K524Y1J0mkovhThJ9Q3ilq4g0ESXNNMJZ1E.jpg?s=edf4e8636caf64308c84c3851968f799 frameborder=0>
-- entry_name: |
     In honor of Passover this weekend.
   entry_id: 88dzjl
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 88euxe
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDarlingBlushingDiplodocus&url=https%3A%2F%2Fgfycat.com%2FDarlingBlushingDiplodocus&image=https%3A%2F%2Fthumbs.gfycat.com%2FDarlingBlushingDiplodocus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Lindsay Lohan loses GTA V privacy case appeal - ‘the judges said, the in-game actress slash singer merely resembled a generic young woman.’
+  entry_id: 88i6r3
+  entry_content: |
+    <img src=https://i.redditmedia.com/vJeQdoi9-6t1tEUtdjBgMLpcwywrP2PZWIKvmXfeiJA.jpg?s=5905135e9adc09fa4ac91250523b65ca frameborder=0>
+- entry_name: |
+    Didn't see that coming
+  entry_id: 88er24
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZH-1Pau0y2XjwvE-jUNN-blQ-BBBxNrrMJR3XsFKP9E.jpg?s=f47076f71260e5dd9d7af7b62a542a8c frameborder=0>
 ---
