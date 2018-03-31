@@ -103,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jEhMv8HG3ak7izOPTUDusAwS87sdUYAAexAwNmc8mDQ.jpg?s=5a5dcb7482c87fc504bfb9124c82847c frameborder=0>
 - entry_name: |
-    Roses are red, that’s a nice lamp
-  entry_id: 88dhym
-  entry_content: |
-    <img src=https://i.redditmedia.com/abOKUIJYmLEH3-SSbAlKQSq5dYjoboWwHA05VQXoOU0.jpg?s=8b6d3a8c216b524930bd94c4a375bbab frameborder=0>
-- entry_name: |
     Amazon Aperture Alexa portal turret.
   entry_id: 88hj6j
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iPg1fED0X09XPbnoKIfflYmjQWUaB8zjl06pwPIKcSk.jpg?s=8f384bf220c5f6f6cd1d7839d1f1dd80 frameborder=0>
 - entry_name: |
-    Friend owns a salon. Client asked if she could bring her dog since he’s well behaved. This was him the entire appt.
-  entry_id: 88dklf
-  entry_content: |
-    <img src=https://i.redditmedia.com/HXISrCyxcuy53yjMJCRc_WUNNl7AckXl-qO1_A16pk0.jpg?s=8623f9c088ea4a429d87f09ef2d0c083 frameborder=0>
-- entry_name: |
     Checking your phone when someone pulls out their phone is the yawn of our generation
   entry_id: 88hxdo
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 88hro5
   entry_content: |
     <img src=https://i.redditmedia.com/iR7yf2jGlhh-Ft7HhmBVFrvCiPJmeUfCtgC7GinyAsU.jpg?s=f138fd9b38835758193d821f8bebf264 frameborder=0>
+- entry_name: |
+    Didn't see that coming
+  entry_id: 88er24
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZH-1Pau0y2XjwvE-jUNN-blQ-BBBxNrrMJR3XsFKP9E.jpg?s=f47076f71260e5dd9d7af7b62a542a8c frameborder=0>
+- entry_name: |
+    If we got Gail the Snail to the Front Page everyone'd be like Whaaaat!?
+  entry_id: 88ifw7
+  entry_content: |
+    <iframe src=https://v.redd.it/8ciprfc6j3p01/DASH_9_6_M frameborder=0></iframe>
 ---
