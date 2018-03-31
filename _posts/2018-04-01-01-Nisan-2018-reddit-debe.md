@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/T_UZ4VXbReeN-cBQK9p8D_05uKdYwgnWGFb7ejgH0TY.jpg?s=71cd1f75ea08ba4562adcf6a476010fa frameborder=0>
 - entry_name: |
-    No Barrier to Friendship
-  entry_id: 88c797
-  entry_content: |
-    <iframe src=https://v.redd.it/a9944f4jtxo01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     *head explodes
   entry_id: 88f9wf
   entry_content: |
@@ -163,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9-lvnzY3uvASrElAIde-0a4Ie99y8kJf5dXww8vT1xo.jpg?s=1990be09c3220dbbd79225c48eb8b680 frameborder=0>
 - entry_name: |
-    Far Cry 5 is taking no prisoners
-  entry_id: 88c5ia
-  entry_content: |
-    <img src=https://i.redditmedia.com/X_qpOYefGsRlDpVF9_UUw8AGwc3h4n51rAs6TOYteAw.jpg?s=d5055aef2791041e2b7d56bf6f60032f frameborder=0>
-- entry_name: |
     Please don’t take broadband away from poor people, Democrats tell FCC chair
   entry_id: 88cr8k
   entry_content: |
@@ -202,11 +192,6 @@ data:
   entry_id: 88ee92
   entry_content: |
     <iframe src=https://v.redd.it/on6tonn4w3p01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Goals.
-  entry_id: 88c4gg
-  entry_content: |
-    <img src=https://i.redditmedia.com/TnJq7vP7SLCnGF7DJ4qbxst2WHwh3cfIt7aTfOfYjV4.jpg?s=e527e97e26ed59099e83da6028b4540a frameborder=0>
 - entry_name: |
     My father as a newly commissioned 2nd Lieutenant. Air Defence Artillery. Circa 1976.
   entry_id: 88fiiv
@@ -252,4 +237,19 @@ data:
   entry_id: 88ia7d
   entry_content: |
     <img src=https://i.redditmedia.com/otlniDcc4pe-5NmjExIIF1zoqbljMR1Rkn38hUFZGUE.png?s=3c0655310ddfbcc1eb87d5bdf2b0c7db frameborder=0>
+- entry_name: |
+    Poll: Majority of young people believe Trump is racist, dishonest and “mentally unfit” to be president
+  entry_id: 88hbpb
+  entry_content: |
+    <img src=https://i.redditmedia.com/RfnS8FlfMfhfqr28fuRwoJlp9voQKDgkHnTqwH-ODsc.jpg?s=5af47bf13b93c0db22b9398f2931363d frameborder=0>
+- entry_name: |
+    Didn't see that coming
+  entry_id: 88er24
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZH-1Pau0y2XjwvE-jUNN-blQ-BBBxNrrMJR3XsFKP9E.jpg?s=f47076f71260e5dd9d7af7b62a542a8c frameborder=0>
+- entry_name: |
+    Ice skating is hard
+  entry_id: 88euxe
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDarlingBlushingDiplodocus&url=https%3A%2F%2Fgfycat.com%2FDarlingBlushingDiplodocus&image=https%3A%2F%2Fthumbs.gfycat.com%2FDarlingBlushingDiplodocus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
