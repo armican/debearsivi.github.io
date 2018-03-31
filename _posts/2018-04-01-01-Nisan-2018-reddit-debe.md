@@ -123,11 +123,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/72A7Jk0L9qLnx_VPJozX6M_QuVUWfblSOwxSvDCh9LE.jpg?s=f64df9b1c8f588551d05a72ee3c2f7e7 frameborder=0>
 - entry_name: |
-    In Lord of the Rings: The Two Towers (2002), Faramir takes both Samwise Gamgee and Frodo Baggins to Osgiliath. Samwise Gamgee says that he and Frodo shouldn’t even be in Osgiliath. This isn’t just random dialogue, since in the book, both of them never went to Osgiliath.
-  entry_id: 88caii
-  entry_content: |
-    <img src=https://i.redditmedia.com/gespfC_CqZd9OpOBKviKH8ja-ZYURU0AmQLbIH_0HVQ.jpg?s=69031554e17af0d26c2219112860a040 frameborder=0>
-- entry_name: |
     Kiss cam guy got too excited
   entry_id: 88d3os
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 88euxe
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDarlingBlushingDiplodocus&url=https%3A%2F%2Fgfycat.com%2FDarlingBlushingDiplodocus&image=https%3A%2F%2Fthumbs.gfycat.com%2FDarlingBlushingDiplodocus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Body issues
+  entry_id: 88co1d
+  entry_content: |
+    <img src=https://i.redditmedia.com/wRqb-hKLH67Cko6NCFMOr8iBT2rKWJsBa1MJgdQOni8.png?s=53821a7db65956e5b2dfe3e4c94a1425 frameborder=0>
 ---
