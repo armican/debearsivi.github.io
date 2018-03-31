@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/USRialCN9QMM7jhww4BBBKc-hkIkK6hHAnk8Y562axA.jpg?s=36b9e6c5c7255a3f8c8768a8e3a437c0 frameborder=0>
 - entry_name: |
-    Katelyn Ohashi Split Bounce. She scored a Perfect 10.
-  entry_id: 88crwv
-  entry_content: |
-    <iframe src=https://v.redd.it/9lxmhbnu6yo01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Streamer's daughter walks in on him while playing a scary game
   entry_id: 88f70t
   entry_content: |
@@ -108,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/abOKUIJYmLEH3-SSbAlKQSq5dYjoboWwHA05VQXoOU0.jpg?s=8b6d3a8c216b524930bd94c4a375bbab frameborder=0>
 - entry_name: |
-    TIL the rapper Logic played Mario Kart against different rappers every night on stage for one of his tours and won all 35 games
-  entry_id: 88cphn
-  entry_content: |
-    <img src=https://i.redditmedia.com/Dl3m8aFWuqvv7CegY5ON-PzC8lw5CqzUcjPEDv3cTDA.jpg?s=1704a7fa7d07ca3dbeb702638a5043fe frameborder=0>
-- entry_name: |
     How to Make Tea
   entry_id: 88go9u
   entry_content: |
@@ -122,11 +112,6 @@ data:
   entry_id: 88hj6j
   entry_content: |
     <img src=https://i.redditmedia.com/ecUoN-YnhrQDGAbwaGIvR4UjwDTuFEgUBOyjSc-b1A0.jpg?s=a8eb10901dbf2a9ccd76b996ec9313ad frameborder=0>
-- entry_name: |
-    Trump ally detained, served with Mueller subpoena at Boston airport
-  entry_id: 88cqsj
-  entry_content: |
-    <img src=https://i.redditmedia.com/e_WWlO4srYh5JHdYuXRNaTRiEuiPtGRxRom8O3GIWcM.jpg?s=ced0d9f1a5f8d301aa32a7eb62b6395b frameborder=0>
 - entry_name: |
     Three schoolchildren are set to win national awards after stopping a suicidal man from jumping off a bridge, saving his life
   entry_id: 88dlq6
@@ -193,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hWcHfPK_XQQWdFsrWIsEnBqdO8mqaPTihTQswqjgmm0.jpg?s=781a1b6212d79edcdf599a2f25346177 frameborder=0>
 - entry_name: |
-    Please don’t take broadband away from poor people, Democrats tell FCC chair
-  entry_id: 88cr8k
-  entry_content: |
-    <img src=https://i.redditmedia.com/aqZCo7pJNfCu5qskdzFWjpi2Zxs2SXcQNVFRBfiGUVY.jpg?s=280be649bd5a49aaabc14c22f5ae2a2c frameborder=0>
-- entry_name: |
     Dear People Who Won't Shut Up In Movie Theaters: You're The Worst
   entry_id: 88ht9o
   entry_content: |
@@ -207,11 +187,6 @@ data:
   entry_id: 88dnvy
   entry_content: |
     <iframe src=https://v.redd.it/m7kly1x2uso01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Yeah, that's about right
-  entry_id: 88i6dz
-  entry_content: |
-    <img src=https://i.redditmedia.com/OfMXmP04stbFsSq1aFHq_EWcw4XO9o0TyPabTu8chzo.png?s=f8f84fd73b94422e6fee6544a02a043c frameborder=0>
 - entry_name: |
     Friend owns a salon. Client asked if she could bring her dog since he’s well behaved. This was him the entire appt.
   entry_id: 88dklf
@@ -252,4 +227,29 @@ data:
   entry_id: 88gg7k
   entry_content: |
     <img src=https://i.redditmedia.com/W07GqVulMUSRScTibhUUYZhHK-WatYrN7TgrkTNDZTs.jpg?s=4cb91bde287abf187529bbb072fc7b37 frameborder=0>
+- entry_name: |
+    Happy April 1st everyone! Wait...what day is it?!
+  entry_id: 88i6oa
+  entry_content: |
+    <iframe src=https://v.redd.it/86ymywtp93p01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Poll: Majority of young people believe Trump is racist, dishonest and “mentally unfit” to be president
+  entry_id: 88hbpb
+  entry_content: |
+    <img src=https://i.redditmedia.com/RfnS8FlfMfhfqr28fuRwoJlp9voQKDgkHnTqwH-ODsc.jpg?s=5af47bf13b93c0db22b9398f2931363d frameborder=0>
+- entry_name: |
+    I can hear this image.
+  entry_id: 88dnxr
+  entry_content: |
+    <img src=https://i.redditmedia.com/ERP9lnHHLd4c9uAifdabnBX0n52x7GkiOaNizGbGo80.jpg?s=f6c3c6b56692cc14a09e0a6d03b92c2e frameborder=0>
+- entry_name: |
+    Beautiful baby used to live in a feral colony, but not anymore!
+  entry_id: 88ink5
+  entry_content: |
+    <img src=https://i.redditmedia.com/bx6fxOCiUQotkuKZFEILSPX-wSiNJpmbQxYfO0cQXNI.jpg?s=95694a1cbafb749edd9971e30a7ccf95 frameborder=0>
+- entry_name: |
+    Ice skating is hard
+  entry_id: 88euxe
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDarlingBlushingDiplodocus&url=https%3A%2F%2Fgfycat.com%2FDarlingBlushingDiplodocus&image=https%3A%2F%2Fthumbs.gfycat.com%2FDarlingBlushingDiplodocus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
