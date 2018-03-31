@@ -168,11 +168,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Judge who asked alleged rape victim if she tried to ‘close her legs’ charged with misconduct
-  entry_id: 88d6wf
-  entry_content: |
-    <img src=https://i.redditmedia.com/9-lvnzY3uvASrElAIde-0a4Ie99y8kJf5dXww8vT1xo.jpg?s=1990be09c3220dbbd79225c48eb8b680 frameborder=0>
-- entry_name: |
     That’s.....that’s not how pH works.
   entry_id: 88f2du
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 88er24
   entry_content: |
     <img src=https://i.redditmedia.com/ZH-1Pau0y2XjwvE-jUNN-blQ-BBBxNrrMJR3XsFKP9E.jpg?s=f47076f71260e5dd9d7af7b62a542a8c frameborder=0>
+- entry_name: |
+    11 months, 161 lost, no surgery. Life is good.
+  entry_id: 88fqdh
+  entry_content: |
+    <img src=https://i.redditmedia.com/FHxhuSItu6R0t61nY-TMVvsmcR3YlRyNZLI-oNfiLmQ.jpg?s=bed930a845e140ddc11fb0ff13e99e8e frameborder=0>
 ---
