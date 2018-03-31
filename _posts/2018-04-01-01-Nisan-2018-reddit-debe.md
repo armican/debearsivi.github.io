@@ -103,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-fKNfnkIWdWYCK4Zsrqj0JYUq6wxa7kteyrHJn_F25I.jpg?s=d46a01dd0923c02189679b1b315b0efa frameborder=0>
 - entry_name: |
-    Katelyn Ohashi Split Bounce.
-  entry_id: 88cord
-  entry_content: |
-    <iframe src=https://v.redd.it/3nbpng1t4yo01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Roses are red, that’s a nice lamp
   entry_id: 88dhym
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 88gj2j
   entry_content: |
     <img src=https://i.redditmedia.com/iPg1fED0X09XPbnoKIfflYmjQWUaB8zjl06pwPIKcSk.jpg?s=8f384bf220c5f6f6cd1d7839d1f1dd80 frameborder=0>
+- entry_name: |
+    I took this picture of two friends waiting for a train
+  entry_id: 88gg7k
+  entry_content: |
+    <img src=https://i.redditmedia.com/W07GqVulMUSRScTibhUUYZhHK-WatYrN7TgrkTNDZTs.jpg?s=4cb91bde287abf187529bbb072fc7b37 frameborder=0>
 ---
