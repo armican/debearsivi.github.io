@@ -165,11 +165,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ttXx9Cg0AfuJJopoNjp-q2rWfT03sMKVwWDKS3QdGFU.png?s=0cb808b5475a6a9d7e51f863f2fff803 frameborder=0>
 - entry_name: |
-    Kitten Risks Everything to Unite with Puppy
-  entry_id: 88l3x8
-  entry_content: |
-    <iframe src=https://v.redd.it/d3oajgtmj5p01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Every person who upvote will be gifted $10 rp. No bamboozle
   entry_id: 88orjl
   entry_content: |
@@ -247,4 +242,9 @@ data:
   entry_id: 88of38
   entry_content: |
     null
+- entry_name: |
+    The Gum Ball PC. Tried to be different and fun on this build.
+  entry_id: 88mrjw
+  entry_content: |
+    <img src=https://i.redditmedia.com/DiHVONcb5Q1IbOtdW8l7qXFacoRhzx6XKobh_ypnp7I.jpg?s=bfbedbf2f38824270021244ec3d13698 frameborder=0>
 ---
