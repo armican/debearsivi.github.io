@@ -78,20 +78,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5cyK5pGC0m9d-Kiwwn-vl5En0DLVayKe5hzmS1-Yq38.png?s=e8a9b37761e133f1287e8ccad74b71d5 frameborder=0>
 - entry_name: |
-    Safety First.
-  entry_id: 88lgu8
-  entry_content: |
-    <img src=https://i.redditmedia.com/l1HT6bSYCI_fA9UU8PADlIkTyyJGly1q8PulpFoDE7E.jpg?s=324262473253dfd0e5bd63a9297ba311 frameborder=0>
-- entry_name: |
     Volcanic ash behaving like a non-newtonian fluid
   entry_id: 88oltn
   entry_content: |
     <iframe src=https://v.redd.it/od3awmqde8p01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    TIL that Oskar Schindler died broke, having spent his entire fortune (equivalent to $14 million) saving Jews from the Nazis. Of the 15 million Jews left alive today, roughly 15,000 of them owe their lives to Schindler. He is the only Nazi buried on Mount Zion.
-  entry_id: 88lfx8
-  entry_content: |
-    <img src=https://i.redditmedia.com/PL8n5H6WFI8UFzJj0y8idy3RiuUwGT7AECxddxWnz7w.jpg?s=ed503bfa9f72107132b53ef74d7c3bc5 frameborder=0>
 - entry_name: |
     I forgot to tell the cat I'd be home for Easter. She was happy to see me.
   entry_id: 88pq02
@@ -141,10 +131,6 @@ data:
   entry_id: 88rr6d
   entry_content: |
     null
-- entry_name: |
-  entry_id: 88lhw5
-  entry_content: |
-    <img src=https://i.redditmedia.com/BlWJMykUGPGRzn7dhl-Xlw3TmDxi7_K8tVkiI7fDKQQ.jpg?s=1715c2ef7f8ebfd36b859bff6ad37f87 frameborder=0>
 - entry_name: |
     me irl
   entry_id: 88oguu
@@ -247,4 +233,19 @@ data:
   entry_id: 88qkf8
   entry_content: |
     <iframe src=https://v.redd.it/fqu76jq6nap01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Jesus Christ. Upvote this so when you type “Jesus christ” in google this shows up
+  entry_id: 88qgq0
+  entry_content: |
+    <img src=https://i.redditmedia.com/xipq07mLak6ShgTfHixOwMjPvgmVwEvi7TF-lW1Zp5A.jpg?s=fd5db3cc339f95ce22a2b79ccf98cd00 frameborder=0>
+- entry_name: |
+    Roses Are Crimson, Zuck Is A Crook
+  entry_id: 88pzse
+  entry_content: |
+    <img src=https://i.redditmedia.com/kYG_tF_te46vbs9mqM3k_Md4686YjPcZMmHy3JY4jjs.jpg?s=68e180b586b9572d43ce7d4d9c50d5b9 frameborder=0>
+- entry_name: |
+    When your pupper doubles as a cloud
+  entry_id: 88n1w1
+  entry_content: |
+    <iframe src=https://v.redd.it/uf4kbgn617p01/DASH_4_8_M frameborder=0></iframe>
 ---
