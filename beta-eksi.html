@@ -44,6 +44,7 @@ sitemap: false
   var idx = 0;
   $(document).ready(function() {
     // Update relative paths
+    var entry_text = entry_content.html();
     entry_text = entry_text.replace(/href="\//g, 'href="http://www.eksisozluk.com/');
 
     $("body").keydown(function (event) {
