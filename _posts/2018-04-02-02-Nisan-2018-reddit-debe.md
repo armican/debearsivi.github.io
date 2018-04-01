@@ -13,15 +13,15 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/hWLjYJ4BzvI?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Good boy is a real gentleman
-  entry_id: 88macy
-  entry_content: |
-    <iframe src=https://v.redd.it/ycjl9ijdf6p01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     The more you know 🌈🌈🌈🌈🌈🌈🌈🌈
   entry_id: 88nviw
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBronzeBoringAsianpiedstarling&url=https%3A%2F%2Fgfycat.com%2FBronzeBoringAsianpiedstarling&image=https%3A%2F%2Fthumbs.gfycat.com%2FBronzeBoringAsianpiedstarling-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Good boy is a real gentleman
+  entry_id: 88macy
+  entry_content: |
+    <iframe src=https://v.redd.it/ycjl9ijdf6p01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL: In 2010, Microsoft banned a user from Xbox Live for putting Fort Gay as his address. When he tried to tell them that Fort Gay actually exists in West Virginia, it took an appeal from the town’s mayor for it to be corrected.
   entry_id: 88m1mf
@@ -68,6 +68,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/l1HT6bSYCI_fA9UU8PADlIkTyyJGly1q8PulpFoDE7E.jpg?s=324262473253dfd0e5bd63a9297ba311 frameborder=0>
 - entry_name: |
+    the progress pic to end all progress pics
+  entry_id: 88pnfc
+  entry_content: |
+    <img src=https://i.redditmedia.com/5cyK5pGC0m9d-Kiwwn-vl5En0DLVayKe5hzmS1-Yq38.png?s=e8a9b37761e133f1287e8ccad74b71d5 frameborder=0>
+- entry_name: |
+    Volcanic ash behaving like a non-newtonian fluid
+  entry_id: 88oltn
+  entry_content: |
+    <iframe src=https://v.redd.it/od3awmqde8p01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     This simple pyramid graph
   entry_id: 88nnyr
   entry_content: |
@@ -78,55 +88,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PL8n5H6WFI8UFzJj0y8idy3RiuUwGT7AECxddxWnz7w.jpg?s=ed503bfa9f72107132b53ef74d7c3bc5 frameborder=0>
 - entry_name: |
-    Volcanic ash behaving like a non-newtonian fluid
-  entry_id: 88oltn
-  entry_content: |
-    <iframe src=https://v.redd.it/od3awmqde8p01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Teacher's cell phone policy: if it rings in class you have to put it on speaker
-  entry_id: 88k13g
-  entry_content: |
-    <iframe src=https://v.redd.it/0dm47tj8s4p01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    the progress pic to end all progress pics
-  entry_id: 88pnfc
-  entry_content: |
-    <img src=https://i.redditmedia.com/5cyK5pGC0m9d-Kiwwn-vl5En0DLVayKe5hzmS1-Yq38.png?s=e8a9b37761e133f1287e8ccad74b71d5 frameborder=0>
-- entry_name: |
     Happy Easter!
   entry_id: 88lw7h
   entry_content: |
     <img src=https://i.redditmedia.com/kw6aclupDA4wZHUw-9IRCEibex72L7UW-Ih2NI5eVLM.jpg?s=a9837477e6836a4931ae35941de55c43 frameborder=0>
-- entry_name: |
-    Good to know. Summer will be here soon.
-  entry_id: 88met2
-  entry_content: |
-    <img src=https://i.redditmedia.com/-aJXYw0FG6fBkXtlIWT2iohmjW2oDxK_TpOKx7579_c.jpg?s=649a70c7e343125f639ac7a464515281 frameborder=0>
 - entry_name: |
     The Pioneers Used to Ride These Babies For Miles
   entry_id: 88nnmi
   entry_content: |
     <img src=https://i.redditmedia.com/J4zvxq4yrbSLfLH5gpgLelxPL_-IXy2KC7sGKNo0lKI.jpg?s=2c911107df2c820fbf96db93ecfc82f0 frameborder=0>
 - entry_name: |
+    Good to know. Summer will be here soon.
+  entry_id: 88met2
+  entry_content: |
+    <img src=https://i.redditmedia.com/-aJXYw0FG6fBkXtlIWT2iohmjW2oDxK_TpOKx7579_c.jpg?s=649a70c7e343125f639ac7a464515281 frameborder=0>
+- entry_name: |
     logging is dangerous work
   entry_id: 88lu4e
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTiredInformalGnat&url=https%3A%2F%2Fgfycat.com%2FTiredInformalGnat&image=https%3A%2F%2Fthumbs.gfycat.com%2FTiredInformalGnat-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    2meirl4meirl
-  entry_id: 88kzej
-  entry_content: |
-    <img src=https://i.redditmedia.com/LJN4MuSHst1rlF-VRz6j7WdWb8Pyopl7bD6WoiJb2so.jpg?s=ff4e66382e440d8426f6494f265d9493 frameborder=0>
 - entry_name: |
     The death of the world’s last male northern white rhinoceros this month led a Kenyan government official to declare anyone caught possessing ivory should be sentenced to life in prison
   entry_id: 88naqx
   entry_content: |
     <img src=https://i.redditmedia.com/ac12k8KEJWnRaFtyXzrcn71bouoxZomAh4gEDSXPj2k.jpg?s=7b886cfefd374357bd8b6c13294219db frameborder=0>
 - entry_name: |
+    2meirl4meirl
+  entry_id: 88kzej
+  entry_content: |
+    <img src=https://i.redditmedia.com/LJN4MuSHst1rlF-VRz6j7WdWb8Pyopl7bD6WoiJb2so.jpg?s=ff4e66382e440d8426f6494f265d9493 frameborder=0>
+- entry_name: |
     TIL: A Chicago high school played Justin Bieber's Baby in between classes in the hallways. As a fundraising technique they made students pay to stop the song. They raised $1,000 in three days.
   entry_id: 88o7kr
   entry_content: |
     null
+- entry_name: |
+    I forgot to tell the cat I'd be home for Easter. She was happy to see me.
+  entry_id: 88pq02
+  entry_content: |
+    <iframe src=https://v.redd.it/qd2waop5o9p01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     TIL the city of London still pays rent to the Queen on land it leased in 1211. Nobody even knows where the land is located anymore. But over the past centuries, the city has paid the same flat rate: a knife, an axe, six oversized horseshoes, and 61 nails.
   entry_id: 88kw6a
@@ -142,25 +142,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vWlYNx0VeIEIVHfufbMvW9wfRva-Xwn2I8NRChf93eE.jpg?s=bbd2744ef2e1cced2073349d6152b88b frameborder=0>
 - entry_name: |
-    Charlie’s report card
-  entry_id: 88ky7t
-  entry_content: |
-    <img src=https://i.redditmedia.com/joSDHuOl2T3b-cVWqDmGATXKlp9fgsbUabMyy2X-BCM.jpg?s=e5fecc9db7fd376b62fddcc817e10ddc frameborder=0>
-- entry_name: |
     me irl
   entry_id: 88oguu
   entry_content: |
     <img src=https://i.redditmedia.com/VLXZbRpHvargtQR2sDnU2gje6r6hPkVeR2h9qJcnblk.png?s=13c2166abd5319628f6bb82f7ed86c1c frameborder=0>
 - entry_name: |
-    I forgot to tell the cat I'd be home for Easter. She was happy to see me.
-  entry_id: 88pq02
+    Charlie’s report card
+  entry_id: 88ky7t
   entry_content: |
-    <iframe src=https://v.redd.it/qd2waop5o9p01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Because we straighties can appreciate really good male cosplays, too.
-  entry_id: 88k39f
-  entry_content: |
-    <img src=https://i.redditmedia.com/19chVQIFXnNV8HARAdSY4LbWMutL_Yu_0Er07Bv5dLk.jpg?s=8e5015e20e0f37d46092dc03d5821dc0 frameborder=0>
+    <img src=https://i.redditmedia.com/joSDHuOl2T3b-cVWqDmGATXKlp9fgsbUabMyy2X-BCM.jpg?s=e5fecc9db7fd376b62fddcc817e10ddc frameborder=0>
 - entry_name: |
     If you spill paint on your lawn, you can watch paint dry and grass grow at the same time.
   entry_id: 88o5gl
@@ -172,14 +162,14 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/d3oajgtmj5p01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-  entry_id: 88k48z
-  entry_content: |
-    <img src=https://i.redditmedia.com/yz7lIqQ5jJ5oRsHWV_MM46rnPwAOMwrtHrBhuBpX_Nw.jpg?s=9d31f10ec01797700011774f831bdaf1 frameborder=0>
-- entry_name: |
     Brother is in town and we day drinking! Every 10 upvotes imma hug him!
   entry_id: 88kod8
   entry_content: |
     <img src=https://i.redditmedia.com/mAws2dGIFb5cvroEHj33Tlv9a_uU1G9kqi9r3Ud_qQg.jpg?s=699fa986c280f99c21ab32e173725c40 frameborder=0>
+- entry_name: |
+  entry_id: 88q1yd
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/zNhUk5v3ohE?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Square Cloud
   entry_id: 88kjot
@@ -191,24 +181,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JQn3xH29ukt4qSTIGsmG8Q-L602XQ7mZkqrlGjH6sLc.png?s=019128c03723efd5caf85a8330f3a3a1 frameborder=0>
 - entry_name: |
-    Hmmmm...
-  entry_id: 88mwfw
-  entry_content: |
-    <img src=https://i.redditmedia.com/rehe830cJw9xRXC9HJ4OVWeOMsPViRmRB2dP9SM_2kI.jpg?s=9a58515fd21fd57f2432e7579103f33b frameborder=0>
-- entry_name: |
-  entry_id: 88k1im
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FForsakenCluelessHornshark&url=https%3A%2F%2Fgfycat.com%2FForsakenCluelessHornshark&image=https%3A%2F%2Fthumbs.gfycat.com%2FForsakenCluelessHornshark-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     My Mom sent this to me for Easter. I love my Mom.
   entry_id: 88o2qd
   entry_content: |
     <img src=https://i.redditmedia.com/j16Zp8NeyAN2_gDoNscWEg5-43pQes581AjyW0Zpygw.jpg?s=93a169c1037cb5d75d92ddc2cba5975a frameborder=0>
 - entry_name: |
+    Hmmmm...
+  entry_id: 88mwfw
+  entry_content: |
+    <img src=https://i.redditmedia.com/rehe830cJw9xRXC9HJ4OVWeOMsPViRmRB2dP9SM_2kI.jpg?s=9a58515fd21fd57f2432e7579103f33b frameborder=0>
+- entry_name: |
+  entry_id: 88psir
+  entry_content: |
+    <img src=https://i.redditmedia.com/ttXx9Cg0AfuJJopoNjp-q2rWfT03sMKVwWDKS3QdGFU.png?s=0cb808b5475a6a9d7e51f863f2fff803 frameborder=0>
+- entry_name: |
     meirl
   entry_id: 88mf51
   entry_content: |
     <img src=https://i.redditmedia.com/n0EFehjh4kF2dvC3B-6xQJ9SGE20odcRhIdYdvXeQxA.jpg?s=3fc8d0fda763abf18976ac45bc03132f frameborder=0>
+- entry_name: |
+    Every person who upvote will be gifted $10 rp. No bamboozle
+  entry_id: 88orjl
+  entry_content: |
+    null
 - entry_name: |
     me irl
   entry_id: 88n8y5
@@ -219,31 +214,38 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0hLkhbQO9_haHvIXsKqiSaeuWgdxTrGoqBob6doNLh4.jpg?s=2755b8d52387822ce570fc2ada6d5fd2 frameborder=0>
 - entry_name: |
-  entry_id: 88q1yd
+    When your pupper doubles as a cloud
+  entry_id: 88n1w1
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/zNhUk5v3ohE?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/uf4kbgn617p01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I bought a charger that sits flat on my belly so that I don’t bend and break it.
   entry_id: 88l89g
   entry_content: |
     <img src=https://i.redditmedia.com/dvwdbTp2Zo1Z3XocGkqXf0mv5lczilf5yH3bQ7He9OA.jpg?s=e37045f7ab1cd429181fc9799abbdc6a frameborder=0>
 - entry_name: |
-    Every person who upvote will be gifted $10 rp. No bamboozle
-  entry_id: 88orjl
+    Incredible street art in Lisbon, Portugal by street artist Bordalo II
+  entry_id: 88nmev
   entry_content: |
-    null
-- entry_name: |
-    When your pupper doubles as a cloud
-  entry_id: 88n1w1
-  entry_content: |
-    <iframe src=https://v.redd.it/uf4kbgn617p01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 88psir
-  entry_content: |
-    <img src=https://i.redditmedia.com/ttXx9Cg0AfuJJopoNjp-q2rWfT03sMKVwWDKS3QdGFU.png?s=0cb808b5475a6a9d7e51f863f2fff803 frameborder=0>
+    <img src=https://i.redditmedia.com/BDY-aidBSv1vMplygYENnmZbu4rn_fLvrT2scD0y4gk.jpg?s=1e2a2af3f5e81ee860872fcaf6e638b6 frameborder=0>
 - entry_name: |
     The Gum Ball PC. Tried to be different and fun on this build.
   entry_id: 88mrjw
   entry_content: |
     <img src=https://i.redditmedia.com/DiHVONcb5Q1IbOtdW8l7qXFacoRhzx6XKobh_ypnp7I.jpg?s=bfbedbf2f38824270021244ec3d13698 frameborder=0>
+- entry_name: |
+    🏳️‍🌈Mods🏳️‍🌈are🏳️‍🌈asleep🏳️‍🌈post🏳️‍🌈cancer🏳️‍🌈memes🏳️‍🌈
+  entry_id: 88of38
+  entry_content: |
+    null
+- entry_name: |
+    The President is Compromised and Everyone Knows It
+  entry_id: 88nddh
+  entry_content: |
+    <img src=https://i.redditmedia.com/PH8vT-_RBt8GDWK1VBJqlVLvn4KiKNE-r0KZtVufKdk.jpg?s=c87adf4ccf0d6f3c130df8bfc585a19f frameborder=0>
+- entry_name: |
+    When you try to pretend you're not looking at your crush, and then eye contact happens.
+  entry_id: 88qi9b
+  entry_content: |
+    <iframe src=https://v.redd.it/2fryyb5ykap01/DASH_600_K frameborder=0></iframe>
 ---
