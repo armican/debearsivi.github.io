@@ -87,8 +87,7 @@ sitemap: false
     </div>
   </header>
 
-    <div class="container content col-md-9">
-
+<div class="container content col-md-9">
 {% assign idx = site.documents.size | minus: 2 %}
 {% for i in site.documents[idx].data %}
       <li class="entry_li card">
@@ -105,11 +104,11 @@ sitemap: false
         </div>
       </li>
 {% endfor %}
+</div>
 
       <footer class="footer">
         <small>
           © <time datetime="2018-03-17T20:47:40+00:00">2018</time>. All rights reserved.
         </small>
       </footer>
-    </div>
 </body></html>
