@@ -33,11 +33,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/qDTSIk_xSzU?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    This business card
-  entry_id: 88l71f
-  entry_content: |
-    <img src=https://i.redditmedia.com/y6HkA7pVjTiMFq6gfkbpNgsS4A7nyn-o6UonA-88OQo.jpg?s=2ba1737e4c44a44c4bcc82562c501fe7 frameborder=0>
-- entry_name: |
     I know this isn't this subs usual thing, but check out my board game collection.
   entry_id: 88m4fa
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_id: 88oltn
   entry_content: |
     <iframe src=https://v.redd.it/od3awmqde8p01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    This simple pyramid graph
-  entry_id: 88nnyr
-  entry_content: |
-    <img src=https://i.redditmedia.com/C3DqiG-C3SzqIRiBp3NiGtrK32SYigiIrDgaYvx-nLs.jpg?s=e10c9fcbdd054724fe6e699a6a9f8bf2 frameborder=0>
 - entry_name: |
     TIL that Oskar Schindler died broke, having spent his entire fortune (equivalent to $14 million) saving Jews from the Nazis. Of the 15 million Jews left alive today, roughly 15,000 of them owe their lives to Schindler. He is the only Nazi buried on Mount Zion.
   entry_id: 88lfx8
@@ -248,4 +238,14 @@ data:
   entry_id: 88of38
   entry_content: |
     null
+- entry_name: |
+    The Gum Ball PC. Tried to be different and fun on this build.
+  entry_id: 88mrjw
+  entry_content: |
+    <img src=https://i.redditmedia.com/DiHVONcb5Q1IbOtdW8l7qXFacoRhzx6XKobh_ypnp7I.jpg?s=bfbedbf2f38824270021244ec3d13698 frameborder=0>
+- entry_name: |
+    The President is Compromised and Everyone Knows It
+  entry_id: 88nddh
+  entry_content: |
+    <img src=https://i.redditmedia.com/PH8vT-_RBt8GDWK1VBJqlVLvn4KiKNE-r0KZtVufKdk.jpg?s=c87adf4ccf0d6f3c130df8bfc585a19f frameborder=0>
 ---
