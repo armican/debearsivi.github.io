@@ -40,6 +40,8 @@ sitemap: false
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
+  // So PoC, TODO: fix this.
+  var idx = 0;
   $(document).ready(function() {
     for(var i=0; i<50; i++) {
       var entry_content = $('.entry_content')[i];
@@ -48,12 +50,7 @@ sitemap: false
       // Update relative paths
       entry_text = entry_text.replace(/href="\//g, 'href="http://www.eksisozluk.com/');
     }
-  });
-  </script>
-  <script>
-  // So PoC, TODO: fix this.
-  var idx = 0;
-  $(document).ready(function() {
+
     $("body").keydown(function (event) {
         // left arrow or k
         if (((event.keyCode || event.which) == 37) || ((event.keyCode || event.which) == 75))
