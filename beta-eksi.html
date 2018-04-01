@@ -42,8 +42,8 @@ sitemap: false
   <script>
   $(document).ready(function() {
     for(var i=0; i<50; i++) {
-      var entry_content = $("#entry_" + i);
-      var entry_text = entry_content.html();
+      var entry_content = $('.entry_content')[i];
+      var entry_text = entry_content.innerHTML();
 
       // Update relative paths
       entry_text = entry_text.replace(/href="\//g, 'href="http://www.eksisozluk.com/');
