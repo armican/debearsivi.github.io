@@ -233,11 +233,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nHiLqP1gxNLh54PkUfbTgbCs6Ev-m-n5d00YdRAPZEc.png?s=020e8d75c6f5dbf54a1efb59dd978508 frameborder=0>
 - entry_name: |
-    I bought a charger that sits flat on my belly so that I don’t bend and break it.
-  entry_id: 88l89g
-  entry_content: |
-    <img src=https://i.redditmedia.com/dvwdbTp2Zo1Z3XocGkqXf0mv5lczilf5yH3bQ7He9OA.jpg?s=e37045f7ab1cd429181fc9799abbdc6a frameborder=0>
-- entry_name: |
     🏳️‍🌈Mods🏳️‍🌈are🏳️‍🌈asleep🏳️‍🌈post🏳️‍🌈cancer🏳️‍🌈memes🏳️‍🌈
   entry_id: 88of38
   entry_content: |
@@ -247,4 +242,9 @@ data:
   entry_id: 88mrjw
   entry_content: |
     <img src=https://i.redditmedia.com/DiHVONcb5Q1IbOtdW8l7qXFacoRhzx6XKobh_ypnp7I.jpg?s=bfbedbf2f38824270021244ec3d13698 frameborder=0>
+- entry_name: |
+    How to cook Popcorn
+  entry_id: 88qkf8
+  entry_content: |
+    <iframe src=https://v.redd.it/fqu76jq6nap01/DASH_600_K frameborder=0></iframe>
 ---
