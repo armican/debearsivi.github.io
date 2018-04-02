@@ -38,28 +38,55 @@ sitemap: false
   <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="public/beta.css">
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>
+  // So PoC, TODO: fix this.
+  var idx = 0;
+  $(document).ready(function() {
+    $("body").keydown(function (event) {
+        // left arrow or k
+        if (((event.keyCode || event.which) == 37) || ((event.keyCode || event.which) == 75))
+
+        {
+          idx -= 1;
+        } else if (((event.keyCode || event.which) == 39) || ((event.keyCode || event.which) == 74))
+        {
+          idx += 1;
+        } else {
+          return;
+        }
+
+        if(idx < 0) {
+          idx = 0;
+        } else if(idx > 49) {
+          idx = 49;
+        }
+        document.getElementsByClassName("entry_list card-header")[idx].scrollIntoView(true)
+    });
+   });
+  </script>
 </head>
 
 <body class="bg-light">
 
   <header class="bg-dark navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
     <div class="container d-flex justify-content-between">
-    <a class="navbar-brand mr-0 mr-md-2" href="/">Debe Arşivi</a>
+    <a class="disable-href navbar-brand mr-0 mr-md-2" href="/">Debe Arşivi</a>
   
     <div class="navbar-nav-scroll">
       <ul class="navbar-nav bd-navbar-nav flex-row">
         <li class="nav-item">
-          <a class="nav-link" href="/beta-eksi.html">Ekşi Sözlük</a>
+          <a class="disable-href nav-link" href="/beta-eksi.html">Ekşi Sözlük</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="/beta-reddit.html">Reddit</a>
+          <a class="disable-href nav-link active" href="/beta-reddit.html">Reddit</a>
         </li>
       </ul>
     </div>
     </div>
   </header>
 
-    <ul id="entry_ul">
     <div class="container content col-md-9">
 
 {% assign idx = site.documents.size | minus: 1 %}
@@ -79,5 +106,4 @@ sitemap: false
           © <time datetime="2018-03-17T20:47:40+00:00">2018</time>. All rights reserved.
         </small>
       </footer>
-    </div>
 </body></html>
