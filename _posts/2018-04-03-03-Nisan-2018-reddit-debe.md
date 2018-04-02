@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/AwiGxqnmhsEju_Dx6mlRRwdSRQkevz11NJIkzrJ9jR0.jpg?s=4875b923be536be4e6498e63f56be43e frameborder=0>
 - entry_name: |
-    April Fool's Day? You gotta be kidding me.
-  entry_id: 88top2
-  entry_content: |
-    <iframe src=https://v.redd.it/wqb2yj2hucp01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Progress: 12 years of hard work payed off. From lovable big guy to heartthrob.
   entry_id: 88uevs
   entry_content: |
@@ -93,11 +88,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3enifskxqgp01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    In a study, researchers suggest that investing in public education can lead to more upward economic mobility and lower teen pregnancy rates, as well as provide a way to ease income inequality.
-  entry_id: 88ys8z
-  entry_content: |
-    <img src=https://i.redditmedia.com/c3S2WV5BUE4dT8ApRcGEAyDBK5dVg7HhufFqyozjFpE.jpg?s=836927528be1af69f75675da5783ae63 frameborder=0>
-- entry_name: |
     A purrfectly executed about-face
   entry_id: 88uqmg
   entry_content: |
@@ -136,11 +126,6 @@ data:
   entry_id: 88vjwn
   entry_content: |
     <iframe src=https://v.redd.it/h3x7derz8ep01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    In the Harry Potter film series, The titles all include “Harry Potter” this is a subtle nod to the name of Harry Potter the main character of the series.
-  entry_id: 88tpwe
-  entry_content: |
-    <img src=https://i.redditmedia.com/XxmscgxdciFyUSSafGkkoHHKREcCJ-wRZC6b8PZrjDo.jpg?s=c0d67d6287f447390fe1150241550b17 frameborder=0>
 - entry_name: |
     The end of Finding Dory on Sweden’s Netflix
   entry_id: 88ulwr
@@ -247,8 +232,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/04kQZG4Gr7PTz1TWt8YaXhrQJ9qF_0OMqU6Pr-H8WY8.jpg?s=b3434160c9f502a501d6510e807ef7c3 frameborder=0>
 - entry_name: |
-    Quitting Facebook Leads To Drop In Cortisol Levels, Australian Study Shows: Just five days without Facebook is enough to reduce one’s levels of the stress hormone cortisol.
-  entry_id: 88tml8
+    hmmm
+  entry_id: 88y2te
   entry_content: |
-    <img src=https://i.redditmedia.com/9KaLP6r0UuhpaNj6lik9oDc51yModH36-061bkNXqAc.jpg?s=ba5b51f9f0fa8b30132b6088263e0b4e frameborder=0>
+    <img src=https://i.redditmedia.com/gXzVBmVjR6z3SCFMmxWuYlfpECyliQyW0JGYPCMHz-U.jpg?s=bda5d59bb6f0b9bbff91acd3d6a85f0a frameborder=0>
+- entry_name: |
+    Man drops 326 pounds after needing two plane seats in evacuation from Fort McMurray fire
+  entry_id: 88xbhd
+  entry_content: |
+    <img src=https://i.redditmedia.com/fs5tzOOKUVSWmgkZWs3wg-vSmCOUP8PUTXhDl_mcEpg.jpg?s=06734c7d4f350ff4260624f7a126d854 frameborder=0>
+- entry_name: |
+    Progress : From crazy frog to happy toad.
+  entry_id: 88w1o2
+  entry_content: |
+    <img src=https://i.redditmedia.com/3IedmZsF7wUydd2IVawdHA-j8hoQO5o93usynEKFv-s.jpg?s=73276ffceed4f64320d765e45adaa066 frameborder=0>
+- entry_name: |
+    Unexpected pool skills
+  entry_id: 88v6g1
+  entry_content: |
+    <iframe src=https://v.redd.it/xl8wleuqydp01/DASH_4_8_M frameborder=0></iframe>
 ---
