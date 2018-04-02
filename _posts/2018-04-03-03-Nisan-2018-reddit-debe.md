@@ -237,11 +237,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/257la2gveep01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    I am Rian Johnson, director of Star Wars Episode VIII: The Last Jedi. Heard you guys were talking shit. AMA
-  entry_id: 88tjw6
-  entry_content: |
-    <img src=https://i.redditmedia.com/p-WHWQepV4YMjvKE_RmcnEVvrguPSZwSGyVQwUoJbkM.jpg?s=614ed990909a5b35044bd99a866d86a8 frameborder=0>
-- entry_name: |
     Flock of Bald Eagles in central Nebraska
   entry_id: 88yt3q
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 88tzkx
   entry_content: |
     <img src=https://i.redditmedia.com/04kQZG4Gr7PTz1TWt8YaXhrQJ9qF_0OMqU6Pr-H8WY8.jpg?s=b3434160c9f502a501d6510e807ef7c3 frameborder=0>
+- entry_name: |
+    Quitting Facebook Leads To Drop In Cortisol Levels, Australian Study Shows: Just five days without Facebook is enough to reduce one’s levels of the stress hormone cortisol.
+  entry_id: 88tml8
+  entry_content: |
+    <img src=https://i.redditmedia.com/9KaLP6r0UuhpaNj6lik9oDc51yModH36-061bkNXqAc.jpg?s=ba5b51f9f0fa8b30132b6088263e0b4e frameborder=0>
 ---
