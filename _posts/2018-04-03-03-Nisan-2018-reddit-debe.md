@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VKGysH6eBTKSbCrO1v3-a2Axj3yfKk5Rx-SxPWjTmEA.jpg?s=fb9ffb8dfee61faeee0369d6b135ae06 frameborder=0>
 - entry_name: |
-    Would you continue to be vegan if you had to grow every single vegetable you wanted to eat? Why or why not?
-  entry_id: 88tga7
-  entry_content: |
-    null
-- entry_name: |
     Zuckerberg in 2006 saying user information will never be shared or sold unless the users asked for it to be shared with some party
   entry_id: 88xl4g
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_id: 88y21x
   entry_content: |
     <img src=https://i.redditmedia.com/KOFrUm0YXENNzRn-syqxRHmihMx84oVaGsKP8mHQc5o.gif?fm=jpg&s=26538c2d2f4153f58828c64de39e8274 frameborder=0>
-- entry_name: |
-    News Anchors Reciting Sinclair Propaganda Is Even More Terrifying in Unison
-  entry_id: 88tgag
-  entry_content: |
-    <img src=https://i.redditmedia.com/Jmk3gJhP5_gBCRgAyTMyIsvinWLoHXQ0QM2OEzgkGRs.jpg?s=64b93deb3f5aa54e628dccb689eb99a6 frameborder=0>
 - entry_name: |
     DoubleLift's Statement on his Family
   entry_id: 88vzaw
@@ -217,11 +207,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/f2LLzbwg_tcqQiIhTLM5xEdMQkSIORGiu24gKpE5P5M.png?s=9d82837cd52c8c35df8353f01ffcbbc3 frameborder=0>
 - entry_name: |
-    Students studying at a school in USA
-  entry_id: 88tetw
-  entry_content: |
-    <img src=https://i.redditmedia.com/HJ0xbONMb_dwD4-HqcNb_tOReN060O9UP_q_tpXoXT0.jpg?s=fd5fb2380385dd5ed6aca50cdb1eb168 frameborder=0>
-- entry_name: |
     I gotcha my fren
   entry_id: 88xhxn
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 88vrd1
   entry_content: |
     <iframe src=https://v.redd.it/257la2gveep01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    I am Rian Johnson, director of Star Wars Episode VIII: The Last Jedi. Heard you guys were talking shit. AMA
+  entry_id: 88tjw6
+  entry_content: |
+    <img src=https://i.redditmedia.com/p-WHWQepV4YMjvKE_RmcnEVvrguPSZwSGyVQwUoJbkM.jpg?s=614ed990909a5b35044bd99a866d86a8 frameborder=0>
+- entry_name: |
+    Flock of Bald Eagles in central Nebraska
+  entry_id: 88yt3q
+  entry_content: |
+    <img src=https://i.redditmedia.com/sarN98Narvy92Z-W5iXDWIYN35j4KBDcxrDyp3FIeGY.jpg?s=b711a9c15bde1764d002a81c3204c7b5 frameborder=0>
+- entry_name: |
+    It's not much, but it's mine. This is where my mail lives!
+  entry_id: 88tzkx
+  entry_content: |
+    <img src=https://i.redditmedia.com/04kQZG4Gr7PTz1TWt8YaXhrQJ9qF_0OMqU6Pr-H8WY8.jpg?s=b3434160c9f502a501d6510e807ef7c3 frameborder=0>
 ---
