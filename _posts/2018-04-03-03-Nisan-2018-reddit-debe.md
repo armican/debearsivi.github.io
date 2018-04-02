@@ -98,11 +98,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Reporter does a great job of interviewing Gemma Arterton
-  entry_id: 88u3p3
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTestyMetallicArrowcrab&url=https%3A%2F%2Fgfycat.com%2FTestyMetallicArrowcrab&image=https%3A%2F%2Fthumbs.gfycat.com%2FTestyMetallicArrowcrab-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     God bless the internet
   entry_id: 88sssu
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 88ssqn
   entry_content: |
     <img src=https://i.redditmedia.com/6SRAhqY1M5sPrp-OM3Kj1PyLxYhF1gtklBC-9qtuqIs.jpg?s=26eabb4c20350de39e5a151c429b0bfa frameborder=0>
+- entry_name: |
+    Federal court rules government can't block detained immigrant teens from abortion
+  entry_id: 88v07e
+  entry_content: |
+    <img src=https://i.redditmedia.com/KKZCJqSTKRKTob3vY9t_T2POyo1Sp791XgB2HPMTsUY.jpg?s=99b57aeda71d707265aa7291fb84e6dc frameborder=0>
 ---
