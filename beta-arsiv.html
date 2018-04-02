@@ -61,6 +61,7 @@ sitemap: false
   </header>
 
 <div class="container card content col-md-9">
+  {% assign paginator.posts = site.posts %}
   {% for post in paginator.posts %}
   <article itemscope itemtype="http://schema.org/Article" class="post">
     <h1 class="card-body post-title">
