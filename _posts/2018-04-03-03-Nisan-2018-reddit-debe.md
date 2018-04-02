@@ -88,6 +88,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3enifskxqgp01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    In a study, researchers suggest that investing in public education can lead to more upward economic mobility and lower teen pregnancy rates, as well as provide a way to ease income inequality.
+  entry_id: 88ys8z
+  entry_content: |
+    <img src=https://i.redditmedia.com/c3S2WV5BUE4dT8ApRcGEAyDBK5dVg7HhufFqyozjFpE.jpg?s=836927528be1af69f75675da5783ae63 frameborder=0>
+- entry_name: |
     A purrfectly executed about-face
   entry_id: 88uqmg
   entry_content: |
@@ -141,11 +146,6 @@ data:
   entry_id: 88yjhm
   entry_content: |
     <img src=https://i.redditmedia.com/zNZFJNRWhJM044L84kXcxykMM4Oa10jDpuBxVd_G6Tc.jpg?s=148e32a37c231a8ca5fb764a4a98134b frameborder=0>
-- entry_name: |
-    Progress: April fools at SFO Airport
-  entry_id: 88udg1
-  entry_content: |
-    <img src=https://i.redditmedia.com/guprSsQBl-cFUhDxBSxZ0r9nHXM-kt5aG5msYfo8SyY.jpg?s=88db04f261634ef5247618236f077d1a frameborder=0>
 - entry_name: |
     You can now see the where the spare key in my wallet is
   entry_id: 88wy4y
