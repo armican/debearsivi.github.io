@@ -38,60 +38,55 @@ data:
   entry_content: |
     null
 - entry_name: |
-    When you catch two deaf kids roastin' each other
-  entry_id: 88typl
+    Zuckerberg in 2006 saying user information will never be shared or sold unless the users asked for it to be shared with some party
+  entry_id: 88xl4g
   entry_content: |
-    <img src=https://i.redditmedia.com/Bz8QsIPZ4gJxigbcp8dBzxrbe3fGpdkrS016Mvyzzi0.gif?fm=jpg&s=3221f0b8957d455c8308bd6119cbc392 frameborder=0>
+    <img src=https://i.redditmedia.com/QHLjgadL-32y-Y0-tyCOj5ZPmiCv1wq0nd5U5_cmZWQ.jpg?s=69ffc28aa1fd96998d9f725968d0b580 frameborder=0>
 - entry_name: |
     If you’re ripped off by Comcast (or any internet company), Wells Fargo (or any bank/student lender), or Aetna (or any health insurance company), here’s how to get your money back.
   entry_id: 88unax
   entry_content: |
     null
 - entry_name: |
-    🔥 New Rule Announcement: The users in our community can directly impact the planet to preserve the nature we love, so from now on to post in /r/NatureIsFuckingLit users must first post proof verifying they have picked up a piece of trash outside. 🔥
-  entry_id: 88tz8z
+    When you catch two deaf kids roastin' each other
+  entry_id: 88typl
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnragedTeemingGoosefish&url=https%3A%2F%2Fgfycat.com%2FEnragedTeemingGoosefish&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnragedTeemingGoosefish-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/Bz8QsIPZ4gJxigbcp8dBzxrbe3fGpdkrS016Mvyzzi0.gif?fm=jpg&s=3221f0b8957d455c8308bd6119cbc392 frameborder=0>
 - entry_name: |
     The power of Shaq
   entry_id: 88wfsx
   entry_content: |
     <iframe src=https://v.redd.it/bo39gkk2zep01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Zuckerberg in 2006 saying user information will never be shared or sold unless the users asked for it to be shared with some party
-  entry_id: 88xl4g
+    🔥 New Rule Announcement: The users in our community can directly impact the planet to preserve the nature we love, so from now on to post in /r/NatureIsFuckingLit users must first post proof verifying they have picked up a piece of trash outside. 🔥
+  entry_id: 88tz8z
   entry_content: |
-    <img src=https://i.redditmedia.com/QHLjgadL-32y-Y0-tyCOj5ZPmiCv1wq0nd5U5_cmZWQ.jpg?s=69ffc28aa1fd96998d9f725968d0b580 frameborder=0>
-- entry_name: |
-    Being sisters means you always have backup (against the neighbors dog)
-  entry_id: 88w1bx
-  entry_content: |
-    <img src=https://i.redditmedia.com/QOxs4_JT_i-Cv6qByhkGz2Ar4rSrKKA31ijX4nExWMQ.jpg?s=057ed4e3a6879efb73a3b4394da9c377 frameborder=0>
-- entry_name: |
-    News Anchors Reciting Sinclair Propaganda Is Even More Terrifying in Unison
-  entry_id: 88tgag
-  entry_content: |
-    <img src=https://i.redditmedia.com/Jmk3gJhP5_gBCRgAyTMyIsvinWLoHXQ0QM2OEzgkGRs.jpg?s=64b93deb3f5aa54e628dccb689eb99a6 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnragedTeemingGoosefish&url=https%3A%2F%2Fgfycat.com%2FEnragedTeemingGoosefish&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnragedTeemingGoosefish-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Overwatch logic
   entry_id: 88z118
   entry_content: |
     <img src=https://i.redditmedia.com/yFTvAi0Uiit4Mra9uJvKSv2zC9k2uCCELSnLVM1KIJ0.jpg?s=a724f8e9b8c3932a0d27ec2011605c36 frameborder=0>
 - entry_name: |
-    Meirl
-  entry_id: 88tahj
+    Being sisters means you always have backup (against the neighbors dog)
+  entry_id: 88w1bx
   entry_content: |
-    <img src=https://i.redditmedia.com/KOcSDu8CdOiKYXfIyzNrtpnHah44zp9NeUrfWNqYJxQ.jpg?s=c47a15bf6c5b740b1f7a6ce893d19724 frameborder=0>
-- entry_name: |
-    DoubleLift's Statement on his Family
-  entry_id: 88vzaw
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/QOxs4_JT_i-Cv6qByhkGz2Ar4rSrKKA31ijX4nExWMQ.jpg?s=057ed4e3a6879efb73a3b4394da9c377 frameborder=0>
 - entry_name: |
     Good boy defends himself from being eaten alive
   entry_id: 88y21x
   entry_content: |
     <img src=https://i.redditmedia.com/KOFrUm0YXENNzRn-syqxRHmihMx84oVaGsKP8mHQc5o.gif?fm=jpg&s=26538c2d2f4153f58828c64de39e8274 frameborder=0>
+- entry_name: |
+    News Anchors Reciting Sinclair Propaganda Is Even More Terrifying in Unison
+  entry_id: 88tgag
+  entry_content: |
+    <img src=https://i.redditmedia.com/Jmk3gJhP5_gBCRgAyTMyIsvinWLoHXQ0QM2OEzgkGRs.jpg?s=64b93deb3f5aa54e628dccb689eb99a6 frameborder=0>
+- entry_name: |
+    DoubleLift's Statement on his Family
+  entry_id: 88vzaw
+  entry_content: |
+    null
 - entry_name: |
     Too true...
   entry_id: 88upn1
@@ -108,20 +103,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3enifskxqgp01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    In a study, researchers suggest that investing in public education can lead to more upward economic mobility and lower teen pregnancy rates, as well as provide a way to ease income inequality.
+  entry_id: 88ys8z
+  entry_content: |
+    <img src=https://i.redditmedia.com/c3S2WV5BUE4dT8ApRcGEAyDBK5dVg7HhufFqyozjFpE.jpg?s=836927528be1af69f75675da5783ae63 frameborder=0>
+- entry_name: |
     A purrfectly executed about-face
   entry_id: 88uqmg
   entry_content: |
     <iframe src=https://v.redd.it/3wqjw8qomdp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    If this post gets 32768 upvotes, I'll post it again with 32768 Merrills.
-  entry_id: 88u8fo
-  entry_content: |
-    <img src=https://i.redditmedia.com/hrqjhy9oUOMHaMvoJGGgI9gzJEn9bWWnn8btykK0Fog.png?s=8183a25f99b3f4dab2026853bb8befa6 frameborder=0>
-- entry_name: |
     HEY! He's with me
   entry_id: 88v44x
   entry_content: |
     <iframe src=https://v.redd.it/gbal29eswdp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    If this post gets 32768 upvotes, I'll post it again with 32768 Merrills.
+  entry_id: 88u8fo
+  entry_content: |
+    <img src=https://i.redditmedia.com/hrqjhy9oUOMHaMvoJGGgI9gzJEn9bWWnn8btykK0Fog.png?s=8183a25f99b3f4dab2026853bb8befa6 frameborder=0>
 - entry_name: |
     Full of puppies
   entry_id: 88vuae
@@ -133,29 +133,19 @@ data:
   entry_content: |
     null
 - entry_name: |
-    In a study, researchers suggest that investing in public education can lead to more upward economic mobility and lower teen pregnancy rates, as well as provide a way to ease income inequality.
-  entry_id: 88ys8z
-  entry_content: |
-    <img src=https://i.redditmedia.com/c3S2WV5BUE4dT8ApRcGEAyDBK5dVg7HhufFqyozjFpE.jpg?s=836927528be1af69f75675da5783ae63 frameborder=0>
-- entry_name: |
-  entry_id: 88um8f
-  entry_content: |
-    <img src=https://i.redditmedia.com/Lsn4EuTEKue_kL2RAc5R2v0YgfxKD9wVQZdHcb-KnQc.jpg?s=ea7aee6b8acf22d8ce19a1691cbf3876 frameborder=0>
-- entry_name: |
     New York passes bill to strip all guns from domestic abusers
   entry_id: 88ymwv
   entry_content: |
     <img src=https://i.redditmedia.com/UWu7DCOns2vkPiVTNSicn4XyaAwrHaanCadtGJYpyU8.jpg?s=1f256c09fecf8b165cd82b2c722c4cf5 frameborder=0>
 - entry_name: |
+  entry_id: 88um8f
+  entry_content: |
+    <img src=https://i.redditmedia.com/Lsn4EuTEKue_kL2RAc5R2v0YgfxKD9wVQZdHcb-KnQc.jpg?s=ea7aee6b8acf22d8ce19a1691cbf3876 frameborder=0>
+- entry_name: |
     “Ok little human, we can be friends”
   entry_id: 88vjwn
   entry_content: |
     <iframe src=https://v.redd.it/h3x7derz8ep01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Thought it would fit here
-  entry_id: 88tadt
-  entry_content: |
-    <img src=https://i.redditmedia.com/7EdmKcY3yqqK09U1qv47Yl8Y9nCA4IexzluNLbIjii0.jpg?s=f495c10bc36456bea90a54fe03a00ba1 frameborder=0>
 - entry_name: |
     In the Harry Potter film series, The titles all include “Harry Potter” this is a subtle nod to the name of Harry Potter the main character of the series.
   entry_id: 88tpwe
@@ -202,6 +192,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/isyl4d4zzdp01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Today is my 22nd Birthday, I want to share with you last year when I celebrated my birthday and becoming a U.S citizen on the same day
+  entry_id: 88zc13
+  entry_content: |
+    <img src=https://i.redditmedia.com/fXfTAz7iy_CppLLYgKrnSR3xVGfiVElzcbLj2tn3TWU.jpg?s=c9aa59702c0b1d8ef6422497fbc8e950 frameborder=0>
+- entry_name: |
     Simce we're doing progress pics... Heres my first tumor removal surgery, second, now im looking today.
   entry_id: 88wtmj
   entry_content: |
@@ -211,6 +206,11 @@ data:
   entry_id: 88vyc7
   entry_content: |
     <img src=https://i.redditmedia.com/66nMjhBGRoRcb4tW1pQUctvqs3tYwSeMyaleQn1T4ro.jpg?s=770318815a5650f3b1e438a65fdbaaf6 frameborder=0>
+- entry_name: |
+    My granddad's tool collection in his shed
+  entry_id: 88y9s9
+  entry_content: |
+    <img src=https://i.redditmedia.com/tw76NR7YB91_Vp9sMudcY8-Uhy4PwhTAn9WBpXF6loc.jpg?s=ac714682e59b09ffbd93236b6a469459 frameborder=0>
 - entry_name: |
     My mom and her kittens - 1985
   entry_id: 88w03y
@@ -227,15 +227,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rK8CL33ZlXjzUPA2poFWZZXJwc2x9EvzkjLIfwzlVZk.png?s=39f0092a92870bd526c2d75f8ea97c24 frameborder=0>
 - entry_name: |
-    When you realize you've earned over 28k karma and gold with a sequel meme
-  entry_id: 88wsq0
-  entry_content: |
-    <img src=https://i.redditmedia.com/KaMZZeIca6bCx8XZ3KlC8Ggb_xftj78Ta0PkcRvwc1M.jpg?s=b25480600f3889a327fb43da14b37801 frameborder=0>
-- entry_name: |
     As I get older and remember all the people I've lost along the way, I think to myself...
   entry_id: 88xgxq
   entry_content: |
     null
+- entry_name: |
+    When you realize you've earned over 28k karma and gold with a sequel meme
+  entry_id: 88wsq0
+  entry_content: |
+    <img src=https://i.redditmedia.com/KaMZZeIca6bCx8XZ3KlC8Ggb_xftj78Ta0PkcRvwc1M.jpg?s=b25480600f3889a327fb43da14b37801 frameborder=0>
 - entry_name: |
     Federal court rules government can't block detained immigrant teens from abortion
   entry_id: 88v07e
@@ -247,8 +247,8 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/mgqavywlbep01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    My granddad's tool collection in his shed
-  entry_id: 88y9s9
+    Making Floating Glass Dolls
+  entry_id: 88vrd1
   entry_content: |
-    <img src=https://i.redditmedia.com/tw76NR7YB91_Vp9sMudcY8-Uhy4PwhTAn9WBpXF6loc.jpg?s=ac714682e59b09ffbd93236b6a469459 frameborder=0>
+    <iframe src=https://v.redd.it/257la2gveep01/DASH_600_K frameborder=0></iframe>
 ---
