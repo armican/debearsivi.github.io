@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PQypfVZ8YJUhHOWeDqAqWMaf1VpNCvkNGFFgivGgOwo.jpg?s=17305727eb1270fba57f116b1c208154 frameborder=0>
 - entry_name: |
-    Jokes on you!
-  entry_id: 88sj1v
-  entry_content: |
-    <img src=https://i.redditmedia.com/YaMUBXVOnExktnRbizIkjmmY21X8Zls9e5k7eDco1VM.jpg?s=94a04931fcf7bc933f8975707bb34616 frameborder=0>
-- entry_name: |
     Barack Obama. Upvote this so that people see it when they Google “Barack Obama”.
   entry_id: 88v20v
   entry_content: |
@@ -118,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GcFmc3UlbJmwqOS6XVxGmG8txAL_ctH-in_R9qtkASI.jpg?s=b31bad057f59035fc81736b64f0fdf7f frameborder=0>
 - entry_name: |
-    Upvote this so that people see it when they Google infinity war.
-  entry_id: 88sidp
-  entry_content: |
-    <img src=https://i.redditmedia.com/U1N31jjK_SbuCt10ZFgH0tBUcqx0sXw3CM4pkdYC1KE.jpg?s=e560a29144cd665aa17277e677536e72 frameborder=0>
-- entry_name: |
     TIL the Nazis took over a high-end Berlin brothel commonly used by prominent Germans and foreign dignitaries, replaced all the prostitutes with spies, and continued business until a British air raid demolished the building in 1942
   entry_id: 88y17o
   entry_content: |
@@ -187,11 +177,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UWu7DCOns2vkPiVTNSicn4XyaAwrHaanCadtGJYpyU8.jpg?s=1f256c09fecf8b165cd82b2c722c4cf5 frameborder=0>
 - entry_name: |
-    Russian bots are rallying behind embattled Fox News host Laura Ingraham as advertisers dump her show -- A website that monitors Russia's disinformation campaign found that @ingrahamangle, @davidhogg11, and @foxnews were among the top six Twitter handles that Russia-linked accounts have tweeted at
-  entry_id: 88sjjl
-  entry_content: |
-    <img src=https://i.redditmedia.com/eV_0WjnUKJ8EZaImmljCqD08DlwgCefQuOrTK1fumWo.jpg?s=7596eb67f3c5d98c1f6f3f81f03f7cf9 frameborder=0>
-- entry_name: |
     In the Harry Potter film series, The titles all include “Harry Potter” this is a subtle nod to the name of Harry Potter the main character of the series.
   entry_id: 88tpwe
   entry_content: |
@@ -232,11 +217,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/isyl4d4zzdp01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    My uncle upped his battle with the squirrels raiding the feed birder to the next level using...olive oil
-  entry_id: 88sjjo
-  entry_content: |
-    <img src=https://i.redditmedia.com/wgJ-4rBKTWHNiDM1YcB05IO77uh6KXiq8vRbjOCo_uU.gif?fm=jpg&s=73d02b363b275fb9d3a6d618644ded35 frameborder=0>
-- entry_name: |
     Simce we're doing progress pics... Heres my first tumor removal surgery, second, now im looking today.
   entry_id: 88wtmj
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 88xtz9
   entry_content: |
     <img src=https://i.redditmedia.com/dCGcQgeviUvuV67gRq8L89NSzHt_jBJzPvZD7qAN938.jpg?s=b3a47d1d0b324dabca0560607ee67501 frameborder=0>
+- entry_name: |
+    LPT: did you buy a 6-pack of cans with the plastic tie holding them together? Do a bird, turtle, or fish a favor and snip the circular loops before throwing it out so they don’t get caught up in it.
+  entry_id: 88vyc7
+  entry_content: |
+    <img src=https://i.redditmedia.com/66nMjhBGRoRcb4tW1pQUctvqs3tYwSeMyaleQn1T4ro.jpg?s=770318815a5650f3b1e438a65fdbaaf6 frameborder=0>
+- entry_name: |
+    My mom and her kittens - 1985
+  entry_id: 88w03y
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2LLzbwg_tcqQiIhTLM5xEdMQkSIORGiu24gKpE5P5M.png?s=9d82837cd52c8c35df8353f01ffcbbc3 frameborder=0>
+- entry_name: |
+    Students studying at a school in USA
+  entry_id: 88tetw
+  entry_content: |
+    <img src=https://i.redditmedia.com/HJ0xbONMb_dwD4-HqcNb_tOReN060O9UP_q_tpXoXT0.jpg?s=fd5fb2380385dd5ed6aca50cdb1eb168 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 88ssqn
+  entry_content: |
+    <img src=https://i.redditmedia.com/6SRAhqY1M5sPrp-OM3Kj1PyLxYhF1gtklBC-9qtuqIs.jpg?s=26eabb4c20350de39e5a151c429b0bfa frameborder=0>
 ---
