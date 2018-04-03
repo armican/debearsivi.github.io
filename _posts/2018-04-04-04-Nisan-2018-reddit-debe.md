@@ -238,11 +238,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hG_7E8W1H0uym5i2BaKwGYBr-pbGwKW_72XP5R_gTMo.jpg?s=f1dfa749ec18214b357278828ffd29e4 frameborder=0>
 - entry_name: |
-    Geometric Satisfaction...
-  entry_id: 899z6y
-  entry_content: |
-    <iframe src=https://v.redd.it/3av3vhozmmp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Maybe Someday
   entry_id: 897643
   entry_content: |
@@ -252,4 +247,8 @@ data:
   entry_id: 897uq9
   entry_content: |
     <img src=https://i.redditmedia.com/L97unpqYfqf5XEGdz4wEbKK6yeGjspQRdOtabDZzT3Q.jpg?s=11d10193540891f6f451b7deb7203426 frameborder=0>
+- entry_name: |
+  entry_id: 89703j
+  entry_content: |
+    <img src=https://i.redditmedia.com/72dzqtRQby6f6KVkZ0gTs9lAsud3SgoGBAi9LqGF6V0.jpg?s=1d4a989dca958db1f2a7b9285498973f frameborder=0>
 ---
