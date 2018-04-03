@@ -23,15 +23,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fkicx12rwjp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Getting on the green with style
+  entry_id: 8986rt
+  entry_content: |
+    <iframe src=https://v.redd.it/ne0r3accwlp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     You can buy beer on my daughter’s toy cash register
   entry_id: 8975j5
   entry_content: |
     <img src=https://i.redditmedia.com/GQImOWeErBjx4wBoT-jNzGDcisMjDy_JsORkbKYnP5A.jpg?s=2c7d583eb9229b29b2a8cb29bdf05095 frameborder=0>
 - entry_name: |
-    Getting on the green with style
-  entry_id: 8986rt
+    It's the little things in life
+  entry_id: 89b4u5
   entry_content: |
-    <iframe src=https://v.redd.it/ne0r3accwlp01/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/krlnahtxbnp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Uhhh, Dora?
   entry_id: 896yzn
@@ -43,35 +48,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nCYqV37Iir0RNiLU8xZUwA63ENk9iIM-FgGxiwClJAg.jpg?s=ba48184ab4e48c189f8f483f85ce2baf frameborder=0>
 - entry_name: |
-    It's the little things in life
-  entry_id: 89b4u5
+    What I'd do with a portal gun
+  entry_id: 89bs1y
   entry_content: |
-    <iframe src=https://v.redd.it/krlnahtxbnp01/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/ufgedimxtnp01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     A fiber-optic image conduit on a page
   entry_id: 895z64
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnnaturalDemandingHarrierhawk&url=https%3A%2F%2Fgfycat.com%2FUnnaturalDemandingHarrierhawk&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnnaturalDemandingHarrierhawk-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    So happy for them.
-  entry_id: 892obp
-  entry_content: |
-    <img src=https://i.redditmedia.com/7_2C3T-RhMAdqnVAdFIbku-gfNeovb62-BERR42xeHE.jpg?s=d451d9028afa6cf6d95fb16f27f61211 frameborder=0>
-- entry_name: |
     Get bamboozled
   entry_id: 897huu
   entry_content: |
     <img src=https://i.redditmedia.com/eQOpPY2V7BPG1i6Ox_Rjd_mLzgJeMotZAQluhLwHPQU.jpg?s=4274743c7f850b79a4c1fe4489077993 frameborder=0>
 - entry_name: |
+    So happy for them.
+  entry_id: 892obp
+  entry_content: |
+    <img src=https://i.redditmedia.com/7_2C3T-RhMAdqnVAdFIbku-gfNeovb62-BERR42xeHE.jpg?s=d451d9028afa6cf6d95fb16f27f61211 frameborder=0>
+- entry_name: |
     The first crime committed in year 2000 was very briefly The crime of the century
   entry_id: 895pqt
   entry_content: |
     null
-- entry_name: |
-    What I'd do with a portal gun
-  entry_id: 89bs1y
-  entry_content: |
-    <iframe src=https://v.redd.it/ufgedimxtnp01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     I'll just break check this truck, WCGW?
   entry_id: 896fm2
@@ -88,15 +88,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8sa08tzmnlp01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    The most beautiful flower in the garden
+  entry_id: 89atfs
+  entry_content: |
+    <img src=https://i.redditmedia.com/yC7mbjCd5f_C3GpcmtPg0O7nP6tj4JmkkgrWlLKines.jpg?s=28af94b7863b2f5498672ee8ccb33ad9 frameborder=0>
+- entry_name: |
     Dan Rather knows where we're heading.
   entry_id: 89873c
   entry_content: |
     <img src=https://i.redditmedia.com/d2UKRIxX94c3FEvLovSNYm-wGamMryHGodThiYQfTH8.jpg?s=edd8e28154eb324ffb7429a0e6912396 frameborder=0>
 - entry_name: |
-    The most beautiful flower in the garden
-  entry_id: 89atfs
+    Indian Wonder Woman
+  entry_id: 89by28
   entry_content: |
-    <img src=https://i.redditmedia.com/yC7mbjCd5f_C3GpcmtPg0O7nP6tj4JmkkgrWlLKines.jpg?s=28af94b7863b2f5498672ee8ccb33ad9 frameborder=0>
+    <img src=https://i.redditmedia.com/Iph8fa3dEpOGLshlYBnb4xNDSQ2Dsf1iE0yEMTtzwMM.jpg?s=e17bc419abdd10f8c250eea1c8188285 frameborder=0>
 - entry_name: |
     Freshmen are ruthless
   entry_id: 897fud
@@ -113,45 +118,50 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lavf916q0lp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    At least someone gets it
+  entry_id: 89bnh6
+  entry_content: |
+    <img src=https://i.redditmedia.com/KsME520YoCVqVRgS3s_kFzntMvpiMfSFYv70zuZLlsU.jpg?s=a1efa1f28d0d9136bfbc3c176215f885 frameborder=0>
+- entry_name: |
     I have an Ohio license plate from every year made, except the first year, 1908
   entry_id: 89690j
   entry_content: |
     <img src=https://i.redditmedia.com/i2Qup55BASNBbehOfcnt6lfpcLBxHDb00aE30BCUSGE.jpg?s=7176dcd2efaca7e89cf9d0f77d1a1b39 frameborder=0>
-- entry_name: |
-    Rhino tosses a warthog up in the air like a ragdoll
-  entry_id: 8976x3
-  entry_content: |
-    <iframe src=https://v.redd.it/axveyff4jlp01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     International space station sunrise view.
   entry_id: 8970uu
   entry_content: |
     <iframe src=https://v.redd.it/rdmgn5o32lp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Rhino tosses a warthog up in the air like a ragdoll
+  entry_id: 8976x3
+  entry_content: |
+    <iframe src=https://v.redd.it/axveyff4jlp01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     When you step into the wrong hood without thinking
   entry_id: 896o3o
   entry_content: |
     <img src=https://i.redditmedia.com/_Mi4L_YXrBKVQDqFam68A2ovkLrMSS133AwT4cL-cwY.jpg?s=0e03bd246a86ace647fd14a9b416f3b8 frameborder=0>
+- entry_name: |
+    TIL Robin Williams wanted to play Hagrid in the Harry Potter films, but was turned down because J.K. Rowling and director Chris Columbus only wanted British and Irish actors.
+  entry_id: 89ch6b
+  entry_content: |
+    <img src=https://i.redditmedia.com/mrqgb3QlAVddrJAKqftrY58icYCIP_u0YlvYPe73Yjg.jpg?s=8ea4ea848afb228ea046dbf721823e33 frameborder=0>
 - entry_name: |
     Kid helps dog enter the house
   entry_id: 896edi
   entry_content: |
     <iframe src=https://v.redd.it/2ujk8jzozkp01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    The way the tile installer continued around the corner. A lot of times they don't do this.
-  entry_id: 8973eh
-  entry_content: |
-    <img src=https://i.redditmedia.com/KUU7fG0G7fi69nQUc3e0fDaVURDMSa23z6jb95vGUzA.jpg?s=5e1918c7eddf1a77624ea553321ea6a0 frameborder=0>
-- entry_name: |
     hmmm
   entry_id: 89778p
   entry_content: |
     <img src=https://i.redditmedia.com/Q3rxFj5U41lwoLZ8Vn4QXv02ZKgyCX-k4DbQAyNMm24.jpg?s=29fae235e6a27178afa32015be97d5ed frameborder=0>
 - entry_name: |
-    At least someone gets it
-  entry_id: 89bnh6
+    The way the tile installer continued around the corner. A lot of times they don't do this.
+  entry_id: 8973eh
   entry_content: |
-    <img src=https://i.redditmedia.com/KsME520YoCVqVRgS3s_kFzntMvpiMfSFYv70zuZLlsU.jpg?s=a1efa1f28d0d9136bfbc3c176215f885 frameborder=0>
+    <img src=https://i.redditmedia.com/KUU7fG0G7fi69nQUc3e0fDaVURDMSa23z6jb95vGUzA.jpg?s=5e1918c7eddf1a77624ea553321ea6a0 frameborder=0>
 - entry_name: |
     Saudi crown prince says Israelis, Palestinians both have 'right to have their own land'
   entry_id: 896z2v
@@ -163,15 +173,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/H1hrOze-GA4pXVNmnExj2GWjZUUMl-zlI_8F2ONwHKY.jpg?s=c00d166dff54f3cf77a34ef8047d4071 frameborder=0>
 - entry_name: |
-    Indian Wonder Woman
-  entry_id: 89by28
+    Cat hiccups
+  entry_id: 89c8o6
   entry_content: |
-    <img src=https://i.redditmedia.com/Iph8fa3dEpOGLshlYBnb4xNDSQ2Dsf1iE0yEMTtzwMM.jpg?s=e17bc419abdd10f8c250eea1c8188285 frameborder=0>
+    <iframe src=https://v.redd.it/kvww0c6o3op01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     If you can watch porn on your TV, in the living room, with the volume up, without worrying about getting seen or heard, your living situation is probably in the top percentile of the world
   entry_id: 897i1m
   entry_content: |
     null
+- entry_name: |
+    Oh no...
+  entry_id: 89aw49
+  entry_content: |
+    <img src=https://i.redditmedia.com/tugdO5CyJ9bEzKVA1pW3AZNTt6C0blnIVxuvhAfXGQA.jpg?s=4f81cd06b6fb2b1d7c098e01ecc1b85b frameborder=0>
+- entry_name: |
+    Machine designed to clean lakes and rivers from trash
+  entry_id: 89cosh
+  entry_content: |
+    <iframe src=https://v.redd.it/oxv0gvkuhop01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Not bad for my first day of unemployment
   entry_id: 8974ul
@@ -183,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KzvuLEp7xzK6cHi7RJwq-lgRM15IbqI0XADz4zkrmHE.jpg?s=cb643c3b8e9ace25ec458b47de8d4ba4 frameborder=0>
 - entry_name: |
-    Oh no...
-  entry_id: 89aw49
-  entry_content: |
-    <img src=https://i.redditmedia.com/tugdO5CyJ9bEzKVA1pW3AZNTt6C0blnIVxuvhAfXGQA.jpg?s=4f81cd06b6fb2b1d7c098e01ecc1b85b frameborder=0>
-- entry_name: |
     How many introverts does it take to change a lightbulb?
   entry_id: 8977ym
   entry_content: |
@@ -198,57 +213,42 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KXMr2fZpv6r0yzrjleFns_U-huqePGZR1SjxsI3nkrc.png?s=8aeecd8fcf6d6c9d89fc7ba1421003e9 frameborder=0>
 - entry_name: |
+  entry_id: 89703j
+  entry_content: |
+    <img src=https://i.redditmedia.com/72dzqtRQby6f6KVkZ0gTs9lAsud3SgoGBAi9LqGF6V0.jpg?s=1d4a989dca958db1f2a7b9285498973f frameborder=0>
+- entry_name: |
+    Ah! Victory.
+  entry_id: 89cu0b
+  entry_content: |
+    <img src=https://i.redditmedia.com/RZFtXo2z1_4vK3v6wJpBh_UDPQKH6DofVqgxfNTbwsY.jpg?s=5ef21169809a3013fe312564ab86581a frameborder=0>
+- entry_name: |
     me_irl
   entry_id: 896di1
   entry_content: |
     <img src=https://i.redditmedia.com/AGv1Tkn5U1WDI48ibwST4KrwRbLaNbaXD-RQTI74l3Y.jpg?s=e3c883e9de55faee6121132e93a87950 frameborder=0>
-- entry_name: |
-  entry_id: 89703j
-  entry_content: |
-    <img src=https://i.redditmedia.com/72dzqtRQby6f6KVkZ0gTs9lAsud3SgoGBAi9LqGF6V0.jpg?s=1d4a989dca958db1f2a7b9285498973f frameborder=0>
 - entry_name: |
     TIL that Alexander Fleming discovered penicillin, but never tried to make an antibiotic out of it. It was not until a decade later that a man named Howard Florey found Fleming's little-known paper and realized the mold's potential. Florey's work is estimated to have saved up to 200,000,000 lives.
   entry_id: 897pkw
   entry_content: |
     <img src=https://i.redditmedia.com/huWjjgMbfotjtorCocDO0WWvj05PuyTTeutKPUU5-bQ.jpg?s=bda2110c2b933a286e3e12326bf43479 frameborder=0>
 - entry_name: |
-    Unusual cardiovascular exercise machine
-  entry_id: 896g12
+    Jeff Sessions Quietly Appointed a Prosecutor to Probe POTUS’ Foes. That Could Be an Unprecedented Disaster.
+  entry_id: 89cki2
   entry_content: |
-    <iframe src=https://v.redd.it/upkwp7jz0lp01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/N9iyVIyy_7Sr5iJX9G5lofRD1lg__Kqe77q0V3CZinE.jpg?s=455ce525f0558a4398384b28830e444e frameborder=0>
 - entry_name: |
     Saw this on here but never imagined it would work this well
   entry_id: 897uq9
   entry_content: |
     <img src=https://i.redditmedia.com/L97unpqYfqf5XEGdz4wEbKK6yeGjspQRdOtabDZzT3Q.jpg?s=11d10193540891f6f451b7deb7203426 frameborder=0>
 - entry_name: |
+    Unusual cardiovascular exercise machine
+  entry_id: 896g12
+  entry_content: |
+    <iframe src=https://v.redd.it/upkwp7jz0lp01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     🔥 White Raven
   entry_id: 8979wy
   entry_content: |
     <img src=https://i.redditmedia.com/QEbCYFl67F_jdzNjkM3z7zJtcirh0rjyQmeexKhTPYQ.jpg?s=64c6024429c1b29d7821dab6a2159906 frameborder=0>
-- entry_name: |
-    TIL Robin Williams wanted to play Hagrid in the Harry Potter films, but was turned down because J.K. Rowling and director Chris Columbus only wanted British and Irish actors.
-  entry_id: 89ch6b
-  entry_content: |
-    <img src=https://i.redditmedia.com/mrqgb3QlAVddrJAKqftrY58icYCIP_u0YlvYPe73Yjg.jpg?s=8ea4ea848afb228ea046dbf721823e33 frameborder=0>
-- entry_name: |
-    Jill McCabe: The president attacked my reputation. It’s time to set the record straight.
-  entry_id: 896cts
-  entry_content: |
-    <img src=https://i.redditmedia.com/xYfejdxL4d-_ttXJbVNUpaJcvHyZdooouTFJ61Pu3L8.jpg?s=ae0497cb9efdcf0d02aa2af585493ddf frameborder=0>
-- entry_name: |
-    Restaurant bathroom was made entirely out of copper - this was the ceiling.
-  entry_id: 896uh3
-  entry_content: |
-    <img src=https://i.redditmedia.com/Nd_O-ylO2yZ-1V5TDcv024K4GL9TLJl8ul3LLVhKnKg.jpg?s=ef93606bc2622dc7344ac2237406e23a frameborder=0>
-- entry_name: |
-    Machine designed to clean lakes and rivers from trash
-  entry_id: 89cosh
-  entry_content: |
-    <iframe src=https://v.redd.it/oxv0gvkuhop01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Geometric Satisfaction...
-  entry_id: 899z6y
-  entry_content: |
-    <iframe src=https://v.redd.it/3av3vhozmmp01/DASH_4_8_M frameborder=0></iframe>
 ---
