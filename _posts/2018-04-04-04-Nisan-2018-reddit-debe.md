@@ -183,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tugdO5CyJ9bEzKVA1pW3AZNTt6C0blnIVxuvhAfXGQA.jpg?s=4f81cd06b6fb2b1d7c098e01ecc1b85b frameborder=0>
 - entry_name: |
-    Because no UPS man is an island...
-  entry_id: 89cern
-  entry_content: |
-    <img src=https://i.redditmedia.com/Vo2plIZkmrdIQoqgpYaJfoulURCt5W2diBjVyWiD1k0.jpg?s=dfc6f89b6cea63da1284840380bc7c15 frameborder=0>
-- entry_name: |
     If you can watch porn on your TV, in the living room, with the volume up, without worrying about getting seen or heard, your living situation is probably in the top percentile of the world
   entry_id: 897i1m
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 89ci31
   entry_content: |
     <iframe src=https://v.redd.it/hy52qae01op01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Unusual cardiovascular exercise machine
+  entry_id: 896g12
+  entry_content: |
+    <iframe src=https://v.redd.it/upkwp7jz0lp01/DASH_4_8_M frameborder=0></iframe>
 ---
