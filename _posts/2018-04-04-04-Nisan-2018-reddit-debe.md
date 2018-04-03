@@ -78,11 +78,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLonelyPowerfulBirdofparadise&url=https%3A%2F%2Fgfycat.com%2FLonelyPowerfulBirdofparadise&image=https%3A%2F%2Fthumbs.gfycat.com%2FLonelyPowerfulBirdofparadise-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=373 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Same goes for Snapchat
-  entry_id: 891zle
-  entry_content: |
-    <img src=https://i.redditmedia.com/_dkrZPkzJav1sfwHkR0Gf9A1CBrgwZMUg1_dWinyQJs.jpg?s=ce09eee9de03b4af993fb792e19d969a frameborder=0>
-- entry_name: |
     Life lesson here: Don't be an asshole
   entry_id: 8969gb
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8979wy
   entry_content: |
     <img src=https://i.redditmedia.com/QEbCYFl67F_jdzNjkM3z7zJtcirh0rjyQmeexKhTPYQ.jpg?s=64c6024429c1b29d7821dab6a2159906 frameborder=0>
+- entry_name: |
+    Geometric Satisfaction...
+  entry_id: 899z6y
+  entry_content: |
+    <iframe src=https://v.redd.it/3av3vhozmmp01/DASH_4_8_M frameborder=0></iframe>
 ---
