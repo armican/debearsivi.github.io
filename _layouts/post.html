@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/Article" class="post">
+<article itemscope itemtype="http://schema.org/Article">
  {% for i in page.data %}
       <li class="entry_li card">
         <a class="entry_list card-header" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
