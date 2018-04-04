@@ -3,110 +3,138 @@ layout: post
 title: 05 Nisan 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    yedi buçuk ayda 115 kilo vermek
+  entry_id:  75698878
+  entry_writer: bronenosets potyomkin
+  entry_fav_count: 537
+  entry_content: |
+    üst edit: keyfimden kilo aldığımı belirten ve annesinin haşimato hastalığından bahseden olmuş, ben de hipotiroidi hastasıyım. tsh değerlerim 6-9 arasında geziyor en iyi durumda bile kendimi bildim bileli. insanların neler yaşadığını bilmeden yorum yapmak gerçekten kolay.<br/><br/>gerçekleştirdiğim eylem. temmuz ortasında(2017) 222 kilo iken mart başında(2018) 107 kilo idim ve cerrahın talebi üzerine kilomu sabitlemeye çalışıyorum bir süredir. bu operasyon için bir süre stabilizasyon gerektiğini söyledi. operasyondan sonra ömürlük beslenmeye dönünce hızla kilo artışı gibi endişeler mevcut tabii.<br/><br/>sözlüğü ilk defa özel bir iş için kullanmanın suçluluğu içerisinde sarkık derilerimi aldırmak ve yıllar boyu süren aşırı şişmanlığın getirdiği kas deformasyonlarının tamiri için bir sponsor ya da yol gösterici aramaktayım.<br/><br/>kiloları hiçbir cerrahi müdahale olmaksızın verdim. ketojenik ağırlıklı beslendim, <a class="b" href="/?q=intermittent+fasting">intermittent fasting</a> yaptım, günde 9 litreye yakın su içtim(şimdilerde 6'ya kadar düştü kilo azalınca tabii), günde 20 bin adım attım ve haftanın 6 günü ağırlık çalıştım(son 3 ayda kardiyo da katıldı buna).<br/><br/>sözlükte bir süre <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/72058958" title="https://eksisozluk.com/entry/72058958">raporlama</a> yapmışım, onu da şimdi hatırladım.<br/><br/>isteyenler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/dramatiktenor/" title="https://www.instagram.com/dramatiktenor/">instagram hesabımdan</a> süreç boyunca çektiğim fotoğrafları inceleyebilir. öyle before/after yapayım, çıplak çıplak günbegün değişim göstereyim gibi kaygım olmadı ve hayatın doğal akışı içerisinde çekilmiş fotoğraflarımı zaman zaman paylaştım hesapta.<br/><br/>amacıma geri döneyim; her gün plastik cerrahları konuk alan değişim temasıyla insanları bir dizi estetik operasyona tabi tutan tv programlarının hiçbirinden mesajlarıma yanıt alamadım ve hastanelere nasıl "gelin bana sponsor olun, ben ilginç bir şeyler başardım. size de faydası dokunur belki böyle bir şeyle anılmanın" denir bilmiyorum açıkçası. zaten şu entry de utana sıkıla giriliyor, emin olun. sonuç olarak yıllık 25 bin lira civarı geliri olan bir süreli sözleşmeli kamu personeli olarak 20-30 bin liralık ameliyat masraflarının altından kalkabileceğimi düşünmüyorum. bu rakam da üniversite hastanesi tarafından verildi, düşünün artık gerisini.<br/><br/>sözün hasılı; bu işi benim altından kalkabileceğim sembolik rakamlara(birkaç bin lira çıkar benden çıksa çıksa, o da taksitle) yapabilecek cerrah tanıdığı olan, hastane iletişimi olan, "şu mevzu duyulsa aslında yapacak birileri illaki çıkar" diyerek basın ile temas kurmamı sağlayabilecek çevresi olan suserlar için on yüz bin milyon iyilik point veren bir bonus olabilirim arzu ederlerse.<br/><br/>not: merak edenler için beslenme ya da spor düzenimin ayrıntılarını anlatabilirim, gerçekten de kilo vermek öyle atla deve bir şey değil. tabii önünüzde vermeniz gereken 100 kilodan fazla bir kitle varsa bayağı bayağı mumakil, ejderha falan olabiliyor.<br/><br/>alt edit: sayamayacağım kadar fazla destek mesajı geldi, herkese çok teşekkür ederim. ancak meselenin ne zaman değiştiğini yakalayamadım ben; "senden iyi kazanıyorum ama senin gibi güzel yaşamıyorum ben" eleştirisine kadar gitmiş iş. giydiğim kostümü eğlence sananlar için belirtme ihtiyacı hissettim; o kostümü işim gereği giydim, makyajı işim gereği yaptım. elbette internette her yazılıp çizileni dert etmek ortamın ruhunu anlayamamış olmanın bir tezahürü bir parça ama tanımadığım bu kadar çok insana hayatımı (instagram hesabım) daha önce açmamış olmanın getirdiği bir endişe hâli var. laf olsun diye sallayanlara açıklama ile geri dönersem gülünç bulmayın lütfen, alışık değilim. tekrardan teşekkürler.
+- entry_name: |
     26 nisan 2018 tekel bayileri eylemi
   entry_id:  75695088
   entry_writer: freelines
-  entry_fav_count: 528
+  entry_fav_count: 532
   entry_content: |
-    isyan bayrağını çeken tekel bayilerinin kepenk kapatma eylemi.<br/><br/>şöyle bir bildiri yayınlamışlar:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>haksız rekabet içinde kaybolan küçük esnaf için kepenk kapatıyoruz!<br/><br/>* alkol satış yasağı sebebiyle 22.00’dan sonra alkol vermediğimiz müşterilerin darbına maruz kaldığımız için kepenk kapatıyoruz!<br/><br/>* her sene sigara ve alkole uygulanan zamdan dolayı sahte içki ve kaçak sigaralara artan rağbet yüzünden kepenk kapatıyoruz!<br/><br/>* kırmızı ışıkta geçip insanların canına kasteden sürücü 235 tl, uyuşturucu madde satarak insanların sağlığını hayatını tehlikeye atan şahıslar 167 tl ceza öderken, vergisini ödeyip sattığımız bir biradan en az 37 bin tl ceza ödememek için kepenk kapatıyoruz!<br/><br/>* sokak aralarına kadar giren zincir marketlerin uygulamış olduğu fiyat politikaları yüzünden bu haksız rekabet ortamında mücadele gücümüz kalmadığından kepenk kapatıyoruz!<br/><br/>* saat 22.00’dan sonra alkol satış yasağını fırsata çevirmek isteyen art niyetli kişilerin esnafı sivil polisiz diye kandırmasından dolayı kepenk kapatıyoruz!<br/><br/>* bazı illerimizde emniyetin görev ve yetkilerini orantısız kullandığını gözlemlediğimiz için kepenk kapatıyoruz!<br/><br/>* trol ile balık avlamanın cezası 1750 tl ve hayvana tecavüz işkence bile kabahatler kanununa giriyor haksız emsalsiz cezalara dur demek için kepenk kapatıyoruz!<br/><br/>* televizyonlarda sigara ve alkol görüntüleri mozaiklenirken silahların alkole nazaran zararsızmış gibi gösterilmesi akıl tutulmasıdır. silah yakalatmak ufak para cezası ama 22.00’den sonra alkol satarken yakalanmak 36.758 tl olduğu için kepenk kapatıyoruz!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    <a class="b" href="/?q=%c3%bcstten+edit">üstten edit</a> : gerçekten çok absürt insanlar var. köşedeki büfecinin <a class="b" href="/?q=milyar+dolarl%c4%b1k+zincir+marketler">milyar dolarlık zincir marketler</a>le aynı fiyata ürün satmasını bekleyen mantık yoksunu tipler mi dersin, her halta itfaiye muhabbeti yapıp komik olduğunu sanan mı dersin, fikrini bile beyan etmekten yoksun tiplerin beter olsunlar diye kin kusması mı dersin. gerçekten bu ülkede absürtlük bulaşıcı sanırım.<br/><br/>bak güzel kardeşim, migros'da 1-2 lira düşük fiyata bira alabilirsin. evet serbest piyasa. kimse seni zorlamıyor büfeden al diye. ama saat 21.55 olduğunda migros'a giremiyorsun ve sigaranı biranı o büfeciden alıyorsun. adam orada o saatten sonra hizmet veriyorsa sen de bu hizmetten faydalanmak istiyorsan aradaki farka razı olursun. bu kadar basit. <br/><br/>not : tekel büfesi işletmiyorum. tekel büfesi sahibi bir akrabam yok. hatta tanıdığım bir tekel büfecisi bile yok.<br/><br/><a class="b" href="/?q=%c3%bcstten+editin+sonu">üstten editin sonu</a>.<br/><br/>--------<br/><br/>isyan bayrağını çeken tekel bayilerinin kepenk kapatma eylemi.<br/><br/>şöyle bir bildiri yayınlamışlar:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>haksız rekabet içinde kaybolan küçük esnaf için kepenk kapatıyoruz!<br/><br/>* alkol satış yasağı sebebiyle 22.00’dan sonra alkol vermediğimiz müşterilerin darbına maruz kaldığımız için kepenk kapatıyoruz!<br/><br/>* her sene sigara ve alkole uygulanan zamdan dolayı sahte içki ve kaçak sigaralara artan rağbet yüzünden kepenk kapatıyoruz!<br/><br/>* kırmızı ışıkta geçip insanların canına kasteden sürücü 235 tl, uyuşturucu madde satarak insanların sağlığını hayatını tehlikeye atan şahıslar 167 tl ceza öderken, vergisini ödeyip sattığımız bir biradan en az 37 bin tl ceza ödememek için kepenk kapatıyoruz!<br/><br/>* sokak aralarına kadar giren zincir marketlerin uygulamış olduğu fiyat politikaları yüzünden bu haksız rekabet ortamında mücadele gücümüz kalmadığından kepenk kapatıyoruz!<br/><br/>* saat 22.00’dan sonra alkol satış yasağını fırsata çevirmek isteyen art niyetli kişilerin esnafı sivil polisiz diye kandırmasından dolayı kepenk kapatıyoruz!<br/><br/>* bazı illerimizde emniyetin görev ve yetkilerini orantısız kullandığını gözlemlediğimiz için kepenk kapatıyoruz!<br/><br/>* trol ile balık avlamanın cezası 1750 tl ve hayvana tecavüz işkence bile kabahatler kanununa giriyor haksız emsalsiz cezalara dur demek için kepenk kapatıyoruz!<br/><br/>* televizyonlarda sigara ve alkol görüntüleri mozaiklenirken silahların alkole nazaran zararsızmış gibi gösterilmesi akıl tutulmasıdır. silah yakalatmak ufak para cezası ama 22.00’den sonra alkol satarken yakalanmak 36.758 tl olduğu için kepenk kapatıyoruz!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     4 nisan 2018 eğitimde yeni dönem müjdesi
   entry_id:  75695352
   entry_writer: noryth aquanum
-  entry_fav_count: 378
+  entry_fav_count: 381
   entry_content: |
     (bkz: <a class="b" href="/?q=m%c3%bcjdemi+isterim+%c3%a7ocu%c4%9fun+sike+sike+bu+okula+gidecek">müjdemi isterim çocuğun sike sike bu okula gidecek</a>)
 - entry_name: |
     hala kol saati takan insan
   entry_id:  75696645
   entry_writer: forrestgump
-  entry_fav_count: 338
+  entry_fav_count: 341
   entry_content: |
     aksesuar kelimesinin anlamını bilmeyen insanlar tarafından kol saati takması yadırganır.<br/><br/>kol saatini yadırgayan bu insanlar; kolye, küpe, bileklik, yüzük veya kol düğmesi gibi aksesuarların takılmasına da hiçbir anlam veremezler. çünkü onlara göre kot+tshirt+beyaz converse'den ötesi fonksiyonel değildir, fazlalıktır. <br/><br/>ayrıca saate bakmak için 6 inch'lik cep telefonunu cebinden çıkarıp ekranını açmak ve tekrar cebine sokmak "yersen" daha pratiktir.
-- entry_name: |
-    sevgilisinden ayrıldıktan 5 ay sonra evlenen kız
-  entry_id:  75691223
-  entry_writer: betamikrobu
-  entry_fav_count: 262
-  entry_content: |
-    benden ayrıldıktan iki hafta sonra nişanlanmış, 6 ay sonra da evlenmiş kızın belkide türdeşidir. <br/><br/>o zamanlar içinde bulunduğum maddi yokluk bahane edilmiş, yoğun baskıya maruz bırakılmış, bu baskının oluşturduğu stress bize ağır bir şekilde yansımış ve 4 küsür senelik ilişkimiz sonlanmıştır. <br/><br/>tabii bir süredir el altında tutulan "uygun" damat adaylarından biri kızımıza kabul ettirilmiş. "kutsal" evlilik kurumu kurulmuştur.
 - entry_name: |
     tarihte ilk kez türkiye dostumuz
   entry_id:  75703646
   entry_writer: enemy
-  entry_fav_count: 251
+  entry_fav_count: 267
   entry_content: |
     (bkz: <a class="b" href="/?q=inanma+seni+sikecek">inanma seni sikecek</a>)
+- entry_name: |
+    sevgilisinden ayrıldıktan 5 ay sonra evlenen kız
+  entry_id:  75691223
+  entry_writer: betamikrobu
+  entry_fav_count: 263
+  entry_content: |
+    benden ayrıldıktan iki hafta sonra nişanlanmış, 6 ay sonra da evlenmiş kızın belkide türdeşidir. <br/><br/>o zamanlar içinde bulunduğum maddi yokluk bahane edilmiş, yoğun baskıya maruz bırakılmış, bu baskının oluşturduğu stress bize ağır bir şekilde yansımış ve 4 küsür senelik ilişkimiz sonlanmıştır. <br/><br/>tabii bir süredir el altında tutulan "uygun" damat adaylarından biri kızımıza kabul ettirilmiş. "kutsal" evlilik kurumu kurulmuştur.
 - entry_name: |
     pastane poğaçasının mideyi yakması
   entry_id:  75694340
   entry_writer: degisimindengesi
-  entry_fav_count: 222
+  entry_fav_count: 229
   entry_content: |
     istisnalar hariç poğaça yemeyen birisinin tek seferde 5 tane poğaça gömmesi, midesinin yanmasına müstehaktır. nasıl kaldırdı miden diyeceğim de zaten kaldıramamış.
 - entry_name: |
     ikinci aleyna tilki vakası alper erözer
   entry_id:  75689627
   entry_writer: biralexdegilimtabiki
-  entry_fav_count: 188
+  entry_fav_count: 189
   entry_content: |
     abi aleyna o ses'e falan çıktı, kızın elinden tuttular, hatta haluk levent bile aleyna'ya ulaştığını, türkü söylemesi gerektiğini söylemişti. sonrası zaten biliyorsunuz 2 şarkısı totalde 700m civari dinlendi youtube'da. <br/><br/>ama bu çocuk kim amına koyayım? harbiden kim lan? popüler kültür medyasında benim gözümün önüne ilk defa geliyor. ben günde 16 saat internet kullanan adamım olum.. bu velet kim? ne ara bu kadar kişiye hitap edebildi? avm'nin içinde "beleş" de olsa o kadar çocuk nasıl oraya akın edebildi? <br/><br/>olm bu ülkede ünlü olmak, bi kesime hitap etmek çok kolay lan. piyasada tutunmak için çabalayan binlerce tiyatro öğrencisi, müzik öğrencileri, sokakta çalan adamlar var... ah ulan ahh.
 - entry_name: |
     iş hayatında çalışmaktan tiksindiren şeyler
   entry_id:  75695736
   entry_writer: cadillacman
-  entry_fav_count: 171
+  entry_fav_count: 175
   entry_content: |
     çalışılan iş yerinde sineğin yağının hesaplanması. az adamla çok iş yapılması. senin görev tanımında olmayan işlerin sana kilitlenmesi. karşılığında maddi olarak bunun takdir edilmemesi. tipik türk işi şark kurnazlıkları ve küçük hesaplar.
 - entry_name: |
     hayvan gibi kullanılırken tedavülden kalkan ürün
   entry_id:  75694910
   entry_writer: inflexibleuser
-  entry_fav_count: 170
+  entry_fav_count: 175
   entry_content: |
     demokrasi<br/><br/>belki de insan gibi degil hayvan gibi kullandığımız için artık kalmamıştır.
 - entry_name: |
     çaylak onay listesi
   entry_id:  75691766
   entry_writer: marjinalolamayaninsan
-  entry_fav_count: 155
+  entry_fav_count: 167
   entry_content: |
     eskiden olsa gelip burada uzun uzadıya nasıl yazacağınıza dair bilgiler, tüyolar verebilirdim. ama artık tek diyeceğim şu: kendinizi o kadar kasmayın; uzun, bilgi verici entryler girmenize hiç mi hiç gerek yok. çok çok üşengeç biri iseniz, rastgele klavye tuşlarına basarak da gayet tabii "yazar" olabilirsiniz. nasıl mı? buyurun:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/A1rMoQ">https://hizliresim.com/a1rmoq</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/JQbJ5E">https://hizliresim.com/jqbj5e</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/G9MAqv">https://hizliresim.com/g9maqv</a><br/><br/>"algoritma tarafından yazar olur belki, ama hemen işine aşık "moderatörler" fark edip uçururlar." diye düşünenler olursa, şunu da göstereyim: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/EP9d7D" title="https://hizliresim.com/EP9d7D">328 tane fark edilmeyen entrymsi</a> <br/><br/>son olarak şunu da paylaşayım da ağlanacak halimize gülelim.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/JQbbrE" title="https://hizliresim.com/JQbbrE">nasıl yazar olunur?</a>
 - entry_name: |
     ilker başbuğ'un gümbür gümbür gelmesi
   entry_id:  75702465
   entry_writer: garipbasci
-  entry_fav_count: 148
+  entry_fav_count: 153
   entry_content: |
     başbuğ hakkında fetö'nün açtığı davalardan biri hala devam ediyor bildiğim kadarı ile. son duruşmada davayı bilerek kapatmamışlardı. ellerinde bir koz olarak tutuyor olabilirler. çünkü bu ülkede adalet taraftarları olan bir spor dalıdır.
 - entry_name: |
     en cool erkek burcu
   entry_id:  75696866
   entry_writer: euronews
-  entry_fav_count: 147
+  entry_fav_count: 149
   entry_content: |
     hepiniz biliyorsunuz inkar etmeyin...<br/><br/>aslan burcu tabii ki..
-- entry_name: |
-    izmir'i akp'nin alması durumunda olacaklar
-  entry_id:  75702948
-  entry_writer: tirizettin
-  entry_fav_count: 111
-  entry_content: |
-    ev kiraları yükselir, başta araplar olmak üzere suriyeliler izmir'in tüm il merkezi ve ilçelerine yayılır. <br/><br/>bikini ile denize girilen bilumum sahilde haşemalılar cirit atmaya başlar. bunun sonucunda haremlik selamlık plajlar türer. <br/><br/>1+1 evlere inşaat yasağı gelir, alkollü mekan açılması zaten zorlaştırılmıştı, imkansız hale getirilir. kordon dediğiniz yerde mangal atanlar, arkasına 15 kişi toplayıp yeşliköy florya sahildeki gibi namaz kılanlar babasının malı gibi halıyı çaydanlıgı kapanlar toplaşır. <br/><br/>inşaat ekonomisi hızla göçe sebep olur. her boşluğa bir cami dikilir. ulaşım yalandan birkaç sene ucuz olur. sonra bol propaganda ve medya desteği ile halkın beynı yıkanmaya calısır. <br/><br/>3 sene sonra tıpkı istanbuldaki gibi tıkış tepiş bir metro yada metrobüs gibi bir araca binmek için 4 tl bayılırsın. <br/><br/>ak parti'li büyükşehir belediyesi demek günümüzde budur ne azı ne fazlası. <br/><br/>o yüzden büyük şehirlerde çözülmeler had safhada. en önemli şey ulaşım berbat.<br/><br/>bonus: imam hatipler. tüm anadolu liseleri, tıpkı çamlıca beşiktaş gibi anadolu imam hatip liselerine evrilir.
 - entry_name: |
     sanatçıların kemal kılıçdaroğlu'na verdiği ayar
   entry_id:  75708848
   entry_writer: roy halladay
-  entry_fav_count: 107
+  entry_fav_count: 135
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ibrahim tatlıses, sibel can, yavuz bingöl, cengiz kurdoğlu, mustafa sandal, coşkun sabah, ahmet şafak, esat kabaklı, alişan, seda sayan, altay, deniz seki, arif susam, hande yener, muazzez ersoy, şafak sezer, hülya koçyiğit, elif buse doğan, hakan peker, serkan çağrı, elif karlı, burcu kıratlı, emel müftüoğlu, ceyhun çelikten, necati şaşmaz, cahit kahyaoğlu, osman albayrak, ümit yılmaz<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>(bkz: <a class="b" href="/?q=yalaka">yalaka</a>)
+- entry_name: |
+    izmir'i akp'nin alması durumunda olacaklar
+  entry_id:  75702948
+  entry_writer: tirizettin
+  entry_fav_count: 117
+  entry_content: |
+    ev kiraları yükselir, başta araplar olmak üzere suriyeliler izmir'in tüm il merkezi ve ilçelerine yayılır. <br/><br/>bikini ile denize girilen bilumum sahilde haşemalılar cirit atmaya başlar. bunun sonucunda haremlik selamlık plajlar türer. <br/><br/>1+1 evlere inşaat yasağı gelir, alkollü mekan açılması zaten zorlaştırılmıştı, imkansız hale getirilir. kordon dediğiniz yerde mangal atanlar, arkasına 15 kişi toplayıp yeşliköy florya sahildeki gibi namaz kılanlar babasının malı gibi halıyı çaydanlıgı kapanlar toplaşır. <br/><br/>inşaat ekonomisi hızla göçe sebep olur. her boşluğa bir cami dikilir. ulaşım yalandan birkaç sene ucuz olur. sonra bol propaganda ve medya desteği ile halkın beynı yıkanmaya calısır. <br/><br/>3 sene sonra tıpkı istanbuldaki gibi tıkış tepiş bir metro yada metrobüs gibi bir araca binmek için 4 tl bayılırsın. <br/><br/>ak parti'li büyükşehir belediyesi demek günümüzde budur ne azı ne fazlası. <br/><br/>o yüzden büyük şehirlerde çözülmeler had safhada. en önemli şey ulaşım berbat.<br/><br/>bonus: imam hatipler. tüm anadolu liseleri, tıpkı çamlıca beşiktaş gibi anadolu imam hatip liselerine evrilir.
 - entry_name: |
     bilgisayar oyunlarında oyun amacının dışına çıkmak
   entry_id:  75703604
   entry_writer: jelibonpanda
-  entry_fav_count: 106
+  entry_fav_count: 108
   entry_content: |
     gta gibi oyunlarda trafik kurallarına ve lambalara uymaktır. sonra sıkılınca önünüze geleni tararsınız.
+- entry_name: |
+    ben aynısını 40 metreden ingiltere'ye attım
+  entry_id:  75707106
+  entry_writer: not just a dream izzet altinmese 2
+  entry_fav_count: 98
+  entry_content: |
+    şöyle kibirli konuşup, haklı olabilecek tek insan evladı zlatan. kendisi, daha güzel dediyse güzeldir, tartışılmaz.
+- entry_name: |
+    öğretmenlerin başörtüsü ile derse girmesi
+  entry_id:  75687657
+  entry_writer: shades of fucking grey
+  entry_fav_count: 89
+  entry_content: |
+    şurada eşitlik ve özgürlükten bahseden birçok kişi, çocuğu okula başladığında karşısında boynunda haç kolyesi olan bir öğretmen görse kıyametleri koparır. <br/><br/>arkadaşım sen ne dersen de, baş örtüsü bir dini semboldür. ben derse girdiğimde "ben ateistim" dediğimde "ateistsen ateistliğini kendine sakla, çocukların kafasını bulandıramazsın" karşılığını alırken başka bir öğretmen apaçık bir dini sembolle derse girip göğsünü gere gere "ben müslümanım" diyemez, çocuklara kendi dinini empoze edemez. o edebiliyorsa o zaman benim de dersimde "allah filan yok, küçücük beyinlerinizi 1500 yıllık arap yalanlarıyla doldurmayın" diyebilmem gerekir.<br/><br/>sizin eşitlik anlayışınız daha çok "hayvan çiftliği"ne benziyor. "herkes eşittir ama dinciler, akp'liler, yobazlar daha eşittir." diyorsunuz.
+- entry_name: |
+    tofaşla makas atarken taklaya gelen gençler
+  entry_id:  75708693
+  entry_writer: bibidibabidibu
+  entry_fav_count: 86
+  entry_content: |
+    ölmediklerine üzüldüğüm gençler. potansiyel birer katil olarak, trafikte kaldıkları yerden devam edeceklerine dair en ufak bir şüphem yok.
 - entry_name: |
     cristiano ronaldo'nun juventus'a attığı gol
   entry_id:  75687535
@@ -115,17 +143,10 @@ data:
   entry_content: |
     o topa bizim ligin forvetleri kafa vuramaz amk
 - entry_name: |
-    ben aynısını 40 metreden ingiltere'ye attım
-  entry_id:  75707106
-  entry_writer: not just a dream izzet altinmese 2
-  entry_fav_count: 82
-  entry_content: |
-    şöyle kibirli konuşup, haklı olabilecek tek insan evladı zlatan. kendisi, daha güzel dediyse güzeldir, tartışılmaz.
-- entry_name: |
     erkeklerdeki popo merakı
   entry_id:  75706662
   entry_writer: threex
-  entry_fav_count: 72
+  entry_fav_count: 74
   entry_content: |
     bir kadının önce poposuna sonra da bunun sahibi kim diye yüzüne bakarım, öyle bir şey işte bu merak. benim için parmak izi, kimlik numarası gibi bir şey. <br/><br/>şaka yapmıyorum, istanbul'da gördüğüm bir popoyu<sup class="ab"><a title="(bkz: bağyanı)" href="/?q=ba%c4%9fyan%c4%b1" data-query="bağyanı">*</a></sup> antalya'da<sup class="ab"><a title="(bkz: yüzünü daha sonra görerek direk poposundan)" href="/?q=y%c3%bcz%c3%bcn%c3%bc+daha+sonra+g%c3%b6rerek+direk+poposundan" data-query="yüzünü daha sonra görerek direk poposundan">*</a></sup> tanımışlığım var!
 - entry_name: |
@@ -136,82 +157,75 @@ data:
   entry_content: |
     özgürlükler ülkesi olan amerika'da, veya aşklar ülkesi olan fransa'da "bir ışidlinin annesini oynamayı çok isterdim. tam ışidli olacaktım babam beni kurtardı" dese başına ne gelecekse, türkiye'de başına daha azı gelmiş olan kişi..
 - entry_name: |
-    tofaşla makas atarken taklaya gelen gençler
-  entry_id:  75708693
-  entry_writer: bibidibabidibu
-  entry_fav_count: 64
+    ölümün en iyi tanımı
+  entry_id:  75688219
+  entry_writer: bazarovunfedaisi
+  entry_fav_count: 61
   entry_content: |
-    ölmediklerine üzüldüğüm gençler. potansiyel birer katil olarak, trafikte kaldıkları yerden devam edeceklerine dair en ufak bir şüphem yok.
-- entry_name: |
-    türk çocuklarının devlet eliyle araplaştırılması
-  entry_id:  75706563
-  entry_writer: sokrataristo
-  entry_fav_count: 62
-  entry_content: |
-    <a class="b" href="/?q=marihuanback">marihuanback</a>adlı arapsevici de gelmiş. hemen gereğini yapalım;<br/><br/>türklerin islamla şereflendiğini iddia etmek, sözü türklerin islamdan önce şerefsiz olduğuna getirmektir. arapperest olduğunuz kadar ırkçısınız da. çok şey yazardım da seni diğer yazarlara havale ediyorum. <br/><br/>macarlar nerede demiş. organizatörü oldukları turan kurultayı hakkında bilgi almak için buradan buyrun; <a rel="nofollow noopener" class="url" target="_blank" href="http://kurultaj.hu/bilgi/" title="http://kurultaj.hu/bilgi/">kurultáj</a><br/><br/>ortadoks hristiyan gagauz türkleriyle ilgili trt avazın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=btuc-OjrVno" title="https://www.youtube.com/watch?v=btuc-OjrVno">programı</a><br/><br/>nüfusları azalsa da hala varlıklarını koruyan, yahudi <a rel="nofollow noopener" class="url" target="_blank" href="http://www.salom.com.tr/haber-95894-karaylar_ve__hazar_turku__yahudileri.html" title="http://www.salom.com.tr/haber-95894-karaylar_ve__hazar_turku__yahudileri.html">karay türkleri</a><br/><br/>örnekleri arttırmak mümkün. 300 milyonluk bir ırktan bahsediyoruz. her din ve mezhepten insan var. bunların bir kısmı geçmişte benliğini kaybetse de, sebebi inançları değil; nüfusları. yetersiz nüfus asimilasyona karşı savunmasız kılıyor kitleleri.<br/><br/>'yüzyıldır ingilizleştirilme' iddiasına hiç girmiyorum bile.<br/>bu cehaletinize göre, abdulhamid'i hain ilan etmemiz gerekir. zira batılı dillerle eğitim onun döneminde başlamıştı.
+    savaşın bitmesi galiba. ismet özel'den gelsin.<br/><br/>''dünyaya gelmek bir saldırıya uğramaktır. doğan bebek havanın ciğerlerine olan saldırısının verdiği acıyla haykırır. soğuk saldırır bize, sıcak saldırır. açlığın, hastalığın, korkunun saldırılarını savuşturma yoluyla yaşarız, hayatta kalırız. yaşıyor olmak, savaşıyor olmaktan başka bir şey değildir. bir gün son nefesimizi verdiğimizde bize yapılan ilk saldırıyı tamamen püskürtmüş oluruz. savaş bitmiştir.''
 - entry_name: |
     usta şoförlerden acemi şoförlere tavsiyeler
   entry_id:  75687836
   entry_writer: caanryurt
-  entry_fav_count: 57
+  entry_fav_count: 58
   entry_content: |
     kendine usta deyip de makas atıp, hız limitinin 50 km ile sınırlı olduğu yerlerde allah ne verdiyse gaz pedalına yüklenen insanların vermemesi gereken tavsiyelerdir.<br/><br/>trafik kurallarına uyun; eksiksiz hepsine uyun sadece. size ne kadar saçma geldiğinin bir önemi yok çünkü.<br/><br/>- yol çok boştu abi ondan bastım.<br/>- basma!<br/><br/>- burada da mı sinyal vereceğim?<br/>- evet vereceksin.<br/><br/>- kimse yok yolda, bu saatte de kırmızıda durulur mu?<br/>- evet durulur.<br/><br/>- emniyet kemeri rahatsız ediyor, zaten kısa mesafe gerek var mı takmaya?<br/>- evet var.<br/><br/>bunun gibi size göre hiç gerek olmayan yerlerde, kolay idrak edilebilen bu kurallara uyulmadığı için kaç insan öldü bir düşünün. geri dönüşü olmayan durumlarda, özellikle mevzu bir canlının hayatıysa, kurallar es-ne-ti-le-mez.
 - entry_name: |
-    4 nisan 2015 fenerbahçe otobüsüne saldırı
-  entry_id:  75688700
-  entry_writer: post translational regulation
+    cristiano ronaldo
+  entry_id:  75687550
+  entry_writer: mangon
+  entry_fav_count: 55
+  entry_content: |
+    bu gece şampiyonlar ligi çeyrek finalinde juventus'a karşı da gol bularak üst üste 10. şampiyonlar ligi maçında da gol atarak ruud van nistelrooy'un 9 maçlık rekorunu kıran futbolcu.<br/><br/>geçen seneki şampiyonlar ligi sezonunda totalde ulaştığı gol sayısını (13) bu sezon çeyrek final ilk maçları sonunda şimdiden geçti. (14) ve evet, geçen sezon da şampiyonlar ligi gol kralı olmuştu.<br/><br/>bugün attığı ikinci gol, şampiyonlar ligi tarihinin gelmiş geçmiş en iyi, futbol tarihinin de gelmiş geçmiş en iyi gollerinden birisi olarak tarihteki yerini aldı. zidane'ın tepkisi her şeyi özetliyor zaten:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DZ4tDbHW4AE_Vjx.jpg:large" title="https://pbs.twimg.com/media/DZ4tDbHW4AE_Vjx.jpg:large">https://pbs.twimg.com/…ia/dz4tdbhw4ae_vjx.jpg:large</a><br/><br/>şampiyonlar liginde juventus'a ve buffon'a karşı bu akşam kariyerindeki 9. golünü attı. juventus cl kariyerindeki en çok gol attığı iki takımdan birisi. buffon'da iki kaleciden birisi. diğer takımı ve diğer kaleciyi merak ediyorsanız, öteki takım bayern münih. öteki kaleci de manuel neuer. evet, yanlış duymadınız. ronaldo'nun ucl kariyerinde en çok gol attığı iki takım bayern münih ve juventus. en çok gol attığı iki kaleci neuer ve buffon.<br/><br/>kendisi tanımlama da kelimeler kifayetsiz kalır. bazıları onun sadece gol attığını iddia eder. gelin, bu sadece gol atan futbolcu avrupa futbolunun en iyi savunma yapan ekiplerinden birisine karşı nasıl performans göstermiş, bakalım:<br/><br/>2 gol<br/>1 asist<br/>3 dribbling<br/>2 kilit pas<br/>2 şans yaratma<br/>8 duels won <br/><br/>tek kelime inanılmaz. şanına yaraşan en güzle unvan hiç şüphesiz:<br/><br/>(bkz: <a class="b" href="/?q=greatest+of+all+time">greatest of all time</a>)
+- entry_name: |
+    ronaldo luis nazario de lima
+  entry_id:  75690751
+  entry_writer: bosluk
   entry_fav_count: 51
   entry_content: |
-    <a class="b" href="/?q=trabzon">trabzon</a>'da yaşanmıştır. bir sonraki maçta da benzer hayvanlıklar olmuştur. fenerbahçe basketbol maçı sırasında da kadın hakeme saldırmıştır bu şehrin insanları. aynı maçta 119 yemişlerdir.
-- entry_name: |
-    2018 ekonomik krizi
-  entry_id:  75690701
-  entry_writer: mcspayer
-  entry_fav_count: 42
-  entry_content: |
-    öncelikle kamu personeli olduğumu belirteyim. 3 yıl önce ikeadan koltuk aldım. <a rel="nofollow noopener" class="url" target="_blank" href="https://m.ikea.com.tr/urun-katalogu/oturma-odalari/kanepeler/kumas-kanepeler/49193672/kivik-3lu-kanepe-ve-uzanma-koltugu.aspx" title="https://m.ikea.com.tr/urun-katalogu/oturma-odalari/kanepeler/kumas-kanepeler/49193672/kivik-3lu-kanepe-ve-uzanma-koltugu.aspx">kivik koltuk</a>. 3lü modelini 1500 tl'ye almıştım. ücretsiz kargo olarak evime geldi. o yıl ben 2250tl maaş alıyordum. yani paramın 2/3 ü ile bu koltuğu alabiliyordum. ( matematik sorusu gibi oldu)<br/><br/>geçen gün ikea'ya gittim. aynı koltuk olmuş mu sana 2750. artı 275 nakliye!<br/>3025 tl bana şuan almaya kalksam maliyeti.<br/><br/>peki bu 3 yılda benim maaşım ne oldu?<br/>3000tl. maaşımın tamamını versem alamıyorum. <br/><br/>yani anlayacağınız bir kamu personelinin 3 yılda alım gücünün 1/3'ü eridi gitti.<br/><br/>ülke şuan krizde mi? zannetmiyorum. ancak her geçen gün daha çok fakirleşiyoruz. alım gücümüz azalıyor.<br/><br/>edit: kriz akut gelişir, bizde ise durum kronikleşti. krizden ziyade kronik.
+    yetenek olarak baktığımızda dünyadaki hiç bir oyuncu bu adamın eline su dökemez. <br/><br/>17-22 yaş arası oynadığı 245 resmi maçta<sup class="ab"><a title="(bkz: kulüp+milli)" href="/?q=kul%c3%bcp%2bmilli" data-query="kulüp+milli">*</a></sup> 198 gol gol atmış bir isim r9. eğer o sakatlıkları geçirmeseydi messi'nin kıyaslandığı tek isim kendisi olurdu ve karar vermekte inanın güçlük çekerdik.<br/><br/>bu adamın yeteneğine, insan fizyolojisi dayanmadı, çalım atarken bağları koptu. teknik veya fiziksel açıdan kusursuz bir oyuncuydu. fm diliyle, dribbling ve finishing'i 21'dir.
 - entry_name: |
     dindar ve muhafazakar gençlerin ateizme kayması
   entry_id:  75708073
   entry_writer: creeping dutchman
-  entry_fav_count: 40
+  entry_fav_count: 46
   entry_content: |
     son zamanlarda çok miktarda gündemi meşgul eden analizlerden birisi. ben bunun bilinçli olarak gündeme sürüldüğünü düşünmeye başladım. bunların çeşitli kesimlere vermeye çalıştığı mesajlar var. <br/><br/>laik kesime,<br/><br/>"korkmayın la, toplum çok da dindarlaşmıyor aslında"<br/><br/>dindar kesime, <br/><br/>"toplum yeterince dindarlaşmıyor, safları sıklaştıralım"<br/><br/>not: belki de sayko bir paranoyağım.
 - entry_name: |
     kadını seksi yapan unsurlar
   entry_id:  75693014
   entry_writer: penguent
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     tamamen karşısındakinin bakış açısına göre değişen unsurlar.<br/><br/>biri gitar çalanı seksi bulurken, diğeri leğende çamaşır yıkarken bacağı görünen kadını seksi bulur.<br/><br/>biri klasik giyinmiş sekreter hanımı seksi bulurken, diğeri yol kenarında çiçek satan çiçekçi teyzeyi seksi bulur.<br/><br/>biri inşaatta kadın görünce şehvetle bakar, diğeri inşaattaki kadını düşünerek geç boşalmaya çalışır. <br/><br/>demem o ki; seksi insanın belirli bir biçimi yoktur. tamamen karşısındakinin çocukluk ve ergenlik zamanından getirdiği bazı psikolojik yapılarla şekillenir.
 - entry_name: |
     ancak çok zengin insanların kurabileceği cümleler
   entry_id:  75697353
   entry_writer: tasaltinda kurba
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     gerçek yaşanmış.<br/>rahmi koç; ülkede 80 milyon dolar pardon 80 milyon insan var.
-- entry_name: |
-    yeşil nasim
-  entry_id:  75697846
-  entry_writer: hayvan olun
-  entry_fav_count: 37
-  entry_content: |
-    şöyle demiş;<br/><br/>"gerçek dünyada ifade özgürlüğü yok. gerçekleri söylerseniz baskı altına alınırsınız, bu sistemin desteklediği bir şey değil. hedeflenen kullancıların içerikleri filtreleniyor ve aşağı seviyelere düşürülüyor. o nedenle insanlar onların videolarını zar zor görüyor. youtube'da ya da başka video paylaşım sitelerinde eşit büyüme şansı yok. kanalınız onlar isterse büyür."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/youtube-saldirganinin-kimligi-belli-oldu,597247" title="http://t24.com.tr/haber/youtube-saldirganinin-kimligi-belli-oldu,597247">http://t24.com.tr/…aninin-kimligi-belli-oldu,597247</a><br/><br/>eğer bunu che guevara karizmasında bir adam söyleseydi şu an milyonlarca kişi peşinden gidiyordu.<br/><br/>youtube iyi yırtmış bence.
 - entry_name: |
     squat yapan erkek
   entry_id:  75707623
   entry_writer: julian krezch
-  entry_fav_count: 32
+  entry_fav_count: 38
   entry_content: |
     bulaşmayın bunlara arkaları sağlamdır bunların.
 - entry_name: |
     meryem uzerli'nin korkunçlu fotoğrafı
   entry_id:  75705701
   entry_writer: krallar ve koleler
-  entry_fav_count: 32
+  entry_fav_count: 35
   entry_content: |
     yaşamın olağan akışında ki basit bir enstantene. size öyle bir enstantene alırlar ki direk kendinizi öldürürsünüz, başkasına bile izin vermezsiniz o derece yani.
+- entry_name: |
+    samsung'ı samsung diye okuyan insan
+  entry_id:  75710903
+  entry_writer: vieragt
+  entry_fav_count: 34
+  entry_content: |
+    yanımda biri semsink es nayn gibi bir laf etse ağzına çakarım sümsüğü
 - entry_name: |
     3 nisan 2018 afgan göçmen akını
   entry_id:  75688404
@@ -220,68 +234,33 @@ data:
   entry_content: |
     şuradaki entry'imde 4 ay önce belirttiğim durum. <br/><br/>(bkz: <a class="b" href="/entry/73446241">#73446241</a>)<br/><br/>size korkunç birşey söylemek istiyorum, viyana son 9 senedir dünyanın en yaşanılabilir şehri seçiliyor fakat son 6 aydır neredeyse 7-8 cinayet işlendi viyana'da afganlar tarafından.. bir tanesi hatta bir aileyi katletti, baba, eşi ve kızlarını aynı anda sokak ortasında bıçakla kovalayarak cadde cadde her birini bıçakladı.. afganlar suriyelilerden kat be kat pis bir millettir, burada 10 suç işleniyorsa 7'sini afganlar 2'sini suriyeliler işler. avusturyalılar geri göndermek için can atıyor, suç işleyen hapse tıkılıyor daha sonra sınır dışı ediliyor ama avusturya'da halk özellikle afganlardan illallah demiş durumda, suriyeliler bir nebze ama afganlar çok tehlikeli. <br/><br/>paylaşılan haberleri görünce kanım dondu. ne oluyor güzel ülkemize? kim tezgahlıyor bu olayı? emeği geçen herkesin amına koyayım.
 - entry_name: |
-    bir kadın için kezban deme kriterleri
-  entry_id:  75688686
-  entry_writer: daldakielmakurdu
-  entry_fav_count: 26
+    çırılçıplak banyo yapmak
+  entry_id:  75688616
+  entry_writer: miafori
+  entry_fav_count: 31
   entry_content: |
-    sevgilisinin ya da kocasinin aldigi hediye ettigi her boku instagramda paylasarak tesekkur etmesi. sosyal medyada devamli birileri onu cekemiyormus gibi laf sokmali paylasimlar yapanlar. her kelimeyi etiket yaparak paylasim yapanlar. #allahima #bin #sukur #senin #askinim<br/>bunlar benim kezbanlik kriterlerim.
-- entry_name: |
-    hastası olunan sözler
-  entry_id:  75688531
-  entry_writer: bilecik valisi bakunin
-  entry_fav_count: 21
-  entry_content: |
-    aynı günde dört mevsime şahit olmak gibi bir şey bu. önce özlüyor, sonra ağlıyor, akşamları küsüyor, geceleri çok seviyorum.<br/><br/>-özdemir asaf
+    o da bişey mi çırılçıplak doğanlar bile var bu ülke diye düşündüğüm hadise.
 - entry_name: |
     doktorlar asgari ücret alsın kampanyası
   entry_id:  75707907
   entry_writer: mimarishvili
-  entry_fav_count: 21
+  entry_fav_count: 24
   entry_content: |
     bu başlığı görmemiş gibi yapmak isterdim ama doktorlar asgari ücret alırsa eğer kim tıp fakültesi yazar ? kim yıllarca okur? asgari ücret için mi ? hastanede dövülmek için mi ? 36 saat nöbet tutup psikolojisini bozmak için mi? soruyorum bu başlığı sadece oturup bilgisayar karşısında ağzından salya akıtan biri yazabilir. mantıklı insan bunu düşünmez bile.
-- entry_name: |
-    akkuyu nükleer enerji santrali
-  entry_id:  75687475
-  entry_writer: pleione
-  entry_fav_count: 21
-  entry_content: |
-    %51'i ruslara ait, tamamı rus sermayesiyle yapılıyor ve kurulan şirketin yönetim kurulunda sadece tek bir türk var ve bunları söyleyene yine her türlü hakaret edilmiş twitter'da vatan haini, istemezükçü, ülkesini sevmeyen, nefret eden vs. valla sizden adam olmaz ya, iflah olmazsınız. kaynak nerede diyorlar bir de, resmi gazeteye ve şirketin kendi sitesine baksaydınız görürdünüz görmek isteseydiniz. nasıl bir çukura düştüysek bunlarla.
 - entry_name: |
     galatasaray'ın 25 yılda 12 kere şampiyon olması
   entry_id:  75708263
   entry_writer: birmilyonunvarmi
-  entry_fav_count: 20
+  entry_fav_count: 23
   entry_content: |
     uefa kupası'nı, süper kupa'yı, dünya kupası 3.'lüğünü de fetö yaptırdı değil mi orospu çocukları? henry'nin kafasını da fetö kurtardı, milan'ı, madrid'i, manchester'ı da fetö yendi zaten. tescilli, damgalı şikeciler doluşmuş başlığa. <br/><br/>tertemiz, bembeyaz, lekesiz şampiyonluklardır.
 - entry_name: |
-    reddettiği erkeğe nasılsın diye sms atan kız
-  entry_id:  75702378
-  entry_writer: strobist
-  entry_fav_count: 18
+    füsun demirel
+  entry_id:  75700386
+  entry_writer: hegel kim lan
+  entry_fav_count: 19
   entry_content: |
-    boş oturmayın misilleme yapın.. gelen her "nasılsın" mesajına farklı bi aktiviteden bahseden yanıtlar gönderin..<br/><br/>- bodruma gidiyoruz, sonra anlatırım.. <br/>- kapadokyayı geziyoruz, sonra anlatırım.. <br/>- karadeniz turuna çıktık, sonra anlatırım..<br/><br/>tabiki hiç birşey anlatmayın.. içten içe kudursun.. ahaha
-- entry_name: |
-    kilo vermek isteyenlere tavsiyeler
-  entry_id:  75694816
-  entry_writer: natura horror vacui
-  entry_fav_count: 18
-  entry_content: |
-    son 9 ayda 58 kg vermiş bir insan olarak konuşuyorum, <a class="b" href="/?q=diyetisyen">diyetisyen</a>e inanın. yıllarca <a class="b" href="/?q=morbid+obez">morbid obez</a> modda etrafta gezerken ve tüm arkadaşlarım "oğlum kilo ver, gittiğin yol yol değil" derken sallamamış, diyetisyenin hiçbir boka yaramayacağına inanan bir insandım. sonra bir gün hayatımı değiştirmeye karar verdim. elbette bunda yaptırdığım <a class="b" href="/?q=check+up">check up</a>'ın da etkisi oldu. (bkz: <a class="b" href="/?q=g%c3%b6t+korkusu">göt korkusu</a>) öncelikle kilo probleminiz varsa kilo vermeye başlamadan önce sıkı bir sağlık kontrolünden geçin, kan değerlerinize baktırın vs. profesyonel yardım alırken bunlar çok değerli. ancak bu sayede gideceğiniz beslenme uzmanı sizin metabolizmanıza göre bir program yazabilir. evet, çoğu diyetisyen genelde aynı şeylerden söz ediyor gibi geliyor ama gerçekten işe yarıyor. bünyeden bünyeye beslenme alışkanlıkları, metabolizma hızı, yağ oranı vs değiştiği için "şunu yemelisiniz, bunu yememelisiniz" demeyeceğim ama özetle birkaç şey belirteceğim. aşağıdakiler daha ziyade ciddi kilo problemi olanlar için yazılmıştır:<br/><br/>1) "5 kg vereyim, eski hayatıma geri dönerim" kafasından kurtulun. ara ara rejim yapıp, plajda -cinsel yöneliminize göre- karşı cinse ve/veya hemcinslerinize birkaç ay iyi göründükten sonra eski hayatınıza dönmeyin. sağlıklı beslenmeyi bir yaşam biçimine döndürmeye çalışın. zira bunun sonu yok. 3 kg al, 5 kg ver, 7 kg al, 9 kg ver döngüsü sonsuza kadar gider. önemli olan sürdürülebilir sağlık.<br/><br/>2) mümkünse hemen sonuç almak için aç kalmayın. kilo yemeyerek değil, doğru yiyerek verilir. an itibariyle 96 kiloyum, bundan 9 ay önce 154 kiloydum ve hayatımın hiçbir evresinde şu an yediğim kadar çok yemek yediğimi hatırlamıyorum. zaten beslenme uzmanı da burada devreye giriyor. belirli bir süre aç kalarak verdiğiniz kilolar mutlaka size geri dönüyor. <br/><br/>3) benim gibi aşırı kilolu bir halde diyete başladıysanız ilk 3-4 ay spor yapmayın. yapacaksanız da doktorunuza sorarak yapın. bunun iki sebebi var: birincisi, öncelikle midenin küçülmesi gerekiyor. spor sonrası herkes kurt gibi acıkır. mide küçülmeden spor yapınca kendini durduramayacak şekilde yiyorsun. ikincisi ise kilo kaybı (özellikle hızlı kilo kaybı) ister istemez kalbe yük bindiren bir şey. vücut nispeten kendine gelene kadar kalbe bir de sporla yük bindirmeyin. sonrasında zaten mecburen spora başlayacaksınız.<br/><br/>4) kilo verirken sağlığınızı tehlikeye atmayın. mümkünse belirli aralıklarla bir kardiyologa, dahiliye uzmanına vs. görünün. <br/><br/>özetle ciddi bir kilo probleminiz olduğunu düşünüyorsanız kendinize iyi bir uzman bulun ve profesyonel destek alın. iyi bir uzman olduğunu düşünseniz bile ilk birkaç randevuda kendisine güvenemeyeceğinizi düşünüyorsanız bırakın. daha güvenilir olduğunu düşündüğünüz birini bulun. son 9 aydır hayatımdaki en önemli insanlardan biri diyetisyenim ve bunu ona duyduğum güven sayesinde sağladı. bilime, tıbba inanın.
-- entry_name: |
-    yazarların memnun olmadığı alışkanlıkları
-  entry_id:  75688390
-  entry_writer: pethidine
-  entry_fav_count: 14
-  entry_content: |
-    birincisi her şeyi erteleme gibi çok pis bir huyum var.<br/>ikincisi çok tembelim<br/>üçüncüsü sigara içiyorum ve her daldan sonra kendime küfür ediyorum. <br/>dördüncü ve son olarak çok tutumsuzum, hiç para biriktiremiyorum. 100.000 liram olsa 2 gecede bitiririm<br/><br/>bu dört alışkanlığımı değiştirebilirsem hayatımda hiç bir sorun kalmayacak ama hiç değişeceğimi sanmıyorum. can çıkar huy çıkmaz demiş atalarımız. ondan dolayı kendimi böyle kabul etmekten başka seçeneğim yok ve şu an bu süreci yaşıyorum.
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  75688250
-  entry_writer: uniqua
-  entry_fav_count: 9
-  entry_content: |
-    karanlık bir odada büyüdüm ben, seni yüzünü düşünmekti tek aydınlık.
+    kendisi 20 yaşındaki gençlerin öldürülmesine sempati duyarken, işsiz kaldığı için bizim üzülmemiz gereken kişiymiş hahahaha.<br/><br/>gerizekalılar için tekrar söyleyeyim, dağa çıkmayı isterdim, hala aynı kafadayım dediği şey: öldürmek, öldürmek, öldürmek. ışsiz kalmaktan bir tık ağır sanki ha? öldürmek. anlıyor musun geri zekalı tatlısu solcusu kardeşim. karı öldürmeye ve öldürenlere sempati besliyor. neymiş? öldürmek. <br/><br/>türkiye'de yaşayan ve iq'su 80 civarı olan herkes o sözlerin ne anlama geldiğini biliyor.
 - entry_name: |
     1.603 tl'yle krallar gibi yaşamanın mümkün olması
   entry_id:  75687452
@@ -290,19 +269,33 @@ data:
   entry_content: |
     başlığı açan kişi kralın tanımını yapsa anlaşılabilecek olandır. kral var kral var sonuçta. cidden, bu arada kral ne ki?
 - entry_name: |
-    pembe giyen erkek
-  entry_id:  75708875
-  entry_writer: sallamakahve
+    bedelli askerlik
+  entry_id:  75701922
+  entry_writer: vicious delicious
+  entry_fav_count: 8
+  entry_content: |
+    yüksek lisansım devam ettiği halde 2 ay sonra tecilim bitiyor. tez danışmanım sonbaharda jüriye sokmak istiyordu. erteleyelim askere gitmem gerekiyormuş dediğimde adam dalga geçtiğimi düşündü.<br/><br/>bugün de şahıs şirketimi kapatmak için iş bırakma formu doldurup vergi dairesine verdim.<br/><br/>her şeyi bırakıp patates doğramaya gideceğim, ülkem benden böyle yararlanmak istiyor.
+- entry_name: |
+    sözlükçülerin iş ile ev arası yolculuk süreleri
+  entry_id:  75688953
+  entry_writer: nevruz atesinin ustunden atlayan bakan
   entry_fav_count: 7
   entry_content: |
-    40 yaşında adamım yazın pembe ve türevi renkleri giymeyi severim. hayır gay felan değilim, hatta "ben bunu giyersem bana gay" derler mi endişesi yaşamadım. eğer bu şekilde bir endişe varsa bunu düşünen kişi gizli gay olabilir. hatta en azmanından gay bile olabilir.<br/><br/>renkler tüm insanlar içindir, nasıl ki mavi giyen kadın lezbiyen değilse pembe giyen erkekte gay değildir. renklerin cinsiyeti olmaz, renkler herkes içindir. <br/><br/>duyarları dinlediniz, şimdi sırada sosyal mesaj:<br/>gay olmak ayıp mıdır, elbette değildir bu sadece tercih/seçimdir. bana ne ve kime ne?<br/><br/>edit: <br/>eksik bilgi sebebiyle çaylak <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/itsnotmeitsyou">https://eksisozluk.com/biri/itsnotmeitsyou</a> uyardı, "escinsellik cinsel tercih degil cinsel yonelimdir yani dogaldir :)" bilgisini de şuraya ekleyelim.
+    yürüyerek bir dakika.<br/><br/>istanbul'da ve ankara'da çalışırken evden işe, işten eve yolculukta saatlerimi harcardım. insan büyük şehrin bir an olsun soluklanmaya fırsat bırakmayan koşuşturmasına daldı mı kaybettiği zamanı fark edemiyor.<br/><br/>şimdi türkiye'den çok uzakta bir yerlerdeyim. evim ile iş yerim arası yürüyerek bir dakika. iznimde türkiye'ye gelince istanbul'un ne kadar yaşanmaz bir şehir olduğunu anladım. <br/><br/>özetle, kaçın kurtulun.
 - entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  75687327
-  entry_writer: ucazugasibere
-  entry_fav_count: 6
+    öğretmenlerin şaka maka 3 bin tl maaş alması
+  entry_id:  75710489
+  entry_writer: vurdugololdu111
+  entry_fav_count: 7
   entry_content: |
-    ortada bir kız var ve bu kıza iki kişi birden yazıyor. bu iki kişinin de birbirinden haberi yok. bu sözkonusu iki kişiye de ''konuştuğum biri daha var'' demek kaşarlıkta kaçıncı seviye oluyor acaba? <br/><br/>ve evet, o iki kişiden biri benim.
+    full ek ders ve kursla beraber 5 bin civarı alıyorum. kudurun. bu bile az.
+- entry_name: |
+    pembe giyen erkek
+  entry_id:  75708867
+  entry_writer: burdan post modern nicklere selam ederim
+  entry_fav_count: 4
+  entry_content: |
+    vurdurur. üçe mesela. saçını.
 - entry_name: |
     canlı performansı albümüne eşit olan sanatçılar
   entry_id:  75702300
@@ -311,26 +304,26 @@ data:
   entry_content: |
     kesinlikle ıron maiden. yıllarca konser konser, festival festival gezdim ama daha iyisini izleyemedim. belki bir ihtimal amon amarth'da diyebilirim, pek sevmem ama canlı da gayet iyiler.
 - entry_name: |
-    vegan olmanın zararları
-  entry_id:  75706655
-  entry_writer: haydieyvallah
+    zlatan ibrahimoviç'in abartılmış bir balon olması
+  entry_id:  75708021
+  entry_writer: bill carson
   entry_fav_count: 2
   entry_content: |
-    what the health? belgeseli de izlensin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=9oNlnWLkCY4">https://www.youtube.com/watch?v=9onlnwlkcy4</a>
+    (bkz: <a class="b" href="/?q=balon+sensin+zlatan+da+sana+girsin">balon sensin zlatan da sana girsin</a>)
 - entry_name: |
-    zlatan ibrahimoviç'in abartılmış bir balon olması
-  entry_id:  75708257
-  entry_writer: lafalsamoneda
-  entry_fav_count: 1
+    geçmişe özlem duymak
+  entry_id:  75709419
+  entry_writer: keytenkele
+  entry_fav_count: 2
   entry_content: |
-    boş bir laf. zira zlatan, yetenek ve estetikte -valla kimse kusura bakmasın baya bi büyük konuşacam- messi'nin de cr7'nin de eline verir. fakat sürekliliği yoktur ve onların onda biri kadar bile profesyonel değildir. açıkçası onlar kadar da çalışmaz. <br/><br/>bizim sergen hani kendisine "sen de çalışmadın be abi" diyen gazeteciye "olum çalışsam barcelona'da oynardım" demişti ya, işte o hesap biraz. elbette zlatan, sergen'de olmayan çok çok mühim bi şeye daha sahip; hayvani bir güç. bu messi'de yok mesela. cr7'de ise var ama zlatan kadar değil.<br/><br/>günümüzde endüstriyel futbol artık yetenekle kotarılamıyor sadece. cr7 bunun çok açık örneği. çalışacaksın. zlatan çalışmıyor mu, bildiğim kadarıyla çalışıyor ama sürekliliği yok. yoksa saf yetenek ve estetik hususunda benim gözlerimin şahit olduğu tek rakibi <a class="b" href="/?q=ronaldinho+gaucho">ronaldinho gaucho</a>'dur.
+    benim hayatımda son dört beş yıldır çok yoğun hissettiğim durumdur. geçmişe okadar özlem duyuyorum ki ve bir daha gelmeyecek olduğunu bilmek beni çok üzüyor. düşündüm taşındım neden böyle oluyor diye verdiğim karar yaşlanıyorum oldu.
 - entry_name: |
-    erkeklerden kadınlara tavsiyeler
-  entry_id:  75709756
-  entry_writer: darkwizard
-  entry_fav_count: 1
+    bedavaya ülkeler ve kıtalar arası yolculuk yapmak
+  entry_id:  75709629
+  entry_writer: lacivertbeyin
+  entry_fav_count: 2
   entry_content: |
-    kendinizde olmayan özellikleri karşı cinste arayıp, bulduğunuz zaman ise buna aşk demeyin.
+    aynısından ben de içiyorum bu etki yok.
 - entry_name: |
     ekşi itiraf
   entry_id:  75706633
@@ -339,17 +332,24 @@ data:
   entry_content: |
     açıp salak salak çevrimiçi olduğu whatsapp ekranini izliyorum, evet.<br/><br/>37 yaşındayım, manyakça yoğun bir is hayatım var, ve evet arada yapıyorum. dinlenme arası gibi.<br/><br/>gülümsüyorum filan ya lan, o ekrana bakarken. "parka gidecekmis, iki gözümün çiçeği" modunda.<br/>yas 37, evet.
 - entry_name: |
-    öğretmenlerin şaka maka 3 bin tl maaş alması
-  entry_id:  75710803
-  entry_writer: infected brain
-  entry_fav_count: 0
+    abd'nin medrese bombalaması
+  entry_id:  75711287
+  entry_writer: al sana bir kaya nereye dayarsan daya
+  entry_fav_count: 1
   entry_content: |
-    internet çağında yaşıyoruz. girin youtube meslek lisesi yazın. karşınıza yüzlerce video çıkar. sınıfların ve öğrencilerin o hallerini görün. öğretmene yapılan saygısızlıkları görün ve sonra yazın. <br/>kendinize bir sorun günde 7 saat haftanın 20 günü ben bunlara bu paraya sabır edebilir miyim. kızmadan dövmeden ama. <br/>sonra gelin burada istediğinizi yazın. <br/>hadi hadi size bir amme hizmeti yapayım ;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=4pu_AEwWvcw" title="https://www.youtube.com/watch?v=4pu_AEwWvcw">bkz.</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=7OJyAB6ri3I" title="https://www.youtube.com/watch?v=7OJyAB6ri3I">bkz..</a><br/><br/>al bu da öğretmen ve istiklal marşına saygısızlık;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=I6hqilb7hts" title="https://www.youtube.com/watch?v=I6hqilb7hts">bkz...</a><br/><br/>al bu da bir başkası ;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=F_5cvOfNuJg" title="https://www.youtube.com/watch?v=F_5cvOfNuJg">al al</a><br/><br/>bunlara hanginiz emekli olana kadar katlanacaksınız bakalım.<br/><br/>öyle dışarıdan ahkam kesmek kolay.
+    böyle dünya mı olur lan?yüz tane çocuk ölmüş utanmadan hala müslümanlık bilmem neylik derdinde olan tipler var.ölenler çocuk ulan çocuk budist olsa ne olur musevi olsa ne olur?
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  75709652
-  entry_writer: modanna
+    şu anda çalan şarkı
+  entry_id:  75687774
+  entry_writer: bilinmeyene kosan adam
   entry_fav_count: 0
   entry_content: |
-    istanbul gümüşsuyunda çalıştığım şirket için kurumsal iletişim adayı arıyoruz. ilgilenenler yetkinliklerini kısaca yazabilirlerse sevinirim. maaş+yemek kartı var özel sigorta yok normal sigorta var.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=zVINtYcCCUg">https://www.youtube.com/watch?v=zvintycccug</a><br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ncW8TBBX2wg">https://www.youtube.com/watch?v=ncw8tbbx2wg</a><br/><br/>edit2: lise yillarima dondum;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=g84az69OkGk">https://www.youtube.com/watch?v=g84az69okgk</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=rKRA52g4r8w">https://www.youtube.com/watch?v=rkra52g4r8w</a>
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  75688293
+  entry_writer: salvatorromano
+  entry_fav_count: 0
+  entry_content: |
+    hoşlandığım biriyle yüzyüze konuşamıyorum, daha doğrusu utanıyorum. hele de reddedilmekten korktuğum için hep korku içindeyim. bu durumu nasıl aşacağımı bilemiyorum. nasıl bir yol izlemeliyim:(<br/><br/>edit:çok samimi cevaplar aldım, mesaj atan yazarlara burdan teşekkür ederim.
 ---

@@ -23,6 +23,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qUaPH_XRYPOQPi61ecGAFaSUXlP16PX-8Pp7BSXLZ14.gif?fm=jpg&s=7e9aa48f933b07bbaa56bfbb5c178107 frameborder=0>
 - entry_name: |
+    Baby rhino guards mom during toe treatment
+  entry_id: 89oo9p
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWideeyedLivelyArthropods&url=https%3A%2F%2Fgfycat.com%2FWideeyedLivelyArthropods&image=https%3A%2F%2Fthumbs.gfycat.com%2FWideeyedLivelyArthropods-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     We need more people like Kristen
   entry_id: 89iu06
   entry_content: |
@@ -48,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/COY_Vm0Y5dpTDSL7z0hFFrR86E4piNlVgrRwmufr9i4.jpg?s=e3ea1820bc06b2632d74a4a91fe4e31e frameborder=0>
 - entry_name: |
-    Baby rhino guards mom during toe treatment
-  entry_id: 89oo9p
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWideeyedLivelyArthropods&url=https%3A%2F%2Fgfycat.com%2FWideeyedLivelyArthropods&image=https%3A%2F%2Fthumbs.gfycat.com%2FWideeyedLivelyArthropods-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Expect the unexpected!
   entry_id: 89jt2s
   entry_content: |
@@ -62,6 +62,16 @@ data:
   entry_id: 89gfo4
   entry_content: |
     <iframe src=https://v.redd.it/jh927lt88xp01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    One of the most beautiful picture on earth.
+  entry_id: 89nrmg
+  entry_content: |
+    <img src=https://i.redditmedia.com/zU3Bye6mdMawK5hGi4LPPIyggG8RqCOv8XBWvwOa95U.jpg?s=0ec76f19db2c6071e2e972e37efb8215 frameborder=0>
+- entry_name: |
+    TIL Vince Coleman, a railway dispatcher, sacrificed his life in order to warn an incoming train of an imminent explosion. His telegraph said Hold up the train. Ammunition ship afire in harbor making for Pier 6 and will explode. Guess this will be my last message. Good-bye boys. He saved 300 lives.
+  entry_id: 89n6v2
+  entry_content: |
+    <img src=https://i.redditmedia.com/gxPIEVLlQN64SDin7Chv0yx63-zr0QWyRLvaSzwuytU.jpg?s=8f558853a243e30bb7a0bb61e4a46691 frameborder=0>
 - entry_name: |
     Juventus 0-2 Real Madrid - Cristiano Ronaldo 64' (Champions League - Quarter-finals)
   entry_id: 89hyek
@@ -78,15 +88,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/aco9nokjkqp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    One of the most beautiful picture on earth.
-  entry_id: 89nrmg
+    China announces new tariffs on 106 US products, including soy, cars, and chemicals
+  entry_id: 89nnsp
   entry_content: |
-    <img src=https://i.redditmedia.com/zU3Bye6mdMawK5hGi4LPPIyggG8RqCOv8XBWvwOa95U.jpg?s=0ec76f19db2c6071e2e972e37efb8215 frameborder=0>
-- entry_name: |
-    TIL Vince Coleman, a railway dispatcher, sacrificed his life in order to warn an incoming train of an imminent explosion. His telegraph said Hold up the train. Ammunition ship afire in harbor making for Pier 6 and will explode. Guess this will be my last message. Good-bye boys. He saved 300 lives.
-  entry_id: 89n6v2
-  entry_content: |
-    <img src=https://i.redditmedia.com/gxPIEVLlQN64SDin7Chv0yx63-zr0QWyRLvaSzwuytU.jpg?s=8f558853a243e30bb7a0bb61e4a46691 frameborder=0>
+    <img src=https://i.redditmedia.com/5DEHRMWJzW85nSdpbRAfjJwcGzYLp27eBK3hNHxJ22A.jpg?s=70afb76342d3b1a157d5b8cbee775dc8 frameborder=0>
 - entry_name: |
     My Grandma made these outfits for my Mom and her sisters, 1972
   entry_id: 89hcrw
@@ -102,11 +107,6 @@ data:
   entry_id: 89i95j
   entry_content: |
     <iframe src=https://v.redd.it/n6j9sjml7rp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    China announces new tariffs on 106 US products, including soy, cars, and chemicals
-  entry_id: 89nnsp
-  entry_content: |
-    <img src=https://i.redditmedia.com/5DEHRMWJzW85nSdpbRAfjJwcGzYLp27eBK3hNHxJ22A.jpg?s=70afb76342d3b1a157d5b8cbee775dc8 frameborder=0>
 - entry_name: |
     A sculpted unicorn cake my wife made.
   entry_id: 89lvxo
@@ -133,6 +133,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Dd3LmXsVS2ejUNwURk5uUBpDniOvyujF8uQkas8Cw2Q.gif?fm=jpg&s=13001b1a7ed58f9bab9e51af9fc3fe4a frameborder=0>
 - entry_name: |
+    What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
+  entry_id: 89m6jj
+  entry_content: |
+    <img src=https://i.redditmedia.com/vlCWgyAkfYXlQHs1kiqI7EfyTgl--hCjL-o_5M4hWfM.png?s=7957a549a1045fb117d22116e277e31d frameborder=0>
+- entry_name: |
+    Baby orangutan gets a bath
+  entry_id: 89olz9
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOilyCheeryCommabutterfly&url=https%3A%2F%2Fgfycat.com%2FOilyCheeryCommabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FOilyCheeryCommabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     When you're deciding where to drop
   entry_id: 89hesp
   entry_content: |
@@ -148,20 +158,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xvxckmgu6rp01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
-  entry_id: 89m6jj
+    LPT: if you go clubbing or to concerts a lot buy yourself acoustic earplugs. They don’t muffle the sound, just get rid of the harmful frequencies. Tinnitus is something very easy to get and very hard/impossible to get rid of.
+  entry_id: 89jo0p
   entry_content: |
-    <img src=https://i.redditmedia.com/vlCWgyAkfYXlQHs1kiqI7EfyTgl--hCjL-o_5M4hWfM.png?s=7957a549a1045fb117d22116e277e31d frameborder=0>
+    <img src=https://i.redditmedia.com/e2rb9rPJqMy8AFI411Q7NFG0CqSWRRB0lyPH_GqvNGs.jpg?s=630d16a48b56da6fae8d6e2cad0427c3 frameborder=0>
 - entry_name: |
     I use treats to help my cat warm up to people that come over for head shots. He's getting used to it.
   entry_id: 89ley1
   entry_content: |
     <img src=https://i.redditmedia.com/a6p1r5DYesJlfhtPCZNM-dvwjefDh6G0ztYas6mwe_o.jpg?s=a39d2f5fea17ce418f928a5a04d04857 frameborder=0>
 - entry_name: |
-    LPT: if you go clubbing or to concerts a lot buy yourself acoustic earplugs. They don’t muffle the sound, just get rid of the harmful frequencies. Tinnitus is something very easy to get and very hard/impossible to get rid of.
-  entry_id: 89jo0p
+    That's a pro right there
+  entry_id: 89oefz
   entry_content: |
-    <img src=https://i.redditmedia.com/e2rb9rPJqMy8AFI411Q7NFG0CqSWRRB0lyPH_GqvNGs.jpg?s=630d16a48b56da6fae8d6e2cad0427c3 frameborder=0>
+    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Adult recipient of stem cell transplant in Calgary cured of sickle-cell disease
+  entry_id: 89lvpu
+  entry_content: |
+    <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
 - entry_name: |
     Thanks for inventing the Super Soakers Lonnie
   entry_id: 89gc8u
@@ -173,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/67yUyDvk_DWyNzqUCit3K_-UJutQ3IbPyJ_UTn20aOo.gif?fm=jpg&s=dc21e528db729f08920cd05ac3e2440f frameborder=0>
 - entry_name: |
-    Adult recipient of stem cell transplant in Calgary cured of sickle-cell disease
-  entry_id: 89lvpu
-  entry_content: |
-    <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
-- entry_name: |
     Liberals just won a seat on the Wisconsin Supreme Court by a huge margin
   entry_id: 89l7d9
   entry_content: |
@@ -188,30 +198,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KOce1L3F6LPwy6Kp2YhP6N--5h0hu_PY7nqb3eLV1GA.jpg?s=70f9ac2e96abfbed8d78c32e5c17df29 frameborder=0>
 - entry_name: |
-    To high five a blind guy
-  entry_id: 89g1vv
+    Over 100,000 confiscated weapons were used to create this 26ft tall Knife Angel statue
+  entry_id: 89kt3q
   entry_content: |
-    <iframe src=https://v.redd.it/6ffnb5mq7qp01/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/mmJr2YxSlTcui_vBkR-zNg_8mmf8e9atFBLky9QQ6ac.jpg?s=a2f50542d9701748dc529ebefbe756c2 frameborder=0>
+- entry_name: |
+    When you hear that there's a petition for changing our beloved logo
+  entry_id: 89ntrn
+  entry_content: |
+    <img src=https://i.redditmedia.com/QO55O0Js_RdgFL5GSQO8g4VSser3sf9oBjBAjrAXoEY.jpg?s=a1712d4c4c42b74ef7cbdab9f13d3a04 frameborder=0>
 - entry_name: |
     Cristiano Ronaldo amazing bicycle kick goal vs Juventus
   entry_id: 89hzf5
   entry_content: |
     <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
 - entry_name: |
-    Over 100,000 confiscated weapons were used to create this 26ft tall Knife Angel statue
-  entry_id: 89kt3q
+    Japanese rookie Shohei Ohtani hits first major league home run.
+  entry_id: 89ne4c
   entry_content: |
-    <img src=https://i.redditmedia.com/mmJr2YxSlTcui_vBkR-zNg_8mmf8e9atFBLky9QQ6ac.jpg?s=a2f50542d9701748dc529ebefbe756c2 frameborder=0>
+    <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Company put an advertisement in our yard without permission, shaming us for our lawn quality I guess?
   entry_id: 89gdag
   entry_content: |
     <img src=https://i.redditmedia.com/gocyLy0VyEksO8L_nZIzQM1dFzYrRYnvwmJ530Pq3gE.png?s=951c37cf274278c5bcc9d038eb4c2346 frameborder=0>
-- entry_name: |
-    That's a pro right there
-  entry_id: 89oefz
-  entry_content: |
-    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Making a whirlpool
   entry_id: 89jeh8
@@ -228,11 +238,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ylmL4gbevKH5qi8nxINiFBal2RLkd4al259qYLfej7M.jpg?s=0e9f6737f84665d267b8fce302a555dd frameborder=0>
 - entry_name: |
-    Funeral Etiquette
-  entry_id: 89g6z8
-  entry_content: |
-    <img src=https://i.redditmedia.com/KFI7q6evhrFT8_H9wELanx9o460v-dyKHGaSXTrGPjQ.jpg?s=86df97b2d64691f18a46a8fe6dd9f366 frameborder=0>
-- entry_name: |
     It's over Anakin. I have the high score.
   entry_id: 89gjxn
   entry_content: |
@@ -247,9 +252,4 @@ data:
   entry_id: 89kxh7
   entry_content: |
     <img src=https://i.redditmedia.com/7UZFLvEfwJPrZH_H2bzrTSrOPl2AD71JExYk65Fz2c8.jpg?s=dd279d87019061606e279553f32fc7c5 frameborder=0>
-- entry_name: |
-    When you hear that there's a petition for changing our beloved logo
-  entry_id: 89ntrn
-  entry_content: |
-    <img src=https://i.redditmedia.com/QO55O0Js_RdgFL5GSQO8g4VSser3sf9oBjBAjrAXoEY.jpg?s=a1712d4c4c42b74ef7cbdab9f13d3a04 frameborder=0>
 ---
