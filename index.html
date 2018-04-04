@@ -5,8 +5,8 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article itemscope itemtype="http://schema.org/Article" class="post">
-    <h1 class="post-title">
+  <article itemscope itemtype="http://schema.org/Article">
+    <h1 class="card-body">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <span itemprop="name">
         {{ post.title }}
@@ -14,7 +14,6 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
   </article>
   {% endfor %}
 </div>
