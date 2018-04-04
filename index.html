@@ -19,12 +19,12 @@ layout: default
 
 <div class="pagination navbar">
   {% if paginator.next_page %}
-    <a class="btn btn-dark pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Daha Eski</a>
+    <a class="disable-href btn btn-dark pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Daha Eski</a>
   {% else %}
     <span class="pagination-item older"></span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a class="btn btn-dark pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Daha Yeni</a>
+    <a class="disable-href btn btn-dark pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Daha Yeni</a>
   {% else %}
     <span class="pagination-item newer"></span>
   {% endif %}
