@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
   <article itemscope itemtype="http://schema.org/Article">
     <h1 class="entry_li card card-body">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a class="disable-href" href="{{ site.baseurl }}{{ post.url }}">
         <span itemprop="name">
         {{ post.title }}
         </span>
