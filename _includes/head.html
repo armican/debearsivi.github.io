@@ -39,11 +39,14 @@
       // Get the snackbar DIV
       var x = document.getElementById("snackbar");
   
-      // Add the "show" class to DIV
-      x.className = "show";
+      if (document.cookie != 'onetime=true') {
+        // Add the "show" class to DIV
+        x.className = "show";
   
-      // After 3 seconds, remove the show class from DIV
-      setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+        // After 3 seconds, remove the show class from DIV
+        setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+        document.cookie = 'onetime=true; expires:Fri, 8 Jul 2030 00:00:00 UTC; path=/';
+      }
   }
   // So PoC, TODO: fix this.
   var idx = 0;
