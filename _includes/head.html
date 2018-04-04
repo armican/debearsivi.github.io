@@ -35,9 +35,20 @@
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
+  function snackbar() {
+      // Get the snackbar DIV
+      var x = document.getElementById("snackbar");
+  
+      // Add the "show" class to DIV
+      x.className = "show";
+  
+      // After 3 seconds, remove the show class from DIV
+      setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+  }
   // So PoC, TODO: fix this.
   var idx = 0;
   $(document).ready(function() {
+    snackbar();
     for(i=0; i<50; i++) {
       var entry_content = $('.entry_content')[i];
 
