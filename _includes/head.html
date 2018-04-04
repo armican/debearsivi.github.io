@@ -35,11 +35,15 @@
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
+  function getCookie(key) {
+            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+            return keyValue ? keyValue[2] : null;
+  }
   function snackbar() {
       // Get the snackbar DIV
       var x = document.getElementById("snackbar");
   
-      if ($.cookie('onetime') != 'true') {
+      if (getCookie('onetime') != true) {
         // Add the "show" class to DIV
         x.className = "show";
   
