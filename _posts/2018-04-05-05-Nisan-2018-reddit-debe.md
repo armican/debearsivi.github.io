@@ -178,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
 - entry_name: |
-    Thanks for inventing the Super Soakers Lonnie
-  entry_id: 89gc8u
-  entry_content: |
-    <img src=https://i.redditmedia.com/IfIj2Xv20F3e3wV4F04hsqefB6L8sclJIBfYEO-eTvU.png?s=4841c9695c5b904619b8e17359159041 frameborder=0>
-- entry_name: |
     Clouds over Mt. Halcon
   entry_id: 89ka12
   entry_content: |
@@ -218,11 +213,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Company put an advertisement in our yard without permission, shaming us for our lawn quality I guess?
-  entry_id: 89gdag
-  entry_content: |
-    <img src=https://i.redditmedia.com/gocyLy0VyEksO8L_nZIzQM1dFzYrRYnvwmJ530Pq3gE.png?s=951c37cf274278c5bcc9d038eb4c2346 frameborder=0>
-- entry_name: |
     Making a whirlpool
   entry_id: 89jeh8
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 89kxh7
   entry_content: |
     <img src=https://i.redditmedia.com/7UZFLvEfwJPrZH_H2bzrTSrOPl2AD71JExYk65Fz2c8.jpg?s=dd279d87019061606e279553f32fc7c5 frameborder=0>
+- entry_name: |
+    Summary: Physicists have identified a new state of matter whose structural order operates by rules more aligned with quantum mechanics than standard thermodynamic theory.
+  entry_id: 89kv6f
+  entry_content: |
+    <img src=https://i.redditmedia.com/PYBsrngCwQGoApbX0JyIpj2Wn8uIAcNAazrC7jPllZ0.jpg?s=85f192f3f164b1e42381fa1b45e361d9 frameborder=0>
+- entry_name: |
+    Mexico formally asks US to clarify Trump's border remarks
+  entry_id: 89ievh
+  entry_content: |
+    <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
 ---
