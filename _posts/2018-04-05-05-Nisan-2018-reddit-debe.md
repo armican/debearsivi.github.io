@@ -53,20 +53,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dvvutzet0sp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Baby orangutan gets a bath
+  entry_id: 89olz9
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOilyCheeryCommabutterfly&url=https%3A%2F%2Fgfycat.com%2FOilyCheeryCommabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FOilyCheeryCommabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     One of the most beautiful picture on earth.
   entry_id: 89nrmg
   entry_content: |
     <img src=https://i.redditmedia.com/zU3Bye6mdMawK5hGi4LPPIyggG8RqCOv8XBWvwOa95U.jpg?s=0ec76f19db2c6071e2e972e37efb8215 frameborder=0>
 - entry_name: |
-    TIL Vince Coleman, a railway dispatcher, sacrificed his life in order to warn an incoming train of an imminent explosion. His telegraph said Hold up the train. Ammunition ship afire in harbor making for Pier 6 and will explode. Guess this will be my last message. Good-bye boys. He saved 300 lives.
-  entry_id: 89n6v2
-  entry_content: |
-    <img src=https://i.redditmedia.com/gxPIEVLlQN64SDin7Chv0yx63-zr0QWyRLvaSzwuytU.jpg?s=8f558853a243e30bb7a0bb61e4a46691 frameborder=0>
-- entry_name: |
     China announces new tariffs on 106 US products, including soy, cars, and chemicals
   entry_id: 89nnsp
   entry_content: |
     <img src=https://i.redditmedia.com/5DEHRMWJzW85nSdpbRAfjJwcGzYLp27eBK3hNHxJ22A.jpg?s=70afb76342d3b1a157d5b8cbee775dc8 frameborder=0>
+- entry_name: |
+    TIL Vince Coleman, a railway dispatcher, sacrificed his life in order to warn an incoming train of an imminent explosion. His telegraph said Hold up the train. Ammunition ship afire in harbor making for Pier 6 and will explode. Guess this will be my last message. Good-bye boys. He saved 300 lives.
+  entry_id: 89n6v2
+  entry_content: |
+    <img src=https://i.redditmedia.com/gxPIEVLlQN64SDin7Chv0yx63-zr0QWyRLvaSzwuytU.jpg?s=8f558853a243e30bb7a0bb61e4a46691 frameborder=0>
 - entry_name: |
     I need to do this someday
   entry_id: 89jtvu
@@ -83,105 +88,90 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/aco9nokjkqp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Baby orangutan gets a bath
-  entry_id: 89olz9
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOilyCheeryCommabutterfly&url=https%3A%2F%2Fgfycat.com%2FOilyCheeryCommabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FOilyCheeryCommabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    My Grandma made these outfits for my Mom and her sisters, 1972
-  entry_id: 89hcrw
-  entry_content: |
-    <img src=https://i.redditmedia.com/b-c5ssuJlik0Xm1jqTrvermcHBXVa83DZoNIFv9eTNg.jpg?s=90e36bf16298d91bb6f1ba4516690643 frameborder=0>
-- entry_name: |
     A member of the Internet's ruling class greets her loyal subjects
   entry_id: 89iza8
   entry_content: |
     <iframe src=https://v.redd.it/fgeabyk5krp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Capybaras chillin in the hot tub
-  entry_id: 89i95j
-  entry_content: |
-    <iframe src=https://v.redd.it/n6j9sjml7rp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    A sculpted unicorn cake my wife made.
-  entry_id: 89lvxo
-  entry_content: |
-    <img src=https://i.redditmedia.com/dzN7_QCtO2wIvhJZ1nNh66P34cpZ-1z_l9hBbk6CHs4.jpg?s=766f65d7eaa7ac3462b7b20b63332af9 frameborder=0>
-- entry_name: |
-    Kids love him
-  entry_id: 89izjh
-  entry_content: |
-    <iframe src=https://v.redd.it/89calbvzcqp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Federal Budgets. How do they work?
-  entry_id: 89hugb
-  entry_content: |
-    <img src=https://i.redditmedia.com/w_2IqPCnQyOjc7Ot-uzNT9UsVOoSOvprMRIrXPeidG8.jpg?s=2d1f31d8bd307ccb5b5444f1ed0ad8f1 frameborder=0>
-- entry_name: |
-    PsBattle: Terry Crews seated in front of a dark backdrop wearing renaissance style clothing
-  entry_id: 89j53e
-  entry_content: |
-    <img src=https://i.redditmedia.com/1ETsNVsqowy4LDo1ndCYwjf8PIW8w-qt7IeEw2alQ28.jpg?s=87c454822ad574148283fb72a3dc1058 frameborder=0>
-- entry_name: |
-    What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
-  entry_id: 89m6jj
-  entry_content: |
-    <img src=https://i.redditmedia.com/vlCWgyAkfYXlQHs1kiqI7EfyTgl--hCjL-o_5M4hWfM.png?s=7957a549a1045fb117d22116e277e31d frameborder=0>
-- entry_name: |
-    That's a pro right there
-  entry_id: 89oefz
-  entry_content: |
-    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    MRW I'm grading papers for a psychology course and a student decides to use personal life experience(s) as case study for risky sexual behavior.
-  entry_id: 89hfvg
-  entry_content: |
-    <img src=https://i.redditmedia.com/Dd3LmXsVS2ejUNwURk5uUBpDniOvyujF8uQkas8Cw2Q.gif?fm=jpg&s=13001b1a7ed58f9bab9e51af9fc3fe4a frameborder=0>
-- entry_name: |
-    When you're deciding where to drop
-  entry_id: 89hesp
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMixedQuarrelsomeCowrie&url=https%3A%2F%2Fgfycat.com%2FMixedQuarrelsomeCowrie&image=https%3A%2F%2Fthumbs.gfycat.com%2FMixedQuarrelsomeCowrie-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Boyfriend proposes to daughter in front of father
-  entry_id: 89i7fa
-  entry_content: |
-    <iframe src=https://v.redd.it/xvxckmgu6rp01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    LPT: if you go clubbing or to concerts a lot buy yourself acoustic earplugs. They don’t muffle the sound, just get rid of the harmful frequencies. Tinnitus is something very easy to get and very hard/impossible to get rid of.
-  entry_id: 89jo0p
-  entry_content: |
-    <img src=https://i.redditmedia.com/e2rb9rPJqMy8AFI411Q7NFG0CqSWRRB0lyPH_GqvNGs.jpg?s=630d16a48b56da6fae8d6e2cad0427c3 frameborder=0>
-- entry_name: |
-    I use treats to help my cat warm up to people that come over for head shots. He's getting used to it.
-  entry_id: 89ley1
-  entry_content: |
-    <img src=https://i.redditmedia.com/a6p1r5DYesJlfhtPCZNM-dvwjefDh6G0ztYas6mwe_o.jpg?s=a39d2f5fea17ce418f928a5a04d04857 frameborder=0>
-- entry_name: |
-    Adult recipient of stem cell transplant in Calgary cured of sickle-cell disease
-  entry_id: 89lvpu
-  entry_content: |
-    <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
-- entry_name: |
-    Clouds over Mt. Halcon
-  entry_id: 89ka12
-  entry_content: |
-    <img src=https://i.redditmedia.com/67yUyDvk_DWyNzqUCit3K_-UJutQ3IbPyJ_UTn20aOo.gif?fm=jpg&s=dc21e528db729f08920cd05ac3e2440f frameborder=0>
-- entry_name: |
-    Japanese rookie Shohei Ohtani hits first major league home run.
-  entry_id: 89ne4c
-  entry_content: |
-    <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Oh hey John Mayer
   entry_id: 89prq7
   entry_content: |
     <img src=https://i.redditmedia.com/XmNW8Qr6aPBxDqRedgiLJ-Z2-wpWpk43yxc5iKGKzY8.jpg?s=0797100c952e2d644c94d990e4401f94 frameborder=0>
 - entry_name: |
+    A sculpted unicorn cake my wife made.
+  entry_id: 89lvxo
+  entry_content: |
+    <img src=https://i.redditmedia.com/dzN7_QCtO2wIvhJZ1nNh66P34cpZ-1z_l9hBbk6CHs4.jpg?s=766f65d7eaa7ac3462b7b20b63332af9 frameborder=0>
+- entry_name: |
+    Capybaras chillin in the hot tub
+  entry_id: 89i95j
+  entry_content: |
+    <iframe src=https://v.redd.it/n6j9sjml7rp01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Kids love him
+  entry_id: 89izjh
+  entry_content: |
+    <iframe src=https://v.redd.it/89calbvzcqp01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL Nichelle Nichols planned to quit her role as Lieutenant Uhura on “Star Trek” after the first season to pursue her dream of a Broadway career. She was convinced by a huge fan of the show to stay on for the sake of representation of black females in media. That fan was Martin Luther King Jr.
+  entry_id: 89plke
+  entry_content: |
+    <img src=https://i.redditmedia.com/2sZc0LEHL8XD6f4a2oMk4_-bWnlI6Z2Mn6FJ4Q15g5k.jpg?s=f95ff12807d020fba02051725870ffac frameborder=0>
+- entry_name: |
+    That's a pro right there
+  entry_id: 89oefz
+  entry_content: |
+    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Federal Budgets. How do they work?
+  entry_id: 89hugb
+  entry_content: |
+    <img src=https://i.redditmedia.com/w_2IqPCnQyOjc7Ot-uzNT9UsVOoSOvprMRIrXPeidG8.jpg?s=2d1f31d8bd307ccb5b5444f1ed0ad8f1 frameborder=0>
+- entry_name: |
+    What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
+  entry_id: 89m6jj
+  entry_content: |
+    <img src=https://i.redditmedia.com/vlCWgyAkfYXlQHs1kiqI7EfyTgl--hCjL-o_5M4hWfM.png?s=7957a549a1045fb117d22116e277e31d frameborder=0>
+- entry_name: |
+    PsBattle: Terry Crews seated in front of a dark backdrop wearing renaissance style clothing
+  entry_id: 89j53e
+  entry_content: |
+    <img src=https://i.redditmedia.com/1ETsNVsqowy4LDo1ndCYwjf8PIW8w-qt7IeEw2alQ28.jpg?s=87c454822ad574148283fb72a3dc1058 frameborder=0>
+- entry_name: |
+    Japanese rookie Shohei Ohtani hits first major league home run.
+  entry_id: 89ne4c
+  entry_content: |
+    <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Boyfriend proposes to daughter in front of father
+  entry_id: 89i7fa
+  entry_content: |
+    <iframe src=https://v.redd.it/xvxckmgu6rp01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Adult recipient of stem cell transplant in Calgary cured of sickle-cell disease
+  entry_id: 89lvpu
+  entry_content: |
+    <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
+- entry_name: |
+    I use treats to help my cat warm up to people that come over for head shots. He's getting used to it.
+  entry_id: 89ley1
+  entry_content: |
+    <img src=https://i.redditmedia.com/a6p1r5DYesJlfhtPCZNM-dvwjefDh6G0ztYas6mwe_o.jpg?s=a39d2f5fea17ce418f928a5a04d04857 frameborder=0>
+- entry_name: |
+    LPT: if you go clubbing or to concerts a lot buy yourself acoustic earplugs. They don’t muffle the sound, just get rid of the harmful frequencies. Tinnitus is something very easy to get and very hard/impossible to get rid of.
+  entry_id: 89jo0p
+  entry_content: |
+    <img src=https://i.redditmedia.com/e2rb9rPJqMy8AFI411Q7NFG0CqSWRRB0lyPH_GqvNGs.jpg?s=630d16a48b56da6fae8d6e2cad0427c3 frameborder=0>
+- entry_name: |
     When you hear that there's a petition for changing our beloved logo
   entry_id: 89ntrn
   entry_content: |
     <img src=https://i.redditmedia.com/QO55O0Js_RdgFL5GSQO8g4VSser3sf9oBjBAjrAXoEY.jpg?s=a1712d4c4c42b74ef7cbdab9f13d3a04 frameborder=0>
+- entry_name: |
+    Clouds over Mt. Halcon
+  entry_id: 89ka12
+  entry_content: |
+    <img src=https://i.redditmedia.com/67yUyDvk_DWyNzqUCit3K_-UJutQ3IbPyJ_UTn20aOo.gif?fm=jpg&s=dc21e528db729f08920cd05ac3e2440f frameborder=0>
 - entry_name: |
     Liberals just won a seat on the Wisconsin Supreme Court by a huge margin
   entry_id: 89l7d9
@@ -198,15 +188,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mmJr2YxSlTcui_vBkR-zNg_8mmf8e9atFBLky9QQ6ac.jpg?s=a2f50542d9701748dc529ebefbe756c2 frameborder=0>
 - entry_name: |
+    Fresh snow lines
+  entry_id: 89ouz9
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSharpDependentAfricanhornbill&url=https%3A%2F%2Fgfycat.com%2FSharpDependentAfricanhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FSharpDependentAfricanhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Just keanu being keanu with a little fan
+  entry_id: 89ob24
+  entry_content: |
+    <img src=https://i.redditmedia.com/6Gs0mOeoZJl2QlZ2WUVL9pWBODo_mphaxlEc8oQHm60.jpg?s=9c1dc2050a66943c1e3e71aa261fcaa2 frameborder=0>
+- entry_name: |
     Cristiano Ronaldo amazing bicycle kick goal vs Juventus
   entry_id: 89hzf5
   entry_content: |
     <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
 - entry_name: |
-    TIL Nichelle Nichols planned to quit her role as Lieutenant Uhura on “Star Trek” after the first season to pursue her dream of a Broadway career. She was convinced by a huge fan of the show to stay on for the sake of representation of black females in media. That fan was Martin Luther King Jr.
-  entry_id: 89plke
+    'They've given us a raise and nothing for students': Oklahoma teacher walkout shows no sign of ending
+  entry_id: 89phlf
   entry_content: |
-    <img src=https://i.redditmedia.com/2sZc0LEHL8XD6f4a2oMk4_-bWnlI6Z2Mn6FJ4Q15g5k.jpg?s=f95ff12807d020fba02051725870ffac frameborder=0>
+    <img src=https://i.redditmedia.com/rkXFeQJOvHxkhimux3tr-TtIwIgyU6izRyB-qsJb3uI.jpg?s=15c83b122a4dc425ceecceb5d26bbf4d frameborder=0>
 - entry_name: |
     Making a whirlpool
   entry_id: 89jeh8
@@ -223,15 +223,19 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ylmL4gbevKH5qi8nxINiFBal2RLkd4al259qYLfej7M.jpg?s=0e9f6737f84665d267b8fce302a555dd frameborder=0>
 - entry_name: |
-    Just keanu being keanu with a little fan
-  entry_id: 89ob24
-  entry_content: |
-    <img src=https://i.redditmedia.com/6Gs0mOeoZJl2QlZ2WUVL9pWBODo_mphaxlEc8oQHm60.jpg?s=9c1dc2050a66943c1e3e71aa261fcaa2 frameborder=0>
-- entry_name: |
     Summary: Physicists have identified a new state of matter whose structural order operates by rules more aligned with quantum mechanics than standard thermodynamic theory.
   entry_id: 89kv6f
   entry_content: |
     <img src=https://i.redditmedia.com/PYBsrngCwQGoApbX0JyIpj2Wn8uIAcNAazrC7jPllZ0.jpg?s=85f192f3f164b1e42381fa1b45e361d9 frameborder=0>
+- entry_name: |
+    My painting of an Elephant
+  entry_id: 89ouez
+  entry_content: |
+    <img src=https://i.redditmedia.com/uykZVS6Or5HIDrfRUgLABBX3uVgR8Y-150sAg8hyGTI.jpg?s=a92635fcea0f7f092df3e713ce889392 frameborder=0>
+- entry_name: |
+  entry_id: 89ov5k
+  entry_content: |
+    <img src=https://i.redditmedia.com/gS0esQyMiS_jPTKcQQQNpvHYQRmmPoPbjeQFBaXCCV0.jpg?s=0b3b045e5d5b6eecb3fc19574cc44e6f frameborder=0>
 - entry_name: |
     When you hit share screen
   entry_id: 89kxh7
@@ -243,13 +247,8 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Fresh snow lines
-  entry_id: 89ouz9
+    me irl (x-post from r/me_irl)
+  entry_id: 89mnde
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSharpDependentAfricanhornbill&url=https%3A%2F%2Fgfycat.com%2FSharpDependentAfricanhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FSharpDependentAfricanhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Mexico formally asks US to clarify Trump's border remarks
-  entry_id: 89ievh
-  entry_content: |
-    <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
+    <img src=https://i.redditmedia.com/JF7zX1wiAz28jGz5RtCj2wechX-l4YFOOUsHLDLGAPQ.jpg?s=b90e8886ddfe152bde48c2bb0e8c260a frameborder=0>
 ---
