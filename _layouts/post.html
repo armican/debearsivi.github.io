@@ -3,56 +3,18 @@ layout: default
 ---
 
 <article itemscope itemtype="http://schema.org/Article" class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-    <div class="col-md-3">
-    <ul id="entry_ul">
-    {% for i in page.data %}
-      <li class="entry_li">
-        <a class="entry_list" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
-        <div class="entry_content" id="entry_{{ i.entry_id }}"
+      <li class="entry_li card">
+        <a class="entry_list card-header" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
+        <p class="navbar-nav navbar-brand">{{ page.date | date_to_string }}</p>
+        <div class="entry_content card-body card-text" id="entry_{{ i.entry_id }}"
              data-writer="{{ i.entry_writer }}" data-title="{{ i.entry_name }}">{{ i.entry_content }}</div>
-      </li>
-    {% endfor %}
-    </ul>
-    </div>
-    <div class="col-md-9">
-        <span itemprop="name">
-        <a id="entry_title"></a>
-        </span>
-        <div id="prev_next_opt">
-            <a id="prev_entry"><< Önceki Entry</a>
-            <a id="next_entry">Sonraki Entry >></a>
-        </div>
-        <div class="clearfix"></div>
-        <div itemprop="articleBody" id="entry_body"></div>
-        <div class="clearfix"></div>
-        <div id="entry_info">
-            <a id="entry_link"></a>
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <div id="entry_info_{{ i.entry_id }}" class="card-body justify-content-between d-flex">
+            <a id="entry_link_{{ i.entry_id }}" href="https://www.eksisozluk.com/entry/{{ i.entry_id }}"><img src="public/open-iconic/svg/external-link.svg"> #{{ i.entry_id }}</a>
+            <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             <span itemprop="name">
-            <a id="entry_writer"></a>
+            <a id="entry_writer" href="https://www.eksisozluk.com/biri/{{ i.entry_writer }}"><img src="public/open-iconic/svg/pencil.svg"> {{ i.entry_writer }}</a>
             </span>
             </span>
         </div>
-    </div>
-    <div class="clearfix"></div>
-</article>
-
-{% if site.related_posts != empty %}
-<aside class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </h3>
       </li>
-    {% endfor %}
-  </ul>
-</aside>
-{% endif %}
+</article>
