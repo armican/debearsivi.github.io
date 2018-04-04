@@ -6,7 +6,6 @@ layout: default
  {% for i in page.data %}
       <li class="entry_li card">
         <a class="entry_list card-header" name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
-        <p class="navbar-nav navbar-brand">{{ page.date | date_to_string }}</p>
         <div class="entry_content card-body card-text" id="entry_{{ i.entry_id }}"
              data-writer="{{ i.entry_writer }}" data-title="{{ i.entry_name }}">{{ i.entry_content }}</div>
         <div id="entry_info_{{ i.entry_id }}" class="card-body justify-content-between d-flex">
