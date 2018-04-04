@@ -68,25 +68,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gxPIEVLlQN64SDin7Chv0yx63-zr0QWyRLvaSzwuytU.jpg?s=8f558853a243e30bb7a0bb61e4a46691 frameborder=0>
 - entry_name: |
-    Juventus 0-2 Real Madrid - Cristiano Ronaldo 64' (Champions League - Quarter-finals)
-  entry_id: 89hyek
+    China announces new tariffs on 106 US products, including soy, cars, and chemicals
+  entry_id: 89nnsp
   entry_content: |
-    <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
+    <img src=https://i.redditmedia.com/5DEHRMWJzW85nSdpbRAfjJwcGzYLp27eBK3hNHxJ22A.jpg?s=70afb76342d3b1a157d5b8cbee775dc8 frameborder=0>
 - entry_name: |
     I need to do this someday
   entry_id: 89jtvu
   entry_content: |
     <img src=https://i.redditmedia.com/3mmtbp3pP8kswuE5gVdj-5naU4JQkDLMNdj3c5ixTGk.jpg?s=b5e9da9ee141793b3ed5882b967e2d77 frameborder=0>
 - entry_name: |
+    Juventus 0-2 Real Madrid - Cristiano Ronaldo 64' (Champions League - Quarter-finals)
+  entry_id: 89hyek
+  entry_content: |
+    <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
+- entry_name: |
     Dark Souls Remastered is coming and I can't wait to die again!..and again...
   entry_id: 89i0ve
   entry_content: |
     <iframe src=https://v.redd.it/aco9nokjkqp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    China announces new tariffs on 106 US products, including soy, cars, and chemicals
-  entry_id: 89nnsp
+    Baby orangutan gets a bath
+  entry_id: 89olz9
   entry_content: |
-    <img src=https://i.redditmedia.com/5DEHRMWJzW85nSdpbRAfjJwcGzYLp27eBK3hNHxJ22A.jpg?s=70afb76342d3b1a157d5b8cbee775dc8 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOilyCheeryCommabutterfly&url=https%3A%2F%2Fgfycat.com%2FOilyCheeryCommabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FOilyCheeryCommabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     My Grandma made these outfits for my Mom and her sisters, 1972
   entry_id: 89hcrw
@@ -123,30 +128,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1ETsNVsqowy4LDo1ndCYwjf8PIW8w-qt7IeEw2alQ28.jpg?s=87c454822ad574148283fb72a3dc1058 frameborder=0>
 - entry_name: |
-    MRW I'm grading papers for a psychology course and a student decides to use personal life experience(s) as case study for risky sexual behavior.
-  entry_id: 89hfvg
-  entry_content: |
-    <img src=https://i.redditmedia.com/Dd3LmXsVS2ejUNwURk5uUBpDniOvyujF8uQkas8Cw2Q.gif?fm=jpg&s=13001b1a7ed58f9bab9e51af9fc3fe4a frameborder=0>
-- entry_name: |
     What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
   entry_id: 89m6jj
   entry_content: |
     <img src=https://i.redditmedia.com/vlCWgyAkfYXlQHs1kiqI7EfyTgl--hCjL-o_5M4hWfM.png?s=7957a549a1045fb117d22116e277e31d frameborder=0>
 - entry_name: |
-    Baby orangutan gets a bath
-  entry_id: 89olz9
+    That's a pro right there
+  entry_id: 89oefz
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOilyCheeryCommabutterfly&url=https%3A%2F%2Fgfycat.com%2FOilyCheeryCommabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FOilyCheeryCommabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    MRW I'm grading papers for a psychology course and a student decides to use personal life experience(s) as case study for risky sexual behavior.
+  entry_id: 89hfvg
+  entry_content: |
+    <img src=https://i.redditmedia.com/Dd3LmXsVS2ejUNwURk5uUBpDniOvyujF8uQkas8Cw2Q.gif?fm=jpg&s=13001b1a7ed58f9bab9e51af9fc3fe4a frameborder=0>
 - entry_name: |
     When you're deciding where to drop
   entry_id: 89hesp
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMixedQuarrelsomeCowrie&url=https%3A%2F%2Fgfycat.com%2FMixedQuarrelsomeCowrie&image=https%3A%2F%2Fthumbs.gfycat.com%2FMixedQuarrelsomeCowrie-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    TIL that Philadelphia outfielder Richie Ashburn once fouled off 14 pitches in a row. One foul bowl struck a woman, breaking her nose. While being carried off the field, she was struck by another foul ball hit by Richie during the same at-bat.
-  entry_id: 89gpx3
-  entry_content: |
-    <img src=https://i.redditmedia.com/azrI5xH5MsMVlqClJ45zFJt4vdGueE5NgTSx_W4uDC0.jpg?s=cb30374ea29031e37ac273f92ffe0d87 frameborder=0>
 - entry_name: |
     Boyfriend proposes to daughter in front of father
   entry_id: 89i7fa
@@ -163,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a6p1r5DYesJlfhtPCZNM-dvwjefDh6G0ztYas6mwe_o.jpg?s=a39d2f5fea17ce418f928a5a04d04857 frameborder=0>
 - entry_name: |
-    That's a pro right there
-  entry_id: 89oefz
-  entry_content: |
-    <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Adult recipient of stem cell transplant in Calgary cured of sickle-cell disease
   entry_id: 89lvpu
   entry_content: |
@@ -177,6 +172,21 @@ data:
   entry_id: 89ka12
   entry_content: |
     <img src=https://i.redditmedia.com/67yUyDvk_DWyNzqUCit3K_-UJutQ3IbPyJ_UTn20aOo.gif?fm=jpg&s=dc21e528db729f08920cd05ac3e2440f frameborder=0>
+- entry_name: |
+    Japanese rookie Shohei Ohtani hits first major league home run.
+  entry_id: 89ne4c
+  entry_content: |
+    <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Oh hey John Mayer
+  entry_id: 89prq7
+  entry_content: |
+    <img src=https://i.redditmedia.com/XmNW8Qr6aPBxDqRedgiLJ-Z2-wpWpk43yxc5iKGKzY8.jpg?s=0797100c952e2d644c94d990e4401f94 frameborder=0>
+- entry_name: |
+    When you hear that there's a petition for changing our beloved logo
+  entry_id: 89ntrn
+  entry_content: |
+    <img src=https://i.redditmedia.com/QO55O0Js_RdgFL5GSQO8g4VSser3sf9oBjBAjrAXoEY.jpg?s=a1712d4c4c42b74ef7cbdab9f13d3a04 frameborder=0>
 - entry_name: |
     Liberals just won a seat on the Wisconsin Supreme Court by a huge margin
   entry_id: 89l7d9
@@ -193,20 +203,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mmJr2YxSlTcui_vBkR-zNg_8mmf8e9atFBLky9QQ6ac.jpg?s=a2f50542d9701748dc529ebefbe756c2 frameborder=0>
 - entry_name: |
-    When you hear that there's a petition for changing our beloved logo
-  entry_id: 89ntrn
-  entry_content: |
-    <img src=https://i.redditmedia.com/QO55O0Js_RdgFL5GSQO8g4VSser3sf9oBjBAjrAXoEY.jpg?s=a1712d4c4c42b74ef7cbdab9f13d3a04 frameborder=0>
-- entry_name: |
     Cristiano Ronaldo amazing bicycle kick goal vs Juventus
   entry_id: 89hzf5
   entry_content: |
     <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
 - entry_name: |
-    Japanese rookie Shohei Ohtani hits first major league home run.
-  entry_id: 89ne4c
+    TIL Nichelle Nichols planned to quit her role as Lieutenant Uhura on “Star Trek” after the first season to pursue her dream of a Broadway career. She was convinced by a huge fan of the show to stay on for the sake of representation of black females in media. That fan was Martin Luther King Jr.
+  entry_id: 89plke
   entry_content: |
-    <iframe src=https://v.redd.it/3zpfsgfmgup01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/2sZc0LEHL8XD6f4a2oMk4_-bWnlI6Z2Mn6FJ4Q15g5k.jpg?s=f95ff12807d020fba02051725870ffac frameborder=0>
 - entry_name: |
     Making a whirlpool
   entry_id: 89jeh8
@@ -223,33 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ylmL4gbevKH5qi8nxINiFBal2RLkd4al259qYLfej7M.jpg?s=0e9f6737f84665d267b8fce302a555dd frameborder=0>
 - entry_name: |
-    My local drug dealer started dressing up as a Jehovah’s Witness so he wouldn’t arouse suspicion.
-  entry_id: 89j65b
+    Just keanu being keanu with a little fan
+  entry_id: 89ob24
   entry_content: |
-    null
-- entry_name: |
-    When you hit share screen
-  entry_id: 89kxh7
-  entry_content: |
-    <img src=https://i.redditmedia.com/7UZFLvEfwJPrZH_H2bzrTSrOPl2AD71JExYk65Fz2c8.jpg?s=dd279d87019061606e279553f32fc7c5 frameborder=0>
+    <img src=https://i.redditmedia.com/6Gs0mOeoZJl2QlZ2WUVL9pWBODo_mphaxlEc8oQHm60.jpg?s=9c1dc2050a66943c1e3e71aa261fcaa2 frameborder=0>
 - entry_name: |
     Summary: Physicists have identified a new state of matter whose structural order operates by rules more aligned with quantum mechanics than standard thermodynamic theory.
   entry_id: 89kv6f
   entry_content: |
     <img src=https://i.redditmedia.com/PYBsrngCwQGoApbX0JyIpj2Wn8uIAcNAazrC7jPllZ0.jpg?s=85f192f3f164b1e42381fa1b45e361d9 frameborder=0>
 - entry_name: |
-    Mexico formally asks US to clarify Trump's border remarks
-  entry_id: 89ievh
+    When you hit share screen
+  entry_id: 89kxh7
   entry_content: |
-    <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
+    <img src=https://i.redditmedia.com/7UZFLvEfwJPrZH_H2bzrTSrOPl2AD71JExYk65Fz2c8.jpg?s=dd279d87019061606e279553f32fc7c5 frameborder=0>
 - entry_name: |
-    My grandpa passed away last week. Baseball was our thing we did together. Grandma handed me a box of “stuff he’d been collecting for you”.
-  entry_id: 89j0fi
+    My local drug dealer started dressing up as a Jehovah’s Witness so he wouldn’t arouse suspicion.
+  entry_id: 89j65b
   entry_content: |
-    <img src=https://i.redditmedia.com/n1_F9ZFywlKXkNCf1FltX3cqgdAsW7tqpFf_-ykaKok.jpg?s=eed24ac51436edeff8a4b0554d6de2a9 frameborder=0>
+    null
 - entry_name: |
-    Imma be a rockstar mom🙄
-  entry_id: 89jk3r
+    Fresh snow lines
+  entry_id: 89ouz9
   entry_content: |
-    <img src=https://i.redditmedia.com/PtKDbkFQpsDy2rS2toGLjJJZ4-z5yfxysW1YhyFfiZg.jpg?s=cfe69dd04e765e702bf1d59b82ea27f3 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSharpDependentAfricanhornbill&url=https%3A%2F%2Fgfycat.com%2FSharpDependentAfricanhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FSharpDependentAfricanhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
