@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uthyaVHuyHyWM8gG67EHvT72qlQ8-DWqEASYgVNtAtY.jpg?s=a4decacc2d4e058578591de331883010 frameborder=0>
 - entry_name: |
-    Possible active shooter at Youtube in San Bruno
-  entry_id: 89hxnm
-  entry_content: |
-    <img src=https://i.redditmedia.com/COY_Vm0Y5dpTDSL7z0hFFrR86E4piNlVgrRwmufr9i4.jpg?s=e3ea1820bc06b2632d74a4a91fe4e31e frameborder=0>
-- entry_name: |
     Expect the unexpected!
   entry_id: 89jt2s
   entry_content: |
@@ -72,11 +67,6 @@ data:
   entry_id: 89jtvu
   entry_content: |
     <img src=https://i.redditmedia.com/3mmtbp3pP8kswuE5gVdj-5naU4JQkDLMNdj3c5ixTGk.jpg?s=b5e9da9ee141793b3ed5882b967e2d77 frameborder=0>
-- entry_name: |
-    Juventus 0-2 Real Madrid - Cristiano Ronaldo 64' (Champions League - Quarter-finals)
-  entry_id: 89hyek
-  entry_content: |
-    <img src=https://i.redditmedia.com/8bkm7dh5c0jorDsAgePhRBe68X3RVAZZkec9Nik1iXE.jpg?s=e3f4290b84a3dbefef37ef497437ef87 frameborder=0>
 - entry_name: |
     Dark Souls Remastered is coming and I can't wait to die again!..and again...
   entry_id: 89i0ve
@@ -117,11 +107,6 @@ data:
   entry_id: 89oefz
   entry_content: |
     <iframe src=https://v.redd.it/ilzl7lnpgvp01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Federal Budgets. How do they work?
-  entry_id: 89hugb
-  entry_content: |
-    <img src=https://i.redditmedia.com/w_2IqPCnQyOjc7Ot-uzNT9UsVOoSOvprMRIrXPeidG8.jpg?s=2d1f31d8bd307ccb5b5444f1ed0ad8f1 frameborder=0>
 - entry_name: |
     What better way to speak out against bullying than make the silhouette of the gay example an exaggerated, literally limp-wristed stereotype?
   entry_id: 89m6jj
@@ -251,4 +236,19 @@ data:
   entry_id: 89p3gq
   entry_content: |
     <iframe src=https://v.redd.it/ambfkgvfwvp01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Lics for you lics for me
+  entry_id: 89o4uy
+  entry_content: |
+    <iframe src=https://v.redd.it/vgi7fmgs7vp01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My grandpa passed away last week. Baseball was our thing we did together. Grandma handed me a box of “stuff he’d been collecting for you”.
+  entry_id: 89j0fi
+  entry_content: |
+    <img src=https://i.redditmedia.com/n1_F9ZFywlKXkNCf1FltX3cqgdAsW7tqpFf_-ykaKok.jpg?s=eed24ac51436edeff8a4b0554d6de2a9 frameborder=0>
+- entry_name: |
+    Imma be a rockstar mom🙄
+  entry_id: 89jk3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/PtKDbkFQpsDy2rS2toGLjJJZ4-z5yfxysW1YhyFfiZg.jpg?s=cfe69dd04e765e702bf1d59b82ea27f3 frameborder=0>
 ---
