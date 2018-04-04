@@ -13,11 +13,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/q0q8rqy6isp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I was delivering pizzas in the rain at 2 am and thought this alleyway looked cool
-  entry_id: 89ho2x
-  entry_content: |
-    <img src=https://i.redditmedia.com/7SU8k5gV1GiGPaRbrGxLupNtN8YGGU4nsBsxjW8MDL8.jpg?s=9eebcf42cfc667635119d26ad28401a2 frameborder=0>
-- entry_name: |
     Baby rhino guards mom during toe treatment
   entry_id: 89oo9p
   entry_content: |
@@ -183,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KOce1L3F6LPwy6Kp2YhP6N--5h0hu_PY7nqb3eLV1GA.jpg?s=70f9ac2e96abfbed8d78c32e5c17df29 frameborder=0>
 - entry_name: |
-    Over 100,000 confiscated weapons were used to create this 26ft tall Knife Angel statue
-  entry_id: 89kt3q
-  entry_content: |
-    <img src=https://i.redditmedia.com/mmJr2YxSlTcui_vBkR-zNg_8mmf8e9atFBLky9QQ6ac.jpg?s=a2f50542d9701748dc529ebefbe756c2 frameborder=0>
-- entry_name: |
     Fresh snow lines
   entry_id: 89ouz9
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 89mnde
   entry_content: |
     <img src=https://i.redditmedia.com/JF7zX1wiAz28jGz5RtCj2wechX-l4YFOOUsHLDLGAPQ.jpg?s=b90e8886ddfe152bde48c2bb0e8c260a frameborder=0>
+- entry_name: |
+    Mexico formally asks US to clarify Trump's border remarks
+  entry_id: 89ievh
+  entry_content: |
+    <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
+- entry_name: |
+    Giant fluff ball goes into attack mode
+  entry_id: 89p3gq
+  entry_content: |
+    <iframe src=https://v.redd.it/ambfkgvfwvp01/DASH_9_6_M frameborder=0></iframe>
 ---
