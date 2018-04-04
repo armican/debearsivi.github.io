@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7SU8k5gV1GiGPaRbrGxLupNtN8YGGU4nsBsxjW8MDL8.jpg?s=9eebcf42cfc667635119d26ad28401a2 frameborder=0>
 - entry_name: |
-    I've found something incredible in my grandfather's garage
-  entry_id: 89gysn
-  entry_content: |
-    <img src=https://i.redditmedia.com/qUaPH_XRYPOQPi61ecGAFaSUXlP16PX-8Pp7BSXLZ14.gif?fm=jpg&s=7e9aa48f933b07bbaa56bfbb5c178107 frameborder=0>
-- entry_name: |
     Baby rhino guards mom during toe treatment
   entry_id: 89oo9p
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 89ouz9
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSharpDependentAfricanhornbill&url=https%3A%2F%2Fgfycat.com%2FSharpDependentAfricanhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FSharpDependentAfricanhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Mexico formally asks US to clarify Trump's border remarks
+  entry_id: 89ievh
+  entry_content: |
+    <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
 ---

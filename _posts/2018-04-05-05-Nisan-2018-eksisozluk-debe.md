@@ -6,93 +6,86 @@ data:
     yedi buçuk ayda 115 kilo vermek
   entry_id:  75698878
   entry_writer: bronenosets potyomkin
-  entry_fav_count: 557
+  entry_fav_count: 560
   entry_content: |
     üst edit: keyfimden kilo aldığımı belirten ve annesinin haşimato hastalığından bahseden olmuş, ben de hipotiroidi hastasıyım. tsh değerlerim 6-9 arasında geziyor en iyi durumda bile kendimi bildim bileli. insanların neler yaşadığını bilmeden yorum yapmak gerçekten kolay.<br/><br/>gerçekleştirdiğim eylem. temmuz ortasında(2017) 222 kilo iken mart başında(2018) 107 kilo idim ve cerrahın talebi üzerine kilomu sabitlemeye çalışıyorum bir süredir. bu operasyon için bir süre stabilizasyon gerektiğini söyledi. operasyondan sonra ömürlük beslenmeye dönünce hızla kilo artışı gibi endişeler mevcut tabii.<br/><br/>sözlüğü ilk defa özel bir iş için kullanmanın suçluluğu içerisinde sarkık derilerimi aldırmak ve yıllar boyu süren aşırı şişmanlığın getirdiği kas deformasyonlarının tamiri için bir sponsor ya da yol gösterici aramaktayım.<br/><br/>kiloları hiçbir cerrahi müdahale olmaksızın verdim. ketojenik ağırlıklı beslendim, <a class="b" href="/?q=intermittent+fasting">intermittent fasting</a> yaptım, günde 9 litreye yakın su içtim(şimdilerde 6'ya kadar düştü kilo azalınca tabii), günde 20 bin adım attım ve haftanın 6 günü ağırlık çalıştım(son 3 ayda kardiyo da katıldı buna).<br/><br/>sözlükte bir süre <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/72058958" title="https://eksisozluk.com/entry/72058958">raporlama</a> yapmışım, onu da şimdi hatırladım.<br/><br/>isteyenler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/dramatiktenor/" title="https://www.instagram.com/dramatiktenor/">instagram hesabımdan</a> süreç boyunca çektiğim fotoğrafları inceleyebilir. öyle before/after yapayım, çıplak çıplak günbegün değişim göstereyim gibi kaygım olmadı ve hayatın doğal akışı içerisinde çekilmiş fotoğraflarımı zaman zaman paylaştım hesapta.<br/><br/>amacıma geri döneyim; her gün plastik cerrahları konuk alan değişim temasıyla insanları bir dizi estetik operasyona tabi tutan tv programlarının hiçbirinden mesajlarıma yanıt alamadım ve hastanelere nasıl "gelin bana sponsor olun, ben ilginç bir şeyler başardım. size de faydası dokunur belki böyle bir şeyle anılmanın" denir bilmiyorum açıkçası. zaten şu entry de utana sıkıla giriliyor, emin olun. sonuç olarak yıllık 25 bin lira civarı geliri olan bir süreli sözleşmeli kamu personeli olarak 20-30 bin liralık ameliyat masraflarının altından kalkabileceğimi düşünmüyorum. bu rakam da üniversite hastanesi tarafından verildi, düşünün artık gerisini.<br/><br/>sözün hasılı; bu işi benim altından kalkabileceğim sembolik rakamlara(birkaç bin lira çıkar benden çıksa çıksa, o da taksitle) yapabilecek cerrah tanıdığı olan, hastane iletişimi olan, "şu mevzu duyulsa aslında yapacak birileri illaki çıkar" diyerek basın ile temas kurmamı sağlayabilecek çevresi olan suserlar için on yüz bin milyon iyilik point veren bir bonus olabilirim arzu ederlerse.<br/><br/>not: merak edenler için beslenme ya da spor düzenimin ayrıntılarını anlatabilirim, gerçekten de kilo vermek öyle atla deve bir şey değil. tabii önünüzde vermeniz gereken 100 kilodan fazla bir kitle varsa bayağı bayağı mumakil, ejderha falan olabiliyor.<br/><br/>alt edit: sayamayacağım kadar fazla destek mesajı geldi, herkese çok teşekkür ederim. ancak meselenin ne zaman değiştiğini yakalayamadım ben; "senden iyi kazanıyorum ama senin gibi güzel yaşamıyorum ben" eleştirisine kadar gitmiş iş. giydiğim kostümü eğlence sananlar için belirtme ihtiyacı hissettim; o kostümü işim gereği giydim, makyajı işim gereği yaptım. elbette internette her yazılıp çizileni dert etmek ortamın ruhunu anlayamamış olmanın bir tezahürü bir parça ama tanımadığım bu kadar çok insana hayatımı (instagram hesabım) daha önce açmamış olmanın getirdiği bir endişe hâli var. laf olsun diye sallayanlara açıklama ile geri dönersem gülünç bulmayın lütfen, alışık değilim. tekrardan teşekkürler.
-- entry_name: |
-    26 nisan 2018 tekel bayileri eylemi
-  entry_id:  75695088
-  entry_writer: freelines
-  entry_fav_count: 536
-  entry_content: |
-    <a class="b" href="/?q=%c3%bcstten+edit">üstten edit</a> : gerçekten çok absürt insanlar var. köşedeki büfecinin <a class="b" href="/?q=milyar+dolarl%c4%b1k+zincir+marketler">milyar dolarlık zincir marketler</a>le aynı fiyata ürün satmasını bekleyen mantık yoksunu tipler mi dersin, her halta itfaiye muhabbeti yapıp komik olduğunu sanan mı dersin, fikrini bile beyan etmekten yoksun tiplerin beter olsunlar diye kin kusması mı dersin. gerçekten bu ülkede absürtlük bulaşıcı sanırım.<br/><br/>bak güzel kardeşim, migros'da 1-2 lira düşük fiyata bira alabilirsin. evet serbest piyasa. kimse seni zorlamıyor büfeden al diye. ama saat 21.55 olduğunda migros'a giremiyorsun ve sigaranı biranı o büfeciden alıyorsun. adam orada o saatten sonra hizmet veriyorsa sen de bu hizmetten faydalanmak istiyorsan aradaki farka razı olursun. bu kadar basit. <br/><br/>not : tekel büfesi işletmiyorum. tekel büfesi sahibi bir akrabam yok. hatta tanıdığım bir tekel büfecisi bile yok.<br/><br/><a class="b" href="/?q=%c3%bcstten+editin+sonu">üstten editin sonu</a>.<br/><br/>--------<br/><br/>isyan bayrağını çeken tekel bayilerinin kepenk kapatma eylemi.<br/><br/>şöyle bir bildiri yayınlamışlar:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>haksız rekabet içinde kaybolan küçük esnaf için kepenk kapatıyoruz!<br/><br/>* alkol satış yasağı sebebiyle 22.00’dan sonra alkol vermediğimiz müşterilerin darbına maruz kaldığımız için kepenk kapatıyoruz!<br/><br/>* her sene sigara ve alkole uygulanan zamdan dolayı sahte içki ve kaçak sigaralara artan rağbet yüzünden kepenk kapatıyoruz!<br/><br/>* kırmızı ışıkta geçip insanların canına kasteden sürücü 235 tl, uyuşturucu madde satarak insanların sağlığını hayatını tehlikeye atan şahıslar 167 tl ceza öderken, vergisini ödeyip sattığımız bir biradan en az 37 bin tl ceza ödememek için kepenk kapatıyoruz!<br/><br/>* sokak aralarına kadar giren zincir marketlerin uygulamış olduğu fiyat politikaları yüzünden bu haksız rekabet ortamında mücadele gücümüz kalmadığından kepenk kapatıyoruz!<br/><br/>* saat 22.00’dan sonra alkol satış yasağını fırsata çevirmek isteyen art niyetli kişilerin esnafı sivil polisiz diye kandırmasından dolayı kepenk kapatıyoruz!<br/><br/>* bazı illerimizde emniyetin görev ve yetkilerini orantısız kullandığını gözlemlediğimiz için kepenk kapatıyoruz!<br/><br/>* trol ile balık avlamanın cezası 1750 tl ve hayvana tecavüz işkence bile kabahatler kanununa giriyor haksız emsalsiz cezalara dur demek için kepenk kapatıyoruz!<br/><br/>* televizyonlarda sigara ve alkol görüntüleri mozaiklenirken silahların alkole nazaran zararsızmış gibi gösterilmesi akıl tutulmasıdır. silah yakalatmak ufak para cezası ama 22.00’den sonra alkol satarken yakalanmak 36.758 tl olduğu için kepenk kapatıyoruz!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
 - entry_name: |
     4 nisan 2018 eğitimde yeni dönem müjdesi
   entry_id:  75695352
   entry_writer: noryth aquanum
-  entry_fav_count: 385
+  entry_fav_count: 387
   entry_content: |
     (bkz: <a class="b" href="/?q=m%c3%bcjdemi+isterim+%c3%a7ocu%c4%9fun+sike+sike+bu+okula+gidecek">müjdemi isterim çocuğun sike sike bu okula gidecek</a>)
 - entry_name: |
     hala kol saati takan insan
   entry_id:  75696645
   entry_writer: forrestgump
-  entry_fav_count: 356
+  entry_fav_count: 359
   entry_content: |
     aksesuar kelimesinin anlamını bilmeyen insanlar tarafından kol saati takması yadırganır.<br/><br/>kol saatini yadırgayan bu insanlar; kolye, küpe, bileklik, yüzük veya kol düğmesi gibi aksesuarların takılmasına da hiçbir anlam veremezler. çünkü onlara göre kot+tshirt+beyaz converse'den ötesi fonksiyonel değildir, fazlalıktır. <br/><br/>ayrıca saate bakmak için 6 inch'lik cep telefonunu cebinden çıkarıp ekranını açmak ve tekrar cebine sokmak "yersen" daha pratiktir.
 - entry_name: |
     tarihte ilk kez türkiye dostumuz
   entry_id:  75703646
   entry_writer: enemy
-  entry_fav_count: 277
+  entry_fav_count: 281
   entry_content: |
     (bkz: <a class="b" href="/?q=inanma+seni+sikecek">inanma seni sikecek</a>)
 - entry_name: |
     sevgilisinden ayrıldıktan 5 ay sonra evlenen kız
   entry_id:  75691223
   entry_writer: betamikrobu
-  entry_fav_count: 267
+  entry_fav_count: 270
   entry_content: |
     benden ayrıldıktan iki hafta sonra nişanlanmış, 6 ay sonra da evlenmiş kızın belkide türdeşidir. <br/><br/>o zamanlar içinde bulunduğum maddi yokluk bahane edilmiş, yoğun baskıya maruz bırakılmış, bu baskının oluşturduğu stress bize ağır bir şekilde yansımış ve 4 küsür senelik ilişkimiz sonlanmıştır. <br/><br/>tabii bir süredir el altında tutulan "uygun" damat adaylarından biri kızımıza kabul ettirilmiş. "kutsal" evlilik kurumu kurulmuştur.
 - entry_name: |
     sanatçıların kemal kılıçdaroğlu'na verdiği ayar
   entry_id:  75708848
   entry_writer: roy halladay
-  entry_fav_count: 230
+  entry_fav_count: 257
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ibrahim tatlıses, sibel can, yavuz bingöl, cengiz kurdoğlu, mustafa sandal, coşkun sabah, ahmet şafak, esat kabaklı, alişan, seda sayan, altay, deniz seki, arif susam, hande yener, muazzez ersoy, şafak sezer, hülya koçyiğit, elif buse doğan, hakan peker, serkan çağrı, elif karlı, burcu kıratlı, emel müftüoğlu, ceyhun çelikten, necati şaşmaz, cahit kahyaoğlu, osman albayrak, ümit yılmaz<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>(bkz: <a class="b" href="/?q=yalaka">yalaka</a>)
-- entry_name: |
-    samsung'ı samsung diye okuyan insan
-  entry_id:  75710903
-  entry_writer: vieragt
-  entry_fav_count: 225
-  entry_content: |
-    yanımda biri semsink es nayn gibi bir laf etse ağzına çakarım sümsüğü
 - entry_name: |
     iş hayatında çalışmaktan tiksindiren şeyler
   entry_id:  75695736
   entry_writer: cadillacman
-  entry_fav_count: 191
+  entry_fav_count: 197
   entry_content: |
     çalışılan iş yerinde sineğin yağının hesaplanması. az adamla çok iş yapılması. senin görev tanımında olmayan işlerin sana kilitlenmesi. karşılığında maddi olarak bunun takdir edilmemesi. tipik türk işi şark kurnazlıkları ve küçük hesaplar.
-- entry_name: |
-    ikinci aleyna tilki vakası alper erözer
-  entry_id:  75689627
-  entry_writer: biralexdegilimtabiki
-  entry_fav_count: 189
-  entry_content: |
-    abi aleyna o ses'e falan çıktı, kızın elinden tuttular, hatta haluk levent bile aleyna'ya ulaştığını, türkü söylemesi gerektiğini söylemişti. sonrası zaten biliyorsunuz 2 şarkısı totalde 700m civari dinlendi youtube'da. <br/><br/>ama bu çocuk kim amına koyayım? harbiden kim lan? popüler kültür medyasında benim gözümün önüne ilk defa geliyor. ben günde 16 saat internet kullanan adamım olum.. bu velet kim? ne ara bu kadar kişiye hitap edebildi? avm'nin içinde "beleş" de olsa o kadar çocuk nasıl oraya akın edebildi? <br/><br/>olm bu ülkede ünlü olmak, bi kesime hitap etmek çok kolay lan. piyasada tutunmak için çabalayan binlerce tiyatro öğrencisi, müzik öğrencileri, sokakta çalan adamlar var... ah ulan ahh.
 - entry_name: |
     çaylak onay listesi
   entry_id:  75691766
   entry_writer: marjinalolamayaninsan
-  entry_fav_count: 185
+  entry_fav_count: 193
   entry_content: |
     eskiden olsa gelip burada uzun uzadıya nasıl yazacağınıza dair bilgiler, tüyolar verebilirdim. ama artık tek diyeceğim şu: kendinizi o kadar kasmayın; uzun, bilgi verici entryler girmenize hiç mi hiç gerek yok. çok çok üşengeç biri iseniz, rastgele klavye tuşlarına basarak da gayet tabii "yazar" olabilirsiniz. nasıl mı? buyurun:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/A1rMoQ">https://hizliresim.com/a1rmoq</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/JQbJ5E">https://hizliresim.com/jqbj5e</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/G9MAqv">https://hizliresim.com/g9maqv</a><br/><br/>"algoritma tarafından yazar olur belki, ama hemen işine aşık "moderatörler" fark edip uçururlar." diye düşünenler olursa, şunu da göstereyim: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/EP9d7D" title="https://hizliresim.com/EP9d7D">328 tane fark edilmeyen entrymsi</a> <br/><br/>son olarak şunu da paylaşayım da ağlanacak halimize gülelim.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/JQbbrE" title="https://hizliresim.com/JQbbrE">nasıl yazar olunur?</a>
+- entry_name: |
+    ikinci aleyna tilki vakası alper erözer
+  entry_id:  75689627
+  entry_writer: biralexdegilimtabiki
+  entry_fav_count: 190
+  entry_content: |
+    abi aleyna o ses'e falan çıktı, kızın elinden tuttular, hatta haluk levent bile aleyna'ya ulaştığını, türkü söylemesi gerektiğini söylemişti. sonrası zaten biliyorsunuz 2 şarkısı totalde 700m civari dinlendi youtube'da. <br/><br/>ama bu çocuk kim amına koyayım? harbiden kim lan? popüler kültür medyasında benim gözümün önüne ilk defa geliyor. ben günde 16 saat internet kullanan adamım olum.. bu velet kim? ne ara bu kadar kişiye hitap edebildi? avm'nin içinde "beleş" de olsa o kadar çocuk nasıl oraya akın edebildi? <br/><br/>olm bu ülkede ünlü olmak, bi kesime hitap etmek çok kolay lan. piyasada tutunmak için çabalayan binlerce tiyatro öğrencisi, müzik öğrencileri, sokakta çalan adamlar var... ah ulan ahh.
 - entry_name: |
     hayvan gibi kullanılırken tedavülden kalkan ürün
   entry_id:  75694910
   entry_writer: inflexibleuser
-  entry_fav_count: 182
+  entry_fav_count: 184
   entry_content: |
     demokrasi<br/><br/>belki de insan gibi degil hayvan gibi kullandığımız için artık kalmamıştır.
 - entry_name: |
     ilker başbuğ'un gümbür gümbür gelmesi
   entry_id:  75702465
   entry_writer: garipbasci
-  entry_fav_count: 158
+  entry_fav_count: 163
   entry_content: |
     başbuğ hakkında fetö'nün açtığı davalardan biri hala devam ediyor bildiğim kadarı ile. son duruşmada davayı bilerek kapatmamışlardı. ellerinde bir koz olarak tutuyor olabilirler. çünkü bu ülkede adalet taraftarları olan bir spor dalıdır.
+- entry_name: |
+    tofaşla makas atarken taklaya gelen gençler
+  entry_id:  75708693
+  entry_writer: bibidibabidibu
+  entry_fav_count: 155
+  entry_content: |
+    ölmediklerine üzüldüğüm gençler. potansiyel birer katil olarak, trafikte kaldıkları yerden devam edeceklerine dair en ufak bir şüphem yok.
 - entry_name: |
     en cool erkek burcu
   entry_id:  75696866
@@ -101,45 +94,31 @@ data:
   entry_content: |
     hepiniz biliyorsunuz inkar etmeyin...<br/><br/>aslan burcu tabii ki..
 - entry_name: |
-    tofaşla makas atarken taklaya gelen gençler
-  entry_id:  75708693
-  entry_writer: bibidibabidibu
-  entry_fav_count: 135
-  entry_content: |
-    ölmediklerine üzüldüğüm gençler. potansiyel birer katil olarak, trafikte kaldıkları yerden devam edeceklerine dair en ufak bir şüphem yok.
-- entry_name: |
     ben aynısını 40 metreden ingiltere'ye attım
   entry_id:  75707106
   entry_writer: not just a dream izzet altinmese 2
-  entry_fav_count: 128
+  entry_fav_count: 141
   entry_content: |
     şöyle kibirli konuşup, haklı olabilecek tek insan evladı zlatan. kendisi, daha güzel dediyse güzeldir, tartışılmaz.
-- entry_name: |
-    izmir'i akp'nin alması durumunda olacaklar
-  entry_id:  75702948
-  entry_writer: tirizettin
-  entry_fav_count: 126
-  entry_content: |
-    ev kiraları yükselir, başta araplar olmak üzere suriyeliler izmir'in tüm il merkezi ve ilçelerine yayılır. <br/><br/>bikini ile denize girilen bilumum sahilde haşemalılar cirit atmaya başlar. bunun sonucunda haremlik selamlık plajlar türer. <br/><br/>1+1 evlere inşaat yasağı gelir, alkollü mekan açılması zaten zorlaştırılmıştı, imkansız hale getirilir. kordon dediğiniz yerde mangal atanlar, arkasına 15 kişi toplayıp yeşliköy florya sahildeki gibi namaz kılanlar babasının malı gibi halıyı çaydanlıgı kapanlar toplaşır. <br/><br/>inşaat ekonomisi hızla göçe sebep olur. her boşluğa bir cami dikilir. ulaşım yalandan birkaç sene ucuz olur. sonra bol propaganda ve medya desteği ile halkın beynı yıkanmaya calısır. <br/><br/>3 sene sonra tıpkı istanbuldaki gibi tıkış tepiş bir metro yada metrobüs gibi bir araca binmek için 4 tl bayılırsın. <br/><br/>ak parti'li büyükşehir belediyesi demek günümüzde budur ne azı ne fazlası. <br/><br/>o yüzden büyük şehirlerde çözülmeler had safhada. en önemli şey ulaşım berbat.<br/><br/>bonus: imam hatipler. tüm anadolu liseleri, tıpkı çamlıca beşiktaş gibi anadolu imam hatip liselerine evrilir.
 - entry_name: |
     bilgisayar oyunlarında oyun amacının dışına çıkmak
   entry_id:  75703604
   entry_writer: jelibonpanda
-  entry_fav_count: 123
+  entry_fav_count: 132
   entry_content: |
     gta gibi oyunlarda trafik kurallarına ve lambalara uymaktır. sonra sıkılınca önünüze geleni tararsınız.
 - entry_name: |
-    lionel messi
-  entry_id:  75687575
-  entry_writer: madmen
-  entry_fav_count: 107
+    izmir'i akp'nin alması durumunda olacaklar
+  entry_id:  75702948
+  entry_writer: tirizettin
+  entry_fav_count: 129
   entry_content: |
-    tüm zamanların en iyi futbolcusu. en iyi ikinci için;<br/><br/>(bkz: <a class="b" href="/?q=diego+armando+maradona">diego armando maradona</a>)
+    ev kiraları yükselir, başta araplar olmak üzere suriyeliler izmir'in tüm il merkezi ve ilçelerine yayılır. <br/><br/>bikini ile denize girilen bilumum sahilde haşemalılar cirit atmaya başlar. bunun sonucunda haremlik selamlık plajlar türer. <br/><br/>1+1 evlere inşaat yasağı gelir, alkollü mekan açılması zaten zorlaştırılmıştı, imkansız hale getirilir. kordon dediğiniz yerde mangal atanlar, arkasına 15 kişi toplayıp yeşliköy florya sahildeki gibi namaz kılanlar babasının malı gibi halıyı çaydanlıgı kapanlar toplaşır. <br/><br/>inşaat ekonomisi hızla göçe sebep olur. her boşluğa bir cami dikilir. ulaşım yalandan birkaç sene ucuz olur. sonra bol propaganda ve medya desteği ile halkın beynı yıkanmaya calısır. <br/><br/>3 sene sonra tıpkı istanbuldaki gibi tıkış tepiş bir metro yada metrobüs gibi bir araca binmek için 4 tl bayılırsın. <br/><br/>ak parti'li büyükşehir belediyesi demek günümüzde budur ne azı ne fazlası. <br/><br/>o yüzden büyük şehirlerde çözülmeler had safhada. en önemli şey ulaşım berbat.<br/><br/>bonus: imam hatipler. tüm anadolu liseleri, tıpkı çamlıca beşiktaş gibi anadolu imam hatip liselerine evrilir.
 - entry_name: |
     erkeklerdeki popo merakı
   entry_id:  75706662
   entry_writer: threex
-  entry_fav_count: 99
+  entry_fav_count: 100
   entry_content: |
     bir kadının önce poposuna sonra da bunun sahibi kim diye yüzüne bakarım, öyle bir şey işte bu merak. benim için parmak izi, kimlik numarası gibi bir şey. <br/><br/>şaka yapmıyorum, istanbul'da gördüğüm bir popoyu<sup class="ab"><a title="(bkz: bağyanı)" href="/?q=ba%c4%9fyan%c4%b1" data-query="bağyanı">*</a></sup> antalya'da<sup class="ab"><a title="(bkz: yüzünü daha sonra görerek direk poposundan)" href="/?q=y%c3%bcz%c3%bcn%c3%bc+daha+sonra+g%c3%b6rerek+direk+poposundan" data-query="yüzünü daha sonra görerek direk poposundan">*</a></sup> tanımışlığım var!
 - entry_name: |
@@ -157,26 +136,33 @@ data:
   entry_content: |
     özgürlükler ülkesi olan amerika'da, veya aşklar ülkesi olan fransa'da "bir ışidlinin annesini oynamayı çok isterdim. tam ışidli olacaktım babam beni kurtardı" dese başına ne gelecekse, türkiye'de başına daha azı gelmiş olan kişi..
 - entry_name: |
-    cristiano ronaldo
-  entry_id:  75687550
-  entry_writer: mangon
-  entry_fav_count: 55
+    usta şoförlerden acemi şoförlere tavsiyeler
+  entry_id:  75687836
+  entry_writer: caanryurt
+  entry_fav_count: 60
   entry_content: |
-    bu gece şampiyonlar ligi çeyrek finalinde juventus'a karşı da gol bularak üst üste 10. şampiyonlar ligi maçında da gol atarak ruud van nistelrooy'un 9 maçlık rekorunu kıran futbolcu.<br/><br/>geçen seneki şampiyonlar ligi sezonunda totalde ulaştığı gol sayısını (13) bu sezon çeyrek final ilk maçları sonunda şimdiden geçti. (14) ve evet, geçen sezon da şampiyonlar ligi gol kralı olmuştu.<br/><br/>bugün attığı ikinci gol, şampiyonlar ligi tarihinin gelmiş geçmiş en iyi, futbol tarihinin de gelmiş geçmiş en iyi gollerinden birisi olarak tarihteki yerini aldı. zidane'ın tepkisi her şeyi özetliyor zaten:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DZ4tDbHW4AE_Vjx.jpg:large" title="https://pbs.twimg.com/media/DZ4tDbHW4AE_Vjx.jpg:large">https://pbs.twimg.com/…ia/dz4tdbhw4ae_vjx.jpg:large</a><br/><br/>şampiyonlar liginde juventus'a ve buffon'a karşı bu akşam kariyerindeki 9. golünü attı. juventus cl kariyerindeki en çok gol attığı iki takımdan birisi. buffon'da iki kaleciden birisi. diğer takımı ve diğer kaleciyi merak ediyorsanız, öteki takım bayern münih. öteki kaleci de manuel neuer. evet, yanlış duymadınız. ronaldo'nun ucl kariyerinde en çok gol attığı iki takım bayern münih ve juventus. en çok gol attığı iki kaleci neuer ve buffon.<br/><br/>kendisi tanımlama da kelimeler kifayetsiz kalır. bazıları onun sadece gol attığını iddia eder. gelin, bu sadece gol atan futbolcu avrupa futbolunun en iyi savunma yapan ekiplerinden birisine karşı nasıl performans göstermiş, bakalım:<br/><br/>2 gol<br/>1 asist<br/>3 dribbling<br/>2 kilit pas<br/>2 şans yaratma<br/>8 duels won <br/><br/>tek kelime inanılmaz. şanına yaraşan en güzle unvan hiç şüphesiz:<br/><br/>(bkz: <a class="b" href="/?q=greatest+of+all+time">greatest of all time</a>)
+    kendine usta deyip de makas atıp, hız limitinin 50 km ile sınırlı olduğu yerlerde allah ne verdiyse gaz pedalına yüklenen insanların vermemesi gereken tavsiyelerdir.<br/><br/>trafik kurallarına uyun; eksiksiz hepsine uyun sadece. size ne kadar saçma geldiğinin bir önemi yok çünkü.<br/><br/>- yol çok boştu abi ondan bastım.<br/>- basma!<br/><br/>- burada da mı sinyal vereceğim?<br/>- evet vereceksin.<br/><br/>- kimse yok yolda, bu saatte de kırmızıda durulur mu?<br/>- evet durulur.<br/><br/>- emniyet kemeri rahatsız ediyor, zaten kısa mesafe gerek var mı takmaya?<br/>- evet var.<br/><br/>bunun gibi size göre hiç gerek olmayan yerlerde, kolay idrak edilebilen bu kurallara uyulmadığı için kaç insan öldü bir düşünün. geri dönüşü olmayan durumlarda, özellikle mevzu bir canlının hayatıysa, kurallar es-ne-ti-le-mez.
 - entry_name: |
     dindar ve muhafazakar gençlerin ateizme kayması
   entry_id:  75708073
   entry_writer: creeping dutchman
-  entry_fav_count: 54
+  entry_fav_count: 59
   entry_content: |
     son zamanlarda çok miktarda gündemi meşgul eden analizlerden birisi. ben bunun bilinçli olarak gündeme sürüldüğünü düşünmeye başladım. bunların çeşitli kesimlere vermeye çalıştığı mesajlar var. <br/><br/>laik kesime,<br/><br/>"korkmayın la, toplum çok da dindarlaşmıyor aslında"<br/><br/>dindar kesime, <br/><br/>"toplum yeterince dindarlaşmıyor, safları sıklaştıralım"<br/><br/>not: belki de sayko bir paranoyağım.
 - entry_name: |
     doktorlar asgari ücret alsın kampanyası
   entry_id:  75707838
   entry_writer: atarlanadam
-  entry_fav_count: 53
+  entry_fav_count: 56
   entry_content: |
     (bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)<br/><br/>10 sene okuyan adamla hiç okumadan sanayide çalışan adam aynı parayı alsın diyor bu troll. hiç geçmiş entrylerine bakmaya dahi gerek yok. direk engelle geç. sözlük bunlarla kaynıyor.
+- entry_name: |
+    yeşil nasim
+  entry_id:  75697846
+  entry_writer: hayvan olun
+  entry_fav_count: 43
+  entry_content: |
+    şöyle demiş;<br/><br/>"gerçek dünyada ifade özgürlüğü yok. gerçekleri söylerseniz baskı altına alınırsınız, bu sistemin desteklediği bir şey değil. hedeflenen kullancıların içerikleri filtreleniyor ve aşağı seviyelere düşürülüyor. o nedenle insanlar onların videolarını zar zor görüyor. youtube'da ya da başka video paylaşım sitelerinde eşit büyüme şansı yok. kanalınız onlar isterse büyür."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/haber/youtube-saldirganinin-kimligi-belli-oldu,597247" title="http://t24.com.tr/haber/youtube-saldirganinin-kimligi-belli-oldu,597247">http://t24.com.tr/…aninin-kimligi-belli-oldu,597247</a><br/><br/>eğer bunu che guevara karizmasında bir adam söyleseydi şu an milyonlarca kişi peşinden gidiyordu.<br/><br/>youtube iyi yırtmış bence.
 - entry_name: |
     kadını seksi yapan unsurlar
   entry_id:  75693014
@@ -185,17 +171,10 @@ data:
   entry_content: |
     tamamen karşısındakinin bakış açısına göre değişen unsurlar.<br/><br/>biri gitar çalanı seksi bulurken, diğeri leğende çamaşır yıkarken bacağı görünen kadını seksi bulur.<br/><br/>biri klasik giyinmiş sekreter hanımı seksi bulurken, diğeri yol kenarında çiçek satan çiçekçi teyzeyi seksi bulur.<br/><br/>biri inşaatta kadın görünce şehvetle bakar, diğeri inşaattaki kadını düşünerek geç boşalmaya çalışır. <br/><br/>demem o ki; seksi insanın belirli bir biçimi yoktur. tamamen karşısındakinin çocukluk ve ergenlik zamanından getirdiği bazı psikolojik yapılarla şekillenir.
 - entry_name: |
-    ancak çok zengin insanların kurabileceği cümleler
-  entry_id:  75697353
-  entry_writer: tasaltinda kurba
-  entry_fav_count: 39
-  entry_content: |
-    gerçek yaşanmış.<br/>rahmi koç; ülkede 80 milyon dolar pardon 80 milyon insan var.
-- entry_name: |
     squat yapan erkek
   entry_id:  75707735
   entry_writer: konforlu tabut
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
     sözlük kitlesine hitaben: squat yapmayan erkeklere göre daha uzun süre karı ponçikleyebilecek erkeklerdir.<br/><br/>sporla alakadar kitleye hitaben: squat yapmayan erkeklere göre daha kısa sürede yağ yakımı gerçekleştiren erkektir. squat hareketi ile beraber sadece poponun değil merkez bölge ve bacaktaki uzun kasların da çalışmasıyla baklavalarına daha hızlı kavuşacak erkektir.
 - entry_name: |
@@ -206,40 +185,75 @@ data:
   entry_content: |
     şuradaki entry'imde 4 ay önce belirttiğim durum. <br/><br/>(bkz: <a class="b" href="/entry/73446241">#73446241</a>)<br/><br/>size korkunç birşey söylemek istiyorum, viyana son 9 senedir dünyanın en yaşanılabilir şehri seçiliyor fakat son 6 aydır neredeyse 7-8 cinayet işlendi viyana'da afganlar tarafından.. bir tanesi hatta bir aileyi katletti, baba, eşi ve kızlarını aynı anda sokak ortasında bıçakla kovalayarak cadde cadde her birini bıçakladı.. afganlar suriyelilerden kat be kat pis bir millettir, burada 10 suç işleniyorsa 7'sini afganlar 2'sini suriyeliler işler. avusturyalılar geri göndermek için can atıyor, suç işleyen hapse tıkılıyor daha sonra sınır dışı ediliyor ama avusturya'da halk özellikle afganlardan illallah demiş durumda, suriyeliler bir nebze ama afganlar çok tehlikeli. <br/><br/>paylaşılan haberleri görünce kanım dondu. ne oluyor güzel ülkemize? kim tezgahlıyor bu olayı? emeği geçen herkesin amına koyayım.
 - entry_name: |
-    abd'nin medrese bombalaması
-  entry_id:  75710768
-  entry_writer: munzevicakal
-  entry_fav_count: 17
-  entry_content: |
-    sadece insanliktan degil, hayvanliktan da nasibini alamamislarin damladigi basliktir. bir gorusu sevmeyebilirsiniz, sevmediginiz goruse mensup olanlarin terorizm yarattigini dusunup olmelerini dileyebilirsiniz ama 100 cocugun oldugu bir saldirada hala nefret kusuyorsaniz yuzune tukurulmeye bile layik degilsiniz. <br/><br/>isin garip tarafi boyle adamlar kendilerini humanist diye pazarliyorlar. umarim boyle bir ates sizin de cigerinizi yakar.
-- entry_name: |
     öğretmenlerin şaka maka 3 bin tl maaş alması
-  entry_id:  75710489
-  entry_writer: vurdugololdu111
+  entry_id:  75710004
+  entry_writer: no god no secde
+  entry_fav_count: 22
+  entry_content: |
+    yaptıkları işe göre oldukça azdır. ki bu paraya çok diyen sözlükteki çoğu kişinin ev geçindirmenin ne demek olduğunu bilmediği kanaatindeyim. hayatında kira, fatura vb. ücretler ödememiş kişilerin bunu anlayamadığı düşünüyorum. 3-4 boğaza bakan insan o paraya ancak anadoluda zar zor geçinir. bir ailenin lüks tüketimleri olmadan normal geçimi için gereken tutar 6/7 bin tl'dir büyük şehirlerde siz tüm gün onlarca çocuğa ders vermekle uğraşan, laf anlatmakla kendini paralayan bunu yaparkende sinirlerine de hakim olmak zorunda olan insanlara 3 bin tl çok indirin bu maaşı derseniz, kafasi geçim derdinde olan kendini gelistiremeyen bu insanlardan da kaliteli eğitim bekleyemezsiniz.<br/><br/>not: öğretmen değilim ancak zamanında bende öğrenci olduğumdan mesleklerinin ne kadar zor olduğunu biliyorum. birazcık empati başka bişey değil gereken.
+- entry_name: |
+    börü
+  entry_id:  75712875
+  entry_writer: 80 li yillari cok ozluyorum lan
+  entry_fav_count: 22
+  entry_content: |
+    - --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok yakında teşkilattan şef başkan sözcüklerini çıkıcaz.<br/><br/>- ama hoca sözünü çıkaramayacaksınız herhalde<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>bekliyoruz rtük'ten yıldırım bi uyarı..
+- entry_name: |
+    füsun demirel
+  entry_id:  75700386
+  entry_writer: hegel kim lan
+  entry_fav_count: 20
+  entry_content: |
+    kendisi 20 yaşındaki gençlerin öldürülmesine sempati duyarken, işsiz kaldığı için bizim üzülmemiz gereken kişiymiş hahahaha.<br/><br/>gerizekalılar için tekrar söyleyeyim, dağa çıkmayı isterdim, hala aynı kafadayım dediği şey: öldürmek, öldürmek, öldürmek. ışsiz kalmaktan bir tık ağır sanki ha? öldürmek. anlıyor musun geri zekalı tatlısu solcusu kardeşim. karı öldürmeye ve öldürenlere sempati besliyor. neymiş? öldürmek. <br/><br/>türkiye'de yaşayan ve iq'su 80 civarı olan herkes o sözlerin ne anlama geldiğini biliyor.
+- entry_name: |
+    77+33'ün 100 yapmaması
+  entry_id:  75712086
+  entry_writer: yok ben almiyim
   entry_fav_count: 16
   entry_content: |
-    full ek ders ve kursla beraber 5 bin civarı alıyorum. kudurun. bu bile az.
-- entry_name: |
-    usta şoförlerden acemi şoförlere tavsiyeler
-  entry_id:  75688062
-  entry_writer: fitjehn
-  entry_fav_count: 13
-  entry_content: |
-    asla ben usta oldum denmesin. araba kullanmak çocuk oyuncağıdır diyen arkadaşımı trafik kazasında kaybettim.
+    77+33 ün 100 yapması şeklinde okuyup, zaten 100 değil miydi amk şeklinde tepki verdiğim durum.
 - entry_name: |
     türkiye'de 5.148.065 terörist olması
   entry_id:  75704093
   entry_writer: elienduil
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     hesaplayan adamlar kırk yıldır öldürerek terörü bitirdiler ya, şimdi de çoluk çocuk kadın demeden beş milyonu öldürme hesapları yapıyorlar.<br/><br/>100 yıl önce bunun binde biri bile olmayan ermeni meselesi yüzünden başımıza gelmedik kalmadı. kafa hala aynı mal kafa. kırk yıldır yapılmayan kalmadı, hatta en ağır ve destekli darbe 90lar da vurulmadı mı?<br/><br/>ayıptır söylemesi bu amına kodumun pkksı neden hala bitmedi de kırk yılın sonunda askerlerimiz şehit oluyor? sırf çözüm süreci, kürt sorununu destekleme amacı da bu değil miydi?<br/><br/>siz önce bir kafanızı değiştirin. beş milyon küsür insanın tamamını terörist sayıp, yirmi milyon civarı insanı da terör sempatizanı sıfatına koyarsanız asıl terörist, bölücü siz olursunuz.
+- entry_name: |
+    depresyon bir bağırsak hastalığıdır
+  entry_id:  75712533
+  entry_writer: dunyayi kurtaracak olan adam
+  entry_fav_count: 13
+  entry_content: |
+    evet. <a class="b" href="/?q=b%c3%bcy%c3%bcleyici+ba%c4%9f%c4%b1rsak">büyüleyici bağırsak</a> ve <a class="b" href="/?q=son+toksine+kadar+kendine+iyi+bak">son toksine kadar kendine iyi bak</a> isimli iki adet kitapta okumuştum. ayriyeten uzun uzun yazacağım onu ekşişeylerden okursunuz zaten. ama genel hatlarıyla şunu söyleyeyim, bunu tarih öncesi tıpçılardan da duyarsınız; <a class="b" href="/?q=ne+yersen+o%27sun.">ne yersen o'sun.</a> ecnebi tabiriyle de <a class="b" href="/?q=you+are+what+you+eat">you are what you eat</a>.
+- entry_name: |
+    aziz yıldırım
+  entry_id:  75712339
+  entry_writer: indians
+  entry_fav_count: 10
+  entry_content: |
+    herhalde bir basketbol kulübü başkanını tokatladığı için yılın spor adamı seçildi tam ülkemize yakışır bir olay tebrikler.
 - entry_name: |
     1.603 tl'yle krallar gibi yaşamanın mümkün olması
   entry_id:  75687452
   entry_writer: arcus aortae
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     başlığı açan kişi kralın tanımını yapsa anlaşılabilecek olandır. kral var kral var sonuçta. cidden, bu arada kral ne ki?
+- entry_name: |
+    aziz yıldırım'ın 2018 yılın spor adamı olması
+  entry_id:  75712005
+  entry_writer: sorunsuzum
+  entry_fav_count: 9
+  entry_content: |
+    resmen planlanmış bir rezalet. <br/>seçim yaklaştıkça böyle işlere başvuracaktır. ali koç'un bu yarıştan temiz ve galip çıkacağını umuyorum.
+- entry_name: |
+    meme balonlu kız'ın youtube merkezini taraması
+  entry_id:  75701354
+  entry_writer: rowt
+  entry_fav_count: 8
+  entry_content: |
+    çok çabalamıştı kendisi. yıllar önce keşfetmiştim ve bakışlarındaki anlamsız boşluk beni daima korkutmuştu. ruh hastası olduğu belliydi. bazı unsurlara kökten karşı çıkardı. vejeteryan idi ve hayvanları çok severdi. kadınların estetik yaptırmasına karşıydı. saçma sapan videolar çekip mesajlar vermeye çalışırdı. şok oldum yani nasıl böyle birşey yaptı inanamıyorum. büyük ihtimal, youtube’da başarılı olamadı ve bunun sorumlusu olarak youtube’u sorumlu tuttu.<br/><br/>edit: olayın ayrıntıları belli oldu. youtube gereksiz yere bu kadının sayfasını kapatmış ve tüm videolarını silmiş. hali hazırda yıllardır saplantılı bir şekilde video paylaşan bu kadın, kendisini kaybederek bu eylemi gerçekleştirmiş. sonrasında bileklerini keserek intihar etmiş. cidden üzüldüm yani youtube da porno var, dalgıçların nasıl boğularak can verdiği videolar var. kapata kapata bu meczubun sayfasını mı buldun? <br/><br/>yaralanan youtube çalışanlarının bu olayla ilgisi yok bu arada. yani kadın dediğim gibi saplantı haline getirip toptan bir anlayışla youtube ve çalışanlarını yok etmeyi kafasına koymuş.
 - entry_name: |
     sözlükçülerin iş ile ev arası yolculuk süreleri
   entry_id:  75688953
@@ -248,26 +262,19 @@ data:
   entry_content: |
     yürüyerek bir dakika.<br/><br/>istanbul'da ve ankara'da çalışırken evden işe, işten eve yolculukta saatlerimi harcardım. insan büyük şehrin bir an olsun soluklanmaya fırsat bırakmayan koşuşturmasına daldı mı kaybettiği zamanı fark edemiyor.<br/><br/>şimdi türkiye'den çok uzakta bir yerlerdeyim. evim ile iş yerim arası yürüyerek bir dakika. iznimde türkiye'ye gelince istanbul'un ne kadar yaşanmaz bir şehir olduğunu anladım. <br/><br/>özetle, kaçın kurtulun.
 - entry_name: |
-    börü
-  entry_id:  75712875
-  entry_writer: 80 li yillari cok ozluyorum lan
+    1.80 boyunda olup 10 cm topuklu giyen kadın
+  entry_id:  75712360
+  entry_writer: swollenmember
   entry_fav_count: 7
   entry_content: |
-    - --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çok yakında teşkilattan şef başkan sözcüklerini çıkıcaz.<br/><br/>- ama hoca sözünü çıkaramayacaksınız herhalde<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>bekliyoruz rtük'ten yıldırım bi uyarı..
+    en üst raftan tencere indirecektir.
 - entry_name: |
-    aziz yıldırım
-  entry_id:  75712339
-  entry_writer: indians
+    pembe giyen erkek
+  entry_id:  75708867
+  entry_writer: burdan post modern nicklere selam ederim
   entry_fav_count: 6
   entry_content: |
-    herhalde bir basketbol kulübü başkanını tokatladığı için yılın spor adamı seçildi tam ülkemize yakışır bir olay tebrikler.
-- entry_name: |
-    meme balonlu kız'ın youtube merkezini taraması
-  entry_id:  75701354
-  entry_writer: rowt
-  entry_fav_count: 5
-  entry_content: |
-    çok çabalamıştı kendisi. yıllar önce keşfetmiştim ve bakışlarındaki anlamsız boşluk beni daima korkutmuştu. ruh hastası olduğu belliydi. bazı unsurlara kökten karşı çıkardı. vejeteryan idi ve hayvanları çok severdi. kadınların estetik yaptırmasına karşıydı. saçma sapan videolar çekip mesajlar vermeye çalışırdı. şok oldum yani nasıl böyle birşey yaptı inanamıyorum. büyük ihtimal, youtube’da başarılı olamadı ve bunun sorumlusu olarak youtube’u sorumlu tuttu.<br/><br/>edit: olayın ayrıntıları belli oldu. youtube gereksiz yere bu kadının sayfasını kapatmış ve tüm videolarını silmiş. hali hazırda yıllardır saplantılı bir şekilde video paylaşan bu kadın, kendisini kaybederek bu eylemi gerçekleştirmiş. sonrasında bileklerini keserek intihar etmiş. cidden üzüldüm yani youtube da porno var, dalgıçların nasıl boğularak can verdiği videolar var. kapata kapata bu meczubun sayfasını mı buldun? <br/><br/>yaralanan youtube çalışanlarının bu olayla ilgisi yok bu arada. yani kadın dediğim gibi saplantı haline getirip toptan bir anlayışla youtube ve çalışanlarını yok etmeyi kafasına koymuş.
+    vurdurur. üçe mesela. saçını.
 - entry_name: |
     canlı performansı albümüne eşit olan sanatçılar
   entry_id:  75706985
@@ -276,12 +283,33 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=erkan+o%c4%9fur%2c+ismail+hakk%c4%b1+demircio%c4%9flu">erkan oğur, ismail hakkı demircioğlu</a>)
 - entry_name: |
+    aziz sancar'lı nükleer enerji kamu spotu
+  entry_id:  75692174
+  entry_writer: frts
+  entry_fav_count: 4
+  entry_content: |
+    nobel ödüllü kimyacı reklamda oynarken avuçlarının içinde dna sarmalının 3 boyutlu görüntüsünü tutuyor: radyoaktif sızıntı—&gt; mutasyon<br/><br/>ödüllü bilim kadını uzay araştırmaları derken vurgulanan uydular fotovoltaik ile çalışıyor—&gt; güneş ewnejisi<br/><br/>sanırım bize birşeyler anlatmaya çalışıyorlar
+- entry_name: |
     zlatan ibrahimoviç'in abartılmış bir balon olması
-  entry_id:  75709673
-  entry_writer: unsaved changes will be lost
+  entry_id:  75708021
+  entry_writer: bill carson
   entry_fav_count: 3
   entry_content: |
-    topal doktorumuz <a class="b" href="/?q=gregory+house">gregory house</a>'un da dediği gibi, <a class="b" href="/?q=ukalal%c4%b1k+hakedilmelidir">ukalalık hakedilmelidir</a>. zlatan, ukalalığını çoktan haketmiştir. kısacası, troll beyanı...
+    (bkz: <a class="b" href="/?q=balon+sensin+zlatan+da+sana+girsin">balon sensin zlatan da sana girsin</a>)
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  75692209
+  entry_writer: elienduil
+  entry_fav_count: 3
+  entry_content: |
+    mesaj atınca ertesi akşam yemeğe mi çıkıyorsunuz diye düşündürten veri tabanıdır.<br/>herkes adres yazmış lan, sevişecek insan aranıyor başlığıyla karışmış galiba.<br/><br/>alt tarafı bir mesaj, sözlük olm burası...
+- entry_name: |
+    4 nisan 2018 liverpool manchester city maçı
+  entry_id:  75707274
+  entry_writer: valeron
+  entry_fav_count: 3
+  entry_content: |
+    kimse yazmamış ama saat 21:45'te tivibuspor 2 kanalından yayınlanacak olan maçtır.
 - entry_name: |
     gelmiş geçmiş en iyi röveşata golü
   entry_id:  75711762
@@ -290,19 +318,19 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/zxQYLzp7i1Y" title="https://youtu.be/zxQYLzp7i1Y">şifo mehmet</a>
 - entry_name: |
-    aziz yıldırım'ın 2018 yılın spor adamı olması
-  entry_id:  75712387
-  entry_writer: pattis suvan
+    ekşi itiraf
+  entry_id:  75706633
+  entry_writer: delfina
   entry_fav_count: 2
   entry_content: |
-    şaka zannettim, gerçekmiş amk. ajajahahahahah. güldürdü. aziz başkan bizi bırakma... <br/>not:bjk...
+    açıp salak salak çevrimiçi olduğu whatsapp ekranini izliyorum, evet.<br/><br/>37 yaşındayım, manyakça yoğun bir is hayatım var, ve evet arada yapıyorum. dinlenme arası gibi.<br/><br/>gülümsüyorum filan ya lan, o ekrana bakarken. "parka gidecekmis, iki gözümün çiçeği" modunda.<br/>yas 37, evet.
 - entry_name: |
-    kelebekler
-  entry_id:  75689277
-  entry_writer: ahimsa iste baska nick istemiyorum
-  entry_fav_count: 1
+    abd'nin medrese bombalaması
+  entry_id:  75712292
+  entry_writer: rowt
+  entry_fav_count: 2
   entry_content: |
-    tolga karaçelik büyük yönetmen belli ki. böyle bir absürt komedi içine bir aile dramı yerleştirmek ve sonunu camus'nun absürtlüğüne bağlamak başarı değilse ne? yani bir film düşünün ki içinde patlayan tavuk da var nazan öncel de.. vallahi şaştım.. <br/>ayrıca bizdeki sulu komedi filmlerinden bunalanlara ve umutsuzluğa kapılanlara da bir nebze iyi geleceğini düşünüyorum filmin.
+    müslümanların öfkesini çıkartmak için adam aradığı başlık. vay efendim sözlük neden tepkisiz kalmış. daha başlık açılalı 10 dakika olmuş, neden <a class="b" href="/?q=orospu+%c3%a7ocuklar%c4%b1">orospu çocukları</a> tepki göstermiyor diye edit yapmış adam. üzülmüştüm ama başlıktaki müslümanları görünce vazgeçtim.
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  75688293
@@ -311,45 +339,17 @@ data:
   entry_content: |
     hoşlandığım biriyle yüzyüze konuşamıyorum, daha doğrusu utanıyorum. hele de reddedilmekten korktuğum için hep korku içindeyim. bu durumu nasıl aşacağımı bilemiyorum. nasıl bir yol izlemeliyim:(<br/><br/>edit:çok samimi cevaplar aldım, mesaj atan yazarlara burdan teşekkür ederim.
 - entry_name: |
-    ekşi itiraf
-  entry_id:  75706633
-  entry_writer: delfina
-  entry_fav_count: 1
-  entry_content: |
-    açıp salak salak çevrimiçi olduğu whatsapp ekranini izliyorum, evet.<br/><br/>37 yaşındayım, manyakça yoğun bir is hayatım var, ve evet arada yapıyorum. dinlenme arası gibi.<br/><br/>gülümsüyorum filan ya lan, o ekrana bakarken. "parka gidecekmis, iki gözümün çiçeği" modunda.<br/>yas 37, evet.
-- entry_name: |
-    77+33'ün 100 yapmaması
-  entry_id:  75712230
-  entry_writer: otaylancelebi
-  entry_fav_count: 1
-  entry_content: |
-    hesap makinasını çıkarıp bir de öyle toplatır.
-- entry_name: |
-    sigarayı bırakmak
-  entry_id:  75703110
-  entry_writer: gelisine cakan adam
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  75707385
+  entry_writer: melodiaa
   entry_fav_count: 0
   entry_content: |
-    şimdi ben, hani keyif sigarası diyebileceğimiz sigaraları içmeyi seviyorum. sabah kahvaltıdan sonra içilen günün ilk sigarası, sevişme sonrası sigarası, yemeklerden sonraki içilen sigara, bunlar güzel şeyler. ama alışkanlık sigaraları, yani içsen de içmesen de bir şey değiştirmeyenler rahatsızlık verici. sağlık konusunda da sigara kaynaklı bir sıkıntı yaşamadım şimdilik, ciğerlerin durumu da iyi. <br/><br/>bütün bunları dikkate alarak geçen sene ramazanda bıraktım. ramazan bunun için doğru bir zamanlama oldu. yukarıdaki düşüncelerim hala geçerli. nasıl nitelendirmek isterseniz isteyin, ister bırakmak ister ara vermek, önemli olan kontrolün şimdilik bende olması. e-sigaram da vardı, eğer onu bulursam (şehir olarak başka bir yerde), ondan hala arada buhar çekiyorum. <br/><br/>burada yazan bir arkadaş, sigarayı bırakanların durumunu <a class="b" href="/?q=a+beautiful+mind">a beautiful mind</a> filmindeki <a class="b" href="/?q=john+nash">john nash</a>'in durumuna benzetmişti, bence de çok güzel bir örnek. sigaranın güzelliğini denemiş insanlar için yıllar geçse de bu durum değişmeyecek. sigarayla yaşamaya alışmak gerekiyor, içerseniz kontrol onlarda, içmezseniz onunla birlikte kontrollü bir şekilde yaşıyorsunuz. eminim, çok uzun zaman geçse de, sinirlendiğimde veya yemekten sonra, arada sırada sigara içmek aklıma gelecek. belki bazen de içeceğim ama kontrolü kaybetmek istemiyorum.<br/><br/>yıllar önce, babam içkiyi bırakmıştı. ben yemin etti, bir daha içmedi diye düşünmüştüm. sonraki yıllarda kendisiyle konuştuğumda, yemin etmediğini, çok nadir de olsa o günden sonra içtiğini ama kontrolü bırakmadığını söylemişti. velhasıl kelam, bir olgunluk seviyesine ulaşmak gerekiyor belki de, kontrolü ele almak için. benim için bu seviyenin eşiği sanırım çocuklarım oldu. şimdi kızımın arada sırada gelip, "baba eskiden sigara içiyordun, ne kadar kötüydü dimi" demesi açıkçası hoşuma gidiyor.
+    eğer bir çaylak ile konuşmak isterseniz ben de buradayım.<br/><br/>edit: bu entry ile çaylaklıktan çıkmışım. vay be.
 - entry_name: |
     64. gillette milliyet yılın sporcusu ödülleri
-  entry_id:  75712510
-  entry_writer: lombolikodelmando
+  entry_id:  75712100
+  entry_writer: son saniye basketcisi
   entry_fav_count: 0
   entry_content: |
-    her seçimde oy ve ötesine ihtiyacımız olduğunu bize göstermiştir.
-- entry_name: |
-    4 nisan 2018 liverpool manchester city maçı
-  entry_id:  75713079
-  entry_writer: zapiskiiskieva
-  entry_fav_count: 0
-  entry_content: |
-    yıllardır premier lig takımlarının kayıpları oynamasından sonra,tekrar çeyrek finallerde iki ingiliz takımının mücadelesini izleyerek,son yılların en heyecanlı,en güzel çeyrek final ayaklarından ikisinin olacağını düşünüyorum.maçı dört gözle bekliyorum<br/><br/>yıllar önceki akıllardan çıkmayacak referans için<br/><br/>(bkz: <a class="b" href="/?q=14+nisan+2009+chelsea+liverpool+ma%c3%a7%c4%b1">14 nisan 2009 chelsea liverpool maçı</a>)
-- entry_name: |
-    1.80 boyunda olup 10 cm topuklu giyen kadın
-  entry_id:  75712873
-  entry_writer: gubur123
-  entry_fav_count: 0
-  entry_content: |
-    190cm boya ulaşmıştır.
+    fenerbahçe erkek basketbol takımı'nın yılın takımı, obradoviç'in de yılın teknik direktörü ödüllerini haklı olarak aldığı tören.<br/><br/>bu ödüllerin geçen sene haksız verildiğinden ergin ataman da şikayetçi olmuştu.<br/>umarım adaletin bu yıl yerini bulmasına o da sevinmiştir.<br/><br/>ödülleri tv başında gözyaşları içinde izlemiştir mutluluktan eminim<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
 ---
