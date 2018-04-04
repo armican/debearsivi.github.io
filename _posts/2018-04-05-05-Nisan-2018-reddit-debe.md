@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dvvutzet0sp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Can't believe they even attempted this
-  entry_id: 89gfo4
-  entry_content: |
-    <iframe src=https://v.redd.it/jh927lt88xp01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     One of the most beautiful picture on earth.
   entry_id: 89nrmg
   entry_content: |
@@ -228,11 +223,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ylmL4gbevKH5qi8nxINiFBal2RLkd4al259qYLfej7M.jpg?s=0e9f6737f84665d267b8fce302a555dd frameborder=0>
 - entry_name: |
-    It's over Anakin. I have the high score.
-  entry_id: 89gjxn
-  entry_content: |
-    <img src=https://i.redditmedia.com/qtsQHj6ZZRqh-OT4J7MM_cuBE6wp5IJ3rCQl9GmK1sg.jpg?s=7dbcd59de8f27708f79f093acf535051 frameborder=0>
-- entry_name: |
     My local drug dealer started dressing up as a Jehovah’s Witness so he wouldn’t arouse suspicion.
   entry_id: 89j65b
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 89ievh
   entry_content: |
     <img src=https://i.redditmedia.com/vnAKjm2_XIlaUa-4Ae-04wPB6wX4XvPuRnor2yIkNbo.jpg?s=5634bf47e458b8e452b6e44637be7968 frameborder=0>
+- entry_name: |
+    My grandpa passed away last week. Baseball was our thing we did together. Grandma handed me a box of “stuff he’d been collecting for you”.
+  entry_id: 89j0fi
+  entry_content: |
+    <img src=https://i.redditmedia.com/n1_F9ZFywlKXkNCf1FltX3cqgdAsW7tqpFf_-ykaKok.jpg?s=eed24ac51436edeff8a4b0554d6de2a9 frameborder=0>
+- entry_name: |
+    Imma be a rockstar mom🙄
+  entry_id: 89jk3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/PtKDbkFQpsDy2rS2toGLjJJZ4-z5yfxysW1YhyFfiZg.jpg?s=cfe69dd04e765e702bf1d59b82ea27f3 frameborder=0>
 ---
