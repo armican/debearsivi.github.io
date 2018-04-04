@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dzN7_QCtO2wIvhJZ1nNh66P34cpZ-1z_l9hBbk6CHs4.jpg?s=766f65d7eaa7ac3462b7b20b63332af9 frameborder=0>
 - entry_name: |
-    Capybaras chillin in the hot tub
-  entry_id: 89i95j
-  entry_content: |
-    <iframe src=https://v.redd.it/n6j9sjml7rp01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     That's a pro right there
   entry_id: 89oefz
   entry_content: |
@@ -127,11 +122,6 @@ data:
   entry_id: 89lvpu
   entry_content: |
     <img src=https://i.redditmedia.com/m0-lR6l9EIQ8VfA5yi9lS5_2qh4azeCQgtuc3VvPdNc.jpg?s=86bc29363d7b707222e67d749ef7a0da frameborder=0>
-- entry_name: |
-    Boyfriend proposes to daughter in front of father
-  entry_id: 89i7fa
-  entry_content: |
-    <iframe src=https://v.redd.it/xvxckmgu6rp01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     When you hear that there's a petition for changing our beloved logo
   entry_id: 89ntrn
@@ -192,11 +182,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PYBsrngCwQGoApbX0JyIpj2Wn8uIAcNAazrC7jPllZ0.jpg?s=85f192f3f164b1e42381fa1b45e361d9 frameborder=0>
 - entry_name: |
-    Guy with face tattoos jokes about what it's like to have face tattoos... and it's hilarious.
-  entry_id: 89ibxn
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/Z-my1S92kMU?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Making a whirlpool
   entry_id: 89jeh8
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 89newa
   entry_content: |
     <img src=https://i.redditmedia.com/-Ik-NdYvK9Lj8SN0v3uF_2RdQj4PKxKHF3fVLXRoZI0.jpg?s=0eaa83b8935a36498ebfbd2938e5271d frameborder=0>
+- entry_name: |
+    My grandpa passed away last week. Baseball was our thing we did together. Grandma handed me a box of “stuff he’d been collecting for you”.
+  entry_id: 89j0fi
+  entry_content: |
+    <img src=https://i.redditmedia.com/n1_F9ZFywlKXkNCf1FltX3cqgdAsW7tqpFf_-ykaKok.jpg?s=eed24ac51436edeff8a4b0554d6de2a9 frameborder=0>
+- entry_name: |
+    Imma be a rockstar mom🙄
+  entry_id: 89jk3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/PtKDbkFQpsDy2rS2toGLjJJZ4-z5yfxysW1YhyFfiZg.jpg?s=cfe69dd04e765e702bf1d59b82ea27f3 frameborder=0>
+- entry_name: |
+    FCC Commissioner Slams Her Own Agency for Policies 'Custom-Built' to Favor Sinclair-Tribune Merger
+  entry_id: 89ly3g
+  entry_content: |
+    <img src=https://i.redditmedia.com/gS4Mdw7CT_VFoLOQfyJ832fmveBddXfH1x5_k__g0H8.jpg?s=f2aa9b6f94e6743f0827025179092670 frameborder=0>
 ---
