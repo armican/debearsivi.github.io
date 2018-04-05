@@ -148,11 +148,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zv450k75uxp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Far Cry 5 became Ubisoft's second biggest launch ever
-  entry_id: 89sqte
-  entry_content: |
-    <img src=https://i.redditmedia.com/U_MkM4HAO40nIFAfsGJBjJIcuCqTAPk6e4HCsOd5wRI.jpg?s=d57ae5645a5f1bc55b7e2c27ba4ab118 frameborder=0>
-- entry_name: |
     Extreme sport
   entry_id: 89yqke
   entry_content: |
@@ -171,11 +166,6 @@ data:
   entry_id: 89z8fn
   entry_content: |
     <img src=https://i.redditmedia.com/qzrldoQOPTTLXD9fQ0R9LfARPmkg2UJYIBiBVlL3evo.jpg?s=7ec15eb7909a849cb9dbf29912c7eef5 frameborder=0>
-- entry_name: |
-    In the comments of an anti-vaccer post on Facebook
-  entry_id: 89sr1z
-  entry_content: |
-    <img src=https://i.redditmedia.com/4mb9W1VOpA-tCgnZ-HYFQ1kid_FvDRXob7af0L2Kre0.jpg?s=64547ccf45ab1f76f5ff69aa89ae96ed frameborder=0>
 - entry_name: |
     🔥 Albino rhombic egg eater eats an egg
   entry_id: 89uhoa
@@ -251,4 +241,14 @@ data:
   entry_id: 89uzlu
   entry_content: |
     <img src=https://i.redditmedia.com/ENqWlQOR7HnQAXRvEyI65dcNzwNGvpBWTS5l98H16vg.jpg?s=a8323d5c000c63799a0083ee502a686e frameborder=0>
+- entry_name: |
+    think of the art!
+  entry_id: 89wc9g
+  entry_content: |
+    <img src=https://i.redditmedia.com/97Zd0IRb89ZeLWDgKlP_8-Mapw12W2R6kHyfU42c3PM.jpg?s=689011ed311157bc40f847637a4ff8a2 frameborder=0>
+- entry_name: |
+    Citing 'Don't Be Evil' Motto, 3,000+ Google Employees Demand Company End Work on Pentagon Drone Project
+  entry_id: 89ydzu
+  entry_content: |
+    <img src=https://i.redditmedia.com/Nw4xBAWE01IT__gGDJjngQHSTuf1K87oqP111vCdSP4.jpg?s=d73ab5c00c7b31729d25c5f203c5db37 frameborder=0>
 ---
