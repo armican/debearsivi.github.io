@@ -43,11 +43,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHandyHarshAfricanrockpython&url=https%3A%2F%2Fgfycat.com%2FHandyHarshAfricanrockpython&image=https%3A%2F%2Fthumbs.gfycat.com%2FHandyHarshAfricanrockpython-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    It's much worse: Facebook says almost every profile has had its data scraped by a third party
-  entry_id: 89t8p0
-  entry_content: |
-    <img src=https://i.redditmedia.com/NFeGxfLURsHyu4p_TGq5LpoBJ37GzKqUmXYXZN2-BwY.jpg?s=b3c4c9f62a2253d6011e0851211bc336 frameborder=0>
-- entry_name: |
     Have no idea who made this but it’s damn cool.
   entry_id: 89vxur
   entry_content: |
@@ -112,11 +107,6 @@ data:
   entry_id: 89v8cz
   entry_content: |
     <img src=https://i.redditmedia.com/NL2HLtKF0OBuYVYL3Gkp2SyZEHV4FqPa9hJzjkFQkFo.jpg?s=fce8dac9cdf77e7ae06ef5a33b6438d1 frameborder=0>
-- entry_name: |
-    Ball in a cup times 20
-  entry_id: 89tbhs
-  entry_content: |
-    <iframe src=https://v.redd.it/osnlcb9yeyp01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Mascot gets way too close to the security guard
   entry_id: 89yrbz
@@ -251,4 +241,14 @@ data:
   entry_id: 89vej8
   entry_content: |
     <iframe src=https://v.redd.it/jes81ytrozp01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    The sheer size of this saltwater crocodile.
+  entry_id: 89yp95
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y4J_AltBwlsPg1e5gRPM0lt4XPTrL79UAdAZe4yWWqY.jpg?s=20f8c3505da4eb47e6f2a6e921716908 frameborder=0>
+- entry_name: |
+    When they said you were going to the vet but they actually took you to the park.
+  entry_id: 89yqd8
+  entry_content: |
+    <iframe src=https://v.redd.it/drsre57pn2q01/DASH_1_2_M frameborder=0></iframe>
 ---
