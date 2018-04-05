@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/amTwvRPPg8WeS52SXMQmakD6Mkv64dkNnpNGg9OxsL4.jpg?s=283558829ddc398fd396323a1292736a frameborder=0>
 - entry_name: |
-    TIL: A survivor of the Charlie Hebdo shooting in Paris sued French media after giving away his location, on live TV, during the shooting.
-  entry_id: 89s6yh
-  entry_content: |
-    <img src=https://i.redditmedia.com/qrVH2SMt0EelINSekwa_PynV6GKNHiNjz8cJsiLqP_A.jpg?s=1b09d25013ed03924733ca750d4e1b9d frameborder=0>
-- entry_name: |
     TIL I learned that Medal of Honor recipients are entitled to much more than the medal including a $1,300 monthly bonus, 10% retirement raise & may wear their uniform even after they are out of the service.
   entry_id: 89wfv4
   entry_content: |
@@ -102,11 +97,6 @@ data:
   entry_id: 89tvvh
   entry_content: |
     <img src=https://i.redditmedia.com/6jXQ7oEeW2zuF-k6rj4UZzAPwnLYkW7yfBVt3_1V12w.jpg?s=55b9b993c7912f72563f38625ac5e7f9 frameborder=0>
-- entry_name: |
-    The poorer, the fatter: Obesity is not randomly distributed across the U.S. It is linked to demographics, community characteristics, income inequality, and race, 500-city analysis shows.
-  entry_id: 89ul7p
-  entry_content: |
-    <img src=https://i.redditmedia.com/-X5azB_WpA2Bu6SjgWs2IV_KfdqbFxASL-dcP7nRz9E.jpg?s=dc3d5b668e13081a629208d0e1d7efaf frameborder=0>
 - entry_name: |
     The number of plastic bags found on the seabed has plummeted, suggesting efforts to combat plastic pollution are working: Experts say success of strategy needs to be replicated with other plastic items such as coffee cups and bottles.
   entry_id: 89vau9
@@ -197,11 +187,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/6bc574rj6yp01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    April's Marriage Advice
-  entry_id: 89s6fd
-  entry_content: |
-    <iframe src=https://v.redd.it/ktnhi0virxp01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     PsBattle: This Clumsy Baby Otter
   entry_id: 89xqzq
   entry_content: |
@@ -232,11 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OfAIccDz1aVSSoKBF4Z5igL079R0prs-titd6J7heT4.jpg?s=8a70178424e8ce1b65d4729810a767bd frameborder=0>
 - entry_name: |
-    Patient dog walks extremely slow so that the old man can keep up.
-  entry_id: 89s9ga
-  entry_content: |
-    <img src=https://i.redditmedia.com/sbJe2uLP9zm2AhpHYqNIjbjDxoBuSykWPbGtHQioP50.png?s=e8636795b1fd8f8c6f4a695d57ef2fdf frameborder=0>
-- entry_name: |
     My amazing little brother has been growing over 400 red mangrove shoots he collected after Hurricane Irma. Today, 7 months later, he planted over half of the seedlings in a coastal area that had been badly affected by the storm, and I really couldn’t be prouder.
   entry_id: 89wbbj
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 89u6rk
   entry_content: |
     <iframe src=https://v.redd.it/oz8gin83wyp01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Parkland student that shielded other students from bullets with his body has now been released from the hospital, healed and healthy.
+  entry_id: 89u34m
+  entry_content: |
+    null
+- entry_name: |
+    Puptimus Prime
+  entry_id: 89uyxt
+  entry_content: |
+    <iframe src=https://v.redd.it/4ph88jdq73q01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Nice set, man
+  entry_id: 89yr00
+  entry_content: |
+    <iframe src=https://v.redd.it/oshtk114o2q01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Wrong number led to the most wholesome experience of my life
+  entry_id: 89uzlu
+  entry_content: |
+    <img src=https://i.redditmedia.com/ENqWlQOR7HnQAXRvEyI65dcNzwNGvpBWTS5l98H16vg.jpg?s=a8323d5c000c63799a0083ee502a686e frameborder=0>
 ---
