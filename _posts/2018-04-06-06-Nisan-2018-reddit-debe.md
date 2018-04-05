@@ -48,11 +48,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    This window looks like a painting
-  entry_id: 89sxqf
-  entry_content: |
-    <img src=https://i.redditmedia.com/c_btUWmyzvKgUH2izNddt9eWWxNGidkkxA2Pytjai4w.jpg?s=24375403f036d9dda7d58726915c68b5 frameborder=0>
-- entry_name: |
     It's much worse: Facebook says almost every profile has had its data scraped by a third party
   entry_id: 89t8p0
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_id: 89uxwr
   entry_content: |
     <img src=https://i.redditmedia.com/OJjCvhL0xgtOqT2trioL0aGaAY8cABMSn5w_r7Lbla8.jpg?s=aa3bf675bd8c81f80fd091356f50d8b4 frameborder=0>
-- entry_name: |
-    Zucker-bugged
-  entry_id: 89swch
-  entry_content: |
-    <img src=https://i.redditmedia.com/eL1Ubf2rwGp97r5vlS8TGt8T-TEBX8Uz265vejvtGsc.jpg?s=f3f419d836746f5f9e612d7caff66fba frameborder=0>
 - entry_name: |
     Elon Musk should just start posting his own tweets here to be honest
   entry_id: 89unu1
@@ -182,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pcBgmJ2iFdt5GekKEWL6IrpJnbqsJhbgs4zwzed4-Ys.jpg?s=57592d2538895a6f3a60195460cd508c frameborder=0>
 - entry_name: |
-    Steph Curry saving the day!
-  entry_id: 89swce
-  entry_content: |
-    <iframe src=https://v.redd.it/6bc574rj6yp01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Could be big with the current Facebook scandal.
   entry_id: 89yfqt
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 89ydzu
   entry_content: |
     <img src=https://i.redditmedia.com/Nw4xBAWE01IT__gGDJjngQHSTuf1K87oqP111vCdSP4.jpg?s=d73ab5c00c7b31729d25c5f203c5db37 frameborder=0>
+- entry_name: |
+    Instant bully karma
+  entry_id: 89vej8
+  entry_content: |
+    <iframe src=https://v.redd.it/jes81ytrozp01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Sometimes I learn fast rap songs for fun. Five months ago I started on Twista's Mista Tung Twista and today I finally accomplished what I thought was impossible.
+  entry_id: 89vpat
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/lqQxbAFsZ14?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Arizona lawmaker: I'll 'gladly' work with Trump on immigration 'when his ideas aren’t stupid'
+  entry_id: 89zva8
+  entry_content: |
+    <img src=https://i.redditmedia.com/IGjNW3HZVprHmQeEhGCV-JuxTSD4ohmJjyRKAyHXOuU.jpg?s=a99f3802fb011cc6e17f3f492160c51e frameborder=0>
 ---
