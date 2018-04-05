@@ -43,11 +43,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Facebook now says up to 87 million users may have had their data leaked to Cambridge Analytica.
-  entry_id: 89scb4
-  entry_content: |
-    <img src=https://i.redditmedia.com/-R6HQPUhA6dJfzdGX_4QRJRzfzAR9hAEQCqRxfwmnE0.jpg?s=c648c3ebcba1a5aea5d9bb00747fcb9a frameborder=0>
-- entry_name: |
     It's much worse: Facebook says almost every profile has had its data scraped by a third party
   entry_id: 89t8p0
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 89uzlu
   entry_content: |
     <img src=https://i.redditmedia.com/ENqWlQOR7HnQAXRvEyI65dcNzwNGvpBWTS5l98H16vg.jpg?s=a8323d5c000c63799a0083ee502a686e frameborder=0>
+- entry_name: |
+    think of the art!
+  entry_id: 89wc9g
+  entry_content: |
+    <img src=https://i.redditmedia.com/97Zd0IRb89ZeLWDgKlP_8-Mapw12W2R6kHyfU42c3PM.jpg?s=689011ed311157bc40f847637a4ff8a2 frameborder=0>
 ---
