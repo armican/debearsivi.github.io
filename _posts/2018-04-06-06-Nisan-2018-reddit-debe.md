@@ -68,10 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/eljv1s9c10q01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-  entry_id: 89ro7k
-  entry_content: |
-    <img src=https://i.redditmedia.com/f4BaoF2gvwFkbx92gaa-catdKBP5M1P82Oia6yolfUA.png?s=b8aa1e4664a3b30264a53b2554ce1e29 frameborder=0>
-- entry_name: |
     Mascot gets way too close to the security guard
   entry_id: 89uqo0
   entry_content: |
@@ -196,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0c-_j-pCZuo4zYoiXJQJ-9bjrz_XKlBWzFzyCQbs-2k.jpg?s=86bc15ff55839c8abf35541bdd60774f frameborder=0>
 - entry_name: |
-    13 year old freeystyle skateboarder Isamu Yamamoto
-  entry_id: 89rm86
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDevotedRashBeardedcollie&url=https%3A%2F%2Fgfycat.com%2FDevotedRashBeardedcollie&image=https%3A%2F%2Fthumbs.gfycat.com%2FDevotedRashBeardedcollie-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     PsBattle: This Clumsy Baby Otter
   entry_id: 89xqzq
   entry_content: |
@@ -250,4 +241,14 @@ data:
   entry_id: 89uyxt
   entry_content: |
     <iframe src=https://v.redd.it/4ph88jdq73q01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Wrong number led to the most wholesome experience of my life
+  entry_id: 89uzlu
+  entry_content: |
+    <img src=https://i.redditmedia.com/ENqWlQOR7HnQAXRvEyI65dcNzwNGvpBWTS5l98H16vg.jpg?s=a8323d5c000c63799a0083ee502a686e frameborder=0>
+- entry_name: |
+    Could be big with the current Facebook scandal.
+  entry_id: 89yfqt
+  entry_content: |
+    <img src=https://i.redditmedia.com/QKddcRKEcCW26GNgdkywbQgrm3i4jfCBcxsQAjF6tEY.jpg?s=a627abff1283a4b4328b110ca90b7047 frameborder=0>
 ---
