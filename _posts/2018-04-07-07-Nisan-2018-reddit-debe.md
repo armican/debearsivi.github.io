@@ -165,11 +165,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gDNSbd3W_i9LizbilqyJtFMor--rsN1YmRcVtSZXe-g.jpg?s=21a62610f47b52b8103e892c9f8243fa frameborder=0>
 - entry_name: |
-    Rape victim sues Mormon Church, demands that they institute a CALL THE POLICE FIRST policy, and calls on the church to NEVER interfere/seek to change statute of limitations laws, mandatory reporting laws, etc. She is calling the church out for trying to use the law to protect abusers over victims.
-  entry_id: 8a1rae
-  entry_content: |
-    <img src=https://i.redditmedia.com/0O7ocLjF1M3qcg2TQXVCnt1j7tEMZzqPPeDW80_wEkg.jpg?s=1f5e2ee32552564098f53a0ae69981ac frameborder=0>
-- entry_name: |
     Always two there are, no more, no less
   entry_id: 8a5fjo
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8a6yyy
   entry_content: |
     <img src=https://i.redditmedia.com/yipDSe78Q33xHB7KdnrJCsKRWvluZUeP1U4RNdw-yDo.jpg?s=397b124231baea1d057cf09f2eb2e546 frameborder=0>
+- entry_name: |
+    An Irishman walks into a bar in Dublin, orders three pints of Guinness and sits in the back of the room, drinking a sip out of each one in turn.
+  entry_id: 8a2p5o
+  entry_content: |
+    null
 ---
