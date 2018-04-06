@@ -98,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gagIxl_PG-Yu__FsaVg8smlf2lceIrHIafcfMhwsFkI.jpg?s=b8922cfc4b33748c931b73b05bb5200f frameborder=0>
 - entry_name: |
-    Facebook sent a doctor on a secret mission to ask hospitals to share patient data
-  entry_id: 8a2egv
-  entry_content: |
-    <img src=https://i.redditmedia.com/YhJ07P_Sbn807t6kFlw0aHzobHfpRAL_Cyk7F13sqBQ.jpg?s=042a0fcbb3d0d4d9e3f566f3ca1fe0ca frameborder=0>
-- entry_name: |
     Saw that my GF's dad had commented on a Things That Kids Today Don't Understand post on Facebook and I feared the worst...
   entry_id: 8a8hlg
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8a2p5o
   entry_content: |
     null
+- entry_name: |
+    Mods are asleep, upvote our boy Miek.
+  entry_id: 8a2wcf
+  entry_content: |
+    <img src=https://i.redditmedia.com/vGVJGCali5Wn6lr3rdcZVZ8KbWkTGcGIFekbtpj3y70.png?s=c6b850164bec36244c49fca688e8e47d frameborder=0>
 ---
