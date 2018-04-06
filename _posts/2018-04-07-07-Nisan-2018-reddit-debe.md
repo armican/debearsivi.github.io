@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ufmzsj3ek9qOYObhZaUnYQSMFs25jMylk9cACusHomU.png?s=7d17218fd54579044750743de33b7cbc frameborder=0>
 - entry_name: |
-    Incredible bedside manner from a sonogram tech. I was speechless.
-  entry_id: 8a2y75
-  entry_content: |
-    <img src=https://i.redditmedia.com/yVXGIX6IuJVy6sNF9zKxU7VmUcEEH91Q0W_lFPFRmow.jpg?s=03c9e7196bf9b43b998a9bb345c198ff frameborder=0>
-- entry_name: |
     That Video The Church Of Scientology Tried To Take Down Where Tom Cruise Salutes The Portrait Of Its Dead Founder
   entry_id: 8a3rhm
   entry_content: |
@@ -231,11 +226,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Three second applies to sausages, too
-  entry_id: 8a2y31
-  entry_content: |
-    <iframe src=https://v.redd.it/vk205ueya5q01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Former Korean president Park Geun-hye gets 24 years in prison
   entry_id: 8a7gvk
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8a86jl
   entry_content: |
     <img src=https://i.redditmedia.com/iG-JGSLxio_2ZyY7V28ouIlNKf2iPoQD_NpwNIsq0C4.jpg?s=78656d8c0d6291cc0e851320765be186 frameborder=0>
+- entry_name: |
+    Alberta government introduced legislation to keep protesters at least 50 metres away from abortion clinics and make it illegal for demonstrators to video or take pictures of people entering or leaving building. Intimidation of patients at province’s clinics is on rise, Health Minister Hoffman said.
+  entry_id: 8a42f8
+  entry_content: |
+    <img src=https://i.redditmedia.com/0rLAlFYPbmQvchiU7SIZkdXHVMdcKN1vY0D9ALHoCJg.jpg?s=3978b23aec676b9524a595259708efbc frameborder=0>
+- entry_name: |
+    Call 911
+  entry_id: 8a9ext
+  entry_content: |
+    <img src=https://i.redditmedia.com/ntDV_DGrNI_g6sk3t1UOCrtfBSergL5T28QHCm-c5GQ.png?s=90dcbcc65e4c4d78449b54bdb88699f2 frameborder=0>
 ---
