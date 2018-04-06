@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LD_lYPDRWcTdjkifI7caDW3zKmFgWOm3CKayA_mI69c.jpg?s=f5f647779390cf6498095291b6cdb3f1 frameborder=0>
 - entry_name: |
-    Mexican senate approves resolution calling for the government to suspend joint efforts on migration and security until Trump exhibits civility and respect.
-  entry_id: 8a2bvz
-  entry_content: |
-    <img src=https://i.redditmedia.com/dNwDegVXiyfGVPXp7_Q5fcKIrPhpZjBHjGEWmqkA1GM.jpg?s=1d5ddfca7f89e4bf9ea36331a2b1e278 frameborder=0>
-- entry_name: |
     Always keep the cup in sight.
   entry_id: 8a39oh
   entry_content: |
@@ -73,11 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/0u9x1cq40aq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    My beatiful baby boy, Gizmo
-  entry_id: 8a2aud
-  entry_content: |
-    <img src=https://i.redditmedia.com/qbMToHEk0pw-J2jdYDyf1nkM7SRr1XUdI4qFsIcX2hQ.jpg?s=32c7a25094ca15cb4c224502dbeed6b4 frameborder=0>
-- entry_name: |
     That Video The Church Of Scientology Tried To Take Down Where Tom Cruise Salutes The Portrait Of Its Dead Founder
   entry_id: 8a3rhm
   entry_content: |
@@ -87,10 +77,6 @@ data:
   entry_id: 8a34lf
   entry_content: |
     <img src=https://i.redditmedia.com/AKi7X1pCmMqhvnP3PdmdeSZN2J-JC3-EU2pau73FYgc.gif?fm=jpg&s=e11b9890135e0a9004534481131655ad frameborder=0>
-- entry_name: |
-  entry_id: 8a27a4
-  entry_content: |
-    <img src=https://i.redditmedia.com/ku-0EmQvEDhQbI-HTGOsVH9yiyufb25yQl47JX1J1FM.jpg?s=8606ecdf6c6be93385dca39e9d59eb71 frameborder=0>
 - entry_name: |
     Impressive
   entry_id: 8a8xje
@@ -249,4 +235,19 @@ data:
   entry_id: 8a8nsm
   entry_content: |
     <img src=https://i.redditmedia.com/Feh21DleN9rPUMAmpslSED9OYijm5DsTa1Q44ptnT80.jpg?s=bee7fca9240875a7ac8b8f20dc53fa3e frameborder=0>
+- entry_name: |
+    It’s all been leading to this
+  entry_id: 8a8k9o
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gfq_KhyEztPGSwWl5jJmhqtdty57mpI9lobqaPfmKDc.jpg?s=7eee82f3802a62ceccb65e8ee4331b76 frameborder=0>
+- entry_name: |
+    Alberta government introduced legislation to keep protesters at least 50 metres away from abortion clinics and make it illegal for demonstrators to video or take pictures of people entering or leaving building. Intimidation of patients at province’s clinics is on rise, Health Minister Hoffman said.
+  entry_id: 8a42f8
+  entry_content: |
+    <img src=https://i.redditmedia.com/0rLAlFYPbmQvchiU7SIZkdXHVMdcKN1vY0D9ALHoCJg.jpg?s=3978b23aec676b9524a595259708efbc frameborder=0>
+- entry_name: |
+    An Irishman walks into a bar in Dublin, orders three pints of Guinness and sits in the back of the room, drinking a sip out of each one in turn.
+  entry_id: 8a2p5o
+  entry_content: |
+    null
 ---
