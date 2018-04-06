@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dNwDegVXiyfGVPXp7_Q5fcKIrPhpZjBHjGEWmqkA1GM.jpg?s=1d5ddfca7f89e4bf9ea36331a2b1e278 frameborder=0>
 - entry_name: |
-    Not My Fault.
-  entry_id: 8a1ve4
-  entry_content: |
-    <img src=https://i.redditmedia.com/NswjmuM3cjGyYHK08RmllU5-FNUKqy9655ZtGCOdfkA.png?s=39aa3f628c91ebda59fb2646f59d6ba6 frameborder=0>
-- entry_name: |
     Always keep the cup in sight.
   entry_id: 8a39oh
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8a2p5o
   entry_content: |
     null
+- entry_name: |
+    Mods are asleep, upvote our boy Miek.
+  entry_id: 8a2wcf
+  entry_content: |
+    <img src=https://i.redditmedia.com/vGVJGCali5Wn6lr3rdcZVZ8KbWkTGcGIFekbtpj3y70.png?s=c6b850164bec36244c49fca688e8e47d frameborder=0>
 ---
