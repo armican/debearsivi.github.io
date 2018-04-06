@@ -98,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/37bWEblcG016vpn7UT6x6_myjWZ1C9He7yyOsNvUtu8.jpg?s=4dae816b3d353b2983f715c92cf6b28b frameborder=0>
 - entry_name: |
-    Lord of the Rings TV Show Has a 5 Season Commitment, Potential $1 Billion Budget
-  entry_id: 8a2t58
-  entry_content: |
-    <img src=https://i.redditmedia.com/TAWOnvXZevWPDJse1Gcsq_fDVxcSIdADZjdMlUABEg0.jpg?s=8134cc3b9a1971908404c02b8d13e75a frameborder=0>
-- entry_name: |
     Formula 1 driver Kevin Magnussen with an act of pure evil...
   entry_id: 8a8ruz
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8a3289
   entry_content: |
     <img src=https://i.redditmedia.com/KzSFGekONqmsc_gJcrnbpZQqXmPu4Fw2-iBMl8Vp5ZM.gif?fm=jpg&s=080b949e7245d15218b6cf43f733f961 frameborder=0>
+- entry_name: |
+    I find it crazy that this is a thing in the U.S.
+  entry_id: 8a86jl
+  entry_content: |
+    <img src=https://i.redditmedia.com/iG-JGSLxio_2ZyY7V28ouIlNKf2iPoQD_NpwNIsq0C4.jpg?s=78656d8c0d6291cc0e851320765be186 frameborder=0>
 ---
