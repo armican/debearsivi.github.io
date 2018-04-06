@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/X3hpP1VA2wBRFEHmCKRY6ElO9LvqkuI_8EoKkaf9MY0.jpg?s=cbd4ce2869f4f28e80fa5a251ca98782 frameborder=0>
 - entry_name: |
-    Always keep the cup in sight.
-  entry_id: 8a39oh
-  entry_content: |
-    <img src=https://i.redditmedia.com/dfroLiFOnUJ9vlGL7mDn20PSXtDIPCA2Cgqnsb4MyPY.gif?fm=jpg&s=e5b62cfd316c84e37ff0140cb6a59c43 frameborder=0>
-- entry_name: |
     Protester holding sign
   entry_id: 8a3eb3
   entry_content: |
@@ -142,11 +137,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BO_xup1dcCAAUJ41-cFjyAC_m2cfWbq6sbFRVhZKl4k.jpg?s=c9eb570129bbe7cbaf156bdd62b4f688 frameborder=0>
 - entry_name: |
-    PsBattle: This happy baby elephant
-  entry_id: 8a3cj5
-  entry_content: |
-    <img src=https://i.redditmedia.com/SjWfathBq3lIMrR6z84vyiRk9ygWmrWZsS3R8QmPAU8.jpg?s=53cef4ad9d5a7efd6bc2d79952a5ebf1 frameborder=0>
-- entry_name: |
     Half naked women make it to r/all, but what about the best heart surgeon in Japan?
   entry_id: 8a6r10
   entry_content: |
@@ -216,11 +206,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nTzGrtSS1gVvdm4mFVnAGIrNElXj0vQM_JxJfwIXsAU.jpg?s=fbd4c8b9dd267beebb283f828f3a311e frameborder=0>
 - entry_name: |
-    What's your worst experience with a goose?
-  entry_id: 8a39gd
-  entry_content: |
-    null
-- entry_name: |
     I find it crazy that this is a thing in the U.S.
   entry_id: 8a86jl
   entry_content: |
@@ -250,4 +235,18 @@ data:
   entry_id: 8a3rw4
   entry_content: |
     <iframe src=https://v.redd.it/kseawj5ms5q01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    The Truth 💯
+  entry_id: 8a4dzp
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kmgh9RmuNFlXYG64oGmqn2YeXSaVpk-BfupAT6VBQ-M.jpg?s=2bec5dc0bddcfb78028b2f0112b1412a frameborder=0>
+- entry_name: |
+    Mueller investigating whether Russians funded Trump: Report
+  entry_id: 8a8vo3
+  entry_content: |
+    <img src=https://i.redditmedia.com/_w8Zv0BAB90BPpySQsehmNUCWuVdqR6ehIqFa1kjDuw.jpg?s=90c04df7054c69a7944e8cd31276afc2 frameborder=0>
+- entry_name: |
+  entry_id: 8a79ri
+  entry_content: |
+    <img src=https://i.redditmedia.com/ETrdYxbO0fsraww6oxSjdqlCH2fp31sbiK-IFPyguzA.gif?fm=jpg&s=d2d68aa01e621c92620751ec4f861b13 frameborder=0>
 ---
