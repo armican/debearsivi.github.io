@@ -10,13 +10,15 @@ layout: default
 <nav id="navigation" class="navbar navbar-light bg-light">
  <ul class="section-nav">
  {% for i in page.data %}
- <li class="toc-entry toc-h2"><a class="nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a></li>
+ <li class="toc-entry toc-h2">
+  <a class="nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
+ </li>
  {% endfor %}
  </ul>
 </nav>
 </div>
 
-<main data-spy="scroll" data-target="#navigation" data-offset="0" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
+<main data-spy="scroll" data-target="#navigation" data-offset="0" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content entries" role="main">
 <article itemscope itemtype="http://schema.org/Article">
  {% for i in page.data %}
       <li class="entry_li card">
