@@ -4,6 +4,11 @@ layout: default
 
 <div id="snackbar">j+k veya &larr; &rarr; tuşlarıyla gezinebilirsiniz.</div>
 <div class="col-12 col-md-3 col-xl-2 bd-sidebar">
+ <ul class="section-nav">
+ {% for i in page.data %}
+ <li class="toc-entry toc-h2"><a href="#entry_{{ i.entry_id }}">{{ i.entry_name }}</a></li>
+ {% endfor %}
+ </ul>
 </div>
 <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
 <article itemscope itemtype="http://schema.org/Article">
