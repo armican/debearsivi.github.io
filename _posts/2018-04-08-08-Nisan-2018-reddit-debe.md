@@ -13,15 +13,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/6osleshr6eq01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    TIL a riddle from 1688 goes. If a man born blind can feel the differences between shapes such as spheres and cubes, could he, if given the ability, distinguish those objects by sight alone? In 2003 the riddle was solved when five people had their sight restored though surgery. They could not.
-  entry_id: 8adkpx
-  entry_content: |
-    <img src=https://i.redditmedia.com/XelHaea8ULldiPAP_F2-hgxZUOZJH9ZMMqPLt-BbPh0.jpg?s=3929fd4e2de139bf9e68a1e63739ec10 frameborder=0>
-- entry_name: |
     That's our exit
   entry_id: 8ah55w
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FShimmeringParchedFairybluebird&url=https%3A%2F%2Fgfycat.com%2FShimmeringParchedFairybluebird&image=https%3A%2F%2Fthumbs.gfycat.com%2FShimmeringParchedFairybluebird-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    TIL a riddle from 1688 goes. If a man born blind can feel the differences between shapes such as spheres and cubes, could he, if given the ability, distinguish those objects by sight alone? In 2003 the riddle was solved when five people had their sight restored though surgery. They could not.
+  entry_id: 8adkpx
+  entry_content: |
+    <img src=https://i.redditmedia.com/XelHaea8ULldiPAP_F2-hgxZUOZJH9ZMMqPLt-BbPh0.jpg?s=3929fd4e2de139bf9e68a1e63739ec10 frameborder=0>
 - entry_name: |
     I tried to follow a Bob Ross video on a smaller canvas.
   entry_id: 8adiui
@@ -53,6 +53,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    Rey Cosplay.
+  entry_id: 8aia0k
+  entry_content: |
+    <img src=https://i.redditmedia.com/HBlpvVHLTwB2Sx9utvnNDRyJ15GCh8ZClkZ4VTiWg3o.jpg?s=b58f400761a53e5a8efe26eabb870642 frameborder=0>
+- entry_name: |
     San Francisco man awarded $10 million after jury finds police framed him for murder
   entry_id: 8ag19q
   entry_content: |
@@ -73,10 +78,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UVLX-IAC7aAjmuz222dUjh_eKat5h_LankWJxv8ZdFE.png?s=1656738ff1d80d51b7c6cf6c0af4cd5f frameborder=0>
 - entry_name: |
-    Rey Cosplay.
-  entry_id: 8aia0k
+    Facebook Donated to 46 of 55 Members on Committee that Will Question Zuckerberg
+  entry_id: 8ahvjt
   entry_content: |
-    <img src=https://i.redditmedia.com/HBlpvVHLTwB2Sx9utvnNDRyJ15GCh8ZClkZ4VTiWg3o.jpg?s=b58f400761a53e5a8efe26eabb870642 frameborder=0>
+    <img src=https://i.redditmedia.com/WZUju_t_2yTS15L5iem4UMddZIvqQl7dLABel-XmykY.jpg?s=c68dabc749eae8a669167f8483415f31 frameborder=0>
 - entry_name: |
     How do they find all this money?
   entry_id: 8ae14h
@@ -93,15 +98,20 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHandyQueasyJuliabutterfly&url=https%3A%2F%2Fgfycat.com%2FHandyQueasyJuliabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FHandyQueasyJuliabutterfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Lando turns 81 today!! Happy Birthday Billy Dee Williams.
-  entry_id: 8ac9mp
+    He's been training for this moment for years
+  entry_id: 8ahrk6
   entry_content: |
-    <img src=https://i.redditmedia.com/RLq5gzboTy4U2Cp8kamlkzTN7Ei1yEOsd9gAIbbSYrQ.jpg?s=1fe24ecb18f7e0cccff3793f5c017979 frameborder=0>
+    <img src=https://i.redditmedia.com/IZY6LAsw7hWzIh5paj-VK7CmTey4cyLQP5kP0JRqUKs.jpg?s=cc32e8f362c395bb9af68261cc52c055 frameborder=0>
 - entry_name: |
-    Facebook Donated to 46 of 55 Members on Committee that Will Question Zuckerberg
-  entry_id: 8ahvjt
+    The art of seasoning
+  entry_id: 8ahird
   entry_content: |
-    <img src=https://i.redditmedia.com/WZUju_t_2yTS15L5iem4UMddZIvqQl7dLABel-XmykY.jpg?s=c68dabc749eae8a669167f8483415f31 frameborder=0>
+    <iframe src=https://v.redd.it/jh7fc2344hq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Police dog loves his partner
+  entry_id: 8ahq09
+  entry_content: |
+    <iframe src=https://v.redd.it/mp05p7zichq01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Welcome to H.Q.Gifs
   entry_id: 8advlp
@@ -113,33 +123,33 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vlfdcvl14dq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    The art of seasoning
-  entry_id: 8ahird
+    If everybody you meet is a friendly and nice person, it's probably because you are
+  entry_id: 8ahbdy
   entry_content: |
-    <iframe src=https://v.redd.it/jh7fc2344hq01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Ivanka Trump’s clothing company will be spared from tariffs, thanks to her dad
-  entry_id: 8adelb
-  entry_content: |
-    <img src=https://i.redditmedia.com/I-8HdQJmSF94X7GskjepdKr7h20Tvhb9lKZFhpRrfIk.jpg?s=012f3331e4273c29ab8f038cf99be348 frameborder=0>
+    null
 - entry_name: |
     What's the best 2 player games to play with a significant other?
   entry_id: 8adw0f
   entry_content: |
     null
 - entry_name: |
-    Today I donated my watch, phone, and $500 to a poor guy.
-  entry_id: 8adolo
+    Ivanka Trump’s clothing company will be spared from tariffs, thanks to her dad
+  entry_id: 8adelb
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/I-8HdQJmSF94X7GskjepdKr7h20Tvhb9lKZFhpRrfIk.jpg?s=012f3331e4273c29ab8f038cf99be348 frameborder=0>
+- entry_name: |
+    Practice makes perfect
+  entry_id: 8ahel6
+  entry_content: |
+    <img src=https://i.redditmedia.com/F52W7UuII1Ak6C0oZUWZdue2lu1lk_bbCnWspf0vB6w.gif?fm=jpg&s=013dab59255b051cd7b1ef559c5fca3c frameborder=0>
 - entry_name: |
     That little aarf sound
   entry_id: 8afme8
   entry_content: |
     <img src=https://i.redditmedia.com/6eW-v7d1FIz2LboUs5dn2hVMVUXRtGT0BNO97IDQRgI.jpg?s=f46b515eeebee030f76dfc4e2744158e frameborder=0>
 - entry_name: |
-    If everybody you meet is a friendly and nice person, it's probably because you are
-  entry_id: 8ahbdy
+    Today I donated my watch, phone, and $500 to a poor guy.
+  entry_id: 8adolo
   entry_content: |
     null
 - entry_name: |
@@ -148,25 +158,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8_V4uX5uswcDgbwzrEgYCV4Y2MC_k9XBoAsgN6hSwtI.jpg?s=bd92122f112d609faa98af458457f0dc frameborder=0>
 - entry_name: |
-    Practice makes perfect
-  entry_id: 8ahel6
+    Trump debates in a nutshell:
+  entry_id: 8aht8g
   entry_content: |
-    <img src=https://i.redditmedia.com/F52W7UuII1Ak6C0oZUWZdue2lu1lk_bbCnWspf0vB6w.gif?fm=jpg&s=013dab59255b051cd7b1ef559c5fca3c frameborder=0>
+    <img src=https://i.redditmedia.com/GrB7rnKilY4MUFnYefsnPtQ5W9qPmsvQ9Mch7tHY_oE.jpg?s=42922460c86b69b545a3ab9dc674f934 frameborder=0>
 - entry_name: |
-    Police dog loves his partner
-  entry_id: 8ahq09
+    Painted by Picasso when he was 15.
+  entry_id: 8aggoi
   entry_content: |
-    <iframe src=https://v.redd.it/mp05p7zichq01/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/lfzepGzZHvCBRfSVpvw1n_9inl9w-xuunTHMGZWBLyI.jpg?s=f668b0333dd3e18007bbc0e32029aa3f frameborder=0>
+- entry_name: |
+  entry_id: 8ahpe1
+  entry_content: |
+    <img src=https://i.redditmedia.com/LAd4N7PKFoNAAzTBEVjpzunPbkxkoicX3u3xOnjsCq0.jpg?s=d6f12e92d23f19365f39bfad51d74436 frameborder=0>
 - entry_name: |
     Awesome styling.
   entry_id: 8aer5o
   entry_content: |
     <iframe src=https://v.redd.it/xeb0b41w1eq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Painted by Picasso when he was 15.
-  entry_id: 8aggoi
+    The best kind of snow
+  entry_id: 8ahg0z
   entry_content: |
-    <img src=https://i.redditmedia.com/lfzepGzZHvCBRfSVpvw1n_9inl9w-xuunTHMGZWBLyI.jpg?s=f668b0333dd3e18007bbc0e32029aa3f frameborder=0>
+    <iframe src=https://v.redd.it/qnhrvs9mcgq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Maybe he should just stop being poor!
   entry_id: 8advvf
@@ -188,34 +202,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VLEPo9e0BdO3m3fxHkmQLwzrTBwJXhSrofZrFaLhs1E.jpg?s=6ef07541b0305e9711ca654435b96908 frameborder=0>
 - entry_name: |
-    Gold medal-winning U.S. Olympic men’s curling team throwing the first pitch at the Twins home opener
-  entry_id: 8ac9ua
-  entry_content: |
-    <iframe src=https://v.redd.it/oj7w24219cq01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     This is actually so true
   entry_id: 8adcsa
   entry_content: |
     <img src=https://i.redditmedia.com/DEOjTe5ZDNAG56e8hPkaBa5DxkCjGKy43fjVxc9IZg4.jpg?s=d1cb9df7c4c92edc4908bc4147b183c5 frameborder=0>
-- entry_name: |
-  entry_id: 8ahpe1
-  entry_content: |
-    <img src=https://i.redditmedia.com/LAd4N7PKFoNAAzTBEVjpzunPbkxkoicX3u3xOnjsCq0.jpg?s=d6f12e92d23f19365f39bfad51d74436 frameborder=0>
-- entry_name: |
-    On vacation with my dad in 1984 - when guys would wear sports jackets on vacation, even if you were out in the woods.
-  entry_id: 8aesth
-  entry_content: |
-    <img src=https://i.redditmedia.com/7k5q9flmK9GkpVM2Xm-0nrPLQuW1h1aemQiu6rlIKWc.jpg?s=30742ef0720c17ee4b9304dac0f0623e frameborder=0>
 - entry_name: |
     Smooth skateboarding skills
   entry_id: 8af8t9
   entry_content: |
     <iframe src=https://v.redd.it/qfyb45t9heq01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Trump debates in a nutshell:
-  entry_id: 8aht8g
+    On vacation with my dad in 1984 - when guys would wear sports jackets on vacation, even if you were out in the woods.
+  entry_id: 8aesth
   entry_content: |
-    <img src=https://i.redditmedia.com/GrB7rnKilY4MUFnYefsnPtQ5W9qPmsvQ9Mch7tHY_oE.jpg?s=42922460c86b69b545a3ab9dc674f934 frameborder=0>
+    <img src=https://i.redditmedia.com/7k5q9flmK9GkpVM2Xm-0nrPLQuW1h1aemQiu6rlIKWc.jpg?s=30742ef0720c17ee4b9304dac0f0623e frameborder=0>
+- entry_name: |
+    A 1 °C increase in temperature has disrupted the entire ecology of the world’s largest High Arctic lake. The warming has resulted in a 10x increase in glacial meltwaters, sediment, and organic carbon delivered to Lake Hazen.
+  entry_id: 8ag7xj
+  entry_content: |
+    <img src=https://i.redditmedia.com/s9xOnwcu0k6e3oGKDecHD9pl75XSaCxp-N4A76QEBwk.jpg?s=d9b96ccdb27e9e0a5ae637aa43c04f2f frameborder=0>
 - entry_name: |
     Quick Maths
   entry_id: 8adbx6
@@ -232,23 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/epJ3qIQF7c1Hu-byfbS5h6sGTQjU2-KPMGWJy5qMSyU.jpg?s=57e0f23e39310ccf7ffca406abac75f7 frameborder=0>
 - entry_name: |
-    He's been training for this moment for years
-  entry_id: 8ahrk6
-  entry_content: |
-    <img src=https://i.redditmedia.com/IZY6LAsw7hWzIh5paj-VK7CmTey4cyLQP5kP0JRqUKs.jpg?s=cc32e8f362c395bb9af68261cc52c055 frameborder=0>
-- entry_name: |
     Waves
   entry_id: 8aeisw
   entry_content: |
     <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
 - entry_name: |
-    A 1 °C increase in temperature has disrupted the entire ecology of the world’s largest High Arctic lake. The warming has resulted in a 10x increase in glacial meltwaters, sediment, and organic carbon delivered to Lake Hazen.
-  entry_id: 8ag7xj
+    me_irl
+  entry_id: 8ah23q
   entry_content: |
-    <img src=https://i.redditmedia.com/s9xOnwcu0k6e3oGKDecHD9pl75XSaCxp-N4A76QEBwk.jpg?s=d9b96ccdb27e9e0a5ae637aa43c04f2f frameborder=0>
+    <img src=https://i.redditmedia.com/Z-hKU-XKcTWpZaLg_j8_3IakQ6apOc0NEJCbO1_Gafg.jpg?s=809aeb60cff39e36af32c92ca4264bc2 frameborder=0>
 - entry_name: |
-    The best kind of snow
-  entry_id: 8ahg0z
+    Richest 1% on target to own two-thirds of all wealth by 2030: World leaders urged to act as anger over inequality reaches a ‘tipping point’
+  entry_id: 8ahyd4
   entry_content: |
-    <iframe src=https://v.redd.it/qnhrvs9mcgq01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/NE8p4ZfCq7104iAsnxuhxSPjY_zix7AOv4lYDRUet8U.jpg?s=cc942e9cef42427d7011ad73881e0013 frameborder=0>
 ---
