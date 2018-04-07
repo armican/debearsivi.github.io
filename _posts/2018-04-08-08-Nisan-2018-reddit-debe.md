@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oYWxE8rIf9OK1tJNdhNUUnTvbxGJdCTuGHX4wF2imPc.jpg?s=921b7c26bf0c7dadf46fa899288ab9c6 frameborder=0>
 - entry_name: |
-    The real reason people like to work from home.
-  entry_id: 8achej
-  entry_content: |
-    <iframe src=https://v.redd.it/hmflbp3wdcq01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     if he can do it...
   entry_id: 8adq26
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8ahyd4
   entry_content: |
     <img src=https://i.redditmedia.com/NE8p4ZfCq7104iAsnxuhxSPjY_zix7AOv4lYDRUet8U.jpg?s=cc942e9cef42427d7011ad73881e0013 frameborder=0>
+- entry_name: |
+    My Coworker returned the front desk stapler like this. Told me it ran out of staples.
+  entry_id: 8actsv
+  entry_content: |
+    <img src=https://i.redditmedia.com/zrtAuAcK1B__BN2LnEIognlIidagvngj4Mrvb-j7R7M.jpg?s=290558c6cc9da6b6ff82cd75a56559b5 frameborder=0>
 ---
