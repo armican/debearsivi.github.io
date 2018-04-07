@@ -69,10 +69,6 @@ a:hover {
 #entry_ul{
 }
 
-.entries {
-  overflow-y: scroll;
-}
-
 .entry_li {
   box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
   margin-top:2em;
