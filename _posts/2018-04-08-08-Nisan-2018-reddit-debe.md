@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XTUM1LIDA8OqwMOSA0xqSt1EuIJwL-j0kTj5S59U2Tg.jpg?s=f75c3c8787e8b24638a94edc9c5c8b14 frameborder=0>
 - entry_name: |
-    I enjoy combining animals in photoshop. Here's the stupidest one so far
-  entry_id: 8ac64m
-  entry_content: |
-    <img src=https://i.redditmedia.com/B9gQ4V9pLt4Rr1Fn0sXwxy9AOPSTxTLhA8YQpxcptYc.jpg?s=6bd9c3ab6f50319d79a5686e5af766ed frameborder=0>
-- entry_name: |
     World of Warcraft cosplay
   entry_id: 8aewp0
   entry_content: |
@@ -148,11 +143,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Marie Curie’s Research Papers Are Still Radioactive 100+ Years Later
-  entry_id: 8ac1al
-  entry_content: |
-    <img src=https://i.redditmedia.com/nkQbCm8UdKqD9deoTccE47QjedSCp7CS_plrqsBIIao.jpg?s=d8066cfc30a6a9be75037f90a593b95b frameborder=0>
-- entry_name: |
     TIL Nike wanted to call their first shoe design 'Aztec', but Addidas threatened to sue since they already had a line called 'Aztec Gold'. The Nike cofounders then decided to change the name to 'Cortez' after the general who kicked the shit out of the Aztecs.
   entry_id: 8ae6o9
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8aeisw
   entry_content: |
     <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
+- entry_name: |
+    A 1 °C increase in temperature has disrupted the entire ecology of the world’s largest High Arctic lake. The warming has resulted in a 10x increase in glacial meltwaters, sediment, and organic carbon delivered to Lake Hazen.
+  entry_id: 8ag7xj
+  entry_content: |
+    <img src=https://i.redditmedia.com/s9xOnwcu0k6e3oGKDecHD9pl75XSaCxp-N4A76QEBwk.jpg?s=d9b96ccdb27e9e0a5ae637aa43c04f2f frameborder=0>
+- entry_name: |
+    The best kind of snow
+  entry_id: 8ahg0z
+  entry_content: |
+    <iframe src=https://v.redd.it/qnhrvs9mcgq01/DASH_1_2_M frameborder=0></iframe>
 ---
