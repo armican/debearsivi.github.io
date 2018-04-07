@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UVLX-IAC7aAjmuz222dUjh_eKat5h_LankWJxv8ZdFE.png?s=1656738ff1d80d51b7c6cf6c0af4cd5f frameborder=0>
 - entry_name: |
-    A buddy of mine is at PAX, and saw this cosplayer.
-  entry_id: 8abik5
-  entry_content: |
-    <img src=https://i.redditmedia.com/dzq7Vdeqg9d-AONM5Dp_pul88p0l4eiDqgYUkp0RbHw.jpg?s=0c561485dae24f7ac5da5bd4c13b6f1d frameborder=0>
-- entry_name: |
     TIL the top flying ace for the United States during World War II was Dick Bong, who shot down 40 Japanese aircraft.
   entry_id: 8abtdp
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8aeisw
   entry_content: |
     <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
+- entry_name: |
+    Because some people mistook us for a bank and complained, corporate changed the policy on $50 and $100s.
+  entry_id: 8acbcr
+  entry_content: |
+    null
 ---
