@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zmVd-Z4r5s-2BEgyH7IhsQxCRwnrRdSHVdbauiSuyBI.jpg?s=710d76fec201219d3dae0e1007445bdb frameborder=0>
 - entry_name: |
-    Quantum Levitation
-  entry_id: 8acieg
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHandyQueasyJuliabutterfly&url=https%3A%2F%2Fgfycat.com%2FHandyQueasyJuliabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FHandyQueasyJuliabutterfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     He's been training for this moment for years
   entry_id: 8ahrk6
   entry_content: |
@@ -187,11 +182,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rdiguS02oUPKvJF-fcRZH8KqvbSkryqmD8y8BmmJJhY.jpg?s=0d3a59889b4724660beef61ca10a2914 frameborder=0>
 - entry_name: |
-    hmmm
-  entry_id: 8acl7i
-  entry_content: |
-    <img src=https://i.redditmedia.com/3ep6U1lZzM9KgBjykzWLcGIj-bEl14FA_YYarRPVTzc.jpg?s=8864f1c790a258a25041d308801d59d3 frameborder=0>
-- entry_name: |
     Glenn Howerton Returning for 'It's Always Sunny in Philadelphia' Season 13, Confirms Co-Star Kaitlin Olson
   entry_id: 8ae044
   entry_content: |
@@ -222,11 +212,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ah2pzjXiQcAF5712oQDcC7QLGOTCTyojty966mQehDo.png?s=4ccce3e9f35c729df61aa64fa20a1a4d frameborder=0>
 - entry_name: |
-    This guy’s mohawk today in downtown Denver
-  entry_id: 8acicv
-  entry_content: |
-    <img src=https://i.redditmedia.com/RNcLyZZtu6lhlzQth2dwlZE8KxJU1my7PMQkJ_gFPJg.jpg?s=7fd71fff4a582e19fbee27b3c8d057c1 frameborder=0>
-- entry_name: |
     This would be... amazing....
   entry_id: 8aed1r
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8actsv
   entry_content: |
     <img src=https://i.redditmedia.com/zrtAuAcK1B__BN2LnEIognlIidagvngj4Mrvb-j7R7M.jpg?s=290558c6cc9da6b6ff82cd75a56559b5 frameborder=0>
+- entry_name: |
+    Ain't no love like brotherly love
+  entry_id: 8ahos8
+  entry_content: |
+    null
+- entry_name: |
+    When you accidentally google “corgo ship” instead of “cargo ship” and you realize it wasn’t a mistake after all
+  entry_id: 8agj9l
+  entry_content: |
+    <img src=https://i.redditmedia.com/Iae0zWzC2kpmsF8fv-_C0VvTq8ci1z2qdYcerzJ4caE.jpg?s=2eb5daf6f7e6cb5581a94f24f0fad642 frameborder=0>
+- entry_name: |
+    No, no he does not
+  entry_id: 8ae99t
+  entry_content: |
+    <img src=https://i.redditmedia.com/JLo95NUqY8RccGKI49Asx-9H5DovvLuo-MPBQt5FsoY.png?s=7dafbd0bc63117dcb9fdb2f3afe5d52b frameborder=0>
 ---
