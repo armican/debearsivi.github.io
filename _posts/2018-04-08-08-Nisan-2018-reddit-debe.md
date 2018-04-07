@@ -28,6 +28,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ub954b2N-JdQK75_m91KIrII5DxPXspbyWkOuHe33FY.jpg?s=ba4b65804cf337c9954187f497cdfa04 frameborder=0>
 - entry_name: |
+    That's our exit
+  entry_id: 8ah55w
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FShimmeringParchedFairybluebird&url=https%3A%2F%2Fgfycat.com%2FShimmeringParchedFairybluebird&image=https%3A%2F%2Fthumbs.gfycat.com%2FShimmeringParchedFairybluebird-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     We needed to make sure he wasn’t stepped on
   entry_id: 8ae8ca
   entry_content: |
@@ -42,16 +47,6 @@ data:
   entry_id: 8adq26
   entry_content: |
     <iframe src=https://v.redd.it/cmf26it7icq01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    That's our exit
-  entry_id: 8ah55w
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FShimmeringParchedFairybluebird&url=https%3A%2F%2Fgfycat.com%2FShimmeringParchedFairybluebird&image=https%3A%2F%2Fthumbs.gfycat.com%2FShimmeringParchedFairybluebird-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    A rather boisterous evangelical Christian has been protesting at a local Uni, so of course some students had some fun with it. But the cop’s face takes it for me.
-  entry_id: 8abe56
-  entry_content: |
-    <img src=https://i.redditmedia.com/0jwl86VM2kI7wCnpbs3SAVOPcqAerVzpjqNzmJDNWc8.jpg?s=e785a219e965c1905f2328032390fb25 frameborder=0>
 - entry_name: |
     My hotel gave me a cute little towel sloth
   entry_id: 8aekdq
@@ -68,20 +63,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ss0WsBnJf8Z9ZsdVWn9yWU7sES0EFtu-P9nGPstOEr0.jpg?s=f689c89bf0450cdeb284da22b9382bab frameborder=0>
 - entry_name: |
-    Haha good one
-  entry_id: 8ae6dx
+    Don't you dare sit down... don't you... nononooooo!
+  entry_id: 8agnwf
   entry_content: |
-    <img src=https://i.redditmedia.com/UVLX-IAC7aAjmuz222dUjh_eKat5h_LankWJxv8ZdFE.png?s=1656738ff1d80d51b7c6cf6c0af4cd5f frameborder=0>
+    <iframe src=https://v.redd.it/fvm46goccfq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Beautiful black jaguar
   entry_id: 8ag9wt
   entry_content: |
     <img src=https://i.redditmedia.com/H7IA1zgWWsnMowO3k5WqEs6Sxl49qoqnjCfSMX3yBB4.jpg?s=6fb3d384f8d4e29daef733ca37f4a6ff frameborder=0>
 - entry_name: |
-    Don't you dare sit down... don't you... nononooooo!
-  entry_id: 8agnwf
+    Haha good one
+  entry_id: 8ae6dx
   entry_content: |
-    <iframe src=https://v.redd.it/fvm46goccfq01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/UVLX-IAC7aAjmuz222dUjh_eKat5h_LankWJxv8ZdFE.png?s=1656738ff1d80d51b7c6cf6c0af4cd5f frameborder=0>
 - entry_name: |
     A buddy of mine is at PAX, and saw this cosplayer.
   entry_id: 8abik5
@@ -118,20 +113,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RLq5gzboTy4U2Cp8kamlkzTN7Ei1yEOsd9gAIbbSYrQ.jpg?s=1fe24ecb18f7e0cccff3793f5c017979 frameborder=0>
 - entry_name: |
-    MRW Trump skips the Correspondents Dinner for the second year in a row
-  entry_id: 8abal4
+    Mosquito finding a blood vessel
+  entry_id: 8adqcd
   entry_content: |
-    <iframe src=https://v.redd.it/p88bnn1ymbq01/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/vlfdcvl14dq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Welcome to H.Q.Gifs
   entry_id: 8advlp
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulEmotionalDairycow&url=https%3A%2F%2Fgfycat.com%2FWatchfulEmotionalDairycow&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulEmotionalDairycow-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Mosquito finding a blood vessel
-  entry_id: 8adqcd
-  entry_content: |
-    <iframe src=https://v.redd.it/vlfdcvl14dq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Ivanka Trump’s clothing company will be spared from tariffs, thanks to her dad
   entry_id: 8adelb
@@ -153,6 +143,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nkQbCm8UdKqD9deoTccE47QjedSCp7CS_plrqsBIIao.jpg?s=d8066cfc30a6a9be75037f90a593b95b frameborder=0>
 - entry_name: |
+    That little aarf sound
+  entry_id: 8afme8
+  entry_content: |
+    <img src=https://i.redditmedia.com/6eW-v7d1FIz2LboUs5dn2hVMVUXRtGT0BNO97IDQRgI.jpg?s=f46b515eeebee030f76dfc4e2744158e frameborder=0>
+- entry_name: |
     TIL Nike wanted to call their first shoe design 'Aztec', but Addidas threatened to sue since they already had a line called 'Aztec Gold'. The Nike cofounders then decided to change the name to 'Cortez' after the general who kicked the shit out of the Aztecs.
   entry_id: 8ae6o9
   entry_content: |
@@ -163,15 +158,25 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FExcitableSociableBaldeagle&url=https%3A%2F%2Fgfycat.com%2FExcitableSociableBaldeagle&image=https%3A%2F%2Fthumbs.gfycat.com%2FExcitableSociableBaldeagle-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    That little aarf sound
-  entry_id: 8afme8
+    Rey Cosplay.
+  entry_id: 8aia0k
   entry_content: |
-    <img src=https://i.redditmedia.com/6eW-v7d1FIz2LboUs5dn2hVMVUXRtGT0BNO97IDQRgI.jpg?s=f46b515eeebee030f76dfc4e2744158e frameborder=0>
+    <img src=https://i.redditmedia.com/HBlpvVHLTwB2Sx9utvnNDRyJ15GCh8ZClkZ4VTiWg3o.jpg?s=b58f400761a53e5a8efe26eabb870642 frameborder=0>
+- entry_name: |
+    The art of seasoning
+  entry_id: 8ahird
+  entry_content: |
+    <iframe src=https://v.redd.it/jh7fc2344hq01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Awesome styling.
   entry_id: 8aer5o
   entry_content: |
     <iframe src=https://v.redd.it/xeb0b41w1eq01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Facebook Donated to 46 of 55 Members on Committee that Will Question Zuckerberg
+  entry_id: 8ahvjt
+  entry_content: |
+    <img src=https://i.redditmedia.com/WZUju_t_2yTS15L5iem4UMddZIvqQl7dLABel-XmykY.jpg?s=c68dabc749eae8a669167f8483415f31 frameborder=0>
 - entry_name: |
     Maybe he should just stop being poor!
   entry_id: 8advvf
@@ -193,30 +198,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rdiguS02oUPKvJF-fcRZH8KqvbSkryqmD8y8BmmJJhY.jpg?s=0d3a59889b4724660beef61ca10a2914 frameborder=0>
 - entry_name: |
-    This is actually so true
-  entry_id: 8adcsa
+    Practice makes perfect
+  entry_id: 8ahel6
   entry_content: |
-    <img src=https://i.redditmedia.com/DEOjTe5ZDNAG56e8hPkaBa5DxkCjGKy43fjVxc9IZg4.jpg?s=d1cb9df7c4c92edc4908bc4147b183c5 frameborder=0>
+    <img src=https://i.redditmedia.com/F52W7UuII1Ak6C0oZUWZdue2lu1lk_bbCnWspf0vB6w.gif?fm=jpg&s=013dab59255b051cd7b1ef559c5fca3c frameborder=0>
 - entry_name: |
     Glenn Howerton Returning for 'It's Always Sunny in Philadelphia' Season 13, Confirms Co-Star Kaitlin Olson
   entry_id: 8ae044
   entry_content: |
     <img src=https://i.redditmedia.com/VLEPo9e0BdO3m3fxHkmQLwzrTBwJXhSrofZrFaLhs1E.jpg?s=6ef07541b0305e9711ca654435b96908 frameborder=0>
 - entry_name: |
+    If everybody you meet is a friendly and nice person, it's probably because you are
+  entry_id: 8ahbdy
+  entry_content: |
+    null
+- entry_name: |
+    This is actually so true
+  entry_id: 8adcsa
+  entry_content: |
+    <img src=https://i.redditmedia.com/DEOjTe5ZDNAG56e8hPkaBa5DxkCjGKy43fjVxc9IZg4.jpg?s=d1cb9df7c4c92edc4908bc4147b183c5 frameborder=0>
+- entry_name: |
     On vacation with my dad in 1984 - when guys would wear sports jackets on vacation, even if you were out in the woods.
   entry_id: 8aesth
   entry_content: |
     <img src=https://i.redditmedia.com/7k5q9flmK9GkpVM2Xm-0nrPLQuW1h1aemQiu6rlIKWc.jpg?s=30742ef0720c17ee4b9304dac0f0623e frameborder=0>
 - entry_name: |
-    Quick Maths
-  entry_id: 8adbx6
+    Painted by Picasso when he was 15.
+  entry_id: 8aggoi
   entry_content: |
-    <img src=https://i.redditmedia.com/ah2pzjXiQcAF5712oQDcC7QLGOTCTyojty966mQehDo.png?s=4ccce3e9f35c729df61aa64fa20a1a4d frameborder=0>
+    <img src=https://i.redditmedia.com/lfzepGzZHvCBRfSVpvw1n_9inl9w-xuunTHMGZWBLyI.jpg?s=f668b0333dd3e18007bbc0e32029aa3f frameborder=0>
+- entry_name: |
+    Smooth skateboarding skills
+  entry_id: 8af8t9
+  entry_content: |
+    <iframe src=https://v.redd.it/qfyb45t9heq01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This guy’s mohawk today in downtown Denver
   entry_id: 8acicv
   entry_content: |
     <img src=https://i.redditmedia.com/RNcLyZZtu6lhlzQth2dwlZE8KxJU1my7PMQkJ_gFPJg.jpg?s=7fd71fff4a582e19fbee27b3c8d057c1 frameborder=0>
+- entry_name: |
+    Quick Maths
+  entry_id: 8adbx6
+  entry_content: |
+    <img src=https://i.redditmedia.com/ah2pzjXiQcAF5712oQDcC7QLGOTCTyojty966mQehDo.png?s=4ccce3e9f35c729df61aa64fa20a1a4d frameborder=0>
 - entry_name: |
     This would be... amazing....
   entry_id: 8aed1r
@@ -227,29 +252,4 @@ data:
   entry_id: 8aeisw
   entry_content: |
     <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
-- entry_name: |
-    Smooth skateboarding skills
-  entry_id: 8af8t9
-  entry_content: |
-    <iframe src=https://v.redd.it/qfyb45t9heq01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    “I gotta clean that”
-  entry_id: 8abdiy
-  entry_content: |
-    <iframe src=https://v.redd.it/rq3hd4zpobq01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    My Coworker returned the front desk stapler like this. Told me it ran out of staples.
-  entry_id: 8actsv
-  entry_content: |
-    <img src=https://i.redditmedia.com/zrtAuAcK1B__BN2LnEIognlIidagvngj4Mrvb-j7R7M.jpg?s=290558c6cc9da6b6ff82cd75a56559b5 frameborder=0>
-- entry_name: |
-    Because some people mistook us for a bank and complained, corporate changed the policy on $50 and $100s.
-  entry_id: 8acbcr
-  entry_content: |
-    null
-- entry_name: |
-    I just want to watch Cowboy Bebop for the 11th time uninterrupted is all...
-  entry_id: 8ackvk
-  entry_content: |
-    <img src=https://i.redditmedia.com/DSDOWrK-sjlqcyULe0p7MRGKlF2HYQn2DkjNQSZj6LA.jpg?s=c5e7ce9e909f8163bd21f1c662dd412d frameborder=0>
 ---
