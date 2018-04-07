@@ -3,11 +3,6 @@ layout: post
 title: 08 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    Got this little guy yesterday
-  entry_id: 8acu23
-  entry_content: |
-    <img src=https://i.redditmedia.com/XTUM1LIDA8OqwMOSA0xqSt1EuIJwL-j0kTj5S59U2Tg.jpg?s=f75c3c8787e8b24638a94edc9c5c8b14 frameborder=0>
-- entry_name: |
     That's our exit
   entry_id: 8ah55w
   entry_content: |
@@ -47,11 +42,6 @@ data:
   entry_id: 8aekdq
   entry_content: |
     <img src=https://i.redditmedia.com/hV-251iPqXv3U1AQzOs37osCsMBp0JVMkfKOzrFOkmI.jpg?s=4494f807d544fb9d1e5b651d1c7a5823 frameborder=0>
-- entry_name: |
-    Unvaccinated children are just organic humans with a shorter shelf life.
-  entry_id: 8acxb7
-  entry_content: |
-    null
 - entry_name: |
     San Francisco man awarded $10 million after jury finds police framed him for murder
   entry_id: 8ag19q
@@ -251,4 +241,14 @@ data:
   entry_id: 8aeisw
   entry_content: |
     <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
+- entry_name: |
+    John Krasinski Pushed to Cast a Deaf Actress for 'A Quiet Place'
+  entry_id: 8ai3m1
+  entry_content: |
+    <img src=https://i.redditmedia.com/Lf8sxnzB5HUfp4V37kTtBeXtWu4-GPWs9Jadb8E5i-M.jpg?s=6e205409506f779d9a7b780e7f743a04 frameborder=0>
+- entry_name: |
+    When you accidentally google “corgo ship” instead of “cargo ship” and you realize it wasn’t a mistake after all
+  entry_id: 8agj9l
+  entry_content: |
+    <img src=https://i.redditmedia.com/Iae0zWzC2kpmsF8fv-_C0VvTq8ci1z2qdYcerzJ4caE.jpg?s=2eb5daf6f7e6cb5581a94f24f0fad642 frameborder=0>
 ---
