@@ -163,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/F52W7UuII1Ak6C0oZUWZdue2lu1lk_bbCnWspf0vB6w.gif?fm=jpg&s=013dab59255b051cd7b1ef559c5fca3c frameborder=0>
 - entry_name: |
-    Exodia is OP.
-  entry_id: 8abztr
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FExcitableSociableBaldeagle&url=https%3A%2F%2Fgfycat.com%2FExcitableSociableBaldeagle&image=https%3A%2F%2Fthumbs.gfycat.com%2FExcitableSociableBaldeagle-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Police dog loves his partner
   entry_id: 8ahq09
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8ahrk6
   entry_content: |
     <img src=https://i.redditmedia.com/IZY6LAsw7hWzIh5paj-VK7CmTey4cyLQP5kP0JRqUKs.jpg?s=cc32e8f362c395bb9af68261cc52c055 frameborder=0>
+- entry_name: |
+    Waves
+  entry_id: 8aeisw
+  entry_content: |
+    <img src=https://i.redditmedia.com/OL7NF-gsYkJ9a4tZ4E0X9jmlGl9_YFr4mmslHfBbQSk.png?s=b4c96dba7bc2458310d99d01f66cc0fb frameborder=0>
 ---
