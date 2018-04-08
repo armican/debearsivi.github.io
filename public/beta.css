@@ -63,6 +63,10 @@ a:hover {
   }
 }
 
+.navigation_container {
+    overflow: scroll;
+}
+
 .entry_container {
 }
 
