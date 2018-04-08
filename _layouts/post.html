@@ -9,8 +9,8 @@ layout: default
 <div class="d-none d-md-block col-12 col-md-3 col-xl-2 bd-sidebar">
  <ul id="navigation" class="navbar navbar-light bg-light section-nav">
  {% for i in page.data %}
- <li href="#{{ i.entry_id }}" class="toc-entry toc-h3">
-  <a class="nav-link">{{ i.entry_name }}</a>
+ <li class="toc-entry toc-h3">
+  <a class="nav-link" href="#h_{{ i.entry_id }}">{{ i.entry_name }}</a>
  </li>
  {% endfor %}
  </ul>
@@ -19,8 +19,8 @@ layout: default
 <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
 <article itemscope itemtype="http://schema.org/Article">
  {% for i in page.data %}
-      <li class="entry_li card">
-        <a class="entry_list card-header" id="{{ i.entry_id }}"name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
+      <li id="{{ i.entry_id }}" class="entry_li card">
+        <a class="entry_list card-header" id="h_{{ i.entry_id }}"name="{{ i.entry_id }}" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
         <div class="entry_content card-body card-text" id="entry_{{ i.entry_id }}"
              data-writer="{{ i.entry_writer }}" data-title="{{ i.entry_name }}">{{ i.entry_content }}</div>
         <div id="entry_info_{{ i.entry_id }}" class="card-body justify-content-between d-flex">
