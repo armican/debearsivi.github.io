@@ -64,7 +64,7 @@ a:hover {
 }
 
 .navigation_container {
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 .entry_container {

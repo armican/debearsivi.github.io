@@ -56,6 +56,10 @@
         document.cookie = 'onetime=true; expires:Fri, 8 Jul 2030 00:00:00 UTC; path=/';
       }
   }
+  $(document).on( 'scroll', function() { 
+    var targetX = document.getElementsByClassName("navigation_container");
+    targetX[0].scrollTop = document.getElementsByClassName("active")[0].offsetTop;}
+  );
   // So PoC, TODO: fix this.
   var idx = 0;
   $(document).ready(function() {
