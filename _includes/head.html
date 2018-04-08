@@ -57,8 +57,8 @@
       }
   }
   $(document).on( 'scroll', function() { 
-    var targetX = document.getElementsByClassName("navigation_container");
-    targetX[0].scrollTop = document.getElementsByClassName("active")[0].offsetTop;}
+    var target = document.getElementsByClassName("navigation_container")[0];
+    target.scrollTop = document.getElementsByClassName("active")[0].offsetTop;}
   );
   // So PoC, TODO: fix this.
   var idx = 0;
@@ -90,6 +90,8 @@
           idx = 49;
         }
         document.getElementsByClassName("entry_container")[idx].scrollIntoView(true);
+        var target = document.getElementsByClassName("navigation_container")[0];
+        target.scrollTop = document.getElementsByClassName("active")[0].offsetTop;}
     });
    });
   </script>
