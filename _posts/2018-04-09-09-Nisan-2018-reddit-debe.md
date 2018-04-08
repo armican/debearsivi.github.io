@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lfpGla_kfmzUh1qmAAdSpK6NDYwxmW7yBqnXFahodjI.gif?fm=jpg&s=39a8e516895f869f6085ab2dbeafe6e8 frameborder=0>
 - entry_name: |
-    Popcorn for everyone
-  entry_id: 8akl6g
-  entry_content: |
-    <img src=https://i.redditmedia.com/9b1GDH9W6OacdjYVQYE6RQY90uYfPrW-JjyZjG6ZedM.gif?fm=jpg&s=6b88dc02cd5568836cdf989e2a82f74e frameborder=0>
-- entry_name: |
     Hide your girl. The 90’s were such a colourful decade.
   entry_id: 8am9wt
   entry_content: |
@@ -163,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rUqR_cBz2TUlKW-IHIZlN1DKrf-3ZJ4WWmILDkndNFQ.jpg?s=1c402b0f0a120817fcda1a37f180afbb frameborder=0>
 - entry_name: |
-    He is his own right hand man
-  entry_id: 8akkzu
-  entry_content: |
-    <img src=https://i.redditmedia.com/wyXIIjs8Ow-isU0CU7jJPkJWQOLN-ip1wPiceuYlxZc.jpg?s=d82752ab9be6cc6fa207033cd36072e8 frameborder=0>
-- entry_name: |
     Apotheosis of S. Ignatius. a 300 year old fresco by andrea pozzo. the ceiling is flat.
   entry_id: 8aksev
   entry_content: |
@@ -187,11 +177,6 @@ data:
   entry_id: 8aqb2k
   entry_content: |
     <img src=https://i.redditmedia.com/-gfY3S-eLbyOOYaEcxlimmo6zF9iTsZFlf3YHWdz2h4.jpg?s=520c860020ca24c20f5bdcb2662cb95b frameborder=0>
-- entry_name: |
-    A computer program that starts working only after you open the task manager is the equivalent of an employee only doing his job when his boss is around.
-  entry_id: 8ako4r
-  entry_content: |
-    null
 - entry_name: |
     This bathroom was built on top of a 15-story elevator shaft
   entry_id: 8anu9c
@@ -252,4 +237,19 @@ data:
   entry_id: 8amuhd
   entry_content: |
     <img src=https://i.redditmedia.com/bNGu-MVYLkP9MYRSQ6wQ6t-LQ5urmMjLElJHMB7Ky1U.jpg?s=4049d2167a56a86eae334703260b29a9 frameborder=0>
+- entry_name: |
+    You weren't planning on using that RAM, were you?
+  entry_id: 8anst8
+  entry_content: |
+    <img src=https://i.redditmedia.com/3bRYc3RQbSWxvGhs5GsrmH93e3Ge6IKfbYYw3UjtY8o.jpg?s=480410e4548a3a98316123a8343e517c frameborder=0>
+- entry_name: |
+    Hello 911? yes it’s me, the good drug dealer
+  entry_id: 8am2m0
+  entry_content: |
+    <img src=https://i.redditmedia.com/YYUcKVQBr1vn4HyVm81a3joM65cjITCUhrNV8H82tOs.jpg?s=44b69c0eecb7bf1e375ce3fe40d4f7bd frameborder=0>
+- entry_name: |
+    The flooring in the waiting area at this pizzeria is so worn you can see the old floor.
+  entry_id: 8andu9
+  entry_content: |
+    <img src=https://i.redditmedia.com/yKS_sgxUnOgiIjLzhk6AO3mglgYhoSTwI6i3bbRb7uw.jpg?s=cd3e25cbd59203e208538f263132cad6 frameborder=0>
 ---
