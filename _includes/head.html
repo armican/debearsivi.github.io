@@ -85,7 +85,7 @@
         } else if(idx > 49) {
           idx = 49;
         }
-        window.scrollTo(document.getElementsByClassName("entry_li card")[idx].offsetLeft, document.getElementsByClassName("entry_li card")[idx].offsetTop);
+        document.getElementsByClassName("entry_container")[idx].scrollIntoView(true);
     });
    });
   </script>
