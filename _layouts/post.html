@@ -10,7 +10,7 @@ layout: default
  <ul id="navigation" class="navbar navbar-light bg-light section-nav">
  {% for i in page.data %}
  <li class="toc-entry toc-h3 pb-3">
-  <a class="nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
+  <a class="disable-href nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
  </li>
  {% endfor %}
  </ul>
