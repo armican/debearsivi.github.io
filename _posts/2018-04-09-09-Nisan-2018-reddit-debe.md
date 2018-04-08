@@ -33,6 +33,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/uj70u7cfllq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Baby Scooby Doo
+  entry_id: 8aqh2d
+  entry_content: |
+    <img src=https://i.redditmedia.com/-gjXtYtlFh-znlnu2arxxqrfTRtojZ5mRngkdU3LGXM.jpg?s=81c8d7624f17600ccbf07b86fe577c2d frameborder=0>
+- entry_name: |
     Perfect Timing
   entry_id: 8al4wj
   entry_content: |
@@ -48,6 +53,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    Pikachu? I haven't heard that name in years.
+  entry_id: 8aq9t9
+  entry_content: |
+    <img src=https://i.redditmedia.com/RZVVTMTzh2X1Cl9xC7G1fL2o5vuUjRGbv-ClylR1PQE.jpg?s=82d501ff1893016e64b169d91de5445b frameborder=0>
+- entry_name: |
     Everyone should have a desk buddy
   entry_id: 8akxa3
   entry_content: |
@@ -58,20 +68,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/r0QHgMo1jt7JFDA-ybEQucjD-KLbminHHJphwyDO8gM.png?s=168723b31567a57a2e2ead13560901ec frameborder=0>
 - entry_name: |
-    65 foot tall Lava Bubble in Hawaii 50 years ago
-  entry_id: 8akpvs
+    I decided to hop on my horse in my Arya cosplay for fun. No photographers to credit as I snapped this myself with a remote. Enjoy x
+  entry_id: 8aqk7b
   entry_content: |
-    <img src=https://i.redditmedia.com/giwlyLQkxDSgNSDOrED5-P0_0h1d_jz3pL-nkGFjcgU.png?s=fb53aac41bb4c24d9179ffe5ec282e2c frameborder=0>
-- entry_name: |
-    A picture I took of craters on the moon with a $150 camera
-  entry_id: 8am8k4
-  entry_content: |
-    <img src=https://i.redditmedia.com/k_zaakoQ_ivYwun9FZs6ADA_XhgcbvYGZ-VgiytkGRU.png?s=462952cec6e1fa7869f59407c6591b75 frameborder=0>
+    <img src=https://i.redditmedia.com/12f3fOT3CDiFYQLLskwjtQDo4TMqvVsbhjuWP2Bjmvw.jpg?s=03389b08ca6a68e5930d0d7739de8ec8 frameborder=0>
 - entry_name: |
     JEEZ, spidey...
   entry_id: 8anxa2
   entry_content: |
     <img src=https://i.redditmedia.com/hwNwSmAuvDBQ7uH70Mo7xlYv7nbd6MwAIZ9L9hum378.gif?fm=jpg&s=489e3fac934115c697720f63b590121b frameborder=0>
+- entry_name: |
+    A picture I took of craters on the moon with a $150 camera
+  entry_id: 8am8k4
+  entry_content: |
+    <img src=https://i.redditmedia.com/k_zaakoQ_ivYwun9FZs6ADA_XhgcbvYGZ-VgiytkGRU.png?s=462952cec6e1fa7869f59407c6591b75 frameborder=0>
 - entry_name: |
     On my way to steal yo holy land
   entry_id: 8amyub
@@ -88,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kyf6e1B7ZM3-fdyBvzBSobAMAsHekazJXX8wUkXRjzs.jpg?s=e6586735bb3f4b1c43b71d95effef4ff frameborder=0>
 - entry_name: |
-    Pikachu? I haven't heard that name in years.
-  entry_id: 8aq9t9
-  entry_content: |
-    <img src=https://i.redditmedia.com/RZVVTMTzh2X1Cl9xC7G1fL2o5vuUjRGbv-ClylR1PQE.jpg?s=82d501ff1893016e64b169d91de5445b frameborder=0>
-- entry_name: |
     Fatality
   entry_id: 8ame2r
   entry_content: |
@@ -108,10 +113,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y-GnTWaoCYB8F0-7i_2dsAkXvyQzpCacz5L41QnOGR8.jpg?s=4399755d00161ad2b367b8bd6a27ff3f frameborder=0>
 - entry_name: |
-    Baby Scooby Doo
-  entry_id: 8aqh2d
+    Dr. Help a fren
+  entry_id: 8aqb2k
   entry_content: |
-    <img src=https://i.redditmedia.com/-gjXtYtlFh-znlnu2arxxqrfTRtojZ5mRngkdU3LGXM.jpg?s=81c8d7624f17600ccbf07b86fe577c2d frameborder=0>
+    <img src=https://i.redditmedia.com/-gfY3S-eLbyOOYaEcxlimmo6zF9iTsZFlf3YHWdz2h4.jpg?s=520c860020ca24c20f5bdcb2662cb95b frameborder=0>
 - entry_name: |
     When you think criminal names aren't obvious enough.....
   entry_id: 8an3r3
@@ -138,6 +143,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fESUBpgjxCE-iMpLX1oMyKJUv0lii4YQ0UY6BNRpHJ0.jpg?s=7c93a2e46ea8735443b067f0e19cee1c frameborder=0>
 - entry_name: |
+    Jamaïcain Style, 1974.
+  entry_id: 8apvnz
+  entry_content: |
+    <img src=https://i.redditmedia.com/NH88Xj4NKv5mQJHiWP1Q8AM0IcZ0ZchmzhfKVPNHPMg.jpg?s=44cf4e45e6eb5318f8d98b118250ba93 frameborder=0>
+- entry_name: |
     I’m too weak
   entry_id: 8amroe
   entry_content: |
@@ -153,63 +163,18 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The guy my math teacher was talking about
-  entry_id: 8anw8c
-  entry_content: |
-    <img src=https://i.redditmedia.com/rUqR_cBz2TUlKW-IHIZlN1DKrf-3ZJ4WWmILDkndNFQ.jpg?s=1c402b0f0a120817fcda1a37f180afbb frameborder=0>
-- entry_name: |
-    Apotheosis of S. Ignatius. a 300 year old fresco by andrea pozzo. the ceiling is flat.
-  entry_id: 8aksev
-  entry_content: |
-    <img src=https://i.redditmedia.com/aZeb5m1rkWGIy01Ni8Tu_9yx6jmcsppDyZfp5mqAcsw.jpg?s=88b2a80668f78d7eb1e19adfd02d5e87 frameborder=0>
-- entry_name: |
-    Jamaïcain Style, 1974.
-  entry_id: 8apvnz
-  entry_content: |
-    <img src=https://i.redditmedia.com/NH88Xj4NKv5mQJHiWP1Q8AM0IcZ0ZchmzhfKVPNHPMg.jpg?s=44cf4e45e6eb5318f8d98b118250ba93 frameborder=0>
-- entry_name: |
-    The original male living space we all wanted.
-  entry_id: 8akv6v
-  entry_content: |
-    <img src=https://i.redditmedia.com/w6HTJB3fTYVBklAsCXGM1r_KNxjXujp_-cqu7m6cbiI.jpg?s=93ce4bca0e6df79bea86e9975fd7f28c frameborder=0>
-- entry_name: |
-    Dr. Help a fren
-  entry_id: 8aqb2k
-  entry_content: |
-    <img src=https://i.redditmedia.com/-gfY3S-eLbyOOYaEcxlimmo6zF9iTsZFlf3YHWdz2h4.jpg?s=520c860020ca24c20f5bdcb2662cb95b frameborder=0>
-- entry_name: |
-    This bathroom was built on top of a 15-story elevator shaft
-  entry_id: 8anu9c
-  entry_content: |
-    <img src=https://i.redditmedia.com/owvqt1W2bP582sJ-0Hq8qNXzpbUBOq6djIFouAqDecU.jpg?s=aa01ccfdf48c588fc7bda39621fa4b49 frameborder=0>
-- entry_name: |
     Can she even see them from there?
   entry_id: 8aphs0
   entry_content: |
     <iframe src=https://v.redd.it/ubsid954coq01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I decided to hop on my horse in my Arya cosplay for fun. No photographers to credit as I snapped this myself with a remote. Enjoy x
-  entry_id: 8aqk7b
+    The guy my math teacher was talking about
+  entry_id: 8anw8c
   entry_content: |
-    <img src=https://i.redditmedia.com/12f3fOT3CDiFYQLLskwjtQDo4TMqvVsbhjuWP2Bjmvw.jpg?s=03389b08ca6a68e5930d0d7739de8ec8 frameborder=0>
+    <img src=https://i.redditmedia.com/rUqR_cBz2TUlKW-IHIZlN1DKrf-3ZJ4WWmILDkndNFQ.jpg?s=1c402b0f0a120817fcda1a37f180afbb frameborder=0>
 - entry_name: |
     Trump fought legislation requiring sprinklers in NYC buildings
   entry_id: 8aphc3
-  entry_content: |
-    null
-- entry_name: |
-    MRW I'm doing 60mph down the highway and my phone says it is connected to WIFI
-  entry_id: 8amas4
-  entry_content: |
-    <img src=https://i.redditmedia.com/1RJRIZutcNsw61O7Ftlw_pNUx6f-R6tafaS1N3Y2Eqc.gif?fm=jpg&s=8ea956e32ab2e6f890eb871bf0a2806d frameborder=0>
-- entry_name: |
-    My hobbies are breathing air and drinking water
-  entry_id: 8amokk
-  entry_content: |
-    <img src=https://i.redditmedia.com/hrL17LLpce2c_JpQ44FduH_X2uLM90PRMa0x4sF4yuk.jpg?s=a3fd22de248b0f7cfc9ed8534341785b frameborder=0>
-- entry_name: |
-    UK foreign secretary Boris Johnson involved in £160,000 gift of Russian money to Conservative party
-  entry_id: 8ap6pq
   entry_content: |
     null
 - entry_name: |
@@ -218,38 +183,73 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yQueDmck6MzJkzH4CoHrZhKsIeTCDHzOYQf0_8EC5JI.jpg?s=b74c586e9f432fa840a31d05637afe3d frameborder=0>
 - entry_name: |
-    Biden and Obama in retirement
-  entry_id: 8ap4ez
+    This bathroom was built on top of a 15-story elevator shaft
+  entry_id: 8anu9c
   entry_content: |
-    <iframe src=https://v.redd.it/7l6ubxhjunq01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/owvqt1W2bP582sJ-0Hq8qNXzpbUBOq6djIFouAqDecU.jpg?s=aa01ccfdf48c588fc7bda39621fa4b49 frameborder=0>
+- entry_name: |
+    The original male living space we all wanted.
+  entry_id: 8akv6v
+  entry_content: |
+    <img src=https://i.redditmedia.com/w6HTJB3fTYVBklAsCXGM1r_KNxjXujp_-cqu7m6cbiI.jpg?s=93ce4bca0e6df79bea86e9975fd7f28c frameborder=0>
 - entry_name: |
     2meirl4meirl
   entry_id: 8apb3q
   entry_content: |
     <img src=https://i.redditmedia.com/rHUlxEA6AGblMJfe6wDQK5ovN1NUKVETZVsVCvUodtE.jpg?s=8a6fb8d288437351c0363568045e95a8 frameborder=0>
 - entry_name: |
+    UK foreign secretary Boris Johnson involved in £160,000 gift of Russian money to Conservative party
+  entry_id: 8ap6pq
+  entry_content: |
+    null
+- entry_name: |
+    MRW I'm doing 60mph down the highway and my phone says it is connected to WIFI
+  entry_id: 8amas4
+  entry_content: |
+    <img src=https://i.redditmedia.com/1RJRIZutcNsw61O7Ftlw_pNUx6f-R6tafaS1N3Y2Eqc.gif?fm=jpg&s=8ea956e32ab2e6f890eb871bf0a2806d frameborder=0>
+- entry_name: |
+    Biden and Obama in retirement
+  entry_id: 8ap4ez
+  entry_content: |
+    <iframe src=https://v.redd.it/7l6ubxhjunq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My hobbies are breathing air and drinking water
+  entry_id: 8amokk
+  entry_content: |
+    <img src=https://i.redditmedia.com/hrL17LLpce2c_JpQ44FduH_X2uLM90PRMa0x4sF4yuk.jpg?s=a3fd22de248b0f7cfc9ed8534341785b frameborder=0>
+- entry_name: |
+    Remember Macklemore? This is him now.. Feel old yet?
+  entry_id: 8apwlo
+  entry_content: |
+    <img src=https://i.redditmedia.com/osAzXeyWMTEh9VQree8aeAgtEL6HdNx-_1K2HOiMFVs.png?s=2bb20a52daa3467372a313d9df87ec5d frameborder=0>
+- entry_name: |
     America’s First Lady, Melania Trump, 2001
   entry_id: 8ap49k
   entry_content: |
     <img src=https://i.redditmedia.com/yYBtFyPfd_nQXLK6Fk5AGH-bB3r-EQc9otsLvOQvqr4.jpg?s=a91e4bdb08eba6b96ecaa8e4bf665e81 frameborder=0>
 - entry_name: |
-    Don't pick up the phone... Im online!!!
-  entry_id: 8amuhd
+    40k will not be enough to break the lines of /r/all
+  entry_id: 8ap5ln
   entry_content: |
-    <img src=https://i.redditmedia.com/bNGu-MVYLkP9MYRSQ6wQ6t-LQ5urmMjLElJHMB7Ky1U.jpg?s=4049d2167a56a86eae334703260b29a9 frameborder=0>
+    <iframe src=https://v.redd.it/6rx5z939vnq01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     You weren't planning on using that RAM, were you?
   entry_id: 8anst8
   entry_content: |
     <img src=https://i.redditmedia.com/3bRYc3RQbSWxvGhs5GsrmH93e3Ge6IKfbYYw3UjtY8o.jpg?s=480410e4548a3a98316123a8343e517c frameborder=0>
 - entry_name: |
-    Hello 911? yes it’s me, the good drug dealer
-  entry_id: 8am2m0
+    Don't pick up the phone... Im online!!!
+  entry_id: 8amuhd
   entry_content: |
-    <img src=https://i.redditmedia.com/YYUcKVQBr1vn4HyVm81a3joM65cjITCUhrNV8H82tOs.jpg?s=44b69c0eecb7bf1e375ce3fe40d4f7bd frameborder=0>
+    <img src=https://i.redditmedia.com/bNGu-MVYLkP9MYRSQ6wQ6t-LQ5urmMjLElJHMB7Ky1U.jpg?s=4049d2167a56a86eae334703260b29a9 frameborder=0>
 - entry_name: |
-    The flooring in the waiting area at this pizzeria is so worn you can see the old floor.
-  entry_id: 8andu9
+    hmmm
+  entry_id: 8apft9
   entry_content: |
-    <img src=https://i.redditmedia.com/yKS_sgxUnOgiIjLzhk6AO3mglgYhoSTwI6i3bbRb7uw.jpg?s=cd3e25cbd59203e208538f263132cad6 frameborder=0>
+    <img src=https://i.redditmedia.com/j_rHSpzGEAbvFM1zFZCGHIibEUUJ7NT8X9CE8RA3Qyo.jpg?s=8ab8b18c9fccccabb779c18f43c81ded frameborder=0>
+- entry_name: |
+    China has started ranking citizens with a creepy 'social credit' system — here's what you can do wrong, and the embarrassing, demeaning ways they can punish you: The program is due to be fully operational by 2020, but is being piloted for millions of people already. The scheme is mandatory.
+  entry_id: 8ap0qb
+  entry_content: |
+    null
 ---
