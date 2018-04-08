@@ -108,11 +108,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CbxO0qtpVzwjhBs5fFez7vANy0DTN484G4gfX7lmv8U.jpg?s=bf801ccb7790c8460442a323197fcc23 frameborder=0>
 - entry_name: |
-    This sign has the notice in both English and dog
-  entry_id: 8ajnmu
-  entry_content: |
-    <img src=https://i.redditmedia.com/DWkuwpJdTbuX123r0R3DGLvpphIYHw1lupDQGV8R99g.jpg?s=9899fd8cb470e8844f6a8b46bf76e2e3 frameborder=0>
-- entry_name: |
     My dog likes to hug my arm as I pet him
   entry_id: 8aoaln
   entry_content: |
@@ -177,11 +172,6 @@ data:
   entry_id: 8aksev
   entry_content: |
     <img src=https://i.redditmedia.com/aZeb5m1rkWGIy01Ni8Tu_9yx6jmcsppDyZfp5mqAcsw.jpg?s=88b2a80668f78d7eb1e19adfd02d5e87 frameborder=0>
-- entry_name: |
-    These crappy ripoffs of netflix, twitch and spotify
-  entry_id: 8ajlgy
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ce42AONAp4sCY9sWd5kaIWHO6qhMd6mE6fcdCNOs5ec.png?s=30fe4bf5803dc3d416165f2639c385c7 frameborder=0>
 - entry_name: |
     The original male living space we all wanted.
   entry_id: 8akv6v
@@ -252,4 +242,14 @@ data:
   entry_id: 8andu9
   entry_content: |
     <img src=https://i.redditmedia.com/yKS_sgxUnOgiIjLzhk6AO3mglgYhoSTwI6i3bbRb7uw.jpg?s=cd3e25cbd59203e208538f263132cad6 frameborder=0>
+- entry_name: |
+    Donald Trump was visiting a primary school and he visited one of the classes. They were in the middle of a discussion related to words and their meanings.
+  entry_id: 8an75s
+  entry_content: |
+    null
+- entry_name: |
+    Any Brooklyn99 fans in this sub? This made my day.
+  entry_id: 8akbcj
+  entry_content: |
+    <iframe src=https://v.redd.it/y5dbf2xtcjq01/DASH_2_4_M frameborder=0></iframe>
 ---
