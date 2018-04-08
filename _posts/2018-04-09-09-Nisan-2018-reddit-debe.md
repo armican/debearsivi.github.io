@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ELxUunX60rC9SaUC8nC-vHpcumhKjijwFRgQeJzk0bo.jpg?s=5fe553b71308f23782bf31f2aa6c7298 frameborder=0>
 - entry_name: |
-    So my daughter did this to her shower. She's sort of into chemistry.
-  entry_id: 8ak8nx
-  entry_content: |
-    <img src=https://i.redditmedia.com/m2XkgmqNXOpuObHqtnTjKSzVrpaZX9qGZOidInqlouA.jpg?s=ab3bd14d6f086d5595563b925214deb4 frameborder=0>
-- entry_name: |
     Perfect Timing
   entry_id: 8al4wj
   entry_content: |
@@ -67,11 +62,6 @@ data:
   entry_id: 8al13m
   entry_content: |
     <img src=https://i.redditmedia.com/r0QHgMo1jt7JFDA-ybEQucjD-KLbminHHJphwyDO8gM.png?s=168723b31567a57a2e2ead13560901ec frameborder=0>
-- entry_name: |
-    I should have not made this (bargain)
-  entry_id: 8ak8iq
-  entry_content: |
-    <img src=https://i.redditmedia.com/JMoGiGTZ6cIaxse0qUvxtZTWVfmnIvf9k8O1cFG9bkU.png?s=830cd3fb2bc8e86677ddae340f7ea3df frameborder=0>
 - entry_name: |
     65 foot tall Lava Bubble in Hawaii 50 years ago
   entry_id: 8akpvs
@@ -252,4 +242,14 @@ data:
   entry_id: 8akx81
   entry_content: |
     null
+- entry_name: |
+    Jamaïcain Style, 1974.
+  entry_id: 8apvnz
+  entry_content: |
+    <img src=https://i.redditmedia.com/NH88Xj4NKv5mQJHiWP1Q8AM0IcZ0ZchmzhfKVPNHPMg.jpg?s=44cf4e45e6eb5318f8d98b118250ba93 frameborder=0>
+- entry_name: |
+    Disgustingly satisfying dough
+  entry_id: 8akrob
+  entry_content: |
+    <iframe src=https://v.redd.it/pijlv2h1pjq01/DASH_4_8_M frameborder=0></iframe>
 ---
