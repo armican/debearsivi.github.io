@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RZVVTMTzh2X1Cl9xC7G1fL2o5vuUjRGbv-ClylR1PQE.jpg?s=82d501ff1893016e64b169d91de5445b frameborder=0>
 - entry_name: |
-    Everyone should have a desk buddy
-  entry_id: 8akxa3
-  entry_content: |
-    <img src=https://i.redditmedia.com/1AtZH723uM4RtUOjzzPyxiipaI_coxE9_1Z7NNBC8ZA.jpg?s=62777b558c2ab12ac19169665b31b8cf frameborder=0>
-- entry_name: |
     meirl
   entry_id: 8al13m
   entry_content: |
@@ -188,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/owvqt1W2bP582sJ-0Hq8qNXzpbUBOq6djIFouAqDecU.jpg?s=aa01ccfdf48c588fc7bda39621fa4b49 frameborder=0>
 - entry_name: |
-    The original male living space we all wanted.
-  entry_id: 8akv6v
-  entry_content: |
-    <img src=https://i.redditmedia.com/w6HTJB3fTYVBklAsCXGM1r_KNxjXujp_-cqu7m6cbiI.jpg?s=93ce4bca0e6df79bea86e9975fd7f28c frameborder=0>
-- entry_name: |
     2meirl4meirl
   entry_id: 8apb3q
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8ap0qb
   entry_content: |
     null
+- entry_name: |
+    The flooring in the waiting area at this pizzeria is so worn you can see the old floor.
+  entry_id: 8andu9
+  entry_content: |
+    <img src=https://i.redditmedia.com/yKS_sgxUnOgiIjLzhk6AO3mglgYhoSTwI6i3bbRb7uw.jpg?s=cd3e25cbd59203e208538f263132cad6 frameborder=0>
+- entry_name: |
+    Hello 911? yes it’s me, the good drug dealer
+  entry_id: 8am2m0
+  entry_content: |
+    <img src=https://i.redditmedia.com/YYUcKVQBr1vn4HyVm81a3joM65cjITCUhrNV8H82tOs.jpg?s=44b69c0eecb7bf1e375ce3fe40d4f7bd frameborder=0>
 ---
