@@ -28,15 +28,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Xw3GNzjLYPXdXeB2Hpipt9dKHCyep5I0g8t1UC108y4.jpg?s=850c07f729c69a82d499557181ebde60 frameborder=0>
 - entry_name: |
-    Water turning into ice – Molecular Simulation
-  entry_id: 8an6wi
-  entry_content: |
-    <iframe src=https://v.redd.it/uj70u7cfllq01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     My most recent painting
   entry_id: 8apjfm
   entry_content: |
     <img src=https://i.redditmedia.com/ELxUunX60rC9SaUC8nC-vHpcumhKjijwFRgQeJzk0bo.jpg?s=5fe553b71308f23782bf31f2aa6c7298 frameborder=0>
+- entry_name: |
+    Water turning into ice – Molecular Simulation
+  entry_id: 8an6wi
+  entry_content: |
+    <iframe src=https://v.redd.it/uj70u7cfllq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Perfect Timing
   entry_id: 8al4wj
@@ -78,50 +78,65 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hwNwSmAuvDBQ7uH70Mo7xlYv7nbd6MwAIZ9L9hum378.gif?fm=jpg&s=489e3fac934115c697720f63b590121b frameborder=0>
 - entry_name: |
-    Amanda?
-  entry_id: 8anpxa
-  entry_content: |
-    <img src=https://i.redditmedia.com/CbxO0qtpVzwjhBs5fFez7vANy0DTN484G4gfX7lmv8U.jpg?s=bf801ccb7790c8460442a323197fcc23 frameborder=0>
-- entry_name: |
     On my way to steal yo holy land
   entry_id: 8amyub
   entry_content: |
     <img src=https://i.redditmedia.com/XFos_VWMb619bmb5_nYYHit0zgO0wkcTUvUAfiz7atA.jpg?s=9fcc0b5475174c93b5005b1e0ee5ef0a frameborder=0>
+- entry_name: |
+    Amanda?
+  entry_id: 8anpxa
+  entry_content: |
+    <img src=https://i.redditmedia.com/CbxO0qtpVzwjhBs5fFez7vANy0DTN484G4gfX7lmv8U.jpg?s=bf801ccb7790c8460442a323197fcc23 frameborder=0>
 - entry_name: |
     My dog likes to hug my arm as I pet him
   entry_id: 8aoaln
   entry_content: |
     <img src=https://i.redditmedia.com/kyf6e1B7ZM3-fdyBvzBSobAMAsHekazJXX8wUkXRjzs.jpg?s=e6586735bb3f4b1c43b71d95effef4ff frameborder=0>
 - entry_name: |
-    TIL that a single Wolverine crossed the ice of Lake Huron into Michigan, where it lived out its days as the only one in the entire state. A local science teacher followed and studied her closely for years until her death. Upon finding her dead he said, I feel like I lost a member of my family.
-  entry_id: 8am4ii
+    Pikachu? I haven't heard that name in years.
+  entry_id: 8aq9t9
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/RZVVTMTzh2X1Cl9xC7G1fL2o5vuUjRGbv-ClylR1PQE.jpg?s=82d501ff1893016e64b169d91de5445b frameborder=0>
 - entry_name: |
     Fatality
   entry_id: 8ame2r
   entry_content: |
     <img src=https://i.redditmedia.com/_xWmslu7bkw5PDtsJJzKDyEIZQmak6NRBLAoHnqvNz4.png?s=cb96c1e65b64458097c6f794e71a28a3 frameborder=0>
 - entry_name: |
+    TIL that a single Wolverine crossed the ice of Lake Huron into Michigan, where it lived out its days as the only one in the entire state. A local science teacher followed and studied her closely for years until her death. Upon finding her dead he said, I feel like I lost a member of my family.
+  entry_id: 8am4ii
+  entry_content: |
+    null
+- entry_name: |
     Evolution of the English Alphabet
   entry_id: 8am0si
   entry_content: |
     <img src=https://i.redditmedia.com/y-GnTWaoCYB8F0-7i_2dsAkXvyQzpCacz5L41QnOGR8.jpg?s=4399755d00161ad2b367b8bd6a27ff3f frameborder=0>
 - entry_name: |
-    If you have a Wikipedia page, you've either succeeded in life, or colossally fucked up.
-  entry_id: 8al00r
+    Baby Scooby Doo
+  entry_id: 8aqh2d
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/-gjXtYtlFh-znlnu2arxxqrfTRtojZ5mRngkdU3LGXM.jpg?s=81c8d7624f17600ccbf07b86fe577c2d frameborder=0>
 - entry_name: |
     When you think criminal names aren't obvious enough.....
   entry_id: 8an3r3
   entry_content: |
     <img src=https://i.redditmedia.com/DIV3TSYnjHB860X1Or06cFPuQD8t9ZAL0nxcGjZcxlc.jpg?s=c7f4db557bff736bd9949ba4cc733368 frameborder=0>
 - entry_name: |
+    If you have a Wikipedia page, you've either succeeded in life, or colossally fucked up.
+  entry_id: 8al00r
+  entry_content: |
+    null
+- entry_name: |
     Mitch
   entry_id: 8amvb8
   entry_content: |
     <img src=https://i.redditmedia.com/wbjmttbEuZSMvd_sM4d3b3QVP3BxzKlB_UX3RYpbhjM.jpg?s=cd2b255383373cfb9b9907c833963a7f frameborder=0>
+- entry_name: |
+    Perfectly Arranged Tiles
+  entry_id: 8ankge
+  entry_content: |
+    <img src=https://i.redditmedia.com/qRPrINju8AY5rH-HLQTFT7MFmzXKyUdBPei8E-6m5_w.jpg?s=57399a537cb4fa0ad8e11abf89530805 frameborder=0>
 - entry_name: |
     This escape game company allows people pin where they are from.
   entry_id: 8alaux
@@ -133,25 +148,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mM64j-ztb8_y2_Rvy5iaFjjMWPKkh08o-j2hOInpJYA.jpg?s=2a015e59f9aff2954b1275f89dfc6c29 frameborder=0>
 - entry_name: |
-    Perfectly Arranged Tiles
-  entry_id: 8ankge
-  entry_content: |
-    <img src=https://i.redditmedia.com/qRPrINju8AY5rH-HLQTFT7MFmzXKyUdBPei8E-6m5_w.jpg?s=57399a537cb4fa0ad8e11abf89530805 frameborder=0>
-- entry_name: |
     Look at how happy this little old man is holding his Kitten on the bus. All the feels!
   entry_id: 8aoyu0
   entry_content: |
     <img src=https://i.redditmedia.com/Fyvw4PWiexq8nracX3H8nnLeDsRK003K5dMCUAFym78.jpg?s=52e546f27a5d5b723e496a3e72ef51e4 frameborder=0>
-- entry_name: |
-    He is his own right hand man
-  entry_id: 8akkzu
-  entry_content: |
-    <img src=https://i.redditmedia.com/wyXIIjs8Ow-isU0CU7jJPkJWQOLN-ip1wPiceuYlxZc.jpg?s=d82752ab9be6cc6fa207033cd36072e8 frameborder=0>
-- entry_name: |
-    Apotheosis of S. Ignatius. a 300 year old fresco by andrea pozzo. the ceiling is flat.
-  entry_id: 8aksev
-  entry_content: |
-    <img src=https://i.redditmedia.com/aZeb5m1rkWGIy01Ni8Tu_9yx6jmcsppDyZfp5mqAcsw.jpg?s=88b2a80668f78d7eb1e19adfd02d5e87 frameborder=0>
 - entry_name: |
     China has started ranking citizens with a creepy 'social credit' system - here's what you can do wrong, and the embarrassing, demeaning ways they can punish you
   entry_id: 8aovfb
@@ -163,33 +163,33 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rUqR_cBz2TUlKW-IHIZlN1DKrf-3ZJ4WWmILDkndNFQ.jpg?s=1c402b0f0a120817fcda1a37f180afbb frameborder=0>
 - entry_name: |
+    He is his own right hand man
+  entry_id: 8akkzu
+  entry_content: |
+    <img src=https://i.redditmedia.com/wyXIIjs8Ow-isU0CU7jJPkJWQOLN-ip1wPiceuYlxZc.jpg?s=d82752ab9be6cc6fa207033cd36072e8 frameborder=0>
+- entry_name: |
+    Apotheosis of S. Ignatius. a 300 year old fresco by andrea pozzo. the ceiling is flat.
+  entry_id: 8aksev
+  entry_content: |
+    <img src=https://i.redditmedia.com/aZeb5m1rkWGIy01Ni8Tu_9yx6jmcsppDyZfp5mqAcsw.jpg?s=88b2a80668f78d7eb1e19adfd02d5e87 frameborder=0>
+- entry_name: |
+    Jamaïcain Style, 1974.
+  entry_id: 8apvnz
+  entry_content: |
+    <img src=https://i.redditmedia.com/NH88Xj4NKv5mQJHiWP1Q8AM0IcZ0ZchmzhfKVPNHPMg.jpg?s=44cf4e45e6eb5318f8d98b118250ba93 frameborder=0>
+- entry_name: |
     The original male living space we all wanted.
   entry_id: 8akv6v
   entry_content: |
     <img src=https://i.redditmedia.com/w6HTJB3fTYVBklAsCXGM1r_KNxjXujp_-cqu7m6cbiI.jpg?s=93ce4bca0e6df79bea86e9975fd7f28c frameborder=0>
 - entry_name: |
-    Pikachu? I haven't heard that name in years.
-  entry_id: 8aq9t9
+    Dr. Help a fren
+  entry_id: 8aqb2k
   entry_content: |
-    <img src=https://i.redditmedia.com/RZVVTMTzh2X1Cl9xC7G1fL2o5vuUjRGbv-ClylR1PQE.jpg?s=82d501ff1893016e64b169d91de5445b frameborder=0>
+    <img src=https://i.redditmedia.com/-gfY3S-eLbyOOYaEcxlimmo6zF9iTsZFlf3YHWdz2h4.jpg?s=520c860020ca24c20f5bdcb2662cb95b frameborder=0>
 - entry_name: |
     A computer program that starts working only after you open the task manager is the equivalent of an employee only doing his job when his boss is around.
   entry_id: 8ako4r
-  entry_content: |
-    null
-- entry_name: |
-    My hobbies are breathing air and drinking water
-  entry_id: 8amokk
-  entry_content: |
-    <img src=https://i.redditmedia.com/hrL17LLpce2c_JpQ44FduH_X2uLM90PRMa0x4sF4yuk.jpg?s=a3fd22de248b0f7cfc9ed8534341785b frameborder=0>
-- entry_name: |
-    MRW I'm doing 60mph down the highway and my phone says it is connected to WIFI
-  entry_id: 8amas4
-  entry_content: |
-    <img src=https://i.redditmedia.com/1RJRIZutcNsw61O7Ftlw_pNUx6f-R6tafaS1N3Y2Eqc.gif?fm=jpg&s=8ea956e32ab2e6f890eb871bf0a2806d frameborder=0>
-- entry_name: |
-    John Kelly blew up at Trump in Oval Office meeting, threatened to quit
-  entry_id: 8aka3x
   entry_content: |
     null
 - entry_name: |
@@ -198,58 +198,58 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/owvqt1W2bP582sJ-0Hq8qNXzpbUBOq6djIFouAqDecU.jpg?s=aa01ccfdf48c588fc7bda39621fa4b49 frameborder=0>
 - entry_name: |
+    Can she even see them from there?
+  entry_id: 8aphs0
+  entry_content: |
+    <iframe src=https://v.redd.it/ubsid954coq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I decided to hop on my horse in my Arya cosplay for fun. No photographers to credit as I snapped this myself with a remote. Enjoy x
+  entry_id: 8aqk7b
+  entry_content: |
+    <img src=https://i.redditmedia.com/12f3fOT3CDiFYQLLskwjtQDo4TMqvVsbhjuWP2Bjmvw.jpg?s=03389b08ca6a68e5930d0d7739de8ec8 frameborder=0>
+- entry_name: |
     Trump fought legislation requiring sprinklers in NYC buildings
   entry_id: 8aphc3
   entry_content: |
     null
 - entry_name: |
-    Can she even see them from there?
-  entry_id: 8aphs0
+    MRW I'm doing 60mph down the highway and my phone says it is connected to WIFI
+  entry_id: 8amas4
   entry_content: |
-    <iframe src=https://v.redd.it/ubsid954coq01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/1RJRIZutcNsw61O7Ftlw_pNUx6f-R6tafaS1N3Y2Eqc.gif?fm=jpg&s=8ea956e32ab2e6f890eb871bf0a2806d frameborder=0>
+- entry_name: |
+    My hobbies are breathing air and drinking water
+  entry_id: 8amokk
+  entry_content: |
+    <img src=https://i.redditmedia.com/hrL17LLpce2c_JpQ44FduH_X2uLM90PRMa0x4sF4yuk.jpg?s=a3fd22de248b0f7cfc9ed8534341785b frameborder=0>
 - entry_name: |
     UK foreign secretary Boris Johnson involved in £160,000 gift of Russian money to Conservative party
   entry_id: 8ap6pq
   entry_content: |
     null
 - entry_name: |
-    Biden and Obama in retirement
-  entry_id: 8ap4ez
-  entry_content: |
-    <iframe src=https://v.redd.it/7l6ubxhjunq01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Don't pick up the phone... Im online!!!
-  entry_id: 8amuhd
-  entry_content: |
-    <img src=https://i.redditmedia.com/bNGu-MVYLkP9MYRSQ6wQ6t-LQ5urmMjLElJHMB7Ky1U.jpg?s=4049d2167a56a86eae334703260b29a9 frameborder=0>
-- entry_name: |
     Ned likes crevices
   entry_id: 8aplid
   entry_content: |
     <img src=https://i.redditmedia.com/yQueDmck6MzJkzH4CoHrZhKsIeTCDHzOYQf0_8EC5JI.jpg?s=b74c586e9f432fa840a31d05637afe3d frameborder=0>
 - entry_name: |
-    Hello 911? yes it’s me, the good drug dealer
-  entry_id: 8am2m0
+    Biden and Obama in retirement
+  entry_id: 8ap4ez
   entry_content: |
-    <img src=https://i.redditmedia.com/YYUcKVQBr1vn4HyVm81a3joM65cjITCUhrNV8H82tOs.jpg?s=44b69c0eecb7bf1e375ce3fe40d4f7bd frameborder=0>
+    <iframe src=https://v.redd.it/7l6ubxhjunq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8apb3q
+  entry_content: |
+    <img src=https://i.redditmedia.com/rHUlxEA6AGblMJfe6wDQK5ovN1NUKVETZVsVCvUodtE.jpg?s=8a6fb8d288437351c0363568045e95a8 frameborder=0>
 - entry_name: |
     America’s First Lady, Melania Trump, 2001
   entry_id: 8ap49k
   entry_content: |
     <img src=https://i.redditmedia.com/yYBtFyPfd_nQXLK6Fk5AGH-bB3r-EQc9otsLvOQvqr4.jpg?s=a91e4bdb08eba6b96ecaa8e4bf665e81 frameborder=0>
 - entry_name: |
-    New stroke drug enhances brain's ability to rewire itself and promote recovery in the weeks and months after injury. In the study, mice and monkeys that suffered strokes regained more movement and dexterity when their rehabilitative regimen included the experimental medication.
-  entry_id: 8akx81
+    Don't pick up the phone... Im online!!!
+  entry_id: 8amuhd
   entry_content: |
-    null
-- entry_name: |
-    Jamaïcain Style, 1974.
-  entry_id: 8apvnz
-  entry_content: |
-    <img src=https://i.redditmedia.com/NH88Xj4NKv5mQJHiWP1Q8AM0IcZ0ZchmzhfKVPNHPMg.jpg?s=44cf4e45e6eb5318f8d98b118250ba93 frameborder=0>
-- entry_name: |
-    Disgustingly satisfying dough
-  entry_id: 8akrob
-  entry_content: |
-    <iframe src=https://v.redd.it/pijlv2h1pjq01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/bNGu-MVYLkP9MYRSQ6wQ6t-LQ5urmMjLElJHMB7Ky1U.jpg?s=4049d2167a56a86eae334703260b29a9 frameborder=0>
 ---
