@@ -9,7 +9,7 @@ layout: default
 <div class="row d-none d-md-block col-12 col-md-3 col-xl-2 bd-sidebar">
  <ul id="navigation" class="navbar navbar-light bg-light section-nav">
  {% for i in page.data %}
- <li class="toc-entry toc-h3 pb-3">
+ <li class="toc-link toc-h3 pb-3">
   <a class="disable-href nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
  </li>
  {% endfor %}
