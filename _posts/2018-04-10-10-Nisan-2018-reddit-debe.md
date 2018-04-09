@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/qmbdm6hr1sq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    These two truly are the opposite of hate.
-  entry_id: 8ark3v
-  entry_content: |
-    <img src=https://i.redditmedia.com/Soegc56sbxnPo2KXhlG4xqjg0e8VGQrgw2ZMTLey2t4.jpg?s=b2f44b6e8183275bee4db434617015d6 frameborder=0>
-- entry_name: |
     Nescient isn't a word, mate. Just a lil tip for yah.
   entry_id: 8arvm3
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8asfw1
   entry_content: |
     <img src=https://i.redditmedia.com/iSlnEMA96WDE9eOVx1tLeVzHNJ3gKJFHFZFXQ_O6-H8.jpg?s=770b01870181b7011dfa85649f5e8494 frameborder=0>
+- entry_name: |
+    Every year my flaccid cactus erects itself.
+  entry_id: 8aul78
+  entry_content: |
+    <img src=https://i.redditmedia.com/pkoSzbhuaVGCpLFWktpgHSuSA84QpUCet_XXgYIsB6M.jpg?s=c64a8777df0cf3f4674b262272571b07 frameborder=0>
 ---
