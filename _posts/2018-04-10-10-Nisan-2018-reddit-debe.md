@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XHmgLOZrrbO4oaRoZtfcfwCHxFni2hH3onIlEapCmw4.jpg?s=c84a86daa6da878aa1159c608d4830d0 frameborder=0>
 - entry_name: |
-    Nescient isn't a word, mate. Just a lil tip for yah.
-  entry_id: 8arvm3
-  entry_content: |
-    <img src=https://i.redditmedia.com/vjv-VshBB3RlIIXu4WESyh6pdOc5pi4Nx_Hag0v6qfY.jpg?s=20a417adbbdf2355381749408e6269ea frameborder=0>
-- entry_name: |
     Deal with it
   entry_id: 8awyfs
   entry_content: |
@@ -93,20 +88,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/btAX8Bc1oPUkmRyt1Za_O9QylED3FjitAsCtDcUF6KU.jpg?s=0b36af60722506142392671d9cfc56a3 frameborder=0>
 - entry_name: |
-    Took my graduation pics at Waffle House and thought this would be a good place to post them
-  entry_id: 8arzyd
-  entry_content: |
-    <img src=https://i.redditmedia.com/FXjMW_GMGbVZLW7ixQ1Z5HA6BYYa2KuM8QFGRRBr8AM.jpg?s=e91e66d509c884f3bc90674ce29ef30a frameborder=0>
-- entry_name: |
     This little guy has a heart on his nose
   entry_id: 8avc40
   entry_content: |
     <img src=https://i.redditmedia.com/unNheSryWVzRi1ncdkkH9jnPA-IX6vxP3xOvDK3QXeo.jpg?s=b5a83542e28efc9123f9e580bc3e02c1 frameborder=0>
-- entry_name: |
-    At my local CVS, pushing this button announces over the PA system to the entire store A customer requires assistance in the family planning department. The shelves are only about 5 feet high, so almost everyone in the store can look over while you awkwardly wait for an employee to open the case.
-  entry_id: 8as040
-  entry_content: |
-    <img src=https://i.redditmedia.com/jpYOLwlfoQ1yTHuV2eYEXWFgFLzx5ktVWQlobzOKbYI.jpg?s=036e8f3e8cdd959d3254690dcc2f50d9 frameborder=0>
 - entry_name: |
     My favorite cosplay from PAX East
   entry_id: 8au1st
@@ -147,11 +132,6 @@ data:
   entry_id: 8at6o3
   entry_content: |
     <iframe src=https://v.redd.it/qxzsl8rt5rq01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Guy Climbs Out Of A Moving Truck Onto A Slide, Slides Down, Then Climbs Back Into The Drivers Seat
-  entry_id: 8arwpy
-  entry_content: |
-    <iframe src=https://v.redd.it/0p2b901qaqq01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Perspective
   entry_id: 8atuao
@@ -252,4 +232,24 @@ data:
   entry_id: 8avfam
   entry_content: |
     <iframe src=https://v.redd.it/r027kmwpwsq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL African Hunting Dogs 'vote' to decide whether to go on a hunt or not. The most important animals in the pack need only garner around 3 votes; the lesser dogs need about 10
+  entry_id: 8asud1
+  entry_content: |
+    <img src=https://i.redditmedia.com/1K4I0bjfphPukYaioYINcdjzpiy5kCSun3Hs2YIyTb4.jpg?s=efca3556cf7cf8db1fc13589bc5ccc99 frameborder=0>
+- entry_name: |
+    Crocheted Nightmare Baby
+  entry_id: 8au1rx
+  entry_content: |
+    <img src=https://i.redditmedia.com/vR1sD-ebRC7p_U8dVDvSbQg8r3LYujfQdbGvYWR6VrE.jpg?s=f7722490d6e4a01223a4987c3d8037fb frameborder=0>
+- entry_name: |
+    The disrespect is real...
+  entry_id: 8avanc
+  entry_content: |
+    <img src=https://i.redditmedia.com/do73PDGIJ57uluIXmCic6efWoiDh2eNeEjujOcYJofw.jpg?s=aa0c560b97b6b0ee0299307d4ce4a7df frameborder=0>
+- entry_name: |
+    A stag at the nearest cemetery
+  entry_id: 8as9tc
+  entry_content: |
+    <img src=https://i.redditmedia.com/E_ltWreACTdNNDHiFbRWmmUibiPpNOTX-9clPFDA5Uk.jpg?s=be7405fc05bbfdb517fbdb24185e8198 frameborder=0>
 ---
