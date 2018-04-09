@@ -218,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uFCzs8TqH_rMkP4SsMSnKW0TpkVI2xpVaOv9hgRhj-k.jpg?s=47b827f7c3b824fd62716144f33c6017 frameborder=0>
 - entry_name: |
-    North Korea ready to discuss denuclearization with US: report
-  entry_id: 8asfw1
-  entry_content: |
-    <img src=https://i.redditmedia.com/iSlnEMA96WDE9eOVx1tLeVzHNJ3gKJFHFZFXQ_O6-H8.jpg?s=770b01870181b7011dfa85649f5e8494 frameborder=0>
-- entry_name: |
     Intense focus for insane balancing skills
   entry_id: 8avfam
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8axw5j
   entry_content: |
     <img src=https://i.redditmedia.com/Uw84LQhTPTOx6XHiW5SCT9opboCmmBavGG1EfAifao4.jpg?s=2cafe0a8932170c748f6e786b0ea5e50 frameborder=0>
+- entry_name: |
+    The Witcher Triss Merigold Cosplay
+  entry_id: 8axmp5
+  entry_content: |
+    <img src=https://i.redditmedia.com/dfsrcNjpwwo1cP0j9QrCaqB44IQttWrtK9TdoByH2ks.jpg?s=e78514e258abb9b83bf95eeef8e9b165 frameborder=0>
 ---
