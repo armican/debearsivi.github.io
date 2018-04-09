@@ -163,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EAIumtPAhOKcl-IeQO_JLar8kflFxesXhjUIUG84ho0.jpg?s=07d0bcbb36b7dc57de214381a110ff7e frameborder=0>
 - entry_name: |
-    Wokenite
-  entry_id: 8as23f
-  entry_content: |
-    <img src=https://i.redditmedia.com/U5jB1qIvNNbCYkIPVkrTfnHD1FEsSBK_JgS8Ns61SUs.jpg?s=81db84be2e3f52ece29ec52df128085d frameborder=0>
-- entry_name: |
     TIL composer Earle Brown wrote a piece called “Twenty-Five Pages”, which consists of 25 un-numbered pages that can be played in any order, either side up, and each line read as treble or bass clef. It can be played by any number of pianos up to 25.
   entry_id: 8auwan
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8as9tc
   entry_content: |
     <img src=https://i.redditmedia.com/E_ltWreACTdNNDHiFbRWmmUibiPpNOTX-9clPFDA5Uk.jpg?s=be7405fc05bbfdb517fbdb24185e8198 frameborder=0>
+- entry_name: |
+    Hey man, I'm a big fan
+  entry_id: 8ay5sq
+  entry_content: |
+    <iframe src=https://v.redd.it/c457lh7rqvq01/DASH_600_K frameborder=0></iframe>
 ---
