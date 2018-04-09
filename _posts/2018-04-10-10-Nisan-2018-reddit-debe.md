@@ -173,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0J8SqNuBDTtT3YiQsJ1qUodODb1an2BckB0_zES8dmQ.jpg?s=58fa057ad42e167c7b77bca354810c82 frameborder=0>
 - entry_name: |
-    What’s a sign to you that someone was “raised right”?
-  entry_id: 8asvzl
-  entry_content: |
-    null
-- entry_name: |
     Elijah Wood and Macaulay Culkin in 1993
   entry_id: 8ay6qj
   entry_content: |
@@ -223,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kGLTkf7m2PpmBnpAfi-ANFrVz3rnDdkv1AVVgu17MS8.jpg?s=8f9fd631a530c4516734bb4a2acd6aa3 frameborder=0>
 - entry_name: |
-    TIL African Hunting Dogs 'vote' to decide whether to go on a hunt or not. The most important animals in the pack need only garner around 3 votes; the lesser dogs need about 10
-  entry_id: 8asud1
-  entry_content: |
-    <img src=https://i.redditmedia.com/1K4I0bjfphPukYaioYINcdjzpiy5kCSun3Hs2YIyTb4.jpg?s=efca3556cf7cf8db1fc13589bc5ccc99 frameborder=0>
-- entry_name: |
     Crocheted Nightmare Baby
   entry_id: 8au1rx
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8ayzh8
   entry_content: |
     <img src=https://i.redditmedia.com/yL1bPFgzA4Yq1c8W-OXBOXoolzJwmcZ4jE5R-A6sS1k.png?s=c69404e8d3c995086488e55509c38961 frameborder=0>
+- entry_name: |
+    he can steer. It's amazing
+  entry_id: 8axfqc
+  entry_content: |
+    <iframe src=https://v.redd.it/fybnpr802vq01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The Fresh Prince of Bel Air appreciation
+  entry_id: 8at90k
+  entry_content: |
+    <img src=https://i.redditmedia.com/lPSOdnFFFmfBxjlSjBHEsry8LPkCc6uBLcAi-vKuSpg.jpg?s=24327aa7cd424bda6b74618ae7213e8d frameborder=0>
 ---
