@@ -178,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/d2ZaGWPmMIxqsPO2SKurEgnPCxw7AwFn4iWZ4UlUrXY.jpg?s=6fe47da7cb4947bdd5edfd8e3d0230da frameborder=0>
 - entry_name: |
-    Our anniversary weekend room at a Bed & Breakfast in Bethlehem PA.
-  entry_id: 8asljj
-  entry_content: |
-    <img src=https://i.redditmedia.com/IHRf1hnAqkgqF8m3VGEzmSGi8nD66FFUUgqWcgf9s5Y.jpg?s=eb903deae054d2ad34cdba808c093e02 frameborder=0>
-- entry_name: |
     What’s a sign to you that someone was “raised right”?
   entry_id: 8asvzl
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8axmp5
   entry_content: |
     <img src=https://i.redditmedia.com/dfsrcNjpwwo1cP0j9QrCaqB44IQttWrtK9TdoByH2ks.jpg?s=e78514e258abb9b83bf95eeef8e9b165 frameborder=0>
+- entry_name: |
+    Elijah Wood and Macaulay Culkin in 1993
+  entry_id: 8ay6qj
+  entry_content: |
+    <img src=https://i.redditmedia.com/a1gw3LHVzcArhxe8r6XI0tqbn4tXCXZeLpRXBBg3HiQ.png?s=9471a0859e74b6fa614b3d6548196c21 frameborder=0>
 ---
