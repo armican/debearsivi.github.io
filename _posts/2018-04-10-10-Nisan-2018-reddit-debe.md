@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/l35wkmilhuq01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Guy cosplays a Monster Hunter character creation screen
-  entry_id: 8armq9
-  entry_content: |
-    <img src=https://i.redditmedia.com/6TiZerR6lMKgQPqhzR-tjFlTPjQhL1y11H6ayaTwegw.gif?fm=jpg&s=194634ef38549c364391f38d01eb01f6 frameborder=0>
-- entry_name: |
     I opened the rocket riding flood gates. Your move, gamer.
   entry_id: 8avh0p
   entry_content: |
@@ -93,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jXJv6FIDD8w8RNDNyRZEWKeu5j1f-5s8kNvZVD7g_x4.jpg?s=233c54ed8c99ca32b94df71a5e21e70f frameborder=0>
 - entry_name: |
-    legendary
-  entry_id: 8arogm
-  entry_content: |
-    <img src=https://i.redditmedia.com/N8kuP28hP6Xb2Gi_UlTWNw9XfqdG9z1v_oqoM77SyXE.jpg?s=89302f1156a2f9a59f68f366e173b2ab frameborder=0>
-- entry_name: |
     Took my graduation pics at Waffle House and thought this would be a good place to post them
   entry_id: 8arzyd
   entry_content: |
@@ -122,11 +112,6 @@ data:
   entry_id: 8asp5f
   entry_content: |
     <img src=https://i.redditmedia.com/g5rxa3nQhfXMKBy-93BkPt11PivPpI3zPji_jWSeZLo.jpg?s=fd1b7a37e14550deac216ba31368fa48 frameborder=0>
-- entry_name: |
-    Supermaneuverability
-  entry_id: 8arkr8
-  entry_content: |
-    <iframe src=https://v.redd.it/pcr7isniyvq01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     A new study conducted microbial surveys to investigate whether hand-dryers were sucking in potentially infectious microbes and then spraying them all over everything, as had been observed in earlier studies. They were.
   entry_id: 8auw7a
@@ -252,4 +237,19 @@ data:
   entry_id: 8aul78
   entry_content: |
     <img src=https://i.redditmedia.com/pkoSzbhuaVGCpLFWktpgHSuSA84QpUCet_XXgYIsB6M.jpg?s=c64a8777df0cf3f4674b262272571b07 frameborder=0>
+- entry_name: |
+    Deer lost its back legs in a trap and got away and continued living with just bone nubs...beast
+  entry_id: 8au1x9
+  entry_content: |
+    <img src=https://i.redditmedia.com/kGLTkf7m2PpmBnpAfi-ANFrVz3rnDdkv1AVVgu17MS8.jpg?s=8f9fd631a530c4516734bb4a2acd6aa3 frameborder=0>
+- entry_name: |
+    TIL African Hunting Dogs 'vote' to decide whether to go on a hunt or not. The most important animals in the pack need only garner around 3 votes; the lesser dogs need about 10
+  entry_id: 8asud1
+  entry_content: |
+    <img src=https://i.redditmedia.com/1K4I0bjfphPukYaioYINcdjzpiy5kCSun3Hs2YIyTb4.jpg?s=efca3556cf7cf8db1fc13589bc5ccc99 frameborder=0>
+- entry_name: |
+    Meal prepping is basically eating a week's worth of leftovers from a meal that never happened.
+  entry_id: 8arv83
+  entry_content: |
+    null
 ---
