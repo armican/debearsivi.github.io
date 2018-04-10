@@ -92,35 +92,30 @@ data:
   entry_content: |
     null
 - entry_name: |
-    James Hetfield of Metallica's newest guitar. It is made of reclaimed wood from the garage where the band wrote their second and third albums, Ride the Lightning and Master of Puppets.
-  entry_id: 8b059r
+    Iwata truly was an amazing man
+  entry_id: 8b6xy0
   entry_content: |
-    <img src=https://i.redditmedia.com/dt00hanCt_AXv-96h42nHjLKDAhTQEoSQSqK9KHHDPA.jpg?s=8dca4d176c8bdbe0b30bb91fe39c352b frameborder=0>
-- entry_name: |
-    This picture will fade away if you stare at it (may take a minute)
-  entry_id: 8b07g3
-  entry_content: |
-    <img src=https://i.redditmedia.com/rdKFXyvkV4x-QFuZ8KkrDHWeLvTZ9BWHiof8iE6Drho.jpg?s=4ac0ab398529a93b5d83b1e4c675c550 frameborder=0>
-- entry_name: |
-    clickbait
-  entry_id: 8b1ih6
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/f4FuOi9rvKw?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    2meirl4meirl
-  entry_id: 8b0b86
-  entry_content: |
-    <img src=https://i.redditmedia.com/VR0Jr6B5sRhIRenHDhsIvNcW0qXV4_QmVPF8JOsAodg.jpg?s=b07ba3a4a7241f31baece1242bece293 frameborder=0>
+    <img src=https://i.redditmedia.com/6IIQdgM0tmuV3CExoZB34GjL7lhvaOb3iUyNTqiCqMI.jpg?s=8bea898904825dd86fec585063d4c0fe frameborder=0>
 - entry_name: |
     Good guy die manufacturer. Puts die in your die so when your die dies you have a new die
   entry_id: 8b609f
   entry_content: |
     <img src=https://i.redditmedia.com/W1THCzGFM9ntfOvg_y3wmeN4ft6pCDqDJAqDOpnSkGc.jpg?s=0f8ef3215620cd5a2530b862a0d2fbe2 frameborder=0>
 - entry_name: |
+    clickbait
+  entry_id: 8b1ih6
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/f4FuOi9rvKw?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
     Cartoon logic
   entry_id: 8b52dq
   entry_content: |
     <iframe src=https://v.redd.it/xsz630x7h0r01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8b0b86
+  entry_content: |
+    <img src=https://i.redditmedia.com/VR0Jr6B5sRhIRenHDhsIvNcW0qXV4_QmVPF8JOsAodg.jpg?s=b07ba3a4a7241f31baece1242bece293 frameborder=0>
 - entry_name: |
     Facebook
   entry_id: 8b1ova
@@ -132,15 +127,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0MGWzNdSA4TlvBaqBEG-GXPrLSPEgsRKYisryyb-5IM.jpg?s=8bca4ff67f9c37ab92bbf5a4e5ead9ff frameborder=0>
 - entry_name: |
+    TIL Coca-Cola was sued by a consumer protection agency for misleading health claims regarding VitaminWater, which contains 33 grams of sugar per bottle. Coca-Cola's defense was that no consumer could reasonably be misled into thinking VitaminWater was a healthy beverage.”
+  entry_id: 8b71uo
+  entry_content: |
+    null
+- entry_name: |
     League of Legends' community must be quite nice now that every 12 years olds are playing Fortnite.
   entry_id: 8b2nfu
   entry_content: |
     null
 - entry_name: |
-    Our School’s Magazine Publication Intentionally Placed A Physical Hole In Their Newest Issue
-  entry_id: 8b032e
+    Using augmented reality to visualize underground utilities
+  entry_id: 8b6oz4
   entry_content: |
-    <img src=https://i.redditmedia.com/Fa3jMTU8ZBLp3NKA35UbptUbwpVnmVJQDypPB7U-Two.jpg?s=b5ea3f29a3cd1e789357beb71ef6c33e frameborder=0>
+    <iframe src=https://v.redd.it/gyhhsn8fa2r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     We’ve become the very thing the original creators sought to destroy!
   entry_id: 8b0ws3
@@ -162,6 +162,11 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGiftedThankfulCoqui&url=https%3A%2F%2Fgfycat.com%2FGiftedThankfulCoqui&image=https%3A%2F%2Fthumbs.gfycat.com%2FGiftedThankfulCoqui-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=416 height=720 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
+    After 55 straight nights of filming, the longest battle in Game of Thrones has finished filming and the cast given a letter by the producer
+  entry_id: 8b2p9q
+  entry_content: |
+    <img src=https://i.redditmedia.com/DP-aLYacLQG1dw5YX2opFBce4voMRY0ONA6JsqQh39A.jpg?s=b0841093f41d4e06197dda3e73dbb210 frameborder=0>
+- entry_name: |
     Finished my first ever SC4 region. First PC game I ever owned as a kid. Desecration Nation, Population: 3,354,774!
   entry_id: 8b3xem
   entry_content: |
@@ -172,15 +177,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ep008H0_QgLvCqnA3EI9kgdMoDzVpj67S3JPtumq7ms.jpg?s=22e76605f37a1d24ad428c518695825d frameborder=0>
 - entry_name: |
-    After 55 straight nights of filming, the longest battle in Game of Thrones has finished filming and the cast given a letter by the producer
-  entry_id: 8b2p9q
+    “Whatcha thinkin’ ‘bout?”
+  entry_id: 8b6xf5
   entry_content: |
-    <img src=https://i.redditmedia.com/DP-aLYacLQG1dw5YX2opFBce4voMRY0ONA6JsqQh39A.jpg?s=b0841093f41d4e06197dda3e73dbb210 frameborder=0>
-- entry_name: |
-    Montreal mother told daughter doesn't count as 2nd passenger in carpool lane
-  entry_id: 8b0l4n
-  entry_content: |
-    <img src=https://i.redditmedia.com/dmhgp1vQfp1jefVRvq25OtbEjKXDwHWkNwf01HnYtA0.jpg?s=0aed738b857982ee3253f63e6e318e1d frameborder=0>
+    <img src=https://i.redditmedia.com/LBnA1ZzfkQQBn03D9oApD2Yvn5cZ4T36MUuJuWKun7U.jpg?s=3d221432198d0cf668182459993129df frameborder=0>
 - entry_name: |
     Michael looks so fed up with me for not hitting play lol
   entry_id: 8b41fl
@@ -192,15 +192,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5pctnm6l2zq01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Using augmented reality to visualize underground utilities
-  entry_id: 8b6oz4
+    Montreal mother told daughter doesn't count as 2nd passenger in carpool lane
+  entry_id: 8b0l4n
   entry_content: |
-    <iframe src=https://v.redd.it/gyhhsn8fa2r01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Trump attorney Cohen is being investigated for possible bank fraud, campaign finance violations, according to a person familiar with the case
-  entry_id: 8b2hc2
-  entry_content: |
-    <img src=https://i.redditmedia.com/nHphKYjv--QDCZdXPdS2QN0JPRY7kPiH5-iyYQUbYdg.jpg?s=d5c15e30652bda2288433d77ac6368d6 frameborder=0>
+    <img src=https://i.redditmedia.com/dmhgp1vQfp1jefVRvq25OtbEjKXDwHWkNwf01HnYtA0.jpg?s=0aed738b857982ee3253f63e6e318e1d frameborder=0>
 - entry_name: |
     tfw you watch the entire trilogy to find one new line to meme, then watch it only get 3 upvotes
   entry_id: 8b5f8z
@@ -212,43 +207,48 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0T8cdKJJlDYn-3R7eqsMu1BPv_NQg8UndKv3rRM6F3U.jpg?s=002a85d13f7d26fa4a53e89a4e6d0115 frameborder=0>
 - entry_name: |
-    Spray your sins away
-  entry_id: 8b1n0y
-  entry_content: |
-    <iframe src=https://v.redd.it/h8g024p3zxq01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Women can be combat veterans, too.
   entry_id: 8b595j
   entry_content: |
     <img src=https://i.redditmedia.com/kw5R1xBsuBmrMLWBQmC7E3uy1UgKCI4d-dJrfndS2vI.jpg?s=d0989d22b82dfbf181824c4092f29ab3 frameborder=0>
 - entry_name: |
-    To be politically correct
-  entry_id: 8b2xmq
+    Trump attorney Cohen is being investigated for possible bank fraud, campaign finance violations, according to a person familiar with the case
+  entry_id: 8b2hc2
   entry_content: |
-    <img src=https://i.redditmedia.com/1CVdaLm-6FEn3WAqrcZwr83tJJNj6FrLjOwonkEZt4c.jpg?s=0bdaad86f0e96b2dfb4f5db9027c942a frameborder=0>
+    <img src=https://i.redditmedia.com/nHphKYjv--QDCZdXPdS2QN0JPRY7kPiH5-iyYQUbYdg.jpg?s=d5c15e30652bda2288433d77ac6368d6 frameborder=0>
 - entry_name: |
-    Instagram ranked worst social network for young people's mental health
-  entry_id: 8b0oem
+    Spray your sins away
+  entry_id: 8b1n0y
   entry_content: |
-    <img src=https://i.redditmedia.com/JyPECpykXXAvcrfDX1YuprO3Af5aml5W_VMFOFHQa9o.jpg?s=5af836cda055437e8a11c47c7ffe0a0e frameborder=0>
+    <iframe src=https://v.redd.it/h8g024p3zxq01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     The level of zen this pupper is experiencing must be out of this world
   entry_id: 8b4nhm
   entry_content: |
     <iframe src=https://v.redd.it/w7j776mk40r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Iwata truly was an amazing man
-  entry_id: 8b6xy0
+    To be politically correct
+  entry_id: 8b2xmq
   entry_content: |
-    <img src=https://i.redditmedia.com/6IIQdgM0tmuV3CExoZB34GjL7lhvaOb3iUyNTqiCqMI.jpg?s=8bea898904825dd86fec585063d4c0fe frameborder=0>
+    <img src=https://i.redditmedia.com/1CVdaLm-6FEn3WAqrcZwr83tJJNj6FrLjOwonkEZt4c.jpg?s=0bdaad86f0e96b2dfb4f5db9027c942a frameborder=0>
 - entry_name: |
     Iceland to ban palm oil from its own brand foods by year end.
   entry_id: 8b5dyp
   entry_content: |
     <img src=https://i.redditmedia.com/n8ao3b0fCsNe4xKMMRySMIm4_h58QIaTcHVIrI1g2rQ.jpg?s=031ee217d2888de401ebc479bc90af2b frameborder=0>
 - entry_name: |
+    Instagram ranked worst social network for young people's mental health
+  entry_id: 8b0oem
+  entry_content: |
+    <img src=https://i.redditmedia.com/JyPECpykXXAvcrfDX1YuprO3Af5aml5W_VMFOFHQa9o.jpg?s=5af836cda055437e8a11c47c7ffe0a0e frameborder=0>
+- entry_name: |
     Keep it movin
   entry_id: 8b3wo2
   entry_content: |
     <img src=https://i.redditmedia.com/-1TFTJbA9B9Sap55lahIaeUd8GzHGmiqdFzonGK3cYs.jpg?s=454b8bfc9e9df7b86c92cbe35ab954f8 frameborder=0>
+- entry_name: |
+    Keepin' it real
+  entry_id: 8b5qba
+  entry_content: |
+    <img src=https://i.redditmedia.com/HgRRtxV8ncuSJmrMNnubbTA2WyfnHnkUdkhvllViZZs.jpg?s=699733659715562045e99f7688850442 frameborder=0>
 ---
