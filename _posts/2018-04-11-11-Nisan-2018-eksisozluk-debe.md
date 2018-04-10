@@ -6,107 +6,128 @@ data:
     kamil koç'un şovmen vatandaşa verdiği ayar
   entry_id:  75876796
   entry_writer: eniyizamanoldurucu
-  entry_fav_count: 2322
+  entry_fav_count: 2359
   entry_content: |
     gerçek <a class="b" href="/?q=kamil+ko%c3%a7">kamil koç</a> bu değil. <br/><br/>“islam ülkesinde yaşıyorsak” diye bir ibare geçen paylaşım. zaten kamil koç yahudi diye devam eden saçma sapan bir insanın paylaştığıdır. <br/>türkiye laik bir cumhuriyettir. hiçbir zaman bir islam ülkesi olmadı, olmayacak.
 - entry_name: |
     rte'nin muhtarları ispanya'ya götürmesi
   entry_id:  75879202
   entry_writer: bird watcher
-  entry_fav_count: 670
+  entry_fav_count: 673
   entry_content: |
     haram olsun.
 - entry_name: |
     saat ve saat firması rezaleti
   entry_id:  75883497
   entry_writer: hildor
-  entry_fav_count: 602
+  entry_fav_count: 604
   entry_content: |
     erişimin engellenmesiyle haberdar olduğum olay.
 - entry_name: |
     ekonomik darbe
   entry_id:  75890119
   entry_writer: nick ass
-  entry_fav_count: 372
+  entry_fav_count: 386
   entry_content: |
     bir bitmediniz amk ibneleri.<br/><br/>her türlü namussuzluğu, hırsızlığı, vurgunu yapıp ülkenin kaynaklarını sömür. dereler suyunu çekince "darbe yapülüyü".<br/><br/>(bkz: <a class="b" href="/?q=hassiktir+diyorum">hassiktir diyorum</a>)
 - entry_name: |
     taksim'de çocuğunu tasmayla gezdiren anne
   entry_id:  75885893
   entry_writer: sejlav
-  entry_fav_count: 362
+  entry_fav_count: 373
   entry_content: |
     çocuğun daha rahat gezmesini iki koluyla daha rahat hareket etmesini sağlayan bir yandan da çocuk (bakın çocuk diyorum) olduğu için kontrolü kendinde tutan kadın hareketi. takılan tasma değildir bir kontrol mekanizmasıdır ama çocuk bebek aksesuarları konusunda kısıtlı bir bilgiye sahip olunca böyle ön yargılar çıkabiliyor. <br/><br/>bu sayede çocuk at gibi koşturabiliyor ilerleyebiliyor devamlı bir el dayanak ihtiyacı hissetmiyor, iki elini de rahatça kullanabiliyor ama sınırları daha olgun muhtemelen bir ebeveyn tarafından kontrol ediliyor. bebek aksesuarları asansöre itelediğiniz bebek arabası ve markalı biberondan ibaret değildir çok farklı aksesuarlar ve çok farklı çocuk yetiştirme yöntemleri mevcuttur. ama türkiye'de değil tabi.
+- entry_name: |
+    emlakçının tepki için 10 bin dolar yakması
+  entry_id:  75880184
+  entry_writer: desmond papangelis
+  entry_fav_count: 319
+  entry_content: |
+    ruh hastası. kendi fotoğrafını hem tablo yaptırmış hem de bilgisayarda masaüstü olarak ayarlamış.
 - entry_name: |
     devlet bahçeli'nin deizm açıklaması
   entry_id:  75883742
   entry_writer: dashiell chandler
-  entry_fav_count: 295
+  entry_fav_count: 296
   entry_content: |
     eline yazıp vermişler o da okuyor,sorsan deizm ne diye, tarif edebileceğinden emin değilim.
 - entry_name: |
     3. dünya savaşının başlaması
   entry_id:  75873665
   entry_writer: konusma ben konusuyorum daha bitirmedim
-  entry_fav_count: 294
+  entry_fav_count: 296
   entry_content: |
     bir arkadaşımın dayısı, bosna savaşı'nda srebrenitsa'dan kurtulan kişilerden birisi. dediğine göre, o günden beri bir daha hiç konuşmamış. hiç. <br/>adamı görseniz, yemyeşil gözleriyle sürekli boşluğa bakıyor.<br/><br/>şu an oturduğum ve bu entry'i yazdığım otuz daireli apartmanda yaşamış olan 75 kişiden, sadece altısı kurtulmuş auschwitz'den. yol boyunca, her bina önüne koydukları altın rengi plakaların üstüne yazmışlar isimlerini, bitmek bilmez biçimde sıralanıyorlar kaldırım üstünde.<br/><br/>daha çocuk yaşımda, savaştan kaçan çeçenler tanıdım. grozni'de bıraktığı kızkardeşine, bombalamalardan sonraki günlerde ulaşamadığı için günün yarısını yarı baygın yaşayan kadınlar kaldılar aylarca evimizde.<br/>hamileliğinin son aylarında olan bir kadının, bir tank tarafından duvara sıkıştırılarak öldürüldüğünü gördüm.<br/>önce babasının, sonra sırayla annesinin, abisinin ve en son kendisinin kurşunlandığı, arkada yanan evi ve hayvanlarıyla, bir diğer genç kadının görüntüleri geliyor gözümün önüne. <br/><br/>abhazya-gürcistan savaşına giden gencecik insanlar anlatılır ailede. ben, yaş itibariyle pek hatırlamasam da, hatıraları yaşıyor. ölüm haberi gelince bir gencin, annesinin ağlamaktan gözleri akmış. göremez olmuş.<br/><br/>annemin halasının kızı, abidet, geride üç çocuk bırakıp öldükten sonra, annemin halası "benim kızım soğuk toprak üstünde yatıyor" diyerek ömrü boyunca bir daha ne kanepede oturmuş, ne yatakta yatmış. ölene değin toprak üstünde uyumuş o yaşlı kadın.<br/><br/>sözlükte, roket görse dili tutulacak sefiller de gelmiş ortadoğu goygoyu yapıyor. savaş çıksa, açlıktan sıçar bokumuzu yeriz haberleri yok, ahmakça eğleniyorlar burada. milletin evladı nasıl da ucuz geliyor bunlara. savaş çıkarsa, umarım önce sizin gibi heyecanlı delikanlıların götünü keserler diyeceğim de, vallahi ananıza babanıza yazık.
 - entry_name: |
     10 nisan 2018 kılıçdaroğlu'nun erdoğan'a ayarı
   entry_id:  75888689
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 237
+  entry_fav_count: 246
   entry_content: |
     böyle bir münazara asla olmaz. rte böyle bir tartışmaya katılmaz. katılırsa kendisi de kararsız seçmen oylarını kaybedeceğini çok iyi biliyor.<br/>tüm o basında yazılmayan, hasır altı edilen konulara reytingi çok yüksek olan o programda yanıt veremeyeceğini bilir. muhtemelen bu akşam, olmadı en geç yarın, eyyyy bay kemal, sen kimsin de ben senle tartışacağım, biz er meydanını sandığa kurduk, deyip fake atacaktır.<br/><br/>rte'nin böyle bir münazara içerisinde şekeri yükselir.<br/>cıks.<br/>olmaz.
 - entry_name: |
     rusya'da asgari ücretin 166 dolar olması
   entry_id:  75896004
   entry_writer: bulutlari bekleyen
-  entry_fav_count: 151
+  entry_fav_count: 160
   entry_content: |
     demokratik olmayan tüm ülkeler gibi zenginlerinin anormal derecede zengin olduğu, geniş halk kitlelerinin ise milliyetçilikle uyutulduğu ülke.<br/><br/>halkın alım gücü ve yaşam standardı avrupa ya da amerika ile kıyaslanamaz bile.
 - entry_name: |
     10 nisan 2018 dolar kuru
   entry_id:  75877895
   entry_writer: dur bi dakka geliyorum
-  entry_fav_count: 138
+  entry_fav_count: 139
   entry_content: |
     bir ara sayın cumhurbaşkanımız dolara güvenen yaya kalır mı ne demişti. gerçekten doğruları söylemiş, bozdurmaya kıyıp da araba alamıyorum.
+- entry_name: |
+    dolar 6 lira da olsa reisten vazgeçmeyiz
+  entry_id:  75893594
+  entry_writer: basabbasbas
+  entry_fav_count: 131
+  entry_content: |
+    amk malları<br/>götünüzdeki şemsiye açılınca görürüm ben sizi.
 - entry_name: |
     çalışılan pozisyonlar ve maaşları
   entry_id:  75893117
   entry_writer: bir umut
-  entry_fav_count: 110
+  entry_fav_count: 129
   entry_content: |
     evet yine en düşük 7000 tl ile günü açtık. alıyoruz arkadaşlar atış serbest çekinmeyin siz de atın
 - entry_name: |
     10 nisan 2018 manchester city liverpool maçı
   entry_id:  75879169
   entry_writer: sealbox
-  entry_fav_count: 90
+  entry_fav_count: 96
   entry_content: |
     trt nin futboldan anlamadığını gösteren karşılaşma. bu maç varken sonucu belli olan roma - barcelona maçını izlettirmek nedir? ınsaf trt.<br/><br/>star da şampiyonlar ligi maçı izlediğim dönemi özledim
 - entry_name: |
     kemal kılıçdaroğlu'nu 3 kelime ile anlatmak
   entry_id:  75893314
   entry_writer: patryn
-  entry_fav_count: 82
+  entry_fav_count: 94
   entry_content: |
     ana muhalefet diktatörü.
 - entry_name: |
     denizli erbakır fen lisesi rezaleti
   entry_id:  75892056
   entry_writer: eskiramazan
-  entry_fav_count: 81
+  entry_fav_count: 84
   entry_content: |
     bana mesajla ulaşan bir enterasan ülkem olayı.<br/>olayı okuyup rahatsız olduğum için paylaşmanın faydalı olacağını düşündüm.<br/>liselerde statüko emrinde ya da değil böyle fiyasko gerici, yobaz uygulamaların karşısında durulmalı en azından tepki gösterilmeli. <br/>buraya kopyalıyorum<br/><br/>“merhabalar, iyi günler ekşi sözlük ahalisi. size çok rahatsız olduğum ve duyurabildiğim kadar duyurmak istediğim bir durumdan bahsetmek istiyorum.<br/>ben denizli erbakır fen lisesinde bir öğrenciyim. okulumuz geçen senenin başlarında liseleri planlı bir şekilde dönüştürme projesi diye nitelendirebileceğimiz "proje okul" uygulamasına seçilen okullardan birisi oldu. bu senenin başlarından itibaren benim bir muhafazakarlaşma projesi olarak gördüğüm şekilde; başta rehber öğretmenimiz ve birkaç öğretmen bir rezalet olarak görülebilecek bir şeye giriştiler. kaçıncı sınıfta olduğu fark etmeksizin birçok çift herhangi ahlak dışı bir şey yapmamalarına rağmen ayrılmaları yönünde tehdit edildiler. bazılarına eğer ayrılmazlarsa okuldan atılacakları söylendi, zorla tutanaklar imzalatıldı. birçok çift sadece ailelerinin statü farkından dolayı (tabi ki onlara bir şey yapılmasını istemiyorum ama toplumun her kesimine işleyen bu hastalığın burada da görüldüğünden bahsetmek istiyorum) görmezden gelindi, seslerini çıkarıp üzerlerinde baskı kurabileceklerini düşündükleri çiftleri ayırdılar. tamamen masumane olan duygular besleyen daha çocuk diyebileceğimiz insanlara bu muamele geri kafalılıktan başka bir şey değildir. ben şahsım adına bunu ekşisözlükte duyurmak ve gündem haline getirmek istedim. bu gibi uygulamalar küçümsenebilir ama toplumu şekillendiren eğitim kurumlarında yapılan uygulamalar zincirleme etkilere sebebiyet verebilir. şahsım adına çok rahatsızım ve hem sizleri bilgilendirmek hem de ne yapılabilir ne edilebilir sizlere de sormak istedim. ilginiz için şimdiden çok teşekkür ederim. “
 - entry_name: |
     30 yaşında bekar kadın
   entry_id:  75877100
   entry_writer: osirisinkayiporgani
-  entry_fav_count: 78
+  entry_fav_count: 79
   entry_content: |
     sırf "evlenmiş olmak için evlenmiş" olmadığı için yaşı sebebiyle "evde kalmış" ilan edilen kız.
+- entry_name: |
+    rap müziği sadece aptalların sevmesi
+  entry_id:  75894504
+  entry_writer: dadallius
+  entry_fav_count: 77
+  entry_content: |
+    bir moron beyanı.<br/><br/>(bkz: <a class="b" href="/?q=anlatmaya+gerek+yok+g%c3%b6r%c3%bcyorsunuz">anlatmaya gerek yok görüyorsunuz</a>)
 - entry_name: |
     almanca denilince akla ilk gelen kelime
   entry_id:  75885032
@@ -118,28 +139,14 @@ data:
     zürafanın kafasını cama sıkıştıran kadın
   entry_id:  75895050
   entry_writer: yildizlardan bakalim dunyadaki neslimize
-  entry_fav_count: 67
+  entry_fav_count: 71
   entry_content: |
     umarim zurafaya birsey olmamistir. boyle insanlari hayvanlarin yanina yaklastirmamali...
-- entry_name: |
-    rap müziği sadece aptalların sevmesi
-  entry_id:  75894504
-  entry_writer: dadallius
-  entry_fav_count: 63
-  entry_content: |
-    bir moron beyanı.<br/><br/>(bkz: <a class="b" href="/?q=anlatmaya+gerek+yok+g%c3%b6r%c3%bcyorsunuz">anlatmaya gerek yok görüyorsunuz</a>)
-- entry_name: |
-    dolar 6 lira da olsa reisten vazgeçmeyiz
-  entry_id:  75893707
-  entry_writer: carsafgibideniz
-  entry_fav_count: 63
-  entry_content: |
-    fatih'te insanların ne düşündüğünün bir önemi yok. zaten uç kesim onlar. <br/><br/>yarın bir gün anadolu insanının ekonomisi daha da kötü olsun ben görürüm o zaman ortada ideoloji falan kalıyor mu... <br/><br/>sanırım ilber ortaylı demişti. türk insanı paraya tapar. kabul etmez ama öyledir.
 - entry_name: |
     alparslan kuytul'a cezaevinde yapılan kötü muamele
   entry_id:  75890378
   entry_writer: soyle buyurdu zerdust
-  entry_fav_count: 63
+  entry_fav_count: 64
   entry_content: |
     adama bak. cezaevinde kimse güleryüzlü bir şekilde benimle tokalaşmadı demiş. bir de gardiyanlar kendisine "alpaslan" diyerek hitap ediyorlarmış. bak bak ajitasyona ve beklentiye bak hele, hem de cezaevinde.<br/><br/>(bkz: <a class="b" href="/?q=derdini+sikeyim">derdini sikeyim</a>)
 - entry_name: |
@@ -150,10 +157,17 @@ data:
   entry_content: |
     kalan 6 şar maçta, başakşehir 4g1b1m (mağlubiyet galatasaray'a), galatasaray 5g1m (mağlubiyet beşiktaş'a), beşiktaş 5g1b, fenerbahçe 6g alırsa 4 takım da ligi 72 puanda bitiriyor ve 4'lü averajda sıralama 1. bjk (10 puan, min +4 averaj) 2. ibfk (10 puan, max +3 averaj) 3. fb (8 puan) 4. gs (5 puan) şeklinde oluyor. süper bir finiş olmaz mı?
 - entry_name: |
+    10 nisan 2018 doların 4.1 tl olması
+  entry_id:  75889809
+  entry_writer: agdakibalik
+  entry_fav_count: 59
+  entry_content: |
+    yetmez reis daha çok attır daha çok her yerimize üstümüze başımıza ohh...
+- entry_name: |
     yeterli ilgiyi görememiş türk dizileri
   entry_id:  75873854
   entry_writer: blues buzz
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     (bkz: <a class="b" href="/?q=acayip+hikayeler">acayip hikayeler</a>)<br/><br/>geçtiğimiz yaz kaybettiğimiz çizer galip tekin'in hikayelerinden uyarlama 11 bölümlük efsane seri. her bölümü birbirinden bağımsız acayip hikayeler üzerine kurulu 60 dakikalık acayip olaylardan oluşur.
 - entry_name: |
@@ -164,33 +178,26 @@ data:
   entry_content: |
     sanirim kurk mantolu madonna'da gecen su cumledir;<br/><br/>''bu akşam anladım ki, bir insan diğer bir insana bazen hayata bağlandığından çok daha kuvvetli bağlarla sarılabilirmiş.''
 - entry_name: |
-    ekşi itiraf
-  entry_id:  75872789
-  entry_writer: seryer
-  entry_fav_count: 43
-  entry_content: |
-    akrabamızın iddaa bayii vardı, şans oyunları da oynanıyordu. yanlarında çalışan kişiyle sorun yaşadılar. rica ettiler benden bir süre yanlarında çalıştım birkaç ay kadar yardım ettim.<br/><br/>o süre boyunca şunu fark ettim ki, şans oyunları oynayanların büyük çoğunluğu yaşlı insanlar. kimisi emekli, kimisinin emekliliğine az kalmış, kimisi ise emekli olmasına rağmen çalışıyor. gençler daha çok iddaa oynuyor, şans oyunlarını yoldan geçerken gözüne çarparsa oynuyorlar. yaşlılarsa hem iddaa oynuyor hem de şans oyunları ve şans oyunlarını takip ediyorlar hangisi hangi gün çekiliyor biliyorlar.<br/><br/>ilk başlarda "bu saatten sonra çıksa ne yapacak ki bunlar parayı" diye alaycı yaklaşıyordum. sonra bir çoğuyla sohbet etme imkanım oldu, ne de olsa üç aşağı beş yukarı aynı insanlar geliyor tanıyorsun bir süre sonra.<br/><br/>onları tanıdıkça şunu fark ettim ki, hepsinin hayali var. o yaştan sonra ne hayaliymiş hayal mi olurmuş gelmiş kaç yaşına diyebilirsiniz belki ama hepsinin de güzel düşleri vardı; sahil kasabasına yerleşeyim, balıkçı kasabasına yerleşeyim balık tutayım, hanımla sessiz şirin bir yere gideyim gibi... <br/><br/>bu insanlar hayatları boyunca çalışmışlar. kimisi işçi emeklisi, kimisi memur. içlerinde okul müdürlüğünden ya da memurluğun daha üstünden emekli olanlar da vardı. görece hali vakti iyi olanlar da vardı yani içlerinde. kimisi de emekli olmasına rağmen çalışıyordu hala, yetmiyordu emekli maaşı.<br/><br/>bir süre sonra şunu fark ettim, daha doğrusu biraz kafa yorunca şunu anladım ki, bu insanlar hayatları boyunca çalışmışlar fakat çalışarak hayallerini gerçekleştirememişler. bir çoğunun hayali hayal olarak kalmış. bu işlerin çalışarak olmayacağını görmüşler. ya aileden yüklü bir miras gelecek ya da işte şans oyunlarından bir şeyler çıkacak. bundan dolayı şans oyunları oynadıklarını fark ettim.<br/><br/>aslında gençlerin hayallerini gerçekleştirmek için bu tip şeylerle uğraşması beklenir daha çok. belki de gençler için hayalleri henüz o kadar uzakta olmadığındandır. belki de çalışarak hayallerini gerçekleştireceklerine inanıyorlardır. belki de emekli olunca hayallerini kurdukları yaşama kavuşacaklarına inanıyorlardır. ama şu da var, bu insanlar da bir dönem gençti ve onlar da bizim gibi düşünüyorlardı. "çalışacağım, daha çok çalışacağım, hayallerimi gerçeğe dönüştüreceğim." sonra bir baktılar ki, yaşlanmışlar ve hayallerinin bir çoğu hala hayal. çalışarak bu işin olmadığını gördükleri için de artık son bir umut, şans oyunları oynuyorlar. insanoğlu ne kadar çok yaşarsa yaşasın, illa ki pişman ölür ama bunlarınki öyle bir şey değil. hayallerinin bir çoğunu yaşamamışlar ki.<br/><br/>bilmiyorum siz ne düşünüyorsunuz, bu konudaki düşüncelerinizi görüşlerinizi de paylaşabilirsiniz isterseniz. <br/><br/>aslında bir çoğumuz hatta bu sözlükteki neredeyse herkes, aç kalmamak için çalışıyor. ne öldürür ne güldürür dedikleri şey var ya, tam olarak öyle bir durum bizimkisi. aç kalmamak için çalışıyoruz. ileride yaşlanınca emekli olunca elden ayaktan düşünce kimseye muhtaç olmayalım diye çalışıyoruz, hayallerimizi gerçekleştirmek için değil. belki de hayallerimiz için çalıştığımızı zannediyoruz ama öyle olmadığını henüz idrak edemiyoruz, daha yolun başında olduğumuzu düşünüyoruz, heyecanımızı yitirmedik henüz, çok şeyler başaracağımıza inanıyoruz. belki de bu yüzden yaşlılardan daha umutlu görünüyoruz. yaşlanıncaysa bir çoğumuz da bu yaşlılar gibi hayallerimizi gerçekleştiremeyeceğiz, belki bizler de son bir umut şans oyunlarına sarılacağız. çünkü biz de bir zamanlar çalıştık çalışarak olacağına inandık ama olmayacağını göreceğiz.<br/><br/>yaşlıların, hayata karşı yaşadığı bu hayal kırıklığıyla ilgili <a class="b" href="/?q=arthur+schopenhauer">arthur schopenhauer</a>in şu muazzam sözleri geldi aklıma:<br/><br/>"doğuştan gelen bir kusurumuz var; hepimiz mutlu olmak için dünyaya geldiğimizi sanıyoruz. bu kusurumuzu gidermedikçe, dünya gözümüze çelişkilerle dolu bir yer görünecektir. çünkü her adımımızda, ister büyük ister küçük bir şey yapmış olalım, dünyanın ve insan hayatının, mutlu bir yaşam sürdürmeye olanak verecek biçimde tasarlanmadığını anlayacağız. işte bu yüzden bütün yaşlıların yüzlerinde aynı ifadeyi, yani düş kırıklığını görmek mümkündür."
-- entry_name: |
     ergenekon davası karar duruşması görüntüleri
   entry_id:  75896705
   entry_writer: alla turca
-  entry_fav_count: 39
+  entry_fav_count: 51
   entry_content: |
     unutturulmaması gereken görüntüler.<br/><br/>onca masum insan ağır hapis cezaları alırken yargılayanların "osmanım" dedikleri, atatürk'e "ingiliz piçi" diyen, tescilli katil osman yıldırım'ın beraatine özellikle dikkat ediniz. bu davaların savcısı olduklarını söyleyenleri unutmayınız. her "kandırıldık" diyene kanmayınız.
+- entry_name: |
+    ekşi itiraf
+  entry_id:  75872789
+  entry_writer: seryer
+  entry_fav_count: 45
+  entry_content: |
+    akrabamızın iddaa bayii vardı, şans oyunları da oynanıyordu. yanlarında çalışan kişiyle sorun yaşadılar. rica ettiler benden bir süre yanlarında çalıştım birkaç ay kadar yardım ettim.<br/><br/>o süre boyunca şunu fark ettim ki, şans oyunları oynayanların büyük çoğunluğu yaşlı insanlar. kimisi emekli, kimisinin emekliliğine az kalmış, kimisi ise emekli olmasına rağmen çalışıyor. gençler daha çok iddaa oynuyor, şans oyunlarını yoldan geçerken gözüne çarparsa oynuyorlar. yaşlılarsa hem iddaa oynuyor hem de şans oyunları ve şans oyunlarını takip ediyorlar hangisi hangi gün çekiliyor biliyorlar.<br/><br/>ilk başlarda "bu saatten sonra çıksa ne yapacak ki bunlar parayı" diye alaycı yaklaşıyordum. sonra bir çoğuyla sohbet etme imkanım oldu, ne de olsa üç aşağı beş yukarı aynı insanlar geliyor tanıyorsun bir süre sonra.<br/><br/>onları tanıdıkça şunu fark ettim ki, hepsinin hayali var. o yaştan sonra ne hayaliymiş hayal mi olurmuş gelmiş kaç yaşına diyebilirsiniz belki ama hepsinin de güzel düşleri vardı; sahil kasabasına yerleşeyim, balıkçı kasabasına yerleşeyim balık tutayım, hanımla sessiz şirin bir yere gideyim gibi... <br/><br/>bu insanlar hayatları boyunca çalışmışlar. kimisi işçi emeklisi, kimisi memur. içlerinde okul müdürlüğünden ya da memurluğun daha üstünden emekli olanlar da vardı. görece hali vakti iyi olanlar da vardı yani içlerinde. kimisi de emekli olmasına rağmen çalışıyordu hala, yetmiyordu emekli maaşı.<br/><br/>bir süre sonra şunu fark ettim, daha doğrusu biraz kafa yorunca şunu anladım ki, bu insanlar hayatları boyunca çalışmışlar fakat çalışarak hayallerini gerçekleştirememişler. bir çoğunun hayali hayal olarak kalmış. bu işlerin çalışarak olmayacağını görmüşler. ya aileden yüklü bir miras gelecek ya da işte şans oyunlarından bir şeyler çıkacak. bundan dolayı şans oyunları oynadıklarını fark ettim.<br/><br/>aslında gençlerin hayallerini gerçekleştirmek için bu tip şeylerle uğraşması beklenir daha çok. belki de gençler için hayalleri henüz o kadar uzakta olmadığındandır. belki de çalışarak hayallerini gerçekleştireceklerine inanıyorlardır. belki de emekli olunca hayallerini kurdukları yaşama kavuşacaklarına inanıyorlardır. ama şu da var, bu insanlar da bir dönem gençti ve onlar da bizim gibi düşünüyorlardı. "çalışacağım, daha çok çalışacağım, hayallerimi gerçeğe dönüştüreceğim." sonra bir baktılar ki, yaşlanmışlar ve hayallerinin bir çoğu hala hayal. çalışarak bu işin olmadığını gördükleri için de artık son bir umut, şans oyunları oynuyorlar. insanoğlu ne kadar çok yaşarsa yaşasın, illa ki pişman ölür ama bunlarınki öyle bir şey değil. hayallerinin bir çoğunu yaşamamışlar ki.<br/><br/>bilmiyorum siz ne düşünüyorsunuz, bu konudaki düşüncelerinizi görüşlerinizi de paylaşabilirsiniz isterseniz. <br/><br/>aslında bir çoğumuz hatta bu sözlükteki neredeyse herkes, aç kalmamak için çalışıyor. ne öldürür ne güldürür dedikleri şey var ya, tam olarak öyle bir durum bizimkisi. aç kalmamak için çalışıyoruz. ileride yaşlanınca emekli olunca elden ayaktan düşünce kimseye muhtaç olmayalım diye çalışıyoruz, hayallerimizi gerçekleştirmek için değil. belki de hayallerimiz için çalıştığımızı zannediyoruz ama öyle olmadığını henüz idrak edemiyoruz, daha yolun başında olduğumuzu düşünüyoruz, heyecanımızı yitirmedik henüz, çok şeyler başaracağımıza inanıyoruz. belki de bu yüzden yaşlılardan daha umutlu görünüyoruz. yaşlanıncaysa bir çoğumuz da bu yaşlılar gibi hayallerimizi gerçekleştiremeyeceğiz, belki bizler de son bir umut şans oyunlarına sarılacağız. çünkü biz de bir zamanlar çalıştık çalışarak olacağına inandık ama olmayacağını göreceğiz.<br/><br/>yaşlıların, hayata karşı yaşadığı bu hayal kırıklığıyla ilgili <a class="b" href="/?q=arthur+schopenhauer">arthur schopenhauer</a>in şu muazzam sözleri geldi aklıma:<br/><br/>"doğuştan gelen bir kusurumuz var; hepimiz mutlu olmak için dünyaya geldiğimizi sanıyoruz. bu kusurumuzu gidermedikçe, dünya gözümüze çelişkilerle dolu bir yer görünecektir. çünkü her adımımızda, ister büyük ister küçük bir şey yapmış olalım, dünyanın ve insan hayatının, mutlu bir yaşam sürdürmeye olanak verecek biçimde tasarlanmadığını anlayacağız. işte bu yüzden bütün yaşlıların yüzlerinde aynı ifadeyi, yani düş kırıklığını görmek mümkündür."
 - entry_name: |
     1.70m boyunda olup 10cm topuklu giyen kız
   entry_id:  75897068
   entry_writer: elienduil
-  entry_fav_count: 35
+  entry_fav_count: 43
   entry_content: |
     manken gibi kızdır. ayrıca çekemeyeni de çoktur gördüğüm kadarı ile.
-- entry_name: |
-    amerikan filmlerindeki toplu terapi seansları
-  entry_id:  75893474
-  entry_writer: twiksingercekmucidi
-  entry_fav_count: 24
-  entry_content: |
-    seans aralarında muhakkak kahve ve donut tüketilir.
 - entry_name: |
     öğrenildiğinde ufku iki katına çıkaran şeyler
   entry_id:  75872923
@@ -199,12 +206,12 @@ data:
   entry_content: |
     türk futbolunu izlemek için türkiye de her ay para ödeyen milyonlarca insan vardır...
 - entry_name: |
-    iyi insan olmanın hiçbir işe yaramaması
-  entry_id:  75874661
-  entry_writer: leonista
+    hitler'in türkiye'ye saldırmamasının nedenleri
+  entry_id:  75889617
+  entry_writer: lantirn161
   entry_fav_count: 22
   entry_content: |
-    <a class="b" href="/?q=ruh+adam">ruh adam</a> kitabinda harika bir cümle vardir. şöyle der; ''ummadık yerden gelen iyilik insanı cok daha derinden sarar ve sarsar.'' bu sebeple, kötü olan veya kötü imajı cizen insanlarin kırk yılda bir yaptikları o en basit iyilik insanların gözünde öyle değerli olur ki, siz iyi bir insan olarak kırk sene iyilik yapsaniz o seviyeye erişemezsiniz. bu kadar basit.
+    üzerine gereğinden fazla kafa yorulan olay.<br/><br/>neredeyse tüm başlığı okudum. komedyenleri, trolleri ve yanlış bilgi verenleri saymazsak konuya dış politika kabiliyeti ve/veya ekonomi temelli cevapları verenler çok olmuş. ama işin yazılmayan tarafları da var. ben de biraz onları anlatayım. <br/><br/>almanya'nın daha doğrusu hitler'in 2. dünya savaşı'nda yaptığı çoğu şeyin bir plan dahilinde olduğunu düşünebilirsiniz. ama gerçek böyle değil. neden böyle olmadığını anlatmaya başlamadan önce alman siyasi ve askeri liderliğinin nasıl işlediğini bilmeniz gerekiyor.<br/><br/>hitler almanya'nın fiili kontrolünü 30 ocak 1933'de aldıktan sonra devlet ile partiyi giderek artan bir hızda bütünleştirdi. ancak ordu doğrudan parti kontrolüne girmedi. hitler ile ordu generalleri arasında adı konulmayan bir mutabakat sağlandı ve hitler ülke içinde gücünü rahatça arttırıp karşılığında ordu generallerine istediklerini vermeyi sürdürdü. çoğu kişinin görmediği veya ufak bir detay diyerek atladığı bir nokta vardır hitler'in karakteriyle ilgili. hitler çok zorda kalmadıkça birisiyle veya bir kurumlar doğrudan kavgaya girişmeyen birisi ve işine yaradığı sürece hemen hemen herkesi ve her kurumu kendi yanında tutmasını bilen ve bunları kullanan bir adam. örneğin kavgam'da ve diğer birçok yazısında, konuşmasında eşcinselliğe ve cinsel konulara yönelik çok katı muhafazakar görüşleri olmasına rağmen <a class="b" href="/?q=ernst+r%c3%b6hm">ernst röhm</a> (bkz: <a class="b" href="/?q=sturmabteilung">sturmabteilung</a>), <a class="b" href="/?q=julius+streicher">julius streicher</a> (bkz: <a class="b" href="/?q=der+st%c3%bcrmer">der stürmer</a>) gibi tipleri sürekli yakınında tuttu ve/veya kendi adamları arasında nazi öğretisine göre rant paylaşımı, eşcinsellik vb. konularda gayrı ahlaki olarak sayılabilecek yüzkızartıcı kavgaların özellikle çıkmasına seyirci kaldı. bu bir yönetim taktiği aslında ve işine yarayan herkesi bir noktaya dek kullanma amacı güdüyor ve hitler'in karar verici tek adam olarak kalmasını sağlıyordu. ordu ile ilişkilerinde de aynısı yaşandı ve ordunun istediklerini yapıp bir noktaya kadar kendi yaptıklarına ses çıkarmamalarını sağladı ama o nokta geçilince de hem kendi isteği hem de yanındaki adamların baskısı (bkz: <a class="b" href="/?q=heinrich+himmler">heinrich himmler</a>), (bkz: <a class="b" href="/?q=rudolf+hess">rudolf hess</a>) ile ordu üzerinde kalıcı hakimiyetini kurmaya başladı. ipleri koparak ve sonun başlangıcı olan olay da ordu içinde sözü geçen, saygı duyulan ve nazileri kontrol altında tutabileceklerini düşünen iki tutucu general üzerinden patlak verdi. hem de polonya seferinden hemen öncesine.<br/><br/>blomberg–fritsch olayı olarak bilinen süreçte önce ordu başkomutanı ve savaş bakanı werner von blomberg'in yeni evlendiği karısının eski bir fahişe ve pornocu olduğulafları ortaya atıldı. hitler nikah şahidi olduğu için anında küplere bindi ve blomberg görevlerinden ayrılmak zorunda kaldı. kara kuvvetleri komutanı werner von fritsch ise <a class="b" href="/?q=reinhard+heydrich">reinhard heydrich</a> tarafından hazırlanan bir dosya ile serserinin biri ile eşcinsel ilişki kurmakla suçlandı. von fritsch bunu şiddetle reddetti ama tüm aklanma çabalarına rağmen hem pozisyonunu hem de rütbesini kaybetti (buna dayanamayan von fritsch polonya seferine albay rütbesi ile katıldı ve orada resmen ölüme gitti.).<br/><br/>hitler bu iki etkin ismi yolundan çektikten sonra ordunun kumandalarını tamamen eline aldı ve yerlerine kendisine sadık isimleri atadı. kukla olan bu tiplerin ardında duran aslında hitler idi ve polonya seferinden itibaren tüm askeri karar mekanizmalarına hitler girmeye başladı. bunu giderek artan bir yoğunlukta yaptığını görebiliriz, örneğin alman genelkurmayı polonya seferinden sonra yaldır yaldır fransa taarruzuna hazırlanırken bir anda hitler'in kuzey avrupa'yı yani norveç ve danimarka'yı işgal etmek için kendilerinden tamamen alakasız bir şekilde başka bir generali görevlendirmesi (<a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/73251534" title="https://eksisozluk.com/entry/73251534">lantirn161/blücher</a>), <a class="b" href="/?q=dunkirk">dunkirk</a> rezaleti, az sonra aşağıda anlatacağım <a class="b" href="/?q=barbarossa">barbarossa</a> planı değişiklikleri, bırakın stratejik olanını neredeyse alay/tabur seviyesi taktik geri çekilmeleri bile yasaklayıp "son adamına ve son mermiye kadar savaşma" emri vermesi vb. olayları giderek artan bu etkinin işaretleri. ancak ne yaparsa yapsın ordu içinden hitler'e yönelik eleştirilerin gelmeye devam ettiğini ancak bunun da 20 temmuz 1944 suikastine kadar olduğunu biliyoruz. bu tarihten sonra ordu tamamen nazi partisi güdümüne girmiş, klasik asker selamı bile kaldırılıp sağ kolun kaldırılmasıyla yapılan nazi selamı resmi alman ordusu selamı olarak kabul edilmiş, bırakın subayları generallerin bile hitler'in yanına girerken kişisel tabancaları toplanmaya başlanmıştı (bu çok büyük bir hakarettir. subayın tabancası ancak subay teslim olursa elinden alınabilir). <br/><br/>işte burada anlattığım gibi hitler'in alman ordusunun karar alma mekanizmasındaki etkisi çok fazlaydı. siyasi alanda da hitler'in son sözü söyleyen bir adam olma gibi bir misyonu vardı ama özellikle savaş ilerledikçe ve hitler askeri alanla daha fazla meşgul oldukça yanındaki diğer adamlar kendi çaplarında küçük birer führer olup siyasi manevraları koordine etmeye başladılar. gelgelelim son karar daima ve asla değişmez bir şekilde hitler'e aitti. dolayısıyla savaş sürecindeki siyasi olayların da bir numaralı sorumlusunun hitler olduğunu kabul edebiliriz.<br/><br/>polonya seferi öncesi hem hitler'in hem de diğer alman yetkililerin en büyük korkusu işin büyüyüp fransa ve ingiltere'nin de almanya'ya karşı savaşa katılması ve almanya'nın iki cepheli bir savaşa girmesi idi. gelgelelim burada hitler hem doğru hem de yanlış yaptı. hitler fransa ve ingiltere'nin polonya'nın ortadan kaldırılmasına ses etmeyeceklerini çünkü iki savaş arasında ekonomik olarak son derece kötü bir durumda olduklarını ve bunun sonucunda bu iki ülke silahlı kuvvetlerinin almanya'nın yeni kurulan, son derce modern silah ve taktiklere sahip, iyi eğitilmiş ordusu karşısına çıkmaya cesarete edemeyeceklerini değerlendirdi. evet şurada haklıydı, hem fransa hem de ingiltere iki savaş arası periyodu ekonomik zorluklar ve siyasi çekişmelerle geçirmiş ve silahlı kuvvetlerini neredeyse ihmal seviyesinde kendi başlarına bırakmışlardı ancak avrupa üzerinde hala etkiliydiler ve kendi çıkarları konusunda emperyalist refleksleri ortadan kalkmamıştı. zaten sovyet-alman saldırmazlık paktı şok edici bir gelişme olsa da yine de almanya'ya savaş ilan ettiler.<br/><br/>savaşı yalnızca ekonomik veya sadece politik olarak yorumlamak hatalı bir yaklaşımdır. savaş, siyaseten konuşacak daha fazla birşey görmeyen iki milletin sopayla haklılıklarını ispat etme yoludur.<br/><br/>polonya halkı yıllardan beri (taaa prusya devleti zamanlarında ortaya çıkan bir durum bu) doğu almanya'da yerleşik olan almanlar tarafından ırksal anlamda değersiz görülen ama zengin <a class="b" href="/?q=junker">junker</a>'leri ucuz işgücü kaynağı olarak kullanmakta da vazgeçmediği bir insan grubudur. 1. dünya savaşı sonunda burada bağımsız bir polonya devleti kurulması ve su katılmamış bir alman şehri olduğuna inanılan danzig'in polonya içinde kalan bir şehir devleti olması almanları resmen delirtti ve yalnız hitler değil neredeyse tüm alman siyasileri ve askerleri bir gün polonya'nın yeryüzünden silineceğine inanmaya başladı.<br/><br/>şunu kabul etmelisiniz ki hitler ideolojik bir liderdir. yani ekonomi, profesyonel yönetim, sanat, spor vs vs konular hitler'in iktidarı ele geçirme ve onu kullanma yönündeki emellerinde bir ideolojik faktör kadar etkili değildir. hitler ırksal ideolojisini kurmuş, bunu gerçekleştirmek için ekonomik, askeri, sanatsal vb faktörleri ateşleyici güç olarak görmüştür. burada almanya'nın lokomotifi ırksal ideolojidir. diğer herşey bu lokomotifin ilerlemesi için olması veya yanması gereken bir odundur, kömürdür.<br/><br/>hitler savaş planlarını yaparken en azından görünüşte kesinlikle ekonomik faktörlere göre hareket etmedi. bunu şöyle anlatayım; aklında olayın bir avrupa ve daha sonra dünya çatışmasına gitmeyeceği düşüncesi olmadığından polonya seferi öncesi batı, kuzey avrupa, balkanlar ve afrika için bir planı olmadı. doğal müttefikleri olan italya, japonya ile asla koordineli hareket etmedi. şurasını alayım orada tarla tapan var, petrol var demedi. bunu diyenler oldu elbette ama asli karar verici olan hitler'in motivasyonu ırksaldı. neden dunkirk oldu, neden ingiltere işgal edilmedi soruları aslında hitler'in kafasındaki mantığın tezahürüdür. bunları iyi incelemek lazım. siz zannediyor musunuz ki salt bir hava savaşı (bkz: <a class="b" href="/?q=ingiltere+sava%c5%9f%c4%b1">ingiltere savaşı</a>) kaybedildi diye ya da elde gerekli teçhizat yok diye almanlar ingilteye çıkmaktan vazgeçti... almanların hiçbir zaman ingiltere'yi işgal planı olmadı çünkü hitler ingiltere'nin avrupa yönetiminde bir figür olarak olması gerektiğine inanan biriydi ve o nedenle çok da fazla ingilizlere bulaşmadı.<br/><br/>gelelim barbarossa harekatına. barbarossa harekatının ilk dönemlerini ve hedeflerini incelediğinizde askeri hedeflerin ağırlıkta olduğu bir plan görürsünüz. aslında harekatın planlama sürecinde nazi partisinin ekonomik yetklilileri ile alman ordusunun planlamacıları arasında ciddi tartışmaların döndüğü, hedefler konusunda birbirlerini yedikleri biliniyor. nazi partisinin üst düzey yetkilileri ırksal politikalarının tamamlayıcısı olarak ekonomik hedefler üzerinde yoğunlaşırken (tarımsal arazilerin ele geçirilmesi, buraların alman ailelerine tahsis edilip yerleşik halkın köle statüsüne indirilmesi ve kendi kendine yetme anlamında ancak %90'lara çıkabilen anavatının %100 kendi üretimiyle beslenmesi misyonunun gerçekleştirilmesi) alman genelkurmayı sovyet ordusunun ana gövdesinin kırılması, devletin merkezi olan moskova'nın ele geçirilip ülkenin yönetimsel açıdan felç edilmesi ve bir başıbozukluğun oluşmasını sağlamaya odaklanmıştı. bu konuda ırksal kökenli ekonomik hedefler açısından himmler'in ciddi baskılar yaptığı da biliniyor çünkü ekonomi yönetiminde ss'in parti devleti içinde büyük bir etkisi vardı ve özellikle köle işçi programları için ss çok fazla adama ihtiyaç duymaktaydı. işte barbarossa tüm bu karmaşa ve mücadele içinde planlandı ve en azından başlangıçta askeri hedeflerin yokedilmesi ön plana alındı.<br/><br/>gelgelelim operasyonun devamında ordu gruplarının hitler'in farklı faktörlerce etkilenmesi sonucu ekonomik hedeflere doğru çevrilmesi, karargahta bizzat hitler'in önünde cereyan eden çok sert tartışmalara neden oldu. sovyet askeri gücünün beklenenden daha fazla ve dirençli çıkması çok geçmeden barbarossa'nın askeri hedeflerine dönülmesine yolaçtı ama iş işten geçmiş ve çok değerli zaman kaybedildiğinden mockova'yı alıp rusları psikolojik olarak yıkma planı başarısızlığa mahkum olmuştu.<br/><br/>işte bu noktadan sonra alman planı ekonomik hedeflere dönmeye başladı. 1942 yazında bir ordu grubunun ukrayna yönüne dönerek sonu stalingrad'da bitecek bir yola girmesi bunun bir işaretidir.<br/><br/>afrikakorps'a gelelim. afrikakorps aslen bir kolordu gücünde olan bir grup. askeri terminolojiyi bilmeyenler için anlatırsak kolordu dediğimiz yapı 2 veya 3 tümenin birleşiminden oluşan bir gruptur. ordu veya alman tabiriyle ordu grubu ise birkaç kolordudan müteşekkil çok daha devasa bir yapıdır. işte italyanları afrika'da tokatlayan ingilizlere karşı almanların kuzey afrika'ya göndrmek zorunda kaldığı tümenlerdn oluşan afrikakorps aslında budur ve asıl görevi akdenizin tamamen bir ingiliz gölü haline gelmesini, müttefiklerce sicilya'ya ordan da italya'ya bir çıkarma yapılıp almanya aleyhine üçüncü bir cephe açılmasını engellemektir. rommel fransa seferinde kendini kanıtlayan bir asker olarak buraya atandı ve türlü yokluklar içinde, sırtını mısır gibi çok güçlü bir garnizona dayayan ingilizlere karşı çok iyi bir mücadele verdi. gelgelelim ne hitler'in kafasında bir kolordu ile mısır'ı alıp ordan suriye-ırak-iran üzerinden kafkasya'ya ulaşma planı vardı ne de bu kolordunun bunu yapacak gücü. rommel'in amacı ingilizleri mümkün olduğunca mısır'a doğru sürmek, akdeniz'deki italyan bölgesini rahatlatmak ve ingilizleri burada oyalayarak (süveyş üzerine bir sefer yapma riskini sürekli olarak canlı tutarak) müttefik kuvvetlerini bölmekti. hitler asla afrika cephesine çok ilgi duymadı çünkü burasının almanya'nın savaşında belirleyici bir cephe olmadığını biliyordu. onu gözünde yalnızca yanda kalan bir çatışma bölgesiydi. <br/><br/>balkanlar da italya sayesinde almanların ayağına dolandı ama müttefik bulgaristan, romanya, ilhak edilen avusturya sayesinde türkiye'den almanya'ya gönderilen hammadde transferinde zaten neredeyse 1944 sonuna dek bir sorun olmadı.<br/><br/>şimdi asıl soruya yavaştan gelelim.<br/><br/>türkiye almanlar için 2. dünya savaşında adı konulmamış bir müttefik sayılabilir çünkü savaş süresince hammadde kaynağı olarak almanları beslemiştir. ancak almanya için türkiye neyse ingiltere için de odur. ingilizler için de müttefik sayılabilir türkiye çünkü ülkeyi almanlara açmamış, akdenizdeki ciddi bir ingiliz üssü olan kıbrıs ve süveyş kanalını strateji olarak riske sokmamıştır. denge siyaseti zaten budur. o dönemin karmaşasında savaştan uzak kalmak için uygulanabilecek en akıllıca yol da budur. <br/><br/>bununla birlikte alman askerlerinin türkiye'yi işgal etmesi için pratikte geçerli bir avantaj da yoktur. diyelim ki türkiye işgal edildi ve bir şekilde boğazlar da aşıldı. bunun ne gibi bir faydası olacak? düşündüğünüz yanıtı biliyorum; kafkaslara kolayca ilerlemek, azerbaycan petrollerini ele geçirmek. ama bu hatalı bir yanıt. alman ordusunun yakıt ihtiyacı zaten romanya bölgesindeki petrol alanlarından ve alman endüstrisinin harika imkanları (kömürden ve patatesten üretilen yakıt) ile sağlanıyordu. ayrıca alman ordusu her ne kadar modern ve motorize bir ordu olsa da lojistik ikmali hala 1. dünya savaşı'ndaki gibi büyük oranda demiryolu ve at ile sağlanmaktaydı. dolayısıyla stalingrad yönüne taarruz eden ordunun bir yan görevi olan azerbaycan petrollerinin ele geçirilmesi isteğinin asıl hedefi sovyetlerin petrol ihtiyacına darbe vurmaktı. <br/><br/>bununla birlikte savaşı türkiye üzerine taşıyıp türkiye'yi işgal etmek zaten aşırı uzun olan alman doğu cephesini yüzlerce kilometre daha uzatmak anlamına gelir. almanların doğu cephesinde kaybetmesinin bir nedeni de haddinden fazla uzun olan ve ince katmanlı birliklerce, doğru düzgün bir tahkimat yapılmadan savunulmaya çalışılan aşırı uzun bir cephede mücadele etmeleridir. rusya'nın sert iklimi, yetersiz ulaşım altyapısı d işin içine girince bir yerinden delinen cepheyi toparlamak kolay olmadı ve alman birlikleri sürekli yollarda oradan oraya savruldu. işin içine bir de ordularınaa geri çekilmeyi yasaklayan, neredeyse tabur ve alaylara bile bizzat "yerinizde kalın ve savaşın!" emri veren bir hitler figürü de girince çoğu durumda basit taktik geri çekilmelerle kurtarılabilecek birlikler ve bölgeler de kaybedildi. işte tüm bu tantana ışığında almanların doğu cephesine yüzlerce kilometre daha ilave etmesi, buralara birlik ayırması ve stratejik açıdan yararsız yeni çatışma bölgeleri açmasının pratikte kazançlı hiçbir tarafı yoktu. <br/><br/>bunun yanında zaten istediği hemen her ürünü kendisine satan ve iyi kötü geçinilen bir ülkenin işgal edilip bir de yönetimsel zorluklara girişmenin mantığı çok tartışılır. almanlar aptal değillerdi. nazi kademelerinde osmanlı devleti zamanında türkiye'de savaşan çok insan mevcuttur ve bunlar ilk elden türk milliyetçiliğinin şahididir. bundan başka ortada ingiltere ve fransa'ya karşı verilen bir kurtuluş savaşı vardır ve işgale uzanan bir hareketin ülke içinde ne gibi bir tepkiyle karşılanacağını almanlar idrak etmişlerdir. dolayısıyla coğrafi zorlukların, kayıp-kazanç anlamında pratikte faydasız olacak bir işgal hareketine girişmenin kendilerine bir yarar sağlamayacağı almanlar tarafından görülmüştür. <br/><br/>hafif destan gibi yazdım ama genele bakmak lazımdı ve durum kısaca bundan ibaret. aslında çok da fazla karmaşık bir olay değil elbette bu. sonuçta askeri her harekatın fayda-kazanç analizi yapılıyor ve neticede türkiye'nin işgal edilmesi yararsız görülmüş, hepsi bu...
 - entry_name: |
     çaylak onay listesi
   entry_id:  75874612
@@ -213,19 +220,19 @@ data:
   entry_content: |
     gelin gelin kanzuk'un çağırdığı ikinci sınıf yutubırlara soru sorarsınız.
 - entry_name: |
-    fikret orman'ın etik kuruluna sevk edilmesi
-  entry_id:  75890395
-  entry_writer: dedim ama niye
-  entry_fav_count: 20
-  entry_content: |
-    yaptığı, en iyi niyetli yaklaşımla, akılsız açıklamalarının kurbanı olan fikret orman’ın etik kuruluna sevk edilmesi gayet olağandır. <br/><br/>bir beşiktaşlı olarak her şeyin adaletli olmasından yanayım. beşiktaşlılığın da böyle bir şey olduğunu bilerek yetiştim. bu açıklamaların karşılığı neyse yapılması taraftarıyım. yok öyle boşboğazlık.
-- entry_name: |
     60 bin liraya bitcoin alanlar şimdi ne yapıyor
   entry_id:  75882013
   entry_writer: jadedheart
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     merhaba ben 60 binden almıştım şu an tuvalette sıçarken entry giriyorum.<br/><br/>umarım merakını dindirmişimdir.
+- entry_name: |
+    osurarak ölen adam
+  entry_id:  75898709
+  entry_writer: rosi09
+  entry_fav_count: 17
+  entry_content: |
+    insanın ölümüne bile saygımızın kalmadığı gerçeğini yüzümüze tokat gibi vuran elem verici başlık.
 - entry_name: |
     hd-torrents
   entry_id:  75894758
@@ -234,33 +241,12 @@ data:
   entry_content: |
     private trackerları uplamayın arkadaş tinerciler üşüşüyor. <br/><br/>iyi sitelere dilenerek giremezsiniz. vasat general trackerlar yılın belli dönemlerinde üyeliği açarlar, siz de üye olur, düzgün bir profil yapınca o sitedeki üst segment kullanıcı ekini alıp elit(torrent master vs de olabilir adı sitesine göre değişir) forumlarından iyi sitelerin üyeliklerini istersiniz. <br/><br/>dal sigara isteyen yancılara kimse günahını vermez, elini veren de kolunu alamayacağını bilir. istisnalar kaideyi bozmaz. iki kişiyi davet ettim, ilki fena değil di de ikinic orospu çocuğu banlandığı e-mail'ini vermiş, invite fasılitemi iptal etti site de. siz siz olun tanımadığınız insanlara davetiye vermeyin. bak sinirlendim yine, sülesinisi siktiğimin orospu çocuğu.
 - entry_name: |
-    ufak tefek cinayetler
-  entry_id:  75876801
-  entry_writer: welcometofreakshow
-  entry_fav_count: 15
-  entry_content: |
-    onedio videosunda<sup class="ab"><a title="(bkz: izledim evet)" href="/?q=izledim+evet" data-query="izledim evet">*</a></sup><sup class="ab"><a title="(bkz: çünkü aslıhan gürbüz aşkım bambaşka.s)" href="/?q=%c3%a7%c3%bcnk%c3%bc+asl%c4%b1han+g%c3%bcrb%c3%bcz+a%c5%9fk%c4%b1m+bamba%c5%9fka.s" data-query="çünkü aslıhan gürbüz aşkım bambaşka.s">*</a></sup> aslıhan, tülin,bade yardırırken gökçe bahadır'ın oyuncuğunun gerçek kesit seviyesinde kalması gece gece kahkaha attırdı.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>proje içinde hem kurgu hem reelde en zayıf halka gerçekten gökçe bahadır.
-- entry_name: |
-    olan biten
-  entry_id:  75894423
-  entry_writer: evangelos
-  entry_fav_count: 15
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yeter+amk">yeter amk</a>)<br/><br/>bu başlığı takip etmek zorunda olmamamız gerekiyor.
-- entry_name: |
-    15 nisan 2018 galatasaray medipol başakşehir maçı
-  entry_id:  75873954
-  entry_writer: solitary man
-  entry_fav_count: 15
-  entry_content: |
-    galatasaray'ın gençlerbirliği'ne yenilmesiyle önemi kat be kat artmış müsabaka. tahminim galatasaray önde bastırıp ilk 15 dakika bir gol bulur ancak başakşehir buna çok geçmeden cevap verir. abdullah avcı'nın emre kozunu oynamasıyla ortam iyice gerilir. ilk devre sonlarında çıkan kavga sonucu en az 2 kırmızı kart çıkar. başakşehir'den emre, galatasaray'dan belhanda atılır. ikinci yarı arda oyuna girer, seyirci iyice gerilir. arda'ya yapılan bir iki sert müdahale sonucu arda adamlığına yediremez müdahale eden'in (maicon) üzerine yürür. sonra millet bir anda birbirini ittirmeye başlar ve sarı kartlar havada uçuşur. son dakikalara berabere girilirse sinirine hakim olamayan maicon veya feghouli 2. sarı karttan atılır, taraftar sahaya iner istiklal marşı ve kapanış.<br/><br/>(bkz: <a class="b" href="/?q=bu+da+benim+hikayem">bu da benim hikayem</a>)
-- entry_name: |
-    osurarak ölen adam
-  entry_id:  75898709
-  entry_writer: rosi09
+    mehmet ayan
+  entry_id:  75872880
+  entry_writer: kirk himmet
   entry_fav_count: 13
   entry_content: |
-    insanın ölümüne bile saygımızın kalmadığı gerçeğini yüzümüze tokat gibi vuran elem verici başlık.
+    program yaptığı kanalın kapanmasının üzerinden 1 ay geçmiş olmasına rağmen hala bir yerlerde rezil olmaya devam eden gs'li.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/BesiktasOrdusu/status/983446359767437312?s=19" title="https://twitter.com/BesiktasOrdusu/status/983446359767437312?s=19">https://twitter.com/…status/983446359767437312?s=19</a>
 - entry_name: |
     kalben
   entry_id:  75895110
@@ -269,13 +255,6 @@ data:
   entry_content: |
     ekşi sözlük diye geldik <a class="b" href="/?q=beyaz+show">beyaz show</a> çıktı.<br/><br/>yarın da türkü söyleyen portakalcı çocuğu çağırın. vay delikanlı sözlük vaaaay...
 - entry_name: |
-    mehmet ayan
-  entry_id:  75872880
-  entry_writer: kirk himmet
-  entry_fav_count: 12
-  entry_content: |
-    program yaptığı kanalın kapanmasının üzerinden 1 ay geçmiş olmasına rağmen hala bir yerlerde rezil olmaya devam eden gs'li.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/BesiktasOrdusu/status/983446359767437312?s=19" title="https://twitter.com/BesiktasOrdusu/status/983446359767437312?s=19">https://twitter.com/…status/983446359767437312?s=19</a>
-- entry_name: |
     yakışıklı bir erkeğin şişman kızla sevgili olması
   entry_id:  75895038
   entry_writer: demesi kolay tabii
@@ -283,17 +262,24 @@ data:
   entry_content: |
     eğer sosyal baskı olmasa çok daha fazla tanıklık edebileceğimiz eylem. o kadar eminim ki bazı erkeklerin sırf şişmanım diye benden uzak durduğuna. kendini bile kandırıyor olabilir benden hoşlanmadığına dair, öyle keskindir bu şartlanmalar. oysa birazcık vücut dili bilen herhangi biri için her şey apaçık ortada!<br/><br/>rica etsem birazcık “sikicem elalemi de ne dediğini de” şeklinde takılır mısınız? çok farklı ve güzel deneyimler ortaya çıkacak; kafalar değişecek...<br/><br/>yakışıklı erkek: şişkolar da yiyebilir
 - entry_name: |
-    çiftlik bank'ın film oluyor
-  entry_id:  75894622
-  entry_writer: erkek geldi hanim
+    mark zuckerberg
+  entry_id:  75899075
+  entry_writer: achtundsiebzug
   entry_fav_count: 7
   entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcrk%c3%a7e+neydi+t%c3%bcrk%c3%a7e+emekti">türkçe neydi türkçe emekti</a>)
+    önünde bi halı olsa desenini milimetresine kadar ezberlerdi herhalde bugün.
+- entry_name: |
+    sakın ha klibi üzerine yazılan yüksek lisans tezi
+  entry_id:  75899358
+  entry_writer: lafalsamoneda
+  entry_fav_count: 6
+  entry_content: |
+    bilimsel ölçütlere uyularak yazıldıysa bence gayet güzel bir çalışmadır. bilim böyle yapılır. başkalarının saçma bulabileceği konuların da cesaretle üstüne giderek. yeter ki bilimsel yöntemden sapılmasın.
 - entry_name: |
     ford focus
   entry_id:  75890524
   entry_writer: bowersolufsen
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     yine arabadan anladığını sanan ama anlamayan bir millet konuşmaya başlamış. <br/><br/>7-8'' ekran çok küçükmüş, ulan internet kafeye mi gidiyorsun araba sürmeye mi? <br/><br/>tasarım kötüymüş, hyundai i20'ye güzel diyen bir ülke için boş laf. <br/><br/>ön ve yan ön tasarım direkt mustang vâri olmuş.<br/><br/>araç doğuş veya borusan elinde olsa rekor satar ama transit satmaktan başka vizyonu olmayan otosan bu aracı da trend x + beyaz + sedan olarak sabote eder.
 - entry_name: |
@@ -304,13 +290,6 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/XVfV7tUgwCc" title="https://youtu.be/XVfV7tUgwCc">post malone - rockstar ft 21 savage</a>
 - entry_name: |
-    geceleri uyutmayan şeyler
-  entry_id:  75880419
-  entry_writer: cok guluyorum bunlara
-  entry_fav_count: 3
-  entry_content: |
-    kendisi oğlum olur.<br/><br/>diş çıkarıyor sanıyorum ve kurulmuş gibi saat başı uyanıyor.
-- entry_name: |
     düşün ki o bunu okuyor
   entry_id:  75873844
   entry_writer: ipoker
@@ -318,26 +297,40 @@ data:
   entry_content: |
     sana ne desem boş, bunu okusan da anlamayacaksın nasılsa.
 - entry_name: |
-    yatağa bağımlı necat'a yardım ediyoruz
-  entry_id:  75891066
-  entry_writer: ratm214
+    19 nisan 2018 fenerbahçe beşiktaş maçı
+  entry_id:  75886085
+  entry_writer: eksigozluk
+  entry_fav_count: 2
+  entry_content: |
+    beşiktaş açısından; kafa tasında beyin taşıyan normal bir insan, bu maça q7, caner, tolgay hatta pepe gibi ateşli oyuncularla çıkmaz. kupa maçı için değmeyecek dinamitler içeren maç olacak. patlarsa lige de mal olur. <br/><br/>fenerbahçe açısından ise, hava yakalamak açısından kendi sahasında galibiyet anlamlı olacaktır. bu nedenle maça asılacaklardır.<br/><br/>bir beşiktaşlı olarak çok da umurumda olmayan maçtır.
+- entry_name: |
+    ufak tefek cinayetler
+  entry_id:  75899699
+  entry_writer: isolde
   entry_fav_count: 1
   entry_content: |
-    up
+    gökçe bahadır'ın merve'nin hayalindeki oya'yı normal oya'yı oynadığından çok daha iyi oynadığı dizi. gerçekten inanılmaz.
 - entry_name: |
-    vücut geliştirme
-  entry_id:  75892566
-  entry_writer: tireli efe
+    izmir ede demir çelik rezaleti
+  entry_id:  75895412
+  entry_writer: bilememben
   entry_fav_count: 1
   entry_content: |
-    burada yazanları okuyanlar vücut geliştirmenin bir "beslenme sporu" olduğunu sanacaklar.<br/><br/>işin özü "antrenman" dır gençler; o ağrıları acıları çekeceksiniz, gerisi teferruat.
+    maalesef türkiye’de çalışanların hakkını patrona karşı savunabilecek veya garanti altına alabilecek bir mekanizma yok.<br/><br/>(bkz: <a class="b" href="/?q=vatan+hastaneleri+grubu">vatan hastaneleri grubu</a>)<br/>(bkz: <a class="b" href="/?q=azmi+ofluo%c4%9flu">azmi ofluoğlu</a>)
 - entry_name: |
-    pasaportların nüfus müdürlüğünden alınması
-  entry_id:  75898602
-  entry_writer: kafeinn
+    10 nisan 2018 roma barcelona maçı
+  entry_id:  75899938
+  entry_writer: winstonsoft
+  entry_fav_count: 1
+  entry_content: |
+    su <a class="b" href="/?q=sergi+roberto">sergi roberto</a> barça da oynuyor ya arda yetenegine ihanetine doymasin aq.
+- entry_name: |
+    kitap bitmesin diye okumaya kıyamamak
+  entry_id:  75899901
+  entry_writer: sefiller8
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=n%c3%bcfus+m%c3%bcd%c3%bcrl%c3%bcklerinin+pasaport+vermeye+ba%c5%9flamas%c4%b1">nüfus müdürlüklerinin pasaport vermeye başlaması</a>)<br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)
+    yanından ayıramazsınız bir süre, yeni kitaplara da başlasanız ara ara döner bakarsınız. valla nereden baksan klinik bi durum aslında da ne yapacaksın, sevince böyle oluyor.
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  75899169
@@ -352,4 +345,11 @@ data:
   entry_fav_count: 0
   entry_content: |
     dershanenin yoklama fislerinde eşinizin adı yazıyor mu ? kayıtlı bulunduğu sınıf mevcudu kaç kişilik ve kaç kişi kayıtlı ? eğer o sınıfa eşinizin yerine kayıt almadilarsa sıkıntı olabilir ama eğer varsa o zaman kayıt zaten silinmiş demektir. <br/>ayrıca paranın iki yıl sonra istenmiş olması da iyi niyetli olunmadigina delalet eder.
+- entry_name: |
+    10 nisan 2018 lokomotiv kuban darüşşafaka maçı
+  entry_id:  75891472
+  entry_writer: phobian
+  entry_fav_count: 0
+  entry_content: |
+    <a class="b" href="/?q=kuban">kuban</a> salonuyla, ekibiyle, taraftarıyla, oyunuyla <a class="b" href="/?q=euroleague">euroleague</a>'e oldukça yakışacak bir takım.<br/><br/><a class="b" href="/?q=da%c3%a7ka">daçka</a> ise ne yazık ki o salon ve taraftara sahip değil. yine de oyun olarak tabii ki gergin'in efesi'nden, milano'dan vs. daha iyi.<br/><br/>ancak yine de kalbimden geçen takım daçka. türk takımı olmasının yanı sıra <a class="b" href="/?q=david+blatt">david blatt</a>'i euroleague'de görmek istiyorum. taraftarları az sayıda olsalar da sempatikler :) tek negatif yanları da takımlarında yok yere bulundurdukları g*ksenin'in çapsız kankisi.<br/><br/>çok ama çok zor maçlar olacak ama parçalayın şunları be<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: saçma ama güzel bir maç oldu. daçka, loko'nun 20 maçlık serisini bitirdi ve loko'ya eurocup'taki ilk yenilgisini tattırdı. wilbekin'in son saniye üçlüğüyle maç uzatmaya gitti.<br/><br/>uzatmalarda cummings'in çaldığı toplar ve loko'nun düşük atış yüzdesi sayesinde kazanan daçka oldu.<br/><br/>cummings: 19 sayı (%44) 8 ribaund 3 asist 3 top çalma (25 pir)<br/>wilbekin: 24 sayı (%38) 3 ribaund 5 asist 3 top kaybı (23 pir)
 ---
