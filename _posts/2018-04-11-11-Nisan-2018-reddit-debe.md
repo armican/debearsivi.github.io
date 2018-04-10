@@ -57,11 +57,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xrN7_0AjfUnUPFKiN-_7BqqeeM3q0SswmYl0miuGutM.jpg?s=727851ed5de527cdeb1133da985afb8c frameborder=0>
 - entry_name: |
-    Aww come here baby
-  entry_id: 8b0yj1
-  entry_content: |
-    <img src=https://i.redditmedia.com/wWnYs-Ro3USKjr83P9KybOJmFslLZczVnkOd9S8N2SI.png?s=3c35303f2b520f68a1b17c5edeab3fa3 frameborder=0>
-- entry_name: |
     Megathread: F.B.I. Raids Office of Trump’s Longtime Lawyer Michael Cohen
   entry_id: 8b1jtj
   entry_content: |
@@ -136,11 +131,6 @@ data:
   entry_id: 8b2nfu
   entry_content: |
     null
-- entry_name: |
-    We’ve become the very thing the original creators sought to destroy!
-  entry_id: 8b0ws3
-  entry_content: |
-    <img src=https://i.redditmedia.com/teBfnti-2FUtJaYcPWXDYG6jJJFGxmL27LKJ0R-9liM.jpg?s=a87a587e8fd1642c3f69cbe8e87ee1a8 frameborder=0>
 - entry_name: |
     Wait a second...
   entry_id: 8b2vvw
@@ -251,4 +241,14 @@ data:
   entry_id: 8b1lp5
   entry_content: |
     <img src=https://i.redditmedia.com/Fyv4EYOhK30zcRCtGPsoBxtUz_IzYF_-UmfZigGyukg.jpg?s=1ff8a73d9702e783d77db5f6bec5c709 frameborder=0>
+- entry_name: |
+    when my coworkers show me pictures of their kids that I don't care about
+  entry_id: 8b6ctz
+  entry_content: |
+    <iframe src=https://v.redd.it/x8i3tb9mw1r01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Mommy?
+  entry_id: 8b13ux
+  entry_content: |
+    <img src=https://i.redditmedia.com/XaBaB-4YFtgO6BgVB1zvNWkktciXIUzTBQbmDlfIm1g.jpg?s=997c0d5855d7730be5dfe41a504976e5 frameborder=0>
 ---
