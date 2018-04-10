@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WaTkdThHJ6qsEXhpdOV0q6tCgTnSPLkSpItHlQJE8a0.jpg?s=9c0caa5c34dfa92dd13b43f103fc8baf frameborder=0>
 - entry_name: |
-    F.B.I. Raids Office of Trump’s Longtime Lawyer Michael Cohen
-  entry_id: 8b1h7p
-  entry_content: |
-    <img src=https://i.redditmedia.com/id6-0QmZ7nUT-VNmDlx2jrgt84JQSXm_OGuY5PeLowY.jpg?s=ee1dd4f534b9f277a893267325d7a145 frameborder=0>
-- entry_name: |
     My friends and I were packing up from a camping trip, music was created, via bungee chord, and magic ensued...
   entry_id: 8b1osa
   entry_content: |
@@ -111,11 +106,6 @@ data:
   entry_id: 8b52dq
   entry_content: |
     <iframe src=https://v.redd.it/xsz630x7h0r01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    clickbait
-  entry_id: 8b1ih6
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/f4FuOi9rvKw?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Facebook
   entry_id: 8b1ova
@@ -251,4 +241,14 @@ data:
   entry_id: 8b6jm0
   entry_content: |
     <img src=https://i.redditmedia.com/uaCzZMXOfVByjb253a-xQmHHjTAffiEaZ-6tOHvoQME.jpg?s=78bfc7310c8a5e80f0d18c002e540cce frameborder=0>
+- entry_name: |
+    Schumer: It's time to vote on legislation protecting Mueller
+  entry_id: 8b8cdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/6M2FzGJHbTsdKk2sPoC82_1ip9y83918yP_57h2_d-M.jpg?s=9325ea0e8e61bbc29eb450caef1225a6 frameborder=0>
+- entry_name: |
+    Because y’all keep complaining...
+  entry_id: 8b1lp5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fyv4EYOhK30zcRCtGPsoBxtUz_IzYF_-UmfZigGyukg.jpg?s=1ff8a73d9702e783d77db5f6bec5c709 frameborder=0>
 ---
