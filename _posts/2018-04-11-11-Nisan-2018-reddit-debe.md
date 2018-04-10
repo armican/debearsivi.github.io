@@ -37,11 +37,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SsF4scV1NVoAsokQAUoXN2v_iwTvjrLwuJRz2a-bHA8.jpg?s=b41a0dbba51572910466dc31f5f5651e frameborder=0>
 - entry_name: |
-    TIL John Krasinski auditioned to be Captain America, but after putting on the costume said “I’m not Captain America”
-  entry_id: 8b0gs8
-  entry_content: |
-    <img src=https://i.redditmedia.com/k8DIppt0quzecFQPU81nkPqb3UzzR4GRPMmWZOZ_HTM.jpg?s=952cba291e843e7173fb385f7b7900f2 frameborder=0>
-- entry_name: |
     That time your dad takes you to a metallica concert and your favourite band member notices you.
   entry_id: 8b3ric
   entry_content: |
@@ -167,11 +162,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QT1P2tgmLyE4bvSaxhqYV1qByebtYfsJ6cs3IunIh9Y.png?s=911ad5fb8782a38eb9b31280c6f34ad4 frameborder=0>
 - entry_name: |
-    Heart surgeon after 23-hour long heart transplantation
-  entry_id: 8b0esa
-  entry_content: |
-    <img src=https://i.redditmedia.com/ep008H0_QgLvCqnA3EI9kgdMoDzVpj67S3JPtumq7ms.jpg?s=22e76605f37a1d24ad428c518695825d frameborder=0>
-- entry_name: |
     “Whatcha thinkin’ ‘bout?”
   entry_id: 8b6xf5
   entry_content: |
@@ -247,8 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HgRRtxV8ncuSJmrMNnubbTA2WyfnHnkUdkhvllViZZs.jpg?s=699733659715562045e99f7688850442 frameborder=0>
 - entry_name: |
-    Another British boy band.
-  entry_id: 8b0gs4
+    Baggage claim at the Honolulu Airport
+  entry_id: 8b6jzk
   entry_content: |
-    <img src=https://i.redditmedia.com/4g3DyKMy8KKZnQPB6XmekLsx1XL--0MK43f_RFy-NsY.jpg?s=a4dbe4a1b5e7e1d86b862c75a20005b4 frameborder=0>
+    <iframe src=https://v.redd.it/331qds8p42r01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Bharara: Raid approved by people Trump picked - CNN Video
+  entry_id: 8b6izd
+  entry_content: |
+    <img src=https://i.redditmedia.com/0RXI3mi7Ye9Jm9yud5rcPE_53idhA5w5oUguaadcBMw.jpg?s=efbc535420326c33d72c7de531e8c5fa frameborder=0>
+- entry_name: |
+    Because y’all keep complaining...
+  entry_id: 8b1lp5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fyv4EYOhK30zcRCtGPsoBxtUz_IzYF_-UmfZigGyukg.jpg?s=1ff8a73d9702e783d77db5f6bec5c709 frameborder=0>
 ---
