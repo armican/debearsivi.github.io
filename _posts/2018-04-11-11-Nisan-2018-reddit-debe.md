@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WaTkdThHJ6qsEXhpdOV0q6tCgTnSPLkSpItHlQJE8a0.jpg?s=9c0caa5c34dfa92dd13b43f103fc8baf frameborder=0>
 - entry_name: |
-    My friends and I were packing up from a camping trip, music was created, via bungee chord, and magic ensued...
-  entry_id: 8b1osa
-  entry_content: |
-    <iframe src=https://v.redd.it/rxaqagnszxq01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     I took that cute cat everyone likes and photoshopped him to where he belongs
   entry_id: 8b1vb4
   entry_content: |
@@ -101,11 +96,6 @@ data:
   entry_id: 8b6lg4
   entry_content: |
     <img src=https://i.redditmedia.com/ovZAqR8XMZyIbLb4oQBR8gntdgjAFtWamuoia4MTLmI.jpg?s=628c7c374f9edb9cafcf952ab99daa1a frameborder=0>
-- entry_name: |
-    Facebook
-  entry_id: 8b1ova
-  entry_content: |
-    <img src=https://i.redditmedia.com/KOrC1wUHK9wZK_o9PvfB240250XT3fsBLJjYJDd1FjE.jpg?s=d2ffdf95b8a323447878146d92ece146 frameborder=0>
 - entry_name: |
     This Hannity tweet from 2013
   entry_id: 8b3zm8
@@ -251,4 +241,14 @@ data:
   entry_id: 8b45xs
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/41VmKS-VGiA?feature=oembed&enablejsapi=1&enablejsapi=1&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Internet maturity is when you see someone else’s status of them having an awesome time and you say to yourself, “good for them.”
+  entry_id: 8b3s20
+  entry_content: |
+    null
+- entry_name: |
+    Japanese man, 112, recognised as world's oldest male
+  entry_id: 8b6j6i
+  entry_content: |
+    <img src=https://i.redditmedia.com/yAnkImNm9d_PLuPXfj892vIJxF5w_7o9qHX9v0hKock.jpg?s=b303114c1d16c9f4007aaea819f9744b frameborder=0>
 ---
