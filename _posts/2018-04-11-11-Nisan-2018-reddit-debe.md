@@ -112,11 +112,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xsz630x7h0r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    2meirl4meirl
-  entry_id: 8b0b86
-  entry_content: |
-    <img src=https://i.redditmedia.com/VR0Jr6B5sRhIRenHDhsIvNcW0qXV4_QmVPF8JOsAodg.jpg?s=b07ba3a4a7241f31baece1242bece293 frameborder=0>
-- entry_name: |
     Facebook
   entry_id: 8b1ova
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8b5qba
   entry_content: |
     <img src=https://i.redditmedia.com/HgRRtxV8ncuSJmrMNnubbTA2WyfnHnkUdkhvllViZZs.jpg?s=699733659715562045e99f7688850442 frameborder=0>
+- entry_name: |
+    Another British boy band.
+  entry_id: 8b0gs4
+  entry_content: |
+    <img src=https://i.redditmedia.com/4g3DyKMy8KKZnQPB6XmekLsx1XL--0MK43f_RFy-NsY.jpg?s=a4dbe4a1b5e7e1d86b862c75a20005b4 frameborder=0>
 ---
