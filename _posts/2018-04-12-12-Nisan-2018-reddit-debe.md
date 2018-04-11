@@ -78,6 +78,11 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAnxiousDenseBug&url=https%3A%2F%2Fgfycat.com%2FAnxiousDenseBug&image=https%3A%2F%2Fthumbs.gfycat.com%2FAnxiousDenseBug-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=304 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
+    While waiting at Kyoto Station this guy asked if I want to play two player Game Boy with him. 30 mins well spent.
+  entry_id: 8bheq8
+  entry_content: |
+    <img src=https://i.redditmedia.com/fAL9dnu98yhej-Ew7LWKhse5tOjYPlnnlC5d-k91a_I.jpg?s=32d55ccc97d42bea563414aec1c1850e frameborder=0>
+- entry_name: |
     CBS at its finest
   entry_id: 8bcp45
   entry_content: |
@@ -103,20 +108,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/37kpmx59i7r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    ‘Get ready Russia’: Trump announces Syrian missile strike on Twitter against ‘Gas Killing Animal’ Assad
+  entry_id: 8bg81l
+  entry_content: |
+    <img src=https://i.redditmedia.com/y-mRktO7sfs4OL8wm-kHGEwPfnidvW-wrx0CTMxJGiI.jpg?s=b2a8bf80ec50da7ef96c6a7f535b717d frameborder=0>
+- entry_name: |
+    I got what I needed. I'll meet you at the car
+  entry_id: 8bg67n
+  entry_content: |
+    <iframe src=https://v.redd.it/tso6grmuf9r01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Meirl
   entry_id: 8bd3pe
   entry_content: |
     <img src=https://i.redditmedia.com/EEWsM8R5gXnjfm2fI6tZWGv_lqzOjspXgsC2VYP2gmA.jpg?s=a8054dbcd2a228f89b6b774b84655749 frameborder=0>
 - entry_name: |
-    Hey guys I got a great new idea, that has totally never been thought of before
-  entry_id: 8b9wfs
+    Y'all have fun now
+  entry_id: 8bfg5j
   entry_content: |
-    <img src=https://i.redditmedia.com/OlmCOF0OGM-8CaIfyXcIxvkkxUNYClwdqOoQj9icgZI.jpg?s=b46f434c14160ea170ccaceb5e9285ea frameborder=0>
+    <img src=https://i.redditmedia.com/o6DLUGhgY6eH_y4IXf62lclDDzPBynnRUxiwfTEUjNI.jpg?s=0b8dec13d28484de0aab4d34b4edcc4d frameborder=0>
 - entry_name: |
-    ‘Get ready Russia’: Trump announces Syrian missile strike on Twitter against ‘Gas Killing Animal’ Assad
-  entry_id: 8bg81l
+    I too have a dream
+  entry_id: 8bgj14
   entry_content: |
-    <img src=https://i.redditmedia.com/y-mRktO7sfs4OL8wm-kHGEwPfnidvW-wrx0CTMxJGiI.jpg?s=b2a8bf80ec50da7ef96c6a7f535b717d frameborder=0>
+    <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
 - entry_name: |
     Trump Sought to Fire Mueller in December
   entry_id: 8bcc6d
@@ -128,40 +143,40 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Must always pet doggo no matter the situation
-  entry_id: 8ba7mf
-  entry_content: |
-    <img src=https://i.redditmedia.com/bsv7LG-k-agpsI2RWjr5HWd9Xt1-CX4XTSk9xe6ilNU.jpg?s=af7a54904a0aca4c8a9e84f2710ef6c2 frameborder=0>
-- entry_name: |
-    Y'all have fun now
-  entry_id: 8bfg5j
-  entry_content: |
-    <img src=https://i.redditmedia.com/o6DLUGhgY6eH_y4IXf62lclDDzPBynnRUxiwfTEUjNI.jpg?s=0b8dec13d28484de0aab4d34b4edcc4d frameborder=0>
-- entry_name: |
     Fear me!
   entry_id: 8bdjgz
   entry_content: |
     <iframe src=https://v.redd.it/s97l9uw9s6r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    I got what I needed. I'll meet you at the car
-  entry_id: 8bg67n
+    Must always pet doggo no matter the situation
+  entry_id: 8ba7mf
   entry_content: |
-    <iframe src=https://v.redd.it/tso6grmuf9r01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/bsv7LG-k-agpsI2RWjr5HWd9Xt1-CX4XTSk9xe6ilNU.jpg?s=af7a54904a0aca4c8a9e84f2710ef6c2 frameborder=0>
 - entry_name: |
     Zuckerberg gets Jebaited
   entry_id: 8bavyc
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DGorgeousFunnyNeanderthalBIRB%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FGorgeousFunnyNeanderthalBIRB&image=https%3A%2F%2Fclips-media-assets.twitch.tv%2F222842783-preview.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    My dad is a vet and caught this while on a call today
-  entry_id: 8bbfjj
+    Face swap
+  entry_id: 8bg78e
   entry_content: |
-    <iframe src=https://v.redd.it/pikfpnvmc5r01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/e6kqc_AqIIuNODkPTy5OyVXNjAqS7Sh_nBjLCGPZlYc.jpg?s=c5d56a9a3d43b8ce4ff81f6ca6d1cc97 frameborder=0>
 - entry_name: |
     We need Bob
   entry_id: 8bcteq
   entry_content: |
     <img src=https://i.redditmedia.com/CzherCaM1rwjNCY544pjG9Eu0YRfXIFmQTY6KTfNp2U.jpg?s=1f891322132e029d00e68d413ae345f0 frameborder=0>
+- entry_name: |
+    My dad is a vet and caught this while on a call today
+  entry_id: 8bbfjj
+  entry_content: |
+    <iframe src=https://v.redd.it/pikfpnvmc5r01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    ⚪️
+  entry_id: 8bfv1r
+  entry_content: |
+    <img src=https://i.redditmedia.com/LzcB5JmhEMh40EQUKUh2xBwQLcagvcSz0qMbGnS1YdY.jpg?s=b0666b84526db1a207aac72033f1c8f9 frameborder=0>
 - entry_name: |
     The best way to go
   entry_id: 8bbr3j
@@ -178,25 +193,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8xvaDGw3OpLwwlDKbd2AyYB_ANBwMzGuAkjZ7KPODAk.jpg?s=c2d4996b25abe0e99ec38f4e548b39ff frameborder=0>
 - entry_name: |
-    ⚪️
-  entry_id: 8bfv1r
+    My girl Luna - Puppy to adult
+  entry_id: 8bgjto
   entry_content: |
-    <img src=https://i.redditmedia.com/LzcB5JmhEMh40EQUKUh2xBwQLcagvcSz0qMbGnS1YdY.jpg?s=b0666b84526db1a207aac72033f1c8f9 frameborder=0>
+    <img src=https://i.redditmedia.com/Lu_3rtmhSI8_TcYI1hKJlulcfVH-F1c1PbXNwiOGrk4.png?s=83f1b5613e84489ade9efa2f0afd04eb frameborder=0>
 - entry_name: |
     Prosthetic nose.
   entry_id: 8bbrsf
   entry_content: |
     <img src=https://i.redditmedia.com/aJIi3UWAP9tlwZKpjIBsnWD5er6WcfkH2eetGbEm3_k.gif?fm=jpg&s=3bcc4b5238382a4fc49ae2c752fc46ff frameborder=0>
 - entry_name: |
-    Get it right.
-  entry_id: 8bc7ok
-  entry_content: |
-    <img src=https://i.redditmedia.com/hQZ7p-EQR_6PEKuALCy8U9S10ml98SHa3hDSf1oSCsM.jpg?s=d824747fd01db6d13fb537c37cf72687 frameborder=0>
-- entry_name: |
     Im gonna fight these bikers wcgw.
   entry_id: 8bdrv0
   entry_content: |
     <iframe src=https://v.redd.it/kuvplcwzy6r01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Get it right.
+  entry_id: 8bc7ok
+  entry_content: |
+    <img src=https://i.redditmedia.com/hQZ7p-EQR_6PEKuALCy8U9S10ml98SHa3hDSf1oSCsM.jpg?s=d824747fd01db6d13fb537c37cf72687 frameborder=0>
 - entry_name: |
     PsBattle: ZUCKERBERG'S BOOSTER SEAT
   entry_id: 8bbqmy
@@ -213,40 +228,25 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/bRxhgxH6FUI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    Who Can relate?
+  entry_id: 8bfqd1
+  entry_content: |
+    <img src=https://i.redditmedia.com/Iygo5GcEGVqw4bJ6EAtPlHeQFMNNVfHtH7M7hP3q_hw.jpg?s=a3bbc96649bff685645c4b67405a30a8 frameborder=0>
+- entry_name: |
     LGBT workers are protected from workplace discrimination, Texas judge says in 'earth-shattering' new ruling | LGBT | Dallas News
   entry_id: 8bb80u
   entry_content: |
     <img src=https://i.redditmedia.com/JafBFzU-Bgk7HIh2x7FOShWHYuAeCgKLj0b9cjK8OXY.jpg?s=cb506e94f5c1be6de540c5094dbb6f10 frameborder=0>
-- entry_name: |
-    Catch It
-  entry_id: 8balqp
-  entry_content: |
-    <img src=https://i.redditmedia.com/5dzqxubVtllTXVSrF_P1_JnsxfQGkqioz3Fzr1pvvs4.jpg?s=778fcca8fceefd4514d63fc1333719ce frameborder=0>
-- entry_name: |
-    Face swap
-  entry_id: 8bg78e
-  entry_content: |
-    <img src=https://i.redditmedia.com/e6kqc_AqIIuNODkPTy5OyVXNjAqS7Sh_nBjLCGPZlYc.jpg?s=c5d56a9a3d43b8ce4ff81f6ca6d1cc97 frameborder=0>
 - entry_name: |
     'Am I in bath yet?'
   entry_id: 8bc2hu
   entry_content: |
     <iframe src=https://v.redd.it/ogx53otrq5r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I too have a dream
-  entry_id: 8bgj14
+    Catch It
+  entry_id: 8balqp
   entry_content: |
-    <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
-- entry_name: |
-    Who Can relate?
-  entry_id: 8bfqd1
-  entry_content: |
-    <img src=https://i.redditmedia.com/Iygo5GcEGVqw4bJ6EAtPlHeQFMNNVfHtH7M7hP3q_hw.jpg?s=a3bbc96649bff685645c4b67405a30a8 frameborder=0>
-- entry_name: |
-    After chopping potatoes, garlic, and parsley, this knife got KO’d by the butter.
-  entry_id: 8bceol
-  entry_content: |
-    <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
+    <img src=https://i.redditmedia.com/5dzqxubVtllTXVSrF_P1_JnsxfQGkqioz3Fzr1pvvs4.jpg?s=778fcca8fceefd4514d63fc1333719ce frameborder=0>
 - entry_name: |
   entry_id: 8bepka
   entry_content: |
