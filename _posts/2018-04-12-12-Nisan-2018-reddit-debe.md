@@ -38,16 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8Ji4fUAu6eQ4fuCvzFZVJPO1vJhkxUI4kg3TFwwhWuE.jpg?s=9a1b303cbf3a674424937f41ba6e5cd6 frameborder=0>
 - entry_name: |
-    Mark Zuckerbergs booster seat
-  entry_id: 8bavkn
-  entry_content: |
-    <img src=https://i.redditmedia.com/TcI8u8QKV6Ti_hm1IhiPBALHBSTunnVjhTEVGFlsyj4.jpg?s=18c8cb7a3848937cd7ef097fd6b89f86 frameborder=0>
-- entry_name: |
-    The most natural VR treadmill yet.
-  entry_id: 8bav2y
-  entry_content: |
-    <img src=https://i.redditmedia.com/aiVCoBrXSejNy6APFURV2RokecAyLHKoTQbdEohDMGg.gif?fm=jpg&s=059d35bf72faac01a232b82be1cf9058 frameborder=0>
-- entry_name: |
     A wholesome community
   entry_id: 8baytl
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8bb1fi
   entry_content: |
     <img src=https://i.redditmedia.com/8XVBA_hX55wyflJrG1dRNQqgMcotIngRvAB2FuM74ZA.jpg?s=64767acb695b4f7977d7306a8ada2f24 frameborder=0>
+- entry_name: |
+    Led Zeppelin in their private jet 'The Starship'. It has a functional fireplace in-built in it. 1975.
+  entry_id: 8bfzqo
+  entry_content: |
+    <img src=https://i.redditmedia.com/f7Xis6F_dCn9X1UKzELWXSzEfwIptEZUSqvlebs1hQw.jpg?s=dd4ee7a15cb32587baad6d866baedae1 frameborder=0>
+- entry_name: |
+    Louisiana teacher fired after mocking autistic student in audio recording during class
+  entry_id: 8bh3cj
+  entry_content: |
+    <img src=https://i.redditmedia.com/aUfAgT_QpjRu3ks-aEkBoeLyWj4R81GnurtESHgjP4c.jpg?s=1a44c5216b0e970750ac47da03eaebf9 frameborder=0>
 ---
