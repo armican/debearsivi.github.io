@@ -68,15 +68,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EqT-b8ycRjcXBdfIXzlJq-2vqGAJDHZwIXcQqQa3gRI.jpg?s=29653e4bca9c7d4be22da6800e7954d4 frameborder=0>
 - entry_name: |
-    TIL two of the founders of the punk band the Germs were classmates at an alternative high school where they were allowed to create their own class. They created a class for themselves called Fruit Eating in which they would go to a market, eat fruit for an hour, then return to school.
-  entry_id: 8ba77q
-  entry_content: |
-    <img src=https://i.redditmedia.com/rAYvwN9cyOVeZi8SV_NB6lMtHRrvs0YnF7JpYo-ZHwA.jpg?s=ad3d877bf9ec4b7cf5dcf9708835e27b frameborder=0>
-- entry_name: |
     This hotel shampoo assumes your theft
   entry_id: 8bdvs8
   entry_content: |
     <img src=https://i.redditmedia.com/0xb5Dk-8Hbnly8mJUU5AXQ4BH7BpKKrfTinPol4yX_8.jpg?s=a7d8fd638b9a3b9071e9ca0f763d1a3e frameborder=0>
+- entry_name: |
+    TIL two of the founders of the punk band the Germs were classmates at an alternative high school where they were allowed to create their own class. They created a class for themselves called Fruit Eating in which they would go to a market, eat fruit for an hour, then return to school.
+  entry_id: 8ba77q
+  entry_content: |
+    <img src=https://i.redditmedia.com/rAYvwN9cyOVeZi8SV_NB6lMtHRrvs0YnF7JpYo-ZHwA.jpg?s=ad3d877bf9ec4b7cf5dcf9708835e27b frameborder=0>
 - entry_name: |
     humans drink water, it's normal
   entry_id: 8bbt6p
@@ -98,35 +98,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iD--7uNjMLq39Scfq-0jpTultvE9FVrJW1JagYSxRMg.jpg?s=2e230767e223ca8752e156163b77ee83 frameborder=0>
 - entry_name: |
-    How the Bullet Time scene from The Matrix was made.
-  entry_id: 8bcntp
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPerfectFlippantKrill&url=https%3A%2F%2Fgfycat.com%2FPerfectFlippantKrill&image=https%3A%2F%2Fthumbs.gfycat.com%2FPerfectFlippantKrill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=450 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Found this cleaning my room
   entry_id: 8beiyi
   entry_content: |
     <img src=https://i.redditmedia.com/zynTmbsvZA-s5iDvL99XhktpZP78xhmQS12XpG2cjug.jpg?s=a8a1c14fbf67d6b05edaf22d0b35b26b frameborder=0>
+- entry_name: |
+    How the Bullet Time scene from The Matrix was made.
+  entry_id: 8bcntp
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPerfectFlippantKrill&url=https%3A%2F%2Fgfycat.com%2FPerfectFlippantKrill&image=https%3A%2F%2Fthumbs.gfycat.com%2FPerfectFlippantKrill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=450 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     First android on trial (2018)
   entry_id: 8bahdy
   entry_content: |
     <img src=https://i.redditmedia.com/UQsm_AfItTlYb2cICQs9agV8T1DjGprhEJAntks_ayE.jpg?s=e427a633de3c27fe47ece3b7b1fdf806 frameborder=0>
 - entry_name: |
-    Hey guys I got a great new idea, that has totally never been thought of before
-  entry_id: 8b9wfs
+    Didn't place first but had the most fun
+  entry_id: 8bee0i
   entry_content: |
-    <img src=https://i.redditmedia.com/OlmCOF0OGM-8CaIfyXcIxvkkxUNYClwdqOoQj9icgZI.jpg?s=b46f434c14160ea170ccaceb5e9285ea frameborder=0>
+    <iframe src=https://v.redd.it/37kpmx59i7r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Meirl
   entry_id: 8bd3pe
   entry_content: |
     <img src=https://i.redditmedia.com/EEWsM8R5gXnjfm2fI6tZWGv_lqzOjspXgsC2VYP2gmA.jpg?s=a8054dbcd2a228f89b6b774b84655749 frameborder=0>
 - entry_name: |
-    Didn't place first but had the most fun
-  entry_id: 8bee0i
+    Hey guys I got a great new idea, that has totally never been thought of before
+  entry_id: 8b9wfs
   entry_content: |
-    <iframe src=https://v.redd.it/37kpmx59i7r01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/OlmCOF0OGM-8CaIfyXcIxvkkxUNYClwdqOoQj9icgZI.jpg?s=b46f434c14160ea170ccaceb5e9285ea frameborder=0>
+- entry_name: |
+    ‘Get ready Russia’: Trump announces Syrian missile strike on Twitter against ‘Gas Killing Animal’ Assad
+  entry_id: 8bg81l
+  entry_content: |
+    <img src=https://i.redditmedia.com/y-mRktO7sfs4OL8wm-kHGEwPfnidvW-wrx0CTMxJGiI.jpg?s=b2a8bf80ec50da7ef96c6a7f535b717d frameborder=0>
 - entry_name: |
     Trump Sought to Fire Mueller in December
   entry_id: 8bcc6d
@@ -143,50 +148,55 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bsv7LG-k-agpsI2RWjr5HWd9Xt1-CX4XTSk9xe6ilNU.jpg?s=af7a54904a0aca4c8a9e84f2710ef6c2 frameborder=0>
 - entry_name: |
-    Zuckerberg gets Jebaited
-  entry_id: 8bavyc
+    Y'all have fun now
+  entry_id: 8bfg5j
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DGorgeousFunnyNeanderthalBIRB%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FGorgeousFunnyNeanderthalBIRB&image=https%3A%2F%2Fclips-media-assets.twitch.tv%2F222842783-preview.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/o6DLUGhgY6eH_y4IXf62lclDDzPBynnRUxiwfTEUjNI.jpg?s=0b8dec13d28484de0aab4d34b4edcc4d frameborder=0>
 - entry_name: |
     Fear me!
   entry_id: 8bdjgz
   entry_content: |
     <iframe src=https://v.redd.it/s97l9uw9s6r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    I got what I needed. I'll meet you at the car
+  entry_id: 8bg67n
+  entry_content: |
+    <iframe src=https://v.redd.it/tso6grmuf9r01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Zuckerberg gets Jebaited
+  entry_id: 8bavyc
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DGorgeousFunnyNeanderthalBIRB%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FGorgeousFunnyNeanderthalBIRB&image=https%3A%2F%2Fclips-media-assets.twitch.tv%2F222842783-preview.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     My dad is a vet and caught this while on a call today
   entry_id: 8bbfjj
   entry_content: |
     <iframe src=https://v.redd.it/pikfpnvmc5r01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    The best way to go
-  entry_id: 8bbr3j
-  entry_content: |
-    <img src=https://i.redditmedia.com/oLOKSU870N4T9ztH1Hc-RpcO70w5xP3OOV7k5_3O7Tk.jpg?s=eccaa6dd7d544afcdd4956658023b191 frameborder=0>
 - entry_name: |
     We need Bob
   entry_id: 8bcteq
   entry_content: |
     <img src=https://i.redditmedia.com/CzherCaM1rwjNCY544pjG9Eu0YRfXIFmQTY6KTfNp2U.jpg?s=1f891322132e029d00e68d413ae345f0 frameborder=0>
 - entry_name: |
+    The best way to go
+  entry_id: 8bbr3j
+  entry_content: |
+    <img src=https://i.redditmedia.com/oLOKSU870N4T9ztH1Hc-RpcO70w5xP3OOV7k5_3O7Tk.jpg?s=eccaa6dd7d544afcdd4956658023b191 frameborder=0>
+- entry_name: |
     A man knocks on the door and asks the woman  Do you have a vagina? 
   entry_id: 8bamjy
   entry_content: |
     null
-- entry_name: |
-    ‘Get ready Russia’: Trump announces Syrian missile strike on Twitter against ‘Gas Killing Animal’ Assad
-  entry_id: 8bg81l
-  entry_content: |
-    <img src=https://i.redditmedia.com/y-mRktO7sfs4OL8wm-kHGEwPfnidvW-wrx0CTMxJGiI.jpg?s=b2a8bf80ec50da7ef96c6a7f535b717d frameborder=0>
 - entry_name: |
     I think I’ve hit my peak
   entry_id: 8bcsl3
   entry_content: |
     <img src=https://i.redditmedia.com/8xvaDGw3OpLwwlDKbd2AyYB_ANBwMzGuAkjZ7KPODAk.jpg?s=c2d4996b25abe0e99ec38f4e548b39ff frameborder=0>
 - entry_name: |
-    Y'all have fun now
-  entry_id: 8bfg5j
+    ⚪️
+  entry_id: 8bfv1r
   entry_content: |
-    <img src=https://i.redditmedia.com/o6DLUGhgY6eH_y4IXf62lclDDzPBynnRUxiwfTEUjNI.jpg?s=0b8dec13d28484de0aab4d34b4edcc4d frameborder=0>
+    <img src=https://i.redditmedia.com/LzcB5JmhEMh40EQUKUh2xBwQLcagvcSz0qMbGnS1YdY.jpg?s=b0666b84526db1a207aac72033f1c8f9 frameborder=0>
 - entry_name: |
     Prosthetic nose.
   entry_id: 8bbrsf
@@ -203,53 +213,43 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/kuvplcwzy6r01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Legal marijuana is set to hit $75 billion in sales by 2030, according to a note from analysts at the investment bank Cowen. Weed is already putting pressure on alcohol sales. In states that have legalized marijuana, binge drinking rates are declining.
-  entry_id: 8bb89u
-  entry_content: |
-    <img src=https://i.redditmedia.com/mt9gwRDx3RcQi6mLpaO9XfALTqZyTZzrwQ_Cth3qEAA.jpg?s=92bd588a041f56612707f598423a72e7 frameborder=0>
-- entry_name: |
     PsBattle: ZUCKERBERG'S BOOSTER SEAT
   entry_id: 8bbqmy
   entry_content: |
     <img src=https://i.redditmedia.com/UX99yAcsCA1MjLt2vb61MIV38eCH5TOhdp4kpn0ImpA.jpg?s=4aef0006d0b8ed3b5f7bc93ada698b1e frameborder=0>
 - entry_name: |
-    LGBT workers are protected from workplace discrimination, Texas judge says in 'earth-shattering' new ruling | LGBT | Dallas News
-  entry_id: 8bb80u
+    Legal marijuana is set to hit $75 billion in sales by 2030, according to a note from analysts at the investment bank Cowen. Weed is already putting pressure on alcohol sales. In states that have legalized marijuana, binge drinking rates are declining.
+  entry_id: 8bb89u
   entry_content: |
-    <img src=https://i.redditmedia.com/JafBFzU-Bgk7HIh2x7FOShWHYuAeCgKLj0b9cjK8OXY.jpg?s=cb506e94f5c1be6de540c5094dbb6f10 frameborder=0>
+    <img src=https://i.redditmedia.com/mt9gwRDx3RcQi6mLpaO9XfALTqZyTZzrwQ_Cth3qEAA.jpg?s=92bd588a041f56612707f598423a72e7 frameborder=0>
 - entry_name: |
     Guy rewires Amazon Alexa to a wall fish
   entry_id: 8bak2x
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/bRxhgxH6FUI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    LGBT workers are protected from workplace discrimination, Texas judge says in 'earth-shattering' new ruling | LGBT | Dallas News
+  entry_id: 8bb80u
+  entry_content: |
+    <img src=https://i.redditmedia.com/JafBFzU-Bgk7HIh2x7FOShWHYuAeCgKLj0b9cjK8OXY.jpg?s=cb506e94f5c1be6de540c5094dbb6f10 frameborder=0>
+- entry_name: |
     Catch It
   entry_id: 8balqp
   entry_content: |
     <img src=https://i.redditmedia.com/5dzqxubVtllTXVSrF_P1_JnsxfQGkqioz3Fzr1pvvs4.jpg?s=778fcca8fceefd4514d63fc1333719ce frameborder=0>
+- entry_name: |
+    Face swap
+  entry_id: 8bg78e
+  entry_content: |
+    <img src=https://i.redditmedia.com/e6kqc_AqIIuNODkPTy5OyVXNjAqS7Sh_nBjLCGPZlYc.jpg?s=c5d56a9a3d43b8ce4ff81f6ca6d1cc97 frameborder=0>
 - entry_name: |
     'Am I in bath yet?'
   entry_id: 8bc2hu
   entry_content: |
     <iframe src=https://v.redd.it/ogx53otrq5r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    ⚪️
-  entry_id: 8bfv1r
+    I too have a dream
+  entry_id: 8bgj14
   entry_content: |
-    <img src=https://i.redditmedia.com/LzcB5JmhEMh40EQUKUh2xBwQLcagvcSz0qMbGnS1YdY.jpg?s=b0666b84526db1a207aac72033f1c8f9 frameborder=0>
-- entry_name: |
-    When you set a goal for your neural network, and it *technically* has the correct output.
-  entry_id: 8bcpmx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGoodnaturedSnoopyHellbender&url=https%3A%2F%2Fgfycat.com%2FGoodnaturedSnoopyHellbender&image=https%3A%2F%2Fthumbs.gfycat.com%2FGoodnaturedSnoopyHellbender-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    2meirl4meirl
-  entry_id: 8bbr04
-  entry_content: |
-    <img src=https://i.redditmedia.com/I1ms7uvRO431e1XLLlLIx5V-G9KQIlFyk6ziWmGlr7c.jpg?s=3eaf678376f3e8595defec1cebe4d29e frameborder=0>
-- entry_name: |
-    After chopping potatoes, garlic, and parsley, this knife got KO’d by the butter.
-  entry_id: 8bceol
-  entry_content: |
-    <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
+    <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
 ---
