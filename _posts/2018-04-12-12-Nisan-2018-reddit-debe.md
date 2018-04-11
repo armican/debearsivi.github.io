@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xrfEfNhJqxIpwbYBURy5SP2KcMsJZngSIbS5x29njgE.jpg?s=79903a78771d024acfd3ff3de9bbeda2 frameborder=0>
 - entry_name: |
-    This meme isn’t fine as it is
-  entry_id: 8ba611
-  entry_content: |
-    <img src=https://i.redditmedia.com/yQDN7BowCLGG0OvjodP5V0HEqjcH_QXlZriK_A1JD20.jpg?s=204050a1812a867a74385bea0ff7e836 frameborder=0>
-- entry_name: |
     Police raid illegal rave inside abandoned Toys R Us
   entry_id: 8bdci4
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8bepka
   entry_content: |
     <img src=https://i.redditmedia.com/iFeqWy47iq5Gxty1_P8shUAbpDsKn0Ze87Erchqx4XY.jpg?s=e99b5721c7d833c513a4fa5f58d6f636 frameborder=0>
+- entry_name: |
+    After chopping potatoes, garlic, and parsley, this knife got KO’d by the butter.
+  entry_id: 8bceol
+  entry_content: |
+    <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
 ---
