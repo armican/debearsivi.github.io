@@ -78,11 +78,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAnxiousDenseBug&url=https%3A%2F%2Fgfycat.com%2FAnxiousDenseBug&image=https%3A%2F%2Fthumbs.gfycat.com%2FAnxiousDenseBug-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=304 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    One of the most accurate pie charts I've ever seen
-  entry_id: 8b9s45
-  entry_content: |
-    <img src=https://i.redditmedia.com/RBTefZ7DafjkdQ4451W4P5BH9fRW0W2qKevQtNLJeeg.jpg?s=f4629a6f2d69b6082ec24dbe5e1c696c frameborder=0>
-- entry_name: |
     CBS at its finest
   entry_id: 8bcp45
   entry_content: |
@@ -252,4 +247,8 @@ data:
   entry_id: 8bceol
   entry_content: |
     <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
+- entry_name: |
+  entry_id: 8bepka
+  entry_content: |
+    <img src=https://i.redditmedia.com/iFeqWy47iq5Gxty1_P8shUAbpDsKn0Ze87Erchqx4XY.jpg?s=e99b5721c7d833c513a4fa5f58d6f636 frameborder=0>
 ---
