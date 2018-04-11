@@ -3,11 +3,6 @@ layout: post
 title: 12 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    Mark Zuckerbot at his congress hearing
-  entry_id: 8bb5r8
-  entry_content: |
-    <iframe src=https://v.redd.it/7p5lben475r01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Lt. Commander Zuck in court after his plan to study humans in greater detail backfires
   entry_id: 8bep69
   entry_content: |
@@ -208,11 +203,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ogx53otrq5r01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    LGBT workers are protected from workplace discrimination, Texas judge says in 'earth-shattering' new ruling | LGBT | Dallas News
-  entry_id: 8bb80u
-  entry_content: |
-    <img src=https://i.redditmedia.com/JafBFzU-Bgk7HIh2x7FOShWHYuAeCgKLj0b9cjK8OXY.jpg?s=cb506e94f5c1be6de540c5094dbb6f10 frameborder=0>
-- entry_name: |
   entry_id: 8bepka
   entry_content: |
     <img src=https://i.redditmedia.com/iFeqWy47iq5Gxty1_P8shUAbpDsKn0Ze87Erchqx4XY.jpg?s=e99b5721c7d833c513a4fa5f58d6f636 frameborder=0>
@@ -250,4 +240,14 @@ data:
   entry_id: 8bh0qj
   entry_content: |
     <img src=https://i.redditmedia.com/aB_iyOQYNmgr8TVynwwH43w_LlPoCsb8KG0Pc1BUEqY.jpg?s=8444179b1f83a66eb4175949fe92ee83 frameborder=0>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8bbr04
+  entry_content: |
+    <img src=https://i.redditmedia.com/I1ms7uvRO431e1XLLlLIx5V-G9KQIlFyk6ziWmGlr7c.jpg?s=3eaf678376f3e8595defec1cebe4d29e frameborder=0>
+- entry_name: |
+    Finally got to do something creative with my ugly shoulder scar thanks to Chris Earnhart at Arcade Tattoo, CA.
+  entry_id: 8bcc2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/M1UE8cWGykznFlb5wnJlxQi9wHapPXUXsFYXuSir0ag.jpg?s=22061fd67508ebecea176e0dd267f87f frameborder=0>
 ---
