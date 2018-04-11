@@ -23,35 +23,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jabvlO8mdodFmhDjHEP3L_3iZGHw9FQSXJ_hBfO42B4.jpg?s=2e4bc7303f81e0d59891462da11e3123 frameborder=0>
 - entry_name: |
-    Are You Smoking Weed?
-  entry_id: 8bf2of
-  entry_content: |
-    <iframe src=https://v.redd.it/ysbjantl78r01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     While waiting at Kyoto Station this guy asked if I want to play two player Game Boy with him. 30 mins well spent.
   entry_id: 8bheq8
   entry_content: |
     <img src=https://i.redditmedia.com/fAL9dnu98yhej-Ew7LWKhse5tOjYPlnnlC5d-k91a_I.jpg?s=32d55ccc97d42bea563414aec1c1850e frameborder=0>
+- entry_name: |
+    Are You Smoking Weed?
+  entry_id: 8bf2of
+  entry_content: |
+    <iframe src=https://v.redd.it/ysbjantl78r01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Police raid illegal rave inside abandoned Toys R Us
   entry_id: 8bdci4
   entry_content: |
     <img src=https://i.redditmedia.com/8Ji4fUAu6eQ4fuCvzFZVJPO1vJhkxUI4kg3TFwwhWuE.jpg?s=9a1b303cbf3a674424937f41ba6e5cd6 frameborder=0>
 - entry_name: |
-    A wholesome community
-  entry_id: 8baytl
-  entry_content: |
-    <img src=https://i.redditmedia.com/eRZ6iwHnL1LQ00MZLRCCIs46bEFVzimmauyGujo-_Bw.jpg?s=18657c8478eb293c7559ee95f51c2060 frameborder=0>
-- entry_name: |
     Flat Earthers never seem to appreciate how lucky we are that the Earth is horizontal rather than vertical
   entry_id: 8bcjcy
   entry_content: |
     null
 - entry_name: |
+    Hello Reddit world, I’m back! My name is Lexi, I’m 21 years old, and after 341 days of fighting I’m officially CANCER FREE!
+  entry_id: 8bigm3
+  entry_content: |
+    <img src=https://i.redditmedia.com/kNU9DPSHf5LTjx8rTaMdJxzc0PijLylDu-UYUpWi6DE.jpg?s=003e42aef1e22297eec360fa83d23bf3 frameborder=0>
+- entry_name: |
+    Shoutout to the PTA at my kids' elementary school for the most hilariously honest fundraiser I've ever seen.
+  entry_id: 8bh7wp
+  entry_content: |
+    <img src=https://i.redditmedia.com/k8WvmYLfEkU6H0WntlTSs6DvPxaNDy-V2jelXM9Oyh8.jpg?s=f1d07bcfe3ca778906c133cb2cd6b45e frameborder=0>
+- entry_name: |
     This hotel shampoo assumes your theft
   entry_id: 8bdvs8
   entry_content: |
     <img src=https://i.redditmedia.com/0xb5Dk-8Hbnly8mJUU5AXQ4BH7BpKKrfTinPol4yX_8.jpg?s=a7d8fd638b9a3b9071e9ca0f763d1a3e frameborder=0>
+- entry_name: |
+    My girl Luna - Puppy to adult
+  entry_id: 8bgjto
+  entry_content: |
+    <img src=https://i.redditmedia.com/Lu_3rtmhSI8_TcYI1hKJlulcfVH-F1c1PbXNwiOGrk4.png?s=83f1b5613e84489ade9efa2f0afd04eb frameborder=0>
 - entry_name: |
     humans drink water, it's normal
   entry_id: 8bbt6p
@@ -68,40 +78,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5-D0SU9nbXZXyjcgvGVD3EpddpFVC9XYUexhkCcisig.jpg?s=9ac89be02602efd138fd37f476923d2f frameborder=0>
 - entry_name: |
+    I got what I needed. I'll meet you at the car
+  entry_id: 8bg67n
+  entry_content: |
+    <iframe src=https://v.redd.it/tso6grmuf9r01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I too have a dream
+  entry_id: 8bgj14
+  entry_content: |
+    <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
+- entry_name: |
     How the Bullet Time scene from The Matrix was made.
   entry_id: 8bcntp
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPerfectFlippantKrill&url=https%3A%2F%2Fgfycat.com%2FPerfectFlippantKrill&image=https%3A%2F%2Fthumbs.gfycat.com%2FPerfectFlippantKrill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=450 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    My girl Luna - Puppy to adult
-  entry_id: 8bgjto
-  entry_content: |
-    <img src=https://i.redditmedia.com/Lu_3rtmhSI8_TcYI1hKJlulcfVH-F1c1PbXNwiOGrk4.png?s=83f1b5613e84489ade9efa2f0afd04eb frameborder=0>
 - entry_name: |
     ‘Get ready Russia’: Trump announces Syrian missile strike on Twitter against ‘Gas Killing Animal’ Assad
   entry_id: 8bg81l
   entry_content: |
     <img src=https://i.redditmedia.com/y-mRktO7sfs4OL8wm-kHGEwPfnidvW-wrx0CTMxJGiI.jpg?s=b2a8bf80ec50da7ef96c6a7f535b717d frameborder=0>
 - entry_name: |
-    I got what I needed. I'll meet you at the car
-  entry_id: 8bg67n
-  entry_content: |
-    <iframe src=https://v.redd.it/tso6grmuf9r01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Didn't place first but had the most fun
   entry_id: 8bee0i
   entry_content: |
     <iframe src=https://v.redd.it/37kpmx59i7r01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Shoutout to the PTA at my kids' elementary school for the most hilariously honest fundraiser I've ever seen.
-  entry_id: 8bh7wp
-  entry_content: |
-    <img src=https://i.redditmedia.com/k8WvmYLfEkU6H0WntlTSs6DvPxaNDy-V2jelXM9Oyh8.jpg?s=f1d07bcfe3ca778906c133cb2cd6b45e frameborder=0>
-- entry_name: |
-    I too have a dream
-  entry_id: 8bgj14
-  entry_content: |
-    <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
 - entry_name: |
     Meirl
   entry_id: 8bd3pe
@@ -113,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/o6DLUGhgY6eH_y4IXf62lclDDzPBynnRUxiwfTEUjNI.jpg?s=0b8dec13d28484de0aab4d34b4edcc4d frameborder=0>
 - entry_name: |
-    Fear me!
-  entry_id: 8bdjgz
-  entry_content: |
-    <iframe src=https://v.redd.it/s97l9uw9s6r01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     ⚪️
   entry_id: 8bfv1r
   entry_content: |
@@ -128,35 +123,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/e6kqc_AqIIuNODkPTy5OyVXNjAqS7Sh_nBjLCGPZlYc.jpg?s=c5d56a9a3d43b8ce4ff81f6ca6d1cc97 frameborder=0>
 - entry_name: |
-    Trump Sought to Fire Mueller in December
-  entry_id: 8bcc6d
+    Fear me!
+  entry_id: 8bdjgz
   entry_content: |
-    <img src=https://i.redditmedia.com/NmhtBpe-GHKqFUIUSqDoP93o1HihyNWj8LR8Q5_0n4g.jpg?s=c46d82f988f63299150b3ef9cccbb331 frameborder=0>
+    <iframe src=https://v.redd.it/s97l9uw9s6r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     FTC Says 'Warranty Void If Removed' Stickers Are Bullshit, Warns Manufacturers - Federal law says you can repair your own things, and manufacturers cannot force you to use their own repair services.
   entry_id: 8bba32
   entry_content: |
     null
 - entry_name: |
+    Trump Sought to Fire Mueller in December
+  entry_id: 8bcc6d
+  entry_content: |
+    <img src=https://i.redditmedia.com/NmhtBpe-GHKqFUIUSqDoP93o1HihyNWj8LR8Q5_0n4g.jpg?s=c46d82f988f63299150b3ef9cccbb331 frameborder=0>
+- entry_name: |
     We need Bob
   entry_id: 8bcteq
   entry_content: |
     <img src=https://i.redditmedia.com/CzherCaM1rwjNCY544pjG9Eu0YRfXIFmQTY6KTfNp2U.jpg?s=1f891322132e029d00e68d413ae345f0 frameborder=0>
 - entry_name: |
-    Zuckerberg gets Jebaited
-  entry_id: 8bavyc
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DGorgeousFunnyNeanderthalBIRB%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FGorgeousFunnyNeanderthalBIRB&image=https%3A%2F%2Fclips-media-assets.twitch.tv%2F222842783-preview.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     My dad is a vet and caught this while on a call today
   entry_id: 8bbfjj
   entry_content: |
     <iframe src=https://v.redd.it/pikfpnvmc5r01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Hello Reddit world, I’m back! My name is Lexi, I’m 21 years old, and after 341 days of fighting I’m officially CANCER FREE!
-  entry_id: 8bigm3
-  entry_content: |
-    <img src=https://i.redditmedia.com/kNU9DPSHf5LTjx8rTaMdJxzc0PijLylDu-UYUpWi6DE.jpg?s=003e42aef1e22297eec360fa83d23bf3 frameborder=0>
 - entry_name: |
     The best way to go
   entry_id: 8bbr3j
@@ -167,6 +157,11 @@ data:
   entry_id: 8bcsl3
   entry_content: |
     <img src=https://i.redditmedia.com/8xvaDGw3OpLwwlDKbd2AyYB_ANBwMzGuAkjZ7KPODAk.jpg?s=c2d4996b25abe0e99ec38f4e548b39ff frameborder=0>
+- entry_name: |
+    Who Can relate?
+  entry_id: 8bfqd1
+  entry_content: |
+    <img src=https://i.redditmedia.com/Iygo5GcEGVqw4bJ6EAtPlHeQFMNNVfHtH7M7hP3q_hw.jpg?s=a3bbc96649bff685645c4b67405a30a8 frameborder=0>
 - entry_name: |
     Im gonna fight these bikers wcgw.
   entry_id: 8bdrv0
@@ -183,15 +178,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hQZ7p-EQR_6PEKuALCy8U9S10ml98SHa3hDSf1oSCsM.jpg?s=d824747fd01db6d13fb537c37cf72687 frameborder=0>
 - entry_name: |
-    Who Can relate?
-  entry_id: 8bfqd1
+    Paul “Mr. Responsible Balanced Budgets Guy” Ryan Created a Trillion-Dollar Deficit and Then Quit
+  entry_id: 8bhy8f
   entry_content: |
-    <img src=https://i.redditmedia.com/Iygo5GcEGVqw4bJ6EAtPlHeQFMNNVfHtH7M7hP3q_hw.jpg?s=a3bbc96649bff685645c4b67405a30a8 frameborder=0>
+    <img src=https://i.redditmedia.com/Bo5AZIOy8VJWoTbV6YLzKI8PrDpmWyFDRFDMPzlx2-g.jpg?s=bc8fa893bdef0aa2adbf37f8d507dc21 frameborder=0>
 - entry_name: |
     PsBattle: ZUCKERBERG'S BOOSTER SEAT
   entry_id: 8bbqmy
   entry_content: |
     <img src=https://i.redditmedia.com/UX99yAcsCA1MjLt2vb61MIV38eCH5TOhdp4kpn0ImpA.jpg?s=4aef0006d0b8ed3b5f7bc93ada698b1e frameborder=0>
+- entry_name: |
+    Delaying school start time can result in sustained benefits on sleep duration, daytime alertness, and mental well-being even within a culture where trading sleep for academic success is widespread, based on a study of 375 students in grades 7–10 from an all-girls’ secondary school in Singapore.
+  entry_id: 8bgafx
+  entry_content: |
+    <img src=https://i.redditmedia.com/sAfdQzGTbrUlmgJd3ve6P0kpKiIGTN_wEpiMP7YoI-I.jpg?s=0d8650460616bd47b0bfadc6245b2c1c frameborder=0>
+- entry_name: |
+    Louisiana teacher fired after mocking autistic student in audio recording during class
+  entry_id: 8bh3cj
+  entry_content: |
+    <img src=https://i.redditmedia.com/aUfAgT_QpjRu3ks-aEkBoeLyWj4R81GnurtESHgjP4c.jpg?s=1a44c5216b0e970750ac47da03eaebf9 frameborder=0>
 - entry_name: |
     Legal marijuana is set to hit $75 billion in sales by 2030, according to a note from analysts at the investment bank Cowen. Weed is already putting pressure on alcohol sales. In states that have legalized marijuana, binge drinking rates are declining.
   entry_id: 8bb89u
@@ -212,10 +217,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iFeqWy47iq5Gxty1_P8shUAbpDsKn0Ze87Erchqx4XY.jpg?s=e99b5721c7d833c513a4fa5f58d6f636 frameborder=0>
 - entry_name: |
-    Delaying school start time can result in sustained benefits on sleep duration, daytime alertness, and mental well-being even within a culture where trading sleep for academic success is widespread, based on a study of 375 students in grades 7–10 from an all-girls’ secondary school in Singapore.
-  entry_id: 8bgafx
+    Led Zeppelin in their private jet 'The Starship'. It has a functional fireplace in-built in it. 1975.
+  entry_id: 8bfzqo
   entry_content: |
-    <img src=https://i.redditmedia.com/sAfdQzGTbrUlmgJd3ve6P0kpKiIGTN_wEpiMP7YoI-I.jpg?s=0d8650460616bd47b0bfadc6245b2c1c frameborder=0>
+    <img src=https://i.redditmedia.com/f7Xis6F_dCn9X1UKzELWXSzEfwIptEZUSqvlebs1hQw.jpg?s=dd4ee7a15cb32587baad6d866baedae1 frameborder=0>
+- entry_name: |
+    It's not real.
+  entry_id: 8bgfci
+  entry_content: |
+    <iframe src=https://v.redd.it/mwj7ivbap9r01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     After chopping potatoes, garlic, and parsley, this knife got KO’d by the butter.
   entry_id: 8bceol
@@ -227,28 +237,17 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGoodnaturedSnoopyHellbender&url=https%3A%2F%2Fgfycat.com%2FGoodnaturedSnoopyHellbender&image=https%3A%2F%2Fthumbs.gfycat.com%2FGoodnaturedSnoopyHellbender-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    2meirl4meirl
-  entry_id: 8bbr04
+  entry_id: 8bge8p
   entry_content: |
-    <img src=https://i.redditmedia.com/I1ms7uvRO431e1XLLlLIx5V-G9KQIlFyk6ziWmGlr7c.jpg?s=3eaf678376f3e8595defec1cebe4d29e frameborder=0>
+    <iframe src=https://v.redd.it/brcnjeceo9r01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Finally got to do something creative with my ugly shoulder scar thanks to Chris Earnhart at Arcade Tattoo, CA.
-  entry_id: 8bcc2z
+    My wife, a Venezuelan smartass
+  entry_id: 8bi4jl
   entry_content: |
-    <img src=https://i.redditmedia.com/M1UE8cWGykznFlb5wnJlxQi9wHapPXUXsFYXuSir0ag.jpg?s=22061fd67508ebecea176e0dd267f87f frameborder=0>
+    <img src=https://i.redditmedia.com/1FKzjG-pWyjoh8IVaYpZqtQkXOtA6IDRnZ4HKJwuVWI.jpg?s=72319236c50f4623d62382b5f6ae7823 frameborder=0>
 - entry_name: |
-    “We’re letting them rest”
-  entry_id: 8bb1fi
+    Mark Zuckerberg has been apologizing for reckless privacy violations since he was a freshman - Enough is enough.
+  entry_id: 8bh0qj
   entry_content: |
-    <img src=https://i.redditmedia.com/8XVBA_hX55wyflJrG1dRNQqgMcotIngRvAB2FuM74ZA.jpg?s=64767acb695b4f7977d7306a8ada2f24 frameborder=0>
-- entry_name: |
-    Led Zeppelin in their private jet 'The Starship'. It has a functional fireplace in-built in it. 1975.
-  entry_id: 8bfzqo
-  entry_content: |
-    <img src=https://i.redditmedia.com/f7Xis6F_dCn9X1UKzELWXSzEfwIptEZUSqvlebs1hQw.jpg?s=dd4ee7a15cb32587baad6d866baedae1 frameborder=0>
-- entry_name: |
-    Louisiana teacher fired after mocking autistic student in audio recording during class
-  entry_id: 8bh3cj
-  entry_content: |
-    <img src=https://i.redditmedia.com/aUfAgT_QpjRu3ks-aEkBoeLyWj4R81GnurtESHgjP4c.jpg?s=1a44c5216b0e970750ac47da03eaebf9 frameborder=0>
+    <img src=https://i.redditmedia.com/aB_iyOQYNmgr8TVynwwH43w_LlPoCsb8KG0Pc1BUEqY.jpg?s=8444179b1f83a66eb4175949fe92ee83 frameborder=0>
 ---
