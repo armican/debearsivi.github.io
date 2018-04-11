@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0xb5Dk-8Hbnly8mJUU5AXQ4BH7BpKKrfTinPol4yX_8.jpg?s=a7d8fd638b9a3b9071e9ca0f763d1a3e frameborder=0>
 - entry_name: |
-    TIL two of the founders of the punk band the Germs were classmates at an alternative high school where they were allowed to create their own class. They created a class for themselves called Fruit Eating in which they would go to a market, eat fruit for an hour, then return to school.
-  entry_id: 8ba77q
-  entry_content: |
-    <img src=https://i.redditmedia.com/rAYvwN9cyOVeZi8SV_NB6lMtHRrvs0YnF7JpYo-ZHwA.jpg?s=ad3d877bf9ec4b7cf5dcf9708835e27b frameborder=0>
-- entry_name: |
     humans drink water, it's normal
   entry_id: 8bbt6p
   entry_content: |
@@ -142,11 +137,6 @@ data:
   entry_id: 8bdjgz
   entry_content: |
     <iframe src=https://v.redd.it/s97l9uw9s6r01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Must always pet doggo no matter the situation
-  entry_id: 8ba7mf
-  entry_content: |
-    <img src=https://i.redditmedia.com/bsv7LG-k-agpsI2RWjr5HWd9Xt1-CX4XTSk9xe6ilNU.jpg?s=af7a54904a0aca4c8a9e84f2710ef6c2 frameborder=0>
 - entry_name: |
     Zuckerberg gets Jebaited
   entry_id: 8bavyc
@@ -251,4 +241,14 @@ data:
   entry_id: 8bceol
   entry_content: |
     <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
+- entry_name: |
+    When you set a goal for your neural network, and it *technically* has the correct output.
+  entry_id: 8bcpmx
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGoodnaturedSnoopyHellbender&url=https%3A%2F%2Fgfycat.com%2FGoodnaturedSnoopyHellbender&image=https%3A%2F%2Fthumbs.gfycat.com%2FGoodnaturedSnoopyHellbender-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8bbr04
+  entry_content: |
+    <img src=https://i.redditmedia.com/I1ms7uvRO431e1XLLlLIx5V-G9KQIlFyk6ziWmGlr7c.jpg?s=3eaf678376f3e8595defec1cebe4d29e frameborder=0>
 ---
