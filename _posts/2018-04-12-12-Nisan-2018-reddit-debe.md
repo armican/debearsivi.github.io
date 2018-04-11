@@ -63,11 +63,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Sweden confirmed they actually have a sense of humor
-  entry_id: 8b9lg0
-  entry_content: |
-    <img src=https://i.redditmedia.com/EqT-b8ycRjcXBdfIXzlJq-2vqGAJDHZwIXcQqQa3gRI.jpg?s=29653e4bca9c7d4be22da6800e7954d4 frameborder=0>
-- entry_name: |
     This hotel shampoo assumes your theft
   entry_id: 8bdvs8
   entry_content: |
@@ -92,11 +87,6 @@ data:
   entry_id: 8bcp45
   entry_content: |
     <img src=https://i.redditmedia.com/5-D0SU9nbXZXyjcgvGVD3EpddpFVC9XYUexhkCcisig.jpg?s=9ac89be02602efd138fd37f476923d2f frameborder=0>
-- entry_name: |
-    Drunk tourist accidentally climbs mountain while trying to get back to his hotel
-  entry_id: 8b9jfv
-  entry_content: |
-    <img src=https://i.redditmedia.com/iD--7uNjMLq39Scfq-0jpTultvE9FVrJW1JagYSxRMg.jpg?s=2e230767e223ca8752e156163b77ee83 frameborder=0>
 - entry_name: |
     Found this cleaning my room
   entry_id: 8beiyi
@@ -252,4 +242,14 @@ data:
   entry_id: 8bgj14
   entry_content: |
     <img src=https://i.redditmedia.com/0BZhLWZSfeEDidi1S9AlmDYbW4GgQPZ1QQnbIn2UBJk.jpg?s=16ffac2cd4c15fe69aa2fe28c92f2fc1 frameborder=0>
+- entry_name: |
+    Who Can relate?
+  entry_id: 8bfqd1
+  entry_content: |
+    <img src=https://i.redditmedia.com/Iygo5GcEGVqw4bJ6EAtPlHeQFMNNVfHtH7M7hP3q_hw.jpg?s=a3bbc96649bff685645c4b67405a30a8 frameborder=0>
+- entry_name: |
+    After chopping potatoes, garlic, and parsley, this knife got KO’d by the butter.
+  entry_id: 8bceol
+  entry_content: |
+    <img src=https://i.redditmedia.com/5wvV7UE9j_kRKazLEwH0PI0cvn-kAcwSktXm5m3MavQ.jpg?s=79cb71e151103865bd77372750efabce frameborder=0>
 ---
