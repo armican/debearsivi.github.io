@@ -173,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oLOKSU870N4T9ztH1Hc-RpcO70w5xP3OOV7k5_3O7Tk.jpg?s=eccaa6dd7d544afcdd4956658023b191 frameborder=0>
 - entry_name: |
-    A man knocks on the door and asks the woman  Do you have a vagina? 
-  entry_id: 8bamjy
-  entry_content: |
-    null
-- entry_name: |
     I think I’ve hit my peak
   entry_id: 8bcsl3
   entry_content: |
@@ -213,11 +208,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mt9gwRDx3RcQi6mLpaO9XfALTqZyTZzrwQ_Cth3qEAA.jpg?s=92bd588a041f56612707f598423a72e7 frameborder=0>
 - entry_name: |
-    Guy rewires Amazon Alexa to a wall fish
-  entry_id: 8bak2x
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/bRxhgxH6FUI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     'Am I in bath yet?'
   entry_id: 8bc2hu
   entry_content: |
@@ -227,11 +217,6 @@ data:
   entry_id: 8bb80u
   entry_content: |
     <img src=https://i.redditmedia.com/JafBFzU-Bgk7HIh2x7FOShWHYuAeCgKLj0b9cjK8OXY.jpg?s=cb506e94f5c1be6de540c5094dbb6f10 frameborder=0>
-- entry_name: |
-    Catch It
-  entry_id: 8balqp
-  entry_content: |
-    <img src=https://i.redditmedia.com/5dzqxubVtllTXVSrF_P1_JnsxfQGkqioz3Fzr1pvvs4.jpg?s=778fcca8fceefd4514d63fc1333719ce frameborder=0>
 - entry_name: |
   entry_id: 8bepka
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8bcpmx
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGoodnaturedSnoopyHellbender&url=https%3A%2F%2Fgfycat.com%2FGoodnaturedSnoopyHellbender&image=https%3A%2F%2Fthumbs.gfycat.com%2FGoodnaturedSnoopyHellbender-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8bbr04
+  entry_content: |
+    <img src=https://i.redditmedia.com/I1ms7uvRO431e1XLLlLIx5V-G9KQIlFyk6ziWmGlr7c.jpg?s=3eaf678376f3e8595defec1cebe4d29e frameborder=0>
+- entry_name: |
+    Finally got to do something creative with my ugly shoulder scar thanks to Chris Earnhart at Arcade Tattoo, CA.
+  entry_id: 8bcc2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/M1UE8cWGykznFlb5wnJlxQi9wHapPXUXsFYXuSir0ag.jpg?s=22061fd67508ebecea176e0dd267f87f frameborder=0>
+- entry_name: |
+    “We’re letting them rest”
+  entry_id: 8bb1fi
+  entry_content: |
+    <img src=https://i.redditmedia.com/8XVBA_hX55wyflJrG1dRNQqgMcotIngRvAB2FuM74ZA.jpg?s=64767acb695b4f7977d7306a8ada2f24 frameborder=0>
 ---
