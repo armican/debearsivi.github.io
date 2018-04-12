@@ -56,6 +56,7 @@
         document.cookie = 'onetime=true; expires:Fri, 8 Jul 2030 00:00:00 UTC; path=/';
       }
   }
+  $(".btn").click(function(){ if($(this).hasClass('btn-dark')) { $(this).removeClass('btn-dark'); $(this).addClass('btn-outline-dark');} else { $(this).removeClass('btn-outline-dark'); $(this).addClass('btn-dark'); } });
   // Scroll sync
   $(document).on( 'scroll', function() { 
     var target = document.getElementsByClassName("navigation_container")[0];
