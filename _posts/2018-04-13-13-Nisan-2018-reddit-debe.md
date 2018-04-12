@@ -157,11 +157,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The tragedy of r/prequelmemes
-  entry_id: 8bjedl
-  entry_content: |
-    <img src=https://i.redditmedia.com/hjFhCgVDtinJCanepjCZIzNaeNUv7bw5U2Pf_sVlRF4.jpg?s=5a4d4b8b4fbd5e9d6d6a4ef2b39cb35e frameborder=0>
-- entry_name: |
     My morning walk to uni (Edinburgh)
   entry_id: 8bk0r2
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8bl5r9
   entry_content: |
     <img src=https://i.redditmedia.com/SsP21kzFrvDMKhKUY1Q8KShEm5aC7uiL9PRdEXDX65I.jpg?s=d68eb2c4152924da0aec75e6021e1099 frameborder=0>
+- entry_name: |
+    In Mad Max Fury Road the praying hand gesture resembles a V8 engine
+  entry_id: 8bppvn
+  entry_content: |
+    <img src=https://i.redditmedia.com/4apbEejNU4V3TGROVxb2nJ8LLOHv9FCOGvBQpI7amD8.png?s=f5f8f35e74f5fbc4c153aa7073ef42c0 frameborder=0>
 ---
