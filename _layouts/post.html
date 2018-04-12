@@ -48,6 +48,7 @@ layout: default
 
 {% if page.title contains "Ekşi Sözlük" %}
 <div class="d-none d-xl-block col-xl-2 bd-toc">
+<div name="filters">
     
 <button onclick="$('div[name=anket]').parent().toggle()" type="button" class="mb-1 mt-1 btn btn-dark">#anket</button><br>
 <button onclick="$('div[name=bilim]').parent().toggle()" type="button" class="mb-1 mt-1 btn btn-dark">#bilim</button><br>
@@ -77,6 +78,7 @@ layout: default
 <button onclick="$('div[name=tv]').parent().toggle()" type="button" class="mb-1 mt-1 btn btn-dark">#tv</button><br>
 <button onclick="$('div[name=yeme-içme]').parent().toggle()" type="button" class="mb-1 mt-1 btn btn-dark">#yeme-içme</button>
 
+</div>
 </div>
 {% endif %}
 
