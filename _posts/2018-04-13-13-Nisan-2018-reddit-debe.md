@@ -3,11 +3,6 @@ layout: post
 title: 13 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    TIL when pimps get arrested, their cash can legally be confiscated but not their jewelry. This is why pimps wear lots of jewelry so that they can re-pawn it for bail money.
-  entry_id: 8bjxp6
-  entry_content: |
-    <img src=https://i.redditmedia.com/MBc6Y8eS5FIwSM66DUC5LdDbXeksKo9q7JWG1xetayQ.jpg?s=3cbe88d55fa0f8625970ac8dbaf8372f frameborder=0>
-- entry_name: |
     Non-profit’s $300 hepatitis C cure as effective as $84,000 alternative
   entry_id: 8bo4l5
   entry_content: |
@@ -52,11 +47,6 @@ data:
   entry_id: 8bladr
   entry_content: |
     <iframe src=https://v.redd.it/4oey1qk6xcr01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    What is your go-to never-fail joke?
-  entry_id: 8bjxwe
-  entry_content: |
-    null
 - entry_name: |
     It is concerning when Zuckerbots wax figure looks more human than he does.
   entry_id: 8bq9kb
@@ -246,8 +236,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bajWU6sTOrii9KTm94IdlbvYOcmxIy-iNcTJnBnMyVM.jpg?s=792066f14df14f57a59c6bed60ea6c7f frameborder=0>
 - entry_name: |
-    Bye, Felicia
-  entry_id: 8bjvlt
+    The Inner Machinations Of My Mind Are An Enigma
+  entry_id: 8blex4
   entry_content: |
-    <img src=https://i.redditmedia.com/wKcrpJrM4BnI_tw8auSYxMFxwGqrw8t6x8vzJEpimSI.jpg?s=44929c96f1713c76902e3b660e3f8a07 frameborder=0>
+    <img src=https://i.redditmedia.com/-XLH1mbYs514EO6pRZqVq_-ZUk9EDaym8xGuVSj-6Yg.jpg?s=3b35daa88fccf6eb029ee8e023f627c0 frameborder=0>
+- entry_name: |
+    Trump warned not to fire Mueller by former US ethics chief: 'Our forefathers were smarter than you and they planned for you'
+  entry_id: 8boxsd
+  entry_content: |
+    <img src=https://i.redditmedia.com/ix-_T2o5R_DGi7lhflbP56QWogws1KCzgEo9VsEAciE.jpg?s=95631c9befb4b0106d2f6c8845c7f04b frameborder=0>
+- entry_name: |
+    Throwing Sprite in the middle of the road... wCGW?
+  entry_id: 8blzwm
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGlossyUnselfishAcaciarat&url=https%3A%2F%2Fgfycat.com%2FGlossyUnselfishAcaciarat&image=https%3A%2F%2Fthumbs.gfycat.com%2FGlossyUnselfishAcaciarat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=542 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
