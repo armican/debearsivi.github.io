@@ -13,7 +13,7 @@ layout: default
   <a class="disable-href nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
   {% assign channels = i.entry_channels | split: ' ' %}
   {% for channel in channels %}
-  <div data-name="{{ j.tag }}"></div>
+  <div name="{{ channel.tag }}"></div>
   {% endfor %}
  </li>
  {% endfor %}
