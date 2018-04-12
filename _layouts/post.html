@@ -37,6 +37,10 @@ layout: default
             </span>
         </div>
       </li>
+      {% assign channels = i.entry_channels | split: ',' %}
+      {% for channel in channels %}
+      <div name="{{ channel }}"></div>
+      {% endfor %}
     </div>
  {% endfor %}
 </article>
