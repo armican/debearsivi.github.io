@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/YKWLqJoT7OKZCxlbAN0R444C7zhKIrbEl2gA9JPJUSk.jpg?s=8b6231f28af973a4350d2d40a563bb99 frameborder=0>
 - entry_name: |
-    Swiggity Swooty Please Look At My Booty
-  entry_id: 8bk5ws
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGiftedAcidicGerenuk&url=https%3A%2F%2Fgfycat.com%2FGiftedAcidicGerenuk&image=https%3A%2F%2Fthumbs.gfycat.com%2FGiftedAcidicGerenuk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Greed will be our downfall
   entry_id: 8bpnu8
   entry_content: |
@@ -38,6 +33,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LZZ0j4Oy9PgWvDhpmXRfAaVUEujZEABb1vwNQmmtqxw.jpg?s=5367591a5d6591f6eacbfc4182a866f8 frameborder=0>
 - entry_name: |
+    It’s Okay
+  entry_id: 8bq7xv
+  entry_content: |
+    <img src=https://i.redditmedia.com/Aat4FmQMstPtQUFgqjQrhuhrTJ1sL-KiBnCT8vMsVSw.jpg?s=70ebbd2e6b6c05df0f81cda652b80be3 frameborder=0>
+- entry_name: |
+    It is concerning when Zuckerbots wax figure looks more human than he does.
+  entry_id: 8bq9kb
+  entry_content: |
+    <img src=https://i.redditmedia.com/KL6f-x6tEZGl3arfvVgIIEsLxfYqtq6G9wlzN7UtRIQ.jpg?s=797c55233cb2393ad949b5f769706b88 frameborder=0>
+- entry_name: |
     TIL of a woman who has won the Lottery four times since 1993. She was outed as a PhD of Statistics from Standford University and had figured out the pseudo-number generator for the distribution of the winning tickets. She won a total of $17million, and has since moved to Las Vegas.
   entry_id: 8bnhde
   entry_content: |
@@ -48,15 +53,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4oey1qk6xcr01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    It is concerning when Zuckerbots wax figure looks more human than he does.
-  entry_id: 8bq9kb
-  entry_content: |
-    <img src=https://i.redditmedia.com/KL6f-x6tEZGl3arfvVgIIEsLxfYqtq6G9wlzN7UtRIQ.jpg?s=797c55233cb2393ad949b5f769706b88 frameborder=0>
-- entry_name: |
     I started a new job today and I am super nervous, but my new colleague Peanut is helping me a lot.
   entry_id: 8bpbq4
   entry_content: |
     <img src=https://i.redditmedia.com/ibScTa0SnMp-9fSOYy6MnY2UI8ZAKQXyG61QzW469oU.jpg?s=89b72ae3f31d2dce8af0c2a41ad2b957 frameborder=0>
+- entry_name: |
+    Maxed out charisma
+  entry_id: 8bpk22
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPointedBossyAnhinga&url=https%3A%2F%2Fgfycat.com%2Fpointedbossyanhinga&image=https%3A%2F%2Fthumbs.gfycat.com%2FPointedBossyAnhinga-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     This is how I met your mother kids
   entry_id: 8bnceg
@@ -68,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SttyDSCJZ_LKRzcdATzCKTKGyoKTbxFYFX3ISPEHU-Y.jpg?s=9770041f38b416ec5716c9bc259c9453 frameborder=0>
 - entry_name: |
-    It’s Okay
-  entry_id: 8bq7xv
-  entry_content: |
-    <img src=https://i.redditmedia.com/Aat4FmQMstPtQUFgqjQrhuhrTJ1sL-KiBnCT8vMsVSw.jpg?s=70ebbd2e6b6c05df0f81cda652b80be3 frameborder=0>
-- entry_name: |
     The Botafumeiro, a 262lb swinging incense burner that reaches speeds of 42mph and a height of 70ft.
   entry_id: 8bl3ew
   entry_content: |
@@ -82,11 +82,6 @@ data:
   entry_id: 8bleif
   entry_content: |
     <img src=https://i.redditmedia.com/VKHReJYfXLGMbI5QlW5s7XfTVt8aYj4TL8DY4h79VGY.jpg?s=de9f7e0821880678d7e898a67f4660bc frameborder=0>
-- entry_name: |
-    Maxed out charisma
-  entry_id: 8bpk22
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPointedBossyAnhinga&url=https%3A%2F%2Fgfycat.com%2Fpointedbossyanhinga&image=https%3A%2F%2Fthumbs.gfycat.com%2FPointedBossyAnhinga-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     I shall call him Chompy
   entry_id: 8bl2vj
@@ -103,39 +98,64 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/t84XdF68gZcqYQ40nuEHpPrfUpuvl6Bt6KzrN3PLYSE.gif?fm=jpg&s=2801644c31280a1ef89e34f3f5ad992d frameborder=0>
 - entry_name: |
-    John Krasinski Plans Sci-Fi Thriller 'Life on Mars' With 'Quiet Place' Team (Exclusive)
-  entry_id: 8blr2q
-  entry_content: |
-    <img src=https://i.redditmedia.com/vJeNPiy7uUjpN7Hzp5but4OlKeibroMf0uBRuKjqZZA.jpg?s=facd8d24274ccc0854a16e9dd14ae956 frameborder=0>
-- entry_name: |
     Dead sperm whale found with 30 kilograms of trash in digestive system
   entry_id: 8bopoi
   entry_content: |
     <img src=https://i.redditmedia.com/R9FOWrPAiVXzUDL5kDX72NWmHSx_MPAKkUzc3Z6dadE.jpg?s=ed816e0238ff7bbe5fea868b05f6715f frameborder=0>
 - entry_name: |
-    Let's never forget that Quizno's thought this was a good idea...
-  entry_id: 8blq64
+    John Krasinski Plans Sci-Fi Thriller 'Life on Mars' With 'Quiet Place' Team (Exclusive)
+  entry_id: 8blr2q
   entry_content: |
-    <iframe width=459 height=344 src=https://www.youtube.com/embed/aZrks-BPeLQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/vJeNPiy7uUjpN7Hzp5but4OlKeibroMf0uBRuKjqZZA.jpg?s=facd8d24274ccc0854a16e9dd14ae956 frameborder=0>
 - entry_name: |
     Since your internal voice doesn’t have to breath, you can scream internally forever
   entry_id: 8bosam
   entry_content: |
     null
 - entry_name: |
+    John F. Kennedy campaigning door-to-door in West Virginia in 1960.
+  entry_id: 8bq53r
+  entry_content: |
+    <img src=https://i.redditmedia.com/k3zFD7hCevC7DOji7Rz6Z7qYw5j2juAlHYWSY-nxQ1U.jpg?s=009100b52c2462562789610df92b4037 frameborder=0>
+- entry_name: |
   entry_id: 8blg7j
   entry_content: |
     <img src=https://i.redditmedia.com/PtzzXp4OiiJTxyUY5fW8eEXi91i1Nn8tWAUZNC5tU5A.jpg?s=2dfe2c5527435afd569181be5aaf7ea1 frameborder=0>
+- entry_name: |
+    Let's never forget that Quizno's thought this was a good idea...
+  entry_id: 8blq64
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/aZrks-BPeLQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     My frozen pizza had the cardboard in between the toppings and the crust
   entry_id: 8bl5iz
   entry_content: |
     <img src=https://i.redditmedia.com/EMTnMl96R7Mk_WFjgjyD02XSjJZsa8A9R21d2LXEOC0.jpg?s=b486a1a8b740e354716f31647aa258be frameborder=0>
 - entry_name: |
+    Gorilla see, gorilla do
+  entry_id: 8bqkde
+  entry_content: |
+    <iframe src=https://v.redd.it/nceidrw0nhr01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Keep your eyes on the road he said...
   entry_id: 8blb6m
   entry_content: |
     <iframe src=https://v.redd.it/aleykeerxcr01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    TIL that when Ready Player One was released, there was an easter egg in the book that lead readers to three challenges, including playing a new Richard Garriott game and setting a world record on a game for the Atari 2600. The winner of the challenges was awarded a vintage DeLorean.
+  entry_id: 8bphvr
+  entry_content: |
+    <img src=https://i.redditmedia.com/24ua6k9vdMT3oxU8XBURAxUj6Na3r6YSQQBNTJdmTFo.jpg?s=924ee88d885b639db46178d0ab4924b1 frameborder=0>
+- entry_name: |
+    You win some, you lose some...
+  entry_id: 8bqngw
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFearfulMeatyJuliabutterfly&url=https%3A%2F%2Fgfycat.com%2FFearfulMeatyJuliabutterfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FFearfulMeatyJuliabutterfly-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    LPT: if you want to divide something among two people (usually kids), you get one person to divide, and the other person gets first pick on which piece they want. Everyone wins and it ensures the person who divides is fair.
+  entry_id: 8bptol
+  entry_content: |
+    null
 - entry_name: |
     Recycling Hopes and Dreams
   entry_id: 8bl1th
@@ -146,11 +166,6 @@ data:
   entry_id: 8bp383
   entry_content: |
     <img src=https://i.redditmedia.com/ADc-ORdG_56YTL2sd0OaxMjQ5uWMb9DVkaQF67J5s6E.jpg?s=6ab8c54cf78bad82a2bb2888b000e8b6 frameborder=0>
-- entry_name: |
-    John F. Kennedy campaigning door-to-door in West Virginia in 1960.
-  entry_id: 8bq53r
-  entry_content: |
-    <img src=https://i.redditmedia.com/k3zFD7hCevC7DOji7Rz6Z7qYw5j2juAlHYWSY-nxQ1U.jpg?s=009100b52c2462562789610df92b4037 frameborder=0>
 - entry_name: |
     Australians of reddit, what is your great-great-great-great-grandparents crime?
   entry_id: 8bohcp
@@ -167,39 +182,34 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Eszo_oiVt12l6tk9jYRGslQ1Qnp8L-9Z2geU4xUW7B8.jpg?s=02bef6e720af8b77dc88fa74fc377469 frameborder=0>
 - entry_name: |
-    TIL that when Ready Player One was released, there was an easter egg in the book that lead readers to three challenges, including playing a new Richard Garriott game and setting a world record on a game for the Atari 2600. The winner of the challenges was awarded a vintage DeLorean.
-  entry_id: 8bphvr
+    Zuccbot.exe has stopped working
+  entry_id: 8bou97
   entry_content: |
-    <img src=https://i.redditmedia.com/24ua6k9vdMT3oxU8XBURAxUj6Na3r6YSQQBNTJdmTFo.jpg?s=924ee88d885b639db46178d0ab4924b1 frameborder=0>
+    <img src=https://i.redditmedia.com/q5aP0SI6hUkj0s_wAIuNB8zAdHppwgC8CqK4ZrwOauE.jpg?s=080d7bafc03ddabd4207a45b2a886b0c frameborder=0>
 - entry_name: |
     Smooth as fuck
   entry_id: 8bn72n
   entry_content: |
     <iframe src=https://v.redd.it/sj6wjfyycer01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Russian Trolls Denied Syrian Gas Attack—Before It Happened
+  entry_id: 8bqry5
+  entry_content: |
+    <img src=https://i.redditmedia.com/31CJ305LhY5ZwHkdgkVF98vrWa0aFJMrkowVW-_ToE0.jpg?s=de7a8bff95bb11f7a6b4e03476efae96 frameborder=0>
+- entry_name: |
   entry_id: 8blhk6
   entry_content: |
     <img src=https://i.redditmedia.com/TDolCz6x4Drf3IPr3v3WAX85pLQ1UwMmGv6Goep64lc.jpg?s=de1ef8a84f82924d25f9fcdd3ef8e7cf frameborder=0>
-- entry_name: |
-    LPT: if you want to divide something among two people (usually kids), you get one person to divide, and the other person gets first pick on which piece they want. Everyone wins and it ensures the person who divides is fair.
-  entry_id: 8bptol
-  entry_content: |
-    null
-- entry_name: |
-    Zuccbot.exe has stopped working
-  entry_id: 8bou97
-  entry_content: |
-    <img src=https://i.redditmedia.com/q5aP0SI6hUkj0s_wAIuNB8zAdHppwgC8CqK4ZrwOauE.jpg?s=080d7bafc03ddabd4207a45b2a886b0c frameborder=0>
-- entry_name: |
-    Girl accuses Indian minister of rape, father dies in police custody
-  entry_id: 8bklz9
-  entry_content: |
-    null
 - entry_name: |
     In Mad Max Fury Road the praying hand gesture resembles a V8 engine
   entry_id: 8bppvn
   entry_content: |
     <img src=https://i.redditmedia.com/4apbEejNU4V3TGROVxb2nJ8LLOHv9FCOGvBQpI7amD8.png?s=f5f8f35e74f5fbc4c153aa7073ef42c0 frameborder=0>
+- entry_name: |
+    Girl accuses Indian minister of rape, father dies in police custody
+  entry_id: 8bklz9
+  entry_content: |
+    null
 - entry_name: |
     When you work at Pizza Hut and it's pay day
   entry_id: 8bn111
@@ -211,43 +221,33 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Y4yxKx-rACGHjveSpdUmzuNvjZTqiv9SVXea3XCWSxc.png?s=e2b04da59089fc7edf0cb8afd25f594e frameborder=0>
 - entry_name: |
+    My daughter in a staring contest with LSU's Mike the Tiger.
+  entry_id: 8bqchu
+  entry_content: |
+    <img src=https://i.redditmedia.com/7_LIixfIYBKkCfO60l4jOPRXr_oFCxmWK7GC-XTx8lA.jpg?s=886f948f97796fa277cb0fdbf661d773 frameborder=0>
+- entry_name: |
     ayy why not both??
   entry_id: 8bl5r9
   entry_content: |
     <img src=https://i.redditmedia.com/SsP21kzFrvDMKhKUY1Q8KShEm5aC7uiL9PRdEXDX65I.jpg?s=d68eb2c4152924da0aec75e6021e1099 frameborder=0>
+- entry_name: |
+    There's a message by the zipper of my pants, warning me to be careful.
+  entry_id: 8bpsko
+  entry_content: |
+    <img src=https://i.redditmedia.com/oXK6Yy6Voh0IyCn9UGdUGw_bRFZyWncQjxXLv_bBzac.jpg?s=171e2a43572097143db530ccd1ea42e2 frameborder=0>
 - entry_name: |
     *You got a presentation tomorrow
   entry_id: 8bmrrc
   entry_content: |
     <img src=https://i.redditmedia.com/bajWU6sTOrii9KTm94IdlbvYOcmxIy-iNcTJnBnMyVM.jpg?s=792066f14df14f57a59c6bed60ea6c7f frameborder=0>
 - entry_name: |
-    The Inner Machinations Of My Mind Are An Enigma
-  entry_id: 8blex4
+    Mods are asleep, let's get something dirty on the front page
+  entry_id: 8bp6um
   entry_content: |
-    <img src=https://i.redditmedia.com/-XLH1mbYs514EO6pRZqVq_-ZUk9EDaym8xGuVSj-6Yg.jpg?s=3b35daa88fccf6eb029ee8e023f627c0 frameborder=0>
-- entry_name: |
-    Trump warned not to fire Mueller by former US ethics chief: 'Our forefathers were smarter than you and they planned for you'
-  entry_id: 8boxsd
-  entry_content: |
-    <img src=https://i.redditmedia.com/ix-_T2o5R_DGi7lhflbP56QWogws1KCzgEo9VsEAciE.jpg?s=95631c9befb4b0106d2f6c8845c7f04b frameborder=0>
-- entry_name: |
-    Throwing Sprite in the middle of the road... wCGW?
-  entry_id: 8blzwm
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGlossyUnselfishAcaciarat&url=https%3A%2F%2Fgfycat.com%2FGlossyUnselfishAcaciarat&image=https%3A%2F%2Fthumbs.gfycat.com%2FGlossyUnselfishAcaciarat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=542 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    TOYS R bUSted
-  entry_id: 8bl96o
-  entry_content: |
-    <img src=https://i.redditmedia.com/93RIVmkj3S3fwWAfA5hToaKAIEaipiIdtaK4NwLuTYs.jpg?s=2f750dadf17cf105c18adedbfdd16e05 frameborder=0>
+    <img src=https://i.redditmedia.com/aOQTQneCcfp2zyOE7MtQM8wLcGSdKgp7ZB36JPvQQUo.png?s=d97c920b18d9649a524e4d3ad1b0b318 frameborder=0>
 - entry_name: |
     I think I hugged my pupper too tight...
   entry_id: 8bpf6z
   entry_content: |
     <img src=https://i.redditmedia.com/YZMUJ0PheSldveYAIqNYX7QEOn2WULP2ajpVwtSMpxc.jpg?s=8e5fe84a389a4a9a5867aeeb1444a97d frameborder=0>
-- entry_name: |
-    MFW 30 pieces of silver was worth it
-  entry_id: 8bmjh2
-  entry_content: |
-    <img src=https://i.redditmedia.com/zJD9T4mpdoksZFjebjpUXZt8i-Yny_b0bC-ecGqjW_M.png?s=d6332dc7bb11ef039e853e27ef3ec346 frameborder=0>
 ---
