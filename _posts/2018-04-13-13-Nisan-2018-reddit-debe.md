@@ -137,11 +137,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/aleykeerxcr01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    My morning walk to uni (Edinburgh)
-  entry_id: 8bk0r2
-  entry_content: |
-    <img src=https://i.redditmedia.com/npTJlTw54hH_i0n52eDSdaxWBqzqPeXXWhiKXI8ai30.jpg?s=1885c10b534c93a78eb1bf2bad33f6bc frameborder=0>
-- entry_name: |
     Recycling Hopes and Dreams
   entry_id: 8bl1th
   entry_content: |
@@ -201,11 +196,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Summer Body Goals
-  entry_id: 8bk481
-  entry_content: |
-    <img src=https://i.redditmedia.com/Rrmysh3S1fl8WDARGhePPeMhLCNrSPc8M60eyjQi6lg.jpg?s=dd359d63c0f2eb3432389a4f5d855574 frameborder=0>
-- entry_name: |
     In Mad Max Fury Road the praying hand gesture resembles a V8 engine
   entry_id: 8bppvn
   entry_content: |
@@ -220,11 +210,6 @@ data:
   entry_id: 8bklye
   entry_content: |
     <img src=https://i.redditmedia.com/Y4yxKx-rACGHjveSpdUmzuNvjZTqiv9SVXea3XCWSxc.png?s=e2b04da59089fc7edf0cb8afd25f594e frameborder=0>
-- entry_name: |
-    Awkward Zuckerbot staredown
-  entry_id: 8bk3u0
-  entry_content: |
-    <img src=https://i.redditmedia.com/XQ7czBPTJc40BW2XOEPEPPYYYglFTBpe5Yvyvbzue7I.gif?fm=jpg&s=54f4e9cc96bd1a783c75c1c799e6afe2 frameborder=0>
 - entry_name: |
     ayy why not both??
   entry_id: 8bl5r9
@@ -250,4 +235,19 @@ data:
   entry_id: 8blzwm
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGlossyUnselfishAcaciarat&url=https%3A%2F%2Fgfycat.com%2FGlossyUnselfishAcaciarat&image=https%3A%2F%2Fthumbs.gfycat.com%2FGlossyUnselfishAcaciarat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=542 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    TOYS R bUSted
+  entry_id: 8bl96o
+  entry_content: |
+    <img src=https://i.redditmedia.com/93RIVmkj3S3fwWAfA5hToaKAIEaipiIdtaK4NwLuTYs.jpg?s=2f750dadf17cf105c18adedbfdd16e05 frameborder=0>
+- entry_name: |
+    I think I hugged my pupper too tight...
+  entry_id: 8bpf6z
+  entry_content: |
+    <img src=https://i.redditmedia.com/YZMUJ0PheSldveYAIqNYX7QEOn2WULP2ajpVwtSMpxc.jpg?s=8e5fe84a389a4a9a5867aeeb1444a97d frameborder=0>
+- entry_name: |
+    MFW 30 pieces of silver was worth it
+  entry_id: 8bmjh2
+  entry_content: |
+    <img src=https://i.redditmedia.com/zJD9T4mpdoksZFjebjpUXZt8i-Yny_b0bC-ecGqjW_M.png?s=d6332dc7bb11ef039e853e27ef3ec346 frameborder=0>
 ---
