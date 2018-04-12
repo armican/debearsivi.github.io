@@ -201,11 +201,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TDolCz6x4Drf3IPr3v3WAX85pLQ1UwMmGv6Goep64lc.jpg?s=de1ef8a84f82924d25f9fcdd3ef8e7cf frameborder=0>
 - entry_name: |
-    When anyone tries to show me a meme on Facebook that I already watched die on reddit
-  entry_id: 8bjka0
-  entry_content: |
-    <img src=https://i.redditmedia.com/BmxSycaHU_8gGXSA2XMxCjxl84IfyHMjHylOD6fApUA.jpg?s=2ddb9b569ad1db1448b72814d1dab9b3 frameborder=0>
-- entry_name: |
     Girl accuses Indian minister of rape, father dies in police custody
   entry_id: 8bklz9
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8bppvn
   entry_content: |
     <img src=https://i.redditmedia.com/4apbEejNU4V3TGROVxb2nJ8LLOHv9FCOGvBQpI7amD8.png?s=f5f8f35e74f5fbc4c153aa7073ef42c0 frameborder=0>
+- entry_name: |
+    LPT: if you want to divide something among two people (usually kids), you get one person to divide, and the other person gets first pick on which piece they want. Everyone wins and it ensures the person who divides is fair.
+  entry_id: 8bptol
+  entry_content: |
+    null
 ---
