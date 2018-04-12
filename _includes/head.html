@@ -64,7 +64,7 @@
   // So PoC, TODO: fix this.
   var idx = 0;
   $(document).ready(function() {
-    $(".btn").click(function(){ if($(this).hasClass('btn-dark')) { $(this).removeClass('btn-dark'); $(this).addClass('btn-outline-dark');} else { $(this).removeClass('btn-outline-dark'); $(this).addClass('btn-dark'); } });
+    $(".filter_button").click(function(){ if($(this).hasClass('btn-dark')) { $(this).removeClass('btn-dark'); $(this).addClass('btn-outline-dark');} else { $(this).removeClass('btn-outline-dark'); $(this).addClass('btn-dark'); } });
     snackbar();
     for(i=0; i<50; i++) {
       var entry_content = $('.entry_content')[i];
