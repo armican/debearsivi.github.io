@@ -11,10 +11,10 @@
     <div class="navbar-nav mr-auto">
       <p class="navbar-nav nav-link mr-auto">{{ page.title }}</p>
     </div>
-    {% if page.title contains "Ekşi Sözlük" %}
-      <button onclick="$('div[name=filters]').toggle()" type="button" class="mb-1 mt-1 btn btn-outline-light">Filtrele</button>
-    {% endif %}
     </div>
+    {% if page.title contains "Ekşi Sözlük" %}
+      <button onclick="$('div[name=filters]').toggle()" type="button" class="mb-1 mt-1 btn btn-outline-light d-none d-xl-block col-xl-2">Filtrele</button>
+    {% endif %}
   </header>
 
 <div>
