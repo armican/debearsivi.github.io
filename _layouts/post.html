@@ -11,7 +11,7 @@ layout: default
  {% for i in page.data %}
  <li class="toc-link toc-h3 pb-3">
   <a class="disable-href nav-link" href="#{{ i.entry_id }}">{{ i.entry_name }}</a>
-  {% assign channels = i.entry_channels | split: ' ' %}
+  {% assign channels = i.entry_channels | split: ',' %}
   {% for channel in channels %}
   <div name="{{ channel }}"></div>
   {% endfor %}
