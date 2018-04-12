@@ -152,11 +152,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/R9FOWrPAiVXzUDL5kDX72NWmHSx_MPAKkUzc3Z6dadE.jpg?s=ed816e0238ff7bbe5fea868b05f6715f frameborder=0>
 - entry_name: |
-    Triple front flip on skis
-  entry_id: 8bj1i1
-  entry_content: |
-    <img src=https://i.redditmedia.com/XH36D_iToHkekTm2Y81yPcXyo1BIRX81RSK2Qk0rDy8.gif?fm=jpg&s=383ffd62f96499e8b5453d1a9d22b433 frameborder=0>
-- entry_name: |
     Maxed out charisma
   entry_id: 8bpk22
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8bjvlt
   entry_content: |
     <img src=https://i.redditmedia.com/wKcrpJrM4BnI_tw8auSYxMFxwGqrw8t6x8vzJEpimSI.jpg?s=44929c96f1713c76902e3b660e3f8a07 frameborder=0>
+- entry_name: |
+    The Inner Machinations Of My Mind Are An Enigma
+  entry_id: 8blex4
+  entry_content: |
+    <img src=https://i.redditmedia.com/-XLH1mbYs514EO6pRZqVq_-ZUk9EDaym8xGuVSj-6Yg.jpg?s=3b35daa88fccf6eb029ee8e023f627c0 frameborder=0>
 ---
