@@ -103,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/AiSKGlW4jmzEjrtvKxP81VwNkQEHL0Jy1S-gahxmg_E.png?s=43bcff90bc20f35a60bed466f1ac2f0e frameborder=0>
 - entry_name: |
-    This is how the little tables in pizza boxes are packaged
-  entry_id: 8brzxb
-  entry_content: |
-    <img src=https://i.redditmedia.com/66wLfenZP9l-cQ8aQMtkNaXl9vJ9w0OnCsQhdGW5X30.jpg?s=c9d353c88bc6f56e28fc021b9f3d3b86 frameborder=0>
-- entry_name: |
     Puppies get all the love, but how about this Handsome 15 1/2 year old?
   entry_id: 8bteoj
   entry_content: |
@@ -207,11 +202,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZgFW_vKm7CNYEHEZJnwGeO-52lpENckGjIu_RakrjAQ.jpg?s=d38e27fd6a92b6914e9a92d9509626e3 frameborder=0>
 - entry_name: |
-    one lucky lizard
-  entry_id: 8brzvi
-  entry_content: |
-    <iframe src=https://v.redd.it/te1mzu8gjir01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     We decided to embarrass our daughter at the airport after 3 months away. (we don't normally dress this way)
   entry_id: 8bsuj8
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8btnox
   entry_content: |
     <iframe src=https://v.redd.it/yoeunddjljr01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    ‘Soda Tax’ Impact: Philadelphia Residents 40 Percent Less Likely To Drink Sugary Soda Each Day After New Tax
+  entry_id: 8byc78
+  entry_content: |
+    <img src=https://i.redditmedia.com/sI45kYcNAKzynqIg5Jq3OOOHm4KIZ85VnJz0PieEglo.jpg?s=a2b123b13369151252122cf52166ffe6 frameborder=0>
+- entry_name: |
+    He’s just reflecting on the sad life he’s been leading
+  entry_id: 8bscid
+  entry_content: |
+    <img src=https://i.redditmedia.com/gDiaR0SLXaGeEf1Ns__NurduQASgnFZ1IMPH-AZ8n1w.jpg?s=5a128d2fdb7e1e400df5d37b33cc3233 frameborder=0>
 ---
