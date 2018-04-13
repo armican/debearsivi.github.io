@@ -111,11 +111,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ts1ShZClV2Z2DlM0ltZBNN6bUuFkBdNlUa4Ga2eeAGE.jpg?s=5546686d8e3c8f65389849b9beb7f991 frameborder=0>
 - entry_name: |
-    Puppies get all the love, but how about this Handsome 15 1/2 year old?
-  entry_id: 8bteoj
-  entry_content: |
-    <img src=https://i.redditmedia.com/3wep0RcORAFHFeOQSqqEjGBiZGJGzbDeXhT2VFJ8-lI.jpg?s=86de5eec3b68bd35ade6504016d088ac frameborder=0>
-- entry_name: |
     On the back cover of Banksy's book
   entry_id: 8by4ot
   entry_content: |
@@ -146,11 +141,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hlze4icfaor01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Ink bringing out the texture of a wood carving
-  entry_id: 8btevw
-  entry_content: |
-    <iframe src=https://v.redd.it/ymo3609zfjr01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Hey look, i'm dead!
   entry_id: 8bua33
   entry_content: |
@@ -169,11 +159,6 @@ data:
   entry_id: 8buq3c
   entry_content: |
     <img src=https://i.redditmedia.com/C2Tqj2Eq9SofxbxensSxf-VTftVxgL8Ggofqmwr1mOY.jpg?s=f173cda1800e0a306c25378a443d3345 frameborder=0>
-- entry_name: |
-    When someone asks if I’ve ever upvoted a low effort meme just because it’s from the Prequels
-  entry_id: 8bteei
-  entry_content: |
-    <img src=https://i.redditmedia.com/NSVidR2Na9mrva9sXLR9kXmYhzvjsphvWFH6tvSTgu8.jpg?s=e234ead7c330b26c1346fa6e3eb8e45c frameborder=0>
 - entry_name: |
     I took some old library books out of a dumpster and one of them had a 1934 $50 bill in it.
   entry_id: 8bzn49
@@ -249,4 +234,19 @@ data:
   entry_id: 8bxzzd
   entry_content: |
     <img src=https://i.redditmedia.com/A-64IVXMTS9CnOqd3-PLnEkUMNSh-mJEQx38E6atMqw.jpg?s=0145864366cb6b123e506a00def5e94e frameborder=0>
+- entry_name: |
+    Street Art.
+  entry_id: 8bw50z
+  entry_content: |
+    <img src=https://i.redditmedia.com/zgvuyEVpvkONIQ33hPp3kIFgKBWv2aaIlPRE56v28Z8.jpg?s=f139463d2144541761fd51fcac1ddb8f frameborder=0>
+- entry_name: |
+    Was gathering all my drawings for a portfolio so I thought I'd take a picture.
+  entry_id: 8by3bi
+  entry_content: |
+    <img src=https://i.redditmedia.com/1IlnddwoqoqHHdzw09Vijpz4ehmRPy8uH3cg0nAX2yM.png?s=43ad2874f4d00c034f2e5fa67717863b frameborder=0>
+- entry_name: |
+    Sproing!
+  entry_id: 8bwwcz
+  entry_content: |
+    <iframe src=https://v.redd.it/5zu0e4j96mr01/DASH_2_4_M frameborder=0></iframe>
 ---
