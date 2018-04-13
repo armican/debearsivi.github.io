@@ -187,11 +187,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Er9dKgxLmzF7bVTaTk8sM4LFBaxi4_wQymPvA2RVE6A.png?s=9e97c8dc3173d51f8f738322c7c32ca3 frameborder=0>
 - entry_name: |
-    A new study suggests that the overrepresentation of wild animals in our everyday lives (toys, films, ads) makes us forget that they are on the verge of extinction. Researchers believe companies should pay 'image rights' to help conservation efforts
-  entry_id: 8bs8b1
-  entry_content: |
-    <img src=https://i.redditmedia.com/RGIcntJAHMOfYbafLUyCSthT5qGtZBEgOnQX8N8ClYY.jpg?s=a2f5280d6f72cc6f440853b2ac4e9534 frameborder=0>
-- entry_name: |
     You can do this. Don’t give up
   entry_id: 8bvn7r
   entry_content: |
@@ -226,11 +221,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gkxL_blxbstaQjrtdtREaPYZht6NJqiUYOtetpGcsh8.jpg?s=a63000381cbd3ffdbdd6d92c3d7e201b frameborder=0>
 - entry_name: |
-    Police identify Missing Husky By Seeing If It Will Sing Along to Its Favorite Tune
-  entry_id: 8bs7l3
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZtZdXTeoQYRbFFHEl2JbHyPC9bPjYK23GP4Kwq1RHq8.jpg?s=348a337c7fa121613b6b480512b0182e frameborder=0>
-- entry_name: |
     hmmm
   entry_id: 8bv7x1
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8bscid
   entry_content: |
     <img src=https://i.redditmedia.com/gDiaR0SLXaGeEf1Ns__NurduQASgnFZ1IMPH-AZ8n1w.jpg?s=5a128d2fdb7e1e400df5d37b33cc3233 frameborder=0>
+- entry_name: |
+    A little too cold
+  entry_id: 8by9w1
+  entry_content: |
+    <iframe src=https://v.redd.it/i0dx0b1fqnr01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Incredibles 2 - New Official Trailer
+  entry_id: 8bylwy
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/i5qOzqD9Rms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
