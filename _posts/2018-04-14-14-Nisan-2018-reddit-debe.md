@@ -151,20 +151,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ymo3609zfjr01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This picture of a bike not being stolen is exactly how you steal a bike with this kind of lock on it
-  entry_id: 8bsx4b
-  entry_content: |
-    <img src=https://i.redditmedia.com/ID9zl7ktz3dnycPdzuzgujrVSB9zJi2KvQsggE6gi5E.jpg?s=b13ab9e33b3348e734a0e14013233a9c frameborder=0>
-- entry_name: |
     Hey look, i'm dead!
   entry_id: 8bua33
   entry_content: |
     <img src=https://i.redditmedia.com/ax_eVN40b0wjxkXgx4qnsvKmzz940HdgOdMqYBrmlQc.gif?fm=jpg&s=b7daf14d2e5bcbf3843ca64ace4e8967 frameborder=0>
-- entry_name: |
-    TIL that during World War I, French prostitutes with severe cases of syphilis charged higher rates than uninfected prostitutes, because soldiers infected with syphilis were removed from the front line
-  entry_id: 8bsz0w
-  entry_content: |
-    <img src=https://i.redditmedia.com/ksgpOcJqzO8Jzfw7cVDb_Jj-zFUn_OgPAgk824MQNz8.jpg?s=d9e8dd9e89d832ce93e10404605a5a06 frameborder=0>
 - entry_name: |
   entry_id: 8buq3c
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 8btnox
   entry_content: |
     <iframe src=https://v.redd.it/yoeunddjljr01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Honestly one of the best ideas
+  entry_id: 8bynm2
+  entry_content: |
+    <iframe src=https://v.redd.it/vmi1bj19wlr01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Forsberg beats him like a rented mule.
+  entry_id: 8bwfh5
+  entry_content: |
+    <iframe src=https://v.redd.it/3gke3mw9plr01/DASH_600_K frameborder=0></iframe>
 ---
