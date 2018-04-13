@@ -157,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ksgpOcJqzO8Jzfw7cVDb_Jj-zFUn_OgPAgk824MQNz8.jpg?s=d9e8dd9e89d832ce93e10404605a5a06 frameborder=0>
 - entry_name: |
-    I was 10 when I realized people with no bangs had grown them out, not cut them off.
-  entry_id: 8bspoh
-  entry_content: |
-    <img src=https://i.redditmedia.com/pLSI-EyAn134H6aqSOjXkPtcTG5NF06lwGNC4tMkKks.jpg?s=00878a8f23d4f9bee949a951971da7ed frameborder=0>
-- entry_name: |
   entry_id: 8buq3c
   entry_content: |
     <img src=https://i.redditmedia.com/C2Tqj2Eq9SofxbxensSxf-VTftVxgL8Ggofqmwr1mOY.jpg?s=f173cda1800e0a306c25378a443d3345 frameborder=0>
@@ -249,4 +244,9 @@ data:
   entry_id: 8bywsi
   entry_content: |
     <iframe src=https://v.redd.it/hlze4icfaor01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Suspected White Supremacist Died Building ISIS-Style Bombs
+  entry_id: 8bydd6
+  entry_content: |
+    <img src=https://i.redditmedia.com/bLmoY6WDVcQrcLGQFP9IhLXVUM-IPvExkXbDbhKCpvg.jpg?s=2b3a302dd93781c1ce1eea3e2e96bf11 frameborder=0>
 ---
