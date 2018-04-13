@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iq28UJJrMVGHlvm-n5xx-vcz0qwwGI6kvjrEAqo5iAo.jpg?s=33ecfbfd61a1ee29b50bdf16c976145e frameborder=0>
 - entry_name: |
-    Got ‘em
-  entry_id: 8bse8k
-  entry_content: |
-    <img src=https://i.redditmedia.com/V1mwdzigVSF6rMjpD26dNS9p8Ilu3ZcwGjdciMVAAf4.jpg?s=e80219e8b59a4564d809430f423b1d00 frameborder=0>
-- entry_name: |
     The entire cast of the sandlot reunited on the field 25 years later.
   entry_id: 8bt8sv
   entry_content: |
@@ -43,15 +38,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9Zi1GBrcjoHljlceQe84hMUB6IGESf_QmNe6Mth1P98.jpg?s=d82ec483672d259190dc2d7eadb8cdad frameborder=0>
 - entry_name: |
-    Diving at its finest
-  entry_id: 8buxxx
-  entry_content: |
-    <iframe src=https://v.redd.it/qzhj1533ikr01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     I see your baby skunk, and I raise you this baby lemming.
   entry_id: 8bxwe6
   entry_content: |
     <img src=https://i.redditmedia.com/SoajiW5TcPJGXUuYc2EtfYO_TdmptW0s02BrjjqeeXY.jpg?s=e35def611f5776c252fc0aea4ea07b31 frameborder=0>
+- entry_name: |
+    Diving at its finest
+  entry_id: 8buxxx
+  entry_content: |
+    <iframe src=https://v.redd.it/qzhj1533ikr01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     This sub is filled with cats, dogs, baby donkeys and baby hyenas, so how about we mix it up even more with this baby warthog!
   entry_id: 8bujd4
@@ -78,30 +73,30 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Our office dog is featured on our marketing materials.
-  entry_id: 8bsbj2
-  entry_content: |
-    <img src=https://i.redditmedia.com/3lmf4oOEi1IJYbItMjLHW1EG5RtcC9XE1FJEmot4SDQ.png?s=8363c90ca5779448cfd50186f06ec9c8 frameborder=0>
-- entry_name: |
     Another round, please barkeep
   entry_id: 8btx3x
   entry_content: |
     <iframe src=https://v.redd.it/1bf5zecqrjr01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    I see your warthog, and I raise you this baby skunk.
-  entry_id: 8bvr91
-  entry_content: |
-    <img src=https://i.redditmedia.com/emjWbG_B4dqkJ4Eul2JEntRSKbK6esVijL0eO2c1k5E.jpg?s=7d1af0a35aa57d8236352608a828921b frameborder=0>
 - entry_name: |
     I would love this.
   entry_id: 8bxmbj
   entry_content: |
     <img src=https://i.redditmedia.com/Z0F17ndBsyrVo80yGb5kJLYpH2ubkscia2sQDWykizc.jpg?s=c058e32468e1ed58f3ae9057f8bfa83f frameborder=0>
 - entry_name: |
+    I see your warthog, and I raise you this baby skunk.
+  entry_id: 8bvr91
+  entry_content: |
+    <img src=https://i.redditmedia.com/emjWbG_B4dqkJ4Eul2JEntRSKbK6esVijL0eO2c1k5E.jpg?s=7d1af0a35aa57d8236352608a828921b frameborder=0>
+- entry_name: |
     This sub is filled with cats, dogs, and baby donkeys, so how about we mix it up even more with this baby hyena!
   entry_id: 8bsrp3
   entry_content: |
     <img src=https://i.redditmedia.com/AiSKGlW4jmzEjrtvKxP81VwNkQEHL0Jy1S-gahxmg_E.png?s=43bcff90bc20f35a60bed466f1ac2f0e frameborder=0>
+- entry_name: |
+    Going a bit too fast
+  entry_id: 8by0wb
+  entry_content: |
+    <iframe src=https://v.redd.it/0qnnhe8rgnr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Puppies get all the love, but how about this Handsome 15 1/2 year old?
   entry_id: 8bteoj
@@ -118,10 +113,14 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/cws4saed0lr01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Going a bit too fast
-  entry_id: 8by0wb
+    Am I out of touch? No, it's the decades of science that are wrong.
+  entry_id: 8byzf9
   entry_content: |
-    <iframe src=https://v.redd.it/0qnnhe8rgnr01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Er9dKgxLmzF7bVTaTk8sM4LFBaxi4_wQymPvA2RVE6A.png?s=9e97c8dc3173d51f8f738322c7c32ca3 frameborder=0>
+- entry_name: |
+  entry_id: 8bzdr8
+  entry_content: |
+    <iframe src=https://v.redd.it/h0f0m4v5nor01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     PsBattle: Waking up after anesthesia
   entry_id: 8bvncd
@@ -143,6 +142,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ID9zl7ktz3dnycPdzuzgujrVSB9zJi2KvQsggE6gi5E.jpg?s=b13ab9e33b3348e734a0e14013233a9c frameborder=0>
 - entry_name: |
+    Is Today Friday the 13th?
+  entry_id: 8bz0kq
+  entry_content: |
+    null
+- entry_name: |
     Hey look, i'm dead!
   entry_id: 8bua33
   entry_content: |
@@ -161,6 +165,10 @@ data:
   entry_id: 8buq3c
   entry_content: |
     <img src=https://i.redditmedia.com/C2Tqj2Eq9SofxbxensSxf-VTftVxgL8Ggofqmwr1mOY.jpg?s=f173cda1800e0a306c25378a443d3345 frameborder=0>
+- entry_name: |
+  entry_id: 8bzf9v
+  entry_content: |
+    <iframe src=https://v.redd.it/nq4feb5odor01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     When someone asks if I’ve ever upvoted a low effort meme just because it’s from the Prequels
   entry_id: 8bteei
@@ -182,44 +190,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rhM_VUOQ6lzpt4ThZDkRdXSmZZDTYl-_Hr5zXnZbK20.jpg?s=6d5c18077b7736714e4a4d8b769cc516 frameborder=0>
 - entry_name: |
-    Am I out of touch? No, it's the decades of science that are wrong.
-  entry_id: 8byzf9
-  entry_content: |
-    <img src=https://i.redditmedia.com/Er9dKgxLmzF7bVTaTk8sM4LFBaxi4_wQymPvA2RVE6A.png?s=9e97c8dc3173d51f8f738322c7c32ca3 frameborder=0>
-- entry_name: |
     You can do this. Don’t give up
   entry_id: 8bvn7r
   entry_content: |
     <img src=https://i.redditmedia.com/GtspCEQ4WHxa8r7T11mSLHkIDEMTDJKuXQUMif2whIA.jpg?s=a53c9c5a243aeb478e2e56a814f2cdd9 frameborder=0>
 - entry_name: |
-    This screenshot from The Social Network is just beautiful.
-  entry_id: 8bsevk
+    Trinidad and Tobago set to decriminalize homosexuality
+  entry_id: 8bx7zo
   entry_content: |
-    <img src=https://i.redditmedia.com/ZgFW_vKm7CNYEHEZJnwGeO-52lpENckGjIu_RakrjAQ.jpg?s=d38e27fd6a92b6914e9a92d9509626e3 frameborder=0>
+    <img src=https://i.redditmedia.com/gkxL_blxbstaQjrtdtREaPYZht6NJqiUYOtetpGcsh8.jpg?s=a63000381cbd3ffdbdd6d92c3d7e201b frameborder=0>
+- entry_name: |
+    On the back cover of Banksy's book
+  entry_id: 8by4ot
+  entry_content: |
+    <img src=https://i.redditmedia.com/OA42pGhHpH3ioPXhO3BCR671kXMSXYzqo8DIIeqssQI.jpg?s=6c583151a9c213ac3579b1cf698d5b9e frameborder=0>
+- entry_name: |
+    ‘Soda Tax’ Impact: Philadelphia Residents 40 Percent Less Likely To Drink Sugary Soda Each Day After New Tax
+  entry_id: 8byc78
+  entry_content: |
+    <img src=https://i.redditmedia.com/sI45kYcNAKzynqIg5Jq3OOOHm4KIZ85VnJz0PieEglo.jpg?s=a2b123b13369151252122cf52166ffe6 frameborder=0>
+- entry_name: |
+    Incredibles 2 - New Official Trailer
+  entry_id: 8bylwy
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/i5qOzqD9Rms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     We decided to embarrass our daughter at the airport after 3 months away. (we don't normally dress this way)
   entry_id: 8bsuj8
   entry_content: |
     <img src=https://i.redditmedia.com/4xximXZf9_783AbeymDoWyMCWkKLwTfynrSpZRvLRMo.jpg?s=776f26049c8bc55f6673043a2f69abcb frameborder=0>
 - entry_name: |
-  entry_id: 8bzdr8
+    A little too cold
+  entry_id: 8by9w1
   entry_content: |
-    <iframe src=https://v.redd.it/h0f0m4v5nor01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Is Today Friday the 13th?
-  entry_id: 8bz0kq
-  entry_content: |
-    null
+    <iframe src=https://v.redd.it/i0dx0b1fqnr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     My reward for trying to be courteous to the people around me.
   entry_id: 8bv4yf
   entry_content: |
     <img src=https://i.redditmedia.com/tcEPC741t4RowrDxsNwbzDmPLeQyHY20Fe64loF4edQ.jpg?s=aa20f766825deb2d20631f69779c6b0c frameborder=0>
-- entry_name: |
-    Trinidad and Tobago set to decriminalize homosexuality
-  entry_id: 8bx7zo
-  entry_content: |
-    <img src=https://i.redditmedia.com/gkxL_blxbstaQjrtdtREaPYZht6NJqiUYOtetpGcsh8.jpg?s=a63000381cbd3ffdbdd6d92c3d7e201b frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 8bv7x1
@@ -231,23 +240,13 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/yoeunddjljr01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    ‘Soda Tax’ Impact: Philadelphia Residents 40 Percent Less Likely To Drink Sugary Soda Each Day After New Tax
-  entry_id: 8byc78
+    My Power has doubled since the last time we met
+  entry_id: 8bxvcs
   entry_content: |
-    <img src=https://i.redditmedia.com/sI45kYcNAKzynqIg5Jq3OOOHm4KIZ85VnJz0PieEglo.jpg?s=a2b123b13369151252122cf52166ffe6 frameborder=0>
+    <img src=https://i.redditmedia.com/XVh54MFWmqnLq_z9An9qXCYnULJVTpTLfsfVgdMGFC4.gif?fm=jpg&s=d85094450d1fb553a03112f7414afece frameborder=0>
 - entry_name: |
-    He’s just reflecting on the sad life he’s been leading
-  entry_id: 8bscid
+    Love at first sight
+  entry_id: 8bywsi
   entry_content: |
-    <img src=https://i.redditmedia.com/gDiaR0SLXaGeEf1Ns__NurduQASgnFZ1IMPH-AZ8n1w.jpg?s=5a128d2fdb7e1e400df5d37b33cc3233 frameborder=0>
-- entry_name: |
-    A little too cold
-  entry_id: 8by9w1
-  entry_content: |
-    <iframe src=https://v.redd.it/i0dx0b1fqnr01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Incredibles 2 - New Official Trailer
-  entry_id: 8bylwy
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/i5qOzqD9Rms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/hlze4icfaor01/DASH_1_2_M frameborder=0></iframe>
 ---
