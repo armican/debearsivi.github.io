@@ -38,15 +38,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DicJjBFTWSvzHg4EWXUpaqPve4foOLZie-FodsLpaCo.jpg?s=e6e86fee00aa3ebefa776900639082a3 frameborder=0>
 - entry_name: |
-    Too many young critters around today, please draw your attention to Nutmeg the world's oldest cat
-  entry_id: 8c3956
-  entry_content: |
-    <img src=https://i.redditmedia.com/BcuceS1-y52Na-iYdNt_iYxOiT73NfOeigeG2B_o_cg.jpg?s=1f08fcb587bc27d6c595ade1b08beb2d frameborder=0>
-- entry_name: |
     A legally blind woman and her guide dog both graduate from University
   entry_id: 8c67xk
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLastGrimyBichonfrise&url=https%3A%2F%2Fgfycat.com%2FLastGrimyBichonfrise&image=https%3A%2F%2Fthumbs.gfycat.com%2FLastGrimyBichonfrise-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Too many young critters around today, please draw your attention to Nutmeg the world's oldest cat
+  entry_id: 8c3956
+  entry_content: |
+    <img src=https://i.redditmedia.com/BcuceS1-y52Na-iYdNt_iYxOiT73NfOeigeG2B_o_cg.jpg?s=1f08fcb587bc27d6c595ade1b08beb2d frameborder=0>
 - entry_name: |
     Been a wedding photographer for over 14 years and finally got to photograph my own beautiful Bride.
   entry_id: 8c4usv
@@ -62,6 +62,11 @@ data:
   entry_id: 8c43ok
   entry_content: |
     <iframe src=https://v.redd.it/olfzif25vrr01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    A wild luggage in its natural habitat
+  entry_id: 8c7btv
+  entry_content: |
+    <iframe src=https://v.redd.it/e18lv42sevr01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Made this in my woodworking class.... got an 11/10.
   entry_id: 8c1qa5
@@ -83,6 +88,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-mL1tgdgHd0qeXDmeoB45Efiz9lck-kVf7lZhlRn6pY.jpg?s=a41184d027d304751990cc7bbfdbce90 frameborder=0>
 - entry_name: |
+    Patriotism at its finest
+  entry_id: 8c65nq
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y-q7ql2eAnIWMCMxlGhh27BuQxUdOwuGS8iUj6d63IE.jpg?s=d4c49bd63a1094b682d822ba4a9c95fe frameborder=0>
+- entry_name: |
     Sources: Mueller has evidence Cohen was in Prague in 2016, confirming part of dossier
   entry_id: 8c3do2
   entry_content: |
@@ -102,11 +112,6 @@ data:
   entry_id: 8c1xhm
   entry_content: |
     <iframe src=https://v.redd.it/zbrnjww7aqr01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Patriotism at its finest
-  entry_id: 8c65nq
-  entry_content: |
-    <img src=https://i.redditmedia.com/Y-q7ql2eAnIWMCMxlGhh27BuQxUdOwuGS8iUj6d63IE.jpg?s=d4c49bd63a1094b682d822ba4a9c95fe frameborder=0>
 - entry_name: |
     Verizon...a surprise to be sure, but a welcome one
   entry_id: 8c11y6
@@ -128,20 +133,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
 - entry_name: |
+    All of my pens are made in Japan except the red one.
+  entry_id: 8c7682
+  entry_content: |
+    <img src=https://i.redditmedia.com/8n5QzoWRvE0bx6-W2dqO7qu8oT39vdY2EQfpibTt9X0.jpg?s=1567557387824f2ce2d3e83d01e16e24 frameborder=0>
+- entry_name: |
     This girl saved up her money so she could donate these items to our local animal shelter. (Tracy, California)
   entry_id: 8c36b0
   entry_content: |
     <img src=https://i.redditmedia.com/rw8If1CaOaxfDJ4LIEzjIfLYqV_qX-oNwQ0-XLsAI5U.jpg?s=2a8f13d4dc46e52c0219113c607015c0 frameborder=0>
 - entry_name: |
-    Patrick's Star
-  entry_id: 8c2oav
-  entry_content: |
-    <img src=https://i.redditmedia.com/kr3hkbWMtislmA3aoJ6pHef8TZKVDtfgidXF3l3WiVI.jpg?s=9a2856c9dda1f4982d75554cd4c87abb frameborder=0>
-- entry_name: |
     So smol, so sleepy.
   entry_id: 8c4ha1
   entry_content: |
     <iframe src=https://v.redd.it/oxxnrulc6sr01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Patrick's Star
+  entry_id: 8c2oav
+  entry_content: |
+    <img src=https://i.redditmedia.com/kr3hkbWMtislmA3aoJ6pHef8TZKVDtfgidXF3l3WiVI.jpg?s=9a2856c9dda1f4982d75554cd4c87abb frameborder=0>
 - entry_name: |
     Elon Musk admits humans are sometimes superior to robots: “Yes, excessive automation at Tesla was a mistake. To be precise, my mistake. Humans are underrated”
   entry_id: 8c2n40
@@ -153,6 +163,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1iHxKfnGRG4ZdyAO-8QLvvMN_Cd5NnqoWdrEuqWD7D4.jpg?s=4ed0a58a3338f9fba53b029777b10545 frameborder=0>
 - entry_name: |
+    don't know if this was posted already.
+  entry_id: 8c444d
+  entry_content: |
+    <img src=https://i.redditmedia.com/pj5Z9_NYlYhmzCAtRXEpvh6IjdqsVTfbMx3QTwhcQj8.jpg?s=583759d6e08ca5fdd6e1fcd9ba7c92e8 frameborder=0>
+- entry_name: |
     Cleveland Indians Pitcher Zach McAllister Making the Catch of the Year
   entry_id: 8c362l
   entry_content: |
@@ -163,30 +178,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OnB5pe2oi8GRF4FY3rSKWZs9eWoM_aAHeFuRWoC0QdU.png?s=d9667f260c1447b56f89865cbcb13168 frameborder=0>
 - entry_name: |
-    don't know if this was posted already.
-  entry_id: 8c444d
+    mirror selfie
+  entry_id: 8c2w1a
   entry_content: |
-    <img src=https://i.redditmedia.com/pj5Z9_NYlYhmzCAtRXEpvh6IjdqsVTfbMx3QTwhcQj8.jpg?s=583759d6e08ca5fdd6e1fcd9ba7c92e8 frameborder=0>
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/xCY9B8POq3A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Til monkeys with smaller testicles scream louder to compensate.
   entry_id: 8c2c0o
   entry_content: |
     <img src=https://i.redditmedia.com/rEjo_GuiLCPjA55BhLfKBjT40BdyuTd1EstJ9y1Jg8Y.jpg?s=15604508454f18afa59b1522b4eba2d6 frameborder=0>
 - entry_name: |
-    mirror selfie
-  entry_id: 8c2w1a
+    AGAIN, TO OUR VERY FOOLISH LEADER, DO NOT ATTACK SYRIA - IF YOU DO MANY VERY BAD THINGS WILL HAPPEN & FROM THAT FIGHT THE U.S. GETS NOTHING! | 6:20 AM - 5 Sep 2013
+  entry_id: 8c45bh
   entry_content: |
-    <iframe width=459 height=344 src=https://www.youtube.com/embed/xCY9B8POq3A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/1BHwYziCsnYFlD-9Yeh3Ilg1vufMNKKfB6vjOz48kAo.jpg?s=e982379799d75fac9b85e3b5b2bf2fad frameborder=0>
 - entry_name: |
     Organic Truth
   entry_id: 8c1r18
   entry_content: |
     <img src=https://i.redditmedia.com/XSsBcvUpIDHO-wl2x_nhatIIi6PanQb9AO7vzCayD7Q.png?s=5973844280268d2a76e3308f02e32d36 frameborder=0>
 - entry_name: |
-    AGAIN, TO OUR VERY FOOLISH LEADER, DO NOT ATTACK SYRIA - IF YOU DO MANY VERY BAD THINGS WILL HAPPEN & FROM THAT FIGHT THE U.S. GETS NOTHING! | 6:20 AM - 5 Sep 2013
-  entry_id: 8c45bh
+    Metal Gear Goose
+  entry_id: 8c655w
   entry_content: |
-    <img src=https://i.redditmedia.com/1BHwYziCsnYFlD-9Yeh3Ilg1vufMNKKfB6vjOz48kAo.jpg?s=e982379799d75fac9b85e3b5b2bf2fad frameborder=0>
+    <img src=https://i.redditmedia.com/QF_MEG7rDbkhj3FNMpA8ReEMJjlyFrEmUUGIZaUudd0.gif?fm=jpg&s=a459f15643d41ad36dd25decb6dfeb7b frameborder=0>
+- entry_name: |
+    Stray cat has given birth to 2 kittens in my garage
+  entry_id: 8c6u5y
+  entry_content: |
+    <img src=https://i.redditmedia.com/Zv-Pv0Y9EHtuniddpGT8r_uOdQPHKByL2IAwTmAsqVo.jpg?s=658b701e4bd1dfc5cee995262e3037cb frameborder=0>
 - entry_name: |
     TIL a child is 16 times safer riding to school in a school bus than in a family vehicle
   entry_id: 8c4g8t
@@ -198,58 +218,38 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/6m2vrddg6qr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Wells Fargo faces $1B fine from federal regulators over mortgage, auto loan abuses
-  entry_id: 8c0tb4
+    GF just messaged me to tell me she arrived back to her car to find security and this note waiting for her
+  entry_id: 8c4pxf
   entry_content: |
-    <img src=https://i.redditmedia.com/gOULBupCMQ1ny858vq16a95DfeiLU0AqtlrdCKDa5hA.jpg?s=3c035b3dd2624a4d286ceff3567a166a frameborder=0>
-- entry_name: |
-    On this blessed day, we all came together.
-  entry_id: 8c222g
-  entry_content: |
-    <img src=https://i.redditmedia.com/7Yp8KmiwApHZzDCUlth2v1wCyt7PbDQhQGCeO3M03OQ.jpg?s=97fd488cd7219de5c16c82ea5e968e48 frameborder=0>
+    <img src=https://i.redditmedia.com/GBIL6ScEqTKSB_9o7dsqGIMsoKWUOuthDc_6-0QRN5c.png?s=41c4947750ad167f47281c255a29d316 frameborder=0>
 - entry_name: |
     Fluffy boi
   entry_id: 8c59pj
   entry_content: |
     <img src=https://i.redditmedia.com/mzFtKmlEEuc47HxnnfljHk5zGuHPGYU3_sI3Uk2_dao.jpg?s=7afde7e04a04013dbed734c370b76e54 frameborder=0>
 - entry_name: |
-    GF just messaged me to tell me she arrived back to her car to find security and this note waiting for her
-  entry_id: 8c4pxf
+    On this blessed day, we all came together.
+  entry_id: 8c222g
   entry_content: |
-    <img src=https://i.redditmedia.com/GBIL6ScEqTKSB_9o7dsqGIMsoKWUOuthDc_6-0QRN5c.png?s=41c4947750ad167f47281c255a29d316 frameborder=0>
-- entry_name: |
-    I see your baby lemming, and raise you this happy baby crocodile
-  entry_id: 8c0t40
-  entry_content: |
-    <img src=https://i.redditmedia.com/AkNJ9uobL9EgVYBw4jF4ebAswu80UUQaqZVV_lSr15c.jpg?s=91dfdfad54699d6e53a804b44f2c1e6f frameborder=0>
+    <img src=https://i.redditmedia.com/7Yp8KmiwApHZzDCUlth2v1wCyt7PbDQhQGCeO3M03OQ.jpg?s=97fd488cd7219de5c16c82ea5e968e48 frameborder=0>
 - entry_name: |
     Guess missiles have a better profit margin than clean water.
   entry_id: 8c5dtu
   entry_content: |
     <img src=https://i.redditmedia.com/L9iG-C_XD2eNcrN7jRXzJ1hmXfge2CblBLhrO28qfJc.jpg?s=7da698a94794a270ea46641cfadc6e26 frameborder=0>
 - entry_name: |
-    Just a family hanging out with their snakes in a park in Philly
-  entry_id: 8c3pbu
+    please finish this first
+  entry_id: 8c6f3b
   entry_content: |
-    <img src=https://i.redditmedia.com/HBFAxkuhz6alCAg6t861_qDPt0hQZslekbjX4pfQUPM.jpg?s=835c2095c3a2165c1c6afdb07125415e frameborder=0>
+    <img src=https://i.redditmedia.com/cf5tOtKCiLE0MqlAt7F2hZ1k7ZS7jlEAGDy-puW8CCU.jpg?s=e787170c890502eae16fe58fedc04b12 frameborder=0>
+- entry_name: |
+    Osama BEEN Spoken
+  entry_id: 8c6ifh
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2WN0sxbG69XVrrUzOJe8mxl927UApSB4R1G4Bv9T8k.jpg?s=09e5398e6ddd8b70479beb853a472bf1 frameborder=0>
 - entry_name: |
     Road trip with all of my friends!!
   entry_id: 8c3r9z
   entry_content: |
     <img src=https://i.redditmedia.com/x9EyFZHjj4I6ius1LENcNvvksvVJ7jSgS0CYcMHMAkw.jpg?s=d7d4cc7d65e53c64fd4ec5a590749bc6 frameborder=0>
-- entry_name: |
-    Metal Gear Goose
-  entry_id: 8c655w
-  entry_content: |
-    <img src=https://i.redditmedia.com/QF_MEG7rDbkhj3FNMpA8ReEMJjlyFrEmUUGIZaUudd0.gif?fm=jpg&s=a459f15643d41ad36dd25decb6dfeb7b frameborder=0>
-- entry_name: |
-    What's in the box?
-  entry_id: 8c3epg
-  entry_content: |
-    <iframe src=https://v.redd.it/kz8wewa8brr01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Goals
-  entry_id: 8c3bco
-  entry_content: |
-    <img src=https://i.redditmedia.com/UDoIoQyz2iOVtCLiUpnM0Ml8FOlZfJmuNMs4-zgP3RI.jpg?s=3e05ff6764356c2f35e33a35d66b2bb0 frameborder=0>
 ---
