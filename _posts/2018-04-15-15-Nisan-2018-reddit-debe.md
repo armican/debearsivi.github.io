@@ -163,11 +163,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ltos6eks4rr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Three times their initial offer
-  entry_id: 8c1ouk
-  entry_content: |
-    <img src=https://i.redditmedia.com/OnB5pe2oi8GRF4FY3rSKWZs9eWoM_aAHeFuRWoC0QdU.png?s=d9667f260c1447b56f89865cbcb13168 frameborder=0>
-- entry_name: |
     mirror selfie
   entry_id: 8c2w1a
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8c4zcm
   entry_content: |
     <img src=https://i.redditmedia.com/P2qnMrgedbv4yLXxdJCdR8A86uFn_LheExb3NrAbJzo.jpg?s=8d8ebc53f8dfed5e9306f4d6704d183e frameborder=0>
+- entry_name: |
+    me irl
+  entry_id: 8c5umj
+  entry_content: |
+    <img src=https://i.redditmedia.com/T__RFrpEexqNYk4AuHv7AoaFpi8gplUNJx8XFWWFvU8.png?s=b20c531ecd83d588f5e4f879fc25516f frameborder=0>
 ---
