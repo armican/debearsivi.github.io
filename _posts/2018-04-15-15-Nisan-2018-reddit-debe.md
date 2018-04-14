@@ -182,11 +182,6 @@ data:
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/xCY9B8POq3A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Til monkeys with smaller testicles scream louder to compensate.
-  entry_id: 8c2c0o
-  entry_content: |
-    <img src=https://i.redditmedia.com/rEjo_GuiLCPjA55BhLfKBjT40BdyuTd1EstJ9y1Jg8Y.jpg?s=15604508454f18afa59b1522b4eba2d6 frameborder=0>
-- entry_name: |
     AGAIN, TO OUR VERY FOOLISH LEADER, DO NOT ATTACK SYRIA - IF YOU DO MANY VERY BAD THINGS WILL HAPPEN & FROM THAT FIGHT THE U.S. GETS NOTHING! | 6:20 AM - 5 Sep 2013
   entry_id: 8c45bh
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8c3r9z
   entry_content: |
     <img src=https://i.redditmedia.com/x9EyFZHjj4I6ius1LENcNvvksvVJ7jSgS0CYcMHMAkw.jpg?s=d7d4cc7d65e53c64fd4ec5a590749bc6 frameborder=0>
+- entry_name: |
+    Just a family hanging out with their snakes in a park in Philly
+  entry_id: 8c3pbu
+  entry_content: |
+    <img src=https://i.redditmedia.com/HBFAxkuhz6alCAg6t861_qDPt0hQZslekbjX4pfQUPM.jpg?s=835c2095c3a2165c1c6afdb07125415e frameborder=0>
 ---
