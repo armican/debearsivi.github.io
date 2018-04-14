@@ -113,11 +113,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zbrnjww7aqr01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Verizon...a surprise to be sure, but a welcome one
-  entry_id: 8c11y6
-  entry_content: |
-    <img src=https://i.redditmedia.com/WAFkEwH9gIJPg23K-oJjlX1pq9bqWLLmtfyTxsVyplY.png?s=afed9a463e01868f797880ca7ac1f7a4 frameborder=0>
-- entry_name: |
     Altruism
   entry_id: 8c3dqa
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8c3r9z
   entry_content: |
     <img src=https://i.redditmedia.com/x9EyFZHjj4I6ius1LENcNvvksvVJ7jSgS0CYcMHMAkw.jpg?s=d7d4cc7d65e53c64fd4ec5a590749bc6 frameborder=0>
+- entry_name: |
+    Just a family hanging out with their snakes in a park in Philly
+  entry_id: 8c3pbu
+  entry_content: |
+    <img src=https://i.redditmedia.com/HBFAxkuhz6alCAg6t861_qDPt0hQZslekbjX4pfQUPM.jpg?s=835c2095c3a2165c1c6afdb07125415e frameborder=0>
 ---
