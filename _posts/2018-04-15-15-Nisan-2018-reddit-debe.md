@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLastGrimyBichonfrise&url=https%3A%2F%2Fgfycat.com%2FLastGrimyBichonfrise&image=https%3A%2F%2Fthumbs.gfycat.com%2FLastGrimyBichonfrise-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Netflix just posted this
-  entry_id: 8c1g15
-  entry_content: |
-    <img src=https://i.redditmedia.com/DicJjBFTWSvzHg4EWXUpaqPve4foOLZie-FodsLpaCo.jpg?s=e6e86fee00aa3ebefa776900639082a3 frameborder=0>
-- entry_name: |
     Too many young critters around today, please draw your attention to Nutmeg the world's oldest cat
   entry_id: 8c3956
   entry_content: |
@@ -127,11 +122,6 @@ data:
   entry_id: 8c3dqa
   entry_content: |
     <img src=https://i.redditmedia.com/lo2k8X4WZPJId-bp96tzGxaDjz2EKAl1lprvoLFwttc.jpg?s=86f6326c337d356fa856d213911f1111 frameborder=0>
-- entry_name: |
-    RNC deputy finance chair resigns after reports of $1.6 million payment to Playboy Playmate
-  entry_id: 8c1k4l
-  entry_content: |
-    <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
 - entry_name: |
     This girl saved up her money so she could donate these items to our local animal shelter. (Tracy, California)
   entry_id: 8c36b0
@@ -252,4 +242,13 @@ data:
   entry_id: 8c5ym8
   entry_content: |
     <img src=https://i.redditmedia.com/ZHiPB3EP9i4SB06crxbCwDBp2-ACvkQch8_iDZtoTcY.jpg?s=e7cdc9cfd55b5cb641043c03bd632610 frameborder=0>
+- entry_name: |
+  entry_id: 8c6xpp
+  entry_content: |
+    null
+- entry_name: |
+    I'm an Australian photographer living in the rockies. Your country is pretty rad!
+  entry_id: 8c4zcm
+  entry_content: |
+    <img src=https://i.redditmedia.com/P2qnMrgedbv4yLXxdJCdR8A86uFn_LheExb3NrAbJzo.jpg?s=8d8ebc53f8dfed5e9306f4d6704d183e frameborder=0>
 ---
