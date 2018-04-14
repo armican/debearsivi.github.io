@@ -3,11 +3,6 @@ layout: post
 title: 15 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    I have a ways to go, but I’ve lost over 170 pounds.
-  entry_id: 8c1qpb
-  entry_content: |
-    <img src=https://i.redditmedia.com/sfdiOdJKXURkI67aZsqp5539FPvc2Wlq65wjjHX0Ng4.jpg?s=11b66627d9418fd9b5177a76fe4e08ed frameborder=0>
-- entry_name: |
     Vaccines cause adults
   entry_id: 8c32e0
   entry_content: |
@@ -43,35 +38,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BcuceS1-y52Na-iYdNt_iYxOiT73NfOeigeG2B_o_cg.jpg?s=1f08fcb587bc27d6c595ade1b08beb2d frameborder=0>
 - entry_name: |
+    A wild luggage in its natural habitat
+  entry_id: 8c7btv
+  entry_content: |
+    <iframe src=https://v.redd.it/e18lv42sevr01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Been a wedding photographer for over 14 years and finally got to photograph my own beautiful Bride.
   entry_id: 8c4usv
   entry_content: |
     <img src=https://i.redditmedia.com/3Ftwt2QlfFtfBUnHIEgjMf9_kzPjVTWDwJb6uVz5fz8.jpg?s=8f89e8d3a7eef9fa62f98fedc6f92d69 frameborder=0>
 - entry_name: |
-    A wild luggage in its natural habitat
-  entry_id: 8c7btv
+    All of my pens are made in Japan except the red one.
+  entry_id: 8c7682
   entry_content: |
-    <iframe src=https://v.redd.it/e18lv42sevr01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/8n5QzoWRvE0bx6-W2dqO7qu8oT39vdY2EQfpibTt9X0.jpg?s=1567557387824f2ce2d3e83d01e16e24 frameborder=0>
 - entry_name: |
     This restaurant used to be a Blockbuster Video
   entry_id: 8c3b15
   entry_content: |
     <img src=https://i.redditmedia.com/Je6c0VjaD5seesCXCd5H3RvGJoBteeSnNtD8AdhqKSI.jpg?s=d910ca2d7af8bff2e2b7ff2ef14300d0 frameborder=0>
 - entry_name: |
+    TIL: Of the United States' 2.9 million female high school athletes, only 3% are cheerleaders, yet cheerleading accounts for nearly 65% of all catastrophic injuries in girls' high school athletics and carries the highest rate of catastrophic injuries in sports.
+  entry_id: 8c7zqu
+  entry_content: |
+    <img src=https://i.redditmedia.com/7u7Y34R-l97lMZ-Wr-EkfMqlJ-xhBLDIJ2Yqfo4XAhM.jpg?s=515040c8eb51c34314edf8b1e69382c3 frameborder=0>
+- entry_name: |
     My dog is dignified. My wife's dog, doesn't know the meaning of the word.
   entry_id: 8c43ok
   entry_content: |
     <iframe src=https://v.redd.it/olfzif25vrr01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Made this in my woodworking class.... got an 11/10.
-  entry_id: 8c1qa5
+    Patriotism at its finest
+  entry_id: 8c65nq
   entry_content: |
-    <img src=https://i.redditmedia.com/rv-GWRa0vZSMmvvWkKyzmeDL6BqM5d6FnDiIwUsA_94.jpg?s=baddb9f3feb50c98c77f38874dfb4796 frameborder=0>
-- entry_name: |
-    All of my pens are made in Japan except the red one.
-  entry_id: 8c7682
-  entry_content: |
-    <img src=https://i.redditmedia.com/8n5QzoWRvE0bx6-W2dqO7qu8oT39vdY2EQfpibTt9X0.jpg?s=1567557387824f2ce2d3e83d01e16e24 frameborder=0>
+    <img src=https://i.redditmedia.com/Y-q7ql2eAnIWMCMxlGhh27BuQxUdOwuGS8iUj6d63IE.jpg?s=d4c49bd63a1094b682d822ba4a9c95fe frameborder=0>
 - entry_name: |
     Are “Steal his look” memes back on the rise ? Should we invest?
   entry_id: 8c36j9
@@ -88,10 +88,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-mL1tgdgHd0qeXDmeoB45Efiz9lck-kVf7lZhlRn6pY.jpg?s=a41184d027d304751990cc7bbfdbce90 frameborder=0>
 - entry_name: |
-    Patriotism at its finest
-  entry_id: 8c65nq
+    Sloth gets carried across the road, thinks he's flying
+  entry_id: 8c7k39
   entry_content: |
-    <img src=https://i.redditmedia.com/Y-q7ql2eAnIWMCMxlGhh27BuQxUdOwuGS8iUj6d63IE.jpg?s=d4c49bd63a1094b682d822ba4a9c95fe frameborder=0>
+    <iframe src=https://v.redd.it/syazrjbxmvr01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     When you try to show love to your wife and she gets an attitude.
   entry_id: 8c4wab
@@ -113,10 +113,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zbrnjww7aqr01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    TIL: Of the United States' 2.9 million female high school athletes, only 3% are cheerleaders, yet cheerleading accounts for nearly 65% of all catastrophic injuries in girls' high school athletics and carries the highest rate of catastrophic injuries in sports.
-  entry_id: 8c7zqu
+    This is the story of a man named Stanley
+  entry_id: 8c7low
   entry_content: |
-    <img src=https://i.redditmedia.com/7u7Y34R-l97lMZ-Wr-EkfMqlJ-xhBLDIJ2Yqfo4XAhM.jpg?s=515040c8eb51c34314edf8b1e69382c3 frameborder=0>
+    <img src=https://i.redditmedia.com/4hw66FyZ0IPeFJpgfneMviNaLSKOx9SpSDZcwThUcRM.jpg?s=4926ba2835ec23e460cea095f55a914d frameborder=0>
 - entry_name: |
     Altruism
   entry_id: 8c3dqa
@@ -128,15 +128,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rw8If1CaOaxfDJ4LIEzjIfLYqV_qX-oNwQ0-XLsAI5U.jpg?s=2a8f13d4dc46e52c0219113c607015c0 frameborder=0>
 - entry_name: |
+    Anyone who grew up watching movies in the 80s will know not to mess with this machine.
+  entry_id: 8c7139
+  entry_content: |
+    <img src=https://i.redditmedia.com/o7oyfX4m7vCHAcTQj5EZFNbijrKBzGBwNDz96CqmIoY.jpg?s=f197025696bcce3c4498e90b4a2ad9d1 frameborder=0>
+- entry_name: |
     So smol, so sleepy.
   entry_id: 8c4ha1
   entry_content: |
     <iframe src=https://v.redd.it/oxxnrulc6sr01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    please finish this first
+  entry_id: 8c6f3b
+  entry_content: |
+    <img src=https://i.redditmedia.com/cf5tOtKCiLE0MqlAt7F2hZ1k7ZS7jlEAGDy-puW8CCU.jpg?s=e787170c890502eae16fe58fedc04b12 frameborder=0>
+- entry_name: |
+    Osama BEEN Spoken
+  entry_id: 8c6ifh
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2WN0sxbG69XVrrUzOJe8mxl927UApSB4R1G4Bv9T8k.jpg?s=09e5398e6ddd8b70479beb853a472bf1 frameborder=0>
+- entry_name: |
+    Stray cat has given birth to 2 kittens in my garage
+  entry_id: 8c6u5y
+  entry_content: |
+    <img src=https://i.redditmedia.com/Zv-Pv0Y9EHtuniddpGT8r_uOdQPHKByL2IAwTmAsqVo.jpg?s=658b701e4bd1dfc5cee995262e3037cb frameborder=0>
+- entry_name: |
     Patrick's Star
   entry_id: 8c2oav
   entry_content: |
     <img src=https://i.redditmedia.com/kr3hkbWMtislmA3aoJ6pHef8TZKVDtfgidXF3l3WiVI.jpg?s=9a2856c9dda1f4982d75554cd4c87abb frameborder=0>
+- entry_name: |
+    Containing the floof
+  entry_id: 8c7bub
+  entry_content: |
+    <iframe src=https://v.redd.it/dx1umqmjevr01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Elon Musk admits humans are sometimes superior to robots: “Yes, excessive automation at Tesla was a mistake. To be precise, my mistake. Humans are underrated”
   entry_id: 8c2n40
@@ -153,15 +178,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1iHxKfnGRG4ZdyAO-8QLvvMN_Cd5NnqoWdrEuqWD7D4.jpg?s=4ed0a58a3338f9fba53b029777b10545 frameborder=0>
 - entry_name: |
-    Stray cat has given birth to 2 kittens in my garage
-  entry_id: 8c6u5y
-  entry_content: |
-    <img src=https://i.redditmedia.com/Zv-Pv0Y9EHtuniddpGT8r_uOdQPHKByL2IAwTmAsqVo.jpg?s=658b701e4bd1dfc5cee995262e3037cb frameborder=0>
-- entry_name: |
     Cleveland Indians Pitcher Zach McAllister Making the Catch of the Year
   entry_id: 8c362l
   entry_content: |
     <iframe src=https://v.redd.it/ltos6eks4rr01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Metal Gear Goose
+  entry_id: 8c655w
+  entry_content: |
+    <img src=https://i.redditmedia.com/QF_MEG7rDbkhj3FNMpA8ReEMJjlyFrEmUUGIZaUudd0.gif?fm=jpg&s=a459f15643d41ad36dd25decb6dfeb7b frameborder=0>
 - entry_name: |
     mirror selfie
   entry_id: 8c2w1a
@@ -173,50 +198,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rEjo_GuiLCPjA55BhLfKBjT40BdyuTd1EstJ9y1Jg8Y.jpg?s=15604508454f18afa59b1522b4eba2d6 frameborder=0>
 - entry_name: |
-    please finish this first
-  entry_id: 8c6f3b
+  entry_id: 8c6xpp
   entry_content: |
-    <img src=https://i.redditmedia.com/cf5tOtKCiLE0MqlAt7F2hZ1k7ZS7jlEAGDy-puW8CCU.jpg?s=e787170c890502eae16fe58fedc04b12 frameborder=0>
-- entry_name: |
-    Metal Gear Goose
-  entry_id: 8c655w
-  entry_content: |
-    <img src=https://i.redditmedia.com/QF_MEG7rDbkhj3FNMpA8ReEMJjlyFrEmUUGIZaUudd0.gif?fm=jpg&s=a459f15643d41ad36dd25decb6dfeb7b frameborder=0>
-- entry_name: |
-    Anyone who grew up watching movies in the 80s will know not to mess with this machine.
-  entry_id: 8c7139
-  entry_content: |
-    <img src=https://i.redditmedia.com/o7oyfX4m7vCHAcTQj5EZFNbijrKBzGBwNDz96CqmIoY.jpg?s=f197025696bcce3c4498e90b4a2ad9d1 frameborder=0>
+    null
 - entry_name: |
     AGAIN, TO OUR VERY FOOLISH LEADER, DO NOT ATTACK SYRIA - IF YOU DO MANY VERY BAD THINGS WILL HAPPEN & FROM THAT FIGHT THE U.S. GETS NOTHING! | 6:20 AM - 5 Sep 2013
   entry_id: 8c45bh
   entry_content: |
     <img src=https://i.redditmedia.com/1BHwYziCsnYFlD-9Yeh3Ilg1vufMNKKfB6vjOz48kAo.jpg?s=e982379799d75fac9b85e3b5b2bf2fad frameborder=0>
 - entry_name: |
-    Osama BEEN Spoken
-  entry_id: 8c6ifh
-  entry_content: |
-    <img src=https://i.redditmedia.com/f2WN0sxbG69XVrrUzOJe8mxl927UApSB4R1G4Bv9T8k.jpg?s=09e5398e6ddd8b70479beb853a472bf1 frameborder=0>
-- entry_name: |
-    Organic Truth
-  entry_id: 8c1r18
-  entry_content: |
-    <img src=https://i.redditmedia.com/XSsBcvUpIDHO-wl2x_nhatIIi6PanQb9AO7vzCayD7Q.png?s=5973844280268d2a76e3308f02e32d36 frameborder=0>
-- entry_name: |
     GF just messaged me to tell me she arrived back to her car to find security and this note waiting for her
   entry_id: 8c4pxf
   entry_content: |
     <img src=https://i.redditmedia.com/GBIL6ScEqTKSB_9o7dsqGIMsoKWUOuthDc_6-0QRN5c.png?s=41c4947750ad167f47281c255a29d316 frameborder=0>
 - entry_name: |
-    TIL a child is 16 times safer riding to school in a school bus than in a family vehicle
-  entry_id: 8c4g8t
-  entry_content: |
-    <img src=https://i.redditmedia.com/dc-6NBHwlRhuV-rkBYyr7N3eoyezKUtVq_nTD-2lc_g.jpg?s=3f393e0bf7e95657d91287429288d9ab frameborder=0>
-- entry_name: |
     Fluffy boi
   entry_id: 8c59pj
   entry_content: |
     <img src=https://i.redditmedia.com/mzFtKmlEEuc47HxnnfljHk5zGuHPGYU3_sI3Uk2_dao.jpg?s=7afde7e04a04013dbed734c370b76e54 frameborder=0>
+- entry_name: |
+    TIL a child is 16 times safer riding to school in a school bus than in a family vehicle
+  entry_id: 8c4g8t
+  entry_content: |
+    <img src=https://i.redditmedia.com/dc-6NBHwlRhuV-rkBYyr7N3eoyezKUtVq_nTD-2lc_g.jpg?s=3f393e0bf7e95657d91287429288d9ab frameborder=0>
 - entry_name: |
     They call him Hercules.
   entry_id: 8c47fe
@@ -237,10 +241,6 @@ data:
   entry_id: 8c5ym8
   entry_content: |
     <img src=https://i.redditmedia.com/ZHiPB3EP9i4SB06crxbCwDBp2-ACvkQch8_iDZtoTcY.jpg?s=e7cdc9cfd55b5cb641043c03bd632610 frameborder=0>
-- entry_name: |
-  entry_id: 8c6xpp
-  entry_content: |
-    null
 - entry_name: |
     I'm an Australian photographer living in the rockies. Your country is pretty rad!
   entry_id: 8c4zcm
