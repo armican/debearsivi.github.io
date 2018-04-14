@@ -73,6 +73,11 @@
   $(document).ready(function() {
     $(".filter_button").click(function(){ if($(this).hasClass('btn-dark')) { $(this).removeClass('btn-dark'); $(this).addClass('btn-outline-dark');} else { $(this).removeClass('btn-outline-dark'); $(this).addClass('btn-dark'); } });
     snackbar();
+    for(i=0; i<$('.filter_button').length; i++) {
+      if(getCookie($('.filter_button')[i].name) == 'false') {
+        $('.filter_button')[i].click();
+      }
+    }
     for(i=0; i<50; i++) {
       var entry_content = $('.entry_content')[i];
 
