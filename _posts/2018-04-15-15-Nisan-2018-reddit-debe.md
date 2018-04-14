@@ -108,11 +108,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fMFg2K2L17V3Y7PsuzJmj7Awb0OAtB77Z-IgB3R2R5I.jpg?s=b6ca8aa0f98fee0420b70a23c5477e78 frameborder=0>
 - entry_name: |
-    The way this robot arm keeps the glass perfectly still
-  entry_id: 8c1xhm
-  entry_content: |
-    <iframe src=https://v.redd.it/zbrnjww7aqr01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     This is the story of a man named Stanley
   entry_id: 8c7low
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8c5umj
   entry_content: |
     <img src=https://i.redditmedia.com/T__RFrpEexqNYk4AuHv7AoaFpi8gplUNJx8XFWWFvU8.png?s=b20c531ecd83d588f5e4f879fc25516f frameborder=0>
+- entry_name: |
+    Road trip with all of my friends!!
+  entry_id: 8c3r9z
+  entry_content: |
+    <img src=https://i.redditmedia.com/x9EyFZHjj4I6ius1LENcNvvksvVJ7jSgS0CYcMHMAkw.jpg?s=d7d4cc7d65e53c64fd4ec5a590749bc6 frameborder=0>
 ---
