@@ -43,6 +43,13 @@
             var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
             return keyValue ? keyValue[2] : null;
   }
+  function filterSave(key) {
+    if(getCookie(key) == 'false') { 
+      document.cookie= key + '=true; expires:Fri, 8 Jul 2030 00:00:00 UTC; path=/';
+    } else {
+      document.cookie= key + '=false; expires:Fri, 8 Jul 2030 00:00:00 UTC; path=/'; 
+    }
+  }
   function snackbar() {
       // Get the snackbar DIV
       var x = document.getElementById("snackbar");
