@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/F9rVNQX1lDvrSnZy8LDPvZWaFvbDxw20VDRnvkaVPQ4.jpg?s=56a543862bb73025292f6b9be59c0cd6 frameborder=0>
 - entry_name: |
-    Michigan man charged with shooting at teen who knocked on door to ask directions
-  entry_id: 8c9v45
-  entry_content: |
-    <img src=https://i.redditmedia.com/BXslYSNxoznHuX0bybOLy2AksEatxVakmggA-86_Ki8.jpg?s=8f5d952a88462092ef2b31050f8c33cb frameborder=0>
-- entry_name: |
     You’re doing good :)
   entry_id: 8cbi8j
   entry_content: |
@@ -243,13 +238,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tR3z8H7gftrU39HHK1zRu4KjAdci6pFRhrOxLTaEZWc.jpg?s=f8bf713c9c8b9027fdc54c5848f241e3 frameborder=0>
 - entry_name: |
-    What Chewbacca would look like as a shaved man.
-  entry_id: 8ceh3d
-  entry_content: |
-    <img src=https://i.redditmedia.com/SzwNb49ceHE5oOifn7jrtMQzpk5Z3uVVQvU_q-zfRZU.jpg?s=88f71c0b980d9e653870a97b3f462cfd frameborder=0>
-- entry_name: |
     Syria bombing: Jeremy Corbyn calls for War Powers Act to limit Government's ability to launch air strikes without asking MPs first
   entry_id: 8cec16
   entry_content: |
     <img src=https://i.redditmedia.com/o4O5uRUYzA6EX_7fM6jDCLYv0KDMK-5bZg3YI_mLavQ.jpg?s=30ff73def3ee1dba3f44e188afaa3246 frameborder=0>
+- entry_name: |
+    Jeff Bezos' car as a billionaire in 1999
+  entry_id: 8cecoe
+  entry_content: |
+    <iframe src=https://v.redd.it/xjfqe7a6v1s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Debbie Reynolds and Carrie Fisher, 1972
+  entry_id: 8cf10g
+  entry_content: |
+    <img src=https://i.redditmedia.com/HAiNj-Q8qNr9s8czbKnMbQZjeBVUL9SFC4GeUOyJG9U.jpg?s=f5e0db2964a3937b2aca37045b6e78d5 frameborder=0>
 ---
