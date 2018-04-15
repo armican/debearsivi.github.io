@@ -68,11 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/z85y4q9yz2s01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Sound logic
-  entry_id: 8ca1w8
-  entry_content: |
-    <img src=https://i.redditmedia.com/HCd9p5df6Mn8t5GxU--ewc6Xwf81NZFas1UOJyO2dHU.jpg?s=46077241f7e83443bdcd39cbd0ddf74f frameborder=0>
-- entry_name: |
     TIL Hugh Jackman never knew wolverines were real animals; he mistakenly studied wolves in preparation for the iconic super hero role.
   entry_id: 8ca7e2
   entry_content: |
@@ -82,11 +77,6 @@ data:
   entry_id: 8cbi8j
   entry_content: |
     <img src=https://i.redditmedia.com/-SpDK2XmHwBaeljD75BkZ85MEYd-WQdduyr-TZKSIq8.jpg?s=11fe7b8c2bcfea59c7e858e42b5dae5d frameborder=0>
-- entry_name: |
-    Pentagon announces 2000% increase in Russia bots since Friday
-  entry_id: 8ca04z
-  entry_content: |
-    <img src=https://i.redditmedia.com/6gddt6sZK-D8zYyh-DYhDqWwo-HAtIMdFVlEohfvY-A.jpg?s=e2223205dab62e6a3147028ff0f6bd2e frameborder=0>
 - entry_name: |
     Dancing to the Wii Theme Song
   entry_id: 8cb0h2
@@ -193,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xF_vdAqweluhEP_uOraHtRDPQwzyF_E8MKCmqDjuLko.png?s=a896083beceed006b88b92389eb80f3d frameborder=0>
 - entry_name: |
-    My grandma has a Rugrats bandaid from 1997 in her medicine cabinet
-  entry_id: 8ca165
-  entry_content: |
-    <img src=https://i.redditmedia.com/oqb3N4u7OkR56ccgRw9ewp727rXABAEISHB94KNy3E4.jpg?s=99fad756924066041c8f5759b49c9623 frameborder=0>
-- entry_name: |
     Police officers of Reddit: What absurd situation have you just happened upon and realized NO ONE called the cops?
   entry_id: 8cb3xk
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8cf10g
   entry_content: |
     <img src=https://i.redditmedia.com/HAiNj-Q8qNr9s8czbKnMbQZjeBVUL9SFC4GeUOyJG9U.jpg?s=f5e0db2964a3937b2aca37045b6e78d5 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8cayw3
+  entry_content: |
+    <img src=https://i.redditmedia.com/sLsqtXn2n9zs2XoQO-mtbNQOcs-po7VqlkaBWi5OQl4.jpg?s=fb80ea0babe88a84fc66bd8788befe74 frameborder=0>
+- entry_name: |
+    Just fine, Bob
+  entry_id: 8ca3vi
+  entry_content: |
+    <iframe src=https://v.redd.it/qggb7364lxr01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL Edna Mode, the superhero costume designer in The Incredibles, is voiced by Brad Bird, the film's director. Bird voiced Edna during storyboarding sessions, after which the production team couldn't find an actress who could do the voice better than him.
+  entry_id: 8ccpuc
+  entry_content: |
+    <img src=https://i.redditmedia.com/c87t-CzwsHX9wEFPDemis1KuD1EgqSF00oM_tV-k6ok.jpg?s=9b9fa6e03c9cd5fe59fc00f6fe7ff3bc frameborder=0>
 ---
