@@ -18,6 +18,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/w9bgdUxE9fwNFqcSv3znpDENQi5c1UfBn5fzQY9nrAQ.jpg?s=bfda5e94644b398688f71a500b2b2b21 frameborder=0>
 - entry_name: |
+    A new contraption got installed and everyone is curious about it
+  entry_id: 8cegjy
+  entry_content: |
+    <iframe src=https://v.redd.it/hbk7ey8m02s01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I gave a girl in my Malagasy village a small lego set. She came back and asked if what she made was “okay”.
+  entry_id: 8cf1kn
+  entry_content: |
+    <img src=https://i.redditmedia.com/SW0Fy2q4L2PMUzSQpjfGL5Ls689lZc2Y1tdBiCOe5Hs.jpg?s=6651f149fe121b94c8805e60aa9092f9 frameborder=0>
+- entry_name: |
     My favorite photo of my maine coon
   entry_id: 8ccq6x
   entry_content: |
@@ -33,25 +43,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hh3m6Vv2ORzc5jDcpskjDwxrDM7Ge0L3RS5cKwCops4.jpg?s=b3a47a6b5a1720256f9c5da153865eba frameborder=0>
 - entry_name: |
-    A new contraption got installed and everyone is curious about it
-  entry_id: 8cegjy
+    Twas a beautiful site at my sisters 18th
+  entry_id: 8cehhz
   entry_content: |
-    <iframe src=https://v.redd.it/hbk7ey8m02s01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Cracked Crackers arranged by Kristen Meyer
-  entry_id: 8c9dw9
-  entry_content: |
-    <img src=https://i.redditmedia.com/I670bR9S28t_7KF3YdFBsh0gO8PD5ruQHeuGKWoJwiI.jpg?s=dd2a2bbbe53073478ef224bc7fe069ce frameborder=0>
-- entry_name: |
-    I gave a girl in my Malagasy village a small lego set. She came back and asked if what she made was “okay”.
-  entry_id: 8cf1kn
-  entry_content: |
-    <img src=https://i.redditmedia.com/SW0Fy2q4L2PMUzSQpjfGL5Ls689lZc2Y1tdBiCOe5Hs.jpg?s=6651f149fe121b94c8805e60aa9092f9 frameborder=0>
+    <img src=https://i.redditmedia.com/nXzqP4tNf88YJTpLgmRi9ZHmjg-53vn0c-xbL2QJMpQ.jpg?s=70a7063cc80bdb6c97d50cf7d92be281 frameborder=0>
 - entry_name: |
     Happy wedding shower, Jana. Love the sign!
   entry_id: 8cblkm
   entry_content: |
     <img src=https://i.redditmedia.com/RIqybZSy0TCm11KkPMZZplCybMEKlXkDEGg4-zbn90A.jpg?s=5a5f8dbbe61cff1d51af5838d7f696b8 frameborder=0>
+- entry_name: |
+    I'll take the stairs
+  entry_id: 8ce96v
+  entry_content: |
+    <iframe src=https://v.redd.it/c8ajzqf4q1s01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Amber don't fuck around
   entry_id: 8cbf24
@@ -78,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-SpDK2XmHwBaeljD75BkZ85MEYd-WQdduyr-TZKSIq8.jpg?s=11fe7b8c2bcfea59c7e858e42b5dae5d frameborder=0>
 - entry_name: |
-    Twas a beautiful site at my sisters 18th
-  entry_id: 8cehhz
-  entry_content: |
-    <img src=https://i.redditmedia.com/nXzqP4tNf88YJTpLgmRi9ZHmjg-53vn0c-xbL2QJMpQ.jpg?s=70a7063cc80bdb6c97d50cf7d92be281 frameborder=0>
-- entry_name: |
     Pentagon announces 2000% increase in Russia bots since Friday
   entry_id: 8ca04z
   entry_content: |
@@ -102,16 +102,6 @@ data:
   entry_id: 8caxlx
   entry_content: |
     <img src=https://i.redditmedia.com/RdnhGEAFDVVdEWbNWdBveNX9rfA2lTJxIb21lnUxqQk.jpg?s=a726395ea96a6988d8856b45a9e6cf48 frameborder=0>
-- entry_name: |
-    I'll take the stairs
-  entry_id: 8ce96v
-  entry_content: |
-    <iframe src=https://v.redd.it/c8ajzqf4q1s01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    A Mexican man who spoke no English went into a department store to buy socks.
-  entry_id: 8c9cmw
-  entry_content: |
-    null
 - entry_name: |
     Fell asleep in the bath. Finger brains.
   entry_id: 8cafax
@@ -133,6 +123,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/chPt8PA7KEoxFBPtn2bug2ry1mg-W2-dfMo01bB9_4o.jpg?s=972bf7c0045cee8b883f4e1f05f3c75a frameborder=0>
 - entry_name: |
+    Fan throws John Cena’s shirt back to him
+  entry_id: 8cfe97
+  entry_content: |
+    <iframe src=https://v.redd.it/z85y4q9yz2s01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    If this post gets 69,000 upvotes I will create a full length garlic bread bible and post it.
+  entry_id: 8cdzgq
+  entry_content: |
+    <img src=https://i.redditmedia.com/k2UJji0ihYMZHcjeSaXEuv4fKvlAhQHIOfqwarkETVc.png?s=246f9570d5ad47601f103061ef4abdbb frameborder=0>
+- entry_name: |
     South African safari guide stops a charging 7 ton elephant with his hand.
   entry_id: 8ca8q9
   entry_content: |
@@ -148,20 +148,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ze2rKlJBTtQhwkRLO3S65mDPzfvIRuYvSutfAO4k1ZI.jpg?s=f1ec277d63f836581fccb9bba47299dd frameborder=0>
 - entry_name: |
-    If this post gets 69,000 upvotes I will create a full length garlic bread bible and post it.
-  entry_id: 8cdzgq
+    TIL that the most popular prison currency is no longer cigarettes, but ramen noodles.
+  entry_id: 8cblmu
   entry_content: |
-    <img src=https://i.redditmedia.com/k2UJji0ihYMZHcjeSaXEuv4fKvlAhQHIOfqwarkETVc.png?s=246f9570d5ad47601f103061ef4abdbb frameborder=0>
+    <img src=https://i.redditmedia.com/63ptd9kVsabVDbL6riSCTPSZWFQRgHBHcFhepU4qeko.jpg?s=f0d15e662b2b0d3643033f9f460db07f frameborder=0>
 - entry_name: |
     14/10, would pet
   entry_id: 8cavf1
   entry_content: |
     <img src=https://i.redditmedia.com/aanD1K2jBqZeUIBiZZl2u2tC1h3jVqwbkGqWxHq0I6A.jpg?s=251b2709bd16172c9cad13bb38ba5acd frameborder=0>
-- entry_name: |
-    TIL that the most popular prison currency is no longer cigarettes, but ramen noodles.
-  entry_id: 8cblmu
-  entry_content: |
-    <img src=https://i.redditmedia.com/63ptd9kVsabVDbL6riSCTPSZWFQRgHBHcFhepU4qeko.jpg?s=f0d15e662b2b0d3643033f9f460db07f frameborder=0>
 - entry_name: |
     Bail throwing that shade
   entry_id: 8cbqo4
@@ -177,6 +172,16 @@ data:
   entry_id: 8cauch
   entry_content: |
     null
+- entry_name: |
+    Sarah Huckabee Sanders tweeted out an old photo pretending it was about the Syria attacks
+  entry_id: 8ce22j
+  entry_content: |
+    <img src=https://i.redditmedia.com/aog5pV6V25Gulsrcy2b89MQdAv5Mkv-87fkcSRcXohE.png?s=22335da4d398d1c43bc041b482ff3a3c frameborder=0>
+- entry_name: |
+    bridge limbo
+  entry_id: 8cd9ey
+  entry_content: |
+    <iframe src=https://v.redd.it/4nxi2ujnd0s01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Drake sitting court-side at the Raptors Game wearing a Humboldt Broncos Jersey #humboldtstrong
   entry_id: 8cb87h
@@ -198,15 +203,10 @@ data:
   entry_content: |
     null
 - entry_name: |
-    bridge limbo
-  entry_id: 8cd9ey
+    Im just out here trying to payoff my charger
+  entry_id: 8cezif
   entry_content: |
-    <iframe src=https://v.redd.it/4nxi2ujnd0s01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Sarah Huckabee Sanders tweeted out an old photo pretending it was about the Syria attacks
-  entry_id: 8ce22j
-  entry_content: |
-    <img src=https://i.redditmedia.com/aog5pV6V25Gulsrcy2b89MQdAv5Mkv-87fkcSRcXohE.png?s=22335da4d398d1c43bc041b482ff3a3c frameborder=0>
+    <img src=https://i.redditmedia.com/I8uIpY20LrFjbZb3TfbvXQcVpRFiEvzXfj-ca6c_z2k.jpg?s=e11dff41aa4547e0efdab6c00f6c5010 frameborder=0>
 - entry_name: |
     Nasty Patty 🤢
   entry_id: 8cc2gm
@@ -238,15 +238,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0xYTrJFzWHG8wFgFaIvecafWN5Ymj_GNjUqC5ox0WBA.jpg?s=09e82ba45b3a2c224258e4c342760ec8 frameborder=0>
 - entry_name: |
+    TIL that on December 28, 1973, after having worked for 16 hours a day without breaks for six weeks, the crew of the Skylab space station mutineed and shut off communications with ground control for a day
+  entry_id: 8cea1x
+  entry_content: |
+    <img src=https://i.redditmedia.com/p8nb-QGt7fGaCm8fKwWtgEskzZwTOMEONSXv3lmTq98.jpg?s=673ce3135269dc65b9b8df227803bf91 frameborder=0>
+- entry_name: |
     hmmm
   entry_id: 8cayw3
   entry_content: |
     <img src=https://i.redditmedia.com/sLsqtXn2n9zs2XoQO-mtbNQOcs-po7VqlkaBWi5OQl4.jpg?s=fb80ea0babe88a84fc66bd8788befe74 frameborder=0>
-- entry_name: |
-    Toddler who beat cancer twice heads home after 8-month hospital stay
-  entry_id: 8c9l4t
-  entry_content: |
-    <img src=https://i.redditmedia.com/ekPDiwQnonW_WHfy8xjrRgWdpwGVEX6TFU7sXm93JVc.jpg?s=10847011b2b7eafc7a9242099f8ae4d0 frameborder=0>
 - entry_name: |
     Just fine, Bob
   entry_id: 8ca3vi
