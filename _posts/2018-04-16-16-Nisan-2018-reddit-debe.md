@@ -18,15 +18,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SW0Fy2q4L2PMUzSQpjfGL5Ls689lZc2Y1tdBiCOe5Hs.jpg?s=6651f149fe121b94c8805e60aa9092f9 frameborder=0>
 - entry_name: |
-    Me and my Great Uncle 24 years apart.
-  entry_id: 8cadi0
-  entry_content: |
-    <img src=https://i.redditmedia.com/w9bgdUxE9fwNFqcSv3znpDENQi5c1UfBn5fzQY9nrAQ.jpg?s=bfda5e94644b398688f71a500b2b2b21 frameborder=0>
-- entry_name: |
     A new contraption got installed and everyone is curious about it
   entry_id: 8cegjy
   entry_content: |
     <iframe src=https://v.redd.it/hbk7ey8m02s01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Me and my Great Uncle 24 years apart.
+  entry_id: 8cadi0
+  entry_content: |
+    <img src=https://i.redditmedia.com/w9bgdUxE9fwNFqcSv3znpDENQi5c1UfBn5fzQY9nrAQ.jpg?s=bfda5e94644b398688f71a500b2b2b21 frameborder=0>
 - entry_name: |
     My favorite photo of my maine coon
   entry_id: 8ccq6x
@@ -38,15 +38,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pe427sI53ddZt8bib5N-UJ1Cj-J3H3crrK_iGjUnLao.jpg?s=d06fc68630eea905017427dd34704043 frameborder=0>
 - entry_name: |
-    Look at those jellybean paaaaws!! <3
-  entry_id: 8ccaht
+    Fan throws John Cena’s shirt back to him
+  entry_id: 8cfe97
   entry_content: |
-    <img src=https://i.redditmedia.com/hh3m6Vv2ORzc5jDcpskjDwxrDM7Ge0L3RS5cKwCops4.jpg?s=b3a47a6b5a1720256f9c5da153865eba frameborder=0>
+    <iframe src=https://v.redd.it/z85y4q9yz2s01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Twas a beautiful site at my sisters 18th
   entry_id: 8cehhz
   entry_content: |
     <img src=https://i.redditmedia.com/nXzqP4tNf88YJTpLgmRi9ZHmjg-53vn0c-xbL2QJMpQ.jpg?s=70a7063cc80bdb6c97d50cf7d92be281 frameborder=0>
+- entry_name: |
+    Look at those jellybean paaaaws!! <3
+  entry_id: 8ccaht
+  entry_content: |
+    <img src=https://i.redditmedia.com/hh3m6Vv2ORzc5jDcpskjDwxrDM7Ge0L3RS5cKwCops4.jpg?s=b3a47a6b5a1720256f9c5da153865eba frameborder=0>
 - entry_name: |
     I'll take the stairs
   entry_id: 8ce96v
@@ -63,16 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_v39m8TFDNrtDJ6gBub4URB1MctIqke71o5kllAd_qE.jpg?s=14e180e86ec15c1d69a7361d7639be17 frameborder=0>
 - entry_name: |
-    Fan throws John Cena’s shirt back to him
-  entry_id: 8cfe97
-  entry_content: |
-    <iframe src=https://v.redd.it/z85y4q9yz2s01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    TIL Hugh Jackman never knew wolverines were real animals; he mistakenly studied wolves in preparation for the iconic super hero role.
-  entry_id: 8ca7e2
-  entry_content: |
-    <img src=https://i.redditmedia.com/F9rVNQX1lDvrSnZy8LDPvZWaFvbDxw20VDRnvkaVPQ4.jpg?s=56a543862bb73025292f6b9be59c0cd6 frameborder=0>
-- entry_name: |
     You’re doing good :)
   entry_id: 8cbi8j
   entry_content: |
@@ -88,6 +83,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7DNmoMeIds2LfxzHH8QqJ9IT6548WWXH_JqO5rMW4n0.png?s=37b1ec67f2d1a21175532133c980ded2 frameborder=0>
 - entry_name: |
+    A cute way to propose
+  entry_id: 8cd58f
+  entry_content: |
+    <iframe src=https://v.redd.it/ka3onxu090s01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Im just out here trying to payoff my charger
+  entry_id: 8cezif
+  entry_content: |
+    <img src=https://i.redditmedia.com/I8uIpY20LrFjbZb3TfbvXQcVpRFiEvzXfj-ca6c_z2k.jpg?s=e11dff41aa4547e0efdab6c00f6c5010 frameborder=0>
+- entry_name: |
     Who wore it best?
   entry_id: 8caxlx
   entry_content: |
@@ -97,11 +102,6 @@ data:
   entry_id: 8cafax
   entry_content: |
     <img src=https://i.redditmedia.com/8A1XzgwLHpgiNsMvzOwRPZgpxEc3kTjMt8k-tWDIESM.jpg?s=4115a80411403b298fc55c99f660c921 frameborder=0>
-- entry_name: |
-    A cute way to propose
-  entry_id: 8cd58f
-  entry_content: |
-    <iframe src=https://v.redd.it/ka3onxu090s01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Tesla battery degradation at less than 10% after over 160,000 miles, according to latest data
   entry_id: 8cava3
@@ -123,25 +123,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7dyg8325lxr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Im just out here trying to payoff my charger
-  entry_id: 8cezif
-  entry_content: |
-    <img src=https://i.redditmedia.com/I8uIpY20LrFjbZb3TfbvXQcVpRFiEvzXfj-ca6c_z2k.jpg?s=e11dff41aa4547e0efdab6c00f6c5010 frameborder=0>
-- entry_name: |
     TIL that when a church put an anti-beer ad in the newspaper a local brewery accepted it as a $1 off coupon
   entry_id: 8cbzlq
   entry_content: |
     <img src=https://i.redditmedia.com/oQVxj3pGdabuX9fPKSjF1TUnPJmfepJVdh9Yhql5wkc.jpg?s=22f15a3265bbfededda722599a109fb4 frameborder=0>
 - entry_name: |
-    Ukraine Announces Plans To Quit CIS, Terminate Parts Of Russia Friendship Treaty
-  entry_id: 8caza4
-  entry_content: |
-    <img src=https://i.redditmedia.com/ze2rKlJBTtQhwkRLO3S65mDPzfvIRuYvSutfAO4k1ZI.jpg?s=f1ec277d63f836581fccb9bba47299dd frameborder=0>
-- entry_name: |
     Sarah Huckabee Sanders tweeted out an old photo pretending it was about the Syria attacks
   entry_id: 8ce22j
   entry_content: |
     <img src=https://i.redditmedia.com/aog5pV6V25Gulsrcy2b89MQdAv5Mkv-87fkcSRcXohE.png?s=22335da4d398d1c43bc041b482ff3a3c frameborder=0>
+- entry_name: |
+    bridge limbo
+  entry_id: 8cd9ey
+  entry_content: |
+    <iframe src=https://v.redd.it/4nxi2ujnd0s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Ukraine Announces Plans To Quit CIS, Terminate Parts Of Russia Friendship Treaty
+  entry_id: 8caza4
+  entry_content: |
+    <img src=https://i.redditmedia.com/ze2rKlJBTtQhwkRLO3S65mDPzfvIRuYvSutfAO4k1ZI.jpg?s=f1ec277d63f836581fccb9bba47299dd frameborder=0>
 - entry_name: |
     TIL that the most popular prison currency is no longer cigarettes, but ramen noodles.
   entry_id: 8cblmu
@@ -158,16 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2RU-qoVS9qhaZD_2KiarHXq6ZdW5L8FpoXeq5xN35vE.png?s=7c2aa216d788b45373837f4fb9911dca frameborder=0>
 - entry_name: |
-    bridge limbo
-  entry_id: 8cd9ey
-  entry_content: |
-    <iframe src=https://v.redd.it/4nxi2ujnd0s01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Being a surgeon is like being a mechanic except you have to fix the car while the engine is running
-  entry_id: 8ca477
-  entry_content: |
-    null
-- entry_name: |
     For every upvote, it's a day i won't message my ex
   entry_id: 8cauch
   entry_content: |
@@ -183,35 +173,55 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xF_vdAqweluhEP_uOraHtRDPQwzyF_E8MKCmqDjuLko.png?s=a896083beceed006b88b92389eb80f3d frameborder=0>
 - entry_name: |
-    Police officers of Reddit: What absurd situation have you just happened upon and realized NO ONE called the cops?
-  entry_id: 8cb3xk
-  entry_content: |
-    null
-- entry_name: |
     TIL that on December 28, 1973, after having worked for 16 hours a day without breaks for six weeks, the crew of the Skylab space station mutineed and shut off communications with ground control for a day
   entry_id: 8cea1x
   entry_content: |
     <img src=https://i.redditmedia.com/p8nb-QGt7fGaCm8fKwWtgEskzZwTOMEONSXv3lmTq98.jpg?s=673ce3135269dc65b9b8df227803bf91 frameborder=0>
 - entry_name: |
-    Having never met or seen a flat earth theorist, im starting to think the real conspiracy is that there are people that belive it.
-  entry_id: 8cb47z
+    Police officers of Reddit: What absurd situation have you just happened upon and realized NO ONE called the cops?
+  entry_id: 8cb3xk
   entry_content: |
     null
 - entry_name: |
-    Nasty Patty 🤢
-  entry_id: 8cc2gm
+    Debbie Reynolds and Carrie Fisher, 1972
+  entry_id: 8cf10g
   entry_content: |
-    <img src=https://i.redditmedia.com/yGmnPolaOgtDJwwk4QtF7wiwUlBsMkgVzzWAVdllm7w.jpg?s=7c38af91813f694ff1a8fc2f010b7bd4 frameborder=0>
+    <img src=https://i.redditmedia.com/HAiNj-Q8qNr9s8czbKnMbQZjeBVUL9SFC4GeUOyJG9U.jpg?s=f5e0db2964a3937b2aca37045b6e78d5 frameborder=0>
 - entry_name: |
     Found this bottle with moss while walking in the woods.
   entry_id: 8ccrwb
   entry_content: |
     <img src=https://i.redditmedia.com/vDLvXFEg_6cHbMODXA7O-7UKZqGSpehG7B-arPyrViw.jpg?s=92e410b449b57396390ccc87f9b45807 frameborder=0>
 - entry_name: |
+    Having never met or seen a flat earth theorist, im starting to think the real conspiracy is that there are people that belive it.
+  entry_id: 8cb47z
+  entry_content: |
+    null
+- entry_name: |
     All my cat wants to do is be in this fucking box.
   entry_id: 8ccj9y
   entry_content: |
     <iframe src=https://v.redd.it/lgxmppq9mzr01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Nasty Patty 🤢
+  entry_id: 8cc2gm
+  entry_content: |
+    <img src=https://i.redditmedia.com/yGmnPolaOgtDJwwk4QtF7wiwUlBsMkgVzzWAVdllm7w.jpg?s=7c38af91813f694ff1a8fc2f010b7bd4 frameborder=0>
+- entry_name: |
+    Jeff Bezos' car as a billionaire in 1999
+  entry_id: 8cecoe
+  entry_content: |
+    <iframe src=https://v.redd.it/xjfqe7a6v1s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    My three siblings and I have been color coded most of our lives. Yesterday, we put our money together and bought a Switch, with the appropriate colors for each of us.
+  entry_id: 8cfq82
+  entry_content: |
+    <img src=https://i.redditmedia.com/eBwEHVM7uIVlUuZiHWj7ThnxiK9Y1o91_YZMX_dtcoo.jpg?s=9d1537b2457a752a7b9d90a40c31c2b9 frameborder=0>
+- entry_name: |
+    Syria bombing: Jeremy Corbyn calls for War Powers Act to limit Government's ability to launch air strikes without asking MPs first
+  entry_id: 8cec16
+  entry_content: |
+    <img src=https://i.redditmedia.com/o4O5uRUYzA6EX_7fM6jDCLYv0KDMK-5bZg3YI_mLavQ.jpg?s=30ff73def3ee1dba3f44e188afaa3246 frameborder=0>
 - entry_name: |
     TIL Franklin D. Roosevelt once accidentally ran into a naked Winston Churchill. When Roosevelt apologised Churchill said The Prime Minister of Great Britain has nothing to hide from the President of the United States.
   entry_id: 8caogb
@@ -223,33 +233,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tR3z8H7gftrU39HHK1zRu4KjAdci6pFRhrOxLTaEZWc.jpg?s=f8bf713c9c8b9027fdc54c5848f241e3 frameborder=0>
 - entry_name: |
-    Syria bombing: Jeremy Corbyn calls for War Powers Act to limit Government's ability to launch air strikes without asking MPs first
-  entry_id: 8cec16
+    Another poof
+  entry_id: 8ceax4
   entry_content: |
-    <img src=https://i.redditmedia.com/o4O5uRUYzA6EX_7fM6jDCLYv0KDMK-5bZg3YI_mLavQ.jpg?s=30ff73def3ee1dba3f44e188afaa3246 frameborder=0>
+    <img src=https://i.redditmedia.com/OvmHtOJvSx5x7zmAs_hTXMfWfhExcS2nKh15UP3Qk5M.png?s=9598fb44ad50de1cba7b6c35c312b700 frameborder=0>
 - entry_name: |
-    Jeff Bezos' car as a billionaire in 1999
-  entry_id: 8cecoe
+    This spilled water conforming to the shape of the tile underneath
+  entry_id: 8ce1pu
   entry_content: |
-    <iframe src=https://v.redd.it/xjfqe7a6v1s01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Debbie Reynolds and Carrie Fisher, 1972
-  entry_id: 8cf10g
-  entry_content: |
-    <img src=https://i.redditmedia.com/HAiNj-Q8qNr9s8czbKnMbQZjeBVUL9SFC4GeUOyJG9U.jpg?s=f5e0db2964a3937b2aca37045b6e78d5 frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8cayw3
-  entry_content: |
-    <img src=https://i.redditmedia.com/sLsqtXn2n9zs2XoQO-mtbNQOcs-po7VqlkaBWi5OQl4.jpg?s=fb80ea0babe88a84fc66bd8788befe74 frameborder=0>
-- entry_name: |
-    Just fine, Bob
-  entry_id: 8ca3vi
-  entry_content: |
-    <iframe src=https://v.redd.it/qggb7364lxr01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/xIEn2Eo6fT9hruTQAxfLaUpibw6GPg1ePza5MKbuzG8.png?s=98c2fe5cfd8ff82c9cc15cdffd6fe72b frameborder=0>
 - entry_name: |
     TIL Edna Mode, the superhero costume designer in The Incredibles, is voiced by Brad Bird, the film's director. Bird voiced Edna during storyboarding sessions, after which the production team couldn't find an actress who could do the voice better than him.
   entry_id: 8ccpuc
   entry_content: |
     <img src=https://i.redditmedia.com/c87t-CzwsHX9wEFPDemis1KuD1EgqSF00oM_tV-k6ok.jpg?s=9b9fa6e03c9cd5fe59fc00f6fe7ff3bc frameborder=0>
+- entry_name: |
+    me👽irl
+  entry_id: 8ced65
+  entry_content: |
+    <img src=https://i.redditmedia.com/cveIcSLv4zI3S02DyAH1qchSV35ZTijcpdkHjJInM-c.jpg?s=3e775372a6373793fd6453f66aff5d05 frameborder=0>
 ---
