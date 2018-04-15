@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vozkhpeNURPetBfLtnGBNS-tCGtPH4a-itJCE4MoaAw.gif?fm=jpg&s=f7cea55aac4e10ac49f03be399157601 frameborder=0>
 - entry_name: |
-    Fuck
-  entry_id: 8c92am
-  entry_content: |
-    <img src=https://i.redditmedia.com/h1zM2N5LyIAGXNX3AD1nVHWoy8cfTNZduWxd2J9QoWs.jpg?s=5238f6371ddb3fc5c2722bf9a6bdf1eb frameborder=0>
-- entry_name: |
     Holding pieces of the moon and mars at the same time
   entry_id: 8cbjrm
   entry_content: |
@@ -138,11 +133,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/chPt8PA7KEoxFBPtn2bug2ry1mg-W2-dfMo01bB9_4o.jpg?s=972bf7c0045cee8b883f4e1f05f3c75a frameborder=0>
 - entry_name: |
-    How am I supposed to drive this Charger with no legs?!
-  entry_id: 8c90j7
-  entry_content: |
-    <img src=https://i.redditmedia.com/t3tvwG_HqXYdEaubksfpq1R9v9kiB-PdtY9d2tQ9GXc.gif?fm=jpg&s=827d6ec7048edb8beee709c027480c2e frameborder=0>
-- entry_name: |
     South African safari guide stops a charging 7 ton elephant with his hand.
   entry_id: 8ca8q9
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8cayw3
   entry_content: |
     <img src=https://i.redditmedia.com/sLsqtXn2n9zs2XoQO-mtbNQOcs-po7VqlkaBWi5OQl4.jpg?s=fb80ea0babe88a84fc66bd8788befe74 frameborder=0>
+- entry_name: |
+    Toddler who beat cancer twice heads home after 8-month hospital stay
+  entry_id: 8c9l4t
+  entry_content: |
+    <img src=https://i.redditmedia.com/ekPDiwQnonW_WHfy8xjrRgWdpwGVEX6TFU7sXm93JVc.jpg?s=10847011b2b7eafc7a9242099f8ae4d0 frameborder=0>
+- entry_name: |
+    Just fine, Bob
+  entry_id: 8ca3vi
+  entry_content: |
+    <iframe src=https://v.redd.it/qggb7364lxr01/DASH_4_8_M frameborder=0></iframe>
 ---
