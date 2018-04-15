@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fVcJpQJfMODctX8Hfb_jNDOSp4ERPjpmL_9s7XeqJI8.jpg?s=7c2f06660f5ec75679bfc63750f6e2ba frameborder=0>
 - entry_name: |
-    This lovely lady will be 22 years old in July.
-  entry_id: 8ca9p6
-  entry_content: |
-    <img src=https://i.redditmedia.com/pe427sI53ddZt8bib5N-UJ1Cj-J3H3crrK_iGjUnLao.jpg?s=d06fc68630eea905017427dd34704043 frameborder=0>
-- entry_name: |
     Fan throws John Cena’s shirt back to him
   entry_id: 8cfe97
   entry_content: |
@@ -117,11 +112,6 @@ data:
   entry_id: 8cdzgq
   entry_content: |
     <img src=https://i.redditmedia.com/k2UJji0ihYMZHcjeSaXEuv4fKvlAhQHIOfqwarkETVc.png?s=246f9570d5ad47601f103061ef4abdbb frameborder=0>
-- entry_name: |
-    South African safari guide stops a charging 7 ton elephant with his hand.
-  entry_id: 8ca8q9
-  entry_content: |
-    <iframe src=https://v.redd.it/7dyg8325lxr01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     TIL that when a church put an anti-beer ad in the newspaper a local brewery accepted it as a $1 off coupon
   entry_id: 8cbzlq
@@ -252,4 +242,14 @@ data:
   entry_id: 8ced65
   entry_content: |
     <img src=https://i.redditmedia.com/cveIcSLv4zI3S02DyAH1qchSV35ZTijcpdkHjJInM-c.jpg?s=3e775372a6373793fd6453f66aff5d05 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8cayw3
+  entry_content: |
+    <img src=https://i.redditmedia.com/sLsqtXn2n9zs2XoQO-mtbNQOcs-po7VqlkaBWi5OQl4.jpg?s=fb80ea0babe88a84fc66bd8788befe74 frameborder=0>
+- entry_name: |
+    A four planet system in orbit, directly imaged.
+  entry_id: 8cec23
+  entry_content: |
+    <iframe src=https://v.redd.it/scxyqq35u1s01/DASH_1_2_M frameborder=0></iframe>
 ---
