@@ -125,7 +125,7 @@ data:
     Fox cub gets stuck in a wheel, here's how they freed him.
   entry_id: 8cjae5
   entry_content: |
-    <iframe src=https://v.redd.it/w4r3gzwqs5s01/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/1tta4bi2hbs01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
   entry_id: 8cjv9c
   entry_content: |
@@ -191,11 +191,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1LVfuh43yUOlv6DoMs7alLvALbNST95UHdWD1gw3V8c.jpg?s=b956efb9bda523ad6e151effc2103a94 frameborder=0>
 - entry_name: |
-    Epic, Please Fix the Positioning for Walls!
-  entry_id: 8chag6
-  entry_content: |
-    <img src=https://i.redditmedia.com/b4PqTNHrpzuZOM1hkJv0cVdcClH2LDMVlcxiNn5freU.png?s=a594528790e3316b1ef97e7bbb4bff33 frameborder=0>
-- entry_name: |
   entry_id: 8chkdr
   entry_content: |
     null
@@ -219,11 +214,6 @@ data:
   entry_id: 8cjazk
   entry_content: |
     <img src=https://i.redditmedia.com/0b4ne52chdlGhpe81w1BPuhAE71laOqMaYmZt1Gogh4.jpg?s=6f4e0cc2ce1c0d896bb6fd6b5c8d022b frameborder=0>
-- entry_name: |
-    Brb crafting potion
-  entry_id: 8ch8xd
-  entry_content: |
-    <img src=https://i.redditmedia.com/ShDzUkBgjtdBIuT_2lK65zQ3n8Og5o0B8H6mSpm4urc.jpg?s=dbf2030f29dc2e03f56d1830a6b10204 frameborder=0>
 - entry_name: |
     Are veterinarians deemed more likely to survive the apocalypse?
   entry_id: 8cjh9s
@@ -249,4 +239,14 @@ data:
   entry_id: 8cjlld
   entry_content: |
     <img src=https://i.redditmedia.com/b9YWf_UMKi4KfmWHEy8lxKE6IvIVZLHDpVhl6QVts_Q.png?s=8ae402bd584a413ba4845dab8d80c7c1 frameborder=0>
+- entry_name: |
+    I'm am one of them. 😏
+  entry_id: 8clego
+  entry_content: |
+    <img src=https://i.redditmedia.com/oJPdE5D8PpXHapy6pEA_28-IDdgXiUmtHP0cXVt1-EQ.jpg?s=15d7aa10662ef987f9140f1de8718126 frameborder=0>
+- entry_name: |
+    MRW it’s winter in april
+  entry_id: 8citoh
+  entry_content: |
+    <iframe src=https://v.redd.it/sl2hxjqi49s01/DASH_2_4_M frameborder=0></iframe>
 ---
