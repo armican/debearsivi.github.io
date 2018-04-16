@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/f5r7eoxTuH75pQppTN-PpM8myKW40vkzzywu5YRxmzQ.png?s=68e4cb6dc9587d946613f2d3f3770a5f frameborder=0>
 - entry_name: |
-    This is Rudy. Rudy loves me. Ruby is not my cat.
-  entry_id: 8cgj3g
-  entry_content: |
-    <img src=https://i.redditmedia.com/kE4goHpGHh-bJRGgs4n1P6X8hgrrO4NfSS_NeNL1WZQ.jpg?s=88a7ddd72a3d08fa75350d65ccfea113 frameborder=0>
-- entry_name: |
     R. Lee Ermey Has Died
   entry_id: 8cizix
   entry_content: |
@@ -37,20 +32,25 @@ data:
   entry_content: |
     null
 - entry_name: |
-    I never truly understood what it’s like to grow up with siblings until I found this gem of a photo in my wife’s family album...
-  entry_id: 8cgziy
-  entry_content: |
-    <img src=https://i.redditmedia.com/wMDE7vWnmeiCjF9GTvTQiMkclNREUtVUhr2wI02LI-Y.jpg?s=2e14fb412695e017275d414d22d00866 frameborder=0>
-- entry_name: |
     LPT: When somebody is going through a hard time, it's better to ask questions than to give advice. If you ask questions, you will help him/her talk through the problem. If you give advice, s/he will politely nod along, but s/he will feel kind of empty inside bc what s/he really needs is to talk.
   entry_id: 8ckkta
   entry_content: |
     null
 - entry_name: |
+    I never truly understood what it’s like to grow up with siblings until I found this gem of a photo in my wife’s family album...
+  entry_id: 8cgziy
+  entry_content: |
+    <img src=https://i.redditmedia.com/wMDE7vWnmeiCjF9GTvTQiMkclNREUtVUhr2wI02LI-Y.jpg?s=2e14fb412695e017275d414d22d00866 frameborder=0>
+- entry_name: |
     Kermit Finally Snaps
   entry_id: 8cjesu
   entry_content: |
     <img src=https://i.redditmedia.com/QH_M-KrKxkeIweF1Oh5styyeWzTV3SntERu_bcFVFpM.gif?fm=jpg&s=cff72a44d77a1489b81d8d2cecd6be90 frameborder=0>
+- entry_name: |
+    Rushed Amazon warehouse staff reportedly pee into bottles as they're afraid of 'time-wasting' because the toilets are far away and they fear getting into trouble for taking long breaks
+  entry_id: 8cmonj
+  entry_content: |
+    <img src=https://i.redditmedia.com/IhB_NLbLw5VhuEfPDP0ahvawwba-xH28k4UL92OXwLo.jpg?s=969912666b47660b3df198b72911fe9c frameborder=0>
 - entry_name: |
     Awesome Lego Costume
   entry_id: 8cieca
@@ -62,30 +62,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/x8g1d3jc77s01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Colorful basketball court in Paris
+  entry_id: 8cn6lh
+  entry_content: |
+    <img src=https://i.redditmedia.com/PWzH2Nuzy7e-HIfV_mtGBFEImAuYHkLCMdv7GFmOe_s.jpg?s=82f840498577249f1e7ed5c0a41497f1 frameborder=0>
+- entry_name: |
     Photo of the Earths atmosphere and the moon. Shot by the international space station.
   entry_id: 8ch1cg
   entry_content: |
     <img src=https://i.redditmedia.com/Rn-gWfy6pZGpdk743KxU_DdcsxYnj5IkNHrMa766yZQ.jpg?s=bda35aa2fd62f47903876d5ef458d1e5 frameborder=0>
-- entry_name: |
-    Watercolor America
-  entry_id: 8cgonm
-  entry_content: |
-    <iframe src=https://v.redd.it/bblthbxay3s01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     TIL R.Lee Ermey voiced all the Green Army Men in Toy Story 1 and 2.
   entry_id: 8cjyym
   entry_content: |
     <img src=https://i.redditmedia.com/7DLjM6MQMAt5a4NK7hEpups8U8UrGIAXe8M6yo2qKYU.jpg?s=8007dbb437a36abc81f165ee051369c6 frameborder=0>
 - entry_name: |
+    Watercolor America
+  entry_id: 8cgonm
+  entry_content: |
+    <iframe src=https://v.redd.it/bblthbxay3s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Good doggos
   entry_id: 8chnd1
   entry_content: |
     <iframe src=https://v.redd.it/81pv1wbul4s01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Rushed Amazon warehouse staff reportedly pee into bottles as they're afraid of 'time-wasting' because the toilets are far away and they fear getting into trouble for taking long breaks
-  entry_id: 8cmonj
-  entry_content: |
-    <img src=https://i.redditmedia.com/IhB_NLbLw5VhuEfPDP0ahvawwba-xH28k4UL92OXwLo.jpg?s=969912666b47660b3df198b72911fe9c frameborder=0>
 - entry_name: |
     My town was home to a total badass during the revolutionary war
   entry_id: 8ckme3
@@ -96,6 +96,11 @@ data:
   entry_id: 8cgts9
   entry_content: |
     <img src=https://i.redditmedia.com/0m-7lR89bEhfLiGQD4YYGqWuquIHUC2dUOeePjxJbUc.jpg?s=9c2da6392d3f6c8d9bce66e83e1dbbe4 frameborder=0>
+- entry_name: |
+    Wearing glasses for his first time
+  entry_id: 8cn5sf
+  entry_content: |
+    <iframe src=https://v.redd.it/ceer0kof19s01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     R. Lee Ermey, aka The Gunny has passed away
   entry_id: 8cj2eg
@@ -112,15 +117,20 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/ffyKY3Dj5ZE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Workshop kitten
-  entry_id: 8ck27r
+    The future of racing
+  entry_id: 8cmgy6
   entry_content: |
-    <img src=https://i.redditmedia.com/LB8dgaOQR3rXKWhtL3X94eQi21WlgfVp00s-Maan7js.png?s=4f2a59ccc7185e62158603c1e02a721e frameborder=0>
+    <iframe src=https://v.redd.it/2eaula57x8s01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Robert Bobroczky 7' tall at 12 years of age
   entry_id: 8cj43p
   entry_content: |
     <iframe src=https://v.redd.it/zxuexzorn5s01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Workshop kitten
+  entry_id: 8ck27r
+  entry_content: |
+    <img src=https://i.redditmedia.com/LB8dgaOQR3rXKWhtL3X94eQi21WlgfVp00s-Maan7js.png?s=4f2a59ccc7185e62158603c1e02a721e frameborder=0>
 - entry_name: |
     Gay Couple on a Plane
   entry_id: 8ckepz
@@ -132,69 +142,54 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/93tturp6u5s01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8cjv9c
-  entry_content: |
-    <img src=https://i.redditmedia.com/21i-RhVrGhjh6-J2XknPURNvWYGxPhxwQkT6OOA-V2o.jpg?s=a58b9c450f109ffd0822c0b99555bb4b frameborder=0>
-- entry_name: |
     Fox cub gets stuck in a wheel, here's how they freed him.
   entry_id: 8cjae5
   entry_content: |
     <iframe src=https://v.redd.it/w4r3gzwqs5s01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Colorful basketball court in Paris
-  entry_id: 8cn6lh
+  entry_id: 8cjv9c
   entry_content: |
-    <img src=https://i.redditmedia.com/PWzH2Nuzy7e-HIfV_mtGBFEImAuYHkLCMdv7GFmOe_s.jpg?s=82f840498577249f1e7ed5c0a41497f1 frameborder=0>
-- entry_name: |
-    Amazing Horizon Zero Dawn cosplay at E3 2017
-  entry_id: 8cjre0
-  entry_content: |
-    <img src=https://i.redditmedia.com/SOrC21u5kjAuru7SWiv-L7pSqdKBlaVRJMqn6M43vsA.gif?fm=jpg&s=39c8d23d991c5ffe18e48ffb0dbe23e5 frameborder=0>
-- entry_name: |
-    The future of racing
-  entry_id: 8cmgy6
-  entry_content: |
-    <iframe src=https://v.redd.it/2eaula57x8s01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    I've been going to the gym for 800 days and I'm so close to my 100 pound weight loss goal.
-  entry_id: 8cjsb9
-  entry_content: |
-    <img src=https://i.redditmedia.com/qMKTAqI990AWvpaa-DfjndebuClniR3PK_mhtAZnU1A.jpg?s=49366991353613a38de89722b3facba5 frameborder=0>
-- entry_name: |
-    Mr. Fluffies betrayal.
-  entry_id: 8ciibe
-  entry_content: |
-    <img src=https://i.redditmedia.com/dmZ2W3x_oScgW3fpxsaHBn5ADboolqMYJWsZ2hRoE5c.jpg?s=150472a7d651c3b5d36245084b0b6da3 frameborder=0>
+    <img src=https://i.redditmedia.com/21i-RhVrGhjh6-J2XknPURNvWYGxPhxwQkT6OOA-V2o.jpg?s=a58b9c450f109ffd0822c0b99555bb4b frameborder=0>
 - entry_name: |
     A shark swimming inside its egg
   entry_id: 8cln34
   entry_content: |
     <iframe src=https://v.redd.it/gx2rk0mui7s01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Coloring between the lines
-  entry_id: 8ciz5i
+    Amazing Horizon Zero Dawn cosplay at E3 2017
+  entry_id: 8cjre0
   entry_content: |
-    <iframe src=https://v.redd.it/d5mx9ovzj5s01/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/SOrC21u5kjAuru7SWiv-L7pSqdKBlaVRJMqn6M43vsA.gif?fm=jpg&s=39c8d23d991c5ffe18e48ffb0dbe23e5 frameborder=0>
 - entry_name: |
-    Amazon warehouse workers pee into bottles because they are scared of being punished for taking a comfort break
-  entry_id: 8cmbab
+    I've been going to the gym for 800 days and I'm so close to my 100 pound weight loss goal.
+  entry_id: 8cjsb9
   entry_content: |
-    <img src=https://i.redditmedia.com/IhB_NLbLw5VhuEfPDP0ahvawwba-xH28k4UL92OXwLo.jpg?s=969912666b47660b3df198b72911fe9c frameborder=0>
+    <img src=https://i.redditmedia.com/qMKTAqI990AWvpaa-DfjndebuClniR3PK_mhtAZnU1A.jpg?s=49366991353613a38de89722b3facba5 frameborder=0>
 - entry_name: |
     #just_eel_things
   entry_id: 8clx9p
   entry_content: |
     <img src=https://i.redditmedia.com/YOgNXPmNPF8jCCr7wihZZe4TvLS5kNL_xI-NBHykUns.png?s=b499ccf37f52faf2b641906833c20d0e frameborder=0>
 - entry_name: |
+    Amazon warehouse workers pee into bottles because they are scared of being punished for taking a comfort break
+  entry_id: 8cmbab
+  entry_content: |
+    <img src=https://i.redditmedia.com/IhB_NLbLw5VhuEfPDP0ahvawwba-xH28k4UL92OXwLo.jpg?s=969912666b47660b3df198b72911fe9c frameborder=0>
+- entry_name: |
+    Mr. Fluffies betrayal.
+  entry_id: 8ciibe
+  entry_content: |
+    <img src=https://i.redditmedia.com/dmZ2W3x_oScgW3fpxsaHBn5ADboolqMYJWsZ2hRoE5c.jpg?s=150472a7d651c3b5d36245084b0b6da3 frameborder=0>
+- entry_name: |
+    Coloring between the lines
+  entry_id: 8ciz5i
+  entry_content: |
+    <iframe src=https://v.redd.it/d5mx9ovzj5s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Shirts are gay
   entry_id: 8ck2m5
   entry_content: |
     <img src=https://i.redditmedia.com/Qb_KFKk_Lm8hpQvE3j9MCkuOmXV1W3YKxwwZx0eV3N0.jpg?s=e7f6e08ec70fc5b86b2ca2fe0abb47f2 frameborder=0>
-- entry_name: |
-    Wearing glasses for his first time
-  entry_id: 8cn5sf
-  entry_content: |
-    <iframe src=https://v.redd.it/ceer0kof19s01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Time Flies
   entry_id: 8chvni
@@ -210,42 +205,47 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1LVfuh43yUOlv6DoMs7alLvALbNST95UHdWD1gw3V8c.jpg?s=b956efb9bda523ad6e151effc2103a94 frameborder=0>
 - entry_name: |
+    Me irl
+  entry_id: 8ck3hm
+  entry_content: |
+    <img src=https://i.redditmedia.com/aNDwEUwftC1mV9upAoUrtJk2jwbcurUcM6X_U7FPQRM.jpg?s=de21cede4a9d0c741ec89ecbae25d28a frameborder=0>
+- entry_name: |
     Epic, Please Fix the Positioning for Walls!
   entry_id: 8chag6
   entry_content: |
     <img src=https://i.redditmedia.com/b4PqTNHrpzuZOM1hkJv0cVdcClH2LDMVlcxiNn5freU.png?s=a594528790e3316b1ef97e7bbb4bff33 frameborder=0>
+- entry_name: |
+  entry_id: 8chkdr
+  entry_content: |
+    null
 - entry_name: |
     President Trump Files in Court to Intervene in Michael Cohen FBI Raid Case
   entry_id: 8cjx33
   entry_content: |
     <img src=https://i.redditmedia.com/wHrjnl4vlmKkPum-OwrX2aIQwJwf21k6PsumPJFtWyo.jpg?s=310b90151523f05007c214ed39e253b6 frameborder=0>
 - entry_name: |
-  entry_id: 8chkdr
+    Not quite the response I was expecting
+  entry_id: 8cjazk
   entry_content: |
-    null
-- entry_name: |
-    Me irl
-  entry_id: 8ck3hm
-  entry_content: |
-    <img src=https://i.redditmedia.com/aNDwEUwftC1mV9upAoUrtJk2jwbcurUcM6X_U7FPQRM.jpg?s=de21cede4a9d0c741ec89ecbae25d28a frameborder=0>
+    <img src=https://i.redditmedia.com/0b4ne52chdlGhpe81w1BPuhAE71laOqMaYmZt1Gogh4.jpg?s=6f4e0cc2ce1c0d896bb6fd6b5c8d022b frameborder=0>
 - entry_name: |
     I'm going to produce music in my lap near water, wcgw?
   entry_id: 8cgzpf
   entry_content: |
     <iframe src=https://v.redd.it/wcqta39v54s01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Not quite the response I was expecting
-  entry_id: 8cjazk
+    But girl, what qualities was I looking for before?
+  entry_id: 8ckudi
   entry_content: |
-    <img src=https://i.redditmedia.com/0b4ne52chdlGhpe81w1BPuhAE71laOqMaYmZt1Gogh4.jpg?s=6f4e0cc2ce1c0d896bb6fd6b5c8d022b frameborder=0>
+    <img src=https://i.redditmedia.com/b0J4Ib8MUynRJcpPe_6eddrKHmYH-pu-KMzoereDP74.jpg?s=cb3ceeeeef7a03089a98f8f99f670cde frameborder=0>
 - entry_name: |
     Brb crafting potion
   entry_id: 8ch8xd
   entry_content: |
     <img src=https://i.redditmedia.com/ShDzUkBgjtdBIuT_2lK65zQ3n8Og5o0B8H6mSpm4urc.jpg?s=dbf2030f29dc2e03f56d1830a6b10204 frameborder=0>
 - entry_name: |
-    But girl, what qualities was I looking for before?
-  entry_id: 8ckudi
+    It's the Little things
+  entry_id: 8clk2x
   entry_content: |
-    <img src=https://i.redditmedia.com/b0J4Ib8MUynRJcpPe_6eddrKHmYH-pu-KMzoereDP74.jpg?s=cb3ceeeeef7a03089a98f8f99f670cde frameborder=0>
+    <iframe src=https://v.redd.it/fi204oynt7s01/DASH_2_4_M frameborder=0></iframe>
 ---
