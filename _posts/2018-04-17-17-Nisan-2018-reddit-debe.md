@@ -13,11 +13,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The first time I played Pokémon Yellow I thought the guy across the river was a member of the royal guard because the cave entrance looked like his hat. I'm playing it again 15 years later and it still looks like a big fuzzy hat.
-  entry_id: 8cgooo
-  entry_content: |
-    <img src=https://i.redditmedia.com/f5r7eoxTuH75pQppTN-PpM8myKW40vkzzywu5YRxmzQ.png?s=68e4cb6dc9587d946613f2d3f3770a5f frameborder=0>
-- entry_name: |
     R. Lee Ermey Has Died
   entry_id: 8cizix
   entry_content: |
@@ -76,11 +71,6 @@ data:
   entry_id: 8cjyym
   entry_content: |
     <img src=https://i.redditmedia.com/7DLjM6MQMAt5a4NK7hEpups8U8UrGIAXe8M6yo2qKYU.jpg?s=8007dbb437a36abc81f165ee051369c6 frameborder=0>
-- entry_name: |
-    Watercolor America
-  entry_id: 8cgonm
-  entry_content: |
-    <iframe src=https://v.redd.it/bblthbxay3s01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Good doggos
   entry_id: 8chnd1
@@ -248,4 +238,14 @@ data:
   entry_id: 8clk2x
   entry_content: |
     <iframe src=https://v.redd.it/fi204oynt7s01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Are veterinarians deemed more likely to survive the apocalypse?
+  entry_id: 8cjh9s
+  entry_content: |
+    <img src=https://i.redditmedia.com/ql6S0h-dWP-6f7HQSyrQK5dkjarO5pqvFYae06yghhk.png?s=543c3b4ed12cfdabbab57236d52136b8 frameborder=0>
+- entry_name: |
+    90% floof
+  entry_id: 8clw70
+  entry_content: |
+    <iframe src=https://v.redd.it/z1zbfmxt78s01/DASH_600_K frameborder=0></iframe>
 ---
