@@ -72,11 +72,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7DLjM6MQMAt5a4NK7hEpups8U8UrGIAXe8M6yo2qKYU.jpg?s=8007dbb437a36abc81f165ee051369c6 frameborder=0>
 - entry_name: |
-    Good doggos
-  entry_id: 8chnd1
-  entry_content: |
-    <iframe src=https://v.redd.it/81pv1wbul4s01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     My town was home to a total badass during the revolutionary war
   entry_id: 8ckme3
   entry_content: |
@@ -206,10 +201,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fi204oynt7s01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8chkdr
-  entry_content: |
-    null
-- entry_name: |
     But girl, what qualities was I looking for before?
   entry_id: 8ckudi
   entry_content: |
@@ -248,4 +239,14 @@ data:
   entry_id: 8clego
   entry_content: |
     <img src=https://i.redditmedia.com/oJPdE5D8PpXHapy6pEA_28-IDdgXiUmtHP0cXVt1-EQ.jpg?s=15d7aa10662ef987f9140f1de8718126 frameborder=0>
+- entry_name: |
+    Mid-Month bills be like
+  entry_id: 8cjlld
+  entry_content: |
+    <img src=https://i.redditmedia.com/b9YWf_UMKi4KfmWHEy8lxKE6IvIVZLHDpVhl6QVts_Q.png?s=8ae402bd584a413ba4845dab8d80c7c1 frameborder=0>
+- entry_name: |
+    MRW it’s winter in april
+  entry_id: 8citoh
+  entry_content: |
+    <iframe src=https://v.redd.it/sl2hxjqi49s01/DASH_2_4_M frameborder=0></iframe>
 ---
