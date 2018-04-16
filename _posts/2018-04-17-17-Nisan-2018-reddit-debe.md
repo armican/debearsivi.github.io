@@ -82,11 +82,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zNyZ4e36LbpS2Ack7rgddtPe71F26OEtIzTrkJmF87Q.jpg?s=e88a0efc70b3cae4078bc6cfdadfd622 frameborder=0>
 - entry_name: |
-    Went to Iceland. Took this picture. No retouching done to it. I also have no idea what the people in the background are doing.
-  entry_id: 8cgts9
-  entry_content: |
-    <img src=https://i.redditmedia.com/0m-7lR89bEhfLiGQD4YYGqWuquIHUC2dUOeePjxJbUc.jpg?s=9c2da6392d3f6c8d9bce66e83e1dbbe4 frameborder=0>
-- entry_name: |
     Wearing glasses for his first time
   entry_id: 8cn5sf
   entry_content: |
@@ -248,4 +243,9 @@ data:
   entry_id: 8clw70
   entry_content: |
     <iframe src=https://v.redd.it/z1zbfmxt78s01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    hmmm
+  entry_id: 8ciym6
+  entry_content: |
+    <img src=https://i.redditmedia.com/m3BOYHw7f4EV2QKVY6KlxkLYDruSjlfBmJaPCs35f8k.jpg?s=0a04e00f444292abf6fb173e20c8007d frameborder=0>
 ---
