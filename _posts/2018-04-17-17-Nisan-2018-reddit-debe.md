@@ -186,10 +186,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/z1zbfmxt78s01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8ch4kg
-  entry_content: |
-    <img src=https://i.redditmedia.com/RQn6r-N5eRTP0FXA1Jre6-47rBq3KUJeRV41cE-Am6E.jpg?s=86d853d70199ce2fcc20abb75eeff907 frameborder=0>
-- entry_name: |
     More Than One-Fifth Of The Trump Campaign's Spending This Year Has Been On Legal Fees
   entry_id: 8chu18
   entry_content: |
@@ -248,4 +244,9 @@ data:
   entry_id: 8cknnx
   entry_content: |
     <img src=https://i.redditmedia.com/1D7Ir-QBJk8Ys1KTTiabC3MGxr8y9QxWUu7BmBZn2nU.gif?fm=jpg&s=76ffd3b3a3ead1a9e9d3b6406624a77b frameborder=0>
+- entry_name: |
+    Mid-Month bills be like
+  entry_id: 8cjlld
+  entry_content: |
+    <img src=https://i.redditmedia.com/b9YWf_UMKi4KfmWHEy8lxKE6IvIVZLHDpVhl6QVts_Q.png?s=8ae402bd584a413ba4845dab8d80c7c1 frameborder=0>
 ---
