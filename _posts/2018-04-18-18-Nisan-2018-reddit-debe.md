@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/46hk23YGa0bcX7M-gX9BREELot7ixzGiKDUehe9xgHA.jpg?s=2d4101ac25cb6090c061405b39afd540 frameborder=0>
 - entry_name: |
-    My brother’s tombstone after his passing from the USS Fitzgerald. He was a nerd for gaming and a sucker for GoT
-  entry_id: 8cqtmj
-  entry_content: |
-    <img src=https://i.redditmedia.com/mc1ptWLnmHANrNKswAQ6l8pSRIVEaRYIfaoHP8PiZ1o.jpg?s=8e61a799b5c56d607dd40177c3b944e2 frameborder=0>
-- entry_name: |
     Do I look like a fan of this crap???
   entry_id: 8cu89d
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8cvedw
   entry_content: |
     <img src=https://i.redditmedia.com/lS9iQFPNVM2ZE571labCcfD7MakgNuFhVsZ3Q6dIvl0.jpg?s=3e990a3038e66ae9bbd4f81926466019 frameborder=0>
+- entry_name: |
+    Can’t believe she’s 17 years old! Her name is Abigail.
+  entry_id: 8ctdtc
+  entry_content: |
+    <img src=https://i.redditmedia.com/9RvBxmaLbe_nq6vH6Y7R482MsGR3GXz2CzPUtVAf5p8.jpg?s=db67a68adecf7f0498d74ce84b1a972e frameborder=0>
 ---
