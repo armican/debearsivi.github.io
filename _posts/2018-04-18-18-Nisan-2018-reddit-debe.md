@@ -82,11 +82,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bxS-AyQJtFXFOUYXOjinmPczN0r56ix8t_5crP5N4Qo.jpg?s=9e7f69c18c751a5ecb3af0ef93484c6a frameborder=0>
 - entry_name: |
-    No, YOU'RE crying
-  entry_id: 8cpvdf
-  entry_content: |
-    <img src=https://i.redditmedia.com/Q8aCt_POQovF_NjDvc9Epb8msBg3-2tThxfd8CysWko.jpg?s=d7970883621ce34f87b3d1b6bef363e5 frameborder=0>
-- entry_name: |
     Good delivery boy!
   entry_id: 8cqbls
   entry_content: |
@@ -96,11 +91,6 @@ data:
   entry_id: 8cve9u
   entry_content: |
     <img src=https://i.redditmedia.com/M4Bjsp8NckLW8VzeTtUZU7rJk8Ht5Uu4bXlNtorrzgk.jpg?s=2ea67bb793100789f90e46f10ae662e6 frameborder=0>
-- entry_name: |
-    The Onion: Cool Glitch Effect On Movie Studio Logo Must Mean Shit About To Go Down
-  entry_id: 8cpxdi
-  entry_content: |
-    <img src=https://i.redditmedia.com/PR3Y_sao-0h6gubkMvVphWCypLKG1w-xJ7QM2MPCC5U.jpg?s=ce2f26ff11d684dc8971f966dadbe1f6 frameborder=0>
 - entry_name: |
     oof
   entry_id: 8croyq
@@ -141,11 +131,6 @@ data:
   entry_id: 8crx53
   entry_content: |
     <iframe src=https://v.redd.it/ptrhfitarcs01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    dogs sees his best friend!
-  entry_id: 8cpskt
-  entry_content: |
-    <iframe src=https://v.redd.it/fdddpphhcbs01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Taking a shot with your tall friends
   entry_id: 8cuba2
@@ -192,11 +177,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2377c21pvfs01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Rey checks BB8’s antenna as soon as she sees him again
-  entry_id: 8cpryl
-  entry_content: |
-    <img src=https://i.redditmedia.com/jv8JO1XTmC-S83cxHLCS8AO_tzFUBmJBIt8qvVa2xgc.jpg?s=6b3716ca7ccfa1c9ddf5f536527623bf frameborder=0>
-- entry_name: |
     Bernie Sanders introduces bill to impose jail time for execs behind opioid crisis
   entry_id: 8cwr61
   entry_content: |
@@ -232,11 +212,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7PqlesdstP90rZBrZ1sRLkeTNUGL_pKyJTIRGx2BCD0.jpg?s=c4af4b865af579a14dde6bce455ef0d1 frameborder=0>
 - entry_name: |
-    Ultimate Wire Cutter
-  entry_id: 8cptex
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGlassLimitedAmethystgemclam&url=https%3A%2F%2Fgfycat.com%2FGlassLimitedAmethystgemclam&image=https%3A%2F%2Fthumbs.gfycat.com%2FGlassLimitedAmethystgemclam-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     F1 pit stops are so fast these days.
   entry_id: 8cvnaa
   entry_content: |
@@ -251,4 +226,29 @@ data:
   entry_id: 8cqy4b
   entry_content: |
     <img src=https://i.redditmedia.com/oSfWKLMCQqoUMUtfGprtSksUuksk_SEcNf9q1pj2tcM.jpg?s=990f5862f316ceb443e43e8e0ead363d frameborder=0>
+- entry_name: |
+    Roses are red, my wallets empty honey
+  entry_id: 8cr5lq
+  entry_content: |
+    <img src=https://i.redditmedia.com/-oduLi20nNneyfC02X5Rf4ryyttVf5WY1XL69uE0Cd4.jpg?s=ee411ed4342142b1bbd8bf42be9e7df8 frameborder=0>
+- entry_name: |
+    Hold the door?
+  entry_id: 8cvjvo
+  entry_content: |
+    <iframe src=https://v.redd.it/bm9buadh6gs01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Stop! Ok no, do that again
+  entry_id: 8cqus1
+  entry_content: |
+    <iframe src=https://v.redd.it/sek8vfq91cs01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    What goes around covfefes around 🇺🇸
+  entry_id: 8cqsxt
+  entry_content: |
+    <img src=https://i.redditmedia.com/ufyEpyUGEh2NjpqNzkK1U4WxCCaCWD5V1q5StS9wptc.jpg?s=c37775ae8b153c6792cb6111bf822204 frameborder=0>
+- entry_name: |
+    Can’t believe she’s 17 years old! Her name is Abigail.
+  entry_id: 8ctdtc
+  entry_content: |
+    <img src=https://i.redditmedia.com/9RvBxmaLbe_nq6vH6Y7R482MsGR3GXz2CzPUtVAf5p8.jpg?s=db67a68adecf7f0498d74ce84b1a972e frameborder=0>
 ---
