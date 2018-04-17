@@ -77,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bxS-AyQJtFXFOUYXOjinmPczN0r56ix8t_5crP5N4Qo.jpg?s=9e7f69c18c751a5ecb3af0ef93484c6a frameborder=0>
 - entry_name: |
-    Good delivery boy!
-  entry_id: 8cqbls
-  entry_content: |
-    <iframe src=https://v.redd.it/zxznex58pbs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     oof
   entry_id: 8croyq
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8cqus1
   entry_content: |
     <iframe src=https://v.redd.it/sek8vfq91cs01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    What goes around covfefes around 🇺🇸
+  entry_id: 8cqsxt
+  entry_content: |
+    <img src=https://i.redditmedia.com/ufyEpyUGEh2NjpqNzkK1U4WxCCaCWD5V1q5StS9wptc.jpg?s=c37775ae8b153c6792cb6111bf822204 frameborder=0>
 ---
