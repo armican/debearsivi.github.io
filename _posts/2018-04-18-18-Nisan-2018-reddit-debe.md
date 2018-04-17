@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WKv0OpzEAsA44I4X2T9oe72m8CZ0IbEPy46zMCemcg0.jpg?s=34f1a9af9ad0736164272bfb28982328 frameborder=0>
 - entry_name: |
-    Michael Cohen’s Third Client is Sean Hannity
-  entry_id: 8cpzr3
-  entry_content: |
-    <img src=https://i.redditmedia.com/1AIL1sqm49eJ2T2tHDPyN_yB4rAyRgTLJulcxKJIMEM.jpg?s=4e9ec5fad1beabfef3ccf8dd96d04c99 frameborder=0>
-- entry_name: |
     Kick Flip
   entry_id: 8cuvch
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8ctdtc
   entry_content: |
     <img src=https://i.redditmedia.com/9RvBxmaLbe_nq6vH6Y7R482MsGR3GXz2CzPUtVAf5p8.jpg?s=db67a68adecf7f0498d74ce84b1a972e frameborder=0>
+- entry_name: |
+    Amazon employee attempts to go to the bathroom. Circa 2018.
+  entry_id: 8cqo7r
+  entry_content: |
+    <img src=https://i.redditmedia.com/B6mrVXRvDU-9Tug3uLoQOkORBzDJnhDNSlgYdqJlGH8.jpg?s=9dd08e768144a20021d89375cd61bc04 frameborder=0>
 ---
