@@ -38,6 +38,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ob3zqhvmnes01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 8cwcbu
+  entry_content: |
+    <iframe src=https://v.redd.it/ne7594v8wgs01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Broadband advisor picked by FCC Chairman Ajit Pai arrested on fraud charges
   entry_id: 8crwnw
   entry_content: |
@@ -48,24 +52,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WKv0OpzEAsA44I4X2T9oe72m8CZ0IbEPy46zMCemcg0.jpg?s=34f1a9af9ad0736164272bfb28982328 frameborder=0>
 - entry_name: |
-  entry_id: 8cwcbu
-  entry_content: |
-    <iframe src=https://v.redd.it/ne7594v8wgs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Kick Flip
   entry_id: 8cuvch
   entry_content: |
     <img src=https://i.redditmedia.com/HBuiNXTeTiuNiKgzIAUpHQ_A50dG30t2uMeUJ69DAPY.jpg?s=8f4f4963a2a49b8e45eb10f20d94d2b8 frameborder=0>
 - entry_name: |
-    Study: People with less political knowledge think they know a lot about politics
-  entry_id: 8ctlyn
-  entry_content: |
-    <img src=https://i.redditmedia.com/dlF4gxsHA7BLwTQxniTpDrdP5JHhFs7nl5N0JCcnAvk.jpg?s=cf298718f4d0196cb7b4e447a5662b93 frameborder=0>
-- entry_name: |
     TIL: The rivalry between Adidas and Puma became so fierce that the German town of Herzogenaurach (where both companies had their HQs) became known as the town of bent necks, as no local would start a conversation with another without first looking down to check which firm's shoes they were wearing
   entry_id: 8cvfun
   entry_content: |
     null
+- entry_name: |
+    Study: People with less political knowledge think they know a lot about politics
+  entry_id: 8ctlyn
+  entry_content: |
+    <img src=https://i.redditmedia.com/dlF4gxsHA7BLwTQxniTpDrdP5JHhFs7nl5N0JCcnAvk.jpg?s=cf298718f4d0196cb7b4e447a5662b93 frameborder=0>
 - entry_name: |
     Creature of the night...
   entry_id: 8cve9u
@@ -77,6 +77,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bxS-AyQJtFXFOUYXOjinmPczN0r56ix8t_5crP5N4Qo.jpg?s=9e7f69c18c751a5ecb3af0ef93484c6a frameborder=0>
 - entry_name: |
+    In most groups of friends, one of them will eventually go to all the other friends' funerals, and one of them won't go to anyone's funeral
+  entry_id: 8cvdiw
+  entry_content: |
+    null
+- entry_name: |
     oof
   entry_id: 8croyq
   entry_content: |
@@ -87,30 +92,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
 - entry_name: |
-    In most groups of friends, one of them will eventually go to all the other friends' funerals, and one of them won't go to anyone's funeral
-  entry_id: 8cvdiw
+    Bernie Sanders introduces bill to impose jail time for execs behind opioid crisis
+  entry_id: 8cwr61
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/DYqq3RTX6rngC_xlaAHvh8VnsXZ4k3vyjeZsjiERgpc.jpg?s=78a4e33a11d14616bc55dfeb719bccdc frameborder=0>
+- entry_name: |
+    View from the Leaves
+  entry_id: 8cwmpy
+  entry_content: |
+    <img src=https://i.redditmedia.com/W_CN4mq4ZiGW18dgkUzt1g9cNo4aGhpWKqwT9v4JnGs.jpg?s=6edb27562a75afa2184cc74cab0b0bfc frameborder=0>
 - entry_name: |
     TIL that despite having a heart condition and arthritis that forced him to use a cane, Theodore Roosevelt Jr. led the first wave of landings at Utah Beach on D-Day, becoming the only general to land with his soldiers that day.
   entry_id: 8csf1t
   entry_content: |
     <img src=https://i.redditmedia.com/qq-QeDILJPzDPmvGCrpc3Bd6cAneECl14wUjtYUtcgM.jpg?s=85f8e49e32b17e353ea21e130f453182 frameborder=0>
-- entry_name: |
-    Let me spell it out for you
-  entry_id: 8csm96
-  entry_content: |
-    <img src=https://i.redditmedia.com/NmQagiWNt4RsVE5va1oh7tCYzha5uPtzwME1rpm1XSw.jpg?s=55f729f68c5d491631fce6fe0455ff32 frameborder=0>
-- entry_name: |
-    I just had to post this immediately, it’s so heckin cute
-  entry_id: 8crx53
-  entry_content: |
-    <iframe src=https://v.redd.it/ptrhfitarcs01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Bernie Sanders introduces bill to impose jail time for execs behind opioid crisis
-  entry_id: 8cwr61
-  entry_content: |
-    <img src=https://i.redditmedia.com/DYqq3RTX6rngC_xlaAHvh8VnsXZ4k3vyjeZsjiERgpc.jpg?s=78a4e33a11d14616bc55dfeb719bccdc frameborder=0>
 - entry_name: |
     Cat in safe hands.
   entry_id: 8cveow
@@ -122,55 +117,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ci1XTt3Glbm1btoZgACnDdK-M4IUEU-kLLXmCCXyUIk.gif?fm=jpg&s=3bd0bced7c50c059ba6b052b64c767d5 frameborder=0>
 - entry_name: |
+    Let me spell it out for you
+  entry_id: 8csm96
+  entry_content: |
+    <img src=https://i.redditmedia.com/NmQagiWNt4RsVE5va1oh7tCYzha5uPtzwME1rpm1XSw.jpg?s=55f729f68c5d491631fce6fe0455ff32 frameborder=0>
+- entry_name: |
+    Cyclist involved in a police chase gets civilian justice.
+  entry_id: 8cwum9
+  entry_content: |
+    <iframe src=https://v.redd.it/p8efcohj9hs01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    I just had to post this immediately, it’s so heckin cute
+  entry_id: 8crx53
+  entry_content: |
+    <iframe src=https://v.redd.it/ptrhfitarcs01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     That damned smile.
   entry_id: 8cvrqc
   entry_content: |
     <iframe src=https://v.redd.it/sdmr87u4dgs01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Harry Potter and the Chamber of War
-  entry_id: 8csgmf
-  entry_content: |
-    <img src=https://i.redditmedia.com/0pYPg_gbYaWxT5WWAM0JPvV0o6TE0bc_3VGIR0HYycI.png?s=afd12540e41952384388e4c08b6f5c5b frameborder=0>
 - entry_name: |
     What's Truly In Your Vacuum
   entry_id: 8cvif7
   entry_content: |
     <img src=https://i.redditmedia.com/MXTnu8IEPTSPSn7tGc0hX1xvYV9ZgoKUoPRDlbaLaNw.jpg?s=18d711f71738254a27ba712e523e0727 frameborder=0>
 - entry_name: |
-    View from the Leaves
-  entry_id: 8cwmpy
+    Harry Potter and the Chamber of War
+  entry_id: 8csgmf
   entry_content: |
-    <img src=https://i.redditmedia.com/W_CN4mq4ZiGW18dgkUzt1g9cNo4aGhpWKqwT9v4JnGs.jpg?s=6edb27562a75afa2184cc74cab0b0bfc frameborder=0>
+    <img src=https://i.redditmedia.com/0pYPg_gbYaWxT5WWAM0JPvV0o6TE0bc_3VGIR0HYycI.png?s=afd12540e41952384388e4c08b6f5c5b frameborder=0>
 - entry_name: |
     MRW I can smell weed when I’m walking down the street.
   entry_id: 8cvalm
   entry_content: |
     <iframe src=https://v.redd.it/2377c21pvfs01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    To the people on a plane on 9/11, what did your pilots tell you when they grounded all flights?
-  entry_id: 8cu8ok
-  entry_content: |
-    null
-- entry_name: |
-    This blouse
-  entry_id: 8cshrc
-  entry_content: |
-    <img src=https://i.redditmedia.com/UJlxAUPUEN2jf_ca9jMixR6thZAacvtmUQPBUrtSyGs.jpg?s=6235db80dbc939cf88d76fb082906556 frameborder=0>
-- entry_name: |
-    You turned her against me!
-  entry_id: 8cu7ym
-  entry_content: |
-    <img src=https://i.redditmedia.com/zVVYSjbDWEJ7bZMChGrYOlsAHyiJjQJX0yN5q0E0meM.jpg?s=671ba33d31253ecff6df35f1a0f49316 frameborder=0>
-- entry_name: |
-    This bartender has serious skills
-  entry_id: 8cv1f2
-  entry_content: |
-    <iframe src=https://v.redd.it/hrcqkpgwkfs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Cucumber harvester looks very zen from above
   entry_id: 8cvrhs
   entry_content: |
     <iframe src=https://v.redd.it/y2ns5mvbegs01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    To the people on a plane on 9/11, what did your pilots tell you when they grounded all flights?
+  entry_id: 8cu8ok
+  entry_content: |
+    null
 - entry_name: |
     Not in my America 🇺🇸
   entry_id: 8cvqjc
@@ -182,40 +172,70 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jeihhhb5ags01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    What is a pirate's least favorite letter?
-  entry_id: 8cs47j
+    You turned her against me!
+  entry_id: 8cu7ym
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/zVVYSjbDWEJ7bZMChGrYOlsAHyiJjQJX0yN5q0E0meM.jpg?s=671ba33d31253ecff6df35f1a0f49316 frameborder=0>
 - entry_name: |
-    Medical bills – what you get instead of paying higher taxes
-  entry_id: 8cudsn
+    This bartender has serious skills
+  entry_id: 8cv1f2
   entry_content: |
-    <img src=https://i.redditmedia.com/7EqBLmOVvqwLoTH4R-Y9y4hUt3ZSp62jgoPCUQaTzao.jpg?s=2877560d068ecb8d74ad24a7a00e3d71 frameborder=0>
+    <iframe src=https://v.redd.it/hrcqkpgwkfs01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Broadband advisor picked by FCC Chairman Ajit Pai arrested on fraud charges
-  entry_id: 8csgoo
+    This blouse
+  entry_id: 8cshrc
   entry_content: |
-    <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
-- entry_name: |
-    Hold the door?
-  entry_id: 8cvjvo
-  entry_content: |
-    <iframe src=https://v.redd.it/bm9buadh6gs01/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/UJlxAUPUEN2jf_ca9jMixR6thZAacvtmUQPBUrtSyGs.jpg?s=6235db80dbc939cf88d76fb082906556 frameborder=0>
 - entry_name: |
     I flew back for this shit?
   entry_id: 8cw398
   entry_content: |
     <img src=https://i.redditmedia.com/NVVPEcw2YVRvMEFWVyTnYFFYYaO7wGHwKoLEUMG3cWU.jpg?s=d1568aee8306acf96388e200bba5aca9 frameborder=0>
 - entry_name: |
-    Momma is proud of her pups
-  entry_id: 8csi01
+    Hold the door?
+  entry_id: 8cvjvo
   entry_content: |
-    <img src=https://i.redditmedia.com/7PqlesdstP90rZBrZ1sRLkeTNUGL_pKyJTIRGx2BCD0.jpg?s=c4af4b865af579a14dde6bce455ef0d1 frameborder=0>
+    <iframe src=https://v.redd.it/bm9buadh6gs01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Medical bills – what you get instead of paying higher taxes
+  entry_id: 8cudsn
+  entry_content: |
+    <img src=https://i.redditmedia.com/7EqBLmOVvqwLoTH4R-Y9y4hUt3ZSp62jgoPCUQaTzao.jpg?s=2877560d068ecb8d74ad24a7a00e3d71 frameborder=0>
 - entry_name: |
     You wasn’t with me shooting in the gym
   entry_id: 8cwclm
   entry_content: |
     <img src=https://i.redditmedia.com/SsxClAOJaY7eO3-Sa-wAOGxT3l9FOnL1-0TZhurpu2U.jpg?s=728633e27581d3cc32be37c6a326f357 frameborder=0>
+- entry_name: |
+    Joke I heard from a 99 year old Holocaust survivor
+  entry_id: 8cv86h
+  entry_content: |
+    null
+- entry_name: |
+    What is a pirate's least favorite letter?
+  entry_id: 8cs47j
+  entry_content: |
+    null
+- entry_name: |
+    Broadband advisor picked by FCC Chairman Ajit Pai arrested on fraud charges
+  entry_id: 8csgoo
+  entry_content: |
+    <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
+- entry_name: |
+    Momma is proud of her pups
+  entry_id: 8csi01
+  entry_content: |
+    <img src=https://i.redditmedia.com/7PqlesdstP90rZBrZ1sRLkeTNUGL_pKyJTIRGx2BCD0.jpg?s=c4af4b865af579a14dde6bce455ef0d1 frameborder=0>
+- entry_name: |
+    Caught my kitty lounging
+  entry_id: 8cxamw
+  entry_content: |
+    <iframe src=https://v.redd.it/ni87ivnijhs01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Another one
+  entry_id: 8cvikv
+  entry_content: |
+    <img src=https://i.redditmedia.com/cNYZBl5goA46y5HgLNx3_1b3E6XHEUP48IP4jAMNnrY.png?s=3cb00547980ffa6bbe1b4c86d5d0b956 frameborder=0>
 - entry_name: |
     Anyone else remember the weird, course texture these bouncy balls had?
   entry_id: 8cqy4b
@@ -227,28 +247,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-oduLi20nNneyfC02X5Rf4ryyttVf5WY1XL69uE0Cd4.jpg?s=ee411ed4342142b1bbd8bf42be9e7df8 frameborder=0>
 - entry_name: |
-    Joke I heard from a 99 year old Holocaust survivor
-  entry_id: 8cv86h
+    Man gave a $2000 tip at a chicago restaurant
+  entry_id: 8cvedw
   entry_content: |
-    null
-- entry_name: |
-    Another one
-  entry_id: 8cvikv
-  entry_content: |
-    <img src=https://i.redditmedia.com/cNYZBl5goA46y5HgLNx3_1b3E6XHEUP48IP4jAMNnrY.png?s=3cb00547980ffa6bbe1b4c86d5d0b956 frameborder=0>
-- entry_name: |
-    Can’t believe she’s 17 years old! Her name is Abigail.
-  entry_id: 8ctdtc
-  entry_content: |
-    <img src=https://i.redditmedia.com/9RvBxmaLbe_nq6vH6Y7R482MsGR3GXz2CzPUtVAf5p8.jpg?s=db67a68adecf7f0498d74ce84b1a972e frameborder=0>
-- entry_name: |
-    Stop! Ok no, do that again
-  entry_id: 8cqus1
-  entry_content: |
-    <iframe src=https://v.redd.it/sek8vfq91cs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    What goes around covfefes around 🇺🇸
-  entry_id: 8cqsxt
-  entry_content: |
-    <img src=https://i.redditmedia.com/ufyEpyUGEh2NjpqNzkK1U4WxCCaCWD5V1q5StS9wptc.jpg?s=c37775ae8b153c6792cb6111bf822204 frameborder=0>
+    <img src=https://i.redditmedia.com/lS9iQFPNVM2ZE571labCcfD7MakgNuFhVsZ3Q6dIvl0.jpg?s=3e990a3038e66ae9bbd4f81926466019 frameborder=0>
 ---
