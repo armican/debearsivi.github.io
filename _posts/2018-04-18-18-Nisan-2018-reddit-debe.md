@@ -28,6 +28,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/46hk23YGa0bcX7M-gX9BREELot7ixzGiKDUehe9xgHA.jpg?s=2d4101ac25cb6090c061405b39afd540 frameborder=0>
 - entry_name: |
+    North and South Korea reportedly set to announce official end to war
+  entry_id: 8cvnmi
+  entry_content: |
+    <img src=https://i.redditmedia.com/KqMP-4PmD4I7AL4rVO2KeukJ--0WGA5s_7SzOIxuEak.jpg?s=d4e23a928eb9fa59c4327db53c3a2d59 frameborder=0>
+- entry_name: |
     My brother’s tombstone after his passing from the USS Fitzgerald. He was a nerd for gaming and a sucker for GoT
   entry_id: 8cqtmj
   entry_content: |
@@ -38,25 +43,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/65d7es6w9bs01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    North and South Korea reportedly set to announce official end to war
-  entry_id: 8cvnmi
-  entry_content: |
-    <img src=https://i.redditmedia.com/KqMP-4PmD4I7AL4rVO2KeukJ--0WGA5s_7SzOIxuEak.jpg?s=d4e23a928eb9fa59c4327db53c3a2d59 frameborder=0>
-- entry_name: |
     Do I look like a fan of this crap???
   entry_id: 8cu89d
   entry_content: |
     <iframe src=https://v.redd.it/ob3zqhvmnes01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    TIL that Queen Elizabeth the II of the United Kingdom, now aged 91, is a big fan of Nintendo's game console Wii. After watching her grandson play it during Christmas one year, she asked if she could have a go. Apparently she was a natural at Wii Bowling, and she became quite fond of the console
-  entry_id: 8cpes0
-  entry_content: |
-    null
-- entry_name: |
     Broadband advisor picked by FCC Chairman Ajit Pai arrested on fraud charges
   entry_id: 8crwnw
   entry_content: |
     <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
+- entry_name: |
+    TIL that Queen Elizabeth the II of the United Kingdom, now aged 91, is a big fan of Nintendo's game console Wii. After watching her grandson play it during Christmas one year, she asked if she could have a go. Apparently she was a natural at Wii Bowling, and she became quite fond of the console
+  entry_id: 8cpes0
+  entry_content: |
+    null
 - entry_name: |
     My rubber band ball exploded.
   entry_id: 8cplhg
@@ -83,20 +83,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/paU9YJkSL9GteSzyLsksTrGNJVvhCpaEJa1gxpCNPH0.jpg?s=450f9db9da60b90e7208939eb51993ff frameborder=0>
 - entry_name: |
-    Kendrick Lamar has won the Pulitzer Prize for music for DAMN the first non-classical or jazz artist to win the award.
-  entry_id: 8cq6pc
-  entry_content: |
-    null
-- entry_name: |
     Study: People with less political knowledge think they know a lot about politics
   entry_id: 8ctlyn
   entry_content: |
     <img src=https://i.redditmedia.com/dlF4gxsHA7BLwTQxniTpDrdP5JHhFs7nl5N0JCcnAvk.jpg?s=cf298718f4d0196cb7b4e447a5662b93 frameborder=0>
 - entry_name: |
+    Kendrick Lamar has won the Pulitzer Prize for music for DAMN the first non-classical or jazz artist to win the award.
+  entry_id: 8cq6pc
+  entry_content: |
+    null
+- entry_name: |
     No, YOU'RE crying
   entry_id: 8cpvdf
   entry_content: |
     <img src=https://i.redditmedia.com/Q8aCt_POQovF_NjDvc9Epb8msBg3-2tThxfd8CysWko.jpg?s=d7970883621ce34f87b3d1b6bef363e5 frameborder=0>
+- entry_name: |
+    UV index sign.
+  entry_id: 8ctq0a
+  entry_content: |
+    <img src=https://i.redditmedia.com/bxS-AyQJtFXFOUYXOjinmPczN0r56ix8t_5crP5N4Qo.jpg?s=9e7f69c18c751a5ecb3af0ef93484c6a frameborder=0>
 - entry_name: |
     Good delivery boy!
   entry_id: 8cqbls
@@ -108,10 +113,9 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PR3Y_sao-0h6gubkMvVphWCypLKG1w-xJ7QM2MPCC5U.jpg?s=ce2f26ff11d684dc8971f966dadbe1f6 frameborder=0>
 - entry_name: |
-    UV index sign.
-  entry_id: 8ctq0a
+  entry_id: 8cwcbu
   entry_content: |
-    <img src=https://i.redditmedia.com/bxS-AyQJtFXFOUYXOjinmPczN0r56ix8t_5crP5N4Qo.jpg?s=9e7f69c18c751a5ecb3af0ef93484c6a frameborder=0>
+    <iframe src=https://v.redd.it/ne7594v8wgs01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     oof
   entry_id: 8croyq
@@ -128,64 +132,70 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qq-QeDILJPzDPmvGCrpc3Bd6cAneECl14wUjtYUtcgM.jpg?s=85f8e49e32b17e353ea21e130f453182 frameborder=0>
 - entry_name: |
-    Disarming by Jakie Chan.
-  entry_id: 8cq6da
-  entry_content: |
-    <iframe src=https://v.redd.it/ynbdcdazlbs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    dogs sees his best friend!
-  entry_id: 8cpskt
-  entry_content: |
-    <iframe src=https://v.redd.it/fdddpphhcbs01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    I just had to post this immediately, it’s so heckin cute
-  entry_id: 8crx53
-  entry_content: |
-    <iframe src=https://v.redd.it/ptrhfitarcs01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Let me spell it out for you
-  entry_id: 8csm96
-  entry_content: |
-    <img src=https://i.redditmedia.com/NmQagiWNt4RsVE5va1oh7tCYzha5uPtzwME1rpm1XSw.jpg?s=55f729f68c5d491631fce6fe0455ff32 frameborder=0>
-- entry_name: |
-    Harry Potter and the Chamber of War
-  entry_id: 8csgmf
-  entry_content: |
-    <img src=https://i.redditmedia.com/0pYPg_gbYaWxT5WWAM0JPvV0o6TE0bc_3VGIR0HYycI.png?s=afd12540e41952384388e4c08b6f5c5b frameborder=0>
-- entry_name: |
     Creature of the night...
   entry_id: 8cve9u
   entry_content: |
     <img src=https://i.redditmedia.com/M4Bjsp8NckLW8VzeTtUZU7rJk8Ht5Uu4bXlNtorrzgk.jpg?s=2ea67bb793100789f90e46f10ae662e6 frameborder=0>
 - entry_name: |
-    Taking a shot with your tall friends
-  entry_id: 8cuba2
+    Disarming by Jakie Chan.
+  entry_id: 8cq6da
   entry_content: |
-    <img src=https://i.redditmedia.com/Ci1XTt3Glbm1btoZgACnDdK-M4IUEU-kLLXmCCXyUIk.gif?fm=jpg&s=3bd0bced7c50c059ba6b052b64c767d5 frameborder=0>
-- entry_name: |
-  entry_id: 8cwcbu
-  entry_content: |
-    <iframe src=https://v.redd.it/ne7594v8wgs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    This blouse
-  entry_id: 8cshrc
-  entry_content: |
-    <img src=https://i.redditmedia.com/UJlxAUPUEN2jf_ca9jMixR6thZAacvtmUQPBUrtSyGs.jpg?s=6235db80dbc939cf88d76fb082906556 frameborder=0>
+    <iframe src=https://v.redd.it/ynbdcdazlbs01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     TIL: The rivalry between Adidas and Puma became so fierce that the German town of Herzogenaurach (where both companies had their HQs) became known as the town of bent necks, as no local would start a conversation with another without first looking down to check which firm's shoes they were wearing
   entry_id: 8cvfun
   entry_content: |
     null
 - entry_name: |
-    Rey checks BB8’s antenna as soon as she sees him again
-  entry_id: 8cpryl
+    Let me spell it out for you
+  entry_id: 8csm96
   entry_content: |
-    <img src=https://i.redditmedia.com/jv8JO1XTmC-S83cxHLCS8AO_tzFUBmJBIt8qvVa2xgc.jpg?s=6b3716ca7ccfa1c9ddf5f536527623bf frameborder=0>
+    <img src=https://i.redditmedia.com/NmQagiWNt4RsVE5va1oh7tCYzha5uPtzwME1rpm1XSw.jpg?s=55f729f68c5d491631fce6fe0455ff32 frameborder=0>
+- entry_name: |
+    I just had to post this immediately, it’s so heckin cute
+  entry_id: 8crx53
+  entry_content: |
+    <iframe src=https://v.redd.it/ptrhfitarcs01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    dogs sees his best friend!
+  entry_id: 8cpskt
+  entry_content: |
+    <iframe src=https://v.redd.it/fdddpphhcbs01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    In most groups of friends, one of them will eventually go to all the other friends' funerals, and one of them won't go to anyone's funeral
+  entry_id: 8cvdiw
+  entry_content: |
+    null
+- entry_name: |
+    Taking a shot with your tall friends
+  entry_id: 8cuba2
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ci1XTt3Glbm1btoZgACnDdK-M4IUEU-kLLXmCCXyUIk.gif?fm=jpg&s=3bd0bced7c50c059ba6b052b64c767d5 frameborder=0>
+- entry_name: |
+    Harry Potter and the Chamber of War
+  entry_id: 8csgmf
+  entry_content: |
+    <img src=https://i.redditmedia.com/0pYPg_gbYaWxT5WWAM0JPvV0o6TE0bc_3VGIR0HYycI.png?s=afd12540e41952384388e4c08b6f5c5b frameborder=0>
+- entry_name: |
+    Cat in safe hands.
+  entry_id: 8cveow
+  entry_content: |
+    <img src=https://i.redditmedia.com/ODcNgjHfKsp8iuWvOhLmNveUCxxjie9T2Jnh8Mh1mh4.jpg?s=54423edd2920beb2b9d20b1003da99ef frameborder=0>
+- entry_name: |
+    This blouse
+  entry_id: 8cshrc
+  entry_content: |
+    <img src=https://i.redditmedia.com/UJlxAUPUEN2jf_ca9jMixR6thZAacvtmUQPBUrtSyGs.jpg?s=6235db80dbc939cf88d76fb082906556 frameborder=0>
 - entry_name: |
     You turned her against me!
   entry_id: 8cu7ym
   entry_content: |
     <img src=https://i.redditmedia.com/zVVYSjbDWEJ7bZMChGrYOlsAHyiJjQJX0yN5q0E0meM.jpg?s=671ba33d31253ecff6df35f1a0f49316 frameborder=0>
+- entry_name: |
+    Rey checks BB8’s antenna as soon as she sees him again
+  entry_id: 8cpryl
+  entry_content: |
+    <img src=https://i.redditmedia.com/jv8JO1XTmC-S83cxHLCS8AO_tzFUBmJBIt8qvVa2xgc.jpg?s=6b3716ca7ccfa1c9ddf5f536527623bf frameborder=0>
 - entry_name: |
     What is a pirate's least favorite letter?
   entry_id: 8cs47j
@@ -197,10 +207,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
 - entry_name: |
-    In most groups of friends, one of them will eventually go to all the other friends' funerals, and one of them won't go to anyone's funeral
-  entry_id: 8cvdiw
+    To the people on a plane on 9/11, what did your pilots tell you when they grounded all flights?
+  entry_id: 8cu8ok
   entry_content: |
     null
+- entry_name: |
+    What's Truly In Your Vacuum
+  entry_id: 8cvif7
+  entry_content: |
+    <img src=https://i.redditmedia.com/MXTnu8IEPTSPSn7tGc0hX1xvYV9ZgoKUoPRDlbaLaNw.jpg?s=18d711f71738254a27ba712e523e0727 frameborder=0>
 - entry_name: |
     Ultimate Wire Cutter
   entry_id: 8cptex
@@ -211,6 +226,11 @@ data:
   entry_id: 8csi01
   entry_content: |
     <img src=https://i.redditmedia.com/7PqlesdstP90rZBrZ1sRLkeTNUGL_pKyJTIRGx2BCD0.jpg?s=c4af4b865af579a14dde6bce455ef0d1 frameborder=0>
+- entry_name: |
+    MRW I can smell weed when I’m walking down the street.
+  entry_id: 8cvalm
+  entry_content: |
+    <iframe src=https://v.redd.it/2377c21pvfs01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Medical bills – what you get instead of paying higher taxes
   entry_id: 8cudsn
@@ -227,28 +247,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oSfWKLMCQqoUMUtfGprtSksUuksk_SEcNf9q1pj2tcM.jpg?s=990f5862f316ceb443e43e8e0ead363d frameborder=0>
 - entry_name: |
-    To the people on a plane on 9/11, what did your pilots tell you when they grounded all flights?
-  entry_id: 8cu8ok
+    This bartender has serious skills
+  entry_id: 8cv1f2
   entry_content: |
-    null
-- entry_name: |
-    Cat in safe hands.
-  entry_id: 8cveow
-  entry_content: |
-    <img src=https://i.redditmedia.com/ODcNgjHfKsp8iuWvOhLmNveUCxxjie9T2Jnh8Mh1mh4.jpg?s=54423edd2920beb2b9d20b1003da99ef frameborder=0>
-- entry_name: |
-    TIL of Mohamed Bzeek, a Libyan-born Muslim living in Azusa, California, a foster father who takes in only terminally ill children. Bzeek, who has been fostering such children since 1989, is the only foster parent in Los Angeles County who will do this.
-  entry_id: 8cpwd7
-  entry_content: |
-    <img src=https://i.redditmedia.com/4sU9pITumW5w3luFl-RWOEXPBhdk6zY-Fbfz5RwNLC8.jpg?s=d27a5dea4a4e886b28c88408bb84cdf7 frameborder=0>
-- entry_name: |
-    What goes around covfefes around 🇺🇸
-  entry_id: 8cqsxt
-  entry_content: |
-    <img src=https://i.redditmedia.com/ufyEpyUGEh2NjpqNzkK1U4WxCCaCWD5V1q5StS9wptc.jpg?s=c37775ae8b153c6792cb6111bf822204 frameborder=0>
-- entry_name: |
-    Stop! Ok no, do that again
-  entry_id: 8cqus1
-  entry_content: |
-    <iframe src=https://v.redd.it/sek8vfq91cs01/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/hrcqkpgwkfs01/DASH_4_8_M frameborder=0></iframe>
 ---
