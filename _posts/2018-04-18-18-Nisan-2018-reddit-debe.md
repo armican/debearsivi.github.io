@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
 - entry_name: |
-    TIL that Queen Elizabeth the II of the United Kingdom, now aged 91, is a big fan of Nintendo's game console Wii. After watching her grandson play it during Christmas one year, she asked if she could have a go. Apparently she was a natural at Wii Bowling, and she became quite fond of the console
-  entry_id: 8cpes0
-  entry_content: |
-    null
-- entry_name: |
     My rubber band ball exploded.
   entry_id: 8cplhg
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8cv1f2
   entry_content: |
     <iframe src=https://v.redd.it/hrcqkpgwkfs01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL of Mohamed Bzeek, a Libyan-born Muslim living in Azusa, California, a foster father who takes in only terminally ill children. Bzeek, who has been fostering such children since 1989, is the only foster parent in Los Angeles County who will do this.
+  entry_id: 8cpwd7
+  entry_content: |
+    <img src=https://i.redditmedia.com/4sU9pITumW5w3luFl-RWOEXPBhdk6zY-Fbfz5RwNLC8.jpg?s=d27a5dea4a4e886b28c88408bb84cdf7 frameborder=0>
 ---
