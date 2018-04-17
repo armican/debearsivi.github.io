@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KaHwpWEKhauLv123hagBtkEEQhT2fCuBD6cTwD70m9Q.jpg?s=fab6465a1d5f502343c5322425ccddb4 frameborder=0>
 - entry_name: |
-    A softball player joins the dodgeball team
-  entry_id: 8cpg9j
-  entry_content: |
-    <iframe src=https://v.redd.it/aho0ybi11bs01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Puppy is not as social as the others in training school
   entry_id: 8csi2j
   entry_content: |
@@ -52,11 +47,6 @@ data:
   entry_id: 8crwnw
   entry_content: |
     <img src=https://i.redditmedia.com/mNDXJuYVjMhEPwjRottSlxONbZZoYObfwb6OF4HOZrY.jpg?s=b18faceda26078fd50e08207a45a0641 frameborder=0>
-- entry_name: |
-    My rubber band ball exploded.
-  entry_id: 8cplhg
-  entry_content: |
-    <img src=https://i.redditmedia.com/fmzrvwpmlaKX_KMltw24-BFdWYyR90Nyf5g4PqNCS9I.jpg?s=097cf815851b5fe7e64aec3f5476e791 frameborder=0>
 - entry_name: |
     Trump has reportedly halted new sanctions against Russia: Trump has halted the implementation of new Russian sanctions, just one day after United Nations Ambassador Nikki Haley said that new sanctions were coming.
   entry_id: 8cr2gf
@@ -251,4 +241,14 @@ data:
   entry_id: 8cpwd7
   entry_content: |
     <img src=https://i.redditmedia.com/4sU9pITumW5w3luFl-RWOEXPBhdk6zY-Fbfz5RwNLC8.jpg?s=d27a5dea4a4e886b28c88408bb84cdf7 frameborder=0>
+- entry_name: |
+    What goes around covfefes around 🇺🇸
+  entry_id: 8cqsxt
+  entry_content: |
+    <img src=https://i.redditmedia.com/ufyEpyUGEh2NjpqNzkK1U4WxCCaCWD5V1q5StS9wptc.jpg?s=c37775ae8b153c6792cb6111bf822204 frameborder=0>
+- entry_name: |
+    Stop! Ok no, do that again
+  entry_id: 8cqus1
+  entry_content: |
+    <iframe src=https://v.redd.it/sek8vfq91cs01/DASH_4_8_M frameborder=0></iframe>
 ---
