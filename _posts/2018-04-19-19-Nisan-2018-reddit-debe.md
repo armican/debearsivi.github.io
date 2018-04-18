@@ -78,11 +78,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5d3lwfto9js01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Nova Scotia filled its public Freedom of Information Archive with citizens' private data, then arrested the teen who discovered it
-  entry_id: 8cyg2h
-  entry_content: |
-    <img src=https://i.redditmedia.com/oyX9lcHCJ3-nv837qp6FICOYyfkb5xIIOeMFoCEkoYI.jpg?s=0a5a5a59de502a5e80adeebf196c2da3 frameborder=0>
-- entry_name: |
     Family friend went camping over 30 years ago and heard a noise outside the tent. Instead if peaking her head out to see what it could be she reached her hand out with her disposable camera. When the pictures were developed this is what she saw:
   entry_id: 8d0pfs
   entry_content: |
@@ -168,11 +163,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ldg77pgpmhs01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Pro football player Don Jones took a teen with Down Syndrome to her senior prom.
-  entry_id: 8cyfmt
-  entry_content: |
-    <img src=https://i.redditmedia.com/MEUr_5DQyuIK8zgigIdEVaECrYe-MzKbu-v1aLRqCMM.png?s=87cad0be3f058ca7fabd015510cee263 frameborder=0>
-- entry_name: |
     The undercover author who discovered Amazon warehouse workers were peeing in bottles tells us the culture was like a prison
   entry_id: 8d4di4
   entry_content: |
@@ -197,11 +187,6 @@ data:
   entry_id: 8cz0qn
   entry_content: |
     <img src=https://i.redditmedia.com/C3-_ukmHibR1vvccPGWVay4GWFFzlAT7UUn1oMQeK8U.jpg?s=ad91faf00af63f298c0d8b67b874bc32 frameborder=0>
-- entry_name: |
-    45 Years Later, We Finally Know What This Album Cover Means
-  entry_id: 8cyfgv
-  entry_content: |
-    <img src=https://i.redditmedia.com/X4npVDTDeG8NEsVexN8Pi7WTCk6Y6yS1WNnsBtzSjF8.jpg?s=ddb91e65e762e6049369d821bb2ff02f frameborder=0>
 - entry_name: |
     Double your investment in 12-36 months!
   entry_id: 8d1ydy
@@ -251,4 +236,19 @@ data:
   entry_id: 8d36bp
   entry_content: |
     <img src=https://i.redditmedia.com/NvNSYAqrrVoNYQBk7EFtQSNoINVItrBQVnJKlG34z4k.png?s=d50f93581647b56a9bfb5284ecb36bc0 frameborder=0>
+- entry_name: |
+    The first time I realized I was attracted to women
+  entry_id: 8d14s3
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ju4lcGZQkIC-cfY8a35kB-HSLhewK06l-cVpJbOK_F8.jpg?s=e6b3e8724e63e4753fb0caae3bad0af2 frameborder=0>
+- entry_name: |
+    Where do little jokes come from?
+  entry_id: 8d34jw
+  entry_content: |
+    null
+- entry_name: |
+    MRW my local supermarket I've been going to for over a decade completely changes it layout
+  entry_id: 8d15v1
+  entry_content: |
+    <iframe src=https://v.redd.it/486usjm42ks01/DASH_1_2_M frameborder=0></iframe>
 ---
