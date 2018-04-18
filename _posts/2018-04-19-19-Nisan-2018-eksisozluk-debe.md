@@ -6,15 +6,23 @@ data:
     oyum recep tayyip erdoğan'a çünkü
   entry_id:  76130905
   entry_writer: bildiginiinsanligasunanadam
-  entry_fav_count: 1173
+  entry_fav_count: 1269
   entry_content: |
     çünkü siyasetten ve ekonomiden anlamıyorum.
   entry_channels: programlama,moda,eğitim
 - entry_name: |
+    ilçe kongresinden dönen erdoğan'ın araç konvoyu
+  entry_id:  76113347
+  entry_writer: oci
+  entry_fav_count: 1039
+  entry_content: |
+    araçlar hareket etmese, onun yerine alttan şehir kaydırılsa daha tasarruflu olabilecek konvoy.
+  entry_channels: siyaset,haber,otomotiv,ekonomi
+- entry_name: |
     kyk borçlarının silinmesi
   entry_id:  76113477
   entry_writer: hersey olur
-  entry_fav_count: 909
+  entry_fav_count: 910
   entry_content: |
     ulan ne yüzsüz heriflermişsiniz be. hepimiz o parayı aldık ve çatır çatır yedik işte. <br/><br/>o parayı alırken herkes kadar zorluk içindeydim. aileme yük olmak istemiyordum, şehir dışında kız arkadaşım vardı, bir yandan da komedi bir paraya tam zamanlı olarak iş hayatına atılmıştım. kyk parası bana o dönemler ilaç gibi gelmişti. hayatımı idame ettirmiştim sayesinde.<br/><br/>okul bitti, kız arkadaşımla ayrıldım, şu an istanbul gibi bi' yerde 2.650 lira gibi gayet düşük bir maaşla çalışıyorum ve bir yandan da sike sike borcumu ödüyorum. 2 yılda 10 bin lira ödedim, 3 bin kaldı. yapmak istediğim pek çok şeyden geri kaldım ama delikanlı gibi aldığım parayı geri ödüyorum.<br/><br/>ben bu kadar cefa çekmişken ve çektiğini bildiğim bir sürü insan tanımışken sizin gibi şark kurnazlarını görünce utancımdan yerin dibine giriyorum.<br/><br/>ekleme: <a class="b" href="/?q=lakayitciddi">lakayitciddi</a> nickli yazar yalan söylüyorsun diye mesaj attı bana. 2009-2013 yılları arasında <a class="b" href="/?q=marmara+ileti%c5%9fim">marmara iletişim</a>'de okudum, 2010-11 yılları arasında <a class="b" href="/?q=sports+tv">sports tv</a>'de kj operatörü olarak tam zamanlı çalıştım. ilk maaşım 100 liraydı, evet. sabah 06.30'da işe gelip 15.00'e doğru işten çıkıyor ve okula gidiyordum. kız arkadaşım kocaeli'de yaşıyor, sakarya üni'de okuyordu. bazı günler işten ya da okuldan çıkıp yanına gidiyordum. söz konusu yazara ismimi de söyledim, isteyen istediği gibi araştırıp neyin ne olduğunu öğrenebilir. reel'de arkadaşım olup ekşi'de de yazar olan arkadaşlarımı da söyleyebilirim. bi' de onlara sorarsınız isterseniz.<br/><br/>ekleme 2: herkes çok zor durumda değil, kendinizi kandırmayın. benim çevremde de ödeyecek durumu olduğu halde: "banane abi, ben ödemem, devlet siler zaten" diyen çok adam oldu. yapılması gereken "devlet herkesin borcunu siliyor, bizimkini de silsin" demek değil. devlet-vatandaş arasındaki bu sorunların önlenmesi için, devletin tamamen bir sosyal devlet olması için mücadele vermek. ben bunun çok mücadele ettim, bedeller ödedim. hakkımda en ufak bir şey bilmeden sallamak yakışmaz size.
   entry_channels: siyaset,eğitim,ekonomi
@@ -22,7 +30,7 @@ data:
     ysk başkanı'nın iyi parti açıklaması
   entry_id:  76132326
   entry_writer: madonnanin yagli zencisi 2
-  entry_fav_count: 641
+  entry_fav_count: 678
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/t24comtr/status/986637080796246016" title="https://twitter.com/t24comtr/status/986637080796246016">ysk başkanı: iyi parti'nin seçime katılıp katılamayacağını ben de bilmiyorum</a><br/><br/>gozler <a class="b" href="/?q=et+ve+bal%c4%b1k+kurumu">et ve balık kurumu</a>'nda..
   entry_channels: siyaset,haber
@@ -30,15 +38,31 @@ data:
     oyum iyi parti'ye çünkü
   entry_id:  76128435
   entry_writer: birmilyonunvarmi
-  entry_fav_count: 473
+  entry_fav_count: 477
   entry_content: |
     meral akşener'e inanıyorum. ülke zor durumda. ekonomi çöktü, insanlar mutsuz, savaş var, askerimiz ölüyor, okumuş insanlar işsiz geziyor, başıboş suriyeliler her yerde, başarısız dış siyaset, ayrıştırma politikası, başarısız ana muhalefet.. bence yeteri kadar sebep var.
   entry_channels: siyaset,anket
 - entry_name: |
+    firari fetöcülerin meral akşener'i desteklemesi
+  entry_id:  76119399
+  entry_writer: genckartal301
+  entry_fav_count: 377
+  entry_content: |
+    küfür edeceğim şimdi olmayacak. <br/><br/>ulan fetönün mağdur ettiği komutanların iyi parti saflarında fetullahçılara ve onun işbirlikçilerine savaş açtığını neden söylemiyorsunuz?<br/><br/>fetö ile akşener'i ilişkilendirmeye çalışmak namus yoksunluğuna delalettir. <br/><br/>trollük için para için şerefini satanlara işarettir.
+  entry_channels: siyaset
+- entry_name: |
+    oyumu boşa atıyorum çünkü
+  entry_id:  76133125
+  entry_writer: il re e morto viva il re
+  entry_fav_count: 257
+  entry_content: |
+    çünkü bende beyin yok!
+  entry_channels: anket
+- entry_name: |
     üniversite sınavı olan güne seçim koymak
   entry_id:  76126089
   entry_writer: bilmemadinisenkoy
-  entry_fav_count: 240
+  entry_fav_count: 241
   entry_content: |
     daha doğru düzgün plan yapamayan insanlar ülke yönetiyor,acınası bir durum gerçekten.
   entry_channels: 
@@ -46,31 +70,31 @@ data:
     24 haziran 2018 cumhurbaşkanlığı seçimi
   entry_id:  76126079
   entry_writer: persona non grata
-  entry_fav_count: 226
+  entry_fav_count: 232
   entry_content: |
     ülkede iyi şeyler de oluyor!<br/><br/>açıkcası ben "seçimler geçtiğimiz haftasonu yapıldı" gibi bir açıklama bekliyordum.
   entry_channels: siyaset,haber
 - entry_name: |
-    oyumu boşa atıyorum çünkü
-  entry_id:  76133125
-  entry_writer: il re e morto viva il re
-  entry_fav_count: 214
-  entry_content: |
-    çünkü bende beyin yok!
-  entry_channels: anket
-- entry_name: |
     miss universe israil 2018 birincisi
   entry_id:  76128812
   entry_writer: pisgarga
-  entry_fav_count: 199
+  entry_fav_count: 215
   entry_content: |
     nasıl bu kadar abartabiliyorsunuz anlayamıyorum. sıradan güzellikte bir kadın işte...
   entry_channels: magazin
 - entry_name: |
+    24 haziran 2018 iyi parti'nin seçimlere girememesi
+  entry_id:  76125769
+  entry_writer: zifir nikotin karbon
+  entry_fav_count: 214
+  entry_content: |
+    artık oyum iyi partiye. böyle mağduriyet olamaz. işimi gücümü bırakır meral akşener için gece gündüz çalışacağım. sokak sokak dolaşıp gönüllü oy isteyeceğim. benim gibi bir adamı bile fanatik partici yaptınız. bravo türk siyasetine.
+  entry_channels: siyaset
+- entry_name: |
     dışarıda erdoğan'ın atatürk'ten daha çok tanınması
   entry_id:  76110493
   entry_writer: lennonade
-  entry_fav_count: 194
+  entry_fav_count: 197
   entry_content: |
     valla trump da çok popüler ama doların üstünde george washington var.
   entry_channels: siyaset
@@ -78,15 +102,23 @@ data:
     24 haziran 2018 cumhurbaşkanlığı seçimi chp adayı
   entry_id:  76128095
   entry_writer: fikirtepeli
-  entry_fav_count: 174
+  entry_fav_count: 184
   entry_content: |
     kılıçdaroğlu aday olursa çevremdeki en az 10 kişiyle birlikte 3. aday kim olursa ona vereceğiz.
   entry_channels: siyaset
 - entry_name: |
+    sevişmeyeceksek görüşmeyelim erkeği
+  entry_id:  76120039
+  entry_writer: dedi kuzgun
+  entry_fav_count: 150
+  entry_content: |
+    30 yıllık çocukluk arkadaşım yaptı bunu bana ya. hayır ikimiz de hetero erkeğiz diyorum yok ben çok sıkıldım artık diyor. ayıptır ya yılların dostluğu var.
+  entry_channels: ilişkiler,ekonomi
+- entry_name: |
     24 haziran 2018 kürt oyları ne olacak sorunsalı
   entry_id:  76129753
   entry_writer: banagazozalnuri
-  entry_fav_count: 133
+  entry_fav_count: 135
   entry_content: |
     iyi ki siyaseti buradaki birkaç ırkçı gerzek yönlendirmiyor.<br/><br/>açık konuşuyorum, sike sike muhtaçsınız kürt oylarına. ha değilseniz siktirin gidin, %10 oy devşirin bir yerlerden. beyinsizler. bunlar çözüm sürecinde hdp ile akp iş birliği yapacak deyip daha sonra kendi oy verdikleri mhp akp ile iş birliği yapınca ehe mehe çeken tipler. bunların neyini ciddiye alacaksın? bunlar sadece oy kullanır. siktirin gidip oy verin, daha da uzatmayın.<br/><br/>şahsi görüşüm ise muhalefetin en fazla 2. turda yek vücut olacağı ve kürt oylarının oraya gideceğidir. şu an erdoğan'ın gitmesi kürtlükten de türklükten de önemli, bunu söyleyeceğim aklıma bile gelmezdi ama öyle. bu adamı bir yollayalım da, gerisini biz kendi aramızda hallederiz. yoksa bu seçimler son seçimler olacak.
   entry_channels: siyaset
@@ -94,7 +126,7 @@ data:
     ışid istanbul'da büyük bir saldırı hazırlığında
   entry_id:  76133439
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 121
+  entry_fav_count: 130
   entry_content: |
     (bkz: <a class="b" href="/?q=secim+calismalari+baslamis">secim calismalari baslamis</a>)
   entry_channels: siyaset,haber
@@ -110,23 +142,15 @@ data:
     çocukken çok isteyip hala alınamayan şeyler
   entry_id:  76116893
   entry_writer: adoredeniz
-  entry_fav_count: 111
+  entry_fav_count: 112
   entry_content: |
     (bkz: <a class="b" href="/?q=ak%c3%bcl%c3%bc+araba">akülü araba</a>)
   entry_channels: anket
 - entry_name: |
-    en antipatik futbol takımı
-  entry_id:  76122551
-  entry_writer: varuna
-  entry_fav_count: 88
-  entry_content: |
-    3 büyüklerin taraftarlarının rekabet nedeniyle birbirlerini aday gösterecekleri ankettir ama gerçek antipatik takım: başakşehir.
-  entry_channels: spor,anket
-- entry_name: |
     atatürk'ün de baskın seçimle rejim değiştirmesi
   entry_id:  76128773
   entry_writer: a place for my head
-  entry_fav_count: 87
+  entry_fav_count: 97
   entry_content: |
     herif cumhuriyet'imizin kuruluş tarihini baskın seçim tarihi olarak yazmış ya la. vay amk.<br/><br/>eskiden olsa vatan hainliğinden içeri atılırdın şimdi bu kafayla narkotik atar belki.
   entry_channels: siyaset,tarih
@@ -134,18 +158,50 @@ data:
     başkanlık seçiminin erkene alınmasının asıl sebebi
   entry_id:  76126994
   entry_writer: prensesimbenim
-  entry_fav_count: 83
+  entry_fav_count: 90
   entry_content: |
     olası bir ekonomik krizden önce seçim yapma telaşı olabilir.
   entry_channels: siyaset
 - entry_name: |
+    en antipatik futbol takımı
+  entry_id:  76122551
+  entry_writer: varuna
+  entry_fav_count: 89
+  entry_content: |
+    3 büyüklerin taraftarlarının rekabet nedeniyle birbirlerini aday gösterecekleri ankettir ama gerçek antipatik takım: başakşehir.
+  entry_channels: spor,anket
+- entry_name: |
+    18 nisan 2018 doların çakılması
+  entry_id:  76127829
+  entry_writer: hayatbuysa
+  entry_fav_count: 82
+  entry_content: |
+    merkez bankası dolar salıyor. erken seçim piyasalarca olumlu karşılandı denecek. ufak bir kurnazlık sadece
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    ambulans yazısını ters yazma saçmalığı
+  entry_id:  76125215
+  entry_writer: tabletci geldi hanim
+  entry_fav_count: 78
+  entry_content: |
+    evet, zaten trafikta hic duyma engelli insanlar yok. haklisiniz.
+  entry_channels: 
+- entry_name: |
     24 haziran 2018 genel seçim sonuçları
   entry_id:  76126389
   entry_writer: sononsun
-  entry_fav_count: 77
+  entry_fav_count: 78
   entry_content: |
     chp iyi partiye yapilan bu haksizligi gorup meral akseneri aday gosterir ise %55 uzerinde secimi alir.
   entry_channels: siyaset
+- entry_name: |
+    esra ve ceyda ersoy'un kavga etmesi
+  entry_id:  76121503
+  entry_writer: byzantium
+  entry_fav_count: 77
+  entry_content: |
+    poliste soruşturma yapıyor vay aq. biz evde birbirimizi öldürsek komşular 10 gün sonra çürümüş halimizi bulur.
+  entry_channels: magazin
 - entry_name: |
     iyi parti
   entry_id:  76111231
@@ -163,29 +219,29 @@ data:
     erken secimi resmi olarak aciklayacaktir. erken secimi goremeyen veya gorenlere binbir turlu yakistirma yapanlarin artik soyleyecek sozu kalmayacaktir. aylardir sehir sehir gezen erdogan ve yildirim'in secim calismasina herkesden once basladigini gormediyseniz aptal olmalisiniz.<br/><br/>edit: beklenen aciklama daha erken geldi ve 24 haziran'da oldugunu tayyip erdogan acikladi. yangindan mal kacirir gibi karar almak bana gore kaybettirecek. ayrica, akp hakkinda %40 civarinda oylari var soylentileri ve erdogan'in bunun icin cok sinirli ve ofkeli oldugu dogrulugunu kanitladi. <br/><br/>bu durumda, meral aksenir secime yalnizca 100 bin imza toplayarak sadece cumhurbaskani adayi olarak girebiliyor. ıyi partinin secime girme ihtimali kalmadi. bu yapilan hamleyi eger iyi kullanirsa 67 gun icerisinde ciddi bir oy kazanci saglar. <br/><br/>ayrica, yine tekrarliyorum, erdogan ve ekibinin erken secime hazirlandigini anlamayan gercekten aptaldir. bu da gosteriyor ki kilicdaroglu ve ekibi bu saate kadar cumhurbaskani adaylarini aciklayamadiklari icin bana gore aptal pozisyonundadir. 67 gun icinde kimi kime tanitacaksin kim icin oy isteyeceksin? ortak olarak meral aksener'i gosterin o halde ya da hukumlu olan selahattin demirtasi aday gosterin. kilicdaroglu veya baskasi ile olacak is degil cunku.<br/><br/>simdiden herkese gecmis olsun.<br/><br/>secim tahminim, %48 ile tayyip erdogan bu secimi kaybeder.<br/><br/>edit 2: meral aksener'in aciklamasina gire iyi parti secime girecek. ancak bu parti olarak mi yoksa bireysel yalnizca cb adayi olarak mi ben onu tam anlayamadim.
   entry_channels: siyaset,haber
 - entry_name: |
-    esra ve ceyda ersoy'un kavga etmesi
-  entry_id:  76121503
-  entry_writer: byzantium
-  entry_fav_count: 71
-  entry_content: |
-    poliste soruşturma yapıyor vay aq. biz evde birbirimizi öldürsek komşular 10 gün sonra çürümüş halimizi bulur.
-  entry_channels: magazin
-- entry_name: |
-    ambulans yazısını ters yazma saçmalığı
-  entry_id:  76125215
-  entry_writer: tabletci geldi hanim
-  entry_fav_count: 71
-  entry_content: |
-    evet, zaten trafikta hic duyma engelli insanlar yok. haklisiniz.
-  entry_channels: 
-- entry_name: |
     atatürk'te olup erdoğan'da olmayan şey
   entry_id:  76133280
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 56
+  entry_fav_count: 63
   entry_content: |
     vatan sevgisi. diğeri ümmeti seviyor "yaradandan ötürü".
   entry_channels: siyaset,anket,bilim,tarih,ekonomi
+- entry_name: |
+    oyum iyi parti'ye değil çünkü
+  entry_id:  76131693
+  entry_writer: sokrataristo
+  entry_fav_count: 59
+  entry_content: |
+    iktidara gelirse aktroller işsiz kalacak.
+  entry_channels: siyaset
+- entry_name: |
+    2018 erken seçiminde yazarların oy vereceği parti
+  entry_id:  76130167
+  entry_writer: puik
+  entry_fav_count: 52
+  entry_content: |
+    babadan 41 yıllık chp'liyim. <br/><br/>üçü aynı bokun farklı rengi olan akp'nin, chp'nin ve mhp'nin de ta ... diyerek, oyum net olarak iyi partinindir.
+  entry_channels: siyaset,anket
 - entry_name: |
     çamaşır asan cam silen ütü yapan evi süpüren erkek
   entry_id:  76112383
@@ -195,26 +251,18 @@ data:
     bunların yanı sıra yemek yapan, evi düzenleyen, o çamaşırları ütüledikten sonra gradroba katlayıp koyan , buzdolabını temizleyen düzenleyen erkektir ayrıca. koltukları falan da siler.<br/>sonuçta yalnız yaşayınca , hijyen ve düzen olmayacak diye bir şey mi var? ha her şeyi temizlikçi kadına yaptırmayı marifet sanan bazı arkadaşlar "ne yapıyorsun?" dediklerinde "ıspanak yıkıyordum" yanıtına ehii ehii diye gülerek dalga geçerler. ne var lan? ıspanak yıkıyorum, yıkamadan mı pişireyim. <br/><br/>gerçekten bu işleri yaptığını söyleyen erkeklere "ehi ehi ehi" diye dalga geçerek küçümseyerek yanıt verenlerin ezikliğini düşünmek bile istemiyorum
   entry_channels: anket,ilişkiler
 - entry_name: |
-    2018 erken seçiminde yazarların oy vereceği parti
-  entry_id:  76130167
-  entry_writer: puik
+    f/p oranı en yüksek erkek parfümü
+  entry_id:  76111197
+  entry_writer: hot potato
   entry_fav_count: 50
   entry_content: |
-    babadan 41 yıllık chp'liyim. <br/><br/>üçü aynı bokun farklı rengi olan akp'nin, chp'nin ve mhp'nin de ta ... diyerek, oyum net olarak iyi partinindir.
-  entry_channels: siyaset,anket
-- entry_name: |
-    oyum iyi parti'ye değil çünkü
-  entry_id:  76131693
-  entry_writer: sokrataristo
-  entry_fav_count: 48
-  entry_content: |
-    iktidara gelirse aktroller işsiz kalacak.
-  entry_channels: siyaset
+    basligi acan "sozelci" arkadasi axe deodorant paklar bence. kesirler ucuncu sinif konusu halbuki.
+  entry_channels: anket
 - entry_name: |
     ekşi sözlük mani kapışması
   entry_id:  76126773
   entry_writer: uhud
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     hızlı manilerime yetişemez radar<br/>dizelerim adeta rayda bir katar.<br/>toplanıp burada üç beş kafadar<br/>hoplatırız seni saat 6'ya kadar.
   entry_channels: anket,ekşi-sözlük,edebiyat
@@ -222,18 +270,10 @@ data:
     yeni gelin evlerinin paylaştığı ilginç fotoğraf
   entry_id:  76132272
   entry_writer: dumadums
-  entry_fav_count: 24
+  entry_fav_count: 28
   entry_content: |
     sütyenleri hiç beğenmedim olmamış.<br/>o sütyenler ne öyle kıyafet altından çok belli oluyor onlar pütür pütür.<br/>ayrıca bir kaç yıkamada demirleri kopuyor. eciş bücüş oluyor <br/>insan gider penti’den victoria’s secret’dan ikişer tane alır. ama kaliteli alır.<br/>bir de yıkanmadan sütyenleri aldığı gibi çekmeceye koymuş inşallah öyle giymez..
   entry_channels: ilişkiler,magazin
-- entry_name: |
-    24 haziran 2018 yks sınavı
-  entry_id:  76126229
-  entry_writer: amokhaci
-  entry_fav_count: 23
-  entry_content: |
-    türkiye’nin yönetim şeklinin özeti budur işte. projeksiyon yok planlama yok. her şey sallamasyon ilerliyor.<br/><br/>allah yardımcısı olsun sınava gireceklerin. adamlar bayramdan çıkacak sınava girecekti. şimdi ya sınav çadırda olacak ya oy verme işlemi.
-  entry_channels: eğitim
 - entry_name: |
     sigara içmeyenlerin dertlenince başvurdukları şey
   entry_id:  76109885
@@ -242,14 +282,6 @@ data:
   entry_content: |
     esrar
   entry_channels: anket
-- entry_name: |
-    erdoğan'ın paniğe girmesi
-  entry_id:  76134426
-  entry_writer: morgothlubalrog
-  entry_fav_count: 22
-  entry_content: |
-    kesindir. referandum sonuçlarından beri böyle. baştayken erken seçim kararı alıp kaybeden bu sene hatırladığım 2 kişi var. biri ingiltere başbakanı <a class="b" href="/?q=theresa+may">theresa may</a> diğeri <a class="b" href="/?q=dursun+%c3%b6zbek">dursun özbek</a>. hadi üçüncüsü sen ol be.
-  entry_channels: siyaset,spoiler
 - entry_name: |
     meral akşener
   entry_id:  76128039
@@ -262,7 +294,7 @@ data:
     devlet bahçeli
   entry_id:  76120960
   entry_writer: forloop
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     2002: erken seçime gidelim dedi. akp tek başına iktidar oldu. mhp baraj dışı kaldı.<br/>2007: abdullah gül'ü cumhurbaşkanı seçtirdi.<br/>2014: birlikte seçime girmek için ekmeleddin gibi süper sikimsonik bir çatı adayını dayattı.<br/>2015: kılışdar buna gel sen başbakan ol hükümeti kuralım dedi. kabul etmedi. tekrar seçime gidildi.<br/>2016: birden başkanlık sistemini destekler şekilde 180 derece döndü.<br/>2016: parti içi muhalefetin hepsini kovdu.<br/>2018: şimdi yine erken seçim diyor tarih veriyor.<br/><br/>komik komik atarlar yaptı millete sevimli göründü. bunlar şimdi aklıma gelenler deşsek daha neler çıkacak.<br/>bu adamın miadı dolup önemini yitirmiş bir proje olan mhp'nin başına geçmesini liyakata mı bağlıyorsunuz hala. akp projesinin akp dışındaki en önemli adamlarından biridir devlet bahçeli.
   entry_channels: siyaset
@@ -270,42 +302,42 @@ data:
     ekşi itiraf
   entry_id:  76110777
   entry_writer: brayn
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     çok iyi bir kumarbazdım. çok kazandım. sonra dünyaları kaybettim ve bıraktım. uzun bir süre sonra yine oynamaya başladım, yine çok kazandım, sonra 2 katını yine kaybettim. son 1 senede işimden 85 bin lira kazandım, bahiste son 3 ayda önce 60 bin kazanıp sonra da 110 bin kaybettim. yine oynamiyim diyorum. <br/><br/>ailemle ve arkadaşlarımla ilişkiyi minimuma indirdim, görüşmek isteyen kızlar oldu reddettim, konuşmak istediğim bazı insanlar da beni reddetti. en çok korktuğum şey sıradan olmaktı, hayatım hiç sıradan olmadı ama en sonunda hem sıradan oldum, hem de kaybeden. <br/><br/>mesela bir gün evlenmek isterim diye düşünmemiştim, hiç de istememiştim. son dönemde istemeye başladım, ama düşündüm ki, ben gelecekteki aileme de ihanet etmişim. kumar oynayarak ve geçmişte madde kullanarak, kendimi affedemem. <br/><br/>şimdiye kadar iyi vakit geçirdim, aslında önemli şeyler de yaptım, cv’m hiç fena değil, çok iyi bir üniversite ve bölüm okudum, türkiye’nin en büyük şirketlerinde çok önemli yerlerde çalıştım, ama bundan sonra önemli işler yapabilmek adına bir ışık görmüyorum kendimde. gerçi, milyon dolarlık ihaleleri koordine ederken de, türkiye’nin en önemli havacılık projelerinde en üst düzey isimlerle muhatap olurken de, akşam olsa da içsem diye düşünen, yalnız başıma saçma sapan içmekten keyif alan bir insandım. <br/><br/>şimdi de çevrem iyi insanlarla dolu, genelde odtü, itü, boğaziçi, bilkent gibi okullardan mezun mühendislerle ve pilotlarla dolu. beni de çok severler, bazıları bilir yaptıklarımı bazıları bilmez, ama değer gösterir ve saygı duyarlar. ama ben kendime değer göstermiyor ve saygı duymuyorum. yaptığım şeylerin affedilecek bir yanı yok. mutsuz değilim, mutsuz olunca hayattan koptuğum için olmamam en azından mücadeleye devam etmem gerek, öyle de yapıyorum, ama kendimi affetmeyeceğim. <br/><br/>cennetin en üst katı da, cehennemin en dibini de, hiç acele etmeden uzun uzun yaşadım. ama mesela gerçek bir aşk hiç yaşamadım. (o halde cenneti görmüş sayılmam di mi) çok sevgilim oldu, ama hayatımda kalmasını istemedim hiçbirinin, bazıları da beni istemedi. şimdi bakıyorum da, temiz bir insan olarak kalıp, güzel bir yuva kurmayı tercih edebilirdim. ama herşeyin bir bedeli var, ben çizgiyi çok aştım ve defalarca açtım, laf dinlemedim, inat ettim, kötü bir insan oldum. <br/><br/>aslında dış dünyayı baz alırsak kimseye kötülük ettiğim söylenemez, ama kendi hayatımı siktim, attım. olmak istemediğim bir yerdeyim ve her şey bitmiş gibi hissediyorum. evet evet güçlü kalıp sabah işe gideceğim, aileme ve sevdiklerime destek olacağım, kedileri köpekleri besleyip seveceğim ve güler yüzlü olacağım ama bu kısır döngümden kurtulabileceğimi sanmıyorum. <br/><br/>çok haksızım. gerizekalı olduğum konusunda ikna etmeye çalışıyorum insanları, ama olmak istemiyorlar, en azından bahanem olurdu. ama şimdi yok.<br/><br/>eskiden (aslında çok da eski değil) dünyayı değiştirebilecek kadar güçlü hissederdim, çok insanın hayatını değiştirdim, yol gösterici ve öğretmen oldum, kötü bir insan olmayı seçene kadar kendi hayatımı da iyi yönettim, başarılı oldum. ancak şimdi bir kaybedenim.<br/><br/>bir çocuğum olmasını isteyeceğimi düşünmemiştim, düşünsem yapmazdım belki, şimdi istiyorum ama her boku yemiş bir adamın çocuğu olmak istemez belki gelecekteki evladım.bu yüzden bu riski alamayacağım. kendi anne babama beni yaptıkları için çok kızdım senelerce, şimdi iyi bir hayat sunabilecek olsam da, kirlenmiş hissettiğim için artık haketmiyorum. <br/><br/>yine de önemli şeyler yaparak terkedeceğim bu dünyayı, pes etmiş değilim, ama çok şey kaybettim. <br/><br/>kumar alkol sigara ve maddeden uzak durun demek istiyorum ama bunu zaten 5 yaşındaki çocuklar da biliyor. evet 5 yaşındaki çocuk kadar akıllı olun ve zamanınızı daha doğru kullanın.<br/><br/>oldu o zaman, yine yazarım arada, iyi geceler bebekler.
   entry_channels: anket,ilişkiler,ekşi-sözlük,edebiyat
 - entry_name: |
-    18 nisan 2018 abd dışişleri bakanlığı açıklaması
-  entry_id:  76133093
-  entry_writer: chevron
-  entry_fav_count: 15
-  entry_content: |
-    türkiye rusya’dan s-400 alınmaması ve amerikan çıkarlarına uygun hareket etmesi için uyarılmış. abd isteklerinin gerçekleştirilemediği takdirde yaptırım <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/m.haberturk.com/abd-den-s-400-aciklamasi-turkiye-ye-yaptirim-uygulanabilir-1925607-amp" title="https://www.google.com.tr/amp/m.haberturk.com/abd-den-s-400-aciklamasi-turkiye-ye-yaptirim-uygulanabilir-1925607-amp">uygulanacakmış</a><br/><br/>“haftasonu ingiltere ve fransa ile birlikte suriye'ye füze saldırısı düzenleyen abd'den suriye'de barışı tesis etmek için diplomatik çalışmalar yürüten türkiye ve rusya'nın işbirliği hakkında bir açıklama geldi.<br/><br/>abd dışişleri bakan yardımcısı wess mitchell, türkiye ve rusya arasında suriye kriziyle bağlantılı olarak yapılan askeri anlaşmaların endişe verici olduğunu açıkladı. bakanlık, rusya'dan s-400 füze savunma sistemleri satın almaya hazırlanan türkiye'ye yaptırım uygulanabileceğini belirtti.<br/><br/>mitchell, "ankara, suriye'de taktik hedeflere ulaşmak adına moskova'ya stratejik tavizler verilmesinin risklerini hatırlamalı. türkiye, abd'yle olan yakın ilişkilere rağmen rusya ve iran'la işbirliğini artırdı. türkiye'nin batı'yla stratejik ve siyasi birliğini koruması, abd'nin ulusal çıkarlarına uygun olur" ifadelerini kullandı.“<br/><br/>siz pkk-ypg’ye destek verirken iyiydi. utanmaz aşağılık herifler!
-  entry_channels: siyaset,haber
-- entry_name: |
-    18 nisan 2018 galatasaray akhisarspor maçı
-  entry_id:  76135303
-  entry_writer: ucaktaki can yelegi
-  entry_fav_count: 14
-  entry_content: |
-    takim olarak bana o karanlik donemi ve tek bir kisiyi cagiristiriyor. bilin bakalim kim?<br/><br/>(bkz: <a class="b" href="/?q=mustafa+sarp">mustafa sarp</a>)
-  entry_channels: spor
-- entry_name: |
     24 haziran 2018 r. t. erdoğan'ın balkon konuşması
   entry_id:  76132478
   entry_writer: koca nickli zenci
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     umrumda olmayan konuşma.
   entry_channels: siyaset,haber
 - entry_name: |
+    muharrem ince
+  entry_id:  76128145
+  entry_writer: toplamiyorumulankozalaklari
+  entry_fav_count: 12
+  entry_content: |
+    24 haziran cumhurbaşkanlığı seçiminde chp'nin adayı olmalıdır.şuan ülkede en çok tanınan ve umut veren muhalif isim.2 ayda kimsenin bilmediği yeni bir ismi duyurmak saçma olur.
+  entry_channels: siyaset,eğitim
+- entry_name: |
     la casa de papel
   entry_id:  76119767
   entry_writer: busraacar
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     ucuncu sezon haberi icin soyleyebilecegim tek sey koca bir <a class="b" href="/?q=ne+gerek+vard%c4%b1">ne gerek vardı</a>.
   entry_channels: tv,edebiyat,spoiler
+- entry_name: |
+    25 haziran 2018 sabahı
+  entry_id:  76129812
+  entry_writer: explorateur
+  entry_fav_count: 11
+  entry_content: |
+    çok afedersiniz yarrak gibi olacaktır.
+  entry_channels: siyaset,haber
 - entry_name: |
     18 nisan 2018 fenerbahçe doğuş baskonia maçı
   entry_id:  76124432
@@ -315,21 +347,21 @@ data:
     hatırlayanınız olur belki, geçen sene fenerbahçe'nin playoff ilk maçından başlayarak tüm maçlar öncesinde kısa hikayeler kaleme almıştım. <br/><br/>pana ilk maçı: (bkz: <a class="b" href="/entry/67553933">#67553933</a>) <br/><br/>tüm hikayeler: (bkz: <a class="b" href="/entry/68298778">#68298778</a>)<br/><br/>o bir toteme dönüşmüş ve fenerbahçe maçları birer birer kazandıkça ben de keyiften dört köşe olmuştum. bu sene de aynı totemi yapmaya karar verdim. umarım yine aynı mutlu son ile biten bir hikaye serisi yaratmış oluruz. keyifli okumalar ve bol şans fenerbahçe!<br/><br/>***<br/><br/>bogdan bogdanoviç’i istanbul’a getiren uçağın tekerleri piste değdiği anda, bogdan uzun bir aradan sonra evine dönmüş olmanın verdiği rahatlamayı hissetmişti. eski takım arkadaşlarını, fenerbahçe ailesini görmenin özlemini en sonunda dindirebilecekti. o ana kadar ise, istanbul’a gelmiş olmaktan dolayı yüzüne yayılan gülümsemenin keyfini çıkartacaktı. <br/><br/>bogdan’ın istanbul’a ayak bastığı günün akşamında, fenerbahçe 2017-2018 turkish airlines euroleague playoff ilk maçında ispanya’nın baskonia takımı ile karşı karşıya gelecekti. bogdan’ın o gün istanbul’a ve ülker arena’ya maçı izlemeye geleceğinden tüm ekibin haberi vardı. bogdan sene başında takımdan ayrılmış olsa da, hâlâ takımın whatsapp grubunda yer almaya devam ediyordu. amerika ile saat farkına rağmen ekip arkadaşları ile yazışıyor, iletişimi kopartmamaya çalışıyordu. onunla fenerbahçe arasındaki gönül bağının aradaki binlerce kilometreye rağmen kopmadığı besbelliydi.<br/><br/>bogdan’ı akşamki maça beklerken sabahki şut idmanında karşılarında gören oyuncular, şaşkınlık ve sevinçle karışmış duygular içerisinde antrenmanı bırakıp bogdan’ın yanına gitmek üzere hareketlenmişlerdi. onları oldukları yere çivileyen obradoviç’in düdüğü olmuştu.<br/><br/>“ne yapıyorsunuz?” diye çattı obradoviç, topu bırakıp bogdan’a doğru yönlenen oyuncularına. “antrenman bitti dediğimi hatırlamıyorum.”<br/><br/>obradoviç gibi disiplin abidesi bir insanın, antrenmanı yarıda kesip bogdan’ı karşılamalarına izin vereceğini düşünen fenerbahçeli basketbolcular, hocalarının işine duyduğu saygının seviyesini bir an için unuttuklarını fark ettiler. antrenmanlarına kaldıkları yerden devam etmek üzere hareketlenen oyuncuları koçtan gelen yeni bir düdük sesi duraklattı.<br/><br/>“siz ne yaptığınızı sanıyorsunuz?“ diye sordu obradoviç, bu sefer sesi neşeli çıkmıştı. yüz kaslarının gevşediği görülüyordu. “bogi gelmiş amerikalardan bize moral vermek için, hoş geldin demeyecek misiniz?”<br/><br/>obradoviç’in kendileri ile bir babanın oğluna yaptığı gibi takıldığını anlayan oyuncuların ağızları kulaklarına varmıştı. koşar adım bogdan’a sarıldılar teker teker. en sonunda da koç eski öğrencisini kucakladı. duygu dolu anlar yaşanıyordu ülker arena’daki boş koltukların önünde. kısa bir muhabbetin ardından obradoviç’in sesi yankılandı tekrardan:<br/><br/>“beyler, on dakika aranın ardından antrenman kaldığı yerden devam edecek. akşam maçımız var, hatırlarsanız.”<br/><br/>“hiç değişmemiş,” diye takıldı bogdan, koç yanlarından gittikten sonra. tüm ekip gülmüştü bu espriye. vesely, datome, kaliniç, bobby, melih ve geriye kalan oyuncular bogdan’ın etrafında bir çember oluşturmuşlardı. o an ülker arena’da yükselen sinerji ve pozitif enerji ile fenerbahçe, değil euroleague şampiyonluğu, mümkün olsa galaksi şampiyonluğuna bile gidebilirdi. <br/><br/>lakin, her şey adım adımdı. ilk hedef baskonia’yı elemekti. ilk maçta ülker arena’da gösterilecek dominant bir oyun, serinin kilidini açabilirdi. eski dostları bogdan’ın varlığı ile moralleri iyice yükselen fenerbahçeli basketbolcular, son şampiyonun playoff ilk maçına nasıl çıkması gerektiğini tüm avrupa’ya gösterecekti. tünelin sonunda kupa vardı ve o tünel fenerbahçeli oyunculara hiç de uzun görünmüyordu.<br/><br/>***<br/><br/>benzer hikayeler için: (bkz: <a class="b" href="/?q=gurlino%27nun+k%c4%b1sa+hikayeleri">gurlino'nun kısa hikayeleri</a>)
   entry_channels: spor
 - entry_name: |
-    muharrem ince
-  entry_id:  76128145
-  entry_writer: toplamiyorumulankozalaklari
-  entry_fav_count: 7
+    18 nisan 2018 galatasaray akhisarspor maçı
+  entry_id:  76135446
+  entry_writer: kafkasli17
+  entry_fav_count: 8
   entry_content: |
-    24 haziran cumhurbaşkanlığı seçiminde chp'nin adayı olmalıdır.şuan ülkede en çok tanınan ve umut veren muhalif isim.2 ayda kimsenin bilmediği yeni bir ismi duyurmak saçma olur.
-  entry_channels: siyaset,eğitim
+    maçı izledikçe diyorum ki iyi ki tolga ciğerci denen adam fener maçında o golü kaçırmış. böyle bir futbolcunun golü ile makus talihimiz değişsin istemezdim. bu ebedi rakip fenerbahçe'ye bile saygısızlık. adamlar kaç senelik seriyi bu adam bozsun diye mi yaptık diye dava açsalar hakim haklı bulur.
+  entry_channels: spor
 - entry_name: |
-    levent gültekin
-  entry_id:  76109505
-  entry_writer: keremcantekin
-  entry_fav_count: 5
+    adriana lima'nın çatır çutur yanacağı gerçeği
+  entry_id:  76134243
+  entry_writer: gelismekteolanyazar
+  entry_fav_count: 6
   entry_content: |
-    türk siyasetinin yerlerde olduğu 2011'den beri benim açımdan açık olan bir şey. <br/><br/>ben hatta daha farklı bir şekilde ifade ediyorum durumu. türk siyaseti ve onun aracılığı ile türk toplumu çürüyor diyorum. çürüme akp saflarında daha yaygın, ama diğer kesimlere, sol, hdpli, chpli, hatta sosyalist kesimlere bile yayılıyor. <br/><br/>bu çürümeyi tedavi etmenin ilk ve en önemli adımı, erdoğan'ın gitmesi ve onun yerine çürümenin farkında olan yeterince cesur birisinin gelmesidir. <br/><br/>marketing falan diyen arkadaşlar, chp düzgün bir aday çıkarsa, geçtim chp'yi iyip düzgün bir aday çıkarsa bile, iyi adaydan kastım cidden insanlarda heyecan yaratacak güçlü söylemleri olan cesur, hani ağzımızın tadı kaçmasın mantığı ile siyaset yapmayan bir insan, levent gültekin'in adı bile anılmaz, herkes daha birinci turda o adayın arkasında birleşir. akp'den bile ciddi bir kopya olur. <br/><br/>ama bu iki parti bizi şaşırtmadığı sürece, eklemeddin'den hallice biri çıkacaktır. dolayısı ile cumhurbaşkanlığı seçiminde en azından cesurca konuşabilen ve çürümenin farkında olan birisinin olması önemli, hatta daha ötesi hayati. birinci turu geçemese bile, akplilere bir parça çürümeyi anlatabilir sonuçta levent bey. belki bir kısmı evinde kalır bu sayede ikinci turda.
-  entry_channels: siyaset,tv,haber
+    yanındaki şezlongta ben de yanmayı isterim mümkünse.
+  entry_channels: ekşi-sözlük,magazin
 - entry_name: |
     bedelli askerlik
   entry_id:  76119759
@@ -339,67 +371,35 @@ data:
     50 bin tl olsun diyen var olur mu kardeşim o kadar düşük bence 1 milyar tl olsun ali koç ayarındaki adamlar bedelli yapsın diğer türlü adaletsizlik olur! <br/><br/>hem 30 yaşındaki adam türk silahlı kuvetlerine dinç bedenini feda eder ne güzel olur!
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    aşkitoşum aşkitoşum
-  entry_id:  76117954
-  entry_writer: spring rest
+    oy kullanmayacağım
+  entry_id:  76134560
+  entry_writer: asilvakur
   entry_fav_count: 4
   entry_content: |
-    sozlerini de yazalim da tam olsun:<br/><br/>askitosum askitosum<br/>iki sene tanismisim<br/>askitosum askitosum<br/>lala lay, lala la lay<br/>ola loy, ola lo loy<br/>off<br/><br/>melodisi <a class="b" href="/?q=yarim+ha+yarim+hava">yarim ha yarim hava</a> seklindedir.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    adriana lima'nın çatır çutur yanacağı gerçeği
-  entry_id:  76134243
-  entry_writer: gelismekteolanyazar
-  entry_fav_count: 4
-  entry_content: |
-    yanındaki şezlongta ben de yanmayı isterim mümkünse.
-  entry_channels: ekşi-sözlük,magazin
-- entry_name: |
-    kemal kılıçdaroğlu
-  entry_id:  76132170
-  entry_writer: psv
-  entry_fav_count: 2
-  entry_content: |
-    kendisi için bir seçim daha kaybetme şansı erkenden ayağına gelmiştir. türkiye perişan olurken sizin için yine şöyle gülecektir; <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tokcem/status/985998424070918144" title="https://twitter.com/tokcem/status/985998424070918144">https://twitter.com/…kcem/status/985998424070918144</a>
+    kendisini gerçekten demokratik bir ülkede yaşıyor sanan kişilerin söylediği cümledir. bizim gibi ülkelerde oy kullanmamak demek; iktidar partisine oy kullanmak demektir.
   entry_channels: siyaset
+- entry_name: |
+    geceye bir çatı aday bırak
+  entry_id:  76135066
+  entry_writer: eden bulur hazard
+  entry_fav_count: 4
+  entry_content: |
+    sözlük bile (bkz: <a class="b" href="/?q=b%c3%b6yle+bir+%c5%9fey+yok">böyle bir şey yok</a>) diyor ama vira bismillah tanrım;<br/><br/>(bkz: <a class="b" href="/?q=sergio+marquina">sergio marquina</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7al%c4%b1yor+ama+halktan+%c3%a7alm%c4%b1yor">çalıyor ama halktan çalmıyor</a>)
+  entry_channels: siyaset,anket
 - entry_name: |
     ciddi ciddi ip'in ikinci tura kalacağına inanmak
   entry_id:  76135107
   entry_writer: kompozisyon yazamayan adam
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     ben <a class="b" href="/?q=ip">ip</a> <a class="b" href="/?q=vatan+partisi">vatan partisi</a>'ne dönüştü diye biliyorum. artık başlıkları daha düzgün açmalıyız. evet biraz zor ihtimal ama umarım doğu bey ikinci tura kalabilir.<br/><br/>tanım: gerçekleşmesi zor bir hayal
   entry_channels: siyaset
 - entry_name: |
-    oy kullanmayacağım
-  entry_id:  76135330
-  entry_writer: mridul
-  entry_fav_count: 1
-  entry_content: |
-    dedim ben. <br/><br/>şu ana kadar tüm seçim ve referandumlarda oyumu kullandım. her seferinde oyumu akp/rte karşıtı olarak kullandım. ancak geçtiğimiz referandumda <a class="b" href="/?q=yurt+d%c4%b1%c5%9f%c4%b1+se%c3%a7menleri">yurt dışı seçmenleri</a> ve <a class="b" href="/?q=amerikada+ya%c5%9fay%c4%b1p+hay%c4%b1r+oyu+veren+27.397+ki%c5%9fi">amerikada yaşayıp hayır oyu veren 27.397 kişi</a> başlıklarında yazılanlardan sonra oy kullanmamaya yemin ettim. <br/><br/>(bkz: <a class="b" href="/entry/67536810">#67536810</a>) <br/>(bkz: <a class="b" href="/entry/67523248">#67523248</a>)<br/><br/>yukarıdaki entry'lerde de dediğim gibi kullandığım oyun bana yararı veya zararı zaten yok ama o kadar yol tepip konsolosluklara, elçiliklere gitmeye; belki türkiye'de bir şeyler düzelir diye çabalayıp didinmeye değmezmiş. ne bok yerseniz yiyin.
-  entry_channels: siyaset
-- entry_name: |
-    geceye bir çatı aday bırak
-  entry_id:  76135664
-  entry_writer: geyikterapistisi
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=cem+y%c4%b1lmaz">cem yılmaz</a>)<br/><br/>çok eğleniriz hem.
-  entry_channels: siyaset,anket
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  76123649
-  entry_writer: aynstayninkayinbiraderi
-  entry_fav_count: 0
-  entry_content: |
-    sanalda dertleşmeye yeltenecek kadar ne içiyorsunuz?<br/><br/>torbacınızın numarasını verin acil
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     ağza kürekle vurma hissi uyandıran kelimeler
-  entry_id:  76136214
-  entry_writer: ccigarr
-  entry_fav_count: 0
+  entry_id:  76136202
+  entry_writer: usluyorum
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=hodri+meydan">hodri meydan</a>)
+    (bkz: <a class="b" href="/?q=oy+kullanmayaca%c4%9f%c4%b1m">oy kullanmayacağım</a>)
   entry_channels: anket
 ---

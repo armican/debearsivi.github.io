@@ -168,11 +168,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/CXWzpKYXRXM?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    My stress ball just exploded
-  entry_id: 8cz0qn
-  entry_content: |
-    <img src=https://i.redditmedia.com/C3-_ukmHibR1vvccPGWVay4GWFFzlAT7UUn1oMQeK8U.jpg?s=ad91faf00af63f298c0d8b67b874bc32 frameborder=0>
-- entry_name: |
     Double your investment in 12-36 months!
   entry_id: 8d1ydy
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8d0wkd
   entry_content: |
     <img src=https://i.redditmedia.com/qP3jnNtJpuTuVghn8N56nUyH6hw_jKGfjecq7Q7uXtI.jpg?s=2b811bea664313436e406c2296ccf0ed frameborder=0>
+- entry_name: |
+    Post Malone (circa 2024)
+  entry_id: 8d1gyi
+  entry_content: |
+    <img src=https://i.redditmedia.com/eok6NW-h9ABcVOCzl-XyKWtbORvLqTNpHKSfdmWRX2g.jpg?s=c9c42d296e93e54764a1ce2311823080 frameborder=0>
 ---
