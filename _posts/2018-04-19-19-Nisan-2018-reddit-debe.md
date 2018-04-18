@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/l9BpXnkTiKocimO1Huxy4ov8VW8SCuQmKQouwsj_ddw.jpg?s=188ed1bc9b967f2cb5a7864d4788d4da frameborder=0>
 - entry_name: |
-    Typical cat
-  entry_id: 8cyitf
-  entry_content: |
-    <img src=https://i.redditmedia.com/14ikG82KaEazD1yoGxSfSlXWmOp4cSWfniKhkK4RqUM.jpg?s=f421a165e8b389a1eeec3aede3101956 frameborder=0>
-- entry_name: |
     Wonder what this does..
   entry_id: 8d1fal
   entry_content: |
@@ -42,11 +37,6 @@ data:
   entry_id: 8d29oc
   entry_content: |
     <img src=https://i.redditmedia.com/bdHZWREOVpR68nLamzC-kVCoI5fSvMNGTF9sUkNCLN8.png?s=8803126f24305196bd13b8b0cd9e3851 frameborder=0>
-- entry_name: |
-    Epic Diablo Cosplay.
-  entry_id: 8cylln
-  entry_content: |
-    <img src=https://i.redditmedia.com/P43zuOC1NL95OtMidKQJX11lWjoHH-pg_0F6vU5y0LE.jpg?s=5aecd2b0a1e4ddb2bc25862c0f681900 frameborder=0>
 - entry_name: |
     Important PSA
   entry_id: 8d21mz
@@ -251,4 +241,14 @@ data:
   entry_id: 8d15v1
   entry_content: |
     <iframe src=https://v.redd.it/486usjm42ks01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    The skeleton of a puffer fish is pretty fucking metal.
+  entry_id: 8d4wej
+  entry_content: |
+    <img src=https://i.redditmedia.com/0AOaOoTzATD7t7gzp4ZogoxvbC3bGjp7hgyy1Df0uFU.jpg?s=89007ed0a557c44965c2b99a2078304e frameborder=0>
+- entry_name: |
+    You’d better damn well hope it tastes better than it looks
+  entry_id: 8d0wkd
+  entry_content: |
+    <img src=https://i.redditmedia.com/qP3jnNtJpuTuVghn8N56nUyH6hw_jKGfjecq7Q7uXtI.jpg?s=2b811bea664313436e406c2296ccf0ed frameborder=0>
 ---
