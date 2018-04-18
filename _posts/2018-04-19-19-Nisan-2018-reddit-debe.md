@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yaafTeo0sNwsWm8Oaw73I63Zu1dRUIUZmyJluOdMS7A.jpg?s=5eb113d86ff7b9ba57605ca3b6372400 frameborder=0>
 - entry_name: |
-    If your identical twin got plastic surgery, it would be hard not to feel a little insulted
-  entry_id: 8cztx2
-  entry_content: |
-    null
-- entry_name: |
     How a bank teller was stealing from the money bundles
   entry_id: 8d5im4
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/p9RltBsKKQLFNkguj58GhYTzoTiOB1dKx1ozAdQXHSY.jpg?s=f50c37f303c8d67d36ba1f5153664a53 frameborder=0>
 - entry_name: |
-    Doggo knew how to fetch.
-  entry_id: 8czuo6
-  entry_content: |
-    <img src=https://i.redditmedia.com/4KBrsPojrj29zKdFGAj_E2-HllGpT4zdvBA5S6K_eMc.jpg?s=1ea861f6089281ff48f5c30330956ead frameborder=0>
-- entry_name: |
     The time has come to raise hell again.
   entry_id: 8d36bp
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8d15v1
   entry_content: |
     <iframe src=https://v.redd.it/486usjm42ks01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Don't keep cocaine in your pocket if you'll be dancing on live tv.
+  entry_id: 8d3tlb
+  entry_content: |
+    <iframe src=https://v.redd.it/crv7nhxwcms01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Post Malone (circa 2024)
+  entry_id: 8d1gyi
+  entry_content: |
+    <img src=https://i.redditmedia.com/eok6NW-h9ABcVOCzl-XyKWtbORvLqTNpHKSfdmWRX2g.jpg?s=c9c42d296e93e54764a1ce2311823080 frameborder=0>
 ---
