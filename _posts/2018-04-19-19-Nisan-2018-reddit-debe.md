@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WQhJlEt_WeGhFNcwUQWtqeJg1_eg1sTVevXN3NJ47Ek.jpg?s=db645920486de0892b7bb766a9e08fe3 frameborder=0>
 - entry_name: |
-    The best kind of happy meal toy.
-  entry_id: 8czqn5
-  entry_content: |
-    <iframe src=https://v.redd.it/z8x325423js01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     I found this ceiling light full of rubber ducks in a pub in Edinburgh.
   entry_id: 8d5cp6
   entry_content: |
@@ -132,11 +127,6 @@ data:
   entry_id: 8d034w
   entry_content: |
     <iframe src=https://v.redd.it/bjfroew4bjs01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    'Forgetting Sarah Marshall' remains one of the better modern comedies. It all starts with the script...
-  entry_id: 8czquc
-  entry_content: |
-    <img src=https://i.redditmedia.com/BoWMktnfPQg2BrF17NXErgM8iYkVUkRAkA0UthDDF0Y.jpg?s=e3f098e834472c86507748f8d4bb97cb frameborder=0>
 - entry_name: |
     Chrome 66 arrives with autoplaying content blocked by default.
   entry_id: 8d1x5e
@@ -250,4 +240,14 @@ data:
   entry_id: 8d4zt8
   entry_content: |
     <img src=https://i.redditmedia.com/iEKjsZYv0mnbyIucojZ5osnzaqurDqVTQ7IzyEXLpRc.jpg?s=a4c1091353f1a73889a266f152a425c1 frameborder=0>
+- entry_name: |
+    The first time I realized I was attracted to women
+  entry_id: 8d14s3
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ju4lcGZQkIC-cfY8a35kB-HSLhewK06l-cVpJbOK_F8.jpg?s=e6b3e8724e63e4753fb0caae3bad0af2 frameborder=0>
+- entry_name: |
+    MRW my local supermarket I've been going to for over a decade completely changes it layout
+  entry_id: 8d15v1
+  entry_content: |
+    <iframe src=https://v.redd.it/486usjm42ks01/DASH_1_2_M frameborder=0></iframe>
 ---
