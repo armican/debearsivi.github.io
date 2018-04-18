@@ -53,6 +53,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/z8x325423js01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    I found this ceiling light full of rubber ducks in a pub in Edinburgh.
+  entry_id: 8d5cp6
+  entry_content: |
+    <img src=https://i.redditmedia.com/vzkY7nxTD9YPy7svUQWhUG1Da4cdehbKNiuumwVquAU.jpg?s=f6370f82ac4bbb504358cd92fed07c61 frameborder=0>
+- entry_name: |
     Nice and sharp
   entry_id: 8d11xb
   entry_content: |
@@ -68,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vo4w5vxdjns01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I found this ceiling light full of rubber ducks in a pub in Edinburgh.
-  entry_id: 8d5cp6
-  entry_content: |
-    <img src=https://i.redditmedia.com/vzkY7nxTD9YPy7svUQWhUG1Da4cdehbKNiuumwVquAU.jpg?s=f6370f82ac4bbb504358cd92fed07c61 frameborder=0>
-- entry_name: |
     Family friend went camping over 30 years ago and heard a noise outside the tent. Instead if peaking her head out to see what it could be she reached her hand out with her disposable camera. When the pictures were developed this is what she saw:
   entry_id: 8d0pfs
   entry_content: |
@@ -83,6 +83,16 @@ data:
   entry_content: |
     null
 - entry_name: |
+    How a bank teller was stealing from the money bundles
+  entry_id: 8d5im4
+  entry_content: |
+    <iframe src=https://v.redd.it/zfk0qk353os01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The undercover author who discovered Amazon warehouse workers were peeing in bottles tells us the culture was like a prison
+  entry_id: 8d4di4
+  entry_content: |
+    <img src=https://i.redditmedia.com/sjYQgp0nUZlnyizWKpAOnw3d6VyYtpT55bfxa391Npw.jpg?s=a56c3ab697cc7b57c4e6cd996e93bea2 frameborder=0>
+- entry_name: |
     Interesting...
   entry_id: 8d19c8
   entry_content: |
@@ -92,11 +102,6 @@ data:
   entry_id: 8d01df
   entry_content: |
     <img src=https://i.redditmedia.com/dHZPfo9Cxfj4HZjwZN-TevVkT7et-ui70uWbY1PPsRA.jpg?s=b311896e13709a35042ce71d7bebc138 frameborder=0>
-- entry_name: |
-    The undercover author who discovered Amazon warehouse workers were peeing in bottles tells us the culture was like a prison
-  entry_id: 8d4di4
-  entry_content: |
-    <img src=https://i.redditmedia.com/sjYQgp0nUZlnyizWKpAOnw3d6VyYtpT55bfxa391Npw.jpg?s=a56c3ab697cc7b57c4e6cd996e93bea2 frameborder=0>
 - entry_name: |
     Talk Show Host realizes that its the end of his career live on TV
   entry_id: 8d1oab
@@ -168,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/c7HrOOoC0HVUjds0-AeFXxMswBbAQLqy4cQIoZKF-fg.jpg?s=9607bf495dafbd9b545fa3bf3cd9dd2e frameborder=0>
 - entry_name: |
-    How a bank teller was stealing from the money bundles
-  entry_id: 8d5im4
-  entry_content: |
-    <iframe src=https://v.redd.it/zfk0qk353os01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     meirl
   entry_id: 8d4buw
   entry_content: |
@@ -183,10 +183,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0AOaOoTzATD7t7gzp4ZogoxvbC3bGjp7hgyy1Df0uFU.jpg?s=89007ed0a557c44965c2b99a2078304e frameborder=0>
 - entry_name: |
+    C'mon buddy, we don't have time to stop.
+  entry_id: 8d4waf
+  entry_content: |
+    <iframe src=https://v.redd.it/kjnaordgkns01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Mesmerizing machine I have never seen before
   entry_id: 8d34yb
   entry_content: |
     <iframe src=https://v.redd.it/ngwqhbm7tks01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Where do little jokes come from?
+  entry_id: 8d34jw
+  entry_content: |
+    null
 - entry_name: |
     42% of Americans have less than $10,000 saved and will retire broke.
   entry_id: 8d31mf
@@ -198,25 +208,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4KBrsPojrj29zKdFGAj_E2-HllGpT4zdvBA5S6K_eMc.jpg?s=1ea861f6089281ff48f5c30330956ead frameborder=0>
 - entry_name: |
-    Where do little jokes come from?
-  entry_id: 8d34jw
+    The time has come to raise hell again.
+  entry_id: 8d36bp
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/NvNSYAqrrVoNYQBk7EFtQSNoINVItrBQVnJKlG34z4k.png?s=d50f93581647b56a9bfb5284ecb36bc0 frameborder=0>
+- entry_name: |
+    The fucking audacity of caucasity
+  entry_id: 8d5tzc
+  entry_content: |
+    <iframe src=https://v.redd.it/0ers1bonbos01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I don't have a title.
   entry_id: 8d0do3
   entry_content: |
     <img src=https://i.redditmedia.com/q7j8a_c4OZ7diYR8W3OPSstAuUJCTwNObeitG_JObf8.jpg?s=6579c19be633581bee7996ed8085f608 frameborder=0>
 - entry_name: |
-    C'mon buddy, we don't have time to stop.
-  entry_id: 8d4waf
+    My eyebrows continue the circle from my hat (don’t mind the Snapchat text)
+  entry_id: 8d540k
   entry_content: |
-    <iframe src=https://v.redd.it/kjnaordgkns01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    The time has come to raise hell again.
-  entry_id: 8d36bp
-  entry_content: |
-    <img src=https://i.redditmedia.com/NvNSYAqrrVoNYQBk7EFtQSNoINVItrBQVnJKlG34z4k.png?s=d50f93581647b56a9bfb5284ecb36bc0 frameborder=0>
+    <img src=https://i.redditmedia.com/vbmPmlzi7VTL4X5Hyg_TprX2QfLKmAgv7maQk13bgO8.jpg?s=3039f0e2afb2eefe31115ad278315223 frameborder=0>
 - entry_name: |
     Mattis Wanted Congressional Approval Before Striking Syria. He Was Overruled.
   entry_id: 8d1mqx
@@ -228,27 +238,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vy_FAPOgaREl5zEDUh-pmv21BrtIIAFP8Lr5aPyYsqI.png?s=dda44624f360f71cc5f13e3f0502712b frameborder=0>
 - entry_name: |
+    You don’t realise just how much nonsense the media talk until they report on something you know a lot about/have a career in.
+  entry_id: 8d59t3
+  entry_content: |
+    null
+- entry_name: |
   entry_id: 8d1d0i
   entry_content: |
     <img src=https://i.redditmedia.com/euejkzs9I8dlCTf_tCefnS_3DmUAqhvfqzIK__7L4dA.jpg?s=d4bc4bcc8ec3841eed4d32ffcbfbabea frameborder=0>
 - entry_name: |
-    The first time I realized I was attracted to women
-  entry_id: 8d14s3
+  entry_id: 8d4zt8
   entry_content: |
-    <img src=https://i.redditmedia.com/Ju4lcGZQkIC-cfY8a35kB-HSLhewK06l-cVpJbOK_F8.jpg?s=e6b3e8724e63e4753fb0caae3bad0af2 frameborder=0>
-- entry_name: |
-    MRW my local supermarket I've been going to for over a decade completely changes it layout
-  entry_id: 8d15v1
-  entry_content: |
-    <iframe src=https://v.redd.it/486usjm42ks01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    My eyebrows continue the circle from my hat (don’t mind the Snapchat text)
-  entry_id: 8d540k
-  entry_content: |
-    <img src=https://i.redditmedia.com/vbmPmlzi7VTL4X5Hyg_TprX2QfLKmAgv7maQk13bgO8.jpg?s=3039f0e2afb2eefe31115ad278315223 frameborder=0>
-- entry_name: |
-    Post Malone (circa 2024)
-  entry_id: 8d1gyi
-  entry_content: |
-    <img src=https://i.redditmedia.com/eok6NW-h9ABcVOCzl-XyKWtbORvLqTNpHKSfdmWRX2g.jpg?s=c9c42d296e93e54764a1ce2311823080 frameborder=0>
+    <img src=https://i.redditmedia.com/iEKjsZYv0mnbyIucojZ5osnzaqurDqVTQ7IzyEXLpRc.jpg?s=a4c1091353f1a73889a266f152a425c1 frameborder=0>
 ---
