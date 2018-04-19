@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-jkUz5IurobDpuuzkYgjynpkNEvAcrP5R6BHAFPbA2I.jpg?s=c0a597ef39a5d1e9662c1537481523d7 frameborder=0>
 - entry_name: |
-    A Statue in Berlin of “Politicians Discussing Global Warming”
-  entry_id: 8d7nxc
-  entry_content: |
-    <img src=https://i.redditmedia.com/jEy4OvfEIV3b5ylzd5HuNNCMyZBkhoHG2gxjPVylNtM.jpg?s=9d14ba42c821932ca24c246f903a8d2c frameborder=0>
-- entry_name: |
     TIL that out of the top 30 100m sprint times, only 9 were run by athletes not associated with doping, all 9 are by Usain Bolt.
   entry_id: 8dbvjg
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8da9od
   entry_content: |
     <img src=https://i.redditmedia.com/fv7KfnLCNxs9RmVwp3XtznDXJpddd4RDSo1CT7pp-XI.jpg?s=c850da133b6b4ff0e64f0fd4b01a8842 frameborder=0>
+- entry_name: |
+    Ain't that the truth?
+  entry_id: 8db3r5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Uxon0i6IRoNzVCnqX3JYK5PTr7BxcIGn59zthaktA88.png?s=d187b7c1661baf5bee0d7636f9b58dc2 frameborder=0>
 ---
