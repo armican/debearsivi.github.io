@@ -77,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/AB27YaKzH7SNvBQWw3ti5xKTedvZvq0s_K1YeWs40WU.jpg?s=f4e58bf70d8e275e4b2dd865559f928f frameborder=0>
 - entry_name: |
-    To blackmail Jaromir Jagr
-  entry_id: 8d8v9a
-  entry_content: |
-    <img src=https://i.redditmedia.com/bTxG3gIE0z9RuNuMN6OLN4iGQBpL_bzvkfuA1m95Pko.jpg?s=941420ea44b8e0942eeba4b7738a96a1 frameborder=0>
-- entry_name: |
     what I told you was true, from a certain point of view
   entry_id: 8dbryb
   entry_content: |
@@ -172,11 +167,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/d2s55aciuus01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Having to use two adapters to listen to music and charge my iPhone 7
-  entry_id: 8d8wkj
-  entry_content: |
-    <img src=https://i.redditmedia.com/igfsdp66kMYJW6PDrhnOkstCFFXnytRFYS0GQjaKS9E.jpg?s=02425ce6d2d2b8388325a048137d42d8 frameborder=0>
-- entry_name: |
     If you speak with a lot of slang and profanity in your native language, you don't speak the language very well. If you speak with a lot of slang and profanity in a second language, you speak the language excellently.
   entry_id: 8dc23z
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8dfj1b
   entry_content: |
     <img src=https://i.redditmedia.com/HRS2IzMLre_sNwDqansAIQUXgOPWlC-7ABhqpG7u6wU.jpg?s=102e2c6a2e3e736d6512764384a1793e frameborder=0>
+- entry_name: |
+    Young male timber wolf giving wildlife worker kisses
+  entry_id: 8dazor
+  entry_content: |
+    <iframe src=https://v.redd.it/vqkz2gpdqrs01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Tomorrow bois
+  entry_id: 8d9n6y
+  entry_content: |
+    <img src=https://i.redditmedia.com/1RyamrUZJeW5gdj94JLpkc4nyIzXiMinjFv8y4Barrk.jpg?s=fb98afd7425173efd7635dc501b44747 frameborder=0>
 ---
