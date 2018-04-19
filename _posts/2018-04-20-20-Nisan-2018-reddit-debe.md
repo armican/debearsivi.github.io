@@ -42,11 +42,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/guBxqTFgihsiN6iixve9CPx-s4MTwQTIjIoJOcI6cQY.jpg?s=658b44546fa221d91ecee128536a2f74 frameborder=0>
 - entry_name: |
-    Ambiguous little bastard.
-  entry_id: 8d8tdy
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGracefulWhoppingLeafcutterant&url=https%3A%2F%2Fgfycat.com%2FGracefulWhoppingLeafcutterant&image=https%3A%2F%2Fthumbs.gfycat.com%2FGracefulWhoppingLeafcutterant-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     911 operator who hung up on emergency calls is sentenced to jail
   entry_id: 8daex0
   entry_content: |
@@ -162,11 +157,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMeatyChubbyAmericanshorthair&url=https%3A%2F%2Fgfycat.com%2FMeatyChubbyAmericanshorthair&image=https%3A%2F%2Fthumbs.gfycat.com%2FMeatyChubbyAmericanshorthair-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    When you realize that the Wookies speak a different language which has no subtitles, thus you can slap any quote on them and increase the meme material.
-  entry_id: 8d8rld
-  entry_content: |
-    <img src=https://i.redditmedia.com/XyMvB6tfOpLLka4FbYJCfpmI0h-deq9psZMO_N5BBMI.png?s=1a5ee4014b000b79b9f363ec6aa625d3 frameborder=0>
-- entry_name: |
     Do we have a deal?
   entry_id: 8dds61
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8de7mz
   entry_content: |
     <img src=https://i.redditmedia.com/OcQ69VHj_g3w-QMQP1KitnCOikagdSvEmr2kfPh2Wfk.jpg?s=bdf8c497607f9523a3358b037cad7b37 frameborder=0>
+- entry_name: |
+    Hawaii Seems Poised To Ban Coral-Damaging Sunscreen: It would be the first state to prohibit the use of sunscreen containing ingredients that scientists say harm sea life.
+  entry_id: 8de1cz
+  entry_content: |
+    <img src=https://i.redditmedia.com/tAWYtOafDvKF2JBmlu3chH6x_C-NzOtscizCDPxojgg.jpg?s=d17efccc8b1c8a1be9ecc68f75782f02 frameborder=0>
+- entry_name: |
+    The floormat speaks the truth!
+  entry_id: 8dfj1b
+  entry_content: |
+    <img src=https://i.redditmedia.com/HRS2IzMLre_sNwDqansAIQUXgOPWlC-7ABhqpG7u6wU.jpg?s=102e2c6a2e3e736d6512764384a1793e frameborder=0>
 ---
