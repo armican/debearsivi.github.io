@@ -207,11 +207,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0MdKQJKZM_gtcx4_IohDksvfZEyQSkZkdwrImsYn6QA.jpg?s=0fbe97b03b92b8f746a9c103fa196819 frameborder=0>
 - entry_name: |
-    reddit in a nutshell
-  entry_id: 8d8jat
-  entry_content: |
-    <img src=https://i.redditmedia.com/5vFbIQjt277fL_ky7buJMc6yJyZoYtIoIzSAYaMggTQ.png?s=686a2946e4d752b8c1b68cfc5c9f399f frameborder=0>
-- entry_name: |
     YouTuber faces jail for video forcing homeless man to eat toothpaste-filled Oreos
   entry_id: 8ddeha
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8db3r5
   entry_content: |
     <img src=https://i.redditmedia.com/Uxon0i6IRoNzVCnqX3JYK5PTr7BxcIGn59zthaktA88.png?s=d187b7c1661baf5bee0d7636f9b58dc2 frameborder=0>
+- entry_name: |
+    perfectly timed picture of seafoam
+  entry_id: 8da9od
+  entry_content: |
+    <img src=https://i.redditmedia.com/fv7KfnLCNxs9RmVwp3XtznDXJpddd4RDSo1CT7pp-XI.jpg?s=c850da133b6b4ff0e64f0fd4b01a8842 frameborder=0>
 ---
