@@ -6,7 +6,7 @@ data:
     hem seks sırasında hem cenazede söylenecek cümle
   entry_id:  76145059
   entry_writer: usluyorum
-  entry_fav_count: 1080
+  entry_fav_count: 1082
   entry_content: |
     bu kadar erken olmamalıydı.
   entry_channels: anket,ilişkiler
@@ -14,7 +14,7 @@ data:
     19 nisan 2018 meral akşener açıklaması
   entry_id:  76161387
   entry_writer: chevron
-  entry_fav_count: 859
+  entry_fav_count: 872
   entry_content: |
     türkiye ana meral akşener’in taramalıyı çıkardığını gösteren <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2018/gundem/meral-aksener-muglada-2359982/amp/" title="https://www.sozcu.com.tr/2018/gundem/meral-aksener-muglada-2359982/amp/">konuşma</a><br/><br/>“buradan abidik gubidiklere alışmışlara sesleniyorum ayağınızı denk alın. iyi parti'nin seçimlere girmek için hiçbir şartı eksik değildi. eğer engel olmaya kalkarsanız bende meral akşener'sem o gök kubbeyi başınıza yıkarım. buradan size bir çağrım var iyi parti sandıklara sahip çıkacak ama sizler de sandıklarınıza sahip çıkacaksınız. kendini erdoğan'a sevdirmek için uğraşan bir zatın bir sözü var “harp halidir her şey mubahtır” geçen referandumdaki gibi ysk üzerinden bir hileye başvurursanız bütün fetvalarınızı size yediririm.”<br/><br/>hayırlı seçimler babayiğit.
   entry_channels: siyaset,haber
@@ -27,10 +27,18 @@ data:
     dolar 2 ay icinde 3.7 den bugun itibariyle 4.01 e dustu.
   entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
+    19 nisan 2018 melih gökçek tweet'i
+  entry_id:  76147386
+  entry_writer: mikail bey olmez
+  entry_fav_count: 521
+  entry_content: |
+    takvimi allah'ın hazırladığını düşünen eski başkanın twiti.
+  entry_channels: siyaset,haber
+- entry_name: |
     esra ersoy'dan hacı sabancı'ya çıplak video
   entry_id:  76152055
   entry_writer: bridge of khazad dum
-  entry_fav_count: 489
+  entry_fav_count: 490
   entry_content: |
     yuh dedirtir. ulan koca sabancısın bu kadar midesiz olunur mu arkadaş. bu kadar mı abazasın? ya insanda birazcık zevk olur. allahın kişisel gelişimci tıfılı bile adriana lima’ya “send nude” derken senin dengin bu mu hacı?
   entry_channels: ilişkiler,haber,magazin
@@ -54,7 +62,7 @@ data:
     pelsan aydınlatma'nın mühendis ilanı
   entry_id:  76152198
   entry_writer: munzevicakal
-  entry_fav_count: 261
+  entry_fav_count: 262
   entry_content: |
     "yoneticiye tuvalet kagidi tutacak" kisminin atlandigi ilandir. koskoca yonetici kendisi yapacak degil ya.<br/><br/>edit: muhendisin yapacagi islere elestirim yok. benim merak ettigim, butun isleri muhendis yaparken yoneticinin ne is yaptigi.
   entry_channels: anket
@@ -62,10 +70,18 @@ data:
     hala ak partiye oy vermeyi düşünenlerin nedenleri
   entry_id:  76150344
   entry_writer: gehen gehen
-  entry_fav_count: 221
+  entry_fav_count: 222
   entry_content: |
     daha dün işyerinde tartışılan konu.<br/><br/>adamlar 15 temmuz'da ciddi anlamda ülkeyi kurtardıklarını düşünüyorlar.<br/>türk ordusunun askeri , idari ve mali gücü, darbeler tarihi ve darbe nedir kim yapar nasıl yapılır sorularına dahi cevap veremeyecek cehaletteki bu insanların cep telefonları erdoğan wallpaperları ile donanmış.<br/><br/>öl de ölelim kafasını yaşıyorlar. vergileri, haksız rantı, hırsızlıkları, hiç kullanmadıkları köprüleri... anlatmaya çalıştım ama söyledikleri tek birşey vardı: "vergileri seve seve veririz"<br/><br/>bir başkası tüm olumsuzlukları kabul etmesine rağmen tek bir sebep için erdoğan'a oy verecek, tek bir sebep için erdoğan'ı ailesinden mühim tutuyor: kamuda türban serbestisi. türban yasaklarının, her caddeye kustururcasına atatürk isminin verilip insanların düşman edilmesinin abd eliyle yapılmış 80 darbesi ürünü olduğunu anlatmaya çalıştım ama, "allah reisimize zeval vermesin" dedi. meğer; "hasret bitsin kavuşalım" dediğinde asıl amacı hain fetoyu türkiye'ye getirip tutuklamakmış. <br/><br/>şu an ise; "doları bilerek yükseltiyorlar, bizi yıldırmak için" kafasındalar ve birlik olmuş durumdalar. hepsi büyük oyunu görmüş, hepsi reisini kollama derdinde. ne tarih bilgisi mühim, ne geçmiş, ne siyaset bilimi. <br/><br/>yani ne deseniz boş, ne anlatsanız.
   entry_channels: siyaset,anket
+- entry_name: |
+    24 haziran 2018 cumhurbaşkanlığı seçimi
+  entry_id:  76139877
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 202
+  entry_content: |
+    sürekli seks, futbol ve siyaset konuşup; üçünde de başarısız olan başka millet yoktur sanırım.
+  entry_channels: siyaset,haber
 - entry_name: |
     çaylak onay listesi
   entry_id:  76141212
@@ -123,14 +139,6 @@ data:
     33 yaşındayım... oy kullanma yaşımdan beri her seçimde chp nin kemik seçmeni oldum. oy kullanmayanlara da "<a class="b" href="/?q=atmad%c4%b1%c4%9f%c4%b1n%c4%b1z+oy+iktidara+yar%c4%b1yor">atmadığınız oy iktidara yarıyor</a>" bıdı bıdısı da yaptım... sonra ilizyonu gördüm. rantı gördüm. kemal kılıçtaroğlu'nın kurultayda muharrem ince'nin seçilmemesi için yaptıklarını gördüm. <br/><br/>sonra burada kyk borcu ve bedelli askerlik için iktidara domalan adamlar gördüm... torpille iş bulup reis sevdalısı olan arkadaşlarımın değişimine şahit oldum. zaman içinde milliyetçilik duygularımın öldüğünü hissettim. <br/><br/>3. üniversitemi okuyorum. hayatımı belgesel ve kitaplara verdim. spor yaptım. düzgün beslendim. etrafıma erdemli insan olmaktan ve oldurmaktan söz ettim... <br/><br/>devleti ele geçirmiş bir mafyanın demokratik(miş) gibi görünen yolla alaşağı edilemeyeceğine kanaat getirdim. bırakın onların oylarıyla benim oylarımın eşit sayılmasını; gerekli görüldüğü bir durumda benim oy pusulamın siktiredilip mühürsüz bir oyun benim oyumun yerini alacağını anladım...<br/><br/>gezi olaylarında tomanın üzerine çıkma cesaretini göstermiş ben (bizler)in artık o taşşağa sahip olamadığımızı anladım...<br/><br/>ister seçim kazanılsın-kaybedilsin... hatta ülke ortasından çatırt diye bölünebilir umrumda bile değil. <br/><br/>ben bu tiyatro da yokum. yokum ki eşit bile sayılmasın oyum...<br/><br/>size hayırlı vatan kurtarmacalar.<br/><br/>not: özel mesajlar ve buradaki entryler yoluyla "mal, gerizekalı, troll" diyen arkadaşlar var. ama onlara kızmıyorum. bende onlar gibiydim. 1-2 oylama sonrasında zaten kendileri de aynı fikirde olacaklar. savaşarak kaybetmekten söz eden arkadaşlar var. ufkunuzu genişletin. dünyayı daha güzel hale getirmenin yolu pazarlıkları önceden yapılıp sonucu belli bir oylama değildir. savaşmak dediğiniz şey sizi inandırdıkları bir ilizyondur. muhalefet anlayışı bile bir ilizyondur. zaten ülke iyice boka battığı zaman sorumluları kaçacaklar. tekrardan kurmak bize düşecek. o yüzden rahatım.
   entry_channels: siyaset,anket
 - entry_name: |
-    3 kere nişan atmış konfeksiyon işçisi bodur kız
-  entry_id:  76160654
-  entry_writer: daldakielmakurdu
-  entry_fav_count: 131
-  entry_content: |
-    samsung marka büyük ekranlı göt cebine sığmayan telefon kullanırlar.
-  entry_channels: ilişkiler
-- entry_name: |
     scarlet johansson mı ben mi diye soran sevgili
   entry_id:  76148653
   entry_writer: zorla yazar yaptiniz beni
@@ -155,14 +163,6 @@ data:
     tam olarak bu;<br/><br/>0/<br/>/|<br/>/\
   entry_channels: spor,anket
 - entry_name: |
-    dondurma yemek için tokat sırasına geçen çocuklar
-  entry_id:  76154799
-  entry_writer: gayim ama para bende
-  entry_fav_count: 54
-  entry_content: |
-    yazık... <br/>çocuklar ucunda dondurma yemek pahasına, gülerek tokat sırasına giriyor.<br/><br/>market sahibinin de, videoyu çekenin de, oradan bakan orospu karının da, bunu yayınlayan or.ço.larında, ülkenin kokuşmuş yargısının da, bu duruma izin veren insanlığımızın da allah belasını versin.
-  entry_channels: haber,yeme-içme
-- entry_name: |
     ekşi itiraf
   entry_id:  76140916
   entry_writer: seftalilimakarna
@@ -179,13 +179,13 @@ data:
     semt ve ilçe ayrımını bilmeyenler sayesinde alsancak ın ilçe olduğunu öğrendiğimiz uber alles anket. izmir ülke olsa başkenti bornova olur.
   entry_channels: anket
 - entry_name: |
-    buzdolabından çıkmış kanı vücuda pompalamak
-  entry_id:  76161913
-  entry_writer: pilavmaker
-  entry_fav_count: 44
+    son öpüşmenin üzerinden geçen zaman
+  entry_id:  76147324
+  entry_writer: yazdiklarimin hepsi hayal urunudur
+  entry_fav_count: 33
   entry_content: |
-    kan donduran bir davranış olur.
-  entry_channels: anket,sağlık
+    23 sene... ilk asama elele tutusmak onu basarirsam sonrasi da gelir diye dusunuyorum..
+  entry_channels: anket,ilişkiler
 - entry_name: |
     bilge duman'ın youtube kanalına abone oluyoruz
   entry_id:  76147442
@@ -203,14 +203,6 @@ data:
     (bkz: <a class="b" href="/?q=cem+uzan">cem uzan</a>)<br/>vizyonu olan insanları severim. ekonomiyi şahlandıracak. siyasal kutuplaşmaları bitirecek yegane adaydır. gel reis aday ol.
   entry_channels: siyaset,anket
 - entry_name: |
-    son öpüşmenin üzerinden geçen zaman
-  entry_id:  76147324
-  entry_writer: yazdiklarimin hepsi hayal urunudur
-  entry_fav_count: 31
-  entry_content: |
-    23 sene... ilk asama elele tutusmak onu basarirsam sonrasi da gelir diye dusunuyorum..
-  entry_channels: anket,ilişkiler
-- entry_name: |
     bir kadının hem seksi hem de erkeksi görünmesi
   entry_id:  76157689
   entry_writer: career a
@@ -227,13 +219,13 @@ data:
     başkanlık seçimi için oy bölmesi gibi bir durum yoktur. <br/><br/>hala eski yönetim sistemi ve eski seçim sistemi var gibi düşünüyorsunuz.<br/><br/>artık iki seçim olacak. başkan seçimi ve meclis seçimi. kendisi başkanlığa aday.<br/><br/>ilk turda ne kadar çok aday olursa seçime katılım o kadar fazla oluyor ve bu rte'nin istemediği bir durum. rte tıpkı 2014teki gibi 2 rakiple girmeyi çok ister. ilk turda işi bitirir.<br/><br/>oysa çok rakiple uğraşmak hem daha zordur hem de katılım artacağından başkan seçiminin ikinci tura kalması açısından olumludur.<br/><br/>ikinci turda zaten bir aday kalacak rte karşısında ve rte'den memnun olmayan herkes çok ekstrem bir aday değilse ona basacak.<br/><br/>dolayısıyla güntekin'in adaylığı olumludur. kazanamayacaktır elbette ama seçimin ikinci tura kalması için küçük de olsa mücadele alanı açmaktadır. bu da olumludur.<br/><br/>ilk turda herhangi bir muhalif adaya oyunuzu verebilirsiniz ama 2. turda bazı prensiplerinizden fedakarlıkta bulunmaya hazır olun.<br/><br/>ekleme: bir suserın mesajı üzerine, yüzde 10 barajı başkanlık seçiminde geçerli değil. o baraj meclis seçimi için geçerli. buna göre milletvekili sayıları belli oluyor. meclis seçimi ve başkanlık seçimi tamamen farklı.<br/><br/>başkanlık seçimi tıpkı 2014'teki cb seçimi ve fransa'daki başkan seçimi gibi. ilk turda kullanılan oyların geçerli yüzde 50sini bir aday alırsa seçim bitiyor. alamazsa, en yüksek alan 2 aday ikinci turda tekrar yarışıyor. fazla oy alan başkan oluyor.<br/><br/>eğer seçim 2. tura kalırsa, 8 temmuzda bu 2. tur için tekrar sandığa gideceğiz. meclis seçimi ise 24 haziranda bitmiş olacak.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    pepe
-  entry_id:  76163724
-  entry_writer: itch where you cant reach
-  entry_fav_count: 14
+    şenol güneş
+  entry_id:  76165806
+  entry_writer: launchpad
+  entry_fav_count: 15
   entry_content: |
-    hareket kırmızı kart ama suç daha çok şenol güneş’in. <br/><br/>aferin sana şu dandik maç yüzünden gs maçında pepe yok. <br/><br/>bu bildiğin gerizekalılık.
-  entry_channels: spor
+    kafasına 5 dikiş atılıp hastaneye kaldırılan 70 yaşını aşmış bir teknik direktöre kendini yere attı diyen tüm embesillerden daha iyi birisidir. fener taraftarı bu yapılanın hesabını kendi içinde vermeli, bu fanatikliğin geçerli bir açıklaması ya da savunulması olamaz. beşiktaş senin rakibin olabilir ama o sahada senin misafirin, adamın kafasını yarıyosunuz, buradaki aptallar kendini attı ya diye saçmalıyor, oradaki embesiller ise pis pis sırıtmaya devam ediyor.
+  entry_channels: spor,haber
 - entry_name: |
     levent gültekin'in başkanlığa aday olması
   entry_id:  76139717
@@ -250,92 +242,4 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=kuru+fasulye">kuru fasulye</a>)<br/><br/>bana bir şey demeyin, ingilizlere deyin.
   entry_channels: anket,yeme-içme
-- entry_name: |
-    ekmeleddin'e oy veren chp'liler şimdi ne düşünüyor
-  entry_id:  76160307
-  entry_writer: corumlu gobel
-  entry_fav_count: 12
-  entry_content: |
-    tayyip'e oy verenlerin ne düşündüğünü daha önemli değil mi ? biz verdik seçilmedi geçti gitti.sizin oy verdiğiniz cumhurbaşkanı neler yaptı acaba? ben neler yaptığını kısaca özetleyim...<br/><br/>-ülkede satılmadık kit bırakmadı her yeri özelleştirdi.<br/>-inşaatla büyüyoruz ayağına faizleri indirtti(sanki ihracaatın ithalatı karşılama oranımız çok yüksemiş gibi) dolar 4 euro 5 oldu ki daha da artacağa benziyor.<br/>-çiftçilere destek olmadı en dandik ürünü bile ithal eder hale geldik.<br/>-işsizlik desen aldı başını gidiyor daha geçen öğretmenin teki intihar etti.<br/>-eğitimden hiç bahsetmiyorum bile (görüyorsunuz anlatmaya gerek yok).<br/>-köprülerle,duble yollarla övünüyor ama kredisini devletin karşıladığı ve firmalara araç geçiş garantisi verdiği yeterli araç geçişi sağlanmadığı için eksik paranın milletin sırtına yükledi.yani zararı senin benim vergimle karşıladı.<br/>-daha geçen erken seçim vatana ihanettir deyip bugün yine 180 derece döndü yani sizin seçtiğiniz kişi ( combo isteyenler için <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cVXsjLEa9g0" title="https://www.youtube.com/watch?v=cVXsjLEa9g0">sabah başka akşam başka rte</a>)<br/><br/>not: rte yazdıklarının hepsine nasıl sebebiyet versin adam cumhurbaşkanı ekonomi bakanı mı ? diyen aktroller olacaktır onlarla bu konuyu tartışma tenezzülünü bile göstermeyeceğim.
-  entry_channels: siyaset,anket
-- entry_name: |
-    sandık gücü
-  entry_id:  76159980
-  entry_writer: tabudeviren
-  entry_fav_count: 9
-  entry_content: |
-    kendilerine "müslüman" diyen kişilerin oy çalmaması, hile yapmaması için önümüzdeki seçimde sahaya inecek topluluk.
-  entry_channels: siyaset
-- entry_name: |
-    19 nisan 2018 kızılay'da duyulan ses
-  entry_id:  76165291
-  entry_writer: hepiniziyerimben
-  entry_fav_count: 9
-  entry_content: |
-    fotoğraf yok, belge yok, haber metni/linki yok sadece duyduğu sesten yola çıkarak lokasyon vererek "patlama" diyebilen bir adet sorumsuz yazar başlığı. maksat sözlükte başlık kapmak! varsa öyle bir şey büyük olay çünkü dimi?<br/>hiç mi sizden uzakta sevdikleriniz merak ettikleriniz yok? biraz sorumluluk.
-  entry_channels: 
-- entry_name: |
-    ne istiyorsunuz lan bu kadınlardan
-  entry_id:  76162820
-  entry_writer: kahve muptelasi
-  entry_fav_count: 8
-  entry_content: |
-    - gittiğimiz mekanlarda bir kez olsun ellerini ceplerine atıp hesap ödeyen kadınlar istiyoruz.<br/><br/>- kına yaparken 2-3 bindallı giyip artistlik peşinde koşmayan kadınlar istiyoruz.<br/><br/>- gelinlik seçiminde ünlü modacılardan binlerce liraya gelinlik almak isteyen kadınlar istemiyoruz. <br/><br/>- balayına pahalı otellere gitmek isteyip, oradan sosyal medyaya çok mutluyuz fotoğrafları paylaşan kadınlar istemiyoruz. <br/><br/>- her tartışmamızın sonunda barışmak için bizi hediye almaya zorlayan kadınlar istemiyoruz.<br/><br/>- ailemizi bize sürekli çekiştiren, çenesiyle bizi öldürebilecek kadınlar istemiyoruz. <br/><br/>- biz işe giderken yatakta malak gibi uyuyan, akşam eve gelince de hayatım bugün çok yoruldum diye dert yanan kadınlar istemiyoruz. <br/><br/>- sürekli avm’ye gitmek isteyip bizi de peşlerinde köpek gibi gezdirmek isteyen kadınlar istemiyoruz. <br/><br/>-evlenirken nafaka ve tazminat peşinde koşan hemcinslerini anlamadıklarını söyleyip, bizimle evlenip boşandıktan sonra donumuza kadar almak isteyen karaktersiz kadınlar istemiyoruz. <br/><br/>-hayatı sadece evlenmek ve gelinlik giymekten ibaret gören dar düşünceli kadınlar istemiyoruz. <br/><br/>- bize 250 gram vajinasıyla her istediğini yaptıracağını düşünen beyinsiz kadınlar istemiyoruz. <br/><br/>kısacası sizleri istemiyoruz kızlar. kafa yapılarımız hiç uymuyor. o yüzden ben ve benim gibi <a class="b" href="/?q=the+red+pill">the red pill</a> ve <a class="b" href="/?q=mgtow">mgtow</a> savunucuları zat-ı alilerinizden tiksiniyor, size prim vermiyor, her fırsatta da bu çirkinliklerinizi yüzünüze vuruyor ve vurmaya davam edecektir bilesiniz.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    19 nisan 2018 selahat'in demirtaş twetleri
-  entry_id:  76162093
-  entry_writer: bana lukslerimi verin
-  entry_fav_count: 8
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kemal%27in+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu+twetleri">kemal'in kılıçdaroğlu twetleri</a>) <br/>bu nasi baslik la
-  entry_channels: siyaset
-- entry_name: |
-    kokusu yaşam sevincini arttıran şeyler
-  entry_id:  76156595
-  entry_writer: kirlicamasir
-  entry_fav_count: 6
-  entry_content: |
-    sahile doğru inerken ki deniz kokusu ve yağmur sonrası koku
-  entry_channels: anket,sanat,sağlık,yeme-içme,seyahat
-- entry_name: |
-    26 nisan 2018 pepe'ye verilen ceza
-  entry_id:  76164413
-  entry_writer: humanfly
-  entry_fav_count: 6
-  entry_content: |
-    net kırmızıdır. beşiktaşlıyım ama bu kadar kör olmayın. pepe'nin hırsına yenik düşmesi işte. taç çizgisine yakın bi' josef'e böyle girmek, gs maçını da düşünürsek, basbaya sorumsuzluk.
-  entry_channels: spor
-- entry_name: |
-    şenol güneş
-  entry_id:  76165786
-  entry_writer: eksikhaykiris
-  entry_fav_count: 2
-  entry_content: |
-    kafasına 5 dikiş atılmış an itibari ile.
-  entry_channels: spor,haber
-- entry_name: |
-    mete kalkavan
-  entry_id:  76163861
-  entry_writer: bellator
-  entry_fav_count: 2
-  entry_content: |
-    beşiktaşlıyım ama pepe yi atması çok doğru bir karar oldu net kırmızı.
-  entry_channels: spor
-- entry_name: |
-    19 nisan 2018 fenerbahçe'nin alacağı ceza
-  entry_id:  76166053
-  entry_writer: aler
-  entry_fav_count: 1
-  entry_content: |
-    abi gözünüzü seveyim, "spor müsabakalarından sonsuza kadar men cezası" gibi bir şey verin. spor kulübü değil bunlar, suç örgütü. yetti lan artık!
-  entry_channels: spor
-- entry_name: |
-    19 nisan 2018 pepe'nin aldığı kırmızı kart
-  entry_id:  76164519
-  entry_writer: burty
-  entry_fav_count: 0
-  entry_content: |
-    ilk başta ağır karar olduğunu düşünsem de tekrarını izleyince cok doğru karar olduğu anlaşılıyor. kayarak gelse bir nebze hafiflerdi karar sarı verilirdi ama allah ne verdiyse uçmuş gelmiş. yerle ilk teması bileğe olmuş. ciddi bir sakatlık olmaması da şans olmuş.
-  entry_channels: 
 ---

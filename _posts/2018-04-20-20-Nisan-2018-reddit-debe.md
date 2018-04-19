@@ -8,10 +8,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PI8ubuYDZEP1RDELsK-IATetjXI7ZVzg1is-Siq1lPU.jpg?s=2f8029650d1edae83e12bd8a08160829 frameborder=0>
 - entry_name: |
-    VR Ice Cream Truck
-  entry_id: 8d8pru
+    Rottweiler is not a fan of vegetables.
+  entry_id: 8dfevo
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhisperedBonyBuffalo&url=https%3A%2F%2Fgfycat.com%2FWhisperedBonyBuffalo&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhisperedBonyBuffalo-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=450 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMemorableMenacingArthropods&url=https%3A%2F%2Fgfycat.com%2FMemorableMenacingArthropods&image=https%3A%2F%2Fthumbs.gfycat.com%2FMemorableMenacingArthropods-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Some dogs are more disciplined than others
   entry_id: 8dalmv
@@ -22,11 +22,6 @@ data:
   entry_id: 8dc649
   entry_content: |
     <iframe src=https://v.redd.it/gclg58xgjss01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Rottweiler is not a fan of vegetables.
-  entry_id: 8dfevo
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMemorableMenacingArthropods&url=https%3A%2F%2Fgfycat.com%2FMemorableMenacingArthropods&image=https%3A%2F%2Fthumbs.gfycat.com%2FMemorableMenacingArthropods-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Ruptured gas line causes home to explode
   entry_id: 8d9606
@@ -43,6 +38,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OSfEGVOGyO7ccHcvXIJXAexGsss6WWCqmAYs9p2iWQE.jpg?s=de408f3d092de9e2fd271a73b6549e48 frameborder=0>
 - entry_name: |
+  entry_id: 8ddefa
+  entry_content: |
+    <img src=https://i.redditmedia.com/guBxqTFgihsiN6iixve9CPx-s4MTwQTIjIoJOcI6cQY.jpg?s=658b44546fa221d91ecee128536a2f74 frameborder=0>
+- entry_name: |
     Ambiguous little bastard.
   entry_id: 8d8tdy
   entry_content: |
@@ -58,64 +57,60 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ph1UIn0J034RSrl4W7ZIKr566xGQyZUX0dPqddZcS7g.jpg?s=efb1aefc83fe7a1cf86e22fa1dbd6117 frameborder=0>
 - entry_name: |
-  entry_id: 8ddefa
-  entry_content: |
-    <img src=https://i.redditmedia.com/guBxqTFgihsiN6iixve9CPx-s4MTwQTIjIoJOcI6cQY.jpg?s=658b44546fa221d91ecee128536a2f74 frameborder=0>
-- entry_name: |
-    The way these clouds drastically plateau.
-  entry_id: 8d9pps
-  entry_content: |
-    <img src=https://i.redditmedia.com/kweo_UXVZInd8jCzD-JN3WxsvcJ2DsBXbL6DBTYXTww.jpg?s=f16fae4e60dd79be58ee8df074a29fa4 frameborder=0>
-- entry_name: |
     This a new take on my childhood
   entry_id: 8decjw
   entry_content: |
     <img src=https://i.redditmedia.com/8G3VWfAybL7mSUQYWi4Pj65EMhasc2j3PxyxK56GLYA.jpg?s=e620528f8891f1a74158434208a7d46c frameborder=0>
-- entry_name: |
-    To blackmail Jaromir Jagr
-  entry_id: 8d8v9a
-  entry_content: |
-    <img src=https://i.redditmedia.com/bTxG3gIE0z9RuNuMN6OLN4iGQBpL_bzvkfuA1m95Pko.jpg?s=941420ea44b8e0942eeba4b7738a96a1 frameborder=0>
-- entry_name: |
-    The Ritual is now complete.
-  entry_id: 8ddpj2
-  entry_content: |
-    <img src=https://i.redditmedia.com/AB27YaKzH7SNvBQWw3ti5xKTedvZvq0s_K1YeWs40WU.jpg?s=f4e58bf70d8e275e4b2dd865559f928f frameborder=0>
-- entry_name: |
-    what I told you was true, from a certain point of view
-  entry_id: 8dbryb
-  entry_content: |
-    <img src=https://i.redditmedia.com/6COUgPszhS_FFl0MoCbpEtnD0XTnplgKOGBbS48udhU.png?s=9e1925390c724d6cff0745868922374d frameborder=0>
 - entry_name: |
     Japan’s highest bridge’s height is compared to Godzilla
   entry_id: 8de2vz
   entry_content: |
     <img src=https://i.redditmedia.com/IWiMOwgBlIgm83f5oh0wuGdCQAGS64mdTNaYYEdwPcI.jpg?s=e4fb7b9e5775cfcfac191a26d2d51c33 frameborder=0>
 - entry_name: |
+    The way these clouds drastically plateau.
+  entry_id: 8d9pps
+  entry_content: |
+    <img src=https://i.redditmedia.com/kweo_UXVZInd8jCzD-JN3WxsvcJ2DsBXbL6DBTYXTww.jpg?s=f16fae4e60dd79be58ee8df074a29fa4 frameborder=0>
+- entry_name: |
     'Too expensive' to delete millions of police mugshots of innocent people, minister claims. Up to 20m facial images are retained - six years after High Court ruling that the practice is unlawful because of the 'risk of stigmatisation'.
   entry_id: 8ddjzm
   entry_content: |
     <img src=https://i.redditmedia.com/KzeLrfyhpo8EZrWGso499qIvB4kjB1-8RUqwLB_DvC8.jpg?s=038160731c9a3796c0d47542cf62864d frameborder=0>
 - entry_name: |
-    Guy with this sign.
-  entry_id: 8d9kxo
+    The Ritual is now complete.
+  entry_id: 8ddpj2
   entry_content: |
-    <img src=https://i.redditmedia.com/oohNj91rVA310GaJoYw3-cbQkbHXjXb485i7Ka_upcI.jpg?s=6a2697cdacadd3841b49e56513797642 frameborder=0>
+    <img src=https://i.redditmedia.com/AB27YaKzH7SNvBQWw3ti5xKTedvZvq0s_K1YeWs40WU.jpg?s=f4e58bf70d8e275e4b2dd865559f928f frameborder=0>
+- entry_name: |
+    To blackmail Jaromir Jagr
+  entry_id: 8d8v9a
+  entry_content: |
+    <img src=https://i.redditmedia.com/bTxG3gIE0z9RuNuMN6OLN4iGQBpL_bzvkfuA1m95Pko.jpg?s=941420ea44b8e0942eeba4b7738a96a1 frameborder=0>
+- entry_name: |
+    what I told you was true, from a certain point of view
+  entry_id: 8dbryb
+  entry_content: |
+    <img src=https://i.redditmedia.com/6COUgPszhS_FFl0MoCbpEtnD0XTnplgKOGBbS48udhU.png?s=9e1925390c724d6cff0745868922374d frameborder=0>
 - entry_name: |
     Friends teenage son makes Post-it Note art
   entry_id: 8ddrsm
   entry_content: |
     <img src=https://i.redditmedia.com/4EyKX_Md7RrsLZ06Y7rKpUr8ODV8x8gPSK0qfKH86f4.jpg?s=4008b51f3f45c9906da7cc670e6400df frameborder=0>
 - entry_name: |
-    Am I Going Home? Yes! First time pet owners!
-  entry_id: 8da7ro
+    Guy with this sign.
+  entry_id: 8d9kxo
   entry_content: |
-    <img src=https://i.redditmedia.com/wGOKdKkUjjpWM7NOFCJpBBKjwR49OZhnnACq-hTm2QQ.jpg?s=ca4e839f2e8d08fc094e79628410825c frameborder=0>
+    <img src=https://i.redditmedia.com/oohNj91rVA310GaJoYw3-cbQkbHXjXb485i7Ka_upcI.jpg?s=6a2697cdacadd3841b49e56513797642 frameborder=0>
 - entry_name: |
     VR Ice Cream Truck
   entry_id: 8da2pe
   entry_content: |
     <iframe src=https://v.redd.it/zy9q6vahyps01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Am I Going Home? Yes! First time pet owners!
+  entry_id: 8da7ro
+  entry_content: |
+    <img src=https://i.redditmedia.com/wGOKdKkUjjpWM7NOFCJpBBKjwR49OZhnnACq-hTm2QQ.jpg?s=ca4e839f2e8d08fc094e79628410825c frameborder=0>
 - entry_name: |
     Little pupper on a soft and warm spot to nap
   entry_id: 8dbory
@@ -127,15 +122,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6067kKJiFMAPDhqLWOo0aXylhLkzMD6fzqdRaKttCoY.jpg?s=cf37bb5e0f761b21c242b9193870c830 frameborder=0>
 - entry_name: |
-    TIL that the exclusive rights to use the color vantablack are owned by artist Anish Kapoor and nobody else is allowed to use it. As a revenge, another artist created the pinkest pink which everyone is allowed to use, except Anish
-  entry_id: 8d9xtt
-  entry_content: |
-    <img src=https://i.redditmedia.com/RgEM-ETRcOBbhS2-Dlx-Mjr5xYlowkDt8Wp3Imde6Oc.jpg?s=9cdbc650d3a088481f5743cd4d2f03bb frameborder=0>
-- entry_name: |
     Cat shows you the right way to use chair holes
   entry_id: 8ddjfb
   entry_content: |
     <img src=https://i.redditmedia.com/SdrrcoXvutnv-C3I7meVLaJw1Xz_Tpz7-4IyJv227C8.jpg?s=e40f89370cda27bf9cb49a8fb8c97907 frameborder=0>
+- entry_name: |
+    TIL that the exclusive rights to use the color vantablack are owned by artist Anish Kapoor and nobody else is allowed to use it. As a revenge, another artist created the pinkest pink which everyone is allowed to use, except Anish
+  entry_id: 8d9xtt
+  entry_content: |
+    <img src=https://i.redditmedia.com/RgEM-ETRcOBbhS2-Dlx-Mjr5xYlowkDt8Wp3Imde6Oc.jpg?s=9cdbc650d3a088481f5743cd4d2f03bb frameborder=0>
 - entry_name: |
     My wife said if this post gets 1000 upvotes she'll give up her anal virginity tonight!
   entry_id: 8d9yb5
@@ -152,6 +147,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jo_0I8Cg4X64pcYHfc0odZbBt7mf0cAfvt7TNcV7Pnk.jpg?s=0ffb1eb2adf434f474fd9f8d95ea27da frameborder=0>
 - entry_name: |
+    Shampoolympics
+  entry_id: 8dd3eb
+  entry_content: |
+    <img src=https://i.redditmedia.com/5wUUrkPo5_8iymhktpUYcxeqmdtmLfMG2R7EzVBJQ0I.png?s=5271aef9758f71ce36fc14cc8e0b875b frameborder=0>
+- entry_name: |
     LPT: When it is unclear whether you should usewho or whom in a question, pay attention to the potential answer. If he sounds right in the answer then who is usually correct. If him sounds right in the answer then whom is usually correct.
   entry_id: 8db973
   entry_content: |
@@ -167,30 +167,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XyMvB6tfOpLLka4FbYJCfpmI0h-deq9psZMO_N5BBMI.png?s=1a5ee4014b000b79b9f363ec6aa625d3 frameborder=0>
 - entry_name: |
-    Shampoolympics
-  entry_id: 8dd3eb
+    Do we have a deal?
+  entry_id: 8dds61
   entry_content: |
-    <img src=https://i.redditmedia.com/5wUUrkPo5_8iymhktpUYcxeqmdtmLfMG2R7EzVBJQ0I.png?s=5271aef9758f71ce36fc14cc8e0b875b frameborder=0>
+    <iframe src=https://v.redd.it/8b4wqb12kts01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    YouTuber faces jail for video forcing homeless man to eat toothpaste-filled Oreos
+  entry_id: 8ddeha
+  entry_content: |
+    <img src=https://i.redditmedia.com/ypJ2ZKp7yd4TF6B3gf7wUCBu6NCF6kzdFbN6NNmaCLI.jpg?s=75a4f5fcb17b51663cd027c806d78ad1 frameborder=0>
+- entry_name: |
+    Go Team!
+  entry_id: 8de39b
+  entry_content: |
+    <iframe src=https://v.redd.it/d2s55aciuus01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Having to use two adapters to listen to music and charge my iPhone 7
   entry_id: 8d8wkj
   entry_content: |
     <img src=https://i.redditmedia.com/igfsdp66kMYJW6PDrhnOkstCFFXnytRFYS0GQjaKS9E.jpg?s=02425ce6d2d2b8388325a048137d42d8 frameborder=0>
 - entry_name: |
-    Do we have a deal?
-  entry_id: 8dds61
-  entry_content: |
-    <iframe src=https://v.redd.it/8b4wqb12kts01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     If you speak with a lot of slang and profanity in your native language, you don't speak the language very well. If you speak with a lot of slang and profanity in a second language, you speak the language excellently.
   entry_id: 8dc23z
   entry_content: |
     null
 - entry_name: |
-    Go Team!
-  entry_id: 8de39b
+    InfoWars' Alex Jones Says He's Been Defamed by Defamation Suits
+  entry_id: 8dba2x
   entry_content: |
-    <iframe src=https://v.redd.it/d2s55aciuus01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/0MdKQJKZM_gtcx4_IohDksvfZEyQSkZkdwrImsYn6QA.jpg?s=0fbe97b03b92b8f746a9c103fa196819 frameborder=0>
 - entry_name: |
     When a r/prequelmemes makes the frontpage of reddit. . . .
   entry_id: 8dbwve
@@ -202,16 +207,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-9-V46B50_LkbGKHXp2HZX4xD7B2wbIgdN8_Jc8kWrA.jpg?s=6766923598b826bf056c5f1d81c241f1 frameborder=0>
 - entry_name: |
-    InfoWars' Alex Jones Says He's Been Defamed by Defamation Suits
-  entry_id: 8dba2x
-  entry_content: |
-    <img src=https://i.redditmedia.com/0MdKQJKZM_gtcx4_IohDksvfZEyQSkZkdwrImsYn6QA.jpg?s=0fbe97b03b92b8f746a9c103fa196819 frameborder=0>
-- entry_name: |
-    YouTuber faces jail for video forcing homeless man to eat toothpaste-filled Oreos
-  entry_id: 8ddeha
-  entry_content: |
-    <img src=https://i.redditmedia.com/ypJ2ZKp7yd4TF6B3gf7wUCBu6NCF6kzdFbN6NNmaCLI.jpg?s=75a4f5fcb17b51663cd027c806d78ad1 frameborder=0>
-- entry_name: |
   entry_id: 8daj4r
   entry_content: |
     <img src=https://i.redditmedia.com/qV8Gk2clNsIePlunzTka-x_CHAPGXdYrY6P3IMiMa6Y.jpg?s=fb008910724e9d9d51d17497469afade frameborder=0>
@@ -221,33 +216,38 @@ data:
   entry_content: |
     null
 - entry_name: |
-    170 lawmakers sign resolution calling for Pruitt's resignation
-  entry_id: 8d8niy
-  entry_content: |
-    <img src=https://i.redditmedia.com/J9w5j8YJAoN5Aq07S0s-i1IW1SfIAaitMWJgagaeUS0.jpg?s=75f52f8cd2cd039c11974e3da5a62e6e frameborder=0>
-- entry_name: |
     2meirl4meirl
   entry_id: 8ddqi3
   entry_content: |
     <img src=https://i.redditmedia.com/kI8tdwjJS9fexecenNlyFne0g7JjFVdFrJ5RuqOAl7M.jpg?s=8400c523efc97185f162661f193f08c2 frameborder=0>
 - entry_name: |
-    Young male timber wolf giving wildlife worker kisses
-  entry_id: 8dazor
+    TIL three border collies have been trained to run around a Chilean forest devastated by wildfire while wearing special backpacks that release native plant seeds.
+  entry_id: 8df49b
   entry_content: |
-    <iframe src=https://v.redd.it/vqkz2gpdqrs01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/3N-udsWmyOVIhLzk3a1DmY5vlhUEWHxcDdhA1FQVkK8.jpg?s=8af05d2b4eeec4205daac9761fcb5926 frameborder=0>
 - entry_name: |
-    Tomorrow bois
-  entry_id: 8d9n6y
+    MRW My Friend Says Flat Earthers Actually Make Some Good Points
+  entry_id: 8de6yo
   entry_content: |
-    <img src=https://i.redditmedia.com/1RyamrUZJeW5gdj94JLpkc4nyIzXiMinjFv8y4Barrk.jpg?s=fb98afd7425173efd7635dc501b44747 frameborder=0>
+    <iframe src=https://v.redd.it/haxrmtktxus01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Ain't that the truth?
-  entry_id: 8db3r5
+    Airport traffic is the worst
+  entry_id: 8de4bq
   entry_content: |
-    <img src=https://i.redditmedia.com/Uxon0i6IRoNzVCnqX3JYK5PTr7BxcIGn59zthaktA88.png?s=d187b7c1661baf5bee0d7636f9b58dc2 frameborder=0>
+    <iframe src=https://v.redd.it/uzcgbfpjvus01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    perfectly timed picture of seafoam
-  entry_id: 8da9od
+    My coworker had this as her desktop background. Turns out these are her grandparents in Yellowstone in the 1940s. Thought it belonged here.
+  entry_id: 8dek56
   entry_content: |
-    <img src=https://i.redditmedia.com/fv7KfnLCNxs9RmVwp3XtznDXJpddd4RDSo1CT7pp-XI.jpg?s=c850da133b6b4ff0e64f0fd4b01a8842 frameborder=0>
+    <img src=https://i.redditmedia.com/ukwyqRJis78R5FkLBcm3uFa167vOU6rXdA5f9adFWXI.jpg?s=34f5ecd579be9426b4fe0e7955dd7ff2 frameborder=0>
+- entry_name: |
+    Happy Birthday Hayden
+  entry_id: 8de1l0
+  entry_content: |
+    <img src=https://i.redditmedia.com/sqMO37sN_BzhyEHS-NhM8rZNi8fkE-rRqX6T2_5Ozo4.jpg?s=f09bc8034e335e5568b0a582636f9780 frameborder=0>
+- entry_name: |
+    TIL of irukandji syndrome. Caused by irukandji jellyfish venom, it has an unusual symptom where the victim has a feeling of impending doom. The victim is so sure they are going to die, that they ask the doctors to kill them.
+  entry_id: 8de7mz
+  entry_content: |
+    <img src=https://i.redditmedia.com/OcQ69VHj_g3w-QMQP1KitnCOikagdSvEmr2kfPh2Wfk.jpg?s=bdf8c497607f9523a3358b037cad7b37 frameborder=0>
 ---
