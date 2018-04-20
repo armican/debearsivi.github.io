@@ -211,11 +211,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CWtK8Uz4CJ3YP8sm3y4d7TpQ7plcPo_y40_v8piXoU8.jpg?s=470e61a6bc323ccf0706eacd226cc43f frameborder=0>
 - entry_name: |
-    Dave Grohl of The Foo Fighters invites Fan Dressed as Gene Simmons on Stage and The Kid Shreds. Austin, Tx 4-18-18
-  entry_id: 8dgy8t
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/Z4b6BPaO944?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     I left my truck door open for literally a minute and came back to this good boy. He’s not mine. Do dogs get to choose their owners like wands choose wizards?
   entry_id: 8dk08v
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8dhggq
   entry_content: |
     <img src=https://i.redditmedia.com/v_bTeNFXcdeaFryjiV1NdGjdO1xOqWCL6NdQ3TPKe1Q.jpg?s=7bc145d353cf575fd48edb11a0b4c0c9 frameborder=0>
+- entry_name: |
+    Umm wtf tho
+  entry_id: 8dli2b
+  entry_content: |
+    <img src=https://i.redditmedia.com/qPbhq_8OgiAlDYAnDvI0WMOUp2Fw8yatZZf6MZkHXWw.jpg?s=7ad5b05e632fc3fed7ed53ef8bfd174c frameborder=0>
 ---
