@@ -108,11 +108,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3sfhgk7n8zs01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Manafort Suspected of Serving as ‘Back Channel’ to Russia, DOJ Says
-  entry_id: 8dgh36
-  entry_content: |
-    <img src=https://i.redditmedia.com/0SOkr0BoF4SGPM1gZp9J0EZ4ShDtd4U0tF4PFaONkyI.jpg?s=0ffd5f27e0fae5bf84c258b5b4fd9f50 frameborder=0>
-- entry_name: |
     She’s happier than ever, but I almost wish the lie didn’t work so well.
   entry_id: 8dhak3
   entry_content: |
@@ -240,13 +235,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/L0FT8ovOAoZ2vD-JywxONYSnlMgNjskNU-NR-ODCagw.jpg?s=d434d90081702ac7c0f56eba80c1dda9 frameborder=0>
 - entry_name: |
-    The YouTube comment section strikes again
-  entry_id: 8dgh94
-  entry_content: |
-    <img src=https://i.redditmedia.com/H68FDf5vS_sDimraZLasO3hrQEJ9cF7r5BU-Te9LbG4.jpg?s=dcc965a57f0cc73347cf1f86c778e612 frameborder=0>
-- entry_name: |
     Laptop stickers equivalent to prison tattos?
   entry_id: 8dgtdc
   entry_content: |
     <img src=https://i.redditmedia.com/w5JoeG_9UPU4AVssfjF95rEMvOPMx-tf52aPxzWQc_M.png?s=7918ddf9f96e4160ad7fac0588941417 frameborder=0>
+- entry_name: |
+    Touchscreen Mirror
+  entry_id: 8dmwcl
+  entry_content: |
+    <iframe src=https://v.redd.it/eud0ybeov1t01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Now that's why I come to these things
+  entry_id: 8dkmzr
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPoliticalPointlessCricket&url=https%3A%2F%2Fgfycat.com%2FPoliticalPointlessCricket&image=https%3A%2F%2Fthumbs.gfycat.com%2FPoliticalPointlessCricket-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
