@@ -43,16 +43,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/l1hegjy69ys01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    TIL former NFL player James Brooks was found to be illiterate when he was unable to read court documents after admitting to not paying over $100k in child support. When the judge asked how he graduated from Auburn without being able to read, he said, Didn't have to go to to class.
-  entry_id: 8dh2yg
-  entry_content: |
-    <img src=https://i.redditmedia.com/oSzWoAWzxGhgcZANJMZWntqiZygfb6mmBzYbKTCaA6k.jpg?s=a5c13b90168b03ef1b2e73100c5bb736 frameborder=0>
-- entry_name: |
-    If every highschool/college student took a one year long practical course where they work one semester in retail and one semester in food service, there would be far less rude customers
-  entry_id: 8dh3pp
-  entry_content: |
-    null
-- entry_name: |
     This penny I got in my change is 150 years old
   entry_id: 8di5lw
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 8dli2b
   entry_content: |
     <img src=https://i.redditmedia.com/qPbhq_8OgiAlDYAnDvI0WMOUp2Fw8yatZZf6MZkHXWw.jpg?s=7ad5b05e632fc3fed7ed53ef8bfd174c frameborder=0>
+- entry_name: |
+    Now that's why I come to these things
+  entry_id: 8dkmzr
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPoliticalPointlessCricket&url=https%3A%2F%2Fgfycat.com%2FPoliticalPointlessCricket&image=https%3A%2F%2Fthumbs.gfycat.com%2FPoliticalPointlessCricket-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Ubisoft's chat bot Sam is savage.
+  entry_id: 8dlehi
+  entry_content: |
+    <img src=https://i.redditmedia.com/bNEwJa5a6KlH5_kkZ4B-bn35KO96qlcyi9nX9J0OP18.png?s=1328b76e9d1b87c20a7ee3687bf42d22 frameborder=0>
 ---
