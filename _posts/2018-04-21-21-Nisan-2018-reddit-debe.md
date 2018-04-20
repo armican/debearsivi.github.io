@@ -18,6 +18,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KtEE-vv3fr17gOCCAkEThxwcj2YG1yrscLmA23SimjA.jpg?s=23744d56a5d4163c5a2e92c92824b4fb frameborder=0>
 - entry_name: |
+    Girl who used to be paralyzed surprises her nurse
+  entry_id: 8dnad6
+  entry_content: |
+    <img src=https://i.redditmedia.com/t0TAnm6EMSqdrG3aGLGMVfeK0Um3g1r3Oeqf7UapUIc.gif?fm=jpg&s=505eb1893635af284b4e6332f383215b frameborder=0>
+- entry_name: |
     For class, I sculpted Owen Wilson’s nose and collaged it with pictures of Owen Wilson to create Owen Wilson’s Wow meme. My teacher did not get it.
   entry_id: 8dk4i2
   entry_content: |
@@ -38,20 +43,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/l1hegjy69ys01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    If every highschool/college student took a one year long practical course where they work one semester in retail and one semester in food service, there would be far less rude customers
-  entry_id: 8dh3pp
-  entry_content: |
-    null
-- entry_name: |
     TIL former NFL player James Brooks was found to be illiterate when he was unable to read court documents after admitting to not paying over $100k in child support. When the judge asked how he graduated from Auburn without being able to read, he said, Didn't have to go to to class.
   entry_id: 8dh2yg
   entry_content: |
     <img src=https://i.redditmedia.com/oSzWoAWzxGhgcZANJMZWntqiZygfb6mmBzYbKTCaA6k.jpg?s=a5c13b90168b03ef1b2e73100c5bb736 frameborder=0>
 - entry_name: |
-    Girl who used to be paralyzed surprises her nurse
-  entry_id: 8dnad6
+    If every highschool/college student took a one year long practical course where they work one semester in retail and one semester in food service, there would be far less rude customers
+  entry_id: 8dh3pp
   entry_content: |
-    <img src=https://i.redditmedia.com/t0TAnm6EMSqdrG3aGLGMVfeK0Um3g1r3Oeqf7UapUIc.gif?fm=jpg&s=505eb1893635af284b4e6332f383215b frameborder=0>
+    null
 - entry_name: |
     This penny I got in my change is 150 years old
   entry_id: 8di5lw
@@ -73,6 +73,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KtEE-vv3fr17gOCCAkEThxwcj2YG1yrscLmA23SimjA.jpg?s=23744d56a5d4163c5a2e92c92824b4fb frameborder=0>
 - entry_name: |
+    Kratos sold me today his game
+  entry_id: 8dn1z6
+  entry_content: |
+    <img src=https://i.redditmedia.com/DPDJpoKwIP-I2-CDz5IcOuIiKYMVAjNYnPhmeOiaUFA.jpg?s=94d442702b7a7229fe194c4560d4daf3 frameborder=0>
+- entry_name: |
     The way the sun hits the painting
   entry_id: 8dh93a
   entry_content: |
@@ -82,6 +87,11 @@ data:
   entry_id: 8di4mb
   entry_content: |
     <img src=https://i.redditmedia.com/x3ZoQ1f9XAtJjjeQJXjRIn-ODNSfa3zk9slg6AppxOw.jpg?s=5e2ade02e5b82cfeeb353cee937d6c0e frameborder=0>
+- entry_name: |
+    Don't creep up on me like that!!
+  entry_id: 8dmq4i
+  entry_content: |
+    <iframe src=https://v.redd.it/31kl6k4tp1t01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     HMB, I'm playing a round of Rumba Pong
   entry_id: 8difgs
@@ -93,10 +103,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t1dgwc0mzxs01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Kratos sold me today his game
-  entry_id: 8dn1z6
+    The only people forced to see anti-piracy warnings are the people who don't pirate movies.
+  entry_id: 8dn25e
   entry_content: |
-    <img src=https://i.redditmedia.com/DPDJpoKwIP-I2-CDz5IcOuIiKYMVAjNYnPhmeOiaUFA.jpg?s=94d442702b7a7229fe194c4560d4daf3 frameborder=0>
+    null
 - entry_name: |
     Trampoline birb is happiest birb
   entry_id: 8dj41e
@@ -108,10 +118,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3sfhgk7n8zs01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    She’s happier than ever, but I almost wish the lie didn’t work so well.
-  entry_id: 8dhak3
+    Deadpool can try, can't he?
+  entry_id: 8dmuhv
   entry_content: |
-    <img src=https://i.redditmedia.com/tjuxc9F4oy7FtoBSYa_owGDfJUn2iQ04Zp2wfn5phvQ.jpg?s=31a8590027c3ff2ec48082aafdda8c5c frameborder=0>
+    <img src=https://i.redditmedia.com/FnyI7WFmAsiahW8mnef4-MdmdAEDq4uw1ZDykD580rM.gif?fm=jpg&s=45f9b90b43127cb5edc93e3725add16b frameborder=0>
+- entry_name: |
+    These identical cars with sequential plates in the parking lot at my local shopping mall.
+  entry_id: 8dm8c2
+  entry_content: |
+    <img src=https://i.redditmedia.com/AjWO3SYq6dfAoS7tyRjTlvZGblqERUFrpgwsCV7mtEE.jpg?s=32a93c0aa960238123f91a67867fff91 frameborder=0>
+- entry_name: |
+    So glad to join the positivity
+  entry_id: 8dmse9
+  entry_content: |
+    <img src=https://i.redditmedia.com/Jnpw2YkJJrwZY3vBKq5DvPwiPdwceRLTXaJC0PQQwWM.jpg?s=843ad0f463f3d65b3450f23a7f2608a2 frameborder=0>
 - entry_name: |
     But did the laptop break?
   entry_id: 8dkqj9
@@ -123,48 +143,53 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SegLkbCI3cLa3MBAaRPoajPhVdZj_GJonJcSqup9LQ8.jpg?s=f17edf400d2d70617fae1171cc52d475 frameborder=0>
 - entry_name: |
-    Don't creep up on me like that!!
-  entry_id: 8dmq4i
+    She’s happier than ever, but I almost wish the lie didn’t work so well.
+  entry_id: 8dhak3
   entry_content: |
-    <iframe src=https://v.redd.it/31kl6k4tp1t01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/tjuxc9F4oy7FtoBSYa_owGDfJUn2iQ04Zp2wfn5phvQ.jpg?s=31a8590027c3ff2ec48082aafdda8c5c frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 8dhx3c
   entry_content: |
     <img src=https://i.redditmedia.com/L0txqOAhDvnsrCwzEktbpbmCKJJETMg433FWxfjZlHc.jpg?s=5483cdbf2b20885edd59f833484b280f frameborder=0>
 - entry_name: |
-    These identical cars with sequential plates in the parking lot at my local shopping mall.
-  entry_id: 8dm8c2
-  entry_content: |
-    <img src=https://i.redditmedia.com/AjWO3SYq6dfAoS7tyRjTlvZGblqERUFrpgwsCV7mtEE.jpg?s=32a93c0aa960238123f91a67867fff91 frameborder=0>
-- entry_name: |
   entry_id: 8dic07
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIlliterateOilyCarp&url=https%3A%2F%2Fgfycat.com%2FIlliterateOilyCarp&image=https%3A%2F%2Fthumbs.gfycat.com%2FIlliterateOilyCarp-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    My wife said she wanted just one child of each gender
-  entry_id: 8dj28s
+    Touchscreen Mirror
+  entry_id: 8dmwcl
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/eud0ybeov1t01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    So glad to join the positivity
-  entry_id: 8dmse9
+    Not again!
+  entry_id: 8dmt84
   entry_content: |
-    <img src=https://i.redditmedia.com/Jnpw2YkJJrwZY3vBKq5DvPwiPdwceRLTXaJC0PQQwWM.jpg?s=843ad0f463f3d65b3450f23a7f2608a2 frameborder=0>
+    <img src=https://i.redditmedia.com/AAVTr_T8CkQgCh05xXYBbpVkL6WRJ9WEgSkJ-mZFL1U.png?s=37dfdc8de9471455590934116cd9cee1 frameborder=0>
+- entry_name: |
+  entry_id: 8dla0d
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCavernousSingleChimpanzee&url=https%3A%2F%2Fgfycat.com%2FCavernousSingleChimpanzee&image=https%3A%2F%2Fthumbs.gfycat.com%2FCavernousSingleChimpanzee-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     McDonalds kitty.
   entry_id: 8dk6de
   entry_content: |
     <iframe src=https://v.redd.it/uvmgbtoc4zs01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    My wife said she wanted just one child of each gender
+  entry_id: 8dj28s
+  entry_content: |
+    null
+- entry_name: |
     Mexico’s lower house of Congress on Thursday approved changes to the constitution to eliminate immunity from prosecution for all public servants, including lawmakers and the president, a move meant to tackle deeply entrenched corruption.
   entry_id: 8dkuh7
   entry_content: |
     <img src=https://i.redditmedia.com/JE5v1BJsIlc2DiVs1rwqi6CLE49u9lcH1SVOoMRTF3k.jpg?s=4cb7ec0ff52613beffebf811899c3120 frameborder=0>
 - entry_name: |
-  entry_id: 8dla0d
+    Know the difference
+  entry_id: 8dnc02
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCavernousSingleChimpanzee&url=https%3A%2F%2Fgfycat.com%2FCavernousSingleChimpanzee&image=https%3A%2F%2Fthumbs.gfycat.com%2FCavernousSingleChimpanzee-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/aGIOmsVpouCYwGjIPOJ9Zl8lvklmuR3cEMh82BD4iCo.jpg?s=c7549395fd7620c464f72dd400ef0232 frameborder=0>
 - entry_name: |
     I just wanted a new car.
   entry_id: 8dke6s
@@ -176,15 +201,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/s0g66prq3ys01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The only people forced to see anti-piracy warnings are the people who don't pirate movies.
-  entry_id: 8dn25e
+    MRW a college age employee submits a vacation request for 4/20.
+  entry_id: 8dkyhl
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/z4dbnkz4szs01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Not again!
-  entry_id: 8dmt84
+    Arsene Wenger to step down at the end of the season.
+  entry_id: 8dm5c1
   entry_content: |
-    <img src=https://i.redditmedia.com/AAVTr_T8CkQgCh05xXYBbpVkL6WRJ9WEgSkJ-mZFL1U.png?s=37dfdc8de9471455590934116cd9cee1 frameborder=0>
+    <img src=https://i.redditmedia.com/CWtK8Uz4CJ3YP8sm3y4d7TpQ7plcPo_y40_v8piXoU8.jpg?s=470e61a6bc323ccf0706eacd226cc43f frameborder=0>
 - entry_name: |
     Dave Grohl of The Foo Fighters invites Fan Dressed as Gene Simmons on Stage and The Kid Shreds. Austin, Tx 4-18-18
   entry_id: 8dgy8t
@@ -200,53 +225,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yBUkg2DRKx1s6zrP3b_hWQF9JWMkrXmUZmjXTK3yfl0.jpg?s=5b17af8c1957830fa36cd442a5dd1598 frameborder=0>
 - entry_name: |
-    Arsene Wenger to step down at the end of the season.
-  entry_id: 8dm5c1
+    Democratic Party files lawsuit alleging Russia, the Trump campaign and WikiLeaks conspired to disrupt the 2016 campaign
+  entry_id: 8do93h
   entry_content: |
-    <img src=https://i.redditmedia.com/CWtK8Uz4CJ3YP8sm3y4d7TpQ7plcPo_y40_v8piXoU8.jpg?s=470e61a6bc323ccf0706eacd226cc43f frameborder=0>
-- entry_name: |
-    Deadpool can try, can't he?
-  entry_id: 8dmuhv
-  entry_content: |
-    <img src=https://i.redditmedia.com/FnyI7WFmAsiahW8mnef4-MdmdAEDq4uw1ZDykD580rM.gif?fm=jpg&s=45f9b90b43127cb5edc93e3725add16b frameborder=0>
-- entry_name: |
-    MRW a college age employee submits a vacation request for 4/20.
-  entry_id: 8dkyhl
-  entry_content: |
-    <iframe src=https://v.redd.it/z4dbnkz4szs01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    A reminder for tomorrow
-  entry_id: 8diiwg
-  entry_content: |
-    <img src=https://i.redditmedia.com/RiFIGEmnCHRroV3o9iBQ-lFAj3X3BiK1HTO6cVWxVVM.jpg?s=d2e27b011789c52753654129bafcec26 frameborder=0>
-- entry_name: |
-    Kanye West Announces New Albums Release Dates (solo album June 1st, another album with Kid Cudi on June 8)
-  entry_id: 8dhggq
-  entry_content: |
-    <img src=https://i.redditmedia.com/v_bTeNFXcdeaFryjiV1NdGjdO1xOqWCL6NdQ3TPKe1Q.jpg?s=7bc145d353cf575fd48edb11a0b4c0c9 frameborder=0>
+    <img src=https://i.redditmedia.com/SupovAJDwYWI5JvRqa4iGtRNOl1fq0PYCR8nNlTqnYo.jpg?s=bceef35d5a83cc3dfc20f8668e5407b8 frameborder=0>
 - entry_name: |
     I found a Kanye mug in my grandma's nursing home kitchen
   entry_id: 8dke8g
   entry_content: |
     <img src=https://i.redditmedia.com/L0FT8ovOAoZ2vD-JywxONYSnlMgNjskNU-NR-ODCagw.jpg?s=d434d90081702ac7c0f56eba80c1dda9 frameborder=0>
 - entry_name: |
-    Laptop stickers equivalent to prison tattos?
-  entry_id: 8dgtdc
+    A reminder for tomorrow
+  entry_id: 8diiwg
   entry_content: |
-    <img src=https://i.redditmedia.com/w5JoeG_9UPU4AVssfjF95rEMvOPMx-tf52aPxzWQc_M.png?s=7918ddf9f96e4160ad7fac0588941417 frameborder=0>
+    <img src=https://i.redditmedia.com/RiFIGEmnCHRroV3o9iBQ-lFAj3X3BiK1HTO6cVWxVVM.jpg?s=d2e27b011789c52753654129bafcec26 frameborder=0>
 - entry_name: |
-    Touchscreen Mirror
-  entry_id: 8dmwcl
+    Yaqob, is that you?
+  entry_id: 8dn2mg
   entry_content: |
-    <iframe src=https://v.redd.it/eud0ybeov1t01/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/0ARDe_0eeOYkZfg85L3kVWW7qnYHAKE2c-ZGOUNLlS8.jpg?s=87bd66ab408e75cca9ef79126f8e57be frameborder=0>
 - entry_name: |
-    Now that's why I come to these things
-  entry_id: 8dkmzr
+    Kanye West Announces New Albums Release Dates (solo album June 1st, another album with Kid Cudi on June 8)
+  entry_id: 8dhggq
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPoliticalPointlessCricket&url=https%3A%2F%2Fgfycat.com%2FPoliticalPointlessCricket&image=https%3A%2F%2Fthumbs.gfycat.com%2FPoliticalPointlessCricket-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Megathread: Justice Dept. turns over James Comey's memos
-  entry_id: 8djwof
-  entry_content: |
-    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
+    <img src=https://i.redditmedia.com/v_bTeNFXcdeaFryjiV1NdGjdO1xOqWCL6NdQ3TPKe1Q.jpg?s=7bc145d353cf575fd48edb11a0b4c0c9 frameborder=0>
 ---
