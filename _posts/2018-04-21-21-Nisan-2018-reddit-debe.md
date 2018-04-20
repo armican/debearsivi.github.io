@@ -8,11 +8,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2t27ufhzgys01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Girl who used to be paralyzed surprises her nurse
-  entry_id: 8dnad6
-  entry_content: |
-    <img src=https://i.redditmedia.com/t0TAnm6EMSqdrG3aGLGMVfeK0Um3g1r3Oeqf7UapUIc.gif?fm=jpg&s=505eb1893635af284b4e6332f383215b frameborder=0>
-- entry_name: |
     My Pops finally beating Super Mario Bros. on Christmas night, 1988. The Nintendo was a present for me and my sister.
   entry_id: 8dif6c
   entry_content: |
@@ -62,11 +57,6 @@ data:
   entry_id: 8dj57c
   entry_content: |
     <img src=https://i.redditmedia.com/ytSZP1hDAoPhOedIkpACKpUEdWH9ybF_WXGn8tme4XM.jpg?s=56d016f0e009f06680956ecf754494b9 frameborder=0>
-- entry_name: |
-    The U.K. Just Went 55 Hours Without Using Coal for the First Time in History
-  entry_id: 8dhz78
-  entry_content: |
-    <img src=https://i.redditmedia.com/KtEE-vv3fr17gOCCAkEThxwcj2YG1yrscLmA23SimjA.jpg?s=23744d56a5d4163c5a2e92c92824b4fb frameborder=0>
 - entry_name: |
     Don't creep up on me like that!!
   entry_id: 8dmq4i
@@ -201,11 +191,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIlliterateOilyCarp&url=https%3A%2F%2Fgfycat.com%2FIlliterateOilyCarp&image=https%3A%2F%2Fthumbs.gfycat.com%2FIlliterateOilyCarp-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    hmmm
-  entry_id: 8dhx3c
-  entry_content: |
-    <img src=https://i.redditmedia.com/L0txqOAhDvnsrCwzEktbpbmCKJJETMg433FWxfjZlHc.jpg?s=5483cdbf2b20885edd59f833484b280f frameborder=0>
-- entry_name: |
     Mexico’s lower house of Congress on Thursday approved changes to the constitution to eliminate immunity from prosecution for all public servants, including lawmakers and the president, a move meant to tackle deeply entrenched corruption.
   entry_id: 8dkuh7
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8dixzr
   entry_content: |
     <iframe src=https://v.redd.it/s0g66prq3ys01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I left my truck door open for literally a minute and came back to this good boy. He’s not mine. Do dogs get to choose their owners like wands choose wizards?
+  entry_id: 8dk08v
+  entry_content: |
+    <img src=https://i.redditmedia.com/1DAJ7TzCYUlbhOpgNsCIo-FCNJfRzTWv8oAdD1xHtXo.jpg?s=a1881c45b370a75c85afb86636589f9b frameborder=0>
+- entry_name: |
+    Reddit at what moment in your life did you stop, chuckle, and think to yourself ‘I’m in danger’?
+  entry_id: 8dm4i5
+  entry_content: |
+    null
+- entry_name: |
+    Not a space whale, India ink, 9x12
+  entry_id: 8dm9gj
+  entry_content: |
+    <img src=https://i.redditmedia.com/iHPwjpcmaR2Kwl9vAzCaDLjW50SL4w6RTIFxWy88cjQ.jpg?s=4b44df7abd6c76ceaa7c6290a8109151 frameborder=0>
 ---
