@@ -176,11 +176,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/s0g66prq3ys01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Even slower than snails
-  entry_id: 8dgobg
-  entry_content: |
-    <img src=https://i.redditmedia.com/j5H7w1QMv7pmcP43_Q0bul_1hcj6f2Is5wn0PgFrkbc.jpg?s=6e269c85042953a1c484befd554b1907 frameborder=0>
-- entry_name: |
     The only people forced to see anti-piracy warnings are the people who don't pirate movies.
   entry_id: 8dn25e
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8dkmzr
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPoliticalPointlessCricket&url=https%3A%2F%2Fgfycat.com%2FPoliticalPointlessCricket&image=https%3A%2F%2Fthumbs.gfycat.com%2FPoliticalPointlessCricket-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Megathread: Justice Dept. turns over James Comey's memos
+  entry_id: 8djwof
+  entry_content: |
+    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
 ---
