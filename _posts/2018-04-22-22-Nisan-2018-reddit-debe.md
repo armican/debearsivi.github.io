@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lHtDfPbWfsF3oh1444oiakf7Cc7CYql-NAD_p2dZQoQ.jpg?s=d02ad7865d2d8d1251d4ab99bf8eac48 frameborder=0>
 - entry_name: |
-    Swedish DJ Avicii Dead at 28
-  entry_id: 8dpdk0
-  entry_content: |
-    <img src=https://i.redditmedia.com/IN0KpWcwzi-SHnVhSwtcT72gDx5GJCW8gz94rcRP3b0.jpg?s=222b2fb5d329b2dbe86339fc561fb200 frameborder=0>
-- entry_name: |
     Former President George H. W. Bush pays his respects to Barbara Bush, his wife of 73 years.
   entry_id: 8dqyk3
   entry_content: |
@@ -68,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
-    This bathroom's mirrors are sunglasses
-  entry_id: 8dpgfe
-  entry_content: |
-    <img src=https://i.redditmedia.com/FZK3JmbJgQyKH-b3N_-vZNyuK8QkVZCT49Nov4bDS10.jpg?s=0463de31d04f093480f0e911dc79dae2 frameborder=0>
-- entry_name: |
     Unexpected Dinner Guest
   entry_id: 8du54h
   entry_content: |
@@ -82,11 +72,6 @@ data:
   entry_id: 8dssea
   entry_content: |
     <img src=https://i.redditmedia.com/zUeDeHQE17kaIxiI-3UCTz3NtAMllyuLlxE5MJPXgLU.jpg?s=2cd61758c4ca80abaa7bbacf8676f208 frameborder=0>
-- entry_name: |
-    I left my blanket at my 90 year old grandma’s house and asked her to send it back. She wrapped cookies and brownies inside 😭
-  entry_id: 8dpfk4
-  entry_content: |
-    <img src=https://i.redditmedia.com/9VKZsi8QSM7j3sS7wC7c_utl1tf9v4cawvVj-eKO9EE.jpg?s=60dee5a97079ca3d6cf93c6fdb4a94ca frameborder=0>
 - entry_name: |
     Death For Rape Of Children Below 12, Says Indian Government, Clears Executive Order
   entry_id: 8duloh
@@ -168,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cZaiRq8NEtcE1V1YMJI8vU63Bs1uGMKgWedpmZzYQf8.jpg?s=198351057b86be714c751c0a79d4723c frameborder=0>
 - entry_name: |
-    Oh! Who lives under the highway down by the sea?
-  entry_id: 8dqn27
-  entry_content: |
-    <img src=https://i.redditmedia.com/-Kiv1XQMaCQEOw4KH0p6rFgBOcm0VMG7rLc8e7X6Ctg.jpg?s=61a1b98b22e3c26de65afb195438d0b5 frameborder=0>
-- entry_name: |
     360-degree paradise drawing created with 120 marker pens.
   entry_id: 8dt1qg
   entry_content: |
@@ -203,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zOM0gO3lTRAdyEpQSzlKiVUWxDZFEZuiUIO5c2O0iTo.jpg?s=04ec6d7d34b7b664aa49e3a82ee296b0 frameborder=0>
 - entry_name: |
-    *shhh* it's a flock of wild toilets roosting
-  entry_id: 8dpgmr
-  entry_content: |
-    <img src=https://i.redditmedia.com/qHUwUTVE9duDIz6HVyjI8S74b69my-YUARvHPr8RhXo.jpg?s=3e91ead4e1fef720297ba58597b63b47 frameborder=0>
-- entry_name: |
     East German soldier helping a boy cross the new Berlin Wall, to reunite with his family. 1961.
   entry_id: 8dshq7
   entry_content: |
@@ -226,11 +201,6 @@ data:
   entry_id: 8dt8sm
   entry_content: |
     <img src=https://i.redditmedia.com/k1-GyCDTA12leNAxzLbx2V66pI7VmyalxkurXP4em6c.jpg?s=746da3ccee93612164b206de610c588d frameborder=0>
-- entry_name: |
-    Remember my post from yesterday about ASUS shipping my monitor back in pieces? This is what their shipping policy does to a $400 monitor. Thanks ASUS!
-  entry_id: 8dpfip
-  entry_content: |
-    <img src=https://i.redditmedia.com/xPFEn_ImSyYeqO6WqfxWr3WWh8I8GRCeSfE_cnrQoDg.jpg?s=530f70f1b6cf0362f9a91ee1dc6f9ec1 frameborder=0>
 - entry_name: |
     I wonder which answer they were going for
   entry_id: 8dpjeh
@@ -251,4 +221,34 @@ data:
   entry_id: 8dutk3
   entry_content: |
     <img src=https://i.redditmedia.com/6Oe95E03nGrJl18a88spRmAt1t5tUO6mmSO2rgdzG-0.jpg?s=d292bb8f5e280954bd87276d97d24bb5 frameborder=0>
+- entry_name: |
+    My opening hand in words with Friends
+  entry_id: 8drm9v
+  entry_content: |
+    <img src=https://i.redditmedia.com/JlxsJzNyZSDjbsQQ72Xc_Ei2UC_jbB4hamXrkgeQy4A.png?s=aa27ae96de752b5e86c9155d600cfe4f frameborder=0>
+- entry_name: |
+    Pet dog of a three-year-girl who spent 16 hours in the elements has stayed by her side until she was found this morning.
+  entry_id: 8duylm
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZbIpX_V-1G5IB8v9P_0866NpYIDk9-oFVRK5sJK8U4M.jpg?s=19c6582ce92feeedfa646e1133ba80b2 frameborder=0>
+- entry_name: |
+    I got this RemindMe bot reminder today. Be careful Europe, and good luck.
+  entry_id: 8du00j
+  entry_content: |
+    <img src=https://i.redditmedia.com/hSPsijEA-TriA4ZWknD6KQRk7GkRZc9jATaf8J8HXiM.jpg?s=4eb07d3e977976c55e5da73a972ce508 frameborder=0>
+- entry_name: |
+    Sean Hannity Isn’t A Journalist And Fox News Isn’t News
+  entry_id: 8dvjb8
+  entry_content: |
+    <img src=https://i.redditmedia.com/ETs8HKMkAfvODwITRPd2W3YG42e4t-1IojQ83q_eR_o.jpg?s=479f2bdb3141b006f85e405dabd0416b frameborder=0>
+- entry_name: |
+    Who doesn't love it?
+  entry_id: 8dulfq
+  entry_content: |
+    <img src=https://i.redditmedia.com/AgAOpmeKAOhCoPQM45bfa7aek7McaoMBn3PGCoj-RDU.jpg?s=c684f134d9608c9b3a1f7951e6e92f90 frameborder=0>
+- entry_name: |
+    These guys ain't loyal
+  entry_id: 8dsjdk
+  entry_content: |
+    <img src=https://i.redditmedia.com/q_HoxoU1abMe6ewT987c37wk_Eob2XMz-lSUR6AsRQM.jpg?s=5711f0509adf4635c873f928cf2eb0b6 frameborder=0>
 ---
