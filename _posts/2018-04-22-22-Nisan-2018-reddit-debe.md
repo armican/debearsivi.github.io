@@ -3,11 +3,6 @@ layout: post
 title: 22 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    Took pot brownies to work today. HR loved it.
-  entry_id: 8dpyeq
-  entry_content: |
-    <img src=https://i.redditmedia.com/56CQoYLipxsW_shn4K-Ksm56NquRe1kDdnNY0j-9Utw.jpg?s=5ea9bb10346b9651a9c2ecb81d4fefea frameborder=0>
-- entry_name: |
     My dad challenged the students at the school where he is the principal to read a combined 1,000 minutes. The reward would be getting to push him down the hall on a tricycle while he wore mismatched clothes inside out.
   entry_id: 8dsf5s
   entry_content: |
@@ -21,7 +16,7 @@ data:
     Scaredy cat tippy taps
   entry_id: 8dqv27
   entry_content: |
-    <iframe src=https://v.redd.it/04x9uqdhl4t01/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/vuy2v4wa4bt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     when you cant afford to buy a new game. repost from r/godofwar
   entry_id: 8dufm8
@@ -251,4 +246,9 @@ data:
   entry_id: 8drm9v
   entry_content: |
     <img src=https://i.redditmedia.com/JlxsJzNyZSDjbsQQ72Xc_Ei2UC_jbB4hamXrkgeQy4A.png?s=aa27ae96de752b5e86c9155d600cfe4f frameborder=0>
+- entry_name: |
+    Sugar blames fat for causing heart disease. 1967
+  entry_id: 8dsrhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/IfTT0H7256-CALvFzXbVVHgZL6GgvrD3WwyUm6nr-ts.jpg?s=2270ba1d553cd103bd119bfc47ed7364 frameborder=0>
 ---
