@@ -98,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GQs1vyHvlts83SgvoYQhsz1cytE-6TBEVNTAHOLHxaY.jpg?s=baef5622277a732dbe8bb8c5b3164cb0 frameborder=0>
 - entry_name: |
-    Apple CarPlay volume control UI
-  entry_id: 8dq472
-  entry_content: |
-    <img src=https://i.redditmedia.com/DcExf_Zmls1v5gG5UNcnLzT-BrRexZdeydrnumgdujQ.jpg?s=f97c1cbd5ecbb19f78abdefc0bb0f604 frameborder=0>
-- entry_name: |
     The door's open this time. Confidence.
   entry_id: 8duwo7
   entry_content: |
@@ -167,11 +162,6 @@ data:
   entry_id: 8dryid
   entry_content: |
     <img src=https://i.redditmedia.com/vFM-Cm3-hI6oWd3TRt9a9fYyFJBbmkC0XffX6swcnOE.jpg?s=0dba8154b68ed1154911c099721f0902 frameborder=0>
-- entry_name: |
-    This 3D printed bionic arm
-  entry_id: 8ds5fc
-  entry_content: |
-    <iframe src=https://v.redd.it/fbcghuk4k5t01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Pet dog of a three-year-girl who spent 16 hours in the elements has stayed by her side until she was found this morning.
   entry_id: 8duylm
@@ -251,4 +241,14 @@ data:
   entry_id: 8dsrhm
   entry_content: |
     <img src=https://i.redditmedia.com/IfTT0H7256-CALvFzXbVVHgZL6GgvrD3WwyUm6nr-ts.jpg?s=2270ba1d553cd103bd119bfc47ed7364 frameborder=0>
+- entry_name: |
+    These guys ain't loyal
+  entry_id: 8dsjdk
+  entry_content: |
+    <img src=https://i.redditmedia.com/q_HoxoU1abMe6ewT987c37wk_Eob2XMz-lSUR6AsRQM.jpg?s=5711f0509adf4635c873f928cf2eb0b6 frameborder=0>
+- entry_name: |
+    Such a classy prez
+  entry_id: 8dr3co
+  entry_content: |
+    <img src=https://i.redditmedia.com/hwIJ842joM3iCw33MkgNqn3Eun6-9miEYkFjjQSFSeg.jpg?s=705261663a3c713ad3c055beddec47db frameborder=0>
 ---
