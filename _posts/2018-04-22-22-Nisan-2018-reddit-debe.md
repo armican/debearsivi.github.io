@@ -18,11 +18,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Scaredy cat tippy taps
-  entry_id: 8dqv27
-  entry_content: |
-    <iframe src=https://v.redd.it/vuy2v4wa4bt01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     when you cant afford to buy a new game. repost from r/godofwar
   entry_id: 8dufm8
   entry_content: |
@@ -98,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4fdqRuhVbh0sXZvyqibGsZJFp-8AlqJ6ackWMX_C-hM.jpg?s=4afa1cd0224a058651459c3377a73305 frameborder=0>
 - entry_name: |
-    I think I'll pass
-  entry_id: 8dw432
-  entry_content: |
-    <img src=https://i.redditmedia.com/5DSrqLHTTAvDGrUKCR3wPt-k4L9XMKUDMnITcw74HjU.jpg?s=a0653865fa7c37e0919513a22c83ea1b frameborder=0>
-- entry_name: |
     The door's open this time. Confidence.
   entry_id: 8duwo7
   entry_content: |
@@ -172,11 +162,6 @@ data:
   entry_id: 8dr07z
   entry_content: |
     <img src=https://i.redditmedia.com/AcDqATj5EoprcrBZTkkIiQ6hi9bcMeenrKAWWFtsmok.jpg?s=2c4489459831b594ab46b92bd5a95584 frameborder=0>
-- entry_name: |
-    420 is the smallest number evenly divisible by 2,3,4,5,6 and 7; but you can't easily divide it into 8ths.
-  entry_id: 8dqr0y
-  entry_content: |
-    null
 - entry_name: |
     Do you know how to avoid clickbait?
   entry_id: 8dtwct
@@ -251,4 +236,19 @@ data:
   entry_id: 8dvjs5
   entry_content: |
     <img src=https://i.redditmedia.com/ovgvLU6mrKRNB3qUe3ELRHeZ6BHi3BlnEFMSC2S8VcM.jpg?s=64584c1f6bbe78bc23ac05a720c07721 frameborder=0>
+- entry_name: |
+    Sugar blames fat for causing heart disease. 1967
+  entry_id: 8dsrhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/IfTT0H7256-CALvFzXbVVHgZL6GgvrD3WwyUm6nr-ts.jpg?s=2270ba1d553cd103bd119bfc47ed7364 frameborder=0>
+- entry_name: |
+    Doggo loving life at a bike track
+  entry_id: 8dv3lm
+  entry_content: |
+    <iframe src=https://v.redd.it/067ojnilx7t01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The direction that common core math is taking
+  entry_id: 8dteq3
+  entry_content: |
+    <img src=https://i.redditmedia.com/0t1mp4mHXKwWjTc7sXneG6dLNaEDXrtnE2lt7fIdOXg.jpg?s=1de743db64c142f13d1f94b234ac0f47 frameborder=0>
 ---
