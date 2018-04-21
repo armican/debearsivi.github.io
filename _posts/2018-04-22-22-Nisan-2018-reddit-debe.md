@@ -143,11 +143,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lg8hg4ted6t01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Progress.
-  entry_id: 8dqfx4
-  entry_content: |
-    <img src=https://i.redditmedia.com/8YWzUoLSy0oas7KFKLHtja7UT04sXGDx9X6Q9da3Y3k.jpg?s=d7d4ace086ef02d4f271e5af8dc692d1 frameborder=0>
-- entry_name: |
     Happy 20th Birthday Athena! She is being extra feisty this morning for her birthday. 🎂
   entry_id: 8dr07z
   entry_content: |
@@ -167,11 +162,6 @@ data:
   entry_id: 8dva33
   entry_content: |
     <img src=https://i.redditmedia.com/M9iVKd15SLbBPmqccvDkthYw2v9rq4vut8vtDgN9Rxo.jpg?s=cf9a31747c27119ea07af14c0d603461 frameborder=0>
-- entry_name: |
-    In Finding Nemo, Bruce the shark starts crying when Marlin starts talking about Nemo, saying “I never knew my father”. Male sharks mate with the female then leave, so baby sharks never actually meet their father.
-  entry_id: 8dqj5f
-  entry_content: |
-    <img src=https://i.redditmedia.com/gQBQ8DKY-q7iUv7yFtEzP_ALWXCV4O2X4oRD-Jyfra4.jpg?s=372ce86e34159ddab442e03f3e350b22 frameborder=0>
 - entry_name: |
     Oh! Who lives under the highway down by the sea?
   entry_id: 8dqn27
@@ -251,4 +241,14 @@ data:
   entry_id: 8du00j
   entry_content: |
     <img src=https://i.redditmedia.com/hSPsijEA-TriA4ZWknD6KQRk7GkRZc9jATaf8J8HXiM.jpg?s=4eb07d3e977976c55e5da73a972ce508 frameborder=0>
+- entry_name: |
+    My opening hand in words with Friends
+  entry_id: 8drm9v
+  entry_content: |
+    <img src=https://i.redditmedia.com/JlxsJzNyZSDjbsQQ72Xc_Ei2UC_jbB4hamXrkgeQy4A.png?s=aa27ae96de752b5e86c9155d600cfe4f frameborder=0>
+- entry_name: |
+    Sugar blames fat for causing heart disease. 1967
+  entry_id: 8dsrhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/IfTT0H7256-CALvFzXbVVHgZL6GgvrD3WwyUm6nr-ts.jpg?s=2270ba1d553cd103bd119bfc47ed7364 frameborder=0>
 ---
