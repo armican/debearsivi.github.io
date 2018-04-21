@@ -168,11 +168,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fbcghuk4k5t01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Modified Boeing 747 Carrying the Space Shuttle Endeavour over Los Angeles
-  entry_id: 8dpkc8
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZXf9cKGvFIzA2K-xcsUC5OkOERCv_GIk_vnT6vr-dKA.jpg?s=9c2412b7a38d4b477069977dc1ad7c30 frameborder=0>
-- entry_name: |
     Criminal Gang in South Africa Attempt to Rob the Wrong Person
   entry_id: 8du3re
   entry_content: |
@@ -201,11 +196,6 @@ data:
   entry_id: 8dt8sm
   entry_content: |
     <img src=https://i.redditmedia.com/k1-GyCDTA12leNAxzLbx2V66pI7VmyalxkurXP4em6c.jpg?s=746da3ccee93612164b206de610c588d frameborder=0>
-- entry_name: |
-    I wonder which answer they were going for
-  entry_id: 8dpjeh
-  entry_content: |
-    <img src=https://i.redditmedia.com/CnutaF0gFTsFVgiIOIt16GgkLW2liFtv8hPoXmeL7Pw.jpg?s=e341a6394edd530fa9a3cd7c28817c0b frameborder=0>
 - entry_name: |
     Humiliating: Leaked Tapes catch Trump posing as own spokesperson
   entry_id: 8dsdec
@@ -251,4 +241,14 @@ data:
   entry_id: 8dsjdk
   entry_content: |
     <img src=https://i.redditmedia.com/q_HoxoU1abMe6ewT987c37wk_Eob2XMz-lSUR6AsRQM.jpg?s=5711f0509adf4635c873f928cf2eb0b6 frameborder=0>
+- entry_name: |
+    Sugar blames fat for causing heart disease. 1967
+  entry_id: 8dsrhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/IfTT0H7256-CALvFzXbVVHgZL6GgvrD3WwyUm6nr-ts.jpg?s=2270ba1d553cd103bd119bfc47ed7364 frameborder=0>
+- entry_name: |
+    Such a classy prez
+  entry_id: 8dr3co
+  entry_content: |
+    <img src=https://i.redditmedia.com/hwIJ842joM3iCw33MkgNqn3Eun6-9miEYkFjjQSFSeg.jpg?s=705261663a3c713ad3c055beddec47db frameborder=0>
 ---
