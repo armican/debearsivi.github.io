@@ -28,30 +28,35 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/04x9uqdhl4t01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    when you cant afford to buy a new game. repost from r/godofwar
+  entry_id: 8dufm8
+  entry_content: |
+    <img src=https://i.redditmedia.com/vR0F5RgFMSoIYi8PWFIrBcLsmVNmV4fqLAPWi1IKn1A.jpg?s=fb7a2512ab8b5d5dbf07550360cda061 frameborder=0>
+- entry_name: |
     I was visiting family back home and decided to bring my Switch, my little cousin was the very first to notice it. I let him borrow it the entire time I was there. Knowing how tough times are back home, it was with a huge and heavy heart that I gave my prized possession away.
   entry_id: 8ds69q
   entry_content: |
     <img src=https://i.redditmedia.com/Na8FsdCO82Wf371ItSBfS5AuVP44eMO6657b5qGCS_A.jpg?s=646d9a9dac0e3bc31bc8328ec6f5ce85 frameborder=0>
-- entry_name: |
-    Swedish newspaper says Avicii is dead.
-  entry_id: 8dpb6y
-  entry_content: |
-    <img src=https://i.redditmedia.com/eYYP4u24bkVqcPfMIZpxrI-dGRseOjFcs3FKz1oz1u8.jpg?s=c22e2d51fc8428eecfa028b53eb10694 frameborder=0>
 - entry_name: |
     TIL When Princess Diana went to Disneyland she made her sons Harry and William wait in line just like everyone else.
   entry_id: 8ds07i
   entry_content: |
     <img src=https://i.redditmedia.com/Lkfbr0m9YZey_Watx8MkavQn7FpsSqxOFYXsqqlHOtI.jpg?s=9bce8b233c87cce0a62b73bc2c88fb87 frameborder=0>
 - entry_name: |
+    Sheeps is sick of cats shit
+  entry_id: 8duejn
+  entry_content: |
+    <iframe src=https://v.redd.it/ekxi2bdmw7t01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     TIL the Looney Toons Golden Collection DVDs have a disclaimer at the beginning given by Whoopi Goldberg explaining that the cartoons are a product of their time and contain ethnic stereotypes that have not been censored because editing them would be the same as denying the stereotypes ever existed
   entry_id: 8ds3xy
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/HCT1clqci3I?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    when you cant afford to buy a new game. repost from r/godofwar
-  entry_id: 8dufm8
+    Our parents warned us for years about the 'dangers' of the internet while knowing nothing about it, then finally dove in and fell for every. Single. One.
+  entry_id: 8duaqq
   entry_content: |
-    <img src=https://i.redditmedia.com/vR0F5RgFMSoIYi8PWFIrBcLsmVNmV4fqLAPWi1IKn1A.jpg?s=fb7a2512ab8b5d5dbf07550360cda061 frameborder=0>
+    null
 - entry_name: |
     names brad. brad pitt. i’m not always as confident as i look
   entry_id: 8drndf
@@ -68,30 +73,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FZK3JmbJgQyKH-b3N_-vZNyuK8QkVZCT49Nov4bDS10.jpg?s=0463de31d04f093480f0e911dc79dae2 frameborder=0>
 - entry_name: |
-    Sheeps is sick of cats shit
-  entry_id: 8duejn
-  entry_content: |
-    <iframe src=https://v.redd.it/ekxi2bdmw7t01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Our parents warned us for years about the 'dangers' of the internet while knowing nothing about it, then finally dove in and fell for every. Single. One.
-  entry_id: 8duaqq
-  entry_content: |
-    null
-- entry_name: |
     Unexpected Dinner Guest
   entry_id: 8du54h
   entry_content: |
     <iframe src=https://v.redd.it/zjwo0cbbk7t01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Missing 3 y/o found safe next morning with faithful old dog keeping her safe
+  entry_id: 8dssea
+  entry_content: |
+    <img src=https://i.redditmedia.com/zUeDeHQE17kaIxiI-3UCTz3NtAMllyuLlxE5MJPXgLU.jpg?s=2cd61758c4ca80abaa7bbacf8676f208 frameborder=0>
 - entry_name: |
     I left my blanket at my 90 year old grandma’s house and asked her to send it back. She wrapped cookies and brownies inside 😭
   entry_id: 8dpfk4
   entry_content: |
     <img src=https://i.redditmedia.com/9VKZsi8QSM7j3sS7wC7c_utl1tf9v4cawvVj-eKO9EE.jpg?s=60dee5a97079ca3d6cf93c6fdb4a94ca frameborder=0>
 - entry_name: |
-    Missing 3 y/o found safe next morning with faithful old dog keeping her safe
-  entry_id: 8dssea
+    Death For Rape Of Children Below 12, Says Indian Government, Clears Executive Order
+  entry_id: 8duloh
   entry_content: |
-    <img src=https://i.redditmedia.com/zUeDeHQE17kaIxiI-3UCTz3NtAMllyuLlxE5MJPXgLU.jpg?s=2cd61758c4ca80abaa7bbacf8676f208 frameborder=0>
+    <img src=https://i.redditmedia.com/JNTQDotufjaTJYKIAIHxa5vJlUI2uyUcuHr1BUS5i80.jpg?s=ee1c452f4766a1a437283c3ec1029a35 frameborder=0>
 - entry_name: |
     Today I became a citizen. Here is my 1st dinner as an American.
   entry_id: 8drkta
@@ -107,11 +107,6 @@ data:
   entry_id: 8ds4js
   entry_content: |
     null
-- entry_name: |
-    Death For Rape Of Children Below 12, Says Indian Government, Clears Executive Order
-  entry_id: 8duloh
-  entry_content: |
-    <img src=https://i.redditmedia.com/JNTQDotufjaTJYKIAIHxa5vJlUI2uyUcuHr1BUS5i80.jpg?s=ee1c452f4766a1a437283c3ec1029a35 frameborder=0>
 - entry_name: |
     April 20th
   entry_id: 8dqwk6
@@ -133,10 +128,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mHhqJ1XmrR79-q0df8JyLrSfb4Q_C0n0AK9FPJA-L-o.jpg?s=a7bf5d69922f8ea8ed7ad1d9185dc4eb frameborder=0>
 - entry_name: |
+    Seal gets inside shark net and shows off his fishing skills
+  entry_id: 8dv1o9
+  entry_content: |
+    <iframe src=https://v.redd.it/zok37mpqk8t01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Bar in Portland Oregon has the weirdest items in it. (Including pre-addressed letters to Trump)
   entry_id: 8dt39a
   entry_content: |
     <img src=https://i.redditmedia.com/JLKP8dJLm3bFovn_3dtZFiO5KDraYnOCauXJ6mIv9pc.jpg?s=89f1174bc2e580cb39c786cb2fc0c39b frameborder=0>
+- entry_name: |
+    The door's open this time. Confidence.
+  entry_id: 8duwo7
+  entry_content: |
+    <img src=https://i.redditmedia.com/KFJygzVB0495KJO96TcsI5lIuEwDikgURO-BZuxfvV4.jpg?s=6cb726defbc1e42df16047d37b541c56 frameborder=0>
 - entry_name: |
     Happy 20th Birthday Athena! She is being extra feisty this morning for her birthday. 🎂
   entry_id: 8dr07z
@@ -158,15 +163,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gQBQ8DKY-q7iUv7yFtEzP_ALWXCV4O2X4oRD-Jyfra4.jpg?s=372ce86e34159ddab442e03f3e350b22 frameborder=0>
 - entry_name: |
-    Oh! Who lives under the highway down by the sea?
-  entry_id: 8dqn27
-  entry_content: |
-    <img src=https://i.redditmedia.com/-Kiv1XQMaCQEOw4KH0p6rFgBOcm0VMG7rLc8e7X6Ctg.jpg?s=61a1b98b22e3c26de65afb195438d0b5 frameborder=0>
-- entry_name: |
     Investment is Wide and Healthy
   entry_id: 8dszax
   entry_content: |
     <img src=https://i.redditmedia.com/cZaiRq8NEtcE1V1YMJI8vU63Bs1uGMKgWedpmZzYQf8.jpg?s=198351057b86be714c751c0a79d4723c frameborder=0>
+- entry_name: |
+    Oh! Who lives under the highway down by the sea?
+  entry_id: 8dqn27
+  entry_content: |
+    <img src=https://i.redditmedia.com/-Kiv1XQMaCQEOw4KH0p6rFgBOcm0VMG7rLc8e7X6Ctg.jpg?s=61a1b98b22e3c26de65afb195438d0b5 frameborder=0>
 - entry_name: |
     360-degree paradise drawing created with 120 marker pens.
   entry_id: 8dt1qg
@@ -178,15 +183,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vFM-Cm3-hI6oWd3TRt9a9fYyFJBbmkC0XffX6swcnOE.jpg?s=0dba8154b68ed1154911c099721f0902 frameborder=0>
 - entry_name: |
+    This 3D printed bionic arm
+  entry_id: 8ds5fc
+  entry_content: |
+    <iframe src=https://v.redd.it/fbcghuk4k5t01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Modified Boeing 747 Carrying the Space Shuttle Endeavour over Los Angeles
   entry_id: 8dpkc8
   entry_content: |
     <img src=https://i.redditmedia.com/ZXf9cKGvFIzA2K-xcsUC5OkOERCv_GIk_vnT6vr-dKA.jpg?s=9c2412b7a38d4b477069977dc1ad7c30 frameborder=0>
 - entry_name: |
-    This 3D printed bionic arm
-  entry_id: 8ds5fc
+    Criminal Gang in South Africa Attempt to Rob the Wrong Person
+  entry_id: 8du3re
   entry_content: |
-    <iframe src=https://v.redd.it/fbcghuk4k5t01/DASH_4_8_M frameborder=0></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHonestMenacingAphid&url=https%3A%2F%2Fgfycat.com%2FHonestMenacingAphid&image=https%3A%2F%2Fthumbs.gfycat.com%2FHonestMenacingAphid-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Found on r/niceguys
   entry_id: 8dry91
@@ -198,19 +208,24 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qHUwUTVE9duDIz6HVyjI8S74b69my-YUARvHPr8RhXo.jpg?s=3e91ead4e1fef720297ba58597b63b47 frameborder=0>
 - entry_name: |
-    Trump Fundraiser Offered Russian Gas Company Plan to Get Sanctions Lifted for $26 Million
-  entry_id: 8dpcmr
+    East German soldier helping a boy cross the new Berlin Wall, to reunite with his family. 1961.
+  entry_id: 8dshq7
   entry_content: |
-    <img src=https://i.redditmedia.com/EPK_cpNZg82ndjtbIivYQ9AnR9CyUATeBlocDx3TyAk.jpg?s=0723bd88e8f2c13663f1cbbd6623260a frameborder=0>
+    <img src=https://i.redditmedia.com/7kfaYkOVJi6DRLQZGJDm94OzPYBwnjE_gksOLo1H9cw.jpg?s=e03b1916a637909b4cb6c5ec294a915d frameborder=0>
 - entry_name: |
   entry_id: 8dr2wr
   entry_content: |
     <img src=https://i.redditmedia.com/5nXdtyFS5pxBEnTNAirt4yvh_8j0l2_B3CXroIf4tnk.jpg?s=86118e5fe0a1ff939408037e82231f9b frameborder=0>
 - entry_name: |
-    East German soldier helping a boy cross the new Berlin Wall, to reunite with his family. 1961.
-  entry_id: 8dshq7
+    Just a daily reminder that you ARE good at something, all of us are.
+  entry_id: 8du0no
   entry_content: |
-    <img src=https://i.redditmedia.com/7kfaYkOVJi6DRLQZGJDm94OzPYBwnjE_gksOLo1H9cw.jpg?s=e03b1916a637909b4cb6c5ec294a915d frameborder=0>
+    <img src=https://i.redditmedia.com/n4mqViZQCkzl4frogPggCqfEj8TrXqn37SHH4C8d72M.png?s=e16d2642cc8e7d2f6a206f618d26a56e frameborder=0>
+- entry_name: |
+    Max being a bro (link in comments)
+  entry_id: 8dt8sm
+  entry_content: |
+    <img src=https://i.redditmedia.com/k1-GyCDTA12leNAxzLbx2V66pI7VmyalxkurXP4em6c.jpg?s=746da3ccee93612164b206de610c588d frameborder=0>
 - entry_name: |
     Remember my post from yesterday about ASUS shipping my monitor back in pieces? This is what their shipping policy does to a $400 monitor. Thanks ASUS!
   entry_id: 8dpfip
@@ -222,33 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CnutaF0gFTsFVgiIOIt16GgkLW2liFtv8hPoXmeL7Pw.jpg?s=e341a6394edd530fa9a3cd7c28817c0b frameborder=0>
 - entry_name: |
-    Criminal Gang in South Africa Attempt to Rob the Wrong Person
-  entry_id: 8du3re
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHonestMenacingAphid&url=https%3A%2F%2Fgfycat.com%2FHonestMenacingAphid&image=https%3A%2F%2Fthumbs.gfycat.com%2FHonestMenacingAphid-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Humiliating: Leaked Tapes catch Trump posing as own spokesperson
   entry_id: 8dsdec
   entry_content: |
     <img src=https://i.redditmedia.com/kEKyvlE14iUkrYNolWsqIEZ7U1z9sIctffUnp9F-F3A.jpg?s=4b92f88acf43ffc14445c4ea85c4c22f frameborder=0>
 - entry_name: |
-    Seal gets inside shark net and shows off his fishing skills
-  entry_id: 8dv1o9
-  entry_content: |
-    <iframe src=https://v.redd.it/zok37mpqk8t01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Max being a bro (link in comments)
-  entry_id: 8dt8sm
-  entry_content: |
-    <img src=https://i.redditmedia.com/k1-GyCDTA12leNAxzLbx2V66pI7VmyalxkurXP4em6c.jpg?s=746da3ccee93612164b206de610c588d frameborder=0>
-- entry_name: |
-    A woman on a train is refusing to let a tired soldier sit down
-  entry_id: 8dpdj6
+    Do you know how to avoid clickbait?
+  entry_id: 8dtwct
   entry_content: |
     null
 - entry_name: |
-    My opening hand in words with Friends
-  entry_id: 8drm9v
+    I heard the sound of a chair scraping across cement so I went outside to investigate. This is what I found......
+  entry_id: 8dutk3
   entry_content: |
-    <img src=https://i.redditmedia.com/JlxsJzNyZSDjbsQQ72Xc_Ei2UC_jbB4hamXrkgeQy4A.png?s=aa27ae96de752b5e86c9155d600cfe4f frameborder=0>
+    <img src=https://i.redditmedia.com/6Oe95E03nGrJl18a88spRmAt1t5tUO6mmSO2rgdzG-0.jpg?s=d292bb8f5e280954bd87276d97d24bb5 frameborder=0>
 ---
