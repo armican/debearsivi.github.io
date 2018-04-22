@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/456qglzsrct01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Verne Troyer, best known as Mini-Me in Austin Powers, has died
-  entry_id: 8dyfb0
-  entry_content: |
-    <img src=https://i.redditmedia.com/vINexU2YcxaNRwfC_1Ms-nkqJN4ByoNMVkGFEURdDUc.jpg?s=cbfdbef79b3e0e92011118f38ed7d57d frameborder=0>
-- entry_name: |
     Pigeons looking badass
   entry_id: 8e2udm
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8e13gl
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConfusedPhonyGalapagoshawk&url=https%3A%2F%2Fgfycat.com%2FConfusedPhonyGalapagoshawk&image=https%3A%2F%2Fthumbs.gfycat.com%2FConfusedPhonyGalapagoshawk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Golden Bat Retriever
+  entry_id: 8e27sq
+  entry_content: |
+    <iframe src=https://v.redd.it/ujtvkmm2hft01/DASH_4_8_M frameborder=0></iframe>
 ---
