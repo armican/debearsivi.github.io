@@ -43,20 +43,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VYElyNJyV8N0YKLc1IIVWX3hkdg9mpwSMc-sHJe8P-Q.jpg?s=760147fe11cccaabdf25ac684f91dd04 frameborder=0>
 - entry_name: |
-    Near ground level wingtip vortices
-  entry_id: 8dyzv3
+    Ready to play some frisbee?
+  entry_id: 8e381i
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGleamingZealousBlacknorwegianelkhound&url=https%3A%2F%2Fgfycat.com%2FGleamingZealousBlacknorwegianelkhound&image=https%3A%2F%2Fthumbs.gfycat.com%2FGleamingZealousBlacknorwegianelkhound-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/drjg07dz7gt01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Bob Ross painting rocks like it's nothing
   entry_id: 8e2fdb
   entry_content: |
     <img src=https://i.redditmedia.com/Yzjgb_xemDKCbEhssq3UefY1MsTvbrlsFWbmf_wW96E.gif?fm=jpg&s=c30c60cb99b311b0b8db7b4132253662 frameborder=0>
 - entry_name: |
+    Near ground level wingtip vortices
+  entry_id: 8dyzv3
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGleamingZealousBlacknorwegianelkhound&url=https%3A%2F%2Fgfycat.com%2FGleamingZealousBlacknorwegianelkhound&image=https%3A%2F%2Fthumbs.gfycat.com%2FGleamingZealousBlacknorwegianelkhound-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     You haven't unlocked this area yet.
   entry_id: 8dzt65
   entry_content: |
     <iframe src=https://v.redd.it/6sbxysggtct01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Parking wasn't a issue for this Californian
+  entry_id: 8e2kj3
+  entry_content: |
+    <iframe src=https://v.redd.it/3dio60voyft01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     My sister's ridiculously photogenic cat Simba turns 11 today
   entry_id: 8e0g8e
@@ -78,15 +88,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zoBr0a03IIJUgeMeUcmwQvsK6XyI0CpKyImBcNV1Hdk.jpg?s=be49117f4155d9c922c6e9060fb028f3 frameborder=0>
 - entry_name: |
-    Ready to play some frisbee?
-  entry_id: 8e381i
+    TIL John F. Kennedy enjoyed a privileged childhood of elite private schools, sailboats, servants and summer homes during the Great Depression. He later claimed that he only learned about the Great Depression in the books he read while attending Harvard.
+  entry_id: 8e3o2h
   entry_content: |
-    <iframe src=https://v.redd.it/drjg07dz7gt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Parking wasn't a issue for this Californian
-  entry_id: 8e2kj3
-  entry_content: |
-    <iframe src=https://v.redd.it/3dio60voyft01/DASH_1_2_M frameborder=0></iframe>
+    null
 - entry_name: |
     Mood killer
   entry_id: 8e02wp
@@ -97,11 +102,6 @@ data:
   entry_id: 8dzh2o
   entry_content: |
     <iframe src=https://v.redd.it/xgordw25jct01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Play-Doh vs Hydraulic Press
-  entry_id: 8dyc8z
-  entry_content: |
-    <iframe src=https://v.redd.it/xla8ke0fmbt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Over the past 6 months. He’s grown a little.
   entry_id: 8dzyva
@@ -118,6 +118,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4LibCSNkjR8IuD5YkAMdzd4SFDs05sNgT1_DUv95Jmk.jpg?s=17442801eda7b565e05c994db9d46a04 frameborder=0>
 - entry_name: |
+    On my walk at dusk I found a spot that was perfectly half day, half night.
+  entry_id: 8e1nji
+  entry_content: |
+    <img src=https://i.redditmedia.com/IOkOWz8Ze_aLuLhEWGoxEOv9ATvyLy8HSUdlbqL6HxY.jpg?s=9cf389d8ef216a27d05df1ea07499b52 frameborder=0>
+- entry_name: |
     I was both proud and hurt by her response
   entry_id: 8dz6z2
   entry_content: |
@@ -128,40 +133,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yzIfHpiE8OEIF7ldPe8hkBZmhL2t12iAlg82-YjUiGQ.jpg?s=0f9c8067cf9c173adfb6e69695bd380f frameborder=0>
 - entry_name: |
-    On my walk at dusk I found a spot that was perfectly half day, half night.
-  entry_id: 8e1nji
+    Kratos Gets it
+  entry_id: 8e3q9z
   entry_content: |
-    <img src=https://i.redditmedia.com/IOkOWz8Ze_aLuLhEWGoxEOv9ATvyLy8HSUdlbqL6HxY.jpg?s=9cf389d8ef216a27d05df1ea07499b52 frameborder=0>
-- entry_name: |
-    TIL John F. Kennedy enjoyed a privileged childhood of elite private schools, sailboats, servants and summer homes during the Great Depression. He later claimed that he only learned about the Great Depression in the books he read while attending Harvard.
-  entry_id: 8e3o2h
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/ZmRgLSQW5c0nmtL6u8PPSQu93szhiUfhj-6l4D6tbkw.jpg?s=6b0ca60c69ad03e54f3aa49de3f235a3 frameborder=0>
 - entry_name: |
     A social absence and modern dating horror story
   entry_id: 8e2817
   entry_content: |
     <iframe src=https://v.redd.it/btv370sfhft01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Cripple_God here preaching the truth 🗑
+  entry_id: 8e1yzv
+  entry_content: |
+    <img src=https://i.redditmedia.com/KxOo-ph3LfLhjjbm7CcP0zxwRLIGCy4aqsOlZAR6o4M.jpg?s=580e7d5162a884326cced9b793702e90 frameborder=0>
+- entry_name: |
     Prince playing Purple Rain for the first time in front of an audience. They have no idea what they are witnessing. He Kills it.
   entry_id: 8dzqzv
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/rLzOgTRtQi0?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    Verne Troyer prepares for Shark Week
-  entry_id: 8dzxfv
-  entry_content: |
-    <img src=https://i.redditmedia.com/_4zafDqKylL0l2p_PeXP8vF50V6ABihH2kTjNaoSvTk.jpg?s=197a516172aaf2c9acf8a11685a5177d frameborder=0>
 - entry_name: |
     'Male contraceptive pill' successfully limits sperm activity without side effects, scientists find
   entry_id: 8dz8k5
   entry_content: |
     <img src=https://i.redditmedia.com/qmhTjAUSGO482V98Jwzc9e8UL3-TVF7iOBQNBV0mMQU.jpg?s=5e5f82222435ad1df4eac4a6733288a2 frameborder=0>
 - entry_name: |
-    Cripple_God here preaching the truth 🗑
-  entry_id: 8e1yzv
+    Verne Troyer prepares for Shark Week
+  entry_id: 8dzxfv
   entry_content: |
-    <img src=https://i.redditmedia.com/KxOo-ph3LfLhjjbm7CcP0zxwRLIGCy4aqsOlZAR6o4M.jpg?s=580e7d5162a884326cced9b793702e90 frameborder=0>
+    <img src=https://i.redditmedia.com/_4zafDqKylL0l2p_PeXP8vF50V6ABihH2kTjNaoSvTk.jpg?s=197a516172aaf2c9acf8a11685a5177d frameborder=0>
 - entry_name: |
     The candles you blow out on a birthday cake represent the years extinguished from your life
   entry_id: 8e1fqg
@@ -188,6 +188,26 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/wv321rfx1ct01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Minimum, ink, 4784x1500
+  entry_id: 8e1wjq
+  entry_content: |
+    <img src=https://i.redditmedia.com/caLqi09afWf12QwBprh1_9SZGsDA3ts4yS5nMcWeuxk.png?s=66e123f6d914627e853bb4a65b5e5fc0 frameborder=0>
+- entry_name: |
+    Vaesen
+  entry_id: 8e3bvq
+  entry_content: |
+    <iframe src=https://v.redd.it/cbftdthrsgt01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    I'll get them to their destination one way or another...
+  entry_id: 8e2cdr
+  entry_content: |
+    <iframe src=https://v.redd.it/qx9gepmzmft01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    moMmY RABBIT TRIes to Teach BABY RabbIt tO EaT bUt it rEfUSES AND fuCKiNg dies
+  entry_id: 8e2lpk
+  entry_content: |
+    <iframe src=https://v.redd.it/opbwliy10gt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
   entry_id: 8dz7cn
   entry_content: |
     <img src=https://i.redditmedia.com/gzJsntinEWNivN_Mww69ZeeQ90V1kj7YCHXBPB1zNSo.jpg?s=4d167847155f0682900e59c249f4d15c frameborder=0>
@@ -197,58 +217,38 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/d8UotcVeVYNF_cZ-BITYx5dftO_W5RvD2KeWQqT2Ps8.png?s=a20b9769e67788d65bb9af185acc4bea frameborder=0>
 - entry_name: |
+    My grandfather warned people that the Titanic would sink
+  entry_id: 8e393s
+  entry_content: |
+    null
+- entry_name: |
     He grew up so fast!
   entry_id: 8dz08c
   entry_content: |
     <img src=https://i.redditmedia.com/a-4LLald35JI45W541DLLSEUgY-dRZNMQyEVDjFUQSA.jpg?s=a28524545396e80c769bae0ee2b303e1 frameborder=0>
-- entry_name: |
-    Minimum, ink, 4784x1500
-  entry_id: 8e1wjq
-  entry_content: |
-    <img src=https://i.redditmedia.com/caLqi09afWf12QwBprh1_9SZGsDA3ts4yS5nMcWeuxk.png?s=66e123f6d914627e853bb4a65b5e5fc0 frameborder=0>
 - entry_name: |
     U.S. Marines driving through burning oil fields in Kuwait, 1991.
   entry_id: 8dzg32
   entry_content: |
     <img src=https://i.redditmedia.com/qKLWhT_PDfbP_2JsBrmZP4h9T0ESab-mV8uwGIajYGY.jpg?s=97d187fc193ed24b5809966e922614dc frameborder=0>
 - entry_name: |
-    moMmY RABBIT TRIes to Teach BABY RabbIt tO EaT bUt it rEfUSES AND fuCKiNg dies
-  entry_id: 8e2lpk
+    JUSTICE FOR: Orange Shirt Kid.
+  entry_id: 8e2wsl
   entry_content: |
-    <iframe src=https://v.redd.it/opbwliy10gt01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    I'll get them to their destination one way or another...
-  entry_id: 8e2cdr
-  entry_content: |
-    <iframe src=https://v.redd.it/qx9gepmzmft01/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/XEv6QN-yRR3hmJVvwC9Xb-4fmjCh8D7jJllRNwNaG5k.png?s=37d51e19c795c3ab740debaf932b345b frameborder=0>
 - entry_name: |
     How colorblind people see.
   entry_id: 8e1ph0
   entry_content: |
     <img src=https://i.redditmedia.com/SE5rESjdHJTeoUzq34Nffwy4mvDTZsNRNLtYyJBd12g.jpg?s=64c44e1ac4b472f6ecb84fcd51a3380b frameborder=0>
 - entry_name: |
-    I wish my parents were this cool
-  entry_id: 8e0mpv
+    🔥 This wild cheetah thought I got too close, and accidently gave me the best picture ever.
+  entry_id: 8e2af3
   entry_content: |
-    <iframe src=https://v.redd.it/404fzl6mkdt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Vaesen
-  entry_id: 8e3bvq
-  entry_content: |
-    <iframe src=https://v.redd.it/cbftdthrsgt01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/yDPvrRXHKFoXRkJzhw1qyb0cFTfr1r4e5w2FECIVkPo.jpg?s=9745e12ad8eecc70ef9175d493a770af frameborder=0>
 - entry_name: |
     My dog really loves me for me...
   entry_id: 8e13gl
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConfusedPhonyGalapagoshawk&url=https%3A%2F%2Fgfycat.com%2FConfusedPhonyGalapagoshawk&image=https%3A%2F%2Fthumbs.gfycat.com%2FConfusedPhonyGalapagoshawk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Just getting some McDonalds
-  entry_id: 8dz2aj
-  entry_content: |
-    <img src=https://i.redditmedia.com/CrQgnSZajEW_kQFpyb6kDx1KXxH1QbppBJ6AFf35GxM.gif?fm=jpg&s=58d49c611c9d7b652e95f81cceb7e03f frameborder=0>
-- entry_name: |
-    Laundry Chomper
-  entry_id: 8dynv3
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOldfashionedHarshArmednylonshrimp&url=https%3A%2F%2Fgfycat.com%2FOldfashionedHarshArmednylonshrimp&image=https%3A%2F%2Fthumbs.gfycat.com%2FOldfashionedHarshArmednylonshrimp-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
