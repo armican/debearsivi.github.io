@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UAqtYB7VG8BBPugI9EnZJbF2iNbdmkk_S3W066ukAac.jpg?s=336c084eaec23a49a0123070e3863c99 frameborder=0>
 - entry_name: |
-    PETA has to chill
-  entry_id: 8dxbpg
-  entry_content: |
-    <img src=https://i.redditmedia.com/5ell6ieqgvpda5J1Qc335H2uC4Lytv3WFTJ5u0ZyxVw.jpg?s=ae5d8d7de1c1eafaba30bb30f9e3ddf4 frameborder=0>
-- entry_name: |
     Nabi Tajima, last surviving person born in the 19th century, dies at age 117
   entry_id: 8e0nej
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_id: 8e0kk7
   entry_content: |
     <img src=https://i.redditmedia.com/yzIfHpiE8OEIF7ldPe8hkBZmhL2t12iAlg82-YjUiGQ.jpg?s=0f9c8067cf9c173adfb6e69695bd380f frameborder=0>
-- entry_name: |
-    Fan art
-  entry_id: 8dxbl2
-  entry_content: |
-    <img src=https://i.redditmedia.com/5kvh9JE4dpHUSbRuVfqNz1MjKAv7hLyeliEtb9H6k5o.jpg?s=f53b5f84d4dd9c25b9b62731c12de1d0 frameborder=0>
 - entry_name: |
     Perfect heart shaped strawberry
   entry_id: 8dxhn5
@@ -251,4 +241,14 @@ data:
   entry_id: 8dzg32
   entry_content: |
     <img src=https://i.redditmedia.com/qKLWhT_PDfbP_2JsBrmZP4h9T0ESab-mV8uwGIajYGY.jpg?s=97d187fc193ed24b5809966e922614dc frameborder=0>
+- entry_name: |
+    Fallout 4 face swap.
+  entry_id: 8e2i4m
+  entry_content: |
+    <img src=https://i.redditmedia.com/pLvO8f2YOVBTwYb9gxFKYJApRQKaVWZOGqNytQmb2AI.jpg?s=c2db7211e88d57d2b4a35f9098d0a2e9 frameborder=0>
+- entry_name: |
+    Just getting some McDonalds
+  entry_id: 8dz2aj
+  entry_content: |
+    <img src=https://i.redditmedia.com/CrQgnSZajEW_kQFpyb6kDx1KXxH1QbppBJ6AFf35GxM.gif?fm=jpg&s=58d49c611c9d7b652e95f81cceb7e03f frameborder=0>
 ---
