@@ -3,11 +3,6 @@ layout: post
 title: 23 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    Verne Troyer passed away today
-  entry_id: 8dy86c
-  entry_content: |
-    <img src=https://i.redditmedia.com/H6pMSUwhMOfQ8HIzFqQGWvnoPKLFlpo-Dzd29FgrIlU.jpg?s=af1d1359071142601e51a9651311e1b0 frameborder=0>
-- entry_name: |
     Roommate is a radiology major and today they x-rayed flowers. Thought you guys might enjoy
   entry_id: 8dzme6
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8dz2aj
   entry_content: |
     <img src=https://i.redditmedia.com/CrQgnSZajEW_kQFpyb6kDx1KXxH1QbppBJ6AFf35GxM.gif?fm=jpg&s=58d49c611c9d7b652e95f81cceb7e03f frameborder=0>
+- entry_name: |
+    Laundry Chomper
+  entry_id: 8dynv3
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOldfashionedHarshArmednylonshrimp&url=https%3A%2F%2Fgfycat.com%2FOldfashionedHarshArmednylonshrimp&image=https%3A%2F%2Fthumbs.gfycat.com%2FOldfashionedHarshArmednylonshrimp-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
