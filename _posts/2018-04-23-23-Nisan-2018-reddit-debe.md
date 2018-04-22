@@ -133,11 +133,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Xzt-k2_4eIQ8Q6_WEtpkTEJ0gbHIOOtQM2bNApV3di0.jpg?s=0c3c0b0f3009750df08e99b3187a5f01 frameborder=0>
 - entry_name: |
-    Toes before hoes
-  entry_id: 8dx80z
-  entry_content: |
-    <img src=https://i.redditmedia.com/xn9XCRs8MnAoOPcrFX_5Kcgbf7HhKjX4IzRplYfCl0Q.png?s=9c11255834447fa31ec787ac1db3d005 frameborder=0>
-- entry_name: |
     I was both proud and hurt by her response
   entry_id: 8dz6z2
   entry_content: |
@@ -238,11 +233,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/wv321rfx1ct01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When you realize Anakin turned to the dark side because he felt offended
-  entry_id: 8dx6tc
-  entry_content: |
-    <img src=https://i.redditmedia.com/VyxvhU7toXHPwbcRYOkugOsaDECZB_K5hzIvfQgb8FY.jpg?s=46304785eca188c272b452fad1a5ad76 frameborder=0>
-- entry_name: |
   entry_id: 8dz7cn
   entry_content: |
     <img src=https://i.redditmedia.com/gzJsntinEWNivN_Mww69ZeeQ90V1kj7YCHXBPB1zNSo.jpg?s=4d167847155f0682900e59c249f4d15c frameborder=0>
@@ -251,4 +241,14 @@ data:
   entry_id: 8dz08c
   entry_content: |
     <img src=https://i.redditmedia.com/a-4LLald35JI45W541DLLSEUgY-dRZNMQyEVDjFUQSA.jpg?s=a28524545396e80c769bae0ee2b303e1 frameborder=0>
+- entry_name: |
+    Gotta be straight up
+  entry_id: 8dzffj
+  entry_content: |
+    <img src=https://i.redditmedia.com/d8UotcVeVYNF_cZ-BITYx5dftO_W5RvD2KeWQqT2Ps8.png?s=a20b9769e67788d65bb9af185acc4bea frameborder=0>
+- entry_name: |
+    U.S. Marines driving through burning oil fields in Kuwait, 1991.
+  entry_id: 8dzg32
+  entry_content: |
+    <img src=https://i.redditmedia.com/qKLWhT_PDfbP_2JsBrmZP4h9T0ESab-mV8uwGIajYGY.jpg?s=97d187fc193ed24b5809966e922614dc frameborder=0>
 ---
