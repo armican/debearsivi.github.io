@@ -98,11 +98,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gvm8c2bdcbt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I brought home a new kitten today only to have it eaten by a bathroom towel.
-  entry_id: 8dxs4u
-  entry_content: |
-    <img src=https://i.redditmedia.com/Xmh-cmxwEP0c5KRu-sQLMhfWlqtFX-8MFejHEt2w7n4.jpg?s=8b62ba144040962f43ad6eff17079fc9 frameborder=0>
-- entry_name: |
     Play-Doh vs Hydraulic Press
   entry_id: 8dyc8z
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_id: 8e1nji
   entry_content: |
     <img src=https://i.redditmedia.com/IOkOWz8Ze_aLuLhEWGoxEOv9ATvyLy8HSUdlbqL6HxY.jpg?s=9cf389d8ef216a27d05df1ea07499b52 frameborder=0>
-- entry_name: |
-    Report: Gunfire and explosions have been reported outside the home of the Saudi King in Riyadh
-  entry_id: 8dxtgp
-  entry_content: |
-    <img src=https://i.redditmedia.com/VW-7ztHAH-_buex_GusmOGz8Bhzn2xmaz95SOS98jsU.jpg?s=41e4e1e7ec61f79fb69ac497942fd784 frameborder=0>
 - entry_name: |
     Prince playing Purple Rain for the first time in front of an audience. They have no idea what they are witnessing. He Kills it.
   entry_id: 8dzqzv
@@ -251,4 +241,14 @@ data:
   entry_id: 8e0mpv
   entry_content: |
     <iframe src=https://v.redd.it/404fzl6mkdt01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    My dog really loves me for me...
+  entry_id: 8e13gl
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConfusedPhonyGalapagoshawk&url=https%3A%2F%2Fgfycat.com%2FConfusedPhonyGalapagoshawk&image=https%3A%2F%2Fthumbs.gfycat.com%2FConfusedPhonyGalapagoshawk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Laundry Chomper
+  entry_id: 8dynv3
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOldfashionedHarshArmednylonshrimp&url=https%3A%2F%2Fgfycat.com%2FOldfashionedHarshArmednylonshrimp&image=https%3A%2F%2Fthumbs.gfycat.com%2FOldfashionedHarshArmednylonshrimp-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
