@@ -98,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kzFVQLuYpfVoFMHwUMTl8_LAjAas77YK91XH6yPVBjc.png?s=11e8eb93223525207ff1fcd81b920e2d frameborder=0>
 - entry_name: |
-    Plane boye so chill
-  entry_id: 8dxz40
-  entry_content: |
-    <iframe src=https://v.redd.it/gvm8c2bdcbt01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Fresh Squeezed Lemonade!
   entry_id: 8dzh2o
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8e13gl
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConfusedPhonyGalapagoshawk&url=https%3A%2F%2Fgfycat.com%2FConfusedPhonyGalapagoshawk&image=https%3A%2F%2Fthumbs.gfycat.com%2FConfusedPhonyGalapagoshawk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Just getting some McDonalds
+  entry_id: 8dz2aj
+  entry_content: |
+    <img src=https://i.redditmedia.com/CrQgnSZajEW_kQFpyb6kDx1KXxH1QbppBJ6AFf35GxM.gif?fm=jpg&s=58d49c611c9d7b652e95f81cceb7e03f frameborder=0>
 ---
