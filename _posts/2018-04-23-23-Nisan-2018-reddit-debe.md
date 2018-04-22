@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UAqtYB7VG8BBPugI9EnZJbF2iNbdmkk_S3W066ukAac.jpg?s=336c084eaec23a49a0123070e3863c99 frameborder=0>
 - entry_name: |
-    Get the FUCK outta here
-  entry_id: 8dxp14
-  entry_content: |
-    <iframe src=https://v.redd.it/bbc36rxl4bt01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Nabi Tajima, last surviving person born in the 19th century, dies at age 117
   entry_id: 8e0nej
   entry_content: |
@@ -157,11 +152,6 @@ data:
   entry_id: 8e1nji
   entry_content: |
     <img src=https://i.redditmedia.com/IOkOWz8Ze_aLuLhEWGoxEOv9ATvyLy8HSUdlbqL6HxY.jpg?s=9cf389d8ef216a27d05df1ea07499b52 frameborder=0>
-- entry_name: |
-    PsBattle: this dog in a liquor store
-  entry_id: 8dxmyu
-  entry_content: |
-    <img src=https://i.redditmedia.com/QU-jP40OPDdXbA0oIeaWbkHJ6kgQqdoQ8G0ArsqXx3w.jpg?s=9597064de0bf42ab791c8458af1d299e frameborder=0>
 - entry_name: |
     Report: Gunfire and explosions have been reported outside the home of the Saudi King in Riyadh
   entry_id: 8dxtgp
@@ -251,4 +241,14 @@ data:
   entry_id: 8dz2aj
   entry_content: |
     <img src=https://i.redditmedia.com/CrQgnSZajEW_kQFpyb6kDx1KXxH1QbppBJ6AFf35GxM.gif?fm=jpg&s=58d49c611c9d7b652e95f81cceb7e03f frameborder=0>
+- entry_name: |
+    How colorblind people see.
+  entry_id: 8e1ph0
+  entry_content: |
+    <img src=https://i.redditmedia.com/SE5rESjdHJTeoUzq34Nffwy4mvDTZsNRNLtYyJBd12g.jpg?s=64c44e1ac4b472f6ecb84fcd51a3380b frameborder=0>
+- entry_name: |
+    I wish my parents were this cool
+  entry_id: 8e0mpv
+  entry_content: |
+    <iframe src=https://v.redd.it/404fzl6mkdt01/DASH_9_6_M frameborder=0></iframe>
 ---
