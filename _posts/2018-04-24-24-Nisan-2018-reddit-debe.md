@@ -43,11 +43,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nnj66rpvwjt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Reviving an exhausted bumble bee with sugar water
-  entry_id: 8e5d8y
-  entry_content: |
-    <iframe src=https://v.redd.it/1zfyxakhnht01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Making a wrecking ball out of chocolate
   entry_id: 8e6mr5
   entry_content: |
@@ -227,11 +222,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xeguzn2ajkt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The Senate, is he?
-  entry_id: 8e5drx
-  entry_content: |
-    <img src=https://i.redditmedia.com/lV3BD6irz93QBWdSyHs8YeMTUSj-c7-rlLFc2iPCAuI.jpg?s=23d13e44860c4311c3d5e66e07b5d2c6 frameborder=0>
-- entry_name: |
     Jenna Fischer’s shirt is Michael’s grilled foot
   entry_id: 8e7oft
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8e73gb
   entry_content: |
     <img src=https://i.redditmedia.com/MFshmZK7SUzukO9aixze9Oq-zsYGaEy-oY0O-cXLYrU.jpg?s=2cd26269818ede55df8172dec70c1c50 frameborder=0>
+- entry_name: |
+    Puzzle Box
+  entry_id: 8e90ol
+  entry_content: |
+    <iframe src=https://v.redd.it/rrqeaj6oblt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I'm no architect but I think the design called for more bolts.
+  entry_id: 8e6bqz
+  entry_content: |
+    <img src=https://i.redditmedia.com/wEFmmSZtXV9cQ3j4WHeHNVEOEfymIavAEjmIfhE7zBU.jpg?s=e73e1dd33a0143ef64da8c838b720c4a frameborder=0>
 ---
