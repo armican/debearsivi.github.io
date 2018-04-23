@@ -8,20 +8,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zumyU6a-2IV5ifMsUPlCGGWb6Kb6hkMo29sZGvCHQxk.jpg?s=4977e6305c7399949d8c9102a7b454b0 frameborder=0>
 - entry_name: |
-    James Shaw Jr. was identified as the hero who helped stop the Waffle House shooter this morning. He says he doesn’t feel like a hero, which is exactly what you’d expect a real hero to say.
-  entry_id: 8e4w68
-  entry_content: |
-    <img src=https://i.redditmedia.com/F_pykxMo_yJpD3ifiFhbP2wPHue46vRKdhep7I7T9Yg.jpg?s=d16670817530e9438a0c391ae53a820d frameborder=0>
-- entry_name: |
     How to hold an N64 controller
   entry_id: 8e7xxg
   entry_content: |
     <iframe src=https://v.redd.it/9z9wo049dkt01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    The truth is out there
-  entry_id: 8e6wyo
-  entry_content: |
-    <iframe src=https://v.redd.it/05togw2rijt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Rain at my wedding gave us this great picture.
   entry_id: 8e54kv
@@ -182,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/11K-EHnEQ2V3cOvgh9xGVOMj-SyzThK1GXQ7-M1wegA.jpg?s=11cc0eb924bad6124fa218f67eb67c4c frameborder=0>
 - entry_name: |
-    Catching Snowflakes, Stefan Koidl, digital, 2018
-  entry_id: 8e4z1o
-  entry_content: |
-    <img src=https://i.redditmedia.com/H4Ds_HmCVhO-ViH11BbkZglG8zKQpHh1cktFhhKI6oU.jpg?s=71e262c0efd646542b7d9017628e42fb frameborder=0>
-- entry_name: |
     New CPR device
   entry_id: 8e732s
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8e85an
   entry_content: |
     <iframe src=https://v.redd.it/xeguzn2ajkt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The Senate, is he?
+  entry_id: 8e5drx
+  entry_content: |
+    <img src=https://i.redditmedia.com/lV3BD6irz93QBWdSyHs8YeMTUSj-c7-rlLFc2iPCAuI.jpg?s=23d13e44860c4311c3d5e66e07b5d2c6 frameborder=0>
+- entry_name: |
+    Jenna Fischer’s shirt is Michael’s grilled foot
+  entry_id: 8e7oft
+  entry_content: |
+    <img src=https://i.redditmedia.com/NBVHKMwb0uqvIvvYgu3PoxPZvAgO6BfUdGQgFgGZqxo.jpg?s=504e8a437fd0fcb2e0ff22d9388e3570 frameborder=0>
+- entry_name: |
+    The manul (or Pallas' cat) of Central Asia has the longest and densest fur of all the cat species.
+  entry_id: 8e5edx
+  entry_content: |
+    <img src=https://i.redditmedia.com/B0YtNbdblQ_MZJCrffc9oo0L8pCHf857Vjzob12T2hI.jpg?s=dcf828ea083d0dd69910a1dee1d0cef4 frameborder=0>
 ---
