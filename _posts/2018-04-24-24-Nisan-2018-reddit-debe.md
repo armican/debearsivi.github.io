@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mZ9PWaYcm4kAuw4hPmx5An9ZqG_ZZ8IxBOAJ0eKxRxA.jpg?s=fa2e7fa6a155271cd295c9dd53832761 frameborder=0>
 - entry_name: |
-    Rain at my wedding gave us this great picture.
-  entry_id: 8e54kv
-  entry_content: |
-    <img src=https://i.redditmedia.com/t5of5AaA4Vrh18xVaRZQ8NAJtlKYKqHOaMgAhEEvT-I.jpg?s=1f8f2d9796bbce4318393ac775918345 frameborder=0>
-- entry_name: |
     Here, take that!
   entry_id: 8eapaj
   entry_content: |
@@ -147,11 +142,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tKTIKQMGS7b-bgeJspZdcrCpiNPaAZjgQoBUxuzaWL4.jpg?s=5a944b231c01ed965933a9122f545ae6 frameborder=0>
 - entry_name: |
-    Keep his name out your mouth
-  entry_id: 8e57uk
-  entry_content: |
-    <img src=https://i.redditmedia.com/OqY42YAfwoDC8M9UL4pmjRKLpLU2Iu9KQ4753rBGhew.jpg?s=285d6127e6f18b364c5cde47b3da63e6 frameborder=0>
-- entry_name: |
     First ride for the kitty
   entry_id: 8e5q6h
   entry_content: |
@@ -161,11 +151,6 @@ data:
   entry_id: 8e9vaf
   entry_content: |
     <img src=https://i.redditmedia.com/XRTP_kruDa8WuoNjT3X1VEsHL_CNDLsXGxqxZn0XTrM.jpg?s=da8498cfc0888ee69c1e2bc632f9d4a1 frameborder=0>
-- entry_name: |
-    Better lovestory than twilight
-  entry_id: 8e54d9
-  entry_content: |
-    <iframe src=https://v.redd.it/aqpwjkti6it01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     TIL deer mothers will instinctively come to the rescue of a crying human baby.
   entry_id: 8eamxk
@@ -251,4 +236,19 @@ data:
   entry_id: 8e7oft
   entry_content: |
     <img src=https://i.redditmedia.com/NBVHKMwb0uqvIvvYgu3PoxPZvAgO6BfUdGQgFgGZqxo.jpg?s=504e8a437fd0fcb2e0ff22d9388e3570 frameborder=0>
+- entry_name: |
+    Pulitzer-winning reporter David Cay Johnston: “The evidence suggests Trump is a traitor”
+  entry_id: 8earc2
+  entry_content: |
+    <img src=https://i.redditmedia.com/X_f-gYoPsBBddAk8S6O-RgeArvhIbJplcM6mybkkaXk.jpg?s=7fa986f8e71dff3ad9a51affca4f2318 frameborder=0>
+- entry_name: |
+    The manul (or Pallas' cat) of Central Asia has the longest and densest fur of all the cat species.
+  entry_id: 8e5edx
+  entry_content: |
+    <img src=https://i.redditmedia.com/B0YtNbdblQ_MZJCrffc9oo0L8pCHf857Vjzob12T2hI.jpg?s=dcf828ea083d0dd69910a1dee1d0cef4 frameborder=0>
+- entry_name: |
+    Alberta woman 1st adult in Canada to be 'cured' of sickle cell anemia through stem cell transplant
+  entry_id: 8e73gb
+  entry_content: |
+    <img src=https://i.redditmedia.com/MFshmZK7SUzukO9aixze9Oq-zsYGaEy-oY0O-cXLYrU.jpg?s=2cd26269818ede55df8172dec70c1c50 frameborder=0>
 ---
