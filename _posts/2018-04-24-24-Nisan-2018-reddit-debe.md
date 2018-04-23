@@ -13,15 +13,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9z9wo049dkt01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Eminem Celebrates 10 Years of Sobriety
+  entry_id: 8e72da
+  entry_content: |
+    <img src=https://i.redditmedia.com/mZ9PWaYcm4kAuw4hPmx5An9ZqG_ZZ8IxBOAJ0eKxRxA.jpg?s=fa2e7fa6a155271cd295c9dd53832761 frameborder=0>
+- entry_name: |
     Rain at my wedding gave us this great picture.
   entry_id: 8e54kv
   entry_content: |
     <img src=https://i.redditmedia.com/t5of5AaA4Vrh18xVaRZQ8NAJtlKYKqHOaMgAhEEvT-I.jpg?s=1f8f2d9796bbce4318393ac775918345 frameborder=0>
 - entry_name: |
-    Eminem Celebrates 10 Years of Sobriety
-  entry_id: 8e72da
+    Here, take that!
+  entry_id: 8eapaj
   entry_content: |
-    <img src=https://i.redditmedia.com/mZ9PWaYcm4kAuw4hPmx5An9ZqG_ZZ8IxBOAJ0eKxRxA.jpg?s=fa2e7fa6a155271cd295c9dd53832761 frameborder=0>
+    <iframe src=https://v.redd.it/4fuv9nyp7nt01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Good boi attacks water snake damaging a Jeep
+  entry_id: 8eagw6
+  entry_content: |
+    <iframe src=https://v.redd.it/mbztbianwmt01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL that The Sex Pistols were asked by their manager to write a song called Submission, hoping they would write about bondage. Instead they wrote a song about a submarine mission.
   entry_id: 8e7q35
@@ -33,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vlmwDYG6q4odvGhG27W4-ReVJLWfDy9KbF-cUaMHBic.png?s=8a16aa33abc1827f8ec9f899a4588e64 frameborder=0>
 - entry_name: |
-    Good boi attacks water snake damaging a Jeep
-  entry_id: 8eagw6
-  entry_content: |
-    <iframe src=https://v.redd.it/mbztbianwmt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Give her to me!
   entry_id: 8e7eei
   entry_content: |
@@ -48,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1zfyxakhnht01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Here, take that!
-  entry_id: 8eapaj
-  entry_content: |
-    <iframe src=https://v.redd.it/4fuv9nyp7nt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Making a wrecking ball out of chocolate
   entry_id: 8e6mr5
   entry_content: |
@@ -62,6 +62,11 @@ data:
   entry_id: 8e6ci1
   entry_content: |
     <img src=https://i.redditmedia.com/Rj_6rp16WV9S9WqmGVRpg3UtZ3kmRwfRAzWgKkPie9Q.jpg?s=e78f00a3e27ac8f22f8f5b9a1c797614 frameborder=0>
+- entry_name: |
+    Hairpin Hotel
+  entry_id: 8easf1
+  entry_content: |
+    <img src=https://i.redditmedia.com/a1o5hQIjqkDFKdl50IVaJC0pUz1l4wlw_hd8UT8gPPQ.jpg?s=0b60a1e269bea6fdcdb76aa2e9b40daf frameborder=0>
 - entry_name: |
   entry_id: 8e8u1u
   entry_content: |
@@ -82,40 +87,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gLgaV4B4dQ47-FLN8thYdqAdoSmC89i6w-Si5562roc.jpg?s=f190e9208c1ba8da224f030bd920edcf frameborder=0>
 - entry_name: |
-    This statue looks like it continues on forever.
-  entry_id: 8e6baq
-  entry_content: |
-    <img src=https://i.redditmedia.com/6FhauILGA_NjIEHSD2OmtI_bM0SYhWSakIkkx_o1nZQ.jpg?s=9c23938b6cd1e5573e3049978ff5cc75 frameborder=0>
-- entry_name: |
     Kris Bryant's helmet does a 360 on his head after being hit with a pitch.
   entry_id: 8e8hnh
   entry_content: |
     <iframe src=https://v.redd.it/rrebvndstkt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Billionaire former mayor of New York Michael Bloomberg has said he will write a $4.5m cheque to cover the US’s financial commitment to the Paris Climate agreement for 2018...says he hopes Donald Trump will change his mind and rejoin the pact next year.
-  entry_id: 8eai2r
+    This statue looks like it continues on forever.
+  entry_id: 8e6baq
   entry_content: |
-    <img src=https://i.redditmedia.com/EX0IXV_djydN_v0f8PcK59Y3t8HYBbJbqZ9gzKSC7UM.jpg?s=aa0843476a3876c24b6ad2311d9b8a28 frameborder=0>
+    <img src=https://i.redditmedia.com/6FhauILGA_NjIEHSD2OmtI_bM0SYhWSakIkkx_o1nZQ.jpg?s=9c23938b6cd1e5573e3049978ff5cc75 frameborder=0>
 - entry_name: |
     Donald Trump playing golf in his own club. West Palm Beach, Florida, 2010.
   entry_id: 8e7eg8
   entry_content: |
     <img src=https://i.redditmedia.com/1vdJBKKrHrIuXYXq49Eyn2I04l6drbJ205oBu_j1F-s.jpg?s=0ffee2b4c69369040c4ade0c5d14bb86 frameborder=0>
 - entry_name: |
-    Hairpin Hotel
-  entry_id: 8easf1
+    It really do be like that sometimes
+  entry_id: 8e938h
   entry_content: |
-    <img src=https://i.redditmedia.com/a1o5hQIjqkDFKdl50IVaJC0pUz1l4wlw_hd8UT8gPPQ.jpg?s=0b60a1e269bea6fdcdb76aa2e9b40daf frameborder=0>
+    <img src=https://i.redditmedia.com/SKOIO3qw5hwfLjd-8fYPFe0vlrVvSmgOkXSSTMqa6fU.jpg?s=d5a5ca18cd079663768b417be5ca9691 frameborder=0>
 - entry_name: |
     MRW I take the cookies out of the oven but forget spray down the baking sheet beforehand
   entry_id: 8e7r7o
   entry_content: |
     <iframe src=https://v.redd.it/0wx8offa7kt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    It really do be like that sometimes
-  entry_id: 8e938h
+    Infinity War Begins.
+  entry_id: 8earkx
   entry_content: |
-    <img src=https://i.redditmedia.com/SKOIO3qw5hwfLjd-8fYPFe0vlrVvSmgOkXSSTMqa6fU.jpg?s=d5a5ca18cd079663768b417be5ca9691 frameborder=0>
+    <img src=https://i.redditmedia.com/W_rfG8bOPqd2-S7WRQBRey39-9OYlf0ImRirkfWmNhM.jpg?s=258cde9dab9f4244a702fa00875e6144 frameborder=0>
+- entry_name: |
+    Boy, 12, steals credit card and goes on Bali holiday after fight with mother
+  entry_id: 8eah6o
+  entry_content: |
+    <img src=https://i.redditmedia.com/2V_Hd1SUCYJ8h0gHqJ3EiEK44k3y0saa5KaKnGD0oz8.jpg?s=947027b6731faf27f05e7e4a13e8f3f0 frameborder=0>
 - entry_name: |
     How to teach your kids to toughen up
   entry_id: 8e81jq
@@ -137,6 +142,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/w9yrpkt3sjt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    An immigrant father returned to a bookstore where he taught himself English sixty years ago to pick up his son's new novel
+  entry_id: 8e8aqx
+  entry_content: |
+    <img src=https://i.redditmedia.com/tKTIKQMGS7b-bgeJspZdcrCpiNPaAZjgQoBUxuzaWL4.jpg?s=5a944b231c01ed965933a9122f545ae6 frameborder=0>
+- entry_name: |
     Keep his name out your mouth
   entry_id: 8e57uk
   entry_content: |
@@ -147,30 +157,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7smxiyyfc9JUAHY700M6yjYW2lQr4igzajqRPL8Q_o0.jpg?s=0048f260f6df98538894241dad76475d frameborder=0>
 - entry_name: |
-    An immigrant father returned to a bookstore where he taught himself English sixty years ago to pick up his son's new novel
-  entry_id: 8e8aqx
+    The eye of answers
+  entry_id: 8e9vaf
   entry_content: |
-    <img src=https://i.redditmedia.com/tKTIKQMGS7b-bgeJspZdcrCpiNPaAZjgQoBUxuzaWL4.jpg?s=5a944b231c01ed965933a9122f545ae6 frameborder=0>
+    <img src=https://i.redditmedia.com/XRTP_kruDa8WuoNjT3X1VEsHL_CNDLsXGxqxZn0XTrM.jpg?s=da8498cfc0888ee69c1e2bc632f9d4a1 frameborder=0>
 - entry_name: |
     Better lovestory than twilight
   entry_id: 8e54d9
   entry_content: |
     <iframe src=https://v.redd.it/aqpwjkti6it01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Boy, 12, steals credit card and goes on Bali holiday after fight with mother
-  entry_id: 8eah6o
+    TIL deer mothers will instinctively come to the rescue of a crying human baby.
+  entry_id: 8eamxk
   entry_content: |
-    <img src=https://i.redditmedia.com/2V_Hd1SUCYJ8h0gHqJ3EiEK44k3y0saa5KaKnGD0oz8.jpg?s=947027b6731faf27f05e7e4a13e8f3f0 frameborder=0>
+    <img src=https://i.redditmedia.com/7gibV1eAZH-UTk-8N9jaYDAAxnPlkM3YNOtBO0yJg1Y.jpg?s=61c154b4320387e3ff64100fea6dec1c frameborder=0>
 - entry_name: |
     Amen 🙏
   entry_id: 8e64il
   entry_content: |
     <img src=https://i.redditmedia.com/--VgqUNXyxS3W4EVSdXlDcsZxlq2UIBRXnr3gSBdpY4.jpg?s=09467231ccb0cdd5b9638b23ecb17c1b frameborder=0>
 - entry_name: |
-    Thank you for adding my skin suggestion! Had to buy it myself tho :(
-  entry_id: 8e52g3
+    Only one way down
+  entry_id: 8e8021
   entry_content: |
-    <img src=https://i.redditmedia.com/11K-EHnEQ2V3cOvgh9xGVOMj-SyzThK1GXQ7-M1wegA.jpg?s=11cc0eb924bad6124fa218f67eb67c4c frameborder=0>
+    <iframe src=https://v.redd.it/b8mrlzn3fkt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     New CPR device
   entry_id: 8e732s
@@ -182,45 +192,40 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The eye of answers
-  entry_id: 8e9vaf
-  entry_content: |
-    <img src=https://i.redditmedia.com/XRTP_kruDa8WuoNjT3X1VEsHL_CNDLsXGxqxZn0XTrM.jpg?s=da8498cfc0888ee69c1e2bc632f9d4a1 frameborder=0>
-- entry_name: |
-    Only one way down
-  entry_id: 8e8021
-  entry_content: |
-    <iframe src=https://v.redd.it/b8mrlzn3fkt01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     The Rock Drops Big Surprise on High School Student Who Asked Him to Prom
   entry_id: 8e672i
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/mCfOhEx2ZGU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Infinity War Begins.
-  entry_id: 8earkx
+    These rainbowless Skittles
+  entry_id: 8eb277
   entry_content: |
-    <img src=https://i.redditmedia.com/W_rfG8bOPqd2-S7WRQBRey39-9OYlf0ImRirkfWmNhM.jpg?s=258cde9dab9f4244a702fa00875e6144 frameborder=0>
+    <img src=https://i.redditmedia.com/B6BqqW6LFHsuVcplLTFz_CQTVfYeJevJrPafIvxMItU.jpg?s=3c53c3f35ea5db96abd5a4fcca7fff7f frameborder=0>
 - entry_name: |
     me_irl
   entry_id: 8e89en
   entry_content: |
     <img src=https://i.redditmedia.com/s4UGq7QV4WDMYGeQSLqIV60HFa_hqKFAI8mWR2Rt6o4.png?s=88fb57a7e0fc22ae85655d712884cfe2 frameborder=0>
 - entry_name: |
-    TIL deer mothers will instinctively come to the rescue of a crying human baby.
-  entry_id: 8eamxk
+    My roommate made me my very own custom made, machined, all metal Companion Cube. It's so beautiful and I'll never be lonely as long as I own it.
+  entry_id: 8ebalm
   entry_content: |
-    <img src=https://i.redditmedia.com/7gibV1eAZH-UTk-8N9jaYDAAxnPlkM3YNOtBO0yJg1Y.jpg?s=61c154b4320387e3ff64100fea6dec1c frameborder=0>
+    <img src=https://i.redditmedia.com/oZWxJqf0Szxz7QAJyRCslJZcLglxkL7ZZFhzGiNABpw.jpg?s=5299cb29071a80da302429080edac967 frameborder=0>
+- entry_name: |
+    Supporters of rival teams come face to face in the streets of Naples, and it is a bloodbath
+  entry_id: 8e9esh
+  entry_content: |
+    <iframe src=https://v.redd.it/7u411ii1plt01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Boo
   entry_id: 8e7a4x
   entry_content: |
     <img src=https://i.redditmedia.com/EdTL1WdYb3EmGYEUzMJvtlgjk6aC6xPrNujMSrVjSk4.jpg?s=6715cfdb206af5fa1339ba7084ea115a frameborder=0>
 - entry_name: |
-    Supporters of rival teams come face to face in the streets of Naples, and it is a bloodbath
-  entry_id: 8e9esh
+    How a burger advertisement is filmed
+  entry_id: 8eb1sk
   entry_content: |
-    <iframe src=https://v.redd.it/7u411ii1plt01/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/na3f9t20jnt01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Milwaukee's Matthew Dellavedova steals rolling inbound pass to beat the buzzer
   entry_id: 8e64uv
@@ -246,9 +251,4 @@ data:
   entry_id: 8e7oft
   entry_content: |
     <img src=https://i.redditmedia.com/NBVHKMwb0uqvIvvYgu3PoxPZvAgO6BfUdGQgFgGZqxo.jpg?s=504e8a437fd0fcb2e0ff22d9388e3570 frameborder=0>
-- entry_name: |
-    The manul (or Pallas' cat) of Central Asia has the longest and densest fur of all the cat species.
-  entry_id: 8e5edx
-  entry_content: |
-    <img src=https://i.redditmedia.com/B0YtNbdblQ_MZJCrffc9oo0L8pCHf857Vjzob12T2hI.jpg?s=dcf828ea083d0dd69910a1dee1d0cef4 frameborder=0>
 ---
