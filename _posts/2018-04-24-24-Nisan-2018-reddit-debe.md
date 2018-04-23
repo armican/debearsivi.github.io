@@ -152,11 +152,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/na3f9t20jnt01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    First ride for the kitty
-  entry_id: 8e5q6h
-  entry_content: |
-    <img src=https://i.redditmedia.com/7smxiyyfc9JUAHY700M6yjYW2lQr4igzajqRPL8Q_o0.jpg?s=0048f260f6df98538894241dad76475d frameborder=0>
-- entry_name: |
     TIL deer mothers will instinctively come to the rescue of a crying human baby.
   entry_id: 8eamxk
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8eav6p
   entry_content: |
     <img src=https://i.redditmedia.com/h-oPcO4wQ-pGmvPhXnongZ2FTBfCTAcYa0IJ7VftN9c.jpg?s=58a4c6a279201daf1fed1b9e3b705a2a frameborder=0>
+- entry_name: |
+    WCGW if I just sneak under here...?
+  entry_id: 8e8lje
+  entry_content: |
+    <iframe src=https://v.redd.it/hn3mea69xkt01/DASH_600_K frameborder=0></iframe>
 ---
