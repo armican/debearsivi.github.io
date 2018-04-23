@@ -13,15 +13,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9z9wo049dkt01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Eminem Celebrates 10 Years of Sobriety
-  entry_id: 8e72da
-  entry_content: |
-    <img src=https://i.redditmedia.com/mZ9PWaYcm4kAuw4hPmx5An9ZqG_ZZ8IxBOAJ0eKxRxA.jpg?s=fa2e7fa6a155271cd295c9dd53832761 frameborder=0>
-- entry_name: |
     Here, take that!
   entry_id: 8eapaj
   entry_content: |
     <iframe src=https://v.redd.it/4fuv9nyp7nt01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Eminem Celebrates 10 Years of Sobriety
+  entry_id: 8e72da
+  entry_content: |
+    <img src=https://i.redditmedia.com/mZ9PWaYcm4kAuw4hPmx5An9ZqG_ZZ8IxBOAJ0eKxRxA.jpg?s=fa2e7fa6a155271cd295c9dd53832761 frameborder=0>
 - entry_name: |
     Good boi attacks water snake damaging a Jeep
   entry_id: 8eagw6
@@ -38,25 +38,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vlmwDYG6q4odvGhG27W4-ReVJLWfDy9KbF-cUaMHBic.png?s=8a16aa33abc1827f8ec9f899a4588e64 frameborder=0>
 - entry_name: |
+    Hairpin Hotel
+  entry_id: 8easf1
+  entry_content: |
+    <img src=https://i.redditmedia.com/a1o5hQIjqkDFKdl50IVaJC0pUz1l4wlw_hd8UT8gPPQ.jpg?s=0b60a1e269bea6fdcdb76aa2e9b40daf frameborder=0>
+- entry_name: |
     Give her to me!
   entry_id: 8e7eei
   entry_content: |
     <iframe src=https://v.redd.it/nnj66rpvwjt01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Making a wrecking ball out of chocolate
-  entry_id: 8e6mr5
-  entry_content: |
-    <iframe src=https://v.redd.it/rxpbh7z57jt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     I didnt want a cat but my wife did. So we compromised and got a cat. Best. Compromise. Ever.
   entry_id: 8e6ci1
   entry_content: |
     <img src=https://i.redditmedia.com/Rj_6rp16WV9S9WqmGVRpg3UtZ3kmRwfRAzWgKkPie9Q.jpg?s=e78f00a3e27ac8f22f8f5b9a1c797614 frameborder=0>
 - entry_name: |
-    Hairpin Hotel
-  entry_id: 8easf1
+    Making a wrecking ball out of chocolate
+  entry_id: 8e6mr5
   entry_content: |
-    <img src=https://i.redditmedia.com/a1o5hQIjqkDFKdl50IVaJC0pUz1l4wlw_hd8UT8gPPQ.jpg?s=0b60a1e269bea6fdcdb76aa2e9b40daf frameborder=0>
+    <iframe src=https://v.redd.it/rxpbh7z57jt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
   entry_id: 8e8u1u
   entry_content: |
@@ -67,20 +67,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/r888caqmvit01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    The girl didn't know this guy was the owner of the car
-  entry_id: 8e5ief
+    Kris Bryant's helmet does a 360 on his head after being hit with a pitch.
+  entry_id: 8e8hnh
   entry_content: |
-    <iframe src=https://v.redd.it/wvqu9b661it01/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/rrebvndstkt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     TIL The 8 hour workday was devised so that workers could evenly divide 24 hours between: Eight hours' labour, Eight hours' recreation, Eight hours' rest
   entry_id: 8e6m7r
   entry_content: |
     <img src=https://i.redditmedia.com/gLgaV4B4dQ47-FLN8thYdqAdoSmC89i6w-Si5562roc.jpg?s=f190e9208c1ba8da224f030bd920edcf frameborder=0>
-- entry_name: |
-    Kris Bryant's helmet does a 360 on his head after being hit with a pitch.
-  entry_id: 8e8hnh
-  entry_content: |
-    <iframe src=https://v.redd.it/rrebvndstkt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     This statue looks like it continues on forever.
   entry_id: 8e6baq
@@ -97,11 +92,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SKOIO3qw5hwfLjd-8fYPFe0vlrVvSmgOkXSSTMqa6fU.jpg?s=d5a5ca18cd079663768b417be5ca9691 frameborder=0>
 - entry_name: |
-    MRW I take the cookies out of the oven but forget spray down the baking sheet beforehand
-  entry_id: 8e7r7o
-  entry_content: |
-    <iframe src=https://v.redd.it/0wx8offa7kt01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Infinity War Begins.
   entry_id: 8earkx
   entry_content: |
@@ -111,6 +101,16 @@ data:
   entry_id: 8eah6o
   entry_content: |
     <img src=https://i.redditmedia.com/2V_Hd1SUCYJ8h0gHqJ3EiEK44k3y0saa5KaKnGD0oz8.jpg?s=947027b6731faf27f05e7e4a13e8f3f0 frameborder=0>
+- entry_name: |
+    MRW I take the cookies out of the oven but forget spray down the baking sheet beforehand
+  entry_id: 8e7r7o
+  entry_content: |
+    <iframe src=https://v.redd.it/0wx8offa7kt01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    My roommate made me my very own custom made, machined, all metal Companion Cube. It's so beautiful and I'll never be lonely as long as I own it.
+  entry_id: 8ebalm
+  entry_content: |
+    <img src=https://i.redditmedia.com/oZWxJqf0Szxz7QAJyRCslJZcLglxkL7ZZFhzGiNABpw.jpg?s=5299cb29071a80da302429080edac967 frameborder=0>
 - entry_name: |
     How to teach your kids to toughen up
   entry_id: 8e81jq
@@ -127,6 +127,16 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLateOrdinaryCaudata&url=https%3A%2F%2Fgfycat.com%2FLateOrdinaryCaudata&image=https%3A%2F%2Fthumbs.gfycat.com%2FLateOrdinaryCaudata-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
+    These rainbowless Skittles
+  entry_id: 8eb277
+  entry_content: |
+    <img src=https://i.redditmedia.com/B6BqqW6LFHsuVcplLTFz_CQTVfYeJevJrPafIvxMItU.jpg?s=3c53c3f35ea5db96abd5a4fcca7fff7f frameborder=0>
+- entry_name: |
+    The eye of answers
+  entry_id: 8e9vaf
+  entry_content: |
+    <img src=https://i.redditmedia.com/XRTP_kruDa8WuoNjT3X1VEsHL_CNDLsXGxqxZn0XTrM.jpg?s=da8498cfc0888ee69c1e2bc632f9d4a1 frameborder=0>
+- entry_name: |
     So that's how Chocolate Labs are made.
   entry_id: 8e78mt
   entry_content: |
@@ -137,15 +147,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tKTIKQMGS7b-bgeJspZdcrCpiNPaAZjgQoBUxuzaWL4.jpg?s=5a944b231c01ed965933a9122f545ae6 frameborder=0>
 - entry_name: |
+    How a burger advertisement is filmed
+  entry_id: 8eb1sk
+  entry_content: |
+    <iframe src=https://v.redd.it/na3f9t20jnt01/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     First ride for the kitty
   entry_id: 8e5q6h
   entry_content: |
     <img src=https://i.redditmedia.com/7smxiyyfc9JUAHY700M6yjYW2lQr4igzajqRPL8Q_o0.jpg?s=0048f260f6df98538894241dad76475d frameborder=0>
-- entry_name: |
-    The eye of answers
-  entry_id: 8e9vaf
-  entry_content: |
-    <img src=https://i.redditmedia.com/XRTP_kruDa8WuoNjT3X1VEsHL_CNDLsXGxqxZn0XTrM.jpg?s=da8498cfc0888ee69c1e2bc632f9d4a1 frameborder=0>
 - entry_name: |
     TIL deer mothers will instinctively come to the rescue of a crying human baby.
   entry_id: 8eamxk
@@ -177,20 +187,10 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/mCfOhEx2ZGU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    These rainbowless Skittles
-  entry_id: 8eb277
-  entry_content: |
-    <img src=https://i.redditmedia.com/B6BqqW6LFHsuVcplLTFz_CQTVfYeJevJrPafIvxMItU.jpg?s=3c53c3f35ea5db96abd5a4fcca7fff7f frameborder=0>
-- entry_name: |
     me_irl
   entry_id: 8e89en
   entry_content: |
     <img src=https://i.redditmedia.com/s4UGq7QV4WDMYGeQSLqIV60HFa_hqKFAI8mWR2Rt6o4.png?s=88fb57a7e0fc22ae85655d712884cfe2 frameborder=0>
-- entry_name: |
-    My roommate made me my very own custom made, machined, all metal Companion Cube. It's so beautiful and I'll never be lonely as long as I own it.
-  entry_id: 8ebalm
-  entry_content: |
-    <img src=https://i.redditmedia.com/oZWxJqf0Szxz7QAJyRCslJZcLglxkL7ZZFhzGiNABpw.jpg?s=5299cb29071a80da302429080edac967 frameborder=0>
 - entry_name: |
     Supporters of rival teams come face to face in the streets of Naples, and it is a bloodbath
   entry_id: 8e9esh
@@ -202,53 +202,53 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EdTL1WdYb3EmGYEUzMJvtlgjk6aC6xPrNujMSrVjSk4.jpg?s=6715cfdb206af5fa1339ba7084ea115a frameborder=0>
 - entry_name: |
-    How a burger advertisement is filmed
-  entry_id: 8eb1sk
-  entry_content: |
-    <iframe src=https://v.redd.it/na3f9t20jnt01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Milwaukee's Matthew Dellavedova steals rolling inbound pass to beat the buzzer
   entry_id: 8e64uv
   entry_content: |
     <iframe src=https://v.redd.it/60g33jsxwit01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    For brown widow spiders, sex is literally a matter of life and death. If a male chooses an adult female, chances are roughly 50/50 that she’ll eat him afterward. But if he mates with a younger subadult female, she’ll let him live to see another day. Despite this, the males prefer older mates.
-  entry_id: 8e79xy
-  entry_content: |
-    <img src=https://i.redditmedia.com/T8s5ocfcHzhfO1fJ4t1vIQr3xzk-tjI-JZZ5yIbf_FU.jpg?s=f645f9f9e845788b5fdd7b6c27613a97 frameborder=0>
 - entry_name: |
     So sweet....
   entry_id: 8e85an
   entry_content: |
     <iframe src=https://v.redd.it/xeguzn2ajkt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Jenna Fischer’s shirt is Michael’s grilled foot
-  entry_id: 8e7oft
+    For brown widow spiders, sex is literally a matter of life and death. If a male chooses an adult female, chances are roughly 50/50 that she’ll eat him afterward. But if he mates with a younger subadult female, she’ll let him live to see another day. Despite this, the males prefer older mates.
+  entry_id: 8e79xy
   entry_content: |
-    <img src=https://i.redditmedia.com/NBVHKMwb0uqvIvvYgu3PoxPZvAgO6BfUdGQgFgGZqxo.jpg?s=504e8a437fd0fcb2e0ff22d9388e3570 frameborder=0>
+    <img src=https://i.redditmedia.com/T8s5ocfcHzhfO1fJ4t1vIQr3xzk-tjI-JZZ5yIbf_FU.jpg?s=f645f9f9e845788b5fdd7b6c27613a97 frameborder=0>
 - entry_name: |
     Pulitzer-winning reporter David Cay Johnston: “The evidence suggests Trump is a traitor”
   entry_id: 8earc2
   entry_content: |
     <img src=https://i.redditmedia.com/X_f-gYoPsBBddAk8S6O-RgeArvhIbJplcM6mybkkaXk.jpg?s=7fa986f8e71dff3ad9a51affca4f2318 frameborder=0>
 - entry_name: |
-    The manul (or Pallas' cat) of Central Asia has the longest and densest fur of all the cat species.
-  entry_id: 8e5edx
+    Jenna Fischer’s shirt is Michael’s grilled foot
+  entry_id: 8e7oft
   entry_content: |
-    <img src=https://i.redditmedia.com/B0YtNbdblQ_MZJCrffc9oo0L8pCHf857Vjzob12T2hI.jpg?s=dcf828ea083d0dd69910a1dee1d0cef4 frameborder=0>
+    <img src=https://i.redditmedia.com/NBVHKMwb0uqvIvvYgu3PoxPZvAgO6BfUdGQgFgGZqxo.jpg?s=504e8a437fd0fcb2e0ff22d9388e3570 frameborder=0>
 - entry_name: |
-    Alberta woman 1st adult in Canada to be 'cured' of sickle cell anemia through stem cell transplant
-  entry_id: 8e73gb
+    Heck the police
+  entry_id: 8ebb6r
   entry_content: |
-    <img src=https://i.redditmedia.com/MFshmZK7SUzukO9aixze9Oq-zsYGaEy-oY0O-cXLYrU.jpg?s=2cd26269818ede55df8172dec70c1c50 frameborder=0>
+    <iframe src=https://v.redd.it/0n1izg89ont01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Puzzle Box
   entry_id: 8e90ol
   entry_content: |
     <iframe src=https://v.redd.it/rrqeaj6oblt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Alberta woman 1st adult in Canada to be 'cured' of sickle cell anemia through stem cell transplant
+  entry_id: 8e73gb
+  entry_content: |
+    <img src=https://i.redditmedia.com/MFshmZK7SUzukO9aixze9Oq-zsYGaEy-oY0O-cXLYrU.jpg?s=2cd26269818ede55df8172dec70c1c50 frameborder=0>
+- entry_name: |
     I'm no architect but I think the design called for more bolts.
   entry_id: 8e6bqz
   entry_content: |
     <img src=https://i.redditmedia.com/wEFmmSZtXV9cQ3j4WHeHNVEOEfymIavAEjmIfhE7zBU.jpg?s=e73e1dd33a0143ef64da8c838b720c4a frameborder=0>
+- entry_name: |
+    TIL about the Oh-My-God Particle, a proton traveling at about 99.99999999999999999999951% the speed of light. It is the fastest moving object ever recorded and as it hit the atmosphere it carried the kinetic energy equivalent to a baseball traveling at 50MPH, all in one particle.
+  entry_id: 8eav6p
+  entry_content: |
+    <img src=https://i.redditmedia.com/h-oPcO4wQ-pGmvPhXnongZ2FTBfCTAcYa0IJ7VftN9c.jpg?s=58a4c6a279201daf1fed1b9e3b705a2a frameborder=0>
 ---
