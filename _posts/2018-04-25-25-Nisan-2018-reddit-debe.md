@@ -1,0 +1,252 @@
+---
+layout: post
+title: 25 Nisan 2018 Reddit Debe
+data:
+- entry_name: |
+    My kids were in a race so I made a poster to cheer them on
+  entry_id: 8edgs2
+  entry_content: |
+    <iframe src=https://v.redd.it/sqrs9wen5pt01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    An elderly Lion in his final hours. Photograph by Larry Pannell.
+  entry_id: 8efb4m
+  entry_content: |
+    <img src=https://i.redditmedia.com/MfEY7DehWy6mapHrIcNMmj9uq4jNAmVnvMIUCasM8fk.jpg?s=42792f31a74fa8525527143e9bc11cf6 frameborder=0>
+- entry_name: |
+    TIL psychologist László Polgár theorized that any child could become a genius in a chosen field with early training. As an experiment, he trained his daughters in chess from age 4. All three went on to become chess prodigies, and the youngest, Judit, is considered the best female player in history.
+  entry_id: 8eetoo
+  entry_content: |
+    null
+- entry_name: |
+    Brothas can’t ever catch a break man
+  entry_id: 8eehm3
+  entry_content: |
+    <img src=https://i.redditmedia.com/VALHDrooN-bBrvboLox0RzT80dJhN3G9hdYQAnFauyw.jpg?s=082cd3f941a4166928480e9eb9f1d3b4 frameborder=0>
+- entry_name: |
+    Stan Lee.
+  entry_id: 8eha9q
+  entry_content: |
+    <img src=https://i.redditmedia.com/G4mzhJehvT1TmmOWgEZzq_GNt3NsV-dB4AKn91bLVaA.jpg?s=ca49114d01e866748218e02b64fbd66d frameborder=0>
+- entry_name: |
+    Collateral damagee
+  entry_id: 8eetlp
+  entry_content: |
+    <iframe src=https://v.redd.it/s80dh2gt0qt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Queen Elizabeth II driving her Range Rover in a hoodie
+  entry_id: 8edbfn
+  entry_content: |
+    <img src=https://i.redditmedia.com/aKzzOUbvgVPUI-NNGm3zD4963-u0-DcqND7AgvjzP0I.jpg?s=7b74ed6bb186fdde3e20505746e00e9f frameborder=0>
+- entry_name: |
+    6 years ago I posted my wife's eye that her doctor told her was the weirdest he'd ever seen. Since then my photography's improved quite a bit, so here's a new pic I took a couple days ago.
+  entry_id: 8edrxb
+  entry_content: |
+    <img src=https://i.redditmedia.com/3DAtmtXUBodow85YZ01M2ZT10tz8X-SHoOUxMhntbro.jpg?s=7ae630ed48495463d4372f6264aea79a frameborder=0>
+- entry_name: |
+    Show me
+  entry_id: 8ee7yw
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZAPGLTvO8qMXtlY-_mJ8TQr5AKoQ2deuYBh6sxibUXI.png?s=c41dca1faeca4c114b422fb90e9a3daf frameborder=0>
+- entry_name: |
+    Report: President George H.W. Bush is in intensive care
+  entry_id: 8efpsu
+  entry_content: |
+    <img src=https://i.redditmedia.com/D7J_C3CZUnyuqvNA3K2aX9V5J4lhxOdO_MSxGiZTOp4.jpg?s=f13b18d7c0e24c7e907fc0e79a56c25f frameborder=0>
+- entry_name: |
+    Just 1 more kid
+  entry_id: 8edt4m
+  entry_content: |
+    <img src=https://i.redditmedia.com/kHNJ7evS2xISo4qRc9UCB3dZkywo5dDrBpF_WaVSf-E.jpg?s=b6d05618041330c4054192fa822eeb60 frameborder=0>
+- entry_name: |
+    Kitty sneeze is so adorable
+  entry_id: 8eiy13
+  entry_content: |
+    <iframe src=https://v.redd.it/szcs0h3cktt01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    'Money talks': A $1.2 trillion fund manager is about to pull investment from companies that won't act on climate change
+  entry_id: 8ej1j3
+  entry_content: |
+    <img src=https://i.redditmedia.com/7jZgZvNyLwRs3GYWd8HdWFF1bB26yU4omMDOSfool0Y.jpg?s=8937462ba2404a9a299487a13279262f frameborder=0>
+- entry_name: |
+    TIL that Steven Spielberg wanted to direct a James Bond film but was turned down by Eon Productions. When he told this to George Lucas, Lucas said he had a film that was just like it but even better. The story was about an archaeologist named Indiana.
+  entry_id: 8ejmq3
+  entry_content: |
+    <img src=https://i.redditmedia.com/5EdjQPtvzdg_FyTwQI7GBV9F_XVI7gwO-LdltTfrk3g.jpg?s=e641730aa5f9ceaca8d414a91d52cd57 frameborder=0>
+- entry_name: |
+    Kids endlessly asking why are actually applying the socratic method and stimulate adults to think critically.
+  entry_id: 8ee66y
+  entry_content: |
+    null
+- entry_name: |
+    Newly discovered Amazon reef is six times bigger than previously thought, and it extends into oil drilling concessions. Researchers are now calling on the oil company to cancel its drilling project
+  entry_id: 8efcfy
+  entry_content: |
+    <img src=https://i.redditmedia.com/CQrblyfNbtnIj6sn4M1iWQsLk1d9MbxfVsiFK_EaBTc.jpg?s=b00472d8fd14f8766feb06bff259929f frameborder=0>
+- entry_name: |
+    Not in my school!
+  entry_id: 8eeu3e
+  entry_content: |
+    <iframe src=https://v.redd.it/rw1ybyiwcpt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Smart Marketing
+  entry_id: 8efi0w
+  entry_content: |
+    <img src=https://i.redditmedia.com/5x-wBTX2P_M2kfCSmL9SxGM8TSoQO2OjXAG-cKAjUTY.gif?fm=jpg&s=d4dbb3dc47f050947324f0fabaeb7cd1 frameborder=0>
+- entry_name: |
+    TIL Lincoln’s bodyguard, a drunk previously reprimanded for drinking on the job, was not at his post to protect POTUS the night Lincoln died. Instead, he was at the Star Saloon next door drinking; the same saloon where John Wilkes Booth was seeking the liquid courage to assassinate the President.
+  entry_id: 8efmn4
+  entry_content: |
+    <img src=https://i.redditmedia.com/tXg85neW50sgvMxoaE-GCanrk2AIk1NpdOswOWwd95s.jpg?s=28be18697d3e31121ca619e9d5c0ede6 frameborder=0>
+- entry_name: |
+    This is peak Tumblr
+  entry_id: 8edgcg
+  entry_content: |
+    <img src=https://i.redditmedia.com/R98ajx7CkQgF4m1OjeG0NgGuSqTWTktdOZ7Brr5t7Aw.png?s=550469aa71db7fa2b7dea2c2d21adf62 frameborder=0>
+- entry_name: |
+    Lol my friend’s thumb slipped on his canvas and he accidentally took this painting of me. Im not posing but I’m still gonna post it. #unexpected
+  entry_id: 8edbt0
+  entry_content: |
+    <img src=https://i.redditmedia.com/NPnMUwXNyUVaY_-ho2PiX3rAGtMKwEun6c70_ymFWwc.jpg?s=285ba0371cf771ce577fc9b1489b486a frameborder=0>
+- entry_name: |
+    Van strikes numerous pedestrians in Toronto: police
+  entry_id: 8edf7z
+  entry_content: |
+    <img src=https://i.redditmedia.com/pZfBoB6rgdgkz4cL7Vl-qmgRYoLzm2FYr6nxGgEwBVM.jpg?s=9450186744d03a30e78828d145da30f0 frameborder=0>
+- entry_name: |
+    Solo queueing into Quickplay as a Mercy main
+  entry_id: 8ee56r
+  entry_content: |
+    <iframe src=https://v.redd.it/5viqlfn8lpt01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Dust, stars, and cosmic rays swirling around Comet 67P/Churyumov–Gerasimenko, captured by the Rosetta probe
+  entry_id: 8egi9x
+  entry_content: |
+    <iframe src=https://v.redd.it/m9hr7zk88rt01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8edllv
+  entry_content: |
+    null
+- entry_name: |
+    VENOM - Official Trailer (HD)
+  entry_id: 8ehk51
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/u9Mv98Gr5pY?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+  entry_id: 8ee43e
+  entry_content: |
+    <img src=https://i.redditmedia.com/4zj_CQ9rqn-1STQGf_nKA7j-BW8FmAGPM2MFC_Rjj24.jpg?s=d4175db02cd380e5f32c659199d9faf4 frameborder=0>
+- entry_name: |
+    he gets extra praise because he's a man
+  entry_id: 8ehfbn
+  entry_content: |
+    <img src=https://i.redditmedia.com/FeT6wLhsPpCOb5O_ACr6-RlAqu6nOq3NqP8v78oeWVU.jpg?s=a513cd49da6f5cd61ab67cf5caa61d42 frameborder=0>
+- entry_name: |
+    Found a heart shaped tomato at work yesterday
+  entry_id: 8egscq
+  entry_content: |
+    <img src=https://i.redditmedia.com/lRCKoOamJdtyDZ9wJSozcMu5YiVkHescNhRAWg9FGkw.jpg?s=aa554e4e194ea6af2d22f161c270c60a frameborder=0>
+- entry_name: |
+    Good boi knows he's not allowed to have sticks inside
+  entry_id: 8edzuu
+  entry_content: |
+    <img src=https://i.redditmedia.com/PMCxnSrwnLPIXvoyjwYt9bYvMJEmUCUXDxSgj27CAZI.jpg?s=8b1fdca49bd166d1694f32ad409dff60 frameborder=0>
+- entry_name: |
+    there's no other way
+  entry_id: 8efod5
+  entry_content: |
+    <img src=https://i.redditmedia.com/cf9ieZ-up-trIiLyfOyhRwGwpA37BCVerMe7_d7gYSg.png?s=bd60f7056f1374fa48f6f511ff181780 frameborder=0>
+- entry_name: |
+    Meet Finn, my first dog! Been begging for a dog for 10 years and my dad and I finally cracked my mom and got her to say yes!
+  entry_id: 8ed4ub
+  entry_content: |
+    <img src=https://i.redditmedia.com/bwYfhnBx01yUaq1cH3j0TxZI_TgFjXlkN591GYsSZIE.jpg?s=c3c19f4b0ea62a558e811f54ed826600 frameborder=0>
+- entry_name: |
+    Special operations boat airdrop from a C-17
+  entry_id: 8ee7qq
+  entry_content: |
+    <iframe src=https://v.redd.it/oh2p5807hpt01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8efwrl
+  entry_content: |
+    <img src=https://i.redditmedia.com/H_BBVgJr7bHiz5pO191LDtYuB2PbLxR3HH7aAKr6a4w.jpg?s=9dc6e5ca7f0220cf7446adaed77c867b frameborder=0>
+- entry_name: |
+    Comet surface conditions, captured by the Rosetta probe
+  entry_id: 8eibjf
+  entry_content: |
+    <iframe src=https://v.redd.it/wapxqhlltst01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Yeah I'd like to rent a truck with a hitch. What am I towing? Nothing much, don't worry about it
+  entry_id: 8eepig
+  entry_content: |
+    <img src=https://i.redditmedia.com/WkZbWwu_rM6w0YgiiCkx5RcZxHFcawiyAQUYkW5YPiY.jpg?s=10065b4456320370b9aee99fb970e004 frameborder=0>
+- entry_name: |
+    Waffle House murder suspect captured
+  entry_id: 8edkg3
+  entry_content: |
+    <img src=https://i.redditmedia.com/bYucSKcAb-lzahPC-W1G5pt6Ip5SyLdGEwJJ7R4UcII.jpg?s=869abac6c7f5fd1c06d44c9ff07881fd frameborder=0>
+- entry_name: |
+    Biggest fan Rihanna
+  entry_id: 8ej4i4
+  entry_content: |
+    <iframe src=https://v.redd.it/tkgntfzzott01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    There's a room in your house where time doesn't flow. You could stay in there for as long as you could possibly want, and not a second will have passed outside that room. What would you use this room for?
+  entry_id: 8ehtg5
+  entry_content: |
+    null
+- entry_name: |
+    The only game I want remastered.
+  entry_id: 8ef86r
+  entry_content: |
+    <img src=https://i.redditmedia.com/kSg6MMZNsISJQF38MrM4JX_7lUS4PJsuvwsNLgoLuk8.jpg?s=dba4e369e207101e2f307d87e99e3438 frameborder=0>
+- entry_name: |
+    These fishnet stockings made from the table’s shadow
+  entry_id: 8eeld8
+  entry_content: |
+    <img src=https://i.redditmedia.com/sWkbsidoQ3D2uwr-SmEgrqaUkGWTLkkGmzj04lS2D78.jpg?s=09bc1c2091d996929fb4dfe869d56c92 frameborder=0>
+- entry_name: |
+    Beautiful sunset reflecting on the sea.
+  entry_id: 8edn8u
+  entry_content: |
+    <img src=https://i.redditmedia.com/vBgQxeqHqBUiSxiQNuJ1ciq557BYUfo4w0iTFXbDLcY.jpg?s=86e12d951ad83af7048994b2815a37b4 frameborder=0>
+- entry_name: |
+    Oceans, fish, jump, China
+  entry_id: 8eegp5
+  entry_content: |
+    <img src=https://i.redditmedia.com/dHON2i87dkatw6fu3Ke2Xz5X9DK82VVkasPSSKeM0xM.jpg?s=132925bd3c3bf5bdd576ff27e0d25695 frameborder=0>
+- entry_name: |
+    Crossed Up
+  entry_id: 8efbro
+  entry_content: |
+    <img src=https://i.redditmedia.com/pPrcuEiohL3YC3zwxmeEXOvRjnyulGs-muKkPlh0D9s.jpg?s=f4a7838bfd6e20c7ee7ab0fb226e8ec9 frameborder=0>
+- entry_name: |
+    A musician/star, 1980
+  entry_id: 8efn4y
+  entry_content: |
+    <img src=https://i.redditmedia.com/wL7_afpsckD-BJQLqlfrPbzGfdiKWm3sHyV_7j9pYFA.png?s=9b1012183ab6113e33cab3232379ecdf frameborder=0>
+- entry_name: |
+    Some boyfriends can be so controlling
+  entry_id: 8efa4t
+  entry_content: |
+    <img src=https://i.redditmedia.com/vpjMyCmUVpHSlOiE6q-6WrBLRkKxWylPzJHGTh7MAQY.jpg?s=4785503a70d7f5b833523f291cd1f1c4 frameborder=0>
+- entry_name: |
+    Negotiations were short
+  entry_id: 8ee2da
+  entry_content: |
+    <img src=https://i.redditmedia.com/-Gi1nhPbdQ-Pp6K6ZikBDfCMMpNf6V8xQSCl53XMP-8.jpg?s=68ce9efacb07f15c56b6a1e04f388ef6 frameborder=0>
+- entry_name: |
+    My (blonde) sister hates blonde jokes. I (redhead) told her I have a redhead joke for her. She was eager to hear it!
+  entry_id: 8edspo
+  entry_content: |
+    null
+- entry_name: |
+    I adore this tweet.
+  entry_id: 8eg2a9
+  entry_content: |
+    <img src=https://i.redditmedia.com/3eskAL4wByQFTr-sXXNLbg4r1d_VHO1g9ekkAJUhOkY.jpg?s=2acdfadca854bd1767cc19762d6b8490 frameborder=0>
+- entry_name: |
+    I decided to try my own shot at an Inception-like picture. It's not perfect but I'm proud of it!
+  entry_id: 8ef4bz
+  entry_content: |
+    <img src=https://i.redditmedia.com/yC1sx4UO8h--Tz5ySdTnLudmM6QL6I_fYNA2B4vxkAQ.jpg?s=9957f2817f9e849d69d31133c4292187 frameborder=0>
+---
