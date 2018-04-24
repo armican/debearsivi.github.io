@@ -3,11 +3,6 @@ layout: post
 title: 25 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    My kids were in a race so I made a poster to cheer them on
-  entry_id: 8edgs2
-  entry_content: |
-    <iframe src=https://v.redd.it/sqrs9wen5pt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     An elderly Lion in his final hours. Photograph by Larry Pannell.
   entry_id: 8efb4m
   entry_content: |
@@ -93,20 +88,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tXg85neW50sgvMxoaE-GCanrk2AIk1NpdOswOWwd95s.jpg?s=28be18697d3e31121ca619e9d5c0ede6 frameborder=0>
 - entry_name: |
-    This is peak Tumblr
-  entry_id: 8edgcg
-  entry_content: |
-    <img src=https://i.redditmedia.com/R98ajx7CkQgF4m1OjeG0NgGuSqTWTktdOZ7Brr5t7Aw.png?s=550469aa71db7fa2b7dea2c2d21adf62 frameborder=0>
-- entry_name: |
     VENOM - Official Trailer (HD)
   entry_id: 8ehk51
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/u9Mv98Gr5pY?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    Van strikes numerous pedestrians in Toronto: police
-  entry_id: 8edf7z
-  entry_content: |
-    <img src=https://i.redditmedia.com/pZfBoB6rgdgkz4cL7Vl-qmgRYoLzm2FYr6nxGgEwBVM.jpg?s=9450186744d03a30e78828d145da30f0 frameborder=0>
 - entry_name: |
     Solo queueing into Quickplay as a Mercy main
   entry_id: 8ee56r
@@ -249,4 +234,19 @@ data:
   entry_id: 8eg2a9
   entry_content: |
     <img src=https://i.redditmedia.com/3eskAL4wByQFTr-sXXNLbg4r1d_VHO1g9ekkAJUhOkY.jpg?s=2acdfadca854bd1767cc19762d6b8490 frameborder=0>
+- entry_name: |
+    Running through a sprinkler, but as an adult driver
+  entry_id: 8ej8gy
+  entry_content: |
+    <iframe src=https://v.redd.it/40re64djltt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My (blonde) sister hates blonde jokes. I (redhead) told her I have a redhead joke for her. She was eager to hear it!
+  entry_id: 8edspo
+  entry_content: |
+    null
+- entry_name: |
+    Remember this ice cream truck from twisted metal back on playstation1
+  entry_id: 8ej6z4
+  entry_content: |
+    <img src=https://i.redditmedia.com/V5yHITdT3BFPC3CBMa2kOCS1VrIrOnfYQNfcIwpAcFM.jpg?s=4300f223b78d555a3d8b7e8369638146 frameborder=0>
 ---
