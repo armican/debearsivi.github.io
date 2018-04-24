@@ -127,11 +127,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Good boi knows he's not allowed to have sticks inside
-  entry_id: 8edzuu
-  entry_content: |
-    <img src=https://i.redditmedia.com/PMCxnSrwnLPIXvoyjwYt9bYvMJEmUCUXDxSgj27CAZI.jpg?s=8b1fdca49bd166d1694f32ad409dff60 frameborder=0>
-- entry_name: |
     there's no other way
   entry_id: 8efod5
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8efd6c
   entry_content: |
     <img src=https://i.redditmedia.com/w2whtQMFP6j4TUoysAWwBU-4dv0dw_GyDX-BsDXdBmY.jpg?s=8665420e1afd926537f4623c15768466 frameborder=0>
+- entry_name: |
+    Sean Hannity's real estate venture linked to fraudulent property dealer
+  entry_id: 8ejnbn
+  entry_content: |
+    <img src=https://i.redditmedia.com/avzZUbzE45tbU7TxQWvWOCs1HMs-FhamJsXuVfAt6Hc.jpg?s=1d57894fc7b8a4e0426fbb58635bdc54 frameborder=0>
 ---
