@@ -48,11 +48,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/aon9pa3nkut01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Show me
-  entry_id: 8ee7yw
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZAPGLTvO8qMXtlY-_mJ8TQr5AKoQ2deuYBh6sxibUXI.png?s=c41dca1faeca4c114b422fb90e9a3daf frameborder=0>
-- entry_name: |
     Report: President George H.W. Bush is in intensive care
   entry_id: 8efpsu
   entry_content: |
@@ -126,11 +121,6 @@ data:
   entry_id: 8efwrl
   entry_content: |
     <img src=https://i.redditmedia.com/H_BBVgJr7bHiz5pO191LDtYuB2PbLxR3HH7aAKr6a4w.jpg?s=9dc6e5ca7f0220cf7446adaed77c867b frameborder=0>
-- entry_name: |
-    Special operations boat airdrop from a C-17
-  entry_id: 8ee7qq
-  entry_content: |
-    <iframe src=https://v.redd.it/oh2p5807hpt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Yeah I'd like to rent a truck with a hitch. What am I towing? Nothing much, don't worry about it
   entry_id: 8eepig
@@ -251,4 +241,14 @@ data:
   entry_id: 8efd6c
   entry_content: |
     <img src=https://i.redditmedia.com/w2whtQMFP6j4TUoysAWwBU-4dv0dw_GyDX-BsDXdBmY.jpg?s=8665420e1afd926537f4623c15768466 frameborder=0>
+- entry_name: |
+    Pick on someone your own size!
+  entry_id: 8eg2ak
+  entry_content: |
+    <iframe src=https://v.redd.it/zmexi9l3wqt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    FBI raided Manafort over records of Trump Tower meeting with Russians, Mueller confirms
+  entry_id: 8ej6vk
+  entry_content: |
+    <img src=https://i.redditmedia.com/zFxejFbNQAB6ft-d_RQn_mekiYF3i9SCHQe8oTb7vDg.jpg?s=4489c434c657d643640eadf06be8205f frameborder=0>
 ---
