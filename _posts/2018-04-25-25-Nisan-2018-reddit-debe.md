@@ -33,11 +33,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/s80dh2gt0qt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Queen Elizabeth II driving her Range Rover in a hoodie
-  entry_id: 8edbfn
-  entry_content: |
-    <img src=https://i.redditmedia.com/aKzzOUbvgVPUI-NNGm3zD4963-u0-DcqND7AgvjzP0I.jpg?s=7b74ed6bb186fdde3e20505746e00e9f frameborder=0>
-- entry_name: |
     6 years ago I posted my wife's eye that her doctor told her was the weirdest he'd ever seen. Since then my photography's improved quite a bit, so here's a new pic I took a couple days ago.
   entry_id: 8edrxb
   entry_content: |
@@ -97,11 +92,6 @@ data:
   entry_id: 8efmn4
   entry_content: |
     <img src=https://i.redditmedia.com/tXg85neW50sgvMxoaE-GCanrk2AIk1NpdOswOWwd95s.jpg?s=28be18697d3e31121ca619e9d5c0ede6 frameborder=0>
-- entry_name: |
-    Lol my friend’s thumb slipped on his canvas and he accidentally took this painting of me. Im not posing but I’m still gonna post it. #unexpected
-  entry_id: 8edbt0
-  entry_content: |
-    <img src=https://i.redditmedia.com/NPnMUwXNyUVaY_-ho2PiX3rAGtMKwEun6c70_ymFWwc.jpg?s=285ba0371cf771ce577fc9b1489b486a frameborder=0>
 - entry_name: |
     This is peak Tumblr
   entry_id: 8edgcg
@@ -249,4 +239,14 @@ data:
   entry_id: 8ej7cb
   entry_content: |
     <img src=https://i.redditmedia.com/huTKqIJbHUCnA2NbOahGYqqI6mkZFA8OixKNI0xVE0A.jpg?s=d1cb54e0c29b6ff699b01a9eac01006e frameborder=0>
+- entry_name: |
+    Negotiations were short
+  entry_id: 8ee2da
+  entry_content: |
+    <img src=https://i.redditmedia.com/-Gi1nhPbdQ-Pp6K6ZikBDfCMMpNf6V8xQSCl53XMP-8.jpg?s=68ce9efacb07f15c56b6a1e04f388ef6 frameborder=0>
+- entry_name: |
+    I adore this tweet.
+  entry_id: 8eg2a9
+  entry_content: |
+    <img src=https://i.redditmedia.com/3eskAL4wByQFTr-sXXNLbg4r1d_VHO1g9ekkAJUhOkY.jpg?s=2acdfadca854bd1767cc19762d6b8490 frameborder=0>
 ---
