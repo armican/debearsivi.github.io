@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7jZgZvNyLwRs3GYWd8HdWFF1bB26yU4omMDOSfool0Y.jpg?s=8937462ba2404a9a299487a13279262f frameborder=0>
 - entry_name: |
-    6 years ago I posted my wife's eye that her doctor told her was the weirdest he'd ever seen. Since then my photography's improved quite a bit, so here's a new pic I took a couple days ago.
-  entry_id: 8edrxb
-  entry_content: |
-    <img src=https://i.redditmedia.com/3DAtmtXUBodow85YZ01M2ZT10tz8X-SHoOUxMhntbro.jpg?s=7ae630ed48495463d4372f6264aea79a frameborder=0>
-- entry_name: |
     Show me
   entry_id: 8ee7yw
   entry_content: |
@@ -62,11 +57,6 @@ data:
   entry_id: 8ejvyh
   entry_content: |
     <iframe src=https://v.redd.it/aon9pa3nkut01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Just 1 more kid
-  entry_id: 8edt4m
-  entry_content: |
-    <img src=https://i.redditmedia.com/kHNJ7evS2xISo4qRc9UCB3dZkywo5dDrBpF_WaVSf-E.jpg?s=b6d05618041330c4054192fa822eeb60 frameborder=0>
 - entry_name: |
     Kids endlessly asking why are actually applying the socratic method and stimulate adults to think critically.
   entry_id: 8ee66y
@@ -231,11 +221,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-Gi1nhPbdQ-Pp6K6ZikBDfCMMpNf6V8xQSCl53XMP-8.jpg?s=68ce9efacb07f15c56b6a1e04f388ef6 frameborder=0>
 - entry_name: |
-    My (blonde) sister hates blonde jokes. I (redhead) told her I have a redhead joke for her. She was eager to hear it!
-  entry_id: 8edspo
-  entry_content: |
-    null
-- entry_name: |
     A medical student after six years
   entry_id: 8egm04
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8egv90
   entry_content: |
     <iframe src=https://v.redd.it/esq0u005irt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    He played himself 🤪
+  entry_id: 8ek0ee
+  entry_content: |
+    <img src=https://i.redditmedia.com/pOJnSm5ITudjo0IgQDk-Iebmy1NC25f7fgTSbI-UioI.jpg?s=5c114b14961865deefad0c433d616c5c frameborder=0>
+- entry_name: |
+    Stormy Daniels’s Lawyer Michael Avenatti Releases Dropbox Folder Of Transcripts, Tweets, To Discredit Sean Hannity
+  entry_id: 8efuoc
+  entry_content: |
+    <img src=https://i.redditmedia.com/jFXK5PwF5zi1n8xZ4ScnVcL63gi4uthq79OsGhh97OU.jpg?s=a612244cf957cbf09edba296ce11d1f6 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8efd6c
+  entry_content: |
+    <img src=https://i.redditmedia.com/w2whtQMFP6j4TUoysAWwBU-4dv0dw_GyDX-BsDXdBmY.jpg?s=8665420e1afd926537f4623c15768466 frameborder=0>
 ---
