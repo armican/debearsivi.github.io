@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G4mzhJehvT1TmmOWgEZzq_GNt3NsV-dB4AKn91bLVaA.jpg?s=ca49114d01e866748218e02b64fbd66d frameborder=0>
 - entry_name: |
-    Brothas can’t ever catch a break man
-  entry_id: 8eehm3
-  entry_content: |
-    <img src=https://i.redditmedia.com/VALHDrooN-bBrvboLox0RzT80dJhN3G9hdYQAnFauyw.jpg?s=082cd3f941a4166928480e9eb9f1d3b4 frameborder=0>
-- entry_name: |
     Collateral damagee
   entry_id: 8eetlp
   entry_content: |
@@ -167,11 +162,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/huTKqIJbHUCnA2NbOahGYqqI6mkZFA8OixKNI0xVE0A.jpg?s=d1cb54e0c29b6ff699b01a9eac01006e frameborder=0>
 - entry_name: |
-    Oceans, fish, jump, China
-  entry_id: 8eegp5
-  entry_content: |
-    <img src=https://i.redditmedia.com/dHON2i87dkatw6fu3Ke2Xz5X9DK82VVkasPSSKeM0xM.jpg?s=132925bd3c3bf5bdd576ff27e0d25695 frameborder=0>
-- entry_name: |
     Crossed Up
   entry_id: 8efbro
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8ej6vk
   entry_content: |
     <img src=https://i.redditmedia.com/zFxejFbNQAB6ft-d_RQn_mekiYF3i9SCHQe8oTb7vDg.jpg?s=4489c434c657d643640eadf06be8205f frameborder=0>
+- entry_name: |
+    Wait a sec
+  entry_id: 8eh8h1
+  entry_content: |
+    <iframe src=https://v.redd.it/j5pw29a7trt01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    What a perspective!
+  entry_id: 8eizo2
+  entry_content: |
+    <img src=https://i.redditmedia.com/E2LlCdD-IG2FjXEzkFGTYR-VOfruTo758izf-QcqFpA.jpg?s=73b5660fa1bc162d96a907451617ebde frameborder=0>
 ---
