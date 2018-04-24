@@ -152,11 +152,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Yeah I'd like to rent a truck with a hitch. What am I towing? Nothing much, don't worry about it
-  entry_id: 8eepig
-  entry_content: |
-    <img src=https://i.redditmedia.com/WkZbWwu_rM6w0YgiiCkx5RcZxHFcawiyAQUYkW5YPiY.jpg?s=10065b4456320370b9aee99fb970e004 frameborder=0>
-- entry_name: |
     The only game I want remastered.
   entry_id: 8ef86r
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8ejigu
   entry_content: |
     <img src=https://i.redditmedia.com/5KL8-2UtFGqHTETx8-CrsvuJDYIiTJ8lNg8y-2xSiFo.jpg?s=eb574308e84205531d9fbd2df78e17b7 frameborder=0>
+- entry_name: |
+    What a perspective!
+  entry_id: 8eizo2
+  entry_content: |
+    <img src=https://i.redditmedia.com/E2LlCdD-IG2FjXEzkFGTYR-VOfruTo758izf-QcqFpA.jpg?s=73b5660fa1bc162d96a907451617ebde frameborder=0>
 ---
