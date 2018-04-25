@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/V0HXVNzEwZu7gEol_9eMTv6XNWgiN5iSjRVVtHhPLBk.jpg?s=ab14217412514397cc2bb46b84332286 frameborder=0>
 - entry_name: |
-    I followed this bus for 4 blocks to wait for it to pull over to share this beautiful work of art.
-  entry_id: 8enbtn
-  entry_content: |
-    <img src=https://i.redditmedia.com/vjRGU9B5mXPqk1M_M0ZL2Kyyuu7q--2giQVvIsn7zJ0.jpg?s=758f34f29746faf9d8fdea1e2a79a12a frameborder=0>
-- entry_name: |
     FOR SCIENCE!
   entry_id: 8epsf3
   entry_content: |
@@ -78,11 +73,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=%2F%2Fimgur.com%2Fa%2F9AgN9fA%2Fembed&url=https%3A%2F%2Fimgur.com%2Fa%2F9AgN9fA&image=https%3A%2F%2Fi.imgur.com%2FOaI4LbQ.jpg%3Ffb&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=imgur width=550 height=550 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    These pranks are hilarious
-  entry_id: 8ena87
-  entry_content: |
-    <iframe src=https://v.redd.it/qgavr39ctwt01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     This stop motion
   entry_id: 8eq9fi
   entry_content: |
@@ -127,11 +117,6 @@ data:
   entry_id: 8ensbf
   entry_content: |
     <img src=https://i.redditmedia.com/WGpNnUpleJsMdvq3Km4sw4HKwCINDQ26eXr5z-wJXtU.jpg?s=93b30213e16cabf4d76bc8fef3639681 frameborder=0>
-- entry_name: |
-    sharing cheese with the dog
-  entry_id: 8en6pu
-  entry_content: |
-    <iframe src=https://v.redd.it/a0srb4bqv2u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     These airline seats are higher so you're legs bend at a slight angle, allowing more seats per plane. Personally I think they were designed by a sociopath.
   entry_id: 8eu554
@@ -193,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BLgnj-SoWS64gS_jxEsryEvnktjNeweixlnUckBfUyk.jpg?s=c2066c44d9be4e8c974a489fcbe195a2 frameborder=0>
 - entry_name: |
-    to kick his friend's ass
-  entry_id: 8en9ts
-  entry_content: |
-    <iframe src=https://v.redd.it/tnbcty96bwt01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     It's like clockwork
   entry_id: 8esi1z
   entry_content: |
@@ -252,4 +232,24 @@ data:
   entry_id: 8esdgy
   entry_content: |
     <iframe src=https://v.redd.it/hwq2sbqo21u01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The Elevator prank, one of the most wholesome prank on Youtube
+  entry_id: 8esay9
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/U-Gjh1oWgYI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    This village is not artificial, it exists and it is called Shirakawa and it is from Japan.
+  entry_id: 8eskbl
+  entry_content: |
+    <img src=https://i.redditmedia.com/mpgFKToCmuH8MX23NSNI59scVuqBWxnvCtQ49z_hK7w.jpg?s=a7818e1f668e716f2c344dc13ae8e084 frameborder=0>
+- entry_name: |
+    Kids sports are the best.
+  entry_id: 8epuby
+  entry_content: |
+    <iframe src=https://v.redd.it/ho7emoa49xt01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    How did you know?
+  entry_id: 8eq9i2
+  entry_content: |
+    <img src=https://i.redditmedia.com/OuAd3T0ivwBtN9sU08jIlNCQvzk5yYOTJLi9G_pVRSo.jpg?s=d230dc182c3bd581f2c58c7292c11f04 frameborder=0>
 ---
