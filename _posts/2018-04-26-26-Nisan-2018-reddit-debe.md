@@ -58,6 +58,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tf0rhy7hxxt01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Ballparks best employee
+  entry_id: 8etcgp
+  entry_content: |
+    <iframe src=https://v.redd.it/dbp1sgg6w1u01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     First Image of John Travolta as a Crazed Stalker in Thriller 'Moose' - Directed by Fred Durst of Limp Bizkit
   entry_id: 8epi2t
   entry_content: |
@@ -83,15 +88,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/y61h8gxywyt01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    I was told I should share my eye with y'all. It is fake so I have not nerfed my real eye (kids don't try this at home). Lost it this past summer in a softball accident.
+  entry_id: 8et3fy
+  entry_content: |
+    <iframe src=https://v.redd.it/389kqwwjr1u01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     You know, because fuck climbing a fence
   entry_id: 8eo9um
   entry_content: |
     <iframe src=https://v.redd.it/tmoln8j2bxt01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Ballparks best employee
-  entry_id: 8etcgp
+    Dogs cannot get ‘autism’, British Veterinary Association warns after ‘anti-vaxx’ movement spread to pets
+  entry_id: 8etnji
   entry_content: |
-    <iframe src=https://v.redd.it/dbp1sgg6w1u01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/7eGayw0cabaXT0TXYjuzRxEd7BgpfGLYeGFFh5kqPNg.jpg?s=ce80834201b74db974c13f439b7940ec frameborder=0>
 - entry_name: |
     Michael Scott’s Best Moment
   entry_id: 8ep30u
@@ -123,15 +133,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/a0srb4bqv2u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    These airline seats are higher so you're legs bend at a slight angle, allowing more seats per plane. Personally I think they were designed by a sociopath.
+  entry_id: 8eu554
+  entry_content: |
+    <img src=https://i.redditmedia.com/TmELz5BL3huvW6bKOp3wBHI_nOwOAMuJgLB8W7lKn6c.jpg?s=61a5e81174c82e600c076f3e72af71ed frameborder=0>
+- entry_name: |
     Our president ignores an American hero: Trump’s silence on the Waffle House murders is deafening
   entry_id: 8eonem
   entry_content: |
     <img src=https://i.redditmedia.com/OOxoeQ8sVcYataVCGQvOPCaLWRNxNBcL0GS3hxCaObU.jpg?s=5a7c606e147c6d24f30d71bf61f3c962 frameborder=0>
 - entry_name: |
-    I was told I should share my eye with y'all. It is fake so I have not nerfed my real eye (kids don't try this at home). Lost it this past summer in a softball accident.
-  entry_id: 8et3fy
+    Indian guru sentenced to life for raping girl
+  entry_id: 8esh3k
   entry_content: |
-    <iframe src=https://v.redd.it/389kqwwjr1u01/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/U37DCWLPvgk1En-M2VZSWaExif84-PHmYnlhxjShxS8.jpg?s=736284f1d147a576f2dbe62ea5928364 frameborder=0>
 - entry_name: |
     Oh My God ❤️
   entry_id: 8erccf
@@ -143,25 +158,20 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Dogs cannot get ‘autism’, British Veterinary Association warns after ‘anti-vaxx’ movement spread to pets
-  entry_id: 8etnji
-  entry_content: |
-    <img src=https://i.redditmedia.com/7eGayw0cabaXT0TXYjuzRxEd7BgpfGLYeGFFh5kqPNg.jpg?s=ce80834201b74db974c13f439b7940ec frameborder=0>
-- entry_name: |
     Children not only have fatigue-resistant muscles, but recover very quickly from high-intensity exercise -- even faster than well-trained adult endurance athletes, according to a new study.
   entry_id: 8enk1a
   entry_content: |
     <img src=https://i.redditmedia.com/m38UC3JhNlSjsEOoOfsJN170UgU2GBI4l6AD9_2GQfo.jpg?s=641c70156f52416793ce6bbb2ee6bc7a frameborder=0>
 - entry_name: |
-    Indian guru sentenced to life for raping girl
-  entry_id: 8esh3k
-  entry_content: |
-    <img src=https://i.redditmedia.com/U37DCWLPvgk1En-M2VZSWaExif84-PHmYnlhxjShxS8.jpg?s=736284f1d147a576f2dbe62ea5928364 frameborder=0>
-- entry_name: |
     The maddest of lads
   entry_id: 8er5tn
   entry_content: |
     <img src=https://i.redditmedia.com/mCKJ3JqXreeTswSkmfJZ4xvtpBSLIrBBICyVFkqzHAU.jpg?s=da79a229579dca7e3e4dc4d8e95115ab frameborder=0>
+- entry_name: |
+    Useless minimalism, stop that
+  entry_id: 8es86m
+  entry_content: |
+    <img src=https://i.redditmedia.com/3NJBQevUP2dd-R8uGKfwzrFAK8CvFigqbDgCzLwCq8o.jpg?s=22bfe8add948e808c21bff80765b9d97 frameborder=0>
 - entry_name: |
     Somebody was bored.
   entry_id: 8eoswy
@@ -178,30 +188,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vc1z0pccp_LvXqh7psYuDUuHjt1APFkLgdbSJeOCZvU.jpg?s=5b71b4975552a7bf6a57a069b7fa50dd frameborder=0>
 - entry_name: |
-    Useless minimalism, stop that
-  entry_id: 8es86m
+    How to impress your boss
+  entry_id: 8erkee
   entry_content: |
-    <img src=https://i.redditmedia.com/3NJBQevUP2dd-R8uGKfwzrFAK8CvFigqbDgCzLwCq8o.jpg?s=22bfe8add948e808c21bff80765b9d97 frameborder=0>
+    <img src=https://i.redditmedia.com/BLgnj-SoWS64gS_jxEsryEvnktjNeweixlnUckBfUyk.jpg?s=c2066c44d9be4e8c974a489fcbe195a2 frameborder=0>
 - entry_name: |
     to kick his friend's ass
   entry_id: 8en9ts
   entry_content: |
     <iframe src=https://v.redd.it/tnbcty96bwt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    How to impress your boss
-  entry_id: 8erkee
+    It's like clockwork
+  entry_id: 8esi1z
   entry_content: |
-    <img src=https://i.redditmedia.com/BLgnj-SoWS64gS_jxEsryEvnktjNeweixlnUckBfUyk.jpg?s=c2066c44d9be4e8c974a489fcbe195a2 frameborder=0>
+    <img src=https://i.redditmedia.com/CXCZYSNgF1ThMKesdTXUPxL0ms2D0hS8ea6imE2Gtrw.jpg?s=fecf01539e1bd092f2c53662282f8529 frameborder=0>
 - entry_name: |
     Miss Universe 2013 Host Thomas Roberts Confirms: Trump Stayed Overnight in Moscow
   entry_id: 8enrjn
   entry_content: |
     <img src=https://i.redditmedia.com/7v9Npvn85AcTbS99dfLJP0DZbC2SfnPRauffB1m8XQY.jpg?s=93dbd12c75384ecdf63bcfea6a54d18d frameborder=0>
-- entry_name: |
-    It's like clockwork
-  entry_id: 8esi1z
-  entry_content: |
-    <img src=https://i.redditmedia.com/CXCZYSNgF1ThMKesdTXUPxL0ms2D0hS8ea6imE2Gtrw.jpg?s=fecf01539e1bd092f2c53662282f8529 frameborder=0>
 - entry_name: |
     Why God? Why?
   entry_id: 8epybn
@@ -223,33 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6ZAPnGwUlbGdlL9-AeiBhpP601-teSj4EoOBy8cBgtA.jpg?s=73ac241657e6e5e9037dff499462e6b7 frameborder=0>
 - entry_name: |
+    Danish inventor Peter Madsen given life sentence for murdering journalist Kim Wall on his submarine
+  entry_id: 8esoqc
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
+    No editing is even needed on this one. A player uses C4 on a teammate's tank to launch it in the air. The flying tank shoots at a jet.
+  entry_id: 8etqrm
+  entry_content: |
+    <iframe src=https://v.redd.it/dbnl2rbq82u01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     I (female) was super proud of my mom-made Captain Picard costume
   entry_id: 8enfpj
   entry_content: |
     <img src=https://i.redditmedia.com/gj6k17sHE2I-NllJBK9n9Tr1nAkogqPyZPgPyMb4OV8.jpg?s=3ec2b95774ed38eeca1d9a86feab508b frameborder=0>
 - entry_name: |
-    Kids sports are the best.
-  entry_id: 8epuby
+    Study of long-term heterosexual couples finds women over-estimate and men underestimate their partner’s sexual advances
+  entry_id: 8esmy3
   entry_content: |
-    <iframe src=https://v.redd.it/ho7emoa49xt01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/uEMKXfmihCoE1cAwyis2y81HhMSzbIdBjbZLg1qquk0.jpg?s=680ee228f8b6ed6c7557d8ce86286e10 frameborder=0>
 - entry_name: |
-    Apple will start paying $16 billion in back taxes to Ireland
-  entry_id: 8eo5wa
+    Teppanyaki Caramel Popcorn
+  entry_id: 8esdgy
   entry_content: |
-    <img src=https://i.redditmedia.com/TF0HRctx_xn0sSz5Z5jGtbj2KhE8SDEoWVO-W2N55T8.jpg?s=73db3690847c4d5c511f7ce9f736e758 frameborder=0>
-- entry_name: |
-    How did you know?
-  entry_id: 8eq9i2
-  entry_content: |
-    <img src=https://i.redditmedia.com/OuAd3T0ivwBtN9sU08jIlNCQvzk5yYOTJLi9G_pVRSo.jpg?s=d230dc182c3bd581f2c58c7292c11f04 frameborder=0>
-- entry_name: |
-    When r/PrequelMemes makes memes without subtitles popular again in order to confuse Pewdiepie normies
-  entry_id: 8epvco
-  entry_content: |
-    <img src=https://i.redditmedia.com/hJhl1MIQupcgO0zMOTb5ztgKZw35UdV49GUhI8R2OW4.jpg?s=942df932cdf84e0fc2e5b2095db7c66d frameborder=0>
-- entry_name: |
-    So many distractions.
-  entry_id: 8enbmx
-  entry_content: |
-    <iframe src=https://v.redd.it/25v2qjo7uwt01/DASH_2_4_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/hwq2sbqo21u01/DASH_4_8_M frameborder=0></iframe>
 ---
