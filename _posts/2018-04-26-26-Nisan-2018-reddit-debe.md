@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/W7umjPsCajB1-lFtFKB2fKORxdmcon0Lg8N3-AUdW3g.jpg?s=c936b155cbbefd569ee145005b418054 frameborder=0>
 - entry_name: |
-    TIL George H.W. Bush ordered emergency airlifts of food and supplies to Somalia in 1992.“Operation Restore Hope,” to help the starving country by protecting food shipments from the warlords. By helping to end the famine, American forces saved around 100,000 lives
-  entry_id: 8emz25
-  entry_content: |
-    <img src=https://i.redditmedia.com/4V2aKizD3VxYQfEk_jtSD9uuY17kXvt8VWAp-HoMiz0.jpg?s=f7e40c38f5b868949122243ae01f0fb6 frameborder=0>
-- entry_name: |
     My wife didn't want to do Maternity pictures. So I did them.
   entry_id: 8eqikg
   entry_content: |
@@ -157,11 +152,6 @@ data:
   entry_id: 8enk1a
   entry_content: |
     <img src=https://i.redditmedia.com/m38UC3JhNlSjsEOoOfsJN170UgU2GBI4l6AD9_2GQfo.jpg?s=641c70156f52416793ce6bbb2ee6bc7a frameborder=0>
-- entry_name: |
-    Check yes or no.
-  entry_id: 8emz0w
-  entry_content: |
-    <img src=https://i.redditmedia.com/movOa2ABkJyLFG3eeXTJN9oEIJD8szm42aFonFkezZw.jpg?s=db9900e825cf1bd71f41faadc46c576c frameborder=0>
 - entry_name: |
     Indian guru sentenced to life for raping girl
   entry_id: 8esh3k
@@ -252,4 +242,14 @@ data:
   entry_id: 8eq9i2
   entry_content: |
     <img src=https://i.redditmedia.com/OuAd3T0ivwBtN9sU08jIlNCQvzk5yYOTJLi9G_pVRSo.jpg?s=d230dc182c3bd581f2c58c7292c11f04 frameborder=0>
+- entry_name: |
+    When r/PrequelMemes makes memes without subtitles popular again in order to confuse Pewdiepie normies
+  entry_id: 8epvco
+  entry_content: |
+    <img src=https://i.redditmedia.com/hJhl1MIQupcgO0zMOTb5ztgKZw35UdV49GUhI8R2OW4.jpg?s=942df932cdf84e0fc2e5b2095db7c66d frameborder=0>
+- entry_name: |
+    So many distractions.
+  entry_id: 8enbmx
+  entry_content: |
+    <iframe src=https://v.redd.it/25v2qjo7uwt01/DASH_2_4_M frameborder=0></iframe>
 ---
