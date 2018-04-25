@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4nlvBKzOorpa89GLq1Hn_T_wj4efYv6c45hM2Pbx5g8.jpg?s=7ee1dc4f42b3ffdc72b6b1782383e7af frameborder=0>
 - entry_name: |
-    #SAVEMELANIA
-  entry_id: 8emizq
-  entry_content: |
-    <img src=https://i.redditmedia.com/lSP5xDv741SGLkw1u87dFFRfcIAKwh_K7EhUUPE6ZWM.gif?fm=jpg&s=64205cb5822bdb1c46c0f1ca518b5e3c frameborder=0>
-- entry_name: |
     A hidden buddha surrounded by a hill of lavenders, Japan.
   entry_id: 8emlux
   entry_content: |
@@ -98,11 +93,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/qgavr39ctwt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    My school has a duck that returns every year and has ducklings; here are her 2018 babies!
-  entry_id: 8emdrz
-  entry_content: |
-    <iframe src=https://v.redd.it/b3s1ard18wt01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     This stop motion
   entry_id: 8eq9fi
   entry_content: |
@@ -121,7 +111,7 @@ data:
     MRW I find a single ant inside and it's spring
   entry_id: 8epgwt
   entry_content: |
-    <iframe src=https://v.redd.it/h8kbmjz6ayt01/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/rskhmsivg3u01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     “Absolutely Have Fun!”
   entry_id: 8eppq6
@@ -203,11 +193,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tnbcty96bwt01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    We must realise we are doomed
-  entry_id: 8emfg7
-  entry_content: |
-    <img src=https://i.redditmedia.com/WpbgMtwq-ocuaDHeAiYF5pXvBJig4vVjxjSagKN45U0.jpg?s=c6e217513443eb13d996577f99bfe71d frameborder=0>
-- entry_name: |
     Indian guru sentenced to life for raping girl
   entry_id: 8esh3k
   entry_content: |
@@ -248,8 +233,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/NTdTmcAwZzvFZiEoOm3q-qSOKG__PnIZkLFemDFhtvY.jpg?s=97a8393e234457fa2f3151fd74efe650 frameborder=0>
 - entry_name: |
-    Great execution! 10/10
-  entry_id: 8esyb9
+    True human kindness. ❤️
+  entry_id: 8epxoa
   entry_content: |
-    <iframe src=https://v.redd.it/y633deebn1u01/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/6ZAPnGwUlbGdlL9-AeiBhpP601-teSj4EoOBy8cBgtA.jpg?s=73ac241657e6e5e9037dff499462e6b7 frameborder=0>
+- entry_name: |
+    I (female) was super proud of my mom-made Captain Picard costume
+  entry_id: 8enfpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/gj6k17sHE2I-NllJBK9n9Tr1nAkogqPyZPgPyMb4OV8.jpg?s=3ec2b95774ed38eeca1d9a86feab508b frameborder=0>
+- entry_name: |
+    Dogs cannot get ‘autism’, British Veterinary Association warns after ‘anti-vaxx’ movement spread to pets
+  entry_id: 8etnji
+  entry_content: |
+    <img src=https://i.redditmedia.com/7eGayw0cabaXT0TXYjuzRxEd7BgpfGLYeGFFh5kqPNg.jpg?s=ce80834201b74db974c13f439b7940ec frameborder=0>
+- entry_name: |
+    I was told I should share my eye with y'all. It is fake so I have not nerfed my real eye (kids don't try this at home). Lost it this past summer in a softball accident.
+  entry_id: 8et3fy
+  entry_content: |
+    <iframe src=https://v.redd.it/389kqwwjr1u01/DASH_9_6_M frameborder=0></iframe>
 ---
