@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zUZoTEF06XdIsJg7SdonwnGmOHVbhxF3ttRZDTjHv5g.jpg?s=6327120fa76b892cfb39cc838b3a6ebc frameborder=0>
 - entry_name: |
-    When you have an empty mag in VR
-  entry_id: 8ence6
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDearSmoggyGalapagosalbatross&url=https%3A%2F%2Fgfycat.com%2FDearSmoggyGalapagosalbatross&image=https%3A%2F%2Fthumbs.gfycat.com%2FDearSmoggyGalapagosalbatross-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     I’m American, and a tweet that I sent out was featured in an Australian Newspaper, who thought I was English
   entry_id: 8eprvq
   entry_content: |
@@ -218,11 +213,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dbnl2rbq82u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I (female) was super proud of my mom-made Captain Picard costume
-  entry_id: 8enfpj
-  entry_content: |
-    <img src=https://i.redditmedia.com/gj6k17sHE2I-NllJBK9n9Tr1nAkogqPyZPgPyMb4OV8.jpg?s=3ec2b95774ed38eeca1d9a86feab508b frameborder=0>
-- entry_name: |
     Study of long-term heterosexual couples finds women over-estimate and men underestimate their partner’s sexual advances
   entry_id: 8esmy3
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8eq9i2
   entry_content: |
     <img src=https://i.redditmedia.com/OuAd3T0ivwBtN9sU08jIlNCQvzk5yYOTJLi9G_pVRSo.jpg?s=d230dc182c3bd581f2c58c7292c11f04 frameborder=0>
+- entry_name: |
+    Apple will start paying $16 billion in back taxes to Ireland
+  entry_id: 8eo5wa
+  entry_content: |
+    <img src=https://i.redditmedia.com/TF0HRctx_xn0sSz5Z5jGtbj2KhE8SDEoWVO-W2N55T8.jpg?s=73db3690847c4d5c511f7ce9f736e758 frameborder=0>
+- entry_name: |
+    When r/PrequelMemes makes memes without subtitles popular again in order to confuse Pewdiepie normies
+  entry_id: 8epvco
+  entry_content: |
+    <img src=https://i.redditmedia.com/hJhl1MIQupcgO0zMOTb5ztgKZw35UdV49GUhI8R2OW4.jpg?s=942df932cdf84e0fc2e5b2095db7c66d frameborder=0>
 ---
