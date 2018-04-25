@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3vL63QOIuazGeZnJFaQT937i4zGXgvcXXt6zdi-1pBU.jpg?s=e15b580b1bb7e871782611547f2244c7 frameborder=0>
 - entry_name: |
-    My grandpa 1950s vs my Jr. year high school photo.
-  entry_id: 8eqpdv
-  entry_content: |
-    <img src=https://i.redditmedia.com/ljPT1GQEmtJQOF1HblvfKRyg4M-XkO4xwDxwaqjf2Z0.jpg?s=d5681f9543a148a3a83634cda017b9f4 frameborder=0>
-- entry_name: |
     TIL George H.W. Bush ordered emergency airlifts of food and supplies to Somalia in 1992.“Operation Restore Hope,” to help the starving country by protecting food shipments from the warlords. By helping to end the famine, American forces saved around 100,000 lives
   entry_id: 8emz25
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8epa2l
   entry_content: |
     <img src=https://i.redditmedia.com/NTdTmcAwZzvFZiEoOm3q-qSOKG__PnIZkLFemDFhtvY.jpg?s=97a8393e234457fa2f3151fd74efe650 frameborder=0>
+- entry_name: |
+    Great execution! 10/10
+  entry_id: 8esyb9
+  entry_content: |
+    <iframe src=https://v.redd.it/y633deebn1u01/DASH_600_K frameborder=0></iframe>
 ---
