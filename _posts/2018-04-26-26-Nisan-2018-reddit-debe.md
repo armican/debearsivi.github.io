@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4nlvBKzOorpa89GLq1Hn_T_wj4efYv6c45hM2Pbx5g8.jpg?s=7ee1dc4f42b3ffdc72b6b1782383e7af frameborder=0>
 - entry_name: |
-    For every girl who wonders if a guy is staring at her, there is a guy who accidentally makes eye contact and is now afraid that she thinks he was staring at her.
-  entry_id: 8enp6j
-  entry_content: |
-    null
-- entry_name: |
     TIL in 2007, Big Bang Theory set designers toured the apartments being used by current graduate students to see how young scientists really live. They did a faithful re-creation of the apartments, but after CBS tested the show, the sets were scrapped because they were too depressing.
   entry_id: 8eqqf4
   entry_content: |
@@ -118,11 +113,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/o72t7yg2dxt01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    This Camera Effect.
-  entry_id: 8ensbf
-  entry_content: |
-    <img src=https://i.redditmedia.com/WGpNnUpleJsMdvq3Km4sw4HKwCINDQ26eXr5z-wJXtU.jpg?s=93b30213e16cabf4d76bc8fef3639681 frameborder=0>
-- entry_name: |
     Our president ignores an American hero: Trump’s silence on the Waffle House murders is deafening
   entry_id: 8eonem
   entry_content: |
@@ -183,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
-    Miss Universe 2013 Host Thomas Roberts Confirms: Trump Stayed Overnight in Moscow
-  entry_id: 8enrjn
-  entry_content: |
-    <img src=https://i.redditmedia.com/7v9Npvn85AcTbS99dfLJP0DZbC2SfnPRauffB1m8XQY.jpg?s=93dbd12c75384ecdf63bcfea6a54d18d frameborder=0>
-- entry_name: |
     Teppanyaki Caramel Popcorn
   entry_id: 8esdgy
   entry_content: |
@@ -207,11 +192,6 @@ data:
   entry_id: 8esmy3
   entry_content: |
     <img src=https://i.redditmedia.com/uEMKXfmihCoE1cAwyis2y81HhMSzbIdBjbZLg1qquk0.jpg?s=680ee228f8b6ed6c7557d8ce86286e10 frameborder=0>
-- entry_name: |
-    PsBattle: Taika Waititi and Paul Rudd at the Infinity War Premiere
-  entry_id: 8enrug
-  entry_content: |
-    <img src=https://i.redditmedia.com/29UnjaLGlYnuKWxvnTZUoCZTWPqM7kc1rzUs70KZ8Lw.jpg?s=bce41f580a46b4506ef114e73bfa9aef frameborder=0>
 - entry_name: |
     The Elevator prank, one of the most wholesome prank on Youtube
   entry_id: 8esay9
@@ -251,4 +231,24 @@ data:
   entry_id: 8epvco
   entry_content: |
     <img src=https://i.redditmedia.com/hJhl1MIQupcgO0zMOTb5ztgKZw35UdV49GUhI8R2OW4.jpg?s=942df932cdf84e0fc2e5b2095db7c66d frameborder=0>
+- entry_name: |
+    Apple will start paying $16 billion in back taxes to Ireland
+  entry_id: 8eo5wa
+  entry_content: |
+    <img src=https://i.redditmedia.com/TF0HRctx_xn0sSz5Z5jGtbj2KhE8SDEoWVO-W2N55T8.jpg?s=73db3690847c4d5c511f7ce9f736e758 frameborder=0>
+- entry_name: |
+    Choose your Fighter
+  entry_id: 8eslvs
+  entry_content: |
+    <img src=https://i.redditmedia.com/lKdbUsB6O0wfPcbxP_HZFhbmYrzDwJnzuACQ4E8rTA4.jpg?s=4f222e374ec91aad6898ca21efe69b28 frameborder=0>
+- entry_name: |
+    Hand Made Ghost Ship
+  entry_id: 8epex7
+  entry_content: |
+    <img src=https://i.redditmedia.com/vYANegvSSJ4jhvKWqtH_01Csdif11UP2C1JYxyxDONQ.jpg?s=f3f8488e377aad42fa3587800cc2299b frameborder=0>
+- entry_name: |
+    American Cities Are Fighting Big Business Over Wireless Internet, and They’re Losing: “It’s often lost on the public just how badly they’re being screwed”
+  entry_id: 8etfj5
+  entry_content: |
+    <img src=https://i.redditmedia.com/fkh7kJ-lr0hqJiSE9rKmopehObQtRPTZK7f9ekOGE_k.jpg?s=4e997a05cab22f9b912557df95b88ef5 frameborder=0>
 ---
