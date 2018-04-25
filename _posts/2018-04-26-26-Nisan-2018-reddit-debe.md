@@ -188,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vc1z0pccp_LvXqh7psYuDUuHjt1APFkLgdbSJeOCZvU.jpg?s=5b71b4975552a7bf6a57a069b7fa50dd frameborder=0>
 - entry_name: |
-    The Southlake, TX police lit a bonfire on FB (when they roasted this trash)
-  entry_id: 8emt93
-  entry_content: |
-    <img src=https://i.redditmedia.com/wbr4Y9IVPsC6WD3QGrPJOM2HSQApxeiPIEtmGVxQXLk.jpg?s=5f86d526b106c5d296ea6ad3f6f7afea frameborder=0>
-- entry_name: |
     Useless minimalism, stop that
   entry_id: 8es86m
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8eo5wa
   entry_content: |
     <img src=https://i.redditmedia.com/TF0HRctx_xn0sSz5Z5jGtbj2KhE8SDEoWVO-W2N55T8.jpg?s=73db3690847c4d5c511f7ce9f736e758 frameborder=0>
+- entry_name: |
+    How did you know?
+  entry_id: 8eq9i2
+  entry_content: |
+    <img src=https://i.redditmedia.com/OuAd3T0ivwBtN9sU08jIlNCQvzk5yYOTJLi9G_pVRSo.jpg?s=d230dc182c3bd581f2c58c7292c11f04 frameborder=0>
 ---
