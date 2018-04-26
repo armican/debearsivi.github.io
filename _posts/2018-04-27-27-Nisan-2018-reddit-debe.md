@@ -93,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZTHaZ_No_8naKjXuMenVkNwoyu4wTn0ySTXqQbhOWAM.gif?fm=jpg&s=3ac84b6da4b42f9487438bd7c3f1747e frameborder=0>
 - entry_name: |
-    The way this wood split looks like a city skyline
-  entry_id: 8f1g1v
-  entry_content: |
-    <img src=https://i.redditmedia.com/WWj_MUs6C6DXXW5C1KRfzJhKVTTLxEwu6_cK_wiz-bE.jpg?s=bac737c3eb8e2fe085f1d4af23a246b7 frameborder=0>
-- entry_name: |
     Justice for 50v50 Troll
   entry_id: 8ew5gp
   entry_content: |
@@ -137,11 +132,6 @@ data:
   entry_id: 8f0g77
   entry_content: |
     <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8eveqd
-  entry_content: |
-    <img src=https://i.redditmedia.com/db_ScXlDv3oz25IHunm5kOk86YTisCCkGOU69rDGKwk.jpg?s=7316882cd07de409c811f480081887aa frameborder=0>
 - entry_name: |
     Yosemite falls spewing rainbows
   entry_id: 8ex9v5
@@ -250,4 +240,14 @@ data:
   entry_id: 8f0wq2
   entry_content: |
     <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
+- entry_name: |
+    Lebron James game winning three! - TNT
+  entry_id: 8ez0ut
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Ft%2F2l206&url=https%3A%2F%2Fstreamable.com%2F2l206&image=https%3A%2F%2Fcf-e2.streamablevideo.com%2Fimage%2F2l206.jpg%3Ftoken%3D1524707085-lRkJKz3KMsJKd8vyh7mHVaZJDI1ILAAHdSoV0EOn6aU%253D&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Judge: Bars are allowed to throw out Trump supporters
+  entry_id: 8ewxwm
+  entry_content: |
+    <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
 ---
