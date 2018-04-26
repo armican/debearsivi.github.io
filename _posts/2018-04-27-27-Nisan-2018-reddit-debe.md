@@ -13,15 +13,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KgtUgyj236zCcdBzd4Q2KT9hGsucVF9JI5ufEUNDuqo.jpg?s=6b827b0756975db6cc76f807442ee5a0 frameborder=0>
 - entry_name: |
-    I asked my bar guest what she was writing. Turns out she has 3 daughters and she writes 5 lines a day to each of them. These will be gifts when they get married one day. Mom of the year.
-  entry_id: 8ez7m0
-  entry_content: |
-    <img src=https://i.redditmedia.com/O7kTEtMGtFxbGSMdMdAVZn6gz0003qSyuyv2oDHnQGk.jpg?s=e7fed6ab7fb31b8617e6d883ad67f428 frameborder=0>
-- entry_name: |
     I’ll be damned. It worked. Heading to store now for air freshener and some silky soft toilet paper.
   entry_id: 8f1z3h
   entry_content: |
     <img src=https://i.redditmedia.com/lFvZuSSHcWj4EPgytu2f1JXXHgsjb39OSpB2-HZ-b-A.jpg?s=34ac6287e16fa29c338c1c661cfcd791 frameborder=0>
+- entry_name: |
+    I asked my bar guest what she was writing. Turns out she has 3 daughters and she writes 5 lines a day to each of them. These will be gifts when they get married one day. Mom of the year.
+  entry_id: 8ez7m0
+  entry_content: |
+    <img src=https://i.redditmedia.com/O7kTEtMGtFxbGSMdMdAVZn6gz0003qSyuyv2oDHnQGk.jpg?s=e7fed6ab7fb31b8617e6d883ad67f428 frameborder=0>
 - entry_name: |
     Pets are the 1% of animals.
   entry_id: 8eysqs
@@ -38,45 +38,49 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UhRVjr6wSNL37TzYYi1EcARscWo9JYHPyaz5Ucr0qZg.jpg?s=88e213fe0ef6d21184b6f5bd5e2164d4 frameborder=0>
 - entry_name: |
-    Wings cosplay costume looks unreal
-  entry_id: 8exa40
-  entry_content: |
-    <iframe src=https://v.redd.it/m9xf6d0xh4u01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     My wife is fat shaming me.
   entry_id: 8ezn9a
   entry_content: |
     <img src=https://i.redditmedia.com/W5gPw_ItT5fV6fw_ibQCwaStM81qr5bstWPhswKwtao.jpg?s=aa9eacae4e7ae4523e80d7e9988d8ded frameborder=0>
+- entry_name: |
+    Wings cosplay costume looks unreal
+  entry_id: 8exa40
+  entry_content: |
+    <iframe src=https://v.redd.it/m9xf6d0xh4u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Real time MRI of a talking person
   entry_id: 8eyawh
   entry_content: |
     <iframe src=https://v.redd.it/631vtw6o75u01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Breaking a glass with a megaphone
-  entry_id: 8eyh3e
-  entry_content: |
-    <iframe src=https://v.redd.it/5lrgwn0bc5u01/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     When you finish your last rep of sit-ups
   entry_id: 8f1r2i
   entry_content: |
     <img src=https://i.redditmedia.com/ZTHaZ_No_8naKjXuMenVkNwoyu4wTn0ySTXqQbhOWAM.gif?fm=jpg&s=3ac84b6da4b42f9487438bd7c3f1747e frameborder=0>
 - entry_name: |
-    What the Verdun battlefield looks like now
-  entry_id: 8exg8r
+    Breaking a glass with a megaphone
+  entry_id: 8eyh3e
   entry_content: |
-    <img src=https://i.redditmedia.com/L6tEP9u_0iQqYo4TJgBtDNh8cdZ95VnJbfFI8bbjFDA.jpg?s=99b24be814b3d7d0549a6a7bc0b17ed0 frameborder=0>
+    <iframe src=https://v.redd.it/5lrgwn0bc5u01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Get a cat they said. They're lovely animals they said..
   entry_id: 8f1sxg
   entry_content: |
     <img src=https://i.redditmedia.com/PoyBBA5yT6E7NEfQxyCdkcB01PwZDzq0RHzPGxcpi-U.jpg?s=53703ef6d8cf466a3430ac84268cad16 frameborder=0>
 - entry_name: |
+    What the Verdun battlefield looks like now
+  entry_id: 8exg8r
+  entry_content: |
+    <img src=https://i.redditmedia.com/L6tEP9u_0iQqYo4TJgBtDNh8cdZ95VnJbfFI8bbjFDA.jpg?s=99b24be814b3d7d0549a6a7bc0b17ed0 frameborder=0>
+- entry_name: |
     Kim Jong-un will on Friday become the first North Korean leader since the war to cross the military demarcation line that divides the Korean peninsula. He will be meeting South Korea's President Moon Jae-in, the first such diplomacy in more than a decade.
   entry_id: 8f01qf
   entry_content: |
     <img src=https://i.redditmedia.com/SJyXeoL-4uM4ejPajXF3Z4fkgv7EexwTTuzVDYrSOuk.jpg?s=eaf89fd6eed671ffdd47a500e7219007 frameborder=0>
+- entry_name: |
+  entry_id: 8f1rk7
+  entry_content: |
+    <img src=https://i.redditmedia.com/66dFo6x8YiwklNCsDh5P7OOM-S2nh_CFwjw7ZnK4xiU.png?s=cd3ebc2c812a4da074b64d5ee4b91c6f frameborder=0>
 - entry_name: |
     Most Cubans have no internet access, but get a rich variety of media and information in El Paquete (the weekly package), a 1 Tb collection of info distributed on USB keys. Selling EP is the largest occupation in Cuba, and challenges notions of how networks operate & what they mean to citizens
   entry_id: 8ex7p6
@@ -88,9 +92,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3faviE8HBHKpyCesIeJ3QBK5AvOUTXK3aDi-XrPNXH0.jpg?s=15730b102243862ed271f1cf14ace27e frameborder=0>
 - entry_name: |
-  entry_id: 8f1rk7
+    Bill Cosby found guilty on all sex assault charges
+  entry_id: 8f4nlp
   entry_content: |
-    <img src=https://i.redditmedia.com/66dFo6x8YiwklNCsDh5P7OOM-S2nh_CFwjw7ZnK4xiU.png?s=cd3ebc2c812a4da074b64d5ee4b91c6f frameborder=0>
+    <img src=https://i.redditmedia.com/VXlaTW3Hb1uufDNyZcNF0A4wmJsrcoyKNfXL2-e7S7Y.jpg?s=908f02534fecd70086dc8bac019a623a frameborder=0>
+- entry_name: |
+    Like shooting fish in a barrel
+  entry_id: 8f2yhf
+  entry_content: |
+    <iframe src=https://v.redd.it/o2iylfbwg9u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Forget to take basic measurements prior to heist, WCGW?
   entry_id: 8ezaku
@@ -102,25 +112,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/u-KPgRS6V9Q7OBaRPhT4Gq7WKebvjygHEvd-eVWIcac.jpg?s=ef140e0a0db37a9ebdb0651007cd1906 frameborder=0>
 - entry_name: |
+    TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
+  entry_id: 8f0g77
+  entry_content: |
+    <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
+- entry_name: |
     She was a stray, but now she's mine.
   entry_id: 8exz9u
   entry_content: |
     <img src=https://i.redditmedia.com/ZatQrjls2fiSfTZV38d4O74MBkAiKe-xk0vs7i79VzM.jpg?s=3bcd3fafe2226e437de9952f92ca0151 frameborder=0>
 - entry_name: |
-    TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
-  entry_id: 8f0g77
+    TIL Manoj Bhargava the creator of 5 Hour energy created the formula in 30 days, has a net worth of 4 billion and plans donate 99 percent of his wealth by creating a series of inventions to help 3rd world countries receive basic functions like water, electricity, and health.
+  entry_id: 8f27r4
   entry_content: |
-    <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/CyBHaF_RSjI?start=203&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Friend made a Khajiit mask from scratch
+  entry_id: 8f1dc1
+  entry_content: |
+    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
 - entry_name: |
     This Cracked Vase
   entry_id: 8eys5r
   entry_content: |
     <iframe src=https://v.redd.it/t41gg7mlk5u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Friend made a Khajiit mask from scratch
-  entry_id: 8f1dc1
+    Pig Puzzle
+  entry_id: 8f1r62
   entry_content: |
-    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
+    <iframe src=https://v.redd.it/7rnwhv5mi8u01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Girl from my hometown who's been playing guitar her whole life got to play with Green Day! This isn't even staged
   entry_id: 8ex2lg
@@ -131,11 +151,6 @@ data:
   entry_id: 8ex9v5
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnergeticAccurateHeron&url=https%3A%2F%2Fgfycat.com%2FEnergeticAccurateHeron&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnergeticAccurateHeron-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Pig Puzzle
-  entry_id: 8f1r62
-  entry_content: |
-    <iframe src=https://v.redd.it/7rnwhv5mi8u01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Fresh new trump tweet format BUY BUY BUY!!!
   entry_id: 8f03wk
@@ -152,48 +167,62 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vgzs8duh35u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL Manoj Bhargava the creator of 5 Hour energy created the formula in 30 days, has a net worth of 4 billion and plans donate 99 percent of his wealth by creating a series of inventions to help 3rd world countries receive basic functions like water, electricity, and health.
-  entry_id: 8f27r4
+    This trucks shadow says Hi
+  entry_id: 8f3l3r
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/CyBHaF_RSjI?start=203&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/Xh86kMmJG0pMY60VVJOI06fHVFJi3QX6dszR8IL32ng.jpg?s=c2c9aad9dedefcb18e2e7782723ac8f9 frameborder=0>
 - entry_name: |
     He’s doing what he can with what he’s got
   entry_id: 8f096h
   entry_content: |
     <img src=https://i.redditmedia.com/5ommS5gJKFwMwsDo_ptj3odv2wgLBe18if2ZDWVn00E.jpg?s=c018bdb6ced3e0360f4d6d392423f403 frameborder=0>
 - entry_name: |
-    The good old days
-  entry_id: 8ex4ku
+    Facebook admits it did not read the terms of the app that harvested data of 87 million
+  entry_id: 8f1rx5
   entry_content: |
-    <iframe src=https://v.redd.it/i1mf639ce4u01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/8LEcIqHdj8AYqsH_2-oMWAQAXorDONHD9pfikJH39DE.jpg?s=34f0428cb60b0e2a434406e0779de996 frameborder=0>
+- entry_name: |
+  entry_id: 8f2k5x
+  entry_content: |
+    <img src=https://i.redditmedia.com/ncX6WY5Wj0ec5B-Ik_47fAIwxMKM2KGWz82WTqs7Vak.jpg?s=9ccaea5e1c816e3276cd64c8107d1d4a frameborder=0>
 - entry_name: |
     The worst thing ever
   entry_id: 8f0wq2
   entry_content: |
     <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
 - entry_name: |
-    Damn it Ja, not now
-  entry_id: 8ezivr
+    The good old days
+  entry_id: 8ex4ku
   entry_content: |
-    <img src=https://i.redditmedia.com/GNO6D_02TRXaIW0n71xkRRNlZFX7-w1sQHc2IC1XVq0.png?s=88ab06ff759ac775c14edcbcb8cea9c9 frameborder=0>
+    <iframe src=https://v.redd.it/i1mf639ce4u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The most Insecure Man in the World
-  entry_id: 8ey3ng
+    Genie: You have 3 wishes.
+  entry_id: 8f0hc1
   entry_content: |
-    <img src=https://i.redditmedia.com/9_RvV4w1T1YUfWP2sV8b23T0ndCxG5-_QH4R5WlCUAU.jpg?s=334823d0cd92cdfb5bcae8f8a621d67b frameborder=0>
+    null
 - entry_name: |
     Rain at a Japanese temple
   entry_id: 8f0vt7
   entry_content: |
     <iframe src=https://v.redd.it/5vudlolji7u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Like shooting fish in a barrel
-  entry_id: 8f2yhf
+    Damn it Ja, not now
+  entry_id: 8ezivr
   entry_content: |
-    <iframe src=https://v.redd.it/o2iylfbwg9u01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/GNO6D_02TRXaIW0n71xkRRNlZFX7-w1sQHc2IC1XVq0.png?s=88ab06ff759ac775c14edcbcb8cea9c9 frameborder=0>
 - entry_name: |
-    Genie: You have 3 wishes.
-  entry_id: 8f0hc1
+    Gamer dog.
+  entry_id: 8f398v
+  entry_content: |
+    <iframe src=https://v.redd.it/7zg2d0qze9u01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The most Insecure Man in the World
+  entry_id: 8ey3ng
+  entry_content: |
+    <img src=https://i.redditmedia.com/9_RvV4w1T1YUfWP2sV8b23T0ndCxG5-_QH4R5WlCUAU.jpg?s=334823d0cd92cdfb5bcae8f8a621d67b frameborder=0>
+- entry_name: |
+    Nothing screams first world problem more than trying to decide which piece of your food you want to eat last cause the last flavor in your mouth matters.
+  entry_id: 8f2bpy
   entry_content: |
     null
 - entry_name: |
@@ -202,52 +231,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SNiCum1mEkYcH8jUHRITZ3RMcLT-Tgh_LE8HAwK8dgU.jpg?s=b8d84ea4c0022823ab2005464d60b7d1 frameborder=0>
 - entry_name: |
-  entry_id: 8f2k5x
-  entry_content: |
-    <img src=https://i.redditmedia.com/ncX6WY5Wj0ec5B-Ik_47fAIwxMKM2KGWz82WTqs7Vak.jpg?s=9ccaea5e1c816e3276cd64c8107d1d4a frameborder=0>
-- entry_name: |
     Young fan at Yankees game snags a foul ball with a glove full of popcorn
   entry_id: 8eyzc6
   entry_content: |
     <iframe src=https://v.redd.it/tl8u129xp5u01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Facebook admits it did not read the terms of the app that harvested data of 87 million
-  entry_id: 8f1rx5
+    Not so good boy
+  entry_id: 8f289l
   entry_content: |
-    <img src=https://i.redditmedia.com/8LEcIqHdj8AYqsH_2-oMWAQAXorDONHD9pfikJH39DE.jpg?s=34f0428cb60b0e2a434406e0779de996 frameborder=0>
+    <img src=https://i.redditmedia.com/UZPlmVwzi4GlZBODpj2T4NYvqJrQz-umToNq6M5CVUI.jpg?s=3bc421c8fbb201c9661606ac24136fbf frameborder=0>
+- entry_name: |
+    First of all, let me reintroduce myself
+  entry_id: 8f1qq8
+  entry_content: |
+    <img src=https://i.redditmedia.com/KrI_vseLJN8usbn6btGbVDFi9pGZTRosAhsRtnfsPR8.jpg?s=d158f8e2392ec118925ac998a114881c frameborder=0>
 - entry_name: |
     KKKanye
   entry_id: 8exeyx
   entry_content: |
     <img src=https://i.redditmedia.com/hiMBs3_Ha_67D-xJJb7ZwrTW40ZMm0qBvccO8h-GKMo.jpg?s=0fab5b84c3f854e5907ae2cf77dd041d frameborder=0>
-- entry_name: |
-    Lebron James game winning three! - TNT
-  entry_id: 8ez0ut
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Ft%2F2l206&url=https%3A%2F%2Fstreamable.com%2F2l206&image=https%3A%2F%2Fcf-e2.streamablevideo.com%2Fimage%2F2l206.jpg%3Ftoken%3D1524707085-lRkJKz3KMsJKd8vyh7mHVaZJDI1ILAAHdSoV0EOn6aU%253D&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Trump VA pick withdraws nomination
-  entry_id: 8f22em
-  entry_content: |
-    <img src=https://i.redditmedia.com/rd9wI9Uj8QIpOIq1EsPd4g5oZoOsC7L0Hxeexmuqubs.jpg?s=822ee908526e463169d02b5773e7926b frameborder=0>
-- entry_name: |
-    So...who’s telling Mr.Krabs?
-  entry_id: 8exejy
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZFsjiDwaMm1r2m7e3cBweApbzxHWdhsJjyjOFuE4Vdo.jpg?s=a191b74da7bfbb192d22b250be9c95dd frameborder=0>
-- entry_name: |
-    Judge: Bars are allowed to throw out Trump supporters
-  entry_id: 8ewxwm
-  entry_content: |
-    <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
-- entry_name: |
-    *SLAMS FIST ON TABLE*
-  entry_id: 8eyv25
-  entry_content: |
-    <img src=https://i.redditmedia.com/Fu_F5gjf6c-ddAWymjJbQ3FDyTycUdCKQNQC6NQ46Qk.jpg?s=c3e8a4e677446b22264a86cb556ff1be frameborder=0>
-- entry_name: |
-    TIL that 'The Hobbit' crew used up all of the gold paint in Australasia for creating Smaug's lair. They used up so much paint that they had to actually pick more up from Germany.
-  entry_id: 8f1ler
-  entry_content: |
-    <img src=https://i.redditmedia.com/w0hbNZpqq0l73Sccmrw18BwWO4_p6Mi3YeU7wT29lb8.jpg?s=aabc74812c66568aa59a188d5be6e038 frameborder=0>
 ---
