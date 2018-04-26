@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/631vtw6o75u01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Lucky Penny
-  entry_id: 8evoj8
-  entry_content: |
-    <img src=https://i.redditmedia.com/ELOhoeF9ujfl9RpRA0EntnFqcyz0wYrfMkDTDSgXNU4.jpg?s=8a6241af3746c5ad968d6bf1f0da0068 frameborder=0>
-- entry_name: |
     Breaking a glass with a megaphone
   entry_id: 8eyh3e
   entry_content: |
@@ -211,11 +206,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5vudlolji7u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    the song got an update, the horse was replaced
-  entry_id: 8evlrm
-  entry_content: |
-    <img src=https://i.redditmedia.com/0N3jShfftOPv4AyT-qNSW7C4eF0QwyPKn0ThKFRvwh4.png?s=ac9982ad4e77119ba589ed88cf491c9d frameborder=0>
-- entry_name: |
     Cotton Candy Eating Contest
   entry_id: 8ewayh
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8ewxwm
   entry_content: |
     <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
+- entry_name: |
+    So...who’s telling Mr.Krabs?
+  entry_id: 8exejy
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZFsjiDwaMm1r2m7e3cBweApbzxHWdhsJjyjOFuE4Vdo.jpg?s=a191b74da7bfbb192d22b250be9c95dd frameborder=0>
+- entry_name: |
+    Young fan at Yankees game snags a foul ball with a glove full of popcorn
+  entry_id: 8eyzc6
+  entry_content: |
+    <iframe src=https://v.redd.it/tl8u129xp5u01/DASH_2_4_M frameborder=0></iframe>
 ---
