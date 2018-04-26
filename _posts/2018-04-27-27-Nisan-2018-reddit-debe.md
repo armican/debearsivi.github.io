@@ -18,6 +18,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O7kTEtMGtFxbGSMdMdAVZn6gz0003qSyuyv2oDHnQGk.jpg?s=e7fed6ab7fb31b8617e6d883ad67f428 frameborder=0>
 - entry_name: |
+    I’ll be damned. It worked. Heading to store now for air freshener and some silky soft toilet paper.
+  entry_id: 8f1z3h
+  entry_content: |
+    <img src=https://i.redditmedia.com/lFvZuSSHcWj4EPgytu2f1JXXHgsjb39OSpB2-HZ-b-A.jpg?s=34ac6287e16fa29c338c1c661cfcd791 frameborder=0>
+- entry_name: |
     Pets are the 1% of animals.
   entry_id: 8eysqs
   entry_content: |
@@ -38,11 +43,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/m9xf6d0xh4u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I’ll be damned. It worked. Heading to store now for air freshener and some silky soft toilet paper.
-  entry_id: 8f1z3h
-  entry_content: |
-    <img src=https://i.redditmedia.com/lFvZuSSHcWj4EPgytu2f1JXXHgsjb39OSpB2-HZ-b-A.jpg?s=34ac6287e16fa29c338c1c661cfcd791 frameborder=0>
-- entry_name: |
     My wife is fat shaming me.
   entry_id: 8ezn9a
   entry_content: |
@@ -58,25 +58,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5lrgwn0bc5u01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    What the Verdun battlefield looks like now
-  entry_id: 8exg8r
-  entry_content: |
-    <img src=https://i.redditmedia.com/L6tEP9u_0iQqYo4TJgBtDNh8cdZ95VnJbfFI8bbjFDA.jpg?s=99b24be814b3d7d0549a6a7bc0b17ed0 frameborder=0>
-- entry_name: |
     When you finish your last rep of sit-ups
   entry_id: 8f1r2i
   entry_content: |
     <img src=https://i.redditmedia.com/ZTHaZ_No_8naKjXuMenVkNwoyu4wTn0ySTXqQbhOWAM.gif?fm=jpg&s=3ac84b6da4b42f9487438bd7c3f1747e frameborder=0>
 - entry_name: |
-    Most Cubans have no internet access, but get a rich variety of media and information in El Paquete (the weekly package), a 1 Tb collection of info distributed on USB keys. Selling EP is the largest occupation in Cuba, and challenges notions of how networks operate & what they mean to citizens
-  entry_id: 8ex7p6
+    What the Verdun battlefield looks like now
+  entry_id: 8exg8r
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/L6tEP9u_0iQqYo4TJgBtDNh8cdZ95VnJbfFI8bbjFDA.jpg?s=99b24be814b3d7d0549a6a7bc0b17ed0 frameborder=0>
+- entry_name: |
+    Get a cat they said. They're lovely animals they said..
+  entry_id: 8f1sxg
+  entry_content: |
+    <img src=https://i.redditmedia.com/PoyBBA5yT6E7NEfQxyCdkcB01PwZDzq0RHzPGxcpi-U.jpg?s=53703ef6d8cf466a3430ac84268cad16 frameborder=0>
 - entry_name: |
     Kim Jong-un will on Friday become the first North Korean leader since the war to cross the military demarcation line that divides the Korean peninsula. He will be meeting South Korea's President Moon Jae-in, the first such diplomacy in more than a decade.
   entry_id: 8f01qf
   entry_content: |
     <img src=https://i.redditmedia.com/SJyXeoL-4uM4ejPajXF3Z4fkgv7EexwTTuzVDYrSOuk.jpg?s=eaf89fd6eed671ffdd47a500e7219007 frameborder=0>
+- entry_name: |
+    Most Cubans have no internet access, but get a rich variety of media and information in El Paquete (the weekly package), a 1 Tb collection of info distributed on USB keys. Selling EP is the largest occupation in Cuba, and challenges notions of how networks operate & what they mean to citizens
+  entry_id: 8ex7p6
+  entry_content: |
+    null
 - entry_name: |
     My father in law looking fly as hell (1980s)
   entry_id: 8ezv4v
@@ -97,25 +102,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/u-KPgRS6V9Q7OBaRPhT4Gq7WKebvjygHEvd-eVWIcac.jpg?s=ef140e0a0db37a9ebdb0651007cd1906 frameborder=0>
 - entry_name: |
-    Get a cat they said. They're lovely animals they said..
-  entry_id: 8f1sxg
-  entry_content: |
-    <img src=https://i.redditmedia.com/PoyBBA5yT6E7NEfQxyCdkcB01PwZDzq0RHzPGxcpi-U.jpg?s=53703ef6d8cf466a3430ac84268cad16 frameborder=0>
-- entry_name: |
     She was a stray, but now she's mine.
   entry_id: 8exz9u
   entry_content: |
     <img src=https://i.redditmedia.com/ZatQrjls2fiSfTZV38d4O74MBkAiKe-xk0vs7i79VzM.jpg?s=3bcd3fafe2226e437de9952f92ca0151 frameborder=0>
+- entry_name: |
+    TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
+  entry_id: 8f0g77
+  entry_content: |
+    <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
 - entry_name: |
     This Cracked Vase
   entry_id: 8eys5r
   entry_content: |
     <iframe src=https://v.redd.it/t41gg7mlk5u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
-  entry_id: 8f0g77
+    Friend made a Khajiit mask from scratch
+  entry_id: 8f1dc1
   entry_content: |
-    <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
+    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
 - entry_name: |
     Girl from my hometown who's been playing guitar her whole life got to play with Green Day! This isn't even staged
   entry_id: 8ex2lg
@@ -127,25 +132,20 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnergeticAccurateHeron&url=https%3A%2F%2Fgfycat.com%2FEnergeticAccurateHeron&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnergeticAccurateHeron-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Friend made a Khajiit mask from scratch
-  entry_id: 8f1dc1
+    Pig Puzzle
+  entry_id: 8f1r62
   entry_content: |
-    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
-- entry_name: |
-    Just screencapped this beautiful exchange on Twitter. These are our elected officials, folks.
-  entry_id: 8ew981
-  entry_content: |
-    <img src=https://i.redditmedia.com/4RpuYTecGSynf6tnQkQOChF9LkGt2wAog1OasVIDEa4.png?s=4107d67179f14c37d8f3fdf685daca9b frameborder=0>
-- entry_name: |
-    One of you is correct, and the other is a potential killer of the elderly and infirm. r/legaladvice has no patience for an antivaxxer who demands admission to their med school of choice.
-  entry_id: 8ey5u5
-  entry_content: |
-    <img src=https://i.redditmedia.com/xDWzhULrIkKDC-VjpbnrRM6W53o_GRgsYuZ5SqPpV7A.png?s=ef5e99550a481acdf681254732a8fec5 frameborder=0>
+    <iframe src=https://v.redd.it/7rnwhv5mi8u01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Fresh new trump tweet format BUY BUY BUY!!!
   entry_id: 8f03wk
   entry_content: |
     <img src=https://i.redditmedia.com/NZD1IM0s7q5QgeElgAy-HuXcNz6RWSva4E9-WHSCmt0.jpg?s=524d1c58cea8a8f9bba96cc7a20fea35 frameborder=0>
+- entry_name: |
+    One of you is correct, and the other is a potential killer of the elderly and infirm. r/legaladvice has no patience for an antivaxxer who demands admission to their med school of choice.
+  entry_id: 8ey5u5
+  entry_content: |
+    <img src=https://i.redditmedia.com/xDWzhULrIkKDC-VjpbnrRM6W53o_GRgsYuZ5SqPpV7A.png?s=ef5e99550a481acdf681254732a8fec5 frameborder=0>
 - entry_name: |
     Getting caught pickpocketing by a guard.
   entry_id: 8ey5bg
@@ -156,20 +156,25 @@ data:
   entry_content: |
     null
 - entry_name: |
+    TIL Manoj Bhargava the creator of 5 Hour energy created the formula in 30 days, has a net worth of 4 billion and plans donate 99 percent of his wealth by creating a series of inventions to help 3rd world countries receive basic functions like water, electricity, and health.
+  entry_id: 8f27r4
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/CyBHaF_RSjI?start=203&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
     He’s doing what he can with what he’s got
   entry_id: 8f096h
   entry_content: |
     <img src=https://i.redditmedia.com/5ommS5gJKFwMwsDo_ptj3odv2wgLBe18if2ZDWVn00E.jpg?s=c018bdb6ced3e0360f4d6d392423f403 frameborder=0>
 - entry_name: |
-    Pig Puzzle
-  entry_id: 8f1r62
-  entry_content: |
-    <iframe src=https://v.redd.it/7rnwhv5mi8u01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The good old days
   entry_id: 8ex4ku
   entry_content: |
     <iframe src=https://v.redd.it/i1mf639ce4u01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The worst thing ever
+  entry_id: 8f0wq2
+  entry_content: |
+    <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
 - entry_name: |
     Damn it Ja, not now
   entry_id: 8ezivr
@@ -181,35 +186,39 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9_RvV4w1T1YUfWP2sV8b23T0ndCxG5-_QH4R5WlCUAU.jpg?s=334823d0cd92cdfb5bcae8f8a621d67b frameborder=0>
 - entry_name: |
-    Vegans
-  entry_id: 8ey2ki
-  entry_content: |
-    <img src=https://i.redditmedia.com/SNiCum1mEkYcH8jUHRITZ3RMcLT-Tgh_LE8HAwK8dgU.jpg?s=b8d84ea4c0022823ab2005464d60b7d1 frameborder=0>
-- entry_name: |
     Rain at a Japanese temple
   entry_id: 8f0vt7
   entry_content: |
     <iframe src=https://v.redd.it/5vudlolji7u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    The worst thing ever
-  entry_id: 8f0wq2
+    Like shooting fish in a barrel
+  entry_id: 8f2yhf
   entry_content: |
-    <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
+    <iframe src=https://v.redd.it/o2iylfbwg9u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Genie: You have 3 wishes.
   entry_id: 8f0hc1
   entry_content: |
     null
 - entry_name: |
-    Cotton Candy Eating Contest
-  entry_id: 8ewayh
+    Vegans
+  entry_id: 8ey2ki
   entry_content: |
-    <iframe src=https://v.redd.it/hdezacujv3u01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/SNiCum1mEkYcH8jUHRITZ3RMcLT-Tgh_LE8HAwK8dgU.jpg?s=b8d84ea4c0022823ab2005464d60b7d1 frameborder=0>
+- entry_name: |
+  entry_id: 8f2k5x
+  entry_content: |
+    <img src=https://i.redditmedia.com/ncX6WY5Wj0ec5B-Ik_47fAIwxMKM2KGWz82WTqs7Vak.jpg?s=9ccaea5e1c816e3276cd64c8107d1d4a frameborder=0>
 - entry_name: |
     Young fan at Yankees game snags a foul ball with a glove full of popcorn
   entry_id: 8eyzc6
   entry_content: |
     <iframe src=https://v.redd.it/tl8u129xp5u01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Facebook admits it did not read the terms of the app that harvested data of 87 million
+  entry_id: 8f1rx5
+  entry_content: |
+    <img src=https://i.redditmedia.com/8LEcIqHdj8AYqsH_2-oMWAQAXorDONHD9pfikJH39DE.jpg?s=34f0428cb60b0e2a434406e0779de996 frameborder=0>
 - entry_name: |
     KKKanye
   entry_id: 8exeyx
@@ -221,33 +230,23 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Ft%2F2l206&url=https%3A%2F%2Fstreamable.com%2F2l206&image=https%3A%2F%2Fcf-e2.streamablevideo.com%2Fimage%2F2l206.jpg%3Ftoken%3D1524707085-lRkJKz3KMsJKd8vyh7mHVaZJDI1ILAAHdSoV0EOn6aU%253D&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Judge: Bars are allowed to throw out Trump supporters
-  entry_id: 8ewxwm
+    Trump VA pick withdraws nomination
+  entry_id: 8f22em
   entry_content: |
-    <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
+    <img src=https://i.redditmedia.com/rd9wI9Uj8QIpOIq1EsPd4g5oZoOsC7L0Hxeexmuqubs.jpg?s=822ee908526e463169d02b5773e7926b frameborder=0>
 - entry_name: |
     So...who’s telling Mr.Krabs?
   entry_id: 8exejy
   entry_content: |
     <img src=https://i.redditmedia.com/ZFsjiDwaMm1r2m7e3cBweApbzxHWdhsJjyjOFuE4Vdo.jpg?s=a191b74da7bfbb192d22b250be9c95dd frameborder=0>
 - entry_name: |
+    Judge: Bars are allowed to throw out Trump supporters
+  entry_id: 8ewxwm
+  entry_content: |
+    <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
+- entry_name: |
     I just want that juicy solid
   entry_id: 8ewbr5
   entry_content: |
     <img src=https://i.redditmedia.com/hzyET8ydgRAHpzXmrCHKjFol3m23-SuFqElFzZr4ggc.jpg?s=65462801a1f767c8ad4650da0c191a8b frameborder=0>
-- entry_name: |
-    Trump VA pick withdraws nomination
-  entry_id: 8f22em
-  entry_content: |
-    <img src=https://i.redditmedia.com/rd9wI9Uj8QIpOIq1EsPd4g5oZoOsC7L0Hxeexmuqubs.jpg?s=822ee908526e463169d02b5773e7926b frameborder=0>
-- entry_name: |
-    *SLAMS FIST ON TABLE*
-  entry_id: 8eyv25
-  entry_content: |
-    <img src=https://i.redditmedia.com/Fu_F5gjf6c-ddAWymjJbQ3FDyTycUdCKQNQC6NQ46Qk.jpg?s=c3e8a4e677446b22264a86cb556ff1be frameborder=0>
-- entry_name: |
-    TIL that 'The Hobbit' crew used up all of the gold paint in Australasia for creating Smaug's lair. They used up so much paint that they had to actually pick more up from Germany.
-  entry_id: 8f1ler
-  entry_content: |
-    <img src=https://i.redditmedia.com/w0hbNZpqq0l73Sccmrw18BwWO4_p6Mi3YeU7wT29lb8.jpg?s=aabc74812c66568aa59a188d5be6e038 frameborder=0>
 ---
