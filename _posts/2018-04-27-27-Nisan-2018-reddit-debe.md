@@ -152,10 +152,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vgzs8duh35u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8ewg7o
-  entry_content: |
-    null
-- entry_name: |
     TIL Manoj Bhargava the creator of 5 Hour energy created the formula in 30 days, has a net worth of 4 billion and plans donate 99 percent of his wealth by creating a series of inventions to help 3rd world countries receive basic functions like water, electricity, and health.
   entry_id: 8f27r4
   entry_content: |
@@ -245,8 +241,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mhx_9wxvMKjnurRN9eWdyMIMERoDclUXPAnpLAPx8wk.jpg?s=76b596f8db3d1faa4f116469029e125c frameborder=0>
 - entry_name: |
-    I just want that juicy solid
-  entry_id: 8ewbr5
+    *SLAMS FIST ON TABLE*
+  entry_id: 8eyv25
   entry_content: |
-    <img src=https://i.redditmedia.com/hzyET8ydgRAHpzXmrCHKjFol3m23-SuFqElFzZr4ggc.jpg?s=65462801a1f767c8ad4650da0c191a8b frameborder=0>
+    <img src=https://i.redditmedia.com/Fu_F5gjf6c-ddAWymjJbQ3FDyTycUdCKQNQC6NQ46Qk.jpg?s=c3e8a4e677446b22264a86cb556ff1be frameborder=0>
+- entry_name: |
+    TIL that 'The Hobbit' crew used up all of the gold paint in Australasia for creating Smaug's lair. They used up so much paint that they had to actually pick more up from Germany.
+  entry_id: 8f1ler
+  entry_content: |
+    <img src=https://i.redditmedia.com/w0hbNZpqq0l73Sccmrw18BwWO4_p6Mi3YeU7wT29lb8.jpg?s=aabc74812c66568aa59a188d5be6e038 frameborder=0>
 ---
