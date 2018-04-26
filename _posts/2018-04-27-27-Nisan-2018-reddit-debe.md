@@ -92,11 +92,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/e4hll9f3z5u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Justice for 50v50 Troll
-  entry_id: 8ew5gp
-  entry_content: |
-    <iframe src=https://v.redd.it/vilztxzbr3u01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Toronto Officer Who Nonviolently Stopped Van Attacker Receives National Praise
   entry_id: 8exjte
   entry_content: |
@@ -116,11 +111,6 @@ data:
   entry_id: 8eys5r
   entry_content: |
     <iframe src=https://v.redd.it/t41gg7mlk5u01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Our bodies are just ads for our sperm/eggs.
-  entry_id: 8ew3uw
-  entry_content: |
-    null
 - entry_name: |
     TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
   entry_id: 8f0g77
@@ -161,11 +151,6 @@ data:
   entry_id: 8ey5bg
   entry_content: |
     <iframe src=https://v.redd.it/vgzs8duh35u01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    MTA Excellence
-  entry_id: 8ew3hj
-  entry_content: |
-    <img src=https://i.redditmedia.com/MZoLsY1Br0zxMkcZUleU6dgiqSpeUilAU4S4jljUmW4.jpg?s=0a522945d61e115fc739685b39614501 frameborder=0>
 - entry_name: |
   entry_id: 8ewg7o
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8ewbr5
   entry_content: |
     <img src=https://i.redditmedia.com/hzyET8ydgRAHpzXmrCHKjFol3m23-SuFqElFzZr4ggc.jpg?s=65462801a1f767c8ad4650da0c191a8b frameborder=0>
+- entry_name: |
+    Trump VA pick withdraws nomination
+  entry_id: 8f22em
+  entry_content: |
+    <img src=https://i.redditmedia.com/rd9wI9Uj8QIpOIq1EsPd4g5oZoOsC7L0Hxeexmuqubs.jpg?s=822ee908526e463169d02b5773e7926b frameborder=0>
+- entry_name: |
+    *SLAMS FIST ON TABLE*
+  entry_id: 8eyv25
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fu_F5gjf6c-ddAWymjJbQ3FDyTycUdCKQNQC6NQ46Qk.jpg?s=c3e8a4e677446b22264a86cb556ff1be frameborder=0>
+- entry_name: |
+    TIL that 'The Hobbit' crew used up all of the gold paint in Australasia for creating Smaug's lair. They used up so much paint that they had to actually pick more up from Germany.
+  entry_id: 8f1ler
+  entry_content: |
+    <img src=https://i.redditmedia.com/w0hbNZpqq0l73Sccmrw18BwWO4_p6Mi3YeU7wT29lb8.jpg?s=aabc74812c66568aa59a188d5be6e038 frameborder=0>
 ---
