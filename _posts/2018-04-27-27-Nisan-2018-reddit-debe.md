@@ -3,11 +3,6 @@ layout: post
 title: 27 Nisan 2018 Reddit Debe
 data:
 - entry_name: |
-    Belgium declares loot boxes gambling and therefore illegal
-  entry_id: 8evx2j
-  entry_content: |
-    null
-- entry_name: |
     Giving her the milk!
   entry_id: 8exe7i
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8exejy
   entry_content: |
     <img src=https://i.redditmedia.com/ZFsjiDwaMm1r2m7e3cBweApbzxHWdhsJjyjOFuE4Vdo.jpg?s=a191b74da7bfbb192d22b250be9c95dd frameborder=0>
+- entry_name: |
+    I just want that juicy solid
+  entry_id: 8ewbr5
+  entry_content: |
+    <img src=https://i.redditmedia.com/hzyET8ydgRAHpzXmrCHKjFol3m23-SuFqElFzZr4ggc.jpg?s=65462801a1f767c8ad4650da0c191a8b frameborder=0>
 ---
