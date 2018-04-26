@@ -13,15 +13,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3mfq0e9dk4u01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    I asked my bar guest what she was writing. Turns out she has 3 daughters and she writes 5 lines a day to each of them. These will be gifts when they get married one day. Mom of the year.
-  entry_id: 8ez7m0
-  entry_content: |
-    <img src=https://i.redditmedia.com/O7kTEtMGtFxbGSMdMdAVZn6gz0003qSyuyv2oDHnQGk.jpg?s=e7fed6ab7fb31b8617e6d883ad67f428 frameborder=0>
-- entry_name: |
     My 92 you old grandpa officially became a U.S citizen
   entry_id: 8f1vuq
   entry_content: |
     <img src=https://i.redditmedia.com/KgtUgyj236zCcdBzd4Q2KT9hGsucVF9JI5ufEUNDuqo.jpg?s=6b827b0756975db6cc76f807442ee5a0 frameborder=0>
+- entry_name: |
+    I asked my bar guest what she was writing. Turns out she has 3 daughters and she writes 5 lines a day to each of them. These will be gifts when they get married one day. Mom of the year.
+  entry_id: 8ez7m0
+  entry_content: |
+    <img src=https://i.redditmedia.com/O7kTEtMGtFxbGSMdMdAVZn6gz0003qSyuyv2oDHnQGk.jpg?s=e7fed6ab7fb31b8617e6d883ad67f428 frameborder=0>
 - entry_name: |
     Pets are the 1% of animals.
   entry_id: 8eysqs
@@ -43,6 +43,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/m9xf6d0xh4u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    I’ll be damned. It worked. Heading to store now for air freshener and some silky soft toilet paper.
+  entry_id: 8f1z3h
+  entry_content: |
+    <img src=https://i.redditmedia.com/lFvZuSSHcWj4EPgytu2f1JXXHgsjb39OSpB2-HZ-b-A.jpg?s=34ac6287e16fa29c338c1c661cfcd791 frameborder=0>
+- entry_name: |
     My wife is fat shaming me.
   entry_id: 8ezn9a
   entry_content: |
@@ -63,10 +68,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/L6tEP9u_0iQqYo4TJgBtDNh8cdZ95VnJbfFI8bbjFDA.jpg?s=99b24be814b3d7d0549a6a7bc0b17ed0 frameborder=0>
 - entry_name: |
-    I’ll be damned. It worked. Heading to store now for air freshener and some silky soft toilet paper.
-  entry_id: 8f1z3h
+    When you finish your last rep of sit-ups
+  entry_id: 8f1r2i
   entry_content: |
-    <img src=https://i.redditmedia.com/lFvZuSSHcWj4EPgytu2f1JXXHgsjb39OSpB2-HZ-b-A.jpg?s=34ac6287e16fa29c338c1c661cfcd791 frameborder=0>
+    <img src=https://i.redditmedia.com/ZTHaZ_No_8naKjXuMenVkNwoyu4wTn0ySTXqQbhOWAM.gif?fm=jpg&s=3ac84b6da4b42f9487438bd7c3f1747e frameborder=0>
 - entry_name: |
     Most Cubans have no internet access, but get a rich variety of media and information in El Paquete (the weekly package), a 1 Tb collection of info distributed on USB keys. Selling EP is the largest occupation in Cuba, and challenges notions of how networks operate & what they mean to citizens
   entry_id: 8ex7p6
@@ -83,10 +88,14 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3faviE8HBHKpyCesIeJ3QBK5AvOUTXK3aDi-XrPNXH0.jpg?s=15730b102243862ed271f1cf14ace27e frameborder=0>
 - entry_name: |
-    When you finish your last rep of sit-ups
-  entry_id: 8f1r2i
+  entry_id: 8f1rk7
   entry_content: |
-    <img src=https://i.redditmedia.com/ZTHaZ_No_8naKjXuMenVkNwoyu4wTn0ySTXqQbhOWAM.gif?fm=jpg&s=3ac84b6da4b42f9487438bd7c3f1747e frameborder=0>
+    <img src=https://i.redditmedia.com/66dFo6x8YiwklNCsDh5P7OOM-S2nh_CFwjw7ZnK4xiU.png?s=cd3ebc2c812a4da074b64d5ee4b91c6f frameborder=0>
+- entry_name: |
+    Forget to take basic measurements prior to heist, WCGW?
+  entry_id: 8ezaku
+  entry_content: |
+    <iframe src=https://v.redd.it/e4hll9f3z5u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Justice for 50v50 Troll
   entry_id: 8ew5gp
@@ -98,10 +107,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/u-KPgRS6V9Q7OBaRPhT4Gq7WKebvjygHEvd-eVWIcac.jpg?s=ef140e0a0db37a9ebdb0651007cd1906 frameborder=0>
 - entry_name: |
-    Forget to take basic measurements prior to heist, WCGW?
-  entry_id: 8ezaku
+    Get a cat they said. They're lovely animals they said..
+  entry_id: 8f1sxg
   entry_content: |
-    <iframe src=https://v.redd.it/e4hll9f3z5u01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/PoyBBA5yT6E7NEfQxyCdkcB01PwZDzq0RHzPGxcpi-U.jpg?s=53703ef6d8cf466a3430ac84268cad16 frameborder=0>
 - entry_name: |
     She was a stray, but now she's mine.
   entry_id: 8exz9u
@@ -118,24 +127,25 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Girl from my hometown who's been playing guitar her whole life got to play with Green Day! This isn't even staged
-  entry_id: 8ex2lg
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/NuJ-MZ-zMeQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     TIL the Dalai Lama is almost a vegetarian. He alternates. While he advocates vegetarianism, if he is in the company of meat-eaters, he is happy to eat meat. The White House once offered him a vegetarian menu and he declined.
   entry_id: 8f0g77
   entry_content: |
     <img src=https://i.redditmedia.com/P8i9picZDG7gB4sAhJV3idhX84Zxv9wqhchymYRv1Vg.jpg?s=bd218433b9829eaf8e2984289802b8d5 frameborder=0>
+- entry_name: |
+    Girl from my hometown who's been playing guitar her whole life got to play with Green Day! This isn't even staged
+  entry_id: 8ex2lg
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/NuJ-MZ-zMeQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Yosemite falls spewing rainbows
   entry_id: 8ex9v5
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnergeticAccurateHeron&url=https%3A%2F%2Fgfycat.com%2FEnergeticAccurateHeron&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnergeticAccurateHeron-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-  entry_id: 8f1rk7
+    Friend made a Khajiit mask from scratch
+  entry_id: 8f1dc1
   entry_content: |
-    <img src=https://i.redditmedia.com/66dFo6x8YiwklNCsDh5P7OOM-S2nh_CFwjw7ZnK4xiU.png?s=cd3ebc2c812a4da074b64d5ee4b91c6f frameborder=0>
+    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
 - entry_name: |
     Just screencapped this beautiful exchange on Twitter. These are our elected officials, folks.
   entry_id: 8ew981
@@ -152,11 +162,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/NZD1IM0s7q5QgeElgAy-HuXcNz6RWSva4E9-WHSCmt0.jpg?s=524d1c58cea8a8f9bba96cc7a20fea35 frameborder=0>
 - entry_name: |
-    Friend made a Khajiit mask from scratch
-  entry_id: 8f1dc1
-  entry_content: |
-    <img src=https://i.redditmedia.com/QDOpNlJTh78vzaDvHc7PZ4XYv1W4uOcINGkDSEkWslg.jpg?s=2ca0c7e0de1bdc4bfb343aaab39ecbe1 frameborder=0>
-- entry_name: |
     Getting caught pickpocketing by a guard.
   entry_id: 8ey5bg
   entry_content: |
@@ -171,15 +176,20 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The good old days
-  entry_id: 8ex4ku
-  entry_content: |
-    <iframe src=https://v.redd.it/i1mf639ce4u01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     He’s doing what he can with what he’s got
   entry_id: 8f096h
   entry_content: |
     <img src=https://i.redditmedia.com/5ommS5gJKFwMwsDo_ptj3odv2wgLBe18if2ZDWVn00E.jpg?s=c018bdb6ced3e0360f4d6d392423f403 frameborder=0>
+- entry_name: |
+    Pig Puzzle
+  entry_id: 8f1r62
+  entry_content: |
+    <iframe src=https://v.redd.it/7rnwhv5mi8u01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The good old days
+  entry_id: 8ex4ku
+  entry_content: |
+    <iframe src=https://v.redd.it/i1mf639ce4u01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Damn it Ja, not now
   entry_id: 8ezivr
@@ -196,40 +206,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SNiCum1mEkYcH8jUHRITZ3RMcLT-Tgh_LE8HAwK8dgU.jpg?s=b8d84ea4c0022823ab2005464d60b7d1 frameborder=0>
 - entry_name: |
-    Get a cat they said. They're lovely animals they said..
-  entry_id: 8f1sxg
-  entry_content: |
-    <img src=https://i.redditmedia.com/PoyBBA5yT6E7NEfQxyCdkcB01PwZDzq0RHzPGxcpi-U.jpg?s=53703ef6d8cf466a3430ac84268cad16 frameborder=0>
-- entry_name: |
     Rain at a Japanese temple
   entry_id: 8f0vt7
   entry_content: |
     <iframe src=https://v.redd.it/5vudlolji7u01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Cotton Candy Eating Contest
-  entry_id: 8ewayh
+    The worst thing ever
+  entry_id: 8f0wq2
   entry_content: |
-    <iframe src=https://v.redd.it/hdezacujv3u01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Wholesome
-  entry_id: 8evqsa
-  entry_content: |
-    <iframe src=https://v.redd.it/wvrhwmkrf2u01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
 - entry_name: |
     Genie: You have 3 wishes.
   entry_id: 8f0hc1
   entry_content: |
     null
 - entry_name: |
+    Cotton Candy Eating Contest
+  entry_id: 8ewayh
+  entry_content: |
+    <iframe src=https://v.redd.it/hdezacujv3u01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Young fan at Yankees game snags a foul ball with a glove full of popcorn
+  entry_id: 8eyzc6
+  entry_content: |
+    <iframe src=https://v.redd.it/tl8u129xp5u01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     KKKanye
   entry_id: 8exeyx
   entry_content: |
     <img src=https://i.redditmedia.com/hiMBs3_Ha_67D-xJJb7ZwrTW40ZMm0qBvccO8h-GKMo.jpg?s=0fab5b84c3f854e5907ae2cf77dd041d frameborder=0>
-- entry_name: |
-    The worst thing ever
-  entry_id: 8f0wq2
-  entry_content: |
-    <img src=https://i.redditmedia.com/HbywCgrgRspgRhKsh9rbstWJE9So3p_dDbnrPJh52uo.jpg?s=4f77c9afc1d5b1067f31ebc430e0ff7d frameborder=0>
 - entry_name: |
     Lebron James game winning three! - TNT
   entry_id: 8ez0ut
@@ -245,9 +250,4 @@ data:
   entry_id: 8exejy
   entry_content: |
     <img src=https://i.redditmedia.com/ZFsjiDwaMm1r2m7e3cBweApbzxHWdhsJjyjOFuE4Vdo.jpg?s=a191b74da7bfbb192d22b250be9c95dd frameborder=0>
-- entry_name: |
-    Young fan at Yankees game snags a foul ball with a glove full of popcorn
-  entry_id: 8eyzc6
-  entry_content: |
-    <iframe src=https://v.redd.it/tl8u129xp5u01/DASH_2_4_M frameborder=0></iframe>
 ---
