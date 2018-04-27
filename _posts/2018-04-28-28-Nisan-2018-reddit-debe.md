@@ -128,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/56OXrM5JFnsrWT4zre0dxRUC4OOpnBFKZe8Obg6K-U4.jpg?s=fec2136e741970258c556e144560f126 frameborder=0>
 - entry_name: |
-    Ruining childhood shows one by one
-  entry_id: 8f4kvx
-  entry_content: |
-    <img src=https://i.redditmedia.com/8-5qhGvzyyxRyODnDaaoUiB6yYQa9HVzaqMRcK4sYSI.jpg?s=eac67fdb56d2068d1d1fbb7127b83d99 frameborder=0>
-- entry_name: |
     The left side of the street is Beverly Hills, the right side is LA. Beverly Hills only paves their side.
   entry_id: 8f5o5o
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fagbc
   entry_content: |
     <iframe src=https://v.redd.it/ztmhvkzpbfu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Trying to steal a purse.
+  entry_id: 8f73np
+  entry_content: |
+    <iframe src=https://v.redd.it/3hzgomx96cu01/DASH_2_4_M frameborder=0></iframe>
 ---
