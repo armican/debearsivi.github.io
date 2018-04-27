@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/f40vws1QfJmaYbYEVIpIygrzyK3NjbJ-7NbPPSLC-Pc.jpg?s=f40d478d9a4c596c720b92395eb245f4 frameborder=0>
 - entry_name: |
-    Steve Irwin's family accepting his star on the Hollywood Walk of Fame
-  entry_id: 8f5ozf
-  entry_content: |
-    <img src=https://i.redditmedia.com/1p7ewC00-7tfrAIS2Tz-aUyvUWKhkROh0BrwUwzmVHA.jpg?s=f0e94c5c8fd676f23b9693e4323a045b frameborder=0>
-- entry_name: |
     North Korean leader Kim Jong Un and South Korean President Moon Jae-in shake hands at the DMZ
   entry_id: 8f875i
   entry_content: |
@@ -73,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EwFHyer1iqHKHwU2fC8e-CjHfo7nJv5xhYqRlGRhDxA.png?s=527922794a052b73c93390edf7ee1409 frameborder=0>
 - entry_name: |
-    A Male Royal Flycatcher
-  entry_id: 8f5nxz
-  entry_content: |
-    <iframe src=https://v.redd.it/mgrkxq9w6bu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Shaq is that guy that can make any situation fun
   entry_id: 8f7xy7
   entry_content: |
@@ -128,11 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rce4Z4DlmUJ6xFENmMU2tRug8DJ2hhd6C8gihEE3ogM.jpg?s=4e252b925b9487c029912aab2fd9b806 frameborder=0>
 - entry_name: |
-    The left side of the street is Beverly Hills, the right side is LA. Beverly Hills only paves their side.
-  entry_id: 8f5o5o
-  entry_content: |
-    <img src=https://i.redditmedia.com/bUoiviMV-vvNjA_iwaOjn3Iqd16ctI-LmECSWdII5pw.jpg?s=d7b48a935d1b8d591345d49613af678b frameborder=0>
-- entry_name: |
     Why do I need an AR-15?
   entry_id: 8fbku1
   entry_content: |
@@ -178,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mPnuE-wASJXFrJLMff7ggWRcwVAJjwlf-O4nF9u3OF8.jpg?s=a6f36a15483c90c326dbfed705c275a8 frameborder=0>
 - entry_name: |
-    When grandpa can do it better than today’s generation
-  entry_id: 8f5k1p
-  entry_content: |
-    <iframe src=https://v.redd.it/ek6e19694bu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     She's giving me the silent treatment and pretending like she's watching the movie 😂.
   entry_id: 8fbe5y
   entry_content: |
@@ -207,11 +187,6 @@ data:
   entry_id: 8famfn
   entry_content: |
     <img src=https://i.redditmedia.com/hbhdQXyxCm3Cu3Ri5ebWNblMJ3O7i9hBXMi2SUrkBXs.png?s=3610f1c26a40ee121086f621f99c7162 frameborder=0>
-- entry_name: |
-    The Onion out for blood
-  entry_id: 8f5kle
-  entry_content: |
-    <img src=https://i.redditmedia.com/su49knN1saLdJwPBb9eI2bEt-cj3frfynX1B1N3Yrtw.jpg?s=e4503e5605af5b36fdf3f54b30fec752 frameborder=0>
 - entry_name: |
     The most effective alarm clock is the sound of your cat/dog throwing up on the floor.
   entry_id: 8fahsb
@@ -252,4 +227,29 @@ data:
   entry_id: 8fajno
   entry_content: |
     <img src=https://i.redditmedia.com/ak1zTl56_22tmrF7WQYRoLEOH4MeKuj-nqg6B3J4d7g.jpg?s=62740e12a2a13e6eafd6eef01eaa05cb frameborder=0>
+- entry_name: |
+    Trying to steal a purse.
+  entry_id: 8f73np
+  entry_content: |
+    <iframe src=https://v.redd.it/3hzgomx96cu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The large movie-theater-sized box of m&m's just has a regular, normal sized bag inside. And it cost $4.75
+  entry_id: 8f6ag7
+  entry_content: |
+    <img src=https://i.redditmedia.com/kkcy70QPlsev3r0YA30zn2j5r5lKbRKBW2P1-kkA6S0.jpg?s=66cde170505e0456be3508a2f0dfcba0 frameborder=0>
+- entry_name: |
+    My local cinema has the carpet from the movie ‘The Shining’
+  entry_id: 8f6vgh
+  entry_content: |
+    <img src=https://i.redditmedia.com/CvrrjMN_QOoSxzt0rPHYtdzMCSqyg-DPKtf7CL8l7yg.jpg?s=1f0e9b5d12117e025339c925dc09d59e frameborder=0>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8f7g3u
+  entry_content: |
+    <img src=https://i.redditmedia.com/_AdFAyv9typzsU2zsO2bcWrHbzI3NjszwA6GM73TOMs.png?s=8ab7ee00e8aa3bdba69927cfc641e7c8 frameborder=0>
+- entry_name: |
+    MRW someone tells me making Elton John gifs is a colossal waste of time
+  entry_id: 8f8wjo
+  entry_content: |
+    <iframe src=https://v.redd.it/1btma8h6ndu01/DASH_600_K frameborder=0></iframe>
 ---
