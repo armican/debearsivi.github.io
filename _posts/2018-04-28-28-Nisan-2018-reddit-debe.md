@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ADZfy2vqcQ4QEaR_whvUV4JQViK-35z5iiPyMg9XfXQ.jpg?s=2b04818e1cf05e7250bfb3004c71e3be frameborder=0>
 - entry_name: |
-    Bill Cosby found guilty on all sex assault charges
-  entry_id: 8f4nlp
-  entry_content: |
-    <img src=https://i.redditmedia.com/VXlaTW3Hb1uufDNyZcNF0A4wmJsrcoyKNfXL2-e7S7Y.jpg?s=908f02534fecd70086dc8bac019a623a frameborder=0>
-- entry_name: |
     Kim Jong-un crosses into South Korea
   entry_id: 8f7l3h
   entry_content: |
@@ -83,11 +78,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/v1mzyu1stcu01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Bill Cosby guilty on all three counts in indecent assault trial, jury decides
-  entry_id: 8f4rzt
-  entry_content: |
-    <img src=https://i.redditmedia.com/nbXvoo90zcsvima4-Sbil0uSBp-uQMBgoHjKF2Hg3zM.jpg?s=4342595439c7f8f5446f09d2d83bc55a frameborder=0>
-- entry_name: |
     Don’t bully him
   entry_id: 8f67vg
   entry_content: |
@@ -153,11 +143,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dIsBl2Cwg7V5k1MIwh3GFB6kHL3YGla2V7Xc5Xtqdg8.jpg?s=971a8a9458b6c2d34a1a57e580819bca frameborder=0>
 - entry_name: |
-    Groovy sunlight through the prismatic window film
-  entry_id: 8f4rij
-  entry_content: |
-    <img src=https://i.redditmedia.com/jC1WO1whmjPaWpjwGvuHELeUtweXGkhAPpp_IsyfXS4.jpg?s=af2c6fcc56ccdff9a20b7cbfc8dde963 frameborder=0>
-- entry_name: |
     North Korea's Kim Jong Un crosses DMZ for historic meeting with South Korea
   entry_id: 8f7l4r
   entry_content: |
@@ -218,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VzUHtV9niYO4Mpt9tU_rxDVptTtsgeL4-g-yi-4v3XQ.jpg?s=92bc8f89fbadb32270c853ddcb90ebb3 frameborder=0>
 - entry_name: |
-    Jury finds Bill Cosby guilty on all three counts in sexual assault trial
-  entry_id: 8f4obu
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
     Every time
   entry_id: 8fav8l
   entry_content: |
@@ -252,4 +232,24 @@ data:
   entry_id: 8f73np
   entry_content: |
     <iframe src=https://v.redd.it/3hzgomx96cu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The large movie-theater-sized box of m&m's just has a regular, normal sized bag inside. And it cost $4.75
+  entry_id: 8f6ag7
+  entry_content: |
+    <img src=https://i.redditmedia.com/kkcy70QPlsev3r0YA30zn2j5r5lKbRKBW2P1-kkA6S0.jpg?s=66cde170505e0456be3508a2f0dfcba0 frameborder=0>
+- entry_name: |
+    The most effective alarm clock is the sound of your cat/dog throwing up on the floor.
+  entry_id: 8fahsb
+  entry_content: |
+    null
+- entry_name: |
+    My local cinema has the carpet from the movie ‘The Shining’
+  entry_id: 8f6vgh
+  entry_content: |
+    <img src=https://i.redditmedia.com/CvrrjMN_QOoSxzt0rPHYtdzMCSqyg-DPKtf7CL8l7yg.jpg?s=1f0e9b5d12117e025339c925dc09d59e frameborder=0>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8f7g3u
+  entry_content: |
+    <img src=https://i.redditmedia.com/_AdFAyv9typzsU2zsO2bcWrHbzI3NjszwA6GM73TOMs.png?s=8ab7ee00e8aa3bdba69927cfc641e7c8 frameborder=0>
 ---
