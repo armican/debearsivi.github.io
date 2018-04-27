@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9M2_GPUl1xc4j0x-D9qJWqXCjQTxCC7s-X8Hc2ezjvw.jpg?s=f42decced863c14c5b0228683a2ae2c0 frameborder=0>
 - entry_name: |
-    No, The Barnacle.
-  entry_id: 8f5wc3
-  entry_content: |
-    <img src=https://i.redditmedia.com/oK3YqTX6iZQ89R5vs4XKAUB9AwozJayDq9EfDTW2bl8.jpg?s=8dddcd4b841eec472db7f6385ce5e243 frameborder=0>
-- entry_name: |
     Why do I need an AR-15?
   entry_id: 8fbku1
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8f7g3u
   entry_content: |
     <img src=https://i.redditmedia.com/_AdFAyv9typzsU2zsO2bcWrHbzI3NjszwA6GM73TOMs.png?s=8ab7ee00e8aa3bdba69927cfc641e7c8 frameborder=0>
+- entry_name: |
+    MRW someone tells me making Elton John gifs is a colossal waste of time
+  entry_id: 8f8wjo
+  entry_content: |
+    <iframe src=https://v.redd.it/1btma8h6ndu01/DASH_600_K frameborder=0></iframe>
 ---
