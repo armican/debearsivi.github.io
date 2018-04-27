@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ik5ros75acu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Breathtaking details and accuracy in Far Cry 5 physics
-  entry_id: 8f5852
-  entry_content: |
-    <iframe src=https://v.redd.it/4drxws2qwau01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     This is Beaux Tox. He was born with a facial deformity, but that doesn’t stop him from being one happy pup
   entry_id: 8f8lhu
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fajno
   entry_content: |
     <img src=https://i.redditmedia.com/ak1zTl56_22tmrF7WQYRoLEOH4MeKuj-nqg6B3J4d7g.jpg?s=62740e12a2a13e6eafd6eef01eaa05cb frameborder=0>
+- entry_name: |
+    EU agrees total ban on bee-harming pesticides
+  entry_id: 8fakew
+  entry_content: |
+    <img src=https://i.redditmedia.com/5ZDuscf-DhFMl8u-nZOgk3pTwETC0uwkgj9hjNg3ycE.jpg?s=4053dbff0710a804848436d783b27d65 frameborder=0>
 ---
