@@ -43,11 +43,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/djg4ng6gwmu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Ma'am, this is a restricted area. Do you have some ID?
-  entry_id: 8feifv
-  entry_content: |
-    <iframe src=https://v.redd.it/lt1qnegaaiu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Switzerland is beautiful!
   entry_id: 8fi2ry
   entry_content: |
@@ -208,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O686_oFSn1CW1DMLX4x_8yANNSBF0BAu9jLOBJo1Gjc.jpg?s=e251f5f37c9833d15767aaa7b14c503d frameborder=0>
 - entry_name: |
-    Bill Gates thinks a coming disease could kill 30 million people within 6 months — and says we should prepare for it like we do for war
-  entry_id: 8feioz
-  entry_content: |
-    <img src=https://i.redditmedia.com/uERKk4YCWKX2J6rO4HXbJi2thEzEL2iGxPCrms0LjEY.jpg?s=3a4fce1bcf788b7e3ce5256052a7c7ed frameborder=0>
-- entry_name: |
     In 1996, a newborn baby girl was left in a garbage can near the city of Kolkata, India. Three friendly street dogs discovered and protected her for nearly two days, even attempting to feed the child before authorities were contacted and the young one was saved.
   entry_id: 8fgxug
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8fg9v9
   entry_content: |
     <img src=https://i.redditmedia.com/eIIoPwoABr703hAhUU85zfYoEVSBsnW-ot4oK1eyW4c.gif?fm=jpg&s=87f0e8f41abbe42f3b6e5061e68046f3 frameborder=0>
+- entry_name: |
+    I think I just finished my new favourite painting ! Gone Fishing
+  entry_id: 8ffhrq
+  entry_content: |
+    <img src=https://i.redditmedia.com/364FVbgo847IWgfARbFZIo88lfCLGG0Q95YUVyxXkr4.jpg?s=2212db5eb4883be67bcb58ff7ba2600a frameborder=0>
+- entry_name: |
+    Split screen.
+  entry_id: 8fh7iq
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y0zCcC8Xphw0ba7hirUFpk70MF96qU2yiYSCeA-9XzI.jpg?s=b0c00adfb812927fe2345b6e401d7646 frameborder=0>
 ---
