@@ -153,10 +153,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-  entry_id: 8fdiju
-  entry_content: |
-    <iframe src=https://v.redd.it/zbo2sh2glou01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Facepalm
   entry_id: 8fe68e
   entry_content: |
@@ -232,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5BSJPAWrrNHRmI4CeN3wsJUBjq8JaQXqVSglCEZAJTA.jpg?s=ddab15063e940109fb1985ecbcafe458 frameborder=0>
 - entry_name: |
-    They’re precious
-  entry_id: 8fdkbq
-  entry_content: |
-    <img src=https://i.redditmedia.com/eGejO-N9-yMyNV-0Sbrct3A9LHNu0Qv8F3DlIoz5D94.jpg?s=b69ff4641e470bcd4176bb47739109bc frameborder=0>
-- entry_name: |
     Just showing you that I can smash your skull
   entry_id: 8fdspt
   entry_content: |
@@ -251,4 +242,14 @@ data:
   entry_id: 8fe0oq
   entry_content: |
     <img src=https://i.redditmedia.com/ZMDpj9VATXoTlzsYLWJbsfAJyIlfCmXmJaX-IHWPcmY.jpg?s=ffc906f6c00150741c0191bd26509860 frameborder=0>
+- entry_name: |
+    Flynn And His Son Met With Russian Ambassador In December 2015
+  entry_id: 8fdsv9
+  entry_content: |
+    <img src=https://i.redditmedia.com/CUEyoX8A1tKSK_6SOkrZJa5Kc156M-6hRaqcAZ69Pro.jpg?s=eef7c4c9b5a7cc54265ea3ab433ad465 frameborder=0>
+- entry_name: |
+    In 1996, a newborn baby girl was left in a garbage can near the city of Kolkata, India. Three friendly street dogs discovered and protected her for nearly two days, even attempting to feed the child before authorities were contacted and the young one was saved.
+  entry_id: 8fgxug
+  entry_content: |
+    <img src=https://i.redditmedia.com/yiEN2U1U_HzrSnWdjqeYAyrGkR2SL3-XPsn0wjBhj-A.jpg?s=e58b48a10e6b6fcfc59286ca30e5e998 frameborder=0>
 ---
