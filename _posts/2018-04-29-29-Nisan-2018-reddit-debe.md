@@ -33,6 +33,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/o1NAr0tF9XObt5-i6xa2R6_48eieHctiXkRqzPerTa4.gif?fm=jpg&s=2f200b408d974d2a4e512c4df726d86d frameborder=0>
 - entry_name: |
+    Dogs can be our best friends, but the cat will never tell the police where the marijuana is.
+  entry_id: 8fil8u
+  entry_content: |
+    null
+- entry_name: |
     Rip Diddy Kong
   entry_id: 8ffk01
   entry_content: |
@@ -43,20 +48,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/djg4ng6gwmu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Dogs can be our best friends, but the cat will never tell the police where the marijuana is.
-  entry_id: 8fil8u
-  entry_content: |
-    null
-- entry_name: |
     Ma'am, this is a restricted area. Do you have some ID?
   entry_id: 8feifv
   entry_content: |
     <iframe src=https://v.redd.it/lt1qnegaaiu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    TIL English is the universal language of the skies. All pilots must learn and use English, regardless of their country of origin.
-  entry_id: 8ffs7l
-  entry_content: |
-    <img src=https://i.redditmedia.com/9geQm4AoCY1aw_tkdGoG7N-JoGzDnqVQQKBPNheVtn0.jpg?s=e006957e519691963b9cb7bc751254c1 frameborder=0>
 - entry_name: |
     Switzerland is beautiful!
   entry_id: 8fi2ry
@@ -68,10 +63,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ReHhPZIjuaH6GbweBdk1Oo5CLv6tEF4K4QL8xkHnwLs.jpg?s=47d339601205fd9f5359e524d5217f43 frameborder=0>
 - entry_name: |
-    South Korean president Moon Jae-In when he was in the special forces (1975-1977). Badass
-  entry_id: 8fe7iy
+    TIL English is the universal language of the skies. All pilots must learn and use English, regardless of their country of origin.
+  entry_id: 8ffs7l
   entry_content: |
-    <img src=https://i.redditmedia.com/Q-hV-3zlZWnQvQ7MvlLiH13Y9jau4vURwzSPVuhSP7E.jpg?s=d3d7e723e89400b250c5b4b5e2c6334a frameborder=0>
+    <img src=https://i.redditmedia.com/9geQm4AoCY1aw_tkdGoG7N-JoGzDnqVQQKBPNheVtn0.jpg?s=e006957e519691963b9cb7bc751254c1 frameborder=0>
 - entry_name: |
     TIL Quebec banned ads for toys and fast food aimed at children under 13, resulting in lowered childhood obesity rates
   entry_id: 8fimtl
@@ -83,6 +78,16 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8nuxvbnawmu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    On my hellish NYC commute
+  entry_id: 8fjd1u
+  entry_content: |
+    <img src=https://i.redditmedia.com/N39-ycT_G4UeQggPYZrauwX0I3DFfA1Fd6l6P_Qwb00.jpg?s=01b80a49866d7efd21518969bd3fe6d4 frameborder=0>
+- entry_name: |
+    Another universal prank.. With a twist..
+  entry_id: 8fiwmr
+  entry_content: |
+    <iframe src=https://v.redd.it/y6syo5szdmu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     If they haven’t, they should
   entry_id: 8fevfo
   entry_content: |
@@ -92,11 +97,6 @@ data:
   entry_id: 8fghec
   entry_content: |
     <img src=https://i.redditmedia.com/6hHtpsrUkAnlSyBlXz46_XYKLY95xLSsCuYoTCBE1sQ.jpg?s=db4d63bf37f62c00acd18e280577ab69 frameborder=0>
-- entry_name: |
-    Another universal prank.. With a twist..
-  entry_id: 8fiwmr
-  entry_content: |
-    <iframe src=https://v.redd.it/y6syo5szdmu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Farewell, No. 16: scientists left 'miserable' after world's oldest spider dies aged 43
   entry_id: 8fg6fp
@@ -108,15 +108,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/0ld4kxywjju01/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    On my hellish NYC commute
-  entry_id: 8fjd1u
-  entry_content: |
-    <img src=https://i.redditmedia.com/N39-ycT_G4UeQggPYZrauwX0I3DFfA1Fd6l6P_Qwb00.jpg?s=01b80a49866d7efd21518969bd3fe6d4 frameborder=0>
-- entry_name: |
     This blunt I bought came with a suggested activity once high.
   entry_id: 8fg4o4
   entry_content: |
     <img src=https://i.redditmedia.com/UVVll5kivcX_5_HMUjebHg8QmM-YEWePtDP-QTxiEMY.jpg?s=9953c7bcac0d500a088adb179ed2bb5c frameborder=0>
+- entry_name: |
+    This park has a swing for wheelchair users
+  entry_id: 8fjio5
+  entry_content: |
+    <img src=https://i.redditmedia.com/wxEIb1MjMnOpyIaTs6FZffcxasOcX5oHcIEIbgVDDvI.jpg?s=db7de9faeccadbe44625ab6c43883642 frameborder=0>
+- entry_name: |
+    Trump Tower is on fire in Azerbaijani capital Baku
+  entry_id: 8fjcld
+  entry_content: |
+    <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
+- entry_name: |
+    Infinity War is the most ambitious crossover event in history
+  entry_id: 8fjt12
+  entry_content: |
+    <img src=https://i.redditmedia.com/Qxvz4nftoIU63PkjYcNXYPXYoxphy6Kuh8AdUwxdtMM.jpg?s=cb9bc6eb1b81be7da7c417b67945c7d7 frameborder=0>
 - entry_name: |
     UFC fighter loves memes.
   entry_id: 8fepgw
@@ -133,35 +143,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/yhilw9zplju01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Trump Tower is on fire in Azerbaijani capital Baku
-  entry_id: 8fjcld
-  entry_content: |
-    <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
-- entry_name: |
     Aww, How Nice!
   entry_id: 8ffjlt
   entry_content: |
     <iframe src=https://v.redd.it/l0jdh1l51ju01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    If people used break-up lines instead of pick-up lines, what would some of the best ones be?
-  entry_id: 8ffc2c
-  entry_content: |
-    null
-- entry_name: |
-    Infinity War is the most ambitious crossover event in history
-  entry_id: 8fjt12
-  entry_content: |
-    <img src=https://i.redditmedia.com/Qxvz4nftoIU63PkjYcNXYPXYoxphy6Kuh8AdUwxdtMM.jpg?s=cb9bc6eb1b81be7da7c417b67945c7d7 frameborder=0>
 - entry_name: |
     This Sunday The Simpsons makes TV history with its 636th episode, passing Gunsmoke as the longest running scripted TV series
   entry_id: 8ffusa
   entry_content: |
     <img src=https://i.redditmedia.com/y4p8kr0jj2RBHbLBXGJFt0xhhehelMEBXe4VnjS5LgU.jpg?s=71d3ac8309845daa2ff5e4311ca54b55 frameborder=0>
 - entry_name: |
-    This park has a swing for wheelchair users
-  entry_id: 8fjio5
+    If people used break-up lines instead of pick-up lines, what would some of the best ones be?
+  entry_id: 8ffc2c
   entry_content: |
-    <img src=https://i.redditmedia.com/wxEIb1MjMnOpyIaTs6FZffcxasOcX5oHcIEIbgVDDvI.jpg?s=db7de9faeccadbe44625ab6c43883642 frameborder=0>
+    null
+- entry_name: |
+    Dragon Bro
+  entry_id: 8fiefu
+  entry_content: |
+    <img src=https://i.redditmedia.com/4bpFCnT1IIJSn2ZdzR4G-slqodrNZUN09YujWPvovXE.jpg?s=94618621e29a224515b3829d7c318113 frameborder=0>
 - entry_name: |
     Got him good
   entry_id: 8fhlo0
@@ -178,10 +178,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lGbxGtXtkqIq7sP2t2J8TfzVKoszZ-nTsnR37hiTwbE.png?s=555fb3d6aee6b0f2a7ef0800cccdb82c frameborder=0>
 - entry_name: |
-    Dragon Bro
-  entry_id: 8fiefu
+    Get out of the way!
+  entry_id: 8fjktj
   entry_content: |
-    <img src=https://i.redditmedia.com/4bpFCnT1IIJSn2ZdzR4G-slqodrNZUN09YujWPvovXE.jpg?s=94618621e29a224515b3829d7c318113 frameborder=0>
+    <iframe src=https://v.redd.it/k82awmao7nu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Dust.
+  entry_id: 8fjhoz
+  entry_content: |
+    <iframe src=https://v.redd.it/euyd1itg4nu01/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     My daughter just came in to show me her newest creation.
   entry_id: 8fgdrc
@@ -198,6 +203,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2wm1mxomgku01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    These bags of water are statues made of glass. By Dylan Martinez.
+  entry_id: 8fikne
+  entry_content: |
+    <img src=https://i.redditmedia.com/VKlBTeJw-NaLJSEtntaSFcL6gc8LINTfy0zmas_jCbA.jpg?s=f79898d0dd74f59d92313695fcad1219 frameborder=0>
+- entry_name: |
     A Colorful Street in Amsterdam.
   entry_id: 8ficsv
   entry_content: |
@@ -208,48 +218,38 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uERKk4YCWKX2J6rO4HXbJi2thEzEL2iGxPCrms0LjEY.jpg?s=3a4fce1bcf788b7e3ce5256052a7c7ed frameborder=0>
 - entry_name: |
-    Me!irl
-  entry_id: 8fe6w7
-  entry_content: |
-    <img src=https://i.redditmedia.com/96zbHE3MCUQgcwTKqyUPfLF9JjelvgJ8Tn7mPT1Xu7k.jpg?s=eec1934bd1d1470ac40d89ea99432e13 frameborder=0>
-- entry_name: |
-    These bags of water are statues made of glass. By Dylan Martinez.
-  entry_id: 8fikne
-  entry_content: |
-    <img src=https://i.redditmedia.com/VKlBTeJw-NaLJSEtntaSFcL6gc8LINTfy0zmas_jCbA.jpg?s=f79898d0dd74f59d92313695fcad1219 frameborder=0>
-- entry_name: |
-    And much better benefits!
-  entry_id: 8fftap
-  entry_content: |
-    <img src=https://i.redditmedia.com/5BSJPAWrrNHRmI4CeN3wsJUBjq8JaQXqVSglCEZAJTA.jpg?s=ddab15063e940109fb1985ecbcafe458 frameborder=0>
-- entry_name: |
-    Dust.
-  entry_id: 8fjhoz
-  entry_content: |
-    <iframe src=https://v.redd.it/euyd1itg4nu01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Get out of the way!
-  entry_id: 8fjktj
-  entry_content: |
-    <iframe src=https://v.redd.it/k82awmao7nu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     In 1996, a newborn baby girl was left in a garbage can near the city of Kolkata, India. Three friendly street dogs discovered and protected her for nearly two days, even attempting to feed the child before authorities were contacted and the young one was saved.
   entry_id: 8fgxug
   entry_content: |
     <img src=https://i.redditmedia.com/yiEN2U1U_HzrSnWdjqeYAyrGkR2SL3-XPsn0wjBhj-A.jpg?s=e58b48a10e6b6fcfc59286ca30e5e998 frameborder=0>
-- entry_name: |
-    The goodest boy cheering on marathon runners
-  entry_id: 8fer3s
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFlimsySecondhandElk&url=https%3A%2F%2Fgfycat.com%2Fflimsysecondhandelk&image=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsySecondhandElk-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Last Night in Northern China ... What is It?
   entry_id: 8fhluc
   entry_content: |
     <iframe src=https://v.redd.it/lts4yr7itku01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    And much better benefits!
+  entry_id: 8fftap
+  entry_content: |
+    <img src=https://i.redditmedia.com/5BSJPAWrrNHRmI4CeN3wsJUBjq8JaQXqVSglCEZAJTA.jpg?s=ddab15063e940109fb1985ecbcafe458 frameborder=0>
+- entry_name: |
+    The goodest boy cheering on marathon runners
+  entry_id: 8fer3s
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFlimsySecondhandElk&url=https%3A%2F%2Fgfycat.com%2Fflimsysecondhandelk&image=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsySecondhandElk-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    The nurse told the parents of a newly born child, You have a cute baby.
+  entry_id: 8fighh
+  entry_content: |
+    null
+- entry_name: |
     When you try to establish a new format
   entry_id: 8ffttf
   entry_content: |
     <img src=https://i.redditmedia.com/fGlCM7etcV76vD1pqyQONYrFbEcuZExSV-Q_rkIocFE.png?s=8f0b544e4d1432fabc3da494c739d176 frameborder=0>
+- entry_name: |
+    Sunrays through a tree - Rialto Beach, WA (OC) (6000x4000)
+  entry_id: 8ffgkr
+  entry_content: |
+    <img src=https://i.redditmedia.com/BNvBLFxEXUI69FduIhCjPFd0WUuUVMbfz39gA5AdsS4.jpg?s=8772230e6a89ff22d1237415cd597b58 frameborder=0>
 ---
