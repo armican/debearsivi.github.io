@@ -78,11 +78,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/y6syo5szdmu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    If they haven’t, they should
-  entry_id: 8fevfo
-  entry_content: |
-    <img src=https://i.redditmedia.com/WkV-B4aR5pgKxFZDOuu5LVcdj3sT7JM0dnOEOOVLCRA.jpg?s=014f4bf056875d7d8b4c47db47a3c2eb frameborder=0>
-- entry_name: |
     I got my very first puppy! Meet Annie
   entry_id: 8fghec
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fh7iq
   entry_content: |
     <img src=https://i.redditmedia.com/Y0zCcC8Xphw0ba7hirUFpk70MF96qU2yiYSCeA-9XzI.jpg?s=b0c00adfb812927fe2345b6e401d7646 frameborder=0>
+- entry_name: |
+    I think I just finished my new favourite painting ! Gone Fishing
+  entry_id: 8ffhrq
+  entry_content: |
+    <img src=https://i.redditmedia.com/364FVbgo847IWgfARbFZIo88lfCLGG0Q95YUVyxXkr4.jpg?s=2212db5eb4883be67bcb58ff7ba2600a frameborder=0>
 ---
