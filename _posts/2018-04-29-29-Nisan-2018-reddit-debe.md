@@ -218,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/96zbHE3MCUQgcwTKqyUPfLF9JjelvgJ8Tn7mPT1Xu7k.jpg?s=eec1934bd1d1470ac40d89ea99432e13 frameborder=0>
 - entry_name: |
-    TIFU by having sex with a tampon in, losing it, and having to get my professor remove it (NSFW)
-  entry_id: 8fdlh4
-  entry_content: |
-    null
-- entry_name: |
     And much better benefits!
   entry_id: 8fftap
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fgxug
   entry_content: |
     <img src=https://i.redditmedia.com/yiEN2U1U_HzrSnWdjqeYAyrGkR2SL3-XPsn0wjBhj-A.jpg?s=e58b48a10e6b6fcfc59286ca30e5e998 frameborder=0>
+- entry_name: |
+    When you try to establish a new format
+  entry_id: 8ffttf
+  entry_content: |
+    <img src=https://i.redditmedia.com/fGlCM7etcV76vD1pqyQONYrFbEcuZExSV-Q_rkIocFE.png?s=8f0b544e4d1432fabc3da494c739d176 frameborder=0>
 ---
