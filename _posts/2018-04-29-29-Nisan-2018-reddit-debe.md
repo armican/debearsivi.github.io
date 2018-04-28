@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sw1fyWl6tdyghZtEquJAI2_6qxIYBQIP1dMnVTKTupQ.jpg?s=8dcbb9753a2603b6ec687862f543872e frameborder=0>
 - entry_name: |
-    My school just installed a CVS vending machine full of medicine and hygiene products
-  entry_id: 8fegrx
-  entry_content: |
-    <img src=https://i.redditmedia.com/NgLGOinALcVYhjWvxT39SA_9LK8043D5BNoeO_gYZSA.jpg?s=deab4e60c804e35c2dc8460606ccbb15 frameborder=0>
-- entry_name: |
     A best friend of mine and I have daughters the same age. We introduced them via FaceTime 4 years ago. They’ve talked daily since and are best friends. They live 7+ hours away and our schedules never lined up to have them meet in person until this moment. Neither of them knew it was happening.
   entry_id: 8ffxf7
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8ffgkr
   entry_content: |
     <img src=https://i.redditmedia.com/BNvBLFxEXUI69FduIhCjPFd0WUuUVMbfz39gA5AdsS4.jpg?s=8772230e6a89ff22d1237415cd597b58 frameborder=0>
+- entry_name: |
+    MRW The front page is nothing but good news about North Korea and its advances towards peace with South Korea
+  entry_id: 8fg9v9
+  entry_content: |
+    <img src=https://i.redditmedia.com/eIIoPwoABr703hAhUU85zfYoEVSBsnW-ot4oK1eyW4c.gif?fm=jpg&s=87f0e8f41abbe42f3b6e5061e68046f3 frameborder=0>
 ---
