@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lt1qnegaaiu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    The Holy Trinity Of Wholesome
-  entry_id: 8fdynn
-  entry_content: |
-    <img src=https://i.redditmedia.com/SGiapoyIQlEcYYnJDokNaTb0XhwteVcvAhcnnOw4mqg.png?s=9069a631c8b8b0c2a342c8acfa816738 frameborder=0>
-- entry_name: |
     TIL English is the universal language of the skies. All pilots must learn and use English, regardless of their country of origin.
   entry_id: 8ffs7l
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fer3s
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFlimsySecondhandElk&url=https%3A%2F%2Fgfycat.com%2Fflimsysecondhandelk&image=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsySecondhandElk-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Last Night in Northern China ... What is It?
+  entry_id: 8fhluc
+  entry_content: |
+    <iframe src=https://v.redd.it/lts4yr7itku01/DASH_4_8_M frameborder=0></iframe>
 ---
