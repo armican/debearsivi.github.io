@@ -158,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y4p8kr0jj2RBHbLBXGJFt0xhhehelMEBXe4VnjS5LgU.jpg?s=71d3ac8309845daa2ff5e4311ca54b55 frameborder=0>
 - entry_name: |
-    Facepalm
-  entry_id: 8fe68e
-  entry_content: |
-    <img src=https://i.redditmedia.com/TnLJlDPXo0ZwHIDCdGox1XhL7F94aANbFvVFte5DCus.jpg?s=48f461cf9310d8cffc75feeeefca6155 frameborder=0>
-- entry_name: |
     This park has a swing for wheelchair users
   entry_id: 8fjio5
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fhluc
   entry_content: |
     <iframe src=https://v.redd.it/lts4yr7itku01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    When you try to establish a new format
+  entry_id: 8ffttf
+  entry_content: |
+    <img src=https://i.redditmedia.com/fGlCM7etcV76vD1pqyQONYrFbEcuZExSV-Q_rkIocFE.png?s=8f0b544e4d1432fabc3da494c739d176 frameborder=0>
 ---
