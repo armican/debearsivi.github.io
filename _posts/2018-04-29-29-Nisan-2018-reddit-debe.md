@@ -58,20 +58,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9geQm4AoCY1aw_tkdGoG7N-JoGzDnqVQQKBPNheVtn0.jpg?s=e006957e519691963b9cb7bc751254c1 frameborder=0>
 - entry_name: |
-    South Korean president Moon Jae-In when he was in the special forces (1975-1977). Badass
-  entry_id: 8fe7iy
-  entry_content: |
-    <img src=https://i.redditmedia.com/Q-hV-3zlZWnQvQ7MvlLiH13Y9jau4vURwzSPVuhSP7E.jpg?s=d3d7e723e89400b250c5b4b5e2c6334a frameborder=0>
-- entry_name: |
     Switzerland is beautiful!
   entry_id: 8fi2ry
   entry_content: |
     <iframe src=https://v.redd.it/y3jnuj6kblu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    South Korean president Moon Jae-In when he was in the special forces (1975-1977). Badass
+  entry_id: 8fe7iy
+  entry_content: |
+    <img src=https://i.redditmedia.com/Q-hV-3zlZWnQvQ7MvlLiH13Y9jau4vURwzSPVuhSP7E.jpg?s=d3d7e723e89400b250c5b4b5e2c6334a frameborder=0>
+- entry_name: |
+    Dogs can be our best friends, but the cat will never tell the police where the marijuana is.
+  entry_id: 8fil8u
+  entry_content: |
+    null
+- entry_name: |
     Fans trying to get Green Day’s ‘American Idiot’ to No. 1 for Trump’s UK visit
   entry_id: 8fhksj
   entry_content: |
     <img src=https://i.redditmedia.com/ReHhPZIjuaH6GbweBdk1Oo5CLv6tEF4K4QL8xkHnwLs.jpg?s=47d339601205fd9f5359e524d5217f43 frameborder=0>
+- entry_name: |
+    Corgi and her support plushie
+  entry_id: 8fjar3
+  entry_content: |
+    <iframe src=https://v.redd.it/djg4ng6gwmu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL Quebec banned ads for toys and fast food aimed at children under 13, resulting in lowered childhood obesity rates
+  entry_id: 8fimtl
+  entry_content: |
+    <img src=https://i.redditmedia.com/iqVHvEkdiE1HEHOUULKfudtat7Yq85JkmMeUMZeniNU.jpg?s=10f8de82ad79dd2b81cdd627bd1d51c5 frameborder=0>
 - entry_name: |
     If they haven’t, they should
   entry_id: 8fevfo
@@ -88,10 +103,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-vnGUiRtiWB997E3gGIukBghNSNrKAQs3dsPqBRZwVU.jpg?s=0ef9319d6bceff63413b10e0b53a1f70 frameborder=0>
 - entry_name: |
-    Dogs can be our best friends, but the cat will never tell the police where the marijuana is.
-  entry_id: 8fil8u
+    Another universal prank.. With a twist..
+  entry_id: 8fiwmr
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/y6syo5szdmu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Stop-motion graffiti art by artist, Blu
   entry_id: 8fg6by
@@ -103,25 +118,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/UVVll5kivcX_5_HMUjebHg8QmM-YEWePtDP-QTxiEMY.jpg?s=9953c7bcac0d500a088adb179ed2bb5c frameborder=0>
 - entry_name: |
-    Another universal prank.. With a twist..
-  entry_id: 8fiwmr
-  entry_content: |
-    <iframe src=https://v.redd.it/y6syo5szdmu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    TIL Quebec banned ads for toys and fast food aimed at children under 13, resulting in lowered childhood obesity rates
-  entry_id: 8fimtl
-  entry_content: |
-    <img src=https://i.redditmedia.com/iqVHvEkdiE1HEHOUULKfudtat7Yq85JkmMeUMZeniNU.jpg?s=10f8de82ad79dd2b81cdd627bd1d51c5 frameborder=0>
-- entry_name: |
     UFC fighter loves memes.
   entry_id: 8fepgw
   entry_content: |
     <iframe src=https://v.redd.it/zj99nuwreiu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Corgi and her support plushie
+  entry_id: 8fjan0
+  entry_content: |
+    <iframe src=https://v.redd.it/8nuxvbnawmu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     The table and chairs at my friends house look cell shaded
   entry_id: 8fgzmb
   entry_content: |
     <img src=https://i.redditmedia.com/z0bT4pnOW8PWXcg32EKZFbSdlwQ8OYyXL9VC1KxyBI4.jpg?s=01d86a26f2082a697fd78cd5ea7f27e4 frameborder=0>
+- entry_name: |
+    On my hellish NYC commute
+  entry_id: 8fjd1u
+  entry_content: |
+    <img src=https://i.redditmedia.com/N39-ycT_G4UeQggPYZrauwX0I3DFfA1Fd6l6P_Qwb00.jpg?s=01b80a49866d7efd21518969bd3fe6d4 frameborder=0>
 - entry_name: |
     I did a varnish pour on one of my paintings, and it definitely belongs here.
   entry_id: 8fg92t
@@ -133,34 +148,29 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/l0jdh1l51ju01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8fdiju
-  entry_content: |
-    <iframe src=https://v.redd.it/zbo2sh2glou01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     If people used break-up lines instead of pick-up lines, what would some of the best ones be?
   entry_id: 8ffc2c
   entry_content: |
     null
+- entry_name: |
+  entry_id: 8fdiju
+  entry_content: |
+    <iframe src=https://v.redd.it/zbo2sh2glou01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Facepalm
   entry_id: 8fe68e
   entry_content: |
     <img src=https://i.redditmedia.com/TnLJlDPXo0ZwHIDCdGox1XhL7F94aANbFvVFte5DCus.jpg?s=48f461cf9310d8cffc75feeeefca6155 frameborder=0>
 - entry_name: |
-    Corgi and her support plushie
-  entry_id: 8fjar3
+    This Sunday The Simpsons makes TV history with its 636th episode, passing Gunsmoke as the longest running scripted TV series
+  entry_id: 8ffusa
   entry_content: |
-    <iframe src=https://v.redd.it/djg4ng6gwmu01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/y4p8kr0jj2RBHbLBXGJFt0xhhehelMEBXe4VnjS5LgU.jpg?s=71d3ac8309845daa2ff5e4311ca54b55 frameborder=0>
 - entry_name: |
     It was a simpler time
   entry_id: 8fg3tc
   entry_content: |
     <img src=https://i.redditmedia.com/lGbxGtXtkqIq7sP2t2J8TfzVKoszZ-nTsnR37hiTwbE.png?s=555fb3d6aee6b0f2a7ef0800cccdb82c frameborder=0>
-- entry_name: |
-    This Sunday The Simpsons makes TV history with its 636th episode, passing Gunsmoke as the longest running scripted TV series
-  entry_id: 8ffusa
-  entry_content: |
-    <img src=https://i.redditmedia.com/y4p8kr0jj2RBHbLBXGJFt0xhhehelMEBXe4VnjS5LgU.jpg?s=71d3ac8309845daa2ff5e4311ca54b55 frameborder=0>
 - entry_name: |
     President Donald Trump tweeted support for a U.S. bid to co-host the 2026 soccer World Cup with a veiled threat against nations that might oppose it, prompting soccer’s governing body to refer to guidelines that warn against political influence over bids.
   entry_id: 8fgszb
@@ -177,15 +187,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Rabrzm4xPloLBULzlJcBj-2NWIylbJnIFgNM3G533fc.jpg?s=53187925dd74cf98eea8edfdbf58dc8d frameborder=0>
 - entry_name: |
+    Trump Tower is on fire in Azerbaijani capital Baku
+  entry_id: 8fjcld
+  entry_content: |
+    <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
+- entry_name: |
     Locals only
   entry_id: 8fh8ak
   entry_content: |
     <iframe src=https://v.redd.it/2wm1mxomgku01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    On my hellish NYC commute
-  entry_id: 8fjd1u
+    Dragon Bro
+  entry_id: 8fiefu
   entry_content: |
-    <img src=https://i.redditmedia.com/N39-ycT_G4UeQggPYZrauwX0I3DFfA1Fd6l6P_Qwb00.jpg?s=01b80a49866d7efd21518969bd3fe6d4 frameborder=0>
+    <img src=https://i.redditmedia.com/4bpFCnT1IIJSn2ZdzR4G-slqodrNZUN09YujWPvovXE.jpg?s=94618621e29a224515b3829d7c318113 frameborder=0>
+- entry_name: |
+    South Korean President Moon Jae In hugging his newly adopted dog from animal shelter
+  entry_id: 8finiq
+  entry_content: |
+    <img src=https://i.redditmedia.com/tsxBaMiZjJeejcSJzUuzltT-nK0_drGLUtJohQIEiy4.jpg?s=b90ba054b4cd4957e41c5e36e8c7c1a4 frameborder=0>
+- entry_name: |
+    A Colorful Street in Amsterdam.
+  entry_id: 8ficsv
+  entry_content: |
+    <img src=https://i.redditmedia.com/O686_oFSn1CW1DMLX4x_8yANNSBF0BAu9jLOBJo1Gjc.jpg?s=e251f5f37c9833d15767aaa7b14c503d frameborder=0>
 - entry_name: |
     Bill Gates thinks a coming disease could kill 30 million people within 6 months — and says we should prepare for it like we do for war
   entry_id: 8feioz
@@ -197,6 +222,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/96zbHE3MCUQgcwTKqyUPfLF9JjelvgJ8Tn7mPT1Xu7k.jpg?s=eec1934bd1d1470ac40d89ea99432e13 frameborder=0>
 - entry_name: |
+    TIFU by having sex with a tampon in, losing it, and having to get my professor remove it (NSFW)
+  entry_id: 8fdlh4
+  entry_content: |
+    null
+- entry_name: |
     And much better benefits!
   entry_id: 8fftap
   entry_content: |
@@ -207,48 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/eGejO-N9-yMyNV-0Sbrct3A9LHNu0Qv8F3DlIoz5D94.jpg?s=b69ff4641e470bcd4176bb47739109bc frameborder=0>
 - entry_name: |
-    TIFU by having sex with a tampon in, losing it, and having to get my professor remove it (NSFW)
-  entry_id: 8fdlh4
-  entry_content: |
-    null
-- entry_name: |
     Just showing you that I can smash your skull
   entry_id: 8fdspt
   entry_content: |
     <iframe src=https://v.redd.it/x1clfp3zrhu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    A Colorful Street in Amsterdam.
-  entry_id: 8ficsv
-  entry_content: |
-    <img src=https://i.redditmedia.com/O686_oFSn1CW1DMLX4x_8yANNSBF0BAu9jLOBJo1Gjc.jpg?s=e251f5f37c9833d15767aaa7b14c503d frameborder=0>
-- entry_name: |
-    Corgi and her support plushie
-  entry_id: 8fjan0
-  entry_content: |
-    <iframe src=https://v.redd.it/8nuxvbnawmu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Dragon Bro
-  entry_id: 8fiefu
-  entry_content: |
-    <img src=https://i.redditmedia.com/4bpFCnT1IIJSn2ZdzR4G-slqodrNZUN09YujWPvovXE.jpg?s=94618621e29a224515b3829d7c318113 frameborder=0>
-- entry_name: |
-    All hail Queen Beesly
-  entry_id: 8fe0oq
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZMDpj9VATXoTlzsYLWJbsfAJyIlfCmXmJaX-IHWPcmY.jpg?s=ffc906f6c00150741c0191bd26509860 frameborder=0>
-- entry_name: |
-    Flynn And His Son Met With Russian Ambassador In December 2015
-  entry_id: 8fdsv9
-  entry_content: |
-    <img src=https://i.redditmedia.com/CUEyoX8A1tKSK_6SOkrZJa5Kc156M-6hRaqcAZ69Pro.jpg?s=eef7c4c9b5a7cc54265ea3ab433ad465 frameborder=0>
 - entry_name: |
     The goodest boy cheering on marathon runners
   entry_id: 8fer3s
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFlimsySecondhandElk&url=https%3A%2F%2Fgfycat.com%2Fflimsysecondhandelk&image=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsySecondhandElk-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    South Korean President Moon Jae In hugging his newly adopted dog from animal shelter
-  entry_id: 8finiq
+    All hail Queen Beesly
+  entry_id: 8fe0oq
   entry_content: |
-    <img src=https://i.redditmedia.com/tsxBaMiZjJeejcSJzUuzltT-nK0_drGLUtJohQIEiy4.jpg?s=b90ba054b4cd4957e41c5e36e8c7c1a4 frameborder=0>
+    <img src=https://i.redditmedia.com/ZMDpj9VATXoTlzsYLWJbsfAJyIlfCmXmJaX-IHWPcmY.jpg?s=ffc906f6c00150741c0191bd26509860 frameborder=0>
 ---
