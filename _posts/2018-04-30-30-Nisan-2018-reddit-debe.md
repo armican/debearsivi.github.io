@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/i-ng8Vj3vnAwNkwKMy0Y36BJsKWEfI5GNfTUkRdZziE.jpg?s=e8f4d8ba459e52c293fdce024683a667 frameborder=0>
 - entry_name: |
-    Hawaii becomes 12th state to ban gay conversion therapy for minors
-  entry_id: 8flfek
-  entry_content: |
-    <img src=https://i.redditmedia.com/59wbwYy9rkXsCttYatwv1NRSEaNjEP4R6TIrM6w-VV0.jpg?s=ff8c593d4aa1d77faf2a59e2ce4a839c frameborder=0>
-- entry_name: |
     Enjoying the water on a much needed break
   entry_id: 8fnm8c
   entry_content: |
@@ -98,16 +93,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vsiozsuhmpu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I can't remember how to write 1, 1000, 51, 6 and 500 in Roman numerals
-  entry_id: 8flg6c
-  entry_content: |
-    null
-- entry_name: |
-    Tens of thousands of people took to the streets in Spain on Saturday to protest against the acquittal of five men of gang raping an 18-year-old woman at Pamplona's bull-running festival
-  entry_id: 8flegq
-  entry_content: |
-    <img src=https://i.redditmedia.com/IqOXn1TqgNj8kMNNGapBgtMeTpW_EI_CawEuPmXki9Q.jpg?s=2eec1c7da5c92eadb892fb5f6eb7511a frameborder=0>
-- entry_name: |
     People that have friends: How?
   entry_id: 8fndq9
   entry_content: |
@@ -152,11 +137,6 @@ data:
   entry_id: 8flxl8
   entry_content: |
     <iframe src=https://v.redd.it/840tgbv96uu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Pressing Cheese Through Small Holes with Hydraulic Press
-  entry_id: 8flfvb
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAdventurousBlueAndalusianhorse&url=https%3A%2F%2Fgfycat.com%2FAdventurousBlueAndalusianhorse&image=https%3A%2F%2Fthumbs.gfycat.com%2FAdventurousBlueAndalusianhorse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Rev up those registers!
   entry_id: 8flz7w
@@ -203,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cOxq7EJeGZ_GVD-R7ctUCMHjUvU779fBiThDeZ1bY5k.jpg?s=653d556107528ac14195af3a04225e21 frameborder=0>
 - entry_name: |
-    Doggo got stuck on the ball
-  entry_id: 8flgpw
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHauntingImpressionableBluewhale&url=https%3A%2F%2Fgfycat.com%2Fhauntingimpressionablebluewhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FHauntingImpressionableBluewhale-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
   entry_id: 8fr64c
   entry_content: |
@@ -252,4 +227,29 @@ data:
   entry_id: 8fmt8b
   entry_content: |
     <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
+- entry_name: |
+    I found a real place from the famous scene of my favorite movie
+  entry_id: 8fm0zd
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ban3JYSjY6XwRRwIaUexYO2KiOpyS8NjZhbtgsWjLwE.jpg?s=49296a84668ff49732297f110f56eb3f frameborder=0>
+- entry_name: |
+    My moms cat missed me and came to snuggle. He’s a good boy
+  entry_id: 8fq2ol
+  entry_content: |
+    <img src=https://i.redditmedia.com/yAa5uJKgDJLOHDh71kT34sfsxsOe7jKbBfFJjV_ByA0.jpg?s=3e70ac7694cbe64a80ee64ce4785152f frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8fmmr4
+  entry_content: |
+    <img src=https://i.redditmedia.com/gxl2DN00YzpOiOhmC5w44KqZ1F44ncLdgrEcUynwWR4.jpg?s=8b2776c81abc25cc50a35c6486169c8e frameborder=0>
+- entry_name: |
+    I made this piece inspired by the upcoming James Webb Space Telescope.
+  entry_id: 8fr059
+  entry_content: |
+    <img src=https://i.redditmedia.com/LcqTvzsAI9kKTm7xjdDDSSR2ZGdaY6miWLKObeBngYA.jpg?s=21f881b13f8d16bc79ec4571afc4a338 frameborder=0>
+- entry_name: |
+    Mods are asleep, upvote actual deep friers.
+  entry_id: 8foxxo
+  entry_content: |
+    <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
 ---
