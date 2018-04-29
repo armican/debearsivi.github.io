@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/N0ooaGLRvOWrSalFbTGG1Y2bVd631JqESf7HjZxAA40.jpg?s=2246bad7cd3022299ce2c427a9b25dda frameborder=0>
 - entry_name: |
-    How do you use an inhaler?
-  entry_id: 8flvv8
-  entry_content: |
-    <iframe src=https://v.redd.it/axca7x523pu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     My sister in law sent me this snap of my psychotic brother
   entry_id: 8fmdwm
   entry_content: |
@@ -133,20 +128,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Hydraulic pressing crayons
-  entry_id: 8flxl8
-  entry_content: |
-    <iframe src=https://v.redd.it/840tgbv96uu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Kim Says He’ll Give Up Weapons if U.S. Promises Not to Invade
   entry_id: 8fqvoj
   entry_content: |
     <img src=https://i.redditmedia.com/FZfpSOK3y4T4gpHuSqjwBfXAXiDqFdH55AMycceXycw.jpg?s=2b42ca84fcab8a67a5b8dc7b4d346fb3 frameborder=0>
-- entry_name: |
-    Rev up those registers!
-  entry_id: 8flz7w
-  entry_content: |
-    <img src=https://i.redditmedia.com/rBzbGgbrc9iY9kAHXdM3SqyM8Dmoq_h8ntglpH-ngaI.jpg?s=604a77874b4f1aa29109afe987c74ae6 frameborder=0>
 - entry_name: |
     Hey kids, let's dance.
   entry_id: 8fo5o4
@@ -252,4 +237,19 @@ data:
   entry_id: 8fm0zd
   entry_content: |
     <img src=https://i.redditmedia.com/Ban3JYSjY6XwRRwIaUexYO2KiOpyS8NjZhbtgsWjLwE.jpg?s=49296a84668ff49732297f110f56eb3f frameborder=0>
+- entry_name: |
+    Mods are asleep, upvote actual deep friers.
+  entry_id: 8foxxo
+  entry_content: |
+    <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8fmmr4
+  entry_content: |
+    <img src=https://i.redditmedia.com/gxl2DN00YzpOiOhmC5w44KqZ1F44ncLdgrEcUynwWR4.jpg?s=8b2776c81abc25cc50a35c6486169c8e frameborder=0>
+- entry_name: |
+    Kanye definitely has a type
+  entry_id: 8fqo4i
+  entry_content: |
+    <img src=https://i.redditmedia.com/u-6g1PG3YDlXHZT_dX4y57zSGAAJVKxCdz-KrXa782g.jpg?s=2444ae0424864a677e6b5bebe5883c2a frameborder=0>
 ---
