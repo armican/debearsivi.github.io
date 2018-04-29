@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
 - entry_name: |
-    TIL Pearl Jam's song Jeremy is based on the real-life classroom suicide of Jeremy Wade Delle of Texas, who was released from a mental hospital and sent back to school -- reportedly, once his insurance money ran out he was deemed cured .
-  entry_id: 8flqhm
-  entry_content: |
-    <img src=https://i.redditmedia.com/7h8kji5AfUqk8iTmzdqsvZhI66vwrdYe7rSTKg9FJ5I.jpg?s=67c37d73b2c456c9ed7a018dc6f9d559 frameborder=0>
-- entry_name: |
     Comma
   entry_id: 8fmr1h
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8fmt8b
   entry_content: |
     <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
+- entry_name: |
+    I found a real place from the famous scene of my favorite movie
+  entry_id: 8fm0zd
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ban3JYSjY6XwRRwIaUexYO2KiOpyS8NjZhbtgsWjLwE.jpg?s=49296a84668ff49732297f110f56eb3f frameborder=0>
 ---
