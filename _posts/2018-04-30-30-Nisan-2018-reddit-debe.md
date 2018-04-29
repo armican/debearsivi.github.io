@@ -13,6 +13,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jvkLMgII2E2a3tLyLL1wZ3XbmYZn9JxeIUxdXzjsSUE.jpg?s=1d1c50b90437a96e9d159e29929aa624 frameborder=0>
 - entry_name: |
+    Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
+  entry_id: 8fr64c
+  entry_content: |
+    <img src=https://i.redditmedia.com/inR7ajQtRYtAhuV5cG9lJwhaN678BvZ9aw-99bfb2g8.jpg?s=c440b8dac558dbd748e4be4584523566 frameborder=0>
+- entry_name: |
     We did a red-panda encounter. This is probably the best picture I'll ever take.
   entry_id: 8fo8fw
   entry_content: |
@@ -53,20 +58,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xmdo8296hpu01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
-  entry_id: 8fr64c
+    This TIME cover from May 2017 aged beautifully
+  entry_id: 8fqpad
   entry_content: |
-    <img src=https://i.redditmedia.com/inR7ajQtRYtAhuV5cG9lJwhaN678BvZ9aw-99bfb2g8.jpg?s=c440b8dac558dbd748e4be4584523566 frameborder=0>
+    <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
 - entry_name: |
     My cousin’s legs after a day in the sun in ripped jeans
   entry_id: 8fo6wo
   entry_content: |
     <img src=https://i.redditmedia.com/VUKNu3J7a2oO1dwZBMXikMNASjH2g0N3tOaBjYIyW1Q.jpg?s=db83fe898eedcdd8716d12909d35484c frameborder=0>
 - entry_name: |
-    This TIME cover from May 2017 aged beautifully
-  entry_id: 8fqpad
+    We'll let you live for now
+  entry_id: 8fqwdd
   entry_content: |
-    <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
+    <iframe src=https://v.redd.it/3byq4m1w6uu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Comma
   entry_id: 8fmr1h
@@ -93,55 +98,75 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/79j7uivxmsu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    People that have friends: How?
-  entry_id: 8fndq9
+    This guy painting birds at a McDonald's.
+  entry_id: 8frc7q
   entry_content: |
-    null
-- entry_name: |
-    Man of Fire
-  entry_id: 8foaxv
-  entry_content: |
-    <iframe src=https://v.redd.it/0hbwab9s0ru01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Orangutan mother meets Steve Irwin, immediately trusts him.
-  entry_id: 8fnmut
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/ORIFhImbRjo?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    We'll let you live for now
-  entry_id: 8fqwdd
-  entry_content: |
-    <iframe src=https://v.redd.it/3byq4m1w6uu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Mouth and ears are connected.
-  entry_id: 8fqgo6
-  entry_content: |
-    <iframe src=https://v.redd.it/80p41iqjmtu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    10 years ago today Bruno Mars was surprised to see Pete Wentz
-  entry_id: 8fq43m
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZR0HXXfznhH23Tp6Rsm6t8PkC9alGkPwBycancR4i8Q.jpg?s=b04b1b3a2759b69a3baa872335cfcd65 frameborder=0>
-- entry_name: |
-    How could you say no to a face like this?
-  entry_id: 8fog8t
-  entry_content: |
-    <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Okt2oT4R89M-QNvn41f0Vy67AjdmqZxqq8CDyd5OUUs.jpg?s=9033d9eb738b1fb84ff0387f03e19ef6 frameborder=0>
 - entry_name: |
     Kim Says He’ll Give Up Weapons if U.S. Promises Not to Invade
   entry_id: 8fqvoj
   entry_content: |
     <img src=https://i.redditmedia.com/FZfpSOK3y4T4gpHuSqjwBfXAXiDqFdH55AMycceXycw.jpg?s=2b42ca84fcab8a67a5b8dc7b4d346fb3 frameborder=0>
 - entry_name: |
+    Man of Fire
+  entry_id: 8foaxv
+  entry_content: |
+    <iframe src=https://v.redd.it/0hbwab9s0ru01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    People that have friends: How?
+  entry_id: 8fndq9
+  entry_content: |
+    null
+- entry_name: |
+    Mouth and ears are connected.
+  entry_id: 8fqgo6
+  entry_content: |
+    <iframe src=https://v.redd.it/80p41iqjmtu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Orangutan mother meets Steve Irwin, immediately trusts him.
+  entry_id: 8fnmut
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/ORIFhImbRjo?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Learning about sex by watching porn is like learning to drive by watching Fast and Furious
+  entry_id: 8fqzez
+  entry_content: |
+    null
+- entry_name: |
+    10 years ago today Bruno Mars was surprised to see Pete Wentz
+  entry_id: 8fq43m
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZR0HXXfznhH23Tp6Rsm6t8PkC9alGkPwBycancR4i8Q.jpg?s=b04b1b3a2759b69a3baa872335cfcd65 frameborder=0>
+- entry_name: |
+    Girl surprise her prom date after not being able to walk for 10 months.
+  entry_id: 8fr7me
+  entry_content: |
+    <iframe src=https://v.redd.it/hdheu9ra5uu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    How could you say no to a face like this?
+  entry_id: 8fog8t
+  entry_content: |
+    <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Hey kids, let's dance.
   entry_id: 8fo5o4
   entry_content: |
     <iframe src=https://v.redd.it/sf5r1p7ezqu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    I made this piece inspired by the upcoming James Webb Space Telescope.
+  entry_id: 8fr059
+  entry_content: |
+    <img src=https://i.redditmedia.com/LcqTvzsAI9kKTm7xjdDDSSR2ZGdaY6miWLKObeBngYA.jpg?s=21f881b13f8d16bc79ec4571afc4a338 frameborder=0>
+- entry_name: |
     Discovering your life's purpose
   entry_id: 8fp8ls
   entry_content: |
     <iframe src=https://v.redd.it/a5qcvg051su01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Fallout 4 shows how I really feel at the office
+  entry_id: 8fqmyt
+  entry_content: |
+    <img src=https://i.redditmedia.com/gkoKMBnLS6ozGmDcKWLS1XI8-0pIPjmQy5-I7ce7j5w.jpg?s=a96e6f4436bade875083803505dfa44b frameborder=0>
 - entry_name: |
     Artist gives sick kids awesome temporary tattoos to make life in hospital more fun.
   entry_id: 8fnasw
@@ -158,16 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/u2Q3EmgZME_S-2te2PSw_1RhfGwvydc4S3Nb2YVWaOw.jpg?s=a574ea2721cf5ce38f4a27d625834e44 frameborder=0>
 - entry_name: |
-    Girl surprise her prom date after not being able to walk for 10 months.
-  entry_id: 8fr7me
-  entry_content: |
-    <iframe src=https://v.redd.it/hdheu9ra5uu01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Learning about sex by watching porn is like learning to drive by watching Fast and Furious
-  entry_id: 8fqzez
-  entry_content: |
-    null
-- entry_name: |
     Why do people use Adblock?
   entry_id: 8fmitr
   entry_content: |
@@ -178,20 +193,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cOxq7EJeGZ_GVD-R7ctUCMHjUvU779fBiThDeZ1bY5k.jpg?s=653d556107528ac14195af3a04225e21 frameborder=0>
 - entry_name: |
-    Fallout 4 shows how I really feel at the office
-  entry_id: 8fqmyt
+    Worship me, I demand it
+  entry_id: 8fqz7b
   entry_content: |
-    <img src=https://i.redditmedia.com/gkoKMBnLS6ozGmDcKWLS1XI8-0pIPjmQy5-I7ce7j5w.jpg?s=a96e6f4436bade875083803505dfa44b frameborder=0>
-- entry_name: |
-    This guy painting birds at a McDonald's.
-  entry_id: 8frc7q
-  entry_content: |
-    <img src=https://i.redditmedia.com/Okt2oT4R89M-QNvn41f0Vy67AjdmqZxqq8CDyd5OUUs.jpg?s=9033d9eb738b1fb84ff0387f03e19ef6 frameborder=0>
-- entry_name: |
-    I made this piece inspired by the upcoming James Webb Space Telescope.
-  entry_id: 8fr059
-  entry_content: |
-    <img src=https://i.redditmedia.com/LcqTvzsAI9kKTm7xjdDDSSR2ZGdaY6miWLKObeBngYA.jpg?s=21f881b13f8d16bc79ec4571afc4a338 frameborder=0>
+    <img src=https://i.redditmedia.com/igxGexBw_3eh8qWTWNPH6ET0HLDny0f8eqsom0uWR-4.png?s=9886c036ec357e598cf920a0657d6bd7 frameborder=0>
 - entry_name: |
     Dragon made from river rock and steel rods
   entry_id: 8fokoo
@@ -203,53 +208,48 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/mgla4zpl5qu01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Jordan Mailata, a 6'8 346 pound Samoan rugby league player who has never played football, got drafted in the 7th round by the Philadelphia Eagles
-  entry_id: 8fnj3f
+    How my wife opens things
+  entry_id: 8fr53e
   entry_content: |
-    <iframe src=https://v.redd.it/ulvg4lslfqu01/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/wUsI7XAroVqdbJnzExQxtq9LvlZCVyLW14E7g_YsytY.jpg?s=cbb447abf4d59447e9903a9077353267 frameborder=0>
 - entry_name: |
     My moms cat missed me and came to snuggle. He’s a good boy
   entry_id: 8fq2ol
   entry_content: |
     <img src=https://i.redditmedia.com/yAa5uJKgDJLOHDh71kT34sfsxsOe7jKbBfFJjV_ByA0.jpg?s=3e70ac7694cbe64a80ee64ce4785152f frameborder=0>
 - entry_name: |
-    Savage Obama
-  entry_id: 8fmvyi
+    Netflix Will Make Sci-Fi and Fantasy Shows and Movies Its Main Focus - IGN
+  entry_id: 8fpmvg
   entry_content: |
-    <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
+    <img src=https://i.redditmedia.com/2f1z7M9owGRMDIOIL6k8JBnuy_di9a67NjR6kDdNK8g.jpg?s=f291616413a44591c105765255f23d4c frameborder=0>
+- entry_name: |
+    Kanye definitely has a type
+  entry_id: 8fqo4i
+  entry_content: |
+    <img src=https://i.redditmedia.com/u-6g1PG3YDlXHZT_dX4y57zSGAAJVKxCdz-KrXa782g.jpg?s=2444ae0424864a677e6b5bebe5883c2a frameborder=0>
+- entry_name: |
+    Jordan Mailata, a 6'8 346 pound Samoan rugby league player who has never played football, got drafted in the 7th round by the Philadelphia Eagles
+  entry_id: 8fnj3f
+  entry_content: |
+    <iframe src=https://v.redd.it/ulvg4lslfqu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Negative thoughts are like fat, it takes a long time to get rid of it and only a short time to gain it back.
   entry_id: 8fpell
   entry_content: |
     null
 - entry_name: |
-    Worship me, I demand it
-  entry_id: 8fqz7b
+    Savage Obama
+  entry_id: 8fmvyi
   entry_content: |
-    <img src=https://i.redditmedia.com/igxGexBw_3eh8qWTWNPH6ET0HLDny0f8eqsom0uWR-4.png?s=9886c036ec357e598cf920a0657d6bd7 frameborder=0>
+    <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
 - entry_name: |
-    Diploma came with a wallet sized version
-  entry_id: 8fmt8b
+    TIL in 2003 a herd of wild elephants released a group of captive antelopes from a game reserve in Southeast Africa. The matriarch of the herd undid all of the gate's metal latches with her trunk & then pushed it open. The antelope took their chance & ran into the bush followed by the elephants.
+  entry_id: 8fqkn7
   entry_content: |
-    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
-- entry_name: |
-    I found a real place from the famous scene of my favorite movie
-  entry_id: 8fm0zd
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ban3JYSjY6XwRRwIaUexYO2KiOpyS8NjZhbtgsWjLwE.jpg?s=49296a84668ff49732297f110f56eb3f frameborder=0>
+    <img src=https://i.redditmedia.com/j1bJj8JwRVmEcyy1tulmwxuXfbX5ojaFzSoOcwaB6iU.jpg?s=b487f17d57a6fca63fa59621fa0e4ca2 frameborder=0>
 - entry_name: |
     Mods are asleep, upvote actual deep friers.
   entry_id: 8foxxo
   entry_content: |
     <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8fmmr4
-  entry_content: |
-    <img src=https://i.redditmedia.com/gxl2DN00YzpOiOhmC5w44KqZ1F44ncLdgrEcUynwWR4.jpg?s=8b2776c81abc25cc50a35c6486169c8e frameborder=0>
-- entry_name: |
-    Kanye definitely has a type
-  entry_id: 8fqo4i
-  entry_content: |
-    <img src=https://i.redditmedia.com/u-6g1PG3YDlXHZT_dX4y57zSGAAJVKxCdz-KrXa782g.jpg?s=2444ae0424864a677e6b5bebe5883c2a frameborder=0>
 ---
