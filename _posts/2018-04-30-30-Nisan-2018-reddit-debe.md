@@ -18,15 +18,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/i-ng8Vj3vnAwNkwKMy0Y36BJsKWEfI5GNfTUkRdZziE.jpg?s=e8f4d8ba459e52c293fdce024683a667 frameborder=0>
 - entry_name: |
-    Enjoying the water on a much needed break
-  entry_id: 8fnm8c
-  entry_content: |
-    <img src=https://i.redditmedia.com/r4kXsEeoL63OxEMVUt2h_qymNTgPHtZrN9sdbNhRmEA.jpg?s=d17063f867d7cebfe8564b8ca52e41b5 frameborder=0>
-- entry_name: |
     Guys rate my setup
   entry_id: 8fphz7
   entry_content: |
     <img src=https://i.redditmedia.com/nJVSMQ4HzLM5m58OeN4SAAQMORw-CPj87PxmVD58pDg.jpg?s=08e67361176dbffa74b45d2df15ffac3 frameborder=0>
+- entry_name: |
+    Enjoying the water on a much needed break
+  entry_id: 8fnm8c
+  entry_content: |
+    <img src=https://i.redditmedia.com/r4kXsEeoL63OxEMVUt2h_qymNTgPHtZrN9sdbNhRmEA.jpg?s=d17063f867d7cebfe8564b8ca52e41b5 frameborder=0>
 - entry_name: |
     Corrupt cops are just undercover criminals.
   entry_id: 8fmqfc
@@ -53,10 +53,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xmdo8296hpu01/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
+  entry_id: 8fr64c
+  entry_content: |
+    <img src=https://i.redditmedia.com/inR7ajQtRYtAhuV5cG9lJwhaN678BvZ9aw-99bfb2g8.jpg?s=c440b8dac558dbd748e4be4584523566 frameborder=0>
+- entry_name: |
     My cousin’s legs after a day in the sun in ripped jeans
   entry_id: 8fo6wo
   entry_content: |
     <img src=https://i.redditmedia.com/VUKNu3J7a2oO1dwZBMXikMNASjH2g0N3tOaBjYIyW1Q.jpg?s=db83fe898eedcdd8716d12909d35484c frameborder=0>
+- entry_name: |
+    This TIME cover from May 2017 aged beautifully
+  entry_id: 8fqpad
+  entry_content: |
+    <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
 - entry_name: |
     TIL Pearl Jam's song Jeremy is based on the real-life classroom suicide of Jeremy Wade Delle of Texas, who was released from a mental hospital and sent back to school -- reportedly, once his insurance money ran out he was deemed cured .
   entry_id: 8flqhm
@@ -73,11 +83,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/axca7x523pu01/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    This TIME cover from May 2017 aged beautifully
-  entry_id: 8fqpad
-  entry_content: |
-    <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
-- entry_name: |
     My sister in law sent me this snap of my psychotic brother
   entry_id: 8fmdwm
   entry_content: |
@@ -92,6 +97,11 @@ data:
   entry_id: 8fn2i7
   entry_content: |
     <iframe src=https://v.redd.it/vsiozsuhmpu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Sketching the Colosseum
+  entry_id: 8fpr23
+  entry_content: |
+    <iframe src=https://v.redd.it/79j7uivxmsu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     People that have friends: How?
   entry_id: 8fndq9
@@ -108,30 +118,35 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/ORIFhImbRjo?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    The perfect man does not exi-
-  entry_id: 8flma0
+    We'll let you live for now
+  entry_id: 8fqwdd
   entry_content: |
-    <img src=https://i.redditmedia.com/riXuUbW_1KXcmHQxCIAit2uK38esa9FO1tE1FxVrHl8.png?s=40be5b243843ede01831bf6ff7f3c3c0 frameborder=0>
+    <iframe src=https://v.redd.it/3byq4m1w6uu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Sketching the Colosseum
-  entry_id: 8fpr23
+    Mouth and ears are connected.
+  entry_id: 8fqgo6
   entry_content: |
-    <iframe src=https://v.redd.it/79j7uivxmsu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    How could you say no to a face like this?
-  entry_id: 8fog8t
-  entry_content: |
-    <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/80p41iqjmtu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     10 years ago today Bruno Mars was surprised to see Pete Wentz
   entry_id: 8fq43m
   entry_content: |
     <img src=https://i.redditmedia.com/ZR0HXXfznhH23Tp6Rsm6t8PkC9alGkPwBycancR4i8Q.jpg?s=b04b1b3a2759b69a3baa872335cfcd65 frameborder=0>
 - entry_name: |
+    How could you say no to a face like this?
+  entry_id: 8fog8t
+  entry_content: |
+    <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Hydraulic pressing crayons
   entry_id: 8flxl8
   entry_content: |
     <iframe src=https://v.redd.it/840tgbv96uu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Kim Says He’ll Give Up Weapons if U.S. Promises Not to Invade
+  entry_id: 8fqvoj
+  entry_content: |
+    <img src=https://i.redditmedia.com/FZfpSOK3y4T4gpHuSqjwBfXAXiDqFdH55AMycceXycw.jpg?s=2b42ca84fcab8a67a5b8dc7b4d346fb3 frameborder=0>
 - entry_name: |
     Rev up those registers!
   entry_id: 8flz7w
@@ -143,10 +158,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/sf5r1p7ezqu01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Mouth and ears are connected.
-  entry_id: 8fqgo6
+    Discovering your life's purpose
+  entry_id: 8fp8ls
   entry_content: |
-    <iframe src=https://v.redd.it/80p41iqjmtu01/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/a5qcvg051su01/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Artist gives sick kids awesome temporary tattoos to make life in hospital more fun.
   entry_id: 8fnasw
@@ -158,15 +173,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LJMEBrkHAmCnBatgPMBUi_CwzMmvXrzEdw-T00PyHAA.jpg?s=cb4ad00f710344731037b1954b3547b9 frameborder=0>
 - entry_name: |
-    Discovering your life's purpose
-  entry_id: 8fp8ls
-  entry_content: |
-    <iframe src=https://v.redd.it/a5qcvg051su01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     TIL Stevie Nicks wrote Stand Back while listening to Prince’s Little Red Corvette. Because Stevie wrote Stand Back using the exact music for Little Red Corvette, she called Prince to tell him about the song, and he showed up at her studio 25 minutes later to record the synthesizers for it.
   entry_id: 8fowhm
   entry_content: |
     <img src=https://i.redditmedia.com/u2Q3EmgZME_S-2te2PSw_1RhfGwvydc4S3Nb2YVWaOw.jpg?s=a574ea2721cf5ce38f4a27d625834e44 frameborder=0>
+- entry_name: |
+    Girl surprise her prom date after not being able to walk for 10 months.
+  entry_id: 8fr7me
+  entry_content: |
+    <iframe src=https://v.redd.it/hdheu9ra5uu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Learning about sex by watching porn is like learning to drive by watching Fast and Furious
+  entry_id: 8fqzez
+  entry_content: |
+    null
 - entry_name: |
     Why do people use Adblock?
   entry_id: 8fmitr
@@ -178,78 +198,58 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cOxq7EJeGZ_GVD-R7ctUCMHjUvU779fBiThDeZ1bY5k.jpg?s=653d556107528ac14195af3a04225e21 frameborder=0>
 - entry_name: |
-    Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
-  entry_id: 8fr64c
+    Fallout 4 shows how I really feel at the office
+  entry_id: 8fqmyt
   entry_content: |
-    <img src=https://i.redditmedia.com/inR7ajQtRYtAhuV5cG9lJwhaN678BvZ9aw-99bfb2g8.jpg?s=c440b8dac558dbd748e4be4584523566 frameborder=0>
+    <img src=https://i.redditmedia.com/gkoKMBnLS6ozGmDcKWLS1XI8-0pIPjmQy5-I7ce7j5w.jpg?s=a96e6f4436bade875083803505dfa44b frameborder=0>
 - entry_name: |
-    The power to stop time in Skyrim.
-  entry_id: 8fn79u
+    This guy painting birds at a McDonald's.
+  entry_id: 8frc7q
   entry_content: |
-    <iframe src=https://v.redd.it/mgla4zpl5qu01/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Dragon made from river rock and steel rods
-  entry_id: 8fokoo
-  entry_content: |
-    <img src=https://i.redditmedia.com/VvddNpKRttQLkrVWtKla_yZRAANobR4TZZeI_wD-qYI.jpg?s=e636df72eb72f69c01c046588db374e3 frameborder=0>
-- entry_name: |
-    We'll let you live for now
-  entry_id: 8fqwdd
-  entry_content: |
-    <iframe src=https://v.redd.it/3byq4m1w6uu01/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Savage Obama
-  entry_id: 8fmvyi
-  entry_content: |
-    <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
-- entry_name: |
-    Kim Says He’ll Give Up Weapons if U.S. Promises Not to Invade
-  entry_id: 8fqvoj
-  entry_content: |
-    <img src=https://i.redditmedia.com/FZfpSOK3y4T4gpHuSqjwBfXAXiDqFdH55AMycceXycw.jpg?s=2b42ca84fcab8a67a5b8dc7b4d346fb3 frameborder=0>
-- entry_name: |
-    Jordan Mailata, a 6'8 346 pound Samoan rugby league player who has never played football, got drafted in the 7th round by the Philadelphia Eagles
-  entry_id: 8fnj3f
-  entry_content: |
-    <iframe src=https://v.redd.it/ulvg4lslfqu01/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Negative thoughts are like fat, it takes a long time to get rid of it and only a short time to gain it back.
-  entry_id: 8fpell
-  entry_content: |
-    null
-- entry_name: |
-    Diploma came with a wallet sized version
-  entry_id: 8fmt8b
-  entry_content: |
-    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
-- entry_name: |
-    I found a real place from the famous scene of my favorite movie
-  entry_id: 8fm0zd
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ban3JYSjY6XwRRwIaUexYO2KiOpyS8NjZhbtgsWjLwE.jpg?s=49296a84668ff49732297f110f56eb3f frameborder=0>
-- entry_name: |
-    My moms cat missed me and came to snuggle. He’s a good boy
-  entry_id: 8fq2ol
-  entry_content: |
-    <img src=https://i.redditmedia.com/yAa5uJKgDJLOHDh71kT34sfsxsOe7jKbBfFJjV_ByA0.jpg?s=3e70ac7694cbe64a80ee64ce4785152f frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8fmmr4
-  entry_content: |
-    <img src=https://i.redditmedia.com/gxl2DN00YzpOiOhmC5w44KqZ1F44ncLdgrEcUynwWR4.jpg?s=8b2776c81abc25cc50a35c6486169c8e frameborder=0>
+    <img src=https://i.redditmedia.com/Okt2oT4R89M-QNvn41f0Vy67AjdmqZxqq8CDyd5OUUs.jpg?s=9033d9eb738b1fb84ff0387f03e19ef6 frameborder=0>
 - entry_name: |
     I made this piece inspired by the upcoming James Webb Space Telescope.
   entry_id: 8fr059
   entry_content: |
     <img src=https://i.redditmedia.com/LcqTvzsAI9kKTm7xjdDDSSR2ZGdaY6miWLKObeBngYA.jpg?s=21f881b13f8d16bc79ec4571afc4a338 frameborder=0>
 - entry_name: |
-    Mods are asleep, upvote actual deep friers.
-  entry_id: 8foxxo
+    Dragon made from river rock and steel rods
+  entry_id: 8fokoo
   entry_content: |
-    <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
+    <img src=https://i.redditmedia.com/VvddNpKRttQLkrVWtKla_yZRAANobR4TZZeI_wD-qYI.jpg?s=e636df72eb72f69c01c046588db374e3 frameborder=0>
 - entry_name: |
-    Financial subreddits guide
-  entry_id: 8fnj6g
+    The power to stop time in Skyrim.
+  entry_id: 8fn79u
   entry_content: |
-    <img src=https://i.redditmedia.com/yjZNl46hdnr_kfHFedsd6VBCl77lkAzOJ3qFNHM6tCc.jpg?s=9ef1824324eaa9a8e24493a54eea6263 frameborder=0>
+    <iframe src=https://v.redd.it/mgla4zpl5qu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Jordan Mailata, a 6'8 346 pound Samoan rugby league player who has never played football, got drafted in the 7th round by the Philadelphia Eagles
+  entry_id: 8fnj3f
+  entry_content: |
+    <iframe src=https://v.redd.it/ulvg4lslfqu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    My moms cat missed me and came to snuggle. He’s a good boy
+  entry_id: 8fq2ol
+  entry_content: |
+    <img src=https://i.redditmedia.com/yAa5uJKgDJLOHDh71kT34sfsxsOe7jKbBfFJjV_ByA0.jpg?s=3e70ac7694cbe64a80ee64ce4785152f frameborder=0>
+- entry_name: |
+    Savage Obama
+  entry_id: 8fmvyi
+  entry_content: |
+    <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
+- entry_name: |
+    Negative thoughts are like fat, it takes a long time to get rid of it and only a short time to gain it back.
+  entry_id: 8fpell
+  entry_content: |
+    null
+- entry_name: |
+    Worship me, I demand it
+  entry_id: 8fqz7b
+  entry_content: |
+    <img src=https://i.redditmedia.com/igxGexBw_3eh8qWTWNPH6ET0HLDny0f8eqsom0uWR-4.png?s=9886c036ec357e598cf920a0657d6bd7 frameborder=0>
+- entry_name: |
+    Diploma came with a wallet sized version
+  entry_id: 8fmt8b
+  entry_content: |
+    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
 ---
