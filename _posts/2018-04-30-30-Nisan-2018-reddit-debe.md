@@ -33,11 +33,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Graduated today after 8 years of part time night classes. #StayDetermined
-  entry_id: 8fmi86
-  entry_content: |
-    <img src=https://i.redditmedia.com/dEtbHIyHWQUHbGYAlikbSamHKKZ8jeQs8DH_q1ss_lw.jpg?s=7e4c8df59b1a8e0d0dd0bca34788e925 frameborder=0>
-- entry_name: |
     North Korea's nuclear test site will close in May, South Korea says
   entry_id: 8foitt
   entry_content: |
@@ -173,11 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cOxq7EJeGZ_GVD-R7ctUCMHjUvU779fBiThDeZ1bY5k.jpg?s=653d556107528ac14195af3a04225e21 frameborder=0>
 - entry_name: |
-    Why do people use Adblock?
-  entry_id: 8fmitr
-  entry_content: |
-    <iframe src=https://v.redd.it/ndbzefytlpu01/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     How my wife opens things
   entry_id: 8fr53e
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8fmvyi
   entry_content: |
     <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
+- entry_name: |
+    Mods are asleep, upvote actual deep friers.
+  entry_id: 8foxxo
+  entry_content: |
+    <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
+- entry_name: |
+    Diploma came with a wallet sized version
+  entry_id: 8fmt8b
+  entry_content: |
+    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
 ---
