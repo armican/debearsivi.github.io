@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dEtbHIyHWQUHbGYAlikbSamHKKZ8jeQs8DH_q1ss_lw.jpg?s=7e4c8df59b1a8e0d0dd0bca34788e925 frameborder=0>
 - entry_name: |
-    They grow up so fast!
-  entry_id: 8fm8up
-  entry_content: |
-    <img src=https://i.redditmedia.com/cdMv_2b1HIjQeClGE00FP85GlDz4wOi9L0-lvWZbTBA.jpg?s=c14f4f64377b4b94ff2c9d9b32558ca7 frameborder=0>
-- entry_name: |
     North Korea's nuclear test site will close in May, South Korea says
   entry_id: 8foitt
   entry_content: |
@@ -82,11 +77,6 @@ data:
   entry_id: 8fmdwm
   entry_content: |
     <img src=https://i.redditmedia.com/Px0fPdadHhfZX1YwbSYgQuUbb0DkyNqq53hAzseyg7I.jpg?s=9699b24bdd5f448064e984ace5c04048 frameborder=0>
-- entry_name: |
-    🔥 A woodpecker's tongue is so long that it wraps around its skull to protect its brain from over 1000g of force when it's hammering away.
-  entry_id: 8fm5dr
-  entry_content: |
-    <img src=https://i.redditmedia.com/6g4fpHdn3YSF-INpRQKRWDf7y3OGb7YphekU1sWIOdo.jpg?s=edbd01dfa2b00dbcbfb53545096bdb22 frameborder=0>
 - entry_name: |
     Lava wash
   entry_id: 8fn2i7
@@ -252,4 +242,14 @@ data:
   entry_id: 8foxxo
   entry_content: |
     <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
+- entry_name: |
+    Diploma came with a wallet sized version
+  entry_id: 8fmt8b
+  entry_content: |
+    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
+- entry_name: |
+    Bill Clinton hiding in the Bushes
+  entry_id: 8fqyl8
+  entry_content: |
+    <img src=https://i.redditmedia.com/Xa-qfP3M85U25EXkElS0ruj0-E3lK4l4tpcQH2k-7AA.jpg?s=d8486accc0bbdb7ccd26dd4c053e53e4 frameborder=0>
 ---
