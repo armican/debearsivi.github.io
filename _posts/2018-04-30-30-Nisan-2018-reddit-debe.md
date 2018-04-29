@@ -1,0 +1,255 @@
+---
+layout: post
+title: 30 Nisan 2018 Reddit Debe
+data:
+- entry_name: |
+    This is Dick Paul. We just moved into a new neighborhood, and when I went to mow the front lawn, he was already at it. Said he does it once for all the new neighbors as a welcoming gift. Thanks Dick Paul!
+  entry_id: 8fmgky
+  entry_content: |
+    <img src=https://i.redditmedia.com/T7-I5U4i-vhfTCm1VgAR3vUgfpGII2K9QUwuAeXEiTU.jpg?s=b4491aca2c72c45b938af78b3f5cf676 frameborder=0>
+- entry_name: |
+    Fan got a 1 year ban from the stadium so decides to rent a crane to watch the game
+  entry_id: 8fpzg8
+  entry_content: |
+    <img src=https://i.redditmedia.com/jvkLMgII2E2a3tLyLL1wZ3XbmYZn9JxeIUxdXzjsSUE.jpg?s=1d1c50b90437a96e9d159e29929aa624 frameborder=0>
+- entry_name: |
+    We did a red-panda encounter. This is probably the best picture I'll ever take.
+  entry_id: 8fo8fw
+  entry_content: |
+    <img src=https://i.redditmedia.com/i-ng8Vj3vnAwNkwKMy0Y36BJsKWEfI5GNfTUkRdZziE.jpg?s=e8f4d8ba459e52c293fdce024683a667 frameborder=0>
+- entry_name: |
+    Hawaii becomes 12th state to ban gay conversion therapy for minors
+  entry_id: 8flfek
+  entry_content: |
+    <img src=https://i.redditmedia.com/59wbwYy9rkXsCttYatwv1NRSEaNjEP4R6TIrM6w-VV0.jpg?s=ff8c593d4aa1d77faf2a59e2ce4a839c frameborder=0>
+- entry_name: |
+    Enjoying the water on a much needed break
+  entry_id: 8fnm8c
+  entry_content: |
+    <img src=https://i.redditmedia.com/r4kXsEeoL63OxEMVUt2h_qymNTgPHtZrN9sdbNhRmEA.jpg?s=d17063f867d7cebfe8564b8ca52e41b5 frameborder=0>
+- entry_name: |
+    Guys rate my setup
+  entry_id: 8fphz7
+  entry_content: |
+    <img src=https://i.redditmedia.com/nJVSMQ4HzLM5m58OeN4SAAQMORw-CPj87PxmVD58pDg.jpg?s=08e67361176dbffa74b45d2df15ffac3 frameborder=0>
+- entry_name: |
+    Corrupt cops are just undercover criminals.
+  entry_id: 8fmqfc
+  entry_content: |
+    null
+- entry_name: |
+    Graduated today after 8 years of part time night classes. #StayDetermined
+  entry_id: 8fmi86
+  entry_content: |
+    <img src=https://i.redditmedia.com/dEtbHIyHWQUHbGYAlikbSamHKKZ8jeQs8DH_q1ss_lw.jpg?s=7e4c8df59b1a8e0d0dd0bca34788e925 frameborder=0>
+- entry_name: |
+    They grow up so fast!
+  entry_id: 8fm8up
+  entry_content: |
+    <img src=https://i.redditmedia.com/cdMv_2b1HIjQeClGE00FP85GlDz4wOi9L0-lvWZbTBA.jpg?s=c14f4f64377b4b94ff2c9d9b32558ca7 frameborder=0>
+- entry_name: |
+    North Korea's nuclear test site will close in May, South Korea says
+  entry_id: 8foitt
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
+    Not her first time
+  entry_id: 8fmd0u
+  entry_content: |
+    <iframe src=https://v.redd.it/xmdo8296hpu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    My cousin’s legs after a day in the sun in ripped jeans
+  entry_id: 8fo6wo
+  entry_content: |
+    <img src=https://i.redditmedia.com/VUKNu3J7a2oO1dwZBMXikMNASjH2g0N3tOaBjYIyW1Q.jpg?s=db83fe898eedcdd8716d12909d35484c frameborder=0>
+- entry_name: |
+    TIL Pearl Jam's song Jeremy is based on the real-life classroom suicide of Jeremy Wade Delle of Texas, who was released from a mental hospital and sent back to school -- reportedly, once his insurance money ran out he was deemed cured .
+  entry_id: 8flqhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/7h8kji5AfUqk8iTmzdqsvZhI66vwrdYe7rSTKg9FJ5I.jpg?s=67c37d73b2c456c9ed7a018dc6f9d559 frameborder=0>
+- entry_name: |
+    Comma
+  entry_id: 8fmr1h
+  entry_content: |
+    <img src=https://i.redditmedia.com/N0ooaGLRvOWrSalFbTGG1Y2bVd631JqESf7HjZxAA40.jpg?s=2246bad7cd3022299ce2c427a9b25dda frameborder=0>
+- entry_name: |
+    How do you use an inhaler?
+  entry_id: 8flvv8
+  entry_content: |
+    <iframe src=https://v.redd.it/axca7x523pu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    This TIME cover from May 2017 aged beautifully
+  entry_id: 8fqpad
+  entry_content: |
+    <img src=https://i.redditmedia.com/k1lSHQ1RHmChJ3J4poO8m3a2tnPSY8Gy5Vem_CBLAS8.jpg?s=454fd5dccc35d72fbe6e235da59908de frameborder=0>
+- entry_name: |
+    My sister in law sent me this snap of my psychotic brother
+  entry_id: 8fmdwm
+  entry_content: |
+    <img src=https://i.redditmedia.com/Px0fPdadHhfZX1YwbSYgQuUbb0DkyNqq53hAzseyg7I.jpg?s=9699b24bdd5f448064e984ace5c04048 frameborder=0>
+- entry_name: |
+    🔥 A woodpecker's tongue is so long that it wraps around its skull to protect its brain from over 1000g of force when it's hammering away.
+  entry_id: 8fm5dr
+  entry_content: |
+    <img src=https://i.redditmedia.com/6g4fpHdn3YSF-INpRQKRWDf7y3OGb7YphekU1sWIOdo.jpg?s=edbd01dfa2b00dbcbfb53545096bdb22 frameborder=0>
+- entry_name: |
+    Lava wash
+  entry_id: 8fn2i7
+  entry_content: |
+    <iframe src=https://v.redd.it/vsiozsuhmpu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I can't remember how to write 1, 1000, 51, 6 and 500 in Roman numerals
+  entry_id: 8flg6c
+  entry_content: |
+    null
+- entry_name: |
+    Tens of thousands of people took to the streets in Spain on Saturday to protest against the acquittal of five men of gang raping an 18-year-old woman at Pamplona's bull-running festival
+  entry_id: 8flegq
+  entry_content: |
+    <img src=https://i.redditmedia.com/IqOXn1TqgNj8kMNNGapBgtMeTpW_EI_CawEuPmXki9Q.jpg?s=2eec1c7da5c92eadb892fb5f6eb7511a frameborder=0>
+- entry_name: |
+    People that have friends: How?
+  entry_id: 8fndq9
+  entry_content: |
+    null
+- entry_name: |
+    Man of Fire
+  entry_id: 8foaxv
+  entry_content: |
+    <iframe src=https://v.redd.it/0hbwab9s0ru01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Orangutan mother meets Steve Irwin, immediately trusts him.
+  entry_id: 8fnmut
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/ORIFhImbRjo?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Whatcha doing?
+  entry_id: 8flktd
+  entry_content: |
+    <img src=https://i.redditmedia.com/dw8Lk9_osXpE4lXeaFGZ3wULENUq689tIHaGsXai0SA.jpg?s=a4a733ee87a532aa52481a5f42819924 frameborder=0>
+- entry_name: |
+    The perfect man does not exi-
+  entry_id: 8flma0
+  entry_content: |
+    <img src=https://i.redditmedia.com/riXuUbW_1KXcmHQxCIAit2uK38esa9FO1tE1FxVrHl8.png?s=40be5b243843ede01831bf6ff7f3c3c0 frameborder=0>
+- entry_name: |
+    Sketching the Colosseum
+  entry_id: 8fpr23
+  entry_content: |
+    <iframe src=https://v.redd.it/79j7uivxmsu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    How could you say no to a face like this?
+  entry_id: 8fog8t
+  entry_content: |
+    <iframe src=https://v.redd.it/gfn1pjdb9ru01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    10 years ago today Bruno Mars was surprised to see Pete Wentz
+  entry_id: 8fq43m
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZR0HXXfznhH23Tp6Rsm6t8PkC9alGkPwBycancR4i8Q.jpg?s=b04b1b3a2759b69a3baa872335cfcd65 frameborder=0>
+- entry_name: |
+    Hydraulic pressing crayons
+  entry_id: 8flxl8
+  entry_content: |
+    <iframe src=https://v.redd.it/840tgbv96uu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Pressing Cheese Through Small Holes with Hydraulic Press
+  entry_id: 8flfvb
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAdventurousBlueAndalusianhorse&url=https%3A%2F%2Fgfycat.com%2FAdventurousBlueAndalusianhorse&image=https%3A%2F%2Fthumbs.gfycat.com%2FAdventurousBlueAndalusianhorse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Rev up those registers!
+  entry_id: 8flz7w
+  entry_content: |
+    <img src=https://i.redditmedia.com/rBzbGgbrc9iY9kAHXdM3SqyM8Dmoq_h8ntglpH-ngaI.jpg?s=604a77874b4f1aa29109afe987c74ae6 frameborder=0>
+- entry_name: |
+    Hey kids, let's dance.
+  entry_id: 8fo5o4
+  entry_content: |
+    <iframe src=https://v.redd.it/sf5r1p7ezqu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Mouth and ears are connected.
+  entry_id: 8fqgo6
+  entry_content: |
+    <iframe src=https://v.redd.it/80p41iqjmtu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Artist gives sick kids awesome temporary tattoos to make life in hospital more fun.
+  entry_id: 8fnasw
+  entry_content: |
+    <img src=https://i.redditmedia.com/XNqWlwOSwJQS5ASH029NEUdidxFIHons4x1nNgtgYmY.jpg?s=a0111b9d16eaef7a642d60d0a188a8fa frameborder=0>
+- entry_name: |
+    Trump: If Dems win in 2018 midterms, they'll impeach me
+  entry_id: 8fo6ln
+  entry_content: |
+    <img src=https://i.redditmedia.com/LJMEBrkHAmCnBatgPMBUi_CwzMmvXrzEdw-T00PyHAA.jpg?s=cb4ad00f710344731037b1954b3547b9 frameborder=0>
+- entry_name: |
+    Discovering your life's purpose
+  entry_id: 8fp8ls
+  entry_content: |
+    <iframe src=https://v.redd.it/a5qcvg051su01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL Stevie Nicks wrote Stand Back while listening to Prince’s Little Red Corvette. Because Stevie wrote Stand Back using the exact music for Little Red Corvette, she called Prince to tell him about the song, and he showed up at her studio 25 minutes later to record the synthesizers for it.
+  entry_id: 8fowhm
+  entry_content: |
+    <img src=https://i.redditmedia.com/u2Q3EmgZME_S-2te2PSw_1RhfGwvydc4S3Nb2YVWaOw.jpg?s=a574ea2721cf5ce38f4a27d625834e44 frameborder=0>
+- entry_name: |
+    Why do people use Adblock?
+  entry_id: 8fmitr
+  entry_content: |
+    <iframe src=https://v.redd.it/ndbzefytlpu01/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    At a friend's barbecue and this party crasher came in through a hole in the fence
+  entry_id: 8fn1tm
+  entry_content: |
+    <img src=https://i.redditmedia.com/cOxq7EJeGZ_GVD-R7ctUCMHjUvU779fBiThDeZ1bY5k.jpg?s=653d556107528ac14195af3a04225e21 frameborder=0>
+- entry_name: |
+    Doggo got stuck on the ball
+  entry_id: 8flgpw
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHauntingImpressionableBluewhale&url=https%3A%2F%2Fgfycat.com%2Fhauntingimpressionablebluewhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FHauntingImpressionableBluewhale-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Women are not allowed to attend soccer matches in Iran. 5 girls sneak in Azadi Stadium in disguise to celebrate Persepolis championship in Iran's Persian Gulf Pro League
+  entry_id: 8fr64c
+  entry_content: |
+    <img src=https://i.redditmedia.com/inR7ajQtRYtAhuV5cG9lJwhaN678BvZ9aw-99bfb2g8.jpg?s=c440b8dac558dbd748e4be4584523566 frameborder=0>
+- entry_name: |
+    The power to stop time in Skyrim.
+  entry_id: 8fn79u
+  entry_content: |
+    <iframe src=https://v.redd.it/mgla4zpl5qu01/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Dragon made from river rock and steel rods
+  entry_id: 8fokoo
+  entry_content: |
+    <img src=https://i.redditmedia.com/VvddNpKRttQLkrVWtKla_yZRAANobR4TZZeI_wD-qYI.jpg?s=e636df72eb72f69c01c046588db374e3 frameborder=0>
+- entry_name: |
+    We'll let you live for now
+  entry_id: 8fqwdd
+  entry_content: |
+    <iframe src=https://v.redd.it/3byq4m1w6uu01/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Savage Obama
+  entry_id: 8fmvyi
+  entry_content: |
+    <img src=https://i.redditmedia.com/hC_sEtSlzI11ryKK4puKVSn6BsjPC576vpFpl4c3pFg.jpg?s=37c1cd0ba587af63da1475eb410a563a frameborder=0>
+- entry_name: |
+    Kim Says He’ll Give Up Weapons if U.S. Promises Not to Invade
+  entry_id: 8fqvoj
+  entry_content: |
+    <img src=https://i.redditmedia.com/FZfpSOK3y4T4gpHuSqjwBfXAXiDqFdH55AMycceXycw.jpg?s=2b42ca84fcab8a67a5b8dc7b4d346fb3 frameborder=0>
+- entry_name: |
+    Jordan Mailata, a 6'8 346 pound Samoan rugby league player who has never played football, got drafted in the 7th round by the Philadelphia Eagles
+  entry_id: 8fnj3f
+  entry_content: |
+    <iframe src=https://v.redd.it/ulvg4lslfqu01/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Negative thoughts are like fat, it takes a long time to get rid of it and only a short time to gain it back.
+  entry_id: 8fpell
+  entry_content: |
+    null
+- entry_name: |
+    Diploma came with a wallet sized version
+  entry_id: 8fmt8b
+  entry_content: |
+    <img src=https://i.redditmedia.com/jdtKDu2DF3aC3SVz-UZdVc8KvrLlwCE11C6lKb6XSjA.jpg?s=3602e16b5e2e9bf112fc3133a33645e6 frameborder=0>
+---
