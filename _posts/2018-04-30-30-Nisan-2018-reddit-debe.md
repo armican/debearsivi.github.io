@@ -108,11 +108,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/ORIFhImbRjo?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Whatcha doing?
-  entry_id: 8flktd
-  entry_content: |
-    <img src=https://i.redditmedia.com/dw8Lk9_osXpE4lXeaFGZ3wULENUq689tIHaGsXai0SA.jpg?s=a4a733ee87a532aa52481a5f42819924 frameborder=0>
-- entry_name: |
     The perfect man does not exi-
   entry_id: 8flma0
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8foxxo
   entry_content: |
     <img src=https://i.redditmedia.com/uI0E22SVVI8NigTsLCmvW6NbBNAkr3DxTA3IFcjRyK4.jpg?s=2cec860a6749cc80fe0b16e5e9207c42 frameborder=0>
+- entry_name: |
+    Financial subreddits guide
+  entry_id: 8fnj6g
+  entry_content: |
+    <img src=https://i.redditmedia.com/yjZNl46hdnr_kfHFedsd6VBCl77lkAzOJ3qFNHM6tCc.jpg?s=9ef1824324eaa9a8e24493a54eea6263 frameborder=0>
 ---
