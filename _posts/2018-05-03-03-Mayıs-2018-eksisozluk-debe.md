@@ -6,7 +6,7 @@ data:
     2 mayıs 2018 büyük muhalefet ittifakı
   entry_id:  76550564
   entry_writer: lonjeron
-  entry_fav_count: 2463
+  entry_fav_count: 2465
   entry_content: |
     meral abla ittifakın khaleesi'si oldu. şimdi white walker'lar düşünsün.
   entry_channels: siyaset,haber
@@ -14,39 +14,31 @@ data:
     şeyma subaşı'nın direk dansı yapması
   entry_id:  76557992
   entry_writer: garipbasci
-  entry_fav_count: 1162
+  entry_fav_count: 1178
   entry_content: |
     elektrik direğine tırmanan tedaş personeli gibi olmuş. o nasıl bir estetiklikten uzaklıktır?
   entry_channels: haber,magazin
 - entry_name: |
-    kapatılması gereken dandik üniversite bölümleri
-  entry_id:  76567407
-  entry_writer: grashof
-  entry_fav_count: 641
-  entry_content: |
-    tanım: yazar alımlarının daha dikkatle yapılması gerektiğini düşündüren başlıktır.
-  entry_channels: anket,eğitim
-- entry_name: |
     iyi parti'nin hdp'den bile daha tehlikeli olması
   entry_id:  76576673
   entry_writer: attan inip esege bindim
-  entry_fav_count: 638
+  entry_fav_count: 680
   entry_content: |
     lord da bok attığına göre demek ki iyi yoldalar. <br/><br/>(bkz: <a class="b" href="/?q=tenk+yu+may+lord">tenk yu may lord</a>)
   entry_channels: siyaset
 - entry_name: |
-    devlet bahçeli'nin akp'yi bitirmesi
-  entry_id:  76561127
-  entry_writer: larkdevil
-  entry_fav_count: 567
+    kapatılması gereken dandik üniversite bölümleri
+  entry_id:  76567407
+  entry_writer: grashof
+  entry_fav_count: 646
   entry_content: |
-    devlet bahçeli akp’yi zor yola sokup bitireceği gerçeğidir. <br/><br/>1-başkanlığı getirmesi<br/><br/>başkanlığı getirerek akp’nin %50 ve daha fazla oy almasını sağladı. oysaki akp %43 alsa dahi baraj nedeniye ülkeyi kafasına göre yönetiyordu. ama şimdi %50’nin üzerinde oy almak zorunda.<br/><br/>2-erdoğan’a karşı yeni parti oluşturması<br/><br/>kendi yediği halt yüzünden partinin tabanını kaybetti. buda yetmezmiş gibi erdoğan’a karşı halkın her kesiminden oy alabilecek bir muhalefet partisi oluşturdu. (iyi parti) erdoğan zaten küçük partileri pacman gibi yutarken durduk yere başına bir muhalefet partisi saldı. aynı zamanda oyunu %2-%3’e düşürerek kendisini akp’ye yanadı.<br/><br/>3- akp’ye kürt oylarını kaybettirdi<br/><br/>mhp ile ittifak yapan akp doğu ve güneydoğu’daki muhafazakar kürt oylarının bir çoğunu kaybetti. karşılığında ise partisi bölünmüş barajı dahi geçemeyen bitik bir mhp devraldı. akp şimdi hem kendisi hem mhp için çalışmak zorunda.<br/><br/>4-küçük partileri meclise sokması<br/><br/>yukarıda dediğim %43 ile akp ülkeyi nasıl olsa yönetiyordu. nedeni ise küçük partilerin barajı geçememesiydi. akp yıllardır bunun için uğraştı. anap’tan erkan mumcu’yu alarak anap’ı yok etti. saddet partisi çıkıştayken numan kurtulmuş’u aldı. demokrat parti’den süleyman soylu’yu aldı. <br/>şimdi ise bahçeli meclise girebilmek için ittifak formülü ortaya attı bu şekilde akp’nin uyguladığı pacman formülü çöktü. artık saadet, demokrat parti, meclise girebilir. hatta tkp ödp tarzı partiler dahi hdp ile ittifak yaparsa meclise bile girebilir.<br/><br/>bonus olarak erken seçim istedi ve tarihte bahçeli’nin erken seçim istediği iktidarlar hep kaybetti. <br/><br/>edit: imla<br/><br/>edit: numan kurtulmuş’un o dönemde has partiden geçti diye mesajlar alıyorum. ben saadet ile çıkış yaptığını belirtttim. o dönemde 2009 yerel seçiminde %7 oy almıştı ciddi çıkış yakalamıştı. daha sonra has partiyi kurdu. ama has partinin gücü belli değildi. akp daha sonra başımıza bela olmasın diye kendi bünyesine kattı. yani numan kurtuluşu akp’ye katılmasını sağlayan has parti değil saadetde yakaladığı çıkış idi onu belirttim. <br/><br/>tuğrul türkeş için ise onda bahçelinin parmağı olduğunu düşünmüyorum. o kendi çıkar ve menfaati için akp’ye geçti. belirli bir vasfı ve oy potansiyeli olduğuna inanmıyorum zaten kimsede takmadı onu.
-  entry_channels: siyaset
+    tanım: yazar alımlarının daha dikkatle yapılması gerektiğini düşündüren başlıktır.
+  entry_channels: anket,eğitim
 - entry_name: |
     türk kızlarının fiks kelimeleri
   entry_id:  76565703
   entry_writer: dogru mu bu hocam
-  entry_fav_count: 546
+  entry_fav_count: 551
   entry_content: |
     bir kere evleniyorum.
   entry_channels: anket,ilişkiler
@@ -54,7 +46,7 @@ data:
     chp'nin erdoğan'ı çıldırtacak cb adayı
   entry_id:  76569224
   entry_writer: minnequin
-  entry_fav_count: 391
+  entry_fav_count: 395
   entry_content: |
     <a class="b" href="/?q=emine+erdo%c4%9fan">emine erdoğan</a> ; darbe beklemediği yerden gelecektir. bir başkası da <a class="b" href="/?q=bilal+erdo%c4%9fan">bilal erdoğan</a><br/><br/>eminim çoook şaşıracaktır.
   entry_channels: siyaset,anket
@@ -62,23 +54,15 @@ data:
     ben ahmet hakan sorularınızı yanıtlıyorum
   entry_id:  76560046
   entry_writer: 47li
-  entry_fav_count: 347
+  entry_fav_count: 349
   entry_content: |
     semazen olmak dururken, neden gazetecilik?
-  entry_channels: siyaset,anket,haber
-- entry_name: |
-    deniz zeyrek'in chp cb adayı açıklaması
-  entry_id:  76572845
-  entry_writer: gercekgibiyalanruyagorenadam
-  entry_fav_count: 250
-  entry_content: |
-    (bkz: <a class="b" href="/?q=zeki+m%c3%bcren">zeki müren</a>)
   entry_channels: siyaset,anket,haber
 - entry_name: |
     oy kullanmayacağım
   entry_id:  76557306
   entry_writer: komikolmayanadam
-  entry_fav_count: 249
+  entry_fav_count: 265
   entry_content: |
     ulan orospu çocukları 450 km gidiceğim 5.bucuk saat sırf oyumu kullanmak için konsolosluğa gideceğim. her ne kadar güvenmesemde . götünüzü kaldırıp 10-15 dk yürüyemiyorsanız geberin aq açlıktan sefillikten.her zaman bi tarafa yakınsındır. kimi destekliyorsanız verin oyunuzu . hayat kısa keşkelerle yaşamayın
   entry_channels: siyaset,anket,ekşi-sözlük,eğitim
@@ -86,138 +70,146 @@ data:
     temel karamollaoğlu'na imza veriyoruz kampanyası
   entry_id:  76575324
   entry_writer: psikopatkoala
-  entry_fav_count: 248
+  entry_fav_count: 260
   entry_content: |
     madımak da ölenlerin kemiklerinin sızlamayacağı imzadır. o görüntülerdeki kişi temel bey değil, belediye meclis üyesi olan başka bir adamdır. <br/><br/>bilip bilmeden sikko yorumlar yapılmamalıdır.
   entry_channels: siyaset
 - entry_name: |
+    deniz zeyrek'in chp cb adayı açıklaması
+  entry_id:  76572845
+  entry_writer: gercekgibiyalanruyagorenadam
+  entry_fav_count: 253
+  entry_content: |
+    (bkz: <a class="b" href="/?q=zeki+m%c3%bcren">zeki müren</a>)
+  entry_channels: siyaset,anket,haber
+- entry_name: |
     ölmesi gereken türk gelenekleri
   entry_id:  76552671
   entry_writer: benden sana
-  entry_fav_count: 229
+  entry_fav_count: 240
   entry_content: |
     (bkz: <a class="b" href="/?q=d%c3%bc%c4%9f%c3%bcn">düğün</a>)<br/><br/>formatı değişmeli.
   entry_channels: anket
 - entry_name: |
-    pizzaya yakışmayan malzemeler
-  entry_id:  76562091
-  entry_writer: cerquanne
-  entry_fav_count: 205
-  entry_content: |
-    kesinlikle ve kesinlikle ananas.<br/><br/>pilava ketçap sıkmakla eşdeğer olduğunu düşünüyorum.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    dar paça pantolon diye tayt giyen erkek
-  entry_id:  76562432
-  entry_writer: moon shaped pool
-  entry_fav_count: 177
-  entry_content: |
-    ya gerçekten bıktım, usandım artık ya.<br/><br/>kabul ediyorum, <a class="b" href="/?q=herkesin+hayat%c4%b1na+kimse+kar%c4%b1%c5%9famaz">herkesin hayatına kimse karışamaz</a>. ancak sokağa çıktığım zaman da, daha 100 metre yürümeden gözlerimin kanamasından hiç hoşnut değilim artık. bir bina dikiyorsun mesela, ruhsatı alırken bile belediyeden geliyorlar, bakıyorlar görsel olarak uygun mu değil mi diye. niye? bunlar hep göz sağlığından ötürü.<br/><br/>hep bu avrupalı markaların bok yemesi aslında. özellikle de sen yok musun <a class="b" href="/?q=inditex">inditex</a>! zara'sı olsun, bershka'sı olsun, pull and bear'ı olsun, yemin ettiniz değil mi lan türk erkeklerini lubunya gibi giydirmeye? asıl dış mihrak, asıl ülkemizin psikolojik sınırlarını darmaduman ederek yıkmaya çalışanlar bu şerefsizlerdir. adeta illüminati gibi, içimiz dışımız subliminal oldu lan!<br/><br/><a class="b" href="/?q=gavat+pa%c3%a7a">gavat paça</a> zaten yeterince çirkin bir icat. babet çorabı ile kombine edilmiş kıllı ayak bileği görmekten zaten içimiz dışımıza çıkmış durumda. peki o götünüzden bir an olsun çıkarmadığınız tayt gibi dar paça pantolonlarız ve sanki yıllardır spor salonlarında kas yapmışsınız gibi fütursuzca sergilemekten çekinmediğiniz vücut hatlarınız ne olacak?<br/><br/>bak, demiyorum ki boru paçayı rugan ayakkabı ile kombine edip, ayakkabının sadece ucu görünecek şekilde piyasada dolaşın. ama o ekstra slim pantolonları da giymeyin arkadaşım ya. kabul etsek de etmesek de, türk erkeğinin vücudu oldukça biçimsiz. şekilsiz bacaklar, yağlı bir göbek, tıknaz bir vücut yapısı, ışid'e selam çakan sakallar ile zaten oldukça başarısız bir görüntüye sahibiz. ben anlamıyorum nereden geliyor lan bu öz güven? kardeşim, ağzından feminen küfürleri düşürmeyen, hem cinsine hakaret etmek için "karı gibi" şeklindeki avam bir tabiri her dakika kullanan, sikko adamlarsınız en nihayetinde. peki, "karı gibi" olmayı bir aşağılama sıfatı olarak kullanıp, götüne, bacaklarına adeta vakum gibi yapışan, kot niyetine giydiğin, aslında tayttan hiçbir farkı olmayan kıyafet ile dolaşmak niye? sorsan ülkeyi boka batıran faiz lobisi. peki, seni maymuna çeviren, seve seve de alet olduğun, kot pantolon diye kıçına tayt giyidiren kıyafet lobisi ne olacak? <br/><br/>ya her şeyi geçtim. olm, hiç mi seveniniz, sayanınız, sizi düşüneniniz yok lan? bu kadar tiksiniyor etrafınız sizden? bir allah'ın kulu çıkıp da "o altındaki ne koduğum, çıkar lan şunu" demiyor mu? bu dar paça pantolonlar adeta bir arkadaşlık turnusolü değil mi? gerçek dostunu tanımak istiyorsan 1 hafta o pantolon ile dolaşacaksın. her kim ki yanına yaklaşıp "ulan senin tipini sikeyim, bu ne biçim kıyafet, siktir git altına düzgün bir şey giy" demiyor, o adam ile dostluğu keserim ben. o pezevenk ki beni maymun edip, piyasadan en büyük parsayı kapmaya çalışan bir çakaldır benim gözümde.<br/><br/>daha geçen gün, tişörtüne, küpesine, saçına bakıp sokakta adam dövenler, bugün götüne kot niyetine giydiği tayt ile babet çoraplarını kombin edip, elinde tesbih ile nargile kafelerde piyasa yapar olmuşlar. e o kadar adamı neden "ibne lan bu" diye hırpaladınız, ya yavşaklar? o götündeki tayttan bozma pantolonu orijin ülkesinde kimler giyiyor, git bak bakalım.<br/><br/>çok çirkinsiniz lan. aşırı çirkinsiniz hem de. o aşırı çirkin giyim tarzınız, o gereksiz öz güveniniz ile birleşince iyice tiksindirici bir hal alıyor. altınızdaki premium sınıf araçlar bile kurtarmıyor artık sizi, o kadar fena çirkinsiniz.<br/><br/>bu moda böyle devam etsin, aha buraya yazıyorum, 3-5 yıla bir dağ köyüne yerleşip, bütün medeniyet ile alakamı kesip yabancılara bizzat kendim hırlayacak kadar yabanileşmeyi planlıyorum. yaklaşmayın, dar paçayla beraber kaparım bileğinizden parçayı.
-  entry_channels: moda
-- entry_name: |
-    led zeppelin vs pink floyd vs queen vs the beatles
-  entry_id:  76563768
-  entry_writer: elite mangudai
-  entry_fav_count: 161
-  entry_content: |
-    bazı yazarların pink floyd'u bu 3 efsanenin yanında görmesine dayanamamasina dayanamadım. pink floyd ile herhangi bir müzik grubunun karşılaştırılmasının haram olduğunu bilmiyor zaar.<br/><br/>sen david'in daşşağını ye<br/><br/>edit: sinirden bazı yazım hataları yapmışım.<br/><br/>siktir çekenlere edit:<br/><br/>(bkz: <a class="b" href="/?q=shine+on+you+crazy+diamond">shine on you crazy diamond</a>)(bkz: <a class="b" href="/?q=echoes">echoes</a>)(bkz: <a class="b" href="/?q=sheep">sheep</a>)(bkz: <a class="b" href="/?q=comfortably+numb">comfortably numb</a>)(bkz: <a class="b" href="/?q=dogs">dogs</a>)(bkz: <a class="b" href="/?q=wish+you+were+here">wish you were here</a>)(bkz: <a class="b" href="/?q=on+the+turning+away">on the turning away</a>)(bkz: <a class="b" href="/?q=the+dark+side+of+the+moon">the dark side of the moon</a>)(bkz: <a class="b" href="/?q=high+hopes">high hopes</a>)(bkz: <a class="b" href="/?q=coming+back+to+life">coming back to life</a>)(bkz: <a class="b" href="/?q=pigs">pigs</a>)(bkz: <a class="b" href="/?q=welcome+to+the+machine">welcome to the machine</a>)(bkz: <a class="b" href="/?q=have+a+cigar">have a cigar</a>)(bkz: <a class="b" href="/?q=learning+to+fly">learning to fly</a>)(bkz: <a class="b" href="/?q=marooned">marooned</a>)(bkz: <a class="b" href="/?q=the+dogs+of+war">the dogs of war</a>)(bkz: <a class="b" href="/?q=another+brick+in+the+wall">another brick in the wall</a>)(bkz: <a class="b" href="/?q=run+like+hell">run like hell</a>)(bkz: <a class="b" href="/?q=hey+you">hey you</a>)(bkz: <a class="b" href="/?q=one+of+my+turns">one of my turns</a>)(bkz: <a class="b" href="/?q=one+of+these+days">one of these days</a>)(bkz: <a class="b" href="/?q=atom+heart+mother">atom heart mother</a>)(bkz: <a class="b" href="/?q=keep+talking">keep talking</a>)(bkz: <a class="b" href="/?q=sorrow">sorrow</a>)(bkz: <a class="b" href="/?q=young+lust">young lust</a>)(bkz: <a class="b" href="/?q=obscured+by+clouds">obscured by clouds</a>)(bkz: <a class="b" href="/?q=fat+old+sun">fat old sun</a>)(bkz: <a class="b" href="/?q=careful+with+that+axe+eugene">careful with that axe eugene</a>)(bkz: <a class="b" href="/?q=the+gunner%27s+dream">the gunner's dream</a>)(bkz: <a class="b" href="/?q=two+suns+in+the+sunset">two suns in the sunset</a>)(bkz: <a class="b" href="/?q=a+saucerful+of+secrets">a saucerful of secrets</a>)(bkz: <a class="b" href="/?q=astronomy+domine">astronomy domine</a>)(bkz: <a class="b" href="/?q=green+is+the+colour">green is the colour</a>)(bkz: <a class="b" href="/?q=waiting+for+the+worms">waiting for the worms</a>)(bkz: <a class="b" href="/?q=what+do+you+want+from+me">what do you want from me</a>)<br/><br/>daha niceleri, ellerim yoruldu, sadece efsaneleri yazayım derken...
-  entry_channels: anket,müzik
-- entry_name: |
     kyk borçlarının silinmesi teklifi tbmm'ye sunuldu
   entry_id:  76573867
   entry_writer: suntafa
-  entry_fav_count: 147
+  entry_fav_count: 184
   entry_content: |
     teklif chp’den gelmiş... chp allah bir diye teklif verse akp reddeder... umutlanmayın
   entry_channels: siyaset,haber
 - entry_name: |
-    kumarhanede görüntülenen ak parti milletvekili
-  entry_id:  76572887
-  entry_writer: aloha martini
-  entry_fav_count: 119
+    hdpliler ikinci turda kimi destekleyecek sorunu
+  entry_id:  76557634
+  entry_writer: arkanabakmassankuserim
+  entry_fav_count: 117
   entry_content: |
-    atari salonunda <a class="b" href="/?q=street+fighter">street fighter</a> oynuyordum dese, inanacak en az 20 milyon sığır var.
-  entry_channels: siyaset,haber
+    (bkz: <a class="b" href="/?q=stockholm+sendromu">stockholm sendromu</a>)<br/><br/>hala reyize oy veririm diyor. <br/>partisinin iki eski başkanı da hapiste, birisinin aday olmaması için herşey yapılıyor..yenileri için de muhtemel açık aranıyor. <br/>bu gelmiş hala oyum reyize diyor. neden? çünkü "muhalefetin tutumu". çünkü muhalefet yapıyor hepsini.<br/>çünkü reyizinin değil de kılıçdaroğlunun ağzından çıkan her cümleyi yargı emir telakki ediyor.<br/><br/>allah akıl fikir versin<br/><br/>edit. silmiş, kaçmış. "muhalafetin tutumu yüzünden ikinci turda rte'ye oy vericem" diyordu..<br/><br/>edit. mesajlar geliyor... hevesimiz kalmadı, rte değişse de çekeceğimiz aynı, siz de ırkçsınız, demirtaş içerde diye sevinçlisiniz, bizi çok aşağılıyorlar vs diyen....özelden cevap yazdım burdan da sesleneyim:<br/>'mağdur'u oynayan ve önyargılı bir milliyetçisiniz. dolayısıyla herkese aynı hoşgörüsüzlük ve tahammülsüzlük ile önyargılı bakıyorsunuz. tek kürtler çekiyormuş algısı yapıyorsunuz.. bakın, bana da "vatan haini, terörist" diyorlar. mücadelemiz aynı; bu ülke kurtulsun, hukuk egemen olsun, din istismarı bitsin, diktatörya gitsin, cehalet yerine eğitim gelsin, ekonomi düzelsin, çağdaş bi ülke olsun vs... sen sanıyor musun ki, 24 hazirandan sonra rte iktidarda olursa daha iyiye gidecek bunlar? önceden "hasktir ordan" diyebilen adamlarınız vardı, şimdi yiyorsa desinler. o adamlarınız 25 haziran'da mecliste olsa kaç yazar artık? bir dudak arasına bakar, içeri atılmaları! istediğiniz bu düzen mi? gelin meclise, sesinizi duyurun, sesinizi dinleyen bir başkan olsun. mevcut cumhurbaşkanı sesinizi dinliyor mu?
+  entry_channels: siyaset,anket
 - entry_name: |
     kıbrıs'ta türkiye'nin garantörlüğünü sona erdirmek
   entry_id:  76572912
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 110
+  entry_fav_count: 115
   entry_content: |
     he amk üçlü garantör taraflardan bir ülke sikik bir politikacı istedi diye garantörlüğünü sonlandıracak.<br/>siktir lan göt lalesi derler adama.<br/>bunu diplomatik bir dille değil, direkt böyle söylerler.
   entry_channels: siyaset,haber
 - entry_name: |
-    oyumu akp'ye vermiyorum çünkü
-  entry_id:  76575927
-  entry_writer: esplendor
-  entry_fav_count: 82
-  entry_content: |
-    siyasal islam istemiyorum.<br/>insanları ayrıştıran bir siyaset istemiyorum.
-  entry_channels: siyaset,anket
-- entry_name: |
     instagram'ın tamamen kapanması gerektiği
   entry_id:  76576014
   entry_writer: burakowski
-  entry_fav_count: 80
+  entry_fav_count: 87
   entry_content: |
     akabinde intihar edenler olacaktır.<br/>hatunun gerçekte yüzüne bakan yok, instagram’da yüzlerce beğeni alıyor. şimdi kim içtiği kahveyi ve eve dönüş yolunu boomerang ile paylaşıp ego kasacak? bu çöküntüyü her bünye kaldıramaz.
   entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
-    abdüllatif şener
-  entry_id:  76554555
-  entry_writer: carpenoctem
-  entry_fav_count: 66
+    oyumu akp'ye vermiyorum çünkü
+  entry_id:  76575927
+  entry_writer: esplendor
+  entry_fav_count: 86
   entry_content: |
-    kemal kılıçdaroğlu "15 milletvekili" hamlesi ile ilk darbeyi vurdu.<br/>ittifak kurmayı başardı ikinci darbeyi vurdu. <br/>abdüllatif şener ismini açıklarsa "nakavt" darbesi olur.<br/><br/>hem tüm ittifakaktan hem de kürtlerden alacağı oyla tek adam iktidarının sonunu getirir.<br/><br/>düşünün ki recep tayyip erdoğan seçim sonrası resmi hiç bir unvanı olmayan, artık dokunulabilir bir insan olacak. mecliste de akp ana muhalefet partisine dönüşecek. <br/><br/>bu tablo için son darbeyi bekliyoruz. <br/><br/>kemal kılıçdaroğlu durdu durdu öyle bir saldırdı ki tüm yandaş yorumcular sıkıntı içinde. sıkıntıyı arttırmak artık elinde. <br/><br/>akp'liler neredeyse yalvaracak durumda chp içinden aday çıkar diye. tüm söylemleri bunun üzerine. sizce neden? çünkü ilk defa korkuyorlar.
-  entry_channels: siyaset
+    siyasal islam istemiyorum.<br/>insanları ayrıştıran bir siyaset istemiyorum.
+  entry_channels: siyaset,anket
+- entry_name: |
+    104 yaşındaki profesörün ötanazi istemesi
+  entry_id:  76552459
+  entry_writer: stukatr
+  entry_fav_count: 76
+  entry_content: |
+    sağlık durumu sebep gösterilerek uçağa alınmazsa "ironi nedir?"'in tanımı olacaktır.
+  entry_channels: sağlık,haber
 - entry_name: |
     13 tl'ye patso satan kazıkçı mekan
   entry_id:  76575201
   entry_writer: muhammed kohen
-  entry_fav_count: 58
+  entry_fav_count: 71
   entry_content: |
     patso gerizekalı yiyeceği olduğundan hazır gerizekalı bulmuşkan yolayım bari düşüncesinde olan bir mekan belli ki.
   entry_channels: yeme-içme,ekonomi
 - entry_name: |
-    yaşadığınız şehrin nefret ettiğiniz yönleri
-  entry_id:  76566553
-  entry_writer: dukkanin ortasinda bagiran kosnuk
-  entry_fav_count: 53
+    abdüllatif şener
+  entry_id:  76554555
+  entry_writer: carpenoctem
+  entry_fav_count: 69
   entry_content: |
-    metrekareye düşen 8 suriyeli olması,öküz şoförleri,sola dönüşün neredeyse yasak olması,yağmur yağınca şehrin survivora dönmesi ( geçen yüzen pideci gördüm ) vs vs.(bkz: <a class="b" href="/?q=gaziantep">gaziantep</a>)
-  entry_channels: anket
+    kemal kılıçdaroğlu "15 milletvekili" hamlesi ile ilk darbeyi vurdu.<br/>ittifak kurmayı başardı ikinci darbeyi vurdu. <br/>abdüllatif şener ismini açıklarsa "nakavt" darbesi olur.<br/><br/>hem tüm ittifakaktan hem de kürtlerden alacağı oyla tek adam iktidarının sonunu getirir.<br/><br/>düşünün ki recep tayyip erdoğan seçim sonrası resmi hiç bir unvanı olmayan, artık dokunulabilir bir insan olacak. mecliste de akp ana muhalefet partisine dönüşecek. <br/><br/>bu tablo için son darbeyi bekliyoruz. <br/><br/>kemal kılıçdaroğlu durdu durdu öyle bir saldırdı ki tüm yandaş yorumcular sıkıntı içinde. sıkıntıyı arttırmak artık elinde. <br/><br/>akp'liler neredeyse yalvaracak durumda chp içinden aday çıkar diye. tüm söylemleri bunun üzerine. sizce neden? çünkü ilk defa korkuyorlar.
+  entry_channels: siyaset
 - entry_name: |
     memurlara dini bayramlarda bin lira ikramiye
   entry_id:  76569197
   entry_writer: 40 krakerini de seni de lan
-  entry_fav_count: 49
+  entry_fav_count: 56
   entry_content: |
     anne baba memur bizde. fetullahçı memurlar yan gelip yatarken benimkiler yıllarca onların işlerini de yaptı. annem bi keresinde dayanamayıp kavga ediyor. sonuç olarak 2 otobüsle gidilen şehrin öbür ucundaki şubeye sürülüyor. sürdüren müdür fetodan içerde şimdi.<br/>akp isterse 12 ay ikramiye versin oy alamaz bizden. <br/>allahın izniyle asıl fetocuların yargılandığı günleri de göreceğiz.
   entry_channels: siyaset
 - entry_name: |
+    yaşadığınız şehrin nefret ettiğiniz yönleri
+  entry_id:  76566553
+  entry_writer: dukkanin ortasinda bagiran kosnuk
+  entry_fav_count: 55
+  entry_content: |
+    metrekareye düşen 8 suriyeli olması,öküz şoförleri,sola dönüşün neredeyse yasak olması,yağmur yağınca şehrin survivora dönmesi ( geçen yüzen pideci gördüm ) vs vs.(bkz: <a class="b" href="/?q=gaziantep">gaziantep</a>)
+  entry_channels: anket
+- entry_name: |
     fuckbudy ile samimi kanka olmak
   entry_id:  76578242
   entry_writer: carriebradshaw
-  entry_fav_count: 47
+  entry_fav_count: 50
   entry_content: |
-    rezalet bir başlık.<br/><br/>yeter ulan yeter. allah hepinizin belasını versin.<br/><br/>delirttiniz ya beni. bu ne biçim başlık? altta yazanlara bak.<br/><br/>içeriğine mi delireyim? dil bilginize mi tüküreyim? uçur ulan beni moderatör bu entrymden dolayı!<br/><br/>tanım yok diye benim entrymi sildiniz, adamın açtığı başlığa bak. bu adam bu başlığı açsın, sen beni tanım yok diye sil.<br/><br/>hadi her şey düzgün diyelim. kanka kime denir? <br/><br/>kanka <br/>a. tkz. kardeş kadar yakın olan kimse.<br/><br/>samimi kanka ne demek???
+    rezalet bir başlık.<br/><br/>yeter ya yeter. allah hepinizin belasını versin.<br/><br/>delirttiniz beni. bu ne biçim başlık? altta yazanlara bak.<br/><br/>içeriğine mi delireyim? dil bilginize mi tüküreyim? uçur beni moderatör bu entrymden dolayı!<br/><br/>tanım yok diye benim entrymi sildiniz, adamın açtığı başlığa bak. bu adam bu başlığı açsın, sen beni tanım yok diye sil.<br/><br/>hadi her şey düzgün diyelim. kanka kime denir? <br/><br/>kanka <br/>a. tkz. kardeş kadar yakın olan kimse.<br/><br/>samimi kanka ne demek???
   entry_channels: anket,ilişkiler
-- entry_name: |
-    turktorrent.co
-  entry_id:  76566954
-  entry_writer: koskinen
-  entry_fav_count: 45
-  entry_content: |
-    tüm ruhu fakir gerizekalıların lazım olup olmadığını, ne olduğunu bile bilmeden davetiye dileneceği internet sitesi.<br/><br/>sizin dilenci ruhunuzu sikeyim.
-  entry_channels: teknoloji
 - entry_name: |
     caner toygar'ın akp'den milletvekili adayı olması
   entry_id:  76578272
   entry_writer: ayarsizenerji
-  entry_fav_count: 38
+  entry_fav_count: 48
   entry_content: |
     (bkz: <a class="b" href="/?q=ortado%c4%9fu%27da+bardaklar+yeniden+da%c4%9f%c4%b1t%c4%b1l%c4%b1yor">ortadoğu'da bardaklar yeniden dağıtılıyor</a>)
   entry_channels: siyaset
+- entry_name: |
+    turktorrent.co
+  entry_id:  76566954
+  entry_writer: koskinen
+  entry_fav_count: 46
+  entry_content: |
+    tüm ruhu fakir gerizekalıların lazım olup olmadığını, ne olduğunu bile bilmeden davetiye dileneceği internet sitesi.<br/><br/>sizin dilenci ruhunuzu sikeyim.
+  entry_channels: teknoloji
+- entry_name: |
+    yoklama kaçaği askerliği tecil ettirebilir mi
+  entry_id:  76581528
+  entry_writer: hak yeme fuck yeah
+  entry_fav_count: 45
+  entry_content: |
+    formatı bile sikebilir.
+  entry_channels: 
+- entry_name: |
+    rte ben artık komünistim dese olacaklar
+  entry_id:  76580225
+  entry_writer: liseogrencisi
+  entry_fav_count: 35
+  entry_content: |
+    biz zaten komünisttik, ey tkp sen kimsin yaa?
+  entry_channels: siyaset,anket
 - entry_name: |
     1.85 boyunda zeki esprili yakışıklı kültürlü erkek
   entry_id:  76550650
@@ -238,90 +230,114 @@ data:
     ets tur tayland rezaleti
   entry_id:  76577506
   entry_writer: dimswart
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     turizmin içinde birisi olarak şunu söyleyebilirimki kesinlikle ama kesinlikle tur programında rehberin sizi soktukları dükkanlardan alışveriş yapmayın. <br/><br/>türsab’a şikayet edilmesi gereken bir rezalet.
   entry_channels: seyahat
 - entry_name: |
-    sokak köpeğini kurtarmak için canını veren çocuk
-  entry_id:  76571659
-  entry_writer: killanan adam
-  entry_fav_count: 21
-  entry_content: |
-    çok zengin olsaydım özel bir barınak yaptırırdım. senin adını verirdim oraya çocuk.<br/>ama şimdilik tek yapabileceğim bir sokak köpeğinin başını okşarken "rahmi'nin selamı var" demek olacak.
-  entry_channels: haber
-- entry_name: |
     rahmi çiçek ismi barınak adı olarak yaşamalı
   entry_id:  76574446
   entry_writer: kezii
-  entry_fav_count: 20
+  entry_fav_count: 26
   entry_content: |
     buradan bütün yetkililere seslenelim ve adını bu şekilde yaşatalım. <br/>yardımlarınızı bekliyorum arkadaşlar.
   entry_channels: 
 - entry_name: |
-    yoklama kaçaği askerliği tecil ettirebilir mi
-  entry_id:  76581528
-  entry_writer: hak yeme fuck yeah
-  entry_fav_count: 19
+    sokak köpeğini kurtarmak için canını veren çocuk
+  entry_id:  76571659
+  entry_writer: killanan adam
+  entry_fav_count: 25
   entry_content: |
-    formatı bile sikebilir.
-  entry_channels: 
+    çok zengin olsaydım özel bir barınak yaptırırdım. senin adını verirdim oraya çocuk.<br/>ama şimdilik tek yapabileceğim bir sokak köpeğinin başını okşarken "rahmi'nin selamı var" demek olacak.
+  entry_channels: haber
 - entry_name: |
-    rte ben artık komünistim dese olacaklar
-  entry_id:  76580225
-  entry_writer: liseogrencisi
-  entry_fav_count: 19
+    2 mayıs 2018 roma liverpool maçı
+  entry_id:  76581663
+  entry_writer: okaberintarou
+  entry_fav_count: 20
   entry_content: |
-    biz zaten komünisttik, ey tkp sen kimsin yaa?
-  entry_channels: siyaset,anket
-- entry_name: |
-    29.90 lirayla 30 gün boyunca geçinmek
-  entry_id:  76580976
-  entry_writer: jamesharden
-  entry_fav_count: 19
-  entry_content: |
-    doğru bir zihin ve beyinle başarılması gayet mümkün olan, insanın havsalasını gıdıklayan, toplumun her kesimi tarafından beğeni toplaması olası duran bütçe tasarrufu.<br/><br/>nasıl mı?<br/><br/>günde 12 saat uyuyorum. yani 720 saat yerine sadece 360 saat ayakta olacağım demek. bu benim için avantaj. ayrıca boyum 1.64 kilom ise 59. yani az yemek yiyeceğim ve az enerji sarf edeceğim.<br/><br/>1. gün: 1 liralık çorbalardan alırım. içine ekmek doğrar<sup class="ab"><a title="(bkz: ekmek evde vardı)" href="/?q=ekmek+evde+vard%c4%b1" data-query="ekmek evde vardı">*</a></sup> mis gibi afiyetle onu yerim. rahat 12 saat beni tok tutar. kalan bakiye: 28.90<br/><br/>2.gün: 70 kuruşa 45 gramlık ülker çikolatalı gofret alırım. hem tatlı ihtiyacımı gidermiş olurum hem de gofret adamı tok tutar. kalan bakiye: 28.20.<br/><br/>3.gün: 20 kuruşa 2 adet kuru incir alırım. kuruyemişçi tanıdık olduğu için 2-3 tane fazla bile verebilir. incir beni 5-6 saat rahat tok tutar. kalan bakiye: 28.00<br/><br/>4.gün: biraz şımarıklık yapıp 1 lira harcayabilirim. metronun orada duran simitçiden bir tane tam yağlı susamlı simit alırım. rahat 2 gün tok tutar beni. kalan bakiye: 27.00<br/><br/>5.gün: 60 kuruşa yarım somon ekmek alırım. hem dengesiz beslenmemiş olurum hem de ekmeğin içindeki lifler vücuduma direnç kazandırır. kalan bakiye: 26.40<br/><br/>6.gün: 40 kuruşa 4 tane sakız alırım. her birini 2 saatte bir çiğnesem. tok tutmaz ama midem boş olmaz en azından. kalan bakiye: 26.00<br/><br/>7.gün: en son 3 gün önce 1 lira harcadığım için. yine 1 liraya çubuk makarna alırım. ve bu beni tam 3 gün tok tutar. kalan bakiye: 25.00<br/><br/>8.gün: -------------------------------makarna---------------------------- kalan bakiye: 25.00<br/><br/>9.gün: ----------------------------- makarna------------------------------ kalan bakiye: 25.00<br/><br/>10.gün: --------------------------- makarna ------------------------------ kalan bakiye: 25.00<br/><br/>11. gün: 3 gün boyunca makarna yediğim için 1.50 liraya alman pastası alırım. biraz pahalı ama tatlı ihtiyacımı gidermem lazım. kalan bakiye: 23.50<br/><br/>12. gün: her ayın 12'sinde oturduğum yere yakın bir market tanıtım reyonu açıyor. 1 liraya ıskarta ekmek alır. karnımı tanıtım reyonlarından doyururum. hem sucuk, salam, kaşar yemiş olurum. kalan bakiye: 22.50<br/><br/>13.gün: 70 kuruşa milka gofret alırım. 38 gr olduğu için inanılmaz tok tutacaktır. tahminen 10-12 saat bir daha bir şey yemem. kalan bakiye: 21.80<br/><br/>14.gün: biraz sebze ve meyve yiyerek enerji depolamam gerekiyor. 80 kuruşa 2 adet kırmızı elma alırım. 40 kuruştan fazla yapıyor ama manav bizim köylü o yüzden ses etmez. elmalar bana çok ciddi bir takviye olacaktır. kalan bakiye: 21.00<br/><br/>15. gün: artık yavaş yavaş zorlanacağım günlere geliyoruz. fakat bugün geçen günden aldığım elmayı yerim. ve para harcamamış olurum. kalan bakiye: 21.00<br/><br/>16. gün: hani su içmiyor musun diye soracak olanlara ithafen yazmak isterim. su ihtiyacımı; camiden ve hayratlardan gideriyorum. suya para vermem. fakat bugün için şımarıklık yaparak 1 liraya 100 gramlık örgü peyniri alalım. kalan bakiye: 20.00<br/><br/>17.gün: 1.50 liraya soya kıymalı mantı alırım. ve rahat 3 gün onu yerim. kalan bakiye: 18.50.<br/><br/>18.gün: --------------------------------- mantı----------------------------------- kalan bakiye:18.50<br/><br/>19.gün: ------------------------------- mantı----------------------------------- kalan bakiye:18.50<br/><br/>20.gün: ----------------------------- mantı------------------------------------- kalan bakiye:18.50<br/><br/>21.gün: 75 kuruşa iki adet bol sütlü köpüklü nescafe alırım. hem dinç tutar, hem karnım acıkmaz. kalan bakiye: 17.00<br/><br/>22.gün: 1 liraya ekmek, 80 kuruşa ise iki tane üçgen peynir alırım. ekmeği ortadan ikiye böler yarısını bugün, diğer yarısını ise ertesi gün yerim. kalan bakiye:15.50.<br/><br/>23.gün: ------------------------------------ peynir ekmek----------------------- kalan bakiye:15.50<br/><br/>24.gün: meyveyi yine ihmal ettiğimin farkındayım. 90 kuruşa 5-6 tane çilek alırım. tok tutmaz ama dünden kalan peynir ekmeğin üzerine güzel gider. kalan bakiye: 14.60<br/><br/>25.gün: dün sadece çilek yediğim için karnım aç. ve dolayısıyla biraz hoyrat davranabilirim. 1 liraya açma simit alırım. acayip tok tutar. kalan bakiye: 13.60<br/><br/>26.gün: bu sefer 1 liraya fiyonk makarna alırım. çubuğa göre bi öğün az çıkar ama olsun. rahat 2 gün tok tutar. kalan bakiye: 12.60<br/><br/>27.gün: ---------------------------------- makarna------------------------------ kalan bakiye:12.60<br/><br/>28.gün ----------------------------- makarna----------------------------- kalan bakiye: 12.60<br/><br/>29.gün: artık sabrımın tükeneceği günlere gelmiş bulunuyorum. ve kafam eserse 3 liraya tam porsiyon tavuk döner söylerim. yanına 1 liraya ayran. tok tutması tartışılır ama en azından canımın çektiği bir şeyi yemiş olurum. kalan bakiye: 8.60<br/><br/>30. gün: dün fazlasıyla savurganlık yaptığım için bugün para harcamam. su içsem yeter. yatağın içine girer başarıya ulaşmanın verdiği rahatlıkla 24 saat uyurum. ve cebimdeki 8 lira 60 kuruş ile proleterlerin nasıl hayatta kaldığını, asıl hamamböceğinin bizler olduğunu tüm masona, siyonist sürüsüne ispatlamış olmanın haklı gururuyla halay çekerim.
-  entry_channels: 
+    dün cüneyt çakır'a 90 dk boyunca verdiği tek hatalı karar ki o da tartışmalı bir pozisyon için söven türk halkı bugünkü hakeme 10'da 1'i kadar sövmeyecektir. çünkü kendi milletini çekemeyen, hiçbir işe yaramayıp kendi milletinden kusursuz iş bekleyen bir toplumuz. hakem de yılların hakemi skomina. eminiz bir daha kendisine dünya kupası'nda falan görev verilmez. yersen.<br/><br/>liverpool sevdalısı olan şahsıma dahi yuh dedirten kararların verildiği (verilmediği) maç.
+  entry_channels: spor
 - entry_name: |
     seks esnasında güldüren haller
   entry_id:  76579896
   entry_writer: unicornknight
-  entry_fav_count: 16
+  entry_fav_count: 19
   entry_content: |
     (bkz: <a class="b" href="/?q=am+fortlamas%c4%b1">am fortlaması</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
-    2 mayıs 2018 roma liverpool maçı
-  entry_id:  76580390
-  entry_writer: romanus
-  entry_fav_count: 16
+    29.90 lirayla 30 gün boyunca geçinmek
+  entry_id:  76581041
+  entry_writer: renksiz hayat
+  entry_fav_count: 18
   entry_content: |
-    yüce rabbim kimseyi kontra atağa çıkmış mane,firmino, salah üçlüsünün karşısında durmaya çalışan stoper çaresizliğine düşürmesin dedirten maç.
-  entry_channels: spor
+    fazla survival oyun oynamanın zararları. bende de var bu. gün içinde healthim kaç kalmış diye merak ediyorum.
+  entry_channels: 
 - entry_name: |
-    akp milletvekili adayı'nın beyin yakan röportajı
-  entry_id:  76576674
-  entry_writer: uroboros
-  entry_fav_count: 14
+    dangal
+  entry_id:  76576001
+  entry_writer: yirmiucdereceyirmiyedidakika
+  entry_fav_count: 13
   entry_content: |
-    felçli kolun aniden düzelmesiyle mucizeye tanıklık ettirmiştir. ben ikna oldum.
-  entry_channels: haber
+    sanırım türkiye'de ana akım medyada <a class="b" href="/?q=prime+time">prime time</a> kuşakta yayınlanan <a class="b" href="/?q=aamir+khan">aamir khan</a> imzalı ilk bollywood filmi. takdir edilesi bir seçim.
+  entry_channels: sinema
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  76554190
+  entry_writer: oyuncak bulut
+  entry_fav_count: 8
+  entry_content: |
+    çok acaip sapık ve bu sapıklıklarını orospu çocuğu yüzsüzlüğü ile gün yüzüne çıkaran insanların doluştuğu veritabanı.<br/>cinsiyet ayırt etmeden yazıyorum.<br/><br/>...belli tarihlerde gideceği tatil bölgesine eşlik edecek hatun kişi arayan,<br/>normal muhabbet devam ederken konu memelere gelebilir diyen,<br/>evde otururken yaramazlık yapmak isteyenler, diyen...<br/>ayak fetişiyim 25 üstü yazsın diyen...<br/>ve daha niceleri çok net söylüyorum yüzsüz, utanmaz, ahlaksız ve ağır orospu evlatlarısınız.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     1 mayıs 2018 perihan pulat'a polis işkencesi
   entry_id:  76568580
   entry_writer: sevgikusunkanadinda
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     75 yaşında bir kadına, elinde bir kağıt tuttuğu ve etrafı yasaklanmış insan hakları anıtı'na yürümek istediği için uygulanmış olan işkencedir: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.artigercek.com/polis-saldirisina-tepki?t=1525262285" title="https://www.artigercek.com/polis-saldirisina-tepki?t=1525262285">https://www.artigercek.com/…sina-tepki?t=1525262285</a><br/><br/>bu 1 mayıs günü kendisine yapılan: <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DcIZ9ZRWkAAw4du.jpg">https://pbs.twimg.com/media/dciz9zrwkaaw4du.jpg</a><br/><br/>bu da kendisine uygulanan işkencenin ertesi gün morluklar daha da belirginleştiğinde ortaya çıkan izleri:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DcMDu4KW0AAvMYh.jpg">https://pbs.twimg.com/media/dcmdu4kw0aavmyh.jpg</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DcMDvGUW0AEusSl.jpg">https://pbs.twimg.com/media/dcmdvguw0aeussl.jpg</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DcMDvRhX0AAzKgn.jpg">https://pbs.twimg.com/media/dcmdvrhx0aazkgn.jpg</a><br/><br/>birkaç gün önce yine aynı anıt önünde polis tarafından itilirken polisin kendisine söylediği "buna fare zehri vermek lazım" iğrençliği, fiziki şiddetle devam ediyor.<br/><br/>yummayın, açın şu "kime oy vereceğiz" diye bakınmış durmuş gözlerinizi... tanıklık edin perihan teyze'ye, unutmayın!<br/><br/>(bkz: <a class="b" href="/?q=perihan+pulat">perihan pulat</a>)
   entry_channels: haber
 - entry_name: |
+    2 mayıs 2018 ihricatta tarihi rekor müjdesi
+  entry_id:  76582084
+  entry_writer: soruyu isaret eden soru isareti
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ihr%c4%b1c%c4%b1tt%c4%b1+t%c4%b1rihi+rik%c4%b1r+mijdisi">ihrıcıttı tırihi rikır mijdisi</a>)
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     tivibu
   entry_id:  76579285
   entry_writer: ampute karinca
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     bir anda modem resetleme gerekliliği bahanesi ile yayını kesen, modem resetleyince de mvp21205 - mvp21201 - 21503 -21403 hata kodlarını verip duran tv zımbırtısı. reset atmak da çözüm değil la nasıl bir arızadır.
   entry_channels: tv,teknoloji
+- entry_name: |
+    doğu perinçek'e imza veriyoruz kampanyası
+  entry_id:  76578998
+  entry_writer: scott mary
+  entry_fav_count: 5
+  entry_content: |
+    2. doğu perinçek avrupa'da ermeni soykırımı iddialarını yalanlamıştır, isviçre'ye hukuk mücadelesi kazanmış, aihm tarafından haklı bulunmuştur. (bkz: <a class="b" href="/?q=perin%c3%a7ek-isvi%c3%a7re+davas%c4%b1">perinçek-isviçre davası</a>)<br/><br/>şu maddeye dikkat. perinçek kazandığı bu dava ile ermeni soykırımı ile ilgili iddiaları konusunda haklı çıkmamıştır. yalnızca düşünce özgürlüğünü dile getirdiği için yani ermeni soykırımı yoktur dediği için isviçre'de hakkında açılan ceza davasına karşı aihm tarafından haklı bulunmuştur. çünkü mesele ifade özgürlüğü.
+  entry_channels: 
+- entry_name: |
+    3 mayıs 2018 dolar kuru
+  entry_id:  76581062
+  entry_writer: my name is paris
+  entry_fav_count: 5
+  entry_content: |
+    merkez bankası 2018 yıl sonu dolar tahminini 4.30 olarak göstermişti, daha 2018'in 5. ay'ın da 4.20'e dayandı...<br/><br/>harikasınız beyler. ülkeyi el birliği ile çökeltiniz.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    günde 5 saat uyumak
+  entry_id:  76580393
+  entry_writer: zirrealist
+  entry_fav_count: 4
+  entry_content: |
+    aylardır yaşadığım çaresizlik. mutsuzluğun uykusuzlukla bir ilgisi olmalı...<br/><br/>2'den önce uyuyamıyorum. sabah 7-7 buçukta uyanıyorum. bütün gün işte ruh gibi takılıyorum. eve bi gideyim, 9'da yatıcam diyorum. ama olmuyo. yine 2'yi görüyorum. ertesi gün yine aynısı...<br/><br/>en kötüsü de o kadar uyanık kalıp hiçbi bok yapmamak. iş haricinde tabii.
+  entry_channels: sağlık
 - entry_name: |
     en sevmediğim üç özelliğim
   entry_id:  76577448
@@ -339,21 +355,13 @@ data:
     saat 00:00'da yapıştırdığınız şiirden bozma bokumsu düz yazılarınız midemi bulandırıyor. az kullanılan birkaç kelimeyi yan yana getirip aralarına da gereksiz noktalama işareti koyunca mutlu mu oluyorsunuz lan? bi de çok matah bir şeymiş gibi 12'yi beklemiş haspam. hay gözyaşlarınızı zikeyim ya.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    diriliş ertuğrul
-  entry_id:  76580486
-  entry_writer: geri donen mektup
-  entry_fav_count: 4
+    zeka cinsel çekicilik unsuru değildir
+  entry_id:  76565836
+  entry_writer: dogru mu bu hocam
+  entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=dirili%c5%9f+noyan">diriliş noyan</a>)
-  entry_channels: tv,tarih
-- entry_name: |
-    3 mayıs 2018 dolar kuru
-  entry_id:  76571567
-  entry_writer: wohan
-  entry_fav_count: 4
-  entry_content: |
-    allah'ın izni ile tam rabia olmaya bir adım daha yaklaşacak inşallah, maşallah. <br/><br/>(bkz: <a class="b" href="/?q=4.44">4.44</a>)
-  entry_channels: anket,ekonomi
+    zeki olan biri ile saatlerce muhabbet edip, kaslı uzun boylu ve yakışıklı olanla takılır. geçiniz efendim boş yapmayınız.
+  entry_channels: ilişkiler,bilim
 - entry_name: |
     halkların demokratik partisi
   entry_id:  76552257
@@ -363,21 +371,21 @@ data:
     muhalefetin kurduğu ittifak sonrası;<br/><br/>‘ulan ya bunlar barajı geçemezse’ diyen %2’lik kesimin oyunu bu gece cukkalamış, baraj derdi kalmamış parti. chp’nin de paradoksu çok acayip ittifak kurmasa oylar iyi partiye geçicek kursa hdp’ye.<br/><br/>siyaset çok garip seçmenler filan.
   entry_channels: siyaset,haber
 - entry_name: |
-    günde 5 saat uyumak
-  entry_id:  76580393
-  entry_writer: zirrealist
-  entry_fav_count: 3
+    yaşadığımız hayatın tek bir kişinin rüyası olması
+  entry_id:  76581618
+  entry_writer: taka78
+  entry_fav_count: 1
   entry_content: |
-    aylardır yaşadığım çaresizlik. mutsuzluğun uykusuzlukla bir ilgisi olmalı...<br/><br/>2'den önce uyuyamıyorum. sabah 7-7 buçukta uyanıyorum. bütün gün işte ruh gibi takılıyorum. eve bi gideyim, 9'da yatıcam diyorum. ama olmuyo. yine 2'yi görüyorum. ertesi gün yine aynısı...<br/><br/>en kötüsü de o kadar uyanık kalıp hiçbi bok yapmamak. iş haricinde tabii.
-  entry_channels: sağlık
-- entry_name: |
-    doğu perinçek'e imza veriyoruz kampanyası
-  entry_id:  76578998
-  entry_writer: scott mary
-  entry_fav_count: 3
-  entry_content: |
-    2. doğu perinçek avrupa'da ermeni soykırımı iddialarını yalanlamıştır, isviçre'ye hukuk mücadelesi kazanmış, aihm tarafından haklı bulunmuştur. (bkz: <a class="b" href="/?q=perin%c3%a7ek-isvi%c3%a7re+davas%c4%b1">perinçek-isviçre davası</a>)<br/><br/>şu maddeye dikkat. perinçek kazandığı bu dava ile ermeni soykırımı ile ilgili iddiaları konusunda haklı çıkmamıştır. yalnızca düşünce özgürlüğünü dile getirdiği için yani ermeni soykırımı yoktur dediği için isviçre'de hakkında açılan ceza davasına karşı aihm tarafından haklı bulunmuştur. çünkü mesele ifade özgürlüğü.
+    insana <a class="b" href="/?q=uyan+ey+g%c3%b6zlerim">uyan ey gözlerim</a> diye bilinen, malum 3.murad'ın eserini tasavvufi açıdan değil de, nihilist bir bakış açısında dinlettiren bir düşüncedir aynı zamanda.
   entry_channels: 
+- entry_name: |
+    hacı diyen insan iticiliği
+  entry_id:  76579292
+  entry_writer: iskelealamamki
+  entry_fav_count: 1
+  entry_content: |
+    ayni familyanin baska bir turu sakarya taraflarinda hafiz demektedir.
+  entry_channels: ilişkiler
 - entry_name: |
     en güzel kadın parfümü
   entry_id:  76578251
@@ -387,19 +395,11 @@ data:
     hypnotic poison benim için de. yahu en son fiyatını sorduğumda 680 tl dedi. soruyu yanlış anladı falan sandım, ertesi gün denk geldi yine sordum, cidden o fiyatmış!<br/>eskiden bunlar alınabilecek şeylerdi, maaşım enflasyon karşısında erimiş gitmiş mi yoksa diorun ürünlerinde anormal bir artış mı var anlamadım.
   entry_channels: anket,moda
 - entry_name: |
-    yaşadığımız hayatın tek bir kişinin rüyası olması
-  entry_id:  76581618
-  entry_writer: taka78
+    cengiz ünder
+  entry_id:  76582366
+  entry_writer: bursa gol gol gol
   entry_fav_count: 0
   entry_content: |
-    insana <a class="b" href="/?q=uyan+ey+g%c3%b6zlerim">uyan ey gözlerim</a> diye bilinen, malum 3.murad'ın eserini tasavvufi açıdan değil de, nihilist bir bakış açısında dinlettiren bir düşüncedir aynı zamanda.
-  entry_channels: 
-- entry_name: |
-    dangal
-  entry_id:  76578955
-  entry_writer: casssiel
-  entry_fav_count: 0
-  entry_content: |
-    kesintiye uğramış film, birçok sahnesi kırpılmış... hayır anlamadığım yayınlayacaksan neden kırpıyorsun acun?
-  entry_channels: sinema
+    az önce birine “amına koyayım” dedi devamını anlayamadım.<br/><br/>sövedur çocuk.
+  entry_channels: spor
 ---
