@@ -6,7 +6,7 @@ data:
     ido tatlıses'nin tamam paylaşımı yapması
   entry_id:  76806454
   entry_writer: onderizm
-  entry_fav_count: 1226
+  entry_fav_count: 1316
   entry_content: |
     ibrahim tatlıses beyninden vurulmuşa dönmüştür.
   entry_channels: siyaset,magazin
@@ -14,7 +14,7 @@ data:
     şaka maka akp'nin gümbür gümbür gidiyor olması
   entry_id:  76799095
   entry_writer: i hate you all
-  entry_fav_count: 775
+  entry_fav_count: 782
   entry_content: |
     hakikaten bu adamın böyle kibarca, insanca, medenice bırakıp gideceğine inanıyorsunuz yani. valla tebrikler.
   entry_channels: siyaset
@@ -22,7 +22,7 @@ data:
     t a m a m
   entry_id:  76786500
   entry_writer: cerestus
-  entry_fav_count: 768
+  entry_fav_count: 775
   entry_content: |
     şeker fabrikalarını sa tamam<br/>iki ayyaş dediğini unu tamam<br/>ağaç kesen eli tu tamam<br/>kömüre oyumu sa tamam
   entry_channels: siyaset,haber
@@ -30,42 +30,58 @@ data:
     40 yıl önce 8 yaşına yeni girmiş bir kızdım ben
   entry_id:  76804804
   entry_writer: cerkez prens
-  entry_fav_count: 513
+  entry_fav_count: 531
   entry_content: |
     teyze haklı arkadaşlar.<br/><br/>akp gelmeden önce biz, pipimizde incir yaprağı, elimizde taştan oyarak yaptığımız mızrakla buffalo avına çıkıyorduk.<br/>ateşi bulmuştuk neyse ki ve tekerleği.<br/><br/>hasta olan şifacıya, dua edecek olan kabilenin büyücüsüne giderdi.<br/><br/>mağaralarda yaşar, duvarlarına bişeyler çiziktirirdik.<br/><br/>sonra akp geldi çok şükür,<br/>geldi de ortaçağa geçebildik...
   entry_channels: siyaset
 - entry_name: |
+    cnn türk'ün 16.14'te yayına girip 16.15'te çıkması
+  entry_id:  76806388
+  entry_writer: iyisin tabi
+  entry_fav_count: 412
+  entry_content: |
+    az önce meydana gelen hadise. bir arkadaşa bakıp çıktılar galiba. isteyen yayından kontrol edebilir.<br/><br/>muharrem ince konuşmaya başladı 16.14’te cnn türk yayına girdi 16.15’te ise adamın cümlesinin ortasında yayından çıktılar. spiker kız ne diyeceğini bilemedi ince’yi dinledik diyebildi anca. bu kadar net talimat görmedim hayatımda. boykot artık şart oldu.<br/><br/>edit: şimdi baktılar ntv falan veriyor tekrar girdiler yayına. reziller.<br/><br/>edit 2: saat 16.24 tekrar çıktılar. tüpçü gemi yalama oldu abi.<br/><br/>bu linkten saat 16.13'e giderek ilgili anı ve yayını nasıl 1.5 dakikada kestiklerini görebilirsiniz: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/eWuQt0C1eVw">https://youtu.be/ewuqt0c1evw</a><br/><br/>(bkz: <a class="b" href="/?q=cnn+t%c3%bcrk%27%c3%bc+cnn%27e+%c5%9fikayet+ediyoruz">cnn türk'ü cnn'e şikayet ediyoruz</a>)
+  entry_channels: siyaset,tv,haber
+- entry_name: |
     dolar 4.26'ya düşünce susan ekşici muhalife çağrı
   entry_id:  76807754
   entry_writer: katana7
-  entry_fav_count: 366
+  entry_fav_count: 376
   entry_content: |
     (bkz: <a class="b" href="/?q=tamam">tamam</a>)
   entry_channels: ekonomi
 - entry_name: |
-    seks için arzu edilen ırk
-  entry_id:  76803777
-  entry_writer: deli ziya
-  entry_fav_count: 344
-  entry_content: |
-    (bkz: <a class="b" href="/?q=milfler">milfler</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
     başörtüsünü ister evinde tak ister devlette tak
   entry_id:  76810323
   entry_writer: cagribilgili
-  entry_fav_count: 338
+  entry_fav_count: 362
   entry_content: |
     bari nick'ini gizleyeydin chp'li kardeş. (bkz: <a class="b" href="/?q=yeni+t%c3%bcrkiye">yeni türkiye</a>)
   entry_channels: siyaset,haber,moda
 - entry_name: |
+    seks için arzu edilen ırk
+  entry_id:  76803777
+  entry_writer: deli ziya
+  entry_fav_count: 346
+  entry_content: |
+    (bkz: <a class="b" href="/?q=milfler">milfler</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
     cnn türk'ü cnn'e şikayet ediyoruz
   entry_id:  76806832
   entry_writer: xlinux
-  entry_fav_count: 311
+  entry_fav_count: 320
   entry_content: |
     (bkz: <a class="b" href="/?q=cnn+t%c3%bcrk%27%c3%bcn+16.14%27te+yay%c4%b1na+girip+16.15%27te+%c3%a7%c4%b1kmas%c4%b1">cnn türk'ün 16.14'te yayına girip 16.15'te çıkması</a>) (bkz: <a class="b" href="/?q=9+may%c4%b1s+2018+muharrem+ince%27ye+medya+sans%c3%bcr%c3%bc">9 mayıs 2018 muharrem ince'ye medya sansürü</a>) tarafsız ve bağımsız bir medya istiyoruz!<br/><br/>demirören grubuna satıldıktan sonra yandaş yayın politikasını artıran cnn türk'ün cnn gibi bir kuruluşun ismini lekelemesinden eminim ki, lisansın sahipleri de rahatsız olacaktır. hep birlikte sesimizi duyaralım!<br/><br/>mail için comments@cnn.com<br/><br/>örnek tweet şablonları:<br/><br/>"#boycottcnnturk cnn turk that has your license in turkey, has been censoring opposition and their candidates (who will be voted in turkey prs. election on june 24) as it was bought by demiroren (adherent of akp &amp; tayyip erdogan). withdraw license from turkey! @turner @cnn " <br/><br/>"hi @cnn . would you guys happen to know what your turkish branch is up to? they're censoring the leaders opposing erdogan in the upcoming presidential election as they've been purchased by demiroren group (adherent to the current, oppressing government) #boycottcnnturk"<br/><br/>@dis 'e teşekkürler...<br/><br/>aynı şekilde tweetlere aşağıdaki hesapları etiketlersek duyurmamız için yardımcı olacaklarını düşünüyorum.<br/><br/>cnn yönetimi twitter adresleri<br/><br/>@tedturneriii <br/>@wendybrundige<br/>@danabashcnn <br/>@jotreyes <br/>@turner <br/>cnn çalışanları twitter adresleri<br/><br/>@alexkoppelman <br/>@oliverdarcy <br/>@j_berlingercnn <br/>@ellefs0n <br/>@kfıle <br/>@karl_de_vries <br/>@amandawills <br/>@donie <br/>@news_with_love <br/>@masumaahuja <br/>@talkopan <br/>@daniellamicaela <br/>@jdiamond1 <br/>@noahgraycnn <br/>@ellefs0n <br/>@daniellamicaela <br/>@donriddellcnn <br/>@klustout <br/>@ralıtsacnn <br/>@rosemarycnn <br/>@drsanjaygupta <br/>@mckenziecnn <br/>@arduinocnn <br/>@ıvancnn<br/><br/>twitter kullanmayanlar için cnn international iletişim linki:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://edition.cnn.com/feedback">https://edition.cnn.com/feedback</a> <br/><br/>edit :<br/>orası normal bir haber kanalı değil. uluslararası kuruluşun lisansıyla havuz medyasına girilmez sayın çomar!<br/><br/>edit2: <br/>mesaj ile öneri üzerine;<br/>#boycottcnnturk hashtag'ı eklenerek güncellendi. 19:02
   entry_channels: siyaset,tv,haber
+- entry_name: |
+    üniversitelerde artık bahar şenliği düzenlenmemesi
+  entry_id:  76798202
+  entry_writer: ilkistan
+  entry_fav_count: 247
+  entry_content: |
+    az önce mezun olduğum okulda bu sene bahar şenliğine kimler geliyormuş diye google'da arama yapmak istemem sonrasında karşılaştığım durum.<br/><br/>itü,ytü,odtü,boğaziçi gibi top level okullarda bile bahar şenliği düzenlenmiyor artık sanırım. bir tek odtü'de düzenlenmiş o da valilik yasağı nedeniyle yalnızca 1(bir) gün.<br/><br/>anadolu'da bazı üniversitelerde yapılmaya çalışılmış ancak gelen isimler felaket, en iyi isim <a class="b" href="/?q=piiz">piiz</a> filandı gördüğüm 2-3 şenlik yapan üniversitede.<br/><br/>cidden bir halkın eğlenmesi,gülmesi,pozitif enerji saçacak aktivitelerde bulunması bu kadar korkutuyor mu değerli devlet büyüklerini? neden güzel olan herşeye karşısınız? 100 kişilik bir gençlik toplanmasına bile müsadeniz yok artık, garipsiniz, kötüsünüz.<br/><br/>edit : durum o kadar da kötü değilmiş henüz anlaşılan, özel mesajlardan gördüğüm kadarıyla odtü öğrencileri 3 gün olarak yapmış şenliklerini, itü de güzel bi şenlik yapmış. başlık altında da azımsanmayacak sayıda şenlik gözüküyor. sevindirici bu hali de :)
+  entry_channels: eğitim
 - entry_name: |
     9 mayıs 2018 dolar kuru
   entry_id:  76788446
@@ -78,7 +94,7 @@ data:
     9 mayıs 2018 ince erdoğan görüşmesi
   entry_id:  76806342
   entry_writer: gelecekvaadedenveteranoyuncu
-  entry_fav_count: 203
+  entry_fav_count: 212
   entry_content: |
     (bkz: <a class="b" href="/?q=uzun+ince">uzun ince</a>)
   entry_channels: siyaset,haber
@@ -86,7 +102,7 @@ data:
     merhaba ben emre karayel sorularınızı yanıtlıyorum
   entry_id:  76810380
   entry_writer: tahtadan tufek
-  entry_fav_count: 172
+  entry_fav_count: 178
   entry_content: |
     soyadınız tersten nasıl okunuyor?
   entry_channels: ekşi-sözlük
@@ -94,7 +110,7 @@ data:
     erkeklerin çiş yaptıktan sonra penisini silmemesi
   entry_id:  76796129
   entry_writer: ascabo
-  entry_fav_count: 167
+  entry_fav_count: 172
   entry_content: |
     şöyle bir başlığa yazmaktan hicap duyuyorum ama işedikten sonra tuvalet kağıdı kullanan erkeklerin bir azınlık olacağı hiç aklıma gelmezdi.<br/><br/>bu muhabbet arkadaş arasında da açıldı bir iki kez, meğerse kimse çükünü silmiyormuş. <br/><br/>e gidip anneme bir kez daha teşekkür edeyim beni daha çocukluktan muasır medeniyet seviyesine çıkarmış olduğu için.
   entry_channels: anket,sağlık
@@ -102,7 +118,7 @@ data:
     devlet okulu mu özel okul mu sorunsalı
   entry_id:  76800673
   entry_writer: edarda
-  entry_fav_count: 139
+  entry_fav_count: 142
   entry_content: |
     okul çağında çocuğu olan bazı ana babaların yaşadığı sorun. <br/><br/>istese de çocuğunu özel okulda okutacak parası olmayanlar ile "özel okul köpeğin olsun, kaç paraysa kaç para" diyecekler ve parasının hesabını bilmeyenler bu tartışmanın otomatikman dışındadır.<br/><br/>ayrıca, gerçekten kaliteli ve farklı eğitim veren ( (bkz: <a class="b" href="/?q=ko%c3%a7+lisesi">koç lisesi</a>),(bkz: <a class="b" href="/?q=enka+koleji">enka koleji</a>), (bkz: <a class="b" href="/?q=%c5%9fi%c5%9fli+terakki">şişli terakki</a>) gibi) köklü okullar da bu tartışmanın dışındadır.<br/><br/>eğitimli, parasının hesabını bilse de iyi yaşayan, çocuğuna iyi bir eğitim aldırmak için kafa yoran orta halli ebeveynler için elzem bir sorun bu durum.<br/><br/>son yıllarda pıtrak gibi açılan, parlak renklere boyanmış, cicili bicili eğitim araç gereçleri ile doldurulmuş binalardan ibaret, fiyatı pazarlık becerinize göre değişen özel okulları gördükçe içimi bir şüphe kaplıyor. <br/><br/>öte yandan imam hatip mezunu müdürlere teslim edilen, atatürkçü ve idealist öğretmenlerin mobbinge uğradığı, öğretmen maaşlarını ödemek dışında milli eğitimin zerrece katkıda bulunmadığı devlet okulları daha büyük şüpheler uyandırıyor.<br/><br/>hangisi daha kötü bilemiyorum. veli ve öğrencinin müşteriye indirgenmesi mi , eğitimin kalitesinin bir avuç idealist öğretmene bağlı olması mı?<br/><br/>ilk okulda aslolan sınıf öğretmeninin kalitesi olduğu için işiniz biraz daha kolay gibi. idealist, atatürkçü bir müdürün yönettiği devlet okulundaki, idealist öğretmeni bulacak ve okula biraz bağış yapacaksınız.<br/><br/>özel okullar ekstra ne öğretiyor? yabancı dil. devlet okulunda da ikinci sınıfta başlıyor yabancı dil eğitimi. içiniz rahat değilse ingilizce kursuna yollayabilirsiniz çocuğunuzu. ama emin olun, koç üniversitesinden mezun olup, ingilizce konuşmaya korkan gençler gördü bu gözler. ya da sıradan bir özel liseden mezun olup, üniversitede hazırlık okumak zorunda kalanların sayısı hiç de az değil. yani diyeceğim o ki çocuğunuzun ilkokul birinci sınıfta ingilizce şarkı söyleyemiyor olması büyük bir eksiklik değil. özel okuldaki ingilizce şarkı söylüyor belki, ama o da konuşamıyor. <br/><br/>eğitim haricinde özel okulların devlet okulundan fazlası nedir? piyano, bale, jimnastik, yüzme dersleri. çok istiyorsanız bu konularda çocuğunuza özel ders aldırabilirsiniz. merak etmeyin, fiyatı pazarlığa tabi özel okulların çoğunda bu dersler de zaten ekstra ücrete tabi.<br/><br/>okul meselesinde iş çocuk büyüdükçe çetrefilleşiyor. mesela, ortaokuldan sonra derslere branş öğretmenleri girmeye başlıyor ve velinin devlet okulunda öğretmen seçme ihtimali ortadan kalkıyor. <br/>özel okulda ise sürekli bir "çocuğunuz harika" söylemi ve şişirilen notlar ile karşılaşıyorsunuz ve çocuğunuzun gerçek akademik seviyesi hakkında, çocuğunuz merkezi bir sınava girip de çakılana kadar hiç bir fikriniz olmuyor. <br/><br/>sözün özü, çözümü zor bir soru bu.<br/>ya kıçınızı yırtıp çok daha fazla para kazanın ve çocuğunuzu yıllığı 50 bin tl'den başlayan özel okullardan birine yollayın, üviversitede de doğruca yurtdışına sallayın.<br/>ya da iyi devlet okulu bulacam diye debelenip durun.<br/><br/>son bir çare olarak oy verirken eğitimi bu hale getirenleri de düşünebilirsiniz.
   entry_channels: anket,eğitim
@@ -110,7 +126,7 @@ data:
     2. tura akşener mi ince mi kalsın
   entry_id:  76796693
   entry_writer: atarlanadam
-  entry_fav_count: 132
+  entry_fav_count: 136
   entry_content: |
     2. tura akşener kalsa, ince'ye oy verenler erdoğan'a mı verecekler ?<br/>2. tura ince kalsa akşener'e oy verenler erdoğan'a mı verecekler ?<br/>saçma bence 2. tura kim kalırsa kalsın. erdoğan'a oy vermeyenler 2. tura kalan adaya oy verirlerse bu iş biter bence.
   entry_channels: siyaset,anket,haber
@@ -118,7 +134,7 @@ data:
     can dündar'ın t a m a m demesi
   entry_id:  76805904
   entry_writer: isp
-  entry_fav_count: 125
+  entry_fav_count: 131
   entry_content: |
     vatan haini falan olmayan, sırf iktidarın işine gelmeyen yayınlar yaptığı için başına açılmadık iş kalmayan, suikast girişimine maruz kalan, demokrat bir adamın demokrat bir çıkışı. <br/><br/>eğer birileri tamam diyecekse, en çok o ve onun gibi mağdurların (erdem gül, kadri gürsel, ahmet şık, selahattin demirtaş, meral akşener, vb.) tamam demeye hakkı var.<br/><br/>(bkz: <a class="b" href="/?q=aktroll">aktroll</a>)
   entry_channels: siyaset,haber
@@ -126,10 +142,26 @@ data:
     9 mayıs 2018 cem uzan'ın ağlaması
   entry_id:  76804582
   entry_writer: 260611
-  entry_fav_count: 121
+  entry_fav_count: 128
   entry_content: |
     bu adamın mitinglerinde pilav üstü kavurma+ayran dağıtarak %7 <a class="b" href="/?q=oy">oy</a> aldığı bir ülkede yaşıyoruz. ama kavurma güzeldi allah için.
   entry_channels: siyaset,tv,haber,ekonomi
+- entry_name: |
+    9 mayıs 2018 muharrem ince edirne mitingi
+  entry_id:  76806484
+  entry_writer: parafsiz golge
+  entry_fav_count: 119
+  entry_content: |
+    mitingde yaptığı konuşmada erdoğan'a "ikimiz de aynı maaşı alırken ben gariban kaldım da sen nasıl böyle zengin oldun?" diye sorduktan sonra trt haber yayınını kesmiştir. şaşırdık mı? tabii ki hayır.
+  entry_channels: siyaset,haber
+- entry_name: |
+    erdoğan'ın yüzde 60 oy alarak seçilecek olması
+  entry_id:  76800426
+  entry_writer: grotowski
+  entry_fav_count: 108
+  entry_content: |
+    mühürsüz oylar, <br/><br/>sandık taşımaları, <br/><br/>özellikle güneydoğu'da sandıklara seçim bitiminden sonra müşahitlerin yaklaştırılmaması, <br/><br/>boş ya da geçersiz oylara sandık başkanlarınca takır takır rte kaşesi basılması,<br/><br/>trafolara kedi girmesi,<br/><br/>tam sayım esnasında başa baş giden bölgelerde elektrik kesintileri olması,<br/><br/>ve türlü alavere dalavere çevrilerek gerçekleştirilebilecek olan hadisedir.
+  entry_channels: siyaset,anket
 - entry_name: |
     17 yaşındaki öğrencisiyle ilişki yaşayan öğretmen
   entry_id:  76806172
@@ -142,7 +174,7 @@ data:
     akp'ye oy veren eğitimli sağlıklı genç insan
   entry_id:  76799418
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 80
+  entry_fav_count: 82
   entry_content: |
     sadece akp'lilerin zihinlerinde yarattığı hayal ürünü bir seçmen... yani hayaller "akp'ye oy veren eğitimli sağlıklı genç insan", gerçekler "bildiğin çomar"...
   entry_channels: siyaset
@@ -158,15 +190,23 @@ data:
     seks için doktor savcı avukat taklidi yapmak
   entry_id:  76812511
   entry_writer: kopek gibi isiran sivrisinek
-  entry_fav_count: 65
+  entry_fav_count: 76
   entry_content: |
     "kendilerini doktor savci avukat olarak tanitip seks isteyenlere veya yer gosterip seks birakin diyenlere itibar etmeyiniz."<br/>xhamster.com
   entry_channels: ilişkiler
 - entry_name: |
+    155'i ararım diye kadını tehdit eden yobaz dayı
+  entry_id:  76786649
+  entry_writer: ferad
+  entry_fav_count: 59
+  entry_content: |
+    zamanında (bkz: <a class="b" href="/?q=aysun+kayaci">aysun kayaci</a>)’ya kızmıştım dağdaki çobanla benim oyum bir mi dediği için fakat kadın %100 haklıymış arkadaş..şimdi bu çomarla benim oyum bir mi ?
+  entry_channels: siyaset,haber
+- entry_name: |
     ankara'nın en iyi yemek mekanları
   entry_id:  76808709
   entry_writer: garipbasci
-  entry_fav_count: 46
+  entry_fav_count: 50
   entry_content: |
     sheraton'un karşısında nusret diye bir etçi var. hem fiyatları çok uygun hem de eti çok güzel. sahibi de çok orjinal bir insan.
   entry_channels: anket,yeme-içme
@@ -174,10 +214,34 @@ data:
     bir erkekle bir kız gerçekten arkadaş olabilir mi
   entry_id:  76796301
   entry_writer: adgu
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     olabilir tabi. ama erkek ilk fırsatta siker bak söyliim.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    9 mayıs 2018 muharrem ince ile erdoğan görüşmesi
+  entry_id:  76814346
+  entry_writer: evrenozd
+  entry_fav_count: 38
+  entry_content: |
+    akp genel merkezinde ağırlanan ince, akp genel başkanı sıfatlı kişinin karşısına kravatsız cıkmış. çok da güzel yapmış..<br/><br/>delirmiş bizim uzun belli, suratı bok çuvalı gibi..
+  entry_channels: siyaset,haber
+- entry_name: |
+    erdoğan kaybederse çıkacak kaos
+  entry_id:  76786674
+  entry_writer: dulkadirogullaribeyligi
+  entry_fav_count: 35
+  entry_content: |
+    çıkarılacak desek daha doğru olur
+  entry_channels: siyaset,anket,eğitim
+- entry_name: |
+    evde beslenebilecek en uygun kedi türü
+  entry_id:  76811313
+  entry_writer: silver raven
+  entry_fav_count: 28
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sokak+kedisi">sokak kedisi</a>) beğendiğin bi tanesini al besle.
+  entry_channels: anket,bilim
 - entry_name: |
     mülakatla sevgili alımında sorulabilecek sorular
   entry_id:  76791402
@@ -187,6 +251,14 @@ data:
     cima erteleme durumlarında hangi bahaneyi en çok kullanırsınız?
   entry_channels: anket,ilişkiler
 - entry_name: |
+    ekşi itiraf
+  entry_id:  76787656
+  entry_writer: reshad the lionheart
+  entry_fav_count: 26
+  entry_content: |
+    sokaktayken kendimle konuşmak istediğimde kulaklıkları takıyorum, insanlar beni telefonda sanıyor.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     muharrem ince
   entry_id:  76786546
   entry_writer: yazarolaydimiyidi
@@ -195,69 +267,29 @@ data:
     garibanım hepsini okuyamadım ama muharrem ince'yi ekmeleddin'e benzeten ya troldür ya da fazla ekmek yemiştir.
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
-    ekşi itiraf
-  entry_id:  76787656
-  entry_writer: reshad the lionheart
-  entry_fav_count: 25
-  entry_content: |
-    sokaktayken kendimle konuşmak istediğimde kulaklıkları takıyorum, insanlar beni telefonda sanıyor.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    evde beslenebilecek en uygun kedi türü
-  entry_id:  76811313
-  entry_writer: silver raven
+    doğu perinçek
+  entry_id:  76793777
+  entry_writer: birahalasoguk
   entry_fav_count: 24
   entry_content: |
-    (bkz: <a class="b" href="/?q=sokak+kedisi">sokak kedisi</a>) beğendiğin bi tanesini al besle.
-  entry_channels: anket,bilim
+    ismail küçükkaya ile yaptığı yayında cumhurbaşkanı partili olmak zorunda diyerek bu ucube sistemi savunma cürreti göstermiş kişidir. bugün imza verecek olan varsa bilgisi olsun.<br/><br/>ismail küçükkaya şuan yerin dibine sokuyor kendisini. hadi yallah.<br/><br/>edit: imla.
+  entry_channels: siyaset,tarih
 - entry_name: |
     pegasus'un online check-in'de orta koltuk vermesi
   entry_id:  76808026
   entry_writer: jan ken pon
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     uygulamasından check-in yaparken gelen koltuğu beğenmediyseniz, uygulamadan çıkıp birkaç dakika sonra tekrar girince farklı bir koltuk veriyor. ben hep cam kenarına ayarlıyorum bu şekilde.
   entry_channels: havacılık,seyahat
 - entry_name: |
-    şenol güneş
-  entry_id:  76799795
-  entry_writer: medinho
-  entry_fav_count: 15
+    sözlük yazarlarının akıl sağlığı derecesi
+  entry_id:  76793934
+  entry_writer: susadikca ver agzima dudagi
+  entry_fav_count: 13
   entry_content: |
-    hırsızlık malı kupayla övünen götleri görmemizi sağlayan teknik adamdır.<br/><br/>aykut kocaman'ın sporitf direktörü olduğu fenerbahçe'ye timsah yürüyüşü yaptırıp stat yaktırmışlığı, teknik direktörü olduğu fenerbahçe'ye ise şike yaptırıp mapus yatırmışlığı vardır.<br/><br/>96'da aygün denen zırtapozun kafasını sarıp bunu itiraf edecek kadar arsız bir camianın şike yapmaktan utanacağını düşünmek ise benim hatam.
-  entry_channels: spor
-- entry_name: |
-    9 mayıs 2018 muharrem ince ile erdoğan görüşmesi
-  entry_id:  76814346
-  entry_writer: evrenozd
-  entry_fav_count: 15
-  entry_content: |
-    akp genel merkezinde ağırlanan ince, akp genel başkanı sıfatlı kişinin karşısına kravatsız cıkmış. çok da güzel yapmış..<br/><br/>delirmiş bizim uzun belli, suratı bok çuvalı gibi..
-  entry_channels: siyaset,haber
-- entry_name: |
-    iç çamaşırı kalitesiz olan kadın
-  entry_id:  76807011
-  entry_writer: nikonlubirey
-  entry_fav_count: 12
-  entry_content: |
-    eğer bu çamaşırı gördüyseniz şanslısınızdır. <br/><br/>kadın evden bugün sevişmeyeceğim diyerek çıkmış, ama gece senin yatağında son buluyor. bir daha düşün bence.
-  entry_channels: ilişkiler
-- entry_name: |
-    doğu perinçek
-  entry_id:  76793898
-  entry_writer: bu sarki size gelsin hacilar
-  entry_fav_count: 11
-  entry_content: |
-    yukarıda arkadaşların söylediği gibi az önce fox tv'de "cumhurbaşkanı partili olmak zorunda"nın yanı sıra "millet ittifakına katılmadık çünkü onlar fetöden de hdp'den de vazgeçmediler" dedi. <br/><br/>sana bu 100 bin imza -akşama kadar toplayabilirsen tabi- bi 20 yıl yeter. elinde evir çevir oyna dur. bu kafayla senden bi bok olmaz.
-  entry_channels: siyaset,tarih
-- entry_name: |
-    en güzel bira
-  entry_id:  76801536
-  entry_writer: indio
-  entry_fav_count: 9
-  entry_content: |
-    evde kendi yaptığım biradır efenim. çünkü kuzguna yavrusu şahin gözükür <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,yeme-içme
+    muhtemelen bütün gün bu başlığa yazılacak ve bütün gün ekşicilerin ne kadar ağır derecede ruh hastası olduğunu çeşitli örnek ve benzetmelerle okuyacağız. <br/><br/>bu da yeni moda oldu amk. ben dengesizim, ben farklıyım, ruh hastasının, psikopatın önde gideniyim tripleri. <br/><br/>böyle yazıp sonra da ciddiye alınmayı bekler bir de pembe götlülüler. siz bu triplerle ancak üç beş mavi saçlı gotik kezbanla, üç beş keçi sakallı meriç düşürür, kendi aranızda sikişip durursunuz. muson yağmuru yemiş paslı balkon demiri kokunuzdan midem bulanıyor. <br/><br/>benim akıl sağlığıma gelince gayet yerinde. umarım ölene kadar da öyle kalır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://resmim.net/f/m8jweV.jpg">https://resmim.net/f/m8jwev.jpg</a>
+  entry_channels: anket,ekşi-sözlük,sağlık
 - entry_name: |
     sözlükçülerin parfümleri
   entry_id:  76795038
@@ -267,42 +299,18 @@ data:
     (bkz: <a class="b" href="/?q=fahrenheit">fahrenheit</a>)<br/><br/>evet yaşlandık artık.
   entry_channels: anket,ekşi-sözlük,moda
 - entry_name: |
-    #pınarürünleriboykot
-  entry_id:  76792946
-  entry_writer: calgonun duzeltemedigi camasir makinasi
-  entry_fav_count: 8
-  entry_content: |
-    sessiz sedasız bir şekilde gerçekleştirmeye devam ettiğim boykot. gerçi benim için boykottan çıktı, bir alışkanlık haline dönüştü. hiçbir şekilde ne tüketiyorum, ne de cevremin tuketmesine müsade ediyorum. boykotun başlamasına neden olayla alakalı bilgisi olmayana neden boykot ettiğim anlatıyorum. benim hayatımda pınar isimli bir marka artık yok.
-  entry_channels: siyaset,yeme-içme,ekonomi
-- entry_name: |
     faiz ve döviz kuru baskısını azaltacağız
   entry_id:  76811871
   entry_writer: sahip cikilan dede
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     cumhurbaşkanlığı’ndaki yaklaşık 2.5 saat süren ekonomi koordinasyon toplantısı sonrası yapılan açıklamadır. <br/><br/>cumhurbaşkanı recep tayyip erdoğan'ın başkanlığında yapılan ekonomi koordinasyon toplantısı sonrasında yapılan açıklamada, "faiz ve döviz kuru baskısını azaltmak, bununla birlikte enflasyonla daha etkin mücadele etmek için gereken tedbirler alınacaktır." ifadelerine yer verildi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bndl.tw/rgAB64Ne" title="http://bndl.tw/rgAB64Ne">kaynak</a><br/><br/>sanırım khk’lar yolda. doları 10 lira yapıp, 1 sıfır atacak ve ülkemiz refaha erecek.<br/><br/>edit: bak bak, harekete bak. temmuz’a kadar parasını türkiye’ye getirenden vergi alınmayacakmış. <a class="b" href="/?q=varl%c4%b1k+bar%c4%b1%c5%9f%c4%b1">varlık barışı</a> koydular ya adını da. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bndl.tw/qHrfoY3c" title="http://bndl.tw/qHrfoY3c">kaynak</a><br/><br/>“man adasındaki paraları mı getiriyorsunuz da vergileri kaldırdınız?” dese ya keşke ince ya da akşener.
   entry_channels: siyaset,haber
 - entry_name: |
-    ev işi yapan erkek
-  entry_id:  76812358
-  entry_writer: okunmaz adam
-  entry_fav_count: 7
-  entry_content: |
-    olması gereken erkektir.<br/><br/>o kezban analarınız sizi prens gibi yetiştirip hayatta kalmak için en basit yemek ve temizlik işlerinden bile anlamayan moronlara dönüştürünce, sırf hayati ihtiyaçlarınız karşılansın, yemeğiniz yapılsın, ütünüz yapılsın, temizliğiniz yapılsın diye ciğersiz kezbanın biriyle nabıyorsunuz, evleniyorsunuz. <br/><br/>"ay ne güzel ya, kız yemek yapıyööööör" diye bir kıza aşık olunur mu, geri zekalılar?<br/><br/>işte sonra böyle ömrünüz boyunca kezban karınızın tasmalı nesi olursunuz? iti olursunuz.<br/><br/>karını da arkanızdan her yere konuşur: "ay bıktım bunun boklu donlarını yıkamaktan, çoraplarını her yere atıyor, bi salata bile yapamıyor, ben ağzına lokmasını koymasam açlıktan ölecek."<br/><br/>hayır, kendinizi bu ezik duruma düşürmeye utanmıyorsunuz, bari karınızın çenesi biraz sıkı olsun, evinizdeki mahrem anlarınızı sağa sola anlatıp sizi madara etmesin. ama işte zaten o kocasına saygılı güzel kadını bulacak beyniniz olsa, bir kadına böylesine muhtaç kalmadan yaşayabilecek yetenekleri geliştirmeniz gerektiğini de fark ederdiniz. <br/><br/>bu yazdığımdan hangi sonuçları çıkardık:<br/>1-anneler erkek çocukları moron olarak yetiştiren medeniyet virüsleridir.<br/>2-erkekler kadınlar olmadan hayatta kalmayı beceremeyecek moronlardır.<br/>3-karınız diye sevdiğiniz ciğersiz kezban sırf prenses olup düğün yapmak, gelinlik giymek için, sizin hiçbir bok beceremeyen yeteneksiz bir mal olduğunuzu bile bile sizinle evlendiği halde, mahrem sırlarınızı sağa sola anlatan şerefsiz bir yaratıktır.<br/><br/>hadi şimdi bittiyse karınızı çağırın, gelsin götünüzü silsin.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    şiddet suçları ile ilgili yasa değişikliği
-  entry_id:  76797804
-  entry_writer: bmn
-  entry_fav_count: 6
-  entry_content: |
-    siyasi görüşümüz, yaşam tarzımız vb. farklı olabilir; ancak tüm bunlardan bağımsız hepimizin başına bir musibet gelmeden beraber olmalı farkındalık için çabalamalıyız.<br/><br/>basit bir yol verme mevzusunda bile yaralayıcı bir alet ile biz ve sevdiklerimiz zarar görebiliriz. başımıza geldiğinde çok geç olabilir, her bölgede karşımıza çıkabilecek bu insanlar en büyük cesareti yaptıklarının yanına kar kalmasından alıyorlar, ve de bizim sessiz kalmamızdan...
-  entry_channels: haber
-- entry_name: |
     sevişme isteği uyandıran şarkılar
   entry_id:  76799353
   entry_writer: minikpipilizenci
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=dlJew-Dw87I" title="https://www.youtube.com/watch?v=dlJew-Dw87I">duyar duymaz önümdeki ilk dişiye yazıyorum.</a>
   entry_channels: anket,ilişkiler,müzik
@@ -310,50 +318,66 @@ data:
     bir tabancayla yapılabilecekler
   entry_id:  76813010
   entry_writer: wohan
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     (bkz: <a class="b" href="/?q=intihar">intihar</a>)
   entry_channels: anket
 - entry_name: |
-    akp'ye ve seçmenine bir entry bırak
-  entry_id:  76810837
-  entry_writer: cigiltepe
-  entry_fav_count: 3
+    9 mayıs 2018 erdoğan'ın tahtında muhalefeti kabulü
+  entry_id:  76814908
+  entry_writer: cerkez prens
+  entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=say%c4%b1n+%c3%b6calan">sayın öcalan</a>)<br/>(bkz: <a class="b" href="/?q=ne+istediler+de+vermedik">ne istediler de vermedik</a>)<br/>(bkz: <a class="b" href="/?q=ben+bu+davan%c4%b1n+savc%c4%b1s%c4%b1y%c4%b1m">ben bu davanın savcısıyım</a>)<br/>(bkz: <a class="b" href="/?q=s%c4%b1f%c4%b1rla+bilal">sıfırla bilal</a>)
+    sorsan "itibar" derler...<br/><br/>itibar öyle tahtta oturmakla olmaz paşam !<br/><br/>yedi düveli dize getirip 72 çeşit düşmanı denize döken atatürk oturmadı o tahta.<br/><br/>çünkü itibar tahtta oturmakla değil, halkın gönlünde taht kurmakla elde edilir.
+  entry_channels: siyaset
+- entry_name: |
+    göztepe'nin galatasaray maçı açıklaması
+  entry_id:  76813889
+  entry_writer: yasli gittm sen geldim
+  entry_fav_count: 4
+  entry_content: |
+    (bkz: <a class="b" href="/?q=aha+%c5%9fimdi+s%c4%b1%c3%a7t%c4%b1lar">aha şimdi sıçtılar</a>) havaya girersen galatasaray sana da çakar merak etme.
   entry_channels: 
+- entry_name: |
+    9 mayıs 2018 özgür demirtaş'ın attığı tweet
+  entry_id:  76814452
+  entry_writer: pachelor reloaded
+  entry_fav_count: 4
+  entry_content: |
+    ışığım sana söylüyorum ampulüm sen anla demiştir.
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     sendeki bu ingiliz hayranlığı nereden geliyor
   entry_id:  76813946
   entry_writer: bozradagast
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     (bkz: <a class="b" href="/?q=hay%c4%b1r+enginar+seviyorum">hayır enginar seviyorum</a>)
   entry_channels: ilişkiler
 - entry_name: |
-    cem uzan
-  entry_id:  76804974
-  entry_writer: antispace
-  entry_fav_count: 2
-  entry_content: |
-    bbc röportajında görüldüğü üzere kendisi <a class="b" href="/?q=the+shining">the shining</a> filmindeki <a class="b" href="/?q=jack+nicholson">jack nicholson</a>'a dönüşmüştür.
-  entry_channels: siyaset,tv,haber,magazin,ekonomi
-- entry_name: |
-    bedelli askerlik
-  entry_id:  76793435
-  entry_writer: romoytimayer
-  entry_fav_count: 2
-  entry_content: |
-    milli savunma bakanı'nın “cumhurbaşkanı’mızın açıklaması son noktadır, bitmiştir. bu anlamda son söz o. ama konuşmasına bir bütün olarak bakmak lazım. bütün olarak baktığımızda… arkadaşlar artık o da sizin göreviniz… yorumum diye bir şey yok." şeklinde garip bir açıklaması olmuş. yani diyor ki padişahımız isterce çıkacaktır.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     sözlük nick'lerinden meslek tahmini yapmak
-  entry_id:  76790545
-  entry_writer: tasruk
-  entry_fav_count: 1
+  entry_id:  76794861
+  entry_writer: miracho
+  entry_fav_count: 2
   entry_content: |
-    1uye: sendikacı
+    <a class="b" href="/?q=maximusti">maximusti</a> internet kafe işlettiğine eminim.
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    akp'ye ve seçmenine bir entry bırak
+  entry_id:  76810675
+  entry_writer: cimbi
+  entry_fav_count: 2
+  entry_content: |
+    erduvan değil erdoğan.<br/><br/>16 yıldır doğrusunu öğrenemedin.<br/><br/><a class="b" href="/?q=edit">edit</a> ya adam 1 sayfa ilkeler bilmem ne üzerinden hikaye anlatıyor çomar okur da belki aklı başına gelir diye. ne anlatıyorsun ki bu davara ? eti ne budu ne ki bunun.<br/><br/><a class="b" href="/entry/76809242">#76809242</a> şu entriye cevaben dallamanın biri mesaj kutuma aahuuhahahuuahu şeklinde uludu. bakın yazdı, söyledi demiyorum, uludu diyorum.<br/><br/>cevaben nezaket sınırıları içerisinde, öğretici bişey yazayım da insanlık görsün diyerek şunu yazdım:<br/><br/>- "senin aklı başında bir vatandaş olarak adaleti fırsat eşitliğini savunmaz lazım. kepazelik bu."<br/><br/>bunun üzerine durur mu çomar efendi, yabıştırdı cevabı: zahuahauhauhahuahua<br/><br/>anca ulu a.q. çomarı. sonra çomar diyince kızıyosun ama.
+  entry_channels: 
+- entry_name: |
+    52 yaş büyük karısından 17 milyon miras kalan adam
+  entry_id:  76814366
+  entry_writer: erdlbbr
+  entry_fav_count: 2
+  entry_content: |
+    alan razı veren razı bize bok yemek düşer ama abimiz mantık evliliği değil vurgun yapmış. ne diyelim güle güle harcasın.
+  entry_channels: 
 - entry_name: |
     hdp'li seçmenin akşener'i ince'ye tercih etmesi
   entry_id:  76796778
@@ -363,37 +387,13 @@ data:
     moral bozmak istemem ama gezici'nin anketleri bizi her zaman <a class="b" href="/?q=s%c3%bckut-u+hayal">sükut-u hayal</a>e uğrattı. tek anketle yola çıkmamak, ümitlenmemek lazım.
   entry_channels: siyaset,haber
 - entry_name: |
-    20 mayıs 2018 göztepe galatasaray maçı
-  entry_id:  76803366
-  entry_writer: vts
+    ev işi yapan erkek
+  entry_id:  76811748
+  entry_writer: occaut
   entry_fav_count: 1
   entry_content: |
-    iki cihan bir araya gelse yine de <a class="b" href="/?q=do%c4%9fanlar">doğanlar</a>'da oynanacak maçtır. filanca stada aldırırız, falanca yerde oynarız diyenler boşuna heveslenmesin yani. <br/><br/>bizim taraftan bilet almayı düşünenler içinse çeşitli sürprizler olacak. piyango kime çıkarsa artık.
-  entry_channels: spor
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  76787830
-  entry_writer: anatolia2
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bir+zaman+hatas%c4%b1">bir zaman hatası</a>)
-  entry_channels: anket,müzik
-- entry_name: |
-    ılgaz çınar
-  entry_id:  76805486
-  entry_writer: yarasiz yuz
-  entry_fav_count: 0
-  entry_content: |
-    <a class="b" href="/?q=galatasaray">galatasaray</a> taraftarı futbol yorumcusu. daha önce birkaç defa söylemişti.
-  entry_channels: spor,tv
-- entry_name: |
-    göztepe'nin galatasaray maçı açıklaması
-  entry_id:  76813889
-  entry_writer: yasli gittm sen geldim
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=aha+%c5%9fimdi+s%c4%b1%c3%a7t%c4%b1lar">aha şimdi sıçtılar</a>) havaya girersen galatasaray sana da çakar merak etme.
-  entry_channels: 
+    ev işine çok karışmam hele mutfağa hiç girmem. ama geçen gün salçayı bicaklarken yakaladım zor kurtardım elinden<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/EPXd4z.jpg">https://i.hizliresim.com/epxd4z.jpg</a>
+  entry_channels: anket,ilişkiler
 - entry_name: |
     9 mayıs 2018 online ekşi satranç turnuvası
   entry_id:  76807060
