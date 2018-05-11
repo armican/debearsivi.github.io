@@ -6,7 +6,7 @@ data:
     dolardaki artışı kabul etmiyorum
   entry_id:  76864279
   entry_writer: eksi peace
-  entry_fav_count: 1550
+  entry_fav_count: 1577
   entry_content: |
     (bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcyor+mu+b%c3%b6yle">düşüyor mu böyle</a>)
   entry_channels: siyaset,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     didem soydan'ın takipçisine verdiği ayar
   entry_id:  76870176
   entry_writer: wohan
-  entry_fav_count: 581
+  entry_fav_count: 588
   entry_content: |
     bunun için başlık açan gerizekalı yazardan farkı olmayan takipçidir.
   entry_channels: magazin
@@ -22,7 +22,7 @@ data:
     ikinci turda muharrem ince'ye destek vermeyiz
   entry_id:  76853171
   entry_writer: koministimam2
-  entry_fav_count: 533
+  entry_fav_count: 534
   entry_content: |
     “<a class="b" href="/?q=biz+bu+evde+10+orospuyuz+10umuz+birle%c5%9fsek+senin">biz bu evde 10 orospuyuz 10umuz birleşsek senin</a> <a class="b" href="/?q=gibi+bir+orospu+%c3%a7ocu%c4%9fu+do%c4%9furamay%c4%b1z">gibi bir orospu çocuğu doğuramayız</a>”<br/><br/>diyen emekçi ablayı getirdi akıllara...<br/><br/>`edit:` yav amk bu saçma twit bile doğu perinçek’in partisinin aldığı oydan fazla fav almış. bu neyin artistliği anlamadım. <br/>sen destek falan verme arkadaş, sen kimsin ki desteğin ne olsun? nedir bu adamdaki bu hava anlamadım yıllardır, taşa sikini sürtüp dağı siktim kafasında herif. <br/><br/><a class="b" href="/?q=edit">edit</a>: olum mesaj atıp durmayın lan yeter artık, sağdaki resim ekrem dumanlı:)<br/>ekrem dumanlı kim diye de sorarsanız valla söverim haaa!<br/><br/>bu arada bu fotoğraf da sana <sup class="ab"><a title="(bkz: yanlış anlama da)" href="/?q=yanl%c4%b1%c5%9f+anlama+da" data-query="yanlış anlama da">*</a></sup> <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/2JLQvA.png" title="https://i.hizliresim.com/2JLQvA.png">girs... neyse</a>
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     evli kadınla birlikte olmak
   entry_id:  76856800
   entry_writer: antipartizan
-  entry_fav_count: 487
+  entry_fav_count: 490
   entry_content: |
     yazar değilken bu tür başlıklara yazılanları okuduğum zaman sinir olur fakat sesimi duyuramazdım. artık yazarım ve söyleyebilirim. bu tür bir ilişkiyi yaşayan, normalleştirmeye çalışan kim varsa hepiniz adi ve şerefsizsiniz. umarım yaşattığınızı yaşamadan ölmezsiniz. siz sormadan söyleyeyim hayır böyle bir durumun öznesi olmadım sadece ne kadar berbat bir şey olduğunu görebiliyorum. sevmiyorsan boşan ne halt yiyorsan ye kimin umurunda? yok ben boşanmayayım kocamı aptal yerine koyayım hem hayatımı yaşayayım hem de düzenimden olmayayım diyorsan pisliğin tekisin. bir de bunların kocasının kazandığı para ile sevgililerine hediye alanları, para yedirenleri var. ulan nasıl vicdanınız el veriyor be bu nasıl adilik? aynı şey tam tersi durum için de geçerlidir. çok daha farklı, kallavi bir yazı yazardım da küfüre karşıyım.
   entry_channels: ilişkiler
@@ -38,7 +38,7 @@ data:
     israil iran savaşında laiklerin tutacağı ülke
   entry_id:  76854938
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 455
+  entry_fav_count: 463
   entry_content: |
     savaşa karşıyız.<br/>tutacağımız tek taraf kendi ülkemizin çıkarları olacaktır.<br/>tehdidin bize de yönelmemesi için siperleri kazacağız.<br/><br/>birbirlerini yiyebilirler. tarafsız olmak, savaşa girmemek bu ülke insanlarının her birisinin aziz canını savunmak için en güzel davranıştır.<br/><br/>ayrıca bu iki ülkenin savaşmaması için de gerekli çaba gösterilir.<br/><br/>ama aktroll kardeşim yarın birileri yahudi cesaret madalyasına bakıp tarafını seçerse üzülme emi.
   entry_channels: siyaset,anket
@@ -46,39 +46,31 @@ data:
     la ilahe illallah yazılı bira şişesi
   entry_id:  76873750
   entry_writer: quat
-  entry_fav_count: 332
+  entry_fav_count: 345
   entry_content: |
     valla sıkıntı ülke bayrağına allah lafzı yazan dangalaklardan başlıyor. ne de olsa savaşta mızrağın üzerine kuran takarak savaş kazanmaya çalışan yezitlerin torunları. <br/><br/>örneğin ben bu yavşaklara karşı savaşsam müslüman olarak o bayrağın olduğu uçağı düşürmeyecek, gemiyi batırmayacak mıyım? <br/><br/>kimse kusura bakmasın ibnelik suudilerden başlıyor.
   entry_channels: haber,yeme-içme
 - entry_name: |
-    plajda bira içen insan
-  entry_id:  76860893
-  entry_writer: bana bi de bakem
+    köfteci yusuf'taki takım türbanlı kasiyerler
+  entry_id:  76880585
+  entry_writer: forlife
   entry_fav_count: 283
   entry_content: |
-    benim lan bu, bira bitince de denize girerim çıkınca birtane daha içerim. bira içmiycez de o sıcakta rakı mı içicez anlamadım ki, yanlış mı yapıyoruz.<br/><br/>edit: bu kadar favlanınca anladım ki herkes yazı özlemiş, yoksa öyle beğenilecek bir entry değil, sadece olanı yazdım.
+    bizim ülkeye ve insanına fazla yükleniyorlar. yok işte bilim adamı çıkmıyormuş, seçim sonuçlarıymış, teknoloji yokmuş, gücü ele geçiren baskıyı kuruyormuş vs. çok büyük haksızlık. kapasite bu kadar kardeşim. sen bu ülke insanına dayayacaksın galatasaray'ı fenerbahçe'yi, başı açık mı kapalı mıyı, bizim köy mü karşı köy müyü, türk mü kürt mü, alevi mi sünni mi.<br/><br/>bak adam üşenmemiş başlık açmış, daha da üşenmemiş fotoğraf çekip internete yüklemiş. şimdi tartışalım bu konuyu hep birlikte. on yıl daha, yüz yıl daha bin yıl daha, on bin yıl daha tartışalım. ha bu arada benzine zammış, niteliksiz eğitimmiş, demokrasiymiş. salla gitsin. sen köfteciye odaklan köfteciye.<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27deki+hi%c3%a7bir+kesimin+kaliteli+olmamas%c4%b1">türkiye'deki hiçbir kesimin kaliteli olmaması</a>)
   entry_channels: yeme-içme
 - entry_name: |
     temel karamollaoğlu'nu sinirlendiren kadın
   entry_id:  76878699
   entry_writer: hadi cocuklar sagdan bunalttik
-  entry_fav_count: 243
+  entry_fav_count: 277
   entry_content: |
     parayla tutulmus bir provakatordur, sadece basit bir kadin degildir. secim yaklastikca cok daha fazla provakator muhalefetin ustune yollanacaktir.
   entry_channels: siyaset,haber
 - entry_name: |
-    köfteci yusuf'taki takım türbanlı kasiyerler
-  entry_id:  76880585
-  entry_writer: forlife
-  entry_fav_count: 204
-  entry_content: |
-    bizim ülkeye ve insanına fazla yükleniyorlar. yok işte bilim adamı çıkmıyormuş, seçim sonuçlarıymış, teknoloji yokmuş, gücü ele geçiren baskıyı kuruyormuş vs. çok büyük haksızlık. kapasite bu kadar kardeşim. sen bu ülke insanına dayayacaksın galatasaray'ı fenerbahçe'yi, başı açık mı kapalı mıyı, bizim köy mü karşı köy müyü, türk mü kürt mü, alevi mi sünni mi.<br/><br/>bak adam üşenmemiş başlık açmış, daha da üşenmemiş fotoğraf çekip internete yüklemiş. şimdi tartışalım bu konuyu hep birlikte. on yıl daha, yüz yıl daha bin yıl daha, on bin yıl daha tartışalım. ha bu arada benzine zammış, niteliksiz eğitimmiş, demokrasiymiş. salla gitsin. sen köfteciye odaklan köfteciye.<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27deki+hi%c3%a7bir+kesimin+kaliteli+olmamas%c4%b1">türkiye'deki hiçbir kesimin kaliteli olmaması</a>)
-  entry_channels: yeme-içme
-- entry_name: |
     40 yaşında problemli bekar müdür kadın
   entry_id:  76873645
   entry_writer: deadastronautinspace
-  entry_fav_count: 204
+  entry_fav_count: 210
   entry_content: |
     çektirdiği insanlar da arkasından dedikodu yapar. 'biri şunu sikmeye başlasa da bizi sikmeyi bıraksa.' diye.<br/><br/>edit: bir üstteki entryi yazan arkadaşın tasvip edip etmemesini önemsemiyorum. millet arkasından böyle dedikodu yapıyor mu? e yapıyor. ben onu diyorum. ''hadi gidelim, sikelim.'' demiyorum yani.
   entry_channels: anket,ilişkiler,ekonomi
@@ -86,7 +78,7 @@ data:
     ince'nin sanayi 4.0 vaadi
   entry_id:  76877542
   entry_writer: well cooked
-  entry_fav_count: 197
+  entry_fav_count: 203
   entry_content: |
     akp'den beklenen kapak gecikmemiş ve 100 bin yeni imam sözü tokat gibi suratlara çarpmıştır!<br/><br/>(bkz: <a class="b" href="/?q=imam+hatipler+kapat%c4%b1ls%c4%b1n">imam hatipler kapatılsın</a>)
   entry_channels: siyaset,bilim,eğitim,ekonomi
@@ -94,25 +86,33 @@ data:
     kediler evde yaşamaktan memnun mu
   entry_id:  76875192
   entry_writer: katirci bedri
-  entry_fav_count: 182
+  entry_fav_count: 197
   entry_content: |
     "kediler herhangi bir şeyden memnun mu" şeklinde değiştirilmesi gereken başlık. suratlarında hep bir memnuniyetsizlik, hep bir "daha iyisi olabilirdi" ifadesiyle gezen başka hayvan görmedim.
   entry_channels: anket,bilim
 - entry_name: |
+    chp çöplüktür pisliktir
+  entry_id:  76867009
+  entry_writer: yohh artik
+  entry_fav_count: 175
+  entry_content: |
+    bu mu cumhurbaşkanı? ülkeyi yöneten insan bu mu? gençlere hitap ederken örnek olacak şahıs bu mu? bir ülkenin itibarını bu dil ile ön plana çıkaracak olan başkan adayı bu mu? <br/>1993 ten örnek vermiş. çok uzak değil yakın tarihe bakalım, soma'da ki faciayı hatırlatalım kendisine. işçileri tekmeleyen danışmanları gösterelim. bu durumda akepe ne oluyor? halk düşmanı, barbar, vahşi yaratıklar mı? neyse terbiyemi bozmayım, ona benzemek istemiyorum
+  entry_channels: siyaset
+- entry_name: |
     11 mayıs 2018 konsenseus seçim anketi
   entry_id:  76870497
   entry_writer: meslekden cikip ituden mezun olan adam
-  entry_fav_count: 171
+  entry_fav_count: 173
   entry_content: |
     hdp'nin bir kısmı mhp'ye kaymış gibi görünüyor. `:)`
   entry_channels: siyaset,anket,haber
 - entry_name: |
-    chp çöplüktür pisliktir
-  entry_id:  76867009
-  entry_writer: yohh artik
-  entry_fav_count: 165
+    ak parti'nin 16 yılda 4 milyar fidan dikmesi
+  entry_id:  76869278
+  entry_writer: alpyoruc
+  entry_fav_count: 164
   entry_content: |
-    bu mu cumhurbaşkanı? ülkeyi yöneten insan bu mu? gençlere hitap ederken örnek olacak şahıs bu mu? bir ülkenin itibarını bu dil ile ön plana çıkaracak olan başkan adayı bu mu? <br/>1993 ten örnek vermiş. çok uzak değil yakın tarihe bakalım, soma'da ki faciayı hatırlatalım kendisine. işçileri tekmeleyen danışmanları gösterelim. bu durumda akepe ne oluyor? halk düşmanı, barbar, vahşi yaratıklar mı? neyse terbiyemi bozmayım, ona benzemek istemiyorum
+    (bkz: <a class="b" href="/?q=ak+parti+nin+16+y%c4%b1lda+4+milyar+insan+sikmesi">ak parti nin 16 yılda 4 milyar insan sikmesi</a>)
   entry_channels: siyaset
 - entry_name: |
     doksanları en iyi ifade eden otomobil
@@ -123,10 +123,26 @@ data:
     fiat (bkz: <a class="b" href="/?q=tempra">tempra</a>) <br/>gerek elektronik göstergesi gerek tipi bence doksanların özeti
   entry_channels: anket,tarih,otomotiv
 - entry_name: |
+    10 mayıs 2018 fenerbahçe akhisar maçı
+  entry_id:  76853566
+  entry_writer: crazyspecialist
+  entry_fav_count: 107
+  entry_content: |
+    akhisarspor'un sahaya çıkmasıyla aykut kocaman'ın bütün planlarının bozulduğu maç. <br/><br/>iktidar ile el ele verip şerefsizlikle ağlaya ağlaya çıktığınız bir finalde daha rezil olup evinize döndünüz. <br/><br/>tebrikler akhisarspor.
+  entry_channels: spor
+- entry_name: |
+    torpille yüksek mevkilere gelen insan
+  entry_id:  76867576
+  entry_writer: karabasan811
+  entry_fav_count: 106
+  entry_content: |
+    ahlaksız düzenin, ahlaksız insanlarıdır. itiraf edemeseler bile kendilerine hiçbir zaman saygıları olmayacaktır. ve başkalarından, hakemetmedikleri mevkii için saygı beklerler. vicdan azabı çekerek geberirler umarım.
+  entry_channels: siyaset,anket
+- entry_name: |
     155'i ararım diye kadını tehdit eden yobaz dayı
   entry_id:  76861536
   entry_writer: detmold
-  entry_fav_count: 96
+  entry_fav_count: 98
   entry_content: |
     ezberlenmiş yalanlarına tek tek cevap verecek aşamayı çoktan geçtik. neden mi? cevap verilen yıllarda, cevap verenleri hapislerde çürüttüler, aynı videoda olduğu gibi 155'i ararım demesi de bundan kaynaklanmaktadır. halen de cevap veren gazeteciler işlerinden olmakta, öğrenciler göz altına alınmakta, vatan haini ilan edilmektedir. <br/><br/>laikliğin en güzel şimdi yaşanmadığını, eskiden türkiye'nin daha demokratik olduğunu cevap olarak vermek gerekiyorsa, (yukarıda cevap veremiyorsunuz hakaret ediyorsunuz diyen kişiye istinaden) kesin ve net bir şekilde bu cevabı iletelim. ancak zaten odada bir fil var demek gibi bir şey, ya da ateş yakar, gökyüzü mavi demek gibi. bunu anlayamayan ve inatla ve hatta kimileri bilmekle beraber kasten odadaki fil değil yılan, gökyüzü yeşil, ateş yakmaz diyenlere ne anlatabilirsin? fetö terörist dediğimizde terbiyesizdik, siz ortaktınız ülkeyi bu hale siz getirdiniz, ne istedilerse verdiniz, devlete, askeriyeye siz yerleştirdiniz dediğimizde ise fetöcü diyorlar. <br/><br/>çomar deyip geçmek en tatlısı.
   entry_channels: siyaset,haber
@@ -134,7 +150,7 @@ data:
     çizgi film tarihinin en iyi yan karakteri
   entry_id:  76871240
   entry_writer: rocky43
-  entry_fav_count: 83
+  entry_fav_count: 95
   entry_content: |
     (bkz: <a class="b" href="/?q=devlet+bah%c3%a7eli">devlet bahçeli</a>)
   entry_channels: anket,tv
@@ -147,22 +163,6 @@ data:
     erdogan’dan bugun gelen ikinci sifre. <br/><br/>“sıkıldınız biliyorum”<br/><br/>“s ı k ı l d ı k”. sıkıldım.
   entry_channels: siyaset,anket,haber
 - entry_name: |
-    çorum'da mezarda ağlayan kızın esrarının çözülmesi
-  entry_id:  76875468
-  entry_writer: one thirty eight
-  entry_fav_count: 80
-  entry_content: |
-    sikeyim esrarını amına koyim allah'ın çorum'unda ne kadar fantastik bir olay olabilir ki?
-  entry_channels: haber
-- entry_name: |
-    2018 ekonomik krizi
-  entry_id:  76853684
-  entry_writer: nbafan
-  entry_fav_count: 73
-  entry_content: |
-    bugünlerde sözlükte birçok konuda ''ekonomik sorunlar nasıl çözülür'' diye soruluyor. bu sorunun özetinin özeti bile kitap olur o yüzden sadece belli konularda cevap vermek mümkün.<br/><br/>öncelikle ana problem ne? küresel şartların bozulması. (bkz: <a class="b" href="/entry/76109779">#76109779</a>) ne yapılabilir? hiçbir şey yapılamaz, çözüm amacı taşınıyorsa uygun şartların ileride tekrar ortaya çıkması beklenir. uzun yıllardır sorunların çözmek için çok uygun zaman vardı harcandı ama illa ki yine uygun şartlar ortaya çıkacaktır.<br/><br/>peki küresel hava değişse kriz çıkmayacak mı? çıkacak , sadece zamanı değişecek. nedeni ise türk ekonominin en büyük sorunu "enflasyon" olacak.<br/><br/>öncelikle şunu belirtelim türkiye'de enflasyon sorunu hiçbir zaman çözülmedi, 2001 krizinden 2008 krizine kadar geçen dönemde iyi yönetim+imf baskısı+ küresel şartlar etkisiyle sıkıntı çıkarmayacak bir dönem yaşandı ki o dönemde dünyaya göre enflasyonumuz kötüydü ama bunun dışında hiçbir dönem enflasyon problem olmaktan çıkmadı(çok eski zamanları bilmem) bunun da asıl sebebi merkez bankası politikaları.<br/><br/>dünyada enflasyon mücadelesi enflasyonu ortaya çıkarmamak üzerine yapılır, türkiye'de ise bu mücadele enflasyonu ortadan kaldırmak üzerine yapılıyor yani enflasyon yükselirken izleniyor ardından ise bedel ödenip çözüm aranıyor en başta bu kafanın değişmesi lazım. peki mümkün mü ? değil. neden değil ?<br/><br/>türkiye'de enflasyon ile mücadele etmek demek halk ile mücadele etmek demektir; enflasyon sorununu çözerseniz halk sizi yönetimden indirir ve enflasyon problemi ortaya çıkaracak yönetimi getirir. enflasyon ile mücadele etmezseniz ekonomik kriz gelir ve halk sizi yine indirir yerinize ülkeyi toparlayıp tekrar enflasyon problemi üretecek yönetimi bulur.<br/><br/>halk neden enflasyona muhtaçtır? hemen yanınızda avrupa varken milyonlarca gurbetçi,turist,internet ile dünya ile ciddi etkileşim içinde olan türk halkı refah istiyor, dünyadaki standartları yaşamak istiyor diğer taraftan ülkenin ekonomik durumu vasat/ vasatüstü refahı sağlayabilecek kapasitede, yaşanılan refah ise kapasitenin çok üstünde. bu nasıl sağlanıyor ?<br/><br/>- borçlanma şartlarını kolaylaştırıyor. enflasyon üretiyor.<br/>-ürettiğinden fazla tüketimi engellemiyor. biraz daha açık ifade edilirse ithalat ile mücadele edilmiyor/edilemiyor sonra da cari dengemiz bozuluyor. bu da bize yine enflasyon(döviz kurları üzerinden) olarak dönüyor.<br/>-her uygun şart bulduğunda tüketim destekleniyor(kredi kartları, borç imkanında kolaylaşma, vergi afları, teşvikler vs. vs.) sonra yine gelsin enflasyon.<br/><br/>bu politikalar nasıl son buluyor? her defasında aynı ''kriz''<br/><br/>peki kriz çıkarmayacak yönetimlere ne oluyor? değişim.<br/><br/>kısacası türk toplumu için kriz kaçınılmazdır. (bkz: <a class="b" href="/entry/75964149">#75964149</a>), (bkz: <a class="b" href="/entry/75974020">#75974020</a>) şu iki girdide istemli ya da istemsiz krizin/ekonomik zorluğun kaçınılmaz olduğunu açıklamaya çalıştım. peki bu kriz ya da ismi her ne olursa olsun yaşandıktan sonra ne olacak? yine yukarıda anlattığım sebepler dolayısıyla bir sonraki krizin sebepleri ortaya çıkacak.<br/><br/>peki çözüm ne? halkın refah talebine cevap vermek ama ekonomik göstergeleri bozmamak. yani daha basit ifadeyle 1 ekmek 1lira iken 1 lira para basmak yerine 1 ekmek daha üretip 1 lira parayla 2 ekmek almak. <br/><br/>bu nasıl sağlanır ''üretim artırılarak'' ama üretim artırmak ifade etmek kadar kolay değildir. türkiye'de üretim artırarak enflasyonu dizginlemek istiyorsanız trilyonlarca $ ile ifade edilen rakamlarda yatırıma ihtiyaç vardır. bunu iki yönlü sağlarsınız iç borç(tasarruf), dış borç (döviz kuru yoluyla enflasyon) ve dış yatırım. iç borç ile böyle bir üretime ulaşacak tasarrufumuz yok.<br/><br/>dış borç ile böyle bir yola girersek enflasyon ile mücadele etmek için enflasyona başvurma gibi bir yöntem ile karşılaşırız yani mümkün değildir.(o borç döviz kuru&gt;enflasyon olarak geri dönecek) dış yatırımı teşvik ederek de çözüm mümkün değil çünkü türkiye tarihinde 50 milyar $ yatırım almadı(şu an inşaat ağırlıklı 10 milyar $ civarında) bunun 100 kat artmasını ifade etmek hayal görmektir.<br/><br/>izlenebilecek yol nedir? son zamanlarda gördüğümüz ''nokta atış teşvikler'' ile getirisi çok bedeli az adımlar atılabilir; yani stratejik ürün üretme. güney kore bu yöntemle gelişmekte olan ülke sınıfını atladı ve teorik olarak bizim için de mümkün. nasıl diye sorarsanız kısaca açıklayayım g. kore ne yaptı ?<br/><br/>g. kore bizim yaptığımız gibi toptancı teşvikler, aflar vs. yerine hedef teşvikler verdi; bu teşviklerin ekonomiye olumsuz etkisini ise başka yerlerden kapattı. yani bir ürüne teşvik verip başka ürüne vergi getirmek gibi. çok kaliteli bir planlama ile bu plan başarılı oldu. 2006'da türkiye ile g.kore kişi başı milli geliri aşağı yukarı aynıydı (!)<br/><br/>türkiye'de böyle bir finansman imkanı var mı?<br/><br/>görünürde yok ama iyi bir planlamayla oluşturulabilir.normal şartlar altında bir tahvilin getirisi vade artıkça yükselir ama gelecek beklentisi tahvil getiri eğrisini bozar. mesela şu an türkiye'de 2 yıllık faiz(tüketim,ticari ) %16'ya yaklaşmışken 10 yıllık faiz(yatırım) %14'ü henüz aştı. enflasyon ile mücadele edilecekse gösterge faiz %20-25'lere çıkması kaçınılmaz; (bkz: <a class="b" href="/entry/75974020">#75974020</a>) bu durumda mevcut tahvil eğrimiz bayağı bozulur 10 yıllık tahvilimizin getirisi %10'ların altına iner(enflasyonun yok olacağı fiyatlanır). buna devlet katkısı da gelirse türkiye'de ciddi şekilde yatırım yapılabilir. <br/><br/>peki bu kadar basit midir? ya da g.kore'nin yolunu aynen izlesek başarılı olur muyuz? başarıdan kastedilen şeye göre değişir; kriz döngümüz değişir(daha uzun süre de daha büyük krizler üretiriz) ama gelişmiş ülkeler sınıfına giremeyiz,istediğimiz refaha ulaşamayız; bunlara ulaşmak için türk ekonomisinin en büyük -şahsi fikrim- ikinci sorunu önümüze çıkar. ''verimlilik'' ülkece verimliliğimizi artırmadığımız müddetçe gelişmiş ülke olamayız. bu girdi çok uzadığı için başka bir girdide anladığım kadarıyla ''verimlilik'' sorununu yazıp buraya link bırakacağım.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     ekşi sözlük hesabını satmak
   entry_id:  76858698
   entry_writer: cemaat abisi
@@ -171,21 +171,21 @@ data:
     hapse girmek problem değil diyene satılık hesap
   entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
-    okuduğun üniversiteyi söylemeden anlat
-  entry_id:  76868323
-  entry_writer: lakinamafakat
-  entry_fav_count: 65
-  entry_content: |
-    cumhurbaşkanı bile adını söylemekten imtina ediyor.
-  entry_channels: anket,eğitim
-- entry_name: |
     seks esnasında siyasetçi gibi konuşmak
   entry_id:  76874945
   entry_writer: death is the bitch
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     (bkz: <a class="b" href="/?q=beklenen+esprilerin+art%c4%b1k+gelmiyor+olu%c5%9fu">beklenen esprilerin artık gelmiyor oluşu</a>)
   entry_channels: anket,ilişkiler
+- entry_name: |
+    okuduğun üniversiteyi söylemeden anlat
+  entry_id:  76868323
+  entry_writer: lakinamafakat
+  entry_fav_count: 67
+  entry_content: |
+    cumhurbaşkanı bile adını söylemekten imtina ediyor.
+  entry_channels: anket,eğitim
 - entry_name: |
     yeni özelleştirme hazırlıklarımız var
   entry_id:  76876285
@@ -195,26 +195,18 @@ data:
     satılacak pek bir şey kalmadığına göre kendi seçmenlerini gözden çıkaracaklarını düşündüğüm açıklama.<br/><br/>önden şu paralı aktrolleri gönderebilirler, malum satılmaya alışıklar.<br/><br/>bence olumlu.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    sevilmediğini kabullenmek
-  entry_id:  76873120
-  entry_writer: butterflytruelove
-  entry_fav_count: 60
+    aykut kocaman
+  entry_id:  76853569
+  entry_writer: avusturya macaristan krali
+  entry_fav_count: 55
   entry_content: |
-    bence kabullenmek dünyanın en huzur verici eylemlerinden biri. <br/>ilk gençlik yıllarımda çok sevdiğim halde sevilmediğimde üzülür, ''ya ne yaptım da bu insan beni sevmiyor'' derdim. bu bazen bir arkadaş bazen de bir erkek için olurdu. bazen hiç ekstra bir şey yapmadığım halde beni çok seven , ilgilenen insanlar olurdu. işte o zaman bu sevme işinin bir kuralı olmadığını anladım. çok sevdiğim '' aman tanrım'' filminde şöyle bir replik var;<br/><br/>bruce: özgür iradeye dokunmadan insanların sevgisini nasıl kazanabilirim?<br/>tanrı: dünyama hoşgeldin. bulursan bana da haber ver.<br/><br/>bazen yanıbaşımızdaki insanlar bizi anlamaz iken, kilometrelerce öteden insanlar kalbimizin sesini duyar. bazen hayatımızda kimseye yapmadığımız fedekarlıkları yaptığımız insanlar bize sırtını döner, bizden hiç bir çıkarı olmayanlar bize kucak açar. <br/>insanlardan beklenti içine girmeden, koşulsuz severseniz emin olun karşınıza sizi seven insanlar çıkacaktır. ve finalde huzur garanti.. hem de yara almadan, hayal kırıklıgına uğramadan..<br/><br/>sevilmediğini kabullenmek zor ve acılı bir süreçtir. zaman zaman canınız çok yanar. ama sevmek böyle bir şeydir, acısı/ tatlısı, hüznü/mutlulugu ile bir bütündür. <br/>la edri' nin harika bir sözü var; <br/>insanlar sizden uzaklaştığı zaman, bırakın gitsinler. bu, kaderinizin onlara bağlı olduğu veya onların kötü insanlar olduğu anlamına gelmez. <br/>onların sizin öykünüzdeki rollerinin son bulduğu anlamına gelir.<br/><br/>yeni öyküler yazın, unutmayın hayatınızın başrolü sizin. mutlu olmayı ve sevmeyi seçin. her şeye ve herkese rağmen...
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    muharrem ince
-  entry_id:  76854009
-  entry_writer: healtheworld
-  entry_fav_count: 57
-  entry_content: |
-    hdp demek pkk demekse her istediğini yapan akp kapatsın hdp'yi. eğer kapatmıyorsa demokrasinin gerektirdiği şekilde meclisteki her partiyle görüşen chp'ye söz söyleme hakkı yoktur. çözüm sürecinde chp bas bas bağırıyordu pkk ile masaya oturmak yerine hdp'yi muhattap alın diye. ancak akp direkt teröristbaşıyla görüşmeyi tercih etti. hdp'yi muhattap bile almadı. troller bu kadar kudurduğuna göre muharrem ince doğru yolda demektir.
-  entry_channels: siyaset,haber,eğitim
+    galibiyet için herşey mübahtır zihniyetinin ülkemizdeki en büyük temsilcisi ikiyüzlü futbol faşisti.<br/><br/>ergenliğimde bu şahıs çıkıp trabzon maçında gol attıktan sonra insani laflar etmiş, sonrasında da ali şen tarafından kulüpten sürülmüş, bunun sonucu olarak bizim kuşakta her takımdan taraftarın saygısını ve sevgisini kazanmıştı.<br/><br/>ya o zaman söylediklerinde de samimi değildi ya da o dönem travma yaşayıp kendini inkar etmeye başladı. görüntüde mütevazı, efendi bir karakter ama icraatte onu göremiyoruz. <br/><br/>hayır bu adam yeni böyle olmadı. sadece sinsi sinsi röportajları ve yorumları değil onu kötü yapan. bakın başka teknik direktörler altında gayet efendi takılan oyuncular bu adamın yönetiminde canavara dönüşüyor. ulan volkan demirel bile bu gittikten sonra efendi efendi takılıyordu, senede bir iki ufak gerilimden ibaretti. bilica, lugano gibi en agresif örneklerin bu adam döneminde iyice azma örneklerini vermeyeceğim. <br/><br/>raul meireles kariyerinde 3 kırmızı kart gördü. üçü de bu adamın teknik direktörlüğünde. bir de kırmızı kart görmediği tombala vakası var. ayrıca kırmızı görmesi gereken ve atlanan pozisyonlar da cabası. ve bu adam o kadar kariyerinde, o kadar farklı teknik direktör ile, üst seviye maçlarda bir tane bile kırmızı kart görmedi. çift sarıdan bile görmedi.<br/><br/>dirk kuyt hayranı olduğum futbolculardan. ama fenerbahçede her karara itiraz eden, rakip futbolcularla dalaşan birine dönüştü. premier ligde 208 maçta gördüğü sarı kart sayısı türkiyede 95 maçta gördüğünden bir fazla. <br/><br/>alex de souza kariyeri boyunca iki kırmızı kart gördü. biri daum biri bunun döneminde. <br/><br/>ersun yanal'ın kuyusunu kazıp kocamanı geri getirmeye çalışan grubu hatırlayalım: volkan, bekir, gökhan, emre, selçuk, emenike. <br/><br/>bu akşam da bir fair play hadisesi yaşandı. akhisarlı futbolcu sahayı sakatlanarak terk etti. akhisarlı futbolcular topu taca attıkları için geri verilmesini bekliyordu. gelmedi. ilk kez mi oldu? hayır. <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://m.posta.com.tr/fenerbahcenin-attigi-gol-skandaldir-haberi-135974" title="http://m.posta.com.tr/fenerbahcenin-attigi-gol-skandaldir-haberi-135974">http://m.posta.com.tr/…gol-skandaldir-haberi-135974</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://turkungucu.com/ridvan-dilmen-ozanin-attigi-gol-fair-play-ruhuna-aykiri/" title="http://turkungucu.com/ridvan-dilmen-ozanin-attigi-gol-fair-play-ruhuna-aykiri/">http://turkungucu.com/…gol-fair-play-ruhuna-aykiri/</a><br/><br/>bakın teknik direktör kim? (eleştiren de aziz ve aykutun en samimi kankası rıdvan) <br/><br/>jannsen'in kendini yere atma denemesinde beceriksizliği bu hareketi daha önce başka antrenörler yönetiminde denemediğinin ispatı gibiydi.<br/><br/>yıllar önce bu adam görevdeyken aziz ve tayfası ile ortamı germesi sonucu fenerbahçe tüm kulüpler ile düşman pozisyonuna gelmişti. yine öyle olmasına az kaldı. <br/><br/>aziz yıldırım yönetiminde şampiyon olan teknik direktörler bile kovulabilirken, şampiyon olmadığı halde takımın başında sonraki sezonu görebilen tek hoca olması, cristoph daum ile birlikte tekrar göreve gelen ikinci hoca olması da azizle uyumları konusunda bir işaret (ki daum bence en başarılı fenerbahçe teknik direktörü idi, aykutun böyle bir sicili de yok) temennim kankası azizi de alıp siktir olup gitmesi. ki bir galatasaraylı olarak bunun fenerbahçenin başarısını arttıracağına emin olmama rağmen söylüyorum.
+  entry_channels: spor
 - entry_name: |
     ak parti'nin 14 yılda 120 adet üniversite yapması
   entry_id:  76869667
   entry_writer: celiktepe stayla
-  entry_fav_count: 47
+  entry_fav_count: 48
   entry_content: |
     burada malın teki bi şeyler yazmıştı. silip kaçmış gitmiş. o yüzden buraya cevap vermeye falan gerek yok. kimse yazmasın, sessiz sakin arkalarda kaybolsun bu başlık.<br/><br/>(bkz: <a class="b" href="/?q=%c3%bcniversite+yapmak">üniversite yapmak</a>)<br/>(bkz: <a class="b" href="/?q=bunun+hocas%c4%b1+az+olmu%c5%9f">bunun hocası az olmuş</a>)
   entry_channels: siyaset,haber,eğitim
@@ -222,26 +214,10 @@ data:
     özel okul mu 21 yaşında 2 milyon tl mi sorunsalı
   entry_id:  76879548
   entry_writer: silinen yazar
-  entry_fav_count: 37
+  entry_fav_count: 42
   entry_content: |
     çocuğum olmazsa 21 yıl sonra 2 milyonu ben yerim amk
   entry_channels: anket,eğitim
-- entry_name: |
-    zeki müren'in en güzel şarkısı
-  entry_id:  76856144
-  entry_writer: noitisnt
-  entry_fav_count: 27
-  entry_content: |
-    zeki müren'in en güzel şarkısı diye bir şey olamaz. ancak en iyi elli şarkısı gibi bir liste olabilir. :)
-  entry_channels: anket,müzik
-- entry_name: |
-    cumali ceber 2
-  entry_id:  76877434
-  entry_writer: derindusunce
-  entry_fav_count: 24
-  entry_content: |
-    merakla beklemediğim film.
-  entry_channels: sanat,sinema
 - entry_name: |
     çocukluğa dönülse yine bıkmadan oynanacak oyun
   entry_id:  76853639
@@ -259,37 +235,53 @@ data:
     yukarıda bir şahıs galatasarayın 60 m euro transfer harcamasını yaptığı yazmış. arkadaş madem boş beleş sallayacaksın bari bir araştır da öyle salla. galatasaray devre arası transferleri ve kiralıklar dahil 42.5 m euroluk transfer gerçekleştirmiş ve yine devre arası transferleri ve kiralıklar dahil 34 m euroluk satış ve kiralama gerçekleştirmiştir. bunun yanında uefa tarafından verilen 65 m euroluk maaş sınırına da uymuşlardır. yalnızca 8.5 m euroluk transfer alımı için ağlamalarını ağlama duvarına yapmalarını tavsiye ediyorum.<br/><br/>tanım:galatasarayımızın şampiyonlar ligine döndüğüne dair açıklanan karardır.<br/><br/>edit: takımın 65 m sınırı yokmuş. ne olur ne olmaz diye bu sınırda tutmuşlar. bilgi için <a class="b" href="/?q=birdirbir+oynarken+sek+sek+seken+kedi">birdirbir oynarken sek sek seken kedi</a> ye teşekkürler
   entry_channels: spor
 - entry_name: |
-    11 mayıs 2018 dolar kuru
-  entry_id:  76871524
-  entry_writer: oziwankenozi
-  entry_fav_count: 14
+    cumali ceber 2
+  entry_id:  76877746
+  entry_writer: ne diyon sen hoca
+  entry_fav_count: 17
   entry_content: |
-    macar forinti, meksika pesosu ve güney afrika randı güçlüyken yükselen kur.<br/><br/>son yıllarda olduğu gibi...<br/><br/>bilmeyenler için kısa özet:<br/><br/>tamamen siyasal islamcılık adlı dangalaklığın sonucu ile yükselen kurdur.<br/><br/>hala bu dangalaklıktan kurtulmamakta inat eden varsa, çocuğunun yüzüne baksın, onların geleceğini düşünsün ve sandığa giderken ona göre karar versin.<br/><br/>ben kime anlatıyorsam tabii...
-  entry_channels: ekonomi
+    fragmanı merak edip izledim ve izlerken suratımda tek bir tane dahi mimik kasım oynamadı. sadece şunu düşündüm bu cumali ben ve kaş çizerek olayı kasmasına gerek yokmuş, kendi doğal halini kullansaymış da zaten bu kadar itici olabilirmiş.
+  entry_channels: sanat,sinema
+- entry_name: |
+    yemekteyiz
+  entry_id:  76869226
+  entry_writer: beyimsiz
+  entry_fav_count: 15
+  entry_content: |
+    keltoş aşçı murat’ın beni kahkahalara boğduğu yarışma programı. adam bence aşçı değil ter bezi olarak gelmiş dünyaya. eminim kokuyodur da, o kadar geniş bölgesi terleyen birinin kokmaması imkansız. fark ettim de ilk gün harici hiç onur bey’in yanına oturtulmadı. kokmasa kesin ya sağına ya soluna oturtulurdu kaç gündür. <br/><br/>onun haricinde ağzından yemek fırlaması sonucu eli ayağı titreyen tek taş abla, ne değişik bi insansınız deyince, bolu şivesiyle olaya girip döğüşük deriz biz ona şeklinde konuyu dağıtmasıyla sanırım beş lob esma hanımdan sonra en güldüğüm tip kendisi. <br/><br/>castı seçen ekibe helal olsun, başarı böyle tipleri keşfetmek.
+  entry_channels: tv,yeme-içme
 - entry_name: |
     sevilen şiirin en vurucu cümlesi
   entry_id:  76859319
   entry_writer: qwernmk
-  entry_fav_count: 12
+  entry_fav_count: 15
   entry_content: |
     "daha nen olayım isterdin, onursuzunum senin!" <a class="b" href="/?q=cemal+s%c3%bcreya">cemal süreya</a>
   entry_channels: anket,edebiyat
 - entry_name: |
-    şerefsizler hepinizi öldürmek lazım
-  entry_id:  76878535
-  entry_writer: montezuma98
-  entry_fav_count: 11
+    varoş avm'de mikro şort giyen kız
+  entry_id:  76882663
+  entry_writer: allahdiyenallah
+  entry_fav_count: 13
   entry_content: |
-    arda turan denen karakter yoksunu "adamın" hakeme söylediği sıçmık...hakem raporunda aynen böyle yazmaktaymış. artık bu cesareti nereden (?) buluyorsa?<br/><br/>16 maç az bile almış, direk futboldan "men" etmek lazım. bunun cezasını tahkim falan da düşürürse, onlara da yazıklar olsun diyeceğim. umarım düşürmezler de bu ülkede azıcık da olsa adalet kırıntıları kaldığını gösterip bize umut verirler.<br/><br/>kaynak:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/arda-turan-in-hakeme-ettigi-hakaret-ortaya-cikti-10837504-haberi/" title="https://www.haberler.com/arda-turan-in-hakeme-ettigi-hakaret-ortaya-cikti-10837504-haberi/">https://www.haberler.com/…ya-cikti-10837504-haberi/</a><br/><br/>edit: mahkemede yargılanmalı diyen arkadaşlar olmuş. haklılar bence de. hakemin davacı olması gerekiyor sanırım mahkemede yargılanması için. umarım davacı olur da anlar anyayı konyayı. ama pek sanmıyorum.
+    sana ne lan dalyarak.
   entry_channels: 
 - entry_name: |
-    nba vs euroleague
-  entry_id:  76863064
-  entry_writer: le fougueux
-  entry_fav_count: 10
+    köpeği bağlayıp öldürüp tecavüz etmek
+  entry_id:  76872141
+  entry_writer: varyemezdayi
+  entry_fav_count: 13
   entry_content: |
-    nba'de hakem hataları çoktur ama bir takıma maç kazandırmak için asla euroleague'deki kadar <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0y7OaTVPiCc" title="https://www.youtube.com/watch?v=0y7OaTVPiCc">düşülmez</a><br/>(bkz: <a class="b" href="/?q=27+nisan+2018+khimki+moskova+cska+moskova+ma%c3%a7%c4%b1">27 nisan 2018 khimki moskova cska moskova maçı</a>)
-  entry_channels: spor,anket
+    gelseler deseler ki şu gavatı öldürüceksin hapis falan yok al buda silah garantisini versinler öldürmezsem şerefsizim.gece de başımı yastığa rahatça koyarım gram da vicdan azabı duymam arkasından. orospu çocuğu ne istedin köpekten be amına kodumun evladı seni. sözlükte küfür fazla kullanmam ama bunu anlatıcak başka bişey yok senin de başına gelsin yaşattıkların be amk çocuğu seni itlaf etmek lazım.
+  entry_channels: haber
+- entry_name: |
+    audi fabrikasındaki hat işçisi
+  entry_id:  76881998
+  entry_writer: st stern
+  entry_fav_count: 11
+  entry_content: |
+    allah kimseyi audi belgeseli seyredip 31 çekecek duruma düşürmesin dediğim başlık.
+  entry_channels: anket,otomotiv
 - entry_name: |
     ekşi itiraf
   entry_id:  76854592
@@ -307,6 +299,22 @@ data:
     okulu bitirip baba ocağı izmir'e geri döndüm. sonunda beklediğim telefon gelmişti. işe kabul edilmiştim. eşyalarım hazırlandı, bilinmeze doğru yolculuğa çıkıyordum. ne iz bilirim ne de yol. bir bavulla otobüs garına geldim.<br/><br/>annemin gözleri yaşlı, babam beni kenara çekti ve <br/><br/>"oğlum! evet size çok iyi bir hayat yaşatamadım. her istediğinizi yerine getiremedim ama boğazınızdan haram bir lokma geçirmedim. bu beni hayata bağlayan ve insanlara karşı dik tutan yegane şeydir.<br/><br/>artık yeni bir hayata atılıyorsun, kendi paranı kazanacaksın. kafanı hiç bir zaman yere düşürme, hata yapabilirsin, hata insanlar için. sana tek bir şey bırakıyorum oğlum. bu her zaman kulağında olsun. <br/><br/>ne haram lokma ye, ne de kul hakkı. işte o zaman gerçek zenginliğin ve mutluluğun para olmadığını göreceksin.<br/><br/>seninle gurur duyuyorum ve duymaya devam edeceğim." dedi.<br/><br/>canım babam be! allah eksikliğini göstermesin. <br/><br/>edit: düzeltme
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
+    488 liralık trafik cezası
+  entry_id:  76874228
+  entry_writer: masif pasif bir obsesif kompulsif
+  entry_fav_count: 8
+  entry_content: |
+    "102 km/h ile ceza yenen çevre yolu mu olur amk" diye sordurtan. 90 hız sınırlı "çevre" yolu, interesting.<br/><br/>edit: baboli adamın makasladığını nereden biliyorsunuz la? ayrıca her çevre yolunda sınır 90 değil.
+  entry_channels: otomotiv
+- entry_name: |
+    okuduğun kitabı adını söylemeden anlat
+  entry_id:  76878500
+  entry_writer: maximillian
+  entry_fav_count: 7
+  entry_content: |
+    çukurova dağlarında düzlüklerinde gezen bir garip eşkiya.
+  entry_channels: anket
+- entry_name: |
     günümüzde kadınların bir erkekte aradığı 3 nitelik
   entry_id:  76858066
   entry_writer: bazilarikisasever
@@ -314,14 +322,6 @@ data:
   entry_content: |
     bencil olmasın yeter de artar bile... gördük, önümüzde çok fazla örnek var
   entry_channels: anket,ilişkiler
-- entry_name: |
-    488 liralık trafik cezası
-  entry_id:  76874228
-  entry_writer: masif pasif bir obsesif kompulsif
-  entry_fav_count: 7
-  entry_content: |
-    "102 km/h ile ceza yenen çevre yolu mu olur amk" diye sordurtan. 90 hız sınırlı "çevre" yolu, interesting.<br/><br/>edit: baboli adamın makasladığını nereden biliyorsunuz la? ayrıca her çevre yolunda sınır 90 değil.
-  entry_channels: otomotiv
 - entry_name: |
     11 mayıs 2018 antalyaspor başakşehir maçı
   entry_id:  76881342
@@ -331,29 +331,29 @@ data:
     antalyaliyim ve şu an stadtayim. 20 yıldır bu tribunlerdeyim ilk defa 07 gencligin maça gelmediği bir maç görüyorum üstelik ligin kendi evindeki son maçı.<br/><br/>antalya'da 2 tane taraftar grubu vardır karşılıklı kale arkalarında. birisi yıllardır tribünde olan 07 gençlik birisi de sonradan kurulan 1966 gençlik. 1966 larin çoğu belediye çalışanı falandır torpillidir. zaten yönetimin yanında yer alıp izmir marşı okumayacaklarini açıkladılar. 07 gençlik ise şehrin asi çocuklarıdır. maç öncesi ciddi tehditler aldıkları ve fisleneceklerine dair duyumlar çıkmıştı. antalya'da zaten hepi topu 10 tane büyük şirket vardır ve hepsinin sahibi antalyasporla ilişkilidir. onlardan daha cesur bir karar beklerdim ancak provokasyona bu gelmemek için stada gelmeme kararı aldılar ve boykot ettiler. kalan yerel antalya halkı izmir marşı okumak istiyor ama organize değil. kale arkasında avaz avaz cigrinan taraftar grubu da tribünü bastırıyor.<br/>kısacası siyaset her yerde. adamların stadta marş okunmasına bile tahammülü yok. zaten ohal ile yönetilen ülkede fislenip terör örgütü üyesi muamelesi görme, starlardan men, işten atılma korkusu ile sinmiş binlerce taraftar bugün maça gelemedi.
   entry_channels: spor
 - entry_name: |
-    bir türlü şaha kalkamayan türkiye
-  entry_id:  76878242
-  entry_writer: seni kiniyorum ve sana laflar hazirladim
-  entry_fav_count: 5
-  entry_content: |
-    bir kez şahlanmaya kalktı, onda da at sırtından attı.
-  entry_channels: siyaset
-- entry_name: |
-    bir kadından duyulan en iyi iltifat
-  entry_id:  76880285
-  entry_writer: frenkymerlin
+    fakirlerin fakir olmasının sebebi
+  entry_id:  76879449
+  entry_writer: biyolojik saat tamircisi
   entry_fav_count: 4
   entry_content: |
-    o: ellerin pamuk gibi.<br/>ben: <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/VrNE3Z.gif">https://i.hizliresim.com/vrne3z.gif</a>
-  entry_channels: anket,ilişkiler
+    fakirlerin fakir olmasının tek sebebi fakir olmalarıdır.<br/><br/><a class="b" href="/?q=ragnar+nurske">ragnar nurske</a> <a class="b" href="/?q=fakirlik+k%c4%b1s%c4%b1r+d%c3%b6ng%c3%bcs%c3%bc">fakirlik kısır döngüsü</a> ile bunu çok güzel anlatır.<br/><br/>fakiriz çünkü yeterli miktarda para kazanamıyoruz, yeterli miktarda para kazanamadığımız için yatırım yapamıyoruz, yatırım yapamadığımız için para kazanamıyoruz.<br/><br/>işte tam da bu kısır döngü yüzünden fakiriz.<br/><br/>bu kısır döngünün kırılabilmesi için, bir dış müdahale şarttır. bu müdahale de devletin mikro ölçekte müdahalesidir.<br/><br/>adamın toprağı var, tohum alamıyor, tohum alsa, elektrik maliyeti çok yüksek sulayamıyor, sulasa ve güzel ürün alsa bile hal yasası karşısına çıkıyor, yani maliyet+kar hesaplayarak bir satış yapamıyor. fiyatları komisyoncular belirliyor.<br/><br/>fakirlik kısır döngüsünü kırmak planlı bir ekonomi uygulamakla mümkündür. bu da mikro ölçekte, ölçek ekonomisine uygun yatırımlar yapmakla/yaptırmakla mümkün olacaktır.<br/>mikrodan başlamayan hiç bir kalkınma planı başarıya ulaşamaz. <br/><br/>insanların tasarruf edebileceği kadar kazanmasını sağlamak, tasarrufları yatırıma dönüştürmek, istihdam yaratmak, yeni tasarruflar yaratmak, yeni yatırımlar yapmak, yine yeniden istihdam yaratmak.<br/><br/>aksi halde fakiriz biz fakir kalacağız.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
-    audi fabrikasındaki hat işçisi
-  entry_id:  76881998
-  entry_writer: st stern
+    çaylak onay listesi
+  entry_id:  76859528
+  entry_writer: hersey olmasi gerektigi gibi
+  entry_fav_count: 4
+  entry_content: |
+    valla ben de bir bahar sabahı yazar oldum. hayatım tamamen değişti. dolapta nutellalar oluşuverdi. hiçbir şeyi beğenmez oldum. her gittiğim restoranı ekşide yazarım diye tehdit etmeye başladım. çok acayip bir şeymiş bu.
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    11 mayıs 2018 halk arenası canlı yayını
+  entry_id:  76882742
+  entry_writer: uurtech
   entry_fav_count: 3
   entry_content: |
-    allah kimseyi audi belgeseli seyredip 31 çekecek duruma düşürmesin dediğim başlık.
-  entry_channels: anket,otomotiv
+    şuan halk tv youtube üzerinden 6928 kişi tarafından izleniyor.<br/>muharrem ince'nin periscope hesabından 2221 kişi tarafından izleniyor.<br/>cnn türk youtubeden 807 kişi tarafından izleniyor.<br/>haber türk youtubeden 1132 kişi tarafından izleniyor. ( özgür özel yayında )<br/>ntv youtubeden 584 kişi tarafından izleniyor.<br/><br/>evet işsizim ve durum ortada.<br/><br/>edit <br/>halk tv 7786 oldu.
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     yazarların şu an duymak istediği söz
   entry_id:  76868533
@@ -362,6 +362,14 @@ data:
   entry_content: |
     ‘beyin mr sonuçlarınız temiz’
   entry_channels: anket,ekşi-sözlük,edebiyat
+- entry_name: |
+    şahsiyet (dizi)
+  entry_id:  76865049
+  entry_writer: le ronronrement
+  entry_fav_count: 1
+  entry_content: |
+    bir kerede anlamayanlar için: iffet göndermesi süper olmuş?! şimdi kardeşim sağ üst köşede takip et diye bir seçenek var, takip et deyince girilmiş entriler sana bildirim olarak geliyor, dolayısıyla bir entriyi mükerrer girmeni engelliyor tabi eğer okuyorsan. baydınız yani. <br/>tanım: onur saylak ve hakan günday’dan güzel bir türk dizisi.<br/><br/>edit: imla hatası, telefondan yazınca böyle oldu. evet onur saylak da çok kere yazıldı :) <a class="b" href="/?q=creepingwitch">creepingwitch</a><a class="b" href="/?q=martin+haydigel">martin haydigel</a><a class="b" href="/?q=dunyabizeyalansoyluyor">dunyabizeyalansoyluyor</a>a teşekkürler<br/><br/>edit2: iffet göndermesi süper olmuş buna katılıyorum, ama aynı şeyi on kere okumak zorunda değilim. beni zaptiye sanan arkadaşlara duyurulur, tekrar gereksiz.
+  entry_channels: tv,spoiler
 - entry_name: |
     türkçe dersinde öğrenilip unutulmayan bilgiler
   entry_id:  76880298
@@ -386,14 +394,6 @@ data:
   entry_content: |
     bicurious kelimesinin anlamını sayesinde öğrendiğim portal. resmen ava çıkılmış.
   entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    okuduğun kitabı adını söylemeden anlat
-  entry_id:  76878719
-  entry_writer: deal with it
-  entry_fav_count: 0
-  entry_content: |
-    ya da daha iyi bir fikrim var:<br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck%27te+forum+ba%c5%9fl%c4%b1%c4%9f%c4%b1+a%c3%a7">ekşi sözlük'te forum başlığı aç</a>)
-  entry_channels: anket
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  76853774
