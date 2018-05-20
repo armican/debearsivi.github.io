@@ -6,7 +6,7 @@ data:
     1 ak partiliyi ikna et
   entry_id:  77147267
   entry_writer: osuran balik
-  entry_fav_count: 1119
+  entry_fav_count: 1125
   entry_content: |
     yahu adamlar oy vermezse cehenneme gideceğine inanıyor.
   entry_channels: siyaset
@@ -14,7 +14,7 @@ data:
     meral akşener'in fetö videosu
   entry_id:  77169394
   entry_writer: emesen
-  entry_fav_count: 934
+  entry_fav_count: 1086
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/OPoBFHtZIdI">https://youtu.be/opobfhtzidi</a> <br/><br/>videoda tum ilişkisi acik acik gosterilmis izletin iyi partililere gorsunler meral mommy lerini..!!
   entry_channels: siyaset,tarih,haber
@@ -22,7 +22,7 @@ data:
     galatasaray şampiyonluğunun coşkusuz geçmesi
   entry_id:  77164351
   entry_writer: eksi peace
-  entry_fav_count: 850
+  entry_fav_count: 878
   entry_content: |
     "20'den sonra artık heyecan vermiyor delikanlı" dedirten durum.
   entry_channels: spor
@@ -30,7 +30,7 @@ data:
     hatunların en güzel oldukları yaş
   entry_id:  77155807
   entry_writer: derinlemesine paslar
-  entry_fav_count: 645
+  entry_fav_count: 658
   entry_content: |
     geçen sene 26 idi, bu yıl 27 oldu seneye 28 olacak.
   entry_channels: anket,ilişkiler
@@ -46,7 +46,7 @@ data:
     akşener'e oy vermek istemek ince'ye de kıyamamak
   entry_id:  77147078
   entry_writer: sodomlu
-  entry_fav_count: 605
+  entry_fav_count: 613
   entry_content: |
     24 haziran seçimleri için iki aday arasında gidip gelen ve bir türlü karar veremeyen insanın yaşadığı ikilemdir. baştan beri iyi parti'ye destek vermekte olan fakat muharrem ince'nin adaylığının açıklanması neticesinde, bu ikilemi yaşayan seçmenin hatrı sayılır bir kitleye tekabül ettiği kanaatindeyim.
   entry_channels: siyaset
@@ -54,23 +54,15 @@ data:
     süper lig şampiyonluğu vs euroleague şampiyonluğu
   entry_id:  77158332
   entry_writer: ourgodgivenrighttobeararms
-  entry_fav_count: 576
+  entry_fav_count: 580
   entry_content: |
     'birini giztipiyi yinirik birini riil midridi dinyinin inindi yinirik' <br/><br/>o zaman real madrid'i dünyanın gözü önünde yenerek alınan kupalarımızı da karşılaştırabiliriz kardeşim.
   entry_channels: spor
 - entry_name: |
-    20 mayıs 2018 iyi parti'nin ilker başbuğ bombası
-  entry_id:  77154107
-  entry_writer: meslekden cikip ituden mezun olan adam
-  entry_fav_count: 546
-  entry_content: |
-    istanbul'dan aday olması taktirde bir chp'li olarak oyumu alır.<br/><br/>sezgin tanrikuluna oy vermeye muhtaç mıyım amk. <br/><br/>ayrıca 1 hafta önceki öngörüm. <a class="b" href="/entry/76986594">#76986594</a><br/><br/>edit: imla
-  entry_channels: siyaset,haber,magazin
-- entry_name: |
     türk bayrağına saldıran chp'li
   entry_id:  77168103
   entry_writer: sebepneydiki
-  entry_fav_count: 450
+  entry_fav_count: 467
   entry_content: |
     (bkz: <a class="b" href="/?q=iftira+mode+on">iftira mode on</a>)<br/><br/>chp'li olduğu iddaa edilen kadın, akp bayraklarını söküp atarken, türk bayraklarını kucağında topluyor.<br/><br/>benim oturduğum apartmanın bahçesine de akp bayrağı assalar bende tepki gösteririm.<br/><br/>yanına türk bayrağı asmışlar diye onların akp bayraklarına tahammül etmek zorunda değil hiç kimse.
   entry_channels: siyaset,haber
@@ -78,10 +70,18 @@ data:
     galatasaray'ın şampiyon olmasının nedeni
   entry_id:  77154939
   entry_writer: elbistan
-  entry_fav_count: 420
+  entry_fav_count: 421
   entry_content: |
     tabi lan “evet videosu” çekmeyen fatih terim’e siyasi operasyon çekilmedi de size çekildi. adam söyleyemiyor ama ima ediyor “sebebi bende kalsın en özel şampiyonluk” <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?q=fikret+orman+ak+parti&amp;rlz=1CDGOYI_enTR755TR755&amp;hl=tr&amp;prmd=niv&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj8y7ml_5PbAhUBhqYKHWhzCx8Q_AUIEigC&amp;biw=414&amp;bih=660#imgrc=F50ocAfEbHZVXM:" title="https://www.google.com.tr/search?q=fikret+orman+ak+parti&amp;rlz=1CDGOYI_enTR755TR755&amp;hl=tr&amp;prmd=niv&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj8y7ml_5PbAhUBhqYKHWhzCx8Q_AUIEigC&amp;biw=414&amp;bih=660#imgrc=F50ocAfEbHZVXM:">bak bu da siyasi operasyon fikret orman batman akp kongresinde</a><br/><br/>tabi lan geçen sene mhk başkanı yusuf namoğlu değildi sanki. hakeme dakikalarca söven adam ceza alınca vay ceza aldı oldu. utanmadan şu sözlükte “ehehehe orospu çocuğuna orospu çocuğu dedi ne var bunda” dediniz. quaresma’ya çıkmayan kırmızıları biriniz konuşmuyor? 2 tane yürekli savcı olsa adam yaralamaktan soruşturma açardı pozisyonlara. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?q=quaresma+kırmızı+kartlık+pozisyonlar&amp;rlz=1CDGOYI_enTR755TR755&amp;hl=tr&amp;prmd=inv&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj47OOk1ZPbAhWJ0aYKHW1VCHMQ_AUIESgB&amp;biw=414&amp;bih=660#imgrc=XHu4JkLsJ7OAAM:&amp;isa=y" title="https://www.google.com.tr/search?q=quaresma+kırmızı+kartlık+pozisyonlar&amp;rlz=1CDGOYI_enTR755TR755&amp;hl=tr&amp;prmd=inv&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj47OOk1ZPbAhWJ0aYKHW1VCHMQ_AUIESgB&amp;biw=414&amp;bih=660#imgrc=XHu4JkLsJ7OAAM:&amp;isa=y">al mesela şu</a><br/><br/>tabi lan (bkz: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mackolik.com/Team/Default.aspx?id=1&amp;season=2012/2013" title="http://www.mackolik.com/Team/Default.aspx?id=1&amp;season=2012/2013">http://www.mackolik.com/…aspx?id=1&amp;season=2012/2013</a>) avrupa’da yer almayan galatasaray başarılı oldu. çeyrek finale de zaten hep “bay” geçip geldik şampiyonluk da kura ile belirlendi.<br/><br/>ayrıca senin “süt kupası” maçından banane. galatasaray olarak olayın bir tarafı mıyız? hayır. kaldı ki 1 sene önce süt kupası olan bu kupa niye aniden kıymete bindi? daha sezon dün itibariyle bitti. en kötü ihtimalle 3 hafta sonra sezonu açacaksınız tekrar. yaş ortalaması huzur evi seviyesinde takımınız neredeyse aralıksız 2 sezon oynamış olacak. sen otur önce bunları düşün.
   entry_channels: spor
+- entry_name: |
+    barış atay'ın hdp'den milletvekili adayı olması
+  entry_id:  77162656
+  entry_writer: dogru sozler
+  entry_fav_count: 389
+  entry_content: |
+    hep aynı hikaye, hiç şaşmıyor. ağzını her açtığında kardeşlik, barış, adalet diyen popüler marjinal solcu artık, binlerce vatan evladının katili pkk'nın siyasi kanadı, kürt faşisti hdp bataklığında siyaset yapıp ülkeye barış getirecek. yerseniz tabi....
+  entry_channels: siyaset,haber
 - entry_name: |
     kaşlarını alan hocaefendi
   entry_id:  77151180
@@ -91,34 +91,18 @@ data:
     kendisi hakkında güzel bir caps gördüğüm hoca efendi. capsi bulamadım ama şu sözler yazıyordu<br/><br/>(bkz: <a class="b" href="/?q=ablan+imam+bebe%c4%9fim">ablan imam bebeğim</a>)<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://imgim.com/e8a27e62-9f50-4dbd-8205-542e51adf27a.jpeg" title="http://imgim.com/e8a27e62-9f50-4dbd-8205-542e51adf27a.jpeg">buyrunuz</a>
   entry_channels: ilişkiler,tv,haber,moda
 - entry_name: |
-    barış atay'ın hdp'den milletvekili adayı olması
-  entry_id:  77162656
-  entry_writer: dogru sozler
-  entry_fav_count: 377
-  entry_content: |
-    hep aynı hikaye, hiç şaşmıyor. ağzını her açtığında kardeşlik, barış, adalet diyen popüler marjinal solcu artık, binlerce vatan evladının katili pkk'nın siyasi kanadı, kürt faşisti hdp bataklığında siyaset yapıp ülkeye barış getirecek. yerseniz tabi....
-  entry_channels: siyaset,haber
-- entry_name: |
     ya anneni sileceksin ya beni diyen kadın
   entry_id:  77145570
   entry_writer: alicek
-  entry_fav_count: 339
+  entry_fav_count: 341
   entry_content: |
     gece gece yanlış okuduğum başlık
   entry_channels: ilişkiler
 - entry_name: |
-    kadınım ama kadınlardan hoşlanıyorum
-  entry_id:  77160277
-  entry_writer: zgrdnzbrt a7x
-  entry_fav_count: 309
-  entry_content: |
-    vallahi aklın yolu bir ben de kadın olsaydım ben de kadınları severdim.
-  entry_channels: siyaset,ilişkiler,haber
-- entry_name: |
     l-l-l--l---l-----l--------l-------------l
   entry_id:  77160680
   entry_writer: eldest goblin
-  entry_fav_count: 293
+  entry_fav_count: 298
   entry_content: |
     (bkz: <a class="b" href="/?q=fibonacci+serisi">fibonacci serisi</a>)
   entry_channels: anket
@@ -126,7 +110,7 @@ data:
     30 yaşındaki erkek 30 yaşındaki kadınla evlenmez
   entry_id:  77149425
   entry_writer: selamun aleykum kitty
-  entry_fav_count: 266
+  entry_fav_count: 267
   entry_content: |
     30 yaşında sporunu fastingini yapan bakımlı bir erkeğim. çevremde 20'likler kol geziyo işe giderken yolumu kesiyorlar. ama ben evde yalnızken kadın iç çamaşırı giyip patronumu arzuluyorum. beni elde edemeyeceksiniz orospular.
   entry_channels: ilişkiler
@@ -134,34 +118,26 @@ data:
     179 bin tl'ye araba satıp 10 tl kahve parası almak
   entry_id:  77171428
   entry_writer: desaccorde
-  entry_fav_count: 187
+  entry_fav_count: 218
   entry_content: |
     adamın derdinin 10 lira olmadığı oldukça açık bence. nezaket denen bir şey vardır. kaldı ki üzerine bir de hayvan gibi satış yaptığın bir müşteriden bahsediyoruz. marka ismi olarak üst segmenti tanımlayan şirkete yakışmayan bir davranış olduğundan, dile getirilmesini oldukça doğal olarak görüyorum.<br/><br/>benden de araç aldığımda 10 liralık kahve ücreti istese sittin sene konuşurum.
   entry_channels: otomotiv,ekonomi
 - entry_name: |
-    prens harry'nin dul ve yaşlı kadınla evlenmesi
-  entry_id:  77167992
-  entry_writer: molkoid
-  entry_fav_count: 186
+    italyan erkeğiyle sevişen türk kadının ilk sözü
+  entry_id:  77168651
+  entry_writer: the galvanize
+  entry_fav_count: 179
   entry_content: |
-    türk erkeğini özetleyen başlıklardan bir tanesi. prens gider kendinden büyük ve boşanmış bir kadınla evlenebilir, ama bizim çomarlar kendilerine bunu yakıştırmaz, hepsi birer bulunmaz hint kumaşıdır adeta.<br/><br/>olay nedir çünkü, kadını hayatlarını paylaşacakları bireyler olarak değil, birer mal olarak görürler. kadınları kişilikleriyle değil, dul-bekar (hatta bakire), genç-yaşlı (yaşlı dediği de kendinden büyük olan her kadın oluyor bu arada) şeklinde sınıflar, hepsinin kendilerine kendini beğendirmek için ölüp bittiğini zanneder. kendi arkasını toplamayı bırak, dişini fırçalamaktan bile acizdir ama hepsi birer kate upton hakettiğini düşünür. <br/><br/>sizin kadar şımarık erkek topluluğu yok dünyada yeminle. yabancı kadınlara sorduklarında bile hepsi bunu söylüyor türk erkeği hakkında, illallah ettirmişsiniz.<br/><br/>edit: arkadaşlar başlığı açanın bir kadın olduğuna dair uyarılar geliyor, ancak bu bir şeyi değiştirmiyor. dünden beri kraliyet düğünüyle ilgili türlü türlü başlıklar geziyor sol frame'de, muhakkak bazılarına denk gelmişsiniz. bunların hepsinde okuduğum yorumlara bakarak yazdım bu entry'yi. zaten türk erkeğinin kendinden büyük ve boşanmış bir kadın ile evlenme konusundaki fikrini bilmek için hiçbirimizin burda yazılanları okumaya ihtiyacı olduğunu sanmıyorum.
-  entry_channels: ilişkiler,haber,magazin
+    - yok aslında felçli değilim, biz türk kızları böyle sevişiyoruz.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ramazan davulu geleneği kaldırılsın kampanyası
   entry_id:  77155517
   entry_writer: castintimbirdak
-  entry_fav_count: 173
+  entry_fav_count: 174
   entry_content: |
     azalarak da değil, hemen bitsin diyerek katıldığım kampanya. <br/><br/>bu nasil bir faşizmdir? senin davul sesini gecenin köründe duymak zorunda miyim ben? bana ne senin orucundan? sessiz sessiz tut işte. neden beni de uyandiriyorsun bre hayvan!<br/><br/>edit: imla
   entry_channels: tarih
-- entry_name: |
-    döviz kurundaki artışın ekonomiye yansımaları
-  entry_id:  77156197
-  entry_writer: psycho dad
-  entry_fav_count: 169
-  entry_content: |
-    yerli malları da pahalılaşır (pahalanır).<br/><br/>çünkü türkiye'nin, içerisine yabancı bir üretim girdisinin girmediği herhangi bir malı yoktur, olamaz.<br/><br/>tarlada yetişen domates'in bile tohumu dolarla, gübresi dolarla, kamyona yüklediğinde kamyon dolarla, mazot dolarla.<br/><br/>parçaları ithal edilip, türkiye'de sadece montajı yapılan sözde yerli ve milli elektronik ürünlerimize girmiyorum bile.
-  entry_channels: ekonomi
 - entry_name: |
     sözlükçülerin karayolundaki hız rekorları
   entry_id:  77146699
@@ -174,7 +150,7 @@ data:
     20 mayıs 2018 real madrid fenerbahçe doğuş maçı
   entry_id:  77145752
   entry_writer: barisunver
-  entry_fav_count: 111
+  entry_fav_count: 114
   entry_content: |
     bugün aslan gibi kükreyerek şampiyon olduk, yarın da fenerbahçe'yi destekliyoruz.<br/><br/>basketbolda bizi avrupa'da en iyi temsil eden takım fenerbahçe, bu durum gün gibi ortada. memleket meselesi olunca takım yok, kırmızı-beyaz bayrağımız var. aksi yönde bakan adam "fanatik değilim" demesin, kendini kandırmasın.
   entry_channels: spor
@@ -182,23 +158,23 @@ data:
     ateistin inanmasını sağlayacak olay
   entry_id:  77161609
   entry_writer: sanal gezgin
-  entry_fav_count: 110
+  entry_fav_count: 111
   entry_content: |
     dört buçuk dakikalık videolar şeklinde cennet ve cehennem fragmanları fena olmazdı.
   entry_channels: anket
 - entry_name: |
-    italyan erkeğiyle sevişen türk kadının ilk sözü
-  entry_id:  77168651
-  entry_writer: the galvanize
-  entry_fav_count: 98
+    muharrem ince'nin vatandaşı itmesi
+  entry_id:  77171437
+  entry_writer: koministimam2
+  entry_fav_count: 103
   entry_content: |
-    - yok aslında felçli değilim, biz türk kızları böyle sevişiyoruz.
-  entry_channels: ilişkiler
+    iyi iyi,<br/>sever bizim vatandaş böyle şeyleri... <br/>olacak bu inceden olacak:)<br/><br/>oha, yeni ve daha net görüntüleri <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/kl_A6ng8t8w" title="https://youtu.be/kl_A6ng8t8w">gelmiş</a>. <br/>halk gereken cevabı verecektir bunlara 24 haziranda:))<br/><br/><a class="b" href="/?q=edit">edit</a>: ben videoda bir anda muharrem incenin yakasına yapışan bi vatandaş görüyorum, vatandaşı ittiren ise muharrem ince değil, koruma... ulan ortada itme falan yok amk. velevki var, ne güzel işte. <br/>valla on numara, yine diyorum, böyle devam muharrem hoca... hiiç bozma;)
+  entry_channels: 
 - entry_name: |
     eşini aldatma oranı yüksek meslekler
   entry_id:  77144799
   entry_writer: chuckyningelini
-  entry_fav_count: 98
+  entry_fav_count: 99
   entry_content: |
     doktorlardır. önde gidenleridir. bayrak tutanlarıdır.
   entry_channels: ilişkiler
@@ -206,7 +182,7 @@ data:
     karkas nedir löp et nedir bunları iyi bilirim
   entry_id:  77170488
   entry_writer: qwert123
-  entry_fav_count: 85
+  entry_fav_count: 96
   entry_content: |
     8bin ton et ithal edilecek ve bu az bulunuyor. et üzerinden bosnada istihtam saglanacak diye bir de yapilana övgü var. demezler mi o istihtami neden türkiye'de saglamiyorsun. hayir tabi ki demezler alkis tutarlar sadece.
   entry_channels: siyaset,haber,yeme-içme
@@ -214,7 +190,7 @@ data:
     nuri bilge ceylan'ın abartılmış balon olması
   entry_id:  77151544
   entry_writer: montpellier sakini
-  entry_fav_count: 84
+  entry_fav_count: 86
   entry_content: |
     (bkz: <a class="b" href="/?q=zeki+sen+misin+lan+do%c4%9fruyu+s%c3%b6yle">zeki sen misin lan doğruyu söyle</a>)
   entry_channels: anket,sinema
@@ -222,7 +198,7 @@ data:
     doların krallığı çöküyor
   entry_id:  77157855
   entry_writer: dd1978
-  entry_fav_count: 82
+  entry_fav_count: 83
   entry_content: |
     doların çökmesini kabul etmiyorum. gerçek dolar bu değil.
   entry_channels: haber,ekonomi
@@ -230,10 +206,26 @@ data:
     anlam verilemeyen insan davranışları
   entry_id:  77159630
   entry_writer: umittaciri
-  entry_fav_count: 74
+  entry_fav_count: 79
   entry_content: |
     mesajlaşırken insanların buna arkadaşlar da dahil birdenbire yazışmayı kesmesi ya da uzun aralıklarla cevap yazması. en sevmediğim insan tipi. <br/><br/>karşınızdaki insana işiniz varsa belirtin ya da kısa bir cevapla sonlandırın görüşmeyi. saygımı yitiriyorum bu tür insanlara karşı.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    arabasına çarpan motorcuya yardım eden adam
+  entry_id:  77159806
+  entry_writer: tatilsepeti
+  entry_fav_count: 72
+  entry_content: |
+    aslında hak etmeyen motorcudur.<br/>hız göstergesi 125 e kadar bile çıkıyor.<br/>(edt: mesaj geldi 151'e çıkmış)<br/>dua etsin adamcağızın arabasındaki<br/>çocuklarına zarar verecek bir kazaya yol açmamış.<br/>bu motorcular kendilerine <br/>araba muamelesi yapılmaz kızarlar;<br/>bir araba gibi kurallara uyması<br/>beklenirse de kızarlar.<br/>ergen gibiler.<br/>o yolda o kadar hızla bugün değilse de <br/>yarın başına bir dert gelecektir.
+  entry_channels: haber,otomotiv,motosiklet
+- entry_name: |
+    20 mayıs 2018 fb'nin inşallah kaybetmesi
+  entry_id:  77172437
+  entry_writer: insan donuna girmis telli turna
+  entry_fav_count: 67
+  entry_content: |
+    (bkz: <a class="b" href="/?q=in%c5%9fallah+o+entry%27nin+g%c3%b6t%c3%bcne+girmesi">inşallah o entry'nin götüne girmesi</a>)
+  entry_channels: 
 - entry_name: |
     esenyurt'ta taksicilerin uber'in önünü kesmesi
   entry_id:  77162855
@@ -243,141 +235,117 @@ data:
     <a class="b" href="/?q=well+cooked">well cooked</a> sizler için hazırladı: <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/Fvcm1k" title="https://goo.gl/Fvcm1k">hanzo taksici</a> (:<br/>(bkz: <a class="b" href="/?q=hanzo+taksici">hanzo taksici</a>)<br/>---<br/><br/>(bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>) eylemi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/JV7o93" title="https://goo.gl/JV7o93">tipe bak</a> kemal sunal yerine koy filme 10 numara <a class="b" href="/?q=hanzo">hanzo</a> karakteri sana. hem de doğal olanından. kafesi eksik kalmış onu da bir ara şey ederiz...<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/SbEfVK" title="https://goo.gl/SbEfVK">olayın videosu</a>
   entry_channels: haber,otomotiv,ekonomi
 - entry_name: |
-    2017 2018 süper lig şampiyonu galatasaray
-  entry_id:  77144991
-  entry_writer: administration
-  entry_fav_count: 55
-  entry_content: |
-    valla 6 aylık bebeğim şampiyonluk gördü, kayınpeder evlendiğimden beri 5 senedir şampiyonluk görmedi. <br/><br/>adam bu beş senede gözümün önünde eriyip bitti. çocuklarınıza galatasasaraydan başka takım tutturmayın.
-  entry_channels: spor
-- entry_name: |
-    20 mayıs 2018 fb'nin inşallah kaybetmesi
-  entry_id:  77172437
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 50
-  entry_content: |
-    (bkz: <a class="b" href="/?q=in%c5%9fallah+o+entry%27nin+g%c3%b6t%c3%bcne+girmesi">inşallah o entry'nin götüne girmesi</a>)
-  entry_channels: 
-- entry_name: |
-    fatih terim
-  entry_id:  77149116
-  entry_writer: este noyan
-  entry_fav_count: 46
-  entry_content: |
-    devletten hangi desteği almış çok merak ediyorum? bir tane mantıklı argüman sunun zırvalamadan önce. tabii ondan da önce yaşananları bir hatırlamaya çalışın azıcık nöronunuz kaldıysa. <br/><br/>adam ne diyor? ''önceki şampiyonluklarımdan daha özel.'' <br/><br/>bunu niye diyor sence dallama? 7 şampiyonluğu olan, kadıköy'de bile kupa kaldırmış adam bunu niye der?<br/><br/>nedeni gayet basit, evet kampanyasına katılmadı diye üstü çizildi bu adamın. basında sürekli üzerine gelindi. haklı yönleri de vardı. çomarlık yapmıştı. devamında tazminat olayını dava ederek halkın gözünde hak ettiği parayı almaması için baskı yapıldı. kendini kaybetsin diye 4-5 uyduruk penaltı çalındı aleyhimize. hiçbir oyuna gelmedi. işine bakmaya devam etti.<br/><br/>şampiyonluk maçı öncesi cumhurbaşkanı apaçık başakşehir'i destekleyin mesajı verdi, yine de başaramadı. onun takımını da yendik. akhisar rahat rahat as kadro çıksın diye kupa finali bir gün sonrasına alındı lan daha 2 hafta önce. <br/><br/>bütün bunlara rağmen şampiyon da olduk.<br/><br/>bunu yazmak için tam bir fosil beyin motivasyonuna sahip olmak gerekir.<br/><br/>bu adamın özel olarak nitelendirme nedeni tam olarak budur.<br/><br/>dediği gibi de bariz bir şekilde özel olmuştur.
-  entry_channels: spor
-- entry_name: |
-    24 haziranda fetö'cüler kime oy verecek
-  entry_id:  77168467
-  entry_writer: sonra ben de dedim ki
-  entry_fav_count: 38
-  entry_content: |
-    sanırım yine akp’ye verecekler. yıllardır hep aynı.<br/><br/>şaşırtmayıcı.
-  entry_channels: siyaset,anket
-- entry_name: |
-    muharrem incenin vatandaşı itmesi
-  entry_id:  77171540
-  entry_writer: yarim hayat
-  entry_fav_count: 36
-  entry_content: |
-    video da itme kakma yok da. hadi diyelim ki oldu. ulan yıllar yılı arkandalar arkadan itiyorlar sesin çıkmıyor ne sikim konuşursun ? <br/><br/>tanım: yok . ..
-  entry_channels: siyaset
-- entry_name: |
-    oyunlarda 60 fps takıntısı
-  entry_id:  77166072
-  entry_writer: kabraxist
-  entry_fav_count: 34
-  entry_content: |
-    takıntı değil, evrimsel bir ihtiyaçtır.<br/><br/>sinema endüstrisi doğarken film yapımcıları, insan zihninin kare aralarını birleştirebileceği en düşük kare sayısının 24 olduğunu gözlemlemişler. bu rakamı en düşüğe çekmeye çalışma sebepleri, mümkün olduğu kadar az film rulosu harcamakmış. sinemada sadece ileriye doğru bir akış olduğu, izleyicinin bir etkileşimi olmadığı ve dolayısıyla bir "geri bildirim" beklemediği için, görsel merkezlerimiz 24 karenin arasını doldurmakta, tahmin etmekte zorlanmıyor.<br/><br/>insan gözünde ise sabit bir "fps" yok. vücudumuz, ihtiyaca göre görsel algıyı güçlendirebiliyor, ya da zayıflatabiliyor. ortalama bir insanın gözü, saniyede 45 fps civarında çalışıyor. savaş pilotluğu gibi ekstrem görsel dikkat isteyen durumlarda ise 255 fps'ye kadar çıkabiliyor.<br/>(<a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2826883/" title="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2826883/">kaynak</a>)<br/><br/>bilgisayar oyunlarında ise bu iki rakamın arasında bir ihtiyaç olduğunu söylemek zor değil. öncelikle ortada, sinema gibi pasif bir akış değil, bir interaksiyon mevcut. yani oyuncu, bir eylemde bulunuyor, ve bunun sonuçlarını görsel olarak geri alıyor. örneğin ateş ediyor, ve hedefini vurup vurmadığını görsel olarak algılayabiliyor, vuramadıysa takip edebiliyor. bu yüzden pasif akıştan daha hızlı bir görsel geribildirime ihtiyaç var. ikinci olarak, düşük fps, algıları yanıltıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=pfiHFqnPLZ4" title="https://www.youtube.com/watch?v=pfiHFqnPLZ4">bu videoda</a> rahatlıkla görülebileceği üzere, düşük fps'lerde topun konumu farklı; geriden geliyor. bu da, ekranda neredeyse piksel avlayan aksiyon oyunu oyuncuları için çok önemli bir duyusal girdi. <br/><br/>bu yüzden "ya benim gözüm algılamıyo" argümanının, oyunlar için çok da sağlam bir dayanağı yok. casual oyunlar müstesna, reflekse dayalı her oyunda fps'nin çok önemi var, zira insan gözü, karar mekanizmalarının ihtiyacına göre ölçekleniyor.
-  entry_channels: anket,oyun,teknoloji
-- entry_name: |
     doları 7.5 tl'de çıpalayacaklar
   entry_id:  77166631
   entry_writer: wild pear
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     erol bey doların 4,5 lira olacağını söylemişti o zaman bazı insanlar inanmıyordu.şimdi de 7,5 lira olacak diyor.(bkz: <a class="b" href="/?q=winter+is+coming">winter is coming</a>) mi acaba?
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    aleyna tilki ve gomis'in buluşması
-  entry_id:  77171096
-  entry_writer: koalaterbiyecisi
-  entry_fav_count: 26
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/Ddp-N4nUwAEkLH4.jpg" title="https://pbs.twimg.com/media/Ddp-N4nUwAEkLH4.jpg">şu</a> rezalet fotoğrafla servis edilen haber. tamam anlıyoruz aleyna tilki gomis'in oğlu ya da kızı ile tokalaşıyor ama çocuk niye karede yok? bu nasıl çirkin bir haberciliktir?
-  entry_channels: spor,magazin
-- entry_name: |
-    20 mayıs 2018 galatasaray şampiyonluk kutlamaları
-  entry_id:  77172186
-  entry_writer: betaleonis
-  entry_fav_count: 25
-  entry_content: |
-    galatasaraylılara bak. dün şampiyon oldular bir iki twit attılar bugün de kutlama yapacaklar bitecek. dün akşam kornaya bile basmadılar..beşiktaşlılar öyle mi? allah bize bir daha beşiktaş şampiyonluğu yaşatmasın.
-  entry_channels: spor
-- entry_name: |
-    70 tl'ye et alıyorsan o senin problemin
-  entry_id:  77169767
-  entry_writer: frameworkz
-  entry_fav_count: 23
-  entry_content: |
-    eşşek eti sevdiğini gösterir diyeceğim ama kaliteli eşşek etinin kilosu 30-35 tl arası.
-  entry_channels: siyaset,yeme-içme
-- entry_name: |
-    beşiktaş'ın 4. olması
-  entry_id:  77145256
-  entry_writer: white of honour
-  entry_fav_count: 19
-  entry_content: |
-    beşiktaş savelemeyi unuttu loaddan 2012-13 sezonunu yanlışlıkla açtı<br/><br/>feda sezonu reloaded
-  entry_channels: spor
-- entry_name: |
     galatasaray'ın şampiyonluğunun gölgede kalması
   entry_id:  77173475
   entry_writer: mobutuseseseko
-  entry_fav_count: 18
+  entry_fav_count: 35
   entry_content: |
     bizim bi şampiyonluğumuz gölgede kaldı, o da sahanın ışıklarını açmadıkları için :d
   entry_channels: 
 - entry_name: |
-    osman pamukoğlu'nun doğu perinçek'i desteklemesi
-  entry_id:  77149269
-  entry_writer: baturbaba
-  entry_fav_count: 16
+    30 yaşında bekar kadın
+  entry_id:  77145576
+  entry_writer: eloisee
+  entry_fav_count: 33
   entry_content: |
-    bir efsanenin çöküşü. o kadar konuşuyordun paşa, hepsi bu iflah olmaz ajan-provokatörü desteklemek için miydi? yazık oldu.
-  entry_channels: siyaset,haber
+    30 yasina girmeme 6 ay var. simdiye kadar hic sevgilim olmadi. cunku tam anlamiyla(duygu,egitim,kültür,ahlak vb.) denk birini bulamadim. denk birini buldugumda da akbaba gibi evlenmeyi beklemeyecegim. onunla sevgililik yasamak istiyorum. 30 yasindan once yasamadigim seyleri, 30 oldum diye evlenmem gerek seklinde düsünerek, yasamaktan vazgececek degilim. aksine onunla konsere gitmek, disarida sabahlamak, interrail yapmak, aylik bisiklet turlari yapmak vs. bunlari yasamak istiyorum. zannediyorum ki 30 yas bunlari yasamak icin hala gec bir yas degil.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    20 mayıs 2018 galatasaray şampiyonluk kutlamaları
+  entry_id:  77172186
+  entry_writer: betaleonis
+  entry_fav_count: 33
+  entry_content: |
+    galatasaraylılara bak. dün şampiyon oldular bir iki twit attılar bugün de kutlama yapacaklar bitecek. dün akşam kornaya bile basmadılar..beşiktaşlılar öyle mi? allah bize bir daha beşiktaş şampiyonluğu yaşatmasın.
+  entry_channels: spor
+- entry_name: |
+    deadpool 2
+  entry_id:  77145467
+  entry_writer: overjoyed
+  entry_fav_count: 30
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>- asit kusabiliyorum, gormek ister misin?<br/>+ gerek yok, ne de olsa hepimiz arby’s ten yiyoruz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: sinema
+- entry_name: |
+    aleyna tilki ve gomis'in buluşması
+  entry_id:  77171096
+  entry_writer: koalaterbiyecisi
+  entry_fav_count: 28
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/Ddp-N4nUwAEkLH4.jpg" title="https://pbs.twimg.com/media/Ddp-N4nUwAEkLH4.jpg">şu</a> rezalet fotoğrafla servis edilen haber. tamam anlıyoruz aleyna tilki gomis'in oğlu ya da kızı ile tokalaşıyor ama çocuk niye karede yok? bu nasıl çirkin bir haberciliktir?
+  entry_channels: spor,magazin
+- entry_name: |
+    muse'un en iyi şarkısı
+  entry_id:  77147751
+  entry_writer: youngadult
+  entry_fav_count: 20
+  entry_content: |
+    plug in baby
+  entry_channels: anket,müzik
+- entry_name: |
+    beşiktaş'ın 4. olması
+  entry_id:  77145256
+  entry_writer: white of honour
+  entry_fav_count: 20
+  entry_content: |
+    beşiktaş savelemeyi unuttu loaddan 2012-13 sezonunu yanlışlıkla açtı<br/><br/>feda sezonu reloaded
+  entry_channels: spor
 - entry_name: |
     rıza kocaoğlu'nun galatasaray başkanını trollemesi
   entry_id:  77145069
   entry_writer: capriccio alum
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     haplı
   entry_channels: spor,magazin
 - entry_name: |
+    bu başlıkta kendimizi eleştiriyoruz
+  entry_id:  77156954
+  entry_writer: serayserap
+  entry_fav_count: 16
+  entry_content: |
+    azcık çabala, hırslan tembelliği bırak tüküreyim senin depresyonuna
+  entry_channels: ilişkiler,ekşi-sözlük,edebiyat
+- entry_name: |
+    david beckham
+  entry_id:  77167830
+  entry_writer: msuzun
+  entry_fav_count: 15
+  entry_content: |
+    adamin kulağı benden yakışıklı.
+  entry_channels: spor
+- entry_name: |
     aniden gelen mutsuzluk
   entry_id:  77170778
   entry_writer: visibiliaexinvisibilibus
-  entry_fav_count: 10
+  entry_fav_count: 13
   entry_content: |
     çoğunlukla mutlu geçen bir günün sonunda ortaya çıkıp bütün belirsizliklerinizi, imkansızlıklarınızı, çaresizliklerinizi çat çat yüzünüze vuran sinsi his.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    yüzünü güneşe dön
-  entry_id:  77156145
-  entry_writer: greatkingrat
-  entry_fav_count: 7
+    mesai sonrası iş arkadaşlarıyla bir yerlere gitmek
+  entry_id:  77165566
+  entry_writer: sodomlu
+  entry_fav_count: 12
   entry_content: |
-    alternatifsizlikten dolayı her seçim chp'ye oy vermiş bir insanım. chp bir kere dahi bende böylesine heyecan uyandıramadı.<br/><br/>iyi parti'nin gelişiyle anladım ki oylarım chp'de emanetmiş. bir daha yüzüne bakar mıyım bilmiyorum.
-  entry_channels: siyaset,müzik
+    nefret ettiğim eylemdir. birkaç tanesini tenzih ederek söylüyorum; tüm gün mecburiyetten mütevellit katlanmak zorunda olunan insanlara birde mesai sonrası katlanmaya çalışmak, ücretsiz fazla mesai gibi bir şey olsa gerek. mesai biter bitmez, şener şen'in kibar feyzo filmindeki gibi koşmak suretiyle iş yerini terk etmek en doğrusudur.
+  entry_channels: yeme-içme
 - entry_name: |
-    muse'un en iyi şarkısı
-  entry_id:  77169025
-  entry_writer: son neandertal1
+    anderson talisca
+  entry_id:  77156393
+  entry_writer: arundo
   entry_fav_count: 7
   entry_content: |
-    undisclosed desires <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=R8OOWcsFj0U">https://m.youtube.com/watch?v=r8oowcsfj0u</a>
-  entry_channels: anket,müzik
+    beşiktaşlı değilim, gidişi de pek sikimde değil ama narkozdan "talisca geldi mi" diye uyanan bir eleman vardı, aklıma onu getirdi. o arkadaş için çok üzüldüm.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  77160560
@@ -386,6 +354,14 @@ data:
   entry_content: |
     eşim beni "çirkinim" diye seviyor.<br/><br/>"çirkin ol bakayım" diyor, ben de işaret parmaklarımı ağzıma sokup dudaklarımı gerdirerek dişlerimi ve dilimi gösteriyorum, gözlerimi şaşı yapıyorum.<br/>bu sefer de "hem çirkin hem delisin" diyor.<br/><br/>bunu söylemesi zoruma gitmiyor ama hemen ardından beni bafilemeye çalışması zoruma gidiyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    futbol muhabbeti yapmayan erkek
+  entry_id:  77169676
+  entry_writer: zane zaminsky
+  entry_fav_count: 5
+  entry_content: |
+    boş muhabbete tahammülü olmayan insandır. futbol hakkında konuşmanın mantığı nedir bilmiyorum sen istediğin kadar konuş teknik direktör birini alacak, biri topa vuracak biri kart yiyecek hep aynı muhabbet, yeni bir keşif yeni bir durum yok ne konuştuğun şey durumu etkiliyor ne bi şey on tane kombinasyon var amk çevir çevir konuş
+  entry_channels: spor
 - entry_name: |
     20 mayıs 2018 ankara yağmuru
   entry_id:  77165812
@@ -402,4 +378,28 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=yaran+ba%c5%9fl%c4%b1klar">yaran başlıklar</a>)
   entry_channels: anket,yeme-içme
+- entry_name: |
+    vergileri azaltacağım diyen aday olmaması
+  entry_id:  77173843
+  entry_writer: sauerbraten
+  entry_fav_count: 1
+  entry_content: |
+    +1 <br/>vergi indirmeyene oy vermeyin.<br/>kuzey avrupa vergisi ödeyip, kuzey afrika hizmeti alıyoruz.
+  entry_channels: siyaset,ekonomi
+- entry_name: |
+    jet sosyete (dizi)
+  entry_id:  77173700
+  entry_writer: olympe de gouges
+  entry_fav_count: 0
+  entry_content: |
+    dizi başlayalı artık epey olduğuna göre beğenmeyenler izlemesin geçsin. durup durup izlenmiyor kalkacak deyip durmasınlar.<br/><br/>ben de yalan dünyayı beğenmemiştim ama durmadan takip edip bir an önce kalkması için dua etmedim. zaten izlemiyorsam yayında olup olmamasının bana ne zararı dokunabilir. ben yalan dünyanın o kadar sürdüğünü bile farketmemiştim o kadar ilgi alanımın dışındaydı. <br/><br/>eleştirinizi yaptınız, beğenmediğinizi ifade ettiniz, unutun gitsin artık.
+  entry_channels: tv,spoiler
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  77158600
+  entry_writer: galaios
+  entry_fav_count: 0
+  entry_content: |
+    ya bu discord uygulamasında neden abuk sabuk tipler var?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
