@@ -6,7 +6,7 @@ data:
     galatasaraylıların şampiyonluk olayını uzatmaması
   entry_id:  77338749
   entry_writer: kaderdeki bekir
-  entry_fav_count: 1262
+  entry_fav_count: 1308
   entry_content: |
     10 yılda 1 kez şampiyon olunca yeni sezon başlangıcına kadar 3 ay boyunca 'şampiyonuz da şampiyonuz' diye kafa siken tinercilerin örnek almaları gereken davranış.<br/><br/>galatasaray şampiyon olalı henüz 6 gün oldu ama hiçbir galatasaray taraftarı bu meseleyi uzatmadı, 2 gün kutlayıp olayı bitirdi. beşiktaş olsa hala 'nasıl şampiyon olduk len amq, kaçıncı torbadan şampiyonlar ligine giriyoruz len amq, fiko çok seksi, filozof şenol len amq' diyordu tinerciler.<br/><br/>ee tabi şampiyonluğa alışkanlık olunca olgunluk da yanında geliyor. türkiye'nin en çok şampiyon olmuş takımının taraftarından görgüsüzlük beklememek lazım nihayetinde.
   entry_channels: spor,anket
@@ -14,7 +14,7 @@ data:
     türk kızlarını aşağılayan yunan klibi
   entry_id:  77326327
   entry_writer: mevsimler
-  entry_fav_count: 835
+  entry_fav_count: 839
   entry_content: |
     (bkz: <a class="b" href="/?q=helenik+%c3%a7omar">helenik çomar</a>)
   entry_channels: siyaset,müzik
@@ -22,7 +22,7 @@ data:
     muharrem ince'nin mazot fiyatını bidonla anlatması
   entry_id:  77339425
   entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 584
+  entry_fav_count: 600
   entry_content: |
     'ben hep 50 liralık dolduruyorum' diyen insanlara yönelik çok başarılı bir görsel bilgilendirme <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/982777/Muharrem_ince__16_yildir_bunu_dolduruyorsun.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/982777/Muharrem_ince__16_yildir_bunu_dolduruyorsun.html">şöleni</a>:<br/><br/>''ekonomi anlatıyorlar. ben size ekonomi anlatayım. 2002'de iktidara geldiğinde 50 lirayla bunu (30 litrelik yeşil bidon) dolduruyordun. 16 senenin sonunda bunu (8 litrelik kırmızı bidon) dolduruyorsun. al sana ekonomi.''
   entry_channels: siyaset,ekonomi
@@ -38,7 +38,7 @@ data:
     big bang'den önce ne vardı
   entry_id:  77319530
   entry_writer: nick almasak olmaz mi
-  entry_fav_count: 412
+  entry_fav_count: 417
   entry_content: |
     osmanlı vardı, bütün evren osmanlı torunudur. hepimiz osman gazi’nin toz zerrelerinden oluştuk. aksini iddia eden varsa da vatan hayinidir!
   entry_channels: anket,bilim
@@ -54,7 +54,7 @@ data:
     miras yüzünden sülalenin dağılması
   entry_id:  77329100
   entry_writer: cin fikir
-  entry_fav_count: 381
+  entry_fav_count: 382
   entry_content: |
     (bkz: <a class="b" href="/?q=annenin+pay%c4%b1na+d%c3%bc%c5%9fen+miras%c4%b1+hac%c4%b1layan+day%c4%b1">annenin payına düşen mirası hacılayan dayı</a>)
   entry_channels: ilişkiler,ekonomi
@@ -62,7 +62,7 @@ data:
     f-35 savaş uçaklarını vermezseniz karşılık veririz
   entry_id:  77333504
   entry_writer: heyula33
-  entry_fav_count: 340
+  entry_fav_count: 344
   entry_content: |
     son kez uyarıyorum, o eli bi indir.
   entry_channels: siyaset,haber,havacılık
@@ -70,7 +70,7 @@ data:
     3. havalimanı ismi ne olsun anketi
   entry_id:  77323914
   entry_writer: elbombasiylabalikavlayanadam
-  entry_fav_count: 311
+  entry_fav_count: 320
   entry_content: |
     (bkz: <a class="b" href="/?q=vecihi+h%c3%bcrku%c5%9f">vecihi hürkuş</a>) kadar kimse haketmiyor.
   entry_channels: siyaset,anket,havacılık
@@ -78,7 +78,7 @@ data:
     ikinci turda akşener'in ince'den çok oy alacağı
   entry_id:  77321856
   entry_writer: flying penguin
-  entry_fav_count: 276
+  entry_fav_count: 277
   entry_content: |
     ön edit: kufur edenlerin haddi hesabi yok ne "kürtçü piç"ligim kalmis ne "chp trollu" hatta kripto aktroll diyen bile var. ben bu entryde kendi bulgularimi ve goruslerimi acikladim katilin veya katilmayin beni baglamaz. asagida yazmistim pesinen "sen kimsin" diyenlere tekrar yazayim: su siralar sahada arastirma yapan bir siyaset bilimi son sinif ogrencisiyim. <br/><br/>ön edit 2: mesaj atıp soru soranlar, eleştirenler entry'nin tamamını okuyabilirler, sunduğunuz çoğu argümana cevap bulabilirsiniz.<br/><br/>sunu anlatmaktan dilimde tuy bitti yemin ediyorum. bakin iyi partililer, aksenerciler eger meral hanim 2. turda muhafazakarlardan alacagi oyla erdogani yenebilir diyorsaniz zaten ilk turda akpden koparacagi oyla ince'yi gecmesi lazim. <br/><br/>chp'den oy isteyip 2. turu bize birakin diyen iyi partililere biraz akil fikir diliyorum. ince gibi bir aday varken chpden iyi partiye oy gitmez. hatta incenin adayligindan once iyi partiye giden chp oylari bile geri dondu.<br/><br/>bu konuda daha fazla entry yazmayacagim artik. siyasetten zerre anlamayan adamlar "aksenerin muhafazakarlardan alacagi oy incenin kurtlerden alacagi oydan daha onemli :((((((" diye siyasi analiz kastiklarini saniyorlar.<br/><br/>aksener iddiali ve basarili bir siyasetci evet, fakat su an ruzgari arkasina almis ve gercekten erdogani yenme ihtimali olan birisi varsa o da muharrem ince'dir kimse kusura bakmasin.<br/><br/>edit: bir suru mesaj aldim, hepsini tek tek cevaplamak yerine buradan bir ozet gecelim. yazilanlar su sekilde. bu arada ekleme yapayim bu donemde sahada arastirma yapan bir siyaset bilimi ogrencisiyim iskembeden sıkmıyorum yani.<br/><br/>1) git biraz siyaset ogren, aksenerin %20oyu var. 2. tura ince kalirsa bu oylarin yarisi ikinci turda erdogana gidecek.<br/><br/>-yanlis.bunun cok uzun bir aciklamasi var. basitce soyle anlatayim: <br/>erdoganin secmeni militan secmendir, ona oy verecek olan hem ilk turda hem ikinci turda verir. ayni sekilde erdoganin karsininda oy kullanmaya karar veren secmen de bir daha erdogan tarafindan ikna edilemiyor. buradaki asil husus su: toplum karpuz gibi ortadan ikiye<br/>yarildi, erdoganci olanlar ve olmayanlar.<br/><br/>ayrica size mevcut secimde %95 dogru olan bir secmen davranisindan bahsedeyim: referandumda hayir oyu verenler erdogana tekrar oy vermek istemiyor.<br/><br/>ve aksenerin erdogandan kopardigi %10-15 civari oy varsa kendi kemik oyu %5 demektir. bu dogruysa (ki degil) parlementoda ya akp%35 cikmali yada iyi parti %5 cikmali.<br/><br/>2) anketlerde aksener ikinci turda ince'den daha avantajli gorunuyor, ama ilk turda gerisinde.<br/><br/>-simdi buradaki iddia genel olarak gezici'nin arasirmasindan geliyor ( ki kendisi guvenilirdir). fakat bu anket yapilirken ince'nin adayligi ve millet ittifaki belli degildi aklinizda bulunsun. ayrica su an yapilmakta olan anketler bile kesin sonuc olarak asla gorulmemeli. ikinci turda ince 25 aksener 20'aldi ve ince aksener icin yaristan cekildi diyelim, bi kere bu secmende psikolojik dezavantaj yaratir (%45 alan erdogan vs %20 alan aksener) kurt oylari meselesi de var simdi bahsedecegim.<br/><br/>3) 2. ince kurtlerden oy alir ama aksenerin muhafazakar kesimden alacagi oy daha fazla olur. <br/><br/>-bu zaten entrynin orjinalinde acikladigim olay. buna ragmen hala ayni seyi bana mesajla yazanlar olmus. yine de ekleme yapayim: ikinci tur aksener-erdogan kalirsa kurt oylarının %10luk kısmı referandumdaki gibi erdogana gidebilir geri kalani da boykot edebilir. ve evet bu secimin sonucunu kararsiz muhafazakarlar degil kurtler belirleyecek, begenin yada begenmeyin.<br/><br/>kurtlerin tum oyu ince'ye gider mi? boyle bir iddiam da yok yanlis anlasilmasin. fakat aksener erdogan ince uclusune baktiginizda gercek anlamda "kurt sorunu vardir bunu cozecegiz" diyebilen tek aday ince'dir. <br/><br/>4) türkiye'nin sosyolojik gerçeği %70sağ %30 soldur, solcu muharrem ince erdoğanı yenemez.<br/><br/>şimdi bu cümle tamamen yanlış. 2001 için doğru olabilir. türkiye'nin %20si sağcı %5i solcudur. toplum da şu anda %49-51 erdoğancı olan/olmayan olarak bölünmüş durumda. ayrıca muharrem ince solcu da değildir. erdoğan islamcı aşırı sağ, akşener milliyetçi merkez sağ ince de merkezin sağı diyebileceğimiz bir konumdadır. <br/><br/>kimsenin oy tercihine karışmak haddim değil, istediğinize oy verin. görüşlerime de katılın katılmayın fark etmez. sadece ilk başta söylediğim noktaya geliyoruz: akşener erdoğanı yenme iddiasındaysa bunu zaten ilk turda görmemiz lazım. chp'den oy istemekle olacak iş değil. <br/><br/>neyse, ilgilenenler okuyabilir elestirebilir tabi fakat bulgularim, goruslerim bu sekilde. son olarak sunu ekliyorum: erdogani yenmek istiyorsak muhalif turkler kurtlerle barismak zorunda.<br/><br/>edit 2: valla saka gibisiniz ince'yi destekledigim icin selocu (??)pkkli bile olmusuz. caylaklara mesajlari kapattim butun yazar dostlara da tavsiye ederim. <br/><br/>oy tercihimi de aciklayim da rahatlayin. parlamento chp cb ince. ailecek chpliyiz zaten.<br/><br/>edit 3: mesajlara cevap vermeye devam:<br/><br/>5) havuz medyası sadece ince'ye yer veriyor "akıllı boksör rakibini kendi seçer" akşener'den korkuyorlar...<br/><br/>-yanlış. havuz medyası sadece akşener'i değil, karamollaoğlu'nu da, demirtaş'ı da görmezden geliyor. bunun sebebi onlardan korkmaları değil onları görmezden gelebiliyor olmaları, diğer adaylar ne kadar az oy alırlarsa o kadar iyi çünkü hala ilk hedef erdoğan'ın 1. turda kazanması. trt veya a haber izleyen bir vatandaşa göre ne yazık ki bu ülkede iyi parti ve akşener yok, saadet yok, hdp ve demirtaş da yok. sadece süper işler yapan reis var bi de chp arada sırada var o da reis tokatlasın diye. bugünün gazetelerine bakarsanız dün akşamki ince yayınından laf cımbızlayıp ince'yi eleştirmeye çalışmış havuz medyası sadece. erdoğanın 16 yıldır taktiği budur, "cehape zihniyetini tokatla, dini söylemlerle coştur, projeyle kudurt".
   entry_channels: siyaset,anket
@@ -86,18 +86,10 @@ data:
     en güçsüz süper kahraman
   entry_id:  77333450
   entry_writer: dzingis
-  entry_fav_count: 241
+  entry_fav_count: 242
   entry_content: |
     hulk değildir.<br/><br/>ercan belanızı siker.
   entry_channels: anket,tv,sinema
-- entry_name: |
-    sarılma istersen abi çünkü kokuyorum
-  entry_id:  77337988
-  entry_writer: eksi peace
-  entry_fav_count: 219
-  entry_content: |
-    amk aktrollerinin samimi bulmayacağı olay.<br/><br/>rte yapınca halkın reisi, ince yapınca kurgu.
-  entry_channels: siyaset,ilişkiler
 - entry_name: |
     dursun özbek'in başkan olmasını istemiyoruz
   entry_id:  77335271
@@ -110,7 +102,7 @@ data:
     25 mayıs 2018 tavuk kuru
   entry_id:  77339239
   entry_writer: freedom for all
-  entry_fav_count: 200
+  entry_fav_count: 205
   entry_content: |
     son günlerde yaşanan tavuk krizinden sonra %50 zam alarak kilo fiyatı 18 lira olan kur. neyse ki 5 gün evvel buzluğa 10 kilo stok yapmıştım, böylece kısa vadede 50 lira kar etmiş oldum. satsam mı yesem mi henüz karar vermedim ama.<br/><br/>edit: söylemeyi unutmuşum; ytd.
   entry_channels: yeme-içme,ekonomi
@@ -118,7 +110,7 @@ data:
     bir milli yalan bırak
   entry_id:  77340809
   entry_writer: mana potu
-  entry_fav_count: 183
+  entry_fav_count: 186
   entry_content: |
     sıralı tam liste<br/><br/>(bkz: <a class="b" href="/?q=camide+i%c3%a7ki+i%c3%a7tiler">camide içki içtiler</a>)<br/>(bkz: <a class="b" href="/?q=benim+t%c3%bcrbanl%c4%b1+bac%c4%b1m%c4%b1n+%c3%bcst%c3%bcne+i%c5%9fediler">benim türbanlı bacımın üstüne işediler</a>)<br/>(bkz: <a class="b" href="/?q=d%c4%b1%c5%9f+mihraklar">dış mihraklar</a>)<br/>(bkz: <a class="b" href="/?q=faiz+lobisi">faiz lobisi</a>)<br/>(bkz: <a class="b" href="/?q=almanya+bizi+k%c4%b1skan%c4%b1yor">almanya bizi kıskanıyor</a>)<br/>(bkz: <a class="b" href="/?q=ehonomi+%c3%a7oh+iyi">ehonomi çoh iyi</a>)<br/>(bkz: <a class="b" href="/?q=yerli+u%c3%a7ak">yerli uçak</a>)<br/>(bkz: <a class="b" href="/?q=yerli+araba">yerli araba</a>)<br/>(bkz: <a class="b" href="/?q=pkk%e2%80%99yla+g%c3%b6r%c3%bc%c5%9fmedik">pkk’yla görüşmedik</a>)
   entry_channels: siyaset,anket
@@ -126,7 +118,7 @@ data:
     yolanthe cabau'nun sneijder'i boynuzlaması
   entry_id:  77342177
   entry_writer: kahtali nietzche
-  entry_fav_count: 176
+  entry_fav_count: 179
   entry_content: |
     dursun özbek yüzünden amk. her boku batırıyor. adamı katar'a gönderdi. o karı katar'da yaşar mı boynuzladı tabi bizim snaypırı.
   entry_channels: haber,magazin
@@ -134,34 +126,26 @@ data:
     hem seks hem de cenazede söylenebilecek bir cümle
   entry_id:  77339265
   entry_writer: mr gentleman
-  entry_fav_count: 171
+  entry_fav_count: 174
   entry_content: |
     çok erken oldu
   entry_channels: anket
 - entry_name: |
-    hande fırat'a bir söz bırak
-  entry_id:  77319072
-  entry_writer: asmnys
+    gelmiş geçmiş en felsefi söz
+  entry_id:  77320957
+  entry_writer: ostrava
   entry_fav_count: 163
   entry_content: |
-    "kalbin, yüzünden okunuyor."<br/><br/>o kadar tahammül edemedim ki; televizyonun sesini açıp yan odaya geçtim.
-  entry_channels: siyaset,anket,tv,haber
+    " ne kadar da çok acıyorum keskin pençeleri olmadığı için kendini iyi sanan zayıflara. "<br/><br/>(bkz: <a class="b" href="/?q=nietzsche">nietzsche</a>)
+  entry_channels: anket,edebiyat
 - entry_name: |
     muharrem ince'ye bir mesaj bırak
   entry_id:  77322688
   entry_writer: second
-  entry_fav_count: 149
+  entry_fav_count: 161
   entry_content: |
     sizin adaylığınızı açıkladığınız zamandan beri yaşattığınız güzelliği akp 16 yıllık iktidarında yaşatamadı sadece bunun için bile teşekkür ederim sayin ince, kazanırsınız / kaybedersiniz ayrı birşey fakat nolursa olsun siz benim gönlümde kazandınız.<br/><br/>başarılarınızın devamını dilerim.
   entry_channels: siyaset,anket
-- entry_name: |
-    gelmiş geçmiş en felsefi söz
-  entry_id:  77320957
-  entry_writer: ostrava
-  entry_fav_count: 147
-  entry_content: |
-    " ne kadar da çok acıyorum keskin pençeleri olmadığı için kendini iyi sanan zayıflara. "<br/><br/>(bkz: <a class="b" href="/?q=nietzsche">nietzsche</a>)
-  entry_channels: anket,edebiyat
 - entry_name: |
     viraja gereğinden hızlı girdiğinin hissedildiği an
   entry_id:  77322539
@@ -171,37 +155,45 @@ data:
     frene abanmadan, gazdan ayagini çekip arabanin dışa dogru açilmasina izin vererek rahatlanacak andir.<br/><br/>edit : direksiyon düzken sert ve kisa bir fren viraji geçmenizi daha da kolaylastirir.ancak bu vakit kisa olacagindan frene uzun süreli abanmayiniz.
   entry_channels: anket,otomotiv,motosiklet
 - entry_name: |
-    muharrem ince
-  entry_id:  77319143
-  entry_writer: cudananin laneti
-  entry_fav_count: 102
-  entry_content: |
-    “atanamayan” değil, “ataması yapılmayan” demiştir öğretmen sorunundan bahsederken...<br/><br/>ilk defa içime tamamen sinerek oy vermeme sebep olacak kişidir.
-  entry_channels: siyaset,haber,eğitim
-- entry_name: |
-    evlenene kadar cinsel ilişki yaşamayan kadın
-  entry_id:  77332858
-  entry_writer: kebooo
-  entry_fav_count: 101
-  entry_content: |
-    bir kadının istediği erkekle birlikte olma özgürlüğü kadar doğaldır. bir kadın evlenene kadar ya da nişanlanana kadar ya da mezun olana kadar ya da fenerbahçe şampiyonlar ligi şampiyonu olana kadar cinsel ilişki yaşamak istemezse yaşamaz. bir bireyin tercihi üzerine şurada saçma sapan yorumlar, saçma salak hakaretler eden tipler yüzünden bu ülke bu durumda. cinsel ilişki yaşasalar suç, yaşamasalar suç ki cinsel ilişki yaşamadıklarında hemcinsleri tarafından hakarete uğradıklarını da çok gördüm. insanın en büyük sorunu başkalarının da kendi bireysel seçimleri, tercihleri doğrultusunda yaşamalarını istemesi. bırakın isteyen kadın dilediği gibi seks yapsın, bırakın isteyen kadın istediği zamana kadar seks yapmasın. siz de kendi yaşam tercihlerinizle, frekanslarınıza uygun kadınlarla birlikte olun. bu kadar basit bir denklem aslında ama burunlarını başkalarının hayatları dahil her boka sokan zihniyetler yüzünden bu gibi gereksiz tartışmalar hiç bir zaman bitmedi, bitmeyecek de..
-  entry_channels: ilişkiler
-- entry_name: |
     muharrem ince cb olunca döneceklerin listesi
   entry_id:  77345506
   entry_writer: benimgonlumserifalidengecti
-  entry_fav_count: 86
+  entry_fav_count: 114
   entry_content: |
     her daim <a class="b" href="/?q=mehmet+barlas">mehmet barlas</a>'tır. rok falan onun yanında yeni yetme kalır
   entry_channels: siyaset,anket
 - entry_name: |
+    muharrem ince
+  entry_id:  77319143
+  entry_writer: cudananin laneti
+  entry_fav_count: 103
+  entry_content: |
+    “atanamayan” değil, “ataması yapılmayan” demiştir öğretmen sorunundan bahsederken...<br/><br/>ilk defa içime tamamen sinerek oy vermeme sebep olacak kişidir.
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    üç kağıtçı filmindeki inanılmaz mantık hatası
+  entry_id:  77346222
+  entry_writer: karabasan811
+  entry_fav_count: 94
+  entry_content: |
+    gözünden de hiç birşey kaçmıyor kerata.
+  entry_channels: sinema
+- entry_name: |
     meral akşener
   entry_id:  77321624
   entry_writer: karanlikta kaybolamayan kahraman
-  entry_fav_count: 79
+  entry_fav_count: 80
   entry_content: |
     son seçimde mhp' ye oy atmış biri olarak:<br/><br/>1. sayın bahçeli' ye hakkımı helal etmiyorum. ben oyumu akp' nin işlerini kolaylaştırmak için atmadım. <br/>2. meral hanım şu an için beni temsil ediyor ve ona güveniyorum.<br/>3. olur da yakışıklı abimiz sayın ince ikinci tura kalırsa gönül rahatlığıyla oy verebilirim kendisine.
   entry_channels: siyaset
+- entry_name: |
+    3-6 yaşlardaki çocuklara dini eğitim nasıl olmalı
+  entry_id:  77343742
+  entry_writer: taluyka
+  entry_fav_count: 79
+  entry_content: |
+    bir soru.<br/><br/>bir çocuğa 6 yaşına kadar somut olmayan şeylerin öğretilmesini doğru bulmuyorum.<br/><br/>zaten öğretsen de kavrayamaz.<br/><br/>bize öğrettiler de ne oldu ? senelerce minareleri allah sandım, tövbe tövbe.<br/><br/>bu işler din adamlarının işleri değil. en azından sırf onların sözüyle çocuklarınıza bir gelecek biçmeyin.<br/><br/>çocuğunuzu kendi dininizde yetiştirme fikrine de saygı duyuyorum. ben de aynısını yapardım; fakat dediğim gibi sırf din adamlarının dedikleriyle yapmayın bunu.<br/><br/>6-7 yaşına kadar soyut kavramlardan olabildiğince uzak tutun çocuğunuzu. mutlu olsun çevresini anlasın.
+  entry_channels: 
 - entry_name: |
     xiaomi'nin türk pazarına girmesi
   entry_id:  77338234
@@ -211,42 +203,34 @@ data:
     dolar, ötv, kdv falan derken şuan 900 liraya aldığımız cihazı 1500 tl ye alacağız.<br/><br/>çok sevindik.
   entry_channels: teknoloji,ekonomi
 - entry_name: |
-    3-6 yaşlardaki çocuklara dini eğitim nasıl olmalı
-  entry_id:  77343742
-  entry_writer: taluyka
-  entry_fav_count: 71
-  entry_content: |
-    bir soru.<br/><br/>bir çocuğa 6 yaşına kadar somut olmayan şeylerin öğretilmesini doğru bulmuyorum.<br/><br/>zaten öğretsen de kavrayamaz.<br/><br/>bize öğrettiler de ne oldu ? senelerce minareleri allah sandım, tövbe tövbe.<br/><br/>bu işler din adamlarının işleri değil. en azından sırf onların sözüyle çocuklarınıza bir gelecek biçmeyin.<br/><br/>çocuğunuzu kendi dininizde yetiştirme fikrine de saygı duyuyorum. ben de aynısını yapardım; fakat dediğim gibi sırf din adamlarının dedikleriyle yapmayın bunu.<br/><br/>6-7 yaşına kadar soyut kavramlardan olabildiğince uzak tutun çocuğunuzu. mutlu olsun çevresini anlasın.
-  entry_channels: 
-- entry_name: |
     baba ben okumak istemiyorum ticaretçi olacağım
   entry_id:  77342086
   entry_writer: 12 bar
-  entry_fav_count: 67
+  entry_fav_count: 71
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c5%9fk%c4%b1m%c4%b1z%c4%b1n+meyvesi+aytek">aşkımızın meyvesi aytek</a>)
   entry_channels: 
 - entry_name: |
-    üç kağıtçı filmindeki inanılmaz mantık hatası
-  entry_id:  77346222
-  entry_writer: karabasan811
-  entry_fav_count: 60
+    hande fırat
+  entry_id:  77319552
+  entry_writer: nush ile uslanmayani takdir eden adam
+  entry_fav_count: 63
   entry_content: |
-    gözünden de hiç birşey kaçmıyor kerata.
-  entry_channels: sinema
+    muharrem ince: "bu ülkede cumhurbaşkanı'nın maaşı 25 kat artmış. sizin maaşınız 25 kat arttı mı hande hanım? benimki artmadı."<br/><br/>bu soruya cevap vermeyen kadın. arttı mı hakikaten?
+  entry_channels: tv,haber
 - entry_name: |
     araba kullanırken kedilere dikkat ediyoruz
   entry_id:  77340497
   entry_writer: aponeurosis
-  entry_fav_count: 59
+  entry_fav_count: 60
   entry_content: |
-    başlatmak istediğim bir kampanya veya yaratmak istediğim bir farkındalık olabilir.<br/><br/>normalde tabiki hep gördüğümüz bir durum insanların trafikte hayvanlara çarpmaları ve devamında onları o şekilde bırakıp gitmeleri. ben de her zaman bu duruma içten içe sinirlenen biriyim ama bugün karşılaştığım durumdan sonra bir ses çıkartmaya karar verdim. aslında başlığı kedi olarak sınırlandırmak doğru mu bilmiyorum ancak kazalar sonucu ölen hayvanların en az yüzde 80’i kedi. <br/><br/>sabahları okula gitmem yarım saatimi alıyor. yani her sabah yarım saatlik bir yolum mevcut. bu sabah yarım saat içinde ayrı ayrı noktalarda yol kenarında ölmüş ve parçalanmış tam 3 tane kedi gördüm. <br/><br/>inanılır gibi değil. insanların kendilerini dünyanın sahibi sanmaları inanılır gibi değil. saçma sapan sebeplerle hayvanların ölmesinin anlaşılır bir tarafı veya izahı yok. <br/><br/>gereksiz hız sevdası, dikkatsizlik ve umursamazlık sebep oluyor buna bence.<br/><br/>öncelikle 2 farklı maddeye ayırarak çözüm aramak lazım bu duruma.<br/><br/>ilki trafik kuralları ve hız sınırı. yani hız sınırına uyarsak, 50 ile gidilmesi gereken yolda 100; 120 ile gidilmesi gereken yolda 180 yapmazsak ilk sorun kısmen aşılır. bunların üstüne bir de trafikte dikkatli olursak ve gözümüzü yoldan ayırmazsak bu sorunu tamamen aşmış oluruz ki bu söylediklerim sadece hayvanlar için değil bizim için de önemli.<br/><br/>ikincisi ise elimizden geleni yaptıktan sonra yine de bir kaza yaptıysak yapmamız gereken bir müdahale. o an ne işimiz varsa, yetişmemiz gereken neresi varsa unutup çarptığımız kediyi hemen veterinere götürmeliyiz veya o an için ne gerekiyorsa yapmalıyız.<br/><br/>bu iki maddeyi kim dikkate alır, kim uygular, bir fikrim şu an için yok ancak eğer uygularsak eminim kazaların yarısını engellemiş oluruz, engelleyemediklerimizde ise en azından veterinere götürerek belki hayatlarını kurtarmış oluruz. <br/><br/>son olarak, daha etkili, daha farklı fikirleriniz varsa listeyi iki madde ile sınırlı tutmak istemem, mesaj atarsanız ekleyebilirim.<br/><br/>bu, şimdilik buradan başlattığım bir kampanya olarak kalacak ilk etapta. ama burada dikkat çekerse daha sonrasında herkesin sosyal medya hesaplarında paylaşarak destek vereceğini veya tanıdıklarına bu durumdan bahsedeceğini düşünüyorum, umuyorum. <br/><br/>bu entry, şu an için sadece bir dilek ve bu sorunun aşılması için elimden gelenin tamamı. umarım bir şeyler değişir.
+    başlatmak istediğim bir kampanya veya yaratmak istediğim bir farkındalık olabilir.<br/><br/>normalde tabiki hep gördüğümüz bir durum insanların trafikte hayvanlara çarpmaları ve devamında onları o şekilde bırakıp gitmeleri. ben de her zaman bu duruma içten içe sinirlenen biriyim ama bugün karşılaştığım durumdan sonra bir ses çıkartmaya karar verdim. aslında başlığı kedi olarak sınırlandırmak doğru mu bilmiyorum ancak kazalar sonucu ölen hayvanların en az yüzde 80’i kedi. <br/><br/>sabahları okula gitmem yarım saatimi alıyor. yani her sabah yarım saatlik bir yolum mevcut. bu sabah yarım saat içinde ayrı ayrı noktalarda yol kenarında ölmüş ve parçalanmış tam 3 tane kedi gördüm. <br/><br/>inanılır gibi değil. insanların kendilerini dünyanın sahibi sanmaları inanılır gibi değil. saçma sapan sebeplerle hayvanların ölmesinin anlaşılır bir tarafı veya izahı yok. <br/><br/>gereksiz hız sevdası, dikkatsizlik ve umursamazlık sebep oluyor buna bence.<br/><br/>öncelikle 2 farklı maddeye ayırarak çözüm aramak lazım bu duruma.<br/><br/>ilki trafik kuralları ve hız sınırı. yani hız sınırına uyarsak, 50 ile gidilmesi gereken yolda 100; 120 ile gidilmesi gereken yolda 180 yapmazsak ilk sorun kısmen aşılır. bunların üstüne bir de trafikte dikkatli olursak ve gözümüzü yoldan ayırmazsak bu sorunu tamamen aşmış oluruz ki bu söylediklerim sadece hayvanlar için değil bizim için de önemli.<br/><br/>ikincisi ise elimizden geleni yaptıktan sonra yine de bir kaza yaptıysak yapmamız gereken bir müdahale. o an ne işimiz varsa, yetişmemiz gereken neresi varsa unutup çarptığımız kediyi hemen veterinere götürmeliyiz veya o an için ne gerekiyorsa yapmalıyız.<br/><br/>bu iki maddeyi kim dikkate alır, kim uygular, bir fikrim şu an için yok ancak eğer uygularsak eminim kazaların yarısını engellemiş oluruz, engelleyemediklerimizde ise en azından veterinere götürerek belki hayatlarını kurtarmış oluruz. <br/><br/>son olarak, daha etkili, daha farklı fikirleriniz varsa listeyi iki madde ile sınırlı tutmak istemem, mesaj atarsanız ekleyebilirim.<br/><br/>bu, şimdilik buradan başlattığım bir kampanya olarak kalacak ilk etapta. ama burada dikkat çekerse daha sonrasında herkesin sosyal medya hesaplarında paylaşarak destek vereceğini veya tanıdıklarına bu durumdan bahsedeceğini düşünüyorum, umuyorum. <br/><br/>bu entry, şu an için sadece bir dilek ve bu sorunun aşılması için elimden gelenin tamamı. umarım bir şeyler değişir.<br/><br/>edit: güzel mesajlar almam gerekirken hakaret mesajları aldım daha çok. “onlar da yola aniden atlamasın o zaman, kız düşürcem diye açtığın çok belli, napalım ölürlerse ölsünler” gibi birçok mesaj geldi. küfür de yedim beklemediğim şekilde. hiçbirine cevap yazmadım. böyle insanlara laf anlatmak mümkün değil. ancak gelen destek mesajları da oldu tabiki. hepsine cevap vermeye çalıştım. herkese teşekkür ederim. başlığın daha da yukarıya çıkması için daha fazla destek olunması gerektiğini de düşündüğümü ekleyeyim.<br/><br/>son olarak bir çaylak özelden şunu attı. çarptığınız hayvanı veterinere götürmekten ücreti yüzünden çekiniyorsanız bir göz atabilirsiniz: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.bianet.org/bianet/hayvan-haklari/128256-hayvan-kazalarinda-tedavi-masraflari-trafik-sigortasi-tarafindan-karsilanacak" title="https://m.bianet.org/bianet/hayvan-haklari/128256-hayvan-kazalarinda-tedavi-masraflari-trafik-sigortasi-tarafindan-karsilanacak">link</a>
   entry_channels: otomotiv
 - entry_name: |
     erdoğan'ın alan boş diye konuşmasını iptal etmesi
   entry_id:  77344470
   entry_writer: omuriliksorunsali
-  entry_fav_count: 45
+  entry_fav_count: 51
   entry_content: |
     artık değişim zamanı geldiğini gösteren olay kanımca.<br/><br/>ya da oruç tutmak için evde kalmışlardır. malum bedava döner-pilav dağıtılmıyor o saatlerde.
   entry_channels: siyaset,haber
@@ -254,98 +238,130 @@ data:
     6 yaşındaki bade'nin duymasını sağlıyoruz
   entry_id:  77344263
   entry_writer: viviano
-  entry_fav_count: 35
+  entry_fav_count: 38
   entry_content: |
     ön edit: bir yazar kanald ile ailenin iletişim bilgilerini almak için irtibata geçtiğini özel mesajla bildirdi. ailenin iletişim bilgileri için ondan haber bekliyoruz. sizden ricam başlığı sürekli yukarda tutalım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/OD2mP3.jpg">http://i.hizliresim.com/od2mp3.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/9--Ff23HINs">https://youtu.be/9--ff23hins</a> <br/>haberin videosu yukarda 24.55'te başlıyor.<br/><br/>az önce haberlerde gördüğüm 6 yaşındaki bade ismindeki işitme engelli kız çocuğu için başlatmaya gerek duyduğum kampanya.<br/><br/>öncelikle 6 yaşındaki bade'ye devlet işitme cihazını ücretsiz olarak veriyor. ancak bade sokakta oyun oynarken, mahallelinin dediğine göre yanına yaklaşan bir hırsız bade'nin kulaklarından işitme cihazını alıp kaçıyor. bunun üzerine devlet ikinci cihazı aradan belli süre geçmeden veremeyeceğini söyleyip cihaz vermiyor.<br/><br/>bade şuan duyamıyor. baba işsiz. anne çalışmıyor. aile kirayı ödeyemiyormuş. üsküdar ya da ümraniye'ydi sanırım tam hatırlamıyorum o civarlarda gecekondudan bozma bir evde yaşıyorlarmış. ayrıca bade'nin 1.5 yaşındaki kardeşi de kalp hastasıymış. ailenin durumu kötü olduğu için, aile de cihazı alamıyor. bade böyle giderse konuşmayı da öğrenemeyecek ve hem işitemeyecek, hem konuşamayacak.<br/><br/>ben de haberlerde gördüğüm için aileye nasıl ulaşılır, nereye yardım yapabiliriz vs. bilmiyorum ama bir şeyler yapmak gerekli diye düşünüyorum...<br/><br/>edit: gerekli detayları nasıl alabiliriz hiçbir fikrim yok. o bölgelerde yaşayan arkadaşlar varsa aileye ulaşmaları lazım. internette falan aradım haberi bulamadım. kanal d özel haber olarak geçmişti haberi. kanal d'ye ulaşırsak aileye de ulaşabiliriz diye düşünüyorum. ya da bu aileyi tanıyan bilen falan varsa anca öyle ulaşabiliriz.
   entry_channels: haber
 - entry_name: |
-    meral akşener'e medyada hiçbir yer verilmemesi
-  entry_id:  77345191
-  entry_writer: mrgenius
-  entry_fav_count: 20
+    dinden imandan yoksun ekşi sözlük yazarları
+  entry_id:  77347614
+  entry_writer: tovbebismillah
+  entry_fav_count: 35
   entry_content: |
-    arkadaş şu "iktidar muharrem inceyi istiyor onun için once medyada yer buluyor." geyiğini bi bıraksanız...<br/><br/>ince de yer bulamiyordu. iktidar benden korkuyor goygoyuna gırmeden, hafif tabirle <a class="b" href="/?q=s%c3%b6ke+s%c3%b6ke">söke söke</a> hakkını aldı adam. canlı yayına bağlandı fırçaladı, önlerinde miting yapacam dedi.<br/><br/>şimdi bu yüzden sike sike veriyorlar inceyi.<br/><br/>farkındaysanız trt hala vermiyor inceyi adam akıllı.<br/><br/>iyi parti hala "bizden korkuyorlar" diyip chp'den oy devşirmekle uğraşacağına hakkını arayıp ana akım medyada yer bulsun. akp'den devşirsin oyunu.
-  entry_channels: siyaset
-- entry_name: |
-    ofis basan genç kızlar
-  entry_id:  77321016
-  entry_writer: heroben
-  entry_fav_count: 19
-  entry_content: |
-    ülkenin asalak sürüsü bunlar. yarın öbür gün görücü usulü evlenip bir barzoyla hayat kuracaklar. sonra çocuk yapacaklar ve bilinçsizce yaptıkları o çocukları da bunlar gibi asalak olacak. hepsinin köküne kibrit suyu
-  entry_channels: ilişkiler,haber
+    kıymetli dinli kardeşim. ateistlerin ve deistlerin acı, zehir ve umutsuzluk dolu dünyasını anlamak için gösterdiğin çaba için allah senden razı olsun. senin de engin görüşünle fark ettiğin gibi bizler bil umum şerefsizlik, içki, uyuşturucu ve sex alemlerinden arta kalan zamanlarımızda acılar içindeyiz. cami yakıp müslüman dövmeyi bırakmayı çok istiyoruz ama efendimiz şeytanın ayartmaları çok güçlü. keşşşke allah bize de sana verdiği gibi hidayetinden nasip etseydi de cehennemlerde kan ve irin ırmaklarından içmekten, zebaniler tarafından şişe geçirilip anırta anırta zikilmekten kurtulabilseydik ama heyhat! o nurlu cennet bahçeleri, o bakire yaşıt kızlar, o kevser şarapları, mücevherlerle bezeli köşkler size nasipmiş. ne yapalım mukadderat. sağlıcakla kal.
+  entry_channels: siyaset,ekşi-sözlük
 - entry_name: |
     doggy pozisyonunu çekici kılan detaylar
   entry_id:  77346151
   entry_writer: seabird
-  entry_fav_count: 18
+  entry_fav_count: 30
   entry_content: |
     insanlarla yüz göz olmamak gibi avantajlardır.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    meral akşener'e medyada hiçbir yer verilmemesi
+  entry_id:  77345191
+  entry_writer: mrgenius
+  entry_fav_count: 24
+  entry_content: |
+    arkadaş şu "iktidar muharrem inceyi istiyor onun için once medyada yer buluyor." geyiğini bi bıraksanız...<br/><br/>ince de yer bulamiyordu. iktidar benden korkuyor goygoyuna gırmeden, hafif tabirle <a class="b" href="/?q=s%c3%b6ke+s%c3%b6ke">söke söke</a> hakkını aldı adam. canlı yayına bağlandı fırçaladı, önlerinde miting yapacam dedi.<br/><br/>şimdi bu yüzden sike sike veriyorlar inceyi.<br/><br/>farkındaysanız trt hala vermiyor inceyi adam akıllı.<br/><br/>iyi parti hala "bizden korkuyorlar" diyip chp'den oy devşirmekle uğraşacağına hakkını arayıp ana akım medyada yer bulsun. akp'den devşirsin oyunu.
+  entry_channels: siyaset
+- entry_name: |
+    ekşi itiraf
+  entry_id:  77319358
+  entry_writer: barbar savasci
+  entry_fav_count: 21
+  entry_content: |
+    çocukluk arkadaşım vardı adı furkan.<br/>delikanlı, dürüst efendi cömert bir insandı. ilk ve ortaokulu beraber okuduk. hep beraber takılırdık, futbol maçlarında ileri forvette ikimiz vardık. o bana hep asist yapardı, ben genelde bencil oynar pek pas vermezdim ona. çok severdi beni. yan sınıftan bir kızı severdi, sürekli ona açılmayı onunla konuşmayı düşünür bunun provasını yapardı ama hiç açılamadı, çocukluk işte.<br/>furkan zeki bir çocuktu, iyi bir anadolu lisesi kazanmıştı, ben de farklı bir türden lise kazandım. lisede yollarımız ayrıldı anlıyacağınız. biz yine de görüşüyorduk, eskisi kadar olmasa da fırsat buldukça görüşüyorduk. yeni birine aşık olmuş ona açılmanın planlarını yapıyordu. bir acayip adamdı furkan, çok fazla sosyal değildi, kendince doğruları vardı, herkesle muhatap olmaz, espiriden şakadan pek hoşlanmazdı. tabi zaman geçitkçe eskisi gibi görüşemez olduk, ayda bir anca görüşüyorduk. <br/>velhasılı aradan yıllar geçti, furkan iyi bir üniversiteden dereceyle mezun oldu, ankarada iyi bir şirkette iyi bir pozisyonda işe başladı. geçen sene ankarada görüştük, tunalıda birşeyler içtik. çok değişmişti furkan, alkole başlamış, manita yapmış espirler falan baya bi kendisini aşmıştı.<br/>çok seviyordu kız arkadaşını, sürekli ondan bahsetti. sürekli onunla mesajlaşıyordu, gözlerinin içi gülüyordu...<br/>geçenlerde mesaj geldi furkandan, evlilik davetiyesinin fotoğrafını çekmiş yollamış. gözlerimin içi doldu, efkarlandım, buzdolabımda duran 20lik rakıyı susuz sabunsuz götürdüm, çok koydu çok ağrıma gitti çok.<br/>düşünsenize daha geçen sene görüşmüştük, bekardı. şansa yaşıyoruz bu ülkede yemin ediyorum. herkesin başına gelebilir...
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ofis basan genç kızlar
+  entry_id:  77321016
+  entry_writer: heroben
+  entry_fav_count: 20
+  entry_content: |
+    ülkenin asalak sürüsü bunlar. yarın öbür gün görücü usulü evlenip bir barzoyla hayat kuracaklar. sonra çocuk yapacaklar ve bilinçsizce yaptıkları o çocukları da bunlar gibi asalak olacak. hepsinin köküne kibrit suyu
+  entry_channels: ilişkiler,haber
+- entry_name: |
     #teksecenekmustafacengiz
   entry_id:  77346570
   entry_writer: gercekolantekseyyalnizligindirdostum
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     sevgili galatasaraylilar; yarın yeni başkanımızı genel kurulumuz sececek.buradan galatasarayin sağ duyulu üyelerine sesleniyorum: her üyenin oyuna saygı duymakla birlikte biz galatasaray taraftarlarının sosyal medyada ve diğer tüm mecralar da dillendirdigimiz gibi bizim gönlümüz oyumuz mustafa cengiz beyedir. diğer başkan adaylarına çıkan her oy bizim açımızdan ölü oydur.ayrica dursun beye atılmaması önemli değil sonuçta oy bolunecegi için mustafa bey harici atılan her oy bizi şu anki birlikteliğimizi bozacağını düşünüyoruz.bu yüzden diyoruz ki bütün oylar #gri ye... tek seçenek mustafa cengiz
   entry_channels: spor
 - entry_name: |
+    selahattin demirtaş
+  entry_id:  77323319
+  entry_writer: scott mary
+  entry_fav_count: 15
+  entry_content: |
+    ak trollere gece mesaisi yaptıran 13. cumhurbaşkanı adayı. barajları yok edip gireceğiz o meclise yine; meclis çoğunluğunuz şimdiden gitti. hadi geçmiş olsun, ağlamayı kesin artık bence.
+  entry_channels: siyaset
+- entry_name: |
     sigara ve alkolün esrardan daha zararlı olması
   entry_id:  77334697
   entry_writer: morales
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     yanlış bilgilere sahip kişilerin değiştiremeyeceği gerçektir. <br/><br/>prof.dr.david nutt -esrar, lsd vs gibi uyuşturucuları kullanın- demiyor. hiçbir zaman da dememiştir.<br/><br/>hepsinin zararlı olduğunu söylüyor. ancak alkol ve sigara ile kıyaslayınca en zararlısının bu ikili olduğunu belirtiyor. onlar da zararlı ancak zararları alkol ve sigaraya göre çok daha az.<br/><br/>olay bu.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    araba kullanmaya yeni başlayanlara tavsiyeler
-  entry_id:  77336801
-  entry_writer: angara beyefendisi
-  entry_fav_count: 12
+    survivor 2018 all-star
+  entry_id:  77320159
+  entry_writer: hellespontos
+  entry_fav_count: 13
   entry_content: |
-    size, ilk denemede rahat bir kalkış <a class="b" href="/?q=vadediyorum">vadediyorum</a>. (evet doğru yazılışı budur.)<br/><br/>öncelikle, size araba kullanmayı öğretenlerin en büyük hatası; "ayağını debriyajdan tam kaldırırken gaza basacaksın" demeleridir. bakın bunu diyen düşüncesizdir. dombilidir, taocudur.<br/><br/>esas yapılması gereken şudur:<br/><br/>-düz zemindesiniz. el frenini indirdiniz, vitesi boşa aldınız, arabayı çalıştırdınız.<br/>-debriyaja bastınız, vitesi 1 konumuna aldınız. (burada debriyaja basarken sol topuğunuz yere bassın ki debriyajdan kaldıracağınız zaman gücünüzü ayarlayabilesiniz.)<br/>-sol ayağınız hala debriyajda. sağ ayağınızla gaz pedalını yavaş yavaş ittirmeye başlayın. gözünüz devir saatinde olsun. hani şu 0-1-2-3-4-5-6-7 yazan saat.<br/>-siz gaz pedalını ittirdikçe, ibrenin yükseldiğini göreceksiniz. bunu 3000 devire, yani 3 yazan rakama sabitlemeye çalışın. hafif geçebilir 3'ü, o civarda dursun yeter. 3000 devir civarında basılı kalsın ayağınız. 6000 devire kadar basmadığınız müddetçe araca bir zarar gelmez rahat olun. bu arabayı siz gaza basın diye yaptılar. saçma salak "bağırtma bak motoru yakarsın, çok bağırttın başımıza patates yağacak" diyenlere aldırmayın. gücünüz yetiyorsa dövün. ben makine resim konstrüksiyon teknikeriyim, en çok bana soracaksınız, rahat olun. basın gaza, bağırmasından korkmayın.<br/>-biraz uğraştıktan sonra deviri 3000 civarına sabitlediniz. sol ayak hala debriyajda, sağ ayak gazda sabit duruyor.<br/>-şimdiiiii sol ayağınızı debriyajdan yavaaş yavaş çekin. topuğunuz yerde olduğu için ayağınızın ucunu hafiften kaldırarak gücünüzü ayarlayabileceksiniz zaten. yavaş yavaş. hah öyle.<br/>-bu nokta çok önemli; sağ ayağı unutup gazdan çekmeyin. yani sağı 3 bin devir civarına sabitledikten sonra o ayak sabit kalacak orada. <br/>-yavaşça debriyajdan kaldırırken göreceksiniz ki siz debriyajdan ne kadar çekerseniz, araç o kadar hızlı gidiyor. yani <a class="b" href="/?q=kalk%c4%b1%c5%9fta+gazla+ayarlanmaz+h%c4%b1z">kalkışta gazla ayarlanmaz hız</a>. <a class="b" href="/?q=debriyajla+ayarlan%c4%b1r">debriyajla ayarlanır</a>. bunu öğrendiniz. aracı istediğiniz yavaşlıkta, milim milim hareket ettirebildiğinizi göreceksiniz.<br/>-sağ ayak gazda sabit hala. araç hareket ediyor. sol ayağınızı debriyajdan yavaşça tamamen kaldırıp kenara koyabilirsiniz. <br/><br/>dipnot: tekrar söylüyorum, sağ ayağı sabit tutmayı unutup gazdan çekmeyin. araba kaçmaz bir yere. gaza basmaktan korkmayın. bu kalkışı 5-10 kez denediğinizde, o çokça duyduğunuz "debriyajın kavrama noktası", aklınıza otomatik olarak kayededilmiş olacak zaten. emniyet kemerinizi takmayı alışkanlık haline getirmeyi unutmayın. afiyet olsun.
-  entry_channels: anket,otomotiv,eğitim
+    merve'nin ağlamalarından gına geldi artık. abi sürekli ağlıyor ya sürekli.
+  entry_channels: tv,magazin
+- entry_name: |
+    köln'de hdp mitingine izin verilmesi
+  entry_id:  77345706
+  entry_writer: fesbasimaa
+  entry_fav_count: 13
+  entry_content: |
+    türkiye’deki çifte standartları umursamayıp, köln’deki uygulamayı eleştirmek. <br/>ulan adamların iki eş başkanı dahil içeriye tıkılmış pek çok vekili ile birlikte. seslerini anca bin küsur km. öteden duyurabilmelerinin ne büyük haksızlık olacağını tartışacağınız yere yaptığınız muhabbetlere bak.
+  entry_channels: siyaset,haber
 - entry_name: |
     iki kadının sevişmesinin normalleştirilmesi
   entry_id:  77343464
   entry_writer: swollenmember
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     birbiri ile sevişen kadınların artması ile gerçekleşir.<br/><a class="b" href="/?q=norm">norm</a> olması için çoğunluğun desteğini alması gerekir bir şeyin çünkü.<br/><br/>zaten burada kasdedilen kadınlarda eşcinselliğin normalleşmesi değil aslında, kadınlarda eşcinselliğin toplum içinde açık biçimde yaşanabilmesinin normalleştirilmesidir. ikisi farklı şeydir, bu farkları belirtmek faydalıdır.<br/><br/>neden faydalıdır derseniz, eşcinselliğin normalleştirilmesine gerek olmayacak kadar yaygın bir şey olduğunu araştırmalar gözler önüne seriyor zaten, eşcinsellik zaten normdur. eşcinselliğin açık yaşanması henüz norm değildir ama.
   entry_channels: ilişkiler
 - entry_name: |
-    24 mayıs 2018 ezhel'in tutuklanması
-  entry_id:  77324594
-  entry_writer: hatcherman
-  entry_fav_count: 10
-  entry_content: |
-    dün insanlar profillerinde paylaştıklarında ilk önce sahne yasağı aldığını, albümünün toplatıldığını düşündüm, tutuklandı başlığını okuduğumda hadi lan ordan dedim. <br/><br/>olm adamın şarkı sözü için tutuklandığı konuşuluyor. <br/><br/>bir daha yazıyorum bak “ şarkı sözü yüzünden tutuklanmış”. lan tutuklamışlar adamı, manyak mısınız olm siz. yorumlara bak amk adını duymamakla övünenler, şarkılarını beğenmedi diye durumu haklı bulanlar. türkiye’de aptallık, durum değerlendirmesi yapamamak, her ne olursa olanı kabullenip onaylamaya meyil edecek kadar mal olmak kronik bir sorun oldu artık.<br/><br/>gerçekten yazacak tek kelime yok.
-  entry_channels: müzik,haber
-- entry_name: |
-    kanal d ana haber bülteni
-  entry_id:  77345063
-  entry_writer: sampiyonadam
-  entry_fav_count: 8
-  entry_content: |
-    michael jackson'ın yere 45 derece açıyla nasıl eğilebildiğinin sırrı çözüldü şeklinde yılların haberini sanki yeni keşfedilmiş gibi sunan haber bülteni
-  entry_channels: siyaset,tv,haber
-- entry_name: |
-    dinden imandan yoksun ekşi sözlük yazarları
-  entry_id:  77347614
-  entry_writer: tovbebismillah
-  entry_fav_count: 8
-  entry_content: |
-    kıymetli dinli kardeşim. ateistlerin ve deistlerin acı, zehir ve umutsuzluk dolu dünyasını anlamak için gösterdiğin çaba için allah senden razı olsun. senin de engin görüşünle fark ettiğin gibi bizler bil umum şerefsizlik, içki, uyuşturucu ve sex alemlerinden arta kalan zamanlarımızda acılar içindeyiz. cami yakıp müslüman dövmeyi bırakmayı çok istiyoruz ama efendimiz şeytanın ayartmaları çok güçlü. keşşşke allah bize de sana verdiği gibi hidayetinden nasip etseydi de cehennemlerde kan ve irin ırmaklarından içmekten, zebaniler tarafından şişe geçirilip anırta anırta zikilmekten kurtulabilseydik ama heyhat! o nurlu cennet bahçeleri, o bakire yaşıt kızlar, o kevser şarapları, mücevherlerle bezeli köşkler size nasipmiş. ne yapalım mukadderat. sağlıcakla kal.
-  entry_channels: 
-- entry_name: |
     süper lig yılın balon 11'i
   entry_id:  77346466
   entry_writer: paramedik112
-  entry_fav_count: 4
+  entry_fav_count: 8
   entry_content: |
     fabriden sonrasını okumadım. adam geldiğinde 3. kaleci olarak geldi.
   entry_channels: spor
+- entry_name: |
+    8 temmuz 2018 erdoğan'ın balkon konuşması
+  entry_id:  77347892
+  entry_writer: ozgenetikci
+  entry_fav_count: 8
+  entry_content: |
+    seçimleri kaybettiği için halkı sokağa çağıracaktır. <br/><br/>inşallah ilk cümlenin yalnızca 2. kısmında yanılırım.
+  entry_channels: siyaset
+- entry_name: |
+    kerimcan durmaz'ın futbol takımı
+  entry_id:  77322327
+  entry_writer: aler
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=biraz+yava%c5%9f+vur+bebe%c4%9fim">biraz yavaş vur bebeğim</a>)<br/><br/>"ibneliğini" kullanarak bir yerlere geliyorsa, gayet de "ibneliği" üzerinden şaka yapılabilir. mesela kadın futbol takımları var. oradaki kadınların fotoğraflarına baktıklarımda kadın olmaları dikkatimi çekmiyor. sadece 11 sporcu gözüyle bakıyorum. feminen pozlar vermiyorlar, kırıtarak kameralara seksi seksi bakmıyorlar. bunun haricinde gay futbolcular da var tarihte. kimisi kendisi açıkladı, kimisi bir şekilde yakalandı vs. ama hiçbirinin gay olduğunu gerçeği öğrenene dek anlamadık. ama şu fotoğrafa baktığımda gülmek geliyor içimden, politik doğruculuk yapmaya gerek yok.
+  entry_channels: spor,magazin
+- entry_name: |
+    kadın yazarlardan erkek yazarlara sorular
+  entry_id:  77319089
+  entry_writer: quarkendo
+  entry_fav_count: 6
+  entry_content: |
+    başlık bence “kadın yazarlardan erkek yazarlara suçlamalar” olarak değiştirilmeli. soru diye yazılanlara baktığınızda çoğunun aslında erkeklere karşı kusulmuş nefret veya sitem dolu ifadeler olduğunu ve sonuna soru işareti konularak algı operasyonu (nihayet bir yerde kullanabildim) yürütüldüğünü görebilirsiniz.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     reddedilince kadın düşmanı olan erkek
   entry_id:  77345299
@@ -354,14 +370,6 @@ data:
   entry_content: |
     bir kadın tarafından aldatılınca bütün kadınlara düşman olan erkekten daha şanslı olan erkektir.
   entry_channels: ilişkiler
-- entry_name: |
-    güzel seviştiği tahmin edilen sözlük yazarları
-  entry_id:  77321189
-  entry_writer: lordum
-  entry_fav_count: 3
-  entry_content: |
-    havanın ısınmasıyla gevşeyen yazar yayları...
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     konya dar-ı lezzet etliekmek çölyak rezaleti
   entry_id:  77346476
@@ -378,14 +386,6 @@ data:
   entry_content: |
     bu filmi pek izleyesim yoktu ama gösterime girmeden 1 gece önce özel gece yarısı gösterimi olunca izledim.<br/><br/>öncelikle film genel olaral "ehh" kıvamında. klasik ve tahmin edilebilir bir hollywood yapımı, zaten ron howard'dan bu belliydi ama bu yapı seyirciyi sıkmıyor ve seyir zevki yüksek bir film yaratıyor.<br/>başrol alden ehrenreich olmamış, net. filmde han'ın klasik "han hareketleri" yapıp seyirciyi güldürmesi beklenen kısımlar alden yüzünden gerekli etkiyi veremiyor. keşke oyuncuya biraz daha özgün oynama şansı sunsalarmış, direkt harrison ford'u taklit et demişler ve ortaya kötü bir harrison ford mimikleri taklidi çıkmış.<br/><br/>emilia clarke'ı ise game of thrones dışında ilk kez beğendim. filmde çok tatlı durmuş, zaten filmdeki tek kadın neredeyse.<br/><br/>birde filmde hiç beklemediğimiz sevilen bir star wars karakteri cameo'su var, ve hayır darth vader değil.<br/><br/>ben genel olarak filme 6 puan veriyorum. seyirciyi eğlendiren ve risk almayan bir yapım, star wars hayranlarından çok, uzayda geçen bir macera filmi arayanlara yönelik yapılmış.
   entry_channels: sinema
-- entry_name: |
-    köln'de hdp mitingine izin verilmesi
-  entry_id:  77344382
-  entry_writer: proust
-  entry_fav_count: 1
-  entry_content: |
-    cnn turk'te an itibariyle duyurulmuştur. şaka maka da bu sefer gerçekten vaziyet alın. <br/><br/>detaylar açıklandıkça eklerim.<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.haber365.com.tr/dunya-haberleri/almanyadan-cifte-standart-hdpye-miting-izni-verildi-h88049.html" title="https://m.haber365.com.tr/dunya-haberleri/almanyadan-cifte-standart-hdpye-miting-izni-verildi-h88049.html">https://m.haber365.com.tr/…izni-verildi-h88049.html</a><br/><br/>(bkz: <a class="b" href="/?q=en+hayvani+duygunun+insani">en hayvani duygunun insani</a>)'nın da aşağıda paylaştığı cumhuriyet gazetesi linki: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/dunya/983097/Koln_de_HDP_ye_miting_izni.html" title="http://www.cumhuriyet.com.tr/m/haber/dunya/983097/Koln_de_HDP_ye_miting_izni.html">http://www.cumhuriyet.com.tr/…p_ye_miting_izni.html</a><br/><br/>gönderen arkadaşa teşekkür ederim.<br/><br/>edit: bu arada aşağıda saçmalayanlar olmuş. almanya'nın daha önce bu tür toplantılara izin vermek istememesinin sebebi, "türkiye iç siyasetinin almanya'da yer almaması gerekliliği" olarak ifade edilmişti yamulmuyorsam. tayyip'in almanya'ya tepkisi ise bu kararlardan sonra artmıştı. yani tayyip durup dururken almanya'ya çemkirmiş değildi ki.
-  entry_channels: siyaset,haber
 - entry_name: |
     geceye bir akp'li sözü bırak
   entry_id:  77347732
