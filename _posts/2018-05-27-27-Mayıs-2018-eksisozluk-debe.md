@@ -3,37 +3,13 @@ layout: post
 title: 27 Mayıs 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    26 mayıs 2018 sözlükteki aktroll harekatı
-  entry_id:  77362958
-  entry_writer: peder payildi
-  entry_fav_count: 548
-  entry_content: |
-    bugün sabahtan beri sol frame <a class="b" href="/?q=g%c3%bcndem">gündem</a>'e baktıkça artık emin olduğum durumdur. üst üste aktroller başlıklar açıyor ve birbirlerini destekliyorlar. hedefte milli ittifak'a bir son dakika golü atmak var galiba. karşılarındaki kitleyi kendi kitleleriyle karıştırmışlar.<br/>maaşlar, primler belli ki yatmış, berat abilerinin gezi eylemlerinde "elden ele" diye dolaştırdığı "ilk üç gün ben de destekledim" yazısının benzerini yapmaya çalışıyorlar.<br/>az kaldı bekleyin. devlet sopası elinizden düştüğünde göreceğiz yiğitliğinizi.
-  entry_channels: siyaset,ekşi-sözlük
-- entry_name: |
     evde doğum yapan kadının facebook paylaşımı
   entry_id:  77365135
   entry_writer: ayfonkullanansosyalist
-  entry_fav_count: 547
+  entry_fav_count: 548
   entry_content: |
     bu kişiyi aşı yaptırmaya ve hastanede doğum yaptırmaya ikna etmek doğaya müdahaledir.<br/><br/>bırakınız yapsın. doğal seleksiyonun işleyişine karışmayın.<br/><br/>zayıf olan elensin.<br/><br/>aşılar yüzünden zayıf olanlar hayatta kalıyor. zeka özürlüler çocuk doğuruyor. bende bundan sonra aşıya karşıyım anasını satayım.
   entry_channels: sağlık
-- entry_name: |
-    muharrem ince'nin aşırı göze batan yapmacıklığı
-  entry_id:  77361913
-  entry_writer: owerdosse
-  entry_fav_count: 491
-  entry_content: |
-    yıllarca "fakir evlerine" giden, yer sofrasında poz veren, cuma namazlarına kamera sokan, cuma namaz saatini değiştiren, armudu hamuduyla değil ağacı komple goturenlere dolaylı yoldan samimi diyen mal beyanı.
-  entry_channels: siyaset
-- entry_name: |
-    fatma betül sayan kaya
-  entry_id:  77361899
-  entry_writer: matmazelmuhalefet
-  entry_fav_count: 406
-  entry_content: |
-    ülkenin kaynaklarını kesinlikle onaylamadığım ve helal etmediğim şekilde har vurup harman savuran bakan. biri de dur desin artık bunlara!<br/><br/>"bakan kaya, ankara'da da 3 gün üst üste hilton garden inn otel'de kamu personeline 1500 kişilik iftar verdi. kişi başı 90 liraya anlaşılan iftar yemeğinde konuklara, iftar tabağının yanı sıra dana rosto, ezogelin çorba, içli köfte, meyve ve tatlı ikram edildi. 1500 bakanlık görevlisi ve kamu personeli için düzenlenen iftarın faturası, 135 bin lirayı buldu."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2018/gundem/bakanliktan-5-yildizli-otelde-luks-iftar-daveti-2430196/amp/" title="https://www.sozcu.com.tr/2018/gundem/bakanliktan-5-yildizli-otelde-luks-iftar-daveti-2430196/amp/">kaynak</a>
-  entry_channels: siyaset
 - entry_name: |
     yerli otomobil zaman kaybı
   entry_id:  77358463
@@ -46,7 +22,7 @@ data:
     coca-cola 2018 ramazan reklamı
   entry_id:  77363451
   entry_writer: hey ben
-  entry_fav_count: 359
+  entry_fav_count: 361
   entry_content: |
     başörtülü bacı orucunu açtıktan hemen sonra sportif ablaya,<br/><br/>" hanım hanım hava karardıktan sonra, bu kıyafetle, üstüne bir de mübarek ramazan ayında sokaklarda ne işin var? "
   entry_channels: tv,yeme-içme
@@ -54,7 +30,7 @@ data:
     26 mayıs 2018 mv adayına saldırı
   entry_id:  77360563
   entry_writer: viski raki sarap bira
-  entry_fav_count: 341
+  entry_fav_count: 343
   entry_content: |
     mhp tam olarak 1970'lerdeki rolüne büründü.
   entry_channels: siyaset,haber
@@ -62,7 +38,7 @@ data:
     dövizinizi tl'ye çevirin bu oyunu bozalım
   entry_id:  77373256
   entry_writer: circiriye
-  entry_fav_count: 335
+  entry_fav_count: 340
   entry_content: |
     mavi marmara için aldığın 20 milyon doları geri ver<br/>-olmaz<br/>anlaşmaları iptal et<br/>-olmaz<br/>ticareti kes<br/>-olmaz<br/>abd üslerini kapat<br/>-olmaz...<br/>sen git erzurum'da miting yap,<br/>coca-cola'ları falan kanalizasyona dök.<br/><br/>boza boza oyun bırakmadınız..<br/><br/>(bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcyor+mu+b%c3%b6yle">düşüyor mu böyle</a>)
   entry_channels: siyaset,haber,ekonomi
@@ -70,7 +46,7 @@ data:
     madımak katliam değildir pencereleri açsaydılar
   entry_id:  77352713
   entry_writer: fanari
-  entry_fav_count: 232
+  entry_fav_count: 234
   entry_content: |
     9 saat boyunca o vahşiler orada toplandı, karar verdiler, kast ettiler, yakarak katlettiler ve gittiler. asker refakat etti, polis mihmandarlık yaptı. mankurt teröristler çorum, maraş, malatya'da yaptıkları gibi sivas'ta da barbarlık yaptılar. <br/><br/>türk'ün türk'e yaptığına vahhabiler sevindi, suudiler sevindi, siyonistler sevindi. şirkten, nifaktan, mankurtluktan çıkıp ne zaman aydınlığı seçecek bu aziz türk milleti !!!
   entry_channels: siyaset,tv,haber
@@ -78,71 +54,55 @@ data:
     öğretmene en az 5250 tl maaş ve bir maaş ikramiye
   entry_id:  77366190
   entry_writer: reklamcigeldihanim
-  entry_fav_count: 229
+  entry_fav_count: 230
   entry_content: |
     hala anlamıyor bazıları. çözüm maaş artışı değil. sen maaşları arttırdıkça piyasanın dengesini bozuyosun. zam kararları masa başında alındığı için asgari ücrete gelen her zam aynı zamanda enflasyonu da etkiliyor. zam yapmak yerine bordroluların üzerindeki gereksiz kesintileri halledin yeter. asıl mesele kazanılan paranın artması değil alım gücünün artmasıdır.
   entry_channels: siyaset,haber,eğitim,ekonomi
 - entry_name: |
-    evliyaların gazze'ye yardım etmemesi
-  entry_id:  77367076
-  entry_writer: vycanismajoris29
-  entry_fav_count: 193
-  entry_content: |
-    türklere birçok savaşta yardım ettiği düşünülen evliyaların gazze'ye , arakan'a, ortadoğu'ya yardım etmemesi olayıdır. gerçekten ilginç.
-  entry_channels: siyaset
-- entry_name: |
-    hayal edilen vs sahip olunan araç
-  entry_id:  77373942
-  entry_writer: asabipokemon
-  entry_fav_count: 187
-  entry_content: |
-    hayal edilen: mercedes-amg e63 s 4matic+<br/>sahip olunan: none
-  entry_channels: anket,otomotiv,motosiklet
-- entry_name: |
-    evlenilecek erkekte aranan özellikler
-  entry_id:  77363941
-  entry_writer: zinaedenzidan
-  entry_fav_count: 183
-  entry_content: |
-    - iyi bir gelire sahip olması (bu olmazsa olmaz )<br/>- eşini yılda en az 2-3 kez tatile götürmesi<br/>- iyi bir muhitte evi olması<br/>- güzel bir otomobili olması tercihen (sunrooflu)<br/>- yalı olmazsa kır düğünü (yemekli) yapabilmesi<br/>- eşini tercihen yurt dışında balayına götürebilmesi<br/>- erkeğin ailesinin uzakta oturması<br/>- yüksek hızlı kotasız internet.<br/><br/>bunları yapacak adam gelsin bir zahmet bizi de siksin. hak etmiştir yani.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    muharrem ince'den iyice ikrah gelmesi
-  entry_id:  77375682
-  entry_writer: quincampoix
-  entry_fav_count: 174
-  entry_content: |
-    haklısın trolcan şov öyle yapılmaz böyle yapılır;<br/>(bkz: <a class="b" href="/?q=israil+antla%c5%9fmalar%c4%b1na+iptal+%c3%b6nerisine+akp+reddi">israil antlaşmalarına iptal önerisine akp reddi</a>)<br/>(bkz: <a class="b" href="/?q=18+may%c4%b1s+2018+yenikap%c4%b1+mitingi">18 mayıs 2018 yenikapı mitingi</a>)
-  entry_channels: siyaset,anket,haber
-- entry_name: |
     trt'yi satacağım parasını size vereceğim
   entry_id:  77376183
   entry_writer: lafalaf
-  entry_fav_count: 152
+  entry_fav_count: 196
   entry_content: |
     yıllardır yalnızca bir partinin reklamını yapmaktan başka bir işe yaramayan, dizi-film ayağına milyonlarca liramızı yandaşlara kazandıran, tamamen torpil sayesinde giren kişilerin çalıştığı bir kurum olduğu için gayet iyi bir vaat. umarım muharrem ince de destekler.
   entry_channels: siyaset,tv
 - entry_name: |
-    mustafa cengiz'in seçim öncesi ekşi sözlük mesajı
-  entry_id:  77364812
-  entry_writer: ne zaman yazar yapacaksiniz la
-  entry_fav_count: 147
+    hayal edilen vs sahip olunan araç
+  entry_id:  77373942
+  entry_writer: asabipokemon
+  entry_fav_count: 194
   entry_content: |
-    başkanımız mustafa cengiz'in bugün yapılan galatasaray başkanlık seçimi öncesi galatasaray lisesi'nden biz galatasaraylı sözlük yazarlarına <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/EksiGalatasaray/status/1000292415876550656?s=19" title="https://twitter.com/EksiGalatasaray/status/1000292415876550656?s=19">mesajıdır.</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LK7V0TfKFkQ" title="https://youtu.be/LK7V0TfKFkQ">youtube linki.</a><br/><br/>not: röportaj tadında bu video için sourlions ailesinden <a class="b" href="/?q=paraya+money+diyen+adam">paraya money diyen adam</a>a ve <a class="b" href="/?q=ek%c5%9fi+galatasarayl%c4%b1lar+etkin+whatsapp+grubu">ekşi galatasaraylılar etkin whatsapp grubu</a> olarak başkan'ımıza teşekkür ederiz.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>(bkz: <a class="b" href="/?q=dursun+%c3%b6zbek%27in+ba%c5%9fkan+olmas%c4%b1n%c4%b1+istemiyoruz">dursun özbek'in başkan olmasını istemiyoruz</a>)
-  entry_channels: spor,siyaset,haber
+    hayal edilen: mercedes-amg e63 s 4matic+<br/>sahip olunan: none
+  entry_channels: anket,otomotiv,motosiklet
+- entry_name: |
+    muharrem ince'den iyice ikrah gelmesi
+  entry_id:  77375682
+  entry_writer: quincampoix
+  entry_fav_count: 184
+  entry_content: |
+    haklısın trolcan şov öyle yapılmaz böyle yapılır;<br/>(bkz: <a class="b" href="/?q=israil+antla%c5%9fmalar%c4%b1na+iptal+%c3%b6nerisine+akp+reddi">israil antlaşmalarına iptal önerisine akp reddi</a>)<br/>(bkz: <a class="b" href="/?q=18+may%c4%b1s+2018+yenikap%c4%b1+mitingi">18 mayıs 2018 yenikapı mitingi</a>)
+  entry_channels: siyaset,anket,haber
 - entry_name: |
     sürekli oğlunu aşağılayan baba
   entry_id:  77353108
   entry_writer: sinpecado
-  entry_fav_count: 139
+  entry_fav_count: 152
   entry_content: |
     babamdır. ergenlik yıllarımızda bana değil fakat abime saf ve aptal olduğunu sıkça söylerdi. ne mi oldu?<br/>abim şu an geldiği noktayla asrın thug life'ını yaptı. babam girdiği her ortamda abimi anlatarak hava atıyor. neredeyse hiçbir katkısı olmamasına rağmen...
   entry_channels: anket,ilişkiler
 - entry_name: |
+    mustafa cengiz'in seçim öncesi ekşi sözlük mesajı
+  entry_id:  77364812
+  entry_writer: ne zaman yazar yapacaksiniz la
+  entry_fav_count: 148
+  entry_content: |
+    başkanımız mustafa cengiz'in bugün yapılan galatasaray başkanlık seçimi öncesi galatasaray lisesi'nden biz galatasaraylı sözlük yazarlarına <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/EksiGalatasaray/status/1000292415876550656?s=19" title="https://twitter.com/EksiGalatasaray/status/1000292415876550656?s=19">mesajıdır.</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LK7V0TfKFkQ" title="https://youtu.be/LK7V0TfKFkQ">youtube linki.</a><br/><br/>not: röportaj tadında bu video için sourlions ailesinden <a class="b" href="/?q=paraya+money+diyen+adam">paraya money diyen adam</a>a ve <a class="b" href="/?q=ek%c5%9fi+galatasarayl%c4%b1lar+etkin+whatsapp+grubu">ekşi galatasaraylılar etkin whatsapp grubu</a> olarak başkan'ımıza teşekkür ederiz.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>(bkz: <a class="b" href="/?q=dursun+%c3%b6zbek%27in+ba%c5%9fkan+olmas%c4%b1n%c4%b1+istemiyoruz">dursun özbek'in başkan olmasını istemiyoruz</a>)
+  entry_channels: spor,siyaset,haber
+- entry_name: |
     daha önce akp'ye oy verip 2018'de vermeyecek kişi
   entry_id:  77369494
   entry_writer: anani siken kadi
-  entry_fav_count: 138
+  entry_fav_count: 144
   entry_content: |
     buyrun benim, zamanında oy vermişliğim var.<br/>şimdi bunlar gitse birisi çıksa bir kere bile olsa akp'ye oy vermiş herkesi sibiryaya süreceğiz dese onu desteklerim. beni de sürsünler, hak ettim çünkü.
   entry_channels: siyaset
@@ -166,7 +126,7 @@ data:
     hanımefendi olmanın hiçbir işe yaramaması
   entry_id:  77372558
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 97
+  entry_fav_count: 109
   entry_content: |
     21. yuzyilin gercegi.<br/><br/>hanimefendi olan evde kaldi.<br/>nerde haroyin partilerinde sabahlayan kadin varsa evlenip gitti.<br/><br/>hanimefendi olan is bulamadi.<br/>nerde dekolte acip, yhaa siz patron olmalisiniz eki eki diyen kadin varsa mudur oldu statu atladi.<br/><br/>hanımefendi olan yalnizliktan kirildi.<br/>nerde arkadasini satan, arkadan is ceviren, kapali kapilar ardinda dedikodu yapan varsa aranan kadin oldu.<br/><br/>hanimefendi olan makarnaya talim etti.<br/>berkle ciddiyim ama bu gece borayla cikiyoruz diyen bonfilesini az pismis yedi.<br/><br/>hanimefendi olan kirasini odeyemedi.<br/>esinden ne zaman bosanacaksin diyen ev actirdi 3+1 rezidans da oturuyor.<br/><br/>hanimefendi olan toplu tasima kullaniyor.<br/>beni evden al, beni eve birak diyen porsche'dan inmedi.<br/><br/>hanimefendi olan taksit yapiyor.<br/>finansal kolesi olan 5 bin tl'ye tek cekim diyor.<br/><br/>goruldugu gibi hanimefendilik kazanamadi.<br/>ama hanimefendi uzulmesin, bunlarin hicbiri kazanc degil. 21. yuzyil bize kayiplari kazanc diye yutturuyor.
   entry_channels: anket,ilişkiler
@@ -190,7 +150,7 @@ data:
     ninelerin ettiği ilginç küfürler
   entry_id:  77358960
   entry_writer: az gonus lan
-  entry_fav_count: 82
+  entry_fav_count: 83
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%b6remiyesice">töremiyesice</a>)
   entry_channels: anket
@@ -198,7 +158,7 @@ data:
     libidosu yüksek kadın
   entry_id:  77369164
   entry_writer: koministimam2
-  entry_fav_count: 79
+  entry_fav_count: 80
   entry_content: |
     hay amk. olum siktirin gidin para ile falan yapın bari. <br/>iyice maymun oldunuz amk:)<br/>tercih edilesi kadınmış. ulan libidosu alçak olsa kabul etmeyecek sanki göt:)<br/>bu seferde sarılıp uyuyalım tripleri yapar bu <a class="b" href="/?q=meri%c3%a7ler">meriçler</a><br/>neyine la senin libidosu yüksek kadın yarrak? <br/>30 saniyede boşalan tipsin amk, ne yapacaksın libidosu yüksek hatunu sokuğa bak yaa?<br/>çok net söylüyorum bunların çoğu daha 17-22 yaşında bebe. çok ciddi söylüyorum. <br/>ulan bi hatun bulup, bişeyler yaşayabilseler mutlu olacaklar yavşaklar da yok, yok o kapasite yok pezevenklerde...ileride bu yazdıklarına bakıp gülecek götelekler. <br/>her gece sizi rahat ettirmeyen bi hatuna rastlayın, ben o zaman görürüm sizi götün götün nasıl kaçacak yer ararsınız.<br/><br/>abi bunlar hep yokluktan amk başka açıklaması yok. el sikte, bir el klavyede.. libidosu yüksek karı hebelelele gadın gadın gadın... şimdi bi hareket varsa yapamıyorum amk burdan yapsam da göremezsiniz ama aha size kadın aha ... aha bak gördün mü? <br/><br/>okudukça gülüp engelliyorum. az kaldı, sözlük süper bi yer olacak. lale’ye bak yaa, türkiye tatili için bi tene sipariş etmiş ahahaa libidosu yüksek hatun da seni bekliyordu zaten ahahah...<br/><br/><a class="b" href="/?q=edit">edit</a>: mesaj atıp küfür eden ılık götlü çaylaklar! oğlum ağzım pistir bak, bilen bilir hayatınızda yemediğiniz küfürü yersiniz haberiniz olsun. annelerinizi seviyorsanız mesaj kutusunu insan gibi kullanın siktirmeyin bana ölmüşlerinizi laleler!<br/>edit2: 17 22 arası kafası çalışan kardeşlerim kusura bakmayın, bazen sinirlerini bozuyorlar insanın...<br/>aklı başında tipleri tenzih ederim. benim kimlerden bahsettiğim aslında pek açık...
   entry_channels: ilişkiler
@@ -206,47 +166,39 @@ data:
     fb stadında şenol güneş taklidi yapan görevliler
   entry_id:  77371362
   entry_writer: guerra
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     adamlar aynı statta 50 bin kişi şampiyon taklidi bile yaptı olum bu bir şey mi?<br/><br/>:)
   entry_channels: spor,haber
 - entry_name: |
-    sagopa'nın dini inancım yok açıklaması
-  entry_id:  77380101
-  entry_writer: urgupe gitmeden peribacalarini gosteren
-  entry_fav_count: 62
-  entry_content: |
-    doğru yolu bulmuş insandır.
-  entry_channels: müzik,magazin
-- entry_name: |
-    muharrem ince'ye bir mesaj bırak
-  entry_id:  77352998
-  entry_writer: sigara kibrit
-  entry_fav_count: 55
-  entry_content: |
-    25 yaşında bir gencim. hayatımın en güzel dönemini,<br/><br/><a class="b" href="/?q=ekonomik+olarak">ekonomik olarak</a>;<br/>-krizin olduğu,<br/>-parasının sürekli değer kaybettiği,<br/>-alkol, sigara, benzin, ötv zamlarının olduğu,<br/>-iş, kariyer imkanlarının yetersiz olduğu,<br/>-ağır, adil olmayan vergi politikalarının olduğu, <br/>-toplu taşımanın pahalı olduğu,<br/><br/><a class="b" href="/?q=siyasi+olarak">siyasi olarak</a>;<br/>-kutuplaşmanın olduğu,<br/>-kafasına göre takılan 3.5 milyon mültecinin olduğu,<br/>-terör eylemlerinin olduğu,<br/>-dünyada itibarı zedelenmiş,<br/>-devletin malı deniz yemeyen keriz mantığının olduğu,<br/>-milyonluk makam arabasına binen siyasetçilerin olduğu,<br/><br/><a class="b" href="/?q=sosyal+olarak">sosyal olarak</a>;<br/>-trafikte, sokakta bir magandanın kurşununa kurban gitme ihtimalimin olduğu,<br/>-gece dışarı çıkarken korktuğum,<br/>-ortalama bir kitabın 40 liradan başladığı,<br/>-yeşil alan sayısının az olduğu,<br/>-fırsat eşitliğinin olmadığı,<br/><br/><a class="b" href="/?q=g%c3%bcndem+olarak">gündem olarak</a>;<br/>-atatürk düşmanlarının, annesinin dizinden tahrik olanların, deve sidiği içenlerin gündem olduğu,<br/>-kimin ne giyeceği ne içeceği, ne yapıp ne yapamacağı konularında fetva verilen,<br/>-bölücü, ayrıştırıcı gazetecilerin yazıp, çizdiği,<br/>-gerçeği yansıtmayan, halkı kandıran haberlerin yapıldığı,<br/><br/><a class="b" href="/?q=ahlak%2c+etik+olarak">ahlak, etik olarak</a>;<br/>-sahte din adamlarının fink attığı,<br/>-tacizi, tecavüzü meşrulaştıran açıklama, paylaşım, haber yapan insanların olduğu,<br/>-çocuk istismarının olduğu,<br/>-her alanda şiddetin olduğu,<br/>-ağaçlara ve hayvanlara zarar verenlerin ceza almadığı,<br/>-torpilin, rüşvetin olduğu,<br/>-yandaşların daha değerli olduğu,<br/>-spora, dine, okula siyasetin girdiği,<br/>-gereksiz dizilerin, yarışmaların çok olduğu,<br/><br/>......<br/><br/>bir ülkede yaşamak istemiyorum. kısaca insan gibi yaşamak istiyorum. gereğinin yapılmasını arz ederim.
-  entry_channels: siyaset,anket
-- entry_name: |
-    ekşi itiraf
-  entry_id:  77352644
-  entry_writer: hasanemrex
-  entry_fav_count: 55
-  entry_content: |
-    insanlara kendimizi kullandıracak cesareti biz veriyoruz aslında. “sen ne yaparsan yap, ben kabul eder, seni sevmeye devam ederim.” mesafesinde duruyoruz. elde etmişlik hissi ve hazzı yaşatıyoruz onlara. bize öyle çok güven duyuyorlar ki hiçbir gidişlerinde, dönüp bizi bulamama korkusu duymuyorlar. kabul edilmeme telaşı yaşamıyorlar. sınırlarımızı aşmalarına izin veriyoruz, gözlerimizin içine bakarak söyledikleri yalanların bile elimizden gelse bahanesini biz uydurup, özrünü biz dileyeceğiz. <br/>hayatımızın merkezine öyle sağlam yerleştiriyoruz ki onları, onlarsız devam edemeyeceğimizi, hiç olduğumuzu bağırıyoruz. kendimize olan saygı ve güveni bir başkasının egosuna yem ediyoruz. göğsünü gere gere bizi umursamadığını söyleyebilen insanları, yere göğe sığdıramadığımızı öyle bir ciddiyetle söylüyoruz ki lağımın dibinde olan, zirvede sanıyor kendini. <br/>her istediklerinde ellerinin altında olmamızdan tamamen sıkıldıklarında ve yine karşılarında yalvararak ağlayan bir çift göz gördüklerinde de başlarına bela olmamızı istemediklerinden şöyle diyorlar “amma da gurursuz çıktın!”<br/>*<br/>bir nefes al ve senin sularını kirleten, sana bir obje gibi davranan herkesi hayatından kov!<br/>sevilmeye olan ısrarının, biraz sevilsen iyileşecekmişsin gibi hissedişinden olduğunu biliyorum.<br/>seni bu hale getirenin gurursuzluğun değil, biraz sevilsen kurtulacakmışsın gibi hissedişin olduğunu biliyorum.<br/>bunun için birilerinin ayaklarına yol olmaya gerek yok, seni gerçekten seven biri ile tanıştığında sana şöyle dedirtiyor; “daha önce yaşamıyormuşum!”<br/>sizi gerçekten seven birinin kollarında uyandığınızda şöyle dedirtiyor; “daha önce hiç uyumamışım
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     38 yıllık mühendise posta koyduğunu sanan ergen
   entry_id:  77379356
   entry_writer: senin pezevenk enisten
-  entry_fav_count: 37
+  entry_fav_count: 62
   entry_content: |
     karşısındakinin açığını bulduğunu sanıp, gol atma derdine düşen ergen.<br/><br/>ben olsam pazartesi gel başla der, sonra da staj boyunca hayatını sikerdim.<br/><br/>odtülü emmi insaflıymış.
   entry_channels: ilişkiler
 - entry_name: |
+    ekşi itiraf
+  entry_id:  77352644
+  entry_writer: hasanemrex
+  entry_fav_count: 58
+  entry_content: |
+    insanlara kendimizi kullandıracak cesareti biz veriyoruz aslında. “sen ne yaparsan yap, ben kabul eder, seni sevmeye devam ederim.” mesafesinde duruyoruz. elde etmişlik hissi ve hazzı yaşatıyoruz onlara. bize öyle çok güven duyuyorlar ki hiçbir gidişlerinde, dönüp bizi bulamama korkusu duymuyorlar. kabul edilmeme telaşı yaşamıyorlar. sınırlarımızı aşmalarına izin veriyoruz, gözlerimizin içine bakarak söyledikleri yalanların bile elimizden gelse bahanesini biz uydurup, özrünü biz dileyeceğiz. <br/>hayatımızın merkezine öyle sağlam yerleştiriyoruz ki onları, onlarsız devam edemeyeceğimizi, hiç olduğumuzu bağırıyoruz. kendimize olan saygı ve güveni bir başkasının egosuna yem ediyoruz. göğsünü gere gere bizi umursamadığını söyleyebilen insanları, yere göğe sığdıramadığımızı öyle bir ciddiyetle söylüyoruz ki lağımın dibinde olan, zirvede sanıyor kendini. <br/>her istediklerinde ellerinin altında olmamızdan tamamen sıkıldıklarında ve yine karşılarında yalvararak ağlayan bir çift göz gördüklerinde de başlarına bela olmamızı istemediklerinden şöyle diyorlar “amma da gurursuz çıktın!”<br/>*<br/>bir nefes al ve senin sularını kirleten, sana bir obje gibi davranan herkesi hayatından kov!<br/>sevilmeye olan ısrarının, biraz sevilsen iyileşecekmişsin gibi hissedişinden olduğunu biliyorum.<br/>seni bu hale getirenin gurursuzluğun değil, biraz sevilsen kurtulacakmışsın gibi hissedişin olduğunu biliyorum.<br/>bunun için birilerinin ayaklarına yol olmaya gerek yok, seni gerçekten seven biri ile tanıştığında sana şöyle dedirtiyor; “daha önce yaşamıyormuşum!”<br/>sizi gerçekten seven birinin kollarında uyandığınızda şöyle dedirtiyor; “daha önce hiç uyumamışım
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    26 mayıs 2018 mhp seçim beyannamesinin açıklanması
+  entry_id:  77367686
+  entry_writer: uzaydan gelip gote giren semsiye
+  entry_fav_count: 48
+  entry_content: |
+    hayır anlamadığım olay bu adamlar neyin bildirgesini açıklayacak? ülkeyi yönetmeye talip olmayan bir parti vaat mi açıklar aq.
+  entry_channels: siyaset,haber
+- entry_name: |
     insanların yalnız kalmasının gerçek sebepleri
   entry_id:  77375452
   entry_writer: susamli cubuk
-  entry_fav_count: 36
+  entry_fav_count: 40
   entry_content: |
     yılmak.<br/><br/>genel anlamda insanlardan bıkmak.
   entry_channels: anket,ilişkiler
@@ -254,15 +206,23 @@ data:
     t a m a m sa donunu çek
   entry_id:  77376696
   entry_writer: gelecomp
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
     daha evvel dediğim gibi zeka yaşı 5 bu arkadaşın.<br/><br/>bak şimdi sana bi şiir armağan ediyorum:<br/><br/>şiirin tamamı: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.antoloji.com/m/mukafat-siiri/">https://www.antoloji.com/m/mukafat-siiri/</a><br/><br/>azm-u hamam edelim, sürtüştürem ben sana,<br/>kese ile sabunu, rahat etsin cism-u can.<br/><br/>lal-u şarap içurem ve ıslatıp geçirem,<br/>parmağına yüzüğü, hatem-i zer drahsan.<br/><br/>eğil eğil sokayım, iki tutam az mıdır?<br/>lale ile sümbülü kakülüne nevcivan.<br/><br/>diz çökerek önüne ılık ılık akıtam,<br/>bir gümüş ibrik ile destine ab-ı revan.<br/><br/>hadi şimdi siktir git.
   entry_channels: siyaset,ilişkiler
 - entry_name: |
+    sagopa'nın dini inancım yok açıklaması
+  entry_id:  77380372
+  entry_writer: iharduc
+  entry_fav_count: 34
+  entry_content: |
+    <a class="b" href="/?q=kolera">kolera</a> nasıl nafaka taktıysa adamı dinden imandan çıkarmış.
+  entry_channels: müzik,magazin
+- entry_name: |
     kargaların saldırısına uğrayan dayı
   entry_id:  77372582
   entry_writer: harleykiss
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     kargalar gercekten tuhaf yaratiklar ya. gecen otopark ta arabayi biraktim, baktim az ilerde karga ucuyor, bir tane arabanin uzerinden gecerken bir baktim tas atti. hayvan bildigin tas atti lan. arabanin tam arka camina geldi, gittim baktim hafiften cok ufak bir catlak. arabanin sahibine mi uyuz oldu ne oldu bilmiyorum. <br/><br/>yazik adamin hic aklina da gelmez he karganin attigi. soylesen inandiramazsin. harbiden pskopat bu kargalar.
   entry_channels: haber
@@ -275,13 +235,29 @@ data:
     eskiden agzima surmedigim yogurttu. marketteki yogurtlarda bok varmis gibi , ev yogurduna burun kivirirdim. ne zaman ki organik takilmaya baslayip ev yogurdu yaptim ,agzima market yogurdu suremez oldum. <br/><br/>yaparken kendimce kesfettigim, yeni yogurt mayalayacak arkadaslara da birkac tavsiye vereyim tam olsun.<br/><br/>1-tercihen sutu celik tencerede kaynatiyorum, teflonda sanki dibi daha fazla tutuyor. ayrica madem organik takiliyoruz, olmusken celik olsun.<br/><br/>2-kaynatirken tencerenin ustune yatay duracak sekilde tahta kasik koyuyorum ki sütum tasmasin.<br/><br/>3-kisik atesle kaynatiyorum , fokurdamaya basladiktan 1 dakika sonra altini kapatiyorum. fazla kaynatmak süt proteinlerinin dibe cokmesine ve dibin tutmasina sebep oluyormus.<br/><br/>4- sut miktarimi 3 kg inek,1 kg mandayi karistirarak belirledim. manda sutu yogurdun biraz daha sert, tok olmasina sebep oluyor. ayrica farkli bir lezzet katiyor. yalnizca manda sutu ile yapilan yogurt bana biraz agir geldi acikcasi. <br/><br/>10 gun kadar beklemis ev yogurdundan yapilan ayranin tadida evlere senlik turden.afiyet olsun:)
   entry_channels: yeme-içme
 - entry_name: |
+    saadet isimli küçük ve önemsiz parti
+  entry_id:  77368062
+  entry_writer: yogurdum eksi degil
+  entry_fav_count: 29
+  entry_content: |
+    sanki kendileri çok büyük partiymiş gibi! saraya şarlatan olduğunuzdan beri oyunuz % 5 lere düştü dangalak.
+  entry_channels: siyaset,haber
+- entry_name: |
     dursun özbek
   entry_id:  77375892
   entry_writer: gencligimi kimse bilmez
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     2018 yaz diktatörlerden kurtulma sezonu açıldı.<br/>easy: dursun özbek'den kurtulmak.<br/>medium: aziz yıldırım'dan kurtulmak.<br/>hard: tayyip'ten kurtulmak.
   entry_channels: spor,ekonomi
+- entry_name: |
+    rte'nin ara sokaktan geçişi
+  entry_id:  77378284
+  entry_writer: mavi yakali milyoner
+  entry_fav_count: 23
+  entry_content: |
+    müzik kendiliğinden ara sokakta mı türedi diye merak ettiğimdir.<br/><br/>sanki reyizin bulunduğu ortamda dombra fadeleniyor ve kendiliğinden çalmaya başlıyor.
+  entry_channels: siyaset
 - entry_name: |
     düzgün erkeklerin hepsinin kapılmış olması
   entry_id:  77352688
@@ -291,21 +267,29 @@ data:
     görüyoruz ki, evli erkeklerin çoğunu düzgün olduklarına inandırmayı başarabilmiş bir yem. <br/><br/>karısını aldatanlar evli değil mi? evli değilse neden "karısı" deniyor? <sup class="ab"><a title="(bkz: tanık sizindir)" href="/?q=tan%c4%b1k+sizindir" data-query="tanık sizindir">*</a></sup>
   entry_channels: ilişkiler
 - entry_name: |
-    rte'nin ara sokaktan geçişi
-  entry_id:  77378701
-  entry_writer: nutkey
-  entry_fav_count: 18
+    yolu köprüyü barajı beğenmeyen solcu çomar
+  entry_id:  77379841
+  entry_writer: saintly
+  entry_fav_count: 19
   entry_content: |
-    son model alman ve amerikan arabaları ile yapılan geçiş.<br/><br/>her bir arabanın değeri herhalde milyonlarca türk lirasıdır.<br/><br/>bu arabaların yaktığı bir saatlik benzin ile koca şehri doyurursun. <br/><br/>bakınız amerikan dolarının 5 lira olması.
+    ülkenin ağzına sıçılmasına, "ama yol yapıyorlar" diye razı olmayan ve en önemlisi <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcnebilen">düşünebilen</a> insandır.<br/><br/>ayrıca; (bkz: <a class="b" href="/?q=%c3%a7omar+baband%c4%b1r">çomar babandır</a>)
   entry_channels: siyaset
 - entry_name: |
-    saadet isimli küçük ve önemsiz parti
-  entry_id:  77368062
-  entry_writer: yogurdum eksi degil
-  entry_fav_count: 16
+    muharrem ince'nin eşiyle market alışverişi yapması
+  entry_id:  77380416
+  entry_writer: akil adam
+  entry_fav_count: 18
   entry_content: |
-    sanki kendileri çok büyük partiymiş gibi! saraya şarlatan olduğunuzdan beri oyunuz % 5 lere düştü dangalak.
-  entry_channels: siyaset,haber
+    fotoğraflarda adam kesinlikle samimi ve pozitif enerji yayıyor. canınızı sıkacaksa böyle şeyler sıksın lan, daha ne istiyorsunuz. gölgesinden korkan, ülkeyi de korkuyla yöneten 500 korumayla gezenlere alıştınız tabii.
+  entry_channels: siyaset,haber,magazin
+- entry_name: |
+    mevlana'nın kadın düşmanı olması
+  entry_id:  77378882
+  entry_writer: smk
+  entry_fav_count: 14
+  entry_content: |
+    (bkz: <a class="b" href="/?q=gay%27lerin+kad%c4%b1nlardan+nefret+etmesi">gay'lerin kadınlardan nefret etmesi</a>)
+  entry_channels: tarih
 - entry_name: |
     mustafa cengiz
   entry_id:  77354382
@@ -315,21 +299,21 @@ data:
     secilmesi hâlinde olacaklari gelecege not olsun diye buraya aktarmak istedigim beyefendi kisi.<br/><br/>1. galatasaray ekonomik olarak son yirmi yilda gormedigi bir duzluge cikacak.<br/><br/>2. fatih terim ve abdurrahim albayrak ile birlikte cok guzel futbol oynayan bir takima sahip olacagiz(basari beklemiyorum, umurumda da degil fakat takimimin mucadelesi bana keyif verecek, basari kendiliginden gelir zaten).<br/><br/>3. onumuzdeki yillarda gs tarihinin en yuksek seyirci ortamalasi yakalanacak, arena her zamankinden daha buyuk bir cehennem olacak.<br/><br/>4. galatasaray herkesin sempati duydugu ve imrenerek baktigi tertemiz bir yonetime ve takima sahip olacak.<br/><br/>5. ucuncu yilinda avrupada cok saglam bir basari getirecegine inaniyorum.<br/><br/>aksi olurda dursun ozbek secilirse basimiza gelecekleri <a class="b" href="/?q=dursun+ozbek">dursun ozbek</a> basliginda yazdim...
   entry_channels: spor
 - entry_name: |
-    yolu köprüyü barajı beğenmeyen solcu çomar
-  entry_id:  77379841
-  entry_writer: saintly
-  entry_fav_count: 11
+    mohamed salah ghaly
+  entry_id:  77379772
+  entry_writer: karakeman
+  entry_fav_count: 10
   entry_content: |
-    ülkenin ağzına sıçılmasına, "ama yol yapıyorlar" diye razı olmayan ve en önemlisi <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcnebilen">düşünebilen</a> insandır.<br/><br/>ayrıca; (bkz: <a class="b" href="/?q=%c3%a7omar+baband%c4%b1r">çomar babandır</a>)
-  entry_channels: siyaset
+    ingiltere liginde gol kralı olup, yılın futbolcusu seçilen adama balon diyen futbolseverler lütfen kriket izlesin.
+  entry_channels: spor
 - entry_name: |
-    mevlana'nın kadın düşmanı olması
-  entry_id:  77378882
-  entry_writer: smk
-  entry_fav_count: 11
+    kenan sofuoğlu abartılmış balon bir sporcudur
+  entry_id:  77363471
+  entry_writer: dodr
+  entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=gay%27lerin+kad%c4%b1nlardan+nefret+etmesi">gay'lerin kadınlardan nefret etmesi</a>)
-  entry_channels: tarih
+    devamli u-17 milli takiminda oynayip jubile yapmis arda turan dusunun; hah o kisi kenan sofuogludur.<br/>takim da dunya sampiyonu olup dursun; bundan dolayi da cumhuriyet altinlari kazanip yolunu bulsun. hah kazanci da odur.<br/>siyasal tercihi ve baska “gercek” sporcular hakkindaki soylemleri de sasirtmamistir.
+  entry_channels: spor,motosiklet
 - entry_name: |
     işçi sınıfının erdoğan'a oy vermesi
   entry_id:  77376152
@@ -339,45 +323,13 @@ data:
     (bkz: <a class="b" href="/?q=din">din</a>) dir efendim.avrupa’da işçi kesimi sol partilere oy verirken ülkemizde işçi sınıfının sağ partilere oy vermesi başka bir şeyle açıklanamaz.
   entry_channels: siyaset
 - entry_name: |
-    26 mayıs 2018 sayıştay sınavında pc'lerin çökmesi
-  entry_id:  77372474
-  entry_writer: sakirtsavar
-  entry_fav_count: 9
-  entry_content: |
-    rezilliğin daniskası. her sene ücretler artıyor ama kalite düşüyor. normal sınavı yapamayan sorumsuzlar e-sınav yapıyor. neyinize ulan sizin? <br/><br/>şehir dışından gelenler ne yapacak? ücretleri ödenecek dendi ama sınav ne zaman olacak ve bugün dönüş düşünenler ne yapacaklar? yatacak yeriniz yok.
-  entry_channels: 
-- entry_name: |
-    kenan sofuoğlu abartılmış balon bir sporcudur
-  entry_id:  77363471
-  entry_writer: dodr
-  entry_fav_count: 8
-  entry_content: |
-    devamli u-17 milli takiminda oynayip jubile yapmis arda turan dusunun; hah o kisi kenan sofuogludur.<br/>takim da dunya sampiyonu olup dursun; bundan dolayi da cumhuriyet altinlari kazanip yolunu bulsun. hah kazanci da odur.<br/>siyasal tercihi ve baska “gercek” sporcular hakkindaki soylemleri de sasirtmamistir.
-  entry_channels: spor,motosiklet
-- entry_name: |
-    mohamed salah ghaly
-  entry_id:  77379772
-  entry_writer: karakeman
-  entry_fav_count: 7
-  entry_content: |
-    ingiltere liginde gol kralı olup, yılın futbolcusu seçilen adama balon diyen futbolseverler lütfen kriket izlesin.
-  entry_channels: spor
-- entry_name: |
     erdoğan'ın rakip olarak muharrem ince'yi istemesi
   entry_id:  77378279
   entry_writer: dreamofrock
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     çok olası olmayan bir durumdur. şöyle ki muharrem ince, hdp’ye oy verenlerin büyük kısmından oy alacaktır. akşener’in kürtlerden oy alması pek mümkün değil. ikinci konu şu: muharrem ince’ye oy verenler ikinci turda meral’e veririz diyorsa, buna karşılık meral’e oy verenler ikinci turda erdoğan’a oy atarız diyorlarsa cehenneme kadar yolları var. <br/><br/>üçüncü konu da şu: sürekli sözlükte akşener’in ikinci tura kalması gerektiği pompalanıyor. burada algı kasılıyor. vazgeçin arkadaşım bu algı çalışmalarından. gerçekten itici oluyorsunuz. hali hazırda var olan sempatiyi yıkıyorsunuz.
   entry_channels: siyaset
-- entry_name: |
-    2018 monaco gp
-  entry_id:  77372884
-  entry_writer: abanmak yasak
-  entry_fav_count: 6
-  entry_content: |
-    verstappenin ferrarilerimize uzak bir bölgeden start alacağı için umutlu olduğumuz gp.
-  entry_channels: spor,otomotiv
 - entry_name: |
     liverpool fc
   entry_id:  77356857
@@ -387,13 +339,45 @@ data:
     nihayet hak ettiği yere dönmüş olan ingiltere’nin en çok kupa kazanan, en köklü kulübü. bugün 6. şampiyonlar ligi şampiyonluğunu kazanarak yeniden avrupa futbolunun zirvesindeki kulüp olacaktır.<br/><br/>(bkz: <a class="b" href="/?q=you%27ll+never+walk+alone">you'll never walk alone</a>)
   entry_channels: spor
 - entry_name: |
-    hatay'da yaşanan ilginç doğa olayı
-  entry_id:  77352676
-  entry_writer: zwangzung
+    galatasaray
+  entry_id:  77354514
+  entry_writer: gokhanender
   entry_fav_count: 5
   entry_content: |
-    bu ülkeye de bir <a class="b" href="/?q=fringe">fringe</a> departmanı şart oldu.
-  entry_channels: bilim,haber
+    tff kuralları madde 13' e göre bu sene formasında ay ve yıldız ( türk bayrağı) taşıyacak olan iki kulüpten biri. türkiye kupası şampiyonu akhisarspor ve lig şampiyonu galatasaray önümüzdeki sezon boyunca formalarında ay yıldız taşıyacaklar. <br/>ne mutlu.
+  entry_channels: spor
+- entry_name: |
+    özel üni.öğrencilerine devlet üni. yemeği yedirmek
+  entry_id:  77380350
+  entry_writer: shallala
+  entry_fav_count: 2
+  entry_content: |
+    böyle bok içerik hazırlayanlara da, sınıf ayrımını belirginlestirmek için ağır çaba harcayanlara da, balık gibi konuşan kızlara da kafam girsin.<br/><br/>geçen sene bir öğrencim ağlayacaktı lan yurtta yemekler çok kötü ve çok pahalı, dışarıdan yiyecek param yok. babamı zorlamam hocam diye. siz devam edin böyle hareketlere sayın ağzına tükürdüklerim. fakiri zengine, zengini fakire, akıllıyı aptala, aptalı akıllıya düşürün. derinleştirin aramızdaki çukuru. yakışır size.
+  entry_channels: haber,yeme-içme,eğitim
+- entry_name: |
+    ekşi sözlük'te küfür istemiyoruz hareketi
+  entry_id:  77379572
+  entry_writer: nick bulmam lazim
+  entry_fav_count: 2
+  entry_content: |
+    ben de başlığı açanlar islâmî tebliğ yapıyorlar sandım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  77360369
+  entry_writer: ustumdeki sehir
+  entry_fav_count: 1
+  entry_content: |
+    karima (kerime) nayt: meli.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=TQvTL3W9G9U">https://www.youtube.com/watch?v=tqvtl3w9g9u</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    geceye bir akp'li sözü bırak
+  entry_id:  77359271
+  entry_writer: peptides
+  entry_fav_count: 1
+  entry_content: |
+    -rte'den başka oy verecek doğru düzgün adam yok ki yiğenim. chp falan hep terörü destekliyo<br/><br/>ankara için: akpden önce musluklardan çamur akıyodu çamur. hey gidi hey
+  entry_channels: siyaset
 - entry_name: |
     26 mayıs 2018 ankara yağmuru
   entry_id:  77378892
@@ -401,5 +385,21 @@ data:
   entry_fav_count: 1
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/c1a5caf70.jpg" title="https://s3.eksiup.com/c1a5caf70.jpg">şu</a> şekilde gelmiştir.
-  entry_channels: 
+  entry_channels: haber
+- entry_name: |
+    solo a star wars story
+  entry_id:  77356835
+  entry_writer: bernie rhodenbarr
+  entry_fav_count: 0
+  entry_content: |
+    içinde "<a class="b" href="/?q=i+have+a+bad+feeling+about+this">i have a bad feeling about this</a>" sözü geçmeyen bir star wars filmidir aynı zamanda.
+  entry_channels: sinema
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  77352586
+  entry_writer: eksimtrack
+  entry_fav_count: 0
+  entry_content: |
+    2 kere 2 dert eder mi? ediyormuş.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
