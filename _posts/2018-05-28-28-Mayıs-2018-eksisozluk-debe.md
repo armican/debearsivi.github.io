@@ -6,7 +6,7 @@ data:
     darbecilikten müebbet hapis alan 5 günlük er
   entry_id:  77402817
   entry_writer: xspace
-  entry_fav_count: 4291
+  entry_fav_count: 4323
   entry_content: |
     ön edit: twitter'da bir kullanıcı, hikayenin doğru olduğunu, ahmet'in 5 günlük usta er olarak tutuklandığını doğrulayan bir tivit atmış. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/SnrYlcn1/status/1000784325388963840" title="https://twitter.com/SnrYlcn1/status/1000784325388963840">kaynak</a><br/><br/>1996 yılında doğuyor ahmet özdemir. bu satırları okuyanların çoğundan küçük bir kardeşimiz ahmet. <br/><br/>ahmet'in hayatı 2016'da değişiyor. o sene 1996'lıların çoğu üniversiteyi yeni kazanmışlar, hayatlarının tadını çıkarır halde, çoğu baba parası ile gününü gün ediyor. <br/><br/>ahmet özdemir ise 2016'da askere gidiyor, okuyamamış çünkü. neden okuyamamış? babası mevsimlik işçi, annesi ev hanımı. almanya'yı, abd'yi dize getiren devletimiz, ahmet'in babasına doğru düzgün bir iş verememiş ondan.<br/><br/>ahmet de mecbur ortaokul bitince çalışmaya başlamış. 14 yaşında başladım çalışmaya diyor. 2010 yılında yani. askeri vesayetin güya tarihe gömüldüğü, güya darbelerle hesaplaşılan yıllar. fetullah gülen'in mezardakileri kaldırıp akp'ye bastırın, evet'e bastırın dediği senelerde ahmet mecburen hayata atılıyor.<br/><br/>tabi sonradan görüyoruz ki, bugünün darbecilerinin yükselmesi için gerçek vatan evlatlarının zindanlara atıldığı yıllar aslında. <br/><br/>ahmet bu dönemde mecbur kalmış çalışmaya, ailesine destek olmaya ama ahmet şanssız çocuk. ailesinin durumu olmadığı gibi bir de engelli kardeşi var. yaratıcı ve hayat ona hiç de adil davranmıyor. ve daha sonra da davranmayacak ne yazık ki.<br/><br/>ahmet bu şartlar altında sanayide en ağır şartlarda çalıştı senelerce. devlet baba, bu çocuğunun ne şartlarda çalıştığını sormadı, merak etmedi ama ahmet 20 yaşına gelince onu askere çağırdı. ee vatan görevi beklemezdi. ahmet'in babası başbakan değildi ki çürük raporu ayarlasın ya da bedelli parası bulsun ahmet'e.<br/><br/>ahmet mecbur askere gitti. 2016'nın sıcak temmuz ayıydı. ahmet hayatında ilk defa istanbul'a geldi. 5 günlük askerdi. bir ay önce 2016 haziran'ında islamcı teröristler atatürk havalimanında terör saldırısı yapmıştı. atmosfer buydu.<br/><br/>15 temmuz cuma günü akşamı komutanları ahmet'in de bulunduğu koğuşu ayağa kaldırdılar. askerleri tam teçhizatlı olarak hazırladılar. kamyonlara bindirip sokağa çıkardılar. terör saldırısı var, güvenlik önlemi alacağız dediler.<br/><br/>tekrar edeyim ahmet 5 günlük askerdi, istanbul'a hayatında ilk defa gelmişti ve daha geçen ay istanbul'da büyük bir terör saldırısı olmuştu. bu koşullar altında ahmet'in bir boktan şüphelenmesinin imkanı yoktu. <br/><br/>komutanlar ahmet'i ve arkadaşlarını istanbul belediyesinin önüne getirdiler. ahmet hala terör saldırısına karşı tedbir alındığını sanıyordu. ama sonra halk geldi. ortalık karıştı. ahmet kimseye ateş etmedi. fetöcü komutanları kaçınca o da silahını belediyenin özel güvenlik personeline teslim etti ve gelen polislere teslim oldu.<br/><br/>emniyete götürüldü. işkence gördü. 30 gün gözaltında kaldı. avukat yok, ailesine haber vermek yok. insan haklarının ihlal edildiği bir dönem geçirdi ama bitmedi çilesi.<br/><br/>savcı ahmet'in ne er olmasına baktı, ne 5 günlük asker olmasına baktı, ne silahını ateşlememesine baktı. direkt tutuklamaya sevk etti. savcı da kendince haklıydı, serbest bıraktırırsam bana da fetöcü derler diye korkuyordu belki.<br/><br/>ahmet hakim karşısına çıktı. ne dediğini dinlemediler bile, matbu bir kararla tutuklandı. askeri kışla içinde hava kuvvetleri logolu özel üretim saatiyle yakalanan ilahiyat yardımcı doçenti adil öksüz'ün tarla bakmaya geldim savunmasıyla serbest kaldığı gün, 5 günlük er ahmet darbecilikten tutuklandı.<br/><br/>ahmet hakkında darbecilikten dava açıldı, ağırlaştırılmış müebbet istendi hakkında. avukatı yoktu. 14 yaşında çalışmak zorunda kalan bir çocuğun avukat tutacak parası nasıl olacaktı? baro bir avukat atadı ama zaten yargılamada avukata ihtiyaç yoktu, zira savunmalara itibar ediliyor gibi bir görüntü de yoktu.<br/><br/>ahmet 20 ayı hapiste sadece 2 ayda bir ailesi açık görüş yaparak geçirdi. mektup hakkı bile yoktu. mektup hakkı 20. ayda kendine verildi ilk mektubunu bir gazeteciye kullandı. bu mektubundan kısa bir süre sonra yargılandığı davada karar çıktı. <br/><br/>5 günlük er ahmet özdemir ve diğer er arkadaşları, darbecilikten ağırlaştırılmış müebbet hapis cezasına çarptırıldı.<br/><br/>darbecilikten tutuklanan 2. ordu komutanı adem huduti'nin 15 yıl hapis cezası almasından 2 hafta sonra çıkan bu kararda, 30 tane er darbecilikten ömür boyu ağır güvenlik rejimine tabi olarak hapiste tutulmaya mahkum edildi. (adem huduti sadece bir örnektir, belki ve büyük ihtimalle onun da yargılaması da hatalıdır)<br/><br/>bugün twitter'da gördüm ahmet'in mektubunu. içime bir şey oturdu. gözlerim doldu. bunca adaletsizlik, bunca gaddarlık, kaldıramadım. genç bir avukat olarak, ahmet özdemir'in bir abisi olarak onun hikayesini üç beş kişi duysun istedim. ve sana söz veriyorum ahmet, ama seni unutmayacağız. senin haksızlığa uğradığını tarihe yazacağız. <br/><br/>hayat sana adil davranmadı ahmet. 14 yaşında okulu bırakıp, sanayide 3 kuruşluk ustaların ağız kokusunu çektin, belki dayaklarını yedin. 20 yaşına kadar bu evlat ne yaptı demeyen devlet aldı seni zorla askere götürdü. bu da yetmedi, sınav sorularını çalan bir fetöcü komutanın emrine verdi. komutanın, vatan evlatları zindanlara atılırken, iktidar tarafından terfi ettirilen bir sünepeydi. bu adamın emriyle seni terör saldırısı diyerek darbeye çıkardılar. sonra o şerefsiz komutanların kaçtı. 5 günlük askerdin ahmet, istanbul'a bile ilk defa gelmiştin. kimse dinlemedi. fetöcüler hsyk'da hakimken büyük şehre tayin olmak için onlara yağ çeken adamlar seni sorgusuz sualsiz hapse tıktılar. sen hapse tıkılırken, adil öksüz serbest bırakılmıştı ahmet. avukat bile tutacak paran yoktu doğal olarak. gerçi tutsaydın da kimse avukatını bile dinlemeyecekti. orgeneralin darbecilikten 15 yıl aldığı yerde sana müebbet verdiler ahmet. bu uğradığın haksızlıklarda benim payıma düşen bir şey varsa, allah bana o paydan dolayı lanet etsin ahmet. sen de beni affet.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DeMML1BWkAEP4Gz.jpg" title="https://pbs.twimg.com/media/DeMML1BWkAEP4Gz.jpg">ahmet'in mektubu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DeMML1AWAAAgSNg.jpg" title="https://pbs.twimg.com/media/DeMML1AWAAAgSNg.jpg">müebbet alması</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/DeMML1DX0AA_Bpf.jpg" title="https://pbs.twimg.com/media/DeMML1DX0AA_Bpf.jpg">ahmet özdemir</a><br/><br/>edit: özel mesajdan da bir arkadaş, bir akrabasının da aynı durumda olduğunu yazmış. onun da mesajını paylaşıyorum.<br/>"yazınızı okurken gözlerim doldu açıkçası. o müebbet yiyen erlerden biride benim akrabam. çocuk üniversitesini bitirdikten sonra askerlikte aradan çıksın evlenirim diyordu. altı üstü şöförlük yapıyordu, darbe gecesi üniformasını giymeden çabuk gelsin diye çağırmışlar, o gece öğrendik ki tutuklanmış. ahmet gibi onunda olaydan haberi yok, güvenlik tedbiri ile gidiyoruz diye götürmüşler."<br/><br/>edit 2: kaynak soranlar oluyor. bu mektup, posta yazarı gazeteci yazgülü aldoğan'a gelmiş. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/YZGLLDGN/status/990985514915418112" title="https://twitter.com/YZGLLDGN/status/990985514915418112">kaynak</a><br/><br/>bu ahmet özdemir'in müebbet aldığını da boğaziçi üniversitesi öğretim üyesi prof. dr. cem say duyurmuş. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/say_cem/status/1000300433548742656" title="https://twitter.com/say_cem/status/1000300433548742656">kaynak</a><br/><br/>prof. dr. cem say, fetö'nün kumpas davalarına korkusuzca direnmiş bir akademisyen. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.istanbulgercegi.com/cem-say-bir-kumpas-ornegi-64139333.html" title="http://www.istanbulgercegi.com/cem-say-bir-kumpas-ornegi-64139333.html">kaynak</a><br/><br/>edit 3: bazı mesajlarda, bu mektupta yazım hatası olmadığı, eğitimsiz birinin yazamayacağı iddia edilmiş. ancak sanırım bu arkadaşlar akp'li oldukları için yazım kurallarına pek vakıf değiller. mektuptaki hataları çıkardım.<br/>*cezaevi bitişik yazılır<br/>*o günü terör eylemi var diyerek kışladan çıkardılar = cümle düşük<br/>*istanbula geldim = i büyük yazılmalı, a kesme ile ayrılmalı<br/>*hiçbir bitişik yazılır<br/>*istanbulda = i büyük yazılmalı, da kesme ile ayrılmalı<br/>*o günü belediye binasındaki güvenliklerine silahımı verip teslim oldum = cümle düşük<br/>*enğelli = engelli olacak<br/>*er'im = e küçük, im bitişik olacak<br/>*gelmek mi dedikten sonra soru işareti lazım<br/>*ben ve arkadaşlarım size teşekkür ediyor = ben ve arkadaşlarım size teşekkür ediyoruz olması lazım.<br/>*sayğılarıma = saygılarıma olacak<br/><br/>yani mektup profesyonel birinin elinden falan çıkmamış. ortaokul mezunu birisi böyle bir mektup yazabilir. gayet normal bir mektup.<br/><br/>edit4: özel mesajdan benzer bir olay daha geldi. paylaşıyorum: "benim de amcamın oğlu müebbet hapis cezası aldı tezkeresine 40 gün vardı, 22 ayda 7 mahkeme yaptılar yargılanan erlerin içinden birisi tahliye oldu o er akp'li ....'in hısımı nasıl adalet allah hepsinin belasını versin. diğer erlere 7'şer kez müebbet verdiler toplam 33 er. amcamın oğlu ve diğer 3 arkadaşının olaylara karışmadığı ve silahlarından ateş etmedikleri bilir kişi tarafından ve tanıkların ifadeleriyle mahkemede doğrulandı bu halde salınmadılar. ben sözlüğe bu konuyu taşıyamadım. senden allah razı olsun."<br/><br/>edit5: meral akşener bugünkü mitinginde müebbet ceza alan askeri öğrenciler ve erler konusunu gündeme getirmiş. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/gGTJEEFSeRI?t=32m53s" title="https://youtu.be/gGTJEEFSeRI?t=32m53s">kaynak</a> <br/>ince de cnn'deki programda bu konuya değinmişti. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=snm0HVAQYnY&amp;t" title="https://www.youtube.com/watch?v=snm0HVAQYnY&amp;t">kaynak</a>
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     kursa gitmeden ingilizce öğrenmek
   entry_id:  77401490
   entry_writer: haci bakkal
-  entry_fav_count: 1290
+  entry_fav_count: 1348
   entry_content: |
     başlığı açan yazar arkadaşa mesaj yoluyla da iletmiştim. entry olarak girmek daha mantıklı geldi. öncelikle belirteyim iyi seviyede ingilizcesi olan biriyim ve internette her gün pratik yapmak amaçlı kullandığım bazı kaynaklar var. onları paylaşmak istiyorum.<br/><br/>öncelikle <a rel="nofollow noopener" class="url" target="_blank" href="https://www.e-grammar.org/">https://www.e-grammar.org/</a> sitesinden herhangi bir grammar konusuyla ilgili kolay ve anlaşılabilir kaynaklar edinebilirsiniz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://learningenglish.voanews.com/">https://learningenglish.voanews.com/</a> sitesi benim en çok kullandığım internet sitelerinden birisi. english in a minute ve english at the movies isimli çalışmalarını kesinlikle her gün izlemelisiniz. onun haricinde sitede çok farklı ve her konuda yardımcı olacak içerikler mevcut.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://printdiscuss.com/">https://printdiscuss.com/</a> sitesinde çok güzel tartışma konuları var. eğer ki bir konuşma arkadaşınız var ise bu siteyi kullanmanızı kesinlikle öneririm.<br/><br/>benim en çok sevdiğim ve her gün muhakkak girip baktığım internet sitesi ise <a rel="nofollow noopener" class="url" target="_blank" href="http://www.bbc.co.uk/learningenglish/english/">http://www.bbc.co.uk/learningenglish/english/</a> <br/>bbc tarafından hazırlanan ve ciddi anlamda öğretici ve akıcı içerikleri olan bu sitede işinize yarayacak her türlü içeriği bulabilirsiniz. özellikle 6 minute english programını kesinlikle kullanmanızı öneririm. hem dinleme yeteneğinizi geliştiriyor hem de yeni kelimeler ve deyimler öğrenmenizi sağlıyor. ayrıca android ve ios için uygulaması da mevcut.<br/><br/>son olarak "news in levels" isimli uygulamayı telefonunuza indirip ilgi çekici haberleri ingilizce olarak okuyabilirsiniz. <br/><br/>bonus: <a rel="nofollow noopener" class="url" target="_blank" href="https://lyricstraining.com/">https://lyricstraining.com/</a> mükemmel bir oyun. şarkı sözlerini yakalamaya çalışıyorsunuz ve ciddi anlamda dinleme yeteneğiniz artıyor.
   entry_channels: eğitim
@@ -22,10 +22,18 @@ data:
     chp'lilerin trt çalışanlarına saldırması
   entry_id:  77405789
   entry_writer: birakinbeni
-  entry_fav_count: 726
+  entry_fav_count: 728
   entry_content: |
     faciadan dönülmüş o nası bir gözü dönmüşlüktür yaraabbiii .. haftanın 5 günü taciz tecavüz linç girişimi haberlerini okuduğumuz akkoyunlar bi kadının kağıt bayrakla arabaya vurmasıyla açtığı başlığa bak . malsınız mal
   entry_channels: siyaset,tv,haber
+- entry_name: |
+    ak partinin ilk turda %70 oy alacağı gerçeği
+  entry_id:  77403554
+  entry_writer: okuyonmusen
+  entry_fav_count: 540
+  entry_content: |
+    (bkz: <a class="b" href="/?q=mal+beyan%c4%b1">mal beyanı</a>)
+  entry_channels: siyaset
 - entry_name: |
     polonya'dan 3 bin hasta sığır eti ithal edilmesi
   entry_id:  77401781
@@ -38,7 +46,7 @@ data:
     muharrem ince'nin kuantum biliyor olması
   entry_id:  77413418
   entry_writer: muchacho mkg
-  entry_fav_count: 330
+  entry_fav_count: 351
   entry_content: |
     türkiye şartlarında çok da mümkün olmayandır. zira kuantum mekaniği nosyonu bir çok “iyi” üniversitede dahi ancak doktora seviyesinde anlaşılabilir oluyor.<br/><br/>ancak muharrem ince’yi rte’den dört beş gömlek daha üstün kılan şey, kuantum mekaniğini bilmemesi değil, kuantum mekaniğinin bilinmesi gerektiğini bilmesidir. ince’nin teknolojiye ve bilime dair ettiği laflar, rte’nin en az kendisi kadar cahil danışmanlarından öğrendiği üç beş tane ezberlenmiş martavallardan kat be kat daha bilinçlidir. önemli olan her şeyi bilmek değil, gerçek bilimsel bilginin önemini bilmektir. bu bakımdan ince, rte’ye taklacı güvercin misali havada takla attırır.
   entry_channels: siyaset,bilim
@@ -54,7 +62,7 @@ data:
     bir kıza konmaması gereken isimler
   entry_id:  77396425
   entry_writer: alicek
-  entry_fav_count: 214
+  entry_fav_count: 216
   entry_content: |
     kader ve çilem..<br/>bu kadar negatif isimler görmedim ben, sanki bu dünyaya zorla gelmiş, istenmiyormuş gibi gelir hep bana
   entry_channels: anket
@@ -62,26 +70,26 @@ data:
     iyi parti'nin gizli bir el tarafından fonlanması
   entry_id:  77409228
   entry_writer: cunalan
-  entry_fav_count: 205
+  entry_fav_count: 210
   entry_content: |
     kayıp trilyon davasını 16 yıl sonra gündeme getirebiliriz. <br/><br/>akp milyonlarca dolarlık seçim kampanyasını nasıl yapmış? televizyonlarda ki görüntülenme oranını nasıl yakalamıştır?<br/><br/>ek:<br/>suçlu a. gül cb olduğu için ceza almamış, cb yetkisiyle suç ortaklarına devlet affı sağlayarak davayı düşürmüştür.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    evlilikte seksin bitme sebebi
-  entry_id:  77403641
-  entry_writer: unakkum enakkum
-  entry_fav_count: 158
-  entry_content: |
-    her gün aynı tatlı yenir miymişmişmişmişmiş. kazanovaya bak sen ya, sanki evlenmeden önce her gün farklı kadınla takılıyordu.<br/>bir insanı gerçekten seviyorsanız, o kişiyle ten uyumunuz varsa, hayatınıza heyecan katmayı biliyorsanız ve her gün aynı insanla seks yapmayı her gün aynı yemeği yemekle kıyaslayan bir çomarla evli değilseniz; evlilikte seksin biteceğini düşünmüyorum.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     bir bakkalın kalitesiz olduğunu gösteren detaylar
   entry_id:  77417107
   entry_writer: elu
-  entry_fav_count: 139
+  entry_fav_count: 165
   entry_content: |
     hayırlı işler deyince cevap vermemesi.
   entry_channels: anket,ekonomi
+- entry_name: |
+    evlilikte seksin bitme sebebi
+  entry_id:  77403641
+  entry_writer: unakkum enakkum
+  entry_fav_count: 163
+  entry_content: |
+    her gün aynı tatlı yenir miymişmişmişmişmiş. kazanovaya bak sen ya, sanki evlenmeden önce her gün farklı kadınla takılıyordu.<br/>bir insanı gerçekten seviyorsanız, o kişiyle ten uyumunuz varsa, hayatınıza heyecan katmayı biliyorsanız ve her gün aynı insanla seks yapmayı her gün aynı yemeği yemekle kıyaslayan bir çomarla evli değilseniz; evlilikte seksin biteceğini düşünmüyorum.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     sergio ramos
   entry_id:  77392534
@@ -91,6 +99,14 @@ data:
     bu akşam yaptığı salah'ı sakatlama hareketi sonucunda:<br/>- şampiyonlar ligini real madrid'in kazanmasını<br/>- salah'ın ballon d'or u cristiano ronaldo'ya kaybetmesini<br/>- salah'ın olası bir ameliyata alınmasını <br/>- salah'ın 28 yıl sonra dünya kupasına götürdüğü mısır milli futbol takımıyla dünya kupasını kaçırmasını<br/>- salah'ın belkide kariyerinde hiçbir zaman dünya kupasında oynayamayacak olmasını<br/><br/>gerçekleştirmiş olabilir. faşist diktatör franco reenkarnasyon geçirse heralde sergio ramos olarak dünyaya gelirdi.
   entry_channels: spor
 - entry_name: |
+    thy'nin duygusal destek köpeğini kabul etmemesi
+  entry_id:  77414200
+  entry_writer: congratulationsyouwon
+  entry_fav_count: 101
+  entry_content: |
+    burada sorun duygusal destek köpeğinin ne olduğu ya da ne kadar gerekli olduğu değil. böyle bir uygulama var, kuralları belli. ama thy yolcusunu kurallara uymasına rağmen keyfi bir kararla mağdur ediyor. aynen türkiye'nin diğer kurumlarında olduğu gibi. yani thy haklı falan değil.
+  entry_channels: seyahat
+- entry_name: |
     loris karius
   entry_id:  77388559
   entry_writer: zexter
@@ -99,21 +115,37 @@ data:
     devre arasında eldivenleriyle zeytinyağlı dolma yemiş futbolcu.
   entry_channels: spor
 - entry_name: |
-    thy'nin duygusal destek köpeğini kabul etmemesi
-  entry_id:  77414200
-  entry_writer: congratulationsyouwon
-  entry_fav_count: 97
-  entry_content: |
-    burada sorun duygusal destek köpeğinin ne olduğu ya da ne kadar gerekli olduğu değil. böyle bir uygulama var, kuralları belli. ama thy yolcusunu kurallara uymasına rağmen keyfi bir kararla mağdur ediyor. aynen türkiye'nin diğer kurumlarında olduğu gibi. yani thy haklı falan değil.
-  entry_channels: seyahat
-- entry_name: |
     tatilya'ya gitmiş efsane nesil
   entry_id:  77408925
   entry_writer: bulutslar
-  entry_fav_count: 87
+  entry_fav_count: 91
   entry_content: |
     babamı bu konuda asla affetmiyorum asla ! kuzenim benden 2 yaş büyüktü , tatilya bizim yazlığa giden yolun üzerinde (bkz: <a class="b" href="/?q=d100+karayolu">d100 karayolu</a>) üzerinde yer alırdı. babam benim yaşım tutmuyorken biricik yeğenini defalarca götürmüştür , gel zaman git zaman benim yaşım artık tatilyadaki şeylere binmeye yetecek hale geldiğinde babam yolu defalarca bahane edip beni götürmedi. işim var dedi. müsait değilim haftasonları babamı zaten cok az görüyordum. o da annen götürsün dedi oysa annem alışverişte yada arkadaşlarında veya bir etkinlikte olurdu. ben hic pes etmedim çünkü içimde babamın kuzenimi götürüp beni götürmemesinin verdiği hazımsızlık vardı. sonra bir gün gazetede tatilya kapandı yazısı görülünce anneme fırlatip ağlamıştım babam beni hic götürmedi diye. o günden beri 21 yaşımdayım hala babama yeri gelince laf sokarım sen zaten beni tatilyaya da hic götürmedin ama kuzenimi götürdün diye. kimse kusura bakmasın biraz sivri dilliyimdir.
   entry_channels: tarih,oyun
+- entry_name: |
+    28 mayıs 2013 taksim gezi parkı direnişi
+  entry_id:  77396699
+  entry_writer: katorpalas
+  entry_fav_count: 91
+  entry_content: |
+    halkın en <a class="b" href="/?q=spontane">spontane</a> ama en <a class="b" href="/?q=bilin%c3%a7li">bilinçli</a>, en <a class="b" href="/?q=m%c3%bcnferit">münferit</a> ama en <a class="b" href="/?q=m%c3%bctemadi">mütemadi</a> ve en organize kenetlenişi. tepedekilere kendilerince artık yeter demenin en güzel biçimini hep birlikte keşfeden insanlar bütünü, iyi ki vardınız. <br/><br/>gözü yanan var mı? elinizi sürmeyin geçecek şimdi.<br/><br/>(bkz: <a class="b" href="/?q=gezi+direni%c5%9fi+5+ya%c5%9f%c4%b1nda">gezi direnişi 5 yaşında</a>)
+  entry_channels: siyaset,tarih,müzik,haber
+- entry_name: |
+    müstakil ev yaptıracaklara tavsiyeler
+  entry_id:  77417156
+  entry_writer: tearhunter
+  entry_fav_count: 78
+  entry_content: |
+    müstakil ev yaptırmamış; ama başkasının yaptırdığı evi alıp uğraşmış (ve halen uğraşan) amatörden gelen tavsiyelerdir.<br/><br/>1. kaçarı yok. ev su alacak. çatıdan, zeminden, pencereden hatta duvardan... yöneticiniz olmadığı için kendiniz çözmeye çalışacaksınız. o yüzden ilk baştan garantili gidin. su yalıtım kimyasalları çok gelişti. evet pahalı; ama bundan tasarruf olmaz. ustanız bir şeyler yapıp "bu on yıl gider" derse yirmi yıl gideninden isteyin. ne bileyim çatı membranını ufacık bir boşluk olmayacak biçimde çektirin. dış duvarların toprak altında kalan kısımlarına da yalıtım harcı uygulayın; sonra toprak doldurun. üst katlarda her birleşim yeri su sızdırmaya adaydır. "şimdilik idare etsin" demeyin. olmadık bir yerden burnunuza su damlamaya başlayınca anlarsınız önemini. bunlara dikkat ederseniz su riskini azaltırsınız. benim toplam beş yerden su alma vakası oldu. ikisini çözdüm; üçüyle yaşamayı sürdürüyorum.<br/><br/>2. elektrik tesisatından da tasarruf etmeyin. üç-beş yıl sonra yeniden kablo çektirmek gerekirse kabus olabilir. usta elindekini satmak için "3x2,5 yeter" dese bile kanmayın. kendiniz gidip alın en az 10mm kablo ana sigortaya kadar. sigortalar değişir ama kablo değiştirmek uğraştırır. içeride dolaşan kablolar da çaplı olsun. doğru dürüst bir topraklama ve bir de kaçak akım röleniz de olursa size elektrikten ölüm yok.<br/>ayrıca: <br/>- bahçe kulübesi veya dolabına da elektrik alıp priz takın.<br/>- evdeki bütün buatlar arasında kılavuz tel bırakın. sürpriz bir kablo çekme işi çıkabilir; sıvaüstü kablo keyfinizi kaçırır sonra.<br/><br/>3. eve elektrik, su, gaz nereden giriyor, kanalizasyon nereden çıkıyor; bir şemasını çıkarın. bir kenarda dursun. unutabilirsiniz. veya sizden sonra gelecekler buna ihtiyaç duyacaklar muhtemelen. bir kablo bulmak için bütün bahçeyi kazdırdım; oradan biliyorum.<br/><br/>4. peysaj işini başkasına emanet etmeyin. çünkü:<br/>a) müstakil evin en zevkli yanı bahçesi. siz çıkarın bu keyfi.<br/>b) peysajcının keyfi size uyacak mı bakalım ? önce ne istediğinizi bilin, sonra araştırın.<br/>c) para... <br/>ama dikkat. mutlaka bir drenaj çalışması yapın. yoksa bkz madde 1.<br/>yavaş büyüyen, kışın da güzel görüntü veren bitkileri tercih edebilirsiniz. nandina, ilex vb.<br/><br/>5. oda ekonomisi yapın. her mekanı doldurmaya çalışmayın. on yıl sonra aklınıza gelecek bambaşka bir uğraş olabilir. örneğin sauna ilk başta kulağa hoş gelse de, emin olun ilk yıldan sonra kullanılmayan gereksiz bir oda haline gelecek. satarken değer katar tabii, o ayrı. <br/><br/>6. evin bir bölgesini bağımsız kış evi olarak düşünebilirsiniz. kış geldiğinde sığınacağınız 60 m2 donanımlı bir alan size ısınma kolaylığı ve ekonomi sağlar.<br/><br/>7. biraz da finansmandan bahsetmek gerek. on yıllık düşük faizli konut kredisi kullanamayacaksınız. maalesef en büyük ve acil masraflar da en başta çıkıyor. tüketici kredisi kullanabilirsiniz; ama tek seferde yüklü kredi çekmektense gerektikçe almak daha iyi sanki. aracınız para ediyorsa satıp on-onbeş yıllık bir doblo almayı da düşünün. o dobloyla ne çimentolar, ne işçiler taşınır...<br/>evin %75'i bitince eksper uygun bulursa konut kredisi alınabiliyordu bildiğim kadarıyla. bankanızla bir görüşün.<br/><br/>aklıma geldikçe eklerim; takibe alabilirsiniz.
+  entry_channels: 
+- entry_name: |
+    davulcuya para vermeyen tip
+  entry_id:  77415164
+  entry_writer: liseli lightbringer
+  entry_fav_count: 71
+  entry_content: |
+    elindeki davulu davulcunun götüne sokmamakta direnen tip
+  entry_channels: anket,ilişkiler
 - entry_name: |
     survivor 2018 all-star
   entry_id:  77389994
@@ -126,34 +158,10 @@ data:
     ısparta'ya üniversiteyi ak parti getirmiştir
   entry_id:  77408876
   entry_writer: ezequiel7
-  entry_fav_count: 67
+  entry_fav_count: 66
   entry_content: |
     "acaba mitinglere mutantlar mı katılıyor " diye düşündüren olaydır.<br/><br/>ıspartayı, ısparta yapan koskoca demirel'i de mi silip attınız, yuh be kardeşim!<br/><br/>demirel olmasaydı ısparta köydü, köy! halen daha büyükşehir değildir, ancak bütün gelişmesini demirel'e borçludur. <br/><br/>ama şuna bakınca da oha be kardeşim. 40 yıl devletin üst düzey yönetiminde bulunmuş bir adamı unutup "hüloğğğğ" diyorsanız. mutantlık var sanırım.<br/><br/>edit: imla
   entry_channels: siyaset,haber
-- entry_name: |
-    28 mayıs 2013 taksim gezi parkı direnişi
-  entry_id:  77396699
-  entry_writer: katorpalas
-  entry_fav_count: 67
-  entry_content: |
-    halkın en <a class="b" href="/?q=spontane">spontane</a> ama en <a class="b" href="/?q=bilin%c3%a7li">bilinçli</a>, en <a class="b" href="/?q=m%c3%bcnferit">münferit</a> ama en <a class="b" href="/?q=m%c3%bctemadi">mütemadi</a> ve en organize kenetlenişi. tepedekilere kendilerince artık yeter demenin en güzel biçimini hep birlikte keşfeden insanlar bütünü, iyi ki vardınız. <br/><br/>gözü yanan var mı? elinizi sürmeyin geçecek şimdi.<br/><br/>(bkz: <a class="b" href="/?q=gezi+direni%c5%9fi+5+ya%c5%9f%c4%b1nda">gezi direnişi 5 yaşında</a>)
-  entry_channels: siyaset,tarih,müzik,haber
-- entry_name: |
-    davulcuya para vermeyen tip
-  entry_id:  77415164
-  entry_writer: liseli lightbringer
-  entry_fav_count: 64
-  entry_content: |
-    elindeki davulu davulcunun götüne sokmamakta direnen tip
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    müstakil ev yaptıracaklara tavsiyeler
-  entry_id:  77417156
-  entry_writer: tearhunter
-  entry_fav_count: 63
-  entry_content: |
-    müstakil ev yaptırmamış; ama başkasının yaptırdığı evi alıp uğraşmış (ve halen uğraşan) amatörden gelen tavsiyelerdir.<br/><br/>1. kaçarı yok. ev su alacak. çatıdan, zeminden, pencereden hatta duvardan... yöneticiniz olmadığı için kendiniz çözmeye çalışacaksınız. o yüzden ilk baştan garantili gidin. su yalıtım kimyasalları çok gelişti. evet pahalı; ama bundan tasarruf olmaz. ustanız bir şeyler yapıp "bu on yıl gider" derse yirmi yıl gideninden isteyin. ne bileyim çatı membranını ufacık bir boşluk olmayacak biçimde çektirin. dış duvarların toprak altında kalan kısımlarına da yalıtım harcı uygulayın; sonra toprak doldurun. üst katlarda her birleşim yeri su sızdırmaya adaydır. "şimdilik idare etsin" demeyin. olmadık bir yerden burnunuza su damlamaya başlayınca anlarsınız önemini. bunlara dikkat ederseniz su riskini azaltırsınız. benim toplam beş yerden su alma vakası oldu. ikisini çözdüm; üçüyle yaşamayı sürdürüyorum.<br/><br/>2. elektrik tesisatından da tasarruf etmeyin. üç-beş yıl sonra yeniden kablo çektirmek gerekirse kabus olabilir. usta elindekini satmak için "3x2,5 yeter" dese bile kanmayın. kendiniz gidip alın en az 10mm kablo ana sigortaya kadar. sigortalar değişir ama kablo değiştirmek uğraştırır. içeride dolaşan kablolar da çaplı olsun. doğru dürüst bir topraklama ve bir de kaçak akım röleniz de olursa size elektrikten ölüm yok.<br/>ayrıca: <br/>- bahçe kulübesi veya dolabına da elektrik alıp priz takın.<br/>- evdeki bütün buatlar arasında kılavuz tel bırakın. sürpriz bir kablo çekme işi çıkabilir; sıvaüstü kablo keyfinizi kaçırır sonra.<br/><br/>3. eve elektrik, su, gaz nereden giriyor, kanalizasyon nereden çıkıyor; bir şemasını çıkarın. bir kenarda dursun. unutabilirsiniz. veya sizden sonra gelecekler buna ihtiyaç duyacaklar muhtemelen. bir kablo bulmak için bütün bahçeyi kazdırdım; oradan biliyorum.<br/><br/>4. peysaj işini başkasına emanet etmeyin. çünkü:<br/>a) müstakil evin en zevkli yanı bahçesi. siz çıkarın bu keyfi.<br/>b) peysajcının keyfi size uyacak mı bakalım ? önce ne istediğinizi bilin, sonra araştırın.<br/>c) para... <br/>ama dikkat. mutlaka bir drenaj çalışması yapın. yoksa bkz madde 1.<br/>yavaş büyüyen, kışın da güzel görüntü veren bitkileri tercih edebilirsiniz. nandina, ilex vb.<br/><br/>5. oda ekonomisi yapın. her mekanı doldurmaya çalışmayın. on yıl sonra aklınıza gelecek bambaşka bir uğraş olabilir. örneğin sauna ilk başta kulağa hoş gelse de, emin olun ilk yıldan sonra kullanılmayan gereksiz bir oda haline gelecek. satarken değer katar tabii, o ayrı. <br/><br/>6. evin bir bölgesini bağımsız kış evi olarak düşünebilirsiniz. kış geldiğinde sığınacağınız 60 m2 donanımlı bir alan size ısınma kolaylığı ve ekonomi sağlar.<br/><br/>7. biraz da finansmandan bahsetmek gerek. on yıllık düşük faizli konut kredisi kullanamayacaksınız. maalesef en büyük ve acil masraflar da en başta çıkıyor. tüketici kredisi kullanabilirsiniz; ama tek seferde yüklü kredi çekmektense gerektikçe almak daha iyi sanki. aracınız para ediyorsa satıp on-onbeş yıllık bir doblo almayı da düşünün. o dobloyla ne çimentolar, ne işçiler taşınır...<br/>evin %75'i bitince eksper uygun bulursa konut kredisi alınabiliyordu bildiğim kadarıyla. bankanızla bir görüşün.<br/><br/>aklıma geldikçe eklerim; takibe alabilirsiniz.
-  entry_channels: 
 - entry_name: |
     çatır çatır sevişen kadın
   entry_id:  77411346
@@ -162,6 +170,14 @@ data:
   entry_content: |
     mümkünse bana uzak olsun. balık burcuyum ben. bağlanıyorum sonra. sadece benimle çatır çatır sevişsin istiyorum.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    silivri atatürk lisesi'ndeki coğrafya sınavı
+  entry_id:  77417040
+  entry_writer: deniz tarafindakii kale
+  entry_fav_count: 53
+  entry_content: |
+    silivri atatürk lisesi'nde coğrafya öğretmeni olan göksal afacan'ın mezun olacak öğrencilerine yaptığı jesti içeren <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Klamoyka/status/1000051972517650434" title="https://twitter.com/Klamoyka/status/1000051972517650434">sınav.</a> eminim bazı öğrenciler bu ne saçmalıyor ya diye bakmıştır kağıda, ama okuyunca inanılmaz hoşuma gitti benim. öğrenci-öğretmen ilişkisi not üzerinden yürüdüğünden genellikle haylaz tayfa pek sevmez öğretmenleri, şu an ben de kendi lise öğretmenlerimi düşünüyorum ve sevmediğim öğretmenlerimi bile özlediğimi fark ediyorum ara ara. bir ay sonra üniversiteden mezun olacağım için de ayrı duygu yüklüyüm, keşke öğrencilik yıllarımın daha çok kıymetini bilseydim diyorum içimden. eğer siz hala öğrenciyseniz, lütfen o güzel yıllarınızın kıymetini bilin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s2.eksiup.com/5c8fb4573.jpg" title="https://s2.eksiup.com/5c8fb4573.jpg">link1.</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s2.eksiup.com/056e9778f.jpg" title="https://s2.eksiup.com/056e9778f.jpg">link2.</a><br/><br/>edit: sınav kağıdı fotoğrafları eklendi.
+  entry_channels: eğitim
 - entry_name: |
     ali koç
   entry_id:  77400608
@@ -182,42 +198,50 @@ data:
     24 haziran 2018 genel seçim tahmin yarışması
   entry_id:  77410977
   entry_writer: exception occurred
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     17:00 sandıklar kapanır.<br/>17:30 anadolu ajansı : erdoğan %75<br/>18:00 anadolu ajansı : erdoğan %70<br/>18:30 anadolu ajansı : erdoğan %60<br/>19:00 anadolu ajansı : erdoğan %50.2<br/>19:30 erdoğan balkon konuşması : atı alan üsküdarı geçti.<br/>20:00 chp : seçimlerde hile var sandıkları bırakmayın. ysk'a başvuracağız.<br/><br/>...3 gün sonra...<br/><br/>chp : sarayın elektrikleri çooo yakıyor ama milletvekili maaşları iyi şükür.<br/>akp : allah'ın izniyle duble yol yapıyoz. almanya kıskanma...<br/><br/>...kapanış...
   entry_channels: siyaset,anket
 - entry_name: |
-    muharrem ince reklam filmleri
-  entry_id:  77415745
-  entry_writer: poisonx
-  entry_fav_count: 43
+    starbucks çalışanlarındaki ego
+  entry_id:  77418013
+  entry_writer: bakura
+  entry_fav_count: 44
   entry_content: |
-    ben şayet kampanya reklamcısı olsam şunu yapardım.<br/><br/>---siyah zemin üzerinde beyaz puntolarla---<br/>tarih: 12 eylül 2010<br/>konu: anayasa değişikliği referandumu<br/><br/>akabinde muharrem ince'nin, kamer genç'in o dönem t.b.m.m. kürsüsünden "bu değişiklikle cemaat devleti ele geçirir" diye kendilerini parçaladıkları görüntüleri veririm ve hemen akabinde milletin üzerine 15 temmuz 2016'da kurşun yağdıran soysuzların görüntüleri...<br/><br/>--- finalde beyaz üzerine slogan ve hatta slogan bile istemez sadece muharrem ince yazsın kafi---<br/><br/>aynı varyasyonları çoğaltmak mümkün.
-  entry_channels: siyaset,tv
-- entry_name: |
-    silivri atatürk lisesi'ndeki coğrafya sınavı
-  entry_id:  77417040
-  entry_writer: deniz tarafindakii kale
-  entry_fav_count: 42
-  entry_content: |
-    silivri atatürk lisesi'nde coğrafya öğretmeni olan göksal afacan'ın mezun olacak öğrencilerine yaptığı jesti içeren <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Klamoyka/status/1000051972517650434" title="https://twitter.com/Klamoyka/status/1000051972517650434">sınav.</a> eminim bazı öğrenciler bu ne saçmalıyor ya diye bakmıştır kağıda, ama okuyunca inanılmaz hoşuma gitti benim. öğrenci-öğretmen ilişkisi not üzerinden yürüdüğünden genellikle haylaz tayfa pek sevmez öğretmenleri, şu an ben de kendi lise öğretmenlerimi düşünüyorum ve sevmediğim öğretmenlerimi bile özlediğimi fark ediyorum ara ara. bir ay sonra üniversiteden mezun olacağım için de ayrı duygu yüklüyüm, keşke öğrencilik yıllarımın daha çok kıymetini bilseydim diyorum içimden. eğer siz hala öğrenciyseniz, lütfen o güzel yıllarınızın kıymetini bilin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s2.eksiup.com/5c8fb4573.jpg" title="https://s2.eksiup.com/5c8fb4573.jpg">link1.</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s2.eksiup.com/056e9778f.jpg" title="https://s2.eksiup.com/056e9778f.jpg">link2.</a><br/><br/>edit: sınav kağıdı fotoğrafları eklendi.
-  entry_channels: eğitim
-- entry_name: |
-    add'nin 27 mayıs darbesi mesajı
-  entry_id:  77411255
-  entry_writer: uzak yolculuk
-  entry_fav_count: 37
-  entry_content: |
-    zorbalığı ve hukuksuzluğu savunan üzücü açıklama. halen daha darbeleri ve darbeci zihniyeti savunmak nasıl bir gericiliktir?
-  entry_channels: siyaset,haber
+    adamına göre muamele yaptıklarını düşündüğüm çalışanlardır zira ben hiç böyle bir muameleye maruz kalmadım. sen adamlara "kahvenin içine süt katan çalışan" diyerek kendince aşağılamaya çalışırsan o kişi seni adam yerine koymaz. koymamışta zaten. saygı karşılıklıdır.
+  entry_channels: 
 - entry_name: |
     belli bir yaştan sonra çekilmeyen şeyler
   entry_id:  77393832
   entry_writer: miss gollum
-  entry_fav_count: 36
+  entry_fav_count: 40
   entry_content: |
     gürültülü ergen barlarında bira içmek
   entry_channels: anket,ilişkiler
+- entry_name: |
+    3. havalimanından yurt dışı 20 euro
+  entry_id:  77417397
+  entry_writer: gofi winie
+  entry_fav_count: 40
+  entry_content: |
+    yurt dışına çıkıyor bunda para vardır.
+  entry_channels: ekonomi,seyahat
+- entry_name: |
+    add'nin 27 mayıs darbesi mesajı
+  entry_id:  77411255
+  entry_writer: uzak yolculuk
+  entry_fav_count: 39
+  entry_content: |
+    zorbalığı ve hukuksuzluğu savunan üzücü açıklama. halen daha darbeleri ve darbeci zihniyeti savunmak nasıl bir gericiliktir?
+  entry_channels: siyaset,haber
+- entry_name: |
+    muharrem ince'nin ilk turda %51 oy alacağı gerçeği
+  entry_id:  77411420
+  entry_writer: cal oyna seyrine bak
+  entry_fav_count: 38
+  entry_content: |
+    akitleri kudurtur.
+  entry_channels: siyaset
 - entry_name: |
     sagopa'nın dini inancım yok açıklaması
   entry_id:  77389726
@@ -227,50 +251,18 @@ data:
     e hani jazzlar blueslar seni mahvederken meditasyon yapan insanlara da namaz kılsınlar diye hönkürüyordun? ne ara dinsiz oldun varoş?
   entry_channels: müzik,magazin
 - entry_name: |
-    muharrem ince'nin ilk turda %51 oy alacağı gerçeği
-  entry_id:  77411420
-  entry_writer: cal oyna seyrine bak
-  entry_fav_count: 35
-  entry_content: |
-    akitleri kudurtur.
-  entry_channels: siyaset
-- entry_name: |
-    kısa ve dekolteli giyinmeden seksi olabilen kadın
-  entry_id:  77402513
-  entry_writer: hosvelkam
-  entry_fav_count: 34
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bir+kot+bir+ti%c5%9f%c3%b6rt+ile+g%c3%bczel+olabilen+k%c4%b1z">bir kot bir tişört ile güzel olabilen kız</a>)
-  entry_channels: moda
-- entry_name: |
-    3. havalimanından yurt dışı 20 euro
-  entry_id:  77417397
-  entry_writer: gofi winie
-  entry_fav_count: 33
-  entry_content: |
-    yurt dışına çıkıyor bunda para vardır.
-  entry_channels: ekonomi,seyahat
-- entry_name: |
     savcı vs doktor
   entry_id:  77417570
   entry_writer: salvadoralii
-  entry_fav_count: 28
+  entry_fav_count: 31
   entry_content: |
     biri siz istediğinizde götünüzden kan alır diğeri ise istediğinde götünüzden kan alır.
   entry_channels: anket
 - entry_name: |
-    starbucks çalışanlarındaki ego
-  entry_id:  77418013
-  entry_writer: bakura
-  entry_fav_count: 20
-  entry_content: |
-    adamına göre muamele yaptıklarını düşündüğüm çalışanlardır zira ben hiç böyle bir muameleye maruz kalmadım. sen adamlara "kahvenin içine süt katan çalışan" diyerek kendince aşağılamaya çalışırsan o kişi seni adam yerine koymaz. koymamışta zaten. saygı karşılıklıdır.
-  entry_channels: 
-- entry_name: |
     27 mayıs 2018 sakaryaspor afjet afyonspor maçı
   entry_id:  77399588
   entry_writer: pipi telli
-  entry_fav_count: 19
+  entry_fav_count: 21
   entry_content: |
     çomar derbisi.<br/><br/>tatangalar denilen sakaryaspor taraftar grubu bir grup at hırsızından mütevellit barzolardır. maç çıkışı ellerinde tespihler boyunlarında atkılar ayaklarında makosenler ile çark caddesine çıkar öğrenci kızlara sarkar insanları rahatsız ederler. <br/><br/>tepki gösterir iseniz meydan dayağı yemeniz muhtemeldir. süper lige çıkma durumunda ise sakarya sokaklarında başka herhangi bir takımın formasını giymeniz mümkün değildir . şuanda da öyle gerçi. velhasıl kelam, sakaryaspor da afyon spor da alt liglerde kalması gereken , tebaaları eğitilmeden üst liglere çıkarılmaması gereken takımlardır.
   entry_channels: spor
@@ -278,34 +270,34 @@ data:
     ideal meme
   entry_id:  77412317
   entry_writer: memduh basgan
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     ideal meme avucunuzun içindeki memedir kıymetini bilin. olsa da okşasak.
   entry_channels: ilişkiler
 - entry_name: |
-    ekşi itiraf
-  entry_id:  77392739
-  entry_writer: jean de pierre
-  entry_fav_count: 16
-  entry_content: |
-    ben sana çok yoruldum.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     27 mayıs ihtilali
   entry_id:  77391576
   entry_writer: umutcanrtrk
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     27 mayıs'a giden yol<br/><br/>ülkede ekonomik sıkıntılar giderek artıyordu buna karşın muhalefet günden güne güçlenmekteydi. demokrat parti 1957 seçimlerinde umduğunu elde edememiş, sorunlara çözüm bulmak yerine ne pahasına olursa olsun iktidarda durabilmek için kendilerine güç kazandıracağını umdukları bazı yöntemlere başvurmuşlardı.<br/><br/>1. bölüm: <a class="b" href="/?q=vatan+cephesi">vatan cephesi</a><br/><br/>dp'yi kamuoyunda milliyetçi ve vatanperver gösterecek sihirli bir formül aranıyordu. kendilerince bulmuşlardı ''<a class="b" href="/?q=vatan+cephesi">vatan cephesi</a>''<br/><br/>kendi tanımları ile muhalefetin oluşturduğunu düşündükleri ''<a class="b" href="/?q=kin+ve+d%c3%bc%c5%9fmanl%c4%b1k+cephesi">kin ve düşmanlık cephesi</a>''ne karşı demokrat parti'nin vatan cephesi vardı<br/><br/>vatan cephesi propagandasını sürdürmek ve katılanların sayısını arttırabilmek için devlet tiyatrosundan cepheye girenlerin adları okunuyordu. bunun başlıca amacı şüphesiz ''biz kalabalığız'' diyerek muhalefete korku salmaktı. oysa demokrat parti muhalefette iken muhalefetin sesine yer verilmediğinden yakınıyordu. iktidara geldiklerinde ise radyoyu artık kendi sesleri haline getirmişlerdi.<br/><br/>menderes henüz muhalifken şöyle yakınıyordu:<br/>''millet parası ile çalışan radyolarda tek taraflı olarak mütemadiyen kendilerini methettirmek yolunda türlü gürültüler ve gösteriler yapagelmişlerdir.''<br/><br/>aynı şekilde demokrat parti'nin kurucu olan <a class="b" href="/?q=celal+bayar">celal bayar</a> da 1947'de şöyle diyecekti:<br/>''radyo halkın parası ile kurulmuştur. tek taraflı kullanılmaması icap eder''<br/><br/>bu söylemlerine rağmen kendi iktidarlarında radyoyu tamamı ile iktidarın sesi haline getirmişlerdi.<br/><br/>2 yıla yakın bir süre boyunca vatan cephesi'ne katılanların adları radyodan okunacaktı. <br/>yayınlara göre 4 ay içinde 500.000'i aşmıştı cepheye katılanların sayısı. kendi cephelerine karşı düşmanın ''<a class="b" href="/?q=nifak+cephesi">nifak cephesi</a>'' vardı artık. <br/><br/>kullandıkları cephe hangi anlamda kullanılmaktaydı peki?<br/>bir şeyin yönü, yüzü anlamında mıydı yoksa savaştaki cepheden mi bahsediyorlardı? düşmanları vardı onların, hangi anlamı olabilir ki?<br/><br/>bazı istanbul belediyesi çalışanları da demokrat parti il başkanının baskısıyla vatan cephesi'ne girmişti.<br/><br/>demokrat parti bu cephe yüzünden devlet hazinesi ve ankara belediyesi'ni 13.845.546 lira zarara sokmuştu.<br/><br/>2. bölüm: <a class="b" href="/?q=muhalefeti+sindirmek">muhalefeti sindirmek</a><br/><br/>ekonomiyi canlandırmak, bunalımdan çıkmak amacı ile başlıca tüketim maddelerine zamlar yapılmıştır ardından <a class="b" href="/?q=4+a%c4%9fustos+kararlar%c4%b1">4 ağustos kararları</a> hayat pahalılığını daha da arttıracaktı.<br/><br/>dp'nin yöneticileri ve meclis grubu azınlıktaki muhalefetin karşı çıkışlarını ve eleştirilerini hiç doğal karşılamıyorlardı oysa demorkasi bundan ibaretti. 19 ağustos 1958 tarihli yayımladıkları bildiride chp'yi suçluyor ''çoğunluğun arzularına boyun eğen bir muhalefet'' isteğini açıkça dile getiriyorlardı. aksi durumda da muhalefeti yola getireceklerini belirtmişlerdi.<br/><br/>bildirinin içindeki o bölümü aynen aktaralım:<br/>''chp'nin bmm'nin kudret, kuvvet ve yetkisi önünde saygılı ve itaat edici olması yasal bir zorunluluktur... aksi halde gereken önlemler alınacaktır!'' bu bildiri bir manada 1960 nisan'ında kurulacak olan <a class="b" href="/?q=tahkikat+komisyonu">tahkikat komisyonu</a>'nun habercisiydi.<br/><br/>demokrat parti yöneticileri, demokasinin biricik koşulu olarak yalnızca seçimleri gördüklerini açıklamışlardı. bu anlayışa göre muhalefetin, azınlığın görüş ve eleştirileri demokrasi için bir anlam ifade etmiyordu.<br/><br/>menderes yukarıdaki bildiriden sonra balıkesir'deki konuşmasında ''onların niyeti tbmm denen aziz kabe'yi itibardan düşürmem ve memlekete işe meclis de kullanılmıştır diyerek seçimlerin semtine uğramadan iktidara gelivermektir, demişti. ve şunu de eklemişti eğer chp, yöneticiler ve savcılar üzerinde baskısını sürdürecek olursa ''<a class="b" href="/?q=demokrasiye+paydos!">demokrasiye paydos!</a>'' edilecekti.<br/><br/>''kendilerine hatırlatayım bir daha valiye, savcıya, sana şunu şunu yapacağız derlerse demokrasi paydos olacaktır... ama böyle yapınca iktidar partisi de gitmem der. ben de iktidar şimdi elimdeyken yaparım derim. çünkü milletimizi ve memleketimizi bunların şerrinden muhafaza etmek, en kutsal vazifemizdir.''<br/><br/>bunun üzerine ana muhalefet lideri <a class="b" href="/?q=ismet+in%c3%b6n%c3%bc">ismet inönü</a>'nün tepkisi sert ve fazlası ile düşündürücüydü:<br/><br/>''dp genel başkanının 1957 seçimlerinden sonra, partileri demokrasiyi paydos etmeye gücü yetmeyecektir... faraza, herhangi bir kimse demokrasiyi paydos etmek gibi bir harekete özenip, sabahleyin böyle bir girişimde bulunursa, akşama kadar kendisin ve etrafındakilerin başlarına memleketin yıkılıp, kendilerini zindana soktuklarını göreceklerdir!''<br/><br/>demokrat parti 1957 seçimlerinden önce muhalefetin güç birliği yapmalarını, ortak liste düzenlemelerin kaldırılmasıyla önlemişti. artık tek çıkar yol karşıt partilerin birleşmesiydi. bundan dolayı <a class="b" href="/?q=t%c3%bcrkiye+k%c3%b6yl%c3%bc+partisi">türkiye köylü partisi</a>, 16 ekim 1958'de <a class="b" href="/?q=cumhuriyet%c3%a7i+millet+partisi">cumhuriyetçi millet partisi</a> ile birleşerek <a class="b" href="/?q=cumhuriyet%c3%a7i+k%c3%b6yl%c3%bc+millet+partisi">cumhuriyetçi köylü millet partisi</a>'ni oluşturmuştu. aynı şekilde <a class="b" href="/?q=h%c3%bcrriyet+partisi">hürriyet partisi</a> de cumhuriyet halk partisi'ne katılmıştı bu birleşmelerden sonra iktidarın karşısında istenilenin tam aksine daha güçlü bir muhalefet oluşmuştu.<br/><br/>bu birleşmelerin üzerine ise menderes şu terimi kullanacaktı <a class="b" href="/?q=ehl-i+salib">ehl-i salib</a> menderes'e göre muhalefet partileri ''imanlı dp'ye'' karşı haçlı zihniyeti ile birliktelerdi.<br/><br/>3. bölüm: <a class="b" href="/?q=ilk+hedefler+beyannamesi">ilk hedefler beyannamesi</a><br/><br/>cumhuriyet halk partisi, hürriyet partisi'ni kendi saflarına kattıktan sonra 14. kurultayını toplamıştı. oybirliği ile kabul edilen ilkeler <a class="b" href="/?q=ilk+hedefler+beyannamesi">ilk hedefler beyannamesi</a> adıyla ilan edildi. birazdan sayacağım birkaç ilke aslında size çok yabancı gelmeyecek buyrunuz bir göz gezdirelim:<br/><br/>bir anayasa mahkemesi kurulması<br/>tbmm dışında ikinci bir meclis'in kurulması<br/>üniversite özerkliğinin tam anlamı ile sağlanması<br/>seçimlerde orantılı temsil yönteminin kullanılması<br/>yüksek yargıçlar kurulu oluşturulması<br/><br/>eğer size tanıdık gelmediyse yukarıdaki ilkelerin bir çoğu <a class="b" href="/?q=1961+anayasas%c4%b1">1961 anayasası</a>'nda yer almakta örneğin anayasa mahkemesi ilk kez 61 anayasası ile türkiye'de yer almıştı aynı şekilde 61 anayasası döneminde tbmm dışında bir adet <a class="b" href="/?q=cumhuriyet+senatosu">cumhuriyet senatosu</a> kurulmuştu. bunun gibi birçok örnek verilebilir.<br/><br/>4. bölüm: <a class="b" href="/?q=tan+bas%c4%b1mevi+katliam%c4%b1+ve+u%c3%a7ak+kazas%c4%b1">tan basımevi katliamı ve uçak kazası</a><br/><br/>son olaylardan sonra ipler iyice gerilmişti. 1959'un henüz ilk haftasında <a class="b" href="/?q=tan+bas%c4%b1mevi">tan basımevi</a> yeni bir saldırıya uğrayacaktı. sonuç olarak 40 vatandaşımız yaşamını yitirmiş 39'u ağır olmak üzere 160'dan fazla da yaralı vardı.<br/><br/>bu olayın ardından siyasete biraz olsun nefes aldıracak bir gelişme yaşanacaktı. menderes londra'ya giderken uçak kazası geçirmiş uçak ağaçlık bir alana zorunlu iniş yapmıştı. <br/><br/>haber türkiye’de bomba gibi patlamış. sıkıntılar, enflasyon, vatan cephesi, ihtilal hepsi unutuluvermişti. türkiye, başvekil’ine muhteşem bir karşılama hazırlıyordu. başbakan’ın uçağı istanbul’a indiğinde menderes’in yüzünde acı vardı. ama gördüğü manzara, kısa zamanda ona acısını unutturdu.<br/><br/>halk menderes'e müthiş bir sevgi seli hazırlamıştı. menderes için develer kesiyor tezahürat yapıyorlardı. bu manzaradan menderes memnun oldu. menderes'in ankaraya gidecek olan lokomotifi çiçekler ve bayraklarla süslenmişti. <br/><br/>menderes'i karşılayanlar arasında hepimizin tanıdığı bir isim de vardı. oğlu <a class="b" href="/?q=ayd%c4%b1n+menderes">aydın menderes</a> anlatıyor:<br/><br/>annemle rahmetli babamı ankara garı’nda karşıladık. biz arkamızı istanbul istikametine vermiş duruyorduk. karşımızda da ismet paşa ile kasım gülek duruyordu. tren o noktada duracakken makinist durduramadı. biraz ileriye kaydı. rahmetli babama ‘ismet paşa burada’ diye söylenildiğini zannediyorum. hep onun bulunduğu tarafa dönmek ister gibi bir eğilimin içindeydi o kalabalıklar kendisini alıp götürürken. bundan son derece memnun olduğunu, duygulandığını sanıyorum.<br/><br/>gazeteci <a class="b" href="/?q=metin+toker">metin toker</a> anlatıyor:<br/>celal bayar, ismet paşa’yı görmezlikten geldi. fakat menderes gördü, geldi. ismet paşa da ona gitti. ‘çok üzgün olduğunu’<br/>söyledi. ‘acil şifalar’ diledi. menderes çok mütehassıs olmuştu. ‘lütfettiniz, zahmet ettiniz çok teşekkür ederim paşam.<br/><br/>bu iki lider arasındaki son el sıkışma olacaktı...<br/><br/>5. bölüm: <a class="b" href="/?q=chp+kafilesi+yurt+gezisi+ve+demokrat+izmir">chp kafilesi yurt gezisi ve demokrat izmir</a><br/><br/>menderes kazanın şokunu atlattıktan sonra 24 nisan'da yaptığı bir konuşmadan dolayı inönü'nün dokunulmazlığının kaldırılmasını öngören bir başbakanlık yazısını tbmm'ye sunmuştu. <br/><br/>bu olaydan bir hafta sonra inönü yurt gezisine çıkacaktı. ismet paşa beraberinde 46 milletvekili ile yola çıkmıştı çıkmasına da 29 nisan'da attıkları ilk adımda olaylar patlak vermişti. ankara garında inönü lehine gösteri yapan halk ile polis arasında gerginlik yaşanmıştı. <br/><br/>gezinin ilk durağı olan uşak'ta ise demokrat parti il başkanı eşref öğün elindeki çay bardağını chp kafilesi üzerine fırlatmış ve bir kargaşa yaratmıştı(30 nisan). ertesi sabah inönü ve beraberindeki grup trenle kentten ayrılacakken yeniden saldırıya uğramıştı. burada inönü'nün başına bir taş isabet etmiş ve yere düşmüştü.<br/><br/>uşak'ın ardından manisa'ya geçtiler. buradaki konuşmasında inönü, saldırıları menderes ile cumhurbaşkanı bayar'ın hazırladığını ima ederek. iktidarın artık azınlığa düştüğünü ve bu sebeple kaba kuvvete ihtiyaç duyduğu ''dehşet yönetimi kurarak vatandaşları insan haklarından yoksun olarak yaşatmaya karar vermiş'' bir görüntüde olduğunu söylemişti.<br/><br/>yukarıdakine ek olarak saldırılardan yılmayacağını belirtiyor ve ekliyordu:<br/>'' vatandaşlarımızın hizmeti uğrunda seve seve can vermeyi, hayatımızın yüksek, şerefli ve son mükafatı saymaktayız.''<br/><br/>chp kafilesi izmir'e geldiğinde valilik, içişleri bakanlığı'nın verdiği talimat ile siyasi parti kongrelerini yasaklamıştı. bu nedenle inönü orada toplantı yapamadı. ayrıca inönü'ye yol boyunca verdiği demeçler için de yayın yasağı koyulmuştu. <br/><br/>dp'lilerden bir grup ise bu sıralarda muhalefet lehine yayın yapıyor diye <a class="b" href="/?q=demokrat+izmir">demokrat izmir</a> gazetesine saldırıp ateşe vermişti. yassıada tutanaklarına şöyle yansıyacaktı:<br/><br/>1946'da dp yanlısı olarak yayına başlayan fakat 1955'ten sonra iktidarı da eleştirmeye yönelen gazeteyi susturmayı başbakan adnan menderes istemişti. içişleri bakanı <a class="b" href="/?q=nam%c4%b1k+gedik">namık gedik</a> ile izmir valisi kemal hadımlı ve dp il başkanı faruk tunca ile rauf onursal da bu isteği yerine getimişlerdi. ethem menderes'in hatıra defterine bu olay için 8 mayıs'ta şöyle yazdığı saptanacaktı:<br/><br/>''demokrat izmir matbaasının yanmasında vali ile başvekil arasında bir telefon konuşması olmuş. vali, olacağını, fakat saatini belli edemeyeceğini söylemiş. hazin teşebbüstür, utandırıcı cüretler! yıpranmaktayız!''<br/><br/>6. bölüm: <a class="b" href="/?q=art%c4%b1k+g%c3%bcn%c3%bcn+geldi+pa%c5%9fa+%c3%b6leceksin+tekbir+getir">artık günün geldi paşa öleceksin tekbir getir</a><br/><br/>yurt gezisinin ardından izmir'den uçakla istanbul'a geçen inönü, arabayla havaalanından şehre giderken topkapı yakınlarında büyük bir saldırıya uğrayacaktı. halbuki istanbul valiliği, inönü'nün bir engelle karşılaşmadan kente girebilmesi için bazı önlemler almış, polis dışında bir de askeri birlik görevlendirmişti. <br/><br/>alınan önlemlere rağmen inönü arabası ile topkapı önlerine vardığında komiser <a class="b" href="/?q=celal+kosova">celal kosova</a> arabanın önünü kesmiş, elleri taşlı ve sopalı bir grup da arabanın etrafını çevirmişti. grup ''paşa öleceksin, tekbir getir!'' diyerek saldırıyordu. kosova, inönü'yü trafik arabasına bindirmeye çalışırken olayın ciddiyetini gören binbaşı <a class="b" href="/?q=kenan+bayraktar">kenan bayraktar</a>tabancasını çekip duruma müdahale etme gereği duymuştu. öteki subaylar da askere süngü taktırarak yolu açtırmışlar, böylece inönü kurtarılmıştı.<br/><br/>cumhuriyet halk partisi grubu uşak'tan başlayıp topkapı'ya kadar devam eden olayları tbmm gündemine getimiş başkanlığa verdikleri önergede, olayları düzenleyen ya da önleyemeyen başbakan menderes ve içişleri bakanı <a class="b" href="/?q=nam%c4%b1k+gedik">namık gedik</a> hakkında soruşturma açılmasını istemişlerdi. bu önerge dp çoğunluğu ile reddedilecekti.(11 mayıs)<br/><br/><a class="b" href="/?q=necip+faz%c4%b1l+k%c4%b1sak%c3%bcrek">necip fazıl kısakürek</a>, <a class="b" href="/?q=b%c3%bcy%c3%bck+do%c4%9fu">büyük doğu</a>'da inönü'nün artık gününün geldiğini ilan ediyordu. ''<a class="b" href="/?q=art%c4%b1k+g%c3%bcn%c3%bcn+geldi">artık günün geldi</a>'' başlıklı yazısında, ''haksız bir taşın açtığı bere üstündeki minicik plaster ne demek? haklı bir güllenin yere sereceği leşi örtecek kocaman kefenden ne haber?'' diyerek, inönü'nün gerekirse bir gülle ile öldürülmesini ima ediyordu.<br/><br/>bölüm 7: <a class="b" href="/?q=so%c4%9fuk+sava%c5%9f">soğuk savaş</a><br/><br/>menderes'in kaleminden çıkan radyo gazetesi durumu bir <a class="b" href="/?q=so%c4%9fuk+sava%c5%9f">soğuk savaş</a> olarak nitelemiş ve yakında bu savaşın mutlak galibi olaklarını açıklamıştı. artık dp çevrelerine halk partisi denen ''fesat ve melanet'' yuvasının kapatılması gerektiği dillendirilmeye başlanmıştı.<br/><br/>günümüzdeki mhp'nin ilk hali diyebileceğimiz <a class="b" href="/?q=cumhuriyet%c3%a7i+k%c3%b6yl%c3%bc+millet+partisi">cumhuriyetçi köylü millet partisi</a> genel başkanı <a class="b" href="/?q=osman+b%c3%b6l%c3%bckba%c5%9f%c4%b1">osman bölükbaşı</a> büyük millet meclisi'ne hakaret ettiği gerekçesi ile yargılandığı mahkemede 8 ay hapis cezasına çarptırılacaktı.<br/><br/>dp'lilerin sevmedikleri ve çekindikleri bir muhalif lider etkisiz hale getirilmişti. yurt gezilerini sürdürmekteki ısrarını devam ettiren inönü'nün gitti beypazarı'nda yine olaylar çıkmış, chp milletvekilleri tartaklanmışlardı(12 kasım 1959). <br/><br/>bununla birlikte asıl büyük olaylar, inönü'nün kayseri'ye gidişi sırasında yeşilhisar'da patlak vermişti. inönü iki parti arasında mahkemeye yansımış olayı incelemek ve parti kongresine katılmak için kayseri'ye gitmeye karar vermişti. bunun üzerine kayseri valisi <a class="b" href="/?q=ahmet+dall%c4%b1">ahmet dallı</a> inönü'ye kente gelmesinin kendisi için sakıncalı olacağına dair bir telgraf çekmişti. inönü uyarılara -veya tehditlere- kulak asmadan yola çıkmıştı. <br/><br/>yol boyunca halkın sevgi gösterileriyle karşılanacak olan inönü'nün treni vali tarafından himmetdede istasyonunda durdulmuştu. burada vali tarafından görevlendirilen askeri birliğin komutani binbaşı <a class="b" href="/?q=selahattin+%c3%a7etiner">selahattin çetiner</a>'e inönü'yü durdurmak için gerekirse silah kullanılması emri verildiği halde çetiner, bu emri yerine getirmektense önce kendisini vuracağını belirterek karşı çıkmıştı.<br/><br/>bu tutum ordunun artık dp liderlerinin emriyle hareket etmek istemediğinin ve muhalefeti korumaya yöneldiğinin göstergesi olmuştu...<br/><br/>8. bölüm: <br/><br/>gün içerisinde yazıyı tamamlayacağım şimdilik biraz ara vereyim. buna ek olarak 27 mayıs'a ihtilal veya darbe demek yanlışken müdahale tanımı daha doğru olacaktır. ihtilal ile darbe söylemi ayrı bir tartışma konusudur.<br/><br/>not: yeni bir bölüm yazdıkça yolluyorum.
   entry_channels: siyaset,tarih
 - entry_name: |
-    hayatında jartiyerli bir kadınla sevişmemiş erkek
-  entry_id:  77416918
-  entry_writer: massax
-  entry_fav_count: 13
+    erdoğan'ın ekonomi bizim işimiz açıklaması
+  entry_id:  77411863
+  entry_writer: common person
+  entry_fav_count: 14
   entry_content: |
-    karıyı buldun jartiyerlisi kaldı.<br/><br/>erkektir.
-  entry_channels: ilişkiler
+    mitinge çıkmadan önce <a class="b" href="/?q=%c3%a7ocuklar+duymas%c4%b1n">çocuklar duymasın</a> izlemiş olabilir. <br/><br/>ekonomi bizim işimiz yenge. sen ver oyunu hüseyin abime
+  entry_channels: siyaset
+- entry_name: |
+    sözlükte mesajlaşırken ısrarla fotoğraf istemek
+  entry_id:  77419492
+  entry_writer: dumbass
+  entry_fav_count: 10
+  entry_content: |
+    hangi entry'ye istinaden bilmiyorum ama "erkeğim lan ben." dedim, "hacı artık kaçışın yok." yazmıştı biri. millet aç.
+  entry_channels: ekşi-sözlük
 - entry_name: |
     hayal edilen vs sahip olunan araç
   entry_id:  77389006
@@ -315,14 +307,6 @@ data:
     hayal edilen ayağı yerden kesen araç , sahip olunan yok
   entry_channels: anket,otomotiv,motosiklet
 - entry_name: |
-    sözlükte mesajlaşırken ısrarla fotoğraf istemek
-  entry_id:  77418607
-  entry_writer: organikhatun
-  entry_fav_count: 9
-  entry_content: |
-    ekşisözlük artık eski ekşi değil bunu hepimiz biliyoruz sanırım; artık kutsal bilgi kaynağından ziyade bir troll yuvası, bir izdivaç platformu, bir laf sokma ringi haline geldi malesef.<br/>nick dişil bir kelime içeriyor diye kimseyi sözlü taciz etme hakkınız yok. sizin testeronlarınız öyle istiyor diye kimse kendini deşifre etmek zorunda da değil.<br/>ben artık testesteron kokan başlıkların altına trolleme yapıp ordan gelenlerle dalga geçiyorum, hemen seviyelerini belli ediyorlar zaten; çoğu ile konuşmaya bile gerek yok entry’lerinden belli oluyor.<br/>bu sırada aynı şeyi bir kadın bir erkeğe de yapıyor olabilir. kimse masum değil. genelleyeyim ama kırılmaca gücenmece olmasın.<br/>beyninizin kıvrımları daha değerli olmalı, vücut kıvrımları değil.
-  entry_channels: ekşi-sözlük
-- entry_name: |
     düşün ki o bunu okuyor
   entry_id:  77390221
   entry_writer: youbelongwithme
@@ -331,21 +315,45 @@ data:
     beni sildin mi, yani tamamen?
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    bitcoin
-  entry_id:  77408228
-  entry_writer: lanet olsun dostum
-  entry_fav_count: 6
-  entry_content: |
-    konuyla ilgili bilgisiz kişilerin yorumlarıyla çıkarımlarda bulunulmaması gereken dijital para. oncelikle swift sistemi pratikte bitcoinden onlarca kat daha yavastir. bir bitcoin transferi networkte bekleyen islemlerin sayisina gore 15 dakika ile birkac saat arasinda surerken, bir swift islemi minimum 1 gun surer cogu zaman. visanin anlik yuz milyonlarca islem yapabilecegi varsayimina ise oturma organiyla gulup gecebilirsiniz. gunde 156 milyon islem yapan bir sirketin saniyede yuz milyonlarca islem yapabilen bir altyapiya yatirim yapabilmesi icin bu baslikta atip tutan dangozlar tarafindan yonetilmesi elzem. azicik yavas atin da civcivler de yesin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/" title="https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/">https://altcointoday.com/…-transactions-per-second/</a>
-  entry_channels: programlama,teknoloji,ekonomi
-- entry_name: |
     askeri görgü kuralları
   entry_id:  77417802
   entry_writer: ak sakalli zenci
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     üst rütbeli biri ile karşılaşıldığında ona muhabbetle bakmak.
   entry_channels: eğitim
+- entry_name: |
+    insanların yalnız kalmasının gerçek sebepleri
+  entry_id:  77389285
+  entry_writer: cal oyna seyrine bak
+  entry_fav_count: 6
+  entry_content: |
+    sohbet edecek, dertleşecek, eğlenecek "gerçek" insan bulamamak. plastiklik..
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    flormar
+  entry_id:  77402954
+  entry_writer: tswiag
+  entry_fav_count: 6
+  entry_content: |
+    siz böyle bir şeyi nasıl yaparsınız aklım almıyor. kadınların kozmetik konusunda nasıl bir ağ oluşturduğunu, nasıl biraraya gelebildiğini biliyorsunuz. bir boykot hareketi başlarsa, hem de bu kadar rakip varken piyasada, acaba iç pazarda nasıl tutunacaksınız? sevgili işveren kardeşim, biraz az kar et, işçi kadınlara haklarını ver. ekonomik darboğazın sıkıntıları hep işçilere yüklenmesin, biraz da sen paylaş. çalışanlarını iyi tutacaksın, mutlu edeceksin, yoksa orta/uzun vadede silinip gidersin. benim açımdan bitmiştir bu marka.
+  entry_channels: moda
+- entry_name: |
+    ak partili kardeşlerime not
+  entry_id:  77419190
+  entry_writer: hadi git
+  entry_fav_count: 6
+  entry_content: |
+    koy elini kalbine, heh onun dediğini yapma. beyninin dediğini yap. hepsi bu.
+  entry_channels: siyaset
+- entry_name: |
+    erkeği erkek yapan unsurlar
+  entry_id:  77410804
+  entry_writer: swollenmember
+  entry_fav_count: 5
+  entry_content: |
+    erekte penisini suratınıza şap şap vurmasıdır.<br/>daha başka ne olabilirdi ki zaten, şaşırmışsınız.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     lionel messi
   entry_id:  77417084
@@ -355,14 +363,6 @@ data:
     salah 44 golü tüm sezonda atmıştır. <br/><br/>messi muadili olarak 2009 - 2010 sezonundan başlamak üzere sırasıyla bir sezonda 47,53,73,60,41,58,41,54 ve bu sezon 45 gol atmıştır. indirgemeci olsak da olmasak da hangisi daha değerli tekrar düşünmek gerektiği kanaatindeyim.
   entry_channels: spor
 - entry_name: |
-    flormar
-  entry_id:  77402954
-  entry_writer: tswiag
-  entry_fav_count: 4
-  entry_content: |
-    siz böyle bir şeyi nasıl yaparsınız aklım almıyor. kadınların kozmetik konusunda nasıl bir ağ oluşturduğunu, nasıl biraraya gelebildiğini biliyorsunuz. bir boykot hareketi başlarsa, hem de bu kadar rakip varken piyasada, acaba iç pazarda nasıl tutunacaksınız? sevgili işveren kardeşim, biraz az kar et, işçi kadınlara haklarını ver. ekonomik darboğazın sıkıntıları hep işçilere yüklenmesin, biraz da sen paylaş. çalışanlarını iyi tutacaksın, mutlu edeceksin, yoksa orta/uzun vadede silinip gidersin. benim açımdan bitmiştir bu marka.
-  entry_channels: moda
-- entry_name: |
     boyu 1.50 olan kızlar
   entry_id:  77414792
   entry_writer: partition
@@ -371,35 +371,35 @@ data:
     şu başlığa gelip pedofili yazan mahlukatların ağzına çarpasım var. iki yetişkin insanın yaşadığı ilişkiye bu iğrenç hastalığı yakıştırmak akıl işi değil. 1.80 kız başlığına da gidip gizli gay yazıyor bu kafadakiler milleti bi rahat bırakın be sosyal hayata karışamamaktan beyinleriniz sulanmış sizin.
   entry_channels: ilişkiler
 - entry_name: |
-    ak partili kardeşlerime not
-  entry_id:  77419294
-  entry_writer: zahmus
-  entry_fav_count: 4
+    pucca
+  entry_id:  77403157
+  entry_writer: destroy everything
+  entry_fav_count: 3
   entry_content: |
-    siz kandırılıyorsunuz halk kaybediyor.milleti bu eziyetten kurtarın.
-  entry_channels: siyaset
+    asıl şimdi onlar düşünsün dediğine eminim. nerden baksan bekar annelik üzerine 3, ikinci evliliği üzerine 5 kitaplık ekmek çıkar bir burdan. instagram paylaşımlarına göre yeni bağdat caddesi’ne taşınmış, kredi taksitleri siz sevenlerinden. ehe.
+  entry_channels: magazin
 - entry_name: |
     sözlükçülerin favori bira markası
-  entry_id:  77416547
-  entry_writer: appeal
-  entry_fav_count: 3
+  entry_id:  77416810
+  entry_writer: markion
+  entry_fav_count: 2
   entry_content: |
-    simdi buraya kadikoy-taksim elitistleri gelmeden bir barmen olarak goruslerimi yazayim. ıctiginiz en ismi farkli bira en iyi bira degil amk. buraya oyle farkli isimler yainca farkli olmuyorsunuz. yuzlerce cesit bira ictim bana kalirsa en keyif alarak ictigim carlsberg ficidir. <br/><br/>tuborg ya da efes seven ezikmis ben kwak iciyorum wow ne farkliyim havalarina girmeyin. bir suru yabanci insana bu iki birayi icirin dipleri dusuyor. cunku lager ve pilsener biralar icimi en rahat biralardir.
+    (bkz: <a class="b" href="/?q=amsterdam+navigator">amsterdam navigator</a>) tadının amına koyayım. fena kafa yapıyor.
   entry_channels: anket,ekşi-sözlük,yeme-içme
 - entry_name: |
-    erkeği erkek yapan unsurlar
-  entry_id:  77410804
-  entry_writer: swollenmember
-  entry_fav_count: 3
+    cinsel organları tarif ederken kullanılan meyveler
+  entry_id:  77420427
+  entry_writer: hawloo
+  entry_fav_count: 2
   entry_content: |
-    erekte penisini suratınıza şap şap vurmasıdır.<br/>daha başka ne olabilirdi ki zaten, şaşırmışsınız.
-  entry_channels: anket,ilişkiler
+    meme cinsel organ mi salak.
+  entry_channels: 
 - entry_name: |
     en yakındaki kitabın yazarı
-  entry_id:  77416595
-  entry_writer: kibrit kolisi
-  entry_fav_count: 3
+  entry_id:  77420352
+  entry_writer: incity
+  entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=goethe">goethe</a>)<br/>(bkz: <a class="b" href="/?q=fyodor+dostoyevski">fyodor dostoyevski</a>)<br/>(bkz: <a class="b" href="/?q=grigoriy+petrov">grigoriy petrov</a>)<br/>(bkz: <a class="b" href="/?q=jose+saramago">jose saramago</a>)<br/>(bkz: <a class="b" href="/?q=albert+camus">albert camus</a>)<br/>(bkz: <a class="b" href="/?q=gabriel+garcia+marquez">gabriel garcia marquez</a>)<br/>(bkz: <a class="b" href="/?q=stefan+zweig">stefan zweig</a>)<br/><br/>sehpanin ustunde duruyorlar secilmek uzere efenim.
+    bize ne amk? <br/><br/>kime ne yararı var böyle şeylerin? çoluk çocuğu yazar yaptınız sonuca bak... siktiniz anasını sözlüğün. <br/><br/>(bkz: <a class="b" href="/?q=hugo%27nun+amk">hugo'nun amk</a>)
   entry_channels: anket,sanat,edebiyat
 ---
