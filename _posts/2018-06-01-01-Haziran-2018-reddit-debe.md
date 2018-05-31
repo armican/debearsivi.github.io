@@ -43,20 +43,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ks0qkw5ph8111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Police faked 258,000 breath tests in shocking 'breach of trust'
-  entry_id: 8nbtt0
-  entry_content: |
-    <img src=https://i.redditmedia.com/ynu01q9dF0wdjlcnyqpKTza06qW3T_5WwW-urIs7YJY.jpg?s=f88be8cec55b5ab09c0dbaf31d639a1a frameborder=0>
-- entry_name: |
     How they should've fixed Roseanne
   entry_id: 8ndccc
   entry_content: |
     <img src=https://i.redditmedia.com/76r5Or8YCScCt47tTH2_MFXVjWFdeJti8XSU85vnJNA.png?s=f26fd81eee229dee0cd6f80e1159428c frameborder=0>
 - entry_name: |
+    TIME’s Latest Cover Photo is a Drone Photo of 958 Drones
+  entry_id: 8nj4w5
+  entry_content: |
+    <img src=https://i.redditmedia.com/VMCKjVfDxOio75BzEfcjHmaqbxXr0Qnenb6VpL3AXJs.jpg?s=f409eb32151a99d55d52447f86a8ff33 frameborder=0>
+- entry_name: |
     I painted two bunnies twice and it made me happy :)
   entry_id: 8nh39c
   entry_content: |
     <img src=https://i.redditmedia.com/vBXSavHFPSQjkgdPL8DuO_oS-zGBM3tJXHTwAFI690s.jpg?s=18525b237abd6d106db01a53d0c7393f frameborder=0>
+- entry_name: |
+    Amazing animation art
+  entry_id: 8ni3fe
+  entry_content: |
+    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     About to make a splash? More like just about to crash
   entry_id: 8ncnpf
@@ -68,15 +73,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/koSDbwq67c0Z8KpXe-ZQ2vRZqFAwBKmen_rW-3UqLII.jpg?s=3e7deef79a4c9f7978b46a6298117369 frameborder=0>
 - entry_name: |
-    Amazing animation art
-  entry_id: 8ni3fe
-  entry_content: |
-    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     yall
   entry_id: 8nhya4
   entry_content: |
     <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
+- entry_name: |
+    My campus just put in a new eSports section in the computer lab
+  entry_id: 8njgr9
+  entry_content: |
+    <img src=https://i.redditmedia.com/1Unk_VQOYdEbjB-p4FfCFsHljR3l1XW1EpJVuN6Ckmk.jpg?s=6343ed869ddadea1cf40f177efb5cc13 frameborder=0>
 - entry_name: |
     A fight scene between shape-shifting beings in Lotte Reiniger’s 'The Adventures of Prince Achmed' (1926). The oldest surviving animated feature film.
   entry_id: 8nc4pz
@@ -93,25 +98,35 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/629p21lbk3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    One vault away from a great game
-  entry_id: 8nbune
-  entry_content: |
-    <img src=https://i.redditmedia.com/06CiqXfmexDbrON6graw5GIcKqRLYRo-d5-GJYJTwJw.jpg?s=7ca5974e0d88a6e5096b8817c39c4c0c frameborder=0>
-- entry_name: |
     🔥 A diver in Belize has made friends with an octopus. She named him Egbert and brings him treats in his own jar
   entry_id: 8ndytk
   entry_content: |
     <iframe src=https://v.redd.it/hpebu4tce3111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Rescuers catch a suicide jumper from a floor below in Latvia
+  entry_id: 8nik0s
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeatShortDwarfmongoose&url=https%3A%2F%2Fgfycat.com%2FNeatShortDwarfmongoose&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeatShortDwarfmongoose-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Reminder that on this day, 28 years ago, Jon Arbuckle drank dog semen
   entry_id: 8ndqjn
   entry_content: |
     <img src=https://i.redditmedia.com/Pfl6n1On2xoRuw7XLAz_n-waP_VxFrIS6JT3UqLV3v8.jpg?s=aa52ae4c8d5a1f565acecabbfe0f812a frameborder=0>
 - entry_name: |
+    TIL that the song 'Africa' by Toto is actually about a boy trying to write a song on Africa, but since he's never been there, he can only tell what he's seen on TV or remembers in the past. This explains the apparently inaccurate line about Kilimanjaro rising above the Serengeti.
+  entry_id: 8nht9p
+  entry_content: |
+    <img src=https://i.redditmedia.com/4yesprziSBRTXw8IjL21-X3V9U0ItP8L2hoY0KBF-ks.jpg?s=8fb670e0285536e0eb5e5af9963e36de frameborder=0>
+- entry_name: |
     If you're the least attractive person in an orgy, you're at the right orgy
   entry_id: 8ng2r5
   entry_content: |
     null
+- entry_name: |
+    Trump administration will put steel and aluminum tariffs on Canada, Mexico and the EU
+  entry_id: 8nijjr
+  entry_content: |
+    <img src=https://i.redditmedia.com/wX-LaRRQWdhrLkfMHW9Wn6HENDx5eNL_R6T9nxYlbXg.jpg?s=797f14ae148090d36bbe3f59371f12bb frameborder=0>
 - entry_name: |
     Chile has just voted to become the first country in the Americas to ban plastic bags from stores across the country in an effort to reduce unnecessary waste. In an unprecedented national measure, the Chilean senate passed a bill to prohibit the use of plastic bags for store purchases.
   entry_id: 8nevm3
@@ -128,11 +143,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    FBI is reconstructing shredded documents obtained during Cohen raid
-  entry_id: 8nbvoa
-  entry_content: |
-    <img src=https://i.redditmedia.com/UzI0rp9Hdnh4oDexlb777_BM6yUpc_t5JRvI55IcCVQ.jpg?s=b8513900e2f6459f27dd32868221ed09 frameborder=0>
-- entry_name: |
     We all start somewhere
   entry_id: 8nei3w
   entry_content: |
@@ -143,40 +153,54 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xAiug143pKNKSoObqOL3c9du200qAJIFGpbmQl5cyxM.jpg?s=75405be35993e32fbf17d08da50bb400 frameborder=0>
 - entry_name: |
-    For the first time, scientists have measured captive dolphin happiness. Dolphins looked forward to interacting wither their caretakers. Researchers propose that non-food human interactions play an important role in these animals’ lives.
-  entry_id: 8ncvu5
-  entry_content: |
-    <img src=https://i.redditmedia.com/9z5O8UvpqFj7xGM8ZMzeFLb5SPoooVMQszjUO1fWru8.jpg?s=8d9f09e374b2212406f6b20473175521 frameborder=0>
-- entry_name: |
-    Trump administration will put steel and aluminum tariffs on Canada, Mexico and the EU
-  entry_id: 8nijjr
-  entry_content: |
-    <img src=https://i.redditmedia.com/wX-LaRRQWdhrLkfMHW9Wn6HENDx5eNL_R6T9nxYlbXg.jpg?s=797f14ae148090d36bbe3f59371f12bb frameborder=0>
-- entry_name: |
-    TIL that the song 'Africa' by Toto is actually about a boy trying to write a song on Africa, but since he's never been there, he can only tell what he's seen on TV or remembers in the past. This explains the apparently inaccurate line about Kilimanjaro rising above the Serengeti.
-  entry_id: 8nht9p
-  entry_content: |
-    <img src=https://i.redditmedia.com/4yesprziSBRTXw8IjL21-X3V9U0ItP8L2hoY0KBF-ks.jpg?s=8fb670e0285536e0eb5e5af9963e36de frameborder=0>
-- entry_name: |
     600k subscribers and a million more well on the way.
   entry_id: 8nhkfg
   entry_content: |
     <iframe src=https://v.redd.it/dbco0upyc6111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    TIME’s Latest Cover Photo is a Drone Photo of 958 Drones
-  entry_id: 8nj4w5
+    For the first time, scientists have measured captive dolphin happiness. Dolphins looked forward to interacting wither their caretakers. Researchers propose that non-food human interactions play an important role in these animals’ lives.
+  entry_id: 8ncvu5
   entry_content: |
-    <img src=https://i.redditmedia.com/VMCKjVfDxOio75BzEfcjHmaqbxXr0Qnenb6VpL3AXJs.jpg?s=f409eb32151a99d55d52447f86a8ff33 frameborder=0>
+    <img src=https://i.redditmedia.com/9z5O8UvpqFj7xGM8ZMzeFLb5SPoooVMQszjUO1fWru8.jpg?s=8d9f09e374b2212406f6b20473175521 frameborder=0>
 - entry_name: |
-    My campus just put in a new eSports section in the computer lab
-  entry_id: 8njgr9
+    “Sorry boss I’m not gonna make it in today, got a bad case of the shouldercats”
+  entry_id: 8niudo
   entry_content: |
-    <img src=https://i.redditmedia.com/1Unk_VQOYdEbjB-p4FfCFsHljR3l1XW1EpJVuN6Ckmk.jpg?s=6343ed869ddadea1cf40f177efb5cc13 frameborder=0>
+    <img src=https://i.redditmedia.com/rigXSFCX8RhREWDOZRKSXjrPnd9Myvjn5GbSe3Ld3Ag.jpg?s=d75e49182b37620d5f85f27d53afce43 frameborder=0>
 - entry_name: |
     My grandmother modeling a Christian Dior wedding gown in the 1940’s.
   entry_id: 8nfh96
   entry_content: |
     <img src=https://i.redditmedia.com/BHFxK1yAKg3GYf8Iaky801IutbDEWx9YG1DxYuyH0WY.jpg?s=19897e82fe4d50ef5824251dab3e5566 frameborder=0>
+- entry_name: |
+    Florida brewery unveils six-pack rings that feed sea turtles rather than kill them
+  entry_id: 8ni5ac
+  entry_content: |
+    <img src=https://i.redditmedia.com/WbPXsZZlYiBuSEPV2Lmw1rK6gr5d7Viyd52-bEJA48c.jpg?s=f5c4bac1990173dd212e2ac48d53c702 frameborder=0>
+- entry_name: |
+    How to Train Your Dragon 3 - Official Poster
+  entry_id: 8nj3ul
+  entry_content: |
+    <img src=https://i.redditmedia.com/72ma0Dr0h6Fh2IBaD7oX7B16WhJpn6CoHzpQzaLfdXc.jpg?s=df4395d3315352289eb57982a7007e79 frameborder=0>
+- entry_name: |
+    Wait what
+  entry_id: 8nggwx
+  entry_content: |
+    <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
+- entry_name: |
+    TIL: The term Third World originated during the cold war, and was used to refer to countries that were neither aligned with NATO (the first world) or the Communist Bloc (the second world). Under the original definition, Sweden, Finland and Austria are third world countries.
+  entry_id: 8nhjzx
+  entry_content: |
+    <img src=https://i.redditmedia.com/yaQ4N3Se_w2iWPsJCozoCfRCQN1Sjn5W1yuVTKU7upc.jpg?s=d772dc8facb6e5e60cd80566b6fda319 frameborder=0>
+- entry_name: |
+  entry_id: 8nfkob
+  entry_content: |
+    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
+- entry_name: |
+    i want pats
+  entry_id: 8nhaxw
+  entry_content: |
+    <iframe src=https://v.redd.it/25k80fbz16111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     “Let's see who will win”?
   entry_id: 8nd3j5
@@ -188,15 +212,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/oabsf76512111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Wait what
-  entry_id: 8nggwx
-  entry_content: |
-    <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
-- entry_name: |
-  entry_id: 8nfkob
-  entry_content: |
-    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
-- entry_name: |
   entry_id: 8nga87
   entry_content: |
     <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
@@ -206,20 +221,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hrdzppxhe3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL: The term Third World originated during the cold war, and was used to refer to countries that were neither aligned with NATO (the first world) or the Communist Bloc (the second world). Under the original definition, Sweden, Finland and Austria are third world countries.
-  entry_id: 8nhjzx
-  entry_content: |
-    <img src=https://i.redditmedia.com/yaQ4N3Se_w2iWPsJCozoCfRCQN1Sjn5W1yuVTKU7upc.jpg?s=d772dc8facb6e5e60cd80566b6fda319 frameborder=0>
-- entry_name: |
     This girl is what pumps me up today.never give up.
   entry_id: 8ng0w3
   entry_content: |
     <iframe src=https://v.redd.it/eqvtixy2s4111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    i want pats
-  entry_id: 8nhaxw
-  entry_content: |
-    <iframe src=https://v.redd.it/25k80fbz16111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     This should be punishable by law. Truly worthy of this sub!
   entry_id: 8nc0e9
@@ -230,15 +235,9 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
 - entry_name: |
-    Rescuers catch a suicide jumper from a floor below in Latvia
-  entry_id: 8nik0s
+  entry_id: 8ni1me
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeatShortDwarfmongoose&url=https%3A%2F%2Fgfycat.com%2FNeatShortDwarfmongoose&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeatShortDwarfmongoose-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Florida brewery unveils six-pack rings that feed sea turtles rather than kill them
-  entry_id: 8ni5ac
-  entry_content: |
-    <img src=https://i.redditmedia.com/WbPXsZZlYiBuSEPV2Lmw1rK6gr5d7Viyd52-bEJA48c.jpg?s=f5c4bac1990173dd212e2ac48d53c702 frameborder=0>
+    <img src=https://i.redditmedia.com/j9-JkubCD156eZUw1Haj7rx5BlQggNXX1BpQxsEbbkQ.jpg?s=41f1d924aa38b62a093b288ff5762102 frameborder=0>
 - entry_name: |
     Trump will pardon conservative pundit Dinesh D'Souza who was convicted for campaign finance violation
   entry_id: 8nids3
