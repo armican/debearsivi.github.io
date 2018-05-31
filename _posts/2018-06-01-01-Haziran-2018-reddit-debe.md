@@ -3,11 +3,6 @@ layout: post
 title: 01 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    My landlord was replacing our sink and sent me this.
-  entry_id: 8narht
-  entry_content: |
-    <img src=https://i.redditmedia.com/88rqJRoBH1kVmio2PF2E4ZlsprHc7RSR0bFoxLCEZgs.jpg?s=f3f2363a7498178a5259ed64e8774db6 frameborder=0>
-- entry_name: |
     TIL the creators of Parks and Recreation did research for the show by interviewing actual government officials. One said, Well, I’m a libertarian, so I don’t really believe in the mission of my job. Yes, I’m aware of the irony. The character of Ron Swanson was born.
   entry_id: 8ne30f
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    🔥 A diver in Belize has made friends with an octopus. She named him Egbert and brings him treats in his own jar
-  entry_id: 8ndytk
-  entry_content: |
-    <iframe src=https://v.redd.it/hpebu4tce3111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     yall
   entry_id: 8nhya4
   entry_content: |
@@ -250,4 +240,13 @@ data:
   entry_id: 8nfkob
   entry_content: |
     <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
+- entry_name: |
+    This girl is what pumps me up today.never give up.
+  entry_id: 8ng0w3
+  entry_content: |
+    <iframe src=https://v.redd.it/eqvtixy2s4111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8nga87
+  entry_content: |
+    <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
 ---
