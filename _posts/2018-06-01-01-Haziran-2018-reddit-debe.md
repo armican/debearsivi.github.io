@@ -78,6 +78,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/koSDbwq67c0Z8KpXe-ZQ2vRZqFAwBKmen_rW-3UqLII.jpg?s=3e7deef79a4c9f7978b46a6298117369 frameborder=0>
 - entry_name: |
+    Amazing animation art
+  entry_id: 8ni3fe
+  entry_content: |
+    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    yall
+  entry_id: 8nhya4
+  entry_content: |
+    <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
+- entry_name: |
     Hold my Nuka-Cola...
   entry_id: 8nbk42
   entry_content: |
@@ -88,50 +98,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/szxnx5l232111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Rap is romance
-  entry_id: 8nbblw
-  entry_content: |
-    <img src=https://i.redditmedia.com/eWNzm_X_CTSHEDzKt7r_yYW1OZmkIv7bgfVXcAkY800.jpg?s=1474a9efd121e5cb4f805e73a167f1e8 frameborder=0>
-- entry_name: |
-    yall
-  entry_id: 8nhya4
-  entry_content: |
-    <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
-- entry_name: |
-    Amazing animation art
-  entry_id: 8ni3fe
-  entry_content: |
-    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Wanna thank you guys for always having my back. So glad we get to do more BROOKLYN99! On NBC! Crazy! Love you guys!
   entry_id: 8ngc1d
   entry_content: |
     null
-- entry_name: |
-    One vault away from a great game
-  entry_id: 8nbune
-  entry_content: |
-    <img src=https://i.redditmedia.com/06CiqXfmexDbrON6graw5GIcKqRLYRo-d5-GJYJTwJw.jpg?s=7ca5974e0d88a6e5096b8817c39c4c0c frameborder=0>
 - entry_name: |
     Golden retrievers meet the new pupper
   entry_id: 8ne63h
   entry_content: |
     <iframe src=https://v.redd.it/629p21lbk3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    One vault away from a great game
+  entry_id: 8nbune
+  entry_content: |
+    <img src=https://i.redditmedia.com/06CiqXfmexDbrON6graw5GIcKqRLYRo-d5-GJYJTwJw.jpg?s=7ca5974e0d88a6e5096b8817c39c4c0c frameborder=0>
+- entry_name: |
+    🔥 A diver in Belize has made friends with an octopus. She named him Egbert and brings him treats in his own jar
+  entry_id: 8ndytk
+  entry_content: |
+    <iframe src=https://v.redd.it/hpebu4tce3111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Reminder that on this day, 28 years ago, Jon Arbuckle drank dog semen
   entry_id: 8ndqjn
   entry_content: |
     <img src=https://i.redditmedia.com/Pfl6n1On2xoRuw7XLAz_n-waP_VxFrIS6JT3UqLV3v8.jpg?s=aa52ae4c8d5a1f565acecabbfe0f812a frameborder=0>
+- entry_name: |
+    If you're the least attractive person in an orgy, you're at the right orgy
+  entry_id: 8ng2r5
+  entry_content: |
+    null
 - entry_name: |
     Trump signs 'Right to Try Act' aimed at helping terminally ill patients seek drug treatments
   entry_id: 8nbj1e
   entry_content: |
     <img src=https://i.redditmedia.com/VnmJuP_ZaJ1X2Qh7Klpa-TLG4g1CS6M3XUHWUwOWpDE.jpg?s=3bcd30e4bc93a9f9e8d7a6dba5d08f2b frameborder=0>
 - entry_name: |
-    If you're the least attractive person in an orgy, you're at the right orgy
-  entry_id: 8ng2r5
+    Chile has just voted to become the first country in the Americas to ban plastic bags from stores across the country in an effort to reduce unnecessary waste. In an unprecedented national measure, the Chilean senate passed a bill to prohibit the use of plastic bags for store purchases.
+  entry_id: 8nevm3
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/RgA6-zNRgHCxVeh07AQ-jMtKD7Kdd4CuLVh8RDl-xyI.jpg?s=8d6d8b338180bd75ce223315a4eb23d5 frameborder=0>
 - entry_name: |
     Worth it...
   entry_id: 8nef15
@@ -142,11 +147,6 @@ data:
   entry_id: 8nczsq
   entry_content: |
     null
-- entry_name: |
-    Chile has just voted to become the first country in the Americas to ban plastic bags from stores across the country in an effort to reduce unnecessary waste. In an unprecedented national measure, the Chilean senate passed a bill to prohibit the use of plastic bags for store purchases.
-  entry_id: 8nevm3
-  entry_content: |
-    <img src=https://i.redditmedia.com/RgA6-zNRgHCxVeh07AQ-jMtKD7Kdd4CuLVh8RDl-xyI.jpg?s=8d6d8b338180bd75ce223315a4eb23d5 frameborder=0>
 - entry_name: |
     FBI is reconstructing shredded documents obtained during Cohen raid
   entry_id: 8nbvoa
@@ -168,6 +168,31 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9z5O8UvpqFj7xGM8ZMzeFLb5SPoooVMQszjUO1fWru8.jpg?s=8d9f09e374b2212406f6b20473175521 frameborder=0>
 - entry_name: |
+    Trump administration will put steel and aluminum tariffs on Canada, Mexico and the EU
+  entry_id: 8nijjr
+  entry_content: |
+    <img src=https://i.redditmedia.com/wX-LaRRQWdhrLkfMHW9Wn6HENDx5eNL_R6T9nxYlbXg.jpg?s=797f14ae148090d36bbe3f59371f12bb frameborder=0>
+- entry_name: |
+    TIL that the song 'Africa' by Toto is actually about a boy trying to write a song on Africa, but since he's never been there, he can only tell what he's seen on TV or remembers in the past. This explains the apparently inaccurate line about Kilimanjaro rising above the Serengeti.
+  entry_id: 8nht9p
+  entry_content: |
+    <img src=https://i.redditmedia.com/4yesprziSBRTXw8IjL21-X3V9U0ItP8L2hoY0KBF-ks.jpg?s=8fb670e0285536e0eb5e5af9963e36de frameborder=0>
+- entry_name: |
+    600k subscribers and a million more well on the way.
+  entry_id: 8nhkfg
+  entry_content: |
+    <iframe src=https://v.redd.it/dbco0upyc6111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    TIME’s Latest Cover Photo is a Drone Photo of 958 Drones
+  entry_id: 8nj4w5
+  entry_content: |
+    <img src=https://i.redditmedia.com/VMCKjVfDxOio75BzEfcjHmaqbxXr0Qnenb6VpL3AXJs.jpg?s=f409eb32151a99d55d52447f86a8ff33 frameborder=0>
+- entry_name: |
+    My campus just put in a new eSports section in the computer lab
+  entry_id: 8njgr9
+  entry_content: |
+    <img src=https://i.redditmedia.com/1Unk_VQOYdEbjB-p4FfCFsHljR3l1XW1EpJVuN6Ckmk.jpg?s=6343ed869ddadea1cf40f177efb5cc13 frameborder=0>
+- entry_name: |
     My grandmother modeling a Christian Dior wedding gown in the 1940’s.
   entry_id: 8nfh96
   entry_content: |
@@ -183,70 +208,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/oabsf76512111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    600k subscribers and a million more well on the way.
-  entry_id: 8nhkfg
+    Wait what
+  entry_id: 8nggwx
   entry_content: |
-    <iframe src=https://v.redd.it/dbco0upyc6111/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
+- entry_name: |
+  entry_id: 8nfkob
+  entry_content: |
+    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
+- entry_name: |
+  entry_id: 8nga87
+  entry_content: |
+    <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
 - entry_name: |
     This ice ball maker
   entry_id: 8ndzyj
   entry_content: |
     <iframe src=https://v.redd.it/hrdzppxhe3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Wait what
-  entry_id: 8nggwx
+    TIL: The term Third World originated during the cold war, and was used to refer to countries that were neither aligned with NATO (the first world) or the Communist Bloc (the second world). Under the original definition, Sweden, Finland and Austria are third world countries.
+  entry_id: 8nhjzx
   entry_content: |
-    <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
+    <img src=https://i.redditmedia.com/yaQ4N3Se_w2iWPsJCozoCfRCQN1Sjn5W1yuVTKU7upc.jpg?s=d772dc8facb6e5e60cd80566b6fda319 frameborder=0>
 - entry_name: |
     This girl is what pumps me up today.never give up.
   entry_id: 8ng0w3
   entry_content: |
     <iframe src=https://v.redd.it/eqvtixy2s4111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Trump administration will put steel and aluminum tariffs on Canada, Mexico and the EU
-  entry_id: 8nijjr
+    i want pats
+  entry_id: 8nhaxw
   entry_content: |
-    <img src=https://i.redditmedia.com/wX-LaRRQWdhrLkfMHW9Wn6HENDx5eNL_R6T9nxYlbXg.jpg?s=797f14ae148090d36bbe3f59371f12bb frameborder=0>
-- entry_name: |
-  entry_id: 8nfkob
-  entry_content: |
-    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
+    <iframe src=https://v.redd.it/25k80fbz16111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     This should be punishable by law. Truly worthy of this sub!
   entry_id: 8nc0e9
   entry_content: |
     <iframe src=https://v.redd.it/xmc0nqia02111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8nga87
-  entry_content: |
-    <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
-- entry_name: |
   entry_id: 8ncbbd
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
-- entry_name: |
-    TIL: The term Third World originated during the cold war, and was used to refer to countries that were neither aligned with NATO (the first world) or the Communist Bloc (the second world). Under the original definition, Sweden, Finland and Austria are third world countries.
-  entry_id: 8nhjzx
-  entry_content: |
-    <img src=https://i.redditmedia.com/yaQ4N3Se_w2iWPsJCozoCfRCQN1Sjn5W1yuVTKU7upc.jpg?s=d772dc8facb6e5e60cd80566b6fda319 frameborder=0>
-- entry_name: |
-    TIL that the song 'Africa' by Toto is actually about a boy trying to write a song on Africa, but since he's never been there, he can only tell what he's seen on TV or remembers in the past. This explains the apparently inaccurate line about Kilimanjaro rising above the Serengeti.
-  entry_id: 8nht9p
-  entry_content: |
-    <img src=https://i.redditmedia.com/4yesprziSBRTXw8IjL21-X3V9U0ItP8L2hoY0KBF-ks.jpg?s=8fb670e0285536e0eb5e5af9963e36de frameborder=0>
-- entry_name: |
-    i want pats
-  entry_id: 8nhaxw
-  entry_content: |
-    <iframe src=https://v.redd.it/25k80fbz16111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Heckin P R O T E C C I N'
-  entry_id: 8nd9mm
-  entry_content: |
-    <iframe src=https://v.redd.it/qeom0wtw97111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Eel made out of dust
-  entry_id: 8nhe8m
-  entry_content: |
-    <iframe src=https://v.redd.it/5fk4okj376111/DASH_4_8_M frameborder=0></iframe>
 ---
