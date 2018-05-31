@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/Bq66ZbutU38?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    A wholesome exchange for mom
-  entry_id: 8nasj7
-  entry_content: |
-    <img src=https://i.redditmedia.com/CNh7yNyOgjXe9yR5o50fL7axn4i4o4WKZQVSlCcqX1A.jpg?s=61fa485bf74338ef98ffdd2c17f9c201 frameborder=0>
-- entry_name: |
     This is Milton and his two front toofers
   entry_id: 8nd5l5
   entry_content: |
@@ -61,7 +56,7 @@ data:
     Fake Hand Experiment
   entry_id: 8ndthe
   entry_content: |
-    <iframe src=https://v.redd.it/z2gxuew0a3111/DASH_2_4_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/ks0qkw5ph8111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Police faked 258,000 breath tests in shocking 'breach of trust'
   entry_id: 8nbtt0
@@ -78,6 +73,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9q9za97IKBUVXBLvnrWffKlIo5aw4XwehzbnqMhYuis.jpg?s=f3e679eb30413a47baf713e91686b618 frameborder=0>
 - entry_name: |
+    I painted two bunnies twice and it made me happy :)
+  entry_id: 8nh39c
+  entry_content: |
+    <img src=https://i.redditmedia.com/vBXSavHFPSQjkgdPL8DuO_oS-zGBM3tJXHTwAFI690s.jpg?s=18525b237abd6d106db01a53d0c7393f frameborder=0>
+- entry_name: |
     About to make a splash? More like just about to crash
   entry_id: 8ncnpf
   entry_content: |
@@ -92,11 +92,6 @@ data:
   entry_id: 8nddlc
   entry_content: |
     <img src=https://i.redditmedia.com/koSDbwq67c0Z8KpXe-ZQ2vRZqFAwBKmen_rW-3UqLII.jpg?s=3e7deef79a4c9f7978b46a6298117369 frameborder=0>
-- entry_name: |
-    I painted two bunnies twice and it made me happy :)
-  entry_id: 8nh39c
-  entry_content: |
-    <img src=https://i.redditmedia.com/vBXSavHFPSQjkgdPL8DuO_oS-zGBM3tJXHTwAFI690s.jpg?s=18525b237abd6d106db01a53d0c7393f frameborder=0>
 - entry_name: |
     Hold my Nuka-Cola...
   entry_id: 8nbk42
@@ -113,6 +108,21 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/eWNzm_X_CTSHEDzKt7r_yYW1OZmkIv7bgfVXcAkY800.jpg?s=1474a9efd121e5cb4f805e73a167f1e8 frameborder=0>
 - entry_name: |
+    yall
+  entry_id: 8nhya4
+  entry_content: |
+    <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
+- entry_name: |
+    Amazing animation art
+  entry_id: 8ni3fe
+  entry_content: |
+    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Wanna thank you guys for always having my back. So glad we get to do more BROOKLYN99! On NBC! Crazy! Love you guys!
+  entry_id: 8ngc1d
+  entry_content: |
+    null
+- entry_name: |
     One vault away from a great game
   entry_id: 8nbune
   entry_content: |
@@ -123,16 +133,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/629p21lbk3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Wanna thank you guys for always having my back. So glad we get to do more BROOKLYN99! On NBC! Crazy! Love you guys!
-  entry_id: 8ngc1d
-  entry_content: |
-    null
-- entry_name: |
-    yall
-  entry_id: 8nhya4
-  entry_content: |
-    <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
-- entry_name: |
     Reminder that on this day, 28 years ago, Jon Arbuckle drank dog semen
   entry_id: 8ndqjn
   entry_content: |
@@ -142,6 +142,11 @@ data:
   entry_id: 8nbj1e
   entry_content: |
     <img src=https://i.redditmedia.com/VnmJuP_ZaJ1X2Qh7Klpa-TLG4g1CS6M3XUHWUwOWpDE.jpg?s=3bcd30e4bc93a9f9e8d7a6dba5d08f2b frameborder=0>
+- entry_name: |
+    If you're the least attractive person in an orgy, you're at the right orgy
+  entry_id: 8ng2r5
+  entry_content: |
+    null
 - entry_name: |
     Study Of Water, Oil Paint, 90 x 120cm
   entry_id: 8nb9te
@@ -158,40 +163,35 @@ data:
   entry_content: |
     null
 - entry_name: |
-    FBI is reconstructing shredded documents obtained during Cohen raid
-  entry_id: 8nbvoa
-  entry_content: |
-    <img src=https://i.redditmedia.com/UzI0rp9Hdnh4oDexlb777_BM6yUpc_t5JRvI55IcCVQ.jpg?s=b8513900e2f6459f27dd32868221ed09 frameborder=0>
-- entry_name: |
     Chile has just voted to become the first country in the Americas to ban plastic bags from stores across the country in an effort to reduce unnecessary waste. In an unprecedented national measure, the Chilean senate passed a bill to prohibit the use of plastic bags for store purchases.
   entry_id: 8nevm3
   entry_content: |
     <img src=https://i.redditmedia.com/RgA6-zNRgHCxVeh07AQ-jMtKD7Kdd4CuLVh8RDl-xyI.jpg?s=8d6d8b338180bd75ce223315a4eb23d5 frameborder=0>
 - entry_name: |
-    If you're the least attractive person in an orgy, you're at the right orgy
-  entry_id: 8ng2r5
+    FBI is reconstructing shredded documents obtained during Cohen raid
+  entry_id: 8nbvoa
   entry_content: |
-    null
-- entry_name: |
-    hmmm
-  entry_id: 8ncw0v
-  entry_content: |
-    <img src=https://i.redditmedia.com/xAiug143pKNKSoObqOL3c9du200qAJIFGpbmQl5cyxM.jpg?s=75405be35993e32fbf17d08da50bb400 frameborder=0>
+    <img src=https://i.redditmedia.com/UzI0rp9Hdnh4oDexlb777_BM6yUpc_t5JRvI55IcCVQ.jpg?s=b8513900e2f6459f27dd32868221ed09 frameborder=0>
 - entry_name: |
     We all start somewhere
   entry_id: 8nei3w
   entry_content: |
     <img src=https://i.redditmedia.com/3KMzi246_HqWyr_ulSYBkUmO09oWjGDR-kR_B8eD75s.png?s=2fecb58448eb38fbe29c91e7628449d8 frameborder=0>
 - entry_name: |
-    Amazing animation art
-  entry_id: 8ni3fe
+    hmmm
+  entry_id: 8ncw0v
   entry_content: |
-    <iframe src=https://v.redd.it/gfz7zc60d6111/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/xAiug143pKNKSoObqOL3c9du200qAJIFGpbmQl5cyxM.jpg?s=75405be35993e32fbf17d08da50bb400 frameborder=0>
 - entry_name: |
     For the first time, scientists have measured captive dolphin happiness. Dolphins looked forward to interacting wither their caretakers. Researchers propose that non-food human interactions play an important role in these animals’ lives.
   entry_id: 8ncvu5
   entry_content: |
     <img src=https://i.redditmedia.com/9z5O8UvpqFj7xGM8ZMzeFLb5SPoooVMQszjUO1fWru8.jpg?s=8d9f09e374b2212406f6b20473175521 frameborder=0>
+- entry_name: |
+    My grandmother modeling a Christian Dior wedding gown in the 1940’s.
+  entry_id: 8nfh96
+  entry_content: |
+    <img src=https://i.redditmedia.com/BHFxK1yAKg3GYf8Iaky801IutbDEWx9YG1DxYuyH0WY.jpg?s=19897e82fe4d50ef5824251dab3e5566 frameborder=0>
 - entry_name: |
     “Let's see who will win”?
   entry_id: 8nd3j5
@@ -203,50 +203,50 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/oabsf76512111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    It just takes a few seconds and can really help the good ones
-  entry_id: 8naygm
+    600k subscribers and a million more well on the way.
+  entry_id: 8nhkfg
   entry_content: |
-    <img src=https://i.redditmedia.com/oGL4g1H9y0xkGMVIBQwZZvwnVALG0MQArcIqXTBOdAc.jpg?s=9a5ff5b085b4d7247edfbf1aabee7c3a frameborder=0>
+    <iframe src=https://v.redd.it/dbco0upyc6111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     This ice ball maker
   entry_id: 8ndzyj
   entry_content: |
     <iframe src=https://v.redd.it/hrdzppxhe3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    My grandmother modeling a Christian Dior wedding gown in the 1940’s.
-  entry_id: 8nfh96
+    It just takes a few seconds and can really help the good ones
+  entry_id: 8naygm
   entry_content: |
-    <img src=https://i.redditmedia.com/BHFxK1yAKg3GYf8Iaky801IutbDEWx9YG1DxYuyH0WY.jpg?s=19897e82fe4d50ef5824251dab3e5566 frameborder=0>
-- entry_name: |
-    This should be punishable by law. Truly worthy of this sub!
-  entry_id: 8nc0e9
-  entry_content: |
-    <iframe src=https://v.redd.it/xmc0nqia02111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 8ncbbd
-  entry_content: |
-    <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
-- entry_name: |
-    what?
-  entry_id: 8nb3zj
-  entry_content: |
-    <img src=https://i.redditmedia.com/Z4LElNo4rMtwNtcfbyitjIhzFXwZeSaSaifS7jB8zCA.jpg?s=470983fc727a9fadf6f40c1b85717ba5 frameborder=0>
+    <img src=https://i.redditmedia.com/oGL4g1H9y0xkGMVIBQwZZvwnVALG0MQArcIqXTBOdAc.jpg?s=9a5ff5b085b4d7247edfbf1aabee7c3a frameborder=0>
 - entry_name: |
     Wait what
   entry_id: 8nggwx
   entry_content: |
     <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
 - entry_name: |
-  entry_id: 8nfkob
-  entry_content: |
-    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
-- entry_name: |
     This girl is what pumps me up today.never give up.
   entry_id: 8ng0w3
   entry_content: |
     <iframe src=https://v.redd.it/eqvtixy2s4111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Trump administration will put steel and aluminum tariffs on Canada, Mexico and the EU
+  entry_id: 8nijjr
+  entry_content: |
+    <img src=https://i.redditmedia.com/wX-LaRRQWdhrLkfMHW9Wn6HENDx5eNL_R6T9nxYlbXg.jpg?s=797f14ae148090d36bbe3f59371f12bb frameborder=0>
+- entry_name: |
+  entry_id: 8nfkob
+  entry_content: |
+    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
+- entry_name: |
+    This should be punishable by law. Truly worthy of this sub!
+  entry_id: 8nc0e9
+  entry_content: |
+    <iframe src=https://v.redd.it/xmc0nqia02111/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
   entry_id: 8nga87
   entry_content: |
     <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
+- entry_name: |
+  entry_id: 8ncbbd
+  entry_content: |
+    <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
 ---
