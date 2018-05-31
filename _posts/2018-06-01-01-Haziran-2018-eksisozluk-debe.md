@@ -1,0 +1,405 @@
+---
+layout: post
+title: 01 Haziran 2018 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    ince'nin reytinglerde ilk 100'e girememesi
+  entry_id:  77556370
+  entry_writer: eksi peace
+  entry_fav_count: 1232
+  entry_content: |
+    haber kanallarının rating sisteminde yer almadığını bilmeyen bir cahilin uydurmasıdır.<br/><br/>edit: trt haber hariç.
+  entry_channels: siyaset,tv
+- entry_name: |
+    31 mayıs 2018 mevlüt çavuşoğlu'nun dw röportajı
+  entry_id:  77563052
+  entry_writer: gelecomp
+  entry_fav_count: 625
+  entry_content: |
+    evet amk istemiyoruz ya cahil cahil adamların beni yönetmesini kabul edemiyorum kardeş.<br/><br/>siz nasıl kur yükselince kabul etmiyorsanız; ben de sizin beni yönetmenizi kabul etmiyorum.<br/><br/>lan yolda görsem karşıya geçeceğim adamlar ülkeyi yönetiminde yemin ediyorum zoruma gidiyor.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    30 mayıs 2018 habertürk muharrem ince canlı yayını
+  entry_id:  77541539
+  entry_writer: ekoin
+  entry_fav_count: 567
+  entry_content: |
+    ulan adam tek başına gezi parkı amk.
+  entry_channels: siyaset,tv
+- entry_name: |
+    muharrem ince'ye lakap bulalım kampanyası
+  entry_id:  77544357
+  entry_writer: geyikli baba
+  entry_fav_count: 526
+  entry_content: |
+    bize ince, size kalın!
+  entry_channels: siyaset,anket
+- entry_name: |
+    ince-kılıçdaroğlu ortak mitinglerin iptal olması
+  entry_id:  77560258
+  entry_writer: the prince of heaven
+  entry_fav_count: 513
+  entry_content: |
+    cumhuriyet gazetesinine göre gerçekleşmiştir.<br/><br/>kılıçdaroğlu’nun, ince ile yaptığı görüşmenin ardından, ‘ortak mitinglerin’ tarafsız cumhurbaşkanı adayı propagandasına zarar verme olasılığı gözetilerek iptal edildi. seçim sonuna kadar kılıçdaroğlu ayrı ince ayrı propaganda yapmaya devam edecek.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/986726/CHP_den_surpriz_miting_karari.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/986726/CHP_den_surpriz_miting_karari.html">http://www.cumhuriyet.com.tr/…iz_miting_karari.html</a><br/><br/>edit: (bkz: <a class="b" href="/?q=k%c4%b1l%c4%b1%c3%a7daro%c4%9flu+ince+ile+miting+yapmas%c4%b1n+kampanyas%c4%b1">kılıçdaroğlu ince ile miting yapmasın kampanyası</a>) halk tepkisi işe yaramış.
+  entry_channels: siyaset,haber
+- entry_name: |
+    ince'nin oğlunun askerde hapis yatması
+  entry_id:  77559774
+  entry_writer: fuckunureyebrows
+  entry_fav_count: 495
+  entry_content: |
+    çünkü diğer siyasilerin oğullarının askere gitmemesi.
+  entry_channels: siyaset,haber,magazin
+- entry_name: |
+    uber'e normal bir kadın binmez
+  entry_id:  77556349
+  entry_writer: morales
+  entry_fav_count: 459
+  entry_content: |
+    dün fox tv ana haber bülteninde izlediğim taksicinin açıklamasıdır. normal bir kadın, elinde para olan vatandaş falan uber'e binmezmiş çünkü hiç tekin değilmiş.<br/><br/>şu şerefsizce zihniyete bakar mısınız ?<br/><br/>devlet eli ile yaratılan rant düzeni bozulmasın, üç beş plaka ağası zarar etmesin diye vatandaşın ulaşım tercihi özgürlüğü gasp ediliyor.<br/><br/>vatandaş kötü hizmete, kalitesiz araçlara, fahiş fiyatlara ve tehlikeli sürücülere mahkum ediliyor. <br/><br/>istediğin zaman bulamadığın, bulduğun zaman kazıklandığın ve kötü hizmet aldığın taksiyi tercih edince kötü kadın oluyorsun bu zihniyete göre.<br/><br/>yazıklar olsun !
+  entry_channels: haber
+- entry_name: |
+    2002-2018 yılları arası için dönem ismi
+  entry_id:  77552836
+  entry_writer: maharishi
+  entry_fav_count: 444
+  entry_content: |
+    <a class="b" href="/?q=haramiler+d%c3%b6nemi">haramiler dönemi</a>.
+  entry_channels: siyaset,anket
+- entry_name: |
+    burhan kuzu'nun nagehan alçı tweeti
+  entry_id:  77564527
+  entry_writer: joeneid
+  entry_fav_count: 437
+  entry_content: |
+    burhan kuzu'nun dün gece paralel evrende başka bir program izlediğini düşündüren beyanatı.
+  entry_channels: siyaset
+- entry_name: |
+    devlet de fabrika kurmalı mı
+  entry_id:  77541447
+  entry_writer: animistino
+  entry_fav_count: 288
+  entry_content: |
+    devlet halk ortaklığı ile fabrikalar kurmalı.<br/><br/>iyi okullardan mezun, genç beyinlerden oluşan proje departmanı kurulur. bu gençler yurtdışına ihraç edebileceğimiz ürünleri inceleyip bir proje hazırlar.<br/><br/>devlet trt kanallarından birini trt kalkınma diye değiştirir ve halk ortaklığı projelerini kanalda yayınlar.<br/><br/>örneğin yasemin çiçeği yağı üretimi. gereken sermaye 50 milyon lira. ortak sayısı 1000 kişi. kişi başı katılım 50 bin lira. her sene kar payını ortaklara dağıtırlar.<br/><br/>kalkınma tvde hergün 20 proje yayınlanır. vatandaş aklına yatan projeye ortak olur.<br/><br/>edit: çok güzel mesajlar geliyor. kurulan her fabrikadan işletme mezunu bir kişi sorumlu olsun, fabrikayı özel sektör gibi yönetsin diyenler var. <br/>günde 20 proje az 48 proje yayınlanmalı diyen var.<br/><br/>zenginlerin kişi başı 10 milyon koyacağı çok büyük projeler de olmalı diyen var. çok mantıklı 5000 zengin 10 milyon lirayla ortak olsa 50 milyar lira eder. araba fabrikası gibi fabrikalar kurabiliriz.<br/><br/>edit2: bir arkadaşımız kabaca hesap yapmış. senede 10 bin proje yapılsa ve her fabrikada 500 kişi çalışsa, 5 milyon kişiye istihdam sağlanır ve 2 senede işsiz insan kalmaz.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    recep tayyip erdoğan'ın oylarının %75'e dayanması
+  entry_id:  77563880
+  entry_writer: xxiiidec
+  entry_fav_count: 249
+  entry_content: |
+    (bkz: <a class="b" href="/?q=t+a+m+a+m">t a m a m</a>)<br/><br/>edit: trollümüz ayaklarını götüne vura vura kaçmış. başlık başa.
+  entry_channels: siyaset,anket,tv,haber
+- entry_name: |
+    şanlıurfa'da kurulan suriyeli kadın pazarı
+  entry_id:  77552828
+  entry_writer: zrtapoz
+  entry_fav_count: 243
+  entry_content: |
+    emin olun ortada böyle iğrenç bir muhabbet varken konuya 'satılan kadınların kendini bizim kadar düşünmemesi' üzerinden girenlerden daha çok korkmamız gerekir.<br/><br/>ülkelerinde her şey güllük gülistanlıkken bile yüz yıllardır baskı ortamında yaşayan bu zavallı kadınlar için kaçmak da bir çözüm değil ne yazık ki.<br/><br/>bir şerefsiz tutar, bir beyinsiz göz yumar, bir haysiyetsiz satın alır, bir arkadaş da gelir böyle yorumlar yapar işte.<br/><br/>dünya berbat bir yer.<br/><br/>ek: hiç hoşunuza gitmeyebilir ama urfa'da, antep'te fantezi olsun diye 10 yaşında çocuk satın alan şerefsizler de gerçek. bu salaklara sorsan 'o çocuklar kendilerini sizin kadar düşünmüyor' diyip öyle girer yoruma muhtemelen.<br/><br/>ek 2: gerizekalı ve beyinsiz gibi ifadeler hoş olmadığı için düzelttim. ilgilisinden de özür diliyorum. fikri saçma sapan olabilir ama bu kendisine gerizekalı dememi haklı çıkarmıyor tabii :)
+  entry_channels: siyaset,ilişkiler,haber,ekonomi
+- entry_name: |
+    ünlü biriyle ilişki yaşamış sözlük yazarları
+  entry_id:  77557723
+  entry_writer: sanat tarihi okudukta ne oldu
+  entry_fav_count: 238
+  entry_content: |
+    sene 1300 falan. çalıştığım kanalın avrupa yayını için ibrahim erkal geldi. birkaç gün çekim yapılacak, editörüm yardımcı olayım diye beni verdi yanına. içimden tonla söyledim ama çok beyefendi bir adamdı.<br/>hamileyim o zamanlar, yaklaşık yedi aylık falan. "tatlı bir şey yok mu?" diye sordum stüdyoya çay getiren ablaya. "yok" dedi. ibrahim erkal ekibinin şoförünü yollayıp, benim için koskoca bir kutu içinde çeşit çeşit tatlılar aldırmıştı. hangisini seveceğimi bilememiş. <br/>allah rahmet eylesin.
+  entry_channels: anket,ilişkiler,magazin
+- entry_name: |
+    zinedine zidane
+  entry_id:  77559914
+  entry_writer: hmtmhmt
+  entry_fav_count: 237
+  entry_content: |
+    fm'de arka arkaya 3 kez cl kazandıktan sonra, sıkılıp oyunu bırakan bizler gibi istifa etmiş teknik adam. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: spor
+- entry_name: |
+    taksicinin polise küfür edip yoluna devam etmesi
+  entry_id:  77555995
+  entry_writer: thereale
+  entry_fav_count: 214
+  entry_content: |
+    (bkz: <a class="b" href="/?q=orospu+cocugu+taksici">orospu cocugu taksici</a>)<br/><br/>bu adamlar turkiye’nin kanseri. hic humanizm kasamayacagim, alayini itlaf edip topraga gommek gerekiyor, yoksa topluma huzur vermeyecekler.
+  entry_channels: haber
+- entry_name: |
+    karı koca arasına girip kafa atan kıro adam
+  entry_id:  77552661
+  entry_writer: daldakielmakurdu
+  entry_fav_count: 202
+  entry_content: |
+    dovsen memnun olmuyorlar gormezden gelip gitsen memnun olmuyorlar. adami yatirip sikseymis niye kafa atmis?
+  entry_channels: ilişkiler
+- entry_name: |
+    star tv'nin bim'e satılması
+  entry_id:  77564239
+  entry_writer: trendline
+  entry_fav_count: 196
+  entry_content: |
+    (bkz: <a class="b" href="/?q=le+star">le star</a>)
+  entry_channels: tv,haber,ekonomi
+- entry_name: |
+    nagehan alçı
+  entry_id:  77540897
+  entry_writer: varolan
+  entry_fav_count: 168
+  entry_content: |
+    bu kadını fazla abartıyorsunuz gözünüzde.<br/>sonuçta rasim ozan kütahyalı adlı lise mezunu, futbol yorumcusu ve yayınlara sarhoş çıktığı apaçık belli olan bir tipin karısı.<br/>rafine zevkleri olan entelektüel bir kadın rok gibi bir soytarıyla evlenir mi hiç?
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    norm ender'in ekşi sözlük hakkındaki tweet'i
+  entry_id:  77554653
+  entry_writer: deniz tarafindakii kale
+  entry_fav_count: 157
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sen benim sevdiğim kız değil siktiğim orospu bile olamazsın<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>diye şarkı sözü yazan bir rapçinin haklı eleştirisi.<sup class="ab"><a title="(bkz: e bu da eleştiri tabi)" href="/?q=e+bu+da+ele%c5%9ftiri+tabi" data-query="e bu da eleştiri tabi">*</a></sup><br/><br/>edit: yazma gereği duydum, eğer hala yaptığı malum şarkıyı<sup class="ab"><a title="(bkz: eksik etek)" href="/?q=eksik+etek" data-query="eksik etek">*</a></sup> zevk alarak dinleyebiliyorsa veya o şarkıdan pişman değilse, şu yazdıkları ya samimiyetsizdir ya da kendi çapında bir etkileşim çabasıdır. <br/><br/>çok afedersiniz ama o şarkı da, ekşi sözlük'te açılan o başlıklar da cinsiyetçi ve kadını aşağılamaya yönelik şeyler. bir erkek olarak, böyle bir psikolojik şiddetin yanında yerim yok. <br/><br/>not: açılan başlıkları desteklediğim anlamı çıkmasın diye editliyorum.
+  entry_channels: ilişkiler,ekşi-sözlük,magazin
+- entry_name: |
+    türk erkeğine araba aldıran en büyük motivasyon
+  entry_id:  77563033
+  entry_writer: kahve muptelasi
+  entry_fav_count: 149
+  entry_content: |
+    hatun kaldırma şerefine nail olmaktır.<br/><br/>2000 tl 20.000 tl arası arabaya hatun düşmez <br/>25.000 tl 40.000 tl arası arabaya tek tük düşebilir<br/>50.000 tl 80.000 tl genelde düşer<br/>90.000 tl 150.000 tl hatunlar sileceklerinize aşk mektupları sıkıştırırlar<br/>250.000 tl 750.000 tl arabanızın her yerinde ruj izleri ve gsm numaraları bulursunuz.
+  entry_channels: anket,ilişkiler,otomotiv
+- entry_name: |
+    peugeotturkiye
+  entry_id:  77548599
+  entry_writer: nusretnesin
+  entry_fav_count: 143
+  entry_content: |
+    degerli peugeotturkiye kurumsal eksisozluk hesabı yoneticisi<br/><br/>(bkz: <a class="b" href="/entry/77473876">#77473876</a>) başlığının yazarı olarak bu bölümde size yazıyorum. umarım bu hesabı yöneten kişi bana başlığı açmaktan başka çare bırakmayan malum çalışanınız değildir. öyle ise bile boşa yazıyor değilim başlığa ilgi gösteren yüz binler var çünkü. <br/><br/>derdimi bu yazı sorası beni arayan üst düzey yöneticiye de anlatmaya çalıştım ama insanlar yönetici olup kademe atladıkça daha az dinlemeye ve daha çok anlatmaya başladıklarını pek fark etmiyorlar. bu mağduriyetin baş rolündeki kişi ben olamama rağmen görüşme karşı tarafın kendisini ve markasını anlattığı bir monolog şeklinde geçmişti. ama zaten işler ve marka türkiye'de anlattığınız şekilde yürüyor olsa ne bu şikayet olurdu ne de bu kadar ilgi görürdü. <br/><br/>çok kolay anlayabileceğinizi sanmıyorum ama ben bu şikayeti yazarken büyük acılar çektim. insanın evladını mahkum etmesi gibi. çok küçük yaşlardan itibaren peugeot hayranıyım.hayranlığım amcamın hollanda'dan getirdiği peugeot bisiklet le başladı. henüz ortaokul öğrencisi iken aynı gazeteden her gün iki tane alarak kupon biriktirip kırmızı 205gtı çekilişine katılmam dün gibi. 25 yıl geçmiş... eminim şu an peugeotturkiye'deki pek çok yönetici bile bunu hatırlamıyordur. eniştem wolksvagen ve peugeot tercihi arasında kalmıştı ve onu ısrarla 306 almaya ikna etmiştim sene 1997 idi. 1999'da 106 mızı aldık. 106 quick silver'ı enyakın arkadaşıma aldırdığımda ise 2001 idi sene. her yıl yeni bir peugeot alarak ya da aldırarak yıllar geçti. bu arada 206 wrc rally parkurlarında başarıdan başarıya koşuyor biz gururlanıyorduk. luc besson'un taxi filmi ise bizi hem eğlendiriyor hem aslanı perdede görmenin gururunu yaşatıyordu. aslan hayranlığı ile geçen yıllar boyunca etrafımdaki pek çok kişiyi de aslan sahibi yapmıştık....aslında aidiyet ve sadakat duygusunu biraz olsun canlandırabilmek için girdim geçmişe. yani öyle olsam bile ben kendimi her hangi bir araç sahibi gibi görmüyordum çünkü bence ben her hangi bir markayı kullanmıyordum. <br/><br/>şikayete konu olan aracımı o kadar çok seviyordum ki satmaya kıyamıyordum. ve kardeşime eğer sen bu aracı alırsan ben de yeni çıkacak olan 3008suv'u alacağım dedim. zaten peugeotturkiye'de araçların alım-satım tarihlerini görebilir. ve 3008suv'u kimse tanımadan bu sükseyi yapmadan 31 ekim tarihinde aracı aldım. araç ile ilgili bütün ödemelerimi 31 ekim tarihinde bitirdim ancak aracı çıkarabilmek için sigorta yaptırmam gerekiyor, trafik ve kasko için gerekli para için ayın 2. gününü bekliyorum. ikibin lira gibi bir para gelecek ve bu işlemleri yaptırıp aracımı bayiiden çıkaracağım. işte böyle bir zamanda 2.500tl sabit müşteri indirimim gasp edildi. <br/>peugeotturkiye ile hem bu durumu hem de yaşadığım diğer problemi defalarca defalarca görüştüm. sadece geçiştirildim ya da sakinleştirildim. kayıtlarda defalarca söylediğim yazılı olarak da ifade ettiğim şu cümle bende çok anlamlı ve acıdır *ben peugeot'yu ailem gibi görüyorum. basına yansıtma gücüm var. lütfen bu işi kendi içimizde çözelim. markaya zarar gelmesin.* bu serzenişimi hep kuru gürültü gibi görüp ciddiye almadınız. konu ile ilgili yayınladığınız bültende ifade edildiği gibi -müşteri sesine kulak verme durumu asla olmadı, keşke olasaydı- çaba sizin tarafınızdan olmadı, keşke olsaydı. bu durum yüz binlere ulaşmadan önce gördüğüm muamele üzülerek belirtiyorum ki müşteri muamelesi değildi. <br/>buradaki kriz sadece ilgili kişinin görevini yapması ile çözülebilecekken ülkenin gündemine oturunca önemsendi. <br/><br/>kendi meselem olan sadık müşteri indirimi gasbını sineye geçmişken kardeşime verdiğim araç ile ilgili tavır tuz biber oldu.benim bu ısrarlı takım tutar tavrım kardeşime de sebep oldu diye düşündüm. yaşanan olay ile birlikte aidiyet duygusu da taraftarlık da çocukluk anıları da yerini sadece hakkını arama duygusuna bıraktı. <br/>iddia ettiğiniz gibi konu tüm detayları ile incelenecekse 31 ekim 2016 tarihine, 3008suv aldıktan sonraki yazılı ve telefon ile olan şikayetlerime ve tarafınızdan gelen cevaplara bakınız. <br/><br/>müşteriyi gerçekten dinlemeden, haksızlığı gidermeden, şikayeti o an etkisiz hale getirerek ertelediğiniz sorunlar büyüyerek geri dönerler. şu an yeterince ses getirmiş bu olayı bir şekilde tatlıya bağlamış gibi bir manzara oluşsa da müşterinizi dinlemekten, talebini sormaktan ve memnuniyetini sağlamaktan korkmayınız. yoksa her servis sonrası *mutlaka bize 10 puan verin* diyen, 10 puanı hizmetle değil de sözle almaya çalışan servislerinizden bir farkınız kalmaz. <br/><br/>bu güzel araçları üreten emekçilere ve mühendislere tekrar belirtmek isterim ki yaptığınız ürünler gerçekten güzel ama türkiyede hizmet anlayışı hala sıkıntılı.<br/><br/>destek olan herkese teşekkürler
+  entry_channels: otomotiv
+- entry_name: |
+    şaka maka erdoğan balonunun sönmesi
+  entry_id:  77562125
+  entry_writer: galektersiz
+  entry_fav_count: 141
+  entry_content: |
+    ince'nin ortaya çıkmasıyla günyüzüne çıkmış gerçek.<br/><br/>ne doğru düzgün miting yapıyor, ne adam akıllı tv programı yapıyor.<br/><br/>yalan mı? <br/><br/>yalarım, ıstırırım bide.
+  entry_channels: siyaset,anket,tv
+- entry_name: |
+    muharrem ince
+  entry_id:  77541090
+  entry_writer: delimine
+  entry_fav_count: 126
+  entry_content: |
+    ya bu adamı hak ediyoruz biz ya. <br/>yıllardır tükendik, yeter.<br/><br/>bu aydınlık, barışçı, gülebilen adamı hak ediyoruz artık lütfen yahu.
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    burcu esmersoy'un ofsayt videosu
+  entry_id:  77563588
+  entry_writer: bunun da icinde das var oglum
+  entry_fav_count: 125
+  entry_content: |
+    ofsaytı bilmek için erkek olmaya gerek yok ama iş hesap ödemeye geldi mi oooooowwwww.
+  entry_channels: spor,magazin
+- entry_name: |
+    ince'nin kazanabileceğine inanan masum insanlar
+  entry_id:  77560876
+  entry_writer: suendenbock
+  entry_fav_count: 119
+  entry_content: |
+    insanoğlunu umut ayakta tutar. özellikle kendi insanına karşı umudu yitirirse, kendi toplumunun aklı selim sahibi olmadığına kani olursa, hayat çekilmez olur. <br/><br/>tamam farkındayız, bu ülke ekşi sözlükten ibaret değil. geçen gün arabaya benzin alıyorum. kasanın yanındaki ekranda herkesin ne kadarlık aldığı görülüyor. tesadüf beş altı araba 50 liralık benzin koymuş deposuna. "bunlar benzin zammından etkilenmeyen arkadaşlar herhalde" dedim kasadaki çocuğa. "baksana hepsi 50 liralık almış". <br/><br/>kasadaki bir şey anlamadı dediklerimden. espriyi uzun uzun açıkladığımda bile bir fikri yoktu. muhtemelen ekşi sözlük diye bir siteden bile haberi yok. <br/><br/>bir başka yerde konu politikaya gelince gençten biri "chp'nin döneminde çok insan ölüyordu, çok insan baskı gördü " dedi. dayanamadım, "sen ne zaman chp iktidarını gördün? " diye sordum. "chp 1977'den bu yana iktidar olmadı bu ülkede". (1991 shp küçük koalisyon ortağı, 1999 dsp, üçlü koalisyon ortağı) <br/><br/>elinde havuz medyası olmadan ince'nin <br/>böyle bir kalabalığa ulaşması nasıl mümkün olacak? on küsur yıldır çitileye çitileye beyin yıkandı. adam doğruları söylese de duymuyorlar, duymak istemiyorlar. <br/><br/>futbol takımı tutar gibi, sadece dindarlık bahanesiyle kendilerinin son derece aleyhlerine işleyen bir sistemi destekliyorlar. <br/><br/>akp döneminde ters robin hood sistemi bir vergi düzeni oluşturuldu: fakirden alıp zengini destekleyen. özellikle orta gelir kesimi ekonomik olarak son derece geriye gitti. dış dünya ile ilişkiler kasıtlı olarak gerildi, ülke bir orta doğu ülkesi gibi fakirleşti, kamplaştı. insanlar mutsuz oldu, devletin her kurumu içine liyakate sahip olmayan adamlar yerleştirildi. ülkede 2002'den itibaren yüksek askeri şura kararlarına başbakan imza atmadı, fetoculer ordudan atılmadı ve arkasından darbe yaşandı. bizim yanlış politikalarımız neticesinde amerika pkk ile müttefik hale geldi (ah o kobaneye girecektik!). <br/><br/>bu kadar çok yanlış yapan, bu kadar çok halka ve ülkeye zarar veren bir iktidar dünyanın her yerinde çoktan sandığa gömülürdü halk tarafından. ama ne yazık ki hâlâ, ısrarla yanlış tercih yapıyorlar. seçimden sonra dış dünyada hiçbir güven kalmamış akp ile ciddi bir kriz gelecek. tek çare yeni bir umut, yeni yüzler. <br/><br/>ama halkımızın halen yüzde 43'ü erdoğan da erdoğan diyor. ne yapalım? biz de onların uyanacakları günü umutla, en masum duygularla bekliyoruz.
+  entry_channels: siyaset,anket
+- entry_name: |
+    ilk kez sevişeceklere tavsiyeler
+  entry_id:  77552281
+  entry_writer: conficker
+  entry_fav_count: 105
+  entry_content: |
+    -eğer karşındaki de acemiyse "ışıkları kapatalım diyecektir" gevşe, sakin ol.<br/><br/>-eğer karşındaki biraz deneyimliyse "fuck me, yess, oo yeah" gibi sesler duyabilirsin. <sup class="ab"><a title="(bkz: dirty talking)" href="/?q=dirty+talking" data-query="dirty talking">*</a></sup> durma sen de aynı şekilde eşlik et. <br/><br/>-eğer karşındaki bordo <a class="b" href="/?q=jartiyer">jartiyer</a>liyse merak etme o seni zker zaten...
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ay'a kadar 4 şeritli yol yapacağım derse inanırız
+  entry_id:  77564546
+  entry_writer: kahve
+  entry_fav_count: 91
+  entry_content: |
+    olmayacak örnekler bile yol ile ilgili, nasıl bir beton sevdasıdır arkadaş.
+  entry_channels: siyaset
+- entry_name: |
+    ingiltere'de tv sunucusunun bakanı yayından alması
+  entry_id:  77555268
+  entry_writer: umberto d
+  entry_fav_count: 84
+  entry_content: |
+    batı denen bu blok, ekonomik çıkarlar için her ne kadar dünyanın geri kalanına kan kustursa da kendi içlerinde ideal toplum düzenine oldukça yaklaşmış durumda.<br/><br/>vatandaşın devlete tâbi olduğu degil, devletin vatandaşa tâbi olduğu bir düzen, uygarlaşmanın belirtisidir.<br/><br/>179 sene önce başladık, hâlâ yoldayız.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    muharrem ince gelirse demokrasiyi sonlandırırız
+  entry_id:  77565441
+  entry_writer: ayarsizenerji
+  entry_fav_count: 80
+  entry_content: |
+    zaten ''laikçi''nin tersi de ''içkial'' dır. büyük resmi gördük büyük oyunu bozduk.
+  entry_channels: siyaset
+- entry_name: |
+    şehirler kalabalıklaştı vücut ısısı çoğaldı
+  entry_id:  77567924
+  entry_writer: i hate you all
+  entry_fav_count: 52
+  entry_content: |
+    'beton döke döke bok ettiniz' demesini beklemiyorduk değil mi?
+  entry_channels: haber
+- entry_name: |
+    muharrem ince ve danışmanlarına duyurular
+  entry_id:  77544315
+  entry_writer: lukretius
+  entry_fav_count: 50
+  entry_content: |
+    kendisine ''kaç kez denedi, chp genel başkanı olamadı, ülkeye cumhurbaşkanı mı olacak'' türünde eleştiri getirenlere abraham lincoln örneği üzerinden cevap verebilir. şöyle ki;<br/><br/>''38 yaşında eyalet seçimini kaybetti. 43, 46 ve 48 yaşlarında kongre seçimlerini kaybetti. 55 yaşında eyalet senatörü olamadı. 58 yaşında yine senatör olamadı. 60 yaşında abd başkanı seçildi... abraham lincoln''.
+  entry_channels: siyaset,anket,haber
+- entry_name: |
+    starbucks'ta sıra beklerken gelen asalet hissi
+  entry_id:  77563579
+  entry_writer: babasini bakkala gonderen cocuk
+  entry_fav_count: 48
+  entry_content: |
+    aynı eylem sırasında bende tedirginlik oluşuyor. <br/><br/>her an birisinin ''senin neyine lan vayt çaklıt moka'' diyerek ensemden tutup dışarı fırlatmasını bekliyorum. çok farklı bir gerilim.<br/><br/>ed. düzeltme.
+  entry_channels: ilişkiler
+- entry_name: |
+    türkiye'de gerçek enflasyon yüzde 39.2
+  entry_id:  77559046
+  entry_writer: absorbe
+  entry_fav_count: 40
+  entry_content: |
+    financial yerine financel yazdığı için birazdan tespitçi abilerin haşlayacağı yazarın açtığı başlık. habere odaklanırsanız siki nasıl tuttuğumuzu görürsünüz. başlığa odaklanırsanız otuzbire devam.
+  entry_channels: haber,ekonomi
+- entry_name: |
+    a haber vs ekşisözlük
+  entry_id:  77568799
+  entry_writer: spacetimereality
+  entry_fav_count: 35
+  entry_content: |
+    ekşi sözlük, bu sitede yazan her şeyin yanlış olduğunu en baştan kabul eder.<sup class="ab"><a title="(bkz: bu sitede yazılanların hiçbiri doğru değildir)" href="/?q=bu+sitede+yaz%c4%b1lanlar%c4%b1n+hi%c3%a7biri+do%c4%9fru+de%c4%9fildir" data-query="bu sitede yazılanların hiçbiri doğru değildir">*</a></sup> a haber verdiği her haberin doğru olduğunu iddia eder.
+  entry_channels: siyaset,anket,tv
+- entry_name: |
+    kılıçdaroğlu ince ile miting yapmasın kampanyası
+  entry_id:  77541115
+  entry_writer: oooooonur
+  entry_fav_count: 30
+  entry_content: |
+    hay ağzınız bal yesin. altına imzamı atarım. eğer böyle bir şey olursa muharrem ince'nin bilerek ve isteyerek aşağıya çekildiğini düşünürüm. net. başkan'ın kimsenin desteğine ihtiyacı yok. gerçek adam gibi adam. <br/><br/>kılıçdaroğlu, ince'nin oy potansiyelini gördü, kendisini de yamamaya çalışıyor. bunu yapmazsa koltuğu tehlikeye girecek çünkü.
+  entry_channels: siyaset
+- entry_name: |
+    30 mayıs 2018 liderler fox'ta canlı yayını
+  entry_id:  77544782
+  entry_writer: mr horsehead
+  entry_fav_count: 28
+  entry_content: |
+    "pervin buldan daha 30’lu yaslarda kocasini bir gece faili mechul cinayete kurban veren ve o gece 8 aylik hamileyken erken dogum yapan bir cumartesi annesidir. siz şimdi ne var yani demagoji yapma diyorsunuz içinizden dimi?"<br/><br/>adam utanmadan şunu yazıyor.<br/><br/>sanırsın halde domates satan adam faili meçhule gitti, google'a "savaş buldan" yaz, kimin ne olduğu çıkar.<br/><br/>"kızının doğum gününü kutlamazmış." babası kaç genç kızın kanına eroin basılmasına sebep oldu da nice anneler bir daha kızlarını kucaklayamadı.<br/><br/>"fikri oturmamis her daim ruzgarda sallanan yapraklar gibisiniz."<br/><br/>yok birader sen hatları karıştırdın. milletin aklı başında, sen biraz kafayı çizmiş gibisin.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    meral akşener'in hiçbir tv kanalına çağrılmaması
+  entry_id:  77562718
+  entry_writer: geri donen mektup
+  entry_fav_count: 24
+  entry_content: |
+    enteresan olmayan durum. akp'nin son yillardir amacladigi tek sey "2" kutuplu ve "2" partili bir turkiye, zira baska kazanma/onune geleni tokatlama yollari kalmadi adamlarin. <br/><br/>eee haliyle saadet ve iyi parti gibi partiler adamlarin korkulu ruyasi oluyor. normal yani.
+  entry_channels: siyaset,tv
+- entry_name: |
+    nihat sırdar
+  entry_id:  77551113
+  entry_writer: usluyorum
+  entry_fav_count: 17
+  entry_content: |
+    bu adamdaki iş ahlakı tam anlamıyla ülkenin özeti bence. herkese laf yetiştirip eleştirir ama kendisi neredeyse her hafta birkaç yayın arazi olur.<br/><br/>edit: sevgili nihat sırdar umarım buraları okursun, görüldüğü üzere ciddi şekilde insanlar soğumaya başlamış yayından ve yapılmayan yayından.
+  entry_channels: siyaset,haber,magazin
+- entry_name: |
+    anime izlerken ağlamak
+  entry_id:  77547407
+  entry_writer: nick bulma sorunlu yazar
+  entry_fav_count: 15
+  entry_content: |
+    (bkz: <a class="b" href="/?q=fullmetal+alchemist">fullmetal alchemist</a>)
+  entry_channels: anket,tv,sanat,sinema
+- entry_name: |
+    bim'de satılacak alternatif prezervatif isimleri
+  entry_id:  77567800
+  entry_writer: ozannetti
+  entry_fav_count: 13
+  entry_content: |
+    bence onda da "dost" ismini kullanabilirler.
+  entry_channels: anket
+- entry_name: |
+    yumurta kıran tost yapan mantı yapan erkek
+  entry_id:  77541991
+  entry_writer: gkhns
+  entry_fav_count: 11
+  entry_content: |
+    hazır mantıysa ben de yaparım evet<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> açmaysa yapamam ama karnıyarık yapabiliyorum mesela, sayılır mı o?
+  entry_channels: anket,ilişkiler,yeme-içme
+- entry_name: |
+    nasuhi güngör
+  entry_id:  77545193
+  entry_writer: fiyakays
+  entry_fav_count: 9
+  entry_content: |
+    erdoğan'a resmen fetöcü dediği kitabında yer alan bilgileri tamamen göbeğini kaşırken götünden uydurduğunu söyleyen dolayısıyla seçilmiş cumhurbaşkanına yalandan iftira atmak suçuyla yargılanması gereken ahlaksız şahıs.
+  entry_channels: siyaset,tv
+- entry_name: |
+    31 mayıs 2018 dolar kuru
+  entry_id:  77565105
+  entry_writer: thebulk
+  entry_fav_count: 9
+  entry_content: |
+    ingilterede yapılan olumlu görüşmelerin ardından 4.46dan 4.53 seviyesine gelen döviz kuru. mehmet şimşek sanırım kendini yanlış anlatmış .<br/>bakalım faizler nereye kadar artacak.
+  entry_channels: ekonomi
+- entry_name: |
+    akşener'i merkez medyaya çıkartıyoruz kampanyası
+  entry_id:  77568148
+  entry_writer: alicek
+  entry_fav_count: 7
+  entry_content: |
+    akşener'in en tehlikeli aday olduğunu düşünen akp çıkartmaz, onun yayın organları da milletin ne dediğine tabii ki bakmaz
+  entry_channels: siyaset,anket,tv
+- entry_name: |
+    yazarların nicklerinin hikayeleri
+  entry_id:  77544871
+  entry_writer: alaskardan
+  entry_fav_count: 6
+  entry_content: |
+    bazı bazı bir buruk hikaye olan hikayelerdir.<br/><br/>boş zamanlarımda dünyayı gezmek en büyük zevkimdir. yedi kıtada gitmediğim yer kalmadı. uzun seneler evvel papua yeni gine'ye yaptığım bir ziyarette bir köyde kalmıştım birkaç hafta. yerli halkla baya kaynaşmıştım. arada da ormanda gezintiye çıkıyordum. gene bir gün gezintiye çıktığımda, ormanın kenarındaki nehirde oynayan köyün çocuklarını rastladım. bir selam vermek için yanlarına gittiğimde, birden bir ağaçtan sarkan tarantulayı gördüm ve çığlığı basıp kaçmaya başladım. arkama bakmadan kaçtığımı gören çocuklar da "alaskardan, alaskardan" demeye başladılar. köye gelince köyün büyüklerine sordum, "nedir alaskardan" diye. "bizle beraber takılıyorsun ama bizden birisi değilsin, sahtekarsın" anlamına gelen bir kelimeymiş. böyle işte.
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    erkek olmakla adam olmak arasındaki farklar
+  entry_id:  77567426
+  entry_writer: fakat sureyya bu derin bir tutku
+  entry_fav_count: 6
+  entry_content: |
+    <a class="b" href="/?q=adam">adam</a> olmak türkiye'de çok prim yapmıyor.<br/><br/>erkek olmanız ise yetiyor.<br/><br/>o yüzden buralarda adam olmaya çalışmayın, sonunda <a class="b" href="/?q=keriz">keriz</a> oluyorsunuz.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi itiraf
+  entry_id:  77552814
+  entry_writer: tavsani tekmele
+  entry_fav_count: 4
+  entry_content: |
+    sokakta, yolda, ev dışında hiçbir yerde ne el ele tutuşabiliyoruz ne de öpüşebiliyoruz, bu evet can sıkıcı. <br/>ama milletin içinde çaktırmadan el ele tutuşmak, yanaktan öpmek üzereyken bi anlık dudağa denk getirmek, bakışmak inanılmaz zevkli. <br/>sinemada birlikte film izlemenin keyfini bizim kadar aldığınızı zannetmiyorum. <br/><br/>sevginin, sarılmanın, öpüşmenin bu kadar emek (<a class="b" href="/?q=g%c3%b6t">göt</a> :) ) istediği ilişkilerde aşk başka yaşanıyor.<br/><br/>ek: neden? çünkü geyim.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    çaylakların boşuna bekliyor oluşu
+  entry_id:  77568865
+  entry_writer: saclarina yildiz dusmus
+  entry_fav_count: 4
+  entry_content: |
+    hani bu açıklanmayacaktı, aman allahım nolacak şimdi ?<br/><br/>sözlük sırlarının ifşası
+  entry_channels: 
+- entry_name: |
+    moral bozuk olunca kaçılan yer
+  entry_id:  77558440
+  entry_writer: hekg
+  entry_fav_count: 2
+  entry_content: |
+    yıkamak suretiyle; balkon.
+  entry_channels: anket
+- entry_name: |
+    futbol tarihinin en iyi 3 kalecisi
+  entry_id:  77553185
+  entry_writer: fuck you very very much
+  entry_fav_count: 0
+  entry_content: |
+    futbol tarihi deniyor gençler, doğduğunuz tarihten itibaren dememişler.
+  entry_channels: spor,anket
+---
