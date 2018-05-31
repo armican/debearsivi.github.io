@@ -213,11 +213,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hrdzppxhe3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    It just takes a few seconds and can really help the good ones
-  entry_id: 8naygm
-  entry_content: |
-    <img src=https://i.redditmedia.com/oGL4g1H9y0xkGMVIBQwZZvwnVALG0MQArcIqXTBOdAc.jpg?s=9a5ff5b085b4d7247edfbf1aabee7c3a frameborder=0>
-- entry_name: |
     Wait what
   entry_id: 8nggwx
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8ncbbd
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
+- entry_name: |
+    what?
+  entry_id: 8nb3zj
+  entry_content: |
+    <img src=https://i.redditmedia.com/Z4LElNo4rMtwNtcfbyitjIhzFXwZeSaSaifS7jB8zCA.jpg?s=470983fc727a9fadf6f40c1b85717ba5 frameborder=0>
 ---
