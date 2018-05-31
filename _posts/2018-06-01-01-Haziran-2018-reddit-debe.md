@@ -223,11 +223,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hrdzppxhe3111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The debate is over: Of course Trump obstructed justice
-  entry_id: 8nal9i
-  entry_content: |
-    <img src=https://i.redditmedia.com/0PzgbtTCWBtOKVz8cS_AIlI9C9Tjg4RB9BIBDi26tO4.jpg?s=e0f1cff9b74da4215a364e1706d7fde5 frameborder=0>
-- entry_name: |
     My grandmother modeling a Christian Dior wedding gown in the 1940’s.
   entry_id: 8nfh96
   entry_content: |
@@ -238,11 +233,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xmc0nqia02111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    mods are gay
-  entry_id: 8nag7e
-  entry_content: |
-    <img src=https://i.redditmedia.com/rNAgck8cX29oPZWJ9jbGc7IOO5hlAXYzG_P5Qb8f9M0.jpg?s=bcf396fa6f80ea479ad34b18983531e1 frameborder=0>
-- entry_name: |
   entry_id: 8ncbbd
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
@@ -251,4 +241,13 @@ data:
   entry_id: 8nb3zj
   entry_content: |
     <img src=https://i.redditmedia.com/Z4LElNo4rMtwNtcfbyitjIhzFXwZeSaSaifS7jB8zCA.jpg?s=470983fc727a9fadf6f40c1b85717ba5 frameborder=0>
+- entry_name: |
+    Wait what
+  entry_id: 8nggwx
+  entry_content: |
+    <img src=https://i.redditmedia.com/r5O-BT7GlCPM35O8W_rTo_VEggLP13eWPevmGksXiCA.jpg?s=ebe57023c3fbec7828516a76dc119004 frameborder=0>
+- entry_name: |
+  entry_id: 8nfkob
+  entry_content: |
+    <img src=https://i.redditmedia.com/EtVIMiTIDw_bKUNKYWEh8rJ5Ox8ckgZrfmx68ku6tG4.png?s=f2753b723f0cbce5804f42f824147833 frameborder=0>
 ---
