@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/q-PHZUhbxmfVNGdJiNc7our1OTOEsOEqD8ajUD5cH_Y.jpg?s=631f55a9ada8046704ac6a91fa7288ba frameborder=0>
 - entry_name: |
-    8-year-old boy asked his mom to stop the car so he could help a woman up the stairs
-  entry_id: 8nbfux
-  entry_content: |
-    <iframe src=https://v.redd.it/743beji0o1111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Fallout cosplay
   entry_id: 8ncoi8
   entry_content: |
@@ -57,11 +52,6 @@ data:
   entry_id: 8ndccc
   entry_content: |
     <img src=https://i.redditmedia.com/76r5Or8YCScCt47tTH2_MFXVjWFdeJti8XSU85vnJNA.png?s=f26fd81eee229dee0cd6f80e1159428c frameborder=0>
-- entry_name: |
-    I don't want to set the world on fire...
-  entry_id: 8nbhvu
-  entry_content: |
-    <img src=https://i.redditmedia.com/9q9za97IKBUVXBLvnrWffKlIo5aw4XwehzbnqMhYuis.jpg?s=f3e679eb30413a47baf713e91686b618 frameborder=0>
 - entry_name: |
     I painted two bunnies twice and it made me happy :)
   entry_id: 8nh39c
@@ -87,11 +77,6 @@ data:
   entry_id: 8nhya4
   entry_content: |
     <img src=https://i.redditmedia.com/QUiTkqHYrh-GBaJ2KUr0ADLKGf0sd_qQHV8aNrlZsjM.jpg?s=84eecddf4a68a8ce07c9d59be99ff00e frameborder=0>
-- entry_name: |
-    Hold my Nuka-Cola...
-  entry_id: 8nbk42
-  entry_content: |
-    <img src=https://i.redditmedia.com/WGd40T93BYIljNEHa9AzrWNeRDUKZX19fC4zYDcmlL8.jpg?s=22c9670445588b639d3d4799f1993bea frameborder=0>
 - entry_name: |
     A fight scene between shape-shifting beings in Lotte Reiniger’s 'The Adventures of Prince Achmed' (1926). The oldest surviving animated feature film.
   entry_id: 8nc4pz
@@ -127,11 +112,6 @@ data:
   entry_id: 8ng2r5
   entry_content: |
     null
-- entry_name: |
-    Trump signs 'Right to Try Act' aimed at helping terminally ill patients seek drug treatments
-  entry_id: 8nbj1e
-  entry_content: |
-    <img src=https://i.redditmedia.com/VnmJuP_ZaJ1X2Qh7Klpa-TLG4g1CS6M3XUHWUwOWpDE.jpg?s=3bcd30e4bc93a9f9e8d7a6dba5d08f2b frameborder=0>
 - entry_name: |
     Chile has just voted to become the first country in the Americas to ban plastic bags from stores across the country in an effort to reduce unnecessary waste. In an unprecedented national measure, the Chilean senate passed a bill to prohibit the use of plastic bags for store purchases.
   entry_id: 8nevm3
@@ -249,4 +229,24 @@ data:
   entry_id: 8ncbbd
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
+- entry_name: |
+    Rescuers catch a suicide jumper from a floor below in Latvia
+  entry_id: 8nik0s
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeatShortDwarfmongoose&url=https%3A%2F%2Fgfycat.com%2FNeatShortDwarfmongoose&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeatShortDwarfmongoose-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Florida brewery unveils six-pack rings that feed sea turtles rather than kill them
+  entry_id: 8ni5ac
+  entry_content: |
+    <img src=https://i.redditmedia.com/WbPXsZZlYiBuSEPV2Lmw1rK6gr5d7Viyd52-bEJA48c.jpg?s=f5c4bac1990173dd212e2ac48d53c702 frameborder=0>
+- entry_name: |
+    Trump will pardon conservative pundit Dinesh D'Souza who was convicted for campaign finance violation
+  entry_id: 8nids3
+  entry_content: |
+    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
+- entry_name: |
+    Eel made out of dust
+  entry_id: 8nhe8m
+  entry_content: |
+    <iframe src=https://v.redd.it/5fk4okj376111/DASH_4_8_M frameborder=0></iframe>
 ---
