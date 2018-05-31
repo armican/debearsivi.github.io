@@ -207,11 +207,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSlowWeirdHumpbackwhale&url=https%3A%2F%2Fgfycat.com%2FSlowWeirdHumpbackwhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FSlowWeirdHumpbackwhale-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1063 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    I see your corner cabinet, and raise you ours
-  entry_id: 8nc1u0
-  entry_content: |
-    <iframe src=https://v.redd.it/oabsf76512111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
   entry_id: 8nga87
   entry_content: |
     <img src=https://i.redditmedia.com/4lUnoBNyoTxRi3_oPS7VkoIVaaQxAiqP3C3o7Fr2Xeg.jpg?s=2d02314cd79a50bac2dfac7e8a9942c8 frameborder=0>
@@ -225,11 +220,6 @@ data:
   entry_id: 8ng0w3
   entry_content: |
     <iframe src=https://v.redd.it/eqvtixy2s4111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    This should be punishable by law. Truly worthy of this sub!
-  entry_id: 8nc0e9
-  entry_content: |
-    <iframe src=https://v.redd.it/xmc0nqia02111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
   entry_id: 8ncbbd
   entry_content: |
@@ -248,4 +238,14 @@ data:
   entry_id: 8nhe8m
   entry_content: |
     <iframe src=https://v.redd.it/5fk4okj376111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    These are his truths
+  entry_id: 8nhvfn
+  entry_content: |
+    <img src=https://i.redditmedia.com/awvaGurXV7hz-r9eqEtNabp_fS50PSGIaJatz7AUBM8.jpg?s=7514637c6b36292884726b761a117e1b frameborder=0>
+- entry_name: |
+    U.S. hits EU, Canada and Mexico with steel, aluminum tariffs
+  entry_id: 8nikxr
+  entry_content: |
+    <img src=https://i.redditmedia.com/lU2ZnEHlnhVhBxHMXUoHIIbnwL-5W8V-1xgsxWYmtv8.jpg?s=e47b77485309cd8e1d3953e3c1ccd385 frameborder=0>
 ---
