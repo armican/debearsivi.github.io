@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EOfoKqD_ACg8ZHvHrYOyvwb3JZuA54_fb-pNSChHEeE.jpg?s=2074e13fed895242520f5326e456ec50 frameborder=0>
 - entry_name: |
-    Coolest Bus Driver Prevents Pedestrian Accident
-  entry_id: 8nb44d
-  entry_content: |
-    <iframe src=https://v.redd.it/wnslbxiqg1111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Using the dinosaur filter while celebrating birthday didn't go well
   entry_id: 8nfxrw
   entry_content: |
@@ -42,11 +37,6 @@ data:
   entry_id: 8nbfux
   entry_content: |
     <iframe src=https://v.redd.it/743beji0o1111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    TIL You are 10 times more likely to get bitten by a New Yorker than a shark.
-  entry_id: 8nb45v
-  entry_content: |
-    <img src=https://i.redditmedia.com/TsL1uTTGlVF2oiaHMssKIPZh9ls7MZQOJntMXeZ7r3g.jpg?s=7804c7869d67926a0413037f0710e8d2 frameborder=0>
 - entry_name: |
     Fallout cosplay
   entry_id: 8ncoi8
@@ -82,11 +72,6 @@ data:
   entry_id: 8ncnpf
   entry_content: |
     <img src=https://i.redditmedia.com/c-mMQVgdrqba-F1CG_zGJG2tqb1IOZVgyRDuXITPEhY.png?s=8f2d0ea937994dd9eac9f9800ee92bc4 frameborder=0>
-- entry_name: |
-    Pink Panther!
-  entry_id: 8nb6kv
-  entry_content: |
-    <iframe src=https://v.redd.it/ur1crjtc96111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Something we can all agree on
   entry_id: 8nddlc
@@ -147,11 +132,6 @@ data:
   entry_id: 8ng2r5
   entry_content: |
     null
-- entry_name: |
-    Study Of Water, Oil Paint, 90 x 120cm
-  entry_id: 8nb9te
-  entry_content: |
-    <img src=https://i.redditmedia.com/QhRBPBduebIETFk6ZYVBA3MW7M88dV8mh4bnStqo-Bs.jpg?s=9f32f17c562a41e9a804413dd74d5521 frameborder=0>
 - entry_name: |
     Worth it...
   entry_id: 8nef15
@@ -245,8 +225,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pjxd0bWhRBs5CcFhIHXXAN8oj8ud_7zOUGI0T4WU1SE.jpg?s=6579bc3f25a0d02cb274d225cf98ac77 frameborder=0>
 - entry_name: |
-    what?
-  entry_id: 8nb3zj
+    TIL: The term Third World originated during the cold war, and was used to refer to countries that were neither aligned with NATO (the first world) or the Communist Bloc (the second world). Under the original definition, Sweden, Finland and Austria are third world countries.
+  entry_id: 8nhjzx
   entry_content: |
-    <img src=https://i.redditmedia.com/Z4LElNo4rMtwNtcfbyitjIhzFXwZeSaSaifS7jB8zCA.jpg?s=470983fc727a9fadf6f40c1b85717ba5 frameborder=0>
+    <img src=https://i.redditmedia.com/yaQ4N3Se_w2iWPsJCozoCfRCQN1Sjn5W1yuVTKU7upc.jpg?s=d772dc8facb6e5e60cd80566b6fda319 frameborder=0>
+- entry_name: |
+    TIL that the song 'Africa' by Toto is actually about a boy trying to write a song on Africa, but since he's never been there, he can only tell what he's seen on TV or remembers in the past. This explains the apparently inaccurate line about Kilimanjaro rising above the Serengeti.
+  entry_id: 8nht9p
+  entry_content: |
+    <img src=https://i.redditmedia.com/4yesprziSBRTXw8IjL21-X3V9U0ItP8L2hoY0KBF-ks.jpg?s=8fb670e0285536e0eb5e5af9963e36de frameborder=0>
+- entry_name: |
+    i want pats
+  entry_id: 8nhaxw
+  entry_content: |
+    <iframe src=https://v.redd.it/25k80fbz16111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Heckin P R O T E C C I N'
+  entry_id: 8nd9mm
+  entry_content: |
+    <iframe src=https://v.redd.it/qeom0wtw97111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Eel made out of dust
+  entry_id: 8nhe8m
+  entry_content: |
+    <iframe src=https://v.redd.it/5fk4okj376111/DASH_4_8_M frameborder=0></iframe>
 ---
