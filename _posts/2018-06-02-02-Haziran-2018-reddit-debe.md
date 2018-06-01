@@ -23,11 +23,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/rob7j8xkid111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Neighborhood dogs love this UPS guy
-  entry_id: 8nky04
-  entry_content: |
-    <iframe src=https://v.redd.it/zeoqv3kdl8111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     LPT: If your friend owns a business, don't ask for a friend discount or for some free products, a great friend is one that pays full price to support their friend
   entry_id: 8nn6jy
   entry_content: |
@@ -136,10 +131,6 @@ data:
   entry_id: 8nr18g
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
-- entry_name: |
-  entry_id: 8nkvbs
-  entry_content: |
-    <img src=https://i.redditmedia.com/YbuQxpQ18ecDjjGTc4EQ-TvKZCQxKBd_Xb33r1pWfyA.png?s=7c9f14374ad617b5a63c373e0e8c45c1 frameborder=0>
 - entry_name: |
     Cubic Soap
   entry_id: 8nl291
@@ -250,4 +241,14 @@ data:
   entry_id: 8nm3mf
   entry_content: |
     <img src=https://i.redditmedia.com/14Rt7gbidv1uOAlFjbO8Hkq5M8_MO5kVpHbHOCkX9TA.jpg?s=3e1497a678605b90b302e3615b4cd161 frameborder=0>
+- entry_name: |
+    Better Call Saul season 4 to premiere August 6!
+  entry_id: 8nlk47
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZS_yfEwabxi3cgcykdmZcJMyKELswjFy4_PYFEXBL1U.jpg?s=66100f4683b3aed44fcfafb87c969e21 frameborder=0>
+- entry_name: |
+    This blind dog has its own guide dog, and they are perfect...
+  entry_id: 8nqwfd
+  entry_content: |
+    <img src=https://i.redditmedia.com/ljYE6_DfNmzshYLwmQxksitaCKlXmtLbuoh0hxUOAgc.jpg?s=94c817e675f41d4eae6dcf90bf6b01b9 frameborder=0>
 ---
