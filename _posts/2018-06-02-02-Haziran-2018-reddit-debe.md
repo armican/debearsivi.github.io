@@ -112,11 +112,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PN59FKWQNtq8B9FNSxtEQOhbHNCpJUWRA1Eu98T7Qf4.jpg?s=b261aadebb0828107e700730816b1c5b frameborder=0>
 - entry_name: |
-    Two lightning bolts colliding
-  entry_id: 8nlgfj
-  entry_content: |
-    <iframe src=https://v.redd.it/pkiys3n4y7111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Trump has officially put more tariffs on U.S. allies than on China
   entry_id: 8nmbo7
   entry_content: |
@@ -251,4 +246,8 @@ data:
   entry_id: 8nqtke
   entry_content: |
     <img src=https://i.redditmedia.com/UcpNL0Nurfxd0qwuWa8L3Y41DHV7mMtal_5pqIMJ7W0.jpg?s=2283c841fe9ad8305cfdbaa3f630dfd6 frameborder=0>
+- entry_name: |
+  entry_id: 8nrlvu
+  entry_content: |
+    <iframe src=https://v.redd.it/0fjw9oskyd111/DASH_4_8_M frameborder=0></iframe>
 ---
