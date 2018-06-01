@@ -221,11 +221,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/q75eMvvPeTA3BxLy-jm7O5v0DsmEBop4pZGMPZPANeM.jpg?s=4e21a086b6930c0a910adbc58d67d423 frameborder=0>
 - entry_name: |
-    Canada announces retaliatory tariffs
-  entry_id: 8nkk1x
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
     Child for sale
   entry_id: 8nrl15
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8nlk47
   entry_content: |
     <img src=https://i.redditmedia.com/ZS_yfEwabxi3cgcykdmZcJMyKELswjFy4_PYFEXBL1U.jpg?s=66100f4683b3aed44fcfafb87c969e21 frameborder=0>
+- entry_name: |
+    Ted Dabney, a Founder of Atari and a Creator of Pong, Dies at 81
+  entry_id: 8nmu10
+  entry_content: |
+    null
 ---
