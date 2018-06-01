@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/T1vA1bKAUCMampjWMdOAjkEsjtnLHwGl3NObVzSSv7M.jpg?s=61beebda2b6e8405cdf30a4a3991a37f frameborder=0>
 - entry_name: |
-    Lightning bolts colliding
-  entry_id: 8nlf5f
-  entry_content: |
-    <iframe src=https://v.redd.it/pkiys3n4y7111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     This guy's Golf trick shots are a bit.....different.
   entry_id: 8np6c0
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-QH8lihXlK8e8l0OYU1-TeEfPPqkhlPxKbzVB8pU51s.jpg?s=bca0dd7d255eaeef79c9e61b27cc9855 frameborder=0>
 - entry_name: |
-    Amazon needs to get a handle on its counterfeit problem. Fulfilled by Amazon should be a badge of trust, not a legal loophole.
-  entry_id: 8nlanp
-  entry_content: |
-    <img src=https://i.redditmedia.com/JjgLFpm-9nE-JnvnggNFPBPSJ2aF5z_tfw7dPJmAnaw.jpg?s=07a94749e512629b2ed631521f6d265c frameborder=0>
-- entry_name: |
     His best friend is a brick
   entry_id: 8noksx
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8nrwwg
   entry_content: |
     <img src=https://i.redditmedia.com/PaPP3VqK-9gq9qKPynlfnRaQtCYLT60CzvYRdMWpiSA.jpg?s=666fcbd8086b58a2d352a867e28f241b frameborder=0>
+- entry_name: |
+    To have a porch
+  entry_id: 8nr4rg
+  entry_content: |
+    <img src=https://i.redditmedia.com/8tgM9GjDq-ILZxL6pLo8tJXB15P8xarQabCILBzX2nk.png?s=e24e2767579bfb85196548b45c7a610b frameborder=0>
+- entry_name: |
+    These ceiling fans are belt driven
+  entry_id: 8nqtke
+  entry_content: |
+    <img src=https://i.redditmedia.com/UcpNL0Nurfxd0qwuWa8L3Y41DHV7mMtal_5pqIMJ7W0.jpg?s=2283c841fe9ad8305cfdbaa3f630dfd6 frameborder=0>
 ---
