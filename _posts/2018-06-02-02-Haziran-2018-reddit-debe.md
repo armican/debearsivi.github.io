@@ -132,11 +132,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
-    Cubic Soap
-  entry_id: 8nl291
-  entry_content: |
-    <iframe src=https://v.redd.it/2ifgg1rwn8111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Child for sale
   entry_id: 8nrl15
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8nqwfd
   entry_content: |
     <img src=https://i.redditmedia.com/ljYE6_DfNmzshYLwmQxksitaCKlXmtLbuoh0hxUOAgc.jpg?s=94c817e675f41d4eae6dcf90bf6b01b9 frameborder=0>
+- entry_name: |
+    Ted Dabney, a Founder of Atari and a Creator of Pong, Dies at 81
+  entry_id: 8nmu10
+  entry_content: |
+    null
 ---
