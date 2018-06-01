@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/T1vA1bKAUCMampjWMdOAjkEsjtnLHwGl3NObVzSSv7M.jpg?s=61beebda2b6e8405cdf30a4a3991a37f frameborder=0>
 - entry_name: |
-    A young heron landed on my sunroof this morning. A photo shoot ensued.
-  entry_id: 8nkboo
-  entry_content: |
-    <img src=https://i.redditmedia.com/SumaAaMBnFhRlT-9FShjCHaMUFvnj3ys_ZdVWSi3GlI.jpg?s=3349efda1efee650b3050265a4bd28e5 frameborder=0>
-- entry_name: |
     Lightning bolts colliding
   entry_id: 8nlf5f
   entry_content: |
@@ -127,11 +122,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/S2dIfTP8eui1FoKkfKFHWS1qmICV19WxFfkwqCXma2w.jpg?s=67a1549fb73c4e08bdc13af466fc90a2 frameborder=0>
 - entry_name: |
-    Your clones are very impressive.
-  entry_id: 8nkba4
-  entry_content: |
-    <img src=https://i.redditmedia.com/FNEhWHKhM8a2XER22JEmwuHeZElX0UCGWGwFwGnxnpY.jpg?s=d9888e16f4e5946dc57651bb9e7bf780 frameborder=0>
-- entry_name: |
     Little cultural differences
   entry_id: 8noo1r
   entry_content: |
@@ -196,11 +186,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/e8UiM6K_YpM8O9CBQtqneigde6j576unW9LAs0-dOIQ.jpg?s=f55a64622eb3bcc6343cffb68bca5e64 frameborder=0>
 - entry_name: |
-    Time magazine cover
-  entry_id: 8nkbpj
-  entry_content: |
-    <img src=https://i.redditmedia.com/22rN1khkRhhBMoXeq0nhqnjelt8FTR78Sj-fcv53128.jpg?s=3065548a099dca86609d5f9fc7269aac frameborder=0>
-- entry_name: |
     Freedom of speech
   entry_id: 8nngbr
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8novge
   entry_content: |
     <img src=https://i.redditmedia.com/WWIRgRVDW4wygJ-8g1KNyPFZin6a6iIBYHiSrKzOwcw.jpg?s=2ad45ca464e126d89e484ab394d070a0 frameborder=0>
+- entry_name: |
+    I felt like the world needed me to create this...
+  entry_id: 8noh9e
+  entry_content: |
+    <img src=https://i.redditmedia.com/CPLC6OZ2Lhht7q72Ei9z-GDZ2cvkztEv9rr1v_0xlWY.gif?fm=jpg&s=ddc507d4553ff17230021eb661dfa369 frameborder=0>
+- entry_name: |
+    A very boopable snoot
+  entry_id: 8nm3mf
+  entry_content: |
+    <img src=https://i.redditmedia.com/14Rt7gbidv1uOAlFjbO8Hkq5M8_MO5kVpHbHOCkX9TA.jpg?s=3e1497a678605b90b302e3615b4cd161 frameborder=0>
+- entry_name: |
+    Better Call Saul season 4 to premiere August 6!
+  entry_id: 8nlk47
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZS_yfEwabxi3cgcykdmZcJMyKELswjFy4_PYFEXBL1U.jpg?s=66100f4683b3aed44fcfafb87c969e21 frameborder=0>
 ---
