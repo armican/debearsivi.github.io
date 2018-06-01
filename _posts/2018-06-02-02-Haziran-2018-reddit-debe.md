@@ -33,6 +33,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    My cat ... dont even know what to say 😅🤦🏼‍♂️
+  entry_id: 8nr3ju
+  entry_content: |
+    <iframe src=https://v.redd.it/rob7j8xkid111/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Modern Icelandic houses are built with geothermally heated water pipes under their sidewalks so Icelanders never have to shovel in winter.
   entry_id: 8nmwqa
   entry_content: |
@@ -47,11 +52,6 @@ data:
   entry_id: 8nkboo
   entry_content: |
     <img src=https://i.redditmedia.com/SumaAaMBnFhRlT-9FShjCHaMUFvnj3ys_ZdVWSi3GlI.jpg?s=3349efda1efee650b3050265a4bd28e5 frameborder=0>
-- entry_name: |
-    Danny DeVito becoming the penguin, 1992
-  entry_id: 8nk5wo
-  entry_content: |
-    <img src=https://i.redditmedia.com/0UshGfSTXXhOOr0HByeS12ZwEl0nSL44q4AffeE1JBk.png?s=ec369a1bc08d5906f8a310d843d5766c frameborder=0>
 - entry_name: |
     Lightning bolts colliding
   entry_id: 8nlf5f
@@ -73,15 +73,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    My cat ... dont even know what to say 😅🤦🏼‍♂️
-  entry_id: 8nr3ju
-  entry_content: |
-    <iframe src=https://v.redd.it/rob7j8xkid111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     I got this PM because I said If you can't stand downvotes don't post on Reddit, that's one of the main features
   entry_id: 8nmow9
   entry_content: |
     <img src=https://i.redditmedia.com/KUH-Qu4QUn7UIuroOQK66aKxT2PVEjVeK35Z6bY1EqU.jpg?s=dbf5809bdb0dcc2820f64b25ce58e3ba frameborder=0>
+- entry_name: |
+    This round table
+  entry_id: 8nqyiw
+  entry_content: |
+    <iframe src=https://v.redd.it/wlsb8s81ed111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     TIL Doctor Amanda Hess who was in the hospital preparing to give birth put her own delivery on hold to deliver another woman’s baby after hearing that the child was in distress and her doctor had left the hospital for a break. After the on-call doctor came back doctor Hess went and had her own baby.
   entry_id: 8nmo6v
@@ -102,11 +102,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6pY1cLgmc6lfTqjdFAb3ybiPY7MfowYD4zeKmv5vTdg.jpg?s=501e87a29146b4aadffc9c9c7534c92b frameborder=0>
 - entry_name: |
-    This round table
-  entry_id: 8nqyiw
-  entry_content: |
-    <iframe src=https://v.redd.it/wlsb8s81ed111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     My doctor charges me $65 for being fat
   entry_id: 8nnoyh
   entry_content: |
@@ -117,33 +112,42 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/pkiys3n4y7111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Trump has officially put more tariffs on U.S. allies than on China
-  entry_id: 8nmbo7
-  entry_content: |
-    <img src=https://i.redditmedia.com/S2dIfTP8eui1FoKkfKFHWS1qmICV19WxFfkwqCXma2w.jpg?s=67a1549fb73c4e08bdc13af466fc90a2 frameborder=0>
-- entry_name: |
     Trudeau responds to Trump Tariffs: We have to believe that common sense will prevail but we have no evidence of that today
   entry_id: 8nmewn
   entry_content: |
     <img src=https://i.redditmedia.com/PN59FKWQNtq8B9FNSxtEQOhbHNCpJUWRA1Eu98T7Qf4.jpg?s=b261aadebb0828107e700730816b1c5b frameborder=0>
+- entry_name: |
+    Spain's prime minister is forced out of his job, losing a no-confidence vote triggered by a corruption scandal
+  entry_id: 8nqles
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
+    Trump has officially put more tariffs on U.S. allies than on China
+  entry_id: 8nmbo7
+  entry_content: |
+    <img src=https://i.redditmedia.com/S2dIfTP8eui1FoKkfKFHWS1qmICV19WxFfkwqCXma2w.jpg?s=67a1549fb73c4e08bdc13af466fc90a2 frameborder=0>
 - entry_name: |
     Your clones are very impressive.
   entry_id: 8nkba4
   entry_content: |
     <img src=https://i.redditmedia.com/FNEhWHKhM8a2XER22JEmwuHeZElX0UCGWGwFwGnxnpY.jpg?s=d9888e16f4e5946dc57651bb9e7bf780 frameborder=0>
 - entry_name: |
-    Cubic Soap
-  entry_id: 8nl291
-  entry_content: |
-    <iframe src=https://v.redd.it/2ifgg1rwn8111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Little cultural differences
   entry_id: 8noo1r
   entry_content: |
     <img src=https://i.redditmedia.com/ghvcVuZS7NeVQBWAUAuYr1Mx4ApBUgokWETYHsQuCVY.jpg?s=704dcaf92acc074c67c117d498b7a2f4 frameborder=0>
 - entry_name: |
-    Spain's prime minister is forced out of his job, losing a no-confidence vote triggered by a corruption scandal
-  entry_id: 8nqles
+  entry_id: 8nkvbs
+  entry_content: |
+    <img src=https://i.redditmedia.com/YbuQxpQ18ecDjjGTc4EQ-TvKZCQxKBd_Xb33r1pWfyA.png?s=7c9f14374ad617b5a63c373e0e8c45c1 frameborder=0>
+- entry_name: |
+    Cubic Soap
+  entry_id: 8nl291
+  entry_content: |
+    <iframe src=https://v.redd.it/2ifgg1rwn8111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Two lions, two tigers and a jaguar have reportedly escaped from a German zoo, with locals being warned to stay inside
+  entry_id: 8nr18g
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
@@ -162,6 +166,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nzo1et441b111/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    Conan at a pub in Belfast yesterday (x-post /r/ConanBeingAwesome)
+  entry_id: 8nrb34
+  entry_content: |
+    <iframe src=https://v.redd.it/rx3xjdnmpd111/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Do not post that!
   entry_id: 8nl5n3
   entry_content: |
@@ -171,6 +180,16 @@ data:
   entry_id: 8nopnk
   entry_content: |
     null
+- entry_name: |
+    His best friend is a brick
+  entry_id: 8noksx
+  entry_content: |
+    <img src=https://i.redditmedia.com/WxuRyU5JVaWODhoj14gRQoPJPtAKzIv8or82SSmgPGc.jpg?s=72811a53dbb0267805785e7e3e76f985 frameborder=0>
+- entry_name: |
+    My grandma visited his store and asked if he ever goes there. He came out the back and spent the next hour chatting with her in 1992
+  entry_id: 8nr8ut
+  entry_content: |
+    <img src=https://i.redditmedia.com/CyAdD1DhsdnTExFW1atYeuFcw0i_2Tyo-VwqLIjS180.jpg?s=4ea37d4af494026b26250c49bafc0ed4 frameborder=0>
 - entry_name: |
     This guy is so wholesome
   entry_id: 8nlxuw
@@ -187,10 +206,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ma5t2PQjhtDdhOl7M-yz0_Odn4NSawEBlOn31yJzw_M.jpg?s=9a648a904588d1d88fecfefe4e21d7d5 frameborder=0>
 - entry_name: |
-    His best friend is a brick
-  entry_id: 8noksx
+    Cliffs of Moher
+  entry_id: 8nqy5s
   entry_content: |
-    <img src=https://i.redditmedia.com/WxuRyU5JVaWODhoj14gRQoPJPtAKzIv8or82SSmgPGc.jpg?s=72811a53dbb0267805785e7e3e76f985 frameborder=0>
+    <iframe src=https://v.redd.it/kqtph5nldc111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL: Childless Atheist and author Ninon de l'Enclos left her money to the nine-year-old son of her accountant upon her death. This Nine-year-old would later be known as Voltaire
   entry_id: 8nmxm1
@@ -202,11 +221,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ufyr0ghx89111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Two lions, two tigers and a jaguar have reportedly escaped from a German zoo, with locals being warned to stay inside
-  entry_id: 8nr18g
-  entry_content: |
-    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
-- entry_name: |
     Evolution is something stupid!
   entry_id: 8nn6qq
   entry_content: |
@@ -217,37 +231,23 @@ data:
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/myXSBZ0tySI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Canada announces retaliatory tariffs
-  entry_id: 8nkk1x
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
     A malfunction
   entry_id: 8nnklf
   entry_content: |
     <img src=https://i.redditmedia.com/q75eMvvPeTA3BxLy-jm7O5v0DsmEBop4pZGMPZPANeM.jpg?s=4e21a086b6930c0a910adbc58d67d423 frameborder=0>
 - entry_name: |
-    A very boopable snoot
-  entry_id: 8nm3mf
+    Canada announces retaliatory tariffs
+  entry_id: 8nkk1x
   entry_content: |
-    <img src=https://i.redditmedia.com/14Rt7gbidv1uOAlFjbO8Hkq5M8_MO5kVpHbHOCkX9TA.jpg?s=3e1497a678605b90b302e3615b4cd161 frameborder=0>
+    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
 - entry_name: |
-    Better Call Saul season 4 to premiere August 6!
-  entry_id: 8nlk47
+    Child for sale
+  entry_id: 8nrl15
   entry_content: |
-    <img src=https://i.redditmedia.com/ZS_yfEwabxi3cgcykdmZcJMyKELswjFy4_PYFEXBL1U.jpg?s=66100f4683b3aed44fcfafb87c969e21 frameborder=0>
+    <img src=https://i.redditmedia.com/bqVzSw_mpPwOKHiimkckm6kgpoLIJJ9ScM-6rIdtAdQ.jpg?s=f82b3a7fd060bcd11af638c1f56ef6f3 frameborder=0>
 - entry_name: |
-    I felt like the world needed me to create this...
-  entry_id: 8noh9e
+    The greater emotional control and problem-solving abilities a mother has, the less likely her children will develop behavioral problems, such as throwing tantrums or fighting. The study also found that mothers who stay in control cognitively are less likely to have controlling parenting attitudes
+  entry_id: 8novge
   entry_content: |
-    <img src=https://i.redditmedia.com/CPLC6OZ2Lhht7q72Ei9z-GDZ2cvkztEv9rr1v_0xlWY.gif?fm=jpg&s=ddc507d4553ff17230021eb661dfa369 frameborder=0>
-- entry_name: |
-    Ted Dabney, a Founder of Atari and a Creator of Pong, Dies at 81
-  entry_id: 8nmu10
-  entry_content: |
-    null
-- entry_name: |
-  entry_id: 8nm1d6
-  entry_content: |
-    <img src=https://i.redditmedia.com/TPvP5FM_xZmgWrQLS4Zd62rlqGBs-3oHpZzPDNA_WkY.jpg?s=1f46ef3723abfa223c0f388e35e4ab0f frameborder=0>
+    <img src=https://i.redditmedia.com/WWIRgRVDW4wygJ-8g1KNyPFZin6a6iIBYHiSrKzOwcw.jpg?s=2ad45ca464e126d89e484ab394d070a0 frameborder=0>
 ---
