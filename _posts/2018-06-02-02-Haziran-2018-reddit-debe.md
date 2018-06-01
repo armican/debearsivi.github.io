@@ -18,25 +18,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/x0Ob7CFG9qy_qdO9nE3ZjIuTSbtFkxpdwctITQAu47A.png?s=104d91d7965deb17679dcf5ccbfbf38c frameborder=0>
 - entry_name: |
+    My cat ... dont even know what to say 😅🤦🏼‍♂️
+  entry_id: 8nr3ju
+  entry_content: |
+    <iframe src=https://v.redd.it/rob7j8xkid111/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Neighborhood dogs love this UPS guy
   entry_id: 8nky04
   entry_content: |
     <iframe src=https://v.redd.it/zeoqv3kdl8111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    They just want him to be part of the fun 😭😁
-  entry_id: 8nkpn1
-  entry_content: |
-    <img src=https://i.redditmedia.com/x3xUoxaxJQx4HUDej58PgjVb_JhE0xq1-QjKtKmkRA0.jpg?s=0f35bf2b44284adfcff2f6f491411647 frameborder=0>
-- entry_name: |
     LPT: If your friend owns a business, don't ask for a friend discount or for some free products, a great friend is one that pays full price to support their friend
   entry_id: 8nn6jy
   entry_content: |
     null
-- entry_name: |
-    My cat ... dont even know what to say 😅🤦🏼‍♂️
-  entry_id: 8nr3ju
-  entry_content: |
-    <iframe src=https://v.redd.it/rob7j8xkid111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Modern Icelandic houses are built with geothermally heated water pipes under their sidewalks so Icelanders never have to shovel in winter.
   entry_id: 8nmwqa
@@ -68,15 +63,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    I got this PM because I said If you can't stand downvotes don't post on Reddit, that's one of the main features
-  entry_id: 8nmow9
-  entry_content: |
-    <img src=https://i.redditmedia.com/KUH-Qu4QUn7UIuroOQK66aKxT2PVEjVeK35Z6bY1EqU.jpg?s=dbf5809bdb0dcc2820f64b25ce58e3ba frameborder=0>
-- entry_name: |
     This round table
   entry_id: 8nqyiw
   entry_content: |
     <iframe src=https://v.redd.it/wlsb8s81ed111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    I got this PM because I said If you can't stand downvotes don't post on Reddit, that's one of the main features
+  entry_id: 8nmow9
+  entry_content: |
+    <img src=https://i.redditmedia.com/KUH-Qu4QUn7UIuroOQK66aKxT2PVEjVeK35Z6bY1EqU.jpg?s=dbf5809bdb0dcc2820f64b25ce58e3ba frameborder=0>
 - entry_name: |
     TIL Doctor Amanda Hess who was in the hospital preparing to give birth put her own delivery on hold to deliver another woman’s baby after hearing that the child was in distress and her doctor had left the hospital for a break. After the on-call doctor came back doctor Hess went and had her own baby.
   entry_id: 8nmo6v
@@ -97,6 +92,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6pY1cLgmc6lfTqjdFAb3ybiPY7MfowYD4zeKmv5vTdg.jpg?s=501e87a29146b4aadffc9c9c7534c92b frameborder=0>
 - entry_name: |
+    Spain's prime minister is forced out of his job, losing a no-confidence vote triggered by a corruption scandal
+  entry_id: 8nqles
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
     My doctor charges me $65 for being fat
   entry_id: 8nnoyh
   entry_content: |
@@ -112,10 +112,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PN59FKWQNtq8B9FNSxtEQOhbHNCpJUWRA1Eu98T7Qf4.jpg?s=b261aadebb0828107e700730816b1c5b frameborder=0>
 - entry_name: |
-    Spain's prime minister is forced out of his job, losing a no-confidence vote triggered by a corruption scandal
-  entry_id: 8nqles
+    Conan at a pub in Belfast yesterday (x-post /r/ConanBeingAwesome)
+  entry_id: 8nrb34
   entry_content: |
-    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+    <iframe src=https://v.redd.it/rx3xjdnmpd111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Trump has officially put more tariffs on U.S. allies than on China
   entry_id: 8nmbo7
@@ -127,6 +127,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ghvcVuZS7NeVQBWAUAuYr1Mx4ApBUgokWETYHsQuCVY.jpg?s=704dcaf92acc074c67c117d498b7a2f4 frameborder=0>
 - entry_name: |
+    My grandma visited his store and asked if he ever goes there. He came out the back and spent the next hour chatting with her in 1992
+  entry_id: 8nr8ut
+  entry_content: |
+    <img src=https://i.redditmedia.com/CyAdD1DhsdnTExFW1atYeuFcw0i_2Tyo-VwqLIjS180.jpg?s=4ea37d4af494026b26250c49bafc0ed4 frameborder=0>
+- entry_name: |
+    Two lions, two tigers and a jaguar have reportedly escaped from a German zoo, with locals being warned to stay inside
+  entry_id: 8nr18g
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
   entry_id: 8nkvbs
   entry_content: |
     <img src=https://i.redditmedia.com/YbuQxpQ18ecDjjGTc4EQ-TvKZCQxKBd_Xb33r1pWfyA.png?s=7c9f14374ad617b5a63c373e0e8c45c1 frameborder=0>
@@ -136,15 +146,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2ifgg1rwn8111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Two lions, two tigers and a jaguar have reportedly escaped from a German zoo, with locals being warned to stay inside
-  entry_id: 8nr18g
+    Child for sale
+  entry_id: 8nrl15
   entry_content: |
-    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+    <img src=https://i.redditmedia.com/bqVzSw_mpPwOKHiimkckm6kgpoLIJJ9ScM-6rIdtAdQ.jpg?s=f82b3a7fd060bcd11af638c1f56ef6f3 frameborder=0>
+- entry_name: |
+    He's got some power behind that swing.
+  entry_id: 8nr50x
+  entry_content: |
+    <iframe src=https://v.redd.it/ai2aqoj9kd111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     hmmm
   entry_id: 8nmdp4
   entry_content: |
     <img src=https://i.redditmedia.com/HtB34WgUIm85-vZqBL6teCFbmgfZEEQlfE7jtnbN7P8.jpg?s=fe4cb23a1b5b69ff60222c71d1e79411 frameborder=0>
+- entry_name: |
+    Cliffs of Moher
+  entry_id: 8nqy5s
+  entry_content: |
+    <iframe src=https://v.redd.it/kqtph5nldc111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Amazon needs to get a handle on its counterfeit problem. Fulfilled by Amazon should be a badge of trust, not a legal loophole.
   entry_id: 8nlanp
@@ -156,30 +176,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nzo1et441b111/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Conan at a pub in Belfast yesterday (x-post /r/ConanBeingAwesome)
-  entry_id: 8nrb34
+    His best friend is a brick
+  entry_id: 8noksx
   entry_content: |
-    <iframe src=https://v.redd.it/rx3xjdnmpd111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Do not post that!
-  entry_id: 8nl5n3
-  entry_content: |
-    <img src=https://i.redditmedia.com/kdA1SKVzEXWZ2tVNbs1Ngmm_91V1F7gexxR4H65Vo_8.jpg?s=deb0b9e9c711cc96dedfdada29ea18ff frameborder=0>
+    <img src=https://i.redditmedia.com/WxuRyU5JVaWODhoj14gRQoPJPtAKzIv8or82SSmgPGc.jpg?s=72811a53dbb0267805785e7e3e76f985 frameborder=0>
 - entry_name: |
     JR Smith runs out the clock while the Cavs arent up.
   entry_id: 8nopnk
   entry_content: |
     null
 - entry_name: |
-    His best friend is a brick
-  entry_id: 8noksx
+    Do not post that!
+  entry_id: 8nl5n3
   entry_content: |
-    <img src=https://i.redditmedia.com/WxuRyU5JVaWODhoj14gRQoPJPtAKzIv8or82SSmgPGc.jpg?s=72811a53dbb0267805785e7e3e76f985 frameborder=0>
-- entry_name: |
-    My grandma visited his store and asked if he ever goes there. He came out the back and spent the next hour chatting with her in 1992
-  entry_id: 8nr8ut
-  entry_content: |
-    <img src=https://i.redditmedia.com/CyAdD1DhsdnTExFW1atYeuFcw0i_2Tyo-VwqLIjS180.jpg?s=4ea37d4af494026b26250c49bafc0ed4 frameborder=0>
+    <img src=https://i.redditmedia.com/kdA1SKVzEXWZ2tVNbs1Ngmm_91V1F7gexxR4H65Vo_8.jpg?s=deb0b9e9c711cc96dedfdada29ea18ff frameborder=0>
 - entry_name: |
     This guy is so wholesome
   entry_id: 8nlxuw
@@ -191,10 +201,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ma5t2PQjhtDdhOl7M-yz0_Odn4NSawEBlOn31yJzw_M.jpg?s=9a648a904588d1d88fecfefe4e21d7d5 frameborder=0>
 - entry_name: |
-    Cliffs of Moher
-  entry_id: 8nqy5s
+    Sydney Opera house in the fog
+  entry_id: 8nqr5y
   entry_content: |
-    <iframe src=https://v.redd.it/kqtph5nldc111/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/jA_d-SNC5Z4hBwY1h6MYOaKe_IkBlTya2jiLUzFyNVc.jpg?s=5f21d12e4c9a903dc3b7c11e4892cc7d frameborder=0>
 - entry_name: |
     TIL: Childless Atheist and author Ninon de l'Enclos left her money to the nine-year-old son of her accountant upon her death. This Nine-year-old would later be known as Voltaire
   entry_id: 8nmxm1
@@ -221,10 +231,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/q75eMvvPeTA3BxLy-jm7O5v0DsmEBop4pZGMPZPANeM.jpg?s=4e21a086b6930c0a910adbc58d67d423 frameborder=0>
 - entry_name: |
-    Child for sale
-  entry_id: 8nrl15
+    TIL that when a decapitated flatworm regrows its head, it gets all its old memories back too.
+  entry_id: 8nr1n5
   entry_content: |
-    <img src=https://i.redditmedia.com/bqVzSw_mpPwOKHiimkckm6kgpoLIJJ9ScM-6rIdtAdQ.jpg?s=f82b3a7fd060bcd11af638c1f56ef6f3 frameborder=0>
+    <img src=https://i.redditmedia.com/-QH8lihXlK8e8l0OYU1-TeEfPPqkhlPxKbzVB8pU51s.jpg?s=bca0dd7d255eaeef79c9e61b27cc9855 frameborder=0>
 - entry_name: |
     The greater emotional control and problem-solving abilities a mother has, the less likely her children will develop behavioral problems, such as throwing tantrums or fighting. The study also found that mothers who stay in control cognitively are less likely to have controlling parenting attitudes
   entry_id: 8novge
@@ -240,14 +250,4 @@ data:
   entry_id: 8nm3mf
   entry_content: |
     <img src=https://i.redditmedia.com/14Rt7gbidv1uOAlFjbO8Hkq5M8_MO5kVpHbHOCkX9TA.jpg?s=3e1497a678605b90b302e3615b4cd161 frameborder=0>
-- entry_name: |
-    Better Call Saul season 4 to premiere August 6!
-  entry_id: 8nlk47
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZS_yfEwabxi3cgcykdmZcJMyKELswjFy4_PYFEXBL1U.jpg?s=66100f4683b3aed44fcfafb87c969e21 frameborder=0>
-- entry_name: |
-    Ted Dabney, a Founder of Atari and a Creator of Pong, Dies at 81
-  entry_id: 8nmu10
-  entry_content: |
-    null
 ---
