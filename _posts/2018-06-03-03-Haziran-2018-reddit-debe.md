@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uT0YPy4urppnCxIvXWkmKHFYa52aDrYvmeMQB6H9tNA.jpg?s=8290258e1741218157af7e6befb1a714 frameborder=0>
 - entry_name: |
-    🔥 A relaxing stroll along the river
-  entry_id: 8ntyvl
-  entry_content: |
-    <iframe src=https://v.redd.it/g2w0ug0ygf111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     mario 64 logic
   entry_id: 8nzaxx
   entry_content: |
@@ -178,11 +173,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ix6kvawvbh111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Hit Em with the Double Tap
-  entry_id: 8nu0zb
-  entry_content: |
-    <img src=https://i.redditmedia.com/UnE792nbCtjOn2VrTg0ZLrn2puDJhZiIUrfBmI29Q6g.jpg?s=ffe05d0dbfda5d684116bc2696ef9d88 frameborder=0>
-- entry_name: |
     Walgreens
   entry_id: 8nwwkw
   entry_content: |
@@ -238,11 +228,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3g1n716m5i111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Our dog at the beach. The resemblance was uncanny
-  entry_id: 8nu0na
-  entry_content: |
-    <img src=https://i.redditmedia.com/DRZLiCEXGnnhlPeMoEDvqz_9Oqz3mHRYiW8TmICOnX4.jpg?s=157b1e22dee27547c7d0c60c1f64a1e5 frameborder=0>
-- entry_name: |
     me🎉irl
   entry_id: 8nyzlf
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8ny2hz
   entry_content: |
     <img src=https://i.redditmedia.com/Cf-1HAqEnGQFMtoB6VjZqPVGEBAD-rmFgj26E2Jonc4.jpg?s=4f91f56f169133004b6da6e78d826e54 frameborder=0>
+- entry_name: |
+    Protip
+  entry_id: 8nxd1y
+  entry_content: |
+    <img src=https://i.redditmedia.com/kPmBwHgHQfScZdM-IZlh6cSX6tKyol30gYtw153Wyak.jpg?s=ac0014ba9af08303320ff9b5b82add91 frameborder=0>
+- entry_name: |
+    True genius
+  entry_id: 8nvj4j
+  entry_content: |
+    <img src=https://i.redditmedia.com/0yDJA11YpP2rd387fE5q0WQ7UaBPtK3rsC-Lvm85S-I.png?s=fc4813a9aa734710d94ff16e29938292 frameborder=0>
+- entry_name: |
+    Trump says June 12 summit with Kim Jong Un is back on
+  entry_id: 8nudf4
+  entry_content: |
+    <img src=https://i.redditmedia.com/USKOkMiE-_022HrYNE6yQaoFM_XjmlLS9z2fmplHDtM.jpg?s=9f32da8dd7266420b9838b7350e1a053 frameborder=0>
 ---
