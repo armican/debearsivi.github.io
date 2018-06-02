@@ -3,11 +3,6 @@ layout: post
 title: 03 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    My security camera caught this shady character
-  entry_id: 8nv9hc
-  entry_content: |
-    <img src=https://i.redditmedia.com/ODJA5fPJq_sakSASfqvGxWmCiDJ2ANfiXxx8qhxpbDQ.jpg?s=ae5c05733783e687f65536c2c9b28945 frameborder=0>
-- entry_name: |
     It would be weird if a human yelled out Anyone wanna fuck? but birds do it all day and nobody cares.
   entry_id: 8nwdlk
   entry_content: |
@@ -83,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nfd3O5EQUYPqS3e-JYGUBy5eNUEEBdDyjObuB4zSVfs.jpg?s=0ea0c8183c9f27b1b3cb700170bf004b frameborder=0>
 - entry_name: |
-    Poison Damage
-  entry_id: 8nvaye
-  entry_content: |
-    <img src=https://i.redditmedia.com/GbPU-fL0xWE8JMujIq-cNp3EKvg31EPSk-H69WDYdHA.jpg?s=0e4842e12789367301cdaa4bf2252792 frameborder=0>
-- entry_name: |
     The funniest improvised line on Parks and Rec
   entry_id: 8nzzgm
   entry_content: |
@@ -108,20 +98,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kwfh8oRJyZ0ZV1v0-aV6iOZ1SM9tv1ffrnH6mdxrlpw.jpg?s=f7e10ad51ef099764aba0936858eb564 frameborder=0>
 - entry_name: |
-    TIL Julie Andrews initially turned down the role of Mary Poppins because of her pregnancy. Walt Disney however insisted, saying we'll wait for you.
-  entry_id: 8nv9tb
-  entry_content: |
-    <img src=https://i.redditmedia.com/4yD6mw9Xl6opkzniLmDcbr_i04L47OE4L8Vk4Hn_epQ.jpg?s=69aedc166bb54b399d9e960b6d82caa3 frameborder=0>
-- entry_name: |
     This good boy showed up at my office and sat under my desk all day
   entry_id: 8nwoky
   entry_content: |
     <img src=https://i.redditmedia.com/enCF_vob_R6dPIHrFznzopKRGHUupPZhn7zqbkEeGk4.jpg?s=e13d495289f20451d7ea54121a1c7972 frameborder=0>
-- entry_name: |
-    Outplayed
-  entry_id: 8nv9zz
-  entry_content: |
-    <iframe src=https://v.redd.it/9jlnimlrag111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     How a log is Used
   entry_id: 8nx2r0
@@ -252,4 +232,24 @@ data:
   entry_id: 8o0zrs
   entry_content: |
     <iframe src=https://v.redd.it/p6bjs33wpl111/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    MRW I've got my headphones on at my desk while browsing job postings at another company, and my boss creeps up behind me and taps me on the shoulder
+  entry_id: 8o0w56
+  entry_content: |
+    <iframe src=https://v.redd.it/atbbormeml111/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Trying to hide the food
+  entry_id: 8nxrmp
+  entry_content: |
+    <iframe src=https://v.redd.it/xdukpz3x6i111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Agreed
+  entry_id: 8o0oet
+  entry_content: |
+    <img src=https://i.redditmedia.com/rvz5Lz6NjsD4KSbufsmhM-flL_WXX6tGw1N1olDRUcE.jpg?s=3efdfdf9c5f7a2971f6306b10e202013 frameborder=0>
+- entry_name: |
+    Woof🎹irl
+  entry_id: 8nx8m4
+  entry_content: |
+    <img src=https://i.redditmedia.com/Apea0Ogu4m3bPZCmjW43A-8avLi2cS3kyPqGvuPfMPk.png?s=4f7d7727cb59e09f2a238877a809b9ad frameborder=0>
 ---
