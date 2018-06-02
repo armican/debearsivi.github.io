@@ -6,7 +6,7 @@ data:
     o generalin apoletlerini sökeceğim
   entry_id:  77628400
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 1354
+  entry_fav_count: 1364
   entry_content: |
     asker siyasete karışıyor diye ağlaya ağlaya iktidara geldiniz, hatta radikal islamcıların oyunu da böyle aldınız.<br/><br/>ve siz o denli namussuzsunuz ki şimdi askeri ellerinizle siyasete sokuyorsunuz, sırf menfaatiniz uğruna.<br/>yazık bu orduya, yazık bu askere.<br/><br/>sonuna kadar destekliyorum ince' nin bu sözünü.<br/>orduyu lekeleyen kim olursa olsun apoleti sökülmeli ve yargı karşısında hesap vermelidir.
   entry_channels: siyaset,haber
@@ -22,15 +22,15 @@ data:
     ali koç'un ramazanda su içmesi
   entry_id:  77636399
   entry_writer: burtonesque
-  entry_fav_count: 833
+  entry_fav_count: 895
   entry_content: |
     kesinlikle kınıyorum. konuşmacıları tehdit etmek, sesini kesmek gibi topluma örnek olacak eylemler yerine su içmesi büyük ayıp gerçekten.<br/><br/>edit: imla
-  entry_channels: spor,haber
+  entry_channels: spor,magazin
 - entry_name: |
     canikli'nin muharrem ince'ye apolet yanıtı
   entry_id:  77634455
   entry_writer: psychiatry
-  entry_fav_count: 682
+  entry_fav_count: 706
   entry_content: |
     generalin alkışladığı konuşma cumhurbaşkanının değil, ak parti genel başkanının muharrem ince'yi eleştirdiği konuşmadır.<br/><br/>cumhurbaşkanı kimliği ile yaptığı herhangi bir konuşmayı alkışlamasında bir beis yoktur fakat muhalefeti eleştirdiği bir cümleyi, devletin generali alkışlayamaz.<br/><br/>canikli bunu bilmiyor mu? elbette biliyor ama laf olsun torba dolsun işte.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     muharrem ince'nin de yabancı dil bilmemesi
   entry_id:  77620505
   entry_writer: jimmy conway
-  entry_fav_count: 463
+  entry_fav_count: 466
   entry_content: |
     tuh ya. madem o da ingilizce bilmiyor, bari oyumuzu gidip trump'tan yana kullanalim. ingilizce biliyor ne de olsa.<br/><br/>edit: imla
   entry_channels: siyaset,edebiyat,eğitim
@@ -46,7 +46,7 @@ data:
     teoman'ın tarkan kadar saygı görmemesinin sebebi
   entry_id:  77626279
   entry_writer: buralarda11
-  entry_fav_count: 406
+  entry_fav_count: 408
   entry_content: |
     çünkü tarkan ''oynama şıkıdım şıkıdım'' diyerek dünyaya<br/><br/>teoman ''kayıp bir bavul gibiyim havaalanında, ya da boş bir yüzme havuzu sonbaharda'' diyerek bana hitap ediyor.
   entry_channels: anket,müzik
@@ -54,7 +54,7 @@ data:
     seçimin 1. turda açık ve net biteceği görünüyor
   entry_id:  77616350
   entry_writer: eksi peace
-  entry_fav_count: 371
+  entry_fav_count: 376
   entry_content: |
     (bkz: <a class="b" href="/?q=t+a+m+a+m">t a m a m</a>)
   entry_channels: siyaset,haber
@@ -67,26 +67,10 @@ data:
     bir garip turkiye manzarasi.<br/><br/>rte'nin muharrem ince'yi elestirdigi konusmasindan sonra 2. ordu komutani alkisliyor.<br/><br/>rte'nin sozleri:<br/><br/>“çırağa dükkan teslim edilmez. siyasetin çıraklarına da türkiye emanet edilmez. siyasette hiçbir başarısı, hiçbir tecrübesi olmayanlara ülkenin yönetimini asla veremeyiz. kardeşlerim; girdiği her yarışı kaybedenlerin ne kendilerine, ne de milletimize verebilecekleri bir şey yoktur”<br/><br/>ardindan gelen <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/mob_video.php?id=8F818" title="https://odatv.com/mob_video.php?id=8F818">alkis</a><br/><br/>vesayeti yiktik diyenlerin haline bak.<br/><br/>ekleme: muharrem ince'den <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/988211/ince_cok_sert__Apoletlerini_sokecegim.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/988211/ince_cok_sert__Apoletlerini_sokecegim.html">cevap</a> gelmis.<br/><br/>muharrem ince :"onun apoletlerini sokecegim"
   entry_channels: siyaset,haber
 - entry_name: |
-    mini etekli bir kızın arkasından merdiven çıkmak
-  entry_id:  77626308
-  entry_writer: senin pezevenk enisten
-  entry_fav_count: 278
-  entry_content: |
-    baka baka çıkmakla sonuçlanmalıdır.<br/><br/>nitekim, bakmasanız da baktı derler.
-  entry_channels: anket,ilişkiler,moda
-- entry_name: |
-    muharrem ince'li super mario videosu
-  entry_id:  77633904
-  entry_writer: nuri alconun aile hekimi
-  entry_fav_count: 215
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>thank you çomar but our diplomasız is in another castle<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: siyaset,anket,oyun,teknoloji,haber
-- entry_name: |
     bakan fakıbaba'nın çok da şeyimde değil demesi
   entry_id:  77634385
   entry_writer: kolesistokinin
-  entry_fav_count: 208
+  entry_fav_count: 212
   entry_content: |
     hahahahaha.<br/><br/>ulan ülke resmen dingonun ahırı gibi. bakan çıkmış çok da şeyimde değil diyor.<br/><br/>olum nasıl bir ülke la cidden.yarın bir gün mitinglerde 'la akıllı ol sikerim yapacağın işi' 'hassiktir lan sen kimsin 'bekliyorum ben artık.
   entry_channels: siyaset,haber
@@ -94,7 +78,7 @@ data:
     askerlikte azar işitilen en yüksek rütbeli komutan
   entry_id:  77629754
   entry_writer: depara kalkan suvari
-  entry_fav_count: 185
+  entry_fav_count: 193
   entry_content: |
     tuğamiral. sigara içilmez denilen yerde sigara içiyordum, pencere açık olunca bütün duman obi odasına o da oradaymış pencereden kafasını çıkardı ben deniz sefil bilo gibi çökmüşüm. asker dedi sigarayı elim ile söndürdüm (öyle bir göt korkusu yok) <br/>- sigara mı içiyorsun burada<br/>- hayır komutanım, ağzımla yapıyorum hava soğuk biraz ( temmuz ayı)<br/>- seni ayağımın altına alır çiğnerdim ama koskoca amiral askerle uğraşıyor derler, defol dedi.
   entry_channels: anket
@@ -107,13 +91,29 @@ data:
     teknoloji her zaman yenilik getirir. yasalar ve düzenlemeler de her zaman bu yenilikler karşısında afallar. <br/><br/>mevcut düzenin rant sahipleri direnir fakat zaman onları kaybetmeye mahkum kılar. teknoloji ve yenilik her zaman kazanır. istisnası yoktur. <br/><br/>uber işi bitmedi. bütün türkiye’deki taksiciler tüm gelirlerini ve oylarını bu işe vakfetseler bile kazanamazlar.<br/><br/>örnek mi ? <br/>dünyanın dört büyük ve global müzik yapım şirketi , internetten <a class="b" href="/?q=m%c3%bczik">müzik</a> indirenlere savaş açtılar ve kaybettiler. şimdi kendileri internet üzerinden müzik dinletmek için yarışıyor. <br/><br/>türkiye’de yıllarca özel televizyonlar illegal yayın yaptı. yasal düzenlemesi yoktu. <br/><br/>keza internet ilk çıktığında yasal mıydı sanki ? uzun yıllar sürdü türkiye’de ilgili yasaların çıkması. <br/><br/><a class="b" href="/?q=twitter">twitter</a> ve <a class="b" href="/?q=youtube">youtube</a>’u yasakladı bu ülke geçmişte. youtube’u tarihinde yasaklamış 8 ülkeden biriyiz. fakat halen youtube’u en çok izleyen ülkelerden biriyiz. <br/><br/>şu anda <a class="b" href="/?q=wikipedia">wikipedia</a> yasaklı , <a class="b" href="/?q=paypal">paypal</a> yasaklı , <a class="b" href="/?q=booking.com">booking.com</a> yasaklı. peki soralım o zaman : kim kaybetti , kim kaybediyor , kim bitti ? <br/><br/>tanım : seçim yatırımıdır.
   entry_channels: siyaset,haber
 - entry_name: |
+    bir öğretmeni cumhurbaşkanı yapmanın yanlış olması
+  entry_id:  77641414
+  entry_writer: caqatay20
+  entry_fav_count: 139
+  entry_content: |
+    yine de en azından bir üniversite mezunu olmasıyla diğer adaylar karşısında avantaj sağlayabilir.
+  entry_channels: siyaset
+- entry_name: |
     ahaber'in röportaj için oyuncu kiralaması
   entry_id:  77633735
   entry_writer: musevvid
-  entry_fav_count: 130
+  entry_fav_count: 133
   entry_content: |
     ilk değildir. daha önce <a class="b" href="/?q=lord+eddard+stark">lord eddard stark</a> da oynamıştır.
   entry_channels: haber
+- entry_name: |
+    m. akşener'in yolunun çöp kamyonuyla kesilmesi
+  entry_id:  77637097
+  entry_writer: fiach mchugh
+  entry_fav_count: 130
+  entry_content: |
+    ne oluyor? ne yapıyorsunuz sayın a.k. partisi? ülkenin %55-60'ı muhalif., bu insanları aşağılayarak, ötekileştirerek çatışma dışında bir şey yaratamazsınız. neyin peşindesiniz? <br/>konvoydan birileri inip o kamyonu ateşe verse hakkı değil mi şimdi?
+  entry_channels: siyaset,haber
 - entry_name: |
     muharrem ince
   entry_id:  77622258
@@ -131,18 +131,10 @@ data:
     (bkz: <a class="b" href="/?q=rust+cohle">rust cohle</a>)<br/><br/>(bkz: <a class="b" href="/?q=true+detective">true detective</a>)
   entry_channels: anket,sinema
 - entry_name: |
-    m. akşener'in yolunun çöp kamyonuyla kesilmesi
-  entry_id:  77637097
-  entry_writer: fiach mchugh
-  entry_fav_count: 120
-  entry_content: |
-    ne oluyor? ne yapıyorsunuz sayın a.k. partisi? ülkenin %55-60'ı muhalif., bu insanları aşağılayarak, ötekileştirerek çatışma dışında bir şey yaratamazsınız. neyin peşindesiniz? <br/>konvoydan birileri inip o kamyonu ateşe verse hakkı değil mi şimdi?
-  entry_channels: siyaset,haber
-- entry_name: |
     3 haziran 2018 fenerbahçe seçimli genel kurulu
   entry_id:  77634336
   entry_writer: buralarda11
-  entry_fav_count: 115
+  entry_fav_count: 120
   entry_content: |
     hala gsliler ''bizim kongre çok iyi, herkes saygılı'' falan diyor. ulan 20 yıllık diktatörlüğü yıkmak kolay mı amuğa koyduklarım.
   entry_channels: spor
@@ -150,7 +142,7 @@ data:
     eski sevgilinin başkasıyla sevişiyor olması
   entry_id:  77632762
   entry_writer: akmasam da damlarim
-  entry_fav_count: 100
+  entry_fav_count: 111
   entry_content: |
     gelecekteki sevgilinin de şu aralar başkasıyla sevişiyor olmasıyla kapışır.
   entry_channels: anket,ilişkiler
@@ -158,26 +150,34 @@ data:
     tasma takıp kız gezdirmek
   entry_id:  77630746
   entry_writer: alicek
-  entry_fav_count: 86
+  entry_fav_count: 90
   entry_content: |
     (bkz: <a class="b" href="/?q=zengin+erkek+g%c3%b6r%c3%bcnce+feministler">zengin erkek görünce feministler</a>)
   entry_channels: ilişkiler
 - entry_name: |
+    muharrem ince ve danışmanlarına duyurular
+  entry_id:  77616535
+  entry_writer: solak kedi
+  entry_fav_count: 77
+  entry_content: |
+    l ü t f e n <br/><br/>t a y y i p<br/><br/>e r d o ğ a n<br/><br/>i l e<br/><br/>k i ş i s e l <br/><br/>p o l e m i ğ e<br/><br/>g i r m e y i n
+  entry_channels: siyaset,anket,haber
+- entry_name: |
     vergi kaçakçısı meslekler
   entry_id:  77629178
   entry_writer: exelancedj
-  entry_fav_count: 73
+  entry_fav_count: 74
   entry_content: |
     -taksiciler yıllık 2.220 tl,<br/>-halk otobüsü işletmeleri yıllık 1.004 tl,<br/>-kuyumcular yıllık 1.602 tl vergi ödüyor. <br/><br/>ödemesi gerekenin 200'de birini ödeyen meslekler bunlar. bu çakallara meydanı bırakmaya devam edecek adamı iktidara getirmeyin arkadaşlar, çoluğunuz çocuğunuz varsa getirmeyin.
   entry_channels: anket,ekonomi
 - entry_name: |
-    bir öğretmeni cumhurbaşkanı yapmanın yanlış olması
-  entry_id:  77641414
-  entry_writer: caqatay20
-  entry_fav_count: 71
+    avrupa yakası'ndaki sertaç
+  entry_id:  77634394
+  entry_writer: lobici
+  entry_fav_count: 59
   entry_content: |
-    yine de en azından bir üniversite mezunu olmasıyla diğer adaylar karşısında avantaj sağlayabilir.
-  entry_channels: siyaset
+    volkan'ın dert ortağı, çıplaklar kampının dj'i ve muhabbet adamıdır. kazandibini duble yer ve tavuk pilava bayılır. <br/><br/>rakı sofrasındaki ağırlığı ve bilgeliğiyle volkan'a ve tacettin'e sayısız kız kaçırma tavsiyesinde bulunmuştur. alttaki fotoğraf bunun kanıtı niteliğindedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/oVYA7Q.png">https://i.hizliresim.com/ovya7q.png</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgur.com/a/BKR74PM">https://imgur.com/a/bkr74pm</a><br/><br/>aynı zamanda girişimciliğin kitabını yazmıştır. hazır nane limon ve egzotik kokulu parmümlerin fikir babası olmasına rağmen korktuğu başına gelmiş ve ürünleri sanayi casusluğuna kurban gitmiştir. moşi moto gibi bir dünya markası yaratacakken çıplak fotomodellikle hayatını idame ettirmiştir.
+  entry_channels: tv
 - entry_name: |
     uçan tanka recep tayyip erdoğan'ın tepkisi
   entry_id:  77632726
@@ -187,18 +187,10 @@ data:
     rte’nin “seçilmeyip isveç’e balıkçı kasabasına mı yerleşsem lan acaba” diye düşündüğüne bahse girerim.
   entry_channels: siyaset,anket
 - entry_name: |
-    avrupa yakası'ndaki sertaç
-  entry_id:  77634394
-  entry_writer: lobici
-  entry_fav_count: 58
-  entry_content: |
-    volkan'ın dert ortağı, çıplaklar kampının dj'i ve muhabbet adamıdır. kazandibini duble yer ve tavuk pilava bayılır. <br/><br/>rakı sofrasındaki ağırlığı ve bilgeliğiyle volkan'a ve tacettin'e sayısız kız kaçırma tavsiyesinde bulunmuştur. alttaki fotoğraf bunun kanıtı niteliğindedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/oVYA7Q.png">https://i.hizliresim.com/ovya7q.png</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgur.com/a/BKR74PM">https://imgur.com/a/bkr74pm</a><br/><br/>aynı zamanda girişimciliğin kitabını yazmıştır. hazır nane limon ve egzotik kokulu parmümlerin fikir babası olmasına rağmen korktuğu başına gelmiş ve ürünleri sanayi casusluğuna kurban gitmiştir. moşi moto gibi bir dünya markası yaratacakken çıplak fotomodellikle hayatını idame ettirmiştir.
-  entry_channels: tv
-- entry_name: |
     bedelli askerlik
   entry_id:  77617116
   entry_writer: social strata
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     seçim sonrası demek hiçbir şey için söz vermiyoruz demek. buna inanıp oy verenlerin referandum öncesinde kandırılan kitleden farkı kalmaz. bu yasa için seçim sonrasını işaret etmek bekleyenleri tedirgin etmekten öte bir anlam taşımıyor.<br/><br/>oyunuzu ona göre verin. elinde yetki varken çıkarmıyorlar. bekleyenlerin gazını almaya yönelik açıklamalar bunlar.
   entry_channels: siyaset,haber,ekonomi
@@ -206,7 +198,7 @@ data:
     2 haziran 2018 muharrem ince malatya mitingi
   entry_id:  77640153
   entry_writer: muvaffakiyetsizlestirilememis kisi
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     türk tütününde zehir var da amerikan tütününde vitamin mi var?<br/><br/>ince ince döşüyor yiğidim!
   entry_channels: siyaset,haber
@@ -214,7 +206,7 @@ data:
     2 haziran 2018 lgs sınavı
   entry_id:  77626796
   entry_writer: amyreri ramazan
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     (bkz: <a class="b" href="/?q=liseye+giri%c5%9fi+s%c4%b1nav%c4%b1+s%c4%b1nav%c4%b1">liseye girişi sınavı sınavı</a>)
   entry_channels: eğitim
@@ -227,22 +219,6 @@ data:
     burdaki en aptalca ve komik şey ise kadınların bu konuda fikir belirtmesi. böyle bir hakkımız olmadığının farkına varın ve saçmalamayın lütfen.
   entry_channels: siyaset,haber
 - entry_name: |
-    2 haziran 2018 muharrem ince adıyaman mitingi
-  entry_id:  77636328
-  entry_writer: cultureshock
-  entry_fav_count: 37
-  entry_content: |
-    cumartesi cumartesi manyak gibi oturdum adamın mitinglerini takip ediyorum ya ahsdgashgdjak naptın bize başkan! adıyaman için baya iyi bir kalabalık var. <br/><br/>bunların hepsi fetöcü dedi. valla dedi.<br/><br/>bir de her mitingde aynı şeyleri söylüyor demeyin gözünüzü seveyim ya, tabi ki anlatacak her yerde, millet senin gibi 7/24 internetten takip etmiyor ki!
-  entry_channels: siyaset,haber
-- entry_name: |
-    bir erkeğin seksten daha çok hoşuna giden şey
-  entry_id:  77619981
-  entry_writer: carson wells
-  entry_fav_count: 31
-  entry_content: |
-    seks de iyidir;<br/>ama siz hiç 6 aydır üzerinde çalıştığınız tasarımın projesinde son 3 haftanızı dünyadan soyutlanarak geçirip, son gün gece 11:59'a kadar göndermeniz gereken teslimi gece 11:43'te gönderdiniz mi?<br/><br/>projeyi göndermek için farenin sol tuşuna bastığım anda etrafımdaki dünyanın kristal zerrelere dönüştüğünü ve uzay boşluğuna düştüğümü hissettim.<br/>bedenim fiziksel evrenden ayrılıp, farklı bilinç düzeylerine erişti ve gerçeğin ötesinde süzülmeye başladım.<br/>ardından dev bir kuzey afrika bataklık kertenkelesi yaklaştı ve kulağıma eğilip "bitti evlat" diye fısıldadı...<br/><br/>herhangi bir seks deneyimi bana bunu yaşatamamıştı şu ana kadar.<br/>teşekkürler, ispanyol granit tasarım yarışması...
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ali koç
   entry_id:  77625724
   entry_writer: neyapacaginibilemeyenadam
@@ -250,14 +226,6 @@ data:
   entry_content: |
     sahada dikiş yiyen alex’e vefa göstermeyen, nisan ayında şampiyon yapan ersun yanal’a vefa göstermeyen yönetim şimdilerde sizlerden vefa bekliyor. etme bulma dünyası diyip gülesi geliyor insanın.<br/>unutmayın oy kullanacak kongre üyeleri “en büyük vefa 20 yıllık başkana değil 111 yıllık çınaradır.” <br/>ali koç başkan fenerbahçe şampiyon!
   entry_channels: spor,siyaset,ekonomi
-- entry_name: |
-    ahaber'in başındaki a harfi
-  entry_id:  77638727
-  entry_writer: kral4fero
-  entry_fav_count: 24
-  entry_content: |
-    (bkz: <a class="b" href="/?q=twitter%27da+g%c3%b6r%c3%bcp+kendi+bulmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">twitter'da görüp kendi bulmuş gibi başlık açmak</a>)
-  entry_channels: siyaset,tv,haber
 - entry_name: |
     ismail metin temel
   entry_id:  77626383
@@ -267,14 +235,6 @@ data:
     ankara mamak 28.mekanizede tugay karargahta kısa dönem askerlik yaptım. metin temel komutanlarımızdan biriydi. yiğidi öldür hakkını yeme. o zaman da başarılıydı, afrinde de... ayrıca askerlerce sevilen bir paşaydı. ben de severdim kendisini ama bu yaptığı kabul edilebilir bir şey değil. muharrem ince belki senin komutanın olacak yiyorsa şu an üstüne giydirdiklerinde de alkışlasana.. zaten akp logosu olan yere katılmanız hata. askerlik kurumuna iyicene antipati uyandırıyorsunuz. kendisi ve milletimiz adına üzüldüm. askeriye ve hukuk siyasetten uzak olmalı.
   entry_channels: siyaset,tv,tarih,haber
 - entry_name: |
-    bir kadının seksten daha çok hoşuna giden şey
-  entry_id:  77615985
-  entry_writer: hancer79
-  entry_fav_count: 19
-  entry_content: |
-    sevişene kadar ki geçen zaman. <br/>hatun arzulanilmaktan o kadar çok hoşlaniyor ki sevismeyebilir mesela.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ahlat ağacı (film)
   entry_id:  77616328
   entry_writer: okac
@@ -282,6 +242,14 @@ data:
   entry_content: |
     filmi yaklaşık 2 senedir bekliyorduk. kurgusunun çok uzun sürdüğünü, bir türlü son halini alamadığını duyduk. <a class="b" href="/?q=cannes+film+festivali">cannes film festivali</a> dönemi ise iyiden iyiye konuşulmaya tartışılmaya başlandı.<br/><br/>ben bir <a class="b" href="/?q=nuri+bilge+ceylan">nuri bilge ceylan</a> hayranı olarak filmin cannes macerasını yakından takip etmeme rağmen ilk kez sinemada izleyeceğim bir filmle ilgili ne bir yazı okudum ne de filmin fragmanını izledim. filmle ilgili tek bildiğim şey yazar olmak isteyen bir gencin ailesinin yanına dönmesi ve memleketinde yaşadıklarıydı.<br/><br/>haliyle daha fazla geciktirmeden bugün ilk fırsatta da gidip izledim ve salondan burnumda acı bir sızıyla çıktım. <br/><br/>filmle ilgili yapacağım en kısa yorum şu şekilde olur: nuri bilge ceylan'ın <a class="b" href="/?q=waking+life">waking life</a>'ı. (ilerde bu yorumumu açacağım)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>film nuri bilge'nin önceki filmlerinden farklı konumda. kendisinin özellikle <a class="b" href="/?q=%c3%bc%c3%a7+maymun">üç maymun</a> sonrası dönemde yavaş yavaş diyaloga yöneldiği aşikar. özellikle <a class="b" href="/?q=k%c4%b1%c5%9f+uykusu">kış uykusu</a> ve ahlat ağacı'nı burada bir kenara ayırmak gerek çünkü bu iki film direkt diyalog üzerinden işliyor.<br/><br/>görebildiğim kadarıyla filme getirilen en büyük eleştiri filmin teknik konuda yaşadığı aksaklıklar ve yetersizlikler olarak sunulmuş. örnek olarak da kış uykusu'nda sağlanan büyüleyici görsel dil verilmiş. benim görüşüm kış uykusu'nun diyalog -veya monolog- yapısının görselliğe büyük olanak sağladığı yönünde. orada ana karakterimiz yaşlı bir tiyatrocuydu ve tartışmalar sıklıkla uzun tiratlara deviniyordu. o nedenle de bu tiratlar atılırken kamera camdaki yansımaya, dışarıdaki kara veya odada bulunan cisimlere odaklanabiliyordu. burada ise ana karakterimiz sinan üniversiteyi henüz bitirmiş, kendince belli doğruları olan ve bunları pervasızca söyleyebilen biri. ancak burda diyalogların yapısı daha 'git gel'li yani bir o karakterin bir karşısındakinin konuşması şeklinde görülüyor. bunun sebebi belki sinan'ın karşısındaki kişide aydın kadar saygı uyandırmıyor oluşu olabilir. bazen iki bazen üç kişinin aktif olarak dahil olduğu diyalog sahnelerini bu yüzden görsellikle süslemek biraz zor olmuş olabilir (ki ben bu konuda bir sorun görmüyorum). dikkatimi çeken tek sıkıntı yerel edebiyatçı (<a class="b" href="/?q=serkan+keskin">serkan keskin</a>) ile tartışma sahnesinde birkaç yerdeki kesmelerin çok göze batması oldu.<br/><br/>bazıları diyalogların kış uykusu kadar iyi ve yetkin olmadığını düşünmüş. orada herkesin çok sevdiği kısımlar genelde aydın-necla arası veya bir şekilde aydın'ın dahil olduğu diyaloglardı. bunda aydın'ın hitabet yeteneğinin çok kuvvetli olmasının (tiyatroculuktan gelen) ve <a class="b" href="/?q=haluk+bilginer">haluk bilginer</a>'in inanılmaz oyunculuğunun büyük etkisi var. burda ise tamamen taşra insanı üzerine kurulu bir film. o nedenle kış uykusu'ndaki derin anlamlı cümleleri beklemek absürt olur. ki buna rağmen din üzerine, edebiyat üzerine ve siyaset üzerine nuri bilge'nin daha önceki filmlerinden çok daha fazla eğiliyor bu film.<br/><br/>benim filmle ilgili en çok hoşuma giden nokta hikayenin anlatılış biçimi oldu. yukarda dediğim gibi film <a class="b" href="/?q=richard+linklater">richard linklater</a>'ın waking life'ına çok benziyor bu yönden. o filmde ana karakter uykuya dalıyor ve rüyasında soyut görüntüler eşliğinde din, bilim, evrim, hayat üzerine farklı farklı karakterlerle tartışıyordu. burada da yapı aynı şekilde kurulmuş.<br/><br/>sinan köyüne geliyor ve farklı insanlarla farklı konularda uzun uzun tartışıyor. hatice (<a class="b" href="/?q=hazar+erg%c3%bc%c3%a7l%c3%bc">hazar ergüçlü</a>) 'yi görüyor, onunla gelecekten ve hayattan beklentiler hakkında; aşk hakkında konuşuyor. yazar süleyman'ın yanına gidiyor taşra ve edebiyat hakkında konuşuyor. arkadaşıyla telefonda konuşuyor; onun hayatı ve kendi geleceği hakkında. imamlarla karşılaşıyor; dini, tanrı'yı, inanç kavramını ve ona duyulan ihtiyacı tartışıyor. kardeşiyle para mevzusunda tartışıyor. annesiyle onun geçmişte verdiği kararları, pişmanlıkları tartışıyor. film boyunca tartışmadığı tek kişi babası. bir yerde babası parayı onun çaldığını ima etmesi için sinan'ı zorluyor ama sinan orada bile tartışmak yerine arkasını dönüp gidiyor. bu iki şekilde okunabilir: ya babasını kırmak istemiyor ya da ondan öyle vazgeçmiş ki onunla yapacağı tartışmanın buna değmeyeceğini düşünüyor. belki de bi noktada babasına dönüşmekten korktuğu için onu görmezden gelmeyi yeğliyor. o yüzden de hep bir şekilde mesafeli duruyor babasına -dediklerini yapmıyor, söylediklerini ciddiye almıyor vs. ta ki filmin sonuna kadar. filmin sonunda kendisi için çok önemli olan kitabını sadece hiç kale almadığı babasının önemsediğini görüyor ve kendi içinde belki de onu bağışlıyor.<br/><br/>hikayenin anlatış biçiminin yanı sıra sisli atmosferler; kurumuş, dökülen sarı yapraklar; karlı dağlar; öyküden bağımsız gösterilen hiçbir karakterin olmadığı sessiz ve şiirsel sahneler (özellikle köpeğin yer aldığı) filme dair sevdiğim görsel detaylardı.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>nuri bilge ceylan hala iyi olmayan bir film çekmedi ve bizi bir kez bile olsun hayal kırıklığına uğratmadı. kendisine bizi bu kadar güzel anlattığı için çok teşekkür ediyorum. <br/><br/>not: biraz dağınık bir yazı olduğu için buraya kadar okumuş olanlardan özür dilerim.
   entry_channels: sanat,sinema,spoiler
+- entry_name: |
+    aziz yıldırım
+  entry_id:  77615949
+  entry_writer: psikopatkoala
+  entry_fav_count: 17
+  entry_content: |
+    galatasaray' ı şl de çeyrek finale çıkartıp,ligde de fb nin evinde şampiyonluk kupasını alan ünal aysal seçimle gittiğindebile fb taraftarı "aziz başkan gönderdi" "aziz başkanın gömdüğü bilmem kaçıncı gs başkanı" gibi saçma sapan şeylerle övünüyorlardı ki, ünal aysal ın başkanlığı döneminde aziz yıldırım'ı hem sahada hem de her demecinde yerin dibine sokmasına rağmen. normalde aziz in o dönem fb başkanlığını falan bırakıp,köyünde karpuz yetiştirmesi gerekirken, fb taraftarları aziz yıldırım a pay biçiyordu.<br/><br/>şimdi de yeter artık diyorlar. valla yetmez. umarım en az 10 yıl daha kalır da, siz de "6-0 yendik, aziz başkan bu galatasaray başkanını da postaladı" gibi ezikçe şeylerle oyalanırsınız. bu sırada galatasaray 5. yıldızı takmakla meşgul olacaktır tabi.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  77615685
@@ -294,7 +262,7 @@ data:
     vefa küçük
   entry_id:  77640187
   entry_writer: hidiv kayzeri
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     adam ortamı yumuşatmak için sağlığından, karısından, hastalığından, 1 saatlik uykusundan bahsediyor. amaç; ortamın yumuşaması. o kürsüye çıksa; heyecandan sesi çıkmayacak herifler, efsane bir adamla alay ediyor.
   entry_channels: spor
@@ -307,53 +275,85 @@ data:
     yazanlar şaka yapmıyorsa epey kalabalık bir grupmuşuz. kendimi yalnız hissetmeme gerek yokmuş. <br/><br/>gerçi ben bir kaç sene içinde 50'li yaşlar grubuna dahil olacağım ama bu grup devam ederse yıllar sonra huzurevinden entry gireriz.
   entry_channels: ekşi-sözlük
 - entry_name: |
+    detercan derhal uçurulsun kampanyası
+  entry_id:  77642285
+  entry_writer: celomania
+  entry_fav_count: 10
+  entry_content: |
+    bence 155'i arayalım dediğim kampanya.<br/><br/>(bkz: <a class="b" href="/?q=155%27i+ararun+ha">155'i ararun ha</a>)
+  entry_channels: ekşi-sözlük
+- entry_name: |
     itü'de atatürk portrelerinin çöpe atılması
   entry_id:  77639207
   entry_writer: travellerdaniel
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     (bkz: <a class="b" href="/?q=as%c4%b1rlard%c4%b1r+%c3%a7a%c4%9fda%c5%9f+bir+s%c3%bcredir+yanda%c5%9f">asırlardır çağdaş bir süredir yandaş</a>)<br/><br/>aylardır <a class="b" href="/?q=bunu+da+m%c4%b1+g%c3%b6recektik">bunu da mı görecektik</a> diyoruz diyoruz, adamlar hep gösterecek bir şey buluyorlar. <br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://ari24.com/haber/itu-kampusunde-copler-ataturk-portreleriyle-doldu-2036" title="http://ari24.com/haber/itu-kampusunde-copler-ataturk-portreleriyle-doldu-2036">arı24</a> <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bugün, itü ayazağa kampüsü'nde kimya metalurji fakültesi arkasında bulunan çöp konteynerlerında birçok atatürk portresi çöpe atılmış halde bulundu. portrelerin neden ve kim tarafından çöpe atıldığı ise bilinmiyor. atatürk portrelerinin yanında çöpe atılan bitirme posterlerinin kimya metalurji fakültesi'ne ait olması da, portrelerin bu fakülteden atılmış olma ihtimalini güçlendiriyor.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: siyaset,haber
 - entry_name: |
-    24 haziran'da tatava yapma ince ve hdp'ye bas geç
-  entry_id:  77639998
-  entry_writer: archebal
-  entry_fav_count: 8
-  entry_content: |
-    oyu ince'ye basabiliriz evet<br/><br/>hdp'nin de kıçına tekmeyi !
-  entry_channels: siyaset,anket
-- entry_name: |
-    ince aday olunca akşeneri unutan solcular
-  entry_id:  77641463
-  entry_writer: geri donen mektup
-  entry_fav_count: 7
-  entry_content: |
-    milliyetçiliği ege'nin denizine, kıbrıs'ın beşparmak dağlarına yazanların talebesi olan sayın muharrem ince'nin sapına kadar milliyetçi olduğunu bilmeyen yazar beyanatı. <br/>sayın ince'yi chp içerisindeki xezginci ve canancılarla karıştırmamak gerek. isteyen muharrem beyin eski meclis konuşmalarını dinleyebilir.<br/><br/>allah hem meral hanımın hem muharrem ve temel beylerin yollarını açık etsin.<br/><br/>not: akşenerspor.<br/><br/>(bkz: <a class="b" href="/?q=nifak+tohumlar%c4%b1">nifak tohumları</a>)
-  entry_channels: siyaset
-- entry_name: |
     chp'lilerin türk sağını sürekli aşağılaması
   entry_id:  77640809
   entry_writer: yani diyorum ki
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     türk sağı hırsız , yalancı , kayırmacı , talancı , suistimalci , talancı ,yağmacı, vandal , yıkıcı, faşist , saldırgan , ayrımcı , mandacı ,açgözlü , tüketici , bölücü , cahil , kompleksli şovendir. bin yerden bin kez kanıtlarım ; götü yiyen aksini söylesin , görelim .
+  entry_channels: siyaset,anket
+- entry_name: |
+    24 haziran'da hdp'ye oy veriyoruz kampanyası
+  entry_id:  77620217
+  entry_writer: master jimmy
+  entry_fav_count: 8
+  entry_content: |
+    emanet oyumu alıp, benim oyum ile meclise girdiğini bile bile üzerinden birkaç saat geçmeden öcalan'a teşekkür ederek o hakkını kaybetmiş terörist sevicilerin umutsuz hayali. biz sizi teröristler ile artık uğraşmayalım, muhattap olmayalım, insan gibi derdimizi mecliste tartışalım, medenileşelim diye meclise aldık, yeni nesil, barış nesli diye umutlar ile dolduk. sizin yaptıklarınız ise ortada. hala cumhuriyet ile, atatürk ile, türkiye ile sorunlarınız var. kaldı ki, chp'li olarak kılıçdaroğlu'nu desteklemeyen insanların desteğini almıştınız. şu an bırakın chp'de, diğer partilerde bile insanlar ince'yi desteklemekte. oyumuz ince'ye <a class="b" href="/?q=emanet">emanet</a> yani. güle güle.
   entry_channels: siyaset,anket
 - entry_name: |
     ip'in millet ittifakı zemininden kaydı açıklaması
   entry_id:  77640994
   entry_writer: 02
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     kardeş, muhalif seçmenin arasına nifak sokmak için kıçını yırtıyorsun ama nafile. <br/>bak sana şöyle söyleyeyim. eski mhp seçmeniyim. ilk turda iyi parti ve akşener'e oy vereceğim. velev ki bugün ittifak bozulsa. akşener, bahçeli gibi dönüş yapsa. dese ki 'nedamet getirdim. ben de erdoğan'a oy vereceğim...' <br/>ben yine de erdoğan'a vermeyeceğim.
   entry_channels: siyaset
 - entry_name: |
-    aziz yıldırım
-  entry_id:  77638594
-  entry_writer: mralemdar
+    gal gadot
+  entry_id:  77641704
+  entry_writer: second
+  entry_fav_count: 7
+  entry_content: |
+    güzel değil mi ? böyle gerizekalilara seda sayan müstahak amk. adam gal gadot'a çirkin dedi ya lan.
+  entry_channels: tv,sinema,moda,magazin
+- entry_name: |
+    ince aday olunca akşeneri unutan solcular
+  entry_id:  77641405
+  entry_writer: ahal
+  entry_fav_count: 5
+  entry_content: |
+    millet ittifakı nı bozmaya çalışanlara fırsat vermeyin arkadaşlar. defalarca söylendi ince yada akşener ikinci tura kim kalırsa desteklenecek bukadar net yahu. kim başkan olursa diğer yardımcısı olacak bukadar basit
+  entry_channels: siyaset
+- entry_name: |
+    bir açık oturumda rte'yi kızdıracak en kazık soru
+  entry_id:  77633412
+  entry_writer: zero limit
+  entry_fav_count: 5
+  entry_content: |
+    ilk turda kaydebederseniz, devir teslim törenine katılacak mısınız?
+  entry_channels: siyaset,anket
+- entry_name: |
+    24 haziran'da tatava yapma ince ve hdp'ye bas geç
+  entry_id:  77640541
+  entry_writer: zaireatasesijemalbumbo
+  entry_fav_count: 4
+  entry_content: |
+    ince neyse de kendisini patlatarak onlarca insanın ölümüne ve yaralanmasına neden olan bir orospu evladının taziyesine giden bir vekilin bulunduğu partiye niye oy vereyim?
+  entry_channels: siyaset,anket
+- entry_name: |
+    kilo verirken iradeyi en çok zorlayan yiyecek
+  entry_id:  77621003
+  entry_writer: marfar
   entry_fav_count: 3
   entry_content: |
-    ben hapsite olmasaydım, galatasaray burada kupa kaldıramazdı diyen yaratık. ne demek lan bu? mafya mısın sen? nesin olum sen? <br/><br/>(bkz: <a class="b" href="/?q=kuyruk+ac%c4%b1s%c4%b1">kuyruk acısı</a>)
-  entry_channels: spor
+    ben hiçbir diyete ve programa bağlı kalmadan 2,5 ayda 16 kilo verdiğim rejimimde bitter çikolatadan ayrı kaldığım kadar hiçbir şey koymadı.kokusunu bile arıyorum.<br/><br/>bitter çikolata beyni uyuşturuyor bana göre.sadece tek olarak da değil türk kahvesi ,nescafe,viski ile de gayet güzel gidiyor.<br/><br/>bu arada kilo vermek istiyorsanız 10 yıla yakın bir zaman diliminde spor ile beraber başladığım hiçbir programda başarılı olamadım.bu stres daha çok kilo almama sebep oldu.şeker ve ekmeği hayatınızdan çıkarmazsanız iş çok zor.öncesinde bunu başaramamıştım.<br/><br/>şeker ve şekerli her türlü gıdayı beslenme düzeninizden çıkartın.1 kaşık,1 kare aldatır.uzaklaşamazsınız.emin olun sonrasında her zamankinden daha az yorgun ve daha dinç hissedeceksiniz.hemde spor yapmadan...<br/><br/>bitter çikolatayı şekersiz,kalorisiz yapan bir firma var mıdır acaba...
+  entry_channels: anket,yeme-içme
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  77619716
@@ -379,6 +379,14 @@ data:
     helal olsun dediğim dayıdır. bu video'nun bir <a class="b" href="/?q=dollar+challenge">dollar challenge</a> olmasını ve benzeri dolar yakma eylemlerinin yaygınlaşmasını umuyorum. yüce rabbimin izniylen dolar yakarak gavurlara ve içimizdeki hayinlere gereken dersi verelim. bizi dolar kuru ile dize getiremezler!!!
   entry_channels: 
 - entry_name: |
+    akp osmanlı batarken ne yaptıysa aynısını yapıyor
+  entry_id:  77624499
+  entry_writer: corno di bassetto
+  entry_fav_count: 1
+  entry_content: |
+    akp döneminde bu batış 2x hızla oluyor yalnız. <br/><br/>yoksa bu batışı sadece akp'ye mal edemeyiz. adnan menderes zamanından başlayan bir batış bu.
+  entry_channels: siyaset,tarih,ekonomi
+- entry_name: |
     kayıp yusuf özcan'ı buluyoruz
   entry_id:  77615786
   entry_writer: ua1905
@@ -386,14 +394,6 @@ data:
   entry_content: |
     çık artık ortaya be yusuf. döndüm de yeter, yurdun dört bir yanından insanlar iyi haberini bekliyor bak.
   entry_channels: haber
-- entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  77626394
-  entry_writer: senin pezevenk enisten
-  entry_fav_count: 0
-  entry_content: |
-    giresun ama ködverenler uzak dursun... her yanı sarmışlar.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     bilinçaltınız neye takıntılı testi
   entry_id:  77639226
