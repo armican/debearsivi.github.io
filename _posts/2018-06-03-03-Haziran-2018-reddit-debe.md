@@ -158,11 +158,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Schwarzenegger mocks Trump on coal bailout: Protect pagers, Blockbuster too
-  entry_id: 8nuvgp
-  entry_content: |
-    <img src=https://i.redditmedia.com/ivUSb4ONQfq3c_WwlJe4WjV8QvrRjxZFCEjUqZDCK8A.jpg?s=e407385fa51660cc23ced44abd60983c frameborder=0>
-- entry_name: |
     Mauser
   entry_id: 8nwpuz
   entry_content: |
@@ -177,11 +172,6 @@ data:
   entry_id: 8nxzfz
   entry_content: |
     <img src=https://i.redditmedia.com/Ic2se0dgqYAfltZMMKCb0Kzc0n8RDXuGqs48OAIJor4.jpg?s=4ff2fa8a210f53530ba1b1971e53f37d frameborder=0>
-- entry_name: |
-    Adding the dinosaur filter while singing happy birthday to their dad and it went horribly wrong
-  entry_id: 8nuxzx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFemaleForthrightFinch&url=https%3A%2F%2Fgfycat.com%2Ffemaleforthrightfinch&image=https%3A%2F%2Fthumbs.gfycat.com%2FFemaleForthrightFinch-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=324 height=640 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Quality Educational Programming
   entry_id: 8nzucp
@@ -218,11 +208,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZzSBiKZn0niY260EMMh526WxwYaTXfpFYATs8ec4VeQ.jpg?s=83fdea06dd90e75b2811ab4f871aaedf frameborder=0>
 - entry_name: |
-    Donald is Mine. Chosen Divine!
-  entry_id: 8nuwi3
-  entry_content: |
-    <img src=https://i.redditmedia.com/ryMAy_z76-Ksyybm5PnQh3ZMoUfnq3ppTvFDwoTzxCs.png?s=2070c02c0f4e7fba5315b9ea02d2b390 frameborder=0>
-- entry_name: |
     Hydraulic press vs ballistic gel
   entry_id: 8nxq7f
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8nzu14
   entry_content: |
     <img src=https://i.redditmedia.com/aJUhIf9BibYsWxr6ehQsdrYXeuzMX8uyHaYgbDof_Hg.jpg?s=253f521981c33b478bab1bc66e319773 frameborder=0>
+- entry_name: |
+    Trying to hide the food
+  entry_id: 8nxrmp
+  entry_content: |
+    <iframe src=https://v.redd.it/xdukpz3x6i111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    This Android Boot Animation
+  entry_id: 8o0eg4
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBlandSlowBeaver&url=https%3A%2F%2Fgfycat.com%2Fblandslowbeaver&image=https%3A%2F%2Fthumbs.gfycat.com%2FBlandSlowBeaver-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=400 height=300 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8nydiq
+  entry_content: |
+    <img src=https://i.redditmedia.com/1tpaVVY9c2f6M_MIu7MmViGCIKUcDod0TVx-1_aCOTk.jpg?s=20c6ee14ad2ea25d81f953996f7d1eee frameborder=0>
 ---
