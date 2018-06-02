@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7y-CbkQ3IKzeL23is8tZX6qZjTu-H3ArHjmMPlaMXOE.jpg?s=7e9026026f57d0f57371eed9a15abaca frameborder=0>
 - entry_name: |
-    TIL Inattentional deafness is when someone is concentrating on a visual task like reading, playing games, or watching television and are unresponsive to you talking, they aren't ignoring you necessarily, they may not be hearing you at all.
-  entry_id: 8nucuh
-  entry_content: |
-    <img src=https://i.redditmedia.com/xGqzSv8kuTZtCs6dggjkVil2hA72Ak1oPlDxOPDI64w.jpg?s=fe9cf43e4aabc7f7e04665eec0555f84 frameborder=0>
-- entry_name: |
     “I will fits and I will sits!”
   entry_id: 8nuu1n
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8ny2hz
   entry_content: |
     <img src=https://i.redditmedia.com/Cf-1HAqEnGQFMtoB6VjZqPVGEBAD-rmFgj26E2Jonc4.jpg?s=4f91f56f169133004b6da6e78d826e54 frameborder=0>
+- entry_name: |
+    Wholesome r/AskReddit
+  entry_id: 8nzw5l
+  entry_content: |
+    <img src=https://i.redditmedia.com/9oKptSxRpAVoNO7r06xjztOGovQcQrp5A6259J1r154.jpg?s=51712f5013a35aa0156a6bee6a05445c frameborder=0>
 ---
