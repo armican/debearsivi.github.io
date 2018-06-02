@@ -38,20 +38,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fw4fePjGdU5pqu5H8PVbHtb74QHroS2yg7KCmHD8bd4.jpg?s=96df8f8af230902c4cd2bdb6abc404af frameborder=0>
 - entry_name: |
-    “I will fits and I will sits!”
-  entry_id: 8nuu1n
-  entry_content: |
-    <iframe src=https://v.redd.it/kq4em1y9cf111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     A couple blocks from E3 convention center. I’ll keep this updated. Stay tuned!
   entry_id: 8nvu8a
   entry_content: |
     <img src=https://i.redditmedia.com/TPPwQjds9myqodO27lnk1WEXRpwYuf6bR1hwGaWS1mY.jpg?s=11a07db91903e6cb4abb2a675f9de4d9 frameborder=0>
-- entry_name: |
-    JerryRigEverything reveals a ridiculous flaw in a $100 crowdfunded smart lock
-  entry_id: 8nuqfq
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/RxM55DNS9CE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     I'd watch it
   entry_id: 8nx8rk
@@ -168,11 +158,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Little moments like these, are why Borderlands 2 is and will be my favourite game forever <3
-  entry_id: 8nupvp
-  entry_content: |
-    <img src=https://i.redditmedia.com/1yBjzbI58ilQGFogiGM6a3gzIrOFx80bppzrD9Rlaus.png?s=aae50afb470bd6f8f6cb3a6b06f76933 frameborder=0>
-- entry_name: |
     Schwarzenegger mocks Trump on coal bailout: Protect pagers, Blockbuster too
   entry_id: 8nuvgp
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8o074l
   entry_content: |
     null
+- entry_name: |
+    Harvest Mice love the smell of pollen and often fall asleep inside flowers
+  entry_id: 8ny2hz
+  entry_content: |
+    <img src=https://i.redditmedia.com/Cf-1HAqEnGQFMtoB6VjZqPVGEBAD-rmFgj26E2Jonc4.jpg?s=4f91f56f169133004b6da6e78d826e54 frameborder=0>
+- entry_name: |
+    meirl
+  entry_id: 8nz8ct
+  entry_content: |
+    <img src=https://i.redditmedia.com/K4QhUnLSYS0CL1XxROtJh1urAKJKlslql95XIqN1TDs.jpg?s=966fadcdbf128146e1ab89ff28c6abe5 frameborder=0>
+- entry_name: |
+    PsBattle: Armenian seniors about to get pretty mad
+  entry_id: 8nzu14
+  entry_content: |
+    <img src=https://i.redditmedia.com/aJUhIf9BibYsWxr6ehQsdrYXeuzMX8uyHaYgbDof_Hg.jpg?s=253f521981c33b478bab1bc66e319773 frameborder=0>
 ---
