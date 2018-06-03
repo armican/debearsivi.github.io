@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6S0kSORSrqH2FRYFOFeIukpfjpWZ4DF9EMEF4Vn-cGE.jpg?s=ad82b2222ff8db7c586e0d9e4c81f122 frameborder=0>
 - entry_name: |
-    VLC is the true MVP
-  entry_id: 8o2ysi
-  entry_content: |
-    <img src=https://i.redditmedia.com/kSB-pD94sAVzMYvndRtvRIiTzoYwrIdJSfcBGwVNsCI.jpg?s=9bcd646120d6cbfacf2d245889eb6d82 frameborder=0>
-- entry_name: |
     Interesting paintwork
   entry_id: 8o534d
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8o3lze
   entry_content: |
     <img src=https://i.redditmedia.com/CoGv8FFw7GOlokgQmz8-6nLfJjpY6TRrwWX1I2C-0DA.jpg?s=879465a49618aad84879c865ada9cd4a frameborder=0>
+- entry_name: |
+    Back in our day...
+  entry_id: 8o5402
+  entry_content: |
+    <img src=https://i.redditmedia.com/kaTiUiy3IaVSCPb_CZTXrNbDI0h-bsFsldLzvsAh660.jpg?s=7a23b891f91cf5ceec8b4ef3a6010b00 frameborder=0>
 ---
