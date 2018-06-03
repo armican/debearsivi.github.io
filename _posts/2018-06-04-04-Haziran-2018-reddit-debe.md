@@ -53,20 +53,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7ntu2idv2p111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Over the last 5 years I have painted over 50 utility boxes around New Zealand - this is my newest one, in a ski resort town (Taupō)
-  entry_id: 8o33rh
-  entry_content: |
-    <img src=https://i.redditmedia.com/P3zrj0lrxsuU5E_aV-v-eurrrrdaDZUuzQtm-vpC6SI.jpg?s=f14cc3956bd4a325c89acb89359f63c2 frameborder=0>
-- entry_name: |
     Humpback whale breaching up close
   entry_id: 8o66y9
   entry_content: |
     <iframe src=https://v.redd.it/dc1dlbszjp111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Black Labrador two months after birth.
-  entry_id: 8o331i
-  entry_content: |
-    <img src=https://i.redditmedia.com/cEET2mA5DHNmP8nxRa26ggZchWAbD3z8BikFanbb9cQ.jpg?s=6c5de9bc0643f0a57fdfa1fa2be075b2 frameborder=0>
 - entry_name: |
     The largest wildfire in California's modern history is finally out, more than 6 months after it started
   entry_id: 8o4042
@@ -212,20 +202,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qOOZ6sy-qDfV2MYGWxuPrDAT_P7qYzhQh7tAKS4Yx2w.png?s=ce694e67ae98d7428d744755ff57ef5e frameborder=0>
 - entry_name: |
-    I got her number and then she sent me... this.
-  entry_id: 8o520y
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gib2RNNBm30Xte3TpN67tXkvgnkZc_uxik-i7HRZFBg.jpg?s=5da9cd670ce6a2c42310ddb4b8b40778 frameborder=0>
-- entry_name: |
     PsBattle: This woman who put expanding foam instead of mousse in her hair
   entry_id: 8o4o0p
   entry_content: |
     <img src=https://i.redditmedia.com/Z648PqynF1_GpOnxPscLRI4oQxCvzWsHb86Mj3j69aM.jpg?s=569c99f7a1803a60c840b1c6a095513c frameborder=0>
-- entry_name: |
-    J.R. Smith runs out the clock and then keeps running
-  entry_id: 8o32xv
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2F39w2h&url=https%3A%2F%2Fstreamable.com%2F39w2h&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2F39w2h_1.jpg%3Ftoken%3DWJwAFCWLqxE6zJqUXaz3Ag%26expires%3D1527976024&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     RIP Bam Margera
   entry_id: 8o4mgt
@@ -251,4 +231,24 @@ data:
   entry_id: 8o5402
   entry_content: |
     <img src=https://i.redditmedia.com/kaTiUiy3IaVSCPb_CZTXrNbDI0h-bsFsldLzvsAh660.jpg?s=7a23b891f91cf5ceec8b4ef3a6010b00 frameborder=0>
+- entry_name: |
+    The heat is melting the traffic lights in my town
+  entry_id: 8o4gjb
+  entry_content: |
+    <img src=https://i.redditmedia.com/rnotTC_n3hMWAckRTA_2euDnHvWqql2JW09VnFk4Q4A.jpg?s=4f9ad34e3fe9cb1f55d0212b06131e51 frameborder=0>
+- entry_name: |
+    I heard you guys liked my last Star Wars foil, behold the falcon!
+  entry_id: 8o41yt
+  entry_content: |
+    <iframe src=https://v.redd.it/3fy3kzytwn111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Lightning struck this fishing rod .
+  entry_id: 8o3r2m
+  entry_content: |
+    <img src=https://i.redditmedia.com/4roSrI72lTWYUXTBMOxUsUsWQwoSchptaJDhQpw-X5E.jpg?s=49b6d95367cb15c53d248b05fae13a50 frameborder=0>
+- entry_name: |
+    GoT uses special effects to make Dinklage look smaller
+  entry_id: 8o6r4y
+  entry_content: |
+    <img src=https://i.redditmedia.com/qmuApXj71a7eQkee-1jbEvAnhHZ2UIR2UmxSZrhNn6A.png?s=325adff9470c6e13580fcc7a8009b0d1 frameborder=0>
 ---
