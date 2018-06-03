@@ -142,11 +142,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/orXVbUGEpCo9fzjnV1CnBtK3-5MpDggwM2g6Z9NZPMc.jpg?s=215e656ca08af4cb13cb8d075ae710af frameborder=0>
 - entry_name: |
-    Digging imitating his human.
-  entry_id: 8o2bfp
-  entry_content: |
-    <iframe src=https://v.redd.it/5nsfm3tkmm111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Milk makes your body Rock hard.
   entry_id: 8o5blm
   entry_content: |
@@ -206,20 +201,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XYgD4yVmhQLhhAdJpJfPFntF6gYaPjO0TMTRBuuYOW4.jpg?s=d0928554d57cf9d87d1b715eeffb83fc frameborder=0>
 - entry_name: |
-    LPT: Ejaculate big words into your sentences to sound smarter, even if you don’t know what they mean.
-  entry_id: 8o2ahm
-  entry_content: |
-    null
-- entry_name: |
     TIL: a group of audiophiles were unable to tell the difference between music transmitted over monster cables vs a coat hanger.
   entry_id: 8o4tfu
   entry_content: |
     <img src=https://i.redditmedia.com/VoIFil0e6Cb6V0goR0NebrnCfYGlh0QHy_CLXOA80NA.jpg?s=dfa1c9f76bf4cc3944d43501a60f572f frameborder=0>
-- entry_name: |
-    During the filming of Attack Of The Clones, Natalie Portman and Hayden Christensen, in their scenes together, played a prank on George Lucas by pretending they had never acted before. Lucas loved the prank so much, he ended up using most of the footage in the final cut.
-  entry_id: 8o2bqa
-  entry_content: |
-    <img src=https://i.redditmedia.com/QpETan-Zd4I3jsCdt2BuyZL0fQO4KeSJM6vh3aR7VHQ.jpg?s=9153d0dea2efb92b2c6d83e6d34b09f8 frameborder=0>
 - entry_name: |
     I got her number and then she sent me... this.
   entry_id: 8o520y
@@ -250,4 +235,19 @@ data:
   entry_id: 8o4o0p
   entry_content: |
     <img src=https://i.redditmedia.com/Z648PqynF1_GpOnxPscLRI4oQxCvzWsHb86Mj3j69aM.jpg?s=569c99f7a1803a60c840b1c6a095513c frameborder=0>
+- entry_name: |
+    Self-driving cars will kill people and we need to accept that - Early iterations of the autonomous vehicle may result in some loss of life, but even our most underdeveloped models will most likely be an improvement over a human driver’s ability.
+  entry_id: 8o3lze
+  entry_content: |
+    <img src=https://i.redditmedia.com/CoGv8FFw7GOlokgQmz8-6nLfJjpY6TRrwWX1I2C-0DA.jpg?s=879465a49618aad84879c865ada9cd4a frameborder=0>
+- entry_name: |
+    Back in our day...
+  entry_id: 8o5402
+  entry_content: |
+    <img src=https://i.redditmedia.com/kaTiUiy3IaVSCPb_CZTXrNbDI0h-bsFsldLzvsAh660.jpg?s=7a23b891f91cf5ceec8b4ef3a6010b00 frameborder=0>
+- entry_name: |
+    The Swiss army recreating a Star Wars scene
+  entry_id: 8o5ti3
+  entry_content: |
+    <iframe src=https://v.redd.it/y0sxwz29no111/DASH_1_2_M frameborder=0></iframe>
 ---
