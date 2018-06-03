@@ -216,11 +216,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VoIFil0e6Cb6V0goR0NebrnCfYGlh0QHy_CLXOA80NA.jpg?s=dfa1c9f76bf4cc3944d43501a60f572f frameborder=0>
 - entry_name: |
-    Peekaboo!
-  entry_id: 8o7p9w
-  entry_content: |
-    <img src=https://i.redditmedia.com/bJbLQLRPxstXNQpHsL-110aemgIAsswaa0oEP_nQWgw.gif?fm=jpg&s=8f098880182d318d8f59a98abf0191ed frameborder=0>
-- entry_name: |
     During the filming of Attack Of The Clones, Natalie Portman and Hayden Christensen, in their scenes together, played a prank on George Lucas by pretending they had never acted before. Lucas loved the prank so much, he ended up using most of the footage in the final cut.
   entry_id: 8o2bqa
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8o4mgt
   entry_content: |
     <img src=https://i.redditmedia.com/orD9BI3TInrUbNJlHq0rzI9OwjkWOUpHjg_hq4pJGnE.jpg?s=4c60bdea054eabf285a76a7945720e05 frameborder=0>
+- entry_name: |
+    PsBattle: This woman who put expanding foam instead of mousse in her hair
+  entry_id: 8o4o0p
+  entry_content: |
+    <img src=https://i.redditmedia.com/Z648PqynF1_GpOnxPscLRI4oQxCvzWsHb86Mj3j69aM.jpg?s=569c99f7a1803a60c840b1c6a095513c frameborder=0>
 ---
