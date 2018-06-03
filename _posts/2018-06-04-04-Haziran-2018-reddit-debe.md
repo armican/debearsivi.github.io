@@ -13,6 +13,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ka5ql0hv9p111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Unfriendly reminder that UC Davis paid >$100k to remove this photo from the internet. Let’s not forget the pepper spray incident.
+  entry_id: 8o8ixe
+  entry_content: |
+    <img src=https://i.redditmedia.com/0Z43_FZ_opfxlEzMwyDm5AU-sL7pfWwyTnRmroo_mxY.jpg?s=b0b82aaf4eb585aa698754cd27d8fa0d frameborder=0>
+- entry_name: |
     The close-up of the Andromeda Galaxy from the Hubble Space Telescope shows how many stars there really are.
   entry_id: 8o59w7
   entry_content: |
@@ -23,15 +28,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WgWzNmaXjaSBgUJLD85lBTMuzbt3ZZkE5XGuyCjm9eI.jpg?s=790603124904128a01a25940a771b70a frameborder=0>
 - entry_name: |
-    Unfriendly reminder that UC Davis paid >$100k to remove this photo from the internet. Let’s not forget the pepper spray incident.
-  entry_id: 8o8ixe
-  entry_content: |
-    <img src=https://i.redditmedia.com/0Z43_FZ_opfxlEzMwyDm5AU-sL7pfWwyTnRmroo_mxY.jpg?s=b0b82aaf4eb585aa698754cd27d8fa0d frameborder=0>
-- entry_name: |
     Being shot with an arrow is basically being long-distance stabbed.
   entry_id: 8o3xu4
   entry_content: |
     null
+- entry_name: |
+    This diner has pictures around corners
+  entry_id: 8o7kka
+  entry_content: |
+    <img src=https://i.redditmedia.com/ODfjbHpgaUkvQr5I4BL-umM9wuxjAwwS4psybILnMRg.jpg?s=f9762cdcc0adc901d12cad70594bea74 frameborder=0>
 - entry_name: |
     My dad just got a Facebook account then asked me to take a pic with his Granddog for his profile
   entry_id: 8o4kz1
@@ -43,40 +48,35 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTemptingExcellentIchthyosaurs&url=https%3A%2F%2Fgfycat.com%2FTemptingExcellentIchthyosaurs%3Frepost&image=https%3A%2F%2Fthumbs.gfycat.com%2FTemptingExcellentIchthyosaurs-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    This diner has pictures around corners
-  entry_id: 8o7kka
-  entry_content: |
-    <img src=https://i.redditmedia.com/ODfjbHpgaUkvQr5I4BL-umM9wuxjAwwS4psybILnMRg.jpg?s=f9762cdcc0adc901d12cad70594bea74 frameborder=0>
-- entry_name: |
     How to legalize a Ewan McGregor photo.
   entry_id: 8o4oqk
   entry_content: |
     <iframe src=https://v.redd.it/dn1mpo8teo111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Over the last 5 years I have painted over 50 utility boxes around New Zealand - this is my newest one, in a ski resort town (Taupō)
-  entry_id: 8o33rh
-  entry_content: |
-    <img src=https://i.redditmedia.com/P3zrj0lrxsuU5E_aV-v-eurrrrdaDZUuzQtm-vpC6SI.jpg?s=f14cc3956bd4a325c89acb89359f63c2 frameborder=0>
 - entry_name: |
     Shopping: Men vs Women
   entry_id: 8o5gyr
   entry_content: |
     <iframe src=https://v.redd.it/7ntu2idv2p111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Over the last 5 years I have painted over 50 utility boxes around New Zealand - this is my newest one, in a ski resort town (Taupō)
+  entry_id: 8o33rh
+  entry_content: |
+    <img src=https://i.redditmedia.com/P3zrj0lrxsuU5E_aV-v-eurrrrdaDZUuzQtm-vpC6SI.jpg?s=f14cc3956bd4a325c89acb89359f63c2 frameborder=0>
+- entry_name: |
     Black Labrador two months after birth.
   entry_id: 8o331i
   entry_content: |
     <img src=https://i.redditmedia.com/cEET2mA5DHNmP8nxRa26ggZchWAbD3z8BikFanbb9cQ.jpg?s=6c5de9bc0643f0a57fdfa1fa2be075b2 frameborder=0>
 - entry_name: |
-    The largest wildfire in California's modern history is finally out, more than 6 months after it started
-  entry_id: 8o4042
-  entry_content: |
-    <img src=https://i.redditmedia.com/mvNZsnNYAyJniXw_zirzpRgPIODk-9nRntYO8lZaiSY.jpg?s=75db94e6f2be97fc75368b76b88df5c3 frameborder=0>
-- entry_name: |
     Humpback whale breaching up close
   entry_id: 8o66y9
   entry_content: |
     <iframe src=https://v.redd.it/dc1dlbszjp111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The largest wildfire in California's modern history is finally out, more than 6 months after it started
+  entry_id: 8o4042
+  entry_content: |
+    <img src=https://i.redditmedia.com/mvNZsnNYAyJniXw_zirzpRgPIODk-9nRntYO8lZaiSY.jpg?s=75db94e6f2be97fc75368b76b88df5c3 frameborder=0>
 - entry_name: |
     Got to the UPS store before they opened, they missed their FedEx delivery.
   entry_id: 8o417z
@@ -93,35 +93,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kSB-pD94sAVzMYvndRtvRIiTzoYwrIdJSfcBGwVNsCI.jpg?s=9bcd646120d6cbfacf2d245889eb6d82 frameborder=0>
 - entry_name: |
+    LPT: If you find yourself wasting too much time on Reddit then try this. As soon as you're on Reddit, directly scroll down to the post number that you think you should stop at, then leisurely browse upward from that post. You're less likely to continue when there's nowhere left to go after post 1.
+  entry_id: 8o7u4j
+  entry_content: |
+    null
+- entry_name: |
     Interesting paintwork
   entry_id: 8o534d
   entry_content: |
     <iframe src=https://v.redd.it/23514c8vqo111/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    TIL that J.R.R. Tolkien. once received a goblet from a fan inscribed with One Ring to Rule Them All... inscribed on the rim in black speech. Tolkien never drank out of it, since it was written in an accursed language, and instead used it as an ashtray.
-  entry_id: 8o2igb
-  entry_content: |
-    <img src=https://i.redditmedia.com/pU1nUrW9ObdCfmuYC4h8ms7Cd7c5IdaAkLVplsR9Hvc.jpg?s=7be6899a3f414137def0479c6291d26a frameborder=0>
-- entry_name: |
-    Here we go!
-  entry_id: 8o2t82
-  entry_content: |
-    <img src=https://i.redditmedia.com/x2RSecqVRnCLXBL9qnvDJxpPolN3A6Hl2Yd5slIRchk.jpg?s=87fea14a5843c8cd20bbcf44ef1eacc9 frameborder=0>
 - entry_name: |
     Many of us can relate.
   entry_id: 8o4hoh
   entry_content: |
     <iframe src=https://v.redd.it/dl4v4yv19o111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    LPT: If you find yourself wasting too much time on Reddit then try this. As soon as you're on Reddit, directly scroll down to the post number that you think you should stop at, then leisurely browse upward from that post. You're less likely to continue when there's nowhere left to go after post 1.
-  entry_id: 8o7u4j
+    Here we go!
+  entry_id: 8o2t82
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/x2RSecqVRnCLXBL9qnvDJxpPolN3A6Hl2Yd5slIRchk.jpg?s=87fea14a5843c8cd20bbcf44ef1eacc9 frameborder=0>
 - entry_name: |
     The creators of Kirby with their own sketch of him
   entry_id: 8o7se2
   entry_content: |
     <img src=https://i.redditmedia.com/6S0kSORSrqH2FRYFOFeIukpfjpWZ4DF9EMEF4Vn-cGE.jpg?s=ad82b2222ff8db7c586e0d9e4c81f122 frameborder=0>
+- entry_name: |
+    i spent half an hour painting a Charizard in a mango. what has my life come to
+  entry_id: 8o6pq5
+  entry_content: |
+    <img src=https://i.redditmedia.com/C6hakTzOdvey8fdGUI3zy6-901lOTql3BGHaaZIhE7I.png?s=47b84dda9d61a412fc012d19313a8bf8 frameborder=0>
+- entry_name: |
+    Slave to the rhythm
+  entry_id: 8o7hh2
+  entry_content: |
+    <img src=https://i.redditmedia.com/_KtMEniY4Jwr8kMl25tMtZ8-lNr-7p9P4PZ-_-GDt1c.jpg?s=0f10730bbe1cc10e9e69a4142908700c frameborder=0>
 - entry_name: |
   entry_id: 8o5hxg
   entry_content: |
@@ -131,11 +136,6 @@ data:
   entry_id: 8o4stp
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/2s4GMLkTNv0?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    i spent half an hour painting a Charizard in a mango. what has my life come to
-  entry_id: 8o6pq5
-  entry_content: |
-    <img src=https://i.redditmedia.com/C6hakTzOdvey8fdGUI3zy6-901lOTql3BGHaaZIhE7I.png?s=47b84dda9d61a412fc012d19313a8bf8 frameborder=0>
 - entry_name: |
     France warns US it has one week to avoid trade war
   entry_id: 8o41k7
@@ -147,29 +147,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MT0Vu1YlDU8FfVdtQClrhSPCYTBnqpZUb2iUz0MEyi8.gif?fm=jpg&s=b8fd12153fda8963c4255512fe8f0f77 frameborder=0>
 - entry_name: |
+    Jesus breakdancing to impress his friends
+  entry_id: 8o6k1y
+  entry_content: |
+    <img src=https://i.redditmedia.com/-0KW64EPNRS4ztdHuveJMwiNpTOFL0vlZWhGKgKg2Tw.jpg?s=e246d02c1415a38b1ad1471baa50ff51 frameborder=0>
+- entry_name: |
     As many have liked my Cumberbatch post, I'd love to show... Nicolas Cage!
   entry_id: 8o3vji
   entry_content: |
     <img src=https://i.redditmedia.com/YTweUxBGlfUjT2jqOAct8pQcmeBfA6_9782YZ4Q4wLY.jpg?s=39501b2f55d41083ff2fd912a90f77ef frameborder=0>
-- entry_name: |
-  entry_id: 8o2myr
-  entry_content: |
-    null
 - entry_name: |
     I don't think I could imagine my life without this little guy, and the way he looks at me when I don't even have food.
   entry_id: 8o53f1
   entry_content: |
     <img src=https://i.redditmedia.com/LGUzb4hDsHQHFeT4tcT6XiZqMr5QhHh_rzDdQWe20-E.jpg?s=137e10b63c890bf4dea0d49d3088017e frameborder=0>
 - entry_name: |
-    Jesus breakdancing to impress his friends
-  entry_id: 8o6k1y
+  entry_id: 8o2myr
   entry_content: |
-    <img src=https://i.redditmedia.com/-0KW64EPNRS4ztdHuveJMwiNpTOFL0vlZWhGKgKg2Tw.jpg?s=e246d02c1415a38b1ad1471baa50ff51 frameborder=0>
+    null
 - entry_name: |
-    Slave to the rhythm
-  entry_id: 8o7hh2
+    Sun reflecting perfectly on railroad tracks
+  entry_id: 8o7lah
   entry_content: |
-    <img src=https://i.redditmedia.com/_KtMEniY4Jwr8kMl25tMtZ8-lNr-7p9P4PZ-_-GDt1c.jpg?s=0f10730bbe1cc10e9e69a4142908700c frameborder=0>
+    <img src=https://i.redditmedia.com/emxh4V-MF95ENDyCqIzt3kNpyHHWIok3_gQR8RNHyYs.jpg?s=f3527bbfe63b7bfac731611fe050e5b7 frameborder=0>
 - entry_name: |
     I ..uhm.. concluded Rose's arc
   entry_id: 8o45lz
@@ -181,11 +181,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/pu0k2whqzn111/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Sun reflecting perfectly on railroad tracks
-  entry_id: 8o7lah
-  entry_content: |
-    <img src=https://i.redditmedia.com/emxh4V-MF95ENDyCqIzt3kNpyHHWIok3_gQR8RNHyYs.jpg?s=f3527bbfe63b7bfac731611fe050e5b7 frameborder=0>
-- entry_name: |
     hmmm
   entry_id: 8o41y1
   entry_content: |
@@ -195,6 +190,16 @@ data:
   entry_id: 8o3tbe
   entry_content: |
     <img src=https://i.redditmedia.com/iAq4e9T--nCNgcxBX-o3MyqR-1ZpXBx4NsJd2F7D2xY.jpg?s=6bbe47833405be25a9f9736dd15bce6a frameborder=0>
+- entry_name: |
+    This paint reacting to the thinner
+  entry_id: 8o6qxv
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLargeCluelessBrahmanbull&url=https%3A%2F%2Fgfycat.com%2FLargeCluelessBrahmanbull&image=https%3A%2F%2Fthumbs.gfycat.com%2FLargeCluelessBrahmanbull-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    TIL Hans-Gunnar Liljenwall, Swedish modern pentathlete, was the first athlete to ever be disqualified for doping in the Olympics. He drank 'two beers' to calm his nerves before pistol shooting, giving him an unfair advantage.
+  entry_id: 8o7d82
+  entry_content: |
+    <img src=https://i.redditmedia.com/fyuKwwmnH3W0oPYfLrirWy3Xxnrvveo51XiLbKqWEbA.jpg?s=a559dbe3a9411f827b102b902a3825b3 frameborder=0>
 - entry_name: |
     Just for clarification, food stamps aren't the problem
   entry_id: 8o5cwn
@@ -211,6 +216,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Gib2RNNBm30Xte3TpN67tXkvgnkZc_uxik-i7HRZFBg.jpg?s=5da9cd670ce6a2c42310ddb4b8b40778 frameborder=0>
 - entry_name: |
+    PsBattle: This woman who put expanding foam instead of mousse in her hair
+  entry_id: 8o4o0p
+  entry_content: |
+    <img src=https://i.redditmedia.com/Z648PqynF1_GpOnxPscLRI4oQxCvzWsHb86Mj3j69aM.jpg?s=569c99f7a1803a60c840b1c6a095513c frameborder=0>
+- entry_name: |
+    We look after our uncle who is blind, our dogs have warmed up to him very well, lil Oscar puts the ball in the exact same space every single time so my uncle can pick it up
+  entry_id: 8o7l4z
+  entry_content: |
+    <img src=https://i.redditmedia.com/5_DkO4a60JbnP_XPCtI84gcfK8tmmPwH5XKDe8jYM3A.gif?fm=jpg&s=1e46a28eed23dc22f403d7e3ccc5c458 frameborder=0>
+- entry_name: |
     🔥 Axolotl Enjoying Bubbles 🔥
   entry_id: 8o2k1i
   entry_content: |
@@ -221,30 +236,15 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2F39w2h&url=https%3A%2F%2Fstreamable.com%2F39w2h&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2F39w2h_1.jpg%3Ftoken%3DWJwAFCWLqxE6zJqUXaz3Ag%26expires%3D1527976024&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    This paint reacting to the thinner
-  entry_id: 8o6qxv
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLargeCluelessBrahmanbull&url=https%3A%2F%2Fgfycat.com%2FLargeCluelessBrahmanbull&image=https%3A%2F%2Fthumbs.gfycat.com%2FLargeCluelessBrahmanbull-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     RIP Bam Margera
   entry_id: 8o4mgt
   entry_content: |
     <img src=https://i.redditmedia.com/orD9BI3TInrUbNJlHq0rzI9OwjkWOUpHjg_hq4pJGnE.jpg?s=4c60bdea054eabf285a76a7945720e05 frameborder=0>
 - entry_name: |
-    PsBattle: This woman who put expanding foam instead of mousse in her hair
-  entry_id: 8o4o0p
-  entry_content: |
-    <img src=https://i.redditmedia.com/Z648PqynF1_GpOnxPscLRI4oQxCvzWsHb86Mj3j69aM.jpg?s=569c99f7a1803a60c840b1c6a095513c frameborder=0>
-- entry_name: |
     Self-driving cars will kill people and we need to accept that - Early iterations of the autonomous vehicle may result in some loss of life, but even our most underdeveloped models will most likely be an improvement over a human driver’s ability.
   entry_id: 8o3lze
   entry_content: |
     <img src=https://i.redditmedia.com/CoGv8FFw7GOlokgQmz8-6nLfJjpY6TRrwWX1I2C-0DA.jpg?s=879465a49618aad84879c865ada9cd4a frameborder=0>
-- entry_name: |
-    Back in our day...
-  entry_id: 8o5402
-  entry_content: |
-    <img src=https://i.redditmedia.com/kaTiUiy3IaVSCPb_CZTXrNbDI0h-bsFsldLzvsAh660.jpg?s=7a23b891f91cf5ceec8b4ef3a6010b00 frameborder=0>
 - entry_name: |
     The Swiss army recreating a Star Wars scene
   entry_id: 8o5ti3
