@@ -3,11 +3,6 @@ layout: post
 title: 04 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    This is Thorin, he had cerebellar hypoplasia, which basically means his balance is way off. He lives a totally happy life, he just falls over a lot.
-  entry_id: 8o2rwm
-  entry_content: |
-    <iframe src=https://v.redd.it/hm3aa6j9ym111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Hot coffee
   entry_id: 8o5p2v
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8o4gjb
   entry_content: |
     <img src=https://i.redditmedia.com/rnotTC_n3hMWAckRTA_2euDnHvWqql2JW09VnFk4Q4A.jpg?s=4f9ad34e3fe9cb1f55d0212b06131e51 frameborder=0>
+- entry_name: |
+    Temperature of the Universe from Absolute Cold to Absolute Hot
+  entry_id: 8o817m
+  entry_content: |
+    <img src=https://i.redditmedia.com/qOOZ6sy-qDfV2MYGWxuPrDAT_P7qYzhQh7tAKS4Yx2w.png?s=ce694e67ae98d7428d744755ff57ef5e frameborder=0>
 ---
