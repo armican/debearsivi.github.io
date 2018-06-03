@@ -93,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kSB-pD94sAVzMYvndRtvRIiTzoYwrIdJSfcBGwVNsCI.jpg?s=9bcd646120d6cbfacf2d245889eb6d82 frameborder=0>
 - entry_name: |
-    LPT: If you find yourself wasting too much time on Reddit then try this. As soon as you're on Reddit, directly scroll down to the post number that you think you should stop at, then leisurely browse upward from that post. You're less likely to continue when there's nowhere left to go after post 1.
-  entry_id: 8o7u4j
-  entry_content: |
-    null
-- entry_name: |
     Interesting paintwork
   entry_id: 8o534d
   entry_content: |
@@ -162,10 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LGUzb4hDsHQHFeT4tcT6XiZqMr5QhHh_rzDdQWe20-E.jpg?s=137e10b63c890bf4dea0d49d3088017e frameborder=0>
 - entry_name: |
-  entry_id: 8o2myr
-  entry_content: |
-    null
-- entry_name: |
     Sun reflecting perfectly on railroad tracks
   entry_id: 8o7lah
   entry_content: |
@@ -226,11 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5_DkO4a60JbnP_XPCtI84gcfK8tmmPwH5XKDe8jYM3A.gif?fm=jpg&s=1e46a28eed23dc22f403d7e3ccc5c458 frameborder=0>
 - entry_name: |
-    🔥 Axolotl Enjoying Bubbles 🔥
-  entry_id: 8o2k1i
-  entry_content: |
-    <iframe src=https://v.redd.it/empx3tl9as111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     J.R. Smith runs out the clock and then keeps running
   entry_id: 8o32xv
   entry_content: |
@@ -250,4 +236,19 @@ data:
   entry_id: 8o5ti3
   entry_content: |
     <iframe src=https://v.redd.it/y0sxwz29no111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Back in our day...
+  entry_id: 8o5402
+  entry_content: |
+    <img src=https://i.redditmedia.com/kaTiUiy3IaVSCPb_CZTXrNbDI0h-bsFsldLzvsAh660.jpg?s=7a23b891f91cf5ceec8b4ef3a6010b00 frameborder=0>
+- entry_name: |
+    Drake and Josh house is being torn down
+  entry_id: 8o5ic6
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fhi1nw&url=https%3A%2F%2Fstreamable.com%2Fhi1nw&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fhi1nw_1.jpg%3Ftoken%3D8A95nNUrycv0oHZe5HRZ_Q%26expires%3D1527999489&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    The heat is melting the traffic lights in my town
+  entry_id: 8o4gjb
+  entry_content: |
+    <img src=https://i.redditmedia.com/rnotTC_n3hMWAckRTA_2euDnHvWqql2JW09VnFk4Q4A.jpg?s=4f9ad34e3fe9cb1f55d0212b06131e51 frameborder=0>
 ---
