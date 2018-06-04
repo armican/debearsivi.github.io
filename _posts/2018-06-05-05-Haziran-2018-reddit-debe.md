@@ -151,11 +151,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-D-zEkun83myguGaB6AlcOnVdJcasp9PvxW5MSsbnR8.jpg?s=b31bd96948f46670a826366d267d92ee frameborder=0>
 - entry_name: |
-    hmmm
-  entry_id: 8oasur
-  entry_content: |
-    <img src=https://i.redditmedia.com/xjNVapBHr9jHaCWU_OPF-b7w1oTm9zXytBXQez3CzkA.jpg?s=3d4ebf25f270ff509280d4847d7ca7df frameborder=0>
-- entry_name: |
   entry_id: 8ocfeh
   entry_content: |
     <img src=https://i.redditmedia.com/1j04Yw8voFU8UqLqrIwAtantd9-mimWJx24x2cVpQtI.jpg?s=38573309ce5abb5cc73c8eede11ca8ea frameborder=0>
@@ -194,11 +189,6 @@ data:
   entry_id: 8ofvcn
   entry_content: |
     <img src=https://i.redditmedia.com/xZaYTyNdXAdpGH-mqSIWrik3MDu_gpg3Jnuym2ZNBLk.jpg?s=33cf63ac80cd659edfdc14e21d9d7e31 frameborder=0>
-- entry_name: |
-    MY GRAMD FOUGHT HARD AGAINST COMMIES LIKE YOU
-  entry_id: 8oapme
-  entry_content: |
-    <img src=https://i.redditmedia.com/RBsPFOlJqxvKd7Dd-1q3LsqB-nIuAVyeKceBRyO3fN8.jpg?s=410b15770c9c01bd5e4316f4c65f26cd frameborder=0>
 - entry_name: |
     After 4 years, Indiana embraces text-to-911 in emergencies - Indiana is the only state where 911 operators can initiate texts after receiving a disconnected or dropped 911 call
   entry_id: 8ocyfr
@@ -249,4 +239,14 @@ data:
   entry_id: 8ocppg
   entry_content: |
     <img src=https://i.redditmedia.com/zc1CIb_s4hWeh9HYgUMG24AUVCnRlPbtcFXC-DlZ1CU.jpg?s=306583d50e7a99a10867cf87251b827c frameborder=0>
+- entry_name: |
+    Walmart mailed a $6 broom in 4 boxes taped together.
+  entry_id: 8obf9z
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZNJpwXZUIsVfJfbW6gqOAbvkDl0AQKVFoZY02FupLqc.jpg?s=092cbf76f1e9d86dfa1fb4b80ea544a8 frameborder=0>
+- entry_name: |
+    I have a couple of questions
+  entry_id: 8og3c8
+  entry_content: |
+    <iframe src=https://v.redd.it/zl44p8xkjy111/DASH_4_8_M frameborder=0></iframe>
 ---
