@@ -8,15 +8,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xM_KfNh4bn9fPM_Rpf2wSIOtTYENmsJxvgA7su80Sbw.jpg?s=5a9623f9537e7e9b8b9a295d6ee1a253 frameborder=0>
 - entry_name: |
-    Mom shows kids the proper way to release their butterfly (formerly their caterpillar)
-  entry_id: 8oezyo
-  entry_content: |
-    <iframe src=https://v.redd.it/2jm3248hbx111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Today, the first woman in Saudi Arabia got her driving license
   entry_id: 8ohro9
   entry_content: |
     <iframe src=https://v.redd.it/xqx10zbaxz111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Mom shows kids the proper way to release their butterfly (formerly their caterpillar)
+  entry_id: 8oezyo
+  entry_content: |
+    <iframe src=https://v.redd.it/2jm3248hbx111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Dinosaur flip-book by andymation
   entry_id: 8oe05c
@@ -38,15 +38,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ApOz3f_V360-xJFtWJXZiKhJ9G-xKRrfkBIUvihDmS4.jpg?s=3205f5b2f1d2ea3f059ccff67c0f051d frameborder=0>
 - entry_name: |
-    Not the TSA agent we deserve
-  entry_id: 8obcdx
-  entry_content: |
-    <iframe src=https://v.redd.it/ry56je21d0211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Terminator has arrived in China
   entry_id: 8og8fn
   entry_content: |
     <img src=https://i.redditmedia.com/Y1NPLbMNgVZUgLUky_boabolX9aRAolbTZI0S21jab4.jpg?s=54d47505623e9e8f21bc5a63e9c149de frameborder=0>
+- entry_name: |
+    Vehicles today can surf the web, link to your phone, stream music and videos, etc.. but they still can't perform a simple database lookup to tell you what the check engine light is on for.
+  entry_id: 8ogss2
+  entry_content: |
+    null
 - entry_name: |
     Today I took my 74 year old best friend and her miniature Shetland pony to their first show and they got first place!
   entry_id: 8ocmiv
@@ -58,112 +58,112 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/pqr4qajv5v111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    General Motors head of product development wrecks the pace car at Detroit Grand Prix
-  entry_id: 8obpop
-  entry_content: |
-    <iframe src=https://v.redd.it/4xx5kw2fpu111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 8odtyx
-  entry_content: |
-    <img src=https://i.redditmedia.com/7e3TICxeQjWYu9uOGD0WEYQxQp2Z4kNcXNwXfC8iFHc.png?s=8ee8ac403fc56931b5fb4148ed6ce2ce frameborder=0>
-- entry_name: |
-    Vehicles today can surf the web, link to your phone, stream music and videos, etc.. but they still can't perform a simple database lookup to tell you what the check engine light is on for.
-  entry_id: 8ogss2
-  entry_content: |
-    null
-- entry_name: |
     Trump: 'I have the absolute right to pardon myself'
   entry_id: 8ogxy9
   entry_content: |
     <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
-    Some Insects Are So Strong
-  entry_id: 8ofvv4
-  entry_content: |
-    <img src=https://i.redditmedia.com/2Grtx76rserP_4HrlRUkVsh-cJa6q3q7vv3hKWxCg7g.png?s=f4391dedfa60bde2089a08506dca93d2 frameborder=0>
-- entry_name: |
-    Strangely Beautiful: Stray deer in a church in France.
-  entry_id: 8oev2y
-  entry_content: |
-    <iframe src=https://v.redd.it/re1225sl6x111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Dad, being dad
-  entry_id: 8of2v8
-  entry_content: |
-    <iframe src=https://v.redd.it/ols5cxpfex111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Cat sleeps on dog bed.
-  entry_id: 8ogy8a
-  entry_content: |
-    <iframe src=https://v.redd.it/i5kwbrfsyy111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    An Englishman, a Frenchman, a ravishing blonde and an old lady are sharing a compartment on a train as it winds its way through the Alps.
-  entry_id: 8oc4vb
-  entry_content: |
-    null
 - entry_name: |
     Daughter’s first camping trip. This is how she wakes me up at 6:15 in the morning.
   entry_id: 8ohg0m
   entry_content: |
     <img src=https://i.redditmedia.com/rvyf9DDp3uG5Upbgoxy9o7ROq0PC4IHjK04aON-ZB9o.jpg?s=cd829e48fe3cffba95fe77685cb21c8e frameborder=0>
 - entry_name: |
-    “Let’s link up soon...”
-  entry_id: 8odpps
+  entry_id: 8odtyx
   entry_content: |
-    <img src=https://i.redditmedia.com/TxGfow49V7nU-SMT7s8RQTDtEtZpW_bMzn9h9yLdWQg.jpg?s=88aafe12dd8e9022b6dc0ad9299816a4 frameborder=0>
+    <img src=https://i.redditmedia.com/7e3TICxeQjWYu9uOGD0WEYQxQp2Z4kNcXNwXfC8iFHc.png?s=8ee8ac403fc56931b5fb4148ed6ce2ce frameborder=0>
+- entry_name: |
+    General Motors head of product development wrecks the pace car at Detroit Grand Prix
+  entry_id: 8obpop
+  entry_content: |
+    <iframe src=https://v.redd.it/4xx5kw2fpu111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Cat sleeps on dog bed.
+  entry_id: 8ogy8a
+  entry_content: |
+    <iframe src=https://v.redd.it/i5kwbrfsyy111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Some Insects Are So Strong
+  entry_id: 8ofvv4
+  entry_content: |
+    <img src=https://i.redditmedia.com/2Grtx76rserP_4HrlRUkVsh-cJa6q3q7vv3hKWxCg7g.png?s=f4391dedfa60bde2089a08506dca93d2 frameborder=0>
+- entry_name: |
+    Dad, being dad
+  entry_id: 8of2v8
+  entry_content: |
+    <iframe src=https://v.redd.it/ols5cxpfex111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Strangely Beautiful: Stray deer in a church in France.
+  entry_id: 8oev2y
+  entry_content: |
+    <iframe src=https://v.redd.it/re1225sl6x111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Donald Trump claims he has 'absolute right to pardon myself'
+  entry_id: 8ohesf
+  entry_content: |
+    <img src=https://i.redditmedia.com/v0avgZ6FW_1c277gqj8Rq590TPBbyJE73nKxFYtpnZo.jpg?s=4a5a71015a15a19031592020e96f2177 frameborder=0>
+- entry_name: |
+    An Englishman, a Frenchman, a ravishing blonde and an old lady are sharing a compartment on a train as it winds its way through the Alps.
+  entry_id: 8oc4vb
+  entry_content: |
+    null
 - entry_name: |
     Found a rock that looks like a shark.
   entry_id: 8oelhk
   entry_content: |
     <img src=https://i.redditmedia.com/YkRo1mUlUYjDx_Euc_8KkbFX40xBo4UEV9S0-GeAbmQ.jpg?s=45fc24929c3289b8a752a3f2f55bf3c8 frameborder=0>
 - entry_name: |
-    Since Ewan memes are getting banned, here's Obi-Juan Kenobi
-  entry_id: 8obpsi
+    “Let’s link up soon...”
+  entry_id: 8odpps
   entry_content: |
-    <img src=https://i.redditmedia.com/KaiRpvy9rsnMMY2P_MMMuCNvtk9NtcI-0RqghhUnLsA.jpg?s=e1134ee84235ae2953811fc81818fa94 frameborder=0>
+    <img src=https://i.redditmedia.com/TxGfow49V7nU-SMT7s8RQTDtEtZpW_bMzn9h9yLdWQg.jpg?s=88aafe12dd8e9022b6dc0ad9299816a4 frameborder=0>
 - entry_name: |
     Visited the Grand Canyon today and this little fella kept following me, think he was thirsty!
   entry_id: 8oev6n
   entry_content: |
     <iframe src=https://v.redd.it/y2rbsyoj6x111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    In Zootopia (2016) when Nick says they have 10 hours left to find Mr. Otterton, he holds up all 8 of his fingers. Judy notices that it doesn't add up, but shrugs it off.
-  entry_id: 8obphz
+    Since Ewan memes are getting banned, here's Obi-Juan Kenobi
+  entry_id: 8obpsi
   entry_content: |
-    <img src=https://i.redditmedia.com/MdW2kYRcMBQUzjudmczwDCdr8ucuC3BvQUhZuA6DEbg.gif?fm=jpg&s=f14362bb7efd03489143138bc398552a frameborder=0>
+    <img src=https://i.redditmedia.com/KaiRpvy9rsnMMY2P_MMMuCNvtk9NtcI-0RqghhUnLsA.jpg?s=e1134ee84235ae2953811fc81818fa94 frameborder=0>
 - entry_name: |
-    Eruption of the volcano of Fire in Guatemala
-  entry_id: 8of6wp
+    Disabled dad gives daughter coffee money.
+  entry_id: 8ohi36
   entry_content: |
-    <iframe src=https://v.redd.it/39umq18hix111/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/IksdkZ_rKZFWTjv9Y47wKxA0tv58eU-VqPrMd0sDgCw.jpg?s=beb595112a45853fba965f1c9a4299ab frameborder=0>
 - entry_name: |
     Oink
   entry_id: 8oetjm
   entry_content: |
     <img src=https://i.redditmedia.com/ZAr2aa-peXsoWgAcO3wjd_D0h7OkQ5KdPB7AAuh8zns.jpg?s=eed81d815e1259f9618f37f92bf1fa4a frameborder=0>
 - entry_name: |
+    Eruption of the volcano of Fire in Guatemala
+  entry_id: 8of6wp
+  entry_content: |
+    <iframe src=https://v.redd.it/39umq18hix111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    In Zootopia (2016) when Nick says they have 10 hours left to find Mr. Otterton, he holds up all 8 of his fingers. Judy notices that it doesn't add up, but shrugs it off.
+  entry_id: 8obphz
+  entry_content: |
+    <img src=https://i.redditmedia.com/MdW2kYRcMBQUzjudmczwDCdr8ucuC3BvQUhZuA6DEbg.gif?fm=jpg&s=f14362bb7efd03489143138bc398552a frameborder=0>
+- entry_name: |
   entry_id: 8obum1
   entry_content: |
     <img src=https://i.redditmedia.com/-D-zEkun83myguGaB6AlcOnVdJcasp9PvxW5MSsbnR8.jpg?s=b31bd96948f46670a826366d267d92ee frameborder=0>
-- entry_name: |
-  entry_id: 8ocfeh
-  entry_content: |
-    <img src=https://i.redditmedia.com/1j04Yw8voFU8UqLqrIwAtantd9-mimWJx24x2cVpQtI.jpg?s=38573309ce5abb5cc73c8eede11ca8ea frameborder=0>
 - entry_name: |
     Simone looks great for someone who just survived brain surgery :)
   entry_id: 8oe0i3
   entry_content: |
     <img src=https://i.redditmedia.com/6IW_sVGcgoXVpFMlYun5lGvjJ89ciUz6LxY3Gfa-NfA.jpg?s=b0e8645e35162ff942928aa9d2cf1049 frameborder=0>
 - entry_name: |
+  entry_id: 8ocfeh
+  entry_content: |
+    <img src=https://i.redditmedia.com/1j04Yw8voFU8UqLqrIwAtantd9-mimWJx24x2cVpQtI.jpg?s=38573309ce5abb5cc73c8eede11ca8ea frameborder=0>
+- entry_name: |
     The fuckery involved here is on another level.
   entry_id: 8oeqqo
   entry_content: |
     <img src=https://i.redditmedia.com/Vik_thCrXRkvZX6S27BGNDLQti1y-MZz22hXgqtIy4Y.jpg?s=fdf21595293e974a8303dd2f1a74b77e frameborder=0>
-- entry_name: |
-    Donald Trump claims he has 'absolute right to pardon myself'
-  entry_id: 8ohesf
-  entry_content: |
-    <img src=https://i.redditmedia.com/v0avgZ6FW_1c277gqj8Rq590TPBbyJE73nKxFYtpnZo.jpg?s=4a5a71015a15a19031592020e96f2177 frameborder=0>
 - entry_name: |
     Professional Mountain Climber
   entry_id: 8oe4y8
@@ -185,45 +185,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/z5h6g1kj3v111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Disabled dad gives daughter coffee money.
-  entry_id: 8ohi36
-  entry_content: |
-    <img src=https://i.redditmedia.com/IksdkZ_rKZFWTjv9Y47wKxA0tv58eU-VqPrMd0sDgCw.jpg?s=beb595112a45853fba965f1c9a4299ab frameborder=0>
-- entry_name: |
-    Yeah, I'm a Gamer
-  entry_id: 8obepl
-  entry_content: |
-    <img src=https://i.redditmedia.com/tH-9dUvF9dgiTZZa15LAKW-bYMifyDJn-0n-W1uWlhU.jpg?s=7c3347ce82bc3abf7d1482625306dfec frameborder=0>
-- entry_name: |
-    'You don't look like a legislator': Security stops black, female lawmaker going to work in Ohio
-  entry_id: 8obwox
-  entry_content: |
-    <img src=https://i.redditmedia.com/QLWuGinrDU2Hif8Ud34LdM0R1qF70MpBokzmRFxuRFs.jpg?s=cbaf155f55eb5b33ca83c93e0c23b757 frameborder=0>
-- entry_name: |
     I have a couple of questions
   entry_id: 8og3c8
   entry_content: |
     <iframe src=https://v.redd.it/zl44p8xkjy111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    “The waterfall was nice but I miss my bed”
-  entry_id: 8odi33
-  entry_content: |
-    <img src=https://i.redditmedia.com/vRPcrD6HwL2PCwquFam_5StMHr5BE3DliJSRUuSvY-E.jpg?s=c8fb5b7599091d4b39b0875eeb7d4e62 frameborder=0>
 - entry_name: |
     If you could stand in one place in the world and watch everything that ever happened there throughout history, where would be the most interesting place to stand?
   entry_id: 8og1w0
   entry_content: |
     null
 - entry_name: |
-    This tweet was written in jest but it clearly illustrates the Nice Guy mentality.
-  entry_id: 8oc6f4
+    'You don't look like a legislator': Security stops black, female lawmaker going to work in Ohio
+  entry_id: 8obwox
   entry_content: |
-    <img src=https://i.redditmedia.com/QoNa5CfWWsjRfll4EZBs8qnJqs7VZZrZqGRntwdzVsQ.png?s=b908f8ec6aa22916f833673f37842393 frameborder=0>
+    <img src=https://i.redditmedia.com/QLWuGinrDU2Hif8Ud34LdM0R1qF70MpBokzmRFxuRFs.jpg?s=cbaf155f55eb5b33ca83c93e0c23b757 frameborder=0>
+- entry_name: |
+    “The waterfall was nice but I miss my bed”
+  entry_id: 8odi33
+  entry_content: |
+    <img src=https://i.redditmedia.com/vRPcrD6HwL2PCwquFam_5StMHr5BE3DliJSRUuSvY-E.jpg?s=c8fb5b7599091d4b39b0875eeb7d4e62 frameborder=0>
+- entry_name: |
+    When you make decent OC and it actually makes the front page
+  entry_id: 8ofwzc
+  entry_content: |
+    <img src=https://i.redditmedia.com/SGWEsmwQN78CSIXUA-G70F-akA3l1t-Llkag4PvUzzg.jpg?s=8ae5719b2fb00023dfebd69b3affd1be frameborder=0>
 - entry_name: |
     Amazon's $1 Billion 'Lord of the Rings' Series Will Run 5 Seasons
   entry_id: 8od23a
   entry_content: |
     <img src=https://i.redditmedia.com/vNsSQdVjXBIKq-6nvatdhn3haXRe66AVRMplZIWpXec.jpg?s=fe5fa1bc0c69a75389b3b39fb44a2152 frameborder=0>
+- entry_name: |
+    “Hell yeah I wanna go to Red Lobster, Grandpa!”
+  entry_id: 8of12r
+  entry_content: |
+    <img src=https://i.redditmedia.com/4yRNyvR0ebmOxgeJVKmWg0p0pHgedfGmPGw5LXPGeHc.jpg?s=a985d250a5812c3cef602567963b556e frameborder=0>
+- entry_name: |
+    This tweet was written in jest but it clearly illustrates the Nice Guy mentality.
+  entry_id: 8oc6f4
+  entry_content: |
+    <img src=https://i.redditmedia.com/QoNa5CfWWsjRfll4EZBs8qnJqs7VZZrZqGRntwdzVsQ.png?s=b908f8ec6aa22916f833673f37842393 frameborder=0>
 - entry_name: |
     The first image that comes up if you Google imbecile.
   entry_id: 8ocppg
@@ -235,18 +235,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZNJpwXZUIsVfJfbW6gqOAbvkDl0AQKVFoZY02FupLqc.jpg?s=092cbf76f1e9d86dfa1fb4b80ea544a8 frameborder=0>
 - entry_name: |
-    When you make decent OC and it actually makes the front page
-  entry_id: 8ofwzc
-  entry_content: |
-    <img src=https://i.redditmedia.com/SGWEsmwQN78CSIXUA-G70F-akA3l1t-Llkag4PvUzzg.jpg?s=8ae5719b2fb00023dfebd69b3affd1be frameborder=0>
-- entry_name: |
     I don’t care if you graduating in a week, You In high school still! You can’t sit with us
   entry_id: 8obkjq
   entry_content: |
     <img src=https://i.redditmedia.com/fPpJb5BpwO2TW1--jptkuKSeGcyeKUwkZwOt8BHtQHo.jpg?s=9b90de26a0b6b51329654d0445f5e0e4 frameborder=0>
 - entry_name: |
-    “Hell yeah I wanna go to Red Lobster, Grandpa!”
-  entry_id: 8of12r
+    When Art comes alive
+  entry_id: 8og9ny
   entry_content: |
-    <img src=https://i.redditmedia.com/4yRNyvR0ebmOxgeJVKmWg0p0pHgedfGmPGw5LXPGeHc.jpg?s=a985d250a5812c3cef602567963b556e frameborder=0>
+    <iframe src=https://v.redd.it/q66516y8qy111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Today is the 14th anniversary of the killdozer, the greatest bulldozer rampage in history. On this day 2004, welder Marv Heemeyer unleashed his home-armored bulldozer on the town of Granby Colorado, causing over 7 million dollars in damage.
+  entry_id: 8oes73
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/PZbG9i1oGPA?start=18&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
