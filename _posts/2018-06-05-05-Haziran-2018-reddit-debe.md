@@ -87,11 +87,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7e3TICxeQjWYu9uOGD0WEYQxQp2Z4kNcXNwXfC8iFHc.png?s=8ee8ac403fc56931b5fb4148ed6ce2ce frameborder=0>
 - entry_name: |
-    Using the Couch to 5k program my son lost almost 100 pounds. He's an amazing guy.
-  entry_id: 8oadai
-  entry_content: |
-    <img src=https://i.redditmedia.com/iNxz5N0vUQzLcpTrQTD3vHJV3EufltQ_ibamouGFMjE.jpg?s=0cf2465121f32e3e308890e9bcd6ee51 frameborder=0>
-- entry_name: |
     Mexico: Three More Female Politicians Murdered In 24 Hours
   entry_id: 8oaiee
   entry_content: |
@@ -240,13 +235,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QLWuGinrDU2Hif8Ud34LdM0R1qF70MpBokzmRFxuRFs.jpg?s=cbaf155f55eb5b33ca83c93e0c23b757 frameborder=0>
 - entry_name: |
-    The Week Trump Went Full Dictator and No One Tried to Stop Him
-  entry_id: 8oaari
-  entry_content: |
-    <img src=https://i.redditmedia.com/0SGIpNk20okaHPQ-x7SLfi2PmGiTZr_tuII3yMAd8Wo.jpg?s=6d77dd823a60bab9e42d93b717071e73 frameborder=0>
-- entry_name: |
     Baby goat parkour
   entry_id: 8oaxm8
   entry_content: |
     <iframe src=https://v.redd.it/959zbfui6u111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    “The waterfall was nice but I miss my bed”
+  entry_id: 8odi33
+  entry_content: |
+    <img src=https://i.redditmedia.com/vRPcrD6HwL2PCwquFam_5StMHr5BE3DliJSRUuSvY-E.jpg?s=c8fb5b7599091d4b39b0875eeb7d4e62 frameborder=0>
+- entry_name: |
+    The cows are long in France
+  entry_id: 8ob6zg
+  entry_content: |
+    <img src=https://i.redditmedia.com/HFlgSAHkIbdggkgdi1gqGBEC2-H2uU8BhoPnX5QXleM.jpg?s=80ef513d2c0959f0d2f1c04b8e260349 frameborder=0>
 ---
