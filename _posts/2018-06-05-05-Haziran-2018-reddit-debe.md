@@ -18,10 +18,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2jm3248hbx111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Today, the first woman in Saudi Arabia got her driving license
+  entry_id: 8ohro9
+  entry_content: |
+    <iframe src=https://v.redd.it/xqx10zbaxz111/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Dinosaur flip-book by andymation
   entry_id: 8oe05c
   entry_content: |
-    <iframe src=https://v.redd.it/z4uobbvqew111/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/nd0i3vcua1211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     My dad said I’m an impulse buyer, but I think buying a baby duck from a tractor store that thinks I’m it’s mom was a great idea.
   entry_id: 8oeryt
@@ -82,15 +87,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7e3TICxeQjWYu9uOGD0WEYQxQp2Z4kNcXNwXfC8iFHc.png?s=8ee8ac403fc56931b5fb4148ed6ce2ce frameborder=0>
 - entry_name: |
-    Today, the first woman in Saudi Arabia got her driving license
-  entry_id: 8ohro9
+    Vehicles today can surf the web, link to your phone, stream music and videos, etc.. but they still can't perform a simple database lookup to tell you what the check engine light is on for.
+  entry_id: 8ogss2
   entry_content: |
-    <iframe src=https://v.redd.it/xqx10zbaxz111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Strangely Beautiful: Stray deer in a church in France.
-  entry_id: 8oev2y
-  entry_content: |
-    <iframe src=https://v.redd.it/re1225sl6x111/DASH_1_2_M frameborder=0></iframe>
+    null
 - entry_name: |
     Trump: 'I have the absolute right to pardon myself'
   entry_id: 8ogxy9
@@ -102,6 +102,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2Grtx76rserP_4HrlRUkVsh-cJa6q3q7vv3hKWxCg7g.png?s=f4391dedfa60bde2089a08506dca93d2 frameborder=0>
 - entry_name: |
+    Strangely Beautiful: Stray deer in a church in France.
+  entry_id: 8oev2y
+  entry_content: |
+    <iframe src=https://v.redd.it/re1225sl6x111/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Dad, being dad
   entry_id: 8of2v8
   entry_content: |
@@ -112,15 +117,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/b6rpltf7au111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Vehicles today can surf the web, link to your phone, stream music and videos, etc.. but they still can't perform a simple database lookup to tell you what the check engine light is on for.
-  entry_id: 8ogss2
+    Cat sleeps on dog bed.
+  entry_id: 8ogy8a
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/i5kwbrfsyy111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     An Englishman, a Frenchman, a ravishing blonde and an old lady are sharing a compartment on a train as it winds its way through the Alps.
   entry_id: 8oc4vb
   entry_content: |
     null
+- entry_name: |
+    Daughter’s first camping trip. This is how she wakes me up at 6:15 in the morning.
+  entry_id: 8ohg0m
+  entry_content: |
+    <img src=https://i.redditmedia.com/rvyf9DDp3uG5Upbgoxy9o7ROq0PC4IHjK04aON-ZB9o.jpg?s=cd829e48fe3cffba95fe77685cb21c8e frameborder=0>
 - entry_name: |
     “Let’s link up soon...”
   entry_id: 8odpps
@@ -147,6 +157,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MdW2kYRcMBQUzjudmczwDCdr8ucuC3BvQUhZuA6DEbg.gif?fm=jpg&s=f14362bb7efd03489143138bc398552a frameborder=0>
 - entry_name: |
+    Eruption of the volcano of Fire in Guatemala
+  entry_id: 8of6wp
+  entry_content: |
+    <iframe src=https://v.redd.it/39umq18hix111/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Oink
+  entry_id: 8oetjm
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZAr2aa-peXsoWgAcO3wjd_D0h7OkQ5KdPB7AAuh8zns.jpg?s=eed81d815e1259f9618f37f92bf1fa4a frameborder=0>
+- entry_name: |
   entry_id: 8obum1
   entry_content: |
     <img src=https://i.redditmedia.com/-D-zEkun83myguGaB6AlcOnVdJcasp9PvxW5MSsbnR8.jpg?s=b31bd96948f46670a826366d267d92ee frameborder=0>
@@ -155,30 +175,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1j04Yw8voFU8UqLqrIwAtantd9-mimWJx24x2cVpQtI.jpg?s=38573309ce5abb5cc73c8eede11ca8ea frameborder=0>
 - entry_name: |
-    Cat sleeps on dog bed.
-  entry_id: 8ogy8a
-  entry_content: |
-    <iframe src=https://v.redd.it/i5kwbrfsyy111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Oink
-  entry_id: 8oetjm
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZAr2aa-peXsoWgAcO3wjd_D0h7OkQ5KdPB7AAuh8zns.jpg?s=eed81d815e1259f9618f37f92bf1fa4a frameborder=0>
-- entry_name: |
     Simone looks great for someone who just survived brain surgery :)
   entry_id: 8oe0i3
   entry_content: |
     <img src=https://i.redditmedia.com/6IW_sVGcgoXVpFMlYun5lGvjJ89ciUz6LxY3Gfa-NfA.jpg?s=b0e8645e35162ff942928aa9d2cf1049 frameborder=0>
 - entry_name: |
-    Eruption of the volcano of Fire in Guatemala
-  entry_id: 8of6wp
-  entry_content: |
-    <iframe src=https://v.redd.it/39umq18hix111/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The fuckery involved here is on another level.
   entry_id: 8oeqqo
   entry_content: |
     <img src=https://i.redditmedia.com/Vik_thCrXRkvZX6S27BGNDLQti1y-MZz22hXgqtIy4Y.jpg?s=fdf21595293e974a8303dd2f1a74b77e frameborder=0>
+- entry_name: |
+    Donald Trump claims he has 'absolute right to pardon myself'
+  entry_id: 8ohesf
+  entry_content: |
+    <img src=https://i.redditmedia.com/v0avgZ6FW_1c277gqj8Rq590TPBbyJE73nKxFYtpnZo.jpg?s=4a5a71015a15a19031592020e96f2177 frameborder=0>
 - entry_name: |
     Professional Mountain Climber
   entry_id: 8oe4y8
@@ -200,10 +210,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/z5h6g1kj3v111/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Want some shoes that look like you stepped in dog shit?
-  entry_id: 8oayne
+    Disabled dad gives daughter coffee money.
+  entry_id: 8ohi36
   entry_content: |
-    <img src=https://i.redditmedia.com/_XhYysiKxvuEglCb2HTwysfzRBX74vDvKdChOR-63mI.jpg?s=e54889f86ed1b7b66c69907a3c881ab8 frameborder=0>
+    <img src=https://i.redditmedia.com/IksdkZ_rKZFWTjv9Y47wKxA0tv58eU-VqPrMd0sDgCw.jpg?s=beb595112a45853fba965f1c9a4299ab frameborder=0>
 - entry_name: |
     Yeah, I'm a Gamer
   entry_id: 8obepl
@@ -215,15 +225,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QLWuGinrDU2Hif8Ud34LdM0R1qF70MpBokzmRFxuRFs.jpg?s=cbaf155f55eb5b33ca83c93e0c23b757 frameborder=0>
 - entry_name: |
-    Baby goat parkour
-  entry_id: 8oaxm8
+    I have a couple of questions
+  entry_id: 8og3c8
   entry_content: |
-    <iframe src=https://v.redd.it/959zbfui6u111/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/zl44p8xkjy111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     “The waterfall was nice but I miss my bed”
   entry_id: 8odi33
   entry_content: |
     <img src=https://i.redditmedia.com/vRPcrD6HwL2PCwquFam_5StMHr5BE3DliJSRUuSvY-E.jpg?s=c8fb5b7599091d4b39b0875eeb7d4e62 frameborder=0>
+- entry_name: |
+    If you could stand in one place in the world and watch everything that ever happened there throughout history, where would be the most interesting place to stand?
+  entry_id: 8og1w0
+  entry_content: |
+    null
 - entry_name: |
     The cows are long in France
   entry_id: 8ob6zg
@@ -234,19 +249,4 @@ data:
   entry_id: 8oc6f4
   entry_content: |
     <img src=https://i.redditmedia.com/QoNa5CfWWsjRfll4EZBs8qnJqs7VZZrZqGRntwdzVsQ.png?s=b908f8ec6aa22916f833673f37842393 frameborder=0>
-- entry_name: |
-    The first image that comes up if you Google imbecile.
-  entry_id: 8ocppg
-  entry_content: |
-    <img src=https://i.redditmedia.com/zc1CIb_s4hWeh9HYgUMG24AUVCnRlPbtcFXC-DlZ1CU.jpg?s=306583d50e7a99a10867cf87251b827c frameborder=0>
-- entry_name: |
-    Walmart mailed a $6 broom in 4 boxes taped together.
-  entry_id: 8obf9z
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZNJpwXZUIsVfJfbW6gqOAbvkDl0AQKVFoZY02FupLqc.jpg?s=092cbf76f1e9d86dfa1fb4b80ea544a8 frameborder=0>
-- entry_name: |
-    I have a couple of questions
-  entry_id: 8og3c8
-  entry_content: |
-    <iframe src=https://v.redd.it/zl44p8xkjy111/DASH_4_8_M frameborder=0></iframe>
 ---
