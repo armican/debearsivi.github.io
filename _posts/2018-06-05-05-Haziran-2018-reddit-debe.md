@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Jzc-JuAb6YhVFEvtHLO8moq8HvOI7O9GYeOoqP-d2Fs.jpg?s=29a736fa99e77ef129ad226cc98d0487 frameborder=0>
 - entry_name: |
-    “If you thought I was moving out, you were wrong!”
-  entry_id: 8oao92
-  entry_content: |
-    <iframe src=https://v.redd.it/t3kyuzg30u111/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     General Motors head of product development wrecks the pace car at Detroit Grand Prix
   entry_id: 8obpop
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8oc6f4
   entry_content: |
     <img src=https://i.redditmedia.com/QoNa5CfWWsjRfll4EZBs8qnJqs7VZZrZqGRntwdzVsQ.png?s=b908f8ec6aa22916f833673f37842393 frameborder=0>
+- entry_name: |
+    The first image that comes up if you Google imbecile.
+  entry_id: 8ocppg
+  entry_content: |
+    <img src=https://i.redditmedia.com/zc1CIb_s4hWeh9HYgUMG24AUVCnRlPbtcFXC-DlZ1CU.jpg?s=306583d50e7a99a10867cf87251b827c frameborder=0>
 ---
