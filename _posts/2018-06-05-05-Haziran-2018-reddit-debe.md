@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2jm3248hbx111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Time...
-  entry_id: 8oa46g
-  entry_content: |
-    <img src=https://i.redditmedia.com/TSVM4XIfojYReNaJbxNZBHBhaMK1Ouc01T1yShLVKx8.jpg?s=8dafcc1cacbf1386cd106effc61d4b54 frameborder=0>
-- entry_name: |
     Dinosaur flip-book by andymation
   entry_id: 8oe05c
   entry_content: |
@@ -195,11 +190,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Oh look birds!
-  entry_id: 8oa83x
-  entry_content: |
-    <iframe src=https://v.redd.it/d0bybf91pt111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Eruption of the volcano of Fire in Guatemala
   entry_id: 8of6wp
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 8obwox
   entry_content: |
     <img src=https://i.redditmedia.com/QLWuGinrDU2Hif8Ud34LdM0R1qF70MpBokzmRFxuRFs.jpg?s=cbaf155f55eb5b33ca83c93e0c23b757 frameborder=0>
+- entry_name: |
+    The Week Trump Went Full Dictator and No One Tried to Stop Him
+  entry_id: 8oaari
+  entry_content: |
+    <img src=https://i.redditmedia.com/0SGIpNk20okaHPQ-x7SLfi2PmGiTZr_tuII3yMAd8Wo.jpg?s=6d77dd823a60bab9e42d93b717071e73 frameborder=0>
+- entry_name: |
+    Baby goat parkour
+  entry_id: 8oaxm8
+  entry_content: |
+    <iframe src=https://v.redd.it/959zbfui6u111/DASH_4_8_M frameborder=0></iframe>
 ---
