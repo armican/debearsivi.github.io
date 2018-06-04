@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xM_KfNh4bn9fPM_Rpf2wSIOtTYENmsJxvgA7su80Sbw.jpg?s=5a9623f9537e7e9b8b9a295d6ee1a253 frameborder=0>
 - entry_name: |
-    TIL that the second officer of the Titanic stayed onboard till the end and was trapped underwater until a boiler explosion set him free. Later, he volunteered in WW2 and helped evacuate over 120 men from Dunkirk
-  entry_id: 8ob4e3
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZMFslwd_NPGebJGNWtstMdX7KEWeTTXeuXnoZW_wfMo.jpg?s=00abc064c47701fdf84c104e968755c7 frameborder=0>
-- entry_name: |
     Mom shows kids the proper way to release their butterfly (formerly their caterpillar)
   entry_id: 8oezyo
   entry_content: |
@@ -32,11 +27,6 @@ data:
   entry_id: 8oeryt
   entry_content: |
     <img src=https://i.redditmedia.com/I7WCdKtL-x_EdBVhW8_Mi1GA1JkRoK_rUznevc4G46Y.jpg?s=54a513a8523ab5590550487dfc0473bf frameborder=0>
-- entry_name: |
-    Today is the 29th aniversary of the highly censored Tiananmen square massacre. Never forget.
-  entry_id: 8ob1yw
-  entry_content: |
-    <img src=https://i.redditmedia.com/K8254QApeG0VbxNK7NfNKjLkgHdSTV4LjvenB20k8FI.jpg?s=818fe40aca0a79d6f9fd959afaeab880 frameborder=0>
 - entry_name: |
     Water disappearing in coarse black sand in Iceland.
   entry_id: 8odbpx
@@ -73,11 +63,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/pqr4qajv5v111/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    From the mouths of babes
-  entry_id: 8ob5yn
-  entry_content: |
-    <img src=https://i.redditmedia.com/Jzc-JuAb6YhVFEvtHLO8moq8HvOI7O9GYeOoqP-d2Fs.jpg?s=29a736fa99e77ef129ad226cc98d0487 frameborder=0>
-- entry_name: |
     General Motors head of product development wrecks the pace car at Detroit Grand Prix
   entry_id: 8obpop
   entry_content: |
@@ -111,11 +96,6 @@ data:
   entry_id: 8of2v8
   entry_content: |
     <iframe src=https://v.redd.it/ols5cxpfex111/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    An 11/10 Landing
-  entry_id: 8ob325
-  entry_content: |
-    <iframe src=https://v.redd.it/b6rpltf7au111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Cat sleeps on dog bed.
   entry_id: 8ogy8a
@@ -249,4 +229,24 @@ data:
   entry_id: 8oc6f4
   entry_content: |
     <img src=https://i.redditmedia.com/QoNa5CfWWsjRfll4EZBs8qnJqs7VZZrZqGRntwdzVsQ.png?s=b908f8ec6aa22916f833673f37842393 frameborder=0>
+- entry_name: |
+    Amazon's $1 Billion 'Lord of the Rings' Series Will Run 5 Seasons
+  entry_id: 8od23a
+  entry_content: |
+    <img src=https://i.redditmedia.com/vNsSQdVjXBIKq-6nvatdhn3haXRe66AVRMplZIWpXec.jpg?s=fe5fa1bc0c69a75389b3b39fb44a2152 frameborder=0>
+- entry_name: |
+    The first image that comes up if you Google imbecile.
+  entry_id: 8ocppg
+  entry_content: |
+    <img src=https://i.redditmedia.com/zc1CIb_s4hWeh9HYgUMG24AUVCnRlPbtcFXC-DlZ1CU.jpg?s=306583d50e7a99a10867cf87251b827c frameborder=0>
+- entry_name: |
+    Walmart mailed a $6 broom in 4 boxes taped together.
+  entry_id: 8obf9z
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZNJpwXZUIsVfJfbW6gqOAbvkDl0AQKVFoZY02FupLqc.jpg?s=092cbf76f1e9d86dfa1fb4b80ea544a8 frameborder=0>
+- entry_name: |
+    When you make decent OC and it actually makes the front page
+  entry_id: 8ofwzc
+  entry_content: |
+    <img src=https://i.redditmedia.com/SGWEsmwQN78CSIXUA-G70F-akA3l1t-Llkag4PvUzzg.jpg?s=8ae5719b2fb00023dfebd69b3affd1be frameborder=0>
 ---
