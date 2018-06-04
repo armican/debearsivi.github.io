@@ -97,11 +97,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/re1225sl6x111/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Donald Trump claims he has 'absolute right to pardon myself'
-  entry_id: 8ohesf
-  entry_content: |
-    <img src=https://i.redditmedia.com/v0avgZ6FW_1c277gqj8Rq590TPBbyJE73nKxFYtpnZo.jpg?s=4a5a71015a15a19031592020e96f2177 frameborder=0>
-- entry_name: |
     An Englishman, a Frenchman, a ravishing blonde and an old lady are sharing a compartment on a train as it winds its way through the Alps.
   entry_id: 8oc4vb
   entry_content: |
@@ -230,11 +225,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zc1CIb_s4hWeh9HYgUMG24AUVCnRlPbtcFXC-DlZ1CU.jpg?s=306583d50e7a99a10867cf87251b827c frameborder=0>
 - entry_name: |
-    Walmart mailed a $6 broom in 4 boxes taped together.
-  entry_id: 8obf9z
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZNJpwXZUIsVfJfbW6gqOAbvkDl0AQKVFoZY02FupLqc.jpg?s=092cbf76f1e9d86dfa1fb4b80ea544a8 frameborder=0>
-- entry_name: |
     I don’t care if you graduating in a week, You In high school still! You can’t sit with us
   entry_id: 8obkjq
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 8oes73
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/PZbG9i1oGPA?start=18&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Ted Cruz still has almost a 10% lead for his re-election. It is imperative that we unseat him in 2018
+  entry_id: 8ocsdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/9vzn7r0vI7zVZ8Mh5-9Tv0ascRFPWI06WR_vpiUNr2o.jpg?s=5ed084636e8dc71ffd26b64e247420b9 frameborder=0>
+- entry_name: |
+    Deliberately hiding your restaurants B health rating with your brunch ad.
+  entry_id: 8ocgxp
+  entry_content: |
+    <img src=https://i.redditmedia.com/9cmUuGjloPrvNygUhq1UzfhBSigdjbvCwrwqCR5DBHY.jpg?s=075f51af1b415108fed730aa74f2470f frameborder=0>
 ---
