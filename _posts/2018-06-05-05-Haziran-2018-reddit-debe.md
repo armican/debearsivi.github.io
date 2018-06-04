@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ApOz3f_V360-xJFtWJXZiKhJ9G-xKRrfkBIUvihDmS4.jpg?s=3205f5b2f1d2ea3f059ccff67c0f051d frameborder=0>
 - entry_name: |
-    He is the One.
-  entry_id: 8ob7gm
-  entry_content: |
-    <img src=https://i.redditmedia.com/hTr3aQjiSFKyuZZ-Vvvuut1BcsFZtLgahkqB_Z3MSWs.jpg?s=f2c04f2c01991cebc710ad5d0aa504ae frameborder=0>
-- entry_name: |
     Not the TSA agent we deserve
   entry_id: 8obcdx
   entry_content: |
@@ -220,11 +215,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The cows are long in France
-  entry_id: 8ob6zg
-  entry_content: |
-    <img src=https://i.redditmedia.com/HFlgSAHkIbdggkgdi1gqGBEC2-H2uU8BhoPnX5QXleM.jpg?s=80ef513d2c0959f0d2f1c04b8e260349 frameborder=0>
-- entry_name: |
     This tweet was written in jest but it clearly illustrates the Nice Guy mentality.
   entry_id: 8oc6f4
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 8ofwzc
   entry_content: |
     <img src=https://i.redditmedia.com/SGWEsmwQN78CSIXUA-G70F-akA3l1t-Llkag4PvUzzg.jpg?s=8ae5719b2fb00023dfebd69b3affd1be frameborder=0>
+- entry_name: |
+    I don’t care if you graduating in a week, You In high school still! You can’t sit with us
+  entry_id: 8obkjq
+  entry_content: |
+    <img src=https://i.redditmedia.com/fPpJb5BpwO2TW1--jptkuKSeGcyeKUwkZwOt8BHtQHo.jpg?s=9b90de26a0b6b51329654d0445f5e0e4 frameborder=0>
+- entry_name: |
+    “Hell yeah I wanna go to Red Lobster, Grandpa!”
+  entry_id: 8of12r
+  entry_content: |
+    <img src=https://i.redditmedia.com/4yRNyvR0ebmOxgeJVKmWg0p0pHgedfGmPGw5LXPGeHc.jpg?s=a985d250a5812c3cef602567963b556e frameborder=0>
 ---
