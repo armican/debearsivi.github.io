@@ -8,11 +8,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    This is why you don't park in the striped area in a handicap zone.
-  entry_id: 8ok7xi
-  entry_content: |
-    <img src=https://i.redditmedia.com/aOrK40AZj0ubTBirkh_rc8stRLDXlxlxbiWfdX-rqD0.jpg?s=fc8ba419fd788ecc495de0b9c570f445 frameborder=0>
-- entry_name: |
     TIL during a dinner party at Windsor castle, the Queen danced to ABBA's Dancing Queen, much to the amusement of guest. She reportedly said, I always try to dance when this song comes on, because I am the Queen, and I like to dance.”
   entry_id: 8onsi0
   entry_content: |
@@ -177,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gQpkxujt4dXxgG4i9VLMGMBLuRZOkPTMQU5hlZiseZI.jpg?s=b637dd5cfe34daf120ac63775c079c29 frameborder=0>
 - entry_name: |
-    #PigeonLivesMatter
-  entry_id: 8ok3y0
-  entry_content: |
-    <img src=https://i.redditmedia.com/qo8j5khAQrnv6yIN1K9C_Vf9JMLRZcaGSfe6KK4hWO8.jpg?s=727fe0331d4ffe03d638c959f65487ec frameborder=0>
-- entry_name: |
     Set Designer on the set of GODZILLA (1998)
   entry_id: 8okzbr
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8opjk9
   entry_content: |
     <img src=https://i.redditmedia.com/2ANvoVm0hdWwyzVfdhRiskuPVbOBsU_78FSYnNJLWNU.jpg?s=185cf605a01e34eaa74f6bea9093c067 frameborder=0>
+- entry_name: |
+    Waits for his friend everyday
+  entry_id: 8oqsyc
+  entry_content: |
+    <iframe src=https://v.redd.it/ot4hz1zop6211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Rare photo of John Williams composing
+  entry_id: 8olgsq
+  entry_content: |
+    <img src=https://i.redditmedia.com/xHR4TQr2E81tO16OzBNkNtuVSmz_MY915WyBkHWYdr8.jpg?s=08cf8483f28736e6f0097eb24f3f1694 frameborder=0>
 ---
