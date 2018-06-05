@@ -202,11 +202,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Dzre_tXv--oefYsjLP9o7ckLk2wfhyRvIlxMD-htICo.jpg?s=928dc8de798c89a1fa9b32b31194094d frameborder=0>
 - entry_name: |
-    Oblivious as fuck to flirtation
-  entry_id: 8oko2j
-  entry_content: |
-    <img src=https://i.redditmedia.com/3pWooSjL89lduVnoUL5gfpMKfp9rK82YwtSo6GDCJpo.jpg?s=20f2ea1e54997babaa30106935c4c218 frameborder=0>
-- entry_name: |
     Update on the Fallout 76 mural in Downtown LA, almost complete. 6/4/18 3:00 PM
   entry_id: 8olf98
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8oqjxa
   entry_content: |
     <img src=https://i.redditmedia.com/T3XGe7-ZPSu3lbqlNqq9N-hqTwbsQyugbX8B5BYPb3c.jpg?s=63a4e79b4f9157cbc5f7cccb2f49a2ca frameborder=0>
+- entry_name: |
+    The art of marbling
+  entry_id: 8ope4n
+  entry_content: |
+    <iframe src=https://v.redd.it/5nqfmks9h5211/DASH_4_8_M frameborder=0></iframe>
 ---
