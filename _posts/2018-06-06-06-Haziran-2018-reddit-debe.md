@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_PLeTk1mfxErPV1LWViMiS4mQEmp3xYIobCO92yjfwU.jpg?s=baef269be77c303df12db9b01047f403 frameborder=0>
 - entry_name: |
-    A future predator
-  entry_id: 8opakf
-  entry_content: |
-    <iframe src=https://v.redd.it/4dj9v5a275211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Hockey vs Soccer
   entry_id: 8olkk5
   entry_content: |
@@ -97,11 +92,6 @@ data:
   entry_id: 8oni6o
   entry_content: |
     <iframe src=https://v.redd.it/7dcwzvyvc3211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    After Trump tweets that he can pardon himself, /u/caan_academy points to 1974 ruling that explicitly states the President cannot pardon himself, as well as article of the constitution that states the president can not pardon in cases of impeachment.
-  entry_id: 8ojp7m
-  entry_content: |
-    null
 - entry_name: |
     Using your phone at high altitudes
   entry_id: 8ok3ej
@@ -250,4 +240,14 @@ data:
   entry_id: 8olbkj
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/9hUc2OPTanc?start=67&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Buy while you can!
+  entry_id: 8on8a6
+  entry_content: |
+    <img src=https://i.redditmedia.com/RHB23mCZ4r_1q3q8KgWR_i45M-_a_B_rm6OH3fR3L8s.jpg?s=bf7aad0325ecc9a56e9b8766b824eda5 frameborder=0>
+- entry_name: |
+    The original Xbox 360 Dashboard was so smooth
+  entry_id: 8on5g5
+  entry_content: |
+    <img src=https://i.redditmedia.com/N4N2K4FHAK4bIv-J25q22WX3iwLZko5_RHvqFNcijSc.gif?fm=jpg&s=402a2ed699f9e150959d186831dc7037 frameborder=0>
 ---
