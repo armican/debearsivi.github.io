@@ -3,11 +3,6 @@ layout: post
 title: 06 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    Girl takes cardboard cutout of Danny DeVito to prom, so Danny DeVito takes cardboard cutout of the girl to Paddy’s Pub
-  entry_id: 8omduo
-  entry_content: |
-    <img src=https://i.redditmedia.com/7ssSKGl35gngHYB6CFD7tIDpYAwB8gwX389whVHy-6s.jpg?s=35d1af4d4c697d2578d29d850606e77d frameborder=0>
-- entry_name: |
     George Washington died in 1799. The first dinosaur fossil was discovered in 1824. George Washington never knew dinosaurs existed.
   entry_id: 8okexh
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8onxl0
   entry_content: |
     <img src=https://i.redditmedia.com/ME8fJAJF_wMvInFvNIxjVNj-JDLDhPBIMSdvHknbpJs.jpg?s=500c0b16bdf5c5f771dc0a7ff2ebd117 frameborder=0>
+- entry_name: |
+    TheReportOfTheWeek Food Reviews gets a video about fried chicken restricted and demonitized
+  entry_id: 8olbkj
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/9hUc2OPTanc?start=67&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
