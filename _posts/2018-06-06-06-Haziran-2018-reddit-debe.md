@@ -211,11 +211,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/kab3n6hu46211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Donald Trump Sounds Just Like the Monarch the Constitution Was Written to Thwart
-  entry_id: 8ojvpk
-  entry_content: |
-    <img src=https://i.redditmedia.com/4iUjrQdo1r9BhzkQ5fQ94BSF97fRgtrsgCnKMBruOWw.jpg?s=6c5cce4438d535c00d4e20332c70cd59 frameborder=0>
-- entry_name: |
     I live 5 min from work so this is what my lunch hour consists of
   entry_id: 8om8pk
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8on5g5
   entry_content: |
     <img src=https://i.redditmedia.com/N4N2K4FHAK4bIv-J25q22WX3iwLZko5_RHvqFNcijSc.gif?fm=jpg&s=402a2ed699f9e150959d186831dc7037 frameborder=0>
+- entry_name: |
+    Fan-folding gate
+  entry_id: 8okbbb
+  entry_content: |
+    <iframe src=https://v.redd.it/lmbqektvg1211/DASH_600_K frameborder=0></iframe>
 ---
