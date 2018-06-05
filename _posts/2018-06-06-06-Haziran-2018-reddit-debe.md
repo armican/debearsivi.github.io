@@ -3,11 +3,6 @@ layout: post
 title: 06 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    George Washington died in 1799. The first dinosaur fossil was discovered in 1824. George Washington never knew dinosaurs existed.
-  entry_id: 8okexh
-  entry_content: |
-    null
-- entry_name: |
     TIL during a dinner party at Windsor castle, the Queen danced to ABBA's Dancing Queen, much to the amusement of guest. She reportedly said, I always try to dance when this song comes on, because I am the Queen, and I like to dance.”
   entry_id: 8onsi0
   entry_content: |
@@ -78,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7dcwzvyvc3211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Lemon Pledge
-  entry_id: 8okbhi
-  entry_content: |
-    <img src=https://i.redditmedia.com/PAQkW8SVKngaT2aydVur4zDKsD4UN0OoPk1CuR8G4-c.png?s=f980e527595ad2705f2509956239d8bb frameborder=0>
-- entry_name: |
     Ima rest my eyes just for a sec
   entry_id: 8oni6o
   entry_content: |
@@ -141,11 +131,6 @@ data:
   entry_id: 8omgpc
   entry_content: |
     <img src=https://i.redditmedia.com/BnI4Z7ZSuuJu0Ky_cIJLc6YEYyLRPIUhmPUBgw3XvjU.jpg?s=4a74f8adbca53fdfcddfd53ad628cb94 frameborder=0>
-- entry_name: |
-    Someone posted this on the urinal and it's in black and white
-  entry_id: 8okcgy
-  entry_content: |
-    <img src=https://i.redditmedia.com/wzWS0SCWGQcnEUj9vQm0uOA4AFO5_6h9W3xpQpEJz9g.jpg?s=23c3f9478827ab08d96c419e0a838fc6 frameborder=0>
 - entry_name: |
     Human arcade
   entry_id: 8oomtr
@@ -232,11 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rxuXcsTKCNvAYt9SNBVocl0gCVG8VOnM6OlxGRVR1B0.jpg?s=898d13d494f01f39bac69c4d92b288ee frameborder=0>
 - entry_name: |
-    Fan-folding gate
-  entry_id: 8okbbb
-  entry_content: |
-    <iframe src=https://v.redd.it/lmbqektvg1211/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Can I get my brand new van to look 20 years old? Thanks.
   entry_id: 8opjk9
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 8olgsq
   entry_content: |
     <img src=https://i.redditmedia.com/xHR4TQr2E81tO16OzBNkNtuVSmz_MY915WyBkHWYdr8.jpg?s=08cf8483f28736e6f0097eb24f3f1694 frameborder=0>
+- entry_name: |
+    me irl
+  entry_id: 8oq39w
+  entry_content: |
+    <img src=https://i.redditmedia.com/1Ltfd2yQffzjcu3tznU1dqyuszLou-wY5-TDquG38DE.jpg?s=5bfdecf0b2ed8389ad72b25c2764cc95 frameborder=0>
+- entry_name: |
+    appreciate the feedback
+  entry_id: 8oo44e
+  entry_content: |
+    <img src=https://i.redditmedia.com/xtrE12YE8tqYapkX5BLWBbnmcGCtGi5Xs-9HqUgmCa8.jpg?s=d4f4959448c30b4d60cde204eb3a4bf3 frameborder=0>
+- entry_name: |
+    Per popular demand, here are more photos of me shrugging in various locations
+  entry_id: 8olig6
+  entry_content: |
+    <img src=https://i.redditmedia.com/_rQ8kJ81cJQTy95mO9acTFYShaa_q3Azdt2-ZaO1ksI.gif?fm=jpg&s=23deec55e040016abef266cd1a7bcfb1 frameborder=0>
+- entry_name: |
+    Man dies on Mount Everest during ASKfm cryptocurrency promotional stunt
+  entry_id: 8oqk4l
+  entry_content: |
+    <img src=https://i.redditmedia.com/_9YaXHDqJ27Kh2H1Jg7y15LwaNQNvebZwd1L1nSdyH8.jpg?s=0b12ebee8c78d8b4e9a97ff18bb76148 frameborder=0>
 ---
