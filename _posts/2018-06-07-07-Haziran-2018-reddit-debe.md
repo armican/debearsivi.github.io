@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VSkBEuNhi5mnzSZNLOT3xUZAxnKjQxxPgagQz1RplWE.jpg?s=aee00bbe3dfa04da921bad0a50fb3901 frameborder=0>
 - entry_name: |
-    This eight-year-old is going places
-  entry_id: 8otb8l
-  entry_content: |
-    <img src=https://i.redditmedia.com/KdLjqZR7icWN3_DHyjHROjvXJ5s-Ou9goP00mUxMzsY.jpg?s=93f5451dec853c1d67e3c31cda9f7339 frameborder=0>
-- entry_name: |
     Man takes knee during national anthem at Donald Trump's White House ceremony
   entry_id: 8ou1d3
   entry_content: |
@@ -107,11 +102,6 @@ data:
   entry_id: 8ov73k
   entry_content: |
     <iframe src=https://v.redd.it/6l8k5wwgo8211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    First Image from the Addams Family Animated Movie
-  entry_id: 8otbiu
-  entry_content: |
-    <img src=https://i.redditmedia.com/xErOlnZbcAMIftRHEVF-TMAxl1X_1_jpKLJr3S9_I8Y.jpg?s=5f8087c30b8c31f0de7d5c78ebffea96 frameborder=0>
 - entry_name: |
     Is this how the kids are fighting these days?
   entry_id: 8oumyv
@@ -252,4 +242,14 @@ data:
   entry_id: 8outmg
   entry_content: |
     <img src=https://i.redditmedia.com/nYuF_hraNrTI7087UtqJcDd7Q1Hm0lY36Ljbmj5KcmA.jpg?s=7569fb41f75c7045232c6be55ce866af frameborder=0>
+- entry_name: |
+    Great format, wise investment
+  entry_id: 8oz5la
+  entry_content: |
+    <img src=https://i.redditmedia.com/2JWr1vncCddzUMr2Ys4-wPgdz6dfUb4bZUZlk2zq3LI.jpg?s=0c6042eff055c90a830420c67d2ff49e frameborder=0>
+- entry_name: |
+    Friendly Reminder that most of the photos on the internet are posed, edited and the best of a thousand tries.
+  entry_id: 8ouw3b
+  entry_content: |
+    <img src=https://i.redditmedia.com/DGBjBngF84HwL7W1EvxgJ3xGH2TdfO4XGnQDnUEOECI.png?s=f3b2ec4aec36ef621a024e811a90fca8 frameborder=0>
 ---
