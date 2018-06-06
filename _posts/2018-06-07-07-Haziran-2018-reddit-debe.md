@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/c5DZiHFtDFo-xzGaHW2YdtPhg19h-D64E6qMOiqMugg.jpg?s=eb6c8e86bfe7eb2a475b88b3a5f81d19 frameborder=0>
 - entry_name: |
-    These two young men presenting their project in hopes of getting funded. Now they are founders of the 6th most visited site in the World! Happy 13th anniversary Reddit.
-  entry_id: 8otvsq
-  entry_content: |
-    <img src=https://i.redditmedia.com/cOLmlBHowWTStNzxX-uzRe4-pIZQ5PnB1pu1Gqzld4w.jpg?s=ed82e88f29ca21bd17957490207e68c9 frameborder=0>
-- entry_name: |
     Touching the sky
   entry_id: 8ow5jo
   entry_content: |
@@ -158,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HpGzDl3ztKXgJEZpFyaBso6gP5Jq8ImitdeJ2-lhLJU.png?s=78c344d063a7409bf1f89b57fa931c48 frameborder=0>
 - entry_name: |
-    Parasite removed from fish
-  entry_id: 8ottmr
-  entry_content: |
-    <iframe src=https://v.redd.it/eb10d2oij8211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Slower, you...
   entry_id: 8oyotk
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8owjfa
   entry_content: |
     <img src=https://i.redditmedia.com/aT3gr0_KFVCUWiN5ImaBWWHC5FlEZq6eD-q232s_BJI.jpg?s=9b675eb9e3fa2d4e3db61086e04b28fc frameborder=0>
+- entry_name: |
+    Leaf Insects
+  entry_id: 8ozixq
+  entry_content: |
+    <iframe src=https://v.redd.it/apgjrpvfyc211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Maybe for you.
+  entry_id: 8owufb
+  entry_content: |
+    <img src=https://i.redditmedia.com/B3UXv2bJf6VfUot59iu8s-UP7sap6GqG6gNDwr2Fa8k.jpg?s=07a50a14bf48b4e25f81cbed11b9626c frameborder=0>
 ---
