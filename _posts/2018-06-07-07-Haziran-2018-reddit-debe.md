@@ -23,6 +23,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2Qsj7pdCR7FZPeqWyl4NBl15ej27C59V3QzuumwZvyI.jpg?s=7d5bdade842dac432585a17c1c19a8db frameborder=0>
 - entry_name: |
+    Office dog wants to play fetch but everyone is too busy working.
+  entry_id: 8p0b7v
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowAnxiousIlladopsis&url=https%3A%2F%2Fgfycat.com%2Fmellowanxiousilladopsis&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowAnxiousIlladopsis-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     Talk to your dad, please. He might listen to you.
   entry_id: 8ovxhv
   entry_content: |
@@ -42,11 +47,6 @@ data:
   entry_id: 8oupbi
   entry_content: |
     <img src=https://i.redditmedia.com/egtZG6wkd9WfmYbhhYNq7RXTF88j_BhYgG51G-u6xZQ.jpg?s=9f5aa45adf09c9314b783422e64d5062 frameborder=0>
-- entry_name: |
-    Office dog wants to play fetch but everyone is too busy working.
-  entry_id: 8p0b7v
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowAnxiousIlladopsis&url=https%3A%2F%2Fgfycat.com%2Fmellowanxiousilladopsis&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowAnxiousIlladopsis-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     This family of bun-buns that lives at my work
   entry_id: 8owpuq
@@ -83,20 +83,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VSkBEuNhi5mnzSZNLOT3xUZAxnKjQxxPgagQz1RplWE.jpg?s=aee00bbe3dfa04da921bad0a50fb3901 frameborder=0>
 - entry_name: |
-    Man takes knee during national anthem at Donald Trump's White House ceremony
-  entry_id: 8ou1d3
-  entry_content: |
-    <img src=https://i.redditmedia.com/CxPKmNZ9yncL4PJ7VCON49I2L5thmrWlqSkYNW3FaQ0.jpg?s=eaae08791d0bd829e33a52673efd0248 frameborder=0>
-- entry_name: |
     Puppers tries to nope.
   entry_id: 8oxbix
   entry_content: |
     <iframe src=https://v.redd.it/p1bkdznvta211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Man takes knee during national anthem at Donald Trump's White House ceremony
+  entry_id: 8ou1d3
+  entry_content: |
+    <img src=https://i.redditmedia.com/CxPKmNZ9yncL4PJ7VCON49I2L5thmrWlqSkYNW3FaQ0.jpg?s=eaae08791d0bd829e33a52673efd0248 frameborder=0>
+- entry_name: |
     Momma Dog fighting off a Leopard that attacks it's Pup
   entry_id: 8ov73k
   entry_content: |
     <iframe src=https://v.redd.it/6l8k5wwgo8211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Judge Aaron Persky, who gave Brock Turner lenient sentence in rape case, recalled from office
+  entry_id: 8oztyl
+  entry_content: |
+    <img src=https://i.redditmedia.com/w2EIGArH7mZBEHyUTwhHCR6YxIXHeycSOAM1Grp3q6k.jpg?s=9ff036cca6cb8c11694fdb4bbc9a5e7c frameborder=0>
 - entry_name: |
     Is this how the kids are fighting these days?
   entry_id: 8oumyv
@@ -108,10 +113,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pXtIsiMzZ8P1t8EtOa8Pit9eizGv7C95kbwq1gxc-vk.png?s=7be3975acc7d5b7d37088b0d4cff76fd frameborder=0>
 - entry_name: |
-    Judge Aaron Persky, who gave Brock Turner lenient sentence in rape case, recalled from office
-  entry_id: 8oztyl
+    The dog's frustration
+  entry_id: 8p0173
   entry_content: |
-    <img src=https://i.redditmedia.com/w2EIGArH7mZBEHyUTwhHCR6YxIXHeycSOAM1Grp3q6k.jpg?s=9ff036cca6cb8c11694fdb4bbc9a5e7c frameborder=0>
+    <iframe src=https://v.redd.it/k7bxxyozed211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     I made an Office thing.
   entry_id: 8oup8o
@@ -128,20 +133,25 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/_tDUwNjw7ms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    he gave him half his cookie
+  entry_id: 8p0fnt
+  entry_content: |
+    <iframe src=https://v.redd.it/aikdw9ozpd211/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     I guess this works too
   entry_id: 8ox7o8
   entry_content: |
     <iframe src=https://v.redd.it/xex204e5ra211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    How France got involved in the American revolutionary war c. 1778
-  entry_id: 8ou3n2
-  entry_content: |
-    <img src=https://i.redditmedia.com/c_YlAcqQ9vQiExe_EwgRyGRiyqpUZXhB0QF5rfxJUiU.jpg?s=a9b94978ec15bc68e28aa50165fbcd3b frameborder=0>
-- entry_name: |
     A different way to steam eggs
   entry_id: 8oy00e
   entry_content: |
     <iframe src=https://v.redd.it/3uobl0z4eb211/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    How France got involved in the American revolutionary war c. 1778
+  entry_id: 8ou3n2
+  entry_content: |
+    <img src=https://i.redditmedia.com/c_YlAcqQ9vQiExe_EwgRyGRiyqpUZXhB0QF5rfxJUiU.jpg?s=a9b94978ec15bc68e28aa50165fbcd3b frameborder=0>
 - entry_name: |
     me🚗irl
   entry_id: 8ouhyt
@@ -153,80 +163,80 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/eb10d2oij8211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Pulled the bike into the garage ..... turned it off .... heard a noise and turned to see my granddaughter pull alongside me on her bike. Heart melted into a puddle :)
-  entry_id: 8ov7kj
-  entry_content: |
-    <img src=https://i.redditmedia.com/weJhj7FMX5v-Qaql0OMlDVSPnvwNIx27wbELmpowQBo.jpg?s=b3fbb4805c653ad5bbfdb9d371813772 frameborder=0>
-- entry_name: |
-    The dog's frustration
-  entry_id: 8p0173
-  entry_content: |
-    <iframe src=https://v.redd.it/k7bxxyozed211/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Oh...
-  entry_id: 8otkqn
-  entry_content: |
-    <img src=https://i.redditmedia.com/PDFK4ff8YBrQ--2Jej9p6pqPHDr-nLvmZahbIu5Z-Nk.jpg?s=3ffb8c91e9313cfb1a387a89f1c01478 frameborder=0>
-- entry_name: |
-    HMB, while I swing from a Backhoe
-  entry_id: 8ouzr1
-  entry_content: |
-    <iframe src=https://v.redd.it/19y079tp89211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Slower, you...
   entry_id: 8oyotk
   entry_content: |
     <img src=https://i.redditmedia.com/7iEIWvYDQbKv_B-u21KAF8FXVrw7LQs8WkMv0OVHI4Q.jpg?s=ab353b79caf436ca2cf47028367dda25 frameborder=0>
 - entry_name: |
-    Not dumb if it's fun..
-  entry_id: 8ov86b
+    Pulled the bike into the garage ..... turned it off .... heard a noise and turned to see my granddaughter pull alongside me on her bike. Heart melted into a puddle :)
+  entry_id: 8ov7kj
   entry_content: |
-    <iframe src=https://v.redd.it/0g05dcrwd9211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Trump Unable to Remember Words to ‘God Bless America’ at Fake Fan Rally
-  entry_id: 8ouhhl
-  entry_content: |
-    <img src=https://i.redditmedia.com/GnrFeZBoCedP6-wsz080tTZz1IntMCsJs02KQQIKYEA.jpg?s=3415e6f577cdd8a24c2dadd02d97d8ac frameborder=0>
+    <img src=https://i.redditmedia.com/weJhj7FMX5v-Qaql0OMlDVSPnvwNIx27wbELmpowQBo.jpg?s=b3fbb4805c653ad5bbfdb9d371813772 frameborder=0>
 - entry_name: |
     High Court backs UK National Health Service decision to stop funding homeopathy - NHS England issued guidance in November last year that GPs should not prescribe homeopathic treatments as a new treatment for any patient.
   entry_id: 8ozkp0
   entry_content: |
     <img src=https://i.redditmedia.com/Lb8xLAVLcoH2moAb5Kovo2lD404dWSnEKkKGPWCykSs.jpg?s=1721254bc19472cc1626bbf908598b98 frameborder=0>
 - entry_name: |
-    Guess she's not interested in letting me make a deposit.
-  entry_id: 8owxjk
+    HMB, while I swing from a Backhoe
+  entry_id: 8ouzr1
   entry_content: |
-    <img src=https://i.redditmedia.com/srJpNbGzVp8xJy3LFWXaFG9_qS4rWFVle0zxdDPO_LE.png?s=29eb64374a79bae1b86a5af7d8897f60 frameborder=0>
+    <iframe src=https://v.redd.it/19y079tp89211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    he gave him half his cookie
-  entry_id: 8p0fnt
+    Not dumb if it's fun..
+  entry_id: 8ov86b
   entry_content: |
-    <iframe src=https://v.redd.it/aikdw9ozpd211/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/0g05dcrwd9211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Delivering freedom 24/7
-  entry_id: 8oxolb
+    Great format, wise investment
+  entry_id: 8oz5la
   entry_content: |
-    <img src=https://i.redditmedia.com/2NF7JrnAMZLeEg0bD7oeNv6VaYR1SqAugV1Lmbdo_GA.jpg?s=b7578ef0048f0f6e6917a2438d79c115 frameborder=0>
+    <img src=https://i.redditmedia.com/2JWr1vncCddzUMr2Ys4-wPgdz6dfUb4bZUZlk2zq3LI.jpg?s=0c6042eff055c90a830420c67d2ff49e frameborder=0>
+- entry_name: |
+    Trump Unable to Remember Words to ‘God Bless America’ at Fake Fan Rally
+  entry_id: 8ouhhl
+  entry_content: |
+    <img src=https://i.redditmedia.com/GnrFeZBoCedP6-wsz080tTZz1IntMCsJs02KQQIKYEA.jpg?s=3415e6f577cdd8a24c2dadd02d97d8ac frameborder=0>
+- entry_name: |
+    Master Sword Switch Cartridge Case
+  entry_id: 8p0e4l
+  entry_content: |
+    <iframe src=https://v.redd.it/dti4osovnd211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    All eyes on Canada as first G7 nation prepares to make marijuana legal
+  entry_id: 8ozuet
+  entry_content: |
+    <img src=https://i.redditmedia.com/n4dU7ng_zxkz-4QMbn9pVYJJzoeI0ckTix2aH-e0L7E.jpg?s=60660216a86066e839e7a1979121b737 frameborder=0>
 - entry_name: |
     Awesome Elastigirl & Jack-Jack Cosplay
   entry_id: 8owin0
   entry_content: |
     <img src=https://i.redditmedia.com/b5DkcinOPhMqksChoFiZdJYc0T3HqRdUhJaw8Peb4iQ.jpg?s=c00561bcaab104bf214ff3655064022f frameborder=0>
 - entry_name: |
-    This is what fairness looks like...
-  entry_id: 8ou13n
+    Guess she's not interested in letting me make a deposit.
+  entry_id: 8owxjk
   entry_content: |
-    <img src=https://i.redditmedia.com/DS791cohc-7PxBqwBCM59omjbdhkVP56bURqZI0ya28.jpg?s=3822cd551a3dba0a0651d016ef67fa9f frameborder=0>
+    <img src=https://i.redditmedia.com/srJpNbGzVp8xJy3LFWXaFG9_qS4rWFVle0zxdDPO_LE.png?s=29eb64374a79bae1b86a5af7d8897f60 frameborder=0>
+- entry_name: |
+    Delivering freedom 24/7
+  entry_id: 8oxolb
+  entry_content: |
+    <img src=https://i.redditmedia.com/2NF7JrnAMZLeEg0bD7oeNv6VaYR1SqAugV1Lmbdo_GA.jpg?s=b7578ef0048f0f6e6917a2438d79c115 frameborder=0>
+- entry_name: |
+    SPIDER-MAN: INTO THE SPIDER-VERSE - Official Trailer (HD) - YouTube
+  entry_id: 8p0em0
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/g4Hbz2jLxvQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     TIL: Enya has never gone on a concert tour or even performed a solo concert, despite being Ireland’s best selling solo artist and 2nd overall behind U2.
   entry_id: 8outmg
   entry_content: |
     <img src=https://i.redditmedia.com/nYuF_hraNrTI7087UtqJcDd7Q1Hm0lY36Ljbmj5KcmA.jpg?s=7569fb41f75c7045232c6be55ce866af frameborder=0>
 - entry_name: |
-    Great format, wise investment
-  entry_id: 8oz5la
+    This is what fairness looks like...
+  entry_id: 8ou13n
   entry_content: |
-    <img src=https://i.redditmedia.com/2JWr1vncCddzUMr2Ys4-wPgdz6dfUb4bZUZlk2zq3LI.jpg?s=0c6042eff055c90a830420c67d2ff49e frameborder=0>
+    <img src=https://i.redditmedia.com/DS791cohc-7PxBqwBCM59omjbdhkVP56bURqZI0ya28.jpg?s=3822cd551a3dba0a0651d016ef67fa9f frameborder=0>
 - entry_name: |
     Friendly Reminder that most of the photos on the internet are posed, edited and the best of a thousand tries.
   entry_id: 8ouw3b
@@ -242,14 +252,4 @@ data:
   entry_id: 8owjfa
   entry_content: |
     <img src=https://i.redditmedia.com/aT3gr0_KFVCUWiN5ImaBWWHC5FlEZq6eD-q232s_BJI.jpg?s=9b675eb9e3fa2d4e3db61086e04b28fc frameborder=0>
-- entry_name: |
-    Propane Only, No Charcoal Grills
-  entry_id: 8oviao
-  entry_content: |
-    <img src=https://i.redditmedia.com/FF1tYBNfSLuq81iVcumB0wBsHKNPpst8C6kvW2CtYe0.png?s=cbfd55c97b93d2e8d67f5a041abebec5 frameborder=0>
-- entry_name: |
-    Man kneels during national anthem at White House
-  entry_id: 8ou8oo
-  entry_content: |
-    <iframe src=https://v.redd.it/4xjps8ics8211/DASH_1_2_M frameborder=0></iframe>
 ---
