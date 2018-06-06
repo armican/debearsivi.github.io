@@ -8,6 +8,11 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOpenSillyDoe&url=https%3A%2F%2Fgfycat.com%2FOpenSillyDoe&image=https%3A%2F%2Fthumbs.gfycat.com%2FOpenSillyDoe-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=272 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
+    Never did well in school because I'd spend all my time drawing. It makes me happy that I now get paid to create work like this.
+  entry_id: 8oza0a
+  entry_content: |
+    <img src=https://i.redditmedia.com/c5DZiHFtDFo-xzGaHW2YdtPhg19h-D64E6qMOiqMugg.jpg?s=eb6c8e86bfe7eb2a475b88b3a5f81d19 frameborder=0>
+- entry_name: |
     These two young men presenting their project in hopes of getting funded. Now they are founders of the 6th most visited site in the World! Happy 13th anniversary Reddit.
   entry_id: 8otvsq
   entry_content: |
@@ -17,11 +22,6 @@ data:
   entry_id: 8ow5jo
   entry_content: |
     <img src=https://i.redditmedia.com/2Qsj7pdCR7FZPeqWyl4NBl15ej27C59V3QzuumwZvyI.jpg?s=7d5bdade842dac432585a17c1c19a8db frameborder=0>
-- entry_name: |
-    Never did well in school because I'd spend all my time drawing. It makes me happy that I now get paid to create work like this.
-  entry_id: 8oza0a
-  entry_content: |
-    <img src=https://i.redditmedia.com/c5DZiHFtDFo-xzGaHW2YdtPhg19h-D64E6qMOiqMugg.jpg?s=eb6c8e86bfe7eb2a475b88b3a5f81d19 frameborder=0>
 - entry_name: |
     Talk to your dad, please. He might listen to you.
   entry_id: 8ovxhv
@@ -48,20 +48,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/egtZG6wkd9WfmYbhhYNq7RXTF88j_BhYgG51G-u6xZQ.jpg?s=9f5aa45adf09c9314b783422e64d5062 frameborder=0>
 - entry_name: |
+    Office dog wants to play fetch but everyone is too busy working.
+  entry_id: 8p0b7v
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowAnxiousIlladopsis&url=https%3A%2F%2Fgfycat.com%2Fmellowanxiousilladopsis&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowAnxiousIlladopsis-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     This family of bun-buns that lives at my work
   entry_id: 8owpuq
   entry_content: |
     <img src=https://i.redditmedia.com/ZwO8e4JWs5aKedyX41Y85ok2z8SujpIi_B5KnDMemRk.jpg?s=d066784bed532a481c7a693d6a9aca21 frameborder=0>
 - entry_name: |
-    E-Mails Show FCC Made Up DDOS Attack To Downplay The 'John Oliver Effect'
-  entry_id: 8ouijj
-  entry_content: |
-    <img src=https://i.redditmedia.com/2-ebsa6e06Fl7dVK_gazWfe_GfEWm-HbmhNdzmxYe38.jpg?s=ab067b8b168c96f9aabf9f9bc59a2be2 frameborder=0>
-- entry_name: |
     Tesla shareholders reject bid to strip Musk of chairman role
   entry_id: 8owkmg
   entry_content: |
     <img src=https://i.redditmedia.com/3fZtoIJ2ZLXTSSqS3h6U0HRtwugZKhxrmeVdk4FfAIY.jpg?s=a1c6ce0d5fccac1362b186b3566deac3 frameborder=0>
+- entry_name: |
+    E-Mails Show FCC Made Up DDOS Attack To Downplay The 'John Oliver Effect'
+  entry_id: 8ouijj
+  entry_content: |
+    <img src=https://i.redditmedia.com/2-ebsa6e06Fl7dVK_gazWfe_GfEWm-HbmhNdzmxYe38.jpg?s=ab067b8b168c96f9aabf9f9bc59a2be2 frameborder=0>
 - entry_name: |
     Warning in advance.
   entry_id: 8owd3i
@@ -108,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xErOlnZbcAMIftRHEVF-TMAxl1X_1_jpKLJr3S9_I8Y.jpg?s=5f8087c30b8c31f0de7d5c78ebffea96 frameborder=0>
 - entry_name: |
-    Office dog wants to play fetch but everyone is too busy working.
-  entry_id: 8p0b7v
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowAnxiousIlladopsis&url=https%3A%2F%2Fgfycat.com%2Fmellowanxiousilladopsis&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowAnxiousIlladopsis-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Is this how the kids are fighting these days?
   entry_id: 8oumyv
   entry_content: |
@@ -123,25 +123,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pXtIsiMzZ8P1t8EtOa8Pit9eizGv7C95kbwq1gxc-vk.png?s=7be3975acc7d5b7d37088b0d4cff76fd frameborder=0>
 - entry_name: |
-    They won’t suspect a thing
-  entry_id: 8ot7rv
+    Judge Aaron Persky, who gave Brock Turner lenient sentence in rape case, recalled from office
+  entry_id: 8oztyl
   entry_content: |
-    <img src=https://i.redditmedia.com/CiY-XsmI7Ktg0e3YDtVL1wKKtxM1OHfS6ty2Hzi61Qs.jpg?s=797d5a58c33bc18bcfe954e1b751fbc1 frameborder=0>
+    <img src=https://i.redditmedia.com/w2EIGArH7mZBEHyUTwhHCR6YxIXHeycSOAM1Grp3q6k.jpg?s=9ff036cca6cb8c11694fdb4bbc9a5e7c frameborder=0>
 - entry_name: |
     I made an Office thing.
   entry_id: 8oup8o
   entry_content: |
     <img src=https://i.redditmedia.com/B-8ynMzzV3Z_koMZu-ntmDmiOD0WOKFzGSJ6NNo5OrM.jpg?s=ac105aef6c9668dfb790914eb2ab829b frameborder=0>
 - entry_name: |
-    I’m 30 and the rhino scene from “Ace Ventura: When Nature Calls” still makes me laugh until I cry.
-  entry_id: 8ovqji
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/_tDUwNjw7ms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Spiderbro knew the truth...
   entry_id: 8oyfbl
   entry_content: |
     <img src=https://i.redditmedia.com/-ORO1PS3wGSSyEergXCDx0hZnx6GodRTsqMKY3yHvyc.jpg?s=6d9294fab61d51d98f1523b8f6ee40c9 frameborder=0>
+- entry_name: |
+    I’m 30 and the rhino scene from “Ace Ventura: When Nature Calls” still makes me laugh until I cry.
+  entry_id: 8ovqji
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/_tDUwNjw7ms?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     I guess this works too
   entry_id: 8ox7o8
@@ -153,24 +153,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ph2Lc7Y89VCFvfrP2_-eDUEJ2qYG27k3QDzvC3DH9nc.jpg?s=e40984960e2f0c02f3cac5c80411534d frameborder=0>
 - entry_name: |
-    I've never been prouder. Today Jake protected his Mommy and sister from a stray dog attack while I was at work. I love you, son. You're a man now.
-  entry_id: 8ot3i0
-  entry_content: |
-    <img src=https://i.redditmedia.com/WU8eJAr4plUS2WrNrYRyoSio7YDTI6vQizFjudga6Dg.jpg?s=9443dc787ad00d002e4c9d95d984fc2e frameborder=0>
-- entry_name: |
-    Judge Aaron Persky, who gave Brock Turner lenient sentence in rape case, recalled from office
-  entry_id: 8oztyl
-  entry_content: |
-    <img src=https://i.redditmedia.com/w2EIGArH7mZBEHyUTwhHCR6YxIXHeycSOAM1Grp3q6k.jpg?s=9ff036cca6cb8c11694fdb4bbc9a5e7c frameborder=0>
-- entry_name: |
     How France got involved in the American revolutionary war c. 1778
   entry_id: 8ou3n2
   entry_content: |
     <img src=https://i.redditmedia.com/c_YlAcqQ9vQiExe_EwgRyGRiyqpUZXhB0QF5rfxJUiU.jpg?s=a9b94978ec15bc68e28aa50165fbcd3b frameborder=0>
 - entry_name: |
-  entry_id: 8ot5z5
+    A different way to steam eggs
+  entry_id: 8oy00e
   entry_content: |
-    <img src=https://i.redditmedia.com/K1xfjAfkfvWd0JQZHvM_X_efH9dFrejlw0AuS4XruKU.jpg?s=9046e231acbe52b6e156a94c46c5c05b frameborder=0>
+    <iframe src=https://v.redd.it/3uobl0z4eb211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     me🚗irl
   entry_id: 8ouhyt
@@ -182,11 +173,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/eb10d2oij8211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    A different way to steam eggs
-  entry_id: 8oy00e
-  entry_content: |
-    <iframe src=https://v.redd.it/3uobl0z4eb211/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     I told my teenage niece to go get me a phone book...
   entry_id: 8otii4
   entry_content: |
@@ -196,6 +182,11 @@ data:
   entry_id: 8ov7kj
   entry_content: |
     <img src=https://i.redditmedia.com/weJhj7FMX5v-Qaql0OMlDVSPnvwNIx27wbELmpowQBo.jpg?s=b3fbb4805c653ad5bbfdb9d371813772 frameborder=0>
+- entry_name: |
+    The dog's frustration
+  entry_id: 8p0173
+  entry_content: |
+    <iframe src=https://v.redd.it/k7bxxyozed211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Oh...
   entry_id: 8otkqn
@@ -207,6 +198,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/19y079tp89211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Slower, you...
+  entry_id: 8oyotk
+  entry_content: |
+    <img src=https://i.redditmedia.com/7iEIWvYDQbKv_B-u21KAF8FXVrw7LQs8WkMv0OVHI4Q.jpg?s=ab353b79caf436ca2cf47028367dda25 frameborder=0>
+- entry_name: |
     Not dumb if it's fun..
   entry_id: 8ov86b
   entry_content: |
@@ -217,38 +213,43 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GnrFeZBoCedP6-wsz080tTZz1IntMCsJs02KQQIKYEA.jpg?s=3415e6f577cdd8a24c2dadd02d97d8ac frameborder=0>
 - entry_name: |
-    Insecurity
-  entry_id: 8otfvq
+    High Court backs UK National Health Service decision to stop funding homeopathy - NHS England issued guidance in November last year that GPs should not prescribe homeopathic treatments as a new treatment for any patient.
+  entry_id: 8ozkp0
   entry_content: |
-    <img src=https://i.redditmedia.com/IE-mmIMtQvuPa0MKNRLbtZK4nVQCclW0Mivvle3MtUw.jpg?s=b2cde1ba3252d6e8380a433156379215 frameborder=0>
+    <img src=https://i.redditmedia.com/Lb8xLAVLcoH2moAb5Kovo2lD404dWSnEKkKGPWCykSs.jpg?s=1721254bc19472cc1626bbf908598b98 frameborder=0>
 - entry_name: |
     Guess she's not interested in letting me make a deposit.
   entry_id: 8owxjk
   entry_content: |
     <img src=https://i.redditmedia.com/srJpNbGzVp8xJy3LFWXaFG9_qS4rWFVle0zxdDPO_LE.png?s=29eb64374a79bae1b86a5af7d8897f60 frameborder=0>
 - entry_name: |
+    he gave him half his cookie
+  entry_id: 8p0fnt
+  entry_content: |
+    <iframe src=https://v.redd.it/aikdw9ozpd211/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Delivering freedom 24/7
   entry_id: 8oxolb
   entry_content: |
     <img src=https://i.redditmedia.com/2NF7JrnAMZLeEg0bD7oeNv6VaYR1SqAugV1Lmbdo_GA.jpg?s=b7578ef0048f0f6e6917a2438d79c115 frameborder=0>
 - entry_name: |
-    This is what fairness looks like...
-  entry_id: 8ou13n
+    Insecurity
+  entry_id: 8otfvq
   entry_content: |
-    <img src=https://i.redditmedia.com/DS791cohc-7PxBqwBCM59omjbdhkVP56bURqZI0ya28.jpg?s=3822cd551a3dba0a0651d016ef67fa9f frameborder=0>
+    <img src=https://i.redditmedia.com/IE-mmIMtQvuPa0MKNRLbtZK4nVQCclW0Mivvle3MtUw.jpg?s=b2cde1ba3252d6e8380a433156379215 frameborder=0>
 - entry_name: |
     Awesome Elastigirl & Jack-Jack Cosplay
   entry_id: 8owin0
   entry_content: |
     <img src=https://i.redditmedia.com/b5DkcinOPhMqksChoFiZdJYc0T3HqRdUhJaw8Peb4iQ.jpg?s=c00561bcaab104bf214ff3655064022f frameborder=0>
 - entry_name: |
+    This is what fairness looks like...
+  entry_id: 8ou13n
+  entry_content: |
+    <img src=https://i.redditmedia.com/DS791cohc-7PxBqwBCM59omjbdhkVP56bURqZI0ya28.jpg?s=3822cd551a3dba0a0651d016ef67fa9f frameborder=0>
+- entry_name: |
     TIL: Enya has never gone on a concert tour or even performed a solo concert, despite being Ireland’s best selling solo artist and 2nd overall behind U2.
   entry_id: 8outmg
   entry_content: |
     <img src=https://i.redditmedia.com/nYuF_hraNrTI7087UtqJcDd7Q1Hm0lY36Ljbmj5KcmA.jpg?s=7569fb41f75c7045232c6be55ce866af frameborder=0>
-- entry_name: |
-    Friendly Reminder that most of the photos on the internet are posed, edited and the best of a thousand tries.
-  entry_id: 8ouw3b
-  entry_content: |
-    <img src=https://i.redditmedia.com/DGBjBngF84HwL7W1EvxgJ3xGH2TdfO4XGnQDnUEOECI.png?s=f3b2ec4aec36ef621a024e811a90fca8 frameborder=0>
 ---
