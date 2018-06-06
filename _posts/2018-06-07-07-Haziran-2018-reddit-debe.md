@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/P-cl5_oScCaC0kqzStd-j2QLNhvvkpFCxXdZd2Yq4R0.jpg?s=873227c0f6d653a409f1b2572f24039a frameborder=0>
 - entry_name: |
-    The arrangement of these bubbles looks like Europe and Asia
-  entry_id: 8othul
-  entry_content: |
-    <img src=https://i.redditmedia.com/E4odsup9yw5gr5kRgonFjGup4aiT18urLCHzPFLZLV8.jpg?s=f0d149c16da15a156644946a04a5d765 frameborder=0>
-- entry_name: |
     TIL that Keanu Reeves trained for four months in karate for The Matrix. Later, he learned over 200 martial arts moves for Matrix Reloaded. He also learned Judo and Jujitso for John Wick.
   entry_id: 8ouqbv
   entry_content: |
@@ -138,11 +133,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xex204e5ra211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Twin Telepathy. Real brotha for life ✊🏾👯‍♂️
-  entry_id: 8otf3n
-  entry_content: |
-    <img src=https://i.redditmedia.com/ph2Lc7Y89VCFvfrP2_-eDUEJ2qYG27k3QDzvC3DH9nc.jpg?s=e40984960e2f0c02f3cac5c80411534d frameborder=0>
-- entry_name: |
     How France got involved in the American revolutionary war c. 1778
   entry_id: 8ou3n2
   entry_content: |
@@ -162,11 +152,6 @@ data:
   entry_id: 8ottmr
   entry_content: |
     <iframe src=https://v.redd.it/eb10d2oij8211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    I told my teenage niece to go get me a phone book...
-  entry_id: 8otii4
-  entry_content: |
-    null
 - entry_name: |
     Pulled the bike into the garage ..... turned it off .... heard a noise and turned to see my granddaughter pull alongside me on her bike. Heart melted into a puddle :)
   entry_id: 8ov7kj
@@ -223,11 +208,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2NF7JrnAMZLeEg0bD7oeNv6VaYR1SqAugV1Lmbdo_GA.jpg?s=b7578ef0048f0f6e6917a2438d79c115 frameborder=0>
 - entry_name: |
-    Insecurity
-  entry_id: 8otfvq
-  entry_content: |
-    <img src=https://i.redditmedia.com/IE-mmIMtQvuPa0MKNRLbtZK4nVQCclW0Mivvle3MtUw.jpg?s=b2cde1ba3252d6e8380a433156379215 frameborder=0>
-- entry_name: |
     Awesome Elastigirl & Jack-Jack Cosplay
   entry_id: 8owin0
   entry_content: |
@@ -252,4 +232,24 @@ data:
   entry_id: 8ouw3b
   entry_content: |
     <img src=https://i.redditmedia.com/DGBjBngF84HwL7W1EvxgJ3xGH2TdfO4XGnQDnUEOECI.png?s=f3b2ec4aec36ef621a024e811a90fca8 frameborder=0>
+- entry_name: |
+    My wife sent me our son's music results with the comment I can think of, like, 7 ex-boyfriends who needed a scoresheet like this!
+  entry_id: 8ovma4
+  entry_content: |
+    <img src=https://i.redditmedia.com/ywq7WKUl3fMcDOE_bPXdcN3pr6y7LkRtSH6fwagvvsU.jpg?s=823eff2c4eb0c77cfa6db05bc9c463aa frameborder=0>
+- entry_name: |
+    A groundbreaking study reveals human immune cells in the blood can be transformed into functional neurons within 3 weeks by adding four proteins. The discovery could be used to generate neurons to study specific psychological and neurological disorders
+  entry_id: 8owjfa
+  entry_content: |
+    <img src=https://i.redditmedia.com/aT3gr0_KFVCUWiN5ImaBWWHC5FlEZq6eD-q232s_BJI.jpg?s=9b675eb9e3fa2d4e3db61086e04b28fc frameborder=0>
+- entry_name: |
+    Propane Only, No Charcoal Grills
+  entry_id: 8oviao
+  entry_content: |
+    <img src=https://i.redditmedia.com/FF1tYBNfSLuq81iVcumB0wBsHKNPpst8C6kvW2CtYe0.png?s=cbfd55c97b93d2e8d67f5a041abebec5 frameborder=0>
+- entry_name: |
+    Man kneels during national anthem at White House
+  entry_id: 8ou8oo
+  entry_content: |
+    <iframe src=https://v.redd.it/4xjps8ics8211/DASH_1_2_M frameborder=0></iframe>
 ---
