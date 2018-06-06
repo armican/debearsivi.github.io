@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/P-cl5_oScCaC0kqzStd-j2QLNhvvkpFCxXdZd2Yq4R0.jpg?s=873227c0f6d653a409f1b2572f24039a frameborder=0>
 - entry_name: |
-    Oh no, there's going to be a fight!
-  entry_id: 8osq5s
-  entry_content: |
-    <iframe src=https://v.redd.it/nultxk8gw7211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     The arrangement of these bubbles looks like Europe and Asia
   entry_id: 8othul
   entry_content: |
@@ -202,11 +197,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/weJhj7FMX5v-Qaql0OMlDVSPnvwNIx27wbELmpowQBo.jpg?s=b3fbb4805c653ad5bbfdb9d371813772 frameborder=0>
 - entry_name: |
-    First Person Zoomies
-  entry_id: 8ossrp
-  entry_content: |
-    <iframe src=https://v.redd.it/tbshghrrx7211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Oh...
   entry_id: 8otkqn
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8owin0
   entry_content: |
     <img src=https://i.redditmedia.com/b5DkcinOPhMqksChoFiZdJYc0T3HqRdUhJaw8Peb4iQ.jpg?s=c00561bcaab104bf214ff3655064022f frameborder=0>
+- entry_name: |
+    TIL: Enya has never gone on a concert tour or even performed a solo concert, despite being Ireland’s best selling solo artist and 2nd overall behind U2.
+  entry_id: 8outmg
+  entry_content: |
+    <img src=https://i.redditmedia.com/nYuF_hraNrTI7087UtqJcDd7Q1Hm0lY36Ljbmj5KcmA.jpg?s=7569fb41f75c7045232c6be55ce866af frameborder=0>
+- entry_name: |
+    Friendly Reminder that most of the photos on the internet are posed, edited and the best of a thousand tries.
+  entry_id: 8ouw3b
+  entry_content: |
+    <img src=https://i.redditmedia.com/DGBjBngF84HwL7W1EvxgJ3xGH2TdfO4XGnQDnUEOECI.png?s=f3b2ec4aec36ef621a024e811a90fca8 frameborder=0>
 ---
