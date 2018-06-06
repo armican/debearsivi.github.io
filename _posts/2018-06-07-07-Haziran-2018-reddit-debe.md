@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wcRjX_JThaeRbC-rmhsUuGvDW7gwZwjAPCV1bwGBd2c.jpg?s=c8f655b6436944bd9069c8136e191c31 frameborder=0>
 - entry_name: |
-    Apprentice
-  entry_id: 8otyo6
-  entry_content: |
-    <img src=https://i.redditmedia.com/8TDigLiBG-kGCLPAXWvpzrk7xVOelB0Nfep5ukCDFV4.jpg?s=d0d4a3e36e1a6ef3c7805c814ca6c014 frameborder=0>
-- entry_name: |
     This kids freestyle skateboard run
   entry_id: 8oxpll
   entry_content: |
@@ -82,11 +77,6 @@ data:
   entry_id: 8oxbix
   entry_content: |
     <iframe src=https://v.redd.it/p1bkdznvta211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Man takes knee during national anthem at Donald Trump's White House ceremony
-  entry_id: 8ou1d3
-  entry_content: |
-    <img src=https://i.redditmedia.com/CxPKmNZ9yncL4PJ7VCON49I2L5thmrWlqSkYNW3FaQ0.jpg?s=eaae08791d0bd829e33a52673efd0248 frameborder=0>
 - entry_name: |
     Momma Dog fighting off a Leopard that attacks it's Pup
   entry_id: 8ov73k
@@ -223,11 +213,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nYuF_hraNrTI7087UtqJcDd7Q1Hm0lY36Ljbmj5KcmA.jpg?s=7569fb41f75c7045232c6be55ce866af frameborder=0>
 - entry_name: |
-    This is what fairness looks like...
-  entry_id: 8ou13n
-  entry_content: |
-    <img src=https://i.redditmedia.com/DS791cohc-7PxBqwBCM59omjbdhkVP56bURqZI0ya28.jpg?s=3822cd551a3dba0a0651d016ef67fa9f frameborder=0>
-- entry_name: |
     Friendly Reminder that most of the photos on the internet are posed, edited and the best of a thousand tries.
   entry_id: 8ouw3b
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8owufb
   entry_content: |
     <img src=https://i.redditmedia.com/B3UXv2bJf6VfUot59iu8s-UP7sap6GqG6gNDwr2Fa8k.jpg?s=07a50a14bf48b4e25f81cbed11b9626c frameborder=0>
+- entry_name: |
+    This football shaped bottle by a mineral water company ahead of Football Worldcup Russia 2018 that turns into spherical magnifying glass and gets on fire when in sun for more than a minute.
+  entry_id: 8ozj1v
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZHxAzNBoW91DgNCRFB56bjsXCgG19u0l4y1NaEW-g_U.jpg?s=0cee4705ca781a098a21a3e8e1c3f231 frameborder=0>
+- entry_name: |
+    Propane Only, No Charcoal Grills
+  entry_id: 8oviao
+  entry_content: |
+    <img src=https://i.redditmedia.com/FF1tYBNfSLuq81iVcumB0wBsHKNPpst8C6kvW2CtYe0.png?s=cbfd55c97b93d2e8d67f5a041abebec5 frameborder=0>
+- entry_name: |
+    Man kneels during national anthem at White House
+  entry_id: 8ou8oo
+  entry_content: |
+    <iframe src=https://v.redd.it/4xjps8ics8211/DASH_1_2_M frameborder=0></iframe>
 ---
