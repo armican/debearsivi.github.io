@@ -38,10 +38,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Melania Trump's first public appearance in 27 days
+  entry_id: 8pbro9
+  entry_content: |
+    <img src=https://i.redditmedia.com/R35BizAqe7WgggbH52YtcAvmtk6_IkuvaMAxxtS4_f0.gif?fm=jpg&s=ae91ebab65a28f0d4509f561c4a8a57b frameborder=0>
+- entry_name: |
+    Cheating
+  entry_id: 8pa5id
+  entry_content: |
+    <img src=https://i.redditmedia.com/w03KnKwfoBia8p6kQNsqmSdmxehQHVw0WKIBJpb4m8k.jpg?s=2a68ce859e192c3e63eb1a51c66aa264 frameborder=0>
+- entry_name: |
     This flower my mom bought looks like it was photo shopped.
   entry_id: 8p671e
   entry_content: |
     <img src=https://i.redditmedia.com/XcXfeywvMs8ffXnvaHhyqy5X2jqjGQXF0WQ_RhrsHdM.jpg?s=87ff4a9522b5cfeb3cc6d35ea219a12d frameborder=0>
+- entry_name: |
+    This went in a much different direction than I thought.
+  entry_id: 8p9uab
+  entry_content: |
+    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
 - entry_name: |
     Chair use level 9001
   entry_id: 8p4luz
@@ -53,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Z9anXblLnzJ8n6j5kL8rgsenVHUtsEo_3dWnkhpx1hU.jpg?s=ebf839d287acabdcdf757b718614ff0a frameborder=0>
 - entry_name: |
-    Cheating
-  entry_id: 8pa5id
-  entry_content: |
-    <img src=https://i.redditmedia.com/w03KnKwfoBia8p6kQNsqmSdmxehQHVw0WKIBJpb4m8k.jpg?s=2a68ce859e192c3e63eb1a51c66aa264 frameborder=0>
-- entry_name: |
     The Fallout 76 Mural for E3 Looks to be Finished! Image Taken- 2:12PM(PST)
   entry_id: 8p4grg
   entry_content: |
@@ -68,10 +78,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/19tyc3cpkj211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This went in a much different direction than I thought.
-  entry_id: 8p9uab
+    DHL delivery guy hides delivery behind the pillar, and then on noticing the other package he decides to hide that too.
+  entry_id: 8p80fa
   entry_content: |
-    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
+    <iframe src=https://v.redd.it/g4k9a93cvi211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My parents at the end of their wedding in 1977. Also them a few months ago during their 40th year of being married.
   entry_id: 8p7bzm
@@ -82,11 +92,6 @@ data:
   entry_id: 8p6wef
   entry_content: |
     <img src=https://i.redditmedia.com/MPai3rKJLObP3I2616SpYtzRMoF5maKnMMvx6PoIIFY.jpg?s=6936a676f4d4869034258142a7f46c63 frameborder=0>
-- entry_name: |
-    DHL delivery guy hides delivery behind the pillar, and then on noticing the other package he decides to hide that too.
-  entry_id: 8p80fa
-  entry_content: |
-    <iframe src=https://v.redd.it/g4k9a93cvi211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     LeBron James throws it off the backboard to himself and slams it home.
   entry_id: 8p66z4
@@ -103,15 +108,15 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Childhood education
-  entry_id: 8p629y
-  entry_content: |
-    <img src=https://i.redditmedia.com/S6B_-FEtOSxLwrA--W0Klhosr0LdvRLBpvPnl9YWSWs.jpg?s=8f37c70397763a23143334939b31ad31 frameborder=0>
-- entry_name: |
     This diseased walnut looks like a mini planet
   entry_id: 8p9vsn
   entry_content: |
     <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
+- entry_name: |
+    Childhood education
+  entry_id: 8p629y
+  entry_content: |
+    <img src=https://i.redditmedia.com/S6B_-FEtOSxLwrA--W0Klhosr0LdvRLBpvPnl9YWSWs.jpg?s=8f37c70397763a23143334939b31ad31 frameborder=0>
 - entry_name: |
     The hero we need but don’t deserve.
   entry_id: 8p972g
@@ -153,6 +158,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qVaQG_ToOAZqdR06hpqP5EoCDLj4S6q6kx3qTPVVs3k.jpg?s=6804ca6042fddaeb419e5b130834080d frameborder=0>
 - entry_name: |
+    The most adorable leap of faith.
+  entry_id: 8p9i1m
+  entry_content: |
+    <iframe src=https://v.redd.it/ijemf4npck211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     All Icelanders To Be Organ Donors By Default
   entry_id: 8p8wgf
   entry_content: |
@@ -163,30 +173,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
 - entry_name: |
-    Melania Trump's first public appearance in 27 days
-  entry_id: 8pbro9
+    Legend
+  entry_id: 8p8n0z
   entry_content: |
-    <img src=https://i.redditmedia.com/R35BizAqe7WgggbH52YtcAvmtk6_IkuvaMAxxtS4_f0.gif?fm=jpg&s=ae91ebab65a28f0d4509f561c4a8a57b frameborder=0>
+    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
+- entry_name: |
+    NJ teacher leaves $1 million to school district in her will. it will be used on scholarships for special-Education students
+  entry_id: 8p9z22
+  entry_content: |
+    <img src=https://i.redditmedia.com/T4r3scASf34pMQurZj8ozmu-Ybn2w41fqSCA3sMLnPA.jpg?s=16173b072cf14c783c214b40f9a1fcae frameborder=0>
 - entry_name: |
     The Future is Now
   entry_id: 8p4hqx
   entry_content: |
     <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
 - entry_name: |
-    Legend
-  entry_id: 8p8n0z
+    Sounds about right
+  entry_id: 8p8k5g
   entry_content: |
-    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
-- entry_name: |
-    The most adorable leap of faith.
-  entry_id: 8p9i1m
-  entry_content: |
-    <iframe src=https://v.redd.it/ijemf4npck211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/14oQZlv6UrMwwlXvKLXlfw05KqPc4DQCgQ0iqKXaWCQ.jpg?s=eb5bdc2ad095ecc76aba806e46628ada frameborder=0>
 - entry_name: |
     MRW my boss asks me to welcome the new hire and tell him how great it is here
   entry_id: 8p6rh7
   entry_content: |
     <img src=https://i.redditmedia.com/iUPstF7xAd3bIqAafhn6dxYh_A6b3VYPoRJV9lXPsZ4.gif?fm=jpg&s=7b318f32eb8edd5cbd0e622284ff0289 frameborder=0>
+- entry_name: |
+    Facebook...
+  entry_id: 8p89ej
+  entry_content: |
+    <img src=https://i.redditmedia.com/E1qLSoUTxXGNBs_43YJd_48xwhann8jSkfRYeTu9Sms.png?s=1e162c5fba2e6b57c6a13929ec51273d frameborder=0>
 - entry_name: |
     Robo backflip
   entry_id: 8p5fv2
@@ -198,58 +213,43 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9r97y49c3h211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Facebook...
-  entry_id: 8p89ej
+    When you see two of the same exact posts and you gotta check the upload times to figure out which one to downvote.
+  entry_id: 8p9aay
   entry_content: |
-    <img src=https://i.redditmedia.com/E1qLSoUTxXGNBs_43YJd_48xwhann8jSkfRYeTu9Sms.png?s=1e162c5fba2e6b57c6a13929ec51273d frameborder=0>
-- entry_name: |
-    Sounds about right
-  entry_id: 8p8k5g
-  entry_content: |
-    <img src=https://i.redditmedia.com/14oQZlv6UrMwwlXvKLXlfw05KqPc4DQCgQ0iqKXaWCQ.jpg?s=eb5bdc2ad095ecc76aba806e46628ada frameborder=0>
-- entry_name: |
-    NJ teacher leaves $1 million to school district in her will. it will be used on scholarships for special-Education students
-  entry_id: 8p9z22
-  entry_content: |
-    <img src=https://i.redditmedia.com/T4r3scASf34pMQurZj8ozmu-Ybn2w41fqSCA3sMLnPA.jpg?s=16173b072cf14c783c214b40f9a1fcae frameborder=0>
-- entry_name: |
-    Tornado in my town today
-  entry_id: 8p6qav
-  entry_content: |
-    <iframe src=https://v.redd.it/uybdqslgrh211/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    me irl
-  entry_id: 8p4gko
-  entry_content: |
-    <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
-- entry_name: |
-    Nap time
-  entry_id: 8p7nui
-  entry_content: |
-    <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
-- entry_name: |
-    Vish’Ora the organ collector.
-  entry_id: 8p5hil
-  entry_content: |
-    <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
-- entry_name: |
-    Touching the sky
-  entry_id: 8p7pyn
-  entry_content: |
-    <img src=https://i.redditmedia.com/VeenzcDjWI3HJD-rZ-zlPrQIGYYbO1aBlpq6fref5yA.jpg?s=30f9815e8e3189c69b0fa5bac69daf85 frameborder=0>
-- entry_name: |
-    First day of Taekwondo, first lesson... nailed it
-  entry_id: 8p5f0u
-  entry_content: |
-    <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/eFZUww08gTerdaa9cy-NsRT5WoT4T4CSbdNhCyZb-28.jpg?s=73e4f745969586cc91b8217c99cb95fc frameborder=0>
 - entry_name: |
     Visible Shock Wave
   entry_id: 8p9c8j
   entry_content: |
     <img src=https://i.redditmedia.com/6sKZrWbMzDU4SpoO2I6kKhKDU0neGPeFeTyJckuT-R4.jpg?s=b02877c839db1f704f258201f78c2900 frameborder=0>
 - entry_name: |
-    When you see two of the same exact posts and you gotta check the upload times to figure out which one to downvote.
-  entry_id: 8p9aay
+    Tornado in my town today
+  entry_id: 8p6qav
   entry_content: |
-    <img src=https://i.redditmedia.com/eFZUww08gTerdaa9cy-NsRT5WoT4T4CSbdNhCyZb-28.jpg?s=73e4f745969586cc91b8217c99cb95fc frameborder=0>
+    <iframe src=https://v.redd.it/uybdqslgrh211/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Nap time
+  entry_id: 8p7nui
+  entry_content: |
+    <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
+- entry_name: |
+    Touching the sky
+  entry_id: 8p7pyn
+  entry_content: |
+    <img src=https://i.redditmedia.com/VeenzcDjWI3HJD-rZ-zlPrQIGYYbO1aBlpq6fref5yA.jpg?s=30f9815e8e3189c69b0fa5bac69daf85 frameborder=0>
+- entry_name: |
+    me irl
+  entry_id: 8p4gko
+  entry_content: |
+    <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
+- entry_name: |
+    Vish’Ora the organ collector.
+  entry_id: 8p5hil
+  entry_content: |
+    <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
+- entry_name: |
+    First day of Taekwondo, first lesson... nailed it
+  entry_id: 8p5f0u
+  entry_content: |
+    <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
 ---
