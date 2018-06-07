@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gyonseR_ro8XzLC_j_QJwYBIrNQou7Mq2_mQ4i5QDhg.jpg?s=3bcb44481ab725f65a2d7f1b6ed7b1ff frameborder=0>
 - entry_name: |
-    Trump in inexplicably decides to put his water bottle of the floor. Pence has no other choice but to follow suit.
-  entry_id: 8p2y7v
-  entry_content: |
-    <iframe src=https://v.redd.it/q6e10pd49f211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Canada is set to legalize recreational marijuana this week
   entry_id: 8p5ry2
   entry_content: |
@@ -43,6 +38,16 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2uqrpy8nlf211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Hot Wheels GoPro with jump & loop
+  entry_id: 8p9b19
+  entry_content: |
+    <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    a 54 million yo gecko trapped in amber
+  entry_id: 8pa1qv
+  entry_content: |
+    <img src=https://i.redditmedia.com/KY_gE_bbcUVUhHOcNzBK2Z3JoGd4qMLqL8maJLFM45o.jpg?s=bdff4ecf28c4f0e05657270009c65f40 frameborder=0>
+- entry_name: |
     This flower my mom bought looks like it was photo shopped.
   entry_id: 8p671e
   entry_content: |
@@ -63,20 +68,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O3eWzA1jJgA1xGxmTwQfBM1BpH7aW5xZtvqGz7ljoH0.jpg?s=473a44cd3a62f3573a85b86e6fe06e1f frameborder=0>
 - entry_name: |
-    Hot Wheels GoPro with jump & loop
-  entry_id: 8p9b19
+    The difference between sisters and brothers
+  entry_id: 8p8pxl
   entry_content: |
-    <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/19tyc3cpkj211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Got thrown out of r/oldschoolcool but this too bad ass not to share again.
   entry_id: 8p6wef
   entry_content: |
     <img src=https://i.redditmedia.com/MPai3rKJLObP3I2616SpYtzRMoF5maKnMMvx6PoIIFY.jpg?s=6936a676f4d4869034258142a7f46c63 frameborder=0>
-- entry_name: |
-    The difference between sisters and brothers
-  entry_id: 8p8pxl
-  entry_content: |
-    <iframe src=https://v.redd.it/19tyc3cpkj211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My parents at the end of their wedding in 1977. Also them a few months ago during their 40th year of being married.
   entry_id: 8p7bzm
@@ -98,11 +98,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    a 54 million yo gecko trapped in amber
-  entry_id: 8pa1qv
-  entry_content: |
-    <img src=https://i.redditmedia.com/KY_gE_bbcUVUhHOcNzBK2Z3JoGd4qMLqL8maJLFM45o.jpg?s=bdff4ecf28c4f0e05657270009c65f40 frameborder=0>
-- entry_name: |
     Mom Reflexes
   entry_id: 8p81qz
   entry_content: |
@@ -118,6 +113,21 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/S6B_-FEtOSxLwrA--W0Klhosr0LdvRLBpvPnl9YWSWs.jpg?s=8f37c70397763a23143334939b31ad31 frameborder=0>
 - entry_name: |
+    This went in a much different direction than I thought.
+  entry_id: 8p9uab
+  entry_content: |
+    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
+- entry_name: |
+    Cheating
+  entry_id: 8pa5id
+  entry_content: |
+    <img src=https://i.redditmedia.com/w03KnKwfoBia8p6kQNsqmSdmxehQHVw0WKIBJpb4m8k.jpg?s=2a68ce859e192c3e63eb1a51c66aa264 frameborder=0>
+- entry_name: |
+    The majestic land dolphin
+  entry_id: 8p7ia4
+  entry_content: |
+    <iframe src=https://v.redd.it/16uj6h97ei211/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     80 arrested, 95 pounds of meth and 75 guns seized in largest drug bust in recent history- Seattle WA
   entry_id: 8p4n26
   entry_content: |
@@ -128,10 +138,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DfoyOVprnitbhCv_tQQFJidhqanRZWtal1CIKfGXfgk.jpg?s=399a1d03ac2679012b7632ede8f71609 frameborder=0>
 - entry_name: |
-    The majestic land dolphin
-  entry_id: 8p7ia4
+    The hero we need but don’t deserve.
+  entry_id: 8p972g
   entry_content: |
-    <iframe src=https://v.redd.it/16uj6h97ei211/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     This one was one of my fav and took a while to do.
   entry_id: 8p4vfv
@@ -148,50 +158,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C1HKbp3NOjDxDYO4qjgrLwdd7sfcltC74fJpG3EjH5s.jpg?s=63a5d4086d7bf050986b3f3fc90cc463 frameborder=0>
 - entry_name: |
-    The hero we need but don’t deserve.
-  entry_id: 8p972g
+    This diseased walnut looks like a mini planet
+  entry_id: 8p9vsn
   entry_content: |
-    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
 - entry_name: |
     It’s reasonable doubt, then.
   entry_id: 8p3etp
   entry_content: |
     <img src=https://i.redditmedia.com/HwATBdGzAcQWFnxoj0TR4_C3mc7llHgcGBXmhJAzeaU.jpg?s=8c1ed13b6aad7fd4a8d76468924d13aa frameborder=0>
 - entry_name: |
-    The original Gerber baby meets the current Gerber baby
-  entry_id: 8p5qzd
-  entry_content: |
-    <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
-- entry_name: |
     TIL Back in the 1980's people were able to download Video Games from a radio broadcast by recording the sounds onto a cassette tape that they could then play on their computers.
   entry_id: 8p7j7y
   entry_content: |
     <img src=https://i.redditmedia.com/qVaQG_ToOAZqdR06hpqP5EoCDLj4S6q6kx3qTPVVs3k.jpg?s=6804ca6042fddaeb419e5b130834080d frameborder=0>
 - entry_name: |
-    The Future is Now
-  entry_id: 8p4hqx
+    The original Gerber baby meets the current Gerber baby
+  entry_id: 8p5qzd
   entry_content: |
-    <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
-- entry_name: |
-    The warmest time of the year​ and the refrigerator is the coldest place.
-  entry_id: 8p8enn
-  entry_content: |
-    <iframe src=https://v.redd.it/rhibm6yj8j211/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
 - entry_name: |
     All Icelanders To Be Organ Donors By Default
   entry_id: 8p8wgf
   entry_content: |
     <img src=https://i.redditmedia.com/Q6eekiYJA4lhHvgmPnKhpFVeycL-bOtz6Gf42bYvyM4.jpg?s=04407437bfd8d21d59e767d84e567faf frameborder=0>
 - entry_name: |
+    The Future is Now
+  entry_id: 8p4hqx
+  entry_content: |
+    <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
+- entry_name: |
     Robo backflip
   entry_id: 8p5fv2
   entry_content: |
     <iframe src=https://v.redd.it/5ujfdfddtg211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    This went in a much different direction than I thought.
-  entry_id: 8p9uab
-  entry_content: |
-    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
 - entry_name: |
     Ears? Ears!
   entry_id: 8p5txb
@@ -202,6 +202,11 @@ data:
   entry_id: 8p6rh7
   entry_content: |
     <img src=https://i.redditmedia.com/iUPstF7xAd3bIqAafhn6dxYh_A6b3VYPoRJV9lXPsZ4.gif?fm=jpg&s=7b318f32eb8edd5cbd0e622284ff0289 frameborder=0>
+- entry_name: |
+    Legend
+  entry_id: 8p8n0z
+  entry_content: |
+    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
 - entry_name: |
     Panini
   entry_id: 8p3tyt
@@ -218,6 +223,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
 - entry_name: |
+    Facebook...
+  entry_id: 8p89ej
+  entry_content: |
+    <img src=https://i.redditmedia.com/E1qLSoUTxXGNBs_43YJd_48xwhann8jSkfRYeTu9Sms.png?s=1e162c5fba2e6b57c6a13929ec51273d frameborder=0>
+- entry_name: |
+    The most adorable leap of faith.
+  entry_id: 8p9i1m
+  entry_content: |
+    <iframe src=https://v.redd.it/ijemf4npck211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Vish’Ora the organ collector.
   entry_id: 8p5hil
   entry_content: |
@@ -228,28 +243,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wKbhbSKEWQQGg1d-_ax5Pmb1cbrEkv4oiHZxZkk0Ec4.jpg?s=497096cc8a8cd06c962506dc1f9a33a2 frameborder=0>
 - entry_name: |
-    Legend
-  entry_id: 8p8n0z
-  entry_content: |
-    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
-- entry_name: |
     First day of Taekwondo, first lesson... nailed it
   entry_id: 8p5f0u
   entry_content: |
     <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    This diseased walnut looks like a mini planet
-  entry_id: 8p9vsn
+    Nap time
+  entry_id: 8p7nui
   entry_content: |
-    <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
-- entry_name: |
-    Backward driver
-  entry_id: 8p4aaw
-  entry_content: |
-    <iframe src=https://v.redd.it/hunzyl7ocf211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    In Coraline (2009) while the Other Mother is cracking an egg, the yolk is the head of Jack Skellington from the Nightmare Before Christmas.
-  entry_id: 8p6k32
-  entry_content: |
-    <img src=https://i.redditmedia.com/mLU8F8wNdohGG7gxV0nHeCFcgA1xdCpW3sRhaOcB9VA.jpg?s=b9d08c440e3862736a8fd910ab0c77f5 frameborder=0>
+    <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
 ---
