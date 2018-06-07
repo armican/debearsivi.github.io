@@ -213,11 +213,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/T4r3scASf34pMQurZj8ozmu-Ybn2w41fqSCA3sMLnPA.jpg?s=16173b072cf14c783c214b40f9a1fcae frameborder=0>
 - entry_name: |
-    Panini
-  entry_id: 8p3tyt
-  entry_content: |
-    <img src=https://i.redditmedia.com/AkJ9brLV56s1qEPEax7lbXDP2uEgM91akjawdbFK174.jpg?s=b65e1a4647eccdf43aeeaf1c6adb4909 frameborder=0>
-- entry_name: |
     Tornado in my town today
   entry_id: 8p6qav
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8p9c8j
   entry_content: |
     <img src=https://i.redditmedia.com/6sKZrWbMzDU4SpoO2I6kKhKDU0neGPeFeTyJckuT-R4.jpg?s=b02877c839db1f704f258201f78c2900 frameborder=0>
+- entry_name: |
+    When you see two of the same exact posts and you gotta check the upload times to figure out which one to downvote.
+  entry_id: 8p9aay
+  entry_content: |
+    <img src=https://i.redditmedia.com/eFZUww08gTerdaa9cy-NsRT5WoT4T4CSbdNhCyZb-28.jpg?s=73e4f745969586cc91b8217c99cb95fc frameborder=0>
 ---
