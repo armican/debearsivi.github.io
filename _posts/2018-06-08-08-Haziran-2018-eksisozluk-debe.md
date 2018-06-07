@@ -3,34 +3,42 @@ layout: post
 title: 08 Haziran 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    apoletleri sökeceğim lafının seçimi kaybettirmesi
-  entry_id:  77806129
-  entry_writer: geri donen mektup
-  entry_fav_count: 908
-  entry_content: |
-    oy vermemek icin bahane arayan gevsekleri gordukce gotumle guluyorum. ulan zaten oy vermeyeceksiniz neyin tatavasi lan bu? <br/>neymis efendim apoletlerini sokecegim demis o yuzden oy vermeyecekmis. <br/>yahu 16 yildir ulkenin anasini belliyorlar. az utanin lan.<br/><br/>bu kadar serefsizlik olmaz arkadas ya.
-  entry_channels: siyaset,anket,tv,haber
-- entry_name: |
     7 haziran 2018 suriyelilerin oy kullanması
   entry_id:  77819156
   entry_writer: arkanabakmassankuserim
-  entry_fav_count: 900
+  entry_fav_count: 923
   entry_content: |
     türkçe bilmiyor<br/>türkiye'ye başkan seçecek, türkçe bilmiyor<br/><br/>bunlardan yüzbinlerce var<br/><br/>sen yıllarca oku, düşün, ülkeyi eğitimli insanlara emanet etmek için canını dişine tak,<br/>türkçe bilmeyen yüzbinler gelsin, başkan seçsin.<br/><br/>ey aysun kayacı, ne güzel bir düşünce insanı imişsin.
   entry_channels: siyaset
 - entry_name: |
+    apoletleri sökeceğim lafının seçimi kaybettirmesi
+  entry_id:  77806129
+  entry_writer: geri donen mektup
+  entry_fav_count: 913
+  entry_content: |
+    oy vermemek icin bahane arayan gevsekleri gordukce gotumle guluyorum. ulan zaten oy vermeyeceksiniz neyin tatavasi lan bu? <br/>neymis efendim apoletlerini sokecegim demis o yuzden oy vermeyecekmis. <br/>yahu 16 yildir ulkenin anasini belliyorlar. az utanin lan.<br/><br/>bu kadar serefsizlik olmaz arkadas ya.
+  entry_channels: siyaset,anket,tv,haber
+- entry_name: |
     tıp fakülteleri batırıyorsunuz bizi
   entry_id:  77811642
   entry_writer: didierdrogba07
-  entry_fav_count: 652
+  entry_fav_count: 660
   entry_content: |
     tıp fakülteleri eğitim kurumudur, ticarethane değil. doktor yetiştirirler, tacir değil.<br/><br/>gerçi zarar kavramından bahsetmek bile gerizekalılık ama elbette eksi bakiyede olacaklardır. devlete bak, iyice çiftlik oldu anasını satayım...<br/><br/>özel hastane mi lan bu!
   entry_channels: siyaset,sağlık,eğitim
 - entry_name: |
+    tayyip erdoğan'ın atama bekleyen öğretmene cevabı
+  entry_id:  77823021
+  entry_writer: visne curugu
+  entry_fav_count: 445
+  entry_content: |
+    "umudumuz yok, atama bekliyoruz" diyen öğretmen adayına verdiği <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/metcihan/status/1004590933265010689/video/1" title="https://twitter.com/metcihan/status/1004590933265010689/video/1">cevaptır</a>.<br/>"herkesin atanmasını beklemeyin, öğretmenlik dışında şeyler de düşünün, biz yavrularımız 'üniversite okudum' diyebilsin diye herkesi üniversiteli yaptık."<br/><br/>not: yorumsuz paylaşınca fark ettim aslında, kendilerini en güzel kendileri anlatıyorlar promptersız kalınca.
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
     mustafa sandal'ın emine jahovic'e vereceği nafaka
   entry_id:  77808542
   entry_writer: sorun ne ahbap
-  entry_fav_count: 388
+  entry_fav_count: 392
   entry_content: |
     e hani kadın ayakları üstünde durabiliyorsa nafaka verilmez diyenler? emina zaten yeterince zengin, şarkıcılığı var ve memleketinde baya tanınan biri. buna rağmen dünyaları almış. <br/><br/>bizim yatımız katımız da yok. yok arkadaş evlenmemeye devam.
   entry_channels: anket,magazin
@@ -38,7 +46,7 @@ data:
     danla biliç'in etkisinden çıkılamayan fotoğrafı
   entry_id:  77818856
   entry_writer: entellektuel nick
-  entry_fav_count: 380
+  entry_fav_count: 388
   entry_content: |
     kilolu biriyle sırf kilosundan ötürü dalga geçme aşağılık bir davranıştır lakiiin;<br/><br/>bu kişi insanları tiplerinden ötürü itin gtüne sokuyorsa müstehaktır.
   entry_channels: magazin
@@ -46,18 +54,18 @@ data:
     taksici uber savaşından çıkarılacak ders
   entry_id:  77798602
   entry_writer: saintly
-  entry_fav_count: 360
+  entry_fav_count: 361
   entry_content: |
     (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)
   entry_channels: anket,seyahat
 - entry_name: |
-    tayyip erdoğan'ın atama bekleyen öğretmene cevabı
-  entry_id:  77823021
-  entry_writer: visne curugu
-  entry_fav_count: 344
+    millet kıraathaneleri
+  entry_id:  77822833
+  entry_writer: kafayi kurtaran adam
+  entry_fav_count: 342
   entry_content: |
-    "umudumuz yok, atama bekliyoruz" diyen öğretmen adayına verdiği <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/metcihan/status/1004590933265010689/video/1" title="https://twitter.com/metcihan/status/1004590933265010689/video/1">cevaptır</a>.<br/>"herkesin atanmasını beklemeyin, öğretmenlik dışında şeyler de düşünün, biz yavrularımız 'üniversite okudum' diyebilsin diye herkesi üniversiteli yaptık."<br/><br/>not: yorumsuz paylaşınca fark ettim aslında, kendilerini en güzel kendileri anlatıyorlar promptersız kalınca.
-  entry_channels: siyaset,haber,eğitim
+    işsizlik geliyor demek ki. kahveye kıraathaneye takılırız artık.
+  entry_channels: siyaset
 - entry_name: |
     7 haziran 2018 merkez bankası faiz kararı
   entry_id:  77807456
@@ -67,34 +75,42 @@ data:
     bugün buraya not düşülmesini isterim ki, türkiye cumhuriyeti dünyanın en yüksek faizini veren ülkesi konumuna gelecek ve buna rağmen sıcak parayı ülkesine çekemeyen ülke olarak tarihe geçecektir.
   entry_channels: haber,ekonomi
 - entry_name: |
-    millet kıraathaneleri
-  entry_id:  77822833
-  entry_writer: kafayi kurtaran adam
-  entry_fav_count: 273
+    chp'li kadını görünce son ses dombra çalan adam
+  entry_id:  77825064
+  entry_writer: analog deep
+  entry_fav_count: 282
   entry_content: |
-    işsizlik geliyor demek ki. kahveye kıraathaneye takılırız artık.
-  entry_channels: siyaset
-- entry_name: |
-    7 haziran 2018 ak parti'nin unutma reklamı
-  entry_id:  77818529
-  entry_writer: ayarsizenerji
-  entry_fav_count: 271
-  entry_content: |
-    gün gelecek birileri de bugünleri reklam yapacak unutmayın diye. şeker fabrikaları satıldı unutmayın, türk telekom satıldı unutmayın, bankalar satıldı araziler satıldı unutmayın.
-  entry_channels: siyaset
+    zavallı kadın konuşarak iletişim kurabileceğini sanıyor.
+  entry_channels: siyaset,müzik
 - entry_name: |
     dolar 4.49 olunca sus pus olan ekşici
   entry_id:  77821352
   entry_writer: rs ne la
-  entry_fav_count: 269
+  entry_fav_count: 275
   entry_content: |
     anneme başlığı okudum, dalga geçmeyin oğlum belki özürlüdür dedi.
   entry_channels: ekonomi
 - entry_name: |
+    7 haziran 2018 ak parti'nin unutma reklamı
+  entry_id:  77818529
+  entry_writer: ayarsizenerji
+  entry_fav_count: 275
+  entry_content: |
+    gün gelecek birileri de bugünleri reklam yapacak unutmayın diye. şeker fabrikaları satıldı unutmayın, türk telekom satıldı unutmayın, bankalar satıldı araziler satıldı unutmayın.
+  entry_channels: siyaset
+- entry_name: |
+    yastık altındaki dövizlerinizi sisteme sokun
+  entry_id:  77807531
+  entry_writer: desmosedici
+  entry_fav_count: 263
+  entry_content: |
+    "yatırın ki marmaris okluktaki yazlık saray için de hindistandan mermer getirtelim" beyanı
+  entry_channels: haber,ekonomi
+- entry_name: |
     fizik öğretmenine ülke emanet etmek
   entry_id:  77816405
   entry_writer: lifehasbetrayedmeonceagain
-  entry_fav_count: 250
+  entry_fav_count: 258
   entry_content: |
     lisans diploması olmayan birine emanet etmekten iyidir.
   entry_channels: siyaset
@@ -102,18 +118,10 @@ data:
     yazarların evlerindeki 2015 2017 2018 oy dağılımı
   entry_id:  77805258
   entry_writer: cembom
-  entry_fav_count: 196
+  entry_fav_count: 197
   entry_content: |
     2015 - 3 chp<br/><br/>2017-3 hayır<br/><br/>2018- 3 hdp- 3 ince<br/><br/>baraj problemi çözmeyi seviyoruz ailecek
   entry_channels: siyaset,anket
-- entry_name: |
-    chp'li kadını görünce son ses dombra çalan adam
-  entry_id:  77825064
-  entry_writer: analog deep
-  entry_fav_count: 177
-  entry_content: |
-    zavallı kadın konuşarak iletişim kurabileceğini sanıyor.
-  entry_channels: siyaset,müzik
 - entry_name: |
     30 yıl sonra çocuklara anlatılacak üç futbolcu
   entry_id:  77803809
@@ -131,109 +139,93 @@ data:
     lefkoşa, girne ve magosa (magusa)<br/><br/>edit: imla
   entry_channels: anket,otomotiv,seyahat
 - entry_name: |
-    6 haziran 2018 orman mühendisleri odası duyurusu
-  entry_id:  77813600
-  entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 167
-  entry_content: |
-    şimdi anladınız mı o ormanlar katledilirken sessiz kalanların kimler olduğunu.
-  entry_channels: siyaset,haber
-- entry_name: |
-    olası uzaylı istilasında rte'nin vereceği tepki
-  entry_id:  77799261
-  entry_writer: hayabusan
-  entry_fav_count: 166
-  entry_content: |
-    bunlar bu dünyadan değil!!!
-  entry_channels: siyaset,anket,bilim
-- entry_name: |
     7 haziran 2018 yurt dışı oylamasının başlaması
   entry_id:  77805399
   entry_writer: bdl
-  entry_fav_count: 144
+  entry_fav_count: 150
   entry_content: |
     bu ülkede yaşamayanların, bu ülkede yaşayanların kaderiyle oynadığı oylamadır.
   entry_channels: siyaset,haber
 - entry_name: |
-    6 haziran 2018 fox tv meral akşener canlı yayını
-  entry_id:  77797652
-  entry_writer: mazda
-  entry_fav_count: 127
-  entry_content: |
-    meral akşener'i yeterince tanımadığımı anladığım program oldu. ince'yi pek çok konuda daha bilgili ve hakim görürdüm ancak programdan sonra "tamam ince iyi hatip ama bu kadın entelektüel olarak o kadar dolu ki bazı konularda kendini ifade etmekte bile zorlanıyor" diye düşündüm.yani kafasındaki düşünceleri basite,halkın anlayabileceği seviyeye indirmekte zorlanıyor çünkü belli ki pek çok konuyu baya derinlemesine biliyor.bazen çok iyi bildiğiniz bir konuyu hiç bilmeyen birine anlatırken zorlanırsınız.konu çok derinlemesinedir özet geçerseniz bişey anlaşılmaz uzun uzun açıklamak istediğinizde de konu bütünlüğü sık sık bozulur.akşener bence bu akşamki yayında bunu yaşadı.
-  entry_channels: siyaset,tv
-- entry_name: |
-    erkeklerin en yakışıklı oldukları yaş
-  entry_id:  77813840
-  entry_writer: foxkids
-  entry_fav_count: 108
-  entry_content: |
-    her sene değişmektedir.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id:  77799151
-  entry_writer: eksi peace
-  entry_fav_count: 107
-  entry_content: |
-    yıllardır her seçimi, her lideri yakından takip ederim.<br/><br/>özellikle rte'nin seçim stratejisini analiz ederim. söyleyeceğim şu ki ilk kez 24 haziran seçimleri öncesinde fena halde tökezlediğini gördüm. heyecanının olmadığı, aynı şeyleri tekrarladığını zaten herkes yazıyor o konu herkesin gözlemlediği bir şey, fakat her söylediği, her yaptığı harekette pot kırması, muhalefete gollük malzemeler vermesi rte'nin seçim serüvenlerinde görülmüş bir şey değildir. seçim çalışmaları başlarken yaptığı hatalı çıkışlar sonrası danışmanları uyarır, strateji değiştirir falan diye beklerken durum en kötüsüne doğru gitmeye devam etti.<br/><br/>sonuç olarak zaten yeterince yorulmuş, yıpranmış rte bu olaylar neticisinde kontrolünü kaybetme riskiyle karşı karşıya, kontrolünü kaybederse seçim çalışmalarındaki üslubunu sertleştirebilir bu üslup sertleşmesi çevresindeki kişileri hatta seçmenlerini de etkileyebilir. seçmenlerine yönelik sert çıkışlar yapmaya başlaması zaten kararsız ve huzursuz olan seçmenlerin homurdanma seslerinin açık açık duyulmasına neden olabilir, buradaki kırılma noktası rte'nin akp'nin kalesi olmayan bir il'de yapacağı mitingte yuhlanması olur. o aşamadan sonra zaten kötüye giden seçim çalışmaları durma noktasına gelebilir. bu, tetikte bekleyen muhalefetin de kullanacağı güzel bir malzeme olur.<br/><br/>özetlersek; rte tedirgin, gergin. başkanlığı kıl payı da olsa alacağına inanıyor fakat meclisi kaybedeceğini biliyor, meclisi feshedip bir seçim daha yapmasının eriyen oylarını daha da aşağı çekeceğini biliyor. mhp ittifakının beklediği dönüşü sağlamaması ve bu aşamadan sonra yeni bir seçim için başka bir ittifak şansının olmaması ve elindeki kozlarının tükendiğini bilmesi "acaba bitiyor mu" sorusunu kendisine sık sık sormasına neden oluyor. bu soruyu soran tek kişi rte değil; çevresindeki herkes bakanları, akp'li milletvekilleri, yandaş şirket sahipleri hatta saray'da çalışan reis sevdalısı kadrolu temizlik görevlisi bile bu soruyu kendisine soruyor. rte giderse bu kişiler ayakta kalamayacaklarının farkında, bunun tedirginliği tüm akp tabanında hissediliyor.<br/><br/>havuz medyası pohpohlaması ve aktroll goygoylarının hiçbirini ciddiye almayın, tek atımlık barutlarını kullanıyorlar. titanic batarken keman çalanları hatırlayın, evet işte onlar bunlar. bekleyip neler olacağını göreceğiz, önümüzdeki 1 ay çok eğlenceli olacak.<br/><br/>tanımımızı da yapalım; yolun sonunun yaklaştığının farkında olan akp başkanı.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
     7 haziran 2018 cumhur ittifakının çatırdaması
   entry_id:  77823437
   entry_writer: quat
-  entry_fav_count: 105
+  entry_fav_count: 119
   entry_content: |
     kızdırmışlar mehmet bahçeliyi, niye kızdırdınız lan adamı şimdi arkadan yapacak dağılacaksınız.
   entry_channels: siyaset,haber
 - entry_name: |
-    aykut kocaman
-  entry_id:  77799007
-  entry_writer: pozzecco
-  entry_fav_count: 93
+    recep tayyip erdoğan
+  entry_id:  77799151
+  entry_writer: eksi peace
+  entry_fav_count: 109
   entry_content: |
-    istifa etmemesine sevindiğim teknik direktör. zaten böyle sönük bir şekilde, "istifa edecek" dedikoduları ile gitmemeliydi.<br/><br/>bence prosedür şöyle işlemeli;<br/><br/>aykut kocaman ile görüşülür ve "sen bizim kocaman umudumuzsun" gibi laflar edilerek tazminatsız 10 yıllık bir sözleşme imzalanır. "iki gün sonra stadımızda tören yapacağız" denir. kendisi de bu kadar başarısız olmasına rağmen "ben galiba kocaman umutlarıyım" diyerek mutlu olur. <br/><br/>ertesi gün medyaya ya da kocaman'a duyurulmadan alex, tüm yetkiler kendisine verilecek şekilde sportif direktör olur, luxemburgo ya da zico gibi biriyle ve aynı günün gecesinde türkiye'ye gelir. <br/><br/>bir sonraki gün türk filmlerindeki gibi bir mizansen yaratılır ve aykut kocaman'a "sizi yeni sportif direktörümüzle görüştüreceğiz, bundan sonra kendisine bağlı çalışacaksınız" denir. <br/><br/>kulüp binasındaki sportif direktör odasında alex de souza oturmaktadır. koltuğunun arkası kapıya dönüktür. <br/><br/>aykut kocaman kapıyı çalıp içeri girer. koltukta oturanı göremez. sonra bacak bacak üstüne atmış olan alex, yere basan ayağıyla yavaş yavaş döner ve "bundan sonra u-21'le çalışacaksın, ben istemedikçe de a takımı yönetemeyeceksin" der. <br/><br/>aykut kocaman "ama ama" derken, "tamam, vazgeçtim, kovuldun" der alex ve cebinden twitini çıkarıp "şlaks" diye o anın fotoğrafını çeker, daha sonra o fotoğraf büyütülüp stadın girişine asılır. <br/><br/>fenerbahçe başkanı olsaydım ben böyle yapardım. öyle sessiz sakin istifa etsin gitsin ile olacak şey değil, içimin soğuması için aykut kocaman'ın böyle bir şey yaşaması gerek.
-  entry_channels: spor,haber
+    yıllardır her seçimi, her lideri yakından takip ederim.<br/><br/>özellikle rte'nin seçim stratejisini analiz ederim. söyleyeceğim şu ki ilk kez 24 haziran seçimleri öncesinde fena halde tökezlediğini gördüm. heyecanının olmadığı, aynı şeyleri tekrarladığını zaten herkes yazıyor o konu herkesin gözlemlediği bir şey, fakat her söylediği, her yaptığı harekette pot kırması, muhalefete gollük malzemeler vermesi rte'nin seçim serüvenlerinde görülmüş bir şey değildir. seçim çalışmaları başlarken yaptığı hatalı çıkışlar sonrası danışmanları uyarır, strateji değiştirir falan diye beklerken durum en kötüsüne doğru gitmeye devam etti.<br/><br/>sonuç olarak zaten yeterince yorulmuş, yıpranmış rte bu olaylar neticisinde kontrolünü kaybetme riskiyle karşı karşıya, kontrolünü kaybederse seçim çalışmalarındaki üslubunu sertleştirebilir bu üslup sertleşmesi çevresindeki kişileri hatta seçmenlerini de etkileyebilir. seçmenlerine yönelik sert çıkışlar yapmaya başlaması zaten kararsız ve huzursuz olan seçmenlerin homurdanma seslerinin açık açık duyulmasına neden olabilir, buradaki kırılma noktası rte'nin akp'nin kalesi olmayan bir il'de yapacağı mitingte yuhlanması olur. o aşamadan sonra zaten kötüye giden seçim çalışmaları durma noktasına gelebilir. bu, tetikte bekleyen muhalefetin de kullanacağı güzel bir malzeme olur.<br/><br/>özetlersek; rte tedirgin, gergin. başkanlığı kıl payı da olsa alacağına inanıyor fakat meclisi kaybedeceğini biliyor, meclisi feshedip bir seçim daha yapmasının eriyen oylarını daha da aşağı çekeceğini biliyor. mhp ittifakının beklediği dönüşü sağlamaması ve bu aşamadan sonra yeni bir seçim için başka bir ittifak şansının olmaması ve elindeki kozlarının tükendiğini bilmesi "acaba bitiyor mu" sorusunu kendisine sık sık sormasına neden oluyor. bu soruyu soran tek kişi rte değil; çevresindeki herkes bakanları, akp'li milletvekilleri, yandaş şirket sahipleri hatta saray'da çalışan reis sevdalısı kadrolu temizlik görevlisi bile bu soruyu kendisine soruyor. rte giderse bu kişiler ayakta kalamayacaklarının farkında, bunun tedirginliği tüm akp tabanında hissediliyor.<br/><br/>havuz medyası pohpohlaması ve aktroll goygoylarının hiçbirini ciddiye almayın, tek atımlık barutlarını kullanıyorlar. titanic batarken keman çalanları hatırlayın, evet işte onlar bunlar. bekleyip neler olacağını göreceğiz, önümüzdeki 1 ay çok eğlenceli olacak.<br/><br/>tanımımızı da yapalım; yolun sonunun yaklaştığının farkında olan akp başkanı.
+  entry_channels: siyaset,tarih,haber
 - entry_name: |
-    muharrem ince'nin ping ve geniş bant vaadi
-  entry_id:  77821962
-  entry_writer: well cooked
-  entry_fav_count: 86
+    erkeklerin en yakışıklı oldukları yaş
+  entry_id:  77813840
+  entry_writer: foxkids
+  entry_fav_count: 109
   entry_content: |
-    "geniş bant internet ile ping sorunu çözülecek!"<br/><br/>şu cümleyi tayyip'ten veya binali'den ve hatta devlet'ten duyduğunuzu hayal etsenize...
-  entry_channels: siyaset,teknoloji,haber
-- entry_name: |
-    7 haziran 2018 yeni muharrem ince reklamı
-  entry_id:  77813824
-  entry_writer: acikdeli
-  entry_fav_count: 86
-  entry_content: |
-    yola çıktıklarında beklediklerinden daha yoğun bir ilgi ile karşı karşıyalar. belki başta inanmıyorlardı. ama şimdi inandıklarından eminim.<br/><br/>(bkz: <a class="b" href="/?q=zafer+muhte%c5%9fem+olacak">zafer muhteşem olacak</a>)
-  entry_channels: siyaset,tv,haber
+    her sene değişmektedir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     adile naşit'in ninni okuduğu türkiye kabustu
   entry_id:  77823512
   entry_writer: fictionel
-  entry_fav_count: 85
+  entry_fav_count: 105
   entry_content: |
     başlık sınırlamasından dolayı cümleyi tam yazamadım. doğrusu: “adile naşit’in ninni okuduğu türkiye bizim için kabustu” olan akp’li <a class="b" href="/?q=mahir+%c3%bcnal">mahir ünal</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/pyY1ma" title="https://goo.gl/pyY1ma">söylemi</a><br/><br/>doğrudur. siz o yıllarda feto’dan masallar dinlediğiniz için adile teyze size muhakkak kabus gibi gelmiştir.
   entry_channels: siyaset,tarih,eğitim
 - entry_name: |
-    nickin bir marka olsaydı o ne olurdu
-  entry_id:  77816963
-  entry_writer: neyin pesindesin erkan plastik
-  entry_fav_count: 63
+    muharrem ince'nin ping ve geniş bant vaadi
+  entry_id:  77821962
+  entry_writer: well cooked
+  entry_fav_count: 99
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw">dereceli taharet maşrapası</a>
-  entry_channels: anket,ekşi-sözlük
+    "geniş bant internet ile ping sorunu çözülecek!"<br/><br/>şu cümleyi tayyip'ten veya binali'den ve hatta devlet'ten duyduğunuzu hayal etsenize...
+  entry_channels: siyaset,teknoloji,haber
+- entry_name: |
+    aykut kocaman
+  entry_id:  77799007
+  entry_writer: pozzecco
+  entry_fav_count: 94
+  entry_content: |
+    istifa etmemesine sevindiğim teknik direktör. zaten böyle sönük bir şekilde, "istifa edecek" dedikoduları ile gitmemeliydi.<br/><br/>bence prosedür şöyle işlemeli;<br/><br/>aykut kocaman ile görüşülür ve "sen bizim kocaman umudumuzsun" gibi laflar edilerek tazminatsız 10 yıllık bir sözleşme imzalanır. "iki gün sonra stadımızda tören yapacağız" denir. kendisi de bu kadar başarısız olmasına rağmen "ben galiba kocaman umutlarıyım" diyerek mutlu olur. <br/><br/>ertesi gün medyaya ya da kocaman'a duyurulmadan alex, tüm yetkiler kendisine verilecek şekilde sportif direktör olur, luxemburgo ya da zico gibi biriyle ve aynı günün gecesinde türkiye'ye gelir. <br/><br/>bir sonraki gün türk filmlerindeki gibi bir mizansen yaratılır ve aykut kocaman'a "sizi yeni sportif direktörümüzle görüştüreceğiz, bundan sonra kendisine bağlı çalışacaksınız" denir. <br/><br/>kulüp binasındaki sportif direktör odasında alex de souza oturmaktadır. koltuğunun arkası kapıya dönüktür. <br/><br/>aykut kocaman kapıyı çalıp içeri girer. koltukta oturanı göremez. sonra bacak bacak üstüne atmış olan alex, yere basan ayağıyla yavaş yavaş döner ve "bundan sonra u-21'le çalışacaksın, ben istemedikçe de a takımı yönetemeyeceksin" der. <br/><br/>aykut kocaman "ama ama" derken, "tamam, vazgeçtim, kovuldun" der alex ve cebinden twitini çıkarıp "şlaks" diye o anın fotoğrafını çeker, daha sonra o fotoğraf büyütülüp stadın girişine asılır. <br/><br/>fenerbahçe başkanı olsaydım ben böyle yapardım. öyle sessiz sakin istifa etsin gitsin ile olacak şey değil, içimin soğuması için aykut kocaman'ın böyle bir şey yaşaması gerek.
+  entry_channels: spor,haber
+- entry_name: |
+    7 haziran 2018 yeni muharrem ince reklamı
+  entry_id:  77813824
+  entry_writer: acikdeli
+  entry_fav_count: 88
+  entry_content: |
+    yola çıktıklarında beklediklerinden daha yoğun bir ilgi ile karşı karşıyalar. belki başta inanmıyorlardı. ama şimdi inandıklarından eminim.<br/><br/>(bkz: <a class="b" href="/?q=zafer+muhte%c5%9fem+olacak">zafer muhteşem olacak</a>)
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    mezarlığın girişine yazılması gereken söz
+  entry_id:  77799114
+  entry_writer: dokuz tuglu kagan
+  entry_fav_count: 81
+  entry_content: |
+    bilge kağan’a ait olan sözdür.<br/><br/>‘’zamanı sadece tanrı yaşar, insanoğlu hep ölmek için yaratılmış.’’
+  entry_channels: anket
 - entry_name: |
     kızlarsoruyor.com'daki ilginç ayaklı hanım kızımız
   entry_id:  77822814
   entry_writer: eksimtrack
-  entry_fav_count: 57
+  entry_fav_count: 66
   entry_content: |
     bizene amına koyyim. her gördüğünüzü paylaşacaksanız böyle sözlüğün adı değişsin.<br/><br/>tanımtrack: ayak.
   entry_channels: ilişkiler
+- entry_name: |
+    nickin bir marka olsaydı o ne olurdu
+  entry_id:  77816963
+  entry_writer: neyin pesindesin erkan plastik
+  entry_fav_count: 64
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw">dereceli taharet maşrapası</a>
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     muharrem ince
   entry_id:  77803920
@@ -246,23 +238,15 @@ data:
     imamın kafasında sandalye kırmak
   entry_id:  77821050
   entry_writer: olleybe
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     evet arkadaşlar, ilk oruç dayağı bahsiniz tam tersine oldu ( yazar burda gülmemek için kendini zor tutuyor ) oruçluyuz çay içme diyen eski imamın kafasında sandalye kırmış eleman. ne desem bilemedim.<br/><br/>“”edirne'de bir kişi oruç uyarısında bulunan eski imama sandalye ile saldırdı.<br/><br/>keşan ilçesine bağlı suluca köyünün eski imamı r.y, köy kahvesinde oturup çay içen y.ç'yi çevresinde oruç tutanların olduğunu belirterek uyardı.<br/><br/>sinirlenen y.ç., yanındaki sandalyeyi alarak r.y'nin başına ve koluna vurdu.<br/><br/>kanlar içinde yere yığılan r.y. özel araçla kaldırıldığı keşan devlet hastanesi'nde tedaviye alındı. <br/><br/>jandarma tarafından gözaltına alınan y.ç ise ifadesi alındıktan sonra serbest bırakıldı.””<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/turkiye/cay-icerken-oruc-uyarisi-yapan-imama-saldirdi,1vv2l-YS1km2b9nm78YRXQ" title="https://www.ntv.com.tr/turkiye/cay-icerken-oruc-uyarisi-yapan-imama-saldirdi,1vv2l-YS1km2b9nm78YRXQ">link</a>
   entry_channels: haber,yeme-içme
 - entry_name: |
-    7 haziran 2018 cleveland cavs gs warriors maçı
-  entry_id:  77804917
-  entry_writer: david people
-  entry_fav_count: 44
-  entry_content: |
-    beyler lebron niye kaybediyor acil bi bahane bulun ben bulamadım.
-  entry_channels: spor
-- entry_name: |
     bir daha da gitmem denilen şehirler
   entry_id:  77797110
   entry_writer: dinle bi
-  entry_fav_count: 42
+  entry_fav_count: 44
   entry_content: |
     (bkz: <a class="b" href="/?q=trabzon">trabzon</a>) <br/><br/>(bkz: <a class="b" href="/?q=of">of</a>)<br/><br/>@x phile<br/>trabzona laf atarsan seni bulurum kardeş. <br/><br/>yazmış arttırıyorum trabzonun amına koyayım.<br/><br/>vicdan edit'i : tabi ki her şehrin iyi ve kötü insanları var. gece gece böyle bi mesaj gelince ben de gel bul beni minvalinde böyle bir şey yazmıştım. laf atmadığım trabzon'a laf atarsan seni bulurum kardeş diyen trabzonluyu beni bulmaya bi davetti aslında bu. bi kere yazdık silmek gibi bi düşüncem yok, kırdığım yazarlardan özür diliyorum. ancak trabzon başta olmak üzere bu tür insanların da azalarak yok olmasını temenni ediyorum.
   entry_channels: anket,seyahat
@@ -286,18 +270,58 @@ data:
     ekşi sözlük iş ağı
   entry_id:  77798060
   entry_writer: golfnutella
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     galericiyim. başınız sıkıştığı zaman, araçlarınızı nakit alırım. diğer galericiler kadar öldürmem. ama piyasaya satacağım fiyattan da alamam. <br/><br/>aynı zamanda, araç almak isteyen arkadaşlara, elimdeki araçlarda güzel indirim yaparım. elime ucuz gelen arabaya 1-2 lira koyar hemen veririm. maksat benim de cebime çabuk para girsin, sizlerin de işi çabuk çözülsün.
   entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
+    zeljko buvac
+  entry_id:  77813462
+  entry_writer: tencere tava
+  entry_fav_count: 21
+  entry_content: |
+    adı <a class="b" href="/?q=zeljko">zeljko</a> olduğuna göre başarısız olma ihtimali olmayan yeni fenerbahçe teknik direktörü.
+  entry_channels: spor
+- entry_name: |
+    8 haziran 2018 gezici anketi
+  entry_id:  77824288
+  entry_writer: jewfro
+  entry_fav_count: 16
+  entry_content: |
+    8 haziran değil 25-26 mayıs tarihli ankettir.
+  entry_channels: siyaset
+- entry_name: |
     bedelli askerlik
   entry_id:  77801439
   entry_writer: banabirsimsekcak
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     bedelli askerlik bekleyen arkadaşlar, lütfen saf olmayın. aynı delikten otuz kere mi ısırılacaksınız? binali yıldırım açıklamalar yaptı diye yeri yerinden oynatıyorsunuz. yahu daha bir ay önce binali yıldırım aynı açıklamaları yaptı ve sözleri parti sözcüsü mahir ünal'a ezdirildi. erdoğan çok net olarak gündemimizde yok dedi. <br/><br/>binali yıldırım başbakan ve seçimlerden sonra başbakanlık olmayacak. seçim sonrası onlar binali bey'in şahsi görüşleriydi denir ve geçilir. atı alan da üsküdar'ı geçmiş olur.<br/><br/>detaylı çalışma gerektiren bir konu değil bu. msb ve tsk kurulları onay veriyorsa bir saat içinde brifing alınır yaş ve bedel tartışılır, fayda/maliyet oranlarına göre karar verilir ve açıklanır. neden seçim sonrası? çünkü seçime iki hafta kala açıkça görülüyor ki hepinizin tek tek oylarınıza ihtiyaçları var.<br/><br/>eğri oturup doğru konuşalım, kusura bakmayın ama hiçbir şey elde etmediniz. şu an sadece -daha önce de olduğu gibi- bir seçim vaadi aldınız. ayaklarınız yere basarak, sizi oyuncak etmeyecek bir partiye/adaya oy vermeniz daha mantıklı olacaktır.
   entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    ben hdp'ye oy verecek atatürkçüyüm
+  entry_id:  77825762
+  entry_writer: jiesheshuai
+  entry_fav_count: 14
+  entry_content: |
+    boş yapma, oy ver geç.<br/><br/>kemalizm ve bu ideoloji tandanslı icraatlerden, kürtçü bir hdp'liden bile daha çok nefret ettiğinizi sağır sultan bile duydu.<br/><br/>taşağını sırtladığın reisinden biraz manipülasyon dersleri al, öyle başlık aç. bunlar işe yaramıyor artık.<br/><br/><a class="b" href="/?q=tan%c4%b1m">tanım</a>: mal beyanı.
+  entry_channels: 
+- entry_name: |
+    türkiye'nin avrupa'nın en güzel ülkesi olması
+  entry_id:  77824373
+  entry_writer: limonsuz ve tuzsuz tekila
+  entry_fav_count: 12
+  entry_content: |
+    'adalet bakımından avrupa'nın en ileri ülkesi' cümlesinden sonrasını okumadım.
+  entry_channels: anket,seyahat
+- entry_name: |
+    tmmob 24 haziran seçim testi
+  entry_id:  77819962
+  entry_writer: karamithat
+  entry_fav_count: 12
+  entry_content: |
+    her vatandaşın çözmesi ve akabinde bilgilenmesi gereken testtir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfChtu8u-FZCIH_dfLBfs2P--CL7hRwfZctFSdEa9exRW6FxQ/viewform" title="https://docs.google.com/forms/d/e/1FAIpQLSfChtu8u-FZCIH_dfLBfs2P--CL7hRwfZctFSdEa9exRW6FxQ/viewform">allah zihin açıklığı versin</a>
+  entry_channels: siyaset
 - entry_name: |
     parfüm olup şişelense satın alınabilecek kokular
   entry_id:  77821123
@@ -315,22 +339,6 @@ data:
     selvi boylum al yazmalım filminin final sahnesini başa sarıp sarıp izliyorum. <br/><br/>ben metallica - megadeth kavgası yapan insandım ya. ne ara böyle oldum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    türkiye'nin avrupa'nın en güzel ülkesi olması
-  entry_id:  77824373
-  entry_writer: limonsuz ve tuzsuz tekila
-  entry_fav_count: 10
-  entry_content: |
-    'adalet bakımından avrupa'nın en ileri ülkesi' cümlesinden sonrasını okumadım.
-  entry_channels: anket,seyahat
-- entry_name: |
-    ben hdp'ye oy verecek atatürkçüyüm
-  entry_id:  77825762
-  entry_writer: jiesheshuai
-  entry_fav_count: 10
-  entry_content: |
-    boş yapma, oy ver geç.<br/><br/>kemalizm ve bu ideoloji tandanslı icraatlerden, kürtçü bir hdp'liden bile daha çok nefret ettiğinizi sağır sultan bile duydu.<br/><br/>taşağını sırtladığın reisinden biraz manipülasyon dersleri al, öyle başlık aç. bunlar işe yaramıyor artık.<br/><br/><a class="b" href="/?q=tan%c4%b1m">tanım</a>: mal beyanı.
-  entry_channels: 
-- entry_name: |
     çok rahat ayakkabı
   entry_id:  77805146
   entry_writer: kasvetlikutlama
@@ -338,22 +346,6 @@ data:
   entry_content: |
     unutulmaması gereken bir kural olarak; bir ayakkabı çok rahatsa ergonomik değildir.<br/><br/>iki; koşu ayakkabısı koşu dışında giyilmez ayak yapısını kalıcı olarak bozar. <br/><br/>ek; daha komiği doğa sporu ayakkabılarının rahat olduğunu yazmak olabilirdi o da yazılmış.
   entry_channels: sağlık,moda
-- entry_name: |
-    muharrem ince'nin sesinin rte'nin sesine benzemesi
-  entry_id:  77823311
-  entry_writer: sigaramin dumanini kiskan
-  entry_fav_count: 6
-  entry_content: |
-    ben de acaba sadece bana mi boyle duyuluyor diye korkuyordum. gercekten de radyoda falan sesleri bazen cok benziyor. ama ekranda vekininceyi ve o umut sacan gulusunu goruverdigimde icim rahatliyor
-  entry_channels: siyaset
-- entry_name: |
-    8 haziran 2018 gezici anketi
-  entry_id:  77824027
-  entry_writer: lahtim
-  entry_fav_count: 5
-  entry_content: |
-    reuters'a aciklanmis anket. 25-26 mayis tarihleri arasinda 6811 kisi ile olusturulmus. <br/><br/>recep tayyip erdoğan - 48,7<br/>muharrem ince - 25,8<br/>meral akşener - 14,4<br/>selahattin demirtaş - 10,1<br/><br/>genel secimler icin sonuclar :<br/><br/>cumhur - 48,7<br/>millet - 38,9<br/>hdp - 11,5<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-turkey-election-polls/poll-shows-turkey-presidential-vote-going-to-second-round-idUSKCN1J3200" title="https://www.reuters.com/article/us-turkey-election-polls/poll-shows-turkey-presidential-vote-going-to-second-round-idUSKCN1J3200">https://www.reuters.com/…second-round-iduskcn1j3200</a>
-  entry_channels: siyaset
 - entry_name: |
     komik kadın olmayışı
   entry_id:  77815631
@@ -379,6 +371,14 @@ data:
     şarkısı buram buram umut kokuyor. klibini anlatmaya kalksam kelime haznem dar gelir. her şey <sup class="ab"><a title="(bkz: iyi)" href="/?q=iyi" data-query="iyi">*</a></sup> olacak diyebiliyorum sadece.
   entry_channels: siyaset,müzik
 - entry_name: |
+    swinger
+  entry_id:  77814454
+  entry_writer: molkoid
+  entry_fav_count: 1
+  entry_content: |
+    cuckold ile mantığı veya psikolojisi açısından alakası olmayan durum.
+  entry_channels: ilişkiler,sağlık
+- entry_name: |
     devlet bahçeli
   entry_id:  77822060
   entry_writer: bstins0n
@@ -387,19 +387,19 @@ data:
     türkiye'nin basina gelen en buyuk belalardan biridir. umarim artik kendisinden bu secimde ilelebet kurtuluruz. ulkenin bu duruma gelmesinde malum sahisla birlikte ileride lanetle anilacaktir.
   entry_channels: siyaset
 - entry_name: |
-    swinger
-  entry_id:  77814454
-  entry_writer: molkoid
-  entry_fav_count: 0
-  entry_content: |
-    cuckold ile mantığı veya psikolojisi açısından alakası olmayan durum.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
     ak partinin görmezden gelinen icraatları
   entry_id:  77825328
   entry_writer: eksi peace
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     hepsini tek tek çürütmek mümkün fakat ben yarım saat uğraşıp satır satır bunları yazarım sonra aktroll çıkar "fetöcüsünüz siz nankör vatan hainleri" der sinirimi zıplatır. aynı kafalar geniş bant interneti ülkeye biz getirdik de diyor çünkü onlar olmasa biz hala taş devrinde olacakmışız. neyse siktir edin.<br/><br/>lütfen oraya yol ve köprüleri de ekleyelim dedirtmiş icraatlerdir.<br/><br/>edit: korkak aktotoş <a class="b" href="/?q=oteki+pluton">oteki pluton</a> kaçmış.
+  entry_channels: 
+- entry_name: |
+    bedelli askerlik garibanlara ihanettir
+  entry_id:  77826481
+  entry_writer: fetish bey
+  entry_fav_count: 0
+  entry_content: |
+    başlıktaki vatan hainlerinin ülkeye eşitlik kisvesi altında komünizmi getirmeyi amaçladığı ve devleti yıkma amacı güttüğü için şikayet edeceğim başlık. karıları da mı paylaşacaksınız lan siz eşitlik ayağına gavatlar?
   entry_channels: 
 ---

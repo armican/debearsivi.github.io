@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gyonseR_ro8XzLC_j_QJwYBIrNQou7Mq2_mQ4i5QDhg.jpg?s=3bcb44481ab725f65a2d7f1b6ed7b1ff frameborder=0>
 - entry_name: |
-    This horse helping the girl get on
-  entry_id: 8p2jtn
-  entry_content: |
-    <iframe src=https://v.redd.it/2115zjks0f211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Trump in inexplicably decides to put his water bottle of the floor. Pence has no other choice but to follow suit.
   entry_id: 8p2y7v
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8p38sg
   entry_content: |
     <img src=https://i.redditmedia.com/wKbhbSKEWQQGg1d-_ax5Pmb1cbrEkv4oiHZxZkk0Ec4.jpg?s=497096cc8a8cd06c962506dc1f9a33a2 frameborder=0>
+- entry_name: |
+    Legend
+  entry_id: 8p8n0z
+  entry_content: |
+    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
 ---
