@@ -68,11 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    2meirl4meirl
-  entry_id: 8p2qp1
-  entry_content: |
-    <iframe src=https://v.redd.it/enytigs24e211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Got thrown out of r/oldschoolcool but this too bad ass not to share again.
   entry_id: 8p6wef
   entry_content: |
@@ -122,16 +117,6 @@ data:
   entry_id: 8p629y
   entry_content: |
     <img src=https://i.redditmedia.com/S6B_-FEtOSxLwrA--W0Klhosr0LdvRLBpvPnl9YWSWs.jpg?s=8f37c70397763a23143334939b31ad31 frameborder=0>
-- entry_name: |
-    All these headlines that we're heading toward another 2008 crisis
-  entry_id: 8p2uq2
-  entry_content: |
-    <img src=https://i.redditmedia.com/Zj42ixu2pxMwQFUFZul-vjqfPTx5OBf4IowSUOZFOTo.jpg?s=a31a0442e44a00185acf141136efd725 frameborder=0>
-- entry_name: |
-    Brendan Fraser Says Golden Globes Organization Admits Member 'Inappropriately Touched' Him in 2003
-  entry_id: 8p2vp1
-  entry_content: |
-    <img src=https://i.redditmedia.com/nCmrrqiXFhMsbDJyczcydXWnKs9ZXHHU4i-vyc1WTIE.jpg?s=9d6c05b04acdf20028c4c5627a1450c6 frameborder=0>
 - entry_name: |
     80 arrested, 95 pounds of meth and 75 guns seized in largest drug bust in recent history- Seattle WA
   entry_id: 8p4n26
@@ -233,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
 - entry_name: |
-    Increase Your Cognitive Ability By Reading A Fucking Book For Once
-  entry_id: 8p2s83
-  entry_content: |
-    <img src=https://i.redditmedia.com/MIV6KtwUVPCoQL3-snTY57Dbfl0_iYFZ7I9aSpbvgTU.jpg?s=0225d003791f1a665b063bbd3eb398d7 frameborder=0>
-- entry_name: |
     Vish’Ora the organ collector.
   entry_id: 8p5hil
   entry_content: |
@@ -252,4 +232,24 @@ data:
   entry_id: 8p8n0z
   entry_content: |
     <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
+- entry_name: |
+    First day of Taekwondo, first lesson... nailed it
+  entry_id: 8p5f0u
+  entry_content: |
+    <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    This diseased walnut looks like a mini planet
+  entry_id: 8p9vsn
+  entry_content: |
+    <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
+- entry_name: |
+    Backward driver
+  entry_id: 8p4aaw
+  entry_content: |
+    <iframe src=https://v.redd.it/hunzyl7ocf211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    In Coraline (2009) while the Other Mother is cracking an egg, the yolk is the head of Jack Skellington from the Nightmare Before Christmas.
+  entry_id: 8p6k32
+  entry_content: |
+    <img src=https://i.redditmedia.com/mLU8F8wNdohGG7gxV0nHeCFcgA1xdCpW3sRhaOcB9VA.jpg?s=b9d08c440e3862736a8fd910ab0c77f5 frameborder=0>
 ---
