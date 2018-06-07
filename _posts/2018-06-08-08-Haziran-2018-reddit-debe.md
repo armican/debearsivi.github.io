@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7wN-M5cy6lp_yLjZ9I8R-1wFvQVKUqd9P5_igQ2qlXg.png?s=6374b0158592d0d4cf2069bf110d218d frameborder=0>
 - entry_name: |
-    This is Spain's new Minister of Science
-  entry_id: 8p39zb
-  entry_content: |
-    <img src=https://i.redditmedia.com/zWffnfihMpp4AKCyME25vCq_dxg7DYi9RnNUL_yiax8.jpg?s=9a056d90ecf389c09639d6b076da03ee frameborder=0>
-- entry_name: |
     “I can explain...”
   entry_id: 8p4guw
   entry_content: |
@@ -102,11 +97,6 @@ data:
   entry_id: 8p81qz
   entry_content: |
     <iframe src=https://v.redd.it/jy1nsfunwi211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    hmmm
-  entry_id: 8p3cqb
-  entry_content: |
-    <img src=https://i.redditmedia.com/3eJUzWYCwlPf_t0iBcS-RjDYpnSI3XfaBpQPYN34Y0E.jpg?s=cc328a85bdd75e46e039813aea2ac72e frameborder=0>
 - entry_name: |
     Childhood education
   entry_id: 8p629y
@@ -238,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
 - entry_name: |
-    Trump reportedly thinks Canada burned down the White House. That was Britain. In 1812.
-  entry_id: 8p38sg
-  entry_content: |
-    <img src=https://i.redditmedia.com/wKbhbSKEWQQGg1d-_ax5Pmb1cbrEkv4oiHZxZkk0Ec4.jpg?s=497096cc8a8cd06c962506dc1f9a33a2 frameborder=0>
-- entry_name: |
     First day of Taekwondo, first lesson... nailed it
   entry_id: 8p5f0u
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8p7nui
   entry_content: |
     <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
+- entry_name: |
+    Sounds about right
+  entry_id: 8p8k5g
+  entry_content: |
+    <img src=https://i.redditmedia.com/14oQZlv6UrMwwlXvKLXlfw05KqPc4DQCgQ0iqKXaWCQ.jpg?s=eb5bdc2ad095ecc76aba806e46628ada frameborder=0>
+- entry_name: |
+    Backward driver
+  entry_id: 8p4aaw
+  entry_content: |
+    <iframe src=https://v.redd.it/hunzyl7ocf211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    In Coraline (2009) while the Other Mother is cracking an egg, the yolk is the head of Jack Skellington from the Nightmare Before Christmas.
+  entry_id: 8p6k32
+  entry_content: |
+    <img src=https://i.redditmedia.com/mLU8F8wNdohGG7gxV0nHeCFcgA1xdCpW3sRhaOcB9VA.jpg?s=b9d08c440e3862736a8fd910ab0c77f5 frameborder=0>
 ---

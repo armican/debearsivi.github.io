@@ -6,39 +6,31 @@ data:
     7 haziran 2018 suriyelilerin oy kullanması
   entry_id:  77819156
   entry_writer: arkanabakmassankuserim
-  entry_fav_count: 987
+  entry_fav_count: 1001
   entry_content: |
     türkçe bilmiyor<br/>türkiye'ye başkan seçecek, türkçe bilmiyor<br/><br/>bunlardan yüzbinlerce var<br/><br/>sen yıllarca oku, düşün, ülkeyi eğitimli insanlara emanet etmek için canını dişine tak,<br/>türkçe bilmeyen yüzbinler gelsin, başkan seçsin.<br/><br/>ey aysun kayacı, ne güzel bir düşünce insanı imişsin.
   entry_channels: siyaset
 - entry_name: |
-    apoletleri sökeceğim lafının seçimi kaybettirmesi
-  entry_id:  77806129
-  entry_writer: geri donen mektup
-  entry_fav_count: 921
-  entry_content: |
-    oy vermemek icin bahane arayan gevsekleri gordukce gotumle guluyorum. ulan zaten oy vermeyeceksiniz neyin tatavasi lan bu? <br/>neymis efendim apoletlerini sokecegim demis o yuzden oy vermeyecekmis. <br/>yahu 16 yildir ulkenin anasini belliyorlar. az utanin lan.<br/><br/>bu kadar serefsizlik olmaz arkadas ya.
-  entry_channels: siyaset,anket,tv,haber
-- entry_name: |
-    tıp fakülteleri batırıyorsunuz bizi
-  entry_id:  77811642
-  entry_writer: didierdrogba07
-  entry_fav_count: 683
-  entry_content: |
-    tıp fakülteleri eğitim kurumudur, ticarethane değil. doktor yetiştirirler, tacir değil.<br/><br/>gerçi zarar kavramından bahsetmek bile gerizekalılık ama elbette eksi bakiyede olacaklardır. devlete bak, iyice çiftlik oldu anasını satayım...<br/><br/>özel hastane mi lan bu!
-  entry_channels: siyaset,sağlık,eğitim
-- entry_name: |
     tayyip erdoğan'ın atama bekleyen öğretmene cevabı
   entry_id:  77823021
   entry_writer: visne curugu
-  entry_fav_count: 652
+  entry_fav_count: 713
   entry_content: |
     "umudumuz yok, atama bekliyoruz" diyen öğretmen adayına verdiği <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/metcihan/status/1004590933265010689/video/1" title="https://twitter.com/metcihan/status/1004590933265010689/video/1">cevaptır</a>.<br/>"herkesin atanmasını beklemeyin, öğretmenlik dışında şeyler de düşünün, biz yavrularımız 'üniversite okudum' diyebilsin diye herkesi üniversiteli yaptık."<br/><br/>not: yorumsuz paylaşınca fark ettim aslında, kendilerini en güzel kendileri anlatıyorlar promptersız kalınca.
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
+    tıp fakülteleri batırıyorsunuz bizi
+  entry_id:  77811642
+  entry_writer: didierdrogba07
+  entry_fav_count: 692
+  entry_content: |
+    tıp fakülteleri eğitim kurumudur, ticarethane değil. doktor yetiştirirler, tacir değil.<br/><br/>gerçi zarar kavramından bahsetmek bile gerizekalılık ama elbette eksi bakiyede olacaklardır. devlete bak, iyice çiftlik oldu anasını satayım...<br/><br/>özel hastane mi lan bu!
+  entry_channels: siyaset,sağlık,eğitim
+- entry_name: |
     millet kıraathaneleri
   entry_id:  77822833
   entry_writer: kafayi kurtaran adam
-  entry_fav_count: 536
+  entry_fav_count: 599
   entry_content: |
     işsizlik geliyor demek ki. kahveye kıraathaneye takılırız artık.
   entry_channels: siyaset
@@ -46,7 +38,7 @@ data:
     chp'li kadını görünce son ses dombra çalan adam
   entry_id:  77825064
   entry_writer: analog deep
-  entry_fav_count: 494
+  entry_fav_count: 554
   entry_content: |
     zavallı kadın konuşarak iletişim kurabileceğini sanıyor.
   entry_channels: siyaset,müzik
@@ -54,31 +46,15 @@ data:
     danla biliç'in etkisinden çıkılamayan fotoğrafı
   entry_id:  77818856
   entry_writer: entellektuel nick
-  entry_fav_count: 419
+  entry_fav_count: 434
   entry_content: |
     kilolu biriyle sırf kilosundan ötürü dalga geçme aşağılık bir davranıştır lakiiin;<br/><br/>bu kişi insanları tiplerinden ötürü itin gtüne sokuyorsa müstehaktır.
   entry_channels: magazin
 - entry_name: |
-    mustafa sandal'ın emine jahovic'e vereceği nafaka
-  entry_id:  77808542
-  entry_writer: sorun ne ahbap
-  entry_fav_count: 407
-  entry_content: |
-    e hani kadın ayakları üstünde durabiliyorsa nafaka verilmez diyenler? emina zaten yeterince zengin, şarkıcılığı var ve memleketinde baya tanınan biri. buna rağmen dünyaları almış. <br/><br/>bizim yatımız katımız da yok. yok arkadaş evlenmemeye devam.
-  entry_channels: anket,magazin
-- entry_name: |
-    taksici uber savaşından çıkarılacak ders
-  entry_id:  77798602
-  entry_writer: saintly
-  entry_fav_count: 365
-  entry_content: |
-    (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)
-  entry_channels: anket,seyahat
-- entry_name: |
     7 haziran 2018 merkez bankası faiz kararı
   entry_id:  77807456
   entry_writer: otobuste sessiz osuran adam
-  entry_fav_count: 337
+  entry_fav_count: 339
   entry_content: |
     bugün buraya not düşülmesini isterim ki, türkiye cumhuriyeti dünyanın en yüksek faizini veren ülkesi konumuna gelecek ve buna rağmen sıcak parayı ülkesine çekemeyen ülke olarak tarihe geçecektir.
   entry_channels: haber,ekonomi
@@ -86,7 +62,7 @@ data:
     7 haziran 2018 ak parti'nin unutma reklamı
   entry_id:  77818529
   entry_writer: ayarsizenerji
-  entry_fav_count: 288
+  entry_fav_count: 292
   entry_content: |
     gün gelecek birileri de bugünleri reklam yapacak unutmayın diye. şeker fabrikaları satıldı unutmayın, türk telekom satıldı unutmayın, bankalar satıldı araziler satıldı unutmayın.
   entry_channels: siyaset
@@ -94,7 +70,7 @@ data:
     yastık altındaki dövizlerinizi sisteme sokun
   entry_id:  77807531
   entry_writer: desmosedici
-  entry_fav_count: 284
+  entry_fav_count: 289
   entry_content: |
     "yatırın ki marmaris okluktaki yazlık saray için de hindistandan mermer getirtelim" beyanı
   entry_channels: haber,ekonomi
@@ -102,7 +78,7 @@ data:
     yazarların evlerindeki 2015 2017 2018 oy dağılımı
   entry_id:  77805258
   entry_writer: cembom
-  entry_fav_count: 204
+  entry_fav_count: 206
   entry_content: |
     2015 - 3 chp<br/><br/>2017-3 hayır<br/><br/>2018- 3 hdp- 3 ince<br/><br/>baraj problemi çözmeyi seviyoruz ailecek
   entry_channels: siyaset,anket
@@ -110,7 +86,7 @@ data:
     arabaların durup yayaya yol verdiği şehir
   entry_id:  77808512
   entry_writer: gubur123
-  entry_fav_count: 171
+  entry_fav_count: 172
   entry_content: |
     lefkoşa, girne ve magosa (magusa)<br/><br/>edit: imla
   entry_channels: anket,otomotiv,seyahat
@@ -118,7 +94,7 @@ data:
     adile naşit'in ninni okuduğu türkiye kabustu
   entry_id:  77823512
   entry_writer: fictionel
-  entry_fav_count: 143
+  entry_fav_count: 160
   entry_content: |
     başlık sınırlamasından dolayı cümleyi tam yazamadım. doğrusu: “adile naşit’in ninni okuduğu türkiye bizim için kabustu” olan akp’li <a class="b" href="/?q=mahir+%c3%bcnal">mahir ünal</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/pyY1ma" title="https://goo.gl/pyY1ma">söylemi</a><br/><br/>doğrudur. siz o yıllarda feto’dan masallar dinlediğiniz için adile teyze size muhakkak kabus gibi gelmiştir.
   entry_channels: siyaset,tarih,eğitim
@@ -126,7 +102,7 @@ data:
     muharrem ince'nin ping ve geniş bant vaadi
   entry_id:  77821962
   entry_writer: well cooked
-  entry_fav_count: 139
+  entry_fav_count: 144
   entry_content: |
     "geniş bant internet ile ping sorunu çözülecek!"<br/><br/>şu cümleyi tayyip'ten veya binali'den ve hatta devlet'ten duyduğunuzu hayal etsenize...
   entry_channels: siyaset,teknoloji,haber
@@ -134,7 +110,7 @@ data:
     7 haziran 2018 cumhur ittifakının çatırdaması
   entry_id:  77823437
   entry_writer: quat
-  entry_fav_count: 133
+  entry_fav_count: 137
   entry_content: |
     kızdırmışlar mehmet bahçeliyi, niye kızdırdınız lan adamı şimdi arkadan yapacak dağılacaksınız.
   entry_channels: siyaset,haber
@@ -142,7 +118,7 @@ data:
     erkeklerin en yakışıklı oldukları yaş
   entry_id:  77813840
   entry_writer: foxkids
-  entry_fav_count: 112
+  entry_fav_count: 116
   entry_content: |
     her sene değişmektedir.
   entry_channels: anket,ilişkiler
@@ -158,7 +134,7 @@ data:
     7 haziran 2018 yeni muharrem ince reklamı
   entry_id:  77813824
   entry_writer: acikdeli
-  entry_fav_count: 89
+  entry_fav_count: 91
   entry_content: |
     yola çıktıklarında beklediklerinden daha yoğun bir ilgi ile karşı karşıyalar. belki başta inanmıyorlardı. ama şimdi inandıklarından eminim.<br/><br/>(bkz: <a class="b" href="/?q=zafer+muhte%c5%9fem+olacak">zafer muhteşem olacak</a>)
   entry_channels: siyaset,tv,haber
@@ -166,7 +142,7 @@ data:
     kızlarsoruyor.com'daki ilginç ayaklı hanım kızımız
   entry_id:  77822814
   entry_writer: eksimtrack
-  entry_fav_count: 83
+  entry_fav_count: 87
   entry_content: |
     bizene amına koyyim. her gördüğünüzü paylaşacaksanız böyle sözlüğün adı değişsin.<br/><br/>tanımtrack: ayak.
   entry_channels: ilişkiler
@@ -174,15 +150,23 @@ data:
     7 haziran 2018 nasa'nın devrim gibi açıklaması
   entry_id:  77797472
   entry_writer: barbaresk
-  entry_fav_count: 77
+  entry_fav_count: 87
   entry_content: |
     lütfen bir uygarlık kalıntısı bulunduğunu açıklasınlar. lütfen! insan zihninin bu darbeyi alışını ağır çekimde görmek istiyorum. artık hiçbir şeyin eskisi gibi olamayacağını...
   entry_channels: bilim,teknoloji,haber
 - entry_name: |
+    85 kiloluk bir sözlük kızıyla yapılabilecekler
+  entry_id:  77808597
+  entry_writer: silergiderim
+  entry_fav_count: 75
+  entry_content: |
+    iyi ki sözlük var da, siz böyle hassas konularda ananızın amına kadar yardırabiliyosunuz.<br/>iyi ki sözlük var da, ezik büyüyen ruhunuzu burda özgürce konuşturabiliyosunuz.<br/>iyi ki sözlük var da. 85 kiloluk kızın bahanesiyle burda çok da ''insan''yokmuş görmüş oluyoruz. <br/><br/>yani uzun lafın kısası; 85 kiloluk kızdan her şey olur da sizden bi sikim olmaz.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     nickin bir marka olsaydı o ne olurdu
   entry_id:  77816963
   entry_writer: neyin pesindesin erkan plastik
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmSeSJCHstwwKfUUxdhL36eOjq-GZMa6ge7lStihO2L13H_J9SnVGfFu9Vw">dereceli taharet maşrapası</a>
   entry_channels: anket,ekşi-sözlük
@@ -190,18 +174,10 @@ data:
     hatunların en güzel oldukları yaş
   entry_id:  77812082
   entry_writer: dash
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     şu an için 40. seneye 41 olarak güncellenecektir.
   entry_channels: anket,ilişkiler
-- entry_name: |
-    85 kiloluk bir sözlük kızıyla yapılabilecekler
-  entry_id:  77808597
-  entry_writer: silergiderim
-  entry_fav_count: 61
-  entry_content: |
-    iyi ki sözlük var da, siz böyle hassas konularda ananızın amına kadar yardırabiliyosunuz.<br/>iyi ki sözlük var da, ezik büyüyen ruhunuzu burda özgürce konuşturabiliyosunuz.<br/>iyi ki sözlük var da. 85 kiloluk kızın bahanesiyle burda çok da ''insan''yokmuş görmüş oluyoruz. <br/><br/>yani uzun lafın kısası; 85 kiloluk kızdan her şey olur da sizden bi sikim olmaz.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     muharrem ince
   entry_id:  77803920
@@ -219,21 +195,21 @@ data:
     (bkz: <a class="b" href="/?q=trabzon">trabzon</a>) <br/><br/>(bkz: <a class="b" href="/?q=of">of</a>)<br/><br/>@x phile<br/>trabzona laf atarsan seni bulurum kardeş. <br/><br/>yazmış arttırıyorum trabzonun amına koyayım.<br/><br/>vicdan edit'i : tabi ki her şehrin iyi ve kötü insanları var. gece gece böyle bi mesaj gelince ben de gel bul beni minvalinde böyle bir şey yazmıştım. laf atmadığım trabzon'a laf atarsan seni bulurum kardeş diyen trabzonluyu beni bulmaya bi davetti aslında bu. bi kere yazdık silmek gibi bi düşüncem yok, kırdığım yazarlardan özür diliyorum. ancak trabzon başta olmak üzere bu tür insanların da azalarak yok olmasını temenni ediyorum.
   entry_channels: anket,seyahat
 - entry_name: |
-    seçimi erdoğan'ın kazanmasının asıl nedeni
-  entry_id:  77797053
-  entry_writer: hernani
-  entry_fav_count: 31
-  entry_content: |
-    halkın, iletişim ve haber alma kaynaklarının hükümet kaynaklı devasa manüpilasyonu ve engellemeleriyle gerçeklikten kopuk yaşaması ve adeta cervantes’in don kişot’u gibi yel değirmeniyle savaşır gibi kendine hayali düşmanlar yaratması, erdoğan kazanabilirse en büyük sebebi olacaktır.<br/><br/>an itibariyle halk gerçeklikten kopmuştur.<br/><br/>yoksa normal bir ülkede, ve hatta eski türkiyede bile-ki pek normal değildi- cumhurbaşkanlığını bir kenara koyarsak akpartinin oyu yüzde 20’lere düşmeliydi.
-  entry_channels: siyaset,anket
-- entry_name: |
     ben hdp'ye oy verecek atatürkçüyüm
   entry_id:  77825762
   entry_writer: jiesheshuai
-  entry_fav_count: 25
+  entry_fav_count: 31
   entry_content: |
     boş yapma, oy ver geç.<br/><br/>kemalizm ve bu ideoloji tandanslı icraatlerden, kürtçü bir hdp'liden bile daha çok nefret ettiğinizi sağır sultan bile duydu.<br/><br/>taşağını sırtladığın reisinden biraz manipülasyon dersleri al, öyle başlık aç. bunlar işe yaramıyor artık.<br/><br/><a class="b" href="/?q=tan%c4%b1m">tanım</a>: mal beyanı.
   entry_channels: 
+- entry_name: |
+    google'ın salata emojisinden yumurtayı çıkartması
+  entry_id:  77825007
+  entry_writer: 391650
+  entry_fav_count: 29
+  entry_content: |
+    (bkz: <a class="b" href="/?q=derdini+sikeyim">derdini sikeyim</a>)
+  entry_channels: teknoloji,yeme-içme
 - entry_name: |
     muharrem ince ve danışmanlarına duyurular
   entry_id:  77798018
@@ -242,14 +218,6 @@ data:
   entry_content: |
     son 10 güne damga vuracak bir seçim reklamı hazırlayın. <br/><br/>milletin ağzına takılacak bir türkü olsun.<br/>olumsuz şeyler anlatmayın, tam tersine bayram havası estirin bu reklamda. insanlar olumsuz şeyleri görüp oy tercihlerini değiştirmiyorlar. çok denendi bunlar daha önce. <br/>daha önce duyulmamış vaadleri ardarda sıralayın. seçmene gerçekten bunlar olursa şahane olur hissi versin. <br/>ince'nin efe oynamasını, traktör sürmesini filan kolajlayın aralara. insani yönünü on plana çıkartın. <br/>milli duygulara, dini değerlere göz kırpın. bunlar kimsenin tekelinde değil diyin. <br/>ekonomik olarak hemen sahlanacagiz mesajını da verin.
   entry_channels: siyaset,haber
-- entry_name: |
-    google'ın salata emojisinden yumurtayı çıkartması
-  entry_id:  77825007
-  entry_writer: 391650
-  entry_fav_count: 24
-  entry_content: |
-    (bkz: <a class="b" href="/?q=derdini+sikeyim">derdini sikeyim</a>)
-  entry_channels: teknoloji,yeme-içme
 - entry_name: |
     8 haziran 2018 gezici anketi
   entry_id:  77824288
@@ -262,26 +230,10 @@ data:
     erdoğan'ın elinin titremesi
   entry_id:  77825692
   entry_writer: bozosnn
-  entry_fav_count: 17
+  entry_fav_count: 23
   entry_content: |
     başbakanken altı bağlanan ecevit ile dalga geçenler vardı bi de!<br/><br/>kul kınadığını yaşamadan ölmezmiş.<br/><br/>edit: silme.
   entry_channels: siyaset
-- entry_name: |
-    lebron james
-  entry_id:  77805781
-  entry_writer: balevso
-  entry_fav_count: 16
-  entry_content: |
-    sözlükte bir yazar var(maç kaybeder kaybetmez damlamış yine başlık altına), lebron james başlığı altına tamı tamına 57 tane entry girmiş, hepsi de kötülemek için, bir insanın amerikalı bir basketbolcuya bu kadar nefret dolacak kadar ne yaşamış olabilir ki lan, 57 entry ne demek arkadaş, aklıma tek bir açıklama geliyor; bu gençliğinde cleveland soyunma odasına girmiş yanlışlıkla sonra da olanlar olmuş, hırsını da sözlükte çıkarıyor:)<br/><br/>tanıma gelecek olursak, cleveland gibi balon bir takımı finale kadar taşımış nba tarihinin en iyi üç oyuncusundan biri olan kral...
-  entry_channels: spor
-- entry_name: |
-    bedelli askerlik garibanlara ihanettir
-  entry_id:  77826370
-  entry_writer: plaza communisti
-  entry_fav_count: 16
-  entry_content: |
-    sayın amına koyduklarım, birileri zengin doğup 70 sene bedavadan kıyak hayat yaşarken düzen adil, ben 6 ay için yemeyip içmeyip biriktirdiğimi verip ayda 4 bin vergi verdiğüm işime devam edeyim şınav çekip patates soymayayım diyince oooo.<br/><br/>pederden hiç mal kalmasın madem herkes götü yiyorsa sıfırdan hayata başlayıp çalıştığı kadar yaşasın öyle 6 aylık sosyalizm tatavası yapmayın.
-  entry_channels: siyaset,anket
 - entry_name: |
     bedelli askerlik
   entry_id:  77801439
@@ -291,13 +243,45 @@ data:
     bedelli askerlik bekleyen arkadaşlar, lütfen saf olmayın. aynı delikten otuz kere mi ısırılacaksınız? binali yıldırım açıklamalar yaptı diye yeri yerinden oynatıyorsunuz. yahu daha bir ay önce binali yıldırım aynı açıklamaları yaptı ve sözleri parti sözcüsü mahir ünal'a ezdirildi. erdoğan çok net olarak gündemimizde yok dedi. <br/><br/>binali yıldırım başbakan ve seçimlerden sonra başbakanlık olmayacak. seçim sonrası onlar binali bey'in şahsi görüşleriydi denir ve geçilir. atı alan da üsküdar'ı geçmiş olur.<br/><br/>detaylı çalışma gerektiren bir konu değil bu. msb ve tsk kurulları onay veriyorsa bir saat içinde brifing alınır yaş ve bedel tartışılır, fayda/maliyet oranlarına göre karar verilir ve açıklanır. neden seçim sonrası? çünkü seçime iki hafta kala açıkça görülüyor ki hepinizin tek tek oylarınıza ihtiyaçları var.<br/><br/>eğri oturup doğru konuşalım, kusura bakmayın ama hiçbir şey elde etmediniz. şu an sadece -daha önce de olduğu gibi- bir seçim vaadi aldınız. ayaklarınız yere basarak, sizi oyuncak etmeyecek bir partiye/adaya oy vermeniz daha mantıklı olacaktır.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
+    suudi arabistan'daki ilginç defile
+  entry_id:  77826457
+  entry_writer: bilgisavar
+  entry_fav_count: 14
+  entry_content: |
+    (bkz: <a class="b" href="/?q=insans%c4%b1z+hava+defilesi">insansız hava defilesi</a>)
+  entry_channels: teknoloji,moda
+- entry_name: |
     okudum desin diye herkesi üniversiteli yaptık
   entry_id:  77825986
   entry_writer: unfug
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     üniversitelerin nasıl bir işlevi olduğunu birinci ağızdan itiraf gibi söylemiştir tayyip erdoğan. yani üniversiteli iş bulur mu, kariyer yapabilir mi, birikim yapabilir mi, ailesine yük olur mu, millete yük olur mu.... hiç önemi yok. yeter ki ezik kindar nesli üniversite okudum deyip kahvehanede 101 oynasın.<br/><br/>"herkesin atanmasını beklemeyin, öğretmenlik dışında şeyler de düşünün, biz yavrularımız 'üniversite okudum' diyebilsin diye herkesi üniversiteli yaptık."<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/metcihan/status/1004590933265010689/video/1" title="https://twitter.com/metcihan/status/1004590933265010689/video/1">link</a>
   entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    ögrencinin ailesini polise ihbar eden okul müdürü
+  entry_id:  77827648
+  entry_writer: bardas skleros
+  entry_fav_count: 14
+  entry_content: |
+    bundan 1 ay önce <a class="b" href="/?q=fatih+emin+ali+yasin+ilk%c3%b6%c4%9fretim+okulu">fatih emin ali yasin ilköğretim okulu</a>'nda son sınıflar yapılacak mezuniyet törenini okulda değil , illaki 5 yıldızlı eresin otel'de çocuk başı 200 tl ye yaptıran okul müdürü <a class="b" href="/?q=taki+akbulut">taki akbulut</a>'tur. akp döneminin liyakatsız, muhbir müdürlerinden biridir.<br/><br/>olaylar şöyle gelişiyor. 2 çocukları da son sınıfta olan kaya ailesi mezuniyet töreninin otelde değil okulda yapılmasını istiyorlar. "isteyen ailelerde gider kutlamasını otelde yapar ama biz gitmeyeceğiz" diyorlar. okul yönetimi ve sınıf öğretmeni otel konusunda ısrar ediyor ve mezun ettiği çocuklara yarım saatlik bir töreni çok görüyorlar. bu arada çocuklar aynı sınıfta değil ve çocuklardan birinin sınıf öğretmeni olması gerektiği gibi okulda bir tören yapıyor. fakat deniz'in öğretmeni <a class="b" href="/?q=firdevs+uyumaz">firdevs uyumaz</a> ve okul müdürü <a class="b" href="/?q=taki+akbulut">taki akbulut</a> okulda tören yaparak eresin otel'e gidecekleri azaltmamak peşinde. sonuçta çocuk başı 200 iyi para. <br/><br/>neyse, kaya ailesi deniz'e okulun önünde birkaç aile dostları ile beraber bir mezuniyet yapıyorlar. deniz şiir okuyor, pasta kesiliyor vs vs. sonrasında müdür <a class="b" href="/?q=taki+akbulut">taki akbulut</a> deniz'in kardeşinin sınıfta yapılan törenine katılan anneyi, çocukların önünde gözaltına aldırtıyor ve "alın bu teröristleri" diyerek aileye terörist diyor. tabi gözaltından birşey çıkmıyor ve deniz'in annesi hemen salınıyor. bu olayın detaylarını şu başlıkta yazmıştık. (bkz: <a class="b" href="/?q=deniz+kaya+200+tl+vermedi+sokakta+mezun+oluyor">deniz kaya 200 tl vermedi sokakta mezun oluyor</a>)<br/><br/>fakat kahraman muhbir müdürümüz burada durmuyor tabi. anında kalan günler içinde olan sınavlarda çocukların notlarını düşürmeye başlıyor. ardından çocukların ailesini facebook dan izlemeye alıp karakola gidiyor ve "facebooktan cumhurbaşkanı ve devlet büyüklerimize hakaret içeren paylaşımları olduğunu gördüm, geçmişe dönük facebook hesabı incelensin" diyerek ihbarda bulunuyor. <br/><br/>oysa ki böyle paylaşımlar yok. ancak ülke öyle bir noktadaki asılsız bir ihbarla başınıza herşey gelebiliyor. işleri çocuk yetiştirmek olanlar hanutçu olmuş, muhbir olmuş. karakol babayı ifadeye çağırıyor, ifade veriliyor vs. <br/><br/>şuan mahkeme günü bekleniyor. ailenin hukuki desteğe ihtiyacı var. yardımcı olabilecek istanbul'daki avukat arkadaşların dikkatine. babanın facebook'dan yaptığı yardım çağrısı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/ayhan.kaya1/posts/10156395885758050" title="https://www.facebook.com/ayhan.kaya1/posts/10156395885758050">şurada</a>.
+  entry_channels: 
+- entry_name: |
+    mi'nin konuşma için ysk'ya başvurmayı unutması
+  entry_id:  77827923
+  entry_writer: fare pipisi
+  entry_fav_count: 14
+  entry_content: |
+    unutma mı?<br/><br/>ulan adam başvurmayacağım diye açıklama yaptı ya djkfgkdf<br/><br/>bu arada güzel teklifler için yeşillendirebilirsin.
+  entry_channels: siyaset
+- entry_name: |
+    parfüm olup şişelense satın alınabilecek kokular
+  entry_id:  77821123
+  entry_writer: catlakmisir
+  entry_fav_count: 12
+  entry_content: |
+    tiner kokusu<br/>benzin kokusu<br/>yeni dökülmüş asfalt kokusu<br/><br/>(bkz: <a class="b" href="/?q=ke%c5%9f">keş</a>)
+  entry_channels: anket,moda
 - entry_name: |
     ahlat ağacı (film)
   entry_id:  77796977
@@ -307,53 +291,29 @@ data:
     ıkinci defa izledikten sonra kafamda tam oturdu fikir.<br/><br/>filmin teknik detaylari bir kenara, bu film aslında bir film degil roman diyenler de haksız bence. ahlat ağacı mahşer gününde gösterilecek görüntüler gibi, mahşer gününde bu hayatta yaşadıklarının gösterileceği söylenir ya. baştan aşagı izlersin hayatını. ben de baştan aşagı izledim hayatımi sanki filmi izlerken.<br/><br/>babasıyla ilgili hüzün biriktirmiş olan bir ana karakter bir yandan gelecek kaygısı taşırken, bir yandan inancı dini sorgulaması, kadınlarla olan ilişkisinin hayatın doğal akışına ters düşmemesiyle bir film bir roman değil ahlat ağacı. karakterler bir senaryonun içine kurgulanmiş hayali karakterler değil de gerçek bir benlik dışavurumu gibi. dış dünyaya olan kücümser tavrinin babasına karşi pasif agresif tavırın ötesine geçmemesi ile o nefret- sevgi ikileminde kalısın anlatilmasi. <br/><br/>ıyi bir film seni insan olarak rahatsiz edip kendini sorgulamana sebep olandir denir. beni cok rahatsiz etti cünkü günlük hayatin içinde mutlu olmaya çalısirken kaçtigim gerçegi yüzüme tokat gibi indirdi. <br/><br/>bu film benim mahşerimdi , yaşadiklarimi tekrar gösterdi bana.
   entry_channels: sanat,sinema,edebiyat,spoiler
 - entry_name: |
-    parfüm olup şişelense satın alınabilecek kokular
-  entry_id:  77821123
-  entry_writer: catlakmisir
+    bedelli askerlik garibanlara ihanettir
+  entry_id:  77826261
+  entry_writer: gelismekteolanyazar
   entry_fav_count: 11
   entry_content: |
-    tiner kokusu<br/>benzin kokusu<br/>yeni dökülmüş asfalt kokusu<br/><br/>(bkz: <a class="b" href="/?q=ke%c5%9f">keş</a>)
-  entry_channels: anket,moda
-- entry_name: |
-    çok rahat ayakkabı
-  entry_id:  77805146
-  entry_writer: kasvetlikutlama
-  entry_fav_count: 9
-  entry_content: |
-    unutulmaması gereken bir kural olarak; bir ayakkabı çok rahatsa ergonomik değildir.<br/><br/>iki; koşu ayakkabısı koşu dışında giyilmez ayak yapısını kalıcı olarak bozar. <br/><br/>ek; daha komiği doğa sporu ayakkabılarının rahat olduğunu yazmak olabilirdi o da yazılmış.
-  entry_channels: sağlık,moda
-- entry_name: |
-    suudi arabistan'daki ilginç defile
-  entry_id:  77826457
-  entry_writer: bilgisavar
-  entry_fav_count: 8
-  entry_content: |
-    (bkz: <a class="b" href="/?q=insans%c4%b1z+hava+defilesi">insansız hava defilesi</a>)
-  entry_channels: moda
-- entry_name: |
-    7 haziran 2018 dolar kuru
-  entry_id:  77796870
-  entry_writer: nbafan
-  entry_fav_count: 7
-  entry_content: |
-    yine dalgalı olması beklenen bir gün.<br/><br/>- bugün merkez bankası ppk toplantısı sebebiyle fiyatlama olacak; beklentiler 0,5 ile 2 puan arasında artırım olacağı yönünde yine ciddi şekilde faiz artırımı olmayacak beklentisi de dile getiriliyor.<br/><br/>türk lirasındaki ana fiyatlanma ppk kararına göre olacak, medyan beklenti 50 puan artırım ama altı olumsuz üstü olumlu fiyatlama olur mu o da şüpheli; çünkü ekonomistlerin beklentileri çok tutarsız. m.şimşek, kesin bir dil ile ''ingiltere'de yatırımcılara söz verildiğini yalanladı'' ama bütün saygın kurumlar bu söze atıf yapıyor. <br/><br/>merkez bankasının yarınki toplantısından sonraki toplantı 24 temmuzda bu süreçte seçim sonuçları, fed kararı, ecb'nin varlık alım kararı vb. birçok önemli faktörde değişim olacak; merkez bankası tekrardan ''olağanüstü toplantı''(kredibilite kaybı) yapmak istemiyorsa bugünden önlem almalı/sağlam öngörüde bulunmalı.<br/><br/>- ppk toplantısından hemen sonra türk lirası bu defa da dış sebepler için de fiyatlanacak çünkü haftaya çarşamba fed toplantısı var. %90 üstünde faiz artım yapılacak beklentisi var; fed uzun zamandır sürpriz yapmıyor; aynı hafta ecb'nin varlık alım programı (bkz: <a class="b" href="/entry/76109779">#76109779</a>) ile ilgili net tarih verme ihtimali var o da şimdiden fiyatlamaya girecek, özellikle ecb'nin kararı önemli.<br/><br/>- bist'te olumsuz durum türk lirasını da olumsuz etkiliyor, çok önemli destekler test edilmeye başladı.<br/><br/>-dün (6 haziran) bütün gelişmekte olan ülke para birimleri değerlendi, dxy düştü ama halen trend yukarı doğru.<br/><br/>-yarın türk lirasını kuvvetli şekilde etkileyecek dış veri yok.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    7 haziran 2018 moody'sin banka notlarını düşürmesi
-  entry_id:  77825038
-  entry_writer: ggentri
-  entry_fav_count: 5
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="http://www.bloomberght.com/haberler/haber/2128216-moody-s-17-turk-bankasi-nin-notunu-dusurdu" title="http://www.bloomberght.com/haberler/haber/2128216-moody-s-17-turk-bankasi-nin-notunu-dusurdu">eyyy moody's sen kimsin</a><br/>uluslararası kredi derecelendirme kuruluşu moody's 17 türk bankası'nın notunu düşürdü. moody's toplamda 19 finansal kurum hakkında not düşürme kararı aldı.<br/>son faiz oranları nedeniyle kredi miktarları azalacak ,bankların karlılığı da otomatik olarak düşecek. bu gören moody's de durur mu yapıştırmış not indirimin.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.moodys.com/research/Moodys-takes-rating-actions-on-19-Turkish-financial-institutions--PR_384576" title="https://www.moodys.com/research/Moodys-takes-rating-actions-on-19-Turkish-financial-institutions--PR_384576">moodys direk link</a> lan bu ingilizce özet geç diyenler için adı geçen bankalarımız;<br/><br/>t.c. ziraat bankasi, turkiye garanti bankasi a.s, turkiye halk bankasi a.s., qnb finansbank as, akbank tas, alternatifbank a.s., denizbank a.s., turkiye ıs bankasi a.s., ıng bank a.s, export credit bank of turkey a.s., hsbc bank a.s., odea bank a.s, yapi ve kredi bankasi a.s., sekerbank t.a.s., turk ekonomi bankasi a.s., turkiye sinai kalkinma bankasi, turkiye vakiflar bankasi tao a.s. ve optima faktoring a.s.,ekspo faktoring a.s.,
-  entry_channels: ekonomi
+    göte göt demektir. <br/>parayla askerlik yapanla yapamayan arkasındaki tek fark nedir? zenginlik. <br/><br/>acemi birliğinde yemek sırasındayken duyduğum "ulen şimdi bir hafta önce range roverla geziyürdük vay amuğa" lafını sarf eden, babasının müteahhit olmasından başka hiç bir vasfı olmayan kroyu kurtaracak sisteme karşıyım.<br/><br/>şimdi diyeceksiniz paran olsa sen yapmaz mısın, yaparım tabiki. ama biri yaparken ötekinin yapamaması adaletsizlik.
+  entry_channels: siyaset,anket
 - entry_name: |
     vatanım sensin
   entry_id:  77820783
   entry_writer: ketender tepetopuzu
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     erken final falan değil, <br/>zaten bu sezonun afişinde cumhuriyet döneminin kılık kıyafetinde görüyoruz azize'yi ve diğer karakterleri. dolayısıyla planın savaşı bu sezon bitirmek olduğunu söyleyebiliriz. <br/><br/>dağıstanlıya 231839181 saat ayırmasalardı, savaş zaten bitmişti. bu sezon genel planlamayı çok iyi yapmadılar.
   entry_channels: tv,tarih,spoiler
+- entry_name: |
+    kadına yardım edince oluşan seks beklentisi
+  entry_id:  77827562
+  entry_writer: patternicus
+  entry_fav_count: 5
+  entry_content: |
+    ben evli çifte yardım edince threesome beklentisine giriyorum. bazen olmuyor.
+  entry_channels: 
 - entry_name: |
     komik kadın olmayışı
   entry_id:  77814823
@@ -371,6 +331,22 @@ data:
     onu yok saymaktır , bu gerçi cinsiyet ayırt etmeksizin herkesi yaralar .
   entry_channels: anket,ilişkiler
 - entry_name: |
+    sözlük yazarlarının yalnızlık dereceleri
+  entry_id:  77810597
+  entry_writer: deliolindeli
+  entry_fav_count: 2
+  entry_content: |
+    kendimden sıkıldım.<br/>kedim bile benden sıkıldı yanaşmıyor :/<br/>(bkz: <a class="b" href="/?q=geldi+yine+tipini+sikti%c4%9fimin">geldi yine tipini siktiğimin</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    eski sevgiliyi unutma süresi
+  entry_id:  77822041
+  entry_writer: kaan atakan
+  entry_fav_count: 2
+  entry_content: |
+    kadınlarda ayrılınca, erkeklerde ise daha çok sevebileceği birini bulduğu zamandır.
+  entry_channels: ilişkiler
+- entry_name: |
     swinger
   entry_id:  77814454
   entry_writer: molkoid
@@ -379,13 +355,37 @@ data:
     cuckold ile mantığı veya psikolojisi açısından alakası olmayan durum.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    sözlük yazarlarının yalnızlık dereceleri
-  entry_id:  77827158
-  entry_writer: yardirayy
-  entry_fav_count: 0
+    cahit zarifoğlu
+  entry_id:  77811364
+  entry_writer: beninsanimcunkucastielmelek
+  entry_fav_count: 1
   entry_content: |
-    yolda yürürken veya bir yerlerde bir şeyler beklerken birini arayım da zaman geçsin diye düşünüp arayacak kimseyi bulamamak.
-  entry_channels: anket,ilişkiler
+    -yedi haziran bin dokuz yüz seksen yedi-<br/><br/>ölüm yıl dönümü.<br/><br/>"seçkin<br/>bir kimse değilim<br/>ismimin baş harfleri acz tutuyor<br/>bağışlamanı dilerim<br/><br/>sana zorsa bırak yanayım<br/>kolaysa esirgeme<br/><br/>hayat bir boş rüyaymış<br/>geçen ibadetler özürlü<br/>eski günahlar dipdiri<br/>seçkin bir kimse değilim<br/>ismimin baş harflerinde kimliğim<br/>bağışlanmamı dilerim<br/><br/>sana zorsa yanmaya razıyım<br/>kolaysa affı esirgeme<br/><br/>hayat boş geçti<br/>geri kalan korkulu<br/>her adımım dolu olsa<br/>işe yaramaz katında<br/>biliyorum<br/>bağışlanmamı diliyorum."
+  entry_channels: sanat,edebiyat
+- entry_name: |
+    bir kadının en güzel olduğu yaş
+  entry_id:  77826048
+  entry_writer: excell74
+  entry_fav_count: 1
+  entry_content: |
+    kendisini en iyi hissettiği yaştır. kendini iyi hissetmiyorsa hangi yaş olursa olsun fark etmez kötüdür. kendisini iyi hissediyorsa da mutlu ve huzurluysa hangi yaşta olursa olsun etrafa neşe ve pozitiflik saçar.
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
+    adile naşit'i toprak kabul etmedi zırvası
+  entry_id:  77825587
+  entry_writer: zafersproblemset
+  entry_fav_count: 1
+  entry_content: |
+    cemaatçi turnusolüdür.
+  entry_channels: haber,magazin
+- entry_name: |
+    7 haziran 2018 gezici anket sonuçları
+  entry_id:  77826759
+  entry_writer: like some snow
+  entry_fav_count: 1
+  entry_content: |
+    bazı yazarların makul dediği anket. yani adam bildigin bekliyor ilk turda neredeyse %50'yi akıl alır gibi değil. evet, ince'nin kazanması neredeyse imkansız fakat şöyle bir gerçek var, rte'ye olan güven bir miktar azaldı. bu akşam iş dönüşü kahvenin önünden geçerken hırbo dayılar ince'nin ne kadar yiğit bir adam olduğunu konuşuyorlardı. normalde böyle tipler günahını vermez sol cenaha. dolayısıyla hemen her ankette enseyi karartmayın.
+  entry_channels: siyaset,anket,haber
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  77819307
@@ -395,11 +395,11 @@ data:
     an itibariyle özellikle erkek yazarlardan (yahut işaret fişeği çaksanız, götüne deniz feneri de soksanız anlamamış bir adama açılmış hemcinslerim de yardımcı olabilir) almak istediğim birkaç tavsiye olduğundan mütevellit yardımcı olabilecek olanlar yeşillesin beni.<br/><br/>not; durum aşk meşk ile ilgili. <br/>zat ı şahaneleri azıcık kıt ve cool. kısmetse dandun konuşmak istiyorum kendisiyle.<br/><br/>konuya bi el atın. yarın bi gün de sizin bana işiniz düşer bak...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    7 haziran 2018 gezici anket sonuçları
-  entry_id:  77826759
-  entry_writer: like some snow
+    7 haziran 2018 muharrem ince burdur mitingi
+  entry_id:  77828383
+  entry_writer: ben seni severim sevmesine de
   entry_fav_count: 0
   entry_content: |
-    bazı yazarların makul dediği anket. yani adam bildigin bekliyor ilk turda neredeyse %50'yi akıl alır gibi değil. evet, ince'nin kazanması neredeyse imkansız fakat şöyle bir gerçek var, rte'ye olan güven bir miktar azaldı. bu akşam iş dönüşü kahvenin önünden geçerken hırbo dayılar ince'nin ne kadar yiğit bir adam olduğunu konuşuyorlardı. normalde böyle tipler günahını vermez sol cenaha. dolayısıyla hemen her ankette enseyi karartmayın.
-  entry_channels: siyaset,anket,haber
+    benim memleket yıkılıyor şu an. annem de kayıplarımızın yasal işlemlerini halletmek için burdur'a gitti bu sabah. telefonda "akşam mitinge git aşkım geliyor" dedim, gülüştük.<br/><br/>facebook 20 bin izleyiciye dayandı, 50-65 yaş aralığı insanlar ayakta.. <br/>"ben sizin çocuklarınıza hayal kurmayı öğreteceğim" dedi, benim benim gözler yine doldu..<br/><br/>"aydın'da efe oynadım, burdur'da da teke zortlatması var" dedi. ulan teke zortlatması da oynarsa ben burada bayılır giderim artık. ötesi yok.
+  entry_channels: siyaset,haber
 ---
