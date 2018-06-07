@@ -18,30 +18,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7wN-M5cy6lp_yLjZ9I8R-1wFvQVKUqd9P5_igQ2qlXg.png?s=6374b0158592d0d4cf2069bf110d218d frameborder=0>
 - entry_name: |
-    “I can explain...”
-  entry_id: 8p4guw
+    a 54 million yo gecko trapped in amber
+  entry_id: 8pa1qv
   entry_content: |
-    <img src=https://i.redditmedia.com/d4TmO-xfYcddo1a7qFFphE_c_-sVQBfO36SHMr90elw.jpg?s=f1138037a245b15d222a7817a204f257 frameborder=0>
+    <img src=https://i.redditmedia.com/KY_gE_bbcUVUhHOcNzBK2Z3JoGd4qMLqL8maJLFM45o.jpg?s=bdff4ecf28c4f0e05657270009c65f40 frameborder=0>
 - entry_name: |
     DHL delivery guy hides delivery behind the pillar, and then on noticing the other package he decides to hide that too.
   entry_id: 8p80yw
   entry_content: |
     <iframe src=https://v.redd.it/g4k9a93cvi211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Hot Wheels made a car that holds a GoPro
-  entry_id: 8p3j4p
+    “I can explain...”
+  entry_id: 8p4guw
   entry_content: |
-    <iframe src=https://v.redd.it/2uqrpy8nlf211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/d4TmO-xfYcddo1a7qFFphE_c_-sVQBfO36SHMr90elw.jpg?s=f1138037a245b15d222a7817a204f257 frameborder=0>
 - entry_name: |
     Hot Wheels GoPro with jump & loop
   entry_id: 8p9b19
   entry_content: |
     <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    a 54 million yo gecko trapped in amber
-  entry_id: 8pa1qv
-  entry_content: |
-    <img src=https://i.redditmedia.com/KY_gE_bbcUVUhHOcNzBK2Z3JoGd4qMLqL8maJLFM45o.jpg?s=bdff4ecf28c4f0e05657270009c65f40 frameborder=0>
 - entry_name: |
     This flower my mom bought looks like it was photo shopped.
   entry_id: 8p671e
@@ -58,6 +53,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Z9anXblLnzJ8n6j5kL8rgsenVHUtsEo_3dWnkhpx1hU.jpg?s=ebf839d287acabdcdf757b718614ff0a frameborder=0>
 - entry_name: |
+    Cheating
+  entry_id: 8pa5id
+  entry_content: |
+    <img src=https://i.redditmedia.com/w03KnKwfoBia8p6kQNsqmSdmxehQHVw0WKIBJpb4m8k.jpg?s=2a68ce859e192c3e63eb1a51c66aa264 frameborder=0>
+- entry_name: |
     The Fallout 76 Mural for E3 Looks to be Finished! Image Taken- 2:12PM(PST)
   entry_id: 8p4grg
   entry_content: |
@@ -68,50 +68,55 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/19tyc3cpkj211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Got thrown out of r/oldschoolcool but this too bad ass not to share again.
-  entry_id: 8p6wef
+    This went in a much different direction than I thought.
+  entry_id: 8p9uab
   entry_content: |
-    <img src=https://i.redditmedia.com/MPai3rKJLObP3I2616SpYtzRMoF5maKnMMvx6PoIIFY.jpg?s=6936a676f4d4869034258142a7f46c63 frameborder=0>
+    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
 - entry_name: |
     My parents at the end of their wedding in 1977. Also them a few months ago during their 40th year of being married.
   entry_id: 8p7bzm
   entry_content: |
     <img src=https://i.redditmedia.com/fgYjQwhNT7b9jmh9nDszaFZOcnNZldc4UNvvOQzqqs0.jpg?s=6d6d4d50178479fe28ed010b327a5c09 frameborder=0>
 - entry_name: |
-    LeBron James throws it off the backboard to himself and slams it home.
-  entry_id: 8p66z4
+    Got thrown out of r/oldschoolcool but this too bad ass not to share again.
+  entry_id: 8p6wef
   entry_content: |
-    <iframe src=https://v.redd.it/69vrsk7ych211/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/MPai3rKJLObP3I2616SpYtzRMoF5maKnMMvx6PoIIFY.jpg?s=6936a676f4d4869034258142a7f46c63 frameborder=0>
 - entry_name: |
     DHL delivery guy hides delivery behind the pillar, and then on noticing the other package he decides to hide that too.
   entry_id: 8p80fa
   entry_content: |
     <iframe src=https://v.redd.it/g4k9a93cvi211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    LBJ throws it off the backboard to himself
-  entry_id: 8p66m5
+    LeBron James throws it off the backboard to himself and slams it home.
+  entry_id: 8p66z4
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/69vrsk7ych211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Mom Reflexes
   entry_id: 8p81qz
   entry_content: |
     <iframe src=https://v.redd.it/jy1nsfunwi211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    LBJ throws it off the backboard to himself
+  entry_id: 8p66m5
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     Childhood education
   entry_id: 8p629y
   entry_content: |
     <img src=https://i.redditmedia.com/S6B_-FEtOSxLwrA--W0Klhosr0LdvRLBpvPnl9YWSWs.jpg?s=8f37c70397763a23143334939b31ad31 frameborder=0>
 - entry_name: |
-    This went in a much different direction than I thought.
-  entry_id: 8p9uab
+    This diseased walnut looks like a mini planet
+  entry_id: 8p9vsn
   entry_content: |
-    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
+    <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
 - entry_name: |
-    Cheating
-  entry_id: 8pa5id
+    The hero we need but don’t deserve.
+  entry_id: 8p972g
   entry_content: |
-    <img src=https://i.redditmedia.com/w03KnKwfoBia8p6kQNsqmSdmxehQHVw0WKIBJpb4m8k.jpg?s=2a68ce859e192c3e63eb1a51c66aa264 frameborder=0>
+    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     The majestic land dolphin
   entry_id: 8p7ia4
@@ -128,55 +133,60 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DfoyOVprnitbhCv_tQQFJidhqanRZWtal1CIKfGXfgk.jpg?s=399a1d03ac2679012b7632ede8f71609 frameborder=0>
 - entry_name: |
-    The hero we need but don’t deserve.
-  entry_id: 8p972g
+    You are an old one!
+  entry_id: 8p7m97
   entry_content: |
-    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/iIySgd178tstokyReSAVxM1EWbAQK1BFgF3jQDXQh5A.jpg?s=7719072de7f09a79634374f9eb89867f frameborder=0>
 - entry_name: |
     This one was one of my fav and took a while to do.
   entry_id: 8p4vfv
   entry_content: |
     <img src=https://i.redditmedia.com/_L-iClCELTF8788mbaUdNkWfjNC2Ua2eOBW5cyd3nJw.jpg?s=1cb96665e489fec8fa28e8935f4c0f1f frameborder=0>
 - entry_name: |
-    You are an old one!
-  entry_id: 8p7m97
-  entry_content: |
-    <img src=https://i.redditmedia.com/iIySgd178tstokyReSAVxM1EWbAQK1BFgF3jQDXQh5A.jpg?s=7719072de7f09a79634374f9eb89867f frameborder=0>
-- entry_name: |
     My HS yearbook is great
   entry_id: 8p7142
   entry_content: |
     <img src=https://i.redditmedia.com/C1HKbp3NOjDxDYO4qjgrLwdd7sfcltC74fJpG3EjH5s.jpg?s=63a5d4086d7bf050986b3f3fc90cc463 frameborder=0>
-- entry_name: |
-    This diseased walnut looks like a mini planet
-  entry_id: 8p9vsn
-  entry_content: |
-    <img src=https://i.redditmedia.com/y4bKli-AJsur12xrBGijBACuRvJcfZtPa6P84_fzE00.jpg?s=995d8a508c819dd938ee49fd77163d69 frameborder=0>
-- entry_name: |
-    It’s reasonable doubt, then.
-  entry_id: 8p3etp
-  entry_content: |
-    <img src=https://i.redditmedia.com/HwATBdGzAcQWFnxoj0TR4_C3mc7llHgcGBXmhJAzeaU.jpg?s=8c1ed13b6aad7fd4a8d76468924d13aa frameborder=0>
 - entry_name: |
     TIL Back in the 1980's people were able to download Video Games from a radio broadcast by recording the sounds onto a cassette tape that they could then play on their computers.
   entry_id: 8p7j7y
   entry_content: |
     <img src=https://i.redditmedia.com/qVaQG_ToOAZqdR06hpqP5EoCDLj4S6q6kx3qTPVVs3k.jpg?s=6804ca6042fddaeb419e5b130834080d frameborder=0>
 - entry_name: |
-    The original Gerber baby meets the current Gerber baby
-  entry_id: 8p5qzd
-  entry_content: |
-    <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
-- entry_name: |
     All Icelanders To Be Organ Donors By Default
   entry_id: 8p8wgf
   entry_content: |
     <img src=https://i.redditmedia.com/Q6eekiYJA4lhHvgmPnKhpFVeycL-bOtz6Gf42bYvyM4.jpg?s=04407437bfd8d21d59e767d84e567faf frameborder=0>
 - entry_name: |
+    The original Gerber baby meets the current Gerber baby
+  entry_id: 8p5qzd
+  entry_content: |
+    <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
+- entry_name: |
+    Melania Trump's first public appearance in 27 days
+  entry_id: 8pbro9
+  entry_content: |
+    <img src=https://i.redditmedia.com/R35BizAqe7WgggbH52YtcAvmtk6_IkuvaMAxxtS4_f0.gif?fm=jpg&s=ae91ebab65a28f0d4509f561c4a8a57b frameborder=0>
+- entry_name: |
     The Future is Now
   entry_id: 8p4hqx
   entry_content: |
     <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
+- entry_name: |
+    Legend
+  entry_id: 8p8n0z
+  entry_content: |
+    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
+- entry_name: |
+    The most adorable leap of faith.
+  entry_id: 8p9i1m
+  entry_content: |
+    <iframe src=https://v.redd.it/ijemf4npck211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    MRW my boss asks me to welcome the new hire and tell him how great it is here
+  entry_id: 8p6rh7
+  entry_content: |
+    <img src=https://i.redditmedia.com/iUPstF7xAd3bIqAafhn6dxYh_A6b3VYPoRJV9lXPsZ4.gif?fm=jpg&s=7b318f32eb8edd5cbd0e622284ff0289 frameborder=0>
 - entry_name: |
     Robo backflip
   entry_id: 8p5fv2
@@ -188,15 +198,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9r97y49c3h211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    MRW my boss asks me to welcome the new hire and tell him how great it is here
-  entry_id: 8p6rh7
+    Facebook...
+  entry_id: 8p89ej
   entry_content: |
-    <img src=https://i.redditmedia.com/iUPstF7xAd3bIqAafhn6dxYh_A6b3VYPoRJV9lXPsZ4.gif?fm=jpg&s=7b318f32eb8edd5cbd0e622284ff0289 frameborder=0>
+    <img src=https://i.redditmedia.com/E1qLSoUTxXGNBs_43YJd_48xwhann8jSkfRYeTu9Sms.png?s=1e162c5fba2e6b57c6a13929ec51273d frameborder=0>
 - entry_name: |
-    Legend
-  entry_id: 8p8n0z
+    Sounds about right
+  entry_id: 8p8k5g
   entry_content: |
-    <img src=https://i.redditmedia.com/xNSK25CJev_SKkEth5M6RqGJ_kGQlziqjxkYYQQ-eXs.jpg?s=24f2f1708e3e7fc87254d52e7092f230 frameborder=0>
+    <img src=https://i.redditmedia.com/14oQZlv6UrMwwlXvKLXlfw05KqPc4DQCgQ0iqKXaWCQ.jpg?s=eb5bdc2ad095ecc76aba806e46628ada frameborder=0>
+- entry_name: |
+    NJ teacher leaves $1 million to school district in her will. it will be used on scholarships for special-Education students
+  entry_id: 8p9z22
+  entry_content: |
+    <img src=https://i.redditmedia.com/T4r3scASf34pMQurZj8ozmu-Ybn2w41fqSCA3sMLnPA.jpg?s=16173b072cf14c783c214b40f9a1fcae frameborder=0>
 - entry_name: |
     Panini
   entry_id: 8p3tyt
@@ -213,43 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
 - entry_name: |
-    Facebook...
-  entry_id: 8p89ej
+    Nap time
+  entry_id: 8p7nui
   entry_content: |
-    <img src=https://i.redditmedia.com/E1qLSoUTxXGNBs_43YJd_48xwhann8jSkfRYeTu9Sms.png?s=1e162c5fba2e6b57c6a13929ec51273d frameborder=0>
-- entry_name: |
-    The most adorable leap of faith.
-  entry_id: 8p9i1m
-  entry_content: |
-    <iframe src=https://v.redd.it/ijemf4npck211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
 - entry_name: |
     Vish’Ora the organ collector.
   entry_id: 8p5hil
   entry_content: |
     <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
 - entry_name: |
+    Touching the sky
+  entry_id: 8p7pyn
+  entry_content: |
+    <img src=https://i.redditmedia.com/VeenzcDjWI3HJD-rZ-zlPrQIGYYbO1aBlpq6fref5yA.jpg?s=30f9815e8e3189c69b0fa5bac69daf85 frameborder=0>
+- entry_name: |
     First day of Taekwondo, first lesson... nailed it
   entry_id: 8p5f0u
   entry_content: |
     <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Nap time
-  entry_id: 8p7nui
+    Visible Shock Wave
+  entry_id: 8p9c8j
   entry_content: |
-    <img src=https://i.redditmedia.com/5C9vPUMYK4VLYHVBEyzde2y8it46-he7Ia9INL1hAAY.gif?fm=jpg&s=90256b2fd0bb67fef6784a280dec4193 frameborder=0>
-- entry_name: |
-    Sounds about right
-  entry_id: 8p8k5g
-  entry_content: |
-    <img src=https://i.redditmedia.com/14oQZlv6UrMwwlXvKLXlfw05KqPc4DQCgQ0iqKXaWCQ.jpg?s=eb5bdc2ad095ecc76aba806e46628ada frameborder=0>
-- entry_name: |
-    Backward driver
-  entry_id: 8p4aaw
-  entry_content: |
-    <iframe src=https://v.redd.it/hunzyl7ocf211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    In Coraline (2009) while the Other Mother is cracking an egg, the yolk is the head of Jack Skellington from the Nightmare Before Christmas.
-  entry_id: 8p6k32
-  entry_content: |
-    <img src=https://i.redditmedia.com/mLU8F8wNdohGG7gxV0nHeCFcgA1xdCpW3sRhaOcB9VA.jpg?s=b9d08c440e3862736a8fd910ab0c77f5 frameborder=0>
+    <img src=https://i.redditmedia.com/6sKZrWbMzDU4SpoO2I6kKhKDU0neGPeFeTyJckuT-R4.jpg?s=b02877c839db1f704f258201f78c2900 frameborder=0>
 ---
