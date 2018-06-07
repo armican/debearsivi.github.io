@@ -68,6 +68,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O3eWzA1jJgA1xGxmTwQfBM1BpH7aW5xZtvqGz7ljoH0.jpg?s=473a44cd3a62f3573a85b86e6fe06e1f frameborder=0>
 - entry_name: |
+    Hot Wheels GoPro with jump & loop
+  entry_id: 8p9b19
+  entry_content: |
+    <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     2meirl4meirl
   entry_id: 8p2qp1
   entry_content: |
@@ -77,11 +82,6 @@ data:
   entry_id: 8p6wef
   entry_content: |
     <img src=https://i.redditmedia.com/MPai3rKJLObP3I2616SpYtzRMoF5maKnMMvx6PoIIFY.jpg?s=6936a676f4d4869034258142a7f46c63 frameborder=0>
-- entry_name: |
-    LeBron James throws it off the backboard to himself and slams it home.
-  entry_id: 8p66z4
-  entry_content: |
-    <iframe src=https://v.redd.it/69vrsk7ych211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     The difference between sisters and brothers
   entry_id: 8p8pxl
@@ -93,25 +93,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fgYjQwhNT7b9jmh9nDszaFZOcnNZldc4UNvvOQzqqs0.jpg?s=6d6d4d50178479fe28ed010b327a5c09 frameborder=0>
 - entry_name: |
-    LBJ throws it off the backboard to himself
-  entry_id: 8p66m5
+    LeBron James throws it off the backboard to himself and slams it home.
+  entry_id: 8p66z4
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Hot Wheels GoPro with jump & loop
-  entry_id: 8p9b19
-  entry_content: |
-    <iframe src=https://v.redd.it/tsz0uwmf6k211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    hmmm
-  entry_id: 8p3cqb
-  entry_content: |
-    <img src=https://i.redditmedia.com/3eJUzWYCwlPf_t0iBcS-RjDYpnSI3XfaBpQPYN34Y0E.jpg?s=cc328a85bdd75e46e039813aea2ac72e frameborder=0>
+    <iframe src=https://v.redd.it/69vrsk7ych211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     DHL delivery guy hides delivery behind the pillar, and then on noticing the other package he decides to hide that too.
   entry_id: 8p80fa
   entry_content: |
     <iframe src=https://v.redd.it/g4k9a93cvi211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    LBJ throws it off the backboard to himself
+  entry_id: 8p66m5
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fpr1c7&url=https%3A%2F%2Fstreamable.com%2Fpr1c7&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fpr1c7.jpg%3Ftoken%3DgMQC8GBLjitkllnpl7MeOw%26expires%3D1528341350&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    a 54 million yo gecko trapped in amber
+  entry_id: 8pa1qv
+  entry_content: |
+    <img src=https://i.redditmedia.com/KY_gE_bbcUVUhHOcNzBK2Z3JoGd4qMLqL8maJLFM45o.jpg?s=bdff4ecf28c4f0e05657270009c65f40 frameborder=0>
+- entry_name: |
+    Mom Reflexes
+  entry_id: 8p81qz
+  entry_content: |
+    <iframe src=https://v.redd.it/jy1nsfunwi211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    hmmm
+  entry_id: 8p3cqb
+  entry_content: |
+    <img src=https://i.redditmedia.com/3eJUzWYCwlPf_t0iBcS-RjDYpnSI3XfaBpQPYN34Y0E.jpg?s=cc328a85bdd75e46e039813aea2ac72e frameborder=0>
 - entry_name: |
     Childhood education
   entry_id: 8p629y
@@ -127,11 +137,6 @@ data:
   entry_id: 8p2vp1
   entry_content: |
     <img src=https://i.redditmedia.com/nCmrrqiXFhMsbDJyczcydXWnKs9ZXHHU4i-vyc1WTIE.jpg?s=9d6c05b04acdf20028c4c5627a1450c6 frameborder=0>
-- entry_name: |
-    Mom Reflexes
-  entry_id: 8p81qz
-  entry_content: |
-    <iframe src=https://v.redd.it/jy1nsfunwi211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     80 arrested, 95 pounds of meth and 75 guns seized in largest drug bust in recent history- Seattle WA
   entry_id: 8p4n26
@@ -163,6 +168,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C1HKbp3NOjDxDYO4qjgrLwdd7sfcltC74fJpG3EjH5s.jpg?s=63a5d4086d7bf050986b3f3fc90cc463 frameborder=0>
 - entry_name: |
+    The hero we need but don’t deserve.
+  entry_id: 8p972g
+  entry_content: |
+    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     It’s reasonable doubt, then.
   entry_id: 8p3etp
   entry_content: |
@@ -173,82 +183,73 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ybLi-aGAuArD3CfAWm7aQRoAkQvZQ-YgSOQi_NW25ek.jpg?s=b1ce6a5c224b792631c139cf66a4493d frameborder=0>
 - entry_name: |
-    The Future is Now
-  entry_id: 8p4hqx
-  entry_content: |
-    <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
-- entry_name: |
     TIL Back in the 1980's people were able to download Video Games from a radio broadcast by recording the sounds onto a cassette tape that they could then play on their computers.
   entry_id: 8p7j7y
   entry_content: |
     <img src=https://i.redditmedia.com/qVaQG_ToOAZqdR06hpqP5EoCDLj4S6q6kx3qTPVVs3k.jpg?s=6804ca6042fddaeb419e5b130834080d frameborder=0>
 - entry_name: |
-    Robo backflip
-  entry_id: 8p5fv2
+    The Future is Now
+  entry_id: 8p4hqx
   entry_content: |
-    <iframe src=https://v.redd.it/5ujfdfddtg211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Ears? Ears!
-  entry_id: 8p5txb
-  entry_content: |
-    <iframe src=https://v.redd.it/9r97y49c3h211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Panini
-  entry_id: 8p3tyt
-  entry_content: |
-    <img src=https://i.redditmedia.com/AkJ9brLV56s1qEPEax7lbXDP2uEgM91akjawdbFK174.jpg?s=b65e1a4647eccdf43aeeaf1c6adb4909 frameborder=0>
+    <img src=https://i.redditmedia.com/z4Sr7Dv_3jK_298NeIfcQHOfJx6xs_SRfP_S1lXkQhg.jpg?s=ad358916c9b6bf5172cbbf90eea600e7 frameborder=0>
 - entry_name: |
     The warmest time of the year​ and the refrigerator is the coldest place.
   entry_id: 8p8enn
   entry_content: |
     <iframe src=https://v.redd.it/rhibm6yj8j211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    me irl
-  entry_id: 8p4gko
+    All Icelanders To Be Organ Donors By Default
+  entry_id: 8p8wgf
   entry_content: |
-    <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
+    <img src=https://i.redditmedia.com/Q6eekiYJA4lhHvgmPnKhpFVeycL-bOtz6Gf42bYvyM4.jpg?s=04407437bfd8d21d59e767d84e567faf frameborder=0>
 - entry_name: |
-    Tornado in my town today
-  entry_id: 8p6qav
+    Robo backflip
+  entry_id: 8p5fv2
   entry_content: |
-    <iframe src=https://v.redd.it/uybdqslgrh211/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/5ujfdfddtg211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Increase Your Cognitive Ability By Reading A Fucking Book For Once
-  entry_id: 8p2s83
+    This went in a much different direction than I thought.
+  entry_id: 8p9uab
   entry_content: |
-    <img src=https://i.redditmedia.com/MIV6KtwUVPCoQL3-snTY57Dbfl0_iYFZ7I9aSpbvgTU.jpg?s=0225d003791f1a665b063bbd3eb398d7 frameborder=0>
+    <img src=https://i.redditmedia.com/5Ms_RdXp2j2JxeUngYqfAQBqqcIgk0fagWpJUAvGnhk.gif?fm=jpg&s=1a46664e3d1d038cb9983d6676d22bc0 frameborder=0>
 - entry_name: |
-    Trump reportedly thinks Canada burned down the White House. That was Britain. In 1812.
-  entry_id: 8p38sg
+    Ears? Ears!
+  entry_id: 8p5txb
   entry_content: |
-    <img src=https://i.redditmedia.com/wKbhbSKEWQQGg1d-_ax5Pmb1cbrEkv4oiHZxZkk0Ec4.jpg?s=497096cc8a8cd06c962506dc1f9a33a2 frameborder=0>
-- entry_name: |
-    Vish’Ora the organ collector.
-  entry_id: 8p5hil
-  entry_content: |
-    <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
+    <iframe src=https://v.redd.it/9r97y49c3h211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     MRW my boss asks me to welcome the new hire and tell him how great it is here
   entry_id: 8p6rh7
   entry_content: |
     <img src=https://i.redditmedia.com/iUPstF7xAd3bIqAafhn6dxYh_A6b3VYPoRJV9lXPsZ4.gif?fm=jpg&s=7b318f32eb8edd5cbd0e622284ff0289 frameborder=0>
 - entry_name: |
-    The hero we need but don’t deserve.
-  entry_id: 8p972g
+    Panini
+  entry_id: 8p3tyt
   entry_content: |
-    <iframe src=https://v.redd.it/tdtno37j2k211/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/AkJ9brLV56s1qEPEax7lbXDP2uEgM91akjawdbFK174.jpg?s=b65e1a4647eccdf43aeeaf1c6adb4909 frameborder=0>
 - entry_name: |
-    Backward driver
-  entry_id: 8p4aaw
+    Tornado in my town today
+  entry_id: 8p6qav
   entry_content: |
-    <iframe src=https://v.redd.it/hunzyl7ocf211/DASH_2_4_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/uybdqslgrh211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    First day of Taekwondo, first lesson... nailed it
-  entry_id: 8p5f0u
+    me irl
+  entry_id: 8p4gko
   entry_content: |
-    <iframe src=https://v.redd.it/wjkqh8lssg211/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/hW81T1r_HTd6ZUYjwK8Wlseq5h6LRzxzcHvcLvpDssc.png?s=b8f92de55826f90806feee4d9d41b766 frameborder=0>
 - entry_name: |
-  entry_id: 8p4ni1
+    Increase Your Cognitive Ability By Reading A Fucking Book For Once
+  entry_id: 8p2s83
   entry_content: |
-    <img src=https://i.redditmedia.com/WekPH_etXOZbIsxYZhAzXL7WyzGRalzZXBSGvJFg0v8.jpg?s=d821f9dd86a8bb0a4a98557100be6566 frameborder=0>
+    <img src=https://i.redditmedia.com/MIV6KtwUVPCoQL3-snTY57Dbfl0_iYFZ7I9aSpbvgTU.jpg?s=0225d003791f1a665b063bbd3eb398d7 frameborder=0>
+- entry_name: |
+    Vish’Ora the organ collector.
+  entry_id: 8p5hil
+  entry_content: |
+    <img src=https://i.redditmedia.com/4x5IYBy8em5JAIbMOD76LuqV4fmR7KHw8ITqU555o44.jpg?s=a730f015b141f6de5665131ac40e3d2a frameborder=0>
+- entry_name: |
+    Trump reportedly thinks Canada burned down the White House. That was Britain. In 1812.
+  entry_id: 8p38sg
+  entry_content: |
+    <img src=https://i.redditmedia.com/wKbhbSKEWQQGg1d-_ax5Pmb1cbrEkv4oiHZxZkk0Ec4.jpg?s=497096cc8a8cd06c962506dc1f9a33a2 frameborder=0>
 ---
