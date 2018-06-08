@@ -8,20 +8,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/subq5wb0po211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When your father in-law tells you he's playing Skyrim, but it's a very slow game..
-  entry_id: 8pdok1
+    President Obama and Anthony Bourdain enjoy dinner and a beer
+  entry_id: 8pjymv
   entry_content: |
-    <img src=https://i.redditmedia.com/StHbOdwlUmP1XmtzpT0uoKLB0A7vevv1aopiY4fOSNw.jpg?s=beb3b164006e32ba4780c0271c6c3ee3 frameborder=0>
+    <img src=https://i.redditmedia.com/CnimhYGGp74PwTKFAOZkHbW5hWEF_u0n9h8iZbOmAL4.jpg?s=c70f1801aaa5e59f4c063b08c851b04e frameborder=0>
 - entry_name: |
     Today, I finished up my last round of chemo and said goodbye to cancer!!
   entry_id: 8pg131
   entry_content: |
     <img src=https://i.redditmedia.com/seQ1AVhqGyAitTOTZYeRChgPc6oqbtZEzUFPUhEImpE.jpg?s=e0699229fdcea0202b805d00ee56759c frameborder=0>
-- entry_name: |
-    President Obama and Anthony Bourdain enjoy dinner and a beer
-  entry_id: 8pjymv
-  entry_content: |
-    <img src=https://i.redditmedia.com/CnimhYGGp74PwTKFAOZkHbW5hWEF_u0n9h8iZbOmAL4.jpg?s=c70f1801aaa5e59f4c063b08c851b04e frameborder=0>
 - entry_name: |
     Cracking a cold one with your boy
   entry_id: 8pdsme
@@ -58,6 +53,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LwsGZml1s5xVtYC-oMOhKZVqbGzNNF_vyW-tVdjbeRM.jpg?s=eb648510e23978043c749e44c48114b2 frameborder=0>
 - entry_name: |
+    Suicide Prevention Megathread
+  entry_id: 8pks1u
+  entry_content: |
+    <img src=https://i.redditmedia.com/FUrRGhTwL1TMncbJp8LwPfcefMZSHALlHi_BLNqB_F4.jpg?s=52f1e09721c7f60f8fe334d63771bd34 frameborder=0>
+- entry_name: |
     This tiny figurine immortalized under 8 coats of paint on the side of a building
   entry_id: 8peksq
   entry_content: |
@@ -78,30 +78,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1yu6yizjho211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Suicide Prevention Megathread
-  entry_id: 8pks1u
-  entry_content: |
-    <img src=https://i.redditmedia.com/FUrRGhTwL1TMncbJp8LwPfcefMZSHALlHi_BLNqB_F4.jpg?s=52f1e09721c7f60f8fe334d63771bd34 frameborder=0>
-- entry_name: |
     This sign at the Mirror Lakes, NZ, is actually mirrored the right way up in the lake!
   entry_id: 8piflo
   entry_content: |
     <img src=https://i.redditmedia.com/hgPMVHwWW6NRWRS6jzCoNCpoZYtKMg-vNIVNMUE3Mhw.jpg?s=1bd430949bc05c81785c376e30fe6af8 frameborder=0>
 - entry_name: |
-    A 32 year old first time winner
-  entry_id: 8pi519
+    RIP Anthony Bourdain - My favorite video of his all time; Waffle House.
+  entry_id: 8pj3vb
   entry_content: |
-    <iframe src=https://v.redd.it/i4j8xns6iq211/DASH_4_8_M frameborder=0></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/bct8stbZafI?start=2&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Anthony Bourdain dead at 61, committed suicide
   entry_id: 8pj3ok
   entry_content: |
     <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
 - entry_name: |
-    RIP Anthony Bourdain - My favorite video of his all time; Waffle House.
-  entry_id: 8pj3vb
+    A 32 year old first time winner
+  entry_id: 8pi519
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/bct8stbZafI?start=2&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/i4j8xns6iq211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     cool ¯_(ツ)_/¯
   entry_id: 8pf7kw
@@ -123,20 +118,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DiE6vmAa34RDoY4wniLVcoPTVGp4w0BIiQbLct2eufY.jpg?s=ffc9b69a49ac72bde1ca6e1fe3bad22a frameborder=0>
 - entry_name: |
-    I’m Trynna 40-Love you girl
-  entry_id: 8pdsol
+    Game logic
+  entry_id: 8pjxg7
   entry_content: |
-    <img src=https://i.redditmedia.com/ui8ATNGazsaaAwA5_J8xAHinrhUawW_W-Ui2bLKQvec.jpg?s=df25bb99a6bb2c2d7cc63e2a68cb5dec frameborder=0>
+    <img src=https://i.redditmedia.com/p7sPzdRjXqYa9_WiIn82XGSjfnU3jLsVlau-w_pko40.jpg?s=017ffcd1887d910e5eeaa6fd0194aa14 frameborder=0>
 - entry_name: |
     TIL that after being prohibited from wearing shorts during the hot summer months, bus drivers in Sweden wore skirts to work, citing that since their women coworkers could wear skirts, it would be discriminatory to prohibit them from wearing skirts too.
   entry_id: 8phmwx
   entry_content: |
     <img src=https://i.redditmedia.com/MT55ac90MJoWvU6p5_Obvz0pQ0R10_5IuXdBRspv-JQ.jpg?s=77ee04e4b02cae6734bf623334be72ee frameborder=0>
 - entry_name: |
+    I’m Trynna 40-Love you girl
+  entry_id: 8pdsol
+  entry_content: |
+    <img src=https://i.redditmedia.com/ui8ATNGazsaaAwA5_J8xAHinrhUawW_W-Ui2bLKQvec.jpg?s=df25bb99a6bb2c2d7cc63e2a68cb5dec frameborder=0>
+- entry_name: |
     6 week old rescue calico kitten decides my dog is her Mom. The family resemblance is undeniable.
   entry_id: 8pf3ei
   entry_content: |
     <img src=https://i.redditmedia.com/aXLggEbK9_WjiqWmkyWNbK0PhkFlhgT0x6f_spGGyU4.jpg?s=99745bd6f97a9c46b07607fe42ed0f43 frameborder=0>
+- entry_name: |
+    Wives of the astronauts on the Apollo 8 mission reacting to the moment they first hear their husbands’ voices come through in orbit in 1968.
+  entry_id: 8pj35c
+  entry_content: |
+    <img src=https://i.redditmedia.com/W6HeKRebeMNdOvu96YippN2SJ-UdrSKpq6VaTl3nRNc.jpg?s=434117c916c4f84078c1b7371a4a1010 frameborder=0>
 - entry_name: |
     Southside Chicago, Easter 1941
   entry_id: 8pf9s8
@@ -148,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tLmfV8uisf5D2WPaYWQGdSoa3DqAUzhtKJK96tOIOFk.jpg?s=d4ffcae13d1269c809fb70d4accd2ac3 frameborder=0>
 - entry_name: |
-    Game logic
-  entry_id: 8pjxg7
-  entry_content: |
-    <img src=https://i.redditmedia.com/p7sPzdRjXqYa9_WiIn82XGSjfnU3jLsVlau-w_pko40.jpg?s=017ffcd1887d910e5eeaa6fd0194aa14 frameborder=0>
-- entry_name: |
   entry_id: 8peghi
   entry_content: |
     <img src=https://i.redditmedia.com/tiTLBu6l277KU3Sth1WhCCL-uUImlouDgpyM58mZD7E.jpg?s=b8ff402a6d4cb54fff8069caac487d01 frameborder=0>
@@ -162,25 +162,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LMBuPqQjnGumkEnD1BJO8m9MG9WmGEgpDeTzhLyr9Gs.jpg?s=b5f699a67e14900f34035b0782e1a120 frameborder=0>
 - entry_name: |
-    Wives of the astronauts on the Apollo 8 mission reacting to the moment they first hear their husbands’ voices come through in orbit in 1968.
-  entry_id: 8pj35c
-  entry_content: |
-    <img src=https://i.redditmedia.com/W6HeKRebeMNdOvu96YippN2SJ-UdrSKpq6VaTl3nRNc.jpg?s=434117c916c4f84078c1b7371a4a1010 frameborder=0>
-- entry_name: |
     The Washington Capitals have won the Stanley Cup, defeating the Vegas Golden Knights in 5 games.
   entry_id: 8pgi7a
   entry_content: |
     null
 - entry_name: |
-    My grandma in the late 60's giving the same look she gives us now when we annoy her.
-  entry_id: 8pe42m
-  entry_content: |
-    <img src=https://i.redditmedia.com/aCXi3SdQm-BM8LRwBL0sYc6m0qC0LKjH-_RKEuKdRUc.jpg?s=73ba038a15a1331b53bff63edda4f8b9 frameborder=0>
-- entry_name: |
     Kids not afraid to sync
   entry_id: 8phb6l
   entry_content: |
     <iframe src=https://v.redd.it/rwo08usqop211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    My grandma in the late 60's giving the same look she gives us now when we annoy her.
+  entry_id: 8pe42m
+  entry_content: |
+    <img src=https://i.redditmedia.com/aCXi3SdQm-BM8LRwBL0sYc6m0qC0LKjH-_RKEuKdRUc.jpg?s=73ba038a15a1331b53bff63edda4f8b9 frameborder=0>
 - entry_name: |
     BREAKING: Canada's Senate has just given final approval to legalizing marijuana for everyone 18+!
   entry_id: 8pfkpu
@@ -197,6 +192,26 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G9kCyj8tXZSsqQ83UY5C0r3UTPf-LlbUA7UmZrcl4MA.jpg?s=2a439b980b010b2c7ab90c6cbff934ab frameborder=0>
 - entry_name: |
+    TIL an 86-year-old wrote an upbeat review for her local paper about a new Olive Garden. She was mercilessly mocked by the Internet. Anthony Bourdain thought she had a valuable POV on small town dining. So he published a book of her reviews.
+  entry_id: 8plafa
+  entry_content: |
+    <img src=https://i.redditmedia.com/2gezpw-QJ23Pa-Xb3hCMSAEZKTOZb0McmyW6_Q4eLGs.jpg?s=f3030e4c408f95d4ee01b4f155ef91e5 frameborder=0>
+- entry_name: |
+    Somewhere in the universe the battle for the galaxy could be in full swing
+  entry_id: 8pjfau
+  entry_content: |
+    null
+- entry_name: |
+    Canada rejects Trump's bid to let Russia back into G7
+  entry_id: 8pkovj
+  entry_content: |
+    <img src=https://i.redditmedia.com/4VOapDTUQ_zax31-F5wwBUei1MNIsLby5zB6FdCcofk.jpg?s=8232d52758ca32df1fea36b7b599d75d frameborder=0>
+- entry_name: |
+    Muslim athlete's reaction to woman in bikini
+  entry_id: 8pky62
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFittingCookedDeinonychus&url=https%3A%2F%2Fgfycat.com%2FFittingCookedDeinonychus&image=https%3A%2F%2Fthumbs.gfycat.com%2FFittingCookedDeinonychus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     Al Pacino Joins Quentin Tarantino’s ‘Once Upon a Time in Hollywood’
   entry_id: 8peajq
   entry_content: |
@@ -207,20 +222,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ssfmns1dcm211/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    My foster kitten looks like a man who has truly seen some shit
-  entry_id: 8pdkbu
+    When you messing around in class then see the teacher standing behind you.
+  entry_id: 8pj3yl
   entry_content: |
-    <img src=https://i.redditmedia.com/HwJYv6OPkSH2b6JoRq7kInqpRCSE-02Iu2V7xSfEgYM.jpg?s=56488b64bedb6a320777c99dee13ba2d frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FThornyDizzyAegeancat&url=https%3A%2F%2Fgfycat.com%2FThornyDizzyAegeancat&image=https%3A%2F%2Fthumbs.gfycat.com%2FThornyDizzyAegeancat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     I was tasked to reserve seats for 10 with kids to watch Jurassic Park
   entry_id: 8pf7gv
   entry_content: |
     <img src=https://i.redditmedia.com/X2s6iz_4wlaoHMkPC-rPuKDevyuaS5cW9Fxp-6GloS4.png?s=573bbcc61274fed1fe679359f9074987 frameborder=0>
 - entry_name: |
-    When you messing around in class then see the teacher standing behind you.
-  entry_id: 8pj3yl
+    CNN's Anthony Bourdain dead at 61
+  entry_id: 8pj759
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FThornyDizzyAegeancat&url=https%3A%2F%2Fgfycat.com%2FThornyDizzyAegeancat&image=https%3A%2F%2Fthumbs.gfycat.com%2FThornyDizzyAegeancat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
 - entry_name: |
     Play that funky music white boy 🎶
   entry_id: 8pec61
@@ -232,23 +247,8 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/hLOw_SzkRQ8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    The Senate has passed the Cannabis Legalization Bill (Bill C-45)
-  entry_id: 8pfr7f
-  entry_content: |
-    null
-- entry_name: |
     One Wish Genie
   entry_id: 8pduef
   entry_content: |
     <iframe src=https://v.redd.it/l1rixida5n211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    CNN's Anthony Bourdain dead at 61
-  entry_id: 8pj759
-  entry_content: |
-    <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
-- entry_name: |
-    President Trump Is What Happens After Republicans Spend Decades Rebranding Knowledge as Elitism and Ignorance as Bliss
-  entry_id: 8pihf3
-  entry_content: |
-    <img src=https://i.redditmedia.com/_A11MozIGaQ34w4InQhOYEmS8G5o_GRXTXQ2sCzrC08.jpg?s=1659514703ed675b6d061c394645e1f9 frameborder=0>
 ---
