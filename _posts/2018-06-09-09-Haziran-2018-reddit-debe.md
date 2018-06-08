@@ -68,11 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/qcax8vsjcm211/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    My wife reminds me that I “hated cats”....yes he’s grown on me and rides around on me like an evil parrot. He is a wicked genius but he’s so cute it’s disgusting.
-  entry_id: 8pcd57
-  entry_content: |
-    <img src=https://i.redditmedia.com/hxKKrX8BZj8fWvYLkk9qZotpqPZxXa5igj-iRvaCjQw.jpg?s=1cb7d81d94b4b2074d5462f99c75022e frameborder=0>
-- entry_name: |
     When in Rome
   entry_id: 8pdowr
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_id: 8pj3ok
   entry_content: |
     <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
-- entry_name: |
-    Suicide rates are up 30 percent since 1999, CDC says
-  entry_id: 8pcbuf
-  entry_content: |
-    <img src=https://i.redditmedia.com/AQ3oJqdN-Ppx3qxnoEUOwBNdTEDA1o6zr8ZyXgCIlkM.jpg?s=52736abd65d8913cdd0e6633cc4f8dbe frameborder=0>
 - entry_name: |
     I’m Trynna 40-Love you girl
   entry_id: 8pdsol
@@ -251,4 +241,14 @@ data:
   entry_id: 8peajq
   entry_content: |
     <img src=https://i.redditmedia.com/55nC2xwrx7dUJXrjEWclE7lkK87d1mU14sAUAPSr6MM.jpg?s=f8db57a29da512d56b2907a3a979ed2f frameborder=0>
+- entry_name: |
+    Not fat just fluffy
+  entry_id: 8pdu39
+  entry_content: |
+    <iframe src=https://v.redd.it/ssfmns1dcm211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My foster kitten looks like a man who has truly seen some shit
+  entry_id: 8pdkbu
+  entry_content: |
+    <img src=https://i.redditmedia.com/HwJYv6OPkSH2b6JoRq7kInqpRCSE-02Iu2V7xSfEgYM.jpg?s=56488b64bedb6a320777c99dee13ba2d frameborder=0>
 ---
