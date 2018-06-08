@@ -167,16 +167,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/W6HeKRebeMNdOvu96YippN2SJ-UdrSKpq6VaTl3nRNc.jpg?s=434117c916c4f84078c1b7371a4a1010 frameborder=0>
 - entry_name: |
-    Texan level = 1836
-  entry_id: 8pddzw
-  entry_content: |
-    <img src=https://i.redditmedia.com/ucD-zk9QUvpeiKb27_TxAocPdcSMty16ag-3PZzMtVk.jpg?s=8cdaab8854446bf88315bb34b9112001 frameborder=0>
-- entry_name: |
-    What is that demon on your hand?
-  entry_id: 8phxip
-  entry_content: |
-    <iframe src=https://v.redd.it/pndvzsf2aq211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The Washington Capitals have won the Stanley Cup, defeating the Vegas Golden Knights in 5 games.
   entry_id: 8pgi7a
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8pduef
   entry_content: |
     <iframe src=https://v.redd.it/l1rixida5n211/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    CNN's Anthony Bourdain dead at 61
+  entry_id: 8pj759
+  entry_content: |
+    <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
+- entry_name: |
+    President Trump Is What Happens After Republicans Spend Decades Rebranding Knowledge as Elitism and Ignorance as Bliss
+  entry_id: 8pihf3
+  entry_content: |
+    <img src=https://i.redditmedia.com/_A11MozIGaQ34w4InQhOYEmS8G5o_GRXTXQ2sCzrC08.jpg?s=1659514703ed675b6d061c394645e1f9 frameborder=0>
 ---
