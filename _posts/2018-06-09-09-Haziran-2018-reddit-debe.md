@@ -48,25 +48,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/t7rNs8Dh5T80tuhNNbvJF69mbyhoyG7CIqQT8s67QWk.jpg?s=253d83c0f6fa310ee83c39390e29ca4c frameborder=0>
 - entry_name: |
+    CNN's Anthony Bourdain dead at 61
+  entry_id: 8pj2rc
+  entry_content: |
+    null
+- entry_name: |
     Jamal...
   entry_id: 8pcprs
   entry_content: |
     <img src=https://i.redditmedia.com/W2hOJKr55w4byoH3ZtWZqyEndbZcZ6rZyTuFYcZHHxQ.jpg?s=6fa4bde3c0253ef20a761344737bf157 frameborder=0>
-- entry_name: |
-    Popping a balloon that is inside another balloon
-  entry_id: 8pczox
-  entry_content: |
-    <iframe src=https://v.redd.it/qcax8vsjcm211/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This tiny figurine immortalized under 8 coats of paint on the side of a building
   entry_id: 8peksq
   entry_content: |
     <img src=https://i.redditmedia.com/lR-vJ0KmLCgI67b8moQD51GYyhePHkEeRDfTlgCGgmc.jpg?s=1061a3d877ef9554ff246c6caf81e2d3 frameborder=0>
 - entry_name: |
-    CNN's Anthony Bourdain dead at 61
-  entry_id: 8pj2rc
+    Popping a balloon that is inside another balloon
+  entry_id: 8pczox
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/qcax8vsjcm211/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     My wife reminds me that I “hated cats”....yes he’s grown on me and rides around on me like an evil parrot. He is a wicked genius but he’s so cute it’s disgusting.
   entry_id: 8pcd57
@@ -78,15 +78,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QqJv_iUXG3cD6QU2Vz9GSLmm_onrfw-rjAazM8UNz_4.jpg?s=42bd1903dc4250794eaed222d5eb7b6f frameborder=0>
 - entry_name: |
-    Lawmaker 'Disturbed' That FCC Made up DDOS, Lied to Press
-  entry_id: 8pc1o0
-  entry_content: |
-    <img src=https://i.redditmedia.com/274e9YB4OSEhDcAIh2jqUW5WaLcpml28EMXsS0iwnoI.jpg?s=aadefd687a1056afec437ea38c4a26b5 frameborder=0>
-- entry_name: |
     Happy splashin'
   entry_id: 8pfrzu
   entry_content: |
     <iframe src=https://v.redd.it/1yu6yizjho211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    When you said slay instead of stay
+  entry_id: 8pj0au
+  entry_content: |
+    <img src=https://i.redditmedia.com/LwsGZml1s5xVtYC-oMOhKZVqbGzNNF_vyW-tVdjbeRM.jpg?s=eb648510e23978043c749e44c48114b2 frameborder=0>
+- entry_name: |
+    Macron turns on Trump after he attacks EU and Canada: Maybe the American president doesn’t care about being isolated today, but we don’t mind being six, if needs be. Because these six represent values, an economic market, and more than anything, a real force at the international level today.
+  entry_id: 8pj0qz
+  entry_content: |
+    <img src=https://i.redditmedia.com/vx0UJ8s9tbf0wZE1_v1VSVaUJvA47pfXE-ci_jfjEeM.jpg?s=67e33130c0dd9644bdb6447dd9f6cb05 frameborder=0>
+- entry_name: |
+    President Obama and Anthony Bourdain enjoy dinner and a beer
+  entry_id: 8pjymv
+  entry_content: |
+    <img src=https://i.redditmedia.com/CnimhYGGp74PwTKFAOZkHbW5hWEF_u0n9h8iZbOmAL4.jpg?s=c70f1801aaa5e59f4c063b08c851b04e frameborder=0>
 - entry_name: |
     New York vs Boston
   entry_id: 8pch5x
@@ -97,11 +107,6 @@ data:
   entry_id: 8pf7kw
   entry_content: |
     <img src=https://i.redditmedia.com/lF5NuIRoSy8sNr53pan5GMQz16nS4akgEWu2ZodR-Ec.png?s=c3ac4632b57f475d07bb307da2844904 frameborder=0>
-- entry_name: |
-    Macron turns on Trump after he attacks EU and Canada: Maybe the American president doesn’t care about being isolated today, but we don’t mind being six, if needs be. Because these six represent values, an economic market, and more than anything, a real force at the international level today.
-  entry_id: 8pj0qz
-  entry_content: |
-    <img src=https://i.redditmedia.com/vx0UJ8s9tbf0wZE1_v1VSVaUJvA47pfXE-ci_jfjEeM.jpg?s=67e33130c0dd9644bdb6447dd9f6cb05 frameborder=0>
 - entry_name: |
     NASA Finds Ancient Organic Material, Mysterious Methane on Mars
   entry_id: 8pciwz
@@ -123,25 +128,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/F7kBLDfmkxhi_DZhlOUVbMkuj05w_xjCQzPbiiuY8vQ.png?s=7b0551e365b9cf70a0654f9c32c89b48 frameborder=0>
 - entry_name: |
+    A 32 year old first time winner
+  entry_id: 8pi519
+  entry_content: |
+    <iframe src=https://v.redd.it/i4j8xns6iq211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     The way Netflix portrays Shrek makes it look like it’s an animated porno...
   entry_id: 8pdoy6
   entry_content: |
     <img src=https://i.redditmedia.com/DiE6vmAa34RDoY4wniLVcoPTVGp4w0BIiQbLct2eufY.jpg?s=ffc9b69a49ac72bde1ca6e1fe3bad22a frameborder=0>
+- entry_name: |
+    This sign at the Mirror Lakes, NZ, is actually mirrored the right way up in the lake!
+  entry_id: 8piflo
+  entry_content: |
+    <img src=https://i.redditmedia.com/hgPMVHwWW6NRWRS6jzCoNCpoZYtKMg-vNIVNMUE3Mhw.jpg?s=1bd430949bc05c81785c376e30fe6af8 frameborder=0>
 - entry_name: |
     This guy
   entry_id: 8pftdz
   entry_content: |
     <img src=https://i.redditmedia.com/nEEQdeaRirwyWNaTdzCeG1wxyWlSQaIPEBeAG1PlN-k.jpg?s=fb43574a47bea59829ab9bd781cf25dc frameborder=0>
 - entry_name: |
+    Anthony Bourdain dead at 61, committed suicide
+  entry_id: 8pj3ok
+  entry_content: |
+    <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
+- entry_name: |
     Suicide rates are up 30 percent since 1999, CDC says
   entry_id: 8pcbuf
   entry_content: |
     <img src=https://i.redditmedia.com/AQ3oJqdN-Ppx3qxnoEUOwBNdTEDA1o6zr8ZyXgCIlkM.jpg?s=52736abd65d8913cdd0e6633cc4f8dbe frameborder=0>
-- entry_name: |
-    When you said slay instead of stay
-  entry_id: 8pj0au
-  entry_content: |
-    <img src=https://i.redditmedia.com/LwsGZml1s5xVtYC-oMOhKZVqbGzNNF_vyW-tVdjbeRM.jpg?s=eb648510e23978043c749e44c48114b2 frameborder=0>
 - entry_name: |
     I’m Trynna 40-Love you girl
   entry_id: 8pdsol
@@ -153,39 +168,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aXLggEbK9_WjiqWmkyWNbK0PhkFlhgT0x6f_spGGyU4.jpg?s=99745bd6f97a9c46b07607fe42ed0f43 frameborder=0>
 - entry_name: |
-    A 32 year old first time winner
-  entry_id: 8pi519
+    RIP Anthony Bourdain - My favorite video of his all time; Waffle House.
+  entry_id: 8pj3vb
   entry_content: |
-    <iframe src=https://v.redd.it/i4j8xns6iq211/DASH_4_8_M frameborder=0></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/bct8stbZafI?start=2&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    TIL that after being prohibited from wearing shorts during the hot summer months, bus drivers in Sweden wore skirts to work, citing that since their women coworkers could wear skirts, it would be discriminatory to prohibit them from wearing skirts too.
+  entry_id: 8phmwx
+  entry_content: |
+    <img src=https://i.redditmedia.com/MT55ac90MJoWvU6p5_Obvz0pQ0R10_5IuXdBRspv-JQ.jpg?s=77ee04e4b02cae6734bf623334be72ee frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 8pcv5p
   entry_content: |
     <img src=https://i.redditmedia.com/wNS5raDN15Xu1IZM3A8Glw6dvZLdBv9X0eTMZPLGOos.jpg?s=3013988a9d81a49dca7abba03b73b78f frameborder=0>
 - entry_name: |
-    Anthony Bourdain dead at 61, committed suicide
-  entry_id: 8pj3ok
-  entry_content: |
-    <img src=https://i.redditmedia.com/PMMHJ_EKt2uiMhamhzhdt4ymFuaDYbta1ZEuoX2tl7o.jpg?s=9564cbe6b822f80e4997251b9131d0f9 frameborder=0>
-- entry_name: |
     Southside Chicago, Easter 1941
   entry_id: 8pf9s8
   entry_content: |
     <img src=https://i.redditmedia.com/_HdGAb-8_2pvUtN6ZcEuLnp7Euxmre8lD9wVEQ0gUKU.jpg?s=d6fccb27d52dd7971d19665e69682fb0 frameborder=0>
 - entry_name: |
-    This sign at the Mirror Lakes, NZ, is actually mirrored the right way up in the lake!
-  entry_id: 8piflo
-  entry_content: |
-    <img src=https://i.redditmedia.com/hgPMVHwWW6NRWRS6jzCoNCpoZYtKMg-vNIVNMUE3Mhw.jpg?s=1bd430949bc05c81785c376e30fe6af8 frameborder=0>
-- entry_name: |
   entry_id: 8peghi
   entry_content: |
     <img src=https://i.redditmedia.com/tiTLBu6l277KU3Sth1WhCCL-uUImlouDgpyM58mZD7E.jpg?s=b8ff402a6d4cb54fff8069caac487d01 frameborder=0>
-- entry_name: |
-    TIL that after being prohibited from wearing shorts during the hot summer months, bus drivers in Sweden wore skirts to work, citing that since their women coworkers could wear skirts, it would be discriminatory to prohibit them from wearing skirts too.
-  entry_id: 8phmwx
-  entry_content: |
-    <img src=https://i.redditmedia.com/MT55ac90MJoWvU6p5_Obvz0pQ0R10_5IuXdBRspv-JQ.jpg?s=77ee04e4b02cae6734bf623334be72ee frameborder=0>
 - entry_name: |
     My favorite scene
   entry_id: 8pg0kz
@@ -207,10 +212,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aCXi3SdQm-BM8LRwBL0sYc6m0qC0LKjH-_RKEuKdRUc.jpg?s=73ba038a15a1331b53bff63edda4f8b9 frameborder=0>
 - entry_name: |
-    RIP Anthony Bourdain - My favorite video of his all time; Waffle House.
-  entry_id: 8pj3vb
+    It's official
+  entry_id: 8phvsx
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/bct8stbZafI?start=2&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/tLmfV8uisf5D2WPaYWQGdSoa3DqAUzhtKJK96tOIOFk.jpg?s=d4ffcae13d1269c809fb70d4accd2ac3 frameborder=0>
+- entry_name: |
+    What is that demon on your hand?
+  entry_id: 8phxip
+  entry_content: |
+    <iframe src=https://v.redd.it/pndvzsf2aq211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     BREAKING: Canada's Senate has just given final approval to legalizing marijuana for everyone 18+!
   entry_id: 8pfkpu
@@ -222,33 +232,23 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/h1pghi8bpm211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    What is that demon on your hand?
-  entry_id: 8phxip
-  entry_content: |
-    <iframe src=https://v.redd.it/pndvzsf2aq211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    The clinger gods will be pleased
-  entry_id: 8pd7c4
-  entry_content: |
-    <iframe src=https://v.redd.it/2fl694axqm211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Kids not afraid to sync
   entry_id: 8phb6l
   entry_content: |
     <iframe src=https://v.redd.it/rwo08usqop211/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Al Pacino Joins Quentin Tarantino’s ‘Once Upon a Time in Hollywood’
-  entry_id: 8peajq
-  entry_content: |
-    <img src=https://i.redditmedia.com/55nC2xwrx7dUJXrjEWclE7lkK87d1mU14sAUAPSr6MM.jpg?s=f8db57a29da512d56b2907a3a979ed2f frameborder=0>
 - entry_name: |
     Alex Ovechkin lifts the Stanley Cup for the first time in his career!
   entry_id: 8pgmhd
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fknit8&url=https%3A%2F%2Fstreamable.com%2Fknit8&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fknit8.jpg%3Ftoken%3DlNLS0S7gAqk7M01E-uT20A%26expires%3D1528435393&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Not fat just fluffy
-  entry_id: 8pdu39
+    The clinger gods will be pleased
+  entry_id: 8pd7c4
   entry_content: |
-    <iframe src=https://v.redd.it/ssfmns1dcm211/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/2fl694axqm211/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Al Pacino Joins Quentin Tarantino’s ‘Once Upon a Time in Hollywood’
+  entry_id: 8peajq
+  entry_content: |
+    <img src=https://i.redditmedia.com/55nC2xwrx7dUJXrjEWclE7lkK87d1mU14sAUAPSr6MM.jpg?s=f8db57a29da512d56b2907a3a979ed2f frameborder=0>
 ---
