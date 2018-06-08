@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/seQ1AVhqGyAitTOTZYeRChgPc6oqbtZEzUFPUhEImpE.jpg?s=e0699229fdcea0202b805d00ee56759c frameborder=0>
 - entry_name: |
-    Cracking a cold one with your boy
-  entry_id: 8pdsme
-  entry_content: |
-    <iframe src=https://v.redd.it/0799wqb64n211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Found a baby hawk at work today.
   entry_id: 8pe5vd
   entry_content: |
@@ -68,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vx0UJ8s9tbf0wZE1_v1VSVaUJvA47pfXE-ci_jfjEeM.jpg?s=67e33130c0dd9644bdb6447dd9f6cb05 frameborder=0>
 - entry_name: |
-    When in Rome
-  entry_id: 8pdowr
-  entry_content: |
-    <img src=https://i.redditmedia.com/QqJv_iUXG3cD6QU2Vz9GSLmm_onrfw-rjAazM8UNz_4.jpg?s=42bd1903dc4250794eaed222d5eb7b6f frameborder=0>
-- entry_name: |
     Happy splashin'
   entry_id: 8pfrzu
   entry_content: |
@@ -113,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nEEQdeaRirwyWNaTdzCeG1wxyWlSQaIPEBeAG1PlN-k.jpg?s=fb43574a47bea59829ab9bd781cf25dc frameborder=0>
 - entry_name: |
-    The way Netflix portrays Shrek makes it look like it’s an animated porno...
-  entry_id: 8pdoy6
-  entry_content: |
-    <img src=https://i.redditmedia.com/DiE6vmAa34RDoY4wniLVcoPTVGp4w0BIiQbLct2eufY.jpg?s=ffc9b69a49ac72bde1ca6e1fe3bad22a frameborder=0>
-- entry_name: |
     Game logic
   entry_id: 8pjxg7
   entry_content: |
@@ -127,11 +112,6 @@ data:
   entry_id: 8phmwx
   entry_content: |
     <img src=https://i.redditmedia.com/MT55ac90MJoWvU6p5_Obvz0pQ0R10_5IuXdBRspv-JQ.jpg?s=77ee04e4b02cae6734bf623334be72ee frameborder=0>
-- entry_name: |
-    I’m Trynna 40-Love you girl
-  entry_id: 8pdsol
-  entry_content: |
-    <img src=https://i.redditmedia.com/ui8ATNGazsaaAwA5_J8xAHinrhUawW_W-Ui2bLKQvec.jpg?s=df25bb99a6bb2c2d7cc63e2a68cb5dec frameborder=0>
 - entry_name: |
     6 week old rescue calico kitten decides my dog is her Mom. The family resemblance is undeniable.
   entry_id: 8pf3ei
@@ -217,11 +197,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/55nC2xwrx7dUJXrjEWclE7lkK87d1mU14sAUAPSr6MM.jpg?s=f8db57a29da512d56b2907a3a979ed2f frameborder=0>
 - entry_name: |
-    Not fat just fluffy
-  entry_id: 8pdu39
-  entry_content: |
-    <iframe src=https://v.redd.it/ssfmns1dcm211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     When you messing around in class then see the teacher standing behind you.
   entry_id: 8pj3yl
   entry_content: |
@@ -247,8 +222,31 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/hLOw_SzkRQ8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    One Wish Genie
-  entry_id: 8pduef
+    The Senate has passed the Cannabis Legalization Bill (Bill C-45)
+  entry_id: 8pfr7f
   entry_content: |
-    <iframe src=https://v.redd.it/l1rixida5n211/DASH_1_2_M frameborder=0></iframe>
+    null
+- entry_name: |
+    A former FCC senior official who issued false statements to reporters, claiming a cyberattack hobbled the agency’s comment system in 2014 and that the ex-chairman ordered it kept quiet, is now backpedaling amid renewed scrutiny by U.S. lawmakers and a wholesale denial by the former chairman himself.
+  entry_id: 8pj485
+  entry_content: |
+    <img src=https://i.redditmedia.com/AKwBGDIejbzNtnxI-tES3J34HYgfBVGwg7ho6KeZF94.jpg?s=a8b51a51a67729fe25768bcea0f2b8cb frameborder=0>
+- entry_name: |
+  entry_id: 8pivhz
+  entry_content: |
+    <img src=https://i.redditmedia.com/StDhIq7giOAhmv_W05-6y_IW8zgOleRBbOkzcDb6ZQU.jpg?s=4f660bb978d3a3e77c04b0b4c3ce4744 frameborder=0>
+- entry_name: |
+    Trump calls for Russia, ousted from group of leading industrial nations after annexing Crimea, to be reinstated
+  entry_id: 8pji2m
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
+- entry_name: |
+  entry_id: 8pkdns
+  entry_content: |
+    <img src=https://i.redditmedia.com/LqQtvvkS2lB1aMA5OtoSRVWxBxZP8k2qIcn8iLcEQDA.png?s=ea3b50c087f18db5e787d9be931b65c2 frameborder=0>
+- entry_name: |
+    President Trump Is What Happens After Republicans Spend Decades Rebranding Knowledge as Elitism and Ignorance as Bliss
+  entry_id: 8pihf3
+  entry_content: |
+    <img src=https://i.redditmedia.com/_A11MozIGaQ34w4InQhOYEmS8G5o_GRXTXQ2sCzrC08.jpg?s=1659514703ed675b6d061c394645e1f9 frameborder=0>
 ---
