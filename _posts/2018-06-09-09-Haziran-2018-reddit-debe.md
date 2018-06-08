@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/seQ1AVhqGyAitTOTZYeRChgPc6oqbtZEzUFPUhEImpE.jpg?s=e0699229fdcea0202b805d00ee56759c frameborder=0>
 - entry_name: |
-    The importance of a fire door and the appropriate hardware.
-  entry_id: 8pcf34
-  entry_content: |
-    <img src=https://i.redditmedia.com/Jn9IKV9OSLS4XNTeq1Re85fni75EakI1NsGMYi4sSs0.jpg?s=98a79395d47d257b35dac9fb6acde770 frameborder=0>
-- entry_name: |
     Cracking a cold one with your boy
   entry_id: 8pdsme
   entry_content: |
@@ -93,20 +88,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CnimhYGGp74PwTKFAOZkHbW5hWEF_u0n9h8iZbOmAL4.jpg?s=c70f1801aaa5e59f4c063b08c851b04e frameborder=0>
 - entry_name: |
-    New York vs Boston
-  entry_id: 8pch5x
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pb-0WSbrN076NoPHE4xMHJv54jQ603pWkegla0fTaJA.jpg?s=0b9c7b392972040ea8cf28f6c0461e63 frameborder=0>
-- entry_name: |
     cool ¯_(ツ)_/¯
   entry_id: 8pf7kw
   entry_content: |
     <img src=https://i.redditmedia.com/lF5NuIRoSy8sNr53pan5GMQz16nS4akgEWu2ZodR-Ec.png?s=c3ac4632b57f475d07bb307da2844904 frameborder=0>
-- entry_name: |
-    NASA Finds Ancient Organic Material, Mysterious Methane on Mars
-  entry_id: 8pciwz
-  entry_content: |
-    <img src=https://i.redditmedia.com/2xO9Xvxb3lL_6FpwGQhdbZ97dTL8lhtaMKtXvkmoJgQ.jpg?s=3aca237ec80b49d0713d51250fa615ce frameborder=0>
 - entry_name: |
     This guy wanted to make waiting for a train a little less boring. He built the Cyclo Knitter, a man-powered machine that creates scarfs in 5 minutes to spread some joy.
   entry_id: 8pfeak
@@ -251,4 +236,19 @@ data:
   entry_id: 8pdkbu
   entry_content: |
     <img src=https://i.redditmedia.com/HwJYv6OPkSH2b6JoRq7kInqpRCSE-02Iu2V7xSfEgYM.jpg?s=56488b64bedb6a320777c99dee13ba2d frameborder=0>
+- entry_name: |
+    Why can’t Lebron James stand on his tippy toes?
+  entry_id: 8pcli4
+  entry_content: |
+    null
+- entry_name: |
+    I was tasked to reserve seats for 10 with kids to watch Jurassic Park
+  entry_id: 8pf7gv
+  entry_content: |
+    <img src=https://i.redditmedia.com/X2s6iz_4wlaoHMkPC-rPuKDevyuaS5cW9Fxp-6GloS4.png?s=573bbcc61274fed1fe679359f9074987 frameborder=0>
+- entry_name: |
+    Thank you Amazon for this $500 rock
+  entry_id: 8pcoz2
+  entry_content: |
+    <img src=https://i.redditmedia.com/0fiDK8FIgI84Frg_VfpRGPGaGXcMxV_1zu5HBQ9Kofg.jpg?s=3a4d169741ba9d566ccf2318c1289388 frameborder=0>
 ---
