@@ -113,11 +113,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t5xh0x9v9n211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    When you're done with the exam about Roman religion, but remember you wrote the God of the sea is Poseidon
-  entry_id: 8pd7s6
-  entry_content: |
-    <img src=https://i.redditmedia.com/F7kBLDfmkxhi_DZhlOUVbMkuj05w_xjCQzPbiiuY8vQ.png?s=7b0551e365b9cf70a0654f9c32c89b48 frameborder=0>
-- entry_name: |
     This guy
   entry_id: 8pftdz
   entry_content: |
@@ -207,11 +202,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstreamable.com%2Fo%2Fknit8&url=https%3A%2F%2Fstreamable.com%2Fknit8&image=https%3A%2F%2Fcdn-b-east.streamable.com%2Fimage%2Fknit8.jpg%3Ftoken%3DlNLS0S7gAqk7M01E-uT20A%26expires%3D1528435393&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=streamable width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    The clinger gods will be pleased
-  entry_id: 8pd7c4
-  entry_content: |
-    <iframe src=https://v.redd.it/2fl694axqm211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     TIL when Elvis was referred to by his nickname the king after a concert, he pointed to Fats Domino and said no, that's the real king of rock and roll.
   entry_id: 8pkdit
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8pfbfh
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/hLOw_SzkRQ8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    The Senate has passed the Cannabis Legalization Bill (Bill C-45)
+  entry_id: 8pfr7f
+  entry_content: |
+    null
+- entry_name: |
+    One Wish Genie
+  entry_id: 8pduef
+  entry_content: |
+    <iframe src=https://v.redd.it/l1rixida5n211/DASH_1_2_M frameborder=0></iframe>
 ---
