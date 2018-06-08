@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LwsGZml1s5xVtYC-oMOhKZVqbGzNNF_vyW-tVdjbeRM.jpg?s=eb648510e23978043c749e44c48114b2 frameborder=0>
 - entry_name: |
-    Popping a balloon that is inside another balloon
-  entry_id: 8pczox
-  entry_content: |
-    <iframe src=https://v.redd.it/qcax8vsjcm211/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     When in Rome
   entry_id: 8pdowr
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8pfbfh
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/hLOw_SzkRQ8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    The Senate has passed the Cannabis Legalization Bill (Bill C-45)
+  entry_id: 8pfr7f
+  entry_content: |
+    null
 ---
