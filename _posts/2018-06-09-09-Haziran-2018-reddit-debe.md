@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CnimhYGGp74PwTKFAOZkHbW5hWEF_u0n9h8iZbOmAL4.jpg?s=c70f1801aaa5e59f4c063b08c851b04e frameborder=0>
 - entry_name: |
-    Jamal...
-  entry_id: 8pcprs
-  entry_content: |
-    <img src=https://i.redditmedia.com/W2hOJKr55w4byoH3ZtWZqyEndbZcZ6rZyTuFYcZHHxQ.jpg?s=6fa4bde3c0253ef20a761344737bf157 frameborder=0>
-- entry_name: |
     This tiny figurine immortalized under 8 coats of paint on the side of a building
   entry_id: 8peksq
   entry_content: |
@@ -147,11 +142,6 @@ data:
   entry_id: 8pf3ei
   entry_content: |
     <img src=https://i.redditmedia.com/aXLggEbK9_WjiqWmkyWNbK0PhkFlhgT0x6f_spGGyU4.jpg?s=99745bd6f97a9c46b07607fe42ed0f43 frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8pcv5p
-  entry_content: |
-    <img src=https://i.redditmedia.com/wNS5raDN15Xu1IZM3A8Glw6dvZLdBv9X0eTMZPLGOos.jpg?s=3013988a9d81a49dca7abba03b73b78f frameborder=0>
 - entry_name: |
     Southside Chicago, Easter 1941
   entry_id: 8pf9s8
@@ -251,4 +241,14 @@ data:
   entry_id: 8pf7gv
   entry_content: |
     <img src=https://i.redditmedia.com/X2s6iz_4wlaoHMkPC-rPuKDevyuaS5cW9Fxp-6GloS4.png?s=573bbcc61274fed1fe679359f9074987 frameborder=0>
+- entry_name: |
+    Play that funky music white boy 🎶
+  entry_id: 8pec61
+  entry_content: |
+    <iframe src=https://v.redd.it/rtu7rsd9gn211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Chappelle's Show - The Niggar Family - Uncensored
+  entry_id: 8pfbfh
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/hLOw_SzkRQ8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
