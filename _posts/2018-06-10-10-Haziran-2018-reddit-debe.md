@@ -201,11 +201,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Vt3FX9T0L2hDJ9ZEPaoFPn-LieA4w1Zr7tPomhGHwc8.jpg?s=2eaabe63d9cf046b5340df6b04c39dba frameborder=0>
 - entry_name: |
-    Father clutching a baby runs onto stage to hold his ballet dancing daughter's hand after she suffers stage fright... and becomes the star of the show
-  entry_id: 8plvjk
-  entry_content: |
-    <iframe src=https://v.redd.it/hhfp14bfct211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     When it’s leg day & you can’t go to the gym
   entry_id: 8pm4hz
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pobye
   entry_content: |
     <img src=https://i.redditmedia.com/j8vTmZ_cwdkqGKTGDsPQwEnhPjUDPjiIwWyAM9qujHs.jpg?s=d6d0819e615e3b21784d69142256c73a frameborder=0>
+- entry_name: |
+    Expectations vs Reality
+  entry_id: 8pp59v
+  entry_content: |
+    <iframe src=https://v.redd.it/s87lx9jdhv211/DASH_2_4_M frameborder=0></iframe>
 ---
