@@ -52,11 +52,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DF71y5czXhrSLF2Ds0N0-6JMEnw46Pd8NdaTwVjRRQ4.jpg?s=75ba52dfbc99617bd073399c25e35534 frameborder=0>
 - entry_name: |
-    Topographical Sand
-  entry_id: 8pmjug
-  entry_content: |
-    <iframe src=https://v.redd.it/qr171q21rt211/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     15,000 illegal adoptions in Ireland, mothers told babies had died
   entry_id: 8ppl72
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pn6f9
   entry_content: |
     <img src=https://i.redditmedia.com/AeBuDTX2uPMrGJ7wrKDsilXw8QVwkz09dHNV13lw4r0.png?s=32d32dbb5790e35852354ec776c15671 frameborder=0>
+- entry_name: |
+    TIL that the porn filter for the UK's Parliament had inadvertently blocked emails from Welsh constituents because it couldn't recognise the language
+  entry_id: 8ponq0
+  entry_content: |
+    <img src=https://i.redditmedia.com/xcy1xwOQf598_YbmeFWxcHGUVuQVO7eQzkbBjwZfb3s.jpg?s=08790a1885edadbbab1153e801b8cdbf frameborder=0>
 ---
