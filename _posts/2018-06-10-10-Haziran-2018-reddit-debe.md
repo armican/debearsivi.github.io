@@ -13,11 +13,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3wlv3yipjt211/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    This car looks like it has a hdmi input
-  entry_id: 8pm3ix
-  entry_content: |
-    <img src=https://i.redditmedia.com/ajZWm_BD7XmV99nAVRyCNEjb_zMxZDzipBc3weWpk0w.jpg?s=8c66ed6724c6cb37482bf3af069ca24d frameborder=0>
-- entry_name: |
     Handing out snax
   entry_id: 8pozhe
   entry_content: |
@@ -76,11 +71,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jVqKXx4F7yj4woBalev52jNuW_lCDLQ-c7AOyk-wPcU.jpg?s=8c92f24f60a49d03de4d912ff3194422 frameborder=0>
 - entry_name: |
-    A kid’s reaction to being taught how to spin a basketball on his finger by a Globetrotter.
-  entry_id: 8pm4ff
-  entry_content: |
-    <iframe src=https://v.redd.it/n3ob9b6mht211/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Trump's hand after being properly gripped by President Macron
   entry_id: 8psbuk
   entry_content: |
@@ -90,11 +80,6 @@ data:
   entry_id: 8ppswj
   entry_content: |
     <img src=https://i.redditmedia.com/JlW08oRDRG6kQZJMihJM-Wihb_AStS16HK063nq0sKk.jpg?s=90d3f19377aa7f0d8009961cfd9db802 frameborder=0>
-- entry_name: |
-    Dad clutching a baby runs onto stage to hold his ballet dancing daughter's hand after she suffers stage fright... and becomes the star of the show
-  entry_id: 8plzt5
-  entry_content: |
-    <iframe src=https://v.redd.it/atf6soo5ct211/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Dad said to leave him alone while he worked, I decided to check on him
   entry_id: 8psiz3
@@ -130,11 +115,6 @@ data:
   entry_id: 8ppcg3
   entry_content: |
     <img src=https://i.redditmedia.com/1CMn6apXBWSQDnF5BB-SjXSQZJt4cCt7HR1FEXpZCME.jpg?s=c36a5b37588856100cdb0c9d75b55a20 frameborder=0>
-- entry_name: |
-    Trump says he may pardon Muhammad Ali, who does not need a pardon
-  entry_id: 8pm20x
-  entry_content: |
-    <img src=https://i.redditmedia.com/-4vULXeiCRjv29cP451O6qToTP9JAadVH0isVZ6ylSw.jpg?s=8dc80c2ede021448b3c9a221b4c77d20 frameborder=0>
 - entry_name: |
     Shoutout to the 13-year-old on a skateboard who called me a “candy corn bitch”
   entry_id: 8pt2oc
@@ -191,20 +171,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pcBxEKC9iiw9Q9Tyx-TKfr5syzrFEJcW1al7vNOwOR4.jpg?s=80d5631e25bdbd2465b928b7ea322d6c frameborder=0>
 - entry_name: |
-    A kid’s reaction to being taught how to spin a basketball on his finger by a Globetrotter.
-  entry_id: 8pm4je
-  entry_content: |
-    <iframe src=https://v.redd.it/n3ob9b6mht211/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Megathread: Mueller files new charges against Paul Manafort and Russian associate Konstantin Kilimnik
   entry_id: 8pm5jt
   entry_content: |
     <img src=https://i.redditmedia.com/Vt3FX9T0L2hDJ9ZEPaoFPn-LieA4w1Zr7tPomhGHwc8.jpg?s=2eaabe63d9cf046b5340df6b04c39dba frameborder=0>
-- entry_name: |
-    When it’s leg day & you can’t go to the gym
-  entry_id: 8pm4hz
-  entry_content: |
-    <img src=https://i.redditmedia.com/8_xYm2l0EU4RJ9gA3trCiTNs1yT3Cdj2To6uhq85g_Y.jpg?s=69a51991d7c3b31f8cb868d304986fd8 frameborder=0>
 - entry_name: |
     Nothing but trouble
   entry_id: 8psbbx
@@ -215,11 +185,6 @@ data:
   entry_id: 8pq7n4
   entry_content: |
     <img src=https://i.redditmedia.com/YksSMu5GtpX5qcSqyE7JX65IP-xDoGTLJu_NXEzgr-E.png?s=332d8d44aec1f71ba88b9b83e8826fe9 frameborder=0>
-- entry_name: |
-    Srsly why you like dis Karen
-  entry_id: 8pokjx
-  entry_content: |
-    <iframe src=https://v.redd.it/932joy2p1v211/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Ajit Pai’s FCC lied about “DDoS” attack, ex-chair’s statement indicates - Wheeler: There was no coverup of 2014 DDoS attack, because there was no DDoS.
   entry_id: 8pnr3w
@@ -250,4 +215,39 @@ data:
   entry_id: 8pp59v
   entry_content: |
     <iframe src=https://v.redd.it/s87lx9jdhv211/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    I'm Squidward, you're Squidward...
+  entry_id: 8poug0
+  entry_content: |
+    <img src=https://i.redditmedia.com/KwZEs17qlApc71KQjBbVJwcvHLeETlIzlrilopqlbwg.jpg?s=d2a8659c8d6789b55f852a37eba7bda1 frameborder=0>
+- entry_name: |
+    Only way to give them the lords message
+  entry_id: 8pm8th
+  entry_content: |
+    <img src=https://i.redditmedia.com/EgKd0t0CaN2sns5FHkS6t2APmY24lBq9mxhoyQk2DlE.jpg?s=4c9f163681c3542e06691a5e37fc671d frameborder=0>
+- entry_name: |
+    Perfect Coffee
+  entry_id: 8pok08
+  entry_content: |
+    <img src=https://i.redditmedia.com/j-9QBrQCDYMPQfyNh9JtN3kfowe9cU7owsvSdhgTYMo.jpg?s=72b6eedb1bd99ea492bd20fddf4fa0ab frameborder=0>
+- entry_name: |
+    People who got sentenced to jail in the 90’s or 2000’s and got released this year what does it feel like being in todays 2018? What shocked you the most?
+  entry_id: 8pmrbc
+  entry_content: |
+    null
+- entry_name: |
+    I hope they speak French around Trump
+  entry_id: 8pn6f9
+  entry_content: |
+    <img src=https://i.redditmedia.com/AeBuDTX2uPMrGJ7wrKDsilXw8QVwkz09dHNV13lw4r0.png?s=32d32dbb5790e35852354ec776c15671 frameborder=0>
+- entry_name: |
+    Apple's holier-than-thou attitude is their undoing in court
+  entry_id: 8pocxv
+  entry_content: |
+    <img src=https://i.redditmedia.com/tnqMeur7uefUkgcaHbWjAghMUkhRNNQiHfHMFQdnX1Q.jpg?s=7d936a7fe5463dfb773338b45b11df9c frameborder=0>
+- entry_name: |
+    TIL that the porn filter for the UK's Parliament had inadvertently blocked emails from Welsh constituents because it couldn't recognise the language
+  entry_id: 8ponq0
+  entry_content: |
+    <img src=https://i.redditmedia.com/xcy1xwOQf598_YbmeFWxcHGUVuQVO7eQzkbBjwZfb3s.jpg?s=08790a1885edadbbab1153e801b8cdbf frameborder=0>
 ---
