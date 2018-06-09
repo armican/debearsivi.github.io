@@ -162,11 +162,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1xcmgbb55z211/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Mrw my girlfriend walks back into the apartment to get something she forgot and asks why i have moved from the couch to sit in front of the computer staring at a blank desktop
-  entry_id: 8pn9sx
-  entry_content: |
-    <iframe src=https://v.redd.it/hjzc4v1c5u211/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Perfect ten trick
   entry_id: 8prxq2
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8pradr
   entry_content: |
     <img src=https://i.redditmedia.com/YQRgY9-vx3MVLg9MA8r9fJK2IhOds49qZrfgSQ4gweM.jpg?s=a664695cdd170628dbb1f2a0132f1428 frameborder=0>
+- entry_name: |
+    Anthony Bourdain fans turned the restaurant where he rose to fame as a chef into a memorial
+  entry_id: 8ps9r2
+  entry_content: |
+    <img src=https://i.redditmedia.com/YcWI9Ep3-U0A6BXssVSrZsbEpfqdc3-cbL9MwT1B548.jpg?s=aab793f9715c9f5c502be64582dc6a56 frameborder=0>
 ---
