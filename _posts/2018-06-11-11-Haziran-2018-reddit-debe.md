@@ -216,16 +216,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G9ncXFMOhA3fBC8UrJvS0l74p7vQDuscMPHZ5c6EO20.jpg?s=16f36e2ab9f8160ee0de8bdd94cf158e frameborder=0>
 - entry_name: |
-    With E3 currently going on, keep this in mind
-  entry_id: 8pvhf2
-  entry_content: |
-    <img src=https://i.redditmedia.com/9s7HWfZ406vSMbJY9vs1ECyvkKH-k0cKQsoJ8PRDFRU.jpg?s=216572f24552510c15c47d67839e2291 frameborder=0>
-- entry_name: |
-    Lenz's Law
-  entry_id: 8pvfh1
-  entry_content: |
-    <iframe src=https://v.redd.it/6qx1m3ol61311/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Dad and daughter time
   entry_id: 8pw2em
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8q0h19
   entry_content: |
     <img src=https://i.redditmedia.com/e_uKDznHj1dgoRpNcqTUR4oaWkwSztWASUmauQ6MmlQ.jpg?s=f4078c232a3d6bdbf1b2c3053fd8ffcd frameborder=0>
+- entry_name: |
+    Eminem - Lose Yourself, 2002
+  entry_id: 8q0mh4
+  entry_content: |
+    <img src=https://i.redditmedia.com/9xlCMJnTHsZNjl_1tthyvNmTVWZazk8rz5ydc-RtcrY.jpg?s=f4fc0c5100a271e1de20332a9e11b235 frameborder=0>
+- entry_name: |
+    This cat is 26 year old. Her name is Lexi.
+  entry_id: 8pyq6f
+  entry_content: |
+    <img src=https://i.redditmedia.com/tXV8pAMOcRgZ7G8LHAUfzyH_M8BX9adRgMCZcXrIEaY.jpg?s=869dd0e4599b4ef5f8993e0346c1599e frameborder=0>
 ---
