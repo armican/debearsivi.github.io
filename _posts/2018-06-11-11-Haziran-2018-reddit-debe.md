@@ -72,11 +72,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sRW4v06kXCldzidHeQKIv2IRBiAeP17-qlTpFGGS8Ag.jpg?s=4df71a873cb79332dcfe2b777a2662e9 frameborder=0>
 - entry_name: |
-    Can’t fool me!
-  entry_id: 8puliv
-  entry_content: |
-    <img src=https://i.redditmedia.com/YAkAO3Z3aF1px4EpIlafA7F2K_09DzAl62CZ-TQqZUw.jpg?s=2b3bbcaa650d61a6a463e49c7c68caee frameborder=0>
-- entry_name: |
     You aren’t listening.
   entry_id: 8pwwii
   entry_content: |
@@ -125,11 +120,6 @@ data:
   entry_id: 8pwbzz
   entry_content: |
     <img src=https://i.redditmedia.com/RV5QryoZknXGU3yixaiyoFPuZHMR7FiX5A9HqQsAAYU.jpg?s=46c745aacbb6c383b981bb9a71bbe139 frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 8puhgf
-  entry_content: |
-    <img src=https://i.redditmedia.com/4ZKelYyDYMcDsvyEU1pDHlEywWFoGqwFcuSLZuCrylY.jpg?s=bc03406b22c42f758352b2282e20dce7 frameborder=0>
 - entry_name: |
     Perfect response.
   entry_id: 8pxyn3
@@ -184,7 +174,7 @@ data:
     Multi-purpose foldable table
   entry_id: 8pw1qe
   entry_content: |
-    <iframe src=https://v.redd.it/3732c4qpm1311/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/zruz5yxwq7311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Deer bones grew around the arrow shaft
   entry_id: 8pxcig
@@ -250,4 +240,14 @@ data:
   entry_id: 8pyaf6
   entry_content: |
     <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
+- entry_name: |
+    TIL that ships sent to retrieve dead bodies of the victims of the Titanic disaster found so many bodies that they ran out of embalming supplies. They decided to only retrieve bodies of 1st class passengers due to the need to visually identify wealthy men to resolve any disputes over large estates.
+  entry_id: 8pxnfy
+  entry_content: |
+    <img src=https://i.redditmedia.com/W4r2kbHmLwDH_aGdoMXLRjHApp4TfMi2ylOwycjwmF8.jpg?s=f44942085beb84376b271df71a10dfe3 frameborder=0>
+- entry_name: |
+    Michelin Star Chef Masa Takayama speaks about his friend Anthony Bourdain
+  entry_id: 8puqwp
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/GitVqTIrnNM?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
