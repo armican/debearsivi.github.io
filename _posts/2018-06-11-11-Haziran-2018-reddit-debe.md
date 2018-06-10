@@ -176,11 +176,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LvhbeWTtGlqXwgPMhTxwMY2KomubM6UQNbaReGEk3gg.jpg?s=d51fa2987c2eb51722c99aaa21e6869a frameborder=0>
 - entry_name: |
-    He's going to get deductions for landing
-  entry_id: 8puv49
-  entry_content: |
-    <iframe src=https://v.redd.it/n1txtxi9rz211/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Multi-purpose foldable table
   entry_id: 8pw1qe
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pxq7d
   entry_content: |
     <img src=https://i.redditmedia.com/mb4CLProuhULsKI3n7WbZkBmNmESdq6p0LAdIlgykn4.jpg?s=3240a0e74762d33dd09589ae670e2791 frameborder=0>
+- entry_name: |
+    🔥 bismuth crystals look like alien tech 🔥🔥
+  entry_id: 8pyaf6
+  entry_content: |
+    <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
 ---
