@@ -186,11 +186,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Cd6jFFXJgmAHMjk-7c3C3lRPiYg6OYuXYIXj6-mzIXY.jpg?s=74e3bd6bbb2ad48c22f438d7c076c2a3 frameborder=0>
 - entry_name: |
-    Teacher Recycles a Bottle
-  entry_id: 8pva0h
-  entry_content: |
-    <iframe src=https://v.redd.it/h4u9wgqu21311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Watching Star Wars
   entry_id: 8pz2ty
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pyaf6
   entry_content: |
     <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
+- entry_name: |
+    The water tower in Ocean City, Maryland is painted like a giant beach ball on a spout of water.
+  entry_id: 8q0h19
+  entry_content: |
+    <img src=https://i.redditmedia.com/e_uKDznHj1dgoRpNcqTUR4oaWkwSztWASUmauQ6MmlQ.jpg?s=f4078c232a3d6bdbf1b2c3053fd8ffcd frameborder=0>
 ---
