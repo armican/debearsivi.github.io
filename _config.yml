@@ -30,3 +30,4 @@ github:
 
 gems:
   - jekyll-sitemap
+  - jekyll-octicons
