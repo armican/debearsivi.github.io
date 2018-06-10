@@ -8,14 +8,14 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xgfremo0q2311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 8pz4wi
+  entry_content: |
+    <img src=https://i.redditmedia.com/02Bf6JKEl9daQg2IAtWHg5IaNJ4ai0xiYpQ68ggZviQ.jpg?s=facb5087d30750ccf77cc69722bdb961 frameborder=0>
+- entry_name: |
     Grandpa saved a rabbit 🐰
   entry_id: 8pwyht
   entry_content: |
     <iframe src=https://v.redd.it/3wazd2dyb2311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 8pz4wi
-  entry_content: |
-    <img src=https://i.redditmedia.com/02Bf6JKEl9daQg2IAtWHg5IaNJ4ai0xiYpQ68ggZviQ.jpg?s=facb5087d30750ccf77cc69722bdb961 frameborder=0>
 - entry_name: |
     Vandalized billboard in Louisville, KY
   entry_id: 8pwocc
@@ -27,15 +27,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1kDuHaQK83NI9Ptre0b9usLqGI62ROcv-djZLM33apc.jpg?s=b3d818f573fb39600082d16018d3c66f frameborder=0>
 - entry_name: |
-    TIL Danny Trejo was addicted to Heroin by age 12 and served time in San Quentin prison until he was 25. He's now been over 70 films and has a brand of restaurants, bars, and donuts shops valued around $100 million. All his businesses hire what he calls second chancers like he was.
-  entry_id: 8pygfk
-  entry_content: |
-    <img src=https://i.redditmedia.com/fwxhvJibcmwt8vAE7B1X5nxAq4WTIHtLFXa59TcK9hE.jpg?s=c79ce6c58321185de22573a9463fa2f7 frameborder=0>
-- entry_name: |
     Large firms will have to publish and justify their chief executives' salaries and reveal the gap to their average workers under proposed new laws. UK listed companies with over 250 staff will have to annually disclose and explain the so-called pay ratios in their organisation.
   entry_id: 8pzwko
   entry_content: |
     <img src=https://i.redditmedia.com/3xIXC4gkQC8wMS0aq9-JA0gbvJICsTdYC1RacDRD5X8.jpg?s=b742d965222f66300bfb1abc1ee2e920 frameborder=0>
+- entry_name: |
+    TIL Danny Trejo was addicted to Heroin by age 12 and served time in San Quentin prison until he was 25. He's now been over 70 films and has a brand of restaurants, bars, and donuts shops valued around $100 million. All his businesses hire what he calls second chancers like he was.
+  entry_id: 8pygfk
+  entry_content: |
+    <img src=https://i.redditmedia.com/fwxhvJibcmwt8vAE7B1X5nxAq4WTIHtLFXa59TcK9hE.jpg?s=c79ce6c58321185de22573a9463fa2f7 frameborder=0>
 - entry_name: |
     This handwritten note I received with a $13 product from China.
   entry_id: 8px2x9
@@ -57,10 +57,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5P2Z-SEBGMLNdXWLyZPoe-aYospmKjWXR4d3wZjo8iI.jpg?s=de4c54c084ede1b45e239e30bf4a28cf frameborder=0>
 - entry_name: |
-    The Petulant Donald
-  entry_id: 8pv3a3
+    I rented a convertible for our trip to Las Vegas just to make this gif
+  entry_id: 8pzyb0
   entry_content: |
-    <img src=https://i.redditmedia.com/reAqjvAlxNP0AuC9u3SNDGtVA32BYTRXSAD27TMP-mU.jpg?s=d53a62e79890361080301dd173b20397 frameborder=0>
+    <iframe src=https://v.redd.it/ix99pvbcg5311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    What religion is this?
+  entry_id: 8q04b4
+  entry_content: |
+    <img src=https://i.redditmedia.com/UOzYqsiPWiPlNudMiqpqKKHe48rPCLGslMNzEL-1oDo.jpg?s=2a90c1dea8ce38d6b86f50ca1b158e54 frameborder=0>
 - entry_name: |
     TIL that in 1963, a man tore down a wall in his house and noticed an enormous and complex tunnel system behind it. He had rediscovered the ancient underground city Derinkuyu in Turkey.
   entry_id: 8px2mx
@@ -72,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sRW4v06kXCldzidHeQKIv2IRBiAeP17-qlTpFGGS8Ag.jpg?s=4df71a873cb79332dcfe2b777a2662e9 frameborder=0>
 - entry_name: |
-    What religion is this?
-  entry_id: 8q04b4
-  entry_content: |
-    <img src=https://i.redditmedia.com/UOzYqsiPWiPlNudMiqpqKKHe48rPCLGslMNzEL-1oDo.jpg?s=2a90c1dea8ce38d6b86f50ca1b158e54 frameborder=0>
-- entry_name: |
     You aren’t listening.
   entry_id: 8pwwii
   entry_content: |
@@ -86,11 +86,6 @@ data:
   entry_id: 8pza8s
   entry_content: |
     <img src=https://i.redditmedia.com/XHleUz0-hyRjWgR5BWPMO7PRGyHVacJWWajTyLgTHaE.jpg?s=5306ddcb8605e6963fd4dba78cad0446 frameborder=0>
-- entry_name: |
-    I rented a convertible for our trip to Las Vegas just to make this gif
-  entry_id: 8pzyb0
-  entry_content: |
-    <iframe src=https://v.redd.it/ix99pvbcg5311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     McCain to allies: 'Americans stand with you, even if our president doesn't'
   entry_id: 8pxl1g
@@ -107,49 +102,59 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KIpssrGaO-g8GXgnwG71_Petw-Pp7DXLWChpW-utU-A.jpg?s=a3873b1696baa36df9e65d0a51d24bb2 frameborder=0>
 - entry_name: |
-    He had to ask the audience...
-  entry_id: 8pwdso
+    Well I couldn't do this in vanilla Fallout 4
+  entry_id: 8pzx2n
   entry_content: |
-    <img src=https://i.redditmedia.com/wW9FYxeH_HKc5UCecwzFbax4StDlWuvGzv5WdOgLfv4.jpg?s=da8b8c6a610f5deb4a9d7cd9f2967e7c frameborder=0>
+    <img src=https://i.redditmedia.com/0P1RHgqgr-QAYTuYPNuWBEVm48bd6f0qPzfAdwzCiRE.gif?fm=jpg&s=6d9feefe85ae2d16b2d9c2028d611b11 frameborder=0>
 - entry_name: |
     Figaro in 1997 and today on his 21st birthday
   entry_id: 8pypyh
   entry_content: |
     <img src=https://i.redditmedia.com/6EFSpG1E4uTO2HFFCwOIp1f36FmcjP2C6K7kwkIyaxw.jpg?s=5c225197a0e5475ac24998c6002ba5c3 frameborder=0>
 - entry_name: |
-    Maybe we just hate LeBron on the court because he's a cry baby
-  entry_id: 8pv33k
+    He had to ask the audience...
+  entry_id: 8pwdso
   entry_content: |
-    <img src=https://i.redditmedia.com/jNsBH_fhANjUhIBMGwFY8Lp1NGNAJi8MFAlBsnXl5xU.jpg?s=102b5208727fa64f410b79e9cc6d7c99 frameborder=0>
-- entry_name: |
-  entry_id: 8pwbzz
-  entry_content: |
-    <img src=https://i.redditmedia.com/RV5QryoZknXGU3yixaiyoFPuZHMR7FiX5A9HqQsAAYU.jpg?s=46c745aacbb6c383b981bb9a71bbe139 frameborder=0>
-- entry_name: |
-    Well I couldn't do this in vanilla Fallout 4
-  entry_id: 8pzx2n
-  entry_content: |
-    <img src=https://i.redditmedia.com/0P1RHgqgr-QAYTuYPNuWBEVm48bd6f0qPzfAdwzCiRE.gif?fm=jpg&s=6d9feefe85ae2d16b2d9c2028d611b11 frameborder=0>
-- entry_name: |
-    Perfect response.
-  entry_id: 8pxyn3
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pzr5ZumRqKuKwoDJtCjVthncDggCGd4lOIviR3TkbDY.jpg?s=3c4692869e402c67e77eed6010edfe50 frameborder=0>
-- entry_name: |
-    We are not here to help you with your End of Term papers.
-  entry_id: 8pw30s
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/wW9FYxeH_HKc5UCecwzFbax4StDlWuvGzv5WdOgLfv4.jpg?s=da8b8c6a610f5deb4a9d7cd9f2967e7c frameborder=0>
 - entry_name: |
     A second can change a photo's meaning entirely
   entry_id: 8q0vea
   entry_content: |
     <img src=https://i.redditmedia.com/zZdixbjVgRW5p1CeWYKqXVeY4Zs3LGsdAX56oyR1L8Y.jpg?s=ca1d0ccc54078884e95845e853d20c10 frameborder=0>
 - entry_name: |
+    If race horses could comprehend that victory meant a lifetime of leisure and sex they’d probably run even faster
+  entry_id: 8q1ahg
+  entry_content: |
+    null
+- entry_name: |
+  entry_id: 8pwbzz
+  entry_content: |
+    <img src=https://i.redditmedia.com/RV5QryoZknXGU3yixaiyoFPuZHMR7FiX5A9HqQsAAYU.jpg?s=46c745aacbb6c383b981bb9a71bbe139 frameborder=0>
+- entry_name: |
+    Perfect response.
+  entry_id: 8pxyn3
+  entry_content: |
+    <img src=https://i.redditmedia.com/Pzr5ZumRqKuKwoDJtCjVthncDggCGd4lOIviR3TkbDY.jpg?s=3c4692869e402c67e77eed6010edfe50 frameborder=0>
+- entry_name: |
+    Anti Vaxxers are Another Breed
+  entry_id: 8q1eya
+  entry_content: |
+    <img src=https://i.redditmedia.com/Oy7VViqARG_FYq18dFmQMjczTQig3o8yjt8GIgYVmuE.jpg?s=4ea0a0a943473a8839ed0709ad077622 frameborder=0>
+- entry_name: |
     2meirl4meirl
   entry_id: 8pzf13
   entry_content: |
     <img src=https://i.redditmedia.com/uYkY40S9PXcTDZ_1lhL7oToZvbXTY0m1MpfH2GGo7Is.png?s=ebeb960447924712febfb7cba5756116 frameborder=0>
+- entry_name: |
+    We are not here to help you with your End of Term papers.
+  entry_id: 8pw30s
+  entry_content: |
+    null
+- entry_name: |
+    Just a woman posing with a tornado, 1989
+  entry_id: 8q0eas
+  entry_content: |
+    <img src=https://i.redditmedia.com/gvGCzkXxjW2oqk1sZSI-kIigBxU7LcHszRtw7fFM_MI.jpg?s=ee8f1595d35fc437a03b7cd8373de92f frameborder=0>
 - entry_name: |
     The struggle is real
   entry_id: 8pxlnj
@@ -161,6 +166,21 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/acUWAfKvMKxwwm_HEWCqOFhSetTqfD8poO43BvdHPhw.jpg?s=57bc6446190e886f12bdaf470a8d2cc4 frameborder=0>
 - entry_name: |
+    Boss baby, Alexa’s chosen
+  entry_id: 8pzkbz
+  entry_content: |
+    <img src=https://i.redditmedia.com/LvhbeWTtGlqXwgPMhTxwMY2KomubM6UQNbaReGEk3gg.jpg?s=d51fa2987c2eb51722c99aaa21e6869a frameborder=0>
+- entry_name: |
+    Alex Ovechkin was holding the Stanley Cup up in the middle of the inning at the Nationals game yesterday. They didn’t put him on the Jumbotron because the ball was still in play.
+  entry_id: 8q11ca
+  entry_content: |
+    <img src=https://i.redditmedia.com/WX5m1DWJj0NJwXkVoYVvFyEpI6ZWT6ZwsL7KdSobW-Y.jpg?s=a7e2532041dbc5d8fdcfa2463ea42089 frameborder=0>
+- entry_name: |
+    Now you know the truth
+  entry_id: 8pzahn
+  entry_content: |
+    <img src=https://i.redditmedia.com/n0gOTzsleNUmUSCAJ5qkFv09jKTDg2dnMkl-Wi4-Fas.gif?fm=jpg&s=be100a79e73082a8d30b0639382377d9 frameborder=0>
+- entry_name: |
     My daughter had a flower headband on and a butterfly landed in it!
   entry_id: 8pvo7x
   entry_content: |
@@ -171,25 +191,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/h4u9wgqu21311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Boss baby, Alexa’s chosen
-  entry_id: 8pzkbz
+    Watching Star Wars
+  entry_id: 8pz2ty
   entry_content: |
-    <img src=https://i.redditmedia.com/LvhbeWTtGlqXwgPMhTxwMY2KomubM6UQNbaReGEk3gg.jpg?s=d51fa2987c2eb51722c99aaa21e6869a frameborder=0>
+    <img src=https://i.redditmedia.com/TWt-uH__4xmYAp2b516wSzboaER4OTs3FuGUegUccR8.png?s=3877c2e9efa72e1a6149609bff745105 frameborder=0>
 - entry_name: |
     Multi-purpose foldable table
   entry_id: 8pw1qe
   entry_content: |
     <iframe src=https://v.redd.it/zruz5yxwq7311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Now you know the truth
-  entry_id: 8pzahn
-  entry_content: |
-    <img src=https://i.redditmedia.com/n0gOTzsleNUmUSCAJ5qkFv09jKTDg2dnMkl-Wi4-Fas.gif?fm=jpg&s=be100a79e73082a8d30b0639382377d9 frameborder=0>
-- entry_name: |
-    Watching Star Wars
-  entry_id: 8pz2ty
-  entry_content: |
-    <img src=https://i.redditmedia.com/TWt-uH__4xmYAp2b516wSzboaER4OTs3FuGUegUccR8.png?s=3877c2e9efa72e1a6149609bff745105 frameborder=0>
 - entry_name: |
     Deer bones grew around the arrow shaft
   entry_id: 8pxcig
@@ -201,20 +211,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/c5dhzclk93311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    This spectrum reflected off the dining room window through a chair back.
-  entry_id: 8pyacs
-  entry_content: |
-    <img src=https://i.redditmedia.com/G9ncXFMOhA3fBC8UrJvS0l74p7vQDuscMPHZ5c6EO20.jpg?s=16f36e2ab9f8160ee0de8bdd94cf158e frameborder=0>
-- entry_name: |
     Warren Says Democrats Lack Guts to Take on ‘Billionaire Class’
   entry_id: 8q0fxr
   entry_content: |
     <img src=https://i.redditmedia.com/R4S5ycie3uoHpw0lPldltr1ffVX21zT546mW43XfbHY.jpg?s=1bb80852a0e5595944ea09d065d597d7 frameborder=0>
 - entry_name: |
-    Alex Ovechkin was holding the Stanley Cup up in the middle of the inning at the Nationals game yesterday. They didn’t put him on the Jumbotron because the ball was still in play.
-  entry_id: 8q11ca
+    This spectrum reflected off the dining room window through a chair back.
+  entry_id: 8pyacs
   entry_content: |
-    <img src=https://i.redditmedia.com/WX5m1DWJj0NJwXkVoYVvFyEpI6ZWT6ZwsL7KdSobW-Y.jpg?s=a7e2532041dbc5d8fdcfa2463ea42089 frameborder=0>
+    <img src=https://i.redditmedia.com/G9ncXFMOhA3fBC8UrJvS0l74p7vQDuscMPHZ5c6EO20.jpg?s=16f36e2ab9f8160ee0de8bdd94cf158e frameborder=0>
 - entry_name: |
     With E3 currently going on, keep this in mind
   entry_id: 8pvhf2
@@ -226,11 +231,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/6qx1m3ol61311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Just a woman posing with a tornado, 1989
-  entry_id: 8q0eas
-  entry_content: |
-    <img src=https://i.redditmedia.com/gvGCzkXxjW2oqk1sZSI-kIigBxU7LcHszRtw7fFM_MI.jpg?s=ee8f1595d35fc437a03b7cd8373de92f frameborder=0>
-- entry_name: |
     Dad and daughter time
   entry_id: 8pw2em
   entry_content: |
@@ -241,13 +241,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mb4CLProuhULsKI3n7WbZkBmNmESdq6p0LAdIlgykn4.jpg?s=3240a0e74762d33dd09589ae670e2791 frameborder=0>
 - entry_name: |
-    🔥 bismuth crystals look like alien tech 🔥🔥
-  entry_id: 8pyaf6
-  entry_content: |
-    <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
-- entry_name: |
     TIL that ships sent to retrieve dead bodies of the victims of the Titanic disaster found so many bodies that they ran out of embalming supplies. They decided to only retrieve bodies of 1st class passengers due to the need to visually identify wealthy men to resolve any disputes over large estates.
   entry_id: 8pxnfy
   entry_content: |
     <img src=https://i.redditmedia.com/W4r2kbHmLwDH_aGdoMXLRjHApp4TfMi2ylOwycjwmF8.jpg?s=f44942085beb84376b271df71a10dfe3 frameborder=0>
+- entry_name: |
+    🔥 bismuth crystals look like alien tech 🔥🔥
+  entry_id: 8pyaf6
+  entry_content: |
+    <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
 ---
