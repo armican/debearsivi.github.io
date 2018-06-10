@@ -22,11 +22,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/b4JFZ1VJHpc2Z1_NzLPQC5GqnwmlMSNJEU8GTBOaeHA.jpg?s=05e5ee3da287f9d511af0a7c48e3c1f9 frameborder=0>
 - entry_name: |
-    She didn't grow into them
-  entry_id: 8pueyy
-  entry_content: |
-    <img src=https://i.redditmedia.com/yH4xLb6ErRUFP-i6SjlrPeVYUAUuxeSWKBVCEtSZ8UE.jpg?s=5f0224ac526bcafb5758e995f13b07be frameborder=0>
-- entry_name: |
     Those damn looters
   entry_id: 8pyma5
   entry_content: |
@@ -56,11 +51,6 @@ data:
   entry_id: 8pvtxq
   entry_content: |
     <img src=https://i.redditmedia.com/AFfimIO5x4slVqf2rrsN7qSwvSDIkuM_qXOYGK9nr6s.jpg?s=d87704027c39bcb3a335c822fd8aab24 frameborder=0>
-- entry_name: |
-    Ryan Reynolds to battle Sharks, Vikings and Nazis in Sam Raimi's Bermuda Triangle
-  entry_id: 8pucop
-  entry_content: |
-    <img src=https://i.redditmedia.com/v2mH9qniyBouWpeQsvnVG21veXsN1lOnzCc1oqekuA0.jpg?s=effeed9d8cf8f8a7dbc13e4e6409c4c5 frameborder=0>
 - entry_name: |
     The Petulant Donald
   entry_id: 8pv3a3
@@ -250,4 +240,14 @@ data:
   entry_id: 8pw2em
   entry_content: |
     <img src=https://i.redditmedia.com/s7HobuGOrEEhmMjQJkMxYx49DFh9_j8GViISf9rA_dU.jpg?s=4abf23260a700cd9b4538dee294c6de1 frameborder=0>
+- entry_name: |
+    Stop It
+  entry_id: 8pxq7d
+  entry_content: |
+    <img src=https://i.redditmedia.com/mb4CLProuhULsKI3n7WbZkBmNmESdq6p0LAdIlgykn4.jpg?s=3240a0e74762d33dd09589ae670e2791 frameborder=0>
+- entry_name: |
+    🔥 bismuth crystals look like alien tech 🔥🔥
+  entry_id: 8pyaf6
+  entry_content: |
+    <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
 ---
