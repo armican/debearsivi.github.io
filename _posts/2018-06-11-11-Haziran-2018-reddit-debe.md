@@ -201,11 +201,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/c5dhzclk93311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    haha gey
-  entry_id: 8pv16a
-  entry_content: |
-    <img src=https://i.redditmedia.com/yD30uH7-7l-36Qu-D3GHPugnBaRREZN6BmGzo298K7Q.jpg?s=4256241d64e1e57914bc404e0406a617 frameborder=0>
-- entry_name: |
     This spectrum reflected off the dining room window through a chair back.
   entry_id: 8pyacs
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pyaf6
   entry_content: |
     <img src=https://i.redditmedia.com/mAjoEzRMMAHVO66c2fz3sSukSb2LYTrvC46Oe7DsimM.jpg?s=e462705ef3e14bde960e97d3e097730d frameborder=0>
+- entry_name: |
+    TIL that ships sent to retrieve dead bodies of the victims of the Titanic disaster found so many bodies that they ran out of embalming supplies. They decided to only retrieve bodies of 1st class passengers due to the need to visually identify wealthy men to resolve any disputes over large estates.
+  entry_id: 8pxnfy
+  entry_content: |
+    <img src=https://i.redditmedia.com/W4r2kbHmLwDH_aGdoMXLRjHApp4TfMi2ylOwycjwmF8.jpg?s=f44942085beb84376b271df71a10dfe3 frameborder=0>
 ---
