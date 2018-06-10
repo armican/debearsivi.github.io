@@ -181,11 +181,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/acUWAfKvMKxwwm_HEWCqOFhSetTqfD8poO43BvdHPhw.jpg?s=57bc6446190e886f12bdaf470a8d2cc4 frameborder=0>
 - entry_name: |
-    My daughter had a flower headband on and a butterfly landed in it!
-  entry_id: 8pvo7x
-  entry_content: |
-    <img src=https://i.redditmedia.com/Cd6jFFXJgmAHMjk-7c3C3lRPiYg6OYuXYIXj6-mzIXY.jpg?s=74e3bd6bbb2ad48c22f438d7c076c2a3 frameborder=0>
-- entry_name: |
     The water tower in Ocean City, Maryland is painted like a giant beach ball on a spout of water.
   entry_id: 8q0h19
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8pw2em
   entry_content: |
     <img src=https://i.redditmedia.com/s7HobuGOrEEhmMjQJkMxYx49DFh9_j8GViISf9rA_dU.jpg?s=4abf23260a700cd9b4538dee294c6de1 frameborder=0>
+- entry_name: |
+    TIL that ships sent to retrieve dead bodies of the victims of the Titanic disaster found so many bodies that they ran out of embalming supplies. They decided to only retrieve bodies of 1st class passengers due to the need to visually identify wealthy men to resolve any disputes over large estates.
+  entry_id: 8pxnfy
+  entry_content: |
+    <img src=https://i.redditmedia.com/W4r2kbHmLwDH_aGdoMXLRjHApp4TfMi2ylOwycjwmF8.jpg?s=f44942085beb84376b271df71a10dfe3 frameborder=0>
 ---
