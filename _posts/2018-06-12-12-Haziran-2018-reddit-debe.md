@@ -168,11 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8Ds05iYdw5ZIhrly2T5zPkr_sfh4P5wYiEhP29iF1sk.jpg?s=eb06f8eb7c08539d620a2199065e6d8d frameborder=0>
 - entry_name: |
-    Trump's outfit matched Merkel's
-  entry_id: 8q3892
-  entry_content: |
-    <iframe src=https://v.redd.it/sc1q03ksue311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Trump tells Macron the EU is worse than China
   entry_id: 8q3uhf
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8q3bx5
   entry_content: |
     <img src=https://i.redditmedia.com/bOp7DcMqtbw5stPlfK35lsw5UsdtG6DiwI1_ulOPSN8.jpg?s=bc5856ad64b235d1e639a4b03bc730df frameborder=0>
+- entry_name: |
+    Beluga discovering the power of scaring kids.
+  entry_id: 8q4kap
+  entry_content: |
+    <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
 ---
