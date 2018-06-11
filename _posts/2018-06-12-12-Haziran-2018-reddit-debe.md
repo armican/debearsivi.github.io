@@ -151,7 +151,7 @@ data:
     Trump's outfit matched Merkel's
   entry_id: 8q3892
   entry_content: |
-    <iframe src=https://v.redd.it/1k3z5gja78311/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/sc1q03ksue311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Trump tells Macron the EU is worse than China
   entry_id: 8q3uhf
@@ -217,11 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MhdMkYcO4Q4UfI9XwAV9U0Ikcg7nWQazEyX8PZpNG18.jpg?s=17bede996ff96cb340b3669ba58f4a38 frameborder=0>
 - entry_name: |
-    TIL that Red Bull was sued for 'false advertising' by a consumer after 10 years of drinking Red Bull that he neither grew wings nor any enhanced athletic or intellectual performance.
-  entry_id: 8q2h6u
-  entry_content: |
-    <img src=https://i.redditmedia.com/RWxgacjwuCHSPAgjT8g67isX74eyGQ9X7gw41TMdClE.jpg?s=19f61cdf6217e3426f97d3f9c158c556 frameborder=0>
-- entry_name: |
     My German girlfriend likes to rate our sex between 1-10.
   entry_id: 8q3sam
   entry_content: |
@@ -251,4 +246,8 @@ data:
   entry_id: 8q5nt3
   entry_content: |
     <iframe src=https://v.redd.it/cfommqpjg9311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8q4yzm
+  entry_content: |
+    <img src=https://i.redditmedia.com/D3qS2Unm53rKulaJ_RlJW9kev7G_fbKvpi9g_5zxp2s.jpg?s=a15dc671ba27423d7ed1afa5d9125219 frameborder=0>
 ---
