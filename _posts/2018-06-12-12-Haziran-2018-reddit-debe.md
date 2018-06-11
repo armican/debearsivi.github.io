@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vVK4pPQHgqqbKoyr7Z7pKLncwd_rdgePnU-pfzNMMMQ.jpg?s=37b026d042a7d34192fbd385e116ec8a frameborder=0>
 - entry_name: |
-    Not all heroes wear costumes and capes.
-  entry_id: 8q3og6
-  entry_content: |
-    <iframe src=https://v.redd.it/nwsmfa3z98311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     These two boys had been exposed to the same smallpox source. One had been vaccinated, the other hadn't.
   entry_id: 8q55qj
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wn2GHDSCzGi0dZBMpXHwS4bD-Om3zITeNHpdzESLjuA.jpg?s=f1ae012be683aa8fc935bbdc13479d21 frameborder=0>
 - entry_name: |
-    Doggo brings an unwilling friend
-  entry_id: 8q3lj9
-  entry_content: |
-    <iframe src=https://v.redd.it/tfbqm50ke8311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Was removed from r/aww because it wasn't 100% happy, but my doggo is doing a recover from spinal surgery!
   entry_id: 8q8rec
   entry_content: |
@@ -157,11 +147,6 @@ data:
   entry_id: 8q97hb
   entry_content: |
     <iframe src=https://v.redd.it/keos2rm8ad311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    meirl
-  entry_id: 8q3nmn
-  entry_content: |
-    <img src=https://i.redditmedia.com/84N1hTSRbwqsiC1jDVK3G1i-qmW8C2aGbx2sj5Jq7Q4.jpg?s=9078687f4ff0d1f45efb26683c13fa2e frameborder=0>
 - entry_name: |
     All around me are familiar faces
   entry_id: 8q9975
@@ -251,4 +236,19 @@ data:
   entry_id: 8q5mo0
   entry_content: |
     <img src=https://i.redditmedia.com/MhdMkYcO4Q4UfI9XwAV9U0Ikcg7nWQazEyX8PZpNG18.jpg?s=17bede996ff96cb340b3669ba58f4a38 frameborder=0>
+- entry_name: |
+    Beluga discovering the power of scaring kids.
+  entry_id: 8q4kap
+  entry_content: |
+    <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Liars
+  entry_id: 8q6atv
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
+- entry_name: |
+    My German girlfriend likes to rate our sex between 1-10.
+  entry_id: 8q3sam
+  entry_content: |
+    null
 ---
