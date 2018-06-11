@@ -18,16 +18,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/8X2kIfS6fb8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Pro Level Dad
-  entry_id: 8q67zg
-  entry_content: |
-    <iframe src=https://v.redd.it/lqozqeyvfa311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    How Not To Get Shot In Milwaukee
-  entry_id: 8q2fbd
-  entry_content: |
-    <img src=https://i.redditmedia.com/E-k3yG2wIP57FJLt2PBlnynGGoiKyqVnhJFETSUlCTY.jpg?s=efad58f519ab32186d71a790d6d3e4ac frameborder=0>
-- entry_name: |
     The way this man described a Canadian goose
   entry_id: 8q2uuz
   entry_content: |
@@ -153,11 +143,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uqq0mhwR-f-csxaCXgarlOHkZdaSQ1rsebHwwDQ4r-4.jpg?s=2a4d3131ee43f5df1d17cc08a2322c86 frameborder=0>
 - entry_name: |
-    LOvLey dAY foR A SWim
-  entry_id: 8q2dry
-  entry_content: |
-    <img src=https://i.redditmedia.com/DVaUoGYR6fHStOV3RXOq96FgioCAsjYTQKtOJ5Xk360.jpg?s=2c99f84a4fa833c6ae9d92d04c4d7df3 frameborder=0>
-- entry_name: |
     Nine-year-old girl placed into rehab for her Fortnite addiction
   entry_id: 8q3zv5
   entry_content: |
@@ -227,11 +212,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bOp7DcMqtbw5stPlfK35lsw5UsdtG6DiwI1_ulOPSN8.jpg?s=bc5856ad64b235d1e639a4b03bc730df frameborder=0>
 - entry_name: |
-    Youth ministry
-  entry_id: 8q2bky
-  entry_content: |
-    <img src=https://i.redditmedia.com/FPYzXJj8PIketfHTfkiZwAECnWXceZDXSvspjcLrTVE.jpg?s=5c828d19911037f3b66d8f7953e33286 frameborder=0>
-- entry_name: |
     My dads first try at a pic of the milky way ...... he said it's not good enough to post on Reddit... so I'm posting it for him !!!!
   entry_id: 8q5mo0
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 8q4kap
   entry_content: |
     <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Liars
+  entry_id: 8q6atv
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
+- entry_name: |
+    100-Year Old World War 1 Trenches in France
+  entry_id: 8q3sr7
+  entry_content: |
+    <img src=https://i.redditmedia.com/AwNOCW9GRlh7mO9L-TLOab-yGfY0V8Up2Kgc2B0OhGc.jpg?s=8ef0208596f921fb0845b6841dc594a6 frameborder=0>
+- entry_name: |
+    Almost a year ago, I started a breakthrough treatment intended to halt the progressive nature of my disease. Last night, I sat upright, unassisted, for the first time in 15+ years.
+  entry_id: 8q3fq7
+  entry_content: |
+    <img src=https://i.redditmedia.com/6lyBych6TLE7pn22E5wyj6kDvFJOv4K6wu13eLqRrXQ.jpg?s=2bc39138f3518f1cb1534cf07fe9987b frameborder=0>
+- entry_name: |
+    Female soilder almost gets shot by ISIS and laughs in the face of death
+  entry_id: 8q5nt3
+  entry_content: |
+    <iframe src=https://v.redd.it/cfommqpjg9311/DASH_4_8_M frameborder=0></iframe>
 ---
