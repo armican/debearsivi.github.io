@@ -33,6 +33,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nVLTyMUevWz7WDQtmWz5K1QNP4rcWMx3s8IgHWBARBw.jpg?s=48ce40fd0d1137ca7b5fe2f5ef56b335 frameborder=0>
 - entry_name: |
+    Clouds have feelings too
+  entry_id: 8q8jd3
+  entry_content: |
+    <img src=https://i.redditmedia.com/YhLvfFO3pUy7JtpfMcfPZE5DrEfLEI3NSP7Wg3Y2WL8.jpg?s=11a8514914eef72b21b6760fe8daed58 frameborder=0>
+- entry_name: |
     Police boy staying in shape
   entry_id: 8q4j79
   entry_content: |
@@ -48,10 +53,10 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Clouds have feelings too
-  entry_id: 8q8jd3
+    Charlie Chaplin: inventor of memes
+  entry_id: 8q7q9c
   entry_content: |
-    <img src=https://i.redditmedia.com/YhLvfFO3pUy7JtpfMcfPZE5DrEfLEI3NSP7Wg3Y2WL8.jpg?s=11a8514914eef72b21b6760fe8daed58 frameborder=0>
+    <img src=https://i.redditmedia.com/raYEhhfXf9xygO3amS1h7KR_u35OqONAd8VBGFQFntg.jpg?s=c768810f29a5961d2de6f45662714cfe frameborder=0>
 - entry_name: |
     Pure brotherly love
   entry_id: 8q5vel
@@ -68,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uHXsQmIGTd7lFpwxNjwdMYBDUp7MvAM6iKIW1fJ7bN0.jpg?s=f6868fa3a8a5a6c6a0649750fc7c0697 frameborder=0>
 - entry_name: |
-    Charlie Chaplin: inventor of memes
-  entry_id: 8q7q9c
-  entry_content: |
-    <img src=https://i.redditmedia.com/raYEhhfXf9xygO3amS1h7KR_u35OqONAd8VBGFQFntg.jpg?s=c768810f29a5961d2de6f45662714cfe frameborder=0>
-- entry_name: |
     TIL Raccoons in an experiment were able to open 11 of 13 locks in fewer than 10 tries and had no problems repeating the action when the locks were rearranged or turned upside down. They could also remember the solutions to tasks for 3 years.
   entry_id: 8q4ara
   entry_content: |
@@ -82,11 +82,6 @@ data:
   entry_id: 8q6xji
   entry_content: |
     <img src=https://i.redditmedia.com/FmIjVM5yja5XmiwcN3rFQnhO7VdC3Yi_d4PgYKc7Yyk.jpg?s=fd1293b2e465c1ad8e25cbff780e03a2 frameborder=0>
-- entry_name: |
-    The woman pushing the car is blind. The man right next to her repeats every single thing he sees; What’s on sale, the brands and styles. I heard her say while choosing bath towels “ Please get me two white ones, I love the color white”... let us cherish the small gift that is eyesight!
-  entry_id: 8q4kv0
-  entry_content: |
-    <img src=https://i.redditmedia.com/3hjIDj42ILMxF4Q-GFz2HBrczgz7zrQ6zXlVHSWvSfA.jpg?s=a0445bc2c51df1d6d305c7c1e009397b frameborder=0>
 - entry_name: |
     FUCK YEAH!
   entry_id: 8q8oph
@@ -98,50 +93,65 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-wXloyomQRtzg58cZ0F4veT29EJf8AevH8wx4OME0bI.jpg?s=d760e9cb123103a26f9204bef2abbc75 frameborder=0>
 - entry_name: |
-    Atlantis Kida Cosplay by Maria Fernanda Galvao
-  entry_id: 8q3u2h
+    The woman pushing the car is blind. The man right next to her repeats every single thing he sees; What’s on sale, the brands and styles. I heard her say while choosing bath towels “ Please get me two white ones, I love the color white”... let us cherish the small gift that is eyesight!
+  entry_id: 8q4kv0
   entry_content: |
-    <img src=https://i.redditmedia.com/phdvPFaw56xg5ZOkIc1fv_ZCMvKAG7SUIpDGFJI5v_M.jpg?s=5d253cbe4b76414c8d77372a629d318d frameborder=0>
-- entry_name: |
-    My grandfather was a Hispanic Conan O'Brien (1957)
-  entry_id: 8q6sai
-  entry_content: |
-    <img src=https://i.redditmedia.com/GIbRy_AT7sWb0zJxfRPHNbVqJDneJnCAJSPcArwoYEo.jpg?s=df60d58be858957ea2ffd02c83de7017 frameborder=0>
-- entry_name: |
-    Doggo brings an unwilling friend
-  entry_id: 8q3lj9
-  entry_content: |
-    <iframe src=https://v.redd.it/tfbqm50ke8311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    TIL Anthony Bourdain at times wouldn't name the places he'd visit while filming. He did this sometimes to prevent tourists from turning a bar or restaurant into a tourist trap after filming there.
-  entry_id: 8q56v9
-  entry_content: |
-    <img src=https://i.redditmedia.com/wn2GHDSCzGi0dZBMpXHwS4bD-Om3zITeNHpdzESLjuA.jpg?s=f1ae012be683aa8fc935bbdc13479d21 frameborder=0>
-- entry_name: |
-    Dinner table lighting effects
-  entry_id: 8q3wmo
-  entry_content: |
-    <iframe src=https://v.redd.it/i1nv3ae698311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Every glass of beer from a local craft brewery has a dad joke on the back
-  entry_id: 8q2vht
-  entry_content: |
-    <img src=https://i.redditmedia.com/nNQesNVwm9tHiX_ZbWFNa6Jre72A53aj7r47yB1QmD8.jpg?s=52a3fdea4181cac83c9dc91aba946237 frameborder=0>
-- entry_name: |
-    The view on Easter Island
-  entry_id: 8q4dt8
-  entry_content: |
-    <img src=https://i.redditmedia.com/dcIyQSYgZNCKBmuuSKKwPj_ulTx1dxh1k2TWTNj0Xi0.jpg?s=ae4963481034d96cb8ff89259f4dcc66 frameborder=0>
+    <img src=https://i.redditmedia.com/3hjIDj42ILMxF4Q-GFz2HBrczgz7zrQ6zXlVHSWvSfA.jpg?s=a0445bc2c51df1d6d305c7c1e009397b frameborder=0>
 - entry_name: |
     National Geographic magazine that warns about danger of plastic bags comes inside a plastic bag that is inside a plastic bag
   entry_id: 8q8qj5
   entry_content: |
     <img src=https://i.redditmedia.com/Tak3FagK0P8a2D7Pcr11oBtKUFjOtRhmpHZ35MwT-ko.png?s=4a23178fa08226f79d1f55c199e59c06 frameborder=0>
 - entry_name: |
+    My grandfather was a Hispanic Conan O'Brien (1957)
+  entry_id: 8q6sai
+  entry_content: |
+    <img src=https://i.redditmedia.com/GIbRy_AT7sWb0zJxfRPHNbVqJDneJnCAJSPcArwoYEo.jpg?s=df60d58be858957ea2ffd02c83de7017 frameborder=0>
+- entry_name: |
+    Atlantis Kida Cosplay by Maria Fernanda Galvao
+  entry_id: 8q3u2h
+  entry_content: |
+    <img src=https://i.redditmedia.com/phdvPFaw56xg5ZOkIc1fv_ZCMvKAG7SUIpDGFJI5v_M.jpg?s=5d253cbe4b76414c8d77372a629d318d frameborder=0>
+- entry_name: |
+    TIL Anthony Bourdain at times wouldn't name the places he'd visit while filming. He did this sometimes to prevent tourists from turning a bar or restaurant into a tourist trap after filming there.
+  entry_id: 8q56v9
+  entry_content: |
+    <img src=https://i.redditmedia.com/wn2GHDSCzGi0dZBMpXHwS4bD-Om3zITeNHpdzESLjuA.jpg?s=f1ae012be683aa8fc935bbdc13479d21 frameborder=0>
+- entry_name: |
+    Doggo brings an unwilling friend
+  entry_id: 8q3lj9
+  entry_content: |
+    <iframe src=https://v.redd.it/tfbqm50ke8311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Dinner table lighting effects
+  entry_id: 8q3wmo
+  entry_content: |
+    <iframe src=https://v.redd.it/i1nv3ae698311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    The view on Easter Island
+  entry_id: 8q4dt8
+  entry_content: |
+    <img src=https://i.redditmedia.com/dcIyQSYgZNCKBmuuSKKwPj_ulTx1dxh1k2TWTNj0Xi0.jpg?s=ae4963481034d96cb8ff89259f4dcc66 frameborder=0>
+- entry_name: |
+    TIL Margrethe II, the queen of Denmark, felt compelled to draw illustrations for The Lord of the Rings in the 70s and sent them to Tolkien himself. He noted her style was quite similar to his own. Her drawings were used as a basis for the illustrations in the Danish translation of the books.
+  entry_id: 8q8bck
+  entry_content: |
+    <img src=https://i.redditmedia.com/UA19asXJmUDWnKnU4ayxjwaXuH14CoU8pYF5rOSq7g4.jpg?s=8d98e41e4af5a674a57bc2e494b9719b frameborder=0>
+- entry_name: |
+    Every glass of beer from a local craft brewery has a dad joke on the back
+  entry_id: 8q2vht
+  entry_content: |
+    <img src=https://i.redditmedia.com/nNQesNVwm9tHiX_ZbWFNa6Jre72A53aj7r47yB1QmD8.jpg?s=52a3fdea4181cac83c9dc91aba946237 frameborder=0>
+- entry_name: |
     meirl
   entry_id: 8q3nmn
   entry_content: |
     <img src=https://i.redditmedia.com/84N1hTSRbwqsiC1jDVK3G1i-qmW8C2aGbx2sj5Jq7Q4.jpg?s=9078687f4ff0d1f45efb26683c13fa2e frameborder=0>
+- entry_name: |
+    Blue German Shepherd
+  entry_id: 8q8mox
+  entry_content: |
+    <img src=https://i.redditmedia.com/uqq0mhwR-f-csxaCXgarlOHkZdaSQ1rsebHwwDQ4r-4.jpg?s=2a4d3131ee43f5df1d17cc08a2322c86 frameborder=0>
 - entry_name: |
     LOvLey dAY foR A SWim
   entry_id: 8q2dry
@@ -158,25 +168,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1k3z5gja78311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    TIL Margrethe II, the queen of Denmark, felt compelled to draw illustrations for The Lord of the Rings in the 70s and sent them to Tolkien himself. He noted her style was quite similar to his own. Her drawings were used as a basis for the illustrations in the Danish translation of the books.
-  entry_id: 8q8bck
-  entry_content: |
-    <img src=https://i.redditmedia.com/UA19asXJmUDWnKnU4ayxjwaXuH14CoU8pYF5rOSq7g4.jpg?s=8d98e41e4af5a674a57bc2e494b9719b frameborder=0>
-- entry_name: |
     Trump tells Macron the EU is worse than China
   entry_id: 8q3uhf
   entry_content: |
     <img src=https://i.redditmedia.com/OAVOgQm07i7hs-i1XKNIf8NWid9FMqGJNLmTOegOOWw.jpg?s=08b5c6fd93963b08d5acb524490c29ee frameborder=0>
 - entry_name: |
-    A female Kurdish fighter almost gets shot by ISIS and laughs in the face of death
-  entry_id: 8q4zkz
-  entry_content: |
-    <iframe src=https://v.redd.it/cfommqpjg9311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Pro-Life people of reddit, if abortion was stopped what would be the plan to ensure the welfare of the thousands of neglected and unwanted children?
   entry_id: 8q56bf
   entry_content: |
     null
+- entry_name: |
+    A female Kurdish fighter almost gets shot by ISIS and laughs in the face of death
+  entry_id: 8q4zkz
+  entry_content: |
+    <iframe src=https://v.redd.it/cfommqpjg9311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     In Inside Out (2015) two of the memory orbs on the shelves contain scenes from Up (2009). One features Carl & Ellie's wedding, while the other shows their house.
   entry_id: 8q413k
@@ -192,10 +197,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/z0YyfFpqiy6Vw41qi0876v1ycqz9-qcQTwnF__utdEw.jpg?s=2367c436998fa559d3fbdc5254f0dc8b frameborder=0>
 - entry_name: |
-    Blue German Shepherd
-  entry_id: 8q8mox
+    Perfection
+  entry_id: 8q8bfx
   entry_content: |
-    <img src=https://i.redditmedia.com/uqq0mhwR-f-csxaCXgarlOHkZdaSQ1rsebHwwDQ4r-4.jpg?s=2a4d3131ee43f5df1d17cc08a2322c86 frameborder=0>
+    <img src=https://i.redditmedia.com/IRk3fHlkZQh7ZDpZKC-lUwua8mufCIC8Y8oV9n9QvSg.jpg?s=94ea28e71ceb7f0157c0863c27462df6 frameborder=0>
+- entry_name: |
+    When I'm asked to make a gif so good it will cure Summer Reddit
+  entry_id: 8q78uv
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImprobableFickleKitty&url=https%3A%2F%2Fgfycat.com%2FImprobableFickleKitty&image=https%3A%2F%2Fthumbs.gfycat.com%2FImprobableFickleKitty-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Trump routinely rips up papers that need to be preserved
   entry_id: 8q4bay
@@ -207,10 +217,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/r109qkgfhyPwddIWRDsO-get_IsAq8FKtpS4R6YblCM.jpg?s=798d51bf016a545c317cb3affdbb6f82 frameborder=0>
 - entry_name: |
-    When I'm asked to make a gif so good it will cure Summer Reddit
-  entry_id: 8q78uv
+    Fallout 76 confirmed to include an area based on the /r/fallout sub
+  entry_id: 8q9eof
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImprobableFickleKitty&url=https%3A%2F%2Fgfycat.com%2FImprobableFickleKitty&image=https%3A%2F%2Fthumbs.gfycat.com%2FImprobableFickleKitty-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/v2nlvaU1uH4EBqPxX20IwVb034bntNiiCVgdVy2mWIw.jpg?s=7ba3362529eb67404c36eee26854b6e9 frameborder=0>
 - entry_name: |
     Bo Burnham’s Comedy ‘Eighth Grade’ & Mr. Rogers Documentary ‘Won’t You Be My Neighbor?’ Win Top Awards at Seattle International Film Festival
   entry_id: 8q3bx5
@@ -222,33 +232,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FPYzXJj8PIketfHTfkiZwAECnWXceZDXSvspjcLrTVE.jpg?s=5c828d19911037f3b66d8f7953e33286 frameborder=0>
 - entry_name: |
-    TIL that Red Bull was sued for 'false advertising' by a consumer after 10 years of drinking Red Bull that he neither grew wings nor any enhanced athletic or intellectual performance.
-  entry_id: 8q2h6u
-  entry_content: |
-    <img src=https://i.redditmedia.com/RWxgacjwuCHSPAgjT8g67isX74eyGQ9X7gw41TMdClE.jpg?s=19f61cdf6217e3426f97d3f9c158c556 frameborder=0>
-- entry_name: |
     My dads first try at a pic of the milky way ...... he said it's not good enough to post on Reddit... so I'm posting it for him !!!!
   entry_id: 8q5mo0
   entry_content: |
     <img src=https://i.redditmedia.com/MhdMkYcO4Q4UfI9XwAV9U0Ikcg7nWQazEyX8PZpNG18.jpg?s=17bede996ff96cb340b3669ba58f4a38 frameborder=0>
+- entry_name: |
+    TIL that Red Bull was sued for 'false advertising' by a consumer after 10 years of drinking Red Bull that he neither grew wings nor any enhanced athletic or intellectual performance.
+  entry_id: 8q2h6u
+  entry_content: |
+    <img src=https://i.redditmedia.com/RWxgacjwuCHSPAgjT8g67isX74eyGQ9X7gw41TMdClE.jpg?s=19f61cdf6217e3426f97d3f9c158c556 frameborder=0>
 - entry_name: |
     My German girlfriend likes to rate our sex between 1-10.
   entry_id: 8q3sam
   entry_content: |
     null
 - entry_name: |
-    Perfection
-  entry_id: 8q8bfx
-  entry_content: |
-    <img src=https://i.redditmedia.com/IRk3fHlkZQh7ZDpZKC-lUwua8mufCIC8Y8oV9n9QvSg.jpg?s=94ea28e71ceb7f0157c0863c27462df6 frameborder=0>
-- entry_name: |
     Beluga discovering the power of scaring kids.
   entry_id: 8q4kap
   entry_content: |
     <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Liars
-  entry_id: 8q6atv
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
 ---
