@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FmIjVM5yja5XmiwcN3rFQnhO7VdC3Yi_d4PgYKc7Yyk.jpg?s=fd1293b2e465c1ad8e25cbff780e03a2 frameborder=0>
 - entry_name: |
-    TIL the rights to Back to the Future are entirely owned by the director, Robert Zemeckis, who has pledged for there to never, ever be a remake in his lifetime
-  entry_id: 8q9lpq
-  entry_content: |
-    <img src=https://i.redditmedia.com/II7u-Vi792gpI-4RAO4rfBXzZ2ADAV9pktWZnUQHlYc.jpg?s=c033c0810c4b55cc20508af4a9ec284e frameborder=0>
-- entry_name: |
     Blue German Shepherd
   entry_id: 8q8mox
   entry_content: |
@@ -242,13 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MhdMkYcO4Q4UfI9XwAV9U0Ikcg7nWQazEyX8PZpNG18.jpg?s=17bede996ff96cb340b3669ba58f4a38 frameborder=0>
 - entry_name: |
-    Bo Burnham’s Comedy ‘Eighth Grade’ & Mr. Rogers Documentary ‘Won’t You Be My Neighbor?’ Win Top Awards at Seattle International Film Festival
-  entry_id: 8q3bx5
-  entry_content: |
-    <img src=https://i.redditmedia.com/bOp7DcMqtbw5stPlfK35lsw5UsdtG6DiwI1_ulOPSN8.jpg?s=bc5856ad64b235d1e639a4b03bc730df frameborder=0>
-- entry_name: |
     Beluga discovering the power of scaring kids.
   entry_id: 8q4kap
   entry_content: |
     <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My German girlfriend likes to rate our sex between 1-10.
+  entry_id: 8q3sam
+  entry_content: |
+    null
+- entry_name: |
+    Liars
+  entry_id: 8q6atv
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
 ---

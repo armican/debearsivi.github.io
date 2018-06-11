@@ -6,15 +6,23 @@ data:
     11 haziran 2018 recep tayyip erdoğan bursa mitingi
   entry_id:  77948893
   entry_writer: omerika
-  entry_fav_count: 2141
+  entry_fav_count: 2162
   entry_content: |
     şimdiden hatırlatmakta fayda var;<br/><br/>* bursa-yenişehir hava limanı 2000 yılında açıldı.<br/>* uludağ üniversitesi 1975'te kuruldu.<br/>* bursa'nın fethi 1326.<br/>* bursa'nın düşman işgalinden kurtuluşu 1922<br/><br/>saygılar.<br/><br/>edit: alıntıdır.
   entry_channels: siyaset
 - entry_name: |
+    kek adam rejimi
+  entry_id:  77937947
+  entry_writer: yavru zurafa
+  entry_fav_count: 1500
+  entry_content: |
+    16 yıl süren akp iktidarının geldiği son nokta.
+  entry_channels: siyaset,yeme-içme
+- entry_name: |
     selahattin demirtaş'ın idamı
   entry_id:  77946130
   entry_writer: herseyiistiyoruz
-  entry_fav_count: 765
+  entry_fav_count: 767
   entry_content: |
     kafayı mı yediniz arkadaşlar.<br/>hayatı boyunca demokratik ve yasal alanda siyaset yapmış.<br/><br/>eline silah almamış ve silah alanlarla ilişkiye girmemiş, sadece konuşmaları nedeniyle tutuklu olan ve tutukluluğu sadece erdoğan'ın isteği ile gerçekleşen ve hukuka dayanmayan,<br/><br/>ve en önemlisi seçimlerde erdoğan'ın rakibi olan birisi için idam istiyor.<br/><br/>erdoğan bir rakibini idam ettireceğini söylüyor.<br/><br/>bu iç savaşa zemin hazırlamak değil de nedir.<br/><br/>bu korkunç açıklamayı normal karşılayanlar hangi dünyada yaşıyor.<br/><br/>edit:bir sürü mesaj aldım, demirtaş'ın terör örgütü propagandası yaptığına dair. henüz mahkemenin bir karar verdiği yok. tamamen akp'nin emrinde olan mahkeme bile karar verememişken, siz nasıl hemen karara vardınız. masumiyet karinesi ne olacak?<br/><br/>ikincisi, terör propagandasının cezası tmk 7/2'de belirtildiği gibi 1 yıldan 5 yıla kadar hapistir, idam değil.
   entry_channels: siyaset,haber
@@ -22,31 +30,15 @@ data:
     erdoğan'ın kıraathaneden kastı kütüphanedir
   entry_id:  77948681
   entry_writer: strobist
-  entry_fav_count: 727
+  entry_fav_count: 733
   entry_content: |
     (bkz: <a class="b" href="/?q=devam%c4%b1n%c4%b1+okumayay%c4%b1m">devamını okumayayım</a>)
   entry_channels: siyaset,haber
 - entry_name: |
-    11 haziran 2018 meral akşener'in çıldırması
-  entry_id:  77953478
-  entry_writer: tekkalan
-  entry_fav_count: 637
-  entry_content: |
-    elbistan mitingi'nin sonunda akp'nin yılmaz savunucusu bir şahsın kendisine böğürerek bağırması sonucu meral akşener'in megri megri'den tutup, oslo'ya kadar döşediği ve de aynı şahsı doğduğuna pişman ettiği an. allah'tan uyardı da adamı linç etmediler orada.<br/><br/>edit: bulanlardan allah razı olsun... <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=uQTLVPjjKns&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=uQTLVPjjKns&amp;feature=youtu.be">akşener'in çıldırması</a><br/><br/>edit 2: başka bir açıdan video. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/siradan-cinko-karbon-pil" title="https://eksisozluk.com/biri/siradan-cinko-karbon-pil">siradan cinko karbon pil</a>'e teşekkürler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=_NHzXfAoP7Q&amp;feature=youtu.be&amp;t=21" title="https://www.youtube.com/watch?v=_NHzXfAoP7Q&amp;feature=youtu.be&amp;t=21">adamın aşağı indirilmesi</a><br/><br/>ayrıca mitingte bulunan <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/agospas24" title="https://eksisozluk.com/biri/agospas24">@agospas24</a> arkadaşımız da bana yazdı detaylar aşağıda, teşekkürler.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>olay şöyle oldu, sayın akşener " bu arada üzücü bir şehit haberi aldım. elbistan'dan şehidimiz varmış. allah rahmet eylesin" dedi. sonra bi adam çıktı birden yüksek bir alana - ki bu alan kameraların konulduğu yer - " saray meselesini çözeceğine terör sorununu çöz sen diye bağırdı. tam önümdeydi zaten. akşener buna cevap verirken yaklaşık 1 dakika dövdüler adamı ajdjdjsjsjhaah. akşener göz ucuyla adama baktı ki adam güzel dayak yiyor. konuşmaya devam etti. sonra akşener de bizim gibi rahatlayınca " bir şey yapmayın tamam " dedi. adam hastanelik oldu, ölümden aldı resmen adamı.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: siyaset,haber
-- entry_name: |
-    berat albayrak'ın borcam açıklaması
-  entry_id:  77947488
-  entry_writer: touareg
-  entry_fav_count: 583
-  entry_content: |
-    bu bir zihniyet, bir görüş meselesidir. ısıya dayanıklı cam deyince birilerinin aklına uzay teknolojisi için gerekli materyaller gelir, diğerinin aklına "fırında makarna pişirsin yeter" gelir.
-  entry_channels: siyaset,teknoloji,haber
-- entry_name: |
     15 temmuz 2016 gecesi yapılanlar
   entry_id:  77953901
   entry_writer: toogle
-  entry_fav_count: 559
+  entry_fav_count: 605
   entry_content: |
     ben evimde oturmuş televizyonumun başında tatlı tatlı içiyordum.<br/><br/>cnntürk'te geçen alt yazıda köprünün kapatıldığına ilişkin son dakika haberlerini görünce pek işkillenmemiştim. ancak twitter'da ankara'da jetlerin alçak uçuş yaptığı haberlerini okuyunca acaba mı dedim. son olarak tv'de istanbul'da gezmekte olan bir zpt görünce tamam dedim bu bir darbe. müthiş tespitim, ablası ile telefonda gıybet yapmakta olan hanımda pek bir heyecan yaratmayınca yönümü tabi ki bir albay emeklisi olan babama çevirdim ve telefona sarıldım.<br/><br/>toogle: baba sanırım darbe oluyor, istanbul'da köpr...<br/>babam: bu saatte darbe mi olur, dedi ve kapattı. <br/><br/>babamın tepkisi mantıklı geldi ama haberler de normal değil. bende anadolunun güzide bir ilçesinde görevli üsteğmen abimi aradım. (evet bizde asker çok kardişim)<br/><br/>toogle: abi sanırım darbe oluyor, gibi.(babamın tepkisinden sonra şüphe ile yaklaşıyorum)<br/>saf sarhoş abim: ben garnizon komutanıyım olm, ne darbesi, benim haberim yok. darbe olsa benim haberim olur.(dili uyuşmuş, tam dönmüyor. arkadaki seslerden uzmanları da toplamış hunharca içmekte olduğu belli)<br/>toogle: valla abi benden söylemesi, sen bi sor soruştur dedim ve kapattım.<br/><br/>biraz zaman geçip olaylar netleşmeye başlayınca canım abim telden geri dönüş yaptı.<br/><br/>ayılmış yusuflamış saf abim: (dil düzelmiş, ne dediği anlaşılıyor, abimin sesinden başka arkadan gelen çıt yok) lan hakkatten darbe oluyormuş.<br/>toogle: dedim dedim inanmadın, n'oldu şimdi tarzında birşeyler söyledim.<br/>ayılmış yusuflamış saf abim: dur ben bi babamı arayım, dedi ve kapattı.<br/><br/>velhasılıkelam darbe girişimi başarısız sonuçlandı, memleket toz duman oldu vs. canım abim 1 yıldır açıkta, mahkemesinin sonuçlanmasını bekliyor. <br/><br/>mahkemede darbe girişimini kimden öğrendin sorusuna; kardeşimden diyerek bana enişte muamelesi yaptığını da atlamayım.
   entry_channels: siyaset,anket
@@ -54,15 +46,23 @@ data:
     11 haziran 2018 abdullah sevim'in seçim konuşması
   entry_id:  77961390
   entry_writer: well cooked
-  entry_fav_count: 532
+  entry_fav_count: 601
   entry_content: |
     görüş olarak farklılıklarımız olsa da göte göt dediği konuşma olmuştur.<br/>tanımlamalar çok başarılı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/qHHp3L" title="https://goo.gl/qHHp3L">youtube</a> (twitter'dan izlerken sorun yaşayanlar için)<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu seçim:<br/><br/>- 40 yıllık esnaf dükkanını kapamak zorunda kalan ali amca ile paradan para kazanan rantiyeciler arasında olacaktır.<br/>- şeker fabrikalarını satanlarla, ne olur satmayın diye mücadele edenler arasında olacaktır.<br/>- çocuğu üşümesin diye saç kurutma makinesini açıp sonra da yan odada intihar eden <a class="b" href="/?q=emine+ak%c3%a7ay">emine akçay</a> kardeşim ile yandaşlara kömür dağıtanlar arasında olacaktır.<br/>- bir türlü atanamadığı için intihar eden <a class="b" href="/?q=merve+%c3%a7avdar">merve çavdar</a> kardeşim ile devlet imkanlarını sömürenler arasında olacaktır.<br/>- köy yolu kapalı olduğu için oğlunu hastaneye yetiştiremeyen ve cansız bedenini 16km taşıyan <a class="b" href="/?q=muharrem+ta%c5%9f">muharrem taş</a> kardeşim ile aya dört geliş dört gidiş yol yapma soytarılığını dile getiren taş yürekliler arasında olacaktır.<br/>- üç yüzü aşkın emekçi maden işçisi arkadaşına mezar olan soma madenlerinden çıkarıldığında, sedyeye binerken "çizmelerimi çıkarayım mı?" diyen <a class="b" href="/?q=murat+yal%c3%a7%c4%b1n">murat yalçın</a> kardeşim ile "böyle ölümler bu işin tabiatında var" diyen kibir kulelerinde oturan beyefendiler arasında olacaktır.<br/><br/>bu seçim;<br/>mazlum ile zalimin,<br/>ahı olanlar ile ah alanların,<br/>suskun ile sesi çok çıkanların,<br/>allah'a kul gayrından hür olanlar ile güce, makama, şöhrete tapanların seçimi olacaktır...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: siyaset
 - entry_name: |
+    berat albayrak'ın borcam açıklaması
+  entry_id:  77947488
+  entry_writer: touareg
+  entry_fav_count: 588
+  entry_content: |
+    bu bir zihniyet, bir görüş meselesidir. ısıya dayanıklı cam deyince birilerinin aklına uzay teknolojisi için gerekli materyaller gelir, diğerinin aklına "fırında makarna pişirsin yeter" gelir.
+  entry_channels: siyaset,teknoloji,haber
+- entry_name: |
     kızılay'da cinsel taciz
   entry_id:  77945998
   entry_writer: sozluk okuru
-  entry_fav_count: 451
+  entry_fav_count: 460
   entry_content: |
     şu anda kendi hesabım olmadığı için arkadaşımın hesabından yardım istiyorum. <br/>ben ve bir arkadaşım 09.06.2018 günü kızılay'da buluştuk ve saat 21.00-21.30 gibi metrodan kızılay karanfil çıkışına doğru gidiyorduk. benim üzerimde bol bir elbise arkadaşımın üzerinde ise pantolon vardı. yürüyen merdivenin yarısına doğru geldiğimde arkadaşımla konuşurken arkadan bacaklarıma bir şey dokunduğunu hissettim. refleks olarak döndüğümde ise bir kişinin, sonradan öğrendiğime göre 24 yaşında, telefonunun ters bir şekilde eteğimin altında olduğunu gördüm. anında ver telefonu ne yapıyorsun sen diye avaz avaz bağırmaya başladım. o sırada yürüyen merdivenin sonuna gelmiştik. sapık öylece cevap vermeden kaldı, ben bir yandan telefonu ver diye bağırıyorum, o ise etrafına bakıyor. insanların toplanmaya başladığı sırada polis diye yeniden bağırmaya başladım.sapık bir sokağa bir metronun içine doğru baktı. metronun içi sanırım daha boş olduğu için o yöne doğru koşmaya başladı. merdivenlerin son basamaklarından yuvarlandı. güvenlik önüne çıktı ve yakaladı. güvenliğin yakaladığını görünce telefonunu alın diye bağırdım. aldılar sonra bana bir kez konuşabilir miyiz hayatım bitecek alkollüydüm dedi. polis noktasından sonra hep beraber polis karakoluna gittik. ifade verirken onu sağlık kontrolünden getirdiler geçerken bana selam verip geçti. öğrendim ki bu sapık bizi merdivenlerden önce takip etmeye başlamış o anları da videoya çekmiş, alkollü değilmiş. her şey videoda kayıtlı. o gece merkezde kaldı. ertesi gün serbest bırakıldı arkadaşlar. yardım edin bu kişi serbest kalmasın. çankaya polis amirliğinde bu işlemler gerçekleşti. kanıtlar elimizde, konu mahkemeye taşındı ama sapık sokakta.<br/>not: gelen mesajlardan ve yorumlardan yola çıkarak bu notu oluşturma gereği duydum. konunun mahkemeye taşındığını zaten belirttim. tabi ki mahkeme süreci beklenmek zorunda ama kanun gereği dışarıda fakat kanunlar tepki verilerek zamanla ihtiyaçlara göre değiştirilmez mi? fakat birkaç mesaja verdiğim cevap gibi burada bunu paylaşmamın amacı linç girişimi değildir. geçmişte takım elbise giydiği için iyi hal gösterilenler var en azından öyle bir şeye yer vermemektir. elimde bütün kanıtlar mevcuttur. avukat arkadaşlar yardımcı olmak için bana yazdılar ve yol gösterdiler. bu benim hakkımı daha bilinçli savunmamı sağlayacaktır.
   entry_channels: haber
@@ -70,23 +70,15 @@ data:
     türkiye ekonomisinin %7.4 büyümesi
   entry_id:  77944127
   entry_writer: oralardan iyi vurur
-  entry_fav_count: 335
+  entry_fav_count: 338
   entry_content: |
     (bkz: <a class="b" href="/?q=i%c3%a7imizde+hissetti%c4%9fimiz+b%c3%bcy%c3%bcme">içimizde hissettiğimiz büyüme</a>)<br/><br/>(bkz: <a class="b" href="/?q=%c3%b6nemli+olan+boyu+de%c4%9fil+i%c5%9flevi">önemli olan boyu değil işlevi</a>) <br/><br/>bu masallara inanan kaldıysa en yakın markete gidip %30 ve üzeri enflasyonu görebilir.
   entry_channels: haber,ekonomi
 - entry_name: |
-    taksiciler çalıştıkları şehrin kanaat önderleridir
-  entry_id:  77942210
-  entry_writer: at herif
-  entry_fav_count: 319
-  entry_content: |
-    hahahahasssikktirrrr lann diyerek götümle güldüğüm açıklama.<br/><br/>(bkz: <a class="b" href="/?q=orospu+%c3%a7ocugu+taksici">orospu çocugu taksici</a>)
-  entry_channels: siyaset
-- entry_name: |
     robert de niro'nun trump'a küfür etmesi
   entry_id:  77950597
   entry_writer: bu dakikalarda gelecek bir gol
-  entry_fav_count: 300
+  entry_fav_count: 307
   entry_content: |
     özgürlüğün gözünü seveyim.<br/>adam dünya başkanına küfür ediyor. alkış kıyamet gırla.<br/>biz bir trafik polisine küfür etsek, yedi sülalemizi sikerler.
   entry_channels: siyaset,haber,magazin
@@ -94,7 +86,7 @@ data:
     asla mutlu olamayacak insanlar
   entry_id:  77932674
   entry_writer: ben oyum ki
-  entry_fav_count: 287
+  entry_fav_count: 288
   entry_content: |
     asla mutlu olamayacak demeyelim de hayatında hep bir mutsuzluk, huzursuzluk mevcut olacak insanlar diyelim. öyle ki, bu insanların istisnaları mutluluk, kaideleri mutsuzluk olacaktır. tabii, bu bir adi karinedir, aksi ispatlanabilir. ancak, hem kendimde hem de çevremde gözlemlediğim bir şey var ki; nispeten mutsuz bir çocukluk geçirmişseniz, sorunlu/sevgisiz/ilgisiz bir ailede büyümüşseniz ileride kendinizle dürüstçe yüzleşmediğiniz müddetçe genel olarak hoşnutsuz, tahammülsüz, mutsuz hissediyorsunuz. çoğunlukla incir çekirdeğini bile doldurmayacak şeyleri sorun ediyor ve bunlardan şikayetçi oluyorsunuz. kimse de çıkıp “sanki biraz abartıyorsun/büyütüyorsun” demiyor ya da dese bile tarafınızca ciddiye alınmıyor. işte, tam da bu yüzden, kendimizin ya çok geç farkına varıyoruz ya da farkına varmadan mutsuz bir yaşam sürüp, göçüp gidiyoruz. arada sırada mutlu olsak bile bu uzun sürmüyor. arkadaş çevresinde haddinden fazla mutlu olan kimseleri şımarık, anne/baba kuzusu ilan ediyoruz, karşı tarafın her bir hareketini gözlem altına alıp hoşnut olmadıklarımızı kendimize/şahsımıza yapılmış birer hakaret olarak algılıyoruz. bolca kırılıp, üzülüyoruz, kendi kendimizi yiyip bitiriyoruz. hayır, sebebi neydi ki? aileydi, boşa geçip giden belki de hiç yaşanmayan çocukluktu, mutluluk nedir, mutsuzluk nedir, bunları çarpık bir şekilde öğrenmemizdi. her halükarda, geçmişimizdi. değiştiremeyeceğimiz, bizim kontrolümüzde olmayan şeylerdi ki geçti, gitti. önümüze bakalım. farkındalığı yakalarsak, değişim kaçınılmaz olarak arkasından gelecektir.<br/><br/><a class="b" href="/?q=edit">edit</a>: farkındalık/yüzleşme ile ilgili çok fazla mesaj geldi. netleştirmek gerekirse; farkındalıktan kastım, bir şeye/kimseye aşırı ya da gereksiz kızdığımızda/üzüldüğümüzde, bazı şeyleri gereğinden fazla büyüttüğümüzde/abarttığımızda göstediğimiz tavrın ve tepkinin ne kadar bilincinde olduğumuzdu. üzülmüş/öfkelenmiş/aşağılanmış hissettiğimizde direkt karşı tarafı/dış etkenleri suçlama eğilimindeyiz. aslında üzüntümüz/öfkemiz karşı tarafın hal ve hareketlerinden ziyade bizim bu hareketlere yüklediğimiz anlamlara göre şekilleniyor. aynı bir türkçe sözlük (ya da ekşi sözlük) gibi zihnimizde de bizim de saklı bir sözlüğümüz var ve çocukluktan bu yana her hareketin/davranışın/sözün ne anlama geldiğini kendi tanımlarımızla bu sözlüğe kaydediyoruz. biri bize kötü mü davrandı, üzgün/öfkeli/aşağılanmış mı hissettik? hemen zihnimizdeki saklı sözlüğümüzü açıyoruz ve bize yöneltilen davranışın/sözün/tavrın oluşturduğumuz sözlüğe göre ne demek olduğuna bakarak ne hissedeceğimize karar veriyoruz. işte, bu sözlüğümüzde yalan yanlış, çarpık, saçma sapan o kadar çok tanım var ki, güncellememiz lazım. ilk önce, farkına varmamız lazım, sözlüğünüzü açın ve bakın, çocukken size öğretilen ve mantıklı/doğru bulduğunuz şeyleri şimdi ne kadar anlamsız, acımasız, taraflı bulacaksınız! işte, size yöneltilen haklı/haksız davranışları/eleştirileri ne kadar çarpık, anlamsız, acımasız olarak yorumladığınızı/tanımladığınızı görmek bir farkındalıktır. aile, arkadaş, akraba vs. başkaları yazdırdı o sözlüğü aslında. sizin tanımlarınız, doğrularınız, düşünceleriniz değil onlar. atın gitsin o sözlüğü. öfkeli/üzgün hissettiğinizde içinize dönün, sorgulayın kendinizi. dürüst olun ama kendinize yakıştırmadığınız, asla, mümkün değil dediğiniz soruları sormaktan ve bunlara dürüstçe cevap vermekten korkmayın. kolay olmayacak çünkü aslında olduğumuz kişiyle, olduğumuzu sandığımız kişi birbirinden ne kadar farklıysa o kadar çok üzüleceğiz ama sonunda kendimizi bilip tanıyabileceğiz ki buna değer. bu süreç ömür boyu süren bir süreç olacak: kendini tanıma süreci. acelemiz yok zaten, yavaş yavaş gidin ve yolun tadını çıkarın :)
   entry_channels: anket,ilişkiler
@@ -102,7 +94,7 @@ data:
     kıraathane kekine isim önerileri
   entry_id:  77958081
   entry_writer: bosmuhendis
-  entry_fav_count: 196
+  entry_fav_count: 203
   entry_content: |
     15 temmuz demokrasi keki
   entry_channels: siyaset,anket,yeme-içme
@@ -118,7 +110,7 @@ data:
     muharrem ince'nin pkk'yla savaşmayacağı gerçeği
   entry_id:  77952380
   entry_writer: infire
-  entry_fav_count: 180
+  entry_fav_count: 184
   entry_content: |
     kesinlikle pkk ile savaşmayacak aksine pkk lıları dağdan indirip davul zurnayla karşılayacaktır
   entry_channels: siyaset,anket,ilişkiler,tv,haber
@@ -126,7 +118,7 @@ data:
     11 haziran 2018 muharrem ince diyarbakır mitingi
   entry_id:  77957525
   entry_writer: rencidefelek
-  entry_fav_count: 168
+  entry_fav_count: 173
   entry_content: |
     inanamadığım mitingtir.<br/><br/>30 senedir chp'nin adı yok güneydoğu'da. son seçimde aldığı oy da belli. ama şu anki kalabalık gerçekten inanılır gibi değil.<br/><br/>chpli değilim. her seçimde "gitti bu adam" hiç demedim. ama 2. tura kalacağımız ve 2. turda rte'ye bye bye diyeceğimiz kesin gözüküyor şu an. dilediğince hile yapsın.<br/><br/>siz 7/24 kürtlere hakaret etmeye devam edin. 2. turda ince'ye oy verecekler. tıpkı seküler türklerin de hdp'yi meclise sokacağı gibi.<br/><br/>aşırı duygulanıyorum. el ele verdik cumhuriyet'i kurtarıyoruz.<br/><br/>not: yahu kürt değilim :)
   entry_channels: siyaset,haber
@@ -134,7 +126,7 @@ data:
     uber'in ipini çektik
   entry_id:  77960951
   entry_writer: koministimam2
-  entry_fav_count: 158
+  entry_fav_count: 167
   entry_content: |
     çekin çekin. istanbul’da 20 milyon insanın yararlandığı <a class="b" href="/?q=%c3%bcber">über</a>i, 1000 tane taksisi var diye <a class="b" href="/?q=fak%c4%b1baba">fakıbaba</a> nın talimatı ile bitirin, bakın kulağınızın dibine nasıl bir tokat yiyeceksiniz....
   entry_channels: siyaset,haber
@@ -142,18 +134,18 @@ data:
     jeneriği atlanmadan izlenen diziler
   entry_id:  77954937
   entry_writer: ebolaks
-  entry_fav_count: 123
+  entry_fav_count: 127
   entry_content: |
     tabi ki (bkz: <a class="b" href="/?q=true+detective">true detective</a>) 1. sezon
   entry_channels: anket,tv
 - entry_name: |
-    11 haziran 2018 pkk'da tutsak türk askerleri
-  entry_id:  77946848
-  entry_writer: anorthosis famagusta
-  entry_fav_count: 99
+    muharrem ince ve danışmanlarına duyurular
+  entry_id:  77932399
+  entry_writer: appeal
+  entry_fav_count: 93
   entry_content: |
-    adam kullanılan gerilla ve esir terimleri demiş, ulan teröristlerin eline düşen adam nasıl terörist diyebilir adamların elindeyken. mecbur ifadelerini seçecek. kafanızı az çalıştırın.<br/><br/>umarım tez zamanda özgürlüklerine kavuşurlar teröristlerin elinden kurtulup.
-  entry_channels: siyaset
+    tayyip erdogan surekli mitinglerde ince'nin kilicdaroglu'nu elestirdigi goruntuleri izletiyor. ince cikip "ben genel baskanim bile yanlis yaptiginda karsisinda durmus adamim, taraf degil dogru olmak bizim icin onemli. bunlari izlettigin icin tesekkur ederim recep erdogan, halk goruyor ki yanlis gordugu anda sesi cikan bir cumhurbaskani olacak. bizden diye kimseye goz yumamam. hakli olanin hakkini kim olursa olsun ararim!" diyip izlettirdigi tum goruntuleri gole cevirebilir. :)
+  entry_channels: siyaset,haber
 - entry_name: |
     kandilde alkollüsün bir de sedye mi istiyorsun
   entry_id:  77932468
@@ -163,14 +155,6 @@ data:
     mesleğinden olmasını, aç kalmasını, kaldırım taşlarını emiklerken gebermesini umduğum kişinin söylemi.<br/>böyle tiplere herkesin istediği her zaman alkol alabileceğini öğreteceğiz.<br/><br/>not: müslümanım. şu ana dek oruç kaçırmadım bu sene. insanın günaha girme özgürlüğünün olduğunu kurandan biliyorum.
   entry_channels: sağlık,haber
 - entry_name: |
-    muharrem ince ve danışmanlarına duyurular
-  entry_id:  77932399
-  entry_writer: appeal
-  entry_fav_count: 89
-  entry_content: |
-    tayyip erdogan surekli mitinglerde ince'nin kilicdaroglu'nu elestirdigi goruntuleri izletiyor. ince cikip "ben genel baskanim bile yanlis yaptiginda karsisinda durmus adamim, taraf degil dogru olmak bizim icin onemli. bunlari izlettigin icin tesekkur ederim recep erdogan, halk goruyor ki yanlis gordugu anda sesi cikan bir cumhurbaskani olacak. bizden diye kimseye goz yumamam. hakli olanin hakkini kim olursa olsun ararim!" diyip izlettirdigi tum goruntuleri gole cevirebilir. :)
-  entry_channels: siyaset,haber
-- entry_name: |
     ev ile iş yeri arasındaki mesafe
   entry_id:  77941161
   entry_writer: at yuregi
@@ -178,6 +162,14 @@ data:
   entry_content: |
     20 dakika yürüyüşün ardından 4 vesait ve bir 20 dakika daha yürüyüş. bu sadece ulaşabilmek içindir (not: kıta aşımı dahil olup bugüne kadar kullanılmayan tek vesait helikopterdir. bisiklet bile denenmiştir. ancak takım elbiseyle pek rahatsız olmaktadır).
   entry_channels: anket
+- entry_name: |
+    11 haziran 2018 ssg'nin tweet'i
+  entry_id:  77965332
+  entry_writer: penguent
+  entry_fav_count: 63
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bsg">bsg</a>)<br/><br/>edit: bu entry nedeniyle sözlükten atılır mıyım diye ciddi ciddi tırsmaya başladım. atarlarsa hakkımı savunun canlar.
+  entry_channels: 
 - entry_name: |
     aykut kocaman
   entry_id:  77935841
@@ -198,18 +190,42 @@ data:
     a haber'in beyin yakan eski chpli röportajı
   entry_id:  77963916
   entry_writer: hayalmuhendisi
-  entry_fav_count: 43
+  entry_fav_count: 52
   entry_content: |
     <a class="b" href="/?q=asimetrik">asimetrik</a>: simetrik olmayan<br/><a class="b" href="/?q=anormal">anormal</a>: normal olmayan<br/><a class="b" href="/?q=ahaber">ahaber</a>: haber olmayan
   entry_channels: siyaset,tv,haber
 - entry_name: |
+    şahsiyet (dizi)
+  entry_id:  77936385
+  entry_writer: firstfear
+  entry_fav_count: 43
+  entry_content: |
+    "herkesin zaafları vardır ama bu zaaflara düşüp düşmemek bir şahsiyet meselesidir.."<br/><br/>edit:nevra'nın amiri tolganın, konsomatrislerle yakaladığı savcıya, eşime söyleyecek misin bu gördüklerini sözlerine, cevabı.
+  entry_channels: tv,spoiler
+- entry_name: |
     survivor 2018 all-star
   entry_id:  77933338
   entry_writer: zifir zift
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     -survivor ekstraya hoşgeldiniz<br/>-şimdi tv 8,5 a geçiyoruz<br/>- hoşcakalın<br/><br/>demesi için ezgi'ye kaç para veriyorsun acun?
   entry_channels: tv,magazin
+- entry_name: |
+    haddinden fazla anlam yüklenen şeyler
+  entry_id:  77958611
+  entry_writer: aristonunpilavi
+  entry_fav_count: 38
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%bcniversite+okumak">üniversite okumak</a>)
+  entry_channels: anket
+- entry_name: |
+    pkk'nın saldırı görüntüleri
+  entry_id:  77961072
+  entry_writer: rete mirabile
+  entry_fav_count: 36
+  entry_content: |
+    90 sonu 2000 başlarında içgüvenlik harekat eğitimi alan asteğmenlere ilk anlatılan intikal halinde gözün göreceği kadar uzak olmak koşulu ile intikal grubunda kişiler arasına boşluk bırakılmasıydı. 15-20 kişilik timin belki 1 km’lik yürüyüş kolu oluşturduğunu bilirim.<br/><br/>burda ki arkadaşlar kır gezisine çıkmış gibi dipdibe yürüyorlar ve hepsi öldü. eğer yukarıda söylediğim duruma uyulsaydı bu kadar yaklaşacak cesareti bulamazlardı. <br/><br/>ne yazık ki tsk’ da bazı temel askeri ve taktik kurallar bile ihmal edilecek kadar laçkalaşmış, ruhları şaad olsun fakat tamamen acemilikten dolayı yok yere canlar verilmiş.<br/><br/>derler ya içim acıdı yahu..
+  entry_channels: siyaset,tv,tarih,haber
 - entry_name: |
     muharrem ince
   entry_id:  77938767
@@ -219,37 +235,37 @@ data:
     hocam son düzlükte tavsiyeler;<br/><br/>1-ne olur annenin olduğu videoyu reklam olarak tv'lerde göster. ben bu videoyu hangi akp'li tanıdığıma göstersem şok olmuş bir şekilde sessizce izliyorlar...<br/><br/>2- ekonomiye yüklen... "ben iş diyorum, aş diyorum adam kek diyor" vuruşları mükemmeldi.<br/>bunları geliştir, özellikle suriyeleri göndermeye ve fetö'yü ayağıma getireceğim vaatlerine şiddetli bir şekilde oyna.<br/><br/>3- erdoğan'a bulaşmayı biraz kıs. burayı zaten müthiş hallettin. insanların korktuğu adamı resmen itibarsızlaştırdın, akp'liler bile yaptığın esprilere, gösterdiğin videolarla meydanlarda eğlendi... şimdi biraz daha vaatlere yönelebilirsin fakat olur da erdoğan sana laf atarsa "ben iş diyorum adam kek diyor"daki gibi hazırcevap kısa kapaklar yap geç.<br/><br/>allah yardımcın olsun muharrem abi...
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
-    pkk'nın saldırı görüntüleri
-  entry_id:  77961072
-  entry_writer: rete mirabile
-  entry_fav_count: 31
-  entry_content: |
-    90 sonu 2000 başlarında içgüvenlik harekat eğitimi alan asteğmenlere ilk anlatılan intikal halinde gözün göreceği kadar uzak olmak koşulu ile intikal grubunda kişiler arasına boşluk bırakılmasıydı. 15-20 kişilik timin belki 1 km’lik yürüyüş kolu oluşturduğunu bilirim.<br/><br/>burda ki arkadaşlar kır gezisine çıkmış gibi dipdibe yürüyorlar ve hepsi öldü. eğer yukarıda söylediğim duruma uyulsaydı bu kadar yaklaşacak cesareti bulamazlardı. <br/><br/>ne yazık ki tsk’ da bazı temel askeri ve taktik kurallar bile ihmal edilecek kadar laçkalaşmış, ruhları şaad olsun fakat tamamen acemilikten dolayı yok yere canlar verilmiş.<br/><br/>derler ya içim acıdı yahu..
-  entry_channels: siyaset,tv,tarih,haber
-- entry_name: |
-    ben evrencan gündüz sorularınızı yanıtlıyorum
-  entry_id:  77959636
-  entry_writer: pixtur
-  entry_fav_count: 30
-  entry_content: |
-    babana benzeyen güzel ruhunu kaybetme lütfen.
-  entry_channels: anket,ekşi-sözlük,sanat,müzik
-- entry_name: |
     2.5 milyon daha mültecinin türkiye'ye gelmesi
   entry_id:  77959077
   entry_writer: rowt
-  entry_fav_count: 30
+  entry_fav_count: 32
   entry_content: |
     idlib’deki mültecilerin tamamı radikal islamcılar. orası zaten toplama bölgesiydi. ahrar, işid ve diğerleri o bölgede barınıyor son bir yıldır. rusya üstümüze süpürecek bunları. sadece akp’nin değil bu cumhuriyet’in de sonu olacak bu it soyları.
   entry_channels: siyaset
 - entry_name: |
+    ben evrencan gündüz sorularınızı yanıtlıyorum
+  entry_id:  77959636
+  entry_writer: pixtur
+  entry_fav_count: 31
+  entry_content: |
+    babana benzeyen güzel ruhunu kaybetme lütfen.
+  entry_channels: anket,ekşi-sözlük,sanat,müzik
+- entry_name: |
     hafta içi işten gelip yemek yerken izlemelik dizi
   entry_id:  77958536
   entry_writer: kagatayu
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     "the office" bazen ekrana ağzındakiler gelebilir ama
   entry_channels: anket,tv
+- entry_name: |
+    bir erkeğin aşık olma nedenleri
+  entry_id:  77962464
+  entry_writer: dersaadet vapurlari kadrolu isportacisi
+  entry_fav_count: 26
+  entry_content: |
+    insana kahkaha attıran sadece mizah değildir, mutluluk da yapar bunu. cinsiyetten bağımsızdır, komiklik yapmadan kahkaha attırabilen insana, aşık değilsek bile güçlü bir şekilde bağlanmışızdır, diye düşünüyorum.<br/><br/>kişi gün içinde yaptıklarını "bunu ona anlatmalıyım" hissiyle yaşıyorsa, orada aşktan söz edilebilir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     tanrıyla tanışmak
   entry_id:  77932535
@@ -259,37 +275,13 @@ data:
     bu dünyada yaptığınıza inandırırsanız peygamber, inandıramazsanız deli olarak nitelendirilirsiniz.<br/><br/>not: müslüman.
   entry_channels: ilişkiler,bilim
 - entry_name: |
-    carrefour'un bebek mamasına hırsız alarmı takması
-  entry_id:  77951777
-  entry_writer: maximusti
+    rte'nin bursa'da ayağa kalk sakarya demesi
+  entry_id:  77964024
+  entry_writer: sahip cikilan dede
   entry_fav_count: 24
   entry_content: |
-    herşeyi geç, orası bir ticarethane.. orası alıp satmakla yükümlü, kimin çocuğu açtır, kiminki toktur onu düşünecek kişi carrefour değil. özellikle pahalı bir kalem ürününde sürekli çalınma, hırsızlık oluyorsa eğer ona önlem alınması gayet normal. <br/><br/>ama ilk entrydeki arkadaş kasiyerin öyle allah din karıştırmasına gıcık olmuş, o da ayrı bir sığırlık (kasiyerin konuşması).
-  entry_channels: teknoloji,sağlık,yeme-içme,ekonomi
-- entry_name: |
-    meral akşener
-  entry_id:  77932663
-  entry_writer: sonra ben de dedim ki
-  entry_fav_count: 22
-  entry_content: |
-    tek başına seçimi kurtaran kişi olmuş, meclis çoğunluğunu eski muhalefet bloğunda toplamıştır.<br/><br/>teşekkürü bir borç biliriz.
-  entry_channels: siyaset
-- entry_name: |
-    taksiden fiş almak
-  entry_id:  77948009
-  entry_writer: esmcmlxves
-  entry_fav_count: 21
-  entry_content: |
-    kesinlikle, bir de plaka ifşa başlığı açalım. <br/><br/>kısa mesafe diye almadı mı? <br/>fazla para mı istedi? <br/>araba mı pisti? <br/>şoför mü kabaydı?<br/>kötü mü kullandı?<br/>sigara mı içti?<br/>kaba mı davrandı? <br/>arabada göze çarpan teknik bir sorun mu vardı?<br/><br/>yaz plakayı, toplu şikayet edilsin. <br/><br/>madem uber’i istemiyorsunuz, yükseltin bakalım hizmet kalitesi standartlarınızı.
-  entry_channels: otomotiv,ekonomi,seyahat
-- entry_name: |
-    bir erkeğin aşık olma nedenleri
-  entry_id:  77962464
-  entry_writer: dersaadet vapurlari kadrolu isportacisi
-  entry_fav_count: 20
-  entry_content: |
-    insana kahkaha attıran sadece mizah değildir, mutluluk da yapar bunu. cinsiyetten bağımsızdır, komiklik yapmadan kahkaha attırabilen insana, aşık değilsek bile güçlü bir şekilde bağlanmışızdır, diye düşünüyorum.<br/><br/>kişi gün içinde yaptıklarını "bunu ona anlatmalıyım" hissiyle yaşıyorsa, orada aşktan söz edilebilir.
-  entry_channels: anket,ilişkiler
+    mitingi bitirirken gerçekleşmiştir. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/o2cuu" title="https://streamable.com/o2cuu">fetö’nün 15 temmuz öncesi okuduğu şiir ve tayyip’in kapanışı</a><br/><br/>hayırdır? bu videodaki gibi bağlantıyı kuralım mı bizde?
+  entry_channels: siyaset,haber
 - entry_name: |
     ekşi itiraf
   entry_id:  77948116
@@ -299,21 +291,21 @@ data:
     biz nasıl delirmiyoruz?<br/><br/>cuma gecesi caddedeki mitingin coşkusu sarmış her yeri, tam böyle umutlanıyor gibi oluyorsun aynı anda kadıköy'de polis otobüsünde dövülen çocukların videoları düşüyor. bir anda çocukluk travmaları fırlıyor saklandığı yerden. <a class="b" href="/?q=manisa+davas%c4%b1">manisa davası</a>, <a class="b" href="/?q=o+daha+%c3%a7ok+k%c3%bc%c3%a7%c3%bck">o daha çok küçük</a>...<br/>gecenin bir yarısı, bir yanında umut diğer yanında işkence görüntüleri. insan aklını nasıl kaçırmıyor? öfke ve sabır bir türlü yenişemiyor.<br/><br/>sonra <a class="b" href="/?q=%c5%9fahsiyet">şahsiyet</a>'i bitireyim diyorsun. türkiye'nin olmaz olası gerçekleri sarıyor her yerini. sert bir tokat iniyor suratına, hatırla diyor. hatırlıyoruz da bu sadece acı veriyor. birileri hiç unutmamış bak üstüne bölümlerce dizi çekmiş diyorsun. iyi bir şey bu. biraz için rahatlar gibi oluyor ama o gece de kabus görüyorsun. <sup class="ab"><a title="(bkz: hakan günday)" href="/?q=hakan+g%c3%bcnday" data-query="hakan günday">*</a></sup> <sup class="ab"><a title="(bkz: kalp kalp kalp)" href="/?q=kalp+kalp+kalp" data-query="kalp kalp kalp">*</a></sup><br/><br/>tam o ara ince'nin <a class="b" href="/?q=ba%c5%9fak+demirta%c5%9f">başak demirtaş</a>'ı ziyareti için sosyal medyada yazılanları okuyorsun. ülkeye atom bombası atasın geliyor. bunlarla olmaz diyorsun, bu zihniyetle temiz bir başlangıç yapılmaz. yılıyorsun. <br/><br/>yetmedi gidip üstüne <a class="b" href="/?q=ahlat+a%c4%9fac%c4%b1">ahlat ağacı</a> izliyorsun. ülkedeki tüm babaların kaderi oğluna... nasıl bir iç sıkıntısı, nasıl güzel bir çaresizlik anlatımı. bir yanın mutlu diğer yanın bezgin.<br/><br/>sonra ülkenin cumhurbaşkanı seçimdeki rakiplerinden birini idam etmekten bahsediyor. kalabalık idam diye bağırıyor, cumhurbaşkanı önüme yasa gelse imzalarım diyor. dünya siyaset tarihinde eşi benzeri var mı bunun? ve biz neden delicesine şaşırmıyoruz da sadece "bunu da mı söylediler" deyip geçiyoruz. delirdik mi yoksa sabırdan erdik mi?<br/><br/>kandil gecesi alkol komasına girene tedavi hakkı vermeyen hemşireyi görüyorsun. insanlardaki cür'ette şaşıp, aklından sadece liyakatı geçiriyorsun. <br/><br/>bak bunların hepsi üç günde oluyor. psikolojin böyle inip çıkıyor. daha arada kişisel dertlerimizi sevinçlerimizi hiç söylemiyorum. oğlan çarşamba anestezili mr'a girecek, karnımda bir ağrı, geçmiyor.<br/>çare yok, beşinci günün şafağında doğuya bakacağım ben. belki gelir...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    rte'nin bursa'da ayağa kalk sakarya demesi
-  entry_id:  77964024
-  entry_writer: sahip cikilan dede
+    taksiden fiş almak
+  entry_id:  77947936
+  entry_writer: su semenderi
   entry_fav_count: 15
   entry_content: |
-    mitingi bitirirken gerçekleşmiştir. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/o2cuu" title="https://streamable.com/o2cuu">fetö’nün 15 temmuz öncesi okuduğu şiir ve tayyip’in kapanışı</a><br/><br/>hayırdır? bu videodaki gibi bağlantıyı kuralım mı bizde?
-  entry_channels: siyaset,haber
+    böyle bir kampanyanın yapılması zorunlu hale gelmiş durumda, nasıl olsa “bu ülkede hiç kimse bedavadan para kazanamaz”. <br/><br/>bunu yapmak için illa çalıştığımız şirketin yol masraflarını karşılamasına gerek yok.
+  entry_channels: otomotiv,ekonomi,seyahat
 - entry_name: |
-    haddinden fazla anlam yüklenen şeyler
-  entry_id:  77958227
-  entry_writer: 1000 atli akinlarda ben olmayan cocuk
-  entry_fav_count: 11
+    11 haziran 2018 tofaş fenerbahçe doğuş maçı
+  entry_id:  77964279
+  entry_writer: eseksudangelinceyekadar
+  entry_fav_count: 8
   entry_content: |
-    bir örnek olarak;<br/>ölen rockstarların ardından, ekşicilerin kendilerini yerlere ata ata ağlamalarıdır.
-  entry_channels: anket
+    izmir marşı’na alkış tutan ali koç ve öküz gibi etrafını seyreden hido. başka söze gerek yok.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mustafahos/status/1006252856628928513?s=21" title="https://twitter.com/mustafahos/status/1006252856628928513?s=21">o anlar</a>
+  entry_channels: spor
 - entry_name: |
     starbucks'ı boşver kıraathaneye gidelim diyen kız
   entry_id:  77963289
@@ -323,13 +315,21 @@ data:
     sevgilisine çay ve kek eşliğinde <a class="b" href="/?q=minyeli+abdullah">minyeli abdullah</a> okuyacaktır.
   entry_channels: 
 - entry_name: |
-    11 haziran 2018 tofaş fenerbahçe doğuş maçı
-  entry_id:  77963735
-  entry_writer: esco bar
+    burhan altıntop
+  entry_id:  77935353
+  entry_writer: sirma
   entry_fav_count: 4
   entry_content: |
-    <a class="b" href="/?q=ihsan+bay%c3%bclken">ihsan bayülken</a> ve <a class="b" href="/?q=murat+kosova">murat kosova</a>'nın fenerbahçe'nin rakibini güzelleme maçlarından biri daha. resmen her maç ararlar rakibin güzellenecek bir yanını. <br/><br/><a class="b" href="/?q=tony+crocker">tony crocker</a> <a class="b" href="/?q=sloukas">sloukas</a>'a resmen çelme taktı, sportmenlik dışı olması gereken pozisyona faul bile çalmadı hakemler. bizim spikerler ne diyor peki 'gözünden kaçmış çünkü ayağını hemen çekmiş'. <br/><br/>yok efendim seriye fenerbahçe 1-0 önde başlamışmış o sayılmazmış, 40 sayı varmış. sanırsın birileri kıyak geçti de o fark oluştu. <br/><br/>fener iyi oynayınca 40 sayı fark oldu, normal oynayınca 2. maçta 8 sayı farkla aldı, 3. maçta kötü oynayıp rakip de şanslı olunca son saniye basketi ile 3 sayı fark ile kaybettik işte. burdan bile şu sonuç çıkıyor; fenerbahçe'nin yenilmesi için her şeyin fener aleyhine 4/4lük gerçekleşmesi lazım. 3/4 gerçekleşse bile koyup geçiyoruz. <br/><br/>bu maç mı? ligin en centilmen takımlarından olup final serisinde çirkefe bağlayan takıma koyuyoruz.<br/><br/>edit: hakemlerin orospu çocukluğuna başladığı maç. <a class="b" href="/?q=wanamaker">wanamaker</a> potaya giderken faul yapılıyor, hareket devam edip basket faul için potaya giderken 2. faul geliyor. basket faul olması gerek ama hakemlerimiz ne yapıyor? götünden kural uyduruyor. <br/>ne pislik bir liginiz var lan!<br/><br/><a class="b" href="/?q=pierrie+henry">pierrie henry</a>'ye önceki maçta da yerdeyken faul yapılmıştı ama hakem basket faul vermişti, bu maçta da aynısını yaptı. <br/><br/>işte bu yüzden türkiye'de fenerbahçe'yi zorlayan takımlar (bkz: <a class="b" href="/?q=galatasaray">galatasaray</a>) geçen sene <a class="b" href="/?q=euroleague">euroleague</a> sonuncusu oldu, bu sene de (bkz: <a class="b" href="/?q=anadolu+efes">anadolu efes</a>) sonuncu oldu. çünkü yok orda burdaki adi hakemler.
-  entry_channels: spor
+    benim için açık ara türk dizi tarihinin en komik karakteridir.<br/><br/>balkonda yaşadığı, mangal yapıp, karşı komşuyu taciz ettiği bölüm ile kahvehane bağımlısı olduğu bölüm ilk aklıma gelen efsane sahneleri.
+  entry_channels: tv
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  77962607
+  entry_writer: umittaciri
+  entry_fav_count: 3
+  entry_content: |
+    günün anlam ve önemine binaen<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/k1gRK8hwqkY" title="https://youtu.be/k1gRK8hwqkY">sting-soul cake</a>
+  entry_channels: anket,müzik
 - entry_name: |
     iftara 1 saat kala sevişelim diye mesaj atan kız
   entry_id:  77960781
@@ -339,21 +339,21 @@ data:
     başlığı açan arkadaşın telefonunu hack'leyerek ulaştığım mesajdır:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/Q2AJgr.png">https://i.hizliresim.com/q2ajgr.png</a><br/><br/>acayip kız.
   entry_channels: ilişkiler
 - entry_name: |
-    çukur (dizi)
-  entry_id:  77954199
-  entry_writer: yol yorgunu
-  entry_fav_count: 3
-  entry_content: |
-    öner erkan'ın oyunculuğuna şapka çıkartılması gereken dizi. ne biçim oynuyor adam be! maşallah!
-  entry_channels: tv,spoiler
-- entry_name: |
     her kadın kendini özel ve güzel hissetmelidir
   entry_id:  77965285
   entry_writer: burakowski
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     özel ve güzel hissedebilmeleri için karşısındaki erkeğin iflahını sikip atabilmelerini legalleştiren bir söylemdir. doğrudur, fakat cinsiyetçidir.<br/><br/>bunun bir üst seviyesi:<br/>(bkz: <a class="b" href="/?q=her+kad%c4%b1n+kendini+tap%c4%b1labilir+hissetmelidir">her kadın kendini tapılabilir hissetmelidir</a>)
   entry_channels: ilişkiler
+- entry_name: |
+    babala tv meral akşener röportajı
+  entry_id:  77966003
+  entry_writer: sozluge ilk kez geldigimde aldigim nick
+  entry_fav_count: 3
+  entry_content: |
+    oğuzhan uğur: neden milletvekili maaşlarını düşürmeyi teklif etmiyorlar diğer soru gelmiş.<br/><br/>meral akşener: ben milletvekili adayı olmadığıma göre, yani düşünülebilinir. bence sorun yok.<br/><br/>ahahahaahahaha<br/><br/>çok keyifli bir röportaj olmuş.
+  entry_channels: siyaset
 - entry_name: |
     türk hava yolları 85. yıl reklamı
   entry_id:  77964447
@@ -362,14 +362,6 @@ data:
   entry_content: |
     yine yeniden ulu önder atatürk'ten bahsedilmeyen thy reklamıdır.<br/><br/>"istikbal göklerdedir"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.pinterest.com/pin/408912841157862181/">https://tr.pinterest.com/pin/408912841157862181/</a>
   entry_channels: havacılık
-- entry_name: |
-    babala tv meral akşener röportajı
-  entry_id:  77965043
-  entry_writer: professor james moriarty
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=babala+tv+ne+amk">babala tv ne amk</a>)
-  entry_channels: siyaset
 - entry_name: |
     vincent aboubakar
   entry_id:  77962462
@@ -387,6 +379,14 @@ data:
     fifa sersinin en berbat oyunudur bir oyunun oynanışına bu kadar müdehale edilemez sene başından beri belki 20 kez oynanışı değişti ve sonunda ben ve 3 arkadaşıma oyunu bıraktırmayı başardılar
   entry_channels: spor,oyun
 - entry_name: |
+    erasmus
+  entry_id:  77965943
+  entry_writer: nordveg
+  entry_fav_count: 0
+  entry_content: |
+    acemi birliğini <a class="b" href="/?q=toulouse">toulouse</a>'da yapanlarla veya genel olarak <a class="b" href="/?q=fransa">fransa</a>'ya gidecek olanlarla konuşabiliriz.
+  entry_channels: bilim,eğitim
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  77951403
   entry_writer: aelfric
@@ -395,11 +395,11 @@ data:
     yaş 29, yazılımcıyım. sohbet, tanışma, dertleşme. gülümseyin ve umudunuzu kaybetmeyin.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ribony.com/aelfric">https://ribony.com/aelfric</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    11 haziran 2018 ssg nin tweeti
-  entry_id:  77965748
-  entry_writer: başlık taşıyan
+    çukur (dizi)
+  entry_id:  77950418
+  entry_writer: bazooka
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=11+haziran+2018+ssg%27nin+tweet%27i">11 haziran 2018 ssg'nin tweet'i</a>)
-  entry_channels: siyaset,ekşi-sözlük
+    ufuk bayraktar sizin için geliyorum diyor. cumali koçovalı karakteri sanırım.
+  entry_channels: tv,spoiler
 ---
