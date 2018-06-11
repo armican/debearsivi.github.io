@@ -23,11 +23,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/8X2kIfS6fb8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    The way this man described a Canadian goose
-  entry_id: 8q2uuz
-  entry_content: |
-    <img src=https://i.redditmedia.com/nVLTyMUevWz7WDQtmWz5K1QNP4rcWMx3s8IgHWBARBw.jpg?s=48ce40fd0d1137ca7b5fe2f5ef56b335 frameborder=0>
-- entry_name: |
     Charlie Chaplin: inventor of memes
   entry_id: 8q7q9c
   entry_content: |
@@ -138,11 +133,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/i1nv3ae698311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Every glass of beer from a local craft brewery has a dad joke on the back
-  entry_id: 8q2vht
-  entry_content: |
-    <img src=https://i.redditmedia.com/nNQesNVwm9tHiX_ZbWFNa6Jre72A53aj7r47yB1QmD8.jpg?s=52a3fdea4181cac83c9dc91aba946237 frameborder=0>
-- entry_name: |
     meirl
   entry_id: 8q3nmn
   entry_content: |
@@ -251,4 +241,13 @@ data:
   entry_id: 8q6atv
   entry_content: |
     <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
+- entry_name: |
+    Donald Trump accuses India of charging 100% tariff, says trade might stop
+  entry_id: 8q8edw
+  entry_content: |
+    <img src=https://i.redditmedia.com/mXasFI_aPj-Ps5_U9fcLkpNf_jtH6pb89E9gtuCsX58.jpg?s=e20ffa76c87f1df16f26c04fc1eeb244 frameborder=0>
+- entry_name: |
+  entry_id: 8q4yzm
+  entry_content: |
+    <img src=https://i.redditmedia.com/D3qS2Unm53rKulaJ_RlJW9kev7G_fbKvpi9g_5zxp2s.jpg?s=a15dc671ba27423d7ed1afa5d9125219 frameborder=0>
 ---
