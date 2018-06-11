@@ -28,15 +28,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/raYEhhfXf9xygO3amS1h7KR_u35OqONAd8VBGFQFntg.jpg?s=c768810f29a5961d2de6f45662714cfe frameborder=0>
 - entry_name: |
-    Police boy staying in shape
-  entry_id: 8q4j79
+    Fallout 76 confirmed to include an area based on the /r/fallout sub
+  entry_id: 8q9eof
   entry_content: |
-    <iframe src=https://v.redd.it/6pwst4plae311/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/v2nlvaU1uH4EBqPxX20IwVb034bntNiiCVgdVy2mWIw.jpg?s=7ba3362529eb67404c36eee26854b6e9 frameborder=0>
 - entry_name: |
     Elder Scrolls VI E3 Teaser
   entry_id: 8q65aj
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/OkFdqqyI8y4?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Police boy staying in shape
+  entry_id: 8q4j79
+  entry_content: |
+    <iframe src=https://v.redd.it/6pwst4plae311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Your dog thinks fetch is a game that the two of you made up, and he loves you for that
   entry_id: 8q5qfs
@@ -58,15 +63,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uHXsQmIGTd7lFpwxNjwdMYBDUp7MvAM6iKIW1fJ7bN0.jpg?s=f6868fa3a8a5a6c6a0649750fc7c0697 frameborder=0>
 - entry_name: |
+    National Geographic magazine that warns about danger of plastic bags comes inside a plastic bag that is inside a plastic bag
+  entry_id: 8q8qj5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Tak3FagK0P8a2D7Pcr11oBtKUFjOtRhmpHZ35MwT-ko.png?s=4a23178fa08226f79d1f55c199e59c06 frameborder=0>
+- entry_name: |
     TIL Raccoons in an experiment were able to open 11 of 13 locks in fewer than 10 tries and had no problems repeating the action when the locks were rearranged or turned upside down. They could also remember the solutions to tasks for 3 years.
   entry_id: 8q4ara
   entry_content: |
     <img src=https://i.redditmedia.com/nFt2QZ4345sPL-VG08CijwIUIeaZkU3sFJFRHvW7nPY.jpg?s=e32a89b6d311291124535ebf27ee95df frameborder=0>
-- entry_name: |
-    Fallout 76 confirmed to include an area based on the /r/fallout sub
-  entry_id: 8q9eof
-  entry_content: |
-    <img src=https://i.redditmedia.com/v2nlvaU1uH4EBqPxX20IwVb034bntNiiCVgdVy2mWIw.jpg?s=7ba3362529eb67404c36eee26854b6e9 frameborder=0>
 - entry_name: |
     FUCK YEAH!
   entry_id: 8q8oph
@@ -78,10 +83,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FmIjVM5yja5XmiwcN3rFQnhO7VdC3Yi_d4PgYKc7Yyk.jpg?s=fd1293b2e465c1ad8e25cbff780e03a2 frameborder=0>
 - entry_name: |
-    National Geographic magazine that warns about danger of plastic bags comes inside a plastic bag that is inside a plastic bag
-  entry_id: 8q8qj5
+    TIL the rights to Back to the Future are entirely owned by the director, Robert Zemeckis, who has pledged for there to never, ever be a remake in his lifetime
+  entry_id: 8q9lpq
   entry_content: |
-    <img src=https://i.redditmedia.com/Tak3FagK0P8a2D7Pcr11oBtKUFjOtRhmpHZ35MwT-ko.png?s=4a23178fa08226f79d1f55c199e59c06 frameborder=0>
+    <img src=https://i.redditmedia.com/II7u-Vi792gpI-4RAO4rfBXzZ2ADAV9pktWZnUQHlYc.jpg?s=c033c0810c4b55cc20508af4a9ec284e frameborder=0>
 - entry_name: |
     Blue German Shepherd
   entry_id: 8q8mox
@@ -93,15 +98,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-wXloyomQRtzg58cZ0F4veT29EJf8AevH8wx4OME0bI.jpg?s=d760e9cb123103a26f9204bef2abbc75 frameborder=0>
 - entry_name: |
+    My grandfather was a Hispanic Conan O'Brien (1957)
+  entry_id: 8q6sai
+  entry_content: |
+    <img src=https://i.redditmedia.com/GIbRy_AT7sWb0zJxfRPHNbVqJDneJnCAJSPcArwoYEo.jpg?s=df60d58be858957ea2ffd02c83de7017 frameborder=0>
+- entry_name: |
     The woman pushing the car is blind. The man right next to her repeats every single thing he sees; What’s on sale, the brands and styles. I heard her say while choosing bath towels “ Please get me two white ones, I love the color white”... let us cherish the small gift that is eyesight!
   entry_id: 8q4kv0
   entry_content: |
     <img src=https://i.redditmedia.com/3hjIDj42ILMxF4Q-GFz2HBrczgz7zrQ6zXlVHSWvSfA.jpg?s=a0445bc2c51df1d6d305c7c1e009397b frameborder=0>
 - entry_name: |
-    My grandfather was a Hispanic Conan O'Brien (1957)
-  entry_id: 8q6sai
+    Finally someone said it
+  entry_id: 8q9bjm
   entry_content: |
-    <img src=https://i.redditmedia.com/GIbRy_AT7sWb0zJxfRPHNbVqJDneJnCAJSPcArwoYEo.jpg?s=df60d58be858957ea2ffd02c83de7017 frameborder=0>
+    <img src=https://i.redditmedia.com/mLPp7cKPxD-a0_JGIYcNcRYwHfHYptrn7Ofu9J0FP4I.jpg?s=2a768353710e99f974c5317142473d94 frameborder=0>
 - entry_name: |
     Atlantis Kida Cosplay by Maria Fernanda Galvao
   entry_id: 8q3u2h
@@ -113,15 +123,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wn2GHDSCzGi0dZBMpXHwS4bD-Om3zITeNHpdzESLjuA.jpg?s=f1ae012be683aa8fc935bbdc13479d21 frameborder=0>
 - entry_name: |
-    Doggo brings an unwilling friend
-  entry_id: 8q3lj9
-  entry_content: |
-    <iframe src=https://v.redd.it/tfbqm50ke8311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     TIL Margrethe II, the queen of Denmark, felt compelled to draw illustrations for The Lord of the Rings in the 70s and sent them to Tolkien himself. He noted her style was quite similar to his own. Her drawings were used as a basis for the illustrations in the Danish translation of the books.
   entry_id: 8q8bck
   entry_content: |
     <img src=https://i.redditmedia.com/UA19asXJmUDWnKnU4ayxjwaXuH14CoU8pYF5rOSq7g4.jpg?s=8d98e41e4af5a674a57bc2e494b9719b frameborder=0>
+- entry_name: |
+    Doggo brings an unwilling friend
+  entry_id: 8q3lj9
+  entry_content: |
+    <iframe src=https://v.redd.it/tfbqm50ke8311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     The view on Easter Island
   entry_id: 8q4dt8
@@ -133,10 +143,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/i1nv3ae698311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Town in Iceland paints 3D crosswalk to slow down speeding cars passing through the town center.
+  entry_id: 8q94xc
+  entry_content: |
+    <img src=https://i.redditmedia.com/EPmJ5h_Xz-VdqRPyGLStwHIA3KANzUeXc3v8TGh1SHI.jpg?s=e67a5b7848e013f4541d01f3e6020031 frameborder=0>
+- entry_name: |
     meirl
   entry_id: 8q3nmn
   entry_content: |
     <img src=https://i.redditmedia.com/84N1hTSRbwqsiC1jDVK3G1i-qmW8C2aGbx2sj5Jq7Q4.jpg?s=9078687f4ff0d1f45efb26683c13fa2e frameborder=0>
+- entry_name: |
+    Perfection
+  entry_id: 8q8bfx
+  entry_content: |
+    <img src=https://i.redditmedia.com/IRk3fHlkZQh7ZDpZKC-lUwua8mufCIC8Y8oV9n9QvSg.jpg?s=94ea28e71ceb7f0157c0863c27462df6 frameborder=0>
+- entry_name: |
+    Was removed from r/aww because it wasn't 100% happy, but my doggo is doing a recover from spinal surgery!
+  entry_id: 8q8rec
+  entry_content: |
+    <iframe src=https://v.redd.it/5r170ya7wc311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Nine-year-old girl placed into rehab for her Fortnite addiction
   entry_id: 8q3zv5
@@ -147,11 +172,6 @@ data:
   entry_id: 8q3892
   entry_content: |
     <iframe src=https://v.redd.it/sc1q03ksue311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Perfection
-  entry_id: 8q8bfx
-  entry_content: |
-    <img src=https://i.redditmedia.com/IRk3fHlkZQh7ZDpZKC-lUwua8mufCIC8Y8oV9n9QvSg.jpg?s=94ea28e71ceb7f0157c0863c27462df6 frameborder=0>
 - entry_name: |
     Trump tells Macron the EU is worse than China
   entry_id: 8q3uhf
@@ -182,40 +202,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/z0YyfFpqiy6Vw41qi0876v1ycqz9-qcQTwnF__utdEw.jpg?s=2367c436998fa559d3fbdc5254f0dc8b frameborder=0>
 - entry_name: |
-    TIL the rights to Back to the Future are entirely owned by the director, Robert Zemeckis, who has pledged for there to never, ever be a remake in his lifetime
-  entry_id: 8q9lpq
-  entry_content: |
-    <img src=https://i.redditmedia.com/II7u-Vi792gpI-4RAO4rfBXzZ2ADAV9pktWZnUQHlYc.jpg?s=c033c0810c4b55cc20508af4a9ec284e frameborder=0>
-- entry_name: |
-    Finally someone said it
-  entry_id: 8q9bjm
-  entry_content: |
-    <img src=https://i.redditmedia.com/mLPp7cKPxD-a0_JGIYcNcRYwHfHYptrn7Ofu9J0FP4I.jpg?s=2a768353710e99f974c5317142473d94 frameborder=0>
-- entry_name: |
-    Was removed from r/aww because it wasn't 100% happy, but my doggo is doing a recover from spinal surgery!
-  entry_id: 8q8rec
-  entry_content: |
-    <iframe src=https://v.redd.it/5r170ya7wc311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     When I'm asked to make a gif so good it will cure Summer Reddit
   entry_id: 8q78uv
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImprobableFickleKitty&url=https%3A%2F%2Fgfycat.com%2FImprobableFickleKitty&image=https%3A%2F%2Fthumbs.gfycat.com%2FImprobableFickleKitty-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=340 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Town in Iceland paints 3D crosswalk to slow down speeding cars passing through the town center.
-  entry_id: 8q94xc
+    All around me are familiar faces
+  entry_id: 8q9975
   entry_content: |
-    <img src=https://i.redditmedia.com/EPmJ5h_Xz-VdqRPyGLStwHIA3KANzUeXc3v8TGh1SHI.jpg?s=e67a5b7848e013f4541d01f3e6020031 frameborder=0>
+    <img src=https://i.redditmedia.com/Y1AabPEUOfwkPKyDfkyijiC33_IypSqzIKXVCgVZhE0.jpg?s=2eaff8e85b158a3d27ec6a5b07c2d105 frameborder=0>
+- entry_name: |
+    What free software is so good you can't believe it's free?
+  entry_id: 8q8qux
+  entry_content: |
+    null
+- entry_name: |
+    Donald Trump accuses India of charging 100% tariff, says trade might stop
+  entry_id: 8q8edw
+  entry_content: |
+    <img src=https://i.redditmedia.com/mXasFI_aPj-Ps5_U9fcLkpNf_jtH6pb89E9gtuCsX58.jpg?s=e20ffa76c87f1df16f26c04fc1eeb244 frameborder=0>
+- entry_name: |
+    When Youtube videos get deleted and there's no way in knowing what kind of videos were taken off your Youtube playlist... Am I the only one?
+  entry_id: 8q8t10
+  entry_content: |
+    <img src=https://i.redditmedia.com/cX4DYccUHjXZ1k1zTwZYh2p8gj0o0SZlcDuE0o9OHFM.jpg?s=bf42187ff46f50aaffdb28b643c56607 frameborder=0>
+- entry_name: |
+    Safety First!
+  entry_id: 8q7sg9
+  entry_content: |
+    <img src=https://i.redditmedia.com/FPsN19Yd9EP_ZT9pGmazrGNy4gx1zrUxEOCZWK8KBhY.jpg?s=e3834ab66d0f87c807711c89355694ad frameborder=0>
 - entry_name: |
     Trump routinely rips up papers that need to be preserved
   entry_id: 8q4bay
   entry_content: |
     <img src=https://i.redditmedia.com/zRhbgI8dnLmq7lCWXrjdMrDINrzCuzS40F2Uz2wBIjg.jpg?s=ceaa1b747fa7c2bc7bc4a06590ec0a60 frameborder=0>
 - entry_name: |
-    Justice
-  entry_id: 8q33pc
+    LeBron's dance at the playoffs finals.
+  entry_id: 8q8st6
   entry_content: |
-    <img src=https://i.redditmedia.com/r109qkgfhyPwddIWRDsO-get_IsAq8FKtpS4R6YblCM.jpg?s=798d51bf016a545c317cb3affdbb6f82 frameborder=0>
+    <iframe src=https://v.redd.it/e3n48ahtxc311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My dads first try at a pic of the milky way ...... he said it's not good enough to post on Reddit... so I'm posting it for him !!!!
   entry_id: 8q5mo0
@@ -226,28 +251,4 @@ data:
   entry_id: 8q3bx5
   entry_content: |
     <img src=https://i.redditmedia.com/bOp7DcMqtbw5stPlfK35lsw5UsdtG6DiwI1_ulOPSN8.jpg?s=bc5856ad64b235d1e639a4b03bc730df frameborder=0>
-- entry_name: |
-    Beluga discovering the power of scaring kids.
-  entry_id: 8q4kap
-  entry_content: |
-    <iframe src=https://v.redd.it/07amycc059311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    My German girlfriend likes to rate our sex between 1-10.
-  entry_id: 8q3sam
-  entry_content: |
-    null
-- entry_name: |
-    Liars
-  entry_id: 8q6atv
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZUpMRyC6Y00ynicPOv0Lv1z4KupF-jZjmKbdbd98IfU.png?s=fe6f9c7b1c73a03b7fd3ebd22e6f903e frameborder=0>
-- entry_name: |
-    Donald Trump accuses India of charging 100% tariff, says trade might stop
-  entry_id: 8q8edw
-  entry_content: |
-    <img src=https://i.redditmedia.com/mXasFI_aPj-Ps5_U9fcLkpNf_jtH6pb89E9gtuCsX58.jpg?s=e20ffa76c87f1df16f26c04fc1eeb244 frameborder=0>
-- entry_name: |
-  entry_id: 8q4yzm
-  entry_content: |
-    <img src=https://i.redditmedia.com/D3qS2Unm53rKulaJ_RlJW9kev7G_fbKvpi9g_5zxp2s.jpg?s=a15dc671ba27423d7ed1afa5d9125219 frameborder=0>
 ---
