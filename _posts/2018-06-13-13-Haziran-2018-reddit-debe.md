@@ -33,15 +33,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/iihsfe7iag311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    In historic first, sitting US and North Korean leaders meet face-to-face
-  entry_id: 8qerwy
-  entry_content: |
-    <img src=https://i.redditmedia.com/_OMlbn_NYa0DbjNzfJuRHgx5izhaVnoL4m5O3CdRjMY.jpg?s=f15b5f6f76f371cca5734da901a38bd0 frameborder=0>
-- entry_name: |
     19 year old coworker drove Power Wheels to work. That’s a car battery on the hood.
   entry_id: 8qec6f
   entry_content: |
     <img src=https://i.redditmedia.com/xNl-4PUPwvaBDlYQyryZD3jCReQyh09R0Azt_PW7Hbo.jpg?s=c1ea5d609273f319f681f62d9884b6c4 frameborder=0>
+- entry_name: |
+    In historic first, sitting US and North Korean leaders meet face-to-face
+  entry_id: 8qerwy
+  entry_content: |
+    <img src=https://i.redditmedia.com/_OMlbn_NYa0DbjNzfJuRHgx5izhaVnoL4m5O3CdRjMY.jpg?s=f15b5f6f76f371cca5734da901a38bd0 frameborder=0>
 - entry_name: |
     Oh Todd
   entry_id: 8qdb7t
@@ -57,6 +57,11 @@ data:
   entry_id: 8qg4o3
   entry_content: |
     <img src=https://i.redditmedia.com/fsb4UzsoT4De76KQOPwjNbvullgKFu7s3dzwYLBB0cI.jpg?s=f6918fd79b8a92d4414861e550d7d630 frameborder=0>
+- entry_name: |
+    When Dominos paves the potholes because the city can't be bothered to do it
+  entry_id: 8qiyuh
+  entry_content: |
+    <img src=https://i.redditmedia.com/1YeeIH7xl2MgCzmLM0fvVvqluqqaV7uEaguH5Gm2q-4.png?s=34e6fb6c64eb269087f9afdb7e7d282f frameborder=0>
 - entry_name: |
     This fucking piece of shit.
   entry_id: 8qclz3
@@ -138,11 +143,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bIcl6GFeYxXAj7miCSvVK9H7nAaCjF0DPSDvNzbuxto.jpg?s=1005007f8acc28d7c65dfe4e4ab19940 frameborder=0>
 - entry_name: |
-    Cat saves his buddy from falling off a ledge
-  entry_id: 8qb37o
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FThoroughExemplaryGreatdane&url=https%3A%2F%2Fgfycat.com%2FThoroughExemplaryGreatdane&image=https%3A%2F%2Fthumbs.gfycat.com%2FThoroughExemplaryGreatdane-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     When we discover that adults are not perfect, that's the end of our childhood. When we forgive them for it, that's the end of our adolescence.
   entry_id: 8qcscc
   entry_content: |
@@ -152,6 +152,11 @@ data:
   entry_id: 8qc9qx
   entry_content: |
     <img src=https://i.redditmedia.com/7OdSWa4mPL9adB606fFk5AQ2fnnFOG31f5NRqg85Blg.jpg?s=ab986de13728b2a6b35e36bf4a958380 frameborder=0>
+- entry_name: |
+    Inside a night shop
+  entry_id: 8qhyze
+  entry_content: |
+    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     BeAr ViScOuSlY AtTaCkS dOg
   entry_id: 8qc2rt
@@ -168,15 +173,9 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/g5f9L6QZWUAR4GjDvBQYYNpbH9x3SyLVqketVLTqzZA.jpg?s=2bd6859c4d482e42f8d39741ca73c676 frameborder=0>
 - entry_name: |
-    For us ladies on budget
-  entry_id: 8qb3ze
+  entry_id: 8qijnj
   entry_content: |
-    <img src=https://i.redditmedia.com/zcFq4uvmHiGe0MHGW_8KJmGIA2T-iLNxy77QEsZA83s.jpg?s=813d5480b4490326e1f062aece82c044 frameborder=0>
-- entry_name: |
-    a laser dot at 4km distance
-  entry_id: 8qb2a4
-  entry_content: |
-    <img src=https://i.redditmedia.com/fM_6XbHMbKZYzfnKoUhnxUY0cvwBy2YOfkH8uA3FwJ0.jpg?s=1fb34c3d5a8e99b75b45718f1b51e2f6 frameborder=0>
+    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
 - entry_name: |
     Just keep it steady
   entry_id: 8qbbb3
@@ -188,15 +187,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mc9MdJATPJcNboU2GqmzLJly1PRBobAuD7uk6m53M4Q.png?s=b84bfd231d5b2881b77cfeaa50f94c56 frameborder=0>
 - entry_name: |
-    Uh.. how would I.....know
-  entry_id: 8qe206
-  entry_content: |
-    <img src=https://i.redditmedia.com/iEo8wvTv9WuDZV9E_YrZRT__Z4RmNfwEy0DYJanmapg.jpg?s=a9543f589de3cb662148c06c1e94ab80 frameborder=0>
-- entry_name: |
     🔥 Stars shining down on us
   entry_id: 8qef2u
   entry_content: |
     <img src=https://i.redditmedia.com/TXpZyhuxHzjePZYLtspoqhlk2I3wUctA2-YD-f7-94s.jpg?s=3d10ceca5ab566eb483df9c0badecc44 frameborder=0>
+- entry_name: |
+    Uh.. how would I.....know
+  entry_id: 8qe206
+  entry_content: |
+    <img src=https://i.redditmedia.com/iEo8wvTv9WuDZV9E_YrZRT__Z4RmNfwEy0DYJanmapg.jpg?s=a9543f589de3cb662148c06c1e94ab80 frameborder=0>
 - entry_name: |
     Moscow Subway Ticket Machine Accepts 30 Squats as payment.
   entry_id: 8qctl1
@@ -208,19 +207,19 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xsiVaIO3QO-LzJR3fWn-saUtLamG7MIjkuzTTXNYVHA.png?s=5f297bfc3002330c06981106bf4b4b0c frameborder=0>
 - entry_name: |
-  entry_id: 8qes1y
-  entry_content: |
-    <img src=https://i.redditmedia.com/UtudBj0dnzfJUoT5A9zZun80VPey_f4pUi5jeGMZV5o.jpg?s=4108ca6d6e0e20a5157699331e15f7e0 frameborder=0>
-- entry_name: |
-    Inside a night shop
-  entry_id: 8qhyze
-  entry_content: |
-    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     How /r/FortNiteBR comes up with new skin concepts
   entry_id: 8qfn70
   entry_content: |
     <iframe src=https://v.redd.it/yq4glqzxkh311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8qes1y
+  entry_content: |
+    <img src=https://i.redditmedia.com/UtudBj0dnzfJUoT5A9zZun80VPey_f4pUi5jeGMZV5o.jpg?s=4108ca6d6e0e20a5157699331e15f7e0 frameborder=0>
+- entry_name: |
+    Supreme leader sees the light
+  entry_id: 8qi1pt
+  entry_content: |
+    <img src=https://i.redditmedia.com/9R-vdPZrIOiwiP6ycvnWQbGtk_cGr1Qzt-rAD0_IGcU.jpg?s=d66317be9c66a1d7e136cfeed42f6099 frameborder=0>
 - entry_name: |
     The sheer audacity of someone who stopped associating with our friend circle to pursue a richer life.
   entry_id: 8qc4jt
@@ -232,6 +231,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TgL7j3pY5IgjLdqLWPEcbdlsW5qciCgRQ7SC_4sehLs.jpg?s=92f053067211fcfe5590fec090b82220 frameborder=0>
 - entry_name: |
+    Sneak Level 100
+  entry_id: 8qisob
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    “thin and perfect”
+  entry_id: 8qgdx9
+  entry_content: |
+    <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     The toughest of challenges
   entry_id: 8qbaxl
   entry_content: |
@@ -241,14 +250,4 @@ data:
   entry_id: 8qc6o7
   entry_content: |
     <img src=https://i.redditmedia.com/iMcLCxQfN0LNxGQdYZBMqa6niGrHJTOaXfoT-UEnnuA.jpg?s=a871e9d4562e5ff9c3f61e3a9a21b2c7 frameborder=0>
-- entry_name: |
-    me irl
-  entry_id: 8qberd
-  entry_content: |
-    <img src=https://i.redditmedia.com/FD6GF49nEyRAqYFgeZLITjBiX9U1QAYtEFwbG9QVQ-w.jpg?s=4f984667decb4fe3c76b38682134ef79 frameborder=0>
-- entry_name: |
-    Absolutely speechless
-  entry_id: 8qcij4
-  entry_content: |
-    <iframe src=https://v.redd.it/t63apx1ygf311/DASH_2_4_M frameborder=0></iframe>
 ---
