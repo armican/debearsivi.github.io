@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Sl5vejYbnGm1DBvytuG9_kIjcNkQDQaeL4LJFusMDLI.jpg?s=ca8dc376ef8c011c000cab77e1b57bf9 frameborder=0>
 - entry_name: |
-    Tom and Jerry street art
-  entry_id: 8qcfqi
-  entry_content: |
-    <iframe src=https://v.redd.it/lhy7ca5dff311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     TIL The band blink-182 officially named their holding company Poo Poo Butt Inc. We did it because it was the most immature, dumbest thing ever, DeLonge said. We thought it would be funny to have our accountants, managers and attorneys having to say that over the phone every day.”
   entry_id: 8qe7as
   entry_content: |
@@ -176,11 +171,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TgL7j3pY5IgjLdqLWPEcbdlsW5qciCgRQ7SC_4sehLs.jpg?s=92f053067211fcfe5590fec090b82220 frameborder=0>
 - entry_name: |
-    Absolutely speechless
-  entry_id: 8qcij4
-  entry_content: |
-    <iframe src=https://v.redd.it/t63apx1ygf311/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Dumb snake hits its head on a glass door
   entry_id: 8qhxr1
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8qi7ei
   entry_content: |
     <iframe src=https://v.redd.it/1qolqvzd1k311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Up you go fren!
+  entry_id: 8qj90r
+  entry_content: |
+    <iframe src=https://v.redd.it/qithbyivvk311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Bye Net Neutrality. Never Forget that Cory Gardner SOLD OUT Colorado to ISPs for $523,378.
+  entry_id: 8qd74k
+  entry_content: |
+    <img src=https://i.redditmedia.com/aWfXkuMMUUbG9gkeuPDUxmDjORG5ffdEj3HcM4dAOdk.jpg?s=ece467a13b4fe0762619ca544fbf145d frameborder=0>
 ---
