@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hrcrIniu4pzKJ23LCZYnuyVIaFLKIBbsMq6xPGVgwPs.jpg?s=8ef5e9e750382f902340c40a79241cb4 frameborder=0>
 - entry_name: |
-    Be Kind & Rewind
-  entry_id: 8qbgie
-  entry_content: |
-    <img src=https://i.redditmedia.com/xpaDICapkELZi49A5LolpBYIcUf2qB8oMBoBOM0NcKE.jpg?s=911483b67bf5b4fdef5449296d6d062a frameborder=0>
-- entry_name: |
     Avengers: Infinity War officially hits $2 billion worldwide today.
   entry_id: 8qc9g7
   entry_content: |
@@ -236,11 +231,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iMcLCxQfN0LNxGQdYZBMqa6niGrHJTOaXfoT-UEnnuA.jpg?s=a871e9d4562e5ff9c3f61e3a9a21b2c7 frameborder=0>
 - entry_name: |
-    me irl
-  entry_id: 8qberd
-  entry_content: |
-    <img src=https://i.redditmedia.com/FD6GF49nEyRAqYFgeZLITjBiX9U1QAYtEFwbG9QVQ-w.jpg?s=4f984667decb4fe3c76b38682134ef79 frameborder=0>
-- entry_name: |
     Absolutely speechless
   entry_id: 8qcij4
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8qe4gx
   entry_content: |
     <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
+- entry_name: |
+    Family Cuddles!
+  entry_id: 8qczmf
+  entry_content: |
+    <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I also hate when my “friends” are idiots
+  entry_id: 8qfvl0
+  entry_content: |
+    <img src=https://i.redditmedia.com/MqlmSEygmv4aanP4Z-zOVxDuGuTsl7OzA9X5oKK1Il0.jpg?s=4be68b4ab6fa7d5557359790dcfc5b56 frameborder=0>
 ---
