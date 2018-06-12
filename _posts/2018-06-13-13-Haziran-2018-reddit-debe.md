@@ -3,11 +3,6 @@ layout: post
 title: 13 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    Removed the top of my desk for cleaning. Cat did not understand
-  entry_id: 8qc84c
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FObviousShockingBronco&url=https%3A%2F%2Fgfycat.com%2FObviousShockingBronco&image=https%3A%2F%2Fthumbs.gfycat.com%2FObviousShockingBronco-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     When Dominos paves the potholes because the city can't be bothered to do it
   entry_id: 8qiyuh
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hrcrIniu4pzKJ23LCZYnuyVIaFLKIBbsMq6xPGVgwPs.jpg?s=8ef5e9e750382f902340c40a79241cb4 frameborder=0>
 - entry_name: |
-    Avengers: Infinity War officially hits $2 billion worldwide today.
-  entry_id: 8qc9g7
-  entry_content: |
-    <img src=https://i.redditmedia.com/dzvaKH0pvSv8te4tAF9OvEGahEvOObwACg0S1rOn768.jpg?s=3b1410af0ba67b40237145fc1619dd48 frameborder=0>
-- entry_name: |
     Southern California Cheesecake Factories cheated 559 janitors out of $4.57 million in wages, labor commissioner charges
   entry_id: 8qdnk0
   entry_content: |
@@ -107,11 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/j4SKlLzhEBlIBVphMWX6PV0PXxv5YbXEMGHXcypbhtg.jpg?s=0b695a1b353e1cc40812d8f2d94a94a1 frameborder=0>
 - entry_name: |
-    My Mom in the Police Academy, 1984 (ish)
-  entry_id: 8qcav8
-  entry_content: |
-    <img src=https://i.redditmedia.com/GkiP_6-i4fXHDNdFteayh7Xx78f8VkP8se0J5BfrXrk.jpg?s=173ab82f20b7c46e1a197f485b7842dd frameborder=0>
-- entry_name: |
     The sunlight through a window turned my cheese into a chunk of rainbow.
   entry_id: 8qfwh3
   entry_content: |
@@ -136,11 +121,6 @@ data:
   entry_id: 8qcscc
   entry_content: |
     null
-- entry_name: |
-    Wait, are they talking about me??
-  entry_id: 8qc9qx
-  entry_content: |
-    <img src=https://i.redditmedia.com/7OdSWa4mPL9adB606fFk5AQ2fnnFOG31f5NRqg85Blg.jpg?s=ab986de13728b2a6b35e36bf4a958380 frameborder=0>
 - entry_name: |
     Supreme leader sees the light
   entry_id: 8qi1pt
@@ -250,4 +230,24 @@ data:
   entry_id: 8qctvg
   entry_content: |
     <img src=https://i.redditmedia.com/Il_4uZKOIm0-yO7aaGmX1Ty9Ht1HAxxn9qaTEOL44XY.jpg?s=fb7361a6c40662fc90cbc752815f7a89 frameborder=0>
+- entry_name: |
+    Maybe worth investing
+  entry_id: 8qgtbm
+  entry_content: |
+    <img src=https://i.redditmedia.com/Bw4hTd6i_vPeyzhyr3OzT0f2asjzxtOFivR2Ldi4vho.jpg?s=8e4562635954bffc4deb89b487ede972 frameborder=0>
+- entry_name: |
+    The paint on this chain-link fence faded into a pattern of circles.
+  entry_id: 8qij05
+  entry_content: |
+    <img src=https://i.redditmedia.com/iq5B6vuXdT1ZI5fqC9GBCoz9NJrOprFAd_odU1Um9Rk.jpg?s=f4e6ca315cbdb8c3f7f9d728166f6fef frameborder=0>
+- entry_name: |
+    Professional house cleaners of reddit, what do most people need to clean in their home, but don't?
+  entry_id: 8qfm3u
+  entry_content: |
+    null
+- entry_name: |
+    This long jumper almost cleared the pit.
+  entry_id: 8qi7ei
+  entry_content: |
+    <iframe src=https://v.redd.it/1qolqvzd1k311/DASH_2_4_M frameborder=0></iframe>
 ---
