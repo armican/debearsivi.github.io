@@ -163,11 +163,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/bbwy973y5f311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Skate 4
-  entry_id: 8qba9k
-  entry_content: |
-    <img src=https://i.redditmedia.com/LFPTwNn5aD5y439kcBy5HkWW7JkiuUQdmmosDZoL8nM.png?s=edf8d300a1de81153fda7a2785c36c08 frameborder=0>
-- entry_name: |
     Be careful who you pick on in high school.
   entry_id: 8qbrop
   entry_content: |
@@ -176,11 +171,6 @@ data:
   entry_id: 8qijnj
   entry_content: |
     <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
-- entry_name: |
-    Just keep it steady
-  entry_id: 8qbbb3
-  entry_content: |
-    <iframe src=https://v.redd.it/40wruaq1re311/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Not really a meme, but seems pretty wholesome.
   entry_id: 8qepbw
@@ -241,13 +231,23 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The toughest of challenges
-  entry_id: 8qbaxl
-  entry_content: |
-    <img src=https://i.redditmedia.com/XG9xrgSaM3k_n-3TBWQyS-i2GcHFLEukWXDG0VtAQBI.jpg?s=2da4faa433efcd5605079f380ff268ec frameborder=0>
-- entry_name: |
     Neighbor never let his dog poop in my yard again.
   entry_id: 8qc6o7
   entry_content: |
     <img src=https://i.redditmedia.com/iMcLCxQfN0LNxGQdYZBMqa6niGrHJTOaXfoT-UEnnuA.jpg?s=a871e9d4562e5ff9c3f61e3a9a21b2c7 frameborder=0>
+- entry_name: |
+    me irl
+  entry_id: 8qberd
+  entry_content: |
+    <img src=https://i.redditmedia.com/FD6GF49nEyRAqYFgeZLITjBiX9U1QAYtEFwbG9QVQ-w.jpg?s=4f984667decb4fe3c76b38682134ef79 frameborder=0>
+- entry_name: |
+    Absolutely speechless
+  entry_id: 8qcij4
+  entry_content: |
+    <iframe src=https://v.redd.it/t63apx1ygf311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show
+  entry_id: 8qe4gx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
 ---
