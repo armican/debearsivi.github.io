@@ -8,6 +8,11 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FObviousShockingBronco&url=https%3A%2F%2Fgfycat.com%2FObviousShockingBronco&image=https%3A%2F%2Fthumbs.gfycat.com%2FObviousShockingBronco-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
+    When Dominos paves the potholes because the city can't be bothered to do it
+  entry_id: 8qiyuh
+  entry_content: |
+    <img src=https://i.redditmedia.com/1YeeIH7xl2MgCzmLM0fvVvqluqqaV7uEaguH5Gm2q-4.png?s=34e6fb6c64eb269087f9afdb7e7d282f frameborder=0>
+- entry_name: |
     I was drunk in the French Quarter and a kind resident let me use their bathroom. I thought this cat was fake until it turned its head to watch me pee.
   entry_id: 8qep03
   entry_content: |
@@ -28,15 +33,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tnosncy4bh311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When Dominos paves the potholes because the city can't be bothered to do it
-  entry_id: 8qiyuh
-  entry_content: |
-    <img src=https://i.redditmedia.com/1YeeIH7xl2MgCzmLM0fvVvqluqqaV7uEaguH5Gm2q-4.png?s=34e6fb6c64eb269087f9afdb7e7d282f frameborder=0>
-- entry_name: |
     Bowl carving
   entry_id: 8qdtri
   entry_content: |
     <iframe src=https://v.redd.it/iihsfe7iag311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Sneak Level 100
+  entry_id: 8qisob
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     19 year old coworker drove Power Wheels to work. That’s a car battery on the hood.
   entry_id: 8qec6f
@@ -48,20 +53,24 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_OMlbn_NYa0DbjNzfJuRHgx5izhaVnoL4m5O3CdRjMY.jpg?s=f15b5f6f76f371cca5734da901a38bd0 frameborder=0>
 - entry_name: |
-    Oh Todd
-  entry_id: 8qdb7t
-  entry_content: |
-    <img src=https://i.redditmedia.com/ypj7sXUL_P20yOJ92NxhZM1U7jqAOiAPam7_9c5r3dA.jpg?s=7ffa336f575544e450652f9bc923bf59 frameborder=0>
-- entry_name: |
     Aww man...
   entry_id: 8qgamf
   entry_content: |
     <img src=https://i.redditmedia.com/-iripIRNpVTSOJyRZfkIWckVeljjZXFlPWxpIHErBSY.jpg?s=7d0c3d5b198898cf74bf520a7f4c2214 frameborder=0>
 - entry_name: |
+    Oh Todd
+  entry_id: 8qdb7t
+  entry_content: |
+    <img src=https://i.redditmedia.com/ypj7sXUL_P20yOJ92NxhZM1U7jqAOiAPam7_9c5r3dA.jpg?s=7ffa336f575544e450652f9bc923bf59 frameborder=0>
+- entry_name: |
     TIL that a teenager fooled an entire school and its officials by pretending to be the State Senator. He was chauffeured, given a tour, and spoke to the high school students about being involved in politics. They only found out when the real Senator showed up the next month.
   entry_id: 8qg4o3
   entry_content: |
     <img src=https://i.redditmedia.com/fsb4UzsoT4De76KQOPwjNbvullgKFu7s3dzwYLBB0cI.jpg?s=f6918fd79b8a92d4414861e550d7d630 frameborder=0>
+- entry_name: |
+  entry_id: 8qijnj
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
 - entry_name: |
     This fucking piece of shit.
   entry_id: 8qclz3
@@ -78,69 +87,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9YCWU9H5RLO-dn4PDueoru-yaF2JP_3kQ_q_34k662w.jpg?s=46174bd8787673b123fd949fcc999403 frameborder=0>
 - entry_name: |
-    Sneak Level 100
-  entry_id: 8qisob
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     I agree 100%
   entry_id: 8qdrfo
   entry_content: |
     <img src=https://i.redditmedia.com/Y_BHYfSYSbJ01jtYpAUu2pWe6YWInLyb_Gfg8Maoxzw.jpg?s=589b49db173996e7db54d5f0141e7e1c frameborder=0>
-- entry_name: |
-    Finger crease disappeared after only 4 months of knuckle not working
-  entry_id: 8qcpyv
-  entry_content: |
-    <img src=https://i.redditmedia.com/GmxFwgPWKm3-RnTv883bPLxqstfZGUMH8pwdVd7tNlE.jpg?s=d15d2abc686c438896fe92d55905697d frameborder=0>
-- entry_name: |
-    My Mom in the Police Academy, 1984 (ish)
-  entry_id: 8qcav8
-  entry_content: |
-    <img src=https://i.redditmedia.com/GkiP_6-i4fXHDNdFteayh7Xx78f8VkP8se0J5BfrXrk.jpg?s=173ab82f20b7c46e1a197f485b7842dd frameborder=0>
-- entry_name: |
-    Protecting the Free and Open Internet: European Edition
-  entry_id: 8qfw8l
-  entry_content: |
-    <img src=https://i.redditmedia.com/j4SKlLzhEBlIBVphMWX6PV0PXxv5YbXEMGHXcypbhtg.jpg?s=0b695a1b353e1cc40812d8f2d94a94a1 frameborder=0>
-- entry_name: |
-    The sunlight through a window turned my cheese into a chunk of rainbow.
-  entry_id: 8qfwh3
-  entry_content: |
-    <img src=https://i.redditmedia.com/OzX03DUylYr-c-TXMFwbUBsfPKFjAYTnqW1loHbhU1s.jpg?s=bdb542e7f01a7d4dfd9ac84321e5d443 frameborder=0>
-- entry_name: |
-  entry_id: 8qijnj
-  entry_content: |
-    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
-- entry_name: |
-    Mona? Is that you?
-  entry_id: 8qdvxt
-  entry_content: |
-    <img src=https://i.redditmedia.com/_EjB16tVCGzh2z8TdICGH7l8kL6eAgNkQd9hsutdL8Q.jpg?s=19c6a3dd93a1427ae3127389f0182d0c frameborder=0>
 - entry_name: |
     Inside a night shop
   entry_id: 8qhyze
   entry_content: |
     <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Finger crease disappeared after only 4 months of knuckle not working
+  entry_id: 8qcpyv
+  entry_content: |
+    <img src=https://i.redditmedia.com/GmxFwgPWKm3-RnTv883bPLxqstfZGUMH8pwdVd7tNlE.jpg?s=d15d2abc686c438896fe92d55905697d frameborder=0>
+- entry_name: |
+    Protecting the Free and Open Internet: European Edition
+  entry_id: 8qfw8l
+  entry_content: |
+    <img src=https://i.redditmedia.com/j4SKlLzhEBlIBVphMWX6PV0PXxv5YbXEMGHXcypbhtg.jpg?s=0b695a1b353e1cc40812d8f2d94a94a1 frameborder=0>
+- entry_name: |
+    My Mom in the Police Academy, 1984 (ish)
+  entry_id: 8qcav8
+  entry_content: |
+    <img src=https://i.redditmedia.com/GkiP_6-i4fXHDNdFteayh7Xx78f8VkP8se0J5BfrXrk.jpg?s=173ab82f20b7c46e1a197f485b7842dd frameborder=0>
+- entry_name: |
+    The sunlight through a window turned my cheese into a chunk of rainbow.
+  entry_id: 8qfwh3
+  entry_content: |
+    <img src=https://i.redditmedia.com/OzX03DUylYr-c-TXMFwbUBsfPKFjAYTnqW1loHbhU1s.jpg?s=bdb542e7f01a7d4dfd9ac84321e5d443 frameborder=0>
+- entry_name: |
+    Mona? Is that you?
+  entry_id: 8qdvxt
+  entry_content: |
+    <img src=https://i.redditmedia.com/_EjB16tVCGzh2z8TdICGH7l8kL6eAgNkQd9hsutdL8Q.jpg?s=19c6a3dd93a1427ae3127389f0182d0c frameborder=0>
+- entry_name: |
     You're all beautiful and you are all important. Feel free to reach out to me if you need someone
   entry_id: 8qgbtv
   entry_content: |
     <img src=https://i.redditmedia.com/-UIsB1JdpPBjUfhnpvWO18llSUuE6xr0HjlCuEUL3M0.jpg?s=99aab747cf966015a1fb89c1f462e55c frameborder=0>
 - entry_name: |
-    My 6 year old daughter and I visited the Art Institute of Chicago
-  entry_id: 8qc1s0
-  entry_content: |
-    <img src=https://i.redditmedia.com/6ZGlN3Yjt7GAvXyQLSlsSB2C_zUr4ud2l34Kkw6LGr0.jpg?s=3d33ff2b448b0d198fcbedf4fc739a14 frameborder=0>
-- entry_name: |
     Kim commits to 'complete denuclearisation of Korean Peninsula' in joint text
   entry_id: 8qgs14
   entry_content: |
     <img src=https://i.redditmedia.com/u_y_l9IHjy70WPZF8sSVZEy6ToqVcwH9kU67Px7BzIs.jpg?s=2aa97ba585ef06fae434b9a8c189e21f frameborder=0>
-- entry_name: |
-    Don't worry, meth will take away your need to visit the dentist anyways.
-  entry_id: 8qc4yf
-  entry_content: |
-    <img src=https://i.redditmedia.com/bIcl6GFeYxXAj7miCSvVK9H7nAaCjF0DPSDvNzbuxto.jpg?s=1005007f8acc28d7c65dfe4e4ab19940 frameborder=0>
 - entry_name: |
     When we discover that adults are not perfect, that's the end of our childhood. When we forgive them for it, that's the end of our adolescence.
   entry_id: 8qcscc
@@ -152,11 +142,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7OdSWa4mPL9adB606fFk5AQ2fnnFOG31f5NRqg85Blg.jpg?s=ab986de13728b2a6b35e36bf4a958380 frameborder=0>
 - entry_name: |
-    BeAr ViScOuSlY AtTaCkS dOg
-  entry_id: 8qc2rt
-  entry_content: |
-    <iframe src=https://v.redd.it/bbwy973y5f311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Supreme leader sees the light
   entry_id: 8qi1pt
   entry_content: |
@@ -167,64 +152,59 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mc9MdJATPJcNboU2GqmzLJly1PRBobAuD7uk6m53M4Q.png?s=b84bfd231d5b2881b77cfeaa50f94c56 frameborder=0>
 - entry_name: |
+    “thin and perfect”
+  entry_id: 8qgdx9
+  entry_content: |
+    <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     🔥 Stars shining down on us
   entry_id: 8qef2u
   entry_content: |
     <img src=https://i.redditmedia.com/TXpZyhuxHzjePZYLtspoqhlk2I3wUctA2-YD-f7-94s.jpg?s=3d10ceca5ab566eb483df9c0badecc44 frameborder=0>
-- entry_name: |
-    Uh.. how would I.....know
-  entry_id: 8qe206
-  entry_content: |
-    <img src=https://i.redditmedia.com/iEo8wvTv9WuDZV9E_YrZRT__Z4RmNfwEy0DYJanmapg.jpg?s=a9543f589de3cb662148c06c1e94ab80 frameborder=0>
 - entry_name: |
     How /r/FortNiteBR comes up with new skin concepts
   entry_id: 8qfn70
   entry_content: |
     <iframe src=https://v.redd.it/yq4glqzxkh311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Moscow Subway Ticket Machine Accepts 30 Squats as payment.
-  entry_id: 8qctl1
+    Proof that bats are really just sky puppies.
+  entry_id: 8qi557
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCreamyFelineAustralianfreshwatercrocodile&url=https%3A%2F%2Fgfycat.com%2FCreamyFelineAustralianfreshwatercrocodile&image=https%3A%2F%2Fthumbs.gfycat.com%2FCreamyFelineAustralianfreshwatercrocodile-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/fpfr66z71k311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Uh.. how would I.....know
+  entry_id: 8qe206
+  entry_content: |
+    <img src=https://i.redditmedia.com/iEo8wvTv9WuDZV9E_YrZRT__Z4RmNfwEy0DYJanmapg.jpg?s=a9543f589de3cb662148c06c1e94ab80 frameborder=0>
 - entry_name: |
     When a porn site asks if you're over 18
   entry_id: 8qdnct
   entry_content: |
     <img src=https://i.redditmedia.com/xsiVaIO3QO-LzJR3fWn-saUtLamG7MIjkuzTTXNYVHA.png?s=5f297bfc3002330c06981106bf4b4b0c frameborder=0>
 - entry_name: |
-    “thin and perfect”
-  entry_id: 8qgdx9
+    Moscow Subway Ticket Machine Accepts 30 Squats as payment.
+  entry_id: 8qctl1
   entry_content: |
-    <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCreamyFelineAustralianfreshwatercrocodile&url=https%3A%2F%2Fgfycat.com%2FCreamyFelineAustralianfreshwatercrocodile&image=https%3A%2F%2Fthumbs.gfycat.com%2FCreamyFelineAustralianfreshwatercrocodile-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
   entry_id: 8qes1y
   entry_content: |
     <img src=https://i.redditmedia.com/UtudBj0dnzfJUoT5A9zZun80VPey_f4pUi5jeGMZV5o.jpg?s=4108ca6d6e0e20a5157699331e15f7e0 frameborder=0>
-- entry_name: |
-    The sheer audacity of someone who stopped associating with our friend circle to pursue a richer life.
-  entry_id: 8qc4jt
-  entry_content: |
-    <img src=https://i.redditmedia.com/EZQBQEsEPHhqUViMnPzsIVgYGUOHWR5OONOOaB_YhwY.png?s=506131ca3ec8e84d920fc99d84f2f373 frameborder=0>
 - entry_name: |
     I love my friend to death, but her birth certificate is one of the most trashy and hilarious things I’ve seen. (I did get permission to share)
   entry_id: 8qdi25
   entry_content: |
     <img src=https://i.redditmedia.com/TgL7j3pY5IgjLdqLWPEcbdlsW5qciCgRQ7SC_4sehLs.jpg?s=92f053067211fcfe5590fec090b82220 frameborder=0>
 - entry_name: |
-    Proof that bats are really just sky puppies.
-  entry_id: 8qi557
-  entry_content: |
-    <iframe src=https://v.redd.it/fpfr66z71k311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Neighbor never let his dog poop in my yard again.
-  entry_id: 8qc6o7
-  entry_content: |
-    <img src=https://i.redditmedia.com/iMcLCxQfN0LNxGQdYZBMqa6niGrHJTOaXfoT-UEnnuA.jpg?s=a871e9d4562e5ff9c3f61e3a9a21b2c7 frameborder=0>
-- entry_name: |
     Absolutely speechless
   entry_id: 8qcij4
   entry_content: |
     <iframe src=https://v.redd.it/t63apx1ygf311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Dumb snake hits its head on a glass door
+  entry_id: 8qhxr1
+  entry_content: |
+    <iframe src=https://v.redd.it/pzfxvhqbuj311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show
   entry_id: 8qe4gx
@@ -236,18 +216,38 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MqlmSEygmv4aanP4Z-zOVxDuGuTsl7OzA9X5oKK1Il0.jpg?s=4be68b4ab6fa7d5557359790dcfc5b56 frameborder=0>
 - entry_name: |
+    The smiling Sphinx.
+  entry_id: 8qi1xx
+  entry_content: |
+    <img src=https://i.redditmedia.com/586ubjVJMm7FmtVaRJJA_ByjaTGdylVW2jr7iP_MFng.jpg?s=6fa93005d8aaea62cd0a6546706e37ac frameborder=0>
+- entry_name: |
+    Breathtaking picture of Jupiter with its moon Io in front of it
+  entry_id: 8qi5oq
+  entry_content: |
+    <img src=https://i.redditmedia.com/o-kef0CEXEnUVL2o0bGkBo9y9SMurOBRxPWBF8B-PC4.jpg?s=d6335894ada246d2558f24264b8818cd frameborder=0>
+- entry_name: |
     Family Cuddles!
   entry_id: 8qczmf
   entry_content: |
     <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Dumb snake hits its head on a glass door
-  entry_id: 8qhxr1
+    Congratulations Scandinavia, the world's nicest region!
+  entry_id: 8qh1kg
   entry_content: |
-    <iframe src=https://v.redd.it/pzfxvhqbuj311/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Ul8A0SABd3IiJQdrdvU59ktFO6RAbdjjlMq9tee6BjA.jpg?s=7b768ec04a7829d7968efb8697864484 frameborder=0>
 - entry_name: |
     The Last of Us Part II – E3 2018 Gameplay Reveal Trailer
   entry_id: 8qev7k
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/btmN-bWwv0A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    In a world first, Melbourne scientists have discovered how the most important cancer-preventing gene, called p53, stops the development of lymphoma – and potentially other types of cancer
+  entry_id: 8qcm6i
+  entry_content: |
+    <img src=https://i.redditmedia.com/CZB21eMTMWicTK7ISxnrOaq-GRq3rgai6LOrNrFWzRs.jpg?s=697178b596f9df6c5caaef06d25b99a8 frameborder=0>
+- entry_name: |
+    not a pixel altered
+  entry_id: 8qctvg
+  entry_content: |
+    <img src=https://i.redditmedia.com/Il_4uZKOIm0-yO7aaGmX1Ty9Ht1HAxxn9qaTEOL44XY.jpg?s=fb7361a6c40662fc90cbc752815f7a89 frameborder=0>
 ---
