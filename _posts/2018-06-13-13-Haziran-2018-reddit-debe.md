@@ -28,6 +28,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tnosncy4bh311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    When Dominos paves the potholes because the city can't be bothered to do it
+  entry_id: 8qiyuh
+  entry_content: |
+    <img src=https://i.redditmedia.com/1YeeIH7xl2MgCzmLM0fvVvqluqqaV7uEaguH5Gm2q-4.png?s=34e6fb6c64eb269087f9afdb7e7d282f frameborder=0>
+- entry_name: |
     Bowl carving
   entry_id: 8qdtri
   entry_content: |
@@ -58,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fsb4UzsoT4De76KQOPwjNbvullgKFu7s3dzwYLBB0cI.jpg?s=f6918fd79b8a92d4414861e550d7d630 frameborder=0>
 - entry_name: |
-    When Dominos paves the potholes because the city can't be bothered to do it
-  entry_id: 8qiyuh
-  entry_content: |
-    <img src=https://i.redditmedia.com/1YeeIH7xl2MgCzmLM0fvVvqluqqaV7uEaguH5Gm2q-4.png?s=34e6fb6c64eb269087f9afdb7e7d282f frameborder=0>
-- entry_name: |
     This fucking piece of shit.
   entry_id: 8qclz3
   entry_content: |
@@ -77,6 +77,11 @@ data:
   entry_id: 8qdnk0
   entry_content: |
     <img src=https://i.redditmedia.com/9YCWU9H5RLO-dn4PDueoru-yaF2JP_3kQ_q_34k662w.jpg?s=46174bd8787673b123fd949fcc999403 frameborder=0>
+- entry_name: |
+    Sneak Level 100
+  entry_id: 8qisob
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     I agree 100%
   entry_id: 8qdrfo
@@ -93,40 +98,44 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GkiP_6-i4fXHDNdFteayh7Xx78f8VkP8se0J5BfrXrk.jpg?s=173ab82f20b7c46e1a197f485b7842dd frameborder=0>
 - entry_name: |
+    Protecting the Free and Open Internet: European Edition
+  entry_id: 8qfw8l
+  entry_content: |
+    <img src=https://i.redditmedia.com/j4SKlLzhEBlIBVphMWX6PV0PXxv5YbXEMGHXcypbhtg.jpg?s=0b695a1b353e1cc40812d8f2d94a94a1 frameborder=0>
+- entry_name: |
     The sunlight through a window turned my cheese into a chunk of rainbow.
   entry_id: 8qfwh3
   entry_content: |
     <img src=https://i.redditmedia.com/OzX03DUylYr-c-TXMFwbUBsfPKFjAYTnqW1loHbhU1s.jpg?s=bdb542e7f01a7d4dfd9ac84321e5d443 frameborder=0>
 - entry_name: |
-    Protecting the Free and Open Internet: European Edition
-  entry_id: 8qfw8l
+  entry_id: 8qijnj
   entry_content: |
-    <img src=https://i.redditmedia.com/j4SKlLzhEBlIBVphMWX6PV0PXxv5YbXEMGHXcypbhtg.jpg?s=0b695a1b353e1cc40812d8f2d94a94a1 frameborder=0>
+    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
 - entry_name: |
     Mona? Is that you?
   entry_id: 8qdvxt
   entry_content: |
     <img src=https://i.redditmedia.com/_EjB16tVCGzh2z8TdICGH7l8kL6eAgNkQd9hsutdL8Q.jpg?s=19c6a3dd93a1427ae3127389f0182d0c frameborder=0>
 - entry_name: |
+    Inside a night shop
+  entry_id: 8qhyze
+  entry_content: |
+    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Tina Fey Says Liz Lemon And Leslie Knope Should Do A Spinoff Together
   entry_id: 8qbqmn
   entry_content: |
     <img src=https://i.redditmedia.com/T946r8bu_svO1JAULC02TG32y0jrr9mgSWY7UaQCQGo.jpg?s=64e63cd82cdee527b78368b4274b9aad frameborder=0>
 - entry_name: |
-    My 6 year old daughter and I visited the Art Institute of Chicago
-  entry_id: 8qc1s0
-  entry_content: |
-    <img src=https://i.redditmedia.com/6ZGlN3Yjt7GAvXyQLSlsSB2C_zUr4ud2l34Kkw6LGr0.jpg?s=3d33ff2b448b0d198fcbedf4fc739a14 frameborder=0>
-- entry_name: |
-    Since Donald Trump has been President of the United States, what negative impacts has him being president caused you personally?
-  entry_id: 8qbnls
-  entry_content: |
-    null
-- entry_name: |
     You're all beautiful and you are all important. Feel free to reach out to me if you need someone
   entry_id: 8qgbtv
   entry_content: |
     <img src=https://i.redditmedia.com/-UIsB1JdpPBjUfhnpvWO18llSUuE6xr0HjlCuEUL3M0.jpg?s=99aab747cf966015a1fb89c1f462e55c frameborder=0>
+- entry_name: |
+    My 6 year old daughter and I visited the Art Institute of Chicago
+  entry_id: 8qc1s0
+  entry_content: |
+    <img src=https://i.redditmedia.com/6ZGlN3Yjt7GAvXyQLSlsSB2C_zUr4ud2l34Kkw6LGr0.jpg?s=3d33ff2b448b0d198fcbedf4fc739a14 frameborder=0>
 - entry_name: |
     Kim commits to 'complete denuclearisation of Korean Peninsula' in joint text
   entry_id: 8qgs14
@@ -148,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7OdSWa4mPL9adB606fFk5AQ2fnnFOG31f5NRqg85Blg.jpg?s=ab986de13728b2a6b35e36bf4a958380 frameborder=0>
 - entry_name: |
-    Inside a night shop
-  entry_id: 8qhyze
-  entry_content: |
-    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     BeAr ViScOuSlY AtTaCkS dOg
   entry_id: 8qc2rt
   entry_content: |
@@ -163,9 +167,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/g5f9L6QZWUAR4GjDvBQYYNpbH9x3SyLVqketVLTqzZA.jpg?s=2bd6859c4d482e42f8d39741ca73c676 frameborder=0>
 - entry_name: |
-  entry_id: 8qijnj
+    Supreme leader sees the light
+  entry_id: 8qi1pt
   entry_content: |
-    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
+    <img src=https://i.redditmedia.com/9R-vdPZrIOiwiP6ycvnWQbGtk_cGr1Qzt-rAD0_IGcU.jpg?s=d66317be9c66a1d7e136cfeed42f6099 frameborder=0>
 - entry_name: |
     Not really a meme, but seems pretty wholesome.
   entry_id: 8qepbw
@@ -182,6 +187,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iEo8wvTv9WuDZV9E_YrZRT__Z4RmNfwEy0DYJanmapg.jpg?s=a9543f589de3cb662148c06c1e94ab80 frameborder=0>
 - entry_name: |
+    How /r/FortNiteBR comes up with new skin concepts
+  entry_id: 8qfn70
+  entry_content: |
+    <iframe src=https://v.redd.it/yq4glqzxkh311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Moscow Subway Ticket Machine Accepts 30 Squats as payment.
   entry_id: 8qctl1
   entry_content: |
@@ -192,19 +202,14 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xsiVaIO3QO-LzJR3fWn-saUtLamG7MIjkuzTTXNYVHA.png?s=5f297bfc3002330c06981106bf4b4b0c frameborder=0>
 - entry_name: |
-    How /r/FortNiteBR comes up with new skin concepts
-  entry_id: 8qfn70
+    “thin and perfect”
+  entry_id: 8qgdx9
   entry_content: |
-    <iframe src=https://v.redd.it/yq4glqzxkh311/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
   entry_id: 8qes1y
   entry_content: |
     <img src=https://i.redditmedia.com/UtudBj0dnzfJUoT5A9zZun80VPey_f4pUi5jeGMZV5o.jpg?s=4108ca6d6e0e20a5157699331e15f7e0 frameborder=0>
-- entry_name: |
-    Supreme leader sees the light
-  entry_id: 8qi1pt
-  entry_content: |
-    <img src=https://i.redditmedia.com/9R-vdPZrIOiwiP6ycvnWQbGtk_cGr1Qzt-rAD0_IGcU.jpg?s=d66317be9c66a1d7e136cfeed42f6099 frameborder=0>
 - entry_name: |
     The sheer audacity of someone who stopped associating with our friend circle to pursue a richer life.
   entry_id: 8qc4jt
@@ -216,15 +221,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TgL7j3pY5IgjLdqLWPEcbdlsW5qciCgRQ7SC_4sehLs.jpg?s=92f053067211fcfe5590fec090b82220 frameborder=0>
 - entry_name: |
-    Sneak Level 100
-  entry_id: 8qisob
+    Proof that bats are really just sky puppies.
+  entry_id: 8qi557
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    “thin and perfect”
-  entry_id: 8qgdx9
-  entry_content: |
-    <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/fpfr66z71k311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Neighbor never let his dog poop in my yard again.
   entry_id: 8qc6o7
@@ -241,13 +241,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
 - entry_name: |
-    Family Cuddles!
-  entry_id: 8qczmf
-  entry_content: |
-    <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I also hate when my “friends” are idiots
   entry_id: 8qfvl0
   entry_content: |
     <img src=https://i.redditmedia.com/MqlmSEygmv4aanP4Z-zOVxDuGuTsl7OzA9X5oKK1Il0.jpg?s=4be68b4ab6fa7d5557359790dcfc5b56 frameborder=0>
+- entry_name: |
+    Family Cuddles!
+  entry_id: 8qczmf
+  entry_content: |
+    <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
 ---
