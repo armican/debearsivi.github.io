@@ -122,11 +122,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Tina Fey Says Liz Lemon And Leslie Knope Should Do A Spinoff Together
-  entry_id: 8qbqmn
-  entry_content: |
-    <img src=https://i.redditmedia.com/T946r8bu_svO1JAULC02TG32y0jrr9mgSWY7UaQCQGo.jpg?s=64e63cd82cdee527b78368b4274b9aad frameborder=0>
-- entry_name: |
     You're all beautiful and you are all important. Feel free to reach out to me if you need someone
   entry_id: 8qgbtv
   entry_content: |
@@ -161,11 +156,6 @@ data:
   entry_id: 8qc2rt
   entry_content: |
     <iframe src=https://v.redd.it/bbwy973y5f311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Be careful who you pick on in high school.
-  entry_id: 8qbrop
-  entry_content: |
-    <img src=https://i.redditmedia.com/g5f9L6QZWUAR4GjDvBQYYNpbH9x3SyLVqketVLTqzZA.jpg?s=2bd6859c4d482e42f8d39741ca73c676 frameborder=0>
 - entry_name: |
     Supreme leader sees the light
   entry_id: 8qi1pt
@@ -250,4 +240,14 @@ data:
   entry_id: 8qczmf
   entry_content: |
     <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Dumb snake hits its head on a glass door
+  entry_id: 8qhxr1
+  entry_content: |
+    <iframe src=https://v.redd.it/pzfxvhqbuj311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The Last of Us Part II – E3 2018 Gameplay Reveal Trailer
+  entry_id: 8qev7k
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/btmN-bWwv0A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
