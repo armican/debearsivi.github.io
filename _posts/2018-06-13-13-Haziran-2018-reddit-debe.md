@@ -107,11 +107,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9R-vdPZrIOiwiP6ycvnWQbGtk_cGr1Qzt-rAD0_IGcU.jpg?s=d66317be9c66a1d7e136cfeed42f6099 frameborder=0>
 - entry_name: |
-    When we discover that adults are not perfect, that's the end of our childhood. When we forgive them for it, that's the end of our adolescence.
-  entry_id: 8qcscc
-  entry_content: |
-    null
-- entry_name: |
     Up you go fren!
   entry_id: 8qj90r
   entry_content: |
@@ -151,11 +146,6 @@ data:
   entry_id: 8qdnct
   entry_content: |
     <img src=https://i.redditmedia.com/xsiVaIO3QO-LzJR3fWn-saUtLamG7MIjkuzTTXNYVHA.png?s=5f297bfc3002330c06981106bf4b4b0c frameborder=0>
-- entry_name: |
-    Moscow Subway Ticket Machine Accepts 30 Squats as payment.
-  entry_id: 8qctl1
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCreamyFelineAustralianfreshwatercrocodile&url=https%3A%2F%2Fgfycat.com%2FCreamyFelineAustralianfreshwatercrocodile&image=https%3A%2F%2Fthumbs.gfycat.com%2FCreamyFelineAustralianfreshwatercrocodile-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
   entry_id: 8qes1y
   entry_content: |
@@ -226,11 +216,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Bw4hTd6i_vPeyzhyr3OzT0f2asjzxtOFivR2Ldi4vho.jpg?s=8e4562635954bffc4deb89b487ede972 frameborder=0>
 - entry_name: |
-    not a pixel altered
-  entry_id: 8qctvg
-  entry_content: |
-    <img src=https://i.redditmedia.com/Il_4uZKOIm0-yO7aaGmX1Ty9Ht1HAxxn9qaTEOL44XY.jpg?s=fb7361a6c40662fc90cbc752815f7a89 frameborder=0>
-- entry_name: |
     Finally: realistic depiction of the backpack to carry a standard RPG inventory
   entry_id: 8qk8me
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8qfm3u
   entry_content: |
     null
+- entry_name: |
+    Russian workers are undergoing training to learn how to smile ahead of the World Cup
+  entry_id: 8qhgq4
+  entry_content: |
+    <img src=https://i.redditmedia.com/R-IhH3jv3t0t7wXdiR1n1O-VBkJKyg22Ouw0agNVKTs.jpg?s=377dcd57c78a16506110c125b2255eb2 frameborder=0>
+- entry_name: |
+    Bye Net Neutrality. Never Forget that Cory Gardner SOLD OUT Colorado to ISPs for $523,378.
+  entry_id: 8qd74k
+  entry_content: |
+    <img src=https://i.redditmedia.com/aWfXkuMMUUbG9gkeuPDUxmDjORG5ffdEj3HcM4dAOdk.jpg?s=ece467a13b4fe0762619ca544fbf145d frameborder=0>
+- entry_name: |
+    Beach date, 1950s
+  entry_id: 8qhesy
+  entry_content: |
+    <img src=https://i.redditmedia.com/0ljLOgJNQsN5U8lu-vW06FY_ngNmvtAP7BKCMAYO-lU.jpg?s=514c1be72addf16435fcdb5a5f5e8408 frameborder=0>
 ---
