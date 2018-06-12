@@ -23,15 +23,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tnosncy4bh311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Bowl carving
-  entry_id: 8qdtri
-  entry_content: |
-    <iframe src=https://v.redd.it/iihsfe7iag311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Sneak Level 100
   entry_id: 8qisob
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCircularShadowyHalcyon&url=https%3A%2F%2Fgfycat.com%2FCircularShadowyHalcyon&image=https%3A%2F%2Fthumbs.gfycat.com%2FCircularShadowyHalcyon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Bowl carving
+  entry_id: 8qdtri
+  entry_content: |
+    <iframe src=https://v.redd.it/iihsfe7iag311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     19 year old coworker drove Power Wheels to work. That’s a car battery on the hood.
   entry_id: 8qec6f
@@ -53,19 +53,19 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ypj7sXUL_P20yOJ92NxhZM1U7jqAOiAPam7_9c5r3dA.jpg?s=7ffa336f575544e450652f9bc923bf59 frameborder=0>
 - entry_name: |
+  entry_id: 8qijnj
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
+- entry_name: |
     TIL that a teenager fooled an entire school and its officials by pretending to be the State Senator. He was chauffeured, given a tour, and spoke to the high school students about being involved in politics. They only found out when the real Senator showed up the next month.
   entry_id: 8qg4o3
   entry_content: |
     <img src=https://i.redditmedia.com/fsb4UzsoT4De76KQOPwjNbvullgKFu7s3dzwYLBB0cI.jpg?s=f6918fd79b8a92d4414861e550d7d630 frameborder=0>
 - entry_name: |
-  entry_id: 8qijnj
+    Inside a night shop
+  entry_id: 8qhyze
   entry_content: |
-    <img src=https://i.redditmedia.com/Kd2R9OsTzyp1xKk-nslORO7EF8wuxD3Mk2DetjUQtQg.jpg?s=136be79ef0c8934fa81ebc49559af94a frameborder=0>
-- entry_name: |
-    This fucking piece of shit.
-  entry_id: 8qclz3
-  entry_content: |
-    <img src=https://i.redditmedia.com/hrcrIniu4pzKJ23LCZYnuyVIaFLKIBbsMq6xPGVgwPs.jpg?s=8ef5e9e750382f902340c40a79241cb4 frameborder=0>
+    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Southern California Cheesecake Factories cheated 559 janitors out of $4.57 million in wages, labor commissioner charges
   entry_id: 8qdnk0
@@ -76,16 +76,6 @@ data:
   entry_id: 8qdrfo
   entry_content: |
     <img src=https://i.redditmedia.com/Y_BHYfSYSbJ01jtYpAUu2pWe6YWInLyb_Gfg8Maoxzw.jpg?s=589b49db173996e7db54d5f0141e7e1c frameborder=0>
-- entry_name: |
-    Inside a night shop
-  entry_id: 8qhyze
-  entry_content: |
-    <iframe src=https://v.redd.it/8a8tjhxivj311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Finger crease disappeared after only 4 months of knuckle not working
-  entry_id: 8qcpyv
-  entry_content: |
-    <img src=https://i.redditmedia.com/GmxFwgPWKm3-RnTv883bPLxqstfZGUMH8pwdVd7tNlE.jpg?s=d15d2abc686c438896fe92d55905697d frameborder=0>
 - entry_name: |
     Protecting the Free and Open Internet: European Edition
   entry_id: 8qfw8l
@@ -112,40 +102,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/u_y_l9IHjy70WPZF8sSVZEy6ToqVcwH9kU67Px7BzIs.jpg?s=2aa97ba585ef06fae434b9a8c189e21f frameborder=0>
 - entry_name: |
-    When we discover that adults are not perfect, that's the end of our childhood. When we forgive them for it, that's the end of our adolescence.
-  entry_id: 8qcscc
-  entry_content: |
-    null
-- entry_name: |
     Supreme leader sees the light
   entry_id: 8qi1pt
   entry_content: |
     <img src=https://i.redditmedia.com/9R-vdPZrIOiwiP6ycvnWQbGtk_cGr1Qzt-rAD0_IGcU.jpg?s=d66317be9c66a1d7e136cfeed42f6099 frameborder=0>
 - entry_name: |
-    Not really a meme, but seems pretty wholesome.
-  entry_id: 8qepbw
+    When we discover that adults are not perfect, that's the end of our childhood. When we forgive them for it, that's the end of our adolescence.
+  entry_id: 8qcscc
   entry_content: |
-    <img src=https://i.redditmedia.com/Mc9MdJATPJcNboU2GqmzLJly1PRBobAuD7uk6m53M4Q.png?s=b84bfd231d5b2881b77cfeaa50f94c56 frameborder=0>
+    null
+- entry_name: |
+    Up you go fren!
+  entry_id: 8qj90r
+  entry_content: |
+    <iframe src=https://v.redd.it/qithbyivvk311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Proof that bats are really just sky puppies.
+  entry_id: 8qi557
+  entry_content: |
+    <iframe src=https://v.redd.it/fpfr66z71k311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     “thin and perfect”
   entry_id: 8qgdx9
   entry_content: |
     <iframe src=https://v.redd.it/nktzrkal8i311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    🔥 Stars shining down on us
-  entry_id: 8qef2u
+    Not really a meme, but seems pretty wholesome.
+  entry_id: 8qepbw
   entry_content: |
-    <img src=https://i.redditmedia.com/TXpZyhuxHzjePZYLtspoqhlk2I3wUctA2-YD-f7-94s.jpg?s=3d10ceca5ab566eb483df9c0badecc44 frameborder=0>
+    <img src=https://i.redditmedia.com/Mc9MdJATPJcNboU2GqmzLJly1PRBobAuD7uk6m53M4Q.png?s=b84bfd231d5b2881b77cfeaa50f94c56 frameborder=0>
 - entry_name: |
     How /r/FortNiteBR comes up with new skin concepts
   entry_id: 8qfn70
   entry_content: |
     <iframe src=https://v.redd.it/yq4glqzxkh311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Proof that bats are really just sky puppies.
-  entry_id: 8qi557
+    🔥 Stars shining down on us
+  entry_id: 8qef2u
   entry_content: |
-    <iframe src=https://v.redd.it/fpfr66z71k311/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/TXpZyhuxHzjePZYLtspoqhlk2I3wUctA2-YD-f7-94s.jpg?s=3d10ceca5ab566eb483df9c0badecc44 frameborder=0>
 - entry_name: |
     Uh.. how would I.....know
   entry_id: 8qe206
@@ -171,83 +166,88 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TgL7j3pY5IgjLdqLWPEcbdlsW5qciCgRQ7SC_4sehLs.jpg?s=92f053067211fcfe5590fec090b82220 frameborder=0>
 - entry_name: |
+    Super Smash Bros. Ultimate brings back every character from every Smash Bros. game ever
+  entry_id: 8qkays
+  entry_content: |
+    <img src=https://i.redditmedia.com/Hl2GaWYzLZNqEeNU4WmZZQowP-N3yoAnV6NIoxESWZ0.jpg?s=e7b5f008c533025782075630c46795b4 frameborder=0>
+- entry_name: |
     Dumb snake hits its head on a glass door
   entry_id: 8qhxr1
   entry_content: |
     <iframe src=https://v.redd.it/pzfxvhqbuj311/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show
-  entry_id: 8qe4gx
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
-- entry_name: |
-    I also hate when my “friends” are idiots
-  entry_id: 8qfvl0
-  entry_content: |
-    <img src=https://i.redditmedia.com/MqlmSEygmv4aanP4Z-zOVxDuGuTsl7OzA9X5oKK1Il0.jpg?s=4be68b4ab6fa7d5557359790dcfc5b56 frameborder=0>
 - entry_name: |
     The smiling Sphinx.
   entry_id: 8qi1xx
   entry_content: |
     <img src=https://i.redditmedia.com/586ubjVJMm7FmtVaRJJA_ByjaTGdylVW2jr7iP_MFng.jpg?s=6fa93005d8aaea62cd0a6546706e37ac frameborder=0>
 - entry_name: |
+    The paint on this chain-link fence faded into a pattern of circles.
+  entry_id: 8qij05
+  entry_content: |
+    <img src=https://i.redditmedia.com/iq5B6vuXdT1ZI5fqC9GBCoz9NJrOprFAd_odU1Um9Rk.jpg?s=f4e6ca315cbdb8c3f7f9d728166f6fef frameborder=0>
+- entry_name: |
     Breathtaking picture of Jupiter with its moon Io in front of it
   entry_id: 8qi5oq
   entry_content: |
     <img src=https://i.redditmedia.com/o-kef0CEXEnUVL2o0bGkBo9y9SMurOBRxPWBF8B-PC4.jpg?s=d6335894ada246d2558f24264b8818cd frameborder=0>
 - entry_name: |
-    Family Cuddles!
-  entry_id: 8qczmf
+    I also hate when my “friends” are idiots
+  entry_id: 8qfvl0
   entry_content: |
-    <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/MqlmSEygmv4aanP4Z-zOVxDuGuTsl7OzA9X5oKK1Il0.jpg?s=4be68b4ab6fa7d5557359790dcfc5b56 frameborder=0>
+- entry_name: |
+    Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show
+  entry_id: 8qe4gx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
 - entry_name: |
     Congratulations Scandinavia, the world's nicest region!
   entry_id: 8qh1kg
   entry_content: |
     <img src=https://i.redditmedia.com/Ul8A0SABd3IiJQdrdvU59ktFO6RAbdjjlMq9tee6BjA.jpg?s=7b768ec04a7829d7968efb8697864484 frameborder=0>
 - entry_name: |
-    The Last of Us Part II – E3 2018 Gameplay Reveal Trailer
-  entry_id: 8qev7k
+    Family Cuddles!
+  entry_id: 8qczmf
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/btmN-bWwv0A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    In a world first, Melbourne scientists have discovered how the most important cancer-preventing gene, called p53, stops the development of lymphoma – and potentially other types of cancer
-  entry_id: 8qcm6i
-  entry_content: |
-    <img src=https://i.redditmedia.com/CZB21eMTMWicTK7ISxnrOaq-GRq3rgai6LOrNrFWzRs.jpg?s=697178b596f9df6c5caaef06d25b99a8 frameborder=0>
-- entry_name: |
-    not a pixel altered
-  entry_id: 8qctvg
-  entry_content: |
-    <img src=https://i.redditmedia.com/Il_4uZKOIm0-yO7aaGmX1Ty9Ht1HAxxn9qaTEOL44XY.jpg?s=fb7361a6c40662fc90cbc752815f7a89 frameborder=0>
-- entry_name: |
-    Maybe worth investing
-  entry_id: 8qgtbm
-  entry_content: |
-    <img src=https://i.redditmedia.com/Bw4hTd6i_vPeyzhyr3OzT0f2asjzxtOFivR2Ldi4vho.jpg?s=8e4562635954bffc4deb89b487ede972 frameborder=0>
-- entry_name: |
-    The paint on this chain-link fence faded into a pattern of circles.
-  entry_id: 8qij05
-  entry_content: |
-    <img src=https://i.redditmedia.com/iq5B6vuXdT1ZI5fqC9GBCoz9NJrOprFAd_odU1Um9Rk.jpg?s=f4e6ca315cbdb8c3f7f9d728166f6fef frameborder=0>
-- entry_name: |
-    Professional house cleaners of reddit, what do most people need to clean in their home, but don't?
-  entry_id: 8qfm3u
-  entry_content: |
-    null
+    <iframe src=https://v.redd.it/fptukzo7rf311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     This long jumper almost cleared the pit.
   entry_id: 8qi7ei
   entry_content: |
     <iframe src=https://v.redd.it/1qolqvzd1k311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Up you go fren!
-  entry_id: 8qj90r
+    The Last of Us Part II – E3 2018 Gameplay Reveal Trailer
+  entry_id: 8qev7k
   entry_content: |
-    <iframe src=https://v.redd.it/qithbyivvk311/DASH_2_4_M frameborder=0></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/btmN-bWwv0A?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Bye Net Neutrality. Never Forget that Cory Gardner SOLD OUT Colorado to ISPs for $523,378.
-  entry_id: 8qd74k
+    Maybe worth investing
+  entry_id: 8qgtbm
   entry_content: |
-    <img src=https://i.redditmedia.com/aWfXkuMMUUbG9gkeuPDUxmDjORG5ffdEj3HcM4dAOdk.jpg?s=ece467a13b4fe0762619ca544fbf145d frameborder=0>
+    <img src=https://i.redditmedia.com/Bw4hTd6i_vPeyzhyr3OzT0f2asjzxtOFivR2Ldi4vho.jpg?s=8e4562635954bffc4deb89b487ede972 frameborder=0>
+- entry_name: |
+    not a pixel altered
+  entry_id: 8qctvg
+  entry_content: |
+    <img src=https://i.redditmedia.com/Il_4uZKOIm0-yO7aaGmX1Ty9Ht1HAxxn9qaTEOL44XY.jpg?s=fb7361a6c40662fc90cbc752815f7a89 frameborder=0>
+- entry_name: |
+    Finally: realistic depiction of the backpack to carry a standard RPG inventory
+  entry_id: 8qk8me
+  entry_content: |
+    <img src=https://i.redditmedia.com/QxKk2zNF74LDqGu5Td8fhpcHFImD-ME0JmGJqWxTKvM.gif?fm=jpg&s=addee0153e1cc03f5ce364a2982f63ba frameborder=0>
+- entry_name: |
+    Little spoon please. Thank you
+  entry_id: 8qj8r4
+  entry_content: |
+    <iframe src=https://v.redd.it/3231d2bevk311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    A customer from my dad’s fruit shop bought a honey melon and returned later that day with this
+  entry_id: 8qhdiq
+  entry_content: |
+    <img src=https://i.redditmedia.com/2C7l7b6ObEjXD9UM13pQSLkRU4V7QfTLjCHclbWZy_E.jpg?s=c3a4030a24215f8546a70bc59d65c0bb frameborder=0>
+- entry_name: |
+    Professional house cleaners of reddit, what do most people need to clean in their home, but don't?
+  entry_id: 8qfm3u
+  entry_content: |
+    null
 ---
