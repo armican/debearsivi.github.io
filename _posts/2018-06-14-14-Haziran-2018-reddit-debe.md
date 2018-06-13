@@ -38,6 +38,16 @@ data:
   entry_content: |
     null
 - entry_name: |
+    Windy day at the park.
+  entry_id: 8qs2al
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLavishWealthyAfricanwildcat&url=https%3A%2F%2Fgfycat.com%2FLavishWealthyAfricanwildcat&image=https%3A%2F%2Fthumbs.gfycat.com%2FLavishWealthyAfricanwildcat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=264 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    If you run at 11pm you are a night person. If you run at 5am you are a morning person. If you run at 3am you are a suspicious person.
+  entry_id: 8qqvbv
+  entry_content: |
+    null
+- entry_name: |
     *Patient slips Doctor a $20 bill*. “How about u knock me out again!”
   entry_id: 8qmdwf
   entry_content: |
@@ -53,20 +63,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/co2uYHsTbka2bGbnFRkW1Sz2tX82ZzS2aH-vONjU1n0.jpg?s=993d0fa8e71211047833f224beb8b485 frameborder=0>
 - entry_name: |
-    If you run at 11pm you are a night person. If you run at 5am you are a morning person. If you run at 3am you are a suspicious person.
-  entry_id: 8qqvbv
+    Good doggo
+  entry_id: 8qr8ed
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/sA7h1wrc8dwtXjpdUJnigDFJm45u6tHXUinA5pvy9JU.jpg?s=78574d2dbdabd518df902a93f2b1f717 frameborder=0>
 - entry_name: |
     She's discovered refraction
   entry_id: 8qpp2k
   entry_content: |
     <iframe src=https://v.redd.it/d8nzadvwso311/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Windy day at the park.
-  entry_id: 8qs2al
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLavishWealthyAfricanwildcat&url=https%3A%2F%2Fgfycat.com%2FLavishWealthyAfricanwildcat&image=https%3A%2F%2Fthumbs.gfycat.com%2FLavishWealthyAfricanwildcat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=264 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     TIL that opossums are great at reducing the tick population in a given area. Scientists estimate that a single opossum can kill about 5,000 ticks in a single season.
   entry_id: 8qnd0m
@@ -82,11 +87,6 @@ data:
   entry_id: 8qng4k
   entry_content: |
     <img src=https://i.redditmedia.com/j3aRF72g2Bl3pcqCnZX9jZcCGUwPkWUhDTX-wzh0kA0.jpg?s=9314abad82ddacda625f984e33b9f233 frameborder=0>
-- entry_name: |
-    Good doggo
-  entry_id: 8qr8ed
-  entry_content: |
-    <img src=https://i.redditmedia.com/sA7h1wrc8dwtXjpdUJnigDFJm45u6tHXUinA5pvy9JU.jpg?s=78574d2dbdabd518df902a93f2b1f717 frameborder=0>
 - entry_name: |
     The more you know
   entry_id: 8qo45q
@@ -108,6 +108,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wOGBHVfyBLB2nFd50JRrazYs7lFT5suQs985bGDRtbo.jpg?s=8637789cd862d23a1ccec3030f7807bb frameborder=0>
 - entry_name: |
+    Honestly, it's life advice
+  entry_id: 8qruau
+  entry_content: |
+    <img src=https://i.redditmedia.com/pe-_BmitrLlHGLYN3GRx8uApDa5Ky-64GZhiez8yKAQ.jpg?s=573608397274fb83f181d0b9ce4ee8c8 frameborder=0>
+- entry_name: |
     DNC votes unanimously to no longer accept money from fossil fuel companies
   entry_id: 8qmt19
   entry_content: |
@@ -123,35 +128,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ibj9kJ02KH29q7dYi7hSTAljKAhyQPZNw0pPDazIg7M.jpg?s=38b1522f36c0963bc1485e8d03e8792c frameborder=0>
 - entry_name: |
-    Barbie parks like the selfish bitch I always assumed she was.
-  entry_id: 8qnyzh
+    Homemade Scarecrow
+  entry_id: 8qqtdm
   entry_content: |
-    <img src=https://i.redditmedia.com/BDKz5FWBf-FsT8sneEhniZDNE4BsGx-TGKRDwX0marA.jpg?s=33386437a6dc1d06bb657c67ebebabb2 frameborder=0>
+    <img src=https://i.redditmedia.com/aqxiuh9own482Z-kdUUzqF0eYX4zmGQYfGi-M_UOzcg.jpg?s=ae92bef3ee49cbffd084cea83a347531 frameborder=0>
+- entry_name: |
+    E3 major video game release schedule
+  entry_id: 8qrsdq
+  entry_content: |
+    <img src=https://i.redditmedia.com/6X6bgU11uBqHa18rd8CFK9-2ipeXWC6px1dl_PkKfxQ.jpg?s=dc860b5a34e6655a2f5317adf5a6e27b frameborder=0>
 - entry_name: |
     The rest of the G7 countries trying to explain the problem to America and Japan
   entry_id: 8qpe03
   entry_content: |
     <iframe src=https://v.redd.it/a4pmkvjmxo311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    When an astronaut forgets he’s no longer in a zero-gravity environment.
+  entry_id: 8qrqss
+  entry_content: |
+    <iframe src=https://v.redd.it/oqdvcxjf9r311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Barbie parks like the selfish bitch I always assumed she was.
+  entry_id: 8qnyzh
+  entry_content: |
+    <img src=https://i.redditmedia.com/BDKz5FWBf-FsT8sneEhniZDNE4BsGx-TGKRDwX0marA.jpg?s=33386437a6dc1d06bb657c67ebebabb2 frameborder=0>
+- entry_name: |
     Super annoying.
   entry_id: 8qmfp1
   entry_content: |
     <img src=https://i.redditmedia.com/zf7Z2DJmiK87zmilK1VjzUa9kiTNVWQu5cbL4e80pbc.jpg?s=feaee00085db3a5e54a3353dd1e14c1f frameborder=0>
 - entry_name: |
-    Homemade Scarecrow
-  entry_id: 8qqtdm
+    Pool table on a cruise ship
+  entry_id: 8qo75y
   entry_content: |
-    <img src=https://i.redditmedia.com/aqxiuh9own482Z-kdUUzqF0eYX4zmGQYfGi-M_UOzcg.jpg?s=ae92bef3ee49cbffd084cea83a347531 frameborder=0>
+    <iframe src=https://v.redd.it/xpuaasx60o311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Dancing FBI agent booked into jail over back flip gunfire
   entry_id: 8qltyl
   entry_content: |
     <img src=https://i.redditmedia.com/Biz9CyuLmggoRC3o8CBPMXCCJEmdao4_vXNaUA2rEqA.jpg?s=8056b148d0660540587d93f9e5854f19 frameborder=0>
-- entry_name: |
-    Pool table on a cruise ship
-  entry_id: 8qo75y
-  entry_content: |
-    <iframe src=https://v.redd.it/xpuaasx60o311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Waking up to a strange pain
   entry_id: 8qpuef
@@ -173,20 +188,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/toLDEmDAGVPLrjv6-xVKtesQd6f-JCESbn0QWzHrIp4.jpg?s=c92e10bf23eb1625db8ca50f15ed8384 frameborder=0>
 - entry_name: |
-    When an astronaut forgets he’s no longer in a zero-gravity environment.
-  entry_id: 8qrqss
+    Thanks for the warning
+  entry_id: 8qnkpn
   entry_content: |
-    <iframe src=https://v.redd.it/oqdvcxjf9r311/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/1QgDjGIpjAqNv-3LTeoP6CHU_aVDrgl7EbiUDAofZKE.jpg?s=510dae5365d40c62ef9ea063f4ce0a5f frameborder=0>
 - entry_name: |
     Amazon Prime 2077
   entry_id: 8qloid
   entry_content: |
     <iframe src=https://v.redd.it/08rdrqsgcm311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Thanks for the warning
-  entry_id: 8qnkpn
+    The United States, Canada, and Mexico have won their joint bid to host the 2026 World Cup.
+  entry_id: 8qrhgh
   entry_content: |
-    <img src=https://i.redditmedia.com/1QgDjGIpjAqNv-3LTeoP6CHU_aVDrgl7EbiUDAofZKE.jpg?s=510dae5365d40c62ef9ea063f4ce0a5f frameborder=0>
+    <img src=https://i.redditmedia.com/w1g9N8WqMK-6AzOWf55qE7G86vhnCo1AEx7x1kIjrZY.jpg?s=4aa327489760523d682d9ed139b90855 frameborder=0>
 - entry_name: |
     The Z3d is on hell of a drug
   entry_id: 8qmzcr
@@ -203,6 +218,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/E2dvHIhKmhVquZU3OF-ywkYNKD87f91j1X5LFDvZ3jw.jpg?s=20f4395d533daf047970440934dd523c frameborder=0>
 - entry_name: |
+    Mumbai tests its first driverless vehicle
+  entry_id: 8qpyje
+  entry_content: |
+    <iframe src=https://v.redd.it/my8o6nn0gp311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
   entry_id: 8qn6sq
   entry_content: |
     <img src=https://i.redditmedia.com/g8kf0hcBm0MMNPGoLvUeqMcd0IQkaOFmDqteJEp7rP0.png?s=08a7b89eee0c4d9b12f5888b353eb3f2 frameborder=0>
@@ -212,42 +232,22 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vdm0jv7ven311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Mumbai tests its first driverless vehicle
-  entry_id: 8qpyje
-  entry_content: |
-    <iframe src=https://v.redd.it/my8o6nn0gp311/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     ‘Anthony Bourdain: Parts Unknown’s Run On Netflix Extended After Star’s Death
   entry_id: 8qlnat
   entry_content: |
     <img src=https://i.redditmedia.com/CwyOlLr7lJcmLqDMVn0lP61yALXqGaEClccVFYFlGmE.jpg?s=c79d82a889701c386aa71d72c667f34e frameborder=0>
-- entry_name: |
-    E3 major video game release schedule
-  entry_id: 8qrsdq
-  entry_content: |
-    <img src=https://i.redditmedia.com/6X6bgU11uBqHa18rd8CFK9-2ipeXWC6px1dl_PkKfxQ.jpg?s=dc860b5a34e6655a2f5317adf5a6e27b frameborder=0>
 - entry_name: |
     This is Tina.
   entry_id: 8qn4dt
   entry_content: |
     <img src=https://i.redditmedia.com/I3p1zqDyGB2Clc-G8REIChSfLzJ6B4JnPF2YhyYb2OQ.jpg?s=09a994aa0e1865a9c0533b3dabeae73c frameborder=0>
 - entry_name: |
-    The United States, Canada, and Mexico have won their joint bid to host the 2026 World Cup.
-  entry_id: 8qrhgh
-  entry_content: |
-    <img src=https://i.redditmedia.com/w1g9N8WqMK-6AzOWf55qE7G86vhnCo1AEx7x1kIjrZY.jpg?s=4aa327489760523d682d9ed139b90855 frameborder=0>
-- entry_name: |
   entry_id: 8qnrcb
   entry_content: |
     <img src=https://i.redditmedia.com/LvKw76N4Yhc-NsWN5HqFSZMEcp4gOsHhiUVbMXvrqZQ.jpg?s=769a1c08ebf6d8960e67d1d63b0773be frameborder=0>
 - entry_name: |
-    My Science Teacher has a Piece of the Framework from the Hindenburg Disaster
-  entry_id: 8qlwm8
+    Helping with the Yardwork
+  entry_id: 8qrioc
   entry_content: |
-    <img src=https://i.redditmedia.com/TGGq_kIyj3NUVvmuCNg2KWO6-B-m2bWS2L6GeZF_UfE.jpg?s=e1e370250992917d986b33e6f625f31b frameborder=0>
-- entry_name: |
-    Honestly, it's life advice
-  entry_id: 8qruau
-  entry_content: |
-    <img src=https://i.redditmedia.com/pe-_BmitrLlHGLYN3GRx8uApDa5Ky-64GZhiez8yKAQ.jpg?s=573608397274fb83f181d0b9ce4ee8c8 frameborder=0>
+    <iframe src=https://v.redd.it/iyrher382r311/DASH_2_4_M frameborder=0></iframe>
 ---
