@@ -246,8 +246,8 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ph7vgwnxkr311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    2meirl4meirl
-  entry_id: 8qm2m3
+    This small detail in Ragnarok
+  entry_id: 8qrvbu
   entry_content: |
-    <img src=https://i.redditmedia.com/ZuveiJrRWp6vBI4JuuiD5g_YRJd3vLPmoKUCdBS_aTQ.jpg?s=796fd6652279de8823a101e56cb2cb91 frameborder=0>
+    <img src=https://i.redditmedia.com/vm5Uy9CN5gKlhICfA-vwHJGTTf_0GF_QHqtnAVT55-g.gif?fm=jpg&s=cca6383ca1578456b86843f0835b2039 frameborder=0>
 ---
