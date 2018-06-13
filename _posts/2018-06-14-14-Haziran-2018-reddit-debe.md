@@ -118,11 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6NqXY8ltZ9TQpWazgkAgPxbO-rsD1w574LPRx1lL3AI.jpg?s=04d750dc3cccd66058720199c91a2fcd frameborder=0>
 - entry_name: |
-    Wish
-  entry_id: 8qlhea
-  entry_content: |
-    <img src=https://i.redditmedia.com/WZrmcWjsRWgssTNBIylgz5cyjlA0cJe8mklj2RAnnpA.png?s=55b7e246a838f6a8fe0f4c7877227eff frameborder=0>
-- entry_name: |
     Gave her the Kingdom Key
   entry_id: 8qlkqg
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8qrioc
   entry_content: |
     <iframe src=https://v.redd.it/iyrher382r311/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    My Science Teacher has a Piece of the Framework from the Hindenburg Disaster
+  entry_id: 8qlwm8
+  entry_content: |
+    <img src=https://i.redditmedia.com/TGGq_kIyj3NUVvmuCNg2KWO6-B-m2bWS2L6GeZF_UfE.jpg?s=e1e370250992917d986b33e6f625f31b frameborder=0>
 ---
