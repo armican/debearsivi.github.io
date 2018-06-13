@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ePMY7vy6QT5as4M9Fg5EJz-5v8BOpCZWmRBk5bKU_e0.jpg?s=6b4ee5c2f406a9d75a154b541c274964 frameborder=0>
 - entry_name: |
-    TIL that maple syrup was promoted in the 1800s as a slavery-free alternative to cane sugar: Suffer not your cup to be sweetened by the blood of slaves.
-  entry_id: 8qlz1t
-  entry_content: |
-    <img src=https://i.redditmedia.com/AqGrgZ4a6UIh--2WyBAze-RhZKaiEzcQ0xEFHdK7ZQw.jpg?s=4348fa6145172f9ea9a2d729be0d647b frameborder=0>
-- entry_name: |
     Honestly, it's life advice
   entry_id: 8qruau
   entry_content: |
@@ -148,11 +143,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xpuaasx60o311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Dancing FBI agent booked into jail over back flip gunfire
-  entry_id: 8qltyl
-  entry_content: |
-    <img src=https://i.redditmedia.com/Biz9CyuLmggoRC3o8CBPMXCCJEmdao4_vXNaUA2rEqA.jpg?s=8056b148d0660540587d93f9e5854f19 frameborder=0>
-- entry_name: |
     A highly successful prank
   entry_id: 8qnwlu
   entry_content: |
@@ -206,11 +196,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LvKw76N4Yhc-NsWN5HqFSZMEcp4gOsHhiUVbMXvrqZQ.jpg?s=769a1c08ebf6d8960e67d1d63b0773be frameborder=0>
 - entry_name: |
-    My Science Teacher has a Piece of the Framework from the Hindenburg Disaster
-  entry_id: 8qlwm8
-  entry_content: |
-    <img src=https://i.redditmedia.com/TGGq_kIyj3NUVvmuCNg2KWO6-B-m2bWS2L6GeZF_UfE.jpg?s=e1e370250992917d986b33e6f625f31b frameborder=0>
-- entry_name: |
     Redditor claims that trump supporters are the most oppressed people ever
   entry_id: 8qolao
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8qrpnh
   entry_content: |
     <img src=https://i.redditmedia.com/3VBEdpn2JqxjwclOFHOHD-gihRWWkt2tDgNE5kuIYzU.jpg?s=21707406f92e4f04cc2bf7f969005346 frameborder=0>
+- entry_name: |
+    he woof. he a goof. but most improtantly,,, he FLOOF
+  entry_id: 8qo7p1
+  entry_content: |
+    <img src=https://i.redditmedia.com/gq3P9DAJdB7CzBFYInQLpHUQcy_jBysjN7XCKdNUIV4.jpg?s=ddb77f8bfb86f463800edfbe2e8fb0ce frameborder=0>
+- entry_name: |
+    NFL kicker Graham Gano played kickball with his kids
+  entry_id: 8qs4kf
+  entry_content: |
+    <iframe src=https://v.redd.it/ph7vgwnxkr311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8qm2m3
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZuveiJrRWp6vBI4JuuiD5g_YRJd3vLPmoKUCdBS_aTQ.jpg?s=796fd6652279de8823a101e56cb2cb91 frameborder=0>
 ---
