@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sA7h1wrc8dwtXjpdUJnigDFJm45u6tHXUinA5pvy9JU.jpg?s=78574d2dbdabd518df902a93f2b1f717 frameborder=0>
 - entry_name: |
-    *Patient slips Doctor a $20 bill*. “How about u knock me out again!”
-  entry_id: 8qmdwf
-  entry_content: |
-    <img src=https://i.redditmedia.com/OO7VITEmoe5pZc9rOz76xBlnmUpIVqCNOLKpOEWV9o4.jpg?s=ca82c58f95212858fe78afd130f4bf6b frameborder=0>
-- entry_name: |
     Perfect Reflection
   entry_id: 8qmi37
   entry_content: |
@@ -127,11 +122,6 @@ data:
   entry_id: 8qnyzh
   entry_content: |
     <img src=https://i.redditmedia.com/BDKz5FWBf-FsT8sneEhniZDNE4BsGx-TGKRDwX0marA.jpg?s=33386437a6dc1d06bb657c67ebebabb2 frameborder=0>
-- entry_name: |
-    Super annoying.
-  entry_id: 8qmfp1
-  entry_content: |
-    <img src=https://i.redditmedia.com/zf7Z2DJmiK87zmilK1VjzUa9kiTNVWQu5cbL4e80pbc.jpg?s=feaee00085db3a5e54a3353dd1e14c1f frameborder=0>
 - entry_name: |
     Two years ago I was sleeping under a bridge. Today I began training on this beast!
   entry_id: 8qt25e
@@ -249,4 +239,14 @@ data:
   entry_id: 8qrvbu
   entry_content: |
     <img src=https://i.redditmedia.com/vm5Uy9CN5gKlhICfA-vwHJGTTf_0GF_QHqtnAVT55-g.gif?fm=jpg&s=cca6383ca1578456b86843f0835b2039 frameborder=0>
+- entry_name: |
+    bamboozled.
+  entry_id: 8qondw
+  entry_content: |
+    <img src=https://i.redditmedia.com/m_6LSKzy4UpqVPesYWS_R_2-N3BM0rpFfJcSAP-fioc.png?s=a815b1e1351d9d37be3cc352d309eae6 frameborder=0>
+- entry_name: |
+    Today’s dads spend more time, provide more care and are more loving toward their kids than ever before, finds national study of 2,194 fathers. There was also a correlation between fathers who exhibit negative aspects of traditional masculinity and fathers who are less involved with their children.
+  entry_id: 8qrfhj
+  entry_content: |
+    null
 ---
