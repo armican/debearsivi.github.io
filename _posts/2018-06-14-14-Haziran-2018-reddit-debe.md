@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/X6X45aQ7EwMSVeGvAE5QrlNYg5T3Q2fH3ewDfNiurDI.jpg?s=476fa0c933dc9b3b63b48f311f9f352c frameborder=0>
 - entry_name: |
-    Knowledge is knowing that you can carry all of the groceries in at once. Wisdom is making multiple trips so that by the time you are done, other family members have put away most of the groceries.
-  entry_id: 8qlll1
-  entry_content: |
-    null
-- entry_name: |
     Windy day at the park.
   entry_id: 8qs2al
   entry_content: |
@@ -118,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6NqXY8ltZ9TQpWazgkAgPxbO-rsD1w574LPRx1lL3AI.jpg?s=04d750dc3cccd66058720199c91a2fcd frameborder=0>
 - entry_name: |
-    Gave her the Kingdom Key
-  entry_id: 8qlkqg
-  entry_content: |
-    <img src=https://i.redditmedia.com/ibj9kJ02KH29q7dYi7hSTAljKAhyQPZNw0pPDazIg7M.jpg?s=38b1522f36c0963bc1485e8d03e8792c frameborder=0>
-- entry_name: |
     Homemade Scarecrow
   entry_id: 8qqtdm
   entry_content: |
@@ -178,11 +168,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/46pnx597sn311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    This is Frank, the jumping spider that eats our house flies for us. The mods at r/aww apparently think this is too metal for their sub
-  entry_id: 8qliwv
-  entry_content: |
-    <img src=https://i.redditmedia.com/toLDEmDAGVPLrjv6-xVKtesQd6f-JCESbn0QWzHrIp4.jpg?s=c92e10bf23eb1625db8ca50f15ed8384 frameborder=0>
-- entry_name: |
     Thanks for the warning
   entry_id: 8qnkpn
   entry_content: |
@@ -227,11 +212,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vdm0jv7ven311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    ‘Anthony Bourdain: Parts Unknown’s Run On Netflix Extended After Star’s Death
-  entry_id: 8qlnat
-  entry_content: |
-    <img src=https://i.redditmedia.com/CwyOlLr7lJcmLqDMVn0lP61yALXqGaEClccVFYFlGmE.jpg?s=c79d82a889701c386aa71d72c667f34e frameborder=0>
-- entry_name: |
     This is Tina.
   entry_id: 8qn4dt
   entry_content: |
@@ -250,4 +230,24 @@ data:
   entry_id: 8qlwm8
   entry_content: |
     <img src=https://i.redditmedia.com/TGGq_kIyj3NUVvmuCNg2KWO6-B-m2bWS2L6GeZF_UfE.jpg?s=e1e370250992917d986b33e6f625f31b frameborder=0>
+- entry_name: |
+    Never forget
+  entry_id: 8qlrat
+  entry_content: |
+    <img src=https://i.redditmedia.com/-xOlggtdeyYVituJcNklbVmOeXimjnC5WdtDVVwrMuA.jpg?s=94d90f845e9a53801c0cf8c0868d7daa frameborder=0>
+- entry_name: |
+    Redditor claims that trump supporters are the most oppressed people ever
+  entry_id: 8qolao
+  entry_content: |
+    <img src=https://i.redditmedia.com/y6Cyc8DrMPjp6poOi_IroRYt7Qv3QAOxweFWL7aijIg.jpg?s=62c5f9ab9c2c4cb369ff329b8781dd29 frameborder=0>
+- entry_name: |
+    Heat sensitive copy of Fahrenheit 451
+  entry_id: 8qrr76
+  entry_content: |
+    <iframe src=https://v.redd.it/wfv4kjtv9r311/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    It’s unfair!
+  entry_id: 8qmalf
+  entry_content: |
+    <img src=https://i.redditmedia.com/tIPIS-RpeX133PD6_xWi5S2tIc_R1sjHU462NAUysbA.jpg?s=32ab00706b878139b18aadaf911f5191 frameborder=0>
 ---
