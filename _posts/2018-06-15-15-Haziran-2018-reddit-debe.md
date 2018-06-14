@@ -202,20 +202,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Wpv0NYnxGbU5c_9Algnotxm0k_ClVjBrgWaO68lxNtQ.jpg?s=cf328bd0b6d30f99df9e42016acbcaf0 frameborder=0>
 - entry_name: |
-    Recycle for me?
-  entry_id: 8qvbdn
-  entry_content: |
-    <img src=https://i.redditmedia.com/zz4JsLBEtZqtnJs2Gg-Shzl312oQ8j1OhdOUttNjZFo.jpg?s=1650ad1d5b2cd235eccf1d972c944f0b frameborder=0>
-- entry_name: |
     New York files suit against Trump, alleging his charity engaged in ‘illegal conduct’
   entry_id: 8r2cwx
   entry_content: |
     <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
-- entry_name: |
-    Dunkey's E3 2018
-  entry_id: 8qvaew
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/FnRHJ_nhgjU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Mars rover Opportunity has survived 5,161 days longer than expected — and NASA thinks it “should be able to ride out” the massive dust storm covering a quarter of the planet
   entry_id: 8qvnrw
@@ -251,4 +241,14 @@ data:
   entry_id: 8qw0bm
   entry_content: |
     <img src=https://i.redditmedia.com/fdmxGe_5D_Ft7DBvy99Eg2evLH8qjrUeWpyzSPvh6NU.jpg?s=9e7c17600b61fdf7c8359268aba6e3ba frameborder=0>
+- entry_name: |
+    Sarah Sanders, Raj Shah planning to depart the White House
+  entry_id: 8qxbas
+  entry_content: |
+    <img src=https://i.redditmedia.com/t_ANdVdD0J3RlNtvHzuzy4wQV41U3pbdWlpojIr5vOw.jpg?s=8ea6279452c8fb65cb4c88c0623798e1 frameborder=0>
+- entry_name: |
+    TIL The hallucinogen found in magic mushrooms triggers brain activity patterns that are similar to those seen when someone is dreaming
+  entry_id: 8qw6s5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Rfst0j-OwkNvTRCGa3KzgVw0Znvv19W4JmBcDfDTMeM.jpg?s=d1faa0a6a20b34a2b7fdfecaba48fae0 frameborder=0>
 ---
