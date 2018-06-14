@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/givb1bu06u311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    EA and Activision are too scared to add swastikas while Bethesda here doesn't give a fuck.
-  entry_id: 8qusdg
-  entry_content: |
-    <img src=https://i.redditmedia.com/D2c8lrJTC4ENRmKc6sKNEMq08DPU7bZzqfY7Nvj_Lww.jpg?s=ddad34ddff3a8a336cf00a1f206b4334 frameborder=0>
-- entry_name: |
     Waze, summed up in a gif.
   entry_id: 8qvfrf
   entry_content: |
@@ -108,20 +103,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4qWaDlKTFEL4Bi3l75nGEvT2KGjeJ8aP5nM_xAqSjhU.jpg?s=9abbd187a8d27a61fffa3a93a59634b6 frameborder=0>
 - entry_name: |
-    Drawing digital patterns
-  entry_id: 8quwoo
-  entry_content: |
-    <iframe src=https://v.redd.it/0i87iel4dt311/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Something's not right....
   entry_id: 8qv7a7
   entry_content: |
     <iframe src=https://v.redd.it/cgvi3lxgjt311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Jogger who trashed homeless man's things charged with robbery in new dispute
-  entry_id: 8qux1d
-  entry_content: |
-    <img src=https://i.redditmedia.com/n6UTxQqnmkMMmHgJ6Cl0nV5xFq95eAC2FdS6O1maTAo.jpg?s=22d6b2d7f592637d8825d3ebb5df3508 frameborder=0>
 - entry_name: |
     TIL about Dr Denis Mukwege, a congolese gynecologist who specialised in women victims of extreme sexual violence. Threatened, he exiled with his family, but the Congolese women joined forces for him to come back. He now works in Bukavu where he is under constant protection from the UN.
   entry_id: 8r0gyb
@@ -251,4 +236,19 @@ data:
   entry_id: 8qw0bm
   entry_content: |
     <img src=https://i.redditmedia.com/fdmxGe_5D_Ft7DBvy99Eg2evLH8qjrUeWpyzSPvh6NU.jpg?s=9e7c17600b61fdf7c8359268aba6e3ba frameborder=0>
+- entry_name: |
+    Sarah Sanders, Raj Shah planning to depart the White House
+  entry_id: 8qxbas
+  entry_content: |
+    <img src=https://i.redditmedia.com/t_ANdVdD0J3RlNtvHzuzy4wQV41U3pbdWlpojIr5vOw.jpg?s=8ea6279452c8fb65cb4c88c0623798e1 frameborder=0>
+- entry_name: |
+    TIL The hallucinogen found in magic mushrooms triggers brain activity patterns that are similar to those seen when someone is dreaming
+  entry_id: 8qw6s5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Rfst0j-OwkNvTRCGa3KzgVw0Znvv19W4JmBcDfDTMeM.jpg?s=d1faa0a6a20b34a2b7fdfecaba48fae0 frameborder=0>
+- entry_name: |
+    New York files suit against Trump, alleging his charity engaged in ‘illegal conduct’
+  entry_id: 8r2cwx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gq6_UhmpWcEHrVhjskZCKagxv4klCK9gvqI6emJgpgw.jpg?s=8a7c581ec9daa790db119fcda561746d frameborder=0>
 ---
