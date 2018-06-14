@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/givb1bu06u311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Waze, summed up in a gif.
-  entry_id: 8qvfrf
-  entry_content: |
-    <iframe src=https://v.redd.it/rl41476oot311/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     When you want to go for a walk but it's raining
   entry_id: 8r0zpf
   entry_content: |
@@ -37,11 +32,6 @@ data:
   entry_id: 8r139c
   entry_content: |
     <iframe src=https://v.redd.it/jyfmgczdcy311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    a baby bearded dragon
-  entry_id: 8qvfl8
-  entry_content: |
-    <img src=https://i.redditmedia.com/J7mg9PptjaKwi85AqM9MrD2w0RxaZpUVdnTEpokyF_o.jpg?s=d75bac3a3d25ca4ee0f07cf85d4e9bf7 frameborder=0>
 - entry_name: |
     Saw this at the Roost in Chicago
   entry_id: 8qwnax
@@ -227,16 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8_e91dyPv7y8d_LmfA9Fl5qLn5FZbQfQ4YtiR6end_w.jpg?s=fb0e00b9ad517abd5ecfc4fd9d797f1e frameborder=0>
 - entry_name: |
-    think I found a loophole here
-  entry_id: 8qvfd4
-  entry_content: |
-    <img src=https://i.redditmedia.com/7bTWNR9DUME-cjT9g_9NagEVrfvkmQe0AvWHFPBIdTc.jpg?s=01ea1301ab9bf0c867d5312e991bd069 frameborder=0>
-- entry_name: |
-    Pillow fight !
-  entry_id: 8r1jwy
-  entry_content: |
-    <iframe src=https://v.redd.it/4n7zxkj1qy311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     IHOP's latest marketing gimmick is so lame
   entry_id: 8qw0bm
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 8qw6s5
   entry_content: |
     <img src=https://i.redditmedia.com/Rfst0j-OwkNvTRCGa3KzgVw0Znvv19W4JmBcDfDTMeM.jpg?s=d1faa0a6a20b34a2b7fdfecaba48fae0 frameborder=0>
+- entry_name: |
+    Anon works
+  entry_id: 8qxlne
+  entry_content: |
+    <img src=https://i.redditmedia.com/dRRjAQAZwBoUZWEgOiyhD_0Ij0-yLA3bzCR6s0PpYIU.jpg?s=52875b1d8a5ccf1f27b8bab2c3779c02 frameborder=0>
+- entry_name: |
+    Being vegan is so easy
+  entry_id: 8r0rjf
+  entry_content: |
+    <img src=https://i.redditmedia.com/TQU6ydMGgt_WCdwnWpsxyd91X9l9-W3h1d94x68HJjg.png?s=a00e3842c25fb2955b94ee0224049abe frameborder=0>
+- entry_name: |
+    What question did you post on askreddit that you still want answers to because it got barely any responses?
+  entry_id: 8r1dfz
+  entry_content: |
+    null
+- entry_name: |
+    The Corellian Hounds in Solo were played by real dogs, and the behind the scenes pictures are amazing.
+  entry_id: 8r04qt
+  entry_content: |
+    <img src=https://i.redditmedia.com/z0sUll6edriSjNhzhYKL3u-YLod49-jiHUe_m6IJ_d0.jpg?s=c658f2bc57ccc5363fdec1673d9a169f frameborder=0>
 ---
