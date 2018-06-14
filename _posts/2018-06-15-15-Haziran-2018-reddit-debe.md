@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/rl41476oot311/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    I was laid off last week and my dog walker offered to continue giving walks for free while I look for a new job
-  entry_id: 8qu4fz
-  entry_content: |
-    <img src=https://i.redditmedia.com/eD-GWJEBhEu5aYFy5K1zu2z0pYhyipZTU0FvwMJmOas.jpg?s=4252b0214f082385d8c1a7bceebdc1dd frameborder=0>
-- entry_name: |
     Dog level 5000: Achieved
   entry_id: 8qukvz
   entry_content: |
@@ -63,20 +58,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sysJymTB_1ydgF79Z-IMwG3Y9D7nYiaiKC5ZNUCbzeA.jpg?s=7b84f0fcf371281223482860e521b1a8 frameborder=0>
 - entry_name: |
+    Mailboat jumpers are a time-honored Lake Geneva tradition
+  entry_id: 8r139c
+  entry_content: |
+    <iframe src=https://v.redd.it/jyfmgczdcy311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    When you want to go for a walk but it's raining
+  entry_id: 8r0zpf
+  entry_content: |
+    <iframe src=https://v.redd.it/d7xr4yz19y311/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Behold: Public bathroom stalls in Europe. No awkward gap in the doors!
   entry_id: 8qx4xm
   entry_content: |
     <img src=https://i.redditmedia.com/SaU6ahjjMGYg10c8EDziKsZvLph110gbDzZSKb3vSGg.jpg?s=d5af0b709b81a1dfd1c777aedd3e2e5f frameborder=0>
+- entry_name: |
+    I've never seen a game look like this! Sable
+  entry_id: 8qzccj
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUglyAchingAmericanrobin&url=https%3A%2F%2Fgfycat.com%2FUglyAchingAmericanrobin&image=https%3A%2F%2Fthumbs.gfycat.com%2FUglyAchingAmericanrobin-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     10 months ago my anxiety was so bad I could hardly leave the house alone. Today, I completed my first solo camping trip!
   entry_id: 8qwg6g
   entry_content: |
     <img src=https://i.redditmedia.com/Mx6Q2aDu3HlWqAJFPVkgJX8k9eprJXO249AZCq2ug34.jpg?s=5fa4c2bcf2c219cb43fe59f8c31e4cf3 frameborder=0>
 - entry_name: |
-    I've never seen a game look like this! Sable
-  entry_id: 8qzccj
+    When you think you've hooked a fish
+  entry_id: 8r1425
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUglyAchingAmericanrobin&url=https%3A%2F%2Fgfycat.com%2FUglyAchingAmericanrobin&image=https%3A%2F%2Fthumbs.gfycat.com%2FUglyAchingAmericanrobin-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/9cgxqle3dy311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Hoomans don't scare me
   entry_id: 8qz5gl
@@ -92,6 +102,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    No, you cant go play with the other consoles
+  entry_id: 8qzwul
+  entry_content: |
+    <img src=https://i.redditmedia.com/-TsRSYjdDLMugEcJZOHpyupd55lbA3FaykoBCx_3xCs.png?s=ce1e6a0a1b295c17a077ffd90a15bb56 frameborder=0>
+- entry_name: |
     My childhood Chocolate lab turned 17 years old the other day. My dad captured this picture that I think captures just how beautiful she is.
   entry_id: 8qzngd
   entry_content: |
@@ -102,15 +117,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/M4ofSGCuNnpz2ASl7NSSImQJwBCP5CGyDZofz1A6CEw.jpg?s=7a4d930b0792d9cfb872b4828edf1ead frameborder=0>
 - entry_name: |
-    No, you cant go play with the other consoles
-  entry_id: 8qzwul
-  entry_content: |
-    <img src=https://i.redditmedia.com/-TsRSYjdDLMugEcJZOHpyupd55lbA3FaykoBCx_3xCs.png?s=ce1e6a0a1b295c17a077ffd90a15bb56 frameborder=0>
-- entry_name: |
     Getting paid to nap
   entry_id: 8qxh51
   entry_content: |
     <img src=https://i.redditmedia.com/4qWaDlKTFEL4Bi3l75nGEvT2KGjeJ8aP5nM_xAqSjhU.jpg?s=9abbd187a8d27a61fffa3a93a59634b6 frameborder=0>
+- entry_name: |
+    This beautiful timelapse.
+  entry_id: 8qyrfp
+  entry_content: |
+    <iframe src=https://v.redd.it/nhuaz7x7gv311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Drawing digital patterns
   entry_id: 8quwoo
@@ -122,79 +137,69 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/cgvi3lxgjt311/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    This beautiful timelapse.
-  entry_id: 8qyrfp
-  entry_content: |
-    <iframe src=https://v.redd.it/nhuaz7x7gv311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Jogger who trashed homeless man's things charged with robbery in new dispute
   entry_id: 8qux1d
   entry_content: |
     <img src=https://i.redditmedia.com/n6UTxQqnmkMMmHgJ6Cl0nV5xFq95eAC2FdS6O1maTAo.jpg?s=22d6b2d7f592637d8825d3ebb5df3508 frameborder=0>
-- entry_name: |
-    Mailboat jumpers are a time-honored Lake Geneva tradition
-  entry_id: 8r139c
-  entry_content: |
-    <iframe src=https://v.redd.it/jyfmgczdcy311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Progression of an animation
-  entry_id: 8qukoa
-  entry_content: |
-    <iframe src=https://v.redd.it/c05zpd7q5t311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Tug of Roar
   entry_id: 8qwcpz
   entry_content: |
     <iframe src=https://v.redd.it/givb1bu06u311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Fox News Mocked For Praising Trump's Kim Jong Un Meeting After Slamming Obama's Willingness To Talk With 'Dictators'
-  entry_id: 8qvozh
-  entry_content: |
-    <img src=https://i.redditmedia.com/gMxNQcemb3hi4XLxCZv9p8aNu5F92787bxc68bkbeDc.jpg?s=66963991851772e049914c36fdacdde9 frameborder=0>
-- entry_name: |
   entry_id: 8qy8e9
   entry_content: |
     <img src=https://i.redditmedia.com/51OZgnJAeXgnIULRMbvL9EmGcaAMtqPIyupn7Q3Muq0.jpg?s=46e2f09907c2c04c967e84bd175acc2a frameborder=0>
 - entry_name: |
-    Reddit, what is a legendary comment thread that everyone should read?
-  entry_id: 8qx0ar
+    Progression of an animation
+  entry_id: 8qukoa
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/c05zpd7q5t311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When you think you've hooked a fish
-  entry_id: 8r1425
+    Fox News Mocked For Praising Trump's Kim Jong Un Meeting After Slamming Obama's Willingness To Talk With 'Dictators'
+  entry_id: 8qvozh
   entry_content: |
-    <iframe src=https://v.redd.it/9cgxqle3dy311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    LPT: If you're buying a home printer for occasional use, get a laser printer; they're more expensive up front but way more economical in the long run.
-  entry_id: 8qufac
-  entry_content: |
-    null
-- entry_name: |
-    When you want to go for a walk but it's raining
-  entry_id: 8r0zpf
-  entry_content: |
-    <iframe src=https://v.redd.it/d7xr4yz19y311/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Antarctica loses three trillion tonnes of ice in 25 years
-  entry_id: 8qu5dc
-  entry_content: |
-    <img src=https://i.redditmedia.com/DYkxtV_A4tbOFUlWXRuhZ3GaVXy6G0jzSK5_0fSSVrM.jpg?s=8b1a1d2d7fd51e034ad7c926b77369e4 frameborder=0>
+    <img src=https://i.redditmedia.com/gMxNQcemb3hi4XLxCZv9p8aNu5F92787bxc68bkbeDc.jpg?s=66963991851772e049914c36fdacdde9 frameborder=0>
 - entry_name: |
     TIL about Dr Denis Mukwege, a congolese gynecologist who specialised in women victims of extreme sexual violence. Threatened, he exiled with his family, but the Congolese women joined forces for him to come back. He now works in Bukavu where he is under constant protection from the UN.
   entry_id: 8r0gyb
   entry_content: |
     <img src=https://i.redditmedia.com/ewg4PFe4IDE-jmatgJFweVrqXHCoP1t5Vabkd0Nvbng.jpg?s=703aefe48a98fb503b7ff544513a7e23 frameborder=0>
 - entry_name: |
-    I guess you can say penny isn’t very wise
-  entry_id: 8quf5f
+    Reddit, what is a legendary comment thread that everyone should read?
+  entry_id: 8qx0ar
   entry_content: |
-    <img src=https://i.redditmedia.com/-kYswIxa7vdPezePOWsunSfYfvJga5_hyYv8QZ78CFM.jpg?s=af3b32c34a9c74dfd11b2dae2ce875c3 frameborder=0>
+    null
+- entry_name: |
+    LPT: If you're buying a home printer for occasional use, get a laser printer; they're more expensive up front but way more economical in the long run.
+  entry_id: 8qufac
+  entry_content: |
+    null
 - entry_name: |
     Sure, I'll jump with you kid
   entry_id: 8qzmac
   entry_content: |
     <iframe src=https://v.redd.it/atjbk727uw311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Man finds a taxidermied deer in the middle of a forest.
+  entry_id: 8qznjc
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFrequentEasygoingAllosaurus&url=https%3A%2F%2Fgfycat.com%2FFrequentEasygoingAllosaurus&image=https%3A%2F%2Fthumbs.gfycat.com%2FFrequentEasygoingAllosaurus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=400 height=224 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Uber is rejecting their target consumers
+  entry_id: 8r01an
+  entry_content: |
+    <img src=https://i.redditmedia.com/i0aCguxbW56ECYnRMzA_kvjl-V6RpJSbzi762TM3P_M.jpg?s=faaee1bc89377a8d2f6a1bddbe22ec61 frameborder=0>
+- entry_name: |
+    I guess you can say penny isn’t very wise
+  entry_id: 8quf5f
+  entry_content: |
+    <img src=https://i.redditmedia.com/-kYswIxa7vdPezePOWsunSfYfvJga5_hyYv8QZ78CFM.jpg?s=af3b32c34a9c74dfd11b2dae2ce875c3 frameborder=0>
+- entry_name: |
+    Operation Broken Heart: 2,300 suspected child sex offenders arrested
+  entry_id: 8qyycq
+  entry_content: |
+    <img src=https://i.redditmedia.com/WBvnMnsozKKddsj7UUi3-vmZIKW-A3tIo0MErN-__tI.jpg?s=1a7802cce183315764ebf75427fcddac frameborder=0>
 - entry_name: |
     Finally moment of truth: rejoining my wife after getting forced to leave my homeland, Iran and living in Turkey for 6 years as a REFUGEE, two years of applying for marriage visa. Thank you Canada 🇨🇦
   entry_id: 8qywgi
@@ -206,48 +211,43 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/g0nu97rtFoNmeesR7E4enFSsuAJgO3VfFjfkMzl9Eos.jpg?s=a7b2fde0873ac5b9aed760931edaa9d2 frameborder=0>
 - entry_name: |
-    Man finds a taxidermied deer in the middle of a forest.
-  entry_id: 8qznjc
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFrequentEasygoingAllosaurus&url=https%3A%2F%2Fgfycat.com%2FFrequentEasygoingAllosaurus&image=https%3A%2F%2Fthumbs.gfycat.com%2FFrequentEasygoingAllosaurus-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=400 height=224 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     to carjack somebody in America
   entry_id: 8qwqab
   entry_content: |
     <img src=https://i.redditmedia.com/mvnagqsPPwGP72HP2PYzj878ATdfSsGAm_mSEMRivsA.png?s=df7fe60f254d7e503653e37429334154 frameborder=0>
-- entry_name: |
-    Operation Broken Heart: 2,300 suspected child sex offenders arrested
-  entry_id: 8qyycq
-  entry_content: |
-    <img src=https://i.redditmedia.com/WBvnMnsozKKddsj7UUi3-vmZIKW-A3tIo0MErN-__tI.jpg?s=1a7802cce183315764ebf75427fcddac frameborder=0>
 - entry_name: |
     Diver gives a Zebra Shark some scritches
   entry_id: 8qxbea
   entry_content: |
     <iframe src=https://v.redd.it/jea1i2hqxu311/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Mars rover Opportunity has survived 5,161 days longer than expected — and NASA thinks it “should be able to ride out” the massive dust storm covering a quarter of the planet
-  entry_id: 8qvnrw
-  entry_content: |
-    <img src=https://i.redditmedia.com/9BhbtNj641mXFsuxZZw7euCMfzuni-7lcvn_jATNBVc.jpg?s=e2297552c828679379a03d25b1ebad8c frameborder=0>
-- entry_name: |
     Recycle for me?
   entry_id: 8qvbdn
   entry_content: |
     <img src=https://i.redditmedia.com/zz4JsLBEtZqtnJs2Gg-Shzl312oQ8j1OhdOUttNjZFo.jpg?s=1650ad1d5b2cd235eccf1d972c944f0b frameborder=0>
+- entry_name: |
+    Mars rover Opportunity has survived 5,161 days longer than expected — and NASA thinks it “should be able to ride out” the massive dust storm covering a quarter of the planet
+  entry_id: 8qvnrw
+  entry_content: |
+    <img src=https://i.redditmedia.com/9BhbtNj641mXFsuxZZw7euCMfzuni-7lcvn_jATNBVc.jpg?s=e2297552c828679379a03d25b1ebad8c frameborder=0>
 - entry_name: |
     Dunkey's E3 2018
   entry_id: 8qvaew
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/FnRHJ_nhgjU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    TIL there’s a 752 pound emerald in an LAPD vault, worth anywhere between $100 to $900 million.
-  entry_id: 8qvnsg
+    Engineer’s son recognizes his dad on a train
+  entry_id: 8qxk8e
   entry_content: |
-    <img src=https://i.redditmedia.com/x-WhXwhd8xZJiapwEkesMuhuHGiSsfJCMUopXjEmyU4.jpg?s=9fc8331d461753d1452cf7caa91b2a7f frameborder=0>
+    <iframe src=https://v.redd.it/lnvf2jez3v311/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Uber is rejecting their target consumers
-  entry_id: 8r01an
+    Dog saves owner from being trapped outside
+  entry_id: 8qz0cq
   entry_content: |
-    <img src=https://i.redditmedia.com/i0aCguxbW56ECYnRMzA_kvjl-V6RpJSbzi762TM3P_M.jpg?s=faaee1bc89377a8d2f6a1bddbe22ec61 frameborder=0>
+    <iframe src=https://v.redd.it/9rzd9bl99w311/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Indeed
+  entry_id: 8qzgr8
+  entry_content: |
+    <img src=https://i.redditmedia.com/Wpv0NYnxGbU5c_9Algnotxm0k_ClVjBrgWaO68lxNtQ.jpg?s=cf328bd0b6d30f99df9e42016acbcaf0 frameborder=0>
 ---
