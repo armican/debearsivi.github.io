@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/rl41476oot311/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Dog level 5000: Achieved
-  entry_id: 8qukvz
-  entry_content: |
-    <iframe src=https://v.redd.it/1tsuuqfbes311/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     The oldest trick in the book
   entry_id: 8qwnk3
   entry_content: |
@@ -47,11 +42,6 @@ data:
   entry_id: 8qwnax
   entry_content: |
     <img src=https://i.redditmedia.com/3ldK_Eh4EHFHICGkYGvDOSjDEVwX0jAtn5hSDmxkRjA.jpg?s=9d789e1142311484bf37d2bd2d30ff7e frameborder=0>
-- entry_name: |
-    The First Female Lead in Gaming
-  entry_id: 8qujan
-  entry_content: |
-    <img src=https://i.redditmedia.com/sysJymTB_1ydgF79Z-IMwG3Y9D7nYiaiKC5ZNUCbzeA.jpg?s=7b84f0fcf371281223482860e521b1a8 frameborder=0>
 - entry_name: |
     Mailboat jumpers are a time-honored Lake Geneva tradition
   entry_id: 8r139c
@@ -141,11 +131,6 @@ data:
   entry_id: 8qy8e9
   entry_content: |
     <img src=https://i.redditmedia.com/51OZgnJAeXgnIULRMbvL9EmGcaAMtqPIyupn7Q3Muq0.jpg?s=46e2f09907c2c04c967e84bd175acc2a frameborder=0>
-- entry_name: |
-    Progression of an animation
-  entry_id: 8qukoa
-  entry_content: |
-    <iframe src=https://v.redd.it/c05zpd7q5t311/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Fox News Mocked For Praising Trump's Kim Jong Un Meeting After Slamming Obama's Willingness To Talk With 'Dictators'
   entry_id: 8qvozh
@@ -251,4 +236,19 @@ data:
   entry_id: 8qvfd4
   entry_content: |
     <img src=https://i.redditmedia.com/7bTWNR9DUME-cjT9g_9NagEVrfvkmQe0AvWHFPBIdTc.jpg?s=01ea1301ab9bf0c867d5312e991bd069 frameborder=0>
+- entry_name: |
+    IHOP's latest marketing gimmick is so lame
+  entry_id: 8qw0bm
+  entry_content: |
+    <img src=https://i.redditmedia.com/fdmxGe_5D_Ft7DBvy99Eg2evLH8qjrUeWpyzSPvh6NU.jpg?s=9e7c17600b61fdf7c8359268aba6e3ba frameborder=0>
+- entry_name: |
+    Sarah Sanders, Raj Shah planning to depart the White House
+  entry_id: 8qxbas
+  entry_content: |
+    <img src=https://i.redditmedia.com/t_ANdVdD0J3RlNtvHzuzy4wQV41U3pbdWlpojIr5vOw.jpg?s=8ea6279452c8fb65cb4c88c0623798e1 frameborder=0>
+- entry_name: |
+    TIL The hallucinogen found in magic mushrooms triggers brain activity patterns that are similar to those seen when someone is dreaming
+  entry_id: 8qw6s5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Rfst0j-OwkNvTRCGa3KzgVw0Znvv19W4JmBcDfDTMeM.jpg?s=d1faa0a6a20b34a2b7fdfecaba48fae0 frameborder=0>
 ---
