@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3ldK_Eh4EHFHICGkYGvDOSjDEVwX0jAtn5hSDmxkRjA.jpg?s=9d789e1142311484bf37d2bd2d30ff7e frameborder=0>
 - entry_name: |
-    Not a Meteorologist
-  entry_id: 8qua8x
-  entry_content: |
-    <img src=https://i.redditmedia.com/fSdJ4G2h246-jrAE-lWy3SoJHwd3e-5_WF3kagMilGY.png?s=8a732634dc7f73a09f3fafe673e0c25d frameborder=0>
-- entry_name: |
     The First Female Lead in Gaming
   entry_id: 8qujan
   entry_content: |
@@ -97,10 +92,6 @@ data:
   entry_id: 8qvl77
   entry_content: |
     <img src=https://i.redditmedia.com/-ZtPiX0PmnKpNH3sY8luT9NP4XH1ZKYhfJJBb09vNn0.jpg?s=536d75ed9cd7473c687e52d60292a8ef frameborder=0>
-- entry_name: |
-  entry_id: 8queov
-  entry_content: |
-    null
 - entry_name: |
     No, you cant go play with the other consoles
   entry_id: 8qzwul
@@ -171,11 +162,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    LPT: If you're buying a home printer for occasional use, get a laser printer; they're more expensive up front but way more economical in the long run.
-  entry_id: 8qufac
-  entry_content: |
-    null
-- entry_name: |
     Sure, I'll jump with you kid
   entry_id: 8qzmac
   entry_content: |
@@ -190,11 +176,6 @@ data:
   entry_id: 8r01an
   entry_content: |
     <img src=https://i.redditmedia.com/i0aCguxbW56ECYnRMzA_kvjl-V6RpJSbzi762TM3P_M.jpg?s=faaee1bc89377a8d2f6a1bddbe22ec61 frameborder=0>
-- entry_name: |
-    I guess you can say penny isn’t very wise
-  entry_id: 8quf5f
-  entry_content: |
-    <img src=https://i.redditmedia.com/-kYswIxa7vdPezePOWsunSfYfvJga5_hyYv8QZ78CFM.jpg?s=af3b32c34a9c74dfd11b2dae2ce875c3 frameborder=0>
 - entry_name: |
     Operation Broken Heart: 2,300 suspected child sex offenders arrested
   entry_id: 8qyycq
@@ -250,4 +231,24 @@ data:
   entry_id: 8qzgr8
   entry_content: |
     <img src=https://i.redditmedia.com/Wpv0NYnxGbU5c_9Algnotxm0k_ClVjBrgWaO68lxNtQ.jpg?s=cf328bd0b6d30f99df9e42016acbcaf0 frameborder=0>
+- entry_name: |
+    TIL there’s a 752 pound emerald in an LAPD vault, worth anywhere between $100 to $900 million.
+  entry_id: 8qvnsg
+  entry_content: |
+    <img src=https://i.redditmedia.com/x-WhXwhd8xZJiapwEkesMuhuHGiSsfJCMUopXjEmyU4.jpg?s=9fc8331d461753d1452cf7caa91b2a7f frameborder=0>
+- entry_name: |
+    Artist used long exposure photography to capture their partner running with a custom built lighting rig covered in colored gels (credit: Daniel Mercadante)
+  entry_id: 8r0n10
+  entry_content: |
+    <img src=https://i.redditmedia.com/AV8CL1atIkN-AcJbTaURIlnO2poiLbLFonsh6QUlVaw.jpg?s=7f5bd390b0db884748a6ac0173d2aed2 frameborder=0>
+- entry_name: |
+    'Shallow at Best and Ridiculous at Worst': Analysis Eviscerates FCC Chair's Arguments for Killing Net Neutrality
+  entry_id: 8qybcz
+  entry_content: |
+    <img src=https://i.redditmedia.com/8_e91dyPv7y8d_LmfA9Fl5qLn5FZbQfQ4YtiR6end_w.jpg?s=fb0e00b9ad517abd5ecfc4fd9d797f1e frameborder=0>
+- entry_name: |
+    think I found a loophole here
+  entry_id: 8qvfd4
+  entry_content: |
+    <img src=https://i.redditmedia.com/7bTWNR9DUME-cjT9g_9NagEVrfvkmQe0AvWHFPBIdTc.jpg?s=01ea1301ab9bf0c867d5312e991bd069 frameborder=0>
 ---
