@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/afuu8xcVzcsSByNufu_UaRItAY0YIuYrbEzl57Mvaw4.jpg?s=fa9a2f8487e7415ced9b2c1600e01d25 frameborder=0>
 - entry_name: |
-    Caught this legend in Philadelphia today. Simple and selfless.
-  entry_id: 8r4n4n
-  entry_content: |
-    <img src=https://i.redditmedia.com/2hZDGIEqe3ShgGwkbpS68wHKiAYTQjB03zDGJOhYYGg.jpg?s=15687b2d8cd67903f47b93499957de5e frameborder=0>
-- entry_name: |
     Evolution of fallout
   entry_id: 8r4t1l
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qinGZFPa1wA4At-815ri0Az2fzUtOb5zAgqRIsBH4Es.jpg?s=63abaa656e38c032328aebd9fb1fa3f5 frameborder=0>
 - entry_name: |
-    A lumberjack went in to a magic forest to cut a tree
-  entry_id: 8r4piv
-  entry_content: |
-    null
-- entry_name: |
     Movement to call migrant detention centers 'concentration camps' swells online
   entry_id: 8r7c5f
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8r56hz
   entry_content: |
     null
+- entry_name: |
+    Boxing is a competition to see who can jiggle their opponent’s soft brain tissue hard enough to make them forget how to stand up.
+  entry_id: 8r570j
+  entry_content: |
+    null
+- entry_name: |
+    All States Matter
+  entry_id: 8r61kl
+  entry_content: |
+    <img src=https://i.redditmedia.com/vr4ch0PExaGbbtwkPWqKjUOWCC4Rc6PLI1_fp71W104.jpg?s=fe4eb6895b3bd5a4e994114f9d0936e0 frameborder=0>
 ---
