@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jf7PDHSB1EwN_VEXYMeLzz1u_lSbcg3jcPYWqYn5adY.jpg?s=82ed22b1048525c5968ece7e1713bd3d frameborder=0>
 - entry_name: |
-    Woodpecker mistaking a mountain patrol officer for a tree.
-  entry_id: 8r489y
-  entry_content: |
-    <iframe src=https://v.redd.it/4361wyegh0411/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Mini me
   entry_id: 8r7khy
   entry_content: |
@@ -173,11 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IVlPqkMkZdK-aVCXqk1pT88y5jzNSFdU29XXrMRtDTc.jpg?s=c3ea97272fc0ecd1691d13f9f838efb1 frameborder=0>
 - entry_name: |
-    who wouldn’t want to be a superhero
-  entry_id: 8r48i0
-  entry_content: |
-    <img src=https://i.redditmedia.com/7nIPOrVrApnloCmUHNAjzqFYw0Dl9tDzhtLFSFJ9rrU.jpg?s=917045d8de1d8fa36479ccf0dbe1f586 frameborder=0>
-- entry_name: |
     Russia warns Norway of ‘consequences’ after it invites in more US Marines
   entry_id: 8r5dvw
   entry_content: |
@@ -213,10 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qinGZFPa1wA4At-815ri0Az2fzUtOb5zAgqRIsBH4Es.jpg?s=63abaa656e38c032328aebd9fb1fa3f5 frameborder=0>
 - entry_name: |
-  entry_id: 8r44xi
-  entry_content: |
-    <img src=https://i.redditmedia.com/YKUEUyxBBCfzygmTzwq1RRhIFChbb2i_RKNEB1-mfcU.jpg?s=11ec15e3a38731bce684ef834057fde8 frameborder=0>
-- entry_name: |
     A lumberjack went in to a magic forest to cut a tree
   entry_id: 8r4piv
   entry_content: |
@@ -251,4 +237,19 @@ data:
   entry_id: 8r4f74
   entry_content: |
     <img src=https://i.redditmedia.com/tn5AwBzIA1pLS6Tm1bAr-KHZI6uC7N5AiY4ANbyPoJg.jpg?s=9e2ddacaa81b03184112970ed55193b9 frameborder=0>
+- entry_name: |
+    OP posts pic of beloved, deceased iPod with 10 years on the clock and a sticker from the band Justice on the back. A band member from Justice shows up in the comments, offering OP a new iPod.
+  entry_id: 8r56hz
+  entry_content: |
+    null
+- entry_name: |
+    It's the future, don't fight it
+  entry_id: 8r96vi
+  entry_content: |
+    <img src=https://i.redditmedia.com/AJSm-Gz84nm13cYU14NUOWjUCcu-SXISwZ4YpzThh38.jpg?s=cc30812929616133d53cc0ce5e101586 frameborder=0>
+- entry_name: |
+    Trump: Kim's people sit up when he speaks, 'I want my people to do the same'
+  entry_id: 8raqqg
+  entry_content: |
+    <img src=https://i.redditmedia.com/kc19mCCvtSxvx15wvXTheZN17vjHUtfmR0QP48pm9DM.jpg?s=fd713e3eba85a656b5450c9ebdfd2326 frameborder=0>
 ---

@@ -6,23 +6,23 @@ data:
     yılların ülkücülerinin mhp'yi satması
   entry_id:  78089768
   entry_writer: coubania
-  entry_fav_count: 781
+  entry_fav_count: 799
   entry_content: |
     kimse davayı satmadı. ülkücüler iyi partili oldu, kalanlar da akpli.
   entry_channels: siyaset
 - entry_name: |
-    iyip ve chp'nin hdp ve fetö ile aynı hedefi olması
-  entry_id:  78083319
-  entry_writer: circiriye
-  entry_fav_count: 369
+    baştan söyleyeyim aktroll değilim
+  entry_id:  78084262
+  entry_writer: pangeya
+  entry_fav_count: 308
   entry_content: |
-    moda oldu amk “aktroll ilmidiğimi iski intrylirimdin inliyibilirsiniz”<br/><br/>kötü olan herkes için kötüdür. gitmesi gerekiyorsa biri gidecektir. o istemiş bu istemiş önemli değildir.
+    öncelikle belirteyim satıcı değilim, bu elimde görmüş olduğunuz traş bıçağı...
   entry_channels: siyaset
 - entry_name: |
     bayramlarda bir şeker değil bir kitap veriyoruz
   entry_id:  78088316
   entry_writer: ot yiyen panda
-  entry_fav_count: 285
+  entry_fav_count: 296
   entry_content: |
     kendimin başlattığı sizlerin de bu bayram dahil olmak üzere bundan sonraki bütün bayramlarda katılmanızı beklediğim kampanyadır. bir öğretmen olarak öncelikle çocuklara içlerinde bir küçük bilgi yazan ve şeker olan paketler vermeyi düşündüm fakat sonrasında kapıya gelen çocukların ortalama 7-13 yaş aralığı çocuklar olmaları sebebiyle kitap vermeyi, onlara kitap okuma alışkanlığı kazandırabilmeyi, en azından küçük bir farkındalık yaratabilmeyi daha mantıklı buldum. bu bayram bir kilo şeker yerine 50 tane çocuk kitabı aldım. bu kitaplar masal, bilim, okul öncesi, çizgi roman tarzı olmakla beraber ince ve resimli kitaplardı. sabah tek tük gelen çocuklara kitap vereceğimi söyleyince biraz şaşırdılar fakat kitabı aldıklarında hemen içine bakıp diğer arkadaşındaki kitabı da incelemesiyle öğretimde de ilk adımımız olan dikkat çekmeyi gerçekleştirdiğimizi anladım. sonra balkondan baktım ve sokakta ellerindeki bir poşet şekeri yanlarına koymuşlar ve kaldırımda birbirlerinin kitaplarını inceliyorlardı. onlar da şaşırmıştı. ben bunu okul başladığında önce velilere söyleyerek geliştirmek daha sonra da yaymak istiyordum fakat ekşi sözlük'ten direkt olarak yaymak daha mantıklı geldi ve hızlı sonuç vereceğine inandım. <br/><br/>çocuklara ucuz şekerlemeler vereceğimize 2-3 liralık ince ve resimli kitaplar vererek onları okumaya karşı heveslendirebiliriz. kitapların farklı olmasına özellikle dikkat ettim ki birbirleri arasında ödünç alma, değiş tokuş yapma becerilerini ve emanet mala dikkat etme değerini kazanmaları konusunda öncü olmak istedim. tek gelen çocuk yok en az 2-3 çocuk birlikte dolaşıyorlar. ve onlara bu kitapları verdikçe de onların seviyesine eğilerek tatlı bir nasihat veriyorum onlara: okuduktan sonra arkadaşınla değiş o seninkini okusun sen de onunkini oku. <br/><br/>yine şeker verebilirsiniz tabii ki fakat az çok amacını anladığınızı düşünüyorum. 100 çocuktan 1 tane çocuk dahi kazanabilmek en büyük bayram şekeri olacaktır ülkemiz, geleceğimiz adına.<br/><br/>bayramda bir şeker değil bir kitap veriyoruz!<br/>desteklerinizi bekliyorum.<br/><br/>ek: başlık çok uzun gözükmesin diye ekleri bir diğer entry'e koyuyorum. burası amacından çıkmasın. çok teşekkürler bütün destek verenlere.
   entry_channels: eğitim
@@ -30,41 +30,41 @@ data:
     patileri kesilen köpeğin ölmesi
   entry_id:  78091483
   entry_writer: miyora
-  entry_fav_count: 214
+  entry_fav_count: 237
   entry_content: |
     bu köpeği öldüren kişi veya kişileri doğuran anayı sikeyim böyle evlat doğurup takip etmedikleri için.bayram günümü zehir etti orospu çocukları.ateist biri olarak umarım cehennem diye bir yer vardır diyorum.yanın sonsuza kadar piçler.
   entry_channels: haber
 - entry_name: |
-    ateistler bayramda ne yapıyor meselesi
-  entry_id:  78084690
-  entry_writer: deytas
-  entry_fav_count: 200
-  entry_content: |
-    mesele olmayan konudur.<br/>çünkü ateistlerin hepsi "kültürel müslüman"dır.
-  entry_channels: anket
-- entry_name: |
     trt'nin 2018 dünya kupası zulmü
   entry_id:  78093625
   entry_writer: karanliktaki kilic
-  entry_fav_count: 199
+  entry_fav_count: 208
   entry_content: |
     bir devlet kanalı ancak bu kadar iğrençleşebilirdi. yeter artık ulan. her maç öncesi sonrası devre arasında varsa yoksa iğrenç akp reklamları aralarda da bazen mhp reklamları. midemize bulandı artık, dünya kupası çok reyting alıyor diye her maç öncesi sonrası devre arasında gözlerimizi kanatmanız, beynimizi yakmanız mı lazım. <br/><br/>bir vatandaş olarak milletin parasından maaş alan hiçbir trt çalışanına hakkımı helal etmiyorum. en ufak hakkım varsa haram olsun kursağınızda kalsın.
   entry_channels: spor,anket,tv
 - entry_name: |
+    ateistler bayramda ne yapıyor meselesi
+  entry_id:  78084690
+  entry_writer: deytas
+  entry_fav_count: 207
+  entry_content: |
+    mesele olmayan konudur.<br/>çünkü ateistlerin hepsi "kültürel müslüman"dır.
+  entry_channels: anket
+- entry_name: |
     suruç'un müsebbibi demirtaş'ı ziyaret edendir
   entry_id:  78093303
   entry_writer: lahmacunmania
-  entry_fav_count: 195
+  entry_fav_count: 204
   entry_content: |
     şu kel kafa varya rte den bile daha tehlikeli. allah korusun beterin beteri dedikleri adam tamda bu. ülkeyi iç savaşa sokar akşamınada bavullarını toplayıp kaçar.
   entry_channels: siyaset,haber
 - entry_name: |
-    14 haziran 2018 suruç olayları
-  entry_id:  78071143
-  entry_writer: otostopcu musunuz ne ayak lan
-  entry_fav_count: 169
+    muharrem ince'nin bedelli askerlik açıklaması
+  entry_id:  78094089
+  entry_writer: slmcn
+  entry_fav_count: 170
   entry_content: |
-    öyle bir devlet başkanı düşünün ki, ''hdp üzerinde farklı çalışmalar'' yapmalıyız dediği gizli ses kayıtlarının çıktığı günün ertesi hdp lileri kurşunlayıp mağdur rolü oynasın.<br/>sen nasıl allahın kitabın adını ağzına alabiliyorsun ulan? nasıl bir insanlıktan çıktın? nasıl bir diktatörsün?
+    şu anda yalova mitinginde yaptığı açıklamadır.<br/><br/>seçildikten sonra 1 kereye mahsus bedelli askerlik çıkaracağını söyledi.<br/><br/>bedelli askerlikten gelecek olan paranın<br/><br/>3'te 1'ini erlere,<br/>3'te 1'ini gazi ve şehit yakınlarına,<br/>3'te 1'ini savunma sanayisine ayıracaklarını söyledi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.mynet.com/muharrem-ince-den-24-haziran-erken-secimi-oncesi-bedelli-askerlik-mujdesi-secim-4197664" title="https://m.mynet.com/muharrem-ince-den-24-haziran-erken-secimi-oncesi-bedelli-askerlik-mujdesi-secim-4197664">kaynak</a>
   entry_channels: siyaset,haber
 - entry_name: |
     camilerdeki safları sık tutun muhabbeti
@@ -75,18 +75,10 @@ data:
     muhabbet değildir. islamda "kardeşlik" kavramını pekiştiren olgulardan birisidir. safların sık olması, kardeşlik bağının güçlenmesi manasındadır. aslında, dışarıda kalan adamların safa dahil olması gibi düşünülebilir ama temelinde bu olgu vardır. siz, "ter kokan" adamın kokusunu çekmek zorunda değilsiniz evet. ama bu da her safa girenin pis koktuğu anlamına gelmez, kokanın da islamdan nasibini almadığına delildir. zira camiye temiz elbise ile gitmek, koku sürünmek sünnettir. hatta saftaki müslüman kardeşi rahatsız etmemek için sarımsak gibi koku yapıcı şeyleri yemek bile uygun görülmemiştir (sigara, soğan vb aklınıza ne gelirse). <br/><br/>safları sık tutmak lazım. sadece namazda değil, toplumda da...
   entry_channels: ilişkiler
 - entry_name: |
-    muharrem ince'nin bedelli askerlik açıklaması
-  entry_id:  78094089
-  entry_writer: slmcn
-  entry_fav_count: 157
-  entry_content: |
-    şu anda yalova mitinginde yaptığı açıklamadır.<br/><br/>seçildikten sonra 1 kereye mahsus bedelli askerlik çıkaracağını söyledi.<br/><br/>bedelli askerlikten gelecek olan paranın<br/><br/>3'te 1'ini erlere,<br/>3'te 1'ini gazi ve şehit yakınlarına,<br/>3'te 1'ini savunma sanayisine ayıracaklarını söyledi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.mynet.com/muharrem-ince-den-24-haziran-erken-secimi-oncesi-bedelli-askerlik-mujdesi-secim-4197664" title="https://m.mynet.com/muharrem-ince-den-24-haziran-erken-secimi-oncesi-bedelli-askerlik-mujdesi-secim-4197664">kaynak</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     15 haziran 2018 muharrem ince yalova mitingi
   entry_id:  78093083
   entry_writer: siyahbeyaznegatif
-  entry_fav_count: 151
+  entry_fav_count: 156
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>siyaset uzun ince bir yolculuk. uzun kısmı bitti, ince kısmı başladı<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu ne lan?<br/><br/>aahhahahahhahahha
   entry_channels: siyaset,haber
@@ -94,7 +86,7 @@ data:
     ömür boyu aynı insanla sevişmek
   entry_id:  78087921
   entry_writer: kara cabbar
-  entry_fav_count: 150
+  entry_fav_count: 152
   entry_content: |
     evli insanların seks yaptığını sanan cahil beyanı
   entry_channels: anket,ilişkiler
@@ -107,10 +99,18 @@ data:
     kaliteli fazla bi iş yok çünkü. mühendisler genelde işçi başı/formen olarak iş yaptiklari icin bir ömür işçinin bir tık üstü kalitede oluyorlar.<br/>edit: millet yazmis bilgi eksikligi okullar kalitesiz falan<br/>türkiye'de apple daki teslada ki muhendislerle aşık atacak adam cok ama apple ve tesla yok. varsa yoksa inşaat.
   entry_channels: anket,eğitim
 - entry_name: |
+    bmw'yi be me ve diye okumak
+  entry_id:  78083606
+  entry_writer: efthio
+  entry_fav_count: 124
+  entry_content: |
+    almanca da "w" nun "ve" olarak okuduğunu bilmeyen sonradan görme ingiliz meraklısı bir yazarın hezeyanı.<br/><br/>bmw bir alman markasıdır, almanca tam olarak "be-em-ve" olarak okunur.<br/><br/>edit: bi - em- vi diyen krolara gelsin, üstteki de durumu kurtarmak için düzeltmiş biemvi diye ama yine kurtaramamış. bak bakalım has alman nasıl okuyor:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=mG7GBGcABYQ" title="https://www.youtube.com/watch?v=mG7GBGcABYQ">kızgın alman</a>
+  entry_channels: anket,otomotiv
+- entry_name: |
     doktorların bitkisel tedaviyi öcü gibi görmeleri
   entry_id:  78075226
   entry_writer: the4horsemen
-  entry_fav_count: 120
+  entry_fav_count: 123
   entry_content: |
     hekimlerin bilim insanları olmalarından kaynaklanır. bilimsel olarak güvenilirliği ispatlanmayan hiçbir yaklaşım, ekstrem durumlar hariç kabul edilemez.<br/><br/>hekimler doğal tedavilere değil, bilinçsiz, kontrolsüz ve açıklaması olmayan tedavi girişimlerine şüpheci yaklaşırlar. genellikle ilaç yazılmadığında öfke ve şaşkınlıkla cevap verenler ise bilinçsiz hastalardır. istirahat, bol su, vitamin-mineral takviyesi tipi tavsiyelerde bulunadurun, ‘yetersiz doktor’ olduğunuz dedikoduları kulaktan kulağa yayılmaya başlar bile.<br/><br/>ayrıca her şeyin çaresinin tabiatta olduğu hipotezini öne süren girdi sahibi, bunu destekleyecek bir bilgi sunmamış. en basitinden neredeyse hiçbir cerrahi hastalığın tedavisi tabiatta yoktur. diyabetin, tiroid hastalıklarının tedavisi tabiatta yoktur.<br/><br/>boş yere açılan girdilerin tedavisi tabiatta yoktur.<br/><br/>düzenleme: imla
   entry_channels: sağlık
@@ -118,7 +118,7 @@ data:
     volvo'nun kafa kafaya çarpıştığı tır'ı pert etmesi
   entry_id:  78090753
   entry_writer: okunmaz adam
-  entry_fav_count: 115
+  entry_fav_count: 116
   entry_content: |
     çarpışmanın etkisinin tırın zayıf noktası ile bir alakası yok. <br/><br/>fizik yasaları, tırın zayıf noktasına falan bakmaz. hız x kütle = adamın amına koyar.<br/><br/>iki tane ağır kum romörkünü çeken devasa bir tır bir arabaya çarptığında hızx kütle= önünde hiçbir şey duramaz. <br/><br/>ama görüyoruz ki, volvo sadece ön motor bölümün hasar aldığı, kokpitin ise sapa sağlam kaldığı, sürücünün hafif sıyrıklarla kazadan kurtulabildiği mükemmel bir güvenlik sistemi kurmuş. keşke bütün otomobil üreticileri bunu yapabilse. <br/><br/>ayrıca dikkat ederseniz, kaza resmen göre göre geliyor. volvo sürcüsü normalda kamyonun geldiğini görebilecek harika bir görüş açısına sahip ama yine de şerit değiştiriyor. yani muhtemelen ya teleofnla konuşuyor, ya aynalrdan sağına soluna bakıyor, ya telefonda mesaj okuyor ve önüne bakmıyor. <br/><br/>bu hatayı başka bir aracın içinde yapsaydı, bir anlık dalgınlıkla ölmüştü.<br/><br/>bütün otomobil üreticilerinin bu olasılıkları dikkate alarak araç tasarlaması gerekiyor. <br/><br/>trafik şaka değil, bir anlık dalgınlık, hayatınızı alır.<br/><br/>bu arada: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=M7FIvfx5J10">https://www.youtube.com/watch?v=m7fivfx5j10</a><br/><br/>ve elbette unutulmaz cevab:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=dndHQzZPH0Q">https://www.youtube.com/watch?v=dndhqzzph0q</a>
   entry_channels: otomotiv
@@ -126,7 +126,7 @@ data:
     15 haziran 2018 fas iran maçı
   entry_id:  78080053
   entry_writer: en son uctugumda 14 yasindaydim
-  entry_fav_count: 109
+  entry_fav_count: 110
   entry_content: |
     turnuvanın en az takip edilecek maçlarından biri. takip edecekler:<br/><br/>1)faslılar<br/>2)iranlılar <br/>3) belhanda belki bir şey yapar da satarız diyen gsliler<br/>4) gizli faslı aykut kocaman
   entry_channels: spor
@@ -134,26 +134,26 @@ data:
     15 haziran 2018 mi'nin efsanevi u dönüşü
   entry_id:  78094895
   entry_writer: diego alejandro fuentes medina
-  entry_fav_count: 97
+  entry_fav_count: 100
   entry_content: |
     (bkz: <a class="b" href="/?q=sik+bulmam+laz%c4%b1m">sik bulmam lazım</a>)
   entry_channels: siyaset
 - entry_name: |
-    demirören'in aydın doğan'a karşılıksız çek vermesi
-  entry_id:  78089664
-  entry_writer: spreew
-  entry_fav_count: 94
-  entry_content: |
-    bütün suç aydın doğan'ın. insan aldığı çeki findeks'ten sorgulatmaz mı kardeşim kim bu demirörenler diye ?
-  entry_channels: haber,ekonomi
-- entry_name: |
     köpek katilini ihbar edene verilecek para ödülü
   entry_id:  78092635
   entry_writer: fancia
-  entry_fav_count: 93
+  entry_fav_count: 97
   entry_content: |
     <a class="b" href="/?q=sakarya%27da+t%c3%bcm+patileri+kesilen+k%c3%b6pek">sakarya'da tüm patileri kesilen köpek</a>in katilinin bulunmasını sağlayacak ihbarcıya verilecek ödüldür.<br/>şu an için 6500 tl dir.
   entry_channels: anket,haber
+- entry_name: |
+    demirören'in aydın doğan'a karşılıksız çek vermesi
+  entry_id:  78089664
+  entry_writer: spreew
+  entry_fav_count: 97
+  entry_content: |
+    bütün suç aydın doğan'ın. insan aldığı çeki findeks'ten sorgulatmaz mı kardeşim kim bu demirörenler diye ?
+  entry_channels: haber,ekonomi
 - entry_name: |
     15 haziran 2018 mısır uruguay maçı
   entry_id:  78071190
@@ -163,18 +163,10 @@ data:
     gönlüm istiyor ki bu gruptan mısır bir şekilde çıksın ve b grubundan da ispanya ile eşleşsin ve salah da ramos'tan intikamını bir şekilde alsın,ister çirkeflikle,ister sportmenlik dışı,isterse de oyun içi başarı elde ederek ama alsın bir şekilde..<br/><br/>salah ne yapsa mübah <sup class="ab"><a title="(bkz: çok da kafiyeli oldu)" href="/?q=%c3%a7ok+da+kafiyeli+oldu" data-query="çok da kafiyeli oldu">*</a></sup>
   entry_channels: spor
 - entry_name: |
-    simit satmış sözlük yazarları
-  entry_id:  78079629
-  entry_writer: edarda
-  entry_fav_count: 82
-  entry_content: |
-    kuzenlerimin satmışlığı vardır. 4 erkek kardeştiler ve her yaz okullar kapanır kapanmaz eniştem her birine yapacak bir iş vermiş olurdu. simit, mısır, su satmak, sanayide çıraklık yapmak 4 kuzenimin de yazlık işleri arasındaydı. <br/><br/>o zamanlar eniştemin bu yaptığını gaddarlık olarak algılardım. zira mali durumları gayet iyiydi. eniştem inşaat işleri yapardı. çok merkezi bir yerde 3 katlı bir evleri vardı en alttaki 3 dükkan ve bir üstündeki iki daireden kira alıyorlardı. en üst kattaki çift dairede de oturuyorlardı. yani çocukların çalışmasına hiç ihtiyacı yoktu. <br/>şimdi anlıyorum çok doğru bir şey yaptığını. 4 erkek çocuğu birden, onları lümpenlikten serserilikten koruyarak yetiştirmek hiç kolay olmasa gerek. kuzenlerimin o dönemki arkadaşlarının çocuğu , okuyan bir iki tanesi hariç bi baltaya sap olamadılar doğru düzgün. en fazla sanayide işçi oldular. kuzenleriminse hepsi de okudu ve başarılı işler yaptılar, hala yapıyorlar.
-  entry_channels: ekşi-sözlük,yeme-içme
-- entry_name: |
     uzun yol araba yolculuğunu çekilir yapacak şey
   entry_id:  78092634
   entry_writer: annavence8
-  entry_fav_count: 77
+  entry_fav_count: 78
   entry_content: |
     -aşık olduğunuz insan, kaliteli müzik ve konforlu bir araba.
   entry_channels: seyahat
@@ -206,10 +198,26 @@ data:
     aynı anda üç kadını idare eden erkek
   entry_id:  78089419
   entry_writer: mysteriouscircles
-  entry_fav_count: 35
+  entry_fav_count: 36
   entry_content: |
     eşini aldatmanın marifet olduğunu kitlelere anlatan bir adet.(bkz: <a class="b" href="/?q=yav%c5%9fak">yavşak</a>) içermektedir.
   entry_channels: ilişkiler
+- entry_name: |
+    15 haziran 2018 portekiz ispanya maçı
+  entry_id:  78071243
+  entry_writer: well cooked
+  entry_fav_count: 27
+  entry_content: |
+    620.700.000 €'luk portekiz vs. 1.019.750.000 €'luk ispanya maçı.<br/><br/>8.998.688.475 türk lirası sahada olacak. euro kuru çok bozdu çok...<br/><br/>maçtan enstantaneler:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/dXkfgY" title="https://goo.gl/dXkfgY">penaltı pozisyonu ve portekiz'in golü.</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/k58WPA" title="https://goo.gl/k58WPA">ispanya'nın golü.</a>
+  entry_channels: spor
+- entry_name: |
+    meral akşener
+  entry_id:  78078179
+  entry_writer: mahoaganinkuluyam
+  entry_fav_count: 26
+  entry_content: |
+    100 yıllık partiyle 8 aylık partiyi bir tutup başarısı küçümsenmeye çalışılan <a class="b" href="/?q=devlet+ana">devlet ana</a>, <a class="b" href="/?q=bac%c4%b1+bey">bacı bey</a>, <a class="b" href="/?q=bilge+hatun">bilge hatun</a>.<br/><br/><a class="b" href="/?q=muharrem+ince">muharrem ince</a> belli bir mirası devralarak bunun üstüne koymaya çalışmaktadır.<br/>chp'nin en az %25'lik bir kemik oyu alıp, üstüne iktidar partisinden sonra en varlıklı, en kurumsal partinin desteğini alarak ilerlemektedir.<br/>yolu da açık olsun. <br/><br/>ama <a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a> resmen bu hareketi <a class="b" href="/?q=yoktan+var+etmi%c5%9f">yoktan var etmiş</a>, kongresi bile engellenmeye çalışılmış, asıl hainler tarafından hainlikle itham edilmiş, bunlarla mücadele edip hepsinin çenesini kapatıp, oyunlarını boşa çıkarmış,<br/>sadece vatanını seven, hiçbir partiyle maddi manevi bağı olmayan, kimseden menfaati olmayan gerçek vatansever insanlara bir umut kapısı, bir dayanak olmuş, <br/>üstelik bunu türkiye'de, erkek hegemonyasının en baskın olduğu bir siyasi partiye restini çeken <a class="b" href="/?q=yaln%c4%b1z+bir+kad%c4%b1n">yalnız bir kadın</a> olarak yapmış bir liderdir.<br/><br/><a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a> bugün hiçbir şey yapmadıysa, <br/>bizi <a class="b" href="/?q=karanl%c4%b1%c4%9f%c4%b1n+tonlar%c4%b1+aras%c4%b1nda+se%c3%a7im+yapmak">karanlığın tonları arasında seçim yapmak</a>tan kurtarıp, bize <a class="b" href="/?q=ayd%c4%b1nl%c4%b1%c4%9f%c4%b1n+var+oldu%c4%9funu">aydınlığın var olduğunu</a> göstermiştir.
+  entry_channels: siyaset
 - entry_name: |
     ezberlenen en saçma şey
   entry_id:  78071724
@@ -219,22 +227,6 @@ data:
     tanıdığım herkesin araç plakası. çok gereksiz. ama kedilerin birbirlerini kokularından tanıması gibi ben de insanları plakalarından tanıyorum. <br/><br/>yıllar önce yanlış arabaya binmiştim. adam bön bön baktı yüzüme. sonra evrim bu özelliği ikram etti bana. bir tür adaptasyon.
   entry_channels: anket
 - entry_name: |
-    15 haziran 2018 portekiz ispanya maçı
-  entry_id:  78071243
-  entry_writer: well cooked
-  entry_fav_count: 25
-  entry_content: |
-    620.700.000 €'luk portekiz vs. 1.019.750.000 €'luk ispanya maçı.<br/><br/>8.998.688.475 türk lirası sahada olacak. euro kuru çok bozdu çok...<br/><br/>maçtan enstantaneler:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/dXkfgY" title="https://goo.gl/dXkfgY">penaltı pozisyonu ve portekiz'in 1. golü.</a><br/><br/>v
-  entry_channels: spor
-- entry_name: |
-    meral akşener
-  entry_id:  78078179
-  entry_writer: mahoaganinkuluyam
-  entry_fav_count: 24
-  entry_content: |
-    100 yıllık partiyle 8 aylık partiyi bir tutup başarısı küçümsenmeye çalışılan <a class="b" href="/?q=devlet+ana">devlet ana</a>, <a class="b" href="/?q=bac%c4%b1+bey">bacı bey</a>, <a class="b" href="/?q=bilge+hatun">bilge hatun</a>.<br/><br/><a class="b" href="/?q=muharrem+ince">muharrem ince</a> belli bir mirası devralarak bunun üstüne koymaya çalışmaktadır.<br/>chp'nin en az %25'lik bir kemik oyu alıp, üstüne iktidar partisinden sonra en varlıklı, en kurumsal partinin desteğini alarak ilerlemektedir.<br/>yolu da açık olsun. <br/><br/>ama <a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a> resmen bu hareketi <a class="b" href="/?q=yoktan+var+etmi%c5%9f">yoktan var etmiş</a>, kongresi bile engellenmeye çalışılmış, asıl hainler tarafından hainlikle itham edilmiş, bunlarla mücadele edip hepsinin çenesini kapatıp, oyunlarını boşa çıkarmış,<br/>sadece vatanını seven, hiçbir partiyle maddi manevi bağı olmayan, kimseden menfaati olmayan gerçek vatansever insanlara bir umut kapısı, bir dayanak olmuş, <br/>üstelik bunu türkiye'de, erkek hegemonyasının en baskın olduğu bir siyasi partiye restini çeken <a class="b" href="/?q=yaln%c4%b1z+bir+kad%c4%b1n">yalnız bir kadın</a> olarak yapmış bir liderdir.<br/><br/><a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a> bugün hiçbir şey yapmadıysa, <br/>bizi <a class="b" href="/?q=karanl%c4%b1%c4%9f%c4%b1n+tonlar%c4%b1+aras%c4%b1nda+se%c3%a7im+yapmak">karanlığın tonları arasında seçim yapmak</a>tan kurtarıp, bize <a class="b" href="/?q=ayd%c4%b1nl%c4%b1%c4%9f%c4%b1n+var+oldu%c4%9funu">aydınlığın var olduğunu</a> göstermiştir.
-  entry_channels: siyaset
-- entry_name: |
     ekşi itiraf
   entry_id:  78072211
   entry_writer: me is why i believe
@@ -243,21 +235,45 @@ data:
     bir insan ölünce ne çok şey ölüyor beraberinde...<br/><br/>onunla olan sırlarınız ölüyor mesela. tuhaf. sadece onun bildiği, sadece ona söylediğin sırlar sonsuza kadar yok oluyor. hiçbir anlamı kalmıyor. onun sadece sende olan sırlarıysa zaten artık kalmıyor. onun kendisi sır oluyor, ötesi mi var...<br/><br/>sadece ikinizin anladığı, onunla aranızda olan her bir şey ölüyor. bir tek ona karşı kullandığın bir hitap, söylediğinde bir tek onun anlayacağı bir söz, bir tek onun anlayacağı bir hareketin, bir bakışın... bir tek ona anlattığın, bir tek ona anlatabileceğin şeyler... hepsi ölüyor. hepsi yok oluyor.<br/><br/>beraber kurulan hayaller, beraber yapılan planlar, beraber olmadıktan sonra bir anlam ifade etmediğinden rafa kaldırılan ve o rafta bir daha el sürülmemek üzere tozlanmaya bırakılan milyon tane düşünce, istek, heves...<br/><br/>bir aile ölüyor, bir ev ölüyor, bütün bir geçmiş ölüyor, bir çocuk, bir çocukluk... hatıralardan, rüyalardan başka tutunabileceğin tek bir şey kalmayana dek geriye, her şey ölümüne flu ve ölümüne gerçek dışı, ölümüne hayal meyal olana dek her bir şey ölüyor... için ölüyor.<br/><br/>bir insan ölüyor, bir yerlerde birilerine yine söylemiştim daha önce de, sen burun direği diye bir şeyin gerçekten varolduğunu, gerçekten sızlayan bir şey olduğunu öğreniyorsun. bir insan ölüyor, aradan tam 16 ay geçiyor ve burnunun direği hala ilk günkü gibi sızım sızım sızlıyor...<br/><br/>bir insan, bazen, beraberinde başka bir insanın da bu çarkına sıçtığımın hayatına dair sevdiği, önemsediği, heves ettiği bir dolu şeyi de beraberinde geri dönüşsüzce götürerek ölüyor. ölüveriyor.<br/><br/>bayramın kutlu olsun annem benim, o güzel ellerinden öperim. gözlerinden, yanaklarından, alnından tarifsiz bir hasretle öperim. seni çok özledim. çok özlüyorum...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    ankara'nın nesini seversiniz
+  entry_id:  78095958
+  entry_writer: tekk
+  entry_fav_count: 19
+  entry_content: |
+    ne kadar sıcak olursa olsun akşam oldugunda hafiften esen rüzgarını.<br/>nem yok daha ne olsun.
+  entry_channels: anket
+- entry_name: |
+    düğün istemeyen hatun
+  entry_id:  78095956
+  entry_writer: butundunyaaskolsun
+  entry_fav_count: 18
+  entry_content: |
+    yerine her zaman en şatafatlısından, en kalabalığından, en pahalısından bir düğün isteyen kadının tercih edileceği kadındır. ama bazı insanlar karakterlerinin gerektiği şekilde davranmaktan başka bir şey yapamazlar ne yazık ki.<br/><br/>şu hayatta en sevmediğim şeylerden birisi düğün. davetli olarak dahi gitmek istemem ki kendim isteyeceğim. o kadar insana, akrabaya, saçmalığa vs. asla katlanamam.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     bedelli askerlik
   entry_id:  78094851
   entry_writer: crazy tiftik
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     referandum sonrası çıkaracağız deyip çıkartmayanlara zerre güven yok. <br/><br/>seçim öncesi çıkartabilecek güç varken, seçim sonrasına vaat verenlere geçit yok.<br/><br/>madem bedelliye onay verdi, oyumuz inceye.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    phillip cocu
-  entry_id:  78096314
-  entry_writer: itachiuchiha
+    cristiano ronaldo
+  entry_id:  78090242
+  entry_writer: maksimovic
+  entry_fav_count: 15
+  entry_content: |
+    ronaldo suçlu ya da suçsuz, onu bilemem ama kararın ispanya portekiz maci öncesinde verilmesi rahatsız edici. zira bu durum, klasik ispanyol şerefsizliği izlenimi yaratıyor. karar şampiyona sonrası aciklanabilirdi.
+  entry_channels: spor
+- entry_name: |
+    tamir etmekten zevk alan kız
+  entry_id:  78088967
+  entry_writer: missspi
   entry_fav_count: 14
   entry_content: |
-    psv'nin 6 yıl şampiyonluk görememesi üzerine gelmiş ve 4 yıl içinde 3 kez şampiyon yapmış. ama yok psv'yi sayın ekşi sözlük yazarı bile şampiyon yapar yahu.
-  entry_channels: spor
+    dahil olduğum insan evladı grubu.<br/><br/>başkasına muhtaç olmaktan asla hoşlanmamaları muhtemeldir, bu yüzden kendi göbeğimi kendim keserim diye düşünür. cinsiyetin yapılan işle alakası olmadığı kanısındadır. elinin hamuruyla karışma yapamazsın fikrini aptalca bulur.<br/><br/>meraklı olabilir, bir şeyleri kurcalamaktan çok hoşlanabilir. "hatta elimden her iş gelmeli, yapamadığım hiçbir şey olmasın" diyen takıntılı bir şahıs olma ihtimali vardır. (bkz: <a class="b" href="/?q=ben">ben</a>) <br/><br/>musluk tamir etmişliğim, elektrik prizi değiştirmişliğim, demir kapı-korkuluk boyamışlığım, matkap kullanmışlığım; 14 yaşımdayken yapamayacağımı söyleyip çekiçle elime vurup testereyle elimi keseceğim iddiasında olan babama rağmen tahta kuş evi yapmışlığım vardır. hepsinin içinden de yüzümün akıyla çıktım. hatta daha birkaç gün önce lehim yapmayı öğrendim, sırf bu yüzden mutluluktan uçuyordum.<br/><br/>yani tamir etmekten zevk alan erkekten bir farkı yoktur. çok şeetmeyin.<br/><br/>edit: ekşi sözlüğün sevgili güzide beyefendileri, teker teker gelin lan. hatta gelmeyin. olum bi' yavaş, iyi ki ayda yılda bir belli ettik cinsiyetimizi. bu nedir ya?<br/><br/>edit 2: dostum, niye atom parçalıyor muamelesi yapıyorsunuz? kırın şu kadın yapamaz, kırılgandır ön yargılarınızı.
+  entry_channels: anket
 - entry_name: |
     24 haziran 2018 cumhurbaşkanlığı seçimi
   entry_id:  78080335
@@ -283,37 +299,29 @@ data:
     bulantı? evet evet mide bulantısı olması muhtemeldir. hepimiz (bkz: <a class="b" href="/?q=jean-paul+sartre">jean-paul sartre</a>)nin evlatlarıyız.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    düğün istemeyen hatun
-  entry_id:  78095956
-  entry_writer: butundunyaaskolsun
-  entry_fav_count: 11
+    futbolcularda saç dökülmesinin çok nadir olması
+  entry_id:  78098059
+  entry_writer: haksizfil
+  entry_fav_count: 8
   entry_content: |
-    yerine her zaman en şatafatlısından, en kalabalığından, en pahalısından bir düğün isteyen kadının tercih edileceği kadındır. ama bazı insanlar karakterlerinin gerektiği şekilde davranmaktan başka bir şey yapamazlar ne yazık ki.<br/><br/>şu hayatta en sevmediğim şeylerden birisi düğün. davetli olarak dahi gitmek istemem ki kendim isteyeceğim. o kadar insana, akrabaya, saçmalığa vs. asla katlanamam.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    cristiano ronaldo
-  entry_id:  78090242
-  entry_writer: maksimovic
-  entry_fav_count: 11
-  entry_content: |
-    ronaldo suçlu ya da suçsuz, onu bilemem ama kararın ispanya portekiz maci öncesinde verilmesi rahatsız edici. zira bu durum, klasik ispanyol şerefsizliği izlenimi yaratıyor. karar şampiyona sonrası aciklanabilirdi.
+    yaş ortalamaları 25 ile 28 arasında değişen takımlar üzerinden yazılan saçmalama cümlesi.
   entry_channels: spor
 - entry_name: |
-    ankara'nın nesini seversiniz
-  entry_id:  78095958
-  entry_writer: tekk
-  entry_fav_count: 11
+    phillip cocu
+  entry_id:  78095343
+  entry_writer: bs axungur
+  entry_fav_count: 7
   entry_content: |
-    ne kadar sıcak olursa olsun akşam oldugunda hafiften esen rüzgarını.<br/>nem yok daha ne olsun.
-  entry_channels: anket
+    olm fenerbahçeye hücum oynatacak bir adam geliyor sonunda.istatistikleri de mükemmel.<br/><br/>kop gel günahlarından amk cocu.
+  entry_channels: spor
 - entry_name: |
-    tamir etmekten zevk alan kız
-  entry_id:  78088967
-  entry_writer: missspi
-  entry_fav_count: 10
+    türk halkının cahil kalma nedeni
+  entry_id:  78075087
+  entry_writer: faizsizbankacilik
+  entry_fav_count: 6
   entry_content: |
-    dahil olduğum insan evladı grubu.<br/><br/>başkasına muhtaç olmaktan asla hoşlanmamaları muhtemeldir, bu yüzden kendi göbeğimi kendim keserim diye düşünür. cinsiyetin yapılan işle alakası olmadığı kanısındadır. elinin hamuruyla karışma yapamazsın fikrini aptalca bulur.<br/><br/>meraklı olabilir, bir şeyleri kurcalamaktan çok hoşlanabilir. "hatta elimden her iş gelmeli, yapamadığım hiçbir şey olmasın" diyen takıntılı bir şahıs olma ihtimali vardır. (bkz: <a class="b" href="/?q=ben">ben</a>) <br/><br/>musluk tamir etmişliğim, elektrik prizi değiştirmişliğim, demir kapı-korkuluk boyamışlığım, matkap kullanmışlığım; 14 yaşımdayken yapamayacağımı söyleyip çekiçle elime vurup testereyle elimi keseceğim iddiasında olan babama rağmen tahta kuş evi yapmışlığım vardır. hepsinin içinden de yüzümün akıyla çıktım. hatta daha birkaç gün önce lehim yapmayı öğrendim, sırf bu yüzden mutluluktan uçuyordum.<br/><br/>yani tamir etmekten zevk alan erkekten bir farkı yoktur. çok şeetmeyin.<br/><br/>edit: ekşi sözlüğün sevgili güzide beyefendileri, teker teker gelin lan. hatta gelmeyin. olum bi' yavaş, iyi ki ayda yılda bir belli ettik cinsiyetimizi. bu nedir ya?
-  entry_channels: anket
+    kur'an dinine değil de, sonradan şeyhlerin, hocaların uydurduğu dine inanmaları.....
+  entry_channels: siyaset,anket,bilim,tarih,eğitim
 - entry_name: |
     23 adamla yatıp geçmişi boşver senleyim diyen kız
   entry_id:  78093269
@@ -323,13 +331,13 @@ data:
     olmayan kızdır. 23 adamla yattığını söyleyecek bir kafa rahatlığındaysa ‘geçmişi boşver senleyim’ gibi ikna çabalarına girecek kadar ezik değildir. ‘23 adamla yattım yiyorsa koçum’dur onun doğrusu.. ya da ‘sen ikinci bilemedin üçüncüsün, geçmişi boşver senleyim’dir. bu mantık silsilesine dikkat edip öyle kadın düşmanlığı yapın beyler, etkili olmuyor böyle.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    türk halkının cahil kalma nedeni
-  entry_id:  78075087
-  entry_writer: faizsizbankacilik
+    kerim'e cla 180 icin yardim ediyoruz
+  entry_id:  78096235
+  entry_writer: little boy
   entry_fav_count: 5
   entry_content: |
-    kur'an dinine değil de, sonradan şeyhlerin, hocaların uydurduğu dine inanmaları.....
-  entry_channels: siyaset,anket,bilim,tarih,eğitim
+    <a class="b" href="/?q=1+y%c4%b1l+bedava+nugget+i%c3%a7in+18+milyon+retweet">1 yıl bedava nugget için 18 milyon retweet</a> benzeri bir viral çalışmasının başlığıdır.
+  entry_channels: otomotiv
 - entry_name: |
     fransız dendiğinde zihinde oluşan ilk imge
   entry_id:  78083276
@@ -339,45 +347,37 @@ data:
     grevdir. her kosulda greve gidebiliyorlar. mesela bu hafta da grevdeler ve fransanin güney bölümünde ucak ve tren seferleri iptal. ayni zamanda da bilgilendirmis olayim.<br/><br/>edit: imla
   entry_channels: anket
 - entry_name: |
-    sakarya'da tüm patileri kesilen köpek
-  entry_id:  78079899
-  entry_writer: flighter
-  entry_fav_count: 3
-  entry_content: |
-    su icmeye baslamis,bugun ameliyata alinacak..is makinasi falan degil uzman raporuyla sapancali bir orospu cocugunun yaptigi ortada..
-  entry_channels: haber
-- entry_name: |
     ömer üründül dünya kupasını yorumlasın kampanyası
   entry_id:  78096439
   entry_writer: memeuclarindansorumlubakan
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     nihat hatipoğlu ramazan ayı için neyi ifade ediyorsa ömer üründülde dünya kupası için o anlamı taşır.
   entry_channels: spor
 - entry_name: |
-    kerim'e cla 180 icin yardim ediyoruz
-  entry_id:  78096628
-  entry_writer: post translational regulation
-  entry_fav_count: 3
-  entry_content: |
-    hediyeye 150 bin lira otv odeyecek genctir.
-  entry_channels: otomotiv
-- entry_name: |
     hoşuna gideni yapmak vs mantıklı olanı yapmak
   entry_id:  78095967
   entry_writer: kamu mali
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     anlamsiz buldugum versus. zira mantik dediginiz nane de %100 rasyonelite demek degildir, hic olmamistir. <br/><br/>insan, davranislarini daima mantiginin yaninda, davranis kaliplari ve duygularini harmanlayarak yönlendirir.<br/><br/>kendi icinde tutarliligi olan ve dogru olan da budur.<br/><br/>unutmadan,<br/><br/>"kalbin, aklın bilmedigi kendine özgü nedenleri vardir."<br/><br/>(bkz: <a class="b" href="/?q=pascal">pascal</a>)
   entry_channels: anket
 - entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  78091308
-  entry_writer: angelay
+    100 yılın 36525 gün etmesi
+  entry_id:  78096686
+  entry_writer: bisusewa
+  entry_fav_count: 3
+  entry_content: |
+    acı gerçektir. <br/><br/>sen kalk uzun uzun yüz yıl yaşa, 1 asırlık çınar ol, ama yaşadığın gün sayısı 36 bin küsur olsun.<br/><br/>36 bin gün nedir lan? güne çevirince çok az geliyor insana, bu ömür neden bu kadar kısa ya.<br/><br/>36 bin güncük.(eğer şanslıysanız)<br/><br/>depresyona girmek için yeterli bir sayı bence. ölüm denen şeye yaklaşık 15-20 bin gün falan kaldı.<br/><br/>edit: hesaba takılan olmus. 365x100 + her dört senede +1 gün gelir artık yıl olarak. 25 gün eder 100 senede. 36500+25. yani hesap doğru.
+  entry_channels: 
+- entry_name: |
+    bütün hastalıkları iyileştiren ilaç
+  entry_id:  78096996
+  entry_writer: benkucukbirkedicigim
   entry_fav_count: 1
   entry_content: |
-    <a class="b" href="/entry/2">#2</a><br/>beşiktaşta şarap ya da kahve içmeye uygunum. <br/><br/>hayır bira olmaz belki cin olabilir.<br/><br/>tanıdığınız ama benim tanımadığım kişilerin gıybetini uzun uzadıya yapabiliriz.<br/><br/>not: gratise korkmadan girebiliyorum, alacağınız şeylere "güzel değil, onu alma şunu al." demek istiyorum. geveze olmaya özen gösterelim.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    xanax. xd
+  entry_channels: anket,bilim,sağlık
 - entry_name: |
     zengin çirkin kız &amp; fakir güzel kız
   entry_id:  78097444
@@ -387,19 +387,19 @@ data:
     kalbinize sorsanız o cevabını verir. taş diye veya zengin diye mi birlikte olacaksınız. sevgi yok mu ?<br/><br/>kızlara zengin koca meraklısı diye kızıyorsunuz ama görüyorsunuz erkekler de oyle. vay bee... zaman çok değişti.
   entry_channels: ilişkiler
 - entry_name: |
-    bütün hastalıkları iyileştiren ilaç
-  entry_id:  78096978
-  entry_writer: corsairsgold35
+    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
+  entry_id:  78097634
+  entry_writer: yesil solucan
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=arveles">arveles</a>)
-  entry_channels: anket,bilim,sağlık
+    düşüyo mu böyle? demek istediğimdir.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    100 yılın 36525 gün etmesi
-  entry_id:  78097190
-  entry_writer: kici kokan maymun
+    bir türkiye hayal ediyorum
+  entry_id:  78096644
+  entry_writer: fesbasimaa
   entry_fav_count: 0
   entry_content: |
-    hayatta bir günün önemine işaret eden yazarın deyişidir.
-  entry_channels: 
+    kimsenin ötekileştirilmediği. her azınlığın kendini ait hissettiği çoğulcu bir demokrasiyle yönetilen bir türkiye hayal ediyorum.
+  entry_channels: anket
 ---
