@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/afuu8xcVzcsSByNufu_UaRItAY0YIuYrbEzl57Mvaw4.jpg?s=fa9a2f8487e7415ced9b2c1600e01d25 frameborder=0>
 - entry_name: |
-    Evolution of fallout
-  entry_id: 8r4t1l
-  entry_content: |
-    <img src=https://i.redditmedia.com/YVOoTLQtBMMQiCekcwXpSUdRlP1ipwsJt2802viL9zA.jpg?s=db20248ed648ec76e9f6ae4e4af27ebd frameborder=0>
-- entry_name: |
     Dad with ALS gets up from his wheelchair and congratulates his son at his Air Force graduation.
   entry_id: 8raaoo
   entry_content: |
@@ -143,11 +138,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/692Ml_ZkxAmz-QSlLZuH5jaX8aSRchRih842uNrmDHg.jpg?s=1b4a95bd7c2bea65a13e29ce4b1a096c frameborder=0>
 - entry_name: |
-    Not today, dog
-  entry_id: 8r4wv6
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiligentRigidAnemone&url=https%3A%2F%2Fgfycat.com%2FDiligentRigidAnemone&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiligentRigidAnemone-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Link missed a payment
   entry_id: 8rb7d7
   entry_content: |
@@ -177,11 +167,6 @@ data:
   entry_id: 8r5td5
   entry_content: |
     <iframe src=https://v.redd.it/ytc1vsqwf1411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Quit my job yesterday because I was tired of the unprofessional environment - got this text from my supervisor today.
-  entry_id: 8r4um3
-  entry_content: |
-    <img src=https://i.redditmedia.com/rleiXVKWktp0JnlJbzPHTieRPT4qEV-fGKk1WGAcyFw.png?s=a6abba883ae02ced9e5f1de1357bda4c frameborder=0>
 - entry_name: |
     TIL during the Vietnam War, the U.S. carried out Operation Popeye, a cloud-seeding mission to stimulate clouds in Vietnam to increase rainfall and lengthen the monsoon season. After the operation was declassified in 1974, the United Nations banned the weaponization of weather.
   entry_id: 8r6gny
@@ -252,4 +237,19 @@ data:
   entry_id: 8r61kl
   entry_content: |
     <img src=https://i.redditmedia.com/vr4ch0PExaGbbtwkPWqKjUOWCC4Rc6PLI1_fp71W104.jpg?s=fe4eb6895b3bd5a4e994114f9d0936e0 frameborder=0>
+- entry_name: |
+    For just a moment, he thought about not getting up.
+  entry_id: 8r7anl
+  entry_content: |
+    <iframe src=https://v.redd.it/k9ac8kiml2411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Amish of Reddit, how does not using technology affect your lives?
+  entry_id: 8r6vh8
+  entry_content: |
+    null
+- entry_name: |
+    Blue Apron in a nutshell.
+  entry_id: 8r5x30
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/TDMfDwDUxKE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
