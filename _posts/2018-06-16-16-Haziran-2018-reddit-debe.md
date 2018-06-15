@@ -28,6 +28,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jf7PDHSB1EwN_VEXYMeLzz1u_lSbcg3jcPYWqYn5adY.jpg?s=82ed22b1048525c5968ece7e1713bd3d frameborder=0>
 - entry_name: |
+    Stephen Hawking to Be Buried Between Darwin and Newton.
+  entry_id: 8raylb
+  entry_content: |
+    <img src=https://i.redditmedia.com/92BH0_7VjETPoAjHdOKdzzEDaSiuTT_XT-RyY4iWQ_4.jpg?s=d6ec5ab07ab7c4649171ef644e8b0185 frameborder=0>
+- entry_name: |
     Mini me
   entry_id: 8r7khy
   entry_content: |
@@ -43,25 +48,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2xX20FxAwDksV1IJXAtmOM4efpmBO-tat97U7BMRTgs.jpg?s=4fb1ab53c68fe569ee5f752a11417f45 frameborder=0>
 - entry_name: |
+    Reddit, please wish Henri a happy first birthday :)
+  entry_id: 8ra3cz
+  entry_content: |
+    <img src=https://i.redditmedia.com/PVzJ8M7tnLFt1YT0FS2JEjSaBu4IUSmFmKaARIrU1uQ.jpg?s=eb55bb8f101e690077d8965e90bb1f49 frameborder=0>
+- entry_name: |
     Found this as I was coming back from lunch! Definitely made me smile
   entry_id: 8r53gj
   entry_content: |
     <img src=https://i.redditmedia.com/0DGAliGGGgSPKnAiHv-c9oHWYbpY_0cMHSwUiyA5d0E.jpg?s=e2681cc08bbc6f2f251fd6efb4054cc8 frameborder=0>
 - entry_name: |
-    Stephen Hawking to Be Buried Between Darwin and Newton.
-  entry_id: 8raylb
-  entry_content: |
-    <img src=https://i.redditmedia.com/92BH0_7VjETPoAjHdOKdzzEDaSiuTT_XT-RyY4iWQ_4.jpg?s=d6ec5ab07ab7c4649171ef644e8b0185 frameborder=0>
-- entry_name: |
     🐕waaaait
   entry_id: 8r681p
   entry_content: |
     <iframe src=https://v.redd.it/8tm4yv8er1411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Reddit, please wish Henri a happy first birthday :)
-  entry_id: 8ra3cz
-  entry_content: |
-    <img src=https://i.redditmedia.com/PVzJ8M7tnLFt1YT0FS2JEjSaBu4IUSmFmKaARIrU1uQ.jpg?s=eb55bb8f101e690077d8965e90bb1f49 frameborder=0>
 - entry_name: |
     Feeding birds with sugar water was a rewarding pastime.
   entry_id: 8r72uf
@@ -72,6 +72,11 @@ data:
   entry_id: 8ra10b
   entry_content: |
     <img src=https://i.redditmedia.com/twwShiu6oGTlx7_nHeTg8hlDPT1sGdrMaXFVxcz5x9M.jpg?s=5607f5403dec7194cfad3ca4fbc7ed73 frameborder=0>
+- entry_name: |
+    TIL that serial killer in New Orleans sent letter to the newspapers that on the night of March 19 he would kill again, but would spare any place where jazz band was playing. That night New Orleans' dance halls were fully filled, including many jazz house parties. There were no murders that night
+  entry_id: 8ra2fo
+  entry_content: |
+    <img src=https://i.redditmedia.com/-_ZWjQh2ArK-Yf_gl4NoxwwcxkV1EzwwoDvVT_54uJM.jpg?s=ef399824d53cbe52b9df35a1db11f75a frameborder=0>
 - entry_name: |
     I couldn't help it.
   entry_id: 8r6qpj
@@ -87,16 +92,6 @@ data:
   entry_id: 8r8rdn
   entry_content: |
     <img src=https://i.redditmedia.com/_8oEpWTLoR51EUtYVw34CGWmMc8z5OTFFiUXo3jb0Is.jpg?s=a8fdeab32030ef44cc92dcf85227875a frameborder=0>
-- entry_name: |
-    TIL that serial killer in New Orleans sent letter to the newspapers that on the night of March 19 he would kill again, but would spare any place where jazz band was playing. That night New Orleans' dance halls were fully filled, including many jazz house parties. There were no murders that night
-  entry_id: 8ra2fo
-  entry_content: |
-    <img src=https://i.redditmedia.com/-_ZWjQh2ArK-Yf_gl4NoxwwcxkV1EzwwoDvVT_54uJM.jpg?s=ef399824d53cbe52b9df35a1db11f75a frameborder=0>
-- entry_name: |
-    Ain't lying
-  entry_id: 8r4lo4
-  entry_content: |
-    <img src=https://i.redditmedia.com/rqq4Rjl1MzVFm0SeYP1B8vyijbk9fc0lqfRocv9uJII.jpg?s=28994c950df1b22dbfd050cc2a3d05ce frameborder=0>
 - entry_name: |
     Dog protects owner without hurting geese
   entry_id: 8r6mg0
@@ -118,6 +113,16 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/iob7ne7q11411/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    This explains it all!! Sorry older sis!
+  entry_id: 8racqj
+  entry_content: |
+    <img src=https://i.redditmedia.com/IXLsJ24Xghttbf36DHwfsCRXJvQkDCSvmmgSX7KQPb0.jpg?s=4d59a9303b5340fb5f642a6983757068 frameborder=0>
+- entry_name: |
+    Mexico jaguar population grows 20% in eight years
+  entry_id: 8r9o5e
+  entry_content: |
+    <img src=https://i.redditmedia.com/dWh5Z34PqUeAc7_Qfp7JpVsLXl1Uh78Of9c7x3vrdPU.jpg?s=cb3ef543167ab8a7701363684b1842da frameborder=0>
+- entry_name: |
     People are taking Equifax to small claims court and winning
   entry_id: 8r51zd
   entry_content: |
@@ -127,11 +132,6 @@ data:
   entry_id: 8r8bcw
   entry_content: |
     <img src=https://i.redditmedia.com/etOrr-EPvfKt3ZMALiNYMQ20jc3JYrbXJdlolFYZQJg.jpg?s=83cd6f00dca75e9c985b092657720a4d frameborder=0>
-- entry_name: |
-    Mexico jaguar population grows 20% in eight years
-  entry_id: 8r9o5e
-  entry_content: |
-    <img src=https://i.redditmedia.com/dWh5Z34PqUeAc7_Qfp7JpVsLXl1Uh78Of9c7x3vrdPU.jpg?s=cb3ef543167ab8a7701363684b1842da frameborder=0>
 - entry_name: |
     2-year-old amputee learning to run with the guidance of fellow amputees and a 3-legged pup.
   entry_id: 8r6klj
@@ -153,10 +153,15 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiligentRigidAnemone&url=https%3A%2F%2Fgfycat.com%2FDiligentRigidAnemone&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiligentRigidAnemone-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    This explains it all!! Sorry older sis!
-  entry_id: 8racqj
+    Link missed a payment
+  entry_id: 8rb7d7
   entry_content: |
-    <img src=https://i.redditmedia.com/IXLsJ24Xghttbf36DHwfsCRXJvQkDCSvmmgSX7KQPb0.jpg?s=4d59a9303b5340fb5f642a6983757068 frameborder=0>
+    <img src=https://i.redditmedia.com/vIk4zWjJMRXPLfBjmIudlzRPi-B0mVhBqKs3LEplVyM.jpg?s=505cea9912ea97f003505b7e89b44848 frameborder=0>
+- entry_name: |
+    Athlete wins gold then carries his injured opponent off the mat
+  entry_id: 8r8b9i
+  entry_content: |
+    <iframe src=https://v.redd.it/gwbn710lg3411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Russia warns Norway of ‘consequences’ after it invites in more US Marines
   entry_id: 8r5dvw
@@ -177,11 +182,6 @@ data:
   entry_id: 8r5td5
   entry_content: |
     <iframe src=https://v.redd.it/ytc1vsqwf1411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Athlete wins gold then carries his injured opponent off the mat
-  entry_id: 8r8b9i
-  entry_content: |
-    <iframe src=https://v.redd.it/gwbn710lg3411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Quit my job yesterday because I was tired of the unprofessional environment - got this text from my supervisor today.
   entry_id: 8r4um3
@@ -208,48 +208,48 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bQvB7-MvIJZHev_J1heSgtUABZNPrxx7TC5LLuhgdUI.jpg?s=023e963e7ab2646eaa9f1e0cf49e0559 frameborder=0>
 - entry_name: |
-    The Trump Foundation Apparently Donates a Ton of Money to Donald Trump
-  entry_id: 8r5ohc
+    That's why you need the seat belt
+  entry_id: 8rb2ia
   entry_content: |
-    <img src=https://i.redditmedia.com/rsTO0XV7DnMva6Y4DlUfWKKX10a2QRLYKnIeHIAUAz8.jpg?s=9bbd6908ec57ffddadf1088cd3f99dfc frameborder=0>
+    <iframe src=https://v.redd.it/8df2gthb56411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Planking saves lives
   entry_id: 8r7b7k
   entry_content: |
     <iframe src=https://v.redd.it/0t2oupkl87411/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Kick it into high gear
-  entry_id: 8r57ae
+    The Trump Foundation Apparently Donates a Ton of Money to Donald Trump
+  entry_id: 8r5ohc
   entry_content: |
-    <iframe src=https://v.redd.it/czfkisur21411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    OP posts pic of beloved, deceased iPod with 10 years on the clock and a sticker from the band Justice on the back. A band member from Justice shows up in the comments, offering OP a new iPod.
-  entry_id: 8r56hz
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/rsTO0XV7DnMva6Y4DlUfWKKX10a2QRLYKnIeHIAUAz8.jpg?s=9bbd6908ec57ffddadf1088cd3f99dfc frameborder=0>
 - entry_name: |
     It's the future, don't fight it
   entry_id: 8r96vi
   entry_content: |
     <img src=https://i.redditmedia.com/AJSm-Gz84nm13cYU14NUOWjUCcu-SXISwZ4YpzThh38.jpg?s=cc30812929616133d53cc0ce5e101586 frameborder=0>
 - entry_name: |
+    Kick it into high gear
+  entry_id: 8r57ae
+  entry_content: |
+    <iframe src=https://v.redd.it/czfkisur21411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Trump: Kim's people sit up when he speaks, 'I want my people to do the same'
   entry_id: 8raqqg
   entry_content: |
     <img src=https://i.redditmedia.com/kc19mCCvtSxvx15wvXTheZN17vjHUtfmR0QP48pm9DM.jpg?s=fd713e3eba85a656b5450c9ebdfd2326 frameborder=0>
 - entry_name: |
-    Boxing is a competition to see who can jiggle their opponent’s soft brain tissue hard enough to make them forget how to stand up.
-  entry_id: 8r570j
+    The two sons of the famous Brazilian fan that died in 2015 took his trophy and hat to Russia.
+  entry_id: 8raxpu
   entry_content: |
-    null
-- entry_name: |
-    All States Matter
-  entry_id: 8r61kl
-  entry_content: |
-    <img src=https://i.redditmedia.com/vr4ch0PExaGbbtwkPWqKjUOWCC4Rc6PLI1_fp71W104.jpg?s=fe4eb6895b3bd5a4e994114f9d0936e0 frameborder=0>
+    <img src=https://i.redditmedia.com/20BDvFlxUUCEuzYznwCHYOhKAPPVsxJJO7SO1SRSzrU.jpg?s=b9b8bcefe6b8e8bb40503a778c40b225 frameborder=0>
 - entry_name: |
     To get rid of a bird
   entry_id: 8r89hj
   entry_content: |
     <iframe src=https://v.redd.it/4k1jt47bf3411/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    OP posts pic of beloved, deceased iPod with 10 years on the clock and a sticker from the band Justice on the back. A band member from Justice shows up in the comments, offering OP a new iPod.
+  entry_id: 8r56hz
+  entry_content: |
+    null
 ---
