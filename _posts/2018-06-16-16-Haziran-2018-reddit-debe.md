@@ -223,25 +223,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rsTO0XV7DnMva6Y4DlUfWKKX10a2QRLYKnIeHIAUAz8.jpg?s=9bbd6908ec57ffddadf1088cd3f99dfc frameborder=0>
 - entry_name: |
-    Kick it into high gear
-  entry_id: 8r57ae
-  entry_content: |
-    <iframe src=https://v.redd.it/czfkisur21411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     To get rid of a bird
   entry_id: 8r89hj
   entry_content: |
     <iframe src=https://v.redd.it/4k1jt47bf3411/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    OP posts pic of beloved, deceased iPod with 10 years on the clock and a sticker from the band Justice on the back. A band member from Justice shows up in the comments, offering OP a new iPod.
-  entry_id: 8r56hz
-  entry_content: |
-    null
-- entry_name: |
-    Boxing is a competition to see who can jiggle their opponent’s soft brain tissue hard enough to make them forget how to stand up.
-  entry_id: 8r570j
-  entry_content: |
-    null
 - entry_name: |
     Gorilla uses sign language to tell visitors they can't throw food into his cage
   entry_id: 8rc6ye
@@ -252,4 +237,19 @@ data:
   entry_id: 8r61kl
   entry_content: |
     <img src=https://i.redditmedia.com/vr4ch0PExaGbbtwkPWqKjUOWCC4Rc6PLI1_fp71W104.jpg?s=fe4eb6895b3bd5a4e994114f9d0936e0 frameborder=0>
+- entry_name: |
+    US expected to withdraw from UN human rights council
+  entry_id: 8ranfv
+  entry_content: |
+    <img src=https://i.redditmedia.com/HRCF2c3tjCjwhIFwuNkg3RZKRGYHjfTKhxtd8yhJMBI.jpg?s=384ff6c5f24c99e4ee11b487d192eb33 frameborder=0>
+- entry_name: |
+    For just a moment, he thought about not getting up.
+  entry_id: 8r7anl
+  entry_content: |
+    <iframe src=https://v.redd.it/k9ac8kiml2411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    This older couple shooting straw wrappers at one another in a restaurant.
+  entry_id: 8ralud
+  entry_content: |
+    <iframe src=https://v.redd.it/votsa2m0t5411/DASH_1_2_M frameborder=0></iframe>
 ---
