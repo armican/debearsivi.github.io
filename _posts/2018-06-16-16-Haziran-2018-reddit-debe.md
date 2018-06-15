@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jf7PDHSB1EwN_VEXYMeLzz1u_lSbcg3jcPYWqYn5adY.jpg?s=82ed22b1048525c5968ece7e1713bd3d frameborder=0>
 - entry_name: |
-    Effective way to exercise 10 Beagles
-  entry_id: 8r3z72
-  entry_content: |
-    <iframe src=https://v.redd.it/tttjawzk90411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Woodpecker mistaking a mountain patrol officer for a tree.
   entry_id: 8r489y
   entry_content: |
@@ -198,11 +193,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ytc1vsqwf1411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Some of the collected different sands of the Sahara desert.
-  entry_id: 8r3xha
-  entry_content: |
-    <img src=https://i.redditmedia.com/U2jQaG__6QWnHY34FxUbWu_Eg0kswRN31gYopn61Bmw.png?s=9e9bcd20a72c8721eb856257cde83eb4 frameborder=0>
-- entry_name: |
     Athlete wins gold then carries his injured opponent off the mat
   entry_id: 8r8b9i
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8r7b7k
   entry_content: |
     <iframe src=https://v.redd.it/0t2oupkl87411/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Kick it into high gear
+  entry_id: 8r57ae
+  entry_content: |
+    <iframe src=https://v.redd.it/czfkisur21411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Don't try your BS with comic fans.
+  entry_id: 8r4f74
+  entry_content: |
+    <img src=https://i.redditmedia.com/tn5AwBzIA1pLS6Tm1bAr-KHZI6uC7N5AiY4ANbyPoJg.jpg?s=9e2ddacaa81b03184112970ed55193b9 frameborder=0>
 ---
