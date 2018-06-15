@@ -23,11 +23,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAdolescentJoyfulCalf&url=https%3A%2F%2Fgfycat.com%2Fadolescentjoyfulcalf&image=https%3A%2F%2Fthumbs.gfycat.com%2FAdolescentJoyfulCalf-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=270 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    meirl
-  entry_id: 8r4elw
-  entry_content: |
-    <img src=https://i.redditmedia.com/kH7_dLQ9IT9AH6IHDatSlPSvyqvoEY7CgbNeqxeXGoo.jpg?s=932ac8589af4773921d90ae52af36837 frameborder=0>
-- entry_name: |
     Just hit the 2 year mark in my recovery from anorexia
   entry_id: 8r770s
   entry_content: |
@@ -163,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IXLsJ24Xghttbf36DHwfsCRXJvQkDCSvmmgSX7KQPb0.jpg?s=4d59a9303b5340fb5f642a6983757068 frameborder=0>
 - entry_name: |
-    Was told my Sempervivum Calcareum would fit in here :)
-  entry_id: 8r4eup
-  entry_content: |
-    <img src=https://i.redditmedia.com/IVlPqkMkZdK-aVCXqk1pT88y5jzNSFdU29XXrMRtDTc.jpg?s=c3ea97272fc0ecd1691d13f9f838efb1 frameborder=0>
-- entry_name: |
     Russia warns Norway of ‘consequences’ after it invites in more US Marines
   entry_id: 8r5dvw
   entry_content: |
@@ -233,11 +223,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/czfkisur21411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Don't try your BS with comic fans.
-  entry_id: 8r4f74
-  entry_content: |
-    <img src=https://i.redditmedia.com/tn5AwBzIA1pLS6Tm1bAr-KHZI6uC7N5AiY4ANbyPoJg.jpg?s=9e2ddacaa81b03184112970ed55193b9 frameborder=0>
-- entry_name: |
     OP posts pic of beloved, deceased iPod with 10 years on the clock and a sticker from the band Justice on the back. A band member from Justice shows up in the comments, offering OP a new iPod.
   entry_id: 8r56hz
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8raqqg
   entry_content: |
     <img src=https://i.redditmedia.com/kc19mCCvtSxvx15wvXTheZN17vjHUtfmR0QP48pm9DM.jpg?s=fd713e3eba85a656b5450c9ebdfd2326 frameborder=0>
+- entry_name: |
+    Boxing is a competition to see who can jiggle their opponent’s soft brain tissue hard enough to make them forget how to stand up.
+  entry_id: 8r570j
+  entry_content: |
+    null
+- entry_name: |
+    All States Matter
+  entry_id: 8r61kl
+  entry_content: |
+    <img src=https://i.redditmedia.com/vr4ch0PExaGbbtwkPWqKjUOWCC4Rc6PLI1_fp71W104.jpg?s=fe4eb6895b3bd5a4e994114f9d0936e0 frameborder=0>
+- entry_name: |
+    To get rid of a bird
+  entry_id: 8r89hj
+  entry_content: |
+    <iframe src=https://v.redd.it/4k1jt47bf3411/DASH_1_2_M frameborder=0></iframe>
 ---
