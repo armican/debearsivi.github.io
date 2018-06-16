@@ -122,10 +122,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XTeuFBjmkaehVFZqp9MhJ3k1mqaQNbXQVjB2ZmG_WvU.jpg?s=d76a3a1507a519e93038c4d17ce13654 frameborder=0>
 - entry_name: |
-  entry_id: 8rds22
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.clippituser.tv%2Fc%2Ftwitter%2Fellrgq&url=https%3A%2F%2Fwww.clippituser.tv%2Fc%2Fellrgq&image=https%3A%2F%2Fclips.clippit.tv%2Fellrgq%2Fthumbnail_share.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=clippituser width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Me_irl
   entry_id: 8rfiyn
   entry_content: |
@@ -174,20 +170,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hvoaceTf_dyiBppNC5qFZj8mFUIE63szARHATOEo_GE.jpg?s=e356a10745e152ad0fe4dc4324afb68a frameborder=0>
 - entry_name: |
-    Made fake tinder of 22 yr old hot girl to solicit financial advice from old men looking for sugar babies
-  entry_id: 8rdnnk
-  entry_content: |
-    <img src=https://i.redditmedia.com/5sH3hhoT9yqXBhAkppSP1YJSv0cqly3Si1xHYGiCiF8.png?s=d35c3bce6771679d22656beb016ddec0 frameborder=0>
-- entry_name: |
     Anaglyph Wall Painting
   entry_id: 8rglzq
   entry_content: |
     <iframe src=https://v.redd.it/6pqiirtid8411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    That's my jam
-  entry_id: 8rdpvv
-  entry_content: |
-    <img src=https://i.redditmedia.com/wea8-I6onyVMdYmQg948voyrrzbh83eUBbxH07_YlvI.png?s=fb04e0785ee02b57f61074f49b09962e frameborder=0>
 - entry_name: |
     “Well he actually threw it this time”
   entry_id: 8rizcu
@@ -248,4 +234,19 @@ data:
   entry_id: 8rfv9f
   entry_content: |
     <img src=https://i.redditmedia.com/oo-Ymt_XJ0ZR4a7mKs6fj6kgdRbQ9HldUSM2oQAr1l0.jpg?s=467b6aba0193a6fa5fe769d14df713b7 frameborder=0>
+- entry_name: |
+    Citibank fined $100 million for interest rate manipulation
+  entry_id: 8rgcnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/zhxDYaBLvKNbk7Pm5AmAWidVSnkCCBfAan0f0xiO6N8.jpg?s=85379f668fa1f4958ec199621aa661dd frameborder=0>
+- entry_name: |
+    Smol one wants to go outside!
+  entry_id: 8redns
+  entry_content: |
+    <iframe src=https://v.redd.it/el3hy5d6c8411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    This says a lot about our society
+  entry_id: 8rhzgo
+  entry_content: |
+    <img src=https://i.redditmedia.com/-4zgejSBilVUV005bDbk0GnjWhvA0sdD-vNV64ti6Us.jpg?s=fc04754e7766f61f29f606392014b61e frameborder=0>
 ---
