@@ -97,11 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5h421iUw9LBgRy_V6UDfgLBnvPce8v6lnQDUDfc0Dtc.jpg?s=d19935582d7dbe7de9a7da3bdfa7c9ab frameborder=0>
 - entry_name: |
-    TIL that when the British burned the White House in 1812, they did not burn the Marine Barricks or the Commandant's House out of respect for the honorable conduct of the Marines at the Battle of Bladensburg
-  entry_id: 8rcylk
-  entry_content: |
-    <img src=https://i.redditmedia.com/1aF0-cvhCv1WTLBAnTMwzWkQOEOV8y4ZtJ55s4_Ie1c.jpg?s=c388f2b505cbf06c67dad561ef039154 frameborder=0>
-- entry_name: |
     Clearing out my parent's attic after dad died, I discovered in an old battered briefcase that from 1954 to 1957, my mum was pen pals with Peter Cushing!
   entry_id: 8rffra
   entry_content: |
@@ -248,4 +243,9 @@ data:
   entry_id: 8rdka1
   entry_content: |
     <img src=https://i.redditmedia.com/pwK5C6FQxBLHoWp6OCml9ULEjjLRkcMCR8G0sLm3u4E.jpg?s=b444590b6d0d1062cd2f267295ba69c0 frameborder=0>
+- entry_name: |
+    This train tunnel in Ukraine made out of trees
+  entry_id: 8ride7
+  entry_content: |
+    <img src=https://i.redditmedia.com/XPDByBCkHI2Tywdtf4Z3AvuSfkj5V8L2LEkIq56j-Pw.jpg?s=dfd739bcfbac55d9997760e75a464059 frameborder=0>
 ---
