@@ -78,11 +78,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1oqdijurjc411/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    California sees $9 billion surplus, passes budget to help poor
-  entry_id: 8rdeml
-  entry_content: |
-    <img src=https://i.redditmedia.com/_3-dcg4YSXTOssRk1oQqMdPvQOOoOTatmUSGmO2vSv0.jpg?s=812c234b95c0f9d2c07f9ab3ce67edd0 frameborder=0>
-- entry_name: |
   entry_id: 8rfnc0
   entry_content: |
     <img src=https://i.redditmedia.com/PvruSPZs_tYgmCmL_4AA-zv8sp960JSYuaI4ve_02i4.png?s=75022b76c647b8991dcbf3bad9e9f421 frameborder=0>
@@ -111,11 +106,6 @@ data:
   entry_id: 8rffra
   entry_content: |
     <img src=https://i.redditmedia.com/Xc6amKXA0kN_0QkV3w5Wvn_e00xLcVT9dXSDhC5x9KE.jpg?s=e535c2a55082b496a73bcac04e9c85eb frameborder=0>
-- entry_name: |
-    Feds have reassembled Michael Cohen's shredded documents, discovered over 700 pages of encrypted messages
-  entry_id: 8rdgaa
-  entry_content: |
-    <img src=https://i.redditmedia.com/UQj4sO2C-XqAjA0mUX7INXBxiJgi6WoCmc65bUEdH2U.jpg?s=44d922db2cef44e4d2e5b7f19bae761e frameborder=0>
 - entry_name: |
   entry_id: 8rds22
   entry_content: |
@@ -248,4 +238,14 @@ data:
   entry_id: 8ri4f7
   entry_content: |
     <img src=https://i.redditmedia.com/AqYb2Axb7dvIjo8Fd4xHR4iL5N0Ea2yfARn74OUftOs.jpg?s=2e77baec1b121b24b3940e5b98d5e37a frameborder=0>
+- entry_name: |
+    Smol one wants to go outside!
+  entry_id: 8redns
+  entry_content: |
+    <iframe src=https://v.redd.it/el3hy5d6c8411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    OC Should Be Here, But It Isn't
+  entry_id: 8rio4w
+  entry_content: |
+    <iframe src=https://v.redd.it/2wcwyqf6hc411/DASH_1_2_M frameborder=0></iframe>
 ---
