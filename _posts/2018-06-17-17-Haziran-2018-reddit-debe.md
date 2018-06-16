@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/otgitzp39a411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Respect for this guy, who accidentally takes a selfie instead of a picture of the new Real Madrid coach
-  entry_id: 8rctyz
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConsiderateFarflungCoyote&url=https%3A%2F%2Fgfycat.com%2FConsiderateFarflungCoyote&image=https%3A%2F%2Fthumbs.gfycat.com%2FConsiderateFarflungCoyote-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=258 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Man celebrating end of drought 1951 Texas.
   entry_id: 8refss
   entry_content: |
@@ -81,11 +76,6 @@ data:
   entry_id: 8rfnc0
   entry_content: |
     <img src=https://i.redditmedia.com/PvruSPZs_tYgmCmL_4AA-zv8sp960JSYuaI4ve_02i4.png?s=75022b76c647b8991dcbf3bad9e9f421 frameborder=0>
-- entry_name: |
-    Love you Dave!
-  entry_id: 8rcrcu
-  entry_content: |
-    <img src=https://i.redditmedia.com/3oB-bxN8HI2hghJsOxArhG7xTt4a6xbv7jowDHCbYH0.jpg?s=1533c20ebae79da884bede399c434a6a frameborder=0>
 - entry_name: |
     Doggo does the math
   entry_id: 8riqbu
@@ -248,4 +238,14 @@ data:
   entry_id: 8redns
   entry_content: |
     <iframe src=https://v.redd.it/el3hy5d6c8411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Citibank fined $100 million for interest rate manipulation
+  entry_id: 8rgcnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/zhxDYaBLvKNbk7Pm5AmAWidVSnkCCBfAan0f0xiO6N8.jpg?s=85379f668fa1f4958ec199621aa661dd frameborder=0>
+- entry_name: |
+    4 years ago, I got a gym membership.
+  entry_id: 8rdka1
+  entry_content: |
+    <img src=https://i.redditmedia.com/pwK5C6FQxBLHoWp6OCml9ULEjjLRkcMCR8G0sLm3u4E.jpg?s=b444590b6d0d1062cd2f267295ba69c0 frameborder=0>
 ---
