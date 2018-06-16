@@ -73,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1oqdijurjc411/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    wholesome sunset
-  entry_id: 8rdxhp
-  entry_content: |
-    <img src=https://i.redditmedia.com/22avdxNtcf_rXPLC3lQI9ej158cMkZIlNrjKGbMPR7E.jpg?s=4eba5a4def2c533e262fb4e0cc90bf74 frameborder=0>
-- entry_name: |
   entry_id: 8rfnc0
   entry_content: |
     <img src=https://i.redditmedia.com/PvruSPZs_tYgmCmL_4AA-zv8sp960JSYuaI4ve_02i4.png?s=75022b76c647b8991dcbf3bad9e9f421 frameborder=0>
@@ -249,4 +244,9 @@ data:
   entry_id: 8rhzgo
   entry_content: |
     <img src=https://i.redditmedia.com/-4zgejSBilVUV005bDbk0GnjWhvA0sdD-vNV64ti6Us.jpg?s=fc04754e7766f61f29f606392014b61e frameborder=0>
+- entry_name: |
+    When somebody says that the 5th Chinese Dynasty was the Ming Dynasty
+  entry_id: 8reafl
+  entry_content: |
+    <img src=https://i.redditmedia.com/sPiwwWw6LpOnO7LlisgT2jpWfCnC8kWnsmukOk3rjr0.png?s=6f8a6cec7ca3779975dae21be54e4ee3 frameborder=0>
 ---
