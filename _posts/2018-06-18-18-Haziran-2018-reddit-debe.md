@@ -13,15 +13,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Stephen Hawking finds his final resting place today at Westminster Abbey, alongside those of Sir Isaac Newton and Charles Darwin.
-  entry_id: 8rltes
-  entry_content: |
-    <img src=https://i.redditmedia.com/IQRrZJFYU-ZJgCjWna-hQylSqEOZnhtGiSeo_FXmZnM.jpg?s=8244fdafee03fcda46bfb4c4af76e9a4 frameborder=0>
-- entry_name: |
     My friends bunny is so adorable!
   entry_id: 8ro6my
   entry_content: |
     <img src=https://i.redditmedia.com/CebMiuTWctfWmKXIZam3vWkLDI8rsesZE-U43YkunCE.jpg?s=79e804dcb2f1a6dd47b90c278ffa87f1 frameborder=0>
+- entry_name: |
+    Stephen Hawking finds his final resting place today at Westminster Abbey, alongside those of Sir Isaac Newton and Charles Darwin.
+  entry_id: 8rltes
+  entry_content: |
+    <img src=https://i.redditmedia.com/IQRrZJFYU-ZJgCjWna-hQylSqEOZnhtGiSeo_FXmZnM.jpg?s=8244fdafee03fcda46bfb4c4af76e9a4 frameborder=0>
 - entry_name: |
     My cousins dog had a cone for a while...he sent me this
   entry_id: 8rl9y5
@@ -33,25 +33,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2rY2IfrX-LCet2v4vKlKTFN3zjwN-lRpKF91p0hU9Do.jpg?s=53f3f21cc26f9ee6f24551df593c36b3 frameborder=0>
 - entry_name: |
-    My cactus looks like a long-necked dinosaur trying to escape it’s cup.
-  entry_id: 8rkt2y
+    my boyfriend won a pack of temporary dinosaur tattoos last night. we made the obvious choice.
+  entry_id: 8rqez0
   entry_content: |
-    <img src=https://i.redditmedia.com/6peH3JhssUjHEOlzrHcuAhYLcuyYhfAzChXailCc0o0.jpg?s=570427e6e08b831b790fcf25ea300b43 frameborder=0>
-- entry_name: |
-    Cats are evil
-  entry_id: 8rljbk
-  entry_content: |
-    <img src=https://i.redditmedia.com/a3lWJAhv_nxPGKmtpImIggd1rdp-XqQLLUmJD7J_z8g.png?s=3df87c29d1355476195d26764dae8daa frameborder=0>
+    <img src=https://i.redditmedia.com/q22znJmUgtt94rCBc8l71TW3OJY7-o_u784c2LdfSvY.jpg?s=c0b818fc97ef1f0ffe905a34a33df450 frameborder=0>
 - entry_name: |
     hmmm🤔
   entry_id: 8rnpsf
   entry_content: |
     <img src=https://i.redditmedia.com/IEej995Igmw7bEj1VUHw0x3r3VgxAe7-F5pb9xcXCns.jpg?s=eacfd373b678fabe98f888c7d45828c3 frameborder=0>
 - entry_name: |
-    my boyfriend won a pack of temporary dinosaur tattoos last night. we made the obvious choice.
-  entry_id: 8rqez0
+    Cats are evil
+  entry_id: 8rljbk
   entry_content: |
-    <img src=https://i.redditmedia.com/q22znJmUgtt94rCBc8l71TW3OJY7-o_u784c2LdfSvY.jpg?s=c0b818fc97ef1f0ffe905a34a33df450 frameborder=0>
+    <img src=https://i.redditmedia.com/a3lWJAhv_nxPGKmtpImIggd1rdp-XqQLLUmJD7J_z8g.png?s=3df87c29d1355476195d26764dae8daa frameborder=0>
+- entry_name: |
+    This guy made pants from all the festival hats from previous years
+  entry_id: 8rpsea
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fg5UgNwKbpCdc0mjimEd54a4tGfiYiQKT8cQKHi-P5Y.jpg?s=88197448b508475c84431abf36b5436f frameborder=0>
 - entry_name: |
     No fucking clue
   entry_id: 8rp3m5
@@ -68,10 +68,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JwV80ohadZHc7bTjvMYI-P50V0AitcWhwvXwDAiOQMY.gif?fm=jpg&s=aa2910bfc9dabd35bf68c2c19eab17ae frameborder=0>
 - entry_name: |
-    This guy made pants from all the festival hats from previous years
-  entry_id: 8rpsea
+    Skyrim Trickshot
+  entry_id: 8rps5v
   entry_content: |
-    <img src=https://i.redditmedia.com/Fg5UgNwKbpCdc0mjimEd54a4tGfiYiQKT8cQKHi-P5Y.jpg?s=88197448b508475c84431abf36b5436f frameborder=0>
+    <iframe src=https://v.redd.it/dvw87n5hvi411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     3D lettering
   entry_id: 8rn6hk
@@ -87,11 +87,6 @@ data:
   entry_id: 8rm55u
   entry_content: |
     <img src=https://i.redditmedia.com/XkMahZP0H8Ua0QS8Z5qNXfeZYNhXjlmRFRiMMPWVOAM.jpg?s=1784f41f32f71e0441cd558ec0095498 frameborder=0>
-- entry_name: |
-    Skyrim Trickshot
-  entry_id: 8rps5v
-  entry_content: |
-    <iframe src=https://v.redd.it/dvw87n5hvi411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     That little hop at the end.
   entry_id: 8rnkq9
@@ -133,10 +128,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LTTJd9l-5fbTLMdBll8rm9rpv2Bw5bpY_DfV1K-CgGo.jpg?s=2f9ea64bcc39276b6a768105037834dd frameborder=0>
 - entry_name: |
-    Chaotic Good
-  entry_id: 8rktg9
+    Meteorite seen during Foo Fighters concert in the Netherlands
+  entry_id: 8rqruz
   entry_content: |
-    <img src=https://i.redditmedia.com/HQnS0hzGXjvJnFqDSDIXC8dQm3u4p_5eTN9sLBILbZ8.jpg?s=af0764c96abcfb1f0bf5546a1ba35daa frameborder=0>
+    <iframe src=https://v.redd.it/i8xtao0y3k411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     You're welcome x1,000,000,000,000
   entry_id: 8rn76a
@@ -163,30 +158,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-wfRBvn8P6dROJv3QgoOtrGJ4nbSDa-goYJ51svyXys.jpg?s=10b32298b6e2ecf2a27aee87e9da18c7 frameborder=0>
 - entry_name: |
+    We don’t have voluntary control over our internal organs because our brains don’t trust us enough to keep ourselves alive.
+  entry_id: 8roj0a
+  entry_content: |
+    null
+- entry_name: |
     My good boy turned one this week!
   entry_id: 8rkv0r
   entry_content: |
     <img src=https://i.redditmedia.com/59wUdiBc_wxtmP3HEd-na3B6bCHr4dzYh_ymzizW9qg.jpg?s=a361f6eb756786a4e46eb3361ad2920c frameborder=0>
 - entry_name: |
-    We don’t have voluntary control over our internal organs because our brains don’t trust us enough to keep ourselves alive.
-  entry_id: 8roj0a
+    Dads only like grilling, fishing, golf and beer, don’t they?
+  entry_id: 8rpk2o
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/Db9NBVLjCEUW8a5Y3VGbXQpAQV5lSCwJxRwaOZELpwo.jpg?s=37c1e41302c5150f096d00496d62fc8a frameborder=0>
 - entry_name: |
     Gotta get that A+
   entry_id: 8rlpd4
   entry_content: |
     <img src=https://i.redditmedia.com/cs9lq5epU9O6xBgvDMasLlanaNCPXAuDZ97wxEF-_N0.jpg?s=fde3db899e477de5f6e7812e2ae2a6fc frameborder=0>
 - entry_name: |
-    Heard you were talkin' shit
-  entry_id: 8rmxa5
-  entry_content: |
-    <iframe src=https://v.redd.it/zaa0s2fpzf411/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Do I look Smarter?
   entry_id: 8rp8nx
   entry_content: |
     <iframe src=https://v.redd.it/mbpg2yw66i411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Heard you were talkin' shit
+  entry_id: 8rmxa5
+  entry_content: |
+    <iframe src=https://v.redd.it/zaa0s2fpzf411/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This cloud looks like an idiot
   entry_id: 8rnnqs
@@ -198,6 +198,11 @@ data:
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/w2JxYiJQh2Q?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    Fan on the field taken out by defender
+  entry_id: 8rop8l
+  entry_content: |
+    <iframe src=https://v.redd.it/odbb3iynlh411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Hate when this happens
   entry_id: 8rn2k5
   entry_content: |
@@ -208,30 +213,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/23IP0F9InCkSJBvVieob9ODZOtmPGZQcBydxgXFMjbM.jpg?s=1c233c6e27d72baf01dba289284c0225 frameborder=0>
 - entry_name: |
-    Dads only like grilling, fishing, golf and beer, don’t they?
-  entry_id: 8rpk2o
-  entry_content: |
-    <img src=https://i.redditmedia.com/Db9NBVLjCEUW8a5Y3VGbXQpAQV5lSCwJxRwaOZELpwo.jpg?s=37c1e41302c5150f096d00496d62fc8a frameborder=0>
-- entry_name: |
-    Fan on the field taken out by defender
-  entry_id: 8rop8l
-  entry_content: |
-    <iframe src=https://v.redd.it/odbb3iynlh411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I made a handy little visual chart. . .
   entry_id: 8rotvw
   entry_content: |
     <img src=https://i.redditmedia.com/mOossCLe1FAncBrVycb4i1Xvc6hkjS7-Hl9TTq5pEc4.jpg?s=0127f17edeb957a49ff8dae681037d1c frameborder=0>
 - entry_name: |
+    Majestic Dad in the wild.
+  entry_id: 8rr60q
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FClassicPointlessAtlanticblackgoby&url=https%3A%2F%2Fgfycat.com%2FClassicPointlessAtlanticblackgoby&image=https%3A%2F%2Fthumbs.gfycat.com%2FClassicPointlessAtlanticblackgoby-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Win-win situation?
+  entry_id: 8rq7oq
+  entry_content: |
+    <img src=https://i.redditmedia.com/zCvtyCAP3VapBGTuVN_cNoBpyG8L1PRofCPC7U4EV8E.jpg?s=4e5521825f832511bb5655cbbf9a41b0 frameborder=0>
+- entry_name: |
     Rolling A 20 for Safety
   entry_id: 8rm9o2
   entry_content: |
     <img src=https://i.redditmedia.com/ipoGl2qpxyHmHyeqePxVVU5Uu2gqwPZpZwHxjOCiFQ0.jpg?s=5df79a96ad84c74c2d392fdbb42cad3b frameborder=0>
-- entry_name: |
-    Meteorite seen during Foo Fighters concert in the Netherlands
-  entry_id: 8rqruz
-  entry_content: |
-    <iframe src=https://v.redd.it/i8xtao0y3k411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     It's an American thing - Fallout 76
   entry_id: 8rl6wr
