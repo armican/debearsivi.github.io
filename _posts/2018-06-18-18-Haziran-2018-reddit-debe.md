@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IQRrZJFYU-ZJgCjWna-hQylSqEOZnhtGiSeo_FXmZnM.jpg?s=8244fdafee03fcda46bfb4c4af76e9a4 frameborder=0>
 - entry_name: |
-    My cousins dog had a cone for a while...he sent me this
-  entry_id: 8rl9y5
-  entry_content: |
-    <img src=https://i.redditmedia.com/zPttX3GFQSgbwauKSOO-gkMzIu2p7yiGahkg0UjX6P0.png?s=bcbe1a208f271328101c4f372b63e58a frameborder=0>
-- entry_name: |
     Two touching stars are expected to fully merge in 2022. The resulting explosion, called a Red Nova, will be visible to the naked eye.
   entry_id: 8rn0ys
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8rnd7c
   entry_content: |
     <img src=https://i.redditmedia.com/pqDn5i7m1zsOghEWSsRvX9kn5iPHvZkENa97TV6Ygic.jpg?s=b49542ed5057baae0108e910a17ccc1c frameborder=0>
+- entry_name: |
+    Jeff Sessions' church slams his use of the Bible to defend separating migrant families
+  entry_id: 8rmtlw
+  entry_content: |
+    <img src=https://i.redditmedia.com/OkjOeXz53jfkJyNY-G4Mbd2eZxK7-3tRz2bbsgICiAI.jpg?s=81606894b190271ad91c922c5ac135b2 frameborder=0>
 ---
