@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CebMiuTWctfWmKXIZam3vWkLDI8rsesZE-U43YkunCE.jpg?s=79e804dcb2f1a6dd47b90c278ffa87f1 frameborder=0>
 - entry_name: |
-    Stephen Hawking finds his final resting place today at Westminster Abbey, alongside those of Sir Isaac Newton and Charles Darwin.
-  entry_id: 8rltes
-  entry_content: |
-    <img src=https://i.redditmedia.com/IQRrZJFYU-ZJgCjWna-hQylSqEOZnhtGiSeo_FXmZnM.jpg?s=8244fdafee03fcda46bfb4c4af76e9a4 frameborder=0>
-- entry_name: |
     my boyfriend won a pack of temporary dinosaur tattoos last night. we made the obvious choice.
   entry_id: 8rqez0
   entry_content: |
@@ -72,11 +67,6 @@ data:
   entry_id: 8rps5v
   entry_content: |
     <iframe src=https://v.redd.it/dvw87n5hvi411/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Windmill powered by highway traffic
-  entry_id: 8rlri3
-  entry_content: |
-    <img src=https://i.redditmedia.com/JwV80ohadZHc7bTjvMYI-P50V0AitcWhwvXwDAiOQMY.gif?fm=jpg&s=aa2910bfc9dabd35bf68c2c19eab17ae frameborder=0>
 - entry_name: |
     3D lettering
   entry_id: 8rn6hk
@@ -161,7 +151,7 @@ data:
     Punchline not included
   entry_id: 8rnin5
   entry_content: |
-    <iframe src=https://v.redd.it/3dm3zypaig411/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/k3vdlxsy9m411/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     My man left me. So I got a new one. Meet Ripley.
   entry_id: 8rmtrl
@@ -251,4 +241,14 @@ data:
   entry_id: 8rqc5w
   entry_content: |
     <img src=https://i.redditmedia.com/RPndtNILIqfxLUL-4VKRALBn53bndRvxR3Nsl_WJhzk.jpg?s=6f747f1c86b439d47afb7c216052f243 frameborder=0>
+- entry_name: |
+    Officials: Vietnamese man dies in ICE custody in Arizona
+  entry_id: 8rnd7c
+  entry_content: |
+    <img src=https://i.redditmedia.com/pqDn5i7m1zsOghEWSsRvX9kn5iPHvZkENa97TV6Ygic.jpg?s=b49542ed5057baae0108e910a17ccc1c frameborder=0>
+- entry_name: |
+    Overlord Bezos
+  entry_id: 8rp3o7
+  entry_content: |
+    <img src=https://i.redditmedia.com/HfkPs0gdqkHheiK2IrvcE8Q4pcmVyxh7Hfo-FHAoaOU.png?s=9ff52f4d8c9026e336b565dca0aebf1b frameborder=0>
 ---
