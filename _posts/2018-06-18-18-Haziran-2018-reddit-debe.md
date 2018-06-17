@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Sa_I5HTD_LEVFYaDkKDZh5RN4AlV1dCuP6O5V8d6tio.png?s=fefe10391349064f3359644f7a1f4bd2 frameborder=0>
 - entry_name: |
-    Chomp chomp chomp.
-  entry_id: 8rm55u
-  entry_content: |
-    <img src=https://i.redditmedia.com/XkMahZP0H8Ua0QS8Z5qNXfeZYNhXjlmRFRiMMPWVOAM.jpg?s=1784f41f32f71e0441cd558ec0095498 frameborder=0>
-- entry_name: |
     That little hop at the end.
   entry_id: 8rnkq9
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8rqzkt
   entry_content: |
     <img src=https://i.redditmedia.com/pQxEdZXSn1irjBie8XzaExpVlB5lDglFWYOuEj16hew.jpg?s=be509a85895f0426a0672a4d39118deb frameborder=0>
+- entry_name: |
+    Rolling A 20 for Safety
+  entry_id: 8rm9o2
+  entry_content: |
+    <img src=https://i.redditmedia.com/ipoGl2qpxyHmHyeqePxVVU5Uu2gqwPZpZwHxjOCiFQ0.jpg?s=5df79a96ad84c74c2d392fdbb42cad3b frameborder=0>
 ---
