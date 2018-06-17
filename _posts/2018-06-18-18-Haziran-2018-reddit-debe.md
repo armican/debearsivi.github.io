@@ -163,11 +163,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    My good boy turned one this week!
-  entry_id: 8rkv0r
-  entry_content: |
-    <img src=https://i.redditmedia.com/59wUdiBc_wxtmP3HEd-na3B6bCHr4dzYh_ymzizW9qg.jpg?s=a361f6eb756786a4e46eb3361ad2920c frameborder=0>
-- entry_name: |
     Dads only like grilling, fishing, golf and beer, don’t they?
   entry_id: 8rpk2o
   entry_content: |
@@ -248,8 +243,12 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OkjOeXz53jfkJyNY-G4Mbd2eZxK7-3tRz2bbsgICiAI.jpg?s=81606894b190271ad91c922c5ac135b2 frameborder=0>
 - entry_name: |
-    Lifesaving work from this doctor literally this man was millimetres from death
-  entry_id: 8rkwbb
+  entry_id: 8rnivx
   entry_content: |
-    <iframe src=https://v.redd.it/2dr57uccee411/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/OoFXE9xT1yC6UQiQAXltLqLGqx2aCM8BBcXAsgE0TBw.jpg?s=dc6bcdc44d9b50db7940d09d9fbe8f07 frameborder=0>
+- entry_name: |
+    Let that sink in
+  entry_id: 8rlnfx
+  entry_content: |
+    <iframe src=https://v.redd.it/kq4zt2zpze411/DASH_9_6_M frameborder=0></iframe>
 ---
