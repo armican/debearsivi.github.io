@@ -118,11 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1DRJWw05NucbYJrBkt6f1lKOvcVbw-C-UUUcok3BTQU.jpg?s=71864524c6b02aaaa060dea7cddcb4e8 frameborder=0>
 - entry_name: |
-    Russia set to raise retirement age above male life expectancy
-  entry_id: 8rlqyh
-  entry_content: |
-    <img src=https://i.redditmedia.com/hps2Ir2MGZUYBDuqlk31iwFWHzvcC2rtoT7zmCsP8fk.jpg?s=3c2db04d918f2e93b9ab7eb62ab7aaf9 frameborder=0>
-- entry_name: |
     Just father and boi having dinner
   entry_id: 8rqvco
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/mbpg2yw66i411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Gotta get that A+
-  entry_id: 8rlpd4
-  entry_content: |
-    <img src=https://i.redditmedia.com/cs9lq5epU9O6xBgvDMasLlanaNCPXAuDZ97wxEF-_N0.jpg?s=fde3db899e477de5f6e7812e2ae2a6fc frameborder=0>
-- entry_name: |
     Heard you were talkin' shit
   entry_id: 8rmxa5
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8rm9o2
   entry_content: |
     <img src=https://i.redditmedia.com/ipoGl2qpxyHmHyeqePxVVU5Uu2gqwPZpZwHxjOCiFQ0.jpg?s=5df79a96ad84c74c2d392fdbb42cad3b frameborder=0>
+- entry_name: |
+    I will never be alone again
+  entry_id: 8rprm7
+  entry_content: |
+    <iframe src=https://v.redd.it/9uomwc1nui411/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Happy Fathers Day to all the Fathers here! Maybe a reposti
+  entry_id: 8rqc5w
+  entry_content: |
+    <img src=https://i.redditmedia.com/RPndtNILIqfxLUL-4VKRALBn53bndRvxR3Nsl_WJhzk.jpg?s=6f747f1c86b439d47afb7c216052f243 frameborder=0>
 ---
