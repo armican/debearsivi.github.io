@@ -118,11 +118,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/by0tn3wbam411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Japan, ladies and gentlemen
-  entry_id: 8rtfku
-  entry_content: |
-    <iframe src=https://v.redd.it/3p4rbc956m411/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Often unrecognized in his sons success, Bill Gates sr, now 92, still gives his son advice. Oh yea, he’s also 6’7”
   entry_id: 8rv2zq
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8rxnv4
   entry_content: |
     <iframe src=https://v.redd.it/q4wi2m7zhp411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    When you see a mosquito land on you and begin to bite, laugh and ask is it in yet? It will ruin the Mosquito's confidence and it won't be able to perform penetration
+  entry_id: 8rx3zd
+  entry_content: |
+    null
 ---
