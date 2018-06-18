@@ -183,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vU9znEwJuJ7No4aSIhFZvypFT9cx7h1wSYdL0TYkkEI.jpg?s=274cfc7b94a3727af48c5282887d4232 frameborder=0>
 - entry_name: |
-    Bathroom mirror at a bar in Italy
-  entry_id: 8rspm3
-  entry_content: |
-    <img src=https://i.redditmedia.com/a5AMZQWvszOutztbvbcKxkn6-dwy2Jg_Xg53_7sgJLk.jpg?s=b84ef85662fafedba14ea13142bb372a frameborder=0>
-- entry_name: |
     TIL Leonidas of Rhodes' Olympic Record of 12 individual victories (164 - 152 BC) stood for over 2100 years before being eclipsed by Michael Phelps in 2016
   entry_id: 8rx1sy
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8rstxh
   entry_content: |
     <iframe src=https://v.redd.it/rtmgz6o0ol411/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    When you see a mosquito land on you and begin to bite, laugh and ask is it in yet? It will ruin the Mosquito's confidence and it won't be able to perform penetration
+  entry_id: 8rx3zd
+  entry_content: |
+    null
 ---
