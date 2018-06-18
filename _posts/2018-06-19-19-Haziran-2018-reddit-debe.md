@@ -188,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vU9znEwJuJ7No4aSIhFZvypFT9cx7h1wSYdL0TYkkEI.jpg?s=274cfc7b94a3727af48c5282887d4232 frameborder=0>
 - entry_name: |
-    Fuckin Serbs
-  entry_id: 8rtka6
-  entry_content: |
-    <img src=https://i.redditmedia.com/CY6As02pVlf7FIhgbD7rIcuVr7u0OS62Hb8RJst-XYw.jpg?s=9d60a8dc40d4ccadc745926b66ebaab1 frameborder=0>
-- entry_name: |
     TIL the movie Jack and Jill won an award in all 10 categories at the 32nd Golden Raspberry awards. This included Adam Sandler winning in BOTH worst actor and worst actress categories.
   entry_id: 8ry9hb
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8rx3zd
   entry_content: |
     null
+- entry_name: |
+    Cannabidiol, or CBD, is a marijuana compound linked to a range of potential health benefits but does not get you high. The roughly $1 billion CBD industry is slated to shift into high gear if the federal government approves the first CBD-based drug, an epilepsy medication called Epidiolex.
+  entry_id: 8rtzin
+  entry_content: |
+    <img src=https://i.redditmedia.com/N4LVIE2gmRsaxb2quodR6HYs2V9-ambPq4z85eK6j3A.jpg?s=bc837072023b24621292704b3fc20af2 frameborder=0>
 ---
