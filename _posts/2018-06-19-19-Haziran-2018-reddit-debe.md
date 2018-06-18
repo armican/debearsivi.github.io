@@ -18,11 +18,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Dream comes True for these kids
-  entry_id: 8rskeg
-  entry_content: |
-    <iframe src=https://v.redd.it/38nunb9yil411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Ted Cruz was paid $36,000 by Comcast to write this tweet
   entry_id: 8rugla
   entry_content: |
@@ -158,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aNJGIl6-iEhjw_Yx5KDOmNCrWLIF6OO1FbOqF02jxfw.jpg?s=9a2791f436d3aa55ac8d6f7ec873ce78 frameborder=0>
 - entry_name: |
-    hmmm
-  entry_id: 8rskl8
-  entry_content: |
-    <img src=https://i.redditmedia.com/zqwJOXkkasqveXkj79xkZk_B6l_nqC5xFQS6dXvNFpo.jpg?s=eb95721d2b9247ec1651935af108d3ff frameborder=0>
-- entry_name: |
     Mixing and matching these puzzles
   entry_id: 8ruuhg
   entry_content: |
@@ -248,8 +238,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wti03YzznNlL1gx-lhDw7E5BD-3DzmoZH4s3aApKPFQ.jpg?s=a143fa7154765984b84da57b3a64289b frameborder=0>
 - entry_name: |
-    Pusha the grandaddy
-  entry_id: 8rsk80
+    'Trump is ours!': Russian state TV celebrates Trump's suggestion that Crimea is part of Russia
+  entry_id: 8ry24e
   entry_content: |
-    <img src=https://i.redditmedia.com/SVrcs_Hu684k2P2HfeZpeFpvYiCV_nh-oIu71nARLjk.jpg?s=b36845303b001d2a19af5e0d70526b53 frameborder=0>
+    <img src=https://i.redditmedia.com/_7-sinVHIXe18xif1dJA3UGTxR76pITfGgfmK82twv8.jpg?s=afcceb0fc71f5913f8b0393b804b2382 frameborder=0>
+- entry_name: |
+    Don't prove me wrong >:(
+  entry_id: 8rxnib
+  entry_content: |
+    <img src=https://i.redditmedia.com/_r9kFjC030bBGfF_zOLHsuhWPEGx1iLBbxMVj0fE6W0.jpg?s=876bab8a249e610f3ec918f2d915e290 frameborder=0>
+- entry_name: |
+    The way the bubble pops around my son
+  entry_id: 8rstxh
+  entry_content: |
+    <iframe src=https://v.redd.it/rtmgz6o0ol411/DASH_9_6_M frameborder=0></iframe>
 ---
