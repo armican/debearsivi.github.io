@@ -158,11 +158,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8jsz5e558n411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    True
-  entry_id: 8rt1h4
-  entry_content: |
-    <img src=https://i.redditmedia.com/aNJGIl6-iEhjw_Yx5KDOmNCrWLIF6OO1FbOqF02jxfw.jpg?s=9a2791f436d3aa55ac8d6f7ec873ce78 frameborder=0>
-- entry_name: |
     Let’s all take a moment to appreciate blank VHS cassette packaging design trends.
   entry_id: 8ruzmz
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8rvrmz
   entry_content: |
     <img src=https://i.redditmedia.com/wti03YzznNlL1gx-lhDw7E5BD-3DzmoZH4s3aApKPFQ.jpg?s=a143fa7154765984b84da57b3a64289b frameborder=0>
+- entry_name: |
+    Cosplay of Saint Celestine from Warhammer 40 000.
+  entry_id: 8rzd0x
+  entry_content: |
+    <iframe src=https://v.redd.it/rt7lwkdwhq411/DASH_1_2_M frameborder=0></iframe>
 ---
