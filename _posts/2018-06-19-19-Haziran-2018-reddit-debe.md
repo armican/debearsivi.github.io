@@ -8,6 +8,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jZffMmI6bfsEvt8WDCsRKfXouJii7SXGOyrA7RXzzWY.png?s=7c377fcd74fd401f043454f76938831f frameborder=0>
 - entry_name: |
+    I will not let go
+  entry_id: 8rz6uk
+  entry_content: |
+    <iframe src=https://v.redd.it/53ad3jtw8r411/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Stop messing with my head!
   entry_id: 8ru8ps
   entry_content: |
@@ -17,11 +22,6 @@ data:
   entry_id: 8rtwyf
   entry_content: |
     null
-- entry_name: |
-    I will not let go
-  entry_id: 8rz6uk
-  entry_content: |
-    <iframe src=https://v.redd.it/53ad3jtw8r411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Ted Cruz was paid $36,000 by Comcast to write this tweet
   entry_id: 8rugla
@@ -43,15 +43,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nms7n0a6jm411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The real reason Mexico beat Germany
-  entry_id: 8rw5d8
-  entry_content: |
-    <iframe src=https://v.redd.it/d30d5g7d4o411/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     CTRL + ALT + DEL
   entry_id: 8rzckr
   entry_content: |
     <img src=https://i.redditmedia.com/zr3qgF0CqYJKn3UDOf0zqwo4755_bFL_czQDU36Gs4E.png?s=a7350db0f87318fe97537189bfe065a0 frameborder=0>
+- entry_name: |
+    The real reason Mexico beat Germany
+  entry_id: 8rw5d8
+  entry_content: |
+    <iframe src=https://v.redd.it/d30d5g7d4o411/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Sheriff: Deputy sexually assaulted child, threatened undocumented mom if she reported it
   entry_id: 8ruoe9
@@ -68,6 +68,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hJjKG7obivy0e4P2ec22LRf32b5nSHDU0IUkNMpOXuY.jpg?s=f4994916f91cb22c0f1549d7544c74f9 frameborder=0>
 - entry_name: |
+    4 years ago I became the head of an established 4 head household... but this caught me off guard...
+  entry_id: 8s04tg
+  entry_content: |
+    <img src=https://i.redditmedia.com/D0KWujoZBO4_T491Dty2w-f5QJIBJBDcnhbo1YvFEwY.jpg?s=7de355bb4cec29a638ab055f093c4471 frameborder=0>
+- entry_name: |
     I’m not sure who is more excited to have who...
   entry_id: 8rv8pf
   entry_content: |
@@ -77,6 +82,11 @@ data:
   entry_id: 8ryjg8
   entry_content: |
     <img src=https://i.redditmedia.com/3ZJ2kkp0J5s1AWi_YTtBbApJJ2f7z1jj9DrMFAim4Lo.jpg?s=bda0d9ef5d2644272485304568d53f14 frameborder=0>
+- entry_name: |
+    A group of Mexican fans came to Russia with a cardboard photo of the friend whose wife didn’t let him go 🤣🤣
+  entry_id: 8rz8lq
+  entry_content: |
+    <img src=https://i.redditmedia.com/NVb2iu62ngLVzlOeER73v_bo2qSXDaDYSdovIOBOAkA.jpg?s=814c1d6439890160a7c37183253e47ff frameborder=0>
 - entry_name: |
     Long exposure photograph I shot of SpaceX’s recent launch of Falcon 9 and SES-12
   entry_id: 8rv0rr
@@ -88,35 +98,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xHEupSE-_u0_pcxq6IvExOBdGGsnO2iMsGiuZsh4lLs.png?s=abee8d2f085e2f04ce4adb33706b8393 frameborder=0>
 - entry_name: |
-    Where did she go???
-  entry_id: 8rtyee
-  entry_content: |
-    <iframe src=https://v.redd.it/0mewvulwjm411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     🔥 Oak processionary caterpillars know how to form a line and even merge
   entry_id: 8rvug0
   entry_content: |
     <iframe src=https://v.redd.it/7p7cyc2cwn411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Where did she go???
+  entry_id: 8rtyee
+  entry_content: |
+    <iframe src=https://v.redd.it/0mewvulwjm411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     nice robots
   entry_id: 8rtype
   entry_content: |
     <iframe src=https://v.redd.it/5rlq2x02km411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    A group of Mexican fans came to Russia with a cardboard photo of the friend whose wife didn’t let him go 🤣🤣
-  entry_id: 8rz8lq
-  entry_content: |
-    <img src=https://i.redditmedia.com/NVb2iu62ngLVzlOeER73v_bo2qSXDaDYSdovIOBOAkA.jpg?s=814c1d6439890160a7c37183253e47ff frameborder=0>
-- entry_name: |
-    4 years ago I became the head of an established 4 head household... but this caught me off guard...
-  entry_id: 8s04tg
-  entry_content: |
-    <img src=https://i.redditmedia.com/D0KWujoZBO4_T491Dty2w-f5QJIBJBDcnhbo1YvFEwY.jpg?s=7de355bb4cec29a638ab055f093c4471 frameborder=0>
-- entry_name: |
     So majestic. Much grace...
   entry_id: 8rualj
   entry_content: |
     <iframe src=https://v.redd.it/by0tn3wbam411/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Cosplay of Saint Celestine from Warhammer 40 000.
+  entry_id: 8rzd0x
+  entry_content: |
+    <iframe src=https://v.redd.it/rt7lwkdwhq411/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    support your friend, you cheap bastard!
+  entry_id: 8rzfx7
+  entry_content: |
+    <img src=https://i.redditmedia.com/kk_BXdv3UqzDdQdqKd6AWE_mBJBBM3lFXI8rL60pEBc.jpg?s=a1103694929699d0adcaaffbad68b776 frameborder=0>
 - entry_name: |
     Often unrecognized in his sons success, Bill Gates sr, now 92, still gives his son advice. Oh yea, he’s also 6’7”
   entry_id: 8rv2zq
@@ -133,11 +143,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_kcfa8vPFNZkKqO2RcbEOyz8PR7px6h0jCzQt-yX0lA.jpg?s=3b727fea7ded4fb4ef5c3a8dd98b22f7 frameborder=0>
 - entry_name: |
-    Meet Stephen Miller, the 32-year-old White House adviser who convinced Trump to start separating migrant children from their parents at the border
-  entry_id: 8rux0x
-  entry_content: |
-    <img src=https://i.redditmedia.com/OlJus8ur3PLHqsj3_qLmJC1jvbsxDilxQCol4nB-_GM.jpg?s=8723327b6d230e7ad693024f7efac7d8 frameborder=0>
-- entry_name: |
     When I wake up and see no one has posted in a new gif in 12 hours so the sub is free for the taking...
   entry_id: 8rxp2e
   entry_content: |
@@ -147,6 +152,11 @@ data:
   entry_id: 8rvg8e
   entry_content: |
     <iframe src=https://v.redd.it/nr0jq3khpn411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Meet Stephen Miller, the 32-year-old White House adviser who convinced Trump to start separating migrant children from their parents at the border
+  entry_id: 8rux0x
+  entry_content: |
+    <img src=https://i.redditmedia.com/OlJus8ur3PLHqsj3_qLmJC1jvbsxDilxQCol4nB-_GM.jpg?s=8723327b6d230e7ad693024f7efac7d8 frameborder=0>
 - entry_name: |
     Got what he deserved.
   entry_id: 8ru9kl
@@ -158,16 +168,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8jsz5e558n411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Cosplay of Saint Celestine from Warhammer 40 000.
-  entry_id: 8rzd0x
-  entry_content: |
-    <iframe src=https://v.redd.it/rt7lwkdwhq411/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    support your friend, you cheap bastard!
-  entry_id: 8rzfx7
-  entry_content: |
-    <img src=https://i.redditmedia.com/kk_BXdv3UqzDdQdqKd6AWE_mBJBBM3lFXI8rL60pEBc.jpg?s=a1103694929699d0adcaaffbad68b776 frameborder=0>
-- entry_name: |
     Let’s all take a moment to appreciate blank VHS cassette packaging design trends.
   entry_id: 8ruzmz
   entry_content: |
@@ -177,6 +177,11 @@ data:
   entry_id: 8rvklp
   entry_content: |
     <img src=https://i.redditmedia.com/-lAFMBt_zI_omu3-Jqs3rjzP4z6BJ6kY3KVdcjNyTdA.jpg?s=38999bce18355588b78e080956e26c3c frameborder=0>
+- entry_name: |
+    TIL the movie Jack and Jill won an award in all 10 categories at the 32nd Golden Raspberry awards. This included Adam Sandler winning in BOTH worst actor and worst actress categories.
+  entry_id: 8ry9hb
+  entry_content: |
+    <img src=https://i.redditmedia.com/i-4eAWSa4WAFvjJhQev9fzWHcR-5s6e4Mt1wLEO__dk.jpg?s=55d14c9ecec7010a54a91e3b0c21ba2a frameborder=0>
 - entry_name: |
     Mont Saint-Michel, low tide...
   entry_id: 8rxrfc
@@ -188,20 +193,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vU9znEwJuJ7No4aSIhFZvypFT9cx7h1wSYdL0TYkkEI.jpg?s=274cfc7b94a3727af48c5282887d4232 frameborder=0>
 - entry_name: |
-    TIL the movie Jack and Jill won an award in all 10 categories at the 32nd Golden Raspberry awards. This included Adam Sandler winning in BOTH worst actor and worst actress categories.
-  entry_id: 8ry9hb
-  entry_content: |
-    <img src=https://i.redditmedia.com/i-4eAWSa4WAFvjJhQev9fzWHcR-5s6e4Mt1wLEO__dk.jpg?s=55d14c9ecec7010a54a91e3b0c21ba2a frameborder=0>
-- entry_name: |
     TIL Leonidas of Rhodes' Olympic Record of 12 individual victories (164 - 152 BC) stood for over 2100 years before being eclipsed by Michael Phelps in 2016
   entry_id: 8rx1sy
   entry_content: |
     <img src=https://i.redditmedia.com/hgFtckdKGMUX3rj-wG-GYXdHPNS9nYrtp0bodEE8lBs.jpg?s=8fcc7c03f5f71bf44a416735832de655 frameborder=0>
-- entry_name: |
-    Kid tries to outrun a cheetah
-  entry_id: 8rtngq
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHiddenHatefulAddax&url=https%3A%2F%2Fgfycat.com%2FHiddenHatefulAddax&image=https%3A%2F%2Fthumbs.gfycat.com%2FHiddenHatefulAddax-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     My plant grew a pair of legs
   entry_id: 8rxcqi
@@ -213,43 +208,48 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_r9kFjC030bBGfF_zOLHsuhWPEGx1iLBbxMVj0fE6W0.jpg?s=876bab8a249e610f3ec918f2d915e290 frameborder=0>
 - entry_name: |
-    balloon pop
-  entry_id: 8rujnn
+    For the love of God give it whatever it wants 😍
+  entry_id: 8rykmf
   entry_content: |
-    <iframe src=https://v.redd.it/uamj4t3wvm411/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/q28ne9cbpq411/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Trump just tweeted that “crime in Germany is way up.” It’s actually at its lowest level since 1992.
   entry_id: 8rzj83
   entry_content: |
     <img src=https://i.redditmedia.com/6RYVUhrr7w_oDiO2oFrriYttXJGfey9orwkCWYs5ISA.jpg?s=d542788ec0c32fd7f59e716f11663bfc frameborder=0>
 - entry_name: |
-    The years may go by, but being a good boy doesn’t.
-  entry_id: 8rtvfc
+    The cruise ship I’m on has a traveling school of fish carpet, but there’s an occasional salmon swimming upstream
+  entry_id: 8rzcbw
   entry_content: |
-    <iframe src=https://v.redd.it/5khwpj96hm411/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/GMDxH4mmSRid-T7bQdDmEcc1qtgRJAlI2ZBuGGXn_o4.jpg?s=a4e34202cd4122ac78951da99dc739a3 frameborder=0>
 - entry_name: |
-    For the love of God give it whatever it wants 😍
-  entry_id: 8rykmf
+    'Helicopter parenting' linked to behavioural problems - Children whose parents were over-controlling at age two struggled to manage their emotions later in life, study finds.
+  entry_id: 8rzea1
   entry_content: |
-    <iframe src=https://v.redd.it/q28ne9cbpq411/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/D0m_S9gb4DLMFokloDfbDMxzK_oKrjmHyok-ZjXNsyc.jpg?s=ee35f6ceb7dbfb7b4703635869e30283 frameborder=0>
 - entry_name: |
-    'Trump is ours!': Russian state TV celebrates Trump's suggestion that Crimea is part of Russia
-  entry_id: 8ry24e
+    balloon pop
+  entry_id: 8rujnn
   entry_content: |
-    <img src=https://i.redditmedia.com/_7-sinVHIXe18xif1dJA3UGTxR76pITfGgfmK82twv8.jpg?s=afcceb0fc71f5913f8b0393b804b2382 frameborder=0>
+    <iframe src=https://v.redd.it/uamj4t3wvm411/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Dragon Dance
   entry_id: 8rxnv4
   entry_content: |
     <iframe src=https://v.redd.it/q4wi2m7zhp411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When you see a mosquito land on you and begin to bite, laugh and ask is it in yet? It will ruin the Mosquito's confidence and it won't be able to perform penetration
-  entry_id: 8rx3zd
+    hmmm
+  entry_id: 8ry92p
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/91jevVZTX2xfUK8WFbbTGbnrn12fv4yILtL-eLTLRmA.png?s=63e5ca45be0c10cb0890fdf83906452e frameborder=0>
 - entry_name: |
-    Cannabidiol, or CBD, is a marijuana compound linked to a range of potential health benefits but does not get you high. The roughly $1 billion CBD industry is slated to shift into high gear if the federal government approves the first CBD-based drug, an epilepsy medication called Epidiolex.
-  entry_id: 8rtzin
+    The years may go by, but being a good boy doesn’t.
+  entry_id: 8rtvfc
   entry_content: |
-    <img src=https://i.redditmedia.com/N4LVIE2gmRsaxb2quodR6HYs2V9-ambPq4z85eK6j3A.jpg?s=bc837072023b24621292704b3fc20af2 frameborder=0>
+    <iframe src=https://v.redd.it/5khwpj96hm411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    'Trump is ours!': Russian state TV celebrates Trump's suggestion that Crimea is part of Russia
+  entry_id: 8ry24e
+  entry_content: |
+    <img src=https://i.redditmedia.com/_7-sinVHIXe18xif1dJA3UGTxR76pITfGgfmK82twv8.jpg?s=afcceb0fc71f5913f8b0393b804b2382 frameborder=0>
 ---
