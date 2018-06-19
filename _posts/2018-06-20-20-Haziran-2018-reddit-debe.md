@@ -108,11 +108,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/65rn2l9tgu411/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    The colors of this vine
-  entry_id: 8s1du4
-  entry_content: |
-    <img src=https://i.redditmedia.com/NeHup5EsTvLpGoGzsa5k3SgxIHUeZz0VuBrgdZlyVLg.jpg?s=bb3f6a1380e706b978fa323ac8fb34a3 frameborder=0>
-- entry_name: |
     The size of this Alaskan Malamute’s head 😳
   entry_id: 8s1i7r
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8s25aq
   entry_content: |
     <img src=https://i.redditmedia.com/uZ_CMEbKOJOON8a6ZjOR2ekUE4DXWHflRrCsJZgz0dM.jpg?s=7e41859e558ebd23840238810f3b242e frameborder=0>
+- entry_name: |
+    Crying daughter
+  entry_id: 8s6upa
+  entry_content: |
+    <img src=https://i.redditmedia.com/FQN4jWBlyn9lg5IWYUQdkRF57RFpHkwuEqAmp2Jm9pE.jpg?s=2706d15fcd9f66579696977a23fbb30d frameborder=0>
 ---
