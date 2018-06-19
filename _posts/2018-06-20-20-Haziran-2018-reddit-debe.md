@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vEiEZFq4Dy9ciQtczp-lzLwY35ssNWCnhdzL-SPDKAE.jpg?s=85a335489af53984f5757a767ef2dd87 frameborder=0>
 - entry_name: |
-    Did someone say free food?
-  entry_id: 8s1hv8
-  entry_content: |
-    <iframe src=https://v.redd.it/ik4r0yjmrs411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Document reveals Trump administration planned on separating migrant families soon after inauguration
   entry_id: 8s3gwi
   entry_content: |
@@ -107,11 +102,6 @@ data:
   entry_id: 8s45ec
   entry_content: |
     <iframe src=https://v.redd.it/65rn2l9tgu411/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    The size of this Alaskan Malamute’s head 😳
-  entry_id: 8s1i7r
-  entry_content: |
-    <iframe src=https://v.redd.it/62ut1h4drs411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
   entry_id: 8s34uy
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8s6upa
   entry_content: |
     <img src=https://i.redditmedia.com/FQN4jWBlyn9lg5IWYUQdkRF57RFpHkwuEqAmp2Jm9pE.jpg?s=2706d15fcd9f66579696977a23fbb30d frameborder=0>
+- entry_name: |
+    Man Of The Year
+  entry_id: 8s333h
+  entry_content: |
+    <img src=https://i.redditmedia.com/B7i7NjhDsxY6usspna7LUwq9jLqRIB8csFmS2ECE_A8.png?s=754f491438b6b8a2dfae6a9ea92dfecd frameborder=0>
+- entry_name: |
+    This small navy tug boat in Boston
+  entry_id: 8s7zhd
+  entry_content: |
+    <img src=https://i.redditmedia.com/jnCaFAFLnSTeZJJEs843HFK_BawI0BPeuJoYIrwbDjI.jpg?s=59f3343a1e9cfe84d6e414bb092e2431 frameborder=0>
 ---
