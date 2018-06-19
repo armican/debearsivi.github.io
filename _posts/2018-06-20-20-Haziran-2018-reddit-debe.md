@@ -48,16 +48,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/e79hxadbby411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Drone with a flamethrower to clear debris from power lines.
-  entry_id: 8s2twy
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTiredFixedGardensnake&url=https%3A%2F%2Fgfycat.com%2FTiredFixedGardensnake&image=https%3A%2F%2Fthumbs.gfycat.com%2FTiredFixedGardensnake-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=368 height=640 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    Rapper XXX Tentacion has been shot in Miami and appears to be lifeless, witnesses say.
-  entry_id: 8s2uua
-  entry_content: |
-    <img src=https://i.redditmedia.com/vEiEZFq4Dy9ciQtczp-lzLwY35ssNWCnhdzL-SPDKAE.jpg?s=85a335489af53984f5757a767ef2dd87 frameborder=0>
-- entry_name: |
     TIL of the bullshit asymmetry principle: The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
   entry_id: 8s7y24
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8s7zny
   entry_content: |
     <img src=https://i.redditmedia.com/DFPDytqAAwaY1bUY1CGtyPqQSnHvNxbqORklfcEmORk.jpg?s=2b5ef86b38ae1895ccb7eb5e8d70052a frameborder=0>
+- entry_name: |
+    The irony in spreading this picture was definitely lost on my friend's mom.
+  entry_id: 8s84ve
+  entry_content: |
+    <img src=https://i.redditmedia.com/HTOfSPf6yBylpGvnll3J3xqBGl2GOTJ-CsUaB67dwME.jpg?s=d823229dbecdcfab75eaac579648ff41 frameborder=0>
+- entry_name: |
+    Gawhd why do I even BOTHER coming to these things
+  entry_id: 8s6vxx
+  entry_content: |
+    <img src=https://i.redditmedia.com/rHkXeVPg3fXURP7VIJrZqjBMI7QiIInO8Sy1wVxSfVw.jpg?s=73512401c2848d8651a4f0b69b7202d9 frameborder=0>
 ---
