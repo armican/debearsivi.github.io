@@ -112,11 +112,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    I work as a Watchmaker and every now and then it happens that we let some parts fly off due to squeezing pliers too hard for example. I knew something hit my eye, but couldn't find it afterwards. After ~30 minutes I finally found it.
-  entry_id: 8s21su
-  entry_content: |
-    <img src=https://i.redditmedia.com/J_4QTZduo3qOUTo9L6FKSe-K4i_nX_RCQ908vOBuqOw.jpg?s=059dd9be51c911c170f983d085ddac37 frameborder=0>
-- entry_name: |
     My pops, who is also a fellow Redditor, back before I was thought of (late 80s I believe)
   entry_id: 8s3wut
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8s7iat
   entry_content: |
     <img src=https://i.redditmedia.com/OcnxUCmlrv5_JSBB82ApQHMG6ohS-ApUyJxP5r4IxX0.png?s=a4960f8c9381e223831b3e4cb3e21ad8 frameborder=0>
+- entry_name: |
+    I’m not taking the bus!!
+  entry_id: 8s4xtx
+  entry_content: |
+    <img src=https://i.redditmedia.com/87bZ9QStkoLhT3n72vDbfkj9O0SsNiB4E0lqXZq0hEg.jpg?s=bca10fce812bf4c839037a3b984dbcfe frameborder=0>
 ---
