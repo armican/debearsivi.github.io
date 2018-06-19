@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hgn1k956bt411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    LEAKED KENOBI MOVIE INTRO
-  entry_id: 8s15th
-  entry_content: |
-    <iframe src=https://v.redd.it/tbabyjg3ks411/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Transformation Tuesday! 164 pounds lost in 4 years.. feeling really proud of myself.
   entry_id: 8s7rs5
   entry_content: |
@@ -78,20 +73,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jadFYeHmmKSBVNfdJNhaxGG6QKRl694AGfMg47akY-Q.jpg?s=aa4e4302b2052ea8d6266de51a260896 frameborder=0>
 - entry_name: |
+    Wholesome Reaper
+  entry_id: 8s60nq
+  entry_content: |
+    <img src=https://i.redditmedia.com/WsElmh1gNybougXgx6r61NNe5uAQBpiGheTPctHyNE4.jpg?s=43c10eea17cc167e17569a88d6ea13b3 frameborder=0>
+- entry_name: |
+    Little fellow currently training to be a certified cat.
+  entry_id: 8s7w5q
+  entry_content: |
+    <img src=https://i.redditmedia.com/lV0qclw44X39Zv0lfedOxLqZgpvqB3jVlUWWeND06-0.jpg?s=6c66c4ff9199a3bad0b593b01e94eef1 frameborder=0>
+- entry_name: |
     A major career change... it’s not going to be easy, but I’m ready.
   entry_id: 8s4842
   entry_content: |
     <img src=https://i.redditmedia.com/gPfEK7FbupQ_rYMXMNV-UToqHbu_fUbLBSg-3MiLOWs.jpg?s=cafb0220eee8ecae540878fc55c796b7 frameborder=0>
+- entry_name: |
+    Aubrey Plaza eye-fucking Chris Pratt
+  entry_id: 8s8ge5
+  entry_content: |
+    <iframe src=https://v.redd.it/e79hxadbby411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Flamethrower drone clearing debris from power lines
   entry_id: 8s3ele
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTiredFixedGardensnake&url=https%3A%2F%2Fgfycat.com%2FTiredFixedGardensnake&image=https%3A%2F%2Fthumbs.gfycat.com%2FTiredFixedGardensnake-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=368 height=640 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Wholesome Reaper
-  entry_id: 8s60nq
+    PsBattle: this smiling dog at prom
+  entry_id: 8s529q
   entry_content: |
-    <img src=https://i.redditmedia.com/WsElmh1gNybougXgx6r61NNe5uAQBpiGheTPctHyNE4.jpg?s=43c10eea17cc167e17569a88d6ea13b3 frameborder=0>
+    <img src=https://i.redditmedia.com/q9HVl9E3Wc1bc2n-tKlWPAXdCMRcZVktTAG-ECMtjdU.jpg?s=f845bfdca1074e6dce39dc0e7873e345 frameborder=0>
 - entry_name: |
     MRW someone comes over to my house for the first time
   entry_id: 8s45ec
@@ -102,11 +112,6 @@ data:
   entry_id: 8s1du4
   entry_content: |
     <img src=https://i.redditmedia.com/NeHup5EsTvLpGoGzsa5k3SgxIHUeZz0VuBrgdZlyVLg.jpg?s=bb3f6a1380e706b978fa323ac8fb34a3 frameborder=0>
-- entry_name: |
-    PsBattle: this smiling dog at prom
-  entry_id: 8s529q
-  entry_content: |
-    <img src=https://i.redditmedia.com/q9HVl9E3Wc1bc2n-tKlWPAXdCMRcZVktTAG-ECMtjdU.jpg?s=f845bfdca1074e6dce39dc0e7873e345 frameborder=0>
 - entry_name: |
     The size of this Alaskan Malamute’s head 😳
   entry_id: 8s1i7r
@@ -137,10 +142,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/wx9m8gmqct411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Little fellow currently training to be a certified cat.
-  entry_id: 8s7w5q
+    Genji from Overwatch cosplay I made with paper and foam
+  entry_id: 8s8csl
   entry_content: |
-    <img src=https://i.redditmedia.com/lV0qclw44X39Zv0lfedOxLqZgpvqB3jVlUWWeND06-0.jpg?s=6c66c4ff9199a3bad0b593b01e94eef1 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSilkySmallAmericanmarten&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fdetail%2FSilkySmallAmericanmarten&image=https%3A%2F%2Fthumbs.gfycat.com%2FSilkySmallAmericanmarten-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=678 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     My pops, who is also a fellow Redditor, back before I was thought of (late 80s I believe)
   entry_id: 8s3wut
@@ -156,11 +161,6 @@ data:
   entry_id: 8s24we
   entry_content: |
     <img src=https://i.redditmedia.com/kCilp4-o3OYYit2pzenr87W7-O0YHwpIFMeGFx8sVko.jpg?s=803ade5c856cb56e0a915e7b20fcba8b frameborder=0>
-- entry_name: |
-    Aubrey Plaza eye-fucking Chris Pratt
-  entry_id: 8s8ge5
-  entry_content: |
-    <iframe src=https://v.redd.it/e79hxadbby411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     28 Years Ago Today, The Greatest Cliffhanger In Television History Aired
   entry_id: 8s1xz5
@@ -182,15 +182,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TOjcbzgApTZgSZ08HECiNMpYx3GFayz5k1kPq1Sdacc.jpg?s=466c53ab5acf12fcd48adadf8093df36 frameborder=0>
 - entry_name: |
-    smooth ride
-  entry_id: 8s4nsm
+    Americans own 40 percent of world's firearms: study
+  entry_id: 8s7mgn
   entry_content: |
-    <iframe src=https://v.redd.it/fj5n1or1uu411/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/1TvkW1QGoHAcf0w3sF0dGJdxkwbiK8QZVmpTr0sH32E.jpg?s=94d6e1d481f27589d4be461e761af9bd frameborder=0>
 - entry_name: |
     I spent so much money as a dumbass kid it’s not even funny
   entry_id: 8s5twj
   entry_content: |
     <img src=https://i.redditmedia.com/AoqGxVITNFqrtxvIGbWpzRfgVDddUGvVMkOqfwg9ku8.jpg?s=9a6a57f6b40b39b55831e415a7b18195 frameborder=0>
+- entry_name: |
+    smooth ride
+  entry_id: 8s4nsm
+  entry_content: |
+    <iframe src=https://v.redd.it/fj5n1or1uu411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL of the bullshit asymmetry principle: The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
+  entry_id: 8s7y24
+  entry_content: |
+    null
 - entry_name: |
     Are they each representing the condition printed on their shirts?
   entry_id: 8s2xvm
@@ -202,35 +212,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6LcMOzmPJAxyrTBM6PM6XcLZuhrZqCSmFlMR0u32iHA.png?s=61a609777db02d1643adff82f14177c1 frameborder=0>
 - entry_name: |
-    Senate rejects Trump’s rescue of Chinese firm ZTE
-  entry_id: 8s4due
-  entry_content: |
-    <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
-- entry_name: |
-    Look how strong this helmet is...
-  entry_id: 8s19d9
-  entry_content: |
-    <iframe src=https://v.redd.it/4bjizu75ms411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Perfectly balanced, as all things should be.
   entry_id: 8s5l66
   entry_content: |
     <iframe src=https://v.redd.it/4pf14se3kv411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Americans own 40 percent of world's firearms: study
-  entry_id: 8s7mgn
+    Senate rejects Trump’s rescue of Chinese firm ZTE
+  entry_id: 8s4due
   entry_content: |
-    <img src=https://i.redditmedia.com/1TvkW1QGoHAcf0w3sF0dGJdxkwbiK8QZVmpTr0sH32E.jpg?s=94d6e1d481f27589d4be461e761af9bd frameborder=0>
-- entry_name: |
-    Hayden Christensen's reaction to May the Force be with you at a football game: 😉
-  entry_id: 8s3mb2
-  entry_content: |
-    <iframe src=https://v.redd.it/vs39k4zi3u411/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
 - entry_name: |
     2meirl4meirl
   entry_id: 8s5oet
   entry_content: |
     <img src=https://i.redditmedia.com/YVoQ3B1ZdsqYtjJI96mDwR5GewH7o_UBKzthd1AGl1Y.jpg?s=b7b3175780257d9eee5dfc5c134e5176 frameborder=0>
+- entry_name: |
+    Hayden Christensen's reaction to May the Force be with you at a football game: 😉
+  entry_id: 8s3mb2
+  entry_content: |
+    <iframe src=https://v.redd.it/vs39k4zi3u411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Kidnapped
   entry_id: 8s3py2
@@ -242,13 +242,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/t92wLaxh79OWBjehtGWR0GZdpHj6Bg8qLErp_ZSIz9o.jpg?s=7239ed98c3c4a2cf20c7b35d01087e2f frameborder=0>
 - entry_name: |
+    The crossroads
+  entry_id: 8s80zk
+  entry_content: |
+    <img src=https://i.redditmedia.com/JAAi6WwhWp1S1tPFM6pifwwIEM7PDOtFCEZCgaanYM8.jpg?s=1cff60ffead8a834e70fff8323a5f51d frameborder=0>
+- entry_name: |
     When you’re so damn lazy that even an app can detect it.
   entry_id: 8s25aq
   entry_content: |
     <img src=https://i.redditmedia.com/uZ_CMEbKOJOON8a6ZjOR2ekUE4DXWHflRrCsJZgz0dM.jpg?s=7e41859e558ebd23840238810f3b242e frameborder=0>
-- entry_name: |
-    Man Of The Year
-  entry_id: 8s333h
-  entry_content: |
-    <img src=https://i.redditmedia.com/B7i7NjhDsxY6usspna7LUwq9jLqRIB8csFmS2ECE_A8.png?s=754f491438b6b8a2dfae6a9ea92dfecd frameborder=0>
 ---
