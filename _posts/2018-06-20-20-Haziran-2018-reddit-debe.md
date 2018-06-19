@@ -97,11 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gocb5jcmCYKOqypN3FcitWtlm6nTw7LQDO3iUby5Lco.jpg?s=dfd7b5767b177efcdf6f244099522181 frameborder=0>
 - entry_name: |
-    Homeboy got paralyzed
-  entry_id: 8s2htm
-  entry_content: |
-    <img src=https://i.redditmedia.com/vh39d8YAnEovL_kZwlrMuzJtksk4wi8u7YtkP-cXhHU.jpg?s=a38f77eb390027566c8134ab2b96b27c frameborder=0>
-- entry_name: |
     Americans own 40 percent of world's firearms: study
   entry_id: 8s7mgn
   entry_content: |
@@ -111,11 +106,6 @@ data:
   entry_id: 8s3wut
   entry_content: |
     <img src=https://i.redditmedia.com/I8dW0zDsBDrILx8G-1xOGuoMLjjx9X3gWIMFy2sOXRE.jpg?s=769794c8a385ed6ba0f99b901c689aab frameborder=0>
-- entry_name: |
-    Diver becomes God to crustaceans.
-  entry_id: 8s2fch
-  entry_content: |
-    <iframe src=https://v.redd.it/wx9m8gmqct411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     This small navy tug boat in Boston
   entry_id: 8s7zhd
@@ -251,4 +241,14 @@ data:
   entry_id: 8s5dkl
   entry_content: |
     <img src=https://i.redditmedia.com/Qw_CO04y9HMCSq9fHYEzryiPFV78v62oIi53Pk4TTVk.jpg?s=032a0d64edb5e75238402cf22e8f9753 frameborder=0>
+- entry_name: |
+    Metric System
+  entry_id: 8s9sdx
+  entry_content: |
+    <img src=https://i.redditmedia.com/IjPMXWWOQs8iSf7Kxv3EVWtHUEeg43p7viZzP2740P0.jpg?s=b46a76be774b4c40000a6b6008bdb910 frameborder=0>
+- entry_name: |
+    All lives matter
+  entry_id: 8s2skz
+  entry_content: |
+    <img src=https://i.redditmedia.com/_O1bTGr4DbklX1p7l8VF8sU4I6smpqoS_IfMu7q30RQ.jpg?s=4aefa737b6f936923d464441e7f91673 frameborder=0>
 ---
