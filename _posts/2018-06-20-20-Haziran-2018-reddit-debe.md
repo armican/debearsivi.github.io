@@ -3,11 +3,6 @@ layout: post
 title: 20 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    My wife ran and won her age group in her first 5k this weekend. Here are a couple pictures from the race.
-  entry_id: 8s2ag9
-  entry_content: |
-    <img src=https://i.redditmedia.com/NErZjjy5OMudQ4Q87l_eeLUxBx9w0Cp4xigCzAmg1tY.jpg?s=bda77d54f96d62ca0d55b67d3437ba30 frameborder=0>
-- entry_name: |
     The baby didn't even realize it happened
   entry_id: 8s3okb
   entry_content: |
@@ -27,11 +22,6 @@ data:
   entry_id: 8s4x3o
   entry_content: |
     <img src=https://i.redditmedia.com/VyV_CcaJ5-vrMQ2MSBtin_CIAhmtB3ZHCHNeteUIqsE.jpg?s=227deef31e75fe7f61a5096dd0cf37b3 frameborder=0>
-- entry_name: |
-    She learned a new trick
-  entry_id: 8s2cpk
-  entry_content: |
-    <iframe src=https://v.redd.it/hgn1k956bt411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Transformation Tuesday! 164 pounds lost in 4 years.. feeling really proud of myself.
   entry_id: 8s7rs5
@@ -251,4 +241,14 @@ data:
   entry_id: 8s333h
   entry_content: |
     <img src=https://i.redditmedia.com/B7i7NjhDsxY6usspna7LUwq9jLqRIB8csFmS2ECE_A8.png?s=754f491438b6b8a2dfae6a9ea92dfecd frameborder=0>
+- entry_name: |
+    I’m not taking the bus!!
+  entry_id: 8s4xtx
+  entry_content: |
+    <img src=https://i.redditmedia.com/87bZ9QStkoLhT3n72vDbfkj9O0SsNiB4E0lqXZq0hEg.jpg?s=bca10fce812bf4c839037a3b984dbcfe frameborder=0>
+- entry_name: |
+    The location of the picture
+  entry_id: 8s5dkl
+  entry_content: |
+    <img src=https://i.redditmedia.com/Qw_CO04y9HMCSq9fHYEzryiPFV78v62oIi53Pk4TTVk.jpg?s=032a0d64edb5e75238402cf22e8f9753 frameborder=0>
 ---
