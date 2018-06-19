@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/NErZjjy5OMudQ4Q87l_eeLUxBx9w0Cp4xigCzAmg1tY.jpg?s=bda77d54f96d62ca0d55b67d3437ba30 frameborder=0>
 - entry_name: |
-    This hexagonal graph paper for organic chemistry
-  entry_id: 8s1uzs
-  entry_content: |
-    <img src=https://i.redditmedia.com/uPqCi4w4xBTDqOh4pU-K3MFCCigirVZMIqC-7vAbvdE.jpg?s=897634fa59cb9dba5d51d1cee746a835 frameborder=0>
-- entry_name: |
     The baby didn't even realize it happened
   entry_id: 8s3okb
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/toCOWEQSv1vt__YJ9EVMdKlvL2nlssbtq4BfK_-xUZw.jpg?s=008d6b1fb8464771ecc58c250c3d5a09 frameborder=0>
 - entry_name: |
-    28 Years Ago Today, The Greatest Cliffhanger In Television History Aired
-  entry_id: 8s1xz5
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/w7KFfbjg3Iw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Every time
   entry_id: 8s50dr
   entry_content: |
@@ -196,11 +186,6 @@ data:
   entry_id: 8s5l66
   entry_content: |
     <iframe src=https://v.redd.it/4pf14se3kv411/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Happy Mother’s Day
-  entry_id: 8s1tyx
-  entry_content: |
-    <img src=https://i.redditmedia.com/6LcMOzmPJAxyrTBM6PM6XcLZuhrZqCSmFlMR0u32iHA.png?s=61a609777db02d1643adff82f14177c1 frameborder=0>
 - entry_name: |
     2meirl4meirl
   entry_id: 8s5oet
@@ -251,4 +236,19 @@ data:
   entry_id: 8s8p6j
   entry_content: |
     <img src=https://i.redditmedia.com/CoJI6xns4ePkjnD7EbraqYeBOiWsXdchAnzr2pf6xgc.jpg?s=a33a3671e82ec7369de08eeba700fd53 frameborder=0>
+- entry_name: |
+    When you’re so damn lazy that even an app can detect it.
+  entry_id: 8s25aq
+  entry_content: |
+    <img src=https://i.redditmedia.com/uZ_CMEbKOJOON8a6ZjOR2ekUE4DXWHflRrCsJZgz0dM.jpg?s=7e41859e558ebd23840238810f3b242e frameborder=0>
+- entry_name: |
+    Man Of The Year
+  entry_id: 8s333h
+  entry_content: |
+    <img src=https://i.redditmedia.com/B7i7NjhDsxY6usspna7LUwq9jLqRIB8csFmS2ECE_A8.png?s=754f491438b6b8a2dfae6a9ea92dfecd frameborder=0>
+- entry_name: |
+    Discord's too dangerous to be kept alive!
+  entry_id: 8s7iat
+  entry_content: |
+    <img src=https://i.redditmedia.com/OcnxUCmlrv5_JSBB82ApQHMG6ohS-ApUyJxP5r4IxX0.png?s=a4960f8c9381e223831b3e4cb3e21ad8 frameborder=0>
 ---
