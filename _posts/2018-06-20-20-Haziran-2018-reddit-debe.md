@@ -48,6 +48,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Gy2K1_2q5NoEv5vtJjysOeLgBE-r0-HfnTT0xplhGag.jpg?s=923b8f41996bbf00b776c6017b344730 frameborder=0>
 - entry_name: |
+    Little fellow currently training to be a certified cat.
+  entry_id: 8s7w5q
+  entry_content: |
+    <img src=https://i.redditmedia.com/lV0qclw44X39Zv0lfedOxLqZgpvqB3jVlUWWeND06-0.jpg?s=6c66c4ff9199a3bad0b593b01e94eef1 frameborder=0>
+- entry_name: |
+    Aubrey Plaza eye-fucking Chris Pratt
+  entry_id: 8s8ge5
+  entry_content: |
+    <iframe src=https://v.redd.it/e79hxadbby411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Drone with a flamethrower to clear debris from power lines.
   entry_id: 8s2twy
   entry_content: |
@@ -63,30 +73,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KOPPMTZonM5rnrg9R_KWRVQMavxtCkqxkrLQlOG0S2Y.jpg?s=5093354baf66d36e4e2c9b1cb4f846a3 frameborder=0>
 - entry_name: |
-    Wholesome tweet
-  entry_id: 8s1nzu
+    Genji from Overwatch cosplay I made with paper and foam
+  entry_id: 8s8csl
   entry_content: |
-    <img src=https://i.redditmedia.com/jadFYeHmmKSBVNfdJNhaxGG6QKRl694AGfMg47akY-Q.jpg?s=aa4e4302b2052ea8d6266de51a260896 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSilkySmallAmericanmarten&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fdetail%2FSilkySmallAmericanmarten&image=https%3A%2F%2Fthumbs.gfycat.com%2FSilkySmallAmericanmarten-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=678 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Wholesome Reaper
   entry_id: 8s60nq
   entry_content: |
     <img src=https://i.redditmedia.com/WsElmh1gNybougXgx6r61NNe5uAQBpiGheTPctHyNE4.jpg?s=43c10eea17cc167e17569a88d6ea13b3 frameborder=0>
 - entry_name: |
-    Little fellow currently training to be a certified cat.
-  entry_id: 8s7w5q
-  entry_content: |
-    <img src=https://i.redditmedia.com/lV0qclw44X39Zv0lfedOxLqZgpvqB3jVlUWWeND06-0.jpg?s=6c66c4ff9199a3bad0b593b01e94eef1 frameborder=0>
-- entry_name: |
     A major career change... it’s not going to be easy, but I’m ready.
   entry_id: 8s4842
   entry_content: |
     <img src=https://i.redditmedia.com/gPfEK7FbupQ_rYMXMNV-UToqHbu_fUbLBSg-3MiLOWs.jpg?s=cafb0220eee8ecae540878fc55c796b7 frameborder=0>
-- entry_name: |
-    Aubrey Plaza eye-fucking Chris Pratt
-  entry_id: 8s8ge5
-  entry_content: |
-    <iframe src=https://v.redd.it/e79hxadbby411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Flamethrower drone clearing debris from power lines
   entry_id: 8s3ele
@@ -112,30 +112,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vh39d8YAnEovL_kZwlrMuzJtksk4wi8u7YtkP-cXhHU.jpg?s=a38f77eb390027566c8134ab2b96b27c frameborder=0>
 - entry_name: |
-    This epic sale
-  entry_id: 8s1oqd
+    TIL of the bullshit asymmetry principle: The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
+  entry_id: 8s7y24
   entry_content: |
-    <iframe src=https://v.redd.it/tf0co5vpvs411/DASH_4_8_M frameborder=0></iframe>
+    null
 - entry_name: |
     I work as a Watchmaker and every now and then it happens that we let some parts fly off due to squeezing pliers too hard for example. I knew something hit my eye, but couldn't find it afterwards. After ~30 minutes I finally found it.
   entry_id: 8s21su
   entry_content: |
     <img src=https://i.redditmedia.com/J_4QTZduo3qOUTo9L6FKSe-K4i_nX_RCQ908vOBuqOw.jpg?s=059dd9be51c911c170f983d085ddac37 frameborder=0>
 - entry_name: |
+    My pops, who is also a fellow Redditor, back before I was thought of (late 80s I believe)
+  entry_id: 8s3wut
+  entry_content: |
+    <img src=https://i.redditmedia.com/I8dW0zDsBDrILx8G-1xOGuoMLjjx9X3gWIMFy2sOXRE.jpg?s=769794c8a385ed6ba0f99b901c689aab frameborder=0>
+- entry_name: |
     Diver becomes God to crustaceans.
   entry_id: 8s2fch
   entry_content: |
     <iframe src=https://v.redd.it/wx9m8gmqct411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Genji from Overwatch cosplay I made with paper and foam
-  entry_id: 8s8csl
+    Americans own 40 percent of world's firearms: study
+  entry_id: 8s7mgn
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSilkySmallAmericanmarten&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fdetail%2FSilkySmallAmericanmarten&image=https%3A%2F%2Fthumbs.gfycat.com%2FSilkySmallAmericanmarten-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=678 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    My pops, who is also a fellow Redditor, back before I was thought of (late 80s I believe)
-  entry_id: 8s3wut
-  entry_content: |
-    <img src=https://i.redditmedia.com/I8dW0zDsBDrILx8G-1xOGuoMLjjx9X3gWIMFy2sOXRE.jpg?s=769794c8a385ed6ba0f99b901c689aab frameborder=0>
+    <img src=https://i.redditmedia.com/1TvkW1QGoHAcf0w3sF0dGJdxkwbiK8QZVmpTr0sH32E.jpg?s=94d6e1d481f27589d4be461e761af9bd frameborder=0>
 - entry_name: |
     Never give up on your dreams.
   entry_id: 8s2lp1
@@ -147,30 +147,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kCilp4-o3OYYit2pzenr87W7-O0YHwpIFMeGFx8sVko.jpg?s=803ade5c856cb56e0a915e7b20fcba8b frameborder=0>
 - entry_name: |
-    28 Years Ago Today, The Greatest Cliffhanger In Television History Aired
-  entry_id: 8s1xz5
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/w7KFfbjg3Iw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     This rock that looks like a loaf of bread with a bite taken out
   entry_id: 8s548w
   entry_content: |
     <img src=https://i.redditmedia.com/toCOWEQSv1vt__YJ9EVMdKlvL2nlssbtq4BfK_-xUZw.jpg?s=008d6b1fb8464771ecc58c250c3d5a09 frameborder=0>
 - entry_name: |
-    David Spade donates $100,000 to mental health organization following Kate's death
-  entry_id: 8s1p1c
+    28 Years Ago Today, The Greatest Cliffhanger In Television History Aired
+  entry_id: 8s1xz5
   entry_content: |
-    <img src=https://i.redditmedia.com/mnhARQO1GPf65V23fkDOd6gvYYegzo3IU_c13i04vGA.jpg?s=311048e49738629684e2540834be427c frameborder=0>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/w7KFfbjg3Iw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Every time
   entry_id: 8s50dr
   entry_content: |
     <img src=https://i.redditmedia.com/TOjcbzgApTZgSZ08HECiNMpYx3GFayz5k1kPq1Sdacc.jpg?s=466c53ab5acf12fcd48adadf8093df36 frameborder=0>
-- entry_name: |
-    Americans own 40 percent of world's firearms: study
-  entry_id: 8s7mgn
-  entry_content: |
-    <img src=https://i.redditmedia.com/1TvkW1QGoHAcf0w3sF0dGJdxkwbiK8QZVmpTr0sH32E.jpg?s=94d6e1d481f27589d4be461e761af9bd frameborder=0>
 - entry_name: |
     I spent so much money as a dumbass kid it’s not even funny
   entry_id: 8s5twj
@@ -182,40 +172,65 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fj5n1or1uu411/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL of the bullshit asymmetry principle: The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
-  entry_id: 8s7y24
+    This small navy tug boat in Boston
+  entry_id: 8s7zhd
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/jnCaFAFLnSTeZJJEs843HFK_BawI0BPeuJoYIrwbDjI.jpg?s=59f3343a1e9cfe84d6e414bb092e2431 frameborder=0>
+- entry_name: |
+    Another Way Out
+  entry_id: 8s8f8c
+  entry_content: |
+    <img src=https://i.redditmedia.com/5csIrdEeFn15U-JVgVapSrNzNfQYPwRAsrsrKtfQXRs.jpg?s=cc7e6d7d28dc632a97eac31d507e7a4e frameborder=0>
 - entry_name: |
     Are they each representing the condition printed on their shirts?
   entry_id: 8s2xvm
   entry_content: |
     <img src=https://i.redditmedia.com/jKMQEngnyCY8h1a-O8i-DtgJGKJnjmEOQMG6P_vTIjA.jpg?s=386c59c0e84e5ed7cf6c4d9cfae68739 frameborder=0>
 - entry_name: |
-    Happy Mother’s Day
-  entry_id: 8s1tyx
+    The crossroads
+  entry_id: 8s80zk
   entry_content: |
-    <img src=https://i.redditmedia.com/6LcMOzmPJAxyrTBM6PM6XcLZuhrZqCSmFlMR0u32iHA.png?s=61a609777db02d1643adff82f14177c1 frameborder=0>
+    <img src=https://i.redditmedia.com/JAAi6WwhWp1S1tPFM6pifwwIEM7PDOtFCEZCgaanYM8.jpg?s=1cff60ffead8a834e70fff8323a5f51d frameborder=0>
 - entry_name: |
     Perfectly balanced, as all things should be.
   entry_id: 8s5l66
   entry_content: |
     <iframe src=https://v.redd.it/4pf14se3kv411/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Senate rejects Trump’s rescue of Chinese firm ZTE
-  entry_id: 8s4due
+    Happy Mother’s Day
+  entry_id: 8s1tyx
   entry_content: |
-    <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
+    <img src=https://i.redditmedia.com/6LcMOzmPJAxyrTBM6PM6XcLZuhrZqCSmFlMR0u32iHA.png?s=61a609777db02d1643adff82f14177c1 frameborder=0>
 - entry_name: |
     2meirl4meirl
   entry_id: 8s5oet
   entry_content: |
     <img src=https://i.redditmedia.com/YVoQ3B1ZdsqYtjJI96mDwR5GewH7o_UBKzthd1AGl1Y.jpg?s=b7b3175780257d9eee5dfc5c134e5176 frameborder=0>
 - entry_name: |
+    Senate rejects Trump’s rescue of Chinese firm ZTE
+  entry_id: 8s4due
+  entry_content: |
+    <img src=https://i.redditmedia.com/dm-DTFPjLJnY9aBvUggyQ8AFwGxidhvA1eRRi0z_R9U.jpg?s=d62d24e84a97c7044bad309ad389b082 frameborder=0>
+- entry_name: |
+    A video I made using dancing scenes from over 292 movies.
+  entry_id: 8s8oic
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F275826346%3Fapp_id%3D122963&dntp=1&url=https%3A%2F%2Fvimeo.com%2F275826346&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F708200989_1280.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=vimeo width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Smirnoff takes shots at Trump, real billboard, Detroit, Michigan
+  entry_id: 8s8a02
+  entry_content: |
+    <img src=https://i.redditmedia.com/vdF27qbQXBBKZnVOHS5AioT06gj7VQL4MOKTqelhOHw.jpg?s=2489492cb2224ca7fbbbcec203e2beeb frameborder=0>
+- entry_name: |
     Hayden Christensen's reaction to May the Force be with you at a football game: 😉
   entry_id: 8s3mb2
   entry_content: |
     <iframe src=https://v.redd.it/vs39k4zi3u411/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Crying daughter
+  entry_id: 8s6upa
+  entry_content: |
+    <img src=https://i.redditmedia.com/FQN4jWBlyn9lg5IWYUQdkRF57RFpHkwuEqAmp2Jm9pE.jpg?s=2706d15fcd9f66579696977a23fbb30d frameborder=0>
 - entry_name: |
     Kidnapped
   entry_id: 8s3py2
@@ -227,28 +242,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/t92wLaxh79OWBjehtGWR0GZdpHj6Bg8qLErp_ZSIz9o.jpg?s=7239ed98c3c4a2cf20c7b35d01087e2f frameborder=0>
 - entry_name: |
-    The crossroads
-  entry_id: 8s80zk
+    He just wanted some lunch
+  entry_id: 8s75w0
   entry_content: |
-    <img src=https://i.redditmedia.com/JAAi6WwhWp1S1tPFM6pifwwIEM7PDOtFCEZCgaanYM8.jpg?s=1cff60ffead8a834e70fff8323a5f51d frameborder=0>
+    <img src=https://i.redditmedia.com/Y8DTLB9CNT7ykU9LTD5R1L-ROyPUnghks0mttpTzezU.gif?fm=jpg&s=6b126aec58a24707b32f31c0f1bf5678 frameborder=0>
 - entry_name: |
-    When you’re so damn lazy that even an app can detect it.
-  entry_id: 8s25aq
+    Elizabeth Warren Says Let's Be Clear: Trump Is Holding Thousands of Kids Hostage to Try and Get Congress to Pay for His Stupid Wall
+  entry_id: 8s8p6j
   entry_content: |
-    <img src=https://i.redditmedia.com/uZ_CMEbKOJOON8a6ZjOR2ekUE4DXWHflRrCsJZgz0dM.jpg?s=7e41859e558ebd23840238810f3b242e frameborder=0>
-- entry_name: |
-    Crying daughter
-  entry_id: 8s6upa
-  entry_content: |
-    <img src=https://i.redditmedia.com/FQN4jWBlyn9lg5IWYUQdkRF57RFpHkwuEqAmp2Jm9pE.jpg?s=2706d15fcd9f66579696977a23fbb30d frameborder=0>
-- entry_name: |
-    Man Of The Year
-  entry_id: 8s333h
-  entry_content: |
-    <img src=https://i.redditmedia.com/B7i7NjhDsxY6usspna7LUwq9jLqRIB8csFmS2ECE_A8.png?s=754f491438b6b8a2dfae6a9ea92dfecd frameborder=0>
-- entry_name: |
-    This small navy tug boat in Boston
-  entry_id: 8s7zhd
-  entry_content: |
-    <img src=https://i.redditmedia.com/jnCaFAFLnSTeZJJEs843HFK_BawI0BPeuJoYIrwbDjI.jpg?s=59f3343a1e9cfe84d6e414bb092e2431 frameborder=0>
+    <img src=https://i.redditmedia.com/CoJI6xns4ePkjnD7EbraqYeBOiWsXdchAnzr2pf6xgc.jpg?s=a33a3671e82ec7369de08eeba700fd53 frameborder=0>
 ---
