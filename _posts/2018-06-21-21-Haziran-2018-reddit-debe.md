@@ -186,11 +186,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Q_QKtw921nWzVtvtxq1JrBiZVrUqZLQrrC9Pf5ayGHI.jpg?s=a89c7532cc1a74e67ef3cbada8f893b0 frameborder=0>
 - entry_name: |
-    That look of jealousy.
-  entry_id: 8saufa
-  entry_content: |
-    <iframe src=https://v.redd.it/cfgxq74svz411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I miss Pangea too
   entry_id: 8sepct
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8sb138
   entry_content: |
     <iframe src=https://v.redd.it/9859jbwdyz411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    His reaction when I told him he was gonna be an uncle!
+  entry_id: 8sdgae
+  entry_content: |
+    <iframe src=https://v.redd.it/tp1xnabri1511/DASH_2_4_M frameborder=0></iframe>
 ---
