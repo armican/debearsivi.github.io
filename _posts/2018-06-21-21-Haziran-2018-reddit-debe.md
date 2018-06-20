@@ -103,10 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VzWhm2gDlVG1C4vLnITU6uGT3FySO-y7csSWq6UeK5Q.jpg?s=d510d84d25819f273005a5b266a07531 frameborder=0>
 - entry_name: |
-  entry_id: 8sbz3t
-  entry_content: |
-    <img src=https://i.redditmedia.com/sal_T00zBu6atbn6eiZHULk6qRaAts3WTCk-eaW5JZg.jpg?s=9f68cfa7ba6de3afa6ea906035091808 frameborder=0>
-- entry_name: |
     That’s my cold air - don’t get it twisted
   entry_id: 8shuaw
   entry_content: |
@@ -121,11 +117,6 @@ data:
   entry_id: 8si2i9
   entry_content: |
     <img src=https://i.redditmedia.com/fKAk4qF9juG_qDB09PnmEAKaRAvjEDZ9Hk89-UVdK8k.jpg?s=b1308ed85b2c3b7176271db4dcd464dd frameborder=0>
-- entry_name: |
-    This is all I wanted from E3...
-  entry_id: 8sbxy9
-  entry_content: |
-    <img src=https://i.redditmedia.com/KyvXRhgffxTnZV4rJ4zaSmCm1wPP7WAqPY33TZSBP3c.jpg?s=e0e253efa32c9bd966b2164cb5863f38 frameborder=0>
 - entry_name: |
     To be genderless
   entry_id: 8sf43u
@@ -151,11 +142,6 @@ data:
   entry_id: 8seqx2
   entry_content: |
     <img src=https://i.redditmedia.com/dHKZwEA1BIl5PyAjHCY63wrFNvN6uOIZ8uIpvAGzxOk.png?s=11ec554213a0d960878ef913c38b70f0 frameborder=0>
-- entry_name: |
-    Trump lies so blatantly that Germany's public international broadcaster calls him out
-  entry_id: 8sbxj1
-  entry_content: |
-    <img src=https://i.redditmedia.com/aKApQFkUVeVnSC3LKJG2YSBn_ml9TloFYZNFC7yZngM.png?s=436c8c2d4630a32fc84b328d40a5a9dd frameborder=0>
 - entry_name: |
     Canadians Who’ve Used Pot Can Be Forever Barred From Entering the United States - And that’s a problem, since Canada is about to make marijuana legal.
   entry_id: 8sh9p8
@@ -251,4 +237,18 @@ data:
   entry_id: 8sdx7r
   entry_content: |
     <img src=https://i.redditmedia.com/pHbmWhgpaeP0Ua73ekVJebb-cgk9UFu6uCk14qw6MOk.jpg?s=644be2c090369b285807eb540a6f794e frameborder=0>
+- entry_name: |
+    My mom surprised me and had a shirt made for me using artwork I had done.
+  entry_id: 8sd6kn
+  entry_content: |
+    <img src=https://i.redditmedia.com/k4PH7S2TL7hRaj0lBndN4vglu2QXy_5ldxifspAWAl4.jpg?s=b365281b848fba3128a12103162d080a frameborder=0>
+- entry_name: |
+  entry_id: 8sh9im
+  entry_content: |
+    <img src=https://i.redditmedia.com/xBiqOJRdvySWoBAlZnd5zgRdY4oYytympKTniJUsg4Q.jpg?s=b3c4db8ca3a355cd9e78ab0971b57d15 frameborder=0>
+- entry_name: |
+    Things change after dark
+  entry_id: 8sdnb6
+  entry_content: |
+    <img src=https://i.redditmedia.com/n4A5ifvW_Acvhwq4RmXFYK7vfnMdG1uWQCg0dqYvlXE.jpg?s=aff1fe2786f7e14d92e426a2f3054bd9 frameborder=0>
 ---
