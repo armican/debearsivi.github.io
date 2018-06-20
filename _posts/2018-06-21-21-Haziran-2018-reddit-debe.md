@@ -63,11 +63,6 @@ data:
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/Yd5n--lfdqg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Wikipedia Added US Border 'Detention Centers' to Its List of Concentration Camps
-  entry_id: 8sbaib
-  entry_content: |
-    null
-- entry_name: |
     High Five!
   entry_id: 8sdf3s
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8sh9p8
   entry_content: |
     <img src=https://i.redditmedia.com/g-j1Hv6HFoufFxvQs0ij7nnHYm1aXRN0xLvfYQobmWw.jpg?s=52282f17e84fdc964ab9d009d7ca092c frameborder=0>
+- entry_name: |
+    His reaction when I told him he was gonna be an uncle!
+  entry_id: 8sdgae
+  entry_content: |
+    <iframe src=https://v.redd.it/tp1xnabri1511/DASH_2_4_M frameborder=0></iframe>
 ---
