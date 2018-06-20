@@ -218,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/h83GvD21fW3Oybt7dtOg5dt4JdDMYAHF9AHv6NrnAQs.jpg?s=011ea7c193e734ac89a6c20b86c53f66 frameborder=0>
 - entry_name: |
-    For all the tacos
-  entry_id: 8scam2
-  entry_content: |
-    <img src=https://i.redditmedia.com/sKZsXnuVyg_pK90kWhelRGBkpuAfwVcOlbA-bewGQHY.jpg?s=97413448d15c2ed4e1093323ace0066f frameborder=0>
-- entry_name: |
     TIL: During his sons kidnapping, Frank Sinatra Sr spoke with the kidnappers via payphone often. Worried that he wouldn't have enough change for the call he started to carry 10 dimes wherever he went. He continued to do this for the rest of his life, and was even buried with 10 dimes in his pocket.
   entry_id: 8sh8np
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8sdx7r
   entry_content: |
     <img src=https://i.redditmedia.com/pHbmWhgpaeP0Ua73ekVJebb-cgk9UFu6uCk14qw6MOk.jpg?s=644be2c090369b285807eb540a6f794e frameborder=0>
+- entry_name: |
+    Things change after dark
+  entry_id: 8sdnb6
+  entry_content: |
+    <img src=https://i.redditmedia.com/n4A5ifvW_Acvhwq4RmXFYK7vfnMdG1uWQCg0dqYvlXE.jpg?s=aff1fe2786f7e14d92e426a2f3054bd9 frameborder=0>
 ---
