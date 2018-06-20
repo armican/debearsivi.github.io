@@ -1,0 +1,253 @@
+---
+layout: post
+title: 21 Haziran 2018 Reddit Debe
+data:
+- entry_name: |
+    Japanese fans pick up trash after World Cup match
+  entry_id: 8sdgg5
+  entry_content: |
+    <iframe src=https://v.redd.it/4aej19fzi1511/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Woman who lied about being raped on college campus gets jail
+  entry_id: 8sb1x4
+  entry_content: |
+    <img src=https://i.redditmedia.com/mkDzez9Si2IbOdUxSEEsoSkqczcquQgQLRB20OFh5ag.jpg?s=4b738763cf8be22450fd3fa5bfe29f04 frameborder=0>
+- entry_name: |
+    Camouflage Butterfly
+  entry_id: 8sb1b0
+  entry_content: |
+    <iframe src=https://v.redd.it/un5gbydqzz411/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    The U.S. has officially quit the UN Human Rights Council.
+  entry_id: 8sckc6
+  entry_content: |
+    <img src=https://i.redditmedia.com/MLmo71oab-5WmkI7RcW56L7pxgw2AlX4_XKpvyB5Oyk.jpg?s=020c2b95d9609e761d5e3d9c81c7b7a4 frameborder=0>
+- entry_name: |
+    One of the most meme'd on Disney characters totally underrated.
+  entry_id: 8sck4b
+  entry_content: |
+    <img src=https://i.redditmedia.com/Jjm-w4ABtPaJBGN0wfZmN6M7KdJMpbmmDr-u_rIWrsY.jpg?s=bf4b8244f9e1e3a134faceba416d3864 frameborder=0>
+- entry_name: |
+    Canada is expected to become the first G7 nation to fully legalize marijuana this week, fulfilling a 2015 campaing promise of PM Justin Trudeau
+  entry_id: 8sajh4
+  entry_content: |
+    <img src=https://i.redditmedia.com/dSBlZqifl6squIZtvnP2PdYXKQK4tMDFbILPnIwqdu8.jpg?s=56535217d70de3e9d352610ef6919ac5 frameborder=0>
+- entry_name: |
+    this mf is asking the real questions
+  entry_id: 8se4l4
+  entry_content: |
+    <img src=https://i.redditmedia.com/Vcc87XImiAFQTNtCK_XKzDOqDMeC2St5MlwxoOFpAIg.jpg?s=441f197eca78abf1fc5198712725c70f frameborder=0>
+- entry_name: |
+    TIL that a rancher in Oregon named Bill Brown would often write checks on any paper available. This often included soup can labels and newspaper margins. As he was rich and known for this, the banks would cash the checks without question.
+  entry_id: 8samvx
+  entry_content: |
+    <img src=https://i.redditmedia.com/g5nO683Qbw4XZQ-8Dz5Ei2jHG-_xZLDsylnEayU08Rw.jpg?s=faa33335f18d9e89a0fcfe4bbe1983b1 frameborder=0>
+- entry_name: |
+    My girlfriend's dog turned 6 the other day
+  entry_id: 8seolf
+  entry_content: |
+    <img src=https://i.redditmedia.com/IzW8YR9TsJz2yWASk5QvrR-MZBJVAeEmjYPCPhjljQ8.jpg?s=97aa885b926d10845a092c81cd70dc03 frameborder=0>
+- entry_name: |
+    Brazilian soccer fans flying to Russia for the WK.
+  entry_id: 8sbk8v
+  entry_content: |
+    <iframe src=https://v.redd.it/f3k59ajxa0511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    ICE Director: ICE Can't Be Compared To Nazis Since We're Just Following Orders
+  entry_id: 8sg0sj
+  entry_content: |
+    <img src=https://i.redditmedia.com/x3skexnPOvmgiZ33rjtI0nH8WS7mvRktjcYpw7QmYWk.jpg?s=9ad6c1a3863bc7a13f8d0ad128a8c421 frameborder=0>
+- entry_name: |
+    My dads dog Rio is 14 y/o and recently went blind. He pats his leg when he walks and she follows him everywhere he goes. Mom got him the perfect shirt.
+  entry_id: 8sbkqd
+  entry_content: |
+    <img src=https://i.redditmedia.com/enB4bcs_CMVildfXw2kV4JuHOYFso9lbxVT4jhxswnk.jpg?s=977efbdc1b8cbb4906e645b734a334e7 frameborder=0>
+- entry_name: |
+    I'm a puppy, just carry me
+  entry_id: 8sdn07
+  entry_content: |
+    <iframe src=https://v.redd.it/dpdwrowsn1511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Japanese fans clean up stadium after their win vs Colombia
+  entry_id: 8sck9f
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/Yd5n--lfdqg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    This!
+  entry_id: 8saoyx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Q4AGlJ_mmrj1kFInp3hRospt3HWX3aJr05v-KhxnrvU.jpg?s=5699f89c84ba57b002ea33dc03d3057e frameborder=0>
+- entry_name: |
+    Wikipedia Added US Border 'Detention Centers' to Its List of Concentration Camps
+  entry_id: 8sbaib
+  entry_content: |
+    null
+- entry_name: |
+    High Five!
+  entry_id: 8sdf3s
+  entry_content: |
+    <iframe src=https://v.redd.it/mqxaq2oyt5511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    My girlfriend cleaning her monopoly collection
+  entry_id: 8shb5j
+  entry_content: |
+    <img src=https://i.redditmedia.com/oK_adwB8pgdHbzXK13Em9BoB-ZTaE3ys3xOHsIrrtdg.jpg?s=029a62651216d597d580e8886d427571 frameborder=0>
+- entry_name: |
+    A friend of mine works for animal control and has made friends with a baby skunk
+  entry_id: 8seuq4
+  entry_content: |
+    <iframe src=https://v.redd.it/3z2ln7omj2511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    He got it just right.
+  entry_id: 8shgcp
+  entry_content: |
+    <img src=https://i.redditmedia.com/l9cp9kZCCZa2X6tlazqFOPYGq6lr2zXNrkQCozlmC-I.jpg?s=0338ceefbccbdbe04a6f4bd359248a99 frameborder=0>
+- entry_name: |
+    Living in California, it's probably seen as a hate crime.
+  entry_id: 8sd60m
+  entry_content: |
+    <img src=https://i.redditmedia.com/8_k0-xf7h_VH1UiT9XIqIpvPxz7cx8aSWUEv97KcWZA.jpg?s=49353be85a05cae3bafd9159cb03d75c frameborder=0>
+- entry_name: |
+    Senegalese fans pick up trash after football match
+  entry_id: 8sgeec
+  entry_content: |
+    <iframe src=https://v.redd.it/poooj746z3511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Transformation Tuesday! Down 110lbs this year! BMI is normal, first time since 1982!
+  entry_id: 8sdw4v
+  entry_content: |
+    <img src=https://i.redditmedia.com/hm6jArvnlani2FHnsmvuiCnXOAytGM1HtaP2zOgSXSQ.jpg?s=cc2d3461ee101ffe932d3332a6b94494 frameborder=0>
+- entry_name: |
+    Toblerone.
+  entry_id: 8scrlb
+  entry_content: |
+    <img src=https://i.redditmedia.com/VzWhm2gDlVG1C4vLnITU6uGT3FySO-y7csSWq6UeK5Q.jpg?s=d510d84d25819f273005a5b266a07531 frameborder=0>
+- entry_name: |
+  entry_id: 8sbz3t
+  entry_content: |
+    <img src=https://i.redditmedia.com/sal_T00zBu6atbn6eiZHULk6qRaAts3WTCk-eaW5JZg.jpg?s=9f68cfa7ba6de3afa6ea906035091808 frameborder=0>
+- entry_name: |
+    A surreal oil painting I finished earlier this year titled Retrospection, wanted to share it on here.
+  entry_id: 8salvj
+  entry_content: |
+    <img src=https://i.redditmedia.com/8t11LvvozdX1O1yuLufcH8s5jXEUYX6MlgXLqSvH8mE.jpg?s=b1acf4ef00ec486ded5d88fd94d1265c frameborder=0>
+- entry_name: |
+    Cooking Level: Expert
+  entry_id: 8sbsho
+  entry_content: |
+    <iframe src=https://v.redd.it/f7v60180g0511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    This is all I wanted from E3...
+  entry_id: 8sbxy9
+  entry_content: |
+    <img src=https://i.redditmedia.com/KyvXRhgffxTnZV4rJ4zaSmCm1wPP7WAqPY33TZSBP3c.jpg?s=e0e253efa32c9bd966b2164cb5863f38 frameborder=0>
+- entry_name: |
+    Dreamy night in Singapore.
+  entry_id: 8sehp9
+  entry_content: |
+    <img src=https://i.redditmedia.com/Jr_XI9yHm-ClNizEOPcuGR5dvUceVtxXo1LR1lGzP4Y.jpg?s=1ba864aa0ca0b01c7aeaac4f648d0d2f frameborder=0>
+- entry_name: |
+    This Reinhardt cosplay
+  entry_id: 8sg4b8
+  entry_content: |
+    <iframe src=https://v.redd.it/sy1ge9a8p3511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8saxyk
+  entry_content: |
+    <img src=https://i.redditmedia.com/0GXCkfNpvPxbXCSOXG4L_3dT_fdvnUPSkNadVxBKgCo.png?s=03af8d4ef0f022815d73befedf561a45 frameborder=0>
+- entry_name: |
+    Jesus Christ..
+  entry_id: 8sc4uo
+  entry_content: |
+    <img src=https://i.redditmedia.com/Oo9I9jshXsy5mruNSyOo634Tk3VGx7Kl1J9YwnLJ80I.jpg?s=7af62ce241695b3e3f9e6f48e7b3bf5e frameborder=0>
+- entry_name: |
+    To be genderless
+  entry_id: 8sf43u
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ewl_QIgg_9iGYo11P-MmMX7-ms9wM2GARWkaWVDrDEI.jpg?s=da583b579f93ce74296f82207282b023 frameborder=0>
+- entry_name: |
+    Trump lies so blatantly that Germany's public international broadcaster calls him out
+  entry_id: 8sbxj1
+  entry_content: |
+    <img src=https://i.redditmedia.com/aKApQFkUVeVnSC3LKJG2YSBn_ml9TloFYZNFC7yZngM.png?s=436c8c2d4630a32fc84b328d40a5a9dd frameborder=0>
+- entry_name: |
+    Digitally coloring in a flower circle
+  entry_id: 8sdpc1
+  entry_content: |
+    <iframe src=https://v.redd.it/wili59t7p1511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Do the children lay on the road?
+  entry_id: 8seqx2
+  entry_content: |
+    <img src=https://i.redditmedia.com/dHKZwEA1BIl5PyAjHCY63wrFNvN6uOIZ8uIpvAGzxOk.png?s=11ec554213a0d960878ef913c38b70f0 frameborder=0>
+- entry_name: |
+    These footprints on my stairs made from years of my miniature dachshund going up them.
+  entry_id: 8sdjrd
+  entry_content: |
+    <img src=https://i.redditmedia.com/Q_QKtw921nWzVtvtxq1JrBiZVrUqZLQrrC9Pf5ayGHI.jpg?s=a89c7532cc1a74e67ef3cbada8f893b0 frameborder=0>
+- entry_name: |
+    That look of jealousy.
+  entry_id: 8saufa
+  entry_content: |
+    <iframe src=https://v.redd.it/cfgxq74svz411/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    🔥 🔥 Sharing water with a Western Hognose snake 🔥 🔥
+  entry_id: 8seeqc
+  entry_content: |
+    <iframe src=https://v.redd.it/npweflwhx1511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Absolute roaster
+  entry_id: 8sc5wo
+  entry_content: |
+    <img src=https://i.redditmedia.com/n9OH04Ilm3PlM3sxC_AIj1jnuKW7CHs_aqTl_Kr77Po.jpg?s=b2bcd121747fd00b5d5fc5c2eeca7435 frameborder=0>
+- entry_name: |
+    Leonardo DiCaprio and his parents, 1976.
+  entry_id: 8sczi3
+  entry_content: |
+    <img src=https://i.redditmedia.com/WKDvKdg9MxozUzoQxHSW_kX5xuS6PLcw5d_YJEE9FqQ.jpg?s=d08da7212c6217167ab9e4d730d3f18f frameborder=0>
+- entry_name: |
+    I miss Pangea too
+  entry_id: 8sepct
+  entry_content: |
+    <img src=https://i.redditmedia.com/r2GlfttPiGsZAnwTwkd0s5YVGuBjIPhjYL6l-KokLjQ.png?s=4a40bcfc27de96f268a3e75e45275c7f frameborder=0>
+- entry_name: |
+    Smart phones are probably responsible for reducing graffiti in public toilets
+  entry_id: 8sgtop
+  entry_content: |
+    null
+- entry_name: |
+    Am I not turtley enough for the turtle club?
+  entry_id: 8scemi
+  entry_content: |
+    <iframe src=https://v.redd.it/twxckdf3u0511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Futuristic Dice
+  entry_id: 8se6b5
+  entry_content: |
+    <img src=https://i.redditmedia.com/egKUhQkrV1baQb_1sHgS3L_N7DH7M7oJrvF6fR47_uk.jpg?s=b873cdd206461f9d2bd1e1ead9ef3c1e frameborder=0>
+- entry_name: |
+    Came to work today and saw this note on the bathroom door
+  entry_id: 8sbqj4
+  entry_content: |
+    <img src=https://i.redditmedia.com/WGl1kvYP48MN3fbSSBpLPWWt5rM3sKQFQyKXZ4R2mwA.jpg?s=1c2b4375a82a17025e78dfdccf429bf4 frameborder=0>
+- entry_name: |
+    TIL the Bajau peoples of South East Asia are the first known humans that are genetically adapted to dive. Their bodies are genetically modified for diving, so much so that they can dive at around 200 ft deep for as long as 13 minutes.
+  entry_id: 8sgob9
+  entry_content: |
+    <img src=https://i.redditmedia.com/BghlNaWMpsXAoQ6mQUqqsqPN-LMlb14sNqd2aI_1-aQ.jpg?s=3fcb24a37b7a8cccadc4efcfbe94283a frameborder=0>
+- entry_name: |
+    Ex-Nasa scientist: 30 years on, world is failing 'miserably’ to address climate change
+  entry_id: 8sgz5y
+  entry_content: |
+    <img src=https://i.redditmedia.com/CREqrNk_sHlGCsECPoo_hD4sFQ0rgd2Ip8PTvPMczGU.jpg?s=2c3d568aa0183daa03888d2150a73299 frameborder=0>
+- entry_name: |
+    Sextuplets
+  entry_id: 8se1re
+  entry_content: |
+    <iframe src=https://v.redd.it/e38q3tjry1511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    For all the tacos
+  entry_id: 8scam2
+  entry_content: |
+    <img src=https://i.redditmedia.com/sKZsXnuVyg_pK90kWhelRGBkpuAfwVcOlbA-bewGQHY.jpg?s=97413448d15c2ed4e1093323ace0066f frameborder=0>
+---
