@@ -117,11 +117,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Jr_XI9yHm-ClNizEOPcuGR5dvUceVtxXo1LR1lGzP4Y.jpg?s=1ba864aa0ca0b01c7aeaac4f648d0d2f frameborder=0>
 - entry_name: |
-    Cooking Level: Expert
-  entry_id: 8sbsho
-  entry_content: |
-    <iframe src=https://v.redd.it/f7v60180g0511/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Instead of ‘finding your passion,’ try developing it, Stanford scholars say. The belief that interests arrive fully formed and must simply be “found” can lead people to limit their pursuit of new fields and give up when they encounter challenges, according to a new Stanford study.
   entry_id: 8si2i9
   entry_content: |
@@ -232,11 +227,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/e38q3tjry1511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Came to work today and saw this note on the bathroom door
-  entry_id: 8sbqj4
-  entry_content: |
-    <img src=https://i.redditmedia.com/WGl1kvYP48MN3fbSSBpLPWWt5rM3sKQFQyKXZ4R2mwA.jpg?s=1c2b4375a82a17025e78dfdccf429bf4 frameborder=0>
-- entry_name: |
     For all the tacos
   entry_id: 8scam2
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8shit6
   entry_content: |
     <img src=https://i.redditmedia.com/WiLLRm2EbIAdjPXim_QnRoxQ-Du_R84McClEMKQh3ZA.jpg?s=87a0f5f730934072347ba306d7c2c2f9 frameborder=0>
+- entry_name: |
+    No homo
+  entry_id: 8sduno
+  entry_content: |
+    <img src=https://i.redditmedia.com/tk6hKKUZJDDPblxDmlYnjQEHRS1qFalMQcTx6CUgYEM.jpg?s=c946df9dcc07262e0fc9a7a5172afc66 frameborder=0>
+- entry_name: |
+    Lewandowski on Girl With Down Syndrome Separated From Mother: ‘Womp Womp’
+  entry_id: 8sdx7r
+  entry_content: |
+    <img src=https://i.redditmedia.com/pHbmWhgpaeP0Ua73ekVJebb-cgk9UFu6uCk14qw6MOk.jpg?s=644be2c090369b285807eb540a6f794e frameborder=0>
 ---
