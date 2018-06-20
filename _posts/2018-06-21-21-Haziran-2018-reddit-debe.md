@@ -147,10 +147,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ewl_QIgg_9iGYo11P-MmMX7-ms9wM2GARWkaWVDrDEI.jpg?s=da583b579f93ce74296f82207282b023 frameborder=0>
 - entry_name: |
-  entry_id: 8saxyk
-  entry_content: |
-    <img src=https://i.redditmedia.com/0GXCkfNpvPxbXCSOXG4L_3dT_fdvnUPSkNadVxBKgCo.png?s=03af8d4ef0f022815d73befedf561a45 frameborder=0>
-- entry_name: |
     Jesus Christ..
   entry_id: 8sc4uo
   entry_content: |
@@ -241,13 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sKZsXnuVyg_pK90kWhelRGBkpuAfwVcOlbA-bewGQHY.jpg?s=97413448d15c2ed4e1093323ace0066f frameborder=0>
 - entry_name: |
-    Sonic boom
-  entry_id: 8sb138
-  entry_content: |
-    <iframe src=https://v.redd.it/9859jbwdyz411/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     His reaction when I told him he was gonna be an uncle!
   entry_id: 8sdgae
   entry_content: |
     <iframe src=https://v.redd.it/tp1xnabri1511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Carnival guy dedicated to the dart booth for little kids
+  entry_id: 8sbnh1
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDigitalSandyGoldfinch&url=https%3A%2F%2Fgfycat.com%2FDigitalSandyGoldfinch&image=https%3A%2F%2Fthumbs.gfycat.com%2FDigitalSandyGoldfinch-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    That’s my cold air - don’t get it twisted
+  entry_id: 8shuaw
+  entry_content: |
+    <img src=https://i.redditmedia.com/quHdjNUOkWguvKPECySWcEP3GdITLUrjci4Lnpbt6S8.jpg?s=0e1520ca047efe2beeb649e69e2aff13 frameborder=0>
 ---
