@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6ksPXD4y8cpzL5w88OesX_ntcjmU6Erx04pA5SqOgwQ.jpg?s=90efc3361e25e8e7117bbd424f977013 frameborder=0>
 - entry_name: |
-    Dad rushes on the track to free his son from burning racecar
-  entry_id: 8sl8lp
-  entry_content: |
-    <iframe src=https://v.redd.it/067evo1dk7511/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Train in Kyoto, Japan.
   entry_id: 8sr7wk
   entry_content: |
@@ -92,11 +87,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4pHsa4N4RLJUW8IAB8Crd1tyjF5eoEakfi-pArkGhgs.jpg?s=364b4f1cb1a09939dce4270885cd1a2e frameborder=0>
 - entry_name: |
-    Migrant children: Trump signs order to 'keep families together'
-  entry_id: 8sl6v8
-  entry_content: |
-    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
-- entry_name: |
     My mom won her battle with cancer back in May and loves to greet me by showing me how much her hair has grown since last I saw her. Today, she was SO excited to show me the World's Tiniest Fauxhawk.
   entry_id: 8sm1xk
   entry_content: |
@@ -147,10 +137,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mKWM337MTTlJl7ucmn6_u-xuLvkyaZg_nhxeLNQORXw.jpg?s=9ec9bf3eb03400aec8effe69cd65eadb frameborder=0>
 - entry_name: |
-  entry_id: 8sl9kv
-  entry_content: |
-    <img src=https://i.redditmedia.com/5O_ruXXmjoPBJbVIUOtYS77mk7uBkpZVXsR6ikYiGKI.jpg?s=6e83dbefe9f22586fe39eac216c57f85 frameborder=0>
-- entry_name: |
     Wall-E forever
   entry_id: 8sq2ct
   entry_content: |
@@ -170,11 +156,6 @@ data:
   entry_id: 8smnbk
   entry_content: |
     <iframe src=https://v.redd.it/ba1r4ax1g8511/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    To be romantic.
-  entry_id: 8sl7lg
-  entry_content: |
-    <img src=https://i.redditmedia.com/E9PVx1JoOQd5gXvgRRQmED-DDV9ggB-H0smU2mv7M-A.jpg?s=c7082febe2784d48dafc9d2c15507691 frameborder=0>
 - entry_name: |
     Trying to deal with a bully
   entry_id: 8snq54
@@ -249,4 +230,22 @@ data:
   entry_id: 8smwb6
   entry_content: |
     <img src=https://i.redditmedia.com/9J00zQSI8dgZQ3C8RP8h7Od59WgISzv1NYeThB9AmxE.jpg?s=eda42f64afa1fd34e30ac038d4d12c12 frameborder=0>
+- entry_name: |
+    And you don't even know it
+  entry_id: 8srb32
+  entry_content: |
+    <img src=https://i.redditmedia.com/UIPMeSuXL6MlI2TQr4lgq6QnTdQbbkJ6FWVkBSMOa8E.jpg?s=2b5df2fdb0ce262d9fa4274afc1970ab frameborder=0>
+- entry_name: |
+  entry_id: 8smhjp
+  entry_content: |
+    <img src=https://i.redditmedia.com/G0gRld2R2Em0GRyjONK2Uu5p7EBtWC2KAAcP6-ppARw.jpg?s=a1c32b984e71bfe773811a4de16fc052 frameborder=0>
+- entry_name: |
+  entry_id: 8srvr5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fujb0t-_sJ_vJOq0D3wxSdxCqhgaWd81-yN3dymZwSY.jpg?s=39a56f310b34a0f30dd8d25125d45367 frameborder=0>
+- entry_name: |
+    We're 5 actors from cult film, THE ROOM, ask us anything!
+  entry_id: 8snffi
+  entry_content: |
+    <img src=https://i.redditmedia.com/moU_OoJ1rv6Cg3ZlhgfRCZvviKCor-7WyNVE7uem1jA.jpg?s=7ed708ed8d4f996a26b31177d48e26b8 frameborder=0>
 ---
