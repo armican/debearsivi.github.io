@@ -62,11 +62,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jyzeoiqm2c511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    He wasn't even looking!
-  entry_id: 8sljy6
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConcreteGloomyFowl&url=https%3A%2F%2Fgfycat.com%2FConcreteGloomyFowl&image=https%3A%2F%2Fthumbs.gfycat.com%2FConcreteGloomyFowl-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=460 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     We have supported this game since early access. PUBG has made over $730 million dollars. Yet, it's still not optimized, cheaters are rampant, crates are locked behind keys. Even after charging $30 for the game, they now introduce this $9.99 Event Pass.
   entry_id: 8sp9e4
   entry_content: |
@@ -92,6 +87,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BS546_lE2Oi_Gd0nro4bcuuu0Av-k4TqFiq_Rp4D_Z4.jpg?s=abac440026160d8212300d95315faf5f frameborder=0>
 - entry_name: |
+    South Africa: Constitutional Court rules that political parties must disclose their private donors.
+  entry_id: 8sqq8n
+  entry_content: |
+    <img src=https://i.redditmedia.com/LEG7z2dpwRqFtrZYvu-aljxQPBTHUp4Q9MkjzPPAbNY.jpg?s=53d678f44921f8f6cf7bd85b68fee2b6 frameborder=0>
+- entry_name: |
     Important truth
   entry_id: 8smmul
   entry_content: |
@@ -107,40 +107,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lza9wswaq8511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    South Africa: Constitutional Court rules that political parties must disclose their private donors.
-  entry_id: 8sqq8n
+    In San Francisco: Someone dressed up this street sign to look like Waldo
+  entry_id: 8sqxnn
   entry_content: |
-    <img src=https://i.redditmedia.com/LEG7z2dpwRqFtrZYvu-aljxQPBTHUp4Q9MkjzPPAbNY.jpg?s=53d678f44921f8f6cf7bd85b68fee2b6 frameborder=0>
-- entry_name: |
-    Mimosa Leaves Closing
-  entry_id: 8sliir
-  entry_content: |
-    <iframe src=https://v.redd.it/kettadi6q7511/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    What would you do?
-  entry_id: 8snjpn
-  entry_content: |
-    <img src=https://i.redditmedia.com/mKWM337MTTlJl7ucmn6_u-xuLvkyaZg_nhxeLNQORXw.jpg?s=9ec9bf3eb03400aec8effe69cd65eadb frameborder=0>
+    <img src=https://i.redditmedia.com/NdjEum4kiK6P8zA8t8SN_b_NzTNNHHJl79Dewh071Pg.jpg?s=01f26ed7214fe0df333ee1c5b59e7647 frameborder=0>
 - entry_name: |
     Wall-E forever
   entry_id: 8sq2ct
   entry_content: |
     <img src=https://i.redditmedia.com/uitg29KRpSYesyTD4MnqTWlWKPCMVN-XK0BWR0Oj1Cs.jpg?s=f6d29ec41123a6b58050bae6b6fdeb99 frameborder=0>
 - entry_name: |
-    In San Francisco: Someone dressed up this street sign to look like Waldo
-  entry_id: 8sqxnn
+    What would you do?
+  entry_id: 8snjpn
   entry_content: |
-    <img src=https://i.redditmedia.com/NdjEum4kiK6P8zA8t8SN_b_NzTNNHHJl79Dewh071Pg.jpg?s=01f26ed7214fe0df333ee1c5b59e7647 frameborder=0>
+    <img src=https://i.redditmedia.com/mKWM337MTTlJl7ucmn6_u-xuLvkyaZg_nhxeLNQORXw.jpg?s=9ec9bf3eb03400aec8effe69cd65eadb frameborder=0>
 - entry_name: |
     lets boycott solo guys
   entry_id: 8sqdas
   entry_content: |
     <img src=https://i.redditmedia.com/Nx_TCKi0hMz-sN7AQ1HG9lhR5vaJO-vLs4k2yBolDzM.jpg?s=7efa4f654ab06945298c5d885909fa7e frameborder=0>
 - entry_name: |
+    After bad storms, this retired old man goes around our neighborhood and cleans the debris out of yards and catch basins. When I asked him why he said “because I am retired and have the time to help”. 10/10 great dude
+  entry_id: 8sruf3
+  entry_content: |
+    <img src=https://i.redditmedia.com/RSZGagP9-LHU24nW3yT0oz0lc62zWfzVzpOlPmYovyY.jpg?s=77a68583395be84242409dd18a4e1fbf frameborder=0>
+- entry_name: |
     Pickpocketing in Fallout 76
   entry_id: 8smnbk
   entry_content: |
     <iframe src=https://v.redd.it/ba1r4ax1g8511/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    “Billions” (maybe like a hundred)
+  entry_id: 8sriqm
+  entry_content: |
+    <img src=https://i.redditmedia.com/df1k3ds-5skyAFAkHbUx6qmw6Zmb72YGLeT17k1nKBQ.jpg?s=6f8dda9b85153c1c0d2e7087589de695 frameborder=0>
 - entry_name: |
     Trying to deal with a bully
   entry_id: 8snq54
@@ -152,25 +152,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/v8JNA_L7gQuEzqakp8p3OrMOaoCMDCA1HU3lgvYlUys.png?s=5baeff2fc0327b9f7a415f68603ea833 frameborder=0>
 - entry_name: |
-    “Billions” (maybe like a hundred)
-  entry_id: 8sriqm
+    TIL there is no antivenom for a blue-ringed octopus bite. However, if you can get a ventilator to breathe for you for 15 hours, you survive with no side effects.
+  entry_id: 8ssvbl
   entry_content: |
-    <img src=https://i.redditmedia.com/df1k3ds-5skyAFAkHbUx6qmw6Zmb72YGLeT17k1nKBQ.jpg?s=6f8dda9b85153c1c0d2e7087589de695 frameborder=0>
+    <img src=https://i.redditmedia.com/8-fIbJlKZKJF1mHIffH1nU0IwS3HSPL0x9jkND0jNLU.jpg?s=fc2df1ff2fd135dbbb6c2ebd78bca87a frameborder=0>
 - entry_name: |
-    After bad storms, this retired old man goes around our neighborhood and cleans the debris out of yards and catch basins. When I asked him why he said “because I am retired and have the time to help”. 10/10 great dude
-  entry_id: 8sruf3
+    And you don't even know it
+  entry_id: 8srb32
   entry_content: |
-    <img src=https://i.redditmedia.com/RSZGagP9-LHU24nW3yT0oz0lc62zWfzVzpOlPmYovyY.jpg?s=77a68583395be84242409dd18a4e1fbf frameborder=0>
+    <img src=https://i.redditmedia.com/UIPMeSuXL6MlI2TQr4lgq6QnTdQbbkJ6FWVkBSMOa8E.jpg?s=2b5df2fdb0ce262d9fa4274afc1970ab frameborder=0>
+- entry_name: |
+    #neveragain
+  entry_id: 8sq386
+  entry_content: |
+    <img src=https://i.redditmedia.com/nCXlYZCgXpVaYVQaR3rjN0gFHN-DmNgcPWtqDOFl7Ls.jpg?s=2e754d0beebc416c366cd49500578ba1 frameborder=0>
 - entry_name: |
     Mine is obviously the third pupper
   entry_id: 8sns0l
   entry_content: |
     <img src=https://i.redditmedia.com/R5wu9wKvtkMn3IiO95EsVoYSOw6Ci4KnAVsN5KUn7ug.jpg?s=c2a41c72b2f46130f1d85dafc6eb935b frameborder=0>
 - entry_name: |
-    #neveragain
-  entry_id: 8sq386
+  entry_id: 8srvr5
   entry_content: |
-    <img src=https://i.redditmedia.com/nCXlYZCgXpVaYVQaR3rjN0gFHN-DmNgcPWtqDOFl7Ls.jpg?s=2e754d0beebc416c366cd49500578ba1 frameborder=0>
+    <img src=https://i.redditmedia.com/Fujb0t-_sJ_vJOq0D3wxSdxCqhgaWd81-yN3dymZwSY.jpg?s=39a56f310b34a0f30dd8d25125d45367 frameborder=0>
 - entry_name: |
     🔥 This peacock spider doing his mating ritual dance to not be eaten by a female
   entry_id: 8smub5
@@ -182,70 +186,67 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CsVo_ixEI_YuVUVgjmMzjoNpSfkxRZCRjKKDbvRQAgI.jpg?s=be25905afba64b1f11f1283c7f298157 frameborder=0>
 - entry_name: |
+    Japanese worker punished for starting lunch three minutes early
+  entry_id: 8sqnit
+  entry_content: |
+    <img src=https://i.redditmedia.com/YO4RBgI_M6fIqvTnTR-SVm8SQu94S_LBFvNR-PxIn14.jpg?s=1f742e60f795a26b71d400c8f324147c frameborder=0>
+- entry_name: |
     Another night shift
   entry_id: 8sp7sa
   entry_content: |
     <iframe src=https://v.redd.it/qzvduk1z5a511/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Instead of 'Death to America,' Iran is now just posting photos of migrant children in U.S. cages
-  entry_id: 8smsxq
+    Cat Saved from the Canals
+  entry_id: 8srnfn
   entry_content: |
-    <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
+    <iframe src=https://v.redd.it/fb3r7hd3rc511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Playing survival mode in Fallout 4 is harder than going to college
   entry_id: 8sp39u
   entry_content: |
     <img src=https://i.redditmedia.com/d-GTBZsGnk4-KRS3XWrRPqO2GM6DcKLy4k0w2ugtxPw.jpg?s=d828aa2c19bb344748f04dad570b3f0d frameborder=0>
 - entry_name: |
+    Instead of 'Death to America,' Iran is now just posting photos of migrant children in U.S. cages
+  entry_id: 8smsxq
+  entry_content: |
+    <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
+- entry_name: |
     When the EU says we can't use copyrighted images in memes.
   entry_id: 8smpxp
   entry_content: |
     <img src=https://i.redditmedia.com/xqfQxofh25jRFKp-IzB-yDBMByOXLg-smdUP8uJFrzY.jpg?s=ffb31b48f444fefe9155dbd83a2ee4b3 frameborder=0>
-- entry_name: |
-    Japanese worker punished for starting lunch three minutes early
-  entry_id: 8sqnit
-  entry_content: |
-    <img src=https://i.redditmedia.com/YO4RBgI_M6fIqvTnTR-SVm8SQu94S_LBFvNR-PxIn14.jpg?s=1f742e60f795a26b71d400c8f324147c frameborder=0>
-- entry_name: |
-  entry_id: 8slmd2
-  entry_content: |
-    <img src=https://i.redditmedia.com/M9tRshAZmmgaJrhdtdeB60I67apxRWq-ItMRKg2SUvQ.jpg?s=468a8bebdf353a8d1c0d200df41ad54b frameborder=0>
 - entry_name: |
     Lawsuit: School officials forced 12-year-old who killed herself to hug bullies
   entry_id: 8smwb6
   entry_content: |
     <img src=https://i.redditmedia.com/9J00zQSI8dgZQ3C8RP8h7Od59WgISzv1NYeThB9AmxE.jpg?s=eda42f64afa1fd34e30ac038d4d12c12 frameborder=0>
 - entry_name: |
-    And you don't even know it
-  entry_id: 8srb32
+    I recently got a tablet
+  entry_id: 8sqyvv
   entry_content: |
-    <img src=https://i.redditmedia.com/UIPMeSuXL6MlI2TQr4lgq6QnTdQbbkJ6FWVkBSMOa8E.jpg?s=2b5df2fdb0ce262d9fa4274afc1970ab frameborder=0>
+    <img src=https://i.redditmedia.com/6Ys9B7vqG6T7cIPnYns11tZUVLJow4DUJw4J249lCzs.jpg?s=30832bbc7bc8740f384f078f72c9e19f frameborder=0>
+- entry_name: |
+    MRW The girl I was about to break up with dumps me.
+  entry_id: 8sqi1k
+  entry_content: |
+    <img src=https://i.redditmedia.com/mieemyGscFjagiLMGq4w4H5pEcyuoCeoDxQ1iNqa85A.gif?fm=jpg&s=dd701cb69aba07cf13ffb12da50ebe1b frameborder=0>
 - entry_name: |
   entry_id: 8smhjp
   entry_content: |
     <img src=https://i.redditmedia.com/G0gRld2R2Em0GRyjONK2Uu5p7EBtWC2KAAcP6-ppARw.jpg?s=a1c32b984e71bfe773811a4de16fc052 frameborder=0>
 - entry_name: |
-  entry_id: 8srvr5
+    meirl
+  entry_id: 8ss45i
   entry_content: |
-    <img src=https://i.redditmedia.com/Fujb0t-_sJ_vJOq0D3wxSdxCqhgaWd81-yN3dymZwSY.jpg?s=39a56f310b34a0f30dd8d25125d45367 frameborder=0>
-- entry_name: |
-    We're 5 actors from cult film, THE ROOM, ask us anything!
-  entry_id: 8snffi
-  entry_content: |
-    <img src=https://i.redditmedia.com/moU_OoJ1rv6Cg3ZlhgfRCZvviKCor-7WyNVE7uem1jA.jpg?s=7ed708ed8d4f996a26b31177d48e26b8 frameborder=0>
+    <img src=https://i.redditmedia.com/UhZFSMBU6KNp2_2A4GvCGsye-SYraCPnX74UepZuebk.jpg?s=35cd139424a53180c49618bf14a9fbfe frameborder=0>
 - entry_name: |
     Buddy Woke 🤔
   entry_id: 8sn5kx
   entry_content: |
     <img src=https://i.redditmedia.com/d5skG4B3Qytk9lw0mYnTbhBAncP4aL7JYBakbg3Rjrw.jpg?s=ab22fc2e500cc38adf29c42a7130544b frameborder=0>
 - entry_name: |
-    Came across some old photos of a weird looking baby today at my parents house. Found out it’s me at 4 weeks. Thank god they captured my beauty before I grew out of it.
-  entry_id: 8smzy5
+    We're 5 actors from cult film, THE ROOM, ask us anything!
+  entry_id: 8snffi
   entry_content: |
-    <img src=https://i.redditmedia.com/pwm1uW4AXVdxwJYO9AIB79Oy-DNxZwEsBJC8qhGKUUY.jpg?s=b2162f2294752ea1c28aef6cacd7e1bc frameborder=0>
-- entry_name: |
-    I recently got a tablet
-  entry_id: 8sqyvv
-  entry_content: |
-    <img src=https://i.redditmedia.com/6Ys9B7vqG6T7cIPnYns11tZUVLJow4DUJw4J249lCzs.jpg?s=30832bbc7bc8740f384f078f72c9e19f frameborder=0>
+    <img src=https://i.redditmedia.com/moU_OoJ1rv6Cg3ZlhgfRCZvviKCor-7WyNVE7uem1jA.jpg?s=7ed708ed8d4f996a26b31177d48e26b8 frameborder=0>
 ---
