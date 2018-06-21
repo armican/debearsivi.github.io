@@ -8,11 +8,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tj668k8kn9511/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    First thought that popped into my head when I saw this
-  entry_id: 8slhi0
-  entry_content: |
-    <img src=https://i.redditmedia.com/3ODJfFWYEjjGZbyAIe25w-jdaYa8F2FzRDkMMXIXJ08.jpg?s=eabd20e1f819ce636c79e3c8ddacee91 frameborder=0>
-- entry_name: |
     She’s keeping him company
   entry_id: 8smzfk
   entry_content: |
@@ -116,16 +111,6 @@ data:
   entry_id: 8sqq8n
   entry_content: |
     <img src=https://i.redditmedia.com/LEG7z2dpwRqFtrZYvu-aljxQPBTHUp4Q9MkjzPPAbNY.jpg?s=53d678f44921f8f6cf7bd85b68fee2b6 frameborder=0>
-- entry_name: |
-    WCGW if I get in a fight with Jesus Christ
-  entry_id: 8slfyc
-  entry_content: |
-    <iframe src=https://v.redd.it/pqy7qvlpo7511/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    One day in the future, Donald Trump has a heart-attack and dies.
-  entry_id: 8sli0v
-  entry_content: |
-    null
 - entry_name: |
     Mimosa Leaves Closing
   entry_id: 8sliir
@@ -248,4 +233,19 @@ data:
   entry_id: 8snffi
   entry_content: |
     <img src=https://i.redditmedia.com/moU_OoJ1rv6Cg3ZlhgfRCZvviKCor-7WyNVE7uem1jA.jpg?s=7ed708ed8d4f996a26b31177d48e26b8 frameborder=0>
+- entry_name: |
+    Buddy Woke 🤔
+  entry_id: 8sn5kx
+  entry_content: |
+    <img src=https://i.redditmedia.com/d5skG4B3Qytk9lw0mYnTbhBAncP4aL7JYBakbg3Rjrw.jpg?s=ab22fc2e500cc38adf29c42a7130544b frameborder=0>
+- entry_name: |
+    Came across some old photos of a weird looking baby today at my parents house. Found out it’s me at 4 weeks. Thank god they captured my beauty before I grew out of it.
+  entry_id: 8smzy5
+  entry_content: |
+    <img src=https://i.redditmedia.com/pwm1uW4AXVdxwJYO9AIB79Oy-DNxZwEsBJC8qhGKUUY.jpg?s=b2162f2294752ea1c28aef6cacd7e1bc frameborder=0>
+- entry_name: |
+    I recently got a tablet
+  entry_id: 8sqyvv
+  entry_content: |
+    <img src=https://i.redditmedia.com/6Ys9B7vqG6T7cIPnYns11tZUVLJow4DUJw4J249lCzs.jpg?s=30832bbc7bc8740f384f078f72c9e19f frameborder=0>
 ---
