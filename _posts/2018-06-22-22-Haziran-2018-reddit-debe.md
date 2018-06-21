@@ -62,11 +62,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sAc-EjN5zkO_NWtQlYIdagl4e6Huk65wxLQdb6HzWOc.jpg?s=7f18d12df4fdc9ebb8e5ace7dbd65cec frameborder=0>
 - entry_name: |
-    EU hits back at Donald Trump with billions in tariffs on Bourbon whiskey, jeans and motorcycles
-  entry_id: 8skr8p
-  entry_content: |
-    <img src=https://i.redditmedia.com/IGHtU9ktgNO0TAEVEPAVzeHm34dNDi_8LeYNxTFlYo8.jpg?s=1ca15d6e672c474e15232555840d47cc frameborder=0>
-- entry_name: |
     Last man sitting battle royale game where players wheel around on office chairs.
   entry_id: 8sr4h0
   entry_content: |
@@ -231,11 +226,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
 - entry_name: |
-    Using a tablet and accelerometer to explore an MRI scan
-  entry_id: 8sktfk
-  entry_content: |
-    <img src=https://i.redditmedia.com/XNkEkgnDXN9KimtV4YaqHjyjNk2FGXVN8MBwIoMJKbY.gif?fm=jpg&s=a21e852191cb494431a38bd7e3c5e10d frameborder=0>
-- entry_name: |
     When the EU says we can't use copyrighted images in memes.
   entry_id: 8smpxp
   entry_content: |
@@ -250,4 +240,13 @@ data:
   entry_id: 8sp7sa
   entry_content: |
     <iframe src=https://v.redd.it/qzvduk1z5a511/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8slmd2
+  entry_content: |
+    <img src=https://i.redditmedia.com/M9tRshAZmmgaJrhdtdeB60I67apxRWq-ItMRKg2SUvQ.jpg?s=468a8bebdf353a8d1c0d200df41ad54b frameborder=0>
+- entry_name: |
+    Lawsuit: School officials forced 12-year-old who killed herself to hug bullies
+  entry_id: 8smwb6
+  entry_content: |
+    <img src=https://i.redditmedia.com/9J00zQSI8dgZQ3C8RP8h7Od59WgISzv1NYeThB9AmxE.jpg?s=eda42f64afa1fd34e30ac038d4d12c12 frameborder=0>
 ---
