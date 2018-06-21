@@ -33,11 +33,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/067evo1dk7511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    World Cup ending injury for Portugals Pepe
-  entry_id: 8sk7ag
-  entry_content: |
-    <iframe src=https://v.redd.it/qnx0v1tsx6511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     My 70 year old father in law started painting a couple years ago. He likes to try different styles and keeps them all.
   entry_id: 8sobn8
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8sq2ct
   entry_content: |
     <img src=https://i.redditmedia.com/uitg29KRpSYesyTD4MnqTWlWKPCMVN-XK0BWR0Oj1Cs.jpg?s=f6d29ec41123a6b58050bae6b6fdeb99 frameborder=0>
+- entry_name: |
+    Instead of 'Death to America,' Iran is now just posting photos of migrant children in U.S. cages
+  entry_id: 8smsxq
+  entry_content: |
+    <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
 ---
