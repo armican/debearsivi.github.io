@@ -92,16 +92,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    TIL: Einstein Wrote a 1935 New York Times Obituary upon Emmy Noether's demise to highlight her mathematical genius, which was oft-overlooked because of her gender.
-  entry_id: 8skhje
-  entry_content: |
-    <img src=https://i.redditmedia.com/uY6TS3xmjIfDfSTn6ht657uZwq4isvzgR7b93l84YBM.jpg?s=de52dc224bc752fb0611f52432bb9f44 frameborder=0>
-- entry_name: |
-    Trying to catch who’s been stealing the chickens...
-  entry_id: 8skefr
-  entry_content: |
-    <iframe src=https://v.redd.it/7ykmi8az17511/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     My mom won her battle with cancer back in May and loves to greet me by showing me how much her hair has grown since last I saw her. Today, she was SO excited to show me the World's Tiniest Fauxhawk.
   entry_id: 8sm1xk
   entry_content: |
@@ -127,11 +117,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/D5ZouibupKfb4whmZcQd9VdY3AI1Kfu8yjK6-YGmLMw.jpg?s=003b7790d1c54eb0316bdf55c2b01473 frameborder=0>
 - entry_name: |
-    A laptop...
-  entry_id: 8skg7o
-  entry_content: |
-    <img src=https://i.redditmedia.com/p-0A6vjfCpbo16g0pl3Oy4vTlqnlNW2FN5HOo0AlDSQ.jpg?s=c8ec0170909ffae3797b737c8baa99fc frameborder=0>
-- entry_name: |
     My sister recently got in to cross stiching
   entry_id: 8sni4m
   entry_content: |
@@ -141,11 +126,6 @@ data:
   entry_id: 8so8lz
   entry_content: |
     <iframe src=https://v.redd.it/lza9wswaq8511/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    They also did the dishes...
-  entry_id: 8skgmm
-  entry_content: |
-    <img src=https://i.redditmedia.com/TsvQf4gUyNjEGYL0gzHG4qhkmvyGuxXH0vYt-8B0oaA.jpg?s=4774d32b8593e1a76533ad2ad0eddf26 frameborder=0>
 - entry_name: |
     Don't touch me!
   entry_id: 8sqyfd
@@ -162,11 +142,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Anon is a soldier
-  entry_id: 8skhbp
-  entry_content: |
-    <img src=https://i.redditmedia.com/QaB9Dvx5fA5FEDsMpL2IE0tCi5MmXsjI_Xfss_CjExM.jpg?s=f657314e481ba72ea6a2c753447e299e frameborder=0>
-- entry_name: |
     Mimosa Leaves Closing
   entry_id: 8sliir
   entry_content: |
@@ -180,11 +155,6 @@ data:
   entry_id: 8snjpn
   entry_content: |
     <img src=https://i.redditmedia.com/mKWM337MTTlJl7ucmn6_u-xuLvkyaZg_nhxeLNQORXw.jpg?s=9ec9bf3eb03400aec8effe69cd65eadb frameborder=0>
-- entry_name: |
-    Fuck this shit
-  entry_id: 8skdgr
-  entry_content: |
-    <img src=https://i.redditmedia.com/dCo_kE1OvxRQFShaOvnBlxQiAcYfjBey3WuVvwhbNIo.jpg?s=71b865b4e0f49cdfbde95d9aa73d4dc9 frameborder=0>
 - entry_name: |
     Pickpocketing in Fallout 76
   entry_id: 8smnbk
@@ -231,11 +201,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/R5wu9wKvtkMn3IiO95EsVoYSOw6Ci4KnAVsN5KUn7ug.jpg?s=c2a41c72b2f46130f1d85dafc6eb935b frameborder=0>
 - entry_name: |
-    “Retriever” is not the most accurate label for my dog.
-  entry_id: 8skh3w
-  entry_content: |
-    <iframe src=https://v.redd.it/6epfbahh37511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I make soap for a living and I finally made the tastiest looking morsels
   entry_id: 8smjar
   entry_content: |
@@ -250,4 +215,37 @@ data:
   entry_id: 8smsxq
   entry_content: |
     <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
+- entry_name: |
+    Using a tablet and accelerometer to explore an MRI scan
+  entry_id: 8sktfk
+  entry_content: |
+    <img src=https://i.redditmedia.com/XNkEkgnDXN9KimtV4YaqHjyjNk2FGXVN8MBwIoMJKbY.gif?fm=jpg&s=a21e852191cb494431a38bd7e3c5e10d frameborder=0>
+- entry_name: |
+    When the EU says we can't use copyrighted images in memes.
+  entry_id: 8smpxp
+  entry_content: |
+    <img src=https://i.redditmedia.com/xqfQxofh25jRFKp-IzB-yDBMByOXLg-smdUP8uJFrzY.jpg?s=ffb31b48f444fefe9155dbd83a2ee4b3 frameborder=0>
+- entry_name: |
+  entry_id: 8slmd2
+  entry_content: |
+    <img src=https://i.redditmedia.com/M9tRshAZmmgaJrhdtdeB60I67apxRWq-ItMRKg2SUvQ.jpg?s=468a8bebdf353a8d1c0d200df41ad54b frameborder=0>
+- entry_name: |
+    Lawsuit: School officials forced 12-year-old who killed herself to hug bullies
+  entry_id: 8smwb6
+  entry_content: |
+    <img src=https://i.redditmedia.com/9J00zQSI8dgZQ3C8RP8h7Od59WgISzv1NYeThB9AmxE.jpg?s=eda42f64afa1fd34e30ac038d4d12c12 frameborder=0>
+- entry_name: |
+    #neveragain
+  entry_id: 8sq386
+  entry_content: |
+    <img src=https://i.redditmedia.com/nCXlYZCgXpVaYVQaR3rjN0gFHN-DmNgcPWtqDOFl7Ls.jpg?s=2e754d0beebc416c366cd49500578ba1 frameborder=0>
+- entry_name: |
+    Playing survival mode in Fallout 4 is harder than going to college
+  entry_id: 8sp39u
+  entry_content: |
+    <img src=https://i.redditmedia.com/d-GTBZsGnk4-KRS3XWrRPqO2GM6DcKLy4k0w2ugtxPw.jpg?s=d828aa2c19bb344748f04dad570b3f0d frameborder=0>
+- entry_name: |
+  entry_id: 8smhjp
+  entry_content: |
+    <img src=https://i.redditmedia.com/G0gRld2R2Em0GRyjONK2Uu5p7EBtWC2KAAcP6-ppARw.jpg?s=a1c32b984e71bfe773811a4de16fc052 frameborder=0>
 ---

@@ -6,7 +6,7 @@ data:
     ince'nin resepsiyon görevlisine hakaret etmesi
   entry_id:  78302229
   entry_writer: well cooked
-  entry_fav_count: 1648
+  entry_fav_count: 1659
   entry_content: |
     <a class="b" href="/?q=muharrem+ince">muharrem ince</a> benim demek istediğimi tokat gibi çarpmış suratlarına:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/afknLa" title="https://goo.gl/afknLa">ses kaydı açıklaması.</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://goo.gl/CA4gHU" title="https://goo.gl/CA4gHU">21 haziran 2018 ismail küçükkaya ile çalar saat (muharrem ince)</a><br/>--<br/>sizinki olunca montaj oluyorsa bu da montajdır. haydi ikile sayın <a class="b" href="/?q=ak+troll">ak troll</a>.<br/><br/>kamu spotu:<br/>(bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)<br/>(bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)<br/><br/>edit: iyi ki don't feed dedik. başlığına yazdığınız troll başlığı tutmayınca önce kendi 2-3 entry giren sonra ak troll arkadaşlarından yardım isteyen bir eziktir. prim yaptırıp yüzünü güldürmeyin şunun.<br/><br/>kim küfür işitirken mal gibi güler? kaydın geçmişi olduğu belli.<br/><br/>--<br/>bu entry'i de seri eksileyen yavşaklara da selamlarımı iletiyorum.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     24 haziran'da sandığa gitmeyecek sözlük yazarları
   entry_id:  78313195
   entry_writer: dondurmayacipsbananadam
-  entry_fav_count: 1323
+  entry_fav_count: 1357
   entry_content: |
     "hiç kimseye yakınlık duymuyorum o yüzden adolf hitler gelsin hepimizin amına koysun bana ne?" diyen akıl bulanması yaşayan yazarlardır.
   entry_channels: siyaset,anket,ekşi-sözlük
@@ -22,50 +22,66 @@ data:
     ak parti bayrağını indiren köpekler
   entry_id:  78311535
   entry_writer: perebron
-  entry_fav_count: 892
+  entry_fav_count: 909
   entry_content: |
     haklarında yakalama ve gözaltı kararı çıkmaz umarım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Research_Turkey/status/1009705786413600768" title="https://twitter.com/Research_Turkey/status/1009705786413600768">https://twitter.com/…key/status/1009705786413600768</a>
   entry_channels: haber
 - entry_name: |
-    soğan patates ithal edeceğiz
-  entry_id:  78310484
-  entry_writer: 3310merkez
-  entry_fav_count: 448
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/ekonomi/sogan-patateste-fiyat-artisina-ithalat-onlemi%2C4mOG_YwG8Een-cpg3YazKw" title="https://www.ntv.com.tr/ekonomi/sogan-patateste-fiyat-artisina-ithalat-onlemi%2C4mOG_YwG8Een-cpg3YazKw">patatiiissssssss</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/4707e1b2d29" title="https://eksiup.com/4707e1b2d29">bunlar hep ameriga'nın oyunları...</a><br/><br/>ekonomi bakanı zeybekci ntv canlı yayınında az önce söyledi.. tam hali "kısıtlı miktarda soğan ve patatesin ülkeye girişine izin vereceğiz".. ülkeyi soğan patates ithal edecek hale getirdin ya.. gerçekten büyüksün reis...<br/><br/>edit: ne güzel iş anasını satayim.. fiyat mı arttı.. hemen ithal et fiyatı düşür.. <br/><br/>edit2: bir de en güldüğüm yalan.. çiftçi değil aracı kazanıyor yalanı.. al kamyonu git antalya'ya yükle getir.. osmangazi ve yavuzsultan selim köprüsünden mecburen hem gidişte hem de gelişte geçeceksin.. verdin mi köprülere bin lira.. kamyon bu su yakmıyor ya.. bir depo gidişte bir depo da gelişte yaksa etti mi sana 2 depo.. ona da yuvarlak hesap bin lira diyelim.. e buna hale giriş çıkış parası, stopajı vergisini ekle... hiç koymasan yüzde 10 karını da koy.. ondan sonra tarlada 1 lira olan kiraz istanbul'da niye 6-7 lira diye ağla.. ne güzel istanbul<br/><br/>edit3: aşağıdaki bazı entry’lerde çiftçinin yerine aracının safını tutmakla eleştirilmişim... öyle bir şey olması mümkün değil... anlatmaya çalıştığım hayatın pahalılaşması... sabah bozdurduğun 100 tl’den akşam cebinde ne kadarı kalıyor canım kardeşim... ya da kredi kartına güvenmesek kaçımız sokağa çıkabilir... her şey dolara bağımlıyken bir tek kazancımız dolara bağlı değil... büyük resmi gördün mü?<a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/mXaSOXsTPw0" title="https://youtu.be/mXaSOXsTPw0">arda kardeşim çağrını aldım... güçlü bir türkiye için ben de "tamam" diyorum</a>
-  entry_channels: siyaset,haber,yeme-içme
-- entry_name: |
     reis'e oy atıp pusulaya devam yazıyoruz kampanyası
   entry_id:  78324626
   entry_writer: benburayaciplakgeldim
-  entry_fav_count: 448
+  entry_fav_count: 502
   entry_content: |
     reis'e destek olmak için yapılması gereken kampanyadır. hatta ve hatta "devam yazarak onun arkasında olduğumuzu hissettirmek farz-ı ayndır. başka şeyler de yazabilirsiniz. yeter ki yazın. arkasında olduğumuzu hissetsin. kuru kuru zaten hepimiz oy veriyoruz. onemli olan yazarak destek.<br/><br/>not: özellikle reis sevdalısı yaşlılarımız, ana ve babalarımızı bu konuda bilgilendirelim. şimdiden 8-9 yaşlı akrabamıza "devam" yazdiracagim. 9×2=18 oy garanti. sandığa gömeceğiz muharremi.
   entry_channels: siyaset
 - entry_name: |
-    murat karayılan ve cemil bayık'ın yakalanması
-  entry_id:  78321623
-  entry_writer: sonsuzluk korkusu
-  entry_fav_count: 415
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bahoz+erdal+%c3%b6ld%c3%bc">bahoz erdal öldü</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
     görüyorum ki çaresizliği tatmamışsınız hayatınızda
   entry_id:  78319483
   entry_writer: lutfiye fidillioglu
-  entry_fav_count: 413
+  entry_fav_count: 460
   entry_content: |
     dilek'i unutmayın. unutturmayın.
+  entry_channels: siyaset,haber
+- entry_name: |
+    soğan patates ithal edeceğiz
+  entry_id:  78310484
+  entry_writer: 3310merkez
+  entry_fav_count: 451
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/ekonomi/sogan-patateste-fiyat-artisina-ithalat-onlemi%2C4mOG_YwG8Een-cpg3YazKw" title="https://www.ntv.com.tr/ekonomi/sogan-patateste-fiyat-artisina-ithalat-onlemi%2C4mOG_YwG8Een-cpg3YazKw">patatiiissssssss</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/4707e1b2d29" title="https://eksiup.com/4707e1b2d29">bunlar hep ameriga'nın oyunları...</a><br/><br/>ekonomi bakanı zeybekci ntv canlı yayınında az önce söyledi.. tam hali "kısıtlı miktarda soğan ve patatesin ülkeye girişine izin vereceğiz".. ülkeyi soğan patates ithal edecek hale getirdin ya.. gerçekten büyüksün reis...<br/><br/>edit: ne güzel iş anasını satayim.. fiyat mı arttı.. hemen ithal et fiyatı düşür.. <br/><br/>edit2: bir de en güldüğüm yalan.. çiftçi değil aracı kazanıyor yalanı.. al kamyonu git antalya'ya yükle getir.. osmangazi ve yavuzsultan selim köprüsünden mecburen hem gidişte hem de gelişte geçeceksin.. verdin mi köprülere bin lira.. kamyon bu su yakmıyor ya.. bir depo gidişte bir depo da gelişte yaksa etti mi sana 2 depo.. ona da yuvarlak hesap bin lira diyelim.. e buna hale giriş çıkış parası, stopajı vergisini ekle... hiç koymasan yüzde 10 karını da koy.. ondan sonra tarlada 1 lira olan kiraz istanbul'da niye 6-7 lira diye ağla.. ne güzel istanbul<br/><br/>edit3: aşağıdaki bazı entry’lerde çiftçinin yerine aracının safını tutmakla eleştirilmişim... öyle bir şey olması mümkün değil... anlatmaya çalıştığım hayatın pahalılaşması... sabah bozdurduğun 100 tl’den akşam cebinde ne kadarı kalıyor canım kardeşim... ya da kredi kartına güvenmesek kaçımız sokağa çıkabilir... her şey dolara bağımlıyken bir tek kazancımız dolara bağlı değil... büyük resmi gördün mü?<a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/mXaSOXsTPw0" title="https://youtu.be/mXaSOXsTPw0">arda kardeşim çağrını aldım... güçlü bir türkiye için ben de "tamam" diyorum</a>
+  entry_channels: siyaset,haber,yeme-içme
+- entry_name: |
+    murat karayılan ve cemil bayık'ın yakalanması
+  entry_id:  78321623
+  entry_writer: sonsuzluk korkusu
+  entry_fav_count: 430
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bahoz+erdal+%c3%b6ld%c3%bc">bahoz erdal öldü</a>)
   entry_channels: siyaset,haber
 - entry_name: |
     21 haziran 2018 muharrem ince büyük izmir mitingi
   entry_id:  78300221
   entry_writer: bucuksuzotuzbes
-  entry_fav_count: 252
+  entry_fav_count: 281
   entry_content: |
     çekirdek değil, çiğdem.<br/>simit değil, gevrek.<br/>mısır değil, darı.<br/>recep değil, muharrem!
   entry_channels: siyaset,tv,haber
+- entry_name: |
+    ince'nin yanına gelen çocuğu sahneden kovması
+  entry_id:  78302560
+  entry_writer: johnny c goode
+  entry_fav_count: 266
+  entry_content: |
+    doğru olanı yapmıştır. adam mitingde konuşurken çoluğuna çocuğuna sahip çıkmayanların yaptığı normal, sayın ince'nin yaptığı anormal. hadi oradan. on binlerce kişi önünde konuşurken çocuk mu sevecekmiş bir de? "konuşuyorum şimdi" diyor adam, bir şey de demiyor. her şeyin yeri var zamanı var. çocuklarınızı salmayın her yere. toplu taşıma araçlarında ve umuma açık yerlerde bağırtmayın da.
+  entry_channels: siyaset,ilişkiler,tv,haber,magazin,eğitim
+- entry_name: |
+    devlet bahçeli'nin büyük oyunu
+  entry_id:  78301605
+  entry_writer: andom
+  entry_fav_count: 266
+  entry_content: |
+    bahçeli'de böyle kumpas kuracak zeka olsaydı çoktan iktidar olurdu diyebileceğim saçmalıklar abidesidir.<br/><br/>siz yanmayın diye ben okuyup ön almak istedim arkadaşlar. bana bu vefa borcunu ödemek isteyenler, önümüzdeki seçimlerde millet ittifakına ve muhalif liderlerden herhangi birine oy vererek ödeşmiş olurlar.
+  entry_channels: siyaset
 - entry_name: |
     meral akşener'in anadolu ajansı ile ilgili iddiası
   entry_id:  78320494
@@ -75,21 +91,21 @@ data:
     meral akşener'in böyle bir durumdayken kesin olmayan bilgiyi paylaşması düşünülemeyeceği için, kesinlikle doğru olan iddiadır. <br/><br/>her seçimde yedikleri boku, tekrar yiyecekler ve sandıkları terk ettirip hırsızlığın daniskasını yapacaklardır. <br/><br/>meral akşener ve muharrem ince, milyonların iradesine sahip çıkacak olan sizlersiniz. biz sandık başında sayım bitene kadar görevimizi ifa edeceğiz. olur da sineye çekmek gibi, olmayan mahkemelerde sonuç aramak gibi asılsız ve sünepe bir arayışa girerseniz, bu ilk ve son seçimleriniz olur. ayağınızı denk alın!
   entry_channels: siyaset,haber
 - entry_name: |
-    ekonomi kötüyse avm'ler nasıl dolup taşıyor
-  entry_id:  78310112
-  entry_writer: demosthenes
-  entry_fav_count: 215
-  entry_content: |
-    ben de bu konuyu çoktan beri düşünüyordum. sonra kasalara yaklaşıp insanları dinledim ve türkçe konuşmadıklarının farkına vardım.
-  entry_channels: siyaset,anket,ekonomi
-- entry_name: |
     başörtüsü ile üniversiteye girilemeyen yıllar
   entry_id:  78319725
   entry_writer: cartooncu
-  entry_fav_count: 206
+  entry_fav_count: 219
   entry_content: |
     ben bizzat yaşadım. ama sizin kadar duygu sömürüsü yapmıyorum. bizden ziyade onlar ağlayıp ekmeğini yediler. şimdi başörtülü her yere girebiliyoruz ama eğitim kalitesi yerlerde,din tüccarlığı yaptılar, dini hırslarına peşkeş çektiler yazıklar olsun. hala başörtüsü mağduriyeti yeter ya yeter bu özgürlüğü verdiler diye kul kölemi olalım ne istorsunuz 16 yıldır doymadınız mı? biz o yılları da bu yılları da asla unutmayacağız merak etmeyin.
   entry_channels: siyaset,tarih,moda,eğitim
+- entry_name: |
+    ekonomi kötüyse avm'ler nasıl dolup taşıyor
+  entry_id:  78310112
+  entry_writer: demosthenes
+  entry_fav_count: 216
+  entry_content: |
+    ben de bu konuyu çoktan beri düşünüyordum. sonra kasalara yaklaşıp insanları dinledim ve türkçe konuşmadıklarının farkına vardım.
+  entry_channels: siyaset,anket,ekonomi
 - entry_name: |
     aa'nın seçim sonuçlarını 4 gün önceden açıklaması
   entry_id:  78313491
@@ -99,26 +115,42 @@ data:
     test amaçlı değildir, içerde olan bir vatan evladının, çekilmeye çalışılacak numara için bizleri uyandırma mesajıdır.
   entry_channels: siyaset,haber
 - entry_name: |
-    ismi xena olan kıza akrostiş şiir yazmak
-  entry_id:  78309827
-  entry_writer: angara beyefendisi
-  entry_fav_count: 154
-  entry_content: |
-    xenon gibiydi gözlerin <br/>en güzeli angel modeli <br/>nereden geldin güzelim <br/>anan kimdi bilemezdin şerefsiz.<br/><br/>edit: buraya bakarlar; <a class="b" href="/entry/77590803">#77590803</a> mutlu olun biraz, hayat kısa.
-  entry_channels: anket,edebiyat
-- entry_name: |
     hurriyet.com'a girmeyi artık bırakmak
   entry_id:  78318649
   entry_writer: noel gallagher
-  entry_fav_count: 153
+  entry_fav_count: 158
   entry_content: |
     yılların alışkanlığı olmuş bir refleksi bırakmaktır. <br/><br/>bir deneyin. sonunda basın tarihinde 1980 lerin güneş gazetesi gibi bir şeye dönüşecek.
   entry_channels: teknoloji,haber
 - entry_name: |
+    ismi xena olan kıza akrostiş şiir yazmak
+  entry_id:  78309827
+  entry_writer: angara beyefendisi
+  entry_fav_count: 157
+  entry_content: |
+    xenon gibiydi gözlerin <br/>en güzeli angel modeli <br/>nereden geldin güzelim <br/>anan kimdi bilemezdin şerefsiz.<br/><br/>edit: buraya bakarlar; <a class="b" href="/entry/77590803">#77590803</a> mutlu olun biraz, hayat kısa.
+  entry_channels: anket,edebiyat
+- entry_name: |
+    ares ve limewire dönemini görmüş insan
+  entry_id:  78298679
+  entry_writer: mevsimler
+  entry_fav_count: 145
+  entry_content: |
+    “kahtalı mıçı damımıza kar yağdı has shaking orgasm during sex” kendisi için anlamlı bir ifadedir. <br/><br/>böyle böyle harcadılar bir nesli.
+  entry_channels: teknoloji
+- entry_name: |
+    keşke polisi dövseydim dövmediğim için pişmanım
+  entry_id:  78318432
+  entry_writer: kuzgunumtrak
+  entry_fav_count: 135
+  entry_content: |
+    herkesi kendi zeka seviyesinde sanan akp güruhunun, karalama kampanyalarından birisi. dövmüş mü ? hayır. polisleri tokatlayan milletvekili çocuğunu unuttuk mu ? <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=QGEw7V2kbnc" title="https://www.youtube.com/watch?v=QGEw7V2kbnc">hayır.</a>
+  entry_channels: siyaset,haber
+- entry_name: |
     erdoğan'ın 1989 bulgaristan göçmenleri konuşması
   entry_id:  78322993
   entry_writer: utanan ayi
-  entry_fav_count: 119
+  entry_fav_count: 130
   entry_content: |
     türk islamcısında ezelden beri bulunan balkan göçmeni antipatisinin nadide bir örneğini gördüğümüz konuşma.
   entry_channels: siyaset,tarih
@@ -126,7 +158,7 @@ data:
     21 haziran 2018 milliyet.com.tr rezaleti
   entry_id:  78321881
   entry_writer: sallamakahve
-  entry_fav_count: 113
+  entry_fav_count: 115
   entry_content: |
     aa sonuçlarıyla neredeyse aynı olan sonuçlar.<br/>akılları sıra bunu yaparak "zaten hileyi hazırladık, siz oy verseniz de vermeseniz de biz yolu tuttuk" mesajı veriyorlar. <br/>1- mutlaka oy verin<br/>2- mutlaka sandıklarınıza sahip çıkın! sandıkları boş bırakmayın, gidin oy sayımını izleyin.<br/>3- umutsuzluğa kapılmayın, inancınız daha da yükselsin! ne yaparlarsa yapsınlar oy kullanıp sandıklara sahip çıktıktan sonra hile hurda yapamazlar.<br/><br/>bu gibi algı operasyonlarına gözlerinizi kapatın demiyorum ama kaale almayın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/49968b99436">https://eksiup.com/49968b99436</a><br/><br/>(bkz: <a class="b" href="/?q=meral+ak%c5%9fener%27in+anadolu+ajans%c4%b1+ile+ilgili+iddias%c4%b1">meral akşener'in anadolu ajansı ile ilgili iddiası</a>)<br/>(bkz: <a class="b" href="/?q=aa%27n%c4%b1n+se%c3%a7im+sonu%c3%a7lar%c4%b1n%c4%b1+4+g%c3%bcn+%c3%b6nceden+a%c3%a7%c4%b1klamas%c4%b1">aa'nın seçim sonuçlarını 4 gün önceden açıklaması</a>)
   entry_channels: siyaset,haber
@@ -134,7 +166,7 @@ data:
     ülkemde suriyeli istemiyorum
   entry_id:  78307065
   entry_writer: maylo napiyor acaba
-  entry_fav_count: 89
+  entry_fav_count: 93
   entry_content: |
     dün benim kardeşim ölüyordu neredeyse bir suriyeli yüzünden. ben hayatımda bu kadar büyük bir korku ve çaresizlik yaşamadım. ve o suriyeli çocuğu o an boğabilirdim, elimden zor aldılar. evet bu yüzden ülkemde suriyeli istemiyorum. <br/>onlar yüzünden bugün de başımıza ne gelecek diye düşünmek istemiyorum.<br/><br/>ekleme: arkadaşlar hepinize çok teşekkür ederim geçmiş olsun dilekleriniz için. benim amacım dini, dili, ırkı veya milliyeti yüzünden kimseyi yargılamak değil ama dünden beri aklıma geldikçe deliriyorum. dün gece sinirimden, korkumdan uyuyamadım. ya kardeşime bir şey olsaydı diye. gözümün önünden gitmiyor. diyeceksiniz ki bunu başkası da yapmış olabilirdi. ama ben izmirde yıllardır yaşıyorum ve böyle bir kaza durumuyla ilk defa karşılaşıyorum. <br/>gelen çok fazla mesaj üzerine aşağıda sizlerle paylaşıyorum. <br/><br/>izmirde, bornovada yaşıyoruz. (bilenleriniz belki vardır bornova meydana giden yoldan bahsediyorum. ata durağı diye bilinen bölge hatta.) kardeşimle dün marketten çıktık evimize gidiyoruz elimizde poşetlerle. tek yön trafiği olan bir caddeden karşıdan karşıya geçicez. aslında cadde de sayılmaz. yol iki şerit tek yön yokuş bir yol. şeridin tekini zaten park eden araçlar kapamış.<br/>trafik sağdan geliyor yani yokuş yukarı çıkıyor. biz haliyle sağımıza baktık gelen bir araba durdu sağ olsun karşıya geçmek için sağımda olan kardeşim ilk adımı yola atmasıyla birlikte solumuzdan bir bisikletli yokuş aşağı ters yönden gelip duramayıp kardeşime çarptı, kardeşim yola devrildi ki kendisi 1-90 ve 97.5 kg insan. ben şoka girdim baktım kardeşim yerde, kafasını tutuyo , insanlar etrafımıza toplandı. canımdan can gitti o anda sözlük. <br/>kardeşimi aldılar yerden ben ağlıyorum bir şey oldu diye sonra soluma döndüm o suriyeli çocuk da korkmuş belli ama ben çıldırdım. elimden zor aldılar çocuğu. bağırıyorum saldırıyorum kendimi tutamıyorum. bağırmamın nedeni ters yönden hızlıca geliyor oluşu ve eğer sağ tarafa doğru düşse kardeşim arabaların altında kalabilirdi. ben trafiğin geliş yönüne bakıyorum ve bir anlık adım atmasıyla bisikletli çarpıyo. çocuk kardeşimin üstünde durdu frene bile basmadı öyle düşünün. çok sinirlendim, artık çocuğu uzaklaştırdılar elimde kalacaktı. kendimi tutamıyorum sinirden ağlıyorum, artık kardeşim kalktı o yaralı haliyle beni sakinleştirmeye çalışıyo kıyamam. <br/>tamam şu anda kardeşim iyi evet sadece bileğinde ve kalçasında morluklar ve darbeye bağlı ağrı var ama daha kötüsü de olabilirdi.ve ben de kardeşimle birlikte adım atsam ikimize birden çarpacaktı. evet şimdi ucuz kurtulduk (yaşadığım şok ve kardeşime bir şey olduğu korkusu pek de ucuz sayılmaz). ya bunları yazarken bile o düştüğü an aklıma geliyo gözlerim doluyo.<br/><br/>ekleme 2: ya biliyorum çok uzun oldu ama işin bir de trajikomik yanı var. iki dakika önce markette aramızda ufak tatlı bir atışma geçmişti. ben çikolata almasını istemiyorum, yediğim zaman yüzümde sivilce çıkıyor diye. o da seviyo. markette indirime girmiş büyük kavanozda çokokrem. dedim alma o alıcam diye ısrarla aldı. bisikletli çarptığı anda poşet düştü elinden kavanoz kırıldı. ona üzüldü garibim, kırıldı diye. ya sen yeter ki iyi ol ben sana 50 kavanoz nutella alcam ablam ya. <sup class="ab"><a title="(bkz: çok seviyorum keratayı)" href="/?q=%c3%a7ok+seviyorum+keratay%c4%b1" data-query="çok seviyorum keratayı">*</a></sup><sup class="ab"><a title="(bkz: canımın parçası)" href="/?q=can%c4%b1m%c4%b1n+par%c3%a7as%c4%b1" data-query="canımın parçası">*</a></sup>
   entry_channels: siyaset
@@ -147,6 +179,14 @@ data:
     sonunda “on beş yıl evvel ananızın amı mı vardı?” diyecek konu kapanacak.
   entry_channels: siyaset,haber
 - entry_name: |
+    21 haziran 2018 soğan kuru
+  entry_id:  78308133
+  entry_writer: crazyspecialist
+  entry_fav_count: 82
+  entry_content: |
+    komşumuzun yeni doğan çocuğuna çeyrek soğan takarak destek vermiş bulunduğum soğan lobisi kurudur. <br/><br/>gerçi hanım toprağa yatıralım, yaz sonu tam soğan takarız demişti ama çok risk alamadım.
+  entry_channels: yeme-içme,ekonomi
+- entry_name: |
     erdoğan'a eleştirilerin dinletildiği program
   entry_id:  78297355
   entry_writer: cizgilerleyasiyorum
@@ -158,10 +198,26 @@ data:
     muharrem ince ve danışmanlarına duyurular
   entry_id:  78298074
   entry_writer: 26369
-  entry_fav_count: 73
+  entry_fav_count: 74
   entry_content: |
     ınternet rte'nin sacma aciklamalariyla dolu. hazirlayin bi rte animasyonu, ince sorsun erdogan cevaplasin. "biz ergenekona kumpas derken sen ne diyordun recep?" "ben bu davanin savcisiyim"<br/>"biz fetoya feto derken sen ne diyordun recep?" "hoca efenendi bitsin bu hasret"<br/>pkk, megri megri, iki sarhos yardirsin gitsin. benimle televizyona cikmaktan bu sebeple kaciyor desin. 1 vursun sosyal medyadan 3 alsin.
   entry_channels: siyaset,haber
+- entry_name: |
+    hacettepe tıp dönem 3 finalindeki saçma soru
+  entry_id:  78328335
+  entry_writer: tarzanbaba
+  entry_fav_count: 74
+  entry_content: |
+    (bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcyor+mu+b%c3%b6yle">düşüyor mu böyle</a>)
+  entry_channels: 
+- entry_name: |
+    ince seçilirse sözlük yazarlarının yapacakları
+  entry_id:  78305201
+  entry_writer: plazma
+  entry_fav_count: 68
+  entry_content: |
+    kim seçilirse seçilsin bir şey yapmayı düşünmüyorum.<br/><br/>eğer erdoğan seçilirse zaten sevinecek bir şey yok; ülkenin parça parça dökülmesini izleriz.<br/><br/>eğer başkası seçilirse sevinme değil, deli gibi çalışma vaktidir.
+  entry_channels: siyaset,anket
 - entry_name: |
     uçakta arka koltukta ilişkiye giren çift
   entry_id:  78303010
@@ -171,6 +227,14 @@ data:
     <a class="b" href="/?q=sevi%c5%9filen+en+ilgin%c3%a7+yer">sevişilen en ilginç yer</a> başlığına entari döşeyen gururlu yazarları üzebilecek çift.
   entry_channels: ilişkiler,havacılık
 - entry_name: |
+    izmirliler muharrem ince'yi bira içerek bekledi
+  entry_id:  78328473
+  entry_writer: muhendis kizan
+  entry_fav_count: 62
+  entry_content: |
+    yozgatta erdoğan’ı eşek sikerek bekleyenlere dert olmuştur. <br/>edit:imla
+  entry_channels: siyaset,haber
+- entry_name: |
     muharrem ince'den vazgeçme eşiği
   entry_id:  78317913
   entry_writer: 29 haziran
@@ -179,29 +243,45 @@ data:
     oğlunun katil olduğunu ve onu ülkeden kaçırdığını öğrenirsem vazgeçerim sanırım.
   entry_channels: siyaset,anket
 - entry_name: |
-    izmirliler muharrem ince'yi bira içerek bekledi
-  entry_id:  78328473
-  entry_writer: muhendis kizan
-  entry_fav_count: 40
+    21 haziran 2018 3. havalimanına ilk uçağın inmesi
+  entry_id:  78330730
+  entry_writer: hadi git
+  entry_fav_count: 53
   entry_content: |
-    yozgatta erdoğan’ı eşek sikerek bekleyenlere dert olmuştur. <br/>edit:imla
-  entry_channels: siyaset,haber
+    ahahaha, abi açılmayan havaalanına uçak indirmek nedir ya. ulan türkiye’de bir sürü otoban var, istersen oraya da indirirsin, ne var ki bunda(:<br/><br/>konu bitmemiş bir havaalanına uçak indirmek değil yeğen, konu boş bir meydana karşılıksız, toplu taşıma bedava olmadan 2.5 milyon insan toplayabilmek, konu milyonların gönlünde taht kurabilmek, milyonlara umut olabilmek.
+  entry_channels: havacılık
+- entry_name: |
+    13. cumhurbaşkanı muharrem ince
+  entry_id:  78297535
+  entry_writer: raporsuz deli
+  entry_fav_count: 52
+  entry_content: |
+    biz yenilirsek kalkar yine deneriz , diktatörler yenilirse bu onların sonları olur. <br/><br/>(bkz: <a class="b" href="/?q=fidel+castro">fidel castro</a>)
+  entry_channels: siyaset
+- entry_name: |
+    21 haziran 2018 gezici anket sonuçları
+  entry_id:  78307394
+  entry_writer: ucamayan celebi
+  entry_fav_count: 50
+  entry_content: |
+    saadet partisi 7 haziranda barajı geçemeyecekken %2.2 (949 bin 636 oy) almışken 3 sene sonra baraja takılmayacağı belli iken nasıl %1.8 (59 milyon 391 bin 328 seçmen, %90 katılım =&gt; 962 bin 140 oy) alır?<br/><br/>seçim sonuçlarının çok daha farklı olacağını düşündüğüm ankettir.<br/><br/>mesajlar üzerine gelen edit: 1 kasımı değil de 7 haziranı almamın sebebi 7 haziranın sp'nin potansiyelini daha doğru yansıttığını düşünüyorum. çünkü akp'den kayan oylar istikrarsızlık korkutmasıyla 1 kasımda geri gitmişti. ayrıca o seçimde sp bbp'yle bir ittifaka gitmişti ve akp'yi tercih etmek istemeyen bbp seçmeni de sp'ye vermişti. şimdi bbp de akpyi destekliyor bu yüzden önceden sp'ye kayanlar yine kayacaktır diye düşünüyorum.
+  entry_channels: siyaset,anket
 - entry_name: |
     almanya'nın her alanda iyi olmasının nedeni
   entry_id:  78323682
   entry_writer: violent
-  entry_fav_count: 31
+  entry_fav_count: 38
   entry_content: |
     öncelikle almanya'nın iyiliğini tartışanlar olmuş. haklılar. ne anladığımızı söylemeliyiz iyilikten. şu alanların hepsinde almanya en tepededir, ilk üçtedir, beştedir:<br/>sinema, felsefe, edebiyat, doğa bilimleri, silahlar, çikolata, alkol, araba, müzik, sporlar, ev alet edevatı, kimyasal, ilaç, akademi... müzik festivaline gitmek isteyene de sunacak çok değerli bir şeyi var, tank almak isteyene de.<br/><br/>haldun üstadımızı da saygıyla anarak, coğrafya kaderdir diye başlamak istiyorum. almanların coğrafyasına tarihsel olarak bakmalıyız ilk olarak. bu adamlar kuzeyli. orman, kar ve soğuk su. orman da öyle orman ki üçte biri geçilemez statüsünde. mecburen inatçı bu adam. inatçıdan kasıt bir şeyi tutturmak değil. doğa ona hırçın davrandığı için inatçı. yürümek bile zor olduğu için inatçı. hemen yürümenin kolay olduğu ama diğer kaynakların çok kıt olduğu çöle çeviriyoruz gözümüzü. çöl insanı da sabırlıdır mesela. beklemeyi bilir. hayatı beklemekle geçer. bir acı kahvenin değerini bilir. diğer bir çöl olan arktikte yaşayan inuitler de sabırlıdır. ve kültürlerine baktığınızda onlarca ortaklık görürsünüz. en büyük zıtlık ise cinsellik veya yakınlık konusundadır. soğukta yaşayanlarda vücut ve sağladığı sıcaklık yaşamsal bir öneme de sahip olduğu için vücuda bakma şekli sadece kösnül değildir. yoldan gelen dostunun karısıyla yatmasına izin verebilir ki o da ayrı bir abartılmış konudur esasında. ormana dönecek olursak orman zor, yürümek bile zor. ama çok da verimli. avlanabilen adama yetenekli adama çok iş var. ağaçlardan dolayı yürüyemiyorsun ama vakti gelince onlardan köprüler, üç katlı binalar inşa ediyorsun. çöldeki adamın doğrudan kaynak yok. mesela hz. isa duvarcı mıydı marangoz muydu çok tartışılır. iddiam odur ki, çöl ortamında, sadece marangozlukla geçinemez kimse. hatta o meslek grubu tamamen atıl vaziyette bile olabilir. dikkat edin coğrafya ev yapma şeklimizi de belirler, materyali de. çok kar yağan bölgelerde çatılar dimdik yapılır. çok sıcak yerlerde de dümdüz yapılır, yazın çıkar orada yatarsın.<br/><br/>almanın etrafı malzeme doluydu. demir de bulurdu, odun da, altın da, av hayvanı da, türlü türlü yemiş de. bu açıdan aslında daha yumuşak coğrafyaların insanına da benziyor alman. mesela genel akdeniz kültürü. kaynaklar bol. her türlü zanaat için gerekli malzeme de var. biri mermer yontarken diğeri geometri konuşuyor öbürü altının saflığını hesaplayacak yöntem arıyor eski yunan'da. bu genişliği hem kaynaklar hem de iklim veriyor onlara. alman'ın erken dönemde böyle bir şansı yoktu. hayatın gerçekten ağır şartlarda olduğu yerlerde bazı şeyler çok hızlı gelişirken bazıları da mecburen geri kalır. alman'ın çok uzun süre iradesi, fiziği, dirayeti, kuvveti, el becerisi gelişti.<br/><br/>dinsel inançlara bakarsak da bunun çok etkili olduğunu görürüz. sabırlı ve rahat ama kaynakları kısıtlı çöl insanı bir hayli kısıtlayıcı bir dine ve ona karşılık gelen otoriteye pek ses çıkarmazken, alman'ın kanı deli akıyor. anasının nikahındaki köyümde kimse benden vergi alamaz diyor mesela. bir benzeri de ada'nın hırçın çocukları. druid mruid bin tane isimleri var ama kısaca ada halkı. özellikle de kuzeyliler. hangi çılgın bana zincir vuracakmış şaşarım diyorlar adeta. roma tarihine baktığımızda önce bu deli ingilizlerle uğraşıp canlarından bezdiklerini görürüz. roma tarihinde ilk kez "tamam lanet olsun, buradan sonrasını fethetmeyeceğiz" denen yerdir hadrian duvarı. hemen sonrasında da deli almanlarla uğraşmak zorunda kalmıştır romalılar. dinsel inanç da bundan ayrı gitmemiştir elbette. bu çılgın ruhlu üretken insan mecburen dini de yontmuştur. bu başlık altında reform diye tartışılanların çoğu aslında alman'ın bu delişmen ruhunun emaresi sadece.<br/><br/>daha yakın zamana geldiğimizde ise alman artık rahattır. 16-17. yüzyıl sonrası zaten kasabalaşma, şehirleşme, her yeri bağlayan yollar, bazı sağlık hizmetlerine erişim vs yaygınlaşmıştı. alman bir oturup nefeslendi. o dakikadan sonra türlü filozof da çıkarmıştır, edebiyatçı da, ressam da, şair de. ama fazladan bir şey vardır alman'ın elinde italyan'da veya yunan'da veya fransız'da olmayan. o da yüzlerce yılda kalınlaşmış derisi. inatçı dağ adamı yavaş yavaş geldi, şehirleşti ve gösterdi ki istediğinde herkes kadar kibar da olabiliyor. immanuel kant işte tam buradaki sembol adamdır. 157'lik boyuyla alman'ın bilgeliğini alıp, ufacık vücudunda damıtıp ötekinin diliyle onu yenmiştir. alman artık sadece 195'lik ormancı değil, 157'lik kant'tır da. tam o dönemlerde bir de alman'ın aslında çoğunlukla dert olarak görülen bir avantajı daha vardır. almanya 200-300 ufak beylik, prenslik, kasaba artık ne derseniz onlardan oluşmaktadır. rus'un ve türk'ün 100-200 yıl sonra deneyip de başarısız olacağı, geniş bir sathı kalkındırmak projesi, alman'da kendiliğinden olmuştur bu 200-300 kentlik yapı sebebiyle. 300 tane kent demek, 300 farklı yerde sürdürülebilir ekonomi var demek. türkiye'de bugün bile bu sayı bu kadar yüksek değildir iddia ediyorum. rus ve türk bunu merkezi sistemlerle yapmaya çalıştı. öğretmen, köy vs enstitüleri. köylüye bilgiyi götürme çabaları. bir nevi kültürlenme hareketi. finlandiya'nın da benzer bir şeyler yürütüp başardığı varsayılabilir ancak finlandiya'nın nüfus yoğunluk dağılımına baktığımızda, nisbeten ufacık bir alanda toplandığını görüyoruz. yani çok büyük bir coğrafyayı kalkındırmak zorunda değillerdi sandığımız kadar. güney'deki beşte birlik bölge yeterli oldu belki de.<br/><br/>alman'ın inatçı, kuralcı, iradeli, el becerisi yüksek doğası onu bugün olduğu yere getirdi. ingiliz için de aynısı söylenebilir, benzer basamakları bir adım geriden tırmanan norveç, isveç ve hatta izlanda için de. mızmızlanmak yerine doğayla güreşmek gereken coğrafyaların çocukları yükselmeye devam edeceklerdir bu tözü kaybetmedikleri müddetçe.
   entry_channels: siyaset,anket,bilim,tarih,teknoloji,eğitim
 - entry_name: |
-    rte'ye hakaret edip ifade özgürlüğü yok demek
-  entry_id:  78323347
-  entry_writer: kfy1907
-  entry_fav_count: 28
+    msgsü devlet konservatuvarı tahliye kararı
+  entry_id:  78320985
+  entry_writer: the nile song
+  entry_fav_count: 25
   entry_content: |
-    sözlüğün en güzel kızı ile hiç yakışıklı olmayan erkeği sıçma-sıvama partnerliği.
-  entry_channels: siyaset,anket,ilişkiler
+    istanbul beşiktaş’taki başbakanlık binasının hemen yanında bulunduğundan dolayı “sakıncalı” görülen yerleşkemizin, 26 haziran günü tahliyesi isteniyor, üstelik fakültenin yerleşebileceği yeni bir adres de önerilmeden. <br/><br/>biz zaten fakültemizi bırakmaya katiyyen niyetli değiliz. enstrüman seslerinin havada uçtuğu binamızda, minik topuzlarıyla kuğuları andıran balerin kızlarıyla, dünya çapında ülkemizi temsil eden birbirinden başarılı sanatçılarımızla, sakıncalı görüldük. <br/>gitmesi gereken biz değiliz. sizsiniz. <br/><br/>üniversitenin websitesine girince rektörümüzün konuyla ilgili açıklamasını göreceksiniz;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.msgsu.edu.tr/">http://www.msgsu.edu.tr/</a><br/><br/>buraya konuyla ilgili diğer haber başlıklarını da bırakıyorum;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/msgsu-devlet-konservatuari-kapatiliyor-220345.html" title="https://www.birgun.net/haber-detay/msgsu-devlet-konservatuari-kapatiliyor-220345.html">https://www.birgun.net/…ari-kapatiliyor-220345.html</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/www.sozcu.com.tr/2018/gundem/mimar-sinana-tahliye-soku-cikmazsaniz-elektriginizi-suyunuzu-keseriz-2478570/amp/" title="https://www.google.com.tr/amp/s/www.sozcu.com.tr/2018/gundem/mimar-sinana-tahliye-soku-cikmazsaniz-elektriginizi-suyunuzu-keseriz-2478570/amp/">https://www.google.com.tr/…uzu-keseriz-2478570/amp/</a><br/><br/>ek: kusura bakmayın, çok gergin olduğumdan dolayı iki lafı bir araya getirememiş olabilirim. destek olursanız çok hora geçer.
+  entry_channels: 
 - entry_name: |
     devlet bahçeli'nin kıraathane yorumu
   entry_id:  78297280
@@ -227,29 +307,13 @@ data:
     iyi sevişen insan yoktur arkadaşlar. iyi sevişen çift vardır, şunu bir anlayın. bir erkek “ben iyi sevişirim, çıkarmadan 5” falan diyorsa kesinlikle uzak dururum. bi kere seçiciliği yoktur. <br/><br/>karşındaki kişi senin için tahrik ediciyse iyi sevişirsin. etkileşim meselesi bu. çok arzuluyorsan ve arzulandığını hissediyorsan iyi sevişirsin. hasbelkader karşı cins düşürüp yokluktan sevişiyorsan işimi bitireyim gideyim edasında takılırsın. bu kadın için de erkek için de böyle. <br/><br/>karşındaki kişiden hoşlanıyorsan oral seks yapmak, dokunmak, sarılmak, farklı pozisyonlarda karşındakine zevk vermek içinden gelir. bu içinden gelme mevzusu da partner tarafından farkedilir ama çoğu kez yanlış farkedilir: “yaa çok kötüydü, ölü gibi yattı” ya da “çok kötüydü, duygusuzdu, benim zevk almamı önemsemedi” dediğinizde bilin ki karşı taraf aslında kötü sevişmiyor. sadece sizi yeterince arzulamamış. <br/><br/>cinsel açlık kötü şey. masturbasyonu tutkusuz bir sevişmeye tercih ederim.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    sevgilisinden ayrılan kızın harakiri yapması
-  entry_id:  78318694
-  entry_writer: arcticlight
-  entry_fav_count: 20
-  entry_content: |
-    valla cocugun verilmis sadakasi varmis ki olay kameranin onunde gerceklesmis. evde ya da piknikte yalnizken olsaydi, cocugun basini yakardi. bir de nasil bir erkekse arkadas bu kendi canindan vazgecirtecek?
-  entry_channels: ilişkiler,haber
-- entry_name: |
-    21 haziran 2018 sonar seçim anketi
-  entry_id:  78325810
-  entry_writer: baysakal
+    21 haziran 2018 çözüm perinçek mitingi
+  entry_id:  78313488
+  entry_writer: neapacuz
   entry_fav_count: 19
   entry_content: |
-    birazdan gelecek sonuçlar. ilginç sonuçlar olduğu söyleniyor. edit gelecek.<br/><br/>ilk tur:<br/>rte:47<br/>ince:33<br/><br/>ikinci tur:<br/>rte: 48.5-49.0<br/>ince:51.0-51.5<br/><br/>detaylar eklendikçe gelecek.<br/>kaynak: fidel okan.
-  entry_channels: siyaset,anket
-- entry_name: |
-    hacettepe tıp dönem 3 finalindeki saçma soru
-  entry_id:  78328335
-  entry_writer: tarzanbaba
-  entry_fav_count: 18
-  entry_content: |
-    (bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcyor+mu+b%c3%b6yle">düşüyor mu böyle</a>)
-  entry_channels: 
+    beşiktaş meydanda trafik ışıklarında bekleyenlerin daha kalabalık gözükeceği miting olacaktır.
+  entry_channels: siyaset,haber
 - entry_name: |
     krep yapan erkek
   entry_id:  78320491
@@ -259,26 +323,10 @@ data:
     benimdir bu. krepi tavaya döküyorum oluyor basit, bazen aksiyon olsun diye havada çeviriyorum.<br/><br/>but im a krep<br/>im a weirdough
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    21 haziran 2018 çözüm perinçek mitingi
-  entry_id:  78313488
-  entry_writer: neapacuz
-  entry_fav_count: 15
-  entry_content: |
-    beşiktaş meydanda trafik ışıklarında bekleyenlerin daha kalabalık gözükeceği miting olacaktır.
-  entry_channels: siyaset,haber
-- entry_name: |
-    msgsü devlet konservatuvarı tahliye kararı
-  entry_id:  78320985
-  entry_writer: the nile song
-  entry_fav_count: 14
-  entry_content: |
-    istanbul beşiktaş’taki başbakanlık binasının hemen yanında bulunduğundan dolayı “sakıncalı” görülen yerleşkemizin, 26 haziran günü tahliyesi isteniyor, üstelik fakültenin yerleşebileceği yeni bir adres de önerilmeden. <br/><br/>biz zaten fakültemizi bırakmaya katiyyen niyetli değiliz. enstrüman seslerinin havada uçtuğu binamızda, minik topuzlarıyla kuğuları andıran balerin kızlarıyla, dünya çapında ülkemizi temsil eden birbirinden başarılı sanatçılarımızla, sakıncalı görüldük. <br/>gitmesi gereken biz değiliz. sizsiniz. <br/><br/>üniversitenin websitesine girince rektörümüzün konuyla ilgili açıklamasını göreceksiniz;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.msgsu.edu.tr/">http://www.msgsu.edu.tr/</a><br/><br/>buraya konuyla ilgili diğer haber başlıklarını da bırakıyorum;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/msgsu-devlet-konservatuari-kapatiliyor-220345.html" title="https://www.birgun.net/haber-detay/msgsu-devlet-konservatuari-kapatiliyor-220345.html">https://www.birgun.net/…ari-kapatiliyor-220345.html</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/www.sozcu.com.tr/2018/gundem/mimar-sinana-tahliye-soku-cikmazsaniz-elektriginizi-suyunuzu-keseriz-2478570/amp/" title="https://www.google.com.tr/amp/s/www.sozcu.com.tr/2018/gundem/mimar-sinana-tahliye-soku-cikmazsaniz-elektriginizi-suyunuzu-keseriz-2478570/amp/">https://www.google.com.tr/…uzu-keseriz-2478570/amp/</a><br/><br/>ek: kusura bakmayın, çok gergin olduğumdan dolayı iki lafı bir araya getirememiş olabilirim. destek olursanız çok hora geçer.
-  entry_channels: 
-- entry_name: |
     akp'li adayın pazarda vatandaşa saldırması
   entry_id:  78325391
   entry_writer: explorateur
-  entry_fav_count: 12
+  entry_fav_count: 17
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>'ülkeyi bu hale siz getirdiniz' diyen vatandaşın üzerine yürüyen demir, "saygısız köpek. asıl siz getirdiniz ahlaksız. şunu ben aldırayım da buradan kessin sesini şerefsiz!" diye bağırdı.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: 
@@ -286,7 +334,7 @@ data:
     steam
   entry_id:  78329873
   entry_writer: gandalf the gay
-  entry_fav_count: 10
+  entry_fav_count: 15
   entry_content: |
     abi adam steam için geleceğini parlak görmüyorum diyor. hocam kafan mi güzel sen mi avanaksin anlayamadım. adamlar sırf dota turnuvasından her sene 60-70milyon euro kâr ediyor bak sadece bir oyundan. gözünüzü seveyim bilmediğiniz konularda konuşmayın.
   entry_channels: programlama,oyun,teknoloji
@@ -294,18 +342,10 @@ data:
     cnn türk
   entry_id:  78329149
   entry_writer: skip add
-  entry_fav_count: 9
+  entry_fav_count: 15
   entry_content: |
     ince medyayı eleştirince hemen yayını kesmiş lanet ve yandaş kurum
   entry_channels: tv,haber
-- entry_name: |
-    bıçak parası soygununun sona erdirilmesi
-  entry_id:  78326687
-  entry_writer: satilanmaligerialirizamazorluk cikaririz
-  entry_fav_count: 9
-  entry_content: |
-    olması gerekeni minnet gibi sunuyorsunuz. her ay maaşımdan kesilen sgk kesintisine rağmen bıçak parası vermem zaten başlı başına bir saçmalık. <br/>bunun başka versiyonu yol yaptı diyen tipler, sanki yolu cebindeki parayla yapmış.<br/>devletin görevi bu, artık anlayın.<br/>devlet bunları da yapmayacaksa vergi niye verelim?<br/>hangi çağdayız bir kafanı kaldır bak.
-  entry_channels: sağlık,ekonomi
 - entry_name: |
     muharrem ince
   entry_id:  78301066
@@ -323,14 +363,6 @@ data:
     bu yıl kendisini londra sanan bir ankara'ya tanıklık ediyoruz. şahsen şikayetçi değilim ben.
   entry_channels: tarih
 - entry_name: |
-    mimar sinan müzik bölümünün kapatılması
-  entry_id:  78322049
-  entry_writer: sosyalcikinti
-  entry_fav_count: 5
-  entry_content: |
-    müzik ve sahne sanatları bölümlerinin yer aldığı, beşiktaş’taki msgsü istanbul devlet konservatuarı ,başbakanlık çalışma ofisi’nin yanında bulunmasının 'sakıncalı' bulunduğu belirtiliyor.<br/><br/>istanbul beşiktaş’ta bulunan mimar sinan güzel sanatlar üniversitesi (msgsü) istanbul devlet konservatuarı binası kapanıyor. başbakanlık çalışma ofisi’nin yanında bulunduğu gerekçesiyle binanın 26 haziran salı günü kapanacağı bildirildi.<br/><br/>binada müzik bölümleri ve tiyatro, opera, bale gibi sahne sanatları bölümleri yer alıyor.<br/><br/>rektörlükten açıklama: istanbul devlet konservatuvarı'nın tahliye edilmesi kabul edilebilecek bir şey değildir<br/><br/>msgsü rektörlüğü web sitesinden konuya ilişkin bir açıklama paylaştı. tahliye kararının hukuka aykırı olduğu ve istanbul devlet konservatuvarı’nın tahliye edilmesinin kabul edilebilecek bir şey olmadığını belirten açıklamanın tamamı şu şekilde:<br/><br/>"değerli öğretim üyesi, sevgili öğrencimiz,<br/><br/>üniversitemize bağlı istanbul devlet konservatuvarı'nın, t.b.m.m. başkanlık divanı kararına binaen, türkiye büyük millet meclis başkanlığı’na bağlı müzecilik ve tanıtım başkanlığı’nın 05/07/2017 tarih, 61534870-756.01-107711 sayılı tahsis protokolü’nün (18/10/1984 tarih ve 33 sayılı protokol), iptaline ilişkin yazı ile tahliye edilmesi kararı tebliğ edilmiştir.<br/><br/>doğal olarak, hukuka aykırı bir şekilde alınan bu karar ile ve üstelik herhangi bir yer gösterilmeden, nereye ve nasıl olacağı meçhul bir şekilde, meclis genel sekreteri başta olmak üzere, müzecilik tanıtım daire başkanlığı ve kimi diğer bürokratların keyfi projelerinin uygulanması adına, istanbul devlet konservatuvarı’nın tahliye edilmesi kabul edilebilecek bir şey değildir.<br/><br/>bu süreç zarfında, hukuka aykırı alınan bu karara karşı, ivedilikle sorun devlet'in en üst kademeleri ile paylaşılmış ve idari süreç başlatılmıştır.<br/><br/>ancak, yargı sürecinin devam etmesine ve hakkımızda açılmış herhangi bir tahliye davası kararı mevcut olmamasına rağmen, t.c. beşiktaş kaymakamlığı 12/06/2018 tarih ve 25266420-215.02-e.2711 sayılı yazı ile konservatuvar’ımızın 26/06/2018 salı günü saat 13:30'da tahliyesinin yapılacağını tebliğ etmiştir. bu tebligat üzerine ivedilikle, üniversitemiz tarafından idari mahkemede yeni bir hukuki süreç başlatmıştır.<br/><br/>6 yaşından 25 yaşına kadar, ilköğretimden yüksek öğretime dek, eğitim gören ve gerek ulusal gerekse uluslararası yarışmalarda sayısız başarılara sahip, ülkemiz ve üniversitemizin göz bebeği olan 1400 öğrencimizin, öğretim elemanlarının ve konservatuvar çalışanlarının, sokağa atılması ve söz konusu binanın boşaltması, eğitim ve öğretimin sağlıklı bir şekilde yürütülebileceği yeni bir yerleşke gösterilmeden asla kabul edilemez. böylesi bir işleme tevessül edenler açıkça anayasa'nın 42’nci maddesi'ni ihlal etmiş olurlar.<br/><br/>üniversitemizin tüm kademelerinde görev yapan yöneticilerin ve öğretim üyelerimizin, öğrencilerimizden ve onların geleceklerinden sorumlu olduğu ve bu hususta geri adım atmanın asla söz konusu olamayacağı açık ve nettir.<br/><br/>üniversitemiz senatosu'nun, istanbul devlet konservatuvarı’nda 26 haziran 2018 salı günü saat 12:00'de yapacağı toplantının ardından, tüm öğrenci ve öğretim üyelerimize konu ve gelişmeler hakkında, üniversitemiz istanbul devlet konservatuvarı yerleşkesi’nde bilgi verilecektir.<br/><br/>saygı ve sevgilerimizle,<br/><br/>mimar sinan güzel sanatlar üniversitesi rektörlüğü "
-  entry_channels: siyaset,sanat,müzik,haber,eğitim
-- entry_name: |
     steam summer sale 2018
   entry_id:  78308539
   entry_writer: antonin artaud
@@ -338,22 +370,6 @@ data:
   entry_content: |
     bu akşam itibariyle başlayacak indirimlerdir. çok büyük bir değişiklik olmazsa son yıllardaki düzeni koruyacak ve indirim süresi boyunca tüm oyunlar görecekleri en düşük miktarı görecektir. (eskiden günlük ve saatlik flaş indirimler oluyordu şimdi olmuyor). özellikle ilk indirimi olacaklara tavsiyeler:<br/><br/>- steam indirimin ilk saatleri çökecektir, sabırlı olun.<br/>- indirim boyunca çok muhtemel bir rozet görevi + kart düşürme görevleri olacaktır. 3-5 kuruş bakiyenize eklemek ya da steam seviyenizi geliştirmek için bunun takipçisi olun. (rozet görevi zaten anasayfada duyurulur, ayrıca keşif kuyruğu incelenerek günde 3 kart düşürülür olayları olacak)<br/>- bir değişiklik olmazsa oyunlar indirim kampanyası boyunca daha fazla indirim görmeyecekler. yani eskisi gibi acaba daha büyük bir indirim alır mı derdi yok.<br/>- indirimler genelde ilk günün ilk 3-4 saati bug görebiliyor, indirimsiz ya da düşük indirimli olabiliyor, bunlar daha sonra düzeliyor.<br/>- beklentinizi çok aşırı yüksek tutmayın, nitekim dolardaki kur artışı nedeniyle steam de fiyatlarını güncelliyor. <br/>- istek listenize bakmayı unutmayın.<br/>- indirim gazına gelip oynamayacağınız yüzlerce oyun boşuna almayın. <a class="b" href="/?q=swh">swh</a>
   entry_channels: oyun
-- entry_name: |
-    akp adayının dağıttı simidi kimsenin almaması
-  entry_id:  78328203
-  entry_writer: tarkkuus kapansson
-  entry_fav_count: 4
-  entry_content: |
-    üst edit : başlık "akp adayının dağıttığı simidi kimsenin almaması" olacaktı, elbet bir gün düzeltilir.<br/><br/>akp adayı, karakoy’deki kadıköy iskelesi önünde vapurdan inenlere simit dağıtıyor ama tek kişi almıyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Anu7DbHLZVo" title="https://youtu.be/Anu7DbHLZVo">video</a><br/><br/>geçen seçimde lokum ikram etmişlerdi, "haram yemiyorum, teşekkür ederim" dediğimde çok bozulmuşlardı :)
-  entry_channels: 
-- entry_name: |
-    yaz yağmuru ile felç olan başkent
-  entry_id:  78327423
-  entry_writer: dnazr
-  entry_fav_count: 2
-  entry_content: |
-    fıskiye sağolsun, yirmi yılda bu kadar içine sıçabildi.
-  entry_channels: 
 - entry_name: |
     sensiz olmaz hareketi sandık güvenliği
   entry_id:  78300451
@@ -363,29 +379,21 @@ data:
     sandıkların korunmasının önemini bilmeyen sanırım yoktur. bazı illerdeki sandıkların korunması çok daha büyük önem taşıyor. <br/><br/><a class="b" href="/?q=te%c4%9fmen+mehmet+ali+%c3%a7elebi">teğmen mehmet ali çelebi</a> gönüllü 500 kişi ile birlikte şanlıurfa'ya sandıkları korumak üzere gitmeyi teklif etti. 100 kişi gönüllü oldu. gitmek isteyip bir sebepten gidemeyen, engeli olan ama maddi imkanı olan, gidebilen ama maddi olanağı olmayana destek oldu. bu güzel dayanışma ile kendi oylarından feragat ederek gidiyorlar. biliyorlar ki, bir müşahit yüzlerce oyun bulunduğu bir sandığı koruyacak. 500 müşahit toplamda 500 sandık ve milyonlarca oyun adil olarak sayılmasına ve korunmasına vesile olacak. görevin kutsallığına bakar mısınız?<br/><br/>yukarı en başa çıkın başlık altına yazılan ilk başlığı okuyun, bu güzel hareketin siz de bir parçası olun....<br/><br/>tekrar hatrlatmış olalım <a class="b" href="/?q=istanbul+i%c3%a7in+de+m%c3%bc%c5%9fahit+olmak+isteyenler">istanbul için de müşahit olmak isteyenler</a> bazı okullardaki müşahit sayısını arttırmakta fayda görüyoruz. lütfen <a class="b" href="/?q=adilsecim2018%40gmail.com">adilsecim2018@gmail.com</a> adresine ad- soyad, il-ilçe ve telefon numarasını yazabilirseniz, sizi hızlıca yönlendirebilir müşahit olmanızı sağlayabiliriz.<br/><br/>yukarı lütfen...
   entry_channels: siyaset
 - entry_name: |
-    15 yıl önce evlerde fırın buzdolabı yoktu
-  entry_id:  78301704
-  entry_writer: yogurdum eksi degil
-  entry_fav_count: 1
-  entry_content: |
-    sanki eski recep gitti, yerine hödük birisi geldi. hem sıçıyor hem de sıvıyor.
-  entry_channels: siyaset,haber
-- entry_name: |
-    23 haziran 2018 muharrem ince istanbul mitingi
-  entry_id:  78297160
-  entry_writer: bir nickim olsun yeter
+    türkiye'nin en güzel kızlarının olduğu il
+  entry_id:  78305806
+  entry_writer: a summer day
   entry_fav_count: 0
   entry_content: |
-    gidip oradaki mutluluktan, umuttan, keyiften,neşeden payımı almak istiyorum. o bütünün bir parçası olmak bana iyi gelecek. <br/>siyah beyaz formam ile orada olacağım.
-  entry_channels: siyaset,haber
+    4 aydir izmir' de yasiyorum. o kadar cok guzel, cekici, bakimli, aurasi olan kadin var ki hangisine bakacagimi sasirdim. hepsi fit, hepsi seksi, hepsi guleryuzlu, hepsi hos giyiniyor, hepsi samimi, hepsi sicakkanli. <br/><br/>ama o kadar. dengesizlik , ilgi budalaligi, kirk yasinda olanlarinda bile yerlesmis ergence tavirlarla kusatilmislar. <a class="b" href="/?q=ankara">ankara</a>' nin kadinlari asla bu kadar auraya, piriltili bir cazibeye sahip degildirler. ama doyamazsin ankara' nin kadinina. siyaset de bilir, zarafet de bilir, edebiyat da bilir, dost da olur seks tanricasi da. karsinda ici dolu dolu bir kadın bulursun. ama izmir' de bakmalara, arzulamaya doyamayacagin ama biseyler yasadiginda ne isim var lan burada hissi yasatan, ambalaji hos ici bos kadinlar var malesef.
+  entry_channels: anket
 - entry_name: |
-    22 haziran 2018 muharrem ince ankara mitingi
-  entry_id:  78305151
-  entry_writer: filesiz pota
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  78299106
+  entry_writer: osibisa
   entry_fav_count: 0
   entry_content: |
-    ekim 2002. gününü hatırlamıyorum, tandoğanda tayyip erdoğan mitinginden sonra katılacağım ikinci miting. o zaman lisedeydim ve oy kullanmıyordum. arkadaşların gazıyla gitmiştik gayet coşkulu bir ortam vardı. o dönemde oy kullansam açık konuşayım tayyibe atacaktım ki ailem de attı. şuan ailemizin tüm üyeleri ince ve akşenere döndü. çünkü siyaseti takım tutmak olarak görmeyip mantığımızın yolunda gidiyoruz. ve yarın 16 yıl sonra meydandayım!
-  entry_channels: siyaset,haber
+    her cuma 23:00’te twitch kanalımızda canlı yayındayız. paylaşmak istediklerinizi, dertlerinizi canlı yayında seve seve dinleriz. dilimiz döndüğünce yorumlarız. geçmiş kayıtlarımızı youtube kanalımızdan dinleyebilirsiniz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.twitch.tv/humbulusfm">https://www.twitch.tv/humbulusfm</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UCEgerUy1f95ErkdkORex8ew?view_as=subscriber" title="https://www.youtube.com/channel/UCEgerUy1f95ErkdkORex8ew?view_as=subscriber">https://www.youtube.com/…orex8ew?view_as=subscriber</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     21 haziran 2018 fransa peru maçı
   entry_id:  78327932
@@ -394,12 +402,4 @@ data:
   entry_content: |
     ilk yarısını kaçırdım maçın, geldim açtım ikinci yarıyı, sözlüğe göz atayım dedim. bi baktım fransa güzellemeleri havada uçuşuyor. yok şampiyon gibi oynuyor yok efendim top göstermiyor. ikinci yarı o kadar kötü oynuyor ki fransa dedim herhalde başka maçı açtım. ya da fransa öldü, şu an sahadaki fransa kohen. o kadar leş.
   entry_channels: spor
-- entry_name: |
-    2018 dünya kupasını tek cümle ile özetle
-  entry_id:  78327834
-  entry_writer: saksaan86
-  entry_fav_count: 0
-  entry_content: |
-    <a class="b" href="/?q=aykut+kocaman">aykut kocaman</a>
-  entry_channels: spor,anket
 ---
