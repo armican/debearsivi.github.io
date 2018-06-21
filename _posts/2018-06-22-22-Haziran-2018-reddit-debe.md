@@ -43,6 +43,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yuLjpuBWpw9E2mu6LjaBBJIo9tCF2jV09N-eapu5_dI.jpg?s=8f46218a2a0fa263fd88cc6a026373e3 frameborder=0>
 - entry_name: |
+    The Gorilla Foundation is sad to announce the passing of our beloved Koko
+  entry_id: 8spsnk
+  entry_content: |
+    <img src=https://i.redditmedia.com/mCvVviVGk2Zpjejh7-sHlMpHNHAX5OHNAFJutoRG5V8.jpg?s=e68f9ae7980cc14b900e5d874dd87344 frameborder=0>
+- entry_name: |
     The holes in the top of my curtain project an image of the street below onto my ceiling
   entry_id: 8sl0vw
   entry_content: |
@@ -53,19 +58,19 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8nrgJHkez8IHoxZU99sBEed5oNfgoXhU59vMs0vGWhI.jpg?s=76c0f319ffc210ffd586bfd6a8c205ee frameborder=0>
 - entry_name: |
-    The Gorilla Foundation is sad to announce the passing of our beloved Koko
-  entry_id: 8spsnk
+  entry_id: 8smpmi
   entry_content: |
-    <img src=https://i.redditmedia.com/mCvVviVGk2Zpjejh7-sHlMpHNHAX5OHNAFJutoRG5V8.jpg?s=e68f9ae7980cc14b900e5d874dd87344 frameborder=0>
+    <img src=https://i.redditmedia.com/sAc-EjN5zkO_NWtQlYIdagl4e6Huk65wxLQdb6HzWOc.jpg?s=7f18d12df4fdc9ebb8e5ace7dbd65cec frameborder=0>
 - entry_name: |
     EU hits back at Donald Trump with billions in tariffs on Bourbon whiskey, jeans and motorcycles
   entry_id: 8skr8p
   entry_content: |
     <img src=https://i.redditmedia.com/IGHtU9ktgNO0TAEVEPAVzeHm34dNDi_8LeYNxTFlYo8.jpg?s=1ca15d6e672c474e15232555840d47cc frameborder=0>
 - entry_name: |
-  entry_id: 8smpmi
+    Train in Kyoto, Japan.
+  entry_id: 8sr7wk
   entry_content: |
-    <img src=https://i.redditmedia.com/sAc-EjN5zkO_NWtQlYIdagl4e6Huk65wxLQdb6HzWOc.jpg?s=7f18d12df4fdc9ebb8e5ace7dbd65cec frameborder=0>
+    <img src=https://i.redditmedia.com/bGLQDaICBwMuYYEeHbcSMnMzeM8HOikXb0D4cZ_e5Cs.jpg?s=86ef926b9e672d6b2fe57507245a83d1 frameborder=0>
 - entry_name: |
     He wasn't even looking!
   entry_id: 8sljy6
@@ -87,6 +92,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
+    We have supported this game since early access. PUBG has made over $730 million dollars. Yet, it's still not optimized, cheaters are rampant, crates are locked behind keys. Even after charging $30 for the game, they now introduce this $9.99 Event Pass.
+  entry_id: 8sp9e4
+  entry_content: |
+    null
+- entry_name: |
     TIL: Einstein Wrote a 1935 New York Times Obituary upon Emmy Noether's demise to highlight her mathematical genius, which was oft-overlooked because of her gender.
   entry_id: 8skhje
   entry_content: |
@@ -97,35 +107,35 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7ykmi8az17511/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    We have supported this game since early access. PUBG has made over $730 million dollars. Yet, it's still not optimized, cheaters are rampant, crates are locked behind keys. Even after charging $30 for the game, they now introduce this $9.99 Event Pass.
-  entry_id: 8sp9e4
-  entry_content: |
-    null
-- entry_name: |
     My mom won her battle with cancer back in May and loves to greet me by showing me how much her hair has grown since last I saw her. Today, she was SO excited to show me the World's Tiniest Fauxhawk.
   entry_id: 8sm1xk
   entry_content: |
     <img src=https://i.redditmedia.com/_Pb6kN3rRZaW6xsvyBTcUV1aZETlFrUjatj24YBbCnw.jpg?s=22ad12dc7369db52ed49f8a02797df22 frameborder=0>
 - entry_name: |
-    Important truth
-  entry_id: 8smmul
+    Cat needed a blood test so he got a small sedative and is now tripping balls.
+  entry_id: 8sqpki
   entry_content: |
-    <img src=https://i.redditmedia.com/D5ZouibupKfb4whmZcQd9VdY3AI1Kfu8yjK6-YGmLMw.jpg?s=003b7790d1c54eb0316bdf55c2b01473 frameborder=0>
+    <img src=https://i.redditmedia.com/UdQA_zFgv-SSNXJ24BmesyIdMSbTcE6ubTa6mKngb6g.jpg?s=342086c2de3efe8d2d82739af903bdb1 frameborder=0>
+- entry_name: |
+    Last man sitting battle royale game where players wheel around on office chairs.
+  entry_id: 8sr4h0
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImaginaryElectricIsabellineshrike&url=https%3A%2F%2Fgfycat.com%2FImaginaryElectricIsabellineshrike&image=https%3A%2F%2Fthumbs.gfycat.com%2FImaginaryElectricIsabellineshrike-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=438 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     PsBattle: Angry Xfinity customer
   entry_id: 8snodl
   entry_content: |
     <img src=https://i.redditmedia.com/BS546_lE2Oi_Gd0nro4bcuuu0Av-k4TqFiq_Rp4D_Z4.jpg?s=abac440026160d8212300d95315faf5f frameborder=0>
 - entry_name: |
+    Important truth
+  entry_id: 8smmul
+  entry_content: |
+    <img src=https://i.redditmedia.com/D5ZouibupKfb4whmZcQd9VdY3AI1Kfu8yjK6-YGmLMw.jpg?s=003b7790d1c54eb0316bdf55c2b01473 frameborder=0>
+- entry_name: |
     A laptop...
   entry_id: 8skg7o
   entry_content: |
     <img src=https://i.redditmedia.com/p-0A6vjfCpbo16g0pl3Oy4vTlqnlNW2FN5HOo0AlDSQ.jpg?s=c8ec0170909ffae3797b737c8baa99fc frameborder=0>
-- entry_name: |
-    2013 is the first year since 1987 to have different numbers.
-  entry_id: 8sk1jd
-  entry_content: |
-    null
 - entry_name: |
     My sister recently got in to cross stiching
   entry_id: 8sni4m
@@ -142,25 +152,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TsvQf4gUyNjEGYL0gzHG4qhkmvyGuxXH0vYt-8B0oaA.jpg?s=4774d32b8593e1a76533ad2ad0eddf26 frameborder=0>
 - entry_name: |
+    Don't touch me!
+  entry_id: 8sqyfd
+  entry_content: |
+    <iframe src=https://v.redd.it/jyzeoiqm2c511/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     WCGW if I get in a fight with Jesus Christ
   entry_id: 8slfyc
   entry_content: |
     <iframe src=https://v.redd.it/pqy7qvlpo7511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Train in Kyoto, Japan.
-  entry_id: 8sr7wk
+    One day in the future, Donald Trump has a heart-attack and dies.
+  entry_id: 8sli0v
   entry_content: |
-    <img src=https://i.redditmedia.com/bGLQDaICBwMuYYEeHbcSMnMzeM8HOikXb0D4cZ_e5Cs.jpg?s=86ef926b9e672d6b2fe57507245a83d1 frameborder=0>
+    null
 - entry_name: |
     Anon is a soldier
   entry_id: 8skhbp
   entry_content: |
     <img src=https://i.redditmedia.com/QaB9Dvx5fA5FEDsMpL2IE0tCi5MmXsjI_Xfss_CjExM.jpg?s=f657314e481ba72ea6a2c753447e299e frameborder=0>
-- entry_name: |
-    One day in the future, Donald Trump has a heart-attack and dies.
-  entry_id: 8sli0v
-  entry_content: |
-    null
 - entry_name: |
     Mimosa Leaves Closing
   entry_id: 8sliir
@@ -175,11 +185,6 @@ data:
   entry_id: 8snjpn
   entry_content: |
     <img src=https://i.redditmedia.com/mKWM337MTTlJl7ucmn6_u-xuLvkyaZg_nhxeLNQORXw.jpg?s=9ec9bf3eb03400aec8effe69cd65eadb frameborder=0>
-- entry_name: |
-    Cat needed a blood test so he got a small sedative and is now tripping balls.
-  entry_id: 8sqpki
-  entry_content: |
-    <img src=https://i.redditmedia.com/UdQA_zFgv-SSNXJ24BmesyIdMSbTcE6ubTa6mKngb6g.jpg?s=342086c2de3efe8d2d82739af903bdb1 frameborder=0>
 - entry_name: |
     Fuck this shit
   entry_id: 8skdgr
@@ -206,10 +211,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/v8JNA_L7gQuEzqakp8p3OrMOaoCMDCA1HU3lgvYlUys.png?s=5baeff2fc0327b9f7a415f68603ea833 frameborder=0>
 - entry_name: |
-    Last man sitting battle royale game where players wheel around on office chairs.
-  entry_id: 8sr4h0
+    South Africa: Constitutional Court rules that political parties must disclose their private donors.
+  entry_id: 8sqq8n
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImaginaryElectricIsabellineshrike&url=https%3A%2F%2Fgfycat.com%2FImaginaryElectricIsabellineshrike&image=https%3A%2F%2Fthumbs.gfycat.com%2FImaginaryElectricIsabellineshrike-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=438 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/LEG7z2dpwRqFtrZYvu-aljxQPBTHUp4Q9MkjzPPAbNY.jpg?s=53d678f44921f8f6cf7bd85b68fee2b6 frameborder=0>
+- entry_name: |
+    lets boycott solo guys
+  entry_id: 8sqdas
+  entry_content: |
+    <img src=https://i.redditmedia.com/Nx_TCKi0hMz-sN7AQ1HG9lhR5vaJO-vLs4k2yBolDzM.jpg?s=7efa4f654ab06945298c5d885909fa7e frameborder=0>
 - entry_name: |
     Trudeau says pot will be legal as of Oct. 17, 2018 | CBC News
   entry_id: 8sl1ln
@@ -221,33 +231,23 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3a18zc00l8511/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    “Retriever” is not the most accurate label for my dog.
-  entry_id: 8skh3w
-  entry_content: |
-    <iframe src=https://v.redd.it/6epfbahh37511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Mine is obviously the third pupper
   entry_id: 8sns0l
   entry_content: |
     <img src=https://i.redditmedia.com/R5wu9wKvtkMn3IiO95EsVoYSOw6Ci4KnAVsN5KUn7ug.jpg?s=c2a41c72b2f46130f1d85dafc6eb935b frameborder=0>
+- entry_name: |
+    “Retriever” is not the most accurate label for my dog.
+  entry_id: 8skh3w
+  entry_content: |
+    <iframe src=https://v.redd.it/6epfbahh37511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I make soap for a living and I finally made the tastiest looking morsels
   entry_id: 8smjar
   entry_content: |
     <img src=https://i.redditmedia.com/CsVo_ixEI_YuVUVgjmMzjoNpSfkxRZCRjKKDbvRQAgI.jpg?s=be25905afba64b1f11f1283c7f298157 frameborder=0>
 - entry_name: |
-    Instead of 'Death to America,' Iran is now just posting photos of migrant children in U.S. cages
-  entry_id: 8smsxq
+    Wall-E forever
+  entry_id: 8sq2ct
   entry_content: |
-    <img src=https://i.redditmedia.com/vI6BN-rajTNX1blgqm9ibl36Qj4SFQbhyTx8_vmnUvs.jpg?s=2c2e05dff5600dba2e4c5ac0e7eb1d63 frameborder=0>
-- entry_name: |
-    Using a tablet and accelerometer to explore an MRI scan
-  entry_id: 8sktfk
-  entry_content: |
-    <img src=https://i.redditmedia.com/XNkEkgnDXN9KimtV4YaqHjyjNk2FGXVN8MBwIoMJKbY.gif?fm=jpg&s=a21e852191cb494431a38bd7e3c5e10d frameborder=0>
-- entry_name: |
-    Trump falsely claimed for days that he couldn’t end family separations
-  entry_id: 8sk3py
-  entry_content: |
-    <img src=https://i.redditmedia.com/nr9TyQF6y1QAFxUTCaaHqxO5M5jLVbI54_D-waj6Qnc.jpg?s=08b504df50aab281c39f7a00fe813ff5 frameborder=0>
+    <img src=https://i.redditmedia.com/uitg29KRpSYesyTD4MnqTWlWKPCMVN-XK0BWR0Oj1Cs.jpg?s=f6d29ec41123a6b58050bae6b6fdeb99 frameborder=0>
 ---
