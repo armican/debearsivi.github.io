@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/inqem1cBPLxnJqtEYDtHDAkDmX5buojSCY-6XmxseJ8.jpg?s=3ba7c39073a11d62cbbc5b1dda19dae0 frameborder=0>
 - entry_name: |
-    Breaks are for bitches -Grandpa
-  entry_id: 8sva74
-  entry_content: |
-    <iframe src=https://v.redd.it/amjy877jzl511/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     A kitten
   entry_id: 8syew2
   entry_content: |
@@ -52,11 +47,6 @@ data:
   entry_id: 8t02gf
   entry_content: |
     <img src=https://i.redditmedia.com/7eRwwG8IgtlSz2Ki0ubCPz5-3fFoI4qqiqZRtr6nOKk.jpg?s=ab692df5ae4b12494f1502d37e566038 frameborder=0>
-- entry_name: |
-    TIL that dogs were originally listed as non-self-aware, due to failing the mirror test. However, since dogs are not visually oriented, a new test, sniff test of self recognition was developed, and shows significant evidence of self-awareness in dogs.
-  entry_id: 8svbdp
-  entry_content: |
-    <img src=https://i.redditmedia.com/y6GtnFe2N8WE4_YE0KwS6egERL5CvY2TThToX8NqeF4.jpg?s=b20e5c64e9631129692707ea5b9a5270 frameborder=0>
 - entry_name: |
     Trump: North Korea 'total denuclearization' started; officials see no new moves -- Donald Trump said on Thursday North Korea was blowing up four of its big test sites and that a process of “total denuclearization ... has already started,” but officials said there was no such evidence.
   entry_id: 8sx6q5
@@ -153,11 +143,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-wtZlqEdf1kQtgS2Oitgrn-110cHDzkSOlHWNdL9Svw.png?s=b993c94fd7d0d30a07b26dc985e6b750 frameborder=0>
 - entry_name: |
-    Calm down g r a n d m a
-  entry_id: 8sv97v
-  entry_content: |
-    <img src=https://i.redditmedia.com/C6kQykDw0kvH3AdqLAdCoH9XsuToYNMBPw-GdTLHTgQ.jpg?s=8b1edbe4679efcc3722a671fd1f45688 frameborder=0>
-- entry_name: |
     🔥 Rare white giraffes caught on camera for the first time
   entry_id: 8t1qam
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8syr72
   entry_content: |
     <img src=https://i.redditmedia.com/QGgYCP0hcrUbiBbwSZzxo9QDzsw9hw3NfiHiH8MgDok.jpg?s=322a5827673bdbc17f927b696927f7de frameborder=0>
+- entry_name: |
+    It sort of makes you feel insulted.
+  entry_id: 8t0wl5
+  entry_content: |
+    <img src=https://i.redditmedia.com/Na6C344M8OtmpNd8xhTZSPGicekNsxL4l4-JgU0y9XY.png?s=db35d26e6c309edcf7c0b598e0fd2c25 frameborder=0>
+- entry_name: |
+    Jogger accidentally crosses U.S. border from B.C., gets detained for 2 weeks by authorities
+  entry_id: 8t27g7
+  entry_content: |
+    <img src=https://i.redditmedia.com/HPyRmxfA9Q94eIXQslzfTJf958n5XdqbxBycJtWbWU0.jpg?s=080be4b62404888d70958961e4b58c7d frameborder=0>
+- entry_name: |
+    My mom amd dad recently celebrated their 25th wedding anniversary and decided to re-create one of their wedding photos
+  entry_id: 8svmdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/4nwOpGUWwSjJfHGy72SAtWoSs39abJ-SETd4gmit-n4.jpg?s=a4e23cde84d08bd870e71da88d11bc59 frameborder=0>
 ---
