@@ -113,11 +113,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7h9w2ukxmf511/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This adorable baby elephant gets dizzy after chasing some birds
-  entry_id: 8sty55
-  entry_content: |
-    <iframe src=https://v.redd.it/juk01y0c6e511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     This piece of a whales spinal column that washed up on the beach
   entry_id: 8su4l3
   entry_content: |
@@ -222,11 +217,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LfyySVQuW96XGvoV-3l-Z69kkJVRAsW1DaiLQbib0Ig.jpg?s=eeaddb0a34f5d36595a4578424b1a6f4 frameborder=0>
 - entry_name: |
-    TIL John Lennon remarked that McCartney's only contribution to the Beatles was creating silly love songs. McCartney responded by writing a song called Silly Love Songs which went on to become a #1 hit single.
-  entry_id: 8t1lka
-  entry_content: |
-    <img src=https://i.redditmedia.com/EMAHhbZZnTHEL__Gjq5nRLc6OzVH_qxGj7JKyLyEY3c.jpg?s=70fe11d4b81585eb8fc4d4ac55c5a742 frameborder=0>
-- entry_name: |
     Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement
   entry_id: 8t0pef
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8sudmj
   entry_content: |
     <img src=https://i.redditmedia.com/hj6bVDd33lxiR03DntVrEBkCFKIMvBr_xc81t8LlMNs.jpg?s=6fbb47c9bf8acfd3df2d79d41a4539bc frameborder=0>
+- entry_name: |
+    Caballero's (Argentina goalkeeper) costly mistake.
+  entry_id: 8sutbt
+  entry_content: |
+    <iframe src=https://v.redd.it/epdo5wncpe511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    World Cup Instant Regret
+  entry_id: 8svbu9
+  entry_content: |
+    <iframe src=https://v.redd.it/oa4sp52fze511/DASH_1_2_M frameborder=0></iframe>
 ---
