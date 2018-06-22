@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uYOP2hRO5BAxAieJIaxd9UIPQvJcdOoCQsiNxIKcFXQ.jpg?s=8f1f36e67b65edcee6c7959350897bb4 frameborder=0>
 - entry_name: |
-    Melania flew to Texas to visit immigrant children wearing a jacket that says 'I really don't care, do u?'
-  entry_id: 8suhhk
-  entry_content: |
-    <img src=https://i.redditmedia.com/ItyRiLA4Tbs0cay7ZDAm-dfJHIZWQZD4kiFx8AgFWo8.jpg?s=dc5d620490f1e5655ca1b9235eb9a5ab frameborder=0>
-- entry_name: |
     A kitten
   entry_id: 8syew2
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_id: 8t02gf
   entry_content: |
     <img src=https://i.redditmedia.com/7eRwwG8IgtlSz2Ki0ubCPz5-3fFoI4qqiqZRtr6nOKk.jpg?s=ab692df5ae4b12494f1502d37e566038 frameborder=0>
-- entry_name: |
-    There’s cool. And then there’s “Macho Man sitting on the pier with his Championship Belt” kind of cool. (1988)
-  entry_id: 8sui2g
-  entry_content: |
-    <img src=https://i.redditmedia.com/nvQgICDeGZm-YUZyNgRxxxl0zZRgvSKl65J3TBbAWGw.jpg?s=39d754f8bd054bd325649796fb0b7b4c frameborder=0>
 - entry_name: |
     20,000 ducks cross road
   entry_id: 8syz7u
@@ -202,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Y52fNxpPKJ824Mh8OStN6jwGHMTUeVY5p6r7EcUV__g.jpg?s=f6a259e0ac931d1087817e68cc9a525f frameborder=0>
 - entry_name: |
-    Most popular girl name by state from 1960-2012
-  entry_id: 8sujk7
-  entry_content: |
-    <iframe src=https://v.redd.it/tybg8t04je511/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Melania wears 'I don't really care do u?' coat on migrant visit
   entry_id: 8svi93
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8syqtx
   entry_content: |
     <img src=https://i.redditmedia.com/nDqtDY6r_gkPMPqyiiboS5K051N7J8rF-Kg9TgWpw7g.jpg?s=065e44a6f8bb237d8b16e59a24428bdf frameborder=0>
+- entry_name: |
+    Caballero's (Argentina goalkeeper) costly mistake.
+  entry_id: 8sutbt
+  entry_content: |
+    <iframe src=https://v.redd.it/epdo5wncpe511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    World Cup Instant Regret
+  entry_id: 8svbu9
+  entry_content: |
+    <iframe src=https://v.redd.it/oa4sp52fze511/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Crisis actor spotted at Texas child migrant detention center
+  entry_id: 8sv2ar
+  entry_content: |
+    <img src=https://i.redditmedia.com/u3Z_3mOIBzF5U545Jx0Oa0tQTG2kyHhoIpzMtVb5LRM.jpg?s=d9f6428e32643b8cb9e10cebde7874f3 frameborder=0>
 ---
