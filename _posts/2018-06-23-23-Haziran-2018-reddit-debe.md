@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4akuxvzcpf511/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Magnificent! Isn't it?
-  entry_id: 8stm65
-  entry_content: |
-    <img src=https://i.redditmedia.com/jJGUPif6SjEkDRrdeIG2xdcX4AXBFhpGpTS2fOgamfc.jpg?s=94ae5c94643f1326c15dfbf87e1b6a37 frameborder=0>
-- entry_name: |
     My graduating class and our 92 year old class mate
   entry_id: 8swfis
   entry_content: |
@@ -48,15 +43,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uYOP2hRO5BAxAieJIaxd9UIPQvJcdOoCQsiNxIKcFXQ.jpg?s=8f1f36e67b65edcee6c7959350897bb4 frameborder=0>
 - entry_name: |
-    TIL that dogs were originally listed as non-self-aware, due to failing the mirror test. However, since dogs are not visually oriented, a new test, sniff test of self recognition was developed, and shows significant evidence of self-awareness in dogs.
-  entry_id: 8svbdp
-  entry_content: |
-    <img src=https://i.redditmedia.com/y6GtnFe2N8WE4_YE0KwS6egERL5CvY2TThToX8NqeF4.jpg?s=b20e5c64e9631129692707ea5b9a5270 frameborder=0>
-- entry_name: |
     A kitten
   entry_id: 8syew2
   entry_content: |
     <iframe src=https://v.redd.it/7evrjxjf9h511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL that dogs were originally listed as non-self-aware, due to failing the mirror test. However, since dogs are not visually oriented, a new test, sniff test of self recognition was developed, and shows significant evidence of self-awareness in dogs.
+  entry_id: 8svbdp
+  entry_content: |
+    <img src=https://i.redditmedia.com/y6GtnFe2N8WE4_YE0KwS6egERL5CvY2TThToX8NqeF4.jpg?s=b20e5c64e9631129692707ea5b9a5270 frameborder=0>
 - entry_name: |
     Trump: North Korea 'total denuclearization' started; officials see no new moves -- Donald Trump said on Thursday North Korea was blowing up four of its big test sites and that a process of “total denuclearization ... has already started,” but officials said there was no such evidence.
   entry_id: 8sx6q5
@@ -93,6 +88,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/AhUnDEMO3z1PXioCEF2zd4ETJM9DTqUOCwNTs4olkxQ.jpg?s=90c618546d1ff209a594527ff76f1d4f frameborder=0>
 - entry_name: |
+    What an accepting coworker
+  entry_id: 8t02gf
+  entry_content: |
+    <img src=https://i.redditmedia.com/7eRwwG8IgtlSz2Ki0ubCPz5-3fFoI4qqiqZRtr6nOKk.jpg?s=ab692df5ae4b12494f1502d37e566038 frameborder=0>
+- entry_name: |
     No sliding into this girls DMs
   entry_id: 8swgnx
   entry_content: |
@@ -108,10 +108,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HLQAs5CAMyoR_9wT21dmA9Nr64qtEHz6quiWttHOgIo.jpg?s=51987339b0ee4bc3ec022aef8dd4da13 frameborder=0>
 - entry_name: |
-    What an accepting coworker
-  entry_id: 8t02gf
+    My Doom Slayer Cosplay
+  entry_id: 8sztod
   entry_content: |
-    <img src=https://i.redditmedia.com/7eRwwG8IgtlSz2Ki0ubCPz5-3fFoI4qqiqZRtr6nOKk.jpg?s=ab692df5ae4b12494f1502d37e566038 frameborder=0>
+    <img src=https://i.redditmedia.com/cWVneLIJb0Dd1XiEkDHuwPS43ZDRYzzJ_QTaHOOz48I.jpg?s=9e2c4353bb1735d4eb0567e2e546bfae frameborder=0>
 - entry_name: |
     Otherworldly...
   entry_id: 8swa8n
@@ -138,10 +138,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wAiZJgF-o9Z1eTeMPqclKlzo0-CldIhRRyJrmB_T_ME.jpg?s=2029df59a8a5c7674955357262f9662f frameborder=0>
 - entry_name: |
-    Xbox + Nintendo ♥️♥️♥️
-  entry_id: 8stxh9
+    Normalisation of 'plus-size' risks hidden danger of obesity, study finds
+  entry_id: 8t05ps
   entry_content: |
-    <img src=https://i.redditmedia.com/zzkNfUHp8LpkOlNCu0PQ1IBFH_Qz0GEpZey3QDzm32s.jpg?s=ec5dee793214775cc46c7962fffe3b25 frameborder=0>
+    <img src=https://i.redditmedia.com/WtnxpqbBLW67vuu2mj_4bj9HFBW9m9DlFauFpIIxbhM.jpg?s=e6c50f37ff07f248953093b21930f4cb frameborder=0>
+- entry_name: |
+    There is always a solution
+  entry_id: 8szk1k
+  entry_content: |
+    <iframe src=https://v.redd.it/rjj3ul6qbi511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Calm down g r a n d m a
   entry_id: 8sv97v
@@ -151,6 +156,11 @@ data:
   entry_id: 8swuwj
   entry_content: |
     <img src=https://i.redditmedia.com/3pWq0m8l-MG8t8LcwmKUxu910XAY8qWIFb1jqWazJC0.jpg?s=a448e1b3970bf02cd3fae0db930ad2c8 frameborder=0>
+- entry_name: |
+    Xbox + Nintendo ♥️♥️♥️
+  entry_id: 8stxh9
+  entry_content: |
+    <img src=https://i.redditmedia.com/zzkNfUHp8LpkOlNCu0PQ1IBFH_Qz0GEpZey3QDzm32s.jpg?s=ec5dee793214775cc46c7962fffe3b25 frameborder=0>
 - entry_name: |
     The paint in this public restroom.
   entry_id: 8swp7x
@@ -172,20 +182,25 @@ data:
   entry_content: |
     null
 - entry_name: |
-    There is always a solution
-  entry_id: 8szk1k
+    This is a Leopon - A hybrid resulting from the crossing of a male leopard with a lioness.
+  entry_id: 8sz7vj
   entry_content: |
-    <iframe src=https://v.redd.it/rjj3ul6qbi511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    My Doom Slayer Cosplay
-  entry_id: 8sztod
-  entry_content: |
-    <img src=https://i.redditmedia.com/cWVneLIJb0Dd1XiEkDHuwPS43ZDRYzzJ_QTaHOOz48I.jpg?s=9e2c4353bb1735d4eb0567e2e546bfae frameborder=0>
+    <img src=https://i.redditmedia.com/-wtZlqEdf1kQtgS2Oitgrn-110cHDzkSOlHWNdL9Svw.png?s=b993c94fd7d0d30a07b26dc985e6b750 frameborder=0>
 - entry_name: |
     Never skip arm day.
   entry_id: 8svnfi
   entry_content: |
     <img src=https://i.redditmedia.com/xZr-hbsQRW1L8_0BuXWWYM64jEy2tRGz05ZUBj4paYk.jpg?s=e8c1dec0834d0223d02b8edf713bced2 frameborder=0>
+- entry_name: |
+    we did it reddit
+  entry_id: 8t03g9
+  entry_content: |
+    <img src=https://i.redditmedia.com/qm1NkGFbXvXSKnpGmrxy_dsoMinESfe4wt1EzKxb1ug.jpg?s=c695f05445880bae5bfdf64969b29148 frameborder=0>
+- entry_name: |
+    No alcoholics here, just professionals
+  entry_id: 8sx6x4
+  entry_content: |
+    <iframe src=https://v.redd.it/ozuzq0tvag511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Literally all of Europe (1400-1900)
   entry_id: 8svrtx
@@ -197,58 +212,43 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tybg8t04je511/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Melania wears 'I don't really care do u?' coat on migrant visit
-  entry_id: 8svi93
-  entry_content: |
-    <img src=https://i.redditmedia.com/FIQoLpzlsbD3fhcCzSj3yvSuVhUTu5r1rpRYNazavJ0.jpg?s=dd6b5fe0a2f79b77b2c636dca87de38f frameborder=0>
-- entry_name: |
-    No alcoholics here, just professionals
-  entry_id: 8sx6x4
-  entry_content: |
-    <iframe src=https://v.redd.it/ozuzq0tvag511/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Kids got heart and balls the size of coconuts
   entry_id: 8sx0gs
   entry_content: |
     <iframe src=https://v.redd.it/ladljqa26g511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    This is a Leopon - A hybrid resulting from the crossing of a male leopard with a lioness.
-  entry_id: 8sz7vj
+    Melania wears 'I don't really care do u?' coat on migrant visit
+  entry_id: 8svi93
   entry_content: |
-    <img src=https://i.redditmedia.com/-wtZlqEdf1kQtgS2Oitgrn-110cHDzkSOlHWNdL9Svw.png?s=b993c94fd7d0d30a07b26dc985e6b750 frameborder=0>
+    <img src=https://i.redditmedia.com/FIQoLpzlsbD3fhcCzSj3yvSuVhUTu5r1rpRYNazavJ0.jpg?s=dd6b5fe0a2f79b77b2c636dca87de38f frameborder=0>
 - entry_name: |
     welp, someone just got schooled
   entry_id: 8sudap
   entry_content: |
     <img src=https://i.redditmedia.com/I9pnN9QUdo8wdn1VbCGx2kxJ2BBon2yhuGDcc6kgTuE.jpg?s=a3a6ebbcfb3b8a19a660be926ee82eae frameborder=0>
 - entry_name: |
-    At a family’s amusement park. Just wow.
-  entry_id: 8sv2jc
-  entry_content: |
-    <img src=https://i.redditmedia.com/LfyySVQuW96XGvoV-3l-Z69kkJVRAsW1DaiLQbib0Ig.jpg?s=eeaddb0a34f5d36595a4578424b1a6f4 frameborder=0>
-- entry_name: |
     To cheat to get a strike
   entry_id: 8sxbrj
   entry_content: |
     <iframe src=https://v.redd.it/qo5niyuveg511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I mean whatever works
-  entry_id: 8stqxh
+    At a family’s amusement park. Just wow.
+  entry_id: 8sv2jc
   entry_content: |
-    <img src=https://i.redditmedia.com/1VEvY03ZDdQM8IdBURjsDp1LAlgA-mEyongDWf4eJgg.jpg?s=d7480ad6106f0c7f23c7acec573845e2 frameborder=0>
+    <img src=https://i.redditmedia.com/LfyySVQuW96XGvoV-3l-Z69kkJVRAsW1DaiLQbib0Ig.jpg?s=eeaddb0a34f5d36595a4578424b1a6f4 frameborder=0>
 - entry_name: |
-    My mom amd dad recently celebrated their 25th wedding anniversary and decided to re-create one of their wedding photos
-  entry_id: 8svmdu
+    TIL John Lennon remarked that McCartney's only contribution to the Beatles was creating silly love songs. McCartney responded by writing a song called Silly Love Songs which went on to become a #1 hit single.
+  entry_id: 8t1lka
   entry_content: |
-    <img src=https://i.redditmedia.com/4nwOpGUWwSjJfHGy72SAtWoSs39abJ-SETd4gmit-n4.jpg?s=a4e23cde84d08bd870e71da88d11bc59 frameborder=0>
+    <img src=https://i.redditmedia.com/EMAHhbZZnTHEL__Gjq5nRLc6OzVH_qxGj7JKyLyEY3c.jpg?s=70fe11d4b81585eb8fc4d4ac55c5a742 frameborder=0>
+- entry_name: |
+    Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement
+  entry_id: 8t0pef
+  entry_content: |
+    <img src=https://i.redditmedia.com/BFRdE_IL8KYJ83R5Dkifualy0Pr316786ytg8XY3UAg.jpg?s=262acbd5af5258abe8765556dc2f28d2 frameborder=0>
 - entry_name: |
     There's nearly a Nixon '74 level of public support for impeaching Trump
   entry_id: 8t0ao5
   entry_content: |
     <img src=https://i.redditmedia.com/xfOFjKAe8n1XaEvRDenSB7b6do6SIbSDqHm9LYaLCKI.jpg?s=08847f9071a82410dae94c59c80470d9 frameborder=0>
-- entry_name: |
-    ... Guys, this is America...
-  entry_id: 8sudmj
-  entry_content: |
-    <img src=https://i.redditmedia.com/hj6bVDd33lxiR03DntVrEBkCFKIMvBr_xc81t8LlMNs.jpg?s=6fbb47c9bf8acfd3df2d79d41a4539bc frameborder=0>
 ---
