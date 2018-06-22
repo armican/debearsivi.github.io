@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nvQgICDeGZm-YUZyNgRxxxl0zZRgvSKl65J3TBbAWGw.jpg?s=39d754f8bd054bd325649796fb0b7b4c frameborder=0>
 - entry_name: |
-    Identity theft
-  entry_id: 8suee4
-  entry_content: |
-    <img src=https://i.redditmedia.com/AhUnDEMO3z1PXioCEF2zd4ETJM9DTqUOCwNTs4olkxQ.jpg?s=90c618546d1ff209a594527ff76f1d4f frameborder=0>
-- entry_name: |
     20,000 ducks cross road
   entry_id: 8syz7u
   entry_content: |
@@ -217,11 +212,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FIQoLpzlsbD3fhcCzSj3yvSuVhUTu5r1rpRYNazavJ0.jpg?s=dd6b5fe0a2f79b77b2c636dca87de38f frameborder=0>
 - entry_name: |
-    welp, someone just got schooled
-  entry_id: 8sudap
-  entry_content: |
-    <img src=https://i.redditmedia.com/I9pnN9QUdo8wdn1VbCGx2kxJ2BBon2yhuGDcc6kgTuE.jpg?s=a3a6ebbcfb3b8a19a660be926ee82eae frameborder=0>
-- entry_name: |
     To cheat to get a strike
   entry_id: 8sxbrj
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8syr72
   entry_content: |
     <img src=https://i.redditmedia.com/QGgYCP0hcrUbiBbwSZzxo9QDzsw9hw3NfiHiH8MgDok.jpg?s=322a5827673bdbc17f927b696927f7de frameborder=0>
+- entry_name: |
+    Dog returns after being lost for eight months.
+  entry_id: 8sz4ca
+  entry_content: |
+    <iframe src=https://v.redd.it/5mpkag9exh511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    The U.S. oil and gas industry emits 13 million metric tons of methane from its operations each year – nearly 60% more than currently estimated by the EPA, a new study finds.
+  entry_id: 8syqtx
+  entry_content: |
+    <img src=https://i.redditmedia.com/nDqtDY6r_gkPMPqyiiboS5K051N7J8rF-Kg9TgWpw7g.jpg?s=065e44a6f8bb237d8b16e59a24428bdf frameborder=0>
 ---
