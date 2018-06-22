@@ -36,7 +36,7 @@ data:
     Breaks are for bitches -Grandpa
   entry_id: 8sva74
   entry_content: |
-    <iframe src=https://v.redd.it/9vesi6sied511/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/amjy877jzl511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     A kitten
   entry_id: 8syew2
@@ -167,11 +167,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    I'd treat Elastigirl better than Mr. Incredible 😤
-  entry_id: 8suykl
-  entry_content: |
-    <img src=https://i.redditmedia.com/iz_wvPuCjNn6PPx8FqS00NkI-4tOH3MZoGJX4g9kJXE.jpg?s=593e3e55ff7498b4887535480717570e frameborder=0>
-- entry_name: |
     Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement
   entry_id: 8t0pef
   entry_content: |
@@ -237,11 +232,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/qo5niyuveg511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    At a family’s amusement park. Just wow.
-  entry_id: 8sv2jc
-  entry_content: |
-    <img src=https://i.redditmedia.com/LfyySVQuW96XGvoV-3l-Z69kkJVRAsW1DaiLQbib0Ig.jpg?s=eeaddb0a34f5d36595a4578424b1a6f4 frameborder=0>
-- entry_name: |
     The U.S. oil and gas industry emits 13 million metric tons of methane from its operations each year – nearly 60% more than currently estimated by the EPA, a new study finds.
   entry_id: 8syqtx
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8syr72
   entry_content: |
     <img src=https://i.redditmedia.com/QGgYCP0hcrUbiBbwSZzxo9QDzsw9hw3NfiHiH8MgDok.jpg?s=322a5827673bdbc17f927b696927f7de frameborder=0>
+- entry_name: |
+    My mom amd dad recently celebrated their 25th wedding anniversary and decided to re-create one of their wedding photos
+  entry_id: 8svmdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/4nwOpGUWwSjJfHGy72SAtWoSs39abJ-SETd4gmit-n4.jpg?s=a4e23cde84d08bd870e71da88d11bc59 frameborder=0>
+- entry_name: |
+    World Cup Instant Regret
+  entry_id: 8svbu9
+  entry_content: |
+    <iframe src=https://v.redd.it/oa4sp52fze511/DASH_1_2_M frameborder=0></iframe>
 ---
