@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9awszfIlh__BcohYyKpkh5tbl5DS5itaGZwINQ27dsg.jpg?s=89439e0375a1f17ce08015c55ea46179 frameborder=0>
 - entry_name: |
-    ARE YOU NOT ENTERTAINED??!
-  entry_id: 8stvqs
-  entry_content: |
-    <iframe src=https://v.redd.it/73z0odexrd511/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Trump Signs Executive Order Revoking Barack Obama’s National Ocean Policy, Opens Oceans to Drilling
   entry_id: 8sy7xl
   entry_content: |
@@ -157,11 +152,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3pWq0m8l-MG8t8LcwmKUxu910XAY8qWIFb1jqWazJC0.jpg?s=a448e1b3970bf02cd3fae0db930ad2c8 frameborder=0>
 - entry_name: |
-    Xbox + Nintendo ♥️♥️♥️
-  entry_id: 8stxh9
-  entry_content: |
-    <img src=https://i.redditmedia.com/zzkNfUHp8LpkOlNCu0PQ1IBFH_Qz0GEpZey3QDzm32s.jpg?s=ec5dee793214775cc46c7962fffe3b25 frameborder=0>
-- entry_name: |
     The paint in this public restroom.
   entry_id: 8swp7x
   entry_content: |
@@ -171,11 +161,6 @@ data:
   entry_id: 8suykl
   entry_content: |
     <img src=https://i.redditmedia.com/iz_wvPuCjNn6PPx8FqS00NkI-4tOH3MZoGJX4g9kJXE.jpg?s=593e3e55ff7498b4887535480717570e frameborder=0>
-- entry_name: |
-    Sinclair forced its TV stations to air pro-Trump propaganda on family separation
-  entry_id: 8stw7n
-  entry_content: |
-    <img src=https://i.redditmedia.com/6yC38A2JyjTUxQVlGs8zMZcr0WqRswW0LPzzK4B0qA0.jpg?s=b75b9723256cae85eb96acfd6ba8e174 frameborder=0>
 - entry_name: |
     What is a highly underrated advantage of living alone?
   entry_id: 8sxoya
@@ -251,4 +236,19 @@ data:
   entry_id: 8t0ao5
   entry_content: |
     <img src=https://i.redditmedia.com/xfOFjKAe8n1XaEvRDenSB7b6do6SIbSDqHm9LYaLCKI.jpg?s=08847f9071a82410dae94c59c80470d9 frameborder=0>
+- entry_name: |
+    My mom amd dad recently celebrated their 25th wedding anniversary and decided to re-create one of their wedding photos
+  entry_id: 8svmdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/4nwOpGUWwSjJfHGy72SAtWoSs39abJ-SETd4gmit-n4.jpg?s=a4e23cde84d08bd870e71da88d11bc59 frameborder=0>
+- entry_name: |
+    Doing some pushups.
+  entry_id: 8t1dct
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FClosedDefensiveBobolink&url=https%3A%2F%2Fgfycat.com%2FClosedDefensiveBobolink&image=https%3A%2F%2Fthumbs.gfycat.com%2FClosedDefensiveBobolink-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    ... Guys, this is America...
+  entry_id: 8sudmj
+  entry_content: |
+    <img src=https://i.redditmedia.com/hj6bVDd33lxiR03DntVrEBkCFKIMvBr_xc81t8LlMNs.jpg?s=6fbb47c9bf8acfd3df2d79d41a4539bc frameborder=0>
 ---
