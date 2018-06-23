@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HOBonnueh1MjzeQDPAZitGndBMZmntkTKmRoILlsli0.jpg?s=14c4dbdb256737a5315e8a9bd215bf50 frameborder=0>
 - entry_name: |
-    Maybe I should stop leaving my dog with the interns...
-  entry_id: 8t3ti3
-  entry_content: |
-    <iframe src=https://v.redd.it/j3reithpml511/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     The way my cheese melted on my burger.
   entry_id: 8t6cs6
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8t59sv
   entry_content: |
     <img src=https://i.redditmedia.com/9213LsYhw5UYZMcdn0FUcLNuOcC3ssp9ZNZujc1FSbc.jpg?s=7b7676af6967088bf0ddbb28d1422b05 frameborder=0>
+- entry_name: |
+    What will happen to us now?
+  entry_id: 8t5s1p
+  entry_content: |
+    <img src=https://i.redditmedia.com/ScrTutW18rJGmGw5uXea4AoRf4nqPvyAzeSz3xf3dF4.jpg?s=261525021c0b4b88d1b4fb9fc48a8e66 frameborder=0>
 ---
