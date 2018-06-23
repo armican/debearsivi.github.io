@@ -123,11 +123,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/eKdVi0A6UoHZoUOblebAHR7yJNVKGdkEHX7dwhfn1A0.jpg?s=95d7f0526b2bd59856773c76c625836f frameborder=0>
 - entry_name: |
-    My mom, age 15, smoking at an Allman Brothers concert with a broken arm. Watkins Glen '73
-  entry_id: 8t4bzc
-  entry_content: |
-    <img src=https://i.redditmedia.com/VJXTFp0-MMeTbRRU4rDZPOI9eq-0wjLkItUlPVpB6Kg.jpg?s=bb63245b5aa1336bc6cbfd94609ba84f frameborder=0>
-- entry_name: |
     And here we see the rare Huskodile in it's natural habitat.
   entry_id: 8t5a2f
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8t8m7k
   entry_content: |
     <img src=https://i.redditmedia.com/K7yG_vcLUxOPNsNVg-PL6UzPzPsUlBQB0oyldh5sxZk.jpg?s=e15a99f989a3876f886f1ca7666d9484 frameborder=0>
+- entry_name: |
+    Ye olden hentai
+  entry_id: 8t6elp
+  entry_content: |
+    <img src=https://i.redditmedia.com/WZyDL2T9bS-HG1muKmBjjgE8nU7_iddWzcORw9KsLv0.jpg?s=bfcbffe024935a7f7c65165c5c8d943f frameborder=0>
 ---
