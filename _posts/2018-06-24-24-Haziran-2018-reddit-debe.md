@@ -8,15 +8,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pDmvs9YjFzLJfCeTJ2Cu3P4c1et3gEoI5sLaw08xuPM.jpg?s=bd0e7dfe0dda6085d1190df271c1438a frameborder=0>
 - entry_name: |
-    This dad being a meme
-  entry_id: 8t4xo2
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEquatorialCreamyKouprey&url=https%3A%2F%2Fgfycat.com%2FEquatorialCreamyKouprey&image=https%3A%2F%2Fthumbs.gfycat.com%2FEquatorialCreamyKouprey-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=236 height=416 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Right now, 5 million people are in a rally for the main opposition candidate against Erdoğan.
   entry_id: 8t9hk6
   entry_content: |
     <img src=https://i.redditmedia.com/FHMbaj86GRJCZm-E-KI4_PLjM0lwZvXdrijuX3kHP3I.jpg?s=d92e306e43251bd8fef753c723e1b9d7 frameborder=0>
+- entry_name: |
+    This dad being a meme
+  entry_id: 8t4xo2
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEquatorialCreamyKouprey&url=https%3A%2F%2Fgfycat.com%2FEquatorialCreamyKouprey&image=https%3A%2F%2Fthumbs.gfycat.com%2FEquatorialCreamyKouprey-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=236 height=416 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Basketballs are flat
   entry_id: 8t7j9p
@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ua0Af5lNkXVaFW7BApAhsYT490xsFfZynTlI1jctZI4.jpg?s=c3443e785d1d095269511769c8bc8056 frameborder=0>
 - entry_name: |
-    Offical Poster- The Man Who Killed Hitler and Then The Bigfoot 2018 (Sam Elliott, Aiden Turner, Caitlin Fitzgerald)
-  entry_id: 8t40nu
-  entry_content: |
-    <img src=https://i.redditmedia.com/03UlKgK97u6GRKXqhX-_Oug5BfOwNPCSFiivG4MDl3k.jpg?s=2442d63b7799010a822a727f41e6de42 frameborder=0>
-- entry_name: |
     Collection of my tiny paintings, acrylic on penny
   entry_id: 8t4vtj
   entry_content: |
@@ -88,30 +83,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/eHjKf6E1t-TVZEFPvXwa-DHiWlibHxTlwxF22zCf0uk.gif?fm=jpg&s=384f7d63599b0e0e74bb2ed7ad827d93 frameborder=0>
 - entry_name: |
-    Must you bother me?
-  entry_id: 8t4zn2
+    Minnie and Mickey Mouse talk to a deaf boy in sign language at Disneyland.
+  entry_id: 8t9a47
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConcernedScalyBlackfly&url=https%3A%2F%2Fgfycat.com%2FConcernedScalyBlackfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FConcernedScalyBlackfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=276 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FForthrightHelpfulDormouse&url=https%3A%2F%2Fgfycat.com%2Fforthrighthelpfuldormouse&image=https%3A%2F%2Fthumbs.gfycat.com%2FForthrightHelpfulDormouse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Misdirection
   entry_id: 8t82jw
   entry_content: |
     <img src=https://i.redditmedia.com/MFYjIbRTQxXv1Jm5s5kXK4tjseFWk2-agqODuIfvbKU.jpg?s=3544c8a234601452aa8813b2b8b88166 frameborder=0>
 - entry_name: |
+    Must you bother me?
+  entry_id: 8t4zn2
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConcernedScalyBlackfly&url=https%3A%2F%2Fgfycat.com%2FConcernedScalyBlackfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FConcernedScalyBlackfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=276 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
     he thinks it's a HECKA big doggo
   entry_id: 8t4ema
   entry_content: |
     <iframe src=https://v.redd.it/epl01vck0m511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Minnie and Mickey Mouse talk to a deaf boy in sign language at Disneyland.
-  entry_id: 8t9a47
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FForthrightHelpfulDormouse&url=https%3A%2F%2Fgfycat.com%2Fforthrighthelpfuldormouse&image=https%3A%2F%2Fthumbs.gfycat.com%2FForthrightHelpfulDormouse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     You make me happy when skies are gray!
   entry_id: 8t871a
   entry_content: |
     <img src=https://i.redditmedia.com/o5RKCs14rj4zwwjFmZTqJCgkJcV3zqxtRL9JGKujUws.jpg?s=b84a9c439f22fe1883516e3569869dd6 frameborder=0>
+- entry_name: |
+    Brexit has already cost the U.K. more than its EU budget payments, study shows
+  entry_id: 8t9aze
+  entry_content: |
+    <img src=https://i.redditmedia.com/or6h8Ovt61NPhPIY1-M_sUrCBVzIUmbTnYN4oGCBM6s.jpg?s=4dd9b7f2d5e7352fceb4a15d3a7a03a7 frameborder=0>
+- entry_name: |
+    I'll try shitposting, that's a good trick
+  entry_id: 8t9v5j
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConstantCarefulAmericanshorthair&url=https%3A%2F%2Fgfycat.com%2FConstantCarefulAmericanshorthair&image=https%3A%2F%2Fthumbs.gfycat.com%2FConstantCarefulAmericanshorthair-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    This little guy at the Reds game wouldn’t throw out the first pitch until he was on the mound
+  entry_id: 8t994k
+  entry_content: |
+    <iframe src=https://v.redd.it/onf4btvlpp511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     You sound like you're from London
   entry_id: 8t4hvz
@@ -132,10 +142,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/awkjkEQ12puQ8wpDoA9yq2-qMQaM-m2FohUulYr4u08.png?s=7fa222d388eefd5f66b6f6ca41d182ef frameborder=0>
 - entry_name: |
-    Brexit has already cost the U.K. more than its EU budget payments, study shows
-  entry_id: 8t9aze
+    Inconvenient AF!
+  entry_id: 8t9ps7
   entry_content: |
-    <img src=https://i.redditmedia.com/or6h8Ovt61NPhPIY1-M_sUrCBVzIUmbTnYN4oGCBM6s.jpg?s=4dd9b7f2d5e7352fceb4a15d3a7a03a7 frameborder=0>
+    <img src=https://i.redditmedia.com/gMjv0OR3u2E6o1VOSnA-yy0arFmshw0jhajnky1V85c.jpg?s=16e21c47ccea15925ccb550d997d47c5 frameborder=0>
 - entry_name: |
     A player joined our game and my friend thought he was a bot, so he grabbed his head and forced him to watch the tutorial video. It only made this funnier after we realized he wasn't a bot. Game is Human:Fall Flat
   entry_id: 8t4xxh
@@ -147,20 +157,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QKyvB9pG1VDZTab9JhLD-07SVcW_INKfr4jBLrMA3wQ.jpg?s=9168340e84020292676a445bbcb752a3 frameborder=0>
 - entry_name: |
-    This little guy at the Reds game wouldn’t throw out the first pitch until he was on the mound
-  entry_id: 8t994k
+    this plastic bag looks exactly like a cat
+  entry_id: 8talwl
   entry_content: |
-    <iframe src=https://v.redd.it/onf4btvlpp511/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/MWq5tewMFsa7moF92YmjOhqFhLqegAgcQsC3sGuxWew.jpg?s=81dcca82d7a6630efaefa7bcf12d1aa9 frameborder=0>
+- entry_name: |
+    Should have seen this coming
+  entry_id: 8t9snk
+  entry_content: |
+    <img src=https://i.redditmedia.com/8rwci4WgH1s7jTT4rlwwKZu_74Og-TCIFR20JQptytA.jpg?s=f2226f2b9f43547244456be78fbee002 frameborder=0>
 - entry_name: |
     We've gone a long way
   entry_id: 8t7yb1
   entry_content: |
     <img src=https://i.redditmedia.com/7ZW9LdDPJen1WIPiMYhK_3ydeUr4J6bVOUYil6vkLok.jpg?s=fbd67c00a39ba78539d558da655dfec2 frameborder=0>
 - entry_name: |
-    I'll try shitposting, that's a good trick
-  entry_id: 8t9v5j
+    AR Table Tennis using actual paddle and table.
+  entry_id: 8t9y0q
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConstantCarefulAmericanshorthair&url=https%3A%2F%2Fgfycat.com%2FConstantCarefulAmericanshorthair&image=https%3A%2F%2Fthumbs.gfycat.com%2FConstantCarefulAmericanshorthair-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGranularScientificCrab&url=https%3A%2F%2Fgfycat.com%2FGranularScientificCrab&image=https%3A%2F%2Fthumbs.gfycat.com%2FGranularScientificCrab-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     Only adults can solve this
   entry_id: 8t72b3
@@ -172,20 +187,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qBFvQ15tB6FvQSazgaOVFToRR4uzgVaG5T0hgO5nEmg.jpg?s=0476eeca4045517534b5592e193f0412 frameborder=0>
 - entry_name: |
+    Mine!!!
+  entry_id: 8t9j3q
+  entry_content: |
+    <iframe src=https://v.redd.it/7hi0chkyrq511/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     𝔗𝔥𝔢
   entry_id: 8t5zv0
   entry_content: |
     <img src=https://i.redditmedia.com/nIOti0nI71hsQ69Nmzu5hgVQq6aXEu1FOHn6rGZjgTo.jpg?s=a1ad168784ef7abac65c00e8af147742 frameborder=0>
-- entry_name: |
-    Should have seen this coming
-  entry_id: 8t9snk
-  entry_content: |
-    <img src=https://i.redditmedia.com/8rwci4WgH1s7jTT4rlwwKZu_74Og-TCIFR20JQptytA.jpg?s=f2226f2b9f43547244456be78fbee002 frameborder=0>
-- entry_name: |
-    Inconvenient AF!
-  entry_id: 8t9ps7
-  entry_content: |
-    <img src=https://i.redditmedia.com/gMjv0OR3u2E6o1VOSnA-yy0arFmshw0jhajnky1V85c.jpg?s=16e21c47ccea15925ccb550d997d47c5 frameborder=0>
 - entry_name: |
     UK should cancel Donald Trump visit, says Jeremy Corbyn
   entry_id: 8t459w
@@ -201,6 +211,16 @@ data:
   entry_id: 8t70e1
   entry_content: |
     <img src=https://i.redditmedia.com/mOfVu3OmuXiIB_3kAHPknwRpY076dbVQH95Az35La2E.jpg?s=ce211b574148217ef18ef9c1aed1c7bf frameborder=0>
+- entry_name: |
+    An entire continent named after the popular song Africa by Toto (1982)
+  entry_id: 8t8lsz
+  entry_content: |
+    <img src=https://i.redditmedia.com/A_2VCAl2ciufa__Y62LpABRxZyIXBp_qeimj0ETZCso.jpg?s=526dde1ed272327bd78786afde0ed862 frameborder=0>
+- entry_name: |
+    Crab finishing its sand enclosure.
+  entry_id: 8t9hvs
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOnlyLeanGrayreefshark&url=https%3A%2F%2Fgfycat.com%2FOnlyLeanGrayreefshark&image=https%3A%2F%2Fthumbs.gfycat.com%2FOnlyLeanGrayreefshark-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=360 height=640 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     A guy I knew in high school tried adding me on Facebook. This is his profile picture.
   entry_id: 8t5jxj
@@ -222,33 +242,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Uk0EFL_sLCf9qN82gATi62Q3lAf3QsID0EOOpfXKUs4.jpg?s=0535dbe1597c194264f98fa74db89299 frameborder=0>
 - entry_name: |
-    An entire continent named after the popular song Africa by Toto (1982)
-  entry_id: 8t8lsz
-  entry_content: |
-    <img src=https://i.redditmedia.com/A_2VCAl2ciufa__Y62LpABRxZyIXBp_qeimj0ETZCso.jpg?s=526dde1ed272327bd78786afde0ed862 frameborder=0>
-- entry_name: |
     RIP cocoa the gorilla.
   entry_id: 8t4sgn
   entry_content: |
     <img src=https://i.redditmedia.com/qxuF5bdnsXML_UUyKJ_ulyHhZQgYL7LMyBHYkJgzQW4.jpg?s=809a7faa06f1454bff21a5a7c2533840 frameborder=0>
 - entry_name: |
-    Sensoring done wrong.
-  entry_id: 8t5e3w
+    A Rude Awakening For Mr. Reality Check
+  entry_id: 8t7unw
   entry_content: |
-    <img src=https://i.redditmedia.com/BzrcXPz7tBBVrqDYdLu3Z0z8v0kcdAHpVH_a3QWCMLc.jpg?s=799fe1a715b41fae31c14a0743f86ade frameborder=0>
-- entry_name: |
-    Ye olden hentai
-  entry_id: 8t6elp
-  entry_content: |
-    <img src=https://i.redditmedia.com/WZyDL2T9bS-HG1muKmBjjgE8nU7_iddWzcORw9KsLv0.jpg?s=bfcbffe024935a7f7c65165c5c8d943f frameborder=0>
-- entry_name: |
-    Real life vampires buried with bricks between their teeth to stop them rising from the dead.
-  entry_id: 8t59sv
-  entry_content: |
-    <img src=https://i.redditmedia.com/9213LsYhw5UYZMcdn0FUcLNuOcC3ssp9ZNZujc1FSbc.jpg?s=7b7676af6967088bf0ddbb28d1422b05 frameborder=0>
-- entry_name: |
-    What will happen to us now?
-  entry_id: 8t5s1p
-  entry_content: |
-    <img src=https://i.redditmedia.com/ScrTutW18rJGmGw5uXea4AoRf4nqPvyAzeSz3xf3dF4.jpg?s=261525021c0b4b88d1b4fb9fc48a8e66 frameborder=0>
+    <img src=https://i.redditmedia.com/yqZn1dJOSSG4oTBOOw6CR_lrPgE64tMztc_-xGwEwmE.png?s=17312bea50372101b119d6328269c7da frameborder=0>
 ---
