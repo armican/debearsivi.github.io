@@ -128,10 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9nAN7P8B1aZ7GJKdScYHmKHWeEtGjMe4xVtT6PgZZ8k.jpg?s=4003712fce7228f0f41cf9185562005b frameborder=0>
 - entry_name: |
-  entry_id: 8t4o96
-  entry_content: |
-    <img src=https://i.redditmedia.com/awkjkEQ12puQ8wpDoA9yq2-qMQaM-m2FohUulYr4u08.png?s=7fa222d388eefd5f66b6f6ca41d182ef frameborder=0>
-- entry_name: |
     A player joined our game and my friend thought he was a bot, so he grabbed his head and forced him to watch the tutorial video. It only made this funnier after we realized he wasn't a bot. Game is Human:Fall Flat
   entry_id: 8t4xxh
   entry_content: |
@@ -251,4 +247,9 @@ data:
   entry_id: 8t6elp
   entry_content: |
     <img src=https://i.redditmedia.com/WZyDL2T9bS-HG1muKmBjjgE8nU7_iddWzcORw9KsLv0.jpg?s=bfcbffe024935a7f7c65165c5c8d943f frameborder=0>
+- entry_name: |
+    Armenia, Alla Mingaleva, digital, 2018
+  entry_id: 8t9fzi
+  entry_content: |
+    <img src=https://i.redditmedia.com/GltU8E_OdctTZ-dnNHrjKTc83WjoiV7MgncWXr2YYdU.jpg?s=af60619294568476e76edded424d44e0 frameborder=0>
 ---
