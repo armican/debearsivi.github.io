@@ -103,15 +103,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MFYjIbRTQxXv1Jm5s5kXK4tjseFWk2-agqODuIfvbKU.jpg?s=3544c8a234601452aa8813b2b8b88166 frameborder=0>
 - entry_name: |
-    Tiny natural geode shaped like foot prints
-  entry_id: 8t3n1t
-  entry_content: |
-    <img src=https://i.redditmedia.com/IPQbzucJ8emYPHg8evPAZg0tVX0oLuKFNYgsA3H_6Lk.jpg?s=a66655ed64413662c062b65542fe7056 frameborder=0>
-- entry_name: |
     he thinks it's a HECKA big doggo
   entry_id: 8t4ema
   entry_content: |
     <iframe src=https://v.redd.it/epl01vck0m511/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Minnie and Mickey Mouse talk to a deaf boy in sign language at Disneyland.
+  entry_id: 8t9a47
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FForthrightHelpfulDormouse&url=https%3A%2F%2Fgfycat.com%2Fforthrighthelpfuldormouse&image=https%3A%2F%2Fthumbs.gfycat.com%2FForthrightHelpfulDormouse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     You make me happy when skies are gray!
   entry_id: 8t871a
@@ -172,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hqGQa3nIcUG7LqwfWMHT3VQiam7_acMxQj9Usi_THWU.png?s=b79fd0f474927e113dc4ba22dfb71a3b frameborder=0>
 - entry_name: |
-    You can see every organ in the glass frog.
-  entry_id: 8t3qgl
-  entry_content: |
-    <img src=https://i.redditmedia.com/t_RfQhaNASCWDq-pd3vu5ynOIi7H9k76ObFfUzfRCnU.jpg?s=6d10bbc9c55e23dca796f26294aaf3e2 frameborder=0>
-- entry_name: |
     I have always hated my overnight employee.
   entry_id: 8t627r
   entry_content: |
@@ -227,11 +222,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/L9wBoQLfDEzQGyy7kEWQvVGnh96Z6NbfwHEl_WavYV4.jpg?s=30e00eaace1b538b6e7a733c93e93a7e frameborder=0>
 - entry_name: |
-    The death of the unarmed teen killed by an East Pittsburgh police officer is ruled a homicide
-  entry_id: 8t3pyg
-  entry_content: |
-    <img src=https://i.redditmedia.com/yOlA9HTLfj6Axho6VdGmlq3TMBzF7DQVk56ZOELiYN8.jpg?s=7004ae4eabb1a71e31e90100e3f4e66f frameborder=0>
-- entry_name: |
     2meirl4meirl
   entry_id: 8t6vqc
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8t5e3w
   entry_content: |
     <img src=https://i.redditmedia.com/BzrcXPz7tBBVrqDYdLu3Z0z8v0kcdAHpVH_a3QWCMLc.jpg?s=799fe1a715b41fae31c14a0743f86ade frameborder=0>
+- entry_name: |
+    Ye olden hentai
+  entry_id: 8t6elp
+  entry_content: |
+    <img src=https://i.redditmedia.com/WZyDL2T9bS-HG1muKmBjjgE8nU7_iddWzcORw9KsLv0.jpg?s=bfcbffe024935a7f7c65165c5c8d943f frameborder=0>
+- entry_name: |
+    Real life vampires buried with bricks between their teeth to stop them rising from the dead.
+  entry_id: 8t59sv
+  entry_content: |
+    <img src=https://i.redditmedia.com/9213LsYhw5UYZMcdn0FUcLNuOcC3ssp9ZNZujc1FSbc.jpg?s=7b7676af6967088bf0ddbb28d1422b05 frameborder=0>
 ---
