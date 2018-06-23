@@ -147,11 +147,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/awkjkEQ12puQ8wpDoA9yq2-qMQaM-m2FohUulYr4u08.png?s=7fa222d388eefd5f66b6f6ca41d182ef frameborder=0>
 - entry_name: |
-    $20 if they call me
-  entry_id: 8t37gt
-  entry_content: |
-    <img src=https://i.redditmedia.com/HXHDVDyMSsWG9XkKH8-xwUTDsg4RIJIoRsLNddF2uag.jpg?s=1890a8d65293ad4e1d0bcdfcbcba2a34 frameborder=0>
-- entry_name: |
     2 years ago I splurged some money and bought a camera because I'd always wanted to try to take pictures of the stars. The top picture was the only decent picture out of 700 taken on my first clueless attempt. The bottom was taken about 2 weeks ago. Don't let your dreams be dreams.
   entry_id: 8t3izg
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8t3izy
   entry_content: |
     <iframe src=https://v.redd.it/f4gfoos5gl511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    RIP cocoa the gorilla.
+  entry_id: 8t4sgn
+  entry_content: |
+    <img src=https://i.redditmedia.com/qxuF5bdnsXML_UUyKJ_ulyHhZQgYL7LMyBHYkJgzQW4.jpg?s=809a7faa06f1454bff21a5a7c2533840 frameborder=0>
 ---
