@@ -177,20 +177,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7ZW9LdDPJen1WIPiMYhK_3ydeUr4J6bVOUYil6vkLok.jpg?s=fbd67c00a39ba78539d558da655dfec2 frameborder=0>
 - entry_name: |
-    YEET those immigrants
-  entry_id: 8t3fhi
-  entry_content: |
-    <img src=https://i.redditmedia.com/xfQAVVoID473CcSJRaww5e4jfdeYCRr0G1jUupzCuQw.jpg?s=ff1ea372f023443eb4c4b56a5c7662a0 frameborder=0>
-- entry_name: |
     I have always hated my overnight employee.
   entry_id: 8t627r
   entry_content: |
     <img src=https://i.redditmedia.com/qBFvQ15tB6FvQSazgaOVFToRR4uzgVaG5T0hgO5nEmg.jpg?s=0476eeca4045517534b5592e193f0412 frameborder=0>
-- entry_name: |
-    Put food in the bowl please!
-  entry_id: 8t3emy
-  entry_content: |
-    <iframe src=https://v.redd.it/rmwn8pngdl511/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     𝔗𝔥𝔢
   entry_id: 8t5zv0
@@ -251,4 +241,14 @@ data:
   entry_id: 8t4sgn
   entry_content: |
     <img src=https://i.redditmedia.com/qxuF5bdnsXML_UUyKJ_ulyHhZQgYL7LMyBHYkJgzQW4.jpg?s=809a7faa06f1454bff21a5a7c2533840 frameborder=0>
+- entry_name: |
+    Sensoring done wrong.
+  entry_id: 8t5e3w
+  entry_content: |
+    <img src=https://i.redditmedia.com/BzrcXPz7tBBVrqDYdLu3Z0z8v0kcdAHpVH_a3QWCMLc.jpg?s=799fe1a715b41fae31c14a0743f86ade frameborder=0>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8t6vqc
+  entry_content: |
+    <img src=https://i.redditmedia.com/Uk0EFL_sLCf9qN82gATi62Q3lAf3QsID0EOOpfXKUs4.jpg?s=0535dbe1597c194264f98fa74db89299 frameborder=0>
 ---
