@@ -53,11 +53,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Get that dick
-  entry_id: 8t45xp
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ua0Af5lNkXVaFW7BApAhsYT490xsFfZynTlI1jctZI4.jpg?s=c3443e785d1d095269511769c8bc8056 frameborder=0>
-- entry_name: |
     Collection of my tiny paintings, acrylic on penny
   entry_id: 8t4vtj
   entry_content: |
@@ -197,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nIOti0nI71hsQ69Nmzu5hgVQq6aXEu1FOHn6rGZjgTo.jpg?s=a1ad168784ef7abac65c00e8af147742 frameborder=0>
 - entry_name: |
-    UK should cancel Donald Trump visit, says Jeremy Corbyn
-  entry_id: 8t459w
-  entry_content: |
-    <img src=https://i.redditmedia.com/GbVPVOA-ABOJCwgci6Te2y2ch_TKE4WeQI6ZipudxBo.jpg?s=e377ff69af70c3938566a6ce291ab1bb frameborder=0>
-- entry_name: |
     Trump flips on North Korea, declaring country still an 'extraordinary threat'
   entry_id: 8t5tgd
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8t7unw
   entry_content: |
     <img src=https://i.redditmedia.com/yqZn1dJOSSG4oTBOOw6CR_lrPgE64tMztc_-xGwEwmE.png?s=17312bea50372101b119d6328269c7da frameborder=0>
+- entry_name: |
+    Sensoring done wrong.
+  entry_id: 8t5e3w
+  entry_content: |
+    <img src=https://i.redditmedia.com/BzrcXPz7tBBVrqDYdLu3Z0z8v0kcdAHpVH_a3QWCMLc.jpg?s=799fe1a715b41fae31c14a0743f86ade frameborder=0>
+- entry_name: |
+    Swiss fans threw Shaqiri a wheel of cheese after his winning goal
+  entry_id: 8t8m7k
+  entry_content: |
+    <img src=https://i.redditmedia.com/K7yG_vcLUxOPNsNVg-PL6UzPzPsUlBQB0oyldh5sxZk.jpg?s=e15a99f989a3876f886f1ca7666d9484 frameborder=0>
 ---
