@@ -23,10 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZdysxW7caiXuRg2dTY9MIWShLJ3wK28echoFT6mHetU.png?s=efa5bc438b94f8e3269f97a451270155 frameborder=0>
 - entry_name: |
-  entry_id: 8tcgyq
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.clippituser.tv%2Fc%2Ftwitter%2Fkaqqxn&url=https%3A%2F%2Fwww.clippituser.tv%2Fc%2Fkaqqxn&image=https%3A%2F%2Fclips.clippit.tv%2Fkaqqxn%2Fthumbnail_share.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=clippituser width=600 height=337 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     My friend’s kid did this to their pantry
   entry_id: 8tdxif
   entry_content: |
@@ -251,4 +247,9 @@ data:
   entry_id: 8tiikg
   entry_content: |
     <iframe src=https://v.redd.it/cawfrzu5wy511/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    boink
+  entry_id: 8tgu0d
+  entry_content: |
+    <iframe src=https://v.redd.it/6xi0ur958x511/DASH_1_2_M frameborder=0></iframe>
 ---
