@@ -222,11 +222,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/h8V7_MLn5npRegUIS-KpXRBaoaKtM62APs95lGh7ptk.jpg?s=c933e6d8630c2739cee5198049c0dcc9 frameborder=0>
 - entry_name: |
-    Always
-  entry_id: 8tbjlb
-  entry_content: |
-    <img src=https://i.redditmedia.com/tHiDDji7ocCEUtEMT62-pqJNQ8XcPKY0HVYX7VHzWns.jpg?s=a78b22dbf2e326d3502dfd2aa8fca1d6 frameborder=0>
-- entry_name: |
     doesn't really need a title
   entry_id: 8tce8o
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8th7vm
   entry_content: |
     <iframe src=https://v.redd.it/imaxmpfkpx511/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Happy married life, Kit and Rose!
+  entry_id: 8tbv23
+  entry_content: |
+    <img src=https://i.redditmedia.com/1rRteHqSxE9WhOXwHPdlkjY5gvJ1--P9D7a_pOl7Fcs.jpg?s=934b06955da4c01ce2337c5f6d073a78 frameborder=0>
 ---
