@@ -32,11 +32,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Egv-AnGcZ9C5UkcChLXYP-KEiWxmhixvEQHmHCPTq_U.jpg?s=f00b153afa00b00a9e8d0e3594a4c5a1 frameborder=0>
 - entry_name: |
-    This white guy uses seasoning when he cooks.
-  entry_id: 8tc8rx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=%2F%2Fimgur.com%2Fa%2FDz5zyhw%2Fembed&url=https%3A%2F%2Fimgur.com%2Fa%2FDz5zyhw&image=https%3A%2F%2Fi.imgur.com%2FH5uSDJF.jpg%3Ffb&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=imgur width=550 height=550 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Nice catch.
   entry_id: 8thldr
   entry_content: |
@@ -91,11 +86,6 @@ data:
   entry_id: 8th3qg
   entry_content: |
     null
-- entry_name: |
-    Abandoned vodka and pizza in the Wal-Mart shoe isle
-  entry_id: 8tca1b
-  entry_content: |
-    <img src=https://i.redditmedia.com/hZnQvr8KbdqTsW52Ko1z196FGO1ubIhHt5LaUH-Bn00.jpg?s=11a385fae7adcb4b2f52192b6ec707fd frameborder=0>
 - entry_name: |
     Iraqi soldier removes suicide belt from boy in Mosul (with English subtitles)
   entry_id: 8thc14
@@ -251,4 +241,14 @@ data:
   entry_id: 8tcd2y
   entry_content: |
     <img src=https://i.redditmedia.com/3_5x4-9NZe5em-uqPAZZbAXqhnwypZq8Arvi3P2AFxs.jpg?s=922219d9155d1a6e9940e8d25ba2f45f frameborder=0>
+- entry_name: |
+    Occasionally our chickens will lay an egg with no shell, just a soft membrane sack.
+  entry_id: 8tejvl
+  entry_content: |
+    <img src=https://i.redditmedia.com/PYEl2S2z17jz489NIE9H7tQTsAxCjhD1nhQdA3UOeos.jpg?s=10bcbc4b9206395bebbf9895b6afa61e frameborder=0>
+- entry_name: |
+    He prefers cuddling his bed over sleeping on it
+  entry_id: 8teplw
+  entry_content: |
+    <img src=https://i.redditmedia.com/3rouza5_TgGyPDSu0u2efBr_7xDuSKF5ulwjbdKPCj0.jpg?s=b13fc6c09de55876e37b6c8253ebf8ec frameborder=0>
 ---
