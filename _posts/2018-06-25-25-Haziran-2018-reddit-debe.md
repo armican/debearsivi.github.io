@@ -102,11 +102,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/pBhLI3NqnaQ?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    It’s something you do...
-  entry_id: 8tbr3w
-  entry_content: |
-    <img src=https://i.redditmedia.com/6ZK4DTvLDtH5ceKwSHhKmJ-AtCY6DKV7lIdALLSTQXk.jpg?s=4c7304e1708f16bf6cf809ed49660169 frameborder=0>
-- entry_name: |
     Hell yeah, brother!!
   entry_id: 8tfzd0
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8tbv23
   entry_content: |
     <img src=https://i.redditmedia.com/1rRteHqSxE9WhOXwHPdlkjY5gvJ1--P9D7a_pOl7Fcs.jpg?s=934b06955da4c01ce2337c5f6d073a78 frameborder=0>
+- entry_name: |
+    Stanley never loved Pam more than he did in this moment!
+  entry_id: 8tf0yc
+  entry_content: |
+    <img src=https://i.redditmedia.com/xHm7YjJVzsVg4SchK2n1mwlrCJzP-VLob-8dzbTop1U.jpg?s=7348741f43765540cccb682621aaf1e7 frameborder=0>
 ---
