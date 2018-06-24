@@ -147,11 +147,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zlGewmRZmh9Z59-4dCgI3vIRQ-1ynJQ1NiB-ckd8s4Q.jpg?s=ed0c01cd584f818fea794ded66337dff frameborder=0>
 - entry_name: |
-    Weirdly satisfying trees
-  entry_id: 8tce1v
-  entry_content: |
-    <img src=https://i.redditmedia.com/TFZUUP62OTTuhNTw2SpDvng4r8eRxCed47lBx4AwkZo.jpg?s=d6511957571030c4e8cddc274d3c89eb frameborder=0>
-- entry_name: |
     Sarah Sanders is upset a restaurant wouldn’t serve her. She’s OK with it happening to gays
   entry_id: 8tehyz
   entry_content: |
@@ -202,11 +197,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/k745z49mzw511/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Huh. I guess these are the children of the corn.
-  entry_id: 8tccov
-  entry_content: |
-    <iframe src=https://v.redd.it/s2vjmuao6y511/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     An interesting title
   entry_id: 8tddib
   entry_content: |
@@ -222,11 +212,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/h8V7_MLn5npRegUIS-KpXRBaoaKtM62APs95lGh7ptk.jpg?s=c933e6d8630c2739cee5198049c0dcc9 frameborder=0>
 - entry_name: |
-    doesn't really need a title
-  entry_id: 8tce8o
-  entry_content: |
-    <img src=https://i.redditmedia.com/vYjdtWQJFThB__DjQYnGiW5S4khVc8J42r6jnwLC2sw.png?s=1da728d868264b1794480140f5784bf3 frameborder=0>
-- entry_name: |
     Stanley never loved Pam more than he did in this moment!
   entry_id: 8tf0yc
   entry_content: |
@@ -237,11 +222,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KPdTnlKerQvMcXCGYjThNfF8JAx3DLfffTVP6oPtTg4.jpg?s=e94db78ef98ae4b47f910db72b2eba9c frameborder=0>
 - entry_name: |
-    They aren’t using real bricks for the sidewalk. They are cutting shapes into the concrete and painting it.
-  entry_id: 8tcd2y
-  entry_content: |
-    <img src=https://i.redditmedia.com/3_5x4-9NZe5em-uqPAZZbAXqhnwypZq8Arvi3P2AFxs.jpg?s=922219d9155d1a6e9940e8d25ba2f45f frameborder=0>
-- entry_name: |
     Occasionally our chickens will lay an egg with no shell, just a soft membrane sack.
   entry_id: 8tejvl
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 8teplw
   entry_content: |
     <img src=https://i.redditmedia.com/3rouza5_TgGyPDSu0u2efBr_7xDuSKF5ulwjbdKPCj0.jpg?s=b13fc6c09de55876e37b6c8253ebf8ec frameborder=0>
+- entry_name: |
+    Republicans seem to have a real problem thinking ahead 🤔
+  entry_id: 8thas1
+  entry_content: |
+    <img src=https://i.redditmedia.com/Tl07SuFhEXJcExjRVr1WTm5Gc_4UU1VjDMkvb81hkKE.jpg?s=f9d4849a69f69671d8c96101ec4c5ea9 frameborder=0>
+- entry_name: |
+    This happened today, very embarrassing
+  entry_id: 8tf28v
+  entry_content: |
+    <img src=https://i.redditmedia.com/q7TnuTMPJu1KgzGkfAa2_9a-TUmbOMBi_erIyWuQuzE.jpg?s=a7eccccd00731437779797cec4d7c842 frameborder=0>
+- entry_name: |
+    True
+  entry_id: 8tete5
+  entry_content: |
+    <img src=https://i.redditmedia.com/P3esdXdZslF9mKbmBS_I_knhQp1VfIRSwkwx2aQaPSE.jpg?s=5c9a9de99eb30ce3f6da30c42034143a frameborder=0>
+- entry_name: |
+    Fun at work with 1377 pallets
+  entry_id: 8tiikg
+  entry_content: |
+    <iframe src=https://v.redd.it/cawfrzu5wy511/DASH_600_K frameborder=0></iframe>
 ---
