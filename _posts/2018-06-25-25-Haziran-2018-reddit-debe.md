@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a2ZdZvmZuLk_MfMxD5VXDRPN8C_IwPA9UsF8zLUKWLA.jpg?s=78d56e3e8481811e0d8e009585a9fdc9 frameborder=0>
 - entry_name: |
-    TIL by 400 BC, Persian engineers had mastered the technique of storing ice in the middle of summer in the desert.
-  entry_id: 8tcrze
-  entry_content: |
-    <img src=https://i.redditmedia.com/YP91thD2Z1T1NeJMAiY2Bjs0dXI7rlwSQf9FbDEzd8o.jpg?s=edad5c7587136dd46c4895536a44a415 frameborder=0>
-- entry_name: |
     Are bus driver memes still on the rise?
   entry_id: 8tcwxt
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8tejvl
   entry_content: |
     <img src=https://i.redditmedia.com/PYEl2S2z17jz489NIE9H7tQTsAxCjhD1nhQdA3UOeos.jpg?s=10bcbc4b9206395bebbf9895b6afa61e frameborder=0>
+- entry_name: |
+    He prefers cuddling his bed over sleeping on it
+  entry_id: 8teplw
+  entry_content: |
+    <img src=https://i.redditmedia.com/3rouza5_TgGyPDSu0u2efBr_7xDuSKF5ulwjbdKPCj0.jpg?s=b13fc6c09de55876e37b6c8253ebf8ec frameborder=0>
 ---
