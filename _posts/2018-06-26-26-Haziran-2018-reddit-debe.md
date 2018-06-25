@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rbRRnyXv-cNCmoCHtTtBkf5M3T21SeEyysErSL7viT8.jpg?s=2363582f6d56736a9f73a08884d26c7b frameborder=0>
 - entry_name: |
-    Sony didn't believe that Aaron Sorkin's 162 page script for The Social Network would come out under 2 hours, so David Fincher timed Aaron reading it aloud. The reading took 1 hour 59 minutes, which was the exact running time of the final cut
-  entry_id: 8tk85i
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/Ya3jOt9K1Qk?start=1571&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     These chairs at my hotel in Munich spell out “hello.”
   entry_id: 8to5me
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8tm2kn
   entry_content: |
     <img src=https://i.redditmedia.com/UUQrBtQ5c4UyJePXSmwjtUOo03n3v9uBtEufnl5aoHQ.jpg?s=9cecdf4cb6bf018a14c8540747a4b140 frameborder=0>
+- entry_name: |
+    GIrL GetS FuCKInG vicIOuSLy AtTackEd bY WilD aNimAl
+  entry_id: 8tklk5
+  entry_content: |
+    <iframe src=https://v.redd.it/xx8w46ogc0611/DASH_2_4_M frameborder=0></iframe>
 ---
