@@ -73,10 +73,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZI0tSfqUsqJDAC9e2dVHyeURC45OyFk5cFGH-KKfCUE.jpg?s=06ca688f2f5077b687701e255f0db335 frameborder=0>
 - entry_name: |
-    The Helix Nebula looks like an eye
-  entry_id: 8tjnfw
+    Horrific
+  entry_id: 8tpyka
   entry_content: |
-    <img src=https://i.redditmedia.com/1owrTPDiK0X1GV5HjMi29B2CDGe-NC1mZLiOxxWSMEg.jpg?s=6d6897008c3ad9483618ac68b3654d88 frameborder=0>
+    <iframe src=https://v.redd.it/pxufu5rmz4611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     TIL the average dog can count to 5 and understands about 165 words, including signs, signals and gestures. The smartest dogs understand up to 250 words, putting them on par intellectually with 2-and-a-half-year-old humans.
   entry_id: 8tldet
@@ -113,6 +113,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PLpc8kdm7aWzf_iaRUjxghUTcRMKXFYNwESPk7vKpys.jpg?s=0c04e6c3d01622f371c885f3b765c6b9 frameborder=0>
 - entry_name: |
+    PsBattle: Duck wearing a crown
+  entry_id: 8tnryr
+  entry_content: |
+    <img src=https://i.redditmedia.com/wvDaT232IvCagv2AdqU5uH3PC72Nsk-6_akWtQniwSw.jpg?s=a3a6a3afc4254eabc515aaac84a1b4dd frameborder=0>
+- entry_name: |
     This massive sign was designed to trick people into getting off the highway 97.9 miles before Niagara Falls.
   entry_id: 8tlz2s
   entry_content: |
@@ -123,35 +128,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G0ZU_AXXSsIJHIUCH7bDhsOoMmxu9rR5t2h9qGqAXq8.jpg?s=3e4bfc0912dce8293f58cfe40f033014 frameborder=0>
 - entry_name: |
-    PsBattle: Duck wearing a crown
-  entry_id: 8tnryr
-  entry_content: |
-    <img src=https://i.redditmedia.com/wvDaT232IvCagv2AdqU5uH3PC72Nsk-6_akWtQniwSw.jpg?s=a3a6a3afc4254eabc515aaac84a1b4dd frameborder=0>
-- entry_name: |
     hmmm
   entry_id: 8tltsy
   entry_content: |
     <img src=https://i.redditmedia.com/iwP7VvxLr-J8RgWq8VpcqHcY7N-d3kqlcv5m-mD2G-M.jpg?s=995d692bccb0100523ddf1e76d56c51b frameborder=0>
-- entry_name: |
-    Tables Turned.
-  entry_id: 8tkucx
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gat8_RvRiMz_LZB6iOsq8Uzi7GC9ICJVsSg3ykAHT5c.jpg?s=939d15110c7140791c002f49dcc79e98 frameborder=0>
-- entry_name: |
-    The Toyota TS030 switching from its electric to its combustion engine is probably one of the most insane sounds you'll ever hear
-  entry_id: 8tktij
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/Ho-dyfI0hAM?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     It's escaped...
   entry_id: 8tp279
   entry_content: |
     <iframe src=https://v.redd.it/9nqn6a7m54611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Tables Turned.
+  entry_id: 8tkucx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gat8_RvRiMz_LZB6iOsq8Uzi7GC9ICJVsSg3ykAHT5c.jpg?s=939d15110c7140791c002f49dcc79e98 frameborder=0>
+- entry_name: |
     We will make it legal
   entry_id: 8tmh8g
   entry_content: |
     <img src=https://i.redditmedia.com/NIVtENdKGh1KZi5qLpByLvwfA92eiU5RvS5msFQ0fd4.jpg?s=83246663d03c897421fff08e216a32ec frameborder=0>
+- entry_name: |
+    The Toyota TS030 switching from its electric to its combustion engine is probably one of the most insane sounds you'll ever hear
+  entry_id: 8tktij
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/Ho-dyfI0hAM?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     me_irl
   entry_id: 8tkifq
@@ -168,20 +168,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MISPXeW-zZDArzzB6gPw-un4DYFaHUcwQ3ERM8Bv9EI.jpg?s=5aa0227a331b7dd9e0bb79a025896a05 frameborder=0>
 - entry_name: |
-    Horrific
-  entry_id: 8tpyka
+    😂
+  entry_id: 8tpri5
   entry_content: |
-    <iframe src=https://v.redd.it/pxufu5rmz4611/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/tHB4t9OHZHvO-wxbd5Mi5RRwsHo2ulaVddltK2NoQ3o.jpg?s=76b4e709c742baa1b5e2a8ee50fdbea1 frameborder=0>
+- entry_name: |
+    Found a Wizard in my Gummy Bear pack
+  entry_id: 8tkkqk
+  entry_content: |
+    <img src=https://i.redditmedia.com/RAEQheUpFaz-50Ss8oUMTB2KkBPxBVUNF74kBj_gXzY.jpg?s=97aff526f2815685a30df9431fd7d1ef frameborder=0>
+- entry_name: |
+    Forced perspective
+  entry_id: 8tpim0
+  entry_content: |
+    <iframe src=https://v.redd.it/6yelhoutm4611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     No comparisons guys.
   entry_id: 8tlpwa
   entry_content: |
     <img src=https://i.redditmedia.com/bw8eVQVTtlEM00BH3KXSdqZZNi-afErEYx6gy0BHPdQ.jpg?s=3bf9b038964482394b4f1d85c78a12ab frameborder=0>
-- entry_name: |
-    What’s something you’ve done that deserved credit but no one gave it to you?
-  entry_id: 8tjn7s
-  entry_content: |
-    null
 - entry_name: |
     Elm and resin coffee table
   entry_id: 8tn2cw
@@ -193,14 +198,14 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zoo86ps0d0611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+  entry_id: 8tls3y
+  entry_content: |
+    <img src=https://i.redditmedia.com/nSXY9iecno1MIMic78tk1dW79FbypKi7VcnEa2rwy-4.jpg?s=e416c3a7ab520690e32caafe839097b1 frameborder=0>
+- entry_name: |
     Tougher than the sun?
   entry_id: 8tlgtr
   entry_content: |
     <img src=https://i.redditmedia.com/ySaffedfS2d5PL9zBU3Ko5TpnKy5gSVQt0wj_b9lEfY.jpg?s=fc40ad1e9c07411e3252cefd681b510b frameborder=0>
-- entry_name: |
-  entry_id: 8tls3y
-  entry_content: |
-    <img src=https://i.redditmedia.com/nSXY9iecno1MIMic78tk1dW79FbypKi7VcnEa2rwy-4.jpg?s=e416c3a7ab520690e32caafe839097b1 frameborder=0>
 - entry_name: |
     There's always a bigger fish
   entry_id: 8tn6h2
@@ -222,33 +227,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hPmbQAUW8sEVaJubRcOM63xbh3be_SgfIFlupm1DaW0.jpg?s=a977057b8c75179818894a292d341e54 frameborder=0>
 - entry_name: |
-    Forced perspective
-  entry_id: 8tpim0
+    Buyers tied to Russia, Soviet republics made 86 all cash sales for Trump properties worth $109 millions
+  entry_id: 8tnbg7
   entry_content: |
-    <iframe src=https://v.redd.it/6yelhoutm4611/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    😂
-  entry_id: 8tpri5
-  entry_content: |
-    <img src=https://i.redditmedia.com/tHB4t9OHZHvO-wxbd5Mi5RRwsHo2ulaVddltK2NoQ3o.jpg?s=76b4e709c742baa1b5e2a8ee50fdbea1 frameborder=0>
+    <img src=https://i.redditmedia.com/vp3n7cDAuFfiQIC451ZNQssFG-q9y7R9gVOCCUQP4xM.jpg?s=b306085ff543f8c3176f2c6f2f6bc6f6 frameborder=0>
 - entry_name: |
     I saw this on r/dankmemes
   entry_id: 8tl6vi
   entry_content: |
     <img src=https://i.redditmedia.com/3ZyuELM7F7xKsP-gytbiml2SBOKYzhJBOOZdlzLluPE.jpg?s=72fedf9021ccb140b6c52b4738d08936 frameborder=0>
 - entry_name: |
-    Buyers tied to Russia, Soviet republics made 86 all cash sales for Trump properties worth $109 millions
-  entry_id: 8tnbg7
+    On the Space Force
+  entry_id: 8toj36
   entry_content: |
-    <img src=https://i.redditmedia.com/vp3n7cDAuFfiQIC451ZNQssFG-q9y7R9gVOCCUQP4xM.jpg?s=b306085ff543f8c3176f2c6f2f6bc6f6 frameborder=0>
+    <img src=https://i.redditmedia.com/uBMdK4TyQJcbBQ9U9LL6EHp9Ku6tMG4Af30PRednsG8.jpg?s=345a0622f646c65ebee6d3de84004288 frameborder=0>
 - entry_name: |
     A study found that, despite the political divide, most gun owners and non-gun owners agree on policies that regulate gun ownership.
   entry_id: 8tki3i
   entry_content: |
     <img src=https://i.redditmedia.com/Gb3tyRMms3y4l5l1GdRFFqjIs20xVwG5e134hPQ9Fkw.jpg?s=bc9f88123d36b6f87873d20ffbe94fda frameborder=0>
 - entry_name: |
-    GIrL GetS FuCKInG vicIOuSLy AtTackEd bY WilD aNimAl
-  entry_id: 8tklk5
+    The elite society
+  entry_id: 8tocjs
   entry_content: |
-    <iframe src=https://v.redd.it/xx8w46ogc0611/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/X1zCcfVA4qzycz0KTndRolOrlmiPomW1cTEBlqokRFs.jpg?s=5578b5063d6230b9b5adec5842e94968 frameborder=0>
 ---
