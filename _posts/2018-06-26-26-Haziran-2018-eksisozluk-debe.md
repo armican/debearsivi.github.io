@@ -6,23 +6,15 @@ data:
     chp'liler yüzünden mecliste 67 terörist beslemek
   entry_id:  78478380
   entry_writer: bonger
-  entry_fav_count: 1440
+  entry_fav_count: 1460
   entry_content: |
     pkk ile masaya oturuyor, kürt açılımı yapıyor, tc'yi kaldırıyor, milliyetçiliği ayaklar altına aldık diyor, apo'ya sayın, şehide kelle diyor. bunları yapınca terörist destekçisi olmuyorsun. hdp'ye oy verince terör destekçisi oluyorsun.<br/><br/>tebrikler.
-  entry_channels: siyaset
-- entry_name: |
-    25 haziran 2018 olağan dışı olaylar silsilesi
-  entry_id:  78470648
-  entry_writer: suff
-  entry_fav_count: 1432
-  entry_content: |
-    24 haziran 2018 seçimi sonrasında yaşanan enteresan olayların hepsidir.<br/><br/>seçimde 30% alan bir aday, kendine çok ters bir biçimde kısa mesaj<sup class="ab"><a title="(bkz: sms)" href="/?q=sms" data-query="sms">*</a></sup>ile kaybettiğini kabul ediyor. <a class="b" href="/?q=adam+kazand%c4%b1">adam kazandı</a> diyerek sadece. daha önce twitter'dan ysk'dan sonra açıklama yapacağım diyor, sonrasında seçim gecesinde değil de, bir gün sonra öğlen 12'de chp merkezinde açıklama yapacağını söylüyor. insan gerçekten kaybetti mi, kaçırıldı mı, şantaj mı yapıldı diye merak ediyor. ya da sadece hedefi chp genel başkanlığı mıydı bilemiyor. "hiç böyle bir insana da benzemiyordu." denilebiliyor sadece.<br/><br/>bu arada daha önce bir kitle kazandık diye sokaklara dökülüyor, sonra kazananın balkon konuşması yapmayacağı iddia ediliyor. ayağı sıkışan bir genç için iptal edildiği söyleniyor zafer konuşmasının. sonra bir şeyler oluyor ve konuşma yapılacağı söyleniyor, bu esnada geliyor ince'den kaybettiğini söyleyen sms bu arada. "kaybedilirken kazanıldı mı?", "bu arada neler döndü?" diye düşünüyor insan.<br/><br/>"beni ysk'nın önünden kazırsınız." diyen sayın akşener hiçbir yerde görülmüyor. 50000 avukat ile ysk'da duracağını söyleyen sayın ince ortada yok.<br/><br/><a class="b" href="/?q=adil+se%c3%a7im">adil seçim</a> diye kurulan oluşum sonuçları bir türlü veremiyor, sonra yanlı denilen aa'dan da yüksek bir sonuç veriyor. hacklendi mi diye düşünülüyor. site kapanıp açılıyor falan sürekli.<br/><br/>belki de tek muhalif kanal diye düşünülen <a class="b" href="/?q=fox+tv">fox tv</a> seçimden neredeyse hemen sonra yayını bitiriyor. üstüne konuşulmuyor bile. ki buraya da @<a class="b" href="/?q=bahamababy">bahamababy</a>'den bir ekleme geldi: yayını kapatmadan 5 dakika önce "yayını sabaha kadar sürdüreceğiz." diyorlar.<br/><br/>haberler geliyor, yalanlanıyor, yalanlananlar bir daha yalanlanıyor. konuşmalar iptal ediliyor, iptaller de iptal ediliyor. açıklama yapacağım deniliyor, açıklamalar erteleniyor. sms ile sonuç açıklanıyor. neler oluyor acaba hakikaten.<br/><br/>edit:<br/>önemli birkaç şeyi unutmuşum: <br/><br/>tayyip erdoğan televizyonda kazandığını açıklarken, chp genel başkan yardımcısı seçimin kesinlikle ikinci tura kaldığını iddia ediyor.<br/><br/>ysk'dan 7 savcı istifa etti deniliyor, sonra bu haber de yalanlanıyor.<br/><br/>sayın ince 36 saatlik seferberlik ilan ediyor. "hastalanmayacaksınız, acıkmayacaksınız, tuvalete gitmeyeceksiniz." demesine rağmen bu lafı ettikten yaklaşık 31-32 saat sonra ortadan kayboluyor.<br/><br/>@<a class="b" href="/?q=iglesias">iglesias</a>'ın mesajı üzerine bir yenisi daha eklendi: <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/akaraboga/status/1011027658853974016" title="https://mobile.twitter.com/akaraboga/status/1011027658853974016">tayyip erdoğan ve muharrem ince tam olarak aynı dakikada tweet atıyor.</a><br/><br/>@<a class="b" href="/?q=oralardan+iyi+vurur">oralardan iyi vurur</a>'da ekledi: 15 temmuz gecesi bile sözlüğe girilebilirken, seçim gününde saatlerce sözlükte bir takım meşguliyetler söz konusu oluyor(hadi bu kısım derbilerde de olabiliyor diyeceğim ama). bir gün önce iyi parti ilçe başkanı öldürülüyor ve bu konuda iyi parti tarafından bir açıklama gelmiyor.<br/><br/>@<a class="b" href="/?q=hey+missyboom">hey missyboom</a>'un mesajıyla: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/mtfyz/status/1011031211433750528" title="https://twitter.com/mtfyz/status/1011031211433750528">anadolu ajansı muharrem ince'den 5 dakika önce öğlen 12de olacak konuşmayı açıklıyor</a><br/><br/>@<a class="b" href="/?q=ekmeleddin+fihsanoglu">ekmeleddin fihsanoglu</a> ekledi: meral akşener'in tam olarak dediği saatte dediği oy aa tarafından açıklanıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201806211033960069-aksener-erdogan-anadolu-ajansi-secim-sonucu-sorusu/" title="https://tr.sputniknews.com/turkiye/201806211033960069-aksener-erdogan-anadolu-ajansi-secim-sonucu-sorusu/">aşkener'in iddiası</a> @<a class="b" href="/?q=sleth">sleth</a>'in uyarısı ile şuraya bir bilgi gireyim: <a class="b" href="/?q=adilsecim">adilsecim</a>'e göre saat 21:30'da erdoğan'ın oyları 52%, aa'ya göre 53.5% idi.<br/><br/>@<a class="b" href="/?q=iglesias">iglesias</a> bu sefer de garip bir şey söyledi: <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/recepgurkan/status/1011038170312425472" title="https://mobile.twitter.com/recepgurkan/status/1011038170312425472">chp'li edirne belediye başkanı recep gürkan muharrem ince'den haber alamıyor</a><br/>(muharrem ince evinde uyuyor diyeceğim ama herhalde partiden biri kendisinin evde olduğunu bilir, ya da en azından kendi partisinin cumhurbaşkanı adayı gösterdiği kişiden istese haberi olur diye tahmin ediyorum. belki de ince de yıkıldı telefonlara vs. cevap vermeden yattı, ama illa biri durumu söylerdi yahu.)<br/><br/>alt edit: bakın arkadaşlar sinirleniyorsunuz falan ama, burada herhangi bir iddiada bulunmuyorum. sadece garipsediğim olayları paylaşıyorum. bu olaylar şu yüzden oldu, bu olayların arkasında şu sebep var falan da demiyorum. sadece olanları enteresan bulduğumu belirtiyorum.<br/><br/>kişisel görüş editi: bir kere daha söyleyeyim; burada komplo teorisi kasmak ya da olayları bir sebebe bağlamak gibi bir derdim kesinlikle yok. bana enteresan gelen şeyleri yazdım. <br/>ayrıca seçim sonucuna laf etmiyorum, demokrasi böyle bir şey. içinde yaşadığınız, vatandaşı olduğunuz ülkede de demokrasi varsa, ve seçimden bir sonuç çıktıysa çoğunluğun istediğine ve çoğunluğun seçimine saygı duyulması gerekir.
   entry_channels: siyaset
 - entry_name: |
     muharrem ince'nin tehdit altında olma ihtimali
   entry_id:  78469669
   entry_writer: fazlahizligitme
-  entry_fav_count: 1027
+  entry_fav_count: 1029
   entry_content: |
     son edit: bunu direkt başa alıyorum özellikle mesaj atan suserlar görebilsinler diye. arkadaşlar burda yazılan şeyler zaten sadece teori. kimse bunlar gerçek bilgilerdir demedi. doğru da olabilir yanlış da olabilir. hadi yanlış olma ihtimalini düşünelim. evet yanıldık saçma sapan bişey düşündük sayın ince de bize şizofren dedi, eyvallah. kaldı ki burda<br/>(bkz: <a class="b" href="/entry/78470237">#78470237</a>) ben de kendime şizofren demişim:)<br/>e yanılmadıysak? eğer gerçekten muharrem ince cb adaylığı için mücadele vermeyi bırakacak kadar ağır bir tehdit, baskı, müdahale vs altındaysa zaten kalkıp bunu basın toplantısında söyleyemez ki. söyleyebilecek olsa dün kabul etmezdi. tehdit dediğimiz şey bir günlük şey mi ya? dün yapılan tehdit bugün geçerli olmuyor mu ki adam kalksın "dün böyle böyle oldu söyleyemedim tehdit altındaydım şimdi söylüyorum kusura bakmayın" desin. attığınız mesajlara cevap olarak yazdığım son şey olsun bu. bu mesajları direkt basın toplantısından sonra atmanız garip. dediklerime karşı çıkmak için bizzat ince'nin bunları yalanlamasının bir hükmü olmamalı ki kendisi bu varsayımda kurbandır çünkü. tabii ki böyle konuşacaktır. neyse, gerçek her ne olmuşsa olsun güzel bir konuşma yaptı, muhalefetin yıllardır başarısız bi şekilde devam eden yıkıcı hareketini yapıcı harekete döndürmeye başladı. ve daha önce de söylediğim gibi chp seçmeni değilim ancak sayın ince bu tavırlarıyla biraz olsun gönlümü çaldı, umarım ki çizgisini bozmaz. <br/><br/>arkadaş biri bana mantıklı bir açıklama yapsın. 1 saat öncesine kadar "dayanın, direnin, oyuna gelmeyin, kazanacağız, sandıkları terk etmeyin" diyen adam bir anda kaybettiğini onaylıyor. ve bunu mesajla fox tv muhabirine söylüyor. çıkıp bir açıklama dahi yapmıyor. bu direnişler olumlu yönde bir etki yapmış gibi dururken, erdoğan balkon konuşmasını iptal ediyor sebebinin de bir çocuğun ayağının bir yere sıkışmış olduğu söyleniyor. ysk'da 7 hakimin istifa ettiği söyleniyor baskılardan ötürü. (doğruluğundan emin değilim bilen yeşillendirebilir)sosyal medyada onca video, canlı yayın yapılıyor. herkes bas bas bağırıyor şöyle oylar çalındı böyle şeyler oldu şurda olay burda olay ama geliyoruz, kazanacağız şeklinde söylemler. bu sırada hiçbir siyasiden ses çıkmıyor. sonra işte ince kaybettiğini onaylıyor. tayyip yarın yapacağım dediği balkon konuşmasını şimdi yapmaya hazırlanıyor. bir saat öncesine kadar dikilen, "geçici seçim sonuçları" açıklandıktan sonra açıklama yapacağını söyleyen muharrem ince hiçbir şey olmamış gibi yenilgisini kabulleniyor. yahu bu durum sadece bana mı garip geliyor birileri bir şeyler söylesin. <br/><br/>troll bi başlık olsun diye yazmadım sadece tüm parçaları birleştirince bu ihtimal ister istemez aklımda yer edindi. "kim tehdit edecek ya etseler zaten ederlerdi önceden" de diyebilirsiniz. ama cidden bir anda ne değişti?<br/><br/>edit:tehdit yalnızca can güvenliğiyle kısıtlı bişey değildir arkadaşlar. ayrıca kişi, sadece kendi can güvenliğiye tehdit edilmez, bunun için de birçok farklı opsiyon vardır.<br/><br/>edit 2: chp seçmeni değilim. desteklediğim herhangi bir parti yok. inceye gözü kapalı canım cumhurbaşkanım diyen kitleden de değilim. sandığa dahi gitmemeyi düşünüyodum son 2 güne kadar. muhalif zırvası, yenilgiyi kabullenmemek gibi bi durum yok yani.<br/><br/>edit 3: tehdit yazarken kast ettiğim şey "kesin ince'nin kafasına silah dayandı" gibi bişey değildi. tehdit dediğimiz şey bir müdahale, bir baskı da olabilir. hatta bu baskı bizzat ince'nin kendi partisinden bile gelmiş olabilir. sadece ortada bir şey var dedik, sebeplerini de saydık. arkasında farklı şeyler aramaya gerek yok.
   entry_channels: siyaset,anket
@@ -30,23 +22,15 @@ data:
     muharrem ince'ye bir mesaj bırak
   entry_id:  78481815
   entry_writer: gulu koklayan adam
-  entry_fav_count: 967
+  entry_fav_count: 1011
   entry_content: |
     üzülme başkanım, sen hep benim ütopyamın cumhurbaşkanı olacaksın. şu an sessizliğinin sebebini komplo teorileriyle açıklamaycaksak çok üzgünsün seni o kadar iyi anlıyorum ki. bu kadar aklı başında vaatlerle, bu kadar yerinde tespitlerle, bu kadar ince göndermelerle bu kitleden %5 inde bile acaba sorusunu sorduramadıysan suç sende değildir. sen elinden gelenin en güzelini yaptın. karşında öyle kemikleşmiş bir cehalet var ki bu karanlıkla nasıl mücadele edileceğini hiçbirimiz bilmiyoruz. bırak kendilerini dünyanın lideri sanmaya devam etsinler, bırak 20 senelik yıkık şahinlerine ya da ederinin 2 misline aldıkları doblolarına dünyanın en pahalı benzinini koyup tur atıp magandalık yapsınlar. cahilliklerinin bedelini her gün ödüyorlar ve ödeyecekler bize de ödetecekler ama ne yapalım coğrafya kaderdir. burası ortadoğu.
   entry_channels: siyaset,anket
 - entry_name: |
-    25 haziran 2018 muharrem ince'nin trt'yi kovması
-  entry_id:  78485098
-  entry_writer: yuniknick
-  entry_fav_count: 956
-  entry_content: |
-    işini doğru yapmayanın orada yeri nedir?<br/>yerinde bir davranış olmuştur.
-  entry_channels: siyaset,haber
-- entry_name: |
     25 haziran 2018 sabahı hissedilenler
   entry_id:  78476125
   entry_writer: zorla bakkala gonderilen kardes
-  entry_fav_count: 904
+  entry_fav_count: 907
   entry_content: |
     bugün benim doğum günüm. 34 yaşını doldurdum. heyecanımı umudumu ve sanırım ülkemi kaybettim dün. neye uyandığımı bilmiyorum.
   entry_channels: siyaset,anket
@@ -54,7 +38,7 @@ data:
     yüzde 52'si akıl hastası olan ülkede yaşamak
   entry_id:  78475443
   entry_writer: bayilazam
-  entry_fav_count: 715
+  entry_fav_count: 721
   entry_content: |
     siz kendinizi ne kadar uzak tutmaya çalışsanız da bir şekilde hayatımızı mahvetmeye devam ederler.trafikte,seçimde,markette,takside denk gelirsin kaçamazsın.bencildir,ufak anadolu çakallıkları yapar,oğluna "bak şeker verirlerse inanma" der ama bir keke,bisküviye tav olur,soğan görünce ağlar ama silah sıka sıka kutlama yapar,akşam evine döndüğünde akıl hastası kanalını açar ve iradesiyle ve aklıyla nasıl hainleri yendiğini,oyunlarına gelmediğini izler motive olur. <br/>mahallesinden başka yer bilmez,bilmek de istemez,bilmek isteyen hayındır,laiklik kötüdür,cehape cami kapar,iyi parti fetöcü,fox amerikancı(buna ben de katılıyorum),a haber adamdır.<br/>bu akıl hastanesinde akıllı kalmaya çalışmak imkansız bu yüzden ya deliricez ya gidicez.<br/><br/>edit:(<a class="b" href="/entry/35136277">#35136277</a>) akıl hastası olmayan arkadaşlar bu entryi okursa umutsuzluğumun nedenini anlayabilir.akıl hastası olanlar okumasın onlar zaten herşeyi biliyor bilmedikleri bişey yok.<br/><br/>yeniden edit:izmirli değilim anadoludan bir şehirdenim hepinizi yakından tanıyorum akıl hastasısınız.<br/><br/>not:(<a class="b" href="/entry/78482280">#78482280</a>)<br/><br/>not:ayrıştırırsan böyle koyarız diyor bir de akıl hastaları,sen benim seçimimden dolayı bana hain derken,terörist ittifakı derken,oylarımı çalmak isterken(çalarken),havaya ateş açarak kutlama yaparken zaten ayrıştırdın kendini,arkadaş sen zaten sevmiyosun beni,bahane mi arıyosun al sana bahane akıl hastasısınız ulan,oy verdiğiniz parti haydutluk yaparken onu desteklediğiniz için ve daha bir sürü şey için akıl hastasısınız ve düzelmezsiniz.
   entry_channels: siyaset,anket,sağlık
@@ -62,18 +46,10 @@ data:
     25 haziran 2018 mahmut tanal'ın tweet'leri
   entry_id:  78494530
   entry_writer: buralarda11
-  entry_fav_count: 709
+  entry_fav_count: 713
   entry_content: |
     göte göt demiştir, hata falan yok. düşünme yetisi olmayan insanların, böyle sürünerek gebermelerinin mahsuru yok.<br/><br/>bu cahil halk ezilmeye alışmış. ezersen değerli görür, güçlü görür seni. ezin bunları amuğa koyim.
   entry_channels: siyaset,anket,haber
-- entry_name: |
-    aslında bedava kekin fena bir fikir olmaması
-  entry_id:  78493402
-  entry_writer: melankomik
-  entry_fav_count: 686
-  entry_content: |
-    25 haziran 2018 sabahı itibarıyla en büyük avuntum.<br/>battı balık yan gider. inşallah üzümlü de vardır.
-  entry_channels: siyaset,yeme-içme
 - entry_name: |
     türkiye'den siktir olup gitmek
   entry_id:  78464907
@@ -86,23 +62,15 @@ data:
     kk'nın istifasını istiyoruz kampanyası
   entry_id:  78490356
   entry_writer: green2005
-  entry_fav_count: 533
+  entry_fav_count: 544
   entry_content: |
     ilk zamanlar desteklediğim kemal kılıçdaroğlu'nun her seçimde chp'nin daha da erimesine neden olması nedeniyle başlatmak istediğim kampanya.<br/><br/>anlaşılan o ki kendi isteği veya getirdiği delegeler ile gideceği yok , halkın baskısı ile bu sağlanabilir.<br/><br/>koltukta bulunduğu her dakika akp'ye yarıyor ve artık chp'nin önünün açması gerekiyor.<br/><br/>chp@chp.org.tr iletişim adresi vasıtası ile bu isteğimizi demokratik ve düzgün bir şekilde dile getirebiliriz.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/green200511-hotmail-com-kemal-kılıçdaroğlu-istifa-etsin" title="https://www.change.org/p/green200511-hotmail-com-kemal-kılıçdaroğlu-istifa-etsin">change.org</a> sitesinde başlattığım kampanyayı da imzalayabilirsiniz.
   entry_channels: siyaset,anket
 - entry_name: |
-    tayyip'in artık full item olması
-  entry_id:  78491401
-  entry_writer: boylesidahaguzel
-  entry_fav_count: 512
-  entry_content: |
-    evet verilen tüm bu yetkilerle beraber artık tayyip 83 level full + full bir warrior olmuştur.
-  entry_channels: siyaset,oyun,teknoloji
-- entry_name: |
     stephen hawking'e rahmetli diyemezsin
   entry_id:  78500637
   entry_writer: falanfilan
-  entry_fav_count: 404
+  entry_fav_count: 424
   entry_content: |
     bu kadar pırıl pırıl ve akıllı görünen bir çocuğun zihnini bulandırmaktan başka bir işe yaramayacak söylem. yazık.
   entry_channels: haber
@@ -110,7 +78,7 @@ data:
     25 haziran 2018 muharrem ince basın toplantısı
   entry_id:  78484571
   entry_writer: uzaydan gelip gote giren semsiye
-  entry_fav_count: 343
+  entry_fav_count: 345
   entry_content: |
     oyları çalmışlar mıdır? evet<br/>10 milyon çalmışlar mıdır? hayır<br/>arada 10 milyon var arkadaşlar<br/><br/>nokta.<br/><br/>helal olsun sana verdiğim oy dürüst adam.<br/><br/>not: ismail küçükkaya gözümde bitmiştir. bugün itibariyle.
   entry_channels: siyaset,tv,haber
@@ -118,7 +86,7 @@ data:
     ismail küçükkaya
   entry_id:  78470531
   entry_writer: hayatin olagan akisi
-  entry_fav_count: 284
+  entry_fav_count: 287
   entry_content: |
     bu saatten sonra hiçbir siyasi kendisine güvenip bir şey paylaşmaz kendisiyle. adam seninle konuşuyorsa çık milyonlarin önünde konuşmaları ifşa et diye konuşmuyor.zaten kendisinin samimiyetsiz olduğunu yazmıştım daha önce burada, ek olarak boşboğazlığı da varmış.
   entry_channels: siyaset,tv,haber
@@ -126,26 +94,26 @@ data:
     muharrem ince
   entry_id:  78465051
   entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 254
+  entry_fav_count: 255
   entry_content: |
     arkadaşlar siz salak mısınız çocuk musunuz? <br/><br/>gözlerimizin önünde polis nezaretinde oylar çalındı. <br/>adamlar gayri resmi balkon konuşması yaptı. <br/>evimin önünde 2 saattir silah sıkıyorlar.<br/>polis, ambulans sirenleri birbirine girmiş. <br/>akpli çomar yüzbinler sokağa döküldü. <br/><br/>ince başkan'ın üstünde 80 milyonun sorumluluğu var. <br/>öbür şerefsiz gibi ben konuşayım, şu seçimin üstüne yatayım da ülke yansın, bitsin, karışsın bana ne demiyor. <br/><br/>allah yardımcısı olsun. <br/>ben birey olarak içimde nasıl bir korku, kaygı yaşıyorum. <br/>kim bilir o şu an üzerinde 20 milyonluk oy sorumluluğuyla neler hissediyordur.<br/><br/>ben senden razıyım, dilerim ki allah da senden razı olur başkanım. <br/><br/>keşke gözü yaşlı oturmaktan başka bir şey gelse elimizden... <br/>ama ne yapacağız ki polisimize mi vuralım... <br/>allahım sen yardım et.
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
-    adam kazandı
-  entry_id:  78467496
-  entry_writer: mevsimsiz ucan kara sinek
-  entry_fav_count: 246
-  entry_content: |
-    kalkip yatmama vesile olacak aciklama. ama boyle delikanlica beyan etmesi de ayrica sempatik geldi. seni her turlu seviyoruz muharrem ince! tutanin elinde kalacakti ekonomi zaten, o sen olma bosver.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
     afrika'dan ülke satın alıyoruz
   entry_id:  78503947
   entry_writer: nickbulbana
-  entry_fav_count: 229
+  entry_fav_count: 235
   entry_content: |
     dış gücü, sömürgecileri falan geçtim daha ilk ayında bir bahaneyle komşu kabile palalarla doğar bizi. hiç mi afrika tarihi okumadınız? adamlar kendi aralarında bile düşman kabileyi burun şeklinden tanıyor da katlediyor bizi pembe götümüzle barındırmazlar oralarda.
   entry_channels: ekşi-sözlük,seyahat
+- entry_name: |
+    yeni bir sol parti
+  entry_id:  78492943
+  entry_writer: that aint falco
+  entry_fav_count: 214
+  entry_content: |
+    yeni bir sol parti şu an türkiye'nin ihtiyacı olan son şey falan olabilir.
+  entry_channels: siyaset
 - entry_name: |
     muhalefetin kaybetmesinin sebepleri
   entry_id:  78464940
@@ -155,21 +123,21 @@ data:
     bugün okulun bahçesinde yaşlı bir bey öksürük krizine girdi. ben de kendisine refleks olarak elimdeki açılmamış suyu uzattım. suyu içtikten sonra teşekkür etti ve dedi ki, oyumu vereyim de öyle öleyim bari. ben de kime oy vereceksiniz ki diye sordum. erdoğan’a tabii ki dedi. ben de cesaret edip niye diye sordum. dünyaya kafa tutuyor, ince gelince köprüyü yıkacakmış, chp hem pkk’yı koruyor hem fetö’yü dedi. yanındaki hanımın doları chp’liler yükseltiyor demesi zaten beni benden aldı. ben teröriste benziyor muyum diye sordum gülerek. adamcağız, yavrum siz çok kibarsınız yönetimi şöyle cevval birileri yapmalı dedi.<br/><br/>çok düşünmeye gerek yok, muhalefetin kaybetmesinin ilk sebebi havuz medyasıdır. trt spikerleri bile bugün türkiye’nin bayramıdır dediler. adamlar ne anlatıyorsa bunlar inanıyor. tüm dünya bize düşman.<br/><br/>ikincisi de akp zihniyeti dediğimiz şeyin türklerin % 50’sinin zihniyeti olmasıdır. az çalış, az üret, çok para istifle, çal çırp, güçsüzü ez, güçlüye biat et, senden olamayanı itele ötele. akp türkiye’nin partisidir.
   entry_channels: siyaset,anket
 - entry_name: |
-    yeni bir sol parti
-  entry_id:  78492943
-  entry_writer: that aint falco
-  entry_fav_count: 211
-  entry_content: |
-    yeni bir sol parti şu an türkiye'nin ihtiyacı olan son şey falan olabilir.
-  entry_channels: siyaset
-- entry_name: |
     erkeklerin seks konusunda seçici olmaması
   entry_id:  78488377
   entry_writer: agizatakilansarki
-  entry_fav_count: 173
+  entry_fav_count: 175
   entry_content: |
     neyse ki gundem normale dondu...
   entry_channels: ilişkiler
+- entry_name: |
+    25 haziran 2018 muharrem ince'nin attığı tweet
+  entry_id:  78509564
+  entry_writer: bu gece basim agriyor
+  entry_fav_count: 175
+  entry_content: |
+    başkan öyle ölmeyiz. füze fırlat
+  entry_channels: siyaset
 - entry_name: |
     25 haziran 2018 dolar kuru
   entry_id:  78490800
@@ -182,7 +150,7 @@ data:
     recep tayyip erdoğan'ın bir sonraki hedefi
   entry_id:  78497635
   entry_writer: balli armutun babasi
-  entry_fav_count: 134
+  entry_fav_count: 137
   entry_content: |
     ben reisin yerinde olsam muhtarlıktan başlar bir tur daha atarım cumhurbaşkanlığına kadar. zevk değil mi amk
   entry_channels: siyaset,anket
@@ -190,7 +158,7 @@ data:
     devlet bahçeli
   entry_id:  78464901
   entry_writer: ziksenyatmaz
-  entry_fav_count: 110
+  entry_fav_count: 111
   entry_content: |
     50 yıl sonraki tarih kitaplarında, erdoğan'ın bu ülkeye ne kadar zarar verdiğinden değil, bu karaktersiz devlet adamı yüzünden bu halde olduğumuz bahsedilecek.<br/>türkiye'nin gordüğü en dönek, en kendini bilmez, lüzumsuz ve saçma siyasetçisidir.<br/>umarım tez zamanda vicdan azabıyla kıvranarak ölemez.
   entry_channels: siyaset
@@ -198,39 +166,31 @@ data:
     oy kullanmayan %11.81 oranındaki seçmen
   entry_id:  78494442
   entry_writer: ziron
-  entry_fav_count: 91
+  entry_fav_count: 92
   entry_content: |
     boş yapmayın. <br/><br/>türkiye seçime katılım oranında dünyanın sayılı ülkelerindendir. çünkü bizim gibi seçimlere ölüm kalım meselesi gözüyle bakan başka devlet yoktur. <br/><br/>şimdi oy kullanmayanları açacak olur isek.<br/><br/>dağdaki pkk'lıların şehre inmeyi beceremeyenleri<br/>kanun kaçakları <br/>15 temmuz sonrası yurtdışına kaçan fetöcüler<br/><br/>yukarıdaki unsuları çıkınca keyfinden sandığa gitmeyen seçmen %5'i geçmez. bırakın da bu kadar da olsun.
   entry_channels: siyaset
 - entry_name: |
-    erdoğan'ın üretime yatırım yapmamasının nedeni
-  entry_id:  78501032
-  entry_writer: seylann
-  entry_fav_count: 91
-  entry_content: |
-    "bim'e a101e bakın onlar üretim değil mi?"<br/><br/>değil beyinsiz kardeşim. değil geri zekalı kardeşim. değil öküz kardeşim. ulan konuşmayayım diyorum zorla tahrik ediyorsunuz. çukulata, çiklet satarak 81 milyon + 5 milyon suriyeli'nin (2.5 daha geliyor) karnını nasıl doyuracaksın? aylık kazancın 2 bin lira, harcaman 6 bin lira! ve makas giderek açılıyor. nasıl ayakta kalacaksın söyler misin? ekmeğin içindeki buğday bile ithal. tarıma elverişli toprakların korkunç bir hızla eriyor aptal politikalar yüzünden. hem o çukulatayı, çikleti bostwana'da üretiyor. bizim yüksek teknoloji kategorisinde mallar (ve yazılım) üretmemiz gerekiyor. (üretmek de yetmiyor, satabilmek gerekiyor) onu da senin gibi mallar ile üretemeyiz. ama kek üretebiliriz bak seninle. on yüz bin trilyar kek ihraç ederek 440 milyar dölar borcumuzu öderiz belki. ödemeyemezsek de sikeriz seni. ne de olsa alışkınsın.
-  entry_channels: siyaset
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id:  78471073
-  entry_writer: zeki yakisikli zengin
-  entry_fav_count: 89
-  entry_content: |
-    arkasında halkın haberinin bile olmadığı pekçok farklı dış gücün olduğunu düşünüyorum. erken seçim kararı garipti ve ikinci tura kalacağı kesin olarak görülüyordu. son haftalara kadar doğru düzgün seçim kampanyası bile yürütmedi. kaybedecek izlenimi verdi. sonuçlar ise sanki daha önceden belirlenmişçesine yandaş bir anket şirketinin söylediği şekilde gerçekleşti. muhalefet adayları tehdit edilmişçesine susuyorlar. kim bilir arkaplanda neler döndü, ne hesaplar yapıldı.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
     ülkemde arap istemiyorum
   entry_id:  78500327
   entry_writer: yunusemrea
-  entry_fav_count: 78
+  entry_fav_count: 87
   entry_content: |
     ne turist, ne yatırımcı, ne mülteci. bu ülkede arap istemiyoruz. geberesice köpekler, medeniyetsiz hayvanlar. turizm bölgelerine arap almaktan, medeni turist gelmez oldu
   entry_channels: siyaset
 - entry_name: |
+    seçimi rte'nin kazanmasının iyi yanları
+  entry_id:  78486997
+  entry_writer: zerdest
+  entry_fav_count: 86
+  entry_content: |
+    ekonomik krizin elinde patlamasının kesinleşmesi. kendisine oy veren çomarların hazin bitişi.
+  entry_channels: siyaset,anket
+- entry_name: |
     meral akşener
   entry_id:  78465313
   entry_writer: uzun yoldan gelen gariban
-  entry_fav_count: 74
+  entry_fav_count: 76
   entry_content: |
     <a class="b" href="/?q=abdullah+g%c3%bcl">abdullah gül</a> garabetinden ülkeyi kurtardığı için bile alkışı hak etmiştir.<br/><br/>kısa zamanda ekibini tam kuramadı. inşallah salim kafayla yerel seçimlere hazırlanır.
   entry_channels: siyaset
@@ -238,10 +198,34 @@ data:
     31 mart 2019 yerel seçimleri
   entry_id:  78506285
   entry_writer: uber insan
-  entry_fav_count: 65
+  entry_fav_count: 71
   entry_content: |
     -bu sefer farklı olacak<br/>-ekonomi kötü abi halk isyanda<br/>-kimle konustuysam oy vermicem diyor<br/>(sonuçlar açıklanır)<br/>-%60 ne abi düşer daha<br/>-buyuksehir oyları gelmedi<br/>-sandiklari terk etmeyin<br/>-kesin hile var aq<br/>-turkiyeden siktir olup gitmek<br/>-celladina asiksa bir millet..<br/><br/>kapanış.
   entry_channels: siyaset
+- entry_name: |
+    ricardo quaresma
+  entry_id:  78496871
+  entry_writer: rollingstoness
+  entry_fav_count: 64
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sa%c4%9fol+karde%c5%9f+%c3%a7ok+bilgilendirici+bir+entry+olmu%c5%9f">sağol kardeş çok bilgilendirici bir entry olmuş</a>)
+  entry_channels: spor
+- entry_name: |
+    fatih portakal
+  entry_id:  78466934
+  entry_writer: ampri kuka
+  entry_fav_count: 61
+  entry_content: |
+    fatih portakal, yayında dedi ki bize de mi eleştiri var. evet var sebebini yazayım yayını sonra tekrar izle sevgili portakal.<br/><br/>1- akpli mustafa isimli kişiye gösterdiğin toleransı hiçbir kişiye göstermedin.<br/>2- sürekli o mustafa isimli kişinin otorite olduğunu gösterir şekilde girizgah yaptın.<br/>3- chp'li bülent tezcan telefonla bağlanıp dediğini açıklamaya çalıştığında ismail küçükkaya'yı uyararak zorla telefonu kapattırdın.<br/>4- aa'nın manipülasyon yapıyor olma ihtimaline ihtimal vermemen, izmir'in oylarının geç açıklanıyor olmasına "kırsal kesim var, ondandır" goygoyuna hay hay demen.<br/><br/>insanlar aa'nın sonuçlarını paylaşıyor olmanızdan değil bugünkü tutumunuzdan rahatsız oldular.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    25 haziran 2018 uefa cfcb'nin galatasaray kararı
+  entry_id:  78504068
+  entry_writer: adougles
+  entry_fav_count: 61
+  entry_content: |
+    koynumuzda milan beslemişiz
+  entry_channels: spor,haber
 - entry_name: |
     24 haziran 2018 cumhurbaşkanlığı seçimi
   entry_id:  78466448
@@ -251,42 +235,10 @@ data:
     lan akp'ye oy veren seçmen için sağdan alternatif çıksın diyoruz. sonra sağdan çıkan alternatife oy veren yine biziz. nasıl iş anlamadım ben. <br/><br/>not:chp
   entry_channels: siyaset,haber
 - entry_name: |
-    fatih portakal
-  entry_id:  78466934
-  entry_writer: ampri kuka
-  entry_fav_count: 60
-  entry_content: |
-    fatih portakal, yayında dedi ki bize de mi eleştiri var. evet var sebebini yazayım yayını sonra tekrar izle sevgili portakal.<br/><br/>1- akpli mustafa isimli kişiye gösterdiğin toleransı hiçbir kişiye göstermedin.<br/>2- sürekli o mustafa isimli kişinin otorite olduğunu gösterir şekilde girizgah yaptın.<br/>3- chp'li bülent tezcan telefonla bağlanıp dediğini açıklamaya çalıştığında ismail küçükkaya'yı uyararak zorla telefonu kapattırdın.<br/>4- aa'nın manipülasyon yapıyor olma ihtimaline ihtimal vermemen, izmir'in oylarının geç açıklanıyor olmasına "kırsal kesim var, ondandır" goygoyuna hay hay demen.<br/><br/>insanlar aa'nın sonuçlarını paylaşıyor olmanızdan değil bugünkü tutumunuzdan rahatsız oldular.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
-    ricardo quaresma
-  entry_id:  78496871
-  entry_writer: rollingstoness
-  entry_fav_count: 59
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sa%c4%9fol+karde%c5%9f+%c3%a7ok+bilgilendirici+bir+entry+olmu%c5%9f">sağol kardeş çok bilgilendirici bir entry olmuş</a>)
-  entry_channels: spor
-- entry_name: |
-    25 haziran 2018 uefa cfcb'nin galatasaray kararı
-  entry_id:  78504068
-  entry_writer: adougles
-  entry_fav_count: 58
-  entry_content: |
-    koynumuzda milan beslemişiz
-  entry_channels: spor,haber
-- entry_name: |
-    25 haziran 2018 muharrem ince'nin attığı tweet
-  entry_id:  78509564
-  entry_writer: bu gece basim agriyor
-  entry_fav_count: 56
-  entry_content: |
-    başkan öyle ölmeyiz. füze fırlat
-  entry_channels: siyaset
-- entry_name: |
     bir erkeğin en öpülesi yeri
   entry_id:  78508009
   entry_writer: yuce divanda yatan adam
-  entry_fav_count: 48
+  entry_fav_count: 59
   entry_content: |
     ekşi sözlük gay bulma platformuna hoş geldiniz başlığı.
   entry_channels: anket
@@ -294,10 +246,26 @@ data:
     muharrem ince'nin yaptığı en büyük yanlış
   entry_id:  78502713
   entry_writer: a book on c
-  entry_fav_count: 47
+  entry_fav_count: 54
   entry_content: |
     neredeyse yoktur. sorun a veya b kişisinin yanlış stratejisi değildir.<br/>sorun, <a class="b" href="/?q=t%c3%bcrk+halk%c4%b1n%c4%b1n+fa%c5%9fist+y%c3%b6netim+istemesi">türk halkının faşist yönetim istemesi</a>dir.
   entry_channels: siyaset,anket
+- entry_name: |
+    muharrem ince'nin bu böyle yarım kalmayacak tweeti
+  entry_id:  78509421
+  entry_writer: martakisnida95
+  entry_fav_count: 36
+  entry_content: |
+    inanıyoruz, güveniyoruz <a class="b" href="/?q=%23y%c3%bcr%c3%bc%c3%b6n%c3%bcm%c3%bczde">#yürüönümüzde</a> ince başkan.<br/><br/>not: ağlatmıştır.
+  entry_channels: siyaset,müzik,haber
+- entry_name: |
+    mağazada inceleyip internetten satın almak
+  entry_id:  78505856
+  entry_writer: return of the kedi
+  entry_fav_count: 34
+  entry_content: |
+    "avm'ye bir ton kira öde, çalışanın maaşını , sgk'sını ıvırını zıvırını öde..<br/>tüm maliyetlere ilaveten , fırsat maliyetini de ekle."<br/><br/>lol (: bana ne bilader? ben ekonomik hayatta ilişkiye girdiğim her müessesenin fırsat maliyeti, kar/zarar analizini yapmak zorunda değilim. bir mal dükkanda 5 lira, yan dükkanda 6 lira , internette 4 lira ise, tabi ki de 6 liralık olanı alırımasdasd tabi ki de ucuz olanı alırım saçmalamayın. <br/><br/>internet o kadar kolaysa kapa dükkanı, avm'ye verdiğin kirayı internet sitesi için ver, tezgahtarlara da kod yazdırırsın asdasd
+  entry_channels: 
 - entry_name: |
     kemal kılıçdaroğlu
   entry_id:  78465355
@@ -307,93 +275,109 @@ data:
     istifa et artık. bu ülkeye rte den daha fazla zarar veriyorsun.
   entry_channels: siyaset,haber
 - entry_name: |
-    mağazada inceleyip internetten satın almak
-  entry_id:  78505856
-  entry_writer: return of the kedi
-  entry_fav_count: 25
-  entry_content: |
-    "avm'ye bir ton kira öde, çalışanın maaşını , sgk'sını ıvırını zıvırını öde..<br/>tüm maliyetlere ilaveten , fırsat maliyetini de ekle."<br/><br/>lol (: bana ne bilader? ben ekonomik hayatta ilişkiye girdiğim her müessesenin fırsat maliyeti, kar/zarar analizini yapmak zorunda değilim. bir mal dükkanda 5 lira, yan dükkanda 6 lira , internette 4 lira ise, tabi ki de 6 liralık olanı alırımasdasd tabi ki de ucuz olanı alırım saçmalamayın. <br/><br/>internet o kadar kolaysa kapa dükkanı, avm'ye verdiğin kirayı internet sitesi için ver, tezgahtarlara da kod yazdırırsın asdasd
-  entry_channels: 
-- entry_name: |
-    bahçeli ve rte'nin ilk tartışacağı konu
-  entry_id:  78508959
-  entry_writer: kabetaslayansatanist
-  entry_fav_count: 21
-  entry_content: |
-    kek mı peskevut mü sorunsalı.
-  entry_channels: siyaset,anket
-- entry_name: |
-    muharrem ince'nin bu böyle yarım kalmayacak tweeti
-  entry_id:  78509435
-  entry_writer: me is why i believe
-  entry_fav_count: 19
-  entry_content: |
-    içimi sızlatmış, gözlerimi doldurmuştur.<br/><br/>kalmayacak başkanım kalmayacak, söz olsun...
-  entry_channels: siyaset,müzik,haber
-- entry_name: |
     ısrarla lambaya basmak isteyen trabzonlu teyze
   entry_id:  78507649
   entry_writer: twardziel
-  entry_fav_count: 18
+  entry_fav_count: 25
   entry_content: |
     evet ekşi yazarları; sadece bu seçimlerde 1000 sayfa yazı okudunuz, tüm adayların vaatlerini dinlediniz, buraya gelen vekillere soru sordunuz ve kafanızdaki doğru adaya oy verdiniz.<br/><br/>ve "iki tane mi vuracuuuk?" diye soran bu cehaletle oyunuz aynı sayıldı.<br/><br/>(bkz: <a class="b" href="/?q=cahillerin+oyuyla+demokrasi+olmaz">cahillerin oyuyla demokrasi olmaz</a>)<br/><br/>“demokrasinin iki çeşiti vardır. biri zor ve gerçek olanı, öbürü de kolayı, oyun olanı...<br/>topraksızı topraklandırmadan, işçinin durumunu sağlama bağlamadan, halkı esaslı bir eğitimden geçirmeden olmaz birincisi, köklü değişiklikler ister. bu zor demokrasidir ama gerçek demokrasidir. ikincisi kâğıt ve sandık demokrasisidir. okuma yazma bilsin bilmesin; toprağı, işi olsun olmasın, demagojiyle serseme çevrilen halk, bir sandığa elindeki kâğıdı atar. böylece kendi kendini yönetmiş sayılır. bu, oyundur, kolaydır. amerika bu demokrasiyi yayıyor işte. biz de demokrasinin kolayını seçtik. çok şeyler göreceğiz daha...”<br/><br/><a class="b" href="/?q=ismail+hakk%c4%b1+tongu%c3%a7">ismail hakkı tonguç</a>
   entry_channels: siyaset
 - entry_name: |
-    bedelli askerlik
-  entry_id:  78476578
-  entry_writer: lukretius
-  entry_fav_count: 18
-  entry_content: |
-    iyi parti ve ince'ye oy vermiş biri olarak beklediğim şey. parasını bastırıp bu askerlik sorununu halletmek istiyorum mk. adaletliymiş değilmiş çok da skimeydi. bu ülkede böyle...
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    portakal ve küçükkaya'yı siliyoruz kampanyası
-  entry_id:  78505791
-  entry_writer: grezcar
-  entry_fav_count: 11
-  entry_content: |
-    ne yamyam bir kitlesiniz lan siz.<br/><br/>laf başı gelince de akplilere bağnaz dersiniz. siz zır cahilsiniz amk.
-  entry_channels: siyaset,anket,haber
-- entry_name: |
-    25 haziran 2018 iran portekiz maçı
-  entry_id:  78506143
-  entry_writer: agacli yollarinda dolmabahcede
-  entry_fav_count: 8
-  entry_content: |
-    bu iran takımı cidden acayip bir takım. oyuncularının birbirleriyle kavga etmesi, taklayla taç atmaya çalışmak, ofsayt olan gole yarım dakika sevinmek gibi türlü tuhaflıkları mevcut.
-  entry_channels: spor
-- entry_name: |
     26 haziran kemal kılıçdaroğlu'nun istifa etmesi
   entry_id:  78510255
   entry_writer: high and dry and high
-  entry_fav_count: 6
+  entry_fav_count: 19
   entry_content: |
     salak misiniz siz? adam milletvekili oldu. inceyi yani en buyuk parti ici muhalefeti partiden uzaklastirdi. ne istifasi japonya mi bura?
   entry_channels: siyaset
 - entry_name: |
-    26 haziran 2018 chp olağanüstü toplantısı
-  entry_id:  78500615
-  entry_writer: 17december
-  entry_fav_count: 4
+    25 haziran 2018 iran portekiz maçı
+  entry_id:  78508962
+  entry_writer: vodkavandetta
+  entry_fav_count: 18
   entry_content: |
-    istifa gelmezse ortaligin karisacagi toplantidir.<br/><br/>olur da bu toplantinin sonucunda “bakin urfa’da, elazig’da, yozgat’da vekil cikarttik” falan derlerse anlayacagim ki bu adamlar ufak zaferle yetinen basiretsiz koltuk sevdalilari*<br/><br/>*zaten halihazirds oyle goruyorum.
-  entry_channels: siyaset
-- entry_name: |
-    25 haziran 2018 ispanya fas maçı
-  entry_id:  78510490
-  entry_writer: gecegelencis91
-  entry_fav_count: 1
-  entry_content: |
-    bu fas'ın içinden geçtiği ispanya şey değil mi ya, bizim koca götlülerin prim için topa bile koşmadığı ve 3-0 onursuzca yenildikleri ispanya?
+    ya amina koyim portekiz maçını izleyeyim güzel olur diyorum ispanya maçında gol oluyor. o maçı açıyorum portekiz maçında gol oluyor. sonra yine ispanya maçını açıyorum portekiz penaltı bulup kaçırıyor. sabahtandir 2 maçın da zevksiz kısımlarını izliyorum.
   entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  78472146
+  entry_writer: the last realist sami
+  entry_fav_count: 10
+  entry_content: |
+    3000 tl belki daha üzeri borcum var (gss prim borcu),<br/>2 yıldır işsizim (iki üniversite bitirdim, son çalıştığım iş yeri ekonomik nedenlerden kapandı)<br/>işsizliğim dolayısıyla evlenemiyorum,<br/>çoğu insanın hayal bile edemeyeceği yerlerde (şırnak vb) askerlik yapmama ve elimden geldiğince dinimin gereklerini yerine getirmem rağmen terörist, vatan haini gibi yaftalamalara maruz kaldığım bir ülkedeyim (m.ince'ye oy verdim)<br/><br/>yukarıda yazanları hepsini bir paranteze alıp diyorum ki yaşamak, insanca olmadıktan sonra neye yarar!!
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    cam şişeden su içme elitistliği
+  entry_id:  78504347
+  entry_writer: mushroomblue
+  entry_fav_count: 8
+  entry_content: |
+    her gün veya tekrar dolduruyorsa kokmadan maksimum 2-3 gün kullanabileceği pet şişeye durmadan para vermektense cam şişesini gerektiğinde kaynak sularla yıkayıp, isterse makineye atarak temizleyip uzunca bir süre kullanabildiğinden olabilir. mesela yani. biraz düşününce mantıklı.
+  entry_channels: sağlık,yeme-içme
+- entry_name: |
+    portakal ve küçükkaya'yı siliyoruz kampanyası
+  entry_id:  78505391
+  entry_writer: monch
+  entry_fav_count: 7
+  entry_content: |
+    bunlar gazeteciyim diye ortada geziyor küçükkaya gelmiş ben onun dostu muyum? ben gazeteciyim diyor tamam gazetecisin kabul ettim peki gece 12.30 da mesaj atmak nedir? artistlik yapıyorsun ya ben dostu değilim diye dostu olmayan birine gece 12 de mesaj atma hakkını kim veriyor sana? gazeteci olman mı? gazeteci olunca öyle kafana göre istediğin saatte mesaj atabiliyor musun? ver telefonunu o zaman bende bir gazeteci arkadaşa senin numaranı vereyim her gün gece 2 de seni arasın olur mu? <br/><br/>o gün kim bilir adamı kaç kişi aradı, kaç kişi mesaj attı adam sizi yakın görmüş seni adam yerine koymuş sana cevap vermiş. insan nezaketen bunu yayınlayabilir miyim? diye soracağına yok kayıt dışı değilmiş yok ben gazeteciymişim yemişim sizin gazeteciliğinizi her akşam çıkıp önce insan olmak gerekiyor diyorsunuz ya!! heh işte önce insan olun insan tacizci olmayın dostunuz, arkadaşınız olmayan kişilere gece 12 de mesaj atmayın!!!!
+  entry_channels: siyaset,anket,haber
 - entry_name: |
     vincent aboubakar
-  entry_id:  78507549
-  entry_writer: mazut
+  entry_id:  78508485
+  entry_writer: tecrubeyegerekyok
+  entry_fav_count: 6
+  entry_content: |
+    sen gel habeş kralı, sen gel ilk islam halifesi, sen gel alemin en dengesiz forveti. nolur gel <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: spor
+- entry_name: |
+    uçakların haddinden fazla pahalı olması
+  entry_id:  78509903
+  entry_writer: medeniyet
+  entry_fav_count: 5
+  entry_content: |
+    pazardan domates aldığını sanan yazar versusu. <br/><br/>bak sana daha ilginç bir şey söyleyeyim. benim masamdaki 7 kiloluk bilgisayar kasası 400 lira ama amerikan savunma sanayi’nin geçen yıl ürettiği 70 gram ağırlığındaki çip 400 milyon dolar. <br/><br/>insan gerçekten hayret ediyor.
+  entry_channels: ekonomi,havacılık
+- entry_name: |
+    türkiye'nin 1. başkanına tavsiyeler
+  entry_id:  78482525
+  entry_writer: kumulatifvergimatrahi
+  entry_fav_count: 5
+  entry_content: |
+    gitmek isteyenlerin uçak bileti benden demiştin. tek yön kanada bileti için iletişime geçersen sevinirim.
+  entry_channels: siyaset,anket
+- entry_name: |
+    cristiano ronaldo
+  entry_id:  78508801
+  entry_writer: kinberski
+  entry_fav_count: 5
+  entry_content: |
+    kusura bakma bro. handikapın oranı güzeldi. boşu boşuna penaltı kaçırttırdık sana da.
+  entry_channels: spor
+- entry_name: |
+    halk tv yayınının hd olmaması
+  entry_id:  78509972
+  entry_writer: ketcapli dondurma
+  entry_fav_count: 4
+  entry_content: |
+    ben bu kanalı izleyebildiğimize şükrediyorum , adamlar hd yok diyor yahu.
+  entry_channels: siyaset,tv
+- entry_name: |
+    25 haziran 2018 ispanya fas maçı
+  entry_id:  78510088
+  entry_writer: ozmania
+  entry_fav_count: 2
+  entry_content: |
+    ramos ipnesi yerleri öptü, faslı dalyan yapıştırdı kafayı. sırf ramos yavşağı yüzünden bir an önce elensin istiyorum şu ispanya.
+  entry_channels: spor
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  78504082
+  entry_writer: thestoryofus
   entry_fav_count: 0
   entry_content: |
-    negredo'yu iteleyemeyeceksek çift forvet oynasınlar, baya iş yapar bunlar.
-  entry_channels: spor
+    benden bu kadar tıkla yaz işte.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/volhovope">http://connected2.me/volhovope</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     aşık olduğun kişiye bir şarkı bırak
   entry_id:  78505939
@@ -402,4 +386,20 @@ data:
   entry_content: |
     bu geçici hevesin tadını çıkar, ikinizden birisi yarın bıkar, gözünün kamaştığına hiç aldanma, yıldızların ışıltısı ay çıkana kadar...rekor.demet akalın
   entry_channels: anket,ilişkiler,müzik
+- entry_name: |
+    26 haziran kılıçdaroğlu istifası
+  entry_id:  78512026
+  entry_writer: oluroylearada
+  entry_fav_count: 0
+  entry_content: |
+    chp liler olarak iç savaşın sırası değil. kk yı da harcamamak lazım. meclis grubunu pekala yönetebilir. ayrıca bugünkü olumlu sonuçları kendisine borçluyuz. bu işlerin suhuletle halledilmesi lazım. parti organlarına zaman tanınmalı.
+  entry_channels: siyaset,haber
+- entry_name: |
+    2018 rusya dünya kupası
+  entry_id:  78510857
+  entry_writer: utanan ayi
+  entry_fav_count: 0
+  entry_content: |
+    fas'a yazık oldu. ilk maç 90+5'te kendi kalelerine gol atmasalar, bugün de son dakikada o aptal golü yemeseler ispanya'yı eleyip üst tura çıkmışlardı.<br/>buradan da ispanya'nın afedersiniz bokum gibi oynadığı gerçeğini görebiliyoruz.
+  entry_channels: spor,haber
 ---
