@@ -178,11 +178,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bw8eVQVTtlEM00BH3KXSdqZZNi-afErEYx6gy0BHPdQ.jpg?s=3bf9b038964482394b4f1d85c78a12ab frameborder=0>
 - entry_name: |
-    A prepubescent Jack Black around 1982
-  entry_id: 8tjjn6
-  entry_content: |
-    <img src=https://i.redditmedia.com/hZWcWWNw5GKtPR1jzl7GS-j5sR3BTR-MpLGpLX1twUU.jpg?s=c586fc58dc1acbd47b6277b890442b15 frameborder=0>
-- entry_name: |
     What’s something you’ve done that deserved credit but no one gave it to you?
   entry_id: 8tjn7s
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8tki3i
   entry_content: |
     <img src=https://i.redditmedia.com/Gb3tyRMms3y4l5l1GdRFFqjIs20xVwG5e134hPQ9Fkw.jpg?s=bc9f88123d36b6f87873d20ffbe94fda frameborder=0>
+- entry_name: |
+    GIrL GetS FuCKInG vicIOuSLy AtTackEd bY WilD aNimAl
+  entry_id: 8tklk5
+  entry_content: |
+    <iframe src=https://v.redd.it/xx8w46ogc0611/DASH_2_4_M frameborder=0></iframe>
 ---
