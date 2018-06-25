@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZI0tSfqUsqJDAC9e2dVHyeURC45OyFk5cFGH-KKfCUE.jpg?s=06ca688f2f5077b687701e255f0db335 frameborder=0>
 - entry_name: |
-    This is a UV light used in hospitals to decontaminate rooms that were occupied by patients with particularly resistant bacteria or bugs
-  entry_id: 8tjcao
-  entry_content: |
-    <img src=https://i.redditmedia.com/oig-TBg7jgDy-nlef3u3_fGboabMgnu52zV61tNZ-kQ.jpg?s=3be340aaafa0a7b10f066f043a2ef5fe frameborder=0>
-- entry_name: |
     The Helix Nebula looks like an eye
   entry_id: 8tjnfw
   entry_content: |
@@ -203,11 +198,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zoo86ps0d0611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Amazing Costume
-  entry_id: 8tjgnp
-  entry_content: |
-    <iframe src=https://v.redd.it/17coeewhkz511/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Tougher than the sun?
   entry_id: 8tlgtr
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8tl6vi
   entry_content: |
     <img src=https://i.redditmedia.com/3ZyuELM7F7xKsP-gytbiml2SBOKYzhJBOOZdlzLluPE.jpg?s=72fedf9021ccb140b6c52b4738d08936 frameborder=0>
+- entry_name: |
+    Buyers tied to Russia, Soviet republics made 86 all cash sales for Trump properties worth $109 millions
+  entry_id: 8tnbg7
+  entry_content: |
+    <img src=https://i.redditmedia.com/vp3n7cDAuFfiQIC451ZNQssFG-q9y7R9gVOCCUQP4xM.jpg?s=b306085ff543f8c3176f2c6f2f6bc6f6 frameborder=0>
+- entry_name: |
+    A study found that, despite the political divide, most gun owners and non-gun owners agree on policies that regulate gun ownership.
+  entry_id: 8tki3i
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gb3tyRMms3y4l5l1GdRFFqjIs20xVwG5e134hPQ9Fkw.jpg?s=bc9f88123d36b6f87873d20ffbe94fda frameborder=0>
 ---
