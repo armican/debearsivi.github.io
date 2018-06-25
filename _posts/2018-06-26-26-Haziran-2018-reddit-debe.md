@@ -148,11 +148,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XkDpQdikUdOEEfZtzln3c_BqqnWPJ7JrVEgNjtgM3p0.jpg?s=77435561ad250815afbb604494cb47fe frameborder=0>
 - entry_name: |
-    A Rainy Night in San Francisco
-  entry_id: 8tkbs1
-  entry_content: |
-    <img src=https://i.redditmedia.com/HgEVv2TyiqdwoMY9jYQBM4Aj3A7d6MXwLZ74B7goBcU.jpg?s=6f4f98f6eb88ff9b5f6281f975f54348 frameborder=0>
-- entry_name: |
     Backfired
   entry_id: 8tmo0q
   entry_content: |
@@ -207,11 +202,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ySaffedfS2d5PL9zBU3Ko5TpnKy5gSVQt0wj_b9lEfY.jpg?s=fc40ad1e9c07411e3252cefd681b510b frameborder=0>
 - entry_name: |
-    I’m sure it’s been posted before but this was 1000 pieces of pure red hell.
-  entry_id: 8tkgo9
-  entry_content: |
-    <img src=https://i.redditmedia.com/ce2o562DCeIN8TQz4-wkDJw6jXWZQSxihi9jO7b2BJE.jpg?s=e76dfb7d08e0fa47041d7a115dffc16f frameborder=0>
-- entry_name: |
     Dinosaur evolution
   entry_id: 8tm0dd
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8tklk5
   entry_content: |
     <iframe src=https://v.redd.it/xx8w46ogc0611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    'Square wave' by Ivan Black sculpture, based on the Fibonacci
+  entry_id: 8tm8oi
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConstantMellowBettong&url=https%3A%2F%2Fgfycat.com%2FConstantMellowBettong&image=https%3A%2F%2Fthumbs.gfycat.com%2FConstantMellowBettong-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Inverted Aquarium
+  entry_id: 8tl697
+  entry_content: |
+    <iframe src=https://v.redd.it/9coxeizbr0611/DASH_600_K frameborder=0></iframe>
 ---
