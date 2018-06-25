@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PNkcatleqj_UXXSFaCzMbhq-pvxjUTPBd8pBNaiIgGU.jpg?s=293ca724ea090008a977afbde0b25c26 frameborder=0>
 - entry_name: |
-    This man built a rollercoaster in his backyard for his grandchildren
-  entry_id: 8tjrnn
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFirmHastyElephant&url=https%3A%2F%2Fgfycat.com%2FFirmHastyElephant&image=https%3A%2F%2Fthumbs.gfycat.com%2FFirmHastyElephant-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=258 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     Don’t mind me..just squeezing in here..perfect!
   entry_id: 8tl259
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8tocjs
   entry_content: |
     <img src=https://i.redditmedia.com/X1zCcfVA4qzycz0KTndRolOrlmiPomW1cTEBlqokRFs.jpg?s=5578b5063d6230b9b5adec5842e94968 frameborder=0>
+- entry_name: |
+    GIrL GetS FuCKInG vicIOuSLy AtTackEd bY WilD aNimAl
+  entry_id: 8tklk5
+  entry_content: |
+    <iframe src=https://v.redd.it/xx8w46ogc0611/DASH_2_4_M frameborder=0></iframe>
 ---
