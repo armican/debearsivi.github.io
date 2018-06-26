@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MnrDu1ZYCrAWZwZxEh3Bjn_yEMLoOLbt3Amuxstd9_U.jpg?s=5658a8d0f7b63606015ff7108b1d12d0 frameborder=0>
 - entry_name: |
-    That dog got shooketh.
-  entry_id: 8tslvz
-  entry_content: |
-    <img src=https://i.redditmedia.com/SP40IN9EzlntRQXJvWAge4peT5jG8PMmSsjAqBPOiF4.gif?fm=jpg&s=1c6f8a7b81fbdf9c98bacd58acc1350c frameborder=0>
-- entry_name: |
     I work in a kitchen. You have no idea how many people say 'You look like the guy from ratatouille'. Every damn minute.
   entry_id: 8tzsyf
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8tsskh
   entry_content: |
     null
+- entry_name: |
+    Hyena enjoying his bath.
+  entry_id: 8tv06o
+  entry_content: |
+    <iframe src=https://v.redd.it/ea4cm0xmx5611/DASH_9_6_M frameborder=0></iframe>
 ---
