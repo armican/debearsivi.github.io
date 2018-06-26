@@ -28,6 +28,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/denzA2OKenjglGHKOrdM-oJR-j6fZWl4Qsp95tWSVpg.jpg?s=91acd99a00752b2be34027dd325f146d frameborder=0>
 - entry_name: |
+    I told my son if he let me shoot his tooth out I'd upload it to the internet. Disclaimer it was wobbly beforehand I don't just shoot his teeth out for fun.
+  entry_id: 8tzuqk
+  entry_content: |
+    <iframe src=https://v.redd.it/ozqbnubogc611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Found these while cleaning my old closet out. Good memories.
   entry_id: 8tue9d
   entry_content: |
@@ -38,25 +43,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IKsKDmN1h6nrW8gi6dJk2Xe9TKnBv-MBQrZ76URmPEo.jpg?s=3932ff8886c7b6426b63430edc76259a frameborder=0>
 - entry_name: |
-    I told my son if he let me shoot his tooth out I'd upload it to the internet. Disclaimer it was wobbly beforehand I don't just shoot his teeth out for fun.
-  entry_id: 8tzuqk
+    Went to local comic-con as shitty sailor moon, ended up on the news
+  entry_id: 8tx9pv
   entry_content: |
-    <iframe src=https://v.redd.it/ozqbnubogc611/DASH_2_4_M frameborder=0></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/N6rwymIcipM?start=28&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     If she could use a phone, she'd be calling the cops
   entry_id: 8tvze5
   entry_content: |
     <img src=https://i.redditmedia.com/wYlCaNV0N2hBQSm6J8xY1majFSxaQ6Ayn2QA7nN0eq4.jpg?s=c1bb7df0a8588f6bbc38974c32a57943 frameborder=0>
 - entry_name: |
-    Went to local comic-con as shitty sailor moon, ended up on the news
-  entry_id: 8tx9pv
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/N6rwymIcipM?start=28&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Just checking up on you,
   entry_id: 8tyjtr
   entry_content: |
     <iframe src=https://v.redd.it/zi08u4rj9b611/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Perspective matters
+  entry_id: 8tzl6g
+  entry_content: |
+    <iframe src=https://v.redd.it/nt0rrfef9c611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Twins married twins. Then each couple had twins.
   entry_id: 8tw0jt
@@ -67,15 +72,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/E1nbY8Emn-KsdP1Sm9gDGXprfAqlvgU0tiW84dzeAso.jpg?s=bcd1d90cc5f71a9740157342538ce3b1 frameborder=0>
 - entry_name: |
-    Perspective matters
-  entry_id: 8tzl6g
-  entry_content: |
-    <iframe src=https://v.redd.it/nt0rrfef9c611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Shaking hands with a harpy eagle
   entry_id: 8tuq56
   entry_content: |
     <img src=https://i.redditmedia.com/eyac9xgVZ5eANZ2k0SdvBaL9EWCKUfgqITjDSDEyrjA.jpg?s=13f5a57a774103f96803857f8dbda1b3 frameborder=0>
+- entry_name: |
+    Accidentally took the best photo of my puppy
+  entry_id: 8u0n5o
+  entry_content: |
+    <img src=https://i.redditmedia.com/VYRZkoaThwUzrfPxMcjSOz7UVQbEV2FHh_sh5l3CMZM.jpg?s=a6da119553edbc0e1a1431e9458cd307 frameborder=0>
 - entry_name: |
     Babe?
   entry_id: 8tw5gm
@@ -86,6 +91,11 @@ data:
   entry_id: 8tygv6
   entry_content: |
     <img src=https://i.redditmedia.com/jKkVUFpYt_3PNfN2JpKZt0z0RUcAL4BijYhhqM4IiFo.jpg?s=11e8e53e790974e52b474f63b5764d72 frameborder=0>
+- entry_name: |
+    Now you try!
+  entry_id: 8u0sxj
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnkemptFirsthandBluegill&url=https%3A%2F%2Fgfycat.com%2FUnkemptFirsthandBluegill&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnkemptFirsthandBluegill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
     TIL Growing up in rural North Carolina, Richard “Old Man” Harrison of Pawn Stars fame became a school bus driver at the age of 14, parking it at his house every night and picking up children in the morning. He also earned his nickname of “Old Man” at the age of 38
   entry_id: 8tz32h
@@ -101,6 +111,11 @@ data:
   entry_id: 8turx8
   entry_content: |
     <img src=https://i.redditmedia.com/tmDA3j-yo50ykCa9zMBSPhOR-YWwwXqHs3R_z5bUC8U.jpg?s=3c1226752c34aeed73df80b8eedb0cc0 frameborder=0>
+- entry_name: |
+    Most wonderful thing in whole wide world
+  entry_id: 8u02si
+  entry_content: |
+    <img src=https://i.redditmedia.com/kO8svjgs3pO_EL8iOamT5gCdL5DrD3qQLhoONp7oBPg.jpg?s=3b9c9cfb596cd330986c05468052a4a1 frameborder=0>
 - entry_name: |
     Russian kitty Romka making the rounds at the horse farm where he lives
   entry_id: 8tulf1
@@ -127,45 +142,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GH5_Cl9pc06ygk6r7k535Mxac3xvyLLpUQq8pmI8tQY.jpg?s=f63d45ac45c2563aac7a1bf83602e0b3 frameborder=0>
 - entry_name: |
-    Most wonderful thing in whole wide world
-  entry_id: 8u02si
-  entry_content: |
-    <img src=https://i.redditmedia.com/kO8svjgs3pO_EL8iOamT5gCdL5DrD3qQLhoONp7oBPg.jpg?s=3b9c9cfb596cd330986c05468052a4a1 frameborder=0>
-- entry_name: |
     Hide and Seek game on expert mode.
   entry_id: 8tyxre
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVagueWeepyGorilla&url=https%3A%2F%2Fgfycat.com%2Fvagueweepygorilla&image=https%3A%2F%2Fthumbs.gfycat.com%2FVagueWeepyGorilla-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
-    These starbucks cups have the McDonald’s logo on them.
-  entry_id: 8tvkee
-  entry_content: |
-    <img src=https://i.redditmedia.com/ofDV4r9xJel3ZACG_hwVQUDi4LctXzi7IuRe6Oz4ers.jpg?s=a37da3682435423109b4ffff5b0cf4dd frameborder=0>
 - entry_name: |
     A frightening tornado forming
   entry_id: 8tvl3l
   entry_content: |
     <iframe src=https://v.redd.it/s8nqdaido8611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    These starbucks cups have the McDonald’s logo on them.
+  entry_id: 8tvkee
+  entry_content: |
+    <img src=https://i.redditmedia.com/ofDV4r9xJel3ZACG_hwVQUDi4LctXzi7IuRe6Oz4ers.jpg?s=a37da3682435423109b4ffff5b0cf4dd frameborder=0>
+- entry_name: |
     A six-figure salary is considered 'low income' in San Francisco, and the threshold is rising
   entry_id: 8tw2g1
   entry_content: |
     <img src=https://i.redditmedia.com/_Ih6Cy0NuhDVJlILP1Vs_AqXUWXhU373Afnc35OlPGs.jpg?s=fa4a7b851911f9e608604ac0c47ec24d frameborder=0>
 - entry_name: |
-    Accidentally took the best photo of my puppy
-  entry_id: 8u0n5o
+    Buzz Aldrin wearing his new space suit
+  entry_id: 8tysl1
   entry_content: |
-    <img src=https://i.redditmedia.com/VYRZkoaThwUzrfPxMcjSOz7UVQbEV2FHh_sh5l3CMZM.jpg?s=a6da119553edbc0e1a1431e9458cd307 frameborder=0>
+    <img src=https://i.redditmedia.com/Q86pSn53YmsCAQ7YDZmcmjbOON3qQLWfvGzjZIMYQRM.jpg?s=8c26eecb704998623741662d8321d64e frameborder=0>
 - entry_name: |
     Gordon Ramsay with kids vs. with adults
   entry_id: 8tu1mu
   entry_content: |
     <iframe src=https://v.redd.it/hi6xk4mim7611/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Buzz Aldrin wearing his new space suit
-  entry_id: 8tysl1
-  entry_content: |
-    <img src=https://i.redditmedia.com/Q86pSn53YmsCAQ7YDZmcmjbOON3qQLWfvGzjZIMYQRM.jpg?s=8c26eecb704998623741662d8321d64e frameborder=0>
 - entry_name: |
     Yuppp
   entry_id: 8tu9sz
@@ -191,20 +196,20 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSarcasticFantasticHyracotherium&url=https%3A%2F%2Fgfycat.com%2FSarcasticFantasticHyracotherium&image=https%3A%2F%2Fthumbs.gfycat.com%2FSarcasticFantasticHyracotherium-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Two guys try to rob an elderly man
-  entry_id: 8tuels
-  entry_content: |
-    <iframe src=https://v.redd.it/ziby6cfsu7611/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Now you try!
-  entry_id: 8u0sxj
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnkemptFirsthandBluegill&url=https%3A%2F%2Fgfycat.com%2FUnkemptFirsthandBluegill&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnkemptFirsthandBluegill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allowfullscreen></iframe>
-- entry_name: |
     My arm after biking through heavy fog at 5am
   entry_id: 8tykg0
   entry_content: |
     <img src=https://i.redditmedia.com/ZVdGlA3GK1Q_B8YXnGpm4xXSn1VsmIKVLMQsd0Astms.jpg?s=2d38a78370b3e4843420d0f428e77bd3 frameborder=0>
+- entry_name: |
+    A title.
+  entry_id: 8tya9p
+  entry_content: |
+    <img src=https://i.redditmedia.com/IG-JTa68Ovgxjd1HiLyQyw4hpO3gWN1Mg-F5KVA29Zw.jpg?s=f43b86bd0f9a8b6faa41af33f2dec4c4 frameborder=0>
+- entry_name: |
+    Two guys try to rob an elderly man
+  entry_id: 8tuels
+  entry_content: |
+    <iframe src=https://v.redd.it/ziby6cfsu7611/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Oh Boy!
   entry_id: 8tz4iz
@@ -216,15 +221,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ea4cm0xmx5611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    A title.
-  entry_id: 8tya9p
-  entry_content: |
-    <img src=https://i.redditmedia.com/IG-JTa68Ovgxjd1HiLyQyw4hpO3gWN1Mg-F5KVA29Zw.jpg?s=f43b86bd0f9a8b6faa41af33f2dec4c4 frameborder=0>
-- entry_name: |
     Anon is happy
   entry_id: 8twbyj
   entry_content: |
     <img src=https://i.redditmedia.com/IeRbp1hgl9mvoNGB_8V0GX1_Rih4gHWGSU_nTtzKR9k.png?s=4742a3065d686e8f53211eccc8963933 frameborder=0>
+- entry_name: |
+    This new planet lights made a real effort to exclude Pluto
+  entry_id: 8tz20w
+  entry_content: |
+    <img src=https://i.redditmedia.com/CvMnVgYad21_bNpDkArvtYvs2QvK2_CmsOHfGB5Fss8.jpg?s=c905c5dabdae79d70ccdc7d863ff0f75 frameborder=0>
 - entry_name: |
     Wax seals being sealed
   entry_id: 8tuqov
@@ -236,18 +241,13 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FChillyFrailArieltoucan&url=https%3A%2F%2Fgfycat.com%2FChillyFrailArieltoucan&image=https%3A%2F%2Fthumbs.gfycat.com%2FChillyFrailArieltoucan-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 - entry_name: |
-    Cat.
-  entry_id: 8tw1q8
-  entry_content: |
-    <img src=https://i.redditmedia.com/80WqGQAHwyhgny6L3pL6QlK1hnj_3f1tQs8pnGyrOCw.jpg?s=3ec2348cb4283e89cb46f2a42700a2c0 frameborder=0>
-- entry_name: |
-    This new planet lights made a real effort to exclude Pluto
-  entry_id: 8tz20w
-  entry_content: |
-    <img src=https://i.redditmedia.com/CvMnVgYad21_bNpDkArvtYvs2QvK2_CmsOHfGB5Fss8.jpg?s=c905c5dabdae79d70ccdc7d863ff0f75 frameborder=0>
-- entry_name: |
     We do it well
   entry_id: 8ty4vl
   entry_content: |
     <img src=https://i.redditmedia.com/A-7dVTXf_7XaEfTW1sJN0EDt0_l0fY6i-PGUtgRlu7I.jpg?s=7cb8d7825aaf82430a8862f6c5d75cea frameborder=0>
+- entry_name: |
+    So SO handsome!
+  entry_id: 8tzl4u
+  entry_content: |
+    <img src=https://i.redditmedia.com/jdhJo-BtUhp5hmN3HsdNe6UMuEQaocXieKAAwvDpI84.jpg?s=7f11531a41157f09d960d0cf9d09d1f9 frameborder=0>
 ---
