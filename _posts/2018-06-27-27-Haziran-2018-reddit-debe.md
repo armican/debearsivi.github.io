@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/N9SqGibkwdblTQ8iJrosE5ZG5jcmU59OgSyWCKgoOPc.jpg?s=21884f5863e853819f4ffe3c99224593 frameborder=0>
 - entry_name: |
-    Alternative View of Moe's Tavern
-  entry_id: 8ttgvu
-  entry_content: |
-    <img src=https://i.redditmedia.com/2JPURXhNcfpdr0ZIk8Ccr3aahqb5-rdB03dUYA-LU74.jpg?s=6f494b7c7709c54d40b89c6736d05636 frameborder=0>
-- entry_name: |
     Not enough baby giraffes on here
   entry_id: 8tw54z
   entry_content: |
@@ -162,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VYRZkoaThwUzrfPxMcjSOz7UVQbEV2FHh_sh5l3CMZM.jpg?s=a6da119553edbc0e1a1431e9458cd307 frameborder=0>
 - entry_name: |
-    Splendid view through the porthole.
-  entry_id: 8ttijp
-  entry_content: |
-    <iframe src=https://v.redd.it/rr18jzz0b7611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     It wasn't a puddle? Are you seeing this fun shit?
   entry_id: 8ttma4
   entry_content: |
@@ -211,11 +201,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Fv5h7-3Uky6UwlBoWXUicpbRtis09QGsdTC4OiMy5TQ.jpg?s=a99f7e145acf870b59b78abdcb8dff17 frameborder=0>
 - entry_name: |
-    Bird People by Stefan Koidl
-  entry_id: 8ttgah
-  entry_content: |
-    <img src=https://i.redditmedia.com/NEjMCtS2SGU0eSPwaxE_xRY9HA04F6Kq-joLPqq83pM.jpg?s=8923a6e82441993003e6e9e5895f2028 frameborder=0>
-- entry_name: |
     MaN ThRowS CoRGi oFf pLaNe tO iTs fUcKing DeATh
   entry_id: 8tvp55
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8tya9p
   entry_content: |
     <img src=https://i.redditmedia.com/IG-JTa68Ovgxjd1HiLyQyw4hpO3gWN1Mg-F5KVA29Zw.jpg?s=f43b86bd0f9a8b6faa41af33f2dec4c4 frameborder=0>
+- entry_name: |
+    Anon is happy
+  entry_id: 8twbyj
+  entry_content: |
+    <img src=https://i.redditmedia.com/IeRbp1hgl9mvoNGB_8V0GX1_Rih4gHWGSU_nTtzKR9k.png?s=4742a3065d686e8f53211eccc8963933 frameborder=0>
+- entry_name: |
+    Wax seals being sealed
+  entry_id: 8tuqov
+  entry_content: |
+    <iframe src=https://v.redd.it/bn79h4qu28611/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Learning to swim!
+  entry_id: 8tvk7u
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FChillyFrailArieltoucan&url=https%3A%2F%2Fgfycat.com%2FChillyFrailArieltoucan&image=https%3A%2F%2Fthumbs.gfycat.com%2FChillyFrailArieltoucan-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
 ---
