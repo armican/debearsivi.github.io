@@ -157,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VYRZkoaThwUzrfPxMcjSOz7UVQbEV2FHh_sh5l3CMZM.jpg?s=a6da119553edbc0e1a1431e9458cd307 frameborder=0>
 - entry_name: |
-    It wasn't a puddle? Are you seeing this fun shit?
-  entry_id: 8ttma4
-  entry_content: |
-    <iframe src=https://v.redd.it/e267b1wed7611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Gordon Ramsay with kids vs. with adults
   entry_id: 8tu1mu
   entry_content: |
@@ -186,16 +181,6 @@ data:
   entry_id: 8tuyyd
   entry_content: |
     <iframe src=https://v.redd.it/mzsa2oyk88611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    hmmm
-  entry_id: 8ttmlb
-  entry_content: |
-    <img src=https://i.redditmedia.com/CFYpykz8p0tEYiB0HvfK8aCCsLq51Gz2T-ERzcfKD80.jpg?s=7260c8d04db97f1b9341ee8ad9abf599 frameborder=0>
-- entry_name: |
-    what happened to civility???
-  entry_id: 8ttn5c
-  entry_content: |
-    <img src=https://i.redditmedia.com/dfNzbLjZtXR-BIcL-wIks9H2vdXe8hNAtlg2INO_KXg.jpg?s=c1e6260dda99bc0da1b9b30ea263becc frameborder=0>
 - entry_name: |
   entry_id: 8tu76l
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8tvk7u
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FChillyFrailArieltoucan&url=https%3A%2F%2Fgfycat.com%2FChillyFrailArieltoucan&image=https%3A%2F%2Fthumbs.gfycat.com%2FChillyFrailArieltoucan-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allowfullscreen></iframe>
+- entry_name: |
+    Cat.
+  entry_id: 8tw1q8
+  entry_content: |
+    <img src=https://i.redditmedia.com/80WqGQAHwyhgny6L3pL6QlK1hnj_3f1tQs8pnGyrOCw.jpg?s=3ec2348cb4283e89cb46f2a42700a2c0 frameborder=0>
+- entry_name: |
+    This new planet lights made a real effort to exclude Pluto
+  entry_id: 8tz20w
+  entry_content: |
+    <img src=https://i.redditmedia.com/CvMnVgYad21_bNpDkArvtYvs2QvK2_CmsOHfGB5Fss8.jpg?s=c905c5dabdae79d70ccdc7d863ff0f75 frameborder=0>
+- entry_name: |
+    We do it well
+  entry_id: 8ty4vl
+  entry_content: |
+    <img src=https://i.redditmedia.com/A-7dVTXf_7XaEfTW1sJN0EDt0_l0fY6i-PGUtgRlu7I.jpg?s=7cb8d7825aaf82430a8862f6c5d75cea frameborder=0>
 ---
