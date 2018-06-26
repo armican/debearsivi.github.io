@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IKsKDmN1h6nrW8gi6dJk2Xe9TKnBv-MBQrZ76URmPEo.jpg?s=3932ff8886c7b6426b63430edc76259a frameborder=0>
 - entry_name: |
-    Show Love
-  entry_id: 8tshuv
-  entry_content: |
-    <img src=https://i.redditmedia.com/-sYxXmDQs3yvHl1pNREXfm-S1nZDFTifZ2BXejg3xc0.jpg?s=90d96adaf856f4cc51e6a1513a6a1f36 frameborder=0>
-- entry_name: |
     If she could use a phone, she'd be calling the cops
   entry_id: 8tvze5
   entry_content: |
@@ -126,11 +121,6 @@ data:
   entry_id: 8twkti
   entry_content: |
     <img src=https://i.redditmedia.com/tJMLvIFK6sBr1W9wTXHu-njhk12rJQpUJLGKALky_NQ.jpg?s=1bbee7bf4a13b6de683dc05ff5bb1537 frameborder=0>
-- entry_name: |
-    TIL in a soccer match between Iran and Denmark, an Iranian player mistook a whistle from the crowd as being the referee's half-time signal, and picked the ball up with his hands in the penalty area. Danish player Morten Wieghorst missed the resultant penalty on purpose, and Denmark lost 1–0.
-  entry_id: 8tsee9
-  entry_content: |
-    <img src=https://i.redditmedia.com/HkqcVmDmaFba64GB8GhjRudoMGtDz5emxulBCWaxtyI.jpg?s=2d3e69ec109e8b347acebcecab179d42 frameborder=0>
 - entry_name: |
     Two robbers regretting their decision to target an old man who’s also an ex-boxer.
   entry_id: 8tvw8x
@@ -250,4 +240,14 @@ data:
   entry_id: 8tsv8a
   entry_content: |
     <iframe src=https://v.redd.it/sdc1h7oow6611/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    I told my son if he let me shoot his tooth out I'd upload it to the internet. Disclaimer it was wobbly beforehand I don't just shoot his teeth out for fun.
+  entry_id: 8tzuqk
+  entry_content: |
+    <iframe src=https://v.redd.it/ozqbnubogc611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    I claim The Daily Show made up the subtitles for their Fox News vs. North Korea State TV segment. Korean Redditor /u/acelaten rewatches the whole original propaganda video and proves the subtitles are mostly accurate.
+  entry_id: 8tsskh
+  entry_content: |
+    null
 ---
