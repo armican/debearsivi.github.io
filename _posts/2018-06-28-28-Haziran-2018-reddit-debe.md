@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KnLsRVjHA41cr5NKEj8rkd6xe1NLYs7x5jb3zpMCqTo.jpg?s=d86b9476270b3dfa6445b8127dd496d3 frameborder=0>
 - entry_name: |
-    Presenting Exhibit A
-  entry_id: 8u1yx5
-  entry_content: |
-    <img src=https://i.redditmedia.com/txz4WlrlIqnSUAiQha68xZakcq75mRlS2jZbnwpEL0s.jpg?s=83edfac5156052b352295667fbed63fb frameborder=0>
-- entry_name: |
     I cant stop watching this shot.
   entry_id: 8u3fng
   entry_content: |
@@ -111,11 +106,6 @@ data:
   entry_id: 8u6if1
   entry_content: |
     <img src=https://i.redditmedia.com/F9de4IlNIYhTGzPiTTOhx6QuYKKTK6vw0gt14w9ZCPw.jpg?s=7abd3202dd65cad8d5907e3cc93222b7 frameborder=0>
-- entry_name: |
-    My uncle has framed cereal
-  entry_id: 8u21km
-  entry_content: |
-    <img src=https://i.redditmedia.com/gv0BkM5N_6yFYc2elueJfX1TCQp2DgjIa0FTTzLLriY.jpg?s=3a36db7cc392b8d66e1d79b29e036058 frameborder=0>
 - entry_name: |
     I was telling a girl I met in a bar last night about my uncanny ability to guess the day a woman was born on just by feeling her tits.
   entry_id: 8u2omv
@@ -250,4 +240,14 @@ data:
   entry_id: 8u8q77
   entry_content: |
     <iframe src=https://v.redd.it/5byxb9xm0j611/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    I’m currently on month 2 after playing like a week straight
+  entry_id: 8u2cpi
+  entry_content: |
+    <img src=https://i.redditmedia.com/BjfKeZDVhLoE04_n1IP7hZYIU28BuPwAkcU8XiJJ5v8.jpg?s=159ae2db465bc072470ea0891d3e8982 frameborder=0>
+- entry_name: |
+    i fucking cringed at this
+  entry_id: 8u5ffp
+  entry_content: |
+    <img src=https://i.redditmedia.com/re_W5M4WreSNx6DOoa46DJ02jiGG904eyXOcCceXPFs.jpg?s=c975d11b4bba41c4ccaa3d9b1fd91141 frameborder=0>
 ---
