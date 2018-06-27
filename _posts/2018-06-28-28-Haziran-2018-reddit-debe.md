@@ -192,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/NZgoVLxKy1I0Sh0qX-l0a-36IZG8MvVcYO9F-wouUvo.jpg?s=7207287626b08dd27265960ccd8e5782 frameborder=0>
 - entry_name: |
-    Confession Kitty
-  entry_id: 8u342z
-  entry_content: |
-    <img src=https://i.redditmedia.com/Q4A2PNpKBPFtoEA9A_UbKm7hmuh4VXgMCSR1INgU8sI.jpg?s=67a41f260c79a183cfb967c322731c30 frameborder=0>
-- entry_name: |
     Cat Hiccups
   entry_id: 8u8njc
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8u5ffp
   entry_content: |
     <img src=https://i.redditmedia.com/re_W5M4WreSNx6DOoa46DJ02jiGG904eyXOcCceXPFs.jpg?s=c975d11b4bba41c4ccaa3d9b1fd91141 frameborder=0>
+- entry_name: |
+    The colorful reflections from people’s shirts on my airplane
+  entry_id: 8u8y2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/ztVzpW-IpJtkZrgPbLEaY16vj1nii3WsVI5Nru4SfXk.jpg?s=d74c71a53eaaa9e92160b4051a6ba946 frameborder=0>
 ---
