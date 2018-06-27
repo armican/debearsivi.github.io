@@ -6,7 +6,7 @@ data:
     markette yere düşen cüzdanın üzerine yatan kadın
   entry_id:  78573311
   entry_writer: byzantium
-  entry_fav_count: 1281
+  entry_fav_count: 1303
   entry_content: |
     ne yatması aq gayet ayakta. iki saat kadın nasıl yatacak yere diye bekledim.
   entry_channels: haber
@@ -14,7 +14,7 @@ data:
     mecliste ne dersek o olacak rte'yi biz kurtardık
   entry_id:  78562114
   entry_writer: tetikci muhabir
-  entry_fav_count: 829
+  entry_fav_count: 833
   entry_content: |
     tayyip sizi öyle bir sikecek ki haberiniz olmayacak
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     27 haziran 2018 viskilere %70 vergi konulması
   entry_id:  78561858
   entry_writer: bluemeth
-  entry_fav_count: 537
+  entry_fav_count: 551
   entry_content: |
     ben hep tek buzlu içtiğimden beni hayvan gibi ilgilendiren konu lan bu neymiş.
   entry_channels: haber,yeme-içme,ekonomi
@@ -30,7 +30,7 @@ data:
     türkiye'nin suriye'den patates ithal etmesi
   entry_id:  78578295
   entry_writer: pizza life
-  entry_fav_count: 495
+  entry_fav_count: 511
   entry_content: |
     "vatandaşını ithal etmişiz, bi patatesini mi ithal etmeyeceğiz?" dedirten...
   entry_channels: siyaset,haber,yeme-içme,ekonomi
@@ -38,47 +38,47 @@ data:
     diyarbakır'da açılan millet kıraathanesi
   entry_id:  78578284
   entry_writer: blindbandit
-  entry_fav_count: 465
+  entry_fav_count: 472
   entry_content: |
     (bkz: <a class="b" href="/?q=100+bine+yak%c4%b1n+kitap">100 bine yakın kitap</a>) <br/>at yalanı ..... .......
   entry_channels: siyaset,haber
 - entry_name: |
-    süs köpeğini öldüren pitbull
-  entry_id:  78576212
-  entry_writer: pqosd
-  entry_fav_count: 355
-  entry_content: |
-    2 üstteki yorumu görüyor ve artırıyorum. pitbull besleyen orospu çocuğudur.
-  entry_channels: haber
-- entry_name: |
     uzun dönem asker erkek aldatılmaya mahkumdur
   entry_id:  78572518
   entry_writer: paslanmazman
-  entry_fav_count: 343
+  entry_fav_count: 361
   entry_content: |
     bakın kızlar, dişil varlıklar..<br/><br/>ne yaparsanız yapın, sevgilinizi asla ama asla askerde terketmeyin. <br/><br/>geçenlerde bir dişi arkadaşımız böyle birşeyden bahsetmişti; sevgilim askerde ama ben başka biriyle aldattım şimdi hemen terketmeli miyim?<br/><br/>askerliği anlatmak ofsaytı anlatmaktan daha zor. gözler terkedilip gece hüngür hüngür ağlayan o kadar çok "çocuk" gördü ki askerde. ayıptır, günahtır. <br/><br/>dünyanın neresinde olursa olsun asker adamın yanında moral de beraber gider. ne cihan devletleri moralli askerler sayesinde kurulmuştur bir bilseniz. sen bunu o adamdan aldığında, o adam artık yoktur. askerde zaten birey olunmaz. herkes askerdir. sen çocuğu aldatıyorsun, terkediyorsun, sonra o çocuk on ay hakkari'ye dağıtıma gidiyor. bizim ordu norveç ordusu gibi harlem shake yapmıyor dağda bayırda.<br/><br/>böyle bir vebalin altından çok ama çok zor kalkılır.
   entry_channels: ilişkiler
 - entry_name: |
+    süs köpeğini öldüren pitbull
+  entry_id:  78576212
+  entry_writer: pqosd
+  entry_fav_count: 357
+  entry_content: |
+    2 üstteki yorumu görüyor ve artırıyorum. pitbull besleyen orospu çocuğudur.
+  entry_channels: haber
+- entry_name: |
+    27 haziran 2018 muharrem ince açıklaması
+  entry_id:  78573721
+  entry_writer: bacakkillarinitarayanadam
+  entry_fav_count: 357
+  entry_content: |
+    başkanım parti kur gençlik kolları olalım.
+  entry_channels: siyaset,haber
+- entry_name: |
     1 temmuz 2018 motorin zammı
   entry_id:  78582756
   entry_writer: cok bilinmeyenli denklemdeki mechul x
-  entry_fav_count: 303
+  entry_fav_count: 309
   entry_content: |
     10 tl yapmayanın anasını bacısını sikeyim.
   entry_channels: haber,otomotiv,ekonomi
 - entry_name: |
-    haluk'un gönül'le ilişkisi olduğu gerçeği
-  entry_id:  78579960
-  entry_writer: rapid2009
-  entry_fav_count: 301
-  entry_content: |
-    yıllardır kafamı kurcalayan sorudur efendim, sebeplerine gelecek olursak;<br/><br/>1- haluk'un gönül'e arkadaşının eşi olduğu olduğu halde sürekli laf sokmasi onun da karşılık vererek bir nevi cilveleşmesi, siz de takdir edersiniz ki çok nadir durumlar dışında arkadaşın eşi ile laubali olunmaz.<br/><br/>2- gönül'ün meltem'i sürekli boşanmaya ikna etmeye çalışması, bence gizli bir kıskançlık var burada.<br/><br/>3- haluk'un selami'yi gönül'ün yanında sürekli aşağılaması, küçük düşürmesi.<br/><br/>4- gönül'ün selami'yi adam yerine koymaması ama haluk 'a karşı sürekli ilgi göstermesi.<br/><br/>5- aradan yıllar geçmesine rağmen ve selami ortada olmamasına rağmen gönül^ün haluk ve ailesinden kopamaması.<br/><br/>gördüğünüz bu örnekleri daha da çoğaltabilirim, bence haluk meltem'le mutfak bilmem ne diye evcilik oynarken gönül ile hardcore sex yapıyor.
-  entry_channels: ilişkiler,tv
-- entry_name: |
     seçim günü havaya sıkılan kurşunlar
   entry_id:  78562429
   entry_writer: nixuka
-  entry_fav_count: 238
+  entry_fav_count: 239
   entry_content: |
     bu orospu çocukları yüzünden gece uyuyamadım, çocuğum da uyuyamadı. bir insan grubu evrime ancak bu kadar uyum sağlayamaz böcek gibi bir yaratık tiplere bakın ya bi. bunlar memleketin sırtına suriyeliden daha fazla yük, götlerine o silahları sokup, kuş gribi olan tavuklar gibi çukurlara atıp itlaf edeceksin sik kafalarını.<br/><br/>bu silah atan ekipten olduğunu düşündüğüm bir kaç hamamböceğine hitaben edit: benim tepkim bir partinin galip olması ile ilgili değil olm böyle kutlama mı olur lan? silah olm bu silah bir kurşun hayat karartır, görüntülerde yüzlerce mermi sıkılıyor. bu gün modern ülkeler silahsızlanıyor, ordularını küçültüyor sen neyin kafasındasın.
   entry_channels: siyaset,haber
@@ -86,50 +86,74 @@ data:
     renault toros ile toroslara gitmek
   entry_id:  78583814
   entry_writer: mahoaganinkuluyam
-  entry_fav_count: 215
+  entry_fav_count: 228
   entry_content: |
     <a class="b" href="/?q=citroen+saxo+ile+...">citroen saxo ile ...</a>
   entry_channels: anket,otomotiv
 - entry_name: |
-    2018 ekonomik krizi
-  entry_id:  78569361
-  entry_writer: uckuruslukopera
-  entry_fav_count: 214
+    tarihin en zor öldürülen 7 kişisi
+  entry_id:  78571939
+  entry_writer: starwarden
+  entry_fav_count: 197
   entry_content: |
-    birkaç bilgi vereyim, 2019 şubat-mart gibi daha detaylı ele alınır bu konular. milliyet-hürriyet-şamdan ayarında basınla büyümüş nesiller de biraz aydınlanmış olsun.<br/><br/>-dünyada en düşük faizle borç veren kurum imf’dir. hatta reel faizler düşünüldüğünde imf’den alınan borç bedavadan biraz daha pahalıdır.<br/><br/>-bir ülke eğer imf ile olan borcunu sıfırladığını söylüyor ve cari açığı artıyorsa, daha yüksek faizle serbest borçlanıyor demektir. (üzerinizde ambargo yoksa bu enayiliktir)<br/><br/>-imf borç anlaşması yaptığı ülkeye parayı kredi dilimleri halinde verir. parayı geri ödeyemeyeceğiniz politikalar izlediğinizi görürse sıradaki dilimi vermez. “imf iç işlerimize karışıyor” köylülüğü bu kısımda ortaya çıkar. imf sadece borç vermeyi durdurur.çünkü ödeyemeyeceğinizi hesaplamıştır.<br/><br/>-imf emekçi yada işçi düşmanı değildir. emekçi ve işçi düşmanı, kamuyu imf’ye muhtaç edenlerdir. imf asla zengini elleme, fakirden al demez. bu ayarlamayı hükümetler yapar.<br/><br/>-imf borcunuzu, eğer durup dururken yepyeni bir gelir ortaya çıkarmadıysanız (norveç’in petrol çıkarması, rusya’nın gazının pahalılaşması vb.) sıfırlamak saflıktır.<br/><br/>-bir iktidar kamu bütçesi için, yukarıda saydığım sürpriz gelirleri yaratmadığı halde imf’den borç almaya yanaşmıyor, hatta onu kötülüyorsa “harcamalarının denetlenmesini” istemiyor demektir. <br/><br/>-imf borç verdiği ülkeler ile ilgili raporlarını kamuya açık yayınlar. örneğin şu an prim ödeyen sgk üyelerinin durum böyle giderse emekli olduklarında para alamayacağını söyleyebilir. (öyledir demiyorum, kesinlikle mükemmel durumda olduğuna inancım tam.)<br/><br/>-imf ile bir anlaşma yapıldıysa, imf bir sayıştay gibi çalışarak üye ülkelere borçlu ülke hakkında rapor verir. (imf’nin parası esasen üyelerden alınan aidat benzeri paralardır) bu durum eğer ülkenizde sayıştay çalışmıyor ise halkın bazı harcamaların anlatıldığı gibi olmadığını öğrenmesine yol açabilir. <br/><br/>hani aklınızda bulunsun. belki lazım olur.
-  entry_channels: siyaset,haber,ekonomi
+    adolf hitler. suikastlerin tamamından sağ kurtulunca s.krim yapacağınız işi deyip kendi işini kendisi bitirmiştir.
+  entry_channels: anket,tarih
 - entry_name: |
-    dijital yazılımla seçim hilesi yaptılar
-  entry_id:  78580245
-  entry_writer: swollenmember
-  entry_fav_count: 177
+    müşteriye yapışan tezgahtar
+  entry_id:  78569537
+  entry_writer: semsipasapasajindasesibuzusmeyen
+  entry_fav_count: 190
   entry_content: |
-    (bkz: <a class="b" href="/?q=analog+yaz%c4%b1l%c4%b1m">analog yazılım</a>)
-  entry_channels: siyaset,haber
+    dostum; anliyorum seni. para kazanman, prim alman, urun satman lazim. ama yapma. urune baktigim an yanimda bitiverme. rahat birak. sunu bilki yanibasimda bitiverdigin an almak istedigim urunden soguyorum. ozgur birak musterini. rahat ol. kasma kendini. urunle alakali yardima ihtiyacim oldugu an ilk seni cagiracagim. soz.
+  entry_channels: ilişkiler,ekonomi
 - entry_name: |
     ak parti seçmeninin deli gibi silahlandığı gerçeği
   entry_id:  78582133
   entry_writer: kindaasshole
-  entry_fav_count: 152
+  entry_fav_count: 183
   entry_content: |
     eğer devlet o gece o videoda görülen ve görülmeyen ama mobeselerden saptanabilen tüm kişileri en kısa zamanda birer birer içeri almazsa hem kendimin yapacağı hem de çevremdekilere yaptıracağım eylem. sonuçta silah alırken kimse hangi partiye oy verildiği sorulmuyor. ben canımı sokakta bulmadım kardeşim, sokakta da kaybetmem. eli silahlı bir grup insan bana göz dağı vermeye kalkarsa cevabını anladıkları dilden de alacaktır bundan sonra.
   entry_channels: siyaset
 - entry_name: |
+    dijital yazılımla seçim hilesi yaptılar
+  entry_id:  78580245
+  entry_writer: swollenmember
+  entry_fav_count: 178
+  entry_content: |
+    (bkz: <a class="b" href="/?q=analog+yaz%c4%b1l%c4%b1m">analog yazılım</a>)
+  entry_channels: siyaset,haber
+- entry_name: |
+    vw golf'ün 180 bin lira olması
+  entry_id:  78565712
+  entry_writer: vpx
+  entry_fav_count: 176
+  entry_content: |
+    (bkz: <a class="b" href="/?q=golf+200+bin+olsun+kampanyas%c4%b1">golf 200 bin olsun kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=daha+%c3%a7ok+saray+ve+suriyeli+istiyoruz+kampanyas%c4%b1">daha çok saray ve suriyeli istiyoruz kampanyası</a>)<br/><br/>(bkz: <a class="b" href="/?q=etin+kilosu+100+lira+olsun+kampanyas%c4%b1">etin kilosu 100 lira olsun kampanyası</a>)
+  entry_channels: otomotiv,ekonomi
+- entry_name: |
+    millet kıraathanelerinin girişine yazılacak cümle
+  entry_id:  78554848
+  entry_writer: barbar savasci
+  entry_fav_count: 154
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bo%c5%9f+geldiniz">boş geldiniz</a>)
+  entry_channels: siyaset,anket,yeme-içme
+- entry_name: |
+    eşinin sivilcesinden aldatıldığını anlayan kadın
+  entry_id:  78572543
+  entry_writer: oxfordunkoylusu
+  entry_fav_count: 128
+  entry_content: |
+    bana gecenlerde okudugum baska bir haberi hatirlatti.<br/><br/>adam isten geliyor. kadin, adamin yakasinin altina bakip ayriliyoruz diyor.<br/><br/>meger sabah adam ise giderken, adami bu giydirirmis. atleti de ters vermis. aksam gelince yakasini kaldirip duz oldugunu gormus.<br/><br/>bu csi'larin basina hep kadin getirmek lazim.
+  entry_channels: ilişkiler,haber,magazin
+- entry_name: |
     çaylaklara mesaj alımını açan yazarın asıl amacı
   entry_id:  78558412
   entry_writer: yazar dedigin benim gibi olur
-  entry_fav_count: 120
+  entry_fav_count: 125
   entry_content: |
     herkesi sevgiyle kucaklayıp, sevgi ve barışı tüm dünyaya yaymak olabilir. öyle bir tahmin yürüttüm.
   entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    muharrem ince
-  entry_id:  78558842
-  entry_writer: mistir bohanin
-  entry_fav_count: 117
-  entry_content: |
-    muharrem ince mecliste öyle sıradan bir vekil değildi; hiç olmadı.<br/><br/>o yanlış yok edendim şunu yanlış yaptı denebilir hakkında. herkes kendi anelizini yapabilir. ancak şöyle bir gerçek var; bilmem kaç kış sonra bu adam çıktı %30 u geçti. <br/><br/>ilk efsaneleştiği yıl 2009 olması lazım. 2010 bütçsi görüşülürken çıktı bam bam bam koydu. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/NsCN_PMExGA" title="https://youtu.be/NsCN_PMExGA">bakınız.</a> bu konuşmanın en vurucu yeri şüphesiz ki “ abd’den korktuğunuz kadar allah’tan korksaydınız bu memleketi bu hale getirmezdiniz” cümlesiydi. ayrıca siz bakmayın muharrem ince’yi tayyip erdoğan kendisi karşısında görmek istedi diyen sığırlara. çünkü bu konuşma yine dönemin başbakanı recep tayyip erdoğanın muharrem ince’yi dinlediği son bütçe görüşmeleridir. bu tarihten sonraki bütün bütçe görüşmelerinde söz muharrem ince’ye geldiği zaman başbakan genel kurulu terketmiştir. geldiyse konuşmadan sonra geri gelmiştir.<br/><br/>gelelim 2011 bütçe görüşmelerine. başbakana yine bam bam bam şeklinde saydırıp “ ve siz sayın milletvekilleri; bu bakanlar kurulunu aklayan paklayan sayın milletvekilleri; kabe’de, mekke’de tavaf ederken mecliste oy kullanma becerisini gösteren sayın evliyalar..” demesi bu konuşmanın climaxi idi. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/l1eKMRYlS6c" title="https://youtu.be/l1eKMRYlS6c">bakınız.</a><br/><br/>takvim yaprakları (akp öncesinde takvim de yoktu) 2012 yılını gösterirken biraz daha kişisel, arınç ve canikli ağırlıklı, ama yine de boş geçmeyen bir konuşması var. diyor ki “ siz devlet malına bonkör, vatandaşın sorununa bakarkör, cumhuriyet değerlerine nankör, türkiye’ye diktatör oldunuz.” <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/2fhtzSow5Zc" title="https://youtu.be/2fhtzSow5Zc">bakınız.</a><br/><br/>2013 bütçe görüşmeleriyle ilgili şu var :<br/>“ halkı kandırmayın! bu topraklarda bismillah demeyi kimse suç saymadı. ama siz elhamdulillah demeyi öğrenemesiniz; şükretmeyi bilmediniz.”<a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/9XFzlCYUV5o" title="https://youtu.be/9XFzlCYUV5o">bakınız.</a><br/><br/>ve gelelim en etkileyici konuşmalarından birine. bu konuşma ile ilgili herhangi bir şey yazmaya gerek yok. ezberlediğimi farkettim zaten. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/H8GllyoGiL8" title="https://youtu.be/H8GllyoGiL8">ahı var!</a><br/><br/>ve daha niceleri. yeri geldi hakan şükürü itin götüne soktu. hatta çıkardı bidaha soktu. yeri geldi arınça meydan okudu, “dokunulmazlığımı kaldırmayan şerefsizdir, namussuzdur!” dedi. diğer grup başkanvekillerini patates etti. yeri geldi altan tana çıkardı vurdu. yeri geldi meclis başkanına ayar verdi. <br/><br/>bir sürü şey yaptı. silivriye gitti hakime ayar verdi. arabanın içinde uyuyan sivil polise milleti tedirgin ediyorsun git buradan dedi. kürsüden savcılara seslendi; o iddianamelerinizi adam gibi yazın dedi. dedi de dedi.<br/><br/>16 yıllık milletvekilliğinde utanılacak tek bir iş yapmadı. <br/><br/>bütün konuşmaları hatırımdadır. benim hakkım kendisine helaldir.
-  entry_channels: siyaset,haber,eğitim
 - entry_name: |
     tayyip nasıl %52 oldu mhp %11'i nasıl aştı
   entry_id:  78561343
@@ -147,10 +171,34 @@ data:
     arkadaşlar en dürüst, naif dediğimiz adamlar bile o koltuğa oturunca başka bir boyuta geçiyorlar. bu bir de senelerdir iktidar yüzü görememiş partinin başkanlık koltuğu. bu adam burda bile böyle davranıyorsa, o kadar güç ve yetki zenginliği içindeki erdoğan yine iyi kontrol ediyor kendini. <br/><br/>not: incespor
   entry_channels: siyaset,haber
 - entry_name: |
+    bedelli askerlik yapanın savaşta alacağı pozisyon
+  entry_id:  78577346
+  entry_writer: fuzzy olmak istemistim
+  entry_fav_count: 93
+  entry_content: |
+    5,5 ay askerlik yapandan çok farklı değildir. sanırsın herkes rambo.
+  entry_channels: anket
+- entry_name: |
+    sahibini hayata küstüren terörist kedi
+  entry_id:  78574731
+  entry_writer: at mi bu
+  entry_fav_count: 90
+  entry_content: |
+    biri demiş ki twitter'da " kediyi psikiyatriste götür."<br/>(bkz: <a class="b" href="/?q=kediyi+psikiyatriste+g%c3%b6t%c3%bcrmek">kediyi psikiyatriste götürmek</a>) <br/>lan at sokağa 1 hafta sokakta açlık görsün, yoksulluk görsün, dram görsün bak nasıl uysallaşıyor, koduğumun şam şeytanı.
+  entry_channels: haber
+- entry_name: |
+    15 temmuz'da ayin pozu veren esrarengiz genç
+  entry_id:  78587741
+  entry_writer: evil nymph
+  entry_fav_count: 84
+  entry_content: |
+    bahsi geçen gencin entarisindeki logo kaptan amerika logosudur. davut yıldızı 6 köşeli. of çok güldüm.<br/><br/>edit: daha da eğlenceli hale geldi. editleyip "davut yıldızına benzeyen" yazmış. ya sen hayatında üçgene benzeyen kare, dokuzgene benzeyen çember gördün mü?
+  entry_channels: siyaset
+- entry_name: |
     starbucks'ı tercih etme sebepleri
   entry_id:  78581968
   entry_writer: kibarsosyopat
-  entry_fav_count: 76
+  entry_fav_count: 78
   entry_content: |
     geçen yaz beşiktaş’ta lüks bir mekanda dj olarak çalışıyordum. haliyle bara ve mutfak kısmına son derece hakimdim. kahve isteyen her müşteriye ister buzlu olsun ister filtre olsun ister başka bir şey, her seferinde nescafe’ye musluk suyu ekleyip gönderiyorlardı. müşteri de afiyetle içiyordu kahveyi. daha yapılan sayısız pislik ve müşteriyi keriz yerine koyma hikayeleri var da bende kalsın. <br/>bu yüzden istediğim kahveyi kaliteli bir şekilde içebileceğim starbucks’ı tercih ediyorum. <br/>not: içtiğiniz fıçı bomonti aslında efes.
   entry_channels: yeme-içme
@@ -158,15 +206,23 @@ data:
     deniz gezmiş ve mahir çayan eşkiyaydı
   entry_id:  78581279
   entry_writer: monoditri
-  entry_fav_count: 62
+  entry_fav_count: 74
   entry_content: |
     haklı beyan.<br/><br/>banka soyup, kamu görevlisi öldürenleri kahramanlaştırmak bir tek bizim kültürümüzde normal karşılanıyordur herhalde.
   entry_channels: siyaset
 - entry_name: |
+    25 haziran 2018 alaattin çakıcı'nın rte'ye mesajı
+  entry_id:  78554208
+  entry_writer: rinogattuso
+  entry_fav_count: 72
+  entry_content: |
+    recep tayyip erdoğan’ın krizi tam olarak budur toplumda konuşabileceği bir tek bu kesim kaldı bunlarda çakıcının metinde yazdığı gibi kendilerini yolcu değil hancı olarak görüyorlar.<br/><br/>2015 yılından beri topluma yüksek dozda yerli ve milli gazların verilmesi görüldüğü üzere mhp nin ve ülkücülerin işine yaramıştır. zaten orijinali(mhp)dururken kimse gidip çakma milliyetçilere(akp) oy vermezdi.bu saatten sonra ülkücüler ve mhp liler recep tayyip erdoğan’a her istediklerini yaptırırlar çünkü iki kutuplu seçimlerde tutanacağı destediğini alabileceği bir tek bu kesim kaldı.atatürkçüleri harcadı kürtleri harcadı cemaati harcadı eee kendi ideolojileri siyasal islamda iflas ettiğine göre elinde kala kala çetin ceviz ülkücüler kaldı işi bu saatten sonra gerçekten zor hele ülkenin işi çok daha zor çünkü biri günahı var diye dinin arkasına saklanıyor diğeri suçu var diye bayrağın arkasına saklanıyor.günahkarlar ve suçlular sadece felaket getirir
+  entry_channels: siyaset,haber
+- entry_name: |
     27 haziran 2018 güney kore almanya maçı
   entry_id:  78583595
   entry_writer: dinazorlar turkmus haci
-  entry_fav_count: 60
+  entry_fav_count: 61
   entry_content: |
     hala daha teknoloji çomarlığı yapıp "vodoo hokom fotbolo yovoslotoyor" diyenlere sabaha kadar izletilmesi gereken maç. son şampiyon almanya karşısında rakipten giden topa ofsayt verip kore'nin tertemiz golünü engelleyen hakem, belki de almanya'nın tekrar dünya kupası kazanmasına neden olacaktı. <br/><br/>şimdi ne oldu? adalet yerini buldu.
   entry_channels: spor
@@ -174,17 +230,17 @@ data:
     hunharca zikir çeken teyze
   entry_id:  78579973
   entry_writer: said kotan
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     (bkz: <a class="b" href="/?q=ger%c3%a7ek+islam+bu+de%c4%9fil">gerçek islam bu değil</a>)<br/><br/>lan hakikaten gerçek islam bu değil. hz. muhammed'i getir "bu kadın ne yapıyor?" diye sorar kadın da hz. muhammed'e kendi dinini öğretmeye başlar. işte o anda peygamberler karışır. <br/><br/>hz. muhammed'in ömründe bir kere bile yapmadığı şeyi onun dini gibi göstermek cahillik değilse nedir? işte biz buna <a class="b" href="/?q=cahiliye">cahiliye</a> diyoruz. cahiliye sadece kızları diri diri toprağa gömmek değil demek ki...
   entry_channels: haber
 - entry_name: |
-    15 temmuz'da ayin pozu veren esrarengiz genç
-  entry_id:  78587741
-  entry_writer: evil nymph
-  entry_fav_count: 53
+    muharrem ince'nin istanbul bb başkan adayı olması
+  entry_id:  78580915
+  entry_writer: kermitin dedesi hursit
+  entry_fav_count: 50
   entry_content: |
-    bahsi geçen gencin entarisindeki logo kaptan amerika logosudur. davut yıldızı 6 köşeli. of çok güldüm.<br/><br/>edit: daha da eğlenceli hale geldi. editleyip "davut yıldızına benzeyen" yazmış. ya sen hayatında üçgene benzeyen kare, dokuzgene benzeyen çember gördün mü?
+    attan inip eşeğe binmekten farksız olacak durumdur.<br/><br/>sabredip chp genel başkanı, akabinde de erdoğan'ın tekrardan rakibi olmalıdır ve geçen 1.5 ayda kampanyasında yapmış olduğu hatalardan ders alarak iktidarı hedeflemelidir.
   entry_channels: siyaset
 - entry_name: |
     gelmiş geçmiş en iyi protest şarkı
@@ -195,21 +251,21 @@ data:
     (bkz: <a class="b" href="/?q=fele%c4%9fin+%c3%a7emberine+40+kur%c5%9fun">feleğin çemberine 40 kurşun</a>) (bkz: <a class="b" href="/?q=saian">saian</a>)
   entry_channels: anket,müzik
 - entry_name: |
-    muharrem ince'nin istanbul bb başkan adayı olması
-  entry_id:  78580915
-  entry_writer: kermitin dedesi hursit
-  entry_fav_count: 45
+    babanın söylediği unutulmayan sözler
+  entry_id:  78562448
+  entry_writer: gokcesadik
+  entry_fav_count: 46
   entry_content: |
-    attan inip eşeğe binmekten farksız olacak durumdur.<br/><br/>sabredip chp genel başkanı, akabinde de erdoğan'ın tekrardan rakibi olmalıdır ve geçen 1.5 ayda kampanyasında yapmış olduğu hatalardan ders alarak iktidarı hedeflemelidir.
-  entry_channels: siyaset
+    "ben daha ölmedim kizım, hallederiz"<br/><br/>canım benim..
+  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    kitlelerin akp'ye oy verme nedeni
-  entry_id:  78569366
-  entry_writer: avx
-  entry_fav_count: 42
+    seçim gecesi chp'de yaşananlara dair iddialar
+  entry_id:  78585417
+  entry_writer: bomonti turrret kokusu
+  entry_fav_count: 36
   entry_content: |
-    kim yazmıştı hatırlamıyorum ama biri senin gibi eğitim göremediği senin bindiğin arabaya binemediği için ve tayyibi senin karşında gördükleri için demişti. bi nevi aşağılık kompleksi. 16 yıldır bu ülkede eğitimli azınlıkla eğitimsiz çoğunluğun didişmesini görüyoruz siyasette. sistem demokrasi olunca çoğunluk dövüyor malesef.
-  entry_channels: siyaset
+    ince kazansaydı; ekonomik kriz, chp'nin ve kendisinin üzerine kalacaktı, sittin sene bu yükün altından kalkamazlardı. çok sıkmayın canınızı.
+  entry_channels: siyaset,anket,haber
 - entry_name: |
     40 yaşında problemli bekar müdür kadın
   entry_id:  78560159
@@ -222,42 +278,26 @@ data:
     bedelli askerlik
   entry_id:  78572342
   entry_writer: ogretmenolmayacalisanadam
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     2, 3 ay önce " sike sike gideceksiniz eheheh" diyen kabzımallar, şimdi çıkacağını anlayınca "inşallah 30 bin olur." diyor. böyle aşağılık bir kitle var işte. bu adamlar azalmadikça bu ülke kurtulmaz.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    seçim gecesi chp'de yaşananlara dair iddialar
-  entry_id:  78585417
-  entry_writer: bomonti turrret kokusu
-  entry_fav_count: 28
-  entry_content: |
-    ince kazansaydı; ekonomik kriz, chp'nin ve kendisinin üzerine kalacaktı, sittin sene bu yükün altından kalkamazlardı. çok sıkmayın canınızı.
-  entry_channels: siyaset,anket,haber
-- entry_name: |
-    ünlü kahve zincirinde çıkan uzun adam kavgası
-  entry_id:  78584592
-  entry_writer: tungalper
-  entry_fav_count: 24
-  entry_content: |
-    benim başörtülü reisimin ismini.. yok la olmadı.
-  entry_channels: siyaset,haber,yeme-içme
-- entry_name: |
-    babanın söylediği unutulmayan sözler
-  entry_id:  78561678
-  entry_writer: nikkimin basi
-  entry_fav_count: 24
-  entry_content: |
-    "merhametsiz insandan uzak dur"
-  entry_channels: anket,ilişkiler,edebiyat
-- entry_name: |
     almanya milli futbol takımı
   entry_id:  78583872
   entry_writer: iilede woman olsun
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     almanlar ne zaman rusya’ya gitse tecavüze uğruyor.
   entry_channels: spor
+- entry_name: |
+    $525 değerindeki 73 oyunun indirimle $3 olması
+  entry_id:  78588100
+  entry_writer: tiny bites
+  entry_fav_count: 17
+  entry_content: |
+    (bkz: <a class="b" href="/?q=10000000+in+1">10000000 in 1</a>) atari kaseti tadında oyunlardır.
+  entry_channels: oyun,ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  78556887
@@ -275,85 +315,61 @@ data:
     sikeyim siyasetini, bu orospu çocuklarına karşı ciddi anlamda seferberlik ilan edilmeli.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    2018-19 süper lig'e video hakem gelsin kampanyası
-  entry_id:  78585914
-  entry_writer: efe25
-  entry_fav_count: 11
-  entry_content: |
-    zaten bu sene uygulanmayacak mı.
-  entry_channels: spor,anket
-- entry_name: |
     felsefe sanat kitap belgesel şarap seven kadın
   entry_id:  78565196
   entry_writer: anarchiq
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=trt+2+gibi+kad%c4%b1n">trt 2 gibi kadın</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
-    $525 değerindeki 73 oyunun indirimle $3 olması
-  entry_id:  78588100
-  entry_writer: tiny bites
-  entry_fav_count: 8
+    çalışılan pozisyonlar ve maaşları
+  entry_id:  78588332
+  entry_writer: keynesinenistesi
+  entry_fav_count: 10
   entry_content: |
-    (bkz: <a class="b" href="/?q=10000000+in+1">10000000 in 1</a>) atari kaseti tadında oyunlardır.
-  entry_channels: oyun,ekonomi
+    düşüren varsa bende yazıcam
+  entry_channels: anket,ekonomi
 - entry_name: |
     zlatan ibrahimoviç'in dövmeli götü
   entry_id:  78585101
   entry_writer: violent
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=bahaneleri+alay%c4%b1m">bahaneleri alayım</a>)
   entry_channels: spor,magazin
 - entry_name: |
-    çalışılan pozisyonlar ve maaşları
-  entry_id:  78585715
-  entry_writer: uykudanuyanmayacalisanadam
-  entry_fav_count: 6
-  entry_content: |
-    köpek gezdiricisi (bkz: <a class="b" href="/?q=dog+walker">dog walker</a>)<br/>maaş: 3750 net + ssk+ yemek+yol.<br/>birer haftalık kullanılmak üzere senede 15 gün izin<br/>avantajları: sevdiğim canlılarla, sevdiğim ortamda, sevdiğim işi yapıyorum.<br/>dezavantajı: arada bir ısırılmayı saymazsak, yok.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    muğdat çelik
-  entry_id:  78584709
-  entry_writer: suyuvukuundanbeter
-  entry_fav_count: 5
-  entry_content: |
-    ya arkadaş zaman mekan imkan para istatistiksel zoundaliklar hiçbirşey ifade etmiyo sanırım bazı antonyolar için, sanki terim memphis depay ile muğdat arasında özgürce seçim yaparak mugdati tercih etmiş gibi yorum yapıyorlar ya ifrit oluyorum.
-  entry_channels: spor
-- entry_name: |
     mesut özil
-  entry_id:  78584412
-  entry_writer: alex xander
-  entry_fav_count: 4
+  entry_id:  78586731
+  entry_writer: efsimorukefsii
+  entry_fav_count: 8
   entry_content: |
-    kariyerine alman gibi başlayıp türk gibi devam eden oyuncu. 2018 dünya kupası'nın en geberik oyuncusu ödülünü kendisine takdim ediyoruz.
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Squawka/status/1012010820958609408" title="https://twitter.com/Squawka/status/1012010820958609408">https://twitter.com/…wka/status/1012010820958609408</a><br/><br/>bugün güney kore'ye karşı oynadığı maçta takım arkadaşlarına bireysel olarak tamı tamına rakamla 7 adet gol fırsatı yaratmış dünyanın en iyi 5-10 orta saha oyuncusundan biri olan yıldız futbolcu. ulaştığı istatistiğin turnuvadaki en yüksek rakam olduğu gerçeğine girmiyorum bile. <br/><br/>tabi rte ile olan fotoğrafını görünce kafayı çizen sosyopat bir alman vatandaşı veya futbolu hala sahada deli dana gibi koşup oraya buraya sataşarak hırs gösterisinde bulunmak sanan ilkel bir futbol anlayışına sahipseniz takımını sabote edip, sattığını, bitmiş bir futboolcu olduğunu iddia etmeye devam edebilirsiniz.
   entry_channels: spor
-- entry_name: |
-    joachim löw
-  entry_id:  78584725
-  entry_writer: amandes
-  entry_fav_count: 4
-  entry_content: |
-    leroy sane’nin sende ahı var
-  entry_channels: spor,tv,magazin
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  78555659
-  entry_writer: syhvebyz
-  entry_fav_count: 4
-  entry_content: |
-    “seninle olmanın en güzel yanı ne biliyor musun?<br/><br/>elin elime değmeden avuçlarımı terleten sıcaklığını taa içimde hissetmek.<br/><br/>seninle olmanın en kötü yanı ne biliyor musun?<br/><br/>”seni seviyorum” sözcüğü dilimin ucunu ısırırken her konuşmamızda boş yere saatlerce havadan sudan söz etmek.<br/><br/>seninle olmanın en heyecanlı yanı ne biliyor musun?<br/><br/>aynı şeyleri seninle aynı anda düşünmek birlikte ağlamak gülmek. ve buradayken bile seni çılgınca özlemek…<br/><br/>seninle olmanın en acı yanı ne biliyor musun?<br/><br/>seni hiç tanımadığım bir sürü insanlarla paylaşmak. senin yanında olan, seninle konuşan herkesi çocukça kıskanmak.<br/><br/>seninle olmanın en mutlu yanı ne biliyor musun?<br/><br/>tanıdık birileriyle karşılaşma tedirginliği ile yollarda yürümek yan yana… elimdeki şemsiyeye inat yağmurda ıslanmak birlikte. elimde kır çiçeğiyle seni beklemek… aynı mekanlarda aynı yiyecekleri yemek.<br/><br/>seninle olmanın en romantik yanı ne biliyor musun?<br/><br/>sensiz gecelerde sana söyleyemediklerimi yıldızlara aya anlatmak… okuduğum kitabın sayfalarında dinlediğim şarkıların türkülerin şiirlerin her mısrasında seni bulmak.<br/><br/>seninle olmanın en zor yanı ne biliyor musun?<br/><br/>seni kaybetme korkusuyla hayatta ilk kez tattığım o tarifsiz duygularımı umut denizinin ortasında küreksiz bir sandala hapsetmek. sevgili yerine yıllarca dost kalmayı başarmak. yalın ayak yürümek bıçağın en keskin yerinde. kanadıkça tuz yerine gözyaşlarımı basmak yüreğime.<br/><br/>seninle olmanın tek yan etkisi ne biliyor musun?<br/><br/>nereden bileceksin?<br/><br/>sen benimle hiç olmadın ki. olsaydın avuçlarım terlemezdi… ısırmazdım dilimin ucunu… özlemezdim seni yanımdayken.kıskanmazdım.<br/><br/>korkmazdım yollarda yürümekten. ıslanmazdım yağmurlarda… yıldızlara aya dert yanmaz, böyle her şarkıda serhoş olmazdım.<br/><br/>korkmazdım seni kaybetmekten ayaklarım kan revan atlardım sandaldan denize… ve her kulaçta haykırırdım seni..<br/><br/>ama sen hiç benimle olmadın ki…<br/>ya aklın başka yerlerdeydi ya yüreğin…”<br/><br/>can yücel
-  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
     27 haziran 2018 ruhi çenet videosu
-  entry_id:  78587691
-  entry_writer: en son uctugumda 14 yasindaydim
+  entry_id:  78587454
+  entry_writer: ne dusunuyorsun
+  entry_fav_count: 7
+  entry_content: |
+    hitap ettiği kesimi düşünürsek 2030 seçimleri için ümitlerim artıyor.
+  entry_channels: siyaset,teknoloji,ekonomi
+- entry_name: |
+    ilk ezberlenen ingilizce şarkı
+  entry_id:  78553953
+  entry_writer: nolimetangere
+  entry_fav_count: 5
+  entry_content: |
+    walking away<br/>(bkz: <a class="b" href="/?q=craig+david">craig david</a>)
+  entry_channels: anket,müzik
+- entry_name: |
+    morg girişine yazılması gereken cümle
+  entry_id:  78589094
+  entry_writer: nano16
   entry_fav_count: 4
   entry_content: |
-    herkesin bildiğini anlatmamıştır. youtuber çoğunlukla 10-17 yaşındaki çocuklara hitap ediyor. onlar ailelerinden , a haber'den , trt'den bunları öğrenmeyecekler. ekonomilerinin çok güzel diğer ülkelerin çok kötü olduğunu duyacaklardı. keşke daha çok böyle videolar yapıp gelecek nesli bilinçlendirse.
-  entry_channels: siyaset,teknoloji,ekonomi
+    ölüden değil diriden kork<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>gece tek başına girmeye kalkan olursa<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: anket,sağlık
 - entry_name: |
     sözlük yazarlarının okumakta olduğu kitaplar
   entry_id:  78582170
@@ -362,14 +378,6 @@ data:
   entry_content: |
     tüfek mikrop ve çelik.- jared diamond
   entry_channels: anket,edebiyat
-- entry_name: |
-    sunay akın
-  entry_id:  78586910
-  entry_writer: i was in heaven
-  entry_fav_count: 2
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bak%c4%b1n+bak%c4%b1n+ne+anlat%c4%b1cam">bakın bakın ne anlatıcam</a>)
-  entry_channels: sanat,tarih,edebiyat
 - entry_name: |
     ilk e-mail adresi
   entry_id:  78559534
@@ -380,20 +388,12 @@ data:
   entry_channels: anket,teknoloji
 - entry_name: |
     27 haziran 2018 sırbistan brezilya maçı
-  entry_id:  78588786
-  entry_writer: aladdinin sinirli cini
+  entry_id:  78588835
+  entry_writer: durherseyiaciklayabilirim
   entry_fav_count: 2
   entry_content: |
-    neymar'ın şarampole yuvarlanan 92 model şahin gibi taklalar attığı maç. <br/>adam ne döndü arkadaş ya.
+    brezilya kürdü golü attı: 1-0
   entry_channels: spor
-- entry_name: |
-    ekşi sözlük dışarı çıkmalık arkadaş veritabanı
-  entry_id:  78574913
-  entry_writer: vycanismajoris29
-  entry_fav_count: 1
-  entry_content: |
-    trabzon tabi öss'de ilk 10,000 kişi arasına girmiş olsun. öyle cahil cühela sözlük yazarıyla muhabbet edemem. <br/>bu aralar usta ile margarita okuyorum kitap üzerine konuşabiliriz.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     kemal kılıçdaroğlu
   entry_id:  78555729

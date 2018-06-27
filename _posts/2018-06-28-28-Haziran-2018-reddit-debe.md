@@ -97,11 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xWsI_a5iYN-Gfi434hBF0oAiIrrgsf1hXQEJ62XQPPA.jpg?s=979c6fae3916834293f0db6ac8610378 frameborder=0>
 - entry_name: |
-    I was telling a girl I met in a bar last night about my uncanny ability to guess the day a woman was born on just by feeling her tits.
-  entry_id: 8u2omv
-  entry_content: |
-    null
-- entry_name: |
     Engage hunting eyes
   entry_id: 8u2v8o
   entry_content: |
@@ -192,11 +187,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Q4A2PNpKBPFtoEA9A_UbKm7hmuh4VXgMCSR1INgU8sI.jpg?s=67a41f260c79a183cfb967c322731c30 frameborder=0>
 - entry_name: |
-    Sand table printing with a metal ball
-  entry_id: 8u2m80
-  entry_content: |
-    <iframe src=https://v.redd.it/7orfv28p3l611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Happy little hops
   entry_id: 8u8q77
   entry_content: |
@@ -250,4 +240,13 @@ data:
   entry_id: 8u8njc
   entry_content: |
     <iframe src=https://v.redd.it/0xkd6edfyi611/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    hmmm
+  entry_id: 8u74l8
+  entry_content: |
+    <img src=https://i.redditmedia.com/H_k_WQAVOO26pjCJbggUNpT3vLC4-O-EbDEAaTr74rE.jpg?s=0515b3202f2310969b4ae67c91952c89 frameborder=0>
+- entry_name: |
+  entry_id: 8u7nxu
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/bfUd6uCijhU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
