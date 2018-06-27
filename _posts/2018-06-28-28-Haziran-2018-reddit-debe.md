@@ -3,11 +3,6 @@ layout: post
 title: 28 Haziran 2018 Reddit Debe
 data:
 - entry_name: |
-    I cant stop watching this shot.
-  entry_id: 8u3fng
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnrealisticMammothBlackfootedferret&url=https%3A%2F%2Fgfycat.com%2FUnrealisticMammothBlackfootedferret&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnrealisticMammothBlackfootedferret-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     Human, you mustn't stop
   entry_id: 8u6jwd
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8u7vm0
   entry_content: |
     <img src=https://i.redditmedia.com/3X9Vo_aezv9beGcnB9HdE6tiNkxvqh7_Tnj-1WAKnYg.jpg?s=b51a5d47461b73e892ce9d422f4b50e5 frameborder=0>
+- entry_name: |
+    PsBattle: ABC interns run to deliver Supreme Court decision
+  entry_id: 8u6rle
+  entry_content: |
+    <img src=https://i.redditmedia.com/5LfFyq575Oo1-9pTtfn62wx11VFSSwtqn6NCIM8hyHE.jpg?s=eee0ded106f9f4f836492f850279bbd6 frameborder=0>
 ---
