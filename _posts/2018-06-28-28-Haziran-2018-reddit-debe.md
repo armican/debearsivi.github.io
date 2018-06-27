@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mZzrbiMYUrwBoXWSJW81ouOtU6U9zo6nsSXUTQ9FOjg.jpg?s=c84f17bc956c77f2dc3731584b6157b3 frameborder=0>
 - entry_name: |
-    Space Pirate cosplay
-  entry_id: 8u3qya
-  entry_content: |
-    <iframe src=https://v.redd.it/n49eccv8ve611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Country fans on the other hand....
   entry_id: 8u3r1v
   entry_content: |
@@ -132,11 +127,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/H1Uv1i4z4LS_31RITWjd_Jw5wYGMaCxY8O1YYogm8h4.jpg?s=2213d956fdd58461614fc34f07091dc9 frameborder=0>
 - entry_name: |
-    Blowing on the die doesn't always bring good luck
-  entry_id: 8u233b
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FClumsyUnfoldedBandicoot&url=https%3A%2F%2Fgfycat.com%2FClumsyUnfoldedBandicoot&image=https%3A%2F%2Fthumbs.gfycat.com%2FClumsyUnfoldedBandicoot-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=848 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     Cannot be ranked
   entry_id: 8u3pn1
   entry_content: |
@@ -152,11 +142,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a23Ws-lKD9xCwRwBsdsh1xCRJGQ_lpHHOdTeBU5-H3U.jpg?s=1c1352c02cccd77de3d15e0f31ed8547 frameborder=0>
 - entry_name: |
-    Tony Hawk's Pro Skater, N64. The warehouse
-  entry_id: 8u23v7
-  entry_content: |
-    <img src=https://i.redditmedia.com/b5JLaxI60nGwyzUqSOxRFGCwwxYQO7SdmAQjiYeIv-Q.jpg?s=d467818a05b12a604dc304ebcf136ce4 frameborder=0>
-- entry_name: |
     This girl who poured 3 jugs of rice in my driveway at 1AM
   entry_id: 8u3c31
   entry_content: |
@@ -166,11 +151,6 @@ data:
   entry_id: 8u3969
   entry_content: |
     null
-- entry_name: |
-    Democracy
-  entry_id: 8u26rj
-  entry_content: |
-    <img src=https://i.redditmedia.com/qSR5wQ6MI8cFP2JyoqxgGEr9JWwjrmhLF4XIbbVplgE.jpg?s=af343d3269a1419c894fbca4c204df69 frameborder=0>
 - entry_name: |
     2.5 years of hard work 261 to 152
   entry_id: 8u3ouy
@@ -250,4 +230,23 @@ data:
   entry_id: 8u5ffp
   entry_content: |
     <img src=https://i.redditmedia.com/re_W5M4WreSNx6DOoa46DJ02jiGG904eyXOcCceXPFs.jpg?s=c975d11b4bba41c4ccaa3d9b1fd91141 frameborder=0>
+- entry_name: |
+    One of the most underrated scenes of friendship.
+  entry_id: 8u5fwc
+  entry_content: |
+    <img src=https://i.redditmedia.com/ppUJbgSaSuRkEyEVdBpd9ufFQEUjk204-o7jnPw-hro.jpg?s=9ad270ccb066bfd96f53343db7842567 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8u74l8
+  entry_content: |
+    <img src=https://i.redditmedia.com/H_k_WQAVOO26pjCJbggUNpT3vLC4-O-EbDEAaTr74rE.jpg?s=0515b3202f2310969b4ae67c91952c89 frameborder=0>
+- entry_name: |
+    Golden Moles have eyeballs, but they are covered by skin so they don’t really work. Oh well.
+  entry_id: 8u2j2o
+  entry_content: |
+    <img src=https://i.redditmedia.com/gsW4LrfDygn7MtmV_c6lfxkQpVUWnat5y03Xzh6SOVg.jpg?s=335cbac048a61af6bd595a6bf2b887c8 frameborder=0>
+- entry_name: |
+  entry_id: 8u7nxu
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/bfUd6uCijhU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
