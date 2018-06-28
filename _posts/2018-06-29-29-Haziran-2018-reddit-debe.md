@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZBZoOnLLphf99xZTx3JJiyQaUL7HfE2sm7M3E9g8rSA.png?s=fd6074b7ec0805f899266907c5775dce frameborder=0>
 - entry_name: |
-    The Male fantasy
-  entry_id: 8ubi8p
-  entry_content: |
-    <img src=https://i.redditmedia.com/ABZ0m4GtL8SSxaWZWD250xcWL7yNzbN1HgiO39w7FCM.gif?fm=jpg&s=020a45c42c004655790b12c9f21ce512 frameborder=0>
-- entry_name: |
     When I am feeling stressed, I make tiny things. Here is a tiny abandoned cabin I made.
   entry_id: 8ufk8u
   entry_content: |
@@ -68,15 +63,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pnT6DxD0QMFlkjS_1MsGAG4VXvQc4njpTMZLbSquSq4.jpg?s=ffbd5ce9058b0e28411a980aa6edf85a frameborder=0>
 - entry_name: |
-    Ivanka Trump had trademarks approved by China on the same day the president lifted sanctions on a Chinese company
-  entry_id: 8uf67b
-  entry_content: |
-    <img src=https://i.redditmedia.com/pqw_V2ahCZqEJwU06byH4Ddn-nJAt3rCDCBGgXKm_DU.jpg?s=dfe48218a0cf574b0e5ed368baed3be1 frameborder=0>
-- entry_name: |
     Twenty years ago today, in nineteen ninety eight Undertaker threw Mankind off hell in a cell, plummeting sixteen feet through the announcer's table
   entry_id: 8ug87l
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/9hMp65SzyTU?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    In Spanish-speaking countries, the tooth fairy is a mouse (Ratoncito Pérez). This is my dentist office.
+  entry_id: 8uiqsz
+  entry_content: |
+    <img src=https://i.redditmedia.com/XzFSdF4YAcrQtrYBlLVUwlyGMOabBtEQOn0e7kaZOTA.jpg?s=493184d8a3789b27ddccbc34f60074e2 frameborder=0>
+- entry_name: |
+    Ivanka Trump had trademarks approved by China on the same day the president lifted sanctions on a Chinese company
+  entry_id: 8uf67b
+  entry_content: |
+    <img src=https://i.redditmedia.com/pqw_V2ahCZqEJwU06byH4Ddn-nJAt3rCDCBGgXKm_DU.jpg?s=dfe48218a0cf574b0e5ed368baed3be1 frameborder=0>
 - entry_name: |
     Splish splash I'm taking a bath
   entry_id: 8ud1b1
@@ -98,6 +98,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uN4vCUAmd5knfg9zXDRBMYOby_ilNgdUcW4kEfBL-Qw.jpg?s=7d7d98de4d13fe5b1b3647e5ab233dd7 frameborder=0>
 - entry_name: |
+    Detroit: Become Human
+  entry_id: 8ui6kh
+  entry_content: |
+    <img src=https://i.redditmedia.com/aKT-CVqOdtHlYfejy2UCRBxbK4D21bXkCKwokON8024.jpg?s=d33ab818b8eb33a58a629f5514faba7a frameborder=0>
+- entry_name: |
     Puerto Rico introduces bill to become US state
   entry_id: 8udgfo
   entry_content: |
@@ -108,44 +113,49 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RLy3yGWqWG0c2uPRSUV4K_PDhdHdfWj6AzeXcpwuSzY.jpg?s=4a065e663bd107532b61fcb02004bed5 frameborder=0>
 - entry_name: |
-    Time to cut back on the fancy feast...
-  entry_id: 8ubhom
+    Chinese authorities are capping the salaries of celebrities, blaming the entertainment industry for encouraging “money worship” and “distorting social values”.
+  entry_id: 8ugquc
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUncomfortableCalmFrilledlizard&url=https%3A%2F%2Fgfycat.com%2FUncomfortableCalmFrilledlizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FUncomfortableCalmFrilledlizard-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/oGJJzYNOmGC93Zz1k8lZmRetx6Ipz0PFeIONw4QF34I.jpg?s=a2e88c1e9a2f5b31eb732379a28a77ae frameborder=0>
 - entry_name: |
     TIL that opossums don't actually play dead, but under intense fear they will pass out involuntarily and will start reeking of death.
   entry_id: 8ue0de
   entry_content: |
     <img src=https://i.redditmedia.com/i9S5xvw7_zolP8C6dZJrrSF2t6Zclz6bE72lVWRbNzk.jpg?s=a5afa1084c79aaab8104099de9dfc513 frameborder=0>
 - entry_name: |
+    Black dogo
+  entry_id: 8uhhx2
+  entry_content: |
+    <img src=https://i.redditmedia.com/AY7sAm4kk1f5opiqzhhNhHrWhgbRmqKfhfHFCQ8OsOI.jpg?s=bbf5a8441fc4f5338d4a51720364cac9 frameborder=0>
+- entry_name: |
     Hailstorm was expected in Istanbul. We got a cute cat instead.
   entry_id: 8uchj7
   entry_content: |
     <iframe src=https://v.redd.it/h5w6joiqel611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Chinese authorities are capping the salaries of celebrities, blaming the entertainment industry for encouraging “money worship” and “distorting social values”.
-  entry_id: 8ugquc
+  entry_id: 8ugx38
   entry_content: |
-    <img src=https://i.redditmedia.com/oGJJzYNOmGC93Zz1k8lZmRetx6Ipz0PFeIONw4QF34I.jpg?s=a2e88c1e9a2f5b31eb732379a28a77ae frameborder=0>
+    <img src=https://i.redditmedia.com/340HJJjkQcHSs7yyca8RiaxToXrPwHI5dfWUsYPHDvY.jpg?s=3e36273589fa75f2f5d5e959df598152 frameborder=0>
 - entry_name: |
-    Wholesome sleep
-  entry_id: 8udss5
+    Your tongue’s ability to detect hair is underrated.
+  entry_id: 8uh3gd
   entry_content: |
-    <img src=https://i.redditmedia.com/f0JXu76VNBzl4DdcaeGdnoaFpVKAq-QRz50iMHDKT7U.jpg?s=5295dbe23f7a39f85cf85c9fa4aeb84c frameborder=0>
+    null
 - entry_name: |
     Unexpected comeback.
   entry_id: 8ugq3j
   entry_content: |
     <iframe src=https://v.redd.it/t11iu745lo611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8ugx38
+    Wholesome sleep
+  entry_id: 8udss5
   entry_content: |
-    <img src=https://i.redditmedia.com/340HJJjkQcHSs7yyca8RiaxToXrPwHI5dfWUsYPHDvY.jpg?s=3e36273589fa75f2f5d5e959df598152 frameborder=0>
+    <img src=https://i.redditmedia.com/f0JXu76VNBzl4DdcaeGdnoaFpVKAq-QRz50iMHDKT7U.jpg?s=5295dbe23f7a39f85cf85c9fa4aeb84c frameborder=0>
 - entry_name: |
-    And if I’m bored I can clean the house
-  entry_id: 8ubgus
+    Portuguese president shaking Trumps hand
+  entry_id: 8uhk51
   entry_content: |
-    <img src=https://i.redditmedia.com/nLG-ZOl1DZdWgt212Wgi05ZNslLqRg8tKyyQZnMn25I.jpg?s=63246595f41e684531de5c223a95bf89 frameborder=0>
+    <iframe src=https://v.redd.it/2i2u1twmhp611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     R.I.P little brother
   entry_id: 8ude7n
@@ -157,49 +167,19 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/drX4w0ue8fY-OMGU3oJGys6Yhwwnex_VskNNYd3N3E0.jpg?s=c3230160c72bfed31819bf5bf9c3c5ba frameborder=0>
 - entry_name: |
-  entry_id: 8ueqc4
-  entry_content: |
-    <img src=https://i.redditmedia.com/6jeja1jOKe9Q8H73VzyO7oNxasw9PbskRW1XylutZds.jpg?s=9ca78326a5615be8ac39fd175c0a7e1d frameborder=0>
-- entry_name: |
-    Detroit: Become Human
-  entry_id: 8ui6kh
-  entry_content: |
-    <img src=https://i.redditmedia.com/aKT-CVqOdtHlYfejy2UCRBxbK4D21bXkCKwokON8024.jpg?s=d33ab818b8eb33a58a629f5514faba7a frameborder=0>
-- entry_name: |
     Head of Charity to Prevent Child Abuse Arrested for Soliciting Child Pornography and Sex With Minors
   entry_id: 8ufdf0
   entry_content: |
     <img src=https://i.redditmedia.com/7Ml7p2wXdFC1cf8viQx8C1FP254Hm9AF4bCv2jGIP_w.jpg?s=3911f604db77eb4d75dcdd9a8f552c24 frameborder=0>
 - entry_name: |
-    In Spanish-speaking countries, the tooth fairy is a mouse (Ratoncito Pérez). This is my dentist office.
-  entry_id: 8uiqsz
+  entry_id: 8ueqc4
   entry_content: |
-    <img src=https://i.redditmedia.com/XzFSdF4YAcrQtrYBlLVUwlyGMOabBtEQOn0e7kaZOTA.jpg?s=493184d8a3789b27ddccbc34f60074e2 frameborder=0>
-- entry_name: |
-    Your tongue’s ability to detect hair is underrated.
-  entry_id: 8uh3gd
-  entry_content: |
-    null
-- entry_name: |
-    Portuguese president shaking Trumps hand
-  entry_id: 8uhk51
-  entry_content: |
-    <iframe src=https://v.redd.it/2i2u1twmhp611/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/6jeja1jOKe9Q8H73VzyO7oNxasw9PbskRW1XylutZds.jpg?s=9ca78326a5615be8ac39fd175c0a7e1d frameborder=0>
 - entry_name: |
     Post-Graduation Picture
   entry_id: 8uevj2
   entry_content: |
     <img src=https://i.redditmedia.com/wUPoDo341bHGUorfc8QaI3A9SBEx7t4POHFaxYG_H1o.jpg?s=1f365046715cfd1598096ae9f773bb4f frameborder=0>
-- entry_name: |
-    Anthony Kennedy retiring from Supreme Court
-  entry_id: 8ubuf1
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
-    Black dogo
-  entry_id: 8uhhx2
-  entry_content: |
-    <img src=https://i.redditmedia.com/AY7sAm4kk1f5opiqzhhNhHrWhgbRmqKfhfHFCQ8OsOI.jpg?s=bbf5a8441fc4f5338d4a51720364cac9 frameborder=0>
 - entry_name: |
     Putting on his war face
   entry_id: 8udm28
@@ -211,6 +191,16 @@ data:
   entry_content: |
     null
 - entry_name: |
+    to amaze his dog
+  entry_id: 8ugqab
+  entry_content: |
+    <iframe src=https://v.redd.it/v1gml7pplo611/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Anthony Kennedy retiring from Supreme Court
+  entry_id: 8ubuf1
+  entry_content: |
+    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
+- entry_name: |
     Pro tip: cross loot lake easily with mini gun and shopping cart.
   entry_id: 8ubk94
   entry_content: |
@@ -221,10 +211,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RATuznBiGFrpXhj1kMCMEaXGLPz3vCMWnyD_HAn9r_M.jpg?s=8154a136b64ae39179c6d1dd63e70aa0 frameborder=0>
 - entry_name: |
-    to amaze his dog
-  entry_id: 8ugqab
+    Alexandria Ocasio-Cortez’s climate plan is the only one that matches scientific consensus on the environment
+  entry_id: 8ui64i
   entry_content: |
-    <iframe src=https://v.redd.it/v1gml7pplo611/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/wNhFtsHJsP7YXKa3thDg8JtqZXa8mvxseKeMYilPrvo.jpg?s=bfb718dc9679690e2ea86c3f6b684be1 frameborder=0>
 - entry_name: |
     In Schindler’s List, a survivor named Mila Pfefferberg was introduced to Ralph Fiennes on the set. She began shaking uncontrollably as he reminded her too much of the real Amon Goeth.
   entry_id: 8ubwfn
@@ -236,15 +226,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lu3mxd4lrl611/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    I'll just squeeze in here
+  entry_id: 8ucxgq
+  entry_content: |
+    <iframe src=https://v.redd.it/7hlomiqjpl611/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Fuck this spot in particular
   entry_id: 8ucx7a
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FRemorsefulGrippingKillerwhale&url=https%3A%2F%2Fgfycat.com%2FRemorsefulGrippingKillerwhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FRemorsefulGrippingKillerwhale-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    I'll just squeeze in here
-  entry_id: 8ucxgq
+    Impressive Photoshop Skills
+  entry_id: 8ug2t3
   entry_content: |
-    <iframe src=https://v.redd.it/7hlomiqjpl611/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/b57bxghrxk611/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Sinking Ship Fountain
+  entry_id: 8ui1fy
+  entry_content: |
+    <img src=https://i.redditmedia.com/9qnZZUM5vtH_yOJH4buAj_2QKH3dmlH5nS5dKw3kW30.jpg?s=b57a6d98e02caed645e94208d08ed2dc frameborder=0>
 - entry_name: |
     Meet me at Sbarro at 0200 and don’t let anyone see you
   entry_id: 8ucvji
