@@ -73,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7svhdeitrl611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Tom Hanks plays wingman for a marriage proposal during a Q&A at a book festival.
-  entry_id: 8uccrk
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSpecificGenuineAracari&url=https%3A%2F%2Fgfycat.com%2Fspecificgenuinearacari&image=https%3A%2F%2Fthumbs.gfycat.com%2FSpecificGenuineAracari-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     This reflection
   entry_id: 8ucp93
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8ue3xu
   entry_content: |
     <iframe src=https://v.redd.it/czi2q5klgm611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    New Poster for Crime-Thriller 'Siberia' - Starring Keanu Reeves & Molly Ringwald
+  entry_id: 8uftae
+  entry_content: |
+    <img src=https://i.redditmedia.com/cTsJnPG8GJi8TQ9EkSk3oQP6PkrJ7gSD642RYS9vigY.jpg?s=c5d4905b849c1abdc78ed7669b67edb9 frameborder=0>
 ---
