@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/6ucimaxehm611/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    A different kind of progress pic- Five months worth of treatment to cure severe plaque psoriasis
-  entry_id: 8ubrn9
-  entry_content: |
-    <img src=https://i.redditmedia.com/pnT6DxD0QMFlkjS_1MsGAG4VXvQc4njpTMZLbSquSq4.jpg?s=ffbd5ce9058b0e28411a980aa6edf85a frameborder=0>
-- entry_name: |
     Twenty years ago today, in nineteen ninety eight Undertaker threw Mankind off hell in a cell, plummeting sixteen feet through the announcer's table
   entry_id: 8ug87l
   entry_content: |
@@ -191,11 +186,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/v1gml7pplo611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Anthony Kennedy retiring from Supreme Court
-  entry_id: 8ubuf1
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
-- entry_name: |
     Alexandria Ocasio-Cortez’s climate plan is the only one that matches scientific consensus on the environment
   entry_id: 8ui64i
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8ud9xu
   entry_content: |
     <img src=https://i.redditmedia.com/V_Xtz1LwivSLyVWlb6blmRDIulpxCvdJWubjsyy080M.jpg?s=1e532420a8911a89e38d001ec17803ce frameborder=0>
+- entry_name: |
+    Finding a 4 leaf clover
+  entry_id: 8ue3xu
+  entry_content: |
+    <iframe src=https://v.redd.it/czi2q5klgm611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    New Poster for Crime-Thriller 'Siberia' - Starring Keanu Reeves & Molly Ringwald
+  entry_id: 8uftae
+  entry_content: |
+    <img src=https://i.redditmedia.com/cTsJnPG8GJi8TQ9EkSk3oQP6PkrJ7gSD642RYS9vigY.jpg?s=c5d4905b849c1abdc78ed7669b67edb9 frameborder=0>
 ---
