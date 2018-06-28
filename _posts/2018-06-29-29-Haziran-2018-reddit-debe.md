@@ -216,11 +216,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FRemorsefulGrippingKillerwhale&url=https%3A%2F%2Fgfycat.com%2FRemorsefulGrippingKillerwhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FRemorsefulGrippingKillerwhale-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Meet me at Sbarro at 0200 and don’t let anyone see you
-  entry_id: 8ucvji
-  entry_content: |
-    <img src=https://i.redditmedia.com/f5YIctt2ttVInG9ppby0QfcZ6Uo8j19ZMqFmijZrxPg.jpg?s=5cf4d4c2c25e35b549257a8145506ed9 frameborder=0>
-- entry_name: |
     Former Equifax Manager Charged With Insider Trading
   entry_id: 8ujvek
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8udtxm
   entry_content: |
     <img src=https://i.redditmedia.com/H_7xVky4IUuHSNWPwuGnV1XHp4PCzqgObJHsVpocb0Y.jpg?s=671e68f42d00d49f608a3d51f20c9ff5 frameborder=0>
+- entry_name: |
+    Awesome Terry Crews
+  entry_id: 8uip9l
+  entry_content: |
+    <img src=https://i.redditmedia.com/itJdPowvzFVIRI7bYl5yqHy_tMubZTJ32-zXW20w3JU.jpg?s=4ad7a1cff11570815dd501ae936c1db2 frameborder=0>
 ---
