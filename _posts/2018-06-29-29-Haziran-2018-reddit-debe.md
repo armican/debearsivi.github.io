@@ -48,11 +48,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/yxz38j782o611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Cringe moment on Xfactor:Louis Walsh 'stealthily' grabs Mel B's ass, she calls him out and scoots away.
-  entry_id: 8ubow5
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/1XrJ_04FZQI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Childhood on hard mode
   entry_id: 8ue528
   entry_content: |
@@ -201,16 +196,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
 - entry_name: |
-    Pro tip: cross loot lake easily with mini gun and shopping cart.
-  entry_id: 8ubk94
-  entry_content: |
-    <iframe src=https://v.redd.it/d61qjw9kwk611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Ryanair straight savages.
-  entry_id: 8ubn4q
-  entry_content: |
-    <img src=https://i.redditmedia.com/RATuznBiGFrpXhj1kMCMEaXGLPz3vCMWnyD_HAn9r_M.jpg?s=8154a136b64ae39179c6d1dd63e70aa0 frameborder=0>
-- entry_name: |
     Alexandria Ocasio-Cortez’s climate plan is the only one that matches scientific consensus on the environment
   entry_id: 8ui64i
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8ucvji
   entry_content: |
     <img src=https://i.redditmedia.com/f5YIctt2ttVInG9ppby0QfcZ6Uo8j19ZMqFmijZrxPg.jpg?s=5cf4d4c2c25e35b549257a8145506ed9 frameborder=0>
+- entry_name: |
+    Lavaberg breaking in half
+  entry_id: 8uhj8y
+  entry_content: |
+    <iframe src=https://v.redd.it/4jhbmvfggp611/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Tree Zen
+  entry_id: 8uc6vt
+  entry_content: |
+    <img src=https://i.redditmedia.com/09zusDtAW6bObVYg8QpaSrWNponylu_3gRzQWBgdLpY.jpg?s=c3b7a0446b53ddd1efef74351657578b frameborder=0>
+- entry_name: |
+    People these days
+  entry_id: 8ud9xu
+  entry_content: |
+    <img src=https://i.redditmedia.com/V_Xtz1LwivSLyVWlb6blmRDIulpxCvdJWubjsyy080M.jpg?s=1e532420a8911a89e38d001ec17803ce frameborder=0>
 ---
