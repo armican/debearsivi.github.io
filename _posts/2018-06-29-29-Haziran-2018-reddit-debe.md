@@ -8,16 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JhaHycgWwkSWvOHnsvj9VF2C-C_Xqiswh9a75p-zeRc.jpg?s=498f50b70251130b3e9a40c54ac2958e frameborder=0>
 - entry_name: |
-    Mexican fans cheer for random Koreans after Korea beats Germany and securing Mexico's advance in the World Cup
-  entry_id: 8ucog7
-  entry_content: |
-    <iframe src=https://v.redd.it/tl7pkm02kl611/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    World Cup
-  entry_id: 8ucmje
-  entry_content: |
-    <img src=https://i.redditmedia.com/3wSJ_fDSCZ6rnNAnqFFqN2gJBD4LNrX2rFih9PyaSGc.jpg?s=25a7dc91a5e8a2f8976d75c30b6d5684 frameborder=0>
-- entry_name: |
     I just can’t get enough of this
   entry_id: 8uf2rd
   entry_content: |
@@ -73,20 +63,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7svhdeitrl611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This reflection
-  entry_id: 8ucp93
-  entry_content: |
-    <img src=https://i.redditmedia.com/5GTu_U0iPLzNoB3K-ChmZ215WJmbUcjF_7aUr4-N8zg.jpg?s=eca729da0e26fafabdfb201fcb0cec4c frameborder=0>
-- entry_name: |
     Btw,it's btw.
   entry_id: 8ujdvy
   entry_content: |
     <img src=https://i.redditmedia.com/2iO21FATJ-xpALmKBR0ODFEGdKCwMotrrpGq2gMZ4gU.jpg?s=5c162e1c0ec14127ee7cc7b78713c075 frameborder=0>
-- entry_name: |
-    Families earning $117,000 now qualify as low income in California's Bay Area
-  entry_id: 8ucmd7
-  entry_content: |
-    <img src=https://i.redditmedia.com/uN4vCUAmd5knfg9zXDRBMYOby_ilNgdUcW4kEfBL-Qw.jpg?s=7d7d98de4d13fe5b1b3647e5ab233dd7 frameborder=0>
 - entry_name: |
     Your tongue’s ability to detect hair is underrated.
   entry_id: 8uh3gd
@@ -156,11 +136,6 @@ data:
   entry_id: 8ui1fy
   entry_content: |
     <img src=https://i.redditmedia.com/9qnZZUM5vtH_yOJH4buAj_2QKH3dmlH5nS5dKw3kW30.jpg?s=b57a6d98e02caed645e94208d08ed2dc frameborder=0>
-- entry_name: |
-    This!
-  entry_id: 8uclwg
-  entry_content: |
-    <img src=https://i.redditmedia.com/drX4w0ue8fY-OMGU3oJGys6Yhwwnex_VskNNYd3N3E0.jpg?s=c3230160c72bfed31819bf5bf9c3c5ba frameborder=0>
 - entry_name: |
     Head of Charity to Prevent Child Abuse Arrested for Soliciting Child Pornography and Sex With Minors
   entry_id: 8ufdf0
@@ -250,4 +225,29 @@ data:
   entry_id: 8ujvek
   entry_content: |
     <img src=https://i.redditmedia.com/AUC93CYCLbZahkQx_dRC9Z9IitIV0f4K9OVt8jMq3iI.jpg?s=af657a7ed942bbf81c9f006668036a3d frameborder=0>
+- entry_name: |
+    People these days
+  entry_id: 8ud9xu
+  entry_content: |
+    <img src=https://i.redditmedia.com/V_Xtz1LwivSLyVWlb6blmRDIulpxCvdJWubjsyy080M.jpg?s=1e532420a8911a89e38d001ec17803ce frameborder=0>
+- entry_name: |
+    Finding a 4 leaf clover
+  entry_id: 8ue3xu
+  entry_content: |
+    <iframe src=https://v.redd.it/czi2q5klgm611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    New Poster for Crime-Thriller 'Siberia' - Starring Keanu Reeves & Molly Ringwald
+  entry_id: 8uftae
+  entry_content: |
+    <img src=https://i.redditmedia.com/cTsJnPG8GJi8TQ9EkSk3oQP6PkrJ7gSD642RYS9vigY.jpg?s=c5d4905b849c1abdc78ed7669b67edb9 frameborder=0>
+- entry_name: |
+    The nerve on him
+  entry_id: 8ugkia
+  entry_content: |
+    <img src=https://i.redditmedia.com/gVsD_pvSZIQfa-54hTioqM7o4e6qNPIp2NfXuhrzJ2w.jpg?s=2b8c37e18ebc8197594b56d8b031f5ef frameborder=0>
+- entry_name: |
+    AT&T more than doubles ‘admin fee’ for every wireless customer | Increase will net telecom giant $800 million a year
+  entry_id: 8udtxm
+  entry_content: |
+    <img src=https://i.redditmedia.com/H_7xVky4IUuHSNWPwuGnV1XHp4PCzqgObJHsVpocb0Y.jpg?s=671e68f42d00d49f608a3d51f20c9ff5 frameborder=0>
 ---
