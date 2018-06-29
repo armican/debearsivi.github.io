@@ -148,11 +148,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Not even in your dreams
-  entry_id: 8um3pf
-  entry_content: |
-    <img src=https://i.redditmedia.com/l79Nvw7Y6JN08DcNQlnuN1e8qJAGi4RrO-MyhFwvDcI.png?s=6c6d89c22138b094e4d097d9d6d4a8c1 frameborder=0>
-- entry_name: |
     Priceless reaction
   entry_id: 8un78f
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8unvii
   entry_content: |
     <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Animation Workers Set To Receive $170 Million Payout From Wage-Theft Lawsuit (From The Walt Disney Company/Pixar/Lucasfilm/Imagemovers Digital, Sony, Dreamworks, 21st Century Fox)
+  entry_id: 8uo0rr
+  entry_content: |
+    <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
 ---
