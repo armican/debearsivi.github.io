@@ -18,45 +18,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9sFXh8oKHHmEK3ITWvjjOLR2aKCPB3RwFechExJ0pvU.jpg?s=61cfdc0d940a338ae37dba3296eca8ed frameborder=0>
 - entry_name: |
-    TIL Adam West and Frank Gorshin were kicked out of an orgy because they were were determined to stay in-character as Batman and the Riddler.
-  entry_id: 8un2ga
-  entry_content: |
-    <img src=https://i.redditmedia.com/9bQpcDx9eIbIF2Osz5mpKy-UcXP72-4NlUqHuVr48_s.jpg?s=0685abe95d600aa0772888411bf86b75 frameborder=0>
-- entry_name: |
     My neighbor has two of the same car painted exactly opposite of each other.
   entry_id: 8unv2t
   entry_content: |
     <img src=https://i.redditmedia.com/fZ4pBW7Vuk4rNWCphTDNz1c_Q0fIq4MUX4GYHKi5CVw.jpg?s=6cdd36392649be8d05c9a6f766fcdf6c frameborder=0>
-- entry_name: |
-    He’s impersonating his 19 year old self in Vietnam 1966
-  entry_id: 8un1q1
-  entry_content: |
-    <img src=https://i.redditmedia.com/TUqthvfWr9WR9RmICjUWPnzShh155vEFSyFJEZFPu4A.jpg?s=559f810a327f3d064457f848c5573953 frameborder=0>
 - entry_name: |
     Iceland's head coach 2 days after World cup elimination.
   entry_id: 8us5p7
   entry_content: |
     <img src=https://i.redditmedia.com/0sgyCYCvz8PnIt8uzF9m-f2ri37vggSTaH5ugNEop7U.jpg?s=44891db38bd43702318535db98756009 frameborder=0>
 - entry_name: |
+    Loves getting his haircut.
+  entry_id: 8utezc
+  entry_content: |
+    <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     My husky pup meeting our very first dog-sitting client, a Bernese mountain dog.
   entry_id: 8uo1i5
   entry_content: |
     <iframe src=https://v.redd.it/gm59oc2ajt611/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    First poster for the upcoming film Glass
+  entry_id: 8ut00l
+  entry_content: |
+    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
 - entry_name: |
     “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
   entry_id: 8usk3r
   entry_content: |
     <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
 - entry_name: |
+    This is not how we treat victims or is it?
+  entry_id: 8utddn
+  entry_content: |
+    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
+- entry_name: |
     TIL bees will seek out alcohol and get drunk--and bouncers at the hive refuse to let them in until they sober up
   entry_id: 8upa7b
   entry_content: |
     <img src=https://i.redditmedia.com/Kh2sPE4DVJqBy-FEWb03iyiwk52XnfzfwDkdOntH4xo.jpg?s=e956c255171c7c9c2ae2bc0fc6913f90 frameborder=0>
-- entry_name: |
-    First poster for the upcoming film Glass
-  entry_id: 8ut00l
-  entry_content: |
-    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
 - entry_name: |
     Can’t believe....
   entry_id: 8uo3au
@@ -68,20 +68,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dhmaplnw1u611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Loves getting his haircut.
-  entry_id: 8utezc
-  entry_content: |
-    <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Puerto Rico introduces bill to become U.S. state by 2021.
   entry_id: 8ur1wy
   entry_content: |
     <img src=https://i.redditmedia.com/s1YEWrTvEGpSd2XkfhsaxabR3wajUcCddH1ebxRdJKA.jpg?s=d5f4bddc94bc7101dad90eecf57f1a07 frameborder=0>
-- entry_name: |
-    This is not how we treat victims or is it?
-  entry_id: 8utddn
-  entry_content: |
-    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 - entry_name: |
     He failed doggy school today- then promptly said heck with education and took up modeling.
   entry_id: 8up29j
@@ -108,20 +98,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dGCZgSY_r_aZNRltt2RfZEcjeAW0qwWVGWJTQRimC9g.jpg?s=e7e2ba23f45ac49743aaf4432e33d14a frameborder=0>
 - entry_name: |
-    Talk about a grudge
-  entry_id: 8up5lf
-  entry_content: |
-    <img src=https://i.redditmedia.com/w_N4cHq4G2ou0H0ny2SUjmUkXijpd_Nt1wVGsloi6zs.jpg?s=c168382ad4fea724b275034d35521163 frameborder=0>
-- entry_name: |
     Picture of my friend’s bird, thought it looked fake.
   entry_id: 8up866
   entry_content: |
     <img src=https://i.redditmedia.com/qx5qqmDCU055H8pgVjhIQJGwxjytUzhYtLY0k_MJsxY.jpg?s=95aa3ef1e3352148e3894e67acff7d0f frameborder=0>
 - entry_name: |
+    Talk about a grudge
+  entry_id: 8up5lf
+  entry_content: |
+    <img src=https://i.redditmedia.com/w_N4cHq4G2ou0H0ny2SUjmUkXijpd_Nt1wVGsloi6zs.jpg?s=c168382ad4fea724b275034d35521163 frameborder=0>
+- entry_name: |
+    TIL Flamin' Hot Cheetos were invented by a janitor at Frito-Lay who sprinkled chili powder on some regular Cheetos that didn't get dusted. After his invention, he quickly rose up the ranks to become a PepsiCo executive. His name is Richard Montañez.
+  entry_id: 8uu3fr
+  entry_content: |
+    <img src=https://i.redditmedia.com/uLk87kDO4O2HkMl8iZVc-QcJrSozZBxFj-rEMu1ftAM.jpg?s=e879bf89b965ca4832c1583241797576 frameborder=0>
+- entry_name: |
     My mugshot from two years ago following a massive PCP/benzo overdose and before homelessness and a trip to prison. I'm now two years sober, living a wonderful life and happier than I ever thought I'd be!
   entry_id: 8uo9es
   entry_content: |
     <img src=https://i.redditmedia.com/odOIycpKBJPu7w60eNaX5c0TLOeCUCksX5zf6JTJUH8.jpg?s=19f606f4ba6ba69ebbc4dc62f4976158 frameborder=0>
+- entry_name: |
+    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
+  entry_id: 8usccx
+  entry_content: |
+    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
 - entry_name: |
     Just be happy bro
   entry_id: 8uo797
@@ -133,15 +133,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nu3hrynslu611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
-  entry_id: 8usccx
-  entry_content: |
-    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
-- entry_name: |
     Priceless reaction
   entry_id: 8un78f
   entry_content: |
     <iframe src=https://v.redd.it/dh3tmbuizs611/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Frigid
+  entry_id: 8ususj
+  entry_content: |
+    <img src=https://i.redditmedia.com/ijxrNf0mdiGW-N-W-8OfKHjQxKQD6oQ0_ewoS2naJU8.png?s=8936f6e00aefe0876f5bdcc4afcaa560 frameborder=0>
+- entry_name: |
+    Rat Jazz.
+  entry_id: 8us61z
+  entry_content: |
+    <img src=https://i.redditmedia.com/wBIpDjUSUg3KwBH2yi2jEinnvkkRaWju9jIpr9UVD2g.jpg?s=12e76fd426dd3dcb33a7c9a2c3c21da7 frameborder=0>
 - entry_name: |
     Macaroni Lad bamboozles PR man
   entry_id: 8unsuc
@@ -153,25 +158,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Z8cvkjkx_-PuhlYhccBfRAwDXpqSmzZqXdG2_U76JI0.jpg?s=cedc02a043ef5299f7d6ba7d191997ee frameborder=0>
 - entry_name: |
-    Frigid
-  entry_id: 8ususj
+    Unarmed black man tased by police in the back while sitting on pavement
+  entry_id: 8usfbp
   entry_content: |
-    <img src=https://i.redditmedia.com/ijxrNf0mdiGW-N-W-8OfKHjQxKQD6oQ0_ewoS2naJU8.png?s=8936f6e00aefe0876f5bdcc4afcaa560 frameborder=0>
+    <img src=https://i.redditmedia.com/Eu_5FTEn2BPLFbepWMQK0KZdFMKzP88LoZFzDm0msF8.jpg?s=b3b5e7f85fff5a544a9ac4c875b81c8e frameborder=0>
 - entry_name: |
-    🔥 sea turtle flippin’ the bird to the camera 🔥
-  entry_id: 8up0js
+    Petting a dog can make you feel better
+  entry_id: 8urfaq
   entry_content: |
-    <img src=https://i.redditmedia.com/cuN-g7fgZq2Gv14Mmnn18-nE0lBoBHgUpAjremYXwMM.jpg?s=b82d2ebaf82abb415052d0bdfb2721fc frameborder=0>
+    <iframe src=https://v.redd.it/bllw3vwv7w611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
   entry_id: 8usa1l
   entry_content: |
     <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
 - entry_name: |
-    Rat Jazz.
-  entry_id: 8us61z
+    Nice way to start the weekend...
+  entry_id: 8uszac
   entry_content: |
-    <img src=https://i.redditmedia.com/wBIpDjUSUg3KwBH2yi2jEinnvkkRaWju9jIpr9UVD2g.jpg?s=12e76fd426dd3dcb33a7c9a2c3c21da7 frameborder=0>
+    <img src=https://i.redditmedia.com/f5InHKLsnBLljtzCq7Mtbkd-dLlK3S0mwWuExHCnwfM.jpg?s=fcab47fa7f60c80297a11f8a6fd43d6f frameborder=0>
+- entry_name: |
+    🔥 sea turtle flippin’ the bird to the camera 🔥
+  entry_id: 8up0js
+  entry_content: |
+    <img src=https://i.redditmedia.com/cuN-g7fgZq2Gv14Mmnn18-nE0lBoBHgUpAjremYXwMM.jpg?s=b82d2ebaf82abb415052d0bdfb2721fc frameborder=0>
 - entry_name: |
     Officer who met a boy on a service call, where the boy showed him his awesome dance moves, bought the boy a Michael Jackson outfit
   entry_id: 8uopfp
@@ -188,25 +198,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SoNKtFoyz2WdLYYtHFNd85u0QqYKTesS-aHK8tvYOUU.jpg?s=3e2f10a449a76f069781107186313bd8 frameborder=0>
 - entry_name: |
-    Petting a dog can make you feel better
-  entry_id: 8urfaq
-  entry_content: |
-    <iframe src=https://v.redd.it/bllw3vwv7w611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     We recently had a death in our family. In our family that usually means families will come over every day for a couple days, ALL DAY. This means at least 25-30 kids outside out of control and wild for the entire day. Today the neighbor rented a bouncy house for the entire day, just for the kids.
   entry_id: 8uo3lw
   entry_content: |
     <img src=https://i.redditmedia.com/jGA9nM1k-JwnoKV7f_cCVSrl7-odf-0tms1lZTU6OwU.jpg?s=0bf1fd4f3bcede1b5347224c13ec1867 frameborder=0>
-- entry_name: |
-    Cruise ship construction
-  entry_id: 8un2os
-  entry_content: |
-    <iframe src=https://v.redd.it/9gv6eztnws611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Unarmed black man tased by police in the back while sitting on pavement
-  entry_id: 8usfbp
-  entry_content: |
-    <img src=https://i.redditmedia.com/Eu_5FTEn2BPLFbepWMQK0KZdFMKzP88LoZFzDm0msF8.jpg?s=b3b5e7f85fff5a544a9ac4c875b81c8e frameborder=0>
 - entry_name: |
     My gamer side has finally met my creative side. I think they like each other😉
   entry_id: 8updmb
@@ -223,10 +218,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/wt75evb0ft611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Hiding from the police.
+  entry_id: 8ut2mi
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAncientDevotedFerret&url=https%3A%2F%2Fgfycat.com%2FAncientDevotedFerret&image=https%3A%2F%2Fthumbs.gfycat.com%2FAncientDevotedFerret-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=468 height=252 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    The pattern of ice on my car this morning.
+  entry_id: 8urs98
+  entry_content: |
+    <img src=https://i.redditmedia.com/UASJAJhHqC_q4ghWAxWvCHJyXki_Ap05XmRXzSpTPkY.jpg?s=ae425744c138daf8fff70d490102f9bd frameborder=0>
+- entry_name: |
     It’s not what it looks like!
   entry_id: 8unvii
   entry_content: |
     <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    You're going away for a looonng time!!!
+  entry_id: 8usdb6
+  entry_content: |
+    <iframe src=https://v.redd.it/8e9t54b6dx611/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Jim forgave his wife for her one-time affair but he would be damned if he had to treat that kid the same as his own.
+  entry_id: 8utaqp
+  entry_content: |
+    <iframe src=https://v.redd.it/ggtz9c204y611/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Derp of the year
   entry_id: 8uou0o
@@ -237,19 +252,4 @@ data:
   entry_id: 8uo0rr
   entry_content: |
     <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
-- entry_name: |
-    The pattern of ice on my car this morning.
-  entry_id: 8urs98
-  entry_content: |
-    <img src=https://i.redditmedia.com/UASJAJhHqC_q4ghWAxWvCHJyXki_Ap05XmRXzSpTPkY.jpg?s=ae425744c138daf8fff70d490102f9bd frameborder=0>
-- entry_name: |
-    TIFU by pitching a really fucking stupid slogan to my only cool client
-  entry_id: 8unniv
-  entry_content: |
-    null
-- entry_name: |
-    Nice way to start the weekend...
-  entry_id: 8uszac
-  entry_content: |
-    <img src=https://i.redditmedia.com/f5InHKLsnBLljtzCq7Mtbkd-dLlK3S0mwWuExHCnwfM.jpg?s=fcab47fa7f60c80297a11f8a6fd43d6f frameborder=0>
 ---
