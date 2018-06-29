@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 - entry_name: |
-    TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
-  entry_id: 8urlej
-  entry_content: |
-    <img src=https://i.redditmedia.com/0hfk3GVHe90iuWzUtNyQqmtpZgMhhn5LC3YL5ynNKFQ.jpg?s=e6ebf4248dbcee2a00ee7b24ae8e2290 frameborder=0>
-- entry_name: |
     He failed doggy school today- then promptly said heck with education and took up modeling.
   entry_id: 8up29j
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SoNKtFoyz2WdLYYtHFNd85u0QqYKTesS-aHK8tvYOUU.jpg?s=3e2f10a449a76f069781107186313bd8 frameborder=0>
 - entry_name: |
-    Scientists call for a Paris-style agreement to save life on Earth. Call to include corporations in the bill alongside nation states.
-  entry_id: 8umr44
-  entry_content: |
-    <img src=https://i.redditmedia.com/1b_-HINVCWBdyHJel9BMNmePUbYuq9L_A9A-C86b08k.jpg?s=5e139011af301684042849f87cc138b9 frameborder=0>
-- entry_name: |
     Petting a dog can make you feel better
   entry_id: 8urfaq
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8urs98
   entry_content: |
     <img src=https://i.redditmedia.com/UASJAJhHqC_q4ghWAxWvCHJyXki_Ap05XmRXzSpTPkY.jpg?s=ae425744c138daf8fff70d490102f9bd frameborder=0>
+- entry_name: |
+    TIFU by pitching a really fucking stupid slogan to my only cool client
+  entry_id: 8unniv
+  entry_content: |
+    null
+- entry_name: |
+    Nice way to start the weekend...
+  entry_id: 8uszac
+  entry_content: |
+    <img src=https://i.redditmedia.com/f5InHKLsnBLljtzCq7Mtbkd-dLlK3S0mwWuExHCnwfM.jpg?s=fcab47fa7f60c80297a11f8a6fd43d6f frameborder=0>
 ---
