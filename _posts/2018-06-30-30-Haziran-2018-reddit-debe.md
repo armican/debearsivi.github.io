@@ -8,11 +8,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/87ro5fndou611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    This shit ain’t gonna work no more!!
-  entry_id: 8ulypl
-  entry_content: |
-    <iframe src=https://v.redd.it/57dzw2wo8s611/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     German shepherd with Golden retriever mix. Cuteness overload 😄
   entry_id: 8upcpa
   entry_content: |
@@ -38,15 +33,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TUqthvfWr9WR9RmICjUWPnzShh155vEFSyFJEZFPu4A.jpg?s=559f810a327f3d064457f848c5573953 frameborder=0>
 - entry_name: |
-    My husky pup meeting our very first dog-sitting client, a Bernese mountain dog.
-  entry_id: 8uo1i5
-  entry_content: |
-    <iframe src=https://v.redd.it/gm59oc2ajt611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Iceland's head coach 2 days after World cup elimination.
   entry_id: 8us5p7
   entry_content: |
     <img src=https://i.redditmedia.com/0sgyCYCvz8PnIt8uzF9m-f2ri37vggSTaH5ugNEop7U.jpg?s=44891db38bd43702318535db98756009 frameborder=0>
+- entry_name: |
+    My husky pup meeting our very first dog-sitting client, a Bernese mountain dog.
+  entry_id: 8uo1i5
+  entry_content: |
+    <iframe src=https://v.redd.it/gm59oc2ajt611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL bees will seek out alcohol and get drunk--and bouncers at the hive refuse to let them in until they sober up
   entry_id: 8upa7b
@@ -63,25 +58,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dhmaplnw1u611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    He failed doggy school today- then promptly said heck with education and took up modeling.
-  entry_id: 8up29j
-  entry_content: |
-    <img src=https://i.redditmedia.com/IjRZyYqQsj2pOqrq9vWgTwNcaomMf_nBKPcZdP0toYM.jpg?s=0b92b72e5042d30e10448f5b7e7d2705 frameborder=0>
-- entry_name: |
     “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
   entry_id: 8usk3r
   entry_content: |
     <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
+- entry_name: |
+    Puerto Rico introduces bill to become U.S. state by 2021.
+  entry_id: 8ur1wy
+  entry_content: |
+    <img src=https://i.redditmedia.com/s1YEWrTvEGpSd2XkfhsaxabR3wajUcCddH1ebxRdJKA.jpg?s=d5f4bddc94bc7101dad90eecf57f1a07 frameborder=0>
+- entry_name: |
+    First poster for the upcoming film Glass
+  entry_id: 8ut00l
+  entry_content: |
+    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
+- entry_name: |
+    TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
+  entry_id: 8urlej
+  entry_content: |
+    <img src=https://i.redditmedia.com/0hfk3GVHe90iuWzUtNyQqmtpZgMhhn5LC3YL5ynNKFQ.jpg?s=e6ebf4248dbcee2a00ee7b24ae8e2290 frameborder=0>
+- entry_name: |
+    He failed doggy school today- then promptly said heck with education and took up modeling.
+  entry_id: 8up29j
+  entry_content: |
+    <img src=https://i.redditmedia.com/IjRZyYqQsj2pOqrq9vWgTwNcaomMf_nBKPcZdP0toYM.jpg?s=0b92b72e5042d30e10448f5b7e7d2705 frameborder=0>
 - entry_name: |
     'We Are Putting Out a Damn Paper Tomorrow.' Capital Gazette Journalists Defiant After Deadly Shooting
   entry_id: 8uoodo
   entry_content: |
     <img src=https://i.redditmedia.com/i1bhuZgSXoOE9cyE7G7IXx2B501nUBHLx7FSniTAS-k.jpg?s=b357cccf63eb6ed9eaf163ca9da6c3c9 frameborder=0>
 - entry_name: |
-    Puerto Rico introduces bill to become U.S. state by 2021.
-  entry_id: 8ur1wy
+    What would you do ?
+  entry_id: 8uqytf
   entry_content: |
-    <img src=https://i.redditmedia.com/s1YEWrTvEGpSd2XkfhsaxabR3wajUcCddH1ebxRdJKA.jpg?s=d5f4bddc94bc7101dad90eecf57f1a07 frameborder=0>
+    <img src=https://i.redditmedia.com/JaCLbbpSW2HJlO_XzavI5vvaYsaDduakio4HR4V77WA.jpg?s=aadc8196c9c600af095120032192f5d0 frameborder=0>
 - entry_name: |
     Belgium celebrating a goal
   entry_id: 8umij2
@@ -93,25 +103,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rQPotRdB3Y1xqKGew7pJyE4t_DQ8KYBPg-7D86-VoIU.png?s=5b345f211c3b15928a023033425ffce4 frameborder=0>
 - entry_name: |
-    TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
-  entry_id: 8urlej
-  entry_content: |
-    <img src=https://i.redditmedia.com/0hfk3GVHe90iuWzUtNyQqmtpZgMhhn5LC3YL5ynNKFQ.jpg?s=e6ebf4248dbcee2a00ee7b24ae8e2290 frameborder=0>
-- entry_name: |
     My buddy is getting chemo for colon cancer. I wished I looked this fucking cool.
   entry_id: 8unbei
   entry_content: |
     <img src=https://i.redditmedia.com/dGCZgSY_r_aZNRltt2RfZEcjeAW0qwWVGWJTQRimC9g.jpg?s=e7e2ba23f45ac49743aaf4432e33d14a frameborder=0>
 - entry_name: |
-    What would you do ?
-  entry_id: 8uqytf
+    This is not how we treat victims or is it?
+  entry_id: 8utddn
   entry_content: |
-    <img src=https://i.redditmedia.com/JaCLbbpSW2HJlO_XzavI5vvaYsaDduakio4HR4V77WA.jpg?s=aadc8196c9c600af095120032192f5d0 frameborder=0>
-- entry_name: |
-    First poster for the upcoming film Glass
-  entry_id: 8ut00l
-  entry_content: |
-    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
+    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 - entry_name: |
     Talk about a grudge
   entry_id: 8up5lf
@@ -143,6 +143,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t8ji8o2nks611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Loves getting his haircut.
+  entry_id: 8utezc
+  entry_content: |
+    <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Not even in your dreams
   entry_id: 8um3pf
   entry_content: |
@@ -157,6 +162,11 @@ data:
   entry_id: 8unsuc
   entry_content: |
     <img src=https://i.redditmedia.com/tIhvasoFDSXOad_FD3jGnBkOTMt8gvoKQkoLREC1-vQ.jpg?s=2c2b421e73ae0f7a8a110890476fe9e2 frameborder=0>
+- entry_name: |
+    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
+  entry_id: 8usccx
+  entry_content: |
+    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
 - entry_name: |
     Roasted
   entry_id: 8uofts
@@ -183,10 +193,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LodmCsxSA5wALR-83bh8-VlYAE4b7RZcVzk4c2fsjys.jpg?s=abccfabebccfafa221c9aa7b7317ebd7 frameborder=0>
 - entry_name: |
-    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
-  entry_id: 8usccx
+    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
+  entry_id: 8usa1l
   entry_content: |
-    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
+    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
 - entry_name: |
     Surely you must train him?
   entry_id: 8un8v4
@@ -203,20 +213,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1b_-HINVCWBdyHJel9BMNmePUbYuq9L_A9A-C86b08k.jpg?s=5e139011af301684042849f87cc138b9 frameborder=0>
 - entry_name: |
-    Cruise ship construction
-  entry_id: 8un2os
-  entry_content: |
-    <iframe src=https://v.redd.it/9gv6eztnws611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
-  entry_id: 8usa1l
-  entry_content: |
-    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
-- entry_name: |
     We recently had a death in our family. In our family that usually means families will come over every day for a couple days, ALL DAY. This means at least 25-30 kids outside out of control and wild for the entire day. Today the neighbor rented a bouncy house for the entire day, just for the kids.
   entry_id: 8uo3lw
   entry_content: |
     <img src=https://i.redditmedia.com/jGA9nM1k-JwnoKV7f_cCVSrl7-odf-0tms1lZTU6OwU.jpg?s=0bf1fd4f3bcede1b5347224c13ec1867 frameborder=0>
+- entry_name: |
+    Cruise ship construction
+  entry_id: 8un2os
+  entry_content: |
+    <iframe src=https://v.redd.it/9gv6eztnws611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My gamer side has finally met my creative side. I think they like each other😉
   entry_id: 8updmb
@@ -228,10 +233,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kf4eODEKOwzRSWAqnH6nHQFRLv3F3aWem-Hnjvc7EaI.jpg?s=76dfa7929873c4d7c81f05a1a6d296fc frameborder=0>
 - entry_name: |
-    This is not how we treat victims or is it?
-  entry_id: 8utddn
+    Petting a dog can make you feel better
+  entry_id: 8urfaq
   entry_content: |
-    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
+    <iframe src=https://v.redd.it/bllw3vwv7w611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Rat Jazz.
+  entry_id: 8us61z
+  entry_content: |
+    <img src=https://i.redditmedia.com/wBIpDjUSUg3KwBH2yi2jEinnvkkRaWju9jIpr9UVD2g.jpg?s=12e76fd426dd3dcb33a7c9a2c3c21da7 frameborder=0>
 - entry_name: |
     Vacuum excavator is so powerful it literally sucks up the ground.
   entry_id: 8unvhe
@@ -242,14 +252,4 @@ data:
   entry_id: 8unvii
   entry_content: |
     <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Animation Workers Set To Receive $170 Million Payout From Wage-Theft Lawsuit (From The Walt Disney Company/Pixar/Lucasfilm/Imagemovers Digital, Sony, Dreamworks, 21st Century Fox)
-  entry_id: 8uo0rr
-  entry_content: |
-    <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
-- entry_name: |
-    Derp of the year
-  entry_id: 8uou0o
-  entry_content: |
-    <img src=https://i.redditmedia.com/BpI50nIuIUGBkJcrs5WB1pkLyVNiGhSPxs6E3g2hAWY.jpg?s=53349fbbce275438aaf51c7d5c855be2 frameborder=0>
 ---
