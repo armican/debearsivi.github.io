@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TUqthvfWr9WR9RmICjUWPnzShh155vEFSyFJEZFPu4A.jpg?s=559f810a327f3d064457f848c5573953 frameborder=0>
 - entry_name: |
-    Overwatch’s next hero is a hamster in a giant, rolling mech suit
-  entry_id: 8ulmmp
-  entry_content: |
-    <img src=https://i.redditmedia.com/U2VEIDoUalrxN15DdFAz9Cr8-w_OKc1M4sUWmFAk3lE.gif?fm=jpg&s=025aedfd8c3c39a756d5deb0ea8f02f4 frameborder=0>
-- entry_name: |
     My gf ordered “A side of fries” with a southern accent
   entry_id: 8ulvpj
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qx5qqmDCU055H8pgVjhIQJGwxjytUzhYtLY0k_MJsxY.jpg?s=95aa3ef1e3352148e3894e67acff7d0f frameborder=0>
 - entry_name: |
-    Rusty Skies, Michael Black, Digital, 2018
-  entry_id: 8ulpjk
-  entry_content: |
-    <img src=https://i.redditmedia.com/1uPT4bjhpmka1lafI4ANNnu8jvFzV3eSDEI6CrYlKW4.jpg?s=40c87b60f8f9ece29692f6b3e3745c9c frameborder=0>
-- entry_name: |
     My mugshot from two years ago following a massive PCP/benzo overdose and before homelessness and a trip to prison. I'm now two years sober, living a wonderful life and happier than I ever thought I'd be!
   entry_id: 8uo9es
   entry_content: |
@@ -147,11 +137,6 @@ data:
   entry_id: 8uo797
   entry_content: |
     <img src=https://i.redditmedia.com/BKb9fkbFMZpL7s3iQJCmq-wDuJzKxdSv7gNCMx7369A.jpg?s=7de66fe829a9ae9a707ae68ca95dd51b frameborder=0>
-- entry_name: |
-    Ely Minnesota 1270x1904
-  entry_id: 8uphgy
-  entry_content: |
-    <img src=https://i.redditmedia.com/hICoSs_AzuIRYVDY-lM1Ls31PYS4vwlfxlJBr2cSjmU.jpg?s=2b6d934b4cd77a37fd724769454b38a3 frameborder=0>
 - entry_name: |
     The Exorcist (1973) filmed before the stedicam had been invented. To show actors going upstairs toward the demonic bedroom a makeshift seat-swing was designed using pulleys and rope, and guided by crew. The handheld shot was revolutionary for the time (as was much of the film).
   entry_id: 8upgbj
@@ -252,4 +237,19 @@ data:
   entry_id: 8utddn
   entry_content: |
     <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
+- entry_name: |
+    Vacuum excavator is so powerful it literally sucks up the ground.
+  entry_id: 8unvhe
+  entry_content: |
+    <iframe src=https://v.redd.it/wt75evb0ft611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    It’s not what it looks like!
+  entry_id: 8unvii
+  entry_content: |
+    <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Animation Workers Set To Receive $170 Million Payout From Wage-Theft Lawsuit (From The Walt Disney Company/Pixar/Lucasfilm/Imagemovers Digital, Sony, Dreamworks, 21st Century Fox)
+  entry_id: 8uo0rr
+  entry_content: |
+    <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
 ---
