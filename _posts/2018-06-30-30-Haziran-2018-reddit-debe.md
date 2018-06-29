@@ -53,15 +53,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gm59oc2ajt611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Can’t believe....
-  entry_id: 8uo3au
+    Iceland's head coach 2 days after World cup elimination.
+  entry_id: 8us5p7
   entry_content: |
-    <img src=https://i.redditmedia.com/NzFEU0kbpSGIvrfqyMMkyBVIMkotxY67qka909A1jwA.jpg?s=f38eab08bf9dd91691630a1de66e72c9 frameborder=0>
+    <img src=https://i.redditmedia.com/0sgyCYCvz8PnIt8uzF9m-f2ri37vggSTaH5ugNEop7U.jpg?s=44891db38bd43702318535db98756009 frameborder=0>
 - entry_name: |
     TIL bees will seek out alcohol and get drunk--and bouncers at the hive refuse to let them in until they sober up
   entry_id: 8upa7b
   entry_content: |
     <img src=https://i.redditmedia.com/Kh2sPE4DVJqBy-FEWb03iyiwk52XnfzfwDkdOntH4xo.jpg?s=e956c255171c7c9c2ae2bc0fc6913f90 frameborder=0>
+- entry_name: |
+    Can’t believe....
+  entry_id: 8uo3au
+  entry_content: |
+    <img src=https://i.redditmedia.com/NzFEU0kbpSGIvrfqyMMkyBVIMkotxY67qka909A1jwA.jpg?s=f38eab08bf9dd91691630a1de66e72c9 frameborder=0>
 - entry_name: |
     DOOM II, but everything has been modded to be Tim Allen
   entry_id: 8uoqq7
@@ -73,55 +78,65 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IjRZyYqQsj2pOqrq9vWgTwNcaomMf_nBKPcZdP0toYM.jpg?s=0b92b72e5042d30e10448f5b7e7d2705 frameborder=0>
 - entry_name: |
+    “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
+  entry_id: 8usk3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
+- entry_name: |
     'We Are Putting Out a Damn Paper Tomorrow.' Capital Gazette Journalists Defiant After Deadly Shooting
   entry_id: 8uoodo
   entry_content: |
     <img src=https://i.redditmedia.com/i1bhuZgSXoOE9cyE7G7IXx2B501nUBHLx7FSniTAS-k.jpg?s=b357cccf63eb6ed9eaf163ca9da6c3c9 frameborder=0>
-- entry_name: |
-    Belgium celebrating a goal
-  entry_id: 8umij2
-  entry_content: |
-    <iframe src=https://v.redd.it/aepoosqnks611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Iceland's head coach 2 days after World cup elimination.
-  entry_id: 8us5p7
-  entry_content: |
-    <img src=https://i.redditmedia.com/0sgyCYCvz8PnIt8uzF9m-f2ri37vggSTaH5ugNEop7U.jpg?s=44891db38bd43702318535db98756009 frameborder=0>
-- entry_name: |
-    After I told my kids torches would stop monsters from spawning in their base.
-  entry_id: 8uo8we
-  entry_content: |
-    <img src=https://i.redditmedia.com/rQPotRdB3Y1xqKGew7pJyE4t_DQ8KYBPg-7D86-VoIU.png?s=5b345f211c3b15928a023033425ffce4 frameborder=0>
-- entry_name: |
-    My buddy is getting chemo for colon cancer. I wished I looked this fucking cool.
-  entry_id: 8unbei
-  entry_content: |
-    <img src=https://i.redditmedia.com/dGCZgSY_r_aZNRltt2RfZEcjeAW0qwWVGWJTQRimC9g.jpg?s=e7e2ba23f45ac49743aaf4432e33d14a frameborder=0>
 - entry_name: |
     Puerto Rico introduces bill to become U.S. state by 2021.
   entry_id: 8ur1wy
   entry_content: |
     <img src=https://i.redditmedia.com/s1YEWrTvEGpSd2XkfhsaxabR3wajUcCddH1ebxRdJKA.jpg?s=d5f4bddc94bc7101dad90eecf57f1a07 frameborder=0>
 - entry_name: |
+    Belgium celebrating a goal
+  entry_id: 8umij2
+  entry_content: |
+    <iframe src=https://v.redd.it/aepoosqnks611/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    After I told my kids torches would stop monsters from spawning in their base.
+  entry_id: 8uo8we
+  entry_content: |
+    <img src=https://i.redditmedia.com/rQPotRdB3Y1xqKGew7pJyE4t_DQ8KYBPg-7D86-VoIU.png?s=5b345f211c3b15928a023033425ffce4 frameborder=0>
+- entry_name: |
+    TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
+  entry_id: 8urlej
+  entry_content: |
+    <img src=https://i.redditmedia.com/0hfk3GVHe90iuWzUtNyQqmtpZgMhhn5LC3YL5ynNKFQ.jpg?s=e6ebf4248dbcee2a00ee7b24ae8e2290 frameborder=0>
+- entry_name: |
+    My buddy is getting chemo for colon cancer. I wished I looked this fucking cool.
+  entry_id: 8unbei
+  entry_content: |
+    <img src=https://i.redditmedia.com/dGCZgSY_r_aZNRltt2RfZEcjeAW0qwWVGWJTQRimC9g.jpg?s=e7e2ba23f45ac49743aaf4432e33d14a frameborder=0>
+- entry_name: |
     What would you do ?
   entry_id: 8uqytf
   entry_content: |
     <img src=https://i.redditmedia.com/JaCLbbpSW2HJlO_XzavI5vvaYsaDduakio4HR4V77WA.jpg?s=aadc8196c9c600af095120032192f5d0 frameborder=0>
+- entry_name: |
+    First poster for the upcoming film Glass
+  entry_id: 8ut00l
+  entry_content: |
+    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
 - entry_name: |
     Talk about a grudge
   entry_id: 8up5lf
   entry_content: |
     <img src=https://i.redditmedia.com/w_N4cHq4G2ou0H0ny2SUjmUkXijpd_Nt1wVGsloi6zs.jpg?s=c168382ad4fea724b275034d35521163 frameborder=0>
 - entry_name: |
-    Rusty Skies, Michael Black, Digital, 2018
-  entry_id: 8ulpjk
-  entry_content: |
-    <img src=https://i.redditmedia.com/1uPT4bjhpmka1lafI4ANNnu8jvFzV3eSDEI6CrYlKW4.jpg?s=40c87b60f8f9ece29692f6b3e3745c9c frameborder=0>
-- entry_name: |
     Picture of my friend’s bird, thought it looked fake.
   entry_id: 8up866
   entry_content: |
     <img src=https://i.redditmedia.com/qx5qqmDCU055H8pgVjhIQJGwxjytUzhYtLY0k_MJsxY.jpg?s=95aa3ef1e3352148e3894e67acff7d0f frameborder=0>
+- entry_name: |
+    Rusty Skies, Michael Black, Digital, 2018
+  entry_id: 8ulpjk
+  entry_content: |
+    <img src=https://i.redditmedia.com/1uPT4bjhpmka1lafI4ANNnu8jvFzV3eSDEI6CrYlKW4.jpg?s=40c87b60f8f9ece29692f6b3e3745c9c frameborder=0>
 - entry_name: |
     My mugshot from two years ago following a massive PCP/benzo overdose and before homelessness and a trip to prison. I'm now two years sober, living a wonderful life and happier than I ever thought I'd be!
   entry_id: 8uo9es
@@ -133,15 +148,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BKb9fkbFMZpL7s3iQJCmq-wDuJzKxdSv7gNCMx7369A.jpg?s=7de66fe829a9ae9a707ae68ca95dd51b frameborder=0>
 - entry_name: |
-    TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
-  entry_id: 8urlej
-  entry_content: |
-    <img src=https://i.redditmedia.com/0hfk3GVHe90iuWzUtNyQqmtpZgMhhn5LC3YL5ynNKFQ.jpg?s=e6ebf4248dbcee2a00ee7b24ae8e2290 frameborder=0>
-- entry_name: |
     Ely Minnesota 1270x1904
   entry_id: 8uphgy
   entry_content: |
     <img src=https://i.redditmedia.com/hICoSs_AzuIRYVDY-lM1Ls31PYS4vwlfxlJBr2cSjmU.jpg?s=2b6d934b4cd77a37fd724769454b38a3 frameborder=0>
+- entry_name: |
+    The Exorcist (1973) filmed before the stedicam had been invented. To show actors going upstairs toward the demonic bedroom a makeshift seat-swing was designed using pulleys and rope, and guided by crew. The handheld shot was revolutionary for the time (as was much of the film).
+  entry_id: 8upgbj
+  entry_content: |
+    <iframe src=https://v.redd.it/nu3hrynslu611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Celebration gone wrong.
   entry_id: 8umiik
@@ -152,11 +167,6 @@ data:
   entry_id: 8um3pf
   entry_content: |
     <img src=https://i.redditmedia.com/l79Nvw7Y6JN08DcNQlnuN1e8qJAGi4RrO-MyhFwvDcI.png?s=6c6d89c22138b094e4d097d9d6d4a8c1 frameborder=0>
-- entry_name: |
-    The Exorcist (1973) filmed before the stedicam had been invented. To show actors going upstairs toward the demonic bedroom a makeshift seat-swing was designed using pulleys and rope, and guided by crew. The handheld shot was revolutionary for the time (as was much of the film).
-  entry_id: 8upgbj
-  entry_content: |
-    <iframe src=https://v.redd.it/nu3hrynslu611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Priceless reaction
   entry_id: 8un78f
@@ -178,35 +188,35 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ejfc2as9ls611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    First poster for the upcoming film Glass
-  entry_id: 8ut00l
-  entry_content: |
-    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
-- entry_name: |
     🔥 sea turtle flippin’ the bird to the camera 🔥
   entry_id: 8up0js
   entry_content: |
     <img src=https://i.redditmedia.com/cuN-g7fgZq2Gv14Mmnn18-nE0lBoBHgUpAjremYXwMM.jpg?s=b82d2ebaf82abb415052d0bdfb2721fc frameborder=0>
-- entry_name: |
-    Terrorist. Upvote this so that people see active terrorist Milo Yiannopolous when they Google Terrorist.
-  entry_id: 8uory7
-  entry_content: |
-    <img src=https://i.redditmedia.com/LodmCsxSA5wALR-83bh8-VlYAE4b7RZcVzk4c2fsjys.jpg?s=abccfabebccfafa221c9aa7b7317ebd7 frameborder=0>
 - entry_name: |
     Officer who met a boy on a service call, where the boy showed him his awesome dance moves, bought the boy a Michael Jackson outfit
   entry_id: 8uopfp
   entry_content: |
     <iframe src=https://v.redd.it/r88r9w0q0u611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Shooting reported at Capital Gazette newspaper in Annapolis, staff say
-  entry_id: 8umho7
+    Terrorist. Upvote this so that people see active terrorist Milo Yiannopolous when they Google Terrorist.
+  entry_id: 8uory7
   entry_content: |
-    <img src=https://i.redditmedia.com/X7WAZyhJzS_TqmqfG012A8npK2F4LfTo-2QnPipooi4.jpg?s=e29024758e9395e5765a06520029defb frameborder=0>
+    <img src=https://i.redditmedia.com/LodmCsxSA5wALR-83bh8-VlYAE4b7RZcVzk4c2fsjys.jpg?s=abccfabebccfafa221c9aa7b7317ebd7 frameborder=0>
+- entry_name: |
+    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
+  entry_id: 8usccx
+  entry_content: |
+    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
 - entry_name: |
     Surely you must train him?
   entry_id: 8un8v4
   entry_content: |
     <img src=https://i.redditmedia.com/SoNKtFoyz2WdLYYtHFNd85u0QqYKTesS-aHK8tvYOUU.jpg?s=3e2f10a449a76f069781107186313bd8 frameborder=0>
+- entry_name: |
+    Shooting reported at Capital Gazette newspaper in Annapolis, staff say
+  entry_id: 8umho7
+  entry_content: |
+    <img src=https://i.redditmedia.com/X7WAZyhJzS_TqmqfG012A8npK2F4LfTo-2QnPipooi4.jpg?s=e29024758e9395e5765a06520029defb frameborder=0>
 - entry_name: |
     Scientists call for a Paris-style agreement to save life on Earth. Call to include corporations in the bill alongside nation states.
   entry_id: 8umr44
@@ -217,6 +227,11 @@ data:
   entry_id: 8un2os
   entry_content: |
     <iframe src=https://v.redd.it/9gv6eztnws611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
+  entry_id: 8usa1l
+  entry_content: |
+    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
 - entry_name: |
     We recently had a death in our family. In our family that usually means families will come over every day for a couple days, ALL DAY. This means at least 25-30 kids outside out of control and wild for the entire day. Today the neighbor rented a bouncy house for the entire day, just for the kids.
   entry_id: 8uo3lw
@@ -233,23 +248,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kf4eODEKOwzRSWAqnH6nHQFRLv3F3aWem-Hnjvc7EaI.jpg?s=76dfa7929873c4d7c81f05a1a6d296fc frameborder=0>
 - entry_name: |
-    “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
-  entry_id: 8usk3r
+    This is not how we treat victims or is it?
+  entry_id: 8utddn
   entry_content: |
-    <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
-- entry_name: |
-    Vacuum excavator is so powerful it literally sucks up the ground.
-  entry_id: 8unvhe
-  entry_content: |
-    <iframe src=https://v.redd.it/wt75evb0ft611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
-  entry_id: 8usa1l
-  entry_content: |
-    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
-- entry_name: |
-    It’s not what it looks like!
-  entry_id: 8unvii
-  entry_content: |
-    <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 ---
