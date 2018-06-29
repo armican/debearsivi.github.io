@@ -133,11 +133,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nu3hrynslu611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Priceless reaction
-  entry_id: 8un78f
-  entry_content: |
-    <iframe src=https://v.redd.it/dh3tmbuizs611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Frigid
   entry_id: 8ususj
   entry_content: |
@@ -173,11 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
 - entry_name: |
-    Nice way to start the weekend...
-  entry_id: 8uszac
-  entry_content: |
-    <img src=https://i.redditmedia.com/f5InHKLsnBLljtzCq7Mtbkd-dLlK3S0mwWuExHCnwfM.jpg?s=fcab47fa7f60c80297a11f8a6fd43d6f frameborder=0>
-- entry_name: |
     🔥 sea turtle flippin’ the bird to the camera 🔥
   entry_id: 8up0js
   entry_content: |
@@ -192,11 +182,6 @@ data:
   entry_id: 8uory7
   entry_content: |
     <img src=https://i.redditmedia.com/LodmCsxSA5wALR-83bh8-VlYAE4b7RZcVzk4c2fsjys.jpg?s=abccfabebccfafa221c9aa7b7317ebd7 frameborder=0>
-- entry_name: |
-    Surely you must train him?
-  entry_id: 8un8v4
-  entry_content: |
-    <img src=https://i.redditmedia.com/SoNKtFoyz2WdLYYtHFNd85u0QqYKTesS-aHK8tvYOUU.jpg?s=3e2f10a449a76f069781107186313bd8 frameborder=0>
 - entry_name: |
     We recently had a death in our family. In our family that usually means families will come over every day for a couple days, ALL DAY. This means at least 25-30 kids outside out of control and wild for the entire day. Today the neighbor rented a bouncy house for the entire day, just for the kids.
   entry_id: 8uo3lw
@@ -252,4 +237,19 @@ data:
   entry_id: 8uo0rr
   entry_content: |
     <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
+- entry_name: |
+    My parents just found some fluff balls in their shed
+  entry_id: 8urxw8
+  entry_content: |
+    <img src=https://i.redditmedia.com/rN9WEVxbMK_dmhRGm8Zvd9ksy4hcHKZtGpQlg5kFsgw.jpg?s=745ed6f04f1ea628289e4a6cc46c057d frameborder=0>
+- entry_name: |
+    TIFU by pitching a really fucking stupid slogan to my only cool client
+  entry_id: 8unniv
+  entry_content: |
+    null
+- entry_name: |
+    A Very Useful Cupholder
+  entry_id: 8unptm
+  entry_content: |
+    <img src=https://i.redditmedia.com/T2Z3GhFcGE7uVxlaZ4-5VWXG-WX4enb1CVvMbRiQBPw.jpg?s=45c0e04ff8b5f02831c0a1b2c28b679d frameborder=0>
 ---
