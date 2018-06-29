@@ -43,10 +43,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gm59oc2ajt611/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
+  entry_id: 8usk3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
+- entry_name: |
     TIL bees will seek out alcohol and get drunk--and bouncers at the hive refuse to let them in until they sober up
   entry_id: 8upa7b
   entry_content: |
     <img src=https://i.redditmedia.com/Kh2sPE4DVJqBy-FEWb03iyiwk52XnfzfwDkdOntH4xo.jpg?s=e956c255171c7c9c2ae2bc0fc6913f90 frameborder=0>
+- entry_name: |
+    First poster for the upcoming film Glass
+  entry_id: 8ut00l
+  entry_content: |
+    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
 - entry_name: |
     Can’t believe....
   entry_id: 8uo3au
@@ -58,20 +68,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dhmaplnw1u611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    “Bet we can beat you at hide and seek Uncle David!” Bet you fuckin’ can’t.
-  entry_id: 8usk3r
+    Loves getting his haircut.
+  entry_id: 8utezc
   entry_content: |
-    <img src=https://i.redditmedia.com/aDnl_jb2IronV7JJzhd-kZs7obiGr6k0rIFyGya2bHA.jpg?s=2ce278b83fee575ce8ef5db30dc3b5aa frameborder=0>
+    <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Puerto Rico introduces bill to become U.S. state by 2021.
   entry_id: 8ur1wy
   entry_content: |
     <img src=https://i.redditmedia.com/s1YEWrTvEGpSd2XkfhsaxabR3wajUcCddH1ebxRdJKA.jpg?s=d5f4bddc94bc7101dad90eecf57f1a07 frameborder=0>
 - entry_name: |
-    First poster for the upcoming film Glass
-  entry_id: 8ut00l
+    This is not how we treat victims or is it?
+  entry_id: 8utddn
   entry_content: |
-    <img src=https://i.redditmedia.com/sGM4tDHi9xQSovpTue4mpxbEYg_2C-Fg8T_HScmkWYU.jpg?s=4f7d42ee67fd80f017beb2590e98f240 frameborder=0>
+    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 - entry_name: |
     TIL that cheetahs are so shy & awkward that some zoos provide them with support dogs to tackle their social anxiety!!
   entry_id: 8urlej
@@ -93,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JaCLbbpSW2HJlO_XzavI5vvaYsaDduakio4HR4V77WA.jpg?s=aadc8196c9c600af095120032192f5d0 frameborder=0>
 - entry_name: |
-    Belgium celebrating a goal
-  entry_id: 8umij2
-  entry_content: |
-    <iframe src=https://v.redd.it/aepoosqnks611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     After I told my kids torches would stop monsters from spawning in their base.
   entry_id: 8uo8we
   entry_content: |
@@ -107,11 +112,6 @@ data:
   entry_id: 8unbei
   entry_content: |
     <img src=https://i.redditmedia.com/dGCZgSY_r_aZNRltt2RfZEcjeAW0qwWVGWJTQRimC9g.jpg?s=e7e2ba23f45ac49743aaf4432e33d14a frameborder=0>
-- entry_name: |
-    This is not how we treat victims or is it?
-  entry_id: 8utddn
-  entry_content: |
-    <img src=https://i.redditmedia.com/oM8JpsBLRsRgol7gtEz7oQQSdqGIzvc2ht2TbiNPQyY.png?s=31f7d797c616256d965f3e87da58ba36 frameborder=0>
 - entry_name: |
     Talk about a grudge
   entry_id: 8up5lf
@@ -138,15 +138,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nu3hrynslu611/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Celebration gone wrong.
-  entry_id: 8umiik
+    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
+  entry_id: 8usccx
   entry_content: |
-    <iframe src=https://v.redd.it/t8ji8o2nks611/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Loves getting his haircut.
-  entry_id: 8utezc
-  entry_content: |
-    <iframe src=https://v.redd.it/kocexe6t6y611/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
 - entry_name: |
     Priceless reaction
   entry_id: 8un78f
@@ -158,25 +153,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tIhvasoFDSXOad_FD3jGnBkOTMt8gvoKQkoLREC1-vQ.jpg?s=2c2b421e73ae0f7a8a110890476fe9e2 frameborder=0>
 - entry_name: |
-    Saved a kitten from 4 lanes of traffic yesterday. Reddit, meet Dee!
-  entry_id: 8usccx
-  entry_content: |
-    <img src=https://i.redditmedia.com/4UwpTwF6zt2dllGIk7dZs6RjXFRI3eD2_WShislsMrA.jpg?s=8045876bb4b07b3489a919b4e2a58c12 frameborder=0>
-- entry_name: |
     Roasted
   entry_id: 8uofts
   entry_content: |
     <img src=https://i.redditmedia.com/Z8cvkjkx_-PuhlYhccBfRAwDXpqSmzZqXdG2_U76JI0.jpg?s=cedc02a043ef5299f7d6ba7d191997ee frameborder=0>
 - entry_name: |
-    Hold the door
-  entry_id: 8umjfg
+    Frigid
+  entry_id: 8ususj
   entry_content: |
-    <iframe src=https://v.redd.it/ejfc2as9ls611/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/ijxrNf0mdiGW-N-W-8OfKHjQxKQD6oQ0_ewoS2naJU8.png?s=8936f6e00aefe0876f5bdcc4afcaa560 frameborder=0>
 - entry_name: |
     🔥 sea turtle flippin’ the bird to the camera 🔥
   entry_id: 8up0js
   entry_content: |
     <img src=https://i.redditmedia.com/cuN-g7fgZq2Gv14Mmnn18-nE0lBoBHgUpAjremYXwMM.jpg?s=b82d2ebaf82abb415052d0bdfb2721fc frameborder=0>
+- entry_name: |
+    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
+  entry_id: 8usa1l
+  entry_content: |
+    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
+- entry_name: |
+    Rat Jazz.
+  entry_id: 8us61z
+  entry_content: |
+    <img src=https://i.redditmedia.com/wBIpDjUSUg3KwBH2yi2jEinnvkkRaWju9jIpr9UVD2g.jpg?s=12e76fd426dd3dcb33a7c9a2c3c21da7 frameborder=0>
 - entry_name: |
     Officer who met a boy on a service call, where the boy showed him his awesome dance moves, bought the boy a Michael Jackson outfit
   entry_id: 8uopfp
@@ -188,25 +188,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LodmCsxSA5wALR-83bh8-VlYAE4b7RZcVzk4c2fsjys.jpg?s=abccfabebccfafa221c9aa7b7317ebd7 frameborder=0>
 - entry_name: |
-    Maryland shooting: NRA spokeswoman Dana Loesch said journalists 'need to be curb-stomped', in resurfaced footage
-  entry_id: 8usa1l
-  entry_content: |
-    <img src=https://i.redditmedia.com/oEaEXvwCQCR8C0mzQ9pS7B6CRMiwg6gMhIoxwQMCK4k.jpg?s=25baff63bb49c2f970d6b7da802c8336 frameborder=0>
-- entry_name: |
     Surely you must train him?
   entry_id: 8un8v4
   entry_content: |
     <img src=https://i.redditmedia.com/SoNKtFoyz2WdLYYtHFNd85u0QqYKTesS-aHK8tvYOUU.jpg?s=3e2f10a449a76f069781107186313bd8 frameborder=0>
 - entry_name: |
-    Shooting reported at Capital Gazette newspaper in Annapolis, staff say
-  entry_id: 8umho7
-  entry_content: |
-    <img src=https://i.redditmedia.com/X7WAZyhJzS_TqmqfG012A8npK2F4LfTo-2QnPipooi4.jpg?s=e29024758e9395e5765a06520029defb frameborder=0>
-- entry_name: |
     Scientists call for a Paris-style agreement to save life on Earth. Call to include corporations in the bill alongside nation states.
   entry_id: 8umr44
   entry_content: |
     <img src=https://i.redditmedia.com/1b_-HINVCWBdyHJel9BMNmePUbYuq9L_A9A-C86b08k.jpg?s=5e139011af301684042849f87cc138b9 frameborder=0>
+- entry_name: |
+    Petting a dog can make you feel better
+  entry_id: 8urfaq
+  entry_content: |
+    <iframe src=https://v.redd.it/bllw3vwv7w611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     We recently had a death in our family. In our family that usually means families will come over every day for a couple days, ALL DAY. This means at least 25-30 kids outside out of control and wild for the entire day. Today the neighbor rented a bouncy house for the entire day, just for the kids.
   entry_id: 8uo3lw
@@ -218,6 +213,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9gv6eztnws611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Unarmed black man tased by police in the back while sitting on pavement
+  entry_id: 8usfbp
+  entry_content: |
+    <img src=https://i.redditmedia.com/Eu_5FTEn2BPLFbepWMQK0KZdFMKzP88LoZFzDm0msF8.jpg?s=b3b5e7f85fff5a544a9ac4c875b81c8e frameborder=0>
+- entry_name: |
     My gamer side has finally met my creative side. I think they like each other😉
   entry_id: 8updmb
   entry_content: |
@@ -227,16 +227,6 @@ data:
   entry_id: 8unv20
   entry_content: |
     <img src=https://i.redditmedia.com/kf4eODEKOwzRSWAqnH6nHQFRLv3F3aWem-Hnjvc7EaI.jpg?s=76dfa7929873c4d7c81f05a1a6d296fc frameborder=0>
-- entry_name: |
-    Petting a dog can make you feel better
-  entry_id: 8urfaq
-  entry_content: |
-    <iframe src=https://v.redd.it/bllw3vwv7w611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Rat Jazz.
-  entry_id: 8us61z
-  entry_content: |
-    <img src=https://i.redditmedia.com/wBIpDjUSUg3KwBH2yi2jEinnvkkRaWju9jIpr9UVD2g.jpg?s=12e76fd426dd3dcb33a7c9a2c3c21da7 frameborder=0>
 - entry_name: |
     Vacuum excavator is so powerful it literally sucks up the ground.
   entry_id: 8unvhe
@@ -248,8 +238,18 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4xwbr1naft611/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Derp of the year
+  entry_id: 8uou0o
+  entry_content: |
+    <img src=https://i.redditmedia.com/BpI50nIuIUGBkJcrs5WB1pkLyVNiGhSPxs6E3g2hAWY.jpg?s=53349fbbce275438aaf51c7d5c855be2 frameborder=0>
+- entry_name: |
     Animation Workers Set To Receive $170 Million Payout From Wage-Theft Lawsuit (From The Walt Disney Company/Pixar/Lucasfilm/Imagemovers Digital, Sony, Dreamworks, 21st Century Fox)
   entry_id: 8uo0rr
   entry_content: |
     <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
+- entry_name: |
+    The pattern of ice on my car this morning.
+  entry_id: 8urs98
+  entry_content: |
+    <img src=https://i.redditmedia.com/UASJAJhHqC_q4ghWAxWvCHJyXki_Ap05XmRXzSpTPkY.jpg?s=ae425744c138daf8fff70d490102f9bd frameborder=0>
 ---
