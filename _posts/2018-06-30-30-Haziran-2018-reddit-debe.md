@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TUqthvfWr9WR9RmICjUWPnzShh155vEFSyFJEZFPu4A.jpg?s=559f810a327f3d064457f848c5573953 frameborder=0>
 - entry_name: |
-    My gf ordered “A side of fries” with a southern accent
-  entry_id: 8ulvpj
-  entry_content: |
-    <img src=https://i.redditmedia.com/4TRkgWibJJAaC58L8Rg94OHG29v-Pm8m87D1T1W1vxU.jpg?s=66de049bd0ccc67731c3eaa92e1f9c70 frameborder=0>
-- entry_name: |
     My husky pup meeting our very first dog-sitting client, a Bernese mountain dog.
   entry_id: 8uo1i5
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8uo0rr
   entry_content: |
     <img src=https://i.redditmedia.com/R-zz7WxWCyGyrlzqc06N9_MN4YgNm-ObDetm8sOF9_4.jpg?s=698a57adc75527ba8f986d514bd29de1 frameborder=0>
+- entry_name: |
+    Derp of the year
+  entry_id: 8uou0o
+  entry_content: |
+    <img src=https://i.redditmedia.com/BpI50nIuIUGBkJcrs5WB1pkLyVNiGhSPxs6E3g2hAWY.jpg?s=53349fbbce275438aaf51c7d5c855be2 frameborder=0>
 ---
