@@ -182,11 +182,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7BL27uaB8DTkHmCa_dBrd61Fm9qoTUfDxZU_FTrtNOU.gif?fm=jpg&s=81ab5ef0373dad225ee6152b9331b3ec frameborder=0>
 - entry_name: |
-    L.A. detectives at their finest. (L.A. Noir VR)
-  entry_id: 8uwiux
-  entry_content: |
-    <iframe src=https://v.redd.it/3m6yvypc50711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     TIL Sean Connery was offered was 15% of worldwide box office receipts to play Gandalf in Lord of the Rings, but turned it down for not understanding the script. The deal would have been worth about $400 million.
   entry_id: 8uxqye
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8v0htp
   entry_content: |
     <img src=https://i.redditmedia.com/FKPTyUA_WeYiWTkO0IUPvmHpzCY0dfSsZKdwVTEym6c.png?s=e2ed84defe5821af52c4839f9ad53953 frameborder=0>
+- entry_name: |
+    Cozy adventure frens
+  entry_id: 8uxvnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
 ---
