@@ -38,6 +38,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qteJB3kGHJRWbco75xj1Lb2HOLYzt98ZncV_lqTckM0.jpg?s=85a12cf90ab4e33c377d62727993d8be frameborder=0>
 - entry_name: |
+    Jesus Christ it's Jason Bourne!
+  entry_id: 8v0qxk
+  entry_content: |
+    <iframe src=https://v.redd.it/99e5jzbkx3711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     I'd like to propose this type of design for this sub's logo.
   entry_id: 8uw3e3
   entry_content: |
@@ -53,6 +58,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hwoulsszl4711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
+  entry_id: 8v1ub4
+  entry_content: |
+    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
+- entry_name: |
     Jim Carrey To Play ‘Sonic The Hedgehog’ Villain Robotnik
   entry_id: 8ux6bk
   entry_content: |
@@ -62,11 +72,6 @@ data:
   entry_id: 8uwjcz
   entry_content: |
     <img src=https://i.redditmedia.com/_aPLhUy8v1e08VIBBrINONI-YNQD758_uyns9e6ESRQ.png?s=1912869847e76e0d77ec8a7258bb2591 frameborder=0>
-- entry_name: |
-    Jesus Christ it's Jason Bourne!
-  entry_id: 8v0qxk
-  entry_content: |
-    <iframe src=https://v.redd.it/99e5jzbkx3711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Full-court shot backwards
   entry_id: 8ux0ux
@@ -98,6 +103,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zgYHlU-m3_L_ifaocq8kNKZrOoWbev7_pXjvdtaRLWs.jpg?s=d7cb7bff76c27698c9a30b7ff10fda56 frameborder=0>
 - entry_name: |
+  entry_id: 8v16j6
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
+- entry_name: |
     The Face of Betrayal
   entry_id: 8uy3mr
   entry_content: |
@@ -118,35 +127,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t8fxk15311711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Damn it google security
-  entry_id: 8uv15w
-  entry_content: |
-    <img src=https://i.redditmedia.com/cBkMPRxEJwP2nYWHvBsUi6a0EZcn1wi3uRjMtMAVAzI.jpg?s=f2c6c502a78a9da7e7d4ed504f0c54c0 frameborder=0>
-- entry_name: |
     Woman let dog poop in middle of airport, refused to clean it up, and flipped off the person filming her
   entry_id: 8uy5x2
   entry_content: |
     <img src=https://i.redditmedia.com/y69vuX4Wji3Iyd8m6_P0UBrbmi7RaLZS2dPirZJAVGM.png?s=8ad6a742e21851f352163451df5344aa frameborder=0>
+- entry_name: |
+    Damn it google security
+  entry_id: 8uv15w
+  entry_content: |
+    <img src=https://i.redditmedia.com/cBkMPRxEJwP2nYWHvBsUi6a0EZcn1wi3uRjMtMAVAzI.jpg?s=f2c6c502a78a9da7e7d4ed504f0c54c0 frameborder=0>
 - entry_name: |
     This pupper with his little tail
   entry_id: 8uywur
   entry_content: |
     <iframe src=https://v.redd.it/7jvh7t8az1711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    I asked my wife to dress up as my favourite Star Wars character for some sexy birthday fun.
-  entry_id: 8uvzwp
-  entry_content: |
-    null
-- entry_name: |
     French cement giant Lafarge charged with complicity in crimes against humanity and financing terrorist organization for paying millions to jihadist groups to keep factory in Syria open during war...first time company anywhere in world charged with complicity in crimes against humanity.
   entry_id: 8uxyg8
   entry_content: |
     <img src=https://i.redditmedia.com/b37KOiVe63j6PG4dFi9ZcUi_O9B6VWs03SYCPLjVIDM.jpg?s=09a97a2c0364b948c717a2694a47aaeb frameborder=0>
 - entry_name: |
+    I asked my wife to dress up as my favourite Star Wars character for some sexy birthday fun.
+  entry_id: 8uvzwp
+  entry_content: |
+    null
+- entry_name: |
     How the tables have turned....
   entry_id: 8uxsgc
   entry_content: |
     <iframe src=https://v.redd.it/zf9nd2wg11711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Chocolate Amazon Warrior
+  entry_id: 8v0sir
+  entry_content: |
+    <iframe src=https://v.redd.it/0493c7zpz3711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     The Fox and the Hound.
   entry_id: 8uvlsc
@@ -163,10 +177,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/w3Ram_V73dWvu4gkLiF-_pNMTflE-3eKtuhyg5H4R9s.jpg?s=d7bf97308fa4424c5c8a7f3ac2b99431 frameborder=0>
 - entry_name: |
+    TIL that Shrek was known as the gulag of DreamWorks, where animators would be sent if their work on The Prince of Egypt was not satisfactory.
+  entry_id: 8v1cpn
+  entry_content: |
+    <img src=https://i.redditmedia.com/Udci7p9NfBY_2yA_InNUaCzm5X60QohOAPiCf5tQgkU.jpg?s=56231a419b769ce24c59c7e35a23e2d9 frameborder=0>
+- entry_name: |
     Gif Salesman
   entry_id: 8ux8f0
   entry_content: |
     <img src=https://i.redditmedia.com/7BL27uaB8DTkHmCa_dBrd61Fm9qoTUfDxZU_FTrtNOU.gif?fm=jpg&s=81ab5ef0373dad225ee6152b9331b3ec frameborder=0>
+- entry_name: |
+    Kill me now :)
+  entry_id: 8v024m
+  entry_content: |
+    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
 - entry_name: |
     This old man is donating tennis ball to the local pound!
   entry_id: 8uxt5f
@@ -178,76 +202,53 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3m6yvypc50711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Well
-  entry_id: 8uuzdo
+    I had dreadlocks for 2.5 years and was told I couldn't brush them out and would have to chop them off. Six months later of brushing and they're all gone.
+  entry_id: 8v03ot
   entry_content: |
-    <img src=https://i.redditmedia.com/Tuw3JoaOggr6Vvt-GMaf9c2qZpBXfHdy0czQG4rSvlw.jpg?s=2db6f957cd4b87a2bd2532e33fb08fa1 frameborder=0>
+    <img src=https://i.redditmedia.com/c1j8LEqYBsjHzeBL-lPtvoEUCazTaIX5Ql58bh0XZgY.jpg?s=4ed1b8218b14b0f984e3f8fd322ea42a frameborder=0>
 - entry_name: |
     TIL Sean Connery was offered was 15% of worldwide box office receipts to play Gandalf in Lord of the Rings, but turned it down for not understanding the script. The deal would have been worth about $400 million.
   entry_id: 8uxqye
   entry_content: |
     <img src=https://i.redditmedia.com/MatZevzNqomwSrtbjvgtiS9pH8LZCZTNT_mrxTqhXJM.jpg?s=09227a9598e1eaff358afe62ec6e8dda frameborder=0>
 - entry_name: |
-  entry_id: 8v16j6
+    Well
+  entry_id: 8uuzdo
   entry_content: |
-    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
-- entry_name: |
-    I had dreadlocks for 2.5 years and was told I couldn't brush them out and would have to chop them off. Six months later of brushing and they're all gone.
-  entry_id: 8v03ot
-  entry_content: |
-    <img src=https://i.redditmedia.com/c1j8LEqYBsjHzeBL-lPtvoEUCazTaIX5Ql58bh0XZgY.jpg?s=4ed1b8218b14b0f984e3f8fd322ea42a frameborder=0>
-- entry_name: |
-    No hands!
-  entry_id: 8uxmxf
-  entry_content: |
-    <iframe src=https://v.redd.it/iwr9g3z8b5711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
-  entry_id: 8v1ub4
-  entry_content: |
-    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
-- entry_name: |
-    No respect for the flag!
-  entry_id: 8uv4oc
-  entry_content: |
-    <img src=https://i.redditmedia.com/tI6Hx89VWKwYvV2-7zFUwhzHChdH5d5mCZARuNGaIuo.png?s=ce379826fdf7ae5501e11d5898fe1a45 frameborder=0>
-- entry_name: |
-    Kill me now :)
-  entry_id: 8v024m
-  entry_content: |
-    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
-- entry_name: |
-    Chocolate Amazon Warrior
-  entry_id: 8v0sir
-  entry_content: |
-    <iframe src=https://v.redd.it/0493c7zpz3711/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Tuw3JoaOggr6Vvt-GMaf9c2qZpBXfHdy0czQG4rSvlw.jpg?s=2db6f957cd4b87a2bd2532e33fb08fa1 frameborder=0>
 - entry_name: |
     Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
   entry_id: 8v03zz
   entry_content: |
     <img src=https://i.redditmedia.com/dorO70tHiRTIpHZWVowjbOVWClZlSiEZ7JiZjchnOhk.jpg?s=d7db3d4d2c9195816c29c51b9f480327 frameborder=0>
 - entry_name: |
+    No hands!
+  entry_id: 8uxmxf
+  entry_content: |
+    <iframe src=https://v.redd.it/iwr9g3z8b5711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    No respect for the flag!
+  entry_id: 8uv4oc
+  entry_content: |
+    <img src=https://i.redditmedia.com/tI6Hx89VWKwYvV2-7zFUwhzHChdH5d5mCZARuNGaIuo.png?s=ce379826fdf7ae5501e11d5898fe1a45 frameborder=0>
+- entry_name: |
+    Mods are asleep. Upvote Don the Whale
+  entry_id: 8v093a
+  entry_content: |
+    <img src=https://i.redditmedia.com/KrH69C6fqmAY4JBhz-ByjTVBJh8_gjWOxlEKvnUlfko.jpg?s=323053399eed403ed84e3c36901c0789 frameborder=0>
+- entry_name: |
     Dad the problem solver
   entry_id: 8uwaco
   entry_content: |
     <iframe src=https://v.redd.it/w4bdxgtqzz611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    Best seat in the house
+  entry_id: 8uz1q7
+  entry_content: |
+    <iframe src=https://v.redd.it/cy396sa5o1711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Train is clear, let's go!
   entry_id: 8uvijk
   entry_content: |
     <iframe src=https://v.redd.it/mnwo7999iz611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 8ux6d7
-  entry_content: |
-    <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
-- entry_name: |
-    Anyone who worked for Toys R Us, store or corporate, what did the last months of work consist of?
-  entry_id: 8uxzub
-  entry_content: |
-    null
-- entry_name: |
-    The Evolution of Ned F***king Stark
-  entry_id: 8uut41
-  entry_content: |
-    <img src=https://i.redditmedia.com/pPDzWCS9Cal132Vh-uMVS-GJee9np_znLUK9rsF1XaA.jpg?s=03a28f412ac060d3ff2c4abea0c3f304 frameborder=0>
 ---
