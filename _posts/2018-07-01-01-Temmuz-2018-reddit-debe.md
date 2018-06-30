@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mb26L17hwr0g2PyvaOLvsu3OAvZ_A-jhbv6CH9C_VTE.png?s=f1bda111a07b355707569322c4774adc frameborder=0>
 - entry_name: |
-    Removing your GPU in the middle of a Fortnite match
-  entry_id: 8uvg70
-  entry_content: |
-    <iframe src=https://v.redd.it/hwoulsszl4711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Jim Carrey To Play ‘Sonic The Hedgehog’ Villain Robotnik
   entry_id: 8ux6bk
   entry_content: |
@@ -232,11 +227,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/w4bdxgtqzz611/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Train is clear, let's go!
-  entry_id: 8uvijk
-  entry_content: |
-    <iframe src=https://v.redd.it/mnwo7999iz611/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Badass fire fighter presentation.
   entry_id: 8v10mc
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8ux6d7
   entry_content: |
     <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
+- entry_name: |
+    Help, my arm stuck
+  entry_id: 8v1s7z
+  entry_content: |
+    <iframe src=https://v.redd.it/uxk8vevb25711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Donald Tusk, the European Council president, warns to prepare for “worst-case scenarios” as relations with the US rapidly deteriorate - Senior EU officials are anticipating a new American doctrine in which there are “no friends, only enemies”
+  entry_id: 8v14nm
+  entry_content: |
+    <img src=https://i.redditmedia.com/TA7vFhmWlq-bT_WKcA2f2meV9IxRgb_o66ESkZGGmVo.jpg?s=2afde32758a00b63bbf5861856b87ca7 frameborder=0>
 ---
