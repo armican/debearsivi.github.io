@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mb26L17hwr0g2PyvaOLvsu3OAvZ_A-jhbv6CH9C_VTE.png?s=f1bda111a07b355707569322c4774adc frameborder=0>
 - entry_name: |
-    Friendship comes in all shapes and sizes
-  entry_id: 8uuzfr
-  entry_content: |
-    <img src=https://i.redditmedia.com/zmj6mrPh03XmzsuNEEb8UU00JSi5tytpQiicHKhVBBU.png?s=219857ab31b6bc588ef5c2a51478edd2 frameborder=0>
-- entry_name: |
     Removing your GPU in the middle of a Fortnite match
   entry_id: 8uvg70
   entry_content: |
@@ -132,11 +127,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y69vuX4Wji3Iyd8m6_P0UBrbmi7RaLZS2dPirZJAVGM.png?s=8ad6a742e21851f352163451df5344aa frameborder=0>
 - entry_name: |
-    Damn it google security
-  entry_id: 8uv15w
-  entry_content: |
-    <img src=https://i.redditmedia.com/cBkMPRxEJwP2nYWHvBsUi6a0EZcn1wi3uRjMtMAVAzI.jpg?s=f2c6c502a78a9da7e7d4ed504f0c54c0 frameborder=0>
-- entry_name: |
     This pupper with his little tail
   entry_id: 8uywur
   entry_content: |
@@ -212,11 +202,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MatZevzNqomwSrtbjvgtiS9pH8LZCZTNT_mrxTqhXJM.jpg?s=09227a9598e1eaff358afe62ec6e8dda frameborder=0>
 - entry_name: |
-    Well
-  entry_id: 8uuzdo
-  entry_content: |
-    <img src=https://i.redditmedia.com/Tuw3JoaOggr6Vvt-GMaf9c2qZpBXfHdy0czQG4rSvlw.jpg?s=2db6f957cd4b87a2bd2532e33fb08fa1 frameborder=0>
-- entry_name: |
     Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
   entry_id: 8v03zz
   entry_content: |
@@ -251,4 +236,18 @@ data:
   entry_id: 8uvijk
   entry_content: |
     <iframe src=https://v.redd.it/mnwo7999iz611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Anyone who worked for Toys R Us, store or corporate, what did the last months of work consist of?
+  entry_id: 8uxzub
+  entry_content: |
+    null
+- entry_name: |
+    Thieves drained entire bank account of America's oldest living veteran
+  entry_id: 8v0asd
+  entry_content: |
+    <img src=https://i.redditmedia.com/zq4NDAYEP_4xySIXLDLBnddYCjI4bCCo57d0WgKTTpA.jpg?s=911f8ba6d710edcc8a4328bb846893db frameborder=0>
+- entry_name: |
+  entry_id: 8ux6d7
+  entry_content: |
+    <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
 ---
