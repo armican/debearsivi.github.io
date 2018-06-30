@@ -43,11 +43,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/99e5jzbkx3711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    I'd like to propose this type of design for this sub's logo.
-  entry_id: 8uw3e3
-  entry_content: |
-    <img src=https://i.redditmedia.com/mb26L17hwr0g2PyvaOLvsu3OAvZ_A-jhbv6CH9C_VTE.png?s=f1bda111a07b355707569322c4774adc frameborder=0>
-- entry_name: |
   entry_id: 8v16j6
   entry_content: |
     <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
@@ -250,4 +245,9 @@ data:
   entry_id: 8v0htp
   entry_content: |
     <img src=https://i.redditmedia.com/FKPTyUA_WeYiWTkO0IUPvmHpzCY0dfSsZKdwVTEym6c.png?s=e2ed84defe5821af52c4839f9ad53953 frameborder=0>
+- entry_name: |
+    Everyone and everything has a price
+  entry_id: 8v0kw3
+  entry_content: |
+    <img src=https://i.redditmedia.com/NOYryE2-6400ahL8j9Xc65JSVfh-ZnYf6QX7vjXHh48.png?s=532eec0541d4ad4ef897c98d939ab6cb frameborder=0>
 ---
