@@ -18,6 +18,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t8pcdevrf1711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
+  entry_id: 8v1ub4
+  entry_content: |
+    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
+- entry_name: |
     After many 3am get ups, I finally got the milkyway shot I was looking for.
   entry_id: 8uxu1n
   entry_content: |
@@ -33,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qteJB3kGHJRWbco75xj1Lb2HOLYzt98ZncV_lqTckM0.jpg?s=85a12cf90ab4e33c377d62727993d8be frameborder=0>
 - entry_name: |
-    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
-  entry_id: 8v1ub4
-  entry_content: |
-    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
-- entry_name: |
     Jesus Christ it's Jason Bourne!
   entry_id: 8v0qxk
   entry_content: |
@@ -48,19 +48,24 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mb26L17hwr0g2PyvaOLvsu3OAvZ_A-jhbv6CH9C_VTE.png?s=f1bda111a07b355707569322c4774adc frameborder=0>
 - entry_name: |
+  entry_id: 8v16j6
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
+- entry_name: |
     Jim Carrey To Play ‘Sonic The Hedgehog’ Villain Robotnik
   entry_id: 8ux6bk
   entry_content: |
     <img src=https://i.redditmedia.com/Zl53_RCK0Y37K-XDZx-cF7rs-mgm1feMyPDnTAjtNqg.jpg?s=f7e202b22b5fb27958d39f7b201f4604 frameborder=0>
 - entry_name: |
-  entry_id: 8v16j6
-  entry_content: |
-    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
-- entry_name: |
     Disgustingly Wholesome
   entry_id: 8uwjcz
   entry_content: |
     <img src=https://i.redditmedia.com/_aPLhUy8v1e08VIBBrINONI-YNQD758_uyns9e6ESRQ.png?s=1912869847e76e0d77ec8a7258bb2591 frameborder=0>
+- entry_name: |
+    TIL that Shrek was known as the gulag of DreamWorks, where animators would be sent if their work on The Prince of Egypt was not satisfactory.
+  entry_id: 8v1cpn
+  entry_content: |
+    <img src=https://i.redditmedia.com/Udci7p9NfBY_2yA_InNUaCzm5X60QohOAPiCf5tQgkU.jpg?s=56231a419b769ce24c59c7e35a23e2d9 frameborder=0>
 - entry_name: |
     Full-court shot backwards
   entry_id: 8ux0ux
@@ -72,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DFf_y0bLgie-cSmt70UwcoJrvxbXNnY4mZV7J6e-Jqk.jpg?s=833f55ed05bac8082fe8cd29a0f48213 frameborder=0>
 - entry_name: |
-    A dad's collection of every item he pulled from a flat tire over 30+ years as an auto mechanic
-  entry_id: 8uvwg9
-  entry_content: |
-    <img src=https://i.redditmedia.com/3BH7GZYzMIZCc4DQ637OSKTIu5thzBDFdRo1RIWRgds.jpg?s=378505a594c2ff0ab500ef0ce010361f frameborder=0>
-- entry_name: |
     In ‘The Avengers’, there is a small screen showing the heat signature in the room where Loki is being held which shows that he has a cold body temperature because he is a frost giant.
   entry_id: 8uvwnn
   entry_content: |
@@ -86,11 +86,6 @@ data:
   entry_id: 8uwmel
   entry_content: |
     <img src=https://i.redditmedia.com/zgYHlU-m3_L_ifaocq8kNKZrOoWbev7_pXjvdtaRLWs.jpg?s=d7cb7bff76c27698c9a30b7ff10fda56 frameborder=0>
-- entry_name: |
-    TIL that Shrek was known as the gulag of DreamWorks, where animators would be sent if their work on The Prince of Egypt was not satisfactory.
-  entry_id: 8v1cpn
-  entry_content: |
-    <img src=https://i.redditmedia.com/Udci7p9NfBY_2yA_InNUaCzm5X60QohOAPiCf5tQgkU.jpg?s=56231a419b769ce24c59c7e35a23e2d9 frameborder=0>
 - entry_name: |
     The Face of Betrayal
   entry_id: 8uy3mr
@@ -112,15 +107,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t8fxk15311711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Woman let dog poop in middle of airport, refused to clean it up, and flipped off the person filming her
-  entry_id: 8uy5x2
-  entry_content: |
-    <img src=https://i.redditmedia.com/y69vuX4Wji3Iyd8m6_P0UBrbmi7RaLZS2dPirZJAVGM.png?s=8ad6a742e21851f352163451df5344aa frameborder=0>
-- entry_name: |
     Chocolate Amazon Warrior
   entry_id: 8v0sir
   entry_content: |
     <iframe src=https://v.redd.it/0493c7zpz3711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Woman let dog poop in middle of airport, refused to clean it up, and flipped off the person filming her
+  entry_id: 8uy5x2
+  entry_content: |
+    <img src=https://i.redditmedia.com/y69vuX4Wji3Iyd8m6_P0UBrbmi7RaLZS2dPirZJAVGM.png?s=8ad6a742e21851f352163451df5344aa frameborder=0>
 - entry_name: |
     This pupper with his little tail
   entry_id: 8uywur
@@ -137,15 +132,20 @@ data:
   entry_content: |
     null
 - entry_name: |
+    Kill me now :)
+  entry_id: 8v024m
+  entry_content: |
+    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
+- entry_name: |
     How the tables have turned....
   entry_id: 8uxsgc
   entry_content: |
     <iframe src=https://v.redd.it/zf9nd2wg11711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Kill me now :)
-  entry_id: 8v024m
+    Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
+  entry_id: 8v03zz
   entry_content: |
-    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
+    <img src=https://i.redditmedia.com/dorO70tHiRTIpHZWVowjbOVWClZlSiEZ7JiZjchnOhk.jpg?s=d7db3d4d2c9195816c29c51b9f480327 frameborder=0>
 - entry_name: |
     Bet she taste like quarters
   entry_id: 8uyk4c
@@ -157,15 +157,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/w3Ram_V73dWvu4gkLiF-_pNMTflE-3eKtuhyg5H4R9s.jpg?s=d7bf97308fa4424c5c8a7f3ac2b99431 frameborder=0>
 - entry_name: |
-    Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
-  entry_id: 8v03zz
-  entry_content: |
-    <img src=https://i.redditmedia.com/dorO70tHiRTIpHZWVowjbOVWClZlSiEZ7JiZjchnOhk.jpg?s=d7db3d4d2c9195816c29c51b9f480327 frameborder=0>
-- entry_name: |
     I had dreadlocks for 2.5 years and was told I couldn't brush them out and would have to chop them off. Six months later of brushing and they're all gone.
   entry_id: 8v03ot
   entry_content: |
     <img src=https://i.redditmedia.com/c1j8LEqYBsjHzeBL-lPtvoEUCazTaIX5Ql58bh0XZgY.jpg?s=4ed1b8218b14b0f984e3f8fd322ea42a frameborder=0>
+- entry_name: |
+    amazing technique for this France goal
+  entry_id: 8v2j96
+  entry_content: |
+    <img src=https://i.redditmedia.com/P_D7C-DCJyrdZ80UZnDnParmWs3r9qUeU4oJBnlHeXM.gif?fm=jpg&s=124f783a109f7e8d1bbf3eddbd4da3ae frameborder=0>
 - entry_name: |
     Gif Salesman
   entry_id: 8ux8f0
@@ -177,6 +177,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/263IyJzQ-2nJftGCJ4wZCqec9RLPd-8oeFMdOsUiWCU.jpg?s=5cad6279ef5e7b5d8fc2209c299afe9c frameborder=0>
 - entry_name: |
+    Badass fire fighter presentation.
+  entry_id: 8v10mc
+  entry_content: |
+    <iframe src=https://v.redd.it/er6rd9ie94711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Mods are asleep. Upvote Don the Whale
+  entry_id: 8v093a
+  entry_content: |
+    <img src=https://i.redditmedia.com/KrH69C6fqmAY4JBhz-ByjTVBJh8_gjWOxlEKvnUlfko.jpg?s=323053399eed403ed84e3c36901c0789 frameborder=0>
+- entry_name: |
     L.A. detectives at their finest. (L.A. Noir VR)
   entry_id: 8uwiux
   entry_content: |
@@ -187,40 +197,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MatZevzNqomwSrtbjvgtiS9pH8LZCZTNT_mrxTqhXJM.jpg?s=09227a9598e1eaff358afe62ec6e8dda frameborder=0>
 - entry_name: |
-    No hands!
-  entry_id: 8uxmxf
-  entry_content: |
-    <iframe src=https://v.redd.it/iwr9g3z8b5711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Mods are asleep. Upvote Don the Whale
-  entry_id: 8v093a
-  entry_content: |
-    <img src=https://i.redditmedia.com/KrH69C6fqmAY4JBhz-ByjTVBJh8_gjWOxlEKvnUlfko.jpg?s=323053399eed403ed84e3c36901c0789 frameborder=0>
-- entry_name: |
     Thieves drained entire bank account of America's oldest living veteran
   entry_id: 8v0asd
   entry_content: |
     <img src=https://i.redditmedia.com/zq4NDAYEP_4xySIXLDLBnddYCjI4bCCo57d0WgKTTpA.jpg?s=911f8ba6d710edcc8a4328bb846893db frameborder=0>
 - entry_name: |
-    Best seat in the house
-  entry_id: 8uz1q7
+    Help, my arm stuck
+  entry_id: 8v1s7z
   entry_content: |
-    <iframe src=https://v.redd.it/cy396sa5o1711/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/uxk8vevb25711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    No hands!
+  entry_id: 8uxmxf
+  entry_content: |
+    <iframe src=https://v.redd.it/iwr9g3z8b5711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Hardest part
   entry_id: 8uzp84
   entry_content: |
     <img src=https://i.redditmedia.com/iFKPKnZDmhuydJnD6XNRGaCMQ6qnCbMLN4iipv3UBno.png?s=161cd5f925754e66d9aaf83b8d14fce8 frameborder=0>
 - entry_name: |
+    Best seat in the house
+  entry_id: 8uz1q7
+  entry_content: |
+    <iframe src=https://v.redd.it/cy396sa5o1711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Donald Tusk, the European Council president, warns to prepare for “worst-case scenarios” as relations with the US rapidly deteriorate - Senior EU officials are anticipating a new American doctrine in which there are “no friends, only enemies”
+  entry_id: 8v14nm
+  entry_content: |
+    <img src=https://i.redditmedia.com/TA7vFhmWlq-bT_WKcA2f2meV9IxRgb_o66ESkZGGmVo.jpg?s=2afde32758a00b63bbf5861856b87ca7 frameborder=0>
+- entry_name: |
     Dad the problem solver
   entry_id: 8uwaco
   entry_content: |
     <iframe src=https://v.redd.it/w4bdxgtqzz611/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Badass fire fighter presentation.
-  entry_id: 8v10mc
-  entry_content: |
-    <iframe src=https://v.redd.it/er6rd9ie94711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Anyone who worked for Toys R Us, store or corporate, what did the last months of work consist of?
   entry_id: 8uxzub
@@ -231,23 +241,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
 - entry_name: |
-    Help, my arm stuck
-  entry_id: 8v1s7z
+    Mix of Golden Retriever and German Shepherd
+  entry_id: 8v0wme
   entry_content: |
-    <iframe src=https://v.redd.it/uxk8vevb25711/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/WQm4ElYjEQ_wSvy8e-R52TKtq3bT3J4Gb44h01haws4.jpg?s=fe7c8b0e1895d0595c7fef06b74b3db1 frameborder=0>
 - entry_name: |
-    Donald Tusk, the European Council president, warns to prepare for “worst-case scenarios” as relations with the US rapidly deteriorate - Senior EU officials are anticipating a new American doctrine in which there are “no friends, only enemies”
-  entry_id: 8v14nm
+    Not today, bitch...
+  entry_id: 8v1q5n
   entry_content: |
-    <img src=https://i.redditmedia.com/TA7vFhmWlq-bT_WKcA2f2meV9IxRgb_o66ESkZGGmVo.jpg?s=2afde32758a00b63bbf5861856b87ca7 frameborder=0>
-- entry_name: |
-    Cozy adventure frens
-  entry_id: 8uxvnl
-  entry_content: |
-    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
-- entry_name: |
-    CNN reporter shouts at Trump: 'Will you stop calling the press the enemy of the people?
-  entry_id: 8uvwu8
-  entry_content: |
-    <img src=https://i.redditmedia.com/h9AtzpITQ1e9VvTcAWurEsNv6nSZ2OXvKDST4VNCnWA.jpg?s=737d892a023e3804f6ae7ad6d4160125 frameborder=0>
+    <iframe src=https://v.redd.it/uro6r52h05711/DASH_1_2_M frameborder=0></iframe>
 ---
