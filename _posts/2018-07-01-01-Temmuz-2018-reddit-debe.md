@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1JUpnmowNd5hI5qvvaWch-kgC0-l73M8h7EXAzANmv8.jpg?s=09089297d564aed24e2a8a29ede3cf05 frameborder=0>
 - entry_name: |
-    Mystery person buys $1M worth of remaining toys at Toys 'R' Us store to donate to kids
-  entry_id: 8uvotk
-  entry_content: |
-    <img src=https://i.redditmedia.com/bdi7RDozApez5BpFu1OOIoOCVgFHPiHqkkmZlFzTK14.jpg?s=7268f80b7178ac49b01559cf8ab0c629 frameborder=0>
-- entry_name: |
     My cat Furgus. He also doubles up as a step.
   entry_id: 8uwp0l
   entry_content: |
@@ -157,11 +152,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/V9reLyo1etshYd5z1bn4kJPf_D0I3Hgg6pWr1bNxTUA.jpg?s=463310e73b08da28468bb0f06470feb1 frameborder=0>
 - entry_name: |
-    The Fox and the Hound.
-  entry_id: 8uvlsc
-  entry_content: |
-    <img src=https://i.redditmedia.com/O-WkK3Y6PppJdCVHdovgKq6DpTRjJeVADc-RNLiLqz4.jpg?s=d5cd05d964254a2fb2ea2a93121fa29e frameborder=0>
-- entry_name: |
     Dog intentionally fake coughs to get more attention, if this isn’t intelligent behaviour I don’t know what is
   entry_id: 8uwrta
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8v14nm
   entry_content: |
     <img src=https://i.redditmedia.com/TA7vFhmWlq-bT_WKcA2f2meV9IxRgb_o66ESkZGGmVo.jpg?s=2afde32758a00b63bbf5861856b87ca7 frameborder=0>
+- entry_name: |
+    Cozy adventure frens
+  entry_id: 8uxvnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
+- entry_name: |
+    CNN reporter shouts at Trump: 'Will you stop calling the press the enemy of the people?
+  entry_id: 8uvwu8
+  entry_content: |
+    <img src=https://i.redditmedia.com/h9AtzpITQ1e9VvTcAWurEsNv6nSZ2OXvKDST4VNCnWA.jpg?s=737d892a023e3804f6ae7ad6d4160125 frameborder=0>
 ---
