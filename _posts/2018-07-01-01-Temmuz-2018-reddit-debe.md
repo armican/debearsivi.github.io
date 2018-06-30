@@ -38,6 +38,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qteJB3kGHJRWbco75xj1Lb2HOLYzt98ZncV_lqTckM0.jpg?s=85a12cf90ab4e33c377d62727993d8be frameborder=0>
 - entry_name: |
+    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
+  entry_id: 8v1ub4
+  entry_content: |
+    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
+- entry_name: |
     Jesus Christ it's Jason Bourne!
   entry_id: 8v0qxk
   entry_content: |
@@ -53,15 +58,14 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hwoulsszl4711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Tidying out my gran’s shed and rediscovered the mini bench press my grandad welded for me 20 years ago so I could workout with my dad when I was 5. Words can’t describe how much this means to me.
-  entry_id: 8v1ub4
-  entry_content: |
-    <img src=https://i.redditmedia.com/0XYTIyEIaRIvb3xp_wzcMRFyGZfHiV7Fp1kJE6iDDRs.jpg?s=bdb65e8cdeedc054642453c80351ddfb frameborder=0>
-- entry_name: |
     Jim Carrey To Play ‘Sonic The Hedgehog’ Villain Robotnik
   entry_id: 8ux6bk
   entry_content: |
     <img src=https://i.redditmedia.com/Zl53_RCK0Y37K-XDZx-cF7rs-mgm1feMyPDnTAjtNqg.jpg?s=f7e202b22b5fb27958d39f7b201f4604 frameborder=0>
+- entry_name: |
+  entry_id: 8v16j6
+  entry_content: |
+    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
 - entry_name: |
     Disgustingly Wholesome
   entry_id: 8uwjcz
@@ -93,9 +97,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zgYHlU-m3_L_ifaocq8kNKZrOoWbev7_pXjvdtaRLWs.jpg?s=d7cb7bff76c27698c9a30b7ff10fda56 frameborder=0>
 - entry_name: |
-  entry_id: 8v16j6
+    TIL that Shrek was known as the gulag of DreamWorks, where animators would be sent if their work on The Prince of Egypt was not satisfactory.
+  entry_id: 8v1cpn
   entry_content: |
-    <img src=https://i.redditmedia.com/f2-xWCG7VSjFO2ii_KP2YrhfIaWu_MRF0DJ4R8vUIQQ.gif?fm=jpg&s=2edeb772953acbafc336a31d850b42f5 frameborder=0>
+    <img src=https://i.redditmedia.com/Udci7p9NfBY_2yA_InNUaCzm5X60QohOAPiCf5tQgkU.jpg?s=56231a419b769ce24c59c7e35a23e2d9 frameborder=0>
 - entry_name: |
     The Face of Betrayal
   entry_id: 8uy3mr
@@ -122,6 +127,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y69vuX4Wji3Iyd8m6_P0UBrbmi7RaLZS2dPirZJAVGM.png?s=8ad6a742e21851f352163451df5344aa frameborder=0>
 - entry_name: |
+    Chocolate Amazon Warrior
+  entry_id: 8v0sir
+  entry_content: |
+    <iframe src=https://v.redd.it/0493c7zpz3711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     This pupper with his little tail
   entry_id: 8uywur
   entry_content: |
@@ -142,40 +152,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zf9nd2wg11711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Chocolate Amazon Warrior
-  entry_id: 8v0sir
+    Kill me now :)
+  entry_id: 8v024m
   entry_content: |
-    <iframe src=https://v.redd.it/0493c7zpz3711/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    The Fox and the Hound.
-  entry_id: 8uvlsc
-  entry_content: |
-    <img src=https://i.redditmedia.com/O-WkK3Y6PppJdCVHdovgKq6DpTRjJeVADc-RNLiLqz4.jpg?s=d5cd05d964254a2fb2ea2a93121fa29e frameborder=0>
+    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
 - entry_name: |
     Bet she taste like quarters
   entry_id: 8uyk4c
   entry_content: |
     <img src=https://i.redditmedia.com/V9reLyo1etshYd5z1bn4kJPf_D0I3Hgg6pWr1bNxTUA.jpg?s=463310e73b08da28468bb0f06470feb1 frameborder=0>
 - entry_name: |
+    The Fox and the Hound.
+  entry_id: 8uvlsc
+  entry_content: |
+    <img src=https://i.redditmedia.com/O-WkK3Y6PppJdCVHdovgKq6DpTRjJeVADc-RNLiLqz4.jpg?s=d5cd05d964254a2fb2ea2a93121fa29e frameborder=0>
+- entry_name: |
     Dog intentionally fake coughs to get more attention, if this isn’t intelligent behaviour I don’t know what is
   entry_id: 8uwrta
   entry_content: |
     <img src=https://i.redditmedia.com/w3Ram_V73dWvu4gkLiF-_pNMTflE-3eKtuhyg5H4R9s.jpg?s=d7bf97308fa4424c5c8a7f3ac2b99431 frameborder=0>
 - entry_name: |
-    TIL that Shrek was known as the gulag of DreamWorks, where animators would be sent if their work on The Prince of Egypt was not satisfactory.
-  entry_id: 8v1cpn
+    Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
+  entry_id: 8v03zz
   entry_content: |
-    <img src=https://i.redditmedia.com/Udci7p9NfBY_2yA_InNUaCzm5X60QohOAPiCf5tQgkU.jpg?s=56231a419b769ce24c59c7e35a23e2d9 frameborder=0>
+    <img src=https://i.redditmedia.com/dorO70tHiRTIpHZWVowjbOVWClZlSiEZ7JiZjchnOhk.jpg?s=d7db3d4d2c9195816c29c51b9f480327 frameborder=0>
+- entry_name: |
+    I had dreadlocks for 2.5 years and was told I couldn't brush them out and would have to chop them off. Six months later of brushing and they're all gone.
+  entry_id: 8v03ot
+  entry_content: |
+    <img src=https://i.redditmedia.com/c1j8LEqYBsjHzeBL-lPtvoEUCazTaIX5Ql58bh0XZgY.jpg?s=4ed1b8218b14b0f984e3f8fd322ea42a frameborder=0>
 - entry_name: |
     Gif Salesman
   entry_id: 8ux8f0
   entry_content: |
     <img src=https://i.redditmedia.com/7BL27uaB8DTkHmCa_dBrd61Fm9qoTUfDxZU_FTrtNOU.gif?fm=jpg&s=81ab5ef0373dad225ee6152b9331b3ec frameborder=0>
-- entry_name: |
-    Kill me now :)
-  entry_id: 8v024m
-  entry_content: |
-    <img src=https://i.redditmedia.com/k6QoPtE62mmDBcvVml475hLt_pimEfiaG1nVtk6Bq1I.gif?fm=jpg&s=f57e4d5fe39e704b4706614550fbf17f frameborder=0>
 - entry_name: |
     This old man is donating tennis ball to the local pound!
   entry_id: 8uxt5f
@@ -187,20 +197,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3m6yvypc50711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I had dreadlocks for 2.5 years and was told I couldn't brush them out and would have to chop them off. Six months later of brushing and they're all gone.
-  entry_id: 8v03ot
-  entry_content: |
-    <img src=https://i.redditmedia.com/c1j8LEqYBsjHzeBL-lPtvoEUCazTaIX5Ql58bh0XZgY.jpg?s=4ed1b8218b14b0f984e3f8fd322ea42a frameborder=0>
-- entry_name: |
     TIL Sean Connery was offered was 15% of worldwide box office receipts to play Gandalf in Lord of the Rings, but turned it down for not understanding the script. The deal would have been worth about $400 million.
   entry_id: 8uxqye
   entry_content: |
     <img src=https://i.redditmedia.com/MatZevzNqomwSrtbjvgtiS9pH8LZCZTNT_mrxTqhXJM.jpg?s=09227a9598e1eaff358afe62ec6e8dda frameborder=0>
-- entry_name: |
-    Kessel run blockade star destroyer. Repainted hotwheels diecast mounted in a cardboard tube with cottonwool and led lighting
-  entry_id: 8v03zz
-  entry_content: |
-    <img src=https://i.redditmedia.com/dorO70tHiRTIpHZWVowjbOVWClZlSiEZ7JiZjchnOhk.jpg?s=d7db3d4d2c9195816c29c51b9f480327 frameborder=0>
 - entry_name: |
     No hands!
   entry_id: 8uxmxf
@@ -212,42 +212,42 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KrH69C6fqmAY4JBhz-ByjTVBJh8_gjWOxlEKvnUlfko.jpg?s=323053399eed403ed84e3c36901c0789 frameborder=0>
 - entry_name: |
-    Dad the problem solver
-  entry_id: 8uwaco
+    Thieves drained entire bank account of America's oldest living veteran
+  entry_id: 8v0asd
   entry_content: |
-    <iframe src=https://v.redd.it/w4bdxgtqzz611/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/zq4NDAYEP_4xySIXLDLBnddYCjI4bCCo57d0WgKTTpA.jpg?s=911f8ba6d710edcc8a4328bb846893db frameborder=0>
 - entry_name: |
     Best seat in the house
   entry_id: 8uz1q7
   entry_content: |
     <iframe src=https://v.redd.it/cy396sa5o1711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Hardest part
+  entry_id: 8uzp84
+  entry_content: |
+    <img src=https://i.redditmedia.com/iFKPKnZDmhuydJnD6XNRGaCMQ6qnCbMLN4iipv3UBno.png?s=161cd5f925754e66d9aaf83b8d14fce8 frameborder=0>
+- entry_name: |
+    Dad the problem solver
+  entry_id: 8uwaco
+  entry_content: |
+    <iframe src=https://v.redd.it/w4bdxgtqzz611/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     Train is clear, let's go!
   entry_id: 8uvijk
   entry_content: |
     <iframe src=https://v.redd.it/mnwo7999iz611/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Badass fire fighter presentation.
+  entry_id: 8v10mc
+  entry_content: |
+    <iframe src=https://v.redd.it/er6rd9ie94711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Anyone who worked for Toys R Us, store or corporate, what did the last months of work consist of?
   entry_id: 8uxzub
   entry_content: |
     null
 - entry_name: |
-    Thieves drained entire bank account of America's oldest living veteran
-  entry_id: 8v0asd
-  entry_content: |
-    <img src=https://i.redditmedia.com/zq4NDAYEP_4xySIXLDLBnddYCjI4bCCo57d0WgKTTpA.jpg?s=911f8ba6d710edcc8a4328bb846893db frameborder=0>
-- entry_name: |
   entry_id: 8ux6d7
   entry_content: |
     <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
-- entry_name: |
-    Hardest part
-  entry_id: 8uzp84
-  entry_content: |
-    <img src=https://i.redditmedia.com/iFKPKnZDmhuydJnD6XNRGaCMQ6qnCbMLN4iipv3UBno.png?s=161cd5f925754e66d9aaf83b8d14fce8 frameborder=0>
-- entry_name: |
-    Cozy adventure frens
-  entry_id: 8uxvnl
-  entry_content: |
-    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
 ---
