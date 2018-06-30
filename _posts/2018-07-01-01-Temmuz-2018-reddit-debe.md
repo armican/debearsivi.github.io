@@ -73,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/knrgkog3p4711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    This could be the best display of justified confidence in ones own skill I've ever seen in the sports world.
-  entry_id: 8uv74t
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/zIPKyuvtfc4?start=1&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     13 years ago, I started medical school. I walked out today a heart and lung surgeon. Today, I am happy.
   entry_id: 8uxfuo
   entry_content: |
@@ -212,11 +207,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/iwr9g3z8b5711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    No respect for the flag!
-  entry_id: 8uv4oc
-  entry_content: |
-    <img src=https://i.redditmedia.com/tI6Hx89VWKwYvV2-7zFUwhzHChdH5d5mCZARuNGaIuo.png?s=ce379826fdf7ae5501e11d5898fe1a45 frameborder=0>
-- entry_name: |
     Mods are asleep. Upvote Don the Whale
   entry_id: 8v093a
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8ux6d7
   entry_content: |
     <img src=https://i.redditmedia.com/oBalLO72rAUqjIE8pwqGoGz333I63A6D1Kh8amXOWhk.jpg?s=a916506933d3f0b895d796a2d0fcaaee frameborder=0>
+- entry_name: |
+    Hardest part
+  entry_id: 8uzp84
+  entry_content: |
+    <img src=https://i.redditmedia.com/iFKPKnZDmhuydJnD6XNRGaCMQ6qnCbMLN4iipv3UBno.png?s=161cd5f925754e66d9aaf83b8d14fce8 frameborder=0>
+- entry_name: |
+    Cozy adventure frens
+  entry_id: 8uxvnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
 ---
