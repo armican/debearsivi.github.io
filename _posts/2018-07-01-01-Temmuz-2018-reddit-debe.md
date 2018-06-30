@@ -77,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DFf_y0bLgie-cSmt70UwcoJrvxbXNnY4mZV7J6e-Jqk.jpg?s=833f55ed05bac8082fe8cd29a0f48213 frameborder=0>
 - entry_name: |
-    In ‘The Avengers’, there is a small screen showing the heat signature in the room where Loki is being held which shows that he has a cold body temperature because he is a frost giant.
-  entry_id: 8uvwnn
-  entry_content: |
-    <img src=https://i.redditmedia.com/yuIQ_52W3Qg2ZOWUm2lWsqN_5yUzrOpHwyvVoSqB4-0.jpg?s=ccb78e23cbf324500d75c3068dfbd222 frameborder=0>
-- entry_name: |
     Don’t forget that there is always someone to help us in return.
   entry_id: 8uwmel
   entry_content: |
@@ -126,11 +121,6 @@ data:
   entry_id: 8uxyg8
   entry_content: |
     <img src=https://i.redditmedia.com/b37KOiVe63j6PG4dFi9ZcUi_O9B6VWs03SYCPLjVIDM.jpg?s=09a97a2c0364b948c717a2694a47aaeb frameborder=0>
-- entry_name: |
-    I asked my wife to dress up as my favourite Star Wars character for some sexy birthday fun.
-  entry_id: 8uvzwp
-  entry_content: |
-    null
 - entry_name: |
     Kill me now :)
   entry_id: 8v024m
@@ -250,4 +240,14 @@ data:
   entry_id: 8v1q5n
   entry_content: |
     <iframe src=https://v.redd.it/uro6r52h05711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Cozy adventure frens
+  entry_id: 8uxvnl
+  entry_content: |
+    <img src=https://i.redditmedia.com/gXFFuME4fvGN_RzdTP0sDJfOGJKZVcxFyX5C5S54yPM.jpg?s=a8bfd3efba1664f2b48ed68762135529 frameborder=0>
+- entry_name: |
+    worked for me!!
+  entry_id: 8v0htp
+  entry_content: |
+    <img src=https://i.redditmedia.com/FKPTyUA_WeYiWTkO0IUPvmHpzCY0dfSsZKdwVTEym6c.png?s=e2ed84defe5821af52c4839f9ad53953 frameborder=0>
 ---
