@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Y-q7V_qjgxV1vGBLOrVEqxQqKhFpYo1amC1zkRTeFIo.jpg?s=e3f4610cb1fd55bd4716682cd542c8f3 frameborder=0>
 - entry_name: |
-    Fentanyl shipment from China worth $1.7 million seized at Philadelphia Port
-  entry_id: 8v41wj
-  entry_content: |
-    <img src=https://i.redditmedia.com/_pGYXy9RbyTH3U0TxcsNtKH9Xh5zIG56EgILtmWyvw4.jpg?s=e9269ed3cad89c715d9b8027201f3504 frameborder=0>
-- entry_name: |
     Recreational marijuana now legal in Vermont
   entry_id: 8v7mu3
   entry_content: |
@@ -107,11 +102,6 @@ data:
   entry_id: 8v4owu
   entry_content: |
     <iframe src=https://v.redd.it/c53ihhy737711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    MY LEG!
-  entry_id: 8v41uj
-  entry_content: |
-    <img src=https://i.redditmedia.com/F89B5xP6WBPPxppwq4DDDhB2HNHeuCFdNxeS5AvySNA.jpg?s=19709050ae899268a282b937d960828f frameborder=0>
 - entry_name: |
     No Spotify, l don't want to listen to drake
   entry_id: 8v53n6
@@ -132,11 +122,6 @@ data:
   entry_id: 8v9q34
   entry_content: |
     <img src=https://i.redditmedia.com/zd6kmXixeqZcBzOedSLqKULOXZapHBPBrwahKwwTeAk.jpg?s=ea48489386e310ca208a0c0abb2adf0c frameborder=0>
-- entry_name: |
-    yOU HAVE NO IDEA
-  entry_id: 8v4080
-  entry_content: |
-    <img src=https://i.redditmedia.com/L6rZ-nob_SO35dFL8M0kwAE1GJtCre0RzqspyBQ9VVM.jpg?s=481c8a2034bf55013911fb28ef0bfaa2 frameborder=0>
 - entry_name: |
     Something really important like carmex or fruit snacks
   entry_id: 8v6e2r
@@ -218,11 +203,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    TIL Typhoid Mary refused to cooperate with investigators, even refusing an offer of royalties on a book about the outbreak. She was arrested in 1908, claiming ignorance about hand washing. After release she went back into work as a cook, against orders, starting another outbreak that killed 2.
-  entry_id: 8v42lb
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ucs8UwAEBWG7Z64XAdMnGib4CUPTUerCacxQcZuv43E.jpg?s=40cc444053d331beb72847bf09be952b frameborder=0>
-- entry_name: |
     Posted at 12:00 AM on July 1st
   entry_id: 8v7drq
   entry_content: |
@@ -252,4 +232,23 @@ data:
   entry_id: 8v7l4m
   entry_content: |
     <img src=https://i.redditmedia.com/_dVMkcrXyC05KxiuQziy7FuZuo04lDb9UsDV6au3y_4.png?s=a1d1cdad25fa8c72f41b081e3798a84e frameborder=0>
+- entry_name: |
+    Howl you doin?
+  entry_id: 8v98lu
+  entry_content: |
+    <img src=https://i.redditmedia.com/jTa_jYwL-NwIJeTJOjQqmy61ETEC0yR-AOeZ_pzlLh0.jpg?s=11a4061f1cf60e7179c762392da544fb frameborder=0>
+- entry_name: |
+    Meirl
+  entry_id: 8v8si3
+  entry_content: |
+    <img src=https://i.redditmedia.com/HDarz6ysxNskD8CO7-S0OAcdP-WnLu5BeuLH3t_ZfPU.jpg?s=0cf2a9cfdd0eb473d6dca7edf54e6364 frameborder=0>
+- entry_name: |
+    Sand very bad
+  entry_id: 8v98s1
+  entry_content: |
+    <img src=https://i.redditmedia.com/1rJpQ1kKNGgDhyglCSm8bHPG_aGJXaVJfRev-hBDBXc.jpg?s=884cd76903368422de6f158906d4e9d6 frameborder=0>
+- entry_name: |
+  entry_id: 8v88n7
+  entry_content: |
+    <img src=https://i.redditmedia.com/OKPLXTXfkpRzyJVeGxxNreFnlO3KR9UOHaWdYhw_9M4.jpg?s=42a781859298c419289a4cd28b58e048 frameborder=0>
 ---
