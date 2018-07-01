@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/43NerwhPGHmmr42fllhLePypRfR8ujLY1m-Phl_okpE.jpg?s=c16a4403e63fa057788d197cc24f7364 frameborder=0>
 - entry_name: |
-    Went to volunteer at the Humane Society, and the security bag check was pretty intense.
-  entry_id: 8v4cv3
-  entry_content: |
-    <img src=https://i.redditmedia.com/V-md1v1Hs3gKpFzc9g1NCjXThLyk8AfhUCYAse3crKo.jpg?s=a7ea1c823e3e4a1d3027eb97965dcc31 frameborder=0>
-- entry_name: |
     Every step you take, I’ll be loving you.
   entry_id: 8v912r
   entry_content: |
@@ -67,11 +62,6 @@ data:
   entry_id: 8v9oan
   entry_content: |
     <img src=https://i.redditmedia.com/Y-q7V_qjgxV1vGBLOrVEqxQqKhFpYo1amC1zkRTeFIo.jpg?s=e3f4610cb1fd55bd4716682cd542c8f3 frameborder=0>
-- entry_name: |
-    Most of the people mourning Toys'r'us closing likely remember it from their childhood and haven't set foot in one in 10 years.
-  entry_id: 8v4ehk
-  entry_content: |
-    null
 - entry_name: |
     Insulin shots?
   entry_id: 8v6t8g
@@ -163,11 +153,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    TIL that in the '70s, North Korea ordered 1,000 Volvos from Sweden. To this day, the cars have not been paid for. Sweden still sends an invoice to Pyongyang, but North Korea has never upheld its end of the agreement.
-  entry_id: 8v4a4g
-  entry_content: |
-    <img src=https://i.redditmedia.com/nkgGfAMf9AZwpWAKiRtmN-zqxiMOHPHwRJaAZ9gB9h0.jpg?s=14430db429b62879b4ac96b3b9341009 frameborder=0>
-- entry_name: |
     A very beautiful wild kitty.
   entry_id: 8v5sj0
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 8v8ksl
   entry_content: |
     <img src=https://i.redditmedia.com/q08D-zOnhxzxGVMt2VgTT6AeE6AeMeSgwaL00nx3aNs.jpg?s=65688b3087927d8576584ed1b3bd2cd3 frameborder=0>
+- entry_name: |
+    I counted 29 items. I had one.
+  entry_id: 8v5lce
+  entry_content: |
+    <iframe src=https://v.redd.it/pyt7asxhv7711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Now THIS is cod racing
+  entry_id: 8v5pk4
+  entry_content: |
+    <img src=https://i.redditmedia.com/PtlCrnVKwMKMgg6_FTaB3nPEURCHncs7LodMEb_-8yI.jpg?s=fa032a3943d5788660ca324769c16998 frameborder=0>
+- entry_name: |
+    Contrary to popular belief, millenials can still afford to buy homes
+  entry_id: 8v9d55
+  entry_content: |
+    <img src=https://i.redditmedia.com/O2V7wRK6llv6q8sQSe3JZBXH8tVrEsg3QHfhO8SeAyo.jpg?s=1c29a25706d7ef8a9546e5f8528d9f85 frameborder=0>
 ---
