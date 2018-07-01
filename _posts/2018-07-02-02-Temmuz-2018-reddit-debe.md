@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZFhJc21rmWEjh-xynGoc5DZuR7vgziQ_zbUU30WSfwg.jpg?s=15cad95107c156313530a5ab6250ad22 frameborder=0>
 - entry_name: |
-    .38 caliber bullet shatters when it hits a glass Prince Rupert Drop.
-  entry_id: 8v4ol6
-  entry_content: |
-    <iframe src=https://v.redd.it/4rz9lqnt67711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     This is Todd, Todd is the best pupper. Todd saw his owner almost get bitten by a snake and intervened. 27/10 would give all the pets. Todd is making a speedy recover, well wishes for Todd.
   entry_id: 8v9ijr
   entry_content: |
@@ -92,11 +87,6 @@ data:
   entry_id: 8v58hw
   entry_content: |
     <img src=https://i.redditmedia.com/4SzQVg_mXS44QLnkrvotB2NqvPpNN_ys8k2CnwjwQF0.jpg?s=773b8f4e41e077d8961597c31c978dfe frameborder=0>
-- entry_name: |
-    Going down the same stairs as the guy who just fell down them.
-  entry_id: 8v4owu
-  entry_content: |
-    <iframe src=https://v.redd.it/c53ihhy737711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     No Spotify, l don't want to listen to drake
   entry_id: 8v53n6
@@ -251,4 +241,13 @@ data:
   entry_id: 8v88n7
   entry_content: |
     <img src=https://i.redditmedia.com/OKPLXTXfkpRzyJVeGxxNreFnlO3KR9UOHaWdYhw_9M4.jpg?s=42a781859298c419289a4cd28b58e048 frameborder=0>
+- entry_name: |
+    Advantages of being a warg
+  entry_id: 8v8ksl
+  entry_content: |
+    <img src=https://i.redditmedia.com/q08D-zOnhxzxGVMt2VgTT6AeE6AeMeSgwaL00nx3aNs.jpg?s=65688b3087927d8576584ed1b3bd2cd3 frameborder=0>
+- entry_name: |
+  entry_id: 8va2r0
+  entry_content: |
+    <img src=https://i.redditmedia.com/asjwnETQdQ4SouvtlCFU2Ek6-TeDNj_fu_XeH88T40Y.jpg?s=91922c6350cf4ac3de7a7aff1d7b2af5 frameborder=0>
 ---
