@@ -173,11 +173,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/c87o5obav6711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    The lord makes no mistakes
-  entry_id: 8v3zg3
-  entry_content: |
-    <img src=https://i.redditmedia.com/5u1uwbkdYhBTGHY8G559b9wLn-oBWfw8LfYmZuXd050.jpg?s=03e9c8ed040ac6b1e988c7efb76efcab frameborder=0>
-- entry_name: |
     I just made an EPIC cinematic of the rocket launch, what do you think?
   entry_id: 8v4gy1
   entry_content: |
@@ -228,11 +223,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ucs8UwAEBWG7Z64XAdMnGib4CUPTUerCacxQcZuv43E.jpg?s=40cc444053d331beb72847bf09be952b frameborder=0>
 - entry_name: |
-    🔥 Green Bumpy Boi 🔥
-  entry_id: 8v3ze4
-  entry_content: |
-    <img src=https://i.redditmedia.com/3lu5b9zKDXwc8BhseBAk4WyQJAE_nJQ14jVOqCjCdjM.jpg?s=47e3d7c48e311e678a229fa2a3c1c4a3 frameborder=0>
-- entry_name: |
     Posted at 12:00 AM on July 1st
   entry_id: 8v7drq
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8v5t77
   entry_content: |
     <img src=https://i.redditmedia.com/o988-giGWiN0WBjMF3w8biWnYfYYKV9fq7Q9dIqWKdY.jpg?s=c11277131d8a25e3a285f5e879ec9e2b frameborder=0>
+- entry_name: |
+    Arachno sleep disturbances, please.
+  entry_id: 8v835o
+  entry_content: |
+    <img src=https://i.redditmedia.com/8QeYgnF6dt24_0s0rD2BlSXYffNvT1VRlbjfw7bXGnk.png?s=1bf75cce3d960353e1a7c9e36cb8ff5d frameborder=0>
+- entry_name: |
+    A soft turn to a huge termination
+  entry_id: 8v7l4m
+  entry_content: |
+    <img src=https://i.redditmedia.com/_dVMkcrXyC05KxiuQziy7FuZuo04lDb9UsDV6au3y_4.png?s=a1d1cdad25fa8c72f41b081e3798a84e frameborder=0>
 ---
