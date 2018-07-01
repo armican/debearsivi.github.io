@@ -158,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5u1uwbkdYhBTGHY8G559b9wLn-oBWfw8LfYmZuXd050.jpg?s=03e9c8ed040ac6b1e988c7efb76efcab frameborder=0>
 - entry_name: |
-    Changing a baby’s diaper would be 1000 times worse if they had pubes and a hairy ass.
-  entry_id: 8v3g7q
-  entry_content: |
-    null
-- entry_name: |
     Jedi’s Signature Weapon
   entry_id: 8v490n
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8v5t77
   entry_content: |
     <img src=https://i.redditmedia.com/o988-giGWiN0WBjMF3w8biWnYfYYKV9fq7Q9dIqWKdY.jpg?s=c11277131d8a25e3a285f5e879ec9e2b frameborder=0>
+- entry_name: |
+    Arachno sleep disturbances, please.
+  entry_id: 8v835o
+  entry_content: |
+    <img src=https://i.redditmedia.com/8QeYgnF6dt24_0s0rD2BlSXYffNvT1VRlbjfw7bXGnk.png?s=1bf75cce3d960353e1a7c9e36cb8ff5d frameborder=0>
 ---
