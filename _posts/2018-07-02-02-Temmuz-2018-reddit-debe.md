@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_-LBbgB8kL9u4gcS9Ma5biQ9YmR4HrPax9VqBmkw8-0.jpg?s=83e285788fbcd24d54ee2e3792e3cd12 frameborder=0>
 - entry_name: |
-    This rock has a perfect quartz stripe.
-  entry_id: 8v4ht0
-  entry_content: |
-    <img src=https://i.redditmedia.com/OnV6sSJmI_Vto-zNAp1Tw5vCLEd3MDi8rZfAfCJoDOE.jpg?s=980dcaf47ec97d002aca14185548e4be frameborder=0>
-- entry_name: |
     Greatest $19.50 spent in all of history.
   entry_id: 8v9oan
   entry_content: |
@@ -132,11 +127,6 @@ data:
   entry_id: 8v6qt2
   entry_content: |
     <img src=https://i.redditmedia.com/b29vkl9OufU1PHSVpmvljLC3ICiwZwNGOcAEW4MxSBk.jpg?s=d88e91c8b41a3658b01a1d89bcbc98c3 frameborder=0>
-- entry_name: |
-    I just made an EPIC cinematic of the rocket launch, what do you think?
-  entry_id: 8v4gy1
-  entry_content: |
-    <iframe src=https://v.redd.it/uidw1pge07711/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Yeah, I dunno CHRISTIAN
   entry_id: 8v88er
@@ -251,4 +241,14 @@ data:
   entry_id: 8v9d55
   entry_content: |
     <img src=https://i.redditmedia.com/O2V7wRK6llv6q8sQSe3JZBXH8tVrEsg3QHfhO8SeAyo.jpg?s=1c29a25706d7ef8a9546e5f8528d9f85 frameborder=0>
+- entry_name: |
+    Man killed by police was US Navy vet trying to break up fight, reports say
+  entry_id: 8v9t8n
+  entry_content: |
+    <img src=https://i.redditmedia.com/IBOoGGqQi3m6-mNAlQ2J5_eNuhOm2D_jzckSbuLyPmU.jpg?s=46b82cf4416e7ecd133796cde26986bc frameborder=0>
+- entry_name: |
+    These Canadians er turkin er jurbs!
+  entry_id: 8v7pfh
+  entry_content: |
+    <img src=https://i.redditmedia.com/aF1U7y0TQyMkpnFKqgnkLq9aBiKPjWOTMMQGhkguy0Q.jpg?s=420869c673e17c50e9507e8aa45ce293 frameborder=0>
 ---
