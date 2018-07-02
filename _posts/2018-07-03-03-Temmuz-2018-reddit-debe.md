@@ -8,16 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6yFvi5bZCC0q1Hn2RV9NCEmN5F5bazJVghP42OOMgKo.jpg?s=dfaed415569471a14e1f10d765895240 frameborder=0>
 - entry_name: |
-    A girl admiring Alex Morgan
-  entry_id: 8vbzd9
-  entry_content: |
-    <img src=https://i.redditmedia.com/DhSN36tg2xzrnQVfgh9kbsVF8SDB1Rapgt0CRwHCEAU.jpg?s=74589ebd3cf4c254da1b597a9a64f8f5 frameborder=0>
-- entry_name: |
-    Did my human just turn into ME???
-  entry_id: 8vc0hr
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCloseDeficientBlueshark&url=https%3A%2F%2Fgfycat.com%2FCloseDeficientBlueshark&image=https%3A%2F%2Fthumbs.gfycat.com%2FCloseDeficientBlueshark-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=388 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     The front page of Reddit...
   entry_id: 8vgegx
   entry_content: |
@@ -47,16 +37,6 @@ data:
   entry_id: 8veqse
   entry_content: |
     <img src=https://i.redditmedia.com/Fk92nrOy6SS7X-FKhJ2N6mphCbQYDfVhRib6v_Mgb2U.jpg?s=4bdfdac4adf2588947a949f2d30c511b frameborder=0>
-- entry_name: |
-    Functional LEGO technic bridge girder
-  entry_id: 8vc0xp
-  entry_content: |
-    <iframe src=https://v.redd.it/rbs8iv9zsd711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Cartoonist Chuck Jones' rules for Wild E. Coyote and the Roadrunner
-  entry_id: 8vc12v
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZOo-WaLH8D79QGBFCGIIE8p6DkkGyleD7BN-5Un__vs.jpg?s=4856683b5f28eda7e717b3c12bb0ea51 frameborder=0>
 - entry_name: |
     TIL in the LOTR, Gimli was 139 years old when he joined the Fellowship. He also wanted to join his father and Thorin Oakenshield on their journey to reclaim The Lonely Mountain in The Hobbit, but was denied for being too young at age 62.
   entry_id: 8ve38n
@@ -251,4 +231,24 @@ data:
   entry_id: 8vi8b2
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/NV0x-dYoCNI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    They should also add a top 8 friends to Twitter
+  entry_id: 8veqdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/J54aa91trGVfdCrpbgx2O3zZNGEd0DrbWbk_jHEtyp8.jpg?s=e22639c40ba179ec3ca88b79e1e29b4f frameborder=0>
+- entry_name: |
+    Big cat, cute cat
+  entry_id: 8vcqcl
+  entry_content: |
+    <iframe src=https://v.redd.it/b53ermoh1c711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Now, where did that come from?
+  entry_id: 8viep3
+  entry_content: |
+    <iframe src=https://v.redd.it/pbhepyd78j711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Fine, I'll deal with Wendy's myself.
+  entry_id: 8vc6ki
+  entry_content: |
+    <img src=https://i.redditmedia.com/zCkrLn7o0_zA7Uxc8HbhwxrAbVyC_FgFU-mSaH6p2DU.jpg?s=f0fc1e80d4ee4f9a5ac204fb0a7e76ab frameborder=0>
 ---
