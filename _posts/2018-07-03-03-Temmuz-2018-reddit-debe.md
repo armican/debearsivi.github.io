@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6yFvi5bZCC0q1Hn2RV9NCEmN5F5bazJVghP42OOMgKo.jpg?s=dfaed415569471a14e1f10d765895240 frameborder=0>
 - entry_name: |
-    DFW Airport added a gaming lounge so you can game while you wait for your plane
-  entry_id: 8vbqxc
-  entry_content: |
-    <img src=https://i.redditmedia.com/rMGidpALkjyxnyzwXnjh4wS2xbIjulvtp3KTwZ-uhR0.jpg?s=51d562135bf7e96a945d3ba2071cbb5f frameborder=0>
-- entry_name: |
     A girl admiring Alex Morgan
   entry_id: 8vbzd9
   entry_content: |
@@ -27,11 +22,6 @@ data:
   entry_id: 8vgegx
   entry_content: |
     <img src=https://i.redditmedia.com/51tG1CxnlBPd8fdLNCjt4bG24dTkyZKk8g_lWDI2T44.jpg?s=1fb309746a1299517a3c39c8aa6da9dc frameborder=0>
-- entry_name: |
-    Guy is tired of his shitty luck
-  entry_id: 8vbnsp
-  entry_content: |
-    <iframe src=https://v.redd.it/7aha2o55kd711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     “Dis my bebe”
   entry_id: 8vc9py
@@ -91,11 +81,6 @@ data:
   entry_id: 8vepzt
   entry_content: |
     <iframe src=https://v.redd.it/irozps4vrf711/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Wife was cleaning 12 year old son's bedroom
-  entry_id: 8vbr8l
-  entry_content: |
-    null
 - entry_name: |
     Big Yawn
   entry_id: 8vdlwz
@@ -251,4 +236,19 @@ data:
   entry_id: 8ve7la
   entry_content: |
     <img src=https://i.redditmedia.com/Va0wQE_HOBw9W5DbOuEeZSf63ZqzZMWd85nyQme5-H0.jpg?s=88956287b00b2c46b3e10aeecfb934dc frameborder=0>
+- entry_name: |
+    At least they are in love!
+  entry_id: 8vfblo
+  entry_content: |
+    <img src=https://i.redditmedia.com/1YsQTCRowoHfJC6BeYK3grBoLXRFAz3iyVwwp_WfyTw.jpg?s=03159855258bdf2a7920969ee59d3688 frameborder=0>
+- entry_name: |
+    Big cat, cute cat
+  entry_id: 8vcqcl
+  entry_content: |
+    <iframe src=https://v.redd.it/b53ermoh1c711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    They should also add a top 8 friends to Twitter
+  entry_id: 8veqdu
+  entry_content: |
+    <img src=https://i.redditmedia.com/J54aa91trGVfdCrpbgx2O3zZNGEd0DrbWbk_jHEtyp8.jpg?s=e22639c40ba179ec3ca88b79e1e29b4f frameborder=0>
 ---
