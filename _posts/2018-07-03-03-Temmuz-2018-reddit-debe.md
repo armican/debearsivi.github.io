@@ -142,20 +142,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-Vb2bqo8x3-LvYRGwiiIXILuna6hxm0YN_8sEg4dHjs.png?s=1f38509dc4d0cceaeb024688902dd548 frameborder=0>
 - entry_name: |
-    TIL that in Resevoir Dogs, Madonna, who is the main topic of the opening conversation, really liked the film, but refuted Quentin Tarantino's interpretation of her song Like a Virgin. She gave him a copy of her Erotica album, signed, To Quentin. It's not about dick, it's about love. Madonna.
-  entry_id: 8vbi7l
-  entry_content: |
-    <img src=https://i.redditmedia.com/cYBnQ5guXHz1QIWIE_WocmAvRZXEmaKxuIhjZELpyp4.jpg?s=97a21283da496d206380ca34fe66ffd1 frameborder=0>
-- entry_name: |
     S Q W E R S H
   entry_id: 8vd5k8
   entry_content: |
     <img src=https://i.redditmedia.com/bAThuF-eyJMMS3jkDt9WAejHNuDMPzf5AGPptneDe68.jpg?s=e206984d07518d6c9f8811cfac1f9db3 frameborder=0>
-- entry_name: |
-    Finnish military women
-  entry_id: 8vblks
-  entry_content: |
-    <iframe src=https://v.redd.it/8cjyyzikid711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Kratos in Chinese Mythology
   entry_id: 8vctfw
@@ -251,4 +241,14 @@ data:
   entry_id: 8vf1qy
   entry_content: |
     null
+- entry_name: |
+    At last, we will have revenge.
+  entry_id: 8vhhwp
+  entry_content: |
+    <img src=https://i.redditmedia.com/Cq8bQoloAIxdWehGH3AoE6ay0HEHaZlIoxIfqZxVe0A.jpg?s=4208808d2f64bfe2931ccb5df5038a41 frameborder=0>
+- entry_name: |
+    This advertisment designed to Look like an Amazon Package
+  entry_id: 8ve7la
+  entry_content: |
+    <img src=https://i.redditmedia.com/Va0wQE_HOBw9W5DbOuEeZSf63ZqzZMWd85nyQme5-H0.jpg?s=88956287b00b2c46b3e10aeecfb934dc frameborder=0>
 ---

@@ -6,7 +6,7 @@ data:
     annemin ölmesi ve verdiğim hukuk mücadelesi
   entry_id:  78737464
   entry_writer: seftaligibibisey
-  entry_fav_count: 2542
+  entry_fav_count: 2553
   entry_content: |
     edit: bir enry'de en son ekg'yi ne zaman çektirdiniz şeklinde bir soru vardı. annemin kalp kapağında çökme olduğu ve tansiyon hastası olduğu için ayda bir kontrolünü yaptırırdı. son ekg'si ölmeden 20 gün önce çekilmişti. ayrıca beta bloke edici beloc kullanıyodu. <br/><br/>edit: ilgili her belgeyi çıkan sonuçtan sonra yayınlayacağım. epikriz raporları, ifadeler ve ilgili her şeyi.<br/><br/>edit: sanırım başımdan geçenleri yazarken o sıkıntı ile anlam düşüklüğü içeren cümleler kurdum sanırım. mesaj atan bir yazar fetöcü savcı dediğimi yazmış. savcılar fetöcü demedim arkadaşım. fetö dosyaları çok olduğu için savcılar dosyaları paylaşmış benim dosyam başka savcıya gitti dedim. <br/><br/>2 yıldır verdiğim hukuk savaşıdır.<br/>28 aralık 2016 gününden bu yana aradığım belki de hiç bir zaman bulamayacağım bir hak. soğuk bir gün ama kar yağmıyordu. annem her zamanki gibi kahvaltı sofrasını hazırladı. güle oynaya kahvaltımızı yaptık ve evden çıktık. saat 13:30 gibi evden telefon geldi. annem; midem çok ağrıyor babanla hastaneye gideceğim dedi. içim kötü oldu. izin aldım eve geldim. kapıdan çıkmadan yetiştim. annem mide ağrısı ile kıvranıyordu. sağlık camiasına uzak değilim. hemen kan basıncısını ölçtüm "sistolik basınç: 80, diyastolik basınç: 50 olunca herhalde dijital tansiyon aleti bozuk diyerek manuel olana yöneldim. sonuç aynıydı. annem yüksek tansiyon hastasıydı ve kalp kapakçıklarında çökme vardı. ambulansı beklemekle vakit kaybetmemek için hemen semtimizdeki devlet hastanesine gittik, evden araçla maksimum 10 dakika sürüyor.<br/>hemen acile giriş yaptık. kan basıncı çok düşük 8/5 diye müdahale eden hemşireye söyledim. <br/><br/>o sırada doktor bankoda oturuyordu ona durumu anlattım. annemin tıbbi geçmişini, kullandığı ilaçları falan ama doktor dinlemiyor. hastaya hiç bakmadan hemşireye tansiyonunu sordu o da 8/5 yanıtını verdi. "doktor bey anneme ekg çekilmesi lazım. annemin mide sorunu yok" diye yırtınıyorum resmen hiç cevap vermiyor.annemi müşahade odasına aldılar. spazmol, ranitab, emojest’i izotoniğe karıştırıp verdiler. annemin göz kapakları şişmeye başladı. tekrar doktorun yanına gittim ‘’ya hu myokard infarktüs belirtisi var kardiyolog yok mu?" diye söylendim. sanki işimi bana öğretme bakışı attı. ben gene yırtınıyorum. ya hu gastrit değil ne yapıyorsunuz diyorum dinlemiyor bile. neyse serum bitti. hemşire kan basıncı aldı. 80/10 olarak hekime bildirdi. hekim müşahadeden çıkabilir dedi. ben halen ekg çekilsin diye yırtınmaya devam ettim. "lanet olsun" diyerek eğitim araştırma hastanesine götürmeye karar verdik. annemi aldık arabaya, yarı yola geldik kusmaya başladı. hemen ambulans çağırdım en azından ambulansta müdahale ederler diye düşündüm. çünkü kalbi farklı atıyordu. kalp atıyor ama kan pompalamıyor gibi geldi bana. hemen ambulans geldi. düşündüğüm gibi yarım saate yakın ambulansta müdahale edildi. çok yakın diye tekrar aynı hastaneye giriş yaptık. bu sırada saat 17:30 civarı. hemen resüsitasyon odasına aldılar. bir baktım gene aynı doktor." ekg çekmediniz bir şey olursa sorumlusu sizsiniz" diye söylendim. resüsitasyon odasına girdi annemi muayene etti, çıktı. hastanız beyin kanaması geçiriyor, inme inmiş dedi. evet bunu dedi. eğitim araştırma hastanesine sevk etti. ambulansla eğitim araştırma hastanesine getirdik saat 19:30 civarı. beyin mr’ı çekildi. felç ve beyin kanaması olmadığı anlaşıldı. kalp fonksiyonları %20’ye düşmüş. müdahale edildi. kalp fonksiyonları %70 çıkınca asidoza girmesine rağmen umutlandım. saat 23:15 gibi vefat haberini verdiler. myokard infarktüs'den kaybetmiştik. sabah yağmayan kar birden yağmaya başlamıştı ama içimin acısı her tarafımı kavuruyordu.<br/><br/>buraya kadar yaşadıklarım acıların acısı sanıyordum. 29 aralık 2016'da öğle namazına müteakip annemi defnettik.kar her yeri doldurmuştu. annemi buz gibi havada, kar yağışı altında mezarında bırakarak eve gitmeden direkt savcılığa giderek suç duyurusunda bulundum. doktorla son konuşmayı yaptığımız, güvenlik kamerası da dahil kamera görüntülerini talep ettim. oradan hastaneye giderek hemen epikriz raporlarını da aldım.<br/><br/>işin acı veren kısmı bundan sonra başladı. 2 ay güvenlik kameralarını bekledim. müşahede koridorundaki kamera hariç diğer kameraların görüntüleri geldi. karakolda izlerken annemin yürüyerek gidişini izlerken boğazım düğüm düğüm oldu. ikinci girişimizde sedyedeki halini görünce yüreğime öküz oturdu, nefesim daraldı.<br/><br/>eh artık yargı yolu açılacak diye sevindim. tabii bu arada savcılık epikriz raporlarını istiyor, yazışmalar sürüyor. sürekli gidip soruyorum evrak bekleniyor. 2017 haziran ayında tekrar gittim. fetö davalarından sebep, dosyalar savcılar arasında paylaşılmış. benim dosyama başka savcı bakacakmış. adliyelerde acayip yoğunluk var diyerek dosyamın 2. savcısına gittim. "hekim, devlet memuru olduğu için kaymakamlığa yazı yazılacak soruşturma izni istenecek." dedi. yazıyı o gün yazacağını söyledi. ertesi gün kaymakamlığa gittim. durumu kaymakam beye anlattım. ona nasıl teşekkür etsem azdır. telefon etti. evrağı sordu derken 10 gün içinde hekim için soruşturma izni çıktı. <br/><br/>halk sağlığı müdürlüğünden bir hekim bu iş için görevlendirildi. bu arada hastaneye ilk gittiğimizde birkaç kişiydik ve isimlerini şahit olarak vermiştim. neyse ifadelerimiz alındı. hekimin de ifadesi alındı ve evraklar 10 gün sonra savcılığa ulaştı. hekimin ifadesini okuyunca şok oldum. ilgili kişi soruyor "ben günde 800 hasta bakıyorum daha az baksam böyle olmazdı." diye söylemlerle aklı sıra sisteme suç atıyor. tabii bu ifadesi üzerine de soruşturma izni verildi. sevindim oh dedim adalet işliyor. savcı yazısını yazıp tüm ifadeleri, epikriz raporlarını adli tıp 1. ihtisas kuruluna yolladı. adli tatil girdi araya bir gideyim de duruma bakayım dedim. bu arada avukatımla da süreci takip ediyoruz. derken savcının tekrar değiştiğini öğrendim dosyam artık 3. savcıdaydı. "fetö, allah seni kahretsin pis herif" diyerek yeni savcıyla görüşmeye gittim.<br/><br/>bekleme süreci başladı. 2018 nisan ayında adli tıptan yazı geldi, o sırada müdahale eden hemşirelerin ifadeleri ve ekg raporlarını istediler. ekg çekilmemiştir diye bilgi yazısını ve epikriz raporunu gönderen hastane nisan ayından bu yana hemşirelerin ifadelerini göndermedi. e malum araya adli tatil de giriyor. bu arada ben de boş durmadım hekimi araştırdım. yurtdışında kırgızistan’da tıp eğitimini tamamlamış. olabilir tıp her yerde tıptır diye kendimi avuturken kan bağından çok yakın birinin, bir partinin sözü geçen adamlarından biri olduğunu öğrendim. ayrıca pratisyen hekimliği bırakıp yaşadığım yerde aile hekimi olmuş resmen ödül gibi.<br/><br/>ben bu davayı haklı olduğum halde kazanamayacağım bunu biliyorum. her gün adalet beklemekten yoruldum, yıldım ama mücadelemi bırakmayacağım. dosyam halen bekleme aşamasında, iddianame aşamasına gelmedi bile. belki de adli tatilden sonra başka savcıya geçer. takipsizlik verilirse diğer kardeşlerim ve babam tekrar sırayla açarlar davayı. işin sonunda avrupa insan hakları mahkemesi’ne de giderim. şu an yaşadığım tek şey acı ve öfke. o hastaneye birkaç kere daha gittim ziyaretçi olarak. o hekimle çok denk geldik ama ne bir söz söyledim ne de şiddet gösterdim sadece bekliyorum umarım hak yerini bulur. gelişmeleri ve açılırsa dava sonucunu editleyeceğim. yok takipsizlik verilirse tüm rapor ve belgeleri de edit gireceğim.
   entry_channels: sağlık,haber
@@ -14,7 +14,7 @@ data:
     hdp'nin atatürk'ü lanetleyen twitter paylaşımı
   entry_id:  78749664
   entry_writer: oguzbatur
-  entry_fav_count: 1675
+  entry_fav_count: 1692
   entry_content: |
     hdp'nin kürtçe resmi twitter sayfasından, ingiliz beslemesi şeyh sait'in idamının yıl dönümünde yapılan paylaşımdır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/KurdiHDP/status/1012709167579070465" title="https://mobile.twitter.com/KurdiHDP/status/1012709167579070465">https://mobile.twitter.com/…tus/1012709167579070465</a><br/><br/>türkçesi "idamlarının 93.yılında şeyh sait efendi ve 47 yol arkadaşını saygıyla anıyor ve katillerini bir kez daha kınıyor ve lanetliyoruz" şeklindedir. <br/><br/>atatürk'e katil demiş üstüne de lanetlemişler. <br/><br/>atatürkçü geçinen, mustafa kemal'in askerleriyiz diyerek bunlara koşa koşa oy veren geri zekalı sürüsünün suratına vurulan binlerce tokattan birisi olmasına rağmen bu davarlar hâlâ akıllanmadı. <br/><br/>şeyh sait gibi, isyan ederek yüzlerce türk askerini şehit eden ve esir alan bir vatan hainini diyarbakır meydanında sallandıran türk ordularının başbuğu gazi mareşal mustafa kemal atatürk'ü saygıyla ve özlemle anıyorum.
   entry_channels: siyaset,tarih,haber
@@ -22,31 +22,31 @@ data:
     tesettürlü kızın barda eğlenmesi
   entry_id:  78743586
   entry_writer: aaritalolo
-  entry_fav_count: 688
+  entry_fav_count: 695
   entry_content: |
     (bkz: <a class="b" href="/?q=benim+tesett%c3%bcrl%c3%bc+bac%c4%b1m%c4%b1+zorla+barda+e%c4%9flendirdiler">benim tesettürlü bacımı zorla barda eğlendirdiler</a>)
   entry_channels: yeme-içme
 - entry_name: |
-    10 milyon dolar vs 18 yaşına dönmek
-  entry_id:  78736995
-  entry_writer: brandt
-  entry_fav_count: 501
-  entry_content: |
-    54 yaşında biri olarak direkt 10 milyon doları seçerdim. 10 milyon dolarla 30 yılda yaşayamayacağım şeyleri 1 yılda yaşardım. sanki 20 yaşına dönünce süper bi hayat bekliyor amk. ha şu anki aklımla döneceksem belki kabul edebilirdim.
-  entry_channels: ilişkiler
-- entry_name: |
     2 temmuz 2018 muharrem ince tweet'leri
   entry_id:  78759789
   entry_writer: sanikmagdur
-  entry_fav_count: 484
+  entry_fav_count: 549
   entry_content: |
     arkadaşlar şifreli yazmış. tweetlerin baş harflerini alıp mors halfabesiyle çarptıktan sonra mikserde karıştırdım 'pezevenklerin elindeyim' yazısı çıktı.
   entry_channels: siyaset,haber
 - entry_name: |
+    10 milyon dolar vs 18 yaşına dönmek
+  entry_id:  78736995
+  entry_writer: brandt
+  entry_fav_count: 502
+  entry_content: |
+    54 yaşında biri olarak direkt 10 milyon doları seçerdim. 10 milyon dolarla 30 yılda yaşayamayacağım şeyleri 1 yılda yaşardım. sanki 20 yaşına dönünce süper bi hayat bekliyor amk. ha şu anki aklımla döneceksem belki kabul edebilirdim.
+  entry_channels: ilişkiler
+- entry_name: |
     iyilik süsü verilmiş örtülü adilikler
   entry_id:  78753124
   entry_writer: swollenmember
-  entry_fav_count: 267
+  entry_fav_count: 275
   entry_content: |
     cok uluslu sirketlerin sosyal sorumluluk projeleridir.
   entry_channels: anket,ilişkiler
@@ -54,23 +54,15 @@ data:
     2 temmuz 2018 bbp erken yerel seçim çağrısı
   entry_id:  78755839
   entry_writer: uzaydan gelip gote giren semsiye
-  entry_fav_count: 190
+  entry_fav_count: 192
   entry_content: |
     genel seçim için bahçeli <br/>yerel seçim için destici<br/><br/>iyi iş valla.
-  entry_channels: siyaset,haber
-- entry_name: |
-    türkiye'deki en solcu lider tayyip erdoğan'dır
-  entry_id:  78753239
-  entry_writer: kuzgunumtrak
-  entry_fav_count: 189
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7omardante+erdo%c4%9fan">çomardante erdoğan</a>)
   entry_channels: siyaset,haber
 - entry_name: |
     bitcoincilerin sesinin soluğunun çıkmaması
   entry_id:  78749649
   entry_writer: cay veren adam hic kotu olur mu
-  entry_fav_count: 189
+  entry_fav_count: 191
   entry_content: |
     <a class="b" href="/?q=dip+dalga">dip dalga</a> bekliyoruz.<br/><br/>şaka lan sıçtık bildiğin nasıl sesimiz çıksın.<br/><br/>tanım: bir tespit
   entry_channels: teknoloji,ekonomi
@@ -78,7 +70,7 @@ data:
     dayağı en çok hak eden meslek mensupları
   entry_id:  78757556
   entry_writer: carol ferris
-  entry_fav_count: 168
+  entry_fav_count: 187
   entry_content: |
     mr randevusuna öyle veya böyle geç gelip doktora orospu çocuğu diyen meslekler olabilir mesela.<br/>edit: ayrıca arkadaşlar uyardı o kişi doktor değil mr teknisyeni oluyormuş.<br/>edit: bir daha uyarıldım onun adı radyoloji teknisyeniymiş.<br/>edit: en son uyarıldım o teknisyen de değilmiş sekretermiş. <br/>sonuç doktor bile değil kişi.
   entry_channels: anket
@@ -91,26 +83,26 @@ data:
     sunni bir çevreden gelen biri olarak diyeceğim ki; madımak bu ülkenin en büyük ayıbıdır. şu an ateist de olsam; çevremdeki sunnilerin en duyarlısının hala yorumu "derin devlet"ten ileri gidemiyor. sanki bir anlık tetiği çekme olarak görüyorlar, halk galeyana geldi diyorlar. halk galeyana da gelse, kışkırtılsa da 45 dklık bir olay bu. anlık tetiğe basma olayı değil. <br/><br/>görüntüler var. tam 45 dk, adım adım kalabalık toplanıp hepsini yakalım diyor. tekbirler getiriliyor, alkışlanıp yuhalanıyorlar.<br/><br/>hala lafı uzatıp bahaneler üretmeden özür dileyemeyen, utanamayan bir toplum var.<br/><br/>türkiye'nin en büyük utancıdır sivas katliamı. benim de ağır bir hüzün kaplar içimi.
   entry_channels: siyaset,tarih,haber
 - entry_name: |
-    toplu taşımada gıcık olunan tipler
-  entry_id:  78749995
-  entry_writer: elu
-  entry_fav_count: 93
-  entry_content: |
-    gençler teyzeye yer verin bakıyim diyen tipler.
-  entry_channels: anket
-- entry_name: |
     yurt dışının toz pembe olmaması
   entry_id:  78755372
   entry_writer: beni bana vermeyen beni neyleyim
-  entry_fav_count: 92
+  entry_fav_count: 95
   entry_content: |
     bence insanlar "kesin tozpembedir" diye gitmiyorlar. "herhalde burası gibi bok kahverengisi de değildir" diye şanslarını deniyorlar.
   entry_channels: anket,seyahat
 - entry_name: |
+    toplu taşımada gıcık olunan tipler
+  entry_id:  78749995
+  entry_writer: elu
+  entry_fav_count: 94
+  entry_content: |
+    gençler teyzeye yer verin bakıyim diyen tipler.
+  entry_channels: anket
+- entry_name: |
     sözlükçülerin ihtiyacı olan nakit para
   entry_id:  78739363
   entry_writer: shenzhao
-  entry_fav_count: 90
+  entry_fav_count: 91
   entry_content: |
     iyileşmek istiyorum.
   entry_channels: anket,ekşi-sözlük,ekonomi
@@ -118,39 +110,47 @@ data:
     imam hatip tercih etmenin zorunlu olması
   entry_id:  78744989
   entry_writer: cnttn
-  entry_fav_count: 76
+  entry_fav_count: 80
   entry_content: |
     evet değerli yurdum insanları.<br/><br/>liselere giriş sınavından sonra tercih ekranı yapılacak web sitesinde <a class="b" href="/?q=5+tercihten">5 tercihten</a> biri mutlaka <a class="b" href="/?q=imam+hatip+lisesi">imam hatip lisesi</a> olmak zorunda. yoksa ekran ilerlemeyecek ve sistem çalışmayacak.<br/><br/>milli yazılımcılarımız tarafından geliştirilen bu uygulama ile daha çok badem bıyık yetiştirilmesi planlanıyor galiba.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2018/gundem/lise-tercihinde-imam-hatip-zorunlu-oldu-2497305/" title="https://www.sozcu.com.tr/2018/gundem/lise-tercihinde-imam-hatip-zorunlu-oldu-2497305/">kaynak~</a>
   entry_channels: eğitim
 - entry_name: |
-    leyla ile mecnun
-  entry_id:  78741497
-  entry_writer: ismailfelsefeyapma
-  entry_fav_count: 73
-  entry_content: |
-    yalan söyleyenin annesi babası ölsün.hadi bakalım ben söyledim söyleyeceğimi.
-  entry_channels: tv,sanat,tarih,müzik,edebiyat
-- entry_name: |
-    bu başlıkta suriyeli gibi yazıyoruz
-  entry_id:  78751158
-  entry_writer: radyokafasi5
-  entry_fav_count: 73
-  entry_content: |
-    abi ben suri.
-  entry_channels: siyaset
-- entry_name: |
     10 sene içinde doktorluk mesleğinin bitmesi
   entry_id:  78759119
   entry_writer: swollenmember
-  entry_fav_count: 71
+  entry_fav_count: 80
   entry_content: |
     doktorluk bir meslek degil akademik unvan oldugu icin katilmadigim gorustur. hekimliktir o.
   entry_channels: anket,sağlık
 - entry_name: |
+    bu başlıkta suriyeli gibi yazıyoruz
+  entry_id:  78751158
+  entry_writer: radyokafasi5
+  entry_fav_count: 76
+  entry_content: |
+    abi ben suri.
+  entry_channels: siyaset
+- entry_name: |
+    leyla ile mecnun
+  entry_id:  78741497
+  entry_writer: ismailfelsefeyapma
+  entry_fav_count: 74
+  entry_content: |
+    yalan söyleyenin annesi babası ölsün.hadi bakalım ben söyledim söyleyeceğimi.
+  entry_channels: tv,sanat,tarih,müzik,edebiyat
+- entry_name: |
+    leyla aydemir'in ölü olarak bulunması
+  entry_id:  78761212
+  entry_writer: lahmacunmania
+  entry_fav_count: 72
+  entry_content: |
+    eskiden başı okşanan, bakkala yollanan çocuklar artık dere kenarlarında, direk diblerinde ölü bulunuyor. boğazına kadar pisliğe batmış ülke, kimse farkında değil.
+  entry_channels: haber
+- entry_name: |
     ağrı'da kaybolan 3 yaşındaki kız çocuğu
   entry_id:  78760164
   entry_writer: pbkc
-  entry_fav_count: 68
+  entry_fav_count: 71
   entry_content: |
     köyden çıktı bedeni. <br/>kaybolduğunda köydeki evlerden birindeydi bu çocuk.<br/>ona bunu yapan canavar belki yeni öldürdü.<br/>kaybolduğu gün köydeki bütün evler aransaydı bu çocuk yaşıyor olacaktı.<br/>neymiş? tüm evleri aramak için karar kanun gerekiyormuş.<br/>olmaz olsun öyle kanun.<br/>çocuk yaşayacaktı, evler aransaydı çocuk hayatta olacaktı.<br/>başka sözüm yok.
   entry_channels: haber
@@ -161,14 +161,6 @@ data:
   entry_fav_count: 66
   entry_content: |
     benim herkesten ricam şu: kendinizi savunmayı, silahlı/bıçaklı biri ya da saldırgan bir grup karşısında ne yapmanız gerektiğini, vücuttaki darbeye dayanıksız bölgeleri öğrenin. <br/><br/>kadın erkek fark etmiyor, yasal olarak neyi taşıyabiliyorsanız taşıyın ama en başta vücudunuzu kullanmayı çok iyi öğrenin. güvende değiliz. insan güvenilir bir ülkede bile olsa bunları öğrenmeli ama bizde şart oldu. <br/><br/>eve tamirci geldiğinde dahi çocuğunuzu bir anlık bile olsa onunla bırakmayın, çocuğunuzu sokağa tek başına salmayın, onu kimsenin (tekrar ediyorum kimsenin) evine yollamayın, çocuğunuzu 4 yaşından sonra spora alıştırın, ona kötü insanların varlığını açık açık söyleyin, jimnastik başlangıç olarak idealdir, sonra mutlaka evladınıza kendini savunmayı, herhangi bir savunma sporunu, tehdide boyun eğmemeyi öğretin. bırakın savunma sporunda iki üç darbe alsın hiç önemli değil. <br/><br/>evinizde mutlaka taşınmaz kasa (duvara gömebilir ya da başka çözüm düşünebilirsiniz) bulundurun, bu kasanın içine en kıymetli şeylerinizi koyun, ortada bırakmayın. evin sağında solunda haydar bulundurun. arabanızda asla kıymetli bir şey bırakmayın. <br/><br/>bıçaklı biri size yaklaştığında, en fazla kolunuz/omzunuz sıyrılarak çok rahat kurtulabilirsiniz. silahlı biri size yaklaştığında onunla mücadele edebilirsiniz. biri size saldırdığında onu etkisiz hale getirebilirsiniz. kilonuz, yaşınız, cinsiyetiniz ne olursa olsun kimseye boyun eğmek zorunda değilsiniz. yumruk atabildiğinizi, güçlü olduğunuzu bilin. kanınızı demirinizi ölçtürün, takviye alın, sağlıklı olun. <br/><br/>kaçırılan neredeyse her çocuğun tek başına sokakta olduğunun, cinsel istismara uğrayan neredeyse her çocuğun/ergenin birine emanet edildiğinin, saldırı sonucu ölen çoğu insanın son anlarının panik halinde olduğunun bilincinde olun. <br/><br/>son olarak; şimdi burada tanımını yapamayacağım bir tip var, her şey bunların başının altından çıkıyor, onları iyi tanıyın, onlardan uzak durun. evinizi boyamaya bile gelse dikkat edin, gerekirse gönderin gitsin, göndermek istemiyorsanız ona evlatlarınızı göstermeyin ve onunla muhatap olmayın. temiz yüzlü olmak diye bir şey var, bakışların normal olması var. bunlara dikkat edin. normal bakmayan insan öğretmen bile olsa semt değiştirin, ona evladınızı vermeyin. <br/><br/>artık ne devletten ümidim kaldı ne bu ülkenin insanından. kendinizi koruyun.
-  entry_channels: haber
-- entry_name: |
-    leyla aydemir'in ölü olarak bulunması
-  entry_id:  78761212
-  entry_writer: lahmacunmania
-  entry_fav_count: 63
-  entry_content: |
-    eskiden başı okşanan, bakkala yollanan çocuklar artık dere kenarlarında, direk diblerinde ölü bulunuyor. boğazına kadar pisliğe batmış ülke, kimse farkında değil.
   entry_channels: haber
 - entry_name: |
     sözlükçülerin favori ilahiyatçısı
@@ -182,15 +174,31 @@ data:
     2 temmuz 2018 brezilya meksika maçı
   entry_id:  78752711
   entry_writer: darklordwx
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     kim kazanırsa kazansın dünya kupasının güzelliğine gölge düşürmeyecektir. dünya kupası sadece güçlü takımlar kazanınca güzel değildir. hakeden kazandığı için güzeldir. sadece güçlü takımları tutanlar futbolseverim diye ortada dolaşmasın bir zahmet. <br/><br/>neymiş bütün favori takımlar eleniyormuş o yüzden bok gibi turnuvaymış. sanki favori takımlar mükemmel oynuyor da hakem hatalarıyla eleniyorlar. asıl kötü turnuva berbat bir arjantin'in rezil oynayan almanya'nın futbol katili ispanya'nın final görmesi olurdu.
   entry_channels: spor
 - entry_name: |
+    rte'nin 8 gündür konuşmaması
+  entry_id:  78761285
+  entry_writer: kel imana gel
+  entry_fav_count: 45
+  entry_content: |
+    hasta olmasin sakin?<br/><br/>8 gun az degil, simdiye 50 kere konusmasi gerekirdi.<br/><br/>allahim sen biliyorsun!<br/><br/>dinimiz amin...
+  entry_channels: siyaset
+- entry_name: |
+    çocuğa tecavüz edenlerin ahirette vereceği hesap
+  entry_id:  78752834
+  entry_writer: foreevermoreover
+  entry_fav_count: 44
+  entry_content: |
+    dünyasını başına yıkın, ahiret kısmı beni bağlamaz.
+  entry_channels: anket
+- entry_name: |
     yazarların idam referandumunda verecekleri oy
   entry_id:  78736337
   entry_writer: ultraviole
-  entry_fav_count: 42
+  entry_fav_count: 43
   entry_content: |
     hayır<br/><br/>birçok kişi yazmış ben de yazayım. kesinlikle amacının dışında kullanılacaktır. karşıt fikir belirteni hapse tıkan insanlar var ülkede. idam da gelirse haksızlıkların, adaletsizliklerin önünü alamayız
   entry_channels: siyaset,anket,ekşi-sözlük
@@ -198,42 +206,26 @@ data:
     2 temmuz 2018 izmir toplu taşıma rezaleti
   entry_id:  78755728
   entry_writer: otlukek
-  entry_fav_count: 40
+  entry_fav_count: 42
   entry_content: |
     temel olarak tüm hatlardaki otobüsleri iş giriş ve çıkış saatleri ile sınırlandırmışlar. sabah 6-9 akşam 16-20.00. geri kalan saat dilimlerinde herkes travmay ya da metro kullanmak zorunda. üç sene önce evimin önünden tek otobüsle gittiğim alsancak yönüne artık otobüs+metro+travmay ile ulaşacağım. gerçekten şahane bir düzenleme.
   entry_channels: haber,seyahat
 - entry_name: |
-    2 temmuz 2018 mustafa cengiz açıklaması
-  entry_id:  78752219
-  entry_writer: enduksiyon bobini
-  entry_fav_count: 31
-  entry_content: |
-    (bkz: <a class="b" href="/?q=alevli+top+is+coming">alevli top is coming</a>)
-  entry_channels: spor,haber
-- entry_name: |
-    seksin en zevkli anı
-  entry_id:  78743139
-  entry_writer: hegel kim lan
-  entry_fav_count: 25
-  entry_content: |
-    bu betimlemeleri en son kota ve hız sorunu yüzünden porno izlemek yerine seks hikayesi okumak zorunda kaldığım zamanlarda görmüştüm. beyler yaşar kemal sizi görse mezarından kalkıp ince memed'i tekrar yazardı yemin ederim.<br/><br/>sert, diri, ıslak, kabarmış, sıcak, kaygan, hemotoksilen-eozinle pembe-mor boyanmış uzuvlar, devrik gözler, devrik cümleler, uçuşan sütyenler, salınan memeler, sigaralar ve amına koyarımlı dirty talklar... ulan bu kadar güzel sevişiyorsunuz da bu ortalıktaki yarak gibi çocuklar nereden çıkıyor a ibineler?
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ingiliz dendiğinde zihinde oluşan ilk imge
   entry_id:  78751510
   entry_writer: mutefelsif
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     üç beş yaşlarından itibaren madenlerde çalıştırılmaya başlandığı için ortalama ömürleri 25 yıl olan çocuk işçiler.<br/><br/>çalıştıran da ingiliz, çalıştırılan da, yanlış anlaşılmasın.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>bu raporlardan biri madenlerdeki çalışma koşulları ile ilgilidir ve 8 yaşındaki sarah gooder madenler komisyonunun raporunda şöyle konuşur:<br/>"gawber madeninde bir çekiciyim. bu beni yormuyor, ama ışık olmadan çekmem gerekiyor ve korkuyorum. sabah dörtte ve kimi zaman üç buçukta gidiyorum ve beş buçukta çıkıyorum. hiç uyumam. kimi zaman ışık olduğunda şarkı söylerim, ama karanlıkta değil; o zaman söylemekten korkarım. madende olmayı sevmiyorum. sabah gittiğimde kimi zaman çok uykulu olurum. pazar okullarına gidiyorum ve 'kolaylaştırılmış okuma' okuyorum. o harfleri tanır ve küçük sözcükleri okuyabilir. bana dua etmeyi öğretiyorlar. 'lord's prayer'i pek doğru olmayan bir biçimde okudu ve şu eklenti ile sürdürdü: 'tanrı babamı ve annemi, kız kardeşlerimi ve erkek kardeşlerimi, amcalarımı ve halalarımı ve kuzenlerimi ve başka herkesi kutsasın, ve tanrı beni kutsasın ve beni iyi bir hizmetçi yapsın. amin.' birçok kez isa'nın öykülerini duydum. niçin dünyaya geldiğini bilmiyorum, elbette, ve niçin öldüğünü bilmiyorum, ama kafasını dayayacak taşları vardı. okulda olmayı madende olmaktan çok daha fazla isterdim."<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ingiltere, 19. yy: çocuk emeği üzerine parlamento raporu, no 116
   entry_channels: siyaset,anket
 - entry_name: |
-    rte'nin 8 gündür konuşmaması
-  entry_id:  78761285
-  entry_writer: kel imana gel
-  entry_fav_count: 23
+    seksin en zevkli anı
+  entry_id:  78743139
+  entry_writer: hegel kim lan
+  entry_fav_count: 26
   entry_content: |
-    hasta olmasin sakin?<br/><br/>8 gun az degil, simdiye 50 kere konusmasi gerekirdi.<br/><br/>allahim sen biliyorsun!<br/><br/>dinimiz amin...
-  entry_channels: siyaset
+    bu betimlemeleri en son kota ve hız sorunu yüzünden porno izlemek yerine seks hikayesi okumak zorunda kaldığım zamanlarda görmüştüm. beyler yaşar kemal sizi görse mezarından kalkıp ince memed'i tekrar yazardı yemin ederim.<br/><br/>sert, diri, ıslak, kabarmış, sıcak, kaygan, hemotoksilen-eozinle pembe-mor boyanmış uzuvlar, devrik gözler, devrik cümleler, uçuşan sütyenler, salınan memeler, sigaralar ve amına koyarımlı dirty talklar... ulan bu kadar güzel sevişiyorsunuz da bu ortalıktaki yarak gibi çocuklar nereden çıkıyor a ibineler?
+  entry_channels: anket,ilişkiler
 - entry_name: |
     uzun süredir oynanmayan bir oyunu özlemek
   entry_id:  78745910
@@ -243,6 +235,30 @@ data:
     (bkz: <a class="b" href="/?q=age+of+mythology">age of mythology</a>)
   entry_channels: oyun,teknoloji
 - entry_name: |
+    fakir bir demokrasi mi zengin bir monarşi mi
+  entry_id:  78740033
+  entry_writer: desem olmaz mi
+  entry_fav_count: 13
+  entry_content: |
+    gerçekten "demokratik" olup halkı sefalet içinde olan bir ülke var mı? <br/>demokrasiden kastın oy vermek olmadığının farkındasınız değil mi?
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    sapıkların artması
+  entry_id:  78762030
+  entry_writer: temizlik yapmaya usendim
+  entry_fav_count: 10
+  entry_content: |
+    cezasızlığın artması ve ayyuka çıkmasıdır, sapıklıkla alakası yok. bu insanlar sapık değil; otoritenin sırtını sıvazladığı küçük otorite unsurları. çözülmesi gereken bu "erkeklik" anlayışıdır, cezasızlık politikasıdır.
+  entry_channels: ilişkiler
+- entry_name: |
+    neymar
+  entry_id:  78759198
+  entry_writer: we used to know
+  entry_fav_count: 10
+  entry_content: |
+    kendisi için rusya bir millet bahçesi. yuvarlanıyor durduramıyoruz.
+  entry_channels: spor
+- entry_name: |
     lebron james
   entry_id:  78742909
   entry_writer: partizan turks
@@ -251,36 +267,20 @@ data:
     kendisinin birinci siradan secildigi 2003 draftinin ikinci turunda lakers tarafindan secilmis <a class="b" href="/?q=luke+walton">luke walton</a> onderliginde sampiyonluk kovalamaya karar vermis basketbolcu.
   entry_channels: spor
 - entry_name: |
-    neymar
-  entry_id:  78759198
-  entry_writer: we used to know
+    dünyayı ikiye bölen ikilemler
+  entry_id:  78752993
+  entry_writer: swollenmember
   entry_fav_count: 9
   entry_content: |
-    kendisi için rusya bir millet bahçesi. yuvarlanıyor durduramıyoruz.
-  entry_channels: spor
+    dalga-partikul.
+  entry_channels: anket
 - entry_name: |
-    2 temmuz 2018 ince-kılıçdaroğlu görüşmesi
-  entry_id:  78757827
-  entry_writer: donsuzkarleyone
+    hadım değil idam istiyoruz
+  entry_id:  78762477
+  entry_writer: whatdreamsnevercome
   entry_fav_count: 8
   entry_content: |
-    ince'nin kılıçdaroğluna teşekkür ederek, bir daha ki kongrede başkan adayı olacağını belirteceği görüşmedir. ince belediye başkanı falan olmaz.
-  entry_channels: siyaset,haber
-- entry_name: |
-    leyla aydemir
-  entry_id:  78760461
-  entry_writer: led zeppelin dinleyen kadin
-  entry_fav_count: 7
-  entry_content: |
-    üzgünüm yavrum bu topraklarda doğmayı sen seçmemiştin. umarım <a class="b" href="/?q=cennet">cennet</a> diye bir yer vardır ve umarım siz eylül ile birlikte diğer arkadaşlarınızla koşup oynamaya devam edersiniz.<br/><br/>başka sözüm yok.
-  entry_channels: haber
-- entry_name: |
-    sapıkların artması
-  entry_id:  78762030
-  entry_writer: temizlik yapmaya usendim
-  entry_fav_count: 6
-  entry_content: |
-    cezasızlığın artması ve ayyuka çıkmasıdır, sapıklıkla alakası yok. bu insanlar sapık değil; otoritenin sırtını sıvazladığı küçük otorite unsurları. çözülmesi gereken bu "erkeklik" anlayışıdır, cezasızlık politikasıdır.
+    idam gelse nolacak?<br/>leyla veya eylül ölmeyecek miydi?<br/><br/>olduktan sonra müdahale etmenin ne anlamı var?<br/><br/>(bkz: <a class="b" href="/entry/78747478">#78747478</a>)
   entry_channels: anket
 - entry_name: |
     jack wilshere
@@ -291,14 +291,6 @@ data:
     fenerbahçe'ye transferi bugün içinde açıklanacak olan futbolcu.
   entry_channels: spor
 - entry_name: |
-    hadım değil idam istiyoruz
-  entry_id:  78762597
-  entry_writer: dusunmeyenadam
-  entry_fav_count: 5
-  entry_content: |
-    "malız çünkü, idamın yoz iktidarların elinde nasıl hasarlar verebilecek politik bir araç olduğunu anlamaktan aciziz, türkiye'nin <a class="b" href="/?q=yozla%c5%9fma+endeksi">yozlaşma endeksi</a> puanının yıllardır düşüşte, şu anda da benin ve kuveyt'ten bir puan yüksek, trinidad ve tobago ile surinam'dansa bir puan düşük olduğunu da bilmiyoruz ama ülkemizi dünya lideri sanıyoruz. hukuktan da anlamıyoruz pek, temyiz hakkının öneminin idraki bizim ligimizin iki kalem üstünde ama allahtan yine de oy verebiliyoruz" diye devam etmesi gereken cümledir.
-  entry_channels: anket
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  78736456
   entry_writer: davacu
@@ -308,11 +300,11 @@ data:
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     affa hayır
-  entry_id:  78745353
-  entry_writer: sanal gezgin
+  entry_id:  78740177
+  entry_writer: negatif entropi
   entry_fav_count: 4
   entry_content: |
-    temel insan haklarını güvenceya alma girişimi. <br/>devletin kişilere karşı işlenmiş suçları affetmesi temel insan haklarını çiğnemek ve suçu ve suçluyu teşvik etmektir.<br/>"kader mahkumu" gibi hukuk terminolojisinde yeri olmayan kavramlarla adaletin yok sayılmasına hayır.
+    +1'imle katıldığım önerme. mecliste de suçluların arsız ailelerinden gelecek oy rüşvetine tamâh etmeyecek ve bu ilkesel duruşu gösterecek partilerimiz olmalı. onlara da çağrıda bulunalım.
   entry_channels: siyaset,haber
 - entry_name: |
     kızıl saç vs sarı saç
@@ -331,6 +323,14 @@ data:
     sevgilinin cevresindeki bir kadindan hoslanmazsin ya. <br/>ama kiskandigini sanirlar. aslinda anlatamadigin icine sinmeyen bir sey vardir. kimseyi inandiramazsin.<br/>sevgiline itiraf ettiginde "sacmalama hayatimda zerre onemi yok, senin arkadasin diye konusuyorum." der. <br/>iste o kadin.. <br/>oyle bir hissin varsa dogrudur. <br/>seni "ailem istemiyor" diye terk eder hem de hastaliginla ugrasirken. <br/>sonra o umrunda olmadigini iddia ettigi kadinla birlikte oldugunu ogrenirsin. <br/><br/>o kirli kalplerinizin ekmegini yiyin.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    beyaz tenli kadınlara tavsiyeler
+  entry_id:  78762544
+  entry_writer: birgariptutunamayan
+  entry_fav_count: 3
+  entry_content: |
+    yüzünüzde azıcık problem oluştuysa ısrarla duyacağınız hasta mısın sorularına hazır olmalısınız. <br/>50 faktör güneş kremi candır. sadece yazın değil kışın da ihmal etmeyin mümkünse.<br/>güneş alerjisinden ve beş dakika dahi disarida kalsam kızardığımdan uzun kollu gömlekler daha rahat oluyor sağlık açısından. onun için keten ya da ince dokuma buldan işi kumaşlar uzun dahi giyseniz rahat ettirir. <br/>alerjiye yatkın, tüy degse kızaran bir dokudan bahsediyoruz. olabildigince kimyasaldan uzak durun. doğal ürünler hayat kurtarır.
+  entry_channels: anket,sağlık,magazin
+- entry_name: |
     5 milyon euro yerine 147 milyon euro zarar etmişiz
   entry_id:  78759931
   entry_writer: hasihasi
@@ -339,13 +339,29 @@ data:
     70 milyon euro zarar edeceğimiz belliydi de, 150'yi nasıl ettik lan? galatasaray finansı akıl alır gibi değil. hakikaten anlamıyorum. 30 milyon euro net tansfer gideri vardı, maaş bütçesi aynı kalmıştı, 40 milyon da galatasaray'ın standart faaliyet zararı var, 70 zarar etmesi gerekiyordu. hatta arada ndiaye'yi sattık, hadi onun da parasını piç ettik diyelim, nasıl 150 milyon zarar eder galatasaray ya? hiç akla yakın, açıklanabilir bir tarafı yok bunun.
   entry_channels: spor,haber,ekonomi
 - entry_name: |
-    3000 tl maaş ile geçinemeyen bekar insan
-  entry_id:  78740559
-  entry_writer: fevkaledeninfevkininfevkinde
-  entry_fav_count: 3
+    leyla aydemir
+  entry_id:  78743250
+  entry_writer: hitman470098
+  entry_fav_count: 2
   entry_content: |
-    istanbul/kartal’da, kıytırık bir eve 1500 tl kira ödeyen insan, olabilir.
-  entry_channels: ekonomi
+    bazen süpermen olmak istiyorum işte, o çocuğu bulup kurtarmak ailesine teslim etmek.. inşallah sağdır yaşıyordur..
+  entry_channels: haber
+- entry_name: |
+    izmir chp'nin kalesidir fantezisi
+  entry_id:  78763660
+  entry_writer: baladeer
+  entry_fav_count: 2
+  entry_content: |
+    yıllardır izmir'de yaşıyorum. dünyanın en güzel şehirlerinden biri.<br/>ulan allah aşkına bir antalya'ya bak bir izmir'e bak.<br/>antalya'ya bakıyorum bir şehir nasıl yönetilir nasıl gelişir hayret ediyorum.<br/>izmir'e bakıyorum bir şehir nasıl yönetilemez nasıl geri bırakılır lanet ediyorum.<br/>ya arkadaş bırak izmir'e hiç müdahale etme dünya şehri olur. resmen izmir'in gelişimini engelliyorsun.<br/>bide utanmadan tüm türkiye izmir gibi olsun chp pankart aşmış her yere.<br/>harbiden çok koyunsunuz yaa harbiden çok cahilsiniz.<br/>chp pişmanlıktır
+  entry_channels: siyaset
+- entry_name: |
+    hayata tekrar gelsen ne olmak isterdin
+  entry_id:  78744168
+  entry_writer: profesyonel yazar
+  entry_fav_count: 2
+  entry_content: |
+    dünyaya tekrar gelmemeyi tercih ederdim. lakin eğer bundan kaçış yoksa; intihar etme cesareti olan bir insan yahut dünyanın yaşamak için çok boktan bir yer olduğu kanaat ve bilincine ulaşmamış bir insan olarak gelmeyi isterdim. <br/><br/>nihayetinde intihar düşüncesi özünde geride kalan insanlara yönelik ağır bir suçlamadır. buna değecek tıynette insan olmadığının farkına vardığında yahut bir çıkış için insanlardan medet ummayı kestiğinde yine intihar etmiyorsun. <br/><br/>(bkz: <a class="b" href="/?q=ismet+%c3%b6zel">ismet özel</a>)<br/><br/>ya da bu kadar felsefe kasmaya gerek yok. gümüş kaşıkla doğmuş bir zengin piçi olarak gelmek isterdim. kafa rahat dayı. biraz realist olmak lazım nihayetinde.
+  entry_channels: anket
 - entry_name: |
     girişi mükemmel parçalar
   entry_id:  78760420
@@ -356,11 +372,11 @@ data:
   entry_channels: anket,sanat,müzik
 - entry_name: |
     ekşi sözlük iş ağı
-  entry_id:  78749519
-  entry_writer: pignolo
+  entry_id:  78762780
+  entry_writer: akdenizlininklavyesi
   entry_fav_count: 2
   entry_content: |
-    6 yıllık mimarım. izmir veya ankara'da iş aramaktayım. öncelikli tercihim tasarıma önem veren, mimarlığa gönül veren bir ofiste çalışmak ancak o olmazsa, yeni bir şeyler öğrenebileceğim, kurumsal bir firmanın iyi bir projesinin şantiyesi de olabilir. ilgilenenlere portfolyo ve cv yollayabilirim. <br/>sözlük dışı iletişim için : pignolo410@gmail.com
+    amerika’da olup ne iş olsa yaparım diyen, state fark etmez. birçok state de iş imkanı konusunda yardımcı olurum. eşiniz dostunuz da abd ise yeşillendirebilirsiniz.
   entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
     an itibariyle yazarların nerede olup ne yaptığı
@@ -371,13 +387,13 @@ data:
     olmaktan korktuğum yerdeyim. organize sanayideyim.<br/><br/>not: mühendis.
   entry_channels: anket
 - entry_name: |
-    izmir chp'nin kalesidir fantezisi
-  entry_id:  78763131
-  entry_writer: aptalliket
-  entry_fav_count: 1
+    3000 tl maaş ile geçinemeyen bekar insan
+  entry_id:  78762822
+  entry_writer: hasktr
+  entry_fav_count: 2
   entry_content: |
-    eskiden ben de böyle düşünürdüm, eskiden izmir gerçekten cumhuriyetin kalesiydi, son seçimlerde karşıyaka'nın ortasında bir okulda benim kullandığım seçim sandığından 146 oy chp ye 148 oy akp ye çıktı. ben cumhuriyetten bu kadar faydalanıp cumhuriyete bu kadar düşman başka kitle görmedim.
-  entry_channels: siyaset
+    yoksulluk sınırı 5331 lira yani gayet doğal.
+  entry_channels: ekonomi
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  78745957
@@ -386,20 +402,4 @@ data:
   entry_content: |
     gün tutuşur canım gece tutuşur <br/>yangınlarda tutsak canlar tutuşur <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=oaG07elOab8" title="https://www.youtube.com/watch?v=oaG07elOab8">grup yorum - gün tutuşur</a><br/><br/><a class="b" href="/?q=sivas+katliam%c4%b1">sivas katliamı</a>
   entry_channels: anket,müzik
-- entry_name: |
-    hayata tekrar gelsen ne olmak isterdin
-  entry_id:  78745502
-  entry_writer: led zeppelin dinleyen kadin
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=fahi%c5%9fe">fahişe</a>)<br/><br/>zevkli iş gibi geliyor, hem para kazanıyorsun hem <a class="b" href="/?q=zevk">zevk</a>leniyorsun. ama öyle <a class="b" href="/?q=alelade">alelade</a> değil, fransa'da olmam lazım, belki yağlı boya tablomu filan yapan çıkar.
-  entry_channels: anket
-- entry_name: |
-    beyaz tenli kadınlara tavsiyeler
-  entry_id:  78763366
-  entry_writer: bathory
-  entry_fav_count: 0
-  entry_content: |
-    tavsiyeler başlığına <a class="b" href="/?q=beni+bulun">beni bulun</a> yazmak da ayrı bir zeka belirtisi gerçekten. tebrikler
-  entry_channels: anket,sağlık,magazin
 ---
