@@ -157,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pkR-1jTAp9845yn-4rCDKq8DCSTrQUnmepRTq0V2f1M.jpg?s=6255f65f225c6895b2b82e085a83e786 frameborder=0>
 - entry_name: |
-    Alexandria Ocasio-Cortez sets the record straight
-  entry_id: 8vc49x
-  entry_content: |
-    <img src=https://i.redditmedia.com/Kz9J0idFwmwvxhPRbp4Mcy8AZWhIso6SYs-oFVMUfhA.jpg?s=d04ca27909eac16c8d9772d06175c64a frameborder=0>
-- entry_name: |
     🔥 Lake Tahoe 🔥
   entry_id: 8vd404
   entry_content: |
@@ -247,8 +242,13 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/pbhepyd78j711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Fine, I'll deal with Wendy's myself.
-  entry_id: 8vc6ki
+    Wandering through Paris last night.
+  entry_id: 8veqp5
   entry_content: |
-    <img src=https://i.redditmedia.com/zCkrLn7o0_zA7Uxc8HbhwxrAbVyC_FgFU-mSaH6p2DU.jpg?s=f0fc1e80d4ee4f9a5ac204fb0a7e76ab frameborder=0>
+    <iframe src=https://v.redd.it/irozps4vrf711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The Big Lebowski (1998) When Donnie bowls in the scene before he has his heart attack he does not hit a strike and proceeds to examine his arm, a symptom of an impending heart attack is discomfort in the arm.
+  entry_id: 8vggqq
+  entry_content: |
+    <iframe src=https://v.redd.it/ha4wr177ah711/DASH_9_6_M frameborder=0></iframe>
 ---
