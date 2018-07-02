@@ -172,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2X2iXZVGXNchEJQ2--D2ehmUl41NRzACuEfYUYlyrPo.jpg?s=cbcea341d821265f98ef42eff0cd0dcf frameborder=0>
 - entry_name: |
-    Functional Lego Technic Bridge Girder
-  entry_id: 8vck2m
-  entry_content: |
-    <iframe src=https://v.redd.it/jpmmyh2q5e711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Mexico leftist vows no tolerance on corruption after historic win
   entry_id: 8vidrq
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8vggqq
   entry_content: |
     <iframe src=https://v.redd.it/ha4wr177ah711/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Would dragon meat already be cooked?
+  entry_id: 8vhujm
+  entry_content: |
+    <img src=https://i.redditmedia.com/MB3bAJ7wnLiAx0mr3b1ozCKV2llenbITB5qC_gIJQwQ.jpg?s=5c54f40874bcaa02b0f598ec762a4e67 frameborder=0>
 ---
