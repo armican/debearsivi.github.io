@@ -87,50 +87,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/j9rbLFFjjyEfQlAoYHSXYq4bDSS8_hw0xtWITgM7upg.jpg?s=2bb6e8de33ea17d0fe5b4ca397714fa6 frameborder=0>
 - entry_name: |
-    Aerated Sand Moves Like Water. This is Both Black-magic and Fuckery
-  entry_id: 8vbghv
+    Wandering through Paris last night.
+  entry_id: 8vepzt
   entry_content: |
-    <iframe src=https://v.redd.it/9t14ce21fd711/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/irozps4vrf711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Wife was cleaning 12 year old son's bedroom
   entry_id: 8vbr8l
   entry_content: |
     null
 - entry_name: |
-    Wandering through Paris last night.
-  entry_id: 8vepzt
-  entry_content: |
-    <iframe src=https://v.redd.it/irozps4vrf711/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Big Yawn
   entry_id: 8vdlwz
   entry_content: |
     <iframe src=https://v.redd.it/7gkia55dwe711/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    A man after my own heart
-  entry_id: 8vd558
-  entry_content: |
-    <img src=https://i.redditmedia.com/MOmcCDwKJYDOx1AC-QLKyfd2UuVq_Z62Yiqiaut5QhU.png?s=8c73281264e9888d36e25271c9dd0276 frameborder=0>
 - entry_name: |
     That was not supposed to happen...
   entry_id: 8ve5pn
   entry_content: |
     <img src=https://i.redditmedia.com/f1Lfyyw8xfMHTVKIfNwnMOw4SyQOJWp07fQ_uPqGr7M.jpg?s=e03157383535fd760ee2f4be267b7d4a frameborder=0>
 - entry_name: |
+    A man after my own heart
+  entry_id: 8vd558
+  entry_content: |
+    <img src=https://i.redditmedia.com/MOmcCDwKJYDOx1AC-QLKyfd2UuVq_Z62Yiqiaut5QhU.png?s=8c73281264e9888d36e25271c9dd0276 frameborder=0>
+- entry_name: |
     This and joining the Military for a Camaro
   entry_id: 8vcady
   entry_content: |
     <img src=https://i.redditmedia.com/HoZGxLzJWDlIuTC-tXRm_y_--qJ1brDWrMsTyBCN328.png?s=817109b1810e08b9b0c314b8e92c4d16 frameborder=0>
+- entry_name: |
+    One of my moms friends has a daughter who has cerebral palsy. Today, at 4 years and 10 months old she took her first steps
+  entry_id: 8vf3xw
+  entry_content: |
+    <iframe src=https://v.redd.it/61jm1zfo2g711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     My dad in high school vs. my dad in college. Early to mid 1970’s.
   entry_id: 8vcoc1
   entry_content: |
     <img src=https://i.redditmedia.com/-vttC80owteHbWFu6TeD5QuTLp-u379Z51hMvr9KfII.jpg?s=609ee309c1a056e654c1eae2cff9a86e frameborder=0>
 - entry_name: |
-    One of my moms friends has a daughter who has cerebral palsy. Today, at 4 years and 10 months old she took her first steps
-  entry_id: 8vf3xw
+    The heatwave in Britain made these cans explode in the vending machine
+  entry_id: 8vgpem
   entry_content: |
-    <iframe src=https://v.redd.it/61jm1zfo2g711/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/lGBmD_Xl7XYdKG8zgVDwPw43A1fkx3ttMTKdjxcugB0.jpg?s=ab828f803712f8de030a29b519d5d6ef frameborder=0>
 - entry_name: |
     Hubble's 28th birthday picture of the Lagoon Nebula
   entry_id: 8vctu2
@@ -167,11 +167,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAdvancedBouncyBlueandgoldmackaw&url=https%3A%2F%2Fgfycat.com%2FAdvancedBouncyBlueandgoldmackaw&image=https%3A%2F%2Fthumbs.gfycat.com%2FAdvancedBouncyBlueandgoldmackaw-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    It really do be like that
-  entry_id: 8vctf3
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pnh7JBjzIe_WrdQSsCu04wdn5HuwG9S-8roHSTIs7no.jpg?s=bdef251a5d78a63ed3f99f6381363fda frameborder=0>
-- entry_name: |
     RIP Troy
   entry_id: 8vesxh
   entry_content: |
@@ -186,6 +181,16 @@ data:
   entry_id: 8ve3fr
   entry_content: |
     <img src=https://i.redditmedia.com/GDmxts4zty6548YpbDuZZdWuolgMm_hpX_QLPYagvno.jpg?s=95c0edb0b86fbe40b1dfbb2e28827a68 frameborder=0>
+- entry_name: |
+    It really do be like that
+  entry_id: 8vctf3
+  entry_content: |
+    <img src=https://i.redditmedia.com/Pnh7JBjzIe_WrdQSsCu04wdn5HuwG9S-8roHSTIs7no.jpg?s=bdef251a5d78a63ed3f99f6381363fda frameborder=0>
+- entry_name: |
+    Visual explanation of density
+  entry_id: 8vhhy5
+  entry_content: |
+    <img src=https://i.redditmedia.com/REMGley9l-ShFsJKUfMUuFiRr6nqqPhS2OmDGd0rE4s.gif?fm=jpg&s=36307c1709a25374c9729e5b02f8a96b frameborder=0>
 - entry_name: |
     Alexandria Ocasio-Cortez sets the record straight
   entry_id: 8vc49x
@@ -202,25 +207,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2X2iXZVGXNchEJQ2--D2ehmUl41NRzACuEfYUYlyrPo.jpg?s=cbcea341d821265f98ef42eff0cd0dcf frameborder=0>
 - entry_name: |
-    Functional Lego Technic Bridge Girder
-  entry_id: 8vck2m
+    TV vs Reality
+  entry_id: 8viqoq
   entry_content: |
-    <iframe src=https://v.redd.it/jpmmyh2q5e711/DASH_1_2_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/56b0h0h0hj711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     What was one of the most mysterious post found on Reddit?
   entry_id: 8vdv8b
   entry_content: |
     null
 - entry_name: |
+    Functional Lego Technic Bridge Girder
+  entry_id: 8vck2m
+  entry_content: |
+    <iframe src=https://v.redd.it/jpmmyh2q5e711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Why isn't LeBron taking the same criticism for joining the Lakers that KD got when he joined GSW?
   entry_id: 8vfuat
   entry_content: |
     null
-- entry_name: |
-    The heatwave in Britain made these cans explode in the vending machine
-  entry_id: 8vgpem
-  entry_content: |
-    <img src=https://i.redditmedia.com/lGBmD_Xl7XYdKG8zgVDwPw43A1fkx3ttMTKdjxcugB0.jpg?s=ab828f803712f8de030a29b519d5d6ef frameborder=0>
 - entry_name: |
     Lebron James takes $154 million, 4-year deal with the Lakers.
   entry_id: 8vebjp
@@ -232,23 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iJF6VQTXmZ37vm3GMI3TEcnuD-bNQZq6VL2dGJKi_JM.jpg?s=47515df461e7bdcde69b1cad388e486e frameborder=0>
 - entry_name: |
-    Visual explanation of density
-  entry_id: 8vhhy5
+    Inconvenience fee.
+  entry_id: 8vhz9c
   entry_content: |
-    <img src=https://i.redditmedia.com/REMGley9l-ShFsJKUfMUuFiRr6nqqPhS2OmDGd0rE4s.gif?fm=jpg&s=36307c1709a25374c9729e5b02f8a96b frameborder=0>
-- entry_name: |
-    This advertisment designed to Look like an Amazon Package
-  entry_id: 8ve7la
-  entry_content: |
-    <img src=https://i.redditmedia.com/Va0wQE_HOBw9W5DbOuEeZSf63ZqzZMWd85nyQme5-H0.jpg?s=88956287b00b2c46b3e10aeecfb934dc frameborder=0>
-- entry_name: |
-    Timmy Turner's reply uh... internet? when his parents ask him where he got wish-based things has become more believable over time.
-  entry_id: 8vf1qy
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/pkR-1jTAp9845yn-4rCDKq8DCSTrQUnmepRTq0V2f1M.jpg?s=6255f65f225c6895b2b82e085a83e786 frameborder=0>
 - entry_name: |
     This is astonishing: Inside Van Gogh's painting
   entry_id: 8vfmak
   entry_content: |
     <iframe src=https://v.redd.it/m1muvf2xhg711/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Timmy Turner's reply uh... internet? when his parents ask him where he got wish-based things has become more believable over time.
+  entry_id: 8vf1qy
+  entry_content: |
+    null
 ---
