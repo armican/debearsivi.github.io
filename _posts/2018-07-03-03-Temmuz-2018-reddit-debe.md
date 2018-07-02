@@ -122,11 +122,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFittingShallowHorsemouse&url=https%3A%2F%2Fgfycat.com%2FFittingShallowHorsemouse&image=https%3A%2F%2Fthumbs.gfycat.com%2FFittingShallowHorsemouse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Hubble's 28th birthday picture of the Lagoon Nebula
-  entry_id: 8vctu2
-  entry_content: |
-    <img src=https://i.redditmedia.com/u5RL_wBPfSq2GY7V1XCz9wGYFBRHT3uR5ujg07L36HU.jpg?s=85f0f5a5fe56b0f0ba025758ba0397cd frameborder=0>
-- entry_name: |
     Comcast's Xfinity Mobile Is Now Throttling Resolution, And Speed. Even UNLIMITED Users. Details Inside.
   entry_id: 8vet3z
   entry_content: |
@@ -136,11 +131,6 @@ data:
   entry_id: 8vhm0m
   entry_content: |
     null
-- entry_name: |
-    Kratos in Chinese Mythology
-  entry_id: 8vctfw
-  entry_content: |
-    <img src=https://i.redditmedia.com/3hENn6DSHsNIaM9X8qVujJrcxonu7SM5ackODYhkv20.jpg?s=f0a3521f89cb7d7451fe17a501c0cb69 frameborder=0>
 - entry_name: |
     RIP Troy
   entry_id: 8vesxh
@@ -171,11 +161,6 @@ data:
   entry_id: 8vi8b2
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/NV0x-dYoCNI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    It really do be like that
-  entry_id: 8vctf3
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pnh7JBjzIe_WrdQSsCu04wdn5HuwG9S-8roHSTIs7no.jpg?s=bdef251a5d78a63ed3f99f6381363fda frameborder=0>
 - entry_name: |
     What was one of the most mysterious post found on Reddit?
   entry_id: 8vdv8b
@@ -251,4 +236,19 @@ data:
   entry_id: 8vhybx
   entry_content: |
     <iframe src=https://v.redd.it/m56ju5brui711/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    This advertisment designed to Look like an Amazon Package
+  entry_id: 8ve7la
+  entry_content: |
+    <img src=https://i.redditmedia.com/Va0wQE_HOBw9W5DbOuEeZSf63ZqzZMWd85nyQme5-H0.jpg?s=88956287b00b2c46b3e10aeecfb934dc frameborder=0>
+- entry_name: |
+    Missing Thai boys 'found alive' in caves after nine days
+  entry_id: 8vjnng
+  entry_content: |
+    <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
+- entry_name: |
+    The Big Lebowski (1998) When Donnie bowls in the scene before he has his heart attack he does not hit a strike and proceeds to examine his arm, a symptom of an impending heart attack is discomfort in the arm.
+  entry_id: 8vggqq
+  entry_content: |
+    <iframe src=https://v.redd.it/ha4wr177ah711/DASH_9_6_M frameborder=0></iframe>
 ---
