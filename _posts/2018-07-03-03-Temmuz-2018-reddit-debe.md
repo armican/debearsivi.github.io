@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/36CXLvWLChzPwWp-M5kTYJjC1aQ0vz0UBJEulI_2zN0.jpg?s=4147ed7a18e765fe6552b757857dad29 frameborder=0>
 - entry_name: |
-    Functional LEGO technic bridge girder
-  entry_id: 8vc0xp
-  entry_content: |
-    <iframe src=https://v.redd.it/rbs8iv9zsd711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     I told you sir, that attack don't work on me
   entry_id: 8vfspc
   entry_content: |
@@ -52,6 +47,11 @@ data:
   entry_id: 8veqse
   entry_content: |
     <img src=https://i.redditmedia.com/Fk92nrOy6SS7X-FKhJ2N6mphCbQYDfVhRib6v_Mgb2U.jpg?s=4bdfdac4adf2588947a949f2d30c511b frameborder=0>
+- entry_name: |
+    Functional LEGO technic bridge girder
+  entry_id: 8vc0xp
+  entry_content: |
+    <iframe src=https://v.redd.it/rbs8iv9zsd711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Cartoonist Chuck Jones' rules for Wild E. Coyote and the Roadrunner
   entry_id: 8vc12v
@@ -63,19 +63,24 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wHvqey9pjAsWzCZsChX4pvTSlE254O6nTXvqQ684iqw.jpg?s=7f737e8bbc17fbd190295644f432526e frameborder=0>
 - entry_name: |
-  entry_id: 8ve9rs
-  entry_content: |
-    <img src=https://i.redditmedia.com/QSfFLjVXDbav4W69QSRRAYwTSBSNMsdFaTQT5nh0KN0.jpg?s=4548ea98f96e7d7943caa26886fd9121 frameborder=0>
-- entry_name: |
     “I would also like to be held”
   entry_id: 8vevj3
   entry_content: |
     <iframe src=https://v.redd.it/fc4sc3jcwf711/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 8ve9rs
+  entry_content: |
+    <img src=https://i.redditmedia.com/QSfFLjVXDbav4W69QSRRAYwTSBSNMsdFaTQT5nh0KN0.jpg?s=4548ea98f96e7d7943caa26886fd9121 frameborder=0>
+- entry_name: |
     South Korea implements 52 hour maximum work week aimed at promoting work-life balance.
   entry_id: 8vf5pv
   entry_content: |
     <img src=https://i.redditmedia.com/j9rbLFFjjyEfQlAoYHSXYq4bDSS8_hw0xtWITgM7upg.jpg?s=2bb6e8de33ea17d0fe5b4ca397714fa6 frameborder=0>
+- entry_name: |
+    TV vs Reality
+  entry_id: 8viqoq
+  entry_content: |
+    <iframe src=https://v.redd.it/56b0h0h0hj711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Wandering through Paris last night.
   entry_id: 8vepzt
@@ -107,15 +112,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/61jm1zfo2g711/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    My dad in high school vs. my dad in college. Early to mid 1970’s.
-  entry_id: 8vcoc1
-  entry_content: |
-    <img src=https://i.redditmedia.com/-vttC80owteHbWFu6TeD5QuTLp-u379Z51hMvr9KfII.jpg?s=609ee309c1a056e654c1eae2cff9a86e frameborder=0>
-- entry_name: |
     The heatwave in Britain made these cans explode in the vending machine
   entry_id: 8vgpem
   entry_content: |
     <img src=https://i.redditmedia.com/lGBmD_Xl7XYdKG8zgVDwPw43A1fkx3ttMTKdjxcugB0.jpg?s=ab828f803712f8de030a29b519d5d6ef frameborder=0>
+- entry_name: |
+    My dad in high school vs. my dad in college. Early to mid 1970’s.
+  entry_id: 8vcoc1
+  entry_content: |
+    <img src=https://i.redditmedia.com/-vttC80owteHbWFu6TeD5QuTLp-u379Z51hMvr9KfII.jpg?s=609ee309c1a056e654c1eae2cff9a86e frameborder=0>
 - entry_name: |
     Hubble's 28th birthday picture of the Lagoon Nebula
   entry_id: 8vctu2
@@ -126,6 +131,16 @@ data:
   entry_id: 8vcba9
   entry_content: |
     <img src=https://i.redditmedia.com/-Vb2bqo8x3-LvYRGwiiIXILuna6hxm0YN_8sEg4dHjs.png?s=1f38509dc4d0cceaeb024688902dd548 frameborder=0>
+- entry_name: |
+    Visual explanation of density
+  entry_id: 8vhhy5
+  entry_content: |
+    <img src=https://i.redditmedia.com/REMGley9l-ShFsJKUfMUuFiRr6nqqPhS2OmDGd0rE4s.gif?fm=jpg&s=36307c1709a25374c9729e5b02f8a96b frameborder=0>
+- entry_name: |
+    Comcast's Xfinity Mobile Is Now Throttling Resolution, And Speed. Even UNLIMITED Users. Details Inside.
+  entry_id: 8vet3z
+  entry_content: |
+    null
 - entry_name: |
     S Q W E R S H
   entry_id: 8vd5k8
@@ -147,11 +162,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IQH5qRnVidAyRYisGy_LExwr3G-wZfhDMjXDdvk0lj8.jpg?s=1d0e72c36264c276c51cac659f819c6d frameborder=0>
 - entry_name: |
-    Comcast's Xfinity Mobile Is Now Throttling Resolution, And Speed. Even UNLIMITED Users. Details Inside.
-  entry_id: 8vet3z
-  entry_content: |
-    null
-- entry_name: |
     One of the most thoughtful gifts I've ever seen.
   entry_id: 8ve3fr
   entry_content: |
@@ -162,10 +172,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Pnh7JBjzIe_WrdQSsCu04wdn5HuwG9S-8roHSTIs7no.jpg?s=bdef251a5d78a63ed3f99f6381363fda frameborder=0>
 - entry_name: |
-    Visual explanation of density
-  entry_id: 8vhhy5
+    Inconvenience fee.
+  entry_id: 8vhz9c
   entry_content: |
-    <img src=https://i.redditmedia.com/REMGley9l-ShFsJKUfMUuFiRr6nqqPhS2OmDGd0rE4s.gif?fm=jpg&s=36307c1709a25374c9729e5b02f8a96b frameborder=0>
+    <img src=https://i.redditmedia.com/pkR-1jTAp9845yn-4rCDKq8DCSTrQUnmepRTq0V2f1M.jpg?s=6255f65f225c6895b2b82e085a83e786 frameborder=0>
 - entry_name: |
     Alexandria Ocasio-Cortez sets the record straight
   entry_id: 8vc49x
@@ -182,13 +192,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2X2iXZVGXNchEJQ2--D2ehmUl41NRzACuEfYUYlyrPo.jpg?s=cbcea341d821265f98ef42eff0cd0dcf frameborder=0>
 - entry_name: |
-    TV vs Reality
-  entry_id: 8viqoq
-  entry_content: |
-    <iframe src=https://v.redd.it/56b0h0h0hj711/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     What was one of the most mysterious post found on Reddit?
   entry_id: 8vdv8b
+  entry_content: |
+    null
+- entry_name: |
+    Why isn't LeBron taking the same criticism for joining the Lakers that KD got when he joined GSW?
+  entry_id: 8vfuat
   entry_content: |
     null
 - entry_name: |
@@ -197,40 +207,35 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jpmmyh2q5e711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Why isn't LeBron taking the same criticism for joining the Lakers that KD got when he joined GSW?
-  entry_id: 8vfuat
-  entry_content: |
-    null
-- entry_name: |
     Lebron James takes $154 million, 4-year deal with the Lakers.
   entry_id: 8vebjp
   entry_content: |
     <img src=https://i.redditmedia.com/cxd0YNozQ-ocW65OVfNhkrSc90m3ECL3tHNgvnRMIV8.jpg?s=9cec3aa28a390fb402482be22eac8a5e frameborder=0>
-- entry_name: |
-    *jim face*
-  entry_id: 8vdgac
-  entry_content: |
-    <img src=https://i.redditmedia.com/iJF6VQTXmZ37vm3GMI3TEcnuD-bNQZq6VL2dGJKi_JM.jpg?s=47515df461e7bdcde69b1cad388e486e frameborder=0>
-- entry_name: |
-    Inconvenience fee.
-  entry_id: 8vhz9c
-  entry_content: |
-    <img src=https://i.redditmedia.com/pkR-1jTAp9845yn-4rCDKq8DCSTrQUnmepRTq0V2f1M.jpg?s=6255f65f225c6895b2b82e085a83e786 frameborder=0>
 - entry_name: |
     This is astonishing: Inside Van Gogh's painting
   entry_id: 8vfmak
   entry_content: |
     <iframe src=https://v.redd.it/m1muvf2xhg711/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Timmy Turner's reply uh... internet? when his parents ask him where he got wish-based things has become more believable over time.
-  entry_id: 8vf1qy
+    LPT: iOS has an option to turn off apps asking to rate them
+  entry_id: 8vhm0m
   entry_content: |
     null
+- entry_name: |
+    *jim face*
+  entry_id: 8vdgac
+  entry_content: |
+    <img src=https://i.redditmedia.com/iJF6VQTXmZ37vm3GMI3TEcnuD-bNQZq6VL2dGJKi_JM.jpg?s=47515df461e7bdcde69b1cad388e486e frameborder=0>
 - entry_name: |
     At last, we will have revenge.
   entry_id: 8vhhwp
   entry_content: |
     <img src=https://i.redditmedia.com/Cq8bQoloAIxdWehGH3AoE6ay0HEHaZlIoxIfqZxVe0A.jpg?s=4208808d2f64bfe2931ccb5df5038a41 frameborder=0>
+- entry_name: |
+    Timmy Turner's reply uh... internet? when his parents ask him where he got wish-based things has become more believable over time.
+  entry_id: 8vf1qy
+  entry_content: |
+    null
 - entry_name: |
     This advertisment designed to Look like an Amazon Package
   entry_id: 8ve7la
@@ -242,13 +247,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1YsQTCRowoHfJC6BeYK3grBoLXRFAz3iyVwwp_WfyTw.jpg?s=03159855258bdf2a7920969ee59d3688 frameborder=0>
 - entry_name: |
-    Big cat, cute cat
-  entry_id: 8vcqcl
+    I won my second ever US National Yoyo Championship today using the song “Freebird” by Lynyrd Skynyrd and felt like an actual rockstar for 3 minutes while playing with a child’s toy
+  entry_id: 8vi8b2
   entry_content: |
-    <iframe src=https://v.redd.it/b53ermoh1c711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    They should also add a top 8 friends to Twitter
-  entry_id: 8veqdu
-  entry_content: |
-    <img src=https://i.redditmedia.com/J54aa91trGVfdCrpbgx2O3zZNGEd0DrbWbk_jHEtyp8.jpg?s=e22639c40ba179ec3ca88b79e1e29b4f frameborder=0>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/NV0x-dYoCNI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
