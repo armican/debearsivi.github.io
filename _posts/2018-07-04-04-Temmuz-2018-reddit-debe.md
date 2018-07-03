@@ -3,11 +3,6 @@ layout: post
 title: 04 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    Power Up.
-  entry_id: 8vlk3h
-  entry_content: |
-    <iframe src=https://v.redd.it/tnmqnxot7l711/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Japanese team leaves a thank you note in Russian inside their locker room despite their heartbreaking 2-3 defeat to Belgium.
   entry_id: 8vp1x3
   entry_content: |
@@ -57,11 +52,6 @@ data:
   entry_id: 8vmp0l
   entry_content: |
     null
-- entry_name: |
-    Anon's dad was the best.
-  entry_id: 8vljdw
-  entry_content: |
-    <img src=https://i.redditmedia.com/fESH97lOMGjHR3_303WxmvXX9GLEEQFMfGMJ14LCXg0.png?s=c624c5acc1f8f0c75cc69a65a5ccee86 frameborder=0>
 - entry_name: |
     Brooklyn Nine-Nine cast supports Terry Crews
   entry_id: 8vo19n
@@ -250,4 +240,14 @@ data:
   entry_id: 8vra4p
   entry_content: |
     <img src=https://i.redditmedia.com/D-dwvQjZDUphUAPcDm-7X2VKEmzDboAi6hgJJxJKAmk.jpg?s=408d24387519fbf235420c0eccb51ae6 frameborder=0>
+- entry_name: |
+    Bonus points for the steal at the end
+  entry_id: 8vo11j
+  entry_content: |
+    <iframe src=https://v.redd.it/3ry332trum711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    For The First Time, Scientists Tracked a Wolf Leaving The Radioactive Chernobyl Zone.
+  entry_id: 8vovnj
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZDlC52dmMMpqPLsF9R1U00IwAbKEc3bQJq4D6vqwJHA.jpg?s=6c0bd2305a84a34a2ac541dc297f58af frameborder=0>
 ---
