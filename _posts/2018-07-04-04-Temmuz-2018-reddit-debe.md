@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_a6ZGI8olChzxvkwZ0d8qN8RF35H92wWF5PSenHAkDs.jpg?s=02f973655590ab4b29dfabf9eb4c29fa frameborder=0>
 - entry_name: |
-    The face swap that almost looks normal.
-  entry_id: 8vkqd0
-  entry_content: |
-    <img src=https://i.redditmedia.com/vfJezWQ8DHob_ykyrbEjiWVcUYJ4eTjE0TFp_83ufY8.jpg?s=7f62b0d8b6e41cdf96f5503201cec940 frameborder=0>
-- entry_name: |
     Nap time
   entry_id: 8vo61t
   entry_content: |
@@ -246,8 +241,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZDlC52dmMMpqPLsF9R1U00IwAbKEc3bQJq4D6vqwJHA.jpg?s=6c0bd2305a84a34a2ac541dc297f58af frameborder=0>
 - entry_name: |
-    Cabin in the woods, voxel art, 732x785
-  entry_id: 8vknqy
+    TIL In 1989 a naked man climbed a flagpole at a McDonald's in Anchorage, Alaska. He stretched his arms out and nosedived onto the pavement. There were no drugs in his system, and he has never been identified.
+  entry_id: 8vlsq2
   entry_content: |
-    <iframe src=https://v.redd.it/un8vktncok711/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/sFrRyVQ9UjATHQVHhcW56yYkaTOHgVgvMQB7OUwNwuo.jpg?s=ff711bcc8f4949d0a8ef4982e806a901 frameborder=0>
+- entry_name: |
+    Recipe for a prank
+  entry_id: 8vr1ho
+  entry_content: |
+    <iframe src=https://v.redd.it/4ibd53ekjp711/DASH_2_4_M frameborder=0></iframe>
 ---
