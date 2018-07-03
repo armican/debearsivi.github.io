@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/YxLhAkY3hoRyYLQyHAQBP6J6wQstA20eVt5kl75s96E.jpg?s=06c783ed3d951e13a87acf52e2880069 frameborder=0>
 - entry_name: |
-    PSA: You will not be banned unless you have a comment or post in this sub
-  entry_id: 8vl3iz
-  entry_content: |
-    <img src=https://i.redditmedia.com/2l3SuW8DeSEsNiDUcE_SyoqoqkVq0cmpAVOFVXbcJRQ.jpg?s=517485743cd0990f13dc44e852514248 frameborder=0>
-- entry_name: |
     Grandma is a traitor!
   entry_id: 8vlnjs
   entry_content: |
@@ -251,4 +246,8 @@ data:
   entry_id: 8vovnj
   entry_content: |
     <img src=https://i.redditmedia.com/ZDlC52dmMMpqPLsF9R1U00IwAbKEc3bQJq4D6vqwJHA.jpg?s=6c0bd2305a84a34a2ac541dc297f58af frameborder=0>
+- entry_name: |
+  entry_id: 8vnrvy
+  entry_content: |
+    <img src=https://i.redditmedia.com/E0SgEKKuQC-2IGPL1TRG2-CzdJB7ptCGMZ7P0Sh0auk.jpg?s=9f1406cd12e99ed26e4d5b10855e110f frameborder=0>
 ---
