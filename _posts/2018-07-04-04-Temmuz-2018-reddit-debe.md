@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vwr4ZKc8CZ-yg7M040fgSKiqxeF2mRdKZdNtzaP11q4.gif?fm=jpg&s=9bca1cf4983e12218c00ce05e7430df1 frameborder=0>
 - entry_name: |
-    Grandma is a traitor!
-  entry_id: 8vlnjs
-  entry_content: |
-    <img src=https://i.redditmedia.com/JwuhVqRU5xzQ4G99yYZYN6qxGIGZ1Qx4-u5uM13Zjx8.png?s=d3fea193ae9b1eb1208b6c01726f53b8 frameborder=0>
-- entry_name: |
     This girl was burned in a house fire aged 9 and dealt with crippling injuries until she was brought to the US for the gift of treatment. She now states that she wants to be a paediatric doctor when she grows up.
   entry_id: 8vscmw
   entry_content: |
@@ -116,11 +111,6 @@ data:
   entry_id: 8vmi5c
   entry_content: |
     <img src=https://i.redditmedia.com/c6ftcHd9Jd1x4Cp5VCerBUaevma17wTs-k5wJ7unsak.jpg?s=28f4648e697acd0477d613cf5589a8df frameborder=0>
-- entry_name: |
-    Counterattacking team goal wins it late for Belgium
-  entry_id: 8vlqru
-  entry_content: |
-    <iframe src=https://v.redd.it/76tpxml3cl711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Trump declines request to lower flags in memory of Capital Gazette shooting victims
   entry_id: 8vm7y9
@@ -250,4 +240,13 @@ data:
   entry_id: 8vovnj
   entry_content: |
     <img src=https://i.redditmedia.com/ZDlC52dmMMpqPLsF9R1U00IwAbKEc3bQJq4D6vqwJHA.jpg?s=6c0bd2305a84a34a2ac541dc297f58af frameborder=0>
+- entry_name: |
+    me_irl
+  entry_id: 8vsap7
+  entry_content: |
+    <img src=https://i.redditmedia.com/2ltC-fs-B_gBcqY7htZUlf0wWwVRfmj6IPw-CIyA2wk.jpg?s=facb7b7c552307d029f6ed8f0de5d671 frameborder=0>
+- entry_name: |
+  entry_id: 8vnrvy
+  entry_content: |
+    <img src=https://i.redditmedia.com/E0SgEKKuQC-2IGPL1TRG2-CzdJB7ptCGMZ7P0Sh0auk.jpg?s=9f1406cd12e99ed26e4d5b10855e110f frameborder=0>
 ---
