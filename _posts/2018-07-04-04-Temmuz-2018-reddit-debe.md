@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jw0bHangtYLG2J2V6P6YkZijrp9A-40WdHILFIAVezs.jpg?s=cb048c4218176a2973e27e9b3aabab8a frameborder=0>
 - entry_name: |
-    Dude gives the ball to another kid
-  entry_id: 8vl4ph
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGrizzledShadowyGoose&url=https%3A%2F%2Fgfycat.com%2FGrizzledShadowyGoose&image=https%3A%2F%2Fthumbs.gfycat.com%2FGrizzledShadowyGoose-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=258 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     I have contacted the admins to see if they will allow me to ban half the sub but they have not answered yet. Let’s get their attention.
   entry_id: 8vnf55
   entry_content: |
@@ -177,11 +172,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Traditional lace being handmade
-  entry_id: 8vl3z5
-  entry_content: |
-    <iframe src=https://v.redd.it/feedj2etxk711/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     TFW you initially planned to ban 50,000 users but now there's nearly 200k subscribers, meaning half would only bring us back to 100k, where we were when we started
   entry_id: 8vpi2h
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8vnrvy
   entry_content: |
     <img src=https://i.redditmedia.com/E0SgEKKuQC-2IGPL1TRG2-CzdJB7ptCGMZ7P0Sh0auk.jpg?s=9f1406cd12e99ed26e4d5b10855e110f frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8vqn8f
+  entry_content: |
+    <img src=https://i.redditmedia.com/Letpc0wVu5SPCVobyMvdDJxipqbgg08BudF-IrtyO7A.jpg?s=de5e342c39bd280474e92e57147f3d02 frameborder=0>
+- entry_name: |
+    Big boy
+  entry_id: 8vqqd5
+  entry_content: |
+    <img src=https://i.redditmedia.com/EEIU3N3Q82RgHGOi00WSA8M9BXK9f8bFuY2rSEwMjug.jpg?s=42b5bd54494a739494bbf1deb2bf2474 frameborder=0>
 ---
