@@ -3,11 +3,6 @@ layout: post
 title: 05 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    A couple months ago, reddit taught me that newlyweds used to plant sycamore trees on both sides the walkway leading to their house, then join them together to symbolize two becoming one. Today I saw it for the first time.
-  entry_id: 8vujfj
-  entry_content: |
-    <img src=https://i.redditmedia.com/lM9aV7L_oNm8Qt2CljH88tOCKrfTnM2J2KkwUkNKZBA.jpg?s=a5c94c63ab1d214159013c279fb30c6d frameborder=0>
-- entry_name: |
     This picture of my parents never actually happened, but two separate photos that fit perfectly together
   entry_id: 8vwykd
   entry_content: |
@@ -63,11 +58,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Lego upvote machine #01: It does one rotation for every upvote this post gets
-  entry_id: 8vujmb
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSoggySizzlingJerboa&url=https%3A%2F%2Fgfycat.com%2FSoggySizzlingJerboa&image=https%3A%2F%2Fthumbs.gfycat.com%2FSoggySizzlingJerboa-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     A lost dog strays into a jungle. A lion sees this from a distance and says with caution this guy looks edible, never seen his kind before.
   entry_id: 8vx7ym
   entry_content: |
@@ -91,11 +81,6 @@ data:
   entry_id: 8vvbl3
   entry_content: |
     <img src=https://i.redditmedia.com/UDWRRHFreri0Wj-bu07zaxyOVt4cczAa0IZbY5qPp_g.jpg?s=48e2df16a39df28e57084e580486cbf2 frameborder=0>
-- entry_name: |
-    Rise of the Tomb Raider in 8k
-  entry_id: 8vyh06
-  entry_content: |
-    <img src=https://i.redditmedia.com/-Q4GbsMcTsrF8tBOBZ8W0M9-L6db_zGAFfIKqwitIG4.jpg?s=7fee69a514c92d924e4db5eebb1a6664 frameborder=0>
 - entry_name: |
     Infinite High Fives!
   entry_id: 8vx9uu
@@ -212,11 +197,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Dish Network sent out advertisements in envelopes that make it look like a special occasion card. Also, trying to manipulate people by making the cards look handmade by a child.
-  entry_id: 8vuk2c
-  entry_content: |
-    <img src=https://i.redditmedia.com/M1dNcbcat-sp7GUdvMzRMbt7e1KWjn_JIZ4Jelm4JFQ.jpg?s=3d45c6b7053992460a8711eefac1683c frameborder=0>
-- entry_name: |
     Absolute Badass nearing 39K karma!
   entry_id: 8w1era
   entry_content: |
@@ -250,4 +230,23 @@ data:
   entry_id: 8vxoih
   entry_content: |
     <img src=https://i.redditmedia.com/2SXu5bWfszq1vOTCTJoPavA7IQsqpZ0EKXSBnFaFAf8.jpg?s=ce58db22d74b6f5cd862e632658bda0c frameborder=0>
+- entry_name: |
+    Two Saudi students drown while trying to save American children from drowning in US river
+  entry_id: 8w1hq0
+  entry_content: |
+    <img src=https://i.redditmedia.com/KFpINwjK72fo2GfMC9aAKc25ZfcrrWTvfOYLTvOXxk8.jpg?s=2dc27c3d37425aa502b9781a23a9596d frameborder=0>
+- entry_name: |
+    Skyrim logic
+  entry_id: 8w1alp
+  entry_content: |
+    <img src=https://i.redditmedia.com/cO8Wyq6o09qAqgPUwVAw2NJeZn6HsG1vPoD4xP0uHgI.png?s=97f61e7d9afbaac90eceec66067f1ce8 frameborder=0>
+- entry_name: |
+  entry_id: 8vx0pi
+  entry_content: |
+    <img src=https://i.redditmedia.com/ktJ7KXjwYiT8_PEUjreSyE4b3v2STEC3WiNrQA6XqAg.jpg?s=09c843d00ac7b377c2ca91df4ce87939 frameborder=0>
+- entry_name: |
+    Sweet sister-in-law reaches out & my faith in humanity is restored
+  entry_id: 8vuwyw
+  entry_content: |
+    <img src=https://i.redditmedia.com/-5rRIJH03j0H3wQQs6VEsYrzg32NW1YzGFdPnHqM6FI.jpg?s=2b4915ce19cb91d0972397ec151e89f7 frameborder=0>
 ---
