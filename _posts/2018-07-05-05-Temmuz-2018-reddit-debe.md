@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/M1WURn7we_falZrZWs67GZ8M8h6u7EUov9MnvSY6Eh0.png?s=457925e37bc4d65cc1a4cef1c95a813b frameborder=0>
 - entry_name: |
-    Zooming zooming
-  entry_id: 8vtww0
-  entry_content: |
-    <iframe src=https://v.redd.it/l068wd53mr711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     me irl
   entry_id: 8vzmij
   entry_content: |
@@ -38,6 +33,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_c2ZaNwFLjxLWHSBPJ_jMrDzJyGwj0k1ut33xeDH2nQ.jpg?s=58345dac3bc021d63a55e1a46fe74ced frameborder=0>
 - entry_name: |
+    Australian parents who refuse to vaccinate their children will now be given monthly fines
+  entry_id: 8w020u
+  entry_content: |
+    <img src=https://i.redditmedia.com/7nrGDJxaml_PWACjy6FXYpxcc7S7Tg_rmbFb0T9F7Jo.jpg?s=b88729c82c54906a9caa500d2c6058b0 frameborder=0>
+- entry_name: |
     TIL that the first commercial passenger airliner to be shot down by hostile forces was refurbished, returned to service, and later became the third commercial passenger airliner to be shot down by hostile forces.
   entry_id: 8vwi16
   entry_content: |
@@ -47,11 +47,6 @@ data:
   entry_id: 8vvk7x
   entry_content: |
     <img src=https://i.redditmedia.com/bgFN1rCqc6ZjE6hcYp6HZJucQCTq2vCIj627KCtvc40.png?s=88167cc46a9cdf62f4955413d2abf0e6 frameborder=0>
-- entry_name: |
-    Australian parents who refuse to vaccinate their children will now be given monthly fines
-  entry_id: 8w020u
-  entry_content: |
-    <img src=https://i.redditmedia.com/7nrGDJxaml_PWACjy6FXYpxcc7S7Tg_rmbFb0T9F7Jo.jpg?s=b88729c82c54906a9caa500d2c6058b0 frameborder=0>
 - entry_name: |
     But there’s ice in Antartica right?
   entry_id: 8vw7wj
@@ -73,6 +68,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    The ultimate wednesday.
+  entry_id: 8vzrwj
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
     Senate Intel concludes Russia interfered in 2016 presidential election, preferred Trump over Clinton
   entry_id: 8vvcg0
   entry_content: |
@@ -83,11 +83,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The ultimate wednesday.
-  entry_id: 8vzrwj
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
   entry_id: 8vvbl3
   entry_content: |
     <img src=https://i.redditmedia.com/UDWRRHFreri0Wj-bu07zaxyOVt4cczAa0IZbY5qPp_g.jpg?s=48e2df16a39df28e57084e580486cbf2 frameborder=0>
@@ -96,6 +91,11 @@ data:
   entry_id: 8vy5mk
   entry_content: |
     <iframe src=https://v.redd.it/bh1qqywugu711/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    I understand, Seth
+  entry_id: 8w18vk
+  entry_content: |
+    <img src=https://i.redditmedia.com/t_Q3R_RP5qdw9BxYdvIcaWXq6X5AirrA0BWm2s-D34k.jpg?s=c6bae6a09a5630f9f0b72a37a05eb716 frameborder=0>
 - entry_name: |
     Rise of the Tomb Raider in 8k
   entry_id: 8vyh06
@@ -117,30 +117,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/40i_lVMYi7Cyhaot-MXH-wCBuGOdRyuGz9ij41e2xaI.jpg?s=cf8c2688b3d434870491b3cb5e46a43e frameborder=0>
 - entry_name: |
-    I'll Scratch My Ex's Car, WCGW?
-  entry_id: 8vtwwx
-  entry_content: |
-    <iframe src=https://v.redd.it/c4k8adp4mr711/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The epitome of manliness and class
   entry_id: 8vwtxk
   entry_content: |
     <img src=https://i.redditmedia.com/8CWPYZGaJnsYPQZl29M9wk-Zvzqom3ixphdtvYIrlRc.jpg?s=117691f9fdd6de509b6d7e50cecc6050 frameborder=0>
+- entry_name: |
+    MRW my mom asks if the fake internet points are worth spending the Fourth of July locked in my room making gifs
+  entry_id: 8w0skw
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWideeyedBigheartedAndeancondor&url=https%3A%2F%2Fgfycat.com%2FWideeyedBigheartedAndeancondor&image=https%3A%2F%2Fthumbs.gfycat.com%2FWideeyedBigheartedAndeancondor-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=325 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Findings that Russia meddled to help Trump beat Clinton were 'accurate and on point': Senate intel panel
   entry_id: 8vvrj1
   entry_content: |
     <img src=https://i.redditmedia.com/IOgY-1NAQVBoueMg_RJJW0crFKBTSxad-YNHsy7c-vA.jpg?s=ae4aedbf04b42b7f5089df45d202e8aa frameborder=0>
 - entry_name: |
-    Reflection of tunnel in mirrored sunglasses
-  entry_id: 8vvn7j
-  entry_content: |
-    <img src=https://i.redditmedia.com/KpSrY2xcbMeVG22pRcxjnG_82aD4VXM2z5wQs76jhY0.jpg?s=03f6269d613e837c694a413b95d14fa5 frameborder=0>
-- entry_name: |
     God bless America
   entry_id: 8vxq8s
   entry_content: |
     <img src=https://i.redditmedia.com/fssw2EXkTJ0BJr0HC63Rts5-B8RksKkn6F1iPipp8iQ.jpg?s=170be80697f8170440d4c7071a63e7a8 frameborder=0>
+- entry_name: |
+    Reflection of tunnel in mirrored sunglasses
+  entry_id: 8vvn7j
+  entry_content: |
+    <img src=https://i.redditmedia.com/KpSrY2xcbMeVG22pRcxjnG_82aD4VXM2z5wQs76jhY0.jpg?s=03f6269d613e837c694a413b95d14fa5 frameborder=0>
 - entry_name: |
     ......fuck
   entry_id: 8vu4hx
@@ -162,39 +162,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/uev5xdqqqs711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    This thalassophobia inspired drawing took me over 30 hours to finish. I love deep sea creatures.
+  entry_id: 8w0mjk
+  entry_content: |
+    <img src=https://i.redditmedia.com/MdicSkIITV2FSSFOOLw-9CzVFE2D0u2yGhQIcs57Bec.jpg?s=0afcd1947ef8abb75a47364fc9746259 frameborder=0>
+- entry_name: |
     🔥 Dew covered ladybug. 🔥
   entry_id: 8vx2hi
   entry_content: |
     <img src=https://i.redditmedia.com/hHndTfjtH2ES6HFP6MU55I0e6bu6zKcyxj18bwwRT2c.jpg?s=c562f83cc1f110a6eb3dbcbb720437c7 frameborder=0>
 - entry_name: |
-  entry_id: 8vtv6z
+    The truth
+  entry_id: 8vzbul
   entry_content: |
-    <img src=https://i.redditmedia.com/Tfq_pyJYjej_DnFTBnQntHukw6fSmLQJ7ChNmlXmPwM.jpg?s=a7c4721705bdcff74ec1414dbf7a872b frameborder=0>
-- entry_name: |
-    MRW my mom asks if the fake internet points are worth spending the Fourth of July locked in my room making gifs
-  entry_id: 8w0skw
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWideeyedBigheartedAndeancondor&url=https%3A%2F%2Fgfycat.com%2FWideeyedBigheartedAndeancondor&image=https%3A%2F%2Fthumbs.gfycat.com%2FWideeyedBigheartedAndeancondor-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=325 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    A blep from Italy
-  entry_id: 8vvbck
-  entry_content: |
-    <iframe src=https://v.redd.it/4c9vsdwkgs711/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Glqmxgc6kJMc56KrYJKNitBdFfiTWA0XWxAvhLBsAK4.jpg?s=230588afb7c2d0e85448b4b87d4ec2bf frameborder=0>
 - entry_name: |
     Neymar Acting School
   entry_id: 8vxgf5
   entry_content: |
     <iframe src=https://v.redd.it/a86g3aq0xt711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    A blep from Italy
+  entry_id: 8vvbck
+  entry_content: |
+    <iframe src=https://v.redd.it/4c9vsdwkgs711/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Hydro dipping a dashboard.
+  entry_id: 8vzg6e
+  entry_content: |
+    <iframe src=https://v.redd.it/93iznennkv711/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     When you have a low-end computer
   entry_id: 8vuf6t
   entry_content: |
     <img src=https://i.redditmedia.com/oAh5xNufzvNJaaqOuPVLvHduR0DD4H0-2m4xovmeT3Y.png?s=b94bc724ac1f14d9557d5e653ca228ce frameborder=0>
 - entry_name: |
-    Yesterday, I got my dream job running a tiny research lab at a major university. I wish I could go back in time and tell 6-year-old me that being a scientist is exactly as much fun as she thinks it is.
-  entry_id: 8vvxgw
+    That's what I call dedication
+  entry_id: 8w0g4l
   entry_content: |
-    <img src=https://i.redditmedia.com/ww5QG8RsrlwdfLpnfHcME28jveE_CgIyGqsUaEAuM7M.jpg?s=5fe142677aac08194eb5b0702f9950f5 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPersonalSparseHoatzin&url=https%3A%2F%2Fgfycat.com%2FPersonalSparseHoatzin&image=https%3A%2F%2Fthumbs.gfycat.com%2FPersonalSparseHoatzin-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=300 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Day One: Power Stone Day
   entry_id: 8vw77e
@@ -206,48 +212,42 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/M1dNcbcat-sp7GUdvMzRMbt7e1KWjn_JIZ4Jelm4JFQ.jpg?s=3d45c6b7053992460a8711eefac1683c frameborder=0>
 - entry_name: |
-    The truth
-  entry_id: 8vzbul
+    I don't understand what you want, boo. Did Timmy fall down a well?
+  entry_id: 8w165c
   entry_content: |
-    <img src=https://i.redditmedia.com/Glqmxgc6kJMc56KrYJKNitBdFfiTWA0XWxAvhLBsAK4.jpg?s=230588afb7c2d0e85448b4b87d4ec2bf frameborder=0>
+    <iframe src=https://v.redd.it/qlqfn7cxzv711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Jarl, is this legal?
   entry_id: 8vuynv
   entry_content: |
     <img src=https://i.redditmedia.com/JYTsuYSSjmz51nWsk7xQmpEfjHRafyQ3Q5bOdZpOmSE.jpg?s=c9223b4426b7cb48a116c4914fcf73aa frameborder=0>
 - entry_name: |
-    Kids will never know the struggle
-  entry_id: 8vxdhb
+    Happy 4th
+  entry_id: 8w050k
   entry_content: |
-    <img src=https://i.redditmedia.com/j9qJeb62Il1Z8jwxrn6A38tKTiaIi2ZYMbBag57qDyI.jpg?s=c6c86b8a7f5859fc1cef039490c38459 frameborder=0>
+    <img src=https://i.redditmedia.com/QnYsXfTl7lFEHa7h4f7hcKzfmqkAshAxFaeSMWIhXi8.jpg?s=c77e3c4bc02f52ee785235237f0fb238 frameborder=0>
 - entry_name: |
     Hmmm
   entry_id: 8vx8pr
   entry_content: |
     <img src=https://i.redditmedia.com/z7FFCoDsV5no_8Rn0j23Tk_A0up9g94xBBR7IPt2BQ4.jpg?s=9c2ea3588bd88a3f0df0a539fb7c3989 frameborder=0>
 - entry_name: |
-    She didn’t see that coming.
-  entry_id: 8vtzsj
+    Kids will never know the struggle
+  entry_id: 8vxdhb
   entry_content: |
-    <iframe src=https://v.redd.it/9hc6bmaunr711/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Hydro dipping a dashboard.
-  entry_id: 8vzg6e
-  entry_content: |
-    <iframe src=https://v.redd.it/93iznennkv711/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/j9qJeb62Il1Z8jwxrn6A38tKTiaIi2ZYMbBag57qDyI.jpg?s=c6c86b8a7f5859fc1cef039490c38459 frameborder=0>
 - entry_name: |
     How the iconic clock scene was filmed in the 1923 silent film Safety Last!
   entry_id: 8vxorp
   entry_content: |
     <iframe src=https://v.redd.it/scg7ujnm3u711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    I understand, Seth
-  entry_id: 8w18vk
+  entry_id: 8vxwbb
   entry_content: |
-    <img src=https://i.redditmedia.com/t_Q3R_RP5qdw9BxYdvIcaWXq6X5AirrA0BWm2s-D34k.jpg?s=c6bae6a09a5630f9f0b72a37a05eb716 frameborder=0>
+    <img src=https://i.redditmedia.com/0TFVJA6L3LiSpwluzJbttW7cxoxvOa_651sbIjGcrRU.jpg?s=f36609a6423856c6d6958b418dee1093 frameborder=0>
 - entry_name: |
-    This thalassophobia inspired drawing took me over 30 hours to finish. I love deep sea creatures.
-  entry_id: 8w0mjk
+    I found a picture from 1929 taken directly in front of my apartment.
+  entry_id: 8vxoih
   entry_content: |
-    <img src=https://i.redditmedia.com/MdicSkIITV2FSSFOOLw-9CzVFE2D0u2yGhQIcs57Bec.jpg?s=0afcd1947ef8abb75a47364fc9746259 frameborder=0>
+    <img src=https://i.redditmedia.com/2SXu5bWfszq1vOTCTJoPavA7IQsqpZ0EKXSBnFaFAf8.jpg?s=ce58db22d74b6f5cd862e632658bda0c frameborder=0>
 ---
