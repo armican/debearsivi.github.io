@@ -23,15 +23,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GLSz3wyxN9bbF08MlssfeT7hYtrjuUmFBWBzn3YBS_4.jpg?s=e6897b5f6359316b166b525e480318b1 frameborder=0>
 - entry_name: |
-    A year apart From 320lbs to 200lbs - Big changes for me over the last year, Pretty proud.
-  entry_id: 8vx672
-  entry_content: |
-    <img src=https://i.redditmedia.com/_c2ZaNwFLjxLWHSBPJ_jMrDzJyGwj0k1ut33xeDH2nQ.jpg?s=58345dac3bc021d63a55e1a46fe74ced frameborder=0>
-- entry_name: |
     Australian parents who refuse to vaccinate their children will now be given monthly fines
   entry_id: 8w020u
   entry_content: |
     <img src=https://i.redditmedia.com/7nrGDJxaml_PWACjy6FXYpxcc7S7Tg_rmbFb0T9F7Jo.jpg?s=b88729c82c54906a9caa500d2c6058b0 frameborder=0>
+- entry_name: |
+    A year apart From 320lbs to 200lbs - Big changes for me over the last year, Pretty proud.
+  entry_id: 8vx672
+  entry_content: |
+    <img src=https://i.redditmedia.com/_c2ZaNwFLjxLWHSBPJ_jMrDzJyGwj0k1ut33xeDH2nQ.jpg?s=58345dac3bc021d63a55e1a46fe74ced frameborder=0>
 - entry_name: |
     TIL that the first commercial passenger airliner to be shot down by hostile forces was refurbished, returned to service, and later became the third commercial passenger airliner to be shot down by hostile forces.
   entry_id: 8vwi16
@@ -43,6 +43,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bgFN1rCqc6ZjE6hcYp6HZJucQCTq2vCIj627KCtvc40.png?s=88167cc46a9cdf62f4955413d2abf0e6 frameborder=0>
 - entry_name: |
+    I understand, Seth
+  entry_id: 8w18vk
+  entry_content: |
+    <img src=https://i.redditmedia.com/t_Q3R_RP5qdw9BxYdvIcaWXq6X5AirrA0BWm2s-D34k.jpg?s=c6bae6a09a5630f9f0b72a37a05eb716 frameborder=0>
+- entry_name: |
     But there’s ice in Antartica right?
   entry_id: 8vw7wj
   entry_content: |
@@ -52,6 +57,11 @@ data:
   entry_id: 8vwmk1
   entry_content: |
     <iframe src=https://v.redd.it/dmydqzcgbt711/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    The ultimate wednesday.
+  entry_id: 8vzrwj
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Lego upvote machine #01: It does one rotation for every upvote this post gets
   entry_id: 8vujmb
@@ -63,11 +73,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The ultimate wednesday.
-  entry_id: 8vzrwj
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     Senate Intel concludes Russia interfered in 2016 presidential election, preferred Trump over Clinton
   entry_id: 8vvcg0
   entry_content: |
@@ -78,19 +83,14 @@ data:
   entry_content: |
     null
 - entry_name: |
-  entry_id: 8vvbl3
-  entry_content: |
-    <img src=https://i.redditmedia.com/UDWRRHFreri0Wj-bu07zaxyOVt4cczAa0IZbY5qPp_g.jpg?s=48e2df16a39df28e57084e580486cbf2 frameborder=0>
-- entry_name: |
     My dog’s face, literally, anytime I pet him.
   entry_id: 8vy5mk
   entry_content: |
     <iframe src=https://v.redd.it/bh1qqywugu711/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    I understand, Seth
-  entry_id: 8w18vk
+  entry_id: 8vvbl3
   entry_content: |
-    <img src=https://i.redditmedia.com/t_Q3R_RP5qdw9BxYdvIcaWXq6X5AirrA0BWm2s-D34k.jpg?s=c6bae6a09a5630f9f0b72a37a05eb716 frameborder=0>
+    <img src=https://i.redditmedia.com/UDWRRHFreri0Wj-bu07zaxyOVt4cczAa0IZbY5qPp_g.jpg?s=48e2df16a39df28e57084e580486cbf2 frameborder=0>
 - entry_name: |
     Rise of the Tomb Raider in 8k
   entry_id: 8vyh06
@@ -112,15 +112,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/40i_lVMYi7Cyhaot-MXH-wCBuGOdRyuGz9ij41e2xaI.jpg?s=cf8c2688b3d434870491b3cb5e46a43e frameborder=0>
 - entry_name: |
-    The epitome of manliness and class
-  entry_id: 8vwtxk
-  entry_content: |
-    <img src=https://i.redditmedia.com/8CWPYZGaJnsYPQZl29M9wk-Zvzqom3ixphdtvYIrlRc.jpg?s=117691f9fdd6de509b6d7e50cecc6050 frameborder=0>
-- entry_name: |
     MRW my mom asks if the fake internet points are worth spending the Fourth of July locked in my room making gifs
   entry_id: 8w0skw
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWideeyedBigheartedAndeancondor&url=https%3A%2F%2Fgfycat.com%2FWideeyedBigheartedAndeancondor&image=https%3A%2F%2Fthumbs.gfycat.com%2FWideeyedBigheartedAndeancondor-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=325 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    I don't understand what you want, boo. Did Timmy fall down a well?
+  entry_id: 8w165c
+  entry_content: |
+    <iframe src=https://v.redd.it/qlqfn7cxzv711/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The epitome of manliness and class
+  entry_id: 8vwtxk
+  entry_content: |
+    <img src=https://i.redditmedia.com/8CWPYZGaJnsYPQZl29M9wk-Zvzqom3ixphdtvYIrlRc.jpg?s=117691f9fdd6de509b6d7e50cecc6050 frameborder=0>
 - entry_name: |
     Findings that Russia meddled to help Trump beat Clinton were 'accurate and on point': Senate intel panel
   entry_id: 8vvrj1
@@ -142,15 +147,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TWgM40Lr0ZsGJGbYA3vM35rymmCzE4h3ebd82h40y1s.gif?fm=jpg&s=bc326cf4cf92aebb093d4aa2546045f6 frameborder=0>
 - entry_name: |
-    Batman-like tech used by police
-  entry_id: 8vvqpp
-  entry_content: |
-    <iframe src=https://v.redd.it/uev5xdqqqs711/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     This thalassophobia inspired drawing took me over 30 hours to finish. I love deep sea creatures.
   entry_id: 8w0mjk
   entry_content: |
     <img src=https://i.redditmedia.com/MdicSkIITV2FSSFOOLw-9CzVFE2D0u2yGhQIcs57Bec.jpg?s=0afcd1947ef8abb75a47364fc9746259 frameborder=0>
+- entry_name: |
+    That's what I call dedication
+  entry_id: 8w0g4l
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPersonalSparseHoatzin&url=https%3A%2F%2Fgfycat.com%2FPersonalSparseHoatzin&image=https%3A%2F%2Fthumbs.gfycat.com%2FPersonalSparseHoatzin-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=300 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    Hydro dipping a dashboard.
+  entry_id: 8vzg6e
+  entry_content: |
+    <iframe src=https://v.redd.it/93iznennkv711/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Batman-like tech used by police
+  entry_id: 8vvqpp
+  entry_content: |
+    <iframe src=https://v.redd.it/uev5xdqqqs711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     🔥 Dew covered ladybug. 🔥
   entry_id: 8vx2hi
@@ -167,50 +182,50 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/a86g3aq0xt711/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Origami Dwarf I folded.
+  entry_id: 8w0ubu
+  entry_content: |
+    <img src=https://i.redditmedia.com/2PsvPQmRbjv8Rg1u_2RDi-awOMJ7abybyHvqjpecYYg.jpg?s=59947d853f6e788c89f1c520fb6fc791 frameborder=0>
+- entry_name: |
     A blep from Italy
   entry_id: 8vvbck
   entry_content: |
     <iframe src=https://v.redd.it/4c9vsdwkgs711/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Hydro dipping a dashboard.
-  entry_id: 8vzg6e
+    Happy 4th
+  entry_id: 8w050k
   entry_content: |
-    <iframe src=https://v.redd.it/93iznennkv711/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/QnYsXfTl7lFEHa7h4f7hcKzfmqkAshAxFaeSMWIhXi8.jpg?s=c77e3c4bc02f52ee785235237f0fb238 frameborder=0>
 - entry_name: |
-    When you have a low-end computer
-  entry_id: 8vuf6t
+    TIL that in 2015 the town of Collecchio in Italy passed a law requiring the use of silent fireworks to help reduce stress on veterans, pets, children, and wildlife. While not completely silent, they are much quieter than traditional fireworks and can be more colorful.
+  entry_id: 8w0w72
   entry_content: |
-    <img src=https://i.redditmedia.com/oAh5xNufzvNJaaqOuPVLvHduR0DD4H0-2m4xovmeT3Y.png?s=b94bc724ac1f14d9557d5e653ca228ce frameborder=0>
-- entry_name: |
-    That's what I call dedication
-  entry_id: 8w0g4l
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPersonalSparseHoatzin&url=https%3A%2F%2Fgfycat.com%2FPersonalSparseHoatzin&image=https%3A%2F%2Fthumbs.gfycat.com%2FPersonalSparseHoatzin-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=300 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/55Iw1wck9CIAqyR3n2qqYHkD2iMDqmxPoJ0AoP-evdw.jpg?s=f293437ca10df08452163d65e82db8ba frameborder=0>
 - entry_name: |
     Day One: Power Stone Day
   entry_id: 8vw77e
   entry_content: |
     <img src=https://i.redditmedia.com/FKMD_Kphnce4FDZSvcIJxoJlaUOXZ8Di03Hx4uI0vXI.jpg?s=6329e5e5ffa498f5437869c6c2396997 frameborder=0>
 - entry_name: |
+    me irl
+  entry_id: 8vzp7n
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
     Dish Network sent out advertisements in envelopes that make it look like a special occasion card. Also, trying to manipulate people by making the cards look handmade by a child.
   entry_id: 8vuk2c
   entry_content: |
     <img src=https://i.redditmedia.com/M1dNcbcat-sp7GUdvMzRMbt7e1KWjn_JIZ4Jelm4JFQ.jpg?s=3d45c6b7053992460a8711eefac1683c frameborder=0>
 - entry_name: |
-    I don't understand what you want, boo. Did Timmy fall down a well?
-  entry_id: 8w165c
+    Absolute Badass nearing 39K karma!
+  entry_id: 8w1era
   entry_content: |
-    <iframe src=https://v.redd.it/qlqfn7cxzv711/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/sYNYuTiq9d4WWWadloymAAOCBM3wSpdkeTF2T5LLPxY.jpg?s=b4b7970f3601a3474002df41a0f643cc frameborder=0>
 - entry_name: |
     Jarl, is this legal?
   entry_id: 8vuynv
   entry_content: |
     <img src=https://i.redditmedia.com/JYTsuYSSjmz51nWsk7xQmpEfjHRafyQ3Q5bOdZpOmSE.jpg?s=c9223b4426b7cb48a116c4914fcf73aa frameborder=0>
-- entry_name: |
-    Happy 4th
-  entry_id: 8w050k
-  entry_content: |
-    <img src=https://i.redditmedia.com/QnYsXfTl7lFEHa7h4f7hcKzfmqkAshAxFaeSMWIhXi8.jpg?s=c77e3c4bc02f52ee785235237f0fb238 frameborder=0>
 - entry_name: |
     Hmmm
   entry_id: 8vx8pr
@@ -235,18 +250,4 @@ data:
   entry_id: 8vxoih
   entry_content: |
     <img src=https://i.redditmedia.com/2SXu5bWfszq1vOTCTJoPavA7IQsqpZ0EKXSBnFaFAf8.jpg?s=ce58db22d74b6f5cd862e632658bda0c frameborder=0>
-- entry_name: |
-    Origami Dwarf I folded.
-  entry_id: 8w0ubu
-  entry_content: |
-    <img src=https://i.redditmedia.com/2PsvPQmRbjv8Rg1u_2RDi-awOMJ7abybyHvqjpecYYg.jpg?s=59947d853f6e788c89f1c520fb6fc791 frameborder=0>
-- entry_name: |
-  entry_id: 8vx0pi
-  entry_content: |
-    <img src=https://i.redditmedia.com/ktJ7KXjwYiT8_PEUjreSyE4b3v2STEC3WiNrQA6XqAg.jpg?s=09c843d00ac7b377c2ca91df4ce87939 frameborder=0>
-- entry_name: |
-    me irl
-  entry_id: 8vzp7n
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 ---
