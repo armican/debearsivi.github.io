@@ -83,10 +83,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/bh1qqywugu711/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8vvbl3
-  entry_content: |
-    <img src=https://i.redditmedia.com/UDWRRHFreri0Wj-bu07zaxyOVt4cczAa0IZbY5qPp_g.jpg?s=48e2df16a39df28e57084e580486cbf2 frameborder=0>
-- entry_name: |
     MRW my mom asks if the fake internet points are worth spending the Fourth of July locked in my room making gifs
   entry_id: 8w0skw
   entry_content: |
@@ -207,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HqDzvB9Dy-iX0YMdKIZHxG3iNUlkQQb7npMi57r_sGg.jpg?s=816ef572219e2276b2780dad2b6f152a frameborder=0>
 - entry_name: |
-    A blep from Italy
-  entry_id: 8vvbck
-  entry_content: |
-    <iframe src=https://v.redd.it/4c9vsdwkgs711/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Day One: Power Stone Day
   entry_id: 8vw77e
   entry_content: |
@@ -250,4 +241,14 @@ data:
   entry_id: 8w066z
   entry_content: |
     <img src=https://i.redditmedia.com/PJs25HDowddP5MUM69cEtTzW3UpT87Bmr6XP3bN7fCg.jpg?s=1894e6fd3f07342dd1d6995622f100a6 frameborder=0>
+- entry_name: |
+    I found a picture from 1929 taken directly in front of my apartment.
+  entry_id: 8vxoih
+  entry_content: |
+    <img src=https://i.redditmedia.com/2SXu5bWfszq1vOTCTJoPavA7IQsqpZ0EKXSBnFaFAf8.jpg?s=ce58db22d74b6f5cd862e632658bda0c frameborder=0>
+- entry_name: |
+    English humor
+  entry_id: 8w1n10
+  entry_content: |
+    <iframe src=https://v.redd.it/ear9aas3ox711/DASH_4_8_M frameborder=0></iframe>
 ---
