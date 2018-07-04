@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WNGPm7SVpC2j9wvZTjLU_e-h1LWD0I91hwt3IZ8zMlc.jpg?s=62542949f2bce31b95e4526a24339696 frameborder=0>
 - entry_name: |
-    r/AskReddit being wholesome again.
-  entry_id: 8vvk7x
-  entry_content: |
-    <img src=https://i.redditmedia.com/bgFN1rCqc6ZjE6hcYp6HZJucQCTq2vCIj627KCtvc40.png?s=88167cc46a9cdf62f4955413d2abf0e6 frameborder=0>
-- entry_name: |
     The ultimate wednesday.
   entry_id: 8vzrwj
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8w066z
   entry_content: |
     <img src=https://i.redditmedia.com/PJs25HDowddP5MUM69cEtTzW3UpT87Bmr6XP3bN7fCg.jpg?s=1894e6fd3f07342dd1d6995622f100a6 frameborder=0>
+- entry_name: |
+    TIL that 66 countries have successfully declared independence from the United Kingdom/British Empire, leading to 52 days a year being an independence from UK day somewhere in the world.
+  entry_id: 8w24hx
+  entry_content: |
+    <img src=https://i.redditmedia.com/JdNkI3nqvQg2EsOnhQkrS66FpmdqI2qTAtXxWpB2Fv0.jpg?s=a29d72654738af9218a3b1edb9258e1c frameborder=0>
 ---
