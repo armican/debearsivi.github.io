@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lM9aV7L_oNm8Qt2CljH88tOCKrfTnM2J2KkwUkNKZBA.jpg?s=a5c94c63ab1d214159013c279fb30c6d frameborder=0>
 - entry_name: |
-    This guy was the only one listening to a radio broadcast while the rest was watching on the big screen. It's like lag in real life.
-  entry_id: 8vu6bj
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGenerousUnlinedHartebeest&url=https%3A%2F%2Fgfycat.com%2FGenerousUnlinedHartebeest&image=https%3A%2F%2Fthumbs.gfycat.com%2FGenerousUnlinedHartebeest-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=260 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     This picture of my parents never actually happened, but two separate photos that fit perfectly together
   entry_id: 8vwykd
   entry_content: |
@@ -142,16 +137,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KpSrY2xcbMeVG22pRcxjnG_82aD4VXM2z5wQs76jhY0.jpg?s=03f6269d613e837c694a413b95d14fa5 frameborder=0>
 - entry_name: |
-    ......fuck
-  entry_id: 8vu4hx
-  entry_content: |
-    <img src=https://i.redditmedia.com/d_gSgw8abEgMVFz2NILLfj-hKLAbwiGd4-rY_QQdWjo.jpg?s=3ad366ee6e95667cd28ed45cfd14d2c6 frameborder=0>
-- entry_name: |
-    Yee haw my dude :)
-  entry_id: 8vu295
-  entry_content: |
-    <img src=https://i.redditmedia.com/ImbdOd-lCzSYrbn3r44ue-uHe7jRDfp0_50EBKg4KHA.jpg?s=8e2ed83292675fda4742bc3965b4cd75 frameborder=0>
-- entry_name: |
     Day Two: Space Stone Day
   entry_id: 8vymoc
   entry_content: |
@@ -250,4 +235,18 @@ data:
   entry_id: 8vxoih
   entry_content: |
     <img src=https://i.redditmedia.com/2SXu5bWfszq1vOTCTJoPavA7IQsqpZ0EKXSBnFaFAf8.jpg?s=ce58db22d74b6f5cd862e632658bda0c frameborder=0>
+- entry_name: |
+    Origami Dwarf I folded.
+  entry_id: 8w0ubu
+  entry_content: |
+    <img src=https://i.redditmedia.com/2PsvPQmRbjv8Rg1u_2RDi-awOMJ7abybyHvqjpecYYg.jpg?s=59947d853f6e788c89f1c520fb6fc791 frameborder=0>
+- entry_name: |
+  entry_id: 8vx0pi
+  entry_content: |
+    <img src=https://i.redditmedia.com/ktJ7KXjwYiT8_PEUjreSyE4b3v2STEC3WiNrQA6XqAg.jpg?s=09c843d00ac7b377c2ca91df4ce87939 frameborder=0>
+- entry_name: |
+    me irl
+  entry_id: 8vzp7n
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNaturalDifferentDromaeosaur&url=https%3A%2F%2Fgfycat.com%2FNaturalDifferentDromaeosaur&image=https%3A%2F%2Fthumbs.gfycat.com%2FNaturalDifferentDromaeosaur-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 ---
