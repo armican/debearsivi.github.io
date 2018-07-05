@@ -113,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GEzbO_sCg0aidngD-LRSPL86lDa9Zag-lkqAjB86Hr0.jpg?s=7f50470053781badc1793dc2a4f24bdd frameborder=0>
 - entry_name: |
-    A photograph I found hanging inside of a small town diner. 1940s
-  entry_id: 8w4v1o
-  entry_content: |
-    <img src=https://i.redditmedia.com/vRnY0eCThjgfBgIEVoaU09dkpDSq11Hy_wDVAYKwdVA.jpg?s=6c0e0fefa23d37da8678579cb9e867f7 frameborder=0>
-- entry_name: |
     TIL July 5 is the busiest day for animal shelters because so many pets run away in fear
   entry_id: 8w6pqi
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8w50rz
   entry_content: |
     <img src=https://i.redditmedia.com/3e2v-CFtEAdEqfgFNGpxRmAY6LV4BfoBBRgmN79JAmM.jpg?s=d85a4e3775147fd1d123f003f3577d54 frameborder=0>
+- entry_name: |
+    me_irl
+  entry_id: 8w9q2d
+  entry_content: |
+    <img src=https://i.redditmedia.com/NmIcJttvk-kEWnsldcmS6f11FGNMrQX_UE8L21TZfjQ.jpg?s=07a2ef0f7a19d18fb9f5d10800edbbe5 frameborder=0>
 ---
