@@ -163,11 +163,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBadTornConure&url=https%3A%2F%2Fgfycat.com%2FBadTornConure&image=https%3A%2F%2Fthumbs.gfycat.com%2FBadTornConure-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=320 height=576 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    fight bac
-  entry_id: 8w3w9e
-  entry_content: |
-    <img src=https://i.redditmedia.com/xeguHKsXDNrdrxIRBaz65gJgfeyqFOtPd0IyPQeqswI.png?s=cedf031de950145deb1cde3c4240b522 frameborder=0>
-- entry_name: |
     This murder was so sick I had to translate it for y'all.
   entry_id: 8w73ez
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8w50rz
   entry_content: |
     <img src=https://i.redditmedia.com/3e2v-CFtEAdEqfgFNGpxRmAY6LV4BfoBBRgmN79JAmM.jpg?s=d85a4e3775147fd1d123f003f3577d54 frameborder=0>
+- entry_name: |
+    Chinese kitchen knife skills
+  entry_id: 8w7yyw
+  entry_content: |
+    <iframe src=https://v.redd.it/q7f0aqnde2811/DASH_4_8_M frameborder=0></iframe>
 ---
