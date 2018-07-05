@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2lz0fqdwg4811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    This gets me every time I see it
-  entry_id: 8w49cb
-  entry_content: |
-    <img src=https://i.redditmedia.com/4fDYRg2WbTLo4TLwFS0biFZ_sVSCmjWzjnhYOL2HzF8.jpg?s=51b541d618a7e50f5ce00d141761033b frameborder=0>
-- entry_name: |
     So a week and a half ago I saved a baby deer from traffic. Today I saved a baby deer from my neighbors dogs in my back yard. This is getting weird.
   entry_id: 8w7jti
   entry_content: |
@@ -92,11 +87,6 @@ data:
   entry_id: 8w72ey
   entry_content: |
     <img src=https://i.redditmedia.com/8s5U46TLbnc1xM5WOyJRRUyD-FyxqVpXzIyexzfjLNQ.jpg?s=60a247e597e66798abf2656fe2a2f20c frameborder=0>
-- entry_name: |
-    This door in a basement storage room at my University
-  entry_id: 8w49a1
-  entry_content: |
-    <img src=https://i.redditmedia.com/fBTz5uPH2Gu0WQXy4J8oX0fdOQdPzVjWdArA1kktU8Q.jpg?s=83d2e1d95117f369c07ba0fe947b8734 frameborder=0>
 - entry_name: |
     Migraine, Chernadraw, Digital, 2018
   entry_id: 8w64a7
@@ -162,11 +152,6 @@ data:
   entry_id: 8w6q6g
   entry_content: |
     <img src=https://i.redditmedia.com/N2cjpQpFYQVwomlvbUOpT4O0CMe96xE9hrY52Jo8ZK8.jpg?s=2c12eef306693c2aa66d458e607b0243 frameborder=0>
-- entry_name: |
-    MRW I'm doing some serious daytime drinking on the 4th then remember I have a shitty job to return to tomorrow
-  entry_id: 8w4b5f
-  entry_content: |
-    <iframe src=https://v.redd.it/yp7o40mhgz711/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This murder was so sick I had to translate it for y'all.
   entry_id: 8w73ez
@@ -252,4 +237,18 @@ data:
   entry_id: 8w7yyw
   entry_content: |
     <iframe src=https://v.redd.it/q7f0aqnde2811/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8w6g88
+  entry_content: |
+    <img src=https://i.redditmedia.com/XXOqDPU3eb8hmToZ9Xq7yzm8Btv-tLviMDRVsaedKJA.jpg?s=870d0368ad8341328326554d29116a07 frameborder=0>
+- entry_name: |
+    That's nice.
+  entry_id: 8w50rz
+  entry_content: |
+    <img src=https://i.redditmedia.com/3e2v-CFtEAdEqfgFNGpxRmAY6LV4BfoBBRgmN79JAmM.jpg?s=d85a4e3775147fd1d123f003f3577d54 frameborder=0>
+- entry_name: |
+    104-Year-Old World War II veteran Frank Anderson Threw Out a First Pitch Yesterday at a Memphis Red Birds Game
+  entry_id: 8w9jrj
+  entry_content: |
+    <iframe src=https://v.redd.it/0lq1ish0z1811/DASH_4_8_M frameborder=0></iframe>
 ---
