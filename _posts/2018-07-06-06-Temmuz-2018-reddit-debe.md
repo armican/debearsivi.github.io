@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cJpNUe6OAH3wNpi3ShQ1ZTOQ6lbTDDdA-LB4V3S6XUQ.jpg?s=7e036948879d6dad0714091f088f787f frameborder=0>
 - entry_name: |
-    Country songs about sex in a truck bed next to a body of water in the South never mention how badly mosquito-bitten the participants would get.
-  entry_id: 8w3iaw
-  entry_content: |
-    null
-- entry_name: |
     I got my girlfriend a duck and now they play games together
   entry_id: 8w6j0x
   entry_content: |
@@ -252,4 +247,8 @@ data:
   entry_id: 8w6w7f
   entry_content: |
     <iframe src=https://v.redd.it/70eha5q4t3811/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8w6g88
+  entry_content: |
+    <img src=https://i.redditmedia.com/XXOqDPU3eb8hmToZ9Xq7yzm8Btv-tLviMDRVsaedKJA.jpg?s=870d0368ad8341328326554d29116a07 frameborder=0>
 ---
