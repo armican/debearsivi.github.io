@@ -28,15 +28,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PTH88Y4xU5q65qr6INpcmjKU53VV-GB-8wJooI_KtS0.jpg?s=247dd274d9e37af83c816a2d4d80f383 frameborder=0>
 - entry_name: |
-    Trump 'angry baby' blimp gets green light to fly over London during president's visit | The six-metre balloon depicting Mr Trump as a nappy-clad orange baby will take flight from Parliament Square Gardens on 13 July.
-  entry_id: 8w9op8
-  entry_content: |
-    <img src=https://i.redditmedia.com/67Sch4ui4yT4X-DthGE5QB2hakMR7WN6ToMGv_B7_vI.jpg?s=b2d6847862c652e93bc0690bc375dca7 frameborder=0>
-- entry_name: |
     My dog is acting kinda wierd
   entry_id: 8w9cn4
   entry_content: |
     <iframe src=https://v.redd.it/c6qfl3jpu3811/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Trump 'angry baby' blimp gets green light to fly over London during president's visit | The six-metre balloon depicting Mr Trump as a nappy-clad orange baby will take flight from Parliament Square Gardens on 13 July.
+  entry_id: 8w9op8
+  entry_content: |
+    <img src=https://i.redditmedia.com/67Sch4ui4yT4X-DthGE5QB2hakMR7WN6ToMGv_B7_vI.jpg?s=b2d6847862c652e93bc0690bc375dca7 frameborder=0>
 - entry_name: |
     Found an ancient relic underneath the bottom shelves of my Toys R Us
   entry_id: 8w8lf5
@@ -47,6 +47,11 @@ data:
   entry_id: 8w6j0x
   entry_content: |
     <img src=https://i.redditmedia.com/aP3lEhsuGksRsHlzZ8LB7je00_DlnRQKb5IxzWJfpCs.jpg?s=b29ed1c46565b1a99e54bd8e89ea38e8 frameborder=0>
+- entry_name: |
+    HALO costume at graduation
+  entry_id: 8wa0hj
+  entry_content: |
+    <iframe src=https://v.redd.it/2lz0fqdwg4811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     This gets me every time I see it
   entry_id: 8w49cb
@@ -63,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yDoOTb3m0M2k_F3_5dUId2JjqTRZoZkK6zuIE_DHZ-o.png?s=0f74756397691b50cb0ce77a0c406c5c frameborder=0>
 - entry_name: |
-    HALO costume at graduation
-  entry_id: 8wa0hj
-  entry_content: |
-    <iframe src=https://v.redd.it/2lz0fqdwg4811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     A woman called the police on Rep. Janelle Bynum, a black Oregon state legislator who was canvassing alone in a neighborhood she represents. A deputy showed up and took a picture with her.
   entry_id: 8w6amg
   entry_content: |
@@ -78,20 +78,25 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/T1-k7VYwsHg?start=720&feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    Got caught in. Sailed in it. Flipped twice in it. Survived.
+  entry_id: 8waucw
+  entry_content: |
+    <img src=https://i.redditmedia.com/C46UXUK-cWrKkbvTKtW9KlLDuAaVdmaLhB8FZGPD-9s.jpg?s=6b5edfbde89d7cf9112f08d0eaddd909 frameborder=0>
+- entry_name: |
     For the 4th, we adopted our 4th! Meet Aspen!
   entry_id: 8w6equ
   entry_content: |
     <img src=https://i.redditmedia.com/vSDEAq1OwaJWVqAVrhjBmjWHidqDj37CyB0vgpEreEI.jpg?s=ae23b0dedef643e10bf1b1e1ee898add frameborder=0>
 - entry_name: |
-    This door in a basement storage room at my University
-  entry_id: 8w49a1
-  entry_content: |
-    <img src=https://i.redditmedia.com/fBTz5uPH2Gu0WQXy4J8oX0fdOQdPzVjWdArA1kktU8Q.jpg?s=83d2e1d95117f369c07ba0fe947b8734 frameborder=0>
-- entry_name: |
     In the Narita airport of Japan, while it says welcome to Japan in English, the Japanese text says welcome back
   entry_id: 8w72ey
   entry_content: |
     <img src=https://i.redditmedia.com/8s5U46TLbnc1xM5WOyJRRUyD-FyxqVpXzIyexzfjLNQ.jpg?s=60a247e597e66798abf2656fe2a2f20c frameborder=0>
+- entry_name: |
+    This door in a basement storage room at my University
+  entry_id: 8w49a1
+  entry_content: |
+    <img src=https://i.redditmedia.com/fBTz5uPH2Gu0WQXy4J8oX0fdOQdPzVjWdArA1kktU8Q.jpg?s=83d2e1d95117f369c07ba0fe947b8734 frameborder=0>
 - entry_name: |
     Migraine, Chernadraw, Digital, 2018
   entry_id: 8w64a7
@@ -133,6 +138,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bENJclktjF0IboeE-JqL67HihqrxAUFvHVwEEjUiPqI.jpg?s=855125eef1a69b2615c4dbac07caddca frameborder=0>
 - entry_name: |
+    My smooth recovery after dropping a box at work
+  entry_id: 8w9ziv
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBadTornConure&url=https%3A%2F%2Fgfycat.com%2FBadTornConure&image=https%3A%2F%2Fthumbs.gfycat.com%2FBadTornConure-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=320 height=576 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
     This will be a great inside joke.
   entry_id: 8w4xde
   entry_content: |
@@ -143,6 +153,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tD6f0zzNUg-MQs-IV2I3gXr1ZTM2EpmTlaPtsQD65mo.jpg?s=060c36b40a4412682e7b517cca2b9d02 frameborder=0>
 - entry_name: |
+    The calm before the storm
+  entry_id: 8w8ld7
+  entry_content: |
+    <img src=https://i.redditmedia.com/oS3iI0SEjjXkG0EAMctt3RHbNIG37WcGErr--R91KD4.jpg?s=37ecfa02589dd65261e83f3d6b4baf54 frameborder=0>
+- entry_name: |
     The water taps at this cafe drip onto plants to not waste water
   entry_id: 8w6q6g
   entry_content: |
@@ -152,16 +167,6 @@ data:
   entry_id: 8w4b5f
   entry_content: |
     <iframe src=https://v.redd.it/yp7o40mhgz711/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    The calm before the storm
-  entry_id: 8w8ld7
-  entry_content: |
-    <img src=https://i.redditmedia.com/oS3iI0SEjjXkG0EAMctt3RHbNIG37WcGErr--R91KD4.jpg?s=37ecfa02589dd65261e83f3d6b4baf54 frameborder=0>
-- entry_name: |
-    My smooth recovery after dropping a box at work
-  entry_id: 8w9ziv
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBadTornConure&url=https%3A%2F%2Fgfycat.com%2FBadTornConure&image=https%3A%2F%2Fthumbs.gfycat.com%2FBadTornConure-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=320 height=576 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     This murder was so sick I had to translate it for y'all.
   entry_id: 8w73ez
@@ -183,6 +188,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/anBWFtwJGMHrco1cKRjvUsoX_n7ztZdf2JIdSdYxE04.jpg?s=1a91945c284e3cbccc3bcec634b017c0 frameborder=0>
 - entry_name: |
+    In an alternate Reality...where the Mods are awake...
+  entry_id: 8w7fgz
+  entry_content: |
+    <iframe src=https://v.redd.it/f8dq0cb8w1811/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     Tea party anyone?
   entry_id: 8w4loe
   entry_content: |
@@ -192,11 +202,6 @@ data:
   entry_id: 8w5qvc
   entry_content: |
     null
-- entry_name: |
-    In an alternate Reality...where the Mods are awake...
-  entry_id: 8w7fgz
-  entry_content: |
-    <iframe src=https://v.redd.it/f8dq0cb8w1811/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     The Matrix lobby shootout scene was a straight tribute to Ghost In The Shell.
   entry_id: 8w5cjs
@@ -208,44 +213,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/C3jff__SjprvRsvEG_SK8i1v_lgo-D-ehYJYwZkUJPg.jpg?s=00a79ca7c70e90b2308c3ae33e4dc8b3 frameborder=0>
 - entry_name: |
-    Mentioning walkings yields a double ear boing.
-  entry_id: 8w5u31
-  entry_content: |
-    <iframe src=https://v.redd.it/5rccr9u8j0811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     After losing my Mum in 2014, I decided to change myself. In three years, went from 184kg to 78kg. I hope she'd be proud.
   entry_id: 8w6wzb
   entry_content: |
     <img src=https://i.redditmedia.com/7JJs422M8RtJd_wGSLSaIsTq9Umu5Z98syunMSMgMOw.png?s=0ee6bcb8502666afb175f350cd2d92b1 frameborder=0>
+- entry_name: |
+    Mentioning walkings yields a double ear boing.
+  entry_id: 8w5u31
+  entry_content: |
+    <iframe src=https://v.redd.it/5rccr9u8j0811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     How the iconic clock scene was filmed in the 1923 silent film Safety Last!
   entry_id: 8w6w7f
   entry_content: |
     <iframe src=https://v.redd.it/70eha5q4t3811/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    ‘Art Of The Deal’ Co-Author: Trump ‘Incapable Of Reading A Book, Much Less Writing One’
-  entry_id: 8w6n0i
-  entry_content: |
-    <img src=https://i.redditmedia.com/M28OBBam3mTXBd_UDR0VhJ5l2ojdY-F4m9M8D_eo-CQ.jpg?s=a9e89090c8550dfa0e53a50a019e0ab6 frameborder=0>
-- entry_name: |
     European Parliament votes AGAINST accepting current copyright directive proposal
   entry_id: 8w9bst
   entry_content: |
     <img src=https://i.redditmedia.com/mSLnVcaTUWm8m1ZZ1y10_tzqZIsjSQq91cUBuKmfbxU.png?s=73202276a5183c1c01bfdba7dd9be076 frameborder=0>
 - entry_name: |
-    Got caught in. Sailed in it. Flipped twice in it. Survived.
-  entry_id: 8waucw
+    Oh hush it Randy
+  entry_id: 8wa8sf
   entry_content: |
-    <img src=https://i.redditmedia.com/C46UXUK-cWrKkbvTKtW9KlLDuAaVdmaLhB8FZGPD-9s.jpg?s=6b5edfbde89d7cf9112f08d0eaddd909 frameborder=0>
+    <img src=https://i.redditmedia.com/g_fFPWl3YtEC2cgl5nU7j4I2HxuCdloxyikB7K_kj_U.jpg?s=9a8b901f8e071ef1dcdc99a338745eaa frameborder=0>
 - entry_name: |
-  entry_id: 8w6g88
+    Luzon woman, 1875
+  entry_id: 8w9v3g
   entry_content: |
-    <img src=https://i.redditmedia.com/XXOqDPU3eb8hmToZ9Xq7yzm8Btv-tLviMDRVsaedKJA.jpg?s=870d0368ad8341328326554d29116a07 frameborder=0>
+    <img src=https://i.redditmedia.com/9DnEW_rK44RD5o6ZktLAGhTSLgKDkJHdVjRG4WImBpg.jpg?s=e95b0e47b60fae978370311c47ce7d31 frameborder=0>
 - entry_name: |
-    That's nice.
-  entry_id: 8w50rz
+    ‘Art Of The Deal’ Co-Author: Trump ‘Incapable Of Reading A Book, Much Less Writing One’
+  entry_id: 8w6n0i
   entry_content: |
-    <img src=https://i.redditmedia.com/3e2v-CFtEAdEqfgFNGpxRmAY6LV4BfoBBRgmN79JAmM.jpg?s=d85a4e3775147fd1d123f003f3577d54 frameborder=0>
+    <img src=https://i.redditmedia.com/M28OBBam3mTXBd_UDR0VhJ5l2ojdY-F4m9M8D_eo-CQ.jpg?s=a9e89090c8550dfa0e53a50a019e0ab6 frameborder=0>
 - entry_name: |
     Chinese kitchen knife skills
   entry_id: 8w7yyw
