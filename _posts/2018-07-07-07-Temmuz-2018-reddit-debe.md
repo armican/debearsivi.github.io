@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XqGH45jKdryI1kv6XtT5qjVqF4th_8O17L9suN1dW70.jpg?s=a3e563a04b8f4d514322f0b536aac3ac frameborder=0>
 - entry_name: |
-    Pups gone learn today.
-  entry_id: 8wcge8
-  entry_content: |
-    <iframe src=https://v.redd.it/xodt2x6im5811/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     This picture that I took mid firework show looks a lot like space
   entry_id: 8wd4ig
   entry_content: |
@@ -122,11 +117,6 @@ data:
   entry_id: 8wfrst
   entry_content: |
     <img src=https://i.redditmedia.com/-v8KENcb1DEi0_8g2gINQJ35RunoXTBKERKCq_oI9T8.jpg?s=1f817b812f55f7eb8ae976a052d06be8 frameborder=0>
-- entry_name: |
-    Pretty epic day for me as a lifetime gamer. One nephew queued up from Xbox, one on his phone, my neice on my Switch, while I was on PC. I know this capability is some what old news, but it was still kinda surreal to me.
-  entry_id: 8wcecg
-  entry_content: |
-    <img src=https://i.redditmedia.com/H-YB6NivKIAouqr2Wts92VDuOtL67J8FEAnfnnr4gEU.jpg?s=27a29bab48d7be64950188a824c3c905 frameborder=0>
 - entry_name: |
   entry_id: 8wgd2e
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8wfggs
   entry_content: |
     <img src=https://i.redditmedia.com/xky_TilpUcnmSLIjPXXgJTHjsrDy_N-YviAlm8Yzo2I.jpg?s=8398b366181259cab6cf2759a46c26c8 frameborder=0>
+- entry_name: |
+    Oh, I don't think so
+  entry_id: 8whxz9
+  entry_content: |
+    <img src=https://i.redditmedia.com/KTlT9CbRgcekPs3BZzU6mObiOUXv_OsBreyzOrAeiOs.jpg?s=542d6793bd36fdbd626ad9ac5464af79 frameborder=0>
+- entry_name: |
+    Does this belong here? I feel like only the trashiest person would admit this and find it funny
+  entry_id: 8we7yn
+  entry_content: |
+    <img src=https://i.redditmedia.com/blIM1WJzMecsDeKNUukQJaZruBiH4FEJHFbfBvgI4rM.png?s=c7f46b3fd894434d08899a0a67db8423 frameborder=0>
 ---
