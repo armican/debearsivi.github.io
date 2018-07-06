@@ -122,11 +122,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KO6DqDl1XE_czjL9X5mpB8pmd_Kcutk0SmeTk9zsvzQ.jpg?s=09e616c14a0e4ae29e39ab7beafa6ade frameborder=0>
 - entry_name: |
-    Hol up
-  entry_id: 8wdwip
-  entry_content: |
-    <img src=https://i.redditmedia.com/Q3hf4I2pHEv94QV1GDdlv5TZzRPLnTApXaFooLgnhdk.jpg?s=a59e1820640e630207132e5594255d50 frameborder=0>
-- entry_name: |
     My parents met 50 years ago today on a blind date.
   entry_id: 8wf3qo
   entry_content: |
@@ -176,11 +171,6 @@ data:
   entry_id: 8wizhc
   entry_content: |
     <img src=https://i.redditmedia.com/0ifIOH_RDS8-NTFDIAu2UhE3hKZoEr2Oed3SNIu-TnQ.jpg?s=fde0f2715b78f76d4299f46d7ee9e6cc frameborder=0>
-- entry_name: |
-    Anon moves
-  entry_id: 8wdv97
-  entry_content: |
-    <img src=https://i.redditmedia.com/811tWMZ8ZU8g5K6hoTgZGIFgocK-HKLhajQxP04R4O8.jpg?s=db0a5452acf095023d6b274095309637 frameborder=0>
 - entry_name: |
     Teddy Long Legs
   entry_id: 8wivpu
@@ -251,4 +241,14 @@ data:
   entry_id: 8wdz30
   entry_content: |
     <img src=https://i.redditmedia.com/B_7iu_ys5M53L0529d1djDvQ3gXuWjLwvUS3Vx75KA4.jpg?s=49b394a0aba477108fb007d6f6a13d2a frameborder=0>
+- entry_name: |
+    Poor pup is in over his head at his new job.
+  entry_id: 8weefe
+  entry_content: |
+    <iframe src=https://v.redd.it/pnfjzq7v27811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    In a survey of over 2,800 Americans, 65% of people responded that they are more intelligent than the average person.
+  entry_id: 8wfykc
+  entry_content: |
+    <img src=https://i.redditmedia.com/AcG88bl_G8m8et_xyl5ucy55GMhY2pM3w6dI02wdHR4.jpg?s=ebd01cb461c47ef46fdba745ba2ba334 frameborder=0>
 ---
