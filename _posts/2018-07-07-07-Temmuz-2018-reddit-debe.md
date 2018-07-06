@@ -8,11 +8,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFamiliarMeagerDore&url=https%3A%2F%2Fgfycat.com%2FFamiliarMeagerDore&image=https%3A%2F%2Fthumbs.gfycat.com%2FFamiliarMeagerDore-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=384 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Watching the World Cup penalty shootout between England and Colombia without disturbing anybody is about as polite and English as it gets
-  entry_id: 8wdc7r
-  entry_content: |
-    <iframe src=https://v.redd.it/nzooxv0bl6811/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     I said no three times at the SPCA because I’m not a cat person. She sat and purred in my lap as the lady said “How? She won’t let anyone hold her!”. I knew I wanted her then. Three days later my girlfriend said “she got adopted today”. When I asked by who, she said “us!”. Welcome home Nirvana.
   entry_id: 8wgone
   entry_content: |
@@ -78,20 +73,10 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Scott Pruitt Resigns as Administrator of the Environmental Protection Agency
-  entry_id: 8wdgap
-  entry_content: |
-    <img src=https://i.redditmedia.com/5SAGhoIFjYK1ttM5K4IE0q9QCJva8dTFR-FQeTKLtwE.jpg?s=79ba1eef4d3e28bcd20b12a7566dd3c2 frameborder=0>
-- entry_name: |
     THE MEMES ARE SAFE. REPEAT, THE MEMES ARE SAFE (for now)
   entry_id: 8we31l
   entry_content: |
     null
-- entry_name: |
-    That showed him who's better!
-  entry_id: 8wdd85
-  entry_content: |
-    <img src=https://i.redditmedia.com/1DOui1iIATTwA8ZirqpFrEOi4fTdXJOduoGKZDF-sv4.jpg?s=23a82aa92088741d72de6d9aeda3a312 frameborder=0>
 - entry_name: |
     good friends
   entry_id: 8wjon6
@@ -207,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KTlT9CbRgcekPs3BZzU6mObiOUXv_OsBreyzOrAeiOs.jpg?s=542d6793bd36fdbd626ad9ac5464af79 frameborder=0>
 - entry_name: |
-    In her old age, all she does is yell and sleep. But she’s still absolutely perfect
-  entry_id: 8wddn6
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gvw5UXMEsAfGZK2CDLQc5DY_avpuCrzebOHlxWgD0E0.jpg?s=d27e70fb6ec8f177ee494ce54c146a91 frameborder=0>
-- entry_name: |
     Student loans are a fucking scam
   entry_id: 8wf2iy
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 8wgp8k
   entry_content: |
     <img src=https://i.redditmedia.com/UvNPJC7e5P1lBg_Z6h8jbqlcUgBw_mPn0Q1TmdG2sQs.jpg?s=7a1d4450b7705ee78b6a8898b45da026 frameborder=0>
+- entry_name: |
+    First post!
+  entry_id: 8wdz30
+  entry_content: |
+    <img src=https://i.redditmedia.com/B_7iu_ys5M53L0529d1djDvQ3gXuWjLwvUS3Vx75KA4.jpg?s=49b394a0aba477108fb007d6f6a13d2a frameborder=0>
+- entry_name: |
+    Poor pup is in over his head at his new job.
+  entry_id: 8weefe
+  entry_content: |
+    <iframe src=https://v.redd.it/pnfjzq7v27811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    In a survey of over 2,800 Americans, 65% of people responded that they are more intelligent than the average person.
+  entry_id: 8wfykc
+  entry_content: |
+    <img src=https://i.redditmedia.com/AcG88bl_G8m8et_xyl5ucy55GMhY2pM3w6dI02wdHR4.jpg?s=ebd01cb461c47ef46fdba745ba2ba334 frameborder=0>
+- entry_name: |
+    Awesome Geoffrey!
+  entry_id: 8wfrgl
+  entry_content: |
+    <img src=https://i.redditmedia.com/uOAp2WRUrisFO3hkYKczSJ3HsUI_zIm6aC90OEi2Omg.jpg?s=2072fe14567d377d1e82f355cd7b0b6d frameborder=0>
 ---
