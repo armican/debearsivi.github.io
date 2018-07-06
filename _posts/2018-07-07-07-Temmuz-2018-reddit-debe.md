@@ -127,11 +127,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/S-1gzLUHXxW9u8YYhQ0YPK1YzgkfjE7_VDKKIdnLL38.jpg?s=761d487cfe0223d7b6b3623e3594c3f3 frameborder=0>
 - entry_name: |
-    This bar that stops you from putting a fake cover over the card reader to clone cards
-  entry_id: 8wcya9
-  entry_content: |
-    <img src=https://i.redditmedia.com/jH6Me4ZnMMNc8TGCKPO0yeZ2HGybqwgu7nltn-H_PlQ.jpg?s=56c8dda51108b65e24aa276ee5bc753e frameborder=0>
-- entry_name: |
     My brothers picked me up from the airport. It was a full plane.
   entry_id: 8wi660
   entry_content: |
@@ -166,11 +161,6 @@ data:
   entry_id: 8wga0i
   entry_content: |
     <img src=https://i.redditmedia.com/KO6DqDl1XE_czjL9X5mpB8pmd_Kcutk0SmeTk9zsvzQ.jpg?s=09e616c14a0e4ae29e39ab7beafa6ade frameborder=0>
-- entry_name: |
-    How Sonic should work in 3d - Sonic Utopia (fangame)
-  entry_id: 8wcwnc
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FPlumpEmbellishedBluetickcoonhound&url=https%3A%2F%2Fgfycat.com%2FPlumpEmbellishedBluetickcoonhound&image=https%3A%2F%2Fthumbs.gfycat.com%2FPlumpEmbellishedBluetickcoonhound-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     California's Net Neutrality Bill Is Strong Again Because You Spoke Out
   entry_id: 8wdzxu
@@ -237,10 +227,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0oqjNFgZO2Q5_0TQVljxKFCqFKLjsVLpWJHgsKm1zhQ.jpg?s=3cbf458ed3b81ca1538d2ded852a8033 frameborder=0>
 - entry_name: |
-  entry_id: 8wcw3u
-  entry_content: |
-    <img src=https://i.redditmedia.com/V2V3Vd9v26EcH_8M4Ij9pA5UzAlwzkT_j3xtcNKd5Ak.jpg?s=49ddc52c5e6970aaa5ff8dc4688ef458 frameborder=0>
-- entry_name: |
     Is this why people are workaholics?
   entry_id: 8wfggs
   entry_content: |
@@ -250,4 +236,19 @@ data:
   entry_id: 8wgo7u
   entry_content: |
     <iframe src=https://v.redd.it/g60hw750s8811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Does this belong here? I feel like only the trashiest person would admit this and find it funny
+  entry_id: 8we7yn
+  entry_content: |
+    <img src=https://i.redditmedia.com/blIM1WJzMecsDeKNUukQJaZruBiH4FEJHFbfBvgI4rM.png?s=c7f46b3fd894434d08899a0a67db8423 frameborder=0>
+- entry_name: |
+    White Supremacist Richard Spencer Banned from Entering Sweden by Poland
+  entry_id: 8wjg59
+  entry_content: |
+    <img src=https://i.redditmedia.com/jwPGPf10tAU3tYV6zeTWhaUYfNDWXqKSgpYkWAYAYBI.jpg?s=651cb0153bd9aef1f686e8a61a51998c frameborder=0>
+- entry_name: |
+    Hot format right off the presses. Invest?
+  entry_id: 8wgp8k
+  entry_content: |
+    <img src=https://i.redditmedia.com/UvNPJC7e5P1lBg_Z6h8jbqlcUgBw_mPn0Q1TmdG2sQs.jpg?s=7a1d4450b7705ee78b6a8898b45da026 frameborder=0>
 ---
