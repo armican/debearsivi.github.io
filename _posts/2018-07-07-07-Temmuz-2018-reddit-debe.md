@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yI_QYlLPhQRhJ7Pj58-NkuRGJ6X0MzvQfB5qweU-Aic.jpg?s=249c8b37f0025e0e84dd4ee73524dca6 frameborder=0>
 - entry_name: |
-    Park Ranger Jessica Rabbit Cosplay by Major Sam
-  entry_id: 8wdjv1
-  entry_content: |
-    <img src=https://i.redditmedia.com/3wb6o5rbYE6anWMIVDk3CkeoniBkQO5YrsVdX1Jm0qk.jpg?s=49f44afd56b0baa515752ef26ed072c3 frameborder=0>
-- entry_name: |
     Navy SEAL dies while rescuing Thai schoolboys trapped in cave
   entry_id: 8wgnqy
   entry_content: |
@@ -111,11 +106,6 @@ data:
   entry_id: 8we662
   entry_content: |
     <img src=https://i.redditmedia.com/hOMOLDzPTfLlY8HpuG8F9mICiq_bSNQNcYZ9MASVq0Y.jpg?s=c959edc8287f5f4a5c03bfe8e12b8a44 frameborder=0>
-- entry_name: |
-    Sunlight hitting opal
-  entry_id: 8wdl51
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFlimsyHonestAbyssiniancat&url=https%3A%2F%2Fgfycat.com%2FFlimsyHonestAbyssiniancat&image=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsyHonestAbyssiniancat-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=460 height=458 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Hol up
   entry_id: 8wdwip
@@ -251,4 +241,14 @@ data:
   entry_id: 8wfrgl
   entry_content: |
     <img src=https://i.redditmedia.com/uOAp2WRUrisFO3hkYKczSJ3HsUI_zIm6aC90OEi2Omg.jpg?s=2072fe14567d377d1e82f355cd7b0b6d frameborder=0>
+- entry_name: |
+    Thai authorities say Navy SEAL working to rescue boys trapped in cave has died from lack of oxygen
+  entry_id: 8wgi0r
+  entry_content: |
+    null
+- entry_name: |
+    This cat has a very human-like face
+  entry_id: 8widua
+  entry_content: |
+    <iframe src=https://v.redd.it/zmp2nx0eea811/DASH_4_8_M frameborder=0></iframe>
 ---
