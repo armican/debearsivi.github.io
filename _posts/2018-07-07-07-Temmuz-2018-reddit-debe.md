@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XqGH45jKdryI1kv6XtT5qjVqF4th_8O17L9suN1dW70.jpg?s=a3e563a04b8f4d514322f0b536aac3ac frameborder=0>
 - entry_name: |
-    This picture that I took mid firework show looks a lot like space
-  entry_id: 8wd4ig
-  entry_content: |
-    <img src=https://i.redditmedia.com/EOEcPPZ_WTS7wD5JIY4Orj_RXA8GrMmi-iyvIDb_ymw.jpg?s=8600684896aefd909414d678d0213a0c frameborder=0>
-- entry_name: |
     Last image of Saman Kunan
   entry_id: 8widql
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8wgp8k
   entry_content: |
     <img src=https://i.redditmedia.com/UvNPJC7e5P1lBg_Z6h8jbqlcUgBw_mPn0Q1TmdG2sQs.jpg?s=7a1d4450b7705ee78b6a8898b45da026 frameborder=0>
+- entry_name: |
+    First post!
+  entry_id: 8wdz30
+  entry_content: |
+    <img src=https://i.redditmedia.com/B_7iu_ys5M53L0529d1djDvQ3gXuWjLwvUS3Vx75KA4.jpg?s=49b394a0aba477108fb007d6f6a13d2a frameborder=0>
 ---
