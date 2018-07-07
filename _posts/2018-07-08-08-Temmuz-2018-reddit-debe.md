@@ -133,11 +133,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/K0XBOBtn4mPEbJXtOEzBN0T9wpIEW4CuFshxPfh8tqs.jpg?s=c62a8b0fbcda0a34c5b708e602b44b06 frameborder=0>
 - entry_name: |
-    YSK the $35 that scientific journals charge you to read a paper goes 100% to the publisher and 0% to the authors. If you email a researcher and ask for their paper, they are allowed to send them to you for free and will be genuinely delighted to do so.
-  entry_id: 8wmkg2
-  entry_content: |
-    null
-- entry_name: |
     Lemonade million dollar deal
   entry_id: 8wobac
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JFzOmr_EVdKTPgQSOKCUvnKT6nHUyjpVvmYVD0jdkV0.jpg?s=99ed0292a8841bd878a94320a0a0ddf5 frameborder=0>
 - entry_name: |
-    Fox Business host on Trump tariffs: 'We'd be shouting' if Obama did this
-  entry_id: 8wmh77
-  entry_content: |
-    <img src=https://i.redditmedia.com/mgmARsTaxtqucFPFrRPD8rv1Wa9m86bFBkEVU3MtTA8.jpg?s=bfa8aeefdca0332a510d7e530be5b7e4 frameborder=0>
-- entry_name: |
     Confession bear's a tad cold
   entry_id: 8wnz23
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8wocp0
   entry_content: |
     null
+- entry_name: |
+    I knew exactly which house he meant
+  entry_id: 8wrnad
+  entry_content: |
+    <img src=https://i.redditmedia.com/y5sX8b0M71kjZPFdWmR6eAesA8_l_jNGKffEuJCr5zs.jpg?s=5d3521d6f94ac73f1c8bb79221d8e6b3 frameborder=0>
+- entry_name: |
+    Spider building a web
+  entry_id: 8womtd
+  entry_content: |
+    <iframe src=https://v.redd.it/buy06dw3ue811/DASH_2_4_M frameborder=0></iframe>
 ---
