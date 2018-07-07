@@ -117,11 +117,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/X4tXZs5KBBGtOO2he5MFvYXSA0ZBkqIZe1ONVZOa4ag.jpg?s=ba47620a1aa9d6d0af5daa5f0905f1c1 frameborder=0>
 - entry_name: |
-    Science Moms (2018): A group of scientist moms tackle the pseudoscience that has become endemic among mothers online.
-  entry_id: 8wlyt9
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/eEGAUHkHMyE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Duterte says he will resign as soon as someone proves god exists.
   entry_id: 8wrucs
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8wrakf
   entry_content: |
     <img src=https://i.redditmedia.com/TBTOZQbpBqz81UGfXzgByBOrJQ-eHdqxMVCZLLpaw4k.jpg?s=7b13e6270eee8d76d8d4d934f6e7431a frameborder=0>
+- entry_name: |
+    ULPT: Start every phone call with my phone is just about out of battery that way you can hang up on them when you get bored.
+  entry_id: 8wocp0
+  entry_content: |
+    null
 ---
