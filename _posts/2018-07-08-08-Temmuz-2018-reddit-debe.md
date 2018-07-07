@@ -153,11 +153,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8yv9k7dt9f811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I crocheted some little triceratops!
-  entry_id: 8wni40
-  entry_content: |
-    <img src=https://i.redditmedia.com/zjlSsBWlWN_Zdos5HVJ4hFdcFCx-OpnTDESMlOvxMSk.jpg?s=91c56d1445cdf576ddce43a745f76021 frameborder=0>
-- entry_name: |
     Steve Ditko, Spider-Man Co-Creator and Legendary Comics Artist, Dies at 90
   entry_id: 8wor6a
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8wsabn
   entry_content: |
     <img src=https://i.redditmedia.com/o2TlVAY5_oud9HXfYZhpIodEb2rTqXF8ivegyapaP7Y.jpg?s=cfa42e31eaeacec00660d21834073963 frameborder=0>
+- entry_name: |
+    Day Five: Time Stone Day
+  entry_id: 8wqgpp
+  entry_content: |
+    <img src=https://i.redditmedia.com/azlaZj-Eiz8m6bSASFMDpe19G40IClXO5nHT03e5mDo.gif?fm=jpg&s=f98381e2e1089234304d321fcc15e4a9 frameborder=0>
 ---
