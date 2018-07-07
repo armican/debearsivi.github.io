@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xp5oezbzve811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    World Cup: Belgium eliminates Brazil
-  entry_id: 8wn4zk
-  entry_content: |
-    <img src=https://i.redditmedia.com/eXBYhH5ko35GXECdX57S1VzzpU0-cUHkDdGiJsCOMZs.jpg?s=f5adc4654a855350323c6cb35d173b7a frameborder=0>
-- entry_name: |
     The man on the left went to 7 world cups, and died in 2015. His kids carried on his legacy this year.
   entry_id: 8wrrhw
   entry_content: |
@@ -173,16 +168,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/8yv9k7dt9f811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    'We got bills to pay, sweetie.' Cops forced to return stripper's $19,934 in cash
-  entry_id: 8wn7j8
-  entry_content: |
-    <img src=https://i.redditmedia.com/YPMyJ2ku8maVWDtcEkZgmP1yg46EarVA6howykc_PZE.jpg?s=3ba7a6337398904ac7c214ae24457bc1 frameborder=0>
-- entry_name: |
-    🔥 Baby platypodes. 🔥
-  entry_id: 8wn3wr
-  entry_content: |
-    <img src=https://i.redditmedia.com/JJpU6dGw6rNDVdoYGUsu_kNCxmmGP6A0oUp7TEsOwTc.jpg?s=fc3d5f95d4d4dd922aafd463a9305c19 frameborder=0>
-- entry_name: |
     Steve Ditko, Spider-Man Co-Creator and Legendary Comics Artist, Dies at 90
   entry_id: 8wor6a
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8womtd
   entry_content: |
     <iframe src=https://v.redd.it/buy06dw3ue811/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    I cosplayed my Destiny Hunter at Anime Expo
+  entry_id: 8wpt7t
+  entry_content: |
+    <img src=https://i.redditmedia.com/CM_m4RNmDLVz0Ba8iSWoWdmwFSj9vx8Qe70hkkqjf1E.jpg?s=86ad973b61f2deaaff2d6bfc0d0ab95a frameborder=0>
+- entry_name: |
+    Day Five: Time Stone Day
+  entry_id: 8wqgpp
+  entry_content: |
+    <img src=https://i.redditmedia.com/azlaZj-Eiz8m6bSASFMDpe19G40IClXO5nHT03e5mDo.gif?fm=jpg&s=f98381e2e1089234304d321fcc15e4a9 frameborder=0>
+- entry_name: |
+    always
+  entry_id: 8wsr2c
+  entry_content: |
+    <img src=https://i.redditmedia.com/dZzcrEBxfYfFRrMzJZAq1tkOarI41-KEX5SyDmiFiQw.jpg?s=4216fbd1c2873e2c1485c569a3127a72 frameborder=0>
 ---
