@@ -187,11 +187,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JFzOmr_EVdKTPgQSOKCUvnKT6nHUyjpVvmYVD0jdkV0.jpg?s=99ed0292a8841bd878a94320a0a0ddf5 frameborder=0>
 - entry_name: |
-    My roommate got a food saver. I hate him.
-  entry_id: 8wm7si
-  entry_content: |
-    <img src=https://i.redditmedia.com/N96m2BK6QuVvZT315rqPh6qyzm8JqugQM9FU5wEVVrc.jpg?s=1e1ae349505263e818f28580e9c480e6 frameborder=0>
-- entry_name: |
     Baby flamingo.
   entry_id: 8wp7yz
   entry_content: |
@@ -206,11 +201,6 @@ data:
   entry_id: 8wnz23
   entry_content: |
     <iframe src=https://v.redd.it/eb9d7a2ide811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Keanu Reeves Confirms 'John Wick 3: Parabellum' Title
-  entry_id: 8wm8l0
-  entry_content: |
-    <img src=https://i.redditmedia.com/hbic0MqV8wQT_ffT7jsDWN47xnm-Z0HTaV38jw3Eum8.jpg?s=a92e8045e217680dc44e5b7ea4e603b6 frameborder=0>
 - entry_name: |
     Looooooooooooong title
   entry_id: 8wnt38
@@ -251,4 +241,14 @@ data:
   entry_id: 8wocp0
   entry_content: |
     null
+- entry_name: |
+    Water and Candy.
+  entry_id: 8wqml4
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGoldenSolidChipmunk&url=https%3A%2F%2Fgfycat.com%2FGoldenSolidChipmunk&image=https%3A%2F%2Fthumbs.gfycat.com%2FGoldenSolidChipmunk-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    You look like a real giraffe!
+  entry_id: 8wmw1z
+  entry_content: |
+    <img src=https://i.redditmedia.com/cv_fGD6r_1ZaTYQaNJ4TCcjljbpSm1OtLP69oXR10_Y.jpg?s=cf5da2b428eb0c65d2aba8cd22ae9daa frameborder=0>
 ---
