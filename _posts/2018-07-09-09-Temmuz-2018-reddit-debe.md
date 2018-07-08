@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wyrLkpmMVbXeoQHc9qb8XNShnXDyGySdCo_c2ktoC74.jpg?s=e74f02796e74164d3df42bd32101e488 frameborder=0>
 - entry_name: |
-    A picture of Thanos should be the most upvoted post of all time.
-  entry_id: 8wvp8x
-  entry_content: |
-    <img src=https://i.redditmedia.com/VjNeW_pFKjn0XTpRFZAwL3KJET0HrjODEX0jW0AD5RQ.jpg?s=0f61e8142a294a93c5e12ad8c62b9edf frameborder=0>
-- entry_name: |
     Gal Gadot stopped by the Inova Children’s Hospital in Annandale, Virginia on Friday in her Wonder Woman outfit.
   entry_id: 8x0s5d
   entry_content: |
@@ -192,11 +187,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8lRPTK7fFXX98ywtL0pBGKtAV2cvFaOKra5-_EtAxdo.jpg?s=bdaef995df4eb29fff7200fc127cac52 frameborder=0>
 - entry_name: |
-    This is Dawn the orangutan. She saw zoo workers cleaning off after a shift. So Dawn stole a cloth and now she cleans off everyday too.
-  entry_id: 8wvqjv
-  entry_content: |
-    <iframe src=https://v.redd.it/ru039hafwk811/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     If Prequelmemes, OT Memes and LOTR Memes would be at war with each other, would it look like this?
   entry_id: 8wynvu
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8wwnre
   entry_content: |
     <img src=https://i.redditmedia.com/2jwduoP6ANiZ4_gMsV2Zk7vGEZDj6K1tYe98-BwsGa0.jpg?s=8dc2b6c89adb1ee986970f8f01ac6082 frameborder=0>
+- entry_name: |
+    The Oval Office - Gossip
+  entry_id: 8wzklr
+  entry_content: |
+    <iframe src=https://v.redd.it/ussa9d4b0o811/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    This 72-year-old widower has taken his wife’s portrait to the pier where they fell in love every morning since she died seven years ago
+  entry_id: 8wxltx
+  entry_content: |
+    <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
 ---
