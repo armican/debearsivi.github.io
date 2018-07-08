@@ -207,11 +207,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uouFlK8FKanvRDrKvNMqf0cOXb_4iUnP4eO6qHBeaiU.jpg?s=85e0af30e5d51c534eb0a40f904a04a1 frameborder=0>
 - entry_name: |
-    Double faux pas
-  entry_id: 8wv9qe
-  entry_content: |
-    <img src=https://i.redditmedia.com/WIQAdap7kjkt2m3wKOdthx5OHVnWGNUm_Gpq979wbg8.jpg?s=c0d618d65474551c4bb93b51b36c1e48 frameborder=0>
-- entry_name: |
     Every. Single. Website.
   entry_id: 8wwdq6
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8wza01
   entry_content: |
     null
+- entry_name: |
+    This 72-year-old widower has taken his wife’s portrait to the pier where they fell in love every morning since she died seven years ago
+  entry_id: 8wxltx
+  entry_content: |
+    <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
 ---
