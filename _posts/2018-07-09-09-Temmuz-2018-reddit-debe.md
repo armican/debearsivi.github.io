@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wJs6EhH7Ax3Vdp2Utnwq2tWj55dW3VRCJBbXZ7ODcsw.jpg?s=40a40aaa34e47d7b4889b44011d93573 frameborder=0>
 - entry_name: |
-    A young sea turtle exploring his new world-take by Ben J Hicks
-  entry_id: 8ww3ok
-  entry_content: |
-    <img src=https://i.redditmedia.com/93znZcFv5qGRR22HuoY-m5FzzovNd5PAGYDQMGUNIAI.jpg?s=fa787ca71cf5465fa9d0d9032aa7bcd3 frameborder=0>
-- entry_name: |
     My friends newborn baby was born with the same birthmark in her hair as her mother
   entry_id: 8x00wo
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8x02e9
   entry_content: |
     <img src=https://i.redditmedia.com/2q4OYK-ac2qZ1s8m-e3U3Bvm3PF-E3440IgKtfjobIU.jpg?s=b1bec0fc1dcd1260a9df6e5163663042 frameborder=0>
+- entry_name: |
+    'South Park' changed basically nothing when it parodied a scene from 'The Real Housewives of New Jersey', and the comparison is priceless.
+  entry_id: 8wz3kw
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/ratuNR7tPF4?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
