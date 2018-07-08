@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gNqSpau3G0IcFfRyuLSkGSTrNIRtjNqsFWtcDGZ_6do.jpg?s=382cc9f9053a843ea1f44cfe1f21aa12 frameborder=0>
 - entry_name: |
-    100 year difference.
-  entry_id: 8wvi5p
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMemorableThickAurochs&url=https%3A%2F%2Fgfycat.com%2FMemorableThickAurochs&image=https%3A%2F%2Fthumbs.gfycat.com%2FMemorableThickAurochs-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=360 height=360 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     A city in Arizona made the local McDonald's change their sign to turquoise so as to better fit in with the aesthetics of the town
   entry_id: 8wwjvo
   entry_content: |
@@ -102,11 +97,6 @@ data:
   entry_id: 8x02vx
   entry_content: |
     <img src=https://i.redditmedia.com/JKEuX-23nWssgsaFeRWT_M16cX5dKUplkkt6uf3Fda8.jpg?s=8172b9db1204aea7f007f1bddc1c691b frameborder=0>
-- entry_name: |
-    Real Men Don't Read Instructions
-  entry_id: 8wvhh4
-  entry_content: |
-    <iframe src=https://v.redd.it/8q2ca54pyp811/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My friends newborn baby was born with the same birthmark in her hair as her mother
   entry_id: 8x00wo
@@ -156,11 +146,6 @@ data:
   entry_id: 8wwtp8
   entry_content: |
     null
-- entry_name: |
-    Florida cop claims Burger King put dirt on his food — investigation reveals it was seasoning
-  entry_id: 8wvi37
-  entry_content: |
-    <img src=https://i.redditmedia.com/xQZGmSG2tDgyJOxHR0fClsmFaYFP-BrF7VOoBovzka8.jpg?s=85aac82c4541f35ac5efc4ddcf18f8ec frameborder=0>
 - entry_name: |
     Some people are less social butterflies and more social moths; they come out at night and are drawn to bright shiny things that are bad for them.
   entry_id: 8wz3vl
@@ -251,4 +236,19 @@ data:
   entry_id: 8wxltx
   entry_content: |
     <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
+- entry_name: |
+    For 20 years I have been overweight since day one , I finally joined a gym , wish me luck
+  entry_id: 8wz39x
+  entry_content: |
+    <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
+- entry_name: |
+    Lego Kevin's famous Chili skit
+  entry_id: 8wyfau
+  entry_content: |
+    <img src=https://i.redditmedia.com/L8xUnVCNecav9pHmmOKHuGzdykZFFchP5WmPCILaAHI.jpg?s=ae0010a3155c5ec133878a9f4fcea683 frameborder=0>
+- entry_name: |
+    Phobos over Mars
+  entry_id: 8wxp3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/Wwol7XaOvhAkW6vIDHI7D7F354v0-VeWXOF43B_OIuI.jpg?s=3324555060a3f45012bf89297229d6e3 frameborder=0>
 ---
