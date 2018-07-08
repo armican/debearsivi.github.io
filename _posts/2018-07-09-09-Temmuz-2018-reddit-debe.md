@@ -23,6 +23,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VjNeW_pFKjn0XTpRFZAwL3KJET0HrjODEX0jW0AD5RQ.jpg?s=0f61e8142a294a93c5e12ad8c62b9edf frameborder=0>
 - entry_name: |
+    Gal Gadot stopped by the Inova Children’s Hospital in Annandale, Virginia on Friday in her Wonder Woman outfit.
+  entry_id: 8x0s5d
+  entry_content: |
+    <img src=https://i.redditmedia.com/WP7zGTCpQctGQx3cY53jqR3QzEskAqDmkfQlpEFd-xI.jpg?s=100b955b67ef083d4324fb3b545135a1 frameborder=0>
+- entry_name: |
     Just a dragon taking a swim.
   entry_id: 8ww004
   entry_content: |
@@ -43,10 +48,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/mefeg7sb8n811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Gal Gadot stopped by the Inova Children’s Hospital in Annandale, Virginia on Friday in her Wonder Woman outfit.
-  entry_id: 8x0s5d
+    At least two boys have been successfully rescued from the flooded Luang cave Sunday afternoon.
+  entry_id: 8x0s5k
   entry_content: |
-    <img src=https://i.redditmedia.com/WP7zGTCpQctGQx3cY53jqR3QzEskAqDmkfQlpEFd-xI.jpg?s=100b955b67ef083d4324fb3b545135a1 frameborder=0>
+    <img src=https://i.redditmedia.com/gNqSpau3G0IcFfRyuLSkGSTrNIRtjNqsFWtcDGZ_6do.jpg?s=382cc9f9053a843ea1f44cfe1f21aa12 frameborder=0>
 - entry_name: |
     100 year difference.
   entry_id: 8wvi5p
@@ -58,15 +63,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3FYfQgCSlMOAOO4RON0IG_VjPEKEpo23InPb91SITDI.jpg?s=ef73c277469342bb28caedbb63d1b15d frameborder=0>
 - entry_name: |
-    At least two boys have been successfully rescued from the flooded Luang cave Sunday afternoon.
-  entry_id: 8x0s5k
-  entry_content: |
-    <img src=https://i.redditmedia.com/gNqSpau3G0IcFfRyuLSkGSTrNIRtjNqsFWtcDGZ_6do.jpg?s=382cc9f9053a843ea1f44cfe1f21aa12 frameborder=0>
-- entry_name: |
     Lightning Strikes Firework
   entry_id: 8wxmts
   entry_content: |
     <iframe src=https://v.redd.it/n881pvmham811/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Twins
+  entry_id: 8x0txa
+  entry_content: |
+    <img src=https://i.redditmedia.com/vbpNA551_z27oh8lfdUYGt5n5kMmNDfurDyZkS4YYPU.jpg?s=c0e4ef2f12fb3cbabbf2e7b66433658d frameborder=0>
 - entry_name: |
     A new model minority on the rise?
   entry_id: 8wxs1c
@@ -78,80 +83,70 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/93znZcFv5qGRR22HuoY-m5FzzovNd5PAGYDQMGUNIAI.jpg?s=fa787ca71cf5465fa9d0d9032aa7bcd3 frameborder=0>
 - entry_name: |
-    This quarter that someone painted
-  entry_id: 8wv4d8
-  entry_content: |
-    <img src=https://i.redditmedia.com/YViqtnzqweqFfpEkRfihrkKykC3AXD2tzMqFkw_SnEM.jpg?s=a0f054890746c5e9a1df9369a5414db8 frameborder=0>
-- entry_name: |
     Before the big ban hits, I just wanted to say that this is, for real some of the most fun I've had since joining reddit
   entry_id: 8wvx3c
   entry_content: |
     null
-- entry_name: |
-    Elon Musk making “kid-sized submarine” to rescue teens in Thailand cave: Construction complete in about 8 hours, the tech billionaire tweeted Saturday.
-  entry_id: 8wwiok
-  entry_content: |
-    <img src=https://i.redditmedia.com/TQF5ISo7-KJk0Sn7EI2vTS7CXiv2p4nYXOy9ASohf-k.jpg?s=b2911181e58e298e7967d309117f0bd1 frameborder=0>
 - entry_name: |
     Chatting with adults boosts kids' brain development
   entry_id: 8wxnei
   entry_content: |
     <img src=https://i.redditmedia.com/lEJ4WTlVGbCIIvnFHZZUadtKb3c25m1hmKcPN7nA8R4.jpg?s=3a18dfee92e6140dc35539c63a29735b frameborder=0>
 - entry_name: |
-    Real Men Don't Read Instructions
-  entry_id: 8wvhh4
+    Elon Musk making “kid-sized submarine” to rescue teens in Thailand cave: Construction complete in about 8 hours, the tech billionaire tweeted Saturday.
+  entry_id: 8wwiok
   entry_content: |
-    <iframe src=https://v.redd.it/8q2ca54pyp811/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Twins
-  entry_id: 8x0txa
-  entry_content: |
-    <img src=https://i.redditmedia.com/vbpNA551_z27oh8lfdUYGt5n5kMmNDfurDyZkS4YYPU.jpg?s=c0e4ef2f12fb3cbabbf2e7b66433658d frameborder=0>
-- entry_name: |
-    You gotta love England
-  entry_id: 8wwdh3
-  entry_content: |
-    <img src=https://i.redditmedia.com/gJRLvcmiDQuDbajRhYxhB316NV2wUKf_AvLw7P9-3FE.jpg?s=40496d00b742e1649e138f390aa3ff79 frameborder=0>
-- entry_name: |
-    TIL between 63rd and 76th streets in New York City, scientists discovered an ant species found nowhere else on earth. It has been nicknamed the “ManhattAnt.”
-  entry_id: 8wy3dr
-  entry_content: |
-    <img src=https://i.redditmedia.com/DgE8hlfevKQFfQ-T78H6ZIs5Tv_3mn3PXlI2kBSBZI0.jpg?s=fe3927c3ca774eb9fc0ff43d910d0036 frameborder=0>
-- entry_name: |
-    Mexican president-elect wants every kid to go to college
-  entry_id: 8wy0jq
-  entry_content: |
-    <img src=https://i.redditmedia.com/AdAtjiv9rIXmKfOzbtJ7PBpe80pWsttrMTLYVycLH_4.jpg?s=fd4070b76530707d103c0c4663cccf4e frameborder=0>
+    <img src=https://i.redditmedia.com/TQF5ISo7-KJk0Sn7EI2vTS7CXiv2p4nYXOy9ASohf-k.jpg?s=b2911181e58e298e7967d309117f0bd1 frameborder=0>
 - entry_name: |
     The Thai Navy Seals took this photo with the other international divers just before starting the rescue mission.
   entry_id: 8x02vx
   entry_content: |
     <img src=https://i.redditmedia.com/JKEuX-23nWssgsaFeRWT_M16cX5dKUplkkt6uf3Fda8.jpg?s=8172b9db1204aea7f007f1bddc1c691b frameborder=0>
 - entry_name: |
-    My sister passed away last year, she drew this when we were kids. Miss her dearly.
-  entry_id: 8wzvy5
+    Real Men Don't Read Instructions
+  entry_id: 8wvhh4
   entry_content: |
-    <img src=https://i.redditmedia.com/xdggzTu74bdNpAaA6OHNEj6zcSN5WJDGLWnASRFyTdo.jpg?s=940fae25f7c1b746c64ac716365d0540 frameborder=0>
-- entry_name: |
-    Post Malone
-  entry_id: 8wwubs
-  entry_content: |
-    <img src=https://i.redditmedia.com/iGGUFLUILoRCYHGV_rqYT2ZL93sGFyxLIH8zS8NZKG8.png?s=ad6e5c26520d1f61d66fc8c6a8469036 frameborder=0>
+    <iframe src=https://v.redd.it/8q2ca54pyp811/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     My friends newborn baby was born with the same birthmark in her hair as her mother
   entry_id: 8x00wo
   entry_content: |
     <img src=https://i.redditmedia.com/YwfKG7jDvY4b-TmxWaH2UCjvsMGZpPfsYlLCuIJCqOE.jpg?s=4d49061af73be9a23644fd2c4247f426 frameborder=0>
 - entry_name: |
-    Creativity with page folding
-  entry_id: 8wxajn
+    TIL between 63rd and 76th streets in New York City, scientists discovered an ant species found nowhere else on earth. It has been nicknamed the “ManhattAnt.”
+  entry_id: 8wy3dr
   entry_content: |
-    <iframe src=https://v.redd.it/4xs56i2x0m811/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/DgE8hlfevKQFfQ-T78H6ZIs5Tv_3mn3PXlI2kBSBZI0.jpg?s=fe3927c3ca774eb9fc0ff43d910d0036 frameborder=0>
+- entry_name: |
+    You gotta love England
+  entry_id: 8wwdh3
+  entry_content: |
+    <img src=https://i.redditmedia.com/gJRLvcmiDQuDbajRhYxhB316NV2wUKf_AvLw7P9-3FE.jpg?s=40496d00b742e1649e138f390aa3ff79 frameborder=0>
+- entry_name: |
+    My sister passed away last year, she drew this when we were kids. Miss her dearly.
+  entry_id: 8wzvy5
+  entry_content: |
+    <img src=https://i.redditmedia.com/xdggzTu74bdNpAaA6OHNEj6zcSN5WJDGLWnASRFyTdo.jpg?s=940fae25f7c1b746c64ac716365d0540 frameborder=0>
+- entry_name: |
+    Mexican president-elect wants every kid to go to college
+  entry_id: 8wy0jq
+  entry_content: |
+    <img src=https://i.redditmedia.com/AdAtjiv9rIXmKfOzbtJ7PBpe80pWsttrMTLYVycLH_4.jpg?s=fd4070b76530707d103c0c4663cccf4e frameborder=0>
+- entry_name: |
+    Post Malone
+  entry_id: 8wwubs
+  entry_content: |
+    <img src=https://i.redditmedia.com/iGGUFLUILoRCYHGV_rqYT2ZL93sGFyxLIH8zS8NZKG8.png?s=ad6e5c26520d1f61d66fc8c6a8469036 frameborder=0>
 - entry_name: |
     Dog misses owner
   entry_id: 8wxnnz
   entry_content: |
     <iframe src=https://v.redd.it/m3d34kk2bm811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Creativity with page folding
+  entry_id: 8wxajn
+  entry_content: |
+    <iframe src=https://v.redd.it/4xs56i2x0m811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     At the end of Disney/Pixar’s Ratatouille (2007) Anton Ego is a little bit fatter. This is especially poignant since he states, I don't like food, I love it... if I don't love it I don't swallow.
   entry_id: 8wyhlj
@@ -182,10 +177,35 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVerifiableWavyArrowana&url=https%3A%2F%2Fgfycat.com%2FVerifiableWavyArrowana&image=https%3A%2F%2Fthumbs.gfycat.com%2FVerifiableWavyArrowana-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
+    He just wants a taste of that cream
+  entry_id: 8x18tt
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ozqs3ONWEl6m7KZ4PqSbzqRvlCe1xLC8v9kHgdhHJ1Q.jpg?s=963e958edd391a84511d0b8d72794f96 frameborder=0>
+- entry_name: |
+    TIL that South Koreans have grown 3 inches taller than their North Koreans counterparts. They are genetically the same and have been living similar lives till divide in the last century. The nutritional difference of only 50/60 years has caused this difference.
+  entry_id: 8x0f6f
+  entry_content: |
+    <img src=https://i.redditmedia.com/usoNNnmAeLhJe1ucTiuEjGPRx1VLCJcVkTdExioQpps.jpg?s=feb545937a0666b2af42b726b2bc39e4 frameborder=0>
+- entry_name: |
     My uncle working at the toll booth to cross the Mexico border, looking straight out of a Dr Pepper ad. Circa 1970.
   entry_id: 8wvyf3
   entry_content: |
     <img src=https://i.redditmedia.com/WaVn9WPZeAOTNRy0Nl_Pgq6HEDfixjqCLlM4NiCkHU0.jpg?s=cdd9d057bec473b116e4b745d5034f5a frameborder=0>
+- entry_name: |
+    John Cleese nails the definition of snowflakes
+  entry_id: 8x0j80
+  entry_content: |
+    <img src=https://i.redditmedia.com/8lRPTK7fFXX98ywtL0pBGKtAV2cvFaOKra5-_EtAxdo.jpg?s=bdaef995df4eb29fff7200fc127cac52 frameborder=0>
+- entry_name: |
+    Gather the knights
+  entry_id: 8x1ag4
+  entry_content: |
+    <img src=https://i.redditmedia.com/V8xjzX849NE9e__gRVfqV3TH9gs0uGTeBSWlkl4dTI0.jpg?s=ddd17487039625ff9bc83f38ba93fe30 frameborder=0>
+- entry_name: |
+    First two boys have been rescued, local officials tell Reuters
+  entry_id: 8x10n9
+  entry_content: |
+    <img src=https://i.redditmedia.com/uouFlK8FKanvRDrKvNMqf0cOXb_4iUnP4eO6qHBeaiU.jpg?s=85e0af30e5d51c534eb0a40f904a04a1 frameborder=0>
 - entry_name: |
     Double faux pas
   entry_id: 8wv9qe
@@ -197,58 +217,38 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DiAM-vNl1hpYOwlHrN3DN-Md5gAFxFTycg_w9kCYYSc.jpg?s=1c7fe15b7fc974292a80305100d3e428 frameborder=0>
 - entry_name: |
-    TIL that South Koreans have grown 3 inches taller than their North Koreans counterparts. They are genetically the same and have been living similar lives till divide in the last century. The nutritional difference of only 50/60 years has caused this difference.
-  entry_id: 8x0f6f
+    I declare this university open
+  entry_id: 8x111e
   entry_content: |
-    <img src=https://i.redditmedia.com/usoNNnmAeLhJe1ucTiuEjGPRx1VLCJcVkTdExioQpps.jpg?s=feb545937a0666b2af42b726b2bc39e4 frameborder=0>
+    <iframe src=https://v.redd.it/7b39jr9ltp811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     me irl
   entry_id: 8wxlw8
   entry_content: |
     <img src=https://i.redditmedia.com/mwkIHC5UKcSI5x2dOxhuBmhPe8SlBjJx-dn2XoynZcM.jpg?s=b9655c93b5ca220dfa47b6e204ba3bc9 frameborder=0>
 - entry_name: |
-    Protesters confront McConnell leaving Kentucky restaurant
-  entry_id: 8wx28v
-  entry_content: |
-    <img src=https://i.redditmedia.com/c7iuscksy7XE14cdBUMVy-9dgdOXJesYQLE4zdb36L8.jpg?s=6d140c50df5f7869d2571cf294274426 frameborder=0>
-- entry_name: |
     “Can I see the Manager” Mom does not want Beach Balls at children’s concert.
   entry_id: 8wwgb9
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBareLonelyInvisiblerail&url=https%3A%2F%2Fgfycat.com%2FBareLonelyInvisiblerail&image=https%3A%2F%2Fthumbs.gfycat.com%2FBareLonelyInvisiblerail-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    John Cleese nails the definition of snowflakes
-  entry_id: 8x0j80
+    Protesters confront McConnell leaving Kentucky restaurant
+  entry_id: 8wx28v
   entry_content: |
-    <img src=https://i.redditmedia.com/8lRPTK7fFXX98ywtL0pBGKtAV2cvFaOKra5-_EtAxdo.jpg?s=bdaef995df4eb29fff7200fc127cac52 frameborder=0>
+    <img src=https://i.redditmedia.com/c7iuscksy7XE14cdBUMVy-9dgdOXJesYQLE4zdb36L8.jpg?s=6d140c50df5f7869d2571cf294274426 frameborder=0>
 - entry_name: |
     TIL: On Full House Bob Saget, John Stamos & Dave Coulier often got in trouble for adult humor in front of their child co-stars and got busted doing whip its off screen with 15 cans of Redi Whip while impatiently waiting for the girls to finish shooting a scene.
   entry_id: 8wwnre
   entry_content: |
     <img src=https://i.redditmedia.com/2jwduoP6ANiZ4_gMsV2Zk7vGEZDj6K1tYe98-BwsGa0.jpg?s=8dc2b6c89adb1ee986970f8f01ac6082 frameborder=0>
 - entry_name: |
-    This 72-year-old widower has taken his wife’s portrait to the pier where they fell in love every morning since she died seven years ago
-  entry_id: 8wxltx
-  entry_content: |
-    <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
-- entry_name: |
-    For 20 years I have been overweight since day one , I finally joined a gym , wish me luck
-  entry_id: 8wz39x
-  entry_content: |
-    <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
-- entry_name: |
     A Teacher in India buys a bus and becomes a bus driver to make sure no one drops out of school
   entry_id: 8wyx8k
   entry_content: |
     <img src=https://i.redditmedia.com/CJSQoV69bzWGdkey6ZF4wV83WL77TRP-EQoOKxQMy4Y.jpg?s=2047aa8da892b4cb913ba0fd21fce365 frameborder=0>
 - entry_name: |
-    Phobos over Mars
-  entry_id: 8wxp3r
+    On January 1 2019, all works published in 1923 enter the public domain. This is the first public domain entrance of copyrighted material in 20 years. What are you excited to be recreated?
+  entry_id: 8wza01
   entry_content: |
-    <img src=https://i.redditmedia.com/Wwol7XaOvhAkW6vIDHI7D7F354v0-VeWXOF43B_OIuI.jpg?s=3324555060a3f45012bf89297229d6e3 frameborder=0>
-- entry_name: |
-    Lego Kevin's famous Chili skit
-  entry_id: 8wyfau
-  entry_content: |
-    <img src=https://i.redditmedia.com/L8xUnVCNecav9pHmmOKHuGzdykZFFchP5WmPCILaAHI.jpg?s=ae0010a3155c5ec133878a9f4fcea683 frameborder=0>
+    null
 ---
