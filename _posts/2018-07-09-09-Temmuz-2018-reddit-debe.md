@@ -8,10 +8,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Jt-muG_c4sI1HMJ2uMe8bYZwHuhj-HwJgreLqUGl9r0.jpg?s=715ecad75af56f18ffcedcb1f1b022a0 frameborder=0>
 - entry_name: |
-    On the train and saw this friendly face
-  entry_id: 8wvzl1
+    Reddit, Thanos has a message for you...
+  entry_id: 8x2pyo
   entry_content: |
-    <img src=https://i.redditmedia.com/fmqPTbgFrFAVp1-3MLUyoMwWfTDPcXPzjZY2ROsOhDs.jpg?s=8df2adcbc5ea52b0c621b7d39ff41361 frameborder=0>
+    <iframe src=https://v.redd.it/tqiynxb26r811/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Last year, I built a sound-proofed, built-in doghouse under my stairs, so Bucky would have a safe place to hide when he got scared. On the 4th of July, he let me know, in no uncertain terms, that I had wasted my time.
   entry_id: 8wyqsu
@@ -23,40 +23,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WP7zGTCpQctGQx3cY53jqR3QzEskAqDmkfQlpEFd-xI.jpg?s=100b955b67ef083d4324fb3b545135a1 frameborder=0>
 - entry_name: |
-    Just a dragon taking a swim.
-  entry_id: 8ww004
-  entry_content: |
-    <iframe src=https://v.redd.it/p124ldt7vk811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Elon Musk making “kid-sized submarine” to rescue teens in Thailand cave: Construction complete in about 8 hours, the tech billionaire tweeted Saturday.
   entry_id: 8wwiqn
   entry_content: |
     <img src=https://i.redditmedia.com/TQF5ISo7-KJk0Sn7EI2vTS7CXiv2p4nYXOy9ASohf-k.jpg?s=b2911181e58e298e7967d309117f0bd1 frameborder=0>
-- entry_name: |
-    When your travel pillow makes you look like Shakespeare
-  entry_id: 8ww148
-  entry_content: |
-    <img src=https://i.redditmedia.com/f6hKHY3zv9MQUYMzfyuLk4qXo7fmNnhZlJvff1jzHjA.jpg?s=139973e27ecb7f1a76e9278ddcbfdfb9 frameborder=0>
 - entry_name: |
     Camera pans to Dikembe Mutombo when a Suns player makes a block.
   entry_id: 8wyr17
   entry_content: |
     <iframe src=https://v.redd.it/mefeg7sb8n811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    At least two boys have been successfully rescued from the flooded Luang cave Sunday afternoon.
-  entry_id: 8x0s5k
-  entry_content: |
-    <img src=https://i.redditmedia.com/gNqSpau3G0IcFfRyuLSkGSTrNIRtjNqsFWtcDGZ_6do.jpg?s=382cc9f9053a843ea1f44cfe1f21aa12 frameborder=0>
-- entry_name: |
     Twins
   entry_id: 8x0txa
   entry_content: |
     <img src=https://i.redditmedia.com/vbpNA551_z27oh8lfdUYGt5n5kMmNDfurDyZkS4YYPU.jpg?s=c0e4ef2f12fb3cbabbf2e7b66433658d frameborder=0>
 - entry_name: |
-    Reddit, Thanos has a message for you...
-  entry_id: 8x2pyo
+    At least two boys have been successfully rescued from the flooded Luang cave Sunday afternoon.
+  entry_id: 8x0s5k
   entry_content: |
-    <iframe src=https://v.redd.it/tqiynxb26r811/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/gNqSpau3G0IcFfRyuLSkGSTrNIRtjNqsFWtcDGZ_6do.jpg?s=382cc9f9053a843ea1f44cfe1f21aa12 frameborder=0>
+- entry_name: |
+    This sign on a vending machine at my work
+  entry_id: 8x1txy
+  entry_content: |
+    <img src=https://i.redditmedia.com/TR37o6ba6RP734PlBMO3HuBHhAaj0wRktFtLI3QlgEU.jpg?s=9de786c10dd2a6970596530077175ccf frameborder=0>
 - entry_name: |
     A city in Arizona made the local McDonald's change their sign to turquoise so as to better fit in with the aesthetics of the town
   entry_id: 8wwjvo
@@ -83,25 +73,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/YwfKG7jDvY4b-TmxWaH2UCjvsMGZpPfsYlLCuIJCqOE.jpg?s=4d49061af73be9a23644fd2c4247f426 frameborder=0>
 - entry_name: |
-    Chatting with adults boosts kids' brain development
-  entry_id: 8wxnei
-  entry_content: |
-    <img src=https://i.redditmedia.com/lEJ4WTlVGbCIIvnFHZZUadtKb3c25m1hmKcPN7nA8R4.jpg?s=3a18dfee92e6140dc35539c63a29735b frameborder=0>
-- entry_name: |
     The Thai Navy Seals took this photo with the other international divers just before starting the rescue mission.
   entry_id: 8x02vx
   entry_content: |
     <img src=https://i.redditmedia.com/JKEuX-23nWssgsaFeRWT_M16cX5dKUplkkt6uf3Fda8.jpg?s=8172b9db1204aea7f007f1bddc1c691b frameborder=0>
 - entry_name: |
-    Elon Musk making “kid-sized submarine” to rescue teens in Thailand cave: Construction complete in about 8 hours, the tech billionaire tweeted Saturday.
-  entry_id: 8wwiok
+    Chatting with adults boosts kids' brain development
+  entry_id: 8wxnei
   entry_content: |
-    <img src=https://i.redditmedia.com/TQF5ISo7-KJk0Sn7EI2vTS7CXiv2p4nYXOy9ASohf-k.jpg?s=b2911181e58e298e7967d309117f0bd1 frameborder=0>
+    <img src=https://i.redditmedia.com/lEJ4WTlVGbCIIvnFHZZUadtKb3c25m1hmKcPN7nA8R4.jpg?s=3a18dfee92e6140dc35539c63a29735b frameborder=0>
 - entry_name: |
     My sister passed away last year, she drew this when we were kids. Miss her dearly.
   entry_id: 8wzvy5
   entry_content: |
     <img src=https://i.redditmedia.com/xdggzTu74bdNpAaA6OHNEj6zcSN5WJDGLWnASRFyTdo.jpg?s=940fae25f7c1b746c64ac716365d0540 frameborder=0>
+- entry_name: |
+    He just wants a taste of that cream
+  entry_id: 8x18tt
+  entry_content: |
+    <img src=https://i.redditmedia.com/Ozqs3ONWEl6m7KZ4PqSbzqRvlCe1xLC8v9kHgdhHJ1Q.jpg?s=963e958edd391a84511d0b8d72794f96 frameborder=0>
+- entry_name: |
+    Elon Musk making “kid-sized submarine” to rescue teens in Thailand cave: Construction complete in about 8 hours, the tech billionaire tweeted Saturday.
+  entry_id: 8wwiok
+  entry_content: |
+    <img src=https://i.redditmedia.com/TQF5ISo7-KJk0Sn7EI2vTS7CXiv2p4nYXOy9ASohf-k.jpg?s=b2911181e58e298e7967d309117f0bd1 frameborder=0>
 - entry_name: |
     TIL between 63rd and 76th streets in New York City, scientists discovered an ant species found nowhere else on earth. It has been nicknamed the “ManhattAnt.”
   entry_id: 8wy3dr
@@ -118,20 +113,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gJRLvcmiDQuDbajRhYxhB316NV2wUKf_AvLw7P9-3FE.jpg?s=40496d00b742e1649e138f390aa3ff79 frameborder=0>
 - entry_name: |
+    I declare this university open
+  entry_id: 8x111e
+  entry_content: |
+    <iframe src=https://v.redd.it/7b39jr9ltp811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Post Malone
   entry_id: 8wwubs
   entry_content: |
     <img src=https://i.redditmedia.com/iGGUFLUILoRCYHGV_rqYT2ZL93sGFyxLIH8zS8NZKG8.png?s=ad6e5c26520d1f61d66fc8c6a8469036 frameborder=0>
 - entry_name: |
-    He just wants a taste of that cream
-  entry_id: 8x18tt
+    First two boys have been rescued, local officials tell Reuters
+  entry_id: 8x10n9
   entry_content: |
-    <img src=https://i.redditmedia.com/Ozqs3ONWEl6m7KZ4PqSbzqRvlCe1xLC8v9kHgdhHJ1Q.jpg?s=963e958edd391a84511d0b8d72794f96 frameborder=0>
-- entry_name: |
-    This sign on a vending machine at my work
-  entry_id: 8x1txy
-  entry_content: |
-    <img src=https://i.redditmedia.com/TR37o6ba6RP734PlBMO3HuBHhAaj0wRktFtLI3QlgEU.jpg?s=9de786c10dd2a6970596530077175ccf frameborder=0>
+    <img src=https://i.redditmedia.com/uouFlK8FKanvRDrKvNMqf0cOXb_4iUnP4eO6qHBeaiU.jpg?s=85e0af30e5d51c534eb0a40f904a04a1 frameborder=0>
 - entry_name: |
     Dog misses owner
   entry_id: 8wxnnz
@@ -148,59 +143,69 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/o8hi8yAMihgH8lm84wyzYShoSFYDNXnZT-CydpW2gdo.jpg?s=84dce165422f09ab76c832cdea914782 frameborder=0>
 - entry_name: |
-    I declare this university open
-  entry_id: 8x111e
+    Gather the knights
+  entry_id: 8x1ag4
   entry_content: |
-    <iframe src=https://v.redd.it/7b39jr9ltp811/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-  entry_id: 8wwtp8
-  entry_content: |
-    null
-- entry_name: |
-    First two boys have been rescued, local officials tell Reuters
-  entry_id: 8x10n9
-  entry_content: |
-    <img src=https://i.redditmedia.com/uouFlK8FKanvRDrKvNMqf0cOXb_4iUnP4eO6qHBeaiU.jpg?s=85e0af30e5d51c534eb0a40f904a04a1 frameborder=0>
+    <img src=https://i.redditmedia.com/V8xjzX849NE9e__gRVfqV3TH9gs0uGTeBSWlkl4dTI0.jpg?s=ddd17487039625ff9bc83f38ba93fe30 frameborder=0>
 - entry_name: |
     TIL that South Koreans have grown 3 inches taller than their North Koreans counterparts. They are genetically the same and have been living similar lives till divide in the last century. The nutritional difference of only 50/60 years has caused this difference.
   entry_id: 8x0f6f
   entry_content: |
     <img src=https://i.redditmedia.com/usoNNnmAeLhJe1ucTiuEjGPRx1VLCJcVkTdExioQpps.jpg?s=feb545937a0666b2af42b726b2bc39e4 frameborder=0>
 - entry_name: |
-    Some people are less social butterflies and more social moths; they come out at night and are drawn to bright shiny things that are bad for them.
-  entry_id: 8wz3vl
+  entry_id: 8wwtp8
   entry_content: |
     null
-- entry_name: |
-    Gather the knights
-  entry_id: 8x1ag4
-  entry_content: |
-    <img src=https://i.redditmedia.com/V8xjzX849NE9e__gRVfqV3TH9gs0uGTeBSWlkl4dTI0.jpg?s=ddd17487039625ff9bc83f38ba93fe30 frameborder=0>
 - entry_name: |
     John Cleese nails the definition of snowflakes
   entry_id: 8x0j80
   entry_content: |
     <img src=https://i.redditmedia.com/8lRPTK7fFXX98ywtL0pBGKtAV2cvFaOKra5-_EtAxdo.jpg?s=bdaef995df4eb29fff7200fc127cac52 frameborder=0>
 - entry_name: |
-    If Prequelmemes, OT Memes and LOTR Memes would be at war with each other, would it look like this?
-  entry_id: 8wynvu
+    Some people are less social butterflies and more social moths; they come out at night and are drawn to bright shiny things that are bad for them.
+  entry_id: 8wz3vl
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVerifiableWavyArrowana&url=https%3A%2F%2Fgfycat.com%2FVerifiableWavyArrowana&image=https%3A%2F%2Fthumbs.gfycat.com%2FVerifiableWavyArrowana-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    My uncle working at the toll booth to cross the Mexico border, looking straight out of a Dr Pepper ad. Circa 1970.
-  entry_id: 8wvyf3
-  entry_content: |
-    <img src=https://i.redditmedia.com/WaVn9WPZeAOTNRy0Nl_Pgq6HEDfixjqCLlM4NiCkHU0.jpg?s=cdd9d057bec473b116e4b745d5034f5a frameborder=0>
+    null
 - entry_name: |
     TIL Pandas will sometimes fake pregnancies to receive more food and special treatment from humans
   entry_id: 8x0rzu
   entry_content: |
     <img src=https://i.redditmedia.com/bfy7TvJG6O7VVnZ1elLOJxRBmqMlopuIaqytDq5Tm7s.jpg?s=bd21a1c9e6221865afc54d27970aa116 frameborder=0>
 - entry_name: |
+    If Prequelmemes, OT Memes and LOTR Memes would be at war with each other, would it look like this?
+  entry_id: 8wynvu
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVerifiableWavyArrowana&url=https%3A%2F%2Fgfycat.com%2FVerifiableWavyArrowana&image=https%3A%2F%2Fthumbs.gfycat.com%2FVerifiableWavyArrowana-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    Posted up in a coffee shop, the description is spot on
+  entry_id: 8x1iec
+  entry_content: |
+    <img src=https://i.redditmedia.com/4INTgCxqHMfpiovu4-9H5j1Sf4ZK2ugY9ZR-02fVd8I.jpg?s=74ee195398f2a66c6275b7ce6b79f6af frameborder=0>
+- entry_name: |
+    Some breeds of sheep can have their wool removed by just pulling on it. The process is called “rooing”.
+  entry_id: 8x1qe3
+  entry_content: |
+    <iframe src=https://v.redd.it/jf5kfvdhgq811/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Left: my mom’s 1965 senior high school yearbook photo. Right: my mom’s 1966 Peace Corps ID photo.
+  entry_id: 8x16hq
+  entry_content: |
+    <img src=https://i.redditmedia.com/L-5P6E2etmLZnEZ6YLkXvjHatrCXG3faQaUnGLE6WrI.jpg?s=c6fb5ce3f046e06a5b4e1d95f6ac1588 frameborder=0>
+- entry_name: |
     Every. Single. Website.
   entry_id: 8wwdq6
   entry_content: |
     <img src=https://i.redditmedia.com/DiAM-vNl1hpYOwlHrN3DN-Md5gAFxFTycg_w9kCYYSc.jpg?s=1c7fe15b7fc974292a80305100d3e428 frameborder=0>
+- entry_name: |
+    On January 1 2019, all works published in 1923 enter the public domain. This is the first public domain entrance of copyrighted material in 20 years. What are you excited to be recreated?
+  entry_id: 8wza01
+  entry_content: |
+    null
+- entry_name: |
+    A Teacher in India buys a bus and becomes a bus driver to make sure no one drops out of school
+  entry_id: 8wyx8k
+  entry_content: |
+    <img src=https://i.redditmedia.com/CJSQoV69bzWGdkey6ZF4wV83WL77TRP-EQoOKxQMy4Y.jpg?s=2047aa8da892b4cb913ba0fd21fce365 frameborder=0>
 - entry_name: |
     me irl
   entry_id: 8wxlw8
@@ -212,35 +217,20 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBareLonelyInvisiblerail&url=https%3A%2F%2Fgfycat.com%2FBareLonelyInvisiblerail&image=https%3A%2F%2Fthumbs.gfycat.com%2FBareLonelyInvisiblerail-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Left: my mom’s 1965 senior high school yearbook photo. Right: my mom’s 1966 Peace Corps ID photo.
-  entry_id: 8x16hq
+    The Oval Office - Gossip
+  entry_id: 8wzklr
   entry_content: |
-    <img src=https://i.redditmedia.com/L-5P6E2etmLZnEZ6YLkXvjHatrCXG3faQaUnGLE6WrI.jpg?s=c6fb5ce3f046e06a5b4e1d95f6ac1588 frameborder=0>
-- entry_name: |
-    On January 1 2019, all works published in 1923 enter the public domain. This is the first public domain entrance of copyrighted material in 20 years. What are you excited to be recreated?
-  entry_id: 8wza01
-  entry_content: |
-    null
+    <iframe src=https://v.redd.it/ussa9d4b0o811/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Protesters confront McConnell leaving Kentucky restaurant
   entry_id: 8wx28v
   entry_content: |
     <img src=https://i.redditmedia.com/c7iuscksy7XE14cdBUMVy-9dgdOXJesYQLE4zdb36L8.jpg?s=6d140c50df5f7869d2571cf294274426 frameborder=0>
 - entry_name: |
-    A Teacher in India buys a bus and becomes a bus driver to make sure no one drops out of school
-  entry_id: 8wyx8k
-  entry_content: |
-    <img src=https://i.redditmedia.com/CJSQoV69bzWGdkey6ZF4wV83WL77TRP-EQoOKxQMy4Y.jpg?s=2047aa8da892b4cb913ba0fd21fce365 frameborder=0>
-- entry_name: |
     TIL: On Full House Bob Saget, John Stamos & Dave Coulier often got in trouble for adult humor in front of their child co-stars and got busted doing whip its off screen with 15 cans of Redi Whip while impatiently waiting for the girls to finish shooting a scene.
   entry_id: 8wwnre
   entry_content: |
     <img src=https://i.redditmedia.com/2jwduoP6ANiZ4_gMsV2Zk7vGEZDj6K1tYe98-BwsGa0.jpg?s=8dc2b6c89adb1ee986970f8f01ac6082 frameborder=0>
-- entry_name: |
-    The Oval Office - Gossip
-  entry_id: 8wzklr
-  entry_content: |
-    <iframe src=https://v.redd.it/ussa9d4b0o811/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This 72-year-old widower has taken his wife’s portrait to the pier where they fell in love every morning since she died seven years ago
   entry_id: 8wxltx
@@ -251,4 +241,13 @@ data:
   entry_id: 8wz39x
   entry_content: |
     <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
+- entry_name: |
+    When the mods threaten to ban you for posting a Prequel meme
+  entry_id: 8x0qba
+  entry_content: |
+    <img src=https://i.redditmedia.com/WpgThbBLw_QVJFxNVy0SHU1HDhmuMlIq4CC0-MSyTzc.jpg?s=e8215e1721ae9eec99c77d89556064f3 frameborder=0>
+- entry_name: |
+  entry_id: 8x02e9
+  entry_content: |
+    <img src=https://i.redditmedia.com/2q4OYK-ac2qZ1s8m-e3U3Bvm3PF-E3440IgKtfjobIU.jpg?s=b1bec0fc1dcd1260a9df6e5163663042 frameborder=0>
 ---
