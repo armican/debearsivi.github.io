@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/YwfKG7jDvY4b-TmxWaH2UCjvsMGZpPfsYlLCuIJCqOE.jpg?s=4d49061af73be9a23644fd2c4247f426 frameborder=0>
 - entry_name: |
-    Before the big ban hits, I just wanted to say that this is, for real some of the most fun I've had since joining reddit
-  entry_id: 8wvx3c
-  entry_content: |
-    null
-- entry_name: |
     Chatting with adults boosts kids' brain development
   entry_id: 8wxnei
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8wxltx
   entry_content: |
     <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
+- entry_name: |
+    For 20 years I have been overweight since day one , I finally joined a gym , wish me luck
+  entry_id: 8wz39x
+  entry_content: |
+    <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
 ---
