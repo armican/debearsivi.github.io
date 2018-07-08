@@ -177,11 +177,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/xbs020x6fk811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When Apple announced the iPhone
-  entry_id: 8wuwkd
-  entry_content: |
-    <img src=https://i.redditmedia.com/KhWRBqVshld0PYwi_BqbtA1fkIZ8I5DJCW1Uhp1kmf4.jpg?s=a6a4d2d8257f6ec7d6efe9889a3aa69c frameborder=0>
-- entry_name: |
     Some people are less social butterflies and more social moths; they come out at night and are drawn to bright shiny things that are bad for them.
   entry_id: 8wz3vl
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8wxltx
   entry_content: |
     <img src=https://i.redditmedia.com/tKud6uYMS59fIJ9e4INDJOjumdnTR_V2Fawpg3kvsoM.jpg?s=1f2e8a2b7c6987d7b1bdb8b1af6ab1c5 frameborder=0>
+- entry_name: |
+    For 20 years I have been overweight since day one , I finally joined a gym , wish me luck
+  entry_id: 8wz39x
+  entry_content: |
+    <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
 ---
