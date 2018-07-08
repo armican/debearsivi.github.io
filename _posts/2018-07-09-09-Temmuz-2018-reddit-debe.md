@@ -58,11 +58,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3FYfQgCSlMOAOO4RON0IG_VjPEKEpo23InPb91SITDI.jpg?s=ef73c277469342bb28caedbb63d1b15d frameborder=0>
 - entry_name: |
-    Trump reportedly treats Putin like a 'confidant' and the 2 men commiserate about how the 'fake news' and 'deep state' are against them
-  entry_id: 8wv02l
-  entry_content: |
-    <img src=https://i.redditmedia.com/zyTKjnE6aPeU6qepf8UTEolnpmldiziqw7jzGFmYW0g.jpg?s=29af1bfa16121d40c0f10534fc82f665 frameborder=0>
-- entry_name: |
     At least two boys have been successfully rescued from the flooded Luang cave Sunday afternoon.
   entry_id: 8x0s5k
   entry_content: |
@@ -172,11 +167,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xQZGmSG2tDgyJOxHR0fClsmFaYFP-BrF7VOoBovzka8.jpg?s=85aac82c4541f35ac5efc4ddcf18f8ec frameborder=0>
 - entry_name: |
-    dog too excited to get his own bed (post #15)
-  entry_id: 8wv1mi
-  entry_content: |
-    <iframe src=https://v.redd.it/xbs020x6fk811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Some people are less social butterflies and more social moths; they come out at night and are drawn to bright shiny things that are bad for them.
   entry_id: 8wz3vl
   entry_content: |
@@ -196,11 +186,6 @@ data:
   entry_id: 8wvyf3
   entry_content: |
     <img src=https://i.redditmedia.com/WaVn9WPZeAOTNRy0Nl_Pgq6HEDfixjqCLlM4NiCkHU0.jpg?s=cdd9d057bec473b116e4b745d5034f5a frameborder=0>
-- entry_name: |
-    Alpaca love from Facebook
-  entry_id: 8x0zto
-  entry_content: |
-    <img src=https://i.redditmedia.com/h42zPIrTDeBcRInBYAVDmsJK2R_AV5fcF3nDSW0Z5K8.jpg?s=ba26c6ea8999e2c46123c34dc06dce06 frameborder=0>
 - entry_name: |
     Double faux pas
   entry_id: 8wv9qe
@@ -251,4 +236,19 @@ data:
   entry_id: 8wz39x
   entry_content: |
     <img src=https://i.redditmedia.com/MJ7H5SuqLhnewrXwSJ_p0cmvaoDA1slW658lo_4tK8c.jpg?s=ebe6e30f63a37daac905c87addcb569d frameborder=0>
+- entry_name: |
+    A Teacher in India buys a bus and becomes a bus driver to make sure no one drops out of school
+  entry_id: 8wyx8k
+  entry_content: |
+    <img src=https://i.redditmedia.com/CJSQoV69bzWGdkey6ZF4wV83WL77TRP-EQoOKxQMy4Y.jpg?s=2047aa8da892b4cb913ba0fd21fce365 frameborder=0>
+- entry_name: |
+    Phobos over Mars
+  entry_id: 8wxp3r
+  entry_content: |
+    <img src=https://i.redditmedia.com/Wwol7XaOvhAkW6vIDHI7D7F354v0-VeWXOF43B_OIuI.jpg?s=3324555060a3f45012bf89297229d6e3 frameborder=0>
+- entry_name: |
+    Lego Kevin's famous Chili skit
+  entry_id: 8wyfau
+  entry_content: |
+    <img src=https://i.redditmedia.com/L8xUnVCNecav9pHmmOKHuGzdykZFFchP5WmPCILaAHI.jpg?s=ae0010a3155c5ec133878a9f4fcea683 frameborder=0>
 ---
