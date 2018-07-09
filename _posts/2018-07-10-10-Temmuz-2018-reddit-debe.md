@@ -97,11 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OHoeEMU5pEY6X_cdm8rSrCYn3Hj1AnpZvGOBCjlDb50.jpg?s=d058852aeacf776a85ded7e6af9a908e frameborder=0>
 - entry_name: |
-    Ivanka Trump's Chinese-Made Products Conveniently Spared From Dad's Tariffs
-  entry_id: 8xawxw
-  entry_content: |
-    <img src=https://i.redditmedia.com/siInfZSe_mQRicpSe9kr31xhdPL53Q6JSaG2yma2m8c.jpg?s=6a0ef67327184a4b9b0cf017b2b09ae8 frameborder=0>
-- entry_name: |
     This suit made from Crown Royal bags.
   entry_id: 8x776k
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8x5vs8
   entry_content: |
     <img src=https://i.redditmedia.com/CG7d1woqwAzPXTgiykeIzFx-STJe0BkvLeTOsAAA-Tc.jpg?s=037c8ff943b9ce62dc7285b887091055 frameborder=0>
+- entry_name: |
+    Motorcycle taking a shortcut.
+  entry_id: 8xbap5
+  entry_content: |
+    <iframe src=https://v.redd.it/llulvkzw5x811/DASH_4_8_M frameborder=0></iframe>
 ---
