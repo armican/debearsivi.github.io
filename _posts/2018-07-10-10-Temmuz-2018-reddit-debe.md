@@ -182,11 +182,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Gap26fGfh5ftA5dXktg_IXZkpNyTiLie1sPbOaiN1gg.png?s=4b0a014acaf5c8a40881842df9ccaa96 frameborder=0>
 - entry_name: |
-    Honey, care to dance?
-  entry_id: 8x43w7
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSorrowfulAcclaimedAzurevasesponge&url=https%3A%2F%2Fgfycat.com%2FSorrowfulAcclaimedAzurevasesponge&image=https%3A%2F%2Fthumbs.gfycat.com%2FSorrowfulAcclaimedAzurevasesponge-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
   entry_id: 8x6dyy
   entry_content: |
     <img src=https://i.redditmedia.com/6pCXvA8GE61VRhCCcRj-S1suikBPRM9PuBxLGk-3S2o.jpg?s=ef3861910a3a2d5d8e5555fc618e327d frameborder=0>
@@ -250,4 +245,9 @@ data:
   entry_id: 8x76m5
   entry_content: |
     <img src=https://i.redditmedia.com/jMRr-tst5Tlk_mkqLg7Ks9RzCGWpOKNO7irPhm8qa1s.jpg?s=2417678b2c8c229f927cc4430c18359f frameborder=0>
+- entry_name: |
+    Everything wrong about season 9 in one image
+  entry_id: 8x5nbq
+  entry_content: |
+    <img src=https://i.redditmedia.com/DMma6v7T9Cb_aahc-AqZ2ZwCvd0BUE_FCpZmP7I5I_4.png?s=ca9da0b5f0cfc04df8caea1b4ca8d511 frameborder=0>
 ---
