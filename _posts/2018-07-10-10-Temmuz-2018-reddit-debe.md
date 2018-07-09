@@ -58,40 +58,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1bdzgdkKKASSm7xqnCsIq_uNARieKBOcqrMKelIQMok.jpg?s=89f281b9e6afaf9a26756d0ebaa670e2 frameborder=0>
 - entry_name: |
+    Guy having a blast playing on an arcade machine.
+  entry_id: 8x9axo
+  entry_content: |
+    <iframe src=https://v.redd.it/9q0oalz1jv811/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Dad drove 2,000 miles to surprise his son on his birthday by throwing him the first pitch.
   entry_id: 8x5c5t
   entry_content: |
     <iframe src=https://v.redd.it/zkhcizeyus811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Police officer takes a shot and smiles
-  entry_id: 8x2z63
-  entry_content: |
-    <iframe src=https://v.redd.it/jumsnof9cr811/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Spent my birthday with my grandparents and won a XBOX one from a claw machine. Best $8 dollars spent.
   entry_id: 8x5jrb
   entry_content: |
     <img src=https://i.redditmedia.com/ZF_8ra_tJ4sUC9T1ckdxnXgO6aar-83kT1wa5X1pby0.jpg?s=68c19f3b63a82836e7e97cdf97d1ec71 frameborder=0>
 - entry_name: |
-    Anon understands
-  entry_id: 8x2xd6
+    How thoughtful.
+  entry_id: 8x7wl7
   entry_content: |
-    <img src=https://i.redditmedia.com/1URYtgjiKHyKQyQcs7ufXzFg8oG9SqE4jLBFelXxz84.jpg?s=7a3e909a3701deef6bce638335953b09 frameborder=0>
+    <img src=https://i.redditmedia.com/g5jmA8lJUS91IUM2YQMOUJWjtAt7K41__liLOn0eZDs.jpg?s=aac3037d5a7795c23468e883c624cd4d frameborder=0>
 - entry_name: |
     Bikini Bottom Spotify
   entry_id: 8x596r
   entry_content: |
     <img src=https://i.redditmedia.com/MbdtgclxvQvjFDA9Vr-8LUHOf0HHyqGTaHAnRrruF4w.jpg?s=2b628d96b58c3b1946a61bbaabd84d07 frameborder=0>
 - entry_name: |
-    Guy having a blast playing on an arcade machine.
-  entry_id: 8x9axo
+    Never grow up
+  entry_id: 8xaqfu
   entry_content: |
-    <iframe src=https://v.redd.it/9q0oalz1jv811/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    How thoughtful.
-  entry_id: 8x7wl7
-  entry_content: |
-    <img src=https://i.redditmedia.com/g5jmA8lJUS91IUM2YQMOUJWjtAt7K41__liLOn0eZDs.jpg?s=aac3037d5a7795c23468e883c624cd4d frameborder=0>
+    <iframe src=https://v.redd.it/mwb5v9ddrw811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Woman dies following exposure to nerve agent in Amesbury
   entry_id: 8x4mo2
@@ -113,6 +108,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dvKTRAV7FE-Me1_ayqhnjiGgCx56AEr-1FQJ6Onk-cA.jpg?s=e19a3d2464b6c6d72c156426b2d60d5a frameborder=0>
 - entry_name: |
+    If this gets 10,000 up votes i will tattoo this photo of thanos on my chest
+  entry_id: 8x8rjq
+  entry_content: |
+    <img src=https://i.redditmedia.com/VJa4wuhfab332Y2KKlzO_IEwuDNAD2-Wclc7HUBNpU8.jpg?s=7bd7fabeccc47c7ab769a18e4dabc731 frameborder=0>
+- entry_name: |
     Awesome Warhammer 40k cosplay
   entry_id: 8x3b47
   entry_content: |
@@ -123,40 +123,49 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/t9KTaCfLvHOQ-bmIp4pKVoRQMGU1HaO0yevfKSQsYdc.png?s=9341bc410fa381e673b62ee8e954fb35 frameborder=0>
 - entry_name: |
-    If this gets 10,000 up votes i will tattoo this photo of thanos on my chest
-  entry_id: 8x8rjq
-  entry_content: |
-    <img src=https://i.redditmedia.com/VJa4wuhfab332Y2KKlzO_IEwuDNAD2-Wclc7HUBNpU8.jpg?s=7bd7fabeccc47c7ab769a18e4dabc731 frameborder=0>
-- entry_name: |
     TIL that Tom Cruise's career saved Ray-Bans from extinction. Business was tanking in the 70s, so Ray-Ban signed a product placement deal for 60 films. Risky Business, Top Gun, and Rain Man all had Cruise wearing Wayfarers and Aviators, and sales went through the roof.
   entry_id: 8x827n
   entry_content: |
     <img src=https://i.redditmedia.com/1BHghOoiUopT3I_KjzwiQ7QbYamYB6J2pTsmAwDcIfI.jpg?s=6e5c6ab448e01f036a7a274fa452335c frameborder=0>
+- entry_name: |
+  entry_id: 8x9c6b
+  entry_content: |
+    null
+- entry_name: |
+    Dude tried to pick a fight with random people on the street
+  entry_id: 8xa7ci
+  entry_content: |
+    <iframe src=https://v.redd.it/yoqszvb3cw811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     🔥 Octopus gets diver to help him turn over a log to hunt for food
   entry_id: 8x5rqo
   entry_content: |
     <iframe src=https://v.redd.it/27eh53675t811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Albina Mali-Hočevar, Slovenian fighter who was wounded in combat several times in WWII, c.1945
-  entry_id: 8x5en5
-  entry_content: |
-    <img src=https://i.redditmedia.com/syURMAVP-9sFmVdJLQq2zLPXXoIDnGyZgs5aeLDUD3E.jpg?s=4ecb83943002d2bf693e4879f3eeeddf frameborder=0>
-- entry_name: |
     Fifth person has been rescued from Thai Cave.
   entry_id: 8xa6rx
   entry_content: |
     <img src=https://i.redditmedia.com/n-fS-CsBINtJh5i0XezclLbDzkOOmvfQV3tzkkAP8wo.jpg?s=1f881f48f3244baab7833ae505398357 frameborder=0>
 - entry_name: |
-    Honey, care to dance?
-  entry_id: 8x43w7
+    Albina Mali-Hočevar, Slovenian fighter who was wounded in combat several times in WWII, c.1945
+  entry_id: 8x5en5
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSorrowfulAcclaimedAzurevasesponge&url=https%3A%2F%2Fgfycat.com%2FSorrowfulAcclaimedAzurevasesponge&image=https%3A%2F%2Fthumbs.gfycat.com%2FSorrowfulAcclaimedAzurevasesponge-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/syURMAVP-9sFmVdJLQq2zLPXXoIDnGyZgs5aeLDUD3E.jpg?s=4ecb83943002d2bf693e4879f3eeeddf frameborder=0>
+- entry_name: |
+    When its 7pm in Australia and still no ban
+  entry_id: 8x9vc8
+  entry_content: |
+    <img src=https://i.redditmedia.com/Med9Xv7lOc-iSXSyniQ2c_R_abxk0E4FulQUB5H5JJU.png?s=8813394e55b48d4c2f7b3c648b6dbbb2 frameborder=0>
 - entry_name: |
     She has the most valid of points.
   entry_id: 8x6val
   entry_content: |
     <img src=https://i.redditmedia.com/O5Zcx8b6r-mjtu7cgBuXX5sQswsiLkkiRYkQ5xoqCac.jpg?s=557ea127a8bf3aa5eb982f9ad8cdd089 frameborder=0>
+- entry_name: |
+    Honey, care to dance?
+  entry_id: 8x43w7
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSorrowfulAcclaimedAzurevasesponge&url=https%3A%2F%2Fgfycat.com%2FSorrowfulAcclaimedAzurevasesponge&image=https%3A%2F%2Fthumbs.gfycat.com%2FSorrowfulAcclaimedAzurevasesponge-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
   entry_id: 8x6dyy
   entry_content: |
@@ -172,69 +181,60 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ge7xgw0r1r811/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    When its 7pm in Australia and still no ban
-  entry_id: 8x9vc8
-  entry_content: |
-    <img src=https://i.redditmedia.com/Med9Xv7lOc-iSXSyniQ2c_R_abxk0E4FulQUB5H5JJU.png?s=8813394e55b48d4c2f7b3c648b6dbbb2 frameborder=0>
-- entry_name: |
     Aight so boom
   entry_id: 8x3gcd
   entry_content: |
     <img src=https://i.redditmedia.com/GBROqhvKJ7cS62uxBff4sahwUdDEUzp2ygKThPKtRtM.jpg?s=9464de8440ce1b12907bdb15e6192d62 frameborder=0>
-- entry_name: |
-    Japan has major flooding, 2 mil told to evacuate
-  entry_id: 8x3dki
-  entry_content: |
-    <img src=https://i.redditmedia.com/5MLteqgOD5g2suW3C_oQE9PlhxT_dUlSVHWoYXxA69o.jpg?s=8ec6ab43e68c19ffb27898eddc371ef9 frameborder=0>
-- entry_name: |
-    Never grow up
-  entry_id: 8xaqfu
-  entry_content: |
-    <iframe src=https://v.redd.it/mwb5v9ddrw811/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Drawing in spirals.
-  entry_id: 8x6ood
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDearMildGrackle&url=https%3A%2F%2Fgfycat.com%2FDearMildGrackle&image=https%3A%2F%2Fthumbs.gfycat.com%2FDearMildGrackle-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=296 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    Logan Director James Mangold Warns That Fandom Backlash Will Push Talent Out of Genre Films
-  entry_id: 8x71e0
-  entry_content: |
-    <img src=https://i.redditmedia.com/fdXiF3BzoEB-bRyP58j5wCJdHH9NWWHtHdp0iiEzzUk.jpg?s=8927b099f79e2fab1bde47889bc925ef frameborder=0>
-- entry_name: |
-    Omigod, what's she doing?!
-  entry_id: 8x5ppo
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAlarmedScarceBunny&url=https%3A%2F%2Fgfycat.com%2FAlarmedScarceBunny&image=https%3A%2F%2Fthumbs.gfycat.com%2FAlarmedScarceBunny-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=750 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    Found this relic inside of the door panel of a 1989 BMW I salvaged from a junk yard for parts... I won today!
-  entry_id: 8x5vs8
-  entry_content: |
-    <img src=https://i.redditmedia.com/CG7d1woqwAzPXTgiykeIzFx-STJe0BkvLeTOsAAA-Tc.jpg?s=037c8ff943b9ce62dc7285b887091055 frameborder=0>
 - entry_name: |
     I've gained 12 kilos and never felt better!
   entry_id: 8xac02
   entry_content: |
     <img src=https://i.redditmedia.com/Gap26fGfh5ftA5dXktg_IXZkpNyTiLie1sPbOaiN1gg.png?s=4b0a014acaf5c8a40881842df9ccaa96 frameborder=0>
 - entry_name: |
+    Japan has major flooding, 2 mil told to evacuate
+  entry_id: 8x3dki
+  entry_content: |
+    <img src=https://i.redditmedia.com/5MLteqgOD5g2suW3C_oQE9PlhxT_dUlSVHWoYXxA69o.jpg?s=8ec6ab43e68c19ffb27898eddc371ef9 frameborder=0>
+- entry_name: |
+    Drawing in spirals.
+  entry_id: 8x6ood
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDearMildGrackle&url=https%3A%2F%2Fgfycat.com%2FDearMildGrackle&image=https%3A%2F%2Fthumbs.gfycat.com%2FDearMildGrackle-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=296 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    We didn't deserve Mister Rogers
+  entry_id: 8xac5z
+  entry_content: |
+    <img src=https://i.redditmedia.com/23ys48RIUNEVdOmAXPlGI0Uu3eWzIa8K4P98z9Rnqn8.jpg?s=05ddaf1b329622fcea6f5b9daf69d90e frameborder=0>
+- entry_name: |
+    Logan Director James Mangold Warns That Fandom Backlash Will Push Talent Out of Genre Films
+  entry_id: 8x71e0
+  entry_content: |
+    <img src=https://i.redditmedia.com/fdXiF3BzoEB-bRyP58j5wCJdHH9NWWHtHdp0iiEzzUk.jpg?s=8927b099f79e2fab1bde47889bc925ef frameborder=0>
+- entry_name: |
+    Ivanka Trump's Chinese-Made Products Conveniently Spared From Dad's Tariffs
+  entry_id: 8xawxw
+  entry_content: |
+    <img src=https://i.redditmedia.com/siInfZSe_mQRicpSe9kr31xhdPL53Q6JSaG2yma2m8c.jpg?s=6a0ef67327184a4b9b0cf017b2b09ae8 frameborder=0>
+- entry_name: |
+    Omigod, what's she doing?!
+  entry_id: 8x5ppo
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAlarmedScarceBunny&url=https%3A%2F%2Fgfycat.com%2FAlarmedScarceBunny&image=https%3A%2F%2Fthumbs.gfycat.com%2FAlarmedScarceBunny-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=750 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    Thought this belongs here. Look how the workers in Italy lined up their helmets during a protest.
+  entry_id: 8xa464
+  entry_content: |
+    <img src=https://i.redditmedia.com/Og4xr9rpIHf-Q6Vp__c3nYBP1EvZ7A3iDOFbY9hTenk.jpg?s=884c38658db3c18af2bc2e4cacc8b012 frameborder=0>
+- entry_name: |
+    Found this relic inside of the door panel of a 1989 BMW I salvaged from a junk yard for parts... I won today!
+  entry_id: 8x5vs8
+  entry_content: |
+    <img src=https://i.redditmedia.com/CG7d1woqwAzPXTgiykeIzFx-STJe0BkvLeTOsAAA-Tc.jpg?s=037c8ff943b9ce62dc7285b887091055 frameborder=0>
+- entry_name: |
     PsBattle: Six football fans in Moscow
   entry_id: 8x4vk6
   entry_content: |
     <img src=https://i.redditmedia.com/_ocrmxfNGeMz74A2VGOH2UoKFlfhZinN4TFOWiPpO4k.jpg?s=8012c02756514295a16bf897a98dd472 frameborder=0>
-- entry_name: |
-  entry_id: 8x9c6b
-  entry_content: |
-    null
-- entry_name: |
-    Lurkers avoiding the ban
-  entry_id: 8x3988
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pj5CAxo2cjrf7jXUC4D13qOSalH9c9E7F7--z9XZqaU.jpg?s=cbdd45ab277875493095c31e5122aba2 frameborder=0>
-- entry_name: |
-    TIL There’s a theme park which offers children the experience of adulthood called KidZania. Instead of going on rides, kids can work in a variety of jobs, like fireman or pilot planes, and use their “salary” in the gift shop or rent electric versions of luxury cars.
-  entry_id: 8x34jm
-  entry_content: |
-    <img src=https://i.redditmedia.com/R0er6_vQZ-3M6rvwtTmABeb7bgoCLuYRCs_YEiRaxvE.jpg?s=f7a156f426cf306cc6e852a93a186592 frameborder=0>
 - entry_name: |
     Mischievous Cat is Caught
   entry_id: 8x3yuz
@@ -246,8 +246,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DMma6v7T9Cb_aahc-AqZ2ZwCvd0BUE_FCpZmP7I5I_4.png?s=ca9da0b5f0cfc04df8caea1b4ca8d511 frameborder=0>
 - entry_name: |
-    Dude tried to pick a fight with random people on the street
-  entry_id: 8xa7ci
+    Lurkers avoiding the ban
+  entry_id: 8x3988
   entry_content: |
-    <iframe src=https://v.redd.it/yoqszvb3cw811/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Pj5CAxo2cjrf7jXUC4D13qOSalH9c9E7F7--z9XZqaU.jpg?s=cbdd45ab277875493095c31e5122aba2 frameborder=0>
 ---
