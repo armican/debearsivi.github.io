@@ -157,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Med9Xv7lOc-iSXSyniQ2c_R_abxk0E4FulQUB5H5JJU.png?s=8813394e55b48d4c2f7b3c648b6dbbb2 frameborder=0>
 - entry_name: |
-    She has the most valid of points.
-  entry_id: 8x6val
-  entry_content: |
-    <img src=https://i.redditmedia.com/O5Zcx8b6r-mjtu7cgBuXX5sQswsiLkkiRYkQ5xoqCac.jpg?s=557ea127a8bf3aa5eb982f9ad8cdd089 frameborder=0>
-- entry_name: |
     Honey, care to dance?
   entry_id: 8x43w7
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8x3988
   entry_content: |
     <img src=https://i.redditmedia.com/Pj5CAxo2cjrf7jXUC4D13qOSalH9c9E7F7--z9XZqaU.jpg?s=cbdd45ab277875493095c31e5122aba2 frameborder=0>
+- entry_name: |
+    Stealing air
+  entry_id: 8x76m5
+  entry_content: |
+    <img src=https://i.redditmedia.com/jMRr-tst5Tlk_mkqLg7Ks9RzCGWpOKNO7irPhm8qa1s.jpg?s=2417678b2c8c229f927cc4430c18359f frameborder=0>
 ---
