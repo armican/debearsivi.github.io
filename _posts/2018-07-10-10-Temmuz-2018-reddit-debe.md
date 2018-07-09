@@ -113,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VJa4wuhfab332Y2KKlzO_IEwuDNAD2-Wclc7HUBNpU8.jpg?s=7bd7fabeccc47c7ab769a18e4dabc731 frameborder=0>
 - entry_name: |
-    Awesome Warhammer 40k cosplay
-  entry_id: 8x3b47
-  entry_content: |
-    <img src=https://i.redditmedia.com/3L89NVi_9hWSFu-jDfQdIas5R-3PlgqewiEfGcSy40U.jpg?s=7d5f86a8c9641f53cdcb98dd7e09df4b frameborder=0>
-- entry_name: |
     Private school vs public school
   entry_id: 8x54z2
   entry_content: |
@@ -241,13 +236,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DMma6v7T9Cb_aahc-AqZ2ZwCvd0BUE_FCpZmP7I5I_4.png?s=ca9da0b5f0cfc04df8caea1b4ca8d511 frameborder=0>
 - entry_name: |
-    Lurkers avoiding the ban
-  entry_id: 8x3988
-  entry_content: |
-    <img src=https://i.redditmedia.com/Pj5CAxo2cjrf7jXUC4D13qOSalH9c9E7F7--z9XZqaU.jpg?s=cbdd45ab277875493095c31e5122aba2 frameborder=0>
-- entry_name: |
     Stealing air
   entry_id: 8x76m5
   entry_content: |
     <img src=https://i.redditmedia.com/jMRr-tst5Tlk_mkqLg7Ks9RzCGWpOKNO7irPhm8qa1s.jpg?s=2417678b2c8c229f927cc4430c18359f frameborder=0>
+- entry_name: |
+    This instant.
+  entry_id: 8x41x2
+  entry_content: |
+    <img src=https://i.redditmedia.com/iqinn0jixT5AiyZu5HYGDmuX23_O2XzI9XtMxW3Ny8k.jpg?s=4ad428fc9223cc0b0183692911d6fce8 frameborder=0>
+- entry_name: |
+    Elon Musk's Mini Submarine Put Together by Space X To Save The Thailand Soccer team Stuck In Cave
+  entry_id: 8x4tw9
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/d3qySXPJ2WE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
