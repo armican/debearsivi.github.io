@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/W5hx_Tm_q8hjXBphXP0BHZk59iDawV6BKznzfVhYpSA.jpg?s=14766c68d6e6c3982b4475319679e46d frameborder=0>
 - entry_name: |
-    Jack Sparrow vs Jon Snow
-  entry_id: 8xf610
-  entry_content: |
-    <iframe src=https://v.redd.it/otxwtwn44z811/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
   entry_id: 8xo482
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8xhn4u
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    like a baby
+  entry_id: 8xlb6b
+  entry_content: |
+    <img src=https://i.redditmedia.com/hN6qjrmK6RFuf6ZBKx8Vb7qZY-eZu4VXWwUU09bPH_E.png?s=e4eae1e5341e001ff61fa7d14b6d1c96 frameborder=0>
 ---
