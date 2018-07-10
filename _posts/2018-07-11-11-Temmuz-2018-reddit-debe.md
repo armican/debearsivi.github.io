@@ -8,15 +8,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    For ban day, lets make Thanos the most upvoted image of all time.
-  entry_id: 8xkrju
-  entry_content: |
-    <img src=https://i.redditmedia.com/fIpmhrfQ75_EtPERilYnbzwOgzCLayl51bsD7IslrpM.jpg?s=fb88abbc49d69454820f1f6280145d72 frameborder=0>
-- entry_name: |
     No one is breaking into this house!
   entry_id: 8xpbud
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAbsoluteSkeletalChrysomelid&url=https%3A%2F%2Fgfycat.com%2FAbsoluteSkeletalChrysomelid&image=https%3A%2F%2Fthumbs.gfycat.com%2FAbsoluteSkeletalChrysomelid-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    For ban day, lets make Thanos the most upvoted image of all time.
+  entry_id: 8xkrju
+  entry_content: |
+    <img src=https://i.redditmedia.com/fIpmhrfQ75_EtPERilYnbzwOgzCLayl51bsD7IslrpM.jpg?s=fb88abbc49d69454820f1f6280145d72 frameborder=0>
 - entry_name: |
     Thailand cave rescue: All 12 boys, coach freed, latest updates
   entry_id: 8xo9qj
@@ -38,35 +38,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1Z-XJPx3lLmmn4CjNZYGwnllzh5PoZQ9ruA9aS7Snus.jpg?s=4072e48302c991393f1af2c2efc9b0ec frameborder=0>
 - entry_name: |
-    Reddit CEO tells user, “we are not the thought police,” then suspends that user
-  entry_id: 8xirko
+    Superheroes in Real Life. During the event, one of the rescuer taking a break. Glad to know that all the boys and coach have been rescued successfully.
+  entry_id: 8xo5s8
   entry_content: |
-    <img src=https://i.redditmedia.com/7b2xFelbF2PR9NWJTXNnGg7XnWhJpL0bKuTtqjdx4qQ.jpg?s=e2c5c70ff1ab7aca7e59a18d1dd30c52 frameborder=0>
+    <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
 - entry_name: |
     Co-worker went on vacation, so we upgraded his hardware. He reddits so here's to him finding out before he gets back.
   entry_id: 8xjxcy
   entry_content: |
     <img src=https://i.redditmedia.com/xfej1MStFA9xnIbqVCujGW11FAwxoxh9IJL4gOQf-wU.jpg?s=89d27d801f7b4d961fa0fdd53634cb9a frameborder=0>
 - entry_name: |
-    Superheroes in Real Life. During the event, one of the rescuer taking a break. Glad to know that all the boys and coach have been rescued successfully.
-  entry_id: 8xo5s8
+    Reddit CEO tells user, “we are not the thought police,” then suspends that user
+  entry_id: 8xirko
   entry_content: |
-    <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
+    <img src=https://i.redditmedia.com/7b2xFelbF2PR9NWJTXNnGg7XnWhJpL0bKuTtqjdx4qQ.jpg?s=e2c5c70ff1ab7aca7e59a18d1dd30c52 frameborder=0>
 - entry_name: |
     Fuck the TSA
   entry_id: 8xoxby
   entry_content: |
     <img src=https://i.redditmedia.com/3xqy64c2eme8kKetvldqFkC_-MjiASuiWGZ_BPveD1o.jpg?s=60c26f62b1dbf0484708908e4a4f018e frameborder=0>
 - entry_name: |
+    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
+  entry_id: 8xo482
+  entry_content: |
+    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
+- entry_name: |
     A shockingly long grind
   entry_id: 8xfvjy
   entry_content: |
     <iframe src=https://v.redd.it/8wd7yhvofz811/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
-  entry_id: 8xo482
+    The four Thai Navy Seals (one medic) that stayed IN the cave with the boys since they were discovered. They monitored their health and prepped them for their dangerous escape were the last to emerge after the 13 originals.
+  entry_id: 8xqg68
   entry_content: |
-    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
+    <img src=https://i.redditmedia.com/PN7H6eIQGQYCpBB9a_JPKssjU6ilChpN6iDRd9739Dg.jpg?s=f823541bd0c1b4d07b347a450c6a4ed8 frameborder=0>
 - entry_name: |
     MRW I actually got banned
   entry_id: 8xi9d9
@@ -88,25 +93,25 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Perfectly balanced.
-  entry_id: 8xkqf8
-  entry_content: |
-    <img src=https://i.redditmedia.com/oVC8Ih_h8XEa87o_LEg41m9OdycXXBwiY59kKPfEv40.gif?fm=jpg&s=fd093aed7fdfb66562a06f14bab5297c frameborder=0>
-- entry_name: |
     If this gets 10K points, I'll send one to each and everyone of you
   entry_id: 8xmw44
   entry_content: |
     <img src=https://i.redditmedia.com/ApgX6Bxg3c1jClXgKBEzY4Q2tqcyOhBwfCn4udgBQiI.jpg?s=39d9f63521d6cff228f1797b8cbd439e frameborder=0>
 - entry_name: |
-    A year ago my wife left me and my girls. I finally got the finalized divorce papers in the mail today! That means I officially have custody of my two tiny monsters! I’ve also lost over 70lbs in the last year, working to get healthy and watch these two grow up. Haven’t been this happy in forever.
-  entry_id: 8xgij6
+    Perfectly balanced.
+  entry_id: 8xkqf8
   entry_content: |
-    <img src=https://i.redditmedia.com/CxOYLHAmnP_V8BDPb9bFWjFEeL57IukiDmnP8j9uJVE.jpg?s=5c254e7b460dbdc5faa84f988949a415 frameborder=0>
+    <img src=https://i.redditmedia.com/oVC8Ih_h8XEa87o_LEg41m9OdycXXBwiY59kKPfEv40.gif?fm=jpg&s=fd093aed7fdfb66562a06f14bab5297c frameborder=0>
 - entry_name: |
     Almost 4 years clean of opiates might have made me look at least five years younger
   entry_id: 8xlkha
   entry_content: |
     <img src=https://i.redditmedia.com/fM9n27yC1CdAwJS5BuPSX6S1OX3tI718tgnMs8jRytk.jpg?s=4b008448813bc10a4772dffb13a95b1d frameborder=0>
+- entry_name: |
+    A year ago my wife left me and my girls. I finally got the finalized divorce papers in the mail today! That means I officially have custody of my two tiny monsters! I’ve also lost over 70lbs in the last year, working to get healthy and watch these two grow up. Haven’t been this happy in forever.
+  entry_id: 8xgij6
+  entry_content: |
+    <img src=https://i.redditmedia.com/CxOYLHAmnP_V8BDPb9bFWjFEeL57IukiDmnP8j9uJVE.jpg?s=5c254e7b460dbdc5faa84f988949a415 frameborder=0>
 - entry_name: |
     I made a new friend today while waiting for the post office to open after lunch. Meet Beverly.
   entry_id: 8xgkts
@@ -118,15 +123,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/qO51-KYrH4GV4GQjtclVdErHgn1nsmX2RNhMUpLgXd4.jpg?s=c6cbeea272b5ff4ccaf39886a474acb4 frameborder=0>
 - entry_name: |
-    The ban is complete. The sub is now perfectly balanced, as all things should be. Our Saviour Thanos would be proud.
-  entry_id: 8xk3za
-  entry_content: |
-    null
-- entry_name: |
     Iraqi farmer cracks a watermelon Like a Boss
   entry_id: 8xndzz
   entry_content: |
     <iframe src=https://v.redd.it/3549bl95b3911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    The ban is complete. The sub is now perfectly balanced, as all things should be. Our Saviour Thanos would be proud.
+  entry_id: 8xk3za
+  entry_content: |
+    null
 - entry_name: |
     If this gets 32,768 I’ll reduce the number of Thanos in this pic by half... If I survive that ban, this is probably the last one fellas. There was no other way...
   entry_id: 8xgc7r
@@ -148,6 +153,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6w9ekSOOqPNBzuayymctBNqsdufZJaRx2TW22RpSUCA.jpg?s=f06ec5d70c26659a27b9474204c2e7b0 frameborder=0>
 - entry_name: |
+    TIL two trapped miners once asked for an ipod with The Foo Fighters music on it to keep their spirits up. After hearing this, Dave Grohl wrote a note saying I want you to know that when you come home, there's two tickets to any Foos show, anywhere, and two cold beers waiting for you.
+  entry_id: 8xpr27
+  entry_content: |
+    <img src=https://i.redditmedia.com/-fbZhSN55qKB0JVfoeg6NRcJOD76MpP-ImQx418sWcE.jpg?s=df76440fe4ee1c2f88d675c3f86b6c72 frameborder=0>
+- entry_name: |
     Boxer not happy he has to move over for the baby.
   entry_id: 8xhezf
   entry_content: |
@@ -158,20 +168,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KPRoUj8BScH9sS6glyeNMVSN7TtSYPR8vK2zZzu_Ixk.jpg?s=17b1ecc6245c54046209f5f011d2baa3 frameborder=0>
 - entry_name: |
-    Me, upvoting literally anything and everything that pops up in this sub
-  entry_id: 8xfum4
+    Caught this guy staring at our food from the balcony
+  entry_id: 8xqccw
   entry_content: |
-    <img src=https://i.redditmedia.com/8VMFYh--DN2ychfRgh78tbKCTrwhc9jzGGL612FeVqA.jpg?s=75ea78906f4ec859af5667c808d8bf9c frameborder=0>
+    <iframe src=https://v.redd.it/i8isgz7f35911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     TIL doctors from UCLA found unique blood cells that can help fight infections in a man from Seattle's spleen, so they stole the cells from his body and developed it into medicine without paying him, getting his consent, or even letting him know they were doing it.
   entry_id: 8xokph
   entry_content: |
     <img src=https://i.redditmedia.com/OpQIlVTDgmgMLEmQlvQnMdhX3648tArBS-MifAq2sjg.jpg?s=d32baa6e6d0168a1cf962c2b924994e9 frameborder=0>
 - entry_name: |
+    Me, upvoting literally anything and everything that pops up in this sub
+  entry_id: 8xfum4
+  entry_content: |
+    <img src=https://i.redditmedia.com/8VMFYh--DN2ychfRgh78tbKCTrwhc9jzGGL612FeVqA.jpg?s=75ea78906f4ec859af5667c808d8bf9c frameborder=0>
+- entry_name: |
     The Inconceivable Trio, 1987
   entry_id: 8xjl18
   entry_content: |
     <img src=https://i.redditmedia.com/wxGkcuWy86OKZ5AUn99ZEIYLiRC6RQNb4IrlOLXG7tE.jpg?s=4bb8feb21713796dc1499bb2d83f6974 frameborder=0>
+- entry_name: |
+    UPVOTE THIS POST TO PETITION THIS SUB TO BECOME PRIVATE
+  entry_id: 8xp8h6
+  entry_content: |
+    null
 - entry_name: |
     No ban-boozle. We're in the endgame now.
   entry_id: 8xhbbu
@@ -183,10 +203,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dq5tfsooz0911/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    The four Thai Navy Seals (one medic) that stayed IN the cave with the boys since they were discovered. They monitored their health and prepped them for their dangerous escape were the last to emerge after the 13 originals.
-  entry_id: 8xqg68
+    There seems to be a patern
+  entry_id: 8xp8jp
   entry_content: |
-    <img src=https://i.redditmedia.com/PN7H6eIQGQYCpBB9a_JPKssjU6ilChpN6iDRd9739Dg.jpg?s=f823541bd0c1b4d07b347a450c6a4ed8 frameborder=0>
+    <img src=https://i.redditmedia.com/7hQVORzFJqsKcqhcBURIhpPHtBBKqJQn5RDkwUuKE8g.jpg?s=63071d68a45d79bcd5ad0144a37e4383 frameborder=0>
 - entry_name: |
     :D
   entry_id: 8xhbnh
@@ -228,28 +248,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/GCHgzQpRJheEmW4T2hZqIcQ-X7vCKZOzwRVVG2IG6EA.jpg?s=7ed1232e559302408372220e4008d74b frameborder=0>
 - entry_name: |
-    When doctors respond to their patients with empathy instead of complex medical talk, they are more likely to receive crucial information that can lead to better patient outcomes, improved patient satisfaction, and reduced doctor burnout, according to a new study.
-  entry_id: 8xitgg
-  entry_content: |
-    <img src=https://i.redditmedia.com/PBHG7lQJzbEklSNeRs76InRnTNMspR6dG3Pe_6z3xAg.jpg?s=edf8fad76d8a2311d2105344528e222f frameborder=0>
-- entry_name: |
     like a baby
   entry_id: 8xlb6b
   entry_content: |
     <img src=https://i.redditmedia.com/hN6qjrmK6RFuf6ZBKx8Vb7qZY-eZu4VXWwUU09bPH_E.png?s=e4eae1e5341e001ff61fa7d14b6d1c96 frameborder=0>
-- entry_name: |
-    UPVOTE THIS POST TO PETITION THIS SUB TO BECOME PRIVATE
-  entry_id: 8xp8h6
-  entry_content: |
-    null
-- entry_name: |
-    Ban being streamed on Twitch
-  entry_id: 8xhn4u
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    There seems to be a patern
-  entry_id: 8xp8jp
-  entry_content: |
-    <img src=https://i.redditmedia.com/7hQVORzFJqsKcqhcBURIhpPHtBBKqJQn5RDkwUuKE8g.jpg?s=63071d68a45d79bcd5ad0144a37e4383 frameborder=0>
 ---
