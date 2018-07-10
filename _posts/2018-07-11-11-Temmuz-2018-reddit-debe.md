@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
 - entry_name: |
-    A shockingly long grind
-  entry_id: 8xfvjy
-  entry_content: |
-    <iframe src=https://v.redd.it/8wd7yhvofz811/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     The four Thai Navy Seals (one medic) that stayed IN the cave with the boys since they were discovered. They monitored their health and prepped them for their dangerous escape were the last to emerge after the 13 originals.
   entry_id: 8xqg68
   entry_content: |
@@ -178,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OpQIlVTDgmgMLEmQlvQnMdhX3648tArBS-MifAq2sjg.jpg?s=d32baa6e6d0168a1cf962c2b924994e9 frameborder=0>
 - entry_name: |
-    Me, upvoting literally anything and everything that pops up in this sub
-  entry_id: 8xfum4
-  entry_content: |
-    <img src=https://i.redditmedia.com/8VMFYh--DN2ychfRgh78tbKCTrwhc9jzGGL612FeVqA.jpg?s=75ea78906f4ec859af5667c808d8bf9c frameborder=0>
-- entry_name: |
     The Inconceivable Trio, 1987
   entry_id: 8xjl18
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8xlb6b
   entry_content: |
     <img src=https://i.redditmedia.com/hN6qjrmK6RFuf6ZBKx8Vb7qZY-eZu4VXWwUU09bPH_E.png?s=e4eae1e5341e001ff61fa7d14b6d1c96 frameborder=0>
+- entry_name: |
+    When doctors respond to their patients with empathy instead of complex medical talk, they are more likely to receive crucial information that can lead to better patient outcomes, improved patient satisfaction, and reduced doctor burnout, according to a new study.
+  entry_id: 8xitgg
+  entry_content: |
+    <img src=https://i.redditmedia.com/PBHG7lQJzbEklSNeRs76InRnTNMspR6dG3Pe_6z3xAg.jpg?s=edf8fad76d8a2311d2105344528e222f frameborder=0>
+- entry_name: |
+    That's how you trim nails of a cat.
+  entry_id: 8xnsv3
+  entry_content: |
+    <iframe src=https://v.redd.it/rtl8jfxlm3911/DASH_1_2_M frameborder=0></iframe>
 ---
