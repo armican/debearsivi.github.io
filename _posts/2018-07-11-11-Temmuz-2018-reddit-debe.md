@@ -18,6 +18,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nM3R-lJEnD_rgjmGIT1yDG6ncN7wx_CdU_Z-p5mmAE0.jpg?s=132a70a8c444e9e68cc8552f40ccb22c frameborder=0>
 - entry_name: |
+    Thailand cave rescue: All 12 boys, coach freed, latest updates
+  entry_id: 8xo9qj
+  entry_content: |
+    <img src=https://i.redditmedia.com/Av9W_5SIFSvVqn1ly9hcOqptrfk_TGSU8Dr7_2PfbNU.jpg?s=3f3a0a2db2b3e690304f473dd8e7c80a frameborder=0>
+- entry_name: |
     *SNAP* THE BAN HAS BEGUN
   entry_id: 8xi3y2
   entry_content: |
@@ -38,25 +43,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xfej1MStFA9xnIbqVCujGW11FAwxoxh9IJL4gOQf-wU.jpg?s=89d27d801f7b4d961fa0fdd53634cb9a frameborder=0>
 - entry_name: |
-    Thailand cave rescue: All 12 boys, coach freed, latest updates
-  entry_id: 8xo9qj
+    Superheroes in Real Life. During the event, one of the rescuer taking a break. Glad to know that all the boys and coach have been rescued successfully.
+  entry_id: 8xo5s8
   entry_content: |
-    <img src=https://i.redditmedia.com/Av9W_5SIFSvVqn1ly9hcOqptrfk_TGSU8Dr7_2PfbNU.jpg?s=3f3a0a2db2b3e690304f473dd8e7c80a frameborder=0>
+    <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
 - entry_name: |
     TIL under Arizona's Stupid Motorist Law, if you become stranded after driving through barricades to enter a flooded road, you will be charged for your emergency rescue.
   entry_id: 8xeu25
   entry_content: |
     <img src=https://i.redditmedia.com/U9g-0P0L36jrUu-9U9cFLfQ_psuiCSUlcZJS-BhkRk8.jpg?s=6d442c0187959779bdcdae49c1340828 frameborder=0>
 - entry_name: |
+    No one is breaking into this house!
+  entry_id: 8xpbud
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAbsoluteSkeletalChrysomelid&url=https%3A%2F%2Fgfycat.com%2FAbsoluteSkeletalChrysomelid&image=https%3A%2F%2Fthumbs.gfycat.com%2FAbsoluteSkeletalChrysomelid-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
     A shockingly long grind
   entry_id: 8xfvjy
   entry_content: |
     <iframe src=https://v.redd.it/8wd7yhvofz811/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Superheroes in Real Life. During the event, one of the rescuer taking a break. Glad to know that all the boys and coach have been rescued successfully.
-  entry_id: 8xo5s8
-  entry_content: |
-    <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
 - entry_name: |
     My above ground pool has a 13 foot deep pit.
   entry_id: 8xfict
@@ -68,20 +73,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/18cqfsepj0911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
+  entry_id: 8xo482
+  entry_content: |
+    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
+- entry_name: |
     Canadian Pedestrian in GTA V
   entry_id: 8xlxs0
   entry_content: |
     <iframe src=https://v.redd.it/q8ii3mxc42911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Fuck the TSA
+  entry_id: 8xoxby
+  entry_content: |
+    <img src=https://i.redditmedia.com/3xqy64c2eme8kKetvldqFkC_-MjiASuiWGZ_BPveD1o.jpg?s=60c26f62b1dbf0484708908e4a4f018e frameborder=0>
+- entry_name: |
     These are mosquitos. Remember to be kind to your web slangin neighbors.
   entry_id: 8xg4xc
   entry_content: |
     <img src=https://i.redditmedia.com/W5hx_Tm_q8hjXBphXP0BHZk59iDawV6BKznzfVhYpSA.jpg?s=14766c68d6e6c3982b4475319679e46d frameborder=0>
-- entry_name: |
-    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
-  entry_id: 8xo482
-  entry_content: |
-    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
 - entry_name: |
     If I survive ban, everyone commenting and upvoting gets gilded. No bamboozle!
   entry_id: 8xhlbr
@@ -92,6 +102,11 @@ data:
   entry_id: 8xkqf8
   entry_content: |
     <img src=https://i.redditmedia.com/oVC8Ih_h8XEa87o_LEg41m9OdycXXBwiY59kKPfEv40.gif?fm=jpg&s=fd093aed7fdfb66562a06f14bab5297c frameborder=0>
+- entry_name: |
+    If this gets 10K points, I'll send one to each and everyone of you
+  entry_id: 8xmw44
+  entry_content: |
+    <img src=https://i.redditmedia.com/ApgX6Bxg3c1jClXgKBEzY4Q2tqcyOhBwfCn4udgBQiI.jpg?s=39d9f63521d6cff228f1797b8cbd439e frameborder=0>
 - entry_name: |
     A year ago my wife left me and my girls. I finally got the finalized divorce papers in the mail today! That means I officially have custody of my two tiny monsters! I’ve also lost over 70lbs in the last year, working to get healthy and watch these two grow up. Haven’t been this happy in forever.
   entry_id: 8xgij6
@@ -118,30 +133,10 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Fuck the TSA
-  entry_id: 8xoxby
-  entry_content: |
-    <img src=https://i.redditmedia.com/3xqy64c2eme8kKetvldqFkC_-MjiASuiWGZ_BPveD1o.jpg?s=60c26f62b1dbf0484708908e4a4f018e frameborder=0>
-- entry_name: |
     If this gets 32,768 I’ll reduce the number of Thanos in this pic by half... If I survive that ban, this is probably the last one fellas. There was no other way...
   entry_id: 8xgc7r
   entry_content: |
     <img src=https://i.redditmedia.com/CrMn5nV6vq4LWgLvjIDaGq8potVv6SARuQ5nNBBZoLg.jpg?s=dd63cbb4c59bd4d92559bb7f99ced957 frameborder=0>
-- entry_name: |
-    If this gets 10K points, I'll send one to each and everyone of you
-  entry_id: 8xmw44
-  entry_content: |
-    <img src=https://i.redditmedia.com/ApgX6Bxg3c1jClXgKBEzY4Q2tqcyOhBwfCn4udgBQiI.jpg?s=39d9f63521d6cff228f1797b8cbd439e frameborder=0>
-- entry_name: |
-    No one is breaking into this house!
-  entry_id: 8xpbud
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAbsoluteSkeletalChrysomelid&url=https%3A%2F%2Fgfycat.com%2FAbsoluteSkeletalChrysomelid&image=https%3A%2F%2Fthumbs.gfycat.com%2FAbsoluteSkeletalChrysomelid-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    My stepdad is officially my legal father after raising me with my mom since I was 9 years old. He’s an amazing human. You’re never too old to be adopted!
-  entry_id: 8xeegg
-  entry_content: |
-    <img src=https://i.redditmedia.com/Aq6SSmtArxgSLglF0YG5N0btyHc8slxU0foWTFtUg4U.jpg?s=7cdd8a795be37b264d8fee0cf048373a frameborder=0>
 - entry_name: |
     Iraqi farmer cracks a watermelon Like a Boss
   entry_id: 8xndzz
@@ -178,20 +173,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8VMFYh--DN2ychfRgh78tbKCTrwhc9jzGGL612FeVqA.jpg?s=75ea78906f4ec859af5667c808d8bf9c frameborder=0>
 - entry_name: |
-    No ban-boozle. We're in the endgame now.
-  entry_id: 8xhbbu
-  entry_content: |
-    null
-- entry_name: |
     The Inconceivable Trio, 1987
   entry_id: 8xjl18
   entry_content: |
     <img src=https://i.redditmedia.com/wxGkcuWy86OKZ5AUn99ZEIYLiRC6RQNb4IrlOLXG7tE.jpg?s=4bb8feb21713796dc1499bb2d83f6974 frameborder=0>
 - entry_name: |
+    No ban-boozle. We're in the endgame now.
+  entry_id: 8xhbbu
+  entry_content: |
+    null
+- entry_name: |
+    TIL doctors from UCLA found unique blood cells that can help fight infections in a man from Seattle's spleen, so they stole the cells from his body and developed it into medicine without paying him, getting his consent, or even letting him know they were doing it.
+  entry_id: 8xokph
+  entry_content: |
+    <img src=https://i.redditmedia.com/OpQIlVTDgmgMLEmQlvQnMdhX3648tArBS-MifAq2sjg.jpg?s=d32baa6e6d0168a1cf962c2b924994e9 frameborder=0>
+- entry_name: |
     :D
   entry_id: 8xhbnh
   entry_content: |
     <iframe src=https://v.redd.it/2vjdcgmg50911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    1-800-273-8255 🎉🎊🎉🎊
+  entry_id: 8xhvys
+  entry_content: |
+    <img src=https://i.redditmedia.com/uyT7ovAistqgUSas8KxzWOCM1lUUDbh0rju8o548hR4.jpg?s=fe24b3fdf5c79c02a41ba8ca09aa609c frameborder=0>
 - entry_name: |
     Great idea.
   entry_id: 8xeqb1
@@ -203,15 +208,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ibZizLzXSfzDhFi1g_aF6yuFIlUbLDGFAOOZi5E3FIA.jpg?s=7eac305f54c12131e983c5caa1bdf10e frameborder=0>
 - entry_name: |
-    1-800-273-8255 🎉🎊🎉🎊
-  entry_id: 8xhvys
-  entry_content: |
-    <img src=https://i.redditmedia.com/uyT7ovAistqgUSas8KxzWOCM1lUUDbh0rju8o548hR4.jpg?s=fe24b3fdf5c79c02a41ba8ca09aa609c frameborder=0>
-- entry_name: |
     My friend drank the recommended 30mg dose and wonders why he can't move right now.
   entry_id: 8xhmbr
   entry_content: |
     <img src=https://i.redditmedia.com/L_vy6eEemnyeH8vZsnzx6qwD091VRDT-IcBWtCdLpY0.jpg?s=5e9f3e72b969c9e593aa986a2a76e300 frameborder=0>
+- entry_name: |
+    Hamster slipped into a pup pile.
+  entry_id: 8xld4g
+  entry_content: |
+    <iframe src=https://v.redd.it/dq5tfsooz0911/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Plenty
   entry_id: 8xioac
@@ -223,33 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Wq-6V2E1SSdDGCHP17dJheE2WP0EeIuqMYHsnHPXHY0.jpg?s=fbe77d253742dd6f86b12695dc8e1e74 frameborder=0>
 - entry_name: |
-    Since it's ban day and the sub is upvoting anything, here is literally a picture of nothing.
-  entry_id: 8xgej2
-  entry_content: |
-    <img src=https://i.redditmedia.com/GCHgzQpRJheEmW4T2hZqIcQ-X7vCKZOzwRVVG2IG6EA.jpg?s=7ed1232e559302408372220e4008d74b frameborder=0>
-- entry_name: |
-    Hamster slipped into a pup pile.
-  entry_id: 8xld4g
-  entry_content: |
-    <iframe src=https://v.redd.it/dq5tfsooz0911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     VOTE UPWARDS IF YOU WERE BANNED TO FLEX ON THE UNSNAPPENED USERS
   entry_id: 8xjdbh
   entry_content: |
     null
+- entry_name: |
+    Since it's ban day and the sub is upvoting anything, here is literally a picture of nothing.
+  entry_id: 8xgej2
+  entry_content: |
+    <img src=https://i.redditmedia.com/GCHgzQpRJheEmW4T2hZqIcQ-X7vCKZOzwRVVG2IG6EA.jpg?s=7ed1232e559302408372220e4008d74b frameborder=0>
 - entry_name: |
     When doctors respond to their patients with empathy instead of complex medical talk, they are more likely to receive crucial information that can lead to better patient outcomes, improved patient satisfaction, and reduced doctor burnout, according to a new study.
   entry_id: 8xitgg
   entry_content: |
     <img src=https://i.redditmedia.com/PBHG7lQJzbEklSNeRs76InRnTNMspR6dG3Pe_6z3xAg.jpg?s=edf8fad76d8a2311d2105344528e222f frameborder=0>
 - entry_name: |
-    Ban being streamed on Twitch
-  entry_id: 8xhn4u
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     like a baby
   entry_id: 8xlb6b
   entry_content: |
     <img src=https://i.redditmedia.com/hN6qjrmK6RFuf6ZBKx8Vb7qZY-eZu4VXWwUU09bPH_E.png?s=e4eae1e5341e001ff61fa7d14b6d1c96 frameborder=0>
+- entry_name: |
+    Ban being streamed on Twitch
+  entry_id: 8xhn4u
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 ---
