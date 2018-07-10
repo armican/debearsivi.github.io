@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
 - entry_name: |
-    TIL under Arizona's Stupid Motorist Law, if you become stranded after driving through barricades to enter a flooded road, you will be charged for your emergency rescue.
-  entry_id: 8xeu25
-  entry_content: |
-    <img src=https://i.redditmedia.com/U9g-0P0L36jrUu-9U9cFLfQ_psuiCSUlcZJS-BhkRk8.jpg?s=6d442c0187959779bdcdae49c1340828 frameborder=0>
-- entry_name: |
     No one is breaking into this house!
   entry_id: 8xpbud
   entry_content: |
@@ -248,8 +243,13 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    No human... it's Dangerous!
-  entry_id: 8xermz
+    Bum made a Jacuzzi at a kids park
+  entry_id: 8xivt5
   entry_content: |
-    <iframe src=https://v.redd.it/id8bkrkmxy811/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/B031znaDpQOGXBy3bcdL2B2yh4ehjMO3oeS4BMaxxWQ.jpg?s=7adfa8ffc34cbf142db7aebda295a480 frameborder=0>
+- entry_name: |
+    Banbot is definitely gonna ban half the users today
+  entry_id: 8xf9u1
+  entry_content: |
+    <img src=https://i.redditmedia.com/chW4AWePMMfNdNdq-N-urk_8rkdj2NMgh26c8uOJmAk.jpg?s=644f00635adadf2b751c6469ccf9060c frameborder=0>
 ---
