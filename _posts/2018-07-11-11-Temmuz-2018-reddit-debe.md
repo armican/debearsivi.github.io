@@ -13,15 +13,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fIpmhrfQ75_EtPERilYnbzwOgzCLayl51bsD7IslrpM.jpg?s=fb88abbc49d69454820f1f6280145d72 frameborder=0>
 - entry_name: |
-    Elon Musk didn't just send help to the Thai kids in the cave, he actually went there. He posted this image from inside the cave.
-  entry_id: 8xh5w5
+    No one is breaking into this house!
+  entry_id: 8xpbud
   entry_content: |
-    <img src=https://i.redditmedia.com/nM3R-lJEnD_rgjmGIT1yDG6ncN7wx_CdU_Z-p5mmAE0.jpg?s=132a70a8c444e9e68cc8552f40ccb22c frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAbsoluteSkeletalChrysomelid&url=https%3A%2F%2Fgfycat.com%2FAbsoluteSkeletalChrysomelid&image=https%3A%2F%2Fthumbs.gfycat.com%2FAbsoluteSkeletalChrysomelid-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Thailand cave rescue: All 12 boys, coach freed, latest updates
   entry_id: 8xo9qj
   entry_content: |
     <img src=https://i.redditmedia.com/Av9W_5SIFSvVqn1ly9hcOqptrfk_TGSU8Dr7_2PfbNU.jpg?s=3f3a0a2db2b3e690304f473dd8e7c80a frameborder=0>
+- entry_name: |
+    Elon Musk didn't just send help to the Thai kids in the cave, he actually went there. He posted this image from inside the cave.
+  entry_id: 8xh5w5
+  entry_content: |
+    <img src=https://i.redditmedia.com/nM3R-lJEnD_rgjmGIT1yDG6ncN7wx_CdU_Z-p5mmAE0.jpg?s=132a70a8c444e9e68cc8552f40ccb22c frameborder=0>
 - entry_name: |
     *SNAP* THE BAN HAS BEGUN
   entry_id: 8xi3y2
@@ -48,15 +53,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mj3YG9i2e9DvH2mti122DzNz9Hb_7GllEZvmbaIAaYs.jpg?s=b9eced4d634fc54c6af0d2e43b352027 frameborder=0>
 - entry_name: |
-    No one is breaking into this house!
-  entry_id: 8xpbud
+    Fuck the TSA
+  entry_id: 8xoxby
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAbsoluteSkeletalChrysomelid&url=https%3A%2F%2Fgfycat.com%2FAbsoluteSkeletalChrysomelid&image=https%3A%2F%2Fthumbs.gfycat.com%2FAbsoluteSkeletalChrysomelid-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=400 height=400 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+    <img src=https://i.redditmedia.com/3xqy64c2eme8kKetvldqFkC_-MjiASuiWGZ_BPveD1o.jpg?s=60c26f62b1dbf0484708908e4a4f018e frameborder=0>
 - entry_name: |
     A shockingly long grind
   entry_id: 8xfvjy
   entry_content: |
     <iframe src=https://v.redd.it/8wd7yhvofz811/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
+  entry_id: 8xo482
+  entry_content: |
+    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
 - entry_name: |
     My above ground pool has a 13 foot deep pit.
   entry_id: 8xfict
@@ -68,20 +78,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/18cqfsepj0911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Reports that all 12 boys and their coach have been rescued from the Tham Luang Cave
-  entry_id: 8xo482
-  entry_content: |
-    <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
-- entry_name: |
     Canadian Pedestrian in GTA V
   entry_id: 8xlxs0
   entry_content: |
     <iframe src=https://v.redd.it/q8ii3mxc42911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Fuck the TSA
-  entry_id: 8xoxby
-  entry_content: |
-    <img src=https://i.redditmedia.com/3xqy64c2eme8kKetvldqFkC_-MjiASuiWGZ_BPveD1o.jpg?s=60c26f62b1dbf0484708908e4a4f018e frameborder=0>
 - entry_name: |
     These are mosquitos. Remember to be kind to your web slangin neighbors.
   entry_id: 8xg4xc
@@ -128,15 +128,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    If this gets 32,768 I’ll reduce the number of Thanos in this pic by half... If I survive that ban, this is probably the last one fellas. There was no other way...
-  entry_id: 8xgc7r
-  entry_content: |
-    <img src=https://i.redditmedia.com/CrMn5nV6vq4LWgLvjIDaGq8potVv6SARuQ5nNBBZoLg.jpg?s=dd63cbb4c59bd4d92559bb7f99ced957 frameborder=0>
-- entry_name: |
     Iraqi farmer cracks a watermelon Like a Boss
   entry_id: 8xndzz
   entry_content: |
     <iframe src=https://v.redd.it/3549bl95b3911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    If this gets 32,768 I’ll reduce the number of Thanos in this pic by half... If I survive that ban, this is probably the last one fellas. There was no other way...
+  entry_id: 8xgc7r
+  entry_content: |
+    <img src=https://i.redditmedia.com/CrMn5nV6vq4LWgLvjIDaGq8potVv6SARuQ5nNBBZoLg.jpg?s=dd63cbb4c59bd4d92559bb7f99ced957 frameborder=0>
 - entry_name: |
     10 seconds, go.
   entry_id: 8xgqa5
@@ -168,6 +168,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8VMFYh--DN2ychfRgh78tbKCTrwhc9jzGGL612FeVqA.jpg?s=75ea78906f4ec859af5667c808d8bf9c frameborder=0>
 - entry_name: |
+    TIL doctors from UCLA found unique blood cells that can help fight infections in a man from Seattle's spleen, so they stole the cells from his body and developed it into medicine without paying him, getting his consent, or even letting him know they were doing it.
+  entry_id: 8xokph
+  entry_content: |
+    <img src=https://i.redditmedia.com/OpQIlVTDgmgMLEmQlvQnMdhX3648tArBS-MifAq2sjg.jpg?s=d32baa6e6d0168a1cf962c2b924994e9 frameborder=0>
+- entry_name: |
     The Inconceivable Trio, 1987
   entry_id: 8xjl18
   entry_content: |
@@ -178,10 +183,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    TIL doctors from UCLA found unique blood cells that can help fight infections in a man from Seattle's spleen, so they stole the cells from his body and developed it into medicine without paying him, getting his consent, or even letting him know they were doing it.
-  entry_id: 8xokph
+    Hamster slipped into a pup pile.
+  entry_id: 8xld4g
   entry_content: |
-    <img src=https://i.redditmedia.com/OpQIlVTDgmgMLEmQlvQnMdhX3648tArBS-MifAq2sjg.jpg?s=d32baa6e6d0168a1cf962c2b924994e9 frameborder=0>
+    <iframe src=https://v.redd.it/dq5tfsooz0911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    The four Thai Navy Seals (one medic) that stayed IN the cave with the boys since they were discovered. They monitored their health and prepped them for their dangerous escape were the last to emerge after the 13 originals.
+  entry_id: 8xqg68
+  entry_content: |
+    <img src=https://i.redditmedia.com/PN7H6eIQGQYCpBB9a_JPKssjU6ilChpN6iDRd9739Dg.jpg?s=f823541bd0c1b4d07b347a450c6a4ed8 frameborder=0>
 - entry_name: |
     :D
   entry_id: 8xhbnh
@@ -193,20 +203,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uyT7ovAistqgUSas8KxzWOCM1lUUDbh0rju8o548hR4.jpg?s=fe24b3fdf5c79c02a41ba8ca09aa609c frameborder=0>
 - entry_name: |
-    Trump was like a predator toward teens at parties in ‘80s and ‘90s, says BBC report
-  entry_id: 8xgxsa
-  entry_content: |
-    <img src=https://i.redditmedia.com/ibZizLzXSfzDhFi1g_aF6yuFIlUbLDGFAOOZi5E3FIA.jpg?s=7eac305f54c12131e983c5caa1bdf10e frameborder=0>
-- entry_name: |
     My friend drank the recommended 30mg dose and wonders why he can't move right now.
   entry_id: 8xhmbr
   entry_content: |
     <img src=https://i.redditmedia.com/L_vy6eEemnyeH8vZsnzx6qwD091VRDT-IcBWtCdLpY0.jpg?s=5e9f3e72b969c9e593aa986a2a76e300 frameborder=0>
 - entry_name: |
-    Hamster slipped into a pup pile.
-  entry_id: 8xld4g
+    Trump was like a predator toward teens at parties in ‘80s and ‘90s, says BBC report
+  entry_id: 8xgxsa
   entry_content: |
-    <iframe src=https://v.redd.it/dq5tfsooz0911/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/ibZizLzXSfzDhFi1g_aF6yuFIlUbLDGFAOOZi5E3FIA.jpg?s=7eac305f54c12131e983c5caa1bdf10e frameborder=0>
+- entry_name: |
+    VOTE UPWARDS IF YOU WERE BANNED TO FLEX ON THE UNSNAPPENED USERS
+  entry_id: 8xjdbh
+  entry_content: |
+    null
 - entry_name: |
     Plenty
   entry_id: 8xioac
@@ -217,11 +227,6 @@ data:
   entry_id: 8xi83s
   entry_content: |
     <img src=https://i.redditmedia.com/Wq-6V2E1SSdDGCHP17dJheE2WP0EeIuqMYHsnHPXHY0.jpg?s=fbe77d253742dd6f86b12695dc8e1e74 frameborder=0>
-- entry_name: |
-    VOTE UPWARDS IF YOU WERE BANNED TO FLEX ON THE UNSNAPPENED USERS
-  entry_id: 8xjdbh
-  entry_content: |
-    null
 - entry_name: |
     Since it's ban day and the sub is upvoting anything, here is literally a picture of nothing.
   entry_id: 8xgej2
@@ -238,18 +243,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hN6qjrmK6RFuf6ZBKx8Vb7qZY-eZu4VXWwUU09bPH_E.png?s=e4eae1e5341e001ff61fa7d14b6d1c96 frameborder=0>
 - entry_name: |
+    UPVOTE THIS POST TO PETITION THIS SUB TO BECOME PRIVATE
+  entry_id: 8xp8h6
+  entry_content: |
+    null
+- entry_name: |
     Ban being streamed on Twitch
   entry_id: 8xhn4u
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
-    Bum made a Jacuzzi at a kids park
-  entry_id: 8xivt5
-  entry_content: |
-    <img src=https://i.redditmedia.com/B031znaDpQOGXBy3bcdL2B2yh4ehjMO3oeS4BMaxxWQ.jpg?s=7adfa8ffc34cbf142db7aebda295a480 frameborder=0>
-- entry_name: |
-    Banbot is definitely gonna ban half the users today
-  entry_id: 8xf9u1
-  entry_content: |
-    <img src=https://i.redditmedia.com/chW4AWePMMfNdNdq-N-urk_8rkdj2NMgh26c8uOJmAk.jpg?s=644f00635adadf2b751c6469ccf9060c frameborder=0>
 ---
