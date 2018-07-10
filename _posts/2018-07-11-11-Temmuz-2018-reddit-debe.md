@@ -198,11 +198,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uyT7ovAistqgUSas8KxzWOCM1lUUDbh0rju8o548hR4.jpg?s=fe24b3fdf5c79c02a41ba8ca09aa609c frameborder=0>
 - entry_name: |
-    Great idea.
-  entry_id: 8xeqb1
-  entry_content: |
-    <img src=https://i.redditmedia.com/h1Vk4ltS43TswEQhKq1YPHkudYOGNaqfpSZTauqMqpI.jpg?s=1d1fc50291506a31758984e0ae9a69e1 frameborder=0>
-- entry_name: |
     Trump was like a predator toward teens at parties in ‘80s and ‘90s, says BBC report
   entry_id: 8xgxsa
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8xhn4u
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    No human... it's Dangerous!
+  entry_id: 8xermz
+  entry_content: |
+    <iframe src=https://v.redd.it/id8bkrkmxy811/DASH_1_2_M frameborder=0></iframe>
 ---
