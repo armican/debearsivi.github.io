@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ogRiDws9uKES_bpLmvNFe7wCFj1D1o4J72G57-564mM.jpg?s=328e1c642cfbaedecb19cb469a0da202 frameborder=0>
 - entry_name: |
-    My above ground pool has a 13 foot deep pit.
-  entry_id: 8xfict
-  entry_content: |
-    <img src=https://i.redditmedia.com/pKhLu-XfX_gFRuq31qCAgvNtJpQ15arzcW9Jz0xWNgk.jpg?s=f9aee3ab3b54e207257891dab4300eb3 frameborder=0>
-- entry_name: |
     MRW I actually got banned
   entry_id: 8xi9d9
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8xhn4u
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.twitch.tv%2F%3Fchannel%3Dreddit%26autoplay%3Dfalse&url=https%3A%2F%2Fwww.twitch.tv%2Freddit&image=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Freddit-profile_image-2d1f62565f78224e-300x300.png&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=twitch width=600 height=366 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    There seems to be a patern
+  entry_id: 8xp8jp
+  entry_content: |
+    <img src=https://i.redditmedia.com/7hQVORzFJqsKcqhcBURIhpPHtBBKqJQn5RDkwUuKE8g.jpg?s=63071d68a45d79bcd5ad0144a37e4383 frameborder=0>
 ---
