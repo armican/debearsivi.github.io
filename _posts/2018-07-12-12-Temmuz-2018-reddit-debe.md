@@ -13,20 +13,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VxizSY9bY9_4Q8tLGi7yav9mBUKg5tY6RqJjaabVWWk.jpg?s=59f4dcdac725aa4dc654a9b049c698b1 frameborder=0>
 - entry_name: |
-    I've had a few drinks so may find this funnier than I should... but when I was younger I used to like pulling the heads off of my sister's Barbie dolls and drawing a face on the stump underneath
-  entry_id: 8xrwy4
+    If you can up vote this you survived the snap. If you cant…
+  entry_id: 8xyas1
   entry_content: |
-    <img src=https://i.redditmedia.com/efZfE9oLgXbDLE3qRcd0u6_Ez-81L_N9WByb1OwDhEU.jpg?s=886fe8f8d7f098c74d0f8689df058f52 frameborder=0>
+    null
 - entry_name: |
     Rock lifted by a water fountain
   entry_id: 8xv6uh
   entry_content: |
     <iframe src=https://v.redd.it/2f25cp9oy7911/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    If you can up vote this you survived the snap. If you cant…
-  entry_id: 8xyas1
-  entry_content: |
-    null
 - entry_name: |
     I hope someone will subsidise their loss.
   entry_id: 8xutc3
@@ -37,6 +32,11 @@ data:
   entry_id: 8xuv1z
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/SiMDgHvFfog?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Croatian firefighters before Rakitic penalty shooting against Russia
+  entry_id: 8xyv4r
+  entry_content: |
+    <iframe src=https://v.redd.it/nyivx2tt3b911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Monks with “nirvana” merchandise
   entry_id: 8xuqr9
@@ -93,11 +93,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSlowFirmIvorybilledwoodpecker&url=https%3A%2F%2Fgfycat.com%2FSlowFirmIvorybilledwoodpecker&image=https%3A%2F%2Fthumbs.gfycat.com%2FSlowFirmIvorybilledwoodpecker-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Croatian firefighters before Rakitic penalty shooting against Russia
-  entry_id: 8xyv4r
-  entry_content: |
-    <iframe src=https://v.redd.it/nyivx2tt3b911/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I don’t feel so good
   entry_id: 8xwvo1
   entry_content: |
@@ -113,24 +108,39 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/63inkfdtl8911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 8xy7nz
+  entry_content: |
+    <img src=https://i.redditmedia.com/6qguhibDLDVlXuRtIKcPy61fXNXmhxeMsOH2MQ2LiXE.png?s=4dde7bc9a7934af5623b4d7584c35d3d frameborder=0>
+- entry_name: |
     Canada is Making Cosmetic Testing on Animals Illegal
   entry_id: 8xtl9b
   entry_content: |
     <img src=https://i.redditmedia.com/9ZGIBOZ48uCGofWf9gGISiy6skRtG2TVMes-oxqOlro.jpg?s=143d0ae348a5c5843c0230604506045d frameborder=0>
+- entry_name: |
+    You don’t know my life! (I do this every time)
+  entry_id: 8xz3i8
+  entry_content: |
+    <img src=https://i.redditmedia.com/siM5IPL8vRSx3QqnL-hr4GXjEk73VGU8K9O_fznjWc0.jpg?s=750c89727a49edbfea63afcf2545eaa6 frameborder=0>
 - entry_name: |
     Can I eat?
   entry_id: 8xv7vh
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhisperedSlimyKite&url=https%3A%2F%2Fgfycat.com%2FWhisperedSlimyKite&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhisperedSlimyKite-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-  entry_id: 8xy7nz
+    Alienware
+  entry_id: 8xyfx7
   entry_content: |
-    <img src=https://i.redditmedia.com/6qguhibDLDVlXuRtIKcPy61fXNXmhxeMsOH2MQ2LiXE.png?s=4dde7bc9a7934af5623b4d7584c35d3d frameborder=0>
+    <img src=https://i.redditmedia.com/wl3wVRk8LyuZDZTFROyuPBPm76iorvV3LbgiGYH8Hck.jpg?s=2ce1082a0768bfe7d3a2480399003d2e frameborder=0>
 - entry_name: |
-    Let's open the window to watch the rain
-  entry_id: 8xrs7u
+    Coolest Toy Plane Ever!
+  entry_id: 8xyegb
   entry_content: |
-    <iframe src=https://v.redd.it/nrnfspodv5911/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/tli6yoz4pa911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Bessie Stringfield, the first Black woman to ride a motorcycle in every one of the connected 48 states. She wasn’t welcomed in most motels so often slept on her bike at gas stations. Photo ca.1930.
+  entry_id: 8xzk87
+  entry_content: |
+    <img src=https://i.redditmedia.com/gOf9gmylUKyWU4ma-4plD3slkc1AQz1zzlXt7OfzvAc.jpg?s=922aec687c16a7c8224933b13e88573c frameborder=0>
 - entry_name: |
     Simply incredible what these cave divers did
   entry_id: 8xujxk
@@ -142,15 +152,15 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F277989198%3Fapp_id%3D122963&dntp=1&url=https%3A%2F%2Fvimeo.com%2F277989198&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F712178251_1280.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vimeo width=600 height=264 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    Alienware
-  entry_id: 8xyfx7
-  entry_content: |
-    <img src=https://i.redditmedia.com/wl3wVRk8LyuZDZTFROyuPBPm76iorvV3LbgiGYH8Hck.jpg?s=2ce1082a0768bfe7d3a2480399003d2e frameborder=0>
-- entry_name: |
     Happens to the best of us
   entry_id: 8xseud
   entry_content: |
     <img src=https://i.redditmedia.com/UGSWedyCNQHwG-Vt5fj_-UHaCcy13YKnVZAT1qIky3o.jpg?s=33f332d6b98a5c2f74abb741e07dcd6d frameborder=0>
+- entry_name: |
+    My parents warned me about their new tortoise being ... special.
+  entry_id: 8xzx7r
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHarshAdvancedAcaciarat&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fdetail%2FHarshAdvancedAcaciarat&image=https%3A%2F%2Fthumbs.gfycat.com%2FHarshAdvancedAcaciarat-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1059 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Black farmers were intentionally sold fake seeds in Memphis, lawsuit says
   entry_id: 8xtbtd
@@ -162,49 +172,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Senate Overwhelmingly Passes Resolution Supporting NATO as Trump Attacks Continue
-  entry_id: 8xue0a
-  entry_content: |
-    <img src=https://i.redditmedia.com/N91_lZcTpIcEwFw30V5s4sDy89FPcht8yTk1hQmUs0I.jpg?s=3f96d1ee0cd816597335d142a96930c9 frameborder=0>
-- entry_name: |
     Antivaxers are the best
   entry_id: 8xu0ek
   entry_content: |
     <img src=https://i.redditmedia.com/05QWlu419h91NNlvyfp2oFjbV37smPQciSNdpZfvs_Y.jpg?s=70fbb604386b2de7480f52caa08ff728 frameborder=0>
 - entry_name: |
-    Coolest Toy Plane Ever!
-  entry_id: 8xyegb
+    Senate Overwhelmingly Passes Resolution Supporting NATO as Trump Attacks Continue
+  entry_id: 8xue0a
   entry_content: |
-    <iframe src=https://v.redd.it/tli6yoz4pa911/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    You don’t know my life! (I do this every time)
-  entry_id: 8xz3i8
-  entry_content: |
-    <img src=https://i.redditmedia.com/siM5IPL8vRSx3QqnL-hr4GXjEk73VGU8K9O_fznjWc0.jpg?s=750c89727a49edbfea63afcf2545eaa6 frameborder=0>
-- entry_name: |
-    A 14 year old good girl I met on vacation!
-  entry_id: 8xt53k
-  entry_content: |
-    <img src=https://i.redditmedia.com/IMxNAVy7zhIlNnwxzAZMz0zPDTWAF3u3MxQJnoZ140Q.jpg?s=89f0be70f12a6bc4625533090107a103 frameborder=0>
-- entry_name: |
-  entry_id: 8xvcq9
-  entry_content: |
-    <img src=https://i.redditmedia.com/Xi3uvawYvaNYKnXGFMTJbCqtuqxqZAp-1_G_hIwV4iY.jpg?s=e2183eb9493ee9fd0e8dfe914ecf8b53 frameborder=0>
-- entry_name: |
-    This Jellyfish I caught a picture of, looking like it's in space.
-  entry_id: 8xuoz6
-  entry_content: |
-    <img src=https://i.redditmedia.com/jL0Mp2UBa6_V6JNCHmjReVhqNmbS3eXkTCNQSYScwsE.jpg?s=f85464b6c4d2e6cda2e5777e9fdc8659 frameborder=0>
-- entry_name: |
-    Baby peacock showing off his stuff
-  entry_id: 8xwikf
-  entry_content: |
-    <iframe src=https://v.redd.it/ncdbt6w9x8911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Just try it.
-  entry_id: 8xsloj
-  entry_content: |
-    <img src=https://i.redditmedia.com/HVHvwBUvqFkF3s5ZeNxJetHZflYUu7VNpjZak5npvJ4.jpg?s=7012a00efcd21728ffbcd86f0a508b41 frameborder=0>
+    <img src=https://i.redditmedia.com/N91_lZcTpIcEwFw30V5s4sDy89FPcht8yTk1hQmUs0I.jpg?s=3f96d1ee0cd816597335d142a96930c9 frameborder=0>
 - entry_name: |
     Michael Jackson was ‘chemically castrated’ by his dad, says doctor
   entry_id: 8xxw0d
@@ -221,33 +197,56 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ApHdtfAE3Ngw3VmwuifvsjwmU0gdgAVRNvLziBQdNOg.png?s=e0be92abb821c8d7b63016c757156bcf frameborder=0>
 - entry_name: |
-    Mfw I didnt get banned
-  entry_id: 8xs6w4
+    A 14 year old good girl I met on vacation!
+  entry_id: 8xt53k
   entry_content: |
-    <img src=https://i.redditmedia.com/ZiJubUfwD9IaK-lfY8SdNl7DwCgja9iyPWqTBscT7kg.jpg?s=719e4245b9f4e35e5041e7049e9383a1 frameborder=0>
+    <img src=https://i.redditmedia.com/IMxNAVy7zhIlNnwxzAZMz0zPDTWAF3u3MxQJnoZ140Q.jpg?s=89f0be70f12a6bc4625533090107a103 frameborder=0>
+- entry_name: |
+    Harvard study finds that during heat waves, people can’t think straight - The test results showed that during the heat wave students without air conditioning experienced decreases across five measures of cognitive function.
+  entry_id: 8xza4t
+  entry_content: |
+    <img src=https://i.redditmedia.com/R1OxEzYqIej8jXmx8H9wmANFQmVF__dPHY9bmIRODXs.jpg?s=986ce63b262a84604b3b6a6d2ee762ca frameborder=0>
+- entry_name: |
+  entry_id: 8xvcq9
+  entry_content: |
+    <img src=https://i.redditmedia.com/Xi3uvawYvaNYKnXGFMTJbCqtuqxqZAp-1_G_hIwV4iY.jpg?s=e2183eb9493ee9fd0e8dfe914ecf8b53 frameborder=0>
+- entry_name: |
+    Baby peacock showing off his stuff
+  entry_id: 8xwikf
+  entry_content: |
+    <iframe src=https://v.redd.it/ncdbt6w9x8911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    This Jellyfish I caught a picture of, looking like it's in space.
+  entry_id: 8xuoz6
+  entry_content: |
+    <img src=https://i.redditmedia.com/jL0Mp2UBa6_V6JNCHmjReVhqNmbS3eXkTCNQSYScwsE.jpg?s=f85464b6c4d2e6cda2e5777e9fdc8659 frameborder=0>
+- entry_name: |
+    Something wonderful has happened.
+  entry_id: 8xyye7
+  entry_content: |
+    <iframe src=https://v.redd.it/iakccgnl6b911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Just try it.
+  entry_id: 8xsloj
+  entry_content: |
+    <img src=https://i.redditmedia.com/HVHvwBUvqFkF3s5ZeNxJetHZflYUu7VNpjZak5npvJ4.jpg?s=7012a00efcd21728ffbcd86f0a508b41 frameborder=0>
 - entry_name: |
     The wank cycle
   entry_id: 8xujmb
   entry_content: |
     <img src=https://i.redditmedia.com/OY6YBob6DutXNGYQmsJsbf0dfCRvwy-meDREkXmT-xs.jpg?s=031590879d71284c612b619100762440 frameborder=0>
 - entry_name: |
+    Mfw I didnt get banned
+  entry_id: 8xs6w4
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZiJubUfwD9IaK-lfY8SdNl7DwCgja9iyPWqTBscT7kg.jpg?s=719e4245b9f4e35e5041e7049e9383a1 frameborder=0>
+- entry_name: |
+  entry_id: 8xu89b
+  entry_content: |
+    <img src=https://i.redditmedia.com/mOwXxb6b6t5jvfZWgZGgEnR6NQ0SAio9YeFs-KA2KZ0.png?s=bb82c0531658e38883e93a1aa76fc8a4 frameborder=0>
+- entry_name: |
     This black light body marbling
   entry_id: 8xupdw
   entry_content: |
     <iframe src=https://v.redd.it/gf0vbrcmm7911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    World Cup Investing
-  entry_id: 8xscmo
-  entry_content: |
-    <img src=https://i.redditmedia.com/ltBb9aVyouW5G9YjEhRX0aY-Dxr1wx5miYJhZaj8AqI.jpg?s=d43afb34e81a8bf7550c0993cf42a625 frameborder=0>
-- entry_name: |
-    Badass kid
-  entry_id: 8xsvca
-  entry_content: |
-    <img src=https://i.redditmedia.com/40UY-eHRbvOk5Wb7YW6wbcJ-gsqI5PAr2ASoNWwUupI.jpg?s=463435f4a5dea8c3656d55804e9a2b18 frameborder=0>
-- entry_name: |
-    Not being aware of who you're grinding on.
-  entry_id: 8xuiaw
-  entry_content: |
-    <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
 ---
