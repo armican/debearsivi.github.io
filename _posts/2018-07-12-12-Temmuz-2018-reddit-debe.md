@@ -28,6 +28,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2f25cp9oy7911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    If you can up vote this you survived the snap. If you cant…
+  entry_id: 8xyas1
+  entry_content: |
+    null
+- entry_name: |
     I hope someone will subsidise their loss.
   entry_id: 8xutc3
   entry_content: |
@@ -38,15 +43,15 @@ data:
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/SiMDgHvFfog?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    Jumping over a fence in the most smoothest ways.
-  entry_id: 8xs6we
-  entry_content: |
-    <iframe src=https://v.redd.it/1j2lsjg446911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Monks with “nirvana” merchandise
   entry_id: 8xuqr9
   entry_content: |
     <img src=https://i.redditmedia.com/hq5VSjzbmBWzi-bnhGr5fNIKsX4AM2BVyuqQo74bph0.jpg?s=4e1899aa6cfa67dbf189eeeeefa7a464 frameborder=0>
+- entry_name: |
+    Jumping over a fence in the most smoothest ways.
+  entry_id: 8xs6we
+  entry_content: |
+    <iframe src=https://v.redd.it/1j2lsjg446911/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     These lines go up the wall so you can park perfectly in between the lines
   entry_id: 8xst6m
@@ -57,11 +62,6 @@ data:
   entry_id: 8xrpnv
   entry_content: |
     <img src=https://i.redditmedia.com/v6gRlJ-PbX2PoMhT9BHHHrslcHDGU_5sAALUK2xSOWM.jpg?s=f6148ca4e7fbffe4d0c76d010e80da6e frameborder=0>
-- entry_name: |
-    If you can up vote this you survived the snap. If you cant…
-  entry_id: 8xyas1
-  entry_content: |
-    null
 - entry_name: |
     This isn't a Painting Its a picture.
   entry_id: 8xupa1
@@ -83,15 +83,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dpi931zi96911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Samurai Jack creator Genndy Tartakovsky is working to bring back hand-drawn cartoons to big studio animated films
-  entry_id: 8xshzz
-  entry_content: |
-    <img src=https://i.redditmedia.com/P8UWbtQ5tIoJsh1MzMfnkdfE-_yKh2e8DSDg8PqXqeU.jpg?s=cef062aa87fbb7028d50ca204ca004ae frameborder=0>
-- entry_name: |
     This translucent lobster caught in Maine.
   entry_id: 8xudb5
   entry_content: |
     <img src=https://i.redditmedia.com/ogc_lbAip-hTo1MHiqj3mMuoxt0JUyk13giBV7RinTc.jpg?s=5c3cb717e16343b0f699995a133f2315 frameborder=0>
+- entry_name: |
+    Samurai Jack creator Genndy Tartakovsky is working to bring back hand-drawn cartoons to big studio animated films
+  entry_id: 8xshzz
+  entry_content: |
+    <img src=https://i.redditmedia.com/P8UWbtQ5tIoJsh1MzMfnkdfE-_yKh2e8DSDg8PqXqeU.jpg?s=cef062aa87fbb7028d50ca204ca004ae frameborder=0>
 - entry_name: |
     This clip of a store in Mesquite, Texas
   entry_id: 8xsr7l
@@ -103,35 +103,39 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSlowFirmIvorybilledwoodpecker&url=https%3A%2F%2Fgfycat.com%2FSlowFirmIvorybilledwoodpecker&image=https%3A%2F%2Fthumbs.gfycat.com%2FSlowFirmIvorybilledwoodpecker-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
+    Croatian firefighters before Rakitic penalty shooting against Russia
+  entry_id: 8xyv4r
+  entry_content: |
+    <iframe src=https://v.redd.it/nyivx2tt3b911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     I don’t feel so good
   entry_id: 8xwvo1
   entry_content: |
     <img src=https://i.redditmedia.com/H2Ef__1ILfUyFGF6eviGFfUBHNbOBJH0NiPKay3Pq3c.jpg?s=1ddc576bbd90e17da28a3747d80d3347 frameborder=0>
-- entry_name: |
-    Waiting in the waves
-  entry_id: 8xw3lv
-  entry_content: |
-    <iframe src=https://v.redd.it/63inkfdtl8911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Ice cave in Iceland during sunset
   entry_id: 8xxtzl
   entry_content: |
     <img src=https://i.redditmedia.com/HyszE_qFRgD7iC1b_ENxoijJPTXQSttbh9iIBvAX4UA.jpg?s=6002ae2f0cc45595b06f7f4b392ef48a frameborder=0>
 - entry_name: |
+    Waiting in the waves
+  entry_id: 8xw3lv
+  entry_content: |
+    <iframe src=https://v.redd.it/63inkfdtl8911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Canada is Making Cosmetic Testing on Animals Illegal
   entry_id: 8xtl9b
   entry_content: |
     <img src=https://i.redditmedia.com/9ZGIBOZ48uCGofWf9gGISiy6skRtG2TVMes-oxqOlro.jpg?s=143d0ae348a5c5843c0230604506045d frameborder=0>
 - entry_name: |
-    But hey, you tried ❤️
-  entry_id: 8xravx
-  entry_content: |
-    <img src=https://i.redditmedia.com/IJgkROHyYUBAjEXRXUWfK52Ep0rgF7Xjc8qhCbgyKfk.jpg?s=1d7e360b1cc7a748fbab12e1fc8dd7f3 frameborder=0>
-- entry_name: |
     Can I eat?
   entry_id: 8xv7vh
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhisperedSlimyKite&url=https%3A%2F%2Fgfycat.com%2FWhisperedSlimyKite&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhisperedSlimyKite-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+  entry_id: 8xy7nz
+  entry_content: |
+    <img src=https://i.redditmedia.com/6qguhibDLDVlXuRtIKcPy61fXNXmhxeMsOH2MQ2LiXE.png?s=4dde7bc9a7934af5623b4d7584c35d3d frameborder=0>
 - entry_name: |
     Let's open the window to watch the rain
   entry_id: 8xrs7u
@@ -147,6 +151,11 @@ data:
   entry_id: 8xt2ce
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F277989198%3Fapp_id%3D122963&dntp=1&url=https%3A%2F%2Fvimeo.com%2F277989198&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F712178251_1280.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vimeo width=600 height=264 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+- entry_name: |
+    Alienware
+  entry_id: 8xyfx7
+  entry_content: |
+    <img src=https://i.redditmedia.com/wl3wVRk8LyuZDZTFROyuPBPm76iorvV3LbgiGYH8Hck.jpg?s=2ce1082a0768bfe7d3a2480399003d2e frameborder=0>
 - entry_name: |
     Happens to the best of us
   entry_id: 8xseud
@@ -173,19 +182,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/YFgAA2oygZJCV1u2boqvtVENAl82XSglATBcZF6XKKE.jpg?s=bd315b4b337f2c537af17b1ce09f79ef frameborder=0>
 - entry_name: |
-  entry_id: 8xy7nz
-  entry_content: |
-    <img src=https://i.redditmedia.com/6qguhibDLDVlXuRtIKcPy61fXNXmhxeMsOH2MQ2LiXE.png?s=4dde7bc9a7934af5623b4d7584c35d3d frameborder=0>
-- entry_name: |
     Antivaxers are the best
   entry_id: 8xu0ek
   entry_content: |
     <img src=https://i.redditmedia.com/05QWlu419h91NNlvyfp2oFjbV37smPQciSNdpZfvs_Y.jpg?s=70fbb604386b2de7480f52caa08ff728 frameborder=0>
 - entry_name: |
-    Alienware
-  entry_id: 8xyfx7
+    Coolest Toy Plane Ever!
+  entry_id: 8xyegb
   entry_content: |
-    <img src=https://i.redditmedia.com/wl3wVRk8LyuZDZTFROyuPBPm76iorvV3LbgiGYH8Hck.jpg?s=2ce1082a0768bfe7d3a2480399003d2e frameborder=0>
+    <iframe src=https://v.redd.it/tli6yoz4pa911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    You don’t know my life! (I do this every time)
+  entry_id: 8xz3i8
+  entry_content: |
+    <img src=https://i.redditmedia.com/siM5IPL8vRSx3QqnL-hr4GXjEk73VGU8K9O_fznjWc0.jpg?s=750c89727a49edbfea63afcf2545eaa6 frameborder=0>
 - entry_name: |
     A 14 year old good girl I met on vacation!
   entry_id: 8xt53k
@@ -201,20 +211,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jL0Mp2UBa6_V6JNCHmjReVhqNmbS3eXkTCNQSYScwsE.jpg?s=f85464b6c4d2e6cda2e5777e9fdc8659 frameborder=0>
 - entry_name: |
+    Baby peacock showing off his stuff
+  entry_id: 8xwikf
+  entry_content: |
+    <iframe src=https://v.redd.it/ncdbt6w9x8911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Just try it.
   entry_id: 8xsloj
   entry_content: |
     <img src=https://i.redditmedia.com/HVHvwBUvqFkF3s5ZeNxJetHZflYUu7VNpjZak5npvJ4.jpg?s=7012a00efcd21728ffbcd86f0a508b41 frameborder=0>
 - entry_name: |
-    Croatian firefighters before Rakitic penalty shooting against Russia
-  entry_id: 8xyv4r
+    Michael Jackson was ‘chemically castrated’ by his dad, says doctor
+  entry_id: 8xxw0d
   entry_content: |
-    <iframe src=https://v.redd.it/nyivx2tt3b911/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/KJB2lwsPPqU-nraKxBRtRbAfKUsMsVnKqDl7IeYuv_I.jpg?s=f43a60bf5a2c3a9635622241b9986cf1 frameborder=0>
 - entry_name: |
-    Baby peacock showing off his stuff
-  entry_id: 8xwikf
+    Alienware
+  entry_id: 8xyfor
   entry_content: |
-    <iframe src=https://v.redd.it/ncdbt6w9x8911/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/9Mvf4A54jQM4WVotH_WDvrKE72aoGSnRXdG_gZw3z0s.jpg?s=0519499e0e8aa5563b8dc9dcf6754d55 frameborder=0>
+- entry_name: |
+    Petition for this to be come standard on the next generations controllers, background noise from mics on console is just too much to handle.
+  entry_id: 8xxvjp
+  entry_content: |
+    <img src=https://i.redditmedia.com/ApHdtfAE3Ngw3VmwuifvsjwmU0gdgAVRNvLziBQdNOg.png?s=e0be92abb821c8d7b63016c757156bcf frameborder=0>
 - entry_name: |
     Mfw I didnt get banned
   entry_id: 8xs6w4
@@ -226,28 +246,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OY6YBob6DutXNGYQmsJsbf0dfCRvwy-meDREkXmT-xs.jpg?s=031590879d71284c612b619100762440 frameborder=0>
 - entry_name: |
-    World Cup Investing
-  entry_id: 8xscmo
-  entry_content: |
-    <img src=https://i.redditmedia.com/ltBb9aVyouW5G9YjEhRX0aY-Dxr1wx5miYJhZaj8AqI.jpg?s=d43afb34e81a8bf7550c0993cf42a625 frameborder=0>
-- entry_name: |
     This black light body marbling
   entry_id: 8xupdw
   entry_content: |
     <iframe src=https://v.redd.it/gf0vbrcmm7911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Hecklers spoil another Mitch McConnell meal by blaring 'Fight The Power'
-  entry_id: 8xrzxb
-  entry_content: |
-    <img src=https://i.redditmedia.com/UABDSu7159mXuzVrqOTTGyY_A1Fxg3xLCyOd-rjRMDA.jpg?s=f47a2a5b4da808ddc9c6d2e854874f0a frameborder=0>
-- entry_name: |
-    Badass kid
-  entry_id: 8xsvca
-  entry_content: |
-    <img src=https://i.redditmedia.com/40UY-eHRbvOk5Wb7YW6wbcJ-gsqI5PAr2ASoNWwUupI.jpg?s=463435f4a5dea8c3656d55804e9a2b18 frameborder=0>
-- entry_name: |
-    We all know Cartoon Network/Adult Swim was the shit 👌👌
-  entry_id: 8xv4c3
-  entry_content: |
-    <img src=https://i.redditmedia.com/6Yb-lJrCXLfqXdgW8mJihBHj2ghwmBwuEJQQg-oFUco.png?s=34fbf198716172c74611ec0cb26e8066 frameborder=0>
 ---
