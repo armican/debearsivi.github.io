@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Mr_hxuBeLgUxYlA4-w5FNB8BqUm0YFv-mD4gJhhrFNw.jpg?s=7e93c088fc22ad99079a6c713e4c3608 frameborder=0>
 - entry_name: |
-    TIL A man who survived a jump from the Golden Gate Bridge but broke his back on impact was saved from drowning by a sea lion who kept him afloat until rescuers could reach him.
-  entry_id: 8xrpnv
-  entry_content: |
-    <img src=https://i.redditmedia.com/v6gRlJ-PbX2PoMhT9BHHHrslcHDGU_5sAALUK2xSOWM.jpg?s=f6148ca4e7fbffe4d0c76d010e80da6e frameborder=0>
-- entry_name: |
     This isn't a Painting Its a picture.
   entry_id: 8xupa1
   entry_content: |
@@ -172,11 +167,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/N91_lZcTpIcEwFw30V5s4sDy89FPcht8yTk1hQmUs0I.jpg?s=3f96d1ee0cd816597335d142a96930c9 frameborder=0>
 - entry_name: |
-    The Embarrassing Avenger
-  entry_id: 8xrllu
-  entry_content: |
-    <img src=https://i.redditmedia.com/YFgAA2oygZJCV1u2boqvtVENAl82XSglATBcZF6XKKE.jpg?s=bd315b4b337f2c537af17b1ce09f79ef frameborder=0>
-- entry_name: |
     Antivaxers are the best
   entry_id: 8xu0ek
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8xscmo
   entry_content: |
     <img src=https://i.redditmedia.com/ltBb9aVyouW5G9YjEhRX0aY-Dxr1wx5miYJhZaj8AqI.jpg?s=d43afb34e81a8bf7550c0993cf42a625 frameborder=0>
+- entry_name: |
+    Badass kid
+  entry_id: 8xsvca
+  entry_content: |
+    <img src=https://i.redditmedia.com/40UY-eHRbvOk5Wb7YW6wbcJ-gsqI5PAr2ASoNWwUupI.jpg?s=463435f4a5dea8c3656d55804e9a2b18 frameborder=0>
+- entry_name: |
+    Not being aware of who you're grinding on.
+  entry_id: 8xuiaw
+  entry_content: |
+    <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
 ---
