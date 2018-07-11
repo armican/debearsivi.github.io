@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/efZfE9oLgXbDLE3qRcd0u6_Ez-81L_N9WByb1OwDhEU.jpg?s=886fe8f8d7f098c74d0f8689df058f52 frameborder=0>
 - entry_name: |
-    Upvote of you ACTUALLY unsubscribed from ThanosDidNothingWrong like YOU WERE SUPPOSED TO UNLIKE 250,000 OTHER PEOPLE
-  entry_id: 8xrggi
-  entry_content: |
-    null
-- entry_name: |
     Rock lifted by a water fountain
   entry_id: 8xv6uh
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8xupdw
   entry_content: |
     <iframe src=https://v.redd.it/gf0vbrcmm7911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    World Cup Investing
+  entry_id: 8xscmo
+  entry_content: |
+    <img src=https://i.redditmedia.com/ltBb9aVyouW5G9YjEhRX0aY-Dxr1wx5miYJhZaj8AqI.jpg?s=d43afb34e81a8bf7550c0993cf42a625 frameborder=0>
 ---
