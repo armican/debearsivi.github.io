@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ogc_lbAip-hTo1MHiqj3mMuoxt0JUyk13giBV7RinTc.jpg?s=5c3cb717e16343b0f699995a133f2315 frameborder=0>
 - entry_name: |
-    This clip of a store in Mesquite, Texas
-  entry_id: 8xsr7l
-  entry_content: |
-    <iframe src=https://v.redd.it/26989d2rf6911/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     I don’t feel so good
   entry_id: 8xwvo1
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 8xuiaw
   entry_content: |
     <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Badass kid
+  entry_id: 8xsvca
+  entry_content: |
+    <img src=https://i.redditmedia.com/40UY-eHRbvOk5Wb7YW6wbcJ-gsqI5PAr2ASoNWwUupI.jpg?s=463435f4a5dea8c3656d55804e9a2b18 frameborder=0>
 ---
