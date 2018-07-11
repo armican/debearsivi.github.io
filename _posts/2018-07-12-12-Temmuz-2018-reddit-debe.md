@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dpi931zi96911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Chocolate made to look like Rusty Tools (Bruges, Belgium)
-  entry_id: 8xsg7p
-  entry_content: |
-    <img src=https://i.redditmedia.com/R2ZqfEGQa9nnRNDamBYyWBrWzfFJk80qrLob1jX8wvg.jpg?s=54e284c7f00b288f66d4fd52b1f8af11 frameborder=0>
-- entry_name: |
     The FCC wants to charge you $225 to review your complaints
   entry_id: 8xt55v
   entry_content: |
@@ -72,11 +67,6 @@ data:
   entry_id: 8xudb5
   entry_content: |
     <img src=https://i.redditmedia.com/ogc_lbAip-hTo1MHiqj3mMuoxt0JUyk13giBV7RinTc.jpg?s=5c3cb717e16343b0f699995a133f2315 frameborder=0>
-- entry_name: |
-    Samurai Jack creator Genndy Tartakovsky is working to bring back hand-drawn cartoons to big studio animated films
-  entry_id: 8xshzz
-  entry_content: |
-    <img src=https://i.redditmedia.com/P8UWbtQ5tIoJsh1MzMfnkdfE-_yKh2e8DSDg8PqXqeU.jpg?s=cef062aa87fbb7028d50ca204ca004ae frameborder=0>
 - entry_name: |
     This clip of a store in Mesquite, Texas
   entry_id: 8xsr7l
@@ -231,11 +221,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WccVjazPM8rwI9LeF_qOTLVb2LFH9K651UCTPBkJUJg.jpg?s=0801b9c83cb16cf79a4d5094c4baee4d frameborder=0>
 - entry_name: |
-    Just try it.
-  entry_id: 8xsloj
-  entry_content: |
-    <img src=https://i.redditmedia.com/HVHvwBUvqFkF3s5ZeNxJetHZflYUu7VNpjZak5npvJ4.jpg?s=7012a00efcd21728ffbcd86f0a508b41 frameborder=0>
-- entry_name: |
     High Quality Gifs: The Ride
   entry_id: 8xyjwb
   entry_content: |
@@ -249,4 +234,19 @@ data:
   entry_id: 8xu89b
   entry_content: |
     <img src=https://i.redditmedia.com/mOwXxb6b6t5jvfZWgZGgEnR6NQ0SAio9YeFs-KA2KZ0.png?s=bb82c0531658e38883e93a1aa76fc8a4 frameborder=0>
+- entry_name: |
+    Been almost five years but she still looked like a bitch
+  entry_id: 8xx27r
+  entry_content: |
+    <img src=https://i.redditmedia.com/FYOy3wCDmEoVVQl7NLS8KluBS0EJcoTU-t9UXJoKKT0.jpg?s=4b0f23a59e8dd7aa12d0496e449dde96 frameborder=0>
+- entry_name: |
+    This black light body marbling
+  entry_id: 8xupdw
+  entry_content: |
+    <iframe src=https://v.redd.it/gf0vbrcmm7911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Not being aware of who you're grinding on.
+  entry_id: 8xuiaw
+  entry_content: |
+    <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
 ---
