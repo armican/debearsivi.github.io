@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/hq5VSjzbmBWzi-bnhGr5fNIKsX4AM2BVyuqQo74bph0.jpg?s=4e1899aa6cfa67dbf189eeeeefa7a464 frameborder=0>
 - entry_name: |
-    Jumping over a fence in the most smoothest ways.
-  entry_id: 8xs6we
-  entry_content: |
-    <iframe src=https://v.redd.it/1j2lsjg446911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     These lines go up the wall so you can park perfectly in between the lines
   entry_id: 8xst6m
   entry_content: |
@@ -236,11 +231,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OY6YBob6DutXNGYQmsJsbf0dfCRvwy-meDREkXmT-xs.jpg?s=031590879d71284c612b619100762440 frameborder=0>
 - entry_name: |
-    Mfw I didnt get banned
-  entry_id: 8xs6w4
-  entry_content: |
-    <img src=https://i.redditmedia.com/ZiJubUfwD9IaK-lfY8SdNl7DwCgja9iyPWqTBscT7kg.jpg?s=719e4245b9f4e35e5041e7049e9383a1 frameborder=0>
-- entry_name: |
   entry_id: 8xu89b
   entry_content: |
     <img src=https://i.redditmedia.com/mOwXxb6b6t5jvfZWgZGgEnR6NQ0SAio9YeFs-KA2KZ0.png?s=bb82c0531658e38883e93a1aa76fc8a4 frameborder=0>
@@ -249,4 +239,14 @@ data:
   entry_id: 8xupdw
   entry_content: |
     <iframe src=https://v.redd.it/gf0vbrcmm7911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Not being aware of who you're grinding on.
+  entry_id: 8xuiaw
+  entry_content: |
+    <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Oral sex must have been a lot less popular before bathing daily became a thing
+  entry_id: 8xyl80
+  entry_content: |
+    null
 ---
