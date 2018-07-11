@@ -53,16 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dzTfuBB1orRHNuIiZABiFoRlJJs2FOMRxIJ8aWgS_gc.png?s=e4636ac9f917100cbaff1d8f57cc5119 frameborder=0>
 - entry_name: |
-    Enjoying the majesty
-  entry_id: 8xszv1
-  entry_content: |
-    <iframe src=https://v.redd.it/dpi931zi96911/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    The FCC wants to charge you $225 to review your complaints
-  entry_id: 8xt55v
-  entry_content: |
-    <img src=https://i.redditmedia.com/dcr7TaHrF3wRjukkmKd-5dy0RSQPoiFl-RuTP-kuBa8.jpg?s=39fc2b6d91179174b17c475f2cb2fd99 frameborder=0>
-- entry_name: |
     You don’t know my life! (I do this every time)
   entry_id: 8xz3i8
   entry_content: |
@@ -137,11 +127,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/l2gJq-u2ORLZD8UKO81VtHT7GADAoXuuTMZcyqiY6tI.png?s=51bc37da625fdf9795a0d70728577a9e frameborder=0>
 - entry_name: |
-    Made a snowboarding video with the hardest transitions I could think of
-  entry_id: 8xt2ce
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F277989198%3Fapp_id%3D122963&dntp=1&url=https%3A%2F%2Fvimeo.com%2F277989198&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F712178251_1280.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=vimeo width=600 height=264 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
-- entry_name: |
     I'm deathly afraid of heights... I went to the Skydeck at the Willis Tower (Sears Tower) and slowly inched my back to the edge, mustered up all composure I could and took a pic. I thought I nailed it until I saw the photo...
   entry_id: 8y15fo
   entry_content: |
@@ -207,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WccVjazPM8rwI9LeF_qOTLVb2LFH9K651UCTPBkJUJg.jpg?s=0801b9c83cb16cf79a4d5094c4baee4d frameborder=0>
 - entry_name: |
-    A 14 year old good girl I met on vacation!
-  entry_id: 8xt53k
-  entry_content: |
-    <img src=https://i.redditmedia.com/IMxNAVy7zhIlNnwxzAZMz0zPDTWAF3u3MxQJnoZ140Q.jpg?s=89f0be70f12a6bc4625533090107a103 frameborder=0>
-- entry_name: |
   entry_id: 8xvcq9
   entry_content: |
     <img src=https://i.redditmedia.com/Xi3uvawYvaNYKnXGFMTJbCqtuqxqZAp-1_G_hIwV4iY.jpg?s=e2183eb9493ee9fd0e8dfe914ecf8b53 frameborder=0>
@@ -249,4 +229,24 @@ data:
   entry_id: 8xuiaw
   entry_content: |
     <iframe src=https://v.redd.it/lmac6j5hwb911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Australian experiment wipes out over 80% of disease-carrying mosquitoes
+  entry_id: 8xuklg
+  entry_content: |
+    <img src=https://i.redditmedia.com/fcOWVFLPNEiC7uXXYG1cprheTR78Tn2xOY0ijPK6rOA.jpg?s=7e7a817b4bd47b76dcbf9fccaf104a72 frameborder=0>
+- entry_name: |
+    We all know Cartoon Network/Adult Swim was the shit 👌👌
+  entry_id: 8xv4c3
+  entry_content: |
+    <img src=https://i.redditmedia.com/6Yb-lJrCXLfqXdgW8mJihBHj2ghwmBwuEJQQg-oFUco.png?s=34fbf198716172c74611ec0cb26e8066 frameborder=0>
+- entry_name: |
+    I live on a busy corner. UPS moved my trash can and used it to hide my delivery.
+  entry_id: 8xu14j
+  entry_content: |
+    <img src=https://i.redditmedia.com/mwiLNvpTatgYG2i9IUkuVq2nJPtYY3A87AcuDtNMlSU.jpg?s=a4af977c369f6323252acc6f4fa0cbc4 frameborder=0>
+- entry_name: |
+    Remember Kiwi & his goth gf?
+  entry_id: 8y08hh
+  entry_content: |
+    <img src=https://i.redditmedia.com/J7-B4B2HkIC9SgTRSqZGxLo74FWTY83IVHZFVTqSHKc.jpg?s=e0defa7f0aa7595431411a4587d609cf frameborder=0>
 ---
