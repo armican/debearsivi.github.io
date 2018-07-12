@@ -63,11 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/75JKs41kzE73dPpdULNLV2oFCKPivr9xtIT4wn87L4g.jpg?s=402a2f365502eb6c4faf438fe6a9d26e frameborder=0>
 - entry_name: |
-    You all saw the high school mullet photo, now see how he grew it out: Peter Dinklage in college, late '80s
-  entry_id: 8y1m5y
-  entry_content: |
-    <img src=https://i.redditmedia.com/4T2Gg3HmWRbCMgewHnU8U5LGu8CGzngD1HqaNyYyWHM.jpg?s=559bea4ee0b04ee20c27ef7ba7b4db79 frameborder=0>
-- entry_name: |
     Fitting a glass piece
   entry_id: 8y2xbn
   entry_content: |
@@ -158,11 +153,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/n7mskwzpwd911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Great job dad!!!!
-  entry_id: 8y9mqe
-  entry_content: |
-    <img src=https://i.redditmedia.com/C_Z5rYaN3eflZPtoasQDb2e5EnCiuJJrwnBg0o8_EaY.png?s=3d675c94e0f9a7c555064d57ec055bb1 frameborder=0>
-- entry_name: |
     2012: Reddit says Boycott the World Cup, 2018: GOAALLLLLLLLLLLLL
   entry_id: 8y1rvm
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8y8xt1
   entry_content: |
     <img src=https://i.redditmedia.com/mKBtIFGTAAEB1mgST8rBSptsMp6gxCu7owXqgk3-PcM.jpg?s=b4de68ff44deb62a5c6346ae8b95798d frameborder=0>
+- entry_name: |
+    This young lad would grow up the become the Crocodile Hunter. Steve Irwin late 70’s early 80’s
+  entry_id: 8y5j13
+  entry_content: |
+    <img src=https://i.redditmedia.com/__tNogJ_l9DAykjh5r0BLVLyIegGeLAws72XDOvsXuI.jpg?s=70dd304eca5a0e5e90bd93259f3b1325 frameborder=0>
+- entry_name: |
+    Me🎂irl
+  entry_id: 8y84rl
+  entry_content: |
+    <img src=https://i.redditmedia.com/qGHAHyCL1H9QfaWVIdcALL__1lpEPXlc4bgYWIA3NSQ.jpg?s=84119127abd8a1f1eb7677c1ec966626 frameborder=0>
 ---
