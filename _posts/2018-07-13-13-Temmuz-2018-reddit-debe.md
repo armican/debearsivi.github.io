@@ -123,11 +123,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vyAF1ZkCoG-LZ67AGGOPjRjWKDT7YTI6STRoD0LMMaQ.jpg?s=ce2d512517946af0c56c26f0af8eb83b frameborder=0>
 - entry_name: |
-    Pregnant women in immigration detention under the Trump administration say they have been denied medical care, shackled around the stomach, and suffered miscarriages from the abuse. GOP logic: abortion? Bad. Abusing pregnant immigrants until they miscarry? Law and order.
-  entry_id: 8y1ujd
-  entry_content: |
-    <img src=https://i.redditmedia.com/wfZeeI5WwPE8V5xX2FhFdcEZutlgAx-TWUEyF7xfPI8.jpg?s=8a83792e489e94b8633d7098d4e60024 frameborder=0>
-- entry_name: |
     Squad goals
   entry_id: 8y8m3w
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_id: 8y3hfg
   entry_content: |
     <iframe src=https://v.redd.it/n7mskwzpwd911/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    2012: Reddit says Boycott the World Cup, 2018: GOAALLLLLLLLLLLLL
-  entry_id: 8y1rvm
-  entry_content: |
-    <img src=https://i.redditmedia.com/TfjJPxJVsNN1ldrNROYXe7xm6y1_yh-RBcgCDKxXsj0.jpg?s=d90d28c799a44178a25a8a6c90a69f90 frameborder=0>
 - entry_name: |
     Unlucky state-provided license plate
   entry_id: 8y4zp2
@@ -251,4 +241,14 @@ data:
   entry_id: 8y84rl
   entry_content: |
     <img src=https://i.redditmedia.com/qGHAHyCL1H9QfaWVIdcALL__1lpEPXlc4bgYWIA3NSQ.jpg?s=84119127abd8a1f1eb7677c1ec966626 frameborder=0>
+- entry_name: |
+    Beer flying in Hyde park when England scores 1-0 against Croatia
+  entry_id: 8y2h5q
+  entry_content: |
+    <iframe src=https://v.redd.it/8gszihuhbd911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    England's going home
+  entry_id: 8y36kk
+  entry_content: |
+    <img src=https://i.redditmedia.com/xAEmDmuNoRxTkdfL9VEMejMFGNoBeoEg5is4_9WvR7Y.jpg?s=d1787279282ab4e6b91ac9a16d741a92 frameborder=0>
 ---
