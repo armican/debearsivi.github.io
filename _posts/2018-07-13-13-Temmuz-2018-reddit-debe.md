@@ -227,11 +227,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/OupeXH5LPNOx37dpBbHocrm8eWL07cVHZXkHuGFLJMY.jpg?s=02ee0ea2a4c9a4622eb3132dcd8a2062 frameborder=0>
 - entry_name: |
-    Croatian players apologize to photographer after burying him
-  entry_id: 8y35y4
-  entry_content: |
-    <iframe src=https://v.redd.it/t68emig3qd911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Let’s just keep electing baby boomers??
   entry_id: 8y6ovw
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8y4ewk
   entry_content: |
     <iframe src=https://v.redd.it/sxhp0027de911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    This young lad would grow up the become the Crocodile Hunter. Steve Irwin late 70’s early 80’s
+  entry_id: 8y5j13
+  entry_content: |
+    <img src=https://i.redditmedia.com/__tNogJ_l9DAykjh5r0BLVLyIegGeLAws72XDOvsXuI.jpg?s=70dd304eca5a0e5e90bd93259f3b1325 frameborder=0>
 ---
