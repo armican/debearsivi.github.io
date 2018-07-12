@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QV1UgpoIg5tMbUzduz5KNREJr0Y0QB6fkzD4uZixAlo.jpg?s=850863a46d443021a28164ff820a3d83 frameborder=0>
 - entry_name: |
-    Wolf underestimates the temperature of frozen water.
-  entry_id: 8y2tvt
-  entry_content: |
-    <iframe src=https://v.redd.it/92ikpu2dfc911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     The hero we need
   entry_id: 8y3xfr
   entry_content: |
@@ -217,11 +212,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t68emig3qd911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    🔥 Rare Oarfish (Yes, this is real)
-  entry_id: 8y2t77
-  entry_content: |
-    <img src=https://i.redditmedia.com/-xXN_5K7-3HQ8hSx_qB4x616x1ErQmFWCNls7saQm60.jpg?s=b21409899be176c683282864f2a62ecd frameborder=0>
-- entry_name: |
     Let’s just keep electing baby boomers??
   entry_id: 8y6ovw
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8y81bk
   entry_content: |
     <img src=https://i.redditmedia.com/_14ZtQGgzC46erN5s-9Zuh_PgARLRqJbcEYbqCqBYXQ.jpg?s=6b62b774699640697bf68040a08a7fae frameborder=0>
+- entry_name: |
+    Filipino artist, Gregory Halili, carves intricate skulls into mother of pearl shells.
+  entry_id: 8y7i2h
+  entry_content: |
+    <img src=https://i.redditmedia.com/oSJjM8jdK-CDZwoAoSWXtRbOw5Wq3O4q4ygEqLjO7l0.jpg?s=ca1d4a64bd4a82f740bf280d29f6e2c3 frameborder=0>
+- entry_name: |
+    England's going home
+  entry_id: 8y36kk
+  entry_content: |
+    <img src=https://i.redditmedia.com/xAEmDmuNoRxTkdfL9VEMejMFGNoBeoEg5is4_9WvR7Y.jpg?s=d1787279282ab4e6b91ac9a16d741a92 frameborder=0>
 ---
