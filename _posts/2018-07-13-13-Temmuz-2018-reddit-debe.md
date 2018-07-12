@@ -207,11 +207,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/s0hvo4t76f911/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Bey.T. phone HOV
-  entry_id: 8y2lxo
-  entry_content: |
-    <img src=https://i.redditmedia.com/OZ0rWBWSU_7HYddu6ODwBDgU84j4B5UtnwSenK51rOo.jpg?s=f7b5b1b3d685452580fd05273fa503b3 frameborder=0>
-- entry_name: |
     I'm $20k in debt to two music degrees and yet I waste it making musical memes. My head says stop buy my heart says it was the blurst of times. Do what makes you smile folks!
   entry_id: 8y98iv
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8yabwy
   entry_content: |
     <img src=https://i.redditmedia.com/efUq8nxjh5EQXOHYdR-CXANWE9LIp4ylNM5GHbzDPEs.png?s=462b0182cf609b1e217d9a69629ff871 frameborder=0>
+- entry_name: |
+    Managed to line up my phone with binoculars to get this shot of a North Korean town from the DMZ!
+  entry_id: 8y81bk
+  entry_content: |
+    <img src=https://i.redditmedia.com/_14ZtQGgzC46erN5s-9Zuh_PgARLRqJbcEYbqCqBYXQ.jpg?s=6b62b774699640697bf68040a08a7fae frameborder=0>
 ---
