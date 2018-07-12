@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2M2e_FIRAo7RmQaLGGYudtVdsBgCSU6VUgzqyCZ6ao4.jpg?s=d7a90664263a6388c3a95e88ab646fbd frameborder=0>
 - entry_name: |
-    This bathroom that has an encouraging picture instead of a mirror
-  entry_id: 8y23se
-  entry_content: |
-    <img src=https://i.redditmedia.com/cDy3HmyGUpR2kBzxrXMzYqBw3Z-scO1w8rBfDkhrg44.jpg?s=09ea3fd681fa581c97cab3843b587ecc frameborder=0>
-- entry_name: |
     Uppercase cat and lowercase cat
   entry_id: 8y76qn
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8y36kk
   entry_content: |
     <img src=https://i.redditmedia.com/xAEmDmuNoRxTkdfL9VEMejMFGNoBeoEg5is4_9WvR7Y.jpg?s=d1787279282ab4e6b91ac9a16d741a92 frameborder=0>
+- entry_name: |
+    Took longer than I thought it would, but here it is...
+  entry_id: 8y9st6
+  entry_content: |
+    <img src=https://i.redditmedia.com/YVbWN_B51xvx6ftfM8TspQxbYqUjlfxc8B8XZj0bPFo.jpg?s=81f948b48c5f57afe1d0d55e7507a6cb frameborder=0>
 ---
