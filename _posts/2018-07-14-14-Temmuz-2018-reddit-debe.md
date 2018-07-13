@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zFUDcyJdQZ0UD3Ljg_yiBgxcDEB3Xqscj-ye-HZtAHo.jpg?s=a518504ebad77b6d42bffa7465705d2a frameborder=0>
 - entry_name: |
-    Play like women and not like neymar..
-  entry_id: 8yd02j
-  entry_content: |
-    <iframe src=https://v.redd.it/o51nm94nhr911/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Last July a stray kitten came into my office, looked at me like you are my human, so I adopted her. Today, this happened. Guess now I'm an owner of another good girl.
   entry_id: 8yf9nb
   entry_content: |
@@ -122,11 +117,6 @@ data:
   entry_id: 8yjal1
   entry_content: |
     <img src=https://i.redditmedia.com/bsA_WgnLw-_i-aqEytTs86BQpVlfgCf3miJIj8VttsQ.jpg?s=43f4c01796900022c40b4535520bd961 frameborder=0>
-- entry_name: |
-    Good boy is ready to go for his walk.
-  entry_id: 8yd19x
-  entry_content: |
-    <iframe src=https://v.redd.it/ptzg09x1zj911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Mark left by the barbers through many years
   entry_id: 8yg7v1
@@ -252,4 +242,13 @@ data:
   entry_id: 8yftal
   entry_content: |
     <img src=https://i.redditmedia.com/4IiH2ZTzqbGcR5pD6f_DJ0y1psyqr3tuTwTIBV5D3Y8.jpg?s=00a29702ef791f3e1870777f780aac19 frameborder=0>
+- entry_name: |
+    A long bouncing line of piglets.
+  entry_id: 8yj56z
+  entry_content: |
+    <iframe src=https://v.redd.it/vfzdumdu9p911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8yjy7y
+  entry_content: |
+    <img src=https://i.redditmedia.com/xXS0XxLgWlAKm-FIHPi_MPTFEWyH4jAy_PIUW5JjP-c.gif?fm=jpg&s=9ec0d89a9d0def470bfb25c6285e70fd frameborder=0>
 ---
