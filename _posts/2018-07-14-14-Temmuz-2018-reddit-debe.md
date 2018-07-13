@@ -128,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QTRSBRG0GFSjtQ-4OFBYFODnFkDoE6ZVlojjUh86ZpE.jpg?s=4114bae25a1c60575c8e71b21196f3ad frameborder=0>
 - entry_name: |
-    California has hit its 2020 greenhouse gas emissions goal years ahead of schedule
-  entry_id: 8ycdby
-  entry_content: |
-    <img src=https://i.redditmedia.com/9hr_cW_uWVGPcpx0T3zJGPvF2RL48QNsJRFNX64wST8.jpg?s=04d04020ca026fac4e28572701ef1341 frameborder=0>
-- entry_name: |
     This iPad would make a great shield. Let me lash it to my arm.
   entry_id: 8yd671
   entry_content: |
@@ -208,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XIQNU9CVJXSMWTK7qxSU-FAs_Uun-6YC9IFl3qKs3SE.png?s=90be74b633a84a2f85ddaaa602f1b398 frameborder=0>
 - entry_name: |
-    Pass me some of that gravy
-  entry_id: 8ychxs
-  entry_content: |
-    <img src=https://i.redditmedia.com/coFn1qiWJjM0L5cf5NJY086BktO59mC5VTa2V06y8zI.jpg?s=6f7ae6be89dbac934efebe4b428e31b7 frameborder=0>
-- entry_name: |
     Abused Woman Held Captive By Boyfriend Slips Note To Veterinary Staff
   entry_id: 8yda8l
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8yj3tu
   entry_content: |
     <img src=https://i.redditmedia.com/itsiytEsWIlh_3IpxLG0Rz4e-bgVEvsjdDP_V_qkzjA.jpg?s=23a2549151ee1a01518706dfc8318382 frameborder=0>
+- entry_name: |
+    You shall not pass!
+  entry_id: 8yg2vl
+  entry_content: |
+    <iframe src=https://v.redd.it/ji1kxts9fk911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Biggest letdown I’ve had in a while tbh
+  entry_id: 8yjfyk
+  entry_content: |
+    <img src=https://i.redditmedia.com/TUUUQApNfefMia_g4R3b4qbBLO1tRn7csdCT7xFLb60.jpg?s=ef269a1654444f9ebbe1741a41d12e82 frameborder=0>
 ---
