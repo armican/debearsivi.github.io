@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/x7QqTJt3LamO8Oj2gpMO-yj0r52vWTkcVTo71VMgEzA.jpg?s=f90d299bec7521e3fc626ff4399eff5f frameborder=0>
 - entry_name: |
-    Guy who says God sends natural disasters to punish gays has his home destroyed in a natural disaster
-  entry_id: 8yd75c
-  entry_content: |
-    <img src=https://i.redditmedia.com/z26tC2SoGHnQ0RkEvMQIJyc06XPlOtZsD1rvDV7Iq0c.jpg?s=006e82674caf9bae24e625f34e0c3877 frameborder=0>
-- entry_name: |
     My sister is getting into photography and recently took a trip to Africa. I told her to just quit now because she’ll never top this moment.
   entry_id: 8ydg0l
   entry_content: |
@@ -57,11 +52,6 @@ data:
   entry_id: 8yiwbv
   entry_content: |
     null
-- entry_name: |
-    Augmented Reality Chemistry Set
-  entry_id: 8yd4ni
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhichCreamyAmericancicada&url=https%3A%2F%2Fgfycat.com%2Fwhichcreamyamericancicada&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhichCreamyAmericancicada-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Is Today Friday the 13th?
   entry_id: 8yjnzi
@@ -122,11 +112,6 @@ data:
   entry_id: 8yg7v1
   entry_content: |
     <img src=https://i.redditmedia.com/QTRSBRG0GFSjtQ-4OFBYFODnFkDoE6ZVlojjUh86ZpE.jpg?s=4114bae25a1c60575c8e71b21196f3ad frameborder=0>
-- entry_name: |
-    This iPad would make a great shield. Let me lash it to my arm.
-  entry_id: 8yd671
-  entry_content: |
-    <iframe src=https://v.redd.it/x6078m1knk911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Hermione found her people
   entry_id: 8yj9rl
@@ -251,4 +236,19 @@ data:
   entry_id: 8yjy7y
   entry_content: |
     <img src=https://i.redditmedia.com/xXS0XxLgWlAKm-FIHPi_MPTFEWyH4jAy_PIUW5JjP-c.gif?fm=jpg&s=9ec0d89a9d0def470bfb25c6285e70fd frameborder=0>
+- entry_name: |
+    Saw a post about calling your parents for help instead of googling it to make them feel more a part of your life. Did not go as planned.
+  entry_id: 8yg0rr
+  entry_content: |
+    <img src=https://i.redditmedia.com/hNHWt-ZUcJntrGA8sv6OKwsppPbPHuP5EsXqM-JgVAg.jpg?s=8f0836daa62343e116858cf4a20602e7 frameborder=0>
+- entry_name: |
+    You shall not pass!
+  entry_id: 8yg2vl
+  entry_content: |
+    <iframe src=https://v.redd.it/ji1kxts9fk911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    UK passes 1,000 hours without coal as energy shift accelerates
+  entry_id: 8yip6p
+  entry_content: |
+    <img src=https://i.redditmedia.com/HKhI4gs3hJCFgFPeNteL6Se20KcbBxC7JzMkCJXfbqo.jpg?s=04a1f1b38acfe5b33942e25bcc426813 frameborder=0>
 ---
