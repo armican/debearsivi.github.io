@@ -58,13 +58,18 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ksi7r3zqyl911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    TIL That the world's oldest continuously running business is a hot springs hotel in Japan that's run since 705 A.D.
+  entry_id: 8yiwbv
+  entry_content: |
+    null
+- entry_name: |
     Augmented Reality Chemistry Set
   entry_id: 8yd4ni
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhichCreamyAmericancicada&url=https%3A%2F%2Fgfycat.com%2Fwhichcreamyamericancicada&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhichCreamyAmericancicada-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
-    TIL That the world's oldest continuously running business is a hot springs hotel in Japan that's run since 705 A.D.
-  entry_id: 8yiwbv
+    Is Today Friday the 13th?
+  entry_id: 8yjnzi
   entry_content: |
     null
 - entry_name: |
@@ -77,11 +82,6 @@ data:
   entry_id: 8yep2x
   entry_content: |
     <img src=https://i.redditmedia.com/7xthACnOVrko_lue_VP-hGga-oXTCu94oGm9HCPBLzk.jpg?s=9e8301c0d59a0b302bdce3be72d7193a frameborder=0>
-- entry_name: |
-    Is Today Friday the 13th?
-  entry_id: 8yjnzi
-  entry_content: |
-    null
 - entry_name: |
     Cancer cells engineered with CRISPR slay their own kin. Researchers engineered tumor cells in mice to secrete a protein that triggers a death switch in resident tumor cells they encounter.
   entry_id: 8yflh0
@@ -103,6 +103,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/oMIlSRPYJ5OxTJjNottbVM2ZLbmXGbEQ07t01c4XN3Y.png?s=4b1bcb84ab40b3f6c4d2270f76ba393f frameborder=0>
 - entry_name: |
+    Quality German Parking Sensors
+  entry_id: 8yjm1v
+  entry_content: |
+    <iframe src=https://v.redd.it/6q7ijoz5np911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     TIL Bob Barker plans to die broke after giving all his money to Animal Foundations/Rescues
   entry_id: 8yehlq
   entry_content: |
@@ -112,6 +117,11 @@ data:
   entry_id: 8yftqy
   entry_content: |
     <iframe src=https://v.redd.it/kpjfgvupem911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    8 month’s ago my S/O was not happy about us taking in one of my parents’ pets. This was them the other morning.
+  entry_id: 8yjal1
+  entry_content: |
+    <img src=https://i.redditmedia.com/bsA_WgnLw-_i-aqEytTs86BQpVlfgCf3miJIj8VttsQ.jpg?s=43f4c01796900022c40b4535520bd961 frameborder=0>
 - entry_name: |
     Good boy is ready to go for his walk.
   entry_id: 8yd19x
@@ -128,10 +138,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/x6078m1knk911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Quality German Parking Sensors
-  entry_id: 8yjm1v
+    Hermione found her people
+  entry_id: 8yj9rl
   entry_content: |
-    <iframe src=https://v.redd.it/6q7ijoz5np911/DASH_4_8_M frameborder=0></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOptimisticVariableCrocodileskink&url=https%3A%2F%2Fgfycat.com%2FOptimisticVariableCrocodileskink&image=https%3A%2F%2Fthumbs.gfycat.com%2FOptimisticVariableCrocodileskink-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     This kid’s going places
   entry_id: 8yeyes
@@ -142,11 +152,6 @@ data:
   entry_id: 8ygjno
   entry_content: |
     <img src=https://i.redditmedia.com/0jQbsCQ788GBUgRXg3a9HlJoFgyTswFUJ_RBu7fgFkg.jpg?s=04cde2ab4080851a9ab98f2ef7f6f404 frameborder=0>
-- entry_name: |
-    Hermione found her people
-  entry_id: 8yj9rl
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FOptimisticVariableCrocodileskink&url=https%3A%2F%2Fgfycat.com%2FOptimisticVariableCrocodileskink&image=https%3A%2F%2Fthumbs.gfycat.com%2FOptimisticVariableCrocodileskink-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 - entry_name: |
     Normal employee
   entry_id: 8ydv2d
@@ -163,20 +168,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pykFMitkn3Mf5BRPd4fvLqVHNQCffYU1hFDZN_p4k9c.jpg?s=ab414926ea9fa11641f6b5273195dbbc frameborder=0>
 - entry_name: |
-    Depression had me living in a dump and not taking care of myself for months. Recently I moved into my first ever bachelorette pad! I’m engaging in some great habits, cleaning every day and lots of warm baths. Im feeling happier and healthier then ever!
-  entry_id: 8yd8yr
-  entry_content: |
-    <img src=https://i.redditmedia.com/VH4l2re_kRjjz41O5WW7oNIQ4wFsCeFu-3LpnY--S6Q.jpg?s=a9756c5f63b3a3c93a9025bbd95f1121 frameborder=0>
-- entry_name: |
     Keep scrolling! Obi-Wan needs to be going up, not down!
   entry_id: 8yhvcf
   entry_content: |
     <img src=https://i.redditmedia.com/bFXuvbfX2-RtlNdYqsLtadfkzYcWHiY8hj9mgT26YFw.jpg?s=e0b501b847fd38d7a58dd24d424d5b56 frameborder=0>
 - entry_name: |
-    8 month’s ago my S/O was not happy about us taking in one of my parents’ pets. This was them the other morning.
-  entry_id: 8yjal1
+    My dad at his first job at NASA! It is also his birthday today (1986)
+  entry_id: 8yjqws
   entry_content: |
-    <img src=https://i.redditmedia.com/bsA_WgnLw-_i-aqEytTs86BQpVlfgCf3miJIj8VttsQ.jpg?s=43f4c01796900022c40b4535520bd961 frameborder=0>
+    <img src=https://i.redditmedia.com/f0uRd2w_UGtZFAh1d04wYWAsbYtu2fA_Ed8nmSocD14.jpg?s=283a6e4237db0f655766b5b8a99d3594 frameborder=0>
+- entry_name: |
+    Depression had me living in a dump and not taking care of myself for months. Recently I moved into my first ever bachelorette pad! I’m engaging in some great habits, cleaning every day and lots of warm baths. Im feeling happier and healthier then ever!
+  entry_id: 8yd8yr
+  entry_content: |
+    <img src=https://i.redditmedia.com/VH4l2re_kRjjz41O5WW7oNIQ4wFsCeFu-3LpnY--S6Q.jpg?s=a9756c5f63b3a3c93a9025bbd95f1121 frameborder=0>
+- entry_name: |
+    Houston woman accused of offering to sell her 2-year-old daughter for sex at a cost of $1,200 has been sentenced to 40 years in prison.
+  entry_id: 8ykffz
+  entry_content: |
+    <img src=https://i.redditmedia.com/VG1usbn1mqM9Kyb1W8UOhTR88Qvly2RRhfChcpw_qJ4.jpg?s=9b5ca3d622248b89642086b1dbcd0ad1 frameborder=0>
+- entry_name: |
+    Five years ago i asked my crush to go out with me, she called me a weirdo, and we never talked again. This is just a random photo i found on Google.
+  entry_id: 8yif2c
+  entry_content: |
+    <img src=https://i.redditmedia.com/XIQNU9CVJXSMWTK7qxSU-FAs_Uun-6YC9IFl3qKs3SE.png?s=90be74b633a84a2f85ddaaa602f1b398 frameborder=0>
 - entry_name: |
     Facebook Says InfoWars, Which Reported That NASA Has a Slave Colony on Mars, Is a Valid Source of “Opinion and Analysis”
   entry_id: 8yerfm
@@ -193,10 +208,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/mo2lclehqm911/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Five years ago i asked my crush to go out with me, she called me a weirdo, and we never talked again. This is just a random photo i found on Google.
-  entry_id: 8yif2c
+    Biggest letdown I’ve had in a while tbh
+  entry_id: 8yjfyk
   entry_content: |
-    <img src=https://i.redditmedia.com/XIQNU9CVJXSMWTK7qxSU-FAs_Uun-6YC9IFl3qKs3SE.png?s=90be74b633a84a2f85ddaaa602f1b398 frameborder=0>
+    <img src=https://i.redditmedia.com/TUUUQApNfefMia_g4R3b4qbBLO1tRn7csdCT7xFLb60.jpg?s=ef269a1654444f9ebbe1741a41d12e82 frameborder=0>
 - entry_name: |
     Abused Woman Held Captive By Boyfriend Slips Note To Veterinary Staff
   entry_id: 8yda8l
@@ -213,43 +228,28 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Man who harassed woman in Puerto Rican T-shirt now facing hate crime charges
-  entry_id: 8yero3
-  entry_content: |
-    <img src=https://i.redditmedia.com/Eg7z3pxwzcCd07vWp-4kRoO3JXsbDYfAgp13-nLi8Kw.jpg?s=bc540f75ccb9d143250b9a1748b711cf frameborder=0>
-- entry_name: |
-    In Django Unchained (2012), Django meets a character played by Franco Nero who asks him to spell his name. Django spells out his name and comments the D is silent. Nero's character replies that he knows already--because Franco Nero played the original Django (1966) who largely inspired this film.
-  entry_id: 8yftal
-  entry_content: |
-    <img src=https://i.redditmedia.com/4IiH2ZTzqbGcR5pD6f_DJ0y1psyqr3tuTwTIBV5D3Y8.jpg?s=00a29702ef791f3e1870777f780aac19 frameborder=0>
-- entry_name: |
-    Saw a post about calling your parents for help instead of googling it to make them feel more a part of your life. Did not go as planned.
-  entry_id: 8yg0rr
-  entry_content: |
-    <img src=https://i.redditmedia.com/hNHWt-ZUcJntrGA8sv6OKwsppPbPHuP5EsXqM-JgVAg.jpg?s=8f0836daa62343e116858cf4a20602e7 frameborder=0>
-- entry_name: |
     The spirits situation on the side of my closet is getting a bit out of hand...
   entry_id: 8yj3tu
   entry_content: |
     <img src=https://i.redditmedia.com/itsiytEsWIlh_3IpxLG0Rz4e-bgVEvsjdDP_V_qkzjA.jpg?s=23a2549151ee1a01518706dfc8318382 frameborder=0>
 - entry_name: |
-    You shall not pass!
-  entry_id: 8yg2vl
+    Depression is like reverse cancer: there's so little you want to do but you have so much time left
+  entry_id: 8ykr7h
   entry_content: |
-    <iframe src=https://v.redd.it/ji1kxts9fk911/DASH_1_2_M frameborder=0></iframe>
+    null
 - entry_name: |
-    Biggest letdown I’ve had in a while tbh
-  entry_id: 8yjfyk
+    Man who harassed woman in Puerto Rican T-shirt now facing hate crime charges
+  entry_id: 8yero3
   entry_content: |
-    <img src=https://i.redditmedia.com/TUUUQApNfefMia_g4R3b4qbBLO1tRn7csdCT7xFLb60.jpg?s=ef269a1654444f9ebbe1741a41d12e82 frameborder=0>
+    <img src=https://i.redditmedia.com/Eg7z3pxwzcCd07vWp-4kRoO3JXsbDYfAgp13-nLi8Kw.jpg?s=bc540f75ccb9d143250b9a1748b711cf frameborder=0>
 - entry_name: |
     Anons content gets stolen
   entry_id: 8yhvp0
   entry_content: |
     <img src=https://i.redditmedia.com/Wg_ureL7B-LKhCvbHwFw9Q4ZHuRfMBNsOiEmkRFuHDw.jpg?s=3ac091cbac9806d91118cd351567a7f4 frameborder=0>
 - entry_name: |
-    Man caught on video confronting woman over Puerto Rico shirt charged with felony hate crime
-  entry_id: 8ydetx
+    In Django Unchained (2012), Django meets a character played by Franco Nero who asks him to spell his name. Django spells out his name and comments the D is silent. Nero's character replies that he knows already--because Franco Nero played the original Django (1966) who largely inspired this film.
+  entry_id: 8yftal
   entry_content: |
-    <img src=https://i.redditmedia.com/lag7FlhwGTLtDYottKsYIllQ7eiSVGApXi5oiuJ-dg8.jpg?s=641468ec6950c215096815d5222cdf98 frameborder=0>
+    <img src=https://i.redditmedia.com/4IiH2ZTzqbGcR5pD6f_DJ0y1psyqr3tuTwTIBV5D3Y8.jpg?s=00a29702ef791f3e1870777f780aac19 frameborder=0>
 ---
