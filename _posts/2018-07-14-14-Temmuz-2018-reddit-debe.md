@@ -11,7 +11,7 @@ data:
     Play like women and not like neymar..
   entry_id: 8yd02j
   entry_content: |
-    <iframe src=https://v.redd.it/8y35hhullk911/DASH_600_K frameborder=0></iframe>
+    <iframe src=https://v.redd.it/o51nm94nhr911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Last July a stray kitten came into my office, looked at me like you are my human, so I adopted her. Today, this happened. Guess now I'm an owner of another good girl.
   entry_id: 8yf9nb
@@ -102,11 +102,6 @@ data:
   entry_id: 8yhwbr
   entry_content: |
     <img src=https://i.redditmedia.com/oMIlSRPYJ5OxTJjNottbVM2ZLbmXGbEQ07t01c4XN3Y.png?s=4b1bcb84ab40b3f6c4d2270f76ba393f frameborder=0>
-- entry_name: |
-    These earbuds have a zipper so they won’t tangle.
-  entry_id: 8ycnw8
-  entry_content: |
-    <img src=https://i.redditmedia.com/xDcKDa8N8x0Zi5YIjXJzjAdpF5uqYr7IMRWy00UjrW0.jpg?s=1c1517543de57e5c37dc801d9ebcf9c9 frameborder=0>
 - entry_name: |
     TIL Bob Barker plans to die broke after giving all his money to Animal Foundations/Rescues
   entry_id: 8yehlq
@@ -223,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Eg7z3pxwzcCd07vWp-4kRoO3JXsbDYfAgp13-nLi8Kw.jpg?s=bc540f75ccb9d143250b9a1748b711cf frameborder=0>
 - entry_name: |
-    She's got a point
-  entry_id: 8ycnji
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ok60cxF-kOsELVuM3HTuSTnzczrRbsCbBey_uP0LQm8.jpg?s=e08adcb6e31f9bf5a2be9dca2c3af6b5 frameborder=0>
-- entry_name: |
     In Django Unchained (2012), Django meets a character played by Franco Nero who asks him to spell his name. Django spells out his name and comments the D is silent. Nero's character replies that he knows already--because Franco Nero played the original Django (1966) who largely inspired this film.
   entry_id: 8yftal
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 8yjfyk
   entry_content: |
     <img src=https://i.redditmedia.com/TUUUQApNfefMia_g4R3b4qbBLO1tRn7csdCT7xFLb60.jpg?s=ef269a1654444f9ebbe1741a41d12e82 frameborder=0>
+- entry_name: |
+    Anons content gets stolen
+  entry_id: 8yhvp0
+  entry_content: |
+    <img src=https://i.redditmedia.com/Wg_ureL7B-LKhCvbHwFw9Q4ZHuRfMBNsOiEmkRFuHDw.jpg?s=3ac091cbac9806d91118cd351567a7f4 frameborder=0>
+- entry_name: |
+    Man caught on video confronting woman over Puerto Rico shirt charged with felony hate crime
+  entry_id: 8ydetx
+  entry_content: |
+    <img src=https://i.redditmedia.com/lag7FlhwGTLtDYottKsYIllQ7eiSVGApXi5oiuJ-dg8.jpg?s=641468ec6950c215096815d5222cdf98 frameborder=0>
 ---
