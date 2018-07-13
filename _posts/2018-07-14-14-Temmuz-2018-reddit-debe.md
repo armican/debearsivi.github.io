@@ -38,6 +38,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0vCG_C65a38v9T57dSI7XTOPe507pp5QCT6TY7tZR44.jpg?s=c0ab1c15d24cd62bfbb2aca2e458c3ea frameborder=0>
 - entry_name: |
+    Guy who says God sends natural disasters to punish gays has his home destroyed in a natural disaster
+  entry_id: 8yd75c
+  entry_content: |
+    <img src=https://i.redditmedia.com/z26tC2SoGHnQ0RkEvMQIJyc06XPlOtZsD1rvDV7Iq0c.jpg?s=006e82674caf9bae24e625f34e0c3877 frameborder=0>
+- entry_name: |
     The Less Mentioned Hero of the Thai Cave Rescue. Surapin Chaichomphu is from Thai Water Well Association. Volunteer and personally spend around $6,000 USD to bring equipments to dig wells and divert water out of the cave so the rescue team could bring out the Soccer team out safely.
   entry_id: 8yhuwd
   entry_content: |
@@ -168,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VH4l2re_kRjjz41O5WW7oNIQ4wFsCeFu-3LpnY--S6Q.jpg?s=a9756c5f63b3a3c93a9025bbd95f1121 frameborder=0>
 - entry_name: |
-    It finally happened ༼ つ ◕_ ◕ ༽つ GOT BADGE ༼ つ ◕_ ◕ ༽つ
-  entry_id: 8yc28w
-  entry_content: |
-    <img src=https://i.redditmedia.com/D4_5MrXTebni7jyT2qHptZy0Lt4fGFNsqn-QuN6-34s.png?s=392c4c7dc2287d64e5b3ac17142c1b24 frameborder=0>
-- entry_name: |
     Facebook Says InfoWars, Which Reported That NASA Has a Slave Colony on Mars, Is a Valid Source of “Opinion and Analysis”
   entry_id: 8yerfm
   entry_content: |
@@ -233,11 +233,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Eg7z3pxwzcCd07vWp-4kRoO3JXsbDYfAgp13-nLi8Kw.jpg?s=bc540f75ccb9d143250b9a1748b711cf frameborder=0>
 - entry_name: |
-    Elizabeth Taylor, 1956.
-  entry_id: 8yc290
-  entry_content: |
-    <img src=https://i.redditmedia.com/-CU1XrmK01n0anesfr_Jo6Vd0r6_hqBw2EByROdWSJI.jpg?s=d10e646188bf0cffd6f6a36562ce3ce7 frameborder=0>
-- entry_name: |
     In Django Unchained (2012), Django meets a character played by Franco Nero who asks him to spell his name. Django spells out his name and comments the D is silent. Nero's character replies that he knows already--because Franco Nero played the original Django (1966) who largely inspired this film.
   entry_id: 8yftal
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8ydetx
   entry_content: |
     <img src=https://i.redditmedia.com/lag7FlhwGTLtDYottKsYIllQ7eiSVGApXi5oiuJ-dg8.jpg?s=641468ec6950c215096815d5222cdf98 frameborder=0>
+- entry_name: |
+    A whale jumping out of the water
+  entry_id: 8yeir9
+  entry_content: |
+    <iframe src=https://v.redd.it/2fm1c7meup911/DASH_4_8_M frameborder=0></iframe>
 ---
