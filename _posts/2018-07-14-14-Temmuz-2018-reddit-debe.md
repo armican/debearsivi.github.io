@@ -33,11 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/x7QqTJt3LamO8Oj2gpMO-yj0r52vWTkcVTo71VMgEzA.jpg?s=f90d299bec7521e3fc626ff4399eff5f frameborder=0>
 - entry_name: |
-    My sister is getting into photography and recently took a trip to Africa. I told her to just quit now because she’ll never top this moment.
-  entry_id: 8ydg0l
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gsv27CIRnS2OaWrYONLOfT083Qgzv2ifUbSQ3mwmPuU.jpg?s=0294522a63722381f1bd1b8ec8f8ddd8 frameborder=0>
-- entry_name: |
     TIL That the world's oldest continuously running business is a hot springs hotel in Japan that's run since 705 A.D.
   entry_id: 8yiwbv
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8yla41
   entry_content: |
     null
+- entry_name: |
+    Anti Trump protest in London
+  entry_id: 8yk7ac
+  entry_content: |
+    <img src=https://i.redditmedia.com/-k-U-gCdtYlMWSy45jJfhbd4AnLCaNAWPtSMCYfJbdQ.jpg?s=abdd55c95e9e54c746d5ff8bbd3bbbad frameborder=0>
 ---
