@@ -3,11 +3,6 @@ layout: post
 title: 14 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    My friend was stopped by some tourists to take a photo of them in front of an advertisement for Tape Face in Las Vegas... My friend IS Tape Face.
-  entry_id: 8ybuck
-  entry_content: |
-    <img src=https://i.redditmedia.com/KzbS47BHoLz3aLtoiWUGUECGphM9WrTNCN-JyR8kmfo.jpg?s=a00808bb9b77650b10447d2920dcdf8d frameborder=0>
-- entry_name: |
     Sushi’s proud moment
   entry_id: 8yda0r
   entry_content: |
@@ -42,11 +37,6 @@ data:
   entry_id: 8yfvk6
   entry_content: |
     <img src=https://i.redditmedia.com/0vCG_C65a38v9T57dSI7XTOPe507pp5QCT6TY7tZR44.jpg?s=c0ab1c15d24cd62bfbb2aca2e458c3ea frameborder=0>
-- entry_name: |
-    Guy who says God sends natural disasters to punish gays has his home destroyed in a natural disaster
-  entry_id: 8yd75c
-  entry_content: |
-    <img src=https://i.redditmedia.com/z26tC2SoGHnQ0RkEvMQIJyc06XPlOtZsD1rvDV7Iq0c.jpg?s=006e82674caf9bae24e625f34e0c3877 frameborder=0>
 - entry_name: |
     The Less Mentioned Hero of the Thai Cave Rescue. Surapin Chaichomphu is from Thai Water Well Association. Volunteer and personally spend around $6,000 USD to bring equipments to dig wells and divert water out of the cave so the rescue team could bring out the Soccer team out safely.
   entry_id: 8yhuwd
@@ -97,11 +87,6 @@ data:
   entry_id: 8yflh0
   entry_content: |
     <img src=https://i.redditmedia.com/A8U0dQxJzIHmvs-nC3vivj9dRxyu2pF637C8wTqcY2k.jpg?s=d8a2756d5f262addc7202eecf3952959 frameborder=0>
-- entry_name: |
-    Woman, 29, is feared missing after live-streaming herself throwing ink on a photo of Chinese President Xi Jinping
-  entry_id: 8ybyy0
-  entry_content: |
-    <img src=https://i.redditmedia.com/56HqZer4gbYunU5T49eijAbX0d8hboESvvGiOsjAzLw.jpg?s=6ed10dec71eb904b5ffbc25d04384e40 frameborder=0>
 - entry_name: |
     Trump opponents inflate snarling orange 'Trump baby' blimp beside British parliament
   entry_id: 8yia2r
@@ -188,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/D4_5MrXTebni7jyT2qHptZy0Lt4fGFNsqn-QuN6-34s.png?s=392c4c7dc2287d64e5b3ac17142c1b24 frameborder=0>
 - entry_name: |
-    Totally real conversation
-  entry_id: 8ybtat
-  entry_content: |
-    <img src=https://i.redditmedia.com/gTfjTHJvYlzXq_qkS3ZrxrSt501jB_CsoHKQ-_MI-ik.jpg?s=ea02831086c69a6a86c56e4ab3db8e82 frameborder=0>
-- entry_name: |
     Facebook Says InfoWars, Which Reported That NASA Has a Slave Colony on Mars, Is a Valid Source of “Opinion and Analysis”
   entry_id: 8yerfm
   entry_content: |
@@ -252,4 +232,24 @@ data:
   entry_id: 8yero3
   entry_content: |
     <img src=https://i.redditmedia.com/Eg7z3pxwzcCd07vWp-4kRoO3JXsbDYfAgp13-nLi8Kw.jpg?s=bc540f75ccb9d143250b9a1748b711cf frameborder=0>
+- entry_name: |
+    Elizabeth Taylor, 1956.
+  entry_id: 8yc290
+  entry_content: |
+    <img src=https://i.redditmedia.com/-CU1XrmK01n0anesfr_Jo6Vd0r6_hqBw2EByROdWSJI.jpg?s=d10e646188bf0cffd6f6a36562ce3ce7 frameborder=0>
+- entry_name: |
+    In Django Unchained (2012), Django meets a character played by Franco Nero who asks him to spell his name. Django spells out his name and comments the D is silent. Nero's character replies that he knows already--because Franco Nero played the original Django (1966) who largely inspired this film.
+  entry_id: 8yftal
+  entry_content: |
+    <img src=https://i.redditmedia.com/4IiH2ZTzqbGcR5pD6f_DJ0y1psyqr3tuTwTIBV5D3Y8.jpg?s=00a29702ef791f3e1870777f780aac19 frameborder=0>
+- entry_name: |
+    Saw a post about calling your parents for help instead of googling it to make them feel more a part of your life. Did not go as planned.
+  entry_id: 8yg0rr
+  entry_content: |
+    <img src=https://i.redditmedia.com/hNHWt-ZUcJntrGA8sv6OKwsppPbPHuP5EsXqM-JgVAg.jpg?s=8f0836daa62343e116858cf4a20602e7 frameborder=0>
+- entry_name: |
+    Man caught on video confronting woman over Puerto Rico shirt charged with felony hate crime
+  entry_id: 8ydetx
+  entry_content: |
+    <img src=https://i.redditmedia.com/lag7FlhwGTLtDYottKsYIllQ7eiSVGApXi5oiuJ-dg8.jpg?s=641468ec6950c215096815d5222cdf98 frameborder=0>
 ---
