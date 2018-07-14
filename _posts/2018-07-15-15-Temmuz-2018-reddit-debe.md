@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yC6bvE33Cn5zUI-aK_Xm2wMyTfzzBaEEJIOwWo5X9mM.jpg?s=6f7b2226ac617372c1b6d8078b0403a6 frameborder=0>
 - entry_name: |
-    'Zombieland' Sequel a Go With Emma Stone, Woody Harrelson, Jesse Eisenberg, Abigail Breslin
-  entry_id: 8yn412
-  entry_content: |
-    <img src=https://i.redditmedia.com/f8Uh4YlyPG5DQ-k-DXZZrd-wc1DimS_nyEeSxgDJdxk.jpg?s=66d29554fd3cb74fa21fa666adda6f7b frameborder=0>
-- entry_name: |
     My 1.5yr old son and 14yr old cat had a moment this morning.
   entry_id: 8yq0zn
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8ynyii
   entry_content: |
     <iframe src=https://v.redd.it/hk09a3om9s911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Grove Street OG comin through!
+  entry_id: 8ysey8
+  entry_content: |
+    <img src=https://i.redditmedia.com/DoGuKozkmsHTTpVJcMlSUY_1FTG0iEGfMKwdwPCtt3E.jpg?s=e7a3eae99bec00670b1fe2dd13c49e44 frameborder=0>
 ---
