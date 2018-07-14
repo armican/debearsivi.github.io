@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kmQWta7sbaSV0b_POtnWR43ajkj3-JM4XfZ6kzNyUgo.png?s=6a04371768b6c8b98b1400e743a84ae0 frameborder=0>
 - entry_name: |
-    Never looked better
-  entry_id: 8ym9es
-  entry_content: |
-    <img src=https://i.redditmedia.com/06oiTDG9SHLRr0n65xn3bBIWvyjoTGNGy_Wkd4Iwc-M.png?s=0aae263b2db741b8f2d1e5073b32c811 frameborder=0>
-- entry_name: |
     Yosemite Falls Rainbow
   entry_id: 8ypf6g
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/upNb7H1KEcNT3mFHyN5tyoK_q73uEn3woPuqspOE33Y.jpg?s=195d479f8173fe8fe5d5989daa196250 frameborder=0>
 - entry_name: |
-    The 1 thing squirrels and I have in common
-  entry_id: 8ym8jy
-  entry_content: |
-    <img src=https://i.redditmedia.com/iw7p4Ni0X6vQclkiIK0f4LzINcijoYwfA5VGi3YpvgA.jpg?s=ad062f068249400a8b79645f8e48f863 frameborder=0>
-- entry_name: |
     Another baby white rhino! N.C. Zoo announces second birth in 11 days
   entry_id: 8ynwbf
   entry_content: |
@@ -248,8 +238,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/o5wTsbXwFFLIuaOl5Y0ZiBuKo4ujsbTgKgEzh0E1NsA.jpg?s=5c9debffaf6dd253d355b4339b1ad2cf frameborder=0>
 - entry_name: |
-    Looks like I'm staying inside today
-  entry_id: 8ym9n0
+    Kylie Jenner
+  entry_id: 8ynzzb
   entry_content: |
-    <img src=https://i.redditmedia.com/GJ2MZcn63kaeglUR5Crz91MY9NxxCHNdLW_S6nLew2A.jpg?s=f5187e5e7dc010f6da31854dd880f70b frameborder=0>
+    <img src=https://i.redditmedia.com/HMsgi2rj-hUSpLBZFyS9N-1Og91QmZfn_WMuoObc5q8.jpg?s=445d2f96773178127172d0e788212269 frameborder=0>
+- entry_name: |
+    Ticketmaster is fucking terrible - it is saying concert tickets are $94, but when I got to check out, they are charging me $200 per ticket!
+  entry_id: 8yo35y
+  entry_content: |
+    <img src=https://i.redditmedia.com/v2x7rzAuGLIqzTpbbipsUjn6LH_VLkaFvpAOMGHubdw.jpg?s=c83ca8576835da4fe75ab714e2bf1c81 frameborder=0>
+- entry_name: |
+    Caps Lock
+  entry_id: 8yryms
+  entry_content: |
+    <img src=https://i.redditmedia.com/a0ACEdXH1scmDfosOmH05IRJvZAZZWc--BWsCCEey8U.jpg?s=eb8d5367c0b3e644fb8ff4b6daf29690 frameborder=0>
 ---
