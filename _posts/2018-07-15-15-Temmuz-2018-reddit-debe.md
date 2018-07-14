@@ -68,16 +68,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/no9mp1bqst911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Trump publicly asked Russia to 'find' Hillary Clinton's missing emails. Kremlin agents apparently tried that evening.
-  entry_id: 8ym07j
-  entry_content: |
-    <img src=https://i.redditmedia.com/FR0rGqN1wF8DabLRjO4Doj5CriqlIhfwEYTyS4bKymY.jpg?s=7b48489c4df58ca7fb04467694da7bde frameborder=0>
-- entry_name: |
-    Give me someone like this
-  entry_id: 8ym22y
-  entry_content: |
-    <img src=https://i.redditmedia.com/ooNU-j3pMRq9uNbf5fySY9SVST2nEU4ShR6A4EQH0oQ.png?s=d650ad2addfb060a07b031fbb0ff4418 frameborder=0>
-- entry_name: |
     This guy at the protests against Trump’s visit to the UK
   entry_id: 8yocex
   entry_content: |
@@ -168,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pjFlgFUUsVzst_x4-0c3ZXl8yL5x6A0kWmec5tivAMg.jpg?s=c169c7a493680f639eea031d0f3fa5a3 frameborder=0>
 - entry_name: |
-    Me_irl
-  entry_id: 8ym2dw
-  entry_content: |
-    <img src=https://i.redditmedia.com/61yW1MeOZrre1frr1nheB_O6lrenfCrXMm6-Mb4e7ME.jpg?s=2a116fb50f9e96e7d702ef07183c3eda frameborder=0>
-- entry_name: |
     This gas station hides the fact you can inflate your car’s tires for practically free behind two separate payment options
   entry_id: 8ynm6e
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 8ynyii
   entry_content: |
     <iframe src=https://v.redd.it/hk09a3om9s911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Devin is doing the right thing
+  entry_id: 8yp52j
+  entry_content: |
+    <img src=https://i.redditmedia.com/_y9nH7NzrSMOZUrTyLR1E26__qTQD4iNiHuVKQnC3iM.jpg?s=e0338aa6426f8cdbfe121d28f2973e25 frameborder=0>
+- entry_name: |
+    If this hits 10k up, I will get it as my new tattoo. No bamboozle!
+  entry_id: 8ysm2t
+  entry_content: |
+    <img src=https://i.redditmedia.com/o5wTsbXwFFLIuaOl5Y0ZiBuKo4ujsbTgKgEzh0E1NsA.jpg?s=5c9debffaf6dd253d355b4339b1ad2cf frameborder=0>
+- entry_name: |
+    Looks like I'm staying inside today
+  entry_id: 8ym9n0
+  entry_content: |
+    <img src=https://i.redditmedia.com/GJ2MZcn63kaeglUR5Crz91MY9NxxCHNdLW_S6nLew2A.jpg?s=f5187e5e7dc010f6da31854dd880f70b frameborder=0>
 ---
