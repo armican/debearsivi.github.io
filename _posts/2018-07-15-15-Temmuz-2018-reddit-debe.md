@@ -158,11 +158,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4pz8lqui7s911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Math is his porn
-  entry_id: 8ynlye
-  entry_content: |
-    <img src=https://i.redditmedia.com/aqBZqR3M-jxJXIKT3WjHYLYXP8uZX7eID1IjQjperbE.png?s=52003a5ed737955324fd1cf82a503d03 frameborder=0>
-- entry_name: |
     Getting these guys back to where they belong
   entry_id: 8yst4n
   entry_content: |
@@ -182,11 +177,6 @@ data:
   entry_id: 8yryms
   entry_content: |
     <img src=https://i.redditmedia.com/a0ACEdXH1scmDfosOmH05IRJvZAZZWc--BWsCCEey8U.jpg?s=eb8d5367c0b3e644fb8ff4b6daf29690 frameborder=0>
-- entry_name: |
-    This gas station hides the fact you can inflate your car’s tires for practically free behind two separate payment options
-  entry_id: 8ynm6e
-  entry_content: |
-    <iframe src=https://v.redd.it/lgfum74q0s911/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Only anti-vaxxers will get this
   entry_id: 8ynxoj
@@ -252,4 +242,14 @@ data:
   entry_id: 8yp52j
   entry_content: |
     <img src=https://i.redditmedia.com/_y9nH7NzrSMOZUrTyLR1E26__qTQD4iNiHuVKQnC3iM.jpg?s=e0338aa6426f8cdbfe121d28f2973e25 frameborder=0>
+- entry_name: |
+    A Lara Croft cosplay attempt
+  entry_id: 8yt7jk
+  entry_content: |
+    <img src=https://i.redditmedia.com/s1BWGMJiygD6DrVveWV1Ez5vcxVTWOB676dMkzHuzqY.jpg?s=3fac9ef50b6126ff37c356a6202dbffd frameborder=0>
+- entry_name: |
+    A friendly Sea Flap Flap
+  entry_id: 8ynyii
+  entry_content: |
+    <iframe src=https://v.redd.it/hk09a3om9s911/DASH_4_8_M frameborder=0></iframe>
 ---
