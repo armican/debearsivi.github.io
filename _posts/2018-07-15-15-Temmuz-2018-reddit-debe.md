@@ -38,20 +38,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/h0szPevYXkLRf-Mt87aWOUxugrxvlJoWdhZeKV8PLbg.jpg?s=955496c5e4e4eaa350aafca51a1a0abd frameborder=0>
 - entry_name: |
-    If this is true it's really beautiful.
-  entry_id: 8ynziz
-  entry_content: |
-    <img src=https://i.redditmedia.com/kmQWta7sbaSV0b_POtnWR43ajkj3-JM4XfZ6kzNyUgo.png?s=6a04371768b6c8b98b1400e743a84ae0 frameborder=0>
-- entry_name: |
     The sun coming through my window almost looks like a UFO beam.
   entry_id: 8yscwm
   entry_content: |
     <img src=https://i.redditmedia.com/DjOfagocqg9rvxq4fzmKGZbqlt0rkYB_Iav3PJqzVNA.jpg?s=2d0b9dbc426563bba7ad2b0fe95adfb4 frameborder=0>
 - entry_name: |
+    If this is true it's really beautiful.
+  entry_id: 8ynziz
+  entry_content: |
+    <img src=https://i.redditmedia.com/kmQWta7sbaSV0b_POtnWR43ajkj3-JM4XfZ6kzNyUgo.png?s=6a04371768b6c8b98b1400e743a84ae0 frameborder=0>
+- entry_name: |
+    Enjoy this cuteness
+  entry_id: 8ys9le
+  entry_content: |
+    <iframe src=https://v.redd.it/3guwnlmj0w911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Yosemite Falls Rainbow
   entry_id: 8ypf6g
   entry_content: |
     <iframe src=https://v.redd.it/ctqbda4lat911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Woman charged with attempted murder in beating of man, 92, with brick
+  entry_id: 8ysr9b
+  entry_content: |
+    <img src=https://i.redditmedia.com/Hv9D3kh7Hx_SnfRfpZ1CCOqEONn3IuZtK5Oi1aay_8I.jpg?s=fd7e2eeb45141e9937ca3e0baa4edcc1 frameborder=0>
 - entry_name: |
     The best star pilot in the galaxy, and a good friend. Happy Birthday Harrison!
   entry_id: 8yqhl3
@@ -63,50 +73,55 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/no9mp1bqst911/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Enjoy this cuteness
-  entry_id: 8ys9le
-  entry_content: |
-    <iframe src=https://v.redd.it/3guwnlmj0w911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Woman charged with attempted murder in beating of man, 92, with brick
-  entry_id: 8ysr9b
-  entry_content: |
-    <img src=https://i.redditmedia.com/Hv9D3kh7Hx_SnfRfpZ1CCOqEONn3IuZtK5Oi1aay_8I.jpg?s=fd7e2eeb45141e9937ca3e0baa4edcc1 frameborder=0>
-- entry_name: |
     Boy with a portable lemonade stand, 1931.
   entry_id: 8ysmxn
   entry_content: |
     <img src=https://i.redditmedia.com/_u8Gedtem01ok-o8gfoCH7IiHz07jvtl6lMmds4DVn4.jpg?s=a6c826edbbb36e72ed86d0f7d7e2f09f frameborder=0>
-- entry_name: |
-    This guy at the protests against Trump’s visit to the UK
-  entry_id: 8yocex
-  entry_content: |
-    <img src=https://i.redditmedia.com/abk-j4SiAhprSLDACaPhK1jHvR_1xcmJz9PduCbkxhw.jpg?s=528912b9b37f44e4f719636cd83da026 frameborder=0>
 - entry_name: |
     The best star pilot in the galaxy, and a good friend. Happy Birthday Harrison!
   entry_id: 8yqhcm
   entry_content: |
     <img src=https://i.redditmedia.com/ewKmzV1Hwy0px8jaVm8FOwKK8FZcuaAT-bqX_wFLUlQ.jpg?s=b0cf65c96a055d4edc5aaad4996c4c92 frameborder=0>
 - entry_name: |
+    This guy at the protests against Trump’s visit to the UK
+  entry_id: 8yocex
+  entry_content: |
+    <img src=https://i.redditmedia.com/abk-j4SiAhprSLDACaPhK1jHvR_1xcmJz9PduCbkxhw.jpg?s=528912b9b37f44e4f719636cd83da026 frameborder=0>
+- entry_name: |
     TIL Wu Tang Clan member Gza is a science nerd and has spoken at Harvard and hosted a Physics lecture at MIT
   entry_id: 8yozr8
   entry_content: |
     <img src=https://i.redditmedia.com/uWuQtH_epL-H9VysocVoP7HpB0ftYhergPsgBxXAiHo.jpg?s=779f0da69f94ec420837d7fe12ef93ed frameborder=0>
+- entry_name: |
+    The Monster of The Deep
+  entry_id: 8yrsa2
+  entry_content: |
+    <iframe src=https://v.redd.it/qukdbcg3gv911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Shout out to the post office
+  entry_id: 8ysgx4
+  entry_content: |
+    <img src=https://i.redditmedia.com/1YqYoebOmCiXIiOw8gcbSRq7jZr2RsNgWnD8JWd5YEw.jpg?s=8ee8cf222e10dc875a6ac968511a67c4 frameborder=0>
 - entry_name: |
     This bruise I once had looked like a galaxy.
   entry_id: 8yphq0
   entry_content: |
     <img src=https://i.redditmedia.com/E0n8zJjHX080uUJyPGrMmeDLVYbFTe6WD-Jvw_FSYMU.jpg?s=ed33f775e3f53e3219aa01f8271b64a9 frameborder=0>
 - entry_name: |
+    Even Wimbledon players are mocking Neymar
+  entry_id: 8yt5in
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImpureInbornBangeltiger&url=https%3A%2F%2Fgfycat.com%2FImpureInbornBangeltiger&image=https%3A%2F%2Fthumbs.gfycat.com%2FImpureInbornBangeltiger-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Not mine but 10/10 would love them and moosh their little faces.
+  entry_id: 8yshna
+  entry_content: |
+    <img src=https://i.redditmedia.com/gy-i06oBCnHyHnPdNG0lTmUaidkNKfFbch1d8-6_U7I.jpg?s=c2da248226de6491e121a7e04088cb8c frameborder=0>
+- entry_name: |
     General Kenobi!
   entry_id: 8yp685
   entry_content: |
     <img src=https://i.redditmedia.com/Y3xOfxdczdlhGIfh2hY352vB3mMn7u1RTMkiI3VAa_I.jpg?s=d5c5355a4f4d5a5dc386990c0f2fbf57 frameborder=0>
-- entry_name: |
-    The Monster of The Deep
-  entry_id: 8yrsa2
-  entry_content: |
-    <iframe src=https://v.redd.it/qukdbcg3gv911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Peter Jackson is remastering WW1 footage and it looks truly incredible.
   entry_id: 8yp7qa
@@ -118,40 +133,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZvQfIoFxKGGupJk5fTH4Agqlmo9IOOBzZ2u-XLLQXZw.gif?fm=jpg&s=d16bad6ec3932a375208521eebf1dbb4 frameborder=0>
 - entry_name: |
+    Not all engineers have degrees....
+  entry_id: 8yswgn
+  entry_content: |
+    <iframe src=https://v.redd.it/2gwzbwqipw911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    After Donald Trump Promised To Release Tape Showing The ‘Sun’ Misquoted Him, White House Refuses To Release It
+  entry_id: 8ytd2f
+  entry_content: |
+    <img src=https://i.redditmedia.com/k-8A9KaQAKquYILoGFR_DS0t4mxk3tbsN0hMLTZItcg.jpg?s=c97831b2018e640bc61cc2b3cbf9eb68 frameborder=0>
+- entry_name: |
     This guy trying to stow his bag
   entry_id: 8yppm3
   entry_content: |
     <iframe src=https://v.redd.it/4pz8lqui7s911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Math is his porn
-  entry_id: 8ynlye
-  entry_content: |
-    <img src=https://i.redditmedia.com/aqBZqR3M-jxJXIKT3WjHYLYXP8uZX7eID1IjQjperbE.png?s=52003a5ed737955324fd1cf82a503d03 frameborder=0>
-- entry_name: |
-    Shout out to the post office
-  entry_id: 8ysgx4
-  entry_content: |
-    <img src=https://i.redditmedia.com/1YqYoebOmCiXIiOw8gcbSRq7jZr2RsNgWnD8JWd5YEw.jpg?s=8ee8cf222e10dc875a6ac968511a67c4 frameborder=0>
 - entry_name: |
     Made my day...... And her's.
   entry_id: 8yqmtt
   entry_content: |
     <img src=https://i.redditmedia.com/pjFlgFUUsVzst_x4-0c3ZXl8yL5x6A0kWmec5tivAMg.jpg?s=c169c7a493680f639eea031d0f3fa5a3 frameborder=0>
 - entry_name: |
-    He would be worse then any movie villan.
-  entry_id: 8ymuuy
+    Math is his porn
+  entry_id: 8ynlye
   entry_content: |
-    <img src=https://i.redditmedia.com/Blj1z7ZfoaGUwSJHfTxFahvjDR3ufdYcHch3ohApmhs.jpg?s=e6da86874a314ced74c0d4bdc37a8bab frameborder=0>
+    <img src=https://i.redditmedia.com/aqBZqR3M-jxJXIKT3WjHYLYXP8uZX7eID1IjQjperbE.png?s=52003a5ed737955324fd1cf82a503d03 frameborder=0>
+- entry_name: |
+    Disney would control 40% of the US box office if it buys Fox
+  entry_id: 8yto89
+  entry_content: |
+    <img src=https://i.redditmedia.com/576iH1NpMKCpj8lbeLBD37oUrIPPcQmfJtec0r-fl6o.jpg?s=2b043c27a9f18c9e51a1ea987bd9d1af frameborder=0>
 - entry_name: |
     Hitting the high note perfectly
   entry_id: 8ynra7
   entry_content: |
     <iframe src=https://v.redd.it/vgehsxka4s911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Not mine but 10/10 would love them and moosh their little faces.
-  entry_id: 8yshna
-  entry_content: |
-    <img src=https://i.redditmedia.com/gy-i06oBCnHyHnPdNG0lTmUaidkNKfFbch1d8-6_U7I.jpg?s=c2da248226de6491e121a7e04088cb8c frameborder=0>
 - entry_name: |
     This gas station hides the fact you can inflate your car’s tires for practically free behind two separate payment options
   entry_id: 8ynm6e
@@ -163,6 +178,11 @@ data:
   entry_content: |
     null
 - entry_name: |
+    If this hits 10k up, I will get it as my new tattoo. No bamboozle!
+  entry_id: 8ysm2t
+  entry_content: |
+    <img src=https://i.redditmedia.com/o5wTsbXwFFLIuaOl5Y0ZiBuKo4ujsbTgKgEzh0E1NsA.jpg?s=5c9debffaf6dd253d355b4339b1ad2cf frameborder=0>
+- entry_name: |
     Don’t overthink it.
   entry_id: 8ypt7y
   entry_content: |
@@ -173,15 +193,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/aiq6ez1kvs911/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+    Jeremiah Denton blinked T-O-R-T-U-R-E in morse code while filming propaganda as a prisoner of war - May 17, 1966.
+  entry_id: 8ysrwy
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFastCalculatingCat&url=https%3A%2F%2Fgfycat.com%2FFastCalculatingCat&image=https%3A%2F%2Fthumbs.gfycat.com%2FFastCalculatingCat-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=360 height=264 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     Can’t believe he got so close to capture the carnage
   entry_id: 8yp0y5
   entry_content: |
     <img src=https://i.redditmedia.com/VSdAgUGpIRqThp2Bc3t4nflJEAqUig5jekurwxFiBfQ.jpg?s=2d5847efc573e0ad7ffb7f797f9493f7 frameborder=0>
 - entry_name: |
+    Getting these guys back to where they belong
+  entry_id: 8yst4n
+  entry_content: |
+    <iframe src=https://v.redd.it/a9ny80efkw911/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     The kids are majorly missing out
   entry_id: 8ypv80
   entry_content: |
     <img src=https://i.redditmedia.com/upNb7H1KEcNT3mFHyN5tyoK_q73uEn3woPuqspOE33Y.jpg?s=195d479f8173fe8fe5d5989daa196250 frameborder=0>
+- entry_name: |
+    Caps Lock
+  entry_id: 8yryms
+  entry_content: |
+    <img src=https://i.redditmedia.com/a0ACEdXH1scmDfosOmH05IRJvZAZZWc--BWsCCEey8U.jpg?s=eb8d5367c0b3e644fb8ff4b6daf29690 frameborder=0>
 - entry_name: |
     Let me pretend spit at this animal infamous for spitting, WCGW
   entry_id: 8yor6x
@@ -193,63 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3Db_gzyW9q-c1LWHmv4hFWC9hNv5KJcu9t2-_ykcgXw.jpg?s=45ffc8d26824b2d93c637b9d6a48a26c frameborder=0>
 - entry_name: |
-    If this hits 10k up, I will get it as my new tattoo. No bamboozle!
-  entry_id: 8ysm2t
-  entry_content: |
-    <img src=https://i.redditmedia.com/o5wTsbXwFFLIuaOl5Y0ZiBuKo4ujsbTgKgEzh0E1NsA.jpg?s=5c9debffaf6dd253d355b4339b1ad2cf frameborder=0>
-- entry_name: |
     Policeman loves a prank
   entry_id: 8ypb9w
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFortunateElectricAfricanrockpython&url=https%3A%2F%2Fgfycat.com%2FFortunateElectricAfricanrockpython&image=https%3A%2F%2Fthumbs.gfycat.com%2FFortunateElectricAfricanrockpython-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    Caps Lock
-  entry_id: 8yryms
-  entry_content: |
-    <img src=https://i.redditmedia.com/a0ACEdXH1scmDfosOmH05IRJvZAZZWc--BWsCCEey8U.jpg?s=eb8d5367c0b3e644fb8ff4b6daf29690 frameborder=0>
 - entry_name: |
     My movie theater tried ok?
   entry_id: 8yq0j9
   entry_content: |
     <img src=https://i.redditmedia.com/6jy0Z_JB6rhm1dNIO0SOr6m1C6jW-bXO--Mvk8VT55o.jpg?s=2914e7cc284fd78af07f2540766affa6 frameborder=0>
 - entry_name: |
-    Even Wimbledon players are mocking Neymar
-  entry_id: 8yt5in
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FImpureInbornBangeltiger&url=https%3A%2F%2Fgfycat.com%2FImpureInbornBangeltiger&image=https%3A%2F%2Fthumbs.gfycat.com%2FImpureInbornBangeltiger-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Devin is doing the right thing
   entry_id: 8yp52j
   entry_content: |
     <img src=https://i.redditmedia.com/_y9nH7NzrSMOZUrTyLR1E26__qTQD4iNiHuVKQnC3iM.jpg?s=e0338aa6426f8cdbfe121d28f2973e25 frameborder=0>
 - entry_name: |
+    Cedar Tree after a storm in Central Kansas yesterday
+  entry_id: 8ystko
+  entry_content: |
+    <img src=https://i.redditmedia.com/QgqEISYuRnIyXhKl8K4s6VYOGdbj7fYFxPG9YdZyoqE.jpg?s=6759d554964f10543e63976fff948846 frameborder=0>
+- entry_name: |
     A friendly Sea Flap Flap
   entry_id: 8ynyii
   entry_content: |
     <iframe src=https://v.redd.it/hk09a3om9s911/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Rosenstein: Think as Americans, Not Partisans
-  entry_id: 8ymt38
-  entry_content: |
-    <img src=https://i.redditmedia.com/z3d0UFOzAvrXAw_YZBGMZrs749Prz8Y3hddVtdhzFZ4.jpg?s=c68080cf854211f04be6c9f5b096ea2a frameborder=0>
-- entry_name: |
-    Kylie Jenner
-  entry_id: 8ynzzb
-  entry_content: |
-    <img src=https://i.redditmedia.com/HMsgi2rj-hUSpLBZFyS9N-1Og91QmZfn_WMuoObc5q8.jpg?s=445d2f96773178127172d0e788212269 frameborder=0>
-- entry_name: |
-    Getting these guys back to where they belong
-  entry_id: 8yst4n
-  entry_content: |
-    <iframe src=https://v.redd.it/a9ny80efkw911/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Ticketmaster is fucking terrible - it is saying concert tickets are $94, but when I got to check out, they are charging me $200 per ticket!
-  entry_id: 8yo35y
-  entry_content: |
-    <img src=https://i.redditmedia.com/v2x7rzAuGLIqzTpbbipsUjn6LH_VLkaFvpAOMGHubdw.jpg?s=c83ca8576835da4fe75ab714e2bf1c81 frameborder=0>
-- entry_name: |
-    Who said evil had to be ugly?
-  entry_id: 8yng4n
-  entry_content: |
-    <img src=https://i.redditmedia.com/tDyMv-tbFhhANyOQCfH8t2qzdLhpDOTJUiXbWJNoPdw.jpg?s=d651c1481fcac27fed1c0d6b6182f043 frameborder=0>
 ---
