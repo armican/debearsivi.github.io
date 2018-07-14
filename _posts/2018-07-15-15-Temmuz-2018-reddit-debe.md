@@ -118,11 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZvQfIoFxKGGupJk5fTH4Agqlmo9IOOBzZ2u-XLLQXZw.gif?fm=jpg&s=d16bad6ec3932a375208521eebf1dbb4 frameborder=0>
 - entry_name: |
-    LPT : if someone you know just experienced something tragic like a really bad breakup or losing someone close. Be sure to be there for them at the 3week mark, this is typicaly where everyone else gets back to their normal life, and then suddenly feel really lonely
-  entry_id: 8ymle1
-  entry_content: |
-    null
-- entry_name: |
     This guy trying to stow his bag
   entry_id: 8yppm3
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 8yo35y
   entry_content: |
     <img src=https://i.redditmedia.com/v2x7rzAuGLIqzTpbbipsUjn6LH_VLkaFvpAOMGHubdw.jpg?s=c83ca8576835da4fe75ab714e2bf1c81 frameborder=0>
+- entry_name: |
+    Who said evil had to be ugly?
+  entry_id: 8yng4n
+  entry_content: |
+    <img src=https://i.redditmedia.com/tDyMv-tbFhhANyOQCfH8t2qzdLhpDOTJUiXbWJNoPdw.jpg?s=d651c1481fcac27fed1c0d6b6182f043 frameborder=0>
 ---
