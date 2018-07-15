@@ -23,15 +23,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
 - entry_name: |
+    When we're young, we sneak out our house to go to parties. When we're old, we sneak out of parties to go home.
+  entry_id: 8yz85f
+  entry_content: |
+    null
+- entry_name: |
     I was asked to flush a feral cat out from under a barn today. I guess I made a new little buddy.
   entry_id: 8yxbad
   entry_content: |
     <img src=https://i.redditmedia.com/O0fo2YpgP5f9OjY517EGEBU3uguWMzlWAyfPfi2i-GI.jpg?s=80b381688cacd63045c9356ba3592f15 frameborder=0>
 - entry_name: |
-    When we're young, we sneak out our house to go to parties. When we're old, we sneak out of parties to go home.
-  entry_id: 8yz85f
+    Warning: Objects in the mirror are in a different timeframe than they seem to be.
+  entry_id: 8z12xv
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/Tve27nq2zmlXaTbUh5N3BsAKIJfFFIJT6B_UbYco1uQ.jpg?s=3b2b03fb473dad2d0ec714fd4677f7c4 frameborder=0>
+- entry_name: |
+    And we have a lift off!
+  entry_id: 8z22qf
+  entry_content: |
+    <img src=https://i.redditmedia.com/nAfVuwjLYYA7tq6uOKsJcQ5ReloncRrTXZc9HOB6Z78.jpg?s=bc0c391033b5b775e4d8a1c325892934 frameborder=0>
+- entry_name: |
+    TIL when world champion boxer Joe Louis voluntarily joined the U.S. Army in 1942 he was asked about his decision to enter the (then) racially segregated organisation, he replied: Lots of things wrong with America, but Hitler ain't going to fix them.
+  entry_id: 8z1jof
+  entry_content: |
+    <img src=https://i.redditmedia.com/WUsyO9t2rsGs4pQyGs6C_sZLHyLKZshYPQQLtOTjwSs.jpg?s=8f18b6949ffbaef847be5003f381b027 frameborder=0>
 - entry_name: |
     And he’s goddamn right
   entry_id: 8yxlsv
@@ -68,15 +83,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CbBSo4E5Ehw0CTLcGsJ6irBje4Tg3N_W-OTJ2LEna18.jpg?s=cc7ce5f5038cb61b9213d74dd984c81a frameborder=0>
 - entry_name: |
-    Warning: Objects in the mirror are in a different timeframe than they seem to be.
-  entry_id: 8z12xv
+    How am I supposed to study like this?
+  entry_id: 8z18pe
   entry_content: |
-    <img src=https://i.redditmedia.com/Tve27nq2zmlXaTbUh5N3BsAKIJfFFIJT6B_UbYco1uQ.jpg?s=3b2b03fb473dad2d0ec714fd4677f7c4 frameborder=0>
+    <iframe src=https://v.redd.it/yr6o8cj7q3a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL when world champion boxer Joe Louis voluntarily joined the U.S. Army in 1942 he was asked about his decision to enter the (then) racially segregated organisation, he replied: Lots of things wrong with America, but Hitler ain't going to fix them.
-  entry_id: 8z1jof
+    Right now Mars is closer and brighter than it’s been since 2003. It’s so bright it’s casting a reflection on the ocean as it rises. Took this two nights ago in Rhode Island
+  entry_id: 8z1hm5
   entry_content: |
-    <img src=https://i.redditmedia.com/WUsyO9t2rsGs4pQyGs6C_sZLHyLKZshYPQQLtOTjwSs.jpg?s=8f18b6949ffbaef847be5003f381b027 frameborder=0>
+    <img src=https://i.redditmedia.com/v-PPOtqJaRqGbCg3wegJB1bwNq7VrXnhAHVrv3omRL8.jpg?s=0fb12607b178ef7d8a149f07dc0f9739 frameborder=0>
 - entry_name: |
     Little bread monster is here!
   entry_id: 8yzdp6
@@ -88,10 +103,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/c1WAx6HD--YhiJkyBoPzTIii2Y_2QJyx9022L9fpKXE.png?s=426518c9d1906b56a5f01a66b98a20cd frameborder=0>
 - entry_name: |
-    TIL dreams are thought to strip memories of emotion. According to the theory, this function fails in sufferers of PTSD. Recurring nightmares might therefore be a repeated attempt at performing this function.
-  entry_id: 8yv8do
+    Princes Charles and William refused to meet Trump: report
+  entry_id: 8z1cwb
   entry_content: |
-    <img src=https://i.redditmedia.com/T-sHrupDvVoAY9SQLXFI9Lpx7KLshBOH7CyzVHRppck.jpg?s=1e98874a89621de2e8d0d25888e00ba2 frameborder=0>
+    <img src=https://i.redditmedia.com/cmXptxR4SdSW0aEL1h_loUJfGifNHkfkOgP3KpmsJVw.jpg?s=91229a4cd2c645291ea776fd6098bec4 frameborder=0>
+- entry_name: |
+    True, isn't it?
+  entry_id: 8z11os
+  entry_content: |
+    <img src=https://i.redditmedia.com/oj7rDxbM5DV1F0B32V3gmP0omgBAHJphAykz_CCCJvo.jpg?s=68bd0d766c1869451850ea8622a2e031 frameborder=0>
 - entry_name: |
     TIL New York Yankee's pitcher David Wells stayed out all night partying until the next morning. While hung over he pitched a perfect game, retiring all 27 batters he faced marking the 15th perfect game in MLB history.
   entry_id: 8yy619
@@ -103,55 +123,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9ep20fura0a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    True, isn't it?
-  entry_id: 8z11os
-  entry_content: |
-    <img src=https://i.redditmedia.com/oj7rDxbM5DV1F0B32V3gmP0omgBAHJphAykz_CCCJvo.jpg?s=68bd0d766c1869451850ea8622a2e031 frameborder=0>
-- entry_name: |
     Airport doggo excited for work.
   entry_id: 8yw91z
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVelvetyComplexAsiaticmouflon&url=https%3A%2F%2Fgfycat.com%2Fvelvetycomplexasiaticmouflon&image=https%3A%2F%2Fthumbs.gfycat.com%2FVelvetyComplexAsiaticmouflon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    Adam Sandler movies aren't what they used to be but the man can tell a joke...
-  entry_id: 8yvnpf
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/YZoKUlN9urg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Deadlines
   entry_id: 8z0bky
   entry_content: |
     <iframe src=https://v.redd.it/a7jga1upk1a11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Right now Mars is closer and brighter than it’s been since 2003. It’s so bright it’s casting a reflection on the ocean as it rises. Took this two nights ago in Rhode Island
-  entry_id: 8z1hm5
+    That shits rough.
+  entry_id: 8z1ptc
   entry_content: |
-    <img src=https://i.redditmedia.com/v-PPOtqJaRqGbCg3wegJB1bwNq7VrXnhAHVrv3omRL8.jpg?s=0fb12607b178ef7d8a149f07dc0f9739 frameborder=0>
+    <img src=https://i.redditmedia.com/zK6GOMjmFOEz-IVvf_Qk5EaP0aa-lPww7OWjAb1XV-E.jpg?s=e9eca6740ed5955340619661528a2b86 frameborder=0>
 - entry_name: |
-    My toddlers reaction when I offer her something to eat that's not one of her 5 approved food items
-  entry_id: 8yv6g1
+    Adam Sandler movies aren't what they used to be but the man can tell a joke...
+  entry_id: 8yvnpf
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowNaiveHog&url=https%3A%2F%2Fgfycat.com%2FMellowNaiveHog&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowNaiveHog-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=253 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    How am I supposed to study like this?
-  entry_id: 8z18pe
-  entry_content: |
-    <iframe src=https://v.redd.it/yr6o8cj7q3a11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Old but still gold
-  entry_id: 8yw9wk
-  entry_content: |
-    <iframe src=https://v.redd.it/mebfmlzv5z911/DASH_600_K frameborder=0></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/YZoKUlN9urg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     I need him on my team ASAP.
   entry_id: 8yxybn
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTameEducatedKawala&url=https%3A%2F%2Fgfycat.com%2FTameEducatedKawala&image=https%3A%2F%2Fthumbs.gfycat.com%2FTameEducatedKawala-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    Old but still gold
+  entry_id: 8yw9wk
+  entry_content: |
+    <iframe src=https://v.redd.it/mebfmlzv5z911/DASH_600_K frameborder=0></iframe>
+- entry_name: |
     Teen who encouraged boyfriend's suicide seeks retrial, says texts were cherry picked
   entry_id: 8yx6kl
   entry_content: |
     <img src=https://i.redditmedia.com/16Ko1CmJplDt9tXshfX5PlwaSQsjjimVJQygmjmgW80.jpg?s=2b039ce66c223f031f58f91a87978b1a frameborder=0>
+- entry_name: |
+    Gymnasts are so graceful
+  entry_id: 8z0zfl
+  entry_content: |
+    <iframe src=https://v.redd.it/gcz0z2xge3a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Explaining the snap to friends who aren't on Reddit.
   entry_id: 8yxi7g
@@ -163,10 +173,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BBpWQbPlN-lETvWbkntmdqw2MdbW1D3bsQSMA_bJQeg.jpg?s=00424a1be37e55eeaede62a79cbd69a4 frameborder=0>
 - entry_name: |
-    Princes Charles and William refused to meet Trump: report
-  entry_id: 8z1cwb
+    Every girl has her day
+  entry_id: 8z1if8
   entry_content: |
-    <img src=https://i.redditmedia.com/cmXptxR4SdSW0aEL1h_loUJfGifNHkfkOgP3KpmsJVw.jpg?s=91229a4cd2c645291ea776fd6098bec4 frameborder=0>
+    <img src=https://i.redditmedia.com/n4PvYbk_i6RLs_fDvNdod4FV4M2uprZ3F-Mw3s6tG18.jpg?s=bdd85b6c959c0a3a55861a8f9c3b9275 frameborder=0>
 - entry_name: |
     That moment when the upvotes start coming in
   entry_id: 8yxwzw
@@ -178,35 +188,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/flMtprDQaqVUyCwegXrqXMwnRUHin-8DDo0Q4tn38fU.jpg?s=47923dff69f6180b1a9b69249d29f9da frameborder=0>
 - entry_name: |
+    Streeeeetch
+  entry_id: 8z0bs4
+  entry_content: |
+    <iframe src=https://v.redd.it/zl6m7jflo2a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     A truly versatile meme.
   entry_id: 8yw1zp
   entry_content: |
     <img src=https://i.redditmedia.com/oYbopib-CiHFR49wD0n67StlwfGCI3hd6SZxLjkFQ30.jpg?s=c2a16533dee1b722d4d33dfb20f494df frameborder=0>
+- entry_name: |
+    I felt that one from here
+  entry_id: 8z0poq
+  entry_content: |
+    <img src=https://i.redditmedia.com/mq5QcEH6Gg8LjE_YAZv6DhgX-N0G0rD3SniFRon9ejg.png?s=8b7ede1fd9ba1d95dc2d5729574707f7 frameborder=0>
 - entry_name: |
     He makes a valid point.
   entry_id: 8yycex
   entry_content: |
     <img src=https://i.redditmedia.com/hzqDQyeFC1Xrm_YMmK7bdXgw2uELqvqHfRk3DDpw8Ws.jpg?s=de91845978e515fcdb84adff51fda3b6 frameborder=0>
 - entry_name: |
-    And we have a lift off!
-  entry_id: 8z22qf
-  entry_content: |
-    <img src=https://i.redditmedia.com/nAfVuwjLYYA7tq6uOKsJcQ5ReloncRrTXZc9HOB6Z78.jpg?s=bc0c391033b5b775e4d8a1c325892934 frameborder=0>
-- entry_name: |
-    Streeeeetch
-  entry_id: 8z0bs4
-  entry_content: |
-    <iframe src=https://v.redd.it/zl6m7jflo2a11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     It's settled then
   entry_id: 8yyff3
   entry_content: |
     <iframe src=https://v.redd.it/6fl913gws0a11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Gymnasts are so graceful
-  entry_id: 8z0zfl
-  entry_content: |
-    <iframe src=https://v.redd.it/gcz0z2xge3a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Tennis Physics
   entry_id: 8yx0p1
@@ -218,37 +223,33 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1B2u0Znp9RjNasWRHJ6rYFB7EUsP_JAjgg_lVPn4N-s.jpg?s=5e1036fd947de0fda6822177e878d301 frameborder=0>
 - entry_name: |
-    Trumpist get's countered hard.
-  entry_id: 8ywsa9
+    Invest now to normify.
+  entry_id: 8z0j1d
   entry_content: |
-    <img src=https://i.redditmedia.com/D7Ma43t2X77As_zLztRL5XbTZkY2Ch2Bxk0NvtGhmTk.png?s=0730b752406a98b46d8a462e3cddae9f frameborder=0>
+    <img src=https://i.redditmedia.com/_W1tsKYhM_BpAXFozhBqtyrE2EUPQF9brr9j-FczLJ0.jpg?s=9ffb161931d470e4cf646e2c06598683 frameborder=0>
 - entry_name: |
     360 Ball: Spikeball meets Tennis
   entry_id: 8yyhph
   entry_content: |
     <iframe src=https://v.redd.it/unzj34f1qz911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I felt that one from here
-  entry_id: 8z0poq
+    Trumpist get's countered hard.
+  entry_id: 8ywsa9
   entry_content: |
-    <img src=https://i.redditmedia.com/mq5QcEH6Gg8LjE_YAZv6DhgX-N0G0rD3SniFRon9ejg.png?s=8b7ede1fd9ba1d95dc2d5729574707f7 frameborder=0>
+    <img src=https://i.redditmedia.com/D7Ma43t2X77As_zLztRL5XbTZkY2Ch2Bxk0NvtGhmTk.png?s=0730b752406a98b46d8a462e3cddae9f frameborder=0>
 - entry_name: |
     I polished some marble tonight and a side looks as if it was missing.
   entry_id: 8yzp2y
   entry_content: |
     <img src=https://i.redditmedia.com/X8fvk7AvlKrEurGCF0rVF4xznr4wCqU-h7_ULtJ67zs.jpg?s=78ad9660082b7dd6585657672ac52c1e frameborder=0>
 - entry_name: |
-  entry_id: 8yy2bk
+    Row Row Row Your Float, Gently Down The Stream
+  entry_id: 8z1wht
   entry_content: |
-    <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
+    <iframe src=https://v.redd.it/4dvgke7kw1a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Diego Frazão Torquato, 12, playing the violin at his teacher’s funeral. His teacher helped raise him out of poverty.
   entry_id: 8yykrf
   entry_content: |
     <img src=https://i.redditmedia.com/XqJ6XLl_RF1mlhSVTzqnKq39y9te6pSJ1s4lXVbCoiE.jpg?s=fe1a647b32276f70914f16b0e22e8bb9 frameborder=0>
-- entry_name: |
-    Managed to capture this meteor last night
-  entry_id: 8yxn2g
-  entry_content: |
-    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
 ---
