@@ -23,11 +23,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    U.S. President Donald Trump boasted before the world and British Prime Minister Theresa May on Friday that he’d predicted the Brexit decision at his Turnberry golf resort in Scotland the day before the historic vote. One problem: Trump arrived at Turnberry the day after the vote.
-  entry_id: 8yvx49
-  entry_content: |
-    <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
-- entry_name: |
     Warning: Objects in the mirror are in a different timeframe than they seem to be.
   entry_id: 8z12xv
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8yy2bk
   entry_content: |
     <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
+- entry_name: |
+    Managed to capture this meteor last night
+  entry_id: 8yxn2g
+  entry_content: |
+    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
 ---
