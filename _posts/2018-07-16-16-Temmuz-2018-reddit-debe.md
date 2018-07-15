@@ -23,16 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
 - entry_name: |
-    Little boy who always waves to the Garbage men through the window finally gets the courage to go meet them!
-  entry_id: 8yv45l
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSpanishBlankAlaskanhusky&url=https%3A%2F%2Fgfycat.com%2FSpanishBlankAlaskanhusky&image=https%3A%2F%2Fthumbs.gfycat.com%2FSpanishBlankAlaskanhusky-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=248 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    There are not enough baby hippos in this sub.
-  entry_id: 8yv4zk
-  entry_content: |
-    <img src=https://i.redditmedia.com/qtoOiSsdRC9wSWqPZrqVxwgxQ3Ac2QeWFAwZ2J4Dx-Y.png?s=0f0d2b0bda77c98395ec03c98bc798f2 frameborder=0>
-- entry_name: |
     I was asked to flush a feral cat out from under a barn today. I guess I made a new little buddy.
   entry_id: 8yxbad
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8yy2bk
   entry_content: |
     <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
+- entry_name: |
+    Diego Frazão Torquato, 12, playing the violin at his teacher’s funeral. His teacher helped raise him out of poverty.
+  entry_id: 8yykrf
+  entry_content: |
+    <img src=https://i.redditmedia.com/XqJ6XLl_RF1mlhSVTzqnKq39y9te6pSJ1s4lXVbCoiE.jpg?s=fe1a647b32276f70914f16b0e22e8bb9 frameborder=0>
+- entry_name: |
+    Managed to capture this meteor last night
+  entry_id: 8yxn2g
+  entry_content: |
+    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
 ---
