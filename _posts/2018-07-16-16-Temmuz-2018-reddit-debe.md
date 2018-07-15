@@ -13,15 +13,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9vbnUC124tio6-sNzIF-jMVjl-F3xGDo6QN1K4v1JUo.jpg?s=397cfdb644f49af1c14b1f895bcf7b21 frameborder=0>
 - entry_name: |
-    U.S. President Donald Trump boasted before the world and British Prime Minister Theresa May on Friday that he’d predicted the Brexit decision at his Turnberry golf resort in Scotland the day before the historic vote. One problem: Trump arrived at Turnberry the day after the vote.
-  entry_id: 8yvx49
-  entry_content: |
-    <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
-- entry_name: |
     If people could sample a fit body for 5 minutes they'd probably be a lot more motivated to get fit.
   entry_id: 8ywfh5
   entry_content: |
     null
+- entry_name: |
+    U.S. President Donald Trump boasted before the world and British Prime Minister Theresa May on Friday that he’d predicted the Brexit decision at his Turnberry golf resort in Scotland the day before the historic vote. One problem: Trump arrived at Turnberry the day after the vote.
+  entry_id: 8yvx49
+  entry_content: |
+    <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
 - entry_name: |
     Little boy who always waves to the Garbage men through the window finally gets the courage to go meet them!
   entry_id: 8yv45l
@@ -53,15 +53,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/lfr3v7l950a11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Researchers have used Easter Island Moai replicas to show how they might have been “walked” to where they are displayed.
-  entry_id: 8yvdij
-  entry_content: |
-    <iframe src=https://v.redd.it/21uglzsgjy911/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Ah man, thank God you were so close! Someone just jacked my cab.
   entry_id: 8ywz4w
   entry_content: |
     <img src=https://i.redditmedia.com/5YyyiozY8N9VP36JfHdB45MScmRHJfLcVu-JVdVcAsM.gif?fm=jpg&s=4d3c956179c6dfb09b1b26652db79cdc frameborder=0>
+- entry_name: |
+    Researchers have used Easter Island Moai replicas to show how they might have been “walked” to where they are displayed.
+  entry_id: 8yvdij
+  entry_content: |
+    <iframe src=https://v.redd.it/21uglzsgjy911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Oracle cat predicts the winner of the 2018 World Cup.
   entry_id: 8yvcp9
@@ -78,15 +78,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CbBSo4E5Ehw0CTLcGsJ6irBje4Tg3N_W-OTJ2LEna18.jpg?s=cc7ce5f5038cb61b9213d74dd984c81a frameborder=0>
 - entry_name: |
-    AskReddit is being wholesome again.
-  entry_id: 8yvcfv
+    Warning: Objects in the mirror are in a different timeframe than they seem to be.
+  entry_id: 8z12xv
   entry_content: |
-    <img src=https://i.redditmedia.com/c1WAx6HD--YhiJkyBoPzTIii2Y_2QJyx9022L9fpKXE.png?s=426518c9d1906b56a5f01a66b98a20cd frameborder=0>
+    <img src=https://i.redditmedia.com/Tve27nq2zmlXaTbUh5N3BsAKIJfFFIJT6B_UbYco1uQ.jpg?s=3b2b03fb473dad2d0ec714fd4677f7c4 frameborder=0>
+- entry_name: |
+    TIL when world champion boxer Joe Louis voluntarily joined the U.S. Army in 1942 he was asked about his decision to enter the (then) racially segregated organisation, he replied: Lots of things wrong with America, but Hitler ain't going to fix them.
+  entry_id: 8z1jof
+  entry_content: |
+    <img src=https://i.redditmedia.com/WUsyO9t2rsGs4pQyGs6C_sZLHyLKZshYPQQLtOTjwSs.jpg?s=8f18b6949ffbaef847be5003f381b027 frameborder=0>
 - entry_name: |
     Little bread monster is here!
   entry_id: 8yzdp6
   entry_content: |
     <iframe src=https://v.redd.it/xg790qzsm1a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    AskReddit is being wholesome again.
+  entry_id: 8yvcfv
+  entry_content: |
+    <img src=https://i.redditmedia.com/c1WAx6HD--YhiJkyBoPzTIii2Y_2QJyx9022L9fpKXE.png?s=426518c9d1906b56a5f01a66b98a20cd frameborder=0>
 - entry_name: |
     TIL dreams are thought to strip memories of emotion. According to the theory, this function fails in sufferers of PTSD. Recurring nightmares might therefore be a repeated attempt at performing this function.
   entry_id: 8yv8do
@@ -103,6 +113,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9ep20fura0a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    True, isn't it?
+  entry_id: 8z11os
+  entry_content: |
+    <img src=https://i.redditmedia.com/oj7rDxbM5DV1F0B32V3gmP0omgBAHJphAykz_CCCJvo.jpg?s=68bd0d766c1869451850ea8622a2e031 frameborder=0>
+- entry_name: |
     Airport doggo excited for work.
   entry_id: 8yw91z
   entry_content: |
@@ -113,20 +128,25 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/YZoKUlN9urg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    True, isn't it?
-  entry_id: 8z11os
+    Deadlines
+  entry_id: 8z0bky
   entry_content: |
-    <img src=https://i.redditmedia.com/oj7rDxbM5DV1F0B32V3gmP0omgBAHJphAykz_CCCJvo.jpg?s=68bd0d766c1869451850ea8622a2e031 frameborder=0>
+    <iframe src=https://v.redd.it/a7jga1upk1a11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Right now Mars is closer and brighter than it’s been since 2003. It’s so bright it’s casting a reflection on the ocean as it rises. Took this two nights ago in Rhode Island
+  entry_id: 8z1hm5
+  entry_content: |
+    <img src=https://i.redditmedia.com/v-PPOtqJaRqGbCg3wegJB1bwNq7VrXnhAHVrv3omRL8.jpg?s=0fb12607b178ef7d8a149f07dc0f9739 frameborder=0>
 - entry_name: |
     My toddlers reaction when I offer her something to eat that's not one of her 5 approved food items
   entry_id: 8yv6g1
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowNaiveHog&url=https%3A%2F%2Fgfycat.com%2FMellowNaiveHog&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowNaiveHog-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=253 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Warning: Objects in the mirror are in a different timeframe than they seem to be.
-  entry_id: 8z12xv
+    How am I supposed to study like this?
+  entry_id: 8z18pe
   entry_content: |
-    <img src=https://i.redditmedia.com/Tve27nq2zmlXaTbUh5N3BsAKIJfFFIJT6B_UbYco1uQ.jpg?s=3b2b03fb473dad2d0ec714fd4677f7c4 frameborder=0>
+    <iframe src=https://v.redd.it/yr6o8cj7q3a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Old but still gold
   entry_id: 8yw9wk
@@ -143,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/16Ko1CmJplDt9tXshfX5PlwaSQsjjimVJQygmjmgW80.jpg?s=2b039ce66c223f031f58f91a87978b1a frameborder=0>
 - entry_name: |
-    Deadlines
-  entry_id: 8z0bky
-  entry_content: |
-    <iframe src=https://v.redd.it/a7jga1upk1a11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Explaining the snap to friends who aren't on Reddit.
   entry_id: 8yxi7g
   entry_content: |
@@ -158,97 +173,82 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BBpWQbPlN-lETvWbkntmdqw2MdbW1D3bsQSMA_bJQeg.jpg?s=00424a1be37e55eeaede62a79cbd69a4 frameborder=0>
 - entry_name: |
-    TIL when world champion boxer Joe Louis voluntarily joined the U.S. Army in 1942 he was asked about his decision to enter the (then) racially segregated organisation, he replied: Lots of things wrong with America, but Hitler ain't going to fix them.
-  entry_id: 8z1jof
+    Princes Charles and William refused to meet Trump: report
+  entry_id: 8z1cwb
   entry_content: |
-    <img src=https://i.redditmedia.com/WUsyO9t2rsGs4pQyGs6C_sZLHyLKZshYPQQLtOTjwSs.jpg?s=8f18b6949ffbaef847be5003f381b027 frameborder=0>
+    <img src=https://i.redditmedia.com/cmXptxR4SdSW0aEL1h_loUJfGifNHkfkOgP3KpmsJVw.jpg?s=91229a4cd2c645291ea776fd6098bec4 frameborder=0>
 - entry_name: |
     That moment when the upvotes start coming in
   entry_id: 8yxwzw
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGrayImmaterialHumpbackwhale&url=https%3A%2F%2Fgfycat.com%2FGrayImmaterialHumpbackwhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FGrayImmaterialHumpbackwhale-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    A truly versatile meme.
-  entry_id: 8yw1zp
-  entry_content: |
-    <img src=https://i.redditmedia.com/oYbopib-CiHFR49wD0n67StlwfGCI3hd6SZxLjkFQ30.jpg?s=c2a16533dee1b722d4d33dfb20f494df frameborder=0>
-- entry_name: |
     Ants
   entry_id: 8yyqit
   entry_content: |
     <img src=https://i.redditmedia.com/flMtprDQaqVUyCwegXrqXMwnRUHin-8DDo0Q4tn38fU.jpg?s=47923dff69f6180b1a9b69249d29f9da frameborder=0>
+- entry_name: |
+    A truly versatile meme.
+  entry_id: 8yw1zp
+  entry_content: |
+    <img src=https://i.redditmedia.com/oYbopib-CiHFR49wD0n67StlwfGCI3hd6SZxLjkFQ30.jpg?s=c2a16533dee1b722d4d33dfb20f494df frameborder=0>
 - entry_name: |
     He makes a valid point.
   entry_id: 8yycex
   entry_content: |
     <img src=https://i.redditmedia.com/hzqDQyeFC1Xrm_YMmK7bdXgw2uELqvqHfRk3DDpw8Ws.jpg?s=de91845978e515fcdb84adff51fda3b6 frameborder=0>
 - entry_name: |
-    Tennis Physics
-  entry_id: 8yx0p1
+    And we have a lift off!
+  entry_id: 8z22qf
   entry_content: |
-    <iframe src=https://v.redd.it/0i1u8kqykz911/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    It's settled then
-  entry_id: 8yyff3
-  entry_content: |
-    <iframe src=https://v.redd.it/6fl913gws0a11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Trumpist get's countered hard.
-  entry_id: 8ywsa9
-  entry_content: |
-    <img src=https://i.redditmedia.com/D7Ma43t2X77As_zLztRL5XbTZkY2Ch2Bxk0NvtGhmTk.png?s=0730b752406a98b46d8a462e3cddae9f frameborder=0>
+    <img src=https://i.redditmedia.com/nAfVuwjLYYA7tq6uOKsJcQ5ReloncRrTXZc9HOB6Z78.jpg?s=bc0c391033b5b775e4d8a1c325892934 frameborder=0>
 - entry_name: |
     Streeeeetch
   entry_id: 8z0bs4
   entry_content: |
     <iframe src=https://v.redd.it/zl6m7jflo2a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    It's settled then
+  entry_id: 8yyff3
+  entry_content: |
+    <iframe src=https://v.redd.it/6fl913gws0a11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Gymnasts are so graceful
+  entry_id: 8z0zfl
+  entry_content: |
+    <iframe src=https://v.redd.it/gcz0z2xge3a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Tennis Physics
+  entry_id: 8yx0p1
+  entry_content: |
+    <iframe src=https://v.redd.it/0i1u8kqykz911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
     Tested out my portrait mode on my new phone!
   entry_id: 8yzf5r
   entry_content: |
     <img src=https://i.redditmedia.com/1B2u0Znp9RjNasWRHJ6rYFB7EUsP_JAjgg_lVPn4N-s.jpg?s=5e1036fd947de0fda6822177e878d301 frameborder=0>
+- entry_name: |
+    Trumpist get's countered hard.
+  entry_id: 8ywsa9
+  entry_content: |
+    <img src=https://i.redditmedia.com/D7Ma43t2X77As_zLztRL5XbTZkY2Ch2Bxk0NvtGhmTk.png?s=0730b752406a98b46d8a462e3cddae9f frameborder=0>
 - entry_name: |
     360 Ball: Spikeball meets Tennis
   entry_id: 8yyhph
   entry_content: |
     <iframe src=https://v.redd.it/unzj34f1qz911/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 8yy2bk
+    I felt that one from here
+  entry_id: 8z0poq
   entry_content: |
-    <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
-- entry_name: |
-    Apple-ception
-  entry_id: 8yv4fu
-  entry_content: |
-    <img src=https://i.redditmedia.com/QpuZ6XbDEN1i8SnMcqeoqwBCamLLKM_jV3lQcd2zunY.jpg?s=fff51010474d546df0082bcc616cafd6 frameborder=0>
-- entry_name: |
-    Managed to capture this meteor last night
-  entry_id: 8yxn2g
-  entry_content: |
-    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
-- entry_name: |
-    Diego Frazão Torquato, 12, playing the violin at his teacher’s funeral. His teacher helped raise him out of poverty.
-  entry_id: 8yykrf
-  entry_content: |
-    <img src=https://i.redditmedia.com/XqJ6XLl_RF1mlhSVTzqnKq39y9te6pSJ1s4lXVbCoiE.jpg?s=fe1a647b32276f70914f16b0e22e8bb9 frameborder=0>
-- entry_name: |
-    Dad said to clean out the fire pit, and I know just the trick.
-  entry_id: 8yw676
-  entry_content: |
-    <iframe src=https://v.redd.it/y32bzzqsw2a11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    The welcome back this young monkey gets from his family when he is released after 3 weeks of treatment for a leg injury
-  entry_id: 8yurf7
-  entry_content: |
-    <iframe src=https://v.redd.it/e2c2qrec4y911/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/mq5QcEH6Gg8LjE_YAZv6DhgX-N0G0rD3SniFRon9ejg.png?s=8b7ede1fd9ba1d95dc2d5729574707f7 frameborder=0>
 - entry_name: |
     I polished some marble tonight and a side looks as if it was missing.
   entry_id: 8yzp2y
   entry_content: |
     <img src=https://i.redditmedia.com/X8fvk7AvlKrEurGCF0rVF4xznr4wCqU-h7_ULtJ67zs.jpg?s=78ad9660082b7dd6585657672ac52c1e frameborder=0>
 - entry_name: |
-    2meirl4meirl
-  entry_id: 8ywvy7
+  entry_id: 8yy2bk
   entry_content: |
-    <img src=https://i.redditmedia.com/zxs81_SG_FiyvxXUHYKhYn4xUEMWdJjzjf8TGleQhd8.png?s=7d649bef155722f5cb35146d7bf521d6 frameborder=0>
+    <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
 ---
