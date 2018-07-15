@@ -63,16 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5YyyiozY8N9VP36JfHdB45MScmRHJfLcVu-JVdVcAsM.gif?fm=jpg&s=4d3c956179c6dfb09b1b26652db79cdc frameborder=0>
 - entry_name: |
-    Researchers have used Easter Island Moai replicas to show how they might have been “walked” to where they are displayed.
-  entry_id: 8yvdij
-  entry_content: |
-    <iframe src=https://v.redd.it/21uglzsgjy911/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Oracle cat predicts the winner of the 2018 World Cup.
-  entry_id: 8yvcp9
-  entry_content: |
-    <img src=https://i.redditmedia.com/OavdCiL6U7bzOwwxGr-dAVyaxdLNoYOl2Pd0HKHRkjA.jpg?s=eaa84eae8e4bbfd70a3e945779360a4b frameborder=0>
-- entry_name: |
     What 5 Years Clean From Heroin Looks Like.
   entry_id: 8yytb2
   entry_content: |
@@ -97,11 +87,6 @@ data:
   entry_id: 8yzdp6
   entry_content: |
     <iframe src=https://v.redd.it/xg790qzsm1a11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    AskReddit is being wholesome again.
-  entry_id: 8yvcfv
-  entry_content: |
-    <img src=https://i.redditmedia.com/c1WAx6HD--YhiJkyBoPzTIii2Y_2QJyx9022L9fpKXE.png?s=426518c9d1906b56a5f01a66b98a20cd frameborder=0>
 - entry_name: |
     Princes Charles and William refused to meet Trump: report
   entry_id: 8z1cwb
@@ -167,11 +152,6 @@ data:
   entry_id: 8yxi7g
   entry_content: |
     <iframe src=https://v.redd.it/tcvd2og300a11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    My great uncle and his long time partner (referred to as his “roommate” by the family). Photo dated 1926, Lowell & Sons photography, Atlanta
-  entry_id: 8yvdvj
-  entry_content: |
-    <img src=https://i.redditmedia.com/BBpWQbPlN-lETvWbkntmdqw2MdbW1D3bsQSMA_bJQeg.jpg?s=00424a1be37e55eeaede62a79cbd69a4 frameborder=0>
 - entry_name: |
     Every girl has her day
   entry_id: 8z1if8
@@ -252,4 +232,23 @@ data:
   entry_id: 8yykrf
   entry_content: |
     <img src=https://i.redditmedia.com/XqJ6XLl_RF1mlhSVTzqnKq39y9te6pSJ1s4lXVbCoiE.jpg?s=fe1a647b32276f70914f16b0e22e8bb9 frameborder=0>
+- entry_name: |
+  entry_id: 8yy2bk
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
+- entry_name: |
+    Managed to capture this meteor last night
+  entry_id: 8yxn2g
+  entry_content: |
+    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
+- entry_name: |
+    Dad said to clean out the fire pit, and I know just the trick.
+  entry_id: 8yw676
+  entry_content: |
+    <iframe src=https://v.redd.it/y32bzzqsw2a11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Shower thots
+  entry_id: 8yycvt
+  entry_content: |
+    <img src=https://i.redditmedia.com/JoGGFL7WiFufhbUO1yUmN9J_mMIrFZ2MluXT_G3LKhc.png?s=2735e92569bf00ad372fe225316403fe frameborder=0>
 ---
