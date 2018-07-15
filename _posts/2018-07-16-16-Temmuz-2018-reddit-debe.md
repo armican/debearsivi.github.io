@@ -128,11 +128,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gcz0z2xge3a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Airport doggo excited for work.
-  entry_id: 8yw91z
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVelvetyComplexAsiaticmouflon&url=https%3A%2F%2Fgfycat.com%2Fvelvetycomplexasiaticmouflon&image=https%3A%2F%2Fthumbs.gfycat.com%2FVelvetyComplexAsiaticmouflon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     I felt that one from here
   entry_id: 8z0poq
   entry_content: |
@@ -147,11 +142,6 @@ data:
   entry_id: 8z1nsw
   entry_content: |
     <img src=https://i.redditmedia.com/g4eJOcWdZ7L4PEE64C7ZoQd00pvtDUsxuesFvRjP0k0.png?s=3b30f6f7d6096cfd408161622a6cb2c3 frameborder=0>
-- entry_name: |
-    Old but still gold
-  entry_id: 8yw9wk
-  entry_content: |
-    <iframe src=https://v.redd.it/mebfmlzv5z911/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Streeeeetch
   entry_id: 8z0bs4
@@ -251,4 +241,14 @@ data:
   entry_id: 8z1lg0
   entry_content: |
     <img src=https://i.redditmedia.com/sJ3G-EUX_QvHZGBkgOpuew9m-PsK6BxgE5U18Amlf6Q.jpg?s=8a59bd71a5dcad4136c51aa4e020ce4f frameborder=0>
+- entry_name: |
+    Managed to capture this meteor last night
+  entry_id: 8yxn2g
+  entry_content: |
+    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
+- entry_name: |
+    Shower thots
+  entry_id: 8yycvt
+  entry_content: |
+    <img src=https://i.redditmedia.com/JoGGFL7WiFufhbUO1yUmN9J_mMIrFZ2MluXT_G3LKhc.png?s=2735e92569bf00ad372fe225316403fe frameborder=0>
 ---
