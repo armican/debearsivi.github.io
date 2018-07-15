@@ -1,0 +1,254 @@
+---
+layout: post
+title: 16 Temmuz 2018 Reddit Debe
+data:
+- entry_name: |
+    Mark Ruffalo visits children's hospital in his Hulk costume.
+  entry_id: 8yw4qf
+  entry_content: |
+    <img src=https://i.redditmedia.com/0-woWiYzTp7xuuuY3fml-bvlp9OM9A-sXwuhaBtQq7g.jpg?s=df4c56135a117bd08804044ff5260452 frameborder=0>
+- entry_name: |
+    Giant lion carved from a single dead redwood tree
+  entry_id: 8ywvn0
+  entry_content: |
+    <img src=https://i.redditmedia.com/9vbnUC124tio6-sNzIF-jMVjl-F3xGDo6QN1K4v1JUo.jpg?s=397cfdb644f49af1c14b1f895bcf7b21 frameborder=0>
+- entry_name: |
+    U.S. President Donald Trump boasted before the world and British Prime Minister Theresa May on Friday that he’d predicted the Brexit decision at his Turnberry golf resort in Scotland the day before the historic vote. One problem: Trump arrived at Turnberry the day after the vote.
+  entry_id: 8yvx49
+  entry_content: |
+    <img src=https://i.redditmedia.com/5fqCxnsC3OKt7Bp3kfLniehPCTbyXAIPLS00-_CAPFA.jpg?s=f99983881e952df2772cfdae88491053 frameborder=0>
+- entry_name: |
+    If people could sample a fit body for 5 minutes they'd probably be a lot more motivated to get fit.
+  entry_id: 8ywfh5
+  entry_content: |
+    null
+- entry_name: |
+    Little boy who always waves to the Garbage men through the window finally gets the courage to go meet them!
+  entry_id: 8yv45l
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSpanishBlankAlaskanhusky&url=https%3A%2F%2Fgfycat.com%2FSpanishBlankAlaskanhusky&image=https%3A%2F%2Fthumbs.gfycat.com%2FSpanishBlankAlaskanhusky-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=248 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    There are not enough baby hippos in this sub.
+  entry_id: 8yv4zk
+  entry_content: |
+    <img src=https://i.redditmedia.com/qtoOiSsdRC9wSWqPZrqVxwgxQ3Ac2QeWFAwZ2J4Dx-Y.png?s=0f0d2b0bda77c98395ec03c98bc798f2 frameborder=0>
+- entry_name: |
+    I was asked to flush a feral cat out from under a barn today. I guess I made a new little buddy.
+  entry_id: 8yxbad
+  entry_content: |
+    <img src=https://i.redditmedia.com/O0fo2YpgP5f9OjY517EGEBU3uguWMzlWAyfPfi2i-GI.jpg?s=80b381688cacd63045c9356ba3592f15 frameborder=0>
+- entry_name: |
+    When we're young, we sneak out our house to go to parties. When we're old, we sneak out of parties to go home.
+  entry_id: 8yz85f
+  entry_content: |
+    null
+- entry_name: |
+    And he’s goddamn right
+  entry_id: 8yxlsv
+  entry_content: |
+    <img src=https://i.redditmedia.com/e6NZnTekAEE8X3ORXFopQ5CvvuAJCiGMTfNo04-4LkA.jpg?s=aceb969553e2f153b936f71c82311e08 frameborder=0>
+- entry_name: |
+    Monkeys find a way to enjoy summer
+  entry_id: 8yxmb2
+  entry_content: |
+    <iframe src=https://v.redd.it/lfr3v7l950a11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Researchers have used Easter Island Moai replicas to show how they might have been “walked” to where they are displayed.
+  entry_id: 8yvdij
+  entry_content: |
+    <iframe src=https://v.redd.it/21uglzsgjy911/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Ah man, thank God you were so close! Someone just jacked my cab.
+  entry_id: 8ywz4w
+  entry_content: |
+    <img src=https://i.redditmedia.com/5YyyiozY8N9VP36JfHdB45MScmRHJfLcVu-JVdVcAsM.gif?fm=jpg&s=4d3c956179c6dfb09b1b26652db79cdc frameborder=0>
+- entry_name: |
+    Oracle cat predicts the winner of the 2018 World Cup.
+  entry_id: 8yvcp9
+  entry_content: |
+    <img src=https://i.redditmedia.com/OavdCiL6U7bzOwwxGr-dAVyaxdLNoYOl2Pd0HKHRkjA.jpg?s=eaa84eae8e4bbfd70a3e945779360a4b frameborder=0>
+- entry_name: |
+    What 5 Years Clean From Heroin Looks Like.
+  entry_id: 8yytb2
+  entry_content: |
+    <img src=https://i.redditmedia.com/-J4k9MXem-unI1qeLClTuPJiWHttNvqob0yMI5MkJZs.png?s=a97c077f1420898872ec966af876998f frameborder=0>
+- entry_name: |
+    Frog Log- so froggies won’t get trapped in fountains
+  entry_id: 8yxhl3
+  entry_content: |
+    <img src=https://i.redditmedia.com/CbBSo4E5Ehw0CTLcGsJ6irBje4Tg3N_W-OTJ2LEna18.jpg?s=cc7ce5f5038cb61b9213d74dd984c81a frameborder=0>
+- entry_name: |
+    AskReddit is being wholesome again.
+  entry_id: 8yvcfv
+  entry_content: |
+    <img src=https://i.redditmedia.com/c1WAx6HD--YhiJkyBoPzTIii2Y_2QJyx9022L9fpKXE.png?s=426518c9d1906b56a5f01a66b98a20cd frameborder=0>
+- entry_name: |
+    Little bread monster is here!
+  entry_id: 8yzdp6
+  entry_content: |
+    <iframe src=https://v.redd.it/xg790qzsm1a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    TIL dreams are thought to strip memories of emotion. According to the theory, this function fails in sufferers of PTSD. Recurring nightmares might therefore be a repeated attempt at performing this function.
+  entry_id: 8yv8do
+  entry_content: |
+    <img src=https://i.redditmedia.com/T-sHrupDvVoAY9SQLXFI9Lpx7KLshBOH7CyzVHRppck.jpg?s=1e98874a89621de2e8d0d25888e00ba2 frameborder=0>
+- entry_name: |
+    TIL New York Yankee's pitcher David Wells stayed out all night partying until the next morning. While hung over he pitched a perfect game, retiring all 27 batters he faced marking the 15th perfect game in MLB history.
+  entry_id: 8yy619
+  entry_content: |
+    <img src=https://i.redditmedia.com/r7GhWWtGbqB4x4s30vlR1kYYhezgYrdVw4lwf6iw4B8.jpg?s=f26bca27d5fd466ec951bc27918ddf3e frameborder=0>
+- entry_name: |
+    Didn't think cleaning can be so satisfying
+  entry_id: 8yxtmc
+  entry_content: |
+    <iframe src=https://v.redd.it/9ep20fura0a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Airport doggo excited for work.
+  entry_id: 8yw91z
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FVelvetyComplexAsiaticmouflon&url=https%3A%2F%2Fgfycat.com%2Fvelvetycomplexasiaticmouflon&image=https%3A%2F%2Fthumbs.gfycat.com%2FVelvetyComplexAsiaticmouflon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Adam Sandler movies aren't what they used to be but the man can tell a joke...
+  entry_id: 8yvnpf
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/YZoKUlN9urg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    True, isn't it?
+  entry_id: 8z11os
+  entry_content: |
+    <img src=https://i.redditmedia.com/oj7rDxbM5DV1F0B32V3gmP0omgBAHJphAykz_CCCJvo.jpg?s=68bd0d766c1869451850ea8622a2e031 frameborder=0>
+- entry_name: |
+    My toddlers reaction when I offer her something to eat that's not one of her 5 approved food items
+  entry_id: 8yv6g1
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowNaiveHog&url=https%3A%2F%2Fgfycat.com%2FMellowNaiveHog&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowNaiveHog-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=253 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Warning: Objects in the mirror are in a different timeframe than they seem to be.
+  entry_id: 8z12xv
+  entry_content: |
+    <img src=https://i.redditmedia.com/Tve27nq2zmlXaTbUh5N3BsAKIJfFFIJT6B_UbYco1uQ.jpg?s=3b2b03fb473dad2d0ec714fd4677f7c4 frameborder=0>
+- entry_name: |
+    Old but still gold
+  entry_id: 8yw9wk
+  entry_content: |
+    <iframe src=https://v.redd.it/mebfmlzv5z911/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    I need him on my team ASAP.
+  entry_id: 8yxybn
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTameEducatedKawala&url=https%3A%2F%2Fgfycat.com%2FTameEducatedKawala&image=https%3A%2F%2Fthumbs.gfycat.com%2FTameEducatedKawala-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Teen who encouraged boyfriend's suicide seeks retrial, says texts were cherry picked
+  entry_id: 8yx6kl
+  entry_content: |
+    <img src=https://i.redditmedia.com/16Ko1CmJplDt9tXshfX5PlwaSQsjjimVJQygmjmgW80.jpg?s=2b039ce66c223f031f58f91a87978b1a frameborder=0>
+- entry_name: |
+    Deadlines
+  entry_id: 8z0bky
+  entry_content: |
+    <iframe src=https://v.redd.it/a7jga1upk1a11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Explaining the snap to friends who aren't on Reddit.
+  entry_id: 8yxi7g
+  entry_content: |
+    <iframe src=https://v.redd.it/tcvd2og300a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    My great uncle and his long time partner (referred to as his “roommate” by the family). Photo dated 1926, Lowell & Sons photography, Atlanta
+  entry_id: 8yvdvj
+  entry_content: |
+    <img src=https://i.redditmedia.com/BBpWQbPlN-lETvWbkntmdqw2MdbW1D3bsQSMA_bJQeg.jpg?s=00424a1be37e55eeaede62a79cbd69a4 frameborder=0>
+- entry_name: |
+    TIL when world champion boxer Joe Louis voluntarily joined the U.S. Army in 1942 he was asked about his decision to enter the (then) racially segregated organisation, he replied: Lots of things wrong with America, but Hitler ain't going to fix them.
+  entry_id: 8z1jof
+  entry_content: |
+    <img src=https://i.redditmedia.com/WUsyO9t2rsGs4pQyGs6C_sZLHyLKZshYPQQLtOTjwSs.jpg?s=8f18b6949ffbaef847be5003f381b027 frameborder=0>
+- entry_name: |
+    That moment when the upvotes start coming in
+  entry_id: 8yxwzw
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGrayImmaterialHumpbackwhale&url=https%3A%2F%2Fgfycat.com%2FGrayImmaterialHumpbackwhale&image=https%3A%2F%2Fthumbs.gfycat.com%2FGrayImmaterialHumpbackwhale-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    A truly versatile meme.
+  entry_id: 8yw1zp
+  entry_content: |
+    <img src=https://i.redditmedia.com/oYbopib-CiHFR49wD0n67StlwfGCI3hd6SZxLjkFQ30.jpg?s=c2a16533dee1b722d4d33dfb20f494df frameborder=0>
+- entry_name: |
+    Ants
+  entry_id: 8yyqit
+  entry_content: |
+    <img src=https://i.redditmedia.com/flMtprDQaqVUyCwegXrqXMwnRUHin-8DDo0Q4tn38fU.jpg?s=47923dff69f6180b1a9b69249d29f9da frameborder=0>
+- entry_name: |
+    He makes a valid point.
+  entry_id: 8yycex
+  entry_content: |
+    <img src=https://i.redditmedia.com/hzqDQyeFC1Xrm_YMmK7bdXgw2uELqvqHfRk3DDpw8Ws.jpg?s=de91845978e515fcdb84adff51fda3b6 frameborder=0>
+- entry_name: |
+    Tennis Physics
+  entry_id: 8yx0p1
+  entry_content: |
+    <iframe src=https://v.redd.it/0i1u8kqykz911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    It's settled then
+  entry_id: 8yyff3
+  entry_content: |
+    <iframe src=https://v.redd.it/6fl913gws0a11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Trumpist get's countered hard.
+  entry_id: 8ywsa9
+  entry_content: |
+    <img src=https://i.redditmedia.com/D7Ma43t2X77As_zLztRL5XbTZkY2Ch2Bxk0NvtGhmTk.png?s=0730b752406a98b46d8a462e3cddae9f frameborder=0>
+- entry_name: |
+    Streeeeetch
+  entry_id: 8z0bs4
+  entry_content: |
+    <iframe src=https://v.redd.it/zl6m7jflo2a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Tested out my portrait mode on my new phone!
+  entry_id: 8yzf5r
+  entry_content: |
+    <img src=https://i.redditmedia.com/1B2u0Znp9RjNasWRHJ6rYFB7EUsP_JAjgg_lVPn4N-s.jpg?s=5e1036fd947de0fda6822177e878d301 frameborder=0>
+- entry_name: |
+    360 Ball: Spikeball meets Tennis
+  entry_id: 8yyhph
+  entry_content: |
+    <iframe src=https://v.redd.it/unzj34f1qz911/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 8yy2bk
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y4iQMf5ARFWrMs9EQM_tsqW0G89PAK1bqzrxIm_M8vc.jpg?s=623f882233055b99e2706332e7833bd4 frameborder=0>
+- entry_name: |
+    Apple-ception
+  entry_id: 8yv4fu
+  entry_content: |
+    <img src=https://i.redditmedia.com/QpuZ6XbDEN1i8SnMcqeoqwBCamLLKM_jV3lQcd2zunY.jpg?s=fff51010474d546df0082bcc616cafd6 frameborder=0>
+- entry_name: |
+    Managed to capture this meteor last night
+  entry_id: 8yxn2g
+  entry_content: |
+    <img src=https://i.redditmedia.com/bCV5pJozmoB9XSrUBYkLfWDTP7AQl1shRkmHsFc0Rdw.jpg?s=5ab0d09f0b3953c41a4f4c8379d69a7e frameborder=0>
+- entry_name: |
+    Diego Frazão Torquato, 12, playing the violin at his teacher’s funeral. His teacher helped raise him out of poverty.
+  entry_id: 8yykrf
+  entry_content: |
+    <img src=https://i.redditmedia.com/XqJ6XLl_RF1mlhSVTzqnKq39y9te6pSJ1s4lXVbCoiE.jpg?s=fe1a647b32276f70914f16b0e22e8bb9 frameborder=0>
+- entry_name: |
+    Dad said to clean out the fire pit, and I know just the trick.
+  entry_id: 8yw676
+  entry_content: |
+    <iframe src=https://v.redd.it/y32bzzqsw2a11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    The welcome back this young monkey gets from his family when he is released after 3 weeks of treatment for a leg injury
+  entry_id: 8yurf7
+  entry_content: |
+    <iframe src=https://v.redd.it/e2c2qrec4y911/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    I polished some marble tonight and a side looks as if it was missing.
+  entry_id: 8yzp2y
+  entry_content: |
+    <img src=https://i.redditmedia.com/X8fvk7AvlKrEurGCF0rVF4xznr4wCqU-h7_ULtJ67zs.jpg?s=78ad9660082b7dd6585657672ac52c1e frameborder=0>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 8ywvy7
+  entry_content: |
+    <img src=https://i.redditmedia.com/zxs81_SG_FiyvxXUHYKhYn4xUEMWdJjzjf8TGleQhd8.png?s=7d649bef155722f5cb35146d7bf521d6 frameborder=0>
+---
