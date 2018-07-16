@@ -77,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xpn-TI-u8vMxuBbl4RJEqZjbkXFcUlRyqeHWzJQEDMs.jpg?s=7a0eafc8135a3c60063a1b2bb3217260 frameborder=0>
 - entry_name: |
-    Badass takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
-  entry_id: 8z4gxg
-  entry_content: |
-    <img src=https://i.redditmedia.com/SKoeC7CS4MMsZ-GpNsQeDS1ExPVNasders2KAXJSm6U.png?s=4374091ba15cc7d1639af25b45d3be5e frameborder=0>
-- entry_name: |
     Very classy
   entry_id: 8z97e7
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8z79xz
   entry_content: |
     <img src=https://i.redditmedia.com/MuXvQfdmbEbin8J6lirHDRkyumg8ro7yW0MD6woD4pw.gif?fm=jpg&s=c2e248524740aeadae5198507592ec6f frameborder=0>
+- entry_name: |
+    Sleep deprivation may contribute to Alzheimer’s disease by robbing the brain of the time it needs to wash away sticky proteins/plaques.
+  entry_id: 8z6l6x
+  entry_content: |
+    <img src=https://i.redditmedia.com/IwMch1MRyhbSckcqu9_g-Cxp7K1pINLdXGm3Zuqu8p0.jpg?s=45045d29f9fb5e3cc41e0059cd6b10b5 frameborder=0>
 ---
