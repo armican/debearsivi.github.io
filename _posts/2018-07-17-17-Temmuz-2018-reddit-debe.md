@@ -77,11 +77,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xpn-TI-u8vMxuBbl4RJEqZjbkXFcUlRyqeHWzJQEDMs.jpg?s=7a0eafc8135a3c60063a1b2bb3217260 frameborder=0>
 - entry_name: |
-    My cousin takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
-  entry_id: 8z4cf6
-  entry_content: |
-    <iframe src=https://v.redd.it/afb3d9lwy5a11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Badass takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
   entry_id: 8z4gxg
   entry_content: |
@@ -136,11 +131,6 @@ data:
   entry_id: 8z5zo1
   entry_content: |
     null
-- entry_name: |
-    Beer queen!
-  entry_id: 8z4bgg
-  entry_content: |
-    <img src=https://i.redditmedia.com/5Ma5vW9cchTiwTgOtKVI5cQCc3oFDg7cRr1JR9RWl9U.jpg?s=bab742953936f9076c4afe22e128bbae frameborder=0>
 - entry_name: |
     Don't let Donald Trump pick a Supreme Court justice unless and until Mueller clears him
   entry_id: 8zam74
@@ -206,11 +196,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xh9nbbYbyizQG-ocEtWmz25ZQYRGxLOLH--v8jmTd2A.jpg?s=ea3d26b65f36a4a2aeee07f05db746b4 frameborder=0>
 - entry_name: |
-    Russia must 'account for role' in MH17 tragedy: G7
-  entry_id: 8z4en2
-  entry_content: |
-    null
-- entry_name: |
     The theme to MIB the animated show had no right to be so good.
   entry_id: 8zahhk
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 8zabsc
   entry_content: |
     <img src=https://i.redditmedia.com/czhZKtU7hhP-Aa9CicLqAjvz65VRE2Gkrh8E5MxScQg.jpg?s=447cc0a2314651bee640bc9abf27492d frameborder=0>
+- entry_name: |
+    How to extinguish fire in video games
+  entry_id: 8zar56
+  entry_content: |
+    <img src=https://i.redditmedia.com/Qz1dVAZSaE780BsKEswqpxj4Y2rRI4EKLpaIER4d4GA.gif?fm=jpg&s=37c2b6ac7f4c59035f7cd1cb13cafc59 frameborder=0>
+- entry_name: |
+    Not actual size...
+  entry_id: 8z8gvt
+  entry_content: |
+    <img src=https://i.redditmedia.com/20p3_uHSiczd1ZYAw2vFueY0nBw3PPnZ0dDhGfPh2xw.jpg?s=53dd7f34cd39fd4140dd6906eefda659 frameborder=0>
+- entry_name: |
+    sATanIC BIRdS pErform suMMOniNg riTuAL aFtER the SACRIfiCe
+  entry_id: 8z79xz
+  entry_content: |
+    <img src=https://i.redditmedia.com/MuXvQfdmbEbin8J6lirHDRkyumg8ro7yW0MD6woD4pw.gif?fm=jpg&s=c2e248524740aeadae5198507592ec6f frameborder=0>
 ---
