@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fI7DXzJurtJmD16Y_mpjsHY-GpI_rRLu6EYhCVTewGc.jpg?s=6d500e4456d5ea113138a8f4d789b159 frameborder=0>
 - entry_name: |
-    French President celebrates during the final !
-  entry_id: 8z372z
-  entry_content: |
-    <img src=https://i.redditmedia.com/erze-VJxpW2pK70JoB7rLRkiNgVr11dPL5tQ_t9xpP8.jpg?s=9fbc22231f7ae1a0b9cf987508f0a3d3 frameborder=0>
-- entry_name: |
     Best friend gets a new best friend
   entry_id: 8z6ap6
   entry_content: |
@@ -28,30 +23,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a_gJGvx5FztmwA175jApz_azt912hN1KrGXFU33c30A.jpg?s=68f6de36be8ff0309fded8d6a0ee3e87 frameborder=0>
 - entry_name: |
-    PsBattle: French President celebrating
-  entry_id: 8z38mj
+    Service dog senses and responds to owner's oncoming panic attack.
+  entry_id: 8za7v9
   entry_content: |
-    <img src=https://i.redditmedia.com/9IgeoMc6y1YMDeN7UIt0avt83bs6pvUnaqKmmHe3MB8.jpg?s=387863533218b0dd9adad0646565b6d1 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGloomyBestEkaltadeta&url=https%3A%2F%2Fgfycat.com%2Fgloomybestekaltadeta&image=https%3A%2F%2Fthumbs.gfycat.com%2FGloomyBestEkaltadeta-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     How Christopher Walken says Foo Fighters
   entry_id: 8z44oj
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/xsg1RPnwH8g?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    I took 2 pics at 2 different time of the Arch De Triomphe in Paris and merged them together to create this half day/night aerial view.
-  entry_id: 8z5loo
-  entry_content: |
-    <img src=https://i.redditmedia.com/aSyOw1NNuXfpserWCkfFRNoRzAxxyF8de8IGNjoMchk.jpg?s=f89ce527030dcc9d5c4c782596a82571 frameborder=0>
-- entry_name: |
-    Service dog senses and responds to owner's oncoming panic attack.
-  entry_id: 8za7v9
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGloomyBestEkaltadeta&url=https%3A%2F%2Fgfycat.com%2Fgloomybestekaltadeta&image=https%3A%2F%2Fthumbs.gfycat.com%2FGloomyBestEkaltadeta-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Following the current frontpage post, I think that I managed to get Mars flying by my house!
   entry_id: 8z61ml
   entry_content: |
     <iframe src=https://v.redd.it/xnc1nosb47a11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Full moon above Prague
+  entry_id: 8z9bpi
+  entry_content: |
+    <img src=https://i.redditmedia.com/-uT8nZj56qYRtUnjrWszhKKkGrGuC3kJx13UXMctRxE.jpg?s=185cd8fa2c7381b58e0beab06b89f942 frameborder=0>
+- entry_name: |
+    I took 2 pics at 2 different time of the Arch De Triomphe in Paris and merged them together to create this half day/night aerial view.
+  entry_id: 8z5loo
+  entry_content: |
+    <img src=https://i.redditmedia.com/aSyOw1NNuXfpserWCkfFRNoRzAxxyF8de8IGNjoMchk.jpg?s=f89ce527030dcc9d5c4c782596a82571 frameborder=0>
 - entry_name: |
     My favorite subreddit is also oddly satisfying
   entry_id: 8z6dlu
@@ -63,30 +58,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FIT99OtSxLleSMaLHA6r1KbkL4RY1pCm9wMqBUhPfl8.jpg?s=cf8b069d22ca74f8dec024dc27c7bba0 frameborder=0>
 - entry_name: |
+    The way the vents are oriented makes it look like mirror symmetry is broken
+  entry_id: 8z8hgm
+  entry_content: |
+    <img src=https://i.redditmedia.com/Yu32Omaxybjc8Q1Tj6lPXD3_X-2sotj_2SIMRR5Llbo.jpg?s=626dc6e683f4ea4d15da3ed5e0d630fd frameborder=0>
+- entry_name: |
     Introverts unite
   entry_id: 8z4qzk
   entry_content: |
     <img src=https://i.redditmedia.com/dt4RGPBpfEArsmfFTwBYuexX5vbSZtLrAo4mBwrgvIs.jpg?s=74d8aeefe395be85f323d5a730834190 frameborder=0>
-- entry_name: |
-    How to turn marble into Infinity Stone
-  entry_id: 8z3m29
-  entry_content: |
-    <iframe src=https://v.redd.it/34qug11si5a11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL the writers of “Parks and Recreation” had no idea Nick Offerman was a skilled saxophone player when they wrote the Duke Silver plot line.
   entry_id: 8z5to3
   entry_content: |
     <img src=https://i.redditmedia.com/XTQdReNF2J8S1iMmXHnO4Z1tgluf2fVw-Lf-2dpQnoE.jpg?s=e8b1a3f39a78f2468128d67ceaea8eb9 frameborder=0>
 - entry_name: |
+    How to turn marble into Infinity Stone
+  entry_id: 8z3m29
+  entry_content: |
+    <iframe src=https://v.redd.it/34qug11si5a11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     US official: Russia using social media to divide Americans
   entry_id: 8z5gn6
   entry_content: |
     <img src=https://i.redditmedia.com/hScL9eECWyAg2WyMinPFof2mrgznzDSNfBWOUexfo-o.jpg?s=51fe9de569ef69dffe02ab0f5c748496 frameborder=0>
-- entry_name: |
-    Full moon above Prague
-  entry_id: 8z9bpi
-  entry_content: |
-    <img src=https://i.redditmedia.com/-uT8nZj56qYRtUnjrWszhKKkGrGuC3kJx13UXMctRxE.jpg?s=185cd8fa2c7381b58e0beab06b89f942 frameborder=0>
 - entry_name: |
     I am inside a CELEBRATION WAR ZONE in Paris. I have never witnessed anything like this. It’s pandemonium.
   entry_id: 8z4v4n
@@ -96,11 +91,6 @@ data:
   entry_id: 8z5ri4
   entry_content: |
     <img src=https://i.redditmedia.com/aEu1ErChRobnlRUZc0wGDnlV63mWHAPYO2vj9xfRXKM.jpg?s=2b912a52c0187c86e57bbf7f6bc0c85a frameborder=0>
-- entry_name: |
-    The way the vents are oriented makes it look like mirror symmetry is broken
-  entry_id: 8z8hgm
-  entry_content: |
-    <img src=https://i.redditmedia.com/Yu32Omaxybjc8Q1Tj6lPXD3_X-2sotj_2SIMRR5Llbo.jpg?s=626dc6e683f4ea4d15da3ed5e0d630fd frameborder=0>
 - entry_name: |
     Kumail murders Elon
   entry_id: 8z5jjl
@@ -112,40 +102,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2b6n08LQ2qgrJXy1SmVE5omubX_d41hqT3TWKYbKGtc.jpg?s=b59f4569e7f3cda346c871f00f5173eb frameborder=0>
 - entry_name: |
-    Beautiful Bismuth, Digital, 2000x2500px
-  entry_id: 8z3732
-  entry_content: |
-    <img src=https://i.redditmedia.com/sX24ZmbYFdsYHox6GDQ-Gvkkxiu-kwcXMlDD3nEuXg4.jpg?s=db4f10c48cc8249ceec55a1dfcb242f6 frameborder=0>
-- entry_name: |
     Dennis has a son
   entry_id: 8z3bnh
   entry_content: |
     <img src=https://i.redditmedia.com/b8bP_leJ0w1qKrJ73imhfwJR9ZyJASAbJ8NZuqhRt5A.jpg?s=4e10e62e46e02423bc3ef5422b7a08ae frameborder=0>
-- entry_name: |
-    Badass takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
-  entry_id: 8z4gxg
-  entry_content: |
-    <img src=https://i.redditmedia.com/SKoeC7CS4MMsZ-GpNsQeDS1ExPVNasders2KAXJSm6U.png?s=4374091ba15cc7d1639af25b45d3be5e frameborder=0>
 - entry_name: |
     My cousin takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
   entry_id: 8z4cf6
   entry_content: |
     <iframe src=https://v.redd.it/afb3d9lwy5a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Alyssa Carson is a star
-  entry_id: 8z60xx
+    Badass takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
+  entry_id: 8z4gxg
   entry_content: |
-    <img src=https://i.redditmedia.com/8vS3VhBqAvZgx9ajOEl7QTxIA68zTBjbRWIURSzafWA.jpg?s=d2ea53de1cbb4a7bba9c336253dc54bb frameborder=0>
+    <img src=https://i.redditmedia.com/SKoeC7CS4MMsZ-GpNsQeDS1ExPVNasders2KAXJSm6U.png?s=4374091ba15cc7d1639af25b45d3be5e frameborder=0>
 - entry_name: |
     Girlfriend and I adopted a puppy, he fell asleep on the table first day out on the town
   entry_id: 8z4srm
   entry_content: |
     <img src=https://i.redditmedia.com/ayaM_6pbdalJcsGdg3bywBtFODWGUfLR4N_jp6tEO9Q.jpg?s=0994e20c6c291a926864c14e4c683f9f frameborder=0>
 - entry_name: |
+    Alyssa Carson is a star
+  entry_id: 8z60xx
+  entry_content: |
+    <img src=https://i.redditmedia.com/8vS3VhBqAvZgx9ajOEl7QTxIA68zTBjbRWIURSzafWA.jpg?s=d2ea53de1cbb4a7bba9c336253dc54bb frameborder=0>
+- entry_name: |
+    First bath with mom
+  entry_id: 8z9azg
+  entry_content: |
+    <img src=https://i.redditmedia.com/tBzHnz2BuVFA11dbECxx76WfI6ynfKREppix0O2Nmxg.jpg?s=89ad2d5bc2cdb4e272e774e3ebf9d86d frameborder=0>
+- entry_name: |
     💪༼ ◕_ ◕ 💪༽ GOT TATTOO 💪༼ ◕_ ◕ 💪༽
   entry_id: 8z5yh0
   entry_content: |
     <img src=https://i.redditmedia.com/RQiJIYPBJ_SjLzyUp2q2TS5Xtt3Sy-eSg6i2Vgywj2k.jpg?s=2c8ed8bd1e4b71f0e2cf108e7f38ab1d frameborder=0>
+- entry_name: |
+    Very classy
+  entry_id: 8z97e7
+  entry_content: |
+    <img src=https://i.redditmedia.com/qHnUqaf1paiw0L6XAE4Ky8SA8pz8HFTqSW7ZB__FB7U.jpg?s=63193831acb0f9f75b41cbea0ee36b29 frameborder=0>
 - entry_name: |
     Did this woman, standing next to Putin, steal a gold medal from the World Cup?!
   entry_id: 8z5eeb
@@ -177,10 +172,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5Ma5vW9cchTiwTgOtKVI5cQCc3oFDg7cRr1JR9RWl9U.jpg?s=bab742953936f9076c4afe22e128bbae frameborder=0>
 - entry_name: |
-    Very classy
-  entry_id: 8z97e7
+    Using reviews
+  entry_id: 8z88z4
   entry_content: |
-    <img src=https://i.redditmedia.com/qHnUqaf1paiw0L6XAE4Ky8SA8pz8HFTqSW7ZB__FB7U.jpg?s=63193831acb0f9f75b41cbea0ee36b29 frameborder=0>
+    <img src=https://i.redditmedia.com/TxmZhtJIErdl3NWwVW7Mxm6t8f8WhRksk0Kc_sUF6KE.jpg?s=503f20aefbb0dfde418916fec6640c41 frameborder=0>
 - entry_name: |
     Gravity well
   entry_id: 8z4xt7
@@ -201,30 +196,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BqKw5uVsv_VL8FuWMWxg_s0KrXfCSggqwxkW2kviX7E.jpg?s=cab5b3d6113f231ee0ea07454205801e frameborder=0>
 - entry_name: |
-    Using reviews
-  entry_id: 8z88z4
+    me🐟irl
+  entry_id: 8z83so
   entry_content: |
-    <img src=https://i.redditmedia.com/TxmZhtJIErdl3NWwVW7Mxm6t8f8WhRksk0Kc_sUF6KE.jpg?s=503f20aefbb0dfde418916fec6640c41 frameborder=0>
+    <img src=https://i.redditmedia.com/ocz6Ux36DNDQkgBgpz8GMY7uuwUGlcgNuBE6hIG7Qjs.jpg?s=bea88876889e328cbeb1199d9a79d4d5 frameborder=0>
 - entry_name: |
-    First bath with mom
-  entry_id: 8z9azg
+    I applaud this man
+  entry_id: 8za36e
   entry_content: |
-    <img src=https://i.redditmedia.com/tBzHnz2BuVFA11dbECxx76WfI6ynfKREppix0O2Nmxg.jpg?s=89ad2d5bc2cdb4e272e774e3ebf9d86d frameborder=0>
+    <img src=https://i.redditmedia.com/lqgHUM1TjNeVxxPlbCVxNI75q_EMjgSG3QGQFPUu-TM.png?s=48239f4f37054f295cf4cbcca4505ce3 frameborder=0>
 - entry_name: |
     So good.
   entry_id: 8z4ucz
   entry_content: |
     <img src=https://i.redditmedia.com/AlKaJknXBGlIWfLWuedxPRwVr91ujb_RXE_ejgK75wo.png?s=63d14a729615571c6d8455216e212392 frameborder=0>
-- entry_name: |
-    This sick washed up gar skeleton I found.
-  entry_id: 8z371l
-  entry_content: |
-    <img src=https://i.redditmedia.com/cv81E4mZdM-7Ey7jmkI5NaykeuEK47PVv14WxCT16ek.jpg?s=35ecc45ccf44dddcadd6e2daf12fa1ad frameborder=0>
-- entry_name: |
-    me🐟irl
-  entry_id: 8z83so
-  entry_content: |
-    <img src=https://i.redditmedia.com/ocz6Ux36DNDQkgBgpz8GMY7uuwUGlcgNuBE6hIG7Qjs.jpg?s=bea88876889e328cbeb1199d9a79d4d5 frameborder=0>
 - entry_name: |
     Family photo
   entry_id: 8z8ep1
@@ -246,8 +231,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PuREvj5fn5y2e0FTn1RcG0frkd6d-ePSiObn1hI6RLw.jpg?s=e2db21ad020b659d89052f57bfbfe8bd frameborder=0>
 - entry_name: |
+    Germany: We can no longer fully rely on U.S. White House
+  entry_id: 8z9w7f
+  entry_content: |
+    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
+- entry_name: |
     Russia must 'account for role' in MH17 tragedy: G7
   entry_id: 8z4en2
   entry_content: |
     null
+- entry_name: |
+    They don't want you to die in water. Nobody likes soggy meat.
+  entry_id: 8z3ml5
+  entry_content: |
+    <iframe src=https://v.redd.it/i0xvx3d3j5a11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Don't let Donald Trump pick a Supreme Court justice unless and until Mueller clears him
+  entry_id: 8zam74
+  entry_content: |
+    <img src=https://i.redditmedia.com/aUINSZm-WJJLJ3sa31K6slAg1TxOjFh4VHjVdoE46vU.jpg?s=2eb46fbf021f16b26149f419ae619e68 frameborder=0>
 ---
