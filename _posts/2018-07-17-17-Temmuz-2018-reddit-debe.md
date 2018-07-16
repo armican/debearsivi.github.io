@@ -97,16 +97,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tbOE65zlijY5MO0pokkQrmP3uq9fF6pKzcN22McXzQQ.jpg?s=a22fad0b6e142459f5ac6e77b6ae770c frameborder=0>
 - entry_name: |
-    this is kinda true
-  entry_id: 8z3gq6
-  entry_content: |
-    <img src=https://i.redditmedia.com/2b6n08LQ2qgrJXy1SmVE5omubX_d41hqT3TWKYbKGtc.jpg?s=b59f4569e7f3cda346c871f00f5173eb frameborder=0>
-- entry_name: |
-    Dennis has a son
-  entry_id: 8z3bnh
-  entry_content: |
-    <img src=https://i.redditmedia.com/b8bP_leJ0w1qKrJ73imhfwJR9ZyJASAbJ8NZuqhRt5A.jpg?s=4e10e62e46e02423bc3ef5422b7a08ae frameborder=0>
-- entry_name: |
     My cousin takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
   entry_id: 8z4cf6
   entry_content: |
@@ -161,11 +151,6 @@ data:
   entry_id: 8z5zo1
   entry_content: |
     null
-- entry_name: |
-    Ye nugget
-  entry_id: 8z3dxi
-  entry_content: |
-    <img src=https://i.redditmedia.com/SCqPOND1mmAyJ_kSb2rWASrNT14RVmhxaMRvecWP2hE.png?s=b4333bb37435432e6153b70e8ad0eef1 frameborder=0>
 - entry_name: |
     Beer queen!
   entry_id: 8z4bgg
@@ -250,4 +235,19 @@ data:
   entry_id: 8zam74
   entry_content: |
     <img src=https://i.redditmedia.com/aUINSZm-WJJLJ3sa31K6slAg1TxOjFh4VHjVdoE46vU.jpg?s=2eb46fbf021f16b26149f419ae619e68 frameborder=0>
+- entry_name: |
+    Trying to keep up with the rotation of a toy.
+  entry_id: 8z452z
+  entry_content: |
+    <iframe src=https://v.redd.it/votr2aqsu5a11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    One of my Facebook friends has been a professional sound engineer for probably 20 years...
+  entry_id: 8z5tfp
+  entry_content: |
+    <img src=https://i.redditmedia.com/MuiHp-xtoQrTp2th5FDBIuBl7ke-Ko4KJ9j_GuRrouE.jpg?s=2d2cd12701ac9aafb3d96bd47256128b frameborder=0>
+- entry_name: |
+    Germany: We can no longer fully rely on U.S. White House
+  entry_id: 8z9iuc
+  entry_content: |
+    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
 ---
