@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XTQdReNF2J8S1iMmXHnO4Z1tgluf2fVw-Lf-2dpQnoE.jpg?s=e8b1a3f39a78f2468128d67ceaea8eb9 frameborder=0>
 - entry_name: |
-    How to turn marble into Infinity Stone
-  entry_id: 8z3m29
-  entry_content: |
-    <iframe src=https://v.redd.it/34qug11si5a11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     US official: Russia using social media to divide Americans
   entry_id: 8z5gn6
   entry_content: |
@@ -226,11 +221,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    They don't want you to die in water. Nobody likes soggy meat.
-  entry_id: 8z3ml5
-  entry_content: |
-    <iframe src=https://v.redd.it/i0xvx3d3j5a11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Don't let Donald Trump pick a Supreme Court justice unless and until Mueller clears him
   entry_id: 8zam74
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 8z9iuc
   entry_content: |
     <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
+- entry_name: |
+    Sleep deprivation may contribute to Alzheimer’s disease by robbing the brain of the time it needs to wash away sticky proteins/plaques.
+  entry_id: 8z6l6x
+  entry_content: |
+    <img src=https://i.redditmedia.com/IwMch1MRyhbSckcqu9_g-Cxp7K1pINLdXGm3Zuqu8p0.jpg?s=45045d29f9fb5e3cc41e0059cd6b10b5 frameborder=0>
+- entry_name: |
+    Who the fuck did this?!
+  entry_id: 8z6j9c
+  entry_content: |
+    <img src=https://i.redditmedia.com/HgUszy5WjRE3l7HcZ5M3WxioD1pTrXJRRXSkV9fER2Q.jpg?s=30bc26252018e79634ee7baefc49bf44 frameborder=0>
 ---
