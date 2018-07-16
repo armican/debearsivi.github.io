@@ -3,11 +3,6 @@ layout: post
 title: 17 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    TIL Madonna leaked a fake version of her album to pirates where every song was a loop of her saying What the fuck do you think you're doing? In response, a hacker posted the real album on her own site for everyone to download with the message: This is what the fuck I think I'm doing.
-  entry_id: 8z3z7n
-  entry_content: |
-    <img src=https://i.redditmedia.com/fI7DXzJurtJmD16Y_mpjsHY-GpI_rRLu6EYhCVTewGc.jpg?s=6d500e4456d5ea113138a8f4d789b159 frameborder=0>
-- entry_name: |
     Best friend gets a new best friend
   entry_id: 8z6ap6
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8z8rwu
   entry_content: |
     <img src=https://i.redditmedia.com/DzEBNPsqAIgAXX2rXoQo9nz5LRukQd5yi40osOy3FA8.jpg?s=d9b74cc2048c111d5950903fe1c3eea8 frameborder=0>
+- entry_name: |
+    Sleep deprivation may contribute to Alzheimer’s disease by robbing the brain of the time it needs to wash away sticky proteins/plaques.
+  entry_id: 8z6l6x
+  entry_content: |
+    <img src=https://i.redditmedia.com/IwMch1MRyhbSckcqu9_g-Cxp7K1pINLdXGm3Zuqu8p0.jpg?s=45045d29f9fb5e3cc41e0059cd6b10b5 frameborder=0>
 ---
