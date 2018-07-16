@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FIT99OtSxLleSMaLHA6r1KbkL4RY1pCm9wMqBUhPfl8.jpg?s=cf8b069d22ca74f8dec024dc27c7bba0 frameborder=0>
 - entry_name: |
-    Introverts unite
-  entry_id: 8z4qzk
-  entry_content: |
-    <img src=https://i.redditmedia.com/dt4RGPBpfEArsmfFTwBYuexX5vbSZtLrAo4mBwrgvIs.jpg?s=74d8aeefe395be85f323d5a730834190 frameborder=0>
-- entry_name: |
     TIL the writers of “Parks and Recreation” had no idea Nick Offerman was a skilled saxophone player when they wrote the Duke Silver plot line.
   entry_id: 8z5to3
   entry_content: |
@@ -62,11 +57,6 @@ data:
   entry_id: 8z5gn6
   entry_content: |
     <img src=https://i.redditmedia.com/hScL9eECWyAg2WyMinPFof2mrgznzDSNfBWOUexfo-o.jpg?s=51fe9de569ef69dffe02ab0f5c748496 frameborder=0>
-- entry_name: |
-    I am inside a CELEBRATION WAR ZONE in Paris. I have never witnessed anything like this. It’s pandemonium.
-  entry_id: 8z4v4n
-  entry_content: |
-    <img src=https://i.redditmedia.com/tOolYOgoufW7SQyDdNolClyZlsxl5CLe90cQKqkbSN8.jpg?s=5d62538964f91925569aa1b638b811f7 frameborder=0>
 - entry_name: |
   entry_id: 8z5ri4
   entry_content: |
@@ -91,11 +81,6 @@ data:
   entry_id: 8za36e
   entry_content: |
     <img src=https://i.redditmedia.com/lqgHUM1TjNeVxxPlbCVxNI75q_EMjgSG3QGQFPUu-TM.png?s=48239f4f37054f295cf4cbcca4505ce3 frameborder=0>
-- entry_name: |
-    Girlfriend and I adopted a puppy, he fell asleep on the table first day out on the town
-  entry_id: 8z4srm
-  entry_content: |
-    <img src=https://i.redditmedia.com/ayaM_6pbdalJcsGdg3bywBtFODWGUfLR4N_jp6tEO9Q.jpg?s=0994e20c6c291a926864c14e4c683f9f frameborder=0>
 - entry_name: |
     Alyssa Carson is a star
   entry_id: 8z60xx
@@ -162,20 +147,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ocz6Ux36DNDQkgBgpz8GMY7uuwUGlcgNuBE6hIG7Qjs.jpg?s=bea88876889e328cbeb1199d9a79d4d5 frameborder=0>
 - entry_name: |
-    Christopher Lloyd would love to voice a character on Rick and Morty, maybe even Rick's dad
-  entry_id: 8z4ttt
-  entry_content: |
-    <img src=https://i.redditmedia.com/BqKw5uVsv_VL8FuWMWxg_s0KrXfCSggqwxkW2kviX7E.jpg?s=cab5b3d6113f231ee0ea07454205801e frameborder=0>
-- entry_name: |
     Family photo
   entry_id: 8z8ep1
   entry_content: |
     <img src=https://i.redditmedia.com/zyBAuO3zubSBx60MjEDR8U0_nkJ-O0xj4CyifO93u7o.jpg?s=b97f112e5daffc6a429e39660c8070c9 frameborder=0>
-- entry_name: |
-    So good.
-  entry_id: 8z4ucz
-  entry_content: |
-    <img src=https://i.redditmedia.com/AlKaJknXBGlIWfLWuedxPRwVr91ujb_RXE_ejgK75wo.png?s=63d14a729615571c6d8455216e212392 frameborder=0>
 - entry_name: |
     The Vertical Stairs of Mount Hua, China
   entry_id: 8z9xco
@@ -191,11 +166,6 @@ data:
   entry_id: 8z9cjx
   entry_content: |
     <img src=https://i.redditmedia.com/Kh7dOt14R3boi0CrTouEl1eDlrADxtYnP6G6EQSaLGI.png?s=487d63905688563281a777aacf84ce17 frameborder=0>
-- entry_name: |
-    Next level swing
-  entry_id: 8z4sij
-  entry_content: |
-    <iframe src=https://v.redd.it/xuukhbex96a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     World Cup: France's Kylian Mbappe, 19-year-old phenom, will donate World Cup earnings to charity
   entry_id: 8z9k3b
@@ -251,4 +221,34 @@ data:
   entry_id: 8z6voo
   entry_content: |
     <iframe src=https://v.redd.it/ofkyu8h8h5a11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    🔥 This abandoned ship in Australia has been taken over by nature 🔥
+  entry_id: 8zaug9
+  entry_content: |
+    <img src=https://i.redditmedia.com/1mpBPe9op41m6X1Ni3R2dgzY7ntXVdf0qQikoVJu8J8.jpg?s=cf92e4dde6575b4966ba91a69edd402f frameborder=0>
+- entry_name: |
+    Who the fuck did this?!
+  entry_id: 8z6j9c
+  entry_content: |
+    <img src=https://i.redditmedia.com/HgUszy5WjRE3l7HcZ5M3WxioD1pTrXJRRXSkV9fER2Q.jpg?s=30bc26252018e79634ee7baefc49bf44 frameborder=0>
+- entry_name: |
+    As a non-texas native, this honestly blows my mind.
+  entry_id: 8z7rh2
+  entry_content: |
+    <img src=https://i.redditmedia.com/qm9RL6q_4xZ-MQc8gdYrOhb6htbZoVtO56FemzctuLg.jpg?s=e7d1ec76fde1ff9d8ec47275e685ed26 frameborder=0>
+- entry_name: |
+    First Aquaman Poster
+  entry_id: 8zc3ea
+  entry_content: |
+    <img src=https://i.redditmedia.com/B-UJ75v6HraMBGG_HtpNNt1gfAA6Ld2MLK75XpHOsGE.jpg?s=6e27c8e0fecd2942de1734efe0342fdb frameborder=0>
+- entry_name: |
+    Anderson Cooper: Trump-Putin presser was one of the most disgraceful performances by an American president
+  entry_id: 8zc6ap
+  entry_content: |
+    <img src=https://i.redditmedia.com/2VUW31WGDiXzKtIgcykpk764tZultZUyEjGaTuoQWQE.jpg?s=4f3db26cb3debea5de3403608821b4e1 frameborder=0>
+- entry_name: |
+    WCGW when teasing a FROG 🐸
+  entry_id: 8z8epa
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNearIcyCattle&url=https%3A%2F%2Fgfycat.com%2FNearIcyCattle&image=https%3A%2F%2Fthumbs.gfycat.com%2FNearIcyCattle-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=368 height=208 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
