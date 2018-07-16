@@ -13,16 +13,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGloomyBestEkaltadeta&url=https%3A%2F%2Fgfycat.com%2Fgloomybestekaltadeta&image=https%3A%2F%2Fthumbs.gfycat.com%2FGloomyBestEkaltadeta-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Mine too
-  entry_id: 8z49a4
-  entry_content: |
-    <img src=https://i.redditmedia.com/a_gJGvx5FztmwA175jApz_azt912hN1KrGXFU33c30A.jpg?s=68f6de36be8ff0309fded8d6a0ee3e87 frameborder=0>
-- entry_name: |
-    How Christopher Walken says Foo Fighters
-  entry_id: 8z44oj
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/xsg1RPnwH8g?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Full moon above Prague
   entry_id: 8z9bpi
   entry_content: |
@@ -82,6 +72,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tbOE65zlijY5MO0pokkQrmP3uq9fF6pKzcN22McXzQQ.jpg?s=a22fad0b6e142459f5ac6e77b6ae770c frameborder=0>
 - entry_name: |
+    15 hours later, my son’s nursery.
+  entry_id: 8zbali
+  entry_content: |
+    <img src=https://i.redditmedia.com/xpn-TI-u8vMxuBbl4RJEqZjbkXFcUlRyqeHWzJQEDMs.jpg?s=7a0eafc8135a3c60063a1b2bb3217260 frameborder=0>
+- entry_name: |
     My cousin takes this pervert down for grabbing her ass. He is later arrested in front of his wife and 2 kids when the cops arrived.
   entry_id: 8z4cf6
   entry_content: |
@@ -91,6 +86,11 @@ data:
   entry_id: 8z4gxg
   entry_content: |
     <img src=https://i.redditmedia.com/SKoeC7CS4MMsZ-GpNsQeDS1ExPVNasders2KAXJSm6U.png?s=4374091ba15cc7d1639af25b45d3be5e frameborder=0>
+- entry_name: |
+    Very classy
+  entry_id: 8z97e7
+  entry_content: |
+    <img src=https://i.redditmedia.com/qHnUqaf1paiw0L6XAE4Ky8SA8pz8HFTqSW7ZB__FB7U.jpg?s=63193831acb0f9f75b41cbea0ee36b29 frameborder=0>
 - entry_name: |
     Girlfriend and I adopted a puppy, he fell asleep on the table first day out on the town
   entry_id: 8z4srm
@@ -102,35 +102,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/8vS3VhBqAvZgx9ajOEl7QTxIA68zTBjbRWIURSzafWA.jpg?s=d2ea53de1cbb4a7bba9c336253dc54bb frameborder=0>
 - entry_name: |
-    Very classy
-  entry_id: 8z97e7
-  entry_content: |
-    <img src=https://i.redditmedia.com/qHnUqaf1paiw0L6XAE4Ky8SA8pz8HFTqSW7ZB__FB7U.jpg?s=63193831acb0f9f75b41cbea0ee36b29 frameborder=0>
-- entry_name: |
     💪༼ ◕_ ◕ 💪༽ GOT TATTOO 💪༼ ◕_ ◕ 💪༽
   entry_id: 8z5yh0
   entry_content: |
     <img src=https://i.redditmedia.com/RQiJIYPBJ_SjLzyUp2q2TS5Xtt3Sy-eSg6i2Vgywj2k.jpg?s=2c8ed8bd1e4b71f0e2cf108e7f38ab1d frameborder=0>
+- entry_name: |
+    I applaud this man
+  entry_id: 8za36e
+  entry_content: |
+    <img src=https://i.redditmedia.com/lqgHUM1TjNeVxxPlbCVxNI75q_EMjgSG3QGQFPUu-TM.png?s=48239f4f37054f295cf4cbcca4505ce3 frameborder=0>
 - entry_name: |
     Did this woman, standing next to Putin, steal a gold medal from the World Cup?!
   entry_id: 8z5eeb
   entry_content: |
     <iframe src=https://v.redd.it/5j79as77o6a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Poor Redditor learns about their wife’s secret heroin addiction
-  entry_id: 8z45oo
-  entry_content: |
-    <img src=https://i.redditmedia.com/DERMzBMM1ahBdEdXnZ45cTBKXsqFkvoLHRtB_i4mbS8.jpg?s=f079488aa0c54c5f03ecbc4a856de8e4 frameborder=0>
-- entry_name: |
     75 million year old serrated Tyrannosaur tooth is prepared for display
   entry_id: 8z5ego
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTartSizzlingGoa&url=https%3A%2F%2Fgfycat.com%2FTartSizzlingGoa&image=https%3A%2F%2Fthumbs.gfycat.com%2FTartSizzlingGoa-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=750 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    I applaud this man
-  entry_id: 8za36e
+    Germany: We can no longer fully rely on U.S. White House
+  entry_id: 8z9w7f
   entry_content: |
-    <img src=https://i.redditmedia.com/lqgHUM1TjNeVxxPlbCVxNI75q_EMjgSG3QGQFPUu-TM.png?s=48239f4f37054f295cf4cbcca4505ce3 frameborder=0>
+    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
 - entry_name: |
     Using reviews
   entry_id: 8z88z4
@@ -147,20 +142,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5Ma5vW9cchTiwTgOtKVI5cQCc3oFDg7cRr1JR9RWl9U.jpg?s=bab742953936f9076c4afe22e128bbae frameborder=0>
 - entry_name: |
-    Germany: We can no longer fully rely on U.S. White House
-  entry_id: 8z9w7f
+    Don't let Donald Trump pick a Supreme Court justice unless and until Mueller clears him
+  entry_id: 8zam74
   entry_content: |
-    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
+    <img src=https://i.redditmedia.com/aUINSZm-WJJLJ3sa31K6slAg1TxOjFh4VHjVdoE46vU.jpg?s=2eb46fbf021f16b26149f419ae619e68 frameborder=0>
 - entry_name: |
     Gravity well
   entry_id: 8z4xt7
   entry_content: |
     <iframe src=https://v.redd.it/2ll2v08dd6a11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Don't let Donald Trump pick a Supreme Court justice unless and until Mueller clears him
-  entry_id: 8zam74
-  entry_content: |
-    <img src=https://i.redditmedia.com/aUINSZm-WJJLJ3sa31K6slAg1TxOjFh4VHjVdoE46vU.jpg?s=2eb46fbf021f16b26149f419ae619e68 frameborder=0>
 - entry_name: |
     “You can only enter this website if you’re 18 or older!”
   entry_id: 8z5aac
@@ -181,73 +171,83 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BqKw5uVsv_VL8FuWMWxg_s0KrXfCSggqwxkW2kviX7E.jpg?s=cab5b3d6113f231ee0ea07454205801e frameborder=0>
 - entry_name: |
+    Family photo
+  entry_id: 8z8ep1
+  entry_content: |
+    <img src=https://i.redditmedia.com/zyBAuO3zubSBx60MjEDR8U0_nkJ-O0xj4CyifO93u7o.jpg?s=b97f112e5daffc6a429e39660c8070c9 frameborder=0>
+- entry_name: |
     So good.
   entry_id: 8z4ucz
   entry_content: |
     <img src=https://i.redditmedia.com/AlKaJknXBGlIWfLWuedxPRwVr91ujb_RXE_ejgK75wo.png?s=63d14a729615571c6d8455216e212392 frameborder=0>
 - entry_name: |
-    Family photo
-  entry_id: 8z8ep1
+    US Republicans endorse arming toddlers on Sacha Baron Cohen show
+  entry_id: 8zb638
   entry_content: |
-    <img src=https://i.redditmedia.com/zyBAuO3zubSBx60MjEDR8U0_nkJ-O0xj4CyifO93u7o.jpg?s=b97f112e5daffc6a429e39660c8070c9 frameborder=0>
+    <img src=https://i.redditmedia.com/2Gg0qRGW_aKJxClPJZsXH6lJTwED07qO097UVr7wmDY.jpg?s=f2d6cc9cf6a8b002c2314ab94ff94739 frameborder=0>
 - entry_name: |
     Next level swing
   entry_id: 8z4sij
   entry_content: |
     <iframe src=https://v.redd.it/xuukhbex96a11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Ironic.
+  entry_id: 8z9cjx
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kh7dOt14R3boi0CrTouEl1eDlrADxtYnP6G6EQSaLGI.png?s=487d63905688563281a777aacf84ce17 frameborder=0>
+- entry_name: |
     Throw Another Moon at Me and I'm Gonna Lose It - Cardboard Iron Man Build Complete (@ Kryrocreations)
   entry_id: 8z4xee
   entry_content: |
     <img src=https://i.redditmedia.com/-AgpTCuvkYZiOMRvw4fTYt8o4X9eDbFWzLdX3sVJuzg.jpg?s=dd41c7ba26f73447cc6967cbe7b92eac frameborder=0>
 - entry_name: |
-    Reebok's trashy advertisement.
-  entry_id: 8z444z
+    And she said you gotta take me to the corner store for some candy and she need Newports too!
+  entry_id: 8zasuf
   entry_content: |
-    <img src=https://i.redditmedia.com/PuREvj5fn5y2e0FTn1RcG0frkd6d-ePSiObn1hI6RLw.jpg?s=e2db21ad020b659d89052f57bfbfe8bd frameborder=0>
+    <img src=https://i.redditmedia.com/xh9nbbYbyizQG-ocEtWmz25ZQYRGxLOLH--v8jmTd2A.jpg?s=ea3d26b65f36a4a2aeee07f05db746b4 frameborder=0>
 - entry_name: |
     Russia must 'account for role' in MH17 tragedy: G7
   entry_id: 8z4en2
   entry_content: |
     null
 - entry_name: |
-    15 hours later, my son’s nursery.
-  entry_id: 8zbali
+    The theme to MIB the animated show had no right to be so good.
+  entry_id: 8zahhk
   entry_content: |
-    <img src=https://i.redditmedia.com/xpn-TI-u8vMxuBbl4RJEqZjbkXFcUlRyqeHWzJQEDMs.jpg?s=7a0eafc8135a3c60063a1b2bb3217260 frameborder=0>
-- entry_name: |
-    Ironic.
-  entry_id: 8z9cjx
-  entry_content: |
-    <img src=https://i.redditmedia.com/Kh7dOt14R3boi0CrTouEl1eDlrADxtYnP6G6EQSaLGI.png?s=487d63905688563281a777aacf84ce17 frameborder=0>
-- entry_name: |
-    Trying to keep up with the rotation of a toy.
-  entry_id: 8z452z
-  entry_content: |
-    <iframe src=https://v.redd.it/votr2aqsu5a11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Germany: We can no longer fully rely on U.S. White House
-  entry_id: 8z9iuc
-  entry_content: |
-    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
-- entry_name: |
-    One of my Facebook friends has been a professional sound engineer for probably 20 years...
-  entry_id: 8z5tfp
-  entry_content: |
-    <img src=https://i.redditmedia.com/MuiHp-xtoQrTp2th5FDBIuBl7ke-Ko4KJ9j_GuRrouE.jpg?s=2d2cd12701ac9aafb3d96bd47256128b frameborder=0>
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/TwP4vSfjygY?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     World Cup: France's Kylian Mbappe, 19-year-old phenom, will donate World Cup earnings to charity
   entry_id: 8z9k3b
   entry_content: |
     <img src=https://i.redditmedia.com/DNDr8M5yrQ8B5Hq7PWh_dC6YCU5p1Ltc0PAtgMf8K4s.jpg?s=bd5661d71089ffd44f7e7c5e9c288677 frameborder=0>
 - entry_name: |
+    The Vertical Stairs of Mount Hua, China
+  entry_id: 8z9xco
+  entry_content: |
+    <img src=https://i.redditmedia.com/_et_tRX0wcG4OCkJ4YJ_In-bvZo7IuExWyqFoIBD0_A.jpg?s=6fe599fd69fedb788ce79e5d6ed233ae frameborder=0>
+- entry_name: |
+    Germany: We can no longer fully rely on U.S. White House
+  entry_id: 8z9iuc
+  entry_content: |
+    <img src=https://i.redditmedia.com/yw50wKM9klDtBuWsX_pI0b9UxQPSEtf7ppYrQwudz9c.jpg?s=5893cebefc7a5056d754149f9fca64a0 frameborder=0>
+- entry_name: |
     Seriously.....
   entry_id: 8z8rwu
   entry_content: |
     <img src=https://i.redditmedia.com/DzEBNPsqAIgAXX2rXoQo9nz5LRukQd5yi40osOy3FA8.jpg?s=d9b74cc2048c111d5950903fe1c3eea8 frameborder=0>
 - entry_name: |
-    Sleep deprivation may contribute to Alzheimer’s disease by robbing the brain of the time it needs to wash away sticky proteins/plaques.
-  entry_id: 8z6l6x
+    Mbappe High fiving the intruder during FIFA final
+  entry_id: 8z9wup
   entry_content: |
-    <img src=https://i.redditmedia.com/IwMch1MRyhbSckcqu9_g-Cxp7K1pINLdXGm3Zuqu8p0.jpg?s=45045d29f9fb5e3cc41e0059cd6b10b5 frameborder=0>
+    <iframe src=https://v.redd.it/3ftxxicbiaa11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    One of my Facebook friends has been a professional sound engineer for probably 20 years...
+  entry_id: 8z5tfp
+  entry_content: |
+    <img src=https://i.redditmedia.com/MuiHp-xtoQrTp2th5FDBIuBl7ke-Ko4KJ9j_GuRrouE.jpg?s=2d2cd12701ac9aafb3d96bd47256128b frameborder=0>
+- entry_name: |
+    Homemade levees during flooding
+  entry_id: 8zabsc
+  entry_content: |
+    <img src=https://i.redditmedia.com/czhZKtU7hhP-Aa9CicLqAjvz65VRE2Gkrh8E5MxScQg.jpg?s=447cc0a2314651bee640bc9abf27492d frameborder=0>
 ---
