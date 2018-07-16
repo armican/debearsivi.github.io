@@ -3,11 +3,6 @@ layout: post
 title: 17 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    I haven’t met my new neighbor yet, but her dogs love me
-  entry_id: 8z3t32
-  entry_content: |
-    <img src=https://i.redditmedia.com/tMPNVAoG5QMdyMyrsa-CvHZCOdVPihX0LWOw7B-Tugw.jpg?s=82131af6f63442433826d9d5e7787a73 frameborder=0>
-- entry_name: |
     TIL Madonna leaked a fake version of her album to pirates where every song was a loop of her saying What the fuck do you think you're doing? In response, a hacker posted the real album on her own site for everyone to download with the message: This is what the fuck I think I'm doing.
   entry_id: 8z3z7n
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 8z9k3b
   entry_content: |
     <img src=https://i.redditmedia.com/DNDr8M5yrQ8B5Hq7PWh_dC6YCU5p1Ltc0PAtgMf8K4s.jpg?s=bd5661d71089ffd44f7e7c5e9c288677 frameborder=0>
+- entry_name: |
+    Seriously.....
+  entry_id: 8z8rwu
+  entry_content: |
+    <img src=https://i.redditmedia.com/DzEBNPsqAIgAXX2rXoQo9nz5LRukQd5yi40osOy3FA8.jpg?s=d9b74cc2048c111d5950903fe1c3eea8 frameborder=0>
 ---
