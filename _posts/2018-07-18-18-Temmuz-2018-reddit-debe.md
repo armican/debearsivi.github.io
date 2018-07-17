@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
 - entry_name: |
-    Family is what's truly important
-  entry_id: 8zcx1i
-  entry_content: |
-    <img src=https://i.redditmedia.com/k9kf2mTrXUKT9hPnPTDmV3sbwQWwS9iBNmzxkx2nNR4.jpg?s=24cc14995e401a8852783968e6d1758d frameborder=0>
-- entry_name: |
     Black Excellence!
   entry_id: 8zdzpv
   entry_content: |
@@ -127,10 +122,6 @@ data:
   entry_id: 8zh5ba
   entry_content: |
     <img src=https://i.redditmedia.com/SZsq74S-enOfyC94N-vlTl0QP68XMZd6K6b2jV3taGo.jpg?s=03a48dbbf1b255d2d4bc259e3310c707 frameborder=0>
-- entry_name: |
-  entry_id: 8zczpq
-  entry_content: |
-    null
 - entry_name: |
   entry_id: 8zfa47
   entry_content: |
@@ -250,4 +241,14 @@ data:
   entry_id: 8zgs7c
   entry_content: |
     <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
+- entry_name: |
+    My friend Mike matched with a past one-night-stand
+  entry_id: 8zedpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/wIKUzQXbE2LjhNaEO4AfTDKIJSJq7fqp6A_DCSsL5jA.jpg?s=2264f70b550d032c6bec3d4ec7d00e4b frameborder=0>
+- entry_name: |
+    To be sassy
+  entry_id: 8zjuvp
+  entry_content: |
+    <img src=https://i.redditmedia.com/y_5dFAn8GNSZqNqETzq78wnkNG7IB4LJWJnQvLMT_iE.jpg?s=806fb3d6d63900a953a5f5346c5274bf frameborder=0>
 ---
