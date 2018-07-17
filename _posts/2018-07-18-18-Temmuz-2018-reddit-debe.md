@@ -53,11 +53,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIncompatibleOrdinaryGourami&url=https%3A%2F%2Fgfycat.com%2FIncompatibleOrdinaryGourami&image=https%3A%2F%2Fthumbs.gfycat.com%2FIncompatibleOrdinaryGourami-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Kayaking in a boat's wake
-  entry_id: 8ze5ak
-  entry_content: |
-    <iframe src=https://v.redd.it/rymqc0vp6da11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Doggo Cosplay
   entry_id: 8zewp8
   entry_content: |
@@ -207,11 +202,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/d5f6j3j8cda11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Chocolate bar found in Montréal gas station.
-  entry_id: 8ze5mx
-  entry_content: |
-    <img src=https://i.redditmedia.com/zussVoPZnEUzyIOmqsGEbGwoYGRAzLeCRm6jlxTB1So.jpg?s=56ec660f2ae4cabdcd2c37e9740648bf frameborder=0>
-- entry_name: |
     We’re safe!
   entry_id: 8zgju2
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8zgs7c
   entry_content: |
     <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
+- entry_name: |
+    My friend Mike matched with a past one-night-stand
+  entry_id: 8zedpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/wIKUzQXbE2LjhNaEO4AfTDKIJSJq7fqp6A_DCSsL5jA.jpg?s=2264f70b550d032c6bec3d4ec7d00e4b frameborder=0>
+- entry_name: |
+    We just watched a U.S. president acting on behalf of a hostile power
+  entry_id: 8zk5bc
+  entry_content: |
+    null
 ---
