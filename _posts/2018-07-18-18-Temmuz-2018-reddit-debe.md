@@ -108,11 +108,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0B2Z2AOfPJn5p0qzd_M_UKvXtGjRbeZBr0ZoI4vUI2A.jpg?s=88bf29d62bb94a4ec7e7f7ac5bdf8338 frameborder=0>
 - entry_name: |
-    In The Dark Knight, the Joker says he hates schemers and claims he's a man without a plan. Later on during the boat scene, he is shown reading his monologue from a notebook, highlighting his hypocrisy
-  entry_id: 8zdk2w
-  entry_content: |
-    <img src=https://i.redditmedia.com/e-IaauKhfQ4ho0GPqWIJs3c0uFzH5-Ku2fDXG_cbEZo.png?s=aebd40cc7f1c66db4e5363bf79b9673b frameborder=0>
-- entry_name: |
     Russian National Charged in Conspiracy to Act as an Agent of the Russian Federation Within the United States | OPA
   entry_id: 8zdlx9
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8zf5qj
   entry_content: |
     <img src=https://i.redditmedia.com/lcxe-Qyx6F50eW4i7lzCwqTicYSoBdNarKRvRNCel1k.jpg?s=b8f72520720b9c98f2a3eae76dd69503 frameborder=0>
+- entry_name: |
+    I did something wrong?
+  entry_id: 8zio21
+  entry_content: |
+    <img src=https://i.redditmedia.com/8RBxEQkweYrn9cqrI2EnJ1Hc2OZ_IZHiVXimU6h7nxQ.jpg?s=853ed10bd2dd06abae7cecf431241a18 frameborder=0>
 ---
