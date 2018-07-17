@@ -83,11 +83,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Black Excellence!
-  entry_id: 8zdzpv
-  entry_content: |
-    <img src=https://i.redditmedia.com/t-qCugean76ylClOzjYjJiZ2AaSDGTpo6PtMkg71s3s.jpg?s=088860b84d4493a982f2829c051e8d46 frameborder=0>
-- entry_name: |
     Alabama college student walked 20 miles to 1st day of work so his boss gave him his car
   entry_id: 8zen3i
   entry_content: |
@@ -97,11 +92,6 @@ data:
   entry_id: 8zhb3c
   entry_content: |
     <img src=https://i.redditmedia.com/baxIGsi2T-aKLbDfetsKslgZ0oME9vgtjW7hDCpgDK8.jpg?s=0c2c1f536fcc2037f23f28c7ca8388b3 frameborder=0>
-- entry_name: |
-    Do as I Say, not as I do
-  entry_id: 8ze2ro
-  entry_content: |
-    <img src=https://i.redditmedia.com/0B2Z2AOfPJn5p0qzd_M_UKvXtGjRbeZBr0ZoI4vUI2A.jpg?s=88bf29d62bb94a4ec7e7f7ac5bdf8338 frameborder=0>
 - entry_name: |
     Japanese mini-truck garden contest
   entry_id: 8zh5ba
@@ -251,4 +241,14 @@ data:
   entry_id: 8zj4nr
   entry_content: |
     <img src=https://i.redditmedia.com/50T2LpgmGg5ZwlEokzDHGsrVm9kL4MDsYZXFtNF1PAg.jpg?s=52a3dff4294502b7bbdcb5360874f52c frameborder=0>
+- entry_name: |
+    Ripped guy with a boom box 1980s San Fransico, Ca
+  entry_id: 8zf5qj
+  entry_content: |
+    <img src=https://i.redditmedia.com/lcxe-Qyx6F50eW4i7lzCwqTicYSoBdNarKRvRNCel1k.jpg?s=b8f72520720b9c98f2a3eae76dd69503 frameborder=0>
+- entry_name: |
+    🚨 CONFIRMED 🚨 Hillary Clinton met with Russian agent during 2016 campaign.
+  entry_id: 8zgs7c
+  entry_content: |
+    <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
 ---
