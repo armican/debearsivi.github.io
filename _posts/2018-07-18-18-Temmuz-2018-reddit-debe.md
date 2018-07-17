@@ -93,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2J-lR3UHR7h2QzWbfjt8fWtpukkdhK9paZDjs31FK1I.jpg?s=b41fd0e00bd6ff26f6fb30aa9332153d frameborder=0>
 - entry_name: |
-    Alabama college student walked 20 miles to 1st day of work so his boss gave him his car
-  entry_id: 8zen3i
-  entry_content: |
-    <img src=https://i.redditmedia.com/pf8ZBh79274g_xRJio5SgwctlJZHzXBrsaEDSk66FEU.jpg?s=c1c1caadadd9ab39c5ded0c8b527a758 frameborder=0>
-- entry_name: |
     Save the Onion..
   entry_id: 8zhb3c
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8zl7sp
   entry_content: |
     <img src=https://i.redditmedia.com/DGHQ40j2FbcFTYSMy-mzptKkPR6e6Y8FQzgJf4dex6Q.jpg?s=001283a37ea4de43ea4a581f8f4c50cf frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 8zhx47
+  entry_content: |
+    <img src=https://i.redditmedia.com/l8KdPAvu-lbNkpi2kzSLHPusxgf49QfJxXmim7J1ieQ.jpg?s=5b1a76e32ef2b7df34c4c81ed7f4d598 frameborder=0>
 ---
