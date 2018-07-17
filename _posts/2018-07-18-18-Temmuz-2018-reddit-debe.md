@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6I1I8WUL9JWCqV3O8ri2PadZd-K5BrgbnLI0rmG_cJo.jpg?s=ce81557ddb2afbb678719e416e99b82b frameborder=0>
 - entry_name: |
-    Russian National Charged in Conspiracy to Act as an Agent of the Russian Federation Within the United States
-  entry_id: 8zdot5
-  entry_content: |
-    <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
-- entry_name: |
     Black Excellence!
   entry_id: 8zdzpv
   entry_content: |
@@ -107,11 +102,6 @@ data:
   entry_id: 8ze2ro
   entry_content: |
     <img src=https://i.redditmedia.com/0B2Z2AOfPJn5p0qzd_M_UKvXtGjRbeZBr0ZoI4vUI2A.jpg?s=88bf29d62bb94a4ec7e7f7ac5bdf8338 frameborder=0>
-- entry_name: |
-    Russian National Charged in Conspiracy to Act as an Agent of the Russian Federation Within the United States | OPA
-  entry_id: 8zdlx9
-  entry_content: |
-    <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
 - entry_name: |
     Japanese mini-truck garden contest
   entry_id: 8zh5ba
@@ -251,4 +241,14 @@ data:
   entry_id: 8zio21
   entry_content: |
     <img src=https://i.redditmedia.com/8RBxEQkweYrn9cqrI2EnJ1Hc2OZ_IZHiVXimU6h7nxQ.jpg?s=853ed10bd2dd06abae7cecf431241a18 frameborder=0>
+- entry_name: |
+    🚨 CONFIRMED 🚨 Hillary Clinton met with Russian agent during 2016 campaign.
+  entry_id: 8zgs7c
+  entry_content: |
+    <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
+- entry_name: |
+    First Impression
+  entry_id: 8zkh7e
+  entry_content: |
+    <img src=https://i.redditmedia.com/On3rDlXZDuFuRlzvMDzO6R5a44W6rBKtJLARjuEShDQ.jpg?s=1e3865f270880b03dc5ac016ad933323 frameborder=0>
 ---
