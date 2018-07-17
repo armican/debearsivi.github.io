@@ -33,35 +33,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/H5PXXM8Mil4Z-3dvCOryyDQf58CMW3dkGrzvb4CX5oA.gif?fm=jpg&s=ff330230cb3ca482167119324e06f778 frameborder=0>
 - entry_name: |
+    Thought we were exclusive, Don.
+  entry_id: 8zjyke
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIlliterateFlickeringFish&url=https%3A%2F%2Fgfycat.com%2FIlliterateFlickeringFish&image=https%3A%2F%2Fthumbs.gfycat.com%2FIlliterateFlickeringFish-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     DaddyOfFive is apparently still uploading the same child abuse content on a new channel called FamilyOfFive
   entry_id: 8zgnhz
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/nwycCbRS5q0?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    Kayaking in a boat's wake
-  entry_id: 8ze5ak
-  entry_content: |
-    <iframe src=https://v.redd.it/rymqc0vp6da11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Caught in the act!
   entry_id: 8zhl7q
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIncompatibleOrdinaryGourami&url=https%3A%2F%2Fgfycat.com%2FIncompatibleOrdinaryGourami&image=https%3A%2F%2Fthumbs.gfycat.com%2FIncompatibleOrdinaryGourami-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    Kayaking in a boat's wake
+  entry_id: 8ze5ak
+  entry_content: |
+    <iframe src=https://v.redd.it/rymqc0vp6da11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Doggo Cosplay
   entry_id: 8zewp8
   entry_content: |
     <img src=https://i.redditmedia.com/liKU-Eo7jH1RLR2on7V524v6Ze_FWFjTxlCH0i0htNo.jpg?s=3baa737a633cbc6c51b8bb870533920f frameborder=0>
 - entry_name: |
-    Thought we were exclusive, Don.
-  entry_id: 8zjyke
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FIlliterateFlickeringFish&url=https%3A%2F%2Fgfycat.com%2FIlliterateFlickeringFish&image=https%3A%2F%2Fthumbs.gfycat.com%2FIlliterateFlickeringFish-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Massive iceberg drifting near a village in Greenland
   entry_id: 8zg0l6
   entry_content: |
     <iframe src=https://v.redd.it/h6wcqldaaea11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The likeness is uncanny
+  entry_id: 8zjunj
+  entry_content: |
+    <img src=https://i.redditmedia.com/oc1gXaigDkndduLcT3UR1oeibMcFBd5drCOOI1KMkLQ.jpg?s=313a017f15b9cd2137562495b306bbe3 frameborder=0>
 - entry_name: |
     Yes Edward!
   entry_id: 8zfomg
@@ -83,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/k9kf2mTrXUKT9hPnPTDmV3sbwQWwS9iBNmzxkx2nNR4.jpg?s=24cc14995e401a8852783968e6d1758d frameborder=0>
 - entry_name: |
-    My memory card hasn't been taken out since 2002
-  entry_id: 8zcu12
-  entry_content: |
-    <img src=https://i.redditmedia.com/_VzIKFao6orJ8pM9HRTUAV70anXM0-r6Zv4UHM39F-4.jpg?s=9b56718a8a54c69c6e59c486959591f7 frameborder=0>
-- entry_name: |
     Black Excellence!
   entry_id: 8zdzpv
   entry_content: |
@@ -98,15 +98,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pf8ZBh79274g_xRJio5SgwctlJZHzXBrsaEDSk66FEU.jpg?s=c1c1caadadd9ab39c5ded0c8b527a758 frameborder=0>
 - entry_name: |
-    The likeness is uncanny
-  entry_id: 8zjunj
+    One day there is going to be a reboot of the Harry Potter movies, and an entire generation of us is going to hate everything about it
+  entry_id: 8zk5ll
   entry_content: |
-    <img src=https://i.redditmedia.com/oc1gXaigDkndduLcT3UR1oeibMcFBd5drCOOI1KMkLQ.jpg?s=313a017f15b9cd2137562495b306bbe3 frameborder=0>
+    null
 - entry_name: |
     Do as I Say, not as I do
   entry_id: 8ze2ro
   entry_content: |
     <img src=https://i.redditmedia.com/0B2Z2AOfPJn5p0qzd_M_UKvXtGjRbeZBr0ZoI4vUI2A.jpg?s=88bf29d62bb94a4ec7e7f7ac5bdf8338 frameborder=0>
+- entry_name: |
+    Save the Onion..
+  entry_id: 8zhb3c
+  entry_content: |
+    <img src=https://i.redditmedia.com/baxIGsi2T-aKLbDfetsKslgZ0oME9vgtjW7hDCpgDK8.jpg?s=0c2c1f536fcc2037f23f28c7ca8388b3 frameborder=0>
 - entry_name: |
     In The Dark Knight, the Joker says he hates schemers and claims he's a man without a plan. Later on during the boat scene, he is shown reading his monologue from a notebook, highlighting his hypocrisy
   entry_id: 8zdk2w
@@ -117,11 +122,6 @@ data:
   entry_id: 8zdlx9
   entry_content: |
     <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
-- entry_name: |
-    Save the Onion..
-  entry_id: 8zhb3c
-  entry_content: |
-    <img src=https://i.redditmedia.com/baxIGsi2T-aKLbDfetsKslgZ0oME9vgtjW7hDCpgDK8.jpg?s=0c2c1f536fcc2037f23f28c7ca8388b3 frameborder=0>
 - entry_name: |
     Japanese mini-truck garden contest
   entry_id: 8zh5ba
@@ -146,15 +146,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zhopXHxBT-olIl_CnCCbhJ1lHSWSCXgk7kBvQHwSXNs.jpg?s=256e199f0031a0f635eb83b2d4a012cb frameborder=0>
 - entry_name: |
-    Watching the United States as an outsider.
-  entry_id: 8zg7og
+    Protests erupt outside of White House as Trump returns from Putin summit
+  entry_id: 8zkfi9
   entry_content: |
-    <img src=https://i.redditmedia.com/U89xv74OIfEHrzHCdb572xD5iAAI6PykoYko65HAxmI.jpg?s=3436e715c468c574dcf002d599b55cfe frameborder=0>
+    <img src=https://i.redditmedia.com/4pDTsLr_H8ehSDaE-nAC6bE4LEssgNo3xzU4PqxdFrM.jpg?s=36fc27298d6f8fcd4b411f0d062e1bad frameborder=0>
 - entry_name: |
     Creating earth porn time lapses.
   entry_id: 8zi6x2
   entry_content: |
     <iframe src=https://v.redd.it/j6uj3bawtfa11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Watching the United States as an outsider.
+  entry_id: 8zg7og
+  entry_content: |
+    <img src=https://i.redditmedia.com/U89xv74OIfEHrzHCdb572xD5iAAI6PykoYko65HAxmI.jpg?s=3436e715c468c574dcf002d599b55cfe frameborder=0>
+- entry_name: |
+    Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States - Remote-access software and modems on election equipment 'is the worst decision for security short of leaving ballot boxes on a Moscow street corner.'
+  entry_id: 8zl3kt
+  entry_content: |
+    null
+- entry_name: |
+    Inside a cave in Iceland
+  entry_id: 8zj9dg
+  entry_content: |
+    <img src=https://i.redditmedia.com/coc3l5qsLs7UJeN80ODVjYHCwb0Ss1vBhodEONByVv8.jpg?s=6d4a63163afe3f110d87756a88d7a0a4 frameborder=0>
 - entry_name: |
     'The Big Lebowski' To Be Re-Released in Theaters Nationwide on August 5, 2018 & August 8, 2018
   entry_id: 8zfud7
@@ -176,10 +191,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RNvOJTQsXvLTFZoOa61AFr_SLZDiUswoWPNv8BWJYks.jpg?s=3cdaa2c17a1742f1867690645af98a40 frameborder=0>
 - entry_name: |
-    One day there is going to be a reboot of the Harry Potter movies, and an entire generation of us is going to hate everything about it
-  entry_id: 8zk5ll
+    meirl
+  entry_id: 8zjfw3
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/-hIAcPnuaFt8hAi9tlCvFi85cE5ZCj_Ey7mDfpukkdA.png?s=7785ff5314ad06512f1e66cfea0d35c2 frameborder=0>
+- entry_name: |
+    President Obama meets with his successor after the 2016 election
+  entry_id: 8zgp0x
+  entry_content: |
+    <img src=https://i.redditmedia.com/mzfOCRlU7BrDdKdbuQFZtKoinnLKmtAEtWaCqqd-pQs.jpg?s=f5ff3eb04b944b7b7b0e89b7e3a8ba53 frameborder=0>
 - entry_name: |
     Bowling between your legs.
   entry_id: 8zefj6
@@ -191,63 +211,43 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zussVoPZnEUzyIOmqsGEbGwoYGRAzLeCRm6jlxTB1So.jpg?s=56ec660f2ae4cabdcd2c37e9740648bf frameborder=0>
 - entry_name: |
-    President Obama meets with his successor after the 2016 election
-  entry_id: 8zgp0x
-  entry_content: |
-    <img src=https://i.redditmedia.com/mzfOCRlU7BrDdKdbuQFZtKoinnLKmtAEtWaCqqd-pQs.jpg?s=f5ff3eb04b944b7b7b0e89b7e3a8ba53 frameborder=0>
-- entry_name: |
     We’re safe!
   entry_id: 8zgju2
   entry_content: |
     <img src=https://i.redditmedia.com/8UiHrpRPVYJg01Zh3KLGiLQhjeo1-x0sVCTCHsVrw5o.jpg?s=203a92edfc8ad9c7ff0a0d9df3f538bc frameborder=0>
-- entry_name: |
-    PeRsOn FucKiNg DiEs AfTeR rEaDiNg CoMmeNt
-  entry_id: 8zdvzn
-  entry_content: |
-    <img src=https://i.redditmedia.com/vJ3i_TfqnYMPCHpvzez8XnEJy0IBf24gH1MRamfCJwI.jpg?s=d2966c345840f3f1a1d014ee5f65f301 frameborder=0>
-- entry_name: |
-    My sister was so excited to visit Scranton Business Park.
-  entry_id: 8zeyme
-  entry_content: |
-    <img src=https://i.redditmedia.com/_IrtTclUP2xj530F7uFJSsPZiygyZaECnYSS4_yoZ_w.jpg?s=624fdf8b5688d8dfd601fa809953d109 frameborder=0>
 - entry_name: |
     PsBattle: Cute cat soaking up the sun
   entry_id: 8zgkmk
   entry_content: |
     <img src=https://i.redditmedia.com/XanDO62HQdjV7t-A0KHV_r2fQkE4GbevGmskTVDCxQs.jpg?s=80e87d0a39ce893e5ec01fc7a053dc43 frameborder=0>
 - entry_name: |
+    PeRsOn FucKiNg DiEs AfTeR rEaDiNg CoMmeNt
+  entry_id: 8zdvzn
+  entry_content: |
+    <img src=https://i.redditmedia.com/vJ3i_TfqnYMPCHpvzez8XnEJy0IBf24gH1MRamfCJwI.jpg?s=d2966c345840f3f1a1d014ee5f65f301 frameborder=0>
+- entry_name: |
+    A+ for effort
+  entry_id: 8zkcz0
+  entry_content: |
+    <img src=https://i.redditmedia.com/2J-lR3UHR7h2QzWbfjt8fWtpukkdhK9paZDjs31FK1I.jpg?s=b41fd0e00bd6ff26f6fb30aa9332153d frameborder=0>
+- entry_name: |
+    My sister was so excited to visit Scranton Business Park.
+  entry_id: 8zeyme
+  entry_content: |
+    <img src=https://i.redditmedia.com/_IrtTclUP2xj530F7uFJSsPZiygyZaECnYSS4_yoZ_w.jpg?s=624fdf8b5688d8dfd601fa809953d109 frameborder=0>
+- entry_name: |
     Ripped guy with a boom box 1980s San Fransico, Ca
   entry_id: 8zf5qj
   entry_content: |
     <img src=https://i.redditmedia.com/lcxe-Qyx6F50eW4i7lzCwqTicYSoBdNarKRvRNCel1k.jpg?s=b8f72520720b9c98f2a3eae76dd69503 frameborder=0>
-- entry_name: |
-    My friend Mike matched with a past one-night-stand
-  entry_id: 8zedpj
-  entry_content: |
-    <img src=https://i.redditmedia.com/wIKUzQXbE2LjhNaEO4AfTDKIJSJq7fqp6A_DCSsL5jA.jpg?s=2264f70b550d032c6bec3d4ec7d00e4b frameborder=0>
-- entry_name: |
-    Protests erupt outside of White House as Trump returns from Putin summit
-  entry_id: 8zkfi9
-  entry_content: |
-    <img src=https://i.redditmedia.com/4pDTsLr_H8ehSDaE-nAC6bE4LEssgNo3xzU4PqxdFrM.jpg?s=36fc27298d6f8fcd4b411f0d062e1bad frameborder=0>
-- entry_name: |
-    🚨 CONFIRMED 🚨 Hillary Clinton met with Russian agent during 2016 campaign.
-  entry_id: 8zgs7c
-  entry_content: |
-    <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
 - entry_name: |
     The world's deepest pool.
   entry_id: 8zhwrw
   entry_content: |
     <iframe src=https://v.redd.it/2jl23caylfa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    After 6 hours on a bus driving through the crowd, Croatian soccer players arrive at the main square. Almost 15% (550k) of the entire population greeted them today.
-  entry_id: 8zdzmv
+    🚨 CONFIRMED 🚨 Hillary Clinton met with Russian agent during 2016 campaign.
+  entry_id: 8zgs7c
   entry_content: |
-    <iframe src=https://v.redd.it/aowus6vi3da11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    meirl
-  entry_id: 8zjfw3
-  entry_content: |
-    <img src=https://i.redditmedia.com/-hIAcPnuaFt8hAi9tlCvFi85cE5ZCj_Ey7mDfpukkdA.png?s=7785ff5314ad06512f1e66cfea0d35c2 frameborder=0>
+    <img src=https://i.redditmedia.com/rLzqYQtUrAkWTxhxUzonkG32xLEEeRk3D4IoX_bsldg.jpg?s=c31d503b9a11ef38205b0880225117ae frameborder=0>
 ---
