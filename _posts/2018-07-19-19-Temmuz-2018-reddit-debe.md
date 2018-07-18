@@ -3,11 +3,6 @@ layout: post
 title: 19 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    Who needs a fishing pole anyway.
-  entry_id: 8zn50h
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCrispHairyAnole&url=https%3A%2F%2Fgfycat.com%2FCrispHairyAnole&image=https%3A%2F%2Fthumbs.gfycat.com%2FCrispHairyAnole-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=344 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Firefighters driving to a call
   entry_id: 8zphju
   entry_content: |
@@ -207,11 +202,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/MdBpUpSBKkSKPXK1bAwthHifftkvsIPN5PGxNcNb0xc.jpg?s=53583f68de50fb42d7924040a1c06f44 frameborder=0>
 - entry_name: |
-    Wholesome DeVito
-  entry_id: 8znabq
-  entry_content: |
-    <img src=https://i.redditmedia.com/FhqLbo4GFPg0MLZa4Nb6Z4ys7UOz6kBK6tbvHoneSek.jpg?s=8226c194e0ad50d299454ef1926290c8 frameborder=0>
-- entry_name: |
     Child neglecting YouTubers still producing videos while on probation.
   entry_id: 8zqijv
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 8zpiyc
   entry_content: |
     <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
+- entry_name: |
+    Democrats want Trump's interpreter to testify before Congress
+  entry_id: 8zoyml
+  entry_content: |
+    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
+- entry_name: |
+    This Korean streamer surprises his new English speaking viewers with some John Denver.
+  entry_id: 8zqtpf
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DBlushingYawningSrirachaKeyboardCat%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FBlushingYawningSrirachaKeyboardCat&image=https%3A%2F%2Fclips-media-assets2.twitch.tv%2FAT-cm%257C270324115-preview.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
