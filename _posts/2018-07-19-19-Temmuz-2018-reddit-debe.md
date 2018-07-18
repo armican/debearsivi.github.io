@@ -18,16 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5nleRWG2Ni4Av8vLCw7oLdHOWqbE3O1agdifVDiDGn0.jpg?s=6df5493d247e0adc68eb31aefc50bf2a frameborder=0>
 - entry_name: |
-    35¢ surprise soda machine
-  entry_id: 8zorq9
-  entry_content: |
-    <img src=https://i.redditmedia.com/Sm4aYE5XOkfsLCaREF9xnkht8tTzqwxC1ahY2xuFl_Y.jpg?s=914682aa4139c15a2f9adef16e925bdf frameborder=0>
-- entry_name: |
-    Incredible Elastigirl Cosplay
-  entry_id: 8zovcx
-  entry_content: |
-    <img src=https://i.redditmedia.com/_o9xJU2cc1QEvVdgagyAqm4PC3JZ0KLB7GlWBiydjnw.jpg?s=809ed42d6fee74c0ec40653d48fe3a41 frameborder=0>
-- entry_name: |
     Scissors beats paper
   entry_id: 8zs0ps
   entry_content: |
@@ -92,11 +82,6 @@ data:
   entry_id: 8zrb90
   entry_content: |
     <img src=https://i.redditmedia.com/GojNCshqtqcoXWNlAzHlGH_t1UkbUUuAQrlOxIZiJPU.jpg?s=0c0ea39494a00aaf52f8e68ecc35a106 frameborder=0>
-- entry_name: |
-    Italain street artist Cibo of Verona covering up neo-nazi graffite with fruit.
-  entry_id: 8zotmy
-  entry_content: |
-    <iframe src=https://v.redd.it/auyrnbiijka11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Huge mistake
   entry_id: 8zqz6v
@@ -241,13 +226,28 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DBlushingYawningSrirachaKeyboardCat%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FBlushingYawningSrirachaKeyboardCat&image=https%3A%2F%2Fclips-media-assets2.twitch.tv%2FAT-cm%257C270324115-preview.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Wholesome Bulbasaur
-  entry_id: 8zoulp
-  entry_content: |
-    <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
-- entry_name: |
     Where Fortnite Really Gets Their Skin Ideas From...
   entry_id: 8zpiyc
   entry_content: |
     <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
+- entry_name: |
+    Player 2 has entered
+  entry_id: 8zrlpw
+  entry_content: |
+    <iframe src=https://v.redd.it/3h92zrosbma11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Donald Trump falsely claims that the Queen inspected the Guard of Honour for the first time in 70 years because of his visit
+  entry_id: 8zrqmy
+  entry_content: |
+    <img src=https://i.redditmedia.com/wdEFuPdzcJ94fHugySCpcrD2EaU9IRGl3SeBkL5OZ2Q.jpg?s=4e1ffcfb0f107ba4deedcc8e0687d960 frameborder=0>
+- entry_name: |
+    This lad mad af
+  entry_id: 8ztuz0
+  entry_content: |
+    <img src=https://i.redditmedia.com/_Kd4iBV4H3MCDEwbDFtH4WeCGVc2iGxOqEmKmE6NKRo.jpg?s=936ac62fe5e70cd834235f27df05db67 frameborder=0>
+- entry_name: |
+    Democrats want Trump's interpreter to testify before Congress
+  entry_id: 8zoyml
+  entry_content: |
+    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
 ---
