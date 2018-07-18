@@ -43,50 +43,55 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/re7mZ64fTir3SZoB_VWDB4v75-QLbljazGOkrBKT3hc.jpg?s=57a348187f9475234721c9ccea2b6c94 frameborder=0>
 - entry_name: |
-    Phil Mickelson's trickshot over a man
-  entry_id: 8zoqa6
-  entry_content: |
-    <iframe src=https://v.redd.it/okkto6nndka11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Queen Elizabeth wore brooch from Obamas on the day Trump arrived in the UK
   entry_id: 8zswyi
   entry_content: |
     <img src=https://i.redditmedia.com/cmXptxR4SdSW0aEL1h_loUJfGifNHkfkOgP3KpmsJVw.jpg?s=91229a4cd2c645291ea776fd6098bec4 frameborder=0>
 - entry_name: |
-    The single most rage-inducing sentence of my childhood.
-  entry_id: 8zticx
+    Phil Mickelson's trickshot over a man
+  entry_id: 8zoqa6
   entry_content: |
-    <img src=https://i.redditmedia.com/GQ5MBRRQ99P0und2k8UOCZdRfFctVgUQ6aWhwNO_EJM.jpg?s=779b70f82a970a32d1bab9166eafb115 frameborder=0>
+    <iframe src=https://v.redd.it/okkto6nndka11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Tunnel Snakes
+  entry_id: 8zugro
+  entry_content: |
+    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Steel cup looks transparent inside this bowl
   entry_id: 8ztgja
   entry_content: |
     <img src=https://i.redditmedia.com/is2-6wZPXyga6mHl0L_rOZ_a9hKVYT6u9u4kWo3ky0o.jpg?s=b6dc9582bd0e0c0ab5ecfe968dd01f1f frameborder=0>
 - entry_name: |
+    Waveless surfing
+  entry_id: 8zueqw
+  entry_content: |
+    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
+- entry_name: |
+    The single most rage-inducing sentence of my childhood.
+  entry_id: 8zticx
+  entry_content: |
+    <img src=https://i.redditmedia.com/GQ5MBRRQ99P0und2k8UOCZdRfFctVgUQ6aWhwNO_EJM.jpg?s=779b70f82a970a32d1bab9166eafb115 frameborder=0>
+- entry_name: |
     Found some of my dad’s old hand-drawn maps for the original Legend of Zelda lol
   entry_id: 8zoo89
   entry_content: |
     <img src=https://i.redditmedia.com/qJ1u0SWMCmdNaRL4_YOtuenAG3uvI1KGmUHRtxe0eBw.jpg?s=bafd0c5c5fd6e8d60caeac0ba06d139b frameborder=0>
-- entry_name: |
-    My husband is real mature. Couldn't leave the Crayola Experience without naming his own color. Payton is my moms dog that will hump literally anything.
-  entry_id: 8zpwxw
-  entry_content: |
-    <img src=https://i.redditmedia.com/F0gDM_o_wIIjH6zgEt8mfbtMgd2P2SvQ0fANsLkYtG0.jpg?s=a335d70e820984ace93500810a738a06 frameborder=0>
 - entry_name: |
     Aww!!!
   entry_id: 8zrvhn
   entry_content: |
     <iframe src=https://v.redd.it/z4kjbganjma11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
+    My husband is real mature. Couldn't leave the Crayola Experience without naming his own color. Payton is my moms dog that will hump literally anything.
+  entry_id: 8zpwxw
+  entry_content: |
+    <img src=https://i.redditmedia.com/F0gDM_o_wIIjH6zgEt8mfbtMgd2P2SvQ0fANsLkYtG0.jpg?s=a335d70e820984ace93500810a738a06 frameborder=0>
+- entry_name: |
     If you DDoS a company you can be tried with a Felony, but if a company throttles the internet you just have to deal with it.
   entry_id: 8zr7pd
   entry_content: |
     null
-- entry_name: |
-    Tunnel Snakes
-  entry_id: 8zugro
-  entry_content: |
-    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Italain street artist Cibo of Verona covering up neo-nazi graffite with fruit.
   entry_id: 8zotmy
@@ -97,11 +102,6 @@ data:
   entry_id: 8zrb90
   entry_content: |
     <img src=https://i.redditmedia.com/GojNCshqtqcoXWNlAzHlGH_t1UkbUUuAQrlOxIZiJPU.jpg?s=0c0ea39494a00aaf52f8e68ecc35a106 frameborder=0>
-- entry_name: |
-    Waveless surfing
-  entry_id: 8zueqw
-  entry_content: |
-    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
 - entry_name: |
     Huge mistake
   entry_id: 8zqz6v
@@ -152,6 +152,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uBvWr_PYNqdxcpy6_114CpndNj9rQxTyLQlcuN2RBvM.jpg?s=6c34702695bc44a4e32a7820f0e87122 frameborder=0>
 - entry_name: |
+    Trump refuses to call Russia an adversary during interview, because they really helped the U.S. in World War Two
+  entry_id: 8zv0p1
+  entry_content: |
+    <img src=https://i.redditmedia.com/j7JGaFTbRbA0Fh1MBEOQmWj5_sBGANeQUfpvJf8CKys.jpg?s=aaa6776904e5bec6f8abba1073844178 frameborder=0>
+- entry_name: |
     Meirl
   entry_id: 8zpknn
   entry_content: |
@@ -162,15 +167,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/uqt9qs7rmja11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Tesla investors demand Elon Musk apologize for calling Thailand diver 'pedo': Tesla CEO called immature after attacking Vernon Unsworth, who rescued trapped children
-  entry_id: 8zo9or
-  entry_content: |
-    <img src=https://i.redditmedia.com/VxuVk2nThG2AtwE9C23vgeydrGJ44xMcILc2SJJBbr4.jpg?s=84519963c532ab6f1c29b79d2c6f34b8 frameborder=0>
-- entry_name: |
     To get a click on a slow news day
   entry_id: 8zqz5r
   entry_content: |
     <img src=https://i.redditmedia.com/J58PWicH2kjlMOmC3XpcZYzYYVPFYM0chN3a6UrISRk.jpg?s=e01fd9f4c11737e977e00532ea0672b8 frameborder=0>
+- entry_name: |
+    Tesla investors demand Elon Musk apologize for calling Thailand diver 'pedo': Tesla CEO called immature after attacking Vernon Unsworth, who rescued trapped children
+  entry_id: 8zo9or
+  entry_content: |
+    <img src=https://i.redditmedia.com/VxuVk2nThG2AtwE9C23vgeydrGJ44xMcILc2SJJBbr4.jpg?s=84519963c532ab6f1c29b79d2c6f34b8 frameborder=0>
 - entry_name: |
     Head lice infestation
   entry_id: 8zq3iv
@@ -187,40 +192,55 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3EDkMb5dsg-j4-f0s54qUq7eOyElCuB0gUuh3jgoOVA.jpg?s=a090f19eee2b13a7bcf09131af98e976 frameborder=0>
 - entry_name: |
+    Facts.
+  entry_id: 8zt8sx
+  entry_content: |
+    <img src=https://i.redditmedia.com/ljTAz1J0oD2lzwLs0rAaTLFSInMEnw8OzA-0MT_qklc.png?s=a0efaaa1ea04c6efaf5116a579a81ca0 frameborder=0>
+- entry_name: |
     Free my boy Freddie!
   entry_id: 8zpq78
   entry_content: |
     <img src=https://i.redditmedia.com/xeJTL31DUfZYdUkphOZwZz4Q9i5Fb7cyBvITxFMoYaM.jpg?s=d203da2308a6bdf3f65cc1473203d9ee frameborder=0>
 - entry_name: |
-    Let’s name it free throw.
-  entry_id: 8zqrpf
+    Never Give up
+  entry_id: 8zv16q
   entry_content: |
-    <img src=https://i.redditmedia.com/BGHi6lHPXo9rjThbcrlN2pfFxGYnXMhg4HEMFYr2p9Y.png?s=6e27e73769181a4902f09fd6ab4bbf00 frameborder=0>
+    <iframe src=https://v.redd.it/t3yn5q4c9pa11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    An elderly gentleman, and his very unique companion!
+  entry_id: 8ztqpn
+  entry_content: |
+    <iframe src=https://v.redd.it/7g5or42p6oa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     So someone put a life sized dummy of Putin on the Manhattan bull and covered it with dildos
   entry_id: 8zqz1f
   entry_content: |
     <img src=https://i.redditmedia.com/MdBpUpSBKkSKPXK1bAwthHifftkvsIPN5PGxNcNb0xc.jpg?s=53583f68de50fb42d7924040a1c06f44 frameborder=0>
 - entry_name: |
+    Let’s name it free throw.
+  entry_id: 8zqrpf
+  entry_content: |
+    <img src=https://i.redditmedia.com/BGHi6lHPXo9rjThbcrlN2pfFxGYnXMhg4HEMFYr2p9Y.png?s=6e27e73769181a4902f09fd6ab4bbf00 frameborder=0>
+- entry_name: |
     Child neglecting YouTubers still producing videos while on probation.
   entry_id: 8zqijv
   entry_content: |
     <img src=https://i.redditmedia.com/1nhw-89GcKlBAcro3O_8PLuiaDKVUP5bWAKiDpqn2Uk.jpg?s=e2740fb7131806f1814db95b4a454a55 frameborder=0>
 - entry_name: |
-    Facts.
-  entry_id: 8zt8sx
+    because Quan a rich homie
+  entry_id: 8zts7n
   entry_content: |
-    <img src=https://i.redditmedia.com/ljTAz1J0oD2lzwLs0rAaTLFSInMEnw8OzA-0MT_qklc.png?s=a0efaaa1ea04c6efaf5116a579a81ca0 frameborder=0>
-- entry_name: |
-    How to get karma here
-  entry_id: 8znr80
-  entry_content: |
-    <img src=https://i.redditmedia.com/SAea3ZPEwerbP5mZwwnpwxHgdSgpsGr9F_IOKli7XDo.jpg?s=c725213ee47ffbe961c2618192743b04 frameborder=0>
+    <img src=https://i.redditmedia.com/f9p81W2LWyqG79qxPWc6K34XUkwMOut9zb7L95f9cPs.jpg?s=f56121a06617f3b78baa4e61caa0e7cb frameborder=0>
 - entry_name: |
     LPT for free laundry
   entry_id: 8zpzuz
   entry_content: |
     <img src=https://i.redditmedia.com/zlcLCzpidds7LgWWNur_faDA59NVRutYfBejs7dRwsE.jpg?s=638df3a6741f1a67a17744228eaa73de frameborder=0>
+- entry_name: |
+    How to get karma here
+  entry_id: 8znr80
+  entry_content: |
+    <img src=https://i.redditmedia.com/SAea3ZPEwerbP5mZwwnpwxHgdSgpsGr9F_IOKli7XDo.jpg?s=c725213ee47ffbe961c2618192743b04 frameborder=0>
 - entry_name: |
     Every student needs one
   entry_id: 8zqkgy
@@ -231,24 +251,4 @@ data:
   entry_id: 8zoulp
   entry_content: |
     <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
-- entry_name: |
-    The cat in the hat
-  entry_id: 8znycx
-  entry_content: |
-    <iframe src=https://v.redd.it/cjzvjq652ka11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Where Fortnite Really Gets Their Skin Ideas From...
-  entry_id: 8zpiyc
-  entry_content: |
-    <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
-- entry_name: |
-    Democrats want Trump's interpreter to testify before Congress
-  entry_id: 8zoyml
-  entry_content: |
-    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
-- entry_name: |
-    This Korean streamer surprises his new English speaking viewers with some John Denver.
-  entry_id: 8zqtpf
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DBlushingYawningSrirachaKeyboardCat%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FBlushingYawningSrirachaKeyboardCat&image=https%3A%2F%2Fclips-media-assets2.twitch.tv%2FAT-cm%257C270324115-preview.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
