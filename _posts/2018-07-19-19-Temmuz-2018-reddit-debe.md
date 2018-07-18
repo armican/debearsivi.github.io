@@ -122,11 +122,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWillingElderlyIndigowingedparrot&url=https%3A%2F%2Fgfycat.com%2FWillingElderlyIndigowingedparrot&image=https%3A%2F%2Fthumbs.gfycat.com%2FWillingElderlyIndigowingedparrot-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=404 height=718 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Skyrim at it's Best
-  entry_id: 8zobe3
-  entry_content: |
-    <img src=https://i.redditmedia.com/VCkZm6y8IrfWSUCQQ041hCdv8qJBs8npOmc8AUfJzAc.jpg?s=e0317d300d810d61d5891d7444c2c363 frameborder=0>
-- entry_name: |
     Fox getting startled by a tiny bun.
   entry_id: 8zpko5
   entry_content: |
@@ -151,11 +146,6 @@ data:
   entry_id: 8zqz5r
   entry_content: |
     <img src=https://i.redditmedia.com/J58PWicH2kjlMOmC3XpcZYzYYVPFYM0chN3a6UrISRk.jpg?s=e01fd9f4c11737e977e00532ea0672b8 frameborder=0>
-- entry_name: |
-    Tesla investors demand Elon Musk apologize for calling Thailand diver 'pedo': Tesla CEO called immature after attacking Vernon Unsworth, who rescued trapped children
-  entry_id: 8zo9or
-  entry_content: |
-    <img src=https://i.redditmedia.com/VxuVk2nThG2AtwE9C23vgeydrGJ44xMcILc2SJJBbr4.jpg?s=84519963c532ab6f1c29b79d2c6f34b8 frameborder=0>
 - entry_name: |
     because Quan a rich homie
   entry_id: 8zts7n
@@ -251,4 +241,14 @@ data:
   entry_id: 8zrlpw
   entry_content: |
     <iframe src=https://v.redd.it/3h92zrosbma11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Democrats want Trump's interpreter to testify before Congress
+  entry_id: 8zoyml
+  entry_content: |
+    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
+- entry_name: |
+    Many haters at the lower ends of intelligence...
+  entry_id: 8zu40h
+  entry_content: |
+    <img src=https://i.redditmedia.com/Yn3DVWfkuLPDHJpNfofFYR4cbbw91G_f_nN2KFP8rKU.jpg?s=2b48ab21a147080a4f9890f5040f7926 frameborder=0>
 ---
