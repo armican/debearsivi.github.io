@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/6wfPIysFdrSLvbd935ASkQd6szToRD3TUWFmJnu94Rs.jpg?s=61b08f1edb3b5443fc5a2b75197622d4 frameborder=0>
 - entry_name: |
-    Firebender irl
-  entry_id: 8zo49a
-  entry_content: |
-    <iframe src=https://v.redd.it/lf4uy0q85ka11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     The UK heat wave is revealing hidden landscapes from the past
   entry_id: 8zqjus
   entry_content: |
@@ -38,6 +33,16 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUntidyResponsibleGreyhounddog&url=https%3A%2F%2Fgfycat.com%2FUntidyResponsibleGreyhounddog&image=https%3A%2F%2Fthumbs.gfycat.com%2FUntidyResponsibleGreyhounddog-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=406 height=720 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    Waveless surfing
+  entry_id: 8zueqw
+  entry_content: |
+    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
+- entry_name: |
+    Tunnel Snakes
+  entry_id: 8zugro
+  entry_content: |
+    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Queen Elizabeth wore brooch from Obamas on the day Trump arrived in the UK
   entry_id: 8zswyi
   entry_content: |
@@ -48,20 +53,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/okkto6nndka11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Tunnel Snakes
-  entry_id: 8zugro
-  entry_content: |
-    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Steel cup looks transparent inside this bowl
   entry_id: 8ztgja
   entry_content: |
     <img src=https://i.redditmedia.com/is2-6wZPXyga6mHl0L_rOZ_a9hKVYT6u9u4kWo3ky0o.jpg?s=b6dc9582bd0e0c0ab5ecfe968dd01f1f frameborder=0>
-- entry_name: |
-    Waveless surfing
-  entry_id: 8zueqw
-  entry_content: |
-    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
 - entry_name: |
     The single most rage-inducing sentence of my childhood.
   entry_id: 8zticx
@@ -88,15 +83,20 @@ data:
   entry_content: |
     null
 - entry_name: |
+    We’ve peaked
+  entry_id: 8zrb90
+  entry_content: |
+    <img src=https://i.redditmedia.com/GojNCshqtqcoXWNlAzHlGH_t1UkbUUuAQrlOxIZiJPU.jpg?s=0c0ea39494a00aaf52f8e68ecc35a106 frameborder=0>
+- entry_name: |
     Italain street artist Cibo of Verona covering up neo-nazi graffite with fruit.
   entry_id: 8zotmy
   entry_content: |
     <iframe src=https://v.redd.it/auyrnbiijka11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    We’ve peaked
-  entry_id: 8zrb90
+    Trump refuses to call Russia an adversary during interview, because they really helped the U.S. in World War Two
+  entry_id: 8zv0p1
   entry_content: |
-    <img src=https://i.redditmedia.com/GojNCshqtqcoXWNlAzHlGH_t1UkbUUuAQrlOxIZiJPU.jpg?s=0c0ea39494a00aaf52f8e68ecc35a106 frameborder=0>
+    <img src=https://i.redditmedia.com/j7JGaFTbRbA0Fh1MBEOQmWj5_sBGANeQUfpvJf8CKys.jpg?s=aaa6776904e5bec6f8abba1073844178 frameborder=0>
 - entry_name: |
     Huge mistake
   entry_id: 8zqz6v
@@ -112,25 +112,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jyOhD5ecAnTcYJit3T-XrSO8Kg1BJJwMt7Wa0nOTXd4.jpg?s=3a3816a50f2f99cfe8e51accdb140238 frameborder=0>
 - entry_name: |
-    YSK: Disney doesn't play nice with small town theaters. The require theaters to run their movies for a set period of time - as long as 4 weeks straight - even if they only have one screen.
-  entry_id: 8zo6wh
-  entry_content: |
-    <img src=https://i.redditmedia.com/yW1Ux6QGQ08ZTaGKVdgSyRruRZbXoGKXd50ZRDB-fX4.jpg?s=321b94f963464cbbe6622821aa1a78cd frameborder=0>
-- entry_name: |
     It's all right if it's all white
   entry_id: 8zqx2r
   entry_content: |
     <img src=https://i.redditmedia.com/tgcZ7iJLJZYTKRCizOZQbL2YMqmnAkPg2WeNbcPKEe0.png?s=2ca1876cdf3b3c9c4fde668ecbd73645 frameborder=0>
 - entry_name: |
-    Trump explaining why he attacked the US yesterday
-  entry_id: 8zo80m
+    The Madness Behind the Game.
+  entry_id: 8zvm2w
   entry_content: |
-    <img src=https://i.redditmedia.com/E2f7c5rGk8M0SCC_7vnnz4Xh74Hg6A_3lCP90xT4fZQ.jpg?s=1ea392d39d78968715c719f108905e7f frameborder=0>
-- entry_name: |
-    Special counsel Robert Mueller asks for immunity for five potential witnesses in Manafort Case
-  entry_id: 8zo3h8
-  entry_content: |
-    <img src=https://i.redditmedia.com/IXvUJYQh215ictgB0L3LBttnCietp5gMPpfLxXPE9pM.jpg?s=2531f043c26a73a71224d66da2a6fc8f frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWillingElderlyIndigowingedparrot&url=https%3A%2F%2Fgfycat.com%2FWillingElderlyIndigowingedparrot&image=https%3A%2F%2Fthumbs.gfycat.com%2FWillingElderlyIndigowingedparrot-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=404 height=718 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     Skyrim at it's Best
   entry_id: 8zobe3
@@ -147,10 +137,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uBvWr_PYNqdxcpy6_114CpndNj9rQxTyLQlcuN2RBvM.jpg?s=6c34702695bc44a4e32a7820f0e87122 frameborder=0>
 - entry_name: |
-    Trump refuses to call Russia an adversary during interview, because they really helped the U.S. in World War Two
-  entry_id: 8zv0p1
+    Never Give up
+  entry_id: 8zv16q
   entry_content: |
-    <img src=https://i.redditmedia.com/j7JGaFTbRbA0Fh1MBEOQmWj5_sBGANeQUfpvJf8CKys.jpg?s=aaa6776904e5bec6f8abba1073844178 frameborder=0>
+    <iframe src=https://v.redd.it/t3yn5q4c9pa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Meirl
   entry_id: 8zpknn
@@ -167,6 +157,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VxuVk2nThG2AtwE9C23vgeydrGJ44xMcILc2SJJBbr4.jpg?s=84519963c532ab6f1c29b79d2c6f34b8 frameborder=0>
 - entry_name: |
+    because Quan a rich homie
+  entry_id: 8zts7n
+  entry_content: |
+    <img src=https://i.redditmedia.com/f9p81W2LWyqG79qxPWc6K34XUkwMOut9zb7L95f9cPs.jpg?s=f56121a06617f3b78baa4e61caa0e7cb frameborder=0>
+- entry_name: |
+    An elderly gentleman, and his very unique companion!
+  entry_id: 8ztqpn
+  entry_content: |
+    <iframe src=https://v.redd.it/7g5or42p6oa11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Head lice infestation
   entry_id: 8zq3iv
   entry_content: |
@@ -177,50 +177,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_kEW7Cr55KyKBC9YIdKm6HLSr8y3ioI1yhXeEFabmhA.jpg?s=97297072a8d02117b5bb500a92b2abb5 frameborder=0>
 - entry_name: |
-    That‘s a handsome drawing!
-  entry_id: 8zpkne
-  entry_content: |
-    <img src=https://i.redditmedia.com/3EDkMb5dsg-j4-f0s54qUq7eOyElCuB0gUuh3jgoOVA.jpg?s=a090f19eee2b13a7bcf09131af98e976 frameborder=0>
-- entry_name: |
     Facts.
   entry_id: 8zt8sx
   entry_content: |
     <img src=https://i.redditmedia.com/ljTAz1J0oD2lzwLs0rAaTLFSInMEnw8OzA-0MT_qklc.png?s=a0efaaa1ea04c6efaf5116a579a81ca0 frameborder=0>
+- entry_name: |
+    That‘s a handsome drawing!
+  entry_id: 8zpkne
+  entry_content: |
+    <img src=https://i.redditmedia.com/3EDkMb5dsg-j4-f0s54qUq7eOyElCuB0gUuh3jgoOVA.jpg?s=a090f19eee2b13a7bcf09131af98e976 frameborder=0>
 - entry_name: |
     Free my boy Freddie!
   entry_id: 8zpq78
   entry_content: |
     <img src=https://i.redditmedia.com/xeJTL31DUfZYdUkphOZwZz4Q9i5Fb7cyBvITxFMoYaM.jpg?s=d203da2308a6bdf3f65cc1473203d9ee frameborder=0>
 - entry_name: |
-    Never Give up
-  entry_id: 8zv16q
-  entry_content: |
-    <iframe src=https://v.redd.it/t3yn5q4c9pa11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    An elderly gentleman, and his very unique companion!
-  entry_id: 8ztqpn
-  entry_content: |
-    <iframe src=https://v.redd.it/7g5or42p6oa11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     So someone put a life sized dummy of Putin on the Manhattan bull and covered it with dildos
   entry_id: 8zqz1f
   entry_content: |
     <img src=https://i.redditmedia.com/MdBpUpSBKkSKPXK1bAwthHifftkvsIPN5PGxNcNb0xc.jpg?s=53583f68de50fb42d7924040a1c06f44 frameborder=0>
+- entry_name: |
+    Europe hits Google with a record $5 billion fine
+  entry_id: 8zuj8f
+  entry_content: |
+    <img src=https://i.redditmedia.com/9LyS4NV5OJKqeQY9p2MylxINXNTVK0waqZ4L6Y6ZiT4.jpg?s=6c39ac1239d9527f58483a6c56ad7cb9 frameborder=0>
 - entry_name: |
     Let’s name it free throw.
   entry_id: 8zqrpf
   entry_content: |
     <img src=https://i.redditmedia.com/BGHi6lHPXo9rjThbcrlN2pfFxGYnXMhg4HEMFYr2p9Y.png?s=6e27e73769181a4902f09fd6ab4bbf00 frameborder=0>
 - entry_name: |
+    Getting ready
+  entry_id: 8zvhfj
+  entry_content: |
+    <img src=https://i.redditmedia.com/nqTKCI4yx9gAWPQ_PBhAwQHwcLlHUTuYqPfXlZ0e1O0.jpg?s=ea30b99aa0a8d9ada157a5551aaac348 frameborder=0>
+- entry_name: |
     Child neglecting YouTubers still producing videos while on probation.
   entry_id: 8zqijv
   entry_content: |
     <img src=https://i.redditmedia.com/1nhw-89GcKlBAcro3O_8PLuiaDKVUP5bWAKiDpqn2Uk.jpg?s=e2740fb7131806f1814db95b4a454a55 frameborder=0>
-- entry_name: |
-    because Quan a rich homie
-  entry_id: 8zts7n
-  entry_content: |
-    <img src=https://i.redditmedia.com/f9p81W2LWyqG79qxPWc6K34XUkwMOut9zb7L95f9cPs.jpg?s=f56121a06617f3b78baa4e61caa0e7cb frameborder=0>
 - entry_name: |
     LPT for free laundry
   entry_id: 8zpzuz
@@ -232,23 +227,28 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/952pm3qtmla11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Wholesome Bulbasaur
-  entry_id: 8zoulp
-  entry_content: |
-    <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
-- entry_name: |
     This Korean streamer surprises his new English speaking viewers with some John Denver.
   entry_id: 8zqtpf
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DBlushingYawningSrirachaKeyboardCat%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FBlushingYawningSrirachaKeyboardCat&image=https%3A%2F%2Fclips-media-assets2.twitch.tv%2FAT-cm%257C270324115-preview.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Hoarding Level: Pro
+  entry_id: 8zu2vn
+  entry_content: |
+    <img src=https://i.redditmedia.com/7kzhy-Ci_yduzHmZk-9kqphYihqSbffGB1jus8ei4wM.jpg?s=c9ccd6d710b1333dab43598a907dcaf4 frameborder=0>
+- entry_name: |
+    Wholesome Bulbasaur
+  entry_id: 8zoulp
+  entry_content: |
+    <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
 - entry_name: |
     Where Fortnite Really Gets Their Skin Ideas From...
   entry_id: 8zpiyc
   entry_content: |
     <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
 - entry_name: |
-    Democrats want Trump's interpreter to testify before Congress
-  entry_id: 8zoyml
+    Player 2 has entered
+  entry_id: 8zrlpw
   entry_content: |
-    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
+    <iframe src=https://v.redd.it/3h92zrosbma11/DASH_9_6_M frameborder=0></iframe>
 ---
