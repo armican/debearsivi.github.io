@@ -58,6 +58,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cmXptxR4SdSW0aEL1h_loUJfGifNHkfkOgP3KpmsJVw.jpg?s=91229a4cd2c645291ea776fd6098bec4 frameborder=0>
 - entry_name: |
+    The single most rage-inducing sentence of my childhood.
+  entry_id: 8zticx
+  entry_content: |
+    <img src=https://i.redditmedia.com/GQ5MBRRQ99P0und2k8UOCZdRfFctVgUQ6aWhwNO_EJM.jpg?s=779b70f82a970a32d1bab9166eafb115 frameborder=0>
+- entry_name: |
+    Steel cup looks transparent inside this bowl
+  entry_id: 8ztgja
+  entry_content: |
+    <img src=https://i.redditmedia.com/is2-6wZPXyga6mHl0L_rOZ_a9hKVYT6u9u4kWo3ky0o.jpg?s=b6dc9582bd0e0c0ab5ecfe968dd01f1f frameborder=0>
+- entry_name: |
     Found some of my dad’s old hand-drawn maps for the original Legend of Zelda lol
   entry_id: 8zoo89
   entry_content: |
@@ -78,39 +88,39 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The single most rage-inducing sentence of my childhood.
-  entry_id: 8zticx
+    Tunnel Snakes
+  entry_id: 8zugro
   entry_content: |
-    <img src=https://i.redditmedia.com/GQ5MBRRQ99P0und2k8UOCZdRfFctVgUQ6aWhwNO_EJM.jpg?s=779b70f82a970a32d1bab9166eafb115 frameborder=0>
+    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Italain street artist Cibo of Verona covering up neo-nazi graffite with fruit.
   entry_id: 8zotmy
   entry_content: |
     <iframe src=https://v.redd.it/auyrnbiijka11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Steel cup looks transparent inside this bowl
-  entry_id: 8ztgja
-  entry_content: |
-    <img src=https://i.redditmedia.com/is2-6wZPXyga6mHl0L_rOZ_a9hKVYT6u9u4kWo3ky0o.jpg?s=b6dc9582bd0e0c0ab5ecfe968dd01f1f frameborder=0>
-- entry_name: |
     We’ve peaked
   entry_id: 8zrb90
   entry_content: |
     <img src=https://i.redditmedia.com/GojNCshqtqcoXWNlAzHlGH_t1UkbUUuAQrlOxIZiJPU.jpg?s=0c0ea39494a00aaf52f8e68ecc35a106 frameborder=0>
+- entry_name: |
+    Waveless surfing
+  entry_id: 8zueqw
+  entry_content: |
+    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
 - entry_name: |
     Huge mistake
   entry_id: 8zqz6v
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSourGrizzledHarborporpoise&url=https%3A%2F%2Fgfycat.com%2FSourGrizzledHarborporpoise&image=https%3A%2F%2Fthumbs.gfycat.com%2FSourGrizzledHarborporpoise-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=450 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-  entry_id: 8zpanx
-  entry_content: |
-    <img src=https://i.redditmedia.com/jyOhD5ecAnTcYJit3T-XrSO8Kg1BJJwMt7Wa0nOTXd4.jpg?s=3a3816a50f2f99cfe8e51accdb140238 frameborder=0>
-- entry_name: |
     TIL that, because of microfauna that are technically crustaceans, the tap water in NYC - while safe to drink - isn't kosher.
   entry_id: 8zppqc
   entry_content: |
     <img src=https://i.redditmedia.com/AAKRNvCLSnokaxkQwLqrxTq9Udg2FgLxeTl02rJ-33k.jpg?s=199932e08e7580ada773afa35489c4fc frameborder=0>
+- entry_name: |
+  entry_id: 8zpanx
+  entry_content: |
+    <img src=https://i.redditmedia.com/jyOhD5ecAnTcYJit3T-XrSO8Kg1BJJwMt7Wa0nOTXd4.jpg?s=3a3816a50f2f99cfe8e51accdb140238 frameborder=0>
 - entry_name: |
     YSK: Disney doesn't play nice with small town theaters. The require theaters to run their movies for a set period of time - as long as 4 weeks straight - even if they only have one screen.
   entry_id: 8zo6wh
@@ -162,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VxuVk2nThG2AtwE9C23vgeydrGJ44xMcILc2SJJBbr4.jpg?s=84519963c532ab6f1c29b79d2c6f34b8 frameborder=0>
 - entry_name: |
-    Tunnel Snakes
-  entry_id: 8zugro
-  entry_content: |
-    <iframe src=https://v.redd.it/vl2r9yijtoa11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     To get a click on a slow news day
   entry_id: 8zqz5r
   entry_content: |
@@ -186,11 +191,6 @@ data:
   entry_id: 8zpkne
   entry_content: |
     <img src=https://i.redditmedia.com/3EDkMb5dsg-j4-f0s54qUq7eOyElCuB0gUuh3jgoOVA.jpg?s=a090f19eee2b13a7bcf09131af98e976 frameborder=0>
-- entry_name: |
-    Waveless surfing
-  entry_id: 8zueqw
-  entry_content: |
-    <img src=https://i.redditmedia.com/lXLbFwvVcCyepaJ1Bw3liR6TwTXWNNaKPxvo6sT1U9M.png?s=f95ff22a7486caa61515fd8e46787709 frameborder=0>
 - entry_name: |
     Free my boy Freddie!
   entry_id: 8zpq78
@@ -217,6 +217,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1nhw-89GcKlBAcro3O_8PLuiaDKVUP5bWAKiDpqn2Uk.jpg?s=e2740fb7131806f1814db95b4a454a55 frameborder=0>
 - entry_name: |
+    Facts.
+  entry_id: 8zt8sx
+  entry_content: |
+    <img src=https://i.redditmedia.com/ljTAz1J0oD2lzwLs0rAaTLFSInMEnw8OzA-0MT_qklc.png?s=a0efaaa1ea04c6efaf5116a579a81ca0 frameborder=0>
+- entry_name: |
     How to get karma here
   entry_id: 8znr80
   entry_content: |
@@ -226,6 +231,11 @@ data:
   entry_id: 8zpzuz
   entry_content: |
     <img src=https://i.redditmedia.com/zlcLCzpidds7LgWWNur_faDA59NVRutYfBejs7dRwsE.jpg?s=638df3a6741f1a67a17744228eaa73de frameborder=0>
+- entry_name: |
+    Every student needs one
+  entry_id: 8zqkgy
+  entry_content: |
+    <iframe src=https://v.redd.it/952pm3qtmla11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Wholesome Bulbasaur
   entry_id: 8zoulp
@@ -237,18 +247,8 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/cjzvjq652ka11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Every student needs one
-  entry_id: 8zqkgy
-  entry_content: |
-    <iframe src=https://v.redd.it/952pm3qtmla11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Where Fortnite Really Gets Their Skin Ideas From...
   entry_id: 8zpiyc
   entry_content: |
     <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
-- entry_name: |
-    Democrats want Trump's interpreter to testify before Congress
-  entry_id: 8zoyml
-  entry_content: |
-    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
 ---
