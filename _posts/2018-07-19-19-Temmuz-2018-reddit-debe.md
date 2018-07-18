@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUntidyResponsibleGreyhounddog&url=https%3A%2F%2Fgfycat.com%2FUntidyResponsibleGreyhounddog&image=https%3A%2F%2Fthumbs.gfycat.com%2FUntidyResponsibleGreyhounddog-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=406 height=720 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    The Latest: Trump says he misspoke on Russia meddling
-  entry_id: 8znz6k
-  entry_content: |
-    <img src=https://i.redditmedia.com/re7mZ64fTir3SZoB_VWDB4v75-QLbljazGOkrBKT3hc.jpg?s=57a348187f9475234721c9ccea2b6c94 frameborder=0>
-- entry_name: |
     Queen Elizabeth wore brooch from Obamas on the day Trump arrived in the UK
   entry_id: 8zswyi
   entry_content: |
@@ -162,11 +157,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/peyEIYSrWOBv9QXBv7YCqfNLO2Zfp__jUMpUofWuX_M.jpg?s=dae4a8f3266e41bec6d8bbf83c891478 frameborder=0>
 - entry_name: |
-    Party Trick
-  entry_id: 8znxch
-  entry_content: |
-    <iframe src=https://v.redd.it/uqt9qs7rmja11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     To get a click on a slow news day
   entry_id: 8zqz5r
   entry_content: |
@@ -247,8 +237,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
 - entry_name: |
-    The cat in the hat
-  entry_id: 8znycx
+    This Korean streamer surprises his new English speaking viewers with some John Denver.
+  entry_id: 8zqtpf
   entry_content: |
-    <iframe src=https://v.redd.it/cjzvjq652ka11/DASH_1_2_M frameborder=0></iframe>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fclips.twitch.tv%2Fembed%3Fclip%3DBlushingYawningSrirachaKeyboardCat%26autoplay%3Dfalse&url=https%3A%2F%2Fclips.twitch.tv%2FBlushingYawningSrirachaKeyboardCat&image=https%3A%2F%2Fclips-media-assets2.twitch.tv%2FAT-cm%257C270324115-preview.jpg&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=twitch width=600 height=340 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Where Fortnite Really Gets Their Skin Ideas From...
+  entry_id: 8zpiyc
+  entry_content: |
+    <img src=https://i.redditmedia.com/CECVDKtXEQ63Xfbbq9e0Uf37pnVEu4u3Wh-psOmFrtA.jpg?s=4656fe79d276651fa913e2c883e2c3c8 frameborder=0>
+- entry_name: |
+    Democrats want Trump's interpreter to testify before Congress
+  entry_id: 8zoyml
+  entry_content: |
+    <img src=https://i.redditmedia.com/qGR3a5ACyQLQqe-btPMZ_9ozD07dGVi2V1MJSr_KBmo.jpg?s=98633ecb92fcee053ee92a6d42585d05 frameborder=0>
 ---
