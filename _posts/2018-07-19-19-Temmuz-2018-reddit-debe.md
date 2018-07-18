@@ -237,11 +237,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zlcLCzpidds7LgWWNur_faDA59NVRutYfBejs7dRwsE.jpg?s=638df3a6741f1a67a17744228eaa73de frameborder=0>
 - entry_name: |
-    How to get karma here
-  entry_id: 8znr80
-  entry_content: |
-    <img src=https://i.redditmedia.com/SAea3ZPEwerbP5mZwwnpwxHgdSgpsGr9F_IOKli7XDo.jpg?s=c725213ee47ffbe961c2618192743b04 frameborder=0>
-- entry_name: |
     Every student needs one
   entry_id: 8zqkgy
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 8zoulp
   entry_content: |
     <img src=https://i.redditmedia.com/NJPjp5Vs-HXtv19lSYXmxC-DW9BoJCPSgBvtxvDglmg.jpg?s=88e31c018417d573dd4776cb0dc9375c frameborder=0>
+- entry_name: |
+    The cat in the hat
+  entry_id: 8znycx
+  entry_content: |
+    <iframe src=https://v.redd.it/cjzvjq652ka11/DASH_1_2_M frameborder=0></iframe>
 ---
