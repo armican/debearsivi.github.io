@@ -6,7 +6,7 @@ data:
     bayburt'a 300 milyon liraya havalimanı yapmak
   entry_id:  79334284
   entry_writer: anko
-  entry_fav_count: 744
+  entry_fav_count: 750
   entry_content: |
     bayburt'u olduğu gibi kaldırıp, mevcut havalimanlarından birinin yanına tekrar inşaa etselerdi; hem masraf daha az olurdu hem de bayburt'un havalimanı.
   entry_channels: siyaset,ekonomi,seyahat
@@ -14,7 +14,7 @@ data:
     sivas'ta yapılan millet bahçesi
   entry_id:  79340222
   entry_writer: kartalbafilerrr
-  entry_fav_count: 545
+  entry_fav_count: 560
   entry_content: |
     sivas'a yakışacak basitlikte ve kalitesizlikte olmuştur. hayırlı uğurlu olsun.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     hulusi akar'ın kek için tabak istemesi
   entry_id:  79342987
   entry_writer: herturluacilansemsiye
-  entry_fav_count: 353
+  entry_fav_count: 360
   entry_content: |
     29. türk silahlı kuvvetleri genel kurmay başkanı ve yeninin milli savunma bakanının "<a rel="nofollow noopener" class="url" target="_blank" href="http://alkislarlayasiyorum.com/icerik/385695/hulusi-akar-kek-yiyecegiz-tabak-yok-mu-oglum" title="http://alkislarlayasiyorum.com/icerik/385695/hulusi-akar-kek-yiyecegiz-tabak-yok-mu-oglum">tabak yok mu oğlum?</a>" demesi suretiyle gerçekleşendir.<br/><br/>isteme şekli, konuşması, davranışları yoruma açıktır. bana göre kendisi dahi yoruma açıktır, 1977 yılında abdullah gül ile ingiltere'de çekilmiş <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mynet.com/haber/guncel/hulusi-akar-ile-abdullah-gulun-fotografi-nasil-ortaya-cikti-turker-erturk-acikladi-3021728-1" title="http://www.mynet.com/haber/guncel/hulusi-akar-ile-abdullah-gulun-fotografi-nasil-ortaya-cikti-turker-erturk-acikladi-3021728-1">fotoğrafı</a> ilgi çekicidir, o günlerden bu günlere. insan gerçekten hayret ediyor.<br/><br/>ayrıca hulusi akar'ın kim olduğunu üstte belirtme ihtiyacı duydum, çoğu kişi bilemeyebilir, kendisi biraz şeydir. <br/><br/>hani reis'inin ricasıyla gül'ü helikopterle ziyarete gidip aday olmaması için ricada bulunan, kimseyi kıramayan biridir. o kadar kıramaz ki, 2016 yılında her gün şehit haberleri gelirken kendisi tayyip erdoğan'ın biricik kızının düğününe şahitlik yapmaya gitmiştir. bir de yaveri feto itirafçısıdır, o da reisi gibi kandırılmıştır. evet genel kurmay başkanıydı.
   entry_channels: siyaset,haber,yeme-içme
@@ -30,7 +30,7 @@ data:
     en güzel kız isimleri
   entry_id:  79334696
   entry_writer: sovereign itfaiyenin hortumunu
-  entry_fav_count: 333
+  entry_fav_count: 359
   entry_content: |
     maya ne amk. oldu olacak kabartma tozu falan koyun.
   entry_channels: anket
@@ -38,31 +38,15 @@ data:
     sevgilisine sarıldığı için dayak yiyen kadın
   entry_id:  79337106
   entry_writer: osirisinkayiporgani
-  entry_fav_count: 329
+  entry_fav_count: 334
   entry_content: |
     yapılan "ahlaksızlığın" nerelerde yapıldığını/yapılması gerektiğini "evi var oteli var rezidansı var" diyerek tek nefeste sayıyor çomar. sorun kadının sarılması değil kadının onlara sarılmaması.
   entry_channels: ilişkiler,haber
 - entry_name: |
-    kısa paça + dar gömlek + nargile + sert bakış
-  entry_id:  79321011
-  entry_writer: shinji91
-  entry_fav_count: 267
-  entry_content: |
-    (bkz: <a class="b" href="/?q=k%c3%b6z+getir+karde%c5%9fim+seri">köz getir kardeşim seri</a>)
-  entry_channels: anket,yeme-içme,moda
-- entry_name: |
-    28 gün askeri değil teorik eğitim verilecek
-  entry_id:  79333761
-  entry_writer: darth nihilus
-  entry_fav_count: 205
-  entry_content: |
-    saçma sapan bir açıklama. akp içinde herkes başka bir şey söylüyor. reisin çıkıp 28 günü kaldırıyoruz diyerek şov yapacağı kesinleşti.<br/><br/>edit: akp'nin bedelli konusunda tutarlı davrandığını iddia edip beni göt etmeye çalışan yazarlar son birkaç haftada bedelli açıklamalarının kaç farklı yetkili tarafından yapıldığını araştırabilir.
-  entry_channels: siyaset,haber
-- entry_name: |
     gavs'ın meleklere saman taşıtması
   entry_id:  79325408
   entry_writer: gregoryhousemd
-  entry_fav_count: 177
+  entry_fav_count: 180
   entry_content: |
     (bkz: <a class="b" href="/?q=sofi%27nin+d%c3%bcnyas%c4%b1">sofi'nin dünyası</a>) <br/><br/>kitap olan diil tabi.
   entry_channels: siyaset,haber
@@ -83,14 +67,6 @@ data:
     amele kası <a class="b" href="/?q=merk%c3%bcr">merkür</a> gibidir. görünüşte pek bir hacmi yoktur; ama yoğundur, demir topudur.<br/>spor kası <a class="b" href="/?q=j%c3%bcpiter">jüpiter</a> gibidir. hacimlidir, kocamandır; ama gaz devidir.
   entry_channels: spor,anket
 - entry_name: |
-    venezuela'nın altın rezervini türkiye'ye yollaması
-  entry_id:  79337349
-  entry_writer: skandalouz
-  entry_fav_count: 137
-  entry_content: |
-    kurda kuzu emanet ediyorlar
-  entry_channels: haber,ekonomi
-- entry_name: |
     inceciler şu an napıyor sorunsalı
   entry_id:  79336674
   entry_writer: deli ziya
@@ -107,10 +83,18 @@ data:
     bir çaylak parçasının şahsımla “senli” “benli” konuşmasıyla kafama takıldı bu sorun.<br/>bence behemehal ortak bir tabir geliştirilmeli.<br/>abi denebilir, üstad denebilir, efendim denebilir. bu konuda sözlük yönetiminin acilen çözüm üretmedi gerekmektedir. <br/>lavuk bir çaylağın teki geçen mesaj atmış, “kardeş şu entryin çok ağır olmamış mı?” diyor.<br/>bak hele laflara bak hele, “ kardeş” sensin lan it! karşında bi yazar var, önce şu üslubunu bi düzelt! ayrıca senin ne haddine beni eleştirmek?!<br/>lanet gelsin atom fiziğine de, kuantumuna da pırafasörlüğüne de!!
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    izmirlilerin yunanlara benzemesi
+  entry_id:  79325282
+  entry_writer: stephanbathory
+  entry_fav_count: 102
+  entry_content: |
+    suriyelilere benzeyecek olan yeni nesillerden katbekat iyidirler.
+  entry_channels: anket
+- entry_name: |
     erkekler 33 yaşından önce gereksiz ve kullanışsız
   entry_id:  79334584
   entry_writer: nikimi mikimi sorma
-  entry_fav_count: 95
+  entry_fav_count: 96
   entry_content: |
     bir <a class="b" href="/?q=jennifer+lopez">jennifer lopez</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/kadrajmagazin/status/1019815733528756224" title="https://twitter.com/kadrajmagazin/status/1019815733528756224">beyanıdır.</a><br/><br/>sanki mobilyadan bahsediyor göçüm. cinsiyetçi ve erkekleri cinsel bir obje olarak gördüğünü ortaya koyan beyandır, kınıyorum. asdfghjklşi<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>jennifer lopez: “erkekler 33 yaşından önce gereksiz ve son derece kullanışsız. hemcinslerime sesleniyorum, 33 yaşından genç erkeklerden kaçın.”<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>44 yaşındayken 27 yaşındaki dansçı sevgilisi casper smart'ı transseksüellere ilgi duyuyor diye evden atmıştı. sanırım açıklamasının geri planında bu tecrübeler var.
   entry_channels: haber
@@ -118,7 +102,7 @@ data:
     sadece bir tane mensubuyla tanışılmış isimler
   entry_id:  79331597
   entry_writer: devrimhaktan
-  entry_fav_count: 90
+  entry_fav_count: 91
   entry_content: |
     militan idi kızın adı. orta 2.sınıfta gerçekten militan gibi bir kız idi. erkekleri döver, ümüklerini sıkardı. sarah o'connor gibi kızdı vesselam.
   entry_channels: anket
@@ -126,127 +110,119 @@ data:
     alevilerin sünnilere kız vermemesi
   entry_id:  79321150
   entry_writer: dans eden ejderha
-  entry_fav_count: 83
+  entry_fav_count: 86
   entry_content: |
     mezhepçi vb değilim fakat;<br/>alevilerin sünnilere önyargı beslemek için tarih boyunca bulunabilecek yüzlerce kendince haklı sebebi vardır. öte yandan sünniler arasa tarasa kırk kapıyı çalsa bir tane somut sebep sunamaz.<br/><br/>sadece <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/3e3db1ad796" title="https://eksiup.com/3e3db1ad796">şu</a> fotoğrafı bin yıl geçse unutamam.
   entry_channels: siyaset,ilişkiler,tarih
 - entry_name: |
-    trump'ın tutuklu papazla ilgili ikinci tweeti
-  entry_id:  79345067
-  entry_writer: flightair
-  entry_fav_count: 72
+    antalya
+  entry_id:  79335110
+  entry_writer: icimdeki sey gibi bilmem ki ney gibi
+  entry_fav_count: 78
   entry_content: |
-    çok komik lan. uluslar arası ilişkiler tweeter üzerinden yürüyor. okulda ders olarak okutulmalı.
-  entry_channels: siyaset
-- entry_name: |
-    spotify
-  entry_id:  79349860
-  entry_writer: tony1905
-  entry_fav_count: 58
-  entry_content: |
-    eyvah eyvah, üstteki entryden sonra bu gece bu başlık hareketli geçer. çekirdek almaya gideyim.
-  entry_channels: müzik,teknoloji
-- entry_name: |
-    mercedes sahibi ekşi sözlük yazarı
-  entry_id:  79339595
-  entry_writer: adami olmayan icki sigara
-  entry_fav_count: 54
-  entry_content: |
-    baska geliri de olan yazarlardır.<br/>yazar maaşıyla çok zor çünkü.
-  entry_channels: anket,ekşi-sözlük,otomotiv
-- entry_name: |
-    srpski film
-  entry_id:  79348510
-  entry_writer: siyeregrisi
-  entry_fav_count: 52
-  entry_content: |
-    altı üstü bi filmden korkan ergen turnusolu. suriye’de her gün sırpski filmin babası var.
-  entry_channels: sanat,sinema
-- entry_name: |
-    netflix
-  entry_id:  79324482
-  entry_writer: siyah giyen adam
-  entry_fav_count: 44
-  entry_content: |
-    <a class="b" href="/?q=lost">lost</a>: yok<br/><a class="b" href="/?q=how+i+meet+your+mother">how i meet your mother</a>: yok<br/><a class="b" href="/?q=friends">friends</a>: yok<br/><a class="b" href="/?q=the+matrix">the matrix</a>: yok!<br/><a class="b" href="/?q=the+godfather+2">the godfather 2</a>: bu bile yok telifini satayım. nasıl bir telif saçmalığıdır ki bir üçlemenin 1 ve 3.filmleri olmasına rağmen 2.filmi olmaz hem de aylardır? <br/>edit: şimdi baktım <a class="b" href="/?q=the+godfather">the godfather</a> ve <a class="b" href="/?q=the+godfather+part+3">the godfather part 3</a> bölümlerini de kaldırmışlar. kafayı yerun... <br/><br/>bunlar en akla gelen birkaç örnek türkiye sürümü için ve gerçekten bu tür yapımların olmaması acı verici. acı verici çünkü insan bir zamanlar dizimag'tan 360-480p düzeylerinde izlemek zorunda kaldığı ve en sevmiş olduğu dizi olan lost'u televizyonunun karşısına geçip ayaklarını uzatarak takılma donma derdi olmadan 1080p izlemek istiyor... sırf bu yüzden bir iki sene daha gelmezse parayı biriktirip sağlam bir hard disk alarak bir şekilde bu dizileri ve yapımları doldurtup tv'den izlemeyi amaçlıyorum. netflix nelere muhtaç bırakıyor insanı. ne vardı işte bir sabah uyandığımızda kıydırık dandik beş para etmez netflix yapımı filmler yerine morpheus ve neo'nun koca güneş gözlüklü tiplerini görsek? defalarca rüyamda matrix'in netflix'e eklendiğini gördüm ve rüyamda bile sevinçten elim ayağım titriyordu. çünkü bazı yapımlar, yapımdan ötedir. kişiye özel yaşanmışlığı, hatıraları, fikirleri anımsatır. insan her hayatının filminin netflix'te olmasını isteyemez tabi ama koskoca matrix'den bahsediyoruz ulan... ingilizce öğrenirken sevdiğiniz bir filmi defalarca defalarca ingilizce altyazılı izleyin diye tavsiye edilir. işte o film matrix idi, 10 kez üst üste izleyebilirdim ing altyazılı burada. kahvaltıda friends izler hem gülerdik hem de ingilizcemiz iyi kötü gelişirdi. fakat yok. ingilizce altyazılı izlenebilecek doğru düzgün yapım bile yok burada. avatar son hava bükücü ile idare ediyoruz... <br/><br/>netflix yapımı beş para etmez "izle-tüket-geç-" filmlerine ayrılan bütçe şu tür yapımların telif hakkına ayrılsın, türkiye sürümü için gerekirse ekstra paket bilmem ne seçeneği eklensin ama matrix, friends, lost gibi yapımlar eklensin be artık.. hadi bu tür dev yapımların telif sorunları vardır, digiturk - bluttv gibi yerel rakipler vb. yahu en azından şöyle bağımsız, sanatsal filmler eklensin hiç olmazsa? üç renk üçlemesi olsun, wristcutters a love story, magnolia, a torinoi lo gibi telif konusunda çok zorluk çıkarmayacak şöyle kaliteli yapımları kim tercih etmez ki <a class="b" href="/?q=sharknado">sharknado</a> serisi saçmaladığına? blutv'de bile daha fazla bağımsız yapım var.<br/><br/>gece gece amma ağladım ben de ama ne vardı biraz tarantino filmleri olsa, bir tanecik de olsa lars von trier filmi olsa, godfather'ler geri gelse... tv'de izleme rahatlığına rağmen yeni dönemde gelecek zamma karşılık, içerikler eklenmek şöyle dursun böyle azalmaya devam ederse üyeliği iptal ettirmek kaçınılmaz gözüküyor. yakında breaking bad'i de kaldırır bunlar türkiye sürümünden.
-  entry_channels: tv,sinema,teknoloji
-- entry_name: |
-    kruvasan ve kahve ile kahvaltı yapma elitistliği
-  entry_id:  79344273
-  entry_writer: dis
-  entry_fav_count: 44
-  entry_content: |
-    bayiliyorsunuz degil mi lan? <br/><br/>asla sahip olamayacaginiz o sozde elitizme bok atmaya? <br/><br/>kultur farki bilader. hepsi o. avrupali kruvasan kahve ile yapar kahvaltisini, sen cay simit ile yaparsin. besin degeri bakimindan da buyuk fark olacagini sanmiyorum ikisi arasinda. <br/><br/>ha, turkiye'de mis gibi cay simit varken ille de kruvasan (kuru hasan) ille de starbucks diyenin aklina sicayim, demek istiyorum ama diyemiyorum cunku sonucta zevk meselesi be oglum. otekisi de ekmek arasi yumurta domuz pastirmasi yer, ondan keyif alir. fakat sonuc olarak damak tadidir bu. <br/><br/>sen, begenmedigi halde sirf sekil gorunmek icin bu sekilde kahvalti edenleri bana parmakla gosterebilirsin muhtemelen fakat ne degisir ki? <br/><br/>alti ustu yemek lan, hatta kahvalti. aramizda kahvaltiyi tamamen kahve sigara ile gecistiren hayvanlar var, siz burada "elitizm" diyorsunuz.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    overrated yiyecek ve içecekler
-  entry_id:  79331252
-  entry_writer: jjonsnow
-  entry_fav_count: 42
-  entry_content: |
-    (bkz: <a class="b" href="/?q=toblerone">toblerone</a>) <br/>(bkz: <a class="b" href="/?q=oreo">oreo</a>) bizim ulkemizde daha güzeli üretiliyor sırf isimden kaybediyor negro .<br/><br/>bu ikisi daha önce de yazılmıştır eminim ama insanın bir daha yazasi geliyor o kadar overratedlar ki
-  entry_channels: anket,yeme-içme
+    overrated değil değeri bilinmeyen bok atılan ve edilendir bile.<br/><br/>türkiye'nin en temiz sahillerine sahip olup tüm ülke insanlarına yetecek kadar kayalık, taşlık ve kumluk plajları ayrı ayrı vardır. <br/><br/>bi tarafında kayak yapılırken bi tarafında denize girilebilir, bi tarafında rafting yapılabilırken bi tarafında tarihi güzellikleri gezilebilir. ülkenin en ünlü gece klüpleri ve dünyanın meşhur yürüyüş yollarından olan likya yolu yine buradadır. ünlü dalış merkezlerine sahiptir. avrupanın en iyi 20 otelinin en az 7-8 tanesi bu ilde bulunur. trafik sorunu yoktur, ulaşımı kolaydır. gece ve su sıcaklığı sayesinde gece rahat rahat denize girmeye olanak verir. ayrıca ülkede adet bazında en çok ağaca sahip il antalya'dır. şelaleleri, mağaraları, falezleri ayrı ayrı meşhurdur. bodrum çeşme vs gibi pahalı değildir, sırt çantanı çadırını alıp çoğu güzellikten bedavaya faydalanabilirsiniz.<br/><br/>sıcaktır ama ülkenin en sıcak yeri değildir, denizseldir. sıcak iklimde nasıl davranılır, yaşanılır bilmeyenler tarafından akşamları acil servisleri doldurulur. öğlenin sıcağında taşa çıkmış tosba gibi güneşlenilmemelidir. zaten bu iklime alışık olmadığınız için, denize girelim, güneşlenelim diye gelmiyo musunız? <br/><br/>gidip kemerin sikindirik bi otelinde kalıp, otelden çıkmadan tatil yapıp koca ile bok atmayın rencide ederim. <br/><br/>'şüphesiz ki dünyanın en güzel kentidir' lafı boşa denilmemiştir.
+  entry_channels: tarih,seyahat
 - entry_name: |
     şirinler köyünü chp yönetse olacaklar
   entry_id:  79349324
   entry_writer: bana bi de bakem
-  entry_fav_count: 39
+  entry_fav_count: 70
   entry_content: |
     gargamel kim olacak herkes biliyor. söylemeye gerek yok, yeterince de uzun zaten.
   entry_channels: siyaset,anket
 - entry_name: |
+    spotify
+  entry_id:  79349860
+  entry_writer: tony1905
+  entry_fav_count: 66
+  entry_content: |
+    eyvah eyvah, üstteki entryden sonra bu gece bu başlık hareketli geçer. çekirdek almaya gideyim.
+  entry_channels: müzik,teknoloji
+- entry_name: |
+    srpski film
+  entry_id:  79348510
+  entry_writer: siyeregrisi
+  entry_fav_count: 63
+  entry_content: |
+    altı üstü bi filmden korkan ergen turnusolu. suriye’de her gün sırpski filmin babası var.
+  entry_channels: sanat,sinema
+- entry_name: |
+    mercedes sahibi ekşi sözlük yazarı
+  entry_id:  79339595
+  entry_writer: adami olmayan icki sigara
+  entry_fav_count: 56
+  entry_content: |
+    baska geliri de olan yazarlardır.<br/>yazar maaşıyla çok zor çünkü.
+  entry_channels: anket,ekşi-sözlük,otomotiv
+- entry_name: |
+    kruvasan ve kahve ile kahvaltı yapma elitistliği
+  entry_id:  79344273
+  entry_writer: dis
+  entry_fav_count: 47
+  entry_content: |
+    bayiliyorsunuz degil mi lan? <br/><br/>asla sahip olamayacaginiz o sozde elitizme bok atmaya? <br/><br/>kultur farki bilader. hepsi o. avrupali kruvasan kahve ile yapar kahvaltisini, sen cay simit ile yaparsin. besin degeri bakimindan da buyuk fark olacagini sanmiyorum ikisi arasinda. <br/><br/>ha, turkiye'de mis gibi cay simit varken ille de kruvasan (kuru hasan) ille de starbucks diyenin aklina sicayim, demek istiyorum ama diyemiyorum cunku sonucta zevk meselesi be oglum. otekisi de ekmek arasi yumurta domuz pastirmasi yer, ondan keyif alir. fakat sonuc olarak damak tadidir bu. <br/><br/>sen, begenmedigi halde sirf sekil gorunmek icin bu sekilde kahvalti edenleri bana parmakla gosterebilirsin muhtemelen fakat ne degisir ki? <br/><br/>alti ustu yemek lan, hatta kahvalti. aramizda kahvaltiyi tamamen kahve sigara ile gecistiren hayvanlar var, siz burada "elitizm" diyorsunuz.
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    netflix
+  entry_id:  79324482
+  entry_writer: siyah giyen adam
+  entry_fav_count: 46
+  entry_content: |
+    <a class="b" href="/?q=lost">lost</a>: yok<br/><a class="b" href="/?q=how+i+meet+your+mother">how i meet your mother</a>: yok<br/><a class="b" href="/?q=friends">friends</a>: yok<br/><a class="b" href="/?q=the+matrix">the matrix</a>: yok!<br/><a class="b" href="/?q=the+godfather+2">the godfather 2</a>: bu bile yok telifini satayım. nasıl bir telif saçmalığıdır ki bir üçlemenin 1 ve 3.filmleri olmasına rağmen 2.filmi olmaz hem de aylardır? <br/>edit: şimdi baktım <a class="b" href="/?q=the+godfather">the godfather</a> ve <a class="b" href="/?q=the+godfather+part+3">the godfather part 3</a> bölümlerini de kaldırmışlar. kafayı yerun... <br/><br/>bunlar en akla gelen birkaç örnek türkiye sürümü için ve gerçekten bu tür yapımların olmaması acı verici. acı verici çünkü insan bir zamanlar dizimag'tan 360-480p düzeylerinde izlemek zorunda kaldığı ve en sevmiş olduğu dizi olan lost'u televizyonunun karşısına geçip ayaklarını uzatarak takılma donma derdi olmadan 1080p izlemek istiyor... sırf bu yüzden bir iki sene daha gelmezse parayı biriktirip sağlam bir hard disk alarak bir şekilde bu dizileri ve yapımları doldurtup tv'den izlemeyi amaçlıyorum. netflix nelere muhtaç bırakıyor insanı. ne vardı işte bir sabah uyandığımızda kıydırık dandik beş para etmez netflix yapımı filmler yerine morpheus ve neo'nun koca güneş gözlüklü tiplerini görsek? defalarca rüyamda matrix'in netflix'e eklendiğini gördüm ve rüyamda bile sevinçten elim ayağım titriyordu. çünkü bazı yapımlar, yapımdan ötedir. kişiye özel yaşanmışlığı, hatıraları, fikirleri anımsatır. insan her hayatının filminin netflix'te olmasını isteyemez tabi ama koskoca matrix'den bahsediyoruz ulan... ingilizce öğrenirken sevdiğiniz bir filmi defalarca defalarca ingilizce altyazılı izleyin diye tavsiye edilir. işte o film matrix idi, 10 kez üst üste izleyebilirdim ing altyazılı burada. kahvaltıda friends izler hem gülerdik hem de ingilizcemiz iyi kötü gelişirdi. fakat yok. ingilizce altyazılı izlenebilecek doğru düzgün yapım bile yok burada. avatar son hava bükücü ile idare ediyoruz... <br/><br/>netflix yapımı beş para etmez "izle-tüket-geç-" filmlerine ayrılan bütçe şu tür yapımların telif hakkına ayrılsın, türkiye sürümü için gerekirse ekstra paket bilmem ne seçeneği eklensin ama matrix, friends, lost gibi yapımlar eklensin be artık.. hadi bu tür dev yapımların telif sorunları vardır, digiturk - bluttv gibi yerel rakipler vb. yahu en azından şöyle bağımsız, sanatsal filmler eklensin hiç olmazsa? üç renk üçlemesi olsun, wristcutters a love story, magnolia, a torinoi lo gibi telif konusunda çok zorluk çıkarmayacak şöyle kaliteli yapımları kim tercih etmez ki <a class="b" href="/?q=sharknado">sharknado</a> serisi saçmaladığına? blutv'de bile daha fazla bağımsız yapım var.<br/><br/>gece gece amma ağladım ben de ama ne vardı biraz tarantino filmleri olsa, bir tanecik de olsa lars von trier filmi olsa, godfather'ler geri gelse... tv'de izleme rahatlığına rağmen yeni dönemde gelecek zamma karşılık, içerikler eklenmek şöyle dursun böyle azalmaya devam ederse üyeliği iptal ettirmek kaçınılmaz gözüküyor. yakında breaking bad'i de kaldırır bunlar türkiye sürümünden.
+  entry_channels: tv,sinema,teknoloji
+- entry_name: |
     bir kadını kırmadan ona çirkin olduğunu söylemek
   entry_id:  79344021
   entry_writer: uroboros
-  entry_fav_count: 38
+  entry_fav_count: 44
   entry_content: |
     ne diye insanlara çirkin olduklarını söylemek istiyorsunuz? zorunuz ne?
   entry_channels: anket,ilişkiler
 - entry_name: |
+    overrated yiyecek ve içecekler
+  entry_id:  79331252
+  entry_writer: jjonsnow
+  entry_fav_count: 43
+  entry_content: |
+    (bkz: <a class="b" href="/?q=toblerone">toblerone</a>) <br/>(bkz: <a class="b" href="/?q=oreo">oreo</a>) bizim ulkemizde daha güzeli üretiliyor sırf isimden kaybediyor negro .<br/><br/>bu ikisi daha önce de yazılmıştır eminim ama insanın bir daha yazasi geliyor o kadar overratedlar ki
+  entry_channels: anket,yeme-içme
+- entry_name: |
     öğretmenlerin 1.5 aydır yatıyor olduğu gerçeği
   entry_id:  79349714
   entry_writer: baklava yiyen kedi
-  entry_fav_count: 33
+  entry_fav_count: 38
   entry_content: |
     oha! öğretmenleri bugün mü gömüyorduk ya? ben kadınlara sararız zannetmiştim, olmadı doktorlara. ama yok, doktorun biri yeni saldırıya uğradı, onun birkaç günü var daha. tabii ya, sıra öğretmenlerde. <br/><br/>önce hiç bilmeden bir adaletsizlik yalanı uyduruyoruz, sonra buna inanıyoruz. en sonunda başkalarını da buna inandırmak adına yalanı yayıyoruz. kapanış olarak da hep beraber bir meslek grubuna -kutsal olduğunu iddia ettiğimiz bir meslek grubuna- hakaretler ederek nefretimizi kusuyoruz. <br/><br/>çok şükür bugün de ezikliğimizi başkalarına saldırarak giderdik. bir an önce yarın olsa da sıradaki hedef kitlemize yönelsek. suriyeliler miydi yarın? ha yok yok tayt giyen kız, evet. <br/><br/>t: kime göredir, neye göredir.
   entry_channels: eğitim
 - entry_name: |
-    charlie hebdo fransa milli takımı karikatürü
-  entry_id:  79345374
-  entry_writer: union of disjoint intervals
-  entry_fav_count: 33
-  entry_content: |
-    yahu fake olduğunu söyleyen entrylerden sonra bile gelip sinirli sinirli yazan var.<br/>şunu anlıyoruz ki okuma alışkanlığı yok. kendi fikri aşırı önemli olduğu için öncekilere bakmadan hemen yazmalı ve fransızlara hadlerini bildirmeli. <br/>yalan haberdir.
-  entry_channels: spor,sanat
-- entry_name: |
     12 yaşındaki çocuğu taciz eden servis şoförü
   entry_id:  79348719
   entry_writer: zlanks the blackboard
-  entry_fav_count: 32
+  entry_fav_count: 36
   entry_content: |
     benim bir fikrim var!<br/>bizdeki adalardan birisini boşaltacaksın. kaçılamayacak şekilde etrafını çevirip doğal bir hapishaneye çevireceksin. ne kadar tacizci, tecavüzcü, sapık varsa bu adaya atacaksın. adanın her yerine kameralar kuracaksın. bir uygulama yapacaksın ve bu uygulamayı premium satın alanlar, evlerinde istedikleri kameraya bağlanıp istediği yeri istediği açıdan izleyebilecekler. küçük görevler ve silahlar droplayacaksın adaya. birbirlerini yesin ibineler. ( öldürmek yerine mesela birisinin başparmağını getirene güvenlikli bir ev vereceksin. palalar, keserler, <br/>muştalar, baseball sopaları vs olacak ) halk oylama yapacak ve seçilen suçluyu bulmaya çalışacaklar. ayda 100 dolar veririm böyle bir şeyi izlemek için. top artık acun ılıcalı'da
   entry_channels: haber
 - entry_name: |
-    bedelli askerlikte 28 günün kaldırılacağı gerçeği
-  entry_id:  79347972
-  entry_writer: grande uomo
-  entry_fav_count: 29
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"yaşadığımız coğrafyada bir gün savaş çıkarsa"<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>siz askerliğini yapmış cengaverler dururken bizim ne haddimize paşam? herkesin dilinde bi savaş lafı, duyan da her sene başka bir ülkeyle savaşıyoruz sanar. savaş mavaş yok gençler, hasetliğinize kılıf uydurmayın. madem <a class="b" href="/?q=adam">adam</a>sınız, "adam" gibi açık açık söyleyin, "bize bedelli vurmadı, o yüzden sizi kıskanıyoruz" diye.
-  entry_channels: siyaset
-- entry_name: |
     tadıldığına pişman eden şeyler
   entry_id:  79323755
   entry_writer: herkesi taniyan hafif kilolu merve
-  entry_fav_count: 28
+  entry_fav_count: 31
   entry_content: |
     zencefili yer elmasi sanıp tadına bakmıştım.<br/>gerçekten kelimelerle tarif edemiyorum.
   entry_channels: anket,yeme-içme
 - entry_name: |
+    ey polisler şeyhe değil devlete bağlı olacaksınız
+  entry_id:  79348200
+  entry_writer: jaatytnytenkeli
+  entry_fav_count: 25
+  entry_content: |
+    peki ya devlet şeyhe bağlıysa?
+  entry_channels: siyaset,haber
+- entry_name: |
     insanların mutsuz olmasının tek sebebi
   entry_id:  79333846
   entry_writer: luckystr1ke
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     çünkü insanlar mutlu olmak yerine başkaları onlardan daha mutsuz olsun istiyorlar.
   entry_channels: anket,ilişkiler,sağlık
@@ -259,14 +235,6 @@ data:
     hay ağzın bal yesin arkadaş. güzel desen değil, fiziği iyi desen değil, rol yeteneği yerlerde. bir de üstüne kendini komik ve sempatik zannediyor. <br/><br/>hiç mi uyaran yok çevresinde bu kadını kendine gel diye?
   entry_channels: magazin
 - entry_name: |
-    ekşi itiraf
-  entry_id:  79321031
-  entry_writer: beni tedavi et
-  entry_fav_count: 20
-  entry_content: |
-    itiraf ediyorum : hayatımda çok sevdiğim, onsuz 2 ay bile geçirmediğim hayat dolu çevresine mutluluk saçan annemin. ani hastalanması sonucu, ileri evre yumurtalık kanseri olduğunu öğrendiğim andan itibaren kendimi toparlayamıyorum, uyuyamıyorum , nefes alamıyorum, en acısı tabiki ona bu durumu göstermiyorum...<br/><br/>not: 24 yaşındayım 3 ablaya sahibim ailenin en küçük ve tek erkek evladıyım...<br/><br/>edit : çok güzel mesajlar alıyorum, aslında bunu buraya yazdığım için utanıyorum da, kendimi acındırıyormuşum gibi geliyor, sadece icime atmak beni daha cok yoruyor hepinize sonsuz tesekkurler.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     fabricio agosto ramirez
   entry_id:  79327714
   entry_writer: trapperbk
@@ -274,6 +242,14 @@ data:
   entry_content: |
     adam ligün en az gol yiyen en çok kurtarış yapan kalecisine bozuk saat gibi 22 yer 2 kurtarır demiş,bozuk saat yine 2 kere işe yararda sen o beyninle ne sikime yararsın allah bilir.
   entry_channels: spor
+- entry_name: |
+    türk kızlarının %90-95'inin taş gibi olması
+  entry_id:  79327933
+  entry_writer: hakorman
+  entry_fav_count: 16
+  entry_content: |
+    alaçatı hacı memiş bölgesinde geçerli olan iddia
+  entry_channels: anket,ilişkiler,magazin
 - entry_name: |
     mesaj atarken efendimiz demeyen küstah çaylak
   entry_id:  79349428
@@ -283,13 +259,13 @@ data:
     ayrıca mesajın sonuna "arz ederim" yazmak zorundadır.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    #bedellide25günkaldırılsın
-  entry_id:  79329863
-  entry_writer: 4891
+    dmd hastası samet'e jeneratör alıyoruz
+  entry_id:  79350410
+  entry_writer: osty
   entry_fav_count: 16
   entry_content: |
-    gün şartının kalkacağı düşüncesindeyim. bir chp millletvekili basın açıklaması ile kalkmasını teklif etti. birkaç akp milletvekili de sosyal medyadan kalkması gerektiğini belirtti. hükümete yakın tv'ler, gazeteler bile ufak ufak "telefonlar kilitlendi, tepki büyük" gibisinden haber yapmaya başladı. neden kalkacağını düşündüğümü de şöyle açıklayayım:<br/><br/>1-milletvekilleri ve siyasetçilerden de bunu bekleyenler var.kimisi kendisi, kimisi çocuğu-torunu için bekliyor.<br/><br/>2-temel eğitimi askeri kanadın istediği söylendi ancak daha önce bedellilerin kışlaya gitmesinin diğer askerlerin moralini bozacağını bizzat eski genelkurmay başkanlarından biri o dönemki bedelli için söylemişti.<br/><br/>3-askeriye de bir şeyleri öngörüyordur. bedelli gidecek olanlarla uzun dönemleri yan yana getirirse sorun çıkacağını biliyorlar.<br/><br/>4-her ay belli sayıda kişiyi eğitime alsalar bile başvuracakları eritmeleri 2 yıl sürebilir.<br/><br/>5-bedelli yapacakların ücretsiz izinli sayılacağı söyleniyor ancak 1 gün bile ücret alamazsa çok zor duruma düşecek olanlar var bunu biliyorlardır.<br/><br/>6- eğitim olunca bedel 15 bin değil 15+kira+masraflar+1 aylık maaş... oluyor bunu da öngörüyorlardır.<br/><br/>7-öğretmenler, akademisyenler vb. meslek gruplarının 1 hafta bile mesleklerini yapamamaları büyük sorunlara yol açacaktır, bunu öngörüyorlardır.<br/><br/>8-kendi işini yapan, esnaf, zanaatkar, çiftçi vb. meslek grupları için bu temel eğitim çok büyük sorunlara yol açacaktır.<br/><br/>9-bu kadar tepki geleceğini hesap etmiş ve ücreti biraz arttırarak konuyu kapatmak istemiş olabilirler.<br/><br/>10-muhalefet değişsin diye teklifte bulunmuşken değiştirmeyip tepki çekmek istemeyeceklerdir.<br/><br/>11-öğrenciler (özellikle yüksek lisans ve doktora) için 28 gün tam olarak bir dönem demek. bunları devamsızlıktan muaf tutsalar bile en az 4 hafta derslerini kaçıracaklar. yani bir dönemleri uçup gidecek.<br/><br/>burada beter olun, etek giyin, korkaklar, domuzlar filan yazanlarla hiç ağız dalaşına da girmeyin. adam eziyeti çekmiş siz de çekin istiyor ya da işsiz-güçsüz, vakti çok burada millete sataşıyor.
-  entry_channels: siyaset,haber
+    samet b. 19 yaşında duchenne musküler distrofi (dmd) hastası. bir çeşit kas hastalığı, günden güne zayıflıyor.<br/><br/>oksijen konsantratörü ve yaşam destek ünitesine bağlı olarak yaşamını sürdürüyor. bu nedenle ailenin en büyük korkusu elektrik kesintisi. ankara'nın mamak ilçesinde yaşıyorlar ve bu aralar epey kesinti oluyormuş. bu durumda apar topar hastaneye yetiştiriyorlar. mamak belediyesi ve büyükşehir belediyesi'ne başvurdum ama sonuç alamadım. baba da elektrik şirketine başvurmuş ama talebi karşılanmamış.<br/><br/>benim de aklıma böyle durumlarda el birliğiyle sorunu çözen ekşi sözlük ailesi geldi. umuyorum ki kısa sürede halledeceğiz. hareketli hasta yatağı ihtiyacı bugün bir yardımsever tarafından karşılandı ve samet epey sevindi. <br/><br/>ayrıca yaşam destek ünitesinde kullanılan bazı medikal sarf malzemelerine <sup class="ab"><a title="(bkz: aspirasyon sondası su kabı vs)" href="/?q=aspirasyon+sondas%c4%b1+su+kab%c4%b1+vs" data-query="aspirasyon sondası su kabı vs">*</a></sup> de ihtiyacı var samet'in. herkes karınca kararınca bir şeyler karşılasa çok mutlu edeceğiz aileyi. maddi manevi epey yorulmuşlar çünkü. sanıyorum çanta tipi 1000-1500 tl'lık bir jeneratör ihtiyacı karşılayacaktır. diğer malzemeler de 25-350 tl arasında değişen tutarlarda. <br/><br/>yardımcı olamıyorsanız da başlığın görülmesi için desteğiniz önemli.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/Azkz0z.jpg" title="http://i.hizliresim.com/Azkz0z.jpg">babayiğit samet</a> koyu bir galatasaraylı ayrıca.<br/><br/><a class="b" href="/?q=edit">edit</a> : arkadaşlar herkese teşekkürler, mesajlar geliyor hesap no isteyen, destek veren. ekşi sözlük ailesinden beklendiği gibi. henüz yardım kampanyası izni alınmadığı içni hesap no paylaşmadım. aslında ayni olarak malzeme listesini veririm göndeririz, bunu da mesajla hallederiz diye düşünüyordum ama jeneratör için birlikten kuvvet doğacak muhtemelen. babaya ulaşamadım henüz, telefonu arızalıydı. hesap numarasını alınca dileyenlere mesaj yoluyla gönderebilirim. ya da başka bir formül bulup anlaşmalı bir medikalciye yönlendirebilirim, oraya malzeme ücretini gönderebilirsiniz. babaya ulaşınca editleyeceğim.<br/><br/><a class="b" href="/?q=edit2">edit2</a>: sabah medikalci ile görüşüp dileyene onun hesap numarasını mesaj olarak gönderme kararı aldık. oradan samet'in kullanacağı sarf malzemeleri temin edilecek. jeneratörü de oraya aldıracağız.
+  entry_channels: ekşi-sözlük,sağlık
 - entry_name: |
     almanca denilince akla ilk gelen kelime
   entry_id:  79321238
@@ -299,14 +275,6 @@ data:
     entschuldigung!
   entry_channels: anket,edebiyat,eğitim
 - entry_name: |
-    türk kızlarının %90-95'inin taş gibi olması
-  entry_id:  79327933
-  entry_writer: hakorman
-  entry_fav_count: 15
-  entry_content: |
-    alaçatı hacı memiş bölgesinde geçerli olan iddia
-  entry_channels: anket,ilişkiler,magazin
-- entry_name: |
     prezervatif hap ve spirale rağmen doğan bebek
   entry_id:  79322892
   entry_writer: ditia
@@ -315,53 +283,45 @@ data:
     beklenti: oğlum kesin çok çalışkan olucak, hiçbir zorluğa boyun eğmeyecek.<br/><br/>gerçekte olan: merhaba arkadaşlar, kanalıma hoş geldiniz. bugün sizlerle babam uyurken götünde torpil patlatma şakası yapıyoruz. en az 3000 beğeni bekliyorum bu videoya.
   entry_channels: anket
 - entry_name: |
-    dmd hastası samet'e jeneratör alıyoruz
-  entry_id:  79350410
-  entry_writer: osty
-  entry_fav_count: 12
-  entry_content: |
-    samet b. 19 yaşında duchenne musküler distrofi (dmd) hastası. bir çeşit kas hastalığı, günden güne zayıflıyor.<br/><br/>oksijen konsantratörü ve yaşam destek ünitesine bağlı olarak yaşamını sürdürüyor. bu nedenle ailenin en büyük korkusu elektrik kesintisi. ankara'nın mamak ilçesinde yaşıyorlar ve bu aralar epey kesinti oluyormuş. bu durumda apar topar hastaneye yetiştiriyorlar. mamak belediyesi ve büyükşehir belediyesi'ne başvurdum ama sonuç alamadım. baba da elektrik şirketine başvurmuş ama talebi karşılanmamış.<br/><br/>benim de aklıma böyle durumlarda el birliğiyle sorunu çözen ekşi sözlük ailesi geldi. umuyorum ki kısa sürede halledeceğiz. hareketli hasta yatağı ihtiyacı bugün bir yardımsever tarafından karşılandı ve samet epey sevindi. <br/><br/>ayrıca yaşam destek ünitesinde kullanılan bazı medikal sarf malzemelerine <sup class="ab"><a title="(bkz: aspirasyon sondası su kabı vs)" href="/?q=aspirasyon+sondas%c4%b1+su+kab%c4%b1+vs" data-query="aspirasyon sondası su kabı vs">*</a></sup> de ihtiyacı var samet'in. herkes karınca kararınca bir şeyler karşılasa çok mutlu edeceğiz aileyi. maddi manevi epey yorulmuşlar çünkü. sanıyorum çanta tipi 1000-1500 tl'lık bir jeneratör ihtiyacı karşılayacaktır. diğer malzemeler de 25-350 tl arasında değişen tutarlarda. <br/><br/>yardımcı olamıyorsanız da başlığın görülmesi için desteğiniz önemli.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/Azkz0z.jpg" title="http://i.hizliresim.com/Azkz0z.jpg">babayiğit samet</a> koyu bir galatasaraylı ayrıca.<br/><br/><a class="b" href="/?q=edit">edit</a> : arkadaşlar herkese teşekkürler, mesajlar geliyor hesap no isteyen, destek veren. ekşi sözlük ailesinden beklendiği gibi. henüz yardım kampanyası izni alınmadığı içni hesap no paylaşmadım. aslında ayni olarak malzeme listesini veririm göndeririz, bunu da mesajla hallederiz diye düşünüyordum ama jeneratör için birlikten kuvvet doğacak muhtemelen. babaya ulaşamadım henüz, telefonu arızalıydı. hesap numarasını alınca dileyenlere mesaj yoluyla gönderebilirim. ya da başka bir formül bulup anlaşmalı bir medikalciye yönlendirebilirim, oraya malzeme ücretini gönderebilirsiniz. babaya ulaşınca editleyeceğim.
-  entry_channels: ekşi-sözlük,sağlık
-- entry_name: |
-    beylikdüzü çok uzak diyen insan tipi
-  entry_id:  79329176
-  entry_writer: silik attin da basin goge mi erdi
-  entry_fav_count: 11
-  entry_content: |
-    arkadaşlar bu tartışmalara hiç gerek yok. 13 yıllık beylikdüzülü biri olarak(evet, geldiğimde şu an 500-600 bin lira olan dairelerin çoğu yoktu ve olanların değeri de 70-80 bindi bi jetkent falan vardı gerisi tarlaydı yerler çamur falan vs vs ) beylikdüzü istanbul'a uzak mı yakın mı sorusuna noktayı koyuyorum.<br/><br/>yaşım 25 ve ben hiç kız kulesini görmedim. taksim'e 2 kez gittim biri okul gezisiydi diğeri boğaziçi elektrikte işim vardı, beyoğlu nerede bilgim yok, kadıköyü görmedim, eminönü sarıyer hatırlamıyorum falan filan. yani bu beylikdüzünden çıkıp " istanbul'u istanbul yapan " hiç bir yere gidip gezmedim. <br/><br/>neden?<br/><br/><a class="b" href="/?q=%c3%a7%c3%bcnk%c3%bc+uzak+am%c4%b1na+koyim">çünkü uzak amına koyim</a>. <br/><br/>tartışmayın artık. evet.
-  entry_channels: anket
-- entry_name: |
-    tıp öğrencisi trans birey için yardım kampanyası
-  entry_id:  79321059
-  entry_writer: jgalt
-  entry_fav_count: 9
-  entry_content: |
-    ben anlamadım şimdi bu arkadaş memeyi yaptırmış kalanı için mi destek bekliyor?<br/><br/>not: dalga geçmiyorum.<br/><br/>edit: bi yazar aydınlattı sağ olsun, düzenli hormon alımıyla memeler ve kalça büyürken penis küçülüyormuş.
-  entry_channels: anket,sağlık,haber
-- entry_name: |
-    erkekler için kaliteli giyecek satan mağazalar
-  entry_id:  79351350
-  entry_writer: nerminator
-  entry_fav_count: 9
-  entry_content: |
-    adam uygun fiyatlı diye belirtmiş yukarıdaki önerilen markalara bak<br/><br/>harvey nichols yazmış biri yok anasının .mı
-  entry_channels: moda
-- entry_name: |
     nietzsche'den bir söz bırak
   entry_id:  79352396
   entry_writer: tabi bilader
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     yukarıda birisi “işgence” yazmış. bütün hevesim kaçtı nietzsche falan düşünemiyorum şuan.
   entry_channels: anket,edebiyat
 - entry_name: |
+    erkekler için kaliteli giyecek satan mağazalar
+  entry_id:  79351350
+  entry_writer: nerminator
+  entry_fav_count: 10
+  entry_content: |
+    adam uygun fiyatlı diye belirtmiş yukarıdaki önerilen markalara bak<br/><br/>harvey nichols yazmış biri yok anasının .mı
+  entry_channels: moda
+- entry_name: |
     mutsuzluk ve depresyona iyi gelen şey
   entry_id:  79349386
   entry_writer: selamun aleykum kitty
-  entry_fav_count: 5
+  entry_fav_count: 8
   entry_content: |
     yay gibi adonisler, fişek gibi abdominallere sarılıp ağlamak
   entry_channels: 
+- entry_name: |
+    kabak tadı veren şeyler
+  entry_id:  79348691
+  entry_writer: csec
+  entry_fav_count: 8
+  entry_content: |
+    mücver
+  entry_channels: 
+- entry_name: |
+    ekşi itiraf
+  entry_id:  79322866
+  entry_writer: zeusun yancisi
+  entry_fav_count: 5
+  entry_content: |
+    bugün siyah pantolonum ve yeşil gömeliğimle kendimi aşırı karizmatik hissettiğim bir gündü. oturduğum kafede masamdan lavaboya gitmek için kalktığımda yan masalarda kız arkadaşıyla oturan elemanın birinin bana el işareti yaptığını fark ettim. dönüp baktığımda, iki çay alabilir miyiz ? dedi. ben de ters ters bakıp kardeş oradan bakınca garsona mı benziyorum deyip istifimi bozmadan lavaboya girdim. masama geri döndüğümde amına kodum kafesindeki garson üniformalarının siyah pantolon yeşil gömlekten oluştuğunu fark ettim. kendimi adamın yerine koyunca kahkaha atasım geliyor. garson olduğundan emin olduğun birine sipariş veriyorsun zeytinburnu ağzıyla kardeş bir durum mu var cevabı alıyorsun hahahaha. durduk yere dandik sitcom sahnesi yaşadım akşam akşam.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     saros körfezi'ne doğalgaz tesisi kurulması
   entry_id:  79334281
@@ -371,21 +331,53 @@ data:
     bugün (19 temmuz 2018) saat 14:00'te sazlıdere köy kahvesinde halkı bilgilendirme toplantısı yapılacakmış.<br/>çed raporunu okudum, bence biz çevre koruma bölgesinin, tabiat parklarının dibine, turizm geliştirme bölgesinin göbeğine 325 metrelik doğalgaz tankerlerinin yanaşacağı gemi limanlarının yapılamayacağını söyleyerek onları bilgilendirelim. <br/>onlar da bize yine çed raporunda yazmayan bu gemilerin risklerini, atıklarını, gemilerin boşaltma sırasında ne kadar deniz suyu kullandığı gibi küçük ayrıntıları paylaşsınlar, ne kadar orman alanına zarar vereceklerini söylesinler. <br/><br/>bunları paylaştıktan sonra yine de bu limanın buraya yapılmasının gerekçelerini utanmadan söyleyebilecekler mi merak ediyorum.<br/><br/>bi ülkenin enerji politikaları olur, çevre politikaları olur, buna göre planlama yapar ve sanayi bölgesi dediği yerlere böyle tesisleri yapar, çevre koruma bölgeleri ise korunur.... devlet hem koruyamıyor hem de koruması gereken bölgeye/varlığa kendisi zarar veriyorsa işini yapamıyor ve "emanete hıyanet ediyor" demektir. önümüzdeki süreçte neler olacak göreceğiz.
   entry_channels: ekonomi
 - entry_name: |
-    ben doktorum ve sizi muayene etmek zorunda değilim
-  entry_id:  79329498
-  entry_writer: yagmursevenadam
+    atiba hutchinson
+  entry_id:  79351510
+  entry_writer: sticky
+  entry_fav_count: 4
+  entry_content: |
+    beşiktaş'a önemli katkılar sağlayan takımda ernst ile birlikte gördüğüm en iyi önlibero ve ahtapot oyuncu, o da herkes gibi insan olduğu için geçen sene lyon maçından beri pili bitti, plaket verip uğurlanmalı, uzun zamandan beri beşiktaş'a bu kadar yakışan, pektemek'in yarısı kadar alıp onun gibi yatmayan, her maç 90 dk aynı düzeyde pestili çıkana kadar sahada herşeyini veren, faul yapmayan, gram çirkefliği olmayan sadece futbol oynayan taraflı tarafsız herkesin saygısını kazanmış oyuncuydu<br/><br/>edit:imlâ
+  entry_channels: spor
+- entry_name: |
+    öğretmen bir kadınla sevişmek
+  entry_id:  79352552
+  entry_writer: eksimtrack
   entry_fav_count: 3
   entry_content: |
-    aslında bu tarz "doktor-hasta" kavgalarında olayın diğer tarafına hiç bakmıyoruz. tabi ki bu çirkin saldırı ve benzerlerini hiç tasvip etmiyorum ama şunu da sormak lazım.<br/><br/>" bu tarz vakalar neden hep devlet hastanelerinde yaşanıyor?"<br/><br/>bunu sormak lazım. demek ki, hastane şartları, imkanları, yetersiz doktor sayısı, inanılmaz derecede fazla hasta sayısı.. bir şeyler düzgün yürümüyor. sağlıkda özelleştirme, doktorlarda memur zihniyetinin kalkmasını düşünmek gerek. ya da yeni bir uygulama. ama bu böyle devam etmemeli. yoksa bu tarz vakaları üzücü bir şekilde daha çokça göreceğiz gibi.
+    sevişirken konuşmamanız önerilir. <br/>-çıkar donunu sözlü yapıcam!
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ben doktorum ve sizi muayene etmek zorunda değilim
+  entry_id:  79351985
+  entry_writer: hfcwota
+  entry_fav_count: 2
+  entry_content: |
+    bir nebze ahlakı, bir nebze insanlığı, bir nebze gelişmişliği olan insan bilir ki, “hekim önemlidir” <br/><br/>ilkel toplumlarda bile farklı adlar altında iş yapsalar da, insanları tedavi edenlere saygı gösterilirdi. <br/><br/>henüz toplum olmaktan uzak kabilenin en saygın kişileriydi “tedavi ediciler” <br/><br/>kabile şefinin bile üstünde bir itibarları vardı. <br/><br/>dokunulmazdılar. <br/><br/>ama biz bugün ilkel kabilelerden bile daha ilkel bir noktaya doğru sürükleniyoruz.<br/><br/>doktarlar dövülüyor, doktorlar öldürülüyor. <br/><br/>yeni de değil bu! <br/><br/>yıllardır sürüyor ve giderek artıyor.<br/><br/>1980’lerdeydi. <br/><br/>mektebi sultani’den bir sınıf arkadaşım, parlak bir doktor. <br/><br/>mecburi hizmeti sırasında yanılmıyorsam mardin’de, kendisine ölü getirilen bir kadını yaşatamadığı için canını sağlık ocağının penceresinden kaçarak kurtarmış, kapıda bekleyen silahlı adamları gece karanlığında atlatarak istanbul’a, oradan da yurt dışına kaçmıştı.<br/><br/>“bu ülkede doktorluk yapacağıma, bakkallık yaparım daha iyi” diyerek ticarete atılmak zorunda kalmıştı. <br/><br/>o günden bugüne değişen bir şey yok. <br/><br/>geriye gidiş var. <br/><br/>dünya çapında profesörlerimiz, kesip attığı tırnak kadar değeri olmayan magandalar tarafından üniversite bahçesinde kurşunlanarak öldürüldü. <br/><br/>yüzlerce doktor darp edildi, dövüldü, öldürüldü. <br/><br/>son olarak da urfa’da bir doktorumuz ağır bir saldırıya maruz kaldı. <br/><br/>bakın ben size bir şey söyleyeyim, doktoruna böyle davranan bir toplumun yaşama hakkı yoktur. <br/><br/>sağlık hizmeti talep etme hakkı yoktur. <br/><br/>hayvanlar bile kendilerini tedavi eden veterineri ısırmazlar. <br/><br/>o yüzden de doktorlara saldıranları kayıt altına alsın sağlık bakanlığı. <br/><br/>isimlerini, sicillerini sisteme işlesinler. <br/><br/>ve hiç bir doktor bu aşağılıklara bakmasın, tedavi etmesin. <br/><br/>topluma bunlar gerekmiyor. <br/><br/>doktoruna bunu yapan toplumun geri kalanına ne yapmaz. <br/><br/>bırakınız ne halleri varsa görsünler. <br/><br/>sürünsünler. <br/><br/>fatih altaylı 19-07-2918
   entry_channels: sağlık
 - entry_name: |
-    bedellide 28 günün kaldırılmayacağı gerçeği
-  entry_id:  79351568
-  entry_writer: ne hortumu kanalizasyon borusu
-  entry_fav_count: 3
+    aöf okuyanların amacı
+  entry_id:  79341401
+  entry_writer: orantisizempatik
+  entry_fav_count: 2
   entry_content: |
-    kaldırılacak arkadaşlar, bakın görün. demedi demeyin. bu entry'i silmiyorum; ben demiştim demek içinde editlemeyeceğim.<br/>bu hükümetin oynadığı güzel bir oyun arkadaşlar. mağduriyeti yaratırlar, çözümü ise yine kendileri çıkarırlar, ve toplumda yüce olurlar. bunu senelerce gördük defalarca örneği var. ölümü gösterip sıtmaya razı olmak gibi bir şey bu.<br/><br/>daha kendi aralarında bile hem fikir değiller ki meclis komisyonunda nasıl tek yumruk olacaklar. pratik değil; teorik olacakmış. teorik olacaksa, neler olacak? ön çalışma yapıldı mı? konular belli oldu mu? fizibilite çalışmaları ve uygunluk raporu çıkarıldı mı? yok. <br/><br/>yaptıkları sadece dezenformasyon, insanların üzülmesi, tepkiye yol açılması. mağduriyetin yaratılması. sonra, hoop bir kişi çıkacak, biz halkı düşünüyoruz diyecek ve oylar yine oraya gidecek.<br/><br/>demedi demeyin; eğitim şartı kalkacak. bakın görün.
-  entry_channels: siyaset,anket
+    hayret kimse yazmamış (bkz: <a class="b" href="/?q=%c3%b6%c4%9frenci+akbili">öğrenci akbili</a>)
+  entry_channels: eğitim
+- entry_name: |
+    19 temmuz 2018 iss'in türkiye'den geçişi
+  entry_id:  79353510
+  entry_writer: taca cikan sutu ceken futbolcu
+  entry_fav_count: 2
+  entry_content: |
+    öyle çok da heyecan yapmaya gerek olmayan geçiş, zira kendisi mütamadiyen türkiye üzerinden geçer. hatta bu gecişleri takip edebilesiniz diye uygulama bile var. android markette bulabilirsiniz.<br/>(bkz: <a class="b" href="/?q=iss+detector">iss detector</a>)
+  entry_channels: haber
+- entry_name: |
+    yakışıklı iki erkeğin kuşadası'nda takılamaması
+  entry_id:  79352697
+  entry_writer: hibernate
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+yazarlar%c4%b1n%c4%b1n+asl%c4%b1nda+demek+istedikleri">sözlük yazarlarının aslında demek istedikleri</a>)<br/>(bkz: <a class="b" href="/?q=o+kadar+yak%c4%b1%c5%9f%c4%b1kl%c4%b1y%c4%b1m+ki+s%c3%b6zl%c3%bck">o kadar yakışıklıyım ki sözlük</a>)<br/>(bkz: <a class="b" href="/?q=inanma+seni+sikecek">inanma seni sikecek</a>)
+  entry_channels: seyahat
 - entry_name: |
     güreşçi vs boksör
   entry_id:  79349352
@@ -394,6 +386,14 @@ data:
   entry_content: |
     güreş ve boks farklı sporlar diyerek tanımına katkıda bulunabileceğim basliktir. <br/><br/>ama aparkati ve direk yumruğu güçlü olan, seri olan bir boksör güreşçiye yıldızları saydırır, diyeyim ben size. <br/><br/>boksör güreşçiyi kendinden uzak tutmayı, mesafeyi korumayı başarırsa yakaladığı en ufak açıkta mahveder :)
   entry_channels: spor,anket
+- entry_name: |
+    yoga yapan erkek
+  entry_id:  79343994
+  entry_writer: viracocha
+  entry_fav_count: 0
+  entry_content: |
+    cinsiyete özel bir uygulama/spor olmadığını düşünen erkektir. utana sıkıla gittim katıldım. utanma sebebim erkek olmam değil, sıfır tecrübe sebebiyle fazla rezil olmasak bari düşüncesi. neyse ilk dersi hiç de utanmadan az hasarla atlattık.
+  entry_channels: spor,sağlık
 - entry_name: |
     çalışmayan bir erkekle evlenmek
   entry_id:  79342058
