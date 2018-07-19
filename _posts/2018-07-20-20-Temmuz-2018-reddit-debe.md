@@ -102,11 +102,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VI3TlUGuUAKiW9gx4IZQhQ6zckHB6y-TDNJOz1xs3_M.png?s=366f8e231e8eaa71f9748b39243655ac frameborder=0>
 - entry_name: |
-    To honor my little brother who lost his battle to depression and pain R.I.P Whitelightnin704.
-  entry_id: 8zym48
-  entry_content: |
-    <img src=https://i.redditmedia.com/J5y7zRR9tFTyhe3vsGmadlisl7pSIEE-cvZ8BF0saas.jpg?s=a4cba4ca5b8a821712fa872ec0f0265c frameborder=0>
-- entry_name: |
     “An almond doesn’t lactate:” FDA to crack down on use of the word “milk”
   entry_id: 9022wd
   entry_content: |
@@ -206,11 +201,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jh0lo7af0wa11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Who has the most embarrassing parents?
-  entry_id: 8zyp00
-  entry_content: |
-    <iframe src=https://v.redd.it/8yqctnktera11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Some leaders prefer chess, others prefer hungry hippos. Travis Chapman, oil, 2018
   entry_id: 9002x3
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 903798
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=%2F%2Fimgur.com%2Fa%2FW4GPjdh%2Fembed&url=https%3A%2F%2Fimgur.com%2Fa%2FW4GPjdh&image=https%3A%2F%2Fi.imgur.com%2FIvBJWES.jpg%3Ffb&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=imgur width=550 height=550 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Before inauguration, Trump reportedly saw evidence Putin personally ordered election interference
+  entry_id: 902a5e
+  entry_content: |
+    <img src=https://i.redditmedia.com/Eqhaqn89pPbIrNp45CyP9T9TCu0X5AEPaX8nxLgNdvQ.jpg?s=78cf1f221ac8b0ae1c37e2e2595a4f95 frameborder=0>
+- entry_name: |
+    Little man gets a big surprise
+  entry_id: 9050ed
+  entry_content: |
+    <iframe src=https://v.redd.it/ol8rwhtq3wa11/DASH_9_6_M frameborder=0></iframe>
 ---
