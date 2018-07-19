@@ -72,11 +72,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JCtgySSKbI0uhdfcRvAySMWNGjDnpF4INFsUQL2cEZU.jpg?s=044865c161797bc0fa8749a54b3bc358 frameborder=0>
 - entry_name: |
-    A soldier is reunited with his dog
-  entry_id: 8zy39r
-  entry_content: |
-    <iframe src=https://v.redd.it/vsg0rfti2ra11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     *hits blunt*
   entry_id: 9009q7
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 905s5q
   entry_content: |
     <img src=https://i.redditmedia.com/vh5NABxmxHFyIlLlcQL0vfsAIx9GaPytSxrBrnwgH_U.jpg?s=1cb60b9f9521f6fe699f9b622165da6a frameborder=0>
+- entry_name: |
+    Wholesome dad
+  entry_id: 903et3
+  entry_content: |
+    <img src=https://i.redditmedia.com/NyPN56S0esCS1upZh1rxXHyLcnx4tJlf0aV_lcghGms.jpg?s=2bac860aeed3235ccd9e00a3be889e46 frameborder=0>
 ---
