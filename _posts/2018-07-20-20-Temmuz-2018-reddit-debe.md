@@ -137,11 +137,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a89FJF8JidqX--I8VWDtG-Xhu-AUIVqEP9fSgsdcg1w.jpg?s=52f2683faf729d28a4d257d111bb0d2a frameborder=0>
 - entry_name: |
-    The precision of this hydraulic press.
-  entry_id: 8zxkr4
-  entry_content: |
-    <iframe src=https://v.redd.it/uyi05gkfsqa11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Someone had a successful Prime Day.
   entry_id: 900b2x
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 903v6w
   entry_content: |
     <iframe src=https://v.redd.it/mlss5j0r1va11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Wholesome dad
+  entry_id: 903et3
+  entry_content: |
+    <img src=https://i.redditmedia.com/NyPN56S0esCS1upZh1rxXHyLcnx4tJlf0aV_lcghGms.jpg?s=2bac860aeed3235ccd9e00a3be889e46 frameborder=0>
 ---
