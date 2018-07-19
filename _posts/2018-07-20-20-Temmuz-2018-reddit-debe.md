@@ -152,11 +152,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZBF6JP4GRze9C8r4XdwDeyZvNQbUOzovK9RMNdk-ZNo.jpg?s=1594bc8d27d5733591bdd8e59d8f7167 frameborder=0>
 - entry_name: |
-    My thoughts & prayers are with those ears
-  entry_id: 8zycj8
-  entry_content: |
-    <img src=https://i.redditmedia.com/8CqIbxKsDuSiTJgUuMRezzpSmCf-YXEbB7APwhzrEgE.jpg?s=4185bca4be452cd94e95129fd5215fa6 frameborder=0>
-- entry_name: |
     10 Mile Camera Zoom
   entry_id: 9025u9
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 903et3
   entry_content: |
     <img src=https://i.redditmedia.com/NyPN56S0esCS1upZh1rxXHyLcnx4tJlf0aV_lcghGms.jpg?s=2bac860aeed3235ccd9e00a3be889e46 frameborder=0>
+- entry_name: |
+    Before inauguration, Trump reportedly saw evidence Putin personally ordered election interference
+  entry_id: 902a5e
+  entry_content: |
+    <img src=https://i.redditmedia.com/Eqhaqn89pPbIrNp45CyP9T9TCu0X5AEPaX8nxLgNdvQ.jpg?s=78cf1f221ac8b0ae1c37e2e2595a4f95 frameborder=0>
 ---
