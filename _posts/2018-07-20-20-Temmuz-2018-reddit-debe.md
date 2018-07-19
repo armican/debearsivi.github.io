@@ -8,10 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/DDaOPa6lhwrcK3Utt528OLlmqCB1h5QSH9_LpBaYt-A.jpg?s=970af8e80b6c6dbed25ddea02409bcf3 frameborder=0>
 - entry_name: |
-  entry_id: 8zyre7
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ian6lJJQfk4Yim41vA0KVgfcW_k2d0AcYwwucAM9hEM.jpg?s=68206cf0dfb31ad1b86ad8bed36a48fc frameborder=0>
-- entry_name: |
     My wife looves giraffes, so when we first started dating, I took her to her first close up experience with one. This is still one of my favorite photos of her - it was pure bliss, followed by buckets of happy tears.
   entry_id: 9019nl
   entry_content: |
@@ -56,11 +52,6 @@ data:
   entry_id: 9051iq
   entry_content: |
     <img src=https://i.redditmedia.com/-2RQLO3QGIV9VGgpwIBSpnDKfh4V50mNGqzt2ghnlfo.jpg?s=d9112de4c1bfc29c022db41102053313 frameborder=0>
-- entry_name: |
-    Soldier reunited with his dog after being away.
-  entry_id: 8zyunu
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBaggyThankfulGiraffe&url=https%3A%2F%2Fgfycat.com%2FBaggyThankfulGiraffe&image=https%3A%2F%2Fthumbs.gfycat.com%2FBaggyThankfulGiraffe-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     Me with my pastel drawing
   entry_id: 903p7i
@@ -157,11 +148,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/du2xkfp5uta11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    White House: Trump open to Russia questioning US citizens
-  entry_id: 8zyuhm
-  entry_content: |
-    <img src=https://i.redditmedia.com/vUeoPL2Z03SfkdidoT_sZoAAlAHvWrvU4RRe_QVUfAI.jpg?s=96ba5f1c32d630f1f96e7acd9c2a4596 frameborder=0>
-- entry_name: |
     King of the Hill reruns will start airing on Comedy Central July 24th
   entry_id: 8zz0ig
   entry_content: |
@@ -246,8 +232,23 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Eqhaqn89pPbIrNp45CyP9T9TCu0X5AEPaX8nxLgNdvQ.jpg?s=78cf1f221ac8b0ae1c37e2e2595a4f95 frameborder=0>
 - entry_name: |
-    Little man gets a big surprise
-  entry_id: 9050ed
+    Strawberry's Surface
+  entry_id: 904t2p
   entry_content: |
-    <iframe src=https://v.redd.it/ol8rwhtq3wa11/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/glitPCEyUA9QkBUf0DpNU4Ov7C-vNqdKeU9tTEgIy1g.jpg?s=7b352b6fb7a5c43a938a348e3acedde5 frameborder=0>
+- entry_name: |
+    Hidden room in my great aunt’s old house
+  entry_id: 902l8d
+  entry_content: |
+    <img src=https://i.redditmedia.com/C9y5Vf_j9t9UJ-GSvigmMx1c7KSt4xfzoyf391nhHX8.jpg?s=c1d7eff0fd1815c2bdbdd870efd922b3 frameborder=0>
+- entry_name: |
+    This man was working on a telephone pole until he lost his footing and fell down. His dog lay beside him since the ambulance came.
+  entry_id: 9051sp
+  entry_content: |
+    <img src=https://i.redditmedia.com/N-7wwbCekfCkIEWmJhDVrmj0pOhhhLjJMx6_j1WFOAc.jpg?s=0682855beb3d80e190dec959192617d4 frameborder=0>
+- entry_name: |
+    such a cutie pie
+  entry_id: 904e3v
+  entry_content: |
+    <iframe src=https://v.redd.it/hgxs9ypyjva11/DASH_4_8_M frameborder=0></iframe>
 ---
