@@ -107,11 +107,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JxGs8R_vhBP8Talugqqjeuaatm5wFfSiOi6bpsxl-F8.jpg?s=b3dd2488e1b1009fea17bc82dacd7774 frameborder=0>
 - entry_name: |
-    The best feeling when your phone is fully charged so you can unplug it and roll to the other side of your bed
-  entry_id: 904f1j
-  entry_content: |
-    null
-- entry_name: |
     John F. Kennedy Jr. Sitting in the pilot seat of the Marine One circa 1963
   entry_id: 900ff9
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 903et3
   entry_content: |
     <img src=https://i.redditmedia.com/NyPN56S0esCS1upZh1rxXHyLcnx4tJlf0aV_lcghGms.jpg?s=2bac860aeed3235ccd9e00a3be889e46 frameborder=0>
+- entry_name: |
+    Black Panther Scene Representing the Pan-African Flag
+  entry_id: 8zy8gi
+  entry_content: |
+    <img src=https://i.redditmedia.com/78g0vWSLfA64HSis0osXdOG9gaA0PQGCrw7m8QTU0pE.jpg?s=e89ad97d161d67e70a8c1dcae79be4cc frameborder=0>
 ---
