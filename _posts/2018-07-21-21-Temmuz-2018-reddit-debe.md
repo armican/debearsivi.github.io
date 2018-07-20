@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EWymxmgRjiuA_ZG-CO2pn3h1DgoFMu1hZZhkh0ZaGV4.jpg?s=d6439068eaa29bcb0c33b22f40347c6c frameborder=0>
 - entry_name: |
-    Overdoing it
-  entry_id: 9091dg
-  entry_content: |
-    <img src=https://i.redditmedia.com/rFs1pQG64g1o42djDDzuiMfAY0iLm_54-3cH_YvwzWI.png?s=3e51166c28bed51b881cd33de9d1fc8a frameborder=0>
-- entry_name: |
     TIL: Alan Shepard pulled out a makeshift six-iron he smuggled on board Apollo 14 and hit two golf balls on the lunar surface, becoming the first -- and only -- person to play golf anywhere other than Earth.
   entry_id: 90etll
   entry_content: |
@@ -177,11 +172,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LEAk94FecjVGf_-fOfpIKuMWLwkub20s56WUn_0ksPk.jpg?s=7a9557b64dbd7b835ff5e9f6f3b3794f frameborder=0>
 - entry_name: |
-    Just couldn't wait for the next one
-  entry_id: 908xuf
-  entry_content: |
-    <iframe src=https://v.redd.it/sfefssdspxa11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Every Time
   entry_id: 90ew6o
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 90g26j
   entry_content: |
     <img src=https://i.redditmedia.com/Yb7ts9V8pEHLyMyNLB9JTTBhHk0cvwpxQpYSiL6KbRY.jpg?s=7bb0530c4a084e7115b1e2554531bcd4 frameborder=0>
+- entry_name: |
+    Pressure's on.
+  entry_id: 90bmag
+  entry_content: |
+    <img src=https://i.redditmedia.com/i90WpZJ5znoRwAXO_DOeb0vfqScsAimBCPR1i1_CVuc.png?s=191beba083fefadca32051af8ea7f633 frameborder=0>
+- entry_name: |
+    Poll: Half of Americans Think Trump Acted ‘Treasonous’ in Helsinki
+  entry_id: 90buu2
+  entry_content: |
+    <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
 ---
