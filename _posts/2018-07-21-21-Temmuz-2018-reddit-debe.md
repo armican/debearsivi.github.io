@@ -38,15 +38,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uE5GcXSKcTizRu_jvhdGC7gP3i0FvGwV7WinqlLDD8M.jpg?s=9939d18124080fc526a1ee8a838f53e5 frameborder=0>
 - entry_name: |
-    This is the type of crossover art I can get behind.
-  entry_id: 90btb5
-  entry_content: |
-    <img src=https://i.redditmedia.com/5eHh_9IpIYaQj2oTnodr3kvK3TP88OTr4N_OEg-CoXo.jpg?s=1cf4733a944a96e0eda5b353a172f8d2 frameborder=0>
-- entry_name: |
     Breaking Dads
   entry_id: 90ez2l
   entry_content: |
     <img src=https://i.redditmedia.com/usfOS0P7e71TmXAPpMpYAnj-WaBM7lFag5Pz7ohwX2k.jpg?s=5a89ffae634164105dabf1f84283a385 frameborder=0>
+- entry_name: |
+    This is the type of crossover art I can get behind.
+  entry_id: 90btb5
+  entry_content: |
+    <img src=https://i.redditmedia.com/5eHh_9IpIYaQj2oTnodr3kvK3TP88OTr4N_OEg-CoXo.jpg?s=1cf4733a944a96e0eda5b353a172f8d2 frameborder=0>
 - entry_name: |
     To rate t-mobiles network.
   entry_id: 908sg1
@@ -58,15 +58,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/EWymxmgRjiuA_ZG-CO2pn3h1DgoFMu1hZZhkh0ZaGV4.jpg?s=d6439068eaa29bcb0c33b22f40347c6c frameborder=0>
 - entry_name: |
-    TIL that Coca-Cola never patented their secret formula because otherwise they would be required to disclose it to the public.
-  entry_id: 9089a8
-  entry_content: |
-    <img src=https://i.redditmedia.com/5CWzGoZmd4iSPD8_xVEL2NMEPKEsN5aNwfHxxo0PFs8.jpg?s=8d7ed0b9e894f8a331810fc6fa353aa1 frameborder=0>
-- entry_name: |
     Overdoing it
   entry_id: 9091dg
   entry_content: |
     <img src=https://i.redditmedia.com/rFs1pQG64g1o42djDDzuiMfAY0iLm_54-3cH_YvwzWI.png?s=3e51166c28bed51b881cd33de9d1fc8a frameborder=0>
+- entry_name: |
+    A 16-year-old with autism got all of his Xbox games stolen, so our local sheriffs office pitched in to buy him some new games
+  entry_id: 90gcsr
+  entry_content: |
+    <img src=https://i.redditmedia.com/qscTdfAFismwYjey8TzO1SUSQX4VpC2boilzKde-gBA.jpg?s=33327a7dd9aa0a799472b7785402fb79 frameborder=0>
 - entry_name: |
   entry_id: 909sht
   entry_content: |
@@ -76,6 +76,11 @@ data:
   entry_id: 909l0t
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeglectedDecimalDamselfly&url=https%3A%2F%2Fgfycat.com%2FNeglectedDecimalDamselfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeglectedDecimalDamselfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    TIL: Alan Shepard pulled out a makeshift six-iron he smuggled on board Apollo 14 and hit two golf balls on the lunar surface, becoming the first -- and only -- person to play golf anywhere other than Earth.
+  entry_id: 90etll
+  entry_content: |
+    <img src=https://i.redditmedia.com/x-EBYQlN4LG3cbCv8w9rcAjhlFo1M5qYpcGhGwK4ItA.jpg?s=07bea0a16f2d079feb0f47df21e8fa90 frameborder=0>
 - entry_name: |
     Restoring a sun damaged carpet
   entry_id: 9094u7
@@ -87,40 +92,40 @@ data:
   entry_content: |
     null
 - entry_name: |
-    The leap of faith
-  entry_id: 909w8y
-  entry_content: |
-    <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Hey Reddit! My girlfriend surprised me for our anniversary with all the original Pokémon Cards in this awesome homemade frame!
   entry_id: 90epxg
   entry_content: |
     <img src=https://i.redditmedia.com/ARIwcg2xr-OX02YtbpBtFh47IcK53NvmAsi9WHIDi3Y.jpg?s=f4ea7977ec7320ef49323074dd212f73 frameborder=0>
 - entry_name: |
-    New trailer for The Clone Wars
-  entry_id: 9096by
+    The leap of faith
+  entry_id: 909w8y
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/RI7WyhWZkzk?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     PsBattle: The finnish president and his security team
   entry_id: 90ca2x
   entry_content: |
     <img src=https://i.redditmedia.com/5P9ijfSHP3z07jGVzb2ldSUjauHHPNKwUW0izm98k94.jpg?s=886265f1b011719f71f2ac28b2e2da55 frameborder=0>
 - entry_name: |
+    New trailer for The Clone Wars
+  entry_id: 9096by
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/RI7WyhWZkzk?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
     Stalking his prey
   entry_id: 909v4f
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLinedDarkArkshell&url=https%3A%2F%2Fgfycat.com%2FLinedDarkArkshell&image=https%3A%2F%2Fthumbs.gfycat.com%2FLinedDarkArkshell-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    TIL: Alan Shepard pulled out a makeshift six-iron he smuggled on board Apollo 14 and hit two golf balls on the lunar surface, becoming the first -- and only -- person to play golf anywhere other than Earth.
-  entry_id: 90etll
-  entry_content: |
-    <img src=https://i.redditmedia.com/x-EBYQlN4LG3cbCv8w9rcAjhlFo1M5qYpcGhGwK4ItA.jpg?s=07bea0a16f2d079feb0f47df21e8fa90 frameborder=0>
-- entry_name: |
     Grandpa joins local woodworking group
   entry_id: 90b9as
   entry_content: |
     <img src=https://i.redditmedia.com/nqqTz2HyflWiqXMj2xEvnTFzJ0URhGH4kYBdIO28kEc.jpg?s=002fdc25bb3d469714eb65e7ce1585b5 frameborder=0>
+- entry_name: |
+    Welcome back
+  entry_id: 90fyi1
+  entry_content: |
+    <img src=https://i.redditmedia.com/RO68Qjbe9Qyb8ouc22dpPh6CwbND997VLl0OApA0EXg.jpg?s=625fb55e5755e2b1479c8bd9a8d448a2 frameborder=0>
 - entry_name: |
     Birdo gets a tall bf 🤗
   entry_id: 90ac3z
@@ -132,40 +137,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xzY8VmD821ltlncovLpbxI74xVlQUeI-rpotEUCScZs.jpg?s=d0d1429307de1942b680f32b9c61c5ff frameborder=0>
 - entry_name: |
-    And that kids is how I met your mother
-  entry_id: 908fsh
-  entry_content: |
-    <iframe src=https://v.redd.it/1w9m2j736xa11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     This Day in History: July 20, 1969: Armstrong walks on moon
   entry_id: 90dgsh
   entry_content: |
     <img src=https://i.redditmedia.com/aI9uIX-wP7jGhjyVcT3PNg5vLnJzEZrZc2gRtYKswqE.jpg?s=3c350e8e6599087d743f14a3a77aa129 frameborder=0>
+- entry_name: |
+    And that kids is how I met your mother
+  entry_id: 908fsh
+  entry_content: |
+    <iframe src=https://v.redd.it/1w9m2j736xa11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Aaron Paul teaching his daughter the family business
   entry_id: 90c7h3
   entry_content: |
     <img src=https://i.redditmedia.com/jlgniODeaFK7oz1-wAP9hTglhvubFrE8hXNFcWYisZ4.jpg?s=c40ac3891af23a1f58fb44d9df5ed46e frameborder=0>
 - entry_name: |
-    TIL Civets don't know how to drink milk.
-  entry_id: 908cg6
-  entry_content: |
-    <iframe src=https://v.redd.it/warntd1d5ya11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Interview with Mads Mikkelsen
   entry_id: 90e8ub
   entry_content: |
     <img src=https://i.redditmedia.com/anqmUesfA0_fasMVMBs1xF1edlN3naGDb8yAgEB6EUk.jpg?s=fafc5b5ef38d572ce47399a062f5b0d9 frameborder=0>
 - entry_name: |
-    Just couldn't wait for the next one
-  entry_id: 908xuf
-  entry_content: |
-    <iframe src=https://v.redd.it/sfefssdspxa11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     wholesome facts
   entry_id: 90dn2j
   entry_content: |
     <img src=https://i.redditmedia.com/rXMeTiBFpsQL4ZgerZuvbAFn_H58a1tSQvlfNkGInhk.jpg?s=0d7ba7cb4e5c5f4030fb2404f840fef7 frameborder=0>
+- entry_name: |
+    My new set of sheets came with a handy little pocket.
+  entry_id: 90g2t4
+  entry_content: |
+    <img src=https://i.redditmedia.com/3p4LEK21Wn-FEBcCa8Fji-gISNHMIKjY6e373D2x8Go.jpg?s=1b5aaf0154c9e429c95b7b281dd8fca6 frameborder=0>
+- entry_name: |
+    Sex today increases sense of meaning in life tomorrow, suggests a new study (N=152), which found that having sex on one day was associated with more positive mood states the following day, and also a greater feeling that life is meaningful.
+  entry_id: 90f0in
+  entry_content: |
+    <img src=https://i.redditmedia.com/hovNJziYPRCEkiCSkbEuiloxCWAX5YdtsOyCheuaiNQ.jpg?s=405b9a21919eee6cbe767536c071cc35 frameborder=0>
+- entry_name: |
+    Has anyone seen that other rubber ducky?
+  entry_id: 90f4y6
+  entry_content: |
+    <iframe src=https://v.redd.it/cjpfcrvd73b11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Just couldn't wait for the next one
+  entry_id: 908xuf
+  entry_content: |
+    <iframe src=https://v.redd.it/sfefssdspxa11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     We did it fellas.
   entry_id: 90dmdo
@@ -197,6 +212,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tYg-wQWbVT-rSmnkvfQ8bjfVlMVpgf8fdDKB3kV0yVw.jpg?s=99378154eeb42159efff20ff0993cdd5 frameborder=0>
 - entry_name: |
+    Trump flags and hats made in China are reportedly being held up at customs as trade war heats up
+  entry_id: 90fe0w
+  entry_content: |
+    <img src=https://i.redditmedia.com/rQejHsjjnERpYGvpnYhXMsgJexHAcyOP23fk0ZUXsvY.jpg?s=27afca46323da370ca85abc97f0880b5 frameborder=0>
+- entry_name: |
+    Every Time
+  entry_id: 90ew6o
+  entry_content: |
+    <img src=https://i.redditmedia.com/sYsqXY8plojsdNVhoCYw64ke3pB_CJqzwHYTpWvPS4A.jpg?s=09ff147da194aa2276dd5a102d865ee9 frameborder=0>
+- entry_name: |
     which one is jim?
   entry_id: 90alu1
   entry_content: |
@@ -217,37 +242,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QmxzzWh0guPc6dZCTMVH9vu8rMoP80qM8LBP8yKLWgg.jpg?s=2b7bd0591b03bbafcae926e143d44fe2 frameborder=0>
 - entry_name: |
-    This old motherboard looks like an Egyptian temple.
-  entry_id: 908bmc
-  entry_content: |
-    <img src=https://i.redditmedia.com/KflzmWBd1KnWKWQw80fiduHnerQXh3FN-5k3-Phywe8.jpg?s=c08045947dad234480d7d4917564f9de frameborder=0>
-- entry_name: |
-    Trump flags and hats made in China are reportedly being held up at customs as trade war heats up
-  entry_id: 90fe0w
-  entry_content: |
-    <img src=https://i.redditmedia.com/rQejHsjjnERpYGvpnYhXMsgJexHAcyOP23fk0ZUXsvY.jpg?s=27afca46323da370ca85abc97f0880b5 frameborder=0>
-- entry_name: |
   entry_id: 90bbre
   entry_content: |
     <img src=https://i.redditmedia.com/koq4_P_hcJwg6Ao2QJDO11P_ZhnT9LQkLQLVtxSe91k.jpg?s=724418a745d0943f0fc654c53df369a1 frameborder=0>
 - entry_name: |
-    Has anyone seen that other rubber ducky?
-  entry_id: 90f4y6
+  entry_id: 90dkib
   entry_content: |
-    <iframe src=https://v.redd.it/cjpfcrvd73b11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Sex today increases sense of meaning in life tomorrow, suggests a new study (N=152), which found that having sex on one day was associated with more positive mood states the following day, and also a greater feeling that life is meaningful.
-  entry_id: 90f0in
-  entry_content: |
-    <img src=https://i.redditmedia.com/hovNJziYPRCEkiCSkbEuiloxCWAX5YdtsOyCheuaiNQ.jpg?s=405b9a21919eee6cbe767536c071cc35 frameborder=0>
-- entry_name: |
-    Poll: Half of Americans Think Trump Acted ‘Treasonous’ in Helsinki
-  entry_id: 90buu2
-  entry_content: |
-    <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
-- entry_name: |
-    Pressure's on.
-  entry_id: 90bmag
-  entry_content: |
-    <img src=https://i.redditmedia.com/i90WpZJ5znoRwAXO_DOeb0vfqScsAimBCPR1i1_CVuc.png?s=191beba083fefadca32051af8ea7f633 frameborder=0>
+    <img src=https://i.redditmedia.com/ZZaWvNErB_ddYL6TAe4A8i6K0K9tEn2Ndb24lnRqYeM.jpg?s=5eb2d2fe77c4d53af2fbfe371696b7ca frameborder=0>
 ---
