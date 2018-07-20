@@ -18,11 +18,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/rYgMZ0Z2aoYPWdouAUSbq5p6M34j3peXVI3aZZEpx-I.jpg?s=897317d4ab1e4e9f09bd9b0bc713617d frameborder=0>
 - entry_name: |
-    Astana, Khazakhstan 🇰🇿
-  entry_id: 908i1d
-  entry_content: |
-    <img src=https://i.redditmedia.com/w7WKURHzi22xw2165OgxPtmnYpwdcBeoqNn7AhBxkUM.jpg?s=c77b0fc1520ad49de30e65f37c791d30 frameborder=0>
-- entry_name: |
     Wise words from Tay...
   entry_id: 909yek
   entry_content: |
@@ -142,11 +137,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aI9uIX-wP7jGhjyVcT3PNg5vLnJzEZrZc2gRtYKswqE.jpg?s=3c350e8e6599087d743f14a3a77aa129 frameborder=0>
 - entry_name: |
-    And that kids is how I met your mother
-  entry_id: 908fsh
-  entry_content: |
-    <iframe src=https://v.redd.it/1w9m2j736xa11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Aaron Paul teaching his daughter the family business
   entry_id: 90c7h3
   entry_content: |
@@ -202,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/IxNdx1zj2CJ6k2D5LkqvNzM2TwiTUokPkCdDK84Nd8w.jpg?s=4dae6106d6f89524bea39efe1934519f frameborder=0>
 - entry_name: |
-    Jenny McCarthy doesn't know what her Google Home sounds like, assumes it's a ghost
-  entry_id: 908fsr
-  entry_content: |
-    <img src=https://i.redditmedia.com/n-zced0uqGL1QoNOF58VnFINknJSIZdCkaOk0YtNa_Q.jpg?s=45da9be3d099458ab10dd27af075ef1b frameborder=0>
-- entry_name: |
     A pro-Kremlin politician said on live TV that Russia stole the U.S. presidency
   entry_id: 90ch1o
   entry_content: |
@@ -249,4 +234,19 @@ data:
   entry_id: 90dkib
   entry_content: |
     <img src=https://i.redditmedia.com/ZZaWvNErB_ddYL6TAe4A8i6K0K9tEn2Ndb24lnRqYeM.jpg?s=5eb2d2fe77c4d53af2fbfe371696b7ca frameborder=0>
+- entry_name: |
+    Pressure's on.
+  entry_id: 90bmag
+  entry_content: |
+    <img src=https://i.redditmedia.com/i90WpZJ5znoRwAXO_DOeb0vfqScsAimBCPR1i1_CVuc.png?s=191beba083fefadca32051af8ea7f633 frameborder=0>
+- entry_name: |
+    Poll: Half of Americans Think Trump Acted ‘Treasonous’ in Helsinki
+  entry_id: 90buu2
+  entry_content: |
+    <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
+- entry_name: |
+    Michael Cohen Secretly Taped Trump Discussing Payment to Playboy Model
+  entry_id: 90h15n
+  entry_content: |
+    null
 ---
