@@ -72,11 +72,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/RO68Qjbe9Qyb8ouc22dpPh6CwbND997VLl0OApA0EXg.jpg?s=625fb55e5755e2b1479c8bd9a8d448a2 frameborder=0>
 - entry_name: |
-    Restoring a sun damaged carpet
-  entry_id: 9094u7
-  entry_content: |
-    <iframe src=https://v.redd.it/m6n938c6lya11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The brain may have named itself, but it also recognized that it named itself and was surprised when it realized that.
   entry_id: 90cvdk
   entry_content: |
@@ -96,11 +91,6 @@ data:
   entry_id: 909w8y
   entry_content: |
     <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    New trailer for The Clone Wars
-  entry_id: 9096by
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/RI7WyhWZkzk?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     Stalking his prey
   entry_id: 909v4f
@@ -249,4 +239,14 @@ data:
   entry_id: 90buu2
   entry_content: |
     <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
+- entry_name: |
+    Salt water croc is an absolute unit.
+  entry_id: 90ao9t
+  entry_content: |
+    <img src=https://i.redditmedia.com/pMqrgGw4dDE2_kCBrA-bxgpfTHD7BZIeqLYtpb97rVI.jpg?s=0c35039a90593c242f2690a9aed0c2d5 frameborder=0>
+- entry_name: |
+    Bill Browder: Vladimir Putin Would 'Like To Kill Me Like He Killed My Lawyer, Sergei Magnitsky'
+  entry_id: 909ett
+  entry_content: |
+    <img src=https://i.redditmedia.com/xRKwXt3LGhPlZYYxXbBFdWtBi-IU9SiooThpwmFDFS8.jpg?s=652ecc6dcf338375762fd4b96bdb75ae frameborder=0>
 ---
