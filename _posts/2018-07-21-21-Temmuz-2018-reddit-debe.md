@@ -92,11 +92,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    The fur-pit claimed another victim
-  entry_id: 90fi9a
-  entry_content: |
-    <img src=https://i.redditmedia.com/6HDdr0sGDF2yDaoQWExlCenGgWaXs-I0HefWZFkCfrw.jpg?s=fb2f869852a96c5f93ded67a5b168a66 frameborder=0>
-- entry_name: |
     Hey Reddit! My girlfriend surprised me for our anniversary with all the original Pokémon Cards in this awesome homemade frame!
   entry_id: 90epxg
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 90buu2
   entry_content: |
     <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
+- entry_name: |
+    Pressure's on.
+  entry_id: 90bmag
+  entry_content: |
+    <img src=https://i.redditmedia.com/i90WpZJ5znoRwAXO_DOeb0vfqScsAimBCPR1i1_CVuc.png?s=191beba083fefadca32051af8ea7f633 frameborder=0>
 ---
