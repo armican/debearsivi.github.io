@@ -67,11 +67,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2VfpbJe8c1iVVGhnxFEm3EYgMfumiZjb85YK1JUuSCQ.png?s=a089105c9f730aaa08a17a67ad98f464 frameborder=0>
 - entry_name: |
-    Insurance scammers get told they're on camera
-  entry_id: 909l0t
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeglectedDecimalDamselfly&url=https%3A%2F%2Fgfycat.com%2FNeglectedDecimalDamselfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeglectedDecimalDamselfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     My new set of sheets came with a handy little pocket.
   entry_id: 90g2t4
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 90clv7
   entry_content: |
     <iframe src=https://v.redd.it/bvnxh3fytza11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Justice Department plans to alert public to foreign operations targeting U.S. democracy
+  entry_id: 90ah8l
+  entry_content: |
+    <img src=https://i.redditmedia.com/sG1NTJLlOQ7bbsUIvajV82V9lLIab1gj71FzWWp9xmc.jpg?s=b2186768efab320ac162ea604a57c70b frameborder=0>
 ---
