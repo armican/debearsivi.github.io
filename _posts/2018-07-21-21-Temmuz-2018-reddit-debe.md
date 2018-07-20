@@ -8,11 +8,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/gyh95hiqc0b11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Friend of a friend's pooch dragged the sprinkler in through the doggy door...
-  entry_id: 907r5c
-  entry_content: |
-    <img src=https://i.redditmedia.com/JnSAFYGPMlZt_eBT7yF0RjUxWtvWT9FBqgH4eKjkOp8.jpg?s=d0dbe2715934b61ed27a9985dddba244 frameborder=0>
-- entry_name: |
     Just because the monitor shows 1 security camera at a time, doesn’t mean they aren’t all recording.
   entry_id: 90bmjv
   entry_content: |
@@ -48,6 +43,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5eHh_9IpIYaQj2oTnodr3kvK3TP88OTr4N_OEg-CoXo.jpg?s=1cf4733a944a96e0eda5b353a172f8d2 frameborder=0>
 - entry_name: |
+    Breaking Dads
+  entry_id: 90ez2l
+  entry_content: |
+    <img src=https://i.redditmedia.com/usfOS0P7e71TmXAPpMpYAnj-WaBM7lFag5Pz7ohwX2k.jpg?s=5a89ffae634164105dabf1f84283a385 frameborder=0>
+- entry_name: |
     To rate t-mobiles network.
   entry_id: 908sg1
   entry_content: |
@@ -77,45 +77,50 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FNeglectedDecimalDamselfly&url=https%3A%2F%2Fgfycat.com%2FNeglectedDecimalDamselfly&image=https%3A%2F%2Fthumbs.gfycat.com%2FNeglectedDecimalDamselfly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=330 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Breaking Dads
-  entry_id: 90ez2l
-  entry_content: |
-    <img src=https://i.redditmedia.com/usfOS0P7e71TmXAPpMpYAnj-WaBM7lFag5Pz7ohwX2k.jpg?s=5a89ffae634164105dabf1f84283a385 frameborder=0>
-- entry_name: |
     Restoring a sun damaged carpet
   entry_id: 9094u7
   entry_content: |
     <iframe src=https://v.redd.it/m6n938c6lya11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    The leap of faith
-  entry_id: 909w8y
-  entry_content: |
-    <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     The brain may have named itself, but it also recognized that it named itself and was surprised when it realized that.
   entry_id: 90cvdk
   entry_content: |
     null
 - entry_name: |
-    New trailer for The Clone Wars
-  entry_id: 9096by
+    The leap of faith
+  entry_id: 909w8y
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/RI7WyhWZkzk?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+    <iframe src=https://v.redd.it/ao8cdidbm3b11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    The fur-pit claimed another victim
+  entry_id: 90fi9a
+  entry_content: |
+    <img src=https://i.redditmedia.com/6HDdr0sGDF2yDaoQWExlCenGgWaXs-I0HefWZFkCfrw.jpg?s=fb2f869852a96c5f93ded67a5b168a66 frameborder=0>
 - entry_name: |
     Hey Reddit! My girlfriend surprised me for our anniversary with all the original Pokémon Cards in this awesome homemade frame!
   entry_id: 90epxg
   entry_content: |
     <img src=https://i.redditmedia.com/ARIwcg2xr-OX02YtbpBtFh47IcK53NvmAsi9WHIDi3Y.jpg?s=f4ea7977ec7320ef49323074dd212f73 frameborder=0>
 - entry_name: |
-    Stalking his prey
-  entry_id: 909v4f
+    New trailer for The Clone Wars
+  entry_id: 9096by
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLinedDarkArkshell&url=https%3A%2F%2Fgfycat.com%2FLinedDarkArkshell&image=https%3A%2F%2Fthumbs.gfycat.com%2FLinedDarkArkshell-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/RI7WyhWZkzk?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
     PsBattle: The finnish president and his security team
   entry_id: 90ca2x
   entry_content: |
     <img src=https://i.redditmedia.com/5P9ijfSHP3z07jGVzb2ldSUjauHHPNKwUW0izm98k94.jpg?s=886265f1b011719f71f2ac28b2e2da55 frameborder=0>
+- entry_name: |
+    Stalking his prey
+  entry_id: 909v4f
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLinedDarkArkshell&url=https%3A%2F%2Fgfycat.com%2FLinedDarkArkshell&image=https%3A%2F%2Fthumbs.gfycat.com%2FLinedDarkArkshell-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    TIL: Alan Shepard pulled out a makeshift six-iron he smuggled on board Apollo 14 and hit two golf balls on the lunar surface, becoming the first -- and only -- person to play golf anywhere other than Earth.
+  entry_id: 90etll
+  entry_content: |
+    <img src=https://i.redditmedia.com/x-EBYQlN4LG3cbCv8w9rcAjhlFo1M5qYpcGhGwK4ItA.jpg?s=07bea0a16f2d079feb0f47df21e8fa90 frameborder=0>
 - entry_name: |
     Grandpa joins local woodworking group
   entry_id: 90b9as
@@ -137,50 +142,45 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/1w9m2j736xa11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL Civets don't know how to drink milk.
-  entry_id: 908cg6
+    This Day in History: July 20, 1969: Armstrong walks on moon
+  entry_id: 90dgsh
   entry_content: |
-    <iframe src=https://v.redd.it/warntd1d5ya11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/aI9uIX-wP7jGhjyVcT3PNg5vLnJzEZrZc2gRtYKswqE.jpg?s=3c350e8e6599087d743f14a3a77aa129 frameborder=0>
 - entry_name: |
     Aaron Paul teaching his daughter the family business
   entry_id: 90c7h3
   entry_content: |
     <img src=https://i.redditmedia.com/jlgniODeaFK7oz1-wAP9hTglhvubFrE8hXNFcWYisZ4.jpg?s=c40ac3891af23a1f58fb44d9df5ed46e frameborder=0>
 - entry_name: |
-    This Day in History: July 20, 1969: Armstrong walks on moon
-  entry_id: 90dgsh
+    TIL Civets don't know how to drink milk.
+  entry_id: 908cg6
   entry_content: |
-    <img src=https://i.redditmedia.com/aI9uIX-wP7jGhjyVcT3PNg5vLnJzEZrZc2gRtYKswqE.jpg?s=3c350e8e6599087d743f14a3a77aa129 frameborder=0>
-- entry_name: |
-    TIL: Alan Shepard pulled out a makeshift six-iron he smuggled on board Apollo 14 and hit two golf balls on the lunar surface, becoming the first -- and only -- person to play golf anywhere other than Earth.
-  entry_id: 90etll
-  entry_content: |
-    <img src=https://i.redditmedia.com/x-EBYQlN4LG3cbCv8w9rcAjhlFo1M5qYpcGhGwK4ItA.jpg?s=07bea0a16f2d079feb0f47df21e8fa90 frameborder=0>
-- entry_name: |
-    Just couldn't wait for the next one
-  entry_id: 908xuf
-  entry_content: |
-    <iframe src=https://v.redd.it/sfefssdspxa11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    What's the biggest plot twist you've seen in real life?
-  entry_id: 907qe5
-  entry_content: |
-    null
-- entry_name: |
-    Now this is a story of a lifetime:
-  entry_id: 909zlc
-  entry_content: |
-    <img src=https://i.redditmedia.com/SLClSYc360EBrjRfKu8oE6VrtBVUOrFJZiCq9rdy460.jpg?s=0afdafba18a6f12fff032c6d95367873 frameborder=0>
+    <iframe src=https://v.redd.it/warntd1d5ya11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Interview with Mads Mikkelsen
   entry_id: 90e8ub
   entry_content: |
     <img src=https://i.redditmedia.com/anqmUesfA0_fasMVMBs1xF1edlN3naGDb8yAgEB6EUk.jpg?s=fafc5b5ef38d572ce47399a062f5b0d9 frameborder=0>
 - entry_name: |
+    Just couldn't wait for the next one
+  entry_id: 908xuf
+  entry_content: |
+    <iframe src=https://v.redd.it/sfefssdspxa11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    wholesome facts
+  entry_id: 90dn2j
+  entry_content: |
+    <img src=https://i.redditmedia.com/rXMeTiBFpsQL4ZgerZuvbAFn_H58a1tSQvlfNkGInhk.jpg?s=0d7ba7cb4e5c5f4030fb2404f840fef7 frameborder=0>
+- entry_name: |
     We did it fellas.
   entry_id: 90dmdo
   entry_content: |
     <img src=https://i.redditmedia.com/LEAk94FecjVGf_-fOfpIKuMWLwkub20s56WUn_0ksPk.jpg?s=7a9557b64dbd7b835ff5e9f6f3b3794f frameborder=0>
+- entry_name: |
+    Now this is a story of a lifetime:
+  entry_id: 909zlc
+  entry_content: |
+    <img src=https://i.redditmedia.com/SLClSYc360EBrjRfKu8oE6VrtBVUOrFJZiCq9rdy460.jpg?s=0afdafba18a6f12fff032c6d95367873 frameborder=0>
 - entry_name: |
     A new Munker illusion. All the dots in the background are the same color but perceived as four different colors.
   entry_id: 909at0
@@ -197,30 +197,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/n-zced0uqGL1QoNOF58VnFINknJSIZdCkaOk0YtNa_Q.jpg?s=45da9be3d099458ab10dd27af075ef1b frameborder=0>
 - entry_name: |
-    The fur-pit claimed another victim
-  entry_id: 90fi9a
+    A pro-Kremlin politician said on live TV that Russia stole the U.S. presidency
+  entry_id: 90ch1o
   entry_content: |
-    <img src=https://i.redditmedia.com/6HDdr0sGDF2yDaoQWExlCenGgWaXs-I0HefWZFkCfrw.jpg?s=fb2f869852a96c5f93ded67a5b168a66 frameborder=0>
+    <img src=https://i.redditmedia.com/tYg-wQWbVT-rSmnkvfQ8bjfVlMVpgf8fdDKB3kV0yVw.jpg?s=99378154eeb42159efff20ff0993cdd5 frameborder=0>
 - entry_name: |
     which one is jim?
   entry_id: 90alu1
   entry_content: |
     <img src=https://i.redditmedia.com/je2WSeGiAEmnU5LlIisYAJ95bg7JIZUAK8zpjvPTPeE.jpg?s=5119480ca2f7551e66d506ef97724b55 frameborder=0>
 - entry_name: |
-    A pro-Kremlin politician said on live TV that Russia stole the U.S. presidency
-  entry_id: 90ch1o
+    Drone finds climber presumed dead on world's 12th largest mountain
+  entry_id: 90az42
   entry_content: |
-    <img src=https://i.redditmedia.com/tYg-wQWbVT-rSmnkvfQ8bjfVlMVpgf8fdDKB3kV0yVw.jpg?s=99378154eeb42159efff20ff0993cdd5 frameborder=0>
+    <img src=https://i.redditmedia.com/riRiHy4EVasXQKZjaS3i2UXMynxm_GbQHwJG2F8xLNE.jpg?s=ec50f47c10e517534076c602e76061fd frameborder=0>
 - entry_name: |
     This is where the fun begins
   entry_id: 909fr5
   entry_content: |
     <img src=https://i.redditmedia.com/p9q5G2qCHR_KQJJT-HWgr87arrzOyv_V57J3BJYeiXU.jpg?s=af545f480207532685afc49a0c08ea8c frameborder=0>
-- entry_name: |
-    Drone finds climber presumed dead on world's 12th largest mountain
-  entry_id: 90az42
-  entry_content: |
-    <img src=https://i.redditmedia.com/riRiHy4EVasXQKZjaS3i2UXMynxm_GbQHwJG2F8xLNE.jpg?s=ec50f47c10e517534076c602e76061fd frameborder=0>
 - entry_name: |
     Anon watches Black Panther
   entry_id: 90bth3
@@ -232,22 +227,27 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/KflzmWBd1KnWKWQw80fiduHnerQXh3FN-5k3-Phywe8.jpg?s=c08045947dad234480d7d4917564f9de frameborder=0>
 - entry_name: |
-    wholesome facts
-  entry_id: 90dn2j
+    Trump flags and hats made in China are reportedly being held up at customs as trade war heats up
+  entry_id: 90fe0w
   entry_content: |
-    <img src=https://i.redditmedia.com/rXMeTiBFpsQL4ZgerZuvbAFn_H58a1tSQvlfNkGInhk.jpg?s=0d7ba7cb4e5c5f4030fb2404f840fef7 frameborder=0>
+    <img src=https://i.redditmedia.com/rQejHsjjnERpYGvpnYhXMsgJexHAcyOP23fk0ZUXsvY.jpg?s=27afca46323da370ca85abc97f0880b5 frameborder=0>
 - entry_name: |
   entry_id: 90bbre
   entry_content: |
     <img src=https://i.redditmedia.com/koq4_P_hcJwg6Ao2QJDO11P_ZhnT9LQkLQLVtxSe91k.jpg?s=724418a745d0943f0fc654c53df369a1 frameborder=0>
 - entry_name: |
+    Has anyone seen that other rubber ducky?
+  entry_id: 90f4y6
+  entry_content: |
+    <iframe src=https://v.redd.it/cjpfcrvd73b11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Sex today increases sense of meaning in life tomorrow, suggests a new study (N=152), which found that having sex on one day was associated with more positive mood states the following day, and also a greater feeling that life is meaningful.
+  entry_id: 90f0in
+  entry_content: |
+    <img src=https://i.redditmedia.com/hovNJziYPRCEkiCSkbEuiloxCWAX5YdtsOyCheuaiNQ.jpg?s=405b9a21919eee6cbe767536c071cc35 frameborder=0>
+- entry_name: |
     Poll: Half of Americans Think Trump Acted ‘Treasonous’ in Helsinki
   entry_id: 90buu2
   entry_content: |
     <img src=https://i.redditmedia.com/r2bSc7Wtpdukrzms1TNB4gqSEOAXvop8BSfFQKZ2MMc.jpg?s=8bc971923a26f03d0b899802c2f925ee frameborder=0>
-- entry_name: |
-    Pressure's on.
-  entry_id: 90bmag
-  entry_content: |
-    <img src=https://i.redditmedia.com/i90WpZJ5znoRwAXO_DOeb0vfqScsAimBCPR1i1_CVuc.png?s=191beba083fefadca32051af8ea7f633 frameborder=0>
 ---
