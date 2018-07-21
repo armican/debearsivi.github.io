@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/V5AiFBqpi4yD9LflHw2g5W_JIluXf0LWRvNNeNBrOos.jpg?s=41669191dcb42bbaecff24f707e60dd5 frameborder=0>
 - entry_name: |
-    TIL that a British bomb detection dog named Theo died from stress a few hours after seeing his handler get shot. The pair had set a record for bomb detection, and the dog was posthumously awarded an honour equivalent to the Victoria Cross.
-  entry_id: 90ihef
-  entry_content: |
-    <img src=https://i.redditmedia.com/FOVcadjqWmDF5zZ6bB5oAusWLn4PuxfLyrOpK_Ih7UU.jpg?s=26309a2ad06d777313837e55855a88a5 frameborder=0>
-- entry_name: |
     In Interstellar on the water planet, the soundtrack in the background has a prominent ticking noise. These ticks happen every 1.25 seconds. Each tick you hear is a whole day passing on Earth. (Math in the comments)
   entry_id: 90luwh
   entry_content: |
@@ -231,7 +226,7 @@ data:
     A crime was committed yesterday during the Saturday Skirmish. iDropz_bodies cheated his way to $130,000. Epic, do not be foolish. This is burglary. There must be a FULL-ON investigation on his matches played.
   entry_id: 90ouq3
   entry_content: |
-    <img src=https://i.redditmedia.com/U_nEA1SuXN1xogX1ExJdCsY1qMUXD1i0sX65d0j5GZQ.jpg?s=3e808cdc4ca50c0b2bdef98c23b16331 frameborder=0>
+    null
 - entry_name: |
     Feds order Georgia sheriff to return $69G spent on Hellcat muscle car
   entry_id: 90k8nn
@@ -251,4 +246,9 @@ data:
   entry_id: 90jwpd
   entry_content: |
     <img src=https://i.redditmedia.com/XeoqRVPauUW7_6a2Y1CKuiJtjQptl5fIYnbN86ELbNM.jpg?s=40358e824a239b74f44d51cdddb216e2 frameborder=0>
+- entry_name: |
+    A Stable Genius and businessman
+  entry_id: 90jwzo
+  entry_content: |
+    <img src=https://i.redditmedia.com/0ind7EWU2V1ZUE9FvQlEsHd_jQJAZ2tubIf9GfTxFRs.jpg?s=ace785d15a772e23a7e50b3a93f3ee98 frameborder=0>
 ---
