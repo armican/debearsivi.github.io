@@ -8,20 +8,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1-OiCP2phYzxs04ffY1UyAo9QIoW9qMHpqf4YGAyCUU.jpg?s=a5fc5da336e5f0956bbad0efd80722c7 frameborder=0>
 - entry_name: |
-    Boy finding out he has a new best friend for life.
-  entry_id: 90ipx4
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnderstatedDefenselessGenet&url=https%3A%2F%2Fgfycat.com%2FUnderstatedDefenselessGenet&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnderstatedDefenselessGenet-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     State Department deletes a statement condemning Russia over MH17 downing right after Trump's Putin summit
   entry_id: 90iz1r
   entry_content: |
     <img src=https://i.redditmedia.com/oeDHP0fOf889AD7QAF664iYf-5naUDDO8zxeMjaJit8.jpg?s=a45013b7445ed2160f5406f8feae9c94 frameborder=0>
-- entry_name: |
-    He wears his heart on his head ❤️
-  entry_id: 90iqiw
-  entry_content: |
-    <img src=https://i.redditmedia.com/V5AiFBqpi4yD9LflHw2g5W_JIluXf0LWRvNNeNBrOos.jpg?s=41669191dcb42bbaecff24f707e60dd5 frameborder=0>
 - entry_name: |
     In Interstellar on the water planet, the soundtrack in the background has a prominent ticking noise. These ticks happen every 1.25 seconds. Each tick you hear is a whole day passing on Earth. (Math in the comments)
   entry_id: 90luwh
@@ -251,4 +241,14 @@ data:
   entry_id: 90jwzo
   entry_content: |
     <img src=https://i.redditmedia.com/0ind7EWU2V1ZUE9FvQlEsHd_jQJAZ2tubIf9GfTxFRs.jpg?s=ace785d15a772e23a7e50b3a93f3ee98 frameborder=0>
+- entry_name: |
+    TIL Your pup can pick up on subtle changes in your scent, which can help him figure out how you are feeling — such as by smelling your perspiration when you become nervous or fearful. It’s also likely how dogs can detect certain diseases or know that a household member is pregnantIn
+  entry_id: 90mspm
+  entry_content: |
+    <img src=https://i.redditmedia.com/imb6NCSE_smBgl4A-CSb_3rX43O1ixHi1vrsT0X27yE.jpg?s=72f081021298aaae2fe975d592488f2a frameborder=0>
+- entry_name: |
+    I love that this is how he is credited as
+  entry_id: 90l9md
+  entry_content: |
+    <img src=https://i.redditmedia.com/t8ADm4BvEjM17Iw8SeJ9O9IVIOySHrlxGYlEk4-mqU0.jpg?s=34d8451290cad40779190e0ce6ac3e00 frameborder=0>
 ---
