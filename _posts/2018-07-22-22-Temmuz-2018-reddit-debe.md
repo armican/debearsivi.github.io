@@ -228,11 +228,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5mium32w95b11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This ice cream store's worst dollar
-  entry_id: 90i4uo
-  entry_content: |
-    <img src=https://i.redditmedia.com/tskYNP-NwrocR8EZLpb3sSkC6y9HtcTb0Vrj_C1jmFs.jpg?s=41acbe7c55ccdac6e932aed24eb635c4 frameborder=0>
-- entry_name: |
     She deserved it.
   entry_id: 90mn8o
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 90jwpd
   entry_content: |
     <img src=https://i.redditmedia.com/XeoqRVPauUW7_6a2Y1CKuiJtjQptl5fIYnbN86ELbNM.jpg?s=40358e824a239b74f44d51cdddb216e2 frameborder=0>
+- entry_name: |
+    How's my driving? Call 1-800-⠠⠋⠥⠉⠅ ⠽⠕⠥
+  entry_id: 90nw26
+  entry_content: |
+    <iframe src=https://v.redd.it/p7qlw09fh9b11/DASH_1_2_M frameborder=0></iframe>
 ---
