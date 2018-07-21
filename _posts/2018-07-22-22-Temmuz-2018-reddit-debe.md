@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1-OiCP2phYzxs04ffY1UyAo9QIoW9qMHpqf4YGAyCUU.jpg?s=a5fc5da336e5f0956bbad0efd80722c7 frameborder=0>
 - entry_name: |
-    State Department deletes a statement condemning Russia over MH17 downing right after Trump's Putin summit
-  entry_id: 90iz1r
-  entry_content: |
-    <img src=https://i.redditmedia.com/oeDHP0fOf889AD7QAF664iYf-5naUDDO8zxeMjaJit8.jpg?s=a45013b7445ed2160f5406f8feae9c94 frameborder=0>
-- entry_name: |
     In Interstellar on the water planet, the soundtrack in the background has a prominent ticking noise. These ticks happen every 1.25 seconds. Each tick you hear is a whole day passing on Earth. (Math in the comments)
   entry_id: 90luwh
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WiNwbDow9h6WXi9zkTTStAFJIehAcfZJodBBKYk7myM.jpg?s=d863ae27ab9092a1b8581119a5acd7f6 frameborder=0>
 - entry_name: |
-    What's your expertise?
-  entry_id: 90j4lf
-  entry_content: |
-    <img src=https://i.redditmedia.com/hK5QKo1_60_qXpDEbEsX6AEv53dyir4c9jtFkVuUKmM.jpg?s=dd4a9d5ff6be32c67328cf8eaf56e95b frameborder=0>
-- entry_name: |
     Can I get an appraisal?
   entry_id: 90m2m1
   entry_content: |
@@ -193,11 +183,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/p7qlw09fh9b11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Madlasses must not be messed with
-  entry_id: 90iyuc
-  entry_content: |
-    <img src=https://i.redditmedia.com/NTYFkUymnf1E0V9naYj1psat9dUyTtECr20Pfykq1Lw.jpg?s=a3af54cb7b7bc02b95e56bdcf333c428 frameborder=0>
-- entry_name: |
     One in a million blue lobster
   entry_id: 90pg9u
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 90l9md
   entry_content: |
     <img src=https://i.redditmedia.com/t8ADm4BvEjM17Iw8SeJ9O9IVIOySHrlxGYlEk4-mqU0.jpg?s=34d8451290cad40779190e0ce6ac3e00 frameborder=0>
+- entry_name: |
+    Melania’s face after meeting Putin.
+  entry_id: 90jfr8
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFragrantHarmfulIndianskimmer&url=https%3A%2F%2Fgfycat.com%2FFragrantHarmfulIndianskimmer&image=https%3A%2F%2Fthumbs.gfycat.com%2FFragrantHarmfulIndianskimmer-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Eating Ice
+  entry_id: 90kzeb
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FFarawayAlienatedElephant&url=https%3A%2F%2Fgfycat.com%2FFarawayAlienatedElephant&image=https%3A%2F%2Fthumbs.gfycat.com%2FFarawayAlienatedElephant-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    He'll be leaving us soon :,(
+  entry_id: 90lawj
+  entry_content: |
+    <img src=https://i.redditmedia.com/lnBNboYlLLxLWxwR4y3QmODqdNSGw-0haCkAkDtphEE.jpg?s=6f16743144a655202cebd5afbcafa946 frameborder=0>
 ---
