@@ -33,10 +33,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/agUIZIR4cqVX_4q44q0uOcg1tW6kZ2NUDg9HklVKTeU.jpg?s=47c5362e4f99b5b421cc798b83710782 frameborder=0>
 - entry_name: |
-  entry_id: 90rlfl
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/go6GEIrcvFY?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Southwest Shade
   entry_id: 90s9bt
   entry_content: |
@@ -249,4 +245,9 @@ data:
   entry_id: 90spcx
   entry_content: |
     <img src=https://i.redditmedia.com/j8W4ZEAfWN2risjEJtf2rk8NMe7BD37kafRz9XtnyCg.jpg?s=bc41bbc2802b64dc6e2e0ec32220859e frameborder=0>
+- entry_name: |
+    Oh boy! A selfie!
+  entry_id: 90shyg
+  entry_content: |
+    <iframe src=https://v.redd.it/fr2n1ac68db11/DASH_9_6_M frameborder=0></iframe>
 ---
