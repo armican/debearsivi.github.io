@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Hy2qfqhfZS2njSiKujq9DLn6M8IAWwfBRtdTDXynyQw.jpg?s=fe8ce47caabe8fc58dc0c7b9081c078f frameborder=0>
 - entry_name: |
-    A praying mantis (hymenaea protera) trapped in amber, approximately 12 million years old.
-  entry_id: 90re27
-  entry_content: |
-    <img src=https://i.redditmedia.com/EtGmBL75HC-0_W8GD59s2c2ltWBs_Aew5DD0KS5ovcQ.jpg?s=ce287d2258561a1665f7fcd534f71938 frameborder=0>
-- entry_name: |
     Size of the moon compared to USA
   entry_id: 90tuxv
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 90xqny
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/qsjshesbORc?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    This tree I saw today looks like it didn’t render correctly.
+  entry_id: 90spcx
+  entry_content: |
+    <img src=https://i.redditmedia.com/j8W4ZEAfWN2risjEJtf2rk8NMe7BD37kafRz9XtnyCg.jpg?s=bc41bbc2802b64dc6e2e0ec32220859e frameborder=0>
 ---
