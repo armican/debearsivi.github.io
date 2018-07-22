@@ -8,6 +8,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/30x1wXoILxJq0vuxoHglFyNJKEQRbZDpJ4QyBgNkeRY.jpg?s=0c2719a81292f964643cb6898af4eb11 frameborder=0>
 - entry_name: |
+    Mercy rescuing a Reaper who got his cloak caught in the escalator
+  entry_id: 90wv7y
+  entry_content: |
+    <img src=https://i.redditmedia.com/CJxL7TjNAtkFjgLAYQUnHnfpxcQBGBItIWv7B00ccNo.jpg?s=6dfaf81af5db0a2109fe4e8817ec8934 frameborder=0>
+- entry_name: |
     Dad attempts Gymnastic moves with his daughter.
   entry_id: 90trrh
   entry_content: |
@@ -18,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ikjU-xL_vYReYpNYDTa2LGJYUozXNoldQmT8by-VZLw.jpg?s=bb5b09ed01aa44ce160890f250ee981c frameborder=0>
 - entry_name: |
-    Mercy rescuing a Reaper who got his cloak caught in the escalator
-  entry_id: 90wv7y
-  entry_content: |
-    <img src=https://i.redditmedia.com/CJxL7TjNAtkFjgLAYQUnHnfpxcQBGBItIWv7B00ccNo.jpg?s=6dfaf81af5db0a2109fe4e8817ec8934 frameborder=0>
-- entry_name: |
     TIL that a 5 year old called 911 after his mother collapsed in her bedroom. The operator hung on the kid saying he was fake calling 911 after 3 hours he called again and another operator said he should not play games and hung up him, Mother of 10 was found dead shortly after.
   entry_id: 90w9jz
   entry_content: |
@@ -32,11 +32,6 @@ data:
   entry_id: 90re27
   entry_content: |
     <img src=https://i.redditmedia.com/EtGmBL75HC-0_W8GD59s2c2ltWBs_Aew5DD0KS5ovcQ.jpg?s=ce287d2258561a1665f7fcd534f71938 frameborder=0>
-- entry_name: |
-    Making a typo in an online argument is the equivalent of voice cracking in a verbal argument.
-  entry_id: 90raqs
-  entry_content: |
-    null
 - entry_name: |
     Size of the moon compared to USA
   entry_id: 90tuxv
@@ -57,6 +52,16 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAgitatedGiftedAllosaurus&url=https%3A%2F%2Fgfycat.com%2Fagitatedgiftedallosaurus&image=https%3A%2F%2Fthumbs.gfycat.com%2FAgitatedGiftedAllosaurus-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    Young swordfish casually swimming around a marina.
+  entry_id: 90x9eu
+  entry_content: |
+    <iframe src=https://v.redd.it/7etqwjhmnhb11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I'm an artist from Romania who spent the last month working on this pencil drawing titled Innocence. I'm new to reddit and wanted to share it with everyone here.
+  entry_id: 90xdz8
+  entry_content: |
+    <img src=https://i.redditmedia.com/SWuigeFNNiW0U2Bu4-NRekQsmcyZ8rzefPOhNxao71M.jpg?s=26567e666ba98d87d47487de3a228bca frameborder=0>
+- entry_name: |
     Zectangles.
   entry_id: 90t9oe
   entry_content: |
@@ -67,6 +72,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FEut3keJq5PcHFAcpbUNB10k93qhdi-yGqgDWqTExIk.jpg?s=b4acfa8bfff01745b792b2515188bcfe frameborder=0>
 - entry_name: |
+    This turtle is fast
+  entry_id: 90xbq8
+  entry_content: |
+    <iframe src=https://v.redd.it/nm4adrm4qhb11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     gucci gang
   entry_id: 90tu1s
   entry_content: |
@@ -76,16 +86,6 @@ data:
   entry_id: 90t25t
   entry_content: |
     <iframe src=https://v.redd.it/o5m7lebhfcb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Young swordfish casually swimming around a marina.
-  entry_id: 90x9eu
-  entry_content: |
-    <iframe src=https://v.redd.it/7etqwjhmnhb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    I'm an artist from Romania who spent the last month working on this pencil drawing titled Innocence. I'm new to reddit and wanted to share it with everyone here.
-  entry_id: 90xdz8
-  entry_content: |
-    <img src=https://i.redditmedia.com/SWuigeFNNiW0U2Bu4-NRekQsmcyZ8rzefPOhNxao71M.jpg?s=26567e666ba98d87d47487de3a228bca frameborder=0>
 - entry_name: |
     Well done.
   entry_id: 90t0zj
@@ -117,30 +117,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Wv7-zqTSUQ3J1fwdfsfypxq4eCqyQT5C02qZ0R0-TJg.jpg?s=9ec6573edb6789bd37f7265c19976b9a frameborder=0>
 - entry_name: |
-    This turtle is fast
-  entry_id: 90xbq8
-  entry_content: |
-    <iframe src=https://v.redd.it/nm4adrm4qhb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Server came and took his plate.....while he was still eating
-  entry_id: 90r9z7
-  entry_content: |
-    <img src=https://i.redditmedia.com/tWtkRi4GGGYdUqnazKV4K4fUCVJhfRz3TL8Ma91iMoY.jpg?s=d702e2caaef0b24ff9d93267057e4fc2 frameborder=0>
-- entry_name: |
     Nationalize it
   entry_id: 90umpu
   entry_content: |
     <img src=https://i.redditmedia.com/b96MAPfi4aQtZcWnYj5MmajJCyOWg2bTTbf0C4DXGlA.jpg?s=931da2b9123c96a15ef9f60be44b40d8 frameborder=0>
+- entry_name: |
+    Will spare me a lot of pain
+  entry_id: 90wt4e
+  entry_content: |
+    <img src=https://i.redditmedia.com/lMUIvG-CQQi89nSFmFeUWcZzMyZe8klc69ACwMsTsqc.jpg?s=79c966e70ea6b4789f6f41da46d8b356 frameborder=0>
+- entry_name: |
+    Found on Craigslist. I have no words.
+  entry_id: 90unc2
+  entry_content: |
+    <img src=https://i.redditmedia.com/ifgFOWoQCRuPknGXiX27fhBcCpngRoYF-oqlI7n8XL0.jpg?s=5862c8d45d43417c44fd6be4ab87062d frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 90tg5r
   entry_content: |
     <img src=https://i.redditmedia.com/PW88VafII8TH7gg3UVmBpVtXssokLpUeiWBKUazvBaU.jpg?s=b8ace72dccc5e5d7cb2c77d69dab32f0 frameborder=0>
 - entry_name: |
-    Found on Craigslist. I have no words.
-  entry_id: 90unc2
+    I took one tracked and one untracked exposure of the Milky Way and combined them to bring out an extreme amount of detail - Rocky Mountain National Park, CO
+  entry_id: 90xi4p
   entry_content: |
-    <img src=https://i.redditmedia.com/ifgFOWoQCRuPknGXiX27fhBcCpngRoYF-oqlI7n8XL0.jpg?s=5862c8d45d43417c44fd6be4ab87062d frameborder=0>
+    <img src=https://i.redditmedia.com/8k1XBYObA6_unuw3G2DrTILXPumQWacMPB3V9YoRsvU.jpg?s=9573654bbaf5001ecc298dcea08c178d frameborder=0>
 - entry_name: |
     Roses are red, Rihanna can twerk
   entry_id: 90uola
@@ -161,10 +161,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-SdZm7MkLfJBmL2b8lXp9VU0H3lPDK7wqqLmuFzCpqQ.jpg?s=3000306425424fe256b692bb076d6164 frameborder=0>
 - entry_name: |
-    Will spare me a lot of pain
-  entry_id: 90wt4e
+    While trying on a pair of wrap pants that I'm halfway through making, I noticed...a flower...on my vagina. Pattern placement problems are real.
+  entry_id: 90xp3o
   entry_content: |
-    <img src=https://i.redditmedia.com/lMUIvG-CQQi89nSFmFeUWcZzMyZe8klc69ACwMsTsqc.jpg?s=79c966e70ea6b4789f6f41da46d8b356 frameborder=0>
+    <img src=https://i.redditmedia.com/7dxUt6COxX6LDotJYa_c7bqJ5zJJOeZBqD3tAGYuFg0.jpg?s=4059e348e2f7e209c68ae23ee5a8d486 frameborder=0>
+- entry_name: |
+    TIL When Robin Williams auditioned for the role of Mork on 'Mork and Mindy', he was asked to take a seat. Williams responded by sitting on his head, upside down in the chair. He was hired on the spot because, 'He was the only alien to audition' for the part.
+  entry_id: 90y2ef
+  entry_content: |
+    <img src=https://i.redditmedia.com/Sa4gV9j5z9AEOIs9y_v35oPPGUC-3gsVVUpVKsBflXE.jpg?s=cfbd4533142d2db59c8e48b0677bcf61 frameborder=0>
 - entry_name: |
     US citizen....
   entry_id: 90rpdg
@@ -186,20 +191,34 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/0osmeridkeb11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 90wsom
+  entry_content: |
+    <img src=https://i.redditmedia.com/Klm12xAQkLG3XcLDRmd7bCvPx2LnzJ0sxeUGp8nuwhQ.jpg?s=1be679c0be896a4ff6cedbaf5bee3fc7 frameborder=0>
+- entry_name: |
     THIS LADS INSANE!
   entry_id: 90ss4j
   entry_content: |
     <img src=https://i.redditmedia.com/VamvNZKyHpBoIokZc3DYylrTpHzzP9EWnba8kZ70K6o.jpg?s=ccc58191546133b538179b430036ee92 frameborder=0>
 - entry_name: |
-    I took one tracked and one untracked exposure of the Milky Way and combined them to bring out an extreme amount of detail - Rocky Mountain National Park, CO
-  entry_id: 90xi4p
+    3 people, 12 seats
+  entry_id: 90x43t
   entry_content: |
-    <img src=https://i.redditmedia.com/8k1XBYObA6_unuw3G2DrTILXPumQWacMPB3V9YoRsvU.jpg?s=9573654bbaf5001ecc298dcea08c178d frameborder=0>
+    <img src=https://i.redditmedia.com/wCJJryeG7lm2cAnyT1T6FsPj8pwvkQ05oq-1YPhJ2lg.jpg?s=1aa6b8e285e63ca5b223197f7ac5a418 frameborder=0>
 - entry_name: |
     SLPT: Bathroom edition
   entry_id: 90thyr
   entry_content: |
     <img src=https://i.redditmedia.com/RJUZOpAJiL8LG8HYXtOPL28Q0QsdcvUgdomtcXszDYg.jpg?s=407d095de025554d166fb06157c514ad frameborder=0>
+- entry_name: |
+    petting octopus !
+  entry_id: 90wbhc
+  entry_content: |
+    <iframe src=https://v.redd.it/eeibtct9igb11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    If this isn’t trashy, I don’t know what is
+  entry_id: 90xw1y
+  entry_content: |
+    <img src=https://i.redditmedia.com/59YC90OFieofRj7lXKbS9-4b2ga_Z5IrROoYUCedmpE.jpg?s=650bb02985888c1f28780dbb23dff9d4 frameborder=0>
 - entry_name: |
     Playing with a lioness.
   entry_id: 90rqa3
@@ -211,42 +230,23 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tkgaaz7mkeb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 90wsom
+    I'm running out of tricks here.
+  entry_id: 90wtsp
   entry_content: |
-    <img src=https://i.redditmedia.com/Klm12xAQkLG3XcLDRmd7bCvPx2LnzJ0sxeUGp8nuwhQ.jpg?s=1be679c0be896a4ff6cedbaf5bee3fc7 frameborder=0>
-- entry_name: |
-    petting octopus !
-  entry_id: 90wbhc
-  entry_content: |
-    <iframe src=https://v.redd.it/eeibtct9igb11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    This tree I saw today looks like it didn’t render correctly.
-  entry_id: 90spcx
-  entry_content: |
-    <img src=https://i.redditmedia.com/j8W4ZEAfWN2risjEJtf2rk8NMe7BD37kafRz9XtnyCg.jpg?s=bc41bbc2802b64dc6e2e0ec32220859e frameborder=0>
-- entry_name: |
-    Oh boy! A selfie!
-  entry_id: 90shyg
-  entry_content: |
-    <iframe src=https://v.redd.it/fr2n1ac68db11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    As an adult who wants to go out but doesn’t want to stay up too late, what would you think of a club where everything happens 4 hours earlier than most clubs?
-  entry_id: 90uaxx
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/68Li-WrJoi6PZJ3cm4bcwJBRDlAvSTNS7Hp-v2-rqkk.png?s=ea2e777e2f0c9d0f010c313e55f82725 frameborder=0>
 - entry_name: |
     Madonna is cancelled
   entry_id: 90wnfe
   entry_content: |
     <img src=https://i.redditmedia.com/wXYgXTpTFXjAwr0_YSwwLmpGvyqAw9fiLpR49CFJFAA.jpg?s=15366bd21009e5615d8742b7465d6cc4 frameborder=0>
 - entry_name: |
-    3 people, 12 seats
-  entry_id: 90x43t
-  entry_content: |
-    <img src=https://i.redditmedia.com/wCJJryeG7lm2cAnyT1T6FsPj8pwvkQ05oq-1YPhJ2lg.jpg?s=1aa6b8e285e63ca5b223197f7ac5a418 frameborder=0>
-- entry_name: |
-    “This is 911, what’s your emergency?” the operator asked.
-  entry_id: 90t4pg
+    As an adult who wants to go out but doesn’t want to stay up too late, what would you think of a club where everything happens 4 hours earlier than most clubs?
+  entry_id: 90uaxx
   entry_content: |
     null
+- entry_name: |
+    Guy who HATES Kevin Spacey movies gets tricked by his friends into watching Se7en, where Spacey's character doesn't appear until 90 min in...
+  entry_id: 90xqny
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/qsjshesbORc?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
