@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAgitatedGiftedAllosaurus&url=https%3A%2F%2Fgfycat.com%2Fagitatedgiftedallosaurus&image=https%3A%2F%2Fthumbs.gfycat.com%2FAgitatedGiftedAllosaurus-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Southwest Shade
-  entry_id: 90s9bt
-  entry_content: |
-    <iframe src=https://v.redd.it/qo9tpk832db11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     50,000 sign petition for Disney to rehire James Gunn for Guardians of the Galaxy Vol. 3
   entry_id: 90yyox
   entry_content: |
@@ -181,11 +176,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wCJJryeG7lm2cAnyT1T6FsPj8pwvkQ05oq-1YPhJ2lg.jpg?s=1aa6b8e285e63ca5b223197f7ac5a418 frameborder=0>
 - entry_name: |
-    Misery Loves Company.
-  entry_id: 90salt
-  entry_content: |
-    <img src=https://i.redditmedia.com/-SdZm7MkLfJBmL2b8lXp9VU0H3lPDK7wqqLmuFzCpqQ.jpg?s=3000306425424fe256b692bb076d6164 frameborder=0>
-- entry_name: |
     Strong woman picks up hot guy
   entry_id: 90xm6c
   entry_content: |
@@ -250,4 +240,14 @@ data:
   entry_id: 90xd18
   entry_content: |
     <img src=https://i.redditmedia.com/Z-OV-DrWu5fsttx2f0yMDuWkWl4S332OzYO4EIUe9Rg.jpg?s=3409e083fdee38371641805ede12a2f8 frameborder=0>
+- entry_name: |
+    This tree I saw today looks like it didn’t render correctly.
+  entry_id: 90spcx
+  entry_content: |
+    <img src=https://i.redditmedia.com/j8W4ZEAfWN2risjEJtf2rk8NMe7BD37kafRz9XtnyCg.jpg?s=bc41bbc2802b64dc6e2e0ec32220859e frameborder=0>
+- entry_name: |
+    Back off, franklin
+  entry_id: 90xa0a
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kte_qEiROeSQbFAAJfx6cKP-6b4ZwXDLg7-f_RADbag.jpg?s=03f332146715f0bb7378ddd9d3af08e2 frameborder=0>
 ---
