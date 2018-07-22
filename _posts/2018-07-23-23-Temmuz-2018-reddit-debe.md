@@ -106,7 +106,7 @@ data:
     Pupper of the subway
   entry_id: 90svt5
   entry_content: |
-    <iframe src=https://v.redd.it/i7zd3ghehdb11/DASH_4_8_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/sx94s04fxjb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I took one tracked and one untracked exposure of the Milky Way and combined them to bring out an extreme amount of detail - Rocky Mountain National Park, CO
   entry_id: 90xi4p
@@ -181,11 +181,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Klm12xAQkLG3XcLDRmd7bCvPx2LnzJ0sxeUGp8nuwhQ.jpg?s=1be679c0be896a4ff6cedbaf5bee3fc7 frameborder=0>
 - entry_name: |
-    Using various small-scale writing techniques to visualize the transition from the nano scale to the visible world using a penny
-  entry_id: 90rvj1
-  entry_content: |
-    <iframe src=https://v.redd.it/w0wdjixnscb11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     3 people, 12 seats
   entry_id: 90x43t
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 90spcx
   entry_content: |
     <img src=https://i.redditmedia.com/j8W4ZEAfWN2risjEJtf2rk8NMe7BD37kafRz9XtnyCg.jpg?s=bc41bbc2802b64dc6e2e0ec32220859e frameborder=0>
+- entry_name: |
+    PsBattle: Dressed as Romans guys at the bus stop
+  entry_id: 90v6f8
+  entry_content: |
+    <img src=https://i.redditmedia.com/vSApsdkBdpNaaSD5UxA9_5lXdbp9OXYNaE6TXFSJZMc.jpg?s=0445918dc57756e548416acdafa494bc frameborder=0>
 ---
