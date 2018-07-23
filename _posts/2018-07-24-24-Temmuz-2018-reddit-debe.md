@@ -43,20 +43,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5ma47hb1ckb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    a 3d printed bender!
-  entry_id: 910cec
-  entry_content: |
-    <iframe src=https://v.redd.it/ljcjuyi7xjb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
   entry_id: 916idu
   entry_content: |
     <img src=https://i.redditmedia.com/crEv-ts2E2mjHE3dshhMLgkS3Vv0wHpPhglL49EE7QM.jpg?s=f99545e0d5da26bbc0039c1bb5e20963 frameborder=0>
-- entry_name: |
-    Wtf did I just watch???
-  entry_id: 910cxe
-  entry_content: |
-    <iframe src=https://v.redd.it/9zfzsgzoxjb11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     Staring Contest, Jan Hakon Erichsen, performance art, 2018
   entry_id: 911vpd
@@ -238,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kqbZxY-ZU9m69ZdJ7qcIWImiDnwVSYS_GgSOySopwiI.jpg?s=4fac5cc291e94080833807957ab8cd7b frameborder=0>
 - entry_name: |
-    coming to your nearest bookstore
-  entry_id: 910d4s
-  entry_content: |
-    <img src=https://i.redditmedia.com/FACGDhUEjN5qWEdT_cob5hbH1NmcpBCeLLAQ9uDSJxk.jpg?s=76ae96649939e7a816a27a16db9f6491 frameborder=0>
-- entry_name: |
     The real Donald Trump
   entry_id: 916yru
   entry_content: |
@@ -252,4 +237,19 @@ data:
   entry_id: 913o9x
   entry_content: |
     <img src=https://i.redditmedia.com/yDe7jqbffl7GP3H1BF2abk72JRuIAjDuplwYPVlzTFs.jpg?s=8eee086b4b5fced93705b0c911b4c24b frameborder=0>
+- entry_name: |
+    What a good girl! So sweet
+  entry_id: 911ykp
+  entry_content: |
+    <img src=https://i.redditmedia.com/EDyjw_-pv3LBZCtxbS24HnluyNXjvFAQP2bOESE5eS0.jpg?s=4789e064d266140276b5ffacc3102b76 frameborder=0>
+- entry_name: |
+    Anyone who won a lifetime supply of something, what did you win, and are they still supplying it to you?
+  entry_id: 9166xb
+  entry_content: |
+    null
+- entry_name: |
+    I miss you, digital, 320x200px
+  entry_id: 916ziv
+  entry_content: |
+    <img src=https://i.redditmedia.com/sQxo3KfOZozZnKS0aIouYZsEB7LQQOI6DcOci-YGIZ8.gif?fm=jpg&s=e0a7914dfee9ce068335f57ca81ce1fc frameborder=0>
 ---
