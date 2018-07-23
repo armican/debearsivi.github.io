@@ -28,15 +28,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1Q02VV5wVhv7SKLJqB6a1jjJQozCjjxnfPLgEoZ2U_Q.jpg?s=e20908f8f9e24df1b52f583102c45351 frameborder=0>
 - entry_name: |
-    At that moment, she realized how much she hated her job
-  entry_id: 910yue
-  entry_content: |
-    <iframe src=https://v.redd.it/5ma47hb1ckb11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     A swole heart
   entry_id: 913o28
   entry_content: |
     <img src=https://i.redditmedia.com/UkEVC42ciVOtmEka3YXSMN9-NptVSEsjAYofGzh3iKI.jpg?s=0aeb78ab27f9e50143e1ac35cd52f77c frameborder=0>
+- entry_name: |
+    At that moment, she realized how much she hated her job
+  entry_id: 910yue
+  entry_content: |
+    <iframe src=https://v.redd.it/5ma47hb1ckb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Brooklyn Supreme, the biggest horse ever. 199 cm tall and 1450 kg weight. 1930
   entry_id: 910a2k
@@ -63,10 +63,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/v9y4og18qkb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    meow💸irl
+  entry_id: 91718a
+  entry_content: |
+    <iframe src=https://v.redd.it/em7hnxfn8pb11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    I don't remember saying I was lonely...
+  entry_id: 9169kk
+  entry_content: |
+    <iframe src=https://v.redd.it/bozamv1boob11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     Clever Mystique Costume
   entry_id: 90zura
   entry_content: |
     <img src=https://i.redditmedia.com/VqK6gq3MCdgvDFHIE2yGFLJf2sjnybieNbnJJfEwyLM.jpg?s=bb44ce1e7120c85f4d7f6a50db7a099c frameborder=0>
+- entry_name: |
+    This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
+  entry_id: 916idu
+  entry_content: |
+    <img src=https://i.redditmedia.com/crEv-ts2E2mjHE3dshhMLgkS3Vv0wHpPhglL49EE7QM.jpg?s=f99545e0d5da26bbc0039c1bb5e20963 frameborder=0>
+- entry_name: |
+    TIL of the Shirky Principle: Institutions will try to preserve the problem to which they are the solution.
+  entry_id: 916cme
+  entry_content: |
+    <img src=https://i.redditmedia.com/hjTZOHgD0Nb3bD-NvndGwosXkxnriQFL8BufMJfWUpY.jpg?s=dc6553d9deb31e93b5c36bddc632b158 frameborder=0>
 - entry_name: |
     sad sunday thoughts by mr. crews 😕
   entry_id: 912id0
@@ -103,35 +123,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CzzvVYhxiNU3_7wFuG-Cxe7syrvMs1HOatyG73t9ngw.jpg?s=401c4472835c8ca45c92458455d61ded frameborder=0>
 - entry_name: |
-    I don't remember saying I was lonely...
-  entry_id: 9169kk
+    Librarians are in uproar after an article in Forbes magazine proposed replacing all public libraries in the US with Amazon bookstores, which said libraries ‘don’t have the same value they used to’ and cost taxpayers too much
+  entry_id: 915z32
   entry_content: |
-    <iframe src=https://v.redd.it/bozamv1boob11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
-  entry_id: 916idu
-  entry_content: |
-    <img src=https://i.redditmedia.com/crEv-ts2E2mjHE3dshhMLgkS3Vv0wHpPhglL49EE7QM.jpg?s=f99545e0d5da26bbc0039c1bb5e20963 frameborder=0>
-- entry_name: |
-    meow💸irl
-  entry_id: 91718a
-  entry_content: |
-    <iframe src=https://v.redd.it/em7hnxfn8pb11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/FFOYrdkJfFYOYtTLWUqtBWf0wttcjQIm9DcY9RKU0EI.jpg?s=f8a30abb5cfd2116172c4bcc7a20f9fc frameborder=0>
 - entry_name: |
     Mildred & Richard Loving, whose marriage, and subsequent court cases, would go on to end all race-based legal restrictions on marriage in the US. (1950s)
   entry_id: 913ezz
   entry_content: |
     <img src=https://i.redditmedia.com/mR3zDZMWGeh0BRuePMFwN0a9mLsOviS2r6BgArCKBwk.jpg?s=d87b8fd7ce8e63ce768d611125f107f0 frameborder=0>
-- entry_name: |
-    TIL of the Shirky Principle: Institutions will try to preserve the problem to which they are the solution.
-  entry_id: 916cme
-  entry_content: |
-    <img src=https://i.redditmedia.com/hjTZOHgD0Nb3bD-NvndGwosXkxnriQFL8BufMJfWUpY.jpg?s=dc6553d9deb31e93b5c36bddc632b158 frameborder=0>
-- entry_name: |
-    Librarians are in uproar after an article in Forbes magazine proposed replacing all public libraries in the US with Amazon bookstores, which said libraries ‘don’t have the same value they used to’ and cost taxpayers too much
-  entry_id: 915z32
-  entry_content: |
-    <img src=https://i.redditmedia.com/FFOYrdkJfFYOYtTLWUqtBWf0wttcjQIm9DcY9RKU0EI.jpg?s=f8a30abb5cfd2116172c4bcc7a20f9fc frameborder=0>
 - entry_name: |
     Former Trump campaign adviser Carter Page called allegations that he was a Russian agent “spin,” a “ridiculous smear campaign” and “literally a complete joke” - but admitted that he had worked as an informal adviser to the Russian government.
   entry_id: 912tq0
@@ -143,60 +143,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CPJ-l6y-79CQH6iSsmxSs35sCHYWWAIH2xjIPeD7OYM.jpg?s=f53ad96756f47aa9d7b35532f6802018 frameborder=0>
 - entry_name: |
-    Water bounded by a hydrophobic material.
-  entry_id: 90ztl1
+    The Mom we need.
+  entry_id: 916bfz
   entry_content: |
-    <iframe src=https://v.redd.it/zpig782ykjb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    TIL there is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.
-  entry_id: 9110we
-  entry_content: |
-    <img src=https://i.redditmedia.com/19rFI4h2NkEcpt9E5mEyxi6hvg6vuPcqaoUizq7bNig.jpg?s=f6a9b18446aed367be1618498c48b067 frameborder=0>
-- entry_name: |
-    Parents tend to prefer a high-income but less attractive man for their daughters, while daughters view the physical attractiveness of their spouses as more important than their parents, finds new research from China (N=589).
-  entry_id: 911lj8
-  entry_content: |
-    <img src=https://i.redditmedia.com/HtvZ93U0W6cRPPVB4Dy9j8t9QLVbbrZHtIRnAcCGGkw.jpg?s=82286e666d19b25a8f5ac236b15b505c frameborder=0>
+    <iframe src=https://v.redd.it/xi3njudrpob11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Stop-motion animation for “Kubo and the Two Strings”
   entry_id: 915zd2
   entry_content: |
     <iframe src=https://v.redd.it/ibbh315r6ob11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    TIL there is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.
+  entry_id: 9110we
+  entry_content: |
+    <img src=https://i.redditmedia.com/19rFI4h2NkEcpt9E5mEyxi6hvg6vuPcqaoUizq7bNig.jpg?s=f6a9b18446aed367be1618498c48b067 frameborder=0>
+- entry_name: |
     This is too good
   entry_id: 9147ol
   entry_content: |
     <img src=https://i.redditmedia.com/jzk0BflKZz955Id3eOUy20FWxBpF0NoSfUMd3zvMAjs.jpg?s=208d1bd7aa2a51c7318706da7bc34a63 frameborder=0>
 - entry_name: |
-    A true man of culture
-  entry_id: 90zu28
+    Parents tend to prefer a high-income but less attractive man for their daughters, while daughters view the physical attractiveness of their spouses as more important than their parents, finds new research from China (N=589).
+  entry_id: 911lj8
   entry_content: |
-    <img src=https://i.redditmedia.com/KdFBa_A-2VHD4QR2K9c2CswBJTogutoJMzgqgnJ6qlc.jpg?s=1a428389e636f6971ae1107100562387 frameborder=0>
+    <img src=https://i.redditmedia.com/HtvZ93U0W6cRPPVB4Dy9j8t9QLVbbrZHtIRnAcCGGkw.jpg?s=82286e666d19b25a8f5ac236b15b505c frameborder=0>
 - entry_name: |
     Father and son pictures.
   entry_id: 913lf8
   entry_content: |
     <img src=https://i.redditmedia.com/VDHn9RbWMH_DPY1hjAUSJASPCFFBiBZus-6eyBudRgc.jpg?s=0f0ef5fa5735600eac34364d4556a966 frameborder=0>
 - entry_name: |
+    Tourist to Raider.
+  entry_id: 917txf
+  entry_content: |
+    <img src=https://i.redditmedia.com/p4YXhmTyBYkOikt1n2fGbdoa-ixYy1oXzoQQkzes0xM.png?s=2ca73be9e3f3f87ed3b72024ccbc0f4d frameborder=0>
+- entry_name: |
+    A true man of culture
+  entry_id: 90zu28
+  entry_content: |
+    <img src=https://i.redditmedia.com/KdFBa_A-2VHD4QR2K9c2CswBJTogutoJMzgqgnJ6qlc.jpg?s=1a428389e636f6971ae1107100562387 frameborder=0>
+- entry_name: |
     This is a bucket.....
   entry_id: 91564j
   entry_content: |
     <img src=https://i.redditmedia.com/_qoZaYSx0ALBg2IaExMUiy1p071C3GH_um5QabOXme8.jpg?s=c14c13241e508a541eec63dbf9cc6ee0 frameborder=0>
-- entry_name: |
-    What a flying fish looks like up close
-  entry_id: 90zto6
-  entry_content: |
-    <img src=https://i.redditmedia.com/RcSu8H7xbEhpJjCQnPCEXaT6jyAkE-EmeupH_AnbBQ8.jpg?s=6b0b8efe95284db320a202dfb8b63738 frameborder=0>
-- entry_name: |
-    This Starbucks employee spending 15 minutes teaching an older lady how to use their app is the real MVP
-  entry_id: 910qbh
-  entry_content: |
-    <img src=https://i.redditmedia.com/S3L-3CmT193zUa_s0JfPlvulC58S31KtpkGde67tGiY.jpg?s=12f4b007a305379c98c3ac839b7aa63d frameborder=0>
-- entry_name: |
-    worst company ever
-  entry_id: 9136sa
-  entry_content: |
-    <img src=https://i.redditmedia.com/k5dBoauX2bgn4Pja5Lb785hy9wLjaSA06J0mlqTI9bw.jpg?s=fbc1fa1769e7ffb6c792913afbd5ebac frameborder=0>
 - entry_name: |
     Does this count?
   entry_id: 915g6e
@@ -208,25 +198,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/mt6M0AzUtxGPGBwJ0I2R7NN_MzaTOIpcc7Mm5hirO8A.jpg?s=c923e9eaabc42803f6ace7924b55e15e frameborder=0>
 - entry_name: |
+    This Starbucks employee spending 15 minutes teaching an older lady how to use their app is the real MVP
+  entry_id: 910qbh
+  entry_content: |
+    <img src=https://i.redditmedia.com/S3L-3CmT193zUa_s0JfPlvulC58S31KtpkGde67tGiY.jpg?s=12f4b007a305379c98c3ac839b7aa63d frameborder=0>
+- entry_name: |
+    worst company ever
+  entry_id: 9136sa
+  entry_content: |
+    <img src=https://i.redditmedia.com/k5dBoauX2bgn4Pja5Lb785hy9wLjaSA06J0mlqTI9bw.jpg?s=fbc1fa1769e7ffb6c792913afbd5ebac frameborder=0>
+- entry_name: |
+    Couldn’t agree more
+  entry_id: 916l5f
+  entry_content: |
+    <img src=https://i.redditmedia.com/s8TwkmY0mx0TDt8B0koKvRkbTy1cMvuZ2EvUy06C0ss.jpg?s=369467a22e6c14e027a9e62604a7e0a7 frameborder=0>
+- entry_name: |
+    The POTUS
+  entry_id: 9151ou
+  entry_content: |
+    <img src=https://i.redditmedia.com/kM31tEd9ewpjXkrROSYT8GN4T7hlkRTORm_w7TC6qeU.png?s=aac918c39986b648daea0dc4e4efb597 frameborder=0>
+- entry_name: |
     Swinging, off balance, on a bigger guy who has the higher ground WCGW
   entry_id: 9118g0
   entry_content: |
     <iframe src=https://v.redd.it/4ob3n0hdikb11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Save $-14.51
-  entry_id: 9103op
-  entry_content: |
-    <img src=https://i.redditmedia.com/26nnAmcValEwGGaVS59qoWmoi0lcPPewGyGvgUiQ4i4.jpg?s=38b9045da0fbfbdcd38ce058616c7753 frameborder=0>
 - entry_name: |
     Surfrider Foundation Sushi Ad
   entry_id: 913z7t
   entry_content: |
     <img src=https://i.redditmedia.com/y3EOe_Q-YggHvJZi5b_oRVUyp78LsRJb09naG5Bob0M.jpg?s=3a6db92f958a309ad64bc486e8cf5cd6 frameborder=0>
 - entry_name: |
-    The POTUS
-  entry_id: 9151ou
+    Save $-14.51
+  entry_id: 9103op
   entry_content: |
-    <img src=https://i.redditmedia.com/kM31tEd9ewpjXkrROSYT8GN4T7hlkRTORm_w7TC6qeU.png?s=aac918c39986b648daea0dc4e4efb597 frameborder=0>
+    <img src=https://i.redditmedia.com/26nnAmcValEwGGaVS59qoWmoi0lcPPewGyGvgUiQ4i4.jpg?s=38b9045da0fbfbdcd38ce058616c7753 frameborder=0>
 - entry_name: |
     TIL the term “mark” originated from the carnival. When dishonest game operators found someone they could entice to keep playing their rigged game, they would mark the player by patting their back with a hand that had chalk on it. Other carnies would then keep an eye out for rubes with chalk marks.
   entry_id: 9134gp
@@ -238,18 +243,13 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4wsu1cqfykb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    The way my cup broke
+  entry_id: 917dvf
+  entry_content: |
+    <img src=https://i.redditmedia.com/D5-i9SqO-3TbEIrWQpb8UaXgCtuRMg6qkiNmJLHIA8A.jpg?s=813925176e21dec1fa1be8c937891ea2 frameborder=0>
+- entry_name: |
     If only time didn't move so fast
   entry_id: 912u23
   entry_content: |
     <img src=https://i.redditmedia.com/TJQdUwNHViQjcsuS9W7hxohPxM7Muj6RKvuS6faVqXU.png?s=e3eea51df16e1388e3aaa7b23fd2a672 frameborder=0>
-- entry_name: |
-    coming to your nearest bookstore
-  entry_id: 910d4s
-  entry_content: |
-    <img src=https://i.redditmedia.com/FACGDhUEjN5qWEdT_cob5hbH1NmcpBCeLLAQ9uDSJxk.jpg?s=76ae96649939e7a816a27a16db9f6491 frameborder=0>
-- entry_name: |
-    The Mom we need.
-  entry_id: 916bfz
-  entry_content: |
-    <iframe src=https://v.redd.it/xi3njudrpob11/DASH_4_8_M frameborder=0></iframe>
 ---
