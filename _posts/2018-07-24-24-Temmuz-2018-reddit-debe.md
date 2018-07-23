@@ -23,11 +23,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCluelessBruisedGoldeneye&url=https%3A%2F%2Fgfycat.com%2FCluelessBruisedGoldeneye&image=https%3A%2F%2Fthumbs.gfycat.com%2FCluelessBruisedGoldeneye-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=270 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Police say a teenager who attached uplifting messages to a bridge to help people facing a mental health crisis has helped save six lives.
-  entry_id: 90znwq
-  entry_content: |
-    <img src=https://i.redditmedia.com/jh7osqLPWSxHAg689dSEzlmj3GjjUSekarUmu6T8xnc.jpg?s=b00c3d933c47db6a3925ad97ad929b2a frameborder=0>
-- entry_name: |
     Robin Williams and his daughter Zelda Williams.
   entry_id: 915wk9
   entry_content: |
@@ -218,11 +213,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4ob3n0hdikb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Oops..
-  entry_id: 915bei
-  entry_content: |
-    <img src=https://i.redditmedia.com/Ub_haX9UHwtT-mCawaf6miT7nVDcH4wRdKZGJ4vqf7o.jpg?s=9818165cf46d524824b782edd640b497 frameborder=0>
-- entry_name: |
     Save $-14.51
   entry_id: 9103op
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 912u23
   entry_content: |
     <img src=https://i.redditmedia.com/TJQdUwNHViQjcsuS9W7hxohPxM7Muj6RKvuS6faVqXU.png?s=e3eea51df16e1388e3aaa7b23fd2a672 frameborder=0>
+- entry_name: |
+    coming to your nearest bookstore
+  entry_id: 910d4s
+  entry_content: |
+    <img src=https://i.redditmedia.com/FACGDhUEjN5qWEdT_cob5hbH1NmcpBCeLLAQ9uDSJxk.jpg?s=76ae96649939e7a816a27a16db9f6491 frameborder=0>
+- entry_name: |
+    The Mom we need.
+  entry_id: 916bfz
+  entry_content: |
+    <iframe src=https://v.redd.it/xi3njudrpob11/DASH_4_8_M frameborder=0></iframe>
 ---
