@@ -63,11 +63,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/v9y4og18qkb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    meow💸irl
-  entry_id: 91718a
-  entry_content: |
-    <iframe src=https://v.redd.it/em7hnxfn8pb11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     I don't remember saying I was lonely...
   entry_id: 9169kk
   entry_content: |
@@ -218,11 +213,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y3EOe_Q-YggHvJZi5b_oRVUyp78LsRJb09naG5Bob0M.jpg?s=3a6db92f958a309ad64bc486e8cf5cd6 frameborder=0>
 - entry_name: |
-    Save $-14.51
-  entry_id: 9103op
-  entry_content: |
-    <img src=https://i.redditmedia.com/26nnAmcValEwGGaVS59qoWmoi0lcPPewGyGvgUiQ4i4.jpg?s=38b9045da0fbfbdcd38ce058616c7753 frameborder=0>
-- entry_name: |
     TIL the term “mark” originated from the carnival. When dishonest game operators found someone they could entice to keep playing their rigged game, they would mark the player by patting their back with a hand that had chalk on it. Other carnies would then keep an eye out for rubes with chalk marks.
   entry_id: 9134gp
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 914479
   entry_content: |
     <img src=https://i.redditmedia.com/kqbZxY-ZU9m69ZdJ7qcIWImiDnwVSYS_GgSOySopwiI.jpg?s=4fac5cc291e94080833807957ab8cd7b frameborder=0>
+- entry_name: |
+    What a good girl! So sweet
+  entry_id: 911ykp
+  entry_content: |
+    <img src=https://i.redditmedia.com/EDyjw_-pv3LBZCtxbS24HnluyNXjvFAQP2bOESE5eS0.jpg?s=4789e064d266140276b5ffacc3102b76 frameborder=0>
+- entry_name: |
+    That’ll really get ‘em, Donny.
+  entry_id: 913o9x
+  entry_content: |
+    <img src=https://i.redditmedia.com/yDe7jqbffl7GP3H1BF2abk72JRuIAjDuplwYPVlzTFs.jpg?s=8eee086b4b5fced93705b0c911b4c24b frameborder=0>
 ---
