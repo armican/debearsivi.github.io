@@ -33,6 +33,16 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/bozamv1boob11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    The way my cup broke
+  entry_id: 917dvf
+  entry_content: |
+    <img src=https://i.redditmedia.com/D5-i9SqO-3TbEIrWQpb8UaXgCtuRMg6qkiNmJLHIA8A.jpg?s=813925176e21dec1fa1be8c937891ea2 frameborder=0>
+- entry_name: |
+    This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
+  entry_id: 916idu
+  entry_content: |
+    <img src=https://i.redditmedia.com/crEv-ts2E2mjHE3dshhMLgkS3Vv0wHpPhglL49EE7QM.jpg?s=f99545e0d5da26bbc0039c1bb5e20963 frameborder=0>
+- entry_name: |
     A swole heart
   entry_id: 913o28
   entry_content: |
@@ -43,10 +53,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/5ma47hb1ckb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
-  entry_id: 916idu
+    TIL of the Shirky Principle: Institutions will try to preserve the problem to which they are the solution.
+  entry_id: 916cme
   entry_content: |
-    <img src=https://i.redditmedia.com/crEv-ts2E2mjHE3dshhMLgkS3Vv0wHpPhglL49EE7QM.jpg?s=f99545e0d5da26bbc0039c1bb5e20963 frameborder=0>
+    <img src=https://i.redditmedia.com/hjTZOHgD0Nb3bD-NvndGwosXkxnriQFL8BufMJfWUpY.jpg?s=dc6553d9deb31e93b5c36bddc632b158 frameborder=0>
 - entry_name: |
     Staring Contest, Jan Hakon Erichsen, performance art, 2018
   entry_id: 911vpd
@@ -58,20 +68,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/v9y4og18qkb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL of the Shirky Principle: Institutions will try to preserve the problem to which they are the solution.
-  entry_id: 916cme
+    Tourist to Raider.
+  entry_id: 917txf
   entry_content: |
-    <img src=https://i.redditmedia.com/hjTZOHgD0Nb3bD-NvndGwosXkxnriQFL8BufMJfWUpY.jpg?s=dc6553d9deb31e93b5c36bddc632b158 frameborder=0>
-- entry_name: |
-    The way my cup broke
-  entry_id: 917dvf
-  entry_content: |
-    <img src=https://i.redditmedia.com/D5-i9SqO-3TbEIrWQpb8UaXgCtuRMg6qkiNmJLHIA8A.jpg?s=813925176e21dec1fa1be8c937891ea2 frameborder=0>
+    <img src=https://i.redditmedia.com/p4YXhmTyBYkOikt1n2fGbdoa-ixYy1oXzoQQkzes0xM.png?s=2ca73be9e3f3f87ed3b72024ccbc0f4d frameborder=0>
 - entry_name: |
     The Mom we need.
   entry_id: 916bfz
   entry_content: |
     <iframe src=https://v.redd.it/xi3njudrpob11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Librarians are in uproar after an article in Forbes magazine proposed replacing all public libraries in the US with Amazon bookstores, which said libraries ‘don’t have the same value they used to’ and cost taxpayers too much
+  entry_id: 915z32
+  entry_content: |
+    <img src=https://i.redditmedia.com/FFOYrdkJfFYOYtTLWUqtBWf0wttcjQIm9DcY9RKU0EI.jpg?s=f8a30abb5cfd2116172c4bcc7a20f9fc frameborder=0>
 - entry_name: |
     sad sunday thoughts by mr. crews 😕
   entry_id: 912id0
@@ -88,30 +98,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/wkhl0y255lb11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    Librarians are in uproar after an article in Forbes magazine proposed replacing all public libraries in the US with Amazon bookstores, which said libraries ‘don’t have the same value they used to’ and cost taxpayers too much
-  entry_id: 915z32
+    Stop-motion animation for “Kubo and the Two Strings”
+  entry_id: 915zd2
   entry_content: |
-    <img src=https://i.redditmedia.com/FFOYrdkJfFYOYtTLWUqtBWf0wttcjQIm9DcY9RKU0EI.jpg?s=f8a30abb5cfd2116172c4bcc7a20f9fc frameborder=0>
-- entry_name: |
-    Tourist to Raider.
-  entry_id: 917txf
-  entry_content: |
-    <img src=https://i.redditmedia.com/p4YXhmTyBYkOikt1n2fGbdoa-ixYy1oXzoQQkzes0xM.png?s=2ca73be9e3f3f87ed3b72024ccbc0f4d frameborder=0>
+    <iframe src=https://v.redd.it/ibbh315r6ob11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     While in ICE custody, thousands of migrants reported sexual abuse
   entry_id: 912h4p
   entry_content: |
     <img src=https://i.redditmedia.com/CLi7HVTPFbSm4uzt9u_yRZSy74zjNzQPH6Qs5nIIKgg.jpg?s=1046a14fc3e0b26dac942d25fc1a3a7d frameborder=0>
 - entry_name: |
-    Audience bursts out laughing after GOP Senate candidate says Trump is ‘standing up’ to Russia
-  entry_id: 910pjo
+    Couldn’t agree more
+  entry_id: 916l5f
   entry_content: |
-    <img src=https://i.redditmedia.com/CzzvVYhxiNU3_7wFuG-Cxe7syrvMs1HOatyG73t9ngw.jpg?s=401c4472835c8ca45c92458455d61ded frameborder=0>
-- entry_name: |
-    Stop-motion animation for “Kubo and the Two Strings”
-  entry_id: 915zd2
-  entry_content: |
-    <iframe src=https://v.redd.it/ibbh315r6ob11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/s8TwkmY0mx0TDt8B0koKvRkbTy1cMvuZ2EvUy06C0ss.jpg?s=369467a22e6c14e027a9e62604a7e0a7 frameborder=0>
 - entry_name: |
     Mildred & Richard Loving, whose marriage, and subsequent court cases, would go on to end all race-based legal restrictions on marriage in the US. (1950s)
   entry_id: 913ezz
@@ -123,15 +123,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ao6slNEa_usJmFH-19tf8RHVPTFbpXj9JZHcl8geqOw.jpg?s=05fdcdc785392c18d5e87afdc739547a frameborder=0>
 - entry_name: |
-    Couldn’t agree more
-  entry_id: 916l5f
+    Federal Jury Convicts Lawyer and Coal Company Executive for Bribing State Legislator
+  entry_id: 917hkd
   entry_content: |
-    <img src=https://i.redditmedia.com/s8TwkmY0mx0TDt8B0koKvRkbTy1cMvuZ2EvUy06C0ss.jpg?s=369467a22e6c14e027a9e62604a7e0a7 frameborder=0>
+    <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
+- entry_name: |
+    If you got accidentally thrown back to like the medieval era, people wouldn't think you're a genius for knowing that the earth revolves around the sun and stuff. They'd think you're a moron for speaking weird and having no idea how to run a farm.
+  entry_id: 916rjx
+  entry_content: |
+    null
 - entry_name: |
     TIL there is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.
   entry_id: 9110we
   entry_content: |
     <img src=https://i.redditmedia.com/19rFI4h2NkEcpt9E5mEyxi6hvg6vuPcqaoUizq7bNig.jpg?s=f6a9b18446aed367be1618498c48b067 frameborder=0>
+- entry_name: |
+    Does this count?
+  entry_id: 915g6e
+  entry_content: |
+    <iframe src=https://v.redd.it/qfe5tjtmwnb11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     This is too good
   entry_id: 9147ol
@@ -143,10 +153,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HtvZ93U0W6cRPPVB4Dy9j8t9QLVbbrZHtIRnAcCGGkw.jpg?s=82286e666d19b25a8f5ac236b15b505c frameborder=0>
 - entry_name: |
-    Does this count?
-  entry_id: 915g6e
+    This starfish
+  entry_id: 9159cv
   entry_content: |
-    <iframe src=https://v.redd.it/qfe5tjtmwnb11/DASH_600_K frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/mt6M0AzUtxGPGBwJ0I2R7NN_MzaTOIpcc7Mm5hirO8A.jpg?s=c923e9eaabc42803f6ace7924b55e15e frameborder=0>
 - entry_name: |
     This is a bucket.....
   entry_id: 91564j
@@ -158,30 +168,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VDHn9RbWMH_DPY1hjAUSJASPCFFBiBZus-6eyBudRgc.jpg?s=0f0ef5fa5735600eac34364d4556a966 frameborder=0>
 - entry_name: |
-    This starfish
-  entry_id: 9159cv
-  entry_content: |
-    <img src=https://i.redditmedia.com/mt6M0AzUtxGPGBwJ0I2R7NN_MzaTOIpcc7Mm5hirO8A.jpg?s=c923e9eaabc42803f6ace7924b55e15e frameborder=0>
-- entry_name: |
     worst company ever
   entry_id: 9136sa
   entry_content: |
     <img src=https://i.redditmedia.com/k5dBoauX2bgn4Pja5Lb785hy9wLjaSA06J0mlqTI9bw.jpg?s=fbc1fa1769e7ffb6c792913afbd5ebac frameborder=0>
-- entry_name: |
-    This Starbucks employee spending 15 minutes teaching an older lady how to use their app is the real MVP
-  entry_id: 910qbh
-  entry_content: |
-    <img src=https://i.redditmedia.com/S3L-3CmT193zUa_s0JfPlvulC58S31KtpkGde67tGiY.jpg?s=12f4b007a305379c98c3ac839b7aa63d frameborder=0>
 - entry_name: |
     The POTUS
   entry_id: 9151ou
   entry_content: |
     <img src=https://i.redditmedia.com/kM31tEd9ewpjXkrROSYT8GN4T7hlkRTORm_w7TC6qeU.png?s=aac918c39986b648daea0dc4e4efb597 frameborder=0>
 - entry_name: |
-    Federal Jury Convicts Lawyer and Coal Company Executive for Bribing State Legislator
-  entry_id: 917hkd
+    Smaug in the wild
+  entry_id: 916x8s
   entry_content: |
-    <img src=https://i.redditmedia.com/ofdsJLUsElTsNzEjwXzaPJeep0rK2cX6QZehihQKCUs.jpg?s=06ecda2f8406e75dc4500337ba4aa15e frameborder=0>
+    <img src=https://i.redditmedia.com/0APeJHILUXwxaeXJjzrGOW1BDLK_hdVDmk1AnKajtnk.jpg?s=a8fa477fa77af02a7a319c28c15fa12d frameborder=0>
+- entry_name: |
+    The real Donald Trump
+  entry_id: 916yru
+  entry_content: |
+    <img src=https://i.redditmedia.com/UGHzBDTwRv89w_O_o86fwHHFn7XoUo4Ry2c6hNY0TkU.jpg?s=d84eafc84b005afd98e31f0f8fb58e24 frameborder=0>
+- entry_name: |
+    I miss you, digital, 320x200px
+  entry_id: 916ziv
+  entry_content: |
+    <img src=https://i.redditmedia.com/sQxo3KfOZozZnKS0aIouYZsEB7LQQOI6DcOci-YGIZ8.gif?fm=jpg&s=e0a7914dfee9ce068335f57ca81ce1fc frameborder=0>
 - entry_name: |
     Surfrider Foundation Sushi Ad
   entry_id: 913z7t
@@ -193,10 +203,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/4ob3n0hdikb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Anyone who won a lifetime supply of something, what did you win, and are they still supplying it to you?
+  entry_id: 9166xb
+  entry_content: |
+    null
+- entry_name: |
     TIL the term “mark” originated from the carnival. When dishonest game operators found someone they could entice to keep playing their rigged game, they would mark the player by patting their back with a hand that had chalk on it. Other carnies would then keep an eye out for rubes with chalk marks.
   entry_id: 9134gp
   entry_content: |
     <img src=https://i.redditmedia.com/7pFn619Sicryr32Dcul6fNAKta686ZbUDdjrjiQ2JyE.jpg?s=d2d2a4d19b216ab7998a1a1e5b37f4d3 frameborder=0>
+- entry_name: |
+    In Toy Story Woody is trapped in a crate which is stuck under a ‘Binford’ tool-box. Binford is the fictional tool company in the TV show Home Improvement which starred Tim Allen, the voice of Buzz Lightyear.
+  entry_id: 914479
+  entry_content: |
+    <img src=https://i.redditmedia.com/kqbZxY-ZU9m69ZdJ7qcIWImiDnwVSYS_GgSOySopwiI.jpg?s=4fac5cc291e94080833807957ab8cd7b frameborder=0>
 - entry_name: |
     Pangolins has soft, pale scales when born, which begin to harden by second day
   entry_id: 911vz3
@@ -208,20 +228,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/TJQdUwNHViQjcsuS9W7hxohPxM7Muj6RKvuS6faVqXU.png?s=e3eea51df16e1388e3aaa7b23fd2a672 frameborder=0>
 - entry_name: |
-    If you got accidentally thrown back to like the medieval era, people wouldn't think you're a genius for knowing that the earth revolves around the sun and stuff. They'd think you're a moron for speaking weird and having no idea how to run a farm.
-  entry_id: 916rjx
+    also works on mayo
+  entry_id: 9173h3
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/akhJVmFl2SpXNu8ZUyJ8O6AVMG1TNYcUjw3UG_GpdME.png?s=15203a15201e1827713a5d4788144734 frameborder=0>
 - entry_name: |
-    In Toy Story Woody is trapped in a crate which is stuck under a ‘Binford’ tool-box. Binford is the fictional tool company in the TV show Home Improvement which starred Tim Allen, the voice of Buzz Lightyear.
-  entry_id: 914479
+    Really Oprah?
+  entry_id: 916e4d
   entry_content: |
-    <img src=https://i.redditmedia.com/kqbZxY-ZU9m69ZdJ7qcIWImiDnwVSYS_GgSOySopwiI.jpg?s=4fac5cc291e94080833807957ab8cd7b frameborder=0>
+    <img src=https://i.redditmedia.com/k79Jzjx19M2sBTGwLREkt6ogD3IpEK4LetLXeIS_lRM.png?s=542e73ca4ba8f01667749a8cf6cf011a frameborder=0>
 - entry_name: |
-    The real Donald Trump
-  entry_id: 916yru
+    Eating his greens.
+  entry_id: 916hva
   entry_content: |
-    <img src=https://i.redditmedia.com/UGHzBDTwRv89w_O_o86fwHHFn7XoUo4Ry2c6hNY0TkU.jpg?s=d84eafc84b005afd98e31f0f8fb58e24 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBlueZigzagAmethystsunbird&url=https%3A%2F%2Fgfycat.com%2Fbluezigzagamethystsunbird&image=https%3A%2F%2Fthumbs.gfycat.com%2FBlueZigzagAmethystsunbird-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=750 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     That’ll really get ‘em, Donny.
   entry_id: 913o9x
@@ -232,24 +252,4 @@ data:
   entry_id: 911ykp
   entry_content: |
     <img src=https://i.redditmedia.com/EDyjw_-pv3LBZCtxbS24HnluyNXjvFAQP2bOESE5eS0.jpg?s=4789e064d266140276b5ffacc3102b76 frameborder=0>
-- entry_name: |
-    Anyone who won a lifetime supply of something, what did you win, and are they still supplying it to you?
-  entry_id: 9166xb
-  entry_content: |
-    null
-- entry_name: |
-    I miss you, digital, 320x200px
-  entry_id: 916ziv
-  entry_content: |
-    <img src=https://i.redditmedia.com/sQxo3KfOZozZnKS0aIouYZsEB7LQQOI6DcOci-YGIZ8.gif?fm=jpg&s=e0a7914dfee9ce068335f57ca81ce1fc frameborder=0>
-- entry_name: |
-    Really Oprah?
-  entry_id: 916e4d
-  entry_content: |
-    <img src=https://i.redditmedia.com/k79Jzjx19M2sBTGwLREkt6ogD3IpEK4LetLXeIS_lRM.png?s=542e73ca4ba8f01667749a8cf6cf011a frameborder=0>
-- entry_name: |
-    D&D cosplayer brings Kenku to life
-  entry_id: 911dmt
-  entry_content: |
-    <iframe src=https://v.redd.it/mvelb8clyjb11/DASH_1_2_M frameborder=0></iframe>
 ---
