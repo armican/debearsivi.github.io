@@ -93,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FFOYrdkJfFYOYtTLWUqtBWf0wttcjQIm9DcY9RKU0EI.jpg?s=f8a30abb5cfd2116172c4bcc7a20f9fc frameborder=0>
 - entry_name: |
-    Courtesy of my 6yo daughter: What do you call a dinosaur that takes care of its teeth?
-  entry_id: 910h9o
-  entry_content: |
-    null
-- entry_name: |
     Tourist to Raider.
   entry_id: 917txf
   entry_content: |
@@ -127,11 +122,6 @@ data:
   entry_id: 912tq0
   entry_content: |
     <img src=https://i.redditmedia.com/ao6slNEa_usJmFH-19tf8RHVPTFbpXj9JZHcl8geqOw.jpg?s=05fdcdc785392c18d5e87afdc739547a frameborder=0>
-- entry_name: |
-    This is actually so smart
-  entry_id: 910gkm
-  entry_content: |
-    <img src=https://i.redditmedia.com/CPJ-l6y-79CQH6iSsmxSs35sCHYWWAIH2xjIPeD7OYM.jpg?s=f53ad96756f47aa9d7b35532f6802018 frameborder=0>
 - entry_name: |
     Couldn’t agree more
   entry_id: 916l5f
@@ -252,4 +242,14 @@ data:
   entry_id: 916ziv
   entry_content: |
     <img src=https://i.redditmedia.com/sQxo3KfOZozZnKS0aIouYZsEB7LQQOI6DcOci-YGIZ8.gif?fm=jpg&s=e0a7914dfee9ce068335f57ca81ce1fc frameborder=0>
+- entry_name: |
+    Really Oprah?
+  entry_id: 916e4d
+  entry_content: |
+    <img src=https://i.redditmedia.com/k79Jzjx19M2sBTGwLREkt6ogD3IpEK4LetLXeIS_lRM.png?s=542e73ca4ba8f01667749a8cf6cf011a frameborder=0>
+- entry_name: |
+    D&D cosplayer brings Kenku to life
+  entry_id: 911dmt
+  entry_content: |
+    <iframe src=https://v.redd.it/mvelb8clyjb11/DASH_1_2_M frameborder=0></iframe>
 ---
