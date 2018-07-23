@@ -73,11 +73,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/bozamv1boob11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Clever Mystique Costume
-  entry_id: 90zura
-  entry_content: |
-    <img src=https://i.redditmedia.com/VqK6gq3MCdgvDFHIE2yGFLJf2sjnybieNbnJJfEwyLM.jpg?s=bb44ce1e7120c85f4d7f6a50db7a099c frameborder=0>
-- entry_name: |
     This mannequin from a WW2 themed museum in Normandy looks like Bruce Willis
   entry_id: 916idu
   entry_content: |
@@ -178,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/p4YXhmTyBYkOikt1n2fGbdoa-ixYy1oXzoQQkzes0xM.png?s=2ca73be9e3f3f87ed3b72024ccbc0f4d frameborder=0>
 - entry_name: |
-    A true man of culture
-  entry_id: 90zu28
-  entry_content: |
-    <img src=https://i.redditmedia.com/KdFBa_A-2VHD4QR2K9c2CswBJTogutoJMzgqgnJ6qlc.jpg?s=1a428389e636f6971ae1107100562387 frameborder=0>
-- entry_name: |
     This is a bucket.....
   entry_id: 91564j
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 912u23
   entry_content: |
     <img src=https://i.redditmedia.com/TJQdUwNHViQjcsuS9W7hxohPxM7Muj6RKvuS6faVqXU.png?s=e3eea51df16e1388e3aaa7b23fd2a672 frameborder=0>
+- entry_name: |
+    coming to your nearest bookstore
+  entry_id: 910d4s
+  entry_content: |
+    <img src=https://i.redditmedia.com/FACGDhUEjN5qWEdT_cob5hbH1NmcpBCeLLAQ9uDSJxk.jpg?s=76ae96649939e7a816a27a16db9f6491 frameborder=0>
+- entry_name: |
+    In Toy Story Woody is trapped in a crate which is stuck under a ‘Binford’ tool-box. Binford is the fictional tool company in the TV show Home Improvement which starred Tim Allen, the voice of Buzz Lightyear.
+  entry_id: 914479
+  entry_content: |
+    <img src=https://i.redditmedia.com/kqbZxY-ZU9m69ZdJ7qcIWImiDnwVSYS_GgSOySopwiI.jpg?s=4fac5cc291e94080833807957ab8cd7b frameborder=0>
 ---
