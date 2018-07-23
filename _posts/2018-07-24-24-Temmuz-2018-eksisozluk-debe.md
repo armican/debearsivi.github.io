@@ -6,7 +6,7 @@ data:
     yaş 25 bedelli 15 ve 21 günlük askerlik
   entry_id:  79469389
   entry_writer: regresyon
-  entry_fav_count: 860
+  entry_fav_count: 865
   entry_content: |
     ulan askere gitmeden şafaktan 7 gun daha attiniz lan koftehorlar hadi yine iyisiniz.<br/><br/>fav editi : arkadas ne aglamislar bee. 21 gun vergi vermezsek ulke batar diyen mi ararsin , sacim 10 yildir uzun kesemem diyen mi ararsin , ben fizik lab ında ulkeyi kurtariyorum birakirsam dunya yorungeden cikar diyeni mi ararsin yoksa ben oralara sicamam kabiz olurum diyeni mi ?olum alti ustu 21 gun lan 3 hafta amk. siz 3 hafta plajdan , sahilden clubten bardan ayrilinca ulke batmayacak ya da esini cocugunu hasta yakinini birakip askere gidecek ilk insan siz degilsiniz , kendinizi bu kadar onemli hissettiren ne onu anlamiyorum 15 bin tl sahibi olan özel azinlik falan degilsiniz olum kendinize gelin.
   entry_channels: siyaset
@@ -14,7 +14,7 @@ data:
     mete gazoz'u dünya kupasında şampiyon yapan atış
   entry_id:  79475579
   entry_writer: insan ol yeter
-  entry_fav_count: 639
+  entry_fav_count: 659
   entry_content: |
     milli okçumuz <a class="b" href="/?q=mete+gazoz">mete gazoz</a>'un almanya'daki dünya kupası erkekler klasik yay finalinde altın madalyayı türkiye'ye kazandırdığı atıştır. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sporx.com/mete-gazozdan-almanyada-altin-madalya-SXHBQ721374SXQ" title="https://www.sporx.com/mete-gazozdan-almanyada-altin-madalya-SXHBQ721374SXQ">işte o atış ve şampiyonluk anı</a><br/><br/>yersiz ülke gündemine çanak tutmaktansa bu çocuğu gündemde tutalım. <br/><br/>atadur çocuk.<br/><br/>ek: basında yer bulmadığı için üzülmesin ailesi. buraları okuyup gururlansınlar. herkese teşekkürler. yazalım, gündemde tutalım.
   entry_channels: spor
@@ -22,7 +22,7 @@ data:
     ölümüne en çok üzülünen sanatçı
   entry_id:  79457168
   entry_writer: dokuz tuglu kagan
-  entry_fav_count: 541
+  entry_fav_count: 546
   entry_content: |
     (bkz: <a class="b" href="/?q=bar%c4%b1%c5%9f+man%c3%a7o">barış manço</a>)<br/>(bkz: <a class="b" href="/?q=kemal+sunal">kemal sunal</a>)
   entry_channels: anket,sanat,müzik,sinema
@@ -30,39 +30,31 @@ data:
     türkiye'de yapılmış zamanının ötesindeki parçalar
   entry_id:  79458818
   entry_writer: grumman
-  entry_fav_count: 351
+  entry_fav_count: 352
   entry_content: |
     <a class="b" href="/?q=fatih+erdemci">fatih erdemci</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/t4cT3hZAY-8" title="https://youtu.be/t4cT3hZAY-8">ben ölmeden önce</a><br/><br/>1999 yılında çıkmış zamanın ötesinde bir parça.
   entry_channels: anket,müzik
 - entry_name: |
-    direksiyonun sol altında bulunan kol
-  entry_id:  79468026
-  entry_writer: kfy1907
-  entry_fav_count: 350
-  entry_content: |
-    sinyal koludur. yukarı kaldırıldığında sağa, aşağı indirildiğinde sola sinyal verir. <br/><br/>deneyin, kullanırsanız kolunuz falan kopmaz, rahat olun sayın çomar kardeşlerim.
-  entry_channels: teknoloji,otomotiv
-- entry_name: |
-    23 temmuz 2018 fenerbahçe benfica eşleşmesi
-  entry_id:  79473664
-  entry_writer: modexl
-  entry_fav_count: 317
-  entry_content: |
-    hayır sampiyonlar ligine girmemizi istemiyorlarsa efendi gibi söylesinler.<br/>yıllardır ayıp oluyor amk.<br/>diğer rakiplere bak bide bu esleşmeye bak.<br/><br/>edit: nacizane comolli seslenişi; forvet al piç.
-  entry_channels: spor
-- entry_name: |
     hande erçel
   entry_id:  79476818
   entry_writer: atabrb
-  entry_fav_count: 316
+  entry_fav_count: 328
   entry_content: |
     bazlama suratlının teki. evet feministim aq.
   entry_channels: tv,sinema
 - entry_name: |
+    23 temmuz 2018 fenerbahçe benfica eşleşmesi
+  entry_id:  79473664
+  entry_writer: modexl
+  entry_fav_count: 320
+  entry_content: |
+    hayır sampiyonlar ligine girmemizi istemiyorlarsa efendi gibi söylesinler.<br/>yıllardır ayıp oluyor amk.<br/>diğer rakiplere bak bide bu esleşmeye bak.<br/><br/>edit: nacizane comolli seslenişi; forvet al piç.
+  entry_channels: spor
+- entry_name: |
     anlamını fonetik olarak en iyi karşılayan kelime
   entry_id:  79472741
   entry_writer: tandemin solu
-  entry_fav_count: 235
+  entry_fav_count: 239
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9fakkadanak">şakkadanak</a>)
   entry_channels: anket,edebiyat
@@ -70,7 +62,7 @@ data:
     şaka maka berat albayrak bu işi başaracak
   entry_id:  79481121
   entry_writer: uborka
-  entry_fav_count: 215
+  entry_fav_count: 221
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%a7omar+g%c3%b6zlerin+ne+g%c3%b6r%c3%bcyor+aktroll">çomar gözlerin ne görüyor aktroll</a>)<br/><br/>edit: ne güzel deliriyor lan küçük küçük <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset
@@ -78,7 +70,7 @@ data:
     fakirlerin ufak şımarıklıkları
   entry_id:  79466930
   entry_writer: drynhwyl
-  entry_fav_count: 188
+  entry_fav_count: 192
   entry_content: |
     çekirdeğin yanına çay demlemek yerine marketten 2.5 litre kola almak.
   entry_channels: siyaset,anket,ilişkiler,teknoloji,yeme-içme,ekonomi
@@ -86,7 +78,7 @@ data:
     yazarların takıntı boyutunda nefret ettiği ünlüler
   entry_id:  79464246
   entry_writer: korki48
-  entry_fav_count: 165
+  entry_fav_count: 166
   entry_content: |
     (bkz: <a class="b" href="/?q=acun+%c4%b1l%c4%b1cal%c4%b1">acun ılıcalı</a>) <br/>edit: stadyum olayını bilmeyenler varmış. buyrun <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/mPREM7P2Hw8" title="https://youtu.be/mPREM7P2Hw8">işte habercilik başarısını gururla anlatan acun</a><br/><br/>bu kadar işini iyi yapmayan bir insanın bu kadar sevilmesine, aileden biri gibi görülmesine, acun diye hitap edilmesine katlanamıyorum.<br/>adamın meşhur olduğu işe bak;<br/>stadyumda değilken oradaymış gibi telefon bağlantısına katılıp maçı anlatması. yıllardır bunu türk tarihinin en büyük olayıymış gibi dinlemekten bıktım. ulan adam işini iyi yapmamış, sizi kandırmış, ekmek yediği işine ihanet etmiş ama siz bununla gurur duyuyorsunuz. anlamıyorum.<br/>yurtdışından aldığı formatları türkiyede kullanmış, 20 tane kutuyu 4saatte açmış (bkz: <a class="b" href="/?q=var+m%c4%b1s%c4%b1n+yok+musun">var mısın yok musun</a>), kurgularla montajlarla dolu survivor yapmış, en çok izlenen proglamlar olmuş.<br/>katlanamıyorum bu adama.
   entry_channels: anket,magazin
@@ -94,10 +86,18 @@ data:
     mesut özil
   entry_id:  79456896
   entry_writer: rain of chaos
-  entry_fav_count: 152
+  entry_fav_count: 153
   entry_content: |
     avrupalı liderler erdoğan ile can ciğer poz verirken kimse için bir problem yok.<br/><br/>avrupa yıllardır türklere barbar, asyalılar, bilmem neyler derken kimse gocunmuyor.<br/><br/>dünya kupasında ne kadar başbakan varsa hepsi futbolcular ile poz verirken siyasi olmuyor.<br/><br/>başta almanya ve fransa olmak üzere ne kadar ab üyesi ülke varsa hepsi aşağılık, iki yüzlü ve yer yer ırkçıdır. kıbrıs için yapılan hukuksuzluklar ve çifte standartlar, mülteciler için atılan çirkin adımlar, geri kabul anlaşması vs.<br/><br/>erdoğan bugün var yarın yok. ama avrupa ve zihniyeti her daim olacak. bunu aklınıza sokun. ayrıca özil'in türk milli takımı seçmemesinde fatih terim'in payını da unutmayın.
   entry_channels: spor
+- entry_name: |
+    abdülhamit han olmasa tarihten silinirdik
+  entry_id:  79480103
+  entry_writer: garbaged
+  entry_fav_count: 149
+  entry_content: |
+    ekşi'deki bütün <a class="b" href="/?q=lord">lord</a>lar mı düşük iq'lu troll olur sorunsalı.
+  entry_channels: siyaset,tarih
 - entry_name: |
     kıllı göğsüne rağmen denize üstsüz giren erkek
   entry_id:  79473824
@@ -107,45 +107,37 @@ data:
     genelde sahilden en az 500 metre açıkta yüzerim kıyıda 7 yaşında çoçuklarla yüzen tüysüz kardeşler rahatsız olmasın diye. bu kadar duyarlıyım.
   entry_channels: anket,moda
 - entry_name: |
-    abdülhamit han olmasa tarihten silinirdik
-  entry_id:  79480103
-  entry_writer: garbaged
-  entry_fav_count: 140
+    hatay'daki bedava künefe olayları
+  entry_id:  79487830
+  entry_writer: belkisehrebirfilmgelir
+  entry_fav_count: 120
   entry_content: |
-    ekşi'deki bütün <a class="b" href="/?q=lord">lord</a>lar mı düşük iq'lu troll olur sorunsalı.
-  entry_channels: siyaset,tarih
+    bedava yarrak var desen gotunu acip kosarak gidecek insanlar var.
+  entry_channels: haber,yeme-içme
 - entry_name: |
     yemek söyleyip yarısını yiyen kız
   entry_id:  79476751
   entry_writer: kilikirkyarran
-  entry_fav_count: 110
+  entry_fav_count: 114
   entry_content: |
     öncelikle başlığı cinsiyetçi bir yaklaşım olarak algılamayın. sadece bu konuda bana genelde böyle kadınlar denk geldiği için bir genelleme yaptım. <br/><br/>herhangi bir mekana gidiyoruz. atıyorum hamburger söylüyoruz. yarısını yiyor "ay şiştim yaa" deyip bırakıyor. başka bir kadın 1(yazıyla bir) lahmacun söyleyip yarısını yedikten sonra doydum deyip bıraktı ya! <br/><br/>yine bir gün 2 kız arkadaşımla gittik oturduk. sohbet muhabbet derken içecek bir şeyler söyledik. kızlardan birisi gazoz istedi diğeri de kola istedi. biraz zaman geçtikten sonra gazoz isteyen daha yarısını içmeden "ya ben bir tane çay alabilir miyim?" dedi. çay geldi. çaydan iki yudum belki içti içmedi. menüyü açıp " aa kampanya varmış tropikal meyve suyu ve ıslak kek sadece 19 tl. ben bundan istiyorum" dedi ve sipariş verdi. tabii ondan da 2 çatal alıp bıraktı. meyve suyunu da beğenmemiş hanımefendi! hesap ödemeye gittim. parasında değilim elbette ama 67 tl hesap ödedim o gün.<br/><br/>mesele para değil, mesele tamamen ego tatmini ve israfa olan hırsım. para veriyoruz lan biz ona! bitirsene söylediğin şeyleri! sırf tadına bakmak için triliçe söyleyen kadın gördü bu gözler. bilmem x mekandaki kadar güzel yapıyor mu diye söyleyip tadına bakıp bıraktı masada öylece canım triliçeyi. böyle insanları gördükçe mekanda su söyleyip yarısını içtikten sonra şişeyi yanına alıp çıkan kadınları daha bi' seviyorum.<br/><br/>edit: böyle kadınlarla neden bir mekanda oturduğumu soranlar olmuş. arkadaşlar bu olaylar genelde ilk buluşmalarda yaşandı. daha sonra zaten hiçbiri ile görüşmedim.<br/><br/>edit 2: ya arkadaş yok 'midem küçük' yok 'anca o kadar yiyebiliyorum' diyenler olmuş. arkadaş paket yaptır veya yiyebileceğin kadar koydur porsiyona. elitlik yapacağım derken saçmalamanın anlamı yok.<br/><br/>son edit: hala olayı para zannedenler var. mesele para değil arkadaşım israf ve elitlik adı altında yapılan saçmalıklar.
   entry_channels: yeme-içme
 - entry_name: |
-    1. torbadan benfica vs 3. ön eleme benfica
-  entry_id:  79477727
-  entry_writer: olumlu harekete karsiyim
-  entry_fav_count: 110
-  entry_content: |
-    beyefendiye bir adet <a class="b" href="/?q=vardar">vardar</a> gönderelim.
-  entry_channels: spor,anket
-- entry_name: |
     rakı-balık fiyatlarının absürtlüğü
   entry_id:  79472743
   entry_writer: sonadora
-  entry_fav_count: 101
+  entry_fav_count: 103
   entry_content: |
     müstehaktır. ne yapsın yani esnaf? götünü kaşıya kaşıya sikilmek için gelen adamı sikmeden geri mi göndersin?<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+boykot+k%c3%bclt%c3%bcr%c3%bcn%c3%bcn+olmamas%c4%b1">türkiye'de boykot kültürünün olmaması</a>)
   entry_channels: haber,yeme-içme,ekonomi
 - entry_name: |
-    hatay'daki bedava künefe olayları
-  entry_id:  79487830
-  entry_writer: belkisehrebirfilmgelir
-  entry_fav_count: 96
+    97'li erkekler
+  entry_id:  79482599
+  entry_writer: wonderkid91
+  entry_fav_count: 101
   entry_content: |
-    bedava yarrak var desen gotunu acip kosarak gidecek insanlar var.
-  entry_channels: haber,yeme-içme
+    mahalle kültürünü yaşamış son nesil demiş hiç utanmadan. git de sümüğünü sil sen.
+  entry_channels: ilişkiler
 - entry_name: |
     didem soydan
   entry_id:  79457301
@@ -166,23 +158,23 @@ data:
     ancak çok zengin insanların kurabileceği cümleler
   entry_id:  79470619
   entry_writer: guatr cemo
-  entry_fav_count: 81
+  entry_fav_count: 84
   entry_content: |
     <a class="b" href="/?q=bbc+2">bbc 2</a>'de <a class="b" href="/?q=amazing+hotels">amazing hotels</a>: life beyond the lobby diye bir program var. <a class="b" href="/?q=giles+coren">giles coren</a> ve <a class="b" href="/?q=monica+galetti">monica galetti</a> her bölümde dünyanın değişik yerlerindeki en olağanüstü otellerde farklı farklı islerde birkaç günlüğüne calisip, biz degerli izleyicilerine bu otellerdeki lüksü ve hizmet kalitesini anlatıyorlar. <br/><br/>bir bölümde sili'de <a class="b" href="/?q=and+da%c4%9flar%c4%b1">and dağları</a>'nın eteklerindeki hacienda vira vira oteli'ne konuk olduk. pahalı ama öyle çok çok uçuk bir fiyatı yok. eylül ayi icin gecelik standart oda fiyatı 700 pound. <br/><br/>otelin hizmetlerinden birisi de ayni bölgede bulunan 2800 metre yüksekliğindeki villarrica yanardagi'nin kraterine yakin bir <a rel="nofollow noopener" class="url" target="_blank" href="https://davemcgarvie.files.wordpress.com/2015/04/p1070330.jpg" title="https://davemcgarvie.files.wordpress.com/2015/04/p1070330.jpg">yerde</a> kahvaltı yapma imkanı. once 2 otel calisani kahvalti sofrasini hazırlamaları icin 1 saat onceden helikopterle yanardağa birakiliyor. sonra müşterileriler (ki genelde bas basa kahvaltı yapmak isteyen kari-koca) getiriliyor. sicaklar otel gorevlileri tarafından orada pişiriliyor.<br/><br/>neyse efendim, 50'li yaşlarında olan çiftimiz hazırlanan masalarına oturup şampanya kadehlerini tokustururkene, yenge'nin ağzından şöyle bir cümle cikiverdi:<br/><br/>- acaba su anda dünyanın geri kalanı ne yapıyor, arthur?<br/><br/>esime dondum, dedim "hanim bir gun yüzde bir ihtimal de olsa cook zengin olabiliriz ama maalesef boyle bir cümleyi kurabilecek yetenege asla sahip olamayacaz." <br/><br/>omur boyu mutluluklar yenge ve sevgili esi arthur.
   entry_channels: anket,ekonomi
 - entry_name: |
-    97'li erkekler
-  entry_id:  79482599
-  entry_writer: wonderkid91
-  entry_fav_count: 70
+    bikini giyen sözlük kızları
+  entry_id:  79486389
+  entry_writer: furynecromencer
+  entry_fav_count: 73
   entry_content: |
-    mahalle kültürünü yaşamış son nesil demiş hiç utanmadan. git de sümüğünü sil sen.
-  entry_channels: ilişkiler
+    insanlar neden sürekli kategorize ediliyor bu platformda? bu kronik abazanlığa ve cehalete bağlı bir hastalık mı acaba?<br/><br/>bu çirkin zihniyetten sözlüğü geçtim tüm ülke temizlenmelidir, sosyal medya terörü diye bir kavram artık tüm gerçekliği ile hayatımızda, burada bile huzur yok! <br/><br/>böyle bir başlık niye açılır neden açılır?
+  entry_channels: ekşi-sözlük,moda
 - entry_name: |
     tasarımı en güzel cep telefonu
   entry_id:  79460774
   entry_writer: fatihblb
-  entry_fav_count: 68
+  entry_fav_count: 70
   entry_content: |
     nokia n97, ne telefondu ya zamanında böyle sanki sadece dünyanın en zenginleri alır sanırdım :)
   entry_channels: anket,teknoloji
@@ -190,18 +182,18 @@ data:
     merhaba ben burak kut sorularınızı cevaplıyorum
   entry_id:  79484226
   entry_writer: edgarallanpoenunkuzgunu
-  entry_fav_count: 61
+  entry_fav_count: 68
   entry_content: |
     90'ların ruhunu kalbinde yaşatan, temiz yüzlü, legerro tenor sesli efsane sanatçımız burak bey; hoşgeldiniz.<br/><br/>1997 yılının haziran ayında, sarıyer büyükdere'deki bir at çiftliğinin önünde karşılaşmıştık sizinle. otomobilinizdeki arızadan dolayı yol kenarında mola vermiştiniz ve şoförünüz motorla ilgilenirken siz de çiftlik sahibiyle ayaküstü laflamıştınız. bej renkli gömleğiniz ve diken diken yaptığınız jöleli saçlarınızla oldukça karizmatik görünüyordunuz. ben o sıralarda çiftlikte atların bakımıyla ilgilenen genç bir işçiydim. size ata binerken veya arka planda atların koştuğu bir klip çekip çekmeyeceğinizi sormuştum ancak sanırım çalışmaya başlayan otomobilin egzoz gürültüsü yüzünden beni duyamadınız. daha sonra da şoförünüzün gaza basmasıyla birlikte uzaklaşıp gözden kayboldunuz zaten.<br/><br/><a class="b" href="/?q=sorum">sorum</a> <a class="b" href="/?q=%c5%9fu">şu</a>: o günden sonra müzik kanallarında dönen tüm kliplerinizi mütemadiyen takip ettim fakat atları oynattığınız bir klibe rastlamadım. acaba bu şekilde bir müzik klibi çektiniz mi veya çekmeyi düşünüyor musunuz? <br/><br/>teşekkürler ve saygılar.<br/><br/><a class="b" href="/?q=edit">edit</a>: abi hikayeci-trollük bir yana gerçekten efsanesin, adamın dibisin. hiç sanmıyorum ama olur da sana bu mecrada saygısızlık yapacak üç-beş şuursuz çıkarsa kusura bakma. 90 çocukları olarak biz seni çok sevdik ve her zaman da seveceğiz. yolun açık olsun. cevap için teşekkürler, atlar candır.
   entry_channels: anket,ekşi-sözlük,müzik
 - entry_name: |
-    bikini giyen sözlük kızları
-  entry_id:  79486389
-  entry_writer: furynecromencer
-  entry_fav_count: 60
+    kel erkeklerin asla yakışıklı olmaması
+  entry_id:  79487492
+  entry_writer: leon dupuis
+  entry_fav_count: 58
   entry_content: |
-    insanlar neden sürekli kategorize ediliyor bu platformda? bu kronik abazanlığa ve cehalete bağlı bir hastalık mı acaba?<br/><br/>bu çirkin zihniyetten sözlüğü geçtim tüm ülke temizlenmelidir, sosyal medya terörü diye bir kavram artık tüm gerçekliği ile hayatımızda, burada bile huzur yok! <br/><br/>böyle bir başlık niye açılır neden açılır?
-  entry_channels: 
+    bir şekilde <a class="b" href="/?q=brazzer%27taki+kel+adam">brazzer'taki kel adam</a>'ın eline düşmüş ve feci şekilde intikam hırsıyla dolmuş olduğunu anladığım yazarımsıtırak sıçmığı.<br/><br/>not: kel değilim saçlarım gayet gür.<br/><br/>not 2 : insanların kendi elinde olmayan fiziksel özellikler üzerinden üstünlük devşirmeye çalışmak en hafif tabiriyle ırkçılıktır. kısaca orospu çocukluğudur.
+  entry_channels: anket
 - entry_name: |
     akp'nin cemaat ve tarikatları bitirme projesi
   entry_id:  79456762
@@ -222,10 +214,18 @@ data:
     fabricio agosto ramirez
   entry_id:  79469185
   entry_writer: mavi topolino
-  entry_fav_count: 53
+  entry_fav_count: 54
   entry_content: |
     hakkındaki saçma argümanlardan (vasat kaleciymiş, uzaktan her şutu yiyormuş, maç almıyormuş) gına geldi. hakkında söylenmedik sadece "gol yiyen kaleci", "gol atamayan kaleci" gibi saçmalıklar kaldı. <br/><br/>bunlardan maç almaması ile ilgili argümanı çürütüp tarihin tozlu raflarına gömme kararı aldım. gerçekleri <a class="b" href="/?q=2017%2f2018">2017/2018</a> sezonunu baz alarak maç maç puan puan bu arzısların bu algıcı trollerin bu futbol cahillerinin suratına vuralım bakalım;<br/><br/><a class="b" href="/?q=13+a%c4%9fustos+2017+be%c5%9fikta%c5%9f+antalyaspor+ma%c3%a7%c4%b1">13 ağustos 2017 beşiktaş antalyaspor maçı</a><br/><br/>2-0 önde iken <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=fUMQJy7Wbp8#t=3m05s" title="https://www.youtube.com/watch?v=fUMQJy7Wbp8#t=3m05s">eto'nun karşı karşıya pozisyonu</a>nu çıkararak son dakikalarda kanser olmadan maçı tamamlamamızı sağlamıştır. net bir skor ve 3 puanla başlıyoruz lige.<br/><br/><a class="b" href="/?q=9+eyl%c3%bcl+2017+karab%c3%bckspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">9 eylül 2017 karabükspor beşiktaş maçı</a><br/><br/>1-0 önde iken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8Nc5-QRxEok#t=3m20s" title="https://www.youtube.com/watch?v=8Nc5-QRxEok#t=3m20s">seleznov'un şutu</a> ile kazasız belasız 3 puanla eve dönüyoruz.<br/><br/><a class="b" href="/?q=1+ekim+2017+be%c5%9fikta%c5%9f+trabzsonspor+ma%c3%a7%c4%b1">1 ekim 2017 beşiktaş trabzsonspor maçı</a><br/><br/>yaptığı net 5 kurtarış <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m10s" title="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m10s">*</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m22s" title="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m22s">*</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m37s" title="https://www.youtube.com/watch?v=-XPruo-7yKw#t=2m37s">*</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-XPruo-7yKw#t=3m39s" title="https://www.youtube.com/watch?v=-XPruo-7yKw#t=3m39s">*</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-XPruo-7yKw#t=4m02s" title="https://www.youtube.com/watch?v=-XPruo-7yKw#t=4m02s">*</a> ile 2-2 biten maçta alınan 1 puan ile hiç yoktan iyidir diyoruz.<br/><br/><a class="b" href="/?q=23+ekim+2017+be%c5%9fikta%c5%9f+medipol+ba%c5%9fak%c5%9fehir+ma%c3%a7%c4%b1">23 ekim 2017 beşiktaş medipol başakşehir maçı</a><br/><br/>kurtardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=koPrDXdAwBc#t=1m44s" title="https://www.youtube.com/watch?v=koPrDXdAwBc#t=1m44s">visca'nın şutu</a> ve zar zor aldığımız 1 puan.<br/><br/><a class="b" href="/?q=28+ekim+2017+aytemiz+alanyaspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">28 ekim 2017 aytemiz alanyaspor beşiktaş maçı</a><br/><br/>maç 1-1 iken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=mp6F6i2l5L8#t=1m25s" title="https://www.youtube.com/watch?v=mp6F6i2l5L8#t=1m25s">emre akbaba'nın şutu</a>. 2-1 yeniyor ve 3 puanla dönüyoruz bu deplasmandan.<br/><br/><a class="b" href="/?q=5+kas%c4%b1m+2017+g%c3%b6ztepe+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">5 kasım 2017 göztepe beşiktaş maçı</a><br/><br/>üç değil beş değil hangi kritik kurtarışını yazayım. [www.youtube.com/watch?v=azgrcn20who devleştiği maçlardan biri]. ligin en flaş ekiplerinden birini deplasmanda 3-1 ile devirip 3 puanla dönüyoruz bu deplasmandan da.<br/><br/><a class="b" href="/?q=17+kas%c4%b1m+2017+be%c5%9fikta%c5%9f+akhisarspor+ma%c3%a7%c4%b1">17 kasım 2017 beşiktaş akhisarspor maçı</a><br/><br/>atiba'nın ters vuruşu ile <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=1m57s" title="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=1m57s">kendi kalemize atmak üzere olduğumuz gol</a>, larson'un iki net pozisyonu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=2m12s" title="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=2m12s">*</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=3m5s" title="https://www.youtube.com/watch?v=sOIMVdP3bpY#t=3m5s">*</a> ile beraber net üç kritik kurtarışa imza atıyor 0-0 biten maçta evimizde 1 puana razı oluyoruz.<br/><br/><a class="b" href="/?q=21+ocak+2018+antalyaspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">21 ocak 2018 antalyaspor beşiktaş maçı</a><br/><br/>maç 1-1 iken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=mncLVR_Whm0#t=1m49s" title="https://www.youtube.com/watch?v=mncLVR_Whm0#t=1m49s">karşı karşıya pozisyon</a> ve sonra gelen ikinci golümüz. 2-1 kazanıyor ve 3 puan ile dönüyoruz bu deplasmandan.<br/><br/><a class="b" href="/?q=26+ocak+2018+be%c5%9fikta%c5%9f+kas%c4%b1mpa%c5%9fa+ma%c3%a7%c4%b1">26 ocak 2018 beşiktaş kasımpaşa maçı</a><br/><br/>maç 2-0 iken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=e5-EzdEEjP0#t=1m48s" title="https://www.youtube.com/watch?v=e5-EzdEEjP0#t=1m48s">eduok'un şutu</a>. zorlansak da 2-1 ile evimizde 3 puanı yazıyoruz hanemize.<br/><br/><a class="b" href="/?q=2+%c5%9fubat+2018+bursaspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">2 şubat 2018 bursaspor beşiktaş maçı</a><br/><br/>2-1 gerideyken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=q2ByTpLc1_M#t=2m46s" title="https://www.youtube.com/watch?v=q2ByTpLc1_M#t=2m46s">aziz behic'in</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=q2ByTpLc1_M#t=2m53s" title="https://www.youtube.com/watch?v=q2ByTpLc1_M#t=2m53s">jines kembo'nun</a> şutları. son dakikalarda gelen negredo'nun golüyle bu deplasmandan 1 puanla dönüyoruz.<br/><br/><a class="b" href="/?q=16+%c5%9fubat+2018+konyaspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">16 şubat 2018 konyaspor beşiktaş maçı</a><br/><br/>1-1 iken kurtardığı jahovic'in kaleciyle <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=56cDjDRz37M#t=3m21s" title="https://www.youtube.com/watch?v=56cDjDRz37M#t=3m21s">karşı karşıya pozisyonu</a>. sonra malum love'ın kaçırdığı gol ve bu deplasmandan da 1 puanla dönüyoruz.<br/><br/><a class="b" href="/?q=10+mart+2018+be%c5%9fikta%c5%9f+gen%c3%a7lerbili%c4%9fi+ma%c3%a7%c4%b1">10 mart 2018 beşiktaş gençlerbiliği maçı</a><br/><br/>maç 0-0 iken çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=D_ctKcFw07o#t=1m49s" title="https://www.youtube.com/watch?v=D_ctKcFw07o#t=1m49s">skuletic'in şutu</a> ve sessegnon'un gözlerimizi kapattığımız <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=D_ctKcFw07o#t=2m23s" title="https://www.youtube.com/watch?v=D_ctKcFw07o#t=2m23s">frikiği</a>. zar zor 3 paunı alıyoruz evimizde.<br/><br/><a class="b" href="/?q=13+nisan+2018+akhisarspor+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">13 nisan 2018 akhisarspor beşiktaş maçı</a><br/><br/>maç 2-0 iken kurtardığı seleznov'un <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ygFYSybqUxo#t=57s" title="https://www.youtube.com/watch?v=ygFYSybqUxo#t=57s">%100'lük pozisyonu</a>. bir gol daha atıp 3-0 gibi net bir skor ile ve 3 puanla dönüyoruz bu kritik deplasmandan.<br/><br/><a class="b" href="/?q=13+eyl%c3%bcl+2017+porto+be%c5%9fikta%c5%9f+ma%c3%a7%c4%b1">13 eylül 2017 porto beşiktaş maçı</a><br/><br/>maç 2-1 iken karşı karşıya çıkardığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=fj-BWj-NcHo#t=2m27s" title="https://www.youtube.com/watch?v=fj-BWj-NcHo#t=2m27s">net pozisyon</a>. sonra babel ile üçüncüyü de koyup grubun favorisini deplasmanda 3-1 yenerek üç puan ile başlıyoruz şampiyonlar ligine.<br/><br/><a class="b" href="/?q=26+eyl%c3%bcl+2017+be%c5%9fikta%c5%9f+rb+leipzig+ma%c3%a7%c4%b1">26 eylül 2017 beşiktaş rb leipzig maçı</a><br/><br/>maç 2-0 iken ikinci yarı çıkardığı sabistser'in önce 52nci sonra 58nci dakikalardaki [<a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=c0lJLXg9ztU#t=2m15s" title="https://www.youtube.com/watch?v=c0lJLXg9ztU#t=2m15s">şutları</a> (özellikle 2.si fenaydı tam köşeden parmaklarının ucuyla aldı). evimizde 4.torbanın en zor takımı olan flaş alman ekibini 2-0 gibi net bir skorla geçip 3 puan daha alarak yolumuza devam ediyoruz şampiyonlar liginde.<br/><br/>gelelim <a class="b" href="/?q=opta">opta</a> verilerine; <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OptaCan/status/994150452538331136" title="https://twitter.com/OptaCan/status/994150452538331136">link</a><br/><br/>"fabri %77.7'lik bir oran ile, bu sezon avrupa'nın beş büyük ligi ve süper lig'de kalesine gelen isabetli şut sayısına göre kurtarış yüzdesi en yüksek beşinci kaleci."<br/><br/>vakit bulduğumda <a class="b" href="/?q=2016%2f2017">2016/2017</a> sezonunu da dahil edeceğim bu entry'ye. saygılarımla.<br/><br/>edit: <a class="b" href="/?q=herturluacilansemsiye">herturluacilansemsiye</a>'nin uyarısı üzerine pozisyonların görüntüleri de eklenmiştir. iyi seyirler efendim.
   entry_channels: spor
+- entry_name: |
+    nakşibendi liderinin adnan oktar hk. görüşleri
+  entry_id:  79485558
+  entry_writer: businessclass
+  entry_fav_count: 52
+  entry_content: |
+    bir sahtekarin bir baska sahtekar hakkindaki görusleridir.
+  entry_channels: siyaset
 - entry_name: |
     23 temmuz 2018 ankara'da duyulan patlama sesi
   entry_id:  79477334
@@ -235,37 +235,13 @@ data:
     <a class="b" href="/?q=%c3%bcst+edit">üst edit</a>: kahramankazan'da mürted hava meydan komutanlığı'nda f-16 uçuşu sırasındaki sonik patlamanın neden olduğu belirtildi. (dha) <br/><br/>ayrıca: <a class="b" href="/?q=ankara+valisi">ankara valisi</a> ercan topaca: "ankara’da bir patlama olduğu yönündeki ihbarlar üzerine, yapılan incelemede, söz konusu patlama sesinin, f-16 modernizasyon projesi kapsamında, tai genel müdürlüğünde yapılan test uçuşu sırasında meydana geldiği anlaşılmıştır. söz konusu test uçuşları yetkili mercilerden izin alınarak yapılmış olup herhangi olumsuzluk bulunmamaktadır" dedi. <br/>16:00<br/><br/>korkulan olmadı. tüm ankaralılara ve ülkemize geçmiş olsun.<br/>___<br/><br/>tamam anladık arkadaşlar. ankara'nın her yerinden duyulmuş. şimdi bir sakin. olay hakkında bir bilginiz yok ise sessiz sessiz oturup bilen birinin bir şey paylaşmasını bekleyin.<br/><br/><a class="b" href="/?q=edit">edit</a>: şimdilik füze test atışları olduğu söyleniyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ankara.gov.tr/tuz-golu-atis-alaninin-gecici-askeri-guvenlik-bolgesi-ilan-edilmesine-iliskin-duyuru-23072018" title="http://ankara.gov.tr/tuz-golu-atis-alaninin-gecici-askeri-guvenlik-bolgesi-ilan-edilmesine-iliskin-duyuru-23072018">ankara valiliği</a><br/><br/>arkadaşlar gerçekten inanılmazsınız. sokaktaki yol çalışmalarındaki kepçeyi saatlerce izleyen insanlardan bir farkınız yok kusura bakmayın.<br/><br/>- aman nooolmuş? bomba mı patlamış? vah aaaah! ölü olmasa bari.<br/><br/><a class="b" href="/?q=edit+2">edit 2</a>: bir de böyle bir bilgi var. (profilini kapatmış aptal. muhtemelen ilgi çekmek için yazdı)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Duhanozdmr/status/1021366353670868993?s=19" title="https://twitter.com/Duhanozdmr/status/1021366353670868993?s=19">yenikent jandarma birliği'nde patlama</a><br/><br/><a class="b" href="/?q=edit+3">edit 3</a>: bu da hürriyet linki. ayrıntılar birazdanmış.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/ankarada-korkutan-patlama-sesi-40905782" title="http://www.hurriyet.com.tr/gundem/ankarada-korkutan-patlama-sesi-40905782">hürriyet</a><br/><br/><a class="b" href="/?q=edit+4">edit 4</a>: karar gazetesi'nin de (!) gelişmeleri buradan takip edip 'öne sürülüyor' şeklinde habercilik yaptığını da görmüş olduk.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.karar.com/guncel-haberler/son-dakika-ankara-mke-fabrikasinda-patlama-yaralilar-var-921826" title="http://www.karar.com/guncel-haberler/son-dakika-ankara-mke-fabrikasinda-patlama-yaralilar-var-921826">karar gazetesi</a><br/><br/><a class="b" href="/?q=edit+5">edit 5</a>: lütfen karar gazetesi linkine tıklayıp da trafik kazandırmayın. az önce 'mke'de patlama ölü ve yaralılar var' başlığını silip 'bazı sosyal medya paylaşımları böyle' diye değiştirmiş. el insaf.<br/><br/>edit 6: ankara'da endişeye neden olan patlama sesinin ilk belirlemelere göre, kahramankazan'da mürted hava meydan komutanlığı'nda f-16 uçuşu sırasındaki sonik patlamanın neden olduğu belirtildi. (dha)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.dha.com.tr/yurt/ankaradaki-patlama-sesinin-nedeni-belli-oldu/haber-1591024" title="https://www.dha.com.tr/yurt/ankaradaki-patlama-sesinin-nedeni-belli-oldu/haber-1591024">https://www.dha.com.tr/…ni-belli-oldu/haber-1591024</a><br/><br/>ayrıca bazı entry'lere <a class="b" href="/?q=cevap">cevap</a> olarak: bak arkadaşım bilgi böyle girilir. senin ay şurada patlama sesi duyuldu tarzı çekirdekçi teyzeler gibi açıklamaların yalnızca bilgi kirliliği. neymiş olayın çapını hesaplıyormuş? eğer o kadar yetiye sahip olsan 'ay çok korktum inşalla bişiy olmamıştır' şeklinde paylaşım yapmazsın. oturur neymiş ne değilmiş ona bakarsın. yine yaz ne yazacaksan ama binlerce insan böylesine ehemmiyetli bir durumda reel ve içi dolu bilgiye erişmek istiyor. acaba şuradan da duyulmuş mu şeklinde entry aramıyor!<br/><br/>bir de alınganlık yapmıyorlar mı? hey allahım.
   entry_channels: haber
 - entry_name: |
-    nakşibendi liderinin adnan oktar hk. görüşleri
-  entry_id:  79485558
-  entry_writer: businessclass
-  entry_fav_count: 48
+    aşı yaptırmaya mecbur değilim hareketi
+  entry_id:  79486771
+  entry_writer: 2651408
+  entry_fav_count: 49
   entry_content: |
-    bir sahtekarin bir baska sahtekar hakkindaki görusleridir.
-  entry_channels: siyaset
-- entry_name: |
-    kel erkeklerin asla yakışıklı olmaması
-  entry_id:  79487492
-  entry_writer: leon dupuis
-  entry_fav_count: 48
-  entry_content: |
-    bir şekilde <a class="b" href="/?q=brazzer%27taki+kel+adam">brazzer'taki kel adam</a>'ın eline düşmüş ve feci şekilde intikam hırsıyla dolmuş olduğunu anladığım yazarımsıtırak sıçmığı.<br/><br/>not: kel değilim saçlarım gayet gür.<br/><br/>not 2 : insanların kendi elinde olmayan fiziksel özellikler üzerinden üstünlük devşirmeye çalışmak en hafif tabiriyle ırkçılıktır. kısaca orospu çocukluğudur.
-  entry_channels: anket
-- entry_name: |
-    23 temmuz 2018 habertürk benzin haberi
-  entry_id:  79485124
-  entry_writer: katil koyun
-  entry_fav_count: 48
-  entry_content: |
-    demek euro kuru yarın 8 lira filan olursa, ülkemizde benzin avrupaya göre iyice ucuzlamış olacak.<br/>yani bizim euro kuru yükseldikçe adamların benzini zamlanacak. şahane bişey lan bu. işte türk lirasının gücünü görün.
-  entry_channels: haber,ekonomi
-- entry_name: |
-    plajda bira içen insan
-  entry_id:  79472740
-  entry_writer: jumanji35
-  entry_fav_count: 46
-  entry_content: |
-    bu anamıza bacımıza baküürler yazanları direk engelliyorum. tiksinti verdiniz artık be. ananızı bacınızı sizin ben iyi mi? oldu mu? ne ana bacı varmış ulan sizde. her konuya anamız bacımız, çoluğumuz çocuğumuz, karımız kızımız. beehh!
-  entry_channels: yeme-içme
+    gören de insanlar hep seksen yıl yaşıyor sanacak. halbuki 100 yıl önce ortalama ömür 45-50 seneydi; doğan 100 bebekten 30-35 i de beş yaşına gelmeden ölüyordu zaten.<br/><br/>işte bunlar hep ilaç firmalarının trilyon dolarlık vurgunu. bizi uzun uzun yaşatıp daha çok gelir elde ediyorlar.
+  entry_channels: bilim,sağlık,haber,eğitim
 - entry_name: |
     en güzel sigara
   entry_id:  79457432
@@ -275,13 +251,13 @@ data:
     dolu olandır.
   entry_channels: anket,sağlık,yeme-içme
 - entry_name: |
-    aşı yaptırmaya mecbur değilim hareketi
-  entry_id:  79486771
-  entry_writer: 2651408
-  entry_fav_count: 39
+    30 yaşındaki adamın 20 yaşındaki kızla çıkması
+  entry_id:  79457749
+  entry_writer: dedim ya laa
+  entry_fav_count: 36
   entry_content: |
-    gören de insanlar hep seksen yıl yaşıyor sanacak. halbuki 100 yıl önce ortalama ömür 45-50 seneydi; doğan 100 bebekten 30-35 i de beş yaşına gelmeden ölüyordu zaten.<br/><br/>işte bunlar hep ilaç firmalarının trilyon dolarlık vurgunu. bizi uzun uzun yaşatıp daha çok gelir elde ediyorlar.
-  entry_channels: bilim,sağlık,haber,eğitim
+    zenginse normal, fakirse gerici’dir...<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+ger%c3%a7ekleri">türkiye gerçekleri</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
     zor okunan kitaplar
   entry_id:  79458055
@@ -291,18 +267,10 @@ data:
     (bkz: <a class="b" href="/?q=y%c3%bczy%c4%b1ll%c4%b1k+yaln%c4%b1zl%c4%b1k">yüzyıllık yalnızlık</a>) kimin kim olduğunu anlayana kadar kafam patlamıştı.
   entry_channels: anket,edebiyat
 - entry_name: |
-    30 yaşındaki adamın 20 yaşındaki kızla çıkması
-  entry_id:  79457749
-  entry_writer: dedim ya laa
-  entry_fav_count: 35
-  entry_content: |
-    zenginse normal, fakirse gerici’dir...<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+ger%c3%a7ekleri">türkiye gerçekleri</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
     toyotanın kalas gibi araba olması
   entry_id:  79485623
   entry_writer: smete
-  entry_fav_count: 32
+  entry_fav_count: 35
   entry_content: |
     la bu toyota ne etti size gardaşım.<br/>2015 corolla orta paket kullanıcısıyım. araçta hız sabitleyici&amp;sınırlayıcı, hill holder, geri görüş kamerası, bluetooth, far sensörü, yağmur sensörü, lastik basınç sensörü, dokunmatik ekran var.<br/>"bunlar da özellik mi yea" diyor olabilirsiniz belki ama ortalama bir sürücü için bu özellikler bence yeterli.<br/>ayrıca araç ncap'den 5 yıldız almış.<br/>hele birisi dar demiş ki arka koltukların diz mesafesi olarak sınıfının en geniş araçlarından bir tanesi.<br/>tipini beğenmiyorum deyin kabul. ön konsolu çok kötü görünüyor deyin kabul.0'dan 100'e hızlanması yeterli değil deyin kabul. <br/>ama az mantıklı eleştirin.
   entry_channels: otomotiv
@@ -310,18 +278,10 @@ data:
     bedelli askerken çavuş dövmek
   entry_id:  79486669
   entry_writer: casusbubelli
-  entry_fav_count: 27
+  entry_fav_count: 35
   entry_content: |
     çavuşu tokatlamak olmasın o?
   entry_channels: anket
-- entry_name: |
-    1983 doğumlu olmak
-  entry_id:  79480307
-  entry_writer: birgunolursun
-  entry_fav_count: 24
-  entry_content: |
-    "<a class="b" href="/?q=83%27l%c3%bcy%c3%bcm+sekste+g%c3%bc%c3%a7l%c3%bcy%c3%bcm">83'lüyüm sekste güçlüyüm</a> ." diyebilmektir.
-  entry_channels: spoiler
 - entry_name: |
     sıçtık kelimesinin pc oyunlarındaki terminolojisi
   entry_id:  79482625
@@ -330,14 +290,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=civilization+v">civilization v</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>“bismarck has completed apollo program” <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: anket,oyun
-- entry_name: |
-    karacoğlan'ın şiirlerinde geçen sübyancı dizeler
-  entry_id:  79480865
-  entry_writer: sonra ben de dedim ki
-  entry_fav_count: 21
-  entry_content: |
-    o dönemde 18 yaşındakiler evde kalıyormuş diyolla.<br/><br/>karacaoğlan döneminin etkisi ile yazmıştır. <br/><br/>sübyancılık amacı güdülmemiştir.
-  entry_channels: ilişkiler,edebiyat
 - entry_name: |
     base 42
   entry_id:  79483495
@@ -350,26 +302,42 @@ data:
     temporary ile permanent'ı karıştırmak
   entry_id:  79488309
   entry_writer: zlanks the blackboard
-  entry_fav_count: 12
+  entry_fav_count: 16
   entry_content: |
     horizontal ile vertical'i de karıştırır bunlar
+  entry_channels: 
+- entry_name: |
+    yabancı kelime gibi duran türkçe kelimeler
+  entry_id:  79488446
+  entry_writer: muhalifherif
+  entry_fav_count: 15
+  entry_content: |
+    (bkz: <a class="b" href="/?q=nice">nice</a>)<br/><br/>kabul et sen de "nays" diye okudun.
   entry_channels: 
 - entry_name: |
     karıncaları öldürmeden defetmenin yolu
   entry_id:  79483874
   entry_writer: kirli sakalli anadolu comari
-  entry_fav_count: 11
+  entry_fav_count: 14
   entry_content: |
     en azılı ateist bile olsam karınca öldürmek günah diye bir şey işlenmiş kafama, yolda ezmemek için sek sek oynuyorum resmen.
   entry_channels: anket
 - entry_name: |
-    bir insanla ilişiği kesmek için yeter sebepler
-  entry_id:  79457316
-  entry_writer: career a
-  entry_fav_count: 10
+    ekşi premier league whatsapp grubu
+  entry_id:  79484010
+  entry_writer: duz vatandas
+  entry_fav_count: 11
   entry_content: |
-    belirli bir tarihte ödemek üzere borç aldıktan sonra o tarih geldiğinde ve o tarihten günler-haftalar geçtiğinde borcu ile ilgili hiçbir şey söylememesi, hatırlatınca bozulması, bozulmasına rağmen ödememesi, tekrar isteyince hesap no istemesi, hesap no gönderince yine günlerce sesinin çıkmaması, tekrar hatırlatınca trip atarak üste çıkmaya çalışması.<br/><br/>bu insanlarla direkt olarak ilişinizi kesmeyin, önce dövün, ardından kesersiniz.
-  entry_channels: anket,ilişkiler
+    beni de alın beni de. kevin de bruyne balon değil iyi futbolcu. bakin anliyorum premier league den.
+  entry_channels: spor
+- entry_name: |
+    beykoz'da güneşin altında bekletilen 220 at
+  entry_id:  79483501
+  entry_writer: hopeless
+  entry_fav_count: 8
+  entry_content: |
+    <a class="b" href="/?q=ruam">ruam</a> nedeniyle karantinaya alınmış olan büyükada'ya sokulmasına izin verilmeyen, bu sebeple de 2 aydır beykoz'da güneşin altında beklerken günden güne ölen atlar. <br/><br/>adaya alınsalar sürekli çalışacaklar. alınmasalar teker teker ölecekler çünkü bulundukları yer gündüzleri güneşe, geceleriyse çiğ yağışına maruz kalıyor. beslenme ve su sorunu da varmış. içinden çıkılması zor ve üzücü bir durum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201807231034414569-buyukada-at-beykoz-karantina/" title="https://tr.sputniknews.com/turkiye/201807231034414569-buyukada-at-beykoz-karantina/">https://tr.sputniknews.com/…da-at-beykoz-karantina/</a><br/><br/>edit: an itibariyle bu konu hakkında girilen entry sayısı 5, partide iki adam tarafından sandviç yapılan bir kadının görüntüleriyle ilgili girilen entry sayısıysa 300 civarı.
+  entry_channels: siyaset,ilişkiler,tarih,teknoloji,haber,eğitim,seyahat
 - entry_name: |
     ekşi itiraf
   entry_id:  79460208
@@ -387,19 +355,51 @@ data:
     'sanırım fake' demiş başlık sahibi. sanırım demiş. sanıyor.
   entry_channels: teknoloji
 - entry_name: |
-    23 temmuz 2018 uefa şampiyonlar ligi kura çekimi
-  entry_id:  79472587
-  entry_writer: fetish bey
-  entry_fav_count: 5
+    kız kardeşin eşten güzel olması
+  entry_id:  79483988
+  entry_writer: bunun da icinde das var oglum
+  entry_fav_count: 4
   entry_content: |
-    gördüğünüz gibi ekşi sözlük okunan değil sadece yazılan bir yer oldu. whatsapp arkadaş gruplarından bir farkı kalmadı yani.
-  entry_channels: spor
+    ne diyon lan sen değişik?<br/><br/>edit: başlık başa kalmış. şu mallardan bi arınamadık.
+  entry_channels: ilişkiler
 - entry_name: |
-    ekşi premier league whatsapp grubu
-  entry_id:  79486347
-  entry_writer: karabiber ve ejderha
+    akşener'in kuracağı yeni partiye isim önerileri
+  entry_id:  79457019
+  entry_writer: tutunamayabilirdik
+  entry_fav_count: 4
+  entry_content: |
+    daha iyi parti,en iyi parti.. ay ne komik ne güldüm. bir de defalarca yazilmaz mi
+  entry_channels: siyaset,anket
+- entry_name: |
+    türk'üm deyince yabancıların verdiği tepki
+  entry_id:  79483661
+  entry_writer: astarojna kak mojna
+  entry_fav_count: 2
+  entry_content: |
+    "woaw but you dont look a turk" girizgahı sekmez. <br/>nasıl bir imaj çalışması yapmışlarsa zamanında sayın amina koduklarım. türk'e benzememek iltifat oldu olaya bak.
+  entry_channels: 
+- entry_name: |
+    kim milyoner olmak ister
+  entry_id:  79487272
+  entry_writer: huaaa allah ne kadar super lan
   entry_fav_count: 0
   entry_content: |
-    katılmak istediğim grup. başka hiçbir whatsapp grubunda bulunmuyorum zaten, çevremde futbol konuşacak adam da yok. biraz sosyalleşelim sözlükte.
-  entry_channels: spor
+    6 7 sene once basvurmustum hala donmediler. hangi kitaplari okudunuz kismina tutunamayanlar yazmistim. nedeni buysa acik acik soyleyeyim ben o kitabi okumadim. zaten tamamen okuyan da bir elin parmagini gecmez. arasaniza amk.
+  entry_channels: tv
+- entry_name: |
+    her neslin kendinden bir sonrakine tırt demesi
+  entry_id:  79489212
+  entry_writer: abbe faria
+  entry_fav_count: 0
+  entry_content: |
+    başına çok iş gelen karakteristik nesillere gelince, trend değişir.<br/><br/>akabinde bu referans noktası olur ve ondan sonra gelenler tırt olur.
+  entry_channels: 
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  79490409
+  entry_writer: takeabread
+  entry_fav_count: 0
+  entry_content: |
+    evet her zaman söylediğim gibi, yalnızca uzun yolda uğradığım veritabanı.<br/><br/>aslında saatlerdir kitap okuyordum ve halimden oldukça memnundum. ta ki yanıma kır saçlı, koyu tenli, 100 kilo, bıyıklı bir amca oturana kadar.<br/><br/>elimdeki kitaba ve benim onu okuyor olmama rağmen o kadar çok soru sordu ki pes ettim. ya da saatlerdir kitapla bakıştığımı ve benim bu durumdan çok sıkılmış olduğumu düşündü.<br/><br/>neyse, keşke "bu suriyeliler gerçekten çok pismiş, dedikleri doğruymuş" derken kendisinin de koktuğunun farkında olsaydı.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
