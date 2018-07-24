@@ -13,16 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FHTlXJm8ob0eiIJtwAVy7SK9oXkOk0DIsUCSU3_8gfo.jpg?s=1778ba7b530fac0152269a6cf9d20113 frameborder=0>
 - entry_name: |
-    The greatest roast of all time.
-  entry_id: 9199mz
-  entry_content: |
-    <img src=https://i.redditmedia.com/G4zmQqr_RXUDaGhDMG2ruTxcDKZh_tp8DKOuGi_jGxQ.jpg?s=4f7d668922635077d9c720afdef77be9 frameborder=0>
-- entry_name: |
-    You can see the number eight between the diamonds on this 8 card.
-  entry_id: 9199ox
-  entry_content: |
-    <img src=https://i.redditmedia.com/gT6_-4kPcqlfEccDvq55uxqkz6NOPFiA33p7KWlK9M4.jpg?s=3f2448bbecdcecf9635d321ae2755b2e frameborder=0>
-- entry_name: |
     I Asked A Tennis Racket Company To Make Me Real Life Waluigi And Wario Rackets For Comic-Con. They Were Ecstatic And Made The Best Rackets I've Ever Seen.
   entry_id: 919pwu
   entry_content: |
@@ -57,11 +47,6 @@ data:
   entry_id: 919xa7
   entry_content: |
     <iframe src=https://v.redd.it/ufk9d899xqb11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    TIL about Roselle, a seeing-eye dog that led her blind owner, Michael Hingson, down 1,463 steps from the 78th floor of the North Tower of the World Trade Center on September 11th, 2001. Dog and owner exited just before the South Tower collapsed, and both survived.
-  entry_id: 919893
-  entry_content: |
-    <img src=https://i.redditmedia.com/U4OGefvzMnAsUxw-EE5iGGeQqPYP34Ipl8wAUnRtiLo.jpg?s=a4c125755c38a58f7af08acdba5325a4 frameborder=0>
 - entry_name: |
     This weekend, I made a game about a lonely vampire running from sunlight!
   entry_id: 91b82y
@@ -120,11 +105,6 @@ data:
   entry_id: 91bhsd
   entry_content: |
     <img src=https://i.redditmedia.com/O_yy9vMrRPtbuJXRu4Ou8WdbLfNHS6Ndmxo3CYdMPns.jpg?s=b2b075e9b530953c83a03b78b18eb43d frameborder=0>
-- entry_name: |
-    This upside down photo of bats looks like they’re waiting for a game to start in a rainy stadium.
-  entry_id: 91gwhk
-  entry_content: |
-    <img src=https://i.redditmedia.com/dixxXNBcVJBI0KB-kESKMeGf-ViK8HvPemTOuWh3v-E.jpg?s=ec9fe45b5b938bf6f6bff1aa02d34d99 frameborder=0>
 - entry_name: |
     If you watch the film with headphones or properly placed surround sound speakers, every time we see Baby in Baby Driver (2017) wearing only one of his headphones, you’ll hear the song he is listening to through that ear only.
   entry_id: 91ddh2
@@ -248,4 +228,23 @@ data:
   entry_id: 91ahlc
   entry_content: |
     <img src=https://i.redditmedia.com/f61PopvI4nT_NSHytmBy-kGmMTPrShMipP0cNBjuKGU.jpg?s=5d2944a04f4b28fd5e493afd599b844b frameborder=0>
+- entry_name: |
+    The holy trinity
+  entry_id: 91cd13
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gs5KSjj868J-N7GGFI3E7yS9W9CfYUDtRrM3a1lMc8M.jpg?s=9ed2423b1acfb573234ffcbdee0b194f frameborder=0>
+- entry_name: |
+  entry_id: 91hf30
+  entry_content: |
+    <img src=https://i.redditmedia.com/YVdIwKvils_w1VMIgfmszXIgbrR9EBUm99EG4iiY44w.png?s=d6531d28dd69f3d19232ecf6d356518e frameborder=0>
+- entry_name: |
+    The ‘S’ is a little hard to see from a distance
+  entry_id: 91asyg
+  entry_content: |
+    <img src=https://i.redditmedia.com/0l3wdNxoDmqXKQIEvhQH_YYSAKbVaBDMorclXZ3gxBM.jpg?s=e6da46a6100f6e08d67d3f0de4511b0e frameborder=0>
+- entry_name: |
+    U.S. Breaks Up Fake I.R.S. Phone Scam Operation
+  entry_id: 91cs3n
+  entry_content: |
+    <img src=https://i.redditmedia.com/kQAKeWb06dMEWin5iGq83yci4x1O7ZGhqMumjkT4qSs.jpg?s=dc4ed2ea0512bda4521fed89b23e8f0f frameborder=0>
 ---
