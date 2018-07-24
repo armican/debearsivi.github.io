@@ -116,11 +116,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/VW-n_pFbYC_iwyMtyLxUOTj8kAwlW71Fv3mu8a-jSLY.jpg?s=e6f6b8b93c31bd30907bbeb1a91e86d7 frameborder=0>
 - entry_name: |
-    Never half-ass two GIFs. Whole-ass one GIF.
-  entry_id: 9192eq
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FRawBoringFattaileddunnart&url=https%3A%2F%2Fgfycat.com%2FRawBoringFattaileddunnart&image=https%3A%2F%2Fthumbs.gfycat.com%2FRawBoringFattaileddunnart-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Police: Naked Man Arrested At Planet Fitness Cites ‘Judgment Free Zone’
   entry_id: 91bhsd
   entry_content: |
@@ -248,4 +243,9 @@ data:
   entry_id: 91cg4e
   entry_content: |
     <img src=https://i.redditmedia.com/5JMhbnRazS8RDKSJrQn96ExAuaVCI9Vr0FXrVhyZYHE.jpg?s=b46af97c8dbc8b9d34fa07498d888fce frameborder=0>
+- entry_name: |
+    This is true
+  entry_id: 91ahlc
+  entry_content: |
+    <img src=https://i.redditmedia.com/f61PopvI4nT_NSHytmBy-kGmMTPrShMipP0cNBjuKGU.jpg?s=5d2944a04f4b28fd5e493afd599b844b frameborder=0>
 ---
