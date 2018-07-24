@@ -163,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ef07DxeSerdy2_md80hpZgmOrfD_ZH4qMySteWEUxck.jpg?s=37d16b141bf23d3045cb3aab51afd0e7 frameborder=0>
 - entry_name: |
-    Prior convict stops robbery before it happens.
-  entry_id: 91ar4m
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhisperedPerkyHoneybadger&url=https%3A%2F%2Fgfycat.com%2FWhisperedPerkyHoneybadger&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhisperedPerkyHoneybadger-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     describe your cat in one picture
   entry_id: 91hxjp
   entry_content: |
@@ -246,4 +241,9 @@ data:
   entry_id: 91gadm
   entry_content: |
     <img src=https://i.redditmedia.com/NoIGTVlc3mhgtatjEKGv23EdOmXkZq-D-MAKJ01vgBw.jpg?s=c2edf1f748edf66a492538ca90011962 frameborder=0>
+- entry_name: |
+    Forbes deleted an op-ed arguing that Amazon should replace libraries
+  entry_id: 91diyd
+  entry_content: |
+    <img src=https://i.redditmedia.com/4NnBJ-mcM-erEcHcmqfJ2G7gXPqK_wRoQUM0OsckLaY.jpg?s=e39ed7cfb68f55a8b7bf872bdc5a2c0a frameborder=0>
 ---
