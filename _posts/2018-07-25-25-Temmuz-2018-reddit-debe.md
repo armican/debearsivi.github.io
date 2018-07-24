@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FHTlXJm8ob0eiIJtwAVy7SK9oXkOk0DIsUCSU3_8gfo.jpg?s=1778ba7b530fac0152269a6cf9d20113 frameborder=0>
 - entry_name: |
-    I Asked A Tennis Racket Company To Make Me Real Life Waluigi And Wario Rackets For Comic-Con. They Were Ecstatic And Made The Best Rackets I've Ever Seen.
-  entry_id: 919pwu
-  entry_content: |
-    <img src=https://i.redditmedia.com/9pqpG_QJgI0i7OyU49RlWmUYrDCzqcQX1RQazsfjPfA.jpg?s=2cf9076fe77938bae09040e139d3758a frameborder=0>
-- entry_name: |
     Children as young as age 4 express dislike of and are willing to punish those who freeload off the work of other group members, a new study has found. But kids also make a clear distinction between those who freeload intentionally and those who have good reasons why they can’t contribute.
   entry_id: 91b8gd
   entry_content: |
@@ -27,11 +22,6 @@ data:
   entry_id: 91cv7y
   entry_content: |
     <img src=https://i.redditmedia.com/8lIZP8SfnZ2h1BrJUxqyEIZRQ6gG4dejI1jfgYxh1FA.png?s=dd1e05034f9508348996cce25b2d2165 frameborder=0>
-- entry_name: |
-    That's a cause I can support
-  entry_id: 919nih
-  entry_content: |
-    <img src=https://i.redditmedia.com/iJzFMQCT7o1cYwWjBD5T3oNUvvd_baOYxFeCWgxu7hU.jpg?s=8385205595a945673215815ea9b7b653 frameborder=0>
 - entry_name: |
     My mom just gave me this acrylic painting for my birthday.It took her weeks to finish, but the result is amazing. Thanks mom!
   entry_id: 91fpjo
@@ -80,11 +70,6 @@ data:
   entry_id: 91a4kj
   entry_content: |
     <img src=https://i.redditmedia.com/kQAKeWb06dMEWin5iGq83yci4x1O7ZGhqMumjkT4qSs.jpg?s=dc4ed2ea0512bda4521fed89b23e8f0f frameborder=0>
-- entry_name: |
-    Has anyone REALLY seen a Russian die?
-  entry_id: 919lcu
-  entry_content: |
-    <iframe src=https://v.redd.it/tnwy7rcnqqb11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     The Bill
   entry_id: 91ciae
@@ -140,11 +125,6 @@ data:
   entry_id: 91ct64
   entry_content: |
     <img src=https://i.redditmedia.com/6VTxVYWxpzDVw1Us5yTYrGA2p8UtiKvl7GdGfebKHj0.jpg?s=66959d075ef670ca019caa7fcb212af8 frameborder=0>
-- entry_name: |
-    Wholesome Goofy
-  entry_id: 919lmy
-  entry_content: |
-    <img src=https://i.redditmedia.com/Az1p96kKpHEO-YLjm6dEveCr0XyBRPXx3MfWfGr-9Vg.jpg?s=4dab52b266da7d306455410fb3657298 frameborder=0>
 - entry_name: |
     A mirror in a desert set up to look like a canvas
   entry_id: 91cp9t
@@ -247,4 +227,24 @@ data:
   entry_id: 91cjjg
   entry_content: |
     <img src=https://i.redditmedia.com/qyIgQ3uAifnPs6joLWWjlS6ORWpL2Iz42WwQxAtk0dQ.jpg?s=56c89155b5abc7c57cf6aa58b74bbc71 frameborder=0>
+- entry_name: |
+    Deer skull after sitting in water for over a year
+  entry_id: 91cg4e
+  entry_content: |
+    <img src=https://i.redditmedia.com/5JMhbnRazS8RDKSJrQn96ExAuaVCI9Vr0FXrVhyZYHE.jpg?s=b46af97c8dbc8b9d34fa07498d888fce frameborder=0>
+- entry_name: |
+    This is true
+  entry_id: 91ahlc
+  entry_content: |
+    <img src=https://i.redditmedia.com/f61PopvI4nT_NSHytmBy-kGmMTPrShMipP0cNBjuKGU.jpg?s=5d2944a04f4b28fd5e493afd599b844b frameborder=0>
+- entry_name: |
+    Snuggle buddies
+  entry_id: 91gwfw
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHelpfulCorruptCheetah&url=https%3A%2F%2Fgfycat.com%2FHelpfulCorruptCheetah&image=https%3A%2F%2Fthumbs.gfycat.com%2FHelpfulCorruptCheetah-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    The holy trinity
+  entry_id: 91cd13
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gs5KSjj868J-N7GGFI3E7yS9W9CfYUDtRrM3a1lMc8M.jpg?s=9ed2423b1acfb573234ffcbdee0b194f frameborder=0>
 ---
