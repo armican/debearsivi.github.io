@@ -188,10 +188,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1e7MTD6b6aDjgXHUgOLh7yBgNGlP6mVlX-7JQ-SZXZU.jpg?s=b37ac69ac835bd9653586bc310c352f2 frameborder=0>
 - entry_name: |
-  entry_id: 91ag2o
-  entry_content: |
-    null
-- entry_name: |
     Kidney bean growing over 25 days - time lapse
   entry_id: 91ex4o
   entry_content: |
@@ -246,4 +242,9 @@ data:
   entry_id: 91cd13
   entry_content: |
     <img src=https://i.redditmedia.com/Gs5KSjj868J-N7GGFI3E7yS9W9CfYUDtRrM3a1lMc8M.jpg?s=9ed2423b1acfb573234ffcbdee0b194f frameborder=0>
+- entry_name: |
+    Made this hologram for my DM. Hope he digs it.
+  entry_id: 91dp37
+  entry_content: |
+    <iframe src=https://v.redd.it/qlllol9patb11/DASH_9_6_M frameborder=0></iframe>
 ---
