@@ -33,15 +33,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hi7scwueiyb11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Just met at the vet
-  entry_id: 91o092
-  entry_content: |
-    <iframe src=https://v.redd.it/6o5w9g5qc0c11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Someone smashed Trump’s Star on the Walk Of Fame in Hollywood.
   entry_id: 91rvus
   entry_content: |
     <img src=https://i.redditmedia.com/C0A6cbjjH6_QTQYSMTe_1RaegHBXu_RsIVL3lrK6VVQ.jpg?s=23654a89fa0f2603047d3936fe798a49 frameborder=0>
+- entry_name: |
+    Just met at the vet
+  entry_id: 91o092
+  entry_content: |
+    <iframe src=https://v.redd.it/6o5w9g5qc0c11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     TIL that a Scottish parliamentarian introduced a bill to decriminalize homosexuality in England after his gay brother killed himself. It passed. He wrote another bill to protect badgers. It failed. When asked why the latter didn’t pass, he snorted “There are not many badgers in the House of Lords.”
   entry_id: 91n7bn
@@ -63,6 +63,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/isKM_3KNDymr4HiczUuBNQfkf89W7bGrbJ-t-DVQQbc.gif?fm=jpg&s=9cafc7ab402acdba3d37337cc29ce210 frameborder=0>
 - entry_name: |
+    Underground Lake of Liquid Water Detected on Mars
+  entry_id: 91s2d4
+  entry_content: |
+    <img src=https://i.redditmedia.com/oWZSTMHjgtcM-hT2-Ny7qvTRK3EZwqGXaZe0XdBdYZQ.jpg?s=6508c842f828b384b39d84258077ab97 frameborder=0>
+- entry_name: |
     Trump White House edits Putin support for Trump out of transcript and video
   entry_id: 91o8lt
   entry_content: |
@@ -72,11 +77,6 @@ data:
   entry_id: 91nb3e
   entry_content: |
     <img src=https://i.redditmedia.com/xFsmUErkPJeghPR7MLY6aevW3ufMB4mkr8nm3rFVIOo.jpg?s=0344ac81a10d97ec11e4d8b1e27e4741 frameborder=0>
-- entry_name: |
-    Underground Lake of Liquid Water Detected on Mars
-  entry_id: 91s2d4
-  entry_content: |
-    <img src=https://i.redditmedia.com/oWZSTMHjgtcM-hT2-Ny7qvTRK3EZwqGXaZe0XdBdYZQ.jpg?s=6508c842f828b384b39d84258077ab97 frameborder=0>
 - entry_name: |
     Jailbait
   entry_id: 91n6zb
@@ -93,6 +93,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7kqGdnfoAdIEnlweL1CX1NjFTkuaIuHSQGCt695NfL0.jpg?s=6298cbdfdfc1fc3a660a29bc2e5d7680 frameborder=0>
 - entry_name: |
+    Anniversary gift from my GF who games with me. We all make sacrifices to have this!
+  entry_id: 91rwpd
+  entry_content: |
+    <img src=https://i.redditmedia.com/nVZu9_SX5D5DTsNCLRfhPJaLIG9Ymj-f5Au2jkkT9sQ.jpg?s=c97bba3cae18eaa4a7ae587b160bd849 frameborder=0>
+- entry_name: |
     Evolution of the Human face.
   entry_id: 91o9h5
   entry_content: |
@@ -107,39 +112,34 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uNSufbIeTLmiPxMukViIeGu0yrT7SuVo72v-FROGJkM.png?s=e71296abef522387687360aaa2672bde frameborder=0>
 - entry_name: |
+  entry_id: 91r91b
+  entry_content: |
+    <img src=https://i.redditmedia.com/5xvF1-JxWyazTTPBQ6Mw4-Ep4mdEele3n6d3a6miY1A.jpg?s=2bd3bbefd23d1ed5eada12dd804e27e8 frameborder=0>
+- entry_name: |
     He had one job and fucked it up
   entry_id: 91mrls
   entry_content: |
     <img src=https://i.redditmedia.com/fG8m_wgyttHjg7cAPUXK3MPWaz9C6eVxliRgnWXsVdc.jpg?s=4a03e416a188aefb1ef0810dc0171f6c frameborder=0>
-- entry_name: |
-    This vintage space themed wallpaper found under 3 layers of other wallpaper in an old farm house.
-  entry_id: 91ok75
-  entry_content: |
-    <img src=https://i.redditmedia.com/8ASaFtpEOouTyKwmjqfUAc_xXAunytR8npQ51NOTrso.jpg?s=de6915ccddf2289d43e8600d871f1fd2 frameborder=0>
 - entry_name: |
     TIL Early in life, each dolphin creates its own unique vocal whistle that gives it an individual identity. Because each whistle is unique, dolphins are able to call to each other by mimicking the whistle of a dolphin they want to communicate with. It's the equivalent of calling each other by name.
   entry_id: 91puye
   entry_content: |
     <img src=https://i.redditmedia.com/5pKWAtIoUpUFfc3vfOi_JuiIoewszfcNltVctR7rtXM.jpg?s=8c262b93df4f7f3d7ef619d63d633626 frameborder=0>
 - entry_name: |
-  entry_id: 91r91b
+    This vintage space themed wallpaper found under 3 layers of other wallpaper in an old farm house.
+  entry_id: 91ok75
   entry_content: |
-    <img src=https://i.redditmedia.com/5xvF1-JxWyazTTPBQ6Mw4-Ep4mdEele3n6d3a6miY1A.jpg?s=2bd3bbefd23d1ed5eada12dd804e27e8 frameborder=0>
+    <img src=https://i.redditmedia.com/8ASaFtpEOouTyKwmjqfUAc_xXAunytR8npQ51NOTrso.jpg?s=de6915ccddf2289d43e8600d871f1fd2 frameborder=0>
 - entry_name: |
-    Demi Lovato reportedly hospitalized for heroin overdose
-  entry_id: 91kx4d
+    A pupper that understands economics
+  entry_id: 91ri6u
   entry_content: |
-    <img src=https://i.redditmedia.com/-gJt9vd15gbXE5DI7SeAJLy5jgpNYq3nrG-mr5-Ru_E.jpg?s=fba45a52c37016855b8977163b4ee969 frameborder=0>
+    <img src=https://i.redditmedia.com/vlGnVLs8b3Yz0n4Yw7Yx183E13eAYgazwXUF1RvlHa4.jpg?s=d0f81cb2b33d985a4de76b20e3aefe07 frameborder=0>
 - entry_name: |
     CNN obtains secret Trump-Cohen tape
   entry_id: 91n9e9
   entry_content: |
     <img src=https://i.redditmedia.com/uCIof4Sx372QWslaZ2cRJjk0nGRx5hp5px7I2Tji-b4.jpg?s=f1fd2b1fa92c4ebef2210ec37834e01f frameborder=0>
-- entry_name: |
-    Anniversary gift from my GF who games with me. We all make sacrifices to have this!
-  entry_id: 91rwpd
-  entry_content: |
-    <img src=https://i.redditmedia.com/nVZu9_SX5D5DTsNCLRfhPJaLIG9Ymj-f5Au2jkkT9sQ.jpg?s=c97bba3cae18eaa4a7ae587b160bd849 frameborder=0>
 - entry_name: |
     So, Ivanka is shutting down her clothing line.
   entry_id: 91l9ag
@@ -156,19 +156,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5uQTIsOwdPrs2Y-zk-rke_XIaBMBERZiJV4Ks6ub_Tk.jpg?s=536db7d1feb4d3aa5fb59feb5adb2f94 frameborder=0>
 - entry_name: |
+    When you partied too hard last night, now you gotta clean up the litter the next morning
+  entry_id: 91t6t2
+  entry_content: |
+    <img src=https://i.redditmedia.com/1eZIvpCatB4_kGjnCQZ9BC-wUfQiURqvRZU2GlgHRag.jpg?s=ba94560005138931c9cd6bcd1ccb6a77 frameborder=0>
+- entry_name: |
     🔥 Magnificent creature
   entry_id: 91lpp7
   entry_content: |
     <iframe src=https://v.redd.it/7xh0swovtyb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    A pupper that understands economics
-  entry_id: 91ri6u
-  entry_content: |
-    <img src=https://i.redditmedia.com/vlGnVLs8b3Yz0n4Yw7Yx183E13eAYgazwXUF1RvlHa4.jpg?s=d0f81cb2b33d985a4de76b20e3aefe07 frameborder=0>
-- entry_name: |
   entry_id: 91lye4
   entry_content: |
     <img src=https://i.redditmedia.com/jW9JIovG6RWwCYJTdhGzK8fSXE2yYw5SJab_JSprLbk.jpg?s=f33f7b301b9ca0bf28830bfd9cd16f1c frameborder=0>
+- entry_name: |
+    I'm a lumberjack and I'm okay...
+  entry_id: 91qkt1
+  entry_content: |
+    <iframe src=https://v.redd.it/5v4tc7zsu1c11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Watch your step, man
+  entry_id: 91rlw2
+  entry_content: |
+    <img src=https://i.redditmedia.com/8JdDJW5M1DhpdW1hnqLHZB3OoitRDF0l2O9rTBeYons.jpg?s=580d5d900bd4178be7191c1bbcdfc5dc frameborder=0>
 - entry_name: |
     Help? Maybe?
   entry_id: 91m5x0
@@ -190,20 +200,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/pSAUtVeR98RlyWYWfD9OsxDIcyyJYA_u1IcB0q4FJfk.jpg?s=5afc46a0f35a9d65d3bc37c720ec183a frameborder=0>
 - entry_name: |
-    I'm a lumberjack and I'm okay...
-  entry_id: 91qkt1
-  entry_content: |
-    <iframe src=https://v.redd.it/5v4tc7zsu1c11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     A perfect replica
   entry_id: 91mw5q
   entry_content: |
     <img src=https://i.redditmedia.com/kw4rQJUwucdC1dy8ix1gLc99JnrIjLy6BHVUOkTq2IE.png?s=bf86d9d14f1f8485ed0a63173ae42eb8 frameborder=0>
 - entry_name: |
-    Watch your step, man
-  entry_id: 91rlw2
+    I found some amethyst in a gravel driveway.
+  entry_id: 91rj4s
   entry_content: |
-    <img src=https://i.redditmedia.com/8JdDJW5M1DhpdW1hnqLHZB3OoitRDF0l2O9rTBeYons.jpg?s=580d5d900bd4178be7191c1bbcdfc5dc frameborder=0>
+    <img src=https://i.redditmedia.com/FGm7XYp-9LIHiEeRxRpw0vL-m_8O8LK-iqHvFO1atg4.jpg?s=69ac40398d9684c34840adac608ea8b8 frameborder=0>
+- entry_name: |
+    He knows that playing with fire is a bad thing
+  entry_id: 91rlng
+  entry_content: |
+    <iframe src=https://v.redd.it/fncjl5ph33c11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     The way this guy opens a pomegranate.
   entry_id: 91nh8i
@@ -230,23 +240,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aWQGuCeAwwy8Wd1_3pBlXQx7bvfyTaKxkhEikP8fXEA.png?s=fc02cbc59ea7a1fda0028d4d4238eebd frameborder=0>
 - entry_name: |
-    me_irl
-  entry_id: 91nn7j
-  entry_content: |
-    <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
-- entry_name: |
-    I matched a random duo with a guy, and his name was not something I was expecting...(Hunt:shotdown)
-  entry_id: 91nulw
-  entry_content: |
-    <img src=https://i.redditmedia.com/l2cFykSHvtlrWQ6DiawthEm4mLScvpQxuAtuSMrtF1w.jpg?s=31d4812047df8273a23c42dfe14683ce frameborder=0>
-- entry_name: |
-    To get some pizza
-  entry_id: 91no0e
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWetUnluckyFugu&url=https%3A%2F%2Fgfycat.com%2FWetUnluckyFugu&image=https%3A%2F%2Fthumbs.gfycat.com%2FWetUnluckyFugu-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     In Firing James Gunn, Disney Hurts All of Hollywood
   entry_id: 91rpg9
   entry_content: |
     <img src=https://i.redditmedia.com/s1OVVs77cwTchTMxlYtWhtdS0mTCKS84hk3ZWtat3Uc.jpg?s=6ddbcb0ec15b9fb87a7a826e4d5be880 frameborder=0>
+- entry_name: |
+    me_irl
+  entry_id: 91nn7j
+  entry_content: |
+    <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
 ---
