@@ -169,11 +169,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/f4k64bge4zb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Kremlin: Russia not ready to accept Trump invite to Washington
-  entry_id: 91k83i
-  entry_content: |
-    <img src=https://i.redditmedia.com/ERzfO4vaA5CC-rJu2YHy09dM-GZzefVPxTvTq2AWhbQ.jpg?s=e6ea13320e579588a6eb43ba3dc5a53e frameborder=0>
-- entry_name: |
     Say it ain’t so, Big Tuna!
   entry_id: 91msgh
   entry_content: |
@@ -248,4 +243,9 @@ data:
   entry_id: 91nn7j
   entry_content: |
     <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
+- entry_name: |
+    I matched a random duo with a guy, and his name was not something I was expecting...(Hunt:shotdown)
+  entry_id: 91nulw
+  entry_content: |
+    <img src=https://i.redditmedia.com/l2cFykSHvtlrWQ6DiawthEm4mLScvpQxuAtuSMrtF1w.jpg?s=31d4812047df8273a23c42dfe14683ce frameborder=0>
 ---
