@@ -23,30 +23,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QiSn32FKte9DD8Ea8DgahuQ0GCxWFhXa8UVX3mnLD9A.jpg?s=d0d59f65beccba36be0c6ee00545a861 frameborder=0>
 - entry_name: |
-    My college roommate dropped by while he was in town, I think my pupper remembered her old roomie
-  entry_id: 91l5r7
-  entry_content: |
-    <iframe src=https://v.redd.it/hi7scwueiyb11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Ryan Stiles is comedic gold
   entry_id: 91n4xi
   entry_content: |
     <img src=https://i.redditmedia.com/AUa2eFRKgd_AkRsyT8CizhWCRuB3GRRN6usXCdvtm-o.jpg?s=83c7388745b130be02ee239e927227bb frameborder=0>
+- entry_name: |
+    My college roommate dropped by while he was in town, I think my pupper remembered her old roomie
+  entry_id: 91l5r7
+  entry_content: |
+    <iframe src=https://v.redd.it/hi7scwueiyb11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Just met at the vet
   entry_id: 91o092
   entry_content: |
     <iframe src=https://v.redd.it/6o5w9g5qc0c11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    We start ‘em young
-  entry_id: 91m8li
+    Someone smashed Trump’s Star on the Walk Of Fame in Hollywood.
+  entry_id: 91rvus
   entry_content: |
-    <img src=https://i.redditmedia.com/-ljTLuiaF-KeUFqrHreAB3G9T8YFaiEMLGBTELP0dGk.jpg?s=9181b221f9b9a4b47e04b3c5d69967c6 frameborder=0>
+    <img src=https://i.redditmedia.com/C0A6cbjjH6_QTQYSMTe_1RaegHBXu_RsIVL3lrK6VVQ.jpg?s=23654a89fa0f2603047d3936fe798a49 frameborder=0>
 - entry_name: |
     TIL that a Scottish parliamentarian introduced a bill to decriminalize homosexuality in England after his gay brother killed himself. It passed. He wrote another bill to protect badgers. It failed. When asked why the latter didn’t pass, he snorted “There are not many badgers in the House of Lords.”
   entry_id: 91n7bn
   entry_content: |
     null
+- entry_name: |
+    We start ‘em young
+  entry_id: 91m8li
+  entry_content: |
+    <img src=https://i.redditmedia.com/-ljTLuiaF-KeUFqrHreAB3G9T8YFaiEMLGBTELP0dGk.jpg?s=9181b221f9b9a4b47e04b3c5d69967c6 frameborder=0>
 - entry_name: |
     Someone asked if they could use my photo so they could practice drawing action shots and this is the amazing result.
   entry_id: 91qdcg
@@ -68,10 +73,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xFsmUErkPJeghPR7MLY6aevW3ufMB4mkr8nm3rFVIOo.jpg?s=0344ac81a10d97ec11e4d8b1e27e4741 frameborder=0>
 - entry_name: |
-    Someone smashed Trump’s Star on the Walk Of Fame in Hollywood.
-  entry_id: 91rvus
+    Underground Lake of Liquid Water Detected on Mars
+  entry_id: 91s2d4
   entry_content: |
-    <img src=https://i.redditmedia.com/C0A6cbjjH6_QTQYSMTe_1RaegHBXu_RsIVL3lrK6VVQ.jpg?s=23654a89fa0f2603047d3936fe798a49 frameborder=0>
+    <img src=https://i.redditmedia.com/oWZSTMHjgtcM-hT2-Ny7qvTRK3EZwqGXaZe0XdBdYZQ.jpg?s=6508c842f828b384b39d84258077ab97 frameborder=0>
 - entry_name: |
     Jailbait
   entry_id: 91n6zb
@@ -82,6 +87,11 @@ data:
   entry_id: 91q2xn
   entry_content: |
     <img src=https://i.redditmedia.com/pg-ELGKEIJhMnb6Ed-angFUD9iUeXxFLiXiYkW680_s.jpg?s=06a6ce0d47bfc41e5912aa1b81bc7971 frameborder=0>
+- entry_name: |
+    Good bye cancer I had stage 2 rectal cancer, got 9 inches of colon removed and near by lymph nodes. 1/10 do not recommend cancer it's a pain in my ass.
+  entry_id: 91qsg8
+  entry_content: |
+    <img src=https://i.redditmedia.com/7kqGdnfoAdIEnlweL1CX1NjFTkuaIuHSQGCt695NfL0.jpg?s=6298cbdfdfc1fc3a660a29bc2e5d7680 frameborder=0>
 - entry_name: |
     Evolution of the Human face.
   entry_id: 91o9h5
@@ -102,11 +112,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fG8m_wgyttHjg7cAPUXK3MPWaz9C6eVxliRgnWXsVdc.jpg?s=4a03e416a188aefb1ef0810dc0171f6c frameborder=0>
 - entry_name: |
-    Good bye cancer I had stage 2 rectal cancer, got 9 inches of colon removed and near by lymph nodes. 1/10 do not recommend cancer it's a pain in my ass.
-  entry_id: 91qsg8
-  entry_content: |
-    <img src=https://i.redditmedia.com/7kqGdnfoAdIEnlweL1CX1NjFTkuaIuHSQGCt695NfL0.jpg?s=6298cbdfdfc1fc3a660a29bc2e5d7680 frameborder=0>
-- entry_name: |
     This vintage space themed wallpaper found under 3 layers of other wallpaper in an old farm house.
   entry_id: 91ok75
   entry_content: |
@@ -117,10 +122,9 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5pKWAtIoUpUFfc3vfOi_JuiIoewszfcNltVctR7rtXM.jpg?s=8c262b93df4f7f3d7ef619d63d633626 frameborder=0>
 - entry_name: |
-    Underground Lake of Liquid Water Detected on Mars
-  entry_id: 91s2d4
+  entry_id: 91r91b
   entry_content: |
-    <img src=https://i.redditmedia.com/oWZSTMHjgtcM-hT2-Ny7qvTRK3EZwqGXaZe0XdBdYZQ.jpg?s=6508c842f828b384b39d84258077ab97 frameborder=0>
+    <img src=https://i.redditmedia.com/5xvF1-JxWyazTTPBQ6Mw4-Ep4mdEele3n6d3a6miY1A.jpg?s=2bd3bbefd23d1ed5eada12dd804e27e8 frameborder=0>
 - entry_name: |
     Demi Lovato reportedly hospitalized for heroin overdose
   entry_id: 91kx4d
@@ -132,14 +136,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uCIof4Sx372QWslaZ2cRJjk0nGRx5hp5px7I2Tji-b4.jpg?s=f1fd2b1fa92c4ebef2210ec37834e01f frameborder=0>
 - entry_name: |
+    Anniversary gift from my GF who games with me. We all make sacrifices to have this!
+  entry_id: 91rwpd
+  entry_content: |
+    <img src=https://i.redditmedia.com/nVZu9_SX5D5DTsNCLRfhPJaLIG9Ymj-f5Au2jkkT9sQ.jpg?s=c97bba3cae18eaa4a7ae587b160bd849 frameborder=0>
+- entry_name: |
     So, Ivanka is shutting down her clothing line.
   entry_id: 91l9ag
   entry_content: |
     <img src=https://i.redditmedia.com/lnoBu0920LSpHYVuWKlY0UhlpQiYfAyMwz3UgZAYwQ0.png?s=005ce48f0459dd5401f1d7a4632b0abf frameborder=0>
-- entry_name: |
-  entry_id: 91r91b
-  entry_content: |
-    <img src=https://i.redditmedia.com/5xvF1-JxWyazTTPBQ6Mw4-Ep4mdEele3n6d3a6miY1A.jpg?s=2bd3bbefd23d1ed5eada12dd804e27e8 frameborder=0>
 - entry_name: |
     No h8
   entry_id: 91pp8o
@@ -156,6 +161,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7xh0swovtyb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    A pupper that understands economics
+  entry_id: 91ri6u
+  entry_content: |
+    <img src=https://i.redditmedia.com/vlGnVLs8b3Yz0n4Yw7Yx183E13eAYgazwXUF1RvlHa4.jpg?s=d0f81cb2b33d985a4de76b20e3aefe07 frameborder=0>
+- entry_name: |
   entry_id: 91kj31
   entry_content: |
     <img src=https://i.redditmedia.com/P0H3MGBXd34jRIr9IxZPaQtI4e_8MWXdORIK4s7S91w.jpg?s=18c7e69f27dd72703285194d3df35177 frameborder=0>
@@ -169,83 +179,73 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/f4k64bge4zb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Say it ain’t so, Big Tuna!
-  entry_id: 91msgh
-  entry_content: |
-    <img src=https://i.redditmedia.com/v6hE46P_pCHEWzqXbYfDYkfWIWxqzQvOSsaw3-OtJvc.jpg?s=33c1bb617dc6400105b2ee08113c181e frameborder=0>
-- entry_name: |
     24 inch Maui Hook, absolutely beautiful!
   entry_id: 91mxtc
   entry_content: |
     <img src=https://i.redditmedia.com/4ajUQzsbjPgeRmJlvS9mUXqbB1pP8lEMo_tSmFppjrk.jpg?s=328c881f0be6fcb0a72c3d0e6d06ea01 frameborder=0>
+- entry_name: |
+    Say it ain’t so, Big Tuna!
+  entry_id: 91msgh
+  entry_content: |
+    <img src=https://i.redditmedia.com/v6hE46P_pCHEWzqXbYfDYkfWIWxqzQvOSsaw3-OtJvc.jpg?s=33c1bb617dc6400105b2ee08113c181e frameborder=0>
 - entry_name: |
     Age-related weight gain has far more to do with our activity patterns than it does with our metabolism, which barely budges after 30. New research suggests that to achieve better health and reduce your risk of death from any cause, any kind of movement is better than little or none.
   entry_id: 91nlp5
   entry_content: |
     <img src=https://i.redditmedia.com/pSAUtVeR98RlyWYWfD9OsxDIcyyJYA_u1IcB0q4FJfk.jpg?s=5afc46a0f35a9d65d3bc37c720ec183a frameborder=0>
 - entry_name: |
+    I'm a lumberjack and I'm okay...
+  entry_id: 91qkt1
+  entry_content: |
+    <iframe src=https://v.redd.it/5v4tc7zsu1c11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     A perfect replica
   entry_id: 91mw5q
   entry_content: |
     <img src=https://i.redditmedia.com/kw4rQJUwucdC1dy8ix1gLc99JnrIjLy6BHVUOkTq2IE.png?s=bf86d9d14f1f8485ed0a63173ae42eb8 frameborder=0>
 - entry_name: |
-    Anniversary gift from my GF who games with me. We all make sacrifices to have this!
-  entry_id: 91rwpd
+    Watch your step, man
+  entry_id: 91rlw2
   entry_content: |
-    <img src=https://i.redditmedia.com/nVZu9_SX5D5DTsNCLRfhPJaLIG9Ymj-f5Au2jkkT9sQ.jpg?s=c97bba3cae18eaa4a7ae587b160bd849 frameborder=0>
-- entry_name: |
-    MRW I hear that Trump says he's concerned Russia may interfere in election to help Democrats
-  entry_id: 91kqfo
-  entry_content: |
-    <iframe src=https://v.redd.it/nb3262maayb11/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/8JdDJW5M1DhpdW1hnqLHZB3OoitRDF0l2O9rTBeYons.jpg?s=580d5d900bd4178be7191c1bbcdfc5dc frameborder=0>
 - entry_name: |
     The way this guy opens a pomegranate.
   entry_id: 91nh8i
   entry_content: |
     <iframe src=https://v.redd.it/k2gex6yizzb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    A pupper that understands economics
-  entry_id: 91ri6u
+    MRW I hear that Trump says he's concerned Russia may interfere in election to help Democrats
+  entry_id: 91kqfo
   entry_content: |
-    <img src=https://i.redditmedia.com/vlGnVLs8b3Yz0n4Yw7Yx183E13eAYgazwXUF1RvlHa4.jpg?s=d0f81cb2b33d985a4de76b20e3aefe07 frameborder=0>
-- entry_name: |
-    A dapper Chris Farley before his 8th grade dance in 1977
-  entry_id: 91ncc8
-  entry_content: |
-    <img src=https://i.redditmedia.com/_AHqU3QAUAIbT2iSoExEGoJSdrR9GknH1CTz3u6Ow-g.jpg?s=b84cc7882b97565d5db3fe956dbf1b24 frameborder=0>
-- entry_name: |
-    Georgia lawmaker who came under fire after yelling 'n-word' on 'Who Is America?' says he'll quit
-  entry_id: 91oy13
-  entry_content: |
-    <img src=https://i.redditmedia.com/0e5kGQDJSKQBPzLU8ogbUxKsUtOJo6VyF5E_QEr_iKE.jpg?s=e06b4aa48cad0bd1194de90a1502517c frameborder=0>
+    <iframe src=https://v.redd.it/nb3262maayb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     White House Omits Critical Question From Trump-Putin Press Conference Video
   entry_id: 91qnqz
   entry_content: |
     <img src=https://i.redditmedia.com/aq2G1byBoJUmjB5imRAIRRV_Kc8XeN6TK_q_0i73Qbs.jpg?s=e84d55c71643e4dcebf1b3149ff8343f frameborder=0>
 - entry_name: |
+    Georgia lawmaker who came under fire after yelling 'n-word' on 'Who Is America?' says he'll quit
+  entry_id: 91oy13
+  entry_content: |
+    <img src=https://i.redditmedia.com/0e5kGQDJSKQBPzLU8ogbUxKsUtOJo6VyF5E_QEr_iKE.jpg?s=e06b4aa48cad0bd1194de90a1502517c frameborder=0>
+- entry_name: |
+    A dapper Chris Farley before his 8th grade dance in 1977
+  entry_id: 91ncc8
+  entry_content: |
+    <img src=https://i.redditmedia.com/_AHqU3QAUAIbT2iSoExEGoJSdrR9GknH1CTz3u6Ow-g.jpg?s=b84cc7882b97565d5db3fe956dbf1b24 frameborder=0>
+- entry_name: |
     Is this how it works?
   entry_id: 91m7go
   entry_content: |
     <img src=https://i.redditmedia.com/aWQGuCeAwwy8Wd1_3pBlXQx7bvfyTaKxkhEikP8fXEA.png?s=fc02cbc59ea7a1fda0028d4d4238eebd frameborder=0>
-- entry_name: |
-    I'm a lumberjack and I'm okay...
-  entry_id: 91qkt1
-  entry_content: |
-    <iframe src=https://v.redd.it/5v4tc7zsu1c11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    It Used to Matter When a Politician Yelled ‘N-gger’
-  entry_id: 91krjg
-  entry_content: |
-    <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
 - entry_name: |
     me_irl
   entry_id: 91nn7j
   entry_content: |
     <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
 - entry_name: |
-    I matched a random duo with a guy, and his name was not something I was expecting...(Hunt:shotdown)
-  entry_id: 91nulw
+    It Used to Matter When a Politician Yelled ‘N-gger’
+  entry_id: 91krjg
   entry_content: |
-    <img src=https://i.redditmedia.com/l2cFykSHvtlrWQ6DiawthEm4mLScvpQxuAtuSMrtF1w.jpg?s=31d4812047df8273a23c42dfe14683ce frameborder=0>
+    <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
 ---
