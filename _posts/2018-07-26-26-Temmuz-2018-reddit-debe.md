@@ -210,11 +210,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/k2gex6yizzb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    MRW I hear that Trump says he's concerned Russia may interfere in election to help Democrats
-  entry_id: 91kqfo
-  entry_content: |
-    <iframe src=https://v.redd.it/nb3262maayb11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     White House Omits Critical Question From Trump-Putin Press Conference Video
   entry_id: 91qnqz
   entry_content: |
@@ -240,13 +235,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
 - entry_name: |
-    It Used to Matter When a Politician Yelled ‘N-gger’
-  entry_id: 91krjg
-  entry_content: |
-    <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
-- entry_name: |
     I matched a random duo with a guy, and his name was not something I was expecting...(Hunt:shotdown)
   entry_id: 91nulw
   entry_content: |
     <img src=https://i.redditmedia.com/l2cFykSHvtlrWQ6DiawthEm4mLScvpQxuAtuSMrtF1w.jpg?s=31d4812047df8273a23c42dfe14683ce frameborder=0>
+- entry_name: |
+    To get some pizza
+  entry_id: 91no0e
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWetUnluckyFugu&url=https%3A%2F%2Fgfycat.com%2FWetUnluckyFugu&image=https%3A%2F%2Fthumbs.gfycat.com%2FWetUnluckyFugu-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    In Firing James Gunn, Disney Hurts All of Hollywood
+  entry_id: 91rpg9
+  entry_content: |
+    <img src=https://i.redditmedia.com/s1OVVs77cwTchTMxlYtWhtdS0mTCKS84hk3ZWtat3Uc.jpg?s=6ddbcb0ec15b9fb87a7a826e4d5be880 frameborder=0>
 ---
