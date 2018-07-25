@@ -166,10 +166,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vlGnVLs8b3Yz0n4Yw7Yx183E13eAYgazwXUF1RvlHa4.jpg?s=d0f81cb2b33d985a4de76b20e3aefe07 frameborder=0>
 - entry_name: |
-  entry_id: 91kj31
-  entry_content: |
-    <img src=https://i.redditmedia.com/P0H3MGBXd34jRIr9IxZPaQtI4e_8MWXdORIK4s7S91w.jpg?s=18c7e69f27dd72703285194d3df35177 frameborder=0>
-- entry_name: |
   entry_id: 91lye4
   entry_content: |
     <img src=https://i.redditmedia.com/jW9JIovG6RWwCYJTdhGzK8fSXE2yYw5SJab_JSprLbk.jpg?s=f33f7b301b9ca0bf28830bfd9cd16f1c frameborder=0>
@@ -248,4 +244,9 @@ data:
   entry_id: 91krjg
   entry_content: |
     <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
+- entry_name: |
+    I matched a random duo with a guy, and his name was not something I was expecting...(Hunt:shotdown)
+  entry_id: 91nulw
+  entry_content: |
+    <img src=https://i.redditmedia.com/l2cFykSHvtlrWQ6DiawthEm4mLScvpQxuAtuSMrtF1w.jpg?s=31d4812047df8273a23c42dfe14683ce frameborder=0>
 ---
