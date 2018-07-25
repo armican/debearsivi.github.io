@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/AUa2eFRKgd_AkRsyT8CizhWCRuB3GRRN6usXCdvtm-o.jpg?s=83c7388745b130be02ee239e927227bb frameborder=0>
 - entry_name: |
-    My college roommate dropped by while he was in town, I think my pupper remembered her old roomie
-  entry_id: 91l5r7
-  entry_content: |
-    <iframe src=https://v.redd.it/hi7scwueiyb11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Someone smashed Trump’s Star on the Walk Of Fame in Hollywood.
   entry_id: 91rvus
   entry_content: |
@@ -249,4 +244,9 @@ data:
   entry_id: 91nn7j
   entry_content: |
     <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
+- entry_name: |
+    Most Australians' wages have declined but CEO pay is better than ever - Workers in private sector, who are 85% of the workforce, are experiencing wages growth well below inflation
+  entry_id: 91qvc3
+  entry_content: |
+    <img src=https://i.redditmedia.com/-ww4bfhrYeh5v4NasdocweMy1Dp_XsXfTkxTTJcwrgA.jpg?s=a4eb92a246549c2c1d8e80a6869629ae frameborder=0>
 ---
