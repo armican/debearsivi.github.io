@@ -151,11 +151,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/P0H3MGBXd34jRIr9IxZPaQtI4e_8MWXdORIK4s7S91w.jpg?s=18c7e69f27dd72703285194d3df35177 frameborder=0>
 - entry_name: |
-    This impressive body painting performance
-  entry_id: 91jo49
-  entry_content: |
-    <iframe src=https://v.redd.it/9wm1zhyapxb11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
   entry_id: 91lye4
   entry_content: |
     <img src=https://i.redditmedia.com/jW9JIovG6RWwCYJTdhGzK8fSXE2yYw5SJab_JSprLbk.jpg?s=f33f7b301b9ca0bf28830bfd9cd16f1c frameborder=0>
@@ -248,4 +243,9 @@ data:
   entry_id: 91jxeg
   entry_content: |
     null
+- entry_name: |
+    White House Omits Critical Question From Trump-Putin Press Conference Video
+  entry_id: 91qnqz
+  entry_content: |
+    <img src=https://i.redditmedia.com/aq2G1byBoJUmjB5imRAIRRV_Kc8XeN6TK_q_0i73Qbs.jpg?s=e84d55c71643e4dcebf1b3149ff8343f frameborder=0>
 ---
