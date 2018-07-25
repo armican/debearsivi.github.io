@@ -8,15 +8,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/dipakg26qyb11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    I think it’s important this is reposted and people not forget about the bullshit that is your “bought and paid for” news station.
-  entry_id: 91lkys
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhWLjYJ4BzvI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhWLjYJ4BzvI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhWLjYJ4BzvI%2Fhqdefault.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=youtube width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Giant animatronic dinosaur outside BBC HQ
   entry_id: 91p9oo
   entry_content: |
     <iframe src=https://v.redd.it/h8j77xk6c1c11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    I think it’s important this is reposted and people not forget about the bullshit that is your “bought and paid for” news station.
+  entry_id: 91lkys
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhWLjYJ4BzvI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhWLjYJ4BzvI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhWLjYJ4BzvI%2Fhqdefault.jpg&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=youtube width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     My mate wasn't going to his graduation due to his parent being away. So we took a budget graduation photo and stepped in as mum and dad
   entry_id: 91pymy
@@ -58,6 +58,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5jV94JfktfHsuo5dXwY90Znv2ttdZBK7lGyG98LuL6s.jpg?s=24472bd242704174756046b62496da0c frameborder=0>
 - entry_name: |
+    Reaper counting inventory
+  entry_id: 91o41y
+  entry_content: |
+    <img src=https://i.redditmedia.com/isKM_3KNDymr4HiczUuBNQfkf89W7bGrbJ-t-DVQQbc.gif?fm=jpg&s=9cafc7ab402acdba3d37337cc29ce210 frameborder=0>
+- entry_name: |
     TIL Minesweeper and Solitaire were added to Windows back in the 3.1 days, to train mouse discipline without the users even realizing they were learning. Solitaire was added to teach users how to Drag and Drop, Minesweeper taught using the right/left mouse buttons and mouse precision/control
   entry_id: 91jvr7
   entry_content: |
@@ -68,15 +73,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xFsmUErkPJeghPR7MLY6aevW3ufMB4mkr8nm3rFVIOo.jpg?s=0344ac81a10d97ec11e4d8b1e27e4741 frameborder=0>
 - entry_name: |
-    Reaper counting inventory
-  entry_id: 91o41y
-  entry_content: |
-    <img src=https://i.redditmedia.com/isKM_3KNDymr4HiczUuBNQfkf89W7bGrbJ-t-DVQQbc.gif?fm=jpg&s=9cafc7ab402acdba3d37337cc29ce210 frameborder=0>
-- entry_name: |
     Jailbait
   entry_id: 91n6zb
   entry_content: |
     <img src=https://i.redditmedia.com/awSHHkV6Igm7wc5AapXxD78HHjBVDtOr3JvsYvYNKv8.jpg?s=d69faa6b1c00d9576bcd0b87808db3db frameborder=0>
+- entry_name: |
+    Evolution of the Human face.
+  entry_id: 91o9h5
+  entry_content: |
+    <img src=https://i.redditmedia.com/ofwXFkW4iSG0ALWs45nkg764XwizDq_7RVlI7-5tu-E.gif?fm=jpg&s=c23b5b5c6371b838934da0c693ef967c frameborder=0>
 - entry_name: |
   entry_id: 91mm7e
   entry_content: |
@@ -87,15 +92,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/uNSufbIeTLmiPxMukViIeGu0yrT7SuVo72v-FROGJkM.png?s=e71296abef522387687360aaa2672bde frameborder=0>
 - entry_name: |
-    Evolution of the Human face.
-  entry_id: 91o9h5
-  entry_content: |
-    <img src=https://i.redditmedia.com/ofwXFkW4iSG0ALWs45nkg764XwizDq_7RVlI7-5tu-E.gif?fm=jpg&s=c23b5b5c6371b838934da0c693ef967c frameborder=0>
-- entry_name: |
     He had one job and fucked it up
   entry_id: 91mrls
   entry_content: |
     <img src=https://i.redditmedia.com/fG8m_wgyttHjg7cAPUXK3MPWaz9C6eVxliRgnWXsVdc.jpg?s=4a03e416a188aefb1ef0810dc0171f6c frameborder=0>
+- entry_name: |
+    Most majestic Samoyed ever?
+  entry_id: 91q2xn
+  entry_content: |
+    <img src=https://i.redditmedia.com/pg-ELGKEIJhMnb6Ed-angFUD9iUeXxFLiXiYkW680_s.jpg?s=06a6ce0d47bfc41e5912aa1b81bc7971 frameborder=0>
 - entry_name: |
     This vintage space themed wallpaper found under 3 layers of other wallpaper in an old farm house.
   entry_id: 91ok75
@@ -107,6 +112,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-gJt9vd15gbXE5DI7SeAJLy5jgpNYq3nrG-mr5-Ru_E.jpg?s=fba45a52c37016855b8977163b4ee969 frameborder=0>
 - entry_name: |
+    Good bye cancer I had stage 2 rectal cancer, got 9 inches of colon removed and near by lymph nodes. 1/10 do not recommend cancer it's a pain in my ass.
+  entry_id: 91qsg8
+  entry_content: |
+    <img src=https://i.redditmedia.com/7kqGdnfoAdIEnlweL1CX1NjFTkuaIuHSQGCt695NfL0.jpg?s=6298cbdfdfc1fc3a660a29bc2e5d7680 frameborder=0>
+- entry_name: |
     CNN obtains secret Trump-Cohen tape
   entry_id: 91n9e9
   entry_content: |
@@ -117,25 +127,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lnoBu0920LSpHYVuWKlY0UhlpQiYfAyMwz3UgZAYwQ0.png?s=005ce48f0459dd5401f1d7a4632b0abf frameborder=0>
 - entry_name: |
-    Good bye cancer I had stage 2 rectal cancer, got 9 inches of colon removed and near by lymph nodes. 1/10 do not recommend cancer it's a pain in my ass.
-  entry_id: 91qsg8
+    TIL Early in life, each dolphin creates its own unique vocal whistle that gives it an individual identity. Because each whistle is unique, dolphins are able to call to each other by mimicking the whistle of a dolphin they want to communicate with. It's the equivalent of calling each other by name.
+  entry_id: 91puye
   entry_content: |
-    <img src=https://i.redditmedia.com/7kqGdnfoAdIEnlweL1CX1NjFTkuaIuHSQGCt695NfL0.jpg?s=6298cbdfdfc1fc3a660a29bc2e5d7680 frameborder=0>
+    <img src=https://i.redditmedia.com/5pKWAtIoUpUFfc3vfOi_JuiIoewszfcNltVctR7rtXM.jpg?s=8c262b93df4f7f3d7ef619d63d633626 frameborder=0>
 - entry_name: |
-    Most majestic Samoyed ever?
-  entry_id: 91q2xn
+    Brother-in-law made these. I took a bite expecting a hotdog. They're doughnuts.
+  entry_id: 91nnvd
   entry_content: |
-    <img src=https://i.redditmedia.com/pg-ELGKEIJhMnb6Ed-angFUD9iUeXxFLiXiYkW680_s.jpg?s=06a6ce0d47bfc41e5912aa1b81bc7971 frameborder=0>
+    <img src=https://i.redditmedia.com/5uQTIsOwdPrs2Y-zk-rke_XIaBMBERZiJV4Ks6ub_Tk.jpg?s=536db7d1feb4d3aa5fb59feb5adb2f94 frameborder=0>
 - entry_name: |
     🔥 Magnificent creature
   entry_id: 91lpp7
   entry_content: |
     <iframe src=https://v.redd.it/7xh0swovtyb11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Brother-in-law made these. I took a bite expecting a hotdog. They're doughnuts.
-  entry_id: 91nnvd
+    No h8
+  entry_id: 91pp8o
   entry_content: |
-    <img src=https://i.redditmedia.com/5uQTIsOwdPrs2Y-zk-rke_XIaBMBERZiJV4Ks6ub_Tk.jpg?s=536db7d1feb4d3aa5fb59feb5adb2f94 frameborder=0>
+    <img src=https://i.redditmedia.com/JMZ8UCEV-iJ0ZgykzjMft9Ku9ZkvNhgcWQfNMoIn00A.jpg?s=b496d92a3f944c7d49d605727341f0a3 frameborder=0>
 - entry_name: |
   entry_id: 91kj31
   entry_content: |
@@ -146,11 +156,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/9wm1zhyapxb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    No h8
-  entry_id: 91pp8o
-  entry_content: |
-    <img src=https://i.redditmedia.com/JMZ8UCEV-iJ0ZgykzjMft9Ku9ZkvNhgcWQfNMoIn00A.jpg?s=b496d92a3f944c7d49d605727341f0a3 frameborder=0>
-- entry_name: |
   entry_id: 91lye4
   entry_content: |
     <img src=https://i.redditmedia.com/jW9JIovG6RWwCYJTdhGzK8fSXE2yYw5SJab_JSprLbk.jpg?s=f33f7b301b9ca0bf28830bfd9cd16f1c frameborder=0>
@@ -160,25 +165,29 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/f4k64bge4zb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    TIL Early in life, each dolphin creates its own unique vocal whistle that gives it an individual identity. Because each whistle is unique, dolphins are able to call to each other by mimicking the whistle of a dolphin they want to communicate with. It's the equivalent of calling each other by name.
-  entry_id: 91puye
+    Someone smashed Trump’s Star on the Walk Of Fame in Hollywood.
+  entry_id: 91rvus
   entry_content: |
-    <img src=https://i.redditmedia.com/5pKWAtIoUpUFfc3vfOi_JuiIoewszfcNltVctR7rtXM.jpg?s=8c262b93df4f7f3d7ef619d63d633626 frameborder=0>
+    <img src=https://i.redditmedia.com/C0A6cbjjH6_QTQYSMTe_1RaegHBXu_RsIVL3lrK6VVQ.jpg?s=23654a89fa0f2603047d3936fe798a49 frameborder=0>
 - entry_name: |
     Kremlin: Russia not ready to accept Trump invite to Washington
   entry_id: 91k83i
   entry_content: |
     <img src=https://i.redditmedia.com/ERzfO4vaA5CC-rJu2YHy09dM-GZzefVPxTvTq2AWhbQ.jpg?s=e6ea13320e579588a6eb43ba3dc5a53e frameborder=0>
 - entry_name: |
-    24 inch Maui Hook, absolutely beautiful!
-  entry_id: 91mxtc
-  entry_content: |
-    <img src=https://i.redditmedia.com/4ajUQzsbjPgeRmJlvS9mUXqbB1pP8lEMo_tSmFppjrk.jpg?s=328c881f0be6fcb0a72c3d0e6d06ea01 frameborder=0>
-- entry_name: |
     Say it ain’t so, Big Tuna!
   entry_id: 91msgh
   entry_content: |
     <img src=https://i.redditmedia.com/v6hE46P_pCHEWzqXbYfDYkfWIWxqzQvOSsaw3-OtJvc.jpg?s=33c1bb617dc6400105b2ee08113c181e frameborder=0>
+- entry_name: |
+  entry_id: 91r91b
+  entry_content: |
+    <img src=https://i.redditmedia.com/5xvF1-JxWyazTTPBQ6Mw4-Ep4mdEele3n6d3a6miY1A.jpg?s=2bd3bbefd23d1ed5eada12dd804e27e8 frameborder=0>
+- entry_name: |
+    24 inch Maui Hook, absolutely beautiful!
+  entry_id: 91mxtc
+  entry_content: |
+    <img src=https://i.redditmedia.com/4ajUQzsbjPgeRmJlvS9mUXqbB1pP8lEMo_tSmFppjrk.jpg?s=328c881f0be6fcb0a72c3d0e6d06ea01 frameborder=0>
 - entry_name: |
     Age-related weight gain has far more to do with our activity patterns than it does with our metabolism, which barely budges after 30. New research suggests that to achieve better health and reduce your risk of death from any cause, any kind of movement is better than little or none.
   entry_id: 91nlp5
@@ -190,45 +199,40 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/kw4rQJUwucdC1dy8ix1gLc99JnrIjLy6BHVUOkTq2IE.png?s=bf86d9d14f1f8485ed0a63173ae42eb8 frameborder=0>
 - entry_name: |
+    Underground Lake of Liquid Water Detected on Mars
+  entry_id: 91s2d4
+  entry_content: |
+    <img src=https://i.redditmedia.com/oWZSTMHjgtcM-hT2-Ny7qvTRK3EZwqGXaZe0XdBdYZQ.jpg?s=6508c842f828b384b39d84258077ab97 frameborder=0>
+- entry_name: |
     MRW I hear that Trump says he's concerned Russia may interfere in election to help Democrats
   entry_id: 91kqfo
   entry_content: |
     <iframe src=https://v.redd.it/nb3262maayb11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Hungry Beaver
-  entry_id: 91jvpf
-  entry_content: |
-    <iframe src=https://v.redd.it/59acs0r9lvb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     The way this guy opens a pomegranate.
   entry_id: 91nh8i
   entry_content: |
     <iframe src=https://v.redd.it/k2gex6yizzb11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Hungry Beaver
+  entry_id: 91jvpf
+  entry_content: |
+    <iframe src=https://v.redd.it/59acs0r9lvb11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     A dapper Chris Farley before his 8th grade dance in 1977
   entry_id: 91ncc8
   entry_content: |
     <img src=https://i.redditmedia.com/_AHqU3QAUAIbT2iSoExEGoJSdrR9GknH1CTz3u6Ow-g.jpg?s=b84cc7882b97565d5db3fe956dbf1b24 frameborder=0>
-- entry_name: |
-    It Used to Matter When a Politician Yelled ‘N-gger’
-  entry_id: 91krjg
-  entry_content: |
-    <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
 - entry_name: |
     Georgia lawmaker who came under fire after yelling 'n-word' on 'Who Is America?' says he'll quit
   entry_id: 91oy13
   entry_content: |
     <img src=https://i.redditmedia.com/0e5kGQDJSKQBPzLU8ogbUxKsUtOJo6VyF5E_QEr_iKE.jpg?s=e06b4aa48cad0bd1194de90a1502517c frameborder=0>
 - entry_name: |
-    By now Stacey IS the mom that has it going on.
-  entry_id: 91jxeg
+    It Used to Matter When a Politician Yelled ‘N-gger’
+  entry_id: 91krjg
   entry_content: |
-    null
-- entry_name: |
-    Yeah, I won!
-  entry_id: 91ji98
-  entry_content: |
-    <iframe src=https://v.redd.it/4cbpd8m4mxb11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/lrwrPTpmrsmwSpnpLYEqose9H_1xPlh_niDtaiZ7xx8.jpg?s=53467c29e636f3ed0bb28c55d44b3c5e frameborder=0>
 - entry_name: |
     Is this how it works?
   entry_id: 91m7go
@@ -240,13 +244,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CmXXB3HUbO4cKzCiIwdZ3tJ-hoQfh_0TLLTt4iQP2RM.jpg?s=32c911ea489d1f20ca7a679c4faa8f82 frameborder=0>
 - entry_name: |
-    White House Omits Critical Question From Trump-Putin Press Conference Video
-  entry_id: 91qnqz
+    By now Stacey IS the mom that has it going on.
+  entry_id: 91jxeg
   entry_content: |
-    <img src=https://i.redditmedia.com/aq2G1byBoJUmjB5imRAIRRV_Kc8XeN6TK_q_0i73Qbs.jpg?s=e84d55c71643e4dcebf1b3149ff8343f frameborder=0>
-- entry_name: |
-    The many faces of my favorite weirdo in the world
-  entry_id: 91jsv6
-  entry_content: |
-    <img src=https://i.redditmedia.com/1OhjvdahmW5D-UJkUUag_Iwik0cZiWLSMQ9Tet4EReg.jpg?s=185cc7cf70ab41e998e2c0f4b13c61e4 frameborder=0>
+    null
 ---
