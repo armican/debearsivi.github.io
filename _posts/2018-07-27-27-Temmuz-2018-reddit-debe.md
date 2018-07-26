@@ -191,11 +191,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/M6PgGv7zQd2QmSTY2XTi3_Iq4DWiYCnzIBcewBcsGUM.jpg?s=57b956fbaffca3c69ad7ec9b87676848 frameborder=0>
 - entry_name: |
-    Please never do this
-  entry_id: 91u2t4
-  entry_content: |
-    <img src=https://i.redditmedia.com/fXWq8CeX3LQnY-MmesinjC54oK5_JY1awZpZwaugeFI.jpg?s=894533c0674358523d1e0fb29d82e8d5 frameborder=0>
-- entry_name: |
     meirl
   entry_id: 91yilg
   entry_content: |
@@ -236,10 +231,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7WhBTwmhI9AW7AqyVRLMmjTqlNuDPtzTKLBsu9UH0pI.jpg?s=0d87fad00e6d8c8b08c018b5af12ae46 frameborder=0>
 - entry_name: |
-  entry_id: 91u44x
-  entry_content: |
-    <img src=https://i.redditmedia.com/QhjuaEM_AG4Orhvb3dVPIRVXQ2YOOaU1sMUFkH15YLs.jpg?s=26a9ad615cbea4e3385a0a9c0c377116 frameborder=0>
-- entry_name: |
     In Ghostbusters (1984) there's a running joke about Rick Moranis's character locking himself out of his apartment. Later, he becomes the Keymaster, and doors literally fly open for him.
   entry_id: 91uiu6
   entry_content: |
@@ -249,4 +240,14 @@ data:
   entry_id: 91wvva
   entry_content: |
     <img src=https://i.redditmedia.com/e2dok4LXvX64cyuTeGyY2QZoPWqULvFkWtNhtPSya1k.jpg?s=7d9a0dd6b0f9c1da567ed66b76af63a4 frameborder=0>
+- entry_name: |
+    Evidence Shows Hackers Changed Votes in the 2016 Election But No One Will Admit It
+  entry_id: 922a22
+  entry_content: |
+    <img src=https://i.redditmedia.com/fnxhJfd9vuUyzHFKBPjaGISYxjhPZkbpg-gW4k7isOA.jpg?s=186ed79602a1930e0d69461c5800c0f6 frameborder=0>
+- entry_name: |
+    Me when I found r/youseeingthisshit is pronounced “Are you seeing this shit?”
+  entry_id: 921ysc
+  entry_content: |
+    <img src=https://i.redditmedia.com/obETf5uk4SKW3hOgUpduvft7wjvTPSXuVTnzQuisfsA.jpg?s=fdcfd3db8f584a2a034e9b7f15ff1eed frameborder=0>
 ---
