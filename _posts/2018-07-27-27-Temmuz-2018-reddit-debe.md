@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SDuJm3PF6y_OYeYMm5Chq7E1bo56Z1gxFMlGaHtBk9A.jpg?s=b0837ef285b9257deffe8a6114ff13c3 frameborder=0>
 - entry_name: |
-    People who make advertisements for girls' toys don't seem to have any idea how girls play with them. Barbies don't have nice civilised tea parties and talk about boys, it's more like Game of Thrones except everyone is a lesbian
-  entry_id: 91uyoq
-  entry_content: |
-    null
-- entry_name: |
     This swingset lets you swing with your child and not just push them.
   entry_id: 91wgtc
   entry_content: |
@@ -87,6 +82,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fcUcCJTkSjWMxp5k6lfXNO_kF47u2Vbr97qbvGIi9FY.jpg?s=9115d285fa9f9056cd614159016bc68e frameborder=0>
 - entry_name: |
+    Colombia's top sniffer dog has been moved to ensure her safety, after a drug gang put a price on her head. Sombra (Shadow) found almost 10 tonnes of the gang's cocaine and helped bring about the arrest of 245 suspects
+  entry_id: 921axn
+  entry_content: |
+    <img src=https://i.redditmedia.com/DM1z4kWA4ksRY50FWd4zQlp6kQKgdpAJeq56RrMfI6g.jpg?s=a52a8f912e9f7a587346f939f7000c98 frameborder=0>
+- entry_name: |
     Futbol player levels up after he scores his 100th goal
   entry_id: 91zrhu
   entry_content: |
@@ -96,6 +96,20 @@ data:
   entry_id: 91xsq8
   entry_content: |
     <iframe src=https://v.redd.it/tgk44e3307c11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Me when I found r/youseeingthisshit is pronounced “Are you seeing this shit?”
+  entry_id: 921ysc
+  entry_content: |
+    <img src=https://i.redditmedia.com/obETf5uk4SKW3hOgUpduvft7wjvTPSXuVTnzQuisfsA.jpg?s=fdcfd3db8f584a2a034e9b7f15ff1eed frameborder=0>
+- entry_name: |
+  entry_id: 91zsof
+  entry_content: |
+    <img src=https://i.redditmedia.com/fVy9l809uN1EfSgoMoxkz37bYsMRMy3Bj_h64yK4lXs.jpg?s=b569a863ae7cfe503bb2a11870626700 frameborder=0>
+- entry_name: |
+    This is Faa Sai, a rescue elephant. She was naughty and broke a sprinkler. Now she is the happiest elephant in the world
+  entry_id: 921z5w
+  entry_content: |
+    <iframe src=https://v.redd.it/ks0qncrwgac11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Me_irl
   entry_id: 91wdd1
@@ -112,15 +126,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/SSB8QQjQ2uflBZy6mCp0F8LYdtmGsk_7-9oyvzry6T0.jpg?s=ff1ad916cfaafa03a6b0e795fddd689e frameborder=0>
 - entry_name: |
-    Colombia's top sniffer dog has been moved to ensure her safety, after a drug gang put a price on her head. Sombra (Shadow) found almost 10 tonnes of the gang's cocaine and helped bring about the arrest of 245 suspects
-  entry_id: 921axn
-  entry_content: |
-    <img src=https://i.redditmedia.com/DM1z4kWA4ksRY50FWd4zQlp6kQKgdpAJeq56RrMfI6g.jpg?s=a52a8f912e9f7a587346f939f7000c98 frameborder=0>
-- entry_name: |
-  entry_id: 91zsof
-  entry_content: |
-    <img src=https://i.redditmedia.com/fVy9l809uN1EfSgoMoxkz37bYsMRMy3Bj_h64yK4lXs.jpg?s=b569a863ae7cfe503bb2a11870626700 frameborder=0>
-- entry_name: |
     The White House will no longer publish readouts of President Donald Trump's phone calls with foreign leaders, US media report
   entry_id: 920zqo
   entry_content: |
@@ -131,45 +136,30 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnergeticThankfulFlyingfish&url=https%3A%2F%2Fgfycat.com%2FEnergeticThankfulFlyingfish&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnergeticThankfulFlyingfish-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    Evidence Shows Hackers Changed Votes in the 2016 Election But No One Will Admit It
+  entry_id: 922a22
+  entry_content: |
+    <img src=https://i.redditmedia.com/fnxhJfd9vuUyzHFKBPjaGISYxjhPZkbpg-gW4k7isOA.jpg?s=186ed79602a1930e0d69461c5800c0f6 frameborder=0>
+- entry_name: |
     TIL: Actor Dick Van Dike didn't know his actual birthday until he was 18. His parents lied to him about his birth date to cover up the fact that he was conceived out of wedlock.
   entry_id: 91vhdk
   entry_content: |
     <img src=https://i.redditmedia.com/QOeoc5GC3T3RTUbJxBYuEEPW4kfMqvcK7EjTD77rXno.jpg?s=8b7e0e828b7f867254acdb442f818cd4 frameborder=0>
-- entry_name: |
-    When you're up against your mate on FIFA and it goes to penalties..
-  entry_id: 91uy69
-  entry_content: |
-    <img src=https://i.redditmedia.com/FBvKfiXmdCfC2G8_egJeDXfseWmaiyViVhLbnHtJ--U.jpg?s=cb033efa777cdb55fca8b0cc623e5d71 frameborder=0>
-- entry_name: |
-    Me when I found r/youseeingthisshit is pronounced “Are you seeing this shit?”
-  entry_id: 921ysc
-  entry_content: |
-    <img src=https://i.redditmedia.com/obETf5uk4SKW3hOgUpduvft7wjvTPSXuVTnzQuisfsA.jpg?s=fdcfd3db8f584a2a034e9b7f15ff1eed frameborder=0>
 - entry_name: |
     Doggo never stood a chance
   entry_id: 91zasz
   entry_content: |
     <iframe src=https://v.redd.it/s8jg3lc738c11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    FACTS
-  entry_id: 91w6xs
-  entry_content: |
-    <img src=https://i.redditmedia.com/dxC7Zj3ekzj2wovtTBAGIZG5aK6W_gxBNy1KuhXrIxI.jpg?s=c7929fa7716439a6fec0b6514cd17271 frameborder=0>
-- entry_name: |
     Betsy DeVos' $40 million yacht vandalized
   entry_id: 92181m
   entry_content: |
     <img src=https://i.redditmedia.com/9-2wg0c6aAOaVsxn6WZRbWP9cDuoxvpA_Aa4YY1ZT5s.jpg?s=bed28ffe024573b29aed7c57785c19ae frameborder=0>
 - entry_name: |
-    Evidence Shows Hackers Changed Votes in the 2016 Election But No One Will Admit It
-  entry_id: 922a22
+    FACTS
+  entry_id: 91w6xs
   entry_content: |
-    <img src=https://i.redditmedia.com/fnxhJfd9vuUyzHFKBPjaGISYxjhPZkbpg-gW4k7isOA.jpg?s=186ed79602a1930e0d69461c5800c0f6 frameborder=0>
-- entry_name: |
-    Suffered from depression the past few months and realized I wanted to stream because gaming always has been a passion. Asked my friend who I met from CounterStrike:GO if he knows any good webcams under $30 and decides to do the most bro thing possible.
-  entry_id: 91v7fc
-  entry_content: |
-    <img src=https://i.redditmedia.com/oO0qzfv3VAf9SHL26vPhS9jjsiT1O9mVb_pYm8IUoRs.jpg?s=c8f8b08386446f6d83565730b6613e40 frameborder=0>
+    <img src=https://i.redditmedia.com/dxC7Zj3ekzj2wovtTBAGIZG5aK6W_gxBNy1KuhXrIxI.jpg?s=c7929fa7716439a6fec0b6514cd17271 frameborder=0>
 - entry_name: |
     Wholesome Reddit
   entry_id: 920n71
@@ -181,35 +171,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7minp5rga9c11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Suffered from depression the past few months and realized I wanted to stream because gaming always has been a passion. Asked my friend who I met from CounterStrike:GO if he knows any good webcams under $30 and decides to do the most bro thing possible.
+  entry_id: 91v7fc
+  entry_content: |
+    <img src=https://i.redditmedia.com/oO0qzfv3VAf9SHL26vPhS9jjsiT1O9mVb_pYm8IUoRs.jpg?s=c8f8b08386446f6d83565730b6613e40 frameborder=0>
+- entry_name: |
     You got accepted on your dream school? Yeah let me rain on your parade
   entry_id: 91xouw
   entry_content: |
     <img src=https://i.redditmedia.com/RwEl-vAJJrSoLqtnriktttpkJTXhE_NNI91qNXU7BMU.jpg?s=a3ec61070ce3578a7800d7052eb5cbaa frameborder=0>
-- entry_name: |
-    ligma
-  entry_id: 91vepz
-  entry_content: |
-    <img src=https://i.redditmedia.com/3ElquSzGvSjaxuitNa0k0iEJAVbbJQtF6ATrJXkjKmQ.png?s=6ab5e7f89ab418cecdc015ad6fe53c08 frameborder=0>
-- entry_name: |
-    This is Faa Sai, a rescue elephant. She was naughty and broke a sprinkler. Now she is the happiest elephant in the world
-  entry_id: 921z5w
-  entry_content: |
-    <iframe src=https://v.redd.it/ks0qncrwgac11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    SLPT an easy way to take sneak your gameboy into class!
-  entry_id: 91xmuh
-  entry_content: |
-    <img src=https://i.redditmedia.com/M6PgGv7zQd2QmSTY2XTi3_Iq4DWiYCnzIBcewBcsGUM.jpg?s=57b956fbaffca3c69ad7ec9b87676848 frameborder=0>
 - entry_name: |
     meirl
   entry_id: 91yilg
   entry_content: |
     <img src=https://i.redditmedia.com/WE0ZGP4miS2HQy4fp1r82pnfs0Vyn2L4ir82LPvHljY.jpg?s=13d14289459f5df57aeb4d8ae1b97ab2 frameborder=0>
 - entry_name: |
+    ligma
+  entry_id: 91vepz
+  entry_content: |
+    <img src=https://i.redditmedia.com/3ElquSzGvSjaxuitNa0k0iEJAVbbJQtF6ATrJXkjKmQ.png?s=6ab5e7f89ab418cecdc015ad6fe53c08 frameborder=0>
+- entry_name: |
+    SLPT an easy way to take sneak your gameboy into class!
+  entry_id: 91xmuh
+  entry_content: |
+    <img src=https://i.redditmedia.com/M6PgGv7zQd2QmSTY2XTi3_Iq4DWiYCnzIBcewBcsGUM.jpg?s=57b956fbaffca3c69ad7ec9b87676848 frameborder=0>
+- entry_name: |
     Having a shower beer because my girlfriend cheated on me with my best friend. For every 10 upvotes I’ll drink another beer.
   entry_id: 91wpn9
   entry_content: |
     <img src=https://i.redditmedia.com/EzKo5q_eSZ_ib5BnN99yVaZM2vc5yxzMM2DlUtLE-Og.jpg?s=a0fff82083a6caeb02e051b0f77637a5 frameborder=0>
+- entry_name: |
+    seems like a raw deal
+  entry_id: 920w0u
+  entry_content: |
+    <img src=https://i.redditmedia.com/23FRWGyCCs4OPIiC-v95zCINSJYvKrqJKfcK-oHb9Uc.jpg?s=ccf65dd78cb63082513329c6aed40711 frameborder=0>
 - entry_name: |
     Well-planned watermelon carving
   entry_id: 91xkqx
@@ -221,10 +216,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yqpPNxUYyNN4f9MBbHg7EvxBZBiIWCCqBP6cCM3PYxQ.jpg?s=72ffbd80278243550dcf7debca296fe0 frameborder=0>
 - entry_name: |
+    Even Patrick hates it
+  entry_id: 921pwe
+  entry_content: |
+    <img src=https://i.redditmedia.com/1JcfyszehGLzVKh2Mk7CDPVue0OAGYO_xyO6fHsmsa4.jpg?s=5b558d2ab49f3225b5061a213ab7dc0b frameborder=0>
+- entry_name: |
     This building's towers
   entry_id: 91uzb8
   entry_content: |
     <img src=https://i.redditmedia.com/8I0_QTfNJOoE_8yhQwMYixGyyYZx427_VpnhvR_jHsg.jpg?s=02404954075dff0961b0534880accd6e frameborder=0>
+- entry_name: |
+    Amazon’s facial recognition matched 28 members of Congress to criminal mugshots
+  entry_id: 921olx
+  entry_content: |
+    <img src=https://i.redditmedia.com/J4nohsALJlgSUVRv5gHd8P8ppOVgGSzU0FPcuEsQb0s.jpg?s=4f8c047a63366f600c0a385e1ac0c724 frameborder=0>
 - entry_name: |
     Trump Retracts White House Invitation to Putin That Putin Never Accepted
   entry_id: 91y9eh
@@ -240,11 +245,6 @@ data:
   entry_id: 91z4i0
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/wZINq0Vc4xg?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    seems like a raw deal
-  entry_id: 920w0u
-  entry_content: |
-    <img src=https://i.redditmedia.com/23FRWGyCCs4OPIiC-v95zCINSJYvKrqJKfcK-oHb9Uc.jpg?s=ccf65dd78cb63082513329c6aed40711 frameborder=0>
 - entry_name: |
     YOU’LL NEVER UNDERSTAND OUR LOVE!!!!!
   entry_id: 91wvva
