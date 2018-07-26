@@ -3,11 +3,6 @@ layout: post
 title: 27 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    Just needs a little help.
-  entry_id: 91v2dl
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FTenseTerribleHuman&url=https%3A%2F%2Fgfycat.com%2FTenseTerribleHuman&image=https%3A%2F%2Fthumbs.gfycat.com%2FTenseTerribleHuman-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     My dog finally defeated the resident bully tonight!
   entry_id: 91xpbv
   entry_content: |
@@ -66,11 +61,6 @@ data:
   entry_id: 91vvxd
   entry_content: |
     <img src=https://i.redditmedia.com/q-tESR8n_bRdCgxjRIULf0xnPXuTsxY2S1N3G98KEpc.jpg?s=1e17ca55db1cac2066a3be819930ffb6 frameborder=0>
-- entry_name: |
-    What's something your employer did that instantly killed employee morale?
-  entry_id: 91v0dx
-  entry_content: |
-    null
 - entry_name: |
     Megathread: Republican lawmakers introduce articles of impeachment against Deputy Attorney General Rod Rosenstein
   entry_id: 91x3qi
@@ -221,11 +211,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1JcfyszehGLzVKh2Mk7CDPVue0OAGYO_xyO6fHsmsa4.jpg?s=5b558d2ab49f3225b5061a213ab7dc0b frameborder=0>
 - entry_name: |
-    This building's towers
-  entry_id: 91uzb8
-  entry_content: |
-    <img src=https://i.redditmedia.com/8I0_QTfNJOoE_8yhQwMYixGyyYZx427_VpnhvR_jHsg.jpg?s=02404954075dff0961b0534880accd6e frameborder=0>
-- entry_name: |
     Amazon’s facial recognition matched 28 members of Congress to criminal mugshots
   entry_id: 921olx
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 91wvva
   entry_content: |
     <img src=https://i.redditmedia.com/e2dok4LXvX64cyuTeGyY2QZoPWqULvFkWtNhtPSya1k.jpg?s=7d9a0dd6b0f9c1da567ed66b76af63a4 frameborder=0>
+- entry_name: |
+    Sean Astin will always be Samwise Gamgee.
+  entry_id: 91w8ny
+  entry_content: |
+    <img src=https://i.redditmedia.com/f8HU7hvwQIcHiWd4Ztt4PBaQr5MfAslNgvjt7D-vCi0.jpg?s=4dc6a9d3d9d3c6f0536ace65d3b3321f frameborder=0>
+- entry_name: |
+    North Korea is continuing to produce nuclear bomb fuel in spite of its pledge to denuclearise: Pompeo
+  entry_id: 91vwwx
+  entry_content: |
+    <img src=https://i.redditmedia.com/bOEh5NXwYHTHovB6kxSwDZY2wrCRRjJcYVkcg_qX_Iw.jpg?s=013169407ddb127cc291aa30d7cdd136 frameborder=0>
+- entry_name: |
+    Wendy's has truly ascended.
+  entry_id: 91x4t4
+  entry_content: |
+    <img src=https://i.redditmedia.com/7ROSie3Icd8vxDL0uy_ZbQAIFWedVNbw44qio8C_4mw.jpg?s=5e32e0f5425d16de7287d2d21b783674 frameborder=0>
 ---
