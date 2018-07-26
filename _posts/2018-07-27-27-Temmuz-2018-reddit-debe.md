@@ -121,11 +121,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FEnergeticThankfulFlyingfish&url=https%3A%2F%2Fgfycat.com%2FEnergeticThankfulFlyingfish&image=https%3A%2F%2Fthumbs.gfycat.com%2FEnergeticThankfulFlyingfish-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=480 height=480 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    TIL Vitaminwater is basically sugar-water, to which about a penny's worth of synthetic vitamins have been added. A bottle of vitaminwater contains 33 grams of sugar, making it more akin to a soft drink than to a healthy beverage
-  entry_id: 923i67
-  entry_content: |
-    <img src=https://i.redditmedia.com/C69rDvM1hNqh4R9NB54hueg9zsoQp5-LHxec09rF3UY.jpg?s=d9690c96b9f11ec8ff0d06a6ae8ac8f9 frameborder=0>
-- entry_name: |
     Betsy DeVos' $40 million yacht vandalized
   entry_id: 92181m
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 91x4t4
   entry_content: |
     <img src=https://i.redditmedia.com/7ROSie3Icd8vxDL0uy_ZbQAIFWedVNbw44qio8C_4mw.jpg?s=5e32e0f5425d16de7287d2d21b783674 frameborder=0>
+- entry_name: |
+    Nat Geo hires Jeff Goldblum to walk around, being professionally fascinated by things
+  entry_id: 923ww4
+  entry_content: |
+    <img src=https://i.redditmedia.com/A8M0GBgn6wmPHlQhga5lkKgOK2CMt7cJfInuPgd_SkM.jpg?s=3f82cf2aa3e54c1e67b0cdefe0b07393 frameborder=0>
 ---
