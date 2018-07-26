@@ -121,11 +121,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fVy9l809uN1EfSgoMoxkz37bYsMRMy3Bj_h64yK4lXs.jpg?s=b569a863ae7cfe503bb2a11870626700 frameborder=0>
 - entry_name: |
-    🔥 Young condor 🔥
-  entry_id: 91updk
-  entry_content: |
-    <iframe src=https://v.redd.it/vmlakrtq55c11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The White House will no longer publish readouts of President Donald Trump's phone calls with foreign leaders, US media report
   entry_id: 920zqo
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 920w0u
   entry_content: |
     <img src=https://i.redditmedia.com/23FRWGyCCs4OPIiC-v95zCINSJYvKrqJKfcK-oHb9Uc.jpg?s=ccf65dd78cb63082513329c6aed40711 frameborder=0>
+- entry_name: |
+    YOU’LL NEVER UNDERSTAND OUR LOVE!!!!!
+  entry_id: 91wvva
+  entry_content: |
+    <img src=https://i.redditmedia.com/e2dok4LXvX64cyuTeGyY2QZoPWqULvFkWtNhtPSya1k.jpg?s=7d9a0dd6b0f9c1da567ed66b76af63a4 frameborder=0>
 ---
