@@ -68,11 +68,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-3hEbfjpQoUBrNPXqd6YCBpynIBqfKe0iB7ezH5FdRM.jpg?s=0475d637c55383cff86560e0dd92b64c frameborder=0>
 - entry_name: |
-    White House May Have Broken Federal Law by Doctoring Trump-Putin Video
-  entry_id: 91u1nr
-  entry_content: |
-    <img src=https://i.redditmedia.com/qU23dGGIvI1_57z47e9-Cvcdj4rNA1WTly8sDHtD93U.jpg?s=13268a9aa6d6ad67da11ad7a70f54fdb frameborder=0>
-- entry_name: |
   entry_id: 91w483
   entry_content: |
     <img src=https://i.redditmedia.com/W-6grzTQ8z3QhXz0TGAqZ4nKx6ZxZ7v0qL6M4QSLJRY.jpg?s=3b296b5605e6ea72d268e5074d8fa3de frameborder=0>
@@ -171,11 +166,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iOEI2MQbVWJs62m1uB2revOYWXCDsFSiWtcPr-WQObE.jpg?s=7453af4cb5d7a1cf0d943b0aa7d8593a frameborder=0>
 - entry_name: |
-    Chocolate for your emotions
-  entry_id: 91tvf2
-  entry_content: |
-    <img src=https://i.redditmedia.com/fjJ4am9VhcM_3MxOXjCGnoC0cB4M_o-Yk1h3RUwhnss.jpg?s=f947f70eaa024aa826578a0856fc7b67 frameborder=0>
-- entry_name: |
     You got accepted on your dream school? Yeah let me rain on your parade
   entry_id: 91xouw
   entry_content: |
@@ -249,4 +239,14 @@ data:
   entry_id: 91u44x
   entry_content: |
     <img src=https://i.redditmedia.com/QhjuaEM_AG4Orhvb3dVPIRVXQ2YOOaU1sMUFkH15YLs.jpg?s=26a9ad615cbea4e3385a0a9c0c377116 frameborder=0>
+- entry_name: |
+    In Ghostbusters (1984) there's a running joke about Rick Moranis's character locking himself out of his apartment. Later, he becomes the Keymaster, and doors literally fly open for him.
+  entry_id: 91uiu6
+  entry_content: |
+    <img src=https://i.redditmedia.com/2f8sjdzzanuOuqpuDrQzpqFJS5xH6rswo4-B3W7uxqI.jpg?s=a1b3e1ee17d2524ba97f1daaec58d75d frameborder=0>
+- entry_name: |
+    YOU’LL NEVER UNDERSTAND OUR LOVE!!!!!
+  entry_id: 91wvva
+  entry_content: |
+    <img src=https://i.redditmedia.com/e2dok4LXvX64cyuTeGyY2QZoPWqULvFkWtNhtPSya1k.jpg?s=7d9a0dd6b0f9c1da567ed66b76af63a4 frameborder=0>
 ---
