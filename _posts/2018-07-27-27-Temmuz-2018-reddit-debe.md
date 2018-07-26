@@ -28,16 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nr5f1xlwx5c11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    This is Basil 🌿. She likes my shoulder
-  entry_id: 91v6xr
-  entry_content: |
-    <img src=https://i.redditmedia.com/xMjx8nH2BinbufTjzfX2HmyNc12HYL5nNg0qtl-qwng.jpg?s=3221cd25b1374c0a3ae2277a830d0f21 frameborder=0>
-- entry_name: |
-    Chinese factory making Trump 2020 flags
-  entry_id: 91vaj2
-  entry_content: |
-    <img src=https://i.redditmedia.com/SDuJm3PF6y_OYeYMm5Chq7E1bo56Z1gxFMlGaHtBk9A.jpg?s=b0837ef285b9257deffe8a6114ff13c3 frameborder=0>
-- entry_name: |
     This swingset lets you swing with your child and not just push them.
   entry_id: 91wgtc
   entry_content: |
@@ -161,11 +151,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/7minp5rga9c11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Suffered from depression the past few months and realized I wanted to stream because gaming always has been a passion. Asked my friend who I met from CounterStrike:GO if he knows any good webcams under $30 and decides to do the most bro thing possible.
-  entry_id: 91v7fc
-  entry_content: |
-    <img src=https://i.redditmedia.com/oO0qzfv3VAf9SHL26vPhS9jjsiT1O9mVb_pYm8IUoRs.jpg?s=c8f8b08386446f6d83565730b6613e40 frameborder=0>
-- entry_name: |
     You got accepted on your dream school? Yeah let me rain on your parade
   entry_id: 91xouw
   entry_content: |
@@ -250,4 +235,19 @@ data:
   entry_id: 91x4t4
   entry_content: |
     <img src=https://i.redditmedia.com/7ROSie3Icd8vxDL0uy_ZbQAIFWedVNbw44qio8C_4mw.jpg?s=5e32e0f5425d16de7287d2d21b783674 frameborder=0>
+- entry_name: |
+    Andy’s confidence kills me
+  entry_id: 91x72k
+  entry_content: |
+    <img src=https://i.redditmedia.com/9c9FhJSL4vSfmBjXTwSy7DjkkMZNq5efcA6H8Pi2gKU.jpg?s=df742efa33500eba58a9731be543ef74 frameborder=0>
+- entry_name: |
+    We're both upcoming freshmen.
+  entry_id: 91wee1
+  entry_content: |
+    <img src=https://i.redditmedia.com/D0BMAvhIHNpvALBjf5HKwCsbxIBPD37UAmEykM9-v1Y.png?s=baa2e613efa6fa48e16e31ee4c6590af frameborder=0>
+- entry_name: |
+    Practicing Nunchucks while waiting for the train.
+  entry_id: 920zs1
+  entry_content: |
+    <iframe src=https://v.redd.it/7z419izio9c11/DASH_4_8_M frameborder=0></iframe>
 ---
