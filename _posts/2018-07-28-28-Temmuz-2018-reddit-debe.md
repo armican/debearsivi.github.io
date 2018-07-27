@@ -23,11 +23,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PENRR2wsMWWqwSv43q3jespltlNupv6_Nb_MpTU_rlQ.jpg?s=138985af97a45fa39fbc962873a16ca8 frameborder=0>
 - entry_name: |
-    Ive been allergic my whole life to cats. Ive finally built up enough of an immunity through injections. Reddit, please welcome my first rescue kitty, Legolas.
-  entry_id: 925jio
-  entry_content: |
-    <img src=https://i.redditmedia.com/C0DOIPyb4uvUlbBDekW-1cVYy5m1vBBtznBjyQ-pX3M.jpg?s=3ef17424414bb13e1c9549dd78da79d6 frameborder=0>
-- entry_name: |
     Guy makes Britney Spears laugh.
   entry_id: 927yhb
   entry_content: |
@@ -67,11 +62,6 @@ data:
   entry_id: 9289xp
   entry_content: |
     <img src=https://i.redditmedia.com/Zh63M5zc_FxdJ8QPYDBD9TMtEJjnngBuG1J3mMTT1HA.jpg?s=dba188bbf18c5a349d5b10b849ebe5a4 frameborder=0>
-- entry_name: |
-    Cut coin.
-  entry_id: 925o7e
-  entry_content: |
-    <img src=https://i.redditmedia.com/mfOQCGfgbDsJGkep1iKlM6_IJWGTZtP-UmVUvKQZ26A.jpg?s=6b664a52610689a2174fe38c12110e0f frameborder=0>
 - entry_name: |
     I'm already down for that
   entry_id: 925sgq
@@ -127,11 +117,6 @@ data:
   entry_id: 929r9g
   entry_content: |
     null
-- entry_name: |
-    Express swimcapping
-  entry_id: 925je7
-  entry_content: |
-    <img src=https://i.redditmedia.com/o677Lz2EuBMEqir1F-eVJvzuxTLiRC0BagwoL1Fllkg.gif?fm=jpg&s=dc66dab33719270018c3531de256e55f frameborder=0>
 - entry_name: |
     Nest Cam Catching a Suspicious Person at Home...
   entry_id: 92be8o
@@ -250,4 +235,19 @@ data:
   entry_id: 92aa3o
   entry_content: |
     <img src=https://i.redditmedia.com/9hQEWXZbiGeJXCjaSa7xNpSGVbF7y1I6MQqBre2PSz4.gif?fm=jpg&s=ee308644d8b6d7a339b14d610f79405d frameborder=0>
+- entry_name: |
+    Driving isn't for everyone.
+  entry_id: 926ig3
+  entry_content: |
+    <iframe src=https://v.redd.it/apfjg5w54dc11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    Fuck my education? Fuck your yacht!
+  entry_id: 9287ob
+  entry_content: |
+    <img src=https://i.redditmedia.com/DDh9o4Yaj6ncAA2T7ofjVP6JeVGiCP9thvYlQKH8zt4.jpg?s=42cad53f31a58d7249bf9b0a5763c002 frameborder=0>
+- entry_name: |
+    Me Irl
+  entry_id: 92b3o7
+  entry_content: |
+    <img src=https://i.redditmedia.com/rHXfztTaPBYNuFZk5c2nuWH5nl5us2fMlQCh_yJE8TM.jpg?s=d4a7eadbb0e31c1d67ad2aac41eae9aa frameborder=0>
 ---
