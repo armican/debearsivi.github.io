@@ -68,6 +68,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Zh63M5zc_FxdJ8QPYDBD9TMtEJjnngBuG1J3mMTT1HA.jpg?s=dba188bbf18c5a349d5b10b849ebe5a4 frameborder=0>
 - entry_name: |
+    I saw this legend at a stoplight lightning a joint with a piece of glass. I will never be as rad as this guy.
+  entry_id: 92d0jf
+  entry_content: |
+    <iframe src=https://v.redd.it/1qjwgbys3ic11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Cut coin.
   entry_id: 925o7e
   entry_content: |
@@ -108,20 +113,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Z1GjF9fxrNMdNZLAmU6KyjmfWdz5w9KhWKD5xpqJg8Q.jpg?s=05294b3b91c47b92707a0bad443cffd8 frameborder=0>
 - entry_name: |
+    An infinite number of mathematicians walk into a bar
+  entry_id: 929r9g
+  entry_content: |
+    null
+- entry_name: |
     This looks like it's from Inception, but it's a real image from Macau
   entry_id: 925cj5
   entry_content: |
     <img src=https://i.redditmedia.com/_xPx2RJT7fY8oSlUguRP7erK_rAJNccKgvWms35lNpg.jpg?s=7507f272cf69357d623cce2225efc765 frameborder=0>
+- entry_name: |
+    Sorry Man :(
+  entry_id: 92c2ua
+  entry_content: |
+    <img src=https://i.redditmedia.com/ITLWZvO1RtFl78CIgOiJpZhVHKrjm6XmujyWZ4MkZOM.jpg?s=d736fffe1bae6eab59f681d468817819 frameborder=0>
 - entry_name: |
     Express swimcapping
   entry_id: 925je7
   entry_content: |
     <img src=https://i.redditmedia.com/o677Lz2EuBMEqir1F-eVJvzuxTLiRC0BagwoL1Fllkg.gif?fm=jpg&s=dc66dab33719270018c3531de256e55f frameborder=0>
 - entry_name: |
-    An infinite number of mathematicians walk into a bar
-  entry_id: 929r9g
+    You good bro?
+  entry_id: 92buov
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/0A9BPruywpZCwZEsc6RX4c4WUQ0N0z4RyPRC3HOXQR4.jpg?s=4aa8107035d27e3ed2fb158b32f3010c frameborder=0>
 - entry_name: |
     300 years ago, if you had something that was made in China, everyone would be really impressed.
   entry_id: 924tlc
@@ -142,6 +157,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Yebgu1Ghzt37Ldix4P3_YuMurvSv3ZbcT8ilejcSG5U.jpg?s=8883003fe56d2bbcfc97030ceddcaadb frameborder=0>
 - entry_name: |
+    Nest Cam Catching a Suspicious Person at Home...
+  entry_id: 92be8o
+  entry_content: |
+    <iframe src=https://v.redd.it/vxw72hkkxgc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     The steepest funicular in Europe....in it's entirety.
   entry_id: 926d4b
   entry_content: |
@@ -152,10 +172,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    Nest Cam Catching a Suspicious Person at Home...
-  entry_id: 92be8o
+    To infinity and beyond
+  entry_id: 92b5hc
   entry_content: |
-    <iframe src=https://v.redd.it/vxw72hkkxgc11/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/as2NTGvgcZXLEdVZmssLv5jHBuTAHk_o_sf9Eqr4z0w.jpg?s=1490227b82e37b043ddfe5dfe7c1f8aa frameborder=0>
+- entry_name: |
+    TIL Mick Jagger's youngest son is younger than his great-grandchild
+  entry_id: 92bkhe
+  entry_content: |
+    <img src=https://i.redditmedia.com/I0f59wxxKjmVHIaUhhDkxmTYY3dxf9n2fwhn7Pu3oss.jpg?s=2e275183ad0ff7f141669ca0c55e9764 frameborder=0>
 - entry_name: |
     Drug dealers of Reddit, what is the strangest thing you have been offered in compensation for drugs?
   entry_id: 925cfy
@@ -172,34 +197,29 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/3N4bgq-UhlJRNp606Cp4QMg7a7JpLsLR_7q-fscTvsw.jpg?s=ca7652e4a800a74cc2591f1902b63561 frameborder=0>
 - entry_name: |
-    You good bro?
-  entry_id: 92buov
+    Fence attachment to keep cats inside the yard
+  entry_id: 92bgef
   entry_content: |
-    <img src=https://i.redditmedia.com/0A9BPruywpZCwZEsc6RX4c4WUQ0N0z4RyPRC3HOXQR4.jpg?s=4aa8107035d27e3ed2fb158b32f3010c frameborder=0>
+    <iframe src=https://v.redd.it/15tufyhrzgc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Sorry Man :(
-  entry_id: 92c2ua
+    TIL that the Indian Government banned the use of Dolphins for commercial entertainment, calling them ‘non-human persons’, and declaring that it would be morally unacceptable to capture them for entertainment.
+  entry_id: 92bz1f
   entry_content: |
-    <img src=https://i.redditmedia.com/ITLWZvO1RtFl78CIgOiJpZhVHKrjm6XmujyWZ4MkZOM.jpg?s=d736fffe1bae6eab59f681d468817819 frameborder=0>
+    <img src=https://i.redditmedia.com/LP9gMpLeDuyoNqRNVOJcVnHJef6rOkInRiTL08g_SZY.jpg?s=5e7d81ef28bbcbf8a89a36507a63fb8f frameborder=0>
 - entry_name: |
   entry_id: 928z5k
   entry_content: |
     <img src=https://i.redditmedia.com/AC7WLwWXYHzL-fAGu91FUazmRIt2Ryh8dW2IMuL7ugE.jpg?s=c1e76563a99a7f5e893da1721ac67cb9 frameborder=0>
 - entry_name: |
-    She got robbed during the Kiki challenge dance
-  entry_id: 926rzb
-  entry_content: |
-    <iframe src=https://v.redd.it/yv2th9lf9dc11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    TIL Mick Jagger's youngest son is younger than his great-grandchild
-  entry_id: 92bkhe
-  entry_content: |
-    <img src=https://i.redditmedia.com/I0f59wxxKjmVHIaUhhDkxmTYY3dxf9n2fwhn7Pu3oss.jpg?s=2e275183ad0ff7f141669ca0c55e9764 frameborder=0>
-- entry_name: |
     This incredible art piece
   entry_id: 929cy4
   entry_content: |
     <iframe src=https://v.redd.it/w0fiddkb2fc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    She got robbed during the Kiki challenge dance
+  entry_id: 926rzb
+  entry_content: |
+    <iframe src=https://v.redd.it/yv2th9lf9dc11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     $1 million San Francisco loft has diagonal support beam that cuts through the middle of the kitchen
   entry_id: 927rbi
@@ -210,11 +230,6 @@ data:
   entry_id: 92885v
   entry_content: |
     <iframe src=https://v.redd.it/ttclt3t78ec11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    To infinity and beyond
-  entry_id: 92b5hc
-  entry_content: |
-    <img src=https://i.redditmedia.com/as2NTGvgcZXLEdVZmssLv5jHBuTAHk_o_sf9Eqr4z0w.jpg?s=1490227b82e37b043ddfe5dfe7c1f8aa frameborder=0>
 - entry_name: |
     If this turns into a challenge...
   entry_id: 926von
@@ -230,21 +245,6 @@ data:
   entry_id: 928xls
   entry_content: |
     <img src=https://i.redditmedia.com/PXEFwHfFNJHiyHNnUZEo5eM_e6OlOBEyLsnka2qgk0E.jpg?s=7b76f3cf99c27ae3803a0f4abdc4aa03 frameborder=0>
-- entry_name: |
-    Papa's in the courthouse
-  entry_id: 927eth
-  entry_content: |
-    <img src=https://i.redditmedia.com/ChAfP9jtjIZ-rzZnIjLMbFuJaJNEgmIrG8P7Epx_5Ak.jpg?s=9552499bdfef32da25f173f7db667b84 frameborder=0>
-- entry_name: |
-    Driving isn't for everyone.
-  entry_id: 926ig3
-  entry_content: |
-    <iframe src=https://v.redd.it/apfjg5w54dc11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Fuck my education? Fuck your yacht!
-  entry_id: 9287ob
-  entry_content: |
-    <img src=https://i.redditmedia.com/DDh9o4Yaj6ncAA2T7ofjVP6JeVGiCP9thvYlQKH8zt4.jpg?s=42cad53f31a58d7249bf9b0a5763c002 frameborder=0>
 - entry_name: |
     Wholesome graduation
   entry_id: 92bx20
