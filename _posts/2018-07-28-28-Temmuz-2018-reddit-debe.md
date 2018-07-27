@@ -138,11 +138,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0A9BPruywpZCwZEsc6RX4c4WUQ0N0z4RyPRC3HOXQR4.jpg?s=4aa8107035d27e3ed2fb158b32f3010c frameborder=0>
 - entry_name: |
-    This season, on Hoarders
-  entry_id: 92553g
-  entry_content: |
-    <img src=https://i.redditmedia.com/4hBNtogUuFsQK5JZXFbTOOmfSPLzhHNwv89drBjU8P0.jpg?s=a5e143a7c870346c3dbea6a157f116e4 frameborder=0>
-- entry_name: |
     Understanding Socialism :
   entry_id: 927t43
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 927eth
   entry_content: |
     <img src=https://i.redditmedia.com/ChAfP9jtjIZ-rzZnIjLMbFuJaJNEgmIrG8P7Epx_5Ak.jpg?s=9552499bdfef32da25f173f7db667b84 frameborder=0>
+- entry_name: |
+    Driving isn't for everyone.
+  entry_id: 926ig3
+  entry_content: |
+    <iframe src=https://v.redd.it/apfjg5w54dc11/DASH_600_K frameborder=0></iframe>
 ---
