@@ -142,11 +142,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Yebgu1Ghzt37Ldix4P3_YuMurvSv3ZbcT8ilejcSG5U.jpg?s=8883003fe56d2bbcfc97030ceddcaadb frameborder=0>
 - entry_name: |
-    SLPT: Do the Lords work and go beat up homeless people
-  entry_id: 924gkc
-  entry_content: |
-    <img src=https://i.redditmedia.com/lzBlGg7-fP-A5ORIcCzyIjr2OFQn3lGVta2rtIIXdpo.jpg?s=41b02036cc09478ff3e63b094a43af91 frameborder=0>
-- entry_name: |
     The steepest funicular in Europe....in it's entirety.
   entry_id: 926d4b
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 9287ob
   entry_content: |
     <img src=https://i.redditmedia.com/DDh9o4Yaj6ncAA2T7ofjVP6JeVGiCP9thvYlQKH8zt4.jpg?s=42cad53f31a58d7249bf9b0a5763c002 frameborder=0>
+- entry_name: |
+    Wholesome graduation
+  entry_id: 92bx20
+  entry_content: |
+    <img src=https://i.redditmedia.com/EuC-N04Br_PIWwHqaMU1cglPjckBqcmY5aEIoMrHH8w.jpg?s=24b82cd00149b61e6728e30a2d871465 frameborder=0>
 ---
