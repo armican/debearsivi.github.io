@@ -138,11 +138,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/0A9BPruywpZCwZEsc6RX4c4WUQ0N0z4RyPRC3HOXQR4.jpg?s=4aa8107035d27e3ed2fb158b32f3010c frameborder=0>
 - entry_name: |
-    300 years ago, if you had something that was made in China, everyone would be really impressed.
-  entry_id: 924tlc
-  entry_content: |
-    null
-- entry_name: |
     This season, on Hoarders
   entry_id: 92553g
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 92bx20
   entry_content: |
     <img src=https://i.redditmedia.com/EuC-N04Br_PIWwHqaMU1cglPjckBqcmY5aEIoMrHH8w.jpg?s=24b82cd00149b61e6728e30a2d871465 frameborder=0>
+- entry_name: |
+    Papa's in the courthouse
+  entry_id: 927eth
+  entry_content: |
+    <img src=https://i.redditmedia.com/ChAfP9jtjIZ-rzZnIjLMbFuJaJNEgmIrG8P7Epx_5Ak.jpg?s=9552499bdfef32da25f173f7db667b84 frameborder=0>
 ---
