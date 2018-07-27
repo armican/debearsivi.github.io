@@ -8,11 +8,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/juUqe88LrSSl8PDnd1-AczDrPhXed9DNjgQ51AKD40Y.jpg?s=8c3c8e1e877a83db39797914e86b35b8 frameborder=0>
 - entry_name: |
-    Papa John sues Papa John's
-  entry_id: 925h9r
-  entry_content: |
-    <img src=https://i.redditmedia.com/em3RTXmW5JGXShxeYd-saAq6ol9o_-k_-EMB9uAG6HM.jpg?s=64f2ac6c9b8be077f1374e095cc3d16a frameborder=0>
-- entry_name: |
     I saw this legend at a stoplight lightning a joint with a piece of glass. I will never be as rad as this guy.
   entry_id: 92d0jf
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     null
 - entry_name: |
-    This looks like it's from Inception, but it's a real image from Macau
-  entry_id: 925cj5
-  entry_content: |
-    <img src=https://i.redditmedia.com/_xPx2RJT7fY8oSlUguRP7erK_rAJNccKgvWms35lNpg.jpg?s=7507f272cf69357d623cce2225efc765 frameborder=0>
-- entry_name: |
     Express swimcapping
   entry_id: 925je7
   entry_content: |
@@ -192,11 +182,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iJ1V3NmuaZkFvwBZeGed1lcOYv1RaJ4JUbprAKgIrGo.jpg?s=1a2338ca5741f83b78ef26da2b638e19 frameborder=0>
 - entry_name: |
-    Drug dealers of Reddit, what is the strangest thing you have been offered in compensation for drugs?
-  entry_id: 925cfy
-  entry_content: |
-    null
-- entry_name: |
     Every time I play a game that involves building
   entry_id: 926fwh
   entry_content: |
@@ -206,11 +191,6 @@ data:
   entry_id: 929cy4
   entry_content: |
     <iframe src=https://v.redd.it/w0fiddkb2fc11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Kenyan Woman Saves 15,000 Young Girls From Female Genital Mutilation
-  entry_id: 925hue
-  entry_content: |
-    <img src=https://i.redditmedia.com/3N4bgq-UhlJRNp606Cp4QMg7a7JpLsLR_7q-fscTvsw.jpg?s=ca7652e4a800a74cc2591f1902b63561 frameborder=0>
 - entry_name: |
     She always looks worried
   entry_id: 92c9jn
@@ -250,4 +230,24 @@ data:
   entry_id: 926m24
   entry_content: |
     <iframe src=https://v.redd.it/9gkv1pa26dc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    me_irl
+  entry_id: 92bvdp
+  entry_content: |
+    <img src=https://i.redditmedia.com/2-XCfkJTihuwY35j3DStVNqrBDOI9CqGprTSOqh8Nic.jpg?s=f09c800f7b9ca7bde9d9752bcc03ee08 frameborder=0>
+- entry_name: |
+    My local baseball team hosted “The Office Night” and gave out Michael Scott bobble heads. I dressed accordingly...
+  entry_id: 928xls
+  entry_content: |
+    <img src=https://i.redditmedia.com/PXEFwHfFNJHiyHNnUZEo5eM_e6OlOBEyLsnka2qgk0E.jpg?s=7b76f3cf99c27ae3803a0f4abdc4aa03 frameborder=0>
+- entry_name: |
+    Papa's in the courthouse
+  entry_id: 927eth
+  entry_content: |
+    <img src=https://i.redditmedia.com/ChAfP9jtjIZ-rzZnIjLMbFuJaJNEgmIrG8P7Epx_5Ak.jpg?s=9552499bdfef32da25f173f7db667b84 frameborder=0>
+- entry_name: |
+    Birds wings are in perfect sync with Camera Framerate
+  entry_id: 92aa3o
+  entry_content: |
+    <img src=https://i.redditmedia.com/9hQEWXZbiGeJXCjaSa7xNpSGVbF7y1I6MQqBre2PSz4.gif?fm=jpg&s=ee308644d8b6d7a339b14d610f79405d frameborder=0>
 ---
