@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/nboc3jq58jc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Anticipating a Lightning Strike.
-  entry_id: 92eiz0
-  entry_content: |
-    <iframe src=https://v.redd.it/phzm05a00jc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Donald Trump Jr says Obama never broke 2 percent GDP growth. He did. 15 times.
   entry_id: 92f6q8
   entry_content: |
@@ -147,11 +142,6 @@ data:
   entry_id: 92ff1q
   entry_content: |
     <img src=https://i.redditmedia.com/bgBgCgmReVwZPjJM_MCkxJVzP005wO6xAFCqS7rN890.jpg?s=34a9370d7492fcda6f455ca359ae79d2 frameborder=0>
-- entry_name: |
-    Commas matter, people
-  entry_id: 92ei41
-  entry_content: |
-    <img src=https://i.redditmedia.com/drWaXEfJ8leyto6Hyyu1-DZjm4e50d5se6Ow9FE36GY.jpg?s=d1d02dbca0806be88461f20d3e64ad5f frameborder=0>
 - entry_name: |
     TIL that the smell of the air after a storm is caused by Geosmin: A chemical released by dead soil bacteria. Humans are hyper sensitive to it, capable of detecting at a concentration of 5 parts per trillion. It's theorised in our evolutionary past this helped us seek out water.
   entry_id: 92il0d
@@ -252,4 +242,13 @@ data:
   entry_id: 92hv19
   entry_content: |
     <img src=https://i.redditmedia.com/q5homJK8u3Io-ky5QIQIgLp0AwHzoQZpkRV1P7JHPZc.jpg?s=924d388e8c76d79f165be16dbf09cd7e frameborder=0>
+- entry_name: |
+    Chili’s isn’t down to party
+  entry_id: 92hsdg
+  entry_content: |
+    <img src=https://i.redditmedia.com/F2LlwFCkj9OFc7mc0fwhnQWgVix7wac33ThS5EiAV-8.jpg?s=2f140b503a9373c2f436f74c77eba8da frameborder=0>
+- entry_name: |
+  entry_id: 92gn03
+  entry_content: |
+    <img src=https://i.redditmedia.com/7M2_8iVv862CECMOQ8bFbzrEmVzN-XfrEyaq6lUb4PM.jpg?s=58f0519c95d1a2852f89160c26f57a41 frameborder=0>
 ---
