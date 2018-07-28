@@ -33,25 +33,30 @@ data:
   entry_content: |
     null
 - entry_name: |
-    This fairy ring that popped up overnight
-  entry_id: 92gvez
+    TIL: When roosters open their beaks fully, their external auditory canals completely closed off. Basically, roosters have built in earplugs. This helps prevent them from damaging their hearing when they crow.
+  entry_id: 92ly1a
   entry_content: |
-    <img src=https://i.redditmedia.com/_ml-35auO2zGuBuuXuDxNcCHaaJ9W6uDE79XWSeTw7g.jpg?s=3168d6deea46a155d9bae3cc2e1aa9a1 frameborder=0>
+    <img src=https://i.redditmedia.com/F5icgWNDva0MW5Jsn_UI-eLAc9kx30RoChnU0_hjzkc.jpg?s=2ce53ca904ff94553099475f09cd5d3e frameborder=0>
 - entry_name: |
     I bought a roll of these. Day 1 of 500.
   entry_id: 92ime7
   entry_content: |
     <img src=https://i.redditmedia.com/Jz3O_xBzsFxvoaLGtln0OAAEUJFxC3CRar5WmugxNqs.jpg?s=ca6700ff15506021021e5f897f2a6fa8 frameborder=0>
 - entry_name: |
+    This fairy ring that popped up overnight
+  entry_id: 92gvez
+  entry_content: |
+    <img src=https://i.redditmedia.com/_ml-35auO2zGuBuuXuDxNcCHaaJ9W6uDE79XWSeTw7g.jpg?s=3168d6deea46a155d9bae3cc2e1aa9a1 frameborder=0>
+- entry_name: |
     He shall be called...Cinnamon Roll.
   entry_id: 92gfzi
   entry_content: |
     <img src=https://i.redditmedia.com/X4bkfEwGNvK1ZeloEyR3rvKN0FY29oxi6Bxz_TCTlG8.jpg?s=056a7e0fec36c7ddb563aa1598d752f6 frameborder=0>
 - entry_name: |
-    TIL: When roosters open their beaks fully, their external auditory canals completely closed off. Basically, roosters have built in earplugs. This helps prevent them from damaging their hearing when they crow.
-  entry_id: 92ly1a
+    Clippy! Is that you, old friend?
+  entry_id: 92lr5d
   entry_content: |
-    <img src=https://i.redditmedia.com/F5icgWNDva0MW5Jsn_UI-eLAc9kx30RoChnU0_hjzkc.jpg?s=2ce53ca904ff94553099475f09cd5d3e frameborder=0>
+    <img src=https://i.redditmedia.com/C9o3JQu8-YmgYuk8YB1RTBi92ltrbGrRaLsH2Ja-6Tc.jpg?s=f48e07f8670ffb42911fc214f1822cae frameborder=0>
 - entry_name: |
     Looked up from my work computer to find someone patiently waiting for my lunch break...
   entry_id: 92ht2q
@@ -78,25 +83,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/unk7rgubonc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Clippy! Is that you, old friend?
-  entry_id: 92lr5d
+    A Flying Fuck
+  entry_id: 92m3un
   entry_content: |
-    <img src=https://i.redditmedia.com/C9o3JQu8-YmgYuk8YB1RTBi92ltrbGrRaLsH2Ja-6Tc.jpg?s=f48e07f8670ffb42911fc214f1822cae frameborder=0>
-- entry_name: |
-    Cop admits framing two black men as Florida town’s false arrest scandal widens
-  entry_id: 92g1p3
-  entry_content: |
-    <img src=https://i.redditmedia.com/-yZQ1FB6ibPQRZXOddCAjfzoiz5nhs54roAKTdtuSsU.jpg?s=fe7d998f513b162ca9dce403c439ef46 frameborder=0>
+    <iframe src=https://v.redd.it/m0tyo6kkxoc11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Coming at you with roundest Bearded Reedling
   entry_id: 92l95w
   entry_content: |
     <img src=https://i.redditmedia.com/aZf5zznyKRHRg8-W8zJdQrFvHP5pz0mqCJS2ensc6zA.jpg?s=fc310c0d75ae358edebd6e49a7d99a05 frameborder=0>
 - entry_name: |
-    A Flying Fuck
-  entry_id: 92m3un
+    Cop admits framing two black men as Florida town’s false arrest scandal widens
+  entry_id: 92g1p3
   entry_content: |
-    <iframe src=https://v.redd.it/m0tyo6kkxoc11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/-yZQ1FB6ibPQRZXOddCAjfzoiz5nhs54roAKTdtuSsU.jpg?s=fe7d998f513b162ca9dce403c439ef46 frameborder=0>
+- entry_name: |
+    Nuns bring #MeToo to Vatican, condemn abuse from priests | CBC News
+  entry_id: 92kykt
+  entry_content: |
+    <img src=https://i.redditmedia.com/_qdcEAopnRySQrWTAZC9a6rWbphxhZBkeiWZHojAtWE.jpg?s=544b164af1381055cd832d9e6534fcd4 frameborder=0>
 - entry_name: |
     Juncker used ‘brightly coloured, simple flashcards’ to explain trade to Trump during meeting
   entry_id: 92hmjk
@@ -108,80 +113,70 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/e32bXIFgO2pSiJDLDingDGMKR7XcGfn5PxOiss2R9-M.jpg?s=9cfda5fe033294d9e818257fe71bbec7 frameborder=0>
 - entry_name: |
-    Trump: Trade policy explained to him by EU using colorful flash cards
-  entry_id: 92ff1q
-  entry_content: |
-    <img src=https://i.redditmedia.com/bgBgCgmReVwZPjJM_MCkxJVzP005wO6xAFCqS7rN890.jpg?s=34a9370d7492fcda6f455ca359ae79d2 frameborder=0>
-- entry_name: |
     When the game is boring
   entry_id: 92j1gp
   entry_content: |
     <iframe src=https://v.redd.it/7l44czloxlc11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    TIL that the smell of the air after a storm is caused by Geosmin: A chemical released by dead soil bacteria. Humans are hyper sensitive to it, capable of detecting at a concentration of 5 parts per trillion. It's theorised in our evolutionary past this helped us seek out water.
-  entry_id: 92il0d
-  entry_content: |
-    <img src=https://i.redditmedia.com/GVXXEdnEk2bAnSErfriJ8AJqyoOMmSoTJ5F1yJRNEn4.jpg?s=abef76097f0d62648e7bc7f31f57df05 frameborder=0>
-- entry_name: |
-    Nuns bring #MeToo to Vatican, condemn abuse from priests | CBC News
-  entry_id: 92kykt
-  entry_content: |
-    <img src=https://i.redditmedia.com/_qdcEAopnRySQrWTAZC9a6rWbphxhZBkeiWZHojAtWE.jpg?s=544b164af1381055cd832d9e6534fcd4 frameborder=0>
-- entry_name: |
-    Cat hates spot on floor, so owner has a little fun.
-  entry_id: 92gk2y
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FReliableSeveralAfricangroundhornbill&url=https%3A%2F%2Fgfycat.com%2FReliableSeveralAfricangroundhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FReliableSeveralAfricangroundhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=408 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    Meeting the new neighbor.
-  entry_id: 92gtc7
-  entry_content: |
-    <iframe src=https://v.redd.it/jnf4pifr6jc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Its the little things in life
-  entry_id: 92j12a
-  entry_content: |
-    <img src=https://i.redditmedia.com/O3ImsKLw7puXN5OBbIl-foJVaBjRZU72y2l7Uc73FVw.jpg?s=3b3ce50bb63eac99b3984dd40928653e frameborder=0>
-- entry_name: |
-    Jimmy Eat World.
-  entry_id: 92ixj1
-  entry_content: |
-    <img src=https://i.redditmedia.com/QpH7Nesqn78ySai5XSSmYhabk-KQalZEc8s686-bq3I.png?s=aded742ad324f0ac00b948c04b6531fb frameborder=0>
 - entry_name: |
     Every swiss soldier gets a little sewing kit with various strings so we can fix our own clothes.
   entry_id: 92kwzf
   entry_content: |
     <img src=https://i.redditmedia.com/7pct2SAx5pZGN1kaFSlyeG8m2thTGhuKX7AgoN9sfgA.jpg?s=2255de9dd16441ea7ef50de43db4570f frameborder=0>
 - entry_name: |
-    Russian kitty Romka making the rounds at a horse farm
-  entry_id: 92i5lq
+    TIL that the smell of the air after a storm is caused by Geosmin: A chemical released by dead soil bacteria. Humans are hyper sensitive to it, capable of detecting at a concentration of 5 parts per trillion. It's theorised in our evolutionary past this helped us seek out water.
+  entry_id: 92il0d
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FYearlyCarelessAgouti&url=https%3A%2F%2Fgfycat.com%2FYearlyCarelessAgouti&image=https%3A%2F%2Fthumbs.gfycat.com%2FYearlyCarelessAgouti-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+    <img src=https://i.redditmedia.com/GVXXEdnEk2bAnSErfriJ8AJqyoOMmSoTJ5F1yJRNEn4.jpg?s=abef76097f0d62648e7bc7f31f57df05 frameborder=0>
+- entry_name: |
+    Cat hates spot on floor, so owner has a little fun.
+  entry_id: 92gk2y
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FReliableSeveralAfricangroundhornbill&url=https%3A%2F%2Fgfycat.com%2FReliableSeveralAfricangroundhornbill&image=https%3A%2F%2Fthumbs.gfycat.com%2FReliableSeveralAfricangroundhornbill-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=408 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Its the little things in life
+  entry_id: 92j12a
+  entry_content: |
+    <img src=https://i.redditmedia.com/O3ImsKLw7puXN5OBbIl-foJVaBjRZU72y2l7Uc73FVw.jpg?s=3b3ce50bb63eac99b3984dd40928653e frameborder=0>
+- entry_name: |
+    Meeting the new neighbor.
+  entry_id: 92gtc7
+  entry_content: |
+    <iframe src=https://v.redd.it/jnf4pifr6jc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Jimmy Eat World.
+  entry_id: 92ixj1
+  entry_content: |
+    <img src=https://i.redditmedia.com/QpH7Nesqn78ySai5XSSmYhabk-KQalZEc8s686-bq3I.png?s=aded742ad324f0ac00b948c04b6531fb frameborder=0>
 - entry_name: |
     My friend creates stained glass artwork, my case has a tempered glass front panel - need I say more?
   entry_id: 92jiwd
   entry_content: |
     <img src=https://i.redditmedia.com/FGrn_SaO3lSU80gSLs2IHDmBEFujSWYqz6pkLzv_1C8.jpg?s=65e184ae7e288dd5e1567ddb8c67f21b frameborder=0>
 - entry_name: |
+    Russian kitty Romka making the rounds at a horse farm
+  entry_id: 92i5lq
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FYearlyCarelessAgouti&url=https%3A%2F%2Fgfycat.com%2FYearlyCarelessAgouti&image=https%3A%2F%2Fthumbs.gfycat.com%2FYearlyCarelessAgouti-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     The first ever underwater photograph, c. 1899
   entry_id: 92k9m5
   entry_content: |
     <img src=https://i.redditmedia.com/8jWAx7Gw9BpzyUKNaL3eAFzYOkt-5b6UMCTeY6Z5P_I.png?s=e2d559966ba12ccc581d6e9d0bf5cdd4 frameborder=0>
 - entry_name: |
-    Rudy Giuliani called Michael Cohen an 'honest, honorable lawyer' in May. Now, he's an 'incredible liar.'
-  entry_id: 92gj17
+    meirl
+  entry_id: 92hv19
   entry_content: |
-    <img src=https://i.redditmedia.com/_1_HOTrR2TJ1jogDr5g5LvVwAqyF29AvGwzif4Onsno.jpg?s=0f897a190ee35899d7489229fd553de3 frameborder=0>
+    <img src=https://i.redditmedia.com/q5homJK8u3Io-ky5QIQIgLp0AwHzoQZpkRV1P7JHPZc.jpg?s=924d388e8c76d79f165be16dbf09cd7e frameborder=0>
 - entry_name: |
     Bold and Brash
   entry_id: 92gpbd
   entry_content: |
     <img src=https://i.redditmedia.com/l-WojZf0af6zYfurM6dMBIiv26Pj9IkUr9-CcOxeIVQ.jpg?s=dbacaafafb5b1f46fc0056a7645aab2f frameborder=0>
 - entry_name: |
-    meirl
-  entry_id: 92hv19
+    Rudy Giuliani called Michael Cohen an 'honest, honorable lawyer' in May. Now, he's an 'incredible liar.'
+  entry_id: 92gj17
   entry_content: |
-    <img src=https://i.redditmedia.com/q5homJK8u3Io-ky5QIQIgLp0AwHzoQZpkRV1P7JHPZc.jpg?s=924d388e8c76d79f165be16dbf09cd7e frameborder=0>
+    <img src=https://i.redditmedia.com/_1_HOTrR2TJ1jogDr5g5LvVwAqyF29AvGwzif4Onsno.jpg?s=0f897a190ee35899d7489229fd553de3 frameborder=0>
 - entry_name: |
     Carrie Fisher.
   entry_id: 92fxha
@@ -192,6 +187,21 @@ data:
   entry_id: 92hvvu
   entry_content: |
     <img src=https://i.redditmedia.com/grnDTYBcBIQFLO9KMTEtAmB4acRmgY9x_yKSh5Bic0Y.jpg?s=73c6fa31ccedba8c05086b1eb53fb788 frameborder=0>
+- entry_name: |
+    When I come across a quality post that’s 20+ hours old with almost no upvotes or comments
+  entry_id: 92l9sz
+  entry_content: |
+    <iframe src=https://v.redd.it/kg31l7c25oc11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Momma bird and her babies
+  entry_id: 92lndu
+  entry_content: |
+    <img src=https://i.redditmedia.com/TgfmHz29QGlNyEUk_RjB_bjSo-Wxfr5j1-88wQHS3Fo.jpg?s=04443ab3d68203a02931d3385671504e frameborder=0>
+- entry_name: |
+    Guy says he needs album art made, all I did was ask if he had any songs on YouTube. This was his response.
+  entry_id: 92kgnc
+  entry_content: |
+    <img src=https://i.redditmedia.com/AGPPEgWht8I7kPCtcaZcS7b55UV3lrOZpfAWyR2NGj0.jpg?s=f015686800f8bcfc8f11c9fe6aad199f frameborder=0>
 - entry_name: |
   entry_id: 92gn03
   entry_content: |
@@ -212,10 +222,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/zcs7GJy4veWxbzklzTDGPpsuGHS48VjDATx58NheNuQ.jpg?s=6246955a14354edcbee6fa051799aedf frameborder=0>
 - entry_name: |
-    Guy says he needs album art made, all I did was ask if he had any songs on YouTube. This was his response.
-  entry_id: 92kgnc
+    Supercell in Wyoming, USA.
+  entry_id: 92km8r
   entry_content: |
-    <img src=https://i.redditmedia.com/AGPPEgWht8I7kPCtcaZcS7b55UV3lrOZpfAWyR2NGj0.jpg?s=f015686800f8bcfc8f11c9fe6aad199f frameborder=0>
+    <img src=https://i.redditmedia.com/wKRDZKq0rflEWr2VMRFux2n9irGxsUDOekN5-tT_myI.jpg?s=2159ae276a7b1caf8fe35c32cd8d41f0 frameborder=0>
 - entry_name: |
     TIL A banker who convinced local residents to buy Coca Cola Stock during the Depression resulted in a the richest town in America with more millionaires per capita. A single share bought at $19 would be worth $10 Million in 2013.
   entry_id: 92fpnx
@@ -232,22 +242,12 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HwDiOxPL4Tk0bcp255wyKqajOfkFgDDvR2hx2uomcQg.jpg?s=67b50ce3e6f58db29fe94eff6bec78f8 frameborder=0>
 - entry_name: |
-    When I come across a quality post that’s 20+ hours old with almost no upvotes or comments
-  entry_id: 92l9sz
+    My hometown Facebook page is a goldmine.
+  entry_id: 92mnh0
   entry_content: |
-    <iframe src=https://v.redd.it/kg31l7c25oc11/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/LEnL-ju47gZRitsYMa1Ib3GQuXcg_rK0FiXc-sfk_e4.jpg?s=90298c1f5f41ad1402af0cfae58b20ed frameborder=0>
 - entry_name: |
   entry_id: 92h3yb
   entry_content: |
     <img src=https://i.redditmedia.com/3NclxBykY0I5JUPdtz9KClB3Gjgd93b547sEWup4r6I.jpg?s=3c22d28c7717fc299f6810db7830eb59 frameborder=0>
-- entry_name: |
-    Supercell in Wyoming, USA.
-  entry_id: 92km8r
-  entry_content: |
-    <img src=https://i.redditmedia.com/wKRDZKq0rflEWr2VMRFux2n9irGxsUDOekN5-tT_myI.jpg?s=2159ae276a7b1caf8fe35c32cd8d41f0 frameborder=0>
-- entry_name: |
-    r/happy starter pack
-  entry_id: 92fmaj
-  entry_content: |
-    <img src=https://i.redditmedia.com/JNqQLluGFjy4vX44bRFDKJ85ah_Lzz8kXiPViG7cM1w.jpg?s=e56130b7711e40d8e2e43eca2d130d6c frameborder=0>
 ---
