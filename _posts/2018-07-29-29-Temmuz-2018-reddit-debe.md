@@ -227,11 +227,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/wKRDZKq0rflEWr2VMRFux2n9irGxsUDOekN5-tT_myI.jpg?s=2159ae276a7b1caf8fe35c32cd8d41f0 frameborder=0>
 - entry_name: |
-    TIL A banker who convinced local residents to buy Coca Cola Stock during the Depression resulted in a the richest town in America with more millionaires per capita. A single share bought at $19 would be worth $10 Million in 2013.
-  entry_id: 92fpnx
-  entry_content: |
-    null
-- entry_name: |
     Takes a real bro to save a shark
   entry_id: 92hnxp
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 92h3yb
   entry_content: |
     <img src=https://i.redditmedia.com/3NclxBykY0I5JUPdtz9KClB3Gjgd93b547sEWup4r6I.jpg?s=3c22d28c7717fc299f6810db7830eb59 frameborder=0>
+- entry_name: |
+    Imagine being famous for playing a character that wasn't you for 99.99% of it's existence
+  entry_id: 92iik1
+  entry_content: |
+    <img src=https://i.redditmedia.com/POcd2NmBTwC8g_5nmR-97kN1QYJ_mLUXsydlZlfc-Fo.jpg?s=3dfaeda4937cf9543952dad97dcc8d3a frameborder=0>
 ---
