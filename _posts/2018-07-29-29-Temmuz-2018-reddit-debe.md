@@ -108,11 +108,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/e32bXIFgO2pSiJDLDingDGMKR7XcGfn5PxOiss2R9-M.jpg?s=9cfda5fe033294d9e818257fe71bbec7 frameborder=0>
 - entry_name: |
-    Shark Rescue Squad
-  entry_id: 92f81d
-  entry_content: |
-    <img src=https://i.redditmedia.com/swCxGhenBGhKKYAlQgTe2NGaJEgPreSnVpmFWxxrPUI.jpg?s=d75579333894747cc508dd527271b195 frameborder=0>
-- entry_name: |
     Trump: Trade policy explained to him by EU using colorful flash cards
   entry_id: 92ff1q
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 92km8r
   entry_content: |
     <img src=https://i.redditmedia.com/wKRDZKq0rflEWr2VMRFux2n9irGxsUDOekN5-tT_myI.jpg?s=2159ae276a7b1caf8fe35c32cd8d41f0 frameborder=0>
+- entry_name: |
+    r/happy starter pack
+  entry_id: 92fmaj
+  entry_content: |
+    <img src=https://i.redditmedia.com/JNqQLluGFjy4vX44bRFDKJ85ah_Lzz8kXiPViG7cM1w.jpg?s=e56130b7711e40d8e2e43eca2d130d6c frameborder=0>
 ---
