@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/-4uygtFZRxYAxjuuklB_bRtjDjfjs_2VDutFMKecn_4.jpg?s=4eed68e1284f55a652aeaf94139831ff frameborder=0>
 - entry_name: |
-    Just a happy lil baby getting a shower
-  entry_id: 92g3zm
-  entry_content: |
-    <iframe src=https://v.redd.it/gnaa6nv7vjc11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     The fact that a blood red lunar eclipse is happening only a week after they opened that black sarcophagus in Egypt is kinda unsettling.
   entry_id: 92gceo
   entry_content: |
@@ -87,11 +82,6 @@ data:
   entry_id: 92l95w
   entry_content: |
     <img src=https://i.redditmedia.com/aZf5zznyKRHRg8-W8zJdQrFvHP5pz0mqCJS2ensc6zA.jpg?s=fc310c0d75ae358edebd6e49a7d99a05 frameborder=0>
-- entry_name: |
-    Cop admits framing two black men as Florida town’s false arrest scandal widens
-  entry_id: 92g1p3
-  entry_content: |
-    <img src=https://i.redditmedia.com/-yZQ1FB6ibPQRZXOddCAjfzoiz5nhs54roAKTdtuSsU.jpg?s=fe7d998f513b162ca9dce403c439ef46 frameborder=0>
 - entry_name: |
     Nuns bring #MeToo to Vatican, condemn abuse from priests | CBC News
   entry_id: 92kykt
@@ -251,4 +241,14 @@ data:
   entry_id: 92hnxp
   entry_content: |
     <iframe src=https://v.redd.it/7sidzxl4wkc11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 92hd3q
+  entry_content: |
+    <img src=https://i.redditmedia.com/HwDiOxPL4Tk0bcp255wyKqajOfkFgDDvR2hx2uomcQg.jpg?s=67b50ce3e6f58db29fe94eff6bec78f8 frameborder=0>
+- entry_name: |
+    Skyrim School for Bandits
+  entry_id: 92me8d
+  entry_content: |
+    <img src=https://i.redditmedia.com/xCnAD_X-8m0WfXoIqca_9tl42CZl1Dr1Rxg_tG4TqhA.jpg?s=c214b1091992007cb49be55e10398dd7 frameborder=0>
 ---
