@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/F5icgWNDva0MW5Jsn_UI-eLAc9kx30RoChnU0_hjzkc.jpg?s=2ce53ca904ff94553099475f09cd5d3e frameborder=0>
 - entry_name: |
-    Donald Trump Jr says Obama never broke 2 percent GDP growth. He did. 15 times.
-  entry_id: 92f6q8
-  entry_content: |
-    <img src=https://i.redditmedia.com/C-sz8_R_qiV72LD67xxE18mPjV9CgL3faMgdIAUUQwM.jpg?s=b4345c4a1552b471239677e54bc2f4c3 frameborder=0>
-- entry_name: |
     Looked up from my work computer to find someone patiently waiting for my lunch break...
   entry_id: 92ht2q
   entry_content: |
@@ -73,20 +68,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tJLYRWrOgkILEFnBYd4r13CYncyIkTVwNY_w9ocCvT0.jpg?s=411d265af5e538df552afdf3d24f87f7 frameborder=0>
 - entry_name: |
-    Behind the scenes of a chocolate ad.
-  entry_id: 92gfd9
-  entry_content: |
-    <iframe src=https://v.redd.it/81nqpziq3kc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     I would absolutely pay more money for a toilet that made this area easier to clean
   entry_id: 92hhx1
   entry_content: |
     <img src=https://i.redditmedia.com/kc01_EFdlcG08kNOpT7ytGiSrH3pQoHq7xXocKppK2k.jpg?s=b0113e66a2184abcd55d3fe5bf7a6f03 frameborder=0>
-- entry_name: |
-    Capitalization is key
-  entry_id: 92f3mn
-  entry_content: |
-    <img src=https://i.redditmedia.com/dYH7vC8cOQwDpdIQhVPsW-yEY_l--Yh6KMqJBDMZmHM.jpg?s=d3ba53c2cd49e49ef0ed33faedd0545c frameborder=0>
 - entry_name: |
     Dad who works 3 jobs surprises his daughter with her dream dress for the 8th grade dance after telling her he couldn't afford it
   entry_id: 92kuzw
@@ -107,11 +92,6 @@ data:
   entry_id: 92l95w
   entry_content: |
     <img src=https://i.redditmedia.com/aZf5zznyKRHRg8-W8zJdQrFvHP5pz0mqCJS2ensc6zA.jpg?s=fc310c0d75ae358edebd6e49a7d99a05 frameborder=0>
-- entry_name: |
-    It’s cookin out there
-  entry_id: 92f1ld
-  entry_content: |
-    <img src=https://i.redditmedia.com/IBfm_ciGxWEn7U67gR4s5fQGwd-zvP3YqBCO4Mt1pTw.jpg?s=eb4828ad2a87a82b033917add018460d frameborder=0>
 - entry_name: |
     A Flying Fuck
   entry_id: 92m3un
@@ -168,11 +148,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O3ImsKLw7puXN5OBbIl-foJVaBjRZU72y2l7Uc73FVw.jpg?s=3b3ce50bb63eac99b3984dd40928653e frameborder=0>
 - entry_name: |
-    It was only $120
-  entry_id: 92f6ok
-  entry_content: |
-    <img src=https://i.redditmedia.com/yX6KrTZxnljvc7g-PgAQ2UAcsOi22jE9iVY_NrBbMYk.jpg?s=f72071b24c5d27d74f5705913b2ae105 frameborder=0>
-- entry_name: |
     Jimmy Eat World.
   entry_id: 92ixj1
   entry_content: |
@@ -223,11 +198,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/grnDTYBcBIQFLO9KMTEtAmB4acRmgY9x_yKSh5Bic0Y.jpg?s=73c6fa31ccedba8c05086b1eb53fb788 frameborder=0>
 - entry_name: |
-    Chili’s isn’t down to party
-  entry_id: 92hsdg
-  entry_content: |
-    <img src=https://i.redditmedia.com/F2LlwFCkj9OFc7mc0fwhnQWgVix7wac33ThS5EiAV-8.jpg?s=2f140b503a9373c2f436f74c77eba8da frameborder=0>
-- entry_name: |
   entry_id: 92gn03
   entry_content: |
     <img src=https://i.redditmedia.com/7M2_8iVv862CECMOQ8bFbzrEmVzN-XfrEyaq6lUb4PM.jpg?s=58f0519c95d1a2852f89160c26f57a41 frameborder=0>
@@ -251,4 +221,33 @@ data:
   entry_id: 92kgnc
   entry_content: |
     <img src=https://i.redditmedia.com/AGPPEgWht8I7kPCtcaZcS7b55UV3lrOZpfAWyR2NGj0.jpg?s=f015686800f8bcfc8f11c9fe6aad199f frameborder=0>
+- entry_name: |
+    TIL A banker who convinced local residents to buy Coca Cola Stock during the Depression resulted in a the richest town in America with more millionaires per capita. A single share bought at $19 would be worth $10 Million in 2013.
+  entry_id: 92fpnx
+  entry_content: |
+    null
+- entry_name: |
+    Takes a real bro to save a shark
+  entry_id: 92hnxp
+  entry_content: |
+    <iframe src=https://v.redd.it/7sidzxl4wkc11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    2meirl4meirl
+  entry_id: 92hd3q
+  entry_content: |
+    <img src=https://i.redditmedia.com/HwDiOxPL4Tk0bcp255wyKqajOfkFgDDvR2hx2uomcQg.jpg?s=67b50ce3e6f58db29fe94eff6bec78f8 frameborder=0>
+- entry_name: |
+    When I come across a quality post that’s 20+ hours old with almost no upvotes or comments
+  entry_id: 92l9sz
+  entry_content: |
+    <iframe src=https://v.redd.it/kg31l7c25oc11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 92h3yb
+  entry_content: |
+    <img src=https://i.redditmedia.com/3NclxBykY0I5JUPdtz9KClB3Gjgd93b547sEWup4r6I.jpg?s=3c22d28c7717fc299f6810db7830eb59 frameborder=0>
+- entry_name: |
+    Supercell in Wyoming, USA.
+  entry_id: 92km8r
+  entry_content: |
+    <img src=https://i.redditmedia.com/wKRDZKq0rflEWr2VMRFux2n9irGxsUDOekN5-tT_myI.jpg?s=2159ae276a7b1caf8fe35c32cd8d41f0 frameborder=0>
 ---

@@ -6,7 +6,7 @@ data:
     koç holding markalarını boykot kampanyası
   entry_id:  79657076
   entry_writer: 3lly
-  entry_fav_count: 2941
+  entry_fav_count: 2979
   entry_content: |
     (bkz: <a class="b" href="/?q=fanatizmin+bir+zeka+sorunu+olmas%c4%b1">fanatizmin bir zeka sorunu olması</a>)
   entry_channels: spor,siyaset,anket,ekonomi
@@ -14,7 +14,7 @@ data:
     nargile + bmw + iphone + sakal + sert bakış
   entry_id:  79658095
   entry_writer: dondoldenyus
-  entry_fav_count: 655
+  entry_fav_count: 671
   entry_content: |
     yoo tarikat falan değiller, baba parası yiyen götverenler.
   entry_channels: anket,teknoloji,yeme-içme,otomotiv
@@ -30,7 +30,7 @@ data:
     sen çok iyi birisin diyen kız
   entry_id:  79656540
   entry_writer: kibariye canavari
-  entry_fav_count: 361
+  entry_fav_count: 368
   entry_content: |
     "kimse iyi dediği birine âşık olmaz... aşkın iyilikle ilgisi yoktur."<br/><br/>-ahmet ümit
   entry_channels: ilişkiler
@@ -38,7 +38,7 @@ data:
     alaçatı'da 50 tl müzik ücreti
   entry_id:  79659446
   entry_writer: fuzzy olmak istemistim
-  entry_fav_count: 289
+  entry_fav_count: 295
   entry_content: |
     (bkz: <a class="b" href="/?q=yetmez+ama+evet">yetmez ama evet</a>)<br/><br/>işletmecilere kıyağım olsun:<br/><br/>- hava ücreti: sizin ortamınızda solunum yapıyorlar. <br/>- oturma bedeli: sağladığınız sandalyeyi oturmak için kiralıyorlar. <br/>- bakma ücreti: mekânda sağa sola bakabiliyorlar. <br/>- koklama bedeli: oda spreyini kokluyorlar, mis.
   entry_channels: müzik,haber,ekonomi
@@ -46,7 +46,7 @@ data:
     evliyken birine aşık olmak
   entry_id:  79646394
   entry_writer: hellespontos
-  entry_fav_count: 273
+  entry_fav_count: 278
   entry_content: |
     bence evliyken başkasına aşık olmak orospu çocukluğu değildir. insan tekrar aşık olabilir, bu normaldir ancak eşinden ayrılmayıp onu kandırırsan, iki kişiyi aynı anda idare etmeye çalışırsan bu orospu çocukluğudur.
   entry_channels: anket,ilişkiler
@@ -54,7 +54,7 @@ data:
     metrobüste öpüştüler diye deliren adam
   entry_id:  79654732
   entry_writer: karahan32
-  entry_fav_count: 252
+  entry_fav_count: 260
   entry_content: |
     aynı tepkiyi sokakta dayak yiyen kadınlara, tecavüze uğrayan bebelere vermediğin sürece terliksilerden hiçbir farkın olmaz koçum
   entry_channels: haber,magazin
@@ -62,7 +62,7 @@ data:
     uzayda astronot kıyafeti olmadan yaşayabiliriz
   entry_id:  79662309
   entry_writer: human genom
-  entry_fav_count: 214
+  entry_fav_count: 229
   entry_content: |
     (bkz: <a class="b" href="/?q=sonra+yok+efendim+m%c3%bchendise+asgari+%c3%bccret">sonra yok efendim mühendise asgari ücret</a>)
   entry_channels: 
@@ -70,55 +70,47 @@ data:
     mağazada inceleyip internetten satın almak
   entry_id:  79651963
   entry_writer: high and dry and high
-  entry_fav_count: 195
+  entry_fav_count: 196
   entry_content: |
     magazada 3500 tl olan urun internette 2800 tl. ayrica internetten aldigin urunde 14 gun kosulsuz iade hakki var. yiyosa acilmis bi urunu vatana teknosaya mediamarkta iade etmeye kalk. alnimizda enayi yazmıyor, magazacilar alinmasin.
   entry_channels: teknoloji,ekonomi
 - entry_name: |
-    ali koç'un 50 milyon dolar hibe etmesi
-  entry_id:  79655306
-  entry_writer: kadran
-  entry_fav_count: 191
-  entry_content: |
-    ali koç’un kendi cebinden fenerbahçe kulübüne bugünkü kurla 242,5 milyon tl vermesidir. fenerbahçe’yi batmaktan kurtaran olarak anılacaktır. kendi yapmadığı borcu, kendi harcamadığı parayı cebinden ödüyor, hakikaten inanılmaz.
-  entry_channels: spor
-- entry_name: |
-    bir burhan altıntop repliği bırak
-  entry_id:  79651825
-  entry_writer: vodkavandetta
-  entry_fav_count: 177
-  entry_content: |
-    yazılan her repliği burhan altıntop sesiyle okumak<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,tv
-- entry_name: |
     sözlük yazarlarının silahları
   entry_id:  79661623
   entry_writer: bi nick kiliinimdi ildigindin ilimiyiriz
-  entry_fav_count: 158
+  entry_fav_count: 191
   entry_content: |
     bakışlarım.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    nude fotoğraf göndermek
-  entry_id:  79655268
-  entry_writer: mavericks
-  entry_fav_count: 156
+    bir burhan altıntop repliği bırak
+  entry_id:  79651825
+  entry_writer: vodkavandetta
+  entry_fav_count: 179
   entry_content: |
-    internete düşmesini istemiyorsanız en önemli püf noktası yüzünüzü göstermemek değil, kalitesiz insanlara göndermemektir efendim.
-  entry_channels: anket,teknoloji
+    yazılan her repliği burhan altıntop sesiyle okumak<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: anket,tv
 - entry_name: |
     fakirler dururken futbola 50 milyon bağışlamak
   entry_id:  79660435
   entry_writer: domain
-  entry_fav_count: 156
+  entry_fav_count: 167
   entry_content: |
     asıl tartışılması gereken konu belediyelerin kurduğu futbol takımlarında halktan alınan paralar ile futbolcu transfer edilmesi.
   entry_channels: spor,ekonomi
 - entry_name: |
+    nude fotoğraf göndermek
+  entry_id:  79655268
+  entry_writer: mavericks
+  entry_fav_count: 158
+  entry_content: |
+    internete düşmesini istemiyorsanız en önemli püf noktası yüzünüzü göstermemek değil, kalitesiz insanlara göndermemektir efendim.
+  entry_channels: anket,teknoloji
+- entry_name: |
     kadir mısıroğlu adına basılan pul
   entry_id:  79663431
   entry_writer: kabetaslayansatanist
-  entry_fav_count: 137
+  entry_fav_count: 144
   entry_content: |
     tükürerek yapıştırılır.
   entry_channels: siyaset
@@ -126,31 +118,23 @@ data:
     türk solunun suriyeli mültecilerden nefret etmesi
   entry_id:  79664939
   entry_writer: insaatyaresulallah
-  entry_fav_count: 122
+  entry_fav_count: 130
   entry_content: |
     tez konusu olan senin chplileri solcu zannetmendir.
   entry_channels: 
 - entry_name: |
-    fethullah gülen öldü gömüldüğü yeri biliyorum
-  entry_id:  79656335
-  entry_writer: meksika post
-  entry_fav_count: 120
-  entry_content: |
-    sonra yaşlıları mit elemanıyım diye kandırıp parasını alıyorlar diye haber izliyoruz.<br/><br/>cevat hoca tontiş bi dedeydin senin içine niye james bond girdi aq ya
-  entry_channels: siyaset,haber
-- entry_name: |
     özlem yağdıran
-  entry_id:  79664538
-  entry_writer: kafas
-  entry_fav_count: 105
+  entry_id:  79664311
+  entry_writer: hakopo
+  entry_fav_count: 102
   entry_content: |
-    acilen kapatılması gereken başlıktır.<br/><br/>polisi çağırdı diye kimse hedef gösterilemez. belki de sağlık ocağından, kişiyi cikaramadiklari ve fiziksel müdahale etmek istemedikleri için polisi çağırdılar. <br/><br/>devletin kolluk kuvvetininden yardım istemek suç değildir. bilakis kendi başınıza birilerini kamusal alandan çıkarmaya çalışmanız suçtur.<br/><br/>edit;<br/><br/>bazı yazarlar hastanın yaşından, doktora nasıl bir zarar verebileceğinden bahsetmiş, @hapiyuttuk'un ricası ile bazı gazete haberlerini ekliyorum. kaldı ki doktor o iş yoğunluğunda problem çıkaran hasta ile uğraşmak zorunda değil, bu kolluk kuvvetinin işidir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aksam.com.tr/amp/guncel/90lik-dede-75lik-esini-cekicle-oldurdu/haber-666330" title="https://www.aksam.com.tr/amp/guncel/90lik-dede-75lik-esini-cekicle-oldurdu/haber-666330">https://www.aksam.com.tr/…icle-oldurdu/haber-666330</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.sabah.com.tr/yasam/2012/02/21/83-yasindaki-dede-esini-oldurdugunu-hatirlamadi/amp" title="https://m.sabah.com.tr/yasam/2012/02/21/83-yasindaki-dede-esini-oldurdugunu-hatirlamadi/amp">https://m.sabah.com.tr/…oldurdugunu-hatirlamadi/amp</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.haberler.com/amp/80-lik-dede-tartistigi-karisini-keserle-basina-10858152-haberi/" title="https://m.haberler.com/amp/80-lik-dede-tartistigi-karisini-keserle-basina-10858152-haberi/">https://m.haberler.com/…rle-basina-10858152-haberi/</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.habergazetesi.com.tr/amp/5070359/80-yasindaki-dede-78-yasindaki-esini-oldurdu" title="http://www.habergazetesi.com.tr/amp/5070359/80-yasindaki-dede-78-yasindaki-esini-oldurdu">http://www.habergazetesi.com.tr/…daki-esini-oldurdu</a>
+    üst edit: sanırım başlık başa kalmış, dangalak bi yazarın teki doktoru hedef gösteren bir entry yazmıştı, sonra kaçmış tabii. olay şu; `(bkz: <a class="b" href="/?q=82+yasindaki+dedeye+kelepce+ve+biber+gazi">82 yasindaki dedeye kelepce ve biber gazi</a>)<br/><br/>lan bu milletteki doktor düşmanlığı nedir anlamıyorum. oğlum tamam çok üzücü bir olay ama ne biliyorsun da konuşuyorsun? içeride sözlü de olsa bir şiddete maruz kaldıysa beyaz kod vermek doktorun hakkıdır o ne yapsın? ne bu doktor nefretiniz? siz böyle yaptıkça bütün doktorlar hastadan uzak uzmanlık seçiyor farkında değilsiniz 10 seneye ameliyat olacak cerrah bulamayacaksınız.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/whipple" title="https://eksisozluk.com/biri/whipple">@whipple</a> arkadaşımızın bana attığı mesajı noktasına dokunmadan aktarıyorum, ve harfi harfine katılıyorum.<br/>"doktorların kafasında kaldırım taşı kıranların, el kaldıranların ülkesinde bir doktorun tartışma esnasında yapması gerektiği gibi beyaz kod vermesini bile eleştirmek nasıl bir kafa yapısının ürünü hala çözemedim. hakaret de edilse, dövülse de susmasını bekliyorlar heralde."
   entry_channels: sağlık,haber
 - entry_name: |
     82 yaşındaki dedeye kelepçe ve biber gazı
   entry_id:  79661459
   entry_writer: erkek geldi hanim
-  entry_fav_count: 88
+  entry_fav_count: 97
   entry_content: |
     görüntülerde polisin yaşlı amcaya bir kaç kezde yumruk attığı görülüyor. buna rağmen tutuksuz yargılanıyor. biz olsak anamızı sikerler. 'en iyisinin amına koyayım'. diye bir söz vardır bizim buralarda aynen durum bu.<br/><br/>(bkz: <a class="b" href="/?q=a.c.a.b">a.c.a.b</a>)
   entry_channels: sağlık,haber
@@ -158,7 +142,7 @@ data:
     hırsızlık yapan suriyelileri döven gençler
   entry_id:  79666752
   entry_writer: mindi
-  entry_fav_count: 65
+  entry_fav_count: 89
   entry_content: |
     savaştan kaçan masum suriyelilere bakın. o telefonlar belki bir masumun günde 12 saat çalışarak kazandığı parayla alındı, o cüzdanda belki bir işçi emeklisi ailesinin rızkı var. birazdan tatlı su solcusu pelin de gelir; ama onlar buna mecburlar der, iki humanizm nutku çeker, kötü olan bizler oluruz. bu çöl bedevileri geldikleri yere dönmeden bize ülkede huzur yok.
   entry_channels: haber
@@ -166,10 +150,34 @@ data:
     iphone almak için 3 önemli neden
   entry_id:  79653840
   entry_writer: drynhwyl
-  entry_fav_count: 64
+  entry_fav_count: 65
   entry_content: |
     iphone aldığında bütçesi sarsılacak kişinin bu durum karşısında vicdanını rahatlatmak için aradığı 3 önemli nedendir. parası olan neden aramaz, hoşuna gitmiştir gider alır. bir sene sonra başka bir telefon hoşuna gider gidip onu da alır. hatta telefonun rengiyle uyumlu olsun diye gider bir de spor araba alır. ne hayatlar var haberimiz yok.
   entry_channels: anket,teknoloji
+- entry_name: |
+    yemeksepeti'ni bitirecek proje
+  entry_id:  79667220
+  entry_writer: nicepiccs
+  entry_fav_count: 59
+  entry_content: |
+    her restoran uğraşmasın diye yapıldı zaten.
+  entry_channels: anket,teknoloji,yeme-içme
+- entry_name: |
+    bir laz ziya repliği bırak
+  entry_id:  79654645
+  entry_writer: milliolamadi
+  entry_fav_count: 55
+  entry_content: |
+    vih kırah yah hah üh ihi hih hah habhff hah hıaaağ<br/>(laz ziyanın kahkahası), <br/>bence replik sayılması lazım
+  entry_channels: anket,tv,edebiyat
+- entry_name: |
+    28 temmuz 2018 türkiye'de planck sabiti bulunması
+  entry_id:  79665974
+  entry_writer: ethill alcoll
+  entry_fav_count: 54
+  entry_content: |
+    yapmayın gözünüzü seveyim.havuzcular ciddiye alıp haber yapar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: 
 - entry_name: |
     formula 1'in türkiye'de tutmamasının sebepleri
   entry_id:  79657184
@@ -179,42 +187,26 @@ data:
     en ucuz biletin asgari ucretin yarisi kadar olmasi etkili olmustur .
   entry_channels: spor,anket,otomotiv
 - entry_name: |
-    bir laz ziya repliği bırak
-  entry_id:  79654645
-  entry_writer: milliolamadi
-  entry_fav_count: 52
+    ulupamirli kırgızların tsk subayı olması
+  entry_id:  79659811
+  entry_writer: jiesheshuai
+  entry_fav_count: 48
   entry_content: |
-    vih kırah yah hah üh ihi hih hah habhff hah hıaaağ<br/>(laz ziyanın kahkahası), <br/>bence replik sayılması lazım
-  entry_channels: anket,tv,edebiyat
-- entry_name: |
-    mars'a ilk ayak basacak astronotun ilk sözü
-  entry_id:  79650787
-  entry_writer: parcalicokbulutlu
-  entry_fav_count: 51
-  entry_content: |
-    biz duyduğumuzda, söylenmesinin üzerinden en az 3 dakika geçmiş olacaktır.
-  entry_channels: anket,bilim,edebiyat,teknoloji,havacılık,seyahat
-- entry_name: |
-    27 temmuz 2018 taner börek tacizi
-  entry_id:  79662382
-  entry_writer: ineedanintervention
-  entry_fav_count: 41
-  entry_content: |
-    twitter'da gördüğüm bir flooddan aynen aktarıyorum : <br/><br/>@uykudeliisi<br/>"lütfen duyarsız kalmayın!<br/>bugün tacize uğradım, polise gittim ancak 'bu suçu kanıtlayamazsın' diyerek şikayetimi geri çektirmek için ellerinden geleni yaptılar. bağırdım, ağladım, lütfen bir kadının gözünden yaşadıklarımı okuyun!<br/><br/>bu sabah, saat 11'de işim gereği mağazaları denetlemek üzere gittiğim semt kadıköy suadiye mahallesi, ayşeçavuş caddesi'ndeki taner börek'te tacize uğradım!<br/><br/>mekana girdim, iş tabletimi şarja vermek için rica ederek kahvaltımı yapmak için masaya oturdum. sapık eleman ...beni "tabletiniz şarj olmuyor." diyerek tabletin olduğu tarafa çağırdı.<br/><br/>tabletimde bir sıkıntı olduğunu fark ettikten sonra işim aksayacağı için üzüldüm, 3 defa yanıma gelip "üzülme, üzülen insanlara dayanamıyorum" tarzı cümleler kurdu. bu cümlelere insani cümleler gözüyle baktığım için ve iş tabletimdeki soruna yoğunlaştığım için adamın yüzüne bile bakmadım, 3.seferde artık rahatsız oldum.<br/><br/>ağlayarak yazıyorum; iğrenc insan bir anda yaklaşıp önce alnımdan öptü o sıra kendımı savunamadan aradan saniye farkı geçmeden üzülmene dayanamıyorum, hadi sende beni öp diyerek yanağımı yanağına götürüp oradan dudağımı dudağına getirdi. <br/><br/>sinir krizi geçirerek ağlamaya ve bağırmaya başladım, mekandan apar topar çıkarken herkes olaya şahit oldu, benı sakinleştirmeye çalışırlarken mekanın sahibi geldi ve "sen polisi karıştırma, bız onu kovacağız" diyerek benı aldatmaya çalıştılar.<br/><br/>polisi arayıp şikayetçi olacağımı söyledim, polis geldi ve sapık olay yerinden kaçtığı için uzun bir süre onu bekledik. geldikten sonra karakola gidip, şikâyetçi olmak için elimden geleni yaptım ama bana yardımcı olan, destek çıkan kımse çıkmadı.<br/>kamera yok, kanıtlayamazsın ifadesi verildi. 'biz onu kovacağız' diyen mekan sahibi bir anda bunu söyleyip "eğer ıspatlayamazsan biz sana hakaret davası açacağız" diyerek üste çıkmak için ellerinden geleni yaptılar.<br/><br/>saatler süren karakol macerası adamın bana özür dilemesiyle ve benim artık bitmiş ve sinir sistemim yıpranmış bir şekilde son buldu. travma yaşıyorum, eve gelene kadar hasta insanlar gibi insanlarla iletişime kapalı, korkarak yürüdüm.<br/><br/>lütfen yayın. kadıköy, suadiye mahallesi, ayşeçavuş caddesi, taner börek, ..... benden önce bu durumu yaşayan ve benden sonra yaşayacak olan kadınlar, belki küçük kız çocukları, bunun önüne geçmek istiyorum, elimden geleni yapmak istiyorum, lütfen yardım edin.<br/><br/>bu arada hukukta söyle birşey varmış tacızede uğrasan,bır delıl bır kanıt olmadıktan sonra hıcbırsekılde davayı kazanamazmışım polısler, o sıra kımse olmayadabılır bunu ıspat edecek bıseyınde olamaz cok normal ama ıspat olmadıkça hıcbısey yapamıyorum malesef!"<br/><br/>yine bir taciz, yine yardakçı emniyet güçleri, yine yavuz hırsızın ev sahibini bastırması.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/uykudeliisi/status/1022960882404470784?s=21" title="https://twitter.com/uykudeliisi/status/1022960882404470784?s=21">link</a> eklendi.<br/><br/>edit : isim benzerliğinden ötürü başka işletmelerin mağdur olmaması için başlığın "27 temmuz 2018 taner börek salonu tacizi" olarak değiştirilmesi konusunda yardım ederseniz sevinirim. <br/><br/>edit : küfür edenler, inandırıcı bulmayanlar olmuş. buna inanmayan hayatında hiç tacize veya cinsel saldırıya uğramamıştır.
-  entry_channels: sağlık
-- entry_name: |
-    28 temmuz 2018 türkiye'de planck sabiti bulunması
-  entry_id:  79665974
-  entry_writer: ethill alcoll
-  entry_fav_count: 40
-  entry_content: |
-    yapmayın gözünüzü seveyim.havuzcular ciddiye alıp haber yapar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    1982 yılında türkiye'ye getirilip van'ın erciş ilçesi ulupamir köyüne iskan edilen, günümüzde de süvari korucu birlikleri olarak görev yapan kırgız türklerinin türkiye'de doğup büyüyen çocuklarından dördünün türk subayı olması hadisesi:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://fs5.directupload.net/images/180728/jifdczyd.jpg" title="http://fs5.directupload.net/images/180728/jifdczyd.jpg">http://fs5.directupload.net/…es/180728/jifdczyd.jpg</a>
   entry_channels: 
+- entry_name: |
+    bedelli askerlik
+  entry_id:  79649924
+  entry_writer: krondast
+  entry_fav_count: 38
+  entry_content: |
+    psikiyatristim emekli albay. profilimde aratırsanız rahatsızlığımı yazmıştım. kendisi ile bugün seansımız vardı. beni öyle kötü durumda görünce askerliği mesele ettiğimi anladı. ve “gitmeye elverişli olmadığımı” gerekirse heyet raporu için yazı yazacağını ilave etti. ve malesef ilaçlarımın dozunu arttırdı. çünkü benim için bu bedelli 21 günlük haliyle psikolojik olarak imkansız.<br/><br/>şimdilik bedelliden malesef bu sebeple faydalanamıyorum. tecilim 2019 aralıkta bitiyor. ozamana kadar 8 sene önceki rahatsızlığımın başlangıcına dair eski hastanemden belgemi alıp heyete gireceğim. zira heyette kabul görebilmek için hastalığımın bayağı bir senedir devam ettiğini ispat etmem gerekiyor.<br/><br/>akp herşeyi mahvetti. bir sürü iş çıkardı başımıza. kimi iş sebebi, kiminin yaşlısı bakacak ailesi var . kimi de benim gibi normal hayatını bile yaşayamıyor.<br/><br/>benim için bu bedelli sevinç değil tam anlamıyla bir depresyon sebebi oldu malesef. gençleri rantlarına kurban ettiler tebrik ederim !
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     dünya nüfusunun azalması gerekliliği
   entry_id:  79663249
   entry_writer: sergeant kamarov
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     bu durumdan şikayetçi olanlar kendilerini feda ederek fayda sağlayabilirler.<br/>öyle azalması gerekiyor demekle olmuyor. icraat bekliyoruz hepinizden.
   entry_channels: bilim
@@ -222,10 +214,18 @@ data:
     mustafa sandal'ın klibindeki enteresan detay
   entry_id:  79667530
   entry_writer: quaketrigger
-  entry_fav_count: 27
+  entry_fav_count: 30
   entry_content: |
     <a class="b" href="/?q=mustafa+sandal">mustafa sandal</a>' ın <a class="b" href="/?q=g%c3%b6lgede+ayn%c4%b1">gölgede aynı</a> adlı albümündeki "bir anda" isimli parçasının klibindeki detaydır.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=jWkU7ptV_G0" title="https://www.youtube.com/watch?v=jWkU7ptV_G0">klibi</a> 3:01 de durdurup bakın , soldaki yeşil yazılar arasında, üstten 9. ve 10. satırda, alt alta "bunu yazan tosun okuyana k.. " yazıyor.<br/>(bkz: <a class="b" href="/?q=puhaha">puhaha</a>)<br/>düdüt: bu klipte böyle bi yazıya dikkat eden varsa ona yazan koysun zaten =))) <br/><a class="b" href="/?q=mustafa+sandal+denince+akla+gelenler">mustafa sandal denince akla gelenler</a> başlığından klibe gitmiştim, orada yorumlara baktım. adamın biri 2 yıl önce yorum olarak yazmış ya kendi fark etti, ya da sözlükten öğrendi. sözlükte 7 yıl önce yazılmış.<br/>bu bilginin sözlükte yer aldığını söyleyenler, beni kastederek "prim yapıyor" diyen olmuş. evet prim yapıyorum, maaşı fava göre hesaplıyorlar amk.<br/>adam böyle komik bir olayı gidip şarkı adının başlığı altında ufacık yazmışsa ben ne yapayım? hihihihh
   entry_channels: müzik,spoiler
+- entry_name: |
+    istanbulun yaşanacak yer olmaması
+  entry_id:  79644099
+  entry_writer: weimar royce
+  entry_fav_count: 26
+  entry_content: |
+    londra'nin yesil alan orani yuzde 42, istanbul'un ise sadece yuzde 2!!!<br/>nefes alacak, yuruyus yapacak, kosup ter atacak tek bir yer bile yok!<br/>her yer beton, her yer rant! bu sehri kim bu sekilde planlamissa kim bu hale getirmisse ejdadini sikeyim!!!
+  entry_channels: anket
 - entry_name: |
     27 temmuz 2018 kanlı ay tutulması
   entry_id:  79643870
@@ -235,53 +235,37 @@ data:
     arkadaşlarım, dostlarım...<br/><br/>güneş ve ay tutulması gibi doğa olaylarının, gezegenimizde deneyimlediğimiz ve hissetmiyor olsanız dahi sürekli ama sürekli gerçekleşen depremlerin oluşumlarıyla hiçbir ilgisi alakası bulunmamaktadır. böyle bir hipotez olmadığı gibi, bu konuda yapılıp kabul görmüş bir araştırma da yoktur. depremler süreklidir, durmaz veya bir anda açığa çıkmaz; herhangi bir başka doğa olayı veya toplumsal vaka ile aynı zaman aralığında gerçekleşmeleri tahmin edemeyeceğiniz kadar olasıdır ve olağandır.<br/><br/>güneş veya ay tutulmasını deprem riski açığa çıkardığı düşüncesi batıldır ve hiçbir bilimsel yanı yoktur. bu düşüncenin bilimsel bilgi olma şartlarına uymadığını ne kadar dil döksek dahi anlatamıyoruz çünkü bu yalanı inadına çıkıp insanlara aktarmaya devam eden çok sayıda şarlatan var. hatta bu insanların bazılarının isimlerinin başında doktor, doçent, profesör bile yazmakta ancak üzerine salladıkları konularda araştırmaları, makaleleri yok. medyumları, astrologları, hacıları, hocaları, kahinleri; hiçbiri hayatında bilimsel araştırma yapmamış, bilimsel bilgi yorumlamamış, sav bile yazmamış, ancak insanlara bu olayda olduğu gibi fiziksel bir takım olgular üzerinden ya umut ya da felaket satan şahıslardır. itibar etmeyiniz.<br/><br/><a class="b" href="/?q=bu+bilgi+yanl%c4%b1%c5%9ft%c4%b1r">bu bilgi yanlıştır</a>.
   entry_channels: bilim,haber
 - entry_name: |
-    mezun olur olmaz 3500 tl maaş isteyen mühendis
-  entry_id:  79645473
-  entry_writer: spujin
-  entry_fav_count: 23
-  entry_content: |
-    çalışanına taksimetresi açık kalmış taksi muamelesi çeken işveren beyanıdır.<br/><br/>ben, kontrolü olduğum işlerde 3500 lira maaştan aşağı hiç yeni mühendis işe başlatmadım. işverenler hepsinde de para kazandı.<br/><br/>bir gecede pavyona 5.000 lira verip de bir mühendise ayda 3500 lira maaş vermeye imtina eden adam açık söylüyorum; at hırsızıdır. genelde bu tipler büyük işadamı da olamaz.<br/><br/>bugün koç holding, tofaş gibi bir fabrika işletiyor, çalışanının tüm yasal haklarını veriyor, üzerine de başlangıç maaşı olarak en az bu rakamları verebiliyorsa; ben o kadar maaş verirsem zarar ederim diyen işveren "at hırsızı"dır.<br/><br/>bu hafta benim şantiyemde bir ekskavatör yağcısı (3 aydır yağcılık yapıyordu), jcb(kazıcı yükleyici) operatörlüğüne terfi edip 3.500 lira maaş almaya başladı.<br/><br/>bu maaşı veren yüklenici %53 tenzilatla iş yapıyor. fakat ben ne işini yamuk yaptığına, ne de kazanamıyorum diye ağlandığına şahit oldum. <br/><br/>geçiniz efendim geçiniz. eğer 3500 lira verip de zarar edecekseniz, siz kimsiniz de mühendis çalıştırıyorsunuz? kendi işinizi kendiniz görün, haddinizi bilin.<br/><br/>üçün beşin hesabını yapan bu tip adamların altında çalışacak yeni mezun mühendislere tavsiyem, böyle sinek siken tiplerin işinde çalışıp kendinizi ezdirmeyin. çok yetenekliyse gitsin kendi işini kendi görsün
-  entry_channels: anket,eğitim,ekonomi
-- entry_name: |
-    yemeksepeti'ni bitirecek proje
-  entry_id:  79667416
-  entry_writer: napipdurun
-  entry_fav_count: 22
-  entry_content: |
-    harita üzerinden gps yardımı ile moto-kurye'nin nerede olduğunu canlı gösteren sistemi kim kurarsa yemeksepeti'ni bitirir.
-  entry_channels: anket,teknoloji,yeme-içme
-- entry_name: |
     aslan burcu kadını
   entry_id:  79668054
   entry_writer: begumblack
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     bencil değildir hatta başkaları üzülmesin diye kendini üzer. enayinin önde gidenidir birinden samimiyet görsün hemen aptal gibi yardim edip dost olmaya çalışır. ama kimse ona kotu gununde yardim etmez islerin icinden tek basina siyrilmaya calisir. kıskanç değildir başkaları adına mutlu olur. herkesin iyi niyetli olduğunu zanneder herkese de iyi niyetli davranır. çünkü salak olduğu icin. arkasından dönen isleri uğradığı haksızlıkları öğrenince de gidip sesini çıkarmaz öylece iletişimini keser yapayalnız kalır. ortamın enayisidir. görünmez, kendi halinde takılır. başına gelenlerden dolayi kimseyle konusmak gorusmek istemeyen kimseye bulaşmayan yaşadıklarından dolayı kimseye güvenemeyen akilli olmayan beceriksiz sıradan bir kimsedir. kimsenin onu anlamadığını düşünür halbuki daha kendisi bile kendisini ve ne istediğini anlamamıştır. duygularını belli edemez içinde saklar bu yüzden bazen manyak gibi görünür. aptal bi burçtur ve bunun da farkındadır. bunlari da kendine bu şekilde yazarak itiraf eder. oh be rahatladım.
-  entry_channels: ilişkiler
-- entry_name: |
-    dini inançlarım nedeniyle işten çıkarılmam
-  entry_id:  79667618
-  entry_writer: perkins tp
-  entry_fav_count: 17
-  entry_content: |
-    benim inancıma göre de pzrtesi, çarsamba, cuma ve pazar çalışmak bana yasak üstelik bu günlerde çift maaş alma zorunluluğu var. <br/><br/>ben de buradan sesleniyorum, hakkımı yemeyin, zorla beni çalıştırmayın, sizin yüzünüzden cehenneme gideceğim, hak hukuk adalet ve bilimum şeylerden istiyorum. <br/><br/>dinimiz amin.
-  entry_channels: 
-- entry_name: |
-    kadınsız hayatın daha güzel olması
-  entry_id:  79654521
-  entry_writer: yol yok yordam yok
-  entry_fav_count: 15
-  entry_content: |
-    eşcinsel olmadan kadınları iradi olarak hayatından çıkararak mutlu yaşamak imkansız mıdır? bu bir kadın düşmanlığı mıdır? yoksa sıradışı, denenmemiş bir yol mudur? şu cahil küfürbazlar gitse de kaliteli kaliteli masaya yatırsak.
   entry_channels: ilişkiler
 - entry_name: |
     17 kadının tek erkekele ilişkiye girmesi
   entry_id:  79664131
   entry_writer: du kannst mich mal am arsch lecken
-  entry_fav_count: 15
+  entry_fav_count: 18
   entry_content: |
     demek ki dünyanın en eski mesleği <a class="b" href="/?q=fahi%c5%9felik">fahişelik</a> değil <a class="b" href="/?q=gold+digger">gold digger</a>lıkmış.<br/><br/>edit : forbes’e göre çalışarak milyarder olan her yüz 100 kişiden sadece 2 si kadın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.forbes.com/2010/06/18/richest-women-billionaires-entrepreneurs-forbes-woman-power-women-oprah-winfrey.html" title="https://www.forbes.com/2010/06/18/richest-women-billionaires-entrepreneurs-forbes-woman-power-women-oprah-winfrey.html">kaynak</a><br/><br/>demek ki sapyoseksüellik hikaye.
   entry_channels: ilişkiler,bilim,tarih
+- entry_name: |
+    öğretmenlik alan bilgisi testi
+  entry_id:  79667150
+  entry_writer: thou shalt die
+  entry_fav_count: 16
+  entry_content: |
+    benim dört sene önce girdiğim ingilizce alan sınavında bir romandan cümle verip bu cümle hangi yazarın romanında geçmektedir gibi bir soru sorulmuştu. doğru yapmıştım ama neyi ölçmüştü bu soru acaba?
+  entry_channels: eğitim
+- entry_name: |
+    kadınsız hayatın daha güzel olması
+  entry_id:  79654521
+  entry_writer: yol yok yordam yok
+  entry_fav_count: 16
+  entry_content: |
+    eşcinsel olmadan kadınları iradi olarak hayatından çıkararak mutlu yaşamak imkansız mıdır? bu bir kadın düşmanlığı mıdır? yoksa sıradışı, denenmemiş bir yol mudur? şu cahil küfürbazlar gitse de kaliteli kaliteli masaya yatırsak.
+  entry_channels: ilişkiler
 - entry_name: |
     ruh halini bir duvar yazısıyla anlat
   entry_id:  79645414
@@ -290,6 +274,14 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/e1671398538" title="https://eksiup.com/e1671398538">kaç rüyadır uçamıyorum</a>
   entry_channels: anket,ilişkiler
+- entry_name: |
+    köylerdeki komik lakaplar
+  entry_id:  79662014
+  entry_writer: elointitelente
+  entry_fav_count: 14
+  entry_content: |
+    babaannemin köyünde götçüler diye anılan bir sülale var :d nedenini kimse söylemiyor
+  entry_channels: anket
 - entry_name: |
     mutlu olmak için gerekenler
   entry_id:  79650456
@@ -307,45 +299,61 @@ data:
     bugün çok garipti be sözlük. çok çalıştım her zamanki gibi asla şikayet etmeden, ailem ziyaretime gelecekti; geldiler de. sinirlenmiştim iletişimsizlik olduğu için annemi görünce hastanenin önünde 50 metreden “anne” diye bağırdım. yanına gittiğimde kötü haber aldığında eli titreyen bir anne buldum. amcamın çok feci bir kaza geçirdiğini öğrendim. traktör devrilmiş ve üzerinden geçmişti biraz da. o an öldüğünü veya ölmek üzere olduğunu düşündüm. ama sakin kalmam lazımdı, mantıklı düşünmem lazımdı. çünkü ben bu tarz anlar için yetiştirilmiştim üniversite yıllarımda. ama babam, halalarım gerçekten çaresiz duruyorlardı. <br/><br/>ardahan’da yaşıyor baba tarafım. amcam da orada kaza geçirip devlet hastanesine götürülmüş, durumu çok ağırmış. ama bu akşamın gerçek efsanesi doktor musa bey gözünü karartıp amcamı ameliyata almaya karar vermiş. yaptığı şeyleri burada yazmaya kalksam sabah olur belki de. genel durumunu iyi hale getirmişler ama amcamın kaburgaları paramparça olup akciğerini delik deşik etmiş. iyi bir göğüs cerrahisi takımına ihtiyaç duyuyordu yani anlayacağınız...<br/><br/>civar şehirlerden ya trabzon’a ya da erzurum’a sevk edilmesi gerektiğini söylemişler orada en olmadı operasyonunu ardahan’da yapacaklarını söylemişler. <br/><br/>yemeğe götürme sözüm vardı ailemi. sözümü de tuttum bir yandan yanımda okuldan yakın arkadaşlarım da vardı kendi kendimize plan yapmaya, büyük hocaları ve bize yardım edecek insanları aramaya başladık. babamın çaresizce bana baktığını gördüm o an bir ruhen sendeledim ama ailemin bana olan güvenini boşa çıkaramazdım. her zamanki gibi ilk abime ulaşmaya çalıştım ama onun da eli kolu bağlıydı. kendime dedim ki “oğlum amcana nolursa olsun elinden geleni yapmak zorundasın.” sonrasında acil hocalarıma ulaştım erzurum bağlantıları vardı ve amcama acil tedavi için yardımcı olabilirlerdi ki oldular da. bu akşam tam bir teyakkuz hali vardı etrafımda ve ardahan 112’sen görüştüğüm bir doktor abi amcama yapılanları anlatırken gözlerim doldu bizimkiler görmesin diye masadan kalkıp uzakta bir yerde gözlerimin neminin geçmesini bekledim.<br/><br/>en sonunda gerekli her şeyi başarmış bir halde içimde garip bir huzurla eve girdim yarım saat önce. bu akşam bana iyilik yapan insanların hepsini tek tek aklıma yazdım. allah nasip ederse de ömrüm olursa hepsine yaptıklarını misliyle geri vereceğim çünkü bir can için sağlıkçıların ne kadar çırpındığını gördüm. <br/><br/>varsın bize sözlükte sövsünler, varsın bizi acillerde dövsünler, yaralasınlar, öldürsünler. <br/><br/>yılmayacağım ulan. yıldıramayacaklar. herkese ama herkese ettiğim yemin doğrultusunda davranacağım. vazgeçmeyeceğim insan sağlığına verdiğim değerden. <br/><br/>bu gece 1’de babasının beyninde kanser olduğunu söylediğim adam ona durumu dürüst ve makul şekilde aktardığımdan dolayı bana sarıldığı için vazgeçmeyeceğim. bu akşam amcam için uğraşan insanlar için vazgeçmeyeceğim. ailem için, sevdiğim için ailem dediğim insanlar için, devletim için vazgeçmeyeceğim. bu meselede tek kalsam bile ölene kadar insanların sağlığı için savaşmaya devam edeceğim bu da benim buraya yazılı sözüm olsun sözlük.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    erkeklerin memeye olan düşkünlüklerinin sebebi
-  entry_id:  79655748
-  entry_writer: albunea aura
-  entry_fav_count: 8
+    astrolojiye inanmayan ve fal baktırmayan kız
+  entry_id:  79651869
+  entry_writer: gallifreyfallsnomore
+  entry_fav_count: 9
   entry_content: |
-    90b falan diyenleri görünce memeye değil de daha kadın bile görmemişken sallamaya düşkünler gibi geliyor.<br/><br/>ayılıp bayıldıkları <a class="b" href="/?q=victoria%27s+secret">victoria's secret</a> mankenlerinin çoğu 75c giyer, 75c hatta 75d ise 90b’den büyük bir memedir. <br/>memeye düşkünüz diyip kendi omuzlarından daha geniş omuzlu ve memesiz kadınlara mı talipler hani ne anlatıyorlar bir de hararetli hararetli tartışıyorlar çok komik geliyor.<br/><br/>bari bahsettiğiniz şeyi bilin abicim hadi ya.
-  entry_channels: anket,ilişkiler
+    her daim ve ömrüm boyunca bendim. ama arkadaş ortamlarında açıkça söylemekten çekinirdim, çünkü hemen kibirli diye damgalanıp dışlanacağımı bilirdim.<br/><br/>bir kez arkadaşlar falcıya giderken eşlik ettim. "sen baktırmayacak mısın?" dediler, "yok" dedim. oradan en yakın arkadaşım atlayıp "o böyle şeylere inanmaz" dedi. aralarında süper zeki olan ve o sırada harvard'da üniversite okuyan biri bile vardı ama o sidik kokulu bodrum katına fal baktırmaya gelmişti işte. <br/><br/>not: yürümeyiniz, orta yaşlıyım.
+  entry_channels: ilişkiler
 - entry_name: |
     meral akşener
   entry_id:  79650719
   entry_writer: beyazmantoluadam
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     aramızda bazı gerizekalılar hala abdullah gül diyor arkadaş ya.<br/>bunu diyen adam cahildir , ak parti tabanını zerre tanımıyordur.<br/>abdull gül ve rte arasında kalsa akp tabanı, koşulsuz şartsız hepsi reise verir oyu<br/><br/>lan onu geçtim amk, chp lilerden bile rte ye oy çıkar, bari gerçeğine verek çakmaya gerek yok diye.<br/><br/>siz siyaset yorumlamayın amk
   entry_channels: siyaset
 - entry_name: |
-    öğretmenlik alan bilgisi testi
-  entry_id:  79668498
-  entry_writer: zifir nikotin karbon
+    koray aydın'nın liderimiz devlet bahçeli demesi
+  entry_id:  79667197
+  entry_writer: sticky
   entry_fav_count: 6
   entry_content: |
-    öabt sınavı daha yapılmadı. 5 ağustosta. sırf öğretmen kötülemek için yapılmış haber. ekşiciler durur mu? hayır
-  entry_channels: eğitim
+    (bkz: <a class="b" href="/?q=i%c3%a7erde+misin+yavru+kurt">içerde misin yavru kurt</a>) gaf değil bilinçaltına işlemiş adamın, insanın fikri neyse zikri de odur
+  entry_channels: siyaset,tv,haber
 - entry_name: |
-    kredi borcundan dolayı evinden olan çiftçi
-  entry_id:  79664660
-  entry_writer: ceyfi
+    28 temmuz 2018 izmir'de garip yanık kokusu
+  entry_id:  79669505
+  entry_writer: tarquin
+  entry_fav_count: 5
+  entry_content: |
+    durun geldim olayı açıklıyorum. <br/>sasalı’da açık alanda yangın var. <br/>yaklaşık 4-5 saattir balkondan izliyorum. <br/>birsürü itfaiye aracı da söndürmeye çalışıyor. <br/>rüzgar da kuzeyden estiği için tüm dumanı ve kokuyu şehre taşıyor.
+  entry_channels: haber
+- entry_name: |
+    kadir mısıroğlu
+  entry_id:  79664657
+  entry_writer: allasiz kozmonot
   entry_fav_count: 3
   entry_content: |
-    akp'yi sevmem, mhp'yi de sevmem, chp'yi de sevmem hatta hdp'yi de sevmem ama bunların hepsine bir nebze de olsa katlanır kufretmem. sana ediyorum sevgili suser. bu hale düşmüş adamın hali seni güldürüyor ise seninki muhaliflik değil seninki başka bir saçmalık.<br/><br/>tanim: ayip
-  entry_channels: haber,ekonomi
+    ptt ,bu herif adına pul bastırmış. atatürk'e,silah arkadaşlarına ve kurtuluş savaşına küfredip duran bu herif adına pul bastırmak nedir aq.
+  entry_channels: siyaset,tarih,haber
 - entry_name: |
-    her gün 4.20'ye alarm kurmak
-  entry_id:  79668189
-  entry_writer: chuckal
+    geceye bir şiir bırak
+  entry_id:  79645682
+  entry_writer: dilore
   entry_fav_count: 3
   entry_content: |
-    dolar düşmez oralara. hayal peşinde koşmaktır.
-  entry_channels: 
+    ah, kimselerin vakti yok<br/>durup ince şeyleri anlamaya<br/>gülten akın.
+  entry_channels: edebiyat
+- entry_name: |
+    aşık olduğun kişiye bir şarkı bırak
+  entry_id:  79647376
+  entry_writer: saat uc
+  entry_fav_count: 3
+  entry_content: |
+    ismail yk allah belanı versin de benden gelsin o halde.
+  entry_channels: anket,ilişkiler,müzik
 - entry_name: |
     psikolojinin vücuda etkisi
   entry_id:  79665688
@@ -355,14 +363,6 @@ data:
     (bkz: <a class="b" href="/?q=anksiyete+bozuklu%c4%9fu">anksiyete bozukluğu</a>)<br/><br/>(bkz: <a class="b" href="/?q=panik+atak">panik atak</a>)<br/><br/>daha gecen geldi bi, bilmesem kalp krizi geliyor sanacagim. elim ayagim uyusmus, kalbim 200 atiyor. bana mi oyle geliyor diye arkadasa yoklattim, hakikatten 200 atiyor ama buna sebep olacak bir fizyolojik sikinti yasamadim. tamamen psikolojinin vucuda etkisi iste.
   entry_channels: sağlık
 - entry_name: |
-    28 temmuz 2018 izmir'de garip yanık kokusu
-  entry_id:  79668726
-  entry_writer: tekopaco
-  entry_fav_count: 2
-  entry_content: |
-    akşam saatlerine doğru poligon'da hissedip, hatay üçyol taraflarında devam eden bir yanık kokusu var havada. özellikle metronun içi bu kokuyla dolmuş bulunmakta. nedir ne değildir bilen duyan varsa bilgilendirsin yav.
-  entry_channels: haber
-- entry_name: |
     sözlükçülerin karayolundaki hız rekorları
   entry_id:  79667946
   entry_writer: mdrntrkyninolsmu
@@ -371,6 +371,22 @@ data:
     bugatti veyron, ışık hızı.
   entry_channels: anket,ekşi-sözlük,otomotiv,motosiklet
 - entry_name: |
+    kredi borcundan dolayı evinden olan çiftçi
+  entry_id:  79665488
+  entry_writer: glen
+  entry_fav_count: 1
+  entry_content: |
+    yıllardır bakın aynı gemideyiz gelin yapmayın etmeyin şu tayyip efendiye oy vermeyin dedikte noldu? vatan haini, dinsiz, fetöcü ilan edildik. şimdi tercihlerinin sonuçları ile yüzleşme zamanı geldi. o yüzden ben de üzülmüyorum ama bu hale düştükleri içinde sevinmiyorum tabi. umarım akıllanırlar ve bundan sonra mantıklı şekilde düşünerek etrafındaki insanları dinleyerek oylarını kullanırlar.
+  entry_channels: haber,ekonomi
+- entry_name: |
+    her gün 4.20'ye alarm kurmak
+  entry_id:  79669857
+  entry_writer: simok wid evri dey
+  entry_fav_count: 1
+  entry_content: |
+    bilmeyen arkadaşlar için yazar 420 cannabis kültürüne bir gönderme yapmış.
+  entry_channels: sağlık
+- entry_name: |
     şu anda çalan şarkı
   entry_id:  79657626
   entry_writer: pratisyen docent
@@ -378,22 +394,6 @@ data:
   entry_content: |
     en anlamlı, en güzel bakan kadına ben bestelesem ve yazsam, bunu yazmak isterdim<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=e2G8EWy-plM&amp;app=desktop" title="https://www.youtube.com/watch?v=e2G8EWy-plM&amp;app=desktop">https://www.youtube.com/…?v=e2g8ewy-plm&amp;app=desktop</a><br/>.
   entry_channels: anket,müzik
-- entry_name: |
-    koşu bandında 20 hızla koşamayıp erkeğim demek
-  entry_id:  79663075
-  entry_writer: dondoldenyus
-  entry_fav_count: 0
-  entry_content: |
-    at mıyız olm biz niye 20 km hızla koşalım?
-  entry_channels: 
-- entry_name: |
-    koray aydın'nın liderimiz devlet bahçeli demesi
-  entry_id:  79668079
-  entry_writer: hayat kadar sakaci olmak isteyen adam
-  entry_fav_count: 0
-  entry_content: |
-    bu ülkedeki siyasetçilerin hepsinden nefret ediyorum. hepsi topluca biz halkla dalga geçiyor. parti, lider fark etmeksizin hepsi aynı. hepimiz de bu insanlara oy veriyoruz. her şeyi geçtim, bizi temsil etsin diye oy verdiklerimiz meclise gitmiyor. sen meclise gitmeyeceksen ne yapacaksın? üniversitedeki birçok derste devamsızlık belli bir sayıyı geçince dersten kalıyorsun. bence milletvekillerinde de buna benzer bir durum olmalı. belli bir sayıda devamsızlık yapanın milletvekilliği düşmeli.
-  entry_channels: siyaset,tv,haber
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  79656765
