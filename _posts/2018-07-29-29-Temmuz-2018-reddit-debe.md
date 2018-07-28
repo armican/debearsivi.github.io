@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tJLYRWrOgkILEFnBYd4r13CYncyIkTVwNY_w9ocCvT0.jpg?s=411d265af5e538df552afdf3d24f87f7 frameborder=0>
 - entry_name: |
-    A fan gave Cam Newton a big box of Bojangles fried chicken
-  entry_id: 92ep6t
-  entry_content: |
-    <iframe src=https://v.redd.it/glgvhtwb3jc11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Behind the scenes of a chocolate ad.
   entry_id: 92gfd9
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92gn03
   entry_content: |
     <img src=https://i.redditmedia.com/7M2_8iVv862CECMOQ8bFbzrEmVzN-XfrEyaq6lUb4PM.jpg?s=58f0519c95d1a2852f89160c26f57a41 frameborder=0>
+- entry_name: |
+    Doomgal
+  entry_id: 92gbo9
+  entry_content: |
+    <img src=https://i.redditmedia.com/I67lb8KKsHunsKr9ggpOKNXTlmH9t8LRy8qgFNSsQlc.jpg?s=5cfab4646db8c03d89a2ed495bcbdc7b frameborder=0>
 ---
