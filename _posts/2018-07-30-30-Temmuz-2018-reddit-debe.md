@@ -18,11 +18,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/tcnsc12d6rc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Surface tension.
-  entry_id: 92nuwv
-  entry_content: |
-    <img src=https://i.redditmedia.com/2MNu2rjETEatOy3NVhP2k4GA60GZ_9_FxeCFvFn429E.jpg?s=3a1a96b04287eeec53b8f743acf67118 frameborder=0>
-- entry_name: |
     Pub's Hilarious Sign For Its Neighbours
   entry_id: 92rzj9
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92pefr
   entry_content: |
     <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
+- entry_name: |
+    I did it. I finally told someone to get off of their phone during a movie.
+  entry_id: 92t735
+  entry_content: |
+    null
 ---
