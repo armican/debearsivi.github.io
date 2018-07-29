@@ -163,11 +163,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yRiR2GELDjLA-AU8AkUkEsTBzO7qwfHF6nGCwAsVJN0.jpg?s=31ece620f8df2d55973b47bde8b70908 frameborder=0>
 - entry_name: |
-    What’s the scariest story you know that is 100% true?
-  entry_id: 92ocru
-  entry_content: |
-    null
-- entry_name: |
     Reporter Nails Handshake
   entry_id: 92owru
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92r9ul
   entry_content: |
     <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
+- entry_name: |
+    Manliest sip of all time
+  entry_id: 92oeyy
+  entry_content: |
+    <img src=https://i.redditmedia.com/yqtp6gGCMD1BFBtePNOygtVTevhZm16IvY4Iv0JopvE.jpg?s=757fde6bc4e5459c7435776b6d1d8c0e frameborder=0>
 ---
