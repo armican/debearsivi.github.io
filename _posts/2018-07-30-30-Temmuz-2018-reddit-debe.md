@@ -48,11 +48,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWeepyCompassionateEeve&url=https%3A%2F%2Fgfycat.com%2FWeepyCompassionateEeve&image=https%3A%2F%2Fthumbs.gfycat.com%2FWeepyCompassionateEeve-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=805 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    There's a scene in Forest Gump showing that he made a ton of money from Apple stock purchased in the 70s. When we saw that scene in 1994 we all thought  too bad we missed the boat on that one.
-  entry_id: 92oxlm
-  entry_content: |
-    null
-- entry_name: |
     Good Guy steam
   entry_id: 92sn0r
   entry_content: |
@@ -123,11 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BhotOGOvNi7UihIGOcuqGtiOTf7hrlz3MJDX89WuKzQ.jpg?s=fe65c88d05ee7954ae5e3101b049aa44 frameborder=0>
 - entry_name: |
-    It almost seems intentional
-  entry_id: 92ozd2
-  entry_content: |
-    <img src=https://i.redditmedia.com/kZ2pUW_llp3jAfRHq4Dq31MT9B5XksdKhvcjkiOzdBQ.jpg?s=c7b51be965bc96f9e8483624db3ef9e4 frameborder=0>
-- entry_name: |
     LPT: You can steal shit from the mall
   entry_id: 92p3o1
   entry_content: |
@@ -183,11 +173,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LAbz4ow3lIaxQR1SAQLIPkPFS0M5npMg9CuzZrXqg4M.jpg?s=508b938ae5d067dc0797cb6b15aff789 frameborder=0>
 - entry_name: |
-    Reporter Nails Handshake
-  entry_id: 92owru
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/oOzLujqFSzw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     Sawcon it
   entry_id: 92r14x
   entry_content: |
@@ -233,10 +218,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 92ozvj
-  entry_content: |
-    <img src=https://i.redditmedia.com/pHXc822oL5FABYDGrt_in2YwpqOqsxN3pRXEuh7PtCQ.jpg?s=232624eb9fb45252f2ac4ea6c6ca0ba8 frameborder=0>
-- entry_name: |
     Snapshot of my psycho cosplay ready for comic con
   entry_id: 92tbi2
   entry_content: |
@@ -251,4 +232,24 @@ data:
   entry_id: 92r9ul
   entry_content: |
     <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
+- entry_name: |
+    Hank Hill would not approve.
+  entry_id: 92u4mz
+  entry_content: |
+    <img src=https://i.redditmedia.com/1SRY676TrxQ-EbnotQHZec5EJCx11-cgoRbutCDSr7o.jpg?s=c741e44c1a29c59bc67412cb78002288 frameborder=0>
+- entry_name: |
+    Blue raspberry = politics
+  entry_id: 92pefr
+  entry_content: |
+    <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
+- entry_name: |
+    Send help, furniture shrinking.
+  entry_id: 92rkx2
+  entry_content: |
+    <img src=https://i.redditmedia.com/uvWhJ7ZavAj34hxGMAqs-YFBx3lCjHVA_nYLyJ4eXt0.jpg?s=6b0df4d66b24f24d4c58ee3006b2353a frameborder=0>
+- entry_name: |
+    Tinder is hard
+  entry_id: 92r5xi
+  entry_content: |
+    <img src=https://i.redditmedia.com/S7dwY4j9VU3p2hdyUfF_xRUv9aFV1PWWl7eiq5O0Fws.jpg?s=931b770ecb52859b8f09d262d5408fd4 frameborder=0>
 ---
