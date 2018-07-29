@@ -23,30 +23,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2MNu2rjETEatOy3NVhP2k4GA60GZ_9_FxeCFvFn429E.jpg?s=3a1a96b04287eeec53b8f743acf67118 frameborder=0>
 - entry_name: |
-    How to kill your kid without really trying.
-  entry_id: 92ojv1
-  entry_content: |
-    <img src=https://i.redditmedia.com/zXbNgnbkW-XNIhJDX88GDDi0QUayWTrYwKtD4SQpEhw.jpg?s=57f71423cfcb21f2f3afd2e00a18e01a frameborder=0>
-- entry_name: |
     Pub's Hilarious Sign For Its Neighbours
   entry_id: 92rzj9
   entry_content: |
     <img src=https://i.redditmedia.com/XHEX4kFr58_9EPkdLdlCy2UJo5zT-gHId4cqzbp7Z_4.jpg?s=366691c9b5bfab6b4cf968e95cc3c7c6 frameborder=0>
 - entry_name: |
-    Lego Stop Motion
-  entry_id: 92nq2a
+    How to kill your kid without really trying.
+  entry_id: 92ojv1
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGleamingMaleCreature&url=https%3A%2F%2Fgfycat.com%2FGleamingMaleCreature&image=https%3A%2F%2Fthumbs.gfycat.com%2FGleamingMaleCreature-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=268 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+    <img src=https://i.redditmedia.com/zXbNgnbkW-XNIhJDX88GDDi0QUayWTrYwKtD4SQpEhw.jpg?s=57f71423cfcb21f2f3afd2e00a18e01a frameborder=0>
 - entry_name: |
     Moms just trying to make sure she doesn’t make the same mistake
   entry_id: 92ps3v
   entry_content: |
     <img src=https://i.redditmedia.com/9iHNBSuQShP_l9nkIQOHVfVolDZZfzoi-hZylvgIv_w.jpg?s=c4b592ba9104812cb45b2878715518fb frameborder=0>
 - entry_name: |
+    TIL Kanye West once refused to continue performing because two members of the audience wouldn’t rise to their feet. Both fans had disabilities that made it impossible to stand.
+  entry_id: 92tk8t
+  entry_content: |
+    <img src=https://i.redditmedia.com/vOFjk6DC_UGJ0-WJ_dWWoIH4WDDBe-Hrgto-dj0EXwk.jpg?s=e66aca2aa63a7589d37db52acda9d13e frameborder=0>
+- entry_name: |
     This guy is a ninja!
   entry_id: 92pyhf
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWeepyCompassionateEeve&url=https%3A%2F%2Fgfycat.com%2FWeepyCompassionateEeve&image=https%3A%2F%2Fthumbs.gfycat.com%2FWeepyCompassionateEeve-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=805 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Grand Canyon Fake Out
+  entry_id: 92u790
+  entry_content: |
+    <img src=https://i.redditmedia.com/ztfGiELv3lWJA_kyXtlDVGSqvtlhYDubjmeNi1uiRvE.jpg?s=788089561a034d61be1a348964612e5c frameborder=0>
 - entry_name: |
     There's a scene in Forest Gump showing that he made a ton of money from Apple stock purchased in the 70s. When we saw that scene in 1994 we all thought  too bad we missed the boat on that one.
   entry_id: 92oxlm
@@ -57,11 +62,6 @@ data:
   entry_id: 92sn0r
   entry_content: |
     <img src=https://i.redditmedia.com/3t3xxujRdHvyTKFJ6fJzWudt7qsk4bcxVHv4to4zMoA.jpg?s=a35c22077fa8ec11f76b01ba758d2c41 frameborder=0>
-- entry_name: |
-    TIL Kanye West once refused to continue performing because two members of the audience wouldn’t rise to their feet. Both fans had disabilities that made it impossible to stand.
-  entry_id: 92tk8t
-  entry_content: |
-    <img src=https://i.redditmedia.com/vOFjk6DC_UGJ0-WJ_dWWoIH4WDDBe-Hrgto-dj0EXwk.jpg?s=e66aca2aa63a7589d37db52acda9d13e frameborder=0>
 - entry_name: |
     The way this chile ripened
   entry_id: 92oumj
@@ -88,16 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jRS-q588dQfhZR-K3Xi0tCzc2h7kCz90CJyA5b51V2U.jpg?s=abb666ed8d970c0f887082fc145d2f96 frameborder=0>
 - entry_name: |
-    Lil Dude Playing With His Balloon In Italy!
-  entry_id: 92q17f
-  entry_content: |
-    <iframe src=https://v.redd.it/pmsvj04klrc11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Saw this abandoned ship on my way to Toronto earlier this year.
-  entry_id: 92rj1z
-  entry_content: |
-    <img src=https://i.redditmedia.com/trgu5Cf0ggMt0pd5RiOrA2WBYCVSJLc_PHprdCeKR18.jpg?s=764301b029ac6d782131189ac143ee6b frameborder=0>
-- entry_name: |
     Julius Caesar Realizes Everyone Has a Knife Except Him (44 BC)
   entry_id: 92rl58
   entry_content: |
@@ -108,20 +98,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nVMWTRhnDE60Dz3RjDc2rne2gNRRRRWKGOktfWJsQXc.jpg?s=02c2a0a4caa907ce7abbcc119d6b05a4 frameborder=0>
 - entry_name: |
+    Lil Dude Playing With His Balloon In Italy!
+  entry_id: 92q17f
+  entry_content: |
+    <iframe src=https://v.redd.it/pmsvj04klrc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Saw this abandoned ship on my way to Toronto earlier this year.
+  entry_id: 92rj1z
+  entry_content: |
+    <img src=https://i.redditmedia.com/trgu5Cf0ggMt0pd5RiOrA2WBYCVSJLc_PHprdCeKR18.jpg?s=764301b029ac6d782131189ac143ee6b frameborder=0>
+- entry_name: |
     This is my great-great-great-great grandfather, William, 1860s.
   entry_id: 92psap
   entry_content: |
     <img src=https://i.redditmedia.com/nKJYBG_ue7QaM4N-wrfdZBdHqNI1bFdiiC6eZxRf334.jpg?s=67dca4a4ba033710b0c317836c40aac3 frameborder=0>
-- entry_name: |
-    Grand Canyon Fake Out
-  entry_id: 92u790
-  entry_content: |
-    <img src=https://i.redditmedia.com/ztfGiELv3lWJA_kyXtlDVGSqvtlhYDubjmeNi1uiRvE.jpg?s=788089561a034d61be1a348964612e5c frameborder=0>
-- entry_name: |
-    It almost seems intentional
-  entry_id: 92ozd2
-  entry_content: |
-    <img src=https://i.redditmedia.com/kZ2pUW_llp3jAfRHq4Dq31MT9B5XksdKhvcjkiOzdBQ.jpg?s=c7b51be965bc96f9e8483624db3ef9e4 frameborder=0>
 - entry_name: |
     Dance of the sugar plum fairy in doodles
   entry_id: 92sj7b
@@ -132,6 +122,11 @@ data:
   entry_id: 92svjv
   entry_content: |
     <img src=https://i.redditmedia.com/Sfe_L1ljSVvbW90IJE0JpdSMlHuIaBQNAJeq5JKzYfo.jpg?s=792a39bf2df9245e08c8bb2f91408b30 frameborder=0>
+- entry_name: |
+    It almost seems intentional
+  entry_id: 92ozd2
+  entry_content: |
+    <img src=https://i.redditmedia.com/kZ2pUW_llp3jAfRHq4Dq31MT9B5XksdKhvcjkiOzdBQ.jpg?s=c7b51be965bc96f9e8483624db3ef9e4 frameborder=0>
 - entry_name: |
     LPT: You can steal shit from the mall
   entry_id: 92p3o1
@@ -148,6 +143,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/m8TTui9OlSV23O4qfps_h7S1Biv2W_s6SHCKVhEgUeE.jpg?s=c92c35468629ab0fb53db8cd8b491754 frameborder=0>
 - entry_name: |
+    Mechanical version of Pong
+  entry_id: 92uig8
+  entry_content: |
+    <iframe src=https://v.redd.it/9xjjh5tquvc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     squidward is just a professional
   entry_id: 92q7mu
   entry_content: |
@@ -162,6 +162,16 @@ data:
   entry_id: 92ocru
   entry_content: |
     null
+- entry_name: |
+    Meteorite that fell in China
+  entry_id: 92ufpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/3Iki1eBWPhlE9R0aP4LaNWdOBLL1phfWK5Ryk24rcvg.jpg?s=577dd7573ff02e87c1fd3d2dcf9323bf frameborder=0>
+- entry_name: |
+    The amount of train tickets I’ve collected by commuting to university for one year
+  entry_id: 92u5pc
+  entry_content: |
+    <img src=https://i.redditmedia.com/AnpUUeQdES2A-y9IQyVnTzcLkbGmv913w2u0H-41uO0.jpg?s=18b76bec8c43da11891c79707e7a5aa0 frameborder=0>
 - entry_name: |
     Reporter Nails Handshake
   entry_id: 92owru
@@ -183,24 +193,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7pOT9rJQGy1-breagrftvlyxj-JxqC3KCAAocYM7kTA.jpg?s=d5aabfba0e4b484e9816ac44d9a53f40 frameborder=0>
 - entry_name: |
-    In The Little Mermaid (1998) when King Triton is introduced, you can see Mickey, Donald, Goofy and Kermit the Frog in the crowd, underwater...
-  entry_id: 92pqcc
-  entry_content: |
-    <img src=https://i.redditmedia.com/XQJlGcthNO-zTIb_XjKGEwWns-3m8gdSBTSRoGt7_fs.jpg?s=f2b29242288fe026136c64dcfabe009c frameborder=0>
-- entry_name: |
     Sawcon it
   entry_id: 92r14x
   entry_content: |
     <img src=https://i.redditmedia.com/l8fCDSG_C5tYD5QVDH_WAv-7DM3punfOFi-PeTaKV5I.jpg?s=669676b918acab7188346c3ac1150523 frameborder=0>
 - entry_name: |
-    🔥 This owl's camouflage.
-  entry_id: 92q2k4
+    In The Little Mermaid (1998) when King Triton is introduced, you can see Mickey, Donald, Goofy and Kermit the Frog in the crowd, underwater...
+  entry_id: 92pqcc
   entry_content: |
-    <img src=https://i.redditmedia.com/hH2bG6BFK2ayJDu_BTEjt3W8ADuVJUcuJmHODRTNB9c.jpg?s=d3f502403697157e0946bfc0115883aa frameborder=0>
-- entry_name: |
-  entry_id: 92ozvj
-  entry_content: |
-    <img src=https://i.redditmedia.com/pHXc822oL5FABYDGrt_in2YwpqOqsxN3pRXEuh7PtCQ.jpg?s=232624eb9fb45252f2ac4ea6c6ca0ba8 frameborder=0>
+    <img src=https://i.redditmedia.com/XQJlGcthNO-zTIb_XjKGEwWns-3m8gdSBTSRoGt7_fs.jpg?s=f2b29242288fe026136c64dcfabe009c frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 92soah
@@ -212,43 +213,42 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hwkljy3basc11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Manliest sip of all time
-  entry_id: 92oeyy
+    🔥 This owl's camouflage.
+  entry_id: 92q2k4
   entry_content: |
-    <img src=https://i.redditmedia.com/yqtp6gGCMD1BFBtePNOygtVTevhZm16IvY4Iv0JopvE.jpg?s=757fde6bc4e5459c7435776b6d1d8c0e frameborder=0>
+    <img src=https://i.redditmedia.com/hH2bG6BFK2ayJDu_BTEjt3W8ADuVJUcuJmHODRTNB9c.jpg?s=d3f502403697157e0946bfc0115883aa frameborder=0>
+- entry_name: |
+  entry_id: 92ozvj
+  entry_content: |
+    <img src=https://i.redditmedia.com/pHXc822oL5FABYDGrt_in2YwpqOqsxN3pRXEuh7PtCQ.jpg?s=232624eb9fb45252f2ac4ea6c6ca0ba8 frameborder=0>
 - entry_name: |
     Shelter cat chooses owner
   entry_id: 92rb54
   entry_content: |
     <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Blue raspberry = politics
-  entry_id: 92pefr
+    Getting ready to fight this cop, WCGW?
+  entry_id: 92tr0v
   entry_content: |
-    <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
+    <iframe src=https://v.redd.it/e9btlelz0vc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Manliest sip of all time
+  entry_id: 92oeyy
+  entry_content: |
+    <img src=https://i.redditmedia.com/yqtp6gGCMD1BFBtePNOygtVTevhZm16IvY4Iv0JopvE.jpg?s=757fde6bc4e5459c7435776b6d1d8c0e frameborder=0>
+- entry_name: |
+    Pawn shop buys violin for $50, finds out it's worth $250,000
+  entry_id: 92u18o
+  entry_content: |
+    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
 - entry_name: |
     “It’s all yours bud!”
   entry_id: 92r9ul
   entry_content: |
     <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
 - entry_name: |
-    Tinder is hard
-  entry_id: 92r5xi
+    Blue raspberry = politics
+  entry_id: 92pefr
   entry_content: |
-    <img src=https://i.redditmedia.com/S7dwY4j9VU3p2hdyUfF_xRUv9aFV1PWWl7eiq5O0Fws.jpg?s=931b770ecb52859b8f09d262d5408fd4 frameborder=0>
-- entry_name: |
-    How to bribe a lawmaker 101
-  entry_id: 92raha
-  entry_content: |
-    <img src=https://i.redditmedia.com/1aQ9K2BH9wdi-kfbPAUIYvjihDCBDLfzFvAtVS7p8QE.jpg?s=22626efb74db11d26515d04e7db77144 frameborder=0>
-- entry_name: |
-    There's something chewing on my ear.
-  entry_id: 92nwvh
-  entry_content: |
-    <iframe src=https://v.redd.it/68wkntte6qc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    There was no danger at all
-  entry_id: 92qci4
-  entry_content: |
-    <img src=https://i.redditmedia.com/Wvdb375Vy_7SUOPuIyxzAbKabfigH0uDyoHa13Z2uvs.jpg?s=80981a79b2c546921d2a798cd52960b7 frameborder=0>
+    <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
 ---
