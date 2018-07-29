@@ -173,11 +173,6 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/oOzLujqFSzw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    It's only wrong when Democrats do it
-  entry_id: 92o0ew
-  entry_content: |
-    <img src=https://i.redditmedia.com/UFXvdh_H80dzHvmLWA8PUoL8ER6sKfi3gCznQAoAQoc.jpg?s=b25ec24b47900e60b6c0212ea0d16983 frameborder=0>
-- entry_name: |
     Hey girl are you a newspaper?
   entry_id: 92qoa2
   entry_content: |
@@ -222,11 +217,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Getting ready to fight this cop, WCGW?
-  entry_id: 92tr0v
-  entry_content: |
-    <iframe src=https://v.redd.it/e9btlelz0vc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Manliest sip of all time
   entry_id: 92oeyy
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 92t735
   entry_content: |
     null
+- entry_name: |
+    Snapshot of my psycho cosplay ready for comic con
+  entry_id: 92tbi2
+  entry_content: |
+    <img src=https://i.redditmedia.com/prJ8yQVzIqs9YRkpNQ0wn1xR0r8mHwMxlwvpacv_sRE.jpg?s=1b7b37e1be0666e3164725b1b5c2f360 frameborder=0>
+- entry_name: |
+    Tinder is hard
+  entry_id: 92r5xi
+  entry_content: |
+    <img src=https://i.redditmedia.com/S7dwY4j9VU3p2hdyUfF_xRUv9aFV1PWWl7eiq5O0Fws.jpg?s=931b770ecb52859b8f09d262d5408fd4 frameborder=0>
 ---
