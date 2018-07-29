@@ -3,15 +3,15 @@ layout: post
 title: 30 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    A homeless man in Silicon Valley was handing out copies of his resume
-  entry_id: 92qh6e
-  entry_content: |
-    <img src=https://i.redditmedia.com/twcaqqvDa99aOsm1WiXvGMkh8iCsq5AV3j7wUyPAkT0.png?s=79e5e32cf21c0b2f8532204096894d44 frameborder=0>
-- entry_name: |
     I was stood taking a photo of my girlfriend in the sea, then realised so was every other Instagram boyfriend.
   entry_id: 92tw8e
   entry_content: |
     <img src=https://i.redditmedia.com/g6YXePVpSZoW3JLSgM9j5djNMYfEDFPc1oebtToTvco.jpg?s=3da371731a71db082e2f8f90cb2fe330 frameborder=0>
+- entry_name: |
+    A homeless man in Silicon Valley was handing out copies of his resume
+  entry_id: 92qh6e
+  entry_content: |
+    <img src=https://i.redditmedia.com/twcaqqvDa99aOsm1WiXvGMkh8iCsq5AV3j7wUyPAkT0.png?s=79e5e32cf21c0b2f8532204096894d44 frameborder=0>
 - entry_name: |
     Dog steals owner's GoPro and subsequently the show
   entry_id: 92pnrw
@@ -38,6 +38,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/9iHNBSuQShP_l9nkIQOHVfVolDZZfzoi-hZylvgIv_w.jpg?s=c4b592ba9104812cb45b2878715518fb frameborder=0>
 - entry_name: |
+    Mechanical version of Pong
+  entry_id: 92uig8
+  entry_content: |
+    <iframe src=https://v.redd.it/9xjjh5tquvc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     This guy is a ninja!
   entry_id: 92pyhf
   entry_content: |
@@ -58,11 +63,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jk8ffmfjmsc11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Mechanical version of Pong
-  entry_id: 92uig8
-  entry_content: |
-    <iframe src=https://v.redd.it/9xjjh5tquvc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     TIL 700,000 year old stone tools were found in the Philippines despite the fact that known humans didn't arrive until 600,000 years later. Researches aren't sure how humans got there or what early hominid could have even made them
   entry_id: 92q77x
   entry_content: |
@@ -72,6 +72,11 @@ data:
   entry_id: 92pyu5
   entry_content: |
     <img src=https://i.redditmedia.com/cvvxCXnaRgrY9BUDjn11E7a9XnV5X8tWf11COnTaDrY.jpg?s=c59e20499ef7e6ffaf7bd7c439d35a23 frameborder=0>
+- entry_name: |
+    Meteorite that fell in China
+  entry_id: 92ufpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/3Iki1eBWPhlE9R0aP4LaNWdOBLL1phfWK5Ryk24rcvg.jpg?s=577dd7573ff02e87c1fd3d2dcf9323bf frameborder=0>
 - entry_name: |
     7 months alcohol and heroin free.
   entry_id: 92t4l3
@@ -88,45 +93,45 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jRS-q588dQfhZR-K3Xi0tCzc2h7kCz90CJyA5b51V2U.jpg?s=abb666ed8d970c0f887082fc145d2f96 frameborder=0>
 - entry_name: |
-    Lil Dude Playing With His Balloon In Italy!
-  entry_id: 92q17f
+    The amount of train tickets I’ve collected by commuting to university for one year
+  entry_id: 92u5pc
   entry_content: |
-    <iframe src=https://v.redd.it/pmsvj04klrc11/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/AnpUUeQdES2A-y9IQyVnTzcLkbGmv913w2u0H-41uO0.jpg?s=18b76bec8c43da11891c79707e7a5aa0 frameborder=0>
 - entry_name: |
     Saw this abandoned ship on my way to Toronto earlier this year.
   entry_id: 92rj1z
   entry_content: |
     <img src=https://i.redditmedia.com/trgu5Cf0ggMt0pd5RiOrA2WBYCVSJLc_PHprdCeKR18.jpg?s=764301b029ac6d782131189ac143ee6b frameborder=0>
 - entry_name: |
+    Lil Dude Playing With His Balloon In Italy!
+  entry_id: 92q17f
+  entry_content: |
+    <iframe src=https://v.redd.it/pmsvj04klrc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Dance of the sugar plum fairy in doodles
   entry_id: 92sj7b
   entry_content: |
     <iframe src=https://v.redd.it/1e9k3cqnmtc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    This is my great-great-great-great grandfather, William, 1860s.
-  entry_id: 92psap
-  entry_content: |
-    <img src=https://i.redditmedia.com/nKJYBG_ue7QaM4N-wrfdZBdHqNI1bFdiiC6eZxRf334.jpg?s=67dca4a4ba033710b0c317836c40aac3 frameborder=0>
 - entry_name: |
     Switzerland The moon rises behind the Saentis, the highest mountain of the Alpstein region.
   entry_id: 92svjv
   entry_content: |
     <img src=https://i.redditmedia.com/Sfe_L1ljSVvbW90IJE0JpdSMlHuIaBQNAJeq5JKzYfo.jpg?s=792a39bf2df9245e08c8bb2f91408b30 frameborder=0>
 - entry_name: |
-    Meteorite that fell in China
-  entry_id: 92ufpj
+    This is my great-great-great-great grandfather, William, 1860s.
+  entry_id: 92psap
   entry_content: |
-    <img src=https://i.redditmedia.com/3Iki1eBWPhlE9R0aP4LaNWdOBLL1phfWK5Ryk24rcvg.jpg?s=577dd7573ff02e87c1fd3d2dcf9323bf frameborder=0>
+    <img src=https://i.redditmedia.com/nKJYBG_ue7QaM4N-wrfdZBdHqNI1bFdiiC6eZxRf334.jpg?s=67dca4a4ba033710b0c317836c40aac3 frameborder=0>
+- entry_name: |
+    That’ll be $50.
+  entry_id: 92u8du
+  entry_content: |
+    <img src=https://i.redditmedia.com/BhotOGOvNi7UihIGOcuqGtiOTf7hrlz3MJDX89WuKzQ.jpg?s=fe65c88d05ee7954ae5e3101b049aa44 frameborder=0>
 - entry_name: |
     It almost seems intentional
   entry_id: 92ozd2
   entry_content: |
     <img src=https://i.redditmedia.com/kZ2pUW_llp3jAfRHq4Dq31MT9B5XksdKhvcjkiOzdBQ.jpg?s=c7b51be965bc96f9e8483624db3ef9e4 frameborder=0>
-- entry_name: |
-    The amount of train tickets I’ve collected by commuting to university for one year
-  entry_id: 92u5pc
-  entry_content: |
-    <img src=https://i.redditmedia.com/AnpUUeQdES2A-y9IQyVnTzcLkbGmv913w2u0H-41uO0.jpg?s=18b76bec8c43da11891c79707e7a5aa0 frameborder=0>
 - entry_name: |
     LPT: You can steal shit from the mall
   entry_id: 92p3o1
@@ -138,15 +143,20 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/eb2fqpw66sc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    The extreme heatwaves and wildfires wreaking havoc around the globe are “the face of climate change,” one of the world’s leading climate scientists has declared, with the impacts of global warming now “playing out in real time.”
+  entry_id: 92ujpe
+  entry_content: |
+    <img src=https://i.redditmedia.com/BtJX28d4oLlciVh82pNETMIDcoi8dGkR_-yaTGYSzz8.jpg?s=b641e6c55331db83898cc494ad7b52ae frameborder=0>
+- entry_name: |
+    Trump threatens to 'shut down' government unless Democrats agree to fund Mexico wall
+  entry_id: 92ux3x
+  entry_content: |
+    <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
+- entry_name: |
     It was fate.
   entry_id: 92r1gj
   entry_content: |
     <img src=https://i.redditmedia.com/m8TTui9OlSV23O4qfps_h7S1Biv2W_s6SHCKVhEgUeE.jpg?s=c92c35468629ab0fb53db8cd8b491754 frameborder=0>
-- entry_name: |
-    That’ll be $50.
-  entry_id: 92u8du
-  entry_content: |
-    <img src=https://i.redditmedia.com/BhotOGOvNi7UihIGOcuqGtiOTf7hrlz3MJDX89WuKzQ.jpg?s=fe65c88d05ee7954ae5e3101b049aa44 frameborder=0>
 - entry_name: |
     me irl
   entry_id: 92qma7
@@ -158,97 +168,87 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yRiR2GELDjLA-AU8AkUkEsTBzO7qwfHF6nGCwAsVJN0.jpg?s=31ece620f8df2d55973b47bde8b70908 frameborder=0>
 - entry_name: |
-    Reporter Nails Handshake
-  entry_id: 92owru
+    Pawn shop buys violin for $50, finds out it's worth $250,000
+  entry_id: 92u18o
   entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/oOzLujqFSzw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    Hey girl are you a newspaper?
-  entry_id: 92qoa2
-  entry_content: |
-    null
+    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 92soah
   entry_content: |
     <img src=https://i.redditmedia.com/Vmh2kU4-tkTHkE13i6AoSD-0FnrpCUr-S2IO4YhkiP0.jpg?s=2a6f018782e547dba54d188ff87b4032 frameborder=0>
 - entry_name: |
-    Sawcon it
-  entry_id: 92r14x
+    It's a special kind of gratification when the slow car you're stuck behind turns away, and you speed up to show the people behind you that you weren't the one clogging up traffic.
+  entry_id: 92u5ck
   entry_content: |
-    <img src=https://i.redditmedia.com/l8fCDSG_C5tYD5QVDH_WAv-7DM3punfOFi-PeTaKV5I.jpg?s=669676b918acab7188346c3ac1150523 frameborder=0>
-- entry_name: |
-    Donald Trump Promised Dirt On Clinton 2 Days Before Trump Tower Meeting: 'Trump never delivered on his promise after his eldest son Donald Trump Jr., son-in-law Jared Kushner and then campaign manager Paul Manafort met with attorney Natalia Veselnitskaya in 2016.'
-  entry_id: 92rson
-  entry_content: |
-    <img src=https://i.redditmedia.com/7pOT9rJQGy1-breagrftvlyxj-JxqC3KCAAocYM7kTA.jpg?s=d5aabfba0e4b484e9816ac44d9a53f40 frameborder=0>
-- entry_name: |
-    In The Little Mermaid (1998) when King Triton is introduced, you can see Mickey, Donald, Goofy and Kermit the Frog in the crowd, underwater...
-  entry_id: 92pqcc
-  entry_content: |
-    <img src=https://i.redditmedia.com/XQJlGcthNO-zTIb_XjKGEwWns-3m8gdSBTSRoGt7_fs.jpg?s=f2b29242288fe026136c64dcfabe009c frameborder=0>
-- entry_name: |
-    Pawn shop buys violin for $50, finds out it's worth $250,000
-  entry_id: 92u18o
-  entry_content: |
-    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
-- entry_name: |
-    Trump threatens to 'shut down' government unless Democrats agree to fund Mexico wall
-  entry_id: 92ux3x
-  entry_content: |
-    <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
-- entry_name: |
-    That moment when you need to summon your stick
-  entry_id: 92qycz
-  entry_content: |
-    <iframe src=https://v.redd.it/hwkljy3basc11/DASH_9_6_M frameborder=0></iframe>
+    null
 - entry_name: |
     Cooking oil coating prevents bacteria from growing on food processing equipment, resulting in a 1,000x reduction in bacterial levels inside the industrial machines tested, finds new study. Coating a stainless steel surface with an everyday cooking oil appears effective in repelling bacteria.
   entry_id: 92u1bc
   entry_content: |
     <img src=https://i.redditmedia.com/LAbz4ow3lIaxQR1SAQLIPkPFS0M5npMg9CuzZrXqg4M.jpg?s=508b938ae5d067dc0797cb6b15aff789 frameborder=0>
 - entry_name: |
-    The extreme heatwaves and wildfires wreaking havoc around the globe are “the face of climate change,” one of the world’s leading climate scientists has declared, with the impacts of global warming now “playing out in real time.”
-  entry_id: 92ujpe
+    Reporter Nails Handshake
+  entry_id: 92owru
   entry_content: |
-    <img src=https://i.redditmedia.com/BtJX28d4oLlciVh82pNETMIDcoi8dGkR_-yaTGYSzz8.jpg?s=b641e6c55331db83898cc494ad7b52ae frameborder=0>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/oOzLujqFSzw?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
-    🔥 This owl's camouflage.
-  entry_id: 92q2k4
+    Sawcon it
+  entry_id: 92r14x
   entry_content: |
-    <img src=https://i.redditmedia.com/hH2bG6BFK2ayJDu_BTEjt3W8ADuVJUcuJmHODRTNB9c.jpg?s=d3f502403697157e0946bfc0115883aa frameborder=0>
+    <img src=https://i.redditmedia.com/l8fCDSG_C5tYD5QVDH_WAv-7DM3punfOFi-PeTaKV5I.jpg?s=669676b918acab7188346c3ac1150523 frameborder=0>
 - entry_name: |
-  entry_id: 92ozvj
+    Hey girl are you a newspaper?
+  entry_id: 92qoa2
   entry_content: |
-    <img src=https://i.redditmedia.com/pHXc822oL5FABYDGrt_in2YwpqOqsxN3pRXEuh7PtCQ.jpg?s=232624eb9fb45252f2ac4ea6c6ca0ba8 frameborder=0>
+    null
 - entry_name: |
-    Shelter cat chooses owner
-  entry_id: 92rb54
+    Donald Trump Promised Dirt On Clinton 2 Days Before Trump Tower Meeting: 'Trump never delivered on his promise after his eldest son Donald Trump Jr., son-in-law Jared Kushner and then campaign manager Paul Manafort met with attorney Natalia Veselnitskaya in 2016.'
+  entry_id: 92rson
   entry_content: |
-    <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/7pOT9rJQGy1-breagrftvlyxj-JxqC3KCAAocYM7kTA.jpg?s=d5aabfba0e4b484e9816ac44d9a53f40 frameborder=0>
 - entry_name: |
-    “It’s all yours bud!”
-  entry_id: 92r9ul
+    Before and After pic of my home. Carr Fire Redding CA. July 27, 2018.
+  entry_id: 92u0cx
   entry_content: |
-    <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
+    <img src=https://i.redditmedia.com/ydt0mODaj7EUoMnEYRhDuDlBTbdZVmw75SShAbOSkTI.jpg?s=3f38279e222515ab5e700e03a94738e8 frameborder=0>
 - entry_name: |
-    Blue raspberry = politics
-  entry_id: 92pefr
+    In The Little Mermaid (1998) when King Triton is introduced, you can see Mickey, Donald, Goofy and Kermit the Frog in the crowd, underwater...
+  entry_id: 92pqcc
   entry_content: |
-    <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
-- entry_name: |
-    Snapshot of my psycho cosplay ready for comic con
-  entry_id: 92tbi2
-  entry_content: |
-    <img src=https://i.redditmedia.com/prJ8yQVzIqs9YRkpNQ0wn1xR0r8mHwMxlwvpacv_sRE.jpg?s=1b7b37e1be0666e3164725b1b5c2f360 frameborder=0>
+    <img src=https://i.redditmedia.com/XQJlGcthNO-zTIb_XjKGEwWns-3m8gdSBTSRoGt7_fs.jpg?s=f2b29242288fe026136c64dcfabe009c frameborder=0>
 - entry_name: |
     Whats the best thing you've found in code? :
   entry_id: 92uhu7
   entry_content: |
     <img src=https://i.redditmedia.com/6YEoqfqs_nsli-CePyOnFlW-YkQNfOYF_3qYCLLpsfc.jpg?s=0fa8854d0e12fa7356a50d9861962f9a frameborder=0>
 - entry_name: |
-    Send help, furniture shrinking.
-  entry_id: 92rkx2
+    That moment when you need to summon your stick
+  entry_id: 92qycz
   entry_content: |
-    <img src=https://i.redditmedia.com/uvWhJ7ZavAj34hxGMAqs-YFBx3lCjHVA_nYLyJ4eXt0.jpg?s=6b0df4d66b24f24d4c58ee3006b2353a frameborder=0>
+    <iframe src=https://v.redd.it/hwkljy3basc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    🔥 This owl's camouflage.
+  entry_id: 92q2k4
+  entry_content: |
+    <img src=https://i.redditmedia.com/hH2bG6BFK2ayJDu_BTEjt3W8ADuVJUcuJmHODRTNB9c.jpg?s=d3f502403697157e0946bfc0115883aa frameborder=0>
+- entry_name: |
+    Shelter cat chooses owner
+  entry_id: 92rb54
+  entry_content: |
+    <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 92ozvj
+  entry_content: |
+    <img src=https://i.redditmedia.com/pHXc822oL5FABYDGrt_in2YwpqOqsxN3pRXEuh7PtCQ.jpg?s=232624eb9fb45252f2ac4ea6c6ca0ba8 frameborder=0>
+- entry_name: |
+    Snapshot of my psycho cosplay ready for comic con
+  entry_id: 92tbi2
+  entry_content: |
+    <img src=https://i.redditmedia.com/prJ8yQVzIqs9YRkpNQ0wn1xR0r8mHwMxlwvpacv_sRE.jpg?s=1b7b37e1be0666e3164725b1b5c2f360 frameborder=0>
+- entry_name: |
+    Kenobi was a true Renaissance man
+  entry_id: 92uaw0
+  entry_content: |
+    <img src=https://i.redditmedia.com/bzUdgaTxdwWkth1SoY3-nKzjXS_Av7Al0lgwvIbtAso.jpg?s=839bbc23f1ab94ceaf33e07f95422dc3 frameborder=0>
 ---
