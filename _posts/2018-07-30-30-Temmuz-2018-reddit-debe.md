@@ -93,11 +93,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jRS-q588dQfhZR-K3Xi0tCzc2h7kCz90CJyA5b51V2U.jpg?s=abb666ed8d970c0f887082fc145d2f96 frameborder=0>
 - entry_name: |
-    The amount of train tickets I’ve collected by commuting to university for one year
-  entry_id: 92u5pc
-  entry_content: |
-    <img src=https://i.redditmedia.com/AnpUUeQdES2A-y9IQyVnTzcLkbGmv913w2u0H-41uO0.jpg?s=18b76bec8c43da11891c79707e7a5aa0 frameborder=0>
-- entry_name: |
     Saw this abandoned ship on my way to Toronto earlier this year.
   entry_id: 92rj1z
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92uaw0
   entry_content: |
     <img src=https://i.redditmedia.com/bzUdgaTxdwWkth1SoY3-nKzjXS_Av7Al0lgwvIbtAso.jpg?s=839bbc23f1ab94ceaf33e07f95422dc3 frameborder=0>
+- entry_name: |
+    “It’s all yours bud!”
+  entry_id: 92r9ul
+  entry_content: |
+    <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
 ---
