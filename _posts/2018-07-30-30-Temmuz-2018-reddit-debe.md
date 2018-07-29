@@ -28,11 +28,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XHEX4kFr58_9EPkdLdlCy2UJo5zT-gHId4cqzbp7Z_4.jpg?s=366691c9b5bfab6b4cf968e95cc3c7c6 frameborder=0>
 - entry_name: |
-    How to kill your kid without really trying.
-  entry_id: 92ojv1
-  entry_content: |
-    <img src=https://i.redditmedia.com/zXbNgnbkW-XNIhJDX88GDDi0QUayWTrYwKtD4SQpEhw.jpg?s=57f71423cfcb21f2f3afd2e00a18e01a frameborder=0>
-- entry_name: |
     TIL Kanye West once refused to continue performing because two members of the audience wouldn’t rise to their feet. Both fans had disabilities that made it impossible to stand.
   entry_id: 92tk8t
   entry_content: |
@@ -208,11 +203,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/hwkljy3basc11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    I did it. I finally told someone to get off of their phone during a movie.
-  entry_id: 92t735
-  entry_content: |
-    null
-- entry_name: |
     Cooking oil coating prevents bacteria from growing on food processing equipment, resulting in a 1,000x reduction in bacterial levels inside the industrial machines tested, finds new study. Coating a stainless steel surface with an everyday cooking oil appears effective in repelling bacteria.
   entry_id: 92u1bc
   entry_content: |
@@ -237,18 +227,28 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/naxgedahksc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    I know this sub is about cozy places for humans, but just imagine how cozy this would be if you were a little clownfish.
-  entry_id: 92t6zy
-  entry_content: |
-    <iframe src=https://v.redd.it/h6wdgvhpbuc11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     “It’s all yours bud!”
   entry_id: 92r9ul
   entry_content: |
     <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
 - entry_name: |
-    Manliest sip of all time
-  entry_id: 92oeyy
+    Blue raspberry = politics
+  entry_id: 92pefr
   entry_content: |
-    <img src=https://i.redditmedia.com/yqtp6gGCMD1BFBtePNOygtVTevhZm16IvY4Iv0JopvE.jpg?s=757fde6bc4e5459c7435776b6d1d8c0e frameborder=0>
+    <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
+- entry_name: |
+    Snapshot of my psycho cosplay ready for comic con
+  entry_id: 92tbi2
+  entry_content: |
+    <img src=https://i.redditmedia.com/prJ8yQVzIqs9YRkpNQ0wn1xR0r8mHwMxlwvpacv_sRE.jpg?s=1b7b37e1be0666e3164725b1b5c2f360 frameborder=0>
+- entry_name: |
+    Whats the best thing you've found in code? :
+  entry_id: 92uhu7
+  entry_content: |
+    <img src=https://i.redditmedia.com/6YEoqfqs_nsli-CePyOnFlW-YkQNfOYF_3qYCLLpsfc.jpg?s=0fa8854d0e12fa7356a50d9861962f9a frameborder=0>
+- entry_name: |
+    Send help, furniture shrinking.
+  entry_id: 92rkx2
+  entry_content: |
+    <img src=https://i.redditmedia.com/uvWhJ7ZavAj34hxGMAqs-YFBx3lCjHVA_nYLyJ4eXt0.jpg?s=6b0df4d66b24f24d4c58ee3006b2353a frameborder=0>
 ---
