@@ -28,6 +28,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XHEX4kFr58_9EPkdLdlCy2UJo5zT-gHId4cqzbp7Z_4.jpg?s=366691c9b5bfab6b4cf968e95cc3c7c6 frameborder=0>
 - entry_name: |
+    Mechanical version of Pong
+  entry_id: 92uig8
+  entry_content: |
+    <iframe src=https://v.redd.it/9xjjh5tquvc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     TIL Kanye West once refused to continue performing because two members of the audience wouldn’t rise to their feet. Both fans had disabilities that made it impossible to stand.
   entry_id: 92tk8t
   entry_content: |
@@ -37,11 +42,6 @@ data:
   entry_id: 92ps3v
   entry_content: |
     <img src=https://i.redditmedia.com/9iHNBSuQShP_l9nkIQOHVfVolDZZfzoi-hZylvgIv_w.jpg?s=c4b592ba9104812cb45b2878715518fb frameborder=0>
-- entry_name: |
-    Mechanical version of Pong
-  entry_id: 92uig8
-  entry_content: |
-    <iframe src=https://v.redd.it/9xjjh5tquvc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     This guy is a ninja!
   entry_id: 92pyhf
@@ -58,6 +58,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jk8ffmfjmsc11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Meteorite that fell in China
+  entry_id: 92ufpj
+  entry_content: |
+    <img src=https://i.redditmedia.com/3Iki1eBWPhlE9R0aP4LaNWdOBLL1phfWK5Ryk24rcvg.jpg?s=577dd7573ff02e87c1fd3d2dcf9323bf frameborder=0>
+- entry_name: |
     TIL 700,000 year old stone tools were found in the Philippines despite the fact that known humans didn't arrive until 600,000 years later. Researches aren't sure how humans got there or what early hominid could have even made them
   entry_id: 92q77x
   entry_content: |
@@ -68,15 +73,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cvvxCXnaRgrY9BUDjn11E7a9XnV5X8tWf11COnTaDrY.jpg?s=c59e20499ef7e6ffaf7bd7c439d35a23 frameborder=0>
 - entry_name: |
-    Meteorite that fell in China
-  entry_id: 92ufpj
-  entry_content: |
-    <img src=https://i.redditmedia.com/3Iki1eBWPhlE9R0aP4LaNWdOBLL1phfWK5Ryk24rcvg.jpg?s=577dd7573ff02e87c1fd3d2dcf9323bf frameborder=0>
-- entry_name: |
     7 months alcohol and heroin free.
   entry_id: 92t4l3
   entry_content: |
     <img src=https://i.redditmedia.com/nVMWTRhnDE60Dz3RjDc2rne2gNRRRRWKGOktfWJsQXc.jpg?s=02c2a0a4caa907ce7abbcc119d6b05a4 frameborder=0>
+- entry_name: |
+    That’ll be $50.
+  entry_id: 92u8du
+  entry_content: |
+    <img src=https://i.redditmedia.com/BhotOGOvNi7UihIGOcuqGtiOTf7hrlz3MJDX89WuKzQ.jpg?s=fe65c88d05ee7954ae5e3101b049aa44 frameborder=0>
 - entry_name: |
     Julius Caesar Realizes Everyone Has a Knife Except Him (44 BC)
   entry_id: 92rl58
@@ -113,21 +118,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nKJYBG_ue7QaM4N-wrfdZBdHqNI1bFdiiC6eZxRf334.jpg?s=67dca4a4ba033710b0c317836c40aac3 frameborder=0>
 - entry_name: |
-    That’ll be $50.
-  entry_id: 92u8du
-  entry_content: |
-    <img src=https://i.redditmedia.com/BhotOGOvNi7UihIGOcuqGtiOTf7hrlz3MJDX89WuKzQ.jpg?s=fe65c88d05ee7954ae5e3101b049aa44 frameborder=0>
-- entry_name: |
-    LPT: You can steal shit from the mall
-  entry_id: 92p3o1
-  entry_content: |
-    <img src=https://i.redditmedia.com/aGlHAtUHQiWUEmH4aPZT-lJRM0UzI_wibFWsb-8TjYY.jpg?s=e3d6587e984db79d491bb25f257eb1c6 frameborder=0>
-- entry_name: |
-    Giant power hammer
-  entry_id: 92qt11
-  entry_content: |
-    <iframe src=https://v.redd.it/eb2fqpw66sc11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     The extreme heatwaves and wildfires wreaking havoc around the globe are “the face of climate change,” one of the world’s leading climate scientists has declared, with the impacts of global warming now “playing out in real time.”
   entry_id: 92ujpe
   entry_content: |
@@ -137,6 +127,26 @@ data:
   entry_id: 92ux3x
   entry_content: |
     <img src=https://i.redditmedia.com/YGckMEAqICMgIQk9EIhgOM7ftpOJf39UWOXk0CaSjZQ.jpg?s=802f66be50154b7d18eba1c0b3779d49 frameborder=0>
+- entry_name: |
+    It's a special kind of gratification when the slow car you're stuck behind turns away, and you speed up to show the people behind you that you weren't the one clogging up traffic.
+  entry_id: 92u5ck
+  entry_content: |
+    null
+- entry_name: |
+    Before/After of a cosplay photo I took out in the California desert
+  entry_id: 92vy89
+  entry_content: |
+    <img src=https://i.redditmedia.com/0wj8NYXKxOxZ6Jq2J5EDOZEP0MyP9k7dDXf5nSq-FjI.jpg?s=b87514b93b1e5e5a084f2663f94fd8b9 frameborder=0>
+- entry_name: |
+    Giant power hammer
+  entry_id: 92qt11
+  entry_content: |
+    <iframe src=https://v.redd.it/eb2fqpw66sc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Pawn shop buys violin for $50, finds out it's worth $250,000
+  entry_id: 92u18o
+  entry_content: |
+    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
 - entry_name: |
     It was fate.
   entry_id: 92r1gj
@@ -148,30 +158,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/XmgumJkLTGJ3mQfIyLe3xfZkWWwx9A3TTIIoSU6mwVU.png?s=a71e748e20ee2f3d4f9590e303ac8733 frameborder=0>
 - entry_name: |
+    Cooking oil coating prevents bacteria from growing on food processing equipment, resulting in a 1,000x reduction in bacterial levels inside the industrial machines tested, finds new study. Coating a stainless steel surface with an everyday cooking oil appears effective in repelling bacteria.
+  entry_id: 92u1bc
+  entry_content: |
+    <img src=https://i.redditmedia.com/LAbz4ow3lIaxQR1SAQLIPkPFS0M5npMg9CuzZrXqg4M.jpg?s=508b938ae5d067dc0797cb6b15aff789 frameborder=0>
+- entry_name: |
     squidward is just a professional
   entry_id: 92q7mu
   entry_content: |
     <img src=https://i.redditmedia.com/yRiR2GELDjLA-AU8AkUkEsTBzO7qwfHF6nGCwAsVJN0.jpg?s=31ece620f8df2d55973b47bde8b70908 frameborder=0>
 - entry_name: |
-    Pawn shop buys violin for $50, finds out it's worth $250,000
-  entry_id: 92u18o
+    Whats the best thing you've found in code? :
+  entry_id: 92uhu7
   entry_content: |
-    <img src=https://i.redditmedia.com/K9a5X4oJnk8_o2dlWwf24fM0oHFEudF16sF4LLH1RGU.jpg?s=fda00eea4c216237a07ac15dfe054ca8 frameborder=0>
+    <img src=https://i.redditmedia.com/6YEoqfqs_nsli-CePyOnFlW-YkQNfOYF_3qYCLLpsfc.jpg?s=0fa8854d0e12fa7356a50d9861962f9a frameborder=0>
 - entry_name: |
     hmmm
   entry_id: 92soah
   entry_content: |
     <img src=https://i.redditmedia.com/Vmh2kU4-tkTHkE13i6AoSD-0FnrpCUr-S2IO4YhkiP0.jpg?s=2a6f018782e547dba54d188ff87b4032 frameborder=0>
 - entry_name: |
-    It's a special kind of gratification when the slow car you're stuck behind turns away, and you speed up to show the people behind you that you weren't the one clogging up traffic.
-  entry_id: 92u5ck
+    Before and After pic of my home. Carr Fire Redding CA. July 27, 2018.
+  entry_id: 92u0cx
   entry_content: |
-    null
+    <img src=https://i.redditmedia.com/ydt0mODaj7EUoMnEYRhDuDlBTbdZVmw75SShAbOSkTI.jpg?s=3f38279e222515ab5e700e03a94738e8 frameborder=0>
 - entry_name: |
-    Cooking oil coating prevents bacteria from growing on food processing equipment, resulting in a 1,000x reduction in bacterial levels inside the industrial machines tested, finds new study. Coating a stainless steel surface with an everyday cooking oil appears effective in repelling bacteria.
-  entry_id: 92u1bc
+    He’s an old man but Marvin is still very cute
+  entry_id: 92uzx8
   entry_content: |
-    <img src=https://i.redditmedia.com/LAbz4ow3lIaxQR1SAQLIPkPFS0M5npMg9CuzZrXqg4M.jpg?s=508b938ae5d067dc0797cb6b15aff789 frameborder=0>
+    <img src=https://i.redditmedia.com/YdMZzqCA1eo6X2-29FI1fEofTatfRJB1SEh8CPNSKEY.jpg?s=990087b97eb40b4017999c7819ad90f7 frameborder=0>
 - entry_name: |
     Sawcon it
   entry_id: 92r14x
@@ -188,25 +203,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7pOT9rJQGy1-breagrftvlyxj-JxqC3KCAAocYM7kTA.jpg?s=d5aabfba0e4b484e9816ac44d9a53f40 frameborder=0>
 - entry_name: |
-    Before and After pic of my home. Carr Fire Redding CA. July 27, 2018.
-  entry_id: 92u0cx
-  entry_content: |
-    <img src=https://i.redditmedia.com/ydt0mODaj7EUoMnEYRhDuDlBTbdZVmw75SShAbOSkTI.jpg?s=3f38279e222515ab5e700e03a94738e8 frameborder=0>
-- entry_name: |
     In The Little Mermaid (1998) when King Triton is introduced, you can see Mickey, Donald, Goofy and Kermit the Frog in the crowd, underwater...
   entry_id: 92pqcc
   entry_content: |
     <img src=https://i.redditmedia.com/XQJlGcthNO-zTIb_XjKGEwWns-3m8gdSBTSRoGt7_fs.jpg?s=f2b29242288fe026136c64dcfabe009c frameborder=0>
 - entry_name: |
-    Whats the best thing you've found in code? :
-  entry_id: 92uhu7
+    Kenobi was a true Renaissance man
+  entry_id: 92uaw0
   entry_content: |
-    <img src=https://i.redditmedia.com/6YEoqfqs_nsli-CePyOnFlW-YkQNfOYF_3qYCLLpsfc.jpg?s=0fa8854d0e12fa7356a50d9861962f9a frameborder=0>
+    <img src=https://i.redditmedia.com/bzUdgaTxdwWkth1SoY3-nKzjXS_Av7Al0lgwvIbtAso.jpg?s=839bbc23f1ab94ceaf33e07f95422dc3 frameborder=0>
+- entry_name: |
+    Hank Hill would not approve.
+  entry_id: 92u4mz
+  entry_content: |
+    <img src=https://i.redditmedia.com/1SRY676TrxQ-EbnotQHZec5EJCx11-cgoRbutCDSr7o.jpg?s=c741e44c1a29c59bc67412cb78002288 frameborder=0>
 - entry_name: |
     That moment when you need to summon your stick
   entry_id: 92qycz
   entry_content: |
     <iframe src=https://v.redd.it/hwkljy3basc11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    TIL the founder of Herbalife died after overdosing on non-herbal sleep aids
+  entry_id: 92uw96
+  entry_content: |
+    <img src=https://i.redditmedia.com/scOkbSzf0NeP9cJk_pffGMeJgS9r7Fwv1Ok3W7KFcuM.jpg?s=328c347331231f53ffacb7e2766af65b frameborder=0>
 - entry_name: |
     🔥 This owl's camouflage.
   entry_id: 92q2k4
@@ -223,33 +243,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/prJ8yQVzIqs9YRkpNQ0wn1xR0r8mHwMxlwvpacv_sRE.jpg?s=1b7b37e1be0666e3164725b1b5c2f360 frameborder=0>
 - entry_name: |
-    Kenobi was a true Renaissance man
-  entry_id: 92uaw0
-  entry_content: |
-    <img src=https://i.redditmedia.com/bzUdgaTxdwWkth1SoY3-nKzjXS_Av7Al0lgwvIbtAso.jpg?s=839bbc23f1ab94ceaf33e07f95422dc3 frameborder=0>
-- entry_name: |
     “It’s all yours bud!”
   entry_id: 92r9ul
   entry_content: |
     <img src=https://i.redditmedia.com/35PZlGCMdvS0m8vKNChfavx8P4D-u0okg_lQqOwsYKM.jpg?s=2633d81f3e31bfe12aed3ffe38242382 frameborder=0>
 - entry_name: |
-    Hank Hill would not approve.
-  entry_id: 92u4mz
-  entry_content: |
-    <img src=https://i.redditmedia.com/1SRY676TrxQ-EbnotQHZec5EJCx11-cgoRbutCDSr7o.jpg?s=c741e44c1a29c59bc67412cb78002288 frameborder=0>
-- entry_name: |
     Blue raspberry = politics
   entry_id: 92pefr
   entry_content: |
     <img src=https://i.redditmedia.com/kfVbMBE54NxI3chFZ-Lps4z8Vr3XNm9M5PbIRiPm5rM.jpg?s=3106be0827b960e56bae6ea18aff4747 frameborder=0>
-- entry_name: |
-    Send help, furniture shrinking.
-  entry_id: 92rkx2
-  entry_content: |
-    <img src=https://i.redditmedia.com/uvWhJ7ZavAj34hxGMAqs-YFBx3lCjHVA_nYLyJ4eXt0.jpg?s=6b0df4d66b24f24d4c58ee3006b2353a frameborder=0>
-- entry_name: |
-    Tinder is hard
-  entry_id: 92r5xi
-  entry_content: |
-    <img src=https://i.redditmedia.com/S7dwY4j9VU3p2hdyUfF_xRUv9aFV1PWWl7eiq5O0Fws.jpg?s=931b770ecb52859b8f09d262d5408fd4 frameborder=0>
 ---
