@@ -218,11 +218,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xylefgQG64eqSomcD0nVib2LtydYedznxnkM-Ku9HCA.gif?fm=jpg&s=acd63382551057cea0d11b6198d7c6cf frameborder=0>
 - entry_name: |
-    LPT, Whenever taking photos you plan on photoshoping. I.e. wedding photos. before you move everyone into the photo take a photo of Just the background. it can make editing the photo alot easier in the later. like removing that annoying friend of the friend.
-  entry_id: 92wy73
-  entry_content: |
-    null
-- entry_name: |
     Me irl
   entry_id: 92xi3v
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 9341ul
   entry_content: |
     <img src=https://i.redditmedia.com/nkz46Pe6QCBIQEhfqFyjhwoLv-NY7H-DqwBaeGg9LPw.jpg?s=d1a7c2f56943c7f73e22c6159bdf8282 frameborder=0>
+- entry_name: |
+    My grandfather diving into the water on his 102nd birthday
+  entry_id: 92zrmv
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/NKfPbdK8F5M?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 ---
