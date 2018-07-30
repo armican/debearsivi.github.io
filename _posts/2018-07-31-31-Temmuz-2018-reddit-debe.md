@@ -3,15 +3,15 @@ layout: post
 title: 31 Temmuz 2018 Reddit Debe
 data:
 - entry_name: |
-    My gf got me this card on Valentine’s Day of this year before we were officially “dating.” It still makes me smile.
-  entry_id: 92xkwq
-  entry_content: |
-    <img src=https://i.redditmedia.com/EcJgNKEyclINYqdVzBqz588x8lmBAjMcet1Y4FWhj8w.jpg?s=782f55823898be9b2e8d5f1e3efbdd9b frameborder=0>
-- entry_name: |
     Have you ever wondered how people with a poor eyesight see the world without glasses or contact lenses? The artist Philip Barlow show it vividly to us through his fascinating oil paintings.
   entry_id: 933m3x
   entry_content: |
     <img src=https://i.redditmedia.com/Xk8_clUuHXnpgzhuatVt4-aZmATBuGQx8a9kSPJpoGg.jpg?s=ba3f5a989d77891e6b118ebb06af4a29 frameborder=0>
+- entry_name: |
+    My gf got me this card on Valentine’s Day of this year before we were officially “dating.” It still makes me smile.
+  entry_id: 92xkwq
+  entry_content: |
+    <img src=https://i.redditmedia.com/EcJgNKEyclINYqdVzBqz588x8lmBAjMcet1Y4FWhj8w.jpg?s=782f55823898be9b2e8d5f1e3efbdd9b frameborder=0>
 - entry_name: |
     In one generation we went from, watch your mouth around grandma, she's from a different time, to, Don't mind all the stuff grandma says, she's from a different time.
   entry_id: 92yotz
@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gvUF39JYJQbxcKiHQp26qd9EoJEkalz1DjnwW1lBnoc.jpg?s=7a65d286299531c02e9cb0e67680d07c frameborder=0>
 - entry_name: |
-    What a Dive!
-  entry_id: 92x548
-  entry_content: |
-    <iframe src=https://v.redd.it/qrt5kt5zoxc11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     I present to you the Chinese Pheasant, otherwise known as the Pharaoh of birds
   entry_id: 932819
   entry_content: |
@@ -63,6 +58,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fnij0p2kvyc11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    TIL dry counties (counties where the sale of alcohol is banned) have a drunk driving fatality rate ~3.6 times higher than wet counties.
+  entry_id: 932iux
+  entry_content: |
+    <img src=https://i.redditmedia.com/ve7aiChBR09GtrAxmdffioEQlg74eSFvTNIyA0uCNaw.jpg?s=e289f22ea1178eb4ec2fd7eddf7d72e9 frameborder=0>
+- entry_name: |
     I see your baby musk ox and I counter with a baby aardwolf
   entry_id: 92zz9p
   entry_content: |
@@ -73,10 +73,15 @@ data:
   entry_content: |
     null
 - entry_name: |
-    TIL dry counties (counties where the sale of alcohol is banned) have a drunk driving fatality rate ~3.6 times higher than wet counties.
-  entry_id: 932iux
+    one of my troops showed us his hidden talent on his last day in the Air Force, trying to convince him thst he truly is talented
+  entry_id: 933p7f
   entry_content: |
-    <img src=https://i.redditmedia.com/ve7aiChBR09GtrAxmdffioEQlg74eSFvTNIyA0uCNaw.jpg?s=e289f22ea1178eb4ec2fd7eddf7d72e9 frameborder=0>
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/hkxCnjpWIv8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Agressive marketing in the action
+  entry_id: 933l76
+  entry_content: |
+    <img src=https://i.redditmedia.com/jIpUy2iyZ63tyCRF4jW1vHCnLBChtMwRnUD878p1q48.jpg?s=c0b33c8c3e6d52fa55bebf6289795c1b frameborder=0>
 - entry_name: |
     Wholesome sins
   entry_id: 93104r
@@ -87,6 +92,11 @@ data:
   entry_id: 92y7eq
   entry_content: |
     <iframe src=https://v.redd.it/e6ey8qiagyc11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    This doofus chased some bad guys out of our backyard the other night... They didn't know he just wanted to play
+  entry_id: 9341ul
+  entry_content: |
+    <img src=https://i.redditmedia.com/nkz46Pe6QCBIQEhfqFyjhwoLv-NY7H-DqwBaeGg9LPw.jpg?s=d1a7c2f56943c7f73e22c6159bdf8282 frameborder=0>
 - entry_name: |
     In honor of Shark Week, here’s a shark eating an avocado
   entry_id: 92xwld
@@ -103,11 +113,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fdutVvavdsbMZvwAjlvghScMgOkVHUgceCHjSCORPso.jpg?s=2228662b18915f12d1092d7c4ed87998 frameborder=0>
 - entry_name: |
-    one of my troops showed us his hidden talent on his last day in the Air Force, trying to convince him thst he truly is talented
-  entry_id: 933p7f
-  entry_content: |
-    <iframe width=600 height=338 src=https://www.youtube.com/embed/hkxCnjpWIv8?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     TIL The Emperor's New Groove was originally intended to be a musical epic similar to the Lion King titled Kingdom of the Sun, but after bad test screenings, the poor box office performance of Pocahontas, and creative differences between the directors, it was made into a light comedy
   entry_id: 930a2k
   entry_content: |
@@ -117,11 +122,6 @@ data:
   entry_id: 9303s9
   entry_content: |
     <img src=https://i.redditmedia.com/-zW8q7vFxnFRXgoQQpMtxd686lhmLkyDN_Maiu_E1qE.jpg?s=433185a2cfcafd07c1167a580e432695 frameborder=0>
-- entry_name: |
-    Agressive marketing in the action
-  entry_id: 933l76
-  entry_content: |
-    <img src=https://i.redditmedia.com/jIpUy2iyZ63tyCRF4jW1vHCnLBChtMwRnUD878p1q48.jpg?s=c0b33c8c3e6d52fa55bebf6289795c1b frameborder=0>
 - entry_name: |
     I meant it
   entry_id: 92yn72
@@ -138,6 +138,21 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/m_ufBkf07gWzYFGMVAHaF6OLCYHskLeOA48kpnmcoXo.gif?fm=jpg&s=9e501a9565a48b84fcfc6f885891da1e frameborder=0>
 - entry_name: |
+    1000 IQ low cost cosplay
+  entry_id: 9327at
+  entry_content: |
+    <img src=https://i.redditmedia.com/pA1zRvrJHYX1-r8fDHSxxJf0YW0ogG5QJTETRdinfRw.jpg?s=4c6eb5e7daa92b9890ae3462055e5072 frameborder=0>
+- entry_name: |
+    The way this glass pane gracefully lay down after smashing
+  entry_id: 9335yk
+  entry_content: |
+    <img src=https://i.redditmedia.com/DP8PoyS4LzhEHmo-iDaurixxQiMxBZvmFlVGTG8Tf-c.jpg?s=bf88eb454668ffdf1593c101aad127cf frameborder=0>
+- entry_name: |
+    The King is here!
+  entry_id: 933617
+  entry_content: |
+    <iframe src=https://v.redd.it/a8gv3ne682d11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     It’s hard out here for a neckbeard trying to find the proper m’lady
   entry_id: 92yghz
   entry_content: |
@@ -153,11 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FAB_Er7GB3VdXXbyJyb46_Tv61jCE3Q5gdRXjlTbFSg.jpg?s=f6df3cd724928305cb373b9dc1c9dcdd frameborder=0>
 - entry_name: |
-    1000 IQ low cost cosplay
-  entry_id: 9327at
-  entry_content: |
-    <img src=https://i.redditmedia.com/pA1zRvrJHYX1-r8fDHSxxJf0YW0ogG5QJTETRdinfRw.jpg?s=4c6eb5e7daa92b9890ae3462055e5072 frameborder=0>
-- entry_name: |
     They weren’t kidding, the view is better up here.
   entry_id: 92xhp3
   entry_content: |
@@ -168,10 +178,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/gOCz3PJdICAWilx165Akg389r0dBBexCVIVQI_WJwkI.jpg?s=33bfb5482c21ecc769718cb8f6c6e5d7 frameborder=0>
 - entry_name: |
-    The King is here!
-  entry_id: 933617
+    The 4.5 Billion Year Old Fukang Meteorite
+  entry_id: 931s4p
   entry_content: |
-    <iframe src=https://v.redd.it/a8gv3ne682d11/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/Z40EvjW8Sj3JkPuRbqT7U0bSXJziJu_veIu3NteLFEA.jpg?s=384005d7f083d17fc45673e6d4963992 frameborder=0>
 - entry_name: |
     Left a message at Target
   entry_id: 92y728
@@ -188,67 +198,57 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FF5Fu0E5XLaHGOcSCd7-NQeUvn7X4Ciod-fzEvLSakU.jpg?s=79eda0eafb17b79ae627d6d10bf99c7a frameborder=0>
 - entry_name: |
-    The way this glass pane gracefully lay down after smashing
-  entry_id: 9335yk
-  entry_content: |
-    <img src=https://i.redditmedia.com/DP8PoyS4LzhEHmo-iDaurixxQiMxBZvmFlVGTG8Tf-c.jpg?s=bf88eb454668ffdf1593c101aad127cf frameborder=0>
-- entry_name: |
-    The 4.5 Billion Year Old Fukang Meteorite
-  entry_id: 931s4p
-  entry_content: |
-    <img src=https://i.redditmedia.com/Z40EvjW8Sj3JkPuRbqT7U0bSXJziJu_veIu3NteLFEA.jpg?s=384005d7f083d17fc45673e6d4963992 frameborder=0>
-- entry_name: |
     Chaps, i think we may be fucked
   entry_id: 92ymdp
   entry_content: |
     <img src=https://i.redditmedia.com/RexKanMM5_BCCQTFjgHwlETMCDk0dJR32MnO38Avf5w.jpg?s=70b1b8288ca6f1d3b7809d3b3b46fdc3 frameborder=0>
-- entry_name: |
-    Our Ends Are Beginnings, Paradisiac Picture (Pascalle), Digital, 2014
-  entry_id: 92xhqt
-  entry_content: |
-    <img src=https://i.redditmedia.com/kdtexWzTqPBaTetOXtH3apwlA4s3CqE1w9V4ACVsZz0.jpg?s=d9fe97abaddec0a6f1a52e2cd572da97 frameborder=0>
 - entry_name: |
     I'll Ruin this guys trick. WCGW?
   entry_id: 92zm40
   entry_content: |
     <img src=https://i.redditmedia.com/xylefgQG64eqSomcD0nVib2LtydYedznxnkM-Ku9HCA.gif?fm=jpg&s=acd63382551057cea0d11b6198d7c6cf frameborder=0>
 - entry_name: |
+    Our Ends Are Beginnings, Paradisiac Picture (Pascalle), Digital, 2014
+  entry_id: 92xhqt
+  entry_content: |
+    <img src=https://i.redditmedia.com/kdtexWzTqPBaTetOXtH3apwlA4s3CqE1w9V4ACVsZz0.jpg?s=d9fe97abaddec0a6f1a52e2cd572da97 frameborder=0>
+- entry_name: |
     Me irl
   entry_id: 92xi3v
   entry_content: |
     <img src=https://i.redditmedia.com/hHm8oG9ZQqZkfXMXdAkh3BJ1ZbYpL7-7Re0Z-zbc41s.png?s=1cbcc393c65dfaf1505455084d5ede1c frameborder=0>
 - entry_name: |
+    36 years sober from heroin.
+  entry_id: 9343v5
+  entry_content: |
+    <img src=https://i.redditmedia.com/pI2GsYv48IIBqFRPzAbPStgYkzOCEW1ojgj61D5sO7I.jpg?s=58e3e081eb09601b6ed85f5bc2ecd490 frameborder=0>
+- entry_name: |
+    The hero we don't deserve.
+  entry_id: 932b8o
+  entry_content: |
+    <img src=https://i.redditmedia.com/eZo9Vg7QVw50V356obzbpM9HLZyaI819ddNo5oK1TLs.jpg?s=35bb46b7b365542767ee9a617fd2c1a8 frameborder=0>
+- entry_name: |
   entry_id: 92ygbl
   entry_content: |
     <img src=https://i.redditmedia.com/LsIZQlOdNmxFrI3FmmWblvITYYRlbGEBztaspQ0_GdA.jpg?s=65f7784815ef0e1298ffc9db2f8fc1d0 frameborder=0>
-- entry_name: |
-    A man was arrested and taken to an interrogation room
-  entry_id: 92xwwm
-  entry_content: |
-    null
 - entry_name: |
     This owl I found resembling it’s protection sign
   entry_id: 93083q
   entry_content: |
     <img src=https://i.redditmedia.com/1u6DNjta9-hkDr9NfMO1ABGFtXe2FTB0JjfiSRxertk.jpg?s=e6d7007aff546e8e9f38fe14c91684b4 frameborder=0>
 - entry_name: |
-    Spray-on sunscreen under UV light
-  entry_id: 92x6iu
+    Worthy of love
+  entry_id: 934a1m
   entry_content: |
-    <iframe src=https://v.redd.it/bhfo3wh0sxc11/DASH_1_2_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/As1FE1l2_mwPLnV1-G-LlFbZi2wIc0QupHrQXPd0b3A.jpg?s=cf14d9a444bfb759b7fec4b3b4e6bbb5 frameborder=0>
 - entry_name: |
-    This doofus chased some bad guys out of our backyard the other night... They didn't know he just wanted to play
-  entry_id: 9341ul
+    A man was arrested and taken to an interrogation room
+  entry_id: 92xwwm
   entry_content: |
-    <img src=https://i.redditmedia.com/nkz46Pe6QCBIQEhfqFyjhwoLv-NY7H-DqwBaeGg9LPw.jpg?s=d1a7c2f56943c7f73e22c6159bdf8282 frameborder=0>
+    null
 - entry_name: |
-    My grandfather diving into the water on his 102nd birthday
-  entry_id: 92zrmv
+    The first English woman to ride a motorcycle around the world, Elspeth Beard (1980’s)
+  entry_id: 932nu8
   entry_content: |
-    <iframe width=459 height=344 src=https://www.youtube.com/embed/NKfPbdK8F5M?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    The hero we don't deserve.
-  entry_id: 932b8o
-  entry_content: |
-    <img src=https://i.redditmedia.com/eZo9Vg7QVw50V356obzbpM9HLZyaI819ddNo5oK1TLs.jpg?s=35bb46b7b365542767ee9a617fd2c1a8 frameborder=0>
+    <img src=https://i.redditmedia.com/daY6SiVoky6kGTF4sEg0K78Prc-erv2fDhWDWaKXs4I.jpg?s=7e3b4328b400d728165ae8f5a0b283c0 frameborder=0>
 ---
