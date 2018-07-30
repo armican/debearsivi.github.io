@@ -38,11 +38,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/J4NZVSdgI491NDHWNX6T2V0SSceR_g_Dpwh_aR6HYzE.jpg?s=22d5ee199233b88933ede9668b781cd6 frameborder=0>
 - entry_name: |
-    A bulldog, a pitbull and a rottweiler walked into a bar... And they were incredibly well behaved and loved by all :)
-  entry_id: 92xc29
-  entry_content: |
-    <img src=https://i.redditmedia.com/gvUF39JYJQbxcKiHQp26qd9EoJEkalz1DjnwW1lBnoc.jpg?s=7a65d286299531c02e9cb0e67680d07c frameborder=0>
-- entry_name: |
     I present to you the Chinese Pheasant, otherwise known as the Pharaoh of birds
   entry_id: 932819
   entry_content: |
@@ -108,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/vTarwyeQfesDX5mKX5AsFEK-Nb_v-L0QvDlxBWn276A.jpg?s=2ebac741c39fc1f9725804ffe52211a0 frameborder=0>
 - entry_name: |
-    Youth Pastor arrested for nearly 20 years of sexual abuse towards minors
-  entry_id: 92xei2
-  entry_content: |
-    <img src=https://i.redditmedia.com/fdutVvavdsbMZvwAjlvghScMgOkVHUgceCHjSCORPso.jpg?s=2228662b18915f12d1092d7c4ed87998 frameborder=0>
-- entry_name: |
     TIL The Emperor's New Groove was originally intended to be a musical epic similar to the Lion King titled Kingdom of the Sun, but after bad test screenings, the poor box office performance of Pocahontas, and creative differences between the directors, it was made into a light comedy
   entry_id: 930a2k
   entry_content: |
@@ -162,11 +152,6 @@ data:
   entry_id: 92xrev
   entry_content: |
     <img src=https://i.redditmedia.com/Mw1VKqi75LRpY5CTNACybiOLRw7AKPBA3OcP-VdJo60.jpg?s=7abc76001df369fb2545e322726e32a7 frameborder=0>
-- entry_name: |
-    Trump calls media 'very unpatriotic' for reporting on government affairs
-  entry_id: 92xclx
-  entry_content: |
-    <img src=https://i.redditmedia.com/FAB_Er7GB3VdXXbyJyb46_Tv61jCE3Q5gdRXjlTbFSg.jpg?s=f6df3cd724928305cb373b9dc1c9dcdd frameborder=0>
 - entry_name: |
     They weren’t kidding, the view is better up here.
   entry_id: 92xhp3
@@ -251,4 +236,19 @@ data:
   entry_id: 932nu8
   entry_content: |
     <img src=https://i.redditmedia.com/daY6SiVoky6kGTF4sEg0K78Prc-erv2fDhWDWaKXs4I.jpg?s=7e3b4328b400d728165ae8f5a0b283c0 frameborder=0>
+- entry_name: |
+    My grandfather diving into the water on his 102nd birthday
+  entry_id: 92zrmv
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/NKfPbdK8F5M?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Slicing a strawberry rose.
+  entry_id: 92xlu9
+  entry_content: |
+    <iframe src=https://v.redd.it/1jtlww0z1yc11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Daddy's little girl
+  entry_id: 92yyax
+  entry_content: |
+    <img src=https://i.redditmedia.com/PsJRWS3R2BkE1Gj3CHnYrVmBP0p-gM_KL-flDZlEB18.png?s=53c54da085f1c7313745638d0f697218 frameborder=0>
 ---
