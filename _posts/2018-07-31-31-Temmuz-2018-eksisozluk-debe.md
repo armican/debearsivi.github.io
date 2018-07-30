@@ -6,7 +6,7 @@ data:
     picking up girls in istanbul
   entry_id:  79713961
   entry_writer: deli petro
-  entry_fav_count: 869
+  entry_fav_count: 876
   entry_content: |
     biz, erasmus'taki turk kızları avrupalı erkek görünce amı götü dağıtıyor, sevgililerin boynuz üstüne boynuz takıyor, kucaktan kucağa hoppidi yapıyor dediğimizde yemedigimiz küfür ve hakaret kalmıyordu.<br/><br/>bu videodan sonra birazcık utanırsınız diyeceğim ama siz ondan da anlamazsınız.
   entry_channels: ilişkiler
@@ -14,7 +14,7 @@ data:
     klitorisin yeri
   entry_id:  79733181
   entry_writer: asperyules
-  entry_fav_count: 653
+  entry_fav_count: 696
   entry_content: |
     kız arkadaşının whatsapp'ını açıyorsun, menü tuşu &gt; ayarlar &gt; hesap &gt; gizlilik &gt; engellenen kişiler'e giriyorsun orda kime sorsan gösterir.
   entry_channels: ilişkiler
@@ -22,7 +22,7 @@ data:
     maymundan geldiğine inanan insan
   entry_id:  79711076
   entry_writer: yesersin
-  entry_fav_count: 471
+  entry_fav_count: 474
   entry_content: |
     evrimi sadece maymundan gelmek olarak anlayan, evrim karşıt görüş olarak adnan oktarı okumuş, gelmiş buraya yazmış kütük beyanıdır.
   entry_channels: anket,bilim,tarih
@@ -30,7 +30,7 @@ data:
     starbucks'ın yapıp da diğerlerinin yapamadığı şey
   entry_id:  79730978
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 362
+  entry_fav_count: 383
   entry_content: |
     belki yuzlercesi sayılabilir ama yillardir yaptigim gozlemler sonucu starbucks, guven ve musteri kaybetmek yerine para kaybetmeyi seciyor.<br/><br/>en basitinden sabah kahve almaya ugradigim dedeman starbucks'da kahvemi aldim odemeyi yaptim magazadan cikar cikmaz kahve elimden dustu, yeniden kahve almak icin geri dondum kahveyi dusurdugumu soylemedim barista durumu anladi 2. kahve icin para talep etmedi. normal bir isletmede bir personelin odeme almadan ekstra bir urun cikabilmesi icin minimum 5 kisiye danismasi gerekir. starbucks calisanlari insiyatif kullanabiliyor. yanlis anlasilmasin olay bedava urun alabilmek degil, cogu isletmede kahvenizden sinek ciksa bile degisim yapmamak icin 40 takla atiyorlar.
   entry_channels: anket,yeme-içme
@@ -38,7 +38,7 @@ data:
     avukatların davayı kaybedince ücret iade etmemesi
   entry_id:  79730550
   entry_writer: degirmenderedeki smokinli adam
-  entry_fav_count: 288
+  entry_fav_count: 298
   entry_content: |
     türkiyedeki hukuk sisteminin yavaşlığının en büyük sebeplerinden biri olan olay. tam olarak değil ama anlatayım. malesef ülkemizde avukat sistemi daha doğrusu avukatı bulma-tutma işlemi çok kötü. yurtdışında ya da gelişmiş ülkelerde avukatları başarılarına göre seçersiniz, her avukatın kaç dava kazandığı ve kaybettiği herkes tarafından bilinir, en önemlisi iyi avukatlar veya kariyer yapmak isteyen avukatlar kaybedeceklerini bildikleri davayı almak istemezler. gelecekteki müşterilerinin ve itibarlarının zarar göreceğini bilirler. ancak bizim ülkemizde avukatlar davayı kaybedince kariyerleri etkilenmediğinden ve ücretlerini de her türlü aldıklarından dolayı siz başınızdaki bir sıkıntıyı bir avukata götürdüğünüzde avukat hemen "dava açalım" diyerek size baskı yapıyor. sürekli dava açmak istiyorlar. ben hangi alanda hangi avukatla görüşmüş olursam olayım hepsi o farklı konularda dava açmamı istedi. herhangi bir konuda avukata danışmaya gittiğinizde dikkat edin, konu hukuk bilgisinden ayrıntılardan sonra dava açalım mı, açsak mı noktasına gelince emlakçı galerici tribine giriyorlar. hallederiz, şöyle yaparız böyle yaparız 3 aya bu iş biter diyorlar. bir bakmışsınız 5 yıldır sikimsonik bir iş için uğraşıyorsunuz. neden böyle oldu hani 3 aya bitiyordu bu iş denince de yok istinaf yok yargıtay bilmem kaçıncı daire yok nasa houston uyduruyorlar anlamıyorsunuz. işlerini iyi yapan, davadan bir şey çıkmayacağına inanan, size gerçekten iyi tavsiye veren genç avukatlarla da tanıştım. size tavsiyem yolunuz oralardan geçerse o gençlerden bulun. inatla genç diyorum çünkü ben daha bahsettiğim olumlu özelliklere sahip yetişkin avukat görmedim ya da param onlara yetmedi.
   entry_channels: ilişkiler,ekonomi
@@ -46,7 +46,7 @@ data:
     erkeklerin kız tavlamak için vücut çalışması
   entry_id:  79725304
   entry_writer: kaldorein
-  entry_fav_count: 284
+  entry_fav_count: 291
   entry_content: |
     geçen nasıl mangal yakmışsam 20 tane kız çevremi sardı. hangisini seçeceğimi şaşırdım. <br/><br/>tanım: götü ile göbeği birbirine karışmış, çekememezlik sendromuna girmiş bir yazar beyanatı.
   entry_channels: spor,ilişkiler
@@ -54,7 +54,7 @@ data:
     erkeklere hesap ödetmiyoruz kampanyası
   entry_id:  79724590
   entry_writer: second
-  entry_fav_count: 277
+  entry_fav_count: 282
   entry_content: |
     ya alın şu aminakodumunun kezbanini surdan. imkan bulsalar 1 tl lik wc i bile erkeğe ödetecekler hala nasil maymunluk yaparim diye kasiyolar.
   entry_channels: siyaset,ilişkiler
@@ -62,7 +62,7 @@ data:
     kaptanlığın en çok yakıştığı futbolcu
   entry_id:  79713780
   entry_writer: gunalan
-  entry_fav_count: 276
+  entry_fav_count: 277
   entry_content: |
     (bkz: <a class="b" href="/?q=carles+puyol">carles puyol</a>) <br/><br/>duruşu , oyunu kurması , arkadaşlarıyla iletişimi, hırsı, kriz yönetimi ve daha niceleri için siz de carles puyolu seçin.
   entry_channels: spor,anket
@@ -70,7 +70,7 @@ data:
     kurda maksimum seviye 4.30 bunun üstü köpük
   entry_id:  79723635
   entry_writer: is this the real life
-  entry_fav_count: 274
+  entry_fav_count: 276
   entry_content: |
     adamın açıklamasına göre türk lirasının değeri manipülasyon ile %14 düşürülebiliyor.<br/><br/>özrü kabahatinden büyük böyle birşey işte.
   entry_channels: siyaset,ekonomi
@@ -78,15 +78,23 @@ data:
     iltifat mı hakaret mi belli olmayan kelimeler
   entry_id:  79714709
   entry_writer: depresifdoik
-  entry_fav_count: 245
+  entry_fav_count: 247
   entry_content: |
     “çok fotojeniksin.”
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
+    suçu kesin tecavüzcüye sizi seviyoruz diyen hakim
+  entry_id:  79727734
+  entry_writer: natalya tommiks texas julyet
+  entry_fav_count: 238
+  entry_content: |
+    "recep bey, sizin milli güreşçi olduğunuzu biliyoruz. <a class="b" href="/?q=sizi+seviyoruz+ama">sizi seviyoruz ama</a> daha önceki davranışlarınız bu dosyanın tutanaklarında mevcut. o nedenle size indirim yapmıyoruz. <a class="b" href="/?q=bu+konuda+%c3%bczg%c3%bcn%c3%bcz.">bu konuda üzgünüz.</a> size ceza olarak 20 yıla kadar artırım yapabilirdik. bunu yapmadık ve cinsel saldırı suçundan cezanızı 1 yıl artırdık" dedi.<br/><br/>bu ülkede <a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/amp/gundem/tecavuzden-yargilanan-milli-gurescinin-cezasi-artti-19667767" title="http://www.hurriyet.com.tr/amp/gundem/tecavuzden-yargilanan-milli-gurescinin-cezasi-artti-19667767">bunu</a> da duyduk ya... ülkenin ahlak çıtası leşlikten daha nereye düşebilir sorusunun cevabı gibi... çok şükür dinimiz amin.
+  entry_channels: haber
+- entry_name: |
     rakının masa altına saklanmadığı fotoğraf
   entry_id:  79728648
   entry_writer: wholelottarosie
-  entry_fav_count: 188
+  entry_fav_count: 193
   entry_content: |
     kim diyor lan alkol tüketmek bir meziyettir diye çıksın buraya? <br/><br/>sorun alkol tükettiğinin bilinmesinden korkacak hale gelmekte. bunu anlayamamak da ilginç bir durum.
   entry_channels: tarih,sinema,yeme-içme
@@ -94,7 +102,7 @@ data:
     80 yıldır muhalefetteyiz başka örneği yok
   entry_id:  79716251
   entry_writer: neymis
-  entry_fav_count: 148
+  entry_fav_count: 151
   entry_content: |
     (bkz: <a class="b" href="/?q=bak%c4%b1n+bu+%c3%a7ok+b%c3%bcy%c3%bck+bir+ba%c5%9far%c4%b1">bakın bu çok büyük bir başarı</a>)
   entry_channels: siyaset,haber
@@ -102,26 +110,26 @@ data:
     alaçatı'daki hesap çılgınlığı
   entry_id:  79733824
   entry_writer: aspryn
-  entry_fav_count: 126
+  entry_fav_count: 135
   entry_content: |
     türk insanının parasının kıymetini bilmediğini ve görgüsüzlüğünü gösteren hesap çılgınlığı. yorumları bir okuyun: gücü yetmeyen gelmesin.<br/><br/>mevzu gücün yetmemesi değil, aptal yerine konmak.<br/>türkler de bunu, enayi gibi kazıklanmayı prestij sanıyor.<br/><br/>önceki yıllarda kate moss bodrum'da hesaba itiraz etmişti. <br/>aynı haberde mekandaki türkler "kardeşim paran yoksa gelme" diye demeçler vermiş.<br/><br/>kate moss'a diyor paran yoksa diye. görgüsüzlük böyle bir şey işte.<br/>kadın "ben paris'te, new york'ta en jetset mekanlarda bu kadar ödemiyorum bu ne" diyor. cevap: paran yoksa gelip niye tadımızı kaçırıyorsun bizi ne güzel düdüklüyorlar.
   entry_channels: ekonomi,seyahat
 - entry_name: |
-    31 temmuz 2018 elektrik ve doğalgaz zammı
-  entry_id:  79732113
-  entry_writer: medeniyet
-  entry_fav_count: 123
-  entry_content: |
-    (bkz: <a class="b" href="/?q=koyduk+mu">koyduk mu</a>)
-  entry_channels: haber,ekonomi
-- entry_name: |
     dağ evi + sınırsız teknoloji + yemek ve seks
   entry_id:  79735410
   entry_writer: tontontondardanelton
-  entry_fav_count: 108
+  entry_fav_count: 128
   entry_content: |
     bağı bahçesi olan, denize yakın dağ evi + internet + sınırsız kitap, kütüphane + yemek + alkol + seks ile yaşamayı düşünüyorum. gayet mütevazı hayat.<br/><br/>edit: “asosyal bir elizabetçi” denilmiş. sanki bir kadın bu hayatı isteyemez.
   entry_channels: teknoloji,yeme-içme,seyahat
+- entry_name: |
+    31 temmuz 2018 elektrik ve doğalgaz zammı
+  entry_id:  79732113
+  entry_writer: medeniyet
+  entry_fav_count: 124
+  entry_content: |
+    (bkz: <a class="b" href="/?q=koyduk+mu">koyduk mu</a>)
+  entry_channels: haber,ekonomi
 - entry_name: |
     #halkınumudukılıçdaroğlu
   entry_id:  79721193
@@ -131,21 +139,21 @@ data:
     dokuz seçim kaybeden yetmiş yaşındaki umut.
   entry_channels: siyaset
 - entry_name: |
+    pis kokuyormuş gibi duran ünlüler
+  entry_id:  79737119
+  entry_writer: insurer
+  entry_fav_count: 96
+  entry_content: |
+    demet akalın’ı ne zaman görsem, burnuma umumi tuvalet kokusu gelir.
+  entry_channels: anket,magazin
+- entry_name: |
     çaldığı fotoğrafı ailesiymiş gibi paylaşan hatun
   entry_id:  79729107
   entry_writer: bunalimlardertleryumusaklarsertler
-  entry_fav_count: 89
+  entry_fav_count: 90
   entry_content: |
-    balık resmi paylaşıp göç yılları yazan ve canım büyük dedem diye bitiren insan, çok yaşa emi deminden beri gülüyorum amk.<br/><br/>edit1 : malum hayvanın türü semendermiş. cahilliğin gözü kör olsun. bilgilendiren arkadaşa teşekkürler.
+    balık resmi paylaşıp göç yılları yazan ve canım büyük dedem diye bitiren insan, çok yaşa emi deminden beri gülüyorum amk.<br/><br/>edit1 : malum hayvanın türü semendermiş. cahilliğin gözü kör olsun. bilgilendiren arkadaşa teşekkürler.<br/>edit2 : bazi yazar arkadaslar semender degil tiktaalik isimli bir hayvan oldugunu soyluyor. artik google layip bakin hangisi dogru. ben baktim ogrendim ama maksat insalar arastirmaci olsun.
   entry_channels: ilişkiler,tarih,teknoloji
-- entry_name: |
-    internetten tanışılan kişiye aşık olmak
-  entry_id:  79709186
-  entry_writer: theagent
-  entry_fav_count: 75
-  entry_content: |
-    yıl 2015 cs-go oynuyoruz. :)<br/><br/>benim takımdan biri steam'dan ekledi kabul ettim..<br/><br/>yıl 2018 <br/><br/>cs-go oynuyorum..<br/>bilin bakalım şuan bu entry'i girerken yanımda kim var? <br/><br/>kimse yok aq, cs-go'dan kız mı düşer.iyi geceler.
-  entry_channels: ilişkiler,teknoloji
 - entry_name: |
     türk erkeklerinin seks yapmayı becerememesi
   entry_id:  79715244
@@ -163,26 +171,10 @@ data:
     (bkz: <a class="b" href="/?q=meri%c3%a7">meriç</a>)<br/><br/>en güzeli budur. hem kızların da çok sevdiği bir köpek cinsidir.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    göbeklitepe
-  entry_id:  79727846
-  entry_writer: ebenski vir
-  entry_fav_count: 67
-  entry_content: |
-    furkancit mahlaslı şaşkın yazarın yazdıklarına bakmayın siz. <br/><br/>batılı bilim diye sayıklamış ancak batılı bilimcilerin göbeklitepe ile ilgili yazdığı iki yüze yakın bilimsel makalenin, onu aşkın kitabın kaçını okumuş merak ediyorum. bugün batılı bilim adamları göbeklitepe'yi a'dan z'ye tartışıyor ve anlamaya çalışıyor. kimi direkt saçmalık, kimiyse dönemin toplumsal ve ekonomik koşullarını en ince ayrıntısına kadar dikkate alarak yapılan çalışmalar bunlar. bunları okumadan, 'batı bilimi' diye saçmalamak içi boş bir milliyetçiliktir. aklı başında milliyetçileri tenzih ederim, ben de milliyetçiyim. göbeklitepe'yi 1994'te keşfeden de batılı araştırmacılardı, 25 yıllık emekleri sayesinde furkancit gibilerinin hakkında serbestçe saçmalayabildiği dünyaca ünlü bir kültür mirasımız var.<br/><br/>ayrıca batı bilimi son 150 yılda hristiyanlık tarihini yerden yere vurmuşken, senin kaç tane bilim adamın, tarihçin islam eleştirisi ya da göbeklitepe hakkında uluslar arası arenada kabul gören yazı yazmış diye sorarlar adama.
-  entry_channels: bilim,sanat,tarih
-- entry_name: |
-    pis kokuyormuş gibi duran ünlüler
-  entry_id:  79737119
-  entry_writer: insurer
-  entry_fav_count: 65
-  entry_content: |
-    demet akalın’ı ne zaman görsem, burnuma umumi tuvalet kokusu gelir.
-  entry_channels: anket,magazin
-- entry_name: |
     vw golf'ün 190 bin lira olması
   entry_id:  79729331
   entry_writer: bucagdo
-  entry_fav_count: 57
+  entry_fav_count: 58
   entry_content: |
     parayı faize koyar, kullanacağım günler araba kiralarım daha iyi.
   entry_channels: otomotiv,ekonomi
@@ -190,7 +182,7 @@ data:
     gece 3.49'da samoa'dan birisi tarafından aranmak
   entry_id:  79729508
   entry_writer: bitterkofte
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
     samoa adasında eline telefon geçen yerlilerin şaşırıp, rastgele tuşlara basması sonucu gerçekleşen olaydır.
   entry_channels: 
@@ -206,31 +198,31 @@ data:
     sovyet mühendisliği
   entry_id:  79725942
   entry_writer: de nada
-  entry_fav_count: 40
+  entry_fav_count: 41
   entry_content: |
     çarlık döneminde bir bok üretmeyen rusya’yı fezaya çıkan ilk ulus yapmıştır.
   entry_channels: bilim,tarih,teknoloji
 - entry_name: |
-    nutella'nın eskisi kadar övülmemesi
-  entry_id:  79732847
-  entry_writer: juandissimo magnifico
-  entry_fav_count: 35
-  entry_content: |
-    şeker tüketmenin ne kadar berbat bir şey olduğu artık öğrenildi, kanıksandı ve şeker tüketene sigara tiryakisi gibi kötü muamele yapılmaya başlandı.<br/><br/>nutella'nın %55'i şeker ve %15'i palmiye yağı. kavanozda kalp krizi resmen.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://amp.businessinsider.com/images/58a36d06dd08956f298b4589-960-720.jpg" title="https://amp.businessinsider.com/images/58a36d06dd08956f298b4589-960-720.jpg">içereği şöyle</a>
-  entry_channels: anket,yeme-içme
-- entry_name: |
     hem hala hem teyze hem amca hem dayı sahibi insan
   entry_id:  79723376
   entry_writer: hep beni buluyo
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
     ozel bi durum mu bu?! <br/><br/>doğuda olup 5 yaşında amcanız, birlikte ilkokul okuyup bitirebileceginiz bi teyzeniz, sünnetine gidebileceğiniz bi dayınız olsa n'olurdu asxcffv<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,ilişkiler
 - entry_name: |
+    nutella'nın eskisi kadar övülmemesi
+  entry_id:  79732847
+  entry_writer: juandissimo magnifico
+  entry_fav_count: 36
+  entry_content: |
+    şeker tüketmenin ne kadar berbat bir şey olduğu artık öğrenildi, kanıksandı ve şeker tüketene sigara tiryakisi gibi kötü muamele yapılmaya başlandı.<br/><br/>nutella'nın %55'i şeker ve %15'i palmiye yağı. kavanozda kalp krizi resmen.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://amp.businessinsider.com/images/58a36d06dd08956f298b4589-960-720.jpg" title="https://amp.businessinsider.com/images/58a36d06dd08956f298b4589-960-720.jpg">içereği şöyle</a>
+  entry_channels: anket,yeme-içme
+- entry_name: |
     ekşi itiraf
   entry_id:  79708731
   entry_writer: halledicezkamil
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     güzel bir itiraf; <br/>bu akşam saroz körfezinde gittiğim bir çay bahçesinde orta yaşlı bir kadın tanımadan selam verdi, önce acaba nereden tanışıyoruz diye bakarken benim gibi engelli oğlunun olduğunu fark ettim bir süre sonra, ve evet aynı acılardan geçerken bir duyguda tanıştığımızı fark ettim. <br/>bir öneri: insanlara selam verin iyi geliyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -238,26 +230,18 @@ data:
     ben erdil yaşaroğlu sorularınızı cevaplıyorum
   entry_id:  79735218
   entry_writer: zorla bakkala gonderilen kardes
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     erdil bey merhaba hoşgeldiniz<br/><br/>2007 yılı nisan ayında sizinle üniversitedeki bir dersim ile ilgili olarak röportaj yapmak için penguen dergisi ile iletişime geçmiştim lakin o gün dergide olmayacak olmanız nedeniyle bu teklifi reddetmiştiniz ve ben de metin üstündağ bey ile röportaj yapmıştım. gayet de zevkli bir röportaj olmuştu. lakin ben o gün röportaj için geldiğimde siz de dergideydiniz öylece takılıyorsunuz, belliki işiniz gücünüz yoktu. bana çok ayıp ettiniz bilesiniz.<br/><br/>neyse sorum şu: meşhur tayyipler alemi karikatürünün çıkış fikri nasıl oldu?
   entry_channels: sanat
 - entry_name: |
-    2018 ekonomik krizi
-  entry_id:  79719207
-  entry_writer: afi
-  entry_fav_count: 28
+    30 temmuz 2018 mgk'nın abd'ye verdiği efsane ayar
+  entry_id:  79738551
+  entry_writer: oray
+  entry_fav_count: 29
   entry_content: |
-    temel iktisat bilgisi: toplumun harcaması bireyin yararinadir. ama bireyin harcaması değil tasarrufu bireyin yararinadir. yani insanları harcamaya teşvik edin, kendiniz tasarruf yapın.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    avrupa'nın en büyük tarım ülkesiyiz
-  entry_id:  79736310
-  entry_writer: mc43
-  entry_fav_count: 26
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hollanda">hollanda</a>)<br/><br/>(bkz: <a class="b" href="/?q=at+yalan%c4%b1+sikeyim+inan%c4%b1">at yalanı sikeyim inanı</a>)
-  entry_channels: ekonomi
+    "kabul etmeyip napıyoruz peki?" diye sordurtan ayardır.<br/><br/>(bkz: <a class="b" href="/?q=ayna+ayna+%c3%a7elik+ayna">ayna ayna çelik ayna</a>) kararının çıktığı toplantıdır.
+  entry_channels: haber
 - entry_name: |
     çocukken hayal edilen tanrı şekli
   entry_id:  79710458
@@ -267,21 +251,29 @@ data:
     beyaz bir bulut.
   entry_channels: anket
 - entry_name: |
-    baba kapıyı kapatır mısın sevişiyorum diyen kız
-  entry_id:  79733989
-  entry_writer: api alper
-  entry_fav_count: 19
-  entry_content: |
-    namus kompleksi ile çok da alakasının olmadığını düşündüğüm, extra large bir babaya sahip bir kızın kurduğu yakışıksız cümledir. cinsiyet ayrımı yapmaksızın bakmak lazım aslında, bu cümleyi bir erkek de kursa yine aynı şekilde yakışıksız olur. nasıl ki babanız sizin yanınızda sevişmiyor, siz de onun yanında sevişmeyin.
-  entry_channels: ilişkiler
-- entry_name: |
     araba kullanmayı şahin'le öğrenen insan
   entry_id:  79725269
   entry_writer: germe beni germe
-  entry_fav_count: 19
+  entry_fav_count: 21
   entry_content: |
     benim bu. yıl 2006 filan, bacaklarımın pedallara yeni yeni yetiştiği dönem. nasıl da hevesliyim. birkaç denemeden sonra yatkın olduğumu farkeden babam, arabada ben olduğum zaman sağ koltuğa geçer ve direksiyonu bana bırakırdı.<br/><br/>babamı bir yere bırakmış, direksiyonda gelmesini bekliyordum. karşıdan bir araç gelince geri manevra yapmam gerekti; ama vitesi bir türlü r'ye takamadım. en son arabayı boşa alıp ittirerek kenara çektim. babam geldiğindeyse o altın kuralı öğrendim:<br/><br/>"geri vitese takacaksan debriyaja birkaç kere basman gerek."<br/><br/>o günden beri refleks oldu, iki yaşındaki kendi arabamda geri vitese takarken debriyaja iki üç kere basarım <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: otomotiv
+- entry_name: |
+    beyaz kod veren doktorun açığa alınması
+  entry_id:  79708895
+  entry_writer: eternel
+  entry_fav_count: 19
+  entry_content: |
+    bu ve benzer olaylar, sonrasında yaşananlar, burada bilen bilmeyen aslında ülke genelini yansıtan nefret dolu yazılanlardan anlıyoruz ki bu ülkede uluslararası normlar ve etik ilkeler çerçevesinde hekimlik mesleğinin icrası son bulmuş durumdadır. savaşta bile kutsal sayılıp vurulmayan bir meslek grubu, şiddeti özendiren siyasetçilerin çanak tutup caydırıcı hiçbir tedbir almamasıyla hücum edilen bir meslek grubuna dönüştüyse söyleyecek fazla bir şey kalmamış demektir. <br/><br/>bu ülke insanı "veterineri hakediyor" temennisine kesinlikle katılmıyorum, orada bile daha sağlıklı bir hasta hekim ilişkisi var. bir veteriner hekimin sevgiyle yardımcı olduğunu bir köpek anlayabiliyor ve o da karşılık olarak minnet duygusunu hekimine gösteriyor. fakat bu 2 ayaklı maymun türü, hekimiyle hastasıyla bu lanet ülkede sağlıklı bir iletişim kurmayı başaramadı, başaramıyor!..
+  entry_channels: sağlık,haber
+- entry_name: |
+    domagoj vida
+  entry_id:  79737211
+  entry_writer: uskudar
+  entry_fav_count: 18
+  entry_content: |
+    sezon içince: vida tosic'i bile kesemiyor 5 veren varsa satın.<br/><br/>dünya kupası öncesi : kupada oynuyor vida'yı 10 milyona satarız herhalde amk.<br/><br/>grup aşaması: vida 20 milyon oldu renkliler çıldırın.<br/><br/>son 16: vida'yı satalım bir forvet, bir defans alalım. kalan da harçlık olur.<br/><br/>çeyrek final: fiko vida'yı 30'a kesin satar liverpool'a..<br/><br/>yarı final: ronaldo 100, lovren 80 ise vida'yı 40'dan aşağı satan beşiktaş düşmanıdır.<br/><br/>final: vida'yı 50'ye satar yerine bir forvet bir defans bir on numara bir de kanat alırız.<br/><br/>kupadan bir hafta sonrası: vida'ya teklifler geliyor westham 30 veriyor. sat fiko sat.<br/><br/>kupadan 10 gün sonrası: liverpool devreye girerse vida 20 ye gidebilir fiko bu işi halleder.<br/><br/>kupadan 15 gün sonrası: vida için ciddi bir alıcı yok galiba 5'e satsak iyidir.
+  entry_channels: spor
 - entry_name: |
     evlilik için altın kemer isteyen kız
   entry_id:  79708868
@@ -294,26 +286,26 @@ data:
     1 yıl sonraki kendine not
   entry_id:  79709900
   entry_writer: oldu bye
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     eğer bu mesajı, aynı şehirde, aynı evde, aynı koltukta, aynı bilgisayarda yalnız başına okuyorsan.. silahın yerini biliyorsun.
   entry_channels: anket
 - entry_name: |
-    30 temmuz 2018 mgk'nın abd'ye verdiği efsane ayar
-  entry_id:  79738551
-  entry_writer: oray
+    fen liseleri kapatılsın
+  entry_id:  79737763
+  entry_writer: all son da all ur
   entry_fav_count: 15
   entry_content: |
-    "kabul etmeyip napıyoruz peki?" diye sordurtan ayardır.<br/><br/>(bkz: <a class="b" href="/?q=ayna+ayna+%c3%a7elik+ayna">ayna ayna çelik ayna</a>) kararının çıktığı toplantıdır.
-  entry_channels: haber
+    liseler komple kapatılsın...<br/>cemaatlere ve tarikatlara giriş sınavı yapılsın...
+  entry_channels: eğitim
 - entry_name: |
-    ruh eşinizin sizi istememesi
-  entry_id:  79734121
-  entry_writer: orlando balon
+    avrupa'nın en büyük tarım ülkesiyiz
+  entry_id:  79736848
+  entry_writer: herturluhalikilimtravel
   entry_fav_count: 14
   entry_content: |
-    (bkz: beni beğeneni ben beğenmem benim beğendiğim ise beni beğenmez)<br/>(bkz: <a class="b" href="/?q=ismail+yk%e2%80%99n%c4%b1n+postmodern+realist+filozof+olmas%c4%b1">ismail yk’nın postmodern realist filozof olması</a>)
-  entry_channels: ilişkiler
+    öncelikle bahsedilen tarımsal üretim değil; tarımsal alan. yani tarım alanı sınıfındaki arazi büyüklüğü olarak belirtiyor. <br/><br/>anadolu'nun %80'i verimsiz taş toprak arazi. zaten son yıllarda araziler sürekli tarım arazisi kapsamına çevriliyor. sebebi de kimse belediyelerden habersiz kendi rant bölgesini yaratamasın. belediyeler tarımsal arazileri istediği zaman sadece kendi adamlarının girebileceği bir şekilde imarlı arazi kapsamına alacak. <br/><br/>yani millet belediyeye rüşvet vermeden çivi çakamasın mentalitesiyle dağ taş bayır ve şehirlerin içindeki bir çok arazi tarım arazisi oldu. dolayısıyla total rakamda 1. olmus olabiliriz cünkü avrupa'daki en büyük sınır büyüklüğüne sahibiz. <br/><br/>yani en fazla nüfus bizde naaber? gibi ergence ve saçma bir gururlanmadır bu olay.<br/><br/>hatta iyi bir şeyden de öte kötü bir şeydir. çünkü "üretim/total alan" verimliliğinde ne kadar zayıf olduğumuzu ve bir bok üretmediğimizi göstermektedir.<br/><br/>ama olsun en çok arazi bizde...
+  entry_channels: ekonomi
 - entry_name: |
     paranın gücü neye yetmez
   entry_id:  79708667
@@ -323,29 +315,21 @@ data:
     sansin varsa ve sağlıklı bir zengin olarak doğduysan. sağlığıni bozmak için ısrarci <br/>da degilsen her şeyi satın alır. örneğin tank gibi korumasi olan arabanla trafik kazalarından korunursun. sürekli kaliteli beslenme ve düzenli olarak check up yaptırırsan yine her sey yolunda gider.<br/>çalışma stresi olmazsa ruh sağlığında iyi yönde gider.<br/>çok uzatmaya gerek yok, mantıklı ve zekice kullanılan para herseyi çözer. genetik sıkıntılar dışında.
   entry_channels: anket,ekonomi
 - entry_name: |
-    bedelliler olarak servisle evden mi alınacağız
-  entry_id:  79737885
-  entry_writer: galaios
-  entry_fav_count: 12
+    isveç'te yaşanan korkunç sokak kavgası
+  entry_id:  79739142
+  entry_writer: sd kart
+  entry_fav_count: 8
   entry_content: |
-    hatta nizamiyeden girişte generaller tarafından kucaklanıp, yatakhaneye kadar taşınıp ranzalarımıza yatırılacakmışız. sabah da öperek uyandıracaklarmış.
+    adamların hayvanları bile bizden medeni, yandan insanlar gelince "yeter artık, dağılalılım abi" deyip ortamı terk ediyorlar.
   entry_channels: 
 - entry_name: |
-    bülent ortaçgil
-  entry_id:  79722322
-  entry_writer: kug
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=sevilen+%c3%bcnl%c3%bcn%c3%bcn+r%c3%b6portaj+verip+s%c4%b1%c3%a7mas%c4%b1">sevilen ünlünün röportaj verip sıçması</a>)<br/><br/>sabah'a verdiği röportaja önce şaşırdım, sonra da öfkelendim. eşsiz bir müzik kariyerin var, gelmişsin yetmiş yaşına, hala gündelik küçük çıkarlar peşindesin. ulan ölüp gideceksin be! sen öldükten sonra geride şarkıların ve bu demeçlerin kalacak. o kadar güzel şarkılar yapıp, bu basit gerçekten nasıl uzaklaşır insan, anlayamıyorum. <br/><br/>yavuz bingöl ya da hasan kaçan gibi bir tip olsa zerre kadar umursamam ama bülent ortaçgil yahu. dün mazhar alanson, bugün ortaçgil. ne oluyor lan? yarın da erkan oğur mu çıkıp yalayacak? ben, hükümete yanlamaya çalışan sanatçıları sosyal medya gibi mecralarda linç etme hakkına sahip olduğumuzu düşünüyorum. geleceğimiz için, sanat için bunu yapma hakkımız var.
-  entry_channels: sanat,müzik
-- entry_name: |
-    30 temmuz 2018 yazın bittiği gerçeği
-  entry_id:  79726926
-  entry_writer: sinpecado
+    adana demirspor
+  entry_id:  79730199
+  entry_writer: mionel lessi
   entry_fav_count: 7
   entry_content: |
-    <a class="b" href="/?q=past%c4%b1rma+s%c4%b1caklar%c4%b1">pastırma sıcakları</a>nın ağustos ayında yaşandığını zanneden yazarları görmemizi sağlamış başlık.
-  entry_channels: 
+    tanju ve yanındaki sakallı kelin bugünlerde çok fena söğüşlediğini düşündüğüm takım.
+  entry_channels: spor
 - entry_name: |
     okurken ağlanan kitaplar
   entry_id:  79709922
@@ -355,21 +339,13 @@ data:
     (bkz: <a class="b" href="/?q=do%c4%9funun+limanlar%c4%b1">doğunun limanları</a>) <br/>(bkz: <a class="b" href="/?q=amin+maalouf">amin maalouf</a>)
   entry_channels: anket,edebiyat
 - entry_name: |
-    adana demirspor
-  entry_id:  79730199
-  entry_writer: mionel lessi
-  entry_fav_count: 6
-  entry_content: |
-    tanju ve yanındaki sakallı kelin bugünlerde çok fena söğüşlediğini düşündüğüm takım.
-  entry_channels: spor
-- entry_name: |
-    fen liseleri kapatılsın
-  entry_id:  79737763
-  entry_writer: all son da all ur
+    bülent ortaçgil'in abartılmış bir balon olması
+  entry_id:  79725428
+  entry_writer: bboomy
   entry_fav_count: 5
   entry_content: |
-    liseler komple kapatılsın...<br/>cemaatlere ve tarikatlara giriş sınavı yapılsın...
-  entry_channels: eğitim
+    balon olmasına balon da kim yaptı kim etti bu adamı böyle, sanırsın fenomen..ha bir grup insan da bülent ortaçgil dinlemeyi bir ayrıcalık olarak çevrelerine servis ederler ki egoları tatmin olsun.
+  entry_channels: müzik,magazin
 - entry_name: |
     yazar nick'lerinin öbür dünya versiyonları
   entry_id:  79736571
@@ -379,21 +355,45 @@ data:
     hayalkurmakyasak<br/>(zebani seri köz getiriyor bu arada)
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    türkiye'de esrar satışının serbest olacağı gün
-  entry_id:  79736426
-  entry_writer: sherlockholbes
+    kolunda atatürk dövmesi var diye darp edilen çocuk
+  entry_id:  79738283
+  entry_writer: rwthaachen
+  entry_fav_count: 3
+  entry_content: |
+    dövme yapilan alete oturtacaksin onlari, sonra kimseyi dövemezler. birini dövmeye yeltendikleri her an, akillarina o aci gelir, bir bok yapamazlar.
+  entry_channels: siyaset,haber
+- entry_name: |
+    yazarların bu geceki ruh hali
+  entry_id:  79708707
+  entry_writer: ayriyazilmayande
   entry_fav_count: 2
   entry_content: |
-    nedense bana esrarın yasallaşmasına en çok tarikat ve cemaatler sevinecekmiş gibi geliyor.
-  entry_channels: 
+    iyi bir ruh halindeyim, balkonda annem ve babamla türk kahvesi içip keyif yapıyoruz
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     kadın erkek arkadaşlığı
-  entry_id:  79736928
-  entry_writer: peaceful easy
+  entry_id:  79726498
+  entry_writer: los macikambos
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=t%c3%bcrkiye+friendzone+vakf%c4%b1">türkiye friendzone vakfı</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    bedelliler olarak servisle evden mi alınacağız
+  entry_id:  79739054
+  entry_writer: ne soyledigi belli olmayan adam
+  entry_fav_count: 2
+  entry_content: |
+    bu başlıklari bedelliye karşi olan tipler açıyor heralde askere giderlerse 21 gün boyunca öpsünler diye. temiz niyetli değiller.
+  entry_channels: 
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  79736780
+  entry_writer: salmo gardineri
   entry_fav_count: 0
   entry_content: |
-    sadece; taraflardan birinin gorece daha az cekici ve guzel oldugu durumda mumkundur...seksuel enerji aciga cikmayacak yani..anlatildi olum bunlar hep buralarda..
-  entry_channels: ilişkiler
+    korkunç zordur beni sevmek ve ben yanlız birinin başarabileceğini düşünüyorum ama o biri henüz istemiyor bunu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/armantemel">http://connected2.me/armantemel</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     bosch alacaklara tavsiyeler
   entry_id:  79720833

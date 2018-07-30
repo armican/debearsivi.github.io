@@ -63,11 +63,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fnij0p2kvyc11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Millennial's jokes
-  entry_id: 92x28b
-  entry_content: |
-    <img src=https://i.redditmedia.com/IVF7l-D-_rgU-YCcZOO2PctouzXb56KKvjgsls4pxqg.jpg?s=a6189cce08ae5a6d6add45f1e103d5e6 frameborder=0>
-- entry_name: |
     I see your baby musk ox and I counter with a baby aardwolf
   entry_id: 92zz9p
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92zrmv
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/NKfPbdK8F5M?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    The hero we don't deserve.
+  entry_id: 932b8o
+  entry_content: |
+    <img src=https://i.redditmedia.com/eZo9Vg7QVw50V356obzbpM9HLZyaI819ddNo5oK1TLs.jpg?s=35bb46b7b365542767ee9a617fd2c1a8 frameborder=0>
 ---
