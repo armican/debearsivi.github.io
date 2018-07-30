@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/l0hfSWdINa2RS7Cyl1WeJjbnroYix3-rEtkW98ljNiQ.jpg?s=496555eb738afad006a78edf9a367ed1 frameborder=0>
 - entry_name: |
-    Sims Logic
-  entry_id: 92wlg1
-  entry_content: |
-    <img src=https://i.redditmedia.com/LRmKG4zh5ftWBR-8H8jtF0zpgPFPsPqAThYA3fMUBjc.jpg?s=d80a10281c2eff1174d3f2ff64fd0f26 frameborder=0>
-- entry_name: |
     Wholesome sins
   entry_id: 93104r
   entry_content: |
@@ -213,11 +208,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xylefgQG64eqSomcD0nVib2LtydYedznxnkM-Ku9HCA.gif?fm=jpg&s=acd63382551057cea0d11b6198d7c6cf frameborder=0>
 - entry_name: |
-    In Light Of The New Mission Impossible Movie, Let Me Just Remind You Of The Time Tom Cruise Saluted L. Ron Hubbard. The Church Of Scientology Tried And Failed To Remove This Video From The Internet.
-  entry_id: 92wmyu
-  entry_content: |
-    <iframe width=459 height=344 src=https://www.youtube.com/embed/5cS3BFiGwgE?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
     The King is here!
   entry_id: 933617
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 92xwwm
   entry_content: |
     null
+- entry_name: |
+    This owl I found resembling it’s protection sign
+  entry_id: 93083q
+  entry_content: |
+    <img src=https://i.redditmedia.com/1u6DNjta9-hkDr9NfMO1ABGFtXe2FTB0JjfiSRxertk.jpg?s=e6d7007aff546e8e9f38fe14c91684b4 frameborder=0>
+- entry_name: |
+    Spray-on sunscreen under UV light
+  entry_id: 92x6iu
+  entry_content: |
+    <iframe src=https://v.redd.it/bhfo3wh0sxc11/DASH_1_2_M frameborder=0></iframe>
 ---
