@@ -38,11 +38,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/t91beenol1d11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    ULPT: Want to make some fast money this summer? Go buy store bought brownies and take them to a music festival near you. Walk around and sell them for $20 each. Everybody will assume they’re pot brownies and by time they realize they aren’t you’ll be long gone.
-  entry_id: 92xtoy
-  entry_content: |
-    null
-- entry_name: |
     TIL dry counties (counties where the sale of alcohol is banned) have a drunk driving fatality rate ~3.6 times higher than wet counties.
   entry_id: 932iux
   entry_content: |
@@ -98,11 +93,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/unk4xmc09yc11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Anon teaches his office
-  entry_id: 92xs2f
-  entry_content: |
-    <img src=https://i.redditmedia.com/vTarwyeQfesDX5mKX5AsFEK-Nb_v-L0QvDlxBWn276A.jpg?s=2ebac741c39fc1f9725804ffe52211a0 frameborder=0>
-- entry_name: |
     TIL The Emperor's New Groove was originally intended to be a musical epic similar to the Lion King titled Kingdom of the Sun, but after bad test screenings, the poor box office performance of Pocahontas, and creative differences between the directors, it was made into a light comedy
   entry_id: 930a2k
   entry_content: |
@@ -142,11 +132,6 @@ data:
   entry_id: 92yghz
   entry_content: |
     <img src=https://i.redditmedia.com/oYLoiTEco6uOSistUl2cSgzB-Jn2xwbOU1yT-MZsmmo.jpg?s=e9a07680be61cb517129bebf7bb471e4 frameborder=0>
-- entry_name: |
-    🔥 The forest reflected in a water droplet
-  entry_id: 92xrev
-  entry_content: |
-    <img src=https://i.redditmedia.com/Mw1VKqi75LRpY5CTNACybiOLRw7AKPBA3OcP-VdJo60.jpg?s=7abc76001df369fb2545e322726e32a7 frameborder=0>
 - entry_name: |
     Worthy of love
   entry_id: 934a1m
@@ -251,4 +236,19 @@ data:
   entry_id: 933sxg
   entry_content: |
     <img src=https://i.redditmedia.com/UC62NqaqVwMjTeLxPzuSNESriYGPJRi_xzK336jY6NU.jpg?s=193314a0b6175df7d1b668ecaf0bd214 frameborder=0>
+- entry_name: |
+    There was one left. It was nothing but chance. I'm so angry
+  entry_id: 931ymi
+  entry_content: |
+    <img src=https://i.redditmedia.com/d_sw3qc-_z3AyROU4EVP03VujW2pAzGsUOIeo3744-I.png?s=6c8e0a2bdef40b6f52a9a733ab9788cb frameborder=0>
+- entry_name: |
+    Daddy's little girl
+  entry_id: 92yyax
+  entry_content: |
+    <img src=https://i.redditmedia.com/PsJRWS3R2BkE1Gj3CHnYrVmBP0p-gM_KL-flDZlEB18.png?s=53c54da085f1c7313745638d0f697218 frameborder=0>
+- entry_name: |
+    hmmm
+  entry_id: 92zns9
+  entry_content: |
+    <img src=https://i.redditmedia.com/O3Ypdd6pO9hdNJzyfzaExb67CNI6owYS3gutylF9r3I.jpg?s=86ed2e299eb0614b156b0e97e57b76db frameborder=0>
 ---
