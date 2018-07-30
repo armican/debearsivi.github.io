@@ -183,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aqWGuIFGvp0Mx88lD0CO3nAvFq-C7g9ZwNhtA-64FTw.jpg?s=7e5c5b6c85078cb5a7a553c559ef738f frameborder=0>
 - entry_name: |
-    Deer bows after being given a treat.
-  entry_id: 92xmy5
-  entry_content: |
-    <iframe src=https://v.redd.it/4d9t2jsp2yc11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The enemy of the people
   entry_id: 92ynj3
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 92zrmv
   entry_content: |
     <iframe width=459 height=344 src=https://www.youtube.com/embed/NKfPbdK8F5M?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    Giuliani: ‘Collusion is not a crime’
+  entry_id: 933sxg
+  entry_content: |
+    <img src=https://i.redditmedia.com/UC62NqaqVwMjTeLxPzuSNESriYGPJRi_xzK336jY6NU.jpg?s=193314a0b6175df7d1b668ecaf0bd214 frameborder=0>
 ---
