@@ -13,15 +13,15 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAggravatingColdChicken&url=https%3A%2F%2Fgfycat.com%2FAggravatingColdChicken&image=https%3A%2F%2Fthumbs.gfycat.com%2FAggravatingColdChicken-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=919 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    You can never out-prank a dad
-  entry_id: 937qo7
-  entry_content: |
-    <iframe src=https://v.redd.it/4qaz4fldb5d11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     TIL A Japanese company has awarded its non-smoking employees 6 extra vacation days to compensate for the smoker’s smoke breaks
   entry_id: 93dfyx
   entry_content: |
     <img src=https://i.redditmedia.com/ZMhogQGQOoVJMGWkG-X8yq7eEo8tuqGNdbmU5_7LOpA.jpg?s=f02a89646294fdebe40364d605522748 frameborder=0>
+- entry_name: |
+    You can never out-prank a dad
+  entry_id: 937qo7
+  entry_content: |
+    <iframe src=https://v.redd.it/4qaz4fldb5d11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Good guy bus driver
   entry_id: 939c8p
@@ -43,6 +43,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vpcg34pxq6d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Little Girl stops by with Burritos for the Firefighters who are currently battling the Carr forest fire in CA.
+  entry_id: 93dhjg
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBelovedLastBallpython&url=https%3A%2F%2Fgfycat.com%2FBelovedLastBallpython&image=https%3A%2F%2Fthumbs.gfycat.com%2FBelovedLastBallpython-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     I'm 27 and have never owned a cat, until now.
   entry_id: 9396j6
   entry_content: |
@@ -63,6 +68,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Gaqi5JGjbnLvT_Qta2WX2cYMP-yWzEq4UUEev65bESQ.jpg?s=ade10961e2de8a92bc018ecfa7ce9d9d frameborder=0>
 - entry_name: |
+    2 Dogs, 1 nut
+  entry_id: 93diby
+  entry_content: |
+    <iframe src=https://v.redd.it/7tsynbzpm9d11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    A year ago, I started staying in and peircing state quarters, instead of going out and getting in trouble. Here is my collection so far.
+  entry_id: 93d5i4
+  entry_content: |
+    <img src=https://i.redditmedia.com/tPKfBGbBCfYyUA8Ab8X3mBrhUiRnf4mHbIZ-hfQY7fI.jpg?s=d5fd8b9a147d8041ff8af3cac30c5a6c frameborder=0>
+- entry_name: |
     The city police in my area are pulling kids on bikes with helmets over! My daughter won’t stop talking about it!
   entry_id: 93999z
   entry_content: |
@@ -73,35 +88,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/1yJa2-sNLIPgAYetvxjJVyKSrVhx65wcCNLGsUd8xnQ.jpg?s=68fbedd9e7febe8613e04455911e160a frameborder=0>
 - entry_name: |
-    Little Girl stops by with Burritos for the Firefighters who are currently battling the Carr forest fire in CA.
-  entry_id: 93dhjg
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBelovedLastBallpython&url=https%3A%2F%2Fgfycat.com%2FBelovedLastBallpython&image=https%3A%2F%2Fthumbs.gfycat.com%2FBelovedLastBallpython-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Games that let you max out your stealth.
   entry_id: 938k1p
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/V5YjlQkDz5w?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
-- entry_name: |
-    A year ago, I started staying in and peircing state quarters, instead of going out and getting in trouble. Here is my collection so far.
-  entry_id: 93d5i4
-  entry_content: |
-    <img src=https://i.redditmedia.com/tPKfBGbBCfYyUA8Ab8X3mBrhUiRnf4mHbIZ-hfQY7fI.jpg?s=d5fd8b9a147d8041ff8af3cac30c5a6c frameborder=0>
-- entry_name: |
-    A surprise to be sure, but a welcome one
-  entry_id: 9373sk
-  entry_content: |
-    <img src=https://i.redditmedia.com/3M_tUekaWev4n_RvkRDO1pg-G2dK30X_meLgClDznh4.png?s=5f9cb5fed1b4548ff854ad5eb28714d0 frameborder=0>
 - entry_name: |
     correct.
   entry_id: 939wn6
   entry_content: |
     <img src=https://i.redditmedia.com/U3dYVG6mBDe3NrmejbzkTl1_w6rMTacb2IMjnxYoJZE.jpg?s=506b0759f1cbd7dd31d6e1dd87e7fac6 frameborder=0>
 - entry_name: |
-    2 Dogs, 1 nut
-  entry_id: 93diby
+    A surprise to be sure, but a welcome one
+  entry_id: 9373sk
   entry_content: |
-    <iframe src=https://v.redd.it/7tsynbzpm9d11/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/3M_tUekaWev4n_RvkRDO1pg-G2dK30X_meLgClDznh4.png?s=5f9cb5fed1b4548ff854ad5eb28714d0 frameborder=0>
+- entry_name: |
+    Dog attempts to get their bed back from the cat who has claimed it
+  entry_id: 93dsrm
+  entry_content: |
+    <iframe src=https://v.redd.it/dlv7hwv4v9d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Am I doing this right?
   entry_id: 939w58
@@ -112,6 +117,16 @@ data:
   entry_id: 939iww
   entry_content: |
     <iframe src=https://v.redd.it/s1772a56j4d11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Federal government says it will not consider decriminalizing drugs beyond marijuana, despite calls from Canada’s major cities to consider measure. Montreal and Toronto are echoing Vancouver and urging government to treat drug use as public health issue, rather than criminal one.
+  entry_id: 93drwv
+  entry_content: |
+    <img src=https://i.redditmedia.com/MGXtC6q0claO0Uz8Z5lmqTlSqFgQBUZFF9aBSvGvmbA.jpg?s=e31d07db48a015852c46443e89fa1183 frameborder=0>
+- entry_name: |
+    Bitch u wasted my gas money
+  entry_id: 93cmm4
+  entry_content: |
+    <img src=https://i.redditmedia.com/LibC4Rfx38vPrr3hPzjx1Aoh76C_mXPQhVo7rNnU7uk.jpg?s=b76ebe14bce275e49957e9835cd65843 frameborder=0>
 - entry_name: |
     Koch-backed study finds ‘Medicare for All’ would save U.S. government trillions
   entry_id: 9371wm
@@ -143,20 +158,30 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/rt5ieg3v06d11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Fucking weeaboos
+  entry_id: 93cpjo
+  entry_content: |
+    <img src=https://i.redditmedia.com/_ehQptcV60WuC43yp0lthGRKqQJTWbQKPttcD1wNe-E.jpg?s=27afbca78d957c58f4676144edd4d825 frameborder=0>
+- entry_name: |
     Free the boys.
   entry_id: 938w54
   entry_content: |
     <img src=https://i.redditmedia.com/CNLwQjcKyTSkZpAwDfOtiKcv3-Qy9SGl-CGLb95R9nc.jpg?s=6c62ad6d8880a30fd16c04137f0df094 frameborder=0>
 - entry_name: |
-    Bitch u wasted my gas money
-  entry_id: 93cmm4
-  entry_content: |
-    <img src=https://i.redditmedia.com/LibC4Rfx38vPrr3hPzjx1Aoh76C_mXPQhVo7rNnU7uk.jpg?s=b76ebe14bce275e49957e9835cd65843 frameborder=0>
-- entry_name: |
     What Life Pro Tip have you learned from Reddit that you still use every time the situation presents itself?
   entry_id: 936cps
   entry_content: |
     null
+- entry_name: |
+    MRW I log on to my computer and check this week's results from GifTournament X.
+  entry_id: 93crj4
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulAcceptableEasternglasslizard&url=https%3A%2F%2Fgfycat.com%2FWatchfulAcceptableEasternglasslizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulAcceptableEasternglasslizard-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=251 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Dad always knows best
+  entry_id: 93co2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
 - entry_name: |
     This cicada has the McDonald’s logo on it
   entry_id: 938jtj
@@ -173,10 +198,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/brRGgMMb3bpcSwXaydGZlyjcZneRIUrMBRYffIgry8A.jpg?s=87b6a338c238ab43f4fa212b875f172d frameborder=0>
 - entry_name: |
-    Federal government says it will not consider decriminalizing drugs beyond marijuana, despite calls from Canada’s major cities to consider measure. Montreal and Toronto are echoing Vancouver and urging government to treat drug use as public health issue, rather than criminal one.
-  entry_id: 93drwv
+    I thought this belonged here
+  entry_id: 938o8i
   entry_content: |
-    <img src=https://i.redditmedia.com/MGXtC6q0claO0Uz8Z5lmqTlSqFgQBUZFF9aBSvGvmbA.jpg?s=e31d07db48a015852c46443e89fa1183 frameborder=0>
+    <img src=https://i.redditmedia.com/pcbkNbdwRhXJ7xXt6ymHtpMdkpLKXhyFZgitPl9Rd6A.jpg?s=0e57ccf7d73f72db0f990362c25a129b frameborder=0>
 - entry_name: |
     Pet it already!
   entry_id: 9382p1
@@ -188,15 +213,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xt2dTeyjYGIW6Hv8d37DhzzrVagKR_OefiMqrKDJKtw.jpg?s=6d34dbf9d5029d1e6eb3ef6b63aefcba frameborder=0>
 - entry_name: |
-    I thought this belonged here
-  entry_id: 938o8i
+    This key my mom had when she was a college professor in the 90s has circles instead of a cuts
+  entry_id: 93amry
   entry_content: |
-    <img src=https://i.redditmedia.com/pcbkNbdwRhXJ7xXt6ymHtpMdkpLKXhyFZgitPl9Rd6A.jpg?s=0e57ccf7d73f72db0f990362c25a129b frameborder=0>
-- entry_name: |
-    MRW I log on to my computer and check this week's results from GifTournament X.
-  entry_id: 93crj4
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulAcceptableEasternglasslizard&url=https%3A%2F%2Fgfycat.com%2FWatchfulAcceptableEasternglasslizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulAcceptableEasternglasslizard-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=251 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+    <img src=https://i.redditmedia.com/V6LmDJ9L3mjBrnfgtV3GKxLenev9XhjgKokvJfBQ3qc.jpg?s=c50422a06e32df1b99b6b7ca450faa95 frameborder=0>
 - entry_name: |
     Kiki do you love me..... WCGW?
   entry_id: 936t24
@@ -208,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ksZPGjn6kixSMVkXh3IwTJAsGpT0DJDkDApeOpuersI.jpg?s=407d6a448af66523902546cfacf36596 frameborder=0>
 - entry_name: |
-    This key my mom had when she was a college professor in the 90s has circles instead of a cuts
-  entry_id: 93amry
-  entry_content: |
-    <img src=https://i.redditmedia.com/V6LmDJ9L3mjBrnfgtV3GKxLenev9XhjgKokvJfBQ3qc.jpg?s=c50422a06e32df1b99b6b7ca450faa95 frameborder=0>
-- entry_name: |
     That study going around on Bernie Sanders' Medicare for All plan comes with a big catch — the US would actually be saving money overall on healthcare
   entry_id: 939dg3
   entry_content: |
@@ -223,33 +238,18 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ITlqIDKhdjnYswyloa6-nQmoIINwnILQZ-mTeMdeHJg.jpg?s=c8183991eb0f0141190ff0448b13b8e6 frameborder=0>
 - entry_name: |
-    Fucking weeaboos
-  entry_id: 93cpjo
+    Terry Gilliam has been sharing some amazing new posters for 'The Man Who Killed Don Quixote' on his Facebook page. Here is one.
+  entry_id: 93ahg9
   entry_content: |
-    <img src=https://i.redditmedia.com/_ehQptcV60WuC43yp0lthGRKqQJTWbQKPttcD1wNe-E.jpg?s=27afbca78d957c58f4676144edd4d825 frameborder=0>
+    <img src=https://i.redditmedia.com/a5VFWrCvgcl8TfNlspB84yc6UFlvNLD1DMPx0MBkt24.jpg?s=124fc70397df102b64e8965988de3a1c frameborder=0>
 - entry_name: |
     Conservative Think-Tanker Accidentally Argues That Single Payer Could Save Americans $2 Trillion
   entry_id: 937t5e
   entry_content: |
     <img src=https://i.redditmedia.com/2YwJd86kX9k7D1rqtbJlvWQgC7A_iYp0uHP0wig-DsI.jpg?s=85dd1b2f80955c3bd49cb003a4b2b005 frameborder=0>
 - entry_name: |
-    Terry Gilliam has been sharing some amazing new posters for 'The Man Who Killed Don Quixote' on his Facebook page. Here is one.
-  entry_id: 93ahg9
+    People who can’t fucking pick up after themselves.
+  entry_id: 93afpr
   entry_content: |
-    <img src=https://i.redditmedia.com/a5VFWrCvgcl8TfNlspB84yc6UFlvNLD1DMPx0MBkt24.jpg?s=124fc70397df102b64e8965988de3a1c frameborder=0>
-- entry_name: |
-    Onward, my mighty steed
-  entry_id: 936qck
-  entry_content: |
-    <iframe src=https://v.redd.it/m7rjq14vh3d11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Dad always knows best
-  entry_id: 93co2z
-  entry_content: |
-    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
-- entry_name: |
-    Reluctantly, but still ...
-  entry_id: 93a2cx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+    <img src=https://i.redditmedia.com/FYg4uxJAgGA3HqHs9MlgMdQAXqo_0UlM7CyLpxB_ADM.jpg?s=34db2942d6e05a78943b8bbdd48c3548 frameborder=0>
 ---
