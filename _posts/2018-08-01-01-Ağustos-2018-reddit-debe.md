@@ -8,15 +8,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/lrUm5QznAZ_sxf0YnnNVYvxNQRFGCxlpIp_5A8JruKY.jpg?s=867fcfa985815cb607a70100186efab2 frameborder=0>
 - entry_name: |
-    They bet Grandma she couldn’t do the dance...they lost.
-  entry_id: 9371ls
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAggravatingColdChicken&url=https%3A%2F%2Fgfycat.com%2FAggravatingColdChicken&image=https%3A%2F%2Fthumbs.gfycat.com%2FAggravatingColdChicken-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=919 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     TIL A Japanese company has awarded its non-smoking employees 6 extra vacation days to compensate for the smoker’s smoke breaks
   entry_id: 93dfyx
   entry_content: |
     <img src=https://i.redditmedia.com/ZMhogQGQOoVJMGWkG-X8yq7eEo8tuqGNdbmU5_7LOpA.jpg?s=f02a89646294fdebe40364d605522748 frameborder=0>
+- entry_name: |
+    They bet Grandma she couldn’t do the dance...they lost.
+  entry_id: 9371ls
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAggravatingColdChicken&url=https%3A%2F%2Fgfycat.com%2FAggravatingColdChicken&image=https%3A%2F%2Fthumbs.gfycat.com%2FAggravatingColdChicken-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=919 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     You can never out-prank a dad
   entry_id: 937qo7
@@ -53,16 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Rnz5XtFvqtKQ9QzJ4ohKp-LFdu-DD7qj0PjnPj0Cjr4.jpg?s=58fb6109cb96644154f31d92a5e037fe frameborder=0>
 - entry_name: |
-    I think I just interrupted a meeting I wasnt supposed to know about
-  entry_id: 93b2z6
-  entry_content: |
-    <img src=https://i.redditmedia.com/mSJSPckn5M-tLl4EKEw4oe8dDkjjDsj02tfyVWRvUDQ.jpg?s=24ff76fa8084aec91951d7d980bf84b4 frameborder=0>
-- entry_name: |
-    US intelligence agencies determine that North Korea is constructing new missiles: report
-  entry_id: 93972q
-  entry_content: |
-    <img src=https://i.redditmedia.com/Gaqi5JGjbnLvT_Qta2WX2cYMP-yWzEq4UUEev65bESQ.jpg?s=ade10961e2de8a92bc018ecfa7ce9d9d frameborder=0>
-- entry_name: |
     2 Dogs, 1 nut
   entry_id: 93diby
   entry_content: |
@@ -73,10 +63,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/tPKfBGbBCfYyUA8Ab8X3mBrhUiRnf4mHbIZ-hfQY7fI.jpg?s=d5fd8b9a147d8041ff8af3cac30c5a6c frameborder=0>
 - entry_name: |
+    I think I just interrupted a meeting I wasnt supposed to know about
+  entry_id: 93b2z6
+  entry_content: |
+    <img src=https://i.redditmedia.com/mSJSPckn5M-tLl4EKEw4oe8dDkjjDsj02tfyVWRvUDQ.jpg?s=24ff76fa8084aec91951d7d980bf84b4 frameborder=0>
+- entry_name: |
+    US intelligence agencies determine that North Korea is constructing new missiles: report
+  entry_id: 93972q
+  entry_content: |
+    <img src=https://i.redditmedia.com/Gaqi5JGjbnLvT_Qta2WX2cYMP-yWzEq4UUEev65bESQ.jpg?s=ade10961e2de8a92bc018ecfa7ce9d9d frameborder=0>
+- entry_name: |
     The city police in my area are pulling kids on bikes with helmets over! My daughter won’t stop talking about it!
   entry_id: 93999z
   entry_content: |
     <img src=https://i.redditmedia.com/aBrzwBFYZ7eMdUNI1e2TS6C5U4IQ4-6CgJ0DD5NN1ds.jpg?s=1e8f0bd0499dc66ff84b92a3bbf8c171 frameborder=0>
+- entry_name: |
+    Dog attempts to get their bed back from the cat who has claimed it
+  entry_id: 93dsrm
+  entry_content: |
+    <iframe src=https://v.redd.it/dlv7hwv4v9d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     Games that let you max out your stealth.
   entry_id: 938k1p
@@ -88,15 +93,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/U3dYVG6mBDe3NrmejbzkTl1_w6rMTacb2IMjnxYoJZE.jpg?s=506b0759f1cbd7dd31d6e1dd87e7fac6 frameborder=0>
 - entry_name: |
+    Federal government says it will not consider decriminalizing drugs beyond marijuana, despite calls from Canada’s major cities to consider measure. Montreal and Toronto are echoing Vancouver and urging government to treat drug use as public health issue, rather than criminal one.
+  entry_id: 93drwv
+  entry_content: |
+    <img src=https://i.redditmedia.com/MGXtC6q0claO0Uz8Z5lmqTlSqFgQBUZFF9aBSvGvmbA.jpg?s=e31d07db48a015852c46443e89fa1183 frameborder=0>
+- entry_name: |
     A surprise to be sure, but a welcome one
   entry_id: 9373sk
   entry_content: |
     <img src=https://i.redditmedia.com/3M_tUekaWev4n_RvkRDO1pg-G2dK30X_meLgClDznh4.png?s=5f9cb5fed1b4548ff854ad5eb28714d0 frameborder=0>
 - entry_name: |
-    Dog attempts to get their bed back from the cat who has claimed it
-  entry_id: 93dsrm
+    Bitch u wasted my gas money
+  entry_id: 93cmm4
   entry_content: |
-    <iframe src=https://v.redd.it/dlv7hwv4v9d11/DASH_4_8_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/LibC4Rfx38vPrr3hPzjx1Aoh76C_mXPQhVo7rNnU7uk.jpg?s=b76ebe14bce275e49957e9835cd65843 frameborder=0>
 - entry_name: |
     Am I doing this right?
   entry_id: 939w58
@@ -108,16 +118,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/s1772a56j4d11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Federal government says it will not consider decriminalizing drugs beyond marijuana, despite calls from Canada’s major cities to consider measure. Montreal and Toronto are echoing Vancouver and urging government to treat drug use as public health issue, rather than criminal one.
-  entry_id: 93drwv
-  entry_content: |
-    <img src=https://i.redditmedia.com/MGXtC6q0claO0Uz8Z5lmqTlSqFgQBUZFF9aBSvGvmbA.jpg?s=e31d07db48a015852c46443e89fa1183 frameborder=0>
-- entry_name: |
-    Bitch u wasted my gas money
-  entry_id: 93cmm4
-  entry_content: |
-    <img src=https://i.redditmedia.com/LibC4Rfx38vPrr3hPzjx1Aoh76C_mXPQhVo7rNnU7uk.jpg?s=b76ebe14bce275e49957e9835cd65843 frameborder=0>
-- entry_name: |
     Koch-backed study finds ‘Medicare for All’ would save U.S. government trillions
   entry_id: 9371wm
   entry_content: |
@@ -128,40 +128,50 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/fsq4ua-E7OAww80vmmAIQ2FRODSw1K9aD7ISDUq-yJE.jpg?s=f2187bd92d37d61d5cfab202ccf036af frameborder=0>
 - entry_name: |
+    Fucking weeaboos
+  entry_id: 93cpjo
+  entry_content: |
+    <img src=https://i.redditmedia.com/_ehQptcV60WuC43yp0lthGRKqQJTWbQKPttcD1wNe-E.jpg?s=27afbca78d957c58f4676144edd4d825 frameborder=0>
+- entry_name: |
     Can't out smart a whale
   entry_id: 937bll
   entry_content: |
     <iframe src=https://v.redd.it/t7h5zh8zzad11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Dad always knows best
+  entry_id: 93co2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
+- entry_name: |
+    This cactus looks like it's giving the middle finger.
+  entry_id: 93dyde
+  entry_content: |
+    <img src=https://i.redditmedia.com/YaGzDhDbgX716LAgHilr78TeLAipTH4K9esepEb1ou8.jpg?s=f85eb8ecd5688b19f8200ef2c93ea83b frameborder=0>
 - entry_name: |
     Just a snippet from an acrylic paint commercial a friend sent me, it seemed fitting
   entry_id: 9383i9
   entry_content: |
     <iframe src=https://v.redd.it/74b58qwmi5d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    MRW I log on to my computer and check this week's results from GifTournament X.
+  entry_id: 93crj4
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulAcceptableEasternglasslizard&url=https%3A%2F%2Fgfycat.com%2FWatchfulAcceptableEasternglasslizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulAcceptableEasternglasslizard-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=251 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     Musician in Senegal plays a Kashaka, an instrument made of two small, bean-filled gourds that are connected by a string
   entry_id: 9390ql
   entry_content: |
     <iframe src=https://v.redd.it/rt5ieg3v06d11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Fucking weeaboos
-  entry_id: 93cpjo
-  entry_content: |
-    <img src=https://i.redditmedia.com/_ehQptcV60WuC43yp0lthGRKqQJTWbQKPttcD1wNe-E.jpg?s=27afbca78d957c58f4676144edd4d825 frameborder=0>
 - entry_name: |
     Free the boys.
   entry_id: 938w54
   entry_content: |
     <img src=https://i.redditmedia.com/CNLwQjcKyTSkZpAwDfOtiKcv3-Qy9SGl-CGLb95R9nc.jpg?s=6c62ad6d8880a30fd16c04137f0df094 frameborder=0>
 - entry_name: |
-    MRW I log on to my computer and check this week's results from GifTournament X.
-  entry_id: 93crj4
+    Mission Improbable
+  entry_id: 93d89r
   entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulAcceptableEasternglasslizard&url=https%3A%2F%2Fgfycat.com%2FWatchfulAcceptableEasternglasslizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulAcceptableEasternglasslizard-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=251 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    Dad always knows best
-  entry_id: 93co2z
-  entry_content: |
-    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
+    <img src=https://i.redditmedia.com/qzVlvhNnwpu7VY0rvhZLwTVMwvvQ0hDurlngyKaIYzg.jpg?s=c68cd8e00e0728f5095ce859a9aa4a9f frameborder=0>
 - entry_name: |
     This cicada has the McDonald’s logo on it
   entry_id: 938jtj
@@ -223,6 +233,11 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/a5VFWrCvgcl8TfNlspB84yc6UFlvNLD1DMPx0MBkt24.jpg?s=124fc70397df102b64e8965988de3a1c frameborder=0>
 - entry_name: |
+    There will be a generation (that may have started) that will know Dwayne Johnson as an action movie star and never smell what the Rock is cooking.
+  entry_id: 93dwsu
+  entry_content: |
+    null
+- entry_name: |
     Conservative Think-Tanker Accidentally Argues That Single Payer Could Save Americans $2 Trillion
   entry_id: 937t5e
   entry_content: |
@@ -233,23 +248,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FYg4uxJAgGA3HqHs9MlgMdQAXqo_0UlM7CyLpxB_ADM.jpg?s=34db2942d6e05a78943b8bbdd48c3548 frameborder=0>
 - entry_name: |
-    Onward, my mighty steed
-  entry_id: 936qck
-  entry_content: |
-    <iframe src=https://v.redd.it/m7rjq14vh3d11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Reluctantly, but still ...
-  entry_id: 93a2cx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     There are two types of cats.
   entry_id: 93af5c
   entry_content: |
     <iframe src=https://v.redd.it/jisq0g6tz6d11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    She has a point
-  entry_id: 939g1v
-  entry_content: |
-    <img src=https://i.redditmedia.com/CV8MhN64ipqvIeSvJF3sGFaPu9D9yJOZdp86RkuFWC4.jpg?s=c4a107833e3b384150403d2a2975cdd1 frameborder=0>
 ---
