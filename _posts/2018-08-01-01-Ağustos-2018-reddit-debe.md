@@ -38,6 +38,11 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/vpcg34pxq6d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    Dog attempts to get their bed back from the cat who has claimed it
+  entry_id: 93dsrm
+  entry_content: |
+    <iframe src=https://v.redd.it/dlv7hwv4v9d11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
     2 Dogs, 1 nut
   entry_id: 93diby
   entry_content: |
@@ -47,11 +52,6 @@ data:
   entry_id: 9396j6
   entry_content: |
     <img src=https://i.redditmedia.com/Rnz5XtFvqtKQ9QzJ4ohKp-LFdu-DD7qj0PjnPj0Cjr4.jpg?s=58fb6109cb96644154f31d92a5e037fe frameborder=0>
-- entry_name: |
-    Dog attempts to get their bed back from the cat who has claimed it
-  entry_id: 93dsrm
-  entry_content: |
-    <iframe src=https://v.redd.it/dlv7hwv4v9d11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     A year ago, I started staying in and peircing state quarters, instead of going out and getting in trouble. Here is my collection so far.
   entry_id: 93d5i4
@@ -83,65 +83,85 @@ data:
   entry_content: |
     <iframe width=600 height=338 src=https://www.youtube.com/embed/V5YjlQkDz5w?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
 - entry_name: |
+    This cactus looks like it's giving the middle finger.
+  entry_id: 93dyde
+  entry_content: |
+    <img src=https://i.redditmedia.com/YaGzDhDbgX716LAgHilr78TeLAipTH4K9esepEb1ou8.jpg?s=f85eb8ecd5688b19f8200ef2c93ea83b frameborder=0>
+- entry_name: |
     correct.
   entry_id: 939wn6
   entry_content: |
     <img src=https://i.redditmedia.com/U3dYVG6mBDe3NrmejbzkTl1_w6rMTacb2IMjnxYoJZE.jpg?s=506b0759f1cbd7dd31d6e1dd87e7fac6 frameborder=0>
+- entry_name: |
+    Altocumulus clouds & a sunset at 30,000ft
+  entry_id: 93efra
+  entry_content: |
+    <img src=https://i.redditmedia.com/RaxnnyqGdCRFPKEPUzy6PqrUGtf7A7jiB9uqirL5weU.jpg?s=dd7871ac3faf64a9573108699c5f8f5f frameborder=0>
 - entry_name: |
     Bitch u wasted my gas money
   entry_id: 93cmm4
   entry_content: |
     <img src=https://i.redditmedia.com/LibC4Rfx38vPrr3hPzjx1Aoh76C_mXPQhVo7rNnU7uk.jpg?s=b76ebe14bce275e49957e9835cd65843 frameborder=0>
 - entry_name: |
-    This cactus looks like it's giving the middle finger.
-  entry_id: 93dyde
+    There will be a generation (that may have started) that will know Dwayne Johnson as an action movie star and never smell what the Rock is cooking.
+  entry_id: 93dwsu
   entry_content: |
-    <img src=https://i.redditmedia.com/YaGzDhDbgX716LAgHilr78TeLAipTH4K9esepEb1ou8.jpg?s=f85eb8ecd5688b19f8200ef2c93ea83b frameborder=0>
+    null
 - entry_name: |
     Am I doing this right?
   entry_id: 939w58
   entry_content: |
     <img src=https://i.redditmedia.com/eAg0FgN8gaYaXt3egDYJRgykQjjqtj_UZ1i4_8S1mQw.jpg?s=27f91e2126c201ff69880d56268692d9 frameborder=0>
 - entry_name: |
-    Shrub camouflage
-  entry_id: 939iww
-  entry_content: |
-    <iframe src=https://v.redd.it/s1772a56j4d11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Fucking weeaboos
   entry_id: 93cpjo
   entry_content: |
     <img src=https://i.redditmedia.com/_ehQptcV60WuC43yp0lthGRKqQJTWbQKPttcD1wNe-E.jpg?s=27afbca78d957c58f4676144edd4d825 frameborder=0>
 - entry_name: |
-    Wrongfully jailed man wins $3.5 million: 'I kept saying, it's not me'
-  entry_id: 939kah
+    Shrub camouflage
+  entry_id: 939iww
   entry_content: |
-    <img src=https://i.redditmedia.com/fsq4ua-E7OAww80vmmAIQ2FRODSw1K9aD7ISDUq-yJE.jpg?s=f2187bd92d37d61d5cfab202ccf036af frameborder=0>
-- entry_name: |
-    Dad always knows best
-  entry_id: 93co2z
-  entry_content: |
-    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
-- entry_name: |
-    There will be a generation (that may have started) that will know Dwayne Johnson as an action movie star and never smell what the Rock is cooking.
-  entry_id: 93dwsu
-  entry_content: |
-    null
+    <iframe src=https://v.redd.it/s1772a56j4d11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Mission Improbable
   entry_id: 93d89r
   entry_content: |
     <img src=https://i.redditmedia.com/qzVlvhNnwpu7VY0rvhZLwTVMwvvQ0hDurlngyKaIYzg.jpg?s=c68cd8e00e0728f5095ce859a9aa4a9f frameborder=0>
 - entry_name: |
+    Dad always knows best
+  entry_id: 93co2z
+  entry_content: |
+    <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
+- entry_name: |
+    Wrongfully jailed man wins $3.5 million: 'I kept saying, it's not me'
+  entry_id: 939kah
+  entry_content: |
+    <img src=https://i.redditmedia.com/fsq4ua-E7OAww80vmmAIQ2FRODSw1K9aD7ISDUq-yJE.jpg?s=f2187bd92d37d61d5cfab202ccf036af frameborder=0>
+- entry_name: |
     MRW I log on to my computer and check this week's results from GifTournament X.
   entry_id: 93crj4
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWatchfulAcceptableEasternglasslizard&url=https%3A%2F%2Fgfycat.com%2FWatchfulAcceptableEasternglasslizard&image=https%3A%2F%2Fthumbs.gfycat.com%2FWatchfulAcceptableEasternglasslizard-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=251 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
+    In 2017 people made this and conservatives laughed because we were at stage 2 now we are box 6.
+  entry_id: 93e971
+  entry_content: |
+    <img src=https://i.redditmedia.com/kUaMZzq3jeZWZEzExwI6FcRiWK1UARu5c2B6jVRgPGk.png?s=bfa7b740a3fb17bd2d57d3b7850d5aaa frameborder=0>
+- entry_name: |
+    “oh shit man i’m carrying, we gotta stash these milk bones!”
+  entry_id: 93ef1i
+  entry_content: |
+    <iframe src=https://v.redd.it/speww6xyi8d11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
     Just a snippet from an acrylic paint commercial a friend sent me, it seemed fitting
   entry_id: 9383i9
   entry_content: |
     <iframe src=https://v.redd.it/74b58qwmi5d11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Navy musician Graham Jackson playing “Goin’ Home” as Franklin D. Roosevelt's funeral train passes by (1945)
+  entry_id: 93e7v3
+  entry_content: |
+    <img src=https://i.redditmedia.com/xPUvGUR03CagvDEYfdupHDCGtMjl3DgCydn7ytcXtMM.jpg?s=1f8bf98a8cda3166398c825b44b45b2b frameborder=0>
 - entry_name: |
     Musician in Senegal plays a Kashaka, an instrument made of two small, bean-filled gourds that are connected by a string
   entry_id: 9390ql
@@ -153,25 +173,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CNLwQjcKyTSkZpAwDfOtiKcv3-Qy9SGl-CGLb95R9nc.jpg?s=6c62ad6d8880a30fd16c04137f0df094 frameborder=0>
 - entry_name: |
+    Car waxing.
+  entry_id: 93euvn
+  entry_content: |
+    <img src=https://i.redditmedia.com/u1RD9VckQeml-YV5EzPLJRm9zQQ2X5ux2fb2qf11a6c.jpg?s=cc2c40644350fc040b0547aeb495fc2a frameborder=0>
+- entry_name: |
     A couple kitties all the way from Egypt
   entry_id: 939goo
   entry_content: |
     <img src=https://i.redditmedia.com/Gc4xP4UdDYTvJIdRZ5isTw3aXe-ikeodJysWTV4_biE.jpg?s=9ddeb125752dbd54e7c292122e6585bc frameborder=0>
 - entry_name: |
-    In 2017 people made this and conservatives laughed because we were at stage 2 now we are box 6.
-  entry_id: 93e971
-  entry_content: |
-    <img src=https://i.redditmedia.com/kUaMZzq3jeZWZEzExwI6FcRiWK1UARu5c2B6jVRgPGk.png?s=bfa7b740a3fb17bd2d57d3b7850d5aaa frameborder=0>
-- entry_name: |
     This cicada has the McDonald’s logo on it
   entry_id: 938jtj
   entry_content: |
     <img src=https://i.redditmedia.com/4-dFtanbKAB0_15NKZLQ2CYBWi5Vmpd8yJRdzpC5nQU.jpg?s=ead523e57f1b2d29f24692e1049938d6 frameborder=0>
-- entry_name: |
-    Altocumulus clouds & a sunset at 30,000ft
-  entry_id: 93efra
-  entry_content: |
-    <img src=https://i.redditmedia.com/RaxnnyqGdCRFPKEPUzy6PqrUGtf7A7jiB9uqirL5weU.jpg?s=dd7871ac3faf64a9573108699c5f8f5f frameborder=0>
 - entry_name: |
     A croc with his butterfly mates
   entry_id: 939mbl
@@ -188,15 +203,15 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jht5w9lhh5d11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Mad Math Lad
-  entry_id: 938gea
-  entry_content: |
-    <img src=https://i.redditmedia.com/xt2dTeyjYGIW6Hv8d37DhzzrVagKR_OefiMqrKDJKtw.jpg?s=6d34dbf9d5029d1e6eb3ef6b63aefcba frameborder=0>
-- entry_name: |
     This key my mom had when she was a college professor in the 90s has circles instead of a cuts
   entry_id: 93amry
   entry_content: |
     <img src=https://i.redditmedia.com/V6LmDJ9L3mjBrnfgtV3GKxLenev9XhjgKokvJfBQ3qc.jpg?s=c50422a06e32df1b99b6b7ca450faa95 frameborder=0>
+- entry_name: |
+    Mad Math Lad
+  entry_id: 938gea
+  entry_content: |
+    <img src=https://i.redditmedia.com/xt2dTeyjYGIW6Hv8d37DhzzrVagKR_OefiMqrKDJKtw.jpg?s=6d34dbf9d5029d1e6eb3ef6b63aefcba frameborder=0>
 - entry_name: |
     Some parents are awful
   entry_id: 938vpk
@@ -213,43 +228,28 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ITlqIDKhdjnYswyloa6-nQmoIINwnILQZ-mTeMdeHJg.jpg?s=c8183991eb0f0141190ff0448b13b8e6 frameborder=0>
 - entry_name: |
-    Navy musician Graham Jackson playing “Goin’ Home” as Franklin D. Roosevelt's funeral train passes by (1945)
-  entry_id: 93e7v3
+    Reluctantly, but still ...
+  entry_id: 93a2cx
   entry_content: |
-    <img src=https://i.redditmedia.com/xPUvGUR03CagvDEYfdupHDCGtMjl3DgCydn7ytcXtMM.jpg?s=1f8bf98a8cda3166398c825b44b45b2b frameborder=0>
-- entry_name: |
-    Terry Gilliam has been sharing some amazing new posters for 'The Man Who Killed Don Quixote' on his Facebook page. Here is one.
-  entry_id: 93ahg9
-  entry_content: |
-    <img src=https://i.redditmedia.com/a5VFWrCvgcl8TfNlspB84yc6UFlvNLD1DMPx0MBkt24.jpg?s=124fc70397df102b64e8965988de3a1c frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     There are two types of cats.
   entry_id: 93af5c
   entry_content: |
     <iframe src=https://v.redd.it/jisq0g6tz6d11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
+    Terry Gilliam has been sharing some amazing new posters for 'The Man Who Killed Don Quixote' on his Facebook page. Here is one.
+  entry_id: 93ahg9
+  entry_content: |
+    <img src=https://i.redditmedia.com/a5VFWrCvgcl8TfNlspB84yc6UFlvNLD1DMPx0MBkt24.jpg?s=124fc70397df102b64e8965988de3a1c frameborder=0>
+- entry_name: |
     People who can’t fucking pick up after themselves.
   entry_id: 93afpr
   entry_content: |
     <img src=https://i.redditmedia.com/FYg4uxJAgGA3HqHs9MlgMdQAXqo_0UlM7CyLpxB_ADM.jpg?s=34db2942d6e05a78943b8bbdd48c3548 frameborder=0>
 - entry_name: |
-    Reluctantly, but still ...
-  entry_id: 93a2cx
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     Conservative Think-Tanker Accidentally Argues That Single Payer Could Save Americans $2 Trillion
   entry_id: 937t5e
   entry_content: |
     <img src=https://i.redditmedia.com/2YwJd86kX9k7D1rqtbJlvWQgC7A_iYp0uHP0wig-DsI.jpg?s=85dd1b2f80955c3bd49cb003a4b2b005 frameborder=0>
-- entry_name: |
-    Car waxing.
-  entry_id: 93euvn
-  entry_content: |
-    <img src=https://i.redditmedia.com/u1RD9VckQeml-YV5EzPLJRm9zQQ2X5ux2fb2qf11a6c.jpg?s=cc2c40644350fc040b0547aeb495fc2a frameborder=0>
-- entry_name: |
-    “oh shit man i’m carrying, we gotta stash these milk bones!”
-  entry_id: 93ef1i
-  entry_content: |
-    <iframe src=https://v.redd.it/speww6xyi8d11/DASH_2_4_M frameborder=0></iframe>
 ---
