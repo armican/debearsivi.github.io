@@ -203,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/V6LmDJ9L3mjBrnfgtV3GKxLenev9XhjgKokvJfBQ3qc.jpg?s=c50422a06e32df1b99b6b7ca450faa95 frameborder=0>
 - entry_name: |
-    Kiki do you love me..... WCGW?
-  entry_id: 936t24
-  entry_content: |
-    <iframe src=https://v.redd.it/jxh6cv5rs4d11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Some parents are awful
   entry_id: 938vpk
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 93a2cx
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    In 2017 people made this and conservatives laughed because we were at stage 2 now we are box 6.
+  entry_id: 93e971
+  entry_content: |
+    <img src=https://i.redditmedia.com/kUaMZzq3jeZWZEzExwI6FcRiWK1UARu5c2B6jVRgPGk.png?s=bfa7b740a3fb17bd2d57d3b7850d5aaa frameborder=0>
 ---
