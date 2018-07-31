@@ -188,10 +188,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/jht5w9lhh5d11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-  entry_id: 93e6e8
-  entry_content: |
-    <iframe src=https://v.redd.it/0yexqcmd5ad11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Mad Math Lad
   entry_id: 938gea
   entry_content: |
@@ -251,4 +247,9 @@ data:
   entry_id: 93euvn
   entry_content: |
     <img src=https://i.redditmedia.com/u1RD9VckQeml-YV5EzPLJRm9zQQ2X5ux2fb2qf11a6c.jpg?s=cc2c40644350fc040b0547aeb495fc2a frameborder=0>
+- entry_name: |
+    “oh shit man i’m carrying, we gotta stash these milk bones!”
+  entry_id: 93ef1i
+  entry_content: |
+    <iframe src=https://v.redd.it/speww6xyi8d11/DASH_2_4_M frameborder=0></iframe>
 ---
