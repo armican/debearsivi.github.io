@@ -13,11 +13,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ZMhogQGQOoVJMGWkG-X8yq7eEo8tuqGNdbmU5_7LOpA.jpg?s=f02a89646294fdebe40364d605522748 frameborder=0>
 - entry_name: |
-    You can never out-prank a dad
-  entry_id: 937qo7
-  entry_content: |
-    <iframe src=https://v.redd.it/4qaz4fldb5d11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     Little Girl stops by with Burritos for the Firefighters who are currently battling the Carr forest fire in CA.
   entry_id: 93dhjg
   entry_content: |
@@ -248,8 +243,13 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/FYg4uxJAgGA3HqHs9MlgMdQAXqo_0UlM7CyLpxB_ADM.jpg?s=34db2942d6e05a78943b8bbdd48c3548 frameborder=0>
 - entry_name: |
-    Conservative Think-Tanker Accidentally Argues That Single Payer Could Save Americans $2 Trillion
-  entry_id: 937t5e
+    Crème brûlée, digital, 760x977px
+  entry_id: 93eckn
   entry_content: |
-    <img src=https://i.redditmedia.com/2YwJd86kX9k7D1rqtbJlvWQgC7A_iYp0uHP0wig-DsI.jpg?s=85dd1b2f80955c3bd49cb003a4b2b005 frameborder=0>
+    <img src=https://i.redditmedia.com/uL9UVsCt6T5k7yThdL19Uh6dFeGG1_6MmfkTWIRBeo8.jpg?s=004432c5d6c58f6f79d96a0de5f6b3a0 frameborder=0>
+- entry_name: |
+    Thank you all for pumping me up on my birthday
+  entry_id: 93fatt
+  entry_content: |
+    <iframe src=https://v.redd.it/ik0vgm1suad11/DASH_9_6_M frameborder=0></iframe>
 ---
