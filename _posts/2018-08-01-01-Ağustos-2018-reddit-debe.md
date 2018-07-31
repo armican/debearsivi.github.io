@@ -123,11 +123,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/sfgQEsGqccoV8tppeXBqD-YupjQNhc6oMFFW18sMfpM.jpg?s=59b065fea33be114c2be83e0c1f1c64b frameborder=0>
 - entry_name: |
-    Can't out smart a whale
-  entry_id: 937bll
-  entry_content: |
-    <iframe src=https://v.redd.it/t7h5zh8zzad11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     There will be a generation (that may have started) that will know Dwayne Johnson as an action movie star and never smell what the Rock is cooking.
   entry_id: 93dwsu
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 937t5e
   entry_content: |
     <img src=https://i.redditmedia.com/2YwJd86kX9k7D1rqtbJlvWQgC7A_iYp0uHP0wig-DsI.jpg?s=85dd1b2f80955c3bd49cb003a4b2b005 frameborder=0>
+- entry_name: |
+    Car waxing.
+  entry_id: 93euvn
+  entry_content: |
+    <img src=https://i.redditmedia.com/u1RD9VckQeml-YV5EzPLJRm9zQQ2X5ux2fb2qf11a6c.jpg?s=cc2c40644350fc040b0547aeb495fc2a frameborder=0>
 ---
