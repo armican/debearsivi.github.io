@@ -83,11 +83,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/aBrzwBFYZ7eMdUNI1e2TS6C5U4IQ4-6CgJ0DD5NN1ds.jpg?s=1e8f0bd0499dc66ff84b92a3bbf8c171 frameborder=0>
 - entry_name: |
-    Why not both?
-  entry_id: 93667j
-  entry_content: |
-    <img src=https://i.redditmedia.com/1yJa2-sNLIPgAYetvxjJVyKSrVhx65wcCNLGsUd8xnQ.jpg?s=68fbedd9e7febe8613e04455911e160a frameborder=0>
-- entry_name: |
     Games that let you max out your stealth.
   entry_id: 938k1p
   entry_content: |
@@ -142,11 +137,6 @@ data:
   entry_id: 937bll
   entry_content: |
     <iframe src=https://v.redd.it/t7h5zh8zzad11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    I hope you’re happy now.
-  entry_id: 9367ww
-  entry_content: |
-    <img src=https://i.redditmedia.com/HE7s9deKw7XHiPbyRfnwweYyjbgX_18cOR-FD1IJDjU.png?s=5595fdf146a7ddaeee75e54a56660d02 frameborder=0>
 - entry_name: |
     Just a snippet from an acrylic paint commercial a friend sent me, it seemed fitting
   entry_id: 9383i9
@@ -252,4 +242,14 @@ data:
   entry_id: 93afpr
   entry_content: |
     <img src=https://i.redditmedia.com/FYg4uxJAgGA3HqHs9MlgMdQAXqo_0UlM7CyLpxB_ADM.jpg?s=34db2942d6e05a78943b8bbdd48c3548 frameborder=0>
+- entry_name: |
+    Onward, my mighty steed
+  entry_id: 936qck
+  entry_content: |
+    <iframe src=https://v.redd.it/m7rjq14vh3d11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Reluctantly, but still ...
+  entry_id: 93a2cx
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
