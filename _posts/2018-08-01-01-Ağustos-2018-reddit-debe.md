@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Rnz5XtFvqtKQ9QzJ4ohKp-LFdu-DD7qj0PjnPj0Cjr4.jpg?s=58fb6109cb96644154f31d92a5e037fe frameborder=0>
 - entry_name: |
-    Remembering the father, 1925
-  entry_id: 936clm
-  entry_content: |
-    <img src=https://i.redditmedia.com/mvBKIcDpdng6VFpE3c3AqW5uFBujbmNPXnwjxG7bjz4.jpg?s=74cb784ba7f4848880408e03f31ac1e8 frameborder=0>
-- entry_name: |
     I think I just interrupted a meeting I wasnt supposed to know about
   entry_id: 93b2z6
   entry_content: |
@@ -158,11 +153,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/CNLwQjcKyTSkZpAwDfOtiKcv3-Qy9SGl-CGLb95R9nc.jpg?s=6c62ad6d8880a30fd16c04137f0df094 frameborder=0>
 - entry_name: |
-    What Life Pro Tip have you learned from Reddit that you still use every time the situation presents itself?
-  entry_id: 936cps
-  entry_content: |
-    null
-- entry_name: |
     MRW I log on to my computer and check this week's results from GifTournament X.
   entry_id: 93crj4
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 93a2cx
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    There are two types of cats.
+  entry_id: 93af5c
+  entry_content: |
+    <iframe src=https://v.redd.it/jisq0g6tz6d11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    She has a point
+  entry_id: 939g1v
+  entry_content: |
+    <img src=https://i.redditmedia.com/CV8MhN64ipqvIeSvJF3sGFaPu9D9yJOZdp86RkuFWC4.jpg?s=c4a107833e3b384150403d2a2975cdd1 frameborder=0>
 ---
