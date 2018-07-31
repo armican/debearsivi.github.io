@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWhimsicalSpiffyAurochs&url=https%3A%2F%2Fgfycat.com%2FWhimsicalSpiffyAurochs&image=https%3A%2F%2Fthumbs.gfycat.com%2FWhimsicalSpiffyAurochs-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Box full of Rottis!!!
-  entry_id: 936n60
-  entry_content: |
-    <img src=https://i.redditmedia.com/VLv0Tw8F3iYDN6o0-w6bF3TV0z8oJ7EEuwKw_3RrRuE.jpg?s=94a0d4df190d5623baf6ca92eb706b08 frameborder=0>
-- entry_name: |
     This picture from the California Wildfire looks like Apocalypse Now.
   entry_id: 939nh0
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 93af5c
   entry_content: |
     <iframe src=https://v.redd.it/jisq0g6tz6d11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Reluctantly, but still ...
+  entry_id: 93a2cx
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSelfishOldfashionedEuropeanfiresalamander&url=https%3A%2F%2Fgfycat.com%2FSelfishOldfashionedEuropeanfiresalamander&image=https%3A%2F%2Fthumbs.gfycat.com%2FSelfishOldfashionedEuropeanfiresalamander-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=320 height=178 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
