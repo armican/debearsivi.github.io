@@ -138,11 +138,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/5lSMMMUUk-8ehg0oysarWm1in6_CNGvcv7A7zTY52gE.jpg?s=978f72fd3ab55cf0c246a81791034493 frameborder=0>
 - entry_name: |
-    This best boye helping children testify
-  entry_id: 93hmcz
-  entry_content: |
-    <img src=https://i.redditmedia.com/LWCyNcupp48PdxVmZbXD5eZnqgZ23rXoyA02kdmCcQc.jpg?s=997ae74522905455708af378c99ab536 frameborder=0>
-- entry_name: |
     The 'Spike' Wave
   entry_id: 93o75j
   entry_content: |
@@ -233,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4DRx3UXNxu_yycGrGWr7EkAcuCW_33GL7BI0Kek7log.jpg?s=00b9789b4d7bbe12b4c1ad57baf1857d frameborder=0>
 - entry_name: |
-    It hurts to read
-  entry_id: 93hnnu
-  entry_content: |
-    <img src=https://i.redditmedia.com/K4gXuPCFlm3FmOi2ZVdMc9f_s3iRO9cugEAuogjnM8o.jpg?s=d3ef3942a6477ca6d456a01a3e531ee3 frameborder=0>
-- entry_name: |
     I will just leave my car here. WCGW?
   entry_id: 93hyil
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 93mt2p
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLamePerfumedHapuka&url=https%3A%2F%2Fgfycat.com%2FLamePerfumedHapuka&image=https%3A%2F%2Fthumbs.gfycat.com%2FLamePerfumedHapuka-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=292 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Guy Fieri really is very wholesome
+  entry_id: 93on6w
+  entry_content: |
+    <img src=https://i.redditmedia.com/a8k65FN1Oc6km8evXjN1XwxVaG76f1n54gZQHHTEKuU.jpg?s=53f9c20b68addc5c8c46b2c274348fab frameborder=0>
+- entry_name: |
+    My proud six year old. 50+ shrines, 97 (as he puts it) clorox seeds. All by himself and all without a horse.
+  entry_id: 93hyo5
+  entry_content: |
+    <img src=https://i.redditmedia.com/3J7UQqCSykN3AFGsL0AjfqFW0J2WzhmXdb8uBdtPAd0.jpg?s=efe28b16579266f5f59582ac677244fd frameborder=0>
 ---
