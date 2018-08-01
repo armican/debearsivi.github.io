@@ -33,25 +33,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/f8zvJWoHw5VY3UKnYxPAd1-Hjo-sGt7DX_su-YhJBxI.jpg?s=3e384d114d43e11df2708b0c788e3fa2 frameborder=0>
 - entry_name: |
-    Shirts before and after losing 400 lbs.
-  entry_id: 93lszx
-  entry_content: |
-    <img src=https://i.redditmedia.com/WTItheJ0H3aXC7-hlOEVzpJBoGS1eawlZhdiONBE678.jpg?s=d792a94e57d922802731edb6e8f9b772 frameborder=0>
-- entry_name: |
     Trump urges Attorney General Sessions to stop Mueller probe 'right now'
   entry_id: 93oyjf
   entry_content: |
     <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
+- entry_name: |
+    Puppy’s first time encountering a tennis ball
+  entry_id: 93oagr
+  entry_content: |
+    <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Shirts before and after losing 400 lbs.
+  entry_id: 93lszx
+  entry_content: |
+    <img src=https://i.redditmedia.com/WTItheJ0H3aXC7-hlOEVzpJBoGS1eawlZhdiONBE678.jpg?s=d792a94e57d922802731edb6e8f9b772 frameborder=0>
 - entry_name: |
     Queen Amidala cosplay
   entry_id: 93i5qr
   entry_content: |
     <img src=https://i.redditmedia.com/E5e5lPVET6wx5L0wvBrv7nXJTZlYiZsnigB_VTeWpHo.jpg?s=8cabbc9d9d1dba775a1ac11ddcc9f3a6 frameborder=0>
 - entry_name: |
-    Puppy’s first time encountering a tennis ball
-  entry_id: 93oagr
+    PS4 God of War Harvests $131M Digital Revenue in Its Launch Month; Shows Significant Demand for Story-driven Games
+  entry_id: 93oiqr
   entry_content: |
-    <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/kxamWk7ccmGqeYlGJ4V_PAlsbrsNHUibu27wCFCpWgE.jpg?s=afdf8b82ba8995e1fc224501d281864f frameborder=0>
 - entry_name: |
     Guy proposes legal hand jobs to the Lawrence KS City commission and it's amazing.
   entry_id: 93ks4j
@@ -88,25 +93,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/dieZkvTzaY3TQJM1HnthRdlUFPwMRRkEfft30Xpvs6k.jpg?s=ffba605a3e3b4995e3eca9455f262a84 frameborder=0>
 - entry_name: |
-    PS4 God of War Harvests $131M Digital Revenue in Its Launch Month; Shows Significant Demand for Story-driven Games
-  entry_id: 93oiqr
+    My 12 yo grey cat....asking if we HAVE to keep the rambunctious kittens 🐯🐯
+  entry_id: 93le6y
   entry_content: |
-    <img src=https://i.redditmedia.com/kxamWk7ccmGqeYlGJ4V_PAlsbrsNHUibu27wCFCpWgE.jpg?s=afdf8b82ba8995e1fc224501d281864f frameborder=0>
+    <img src=https://i.redditmedia.com/0hwVS-VuomzMXeKyJOitm0W4Ox1oo_D5NAs0V3SBKQQ.jpg?s=5711cfeb316e5443dbcdbb06c80a6902 frameborder=0>
 - entry_name: |
     The biggest yawn from the smallest bulldog
   entry_id: 93l1cs
   entry_content: |
     <iframe src=https://v.redd.it/mdr4g84r9ed11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    My 12 yo grey cat....asking if we HAVE to keep the rambunctious kittens 🐯🐯
-  entry_id: 93le6y
-  entry_content: |
-    <img src=https://i.redditmedia.com/0hwVS-VuomzMXeKyJOitm0W4Ox1oo_D5NAs0V3SBKQQ.jpg?s=5711cfeb316e5443dbcdbb06c80a6902 frameborder=0>
-- entry_name: |
     Child Dead In ICE Detention Center Due To ‘Negligent Care’: Immigration Lawyer
   entry_id: 93mxir
   entry_content: |
     <img src=https://i.redditmedia.com/JE07zdjlcyloJzq4i9_UiOPPQGwg5aeWSdoV6AdACck.jpg?s=b25c6954c5df5682861c49099626f43a frameborder=0>
+- entry_name: |
+    The 'Spike' Wave
+  entry_id: 93o75j
+  entry_content: |
+    <iframe src=https://v.redd.it/u55ao2d0ygd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     TIL that In Elizabethan England, the word 'Nothing' was slang for female genitalia. The title of the Shakespeare play 'Much Ado About Nothing' is a double entendre.
   entry_id: 93nejg
@@ -118,15 +123,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iPs7KWWMpi9b-MajuHwnm0sQi1oEHeFIBfaO0Z9KdnQ.jpg?s=cbd108cd6f6e83abf88f52023028fa8a frameborder=0>
 - entry_name: |
+    Dwayne Johnson surprises his stunt double with a new truck.
+  entry_id: 93qfdg
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLateHugeBluebottlejellyfish&url=https%3A%2F%2Fgfycat.com%2FLateHugeBluebottlejellyfish&image=https%3A%2F%2Fthumbs.gfycat.com%2FLateHugeBluebottlejellyfish-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=260 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
     The Jedi must go through a ton of robes because they're always stripping them off before combat and just leaving them there.
   entry_id: 93ly6e
   entry_content: |
     null
 - entry_name: |
+    Chefs Guy Fieri and José Andrés join forces to feed thousands affected by California fires
+  entry_id: 93ouhy
+  entry_content: |
+    <img src=https://i.redditmedia.com/3q-TQ9Huouv9OoA2RhBi54IRuDfDfc5ts8IPhqvKL60.jpg?s=6f4cfafbb52731c095aa1cb8c890a6fb frameborder=0>
+- entry_name: |
     hmmm
   entry_id: 93i6i6
   entry_content: |
     <img src=https://i.redditmedia.com/pSd5L5ztQGn7xV-g5fzXOYhV_NEZI_ZSOGYmX4M2ggQ.jpg?s=a65a3cb93cd7e2bc2a781cca7f1ddead frameborder=0>
+- entry_name: |
+    Black Male Privileges
+  entry_id: 93njms
+  entry_content: |
+    <img src=https://i.redditmedia.com/z7Cf4jAncbfKOoXLS2xkzf2x2TFwqxO15K_Lb_7C6Mg.jpg?s=94060c92fbc53d56cc7a0fce24d6f875 frameborder=0>
 - entry_name: |
     Roses are red
   entry_id: 93lkr3
@@ -137,11 +157,6 @@ data:
   entry_id: 93igd8
   entry_content: |
     <img src=https://i.redditmedia.com/5lSMMMUUk-8ehg0oysarWm1in6_CNGvcv7A7zTY52gE.jpg?s=978f72fd3ab55cf0c246a81791034493 frameborder=0>
-- entry_name: |
-    The 'Spike' Wave
-  entry_id: 93o75j
-  entry_content: |
-    <iframe src=https://v.redd.it/u55ao2d0ygd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     TIL Robin Hood was called to be removed from Indiana textbooks for being communist
   entry_id: 93klv9
@@ -163,25 +178,35 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JVQPM5fIoGA5_bV_-Bi6WfCb2eDJrFm7i7VIgQnveX8.jpg?s=6bd5e38ef45864e4f93039c126ed846d frameborder=0>
 - entry_name: |
+    We’re just gonna put that riiiight back here.
+  entry_id: 93nz7p
+  entry_content: |
+    <iframe src=https://v.redd.it/ee1xdc5grgd11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     New Venom poster released
   entry_id: 93lzsm
   entry_content: |
     <img src=https://i.redditmedia.com/i55jtb4yhTwn3A5IFayhNCTg7OFL7DheNMl_GIsUGlo.jpg?s=190d21b63fd27b4c82fde234cec58bdc frameborder=0>
 - entry_name: |
-    Black Male Privileges
-  entry_id: 93njms
+    Guy Fieri really is very wholesome
+  entry_id: 93on6w
   entry_content: |
-    <img src=https://i.redditmedia.com/z7Cf4jAncbfKOoXLS2xkzf2x2TFwqxO15K_Lb_7C6Mg.jpg?s=94060c92fbc53d56cc7a0fce24d6f875 frameborder=0>
+    <img src=https://i.redditmedia.com/a8k65FN1Oc6km8evXjN1XwxVaG76f1n54gZQHHTEKuU.jpg?s=53f9c20b68addc5c8c46b2c274348fab frameborder=0>
 - entry_name: |
     Cupboard stairs
   entry_id: 93jqhk
   entry_content: |
     <iframe src=https://v.redd.it/prm224ldvbd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
-    Chefs Guy Fieri and José Andrés join forces to feed thousands affected by California fires
-  entry_id: 93ouhy
+    Move to Hawaii, they said, it’s paradise, they said
+  entry_id: 93mv51
   entry_content: |
-    <img src=https://i.redditmedia.com/3q-TQ9Huouv9OoA2RhBi54IRuDfDfc5ts8IPhqvKL60.jpg?s=6f4cfafbb52731c095aa1cb8c890a6fb frameborder=0>
+    <iframe src=https://v.redd.it/5n7pdbbxofd11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    His name was Batman at the shelter. We call him Bruce to protect his secret identity.
+  entry_id: 93n5ff
+  entry_content: |
+    <img src=https://i.redditmedia.com/p6Ioi-BGbUObTH8E27OPzXdWpv6xrcT9bpj-pANlDmY.jpg?s=c6b77b7871b9ef44864fd124c67d59b9 frameborder=0>
 - entry_name: |
     I can't wait for election season, so I can see the new signs.
   entry_id: 93jii3
@@ -198,58 +223,33 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    His name was Batman at the shelter. We call him Bruce to protect his secret identity.
-  entry_id: 93n5ff
-  entry_content: |
-    <img src=https://i.redditmedia.com/p6Ioi-BGbUObTH8E27OPzXdWpv6xrcT9bpj-pANlDmY.jpg?s=c6b77b7871b9ef44864fd124c67d59b9 frameborder=0>
-- entry_name: |
-    We’re just gonna put that riiiight back here.
-  entry_id: 93nz7p
-  entry_content: |
-    <iframe src=https://v.redd.it/ee1xdc5grgd11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Move to Hawaii, they said, it’s paradise, they said
-  entry_id: 93mv51
-  entry_content: |
-    <iframe src=https://v.redd.it/5n7pdbbxofd11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Hold on
-  entry_id: 93hxbh
-  entry_content: |
-    <img src=https://i.redditmedia.com/82mgVryQBQYhuPWGWgrwstnls6JrHR7RZwj2sSZSlRc.jpg?s=ec6415083dd7b0c3e166aba07570f204 frameborder=0>
-- entry_name: |
     The way this doorway near Brussels is designed
   entry_id: 93iso3
   entry_content: |
     <img src=https://i.redditmedia.com/K55lPnqF-25XLF1K03Xu4NA02GYKxh56cKSTH24AVSQ.jpg?s=d7324447ea0c92a2947555367a66c678 frameborder=0>
-- entry_name: |
-    Sticker that was on my package from Japan
-  entry_id: 93i1qa
-  entry_content: |
-    <img src=https://i.redditmedia.com/4DRx3UXNxu_yycGrGWr7EkAcuCW_33GL7BI0Kek7log.jpg?s=00b9789b4d7bbe12b4c1ad57baf1857d frameborder=0>
-- entry_name: |
-    I will just leave my car here. WCGW?
-  entry_id: 93hyil
-  entry_content: |
-    <iframe src=https://v.redd.it/ye2zbpobccd11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Turns out...,,you have to wait like the rest of us.
-  entry_id: 93i8ip
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     me🐸irl
   entry_id: 93mt2p
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLamePerfumedHapuka&url=https%3A%2F%2Fgfycat.com%2FLamePerfumedHapuka&image=https%3A%2F%2Fthumbs.gfycat.com%2FLamePerfumedHapuka-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=292 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Guy Fieri really is very wholesome
-  entry_id: 93on6w
+    Turns out...,,you have to wait like the rest of us.
+  entry_id: 93i8ip
   entry_content: |
-    <img src=https://i.redditmedia.com/a8k65FN1Oc6km8evXjN1XwxVaG76f1n54gZQHHTEKuU.jpg?s=53f9c20b68addc5c8c46b2c274348fab frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    My proud six year old. 50+ shrines, 97 (as he puts it) clorox seeds. All by himself and all without a horse.
-  entry_id: 93hyo5
+    Adulting
+  entry_id: 93pctl
   entry_content: |
-    <img src=https://i.redditmedia.com/3J7UQqCSykN3AFGsL0AjfqFW0J2WzhmXdb8uBdtPAd0.jpg?s=efe28b16579266f5f59582ac677244fd frameborder=0>
+    <img src=https://i.redditmedia.com/sYr328m4sTSqOoZKmcmDkLmDFYiQy6Xp_Do0NtgncO4.jpg?s=d9ba1ad424740c01c3c48b2304692a06 frameborder=0>
+- entry_name: |
+    If we ever travel thousands of light years to a planet inhabited by intelligent life, let’s just make patterns in their crops and leave.
+  entry_id: 93mh3l
+  entry_content: |
+    null
+- entry_name: |
+    Is this balanced?
+  entry_id: 93onqi
+  entry_content: |
+    <img src=https://i.redditmedia.com/KcD_dTU6npI3Am2t_i6CwnYj-3ZlbkABSberFwVNFrA.png?s=00c2c1aa34faeb5efc60bf9a61fdb4ba frameborder=0>
 ---
