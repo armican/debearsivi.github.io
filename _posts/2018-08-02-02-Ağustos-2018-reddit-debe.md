@@ -38,10 +38,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WTItheJ0H3aXC7-hlOEVzpJBoGS1eawlZhdiONBE678.jpg?s=d792a94e57d922802731edb6e8f9b772 frameborder=0>
 - entry_name: |
+    Trump urges Attorney General Sessions to stop Mueller probe 'right now'
+  entry_id: 93oyjf
+  entry_content: |
+    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
+- entry_name: |
     Queen Amidala cosplay
   entry_id: 93i5qr
   entry_content: |
     <img src=https://i.redditmedia.com/E5e5lPVET6wx5L0wvBrv7nXJTZlYiZsnigB_VTeWpHo.jpg?s=8cabbc9d9d1dba775a1ac11ddcc9f3a6 frameborder=0>
+- entry_name: |
+    Puppy’s first time encountering a tennis ball
+  entry_id: 93oagr
+  entry_content: |
+    <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Guy proposes legal hand jobs to the Lawrence KS City commission and it's amazing.
   entry_id: 93ks4j
@@ -68,8 +78,8 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/w8-RkUrISVJV1ajj7GxCszGPFdNuEPqKBDVt0W1L5xg.jpg?s=d685f6f34494801047aefc3a8daf71b3 frameborder=0>
 - entry_name: |
-    Trump urges Attorney General Sessions to stop Mueller probe 'right now'
-  entry_id: 93oyjf
+    Trump urges Attorney General Sessions to stop Mueller probe 'right now
+  entry_id: 93oy7o
   entry_content: |
     <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
 - entry_name: |
@@ -77,6 +87,11 @@ data:
   entry_id: 93k81w
   entry_content: |
     <img src=https://i.redditmedia.com/dieZkvTzaY3TQJM1HnthRdlUFPwMRRkEfft30Xpvs6k.jpg?s=ffba605a3e3b4995e3eca9455f262a84 frameborder=0>
+- entry_name: |
+    PS4 God of War Harvests $131M Digital Revenue in Its Launch Month; Shows Significant Demand for Story-driven Games
+  entry_id: 93oiqr
+  entry_content: |
+    <img src=https://i.redditmedia.com/kxamWk7ccmGqeYlGJ4V_PAlsbrsNHUibu27wCFCpWgE.jpg?s=afdf8b82ba8995e1fc224501d281864f frameborder=0>
 - entry_name: |
     The biggest yawn from the smallest bulldog
   entry_id: 93l1cs
@@ -93,35 +108,30 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JE07zdjlcyloJzq4i9_UiOPPQGwg5aeWSdoV6AdACck.jpg?s=b25c6954c5df5682861c49099626f43a frameborder=0>
 - entry_name: |
-    The number of people older than you is constantly shrinking with nothing increasing it.
-  entry_id: 93hfzu
+    TIL that In Elizabethan England, the word 'Nothing' was slang for female genitalia. The title of the Shakespeare play 'Much Ado About Nothing' is a double entendre.
+  entry_id: 93nejg
   entry_content: |
-    null
-- entry_name: |
-    Puppy’s first time encountering a tennis ball
-  entry_id: 93oagr
-  entry_content: |
-    <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    Trump urges Attorney General Sessions to stop Mueller probe 'right now
-  entry_id: 93oy7o
-  entry_content: |
-    <img src=https://i.redditmedia.com/2pSnknWmpJE4mF9Nz_Om-M1HmAEqep0N35iyuESDP1c.jpg?s=c03c0e75c8c418076152b0aff4c5ef86 frameborder=0>
+    <img src=https://i.redditmedia.com/uvj0YZssMZD5v1hlb6aG_kqSlzTWWPb_CFm9rYjwOA8.jpg?s=f763687bc643074fff21f8643f8fab92 frameborder=0>
 - entry_name: |
     This rainbow walkway at the Miami International Airport
   entry_id: 93jakn
   entry_content: |
     <img src=https://i.redditmedia.com/iPs7KWWMpi9b-MajuHwnm0sQi1oEHeFIBfaO0Z9KdnQ.jpg?s=cbd108cd6f6e83abf88f52023028fa8a frameborder=0>
 - entry_name: |
+    The Jedi must go through a ton of robes because they're always stripping them off before combat and just leaving them there.
+  entry_id: 93ly6e
+  entry_content: |
+    null
+- entry_name: |
     hmmm
   entry_id: 93i6i6
   entry_content: |
     <img src=https://i.redditmedia.com/pSd5L5ztQGn7xV-g5fzXOYhV_NEZI_ZSOGYmX4M2ggQ.jpg?s=a65a3cb93cd7e2bc2a781cca7f1ddead frameborder=0>
 - entry_name: |
-    The Jedi must go through a ton of robes because they're always stripping them off before combat and just leaving them there.
-  entry_id: 93ly6e
+    Roses are red
+  entry_id: 93lkr3
   entry_content: |
-    null
+    <iframe src=https://v.redd.it/mo0qj0i9ned11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
     New hot versatile format, I'd invest
   entry_id: 93igd8
@@ -133,10 +143,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/LWCyNcupp48PdxVmZbXD5eZnqgZ23rXoyA02kdmCcQc.jpg?s=997ae74522905455708af378c99ab536 frameborder=0>
 - entry_name: |
-    TIL that In Elizabethan England, the word 'Nothing' was slang for female genitalia. The title of the Shakespeare play 'Much Ado About Nothing' is a double entendre.
-  entry_id: 93nejg
+    The 'Spike' Wave
+  entry_id: 93o75j
   entry_content: |
-    <img src=https://i.redditmedia.com/uvj0YZssMZD5v1hlb6aG_kqSlzTWWPb_CFm9rYjwOA8.jpg?s=f763687bc643074fff21f8643f8fab92 frameborder=0>
+    <iframe src=https://v.redd.it/u55ao2d0ygd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     TIL Robin Hood was called to be removed from Indiana textbooks for being communist
   entry_id: 93klv9
@@ -158,50 +168,60 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/JVQPM5fIoGA5_bV_-Bi6WfCb2eDJrFm7i7VIgQnveX8.jpg?s=6bd5e38ef45864e4f93039c126ed846d frameborder=0>
 - entry_name: |
-    Roses are red
-  entry_id: 93lkr3
-  entry_content: |
-    <iframe src=https://v.redd.it/mo0qj0i9ned11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     New Venom poster released
   entry_id: 93lzsm
   entry_content: |
     <img src=https://i.redditmedia.com/i55jtb4yhTwn3A5IFayhNCTg7OFL7DheNMl_GIsUGlo.jpg?s=190d21b63fd27b4c82fde234cec58bdc frameborder=0>
 - entry_name: |
-    PS4 God of War Harvests $131M Digital Revenue in Its Launch Month; Shows Significant Demand for Story-driven Games
-  entry_id: 93oiqr
+    Black Male Privileges
+  entry_id: 93njms
   entry_content: |
-    <img src=https://i.redditmedia.com/kxamWk7ccmGqeYlGJ4V_PAlsbrsNHUibu27wCFCpWgE.jpg?s=afdf8b82ba8995e1fc224501d281864f frameborder=0>
+    <img src=https://i.redditmedia.com/z7Cf4jAncbfKOoXLS2xkzf2x2TFwqxO15K_Lb_7C6Mg.jpg?s=94060c92fbc53d56cc7a0fce24d6f875 frameborder=0>
 - entry_name: |
     Cupboard stairs
   entry_id: 93jqhk
   entry_content: |
     <iframe src=https://v.redd.it/prm224ldvbd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
+    Chefs Guy Fieri and José Andrés join forces to feed thousands affected by California fires
+  entry_id: 93ouhy
+  entry_content: |
+    <img src=https://i.redditmedia.com/3q-TQ9Huouv9OoA2RhBi54IRuDfDfc5ts8IPhqvKL60.jpg?s=6f4cfafbb52731c095aa1cb8c890a6fb frameborder=0>
+- entry_name: |
     I can't wait for election season, so I can see the new signs.
   entry_id: 93jii3
   entry_content: |
     <img src=https://i.redditmedia.com/yDP533V4bZaV_pfHiW6p-QjDgDeWjGpiaZIGI7ypCOk.jpg?s=6492714d09d924cdca92c0fb5b2e045c frameborder=0>
-- entry_name: |
-    Have to wait like the rest of us.
-  entry_id: 93i8ff
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     11,000 Wikileaks Twitter DMs Have Just Been Published For Anyone To Read
   entry_id: 93kvzw
   entry_content: |
     <img src=https://i.redditmedia.com/y9Rge2E4Ps-H1wgz0HPRDVvQbqitDF3l8f8o058awyA.jpg?s=db6427c3265ab11ec67466aea38a18fe frameborder=0>
 - entry_name: |
+    Have to wait like the rest of us.
+  entry_id: 93i8ff
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    His name was Batman at the shelter. We call him Bruce to protect his secret identity.
+  entry_id: 93n5ff
+  entry_content: |
+    <img src=https://i.redditmedia.com/p6Ioi-BGbUObTH8E27OPzXdWpv6xrcT9bpj-pANlDmY.jpg?s=c6b77b7871b9ef44864fd124c67d59b9 frameborder=0>
+- entry_name: |
+    We’re just gonna put that riiiight back here.
+  entry_id: 93nz7p
+  entry_content: |
+    <iframe src=https://v.redd.it/ee1xdc5grgd11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Move to Hawaii, they said, it’s paradise, they said
+  entry_id: 93mv51
+  entry_content: |
+    <iframe src=https://v.redd.it/5n7pdbbxofd11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     Hold on
   entry_id: 93hxbh
   entry_content: |
     <img src=https://i.redditmedia.com/82mgVryQBQYhuPWGWgrwstnls6JrHR7RZwj2sSZSlRc.jpg?s=ec6415083dd7b0c3e166aba07570f204 frameborder=0>
-- entry_name: |
-    The 'Spike' Wave
-  entry_id: 93o75j
-  entry_content: |
-    <iframe src=https://v.redd.it/u55ao2d0ygd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     The way this doorway near Brussels is designed
   entry_id: 93iso3
@@ -213,16 +233,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4DRx3UXNxu_yycGrGWr7EkAcuCW_33GL7BI0Kek7log.jpg?s=00b9789b4d7bbe12b4c1ad57baf1857d frameborder=0>
 - entry_name: |
-    Black Male Privileges
-  entry_id: 93njms
-  entry_content: |
-    <img src=https://i.redditmedia.com/z7Cf4jAncbfKOoXLS2xkzf2x2TFwqxO15K_Lb_7C6Mg.jpg?s=94060c92fbc53d56cc7a0fce24d6f875 frameborder=0>
-- entry_name: |
-    His name was Batman at the shelter. We call him Bruce to protect his secret identity.
-  entry_id: 93n5ff
-  entry_content: |
-    <img src=https://i.redditmedia.com/p6Ioi-BGbUObTH8E27OPzXdWpv6xrcT9bpj-pANlDmY.jpg?s=c6b77b7871b9ef44864fd124c67d59b9 frameborder=0>
-- entry_name: |
     It hurts to read
   entry_id: 93hnnu
   entry_content: |
@@ -233,20 +243,10 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/ye2zbpobccd11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Move to Hawaii, they said, it’s paradise, they said
-  entry_id: 93mv51
-  entry_content: |
-    <iframe src=https://v.redd.it/5n7pdbbxofd11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
     Turns out...,,you have to wait like the rest of us.
   entry_id: 93i8ip
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    My proud six year old. 50+ shrines, 97 (as he puts it) clorox seeds. All by himself and all without a horse.
-  entry_id: 93hyo5
-  entry_content: |
-    <img src=https://i.redditmedia.com/3J7UQqCSykN3AFGsL0AjfqFW0J2WzhmXdb8uBdtPAd0.jpg?s=efe28b16579266f5f59582ac677244fd frameborder=0>
 - entry_name: |
     me🐸irl
   entry_id: 93mt2p
