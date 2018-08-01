@@ -48,11 +48,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/WTItheJ0H3aXC7-hlOEVzpJBoGS1eawlZhdiONBE678.jpg?s=d792a94e57d922802731edb6e8f9b772 frameborder=0>
 - entry_name: |
-    Queen Amidala cosplay
-  entry_id: 93i5qr
-  entry_content: |
-    <img src=https://i.redditmedia.com/E5e5lPVET6wx5L0wvBrv7nXJTZlYiZsnigB_VTeWpHo.jpg?s=8cabbc9d9d1dba775a1ac11ddcc9f3a6 frameborder=0>
-- entry_name: |
     PS4 God of War Harvests $131M Digital Revenue in Its Launch Month; Shows Significant Demand for Story-driven Games
   entry_id: 93oiqr
   entry_content: |
@@ -72,11 +67,6 @@ data:
   entry_id: 93ir49
   entry_content: |
     <img src=https://i.redditmedia.com/6RSgSzkvTPh8RnnItxzwtZBnnOwa7WhItwX1A4oeCpw.jpg?s=f63beedc950990d8faa82e45843189b1 frameborder=0>
-- entry_name: |
-    Colts invite girl who survived getting shot 7 times during a school shooting to break down their team huddle
-  entry_id: 93i5c9
-  entry_content: |
-    <iframe src=https://v.redd.it/qyhluocuecd11/DASH_2_4_M frameborder=0></iframe>
 - entry_name: |
     Discovered a Nintendo office close to where I live and asked if they had any kind of tour or something. Lady told me they hadn’t but she handed me a bag full of cool souvenirs. This coin is definitely the best of all!
   entry_id: 93isz9
@@ -137,11 +127,6 @@ data:
   entry_id: 93ouhy
   entry_content: |
     <img src=https://i.redditmedia.com/3q-TQ9Huouv9OoA2RhBi54IRuDfDfc5ts8IPhqvKL60.jpg?s=6f4cfafbb52731c095aa1cb8c890a6fb frameborder=0>
-- entry_name: |
-    hmmm
-  entry_id: 93i6i6
-  entry_content: |
-    <img src=https://i.redditmedia.com/pSd5L5ztQGn7xV-g5fzXOYhV_NEZI_ZSOGYmX4M2ggQ.jpg?s=a65a3cb93cd7e2bc2a781cca7f1ddead frameborder=0>
 - entry_name: |
     Black Male Privileges
   entry_id: 93njms
@@ -218,11 +203,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y9Rge2E4Ps-H1wgz0HPRDVvQbqitDF3l8f8o058awyA.jpg?s=db6427c3265ab11ec67466aea38a18fe frameborder=0>
 - entry_name: |
-    Have to wait like the rest of us.
-  entry_id: 93i8ff
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     The way this doorway near Brussels is designed
   entry_id: 93iso3
   entry_content: |
@@ -232,11 +212,6 @@ data:
   entry_id: 93mt2p
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLamePerfumedHapuka&url=https%3A%2F%2Fgfycat.com%2FLamePerfumedHapuka&image=https%3A%2F%2Fthumbs.gfycat.com%2FLamePerfumedHapuka-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=292 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
-    Turns out...,,you have to wait like the rest of us.
-  entry_id: 93i8ip
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FDiscreteQuickHorsefly&url=https%3A%2F%2Fgfycat.com%2FDiscreteQuickHorsefly&image=https%3A%2F%2Fthumbs.gfycat.com%2FDiscreteQuickHorsefly-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=337 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     Adulting
   entry_id: 93pctl
@@ -252,4 +227,29 @@ data:
   entry_id: 93onqi
   entry_content: |
     <img src=https://i.redditmedia.com/KcD_dTU6npI3Am2t_i6CwnYj-3ZlbkABSberFwVNFrA.png?s=00c2c1aa34faeb5efc60bf9a61fdb4ba frameborder=0>
+- entry_name: |
+    Single men of Reddit, what made you definitely NOT want a second date with a woman you went out with?
+  entry_id: 93kmwq
+  entry_content: |
+    null
+- entry_name: |
+    Snoop Dogg and Jamie Foxx are asked to do a freestyle for Sway's morning show live on the air. They practically create a finished product full song together, with hook and verses, on the spot!
+  entry_id: 93n2yy
+  entry_content: |
+    <iframe width=600 height=338 src=https://www.youtube.com/embed/w1eNRpQeHk0?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    We had a security incident. Here's what you need to know.
+  entry_id: 93qnm5
+  entry_content: |
+    <img src=https://i.redditmedia.com/aGjvOlMhtxycTvFYEYKL8iATDnHN1c4qB4AefShKBzE.png?s=824e3737d822cdf2d364fc45f72dd408 frameborder=0>
+- entry_name: |
+    Jesus got a step-dad 🤔
+  entry_id: 93k4la
+  entry_content: |
+    <img src=https://i.redditmedia.com/KJvm4vyTDMddfIlWbuEo63XDg3U-8TemXuaTdf_qXrY.jpg?s=81bc3d074e07896ed8f43cd3f1ccbca0 frameborder=0>
+- entry_name: |
+    This black cat is Otello. One day he unexpectedly came home with a stray baby kitten in his snout. We decided to keep it since he already seemed to have made up his mind. And that's how he became a father at 20 years old.
+  entry_id: 93iwcd
+  entry_content: |
+    <img src=https://i.redditmedia.com/9GVkAKHf2QeUgvJQbwcha0GSfKMVFDPlaabyJqbTUT0.jpg?s=00944dc05a7a7722ae824dcb5d706ad9 frameborder=0>
 ---
