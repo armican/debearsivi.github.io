@@ -193,11 +193,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/y9Rge2E4Ps-H1wgz0HPRDVvQbqitDF3l8f8o058awyA.jpg?s=db6427c3265ab11ec67466aea38a18fe frameborder=0>
 - entry_name: |
-    LeBron is really stepping out
-  entry_id: 93h4yd
-  entry_content: |
-    <img src=https://i.redditmedia.com/jaZZa2QrHZlA9kRsbuRyEZQIjsCErIfJ7Fujumm9HXU.jpg?s=5b1f36e28f77495d2c4d9e06aca977ff frameborder=0>
-- entry_name: |
     Hold on
   entry_id: 93hxbh
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 93hyo5
   entry_content: |
     <img src=https://i.redditmedia.com/3J7UQqCSykN3AFGsL0AjfqFW0J2WzhmXdb8uBdtPAd0.jpg?s=efe28b16579266f5f59582ac677244fd frameborder=0>
+- entry_name: |
+    me🐸irl
+  entry_id: 93mt2p
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLamePerfumedHapuka&url=https%3A%2F%2Fgfycat.com%2FLamePerfumedHapuka&image=https%3A%2F%2Fthumbs.gfycat.com%2FLamePerfumedHapuka-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=292 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
