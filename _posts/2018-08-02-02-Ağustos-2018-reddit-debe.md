@@ -208,11 +208,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/4DRx3UXNxu_yycGrGWr7EkAcuCW_33GL7BI0Kek7log.jpg?s=00b9789b4d7bbe12b4c1ad57baf1857d frameborder=0>
 - entry_name: |
-    Study finds poor communication between nurses and doctors, which is one of the primary reasons for patient care mistakes in the hospital. One barrier is that the hospital hierarchy puts nurses at a power disadvantage, and many are afraid to speak the truth to doctor.
-  entry_id: 93gph9
-  entry_content: |
-    null
-- entry_name: |
     It hurts to read
   entry_id: 93hnnu
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 93oagr
   entry_content: |
     <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Move to Hawaii, they said, it’s paradise, they said
+  entry_id: 93mv51
+  entry_content: |
+    <iframe src=https://v.redd.it/5n7pdbbxofd11/DASH_9_6_M frameborder=0></iframe>
 ---
