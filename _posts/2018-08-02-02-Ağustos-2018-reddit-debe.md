@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/w8-RkUrISVJV1ajj7GxCszGPFdNuEPqKBDVt0W1L5xg.jpg?s=d685f6f34494801047aefc3a8daf71b3 frameborder=0>
 - entry_name: |
-    Rare fresh water sinkhole in Tulum Mexico with unlimited visibility underwater.
-  entry_id: 93gixq
-  entry_content: |
-    <img src=https://i.redditmedia.com/AmahvYu_qXENNt2_eOYnzFYhhQjCqFYxGpT3M1TRCqo.jpg?s=c28c33ca4abec461f176c1c5b1a9bdbb frameborder=0>
-- entry_name: |
     No Prison for Grandson of Ex-Virginia Governor in Rape Case
   entry_id: 93k81w
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 93mt2p
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLamePerfumedHapuka&url=https%3A%2F%2Fgfycat.com%2FLamePerfumedHapuka&image=https%3A%2F%2Fthumbs.gfycat.com%2FLamePerfumedHapuka-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=292 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Puppy’s first time encountering a tennis ball
+  entry_id: 93oagr
+  entry_content: |
+    <iframe src=https://v.redd.it/kyxqj90i0hd11/DASH_2_4_M frameborder=0></iframe>
 ---
