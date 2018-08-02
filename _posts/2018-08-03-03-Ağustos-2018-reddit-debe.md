@@ -117,11 +117,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/rnuy1usaomd11/DASH_600_K frameborder=0></iframe>
 - entry_name: |
-    TIL Kobe Bryant’s grandmother only came to see him play one game his entire professional career. That one game versus the Toronto Raptors he scored 81 points.
-  entry_id: 93rmsp
-  entry_content: |
-    <img src=https://i.redditmedia.com/h7r59PMKhZgPTMf_w2q6pI_addiaUlnQh2nGmL9-0AQ.jpg?s=7b9666242944de4a096fc61fcf41a706 frameborder=0>
-- entry_name: |
     I’m looking at you, Utah family.
   entry_id: 93ve1i
   entry_content: |
@@ -171,11 +166,6 @@ data:
   entry_id: 93vdfm
   entry_content: |
     <iframe src=https://v.redd.it/wdxyjf6zbld11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    SpongeBob was a musical genius
-  entry_id: 93rnmx
-  entry_content: |
-    <img src=https://i.redditmedia.com/sYjEk7EndHWvppyuk45FCls7zMZdEIVtL1adOAgxWd0.jpg?s=dda4e8c27f5fa713733f0339d701791d frameborder=0>
 - entry_name: |
     TIL of the most rural post office in the US; the Supai Post Office is at the bottom of the Grand Canyon and is serviced by a mule train that takes 2.5 hours to reach it. It services the Havasupai reservation and demonstrates the obligation of the US Postal System to service every community.
   entry_id: 93tu0c
@@ -237,11 +227,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/PYVDXT2C2h0Wvj3vMAUb-NfIPSvl82HPnMdOWf4GuVw.jpg?s=277e9d6f8de395c4604feb5da9f58237 frameborder=0>
 - entry_name: |
-    Just kiddin' lol
-  entry_id: 93rosv
-  entry_content: |
-    <iframe src=https://v.redd.it/aeln1a5q0jd11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     Close enough
   entry_id: 93wrz8
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 93voeo
   entry_content: |
     <iframe src=https://v.redd.it/lfwma9zsjld11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Guy came across a box full of tennis balls dedicated in memory of a good doggo.
+  entry_id: 93tyqz
+  entry_content: |
+    <img src=https://i.redditmedia.com/0B4ulEotNNj5SIsyIe45pJjIXHTfgn8NBZ0z2QB7zJ8.jpg?s=c7ec92e56e735c18fcd6562eac0e54bb frameborder=0>
+- entry_name: |
+    Rekt
+  entry_id: 93uqdb
+  entry_content: |
+    <img src=https://i.redditmedia.com/DoTIjDIAASnVchgWz9OhfjdCDqqA_YCLkCE6X89zg_A.gif?fm=jpg&s=e877cc5f933ebd8c44b1f7d388cf3aa5 frameborder=0>
+- entry_name: |
+    Needles
+  entry_id: 93vn4q
+  entry_content: |
+    <img src=https://i.redditmedia.com/RSk4oV9oJVgQBbtMYWz5OC-79_S3Ps3B1dcFi8Kt12g.jpg?s=369a5292f246b44ad3292eb6648fe8dc frameborder=0>
 ---
