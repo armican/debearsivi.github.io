@@ -6,7 +6,7 @@ data:
     türk insanında kişisel alan kavramının olmayışı
   entry_id:  79822104
   entry_writer: haciz mahallinde tango
-  entry_fav_count: 1398
+  entry_fav_count: 1416
   entry_content: |
     beni inanılmaz rahatsız eden, hayattan soğutan gerçek.<br/>o kadar saygısız, bencil ve empati yoksunuyuz ki, "kişsiel alan" kavramından bihaberiz ya da bu kavrama saygı duymak umurumuzda değil.<br/><br/>* bir iş için ya da toplu taşıma beklerken sıraya girersin, gelip dibine kadar sokulurlar; 20 cm öteye gitmezler.<br/>* yürüyen merdivende gelip hemen bir arkanızdaki basamakta dikilirler. bir basamakcık geride beklemeyi düşünemez ya da umursamazlar.<br/>* asansörde sizden basmanızı rica etmek yerine, ellerini bazen size çarpacak şekilde koltuk altınızdan, göğsünüzün üstünden, ensenizden uzatıp kat düğmesine basarlar.<br/>* yürüyen merdivende yan bantlara tutunup, ellerini sizin önünüze doğru uzatırlar. zaten sadece bir basamak dibinizde oldukları için, belinize sarılıyormuş gibi hissedersiniz.<br/>* toplu taşımada size bir yerlerinden değerler. suratınıza üfler, poflarlar.<br/>* evinizin-ofis odanızın-kişisel bir mekanınızın kapısı açıksa merakla içeriye bakarlar. <br/>* kuaförde işlemlerinizi yaptırırken gözlerini üstünüze dikip seyreder, rahatsız olabileceğinizi düşünmezler. <br/>* gözlerini dikip bakarlar. rahatsız olduğunuzu anlasalar dahi başlarını çevirmezler. <br/>* bankada, hastanede, postanede vs. işlem yaptırırken gelip yanınızda dikilirler. o an özel bir işleminizin olabileceğini yahut sizi seyretmelerinden rahatsız olabileceğinizi düşünmezler. <br/>* atm'den para çekerken dibinize kadar girip seyrederler.<br/>* toplu taşımada müzik dinler, cak cak sakız çiğner, yüksek sesle dakikalarca sohbet ederler.<br/>* siz alışveriş yaparken gelip yanınızda dikilir, denediğiniz kıyafetin üstünüzde duruşuna bakar, ürün seçmekte olduğunuz reyona sizi iteleyerek uzanırlar. <br/>* cep telefonunuzun ekranına, okuduğunuz kitaba vs. bakarlar.<br/>* evinize misafirliğe gelir, izin istemeden diğer odalarınıza dalarlar. <br/>* çocuğunuz varsa zaten kamunun malı sayılır; sizin yanınızda onu azarlar ve terbiye etmeye çalışır, ona yiyecek verirler; size sormazlar dahi.<br/>* otobüste koltuklarını kucağınıza kadar yatırırlar,<br/>* toplu taşımada, sohbet ortamında, işyerinde ayaklarını burnunuzun dibine kadar uzatırlar,<br/>* yan yana oturduğunuz bank, koltuk gibi yerlerde bacaklarını sallayıp sizi de öne arkaya sallarlar,<br/>* kalabalık alanlarda çantalarını önlerine almaz, size yaslarlar,<br/>* denize girersin, adam gelir tam dibinde yüzer. kocaman deniz abi, bulunabileceğin en geniş ve boş alan belki, neden dibimde yüzüyorsun, neden üstüme üstüme su sıçratıyorsun? <br/>* açık alanlardaki kafeterya masalarının arasındaki boşluğu yol olarak kullanırlar... lan kenardan geçsen ya? <br/>* otobüste, metroda eşyalarını getirip sizin önünüzdeki azıcık boşluğa sıkıştırırlar, ayaklarınızı götürecek yer bulamazsınız. o eşyayı geri almak için eğilip suratlarını adeta kucağınıza gömmelerinden bahsetmiyorum bile. <br/>* müvekkil gelir, masamın önündeki sandalyeye oturup derdini anlatmaya başlar. daha ikinci cümlede masamın ortasına kadar uzanıp kolunu dayar, masamdaki eşyalarla oynar, masaya dirseklerini dayayıp uzanarak bilgisayar ekranına bakmaya çalışır.<br/>* ofise gelir, sekreter arkasından yetişmeye çalışırken sorgusuz sualsiz odanıza dalar.<br/>* istediği kişi ile görüşmeyi bekleme alanında değil, masanızın başında dikilerek bekler.<br/>* teklifsizce masanızın arkasına geçer, etrafı inceler.<br/><br/>vs, vs, vs...<br/><br/>"her yer çok kalabalık, ne yapalım?" demeyin, şu saydıklarımın çoğunun kalabalıkla ilgisi yok. kaldı ki insanımız bomboş bir alanda dahi olsa gerçekten kişisel alan kavramından tamamen bihaber. çok benciliz, saygı kavramından haberimiz dahi yok. insanlar birbirinden nefret ediyor ve her türlü muameleyi birbirimize hak görüyoruz.<br/><br/>sinir basıyor.<br/><br/>edit: çok sayıda mesaj aldım, üstüne entry çok fazla da beğenildi. demek ki insanımızın bu konuda ciddi bir şikayeti var.<br/>beni ruh hastası, paranoyak, anlayışsız, asosyal yahut şirret olmakla yaftalayan arkadaşlara da şunu diyebilirim ancak: olması gerekende fazlaca uzaklaştığınız için anlayamıyor olabilirsiniz; ama insanın bir kişisel alanı vardır ve bu korunmalıdır; bunun sıcakkanlılıkla yahut tam tersi asosyallikle vs. ilgisi de zerre kadar yoktur. yürüyen merdivende götüme giren adam bunu sıcakkanlılığından yapmıyor ya da ben asosyalliğim nedeniyle bundan rahatsız olmuyorum; sapla samanı ayırın rica ederim.
   entry_channels: ilişkiler
@@ -14,7 +14,7 @@ data:
     çiçeksepeti'nin yaşattığı trajikomik olay
   entry_id:  79830518
   entry_writer: barbar savasci
-  entry_fav_count: 607
+  entry_fav_count: 609
   entry_content: |
     şanslı adammışsın vesselam. en azından sevgilinin ne kadar mal biri olduğunu erkenden fark etmişsin. düşünsene ilk çiçeği evlendikten sonra alsaydın?
   entry_channels: 
@@ -22,7 +22,7 @@ data:
     partide olanları anlatsam insan içine çıkamazlar
   entry_id:  79825772
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 563
+  entry_fav_count: 572
   entry_content: |
     bu şekilde konuşan insanlara saygı duymuyorum.<br/>dedikoducu kadınlara benzetiyorum. <br/>ya muharrem... <br/>allah aşkına, muhammed, isa aşkına konuş. karnından konuşmayı bir tarafa bırak. <br/>söylediklerini bizim hayal gücümüze bırakma. <br/>dökün amk eteğinizdeki taşları. <br/>sizin gibi siyasetçilerin sahnede yeri olmamalı. <br/>ya konuş ya sus. <br/>yarım ağız anlatma. <br/>arkana bir ruzigar almışsın ama sen hala karnından konuşuyorsun. <br/>çıkar kardeşim ağzındaki baklayı. <br/>ıslanmış mı ıslanmamış mı bakalım.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     kandilde alkollüsün bir de sedye mi istiyorsun
   entry_id:  79825862
   entry_writer: zwiegesprach
-  entry_fav_count: 318
+  entry_fav_count: 325
   entry_content: |
     <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck%c3%a7ekmece+kanuni+sultan+s%c3%bcleyman+hastanesi">küçükçekmece kanuni sultan süleyman hastanesi</a>’nde bir hemşirenin alkol zehirlenmesiyle gelen iki hastaya kurduğu cümle.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://listelist.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun/" title="https://listelist.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun/">listelist</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://forum.donanimhaber.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun-diyen-hemsire-bozuntusu--133297291" title="https://forum.donanimhaber.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun-diyen-hemsire-bozuntusu--133297291">donanım haber</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://webcache.googleusercontent.com/search?q=cache:48NZnQ3FqjgJ:https://eksisozluk.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun--5683501+&amp;cd=8&amp;hl=tr&amp;ct=clnk&amp;gl=tr" title="https://webcache.googleusercontent.com/search?q=cache:48NZnQ3FqjgJ:https://eksisozluk.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun--5683501+&amp;cd=8&amp;hl=tr&amp;ct=clnk&amp;gl=tr">google önbellek</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.59saniye.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun/" title="https://www.59saniye.com/kandilde-alkollusun-bir-de-sedye-mi-istiyorsun/">59saniye'deki video</a>
   entry_channels: haber
@@ -38,15 +38,31 @@ data:
     konyaspor'un la casa de papel'li forma tanıtımı
   entry_id:  79827815
   entry_writer: banderson
-  entry_fav_count: 306
+  entry_fav_count: 307
   entry_content: |
     çav bella'lı konyaspor forma tanıtımı. allah'ım sen aklıma mukayet ol.
   entry_channels: spor
 - entry_name: |
+    doların 5 tl oluşuna halkın tepkisiz kalma sebebi
+  entry_id:  79839840
+  entry_writer: hadi git
+  entry_fav_count: 304
+  entry_content: |
+    eger bir kurbagayi kaynayan bir tencereye atarsaniz, ziplayip kacarak kurtulur. ama once soguk su dolu bir tencereye koyup yavas yavas isitarak suyu kaynatirsaniz, kendi vucut isisini da arttirir ve suyun sicakligini farketmez hale gelerek patlayarak ölür. bu olay sosyal bilimlerde soyle kullanilir: az miktarda hissedilen bir olay kademeli olarak gittikce artarsa, insanlar buna sonunda alisa alisa gormezden gelmeye ya da farketmemeye, normal oymus gibi algilamaya baslarlar.<br/><br/>eskiden % 20 devalüasyon olurdu, hükümet düşerdi. yılbaşından bu yana dolar %35 arttı, millet kafasına göre takılıyor. bu arada o kurbağayı uyutan yandaş medya ve o kurbağanın cehaleti yan etkiler.
+  entry_channels: ekonomi
+- entry_name: |
+    2 ağustos 2018 s. soylu'nun damada omuz atması
+  entry_id:  79839222
+  entry_writer: varolan
+  entry_fav_count: 276
+  entry_content: |
+    iki tane vasıfsız tipin saçmasapan çekişmesi.<br/>normal bir ülkede en fazla apartman görevlisi olabilecek adamlar burada bakan olup saygı falan görüyor.<br/>inanılmaz.
+  entry_channels: siyaset,haber
+- entry_name: |
     batman'da yaya kadına tekme atan motosikletli
   entry_id:  79831521
   entry_writer: tourist eomer
-  entry_fav_count: 251
+  entry_fav_count: 258
   entry_content: |
     ya mk ülkesine havadan bişey falan mı attılar lan?<br/><br/>bu insanlar neden zıvanadan çıkmış gibi davranıyorlar?
   entry_channels: tv,sağlık,haber,otomotiv,motosiklet
@@ -54,31 +70,15 @@ data:
     kampüsü iyi olan üniversiteler
   entry_id:  79826006
   entry_writer: gecenyinebeynimyok
-  entry_fav_count: 247
+  entry_fav_count: 251
   entry_content: |
     (bkz: <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+%c3%bcniversitesi">boğaziçi üniversitesi</a>)<br/><br/>güney kampüs’ün güzelliği malumdur.
   entry_channels: anket,eğitim
 - entry_name: |
-    2 ağustos 2018 s. soylu'nun damada omuz atması
-  entry_id:  79839222
-  entry_writer: varolan
-  entry_fav_count: 247
-  entry_content: |
-    iki tane vasıfsız tipin saçmasapan çekişmesi.<br/>normal bir ülkede en fazla apartman görevlisi olabilecek adamlar burada bakan olup saygı falan görüyor.<br/>inanılmaz.
-  entry_channels: siyaset,haber
-- entry_name: |
-    doların 5 tl oluşuna halkın tepkisiz kalma sebebi
-  entry_id:  79839840
-  entry_writer: hadi git
-  entry_fav_count: 246
-  entry_content: |
-    eger bir kurbagayi kaynayan bir tencereye atarsaniz, ziplayip kacarak kurtulur. ama once soguk su dolu bir tencereye koyup yavas yavas isitarak suyu kaynatirsaniz, kendi vucut isisini da arttirir ve suyun sicakligini farketmez hale gelerek patlayarak ölür. bu olay sosyal bilimlerde soyle kullanilir: az miktarda hissedilen bir olay kademeli olarak gittikce artarsa, insanlar buna sonunda alisa alisa gormezden gelmeye ya da farketmemeye, normal oymus gibi algilamaya baslarlar.<br/><br/>eskiden % 20 devalüasyon olurdu, hükümet düşerdi. yılbaşından bu yana dolar %35 arttı, millet kafasına göre takılıyor. bu arada o kurbağayı uyutan yandaş medya ve o kurbağanın cehaleti yan etkiler.
-  entry_channels: ekonomi
-- entry_name: |
     2 ağustos 2018 dolar kuru
   entry_id:  79813882
   entry_writer: ravagex
-  entry_fav_count: 237
+  entry_fav_count: 239
   entry_content: |
     ulan iyisiyle kötüsüyle güzel ülkeydi ha. neydi o kurtuluş savaşı sonrası organik hoşaflar falan. kah güldük kah vay amk neymiş bu diye şaşırdık üzüldük. başka bir ülkede görüşmek üzere artık ne yapalım.
   entry_channels: ekonomi
@@ -86,42 +86,18 @@ data:
     türkiye'de sosyalist devrimin olacağı tarih
   entry_id:  79824255
   entry_writer: her rind bu bezmin
-  entry_fav_count: 220
+  entry_fav_count: 222
   entry_content: |
     türkiye fantastik kafaların yaşandığı bir ülke. herkes çağın nimetlerinden faydalanırken bir taraftan da nostaljik hülyalarda yüzüyor. ülkenin %90 küsürü tedavülken kalkmış özlemlerle yaşıyor. bir kısmı osmanlı, bir kısmı şeriat devleti, bi kısmı 1930’lar kemalist türkiyesi, bir kısmı da geçen yüzyılda kalmış sosyalist hülyalarda. kimse de dünya’nın nereye gittiğiyle, yeniyle ilgilenmiyor. ayfon 28 çıksa- çıkışına gram dahli olmadan- hemen tüketmeye açık fakat; kimi fesli, kimi kalpaklı, kimi misvaklı, kimi de yeşil parkalı saplantılara sahip.
   entry_channels: siyaset,anket
 - entry_name: |
-    2 ağustos 2018 istanbul'a eyyam'ı bahur'un gelmesi
-  entry_id:  79830988
-  entry_writer: gencay
-  entry_fav_count: 218
-  entry_content: |
-    eskiden balkanlar'dan soğuk hava dalgası gelirdi. şimdi gelene bak, tam yeni türkiyelik.
-  entry_channels: haber
-- entry_name: |
-    türkiye'nin en kötü günde bile birlik olamaması
-  entry_id:  79826729
-  entry_writer: ykucuk
-  entry_fav_count: 215
-  entry_content: |
-    rahip ajanlık yapıyorsa eve niye gönderiyorsun? ağırlığın olsun çıkartmam de. pkk bebek katlediyorsa çık ez. ekonomi battıysa benim yüzümden değil. devlet hiçbir işe yaramasın laf da söylemeyelim oh ne ala. muz cumhuriyeti mi lan burası terörü bitiremiyorsan ekonomiyi duzeltemiyorsan çek git dıjjj guşlerrr demekle devlet yönetilmez
-  entry_channels: siyaset
-- entry_name: |
     bir erkek olarak yaşanılan en büyük kız tacizi
   entry_id:  79836801
   entry_writer: blowjoe
-  entry_fav_count: 184
+  entry_fav_count: 197
   entry_content: |
     otobüste otururken kadının kolu koluma değmişti. <br/>ikimizde de tişört vardı. sıcaklığını hissettim ve çok kötü oldum.<br/>akşamları gizli gizli ağlarım bu yüzden.
   entry_channels: anket,ilişkiler
-- entry_name: |
-    abd'de bizim tek bir malımız vardır o da fetö'dür
-  entry_id:  79821145
-  entry_writer: coen
-  entry_fav_count: 171
-  entry_content: |
-    itiraf gibi bir açıklama olmuş. bizim malımız...
-  entry_channels: siyaset,tv,tarih,haber
 - entry_name: |
     dolar artışından dolayı almaktan vazgeçilen şeyler
   entry_id:  79820372
@@ -139,34 +115,10 @@ data:
     demirden korksak trene binmezdik türünden müthiş analizler ve tespitler içeren yazıları gördükçe değil abd dünyanın tüm maykılları gelse sırtımızın yere gelmeyeceğine olan inancımız kat be kat artıyor. heyyt bee f 35 neymiş, isterseniz parasını verelim de f 36 yaptırımı da uygulayın. ey abd sen kimsin yaa
   entry_channels: siyaset
 - entry_name: |
-    türkiye'nin abd'ye uygulayacağı karşı yaptırım
-  entry_id:  79823249
-  entry_writer: hu vants tu bi elon
-  entry_fav_count: 163
-  entry_content: |
-    donut pıçaklayacaz.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    alişan'ın doğacak çocuğuna koyacağı isim
-  entry_id:  79828312
-  entry_writer: fuckgloballythinklocally
-  entry_fav_count: 156
-  entry_content: |
-    (bkz: <a class="b" href="/?q=alison">alison</a>)<br/>(bkz: <a class="b" href="/?q=bu+entryi+giren+elimi+sikiyim">bu entryi giren elimi sikiyim</a>)
-  entry_channels: anket,magazin
-- entry_name: |
-    1 ağustos 2018 abd'nin türkiye yaptırımları
-  entry_id:  79813503
-  entry_writer: zaidayi
-  entry_fav_count: 153
-  entry_content: |
-    gün kenetlenme günüymüş.<br/>on altı yıldır benle uğraşacağına bunlarla uğraşsaydı.<br/>devletin bütün kademelerine yandaşlarını atayacaksın,<br/>bütün ihaleleri yandaşlarına verip zengin edeceksin,<br/>senin gibi düşünmeyenleri hapislerde çürüteceksin,<br/>sıkışınca da birlik beraberlik.<br/>cemaatle birlik ol beni ez, aran bozulunca birlik beraberlik,<br/>abd ile birlik ol beni ez, sıkışınca birlik beraberlik.<br/>umarım fazla zarar görmeden atlatırız şu günleri ama sonrasında ne olacak birader?<br/>yukarıdakiler olacak yine.
-  entry_channels: haber,ekonomi
-- entry_name: |
     muhabbet kuşu öldü diye ağlayan erkek
   entry_id:  79831297
   entry_writer: walkman
-  entry_fav_count: 148
+  entry_fav_count: 150
   entry_content: |
     o muhabbet kuşu dediğin adamdır, arkadaştır, ağzından ekmek yer, samimidir, omzuna konunca sevindirir, kendi küçük ruhu kocamandır. ardından ağlayan adama demek ki çok şey öğretmiştir.
   entry_channels: anket,ilişkiler
@@ -174,26 +126,34 @@ data:
     hayatında hiç playstation satın almamış erkek
   entry_id:  79836498
   entry_writer: yamuk
-  entry_fav_count: 133
+  entry_fav_count: 143
   entry_content: |
     internet alemi sağolsun erkekliğimiz sürekli sallantıda.
   entry_channels: anket,oyun
 - entry_name: |
-    abd'ye karşı devletimin yanındayım
-  entry_id:  79828224
-  entry_writer: madonnanin yagli zencisi 2
+    mete gazoz'un avrupa rekoru kırması
+  entry_id:  79822264
+  entry_writer: insan ol yeter
+  entry_fav_count: 134
+  entry_content: |
+    geçtiğimiz günlerde almanya'daki dünya kupası erkekler klasik yay finalinde altın madalya kazanan milli okçumuz mete gazoz şimdi de avrupa grand prix’inde 70 metrelik atışlar sonucu 686 puan topladı ve gençler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sporx.com/mete-gazozdan-avrupa-rekoru-SXHBQ723465SXQ" title="https://www.sporx.com/mete-gazozdan-avrupa-rekoru-SXHBQ723465SXQ">avrupa rekorunu kırdı</a>.<br/>başlığına bilgi girilmiş ama kazandığı başarının karşılığı olan bilgilendirme o kadarla sınırlı kalmamalı diye düşündüm çünkü gündem olmayı şu an gündemdeki herkesten çok hak ediyor.<br/>saplamaya devam ededur çocuk.
+  entry_channels: spor
+- entry_name: |
+    para karşılığı seks yapan üniversiteli kız
+  entry_id:  79829552
+  entry_writer: whoyagonnacall
   entry_fav_count: 133
   entry_content: |
-    utangac reisci beyani<br/><br/>yahu ben niye surekli sosyal medyada devletimin yaninda oldugunu belirtmek mecburiyetindeyim. bir kere de devlet "filanca hadisede madonnanin yagli zencisi'nin yanindayiz" diye tweet atsin<br/><br/>arti bunun ne faydasi var..pentagon'da "madonnanin yagli zencsi devletinin yanindaymis, simdi bittik beyler" mi deniyor?<br/><br/>aslinda bu "devletimizin yaninda olalim" tayfasi sunu diyor.. "biz bir halt yedik ancak bunun faturasini bize kesmeyin". ya da baska bir siyasi saik var.<br/><br/>zaten farkindaysaniz "devlet hepimizin devleti" kriz durumlarinda soyleniyor. normal zamanda akp ya da mhp'ye oy vermeyen herkes hain, serefsiz,darbeci, terorist, devlet dusmani, orospu cocugu falan.<br/><br/>ulan devlet dedigin sey senin benim bazi ihtiyaclarimizi gidermek icin kurdugumuz bir tuzel kisilik, apartman yonetimi gibi birsey. sahibimiz degil.<br/><br/>(bkz: <a class="b" href="/?q=ayn%c4%b1+gemideyiz+diyerek+hitler%27i+destekleyen+alman">aynı gemideyiz diyerek hitler'i destekleyen alman</a>)
-  entry_channels: siyaset
+    benim o. <br/><br/>enflasyonun yüksekliğinden, paramızın değersizliğinden, ekonominin ne halde olduğundan haberiniz yok mu sizin? hepiniz çok mükemmel insanlarsınız da, benim alın terimle kazandığım paraya mı dil uzatma cüretinde bulunabiliyorsunuz? hadsizler! ben sadece hayatta kalmaya çalışan biriyim. hırsızlık yapmıyorum, insan öldürmüyorum. sadece paramı kazanıp hayatımı idame ettirmeye çalışıyorum. hadi şimdi gidin de o çok ahlaklı hayatlarınızda çükünüzle oynayın!<br/><br/>edit: sosyal deneyime olan ilginize çok teşekkür ederim: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/3da39691c69">https://eksiup.com/3da39691c69</a><br/>aslında daha fazla var da, bu kadar gösteriyor adfsdfd eğlendim.<br/><br/>edit (1): hala erkek olduğumu anlamayıp ücret soran var. arkadaşlar aradığınız kişi ben değilim.
+  entry_channels: ilişkiler,eğitim,ekonomi
 - entry_name: |
-    ___o/___
-  entry_id:  79823418
-  entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 128
+    yazarların 31 aralık 2018 dolar kuru tahminleri
+  entry_id:  79825579
+  entry_writer: wolvistanbul
+  entry_fav_count: 122
   entry_content: |
-    boğulmak üzere olan türk lirası.
-  entry_channels: anket
+    6.90<br/><br/>(bkz: <a class="b" href="/?q=dolar+7+oldu+alg%c4%b1s%c4%b1+yanl%c4%b1%c5%9f">dolar 7 oldu algısı yanlış</a>)
+  entry_channels: anket,ekonomi
 - entry_name: |
     oğluna tecavüz edenin kızına tecavüz eden adam
   entry_id:  79822552
@@ -203,21 +163,21 @@ data:
     sözlük'te yücelttiğiniz linç ve intikam mantığının en somut örneğidir.
   entry_channels: haber
 - entry_name: |
-    yazarların 31 aralık 2018 dolar kuru tahminleri
-  entry_id:  79825579
-  entry_writer: wolvistanbul
-  entry_fav_count: 118
-  entry_content: |
-    6.90<br/><br/>(bkz: <a class="b" href="/?q=dolar+7+oldu+alg%c4%b1s%c4%b1+yanl%c4%b1%c5%9f">dolar 7 oldu algısı yanlış</a>)
-  entry_channels: anket,ekonomi
-- entry_name: |
     abdülkadir geylani'nin azrail'i pataklaması
   entry_id:  79823255
   entry_writer: starlessandbibleblack
-  entry_fav_count: 112
+  entry_fav_count: 113
   entry_content: |
     bunu doktora anlattığında ağır şizofreni tanısı alırken, eğitimsiz çomarlarına anlattığında huşu içinde tekbir sesleri yükseliyor.<br/><br/>böyle ülkenin taaaa...
   entry_channels: ilişkiler
+- entry_name: |
+    2 ağustos 2018 misvak dergisinin paylaştığı caps
+  entry_id:  79841763
+  entry_writer: kumulatifvergimatrahi
+  entry_fav_count: 110
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dincilerin+ahlaks%c4%b1z+olmas%c4%b1">dincilerin ahlaksız olması</a>)
+  entry_channels: 
 - entry_name: |
     abd malı kullanmıyoruz kampanyası
   entry_id:  79813319
@@ -230,55 +190,47 @@ data:
     trafikte en temkinli yaklaşılması gereken araçlar
   entry_id:  79822874
   entry_writer: r3dgull
-  entry_fav_count: 103
+  entry_fav_count: 104
   entry_content: |
     serit degistirmek icin sinyal verdiginizi gorup hizlanan amcik agizli yavsaklardir.<br/><br/>edit: (bkz: <a class="b" href="/?q=sinyal+veren+tasita+yol+vermemek+icin+hizlanmak">sinyal veren tasita yol vermemek icin hizlanmak</a>)
   entry_channels: otomotiv,motosiklet
 - entry_name: |
+    türkiye'deki tarikat ve cemaatler listesi
+  entry_id:  79830072
+  entry_writer: altay horda
+  entry_fav_count: 85
+  entry_content: |
+    ön edit: böyle bir liste çok aradım, lakin bilindik 3-5 cemaat dışında ayrıntılı bilgi yok. ben de böyle bir liste hazırlamaya karar verdim. umarım faydalı olur...<br/>---------------------------------------------<br/>türkiye tam bir tarikat ve cemaat cenneti.<br/>çünkü insanlarımız cahil, bayılıyorlar bir yerlere bağlı, bağımlı olmaya, tabi olmaya ihtiyaç duyuyorlar.<br/>çünkü amaçları gerçek bir mümin olmak, allah'a kul etmek değil, kula kulluk etmek, allah ile arasına aracılar koymak.<br/><br/>bu tarikatler ve cemaatler ile ilgili sürekli yazıyoruz.<br/>çok da mesaj geliyor, "hangisi iyi hangisi kötü nereden bileceğiz" diye.<br/>iyi cemaat, kötü tarikat diye bir şey yok.<br/>bunların tamamı kötü, bunların tamamı insanları allah ile, din ile aldatan ve pek çoğu bir şirk bataklığına dönüşmüş olan ucube şeylerdir.<br/><br/><a class="b" href="/?q=t%c3%bcrkiye%27de+tarikatlar">türkiye'de tarikatlar</a>:<br/><br/>türkiye'deki tarikatlar şunlardır;<br/><br/>-nakşibendi tarikatı.<br/>-nurcular.<br/>-kadiri tarikatı.<br/>-halveti tarikatı.<br/>-rufai tarikatı<br/>-melami tarikatı.(bayrami)<br/>-sühverdiyye tarikatı<br/>-çeşti tarikatı<br/>-şazeliye tarikatı.<br/>-mevlevi tarikatı<br/><br/>bu tarikatlar içinde nurcular da aslında nakşibendi'dir, lakin sayıları çok fazla olduğu için ve diğer nakşibendilerden farklı olduğu için ayrı bir tarikat gibi inceleyeceğiz.<br/><br/><a class="b" href="/?q=t%c3%bcrkiye%27deki+faal+tarikatlar+ve+kollar%c4%b1">türkiye'deki faal tarikatlar ve kolları</a>;<br/><br/>1-a)<a class="b" href="/?q=nak%c5%9fibendi+tarikat%c4%b1">nakşibendi tarikatı</a>:<br/>türkiye'de en fazla kolu, en fazla cemaati, en fazla müridi bulunan, siyaset ile iç içe olan, türkiye'nin en etkili tarikatıdır.<br/>nurcular da nakşibendiliğin bir koludur.<br/>•<a class="b" href="/?q=menzilciler">menzilciler</a>.(gavsçılar)(semerkand)<br/>•<a class="b" href="/?q=iskenderpa%c5%9fa+cemaati">iskenderpaşa cemaati</a>(günümüzde tayyip erdoğan ve pek çok akp'linin bağlı olduğu cemaat, ayrıca yeni sağlık bakanı bu cemaattendir)<br/>•<a class="b" href="/?q=ismaila%c4%9fa+cemaati">ismailağa cemaati</a>(ihvancılar-cübbeli ahmet hoca)<br/>•<a class="b" href="/?q=s%c3%bcleymanc%c4%b1lar">süleymancılar</a><br/>•<a class="b" href="/?q=hazneviler">hazneviler</a>(şeyh izzettinciler)<br/>•<a class="b" href="/?q=yahyal%c4%b1+cemaati">yahyalı cemaati</a>(kayserililer)<br/>•<a class="b" href="/?q=erenk%c3%b6y+cemaati">erenköy cemaati</a>(pek çok akp'li bu cemaattendir)<br/>•<a class="b" href="/?q=tufanc%c4%b1lar">tufancılar</a><br/>•<a class="b" href="/?q=k%c4%b1br%c4%b1siler">kıbrısiler</a>(şeyh nazım kıbrısi)<br/>•<a class="b" href="/?q=zilan+cemaati">zilan cemaati</a><br/>•<a class="b" href="/?q=reyhaniler">reyhaniler</a><br/>•<a class="b" href="/?q=hacegan+cemaati">hacegan cemaati</a><br/>•<a class="b" href="/?q=arvasiler">arvasiler</a><br/>•<a class="b" href="/?q=akf%c4%b1rat+cemaati">akfırat cemaati</a><br/>•<a class="b" href="/?q=halidiye">halidiye</a><br/>•<a class="b" href="/?q=%c5%9feyh+muhammed+nay%c4%b1r+erzincani">şeyh muhammed nayır erzincani</a>.<br/>•<a class="b" href="/?q=bilvanis+gurubu">bilvanis gurubu</a>.<br/>-------------------------<br/>1-b)<a class="b" href="/?q=nurcular">nurcular</a>:<br/>•<a class="b" href="/?q=g%c3%bclen+cemaati">gülen cemaati</a>(fetöcüler)<br/>•<a class="b" href="/?q=ilim+yayma+cemiyeti">ilim yayma cemiyeti</a>.<br/>•<a class="b" href="/?q=k%c4%b1rk%c4%b1nc%c4%b1+hocac%c4%b1lar">kırkıncı hocacılar</a><br/>•<a class="b" href="/?q=%c4%b1%c5%9f%c4%b1k%c3%a7%c4%b1lar">ışıkçılar</a>(ihlas gurubu)<br/>•<a class="b" href="/?q=yeni+asyac%c4%b1lar">yeni asyacılar</a><br/>•<a class="b" href="/?q=yeni+nesilciler">yeni nesilciler</a><br/>•<a class="b" href="/?q=aczimendiler">aczimendiler</a>(müslüm gündüz)<br/>•<a class="b" href="/?q=me%c5%9fveret%c3%a7iler">meşveretçiler</a><br/>•<a class="b" href="/?q=medzehra+gurubu">medzehra gurubu</a><br/>•<a class="b" href="/?q=zehra+vakf%c4%b1">zehra vakfı</a><br/>•<a class="b" href="/?q=kurto%c4%9flu+gurubu">kurtoğlu gurubu</a>(okuyucular)<br/>•<a class="b" href="/?q=sungurcular">sungurcular</a><br/>•<a class="b" href="/?q=yaz%c4%b1c%c4%b1lar">yazıcılar</a><br/>•<a class="b" href="/?q=medrese+alimleri+vakf%c4%b1">medrese alimleri vakfı</a><br/>•<a class="b" href="/?q=alvarl%c4%b1+efe+cemaati">alvarlı efe cemaati</a><br/>•<a class="b" href="/?q=hayrat+cemaati">hayrat cemaati</a><br/>•<a class="b" href="/?q=nor%c5%9fin+dergah%c4%b1">norşin dergahı</a>(şeyh nurettin mutlu)(tefecilik yaparlar)<br/>--------------------------<br/>2)<a class="b" href="/?q=kadiri+tarikat%c4%b1">kadiri tarikatı</a>:<br/>abdülkadir geylani'nin öğretilerini kabullenen, türkiye'de çok etkin, siyaset ile iç içe geçmiş çok sayıda müridi bulunan tarikat.<br/>•<a class="b" href="/?q=galibiler">galibiler</a>.<br/>•<a class="b" href="/?q=icmalciler">icmalciler</a>(haydar baş)<br/>•<a class="b" href="/?q=tillocular">tillocular</a><br/>•<a class="b" href="/?q=muhammediye">muhammediye</a><br/>•<a class="b" href="/?q=halisiye">halisiye</a><br/>•<a class="b" href="/?q=%c3%bcveysler">üveysler</a><br/>•<a class="b" href="/?q=%c5%9feyh+osman+cemaati">şeyh osman cemaati</a><br/>•<a class="b" href="/?q=zenbililer">zenbililer</a><br/>•<a class="b" href="/?q=h%c3%bcseyniler">hüseyniler</a><br/>•<a class="b" href="/?q=farukiler">farukiler</a><br/>•<a class="b" href="/?q=bilal-i+nadir">bilal-i nadir</a>.(nadiriler)<br/>•<a class="b" href="/?q=kesnizani">kesnizani</a><br/>•<a class="b" href="/?q=%c5%9fettariye">şettariye</a><br/>---------------------------<br/>3)<a class="b" href="/?q=halveti+tarikat%c4%b1">halveti tarikatı</a>:<br/>kadiri ve nakşibendilik ile sıkça karıştırılsa da bağımsız bir tarikattır.<br/>türkiye'de çok sayıda cemaatleri ve müritleri bulunur.<br/>•<a class="b" href="/?q=cerrahiler">cerrahiler</a>(sosyetik-şarkıcı-popçu-topçu tarikat)<br/>•<a class="b" href="/?q=u%c5%9f%c5%9fakiler">uşşakiler</a><br/>•<a class="b" href="/?q=%c5%9fabaniye">şabaniye</a><br/>•<a class="b" href="/?q=m%c4%b1sriyye">mısriyye</a><br/>•<a class="b" href="/?q=ticaniler">ticaniler</a><br/>•<a class="b" href="/?q=ru%c5%9feniye">ruşeniye</a><br/>•<a class="b" href="/?q=ipek+yolu+gurubu">ipek yolu gurubu</a><br/>•<a class="b" href="/?q=s%c3%bcnb%c3%bcliye">sünbüliye</a><br/>•<a class="b" href="/?q=nasuhiyye">nasuhiyye</a><br/>•<a class="b" href="/?q=ibrahimiye">ibrahimiye</a><br/>-------------------------<br/>4)<a class="b" href="/?q=rufai+tarikat%c4%b1">rufai tarikatı</a>:<br/>ahmet ali rüfai'nin 1148 yılında kurduğu sünni-islam tarikatıdır. vücutlarına şiş batırmaları ile bilinirler.<br/>•<a class="b" href="/?q=kubbealt%c4%b1+cemaati">kubbealtı cemaati</a><br/>•<a class="b" href="/?q=%c3%a7orum+dergah%c4%b1">çorum dergahı</a><br/>•<a class="b" href="/?q=mehmet+efendi+cemaati">mehmet efendi cemaati</a><br/>•<a class="b" href="/?q=maafiriler">maafiriler</a><br/>•<a class="b" href="/?q=antakiler">antakiler</a><br/>•<a class="b" href="/?q=marufiler">marufiler</a><br/>•<a class="b" href="/?q=ayderussiyye">ayderussiyye</a><br/>•<a class="b" href="/?q=sayyadiye">sayyadiye</a><br/>•<a class="b" href="/?q=zeyniyye">zeyniyye</a><br/>•<a class="b" href="/?q=sebsebiyye">sebsebiyye</a><br/>•<a class="b" href="/?q=kantaniye">kantaniye</a><br/>-----------------------<br/>5)<a class="b" href="/?q=melami+tarikat%c4%b1">melami tarikatı</a>(bayramiler):<br/>hacı bektaş veli ve hacı bayram veli'nin felsefesini benimseyen tarikat. aslında anadolu'nun türkleşmesi ve osmanlı'nın kuruluş döneminde çok etkili olduysa da, devlet politikalarını tasvip etmediğinden ve sisteme karşı duruşundan ötürü yerini nakşibendilik, halvetilik gibi daha sistem odaklı tarikatlara bırakıp önemsizleşmiş, sindirilmiştir. <br/>türkiye'de hala melamiler mevcuttur.<br/>•<a class="b" href="/?q=ma%c5%9fukiler">maşukiler</a><br/>•<a class="b" href="/?q=aksarayiler">aksarayiler</a><br/>•<a class="b" href="/?q=edirneviler">edirneviler</a><br/>•<a class="b" href="/?q=yakubi">yakubi</a><br/>•<a class="b" href="/?q=kabayiler">kabayiler</a><br/>•<a class="b" href="/?q=kemaliler">kemaliler</a><br/>---------------------<br/>6)<a class="b" href="/?q=s%c3%bchverdiyye+tarikat%c4%b1">sühverdiyye tarikatı</a>:<br/>bağdar kökenli tarikat. halvetiler ile yakın ilişki içerisindedir. türkiye'de sayıları önemsizdir.<br/>•<a class="b" href="/?q=zeyniyye">zeyniyye</a><br/>---------------------<br/>7)<a class="b" href="/?q=%c3%a7e%c5%9ftiyye+tarikat%c4%b1">çeştiyye tarikatı</a>:<br/>seyyid giyaseddin el çişti tarafından hindistan'da kurulan tarikat. günümüzde türkiye'de sayıları çok azdır, önemsizdir. bazı kolları;<br/>•<a class="b" href="/?q=sabiriye">sabiriye</a>.<br/>•<a class="b" href="/?q=nizamiyye">nizamiyye</a>.<br/>-----------------------<br/>8)<a class="b" href="/?q=%c5%9fazeliye+tarikat%c4%b1">şazeliye tarikatı</a>:<br/>sultan 2. abdülhamid'in bağlı olduğu tarikat. osmanlı döneminde avrupa ve balkanlarda çok etkiliydi, günümüzde önemsizdir.<br/>•<a class="b" href="/?q=simaviler">simaviler</a><br/>•<a class="b" href="/?q=%c3%a7izmeciler">çizmeciler</a><br/>•<a class="b" href="/?q=aleviyye">aleviyye</a>(aleviler ile alakası yoktur)<br/>•<a class="b" href="/?q=derkaviyye">derkaviyye</a><br/>-----------------------<br/>9)<a class="b" href="/?q=mevlevi+tarikat%c4%b1">mevlevi tarikatı</a>:<br/>kökeni anadolu olan, mevlana celaleddin rumi'ye bağlı tasavvuf tarikatı. tarikatın en büyük kolu mevlana'nın oğlu sultan veled'den gelenlerin oluşturduğu koldur.<br/>bugün çelebi olarak tayin edilen yani seçilen kişi konya ilinde yer alan mevlana türbesindeki dergahta yaşam sürer.<br/>türkiye'de farklı yerlerde mevlevihaneler vardır, diğer tarikatlar gibi kollara ayrılmamıştır.<br/><br/>bütün bunların dışında, adnan hocacılar, mustazaflar, furkancılar(furkan vakfı) gibi cemaatler de var.
+  entry_channels: siyaset,anket
+- entry_name: |
     alkol tüketenlere tavsiyeler
   entry_id:  79837298
   entry_writer: koprualtindaki bos sise
-  entry_fav_count: 79
+  entry_fav_count: 82
   entry_content: |
     istikrarlı bi şekilde alkol tüketenlere naçiz tavsiyelerimdir. <br/>her gün içenler için öncelikle; gündüz içmeyin. disiplin edinin. <br/>her gün, gündüz/gece içiyorsanız zaten alkoliksinizdir. ilk tavsiye tabiki bırakmanız ya da azaltmanız. kendinize gün koyun. küçük hedeflerle başlayın. beyin küçük gördüğü hedefleri çok daha rahat irade etmeye programlıdır. mesela 10 gün içmicem diye bi karar verdiniz. vermeyin o kararı çünkü tutmaz. bugün içmicem deyin. her gün tekrar edin. ya da haftada üç gün için. bugün içmicem deyin, ertesi gün için kasmayın. sonraki gün içmeyin böylece haftada üç güne düşürdünüz. önce öyle başlayın ama her gün içmemeye çalışın. tekrar ediyorum, beyin uzun vadeli hedeflerdense, kısa vadeli hedefleri çok daha kolay ve rahat gerçekleştirir. irade sabah daha güçlüdür akşama doğru kırılmaya başlar. mesela diyetler hep gece bozulur...gibi.<br/>diğer ve en önemli tavsiye de kendinize iyi bakın. nasıl olacak anlatayım. <br/>öncelikle alkol, vücuttaki magnezyumu tüketir. bu da halsizlik, depresyon, ve o meşhur el titremesine sebep olur, anksiyete yapar. anksiyetenin üstü panik ataktır. her panik atak alkolik değildir tabiki ama her alkolik ayıkken panik atak yaşar. gidin bi eczaneden magnezyum vitamin alın. her gün bi tablet yemekle için. <br/>bol bol yeşil yiyin. hiç bulamadınız, ağaç yapraklarına koşun. yeşil acayip önemli. nanesinden, brokolisine. gerekirse zorla yiyin. madem içiyosun, bak kendine. telafi et. yoksa yaşlışığın hem sana hem de yanında kim varsa o’na zul olur. bu boku yiyosan, kendine bakmayı da görev edinicen. <br/>hareket edin. akşamdan kalmayken asla yatmayın, zorlayın. kalkın hareket edin ve terleyin. en güzel toksin terle atılır. <br/>bi gün beyin kanaması geçiricek gibi hissedecek kadar akşamdan kalmayken, sokağa çıkıp yürüdüm. güneş gözlüğümü taktım. sadece adım attım. eve çok zor döndüm ama iyiydim. düzelmiştim sayılır yani. <br/>b vitamini. günlük üretilen bi şey. alkol alan insan her gün mutlaka b vitaminini almalı. şeker gibi emilen dil altı minik b vitamini var solgarın. bence en iyisi o. <br/>fast food asla ama <a class="b" href="/?q=asla">asla</a> yemeyin. yeminle kalp krizine davet onlar. hık der gidersiniz. kedi besleyin. ne alaka bilmiyorum ama iyi bi şey. <br/>alkol karaciğeri tüketir, herkes bilir bunu zaten. bunun en güzel besini enginar. mevsiminde bile anlayamadığım şekilde pahalı ama enginar tablet haplar var, onlardan alın. new life enginar tablet 50 tlydi en son, gayet iyi. bunu da gece yatarken için ki; uyurken çalışsın. bi ay için, bi ay ara verin. <br/>düzenli alkol tüketmek ve bu alkolü tölere etmeden yaşamak uzun vadeli, hasta olup ölmeli intihardır.. ne yardan ne serden diyorsanız, kendinize bakın. bol bol limonlu su için. şekeri hayatınızdan kesinlikle çıkarın çünkü şekeri alkolle fazlasıyla zaten alıyorsunuz. sigara da içiyorsanız, bi tercih yapın. ya alkol ya sigara. doğru olan ikisini de çıkarmak ama ayık kafa çekemiyorsanız hayatı, en azından sigarayı bırakın. yeşille beslenin. yeşil çay müthiş bi antioksidan. ananas harika bi ödem söktürücü. maydonoz direk iç temizleyici. adeta bi inek gibi maydonoz yiyin.<br/>şerefe... sağlınıza içiyorum.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    domagoj vida
-  entry_id:  79831654
-  entry_writer: raqasan
-  entry_fav_count: 66
-  entry_content: |
-    hay sizin şu tiner muhabbetinizin amk ben ulan bu adamın transfer muhabbetini bizden çok siz yaptınız lan kimseden ses çıkmıyor bu dangalaklardan bitanesi başlığa gelip 10 milyondan fazla etmez diyor he amk he. gerçi yorumlarını okudum sabriyi hala gs de sanıyor olcay şahana genç avrupada yolun açık falan demiş.tinerci s.ksun size lan.
-  entry_channels: spor
-- entry_name: |
-    2 ağustos 2018 misvak dergisinin paylaştığı caps
-  entry_id:  79841763
-  entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 61
-  entry_content: |
-    (bkz: <a class="b" href="/?q=dincilerin+ahlaks%c4%b1z+olmas%c4%b1">dincilerin ahlaksız olması</a>)
-  entry_channels: 
-- entry_name: |
-    temmuz ayında araba satışlarının %36 düşmesi
-  entry_id:  79825344
-  entry_writer: moon shaped pool
-  entry_fav_count: 57
-  entry_content: |
-    birader, sen ne uretiyorsun, nasil bir katma deger sagliyorsun ki parani son model araclara harcayabiliyorsun? kendi urettigin hangi mal uluslararasi pazarlarda rekabet edebiliyor? dunyada hangi urunun ile markalasabildin? abd’nin gm’i, almanya’nin mercedes’i, fransa’nin renault’u var. peki senin neyin var?<br/><br/>dunyada likiditenin nehirler gibi aktigi donemde 3 para faize aldigin krediler ile bilime, teknolojiye, uretime, ar-ge’ye yatirim yapmak yerine insaata yatirim yaptin. tasarruflarini uzun donemde katma deger uretecek, istihdam saglayacak sektorlere yonlendirmek yerine betona yatirdin. 300’e aldigim evi 500’e satarim, olmadi 2’den kiraya veririm diyerek gotunu yaya yaya para kazanmanin derdine dustun. <br/><br/>peki ne oldu? ruzgar tersine dondu. artik oyle bindelik oranlarda aldigin faizler kalmadi. elindeki parayi, uretime hicbir katkisi olmayan, kolay yoldan para kazanma enstrumanlarina yatirdigin icin, ucuza para bulanlarin ragbet edecegi yatirimlarin dinamit misali gotunde patlamaya basladi. <br/><br/>birader sen kimsin, biz kimiz? su ulkeye, ekonomiye, istihdama katkimiz ne ki 300 bin liralik mercedes’e, 150 bin liralik volkswagen’e biniyoruz? ne uretiyoruz da karsiliginda bunlara sahip oluyoruz? zamaninin yarisini goygoy ile gecirdigimiz masa basi islerimiz mi hak etmemizi sagliyor bunlari? ayda 5000 euro maas alan bir alman ayni arabayi 10 yil kullanirken, sen hangi boksun da 2 yilda bir, yillik gelirinin tamamina denk gelen parayi, insani x noktasindan y noktasina goturmekten baska hicbir islevi olmayan bir alete yatirabiliyorsun?<br/><br/>her turlu tuketimde oldugu gibi, otomobil satislari da olmasi gereken noktaya geri donuyor. cukoglu rezidanslarini 3’e mal edip 30’a satan dalyaraklar icin de devran donuyor. yok oyle 3 tane beton parcasi dikip 1 milyonluk arabayla piyasa yapmak. yakin zamanda bu tip luks arabalarin icradan 3 kurusa satildigini siklikla duymaya baslayacagiz. <br/><br/>ulan asgari ucretin 1600 lira oldugu ulkede, kici kirik teneke b segmenti aracin fiyati minimum 80 bin lira olmus. hala otomobil satislarinin dusmesi sanki enteresan bir olaymis gibi haber degeri tasiyor. bi siktirin gidin allah askina ya.
-  entry_channels: haber,otomotiv,ekonomi
-- entry_name: |
     gana cedisi'nin türk lirası'nı geçmesi
   entry_id:  79840916
   entry_writer: smyrnaninbabasi
-  entry_fav_count: 57
+  entry_fav_count: 76
   entry_content: |
     (bkz: <a class="b" href="/?q=ver+tamtami">ver tamtami</a>)
   entry_channels: ekonomi
 - entry_name: |
+    2018 ekonomik krizi
+  entry_id:  79823122
+  entry_writer: umut kaan
+  entry_fav_count: 62
+  entry_content: |
+    muhalefet partileri aslında sevinmeliler son seçimi kazanamadıkları için..<br/>çünkü ali koç'un devraldığından çok daha büyük çapta bir enkazı devralacaklardı.<br/>altında kalacak ve başarısız olacaklardı.<br/>"görüyorsunuz işte muhalefetin çapsızlığını, bizden başka kimse düzeltemez ekonomiyi" diye yaygara koparan akp yeniden iktidara gelecekti. <br/>belki de bir daha hiç gitmemek üzere.<br/>şimdi ise kendilerinin, sebebi oldukları bu enkazın altında kalmaları çok olası. <br/>tüm ülke ile beraber tabi..<br/>umalım ki kendileri ile beraber; duygu sömürüsü, içi boş sloganlar, arap milliyetçiliği ve gericilikten başka bir şey olmayan "siyasal islam" da bir daha geri dönmemek üzere tarihin çöplüğünde yerini alır..
+  entry_channels: siyaset,ekonomi
+- entry_name: |
     en yakışıklı rakam
   entry_id:  79840369
   entry_writer: ebesininbitanesi
-  entry_fav_count: 52
+  entry_fav_count: 58
   entry_content: |
     böyle 7 rakamında üzerine yüklenen misyondan mı nedir hem yakışıklı hem de zengin bir piç imajı var gibi. sanki boş zamanlarında 8'e çakıyor ve dünyayı da siklemiyor gibi.<br/><br/>edi ile büdü : bence en yakışıklı harf de "j"dir hatta 7 ve j bir araya gelirse evrenin amına bile koyabilir. o derece kozmik bir güç oluşturabilirler.
   entry_channels: anket
@@ -291,10 +243,26 @@ data:
     ülkenin içinde bulunduğu ekonomik iflas durumu görüp "lan direkten döndük, verilmiş sadakamız varmış. ihale az kalsın bana kalacaktı" diyor mudur, merak ettiğim eski cumhurbaşkanı adayı.
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
+    arabasının kaç kuruş yaktığını bilmeyen erkek
+  entry_id:  79813509
+  entry_writer: mekuba
+  entry_fav_count: 45
+  entry_content: |
+    çünkü artık lira yakiyordur.
+  entry_channels: anket,otomotiv
+- entry_name: |
+    hiç konuşmayan insan
+  entry_id:  79838851
+  entry_writer: hidrolikrotrecan
+  entry_fav_count: 38
+  entry_content: |
+    kimseyi ilgilendirmeyen insandır.<br/>aptal aptal konuşup etrafındakilerin sinirini bozan ağız ishallerindense bu insanları her zaman daha çok sevmişimdir.
+  entry_channels: ilişkiler
+- entry_name: |
     2 ağustos dünya yakışıklılar günü
   entry_id:  79832076
   entry_writer: teo the leo
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     (bkz: <a class="b" href="/?q=gece+2+gibi+aniden+gelen+yak%c4%b1%c5%9f%c4%b1kl%c4%b1l%c4%b1k+hissi">gece 2 gibi aniden gelen yakışıklılık hissi</a>)
   entry_channels: ilişkiler,magazin
@@ -302,18 +270,10 @@ data:
     sözde matematik öğreten instagram fenomeni
   entry_id:  79839653
   entry_writer: marsli gocmen
-  entry_fav_count: 31
+  entry_fav_count: 36
   entry_content: |
     (bkz: <a class="b" href="/?q=viral">viral</a>)<br/>(bkz: <a class="b" href="/?q=viral+reklam">viral reklam</a>)<br/><br/>çok belli oluyor, azıcık gizleyin.
   entry_channels: 
-- entry_name: |
-    derya çavaş
-  entry_id:  79834236
-  entry_writer: peptides
-  entry_fav_count: 27
-  entry_content: |
-    mezun olurken ettiği yemini unutmuş bir yüz karası.<br/><br/>''herhangi bir ırk, inanç, siyasal veya sosyal düzen ayrımı gözetmeksizin, hastalarıma bakacağıma, hayatı korumak, ıstırabı hafifletmek, sağlığı yüceltmek için gereken her türlü çabayı göstereceğime''<br/><br/>''bunların tümünü yaparken, uluslararası hemşirelik ahlak yasasının onurunu korumak için gerekecek bütün çabaları sarf edeceğime''
-  entry_channels: sağlık,haber
 - entry_name: |
     ekşi itiraf
   entry_id:  79813839
@@ -324,11 +284,11 @@ data:
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     2 ağustos 2018 beşiktaş b36 torshavn maçı
-  entry_id:  79813308
-  entry_writer: kasar yaza
-  entry_fav_count: 20
+  entry_id:  79842886
+  entry_writer: elu
+  entry_fav_count: 24
   entry_content: |
-    beşiktaş'ın <a class="b" href="/?q=uefa+avrupa+ligi">uefa avrupa ligi</a> ikinci ön eleme maçı. aynı zamanda 2018/2019 sezonunun ilk iç saha maçıdır. <a class="b" href="/?q=dolmabah%c3%a7e">dolmabahçe</a>'de bir ağustos gecesinde başlayacak serüven, mayıs'ta <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a> sahilinde yanan meşalelerle nihayete erer umarız. iki kulvarda da vurduğumuz gol olsun.<br/><br/>bu maçla birlikte <a class="b" href="/?q=lask+linz">lask linz</a>'le olacak üçüncü ön eleme eşleşmemiz kesinleşecek. geldiği gibi formayı alacak; kaleci, 10 numara, santrfor ve sağ bek eksiğimize rağmen umut verici bir futbol izlemeyi bekliyoruz. zayıf rakiple oynanacak maçta skor ölçüt olmasa da oynanan oyun yeni sezonla alakalı bir çok şifre verecektir. <br/><br/><a class="b" href="/?q=zafer+bizim+olacak">zafer bizim olacak</a>!
+    arkadaşlar düzgün link verirmisiniz ? benim linkde lens 2 asist yaptı.
   entry_channels: spor
 - entry_name: |
     uzayda sürüklenirken dinlenecek şarkı
@@ -339,45 +299,61 @@ data:
     <a class="b" href="/?q=uzaklara+u%c3%a7ma+ku%c5%9fum">uzaklara uçma kuşum</a>
   entry_channels: anket,müzik
 - entry_name: |
-    motosiklet yakıt tüketimi veritabanı
-  entry_id:  79814159
-  entry_writer: peyloride
-  entry_fav_count: 12
+    ingilizlerin en iyi olduğu konu
+  entry_id:  79840833
+  entry_writer: dominar rygel xvi
+  entry_fav_count: 19
   entry_content: |
-    beyler/bayanlar ciddi ciddi buraya mı yazacaksınzı tek tek? bir haftasonu projesi ile bu bilgilerin tutulup ortalamaların alınabileceği grafiksel gösterileceği vs. bir proje yapabilirim. aslında iyi olur bana da uğraş ben yapayım bu işi, tşk.
-  entry_channels: motosiklet
+    demokrasi ve insan hakları. 200 sene önceki yaptıkları şeylerle gelmeyin bana. adamların ülkesinde 70 çeşit millet birlikte sorunsuz yaşıyor. bizim ülkede insanın kendi insanına tahammülü yok.<br/><br/>ingiltere gerçekten insan haklarında dünyanın en iyi ülkesidir. abim royal mail (ingiltere'nin ptt'si) postacılıkla başlayıp genel merkezinde müdür oldu. 25 senelik kariyeri var. orada insanın nereden geldiğine bakmıyorlar işine bakıyorlar. almanlar ırkçıdır alman değilsen öyle yükselmene izin vermezler ama ingilizler aşmış o konuda.
+  entry_channels: anket,tarih
 - entry_name: |
-    türk kadınının erkek standardının düşük olması
-  entry_id:  79830096
-  entry_writer: ug tek
+    veren kızlar yüzünden erkeğin evlilik istememesi
+  entry_id:  79842957
+  entry_writer: gokcesadik
   entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=kendi+kendini+%c3%b6rnekleyen+ba%c5%9fl%c4%b1klar">kendi kendini örnekleyen başlıklar</a>)<br/><br/>bir sözlük yazarı, arkadaşları, flört ettiği kadınlar arasından 4 kişinin özel hayatına dair detayları, sırf kendisini haklı göstermek için ulu orta sözlükte paylaşabiliyor. <br/><br/>başkalarının özel hayatını ağzına sakız etmekten ve milyonlarca kişiyle paylaşmaktan imtina bile etmediğine göre sormak isterim: bu senin standardını nereye konumlandırıyor? <br/>çok açık konuşacağım: bebeyim, sen de o örnek olarak verdiğin kadınlar ve erkeklerin skalasındasın. ve bu sebeple de ancak kendi skalandaki insanlarla takılabiliyorsun. <br/><br/>bir insan olarak sende herhangi bir standart dahi göremiyorum. ucuz ve basitsin. karşına böyle insanlar çıkması da çok normal elbette.<br/>sevgiler,
+    pisliksiniz. <br/>o kız "versin" diye götünde kırk takla atarsınız, her türlü maymunluğu yapar sonra da ahlak bekçisi kesilirsiniz. bu boku yiyio de bu boku yediği kızı yadırgayan kaç dallama varsa inşallah öyle biriyle evlenir ki dilini ısırmadığına bin pişman olur. <br/><br/>ne zaman buraya girsem; bakire kadın, topuklu giyen kadın, bilmemne kadın, kadın da kadın.. lan salak, kadın olmasa sen olmazdın. ne bu aşağılama şeysi habire
   entry_channels: ilişkiler
-- entry_name: |
-    six feet under'dan akılda kalanlar
-  entry_id:  79831589
-  entry_writer: ttravis bicklee
-  entry_fav_count: 8
-  entry_content: |
-    babası öldükten sonra eve dönen nate, şehirde babasının kullandığı gizli bir kiralık oda bulmuştu. o oda ile alakalı bir bölüm ya da herhangi bir bağlantı olur mu diye çok bekledim dizi bitene kadar ama olmadı. six feet under'dan geriye kalanlardan biri de bir daha geri dönülmeyen o oda olmuştur benim için hep.
-  entry_channels: anket,tv
 - entry_name: |
     işe alımlardaki referans saçmalığı
   entry_id:  79838348
   entry_writer: parmak arasi kiri
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     eski iş yerindeki yöneticisi ile kötü ayrılmış olanlar için bir ızdırap adeta. eski çalıştığım yerde çok kalabalık bir ekip değildik ve direkt genel müdüre bağlıydım. genel müdür dediğimiz de laubalinin önde gideni, ne oldum delisi. uyguladığı psikolojik tacizin yanı sıra el kol şakalarını da çok seven biriydi kendisi bir de karşı cins olunca rahatsız ediyor adeta. ben kendisiyle tartıştığım işin işten çıkardı beni, ki benim öncemde 2 kişiyi daha çıkarmıştı. ben davamı da açmıştım ve kazandım. benden sonra da başka bir bayan arkadaş ile de tartışmış kız ağlayarak çıkmış işten sonra noterden ihtar çekerek ayrılmış. <br/>gel gelelim ki konuya, yeni iş görüşmelerine giderken eski firmayı kötülememek gerekiyor ama neresinden tutarsam elimde kalıyor. yalan söylesem iyi ayrıldık diye dert içim rahat etmeyecek. referans sorgulamasında direkt o pisliğe bağlı olduğum için vereceğim başka isimler benim müdürüm olmamış olacak ki zaten firmada çok müdür yok topu topu 20 kişiydik yarısı mavi yakaydı. kötü ayrıldım desem ay bu kesin geçimsiz diye en baştan eleneceğim. birçok firma referans istiyor, eski firmamdan referans vermesem de şüphe çekecek. eski ekip arkadaşlarımdan yazsam yetersiz kalacak müdür olmadıkları için. demem o ki keşke referans zorunlu olmasa insanlar halden anlasa...
   entry_channels: ekonomi
 - entry_name: |
-    para karşılığı seks yapan üniversiteli kız
-  entry_id:  79832513
-  entry_writer: seyretbaksimdi
+    şu anda çalan şarkı
+  entry_id:  79825304
+  entry_writer: umittaciri
+  entry_fav_count: 7
+  entry_content: |
+    insan bir sese de aşık olur!<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=7aLtvzZOr1o" title="https://www.youtube.com/watch?v=7aLtvzZOr1o">sting: ı love her but she loves someone else</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  79819052
+  entry_writer: portatifporte
+  entry_fav_count: 7
+  entry_content: |
+    benim gibi bir kadın tarafından bi zamanlar çok sevilmiş olmanın madalyasını kalbinde taşı derdim ama kalbin yok.<br/><br/>beynine tak derdim.<br/>ama beynin de yok.<br/><br/>madalyayı g.tüne tak madem. <br/>daha çok kişi görür sayın g.t veren.
+  entry_channels: anket,ilişkiler,edebiyat
+- entry_name: |
+    whitehouse'un artık beyaz ev diye tercüme edilmesi
+  entry_id:  79843253
+  entry_writer: alucardot
   entry_fav_count: 6
   entry_content: |
-    herkes yok orospudur yok değildir tartışa dursun, benim gözümde orospuysa bile sorun olmamakla beraber vizyonsuz olduğu için ucuza giden kızdır, biraz kendisini ağırdan satıp kendisini bir bok beceremeyen salak bir iş adamına kendisini metres olarak yamasa. tüm üniversitesine sponsor bulur, istediği kursa gider istedigi mekani gezip tatil yapar istediği evde oturur. arabasini hatta belki evini aldırır, networkunu oluşturur mezun olunca işini ayarlar. sonra 30 una doğru burda yok urusupudur kahbedir diye tukurukler saçan ama kız ona selam verse 3 gün banyodan çıkmayıp 31 çekecek salakların kariyerli birisiyle evlenir.<br/><br/>çevremde böyle çok örnek gördüm, bir tanesi bile orospu diye anılmıyordu. kullanılıp terk edilen masum güzel kızdır. evli olduğunu bilmiyordur, aldatılmıştır hep piçler denk gelmistir.<sup class="ab"><a title="(bkz: swf)" href="/?q=swf" data-query="swf">*</a></sup><br/><br/>eğer bir şey için talep varsa, her zaman arz edilecektir. bu hayat kadını için de gold digger için de, uyuşturucu için de, tefeci için de böyle. <br/>(bkz: <a class="b" href="/?q=don%27t+hate+the+player%2c+hate+the+game">don't hate the player, hate the game</a>)
-  entry_channels: ilişkiler,eğitim,ekonomi
+    abov.<br/>inanılmaz zekice bir siyasi karşı hamle.<br/>aman tanrım.<br/>utanıp beyaz sarayı kapatıp, stüdyo daire kiralayıp oradan yönetirler devletlerini artık.
+  entry_channels: haber
+- entry_name: |
+    sinyal vermenin kadınsı bir eylem olduğu gerçeği
+  entry_id:  79816132
+  entry_writer: nyarla
+  entry_fav_count: 4
+  entry_content: |
+    sinyal vermeyen delikanlının dibi arkadaşların alayının dibini sikeyim. öyle de netim bu konuda.
+  entry_channels: ilişkiler,teknoloji,otomotiv
 - entry_name: |
     90'larda sevgili olanların anlayabileceği şeyler
   entry_id:  79842169
@@ -395,11 +371,35 @@ data:
     ya isteyen istedigini yapsın bırakın. biz de yaptık bunları, çocuğun olunca hiç yapmam dediklerini yapıyorsun, millet özendiriyor seni. <br/>biz önce çocuğa yaptık, bir ufak pasta, balonlar (çok sever balonları), tamam. serdik sofra bezini oturttuk ortaya pastayla birlikte. doyasıya batırdı etrafı. bir de yakın arkadaşları çağırdık sonraki bir gün. <br/>çocuğunuz olsun, büyük veya küçük çapta hepiniz yapacaksınız, hazırlıklı olun. <br/><br/>ps: şimdiki çocuklar 3 yaşında başlıyor “balon istiol, paşta istiol, hepi böötdey istiol” demeye. 5-6’ya kadar zor beklersiniz:)
   entry_channels: haber,magazin
 - entry_name: |
-    ingilizlerin en iyi olduğu konu
-  entry_id:  79840833
-  entry_writer: dominar rygel xvi
+    hastası olunan sözler
+  entry_id:  79829422
+  entry_writer: gunes girmeyen eve giren adam
   entry_fav_count: 2
   entry_content: |
-    demokrasi ve insan hakları. 200 sene önceki yaptıkları şeylerle gelmeyin bana. adamların ülkesinde 70 çeşit millet birlikte sorunsuz yaşıyor. bizim ülkede insanın kendi insanına tahammülü yok.<br/><br/>ingiltere gerçekten insan haklarında dünyanın en iyi ülkesidir. abim royal mail (ingiltere'nin ptt'si) postacılıkla başlayıp genel merkezinde müdür oldu. 25 senelik kariyeri var. orada insanın nereden geldiğine bakmıyorlar işine bakıyorlar. almanlar ırkçıdır alman değilsen öyle yükselmene izin vermezler ama ingilizler aşmış o konuda.
-  entry_channels: anket,tarih
+    "hasta olmanın en kötü yanı ne biliyor musun; sevdiğin şeyleri yapamamak değil, onları yapmak istememek."
+  entry_channels: anket,edebiyat
+- entry_name: |
+    üniversite tercihi yapacaklara tavsiyeler
+  entry_id:  79838630
+  entry_writer: velovis
+  entry_fav_count: 1
+  entry_content: |
+    sözelcilere birkaç tavsiyem olabilir. eğer tarih, coğrafya, edebiyat, felsefe gibi bölümleri okuyup öğretmen olma hayalleri kuruyorsanız işinizin çok zor olduğunu bilin. imkansız değil ama çok zor. o yüzden 4 sene okuyup da harcadığım zamana, verdiğim emeğe lanet olsun demeyin. türkçe öğretmenliği ve sosyal bilgiler öğretmenliği bir nebze daha iyi. <br/>bunun dışında kesinlikle istemediğiniz ve yapamayacağınızı düşündüğünüz bir bölüme gitmeyin. <br/>üniversiteye kapağı attım, eller havaya moduna girmeyin. okuduğunuz bölümün hakkını verin. <br/>3.sınıfa geldiğinizde geleceğe dair birkaç planınız olsun. ales, yds, kpss artık size hangi sınav, hangi yeterlilikler lazımsa ona göre hazırlığınızı yapın, mezun olmayı beklemeyin.
+  entry_channels: anket,eğitim
+- entry_name: |
+    süleyman soylu vs berat albayrak
+  entry_id:  79841033
+  entry_writer: sokrataristo
+  entry_fav_count: 0
+  entry_content: |
+    süleyman s.'nin son zamanlarda akp tabanını orgazm eden birtakım "baba yiğit" çıkışlar, hamaset dolu söylemler boşuna değildi. bunlar hep kendini kitleler karşısında sağlama alma çabasıydı. <br/><br/>tayyip, süleyman s.'ye aduket çakarsa bu versus başlamadan biter.<br/>fakat buna yeltenmeyebilir. zira süleyman s. şuan akp tabanı için üç numaralı adamdır.<sup class="ab"><a title="(bkz: iki numara devbah)" href="/?q=iki+numara+devbah" data-query="iki numara devbah">*</a></sup>
+  entry_channels: siyaset
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  79834794
+  entry_writer: archetypee
+  entry_fav_count: 0
+  entry_content: |
+    istanbul içi dertleşmek isteyen hanımlar yeşillendirebilir yazar çaylak farketmez
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
