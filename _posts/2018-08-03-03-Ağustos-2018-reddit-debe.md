@@ -227,11 +227,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/iciKS80hhyiDUZLbhVAJaAdS9gWYbq46E6doFLzUiSo.jpg?s=f752725f7407aa70988ddb8d8e47d3d7 frameborder=0>
 - entry_name: |
-    No clicking on blurry images of cars, streetsigns or storefronts.
-  entry_id: 93rcw1
-  entry_content: |
-    <img src=https://i.redditmedia.com/fYtRpgkAD3L9txKpgaNC9oXeDazRE0_Ffw7yFXXAK6s.jpg?s=251510b48136d0dbe09412909f2dc64c frameborder=0>
-- entry_name: |
     This gnome salt shaker looks ok from the front...
   entry_id: 93u2i9
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 93rftv
   entry_content: |
     <img src=https://i.redditmedia.com/UP4yQjY8ZgrOGAPt2PperaFCnj1c7CkLrVwVYW5HX1g.jpg?s=eb450d521ee780265bbc4775b35b6d42 frameborder=0>
+- entry_name: |
+    Just kiddin' lol
+  entry_id: 93rosv
+  entry_content: |
+    <iframe src=https://v.redd.it/aeln1a5q0jd11/DASH_4_8_M frameborder=0></iframe>
 ---
