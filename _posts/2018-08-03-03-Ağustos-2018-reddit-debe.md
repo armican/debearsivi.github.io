@@ -1,0 +1,254 @@
+---
+layout: post
+title: 03 Ağustos 2018 Reddit Debe
+data:
+- entry_name: |
+    The morning rain makes it seem as though the guy in this ad is sweating profusely.
+  entry_id: 93ritd
+  entry_content: |
+    <img src=https://i.redditmedia.com/Q7pjgWcmk6Urp0SHY_ua7SOkDNDGIA2C60h0JAEnEJE.jpg?s=7c569dcceff12c836cb0f3f4feffd89c frameborder=0>
+- entry_name: |
+    Inside the Carr Forest Fire that has now burned over 100k acres in California. Wishing the Firefighters and the people there the best.
+  entry_id: 93uc5e
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FKlutzyYawningFallowdeer&url=https%3A%2F%2Fgfycat.com%2FKlutzyYawningFallowdeer&image=https%3A%2F%2Fthumbs.gfycat.com%2FKlutzyYawningFallowdeer-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=1067 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    100% Committed
+  entry_id: 93tdz7
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSleepyEntireCrane&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fdetail%2FSleepyEntireCrane&image=https%3A%2F%2Fthumbs.gfycat.com%2FSleepyEntireCrane-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=500 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Man adopts 45 dogs and sets them free on his 4 acre enclosed land.
+  entry_id: 93wxli
+  entry_content: |
+    <iframe src=https://v.redd.it/tumpur6vkmd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    I'm flyiiiiing
+  entry_id: 93s0yr
+  entry_content: |
+    <iframe src=https://v.redd.it/47au271l7jd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Only in New York
+  entry_id: 93vmfh
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FAcceptableLazyCleanerwrasse&url=https%3A%2F%2Fgfycat.com%2FAcceptableLazyCleanerwrasse&image=https%3A%2F%2Fthumbs.gfycat.com%2FAcceptableLazyCleanerwrasse-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Entire Factory Walks off the job after a few workers were sent home as punishment
+  entry_id: 93vfy2
+  entry_content: |
+    <iframe width=459 height=344 src=https://www.youtube.com/embed/Ykb6Nk9_PjI?feature=oembed&enablejsapi=1 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>
+- entry_name: |
+    The way he cuts avocados
+  entry_id: 93vqdo
+  entry_content: |
+    <iframe src=https://v.redd.it/pwihi2v6lld11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    This guy found the best in the park place to rest
+  entry_id: 93xp10
+  entry_content: |
+    <img src=https://i.redditmedia.com/Kun9c9ig_vyf9B-o0mzS7DwJ91gyTgesYDhUKMv_85c.jpg?s=4ed9bc3cb5046df9f322cc8784dd461c frameborder=0>
+- entry_name: |
+    She's in someone's locket (1940's)
+  entry_id: 93wgu5
+  entry_content: |
+    <img src=https://i.redditmedia.com/SuBEx1EXJEi8jgRYnNBKkMMvCDXoQ5lIJAsRJD-YKTY.jpg?s=a30fd206409c6c11c1fe78b9a21834b3 frameborder=0>
+- entry_name: |
+    Trick or Treat
+  entry_id: 93tmmy
+  entry_content: |
+    <iframe src=https://v.redd.it/o337stev3kd11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Don't Be Evil, Unless It's Worth Untold New Riches: Whistleblower Reveals Google Plan to Launch Censored Search Engine in China. If Google goes through with this, effectively normalizing & Americanizing authoritarian censorship, this will be Waterloo in global battle for free internet as norm.
+  entry_id: 93t0c4
+  entry_content: |
+    <img src=https://i.redditmedia.com/YLNPoKOc6BuqBltlEBLiof3kzGTcDegl4UNmgJPoBgg.jpg?s=7b740e83af7a90c9413470dfcb75f8ad frameborder=0>
+- entry_name: |
+    Spotify removes episodes of podcast hosted by Alex Jones
+  entry_id: 93uvzh
+  entry_content: |
+    <img src=https://i.redditmedia.com/p8_ZL-Fc39TYAekWKa-2gAwQbeQm_otASkL4tmGOy0g.jpg?s=29c405d19808c51d10b0db7c17e27398 frameborder=0>
+- entry_name: |
+    Mom is on the jumboron, and the son is not happy
+  entry_id: 93s1ot
+  entry_content: |
+    <iframe src=https://v.redd.it/gvezc5cf7jd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Raptor that dropped a rabbit mid-flight manages to loop back down and re-catch it.
+  entry_id: 93tsbd
+  entry_content: |
+    <iframe src=https://v.redd.it/aeln1a5q0jd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    GET IT OFF!!!
+  entry_id: 93rjrx
+  entry_content: |
+    <iframe src=https://v.redd.it/ns8rlgsyxid11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Robert Mueller Is Going After Shady Democrats Now, Too
+  entry_id: 93tmuc
+  entry_content: |
+    <img src=https://i.redditmedia.com/ewuxBRznfCf02E3SRlbFPVtilfUOvj5cGBiWnDxcz_8.jpg?s=34174c7c692b66cbae5cd0731b61a2f0 frameborder=0>
+- entry_name: |
+    Loretta sounds like a savage to me
+  entry_id: 93rffv
+  entry_content: |
+    <img src=https://i.redditmedia.com/fdRh-RX_5AOzFTePBEARDEXf1NRgwLCPBdHcp_Zxka8.jpg?s=02a75feef0b381fb6fc6196f2112615d frameborder=0>
+- entry_name: |
+  entry_id: 93tmex
+  entry_content: |
+    <img src=https://i.redditmedia.com/8tnYMlw9-tdfpLhdMjw1DeFlCpjxu9TH93CHjdhtX-4.jpg?s=730f932f98e73dd20bd32ea740a5f7ca frameborder=0>
+- entry_name: |
+    Little guy thought I was a tree.
+  entry_id: 93vdsl
+  entry_content: |
+    <img src=https://i.redditmedia.com/ZHHPMex_NsDKt7E6FTi6jcfylq5oevTPnMp5pxSp318.jpg?s=97c6ce04b5f9c74b1a4e861ec7024997 frameborder=0>
+- entry_name: |
+    Old friend.
+  entry_id: 93vu5d
+  entry_content: |
+    <img src=https://i.redditmedia.com/hAXND-nnY6YRKCLDxPOzNDMi5rezt9kHzqQ5zTwkXNE.jpg?s=989454024046355ff53a6bf36cdc5973 frameborder=0>
+- entry_name: |
+    TIL Kobe Bryant’s grandmother only came to see him play one game his entire professional career. That one game versus the Toronto Raptors he scored 81 points.
+  entry_id: 93rmsp
+  entry_content: |
+    <img src=https://i.redditmedia.com/h7r59PMKhZgPTMf_w2q6pI_addiaUlnQh2nGmL9-0AQ.jpg?s=7b9666242944de4a096fc61fcf41a706 frameborder=0>
+- entry_name: |
+    Cody is woke
+  entry_id: 93vd1v
+  entry_content: |
+    <img src=https://i.redditmedia.com/dNbfqxvRqmdYzkz-pfVKlE_QbnmGMxDL0ziIPttOV5Q.jpg?s=2c9e151f42040cd66f9aa4ec46b9f1bd frameborder=0>
+- entry_name: |
+    What about the droid attack on Wakanda?
+  entry_id: 93voej
+  entry_content: |
+    <iframe src=https://v.redd.it/mbnkmmvsjld11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Special counsel Mueller wants to ask Trump about obstruction of justice
+  entry_id: 93ssv1
+  entry_content: |
+    <img src=https://i.redditmedia.com/rlA4TY4i_FX9aW8wvkN6T3L3Hv_raE6sr6HS69rex08.jpg?s=7b946ec4ca3a538e7db99bcad981c14d frameborder=0>
+- entry_name: |
+    Dogzilla
+  entry_id: 93ryqo
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FMellowImpoliteAustraliankelpie&url=https%3A%2F%2Fgfycat.com%2FMellowImpoliteAustraliankelpie&image=https%3A%2F%2Fthumbs.gfycat.com%2FMellowImpoliteAustraliankelpie-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    I’m looking at you, Utah family.
+  entry_id: 93ve1i
+  entry_content: |
+    <img src=https://i.redditmedia.com/pO1IJEhpfC_liAnUm2JtK9j6cR3ev33ppl5tiS6dtXM.jpg?s=6428f8834010494c2d6d2cddefe86bdb frameborder=0>
+- entry_name: |
+    Explored an ice cave last week.
+  entry_id: 93s9hr
+  entry_content: |
+    <img src=https://i.redditmedia.com/P-X-EFXeziLlJvb49iAIf7UK4dZbljZ_uW_Xt5PzzfQ.jpg?s=5f11789432f7b9bb5d7cfd2ef3ff75b3 frameborder=0>
+- entry_name: |
+    Netflix Acquires George Orwell’s ‘Animal Farm;’ Andy Serkis Directs & Matt Reeves Producing
+  entry_id: 93shpl
+  entry_content: |
+    <img src=https://i.redditmedia.com/QVX3MdXDjCbKNxmAjQUdkwmiELRclesPve1kZXydpP8.jpg?s=230e609b43e6b5224d867484a71b0a19 frameborder=0>
+- entry_name: |
+    Speed difference between GT and F1 cars.
+  entry_id: 93x0yr
+  entry_content: |
+    <iframe src=https://v.redd.it/rnuy1usaomd11/DASH_600_K frameborder=0></iframe>
+- entry_name: |
+    My bank's robot assistant got me today.
+  entry_id: 93rrgi
+  entry_content: |
+    <img src=https://i.redditmedia.com/kMX5YjC_y9Ye34AHXu0XRwuG6Ui-g1lLp3k0iuQdmKc.jpg?s=45478dbd516c4aad01509e9405cb32e6 frameborder=0>
+- entry_name: |
+    SpongeBob was a musical genius
+  entry_id: 93rnmx
+  entry_content: |
+    <img src=https://i.redditmedia.com/sYjEk7EndHWvppyuk45FCls7zMZdEIVtL1adOAgxWd0.jpg?s=dda4e8c27f5fa713733f0339d701791d frameborder=0>
+- entry_name: |
+    Keeping Up With The Kardashians may make viewers cold-hearted towards poor, study suggests
+  entry_id: 93vmm4
+  entry_content: |
+    <img src=https://i.redditmedia.com/1AKDrWHapuAY85NDDDY5fwxgUAO82SHkGFiFOj4cneA.jpg?s=1c7735b9d3450dca456c1a569be3cb75 frameborder=0>
+- entry_name: |
+    TIL of the most rural post office in the US; the Supai Post Office is at the bottom of the Grand Canyon and is serviced by a mule train that takes 2.5 hours to reach it. It services the Havasupai reservation and demonstrates the obligation of the US Postal System to service every community.
+  entry_id: 93tu0c
+  entry_content: |
+    <img src=https://i.redditmedia.com/-dgVizX8OAT6FJAwPBg5UvsBIatkS-0srcFv_VnUCuk.jpg?s=6985e3bf371a22dd6ba7f7568d52c874 frameborder=0>
+- entry_name: |
+    The American Dream
+  entry_id: 93w3vt
+  entry_content: |
+    <img src=https://i.redditmedia.com/aVN1LkyqryGdaiJrBwkjstFSCqlf6TXF6fZf79bZHzM.jpg?s=de25caa752e164713caf27adf0293234 frameborder=0>
+- entry_name: |
+    Sibling goals
+  entry_id: 93rf3a
+  entry_content: |
+    <img src=https://i.redditmedia.com/QNlPfDcB6LuAKHNspNIPbrif3NxZCwpqe1AEYrJMtWI.png?s=814850c8ce265358e49931782d33d684 frameborder=0>
+- entry_name: |
+    Lemme just...
+  entry_id: 93rfwu
+  entry_content: |
+    <iframe src=https://v.redd.it/n52tpjltvid11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Room with a sea view.
+  entry_id: 93vdfm
+  entry_content: |
+    <iframe src=https://v.redd.it/wdxyjf6zbld11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    Someone hid a bunch of little plastic dinosaurs amongst the trees on a hiking trail!
+  entry_id: 93w05c
+  entry_content: |
+    <img src=https://i.redditmedia.com/7hKJFduUqcPym9RuaiRE20rTeduIsw5mAN4tk_roBrI.jpg?s=6e515efc8fea655abaf2ab995353dbe7 frameborder=0>
+- entry_name: |
+    Tom Hardy as Al Capone in Josh Trank's 'Fonzo. Coming 2019
+  entry_id: 93rjty
+  entry_content: |
+    <img src=https://i.redditmedia.com/8u-xlEVOYVql0ODKMpKDp7OAVwJowNKgfOpDPYb9u2s.jpg?s=14f731e1b7d680106c50567c26400d33 frameborder=0>
+- entry_name: |
+    So my supervisor left me in charge for the day and I came up with the idea of remaking the office intro with my coworkers. Hope y’all like it!
+  entry_id: 93vl2x
+  entry_content: |
+    <iframe src=https://v.redd.it/zsok7wq7hld11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
+    No clicking on blurry images of cars, streetsigns or storefronts.
+  entry_id: 93rcw1
+  entry_content: |
+    <img src=https://i.redditmedia.com/fYtRpgkAD3L9txKpgaNC9oXeDazRE0_Ffw7yFXXAK6s.jpg?s=251510b48136d0dbe09412909f2dc64c frameborder=0>
+- entry_name: |
+    No Days Off
+  entry_id: 93tjo2
+  entry_content: |
+    <img src=https://i.redditmedia.com/iciKS80hhyiDUZLbhVAJaAdS9gWYbq46E6doFLzUiSo.jpg?s=f752725f7407aa70988ddb8d8e47d3d7 frameborder=0>
+- entry_name: |
+    Oh Giuliani.
+  entry_id: 93sd31
+  entry_content: |
+    <img src=https://i.redditmedia.com/4IH8DGH4CC6-9f2bIi1lL7I_7mJGlF9EbmcoWbzGRd4.jpg?s=5af84babc48cd44ac5bcfab572efacc4 frameborder=0>
+- entry_name: |
+    My mom said she gave this up when she had me. I'm pretty sure she stopped when I was old enough to want some. (1970's)
+  entry_id: 93rftv
+  entry_content: |
+    <img src=https://i.redditmedia.com/UP4yQjY8ZgrOGAPt2PperaFCnj1c7CkLrVwVYW5HX1g.jpg?s=eb450d521ee780265bbc4775b35b6d42 frameborder=0>
+- entry_name: |
+    Boy with Autism who has a tough time in public places went to Grocery Store with his Dad and said he wanted to stock the shelves. Store Clerk overheard and let the boy stock with him for over 30 minutes.
+  entry_id: 93yvnb
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FHorribleSaneAegeancat&url=https%3A%2F%2Fgfycat.com%2FHorribleSaneAegeancat&image=https%3A%2F%2Fthumbs.gfycat.com%2FHorribleSaneAegeancat-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=256 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    This gnome salt shaker looks ok from the front...
+  entry_id: 93u2i9
+  entry_content: |
+    <img src=https://i.redditmedia.com/Fe7bHjfCbiQODnb_BhZBtc3rjuN2XCrIhfcXSx7IaO0.png?s=ef4e04420f1044a814f6fa8719923569 frameborder=0>
+- entry_name: |
+    The perfect score at this game.
+  entry_id: 93xf0o
+  entry_content: |
+    <iframe src=https://v.redd.it/7okkbrmi1nd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Just kiddin' lol
+  entry_id: 93rosv
+  entry_content: |
+    <iframe src=https://v.redd.it/aeln1a5q0jd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Forged Steel Rose
+  entry_id: 93y0e3
+  entry_content: |
+    <img src=https://i.redditmedia.com/rLmm3EqZCWviZyRdGizZ5jwjyHAYPmvwL_eNINXu-ZA.jpg?s=d7db914e7e6e82927fb85bab178d13b7 frameborder=0>
+---
