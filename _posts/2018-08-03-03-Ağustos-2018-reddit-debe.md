@@ -132,11 +132,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/QVX3MdXDjCbKNxmAjQUdkwmiELRclesPve1kZXydpP8.jpg?s=230e609b43e6b5224d867484a71b0a19 frameborder=0>
 - entry_name: |
-    Explored an ice cave last week.
-  entry_id: 93s9hr
-  entry_content: |
-    <img src=https://i.redditmedia.com/P-X-EFXeziLlJvb49iAIf7UK4dZbljZ_uW_Xt5PzzfQ.jpg?s=5f11789432f7b9bb5d7cfd2ef3ff75b3 frameborder=0>
-- entry_name: |
     The American Dream
   entry_id: 93w3vt
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 93ynqi
   entry_content: |
     <img src=https://i.redditmedia.com/_JIwYM0dj8AHs3r5ufnOucPAofe1_G0z_EKacqB5ark.jpg?s=5ac19f85652241d1e3ebcb9ba9357a84 frameborder=0>
+- entry_name: |
+    It be like that sometimes
+  entry_id: 93vgy8
+  entry_content: |
+    <img src=https://i.redditmedia.com/l-cB0g4KFbeebWiUz2fHPQA-nBBTnsE4Eh-39Nzma3Q.jpg?s=d3169a984d3c5067d218f6ec838a07a3 frameborder=0>
 ---
