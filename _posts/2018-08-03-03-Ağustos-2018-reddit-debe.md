@@ -132,11 +132,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FSparklingUnselfishAtlanticbluetang&url=https%3A%2F%2Fgfycat.com%2FSparklingUnselfishAtlanticbluetang&image=https%3A%2F%2Fthumbs.gfycat.com%2FSparklingUnselfishAtlanticbluetang-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=296 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Special counsel Mueller wants to ask Trump about obstruction of justice
-  entry_id: 93ssv1
-  entry_content: |
-    <img src=https://i.redditmedia.com/rlA4TY4i_FX9aW8wvkN6T3L3Hv_raE6sr6HS69rex08.jpg?s=7b946ec4ca3a538e7db99bcad981c14d frameborder=0>
-- entry_name: |
     Keeping Up With The Kardashians may make viewers cold-hearted towards poor, study suggests
   entry_id: 93vmm4
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 93yvx0
   entry_content: |
     <img src=https://i.redditmedia.com/daN4cSUeL5b5gOWDtPSLQk7hxyEp27z7xeDY4Gm_S4Q.png?s=9b4f517891993aebde58ba590126cfec frameborder=0>
+- entry_name: |
+    'Putin's private army': Murdered journalists were investigating 'mercenaries'
+  entry_id: 93yibg
+  entry_content: |
+    <img src=https://i.redditmedia.com/_4_jfpKTnV78UsrqEEig1pvDouITAc7FoFedLz7mO28.jpg?s=0e2a01b11a6032e611dae2a87b779610 frameborder=0>
 ---
