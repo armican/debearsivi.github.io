@@ -147,20 +147,10 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/P-X-EFXeziLlJvb49iAIf7UK4dZbljZ_uW_Xt5PzzfQ.jpg?s=5f11789432f7b9bb5d7cfd2ef3ff75b3 frameborder=0>
 - entry_name: |
-    The perfect score at this game.
-  entry_id: 93xf0o
-  entry_content: |
-    <iframe src=https://v.redd.it/7okkbrmi1nd11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     The American Dream
   entry_id: 93w3vt
   entry_content: |
     <img src=https://i.redditmedia.com/aVN1LkyqryGdaiJrBwkjstFSCqlf6TXF6fZf79bZHzM.jpg?s=de25caa752e164713caf27adf0293234 frameborder=0>
-- entry_name: |
-    My bank's robot assistant got me today.
-  entry_id: 93rrgi
-  entry_content: |
-    <img src=https://i.redditmedia.com/kMX5YjC_y9Ye34AHXu0XRwuG6Ui-g1lLp3k0iuQdmKc.jpg?s=45478dbd516c4aad01509e9405cb32e6 frameborder=0>
 - entry_name: |
     Room with a sea view.
   entry_id: 93vdfm
@@ -251,4 +241,14 @@ data:
   entry_id: 93vn4q
   entry_content: |
     <img src=https://i.redditmedia.com/RSk4oV9oJVgQBbtMYWz5OC-79_S3Ps3B1dcFi8Kt12g.jpg?s=369a5292f246b44ad3292eb6648fe8dc frameborder=0>
+- entry_name: |
+    I'm 31 years old. I just received this from my kindergarten teacher after having my first child three weeks ago. Right. In. The. Feels. She also hand knit a quilt that went with this. I'm not crying, you're crying!
+  entry_id: 93ty23
+  entry_content: |
+    <img src=https://i.redditmedia.com/1GUJFsOlxOl1YgfDigjmh2ZxQm6qpbT0os0YTWEnWt4.jpg?s=bb0731208d76ab6bcfa34703e82ff34c frameborder=0>
+- entry_name: |
+    It be like that sometimes
+  entry_id: 93vgy8
+  entry_content: |
+    <img src=https://i.redditmedia.com/l-cB0g4KFbeebWiUz2fHPQA-nBBTnsE4Eh-39Nzma3Q.jpg?s=d3169a984d3c5067d218f6ec838a07a3 frameborder=0>
 ---
