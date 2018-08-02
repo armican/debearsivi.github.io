@@ -192,11 +192,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Fe7bHjfCbiQODnb_BhZBtc3rjuN2XCrIhfcXSx7IaO0.png?s=ef4e04420f1044a814f6fa8719923569 frameborder=0>
 - entry_name: |
-    Oh Giuliani.
-  entry_id: 93sd31
-  entry_content: |
-    <img src=https://i.redditmedia.com/4IH8DGH4CC6-9f2bIi1lL7I_7mJGlF9EbmcoWbzGRd4.jpg?s=5af84babc48cd44ac5bcfab572efacc4 frameborder=0>
-- entry_name: |
     Tokyo medical school altered test scores to keep women out
   entry_id: 93w5f0
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 93vgy8
   entry_content: |
     <img src=https://i.redditmedia.com/l-cB0g4KFbeebWiUz2fHPQA-nBBTnsE4Eh-39Nzma3Q.jpg?s=d3169a984d3c5067d218f6ec838a07a3 frameborder=0>
+- entry_name: |
+    He is going to be a handful it seems.
+  entry_id: 93u5lb
+  entry_content: |
+    <img src=https://i.redditmedia.com/_aEEKAG5cmOdC98gwkhdAG8tGNWsedbCgO2rJRW_Qe0.jpg?s=8b36ef780c07c66ca0def017bfe5a5d4 frameborder=0>
 ---
