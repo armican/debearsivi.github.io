@@ -228,11 +228,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/npPDHIpPK2sb_55WDH9A8k-pGrOxng12TqBMHyxCgrM.jpg?s=b819c94c4074785c47875f6049450c38 frameborder=0>
 - entry_name: |
-    House fire snuffed out in an instant
-  entry_id: 9430fw
-  entry_content: |
-    <iframe src=https://v.redd.it/ekzho6e2rqd11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     They're trying to attract a new audience with the redesign, but they're gonna have to deal with the Reddit Townies
   entry_id: 9488ky
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 945hr9
   entry_content: |
     <img src=https://i.redditmedia.com/BM3rCcfjx1qqtja71kOMWBiiupn_qbvpfADb-8TgBJ0.jpg?s=306409b5db204dfa5a11b1bbf6577654 frameborder=0>
+- entry_name: |
+    Ever seen a 100lb Great Pyrenees force herself through a 7 wide doggy door? No? You're welcome.
+  entry_id: 9452m0
+  entry_content: |
+    <iframe src=https://v.redd.it/bvlntok31sd11/DASH_4_8_M frameborder=0></iframe>
 ---
