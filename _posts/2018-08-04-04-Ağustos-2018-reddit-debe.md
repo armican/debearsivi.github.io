@@ -148,11 +148,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FConcernedFancyKingsnake&url=https%3A%2F%2Fgfycat.com%2FConcernedFancyKingsnake&image=https%3A%2F%2Fthumbs.gfycat.com%2FConcernedFancyKingsnake-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=679 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    The change in his voice says it all.
-  entry_id: 941g69
-  entry_content: |
-    <iframe src=https://v.redd.it/ox95kdxnvpd11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     2 Types of stoners
   entry_id: 9491k3
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 9448qn
   entry_content: |
     <iframe src=https://v.redd.it/l8zokxtehrd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    A squirrel has been hoarding acorns inside this antenna
+  entry_id: 9498mc
+  entry_content: |
+    <iframe src=https://v.redd.it/nhc0vd6divd11/DASH_4_8_M frameborder=0></iframe>
 ---
