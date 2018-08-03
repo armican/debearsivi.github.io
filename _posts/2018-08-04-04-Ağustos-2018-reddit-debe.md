@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/48dqeql0mrd11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Bring that hand back human....immediately!
-  entry_id: 941krc
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnluckyImmaterialCockatoo&url=https%3A%2F%2Fgfycat.com%2FUnluckyImmaterialCockatoo&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnluckyImmaterialCockatoo-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     totally normal
   entry_id: 941xkp
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 9498mc
   entry_content: |
     <iframe src=https://v.redd.it/nhc0vd6divd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Daily White House protests against Trump enter third week
+  entry_id: 945hr9
+  entry_content: |
+    <img src=https://i.redditmedia.com/BM3rCcfjx1qqtja71kOMWBiiupn_qbvpfADb-8TgBJ0.jpg?s=306409b5db204dfa5a11b1bbf6577654 frameborder=0>
 ---
