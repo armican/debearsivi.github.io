@@ -103,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Ii5adC-JgtBQue-5QASrqaWuMIT-G8zAZWX1sLliLx8.jpg?s=12f0f32858b36ac9ddaae176ab7dc55e frameborder=0>
 - entry_name: |
-    This is America
-  entry_id: 942kik
-  entry_content: |
-    <img src=https://i.redditmedia.com/FR-q3EqsSXZWUS0XnBixC_v04ywmU4HU4XgwViAgf8Q.jpg?s=a2b92086d5640f5ce64a0e6fce0127af frameborder=0>
-- entry_name: |
     “Screw this goose in particular”
   entry_id: 9442z4
   entry_content: |
@@ -193,11 +188,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/2jwg3eg2bsd11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Always love dealing with people on Craigslist.
-  entry_id: 942oaq
-  entry_content: |
-    <img src=https://i.redditmedia.com/uBCC3Blo0GYJIFGalUbOz6XVpjEG2YxJmQ3I6Y2T5G8.jpg?s=6acaa5f69297bcfe6eab073538fe2b6f frameborder=0>
-- entry_name: |
     First trillion dollar company
   entry_id: 946gxa
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 945hr9
   entry_content: |
     <img src=https://i.redditmedia.com/BM3rCcfjx1qqtja71kOMWBiiupn_qbvpfADb-8TgBJ0.jpg?s=306409b5db204dfa5a11b1bbf6577654 frameborder=0>
+- entry_name: |
+    Ever seen a 100lb Great Pyrenees force herself through a 7 wide doggy door? No? You're welcome.
+  entry_id: 9452m0
+  entry_content: |
+    <iframe src=https://v.redd.it/bvlntok31sd11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    Doggo knows what's about to happen
+  entry_id: 949kn4
+  entry_content: |
+    <img src=https://i.redditmedia.com/HWNWf3ENSMrNkC2sDVor9ndms3eRdzIAN_kHlMcnLfU.jpg?s=855a45d514d2170c788942ad19efaceb frameborder=0>
 ---
