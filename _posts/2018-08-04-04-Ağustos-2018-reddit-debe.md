@@ -28,11 +28,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/48dqeql0mrd11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    totally normal
-  entry_id: 941xkp
-  entry_content: |
-    <iframe src=https://v.redd.it/1vi2a7175qd11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
     One of the members of a Kpop group was raised in Canada. She's frequently asked to speak English... she often has to affect a Korean accent in order to be understood.
   entry_id: 943zgh
   entry_content: |
@@ -252,4 +247,9 @@ data:
   entry_id: 94605q
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCheerfulDapperFlickertailsquirrel&url=https%3A%2F%2Fgfycat.com%2FCheerfulDapperFlickertailsquirrel&image=https%3A%2F%2Fthumbs.gfycat.com%2FCheerfulDapperFlickertailsquirrel-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    House fire snuffed out in an instant
+  entry_id: 9430fw
+  entry_content: |
+    <iframe src=https://v.redd.it/ekzho6e2rqd11/DASH_1_2_M frameborder=0></iframe>
 ---
