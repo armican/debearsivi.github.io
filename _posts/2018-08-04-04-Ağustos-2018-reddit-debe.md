@@ -68,11 +68,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FInsecureSourAmericanwigeon&url=https%3A%2F%2Fgfycat.com%2FInsecureSourAmericanwigeon&image=https%3A%2F%2Fthumbs.gfycat.com%2FInsecureSourAmericanwigeon-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=480 height=852 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    TIL the British are often referred to as “Limey” because of their army’s use of lime to prevent scurvy when at sea. The use of citrus was initially a closely guarded military secret as it gave them the ability to remain at sea for lengthy periods without contracting the disorder.
-  entry_id: 942ezq
-  entry_content: |
-    <img src=https://i.redditmedia.com/_XBRpTgts9MdgLv2QmrBYhuiwvzsNF7PygYp7aKgSWk.jpg?s=25d175d4d37e48b971a9e659377a9a9a frameborder=0>
-- entry_name: |
     When your Photoshop subscription runs out, but you still want to make memes
   entry_id: 942qwr
   entry_content: |
@@ -163,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/O3Xki3IGls5fVMgBuG7-xmLss_7Qn9mvazvGKUmbmgg.jpg?s=df4d6a1d7d04050d04f83fee4fbc693c frameborder=0>
 - entry_name: |
-    When you see a repost but it's socks
-  entry_id: 942eq6
-  entry_content: |
-    <img src=https://i.redditmedia.com/V78_OxLLiS7wWIh7D5cacPq_JAock0A2Ht2go4fJZ3U.jpg?s=fafd87fc59c498c4bede41290c699c90 frameborder=0>
-- entry_name: |
     There's so much going on here I don't even know where to begin
   entry_id: 949k1k
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 948bpk
   entry_content: |
     <img src=https://i.redditmedia.com/SaSJVFfu0WsJPfEJlxTSySM14UDVVPqtKgM7W_NSMw8.jpg?s=8ae31ccceb891bb872b734316dc7e7c0 frameborder=0>
+- entry_name: |
+    Komodo Dragon swallowing a Monkey
+  entry_id: 9448qn
+  entry_content: |
+    <iframe src=https://v.redd.it/l8zokxtehrd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    Daily White House protests against Trump enter third week
+  entry_id: 945hr9
+  entry_content: |
+    <img src=https://i.redditmedia.com/BM3rCcfjx1qqtja71kOMWBiiupn_qbvpfADb-8TgBJ0.jpg?s=306409b5db204dfa5a11b1bbf6577654 frameborder=0>
 ---
