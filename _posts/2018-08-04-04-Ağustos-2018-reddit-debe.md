@@ -198,16 +198,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/R4qBwyt_4Ye7jBzIQmbtUyTtsUGvNT__tiQsefFKm5M.jpg?s=d12c690195d84c0ec6c89fe78994d2f4 frameborder=0>
 - entry_name: |
-    If I fits I sits.
-  entry_id: 9422fh
-  entry_content: |
-    <iframe src=https://v.redd.it/8suctsg18qd11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Just gonna keep to myself.
-  entry_id: 9423p6
-  entry_content: |
-    <img src=https://i.redditmedia.com/dJaT6-vYC4dXv33ccWG7plTurEkl2yakMhMofGd1rws.jpg?s=a5829f718a36237d7f2b0f5775c0448a frameborder=0>
-- entry_name: |
     Always love dealing with people on Craigslist.
   entry_id: 942oaq
   entry_content: |
@@ -252,4 +242,14 @@ data:
   entry_id: 9430fw
   entry_content: |
     <iframe src=https://v.redd.it/ekzho6e2rqd11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    There's so much going on here I don't even know where to begin
+  entry_id: 949k1k
+  entry_content: |
+    <iframe src=https://v.redd.it/1j6sbv2npvd11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    What's really happening on the old Call of Duty covers
+  entry_id: 947thg
+  entry_content: |
+    <img src=https://i.redditmedia.com/npPDHIpPK2sb_55WDH9A8k-pGrOxng12TqBMHyxCgrM.jpg?s=b819c94c4074785c47875f6049450c38 frameborder=0>
 ---
