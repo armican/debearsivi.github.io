@@ -158,11 +158,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/7x56dlL9H5hmUK9PvnC5MK6OLyv-HhGsLZCkaAcKcFs.jpg?s=62d7eebb1b8e9ef1fd7fe18d953406e8 frameborder=0>
 - entry_name: |
-    1985 - My grampa used to grow us giant pumpkins for Halloween and drive them 4hrs to where we lived, so we always had the most epic jack-o-lanterns
-  entry_id: 94cxgu
-  entry_content: |
-    <img src=https://i.redditmedia.com/aT_KObpqLtjFSL91x7rOci1VNi1h1oL7pAPp4RTMpuM.jpg?s=b2e70e623e84270175e4b6048d7a4ff0 frameborder=0>
-- entry_name: |
     Moon rising from the corner of Mt Hood,Oregon
   entry_id: 94gcff
   entry_content: |
@@ -172,11 +167,6 @@ data:
   entry_id: 94e3ml
   entry_content: |
     <iframe src=https://v.redd.it/o7npesilfyd11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    The waving kitty
-  entry_id: 94cxaj
-  entry_content: |
-    <iframe src=https://v.redd.it/8ttdilfopxd11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I made my pups a bed.
   entry_id: 94h688
@@ -251,4 +241,14 @@ data:
   entry_id: 94f47b
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWillingLateAddax&url=https%3A%2F%2Fgfycat.com%2FWillingLateAddax&image=https%3A%2F%2Fthumbs.gfycat.com%2FWillingLateAddax-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Too true
+  entry_id: 94f1rq
+  entry_content: |
+    <img src=https://i.redditmedia.com/wjnVvN4C1_vF1sSLwM57HCed-FQVKYN6COzeNxGm4vQ.jpg?s=58cc4c5dd44bea9eb1c2ed436df41477 frameborder=0>
+- entry_name: |
+    🔥 Badass osprey I saw today at the beach frying a baby shark for dinner on a power line 🔥
+  entry_id: 94f0at
+  entry_content: |
+    <img src=https://i.redditmedia.com/E5iwmIVviKo_YVeNgFNJUyNonmjr5O396ZMsW9nwOrY.jpg?s=7b88e50f1177fabcbe1bf86e12b3dfe2 frameborder=0>
 ---
