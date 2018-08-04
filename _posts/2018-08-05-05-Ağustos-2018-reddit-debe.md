@@ -213,11 +213,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/nLsqK-3rbG6Uo0t1WtzdXcDZxeia48XSuhhEr49P9kE.jpg?s=d40f4fe6004264e3975c8d237c748f09 frameborder=0>
 - entry_name: |
-    A cat who saved his owner's life by keeping her awake when she suffered a blood clot is given a posthumous award
-  entry_id: 94cnmb
-  entry_content: |
-    <img src=https://i.redditmedia.com/HLtcd2uTw-GUE-hWWKcIp6IWXR_eqF2RvWcur3ECx-0.jpg?s=96cd54f7aae200a77e2cf4b2223c710e frameborder=0>
-- entry_name: |
     Whoopsies
   entry_id: 94hlas
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 94da4s
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGorgeousWelldocumentedKomododragon&url=https%3A%2F%2Fgfycat.com%2FGorgeousWelldocumentedKomododragon&image=https%3A%2F%2Fthumbs.gfycat.com%2FGorgeousWelldocumentedKomododragon-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Wrapping a Hazelnut Nutcracker
+  entry_id: 94f47b
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWillingLateAddax&url=https%3A%2F%2Fgfycat.com%2FWillingLateAddax&image=https%3A%2F%2Fthumbs.gfycat.com%2FWillingLateAddax-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 ---
