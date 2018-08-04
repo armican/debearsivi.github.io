@@ -58,11 +58,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/3p3wlqwat1e11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Wholesomeness
-  entry_id: 94bmhv
-  entry_content: |
-    <iframe src=https://v.redd.it/4jsggvlwywd11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Forest
   entry_id: 94hv06
   entry_content: |
@@ -97,11 +92,6 @@ data:
   entry_id: 94dfj9
   entry_content: |
     <img src=https://i.redditmedia.com/Xp7ayZr90UqMMgaeY7sx3e8NzVBceCov9n48iK5KwUc.png?s=62be05b02c386f129de2d6360999f8d0 frameborder=0>
-- entry_name: |
-    BAMF
-  entry_id: 94bpz3
-  entry_content: |
-    <iframe src=https://v.redd.it/lwe8kv3u0xd11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     Most accurate Final Fantasy cosplay ever
   entry_id: 94hlwg
@@ -252,4 +242,14 @@ data:
   entry_id: 94ea6z
   entry_content: |
     <img src=https://i.redditmedia.com/tabQxXScIv7IbTc4Ka802ncmAFD7L5tASqpdOfnjaM8.jpg?s=a624207eb4809be81a413144b71f84e2 frameborder=0>
+- entry_name: |
+    What learning how to make high-quality gifs feels like
+  entry_id: 94da4s
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FGorgeousWelldocumentedKomododragon&url=https%3A%2F%2Fgfycat.com%2FGorgeousWelldocumentedKomododragon&image=https%3A%2F%2Fthumbs.gfycat.com%2FGorgeousWelldocumentedKomododragon-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    PsBattle: This wasp carrying a fly.
+  entry_id: 94cx6c
+  entry_content: |
+    <img src=https://i.redditmedia.com/-NQuLVqJ7mp4Yv8eQMWd-M7AHSJBa7veEle-azi6LOc.jpg?s=51ee58b448b2eceb3f76478eba3d15bf frameborder=0>
 ---
