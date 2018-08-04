@@ -103,11 +103,6 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/h8vg9pfv82e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Finally we can live in peace.
-  entry_id: 94bwnw
-  entry_content: |
-    <img src=https://i.redditmedia.com/Y3Aapbe9atc_AtqbH4ZVuvjxolT7KXOqZpmaJHRD9i0.jpg?s=224cd50cb3b26a39fd54608e47d5f88d frameborder=0>
-- entry_name: |
     Creative ideas for decorating with chocolate
   entry_id: 94d2s8
   entry_content: |
@@ -142,11 +137,6 @@ data:
   entry_id: 94ivyd
   entry_content: |
     <img src=https://i.redditmedia.com/OYz8bp8XFJyD--trIfvxTnWxGQIgQpAhGoOoq38DrrI.jpg?s=57f3aa21ccc6a0c073681595b3e10d30 frameborder=0>
-- entry_name: |
-    In honor of Christopher Robin's release, one of the memes that got it banned in China.
-  entry_id: 94bvok
-  entry_content: |
-    <img src=https://i.redditmedia.com/SV99IRWcWVztHMr3LwFRklbON6OUNz-Cpeugv0LXfLU.jpg?s=8bab1fc6b63f723573b79a094ac2201d frameborder=0>
 - entry_name: |
     Genius level over 9000
   entry_id: 94gol1
@@ -252,4 +242,14 @@ data:
   entry_id: 94cx6c
   entry_content: |
     <img src=https://i.redditmedia.com/-NQuLVqJ7mp4Yv8eQMWd-M7AHSJBa7veEle-azi6LOc.jpg?s=51ee58b448b2eceb3f76478eba3d15bf frameborder=0>
+- entry_name: |
+    Wrapping a Hazelnut Nutcracker
+  entry_id: 94f47b
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FWillingLateAddax&url=https%3A%2F%2Fgfycat.com%2FWillingLateAddax&image=https%3A%2F%2Fthumbs.gfycat.com%2FWillingLateAddax-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Too true
+  entry_id: 94f1rq
+  entry_content: |
+    <img src=https://i.redditmedia.com/wjnVvN4C1_vF1sSLwM57HCed-FQVKYN6COzeNxGm4vQ.jpg?s=58cc4c5dd44bea9eb1c2ed436df41477 frameborder=0>
 ---
