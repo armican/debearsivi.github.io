@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/r8dE5gyMZ6T4xQoN-E_HBhu7k3wJ6ATroEPXwiCTlqA.jpg?s=067c9d4ee8d9e1eb1f27ea2f2efabaf2 frameborder=0>
 - entry_name: |
-    The paint on this building is the same shade as the sky.
-  entry_id: 94m92s
-  entry_content: |
-    <img src=https://i.redditmedia.com/Hiheo78j25Iq2zOdUU89Gpy8mPZGAltPZTGPl8o7qqk.jpg?s=810ab07f66586435966c4b40570cba03 frameborder=0>
-- entry_name: |
     Friends for over 10 years!
   entry_id: 94rblx
   entry_content: |
@@ -77,16 +72,6 @@ data:
   entry_id: 94qhd4
   entry_content: |
     <img src=https://i.redditmedia.com/cnJZhYQOmiWQpTSOZozM85QZAb5sUmC_i65lpYrqU1w.jpg?s=9919401216a02ddfcdf605281c4816a3 frameborder=0>
-- entry_name: |
-    Taking macro videos with a probe lens.
-  entry_id: 94mb7m
-  entry_content: |
-    <iframe src=https://v.redd.it/aqk7zkch25e11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
-    Seriously
-  entry_id: 94m6zk
-  entry_content: |
-    <img src=https://i.redditmedia.com/Uy9xech89Re-O-hg-naRxyNgIhMApeO077F2vPxVkdk.jpg?s=3cfd09d3962c4e4f43451ca2136b8d7b frameborder=0>
 - entry_name: |
     That climax
   entry_id: 94mv8i
@@ -250,4 +235,19 @@ data:
   entry_id: 94no3w
   entry_content: |
     <img src=https://i.redditmedia.com/CqL58kiopp-BU67iW8OGjtqYSoAsWFAIE87gHvWT2Vg.gif?fm=jpg&s=b15ab430ca011aac32826f5228747285 frameborder=0>
+- entry_name: |
+    What is my purpose?
+  entry_id: 94ncbb
+  entry_content: |
+    <iframe src=https://v.redd.it/l2zt2klps5e11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    My son struggles so much with his Autism, everything is a mountain. Mowing our lawn gives him confidence and self worth. His smile is this huge until he finishes.
+  entry_id: 94os3l
+  entry_content: |
+    <img src=https://i.redditmedia.com/1fJXdYVlXIorajr20LdFxztJVYQ0X8B5RM5FG_fuLQ8.jpg?s=0f4a32ae4f41888006e83bcde6204d04 frameborder=0>
+- entry_name: |
+    SLPT: How to learn things faster
+  entry_id: 94q6w7
+  entry_content: |
+    <img src=https://i.redditmedia.com/EIn0VwYQ5hRvB7YgRCXcR16o6HorXO3KJwLA8XO4-Po.jpg?s=91b95f5bec538dbf119dcc020f16d6b2 frameborder=0>
 ---
