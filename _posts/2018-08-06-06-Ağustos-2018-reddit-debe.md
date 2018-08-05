@@ -78,11 +78,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/cnJZhYQOmiWQpTSOZozM85QZAb5sUmC_i65lpYrqU1w.jpg?s=9919401216a02ddfcdf605281c4816a3 frameborder=0>
 - entry_name: |
-    This design upsets me on a daily basis...
-  entry_id: 94lrsa
-  entry_content: |
-    <img src=https://i.redditmedia.com/VzloCJLc2a5zB_QC40qlOQxdFEvNqxQP6lVWt3DY3fA.jpg?s=d031026b87bdf742e81078151aba47ff frameborder=0>
-- entry_name: |
     Taking macro videos with a probe lens.
   entry_id: 94mb7m
   entry_content: |
@@ -250,4 +245,9 @@ data:
   entry_id: 94s3e7
   entry_content: |
     <img src=https://i.redditmedia.com/wNRhIfKZUJtwdbE5a6bgwD9TWhnzbutNhKX3-KRrjV0.jpg?s=4f1985e0e22ec5ce3b7aea80199b48ab frameborder=0>
+- entry_name: |
+    Trump's Supreme Court nominee argued presidents should be shielded from all criminal probes — even questioning
+  entry_id: 94rfmh
+  entry_content: |
+    <img src=https://i.redditmedia.com/UI4_JPfqPmmXsHGmqiXc_E7xipXf-8gItghARL_pW1c.jpg?s=5b31793e90ff3b8a68cc396b0346fb71 frameborder=0>
 ---
