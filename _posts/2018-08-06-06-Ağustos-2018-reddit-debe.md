@@ -3,11 +3,6 @@ layout: post
 title: 06 Ağustos 2018 Reddit Debe
 data:
 - entry_name: |
-    Females in Dhaka are guarded by teenage students after 4 girls got raped today by the thugs of the Bangladeshi government for protesting against dangerous roads.
-  entry_id: 94lbfu
-  entry_content: |
-    <img src=https://i.redditmedia.com/vJxKEsDhPMLMK3UwcEplDdm3K8huxXUV-sDT54drvU8.jpg?s=524940bd63bb961fc55c1ddfe7bdbb4e frameborder=0>
-- entry_name: |
     Walked into the shelter and asked which cat had been there the longest... came home with a deaf, toothless senior lovebug. Reddit, meet Cali!
   entry_id: 94o7oy
   entry_content: |
@@ -77,11 +72,6 @@ data:
   entry_id: 94rblx
   entry_content: |
     <img src=https://i.redditmedia.com/wCRtdMjJR7aTQQMDuMX4hZ75BbBTRLi13iJo7wv7uLc.jpg?s=30ac657a3b2c29ee3ff69262f5f19bf6 frameborder=0>
-- entry_name: |
-    TIL that US law requires that eggs sold in supermarkets must be washed. And EU law requires that eggs sold in supermarkets must NOT be washed. Both do it to prevent salmonella.
-  entry_id: 94lesr
-  entry_content: |
-    <img src=https://i.redditmedia.com/ptlzHIwBI5lM0_9vj2LrUc0ue2m-bOYRNOAa3njZBe0.jpg?s=cb111410d84a54f837cddab321a91ff2 frameborder=0>
 - entry_name: |
     This design upsets me on a daily basis...
   entry_id: 94lrsa
@@ -250,4 +240,14 @@ data:
   entry_id: 94rl8y
   entry_content: |
     <img src=https://i.redditmedia.com/lFm9wWMGDBUubg907bD9MEnVDaGRldAfuhLFGnW0eKI.jpg?s=ff1ffd6290aa0b1409a9671f3ee5dc1d frameborder=0>
+- entry_name: |
+    Chinese crime writer who used his own murders for book plots sentenced to death
+  entry_id: 94lma7
+  entry_content: |
+    <img src=https://i.redditmedia.com/L-mEX7sntBvxhvGRMac6EZAA_vlkW1K4ONhiXRlLnSU.jpg?s=fb48ac1085c52f9d14d44e851c389276 frameborder=0>
+- entry_name: |
+    Humans are giving many other species cancer: Meta-analysis finds enough to classify Homo sapiens as an “oncogenic species”
+  entry_id: 94qlf3
+  entry_content: |
+    <img src=https://i.redditmedia.com/MZD9u7NRjlbYB0lMdmAkVT6OxmnA1MaP5P_SGlnLJGk.jpg?s=98648a8644175b7cdb0612a3e6bdc4ff frameborder=0>
 ---
