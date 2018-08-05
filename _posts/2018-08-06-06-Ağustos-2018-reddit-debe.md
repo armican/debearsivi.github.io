@@ -48,6 +48,16 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Hiheo78j25Iq2zOdUU89Gpy8mPZGAltPZTGPl8o7qqk.jpg?s=810ab07f66586435966c4b40570cba03 frameborder=0>
 - entry_name: |
+    A reporter in Bangladesh gets beaten with metal rods in an attempt to destroy his camera. This picture was taken within the last hour.
+  entry_id: 94ra04
+  entry_content: |
+    <img src=https://i.redditmedia.com/dI19CoemuCYBsKKlZqovUK0PdMzFH2sjTugJOZ7F-Rw.jpg?s=0d0da89d5bdb1958670e9ccb3e4b30b9 frameborder=0>
+- entry_name: |
+    Bangladesh shuts down mobile internet to tackle teen protests
+  entry_id: 94qcl0
+  entry_content: |
+    <img src=https://i.redditmedia.com/r8dE5gyMZ6T4xQoN-E_HBhu7k3wJ6ATroEPXwiCTlqA.jpg?s=067c9d4ee8d9e1eb1f27ea2f2efabaf2 frameborder=0>
+- entry_name: |
     Discreet packaging my ass.
   entry_id: 94mbrt
   entry_content: |
@@ -57,11 +67,6 @@ data:
   entry_id: 94oiju
   entry_content: |
     <img src=https://i.redditmedia.com/zyBP2hpnwI9EC1boLx5yceCsljla6LhZWR9I65WJt00.jpg?s=a773416f4a935b5c0fc71624713b4e89 frameborder=0>
-- entry_name: |
-    Bangladesh shuts down mobile internet to tackle teen protests
-  entry_id: 94qcl0
-  entry_content: |
-    <img src=https://i.redditmedia.com/r8dE5gyMZ6T4xQoN-E_HBhu7k3wJ6ATroEPXwiCTlqA.jpg?s=067c9d4ee8d9e1eb1f27ea2f2efabaf2 frameborder=0>
 - entry_name: |
     The actual game we need remastered
   entry_id: 94om99
@@ -88,25 +93,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Uy9xech89Re-O-hg-naRxyNgIhMApeO077F2vPxVkdk.jpg?s=3cfd09d3962c4e4f43451ca2136b8d7b frameborder=0>
 - entry_name: |
-    A reporter in Bangladesh gets beaten with metal rods in an attempt to destroy his camera. This picture was taken within the last hour.
-  entry_id: 94ra04
-  entry_content: |
-    <img src=https://i.redditmedia.com/dI19CoemuCYBsKKlZqovUK0PdMzFH2sjTugJOZ7F-Rw.jpg?s=0d0da89d5bdb1958670e9ccb3e4b30b9 frameborder=0>
-- entry_name: |
     That climax
   entry_id: 94mv8i
   entry_content: |
     <iframe src=https://v.redd.it/lz9cpm82g5e11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
-    Got out at the right time
-  entry_id: 94m0ou
+    You can connect two ziplock bags by flipping one inside out to make a larger one
+  entry_id: 94qhd4
   entry_content: |
-    <img src=https://i.redditmedia.com/xh2HbjUeGudQldBAUTO6jMoeHyJcdamC_rwrHABbLjU.jpg?s=3c0185d90e67ccfaf76de646419ceaaa frameborder=0>
+    <img src=https://i.redditmedia.com/cnJZhYQOmiWQpTSOZozM85QZAb5sUmC_i65lpYrqU1w.jpg?s=9919401216a02ddfcdf605281c4816a3 frameborder=0>
 - entry_name: |
     the Dinosaur
   entry_id: 94oaer
   entry_content: |
     <img src=https://i.redditmedia.com/0hPLxqkoTybe6VIN9yslMA-YxJibazA6qyKi522qz-Y.png?s=1fa78794f68de3aa45e7a9323976eeb9 frameborder=0>
+- entry_name: |
+    Got out at the right time
+  entry_id: 94m0ou
+  entry_content: |
+    <img src=https://i.redditmedia.com/xh2HbjUeGudQldBAUTO6jMoeHyJcdamC_rwrHABbLjU.jpg?s=3c0185d90e67ccfaf76de646419ceaaa frameborder=0>
 - entry_name: |
     My day ones
   entry_id: 94oeuk
@@ -118,15 +123,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/bydQkAj7HthIc6usKN6ifHDDMgI1aqEQ5FBmylLXo0U.png?s=c2b0adc8a1a98ecfb64f91cacf630a22 frameborder=0>
 - entry_name: |
-    You can connect two ziplock bags by flipping one inside out to make a larger one
-  entry_id: 94qhd4
-  entry_content: |
-    <img src=https://i.redditmedia.com/cnJZhYQOmiWQpTSOZozM85QZAb5sUmC_i65lpYrqU1w.jpg?s=9919401216a02ddfcdf605281c4816a3 frameborder=0>
-- entry_name: |
     Mods are asleep, upvote this cozy doggo
   entry_id: 94n5bn
   entry_content: |
     <img src=https://i.redditmedia.com/ll_-2efL9akUrfGcYr8Q2GcML0Vt58zYs8HjsbJjfT8.jpg?s=023f24f82b474816e8fb9cfd4c4b1f57 frameborder=0>
+- entry_name: |
+    If you argue that there are two sides to every argument, you’re accepting that there might not be.
+  entry_id: 94pz6j
+  entry_content: |
+    null
+- entry_name: |
+    Friends for over 10 years!
+  entry_id: 94rblx
+  entry_content: |
+    <img src=https://i.redditmedia.com/wCRtdMjJR7aTQQMDuMX4hZ75BbBTRLi13iJo7wv7uLc.jpg?s=30ac657a3b2c29ee3ff69262f5f19bf6 frameborder=0>
 - entry_name: |
     The sheep and the wolf
   entry_id: 94nfdu
@@ -143,25 +153,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/_gDoR_RPMiqn8rbEYQp1fF0ST6brm9TK2UekEygkqGc.jpg?s=b2eaded8d3945a98513aa537578ee20a frameborder=0>
 - entry_name: |
-    If you argue that there are two sides to every argument, you’re accepting that there might not be.
-  entry_id: 94pz6j
-  entry_content: |
-    null
-- entry_name: |
     You can't handle my moves!
   entry_id: 94l8oy
   entry_content: |
     <iframe src=https://v.redd.it/l6hilsrpc4e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    Flooded nature trail in Brazil
-  entry_id: 94lnp1
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBrilliantHiddenAchillestang&url=https%3A%2F%2Fgfycat.com%2Fbrillianthiddenachillestang&image=https%3A%2F%2Fthumbs.gfycat.com%2FBrilliantHiddenAchillestang-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
-- entry_name: |
     I found a dog log
   entry_id: 94p31c
   entry_content: |
     <img src=https://i.redditmedia.com/5OVNK-8T5IF0U_E5AIIK1pm4K-emrTc03gM7iKLxxQU.jpg?s=582249007a60fbd2d588baa51035e583 frameborder=0>
+- entry_name: |
+    Flooded nature trail in Brazil
+  entry_id: 94lnp1
+  entry_content: |
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBrilliantHiddenAchillestang&url=https%3A%2F%2Fgfycat.com%2Fbrillianthiddenachillestang&image=https%3A%2F%2Fthumbs.gfycat.com%2FBrilliantHiddenAchillestang-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     Y’all tripping
   entry_id: 94ktxq
@@ -173,25 +178,25 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fqu2g0rin6e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+    When Now York guys hear the violin
+  entry_id: 94rpvm
+  entry_content: |
+    <iframe src=https://v.redd.it/thk38zpqw9e11/DASH_9_6_M frameborder=0></iframe>
+- entry_name: |
     🔥 Wryneck moving its head like a snake to ward off predators
   entry_id: 94nfpm
   entry_content: |
     <iframe src=https://v.redd.it/yjzp61qav5e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    He dead. Nvm
-  entry_id: 94komp
+    TIL that James Michael Tyler got the role of Gunther the barista in Friends because he was the only extra who knew how to use an espresso machine. He would go on to appear in 185 of the show's 236 episodes over 10 seasons, and he still receives residuals for his work.
+  entry_id: 94s6au
   entry_content: |
-    <iframe src=https://v.redd.it/p8vdi3upz3e11/DASH_2_4_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/uL3gQL7aoo1nqxmzbK8I1znvaVJpjZOHOqgXnpG1ALY.jpg?s=2b1555176561dc54a4eb09216140e8eb frameborder=0>
 - entry_name: |
     Whack-A-Human
   entry_id: 94q1pe
   entry_content: |
     <iframe src=https://v.redd.it/y6f47vhm28e11/DASH_9_6_M frameborder=0></iframe>
-- entry_name: |
-    Kitty VS smelly feet
-  entry_id: 94ksmj
-  entry_content: |
-    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FUnlawfulGratefulAsianlion&url=https%3A%2F%2Fgfycat.com%2FUnlawfulGratefulAsianlion&image=https%3A%2F%2Fthumbs.gfycat.com%2FUnlawfulGratefulAsianlion-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
     Congratulations, you played yourself
   entry_id: 94mnsb
@@ -237,18 +242,13 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/zn3tbqi4g4e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Friends for over 10 years!
-  entry_id: 94rblx
-  entry_content: |
-    <img src=https://i.redditmedia.com/wCRtdMjJR7aTQQMDuMX4hZ75BbBTRLi13iJo7wv7uLc.jpg?s=30ac657a3b2c29ee3ff69262f5f19bf6 frameborder=0>
-- entry_name: |
     I edited Thor's entrance with the Immigrant Song. Tried my best so the Avenger's theme doesn't overlap, and for the music to be in sync with the action.
   entry_id: 94nbdn
   entry_content: |
     <iframe src=https://v.redd.it/r65uwms9p5e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    'Black Panther' Crosses $700M in U.S. Almost Six Months After Release, Becoming Only the Third Film in History to Achieve the Milestone
-  entry_id: 94l5ne
+    Let me love you
+  entry_id: 94m0oz
   entry_content: |
-    <img src=https://i.redditmedia.com/clF_7SRsuayEn8E9UCfqoU50jf95sr2cz4EtKEDEBRc.jpg?s=380ba76bad82d27e00c3ba0e738f5e8b frameborder=0>
+    <iframe src=https://v.redd.it/wrb051j9h3e11/DASH_4_8_M frameborder=0></iframe>
 ---
