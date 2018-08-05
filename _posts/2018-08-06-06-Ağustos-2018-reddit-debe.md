@@ -13,25 +13,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/xDKwzSCuc6OWdjv2UWSQs5N_KbEzsVQSskSxcDdVMZs.jpg?s=3d77c35a6123ff128772c8f9527d856e frameborder=0>
 - entry_name: |
-    My Grandparents: Hardcore Pokemon Go players. Hearing them talking about their adventures is the highlight of going to see them. Both level 37 and going strong
-  entry_id: 94l8rq
-  entry_content: |
-    <img src=https://i.redditmedia.com/NNthAa_LptGvqZNVlmF84_LjI0gX6OSw8rNT_jGIN9M.jpg?s=c5b6cfc29619092ceee6bbbbff59913a frameborder=0>
-- entry_name: |
     It would be a shame if the newly obtained photo of Donald Trump Jr. with a Russian spy became his top search result.
   entry_id: 94mjwd
   entry_content: |
     <img src=https://i.redditmedia.com/m_YCdVBFZmW5GxlTyuthPMnoDPyi_r9B9AcaGWQMkhw.jpg?s=78c5e3cdad8d50a117f0c1fd42cd1ec7 frameborder=0>
+- entry_name: |
+    Kevin Smith recreated his famous “Jorts picture” to show off his dramatic weight loss after his heart attack.
+  entry_id: 94oo01
+  entry_content: |
+    <img src=https://i.redditmedia.com/pZyw1TfaqV1fli30VzwS1bVQXnjNXV-PZUfJzVDITZc.jpg?s=1898a04c99926510367a08e8edec764f frameborder=0>
 - entry_name: |
     24 miles per hour on a treadmill!
   entry_id: 94m2w7
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FQueasyOptimalCamel&url=https%3A%2F%2Fgfycat.com%2FQueasyOptimalCamel&image=https%3A%2F%2Fthumbs.gfycat.com%2FQueasyOptimalCamel-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=600 height=592 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Kevin Smith recreated his famous “Jorts picture” to show off his dramatic weight loss after his heart attack.
-  entry_id: 94oo01
+    A reporter in Bangladesh gets beaten with metal rods in an attempt to destroy his camera. This picture was taken within the last hour.
+  entry_id: 94ra04
   entry_content: |
-    <img src=https://i.redditmedia.com/pZyw1TfaqV1fli30VzwS1bVQXnjNXV-PZUfJzVDITZc.jpg?s=1898a04c99926510367a08e8edec764f frameborder=0>
+    <img src=https://i.redditmedia.com/dI19CoemuCYBsKKlZqovUK0PdMzFH2sjTugJOZ7F-Rw.jpg?s=0d0da89d5bdb1958670e9ccb3e4b30b9 frameborder=0>
 - entry_name: |
     Venezuela: before the crisis vs now
   entry_id: 94naww
@@ -43,25 +43,25 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FCleverGraveAdeliepenguin&url=https%3A%2F%2Fgfycat.com%2FCleverGraveAdeliepenguin&image=https%3A%2F%2Fthumbs.gfycat.com%2FCleverGraveAdeliepenguin-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=600 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    The paint on this building is the same shade as the sky.
-  entry_id: 94m92s
-  entry_content: |
-    <img src=https://i.redditmedia.com/Hiheo78j25Iq2zOdUU89Gpy8mPZGAltPZTGPl8o7qqk.jpg?s=810ab07f66586435966c4b40570cba03 frameborder=0>
-- entry_name: |
-    A reporter in Bangladesh gets beaten with metal rods in an attempt to destroy his camera. This picture was taken within the last hour.
-  entry_id: 94ra04
-  entry_content: |
-    <img src=https://i.redditmedia.com/dI19CoemuCYBsKKlZqovUK0PdMzFH2sjTugJOZ7F-Rw.jpg?s=0d0da89d5bdb1958670e9ccb3e4b30b9 frameborder=0>
-- entry_name: |
     Bangladesh shuts down mobile internet to tackle teen protests
   entry_id: 94qcl0
   entry_content: |
     <img src=https://i.redditmedia.com/r8dE5gyMZ6T4xQoN-E_HBhu7k3wJ6ATroEPXwiCTlqA.jpg?s=067c9d4ee8d9e1eb1f27ea2f2efabaf2 frameborder=0>
 - entry_name: |
+    The paint on this building is the same shade as the sky.
+  entry_id: 94m92s
+  entry_content: |
+    <img src=https://i.redditmedia.com/Hiheo78j25Iq2zOdUU89Gpy8mPZGAltPZTGPl8o7qqk.jpg?s=810ab07f66586435966c4b40570cba03 frameborder=0>
+- entry_name: |
     Discreet packaging my ass.
   entry_id: 94mbrt
   entry_content: |
     <img src=https://i.redditmedia.com/iw61af-0_uzVpZaH88s70ZsDnVDajWE7rhEpd4znH4I.jpg?s=458aa9737bcdb76f6c402469d83426e5 frameborder=0>
+- entry_name: |
+    When Now York guys hear the violin
+  entry_id: 94rpvm
+  entry_content: |
+    <iframe src=https://v.redd.it/thk38zpqw9e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     TIL 7% of men suffer from paruresis, an anxiety disorder that means you can't pee if other people are in close proximity.
   entry_id: 94oiju
@@ -72,6 +72,11 @@ data:
   entry_id: 94om99
   entry_content: |
     <img src=https://i.redditmedia.com/_UCf54KsEeRrQY4i8Px_Xrl105NyDrkxW4gjsChKnSU.jpg?s=c3f67a9df94922e17348a06c2e4f3b9a frameborder=0>
+- entry_name: |
+    Friends for over 10 years!
+  entry_id: 94rblx
+  entry_content: |
+    <img src=https://i.redditmedia.com/wCRtdMjJR7aTQQMDuMX4hZ75BbBTRLi13iJo7wv7uLc.jpg?s=30ac657a3b2c29ee3ff69262f5f19bf6 frameborder=0>
 - entry_name: |
     TIL that US law requires that eggs sold in supermarkets must be washed. And EU law requires that eggs sold in supermarkets must NOT be washed. Both do it to prevent salmonella.
   entry_id: 94lesr
@@ -93,15 +98,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/Uy9xech89Re-O-hg-naRxyNgIhMApeO077F2vPxVkdk.jpg?s=3cfd09d3962c4e4f43451ca2136b8d7b frameborder=0>
 - entry_name: |
-    That climax
-  entry_id: 94mv8i
-  entry_content: |
-    <iframe src=https://v.redd.it/lz9cpm82g5e11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
     You can connect two ziplock bags by flipping one inside out to make a larger one
   entry_id: 94qhd4
   entry_content: |
     <img src=https://i.redditmedia.com/cnJZhYQOmiWQpTSOZozM85QZAb5sUmC_i65lpYrqU1w.jpg?s=9919401216a02ddfcdf605281c4816a3 frameborder=0>
+- entry_name: |
+    That climax
+  entry_id: 94mv8i
+  entry_content: |
+    <iframe src=https://v.redd.it/lz9cpm82g5e11/DASH_1_2_M frameborder=0></iframe>
 - entry_name: |
     the Dinosaur
   entry_id: 94oaer
@@ -128,11 +133,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ll_-2efL9akUrfGcYr8Q2GcML0Vt58zYs8HjsbJjfT8.jpg?s=023f24f82b474816e8fb9cfd4c4b1f57 frameborder=0>
 - entry_name: |
-    Friends for over 10 years!
-  entry_id: 94rblx
-  entry_content: |
-    <img src=https://i.redditmedia.com/wCRtdMjJR7aTQQMDuMX4hZ75BbBTRLi13iJo7wv7uLc.jpg?s=30ac657a3b2c29ee3ff69262f5f19bf6 frameborder=0>
-- entry_name: |
     The sheep and the wolf
   entry_id: 94nfdu
   entry_content: |
@@ -142,16 +142,6 @@ data:
   entry_id: 94oi9g
   entry_content: |
     <iframe src=https://v.redd.it/4un7aimvo6e11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    Petition to make Big Nibba the background picture of r/dankmemes for a week.He gave us many good memes,now it is time to honor him!
-  entry_id: 94l5z1
-  entry_content: |
-    <img src=https://i.redditmedia.com/_gDoR_RPMiqn8rbEYQp1fF0ST6brm9TK2UekEygkqGc.jpg?s=b2eaded8d3945a98513aa537578ee20a frameborder=0>
-- entry_name: |
-    You can't handle my moves!
-  entry_id: 94l8oy
-  entry_content: |
-    <iframe src=https://v.redd.it/l6hilsrpc4e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
     I found a dog log
   entry_id: 94p31c
@@ -168,30 +158,40 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/fqu2g0rin6e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    When Now York guys hear the violin
-  entry_id: 94rpvm
+    Whack-A-Human
+  entry_id: 94q1pe
   entry_content: |
-    <iframe src=https://v.redd.it/thk38zpqw9e11/DASH_9_6_M frameborder=0></iframe>
+    <iframe src=https://v.redd.it/y6f47vhm28e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     🔥 Wryneck moving its head like a snake to ward off predators
   entry_id: 94nfpm
   entry_content: |
     <iframe src=https://v.redd.it/yjzp61qav5e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
-    TIL that James Michael Tyler got the role of Gunther the barista in Friends because he was the only extra who knew how to use an espresso machine. He would go on to appear in 185 of the show's 236 episodes over 10 seasons, and he still receives residuals for his work.
-  entry_id: 94s6au
+    Fireworks in reverse.
+  entry_id: 94rpnn
   entry_content: |
-    <img src=https://i.redditmedia.com/uL3gQL7aoo1nqxmzbK8I1znvaVJpjZOHOqgXnpG1ALY.jpg?s=2b1555176561dc54a4eb09216140e8eb frameborder=0>
+    <iframe src=https://v.redd.it/5m2j1luvw9e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
-    Whack-A-Human
-  entry_id: 94q1pe
+    Mars Curiosity is 6 today
+  entry_id: 94r4iz
   entry_content: |
-    <iframe src=https://v.redd.it/y6f47vhm28e11/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/u80ewecbs7owDktaQLKh3GDzjO5WyVQPD7bRWlMyIhc.jpg?s=40f87dbe9190f931ca5ce565bc60500b frameborder=0>
 - entry_name: |
     Congratulations, you played yourself
   entry_id: 94mnsb
   entry_content: |
     <img src=https://i.redditmedia.com/p94nu5kKYyp1ujYhyIDf6P8efuESDWeXv1QrY7ximp0.jpg?s=2c547dfab82fc4493d89e194f585ad64 frameborder=0>
+- entry_name: |
+    Redditor giving some wholesome advice
+  entry_id: 94rilb
+  entry_content: |
+    <img src=https://i.redditmedia.com/x0Jd4z4bD20RusJehV7bviO494YBNbvdFtRFI0wmPiM.jpg?s=2f92f3d676241f656e167ed37f575dd0 frameborder=0>
+- entry_name: |
+    Nope, too weird for me!
+  entry_id: 94r49t
+  entry_content: |
+    <iframe src=https://v.redd.it/ffjxacmob9e11/DASH_9_6_M frameborder=0></iframe>
 - entry_name: |
     Bernoulli's principle demonstrated
   entry_id: 94mh1e
@@ -232,23 +232,22 @@ data:
   entry_content: |
     <iframe src=https://v.redd.it/r65uwms9p5e11/DASH_4_8_M frameborder=0></iframe>
 - entry_name: |
+  entry_id: 94r6r5
+  entry_content: |
+    null
+- entry_name: |
     Let me love you
   entry_id: 94m0oz
   entry_content: |
     <iframe src=https://v.redd.it/wrb051j9h3e11/DASH_4_8_M frameborder=0></iframe>
-- entry_name: |
-    'Black Panther' Crosses $700M in U.S. Almost Six Months After Release, Becoming Only the Third Film in History to Achieve the Milestone
-  entry_id: 94l5ne
-  entry_content: |
-    <img src=https://i.redditmedia.com/clF_7SRsuayEn8E9UCfqoU50jf95sr2cz4EtKEDEBRc.jpg?s=380ba76bad82d27e00c3ba0e738f5e8b frameborder=0>
 - entry_name: |
     Best President. Upvote this so people see it when they search Best President
   entry_id: 94npxs
   entry_content: |
     <img src=https://i.redditmedia.com/bZ8MRnJXWE6SU1fvLA_6nnpLVluiyEXhC90Zab_Ym5w.jpg?s=193d8613a8adb694b827fbe2bff29dfa frameborder=0>
 - entry_name: |
-    Nope, too weird for me!
-  entry_id: 94r49t
+    Homophobic parent has deposit donated to Stonewall in their honour.
+  entry_id: 94rl8y
   entry_content: |
-    <iframe src=https://v.redd.it/ffjxacmob9e11/DASH_9_6_M frameborder=0></iframe>
+    <img src=https://i.redditmedia.com/lFm9wWMGDBUubg907bD9MEnVDaGRldAfuhLFGnW0eKI.jpg?s=ff1ffd6290aa0b1409a9671f3ee5dc1d frameborder=0>
 ---
