@@ -168,11 +168,6 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FBrilliantHiddenAchillestang&url=https%3A%2F%2Fgfycat.com%2Fbrillianthiddenachillestang&image=https%3A%2F%2Fthumbs.gfycat.com%2FBrilliantHiddenAchillestang-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=600 height=338 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-    Y’all tripping
-  entry_id: 94ktxq
-  entry_content: |
-    <img src=https://i.redditmedia.com/_7yXFc__OqluligXNnodXXTjHpm4GlYWTOiU6GkegOA.jpg?s=62b5373d4f60a3b078ecc84ba00136d6 frameborder=0>
-- entry_name: |
     Lunar eclipse time lapse
   entry_id: 94ogfy
   entry_content: |
@@ -251,4 +246,9 @@ data:
   entry_id: 94m0oz
   entry_content: |
     <iframe src=https://v.redd.it/wrb051j9h3e11/DASH_4_8_M frameborder=0></iframe>
+- entry_name: |
+    'Black Panther' Crosses $700M in U.S. Almost Six Months After Release, Becoming Only the Third Film in History to Achieve the Milestone
+  entry_id: 94l5ne
+  entry_content: |
+    <img src=https://i.redditmedia.com/clF_7SRsuayEn8E9UCfqoU50jf95sr2cz4EtKEDEBRc.jpg?s=380ba76bad82d27e00c3ba0e738f5e8b frameborder=0>
 ---
