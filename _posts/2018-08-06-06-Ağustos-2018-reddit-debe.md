@@ -128,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/ll_-2efL9akUrfGcYr8Q2GcML0Vt58zYs8HjsbJjfT8.jpg?s=023f24f82b474816e8fb9cfd4c4b1f57 frameborder=0>
 - entry_name: |
-    If you argue that there are two sides to every argument, you’re accepting that there might not be.
-  entry_id: 94pz6j
-  entry_content: |
-    null
-- entry_name: |
     Friends for over 10 years!
   entry_id: 94rblx
   entry_content: |
@@ -198,11 +193,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/p94nu5kKYyp1ujYhyIDf6P8efuESDWeXv1QrY7ximp0.jpg?s=2c547dfab82fc4493d89e194f585ad64 frameborder=0>
 - entry_name: |
-    Invest in meta memes for financial security
-  entry_id: 94l42j
-  entry_content: |
-    <img src=https://i.redditmedia.com/eWqUJtSBASW4mRfM80DlPFgvBBdigi_hRtTE4U5brEE.jpg?s=7f63c60e021dbeec66170baf24159349 frameborder=0>
-- entry_name: |
     Bernoulli's principle demonstrated
   entry_id: 94mh1e
   entry_content: |
@@ -251,4 +241,14 @@ data:
   entry_id: 94l5ne
   entry_content: |
     <img src=https://i.redditmedia.com/clF_7SRsuayEn8E9UCfqoU50jf95sr2cz4EtKEDEBRc.jpg?s=380ba76bad82d27e00c3ba0e738f5e8b frameborder=0>
+- entry_name: |
+    Best President. Upvote this so people see it when they search Best President
+  entry_id: 94npxs
+  entry_content: |
+    <img src=https://i.redditmedia.com/bZ8MRnJXWE6SU1fvLA_6nnpLVluiyEXhC90Zab_Ym5w.jpg?s=193d8613a8adb694b827fbe2bff29dfa frameborder=0>
+- entry_name: |
+    Nope, too weird for me!
+  entry_id: 94r49t
+  entry_content: |
+    <iframe src=https://v.redd.it/ffjxacmob9e11/DASH_9_6_M frameborder=0></iframe>
 ---
