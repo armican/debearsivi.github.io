@@ -63,16 +63,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G3giDdtNYO6_oZG4s1MaHcZyO4vrwwktXZ31NxPK7Yw.jpg?s=4245f54d9457f246cb0aaf179c251063 frameborder=0>
 - entry_name: |
-    High speed laser engraving.
-  entry_id: 94u0b7
-  entry_content: |
-    <iframe src=https://v.redd.it/kbs5s50zibe11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
-    TIL on Christmas eve in 1969, Willie Nelson got a phone call that his house outside Nashville TN caught on fire. Willie came home and rush into the fire. He manged to save his guitar Trigger and one pound of weed.
-  entry_id: 94u39n
-  entry_content: |
-    <img src=https://i.redditmedia.com/IjNLsv_8krEB-ML8e7gnSXabuDSlu1-ZvbY3CHzyUgQ.jpg?s=203265d03894b9f6921b61254859d76c frameborder=0>
-- entry_name: |
     Poor driver..
   entry_id: 950iot
   entry_content: |
@@ -178,16 +168,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BzRV7gyTUXrn37MUO-ZKJPSa-LdnRfFjdQ-u9vCt72Q.jpg?s=d8bdf9a96e85ab7e0b10098588feb4f9 frameborder=0>
 - entry_name: |
-    The Day Trump Told Us There Was Attempted Collusion with Russia
-  entry_id: 94u0dr
-  entry_content: |
-    <img src=https://i.redditmedia.com/jlmwzGVLvUinsrGdHyh9Yq9oKPhKGYjXOvwpvePFpL4.jpg?s=bfd64753a63730ef05378a678d3e52a1 frameborder=0>
-- entry_name: |
-    Sloppy pizza toppings
-  entry_id: 94u0kn
-  entry_content: |
-    <img src=https://i.redditmedia.com/jDa-mQxqivOGL7ISo24zfJ795eiPdxEs4T9vXeCH3qM.jpg?s=571ec3aaf4ea562e5100ec975ad0adf4 frameborder=0>
-- entry_name: |
     My GF was born without a nail.
   entry_id: 94zxqp
   entry_content: |
@@ -251,4 +231,24 @@ data:
   entry_id: 9518k8
   entry_content: |
     <iframe src=https://v.redd.it/a9s7g2eiuge11/DASH_2_4_M frameborder=0></iframe>
+- entry_name: |
+    How to Shame Your teenage son about his Excessive masturbation.
+  entry_id: 94vxl6
+  entry_content: |
+    <img src=https://i.redditmedia.com/jHDAcchqxgznVadJlvU_71WFnVXxWyXbCH4CiLRyYUk.jpg?s=000299d1e02599f00efa5e367e0f1d2f frameborder=0>
+- entry_name: |
+    Weekend poll: Do you want a system-wide dark theme in stock Android?
+  entry_id: 94uyip
+  entry_content: |
+    <img src=https://i.redditmedia.com/vq_QV2nkzs5BRrxs58WK1QimDkS0vKcDq3QE_Np64ZI.jpg?s=0aa4d3a097773227514022b22bb2f505 frameborder=0>
+- entry_name: |
+    Wasn't sure how my pup and cat would do on our cross country road trip...
+  entry_id: 94x73x
+  entry_content: |
+    <img src=https://i.redditmedia.com/0sI9PMvnuIou2lPhH068Pc6T6b9Czm-kq4nTSYQ73Z8.jpg?s=5346dcbe48a2d4d6e9cbdd09456ae159 frameborder=0>
+- entry_name: |
+    New From Apple
+  entry_id: 94zulr
+  entry_content: |
+    <iframe src=https://v.redd.it/zkix14omzfe11/DASH_1_2_M frameborder=0></iframe>
 ---
