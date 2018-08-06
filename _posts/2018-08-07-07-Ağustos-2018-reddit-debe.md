@@ -43,11 +43,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/yOzkUvUh3jX1WuvvrtqrOTm7Byd7hTc5fal9P_h6uO0.jpg?s=6ae62e7808994597ac7abdeba73a57e3 frameborder=0>
 - entry_name: |
-    Prominent Bangladeshi photographer and human rights activist abducted hours after giving interview on Al Jazeera about 2018 Bangladesh Student Protest.
-  entry_id: 94ts35
-  entry_content: |
-    null
-- entry_name: |
     My best friend’s first and most likely last camping trip. He’s still alive! Just too old to go adventuring.
   entry_id: 94x91k
   entry_content: |
@@ -58,20 +53,25 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/c0vfA1lH1Nlv8ZSIZPjaJrrPD5lGcRpfUn_SljEkisU.jpg?s=b04962068a2a3f95b0fa009d93c37f65 frameborder=0>
 - entry_name: |
+    Prominent Bangladeshi photographer and human rights activist abducted hours after giving interview on Al Jazeera about 2018 Bangladesh Student Protest.
+  entry_id: 94ts35
+  entry_content: |
+    null
+- entry_name: |
     Big thanks to Florida Gov. Rick Scott on allowing toxic waste to now be dumped!
   entry_id: 94yay3
   entry_content: |
     <img src=https://i.redditmedia.com/bY5bYYGDkmCBHMTUaD477-393mYmIyzRZ32UgX9IAfA.jpg?s=64a23cad36ab5f13a5033d86147c1484 frameborder=0>
 - entry_name: |
-    TIL in 2013, Coca-Cola cancelled a promotion that paired randomly generated English and French words inside their caps until a lady received one that said You Retard
-  entry_id: 94wm48
-  entry_content: |
-    <img src=https://i.redditmedia.com/G3giDdtNYO6_oZG4s1MaHcZyO4vrwwktXZ31NxPK7Yw.jpg?s=4245f54d9457f246cb0aaf179c251063 frameborder=0>
-- entry_name: |
     TIL Stephen King threw away the first few pages of Carrie until his wife fished it out of the trash can and said she liked it and would help him with the female perspective. The book would become his first published novel and wildly successful, launching his $400 million career.
   entry_id: 94y362
   entry_content: |
     <img src=https://i.redditmedia.com/K8eZ-VEqjvi-AH7PKl-X8WNHxFqA11LyzClSeWTT4BU.jpg?s=68275c37e502f0125ac45202ddb8bcd9 frameborder=0>
+- entry_name: |
+    TIL in 2013, Coca-Cola cancelled a promotion that paired randomly generated English and French words inside their caps until a lady received one that said You Retard
+  entry_id: 94wm48
+  entry_content: |
+    <img src=https://i.redditmedia.com/G3giDdtNYO6_oZG4s1MaHcZyO4vrwwktXZ31NxPK7Yw.jpg?s=4245f54d9457f246cb0aaf179c251063 frameborder=0>
 - entry_name: |
     You can only upvote this picture of spongebob if you downvote the picture of squidward that I’ll link in the comments.
   entry_id: 94tmmf
@@ -98,11 +98,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/v1HkjvJ08Ci13EyMl0pyxr8gBopUIdsxY5S_4IDoqHE.gif?fm=jpg&s=f74105c4eb8169bd4a21fdd7de2183da frameborder=0>
 - entry_name: |
-    Goalkeeper Training
-  entry_id: 94tgon
-  entry_content: |
-    <iframe src=https://v.redd.it/dman5c3f6be11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     The way each star is cut
   entry_id: 94umr8
   entry_content: |
@@ -112,6 +107,11 @@ data:
   entry_id: 94y6tw
   entry_content: |
     <img src=https://i.redditmedia.com/GofI8UFCPKDzeHgqZzvNVKNKimdczJCU6j6NODc4jtA.jpg?s=d78c7078ea4c5ef1d7a46af3d9c9832b frameborder=0>
+- entry_name: |
+    Poor driver..
+  entry_id: 950iot
+  entry_content: |
+    <img src=https://i.redditmedia.com/CJUitmI3vNs-JOl50FJ660ljZlMSlIRZCIj7E-vb84s.jpg?s=919b168a00768c63b104bc44d59f8ea3 frameborder=0>
 - entry_name: |
     Absolute madlad
   entry_id: 94um17
@@ -148,15 +148,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/2Ad5m2QdsKUh8_MX3nEnNd-y0zOWxNZQy4QRz56NKPs.jpg?s=568cfbfc7ca2a3dfe2e39cac0d375f10 frameborder=0>
 - entry_name: |
-    this be every sophomore
-  entry_id: 94vuub
-  entry_content: |
-    <img src=https://i.redditmedia.com/fN7BOIz3dD32RKNDIT52GDi1YDG4DJ_60CUYF7SxBDo.jpg?s=51a041ca332f558ac7090451790d3949 frameborder=0>
-- entry_name: |
     You literally said...
   entry_id: 94w705
   entry_content: |
     <img src=https://i.redditmedia.com/AYF8tiwW4ZVxlJn9u8iZRnruihY0VKxyBexTTH59iKg.jpg?s=5cb600fcc1c1a6eb184bcb3b31f6d60b frameborder=0>
+- entry_name: |
+    this be every sophomore
+  entry_id: 94vuub
+  entry_content: |
+    <img src=https://i.redditmedia.com/fN7BOIz3dD32RKNDIT52GDi1YDG4DJ_60CUYF7SxBDo.jpg?s=51a041ca332f558ac7090451790d3949 frameborder=0>
 - entry_name: |
     Guy giving a thirsty raptor some water.
   entry_id: 94utk3
@@ -173,10 +173,20 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/BzRV7gyTUXrn37MUO-ZKJPSa-LdnRfFjdQ-u9vCt72Q.jpg?s=d8bdf9a96e85ab7e0b10098588feb4f9 frameborder=0>
 - entry_name: |
-    Poor driver..
-  entry_id: 950iot
+    Constellation marble ornament
+  entry_id: 950akm
   entry_content: |
-    <img src=https://i.redditmedia.com/CJUitmI3vNs-JOl50FJ660ljZlMSlIRZCIj7E-vb84s.jpg?s=919b168a00768c63b104bc44d59f8ea3 frameborder=0>
+    <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FLimpingWhisperedDingo&url=https%3A%2F%2Fgfycat.com%2FLimpingWhisperedDingo&image=https%3A%2F%2Fthumbs.gfycat.com%2FLimpingWhisperedDingo-size_restricted.gif&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=gfycat width=362 height=640 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
+- entry_name: |
+    Lovely view from a tent
+  entry_id: 94y7u3
+  entry_content: |
+    <img src=https://i.redditmedia.com/swij1HOhw70ZColspVDr5G14eXvFPKP5__t8VyDkRhE.jpg?s=03e2c33a4662664e68ca786d2d863d83 frameborder=0>
+- entry_name: |
+    Will Smith filming a scene.
+  entry_id: 950n2v
+  entry_content: |
+    <img src=https://i.redditmedia.com/_Id_Hy02Aii0yFIQbPc0Gqc3esnsF4n-CT7I76Sy1LQ.jpg?s=b74ec14fb68010702040505f8a51f41a frameborder=0>
 - entry_name: |
     The Day Trump Told Us There Was Attempted Collusion with Russia
   entry_id: 94u0dr
@@ -192,11 +202,6 @@ data:
   entry_id: 94u0kn
   entry_content: |
     <img src=https://i.redditmedia.com/jDa-mQxqivOGL7ISo24zfJ795eiPdxEs4T9vXeCH3qM.jpg?s=571ec3aaf4ea562e5100ec975ad0adf4 frameborder=0>
-- entry_name: |
-    Lovely view from a tent
-  entry_id: 94y7u3
-  entry_content: |
-    <img src=https://i.redditmedia.com/swij1HOhw70ZColspVDr5G14eXvFPKP5__t8VyDkRhE.jpg?s=03e2c33a4662664e68ca786d2d863d83 frameborder=0>
 - entry_name: |
     Hold this
   entry_id: 94tma5
@@ -218,6 +223,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/HvoBJ1ZsmFlSRMPjFtSy90oieeNSEKFr3Gurn_KLpPI.jpg?s=0c22249322d1c440316eea2baea79ca3 frameborder=0>
 - entry_name: |
+    This gorgeous stop motion creation.
+  entry_id: 94y0c1
+  entry_content: |
+    <iframe src=https://v.redd.it/hfzyqrovaee11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+  entry_id: 94wy6i
+  entry_content: |
+    <img src=https://i.redditmedia.com/H-xA_U0jyzZR-dN3wWSGvp2QeFfYzycOBZoX2FzevWQ.jpg?s=64deb3aa1654db2f07764d7e702c4698 frameborder=0>
+- entry_name: |
     Another day, another Doug
   entry_id: 94ud3b
   entry_content: |
@@ -228,27 +242,13 @@ data:
   entry_content: |
     <iframe class=embedly-embed src=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgfycat.com%2Fifr%2FInfamousAfraidBlackrhino&url=https%3A%2F%2Fgfycat.com%2FInfamousAfraidBlackrhino&image=https%3A%2F%2Fthumbs.gfycat.com%2FInfamousAfraidBlackrhino-size_restricted.gif&key=2aa3c4d5f3de4f5b9120b660ad850dc9&type=text%2Fhtml&schema=gfycat width=244 height=140 scrolling=no frameborder=0 allow=autoplay; fullscreen allowfullscreen=true></iframe>
 - entry_name: |
-  entry_id: 94wy6i
-  entry_content: |
-    <img src=https://i.redditmedia.com/H-xA_U0jyzZR-dN3wWSGvp2QeFfYzycOBZoX2FzevWQ.jpg?s=64deb3aa1654db2f07764d7e702c4698 frameborder=0>
-- entry_name: |
-    Donald Glover. acrylic on canvas, 75x75cm
-  entry_id: 94wauk
-  entry_content: |
-    <img src=https://i.redditmedia.com/44x5JqdXSQE_DCxfi2CE9Zubwaj3WbFeg4M8_PY_qHI.jpg?s=a85cf3cd9edb16526d576384193679d9 frameborder=0>
-- entry_name: |
     Not sure if this counts as a choosing beggar, but I felt like this belonged here
   entry_id: 94w0dg
   entry_content: |
     <img src=https://i.redditmedia.com/Kgn74C7G49MJhA2p6GWx4YfH22mhPGPCccifoUoU1l8.jpg?s=8bc8889cafd230db08b71aa56145625e frameborder=0>
 - entry_name: |
-    This gorgeous stop motion creation.
-  entry_id: 94y0c1
+    Donald Glover. acrylic on canvas, 75x75cm
+  entry_id: 94wauk
   entry_content: |
-    <iframe src=https://v.redd.it/hfzyqrovaee11/DASH_1_2_M frameborder=0></iframe>
-- entry_name: |
-    Weekend poll: Do you want a system-wide dark theme in stock Android?
-  entry_id: 94uyip
-  entry_content: |
-    <img src=https://i.redditmedia.com/vq_QV2nkzs5BRrxs58WK1QimDkS0vKcDq3QE_Np64ZI.jpg?s=0aa4d3a097773227514022b22bb2f505 frameborder=0>
+    <img src=https://i.redditmedia.com/44x5JqdXSQE_DCxfi2CE9Zubwaj3WbFeg4M8_PY_qHI.jpg?s=a85cf3cd9edb16526d576384193679d9 frameborder=0>
 ---
