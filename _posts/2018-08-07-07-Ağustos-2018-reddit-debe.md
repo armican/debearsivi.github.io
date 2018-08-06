@@ -73,11 +73,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/G3giDdtNYO6_oZG4s1MaHcZyO4vrwwktXZ31NxPK7Yw.jpg?s=4245f54d9457f246cb0aaf179c251063 frameborder=0>
 - entry_name: |
-    You can only upvote this picture of spongebob if you downvote the picture of squidward that I’ll link in the comments.
-  entry_id: 94tmmf
-  entry_content: |
-    <img src=https://i.redditmedia.com/p67cjnd38S4irWQLPMY68Ys0M-L_oUMm8tWnWWGN7Aw.jpg?s=0f962fefeb7116af30db716620457db0 frameborder=0>
-- entry_name: |
     High speed laser engraving.
   entry_id: 94u0b7
   entry_content: |
@@ -193,30 +188,15 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jlmwzGVLvUinsrGdHyh9Yq9oKPhKGYjXOvwpvePFpL4.jpg?s=bfd64753a63730ef05378a678d3e52a1 frameborder=0>
 - entry_name: |
-    There’s no way this dude doesn’t post here.
-  entry_id: 94tiko
-  entry_content: |
-    <img src=https://i.redditmedia.com/7qfLycVXVLYXLbqb6cWrVZyisB2xn5TVsxAm5TGJGVA.jpg?s=8b1ddcba28f2676bbe1f4298112214c4 frameborder=0>
-- entry_name: |
     Sloppy pizza toppings
   entry_id: 94u0kn
   entry_content: |
     <img src=https://i.redditmedia.com/jDa-mQxqivOGL7ISo24zfJ795eiPdxEs4T9vXeCH3qM.jpg?s=571ec3aaf4ea562e5100ec975ad0adf4 frameborder=0>
 - entry_name: |
-    Hold this
-  entry_id: 94tma5
-  entry_content: |
-    <iframe src=https://v.redd.it/amvnxk5v9be11/DASH_600_K frameborder=0></iframe>
-- entry_name: |
     Color combinations that go well with each other
   entry_id: 94trjy
   entry_content: |
     <img src=https://i.redditmedia.com/7Mz4RpJ-W5KKSvQZ1DC7AIY3U1Wik2De7-kveX0AUnM.jpg?s=2d24324389255da8a5f3d17d1dcd72d4 frameborder=0>
-- entry_name: |
-    Found on r/vegan
-  entry_id: 94tneg
-  entry_content: |
-    <img src=https://i.redditmedia.com/nXUaS7FxOdD-hoyXQIJbIXeMnOnMehIkcZvRv2E5lIo.jpg?s=2a1d2d3a192450617206c5da6d612aa6 frameborder=0>
 - entry_name: |
     Sikh man beaten, told to “go back to your country” in California; hate crime investigated
   entry_id: 94v676
@@ -251,4 +231,24 @@ data:
   entry_id: 94wauk
   entry_content: |
     <img src=https://i.redditmedia.com/44x5JqdXSQE_DCxfi2CE9Zubwaj3WbFeg4M8_PY_qHI.jpg?s=a85cf3cd9edb16526d576384193679d9 frameborder=0>
+- entry_name: |
+    TIL: A submarine ran out of fuel about 100 miles from hawaii while searching for a lost tug. Sub R14 had empty reserve tanks, no radio communications and a week's worth of food. Crew rigged up blankets and mattress covers as sails. It sailed back to Hawaii over 5 days.
+  entry_id: 950yue
+  entry_content: |
+    <img src=https://i.redditmedia.com/73P52FwvaoD14GDOcEEv-rR1crGwzmHVVviJN13UHWk.jpg?s=516c25335dd5479e2de1820e54ae4290 frameborder=0>
+- entry_name: |
+    My GF was born without a nail.
+  entry_id: 94zxqp
+  entry_content: |
+    <img src=https://i.redditmedia.com/8RSkpvJR2tV9DoViM24xtG-oKOeX9ffy4m20IANI3j8.jpg?s=96661280ea16ceaae51bf888228686d2 frameborder=0>
+- entry_name: |
+    How to Shame Your teenage son about his Excessive masturbation.
+  entry_id: 94vxl6
+  entry_content: |
+    <img src=https://i.redditmedia.com/jHDAcchqxgznVadJlvU_71WFnVXxWyXbCH4CiLRyYUk.jpg?s=000299d1e02599f00efa5e367e0f1d2f frameborder=0>
+- entry_name: |
+    Weekend poll: Do you want a system-wide dark theme in stock Android?
+  entry_id: 94uyip
+  entry_content: |
+    <img src=https://i.redditmedia.com/vq_QV2nkzs5BRrxs58WK1QimDkS0vKcDq3QE_Np64ZI.jpg?s=0aa4d3a097773227514022b22bb2f505 frameborder=0>
 ---
