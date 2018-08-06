@@ -103,11 +103,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/obOy8iWdUnhY39VJqMrPYa5vpMU9dTNl-jabFSE3_Dw.jpg?s=2a0732c0500e30e71db3623bd739b70f frameborder=0>
 - entry_name: |
-    What is the most memorable moment you shared with a stranger who you never saw again?
-  entry_id: 94uzxl
-  entry_content: |
-    null
-- entry_name: |
     Bo Burnham's ‘Eighth Grade’ Is the First Movie to Nail Youth Culture in the Digital Age
   entry_id: 94vyuj
   entry_content: |
@@ -152,11 +147,6 @@ data:
   entry_id: 950zdj
   entry_content: |
     <img src=https://i.redditmedia.com/7De8GKz3zAviBew8tJkc2MHqUQMaaIzvj1AHRzEYaEg.jpg?s=9bd22a08b313ea7ec57310a4fe25adaf frameborder=0>
-- entry_name: |
-    Nice song
-  entry_id: 951156
-  entry_content: |
-    <img src=https://i.redditmedia.com/yVygYq0PBBERVsenuB_baNban86YUwyLjSzVV_hKMtY.jpg?s=b018b8e29d78435dd806dfbd4fd97b22 frameborder=0>
 - entry_name: |
     Lovely view from a tent
   entry_id: 94y7u3
@@ -251,4 +241,14 @@ data:
   entry_id: 94x73x
   entry_content: |
     <img src=https://i.redditmedia.com/0sI9PMvnuIou2lPhH068Pc6T6b9Czm-kq4nTSYQ73Z8.jpg?s=5346dcbe48a2d4d6e9cbdd09456ae159 frameborder=0>
+- entry_name: |
+    Anti Gravity sculpture
+  entry_id: 94xdba
+  entry_content: |
+    <img src=https://i.redditmedia.com/Y_slh3an1R-H0iEP0PCwTvf1WA_IrESgLXHSYw-U6TU.jpg?s=22cf6f1451793acd994193d704c25386 frameborder=0>
+- entry_name: |
+    How to Shame Your teenage son about his Excessive masturbation.
+  entry_id: 94vxl6
+  entry_content: |
+    <img src=https://i.redditmedia.com/jHDAcchqxgznVadJlvU_71WFnVXxWyXbCH4CiLRyYUk.jpg?s=000299d1e02599f00efa5e367e0f1d2f frameborder=0>
 ---
