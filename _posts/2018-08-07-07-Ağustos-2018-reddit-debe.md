@@ -53,11 +53,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/c0vfA1lH1Nlv8ZSIZPjaJrrPD5lGcRpfUn_SljEkisU.jpg?s=b04962068a2a3f95b0fa009d93c37f65 frameborder=0>
 - entry_name: |
-    Prominent Bangladeshi photographer and human rights activist abducted hours after giving interview on Al Jazeera about 2018 Bangladesh Student Protest.
-  entry_id: 94ts35
-  entry_content: |
-    null
-- entry_name: |
     Big thanks to Florida Gov. Rick Scott on allowing toxic waste to now be dumped!
   entry_id: 94yay3
   entry_content: |
@@ -133,11 +128,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/szJjklEsdNAJ4L-6oHNocqsnfDizFsELltwDQN7jv4k.jpg?s=7ef4ba20607ea9c65c8158135b941842 frameborder=0>
 - entry_name: |
-    LPT: When you get a new notebook, leave the first page blank. When you finish using the notebook, you can number the pages and use the first page as a table of contents.
-  entry_id: 94tres
-  entry_content: |
-    null
-- entry_name: |
     Wells Fargo says hundreds of customers lost homes after computer glitch; Hundreds of people had their homes foreclosed on after software used by Wells Fargo incorrectly denied them mortgage modifications
   entry_id: 94vgjb
   entry_content: |
@@ -193,11 +183,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/jDa-mQxqivOGL7ISo24zfJ795eiPdxEs4T9vXeCH3qM.jpg?s=571ec3aaf4ea562e5100ec975ad0adf4 frameborder=0>
 - entry_name: |
-    Color combinations that go well with each other
-  entry_id: 94trjy
-  entry_content: |
-    <img src=https://i.redditmedia.com/7Mz4RpJ-W5KKSvQZ1DC7AIY3U1Wik2De7-kveX0AUnM.jpg?s=2d24324389255da8a5f3d17d1dcd72d4 frameborder=0>
-- entry_name: |
     Sikh man beaten, told to “go back to your country” in California; hate crime investigated
   entry_id: 94v676
   entry_content: |
@@ -251,4 +236,19 @@ data:
   entry_id: 94uyip
   entry_content: |
     <img src=https://i.redditmedia.com/vq_QV2nkzs5BRrxs58WK1QimDkS0vKcDq3QE_Np64ZI.jpg?s=0aa4d3a097773227514022b22bb2f505 frameborder=0>
+- entry_name: |
+    While I pick up this police officer.
+  entry_id: 94vclu
+  entry_content: |
+    <iframe src=https://v.redd.it/ife810v1ece11/DASH_1_2_M frameborder=0></iframe>
+- entry_name: |
+    Wasn't sure how my pup and cat would do on our cross country road trip...
+  entry_id: 94x73x
+  entry_content: |
+    <img src=https://i.redditmedia.com/0sI9PMvnuIou2lPhH068Pc6T6b9Czm-kq4nTSYQ73Z8.jpg?s=5346dcbe48a2d4d6e9cbdd09456ae159 frameborder=0>
+- entry_name: |
+    Guy giving a thirsty raptor some water.
+  entry_id: 9504yd
+  entry_content: |
+    <iframe src=https://v.redd.it/6frpqbk3ybe11/DASH_4_8_M frameborder=0></iframe>
 ---
