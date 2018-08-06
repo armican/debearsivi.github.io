@@ -88,11 +88,6 @@ data:
   entry_content: |
     <img src=https://i.redditmedia.com/73P52FwvaoD14GDOcEEv-rR1crGwzmHVVviJN13UHWk.jpg?s=516c25335dd5479e2de1820e54ae4290 frameborder=0>
 - entry_name: |
-    The way each star is cut
-  entry_id: 94umr8
-  entry_content: |
-    <iframe src=https://v.redd.it/bexmr68owbe11/DASH_2_4_M frameborder=0></iframe>
-- entry_name: |
     Feel-Good Story of the Summer
   entry_id: 94y6tw
   entry_content: |
@@ -107,11 +102,6 @@ data:
   entry_id: 951ev2
   entry_content: |
     <img src=https://i.redditmedia.com/oArqRCh2uC3fib5U6Wa0HufPrctTe1--EyOfnWCQ4g0.jpg?s=46e09ea5bb854de020f2cb081c1619c1 frameborder=0>
-- entry_name: |
-    Absolute madlad
-  entry_id: 94um17
-  entry_content: |
-    <img src=https://i.redditmedia.com/cSUM0A1FGW2Trkh70VuMseBa7AIXxlgmJVkm18EJ328.jpg?s=476a32f32a28a5c9d8c50374bafec5c2 frameborder=0>
 - entry_name: |
     What a good boye.
   entry_id: 94vlw4
@@ -251,4 +241,14 @@ data:
   entry_id: 94x73x
   entry_content: |
     <img src=https://i.redditmedia.com/0sI9PMvnuIou2lPhH068Pc6T6b9Czm-kq4nTSYQ73Z8.jpg?s=5346dcbe48a2d4d6e9cbdd09456ae159 frameborder=0>
+- entry_name: |
+    How to Shame Your teenage son about his Excessive masturbation.
+  entry_id: 94vxl6
+  entry_content: |
+    <img src=https://i.redditmedia.com/jHDAcchqxgznVadJlvU_71WFnVXxWyXbCH4CiLRyYUk.jpg?s=000299d1e02599f00efa5e367e0f1d2f frameborder=0>
+- entry_name: |
+    Weekend poll: Do you want a system-wide dark theme in stock Android?
+  entry_id: 94uyip
+  entry_content: |
+    <img src=https://i.redditmedia.com/vq_QV2nkzs5BRrxs58WK1QimDkS0vKcDq3QE_Np64ZI.jpg?s=0aa4d3a097773227514022b22bb2f505 frameborder=0>
 ---
