@@ -6,7 +6,7 @@ data:
     kocanız evde yoksa girmeyeyim diyen erkek komşu
   entry_id:  80023030
   entry_writer: ayriyazilmayande
-  entry_fav_count: 4946
+  entry_fav_count: 4969
   entry_content: |
     kibar adamdır. bunda pislik, art niyet yok. belki sen adama güvenmiyorsun, girmesini istemiyorsun. adam da böyle bi ihtimale karşı nazikçe izin alıyor. <br/><br/>bağzı kadınlara nezaket gerçekten de fazla.
   entry_channels: ilişkiler
@@ -14,7 +14,7 @@ data:
     berrak tüzünataç'ın bursiyerince bloklanması
   entry_id:  80037345
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 736
+  entry_fav_count: 743
   entry_content: |
     (bkz: <a class="b" href="/?q=bursi+yer">bursi yer</a>)<br/><br/>yemis iste.<br/><br/>yav ayrica bu nasil rahatlik, babam kiracisina kirayi hatirlatmaya cekinen bi insandi, belki sikisiktir biraz daha bekleyelim derdi.. biz de ondan oyle gorduk, oyle yetistik. simdi ben bursiyer olsam burs verinime sittinsene boyle bir sey hatirlatamam. noldu bizim burs parasi diye soramam. millet mi cok rahat biz mi keriziz? hayreti mucip.
   entry_channels: haber,magazin
@@ -22,7 +22,7 @@ data:
     ince ve ekibinin dsp'ye geçmesi
   entry_id:  80039329
   entry_writer: tourist eomer
-  entry_fav_count: 668
+  entry_fav_count: 677
   entry_content: |
     sol bölünüyorsa bölünsün sikerim artık... tek parça durduğunda ne bok olduğunu gördük ve yaşıyoruz...<br/><br/>artık chp'nin baraj altı kalması yada ince'nin dsp'ye geçip chp'ye yaklaşması veya hemen hemen aynı oy oranını alması gerekiyor. yoksa bu chp'den bi bok olmayacak çok net anlaşıldı bu durum.
   entry_channels: siyaset,haber
@@ -30,15 +30,31 @@ data:
     depresyonu anlatan en iyi söz
   entry_id:  80047186
   entry_writer: selimmm
-  entry_fav_count: 416
+  entry_fav_count: 477
   entry_content: |
     friedrich nietzsche'den gelsin.<br/><br/>"yorulduğumuzda ve cesaretimizi kaybettiğimizde, yıllar önce yendiğimiz düşüncelerin hücumuna uğrarız."
   entry_channels: anket,edebiyat,sağlık
 - entry_name: |
+    fotojenik tekirdağ prensi
+  entry_id:  80027671
+  entry_writer: yukselen gunes evi
+  entry_fav_count: 441
+  entry_content: |
+    kendi dünyasında mutluysa bize bok yemek düşer.<br/><br/>işlediği bir suç mu var?<br/><br/>yok.<br/><br/>e o zaman milletin yaşam tarzına da bir zahmet karışmayın. şu durumda eleştirdiğiniz hükümetten pek bir farkınız kalmıyor.<br/><br/>yarın sizin adınıza da bilgisayar başında göt büyüten nutellacı berk (ya da başka bir basmakalıp yargı üzerinden) gibisinden başlık açıp instagram hesabınızı paylaşırlarsa üzülürsünüz.<br/><br/>edit: adam mutluymuş, problem yokmuş. bu savunmanın engelli bir çocuğa tecavüz eden sapığın "ses çıkarmadı, hoşuna gidiyor diye düşündüm" şeklindeki savunmasından ne farkı var? haksızlığa uğrayan bir kişinin uğradığı haksızlıktan haberi olmadığı durumlarda ortada bir suç olmuyor mu?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/hakan_gunday/status/1006921770564227072" title="https://twitter.com/hakan_gunday/status/1006921770564227072">şunu da</a> ekleyeyim.
+  entry_channels: magazin
+- entry_name: |
+    imf'den borç alınca atılacak gazete manşetleri
+  entry_id:  80027135
+  entry_writer: tutamadimicimde
+  entry_fav_count: 424
+  entry_content: |
+    verdiğimiz borç parayı geri alıyoruz.
+  entry_channels: siyaset,anket,haber,ekonomi
+- entry_name: |
     merkez bankasının 21 milyar dolarının kalması
   entry_id:  80044322
   entry_writer: viracocha
-  entry_fav_count: 352
+  entry_fav_count: 370
   entry_content: |
     merkez bankasının net döviz rezervinin 21 milyar dolara düşmesi. <a class="b" href="/?q=alaattin+akta%c5%9f">alaattin aktaş</a> bugünkü yazısında buna değinmiş. <a class="b" href="/?q=necmettin+bat%c4%b1rel">necmettin batırel</a>in dahiyane planını suya düşürmüş. şak 10 sattın, şak bir 10 daha, şakkadanak satacak 3'üncü 10 yok.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.dunya.com/kose-yazisi/merkez-bankasinin-net-doviz-rezervi-yalnizca-21-milyar-dolar/424630" title="https://m.dunya.com/kose-yazisi/merkez-bankasinin-net-doviz-rezervi-yalnizca-21-milyar-dolar/424630">ilgili yazı</a><br/><br/>edit: bazı anlamak istemeyenler iyi okusun <a class="b" href="/?q=net">net</a> rezerv diyorum. 'aslında 90 küsur var bu yalan' diyenler hesaplamayı öğrensin
   entry_channels: haber,ekonomi
@@ -46,10 +62,18 @@ data:
     on türk erkeğinden sekizinin porno izlemesi
   entry_id:  80038932
   entry_writer: muzu bicakla soyan adam
-  entry_fav_count: 294
+  entry_fav_count: 303
   entry_content: |
     diğer ikisi de pornoda oynuyordur arkadaşlar. kesin bilgi yayalım.
   entry_channels: ilişkiler,sinema
+- entry_name: |
+    alanya'da taşlanan deniz kızı
+  entry_id:  80034302
+  entry_writer: neolduysa3yasimdaoldu
+  entry_fav_count: 265
+  entry_content: |
+    o kadın bebeğini düşürse sorumlusu kim olacak orospu çocukları.<br/><br/>devletin sana verdiği silah götünde patlasın muhtar bozuntusu.
+  entry_channels: haber
 - entry_name: |
     o kalın kalın romanlar nasıl okunuyor sorunsalı
   entry_id:  80028566
@@ -62,7 +86,7 @@ data:
     kadınları seksi yapan detaylar
   entry_id:  80033469
   entry_writer: sol kulvardan ciktim geliyorum
-  entry_fav_count: 166
+  entry_fav_count: 171
   entry_content: |
     1- ayak bilegindeki halhal (ayak bileginin ince olmasi ilk kosul) <br/>2- sacini kalemle topuz yapmasi
   entry_channels: ilişkiler
@@ -70,7 +94,7 @@ data:
     çin 1500 yıl sonra türkleri satın alıyor
   entry_id:  80043999
   entry_writer: ahsap dibegin demir tokmagi
-  entry_fav_count: 146
+  entry_fav_count: 149
   entry_content: |
     en azından çinlilerinkinin daha küçük olduğunu biliyoruz...<br/>olumlu tarafından bakmak lazım...
   entry_channels: siyaset,haber,ekonomi
@@ -78,7 +102,7 @@ data:
     çıplak fotoğraf göndermek
   entry_id:  80042872
   entry_writer: profiliduzenle
-  entry_fav_count: 128
+  entry_fav_count: 135
   entry_content: |
     mesaj kutumun sıkça dolması mı ? olm siz sözlüğe başka gezegenden mi giriyosunuz?
   entry_channels: ilişkiler,teknoloji
@@ -91,6 +115,22 @@ data:
     cidden sıktı bu maaşlarınızı belli etme çabalarınız. tamam, x dolar kazanıyorsunuz. kazanıyorsunuz da, bize ne bundan? <br/>“helal olsun, tebrik ederiz” dememizi mi bekliyorsunuz? <br/><br/>güle güle harcayın, daha fazla kazanın ama şurada şunun reklamını yapmayın, çok itici duruyor. masaya elinde cüzdan, cep telefonu ile oturan birinden farkınız kalmıyor.
   entry_channels: anket,ekşi-sözlük,ekonomi
 - entry_name: |
+    elinde iki tane ne varsa birini devlete bağışlamak
+  entry_id:  80050370
+  entry_writer: oyun kac kac
+  entry_fav_count: 112
+  entry_content: |
+    sıfır otomobil alan herkesin zaten yaptığı şey
+  entry_channels: 
+- entry_name: |
+    başörtülü kadınlara dair önyargıların gerekçeleri
+  entry_id:  80020070
+  entry_writer: ykucuk
+  entry_fav_count: 101
+  entry_content: |
+    başörtüsü sorunu yoktur. önyargıda yoktur. sorun türban diye siyasi ideolojilerini milletin gözüne soka soka ülkeyi biz ve diğerleri diye ayıran kindar kesimdir
+  entry_channels: siyaset,ilişkiler,tarih,eğitim
+- entry_name: |
     belli bir iq altındakileri yok eden virüs
   entry_id:  80034568
   entry_writer: fear is not the remedy
@@ -99,45 +139,21 @@ data:
     çok sürpriz ölümlere sebep olacak virüs. <br/><br/>bir gün uyanamayabilirsin mesela , ya da ailenden birilerini yok eder falan. pişman olmayasın sonra ? <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler
 - entry_name: |
-    ercan taner'in bein sports'a transferi
-  entry_id:  80032402
-  entry_writer: mrslwise
-  entry_fav_count: 80
-  entry_content: |
-    şampiyonlar ligi'nin bein sports'a transferinden sonra müthiş olmuştur.<br/><br/>bein sports transferi efsane bir <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/beINSPORTS_TR/status/1027111876650561536" title="https://twitter.com/beINSPORTS_TR/status/1027111876650561536">flood</a> ile duyurmuştur.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>1- birazdan paylaşacağımız tweetleri kendi sesinizle okuyamıyorsanız, size güzel bir haberimiz var! <br/><br/>2- hagi, kaleye baktı… bir çalım, nefis bir hareket… hagi, hagi, hagi, hagi, hagi, hagi… işte muhteşem bir gol, harika bir gol! büyük ustadan viyana’da harika bir resital!<br/><br/>3- appiah, ümit, aurelio… bir kafa, top sekti, ikinci pozisyon, adnan… alex, mükemmel bir gol! yok böyle bir gol! yok böyle bir gol! muhteşem! muhteşem! süper bir gol! sahalarda ender görülen bir gol, kadıköy’de görülüyor! alex sambayı yapıyor!<br/><br/>4- sergen, yanında tümer var. tümer’e doğru, açıyı kaybetti… tümer topu aldı… sergen ve gooooool, goool, goool… goool, sergen attı, şampiyonluk geldi!<br/><br/>5- yılın transferi! büyük efsane @ercantofficial yuvaya döndü!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: spor,tv
-- entry_name: |
-    elinde iki tane ne varsa birini devlete bağışlamak
-  entry_id:  80050370
-  entry_writer: oyun kac kac
-  entry_fav_count: 80
-  entry_content: |
-    sıfır otomobil alan herkesin zaten yaptığı şey
-  entry_channels: 
-- entry_name: |
-    phillip cocu
-  entry_id:  80019592
-  entry_writer: tsubasa ohzora
-  entry_fav_count: 77
-  entry_content: |
-    bu adam en az 3 yıl takımda kalmalı, bunu da rakibin bizden 5 kat fazla şut attığı maçın ardından söylüyorum. <br/><br/>uzun zamandan sonra ilk defa ileri oynamaya çalışan bir fenerbahçe gördüm, düşün geçen seneki kadro bir de üstüne üstlük santrafor yok takımda. aykut'la harcadığımız zamana üzülüyorum, bir de utanmaz herifler aykut olsa fenerbahçe gol yemezdi diyorlar hala. ulan vardar'a elendik aykut'la daha ötesi mi var. vardar ulan. aykut efendinin o rezaletin ardından bırak fenerbahçe'yi teknik direktörlüğü bırakması gerekirken hala aykut diyorlar ya.<br/><br/>cocu'ya güveniyoruz, cocu'nun arkasında durulursa başarılı olacağımızdan kuşku duymuyorum.
-  entry_channels: spor
-- entry_name: |
-    8 ağustos 2018 ordu sel felaketi
-  entry_id:  80039378
-  entry_writer: hadi cocuklar sagdan bunalttik
-  entry_fav_count: 66
-  entry_content: |
-    (bkz: <a class="b" href="/?q=karadeniz+sahil+yolu">karadeniz sahil yolu</a>)<br/><br/>doga her zaman kazanir. sen yol yabiyoruz diye agaclari keser, sehirle deniz arasina betonu doker, tabiati katledersen, yagan yagmurda mahsur da kalirsin, yaptigin yol da basina coker.
-  entry_channels: haber
-- entry_name: |
     deniz istanbul evlerinin yıkılması
   entry_id:  80044105
   entry_writer: bucamania
-  entry_fav_count: 62
+  entry_fav_count: 68
   entry_content: |
     gerizekalının biri demiş ki kadına senin kazandığın para helal mi ki onlara helal etmiyorsun! <br/>ulan mal oğlu mal! senin götünde helal sayacı mı var da insanların kazandığı paraya helal-haram ayrımını rahat yapabiliyorsun ... <br/><br/>kadın mağdur olmuş ve sesini duyurmak istemiş. eminim ki firma ile daha önceden irtibata geçmiştir ama demek ki bir çözüm bulamadı.
   entry_channels: haber,ekonomi
+- entry_name: |
+    hiçbir şey istemiyorken yenilecek yemek
+  entry_id:  80045105
+  entry_writer: ramone
+  entry_fav_count: 63
+  entry_content: |
+    (bkz: <a class="b" href="/?q=patates+k%c4%b1zartmas%c4%b1">patates kızartması</a>)<br/><br/>hayır diyeni görmedim henüz.
+  entry_channels: yeme-içme
 - entry_name: |
     kokoreç
   entry_id:  80019835
@@ -147,13 +163,13 @@ data:
     daimi müşterisi olduğum kokoreççiye “usta senin kadar iyi yapan yok bu işi. sırrı nedir?” diye sordum. <br/>“onlar çok yıkıyordur bağırsağı” dedi.<br/>güldüm ve yemeye devam ettim.
   entry_channels: yeme-içme
 - entry_name: |
-    hiçbir şey istemiyorken yenilecek yemek
-  entry_id:  80045105
-  entry_writer: ramone
-  entry_fav_count: 58
+    en iyi politik rock şarkıları
+  entry_id:  80035740
+  entry_writer: didierdrogba07
+  entry_fav_count: 51
   entry_content: |
-    (bkz: <a class="b" href="/?q=patates+k%c4%b1zartmas%c4%b1">patates kızartması</a>)<br/><br/>hayır diyeni görmedim henüz.
-  entry_channels: yeme-içme
+    yeni nesil türkçe rock müzikte çok fazla örneğini göremeyiz.<br/><br/>(bkz: <a class="b" href="/?q=cambaz">cambaz</a>)<br/>(bkz: <a class="b" href="/?q=kimdir+o">kimdir o</a>)
+  entry_channels: siyaset,anket,müzik
 - entry_name: |
     meb'te profesyonel yöneticiliğe geçilmesi
   entry_id:  80030648
@@ -163,101 +179,85 @@ data:
     devlet okullarının özelleşmesi yolunda atılmış önemli bir adım. sonuçta devlet okulları ticarethane değildir fakat yönetici olarak atanacağı söylenen branşlar işletme yönetiminde uzmandırlar. hedefin bu olduğu gayet açık.
   entry_channels: haber,eğitim
 - entry_name: |
-    imamların mesleğinin yorucu yanları
-  entry_id:  80040942
-  entry_writer: kisa camel
-  entry_fav_count: 46
-  entry_content: |
-    günde beş vakit namaz kıldırıyor. <br/><br/>sabah namazı : 10 dakika<br/>öğle namazı: 15 dakika<br/>ikindi namazı: 10 dakika<br/>akşam namazı: 8 dakika<br/>yatsı namazı: 20 dakika<br/><br/>toplam günlük çalışma süresi: yaklaşık 1 saat<br/><br/>boş vakti bol bir meslek. 3500 lira da maaşı var. yorucu bir yan bulamadım.
-  entry_channels: 
-- entry_name: |
-    abd'yi bombalayıp doları düşürmek
-  entry_id:  80042085
-  entry_writer: vosvogen kasap
-  entry_fav_count: 44
-  entry_content: |
-    bir bomba kaç dolar amk
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    türk gencinin ömrünü mahveden üç şey
-  entry_id:  80043793
-  entry_writer: diggity
-  entry_fav_count: 33
-  entry_content: |
-    1) şark-islam kültürü<br/>2) kalitesiz eğitim<br/>3) bütün memlekete sirayet etmiş vizyonsuzluk. <br/><br/>bunlardan kurtulursanız/bunları aşarsanız, hem dünya vatandaşı olursunuz hem de tüm gelişmelere ve dünyaya ayak uydurursunuz.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    nerelisin sorusuna izmir diyen manisalı
-  entry_id:  80040872
-  entry_writer: nutellapilsen
-  entry_fav_count: 31
-  entry_content: |
-    gerçekten böyle bi arkadaşım vardı. ortamlarda herkes izmirli kız olarak bilirdi kendisini ama aslında doğma büyüme manisa salihlili.<sup class="ab"><a title="(bkz: salihlili ne tatlı)" href="/?q=salihlili+ne+tatl%c4%b1" data-query="salihlili ne tatlı">*</a></sup>
-  entry_channels: ilişkiler
-- entry_name: |
     cebeci'den kızılay'a yürümek
   entry_id:  80047775
   entry_writer: ratinho
-  entry_fav_count: 31
+  entry_fav_count: 42
   entry_content: |
     önemli bir karar almak ve ufak çaplı pek çok sorunu çözmek için başarısı kanıtlanmış bir çözüm yolu.
   entry_channels: edebiyat,sağlık
 - entry_name: |
-    alfa romeo giulietta
-  entry_id:  80041869
-  entry_writer: longitudinale posteriore
-  entry_fav_count: 29
+    türk gencinin ömrünü mahveden üç şey
+  entry_id:  80043793
+  entry_writer: diggity
+  entry_fav_count: 35
   entry_content: |
-    annesini giulietta’da sikmislere dert olan guzel otomobil.
-  entry_channels: otomotiv
+    1) şark-islam kültürü<br/>2) kalitesiz eğitim<br/>3) bütün memlekete sirayet etmiş vizyonsuzluk. <br/><br/>bunlardan kurtulursanız/bunları aşarsanız, hem dünya vatandaşı olursunuz hem de tüm gelişmelere ve dünyaya ayak uydurursunuz.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi itiraf
+  entry_id:  80019171
+  entry_writer: ver bi la minor
+  entry_fav_count: 35
+  entry_content: |
+    6 ağustos 2018. hayatımın çok önemli bir dönüm noktası. hayatımda bu derece korktuğum üç günden biri.<br/><br/>neredeyse sakat kalıyordum sözlük. hali saha macinda ters bir sekilde düşerek kalça omurgamı kırdım. güç bela doğrulmaya çalışırken ayaklarımı kontrol ettim. his kaybi olup olmadigina baktim. 5 dk sonra belimi bile oynatamaz bir halde acile sevk edildim. gece hastanede yatarken havalandırma menfezindeki boşluklara boş boş bakıp bir daha hiç yürüyemeyeceğimi düşündüm. bu esnada yaradanın insanı bu gibi imtihanlara tabi tuttugunu düşündüm. çünkü son zamanlarda hayatta bana verilen nimetlerin farkina varmadan, gerekli gereksiz birçok şeyden dert yanıp hayıflanıyordum. dertsiz başıma dert arıyordum adeta. ardından doktor geldi ve pelvis omurgamda kırık olduğunu yaklasik 12 hafta korse takmami ve yatmamı söyledi. beyin cerrahi da herhangi sinirsel bir deformasyonun olmadigini zamanla kirigin iyilesecegini soyledi. o an ki mutlulugumu tarif dahi edemem sözlük. 10 saat önce benim icin gayet doğal bir aktivite olan yürümenin bana lütuf geldiği o anı tarif dahi edemem. nankörlüklerimin kefareti gibi gördüm bu süreci. çok ama çok korktum. sedyede dümdüz tahta bir levhada 10 saat vucudumun her yeri agridan uyusuna kadar yattim. ayni odada makineye bagli bir hastayla saatlerce kaldım ve aldığımız nefesin bile ne kadar kıymetli oldugunun bir kez daha farkına vardım.<br/><br/>son tahlilde, ömür denilen kısacık müddette sahip olamadığınız, kıymetli gibi görünen şeylerden daha çok, sahip olup farkına bile varmadığınız sağlığınızın kıymetini bilin. çok klişe gibi gelse de, florasan banyosu, kesif kokulu bir hastane odasında kaldığınızda o ana dek kafaya taktıklarınızın hiçbir kıymeti kalmıyor.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    nerelisin sorusuna izmir diyen manisalı
+  entry_id:  80040872
+  entry_writer: nutellapilsen
+  entry_fav_count: 32
+  entry_content: |
+    gerçekten böyle bi arkadaşım vardı. ortamlarda herkes izmirli kız olarak bilirdi kendisini ama aslında doğma büyüme manisa salihlili.<sup class="ab"><a title="(bkz: salihlili ne tatlı)" href="/?q=salihlili+ne+tatl%c4%b1" data-query="salihlili ne tatlı">*</a></sup>
+  entry_channels: ilişkiler
 - entry_name: |
     8 agustos 2018 akaryakıt istasyonundaki maganda
   entry_id:  80047473
   entry_writer: eksi peace
-  entry_fav_count: 29
+  entry_fav_count: 31
   entry_content: |
     bağlantıları araştırılsın akp il-ilçe teşkilatındaki birinin yeğenidir oğludur.<br/><br/>cezaevinden firar et, belinde silah ona sık buna sık bunca zaman yakalanma artık eşeğin kulağına su kaçırınca zahmet edip yakalasınlar ne ala memleket.<br/><br/>akp türkiyesine yakışır magandadır.
   entry_channels: haber
 - entry_name: |
-    ekşi itiraf
-  entry_id:  80018454
-  entry_writer: w ben
-  entry_fav_count: 25
-  entry_content: |
-    gözlerimin önünde <a class="b" href="/?q=%c3%a7evrimi%c3%a7i">çevrimiçi</a> oluyorlar.. elimden hiçbir şey gelmiyor.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    özer hurmacı
-  entry_id:  80048184
-  entry_writer: curufinvve
-  entry_fav_count: 24
-  entry_content: |
-    mali açıdan <a class="b" href="/?q=polonyal%c4%b1n%c4%b1n+%c3%a7ocu%c4%9fu">polonyalının çocuğu</a>na, <a class="b" href="/?q=rus%27un+%c3%a7ocu%c4%9fu">rus'un çocuğu</a>na yapamadıkları hareketleri hep <a class="b" href="/?q=trabzon+%c3%a7ocuklar%c4%b1">trabzon çocukları</a>na yapmalarına tepki vermiş de olabilir. ben özer'i ve bundan sonra haklarını bu örneğe göre alacak trabzon çocuklarını haklı buldum bir fenerbahçeli olmama rağmen.<br/><br/>"<a rel="nofollow noopener" class="url" target="_blank" href="http://trabzonspor.org.tr/tr/haberler/guncel-haberler/kamuoyuna-aciklama" title="http://trabzonspor.org.tr/tr/haberler/guncel-haberler/kamuoyuna-aciklama">dönemin yönetim kurulu tarafından futbolcu ile mutabık kalınan tazminatsız ve hatta kulübümüze 350 bin tl kâr ettirecek fesih anlaşması imzalanmamış</a>"<br/><br/>imzalasaydınız başganlar. profesyonel kulüp değil misiniz? yöneticilerinizin iş bilmezliğinin cezasını yöneticileriniz çeksin. ben olsam o imzalamayan yöneticiye dava açarım, <a class="b" href="/?q=kul%c3%bcb%c3%bc+zarara+u%c4%9fratt%c4%b1n">kulübü zarara uğrattın</a> diye. brezilyalıya nasıl ödüyorsanız türk'e de ödeyeceksiniz
-  entry_channels: spor
-- entry_name: |
     sanal seks
   entry_id:  80051155
   entry_writer: bimin aystisi
-  entry_fav_count: 21
+  entry_fav_count: 30
   entry_content: |
     (bkz: <a class="b" href="/?q=i%c3%a7eri+girdi%c4%9fimde+modemini+s%c4%b1vazl%c4%b1yordu">içeri girdiğimde modemini sıvazlıyordu</a>)
   entry_channels: ilişkiler,teknoloji
 - entry_name: |
-    hıristiyanların ıstakoz çıkarması
-  entry_id:  80048064
-  entry_writer: nerdenbileyim
-  entry_fav_count: 21
+    eski sevgilinin çocuğu
+  entry_id:  80039134
+  entry_writer: neyamanbiceliski
+  entry_fav_count: 30
   entry_content: |
-    (bkz: <a class="b" href="/?q=b%c3%bct%c3%bcn+s%c3%bcrprizi+bozdun+ya">bütün sürprizi bozdun ya</a>)
-  entry_channels: 
+    eski sevgili ve yeni eşiyle yüzlerce ortak arkadaşımız olmasından mütevellit, bugün facebook da anne babasıyla fotosunu gördüğüm minik oğlan.<br/><br/>anne baba çocuk gülerek o kadar güzel bi resim çekinmişler ki. önce özendim, sonra kıskandım o resimdeki ben olmalıydım dedim, sonra anlamsızlaştı resim. herhangi mutlu birileri oldu. sanki benim hayatım hiç çalınmamış gibi. <br/><br/>onların mutluluğunu kendi mutsuzluğumla kıyasladım. yalnızlık mutsuzluk çünkü inkar edemem. 5 yıl sonunda böyle yalnız olmamalıydım. benim de eşim ve çocuklarımla böyle mutlu anlarım olmalıydı.<br/><br/>babana olan tüm nefretime rağmen senin yüzün hep gülsün çocuk. annenle babanla bi ömür mutlu yaşa!
+  entry_channels: ilişkiler
+- entry_name: |
+    özer hurmacı
+  entry_id:  80048184
+  entry_writer: curufinvve
+  entry_fav_count: 28
+  entry_content: |
+    mali açıdan <a class="b" href="/?q=polonyal%c4%b1n%c4%b1n+%c3%a7ocu%c4%9fu">polonyalının çocuğu</a>na, <a class="b" href="/?q=rus%27un+%c3%a7ocu%c4%9fu">rus'un çocuğu</a>na yapamadıkları hareketleri hep <a class="b" href="/?q=trabzon+%c3%a7ocuklar%c4%b1">trabzon çocukları</a>na yapmalarına tepki vermiş de olabilir. ben özer'i ve bundan sonra haklarını bu örneğe göre alacak trabzon çocuklarını haklı buldum bir fenerbahçeli olmama rağmen.<br/><br/>"<a rel="nofollow noopener" class="url" target="_blank" href="http://trabzonspor.org.tr/tr/haberler/guncel-haberler/kamuoyuna-aciklama" title="http://trabzonspor.org.tr/tr/haberler/guncel-haberler/kamuoyuna-aciklama">dönemin yönetim kurulu tarafından futbolcu ile mutabık kalınan tazminatsız ve hatta kulübümüze 350 bin tl kâr ettirecek fesih anlaşması imzalanmamış</a>"<br/><br/>imzalasaydınız başganlar. profesyonel kulüp değil misiniz? yöneticilerinizin iş bilmezliğinin cezasını yöneticileriniz çeksin. ben olsam o imzalamayan yöneticiye dava açarım, <a class="b" href="/?q=kul%c3%bcb%c3%bc+zarara+u%c4%9fratt%c4%b1n">kulübü zarara uğrattın</a> diye. brezilyalıya nasıl ödüyorsanız türk'e de ödeyeceksiniz
+  entry_channels: spor
 - entry_name: |
     sinema tarihinin en iyi engelli rolleri
   entry_id:  80049089
   entry_writer: unplug the brain
-  entry_fav_count: 16
+  entry_fav_count: 21
   entry_content: |
     önce hayırlı anketler demek gerek. <a class="b" href="/?q=kaiser+soze">kaiser soze</a> , <a class="b" href="/?q=the+usual+suspects">the usual suspects</a> ile katılayım.
   entry_channels: anket,sinema
+- entry_name: |
+    sabri ugan
+  entry_id:  80034313
+  entry_writer: elm sokagi sakini
+  entry_fav_count: 20
+  entry_content: |
+    ey beinsports şu adamı al sa şampiyonlar ligi yıllar önce kaldığı yerden devam etsin.<br/><br/>onun sesinin olmadığı bir şampiyonlar ligi maçı tuzsuz pilava, sergensiz beşiktaş'a, şekersiz coca cola'ya, 1.4 motorlu mercedes'e benzer.
+  entry_channels: spor,tv
 - entry_name: |
     yazarların cüzdanlarında taşıdığı garip nesneler
   entry_id:  80020341
@@ -267,37 +267,37 @@ data:
     gerçekten sevdiğim tek kadınla gittiğimiz konserin bileti.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    sinop'ta nük. santral için haritadan silinen orman
-  entry_id:  80031542
-  entry_writer: meleutheria
+    ssg'nin berrak tüzünataç ile ilgili attığı tweet
+  entry_id:  80052527
+  entry_writer: celikk
+  entry_fav_count: 12
+  entry_content: |
+    hayatımda bundan daha saçma bir yaklaşım görmedim. ssg'nin daha önce de farklı olabilmek, en ilginç yaklaşımı yapabilmek adına değişik düşünceler sergilediğini görmüştüm ama sanırım bu kadar zorlama, bu kadar saçma sapanını ilk kez görüyorum. <br/><br/>"işte aralarındaki ilişkiyi değiştirecek hiçbir eylem yapmamasını beklemek de karşılık beklentisi."<br/><br/>şu cümleyi kurduran kafanın ne olduğunu çok merak ediyorum.
+  entry_channels: haber
+- entry_name: |
+    ankara'da yaşayan yazarlar veritabanı
+  entry_id:  80048057
+  entry_writer: keskinustura
   entry_fav_count: 11
   entry_content: |
-    yorumlardan biri : çöpünü çöp kutusuna atmaktan aciz adamlar çevrecilik taslıyor elektriği bile ithal ediyoruz ağaç kesilir yenisi dikilir büyütmeye gerek yok<br/><br/>s2ker misin sonraya mı bırakırsın?
-  entry_channels: haber
+    (bkz: <a class="b" href="/?q=angaral%c4%b1+g%c4%b1zlar+eqlesin+beni">angaralı gızlar eqlesin beni</a>)
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    en yakışıklı erkeklerin trabzon'dan çıkması
+  entry_id:  80051338
+  entry_writer: basrol
+  entry_fav_count: 8
+  entry_content: |
+    yazar trabzonlu bir erkek heralde başka açıklaması yok ayrıca çoğunluğu hanzo olurlar (istisnalar yeşillendirmesin)
+  entry_channels: 
 - entry_name: |
     girişi mükemmel parçalar
   entry_id:  80019238
   entry_writer: atcamdeyipatamayan
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     blur <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/SSbBvKaM6sk" title="https://youtu.be/SSbBvKaM6sk">song 2</a><br/>franz ferdinand <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LzPplBE75tQ" title="https://youtu.be/LzPplBE75tQ">this fire</a><br/>sıralama uzar yazılmış ama..<br/>the white stripes <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/y9ANOzmSKQg" title="https://youtu.be/y9ANOzmSKQg">seven nation army</a>
   entry_channels: anket,sanat,müzik
-- entry_name: |
-    en yakışıklı erkeklerin trabzon'dan çıkması
-  entry_id:  80051274
-  entry_writer: turkozelotes
-  entry_fav_count: 6
-  entry_content: |
-    bu istatistiği çıplak gözle mi yaptınız sayın yazar :)
-  entry_channels: 
-- entry_name: |
-    ankara'da yaşayan yazarlar veritabanı
-  entry_id:  80048348
-  entry_writer: besiktasjk
-  entry_fav_count: 5
-  entry_content: |
-    daha yeni geldim ama pek isindim sizlere. <br/>angaranin beybileri...
-  entry_channels: ekşi-sözlük
 - entry_name: |
     ak parti döneminde türkiye ekonomisi daralmadı
   entry_id:  80049471
@@ -305,6 +305,38 @@ data:
   entry_fav_count: 5
   entry_content: |
     doğru daralmadi genişledi. o kadar genişledi ki resmen orospu amına döndü. <br/><br/>eskiden küçük bir pipi zor giriyordu şimdi iki üç zenci yarragini aynı anda alabiliyor. o kadar geniş bir ekonomimiz var.<br/><br/>eskiden o küçük pipi sikerken acıyordu şimdi üç zenci aynı anda sokuyor bizim millette tık yok. acimiyor çok genişledi ekonomi.
+  entry_channels: 
+- entry_name: |
+    yurtdışında taksitin olmaması
+  entry_id:  80051822
+  entry_writer: thought without words
+  entry_fav_count: 3
+  entry_content: |
+    cahil beyanı.<br/><br/>(bkz: <a class="b" href="/?q=ukrayna">ukrayna</a>)<br/><br/>özellikle elektronik ve beyaz eşya satan mağazalar bankalarla anlaşma yapıp kendi içlerinde 24, 36 aya kadar vadeli alışveriş kredisi veriyorlar. bir şeyi yazmadan önce araştırın.
+  entry_channels: 
+- entry_name: |
+    sözlükçülerin karadeniz'deki selleri takmaması
+  entry_id:  80050106
+  entry_writer: matematikkocu
+  entry_fav_count: 3
+  entry_content: |
+    kim takıyor ki?<br/>sel dediğin doğal afet diye geçer ilkokul hayat bilgisi kitaplarında.<br/>bir yerde her sene doğal afet oluyorsa ve hala hasar oluşuyorsa <br/>ya tedbir alınmayacak kadar önemsizdir, ya da tedbir alamayacak kadar aptallardır.
+  entry_channels: 
+- entry_name: |
+    beyaz buzdolabı denince akla ilk gelen araba
+  entry_id:  80051387
+  entry_writer: fast
+  entry_fav_count: 3
+  entry_content: |
+    (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bcn+bokunun+%c3%a7%c4%b1kmas%c4%b1">sözlüğün bokunun çıkması</a>)
+  entry_channels: 
+- entry_name: |
+    sokak köpeklerinin hayvansever adamı parçalaması
+  entry_id:  80052110
+  entry_writer: durmadan belgesel izlerim
+  entry_fav_count: 2
+  entry_content: |
+    onlar sokak köpeği değil.
   entry_channels: 
 - entry_name: |
     eski sevgiliye söylemek istenen şeyler
@@ -315,21 +347,13 @@ data:
     eğer terk edildiyseniz ne deseniz boş, söylemeyin gözünde daha da değeriniz düşmesin. artık geri de dönmüyor gidenler.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ekşi sözlüğün karadeniz'deki selleri takmaması
-  entry_id:  80050106
-  entry_writer: matematikkocu
+    edip cansever
+  entry_id:  80043333
+  entry_writer: veronica supertramp
   entry_fav_count: 2
   entry_content: |
-    kim takıyor ki?<br/>sel dediğin doğal afet diye geçer ilkokul hayat bilgisi kitaplarında.<br/>bir yerde her sene doğal afet oluyorsa ve hala hasar oluşuyorsa <br/>ya tedbir alınmayacak kadar önemsizdir, ya da tedbir alamayacak kadar aptallardır.
-  entry_channels: 
-- entry_name: |
-    yurtdışında taksitin olmaması
-  entry_id:  80052204
-  entry_writer: wickfox
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=vurmay%c4%b1n+%c3%b6ld%c3%bc">vurmayın öldü</a>)
-  entry_channels: 
+    <a class="b" href="/entry/80029198">#80029198</a><br/>"ben sana uyandım yine,<br/>sen başkalarıyla uyurken"<br/><br/><a class="b" href="/entry/80028037">#80028037</a><br/>“öyle bir çık ki karşıma her baktığımda ilk defa görüyormuşum gibi, az kalsın ölüyormuşum gibi hissedeyim seni."<br/><br/>şeklinde uyduruk cümleler yazmamış olan şair.
+  entry_channels: edebiyat
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  80019310
@@ -338,14 +362,6 @@ data:
   entry_content: |
     ömrüm seni sevmekle<br/>(bkz: <a class="b" href="/?q=m%c3%bcnip+utand%c4%b1">münip utandı</a>)<br/><br/>naiflikle beslenenlere..
   entry_channels: anket,müzik
-- entry_name: |
-    gotik olmak için gerekenler
-  entry_id:  80050683
-  entry_writer: nenikiamk
-  entry_fav_count: 1
-  entry_content: |
-    öncelikle emo lardan farklı olduğunun anlaşılması<br/><br/>gotik insanlar dünyanın boku yemiş olduğunu bilirler<br/><br/>emolar ise kendilerinin boku yemiş olduğunu bilirler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=WWP_vEcWqMo" title="https://www.youtube.com/watch?v=WWP_vEcWqMo">en güzel anlatımı tabiki de south park yapmış</a>
-  entry_channels: 
 - entry_name: |
     chp ye alternatif genel başkan önerileri
   entry_id:  80041109
@@ -379,27 +395,11 @@ data:
     (bkz: <a class="b" href="/?q=salma+hayek">salma hayek</a>)<br/><br/>sokarim boyunuza, ömrümü veririm bu kadina.
   entry_channels: sağlık
 - entry_name: |
-    bir kere yükselen bayrak bir daha inmez
-  entry_id:  80049567
-  entry_writer: bakhele sen bugun cok komiksin ha
+    ben öteki erkeklerden farklıyım erkeği
+  entry_id:  80053078
+  entry_writer: harlemzencisi
   entry_fav_count: 0
   entry_content: |
-    iyi parti'nin 2. olağanüstü kurultayı için belirlediği <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/iyiparti/status/1027213417302478848" title="https://twitter.com/iyiparti/status/1027213417302478848">slogandır</a>. bu slogan normalde azerbaycan'ın kurucusu mehmet emin resulzade'nin sözü; anladığım kadarıyla meral akşener ve iyi parti kuruluşundaki gibi türk milliyetçilerine tekrar göz kırpıyor. daha bitmedi mesajı veriyor. umarım bu kez eski hatalar tekrar edilmez ve milliyetçilerin umudu olarak görülen parti olmadığı bir şey gibi davranmaya çalışmaz.
-  entry_channels: siyaset
-- entry_name: |
-    beyaz buzdolabı denince akla ilk gelen araba
-  entry_id:  80051547
-  entry_writer: isminisormamlazim
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bcn+bokunun+%c3%a7%c4%b1kmas%c4%b1">sözlüğün bokunun çıkması</a>) serzenişine kesinlikle katıldığım fakat kendimi (bkz: <a class="b" href="/?q=renault+12+toros">renault 12 toros</a>) örneğini vermekten alakoyamadığım başlık.
+    (bkz: sen farkımı fark etmedin ya artık fark etsen de fark etmez)
   entry_channels: 
-- entry_name: |
-    ankara
-  entry_id:  80051689
-  entry_writer: batu
-  entry_fav_count: 0
-  entry_content: |
-    "<a class="b" href="/?q=oradayd%c4%b1k+ve+%c5%9fimdi+buraday%c4%b1z">oradaydık ve şimdi buradayız</a>" demek için yazmıyorum ama daha 2 gün önce oradaydım. <br/><br/>yıllar önce üniversite okumak için bulunduğum şehir bu sefer daha bunaltıcı, daha zorlu, daha kalabalık, daha yıpratıcı ve daha ölüksü geldi nedense. eve dönüş yolunda çok düşündüm. eskiden çok sevdiğim, keyifle gittiğim, kış soğuğuna, yaz kuruluğuna bile alıştığım şehir neden bu denli kötü gözüktü gözüme. acaba ben eski ben olmadığım için miydi? yoksa 15 yıl önceki uçuk gençle, şimdiki adam arasında dağlar kadar fark mı vardı? belki de son 4 gidişimde ankara'da hiçbir işimin rast gitmemesindendi her şey. sırf bu sebepten dahi, hayal kırıklıklarımın başkenti olmuş olabilirdi ankara. <br/><br/>belki psikolojik, belki nüfus artışı, belki hava. her gittiğimde, yollarında yürürken "olur ya gençliğime rastlarım, kendimin kulağını çeker, boş beleş nasihatler veririm" dediğim şehir yoktu karşımda. ankara'nın o kaotik, fakat kendini sevdiren havası gitmiş, gizemli bir güç gelip onun yerine derin bir boşluk koymuştu. matrix'te, aynaya dokunan ve kırılan gerçekliği fark eden neo ne kadar şaşkınsa ben de o kadar şaşkınım. sanki biri geldi, içimdeki ankara sevgisini elektrik süpürgesiyle topyekün çekti. ya da başka biri geldi, benim fişimi çekti.
-  entry_channels: siyaset,tarih,müzik,edebiyat,haber,yeme-içme,seyahat
 ---
