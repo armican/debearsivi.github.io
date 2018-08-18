@@ -6,7 +6,7 @@ data:
     tarihte sorulmuş en iyi soru
   entry_id:  80380998
   entry_writer: they are coming
-  entry_fav_count: 1013
+  entry_fav_count: 1020
   entry_content: |
     ozan güven : ben sana kimi siktiğini soruyor muyum?
   entry_channels: anket,tarih
@@ -14,23 +14,15 @@ data:
     çıtır sevgilinin pertten toplama çıkması
   entry_id:  80385779
   entry_writer: malbeyani
-  entry_fav_count: 545
+  entry_fav_count: 550
   entry_content: |
     genel olarak uzun ilişkiden çıkmış kendini hemen topla(mış) gibi yapan sevgili modelidir uzak durulması gerekir. ilk başlarda ulan ne güzel kız buldum diye düşünürken biraz yol yapınca işin aslı ortaya çıkar geçmiş olsun bu tip sevgililerde psikolog-psikiyatrist veya xanax kaydı bulunmaz geçmişi temizdir çünkü esnaf işi şekilde kankaları tarafından toplanmıştır.<br/>5 yıl boyunca ısınmadan yokuşa sürülmüş turbo yavaşlamadan kontak kapatılmış kesiciye girmeden vites değiştirilmemiştir ve son olarak duvara veya agaca gömerek perte çıkarılmıştır bu tip sevgililer genel olarak toplanmaz toplansa bile düzen tutmaz şasi kayıktır hadi düzen tuttu diyelim adamda heves bırakmaz bu sefer o sizi beğenmez motor aksamı komple rektefiye ister acilen elden çıkartıp daha temiz sevgililer edinilmelidir.
   entry_channels: ilişkiler
 - entry_name: |
-    suudi kralı'ndan ypg'ye 100 milyonluk destek
-  entry_id:  80388784
-  entry_writer: garipbasci
-  entry_fav_count: 400
-  entry_content: |
-    uzun uzun politika tarih falan kasmaya gerek yok.<br/><br/>(bkz: <a class="b" href="/?q=i%c3%a7ecen+%c5%9farab%c4%b1+sikecen+arab%c4%b1">içecen şarabı sikecen arabı</a>)
-  entry_channels: siyaset
-- entry_name: |
     cıbıllar her yeri cıbıl
   entry_id:  80389163
   entry_writer: kloro mloro karbon
-  entry_fav_count: 397
+  entry_fav_count: 402
   entry_content: |
     kadın bacağından tahrik olduğu için namaz kılamayan bir adet 81 yaşında lezbiyen teyze içeren video. bir de türkiye'ye baskıcı toplum derler. helal olsun teyze.
   entry_channels: tv,haber
@@ -38,7 +30,7 @@ data:
     istanbul'un arabistan olması
   entry_id:  80394016
   entry_writer: sourbeyi
-  entry_fav_count: 386
+  entry_fav_count: 401
   entry_content: |
     bayram dolayısıyla istanbul’un iyice boşalmasıyla net görülen durum. büyükada yerine heybeliada’ya gidelim daha az arap olur dedik ama maalesef. <br/><br/>gerçekten akıl, bilim, kültür ve ahlak bu insanların genetiğinde yok.
   entry_channels: anket,tarih,seyahat
@@ -46,31 +38,31 @@ data:
     06 ve 34 plakalı ayıların ege sahillerini istilası
   entry_id:  80396749
   entry_writer: gehen gehen
-  entry_fav_count: 343
+  entry_fav_count: 375
   entry_content: |
     koca koca 4x4 dağ araçlarıyla, yayaya yol verme, kaldırıma park etmeme gibi ahlâkî değerlerden bihaber, kadınıyla erkeğiyle tıpkı dağdan inmiş birer ayı misali tüm ege sahillerini istilâ etmeleri durumudur.<br/><br/>benim dapdar arnavut kaldırımlı sokaklarım, minik köylü tezgahlarım bu ayıların arabaları yüzünden zehir içinde. yaşlılarım ezilme tehlikesi içinde kordona ulaşma çabasında. <br/>allah'ım bu nasıl bir görgüsüzlüktür, bir insanın dahi dar geçebileceği romantik sokaklarıma 4x4 ile girme çabaları.<br/><br/>yığınla akpli mercedesli müteahhitler sıra sıra dizilmiş, banka kuyruğunda söylene söylene emeklisini çekmeye çalışan egeli köylü çiftçimin biricik reislerine laf söylemesine sinirlenmiş, 80 yaşındaki amcayı utanmasa dövecek vaziyete gelmiş.<br/>allah'ım bu nasıl bir sinir, bu nasıl bir pislik. gidin iğrenç arap metropolünüze. gidin yalayın reisinizi, titreşimli damadınızı. korkmayın kimse alacak değil altınızdan son model mercedes'inizi inşaat durdu diye.<br/>yeter ki defolup gidin benim küçük, balık kokan ege kasabamdan.
   entry_channels: seyahat
 - entry_name: |
-    sevgilinin karşı cins kankası ile tatile gitmesi
-  entry_id:  80389581
-  entry_writer: feyzligil
-  entry_fav_count: 278
-  entry_content: |
-    şahsen izin vereceğim olaydır. sevgilim diye tapulu malım değil neticede. istediğiyle istediği yere gidebilir istediği kadar kalabilir, beni bağlayan bi durum yok. sonuçta onun geçmişinde de yoktum değil mi, geleceğinde alacağı kararlara nasıl müdahil olabilirim ki. sonuçta artık sevgilisi olmayan, yetişkin, aklı başında bir kadın. ne yapacağını ben ona söyleyemem
-  entry_channels: ilişkiler,seyahat
-- entry_name: |
     el sıkışmadıkları için vatandaşlık verilmeyen çift
   entry_id:  80394551
   entry_writer: einsteinin kedisi
-  entry_fav_count: 278
+  entry_fav_count: 307
   entry_content: |
     "isviçre'nin lozan kentinde müslüman bir çift, karşı cinsle el sıkışmayı reddettikleri gerekçesiyle isviçre vatandaşlığı'na kabul edilmedi."<br/><br/>hayır yani gerçekten, kültürüne düşman olduğun bir ülkeye gidip neden vatandaşlık almak ister bu tipler anlayamıyorum!? insanlar da haliyle kendilerinin doğru buldukları bir şeyi yanlış olarak gören organizmaların kültür şoku yaşamamaları için en doğrusunu yapıyorlar. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bbc.com/turkce/45232111" title="https://www.bbc.com/turkce/45232111">kaynak</a>
   entry_channels: siyaset,haber
 - entry_name: |
+    sevgilinin karşı cins kankası ile tatile gitmesi
+  entry_id:  80389581
+  entry_writer: feyzligil
+  entry_fav_count: 280
+  entry_content: |
+    şahsen izin vereceğim olaydır. sevgilim diye tapulu malım değil neticede. istediğiyle istediği yere gidebilir istediği kadar kalabilir, beni bağlayan bi durum yok. sonuçta onun geçmişinde de yoktum değil mi, geleceğinde alacağı kararlara nasıl müdahil olabilirim ki. sonuçta artık sevgilisi olmayan, yetişkin, aklı başında bir kadın. ne yapacağını ben ona söyleyemem
+  entry_channels: ilişkiler,seyahat
+- entry_name: |
     avm'lerde mescitlerin en ücra yerlerde olması
   entry_id:  80387456
   entry_writer: entera basmis bulundum
-  entry_fav_count: 200
+  entry_fav_count: 204
   entry_content: |
     ibadet ediyorum ama kimseye gösteremiyorum haykırışıdır. bunu söyleyen şüphe içindedir, muhtemelen ibadet boşa gidiyor diye düşünmekte, en azından millet görsün istemektedir.
   entry_channels: siyaset
@@ -78,7 +70,7 @@ data:
     ne kadar seks bağımlısısınız testi
   entry_id:  80394439
   entry_writer: uygesi
-  entry_fav_count: 196
+  entry_fav_count: 202
   entry_content: |
     ya onedio bi siktir git allasen.
   entry_channels: anket,ilişkiler
@@ -86,7 +78,7 @@ data:
     masada erkek varken garsonla muhatap olan kadın
   entry_id:  80391271
   entry_writer: quansis
-  entry_fav_count: 181
+  entry_fav_count: 188
   entry_content: |
     (bkz: <a class="b" href="/?q=dedi+s%c4%b1%c4%9f%c4%b1r+adam">dedi sığır adam</a>)<br/><br/>tanım: ağzı olan kadındır. konuşmayı biliyordur.
   entry_channels: ilişkiler,yeme-içme
@@ -94,7 +86,7 @@ data:
     tereyağı kullanmanın köylülük belirtisi olması
   entry_id:  80389557
   entry_writer: endless confusion
-  entry_fav_count: 179
+  entry_fav_count: 180
   entry_content: |
     (bkz: <a class="b" href="/?q=anan%c4%b1n+am%c4%b1">ananın amı</a>)
   entry_channels: anket,yeme-içme
@@ -102,7 +94,7 @@ data:
     josef stalin'e sorulacak tek soru
   entry_id:  80389305
   entry_writer: namidigerbabis2
-  entry_fav_count: 162
+  entry_fav_count: 165
   entry_content: |
     hitler'den hiçbir farkınız yokken tarih sizi nasıl affetti, bunu nasıl başardınız?
   entry_channels: anket,tarih
@@ -110,7 +102,7 @@ data:
     99 bin liralık notebook
   entry_id:  80384222
   entry_writer: renksiz hayat
-  entry_fav_count: 153
+  entry_fav_count: 156
   entry_content: |
     yorumlardaki tam bir fiyat performans ürünü tanımlaması yaran notebook.
   entry_channels: teknoloji
@@ -118,7 +110,7 @@ data:
     türkiye'nin en güzel ilçesi
   entry_id:  80390740
   entry_writer: nickibitli
-  entry_fav_count: 148
+  entry_fav_count: 153
   entry_content: |
     datça'dır efendim
   entry_channels: anket,tarih,seyahat
@@ -126,7 +118,7 @@ data:
     iphone'un en beğenilmeyen özelliği
   entry_id:  80392006
   entry_writer: ingiliz emre
-  entry_fav_count: 99
+  entry_fav_count: 103
   entry_content: |
     ses açma-kısma tuşlarına basınca ekranın orta yerinde ses seviyesini kocaman bir kutu olarak göstermesi. video izliyorsun misal, sesi açıyorsun, videonun yarısı kapanıyor ve hemen de kaybolmuyor meret. illa videoyu durdurmak zorunda kalıyorsun kimi zamanlar kaçırdığın kısmı tekrar izlemek için.
   entry_channels: anket,teknoloji
@@ -139,68 +131,68 @@ data:
     kusura bakmayın ama siktirin gidin arabistan'a. rahatlıkla burkanızı giyin. ne bok yemeye adamların habitatını bozuyorsunuz? tabii, hem ayranim dökülmesin hem götüm sikilmesin. <br/>git bakalım cidde havalimanında erkek halinle diz altı şort giy, polis seni bekletiyor pantalon giyene kadar, git kardeşim, bak şuradan siktir git! yettiniz amk.
   entry_channels: siyaset,haber,moda
 - entry_name: |
-    elimizde örneği olsun f-35'i biz yapalım
-  entry_id:  80392620
-  entry_writer: quat
-  entry_fav_count: 92
-  entry_content: |
-    zeka düştükçe özgüven artıyor.<br/><br/>anca maketini yaparsın onu da yanlış yapma ihtimalin yüzde doksan dokuz.
-  entry_channels: bilim,programlama,teknoloji,havacılık
-- entry_name: |
-    frankfurt'ta gözaltına alınan türk asıllı vatandaş
-  entry_id:  80396244
-  entry_writer: rafaelenrique
-  entry_fav_count: 90
-  entry_content: |
-      (nokta)<br/><br/>edit : kaynak paylaşırsan sevinirim, galeyana getirme amacıyla yapılmış bir durum gibi kalmasın.<br/><br/>edit 2 : böyle bir haber bulamadım, kaynak gelirse entry i yazıcam tekrar. sonra biz şahsen hedef almış oluyoruz bu (olmayan) şahsı !
-  entry_channels: siyaset,haber
-- entry_name: |
     askerde yenmiş en kallavi küfür
   entry_id:  80388849
   entry_writer: ersensener
-  entry_fav_count: 68
+  entry_fav_count: 78
   entry_content: |
     kufur degil de, kufurden beterini hatirliyorum.<br/><br/>genc bir astsubay (iyi huylu, temiz bir cocuk), mevzuyu bilmiyorum sekiz on askeri toplamis firca/nasihat ediyor. ben olayi bilmiyorum. bir sebepten acaip mesgulum onume bakmaya dikkatimi dagitmamaya calisiyorum ama ister istemez kulak misafiri de oluyorum.<br/><br/>askerlerin arasinda benim unye ya da fatsa'li (unuttum hangisiydi) mustafa da var. mustafa epileptik, aslinda kafa zehir gibi ama beynin elektrigi gidip geldigi icin disaridan deli gibi gozukuyor. normalde askerlige elverisli degil ama findik tuccari babasi "aman ogluma curuk demesinler" diye bir yolunu bulup aldirmis askere.<br/><br/>herneyse assubayim firca/nasihat tiradini (muhtemelen bayagi hakli nedenlerle) atarken;<br/><br/>-ya cocuklar, hepinizi az cok taniyorum. aranizda evli adam var. hepiniz sivilde isi gucu olan adamlarsiniz. merak ediyorum, su yaptiginizi sivilde yapar miydiniz?<br/><br/>mustafa cevaplar;<br/><br/>-ko ko ko ko komtanim! b b b biz si si si si sivilde ye ye ye yesil do do don da gi gi gi giymiyorduk!<br/><br/>ben orada puskurdum, assubay bozmadi, bunlari siktirle kovaladi ama askerleri yolladiktan sonra mustafa'dan yedigi ayara bir saat guldu.
   entry_channels: anket
 - entry_name: |
-    18 ağustos 2018 akp kongresinde açıklanacak süpriz
-  entry_id:  80394222
-  entry_writer: anilebe
-  entry_fav_count: 66
-  entry_content: |
-    villarreal - real sociedad iy 2/ 1
-  entry_channels: siyaset
-- entry_name: |
     ms-dos bilen insan
   entry_id:  80389898
   entry_writer: forrestgump
-  entry_fav_count: 64
+  entry_fav_count: 70
   entry_content: |
     kendimden biliyorum, yaşı 30 üzeridir.
   entry_channels: programlama,teknoloji
 - entry_name: |
+    18 ağustos 2018 akp kongresinde açıklanacak süpriz
+  entry_id:  80394222
+  entry_writer: anilebe
+  entry_fav_count: 68
+  entry_content: |
+    villarreal - real sociedad iy 2/ 1
+  entry_channels: siyaset
+- entry_name: |
     2018 bedelli askerlik celp dönemleri
   entry_id:  80395656
   entry_writer: gardropfuatingardrobu
-  entry_fav_count: 62
+  entry_fav_count: 65
   entry_content: |
     kafalarına göre at koşturuyorlar, ulan hani 3 kasımdan sonraydı tüm celp dönemleri.
   entry_channels: siyaset
 - entry_name: |
+    giuliano victor de paula
+  entry_id:  80396145
+  entry_writer: eet smakelijk
+  entry_fav_count: 63
+  entry_content: |
+    takımdaki piyasa değeri en yüksek 2 oyuncudan biri arap ligine satılıyor ve buna bile kara para aklama yaftası yapıştırılıyor. hasan aliyi 10 milyon euroya satarsın anlarım da bu adamın arap ligine iyi bir paraya transfer olmasının altında bir şey aramak için zihinsel engelli ya da fener düşmanlığından gözü kör olmak lazım.
+  entry_channels: spor
+- entry_name: |
     öleceğini bile bile hayvan besleyen insan
   entry_id:  80398392
   entry_writer: dreamfactory
-  entry_fav_count: 59
+  entry_fav_count: 62
   entry_content: |
     kedim 10 yaşında. kediler en fazla 12-15 yaşına kadar yaşayabiliyorlar. <br/>çok bir zamanımız kalmadı yani, bir gün öleceğini biliyorum.<br/><br/>onu yavruyken aldım, sokakta araba çarpmış, arka bacakları kırılmış, bir arkadaşım alıp tedavi ettikten sonra geri sokağa salacaktı çünkü zaten iki kedisi vardı ve karısı hamileydi, üçüncü bir kediye bakamayacaklardı.<br/>"sen alır mısın yoksa bu sokaklarda telef olacak, salak çünkü, her pisipisi diyene koşuyor sağına soluna bakmadan" dedi.<br/>"alırım" dedim. 10 yıl oldu.<br/><br/>benimle güzel bir hayatı oldu, şımardı, oynadı, hiç aç kalmadı, hiç üşümedi, bunalınca vantilatörün, klimanın karşısına, betona yattı, köpeklerden kaçmak zorunda kalmadı. çok sevildi.<br/><br/>bari birinin hayatının güzel geçmesini sağladım. <br/><br/>gözlerim doldu, ölürse çok acı çekerim.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    giuliano victor de paula
-  entry_id:  80396145
-  entry_writer: eet smakelijk
-  entry_fav_count: 59
+    özel hukuk mezunlarının da avukat olması
+  entry_id:  80382864
+  entry_writer: ortaboypizza
+  entry_fav_count: 61
   entry_content: |
-    takımdaki piyasa değeri en yüksek 2 oyuncudan biri arap ligine satılıyor ve buna bile kara para aklama yaftası yapıştırılıyor. hasan aliyi 10 milyon euroya satarsın anlarım da bu adamın arap ligine iyi bir paraya transfer olmasının altında bir şey aramak için zihinsel engelli ya da fener düşmanlığından gözü kör olmak lazım.
+    özel genel meselesi değil bu. sınavsız avukat olunmasıdır mesele
+  entry_channels: spoiler
+- entry_name: |
+    galatasaray'ın twitter'daki emre akbaba paylaşımı
+  entry_id:  80401650
+  entry_writer: retrospektekuler
+  entry_fav_count: 60
+  entry_content: |
+    <a class="b" href="/?q=kad%c4%b1k%c3%b6y">kadıköy</a> ve <a class="b" href="/?q=k%c3%b6pr%c3%bcden+%c3%b6nceki+son+%c3%a7%c4%b1k%c4%b1%c5%9f">köprüden önceki son çıkış</a> tabelaları gibi zekice göndermeler barındıran video klip. güzel olmuş.. <br/><br/>birbirinize küfretmeyin. onun yerine <a class="b" href="/?q=ona+k%c3%bc%c3%a7%c3%bck+g%c3%b6ndermeler+yap%c4%b1n">ona küçük göndermeler yapın</a>.
   entry_channels: spor
 - entry_name: |
     sosyalizmin yaldır yaldır gelmesi
@@ -211,26 +203,18 @@ data:
     nasyonal sosyalizm mi yoksa?<br/><br/>edit:imla
   entry_channels: siyaset,anket
 - entry_name: |
-    alınacak evde olması istenen ekstrem özellikler
-  entry_id:  80391432
-  entry_writer: dovhakin dragonborn
-  entry_fav_count: 56
+    ölümün farkında olan tek canlının insan olması
+  entry_id:  80382811
+  entry_writer: stonetemplepilots
+  entry_fav_count: 58
   entry_content: |
-    duş şıkır şıkır akacak. türkiye de ne yazık ki en ekstrem özellik bu. duş her yerde şıkır şıkır akmıyor. böyle basınçlı olacak, küfür edip, "ağzına sıçarım senin" dercesine akacak.
-  entry_channels: anket,teknoloji
-- entry_name: |
-    kekonun en az olduğu tatil bölgeleri veritabanı
-  entry_id:  80398614
-  entry_writer: sancar
-  entry_fav_count: 52
-  entry_content: |
-    ulu orta yazmayın lan. <br/>sonra çıkıp gelecekler.
-  entry_channels: anket,seyahat
+    iddiali bir sözdür. öleceğini anlayıp kuytu köşeye çekilen aslanlarla ilgili bir belgesel izlemıştim. insanda bu düzeyde bir farkındalık yok.
+  entry_channels: bilim
 - entry_name: |
     şarabın çağdışı bir içecek olması
   entry_id:  80397905
   entry_writer: herkez yalnis
-  entry_fav_count: 51
+  entry_fav_count: 55
   entry_content: |
     şarap, yeryüzünün tartışmasız en mükemmel alkollü içeceğidir.<br/><br/>şarap, tarihte bilinen ilk alkollü içkidir. her devirde içilmiştir. doğumlarda, ölümlerde, savaşlarda, bayramlarda, kutlamalarda... her kesime hitap eder. zengine, fakire, kadına, erkeğe, yaşlıya, gence, kimsesize, yalnızca, dertliye ama en çok aşığa yakışır...<br/><br/>çok nezih bir mekanda içebileceğin gibi, şişe elinde deniz kenarında da içebilirsin. en güzeli de sevgiliyle beraber içilenidir. hiç tanımadığın birine aşkın için içileni daha da makbuldür. <br/><br/>sevgili, seninle ben pergel gibiyiz: <br/>iki başımız var, bir tek bedenimiz. <br/>ne kadar dönersem döneyim çevrende: <br/>er geç baş başa verecek değil miyiz?<br/><br/>dünyada akla değer veren yok madem, <br/>aklı az olanın parası çok madem, <br/>getir şu şarabı, alsın aklımızı: <br/>belki böyle beğenir bizi el alem!<br/>(bkz: <a class="b" href="/?q=%c3%b6mer+hayyam">ömer hayyam</a>)<br/><br/>edit: tarihteki ilk alkollü içki biraymış. yazar arkadaşlar bilgilendirdi.
   entry_channels: tarih,yeme-içme
@@ -238,7 +222,7 @@ data:
     bedelli askerlik
   entry_id:  80388576
   entry_writer: sutsuz kahve
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
     21 güne laf eden insanlar aptalsa bile, bir şekilde çıkacağı belli olan bedelliyi beklemeyip askere giden, sonra da askerde olmaktan yakınan insanlar kadar aptal değildir.
   entry_channels: siyaset,haber,ekonomi
@@ -259,10 +243,18 @@ data:
     sidik yarışına kurban giden diğer futbolculardan farklı olarak gönül verdiği renklere imza atmış olan futbolcu. taraftarı olduğu kulüpte taraftarları arkasına alıp yeteneğini sahaya yansıtacağını düşünüyorum. şampiyonlar ligi olmasa da ligde fark yaratacaktır.<br/><br/>not: bjk
   entry_channels: spor
 - entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  80390825
+  entry_writer: sana bir sey sorabilir miyim
+  entry_fav_count: 39
+  entry_content: |
+    orospu kelimesinin farsça, fahişe kelimesinin arapça olması ve öztürkçede kadınları bu şekilde etiketleyecek, tanımlayacak bir kelimenin olmaması.
+  entry_channels: spor,siyaset,anket,ilişkiler,tv,ekşi-sözlük,bilim,sanat,tarih,programlama,müzik,sinema,edebiyat,oyun,teknoloji,sağlık,haber,yeme-içme,otomotiv,motosiklet,moda,magazin,eğitim,ekonomi,havacılık,spoiler,seyahat
+- entry_name: |
     30 yaşından sonra anlaşılan gerçekler
   entry_id:  80386654
   entry_writer: hayvan gibi sey yapiyosunuz
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     mezarlarin yasayan insanlardan cok daha kalabalık oldugu, ölümün gerçekliği, calan her telefonun bir yakinin ölüm haberi olabileceğidir.<br/><br/>cok konusan insanlara tahammülün azalmasi, bazen sessizligin konuşmaktan daha aciklayici olduğunu gorebilmektir.<br/><br/>cocuk sahibi olduktan sonra, artik bir evin kızı&amp;oglu veyahut ozgur tek tabanca ruhlu bir gezgin <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> degil; o cocugun annesi&amp;babasisinizdir. uzerinizde her zaman sorumluluk vardir, bu sorumlulugun tatili, mesai saati, gecesi, gunduzu yoktur. herkes cocuk sahibi olmak zorunda degil. sorumsuz insanlarla evlenmeyin. bir adam&amp;kadin neyse odur, değişmez. <br/><br/>paranizi lüzumsuz insanlar icin bosa harcamamaniz gerektiğini, siz dara dustugunuzde el attığınız onca insanin sizle irtibati kesecegini ogrenirsiniz. dostluklarin cogu cikar uzerinedir, cikar bitince veyahut catisinca dostluklar biter.
   entry_channels: anket,ilişkiler,eğitim
@@ -270,50 +262,34 @@ data:
     kofi annan
   entry_id:  80391209
   entry_writer: ggm
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     öldüğüne dair haberler paylaşılmaktadır.<br/><br/>onu hep böyle hatırlayacağız:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8FTMYEIWEmHto9637Z8FS7V9HXmnCqyBW51HkqmInzkIP2sd6ci4ZWRef7A" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8FTMYEIWEmHto9637Z8FS7V9HXmnCqyBW51HkqmInzkIP2sd6ci4ZWRef7A">https://encrypted-tbn0.gstatic.com/…p2sd6ci4zwref7a</a>
-  entry_channels: siyaset
-- entry_name: |
-    galatasaray'ın twitter'daki emre akbaba paylaşımı
-  entry_id:  80401650
-  entry_writer: retrospektekuler
-  entry_fav_count: 31
-  entry_content: |
-    <a class="b" href="/?q=kad%c4%b1k%c3%b6y">kadıköy</a> ve <a class="b" href="/?q=k%c3%b6pr%c3%bcden+%c3%b6nceki+son+%c3%a7%c4%b1k%c4%b1%c5%9f">köprüden önceki son çıkış</a> tabelaları gibi zekice göndermeler barındıran video klip. güzel olmuş.. <br/><br/>birbirinize küfretmeyin. onun yerine <a class="b" href="/?q=ona+k%c3%bc%c3%a7%c3%bck+g%c3%b6ndermeler+yap%c4%b1n">ona küçük göndermeler yapın</a>.
-  entry_channels: spor
-- entry_name: |
-    türkiye'nin demografisinin kasten değiştirilmesi
-  entry_id:  80396200
-  entry_writer: zazzle
-  entry_fav_count: 29
-  entry_content: |
-    büyük orta doğu projesi.. temsilcilerinden birini herkes biliyor ki zaten kendi ağzıyla da söyledi.
   entry_channels: siyaset
 - entry_name: |
     eminönü'nü eminönü yapan şey
   entry_id:  80390232
   entry_writer: yuzmebilmeyendenizci
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     ellerinde ve sırtlarında siyah çöp poşeti ile bir şey taşıyan adamlar.
   entry_channels: anket,tarih,seyahat
 - entry_name: |
-    zeka seviyesi düştükçe özgüvenin artması
-  entry_id:  80396395
-  entry_writer: deus baba
-  entry_fav_count: 25
+    kekonun en az olduğu tatil bölgeleri veritabanı
+  entry_id:  80398361
+  entry_writer: terra rossa mia
+  entry_fav_count: 24
   entry_content: |
-    yazar quatın bir entrysinde bu sözü görmüş olmamla birlikte son zamanlarda üstüne düşündüğüm durum.<br/>teknolojinin ilerlemesi, internetin hayatımızın her anında olması öğrenmeyi, bilgi edinmeyi daha kolaylaştırması gerekirken ,yıl geçtikçe gerizekalı olma yolunda bayrak sallayan bir toplum olduk. <br/>okumayı , öğrenmeyi bir kenara bırakıp beyinleri bir güzel tembelleştiriyoruz . son zamanlarda amerikayla yaşanılan problemlerde ıphoneları balyozla kıran hırbolar mı ararsın, doları yakan zübükler mi ararsın... geçen yıllarda çinle yaşanılan problemlerde de çine karşı protesto yapmak için tayland konsolosluğuna yürümüşlerdi. aydın çinedeki fırıncıyı taşlamışlardı fırının ismi çine fırın diye . zeka düştükçe cahil cesareti artıyor demek ki. bu kadar gerizekalı olmayı nasıl beceriyorlar?
-  entry_channels: bilim
+    kekoluktan kasıt nedir bilemiyorum fakat gözden ırak, ücra bir sayfiye alanında dahi gece yarısı başlayıp, sabah ışığında nihayete eren muzikli piknik alanı etkinliği tacizine maruz kalabiliyoruz.<br/>bolgedeki jandarma karakolu görevlisi ile ahbap olduk. <br/>gözünüzü seveyim yapmayın.<br/>doğaya zarar vermeyin, gürültü kirliliği yapmayın.<br/><br/>müziğinizi başkalarının duyacağı desibelde dinlemeyin.<br/>kahkalariniz, bagirtilariniz insanların yatak odalarına girmesin.<br/><br/>sehirden kaçıp köyde yaşıyoruz kafa dinleyebilelim diye.<br/>daha nereye kacabiliriz?<br/><br/>yapmayın, yapmayın.<br/>insansaniz yapmayın.
+  entry_channels: anket,seyahat
 - entry_name: |
-    8d tunes
-  entry_id:  80394066
-  entry_writer: krem shanti
-  entry_fav_count: 25
+    soyadı white olan zenci
+  entry_id:  80402040
+  entry_writer: uskubi
+  entry_fav_count: 23
   entry_content: |
-    insanlar ilginç. bildiğin milyon yıllık panning olayı bu. insanların bunu şuan dinleyip hayran kalmaları için 1500'lerden falan bugüne ışınlanmış olmaları lazım. indirin en basit ses düzenleme programını ve istediğiniz şarkıya uyarlayın.
-  entry_channels: müzik,teknoloji
+    soyadı türk olan kürt (bkz: <a class="b" href="/?q=ahmet+t%c3%bcrk">ahmet türk</a>)
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  80380812
@@ -331,45 +307,61 @@ data:
     tüm insanlığın kendini memnun etmek üzere var olduğunu zannedenler. bu sebepten olacak ki kimin nasıl giyinmesi, nasıl davranması, nasıl konuşması, ne izlemesi, ne dinlemesi, ne yemesi, ne düşünmesi gerektiğini beyan etmekten çekinmezler. açık ayakkabı giyen pedikür yaptırsın, 30 yaşını geçen süper kahraman filmine gitmesin, hamileler esprili tişört giymesin, kimse gül dövmesi yaptırmasın, sokak hayvanı beslemesin, kızlar seks yapsın kezban olmasın, vazgeçtim yapmasın evlendiğinde bakire olsun, o da olmaz 30 yaşına gelmiş kadın hala bakireyse sorunludur, 24 yaşında hala sığır gibi üniversite okumasın, evcil hayvanına oğlum kızım demesin, lgbti+ bireyse yürüyüş yapıp ahlakımızı bozmasın, et yemesin vegan/vejetaryen olsun, et yemeyen beyinsizdir vegan falan olmasın... oldu paşam başka?<br/><br/>kendi fikrinin evrensel geçerliliği olduğunu zannedenler. hangi müzisyen dinlenir, hangi dizi izlenir, hangi film kalitelidir, hangi komedyen abartılmış balondur en iyi bunlar bilir. özellikle genel olarak sevilen yapımlara/kişilere "abartılmış balon" damgası yapıştırarak ne kadar farklı olduklarını kanıtlamaya çalışırlar. kendi subjektif bakış açılarını ise tek gerçek zannederler.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    türk halkının cahil kalma nedeni
+  entry_id:  80380604
+  entry_writer: suendenbock
+  entry_fav_count: 19
+  entry_content: |
+    çok uzun bir konuda yazacağım üç satırlık özet, daha önce bu konuda bilgiye sahip olmayan veya düşünmemiş kişilere muhtemelen ulaşamayacak ama... yine de yazmak benden. <br/><br/>türk halkının cahil kalmasının nedeni bu coğrafyada iki bin yıldır süregelen güçlü ve baskıcı devlet yapısıdır. <br/><br/>güçlü devlet neden halkı cahil bıraksın dediğinize eminim. şu şekilde: <br/><br/>bizans ve şaşırtıcı bir biçimde onun devlet yönetim geleneklerini oldukça benimsemiş olan osmanlı (bu coğrafyanın son iki bin yılı) merkezi idarenin tüm kaynakları denetim altına aldığı ve bunun olağan kabul edildiği bir yapı kurdu.<br/><br/>bireyin birey olarak değil, kendinden çok güçlü olan bir devlet geleneğinin içinde, ancak devletin güç mekanizması içinde bir parça olduğunda refaha ulaşılabildiği bir sistem kuruldu. <br/><br/>bu yapı ve bu yapının üzerine inşa edilmiş , bireyi biat eden kitle haline getirmeye odaklanmış kültür gelişmenin önündeki en temel engel. <br/><br/>ister muhafazakarlar, ister kemalistler, öne sürdükleri tüm çözüm yolları bireyi özgür bırakmamak, onun kendi yolunu bulması yerine , doğru olduğuna kendilerinin inandığı gibi düşünmelerini istemeleri, bu hastalığın 21 yüzyılda bile sürüyor olması, bu açıklamanın ne kadar haklı olduğunu gösteriyor. <br/><br/>21. yüzyılda, benzerleri doğu bloğunda bir yüzyıl önce çöküp gitmiş ve kitlelere hiçbir şey katmamış köy enstitüleri ile kitlelerin cahillikten kurtarılabileceğine inanmaları buna açık bir örnek. veya kimi diğerlerinin köktendinci çözümler önermeleri bu garip ironinin hala daha bu toplumun zeitgeistında mevcut ve güçlü olduğunu gösteriyor. <br/><br/>güçlü devletçi yapı, zeki bireye bir avantaj tanımaz. zeki ve yaratıcı bireyin fazladan bir şeyler yaratması da, devlet çarkları üzerinde oluşturduğu tehlikeye göre çok az fayda sağlar. <br/><br/>kısacası zeki elitin aleyhine bir çark mevcut. zeki olmak, bir şeyler yaratmak, çaba sarf etmek size hiçbir fayda sağlamaz, hatta zarar verebilirse, kim zeki , yaratıcı, çalışkan olmak ister? <br/><br/>amerika birleşik devletleri, boşu boşuna amerikan rüyası adını verdikleri yaratıcı ve çalışkan olup başarılı olmak ideali üzerine kurulmadı. pratikte durum hiç öyle olmasa bile, bireyi topluma faydalı bir kişiye dönüştürme idealine yönlendirmek ideal bir toplumsal dinamizm yaratır. <br/><br/>oysa bizdeki gibi, zeka evrimsel faydalarını kaybettiğinde, toplumun çoğunluğu zekası olsa bile kullanmamaya yönlenir, sinik bir hal alır. <br/><br/>zeki elit toplumda avantajlı bir yere gelmezse, ya başka coğrafyalara göç eder, ya da daha az sayıda çocuğu olur, bu da birkaç yüzyılda nüfusun çoğunluğunu daha az zeki kitlelerin oluşturması sonucunu doğurur. <br/><br/>onlar da sadece kendilerine itiat edilmesini tercih eden devlet yapısı açısından ideal yönlendirilebilir kitledir zaten. <br/><br/>bizimki gibi bir toplumda zeki elite en ufak bir saygı kalmaz, zeki elitin en küçük bir etkinliği kalmaz. <br/><br/>kültür yozlaşır. ilkokul çocuğunun bile inanmayacağı aptal safsatalar milyon kere tekrarlanır ve herkes bunlara inanır. <br/><br/>sonuçta halk giderek cahilleşir. kısır döngü kendini tekrarlar.
+  entry_channels: siyaset,anket,bilim,tarih,eğitim
+- entry_name: |
     okuduğumuz romanları unutuyor oluşumuz
   entry_id:  80400781
   entry_writer: suyuma da pilav pisirdiler
-  entry_fav_count: 17
+  entry_fav_count: 19
   entry_content: |
     ben de unutuyorum. okuduğum,izlediğim pek az şeyi hatırlayabiliyorum. fakat ne demişler zaten: kültür, öğrendiğin her şeyi unuttuktan sonra aklında kalandır.
   entry_channels: anket,edebiyat
 - entry_name: |
-    iyi sevişen erkek
-  entry_id:  80381290
-  entry_writer: gunshut
-  entry_fav_count: 16
+    büyük meme seven insanların ortak özellikleri
+  entry_id:  80380191
+  entry_writer: nikhomakhos
+  entry_fav_count: 13
   entry_content: |
-    “biri beni mi çağırdı” yazmış yukarıda biri. entrilere baktım yks falan diyo.<br/>evladım sen bi süt iç hadi bakiim<br/>(bkz: <a class="b" href="/?q=yazar+olmak+i%c3%a7in+test+yap%c4%b1ls%c4%b1n">yazar olmak için test yapılsın</a>)
-  entry_channels: ilişkiler
+    malezya’da farklı sosyo-ekonomik seviyeden yüzlerce erkek üzerinde yapılan bir araştırmada, her erkeğe muhtelif bedenlerde animasyon meme görselleri gösterildikten sonra gelir seviyesi düşük erkeklerin büyük, kendini ekonomik açıdan sağlama almış erkeklerinse küçük memeleri beğendiğine dair sonuçlar var.
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    ilk çıktığında süper olup sonra bozan şeyler
-  entry_id:  80379993
-  entry_writer: istheisare
-  entry_fav_count: 14
+    800 yıllık çiniyi avize takmak için delmek
+  entry_id:  80391916
+  entry_writer: jiesheshuai
+  entry_fav_count: 12
   entry_content: |
-    ilk ciktiginda olmasa da, peak'ini herhalde bir 10 yil once yasayip, istikrarla dususe gectiginden<br/><br/>(bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck">ekşi sözlük</a>)<br/><br/>nerede cokluk, orada bokluk gibi bir durum. populasyon arttikca insan kalitesi ne yazik ki dusuyor.
-  entry_channels: anket
-- entry_name: |
-    soyadı white olan zenci
-  entry_id:  80402040
-  entry_writer: uskubi
-  entry_fav_count: 10
-  entry_content: |
-    soyadı türk olan kürt (bkz: <a class="b" href="/?q=ahmet+t%c3%bcrk">ahmet türk</a>)
-  entry_channels: 
+    <a class="b" href="/?q=konya">konya</a>'nın beyhekim mahallesinde bulunan, anadolu selçuklu dönemine ait 800 yıllık mescidin iç kubbesine yapılan insanlık düşmanlığı. ulu ata, emir-i türkistan timur'un sanatsal saygı felsefesi nerde; orta doğu'nun selefi barbarlığının mimari yapıya düşmanlığını türk kültürünün içine kanalize edip, böyle rezillikler üreten yozlaşmış anadolu zihniyeti nerde.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://fs1.directupload.net/images/180818/twzpvmy6.jpg" title="http://fs1.directupload.net/images/180818/twzpvmy6.jpg">http://fs1.directupload.net/…es/180818/twzpvmy6.jpg</a><br/><br/>bu da malatya'daki bir camiden örnek (sanırım ulu cami): <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://fs5.directupload.net/images/180818/mzi9rwu3.jpg" title="http://fs5.directupload.net/images/180818/mzi9rwu3.jpg">http://fs5.directupload.net/…es/180818/mzi9rwu3.jpg</a>
+  entry_channels: sanat,tarih,haber
 - entry_name: |
     kurban kesmek etik midir vahşet midir sorunsalı
   entry_id:  80400442
   entry_writer: basrol
-  entry_fav_count: 7
+  entry_fav_count: 10
   entry_content: |
     hayvanlar kurban edilip gömülse idi vahşet olurdu ama o etler kullanıldığı için vegan değilseniz gayet etik.
   entry_channels: 
+- entry_name: |
+    fikret orman
+  entry_id:  80388832
+  entry_writer: cloudyrainyday
+  entry_fav_count: 10
+  entry_content: |
+    senol gunesi besiktasa isteyen ve su ana kadar yonetimle hoca arasinda köprü kuran ve yeni secimde fikret ormanin listesinde olmayacağı besbelli olan anç'dir.<br/><br/>fikret orman yönetiminin senol gunes'ten once 2.ciligi dahi yoktur. <br/><br/>besiktasin tarihindeki bonservis satisi rekoru senol gunese aittir. <br/><br/>bak boyle liste metoduyla alt alta hepsini yazinca durum nasil kendini gösteriyor.<br/><br/>baskan hem kendini hem kulubu hem taraftari bitiriyor. itici bi kitle peydah oldu etrafina ve bu kitle kulube faydali taraftarin sevdiği kim varsa tek tek siktir ediyor. bir gün de sira kendisine gelir. bu taraftar her seyin farkinda.<br/><br/>senol güneş isini cok iyi yapiyor sen de isini iyi yap baskan. finansman senin konunsa finansmani coz. takima transfer yap basarisizligi on gorup baskin erken secime benzemez bu isler. baskanligi 1 dönem daha kurtardim derken subatta istifa etmek zorunda kaliverirsin.<br/><br/>besiktas kulubunun baskani.
+  entry_channels: spor
+- entry_name: |
+    ilişkilerin bitme sebepleri
+  entry_id:  80400401
+  entry_writer: neyseiyigeceler
+  entry_fav_count: 7
+  entry_content: |
+    hastalıklı insanlar yaratıldı. nesiller artık psikolojik savaş içerisinde dijitalizasyonla yoğrulmuş bir beyinle yaşıyorlar. tatmin olamıyorlar, her şey sanal, üstelik hipergerçekliğin içinden çıkamayan orada beynini bırakıp ölüyor. demem odur ki; ruh sağlığı bozuk ve dijital dünyada yaşayan insanlarla ilişki yürütülemez.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     aylık 5 bin tl gelirle toplu taşıma kullanan insan
   entry_id:  80379904
@@ -396,10 +388,18 @@ data:
   entry_channels: anket
 - entry_name: |
     18 ağustos 2018 chelsea arsenal maçı
-  entry_id:  80402398
-  entry_writer: mario balotelli
+  entry_id:  80403068
+  entry_writer: srfydn
+  entry_fav_count: 2
+  entry_content: |
+    zevkten dört köşe yapan maç. <br/><br/>aramızda hala dünyanın en iyisi la liga diyen var mı?
+  entry_channels: spor
+- entry_name: |
+    zeki ama çalışmıyor çocuğu
+  entry_id:  80382273
+  entry_writer: omegascorpii
   entry_fav_count: 0
   entry_content: |
-    sokratis ve mustafi ' yi cardiff city defansına koy siritmaz.
-  entry_channels: spor
+    sevgili ebevenyler!<br/><br/>zeka bir potansiyel, akıl ise o potansiyeli kullanma becerisidir. çocuğunuz akıllı değilse, yani çalışması gereken, o potansiyeli harekete geçirmesi gereken zamanda geçirmiyorsa, sahip olduğu zeka, hamalın sırtında taşıdığı yükten farklı olmaz. sürekli rahatsız eder, yorar, mutsuz eder. hatta şartlar oluşursa, sakat bırakır.<br/><br/>çocuğunuzun zekası üzerinde çok fazla bir etkiniz olmaz. allah ne verdiyse... bu gözler neredeyse zihinsel anne babaların sınavlarda dereceye giren çocuklarını ve çok parlak kariyeri olan anne babaların işe yaramaz, bir baltaya sap olmaz çocuklarını gördü. görüyor. görecek... kaldı ki (hastalıklar hariç) her birey, kendisine yeterli olacak zeka ile dünyaya gelir. akıl ise çevresel faktörlerle, eğitimle, disiplinle sonradan kazanılır. <br/><br/>çocuğunuzun kafasının zehir gibi çalışmasından mutlu, yahut yaşıtlarına göre biraz geç kavramasından mutsuz olmayınız. bunun yerine çocuğunuzun sırtındaki yükün şeklinin ve miktarının farkına varın ve onun da bunu fark etmesini sağlayın. çocuğunuz bu şekilde çok daha mutlu ve sağlıklı büyüyecektir. onun mutluluğu ise sizi de mutlu edecektir. daha ne istenir ki?<br/><br/>viyana'da güzel bir akşamdan sonra, bu gecelik eyyorlamam bu kadar.
+  entry_channels: eğitim
 ---
