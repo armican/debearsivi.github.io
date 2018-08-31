@@ -6,7 +6,7 @@ data:
     f-35'ler verilmezse üretiriz
   entry_id:  80819319
   entry_writer: thereale
-  entry_fav_count: 635
+  entry_fav_count: 651
   entry_content: |
     elindeki imam hatipli nesille ancak oyma tesbih uretebilecek sahsin beyanati.
   entry_channels: siyaset,teknoloji,haber,ekonomi,havacılık
@@ -14,7 +14,7 @@ data:
     test uçuşu yapılan f-35'i türkiye'ye kaçırmak
   entry_id:  80822127
   entry_writer: mavi yakali milyoner
-  entry_fav_count: 562
+  entry_fav_count: 576
   entry_content: |
     aklıma gelen dahiyane fikir. <br/><br/>biliyorsunuz 2 türk pilotumuz geçtiğimiz günlerde amerika'nın <a class="b" href="/?q=texas">texas</a> eyaletinde bulunan benim de çok sevdigim <a class="b" href="/?q=forth-worth">forth-worth</a> şehrinde f-35 leri test etti. (forth worth'a gidip bi steak yemenizi öneririm)<br/>f 35 ler single action uçaklardır, yani kokpit tek kişiliktir. öncelikle amaç 2 uçak kaçırmak olacaktır. çünkü elimizde 2 pilot var.<br/>yapılması gereken, pilotlarımızın orada ki supervisor commanderı ikna edip "biz aynı anda uçuş yapmak istiyoruz" demesidir. tabi ingilizce.<br/>tabi bu iş o kadar kolay değil, bazı farklı sorunlar var fakat hepsine de bir çözüm var;<br/>ılk sorun yakıt, eğitim uçuşlarında uçakların deposu fullenmez. yakıtı fullemek lazım<br/><a class="b" href="/?q=%c3%a7%c3%b6z%c3%bcm">çözüm</a><br/>kalkış yapılmadan önce, yer görevlisi kadın arkadaşlardan birini önceden ayartıp sevgili olmaları, ve kalkış gününden önceki gece yatakta hanımefendi ile sevişirken, "shareiee, could you please fill up my jet to high level for the tomorrow flight ;)" diyip hem sex şakası yapmış olur hem de işini görmüş olur. hatun o anın etkisiyle kesinlikle bunu yapacaktır. kızın ismi farklılık gösterebilir.<br/>her şey hazır, iki pilotumuzda jet hızıyla kalkışını yaptı, depolar full.<br/>şimdi önemli olan pilotların birbirine çok yakın uçması. sebebini ileride anlatacağım. ama öncesinde bir sorunumuz daha var, yeniden yakıt ikmali gerekecek.<br/><a class="b" href="/?q=%c3%a7%c3%b6z%c3%bcm">çözüm</a>;<br/>nispeten daha basit bir çözümü var bunun. mit thy ile anlaşacak ve new york istanbul seferi yapacak olan bir boeingi havada ikmal yapabilecek şekilde revize edecek. ve pilotlar askeri pilotlar ile yer değiştirecek. önemli olan nokta uçakta birden fazla ülkenin vatandaşı olması (tercihen rusya çin ve avrupa).<br/>sizin de yavaştan anladığınız üzere f35 lerimiz ve thy nin uçağı <a class="b" href="/?q=atlantik+okyanusu">atlantik okyanusu</a>'nda buluşup yakıt ikmali yapacak. <br/>tabi başka bir sorunumuz var, amerikan predatör uçakları bizim pilotlar belirlenen hava sahasının dışına çıkınca kovalamaya başlayacak, şimdi önemli olan noktaya bizimkilerin birbirine yakın uçmasına dönelim.<br/>bildiğiniz gibi havadan havaya füzeler genelde ısı güdümlüdür, predatörler bizimkilere nişan alıp atış yaptığında füze egzozdan çıkan ısıyı takip edecek. fakat bizimkilerin egzozları yakın uçtuğundan tek uçakmış gibi algılayacak füze. <br/>ayrıca onların füzesi varsa <a class="b" href="/?q=bizim+de+allah%27%c4%b1m%c4%b1z+var">bizim de allah'ımız var</a>.<br/>yine bildiğimiz gibi f35 ler üstün teknojilerle dolu, kendi füze savunma sistemi olduğu gibi biz yine de işimizi şansa bırakmayacagız ve füzeyi farkettikten sonra "v" biçiminde birbirmizden farklı bir yöne uçup füzeyi yanıltacağız. bu işlemi birkaç kez tekrarlamak yeterli. predatör uçakların bi süre sonra yakıtı bitecek, ve onların yakıt ikmal uçağı kalkana kadar biz çoktan okyanus da "globally yours" ile buluşacak ve ikmalimizi gerçekleştirip, rusya hava sahasına yöneleceğiz. 2 f35, bir boeing rusyaya doğru emin adımlarla gidiyoruz fakat bir sorunumuz daha var. hesaplarıma göre 20 dakika içerisinde predatörler bizi yeniden yakalayacak ve bu sefer thy'nin de kaçması gerek fakat bu mümkün değil.<br/><a class="b" href="/?q=%c3%a7%c3%b6z%c3%bcm">çözüm</a>:<br/>daha önceden belirttiğimiz gibi uçakta önemli ülkelerin vatandaşları olduğundan amerika karar almakta zorlanacak, ve bu sırada müttefikimiz rusya, uçağın içinde önemli adamlarının olduğunu amerika'ya söyleyip onların karar almasını zorlaştıracak ve vakit kazanacağız.<br/>peki neden rusya'ya gidiyoruz?<br/>cevap:<br/>çünkü s 400 ler türkiye'ye daha gelmedi. peşimizde ki avcı uçaklardan kurtulmamız için göz dağı verecek savunma sistemimiz yok.<br/>bu karışıklık içinde rusya'ya girdik, peşimizde ki uçaklar savunma sisteminden korktu ve takibi bıraktı ve üretiminde katkıda bulunduğumuz f35 ler artık himayemize geçmeye hazır. <br/>iş işten geçtikten sonra, amerika dünya'ya rezil olmamak için konuyu gündeme getirmez olay da böylece kapanır.<br/>tebrikler pilot arkadaşlar.<br/>genel kurmaydan tek ricam uçaklardan birinin adı "<a class="b" href="/?q=mavi">mavi</a>" diğeri de "<a class="b" href="/?q=redder">redder</a>" olsun.<br/><br/>edit: planım çok mükemmel olduğundan öneri editi yapmayacak idim fakat biri demiş ki: "pilotların ingilizce bilmesi burada ki kritik nokta". ya slk ingilizce bilmeyen adam f 35 i nasıl kaldırsın? bu sorunda çözüldü.<br/>edit 2: üsse dön tuşu ne yahu? saçmalamayın. gördük 15 temmuz da üsse dönü. öyle bir tuş yok, golden retriever mı çağırıyorsun gel diyince gelecek.. savaş uçagı lan bu.<br/>edit 3: arkadaşlar rusya ile zaten önceden anlaştık. bir diğer konu, predatörler bizi yakalıyor çünkü thy nin boeing ine escort ederek gitmemiz lazım yavaşız biraz.<br/>edit 4: neden pegasus ile anlaşılmadı denmiş, su vermeyen adam uçağını revize ettirir mi siz de allah aşkına..<br/><br/>velhasılı el kelam: evet, plan henüz alpha sürüm. geliştirilebilir, değinmediğim diğer detaylar da irdelenip çözüm üretilebilir. bana göre en kritik nokta rusya'nın takınacağı tutum. onu da devlet erkanı halletsin plz. bazı ufak nüansları daha sonra plana belki eklerim. 3 tane sivil uçak amerikan'ın dört bir tarafına terör saldırısı düzenleyebiliyor da, bu mu imkansız? hadi canım sizde<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: teknoloji,havacılık
@@ -22,7 +22,7 @@ data:
     cahilim demenin alternatif yolları
   entry_id:  80820149
   entry_writer: konu disi yazar
-  entry_fav_count: 394
+  entry_fav_count: 402
   entry_content: |
     (bkz: <a class="b" href="/?q=kitap+okumuyorum%2c+eksikli%c4%9fini+hissetmiyorum">kitap okumuyorum, eksikliğini hissetmiyorum</a>)
   entry_channels: anket,eğitim
@@ -30,7 +30,7 @@ data:
     şirketlerin borcu 81 milyonun borcu haline geldi
   entry_id:  80823400
   entry_writer: a life of ease
-  entry_fav_count: 295
+  entry_fav_count: 300
   entry_content: |
     az önce, ülker'in su faturasını yatırdım.
   entry_channels: siyaset,haber,ekonomi
@@ -38,23 +38,15 @@ data:
     beşiktaş'ın dudak uçuklatan kadrosu
   entry_id:  80826099
   entry_writer: eksibok
-  entry_fav_count: 277
+  entry_fav_count: 281
   entry_content: |
     (bkz: <a class="b" href="/?q=yine+barcelona+olmu%c5%9fsun+karde%c5%9fim+helal">yine barcelona olmuşsun kardeşim helal</a>)
   entry_channels: spor
 - entry_name: |
-    2018 yks tercih sonuçları
-  entry_id:  80804178
-  entry_writer: closer
-  entry_fav_count: 238
-  entry_content: |
-    gece gece kafayi yedirten sonuclar. hayatimda bir kez daha buyuk konustum ve basima geldi. 13 yil once oldurseniz ogretmenlik yazmam derken bu sene sirf odtu'ye girmek icin calismadan, pat diye sinava girdim. arkasindan ingilizce ogretmenligi gelsin diye gunlerce dua ettim. gunlerdir heyecanla bir ihtimal diye sonuclari bekliyordum. odtu'ye girdim! 31 yasinda, isim gucum basimdan askinken odtu'ye girdim! sanirim ölücem!
-  entry_channels: eğitim
-- entry_name: |
     abd'yi 24 saatte işgal etmek mümkün
   entry_id:  80828930
   entry_writer: ricard mangalyurekli
-  entry_fav_count: 233
+  entry_fav_count: 247
   entry_content: |
     aylardır hazırladığım plan neticesinde vardığım kanı. işte detaylar:<br/><br/>öncelikle devletimiz oldukça ucuz maliyetli olan tek kişilik pırpır uçağı üretecek. bunlardan 20-30 bin tane üretsek yeterli. yalnız kesinlikle kumandalı olmalı, sebebini aşağıda yazacağım. bunları oyuncak gibi gösterip gemilere yükleyerek abd'ye göndereceğiz. 50-100 tane gemi iş görür.<br/><br/>bu sırada iç işleri bakanlığı da suriyeli kardeşlerimizden 20-30 bin tanesini abd'ye gideceksiniz ayağına aynı gemilere dolduracak. gemiler abd sınırına yaklaştığında uçakların içerisine seri şekilde suriyelileri bindirip kumanda ile abd üzerinde uçurtacağız. kumanda önemli çünkü, bunlara ne eğitim vermeye nede ikna etmeye zamanımız var. havadan inerseniz kimse farketmez deyip inandıracağız.<br/><br/>düşünsenize aynı anda 20-30 bin uçak radarlara girecek, abd'nin hava trafiği felç. kimdir nedir anlamadan suriyelilere verdiğimiz el bombalarını aşağıya salmalarını isteyeceğiz. her uçağa 5-10 el bombası koysak yeter. atmazsanız ananız bacınız elimizde, dinimiz için yapın falan diye de ikna ederiz. ettimi sana 200-300 bin el bombası? abd'nin yarısını haritadan bile siler. abd bu kadar pırpırı aynı anda düşürecek ne füzeye sahip, ne uçağa, nede zamana.<br/><br/>peki hava sistemini kontrol altına aldık, sırada ne var? siyahlara diyecez ki, size kastımız yok işimiz sadece conilerle siz de bize katılın. abd'de her siyahide 3-5 silah olduğuna ve bu kardeşlerimiz oldukça cevval olduğuna göre oradan da hızlıca organize olup iç savaş çıkartabiliriz. önemli kurumları hızlıca çökertiriz.<br/><br/>tabi bu arada rusya ve çin bu fırsatı kaçırır mı? onlarda ellerinden geldiğince 3-5 füze bile sallasa etkisi olur. hatta avrupa bile nasıl olsa abd kaybetti, kazanandan yana olalım diye 3-5 bir şeyler sallayabilir. daha kızgın meksikalılara, latinlere girmedim bile.<br/><br/>peki abd'yı aldık. avrupa, çin, rusya bize bırakır mı tek başımıza? onlarda pay isteyecek, bölüşmek isteyecek. işte burada masada kaybetmemek önemli. cephede kazandığımızı masada kaybetmeyelim. bu konu için diplomatlarımıza çok iş düşecek.
   entry_channels: 
@@ -62,7 +54,7 @@ data:
     elinde stoğu olan ürüne zam yapan işletme
   entry_id:  80822644
   entry_writer: alaeddin keyyubat
-  entry_fav_count: 216
+  entry_fav_count: 218
   entry_content: |
     şark kurnazlığı değil, ticaretin kuralı olan olaydır. şöyle açıklayayım. dediğin gibi basit hesap ile 10 liraya aldığı şeyi 13 liraya satarsa kar eder ama o malı yerine koyamaz tekrar. 10 liraya 1 adet tişört aldın ve 13 liraya sattın, kar ettim sandın. gittin toptancıya 1 adet daha tişört almak istedin ve 15 lira olduğunu öğrendin. ya sermaye artıracaksın ve cebinden 2 lira daha koyacaksın ya da 4-5 tişört satıp 3 tişört alabileceksin yerine. yani sermayenden yemiş olacaksın yine. düzenli bir ekonomimiz yok diye, enflasyon yüksek diye ben niye kendi kendimi bitiriyorum arkadaş? öz sermayemi korumak zorundayım. gayet mantıklı bir harekettir. ben de aynısını yapıyorum. dolar ve enflasyon neden bu halde diye sormayıp, gelip bana "bunu 10 liraya aldın, neden şimdi böyle satıyorsun?" demeye zerre kadar hakkı yok kimsenin. asıl şark kurnazlığı tüm gün kahvede "ya dolar ne oldu böyle ya" deyip, bir şey satın almaya gelince "ya dolarla işimiz yok ki bizim" demektir. köylü kurnazlığıdır.<br/><br/>edit: vadeli çalışsa da, peşin çalışsa da sene sonu kur farkını ödeyen birçok tüccar var bu ülkede. özellikle hazır giyim sektörünü araştırabilirsiniz. osmanbey, beyazıt, laleli, merter, ... bi dolaşın derim oraları. denim, yani kot kumaşı alıp pantolon yapanlara özellikle bir bakın.<br/>sizin kızmanız gereken şey esnafın zam yapması değil, asıl legal karaborsacılık yapanlar olmalı. deposundaki malı satmayanlara kükreyin bence. cebinde paran ile kapısına gittiğinde sana mal satmayana. dolar yükselsin diye malı bekletene. oysa kur hesaplanır, şu para der, satarsın ama dolar yükseldikçe mal değerlendiği için satmayanlar var.<br/><br/>edit 2: "türkiye'deki esnafın %90'ı da böyle" diye bilgiler de vermeyin allah aşkına. ne zaman elde ettiniz bu istatistiği?
   entry_channels: ekonomi
@@ -70,7 +62,7 @@ data:
     askeri tören yürüyüşü yapamayan ülke
   entry_id:  80826546
   entry_writer: asbe
-  entry_fav_count: 148
+  entry_fav_count: 155
   entry_content: |
     tören yürüyüşü eğitimleri sırasında bu şekilde yürüyen arkadaşlara komutanın çıkışını akıllara getirmiştir;<br/><br/>"1 yaşında size yürümeyi öğretmiş olmaları lazım, kendi bildiğin haliyle normal bir şekilde yürüsen zaten başaracaksın, sağ ayağınla sağ kolunu, sol kolunla sol ayağını nasıl aynı anda ileri atıyorsun, şempanze misin arkadaşım sen"<br/><br/>gidin oğlum askere, eğlenceli lan
   entry_channels: siyaset
@@ -78,7 +70,7 @@ data:
     ideal seks süresi
   entry_id:  80817767
   entry_writer: koministimam2
-  entry_fav_count: 129
+  entry_fav_count: 133
   entry_content: |
     maşallah yaaa yine sözlük ergenleri 45 dakıka 1 saatten aşağı yapmıyor:)<br/>olum helal lan, yağmasanız da gürleyin, ortamlarda sikşşşyoruz dersiniz siktir edin kim bilecek ama ciddi ciddi merak ediyorum, biri mesaj atıp, ooo 45 dakika yapıyormuşsun, benim partner 3 dakikada boşalıyor, nolur gel beni de sik falan mı diyecek zannediyorsunuz?<br/><br/>sen de ne yapıyon kardeş, çok tutuluyor diye o boktan temel fıkrasını her sene entry olarak mı giriyorsun bu başlığa ?:)<br/>(bkz: <a class="b" href="/entry/69777194">#69777194</a>)<br/>(bkz: <a class="b" href="/entry/80818175">#80818175</a>)
   entry_channels: anket,ilişkiler,sağlık
@@ -91,6 +83,22 @@ data:
     vagner love kötü oyuncu değildir . alanya’da yaptıkları ortada , önceki kariyeri de öyle.<br/><br/>beşiktaş’ta başarılı olamamasının sebebi beşiktaş’ın malzemecileridir. adama dizine kadar şort vermişler , sahada parmak çocuk gibi dolaşıyordu , koşarken şort dizlerine dolanıp düşüyordu, galatasaray kendisine kısa bir şort bulabilirse yine ligte gol kralı olabilir
   entry_channels: spor
 - entry_name: |
+    dolmuşta kadına küfürler eden lağım ağızlı
+  entry_id:  80809170
+  entry_writer: kurd for vandetta
+  entry_fav_count: 108
+  entry_content: |
+    emniyetin bacısını sikeyim mi dedi?<br/>allah’ını sikeyim mi dedi?<br/>bir kadına ulu orta fahişe, orospu, seni sikerim mi dedi? <br/><br/>adam türkiye’nin bütün kesimlerinin duyarlı olduğu konulara 1 dk içinde kombo yapmış. yanına kalmaz umarım.
+  entry_channels: haber
+- entry_name: |
+    fenerbahçe
+  entry_id:  80807531
+  entry_writer: zippo eskisehir
+  entry_fav_count: 105
+  entry_content: |
+    40 yıllık galatasaray taraftarıyım. bir kaç yıl öncesine kadar en nefret ettiğim takımdı fenerbahçe. her başarısızlıklarında mutlu olurdum, “2-2 mi” rezilliğinde gülmekten ağladım, şike yaptıklarında 2-3 lig birden düşsünler istedim. <br/><br/>sonra tinerciler geldi meydana, fenerbahçe şike olaylarından, galatasaray da yağlı suratla uğraşırken aradan çıkıverdiler. hakem destekleri ve “sıyın cımhırbışkınım” olaylarıyla 2 şampiyonluk yaşayınca asıl nefret ettiklerimin kim olduğunu anladım. gerçek yüzlerini gördüm. fenerbahçe ve galatasaray’a “renkliler” diyip kıpkırmızı formalarla geziyorlar (bkz: <a class="b" href="/?q=swh">swh</a>) onlara göre oğuzhan 150 milyon lem aq, vidanın değeri dünya kupasında pas atınca 3 milyon artıyor, asist yapıca 5 falan. whatsapp gruplarında 13-35 yaş arası toplanıp sözlükte bir ağızdan entryler giriyorlar. hele futbolcuları biraz tipi düzgünse ılıklaşıyorlar. “ayyy karius kız olsam verirdim” falan. bence denk gelse şimdi de verirsin (bkz: <a class="b" href="/?q=swh%2ftiner">swh/tiner</a>)<br/><br/>futbol arkadaşlar arasında bazen rekabet, bazen dalga geçme, bazen de tebrik etmeyi gerektirir. kura çekimlerinden sonra fenerbahçe’li arkadaşların neredeyse hepsi tebrik ederken, beşiktaşlılar kendilerini heder ettiler. sinirden ağlayacaklar neredeyse. başkanıyla futbolcusuyla taraftarıyla. hepsi birden. <br/><br/>hani diyorlar ya fenerbahçe büyüklüğü başkadır adı konulamaz; taraftarıyla takımıyla öyleymiş. bugün daha iyi anladım. aziz de gittiği için bunu rahatlıkla söyleyebilirim. <br/><br/>inşallah bu sene şampiyon siz olursunuz. böylece türkiye’min iki büyük klübü 4 yıldızlı olur. diğeri de yalandan yere 1935’leri falan karıştırıp bi yıldız daha almazsa tabi.
+  entry_channels: spor
+- entry_name: |
     35 yaşından sonra evlenecek erkek bulmanın zorluğu
   entry_id:  80811073
   entry_writer: anlamadiysansozlugebak
@@ -99,26 +107,10 @@ data:
     18 yaşında yakışıklı olsun, 22-25 zenginde olsun, 25/30 kariyer sahibi de olsun,30/35 evi arabasıda olsun.35/40 ne oluyor. 40/45 nasıl olursa olsun. 45/50 nefes alsın can yoldaşım olsun.malesef böyle kimlerin evde kaldığını gördüm merdaneli çamaşır makinesi çeyizi olan var.
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    dolmuşta kadına küfürler eden lağım ağızlı
-  entry_id:  80809170
-  entry_writer: kurd for vandetta
-  entry_fav_count: 104
-  entry_content: |
-    emniyetin bacısını sikeyim mi dedi?<br/>allah’ını sikeyim mi dedi?<br/>bir kadına ulu orta fahişe, orospu, seni sikerim mi dedi? <br/><br/>adam türkiye’nin bütün kesimlerinin duyarlı olduğu konulara 1 dk içinde kombo yapmış. yanına kalmaz umarım.
-  entry_channels: haber
-- entry_name: |
-    fenerbahçe
-  entry_id:  80807531
-  entry_writer: zippo eskisehir
-  entry_fav_count: 101
-  entry_content: |
-    40 yıllık galatasaray taraftarıyım. bir kaç yıl öncesine kadar en nefret ettiğim takımdı fenerbahçe. her başarısızlıklarında mutlu olurdum, “2-2 mi” rezilliğinde gülmekten ağladım, şike yaptıklarında 2-3 lig birden düşsünler istedim. <br/><br/>sonra tinerciler geldi meydana, fenerbahçe şike olaylarından, galatasaray da yağlı suratla uğraşırken aradan çıkıverdiler. hakem destekleri ve “sıyın cımhırbışkınım” olaylarıyla 2 şampiyonluk yaşayınca asıl nefret ettiklerimin kim olduğunu anladım. gerçek yüzlerini gördüm. fenerbahçe ve galatasaray’a “renkliler” diyip kıpkırmızı formalarla geziyorlar (bkz: <a class="b" href="/?q=swh">swh</a>) onlara göre oğuzhan 150 milyon lem aq, vidanın değeri dünya kupasında pas atınca 3 milyon artıyor, asist yapıca 5 falan. whatsapp gruplarında 13-35 yaş arası toplanıp sözlükte bir ağızdan entryler giriyorlar. hele futbolcuları biraz tipi düzgünse ılıklaşıyorlar. “ayyy karius kız olsam verirdim” falan. bence denk gelse şimdi de verirsin (bkz: <a class="b" href="/?q=swh%2ftiner">swh/tiner</a>)<br/><br/>futbol arkadaşlar arasında bazen rekabet, bazen dalga geçme, bazen de tebrik etmeyi gerektirir. kura çekimlerinden sonra fenerbahçe’li arkadaşların neredeyse hepsi tebrik ederken, beşiktaşlılar kendilerini heder ettiler. sinirden ağlayacaklar neredeyse. başkanıyla futbolcusuyla taraftarıyla. hepsi birden. <br/><br/>hani diyorlar ya fenerbahçe büyüklüğü başkadır adı konulamaz; taraftarıyla takımıyla öyleymiş. bugün daha iyi anladım. aziz de gittiği için bunu rahatlıkla söyleyebilirim. <br/><br/>inşallah bu sene şampiyon siz olursunuz. böylece türkiye’min iki büyük klübü 4 yıldızlı olur. diğeri de yalandan yere 1935’leri falan karıştırıp bi yıldız daha almazsa tabi.
-  entry_channels: spor
-- entry_name: |
     instagram kullanmayan insan
   entry_id:  80804283
   entry_writer: steaul
-  entry_fav_count: 74
+  entry_fav_count: 79
   entry_content: |
     hiç kullanmamış biri olarak mağaramdan yazıyorum, biraz olsun kendini seven, kafasını rahat bırakmak isteyen bulaşmaz zaten. böyle mutluyum, gayet rahatım. tavsiyemdir.
   entry_channels: ilişkiler,teknoloji
@@ -126,7 +118,7 @@ data:
     2018 ekonomik krizi
   entry_id:  80803913
   entry_writer: aliceinwndrlnd
-  entry_fav_count: 72
+  entry_fav_count: 74
   entry_content: |
     bugun argumansiz sekilde "reisimi satmam" diye bagiranlarin 3 yil sonra 100 usd karsiliginda neler satacagini merak ettiren krizdir.
   entry_channels: siyaset,tarih,ekonomi
@@ -134,7 +126,7 @@ data:
     burak yılmaz
   entry_id:  80830025
   entry_writer: sessiz sakin suskun adam
-  entry_fav_count: 70
+  entry_fav_count: 73
   entry_content: |
     transferin son günü:<br/><br/>'' beni ben yapan <a class="b" href="/?q=trabzonspor">trabzonspor</a> taraftarıdır ama kolumu kesseler sarı kırmızı akacağını <a class="b" href="/?q=galatasaray">galatasaray</a> camiası iyi bilir ve inkar edemem ki doğma büyüme koyu bir <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'liyim ama bu da demek değildir ki <a class="b" href="/?q=ba%c5%9fak%c5%9fehir">başakşehir</a> kötü bir takım. bilakis en sevdiğim takım <a class="b" href="/?q=be%c5%9fikta%c5%9f">beşiktaş</a>tır ve bana göre de en iyi başkan mustafa cengiz'dir ''<br/><br/>burak yılmaz.
   entry_channels: spor
@@ -179,14 +171,6 @@ data:
     adamın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=nv-3euFedc4" title="https://www.youtube.com/watch?v=nv-3euFedc4">dibidir</a>. <br/><br/>bir beşiktaşlı olarak asla gocunmadan söyledim bunu. <br/><br/>en beyefendi başkan ödülü diye bir şey olsa her sene bu adam kazanır. galatasaraylılar bu adamla ne kadar gurur duysa azdır.
   entry_channels: spor
 - entry_name: |
-    31 ağustos 2018 galatasaray transfer rezaleti
-  entry_id:  80826818
-  entry_writer: nikola tesla isimli sahis
-  entry_fav_count: 54
-  entry_content: |
-    rezalet gibi rezalettir. rezalet puanım 9/10. gomisin 6 ya satılmasını da ekleyince 10/10.<br/><br/>not: slimani
-  entry_channels: spor
-- entry_name: |
     adem ljajic
   entry_id:  80812338
   entry_writer: mazut
@@ -195,21 +179,29 @@ data:
     bütün "dünyanın en iyi futbolcusu" yazanları engelledim sanıyordum, ama sivrisinekler gibiler amk.
   entry_channels: spor
 - entry_name: |
-    çin'in bir milyon uygur türkünü göz altına alması
-  entry_id:  80815197
-  entry_writer: darkcape
-  entry_fav_count: 49
+    31 ağustos 2018 akit gazetesi manşeti
+  entry_id:  80829199
+  entry_writer: gayim ama para bende
+  entry_fav_count: 43
   entry_content: |
-    arap (suriye, filistin falan) olsalardı, ülkemize alırdık. bakıp, beslerdik.<br/><br/>türk kökenli oldukları için şansları yok (!)
-  entry_channels: siyaset,haber
+    ülkede kriz var, fabrikalar bir bir kapanıyor, her şeye zam gelmiş...<br/>bu zihniyet hala sikimi nereye soksam, evlilik yaşı nedir, yurtlarımıza müritleri nasıl doldururuz onun düşüncesindeler.<br/>malum kafa sadece uçkurlarına çalışıyor.<br/>7/24 seks ve yobazlık...<br/><br/>edit: pedofili olayına hiç girmiyorum bile.<br/>sonuçta cemaat yurtlarında dönen olayları hepiniz biliyorsunuz.<br/>hani şu erkek çocuklara tecavüz etmişlerdi ya! <br/>devlet ve medya ile ele ele verip üstü kapatılmıştı.
+  entry_channels: haber
 - entry_name: |
-    31 ağustos 2018 uefa avrupa ligi kura çekimi
-  entry_id:  80804529
-  entry_writer: neonhero77
-  entry_fav_count: 40
+    galatasaray'ın saat 23.59'da açıklayacağı transfer
+  entry_id:  80830706
+  entry_writer: abinos41
+  entry_fav_count: 38
   entry_content: |
-    beşiktaş'ın dinamo kiev ile aynı gruba düşme ihtimalinin olmamasıyla bir hayli şaşırtmış olan kura çekimi.
+    (bkz: <a class="b" href="/?q=kevin+grosskreutz">kevin grosskreutz</a>)
   entry_channels: spor,haber
+- entry_name: |
+    müge boz
+  entry_id:  80832729
+  entry_writer: maanyk
+  entry_fav_count: 35
+  entry_content: |
+    sol framede görünce galatsaray forvet olarak transfer etti sandım.<br/><br/>love hariç kim olursa olsun modundayım şu sıralar.
+  entry_channels: tv,magazin
 - entry_name: |
     ekşi itiraf
   entry_id:  80805036
@@ -219,18 +211,10 @@ data:
     ankara'da tunalı'da kaldırımda açılmış olan çukura düştüm, kimse görmedi, geri kendi kendime çıktım, üstümdeki tozu toprağı silkeleyip yoluma devam ettim.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    31 ağustos 2018 akit gazetesi manşeti
-  entry_id:  80829199
-  entry_writer: gayim ama para bende
-  entry_fav_count: 35
-  entry_content: |
-    ülkede kriz var, fabrikalar bir bir kapanıyor, her şeye zam gelmiş...<br/>bu zihniyet hala sikimi nereye soksam, evlilik yaşı nedir, yurtlarımıza müritleri nasıl doldururuz onun düşüncesindeler.<br/>malum kafa sadece uçkurlarına çalışıyor.<br/>7/24 seks ve yobazlık...<br/><br/>edit: pedofili olayına hiç girmiyorum bile.<br/>sonuçta cemaat yurtlarında dönen olayları hepiniz biliyorsunuz.<br/>hani şu erkek çocuklara tecavüz etmişlerdi ya! <br/>devlet ve medya ile ele ele verip üstü kapatılmıştı.
-  entry_channels: haber
-- entry_name: |
     ben mahfi eğilmez sorularınızı cevaplıyorum
   entry_id:  80828810
   entry_writer: ayarsizsaniz ayar sizsiniz
-  entry_fav_count: 30
+  entry_fav_count: 32
   entry_content: |
     hocam sorum kisa ve net<br/>"2 aya toparlanabilir miyiz?"
   entry_channels: ekşi-sözlük,ekonomi
@@ -238,10 +222,50 @@ data:
     hatırladıkça iç burkan garibanlık anıları
   entry_id:  80827192
   entry_writer: kabetaslayansatanist
-  entry_fav_count: 25
+  entry_fav_count: 30
   entry_content: |
     çocukken annemle bir misafirliğe gitmiştik. yemeğe oturduk. çorba geldi, ben daldım yarım ekmekle. bir müddet sonra ev sahibi kadın acıklı bir tonda:<br/>kadin - çocuk çorbayla doyurmasın karnını.<br/>ben( içimden) - hassiktir, çorbadan başka yemek de mi var lan?
   entry_channels: anket,ilişkiler,ekonomi
+- entry_name: |
+    bedelli askerlik
+  entry_id:  80805525
+  entry_writer: willer
+  entry_fav_count: 29
+  entry_content: |
+    sanirim gidene kadar ara ara bu basliga gelip bunu yazacagim. yapacaginiz isi sikeyim amina kodumun is bilmezleri.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    seinfeld
+  entry_id:  80817506
+  entry_writer: enemy
+  entry_fav_count: 26
+  entry_content: |
+    <a class="b" href="/?q=friends">friends</a>'den 10 kat belki de 100 kat daha samimidir. karakterler tıpkı gerçek hayattaki insanlar gibi itici, bencil ve katlanılmazdır.
+  entry_channels: tv,spoiler
+- entry_name: |
+    iş hayatında zekilerin elenmesi
+  entry_id:  80824658
+  entry_writer: budabendenolsun34
+  entry_fav_count: 20
+  entry_content: |
+    bu cografyada is hayati, okul hayatinda haylaz tembel ogrenci olmus kisilerin kurdugu sirketlerde caliskan zeki ogrenci olmus kisilerin maasli olarak calismasidir
+  entry_channels: ilişkiler,ekonomi
+- entry_name: |
+    klaas-jan huntelaar
+  entry_id:  80831738
+  entry_writer: konus sen dinliyorum
+  entry_fav_count: 19
+  entry_content: |
+    galatasaray'ın alacağı iki forvetten biridir. <a class="b" href="/?q=luca+toni">luca toni</a> de ikna edilirse galatasaray yönetimi bu sezon iyi bir iş çıkarmış olacak.
+  entry_channels: spor
+- entry_name: |
+    ferit borku'nun ürettiği yerli ve milli anakart
+  entry_id:  80829219
+  entry_writer: pisisler
+  entry_fav_count: 19
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bor+bazl%c4%b1+soyad%c4%b1">bor bazlı soyadı</a>)<br/>(bkz: <a class="b" href="/?q=bu+bir+tesad%c3%bcf+olabilir+mi">bu bir tesadüf olabilir mi</a>)<br/><br/>"1 milyon lira masraf ettik bunun 436bin lirası faturalı" şeklinde riskli bir açıklama içerir. kalanı faturasız mı? faturasız iş yapılıyorsa sanayi ve ticaret bakanlığının sahip çıkmayacağı projenin ürünüdür. buna mı takıldın demeyin zira;<br/><br/>bak feritçim, burası türkiye. sen şimdi kendi garajında bir anakartı üretmişsin de "sanayi bakanlığı gözetiminde" olduğu için başına bir şey gelmeyecek diye rahat hissedebilirsin. lakin bu ülkede garajı bırak türkiye millet meclisinin kürsüsünde bir adalet bakanı "fetö çok yücedir, her şeyi devlet denetiminde ve bilgimiz dahilinde yapıyor" demişti, şimdi sonucunu sen düşün. kıyaslama yapman için karşılaştırıyorum;<br/><br/>adalet bakanı -&gt; meclis kürsüsü vs sanayi ve ticaret bakanlığı -&gt; garaj. anladın sen onu.<br/><br/>sonra "hiç destek almadan tamamen kendi öz sermayemiz ile 1 milyon liralık".. iş nasıl oldu onu da pek anlayamadık. biraz bize yahudi apple'ın fakir sitiv cabs'ının 1 milyon dolar "tamamı kendi öz sermayesi ile" yaptığı projeleri hatırlattı. fakir 1 milyon dolar.<br/><br/>gel gelelim teknik kısmında, olsa çok sevineceğimiz bu anakart ile ilgili hükümet yıkama yağlamasından başka hiçbir detay paylaşılmayan bir projedir. bir fotoğraf, bilale benzeyen bir arkadaş, "yaşasın sanayi bakanlığımız sağolsun hükümetimiz" şeklinde bir açıklama. bütün proje bu mu?<br/><br/>gerçekten sağlam bir şeyler yaptıysanız, ki hiç ihtimal vermiyorum, bu ülke adına çok büyük bir gelişme olurdu. neden hiç proje detayı paylaşmıyorsunuz? her şey çakma diye mi? örneğin bunun microchip'leri eprom'ları nasıl oldu, işlemci desteği derken intel ile işbirliği yapıldı mı? hani şu amarika'nın intel? zira intel'in paylaşacağı komut setleri olmadan nasıl destekleyeceksin intel işlemleri? bunun bios'u nasıl yazıldı? madem intel i3, i5 ve i7 çalıştırabiliyor o anakartın üzerindeki on-board soğutucu bununla çelişmiyor mu? teknik jargona hakim olmayanlar için söyleyelim, söylediği işlemcileri çalıştırıyor olsaydı o soğutucu ile o anakart iki saat sonra yanar pert olurdu.<br/><br/>yıllar önce "türkiye kendi işlemcisini üretiyor" sloganı ile üniversitelerden beyin toplayan ve bunun hakkında "aslında doğru bir slogan değildi, ama çarpıcı olsun, dikkat çeksin, ilgi çeksin istedik, o yüzden bu ismi verdik" diyen çizgi elektronik sahibi <a class="b" href="/?q=niyazi+saral">niyazi saral</a>'ı hatırlıyorum. her ne kadar ben yöntemini tasvip etmesem de, niyazi bey bu konularda her zaman ön ayak olmaya çalışan, topluma geri kazandırmaya çalışan biri olarak "işlemci üretemeyeceğimizi biliyorum, ama ilgi çekmek için bu sloganı kullandım, en azından bir yerden başlamak gerekiyor" sözleriyle gerçekten bir şeyler başlatmaya çalışmıştı. bunun için bir de <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mcu-turkey.com/" title="http://www.mcu-turkey.com/">site</a> açmışlardı. şimdi girdiğiniz zaman eğitim programlarının sonlandırılacağına ilişkin duyuruyu göreceksiniz. çünkü niyazi bey hükümet yalayıcısı olmadığı için projelerine kimse sahip çıkmıyor. internet üzerinden açtığı ve her zaman ücretsiz tuttuğu eğitim platformları "kaçak dershane" diye şikayet edilip kapatılıyor.<br/><br/>bu kadar üniversitenin katılımıyla, hatta uluslararası bazı sektöründe önce firmaların da katılımıyla yapılmış o kadar çalışmaya rağmen sadece basit mikroçipler tasarlanabiliyor.<br/><br/>şimdi "tamamı kendi öz sermayesi ile 1 milyon tl" yatırım yaparak bu delikanlı nasıl anakart üretmiş işte o bakımdan tekrar etmek gerekirse, teknik detaydan yoksun bir projedir. keşke olsa da yüz bin milyon tane kötü haber arasında bir tane iyi haber çıksın da arada biz de sevinsek diyoruz, fakat gerçek bilgi olmadan yapılmış bu haberi üç hayırla uğurluyoruz.<br/><br/>edit: ciddiye aldım yazdım çin'den aynı ürünün fotoğrafını paylaşıp da büyüsünü bozmayın ya, uzun uzun yazdık o kadar.
+  entry_channels: teknoloji,haber
 - entry_name: |
     vagner love'ın galatasaray'a transferi
   entry_id:  80820937
@@ -251,61 +275,21 @@ data:
     tolga ciğerci için çok güldük, başımıza bu geldi sanırım.
   entry_channels: spor,haber
 - entry_name: |
-    galatasaray'ın saat 23.59'da açıklayacağı transfer
-  entry_id:  80830706
-  entry_writer: abinos41
-  entry_fav_count: 17
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kevin+grosskreutz">kevin grosskreutz</a>)
-  entry_channels: spor
-- entry_name: |
-    ferit borku'nun ürettiği yerli ve milli anakart
-  entry_id:  80829219
-  entry_writer: pisisler
-  entry_fav_count: 17
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bor+bazl%c4%b1+soyad%c4%b1">bor bazlı soyadı</a>)<br/>(bkz: <a class="b" href="/?q=bu+bir+tesad%c3%bcf+olabilir+mi">bu bir tesadüf olabilir mi</a>)<br/><br/>"1 milyon lira masraf ettik bunun 436bin lirası faturalı" şeklinde riskli bir açıklama içerir. kalanı faturasız mı? faturasız iş yapılıyorsa sanayi ve ticaret bakanlığının sahip çıkmayacağı projenin ürünüdür. buna mı takıldın demeyin zira;<br/><br/>bak feritçim, burası türkiye. sen şimdi kendi garajında bir anakartı üretmişsin de "sanayi bakanlığı gözetiminde" olduğu için başına bir şey gelmeyecek diye rahat hissedebilirsin. lakin bu ülkede garajı bırak türkiye millet meclisinin kürsüsünde bir adalet bakanı "fetö çok yücedir, her şeyi devlet denetiminde ve bilgimiz dahilinde yapıyor" demişti, şimdi sonucunu sen düşün. kıyaslama yapman için karşılaştırıyorum;<br/><br/>adalet bakanı -&gt; meclis kürsüsü vs sanayi ve ticaret bakanlığı -&gt; garaj. anladın sen onu.<br/><br/>sonra "hiç destek almadan tamamen kendi öz sermayemiz ile 1 milyon liralık".. iş nasıl oldu onu da pek anlayamadık. biraz bize yahudi apple'ın fakir sitiv cabs'ının 1 milyon dolar "tamamı kendi öz sermayesi ile" yaptığı projeleri hatırlattı. fakir 1 milyon dolar.<br/><br/>gel gelelim teknik kısmında, olsa çok sevineceğimiz bu anakart ile ilgili hükümet yıkama yağlamasından başka hiçbir detay paylaşılmayan bir projedir. bir fotoğraf, bilale benzeyen bir arkadaş, "yaşasın sanayi bakanlığımız sağolsun hükümetimiz" şeklinde bir açıklama. bütün proje bu mu?<br/><br/>gerçekten sağlam bir şeyler yaptıysanız, ki hiç ihtimal vermiyorum, bu ülke adına çok büyük bir gelişme olurdu. neden hiç proje detayı paylaşmıyorsunuz? her şey çakma diye mi? örneğin bunun microchip'leri eprom'ları nasıl oldu, işlemci desteği derken intel ile işbirliği yapıldı mı? hani şu amarika'nın intel? zira intel'in paylaşacağı komut setleri olmadan nasıl destekleyeceksin intel işlemleri? bunun bios'u nasıl yazıldı? madem intel i3, i5 ve i7 çalıştırabiliyor o anakartın üzerindeki on-board soğutucu bununla çelişmiyor mu? teknik jargona hakim olmayanlar için söyleyelim, söylediği işlemcileri çalıştırıyor olsaydı o soğutucu ile o anakart iki saat sonra yanar pert olurdu.<br/><br/>yıllar önce "türkiye kendi işlemcisini üretiyor" sloganı ile üniversitelerden beyin toplayan ve bunun hakkında "aslında doğru bir slogan değildi, ama çarpıcı olsun, dikkat çeksin, ilgi çeksin istedik, o yüzden bu ismi verdik" diyen çizgi elektronik sahibi <a class="b" href="/?q=niyazi+saral">niyazi saral</a>'ı hatırlıyorum. her ne kadar ben yöntemini tasvip etmesem de, niyazi bey bu konularda her zaman ön ayak olmaya çalışan, topluma geri kazandırmaya çalışan biri olarak "işlemci üretemeyeceğimizi biliyorum, ama ilgi çekmek için bu sloganı kullandım, en azından bir yerden başlamak gerekiyor" sözleriyle gerçekten bir şeyler başlatmaya çalışmıştı. bunun için bir de <a rel="nofollow noopener" class="url" target="_blank" href="http://www.mcu-turkey.com/" title="http://www.mcu-turkey.com/">site</a> açmışlardı. şimdi girdiğiniz zaman eğitim programlarının sonlandırılacağına ilişkin duyuruyu göreceksiniz. çünkü niyazi bey hükümet yalayıcısı olmadığı için projelerine kimse sahip çıkmıyor. internet üzerinden açtığı ve her zaman ücretsiz tuttuğu eğitim platformları "kaçak dershane" diye şikayet edilip kapatılıyor.<br/><br/>bu kadar üniversitenin katılımıyla, hatta uluslararası bazı sektöründe önce firmaların da katılımıyla yapılmış o kadar çalışmaya rağmen sadece basit mikroçipler tasarlanabiliyor.<br/><br/>şimdi "tamamı kendi öz sermayesi ile 1 milyon tl" yatırım yaparak bu delikanlı nasıl anakart üretmiş işte o bakımdan tekrar etmek gerekirse, teknik detaydan yoksun bir projedir. keşke olsa da yüz bin milyon tane kötü haber arasında bir tane iyi haber çıksın da arada biz de sevinsek diyoruz, fakat gerçek bilgi olmadan yapılmış bu haberi üç hayırla uğurluyoruz.<br/><br/>edit: ciddiye aldım yazdım çin'den aynı ürünün fotoğrafını paylaşıp da büyüsünü bozmayın ya, uzun uzun yazdık o kadar.
-  entry_channels: teknoloji,haber
-- entry_name: |
-    iş hayatında zekilerin elenmesi
-  entry_id:  80824658
-  entry_writer: budabendenolsun34
-  entry_fav_count: 16
-  entry_content: |
-    bu cografyada is hayati, okul hayatinda haylaz tembel ogrenci olmus kisilerin kurdugu sirketlerde caliskan zeki ogrenci olmus kisilerin maasli olarak calismasidir
-  entry_channels: ilişkiler,ekonomi
-- entry_name: |
-    müge boz
-  entry_id:  80832729
-  entry_writer: maanyk
-  entry_fav_count: 13
-  entry_content: |
-    sol framede görünce galatsaray forvet olarak transfer etti sandım.<br/><br/>love hariç kim olursa olsun modundayım şu sıralar.
-  entry_channels: tv,magazin
-- entry_name: |
-    kalbi kırılmış bir kadının yapabilecekleri
-  entry_id:  80824682
-  entry_writer: kerrafik jehri
-  entry_fav_count: 11
-  entry_content: |
-    -bir insan bir başkasını cezalandırmak için kendi canına kıyabilir mi doktor bey?<br/>-zaten intiharların çoğu başkasını cezalandırmak için değil mi?<br/>.<br/>.<br/>.<br/>.<br/>-kadınlar bazen çok acımasız olabiliyor doktor ya.. valla.. çok..<br/><br/>(bkz: <a class="b" href="/?q=bir+zamanlar+anadolu%27da">bir zamanlar anadolu'da</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
     hasan ali kaldırım
   entry_id:  80811554
   entry_writer: hapivanak
-  entry_fav_count: 11
+  entry_fav_count: 13
   entry_content: |
     ümit özat'a iki yıldız verip wederson'a 3 yıldız verenler tarafından eleştirilen oyuncu. <br/><br/>gençler, hasan ali başlığında ne işim var benim? ikidir neden bu adamı savunmak zorunda kalıyorum oğlum ben? ziegler'i bile özlemle ananlar adama sayıp sövüyorlar. ziegler'in hasan ali'den tek farkı daha yakışıklı olması amk. süper kupa finali sonunda ağladı diye baş tacı oldu adam. <br/><br/>ben de hasan ali'nin ilk onbir için yeterli olduğunu düşünmüyorum ama hasan ali'nin rotasyonda takımına çok çok faydalı olduğuna inanıyorum. takımda ismail köybaşı gibi bir adam varken hasan ali'nin gönderilmesini istemek ahmaklık. ilginçtir ismail köybaşı hakkında en ufak tepki yok.
   entry_channels: spor
 - entry_name: |
-    klaas-jan huntelaar
-  entry_id:  80831738
-  entry_writer: konus sen dinliyorum
-  entry_fav_count: 9
+    kalbi kırılmış bir kadının yapabilecekleri
+  entry_id:  80824682
+  entry_writer: kerrafik jehri
+  entry_fav_count: 12
   entry_content: |
-    galatasaray'ın alacağı iki forvetten biridir. <a class="b" href="/?q=luca+toni">luca toni</a> de ikna edilirse galatasaray yönetimi bu sezon iyi bir iş çıkarmış olacak.
-  entry_channels: spor
+    -bir insan bir başkasını cezalandırmak için kendi canına kıyabilir mi doktor bey?<br/>-zaten intiharların çoğu başkasını cezalandırmak için değil mi?<br/>.<br/>.<br/>.<br/>.<br/>-kadınlar bazen çok acımasız olabiliyor doktor ya.. valla.. çok..<br/><br/>(bkz: <a class="b" href="/?q=bir+zamanlar+anadolu%27da">bir zamanlar anadolu'da</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
     sözlükçülerin evlerinde bulundurdukları silahlar
   entry_id:  80807290
@@ -315,29 +299,61 @@ data:
     annem ;çenesi ile 10 kaplan gücündedir benim validem.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    akademisyenlerin ülke ekonomisine katkısı nedir
-  entry_id:  80831923
-  entry_writer: prometyus
-  entry_fav_count: 8
+    burak yılmaz transferi ile beşiktaşı bırakanlar
+  entry_id:  80832216
+  entry_writer: nanaimo
+  entry_fav_count: 7
   entry_content: |
-    ben de şu üniversite - sanayi işbirliği hikayesini anlamadım gitti. a.b.d’de bu bahsedilen sistem işler ama a.b.d’de şirketler, üniversiteler tarafından yürütülen projelere yüksek miktarlarda bağışlarda ve desteklerde bulunurlar. üniversiteler de bunun karşılığını vermek zorundalardır, çalışırlar. çıktı yoksa para yoktur çünkü... bizde ise sanayi çoğu zaman üniversitelerden tek bir şey bekler, o da ucuz işgücüdür. bu ucuz işgücü öncelikle stajyerler sonrasında ise yeterince yetişmemiş mühendisler, işletmeciler vs.’dir. bu sayede asgari ücretten hallice bir maaşla mühendise tekniker işi, işletmeciye veznedarlık, hukuk mezununa avukatlık yaptırabilirsiniz. <br/><br/>bir de mesela a.b.d.’de şirketler üniversitelere bağışta bulunur, bizde ise şirketler üniversite kurar. isim vermeyeceğim. bunun nedeni bağışladıkları paraların doğru kullanılmayacağı yönünde olan şüpheleri de olabilir ki... pek haksız da sayılmazlar. ama bu sorun akademisyenlerden mi kaynaklanmaktadır, devletten mi kaynaklanmaktadır yoksa toptan toplumun mayası mı bozuktur bilemem. onu da sosyologlara bırakıyorum.
-  entry_channels: anket,eğitim,ekonomi
+    burak yılmaz’ın transferi ile beşiktaş’a desteğini askıya alan yüzbinlerce taraftardan biridir.<br/><br/>sporcu önce ahlaklı olmalıdır. ahlaklı olmadıktan sonra isterse 100 tane gol atsın bir sezonda,hiçbir anlamı yok.<br/><br/>beşiktaş yıldız futbolcuların,para için herşeyi yapacak olan sporcuların kulübü değildir. <br/><br/>biz bu kulübü süleyman seba ile sevdik.<br/><br/>yıllarca bize anlatılan baba hakkı ahlakı için sevdik.<br/><br/>varsın kazanmasın,varsın şampiyon olmasın.
+  entry_channels: spor,anket
 - entry_name: |
-    sıfır bir
-  entry_id:  80808296
-  entry_writer: xaccah59
+    akademisyenlerin ülke ekonomisine katkısı nedir
+  entry_id:  80832324
+  entry_writer: bfindik
   entry_fav_count: 6
   entry_content: |
-    kardeş dizide adam kalmadı. gökhan abi her ne kadar gayrimeşruda kardeşilerine biraz haylazlık peşinde biri olsa bile, arasının bozuk olduğu kardeş dediği adamı satmadı, mermiyi yedi hakkını verdi.<br/><br/>-anamın amında- cümlesini bize bu kral abiliğiyle unutturdu. toprağın bol olsun gökhan abi, enaktarları artık bilo getiremeyecek sana.<br/><br/>diyecek başka sözüm yok özgür gitti cio gitti ednan gitti ednanın anası gitti gittide gitti. ağıtlar yakılsın.
-  entry_channels: tv
+    üniversite bacasız fabrikadır.<br/>ev sahipleri kiracı bulur.<br/>esnaf sikecek adam bulur.<br/>gençler 4 yıl işsizlik derdini erteler. <br/>akademisyenler de asla kimsenin alıp okumayacağı makaleler ve kitaplar yazar. <br/>oldu mu amk kötümserleri?
+  entry_channels: anket,eğitim,ekonomi
+- entry_name: |
+    31 ağustos 2018 harry kane'in gs'ye transferi
+  entry_id:  80833226
+  entry_writer: coderman
+  entry_fav_count: 6
+  entry_content: |
+    sen harry kane'i beklersin cenazene ömer bayram gelir.
+  entry_channels: spor
+- entry_name: |
+    ünal aysal
+  entry_id:  80827431
+  entry_writer: gdr
+  entry_fav_count: 5
+  entry_content: |
+    bilinen ve aşina olunanın aksine bir yönetim biçimi sergilemiştir. o yüzden bir kesim başarısız derken diğeri başarılı der. iki yönü de görmek lazım.<br/>1./ feda, küçülme vb gibi şeyler yerine risklerle büyüme yoluna gitmiştir. başarılarla bunu perçinlese de, gerek türkiye ligi yabancı kuralları gerekse de türkiye liginin asla popüler seviye ve finans ölçütlerine ulaşamamasından dolayı başarısı sürdürülebilir olmamıştır. devamında yaptığı transferler ve hareketlerle süreci iyi yönetememiştir.<br/>yine de aldığı adamları sattık ve zarar ettiğimiz söylenemez (sniejder ve drogba hariç)<br/>2./unutmamak gerekir ki aldığı camia ve futbol bölümü, tabir yerindeyse ölüm döşeğindeydi. gelir gelmez bunu düzeltip iddialıdan öte bir hale getirmiştir. bunu yok saymak imkansızdır. bir diğeri için bakınız fikret orman feda ile başladı, adım adım büyüdü, feda dedi kolej takımı dedi ama adım adım geldi zirve den düşüyor şu an, geriye gidiyor. hem de onlar da başarılı olmasına rağmen.onca başarıda ancak 2 milyon euro kar açıkladı klüp. gerçekten hayal edilen şeyler futbolda zor arkadaşlar. yekün bir gelişme olmadığı sürece gs fb bjk tek başına dünya standatlarına ulaşamaz.
+  entry_channels: spor
 - entry_name: |
     samsung iphone ve huawei'ye alternatif telefon
   entry_id:  80818379
   entry_writer: xasthur
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     <a class="b" href="/?q=xiaomi">xiaomi</a> varken <a class="b" href="/?q=zte">zte</a> nedir amk.
   entry_channels: anket,teknoloji,ekonomi
+- entry_name: |
+    kadınları etkilemenin yolları
+  entry_id:  80831609
+  entry_writer: ronartir
+  entry_fav_count: 4
+  entry_content: |
+    centilmen olun, her zaman işe yarayan bir tavsiyedir. gerek iş yaşamınızda gerekse özel yaşantınızda. <br/><br/>sanat, kültür, tarih, edebiyat, bilim... kısacası genel kültür edinmek, kitap okumak iyidir. güzel müzikler dinleyin. hayata tek bir pencereden bakmayın, bir çok farklı açınız olsun. "bilmediğiniz bir şey ile karşılaştığınızda da bilmiyorum diyebilmelisiniz". <br/><br/>sahiplenmek güzel şey, şevkat ve sevgi her canlının ihtiyacı ama karşınızdaki bireyin siz olmadan da bir yaşama sahip olduğunu, kendi ayakları üzerinde durabileceğini kabul edin.<br/><br/>o'nun fikir, gözlem ve düşüncelerine önem verin ve dikkatli bir dinleyici olun. <br/><br/>geriye kalan karşınızdaki kadının bunları anlayacak ve değerini bilecek bir karakterde olması... <br/><br/>iyi şanslar.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  80804153
+  entry_writer: arnavut votkamla erigi calistir ulen
+  entry_fav_count: 3
+  entry_content: |
+    ekşi sözlük fuckbuddy aranıyor ilanları'na yazamayanların yazdığı veritabanıdır. şuraya yazanların %92.8'inin amacı dert dinlemek değil hatun düşürmek. birbirimizi kandırmayalım.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     tüm ilişkilerinde problemli erkekleri bulan kadın
   entry_id:  80826292
@@ -355,21 +371,13 @@ data:
     markete bile gidecek olsam arabayla, mutlaka ayakkabı giyerim. <br/><br/>canımı da, çoluk çocuğumun canını da sokakta bulmadım. <br/><br/>tanım: at yaraklığından başka bişey değildir afedersin...
   entry_channels: 
 - entry_name: |
-    kadınları etkilemenin yolları
-  entry_id:  80831609
-  entry_writer: ronartir
-  entry_fav_count: 2
-  entry_content: |
-    centilmen olun, her zaman işe yarayan bir tavsiyedir. gerek iş yaşamınızda gerekse özel yaşantınızda. <br/><br/>sanat, kültür, tarih, edebiyat, bilim... kısacası genel kültür edinmek, kitap okumak iyidir. güzel müzikler dinleyin. hayata tek bir pencereden bakmayın, bir çok farklı açınız olsun. "bilmediğiniz bir şey ile karşılaştığınızda da bilmiyorum diyebilmelisiniz". <br/><br/>sahiplenmek güzel şey, şevkat ve sevgi her canlının ihtiyacı ama karşınızdaki bireyin siz olmadan da bir yaşama sahip olduğunu, kendi ayakları üzerinde durabileceğini kabul edin.<br/><br/>o'nun fikir, gözlem ve düşüncelerine önem verin ve dikkatli bir dinleyici olun. <br/><br/>geriye kalan karşınızdaki kadının bunları anlayacak ve değerini bilecek bir karakterde olması... <br/><br/>iyi şanslar.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    counter-strike global offensive
-  entry_id:  80815563
-  entry_writer: nextsigor
+    ömer bayram
+  entry_id:  80833431
+  entry_writer: bytakatuka
   entry_fav_count: 1
   entry_content: |
-    free edition adı altında botlar ile oynanabilir ve cs go tv izlenebilir hali steam de ücretsiz bulunuyor. <br/><br/>full edition ise 25 tl o da bizim zamanında aldığımız standart cs go olsa gerek. <br/><br/>neden böyle bir şey oldu anlamadım durup dururken.<br/><br/>ed: sözlükten anladığım kadarıyla bugün olmuş.
-  entry_channels: oyun
+    27 yaşındaki adamı nagatomo nasıl yetiştirecek merak konusu çakralarını falan açmayı öğretir heralde.
+  entry_channels: spor
 - entry_name: |
     1 eylül 2018 fenerbahçe kayserispor maçı
   entry_id:  80815213
@@ -394,12 +402,4 @@ data:
   entry_content: |
     neden ben sorusuna nasıl bir cevap versek tatmin olursunuz?
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    burak yılmaz transferi ile beşiktaşı bırakanlar
-  entry_id:  80832592
-  entry_writer: kral leopoldun kongolu arkadasi
-  entry_fav_count: 0
-  entry_content: |
-    beşiktaş'ı asla bırakmam...<br/><br/>şimdilik beşiktaşlılığımı askıya da almayacağım. burak düzenli ilk onbir oynarsa bunu düşünürüm.<br/><br/>burak rakip galatasaray bile olsa açık açık emek hırsızlığı yaparsa küfürü basarım da. ayağını denk alsın.
-  entry_channels: spor,anket
 ---
