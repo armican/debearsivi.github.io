@@ -6,7 +6,7 @@ data:
     şeyma subaşı'nın burning man 2018 paylaşımları
   entry_id:  80917691
   entry_writer: kovboyunusikenduldul
-  entry_fav_count: 731
+  entry_fav_count: 735
   entry_content: |
     yüce yaradanın kadınlara bahşettiği organı türkiye cumhuriyeti sınırları içerisinde en yararlı biçimde kullanan kadın
   entry_channels: tv,magazin,seyahat
@@ -14,7 +14,7 @@ data:
     fiyatı korkunç bir şekilde artan ürünler
   entry_id:  80919054
   entry_writer: ayrilik treni
-  entry_fav_count: 506
+  entry_fav_count: 555
   entry_content: |
     millet ekmek derdinde adam parfüm bakmış, bravo amına kodumun vurdum duymazı.
   entry_channels: anket,ekonomi
@@ -22,31 +22,31 @@ data:
     ejder suyu starex meyvesi zencefilli somonlu suşi
   entry_id:  80915261
   entry_writer: benarist
-  entry_fav_count: 400
+  entry_fav_count: 404
   entry_content: |
     panda götü aromalı dip sos eşliğinde tütsülenmiş bal porsuğu taşşağı kızartması nerde adiler?
   entry_channels: yeme-içme
 - entry_name: |
+    melis ayça değirmencioğlu'nun loris karius ifşası
+  entry_id:  80930651
+  entry_writer: slashedduff
+  entry_fav_count: 392
+  entry_content: |
+    adam alt tarafı "how are you?" demiş. niye herkes sikmiş gibi davranıyor. kezban türk kızlarından haberi olmuş oldu böylece. oğlum sakın bulaşma ben sana söyliyim, yakışıklı adamsın git zeki bir avrupalı bul kendine. 75 iq'lu yürüyen ego değil.
+  entry_channels: spor
+- entry_name: |
     netflix tavsiye platformu
   entry_id:  80908532
   entry_writer: nikkimin basi
-  entry_fav_count: 324
+  entry_fav_count: 331
   entry_content: |
     yazarların netflix dizi film tavsiyeleridir.<br/><br/>özellikle bağımsız yapım ve avrupa, güney amerika, ortadoğu yapımları için tavsiyeler bomba olur. <br/><br/>o yüzden yardımlaşmak iyidir.<br/><br/>tavsiyeleri dizi ve film olarak belirtir inceden tarzını yazarsak mis olur. <br/><br/>dizi<br/><br/><a class="b" href="/?q=the+sinner">the sinner</a><br/><br/>gerçekten iyi dizi. 8 bölüm. gözümü kırpmadım. merak züerine giden yapım. 8.5/10<br/><br/><a class="b" href="/?q=aquarius">aquarius</a><br/><br/>duchovny biraderimin oynadığı polisiye. charles manson işleniyor. 60larda geçiyor. 7 5/10<br/><br/><a class="b" href="/?q=californication">californication</a><br/><br/>gene duchovny reyizin dizisidir. izlediğim en sağlam dizilerdendir. bir yazarın inişli çıkışlı hikayesi. final yaptı ama en kısa sürede izlediğim dizilerden. 9/10<br/><br/><a class="b" href="/?q=peaky+blinders">peaky blinders</a> <br/><br/>eski ingilterede bir çeşit mafya hikayesi. 8/10<br/><br/><a class="b" href="/?q=better+call+saul">better call saul</a><br/><br/>kesin izlenmesi gereken dizi. breaking badin öncesi. 10/10<br/><br/><a class="b" href="/?q=ray+donovan">ray donovan</a><br/><br/>mafyamsı, pis işlerin temizliğini yapan birinin hikayesi. güzel dizi. 8.5/10<br/><br/><a class="b" href="/?q=lilyhammer">lilyhammer</a><br/><br/>abd deki bir mafya üyesinin tanık koruma ile norveçe yerleşmesi ve başından geçenler. eğlencelik 7-7.5/10<br/><br/><a class="b" href="/?q=kutsal+oyunlar">kutsal oyunlar</a><br/><br/>hint polisiyesi. güzel dizi. 8/10<br/><br/><a class="b" href="/?q=narcos">narcos</a><br/><br/>malum dizi. özellikle ilk sezonu çok iyiydi. 2 yi izlemedim. 8.5/10<br/><br/><a class="b" href="/?q=feed+the+beast">feed the beast</a><br/><br/>problemli iki kafadarın hatlemde lüx restoran açma hikayesi. eğlenceli dizi. 8/10<br/><br/>klasik diziler (meali: izlemeyen varsa ölmeden izlesin şeysi):<br/><br/><a class="b" href="/?q=vikings">vikings</a>, <a class="b" href="/?q=breaking+bad">breaking bad</a>, <a class="b" href="/?q=la+casa+del+papel">la casa del papel</a>, <a class="b" href="/?q=dexter">dexter</a><br/><br/>bilmeyen yoktur zannımca.<br/><br/>film<br/><br/><a class="b" href="/?q=g%c3%bcd%c3%bc">güdü</a><br/><br/>arjantin yapımı akıcı film. yazar olmak isteyen birinin maceraları. sürpriz sonlu<br/><br/>not: malum netflixte çok fazla içerik var ve sağlam yapım bulmak zor oluyor. <br/><br/>içerik çok deyince tepki çekmiş ancak arayınca sağlam yapımlar var. maksat aramayı azaltmak. <br/><br/>evet çoğu ana ekrana da düşüyor. büyük hizmet yapmak için değil, izlenir veya izlenmez önerisi için yorum yapılıyor. insanlar 2 sezon izleyecekleri şeyin nasıl olduğunu bilsin diye tavsiye veriliyor. bokunu çıkarmayın. <br/><br/>edit: imla-ekleme
   entry_channels: anket,tv,sinema
 - entry_name: |
-    erkeğin kadın bacağından etkilenmesinin nedeni
-  entry_id:  80918125
-  entry_writer: bestman777
-  entry_fav_count: 321
-  entry_content: |
-    göte kesintisiz giden bir yol olması.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     lisede sınıfın en güzel kızının bugünkü durumu
   entry_id:  80920488
   entry_writer: fuckgloballythinklocally
-  entry_fav_count: 302
+  entry_fav_count: 304
   entry_content: |
     diş hekimi oldu. evli değil. hala çok güzel. <br/><br/>neden herkesin hep kötü hayatları olmasını istiyorsunuz ki.<br/><br/>edit: arkadaşa yazanlar oldu. garip milletiz valla :)
   entry_channels: anket,ilişkiler
@@ -54,7 +54,7 @@ data:
     kama sokularak açılmaya çalışılan pitbull çenesi
   entry_id:  80918696
   entry_writer: kablolu kumanda
-  entry_fav_count: 300
+  entry_fav_count: 303
   entry_content: |
     köpeğin arka ayaklarını havaya kaldırırsanız bütün yükü ön 2 ayakta olacağı için ağzını açar...<br/><br/>aklınızda olsun
   entry_channels: sağlık
@@ -62,23 +62,15 @@ data:
     çiftlikbank tosununun dubai gezisi
   entry_id:  80923368
   entry_writer: runwhileucan
-  entry_fav_count: 293
+  entry_fav_count: 295
   entry_content: |
     pablo escobar’ın beyaz saray önünde fotoğraf çekilmesi gibi bir şey bu.<br/><br/>helal olsun tosunuma. bizim için de ez amına koduğumun çomarlarının paralarını. <br/><br/>yanındaki kadın da muhtemelen latin, ekipmana bakılırsa allahını gördürüyordur tosuncuğa kokainli seks sırasında. <br/><br/>yürüyedur.
   entry_channels: haber,magazin
 - entry_name: |
-    melis ayça değirmencioğlu'nun loris karius ifşası
-  entry_id:  80930651
-  entry_writer: slashedduff
-  entry_fav_count: 280
-  entry_content: |
-    adam alt tarafı "how are you?" demiş. niye herkes sikmiş gibi davranıyor. kezban türk kızlarından haberi olmuş oldu böylece. oğlum sakın bulaşma ben sana söyliyim, yakışıklı adamsın git zeki bir avrupalı bul kendine. 75 iq'lu yürüyen ego değil.
-  entry_channels: spor
-- entry_name: |
     mahallenin en psikopat çocuğunun bugünkü durumu
   entry_id:  80923063
   entry_writer: wrtyc
-  entry_fav_count: 232
+  entry_fav_count: 235
   entry_content: |
     nasada çalışıyor diyenler gelmeden ben söylüyorum.cezaevinde efendim.
   entry_channels: anket
@@ -86,7 +78,7 @@ data:
     otobüste güneş gözlüğünü çıkartmayan artist
   entry_id:  80925303
   entry_writer: kadin tamircisi
-  entry_fav_count: 226
+  entry_fav_count: 230
   entry_content: |
     toplu taşımada gözünü ayırmadan insanlara sığır gibi bakan dalyaraklarla göz teması kurmak istemiyordur.
   entry_channels: anket
@@ -94,7 +86,7 @@ data:
     abdülkadir geylani'nin yediği tavuğu diriltmesi
   entry_id:  80912313
   entry_writer: samit
-  entry_fav_count: 217
+  entry_fav_count: 218
   entry_content: |
     bakıyorum da sözlük ateistleri yine çok sıkılmış ve olayları çarpıtmaya çalışmışlar. <br/><br/>tavuğun dirilmesi olayı bir analojidir. bu hikmetli mucizenin insanların anlayabileceği bir dilden anlatılmasıdır. aslında hz. geylani hazretleri mc donalds'tan beleş kupon kazanmaktadır ve kadına onu vermektedir.<br/><br/>arapça'da tavuk kelimesinin 8.4 tane anlamı vardır ve bunlardan biri renç sostur.
   entry_channels: tarih
@@ -102,23 +94,15 @@ data:
     aleyna tilki'nin dipsiz kuyum klibi
   entry_id:  80921733
   entry_writer: bestman777
-  entry_fav_count: 212
+  entry_fav_count: 217
   entry_content: |
     bi ara pembe klozetin içinde kurdeleli ince ve narin pembe sevimli bir bok görünecek sandığım klip.<br/><br/>ee şirin mi şirin aleyna tilki starımız sizin gibi simsiyah ve kol gibi sıçacak değil ya. (bkz: <a class="b" href="/?q=i%c4%9fren%c3%a7siniz+ibneler">iğrençsiniz ibneler</a>)
   entry_channels: müzik
 - entry_name: |
-    türkiye'de kaliteli hizmet veren otobüs firması
-  entry_id:  80915254
-  entry_writer: nerdenbileyim
-  entry_fav_count: 199
-  entry_content: |
-    bence (bkz: <a class="b" href="/?q=pamukkale+turizm">pamukkale turizm</a>)<br/><br/>başka milletleri bilmem ama bizim insanımızda en ufak kusuru şikayet etme, iyi hizmete teşekkür etmeme sorunu mevcut. <br/>şahsen pamukkale turizmle yaptığım yolculuklarda yakıt bittiği de oldu, otobüsün arıza yaptığı da. <br/>ancak arıza, kavga vs. kriz durumlarında düzgün müdahaleleri yüzünden şoför ve muavinler için bir kaç kez teşekkür maili atmışlığım da var. bir keresinde gelen cevapta çalışana ikramiye verdiklerini belirttiler hatta. <br/><br/>kötü hizmeti şikayet ettiğimiz kadar iyi hizmete teşekkür etsek o zor şartlarda çalışan emekçi kardeşlerimiz de işlerini yaparken daha motive olurlar. <br/><br/>edit: akbayram
-  entry_channels: anket,seyahat
-- entry_name: |
     nusret'in eti altın tozuna batırması
   entry_id:  80918027
   entry_writer: kuzgunentor
-  entry_fav_count: 188
+  entry_fav_count: 202
   entry_content: |
     bence yaptığı müthiş bir şey. gösteriş ve sunum öyle bir hale geldi ki parasını böyle aptalca şeylere harcamak isteyen, yediği altından ötürü kendisini özel hissedecek ve herkesin yiyemediği şeyleri yemeyi marifet zannedecek andavallar varken böyle insanlara geçirmek sevaptır. nusret geçirmese bir başkası geçirecek. boşverin en azından yerli ve milli bir şekilde geçiriyor adam. ciddi anlamda kendisini tebrik ediyorum.
   entry_channels: yeme-içme
@@ -126,23 +110,15 @@ data:
     dünyanın en korkunç hastalığı
   entry_id:  80906804
   entry_writer: tiral im
-  entry_fav_count: 162
+  entry_fav_count: 163
   entry_content: |
     duymadığımız bilmediğimiz ağır hastalıkları öğrenelim diye geldik adam aşk, kara sevda diyor. len git facebook'a durum olarak gir bunu. burada değil.<br/><br/>edit: imla
   entry_channels: anket,bilim,sağlık
 - entry_name: |
-    3 eylül 2018 tüik enflasyon rakamları açıklaması
-  entry_id:  80915756
-  entry_writer: elbistan
-  entry_fav_count: 159
-  entry_content: |
-    başlıkta iki tane arkadaş var birisi diyor ki tüik’in verileri eurostat garantisi altında diğeri diyor ki resmî gazeteye inanmayan insanlarsınız.<br/><br/>3 örnek yazacağım sadece 10 dakikanızı ayırıp google’dan araştırmak size kalmış:<br/><br/>1. bu ülkede yaşanan en büyük facialardan olan soma faciasında hayatını çoktan kaybetmiş madencinin ağzına ucu boşta duran solunum maskesi takıldı öyle çıkarıldı göçükten.<br/><br/>2. bu ülkede genelkurmay resmî sitesinden düşen bir helikopter için teknik arıza sonucu düştü dendi. 1 gün sonra teröristler nasıl vurduklarını anlatan ve gösteren detaylı video yayınladı. vurulma anı hala youtube mecrasında var.<br/><br/>3.bu ülkenin içişleri bakanı 8 şehit verilen bir saldırı sonrası “bölgede sis vardı maalesef görüş mesafesi sıfırdı” dedi. 1 saat sonra örgüt saldırıya ilişkin görüntü yayınladı hava açık görüş mesafesi gayet de 12537495926 metre. çatışma sonrası görüntüleri hala youtube mecrasında var.<br/><br/>bunlar benim gözüme çarpan ve konu ne zaman “manipülasyon” olsa aklıma gelen örneklerdir. çoğaltılamaz mı? belki 3 değil 3 milyon tane daha bulunur. <br/><br/>muhaliflik, bilgi sahibi olmadan fikir sahibi olmak vs bunları yazarak prim kasma peşinde koşmayın. <br/><br/>geçen ay aldığım zeytin,peynir,ekmek,domates deterjan,kıyafet,ayakkabı,et,süt,yumurta, elektrik-su-ısınma giderleri-internet-telefon ücretlerinde yaşanan olumlu olumsuz fiyatlamaları esas alırım ben. istatistik bilimi ekonominin dinamikleri buna izin vermeyebilir. amenna. ama siz istatiksel ver alacağız diye pinpon topunu esas alıp domatesin fiyatı artmadı yada dış güçler stokçular derseniz kusura bakmayın da asıl dış güç asıl hain sizsiniz.<br/><br/>yoğun istek üzerine edit: ırak şam islam devleti (gerçek adı budur bu canavarların öyle deaş meaş anlamam ben) isimli terör örgütünce kaçırılıp ardından yakılarak şehit edilen askerler için bu ülkede “kendileri gitmiştir, görüntüler sahte, olay hiç yaşanmadı” gibi şeyler yazıldı çizildi söylendi. sonuç olarak ise aylar sonra askerlerimiz şehit sayıldı gizli saklı bir biçimde.
-  entry_channels: ekonomi
-- entry_name: |
     mhp ordu milletvekilinin fındık için isyan çağrısı
   entry_id:  80920030
   entry_writer: 120sekiz
-  entry_fav_count: 157
+  entry_fav_count: 158
   entry_content: |
     devletimiz milletimiz bu zor zamanlardan geçerken dış güçlerin ve fetöcülerin oyununa hizmet eden hainlerin aramızda yeri yoktur. vatanını milletini seven fındık üreticisi gerekirse fındığını bedavaya verecektir. büyük oyunu görelim oyuna gelmeyelim, hainleri görelim.<br/><br/>oh be böyle ne güzelmiş yahu, istediğin hakareti et, as kes, stresini at. svihs demektense bunu deneyin. birisi dava açarsa hükümetimize karşı çıkılınca gaza geldim vatan için küfrettim dersiniz.
   entry_channels: siyaset,haber,ekonomi
@@ -158,7 +134,7 @@ data:
     türkçe kod yazmak
   entry_id:  80921310
   entry_writer: rockn cash
-  entry_fav_count: 107
+  entry_fav_count: 110
   entry_content: |
     cahil zırvasıdır. <br/><br/>dillerin anahtar kelimeleri ile milletlerin üretkenlikleri arasında korelasyon olduğunu sav olarak öne süren zırvalar içermektedir.<br/><br/>avrupa'da finlandiya, estonya, asya'da çin de aynı dilleri ve anahtar kelimeleri kullanarak kod yazar, hatta amerikadaki kodların da hatırı sayılacak kadar büyük bir miktarını ana dili ingilizce olmayanlar yazar.<br/><br/>fakat bu başlıktan ne öğrendik: mühim olan anahtar kelimelerin dili değil, rasyonel ve bütünsel düşünme yeteneğidir.
   entry_channels: programlama
@@ -166,15 +142,23 @@ data:
     ronaldinho gaucho
   entry_id:  80923191
   entry_writer: mozambik asilliyim
-  entry_fav_count: 99
+  entry_fav_count: 110
   entry_content: |
     chelsea'ye attığı o malum gol gelmiş geçmiş en orjinal goldür. ronaldinho'dan başkası atamaz o golü...<br/><br/>bildiğin samba yaparak atmıştır o golü... messi'ymiş ronaldo'ymuş falan kıyaslamam bile... bu adam eğlenmek için oynuyordu, oynarken zevk alıyordu... ve bu onu yüceltiyordu.
   entry_channels: spor
 - entry_name: |
+    ilişkisi yeni bitmiş biriyle ilişki yaşamak
+  entry_id:  80926500
+  entry_writer: would you like some company
+  entry_fav_count: 92
+  entry_content: |
+    yara bandı olmayı göze almaktır.<br/><br/>tüm yara bantları gibi görevinizi tamamladığınızda fırlatılıp atmayı göze almalısınız.
+  entry_channels: ilişkiler
+- entry_name: |
     lisedeki en arka dörtlünün bugünkü durumu
   entry_id:  80912780
   entry_writer: supersantorelli
-  entry_fav_count: 84
+  entry_fav_count: 85
   entry_content: |
     olum yine sıkan sıkana,eskiden bu sözlüğün bir gerçekçiliği,bir öz yaşanmışlık deneyimi,aktarımları vardı anasını skmişsiniz..<br/><br/>lise de arka dörtlü dediğin ya minibüsçü ya hapçı ya gaspçı'dır aq,utanmasanız armatör-banker-beyin cerrahı-pilot yazacaksınız..<br/><br/>(bkz: <a class="b" href="/?q=adam+m%c4%b1+skiyorsunuz+lan+siz%3f">adam mı skiyorsunuz lan siz?</a>)
   entry_channels: anket,eğitim
@@ -198,23 +182,23 @@ data:
     146'dan internete giren efsanevi nesil
   entry_id:  80914913
   entry_writer: january rain
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     basligin asil hali <a class="b" href="/?q=146%27dan+internet+g%c3%b6t%c3%bcne+girmis+efsanevi+nesil">146'dan internet götüne girmis efsanevi nesil</a> olmasi gereken baslikdir.
   entry_channels: tarih,teknoloji
 - entry_name: |
-    resmi kurumların telefonlarını açmaması
-  entry_id:  80921741
-  entry_writer: otomotivci
+    ilk sezonları iyi son sezonları çöp olan diziler
+  entry_id:  80906907
+  entry_writer: james pound
   entry_fav_count: 51
   entry_content: |
-    çünkü, <a class="b" href="/?q=solitaire">solitaire</a> beklemez.
-  entry_channels: anket,haber
+    (bkz: <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a>)
+  entry_channels: anket,tv
 - entry_name: |
     hükümetin krizi aşma stratejileri
   entry_id:  80917776
   entry_writer: issox
-  entry_fav_count: 45
+  entry_fav_count: 47
   entry_content: |
     yalan söyleyerek zaman kazanmak.<br/>zaman kazanırken eldeki varlıkları satmak.<br/>eldeki varlıkları satmaya çalışırken zaman kazanmak.<br/>zaman kazanırken satacak yeni varlıklar bulmaya çalışmak.<br/>satacak yeni varlıklar bulunca yalan söyleyerek milleti kandırmak.<br/>milleti kandırırken satılacaklar için yeni kanun hazırlamak.<br/>kanunu onaylarken gündemi değiştirmek.<br/>ülke dışındaki durumlardan bahane yaratmak.<br/>bu bahanelere milleti inandırmak.<br/>değişen gündemden sonra yeni varlıkları satmak.<br/>satılan yeni varlıklardan sonra milleti tekrar kandırmak.<br/>-tekrar başa dönün-
   entry_channels: siyaset,ekonomi
@@ -222,50 +206,42 @@ data:
     şenol güneş
   entry_id:  80906047
   entry_writer: castor
-  entry_fav_count: 35
+  entry_fav_count: 37
   entry_content: |
     oyunu tutacak adamı yeni transfer diye sahaya sürmezsin, bursa'nın son gün aldığı oyuncudan golü yer iki puan bırakırsın.
   entry_channels: spor
 - entry_name: |
     insanların tek başına bir aktivite yapamaması
-  entry_id:  80926310
-  entry_writer: kafakagidi
-  entry_fav_count: 34
+  entry_id:  80926380
+  entry_writer: leroy smith
+  entry_fav_count: 30
   entry_content: |
-    özellikle sinemaya gittiğinizde kimileri size üzülerek, kimileri de ucubeymişsiniz gibi bakıyor. yani birilerine göre yapayalnız, kimsesizsiniz, kimilerine göre inanılmaz büyük derecede mental sorunlarınız var. halbuki siz sadece kendinizle özel bir zaman geçirmek istiyorsunuz o kadar. bilmem dikkat ettiniz mi, insanlar hep en özel günlerini sevdikleriyle yaşar, ama kimse kendisiyle özel bir an yaşamaz. bana göre, doğum anımdan, ölüm anıma kadar kendi yanımda sadece kendim kalacağıma göre, bir kaç anımın olması, yapayalnız yaptığım şeylerden keyif almam çok normal değil mi? türklere göre değil. üzücü.
+    el âlem hapishanesinden çıktığınız gün, tek başınıza yaptığınız her aktivite büyük bir keyfe tekâbül edecektir dostlar. çıkın bence.
   entry_channels: ilişkiler
-- entry_name: |
-    ilişkisi yeni bitmiş biriyle ilişki yaşamak
-  entry_id:  80926948
-  entry_writer: yazar dedigin benim gibi olur
-  entry_fav_count: 25
-  entry_content: |
-    önce ilişkiye bakılmalı ilişki mi diye. herkes yaşadığı siktiri boktan her şeye ilişki diyor. herifin teki aşk ayağına kadın dolandırıyor, ilişki diyor. facebook'tan kolpa hesaplarla düşürdüğü, telefon seks yaptığı kezbanla yaşadığına ilişki diyor. ta vietnam'daki evli bir hatunu yine facebook'tan düşürüp, onun çıplaklığına bakarak yaptığı elizabeth'e ilişki diyor. herif makinelerle yaşıyor. elektrik faturasını ödeyemeyip enerjiyi kesseler, ilişki gitti, nanay.<br/><br/>şöyle ilk defa reelde güzelce birbirlerini görüp içleri kıpırdanmış, birbirlerine heyecanla açılmış, birbirlerinin götünü başını görmeden önce ilk el ele tutuştuklarında içleri ürpermiş, tonlarca güzel anıları olan normal bir ilişkiden çıkmışsa, dikkatli olmak lazım güzel kardeşim. ilişkiler artık; haydi tanışalım, bak bu benim amım, bu da benim sikim diye başladığı için fark var.
-  entry_channels: ilişkiler
-- entry_name: |
-    loris karius
-  entry_id:  80906017
-  entry_writer: frekans06
-  entry_fav_count: 21
-  entry_content: |
-    beliktaşın bu seneki en iyi transferi olduğunu düşünüyorum. ancak maç 1-0 iken aut atışlarında çok fazla zaman geçirmeye oynadı ve sarıyı da gördü. maç 1-1’e gelince ise kıçına motor takmış gibi kullandı aynı atışları. <br/><br/>bu gibi durumlarda tuttuğum takım da dahil vakit geçiren takımın gol yedikten sonra çırpınışlarına bitiyorum. hatta inşallah gol yer diye de dua ediyorum. pezevenkler adam gibi oynasan belki bir gol daha atmaya zamanın kalacak.
-  entry_channels: spor
-- entry_name: |
-    entelektüelliği bir anda yok eden şeyler
-  entry_id:  80928370
-  entry_writer: exsequor
-  entry_fav_count: 21
-  entry_content: |
-    garsona "şefim" diye bağırmak.
-  entry_channels: ilişkiler,havacılık
 - entry_name: |
     winston'un hala 11 tl olması
   entry_id:  80929501
   entry_writer: kusurat
-  entry_fav_count: 17
+  entry_fav_count: 23
   entry_content: |
     (bkz: <a class="b" href="/?q=kaba+%c3%a7eneni">kaba çeneni</a>)
   entry_channels: yeme-içme,ekonomi
+- entry_name: |
+    loris karius
+  entry_id:  80906017
+  entry_writer: frekans06
+  entry_fav_count: 22
+  entry_content: |
+    beliktaşın bu seneki en iyi transferi olduğunu düşünüyorum. ancak maç 1-0 iken aut atışlarında çok fazla zaman geçirmeye oynadı ve sarıyı da gördü. maç 1-1’e gelince ise kıçına motor takmış gibi kullandı aynı atışları. <br/><br/>bu gibi durumlarda tuttuğum takım da dahil vakit geçiren takımın gol yedikten sonra çırpınışlarına bitiyorum. hatta inşallah gol yer diye de dua ediyorum. pezevenkler adam gibi oynasan belki bir gol daha atmaya zamanın kalacak.
+  entry_channels: spor
+- entry_name: |
+    little caesars pizza taciz rezaleti
+  entry_id:  80931365
+  entry_writer: bipicingunlugu
+  entry_fav_count: 18
+  entry_content: |
+    kız arkadaşım, bugün öğlen saatlerinde little caesars pizza, çorlu - kazimiye şubesinden pizza siparişi vermiş.<br/><br/>gelen pizzayı alıp, yemiş. buraya kadar bir sorun yok.<br/><br/>17.33'te tanımadığı bir numaradan mesaj geliyor. ilk önce anlam veremiyor ve cevap vermiyor. ardından aynı kişi instagramdan da ekliyor ve profilinde, sipariş verdiği pizza restoranının adı yazıyor.<br/><br/>bu durum diğer kadınların, kardeşlerinizin, eşlerinizin, ablanınızın başına da gelebilirdi.<br/><br/>1) kişisel verilerin korunması hakkında kanun varken, bu cesaret nereden gelmektedir? 100 kıza yazayım, 10'u düşer mantığı ne zaman bitecektir?<br/>2) türkiye'nin birçok bölgesinde yer alan little caesars pizza, varlığının nedeni olan müşterilerinin güvenliğini -ev adresini, telefon numarasını, adını ve soyadını- koruyamamakta mıdır?<br/>3) bu durumun mağduriyeti nasıl giderilecektir, böyle durumlarda engellense bile karşı tarafta bilgiler kalmaya devam etmektedir.<br/><br/>ek: sipariş detayı, telefondan gelen mesaj ve instagram profili bağlantı adreslerindedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/5y08rd.jpg" title="http://i.hizliresim.com/5y08rd.jpg">sipariş</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/GD7vQ3.jpg" title="http://i.hizliresim.com/GD7vQ3.jpg">whatsapp</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/MDQ6Yk.jpg" title="http://i.hizliresim.com/MDQ6Yk.jpg">instagram</a>
+  entry_channels: ilişkiler,yeme-içme
 - entry_name: |
     siyah dantel iç çamaşırı
   entry_id:  80929567
@@ -283,29 +259,45 @@ data:
     eger kucuk ayrani daha da fazla kuculturlerse shot boyutuna gelecek. bu millete ayran shotla kafa bulduracaklar oraya gidiyoruz.
   entry_channels: siyaset,anket,ekonomi
 - entry_name: |
+    entelektüelliği bir anda yok eden şeyler
+  entry_id:  80928642
+  entry_writer: icimdeki sey gibi bilmem ki ney gibi
+  entry_fav_count: 14
+  entry_content: |
+    (bkz: <a class="b" href="/?q=genius+anlam%c4%b1ndaki+too%27yu+biti%c5%9fik+yazmak">genius anlamındaki too'yu bitişik yazmak</a>)
+  entry_channels: ilişkiler,havacılık
+- entry_name: |
+    ateizmin bir hastalık olması
+  entry_id:  80906964
+  entry_writer: losteros
+  entry_fav_count: 14
+  entry_content: |
+    dergahta trencilik oynamak hastalık değil ! <br/>çoluk çocuğa tecavüz hastalık değil ! <br/>hayvanlara zulüm hastalık değil !<br/>kendinden olmayandan öldüresiye nefret etmek hastalık değil! <br/>kadına zulüm ve cinayet hastalık değil! <br/>anlamadığı konularda entry kasmak takiye yapmak hastalık değil! <br/><br/>(bkz: <a class="b" href="/?q=cehaletin+bir+hastal%c4%b1k+olmas%c4%b1">cehaletin bir hastalık olması</a>)
+  entry_channels: siyaset,sağlık,eğitim
+- entry_name: |
     trabzonspor
   entry_id:  80921474
   entry_writer: maverick12
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     koyu bir fenerbahçe taraftarı olarak bu seneki trabzon'un başarılı olmasını çok istiyorum. <br/><br/>nedeni ise, türk futbolunun kanseri olarak nitelenecek derecede kronik hale gelen "göz boyama amaçlı transfer politikası" na uymayarak, hiçbirimizin adını bilmediği ve fakat düşük maliyetli ve diri bir kadro kurmuş olmaları. bu kadronun ana iskeleti yerlilerden oluşurken, yeni yabancı transferlerin tamamı düşük maliyetli ve fiziksel anlamda diri isimlerden seçilmiş gibi görünüyor. umarım başarılı olurlar da yüksek maliyetli etiket transferlerin bir işe yaramadığı tüm ülke futbolu tarafından anlaşılsa.
   entry_channels: spor
 - entry_name: |
-    little caesars pizza taciz rezaleti
-  entry_id:  80931365
-  entry_writer: bipicingunlugu
-  entry_fav_count: 10
-  entry_content: |
-    kız arkadaşım, bugün öğlen saatlerinde little caesars pizza, çorlu - kazimiye şubesinden pizza siparişi vermiş.<br/><br/>gelen pizzayı alıp, yemiş. buraya kadar bir sorun yok.<br/><br/>17.33'te tanımadığı bir numaradan mesaj geliyor. ilk önce anlam veremiyor ve cevap vermiyor. ardından aynı kişi instagramdan da ekliyor ve profilinde, sipariş verdiği pizza restoranının adı yazıyor.<br/><br/>bu durum diğer kadınların, kardeşlerinizin, eşlerinizin, ablanınızın başına da gelebilirdi.<br/><br/>1) kişisel verilerin korunması hakkında kanun varken, bu cesaret nereden gelmektedir? 100 kıza yazayım, 10'u düşer mantığı ne zaman bitecektir?<br/>2) türkiye'nin birçok bölgesinde yer alan little caesars pizza, varlığının nedeni olan müşterilerinin güvenliğini -ev adresini, telefon numarasını, adını ve soyadını- koruyamamakta mıdır?<br/>3) bu durumun mağduriyeti nasıl giderilecektir, böyle durumlarda engellense bile karşı tarafta bilgiler kalmaya devam etmektedir.<br/><br/>ek: sipariş detayı, telefondan gelen mesaj ve instagram profili bağlantı adreslerindedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/5y08rd.jpg" title="http://i.hizliresim.com/5y08rd.jpg">sipariş</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/GD7vQ3.jpg" title="http://i.hizliresim.com/GD7vQ3.jpg">whatsapp</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://i.hizliresim.com/MDQ6Yk.jpg" title="http://i.hizliresim.com/MDQ6Yk.jpg">instagram</a>
-  entry_channels: ilişkiler,yeme-içme
-- entry_name: |
     türkiye'de araç sahibi olmanın enayilik olması
   entry_id:  80930159
   entry_writer: erdalbakkalinciragi
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+ya%c5%9faman%c4%b1n+enayilik+olmas%c4%b1">türkiye'de yaşamanın enayilik olması</a>)
   entry_channels: otomotiv,ekonomi
+- entry_name: |
+    türkiye'de pitbull beslemek yasaklansın kampanyası
+  entry_id:  80930388
+  entry_writer: teo the leo
+  entry_fav_count: 9
+  entry_content: |
+    <a class="b" href="/?q=kama+sokularak+a%c3%a7%c4%b1lmaya+%c3%a7al%c4%b1%c5%9f%c4%b1lan+pitbull+%c3%a7enesi">kama sokularak açılmaya çalışılan pitbull çenesi</a> başlığından sonra artık kesinlikle desteklenmesi gereken kampanyadır. <br/><br/>bir kişi tüm pitbull saldırısı sonucu sakatlanma ve ölüm haberlerini listeleyip özelden atsın.<br/>bir kişi de change.org'dan kampanya açıp linkini atsın.<br/><br/>ekip olarak birleşmezseniz, o pitbull bir gün sizi bulacak.<br/><br/>pittbull sever ruh hastaları siz de çok konuşmayın, ananız babanız bir pitbull tarafından parçalanırsa bu kampanyaya katılacaksınız.
+  entry_channels: anket,sağlık,haber
 - entry_name: |
     ryan babel
   entry_id:  80906668
@@ -318,10 +310,26 @@ data:
     neden evlenmiyorsun sorusuna alternatif cevaplar
   entry_id:  80929553
   entry_writer: sozlukalemininarananyazari
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     -neden evlenmiyorsun?<br/>+yarak kürek adetler ile boş beleş andaval sürüsü insan müsveddeleriyle muhatap olmamak için evlenmiyorum. ayrıca evlenmenin benden götüreceği maddi kayıp bana getireceği manevi hazdan çok daha fazla.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    melis ayça değirmencioğlu
+  entry_id:  80931043
+  entry_writer: inancini kaybeden rahip
+  entry_fav_count: 6
+  entry_content: |
+    estetiksiz zamanlarında benden daha yakışıklıymış.
+  entry_channels: magazin
+- entry_name: |
+    türk kızının internette ego tatmin etmesi
+  entry_id:  80931663
+  entry_writer: tabudeviren
+  entry_fav_count: 5
+  entry_content: |
+    bir türkiye gerçeği. her türlü internet sitesi, uygulaması, ego tatmin edilecek bir aygıta itinayla dönüştürülür.
+  entry_channels: ilişkiler
 - entry_name: |
     dipsiz kuyum
   entry_id:  80922695
@@ -331,29 +339,21 @@ data:
     sözlerini <a class="b" href="/?q=emrah+karaduman">emrah karaduman</a> ve <a class="b" href="/?q=mevlana">mevlana</a>'nın birlikte yazdığı müthiş eser<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>.
   entry_channels: müzik
 - entry_name: |
-    türkiye'de pitbull beslemek yasaklansın kampanyası
-  entry_id:  80930791
-  entry_writer: unutmayi unutan adam
-  entry_fav_count: 2
+    amerikan ingilizcesi vs ingiliz ingilizcesi
+  entry_id:  80931868
+  entry_writer: yesilfularlikiz
+  entry_fav_count: 3
   entry_content: |
-    buyurun imza kampanyası hakkında bilgi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a648ea9db57">https://eksiup.com/a648ea9db57</a>
-  entry_channels: anket,sağlık,haber
+    amerikan ingilizcesini konuşmak kolay ve rahattır, ingiliz ingilizcesini dinlemek keyifli ve güzeldir
+  entry_channels: anket,edebiyat
 - entry_name: |
-    izlenilen ilk yabancı dizi
-  entry_id:  80906137
-  entry_writer: kirk lee hammett
+    loris karius'un yakışıklı falan olmaması
+  entry_id:  80932429
+  entry_writer: gelince yaz
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=sabrina+the+teenage+witch">sabrina the teenage witch</a>) <br/><br/>acemi cadı'nın orjinaliydi bu. atv'de çıkıyodu diye hatırlıyorum. <br/><br/>gece gece utandırdı bak.
-  entry_channels: tv
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  80909400
-  entry_writer: cinisijaponisi
-  entry_fav_count: 1
-  entry_content: |
-    buraya (silmeden) yazdığım ve silmeyeceğim son entrydir.<br/>başınıza bela alıyorsunuz,şeytanı çağırıyorsunuz demedi demeyin!
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    hemen tövbe demelisin.
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  80913612
@@ -371,13 +371,21 @@ data:
     sabah akşam tenis maçı yayınlayarak canım ülkemizin entelektüel seviyesini arttıran <a class="b" href="/?q=sportstv">sportstv</a>'nin kazanacağı versus.
   entry_channels: spor,anket
 - entry_name: |
-    amerikan ingilizcesi vs ingiliz ingilizcesi
-  entry_id:  80931868
-  entry_writer: yesilfularlikiz
+    aşk sevişmek değil birlikte uyuyabilmektir
+  entry_id:  80927433
+  entry_writer: everythingsfine
   entry_fav_count: 1
   entry_content: |
-    amerikan ingilizcesini konuşmak kolay ve rahattır, ingiliz ingilizcesini dinlemek keyifli ve güzeldir
-  entry_channels: anket,edebiyat
+    aşk, seviştikten sonra birlikte uyuyabilmektir. ama siz boşalıp rahatlamış, kadın hala orgazm olmamışsa zor uyursunuz. uyutmaz ki o kadın sizi...
+  entry_channels: ilişkiler
+- entry_name: |
+    anthony modeste
+  entry_id:  80932620
+  entry_writer: inglorcarnesir
+  entry_fav_count: 1
+  entry_content: |
+    galatasaray bonservisi elinde olan topçuyu serbest transfer olarak yapacağı için ffp kapsamına girmiyor. tolga ciğerci ve bafetimbi gomis'ten 6.5 milyonluk bir maaş bütçesi açıldı ve maaş bütçesi de ffp kapsamına girmiyor.<br/><br/>twitter üzerinde de #modestegalatasaraya tag'i açıldı. <br/><br/>bu adam ligde oynamayıp sadece şampiyonlar liginde oynasa bile yeter ya. 6 maçtan 4 galibiyet alsan ve gruptan çıksan 20 milyon euro'ya yakın para kazanıyosun. biraz mantık ya.
+  entry_channels: spor
 - entry_name: |
     kız arkadaşına yemek yapan erkek
   entry_id:  80931046
@@ -393,13 +401,5 @@ data:
   entry_fav_count: 0
   entry_content: |
     bi, bir başkasıyla sikişirken görmek değildir. bu konuda anlatacaklarım olabilirdi de... neyse diyorum..
-  entry_channels: ilişkiler
-- entry_name: |
-    aşk sevişmek değil birlikte uyuyabilmektir
-  entry_id:  80926019
-  entry_writer: stajyermafya
-  entry_fav_count: 0
-  entry_content: |
-    aşk, seviştikten sonra birlikte uyumaktır.
   entry_channels: ilişkiler
 ---
