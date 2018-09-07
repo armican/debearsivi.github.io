@@ -6,7 +6,7 @@ data:
     antalya'daki sudanlı saldırgan
   entry_id:  81042673
   entry_writer: oralardabiyerlerde
-  entry_fav_count: 730
+  entry_fav_count: 731
   entry_content: |
     "antalya'da parkta oynayan çocukların başını taşla ezen sudanlı"<br/><br/>video aşağıdaki linktedir.<br/>ayrıca videoyu sadece cumhuriyet gazetesinde bulabildim, özellikle seçilmemiştir. konuda paylaşılan hiçbir link özellikle seçilmemiştir, siyasi yakıştırma yapılmasın.<br/><br/>antalya’nın kemer ilçesinde geçtiğimiz pazar günü 3’ü kız çocuğu 4 kişiye saldırıp 2 kişiyi ağır yaraladıktan sonra nöbetçi mahkemece serbest bırakılan ancak tekrar yakalanarak hakim karşısına çıkartılan ve tutuklanan sudan uyruklu şahsın mahalleliye yaşattığı dehşetin görüntüleri ortaya çıktı.<br/><br/>arızalı kameralardan kurtarılan görüntülerle çevredeki bir binanın güvenlik kameralarına takılan görüntüler olayın dehşetini gözler önüne seriyor. görüntülerde, markete giderek buzdolabının yanında bir süre duran sudan uyruklu dominic ngor, daha sonra çıkışa yönelip telefonla konuşmaya başlıyor. bu sırada markete bindikleri scooteriyle 6 yaşlarında 2 kız çocuğu geliyor. çocuklardan biri dışarıda beklerken diğeri içeriden oyuncaklı şekerleme almaya giriyor. o sırada telefonla görüşmekte olan dominic ngor, kısa süre sonra dışarıda beklemekte olan j.p.s. isimli kız çocuğuna hırsla tokat atıp adeta yere yapıştırıyor ve uzaklaşıyor. ağlayarak içerideki arkadaşının yanına kaçan j.p.s., marketteki kasa görevlisi kadın tarafından teselli edilmeye çalışılıyor.<br/><br/>otel işletmecisi irfan bozdoğan ve görevliler olayı duyarak market önünde gerekli yerlere telefon ederken, dominic ngor, bu kez ellerinde taşlarla tekrar geri dönüyor. kasiyer korkuyla içeriye kaçarken, saldırgan, sakınmaya çalışan irfan bozdoğan'ı başına fırlattığı taşla yaralıyor.<br/><br/>demirkol yere düşerken, markete elinde taşla dalan saldırgan, kız çocuklarına ve kasiyer kıza saldırıyor ve yine uzaklaşıyor. görüntülerin son bölümünde, kameraların görüş alanı dışında, 100 metre kadar uzakta çöp dökmekte olan 15 yaşındaki ı.ç.’ü başına fırlattığı taşla ağır yaraladıktan sonra yerde tekmelemeye başlayan ve o esnada mahalleli üç gencin müdahalesiyle ellerinde taşlarla markete doğru koşmakta olan saldırganın olay yerinde biriken kalabalık tarafından etkisiz hale getirilmesi, ambulans ve polis ekiplerinin gelişi yer alıyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/video/video_haber/1074039/Sudanli_saldirganin_mahalleliye_yasattigi_dehset_kamerada.html" title="http://www.cumhuriyet.com.tr/m/video/video_haber/1074039/Sudanli_saldirganin_mahalleliye_yasattigi_dehset_kamerada.html">http://www.cumhuriyet.com.tr/…_dehset_kamerada.html</a><br/>video link: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ULSrQqBKSP4">https://www.youtube.com/watch?v=ulsrqqbksp4</a><br/><br/>edit: bir kişi özel mesaj atarak çocukların başını taşla ezmediğini, benim yalan söylediğimi söylemiş. bakın mynet'in attığı başlık burada <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mynet.com/antalya-da-parkta-oynayan-cocuklarin-basini-tasla-ezen-sudanli-saldirgan-serbest-birakildi-110104370466" title="https://www.mynet.com/antalya-da-parkta-oynayan-cocuklarin-basini-tasla-ezen-sudanli-saldirgan-serbest-birakildi-110104370466">https://www.mynet.com/…rbest-birakildi-110104370466</a><br/><br/>ben bu habere denk geldim ve başlığı buraya taşıdım, ırkçı falan değilim. türkiye cumhuriyeti'nin her vatandaşı eşittir fakat kimse ülkesinden kalkıp gelip benim ülkemin vatandaşına zarar veremez. kimseyi gaza getirdiğim yok, her ülke mülteci alıyor fakat işe yarayanları alıyor. biz neden kontrollü bir şekilde almıyoruz? ülkenin mülteci kontenjanı dolmuştur, artık yeter.<br/><br/>türk insanı misafirperverdir ama bunlar misafir değil ev sahibi gibi davranıyor. biz artık kendi ülkemizde güven problemi yaşamaya başladık. ileride ideolojik problemlerin yaşanmaması için devletin bir önlem alması şart.<br/><br/>kontrolsüz göç, mercedeslerine binip sitedeki evlerinden çıkmayan siyasetçilerin umurunda bile değil. a partisi, b partisi demiyorum hiçbirinin umurunda değiliz. mecliste 600 tane çöp besliyoruz!!! biri bile halkı temsil etmiyor.. artık yeter kardeşim<br/><br/>cnntürk'e göre de 5 kadını taciz etmiştir<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/cnnturk/status/1037251514795024384" title="https://mobile.twitter.com/cnnturk/status/1037251514795024384">https://mobile.twitter.com/…tus/1037251514795024384</a><br/><br/>bu haberler kaldırılırsa diye arşivledim.<br/>mynet arşiv: <a rel="nofollow noopener" class="url" target="_blank" href="http://archive.is/UKUOm">http://archive.is/ukuom</a><br/>cumhuriyet arşiv: <a rel="nofollow noopener" class="url" target="_blank" href="http://archive.is/lqUep">http://archive.is/lquep</a><br/><br/>ayrıca çocukları kurtarırken yaralanan kişi irfan demirkol değil irfan bozdoğan'mış. bana atılan özel mesaj doğrultusunda editlenmiştir.<br/><br/>-----------------<br/><br/>elin sudanlısı önce bakkalda küçük kız çocuklarını tokatlıyor daha sonra parkta oynayan çocukların başını taşla eziyor. bu kişi akdeniz üniversitesi'nde yabancı kontenjanıyla okuyor.<br/><br/>cnntürk'e göre de 5 kadını taciz etmiştir<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/cnnturk/status/1037251514795024384" title="https://mobile.twitter.com/cnnturk/status/1037251514795024384">https://mobile.twitter.com/…tus/1037251514795024384</a><br/><br/>tarih kendi vatandaşını koruyamayan, taciz ettiren hukuk sistemini affetmeyecek.<br/><br/>kan ve yüzbinlerce can vererek küllerinden yeniden doğan bu ulus devlet ne hale geldi. afrikali, suriyeli, ıraklı, afgan doldurmaya yetmez ama evet. mülteci çöplüğüne hoşgeldiniz.
   entry_channels: haber
@@ -14,7 +14,7 @@ data:
     düğün yapmak yerine dünyayı gezelim diyen kız
   entry_id:  81053179
   entry_writer: yasar usta
-  entry_fav_count: 488
+  entry_fav_count: 508
   entry_content: |
     mevcut döviz kurlarıyla dünyayı biraz zor gezecek kızdır.
   entry_channels: anket,ilişkiler,seyahat
@@ -22,7 +22,7 @@ data:
     meb'in kağıt sıkıntısı nedeniyle kitap basamaması
   entry_id:  81055105
   entry_writer: plazma
-  entry_fav_count: 474
+  entry_fav_count: 492
   entry_content: |
     iyi haberdir. bastıkları kitapları da gördük. bir nesil embesil olarak yetişti.
   entry_channels: siyaset,haber,eğitim,ekonomi
@@ -30,7 +30,7 @@ data:
     ekmek acilen 2 tl olmalı
   entry_id:  81044723
   entry_writer: diger adam
-  entry_fav_count: 454
+  entry_fav_count: 457
   entry_content: |
     ekmek dövize göre alınsın böylelikle insanlar döviz artışını dolaylı değil anlık olarak hissedebilir diye devam edebilecek konuşma bütünüdür.
   entry_channels: haber,yeme-içme,ekonomi
@@ -38,47 +38,39 @@ data:
     engin ardıç'ın ejder meyveli smoothie savunması
   entry_id:  81044046
   entry_writer: baron1776
-  entry_fav_count: 369
+  entry_fav_count: 374
   entry_content: |
     yalakalığın gerçek manasıyla sınır ve boyutlarının olmadığını gözler önüne seren durum. <br/><br/>yazık! gerçekten tam bir (bkz: <a class="b" href="/?q=ali+kemal">ali kemal</a>). (bkz: <a class="b" href="/?q=saray+yalakas%c4%b1">saray yalakası</a>).
   entry_channels: siyaset,haber,yeme-içme,ekonomi
 - entry_name: |
-    2 dakikalık kapı açmaya 100 tl alan çilingir
-  entry_id:  81051037
-  entry_writer: siyahbeyaznegatif
-  entry_fav_count: 292
+    2018 ekonomik krizi
+  entry_id:  81041128
+  entry_writer: canavarro
+  entry_fav_count: 302
   entry_content: |
-    vaktiyle aynı nedenle bir çilingire fiyat yüksek değil mi diye sitem ettiğimde peki o zaman diyerek henüz açtığı arkasında anahtar takılı kapıyı tekrar kapatıp gitmiş, beni de göt gibi bırakmıştı. o gün bu gündür emeğin ve bilginin değerini daha iyi anlar oldum.
-  entry_channels: anket,ekonomi
+    (bkz: <a class="b" href="/entry/80777003">#80777003</a>) entrysinin devamı niteliğinde, bir kısmı kendi ilkel araştırmalarıma dayanan, ülkenin ve ekonomisinin nasıl ellerde olduğunu anlatan, ikinci bir vakadan bahsetmek istiyorum. gerçekten inanılmaz güzel hikaye.<br/><br/>önce çok kısa bir kişisel görüş, sonrasında <a class="b" href="/?q=vay+anam+vay+serhat+neler+d%c3%b6nm%c3%bc%c5%9f+ya.">vay anam vay serhat neler dönmüş ya.</a><br/><br/>----- 60 yaş üstü muhalif facebook timeline postu mode on------<br/><br/>ülkeniz bir noktada kara paranın, dolandırıcılığın, batıya<sup class="ab"><a title="(bkz: özellikle abd&#39;ye)" href="/?q=%c3%b6zellikle+abd%27ye" data-query="özellikle abd&#39;ye">*</a></sup> karşı yapılan sahtekarlığın merkezi haline gelmişse, o zaman büyük sıkıntılar sizin için geliyor demektir. türkiye, ne yazık ki, son yıllarda böyle bir ülke konumuna gelmiştir. <a class="b" href="/?q=el+be%c5%9fir">el beşir</a> katliam yapmakla suçlanır, insan hakları mahkemesi'nde hakkında soykırım suçu konusu görüşülür, darfur'daki olayların müsebbibidir, siz adamı sarayda ağırlarsınız, bir de kalkar darfur için kampanyalar düzenlersiniz. iran'a karşı ambargo vardır, babalar gibi kabul etmişsinizdir, ancak gider bir tane denyo <sup class="ab"><a title="(bkz: reza)" href="/?q=reza" data-query="reza">*</a></sup> üzerinden bu ambargoyu deler, sonra yine aynı denyoyu televizyona çıkarır översiniz. <a class="b" href="/?q=maduro">maduro</a> kardeşinizi dünyada bir kolombiya'nın bir bizim çomarlar sever, kendisi saraya ilk davet edilenler arasındadır. bunlar, bilinen medyatik olaylar. ben size daha az medyatik ama ülkemizin başını ağrıtması muhtemel bir olaylar zincirinden bahsetmek istiyorum.<br/><br/>----- 60 yaş üstü muhalif facebook timeline postu mode off------<br/><br/>bir ay kadar önce, bodrumda lüks bir tekne plaja yanaşıyor, kutuların içindeki lahmacun ve ayran halka dağıtılıyor. sonradan anlaşılıyor ki, bunu yapan arkadaşımız son derece hayırsever "iş adamı", dara düşenin dostu, midesi kazınanın yoldaşı: <a class="b" href="/?q=sezgin+baran+korkmaz">sezgin baran korkmaz</a>:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/1064799/Bodrum_da_lahmacun_dagitan_isadami__911_Baran__cikti.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/1064799/Bodrum_da_lahmacun_dagitan_isadami__911_Baran__cikti.html">http://www.cumhuriyet.com.tr/…911_baran__cikti.html</a><br/><br/>başlığına girdiğinizde ne kadar hayırsever bir insan olduğundan, açtığı okullardan, garibin gurebanın yanında olmasından bahsediliyor. arada birkaç şüpheci arkadaş, dur bir bakalım diyor.<br/><br/>ben bu arada merak edip, kendisi kimdir ne iş yapar diye bakıyorum ve klasik sıfırdan zirveye hikayesiyle karşılaşıyorum:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/ekonomi/karin-yuzde-70ini-fakirlere-dagitiyor-40030702" title="http://www.hurriyet.com.tr/ekonomi/karin-yuzde-70ini-fakirlere-dagitiyor-40030702">http://www.hurriyet.com.tr/…lere-dagitiyor-40030702</a><br/><br/>aynı içerikten kendisinin bakanlarımızla da içli dışlı olduğunu görüyorum. bu arada kendisi şu an 40 yaşında ve şirketlerinden, bulabildiğim en eskisi, kendisi 24 yaşındayken kurulmuş, hala çalışıyor ve devletten ihale almaya devam ediyor. <br/><br/>sonra başka bir haber buldum:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://emlakkulisi.com/sbk-holdingden-bukombincoma-50-milyon-dolarlik-yatirim/396740" title="https://emlakkulisi.com/sbk-holdingden-bukombincoma-50-milyon-dolarlik-yatirim/396740">https://emlakkulisi.com/…on-dolarlik-yatirim/396740</a><br/><br/>ben de az çok start-up işlerinin içinde olduğum için ilgimi çekti ve haberi okudum. kendisi şöyle bir şey paylaşmış, ki az çok türkiye'deki yatırımcı profilini ve milyon dolarlık holding yöneticilerinin yaklaşımını bilen biri burada bir bit yeniği olduğu anlar (50 milyon dolarlık yatırım yapacağı kısmına değinmiyorum bile) <sup class="ab"><a title="(bkz: bu arada bukombin.com artık yok)" href="/?q=bu+arada+bukombin.com+art%c4%b1k+yok" data-query="bu arada bukombin.com artık yok">*</a></sup>: <br/><br/>"sitenin anlaşmalı olduğu yüksek takipçili bir sosyal medya hesabından yapılan bir saç modeli paylaşımı ardından aynı gün içinde aynı kuaföre aynı istekle 17 kişinin geldiğini gören baran korkmaz, siteyi satın alıp yatırım yapmaya karar verdi. ".<br/><br/>incelemeye devam ederken, kendisinin türkiye'de çok fazla şirket satın aldığını ve bunların değerinin oldukça üzerinde olduğunu anlamam çok sürmedi. bir saçmalık vardı, adam 100 milyon dolar biçilen borajet'e 200 küsür milyon dolar veriyordu, sonra borajet operasyonlarına ara veriyordu falan filan. sonradan baktım ki paravan bazı denemeler var, satış işlemi hem oluyor hem olmuyor, davalar açılıyor vs:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sabah.com.tr/yazarlar/dilek-gungor/2017/12/08/borajetin-eski-sahibi-dava-aciyor" title="https://www.sabah.com.tr/yazarlar/dilek-gungor/2017/12/08/borajetin-eski-sahibi-dava-aciyor">https://www.sabah.com.tr/…n-eski-sahibi-dava-aciyor</a><br/><br/>bu arada bu haberde bazı isimler vardı ama dikkatimi tam çekmemişti.<br/><br/>sonraki aşamada, merakımdan bizim reisle bir alakası var mı diye, ulu hakanımızın ismiyle bu arkadaşın ismini yan yana yazıp aradım. ilk çıkan haber şu: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aksam.com.tr/ekonomi/wre-turkiyeye-yeni-yatirimlar-yapacak/haber-679103" title="https://www.aksam.com.tr/ekonomi/wre-turkiyeye-yeni-yatirimlar-yapacak/haber-679103">https://www.aksam.com.tr/…mlar-yapacak/haber-679103</a><br/><br/>burada ip yavaştan kopmaya başladı. çünkü buradaki jacob kingston isimli amerikalı iş adamı, <a class="b" href="/?q=internal+revenue+service">internal revenue service</a><sup class="ab"><a title="(bkz: amerikan vergi servisi)" href="/?q=amerikan+vergi+servisi" data-query="amerikan vergi servisi">*</a></sup>'i kardeşi ve iş ortağı ile beraber 500 milyon dolar dolandırmak suçlamasıyla aranıyorlardı. sonra çok bomba bir şey oldu, bu jacob arkadaşımız, ortağıyla <sup class="ab"><a title="(bkz: sanırım aynı zamanda kardeşi şaşkın bir arkadaş)" href="/?q=san%c4%b1r%c4%b1m+ayn%c4%b1+zamanda+karde%c5%9fi%2c+%c5%9fa%c5%9fk%c4%b1n+bir+arkada%c5%9f" data-query="sanırım aynı zamanda kardeşi şaşkın bir arkadaş">*</a></sup> beraber türkiye'ye kaçmaya çalışırken los angeles'ta yakalandı:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/son-dakika-jacop-ve-isaiah-kingston-turkiye-ye-kacmak-isterken-yakalandi-2128378" title="https://www.haberturk.com/son-dakika-jacop-ve-isaiah-kingston-turkiye-ye-kacmak-isterken-yakalandi-2128378">https://www.haberturk.com/…terken-yakalandi-2128378</a><br/><br/>üstelik türkiye'deki banka hesaplarına milyonlarca doları çoktan aktarmışlardı bile. üçüncü gizemli ortaksa, ki kendisi esas adı <a class="b" href="/?q=levon+termendzhyan">levon termendzhyan</a> olan ermeni asıllı rus bir "iş adamı"dır ve ilginç olan bu şahıs, türk vatandaşı olup, lev aslan derman adını almıştır: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://fox13now.com/2018/08/31/judge-orders-isaiah-kingston-detained-in-tax-fraud-case/" title="https://fox13now.com/2018/08/31/judge-orders-isaiah-kingston-detained-in-tax-fraud-case/">https://fox13now.com/…n-detained-in-tax-fraud-case/</a><br/><br/>ben tabi ufak bir şokla reisin acaba bu adamlarla bir teması olmuş muydu derken, şunu buldum:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.superhaber.tv/abdli-devden-turkiyeye-yatirim-hamlesi-haber-80081" title="https://www.superhaber.tv/abdli-devden-turkiyeye-yatirim-hamlesi-haber-80081">https://www.superhaber.tv/…irim-hamlesi-haber-80081</a><br/><br/>burada en soldaki abi, amerika'da paket olan, jacop kingston, o ve reisimiz arasındaki şahıs da sezgin baran korkmaz. <sup class="ab"><a title="(bkz: neyse ben bir şey demiyorum)" href="/?q=neyse+ben+bir+%c5%9fey+demiyorum" data-query="neyse ben bir şey demiyorum">*</a></sup><br/><br/>daha sonra, ya bu levon, aman lev aslan derman abimiz nerededir, napar derken, facebook aramam sonuç verdi: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/ecx72z">https://ibb.co/ecx72z</a><br/><br/>bizim levon reis<sup class="ab"><a title="(bkz: fotoğrafta sağda)" href="/?q=foto%c4%9frafta+sa%c4%9fda" data-query="fotoğrafta sağda">*</a></sup>, her zaman gözlüklü gezen, biraz bizden ağır abi, meğer buralarda takılır, gelen müsafirlerin isimlerini susamla pide üstüne yazdırır <sup class="ab"><a title="(bkz: levon abimdeki inceliğe bakar mısın)" href="/?q=levon+abimdeki+inceli%c4%9fe+bakar+m%c4%b1s%c4%b1n%3f" data-query="levon abimdeki inceliğe bakar mısın">*</a></sup>, huzur içinde yaşarmış. facebook’ta adını arasanız, kendisine kah kanlıcanın orta yerinde bir taşta, kah hatırlı dostlarıyla istanbul sokaklarında ulaşabilirsiniz. bu arada levon abimde, bir adnan oktar havası seziyorum, belirtmeden geçemeyeceğim. yalnız şöyle ufak bir sıkıntı var, kendisi şu an amerika'da aranıyor, normal bir amerikalıyı ya da amerikan kurumunu dolandırmaktan değil, amerikalıların allahtan fazla korktuğu <a class="b" href="/?q=irs">irs</a>'i dolandırmaktan. <br/><br/>sonra bu levon abimizin ismini yazıp arayınca, bizim sbk holding tekrar çıktı karşıma. yalnız bu sefer ruhum rahmana yürümek üzereydi`:herhalde dünyanın en haber değeri taşıyan haberi olabilir`:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.propublica.org/article/robert-mueller-subpoenas-associate-man-hired-michael-flynn-lobbyist" title="https://www.propublica.org/article/robert-mueller-subpoenas-associate-man-hired-michael-flynn-lobbyist">https://www.propublica.org/…-michael-flynn-lobbyist</a><br/><br/>burada şöyle bir kısım var, ingilizce bilmeyen dostlarım için hemen yazayım. bizim sbk holdingin baba hissedarı, aslında levon, yani sonradan türk olup, pide sürprizleri yapan abimizmiş`:ki kendisi bir ifadesinde şirketin tamamı benim diyor`, kendisi bunu orda burda söylemiş, küçük hissedarlarsa jacob ve kardeşi. yine aynı metinde diyor ki, -hazır mıyız- bizim <a class="b" href="/?q=sezgin+baran+korkmaz">sezgin baran korkmaz</a> abimiz, amerikadan "500 milyon dolar" yatırımı türkiye'ye getirmiş, sonra bunun büyük kısmı rusya'da enerji yatırımı olarak değerlendirilmiş. hatta putin abimizin en değer verdiği projelerle ilgilenmiş, çok farklı politik olaylara girmiş de konumuz bu değil.<br/><br/>olayı genel olarak sadeleştiriyorum, amerika'da vergi dairesini 510 milyon dolandıran abilerin parası, türkiye gelmiş ve bizim üzerimizden rusya'ya gitmiş. bu arada bu süreci yönetmesi için <a class="b" href="/?q=sezgin+baran+korkmaz">sezgin baran korkmaz</a> gibi bir adam öne çıkarılmış, güya büyük hayırsever gibi orda burda reklamı yapılmış <sup class="ab"><a title="(bkz: yılın hayırseveri seçilmiş)" href="/?q=y%c4%b1l%c4%b1n+hay%c4%b1rseveri+se%c3%a7ilmi%c5%9f" data-query="yılın hayırseveri seçilmiş">*</a></sup>, hatta -buraya şaşırmayaksınız- devletten bam güm ihale almış. <br/><br/>şu an ne noktadayız:<br/><br/>levon abi, yani bence büyük patron istanbul'da bir yerlerde hayatın tadını çıkarıyor, canı sıkılırsa rusya'ya akar, 510 milyon dolar güzel para. amerika levon abimizi ve onun ortaklarını arıyor ve mahkeme kayıtlarına geçen ifadeyle para türkiye'ye aktarılmış. jacob ve isaiah kardeşlerimiz amerika'da içerde. sbk abimiz de tahmin ediyorum çılgın hayır projelerini bırakıp, paçayı kurtarma derdinde. ki bence kendisi ikinci <a class="b" href="/?q=reza">reza</a> olursa şaşırmayalım. <br/><br/>türkiye mi? türkiye yol geçen hanı, yerli ve milli it uğursuzlarımıza ek, alışkanlık mı oldu neyse, dünyadan da ithal etmeye başladık. ha amerika, avrupa kara paraya karşı çok mu hassas, kendileri bilmiyor mu neler olduğunu? biliyorlar güzel kardeşim, ama sen amerika değilsin, bir ikincisi bilmediğin şey, amerika'da irs'i dolandırmak, allaha şirk koşmaktan öte bir eylemdir.<br/><br/>brace yourself turkey, reza the second is coming.<sup class="ab"><a title="(bkz: bu sefer rus)" href="/?q=bu+sefer+rus" data-query="bu sefer rus">*</a></sup><br/><br/>sözlerimi noktalarken başta adnan hocam ve levon abim olmak üzere büyüklerimin ellerinden öperim, küçüklerin de gözlerinden.
+  entry_channels: siyaset,tarih,ekonomi
 - entry_name: |
     kocaeli'de 800 kilo kokain yakalanması
   entry_id:  81059894
   entry_writer: imamihanife
-  entry_fav_count: 284
+  entry_fav_count: 295
   entry_content: |
     bir ara avrupa ülkelerine satalım da borcumuzu ödeyelim diye düşündüm.<br/><br/>ulan ne hâle geldik be!
-  entry_channels: 
+  entry_channels: haber
 - entry_name: |
     elon musk'ın canlı yayında esrar içmesi
   entry_id:  81051302
   entry_writer: empati kurabilen rahatsiz mankind
-  entry_fav_count: 264
+  entry_fav_count: 265
   entry_content: |
     bunun laiklikle ne alakası var amk?!<br/><br/>başlığı açan yazıyı değiştirince hakkaten ne alaka amk dediğinizi duydum. <br/>önceki <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/5771b16c870" title="https://eksiup.com/5771b16c870">burda</a>
   entry_channels: haber,yeme-içme
 - entry_name: |
-    facebook'ta 61 bin kişinin paylaştığı fotoğraf
-  entry_id:  81051952
-  entry_writer: kahve
-  entry_fav_count: 205
-  entry_content: |
-    altıdaki yorum ile yaran fotoğraftır. <br/>"yalan haber ama inşallah dorudur".
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     7 eylül 2018 devlet bahçeli'nin suriyeliler tweeti
   entry_id:  81062458
   entry_writer: eksi peace
-  entry_fav_count: 202
+  entry_fav_count: 212
   entry_content: |
     suriyeliler eve dönsün diyip aynı zamanda suriyelileri başımıza musallat edenlerle ittifak kuran sayın mehmet bahçeli'nin tweetidir.
   entry_channels: siyaset,haber
@@ -86,7 +78,7 @@ data:
     yeşilçam'ın en güzel kadını
   entry_id:  81051877
   entry_writer: dokuz tuglu kagan
-  entry_fav_count: 197
+  entry_fav_count: 199
   entry_content: |
     (bkz: <a class="b" href="/?q=g%c3%bcl%c5%9fen+bubiko%c4%9flu">gülşen bubikoğlu</a>)<br/><br/>benim açımdan bunun tartışması bile yok. yeşilçam güzelleri ikiye ayrılır:<br/><br/>1 - gülşen bubikoğlu.<br/>2 - diğerleri.
   entry_channels: anket,sanat,sinema
@@ -94,7 +86,7 @@ data:
     hukuk bireyi mi korur toplumu mu
   entry_id:  81052010
   entry_writer: lezugnac
-  entry_fav_count: 182
+  entry_fav_count: 184
   entry_content: |
     bu soruya foucault iktidar, marx kapitalizm, gramsci ise hegemonya kavramını kullanarak cevap verir.<br/><br/>iktidar, hukuk kurallarını belirlemek için toplumdaki elitlerin; toplum mühendisliğine soyunarak karar aldığını belirtir. ancak hukuk kuralları belirlenirken, "iktidar karşısında topluma hareket alanı bırakılmalıdır" der. iktidarın meşruiyeti ve hukuk kurallarının geçerliliği de buna bağlıdır. örneğin, köşeye sıkıştırılmış ve kendisini savunamayacak bir kişi ile diğeri karşısında iktidar ilişkisi yoktur. herkes kendisini savunabilmelidir. bu açıdan, hukukun bireyi ve toplumu koruması mümkün olabilmektedir.<br/><br/>marx, kapitalist sistemlerde elit azınlığın; yani bir avuç burjuvanın devletin tüm organlarına hakim olması dolayısıyla hukuk kurallarının toplum yararına değil, burjuva çıkarına olduğunu belirtir. devlet ve devlete ait bütün organlar zengin azınlığın elinde, sömürü düzenine zemin hazırlar. bireyi veya toplumu değil; toplumun çok küçük bir azınlığını korur.<br/><br/>gramsci ise marx'tan yola çıkarak, nasıl oluyor da zengin bir azınlığa, yığınların karşı çıkmadığı sorusuna cevap aramaya çalışır. bu, hegemonya kavramı ile alakalıdır. devleti yöneten azınlık, devletin ve devlete ait bütün organik organları kullanarak ideolojisini toplum geneline yayar. kamuoyunu istediği şekilde biçimlendirmek suretiyle oluşabilecek karşı çıkmaları engeller. yani devlet, bir azınlık tarafından oluşturulan hukuk kurallarının benimsetilmesi ve bu kurallara karşı oluşabilecek itirazları önlemek adına çalışır. hukuk bu anlamda bir iktidar mekanizmasıdır. bireyi veya toplumu değil; bazı zengin bireyleri korur.<br/><br/>özetle; hukuk, iktidarın fahişesidir. bireyi veya toplumu koruması durumu, kuralları koyanların niteliği ile ilgilidir.<br/><br/>atatürk, medeni bilgiler kitabında hukuk kurallarının bireyi ve toplumu koruması yolunda bir rejim istediğini belirtir. kamuoyu, örgütlenme oldukça önemlidir ve bunlar iktidarın tavırlarını düzeltmesi için gereklidir; sürekli olarak düşüncelerle desteklenmelidir. bu serbestlikten oluşabilecek kötülüklerin önüne geçilebilmesi adına da yasalara, kurallara ihtiyaç vardır. yasalar, herkesi kapsayan ve hem bireyi hem de toplumu koruyan nitelikte olmalıdır.<br/><br/>hukukun bireyi mi yoksa toplumu mu koruduğu sorusu paradoks örneğidir. yeri gelir topluma karşı bireyi, yeri gelir bireye (diktatöre) karşı toplumu korur. niteliği, kuralları belirleyenlerin niteliği ve mevcut dinamiklerin değerlendirilmesiyle alakalıdır.
   entry_channels: siyaset,anket
@@ -102,31 +94,15 @@ data:
     türkiye'ye gelmiş en efendi yabancı futbolcu
   entry_id:  81038271
   entry_writer: hatalicool
-  entry_fav_count: 180
+  entry_fav_count: 182
   entry_content: |
     (bkz: <a class="b" href="/?q=johan+elmander">johan elmander</a>)<br/><br/>bir fenerbahçeli olarak söylüyorum bunu. alex tamam iyi aile babası bir adam ama çok atardı kendini yere. elmander ise tam bir efendiydi müthiş futbolcuydu. tartışmasız isveç'li elmander listenin başında.
   entry_channels: spor,anket
 - entry_name: |
-    türkiye'de radar olmadığı gerçeği
-  entry_id:  81050534
-  entry_writer: what makes you think i m not a superhero
-  entry_fav_count: 168
-  entry_content: |
-    e-devleti çok güvenilir zanneden trafik teröristi hıyar saçmalaması..<br/><br/>arabayı satarken temiz kağıdı almak için gittiğin vergi dairesinde faiziyle götüne girince o cezalar görürüm ben seni.. <br/><br/>sonra kıçını yırtarsın bankoda "amaaa görünmüyoduuuu" diye.
-  entry_channels: anket,otomotiv,motosiklet,seyahat
-- entry_name: |
-    7 eylül 2018 idlib'den türkiye'ye göçün başlaması
-  entry_id:  81049392
-  entry_writer: s topmark
-  entry_fav_count: 164
-  entry_content: |
-    “amına kodumunun dünyasında göç edecek başka ülke mi kalmadı? siktirin gidin zamanında sahip çıkmadığınız topraklarınızda dış güçlerin bombalarıyla geberin. yeter artık gelmeyin bıktık, yıldık. bu ülke bize yetmiyor siz nereden çıktınız be! gidin, siktirin gidin. artık takatimiz, dayanma gücümüz, umudumuz kalmadı siktirin gidin!”<br/><br/>dedirten gelişme.<br/><br/>edit : el ayak titremesinden kaynaklanan imla.<br/><br/>edit2: geberin dememi yadırgayanlar olmuş. geberin diyorum çünkü bu sorumsuz ortadoğu insanı savaşın ortasında bir şekilde gebe kalmayı başarabiliyorsa ölmeyi de yadırgamıyor demektir. kendi çoluğunu çocuğunu düşünmeyen insan gebersin! keşke çocuklar hiç ölmese, bu sorumsuzlar ölse. anlayanlar anlamayan embesillere bunu anlatsın.
-  entry_channels: siyaset,haber,moda
-- entry_name: |
     türkiye'nin girişine yazılması gereken söz
   entry_id:  81060753
   entry_writer: kozlenmiskipkirmizibiber
-  entry_fav_count: 155
+  entry_fav_count: 169
   entry_content: |
     `bu ülkedeki kişi ve kurumlar tamamen hayal ürünüdür`<br/><br/>@cyclematenergy önerisi : <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=EXpTMj539a0" title="https://www.youtube.com/watch?v=EXpTMj539a0">böyle daha can alıcı oldu</a> <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,anket
@@ -134,63 +110,55 @@ data:
     ben pokemon'um deyip camdan atlayan çocuk
   entry_id:  81059338
   entry_writer: lucass
-  entry_fav_count: 140
+  entry_fav_count: 142
   entry_content: |
     ne durumda diye merak ettiğim mal çocuk. bu pezevenk yüzünden pokemon yayından kaldırılmıştı. şimdi nereden atlıyor acaba.
   entry_channels: tv,tarih,oyun,haber
 - entry_name: |
-    7 eylül 2018 istanbul banka soygunu
-  entry_id:  81056154
-  entry_writer: aloha martini
-  entry_fav_count: 122
+    astsubay çavuşluktan generalliğe
+  entry_id:  81044755
+  entry_writer: bir preposition olarak la
+  entry_fav_count: 106
   entry_content: |
-    ha soyle hollywoodvari haberlerle karsimiza cikin canimizi yiyin.<br/><br/>ne o hergun yok suriyeli, dolar kuru, zam filan. icimiz baydi.
+    bu azimle ilgili bir olay değil.<br/><br/>astsubayın sivildeki karşılığı teknisyendir. subay ise mühendistir.<br/><br/>generallik için kurmay olmak gerekir ki bu da yüksek mühendise denk gelir.<br/><br/>onbaşının çavuşa selam verdiği, bu kadar katı kuralların olduğu orduda bu geçiş hiç normal değildir. 23 nisan için 1 günlüğüne oldularsa kabul edebilirim.<br/><br/>edit: bir de sınıfı personelmiş. personel sınıfında nasıl bir başarı elde etmiş olabilir ki? bordroları çok hızlı çıkartıyor galiba.<br/><br/>edit2: tuğgenerallik ve tümgenerallik için kurmaylık şartı kaldırılmış, artık olunabilirmiş. ben yönetmelik açısından bir problem olduğunu söylemiyorum zaten, itiraz ettiğim nokta da tam olarak bu şartın kaldırılması. zaten bu şart hala resmi olarak duruyor olsaydı, bu arkadaşlar da general olamazlardı. bir savaş durumunda orduları yönetecek kimseler daha özenle seçilmeli. son olarak hatırlayın ki fetö orduya ve diğer kurumlara ilk olarak hep personel sınıfından sızmıştı. çünkü içeride çoğalmak ve diğer kesimin yükselmesini engellemenin tek yolu buydu.<br/><br/>edit3: başlıkta yazanlara dikkat edin, aksi görüşü savunanlar küfürsüz tek bir cümle yazamamışlar. işte böyle baskı oluşturarak sindirip istedikleri gibi takla atmak istiyorlar. susanı siksinler!<br/><br/>edit4: bakın arkadaşlar, işinize geldiği için olayı çarptırıyorsunuz ama bu başlıkta kimse astsubaylara laf etmiyor. sanki "bütün astsubaylar vatan hainidir" denmiş gibi şeyleri kusmayın. sadece insanlar liyakat kavramının içinin boşaltılmamasını istiyor ki ordumuz daha fazla yıpranıp menzil midir tenzil midir saçma sapan tarikatların eline geçmesin. şu an sadece orduda değil, her hangi bir kurumdaki atamada liyakat sisteminin işlediğini kim iddia edebilir? elinizi vicdanınıza koyun öyle konuşun. bizim uyarılarımızı zamanında dikkate alsaydınız, 15 temmuz yaşanmayacaktı, bunu da aklınızda bulundurun.
   entry_channels: haber
-- entry_name: |
-    arda'nın piyasa değeri %85 düştü
-  entry_id:  81040192
-  entry_writer: mutlu tuccar
-  entry_fav_count: 111
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bir+shitcoin+olarak+arda+turan">bir shitcoin olarak arda turan</a>)<sup class="ab"><a title="(bkz: shitcoin)" href="/?q=shitcoin" data-query="shitcoin">*</a></sup>
-  entry_channels: spor
 - entry_name: |
     7 eylük 2018 düğünde abisini öldüren maganda
   entry_id:  81053236
   entry_writer: ates senturk
-  entry_fav_count: 101
+  entry_fav_count: 103
   entry_content: |
     not: bence video +18'dir ona göre tıklayın.<br/><br/>kaynak ve video: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2018/gundem/kiz-kardesinin-dugununde-agabeyini-vurdu-2613843/" title="https://www.sozcu.com.tr/2018/gundem/kiz-kardesinin-dugununde-agabeyini-vurdu-2613843/">https://www.sozcu.com.tr/…-agabeyini-vurdu-2613843/</a><br/><br/>şu sevinç gösterisi niyetine havaya ateş eden yavşaklar her sene 40-50 kişi öldürüyor.<br/><br/>ulan terör örgütü dhkp-c senede bu kadar insanı şehit edemiyor. bu maganda teröristlere ağır cezalar, bununla ilgili kamu spotları ne zaman gelecek?
   entry_channels: haber
 - entry_name: |
-    ateistlerin içindeki kin ve nefret
-  entry_id:  81054475
-  entry_writer: sodyumklorur
-  entry_fav_count: 97
+    türkiye'den siktir olup gitmek
+  entry_id:  81039723
+  entry_writer: nordveg
+  entry_fav_count: 95
   entry_content: |
-    bugüne kadar bir otel dolusu insan yakan, kelle kesen ya da insan taşlayan ateistle karşılaşmadığım için hasittirordan dediğim kin ve nefrettir.
-  entry_channels: ilişkiler
+    sabah uçuş var. fransa'ya. lisenin ilk yılından beri hayalini kurduğum şey tam 7 yıl sonra, bu sabah gerçek oluyor.<br/><br/>1 yıllık eğitim için gidiyorum. <sup class="ab"><a title="(bkz: erasmus)" href="/?q=erasmus" data-query="erasmus">*</a></sup> bu yıl üniversitedeki son yılım. gittiğim okul daha önce giden öğrencilere orada kalmayı ve orada mezun olmayı teklif etmiş. bunu gerçekleştiren örnekler de var önümde. tek sorun, türkiye'de 3 yıl boyunca aldığım kredileri fransa'da 2 yıl olarak sayıp üzerine bir 2 yıl daha orada okumamı istemeleri. sanırım bunu kabul edip orada kalacağım. <br/><br/>kırklı yaşlarında, neredeyse tüm profesyonel, sosyal sermayelerini yakıp bu ülkeden siktir olup giden insanları gördükçe, türkiye'de biriktirdiğim eğitim sermayemin bir kısmını çöpe atıp avrupa'da yirmili yaşlarımın başında kendi hayatımı kurma fikri cazip geliyor. çalışma ve oturum iznimin ve a2 seviye fransızcam'ın olması umut veriyor. (ingilizcem c1) eğer hayata adapte olmayı ve orada tutunabilmeyi başarırsam, 29 ekim 2023'de, fransız vatandaşlığına geçiş başvurusu yapmaya hak kazanıyorum. yani hedef 2023.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>fakat it gibi tırsıyorum. çünkü tüm bu hayaller, planlar doğmamış bebeğe don dikmek. hatta bebek anne rahmine bile düşmedi henüz. şu an portakalda vitamin.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>akranlarımın birkaç ay boyunca her gece, klüplerde ucuz içki içip random insanlarla sevişmek için kullandığı ve birnevi gap year olarak düşündüğü bu nimeti<sup class="ab"><a title="(bkz: erasmus)" href="/?q=erasmus" data-query="erasmus">*</a></sup> ben, bundan sonraki hayatımı şekillendiren en önemli fırsat olarak değerlendirmeye çalışacağım. fakat tamamen tek başımayım. korkuyorum. kendim başaracağım. ya da kendim başaramayacağım. belki de olması gereken, doğal olan şey bu. <br/><br/>bilmiyorum. kafam karışık. tek bildiğim birkaç saat sonra bu ülkeden gideceğim. en erken 1 yıl sonra dönebileceğim. 1 yılda ülke nasıl, ne derece ve ne yönde değişir bilmiyorum. <br/><br/>umarım ben de başarırım, bu homo habilis türü mahlûkat ile birlikte yaşamaktan bıkan ve homo sapiens gibi yaşamanın ne demek olduğunu tatmak isteyen herkes de başarır.
+  entry_channels: siyaset,tarih,ekonomi,seyahat
 - entry_name: |
     1989 yılında ege kıyılarında tatil
   entry_id:  81057868
   entry_writer: fare pipisi
-  entry_fav_count: 90
+  entry_fav_count: 92
   entry_content: |
     odtü'de üç sene okudum; aynı zamanda bir avukatım; <br/><br/>üst düzey kamu kurumlarının ingilizce tercümelerini yaptım; <br/><br/>yıllarca ingilizce hizmet verdim/aldım;<br/><br/>ingilizce tahkim duruşmalarına, arabuluculuklara katıldım;<br/><br/>halıcı kadar ingilizce konuşup konuşamadığımdan emin değilim.
   entry_channels: tv,tarih,seyahat
 - entry_name: |
-    nejat işler kaan tangöze ve teoman'la eve çıkmak
-  entry_id:  81037663
-  entry_writer: edebiyat dusmani edebiyatci
-  entry_fav_count: 83
+    burak yılmaz
+  entry_id:  81059214
+  entry_writer: belkisehrebirfilmgelir
+  entry_fav_count: 89
   entry_content: |
-    herkes niye öğrenci evi tribine girmiş onu anlamadım. milyonluk adamlar temizlikçi tutamayacaklar mı? topumuzun ruhu fakir, biri de teoman'ı bulaşık sırasına sokmaya çalışıyo çıkar donunu da yıkasın.
-  entry_channels: anket,magazin
+    hamile karısını döven karaktersizlerden olmamıştır. otobüs şoförüne saldıracak kadar haysiyetsiz değildir. hakem görünce kendini yere atan futbolcular gibi aldatıcı biri değildir. parayı görüp çin’e gitmemiştir. yerli ve epey millidir. arda turan’a benzemez. başakşehir beşinci etapta evi olan, trabzon’un çocuğu, galatasaray sevdalısı, fenerbahçe’ye gönül vermiş bir beşiktaşlıdır.
+  entry_channels: spor
 - entry_name: |
     arveles vs majezik vs apranax
   entry_id:  81053594
   entry_writer: sokarface
-  entry_fav_count: 78
+  entry_fav_count: 79
   entry_content: |
     apranax fort’un hepsinin eline vereceği versustur.
   entry_channels: anket,sağlık
@@ -201,28 +169,12 @@ data:
   entry_fav_count: 77
   entry_content: |
     "asgeri" yazan adama her şey müstâhak amk, asgari o asgari.<br/><br/>edit: başlık değiştiği için anlamsız oldu, ilk açıldığında "asgeri" idi.
-  entry_channels: 
-- entry_name: |
-    fatih terim
-  entry_id:  81060329
-  entry_writer: paul sahillleri
-  entry_fav_count: 75
-  entry_content: |
-    "bu kural 14 yabancı kuralı değil, 14 türk kuralı. siz 14 türk almak zorundasınız ama 14 yabancı almak zorunda değilsiniz."<br/><br/>zımba şenol ile matkap fikoya gereken mesajı vermiş imparator.
-  entry_channels: spor
-- entry_name: |
-    bebek ziyaretine gelen misafire elini yıka demek
-  entry_id:  81045697
-  entry_writer: northern light
-  entry_fav_count: 64
-  entry_content: |
-    bebek ziyareti için zaten misafir çağrılmaz, gelin de bebeğimiz oldu görün denmez sevgili ekşi kekoları. <br/><br/>insanların genelde bebekleri olunca eş dost bebek görmeye ziyarete gider, olay böyledir zaten. ayrıca, eve gelen misafirin bunu akıl edemiyorsa, ailenin bunu söylemesi kadar normal bir şey olamaz. akıl edin ve bu söylemle karşılaşmak zorunda kalmayın. hem siz rencide olmayın, hem de aile bunu söylerken kıvranmak zorunda kalmasın.
-  entry_channels: ilişkiler,sağlık
+  entry_channels: ekonomi
 - entry_name: |
     ermeni soykırımını kabul eden sözlük yazarları
   entry_id:  81061746
   entry_writer: muhammed kohen
-  entry_fav_count: 62
+  entry_fav_count: 70
   entry_content: |
     sagdan soldan duyduguna, okuduguna inanan cahil ve daha onemlisi gerizekali yazarlardir. ıspatlanamamis ve tamamen turkiyenin alehine sonuclar doguracak bir seye turk haric kim inansa anlarim ama bir turkun bunu kabul etmesi eziklikten ve salakliktan baska bir sey degildir.
   entry_channels: siyaset,anket,ekşi-sözlük
@@ -243,6 +195,14 @@ data:
     her başlıkta bilgi vermek yerine aynı saçma salak esprileri yapan sözlüğün asalakları o kartları alsın anasının amına bir güzel monte etsin dediğim zirve.
   entry_channels: siyaset,haber
 - entry_name: |
+    fatih terim
+  entry_id:  81061811
+  entry_writer: gokyuzundeyuzdum
+  entry_fav_count: 54
+  entry_content: |
+    hayatım boyunca hiçbir yasağa sıcak bakmadım. ben dört yabancı oyuncuyla avrupa şampiyonu olmuş bir hocayım.<br/><br/>sanki çıkarıp masaya vurmuştur yabancı konusuyla ilgili.
+  entry_channels: spor
+- entry_name: |
     7 eylül 2018 türkiye rusya maçı
   entry_id:  81049224
   entry_writer: ecs
@@ -254,7 +214,7 @@ data:
     seda sayan'ın o ses türkiye jürisi olması
   entry_id:  81048988
   entry_writer: otomotivci
-  entry_fav_count: 43
+  entry_fav_count: 47
   entry_content: |
     seda sayan yine şarkıcıdır da beyazıt öztürk ne alaka bir albüm ile.
   entry_channels: tv,magazin
@@ -262,58 +222,50 @@ data:
     yaşamayanlar
   entry_id:  81037527
   entry_writer: contorium yiyen balik
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     ismini görünce başrolünde <a class="b" href="/?q=ferdi+tayfur">ferdi tayfur</a>'un oynadığını sandığım vampirli dizi.
   entry_channels: tv,sinema
 - entry_name: |
     7 eylül 2018 şehzadenin tahta çıkması rezaleti
-  entry_id:  81062802
-  entry_writer: siyah olmazsa olmaz
-  entry_fav_count: 38
+  entry_id:  81062694
+  entry_writer: ingilizelektrikci
+  entry_fav_count: 40
   entry_content: |
-    (bkz: <a class="b" href="/?q=sana+burada+yazma+yetkisi+verenin+amk">sana burada yazma yetkisi verenin amk</a>) <br/>küfür için kusura bakan bakabilir.
+    (bkz: <a class="b" href="/?q=neydi+o+butonun+ad%c4%b1">neydi o butonun adı</a>)
   entry_channels: ekşi-sözlük,haber
-- entry_name: |
-    türk tarihinin en büyük vatan haini
-  entry_id:  81061890
-  entry_writer: agitoxin
-  entry_fav_count: 37
-  entry_content: |
-    mâlum şahıs. hepinizin aklına direk o geliyor, farkındayım.
-  entry_channels: siyaset,anket
-- entry_name: |
-    sağlık bakanlığı'nın doktor bakanlığı olması
-  entry_id:  81063444
-  entry_writer: alucardot
-  entry_fav_count: 35
-  entry_content: |
-    sağlık bakanlığının mesleklerin haklarını koruma konusunda sadece doktorlar için var olmuş gibi hareket etmesi durumu.<br/><br/>öncelikle bakanlığın yaptığı hatayla bir mesleğe verdiği zararı belirtmek istiyorum; yıllar önce fizyoterapistler özel sektörde çok iyi kazanıp kamuyu tercih etmediği için sağlık bakanlığı'nın isteğiyle üniversitelerde kontenjan artırımına gidilmişti. var olan üniversitelerdeki kontenjanlar okulların fiziksel kapasitelerinin üzerine çıkmış, yetersiz akademik kadroyla sürekli yeni okullar açılmıştı. yapılması gereken 2 şey vardı; kamuyu cazip kılmak ya da dengeli bir kontenjan arttırımına gitmek. başarılı olunamadı ve şu an bir çok fizyoterapist işsizlik ile karşı karşıya.<br/>ayrıca tıp, hukuk gibi bölümlerde olan yerleşebilmek için minimum sıralama kuralı bu bölümlerin okullarına uygulanmamakta ve tabela özel üniversiteleri saçma sapan sıralamalarla öğrenci almaktadır.<br/><br/>şu sıralar ise hekim dışı sağlık çalışanlarının (<a class="b" href="/?q=fizyoterapist">fizyoterapist</a>, <a class="b" href="/?q=diyetisyen">diyetisyen</a> , <a class="b" href="/?q=psikolog">psikolog</a>) mesleklerini serbest olarak icra etmelerine sağlık bakanlığı tarafından izin verilmemektedir. böylece bu mesleklerin profesyonelleri bilgi ve tecrübelerini hastalar için kullanamamaktadır.<br/><br/>sağlık hizmetinin kalitesinde düşüşlere neden olmamak için sadece hekim(ler) barındıran özel kurum ve kuruluşların tümünde bu görüşü destekler nitelikte hekim dışı sağlık çalışanları (diyetisyen, psikolog, dil ve konuşma terapisti, fizyoterapist gibi) bu kurumlarında zorunlu olarak bulundurulmalıdır. ekip anlayışı sağlık hizmeti için çok kritiktir.<br/><br/>sağlık bakanlığı; ticarileşmenin önününe geçmek ve ekip hizmetini aksatmamak için, muayenehane gibi kuruluşlarda hekim dışı sağlık çalışanlarının mevcut olup olmadığını denetlemelidir.<br/><br/>kendi kişisel notum: hekimlik kutsal bir meslektir, şahsen hayatımı bir doktor adayıyla sürdürüyorum fakat sağlık bakanlığının politikaları aynı amaca hizmet eden profesyonelleri birbirine küstürüyor.
-  entry_channels: siyaset,sağlık
-- entry_name: |
-    dünyanın en güzel gofreti
-  entry_id:  81050094
-  entry_writer: dusunen agac
-  entry_fav_count: 33
-  entry_content: |
-    (bkz: <a class="b" href="/?q=lara+gofret">lara gofret</a>)<br/><br/>not: ameliyatlı yerime vurmayın.
-  entry_channels: anket,yeme-içme
 - entry_name: |
     türkiye rusya maçının yayınlanmaması rezaleti
   entry_id:  81061408
   entry_writer: insulin direnci
-  entry_fav_count: 30
+  entry_fav_count: 35
   entry_content: |
     diyanet'e kadro açmak varken rezalet olmayan hadise.<br/><br/>soyunuz kurusun..
   entry_channels: spor,tv,haber
 - entry_name: |
+    dünyanın en güzel gofreti
+  entry_id:  81050094
+  entry_writer: dusunen agac
+  entry_fav_count: 35
+  entry_content: |
+    (bkz: <a class="b" href="/?q=lara+gofret">lara gofret</a>)<br/><br/>not: ameliyatlı yerime vurmayın.
+  entry_channels: anket,yeme-içme
+- entry_name: |
     tarım bakanından büyük marketlere teşekkür
   entry_id:  81064623
   entry_writer: filosofo
-  entry_fav_count: 26
+  entry_fav_count: 29
   entry_content: |
     kendileri son model lüks makam araçlarında, özel uçaklarda, saraylarda, villalarda sülaleleri ile birlikte halkın parası ile sefa sürerken özel sektörün ekmeğe zam yapmamasını milli duruş olarak dile getiren haramzadenin açıklaması.
   entry_channels: haber,yeme-içme,ekonomi
+- entry_name: |
+    selahattin demirtaş'a 4 yıl 8 ay hapis cezası
+  entry_id:  81055221
+  entry_writer: maskeli balonun maskesizi
+  entry_fav_count: 28
+  entry_content: |
+    çözüm sürecinin başında, 2013 yılı nevroz kutlamasında yaptığı konuşma sebebiyle aldığı cezadır. <br/><a class="b" href="/?q=s%c4%b1rr%c4%b1+s%c3%bcreyya+%c3%b6nder">sırrı süreyya önder</a> de adı geçen nevrozdaki konuşması nedeniyle 3 yıl 6 ay ceza almıştır. <br/>şimdi çözüm sürecini başlatan akp hükümeti. ımralı heyetinin adaya gidip gelmesine izin veren akp hükümeti. abdullah öcalan' ın mesajının okunmasını isteyen akp hükümeti. <br/>ceza alanlar dönemin hdp eş genel başkanı ve hdp milletvekili. <br/><br/>eyyorlamam bu kadar.
+  entry_channels: siyaset,haber
 - entry_name: |
     motorsiklet sürücülerinin emliyet şeridi ihlali
   entry_id:  81060266
@@ -323,13 +275,29 @@ data:
     (bkz: <a class="b" href="/?q=emniyet">emniyet</a>)
   entry_channels: motosiklet
 - entry_name: |
-    hafızam silinse de bir daha izlesem denilen dizi
-  entry_id:  81037646
-  entry_writer: dengesiz bir insan
-  entry_fav_count: 17
+    ankara
+  entry_id:  81043404
+  entry_writer: kiskanmayan kiskanc hatun
+  entry_fav_count: 22
   entry_content: |
-    <a class="b" href="/?q=six+feet+under">six feet under</a><br/><br/><a class="b" href="/?q=oz">oz</a><br/><br/><a class="b" href="/?q=the+wire">the wire</a><br/><br/>pek çok güzel dizi de izledim ama bunlar hakikaten farklıydı. adamlar zamanında uzaya çıkmış, alay etmişler hatta zekamızla. bunlar dizi değil, hayatın kendisi.
-  entry_channels: anket,tv
+    eylül sabahı soğuğu dünyanın en güzel şeylerinden biri olan şehir.
+  entry_channels: siyaset,tarih,müzik,edebiyat,haber,yeme-içme,seyahat
+- entry_name: |
+    cumhuriyet (gazete)
+  entry_id:  81058904
+  entry_writer: fauna
+  entry_fav_count: 16
+  entry_content: |
+    kemalist anlayıştan koptuğu günden bu yana takip etmediğim bir gazeteydi. bugünkü gelişmeler tabii ki sevindirdi. dilerim mustafa balbay'ın dediği gibi ilhan selçuk, uğur mumcu ve ahmet taner kışlalı çizgisine geri dönüşün başlangıcıdır bu değişim. özlediğimiz cumhuriyeti bayiden büyük bir mutlulukla alacağım o günü heyecanla bekliyorum.
+  entry_channels: siyaset,edebiyat,haber
+- entry_name: |
+    domagoj vida
+  entry_id:  81047060
+  entry_writer: raphalleon
+  entry_fav_count: 14
+  entry_content: |
+    domagoj vida nin elde patladigini dusunmuyorum bir gs taraftari olarak. dunya kupasinda final oynamis bir takimin iskelet tandeminde oynayan ikiliden birisi icin balon demek abesle istigal olacaktir. vida nin piyasa degeri su an 15-20m euro arasidir sahsima gore. ayni vida ingiltere liginde olsa 35m olacakti orasi ayri bir konu. tsl de oynayan en iyi stoperlerin arasindadir su anda. bizim maicon serdar aziz ve ahmet caligi gordukce keske bizde olsa demeyen gs li zannediyorum ki yoktur. o yuzden camur atip boklamaktansa her takimin futbolcularina tarafsiz gozle bakabilmeyi ve degerlendirmeyi ogrenmeliyiz. alex de souza'ya, hagi'ye, muslera'ya cop diyen adamlar gordu bu gozler. birakalim su fanatikligi ve objektif bakis acisiyla degerlendirelim rakip takimin ve kendi takimin futbolcularini.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  81037850
@@ -342,18 +310,26 @@ data:
     fatih sultan mehmet vs cengiz han
   entry_id:  81059467
   entry_writer: jiesheshuai
-  entry_fav_count: 8
+  entry_fav_count: 12
   entry_content: |
     liseler tez vakitte açılsa da şu veletlerden kurtulsak bir an önce. karşılaştırmaya gel.
   entry_channels: tarih
 - entry_name: |
-    eft ücretlerinin 4.5 tl olması
-  entry_id:  81049780
-  entry_writer: minderr
-  entry_fav_count: 8
+    irina shayk miranda kerr ve a.lima ile eve çıkmak
+  entry_id:  81058599
+  entry_writer: olene kadar mokoko
+  entry_fav_count: 11
   entry_content: |
-    (<a class="b" href="/entry/81049703">#81049703</a>) sadece garanti maaş hesabınızın olması yetmiyor, patronun bankaya başvurup eft ücretini kaldırtması gerekiyor.<br/>garanti maaş hesabı olan adam konuştu.
-  entry_channels: ekonomi
+    %99.9 başkaları yan odada hatunu götürürken sizin en fazla 31 çekmenize sebep olacak ev arkadaşlığıdır.
+  entry_channels: anket,ilişkiler,magazin
+- entry_name: |
+    cumhuriyet gazetesi'nde yönetim değişikliği
+  entry_id:  81061100
+  entry_writer: medeniyetsiz
+  entry_fav_count: 10
+  entry_content: |
+    ben size gazeteyi kim aldı bi deyi vereyim kardeşlerim, siz sonra eski yönetime ne demek isterseniz sayın. zaten algısıyla oynana oynana maymun olmuş beyinlerle fikir üretiyor tüm ülke, çok da bişi değişmez ama bilin gene de.<br/><br/>bu ülkenin en köklü gazetesini, bu uğurda aylarca hapis yatan insanların gazetesini kime verdiler biliyor musunuz? gazeteyi ele geçirmek için cumhurbaşkanlığına "ne olur devreye girin ve cumhuriyet gazetesini bize verin" diye mektup yazıp gönderen insanlara teslim ettiler.<br/><br/>şimdi siz oynanmış algılarınızla bu insanlara terörist diyorsunuz ama yarın cumhuriyet gazetesi akp reklamı yaparken aklınızdan geçecek "lan ben acaba biraz salak mıyım" sesine kulak vermeyi unutmayın kardeşlerim.
+  entry_channels: siyaset,haber
 - entry_name: |
     ekşi fenerbahçe whatsapp grubu
   entry_id:  81054346
@@ -363,13 +339,21 @@ data:
     başlığı görür görmez yapışmıştım yakalarına, ne kadardır aralarındayım emin değilim ama hepsi çocukluk arkadaşlarım, abilerim, ablalarım, kardeşlerim. iyi ki varlar iyi ki aralarındayım.<br/>(bkz: <a class="b" href="/?q=ne+olacak+bu+fener%27in+hali">ne olacak bu fener'in hali</a>) sorusuna isviçreli bilim adamlarından daha ciddi şekilde yaklaşan yorumlar görürsünüz, gırgır şamatanın kralı döner, buluşmalar, zirveler yapılır arkadaş kazanırsınız, ortak alınan kombinelerle butik bir tribününüz olur ve sosyal yardım organizasyonları ile birilerine bir faydanız dokunur.<br/>bunlar ilk aklıma gelenler.<br/>ön şart gamsız girilmez, malum fenerbahçelilik ama ne yapacaksın çok sevdik be abi !
   entry_channels: spor,ekşi-sözlük,teknoloji
 - entry_name: |
-    uzak durulması gereken kadınlar
-  entry_id:  81059998
-  entry_writer: sundermen
-  entry_fav_count: 3
+    türk futbolunda yabancı sınırlaması
+  entry_id:  81061503
+  entry_writer: sadrazamin kulak memesi
+  entry_fav_count: 4
   entry_content: |
-    sizi gerçekten sevmeyen ama ilginizden memnun olan ve bunu sömüren bu yüzden ilişki biçimini arafta tutan kızlar.
-  entry_channels: anket,ilişkiler
+    "milli takımın durumu ortada... türk oyuncular sürekli, sürekli, sürekli yedek. az süre alıyorlar. oynamayan oyuncu gelişmez beyler." gibi tüpçünün ağzındanmış gibi bir nedene dayandırılarak geri getirilmesi istenen kural. oyuncu yedek beklerken oturup muz yerse olmaz tabii, ama cenk gibi 3 senede önüne alınan 3 santrafora rağmen çalışıp formayı alırsa transfer rekoru kırarak epl'ye gider. sınırlama gelirse "nasıl olsa 2 milyon euro indiragandi" mantığıyla yatar bizim yerliler. işte bu şekilde hasan aliler, ozan tufanlar dünyanın parasını kazanıyor ve milli takım bu halde.
+  entry_channels: spor
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  81039288
+  entry_writer: hastaruhlu
+  entry_fav_count: 4
+  entry_content: |
+    yazar temizleme operasyonu yürütenlere mıknatıs gibi gelen başlıktır. <br/><br/>hem engelleyici tayfa için hem engellenesi tayfa için. <br/><br/>başlık sonsuza dek aktif kalmalı.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     en sevilen atasözü
   entry_id:  81063404
@@ -379,27 +363,43 @@ data:
     deveyi yardan uçuran bir tutam ottur.
   entry_channels: anket,edebiyat
 - entry_name: |
-    arda burak emre ile ayni eve cikmak
-  entry_id:  81062542
-  entry_writer: ironick nik
-  entry_fav_count: 3
+    mutsuzken yapılanlar
+  entry_id:  81066111
+  entry_writer: yuregime senden baska muska takmadan
+  entry_fav_count: 2
   entry_content: |
-    (bkz: <a class="b" href="/?q=evlerden+%c4%b1rak">evlerden ırak</a>)
-  entry_channels: 
+    kitap okuyorum, klasik müzik eşliğinde. hem derdimi unutuyorum hem de bakış açımı değiştiriyorum. <br/><br/>müzik dinliyorum, bağıra çağıra eşlik ediyorum ya da hoplayıp zıplıyorum sadece.<br/><br/>yürüyorum, yürümek iyidir, kafa açar.
+  entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
     telapati ile tüm insanlığa atacağanız mesaj
-  entry_id:  81065187
-  entry_writer: marido
-  entry_fav_count: 0
+  entry_id:  81066171
+  entry_writer: corsairsgold35
+  entry_fav_count: 1
   entry_content: |
-    - kendini hakim savcı polis emeeen yazarken sıkıldım.
-  entry_channels: 
+    temiz bir dünya için kendinizi imha ediniz.
+  entry_channels: bilim,edebiyat,teknoloji
 - entry_name: |
-    cumhuriyet (gazete)
-  entry_id:  81060363
-  entry_writer: varamaarjantincikarttirmiyor
+    ekşi sözlük iş ağı
+  entry_id:  81053826
+  entry_writer: brandum
+  entry_fav_count: 1
+  entry_content: |
+    beyaz yakaların arasına mavi yaka iş ilanı bırakarak developçuları üzeceğim ağ. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>istanbul bakırköy chocolate restoran için mutfak bölümünde çalışacak extra adam ihtiyacımız var. ücret haftalık olarak ödeniyor. buradan ulaşabilirsiniz yada gelip mutfak şefiyle görüşecektim derseniz tüm yollar yine bana çıkmakta.<br/><br/>umarım bu zor günlerde burada birilerine azda olsa yardımcı olabiliriz, mavi yaka kardeşlerime selam olsun.
+  entry_channels: ekşi-sözlük,ekonomi
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  81066245
+  entry_writer: basucumdamuzik
   entry_fav_count: 0
   entry_content: |
-    türkiyeyi türk basınından takip etmek bana pek sağlıklı gelmediği için hayrını görsünlerdir.
-  entry_channels: siyaset,edebiyat,haber
+    senden başka kimsem olmadı..<br/>iyi ki olmadı, <br/>iyi ki olmadı..<br/><br/>nil'in en iyi şarkısı <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/59y-z5wkR-o" title="https://youtu.be/59y-z5wkR-o">sanki :)</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  81060754
+  entry_writer: cucesenep
+  entry_fav_count: 0
+  entry_content: |
+    mutluyum, senin açtığın yaralar çoktan kapandı. ama iyileşmek zaman alıyor biraz. güvenmek de... sevildiğime ya da sevleceğime hala inanmıyorum çünkü. buna rağmen huzurluyum. çünkü herkesten uzaktayım , en çok da senden.
+  entry_channels: anket,ilişkiler,edebiyat
 ---
