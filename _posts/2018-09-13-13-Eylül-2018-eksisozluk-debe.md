@@ -6,7 +6,7 @@ data:
     thy yeni kabin memuru üniformaları
   entry_id:  81205171
   entry_writer: tembel fare
-  entry_fav_count: 340
+  entry_fav_count: 341
   entry_content: |
     hayret verici bir şekilde beğendiğim tasarım. bazen güzel tasarımlar yapıyorlar ilginç.
   entry_channels: anket,moda,havacılık
