@@ -984,6 +984,8 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://debearsivi.github.io/2018/06/24/24-Haziran-2018-eksisozluk-debe/#78386005</loc>
 <lastmod>2018-06-24T00:00:00+00:00</lastmod>
@@ -21552,6 +21554,7 @@
 <loc>https://debearsivi.github.io/2018/08/05/2018-07-15-15-Temmuz-2018-eksisozluk-debe/#94da4s</loc>
 <lastmod>2018-08-05T00:00:00+00:00</lastmod>
 </url>
+</urlset>
 </urlset>
 </urlset>
 </urlset>
