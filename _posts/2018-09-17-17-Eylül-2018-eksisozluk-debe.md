@@ -6,7 +6,7 @@ data:
     1.65'lik bir adama aşık olmam herhalde
   entry_id:  81341177
   entry_writer: aloha martini
-  entry_fav_count: 539
+  entry_fav_count: 542
   entry_content: |
     yuksek limitli kredi karti ve pahali bir cip karsiliginda bu kriterleri aninda unutmaya hazir oldugunu da soylemeyi unutmus kizdir ayni zamanda.
   entry_channels: ilişkiler,magazin
@@ -14,7 +14,7 @@ data:
     16 eylül 2018 fatih altaylı köşe yazısı
   entry_id:  81340701
   entry_writer: eeuummm
-  entry_fav_count: 461
+  entry_fav_count: 462
   entry_content: |
     (bkz: <a class="b" href="/?q=sermayenin+k%c3%b6pe%c4%9fi+olmak">sermayenin köpeği olmak</a>)
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     kızların 1.85'ten kısa erkeklere ilgi göstermemesi
   entry_id:  81342974
   entry_writer: toros kaplani
-  entry_fav_count: 450
+  entry_fav_count: 460
   entry_content: |
     1.84 boyunda bir erkeğim.<br/><br/>bu başlık 1.70 için açılınca sesimi çıkarmadım, çünkü arada bayağı bir fark vardı. <br/>sonra sınırı 1.75'e çıkardılar, yine sesimi çıkarmadım çünkü 1.75'den de uzundum.<br/>o da yetmedi, çıtayı daha da yükseltip 1.80'e çıkardılar. tedirgin oldum ama yine sesimi çıkarmadım, çünkü 1.80'den kısa değildim. <br/><br/>çıtayı 1.85'e çıkardıklarında ise çevremde benim için sesini çıkaracak kimse kalmamıştı.
   entry_channels: anket,ilişkiler
@@ -30,7 +30,7 @@ data:
     eğitimde tarihi değişimlere hazırlanıyoruz
   entry_id:  81342219
   entry_writer: falconvirtue
-  entry_fav_count: 253
+  entry_fav_count: 261
   entry_content: |
     artık kendi dönemlerinde yaptıklarını eleştirerek oy topluyorlar. yeni trend bu.
   entry_channels: siyaset,haber,eğitim
@@ -38,7 +38,7 @@ data:
     banka kartı kullanmaya teşvik eden kamu spotu
   entry_id:  81347091
   entry_writer: kalbim temiz benim
-  entry_fav_count: 216
+  entry_fav_count: 221
   entry_content: |
     banka kartı kullanınca vergi falan kaçırması zor oluyor ya hani. kayıt edilmiş gelir falan, fiş vermeyen esnaf vs. duymadınız mı?
   entry_channels: tv,ekonomi
@@ -46,7 +46,7 @@ data:
     celal şengör'ün interstellar'a zırva demesi
   entry_id:  81341475
   entry_writer: trumpets
-  entry_fav_count: 215
+  entry_fav_count: 216
   entry_content: |
     interstellar filmine bbc belgeseli muamelesi yapanları kızdıran haber. ulan alt tarafı bilim kurgu filmi. fiziğe de kimyaya da anasının bilmemnesine de aykırı şeyler olacak. celal efendi de konuyu pek ciddiye almış, karşı cenah ta.
   entry_channels: bilim,sinema
@@ -54,7 +54,7 @@ data:
     ateistlerin ahlakı temellendirememeleri
   entry_id:  81332806
   entry_writer: lukstar
-  entry_fav_count: 171
+  entry_fav_count: 174
   entry_content: |
     (bkz: <a class="b" href="/?q=bullshit">bullshit</a>)<br/><br/>ahlak, rasyonalite kullanılarak temellendirilir, akıl kullanılmadan ilahi emirle temellendirilmeye çalışılan ahlak ancak ahlaksızlık yaratır; <br/><br/>örneği de dinin emrettiği; 1) köleciliği, 2)dinden dönenin öldürülmesini, 3) kadın dövmeyi, 4) zina yapanı sopalamayı 5) yağmacılığı meşru gören bir ahlak sistemidir. bu ahlak sistemine dayanırsanız da işte ortadoğu'da birbirini kıtır kıtır kesen herkesin herkesle savaşının olduğu bir hobsiyan cehenneme varırsınız. <br/><br/>sadece bir örnek olarak, mill'in sonuççu ahlakı, bize başkasına zarar vermeyi ve eylemin sonucunu ahlakın bir ölçüsü olarak sunuyor. (bkz: <a class="b" href="/?q=harm+principle">harm principle</a>) (bkz: <a class="b" href="/?q=consequentialism">consequentialism</a>) <br/><br/>karşımızda homoseksüelliği, zinayı, ensesti ahlaksızlığın nihai noktası görüp; köleciliği, mürtedi katletmeyi ahlak gören bir ahlaksız var, fazlası değil.
   entry_channels: bilim
@@ -62,10 +62,18 @@ data:
     grup vitamin şarkılarında geçen mükemmel sözler
   entry_id:  81351089
   entry_writer: eksimtrack
-  entry_fav_count: 121
+  entry_fav_count: 137
   entry_content: |
     bu ne perhiz, what is this <br/>aman ismail, can touch this.
   entry_channels: anket,müzik
+- entry_name: |
+    chp tarihinin en itici milletvekili
+  entry_id:  81349704
+  entry_writer: gecmisbaharmimozalari
+  entry_fav_count: 123
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sezgin+tanr%c4%b1kulu">sezgin tanrıkulu</a>) varken başka birisini aramaya gerek yok. kk bile daha sevimlidir nazarımda.
+  entry_channels: siyaset,anket
 - entry_name: |
     kişinin hayatını ailesinin mahvetmesi
   entry_id:  81333449
@@ -75,13 +83,13 @@ data:
     polis akademisine giriyordum (1996 yılı) annem sütünü helal etmeme gibi bir kavramdan bahsedip vazgeçirdi ( çok korkmuş tehlikeliymiş bir de süt insan gelişimi açısından önemli tabi) , kanada'ya gitmek için hazırlıklara başlamıştım (2001 yılı) daha gencecik adamım, oralar soğuk olur bir de ben uçağa binemiyorum sen de ziyarete bile gelmezsin dedi ondan da vazgeçirdi.<br/><br/>şimdi kendisi ve eşimle beraber oturuyoruz evde kukumav kuşu gibi, o emekli eşim çalışıyor ben işsiz.<br/><br/>ha unutmadan annem çok mutlu.
   entry_channels: ilişkiler
 - entry_name: |
-    hitler'in cehennemde yanacak olması
-  entry_id:  81336730
-  entry_writer: imansiz ateist
-  entry_fav_count: 114
+    araba sürerken gelen uyku
+  entry_id:  81350393
+  entry_writer: stringer bell
+  entry_fav_count: 86
   entry_content: |
-    <a class="b" href="/?q=cennet+de+bu+d%c3%bcnyada+cehennem+de">cennet de bu dünyada cehennem de</a> diye boşa dememişler. milyonların hayatını cehenneme çeviren birisi cehenemme gitse ne yazar. tıpkı her yıl milyarlarca dolar yardım yapan <a class="b" href="/?q=bill+gates">bill gates</a>, hayatını bilime adamış ve bu yolda biz insanoğluna çok büyük mesafe katmış <a class="b" href="/?q=isaac+newton">isaac newton</a>'ın müslüman olmadığı için cehennemde yanarken dünyaya hiçbir faydası olmayan, oksijen israfı, düşük iq'lu gericilerin sırf namaz kıldıkları için cennete gitmeyi beklemesi kadar anlamsız cennet ve cehennem.
-  entry_channels: siyaset
+    hisedildigi an ilk benzinlik ya da dinlenme tesisinde durulmasi gereken tehlikeli yorgunluk cesidi.
+  entry_channels: sağlık,otomotiv,seyahat
 - entry_name: |
     alvaro negredo sanchez
   entry_id:  81346055
@@ -94,18 +102,18 @@ data:
     celal şengör'ün bilim insanı olduğu ülke
   entry_id:  81350247
   entry_writer: ducasse
-  entry_fav_count: 76
+  entry_fav_count: 81
   entry_content: |
     (bkz: <a class="b" href="/?q=g%c3%b6t%c3%bcnden+etik+uydurmak">götünden etik uydurmak</a>)
   entry_channels: bilim
 - entry_name: |
-    araba sürerken gelen uyku
-  entry_id:  81350393
-  entry_writer: stringer bell
-  entry_fav_count: 71
+    28 yaşında erkeğin 18 yaşında sevgilisi olması
+  entry_id:  81349426
+  entry_writer: ruh hali bozuk adam
+  entry_fav_count: 75
   entry_content: |
-    hisedildigi an ilk benzinlik ya da dinlenme tesisinde durulmasi gereken tehlikeli yorgunluk cesidi.
-  entry_channels: siyaset,otomotiv,seyahat
+    sübyancılık değildir. böyle olduğunu düşünen ahlak bekçileri toplumun en gizli sapıklarıdır.
+  entry_channels: ilişkiler
 - entry_name: |
     mr. olympia 2018'in vücudu
   entry_id:  81341274
@@ -115,34 +123,26 @@ data:
     görünüş olarak berbat duruyor lakin ne kadar bu işle ilgilenen kişiyle konuşsam bunun hep daha fazla büyüme isteğinin sonucu olduğunu söylüyorlar. yani bir nevi egolarini tatmin edip üstünlük kurmak. bacağına pantolon giyemiyorsun diyorum sen anlamazsin diyorlar. hakikaten pantolonlar olmuyor çünkü bel ince bacaklar cok iri. bu isten cok para kazananlari es geciyorum ama sadece hayatini idame ettirenleri anlamıyorum. saplantili bir hastalik gibi. bu dediklerim ciddi yarismalara girenler icin. onlarin para kazandiklari filan yok. bir tanesini cok yakindan taniyorum.
   entry_channels: spor,sağlık
 - entry_name: |
-    28 yaşında erkeğin 18 yaşında sevgilisi olması
-  entry_id:  81349426
-  entry_writer: ruh hali bozuk adam
-  entry_fav_count: 69
-  entry_content: |
-    sübyancılık değildir. böyle olduğunu düşünen ahlak bekçileri toplumun en gizli sapıklarıdır.
-  entry_channels: ilişkiler
-- entry_name: |
     2018 ekonomik krizi
   entry_id:  81336571
   entry_writer: sancar
-  entry_fav_count: 62
+  entry_fav_count: 68
   entry_content: |
     geçen sünnetteyiz, klasik ekonomi muhabbeti, yaw bu enflasyon niye yükseliyor dedi bi tanıdık.<br/>dıjj güçler diycektim. baktım ilk kez dinleyecek gibi duruyo. üretmeli müretmeli bir iki cümle kurdu, hayret dedim. fırsatı kaçırmayalım, alatalım:<br/><br/>- izmirden balıkesire dönerken akşam saatlerine kaldıysak, en nefret ettiğim şey manisa-akhisar-bursa arasında çalışan tır ve kamyonlar. sağ şerit komple bunlardan oluşuyor( arada birbirlerini sollamaya çıkıyorlar, fil pornosu gibi... ). destekli bir tahmin ile bir kaç düzine 4 ton mazotla 1000 km yol giden yük treni bu lojistiği halledebilir. elektrikli olsa çok daha ucuz bu arada. fakat biz bu işi; ekonomik ömrü en fazla 15 yıl olan binlerce alman, isveç, italyan, fransız...vs ithal kamyonla, bunların ithal sarf malzemeleriyle ve binlerce şöför maliyetiyle halletmeye çalışıyoruz. sizce bizim seçtiğimiz yol, ideal olandan kaç kat daha masraflı? aradaki verimlilik farkı, ülkemizdeki enflasyonun en önemli ayağı olan üretim verimliliğinin binlerce sebebinden sadece biri.<br/><br/>- eğitim şart diyoruz. eğitime çok olmasa da meb'in harcayamadığı kadar para aktarıyoruz. her yerde üniversite, her çocuğu zorla okulda tutmaya çalışıyoruz. sonuç: eğitim=&gt;ekonomi/ihtiyaçlar faktörü kimsenin aklına gelmemiş olacak sanayi sektöründe kalifiye teknisyen bulamıyor ama atanması mümkün olmayan sayıda öğretmen, hileli oyunda paladin basar gibi basılmış avukat ve barajı aşanın gidebildiği sayısız bölüm mevcut. ve az olan imkanlarımızla zorlukla kendini yetiştirenler de yetiştirmemiş olanların garezinden bıkıp haklı olarak ülkeden kaçmakta. <br/><br/>- tasarruf: adamı devlet memuru yapıyorsun, şirkette bi iş veriyorsun: taksitle 8 bin tl'ye iphone, kredi çekip faiziyle 160 bine polo, 25 bine ıvır zıvır elektronik alıyor(niye diyorsun: yarı fiyatlı yerli olanın gerçek hz değeri 100 azmış, aksiyon filmlerinde kristal berraklığı yokmuş. lan olum binlerce tl'ye arada acun seyredeceğin tv alacağına git 250 tlye bi gözlük al, gözler cortlamış karşıdan gelen adamı seçemiyorsun, en azından hayatın kristalleşir elden geldiğince. eski telefonun kamerası hareketli çekimde bulanık çekiyormuş. yarram çekeceğin iki selfi, iki de kazıklandığın yemek fotosu. duyan da antilop kovalayan çita fotosu çekiyor zannedecek. çünkü ben de <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/nl39VV.jpg" title="https://i.hizliresim.com/nl39VV.jpg">yemek çekiyorum</a>. ama baştan söyleyeyim kazıklanmadım. mantarlı, fıstıklı soslu yarım kilo antrikota 30, hanımın soyalı tavuğuna da 18 verdim. 13 sayısının fontundan anlayacağınız üzre mekan dandik ama şef efsane. balıkesirdeyseniz götüreyim bi gün ). <br/>üstelik de kredisi bitmeden satıp/atıp yenisini alıyor. prim ödemeden adam bulup emekli olan amcanın en büyük hayali haydan gelen parayı suudi arabistana basmak. asgari ücretliye tek taş, 25 bin liralık mobilya, 15 bin tl'lik tek kullanımlık çaput, 3 senede bir yeni perde, 4 senede full paket mobilya, satarken yarı fiyatı etmeyen mücevher aldıran ablalarımızı hiç söylemiyorum. ekonomi bozuluyor, kemer sıkılacak adamlar daha da açılıyor, elde kalan son kuruşu da savurmak istiyor "fiyatı artacakkkk" diye. toplumumuz bu. tasarruf oranı %10 filandı sanırım. sonra sıcak para, hatta borçla cari açık kapatıyoruz. uzak doğulular gibi %45 tasarrufumuz olsaydı fena mı olurdu? aslında yolu var: finansal olarak verimli ve tasarruflu olmayı avantaj, tersini de çeşitli yaptırımlar halinde sistemleştirirsen bir kaç yıla toplumsal işletim sistemini güncelleyebilirsin bence.<br/>mesela altına passat çeken okul müdürünü görevden al geri öğretmen yap.<br/>daha pahalısına binen parti merkezi leşçilini milletvekili aday listesine sokma.<br/>karısına, metresine, oğluna spor otomobil çeken mütahiti devlet ihalelerinden diskalifiye et.<br/>gelirinin belli bir kısmını, devletçe tavsiye edilen yatırım araçlarında tasarruf etmeyen beyaz yakalının gelir vergisini arttır... ne bileyim emekliliğini avantajsızlaştır, tasarruf edenleri erken emekli et, bursa üretimi araba alırken kişisel ötv indirimi yap(alışkındır onlar 1.3 multijete).<br/><br/>- kardeş bizim ülkenin ayağı yere basan tek enerji açığı kapatma yolu, yerli linyit santralleri. her bölgede irili ufaklı, yüzlerce, bir santrali besleyecek linyit madeni var. az personelle otomasyona dayalı çalışan modern termik santraller bize ucuz ve yerli enerjiyi sağlayabilir. bu olmadan üretim ve lojistik verimliliğini yükseltemezsin.<br/><br/>- orta sınıf için şehrin biraz dışında, amerikan tipi evlere ihtiyacımız var. arsa maliyetsiz, temelsiz, ince şap betonun üzerine fabrikada beton paneller halinde imal edilmiş, çelik iskeletli, ucuz, hızlı inşa edilen, garajlı, bahçeli ve konforlu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.drummondhouseplans.com/house-plan-detail/info/altair-2-contemporary-1003271.html" title="https://www.drummondhouseplans.com/house-plan-detail/info/altair-2-contemporary-1003271.html">şöyle</a> evler lazım bize. şehir içinde kör ara sokaklardaki dandik zindanlara 10 yılınızı vermemeniz lazım. 70 bin tl israf edilen bir zindana 700 bin isteyen lavukların yok olması lazım. artık çocuklarımız sevgilisinin evine arka camdan sızabilmeli, garajda araba yağını kendimiz değiştirebilmeliyiz, üstelik bunu dandik bir dairenin 3/1 fiyatına alabileceğimiz bir evde yapabilmeliyiz.<br/><br/>- bi de tarım toprağı çiftçilerin beceriksiz ellerinden alınmalı. her gün geçtiğim yolun etrafı hintlilerin pirinç bahçeleri gibi, mendil kadar küçük küçük tarlalarla kaplı. ama çoğu ekilmiyor otla kaplı, ekilenler ise mazot, tohum israfından başka bir şey değil, desteklemesini alıp tarlaya uğramasa millet için daha faydalı olurdu. adamların kendilerine hayrı yok ki topluma olsun. zaten yarını düşünseler zamanında o toprağı bölmezlerdi. fransa kadar tarım arazisini böle böle işlevsiz hale getirdiler, çürüttüler. komşuları bi üründen az para kazandığında hurrraaa seneye o malı da ölü eşşek parasına çekiyorlar. bu adamlarla planlı tarım olmaz. adama sen biber ek dersin, domates ekeceğim daha iyi para getirir der. <br/><br/>neyse anlattık şunları yapmalıyız diye, gizli cehape zihniyetli arkadaşlar da utangaç utangaç destekledi... cevap:<br/>ameriga izin vermez, fayizimizi alıyorlar alıyorlar.<br/>bakalım alabilecekler mi diyecektim ama sustum. <br/>çok hayal kırıcı la<br/><br/>edit: telefon, gece 3-4, yatar vaziyet, yazıp yazıp silince malum imla:p
   entry_channels: siyaset,tarih,ekonomi
 - entry_name: |
-    chp tarihinin en itici milletvekili
-  entry_id:  81349718
-  entry_writer: barbelldumbell
-  entry_fav_count: 61
+    mi shop'un xiaomi mi 8'i 5399 tl'den satması
+  entry_id:  81352254
+  entry_writer: draw
+  entry_fav_count: 64
   entry_content: |
-    (bkz: <a class="b" href="/?q=b%c3%bclent+tezcan">bülent tezcan</a>)<br/>ilk sıralarda girilmeliydi.
-  entry_channels: siyaset,anket
+    hesaplayalım. 500€ 3600tl ediyor. :)<br/>5400 tl ye satılması saçma. %50 fazla fiyata telefon satılması abartı sanki.
+  entry_channels: teknoloji,ekonomi
 - entry_name: |
     yazarların kişisel çöküşünün başladığı yıl
   entry_id:  81331187
   entry_writer: 124
-  entry_fav_count: 58
+  entry_fav_count: 59
   entry_content: |
     2017 ekim. avukatlık ruhsatını almamla birlikte annemle babamı boşamam vakası.
   entry_channels: anket,edebiyat
@@ -150,7 +150,7 @@ data:
     pazar sabahı peri kızına dönüşmek
   entry_id:  81344505
   entry_writer: fuzzy olmak istemistim
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     ilgi meraklısı kezbanların yaşadığı eylemdir. <br/><br/>(bkz: <a class="b" href="/?q=bundan+bize+ne+olmak">bundan bize ne olmak</a>)<br/><br/>edit: içimizde bitmeyen bir öfke yok. senin içinde bitmeyen bir narsizm var ama. dünya senin etrafında dönmüyor. ben çok güzelim kafasına girip başlık açmak ilgi budalalığıdır.
   entry_channels: anket,motosiklet
@@ -158,7 +158,7 @@ data:
     öğretmenin 30 yılda 17.5 yıl çalışmaması
   entry_id:  81349036
   entry_writer: tdsfirstlaw
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     (bkz: <a class="b" href="/?q=bir+bitmediniz">bir bitmediniz</a>) <br/>yine canı sıkılınca öğretmenlere saran bir yazar başlığıdır.bütün sülalesi öğretmen olan birisi olarak bu meslekten tiksinmemin en önemli sebeplerinden birisi bu yazar gibi insanlardır : çünkü vicdani yükü en ağır işlerden birisini hakkıyla yapmaya çalışanların süründüğü bu ülkede mesleğe yapılan saldırılar sonucunda idealist insanları meslekten uzaklaştırıyorsunuz.çevrenizde elinizden tutan bir tane bile öğretmeniniz olmadı mı?sizi kimi zaman ailenize karşı bile koruyan,korkularınızı daha anlatmadan anlayan,içine düştüğünüz kötü bir yerden sizi tekrar ışığa çıkaran...ben sana öğretmenlerin tatillerini anlatayım aslanım ; annem ve babam lise öğretmeni,birisi endüstri meslek lisesinde,diğeri de bir düz lisede (şimdi anadolu yaptılar sanırım) çalışıyor.en beğenilmeyen öğrenci grupları ile çalışıyorlar yani :) ülkü ocağından çocuk mu toplamadılar,haraç kesen tiplerle senelerce uğraşarak topluma mı kazandırmadılar,okul müdürlerinin saçmalıklarına mı katlanmadılar,devletin sürgününe karşı dava açıp onlarla mı uğraşmadılar,haftada 40 saat dersi (ve bazen akşam sanat okulu) olduğu için annemi görmeden uyuduğum geceler mi olmadı.gördün mü tatili?ve karşılığında aldıkları ve istedikleri yegane şey de seneler sonra bazen tanıyamadıkları öğrencilerinin gelip 'hocam,zamanında bizim elimizden tutup bizi adam ettiniz,sağ olun,emeğinizi ödeyemeyiz.' demeleri.işini düzgün yapmayan,adaletsiz davranan kişilerle uğraşın ; koskoca bir meslek grubu ile uğraşmayın.
   entry_channels: haber,eğitim
@@ -166,7 +166,7 @@ data:
     27 yaşında olup evliliğe hazır hissetmemek
   entry_id:  81344233
   entry_writer: djdigy
-  entry_fav_count: 53
+  entry_fav_count: 54
   entry_content: |
     37 olup siklemiyorsun az sabret....
   entry_channels: ilişkiler
@@ -187,26 +187,10 @@ data:
     bazı arkadaşlara göre bir turnuvada iyi olmak için sadece finalde iyi oynamanın yeterli olduğunu gösteren futbolcu.<br/><br/>kafalar çok iyi...
   entry_channels: spor,magazin
 - entry_name: |
-    mi shop'un xiaomi mi 8'i 5399 tl'den satması
-  entry_id:  81352254
-  entry_writer: draw
-  entry_fav_count: 36
-  entry_content: |
-    hesaplayalım. 500€ 3600tl ediyor. :)<br/>5400 tl ye satılması saçma. %50 fazla fiyata telefon satılması abartı sanki.
-  entry_channels: teknoloji,ekonomi
-- entry_name: |
-    ricardo quaresma
-  entry_id:  81332842
-  entry_writer: camlicagazoz
-  entry_fav_count: 31
-  entry_content: |
-    pepe dışindaki yabancılardan hicbirisi quaresmanın bizde olması sayesinde gelmemiştir. <br/><br/>kendisi için takım cıkarlarından cok, kendisinin oynayıp oynamaması önemlidir. <br/><br/>hatırlayanlar olacaktır gomezin 2 gol attıgı ve feneri yendigimiz macta kendisi oynamamıştı. mactan sonra oynayan oynamayan herkes sevinirken kendisi suratsız suratsız gezmişti. hatta taraftar morali düzelsin diyr üçlü falan cektirmisti. <br/>iste quaresma odur arkadaşlar. fazlası değil.
-  entry_channels: spor
-- entry_name: |
     bankaların illa kredi verelim mesajının kesilmesi
   entry_id:  81341007
   entry_writer: non e possibile
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     ciğerini bildiklerimizin alışıldık arazi olma durumudur. şunun surası 1 ay evvel ölümü öp kredi verelim ya da kredin hazır gel al diyenler zor zamanlarda arazi. kendim de dahil allah kimseyi bunların eline düşürmesin.
   entry_channels: ekonomi
@@ -214,26 +198,26 @@ data:
     türkiye'de vergi veren esnaf var mı sorunsalı
   entry_id:  81349598
   entry_writer: dusendeli
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     (bkz: <a class="b" href="/?q=ka%c3%a7%c4%b1rd%c4%b1%c4%9f%c4%b1+vergiye+k%c4%b1l%c4%b1f+uyduran+%c3%a7akal+esnaf">kaçırdığı vergiye kılıf uyduran çakal esnaf</a>)
   entry_channels: ekonomi
 - entry_name: |
+    18 eylül 2018 galatasaray lokomotif moskova maçı
+  entry_id:  81339455
+  entry_writer: zorla bakkala gonderilen kardes
+  entry_fav_count: 28
+  entry_content: |
+    alanya'da nişanlım ile bir otelde izleyeceğim maç.<br/><br/>otel rezervasyonu yaparken, adam <a class="b" href="/?q=%c3%a7o%c4%9funlukla+ruslar+tercih+ediyor">çoğunlukla ruslar tercih ediyor</a> dedi. iyi o zaman formamı da alıp geleyim dedim. kazanırsak ibnelik olsun diye <a class="b" href="/?q=koyduk+mu">koyduk mu</a> diye o tribünden gelen bilindik tezahüratı yapacağım.<br/><br/>ilk şampiyonlar ligi şehidi olmak üzereyim hayırlısıyla.
+  entry_channels: spor
+- entry_name: |
     hitler müslüman olsaydı cennete gidecek miydi
   entry_id:  81339819
   entry_writer: wamblee
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     hitler ne yapmış? insanların ölümüne sebep olmuş. insanların öldürülmesi günah mı? eğer allah adına yapıyorsanız hayır. müslüman olmayanları öldürmek ve mallarına konmak islam'da caiz değil mi? hitler müslüman olsaydı ve bu savaşını islam adına yapsaydı islam inancına göre cennete gidecekti. humeyni sizce cennete mi gitti cehenneme mi? <br/>(bkz: <a class="b" href="/?q=enfal+suresi+39.+ayet">enfal suresi 39. ayet</a>)
   entry_channels: anket,tarih
-- entry_name: |
-    starbucks'ta facia gibi kaza
-  entry_id:  81330338
-  entry_writer: bu konuyu tartismak icin tiklayiniz
-  entry_fav_count: 23
-  entry_content: |
-    mal olanları sayıyorum.<br/>1-şehir içinde hız yapan şoför.<br/>2-dibine kafe kurulmasına izin verdiğin yolun trafiğini, hızlı akmasına izin verecek şekilde düzenleyen kurumlar.<br/>3-şehirin orta göbeğinde yol alırken hızlı gitmeyi isteyen bizler.<br/><br/>yok kardeşim uygar ülkelerde böyle bir şey. şehirin ortasında, her yerde ya kırmızı ışık, ya da hız uyarı levhaları. basıp gidebilmen de gerekmiyor. bizde hiç kimse kırmızı ışığa tahammül edemiyor. illa basıp gideceğiz. battı çıktı denilen garabetlerle şehrin ortasında 100 ile gidiyor insanlar. son 5 yılda 3 tane tanıdığımın aile büyüğü araba çarpması sonucu öldü. bu araba 30-40 ile gitseydi kimsenin burnu kanamazdı. araba ulaşım içindir. milletin egolarını tatmin ettiği bir araç değil. <br/><br/>şehiriçi trafiği bir tarafını yırtsan da yaya önceliklidir. biri 80 kilo et parçası, diğeri bilmem kaç ton bir makine. canlının hiç şansı yok. apırsanız da köpürseniz de doğrusu bu.<br/><br/>edit: yayalar yaşlı, bilgisiz, çocuk, akıl hastası, görme/işitme engelli olabilir. yasalar bunların herhangi birini yaya olmak için engel kabul etmiyor. ehliyet gerektiren şey araba kullanmak. şehiriçinde herhangi birinin canından sen sorumlusun. siz istiyorsunuz ki türkiye cangılında sadece genç, güçlü ve uyanık olanlar sokağa çıkabilsin.
-  entry_channels: haber
 - entry_name: |
     alman mühendisliği vs japon mühendisliği
   entry_id:  81345602
@@ -243,21 +227,69 @@ data:
     maaşlı çalışacaksam alman mühendislerle çalışmak isterim, zira fazla mesai, insan üstü çalışma eforuna tahammülüm yok. işveren olarak çalışacaksam japon mühendislerle çalışmak isterim. dinleri imanları iş olduğu için işten başka bir şey düşünmezler. yani gözüm arkada kalmaz. yamuk yapan harakiriyi basar, kıdem tazminatı vs uğraştırmaz.
   entry_channels: anket,teknoloji
 - entry_name: |
+    580 bin liralık düğün masrafı yaptıran hatun
+  entry_id:  81353087
+  entry_writer: eeuummm
+  entry_fav_count: 22
+  entry_content: |
+    300 binlik evi görünce ucuza gitmiş diyorum. gelinin annesi ve kardeşine 25 binlik takı nedir allah aşkına. bu kadar yamyam olmaya gerek yok, sonuçta sadece gelinle gerdeğe girecek.
+  entry_channels: anket
+- entry_name: |
     recep tayyip erdoğan
   entry_id:  81346886
   entry_writer: tourist eomer
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     hitler’e dokunulmaması ve etrafındakilerin ondan korkup tavsiye bile verememesi hem onların hem hitler’in ve en son almanya’nın sonunu getirmiştir.<br/><br/>diyeceklerim bu kadar.
   entry_channels: siyaset,tarih,haber
 - entry_name: |
+    ölünce harddisklere ne olacak sorunsalı
+  entry_id:  81352485
+  entry_writer: sabirtasi
+  entry_fav_count: 12
+  entry_content: |
+    arkanızdan rahmetli de az sapık değilmiş şeklinde söylemler olacaktır. yarın ölecekmiş gibi temiz tutmak, hiç ölmeyecekmişiz gibi de arşive yüklenmek gerekmektedir.
+  entry_channels: teknoloji
+- entry_name: |
+    menzil şeyhinin kongrede seçilmesi
+  entry_id:  81352075
+  entry_writer: karanliktaki kilic
+  entry_fav_count: 12
+  entry_content: |
+    aslında menzil şeyhinin allah tarafından önerilmesi olarak açacaktım, ancak malum sansür yüzünden bu şekilde açmak zorunda kaldım.<br/><br/>ilgili link <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/KemalistOgz/status/1041331822829989892" title="https://mobile.twitter.com/KemalistOgz/status/1041331822829989892">https://mobile.twitter.com/…tus/1041331822829989892</a><br/><br/>menzil şeyhinin seçilme süreci. <br/>-allah kongreye ismini öneriyor.<br/>-124 bin peygamber kongrede hazır bulunuyor.<br/>-oylama sonucunda hırka peygamber tarafından gavs’a teslim ediliyor.<br/>-sonra adıyaman’a dönüp müritlerini tarlada çalıştırıyor,3 milyonluk mercedes’e biniyor.
+  entry_channels: 
+- entry_name: |
     kıro kızların ortak özellikleri
-  entry_id:  81351948
-  entry_writer: boylesidahaguzel
+  entry_id:  81348218
+  entry_writer: tyerldurden
+  entry_fav_count: 11
+  entry_content: |
+    <a class="b" href="/?q=bircan+bali">bircan bali</a>'de yer alan tüm özellikler.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi'de güzel ve zeki kadın olmadığı gerçeği
+  entry_id:  81349338
+  entry_writer: akmasam da damlarim
+  entry_fav_count: 11
+  entry_content: |
+    (bkz: <a class="b" href="/?q=av%c4%b1n%c4%b1+k%c4%b1%c5%9fk%c4%b1rtmaya+%c3%a7al%c4%b1%c5%9fan+ek%c5%9fi+s%c3%b6zl%c3%bck+erke%c4%9fi">avını kışkırtmaya çalışan ekşi sözlük erkeği</a>)
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    yaşamın en hızlı geçen dönemi
+  entry_id:  81350687
+  entry_writer: stajyermafya
   entry_fav_count: 10
   entry_content: |
-    doğum esnasında ağlarken çekilmiş olan fotoğrafını ve çocuğunun her anını sosyal medyada paylaşıyorsa kesin kırodur.
-  entry_channels: anket,ilişkiler
+    20-25 yaş aralığıdır.<br/><br/>düşünüyorum ama yok. bembeyaz.
+  entry_channels: anket
+- entry_name: |
+    gaye su akyol
+  entry_id:  81353570
+  entry_writer: yarisinidasonraicerim
+  entry_fav_count: 9
+  entry_content: |
+    albüm kapağı çizdirdiği illüstratörün parasının üstüne yatan, saygısız bir son nesil, anlaşılmaz olayım cool takılayım sanatçı görüneyim kişisi.<br/><br/>bir arabesk yavşaklığı vardı ülkede, şimdi de bu.<br/><br/>sanat yapmak böyle bir şey değil. <br/>sanatçı olmak herkese göre değil.
+  entry_channels: sanat,müzik
 - entry_name: |
     ekşi itiraf
   entry_id:  81336481
@@ -267,22 +299,6 @@ data:
       (nokta)..insan sevdiğinin söylemediği sözüne de küserdi...<br/><br/>şükrü erbaş
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ölünce harddisklere ne olacak sorunsalı
-  entry_id:  81352485
-  entry_writer: sabirtasi
-  entry_fav_count: 8
-  entry_content: |
-    arkanızdan rahmetli de az sapık değilmiş şeklinde söylemler olacaktır. yarın ölecekmiş gibi temiz tutmak, hiç ölmeyecekmişiz gibi de arşive yüklenmek gerekmektedir.
-  entry_channels: teknoloji
-- entry_name: |
-    ekşi'de güzel ve zeki kadın olmadığı gerçeği
-  entry_id:  81349338
-  entry_writer: akmasam da damlarim
-  entry_fav_count: 8
-  entry_content: |
-    (bkz: <a class="b" href="/?q=av%c4%b1n%c4%b1+k%c4%b1%c5%9fk%c4%b1rtmaya+%c3%a7al%c4%b1%c5%9fan+ek%c5%9fi+s%c3%b6zl%c3%bck+erke%c4%9fi">avını kışkırtmaya çalışan ekşi sözlük erkeği</a>)
-  entry_channels: ekşi-sözlük
-- entry_name: |
     bakkaldan alışveriş yapmama nedenleri
   entry_id:  81351503
   entry_writer: thorinoakenshield
@@ -291,26 +307,10 @@ data:
     (bkz: <a class="b" href="/?q=less+human+contact">less human contact</a>)
   entry_channels: anket
 - entry_name: |
-    menzil şeyhinin kongrede seçilmesi
-  entry_id:  81352075
-  entry_writer: karanliktaki kilic
-  entry_fav_count: 7
-  entry_content: |
-    aslında menzil şeyhinin allah tarafından önerilmesi olarak açacaktım, ancak malum sansür yüzünden bu şekilde açmak zorunda kaldım.<br/><br/>ilgili link <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/KemalistOgz/status/1041331822829989892" title="https://mobile.twitter.com/KemalistOgz/status/1041331822829989892">https://mobile.twitter.com/…tus/1041331822829989892</a><br/><br/>menzil şeyhinin seçilme süreci. <br/>-allah kongreye ismini öneriyor.<br/>-124 bin peygamber kongrede hazır bulunuyor.<br/>-oylama sonucunda hırka peygamber tarafından gavs’a teslim ediliyor.<br/>-sonra adıyaman’a dönüp müritlerini tarlada çalıştırıyor,3 milyonluk mercedes’e biniyor.
-  entry_channels: 
-- entry_name: |
-    16 eylül 2018 atiker konyaspor fenerbahçe maçı
-  entry_id:  81341788
-  entry_writer: damdan dusen kedi
-  entry_fav_count: 7
-  entry_content: |
-    gelirinin sobe (selçuklu otizmli bireyler eğitim) vakfına bağışlanacağı maçtır. yani maça gidenler otizmli bireylerin eğitimi için destek vermiş de olacaklar.
-  entry_channels: spor
-- entry_name: |
     şenol güneş
   entry_id:  81341710
   entry_writer: harleykiss
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     var i elestirdi diye " her pozisyonda var a mi bakilacak " denilerek elestirilen adam. <br/><br/>her pozisyon dedigi de kirmizi kart pozisyonu he. her pozisyon dedigi 75. dakika da mac 1-0 ken haksiz yere atilan medel ve ustune ustluk haftaya derbi olan pozisyon. <br/><br/>arkadas fanatiklik bu kadar mi gozunuzu kor ediyor cidden? beyninize oksijen gitmiyor mu?
   entry_channels: spor
@@ -331,13 +331,21 @@ data:
     (bkz: <a class="b" href="/?q=devrim+arabalari">devrim arabalari</a>)<br/><br/>her izleyişimde arabalar tbmm'ye geldiği sahneden sonrasını izleyemem, kapatırım.
   entry_channels: anket,tv,sinema
 - entry_name: |
-    yanlış zamanda doğru kişiden hoşlanmak
-  entry_id:  81353302
-  entry_writer: ortadanicki
-  entry_fav_count: 5
+    16 eylül 2018 atiker konyaspor fenerbahçe maçı
+  entry_id:  81341788
+  entry_writer: damdan dusen kedi
+  entry_fav_count: 6
   entry_content: |
-    bir yanlışın bir doğruyu götürdüğü durumlardandır.
-  entry_channels: 
+    gelirinin sobe (selçuklu otizmli bireyler eğitim) vakfına bağışlanacağı maçtır. yani maça gidenler otizmli bireylerin eğitimi için destek vermiş de olacaklar.
+  entry_channels: spor
+- entry_name: |
+    yanlış zamanda doğru kişiden hoşlanmak
+  entry_id:  81354094
+  entry_writer: style
+  entry_fav_count: 3
+  entry_content: |
+    zaman bir iluzyondur. eger o kisi gercekten dogru kisiyse aradaki cekim her turlu yanlisi yener ve siz bir olursunuz.
+  entry_channels: ilişkiler
 - entry_name: |
     2018 singapur gp
   entry_id:  81346689
@@ -355,29 +363,21 @@ data:
     haftasonu geldi geçti, bu saate pazar esnafı da toparlandı araçlarını yükledi. bu hafta pazar esnafı mı daha mutlu biz vatandaş mı onu düşündüm.<br/><br/>izmir. 2 gün 2 ayrı pazara gittim, arkadaşlar allah olmayana iki katını versin, şükür orta gelirli bir aileyiz ancak ulan yani afedersin aminakoyayim bu fiyatlar neydi yahu. kırmızı biber olmuş 5(beş), domates olmuş 4(dört) evet yanlis duymadınız yaz günü domatesi 4'e yedik. bamya 20 (yirmi) (gerçi bu arkadaş 2 lira da olsa yenmez ama olsun seveni var)<br/>burada gıcık olduğum nokta biberi geçen hafta 3 lira diye almadık (konserve, turşu vs için 40-50 kilo alacağız) bu hafta 5'ten aşağıya bulamadık. yani bu bir haftada hangi tarlayı söktünüz, hangi gübreyi attınız, hangi mazotu yaktiniz da bu kadar zam geldi. her şeyin öküz gibi pahalandığından, enflasyondan haberim var ancak 1 haftada bu kadar fark görünce sanırım bu hafta evlerine mutlu dönenler pazarcılar oldu. yoksa bir çok üründe haftabazında bu kadar pahalanmanın izahı yok.<br/><br/>fırsat'a denk geldik beyler, -çılık olanına.
   entry_channels: ekonomi
 - entry_name: |
-    aşık olmadan evlenenlerin cinsel hayatı
-  entry_id:  81352085
-  entry_writer: seferisayilirim
-  entry_fav_count: 1
-  entry_content: |
-    önündeki 30-35 yılı iyisiyle kötüsüyle beraber geçireceğin insanı düşününce sevmediğin kişiyi 30 yıl boyunca nasıl çekeceksin her şeyiyle diyorsun. buna yatak odası da dahil seksi 20 dakikalık kendi işini görme aktivitesi olarak gören bireylerin tabiki bu umrunda değil fakat <a class="b" href="/?q=b%c3%bcy%c3%bck+resime">büyük resime</a> odaklanın. hayatın boyunca yanında olacaksın öyle düşün.
-  entry_channels: ilişkiler
-- entry_name: |
     mezarlıkları seven insan
   entry_id:  81352744
   entry_writer: eksimtrack
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     sessizliği ve ağaçları seven insandır. malum, artık zor bulunuyor böyle ortamlar.
   entry_channels: anket
 - entry_name: |
-    gaye su akyol
-  entry_id:  81353275
-  entry_writer: endlos
-  entry_fav_count: 0
+    21 yılda 6 kez şampiyon olabilen şikeci
+  entry_id:  81354511
+  entry_writer: apexi
+  entry_fav_count: 1
   entry_content: |
-    sorularımızı cevaplayacak sanatçı.<br/><br/>arkadaşlar, eğer ki müziğini çok seviyorsanız, bence bu soru cevap kısmını görmemezlikten gelin. hatta ve hatta ropörtajlarını da izlemeyin, dinlemeyin. <br/><br/>ha derseniz ki, kadının fortesi zaten sesi, biz sesine bakarız, devam edin. <br/><br/>mesela "(bkz: <a class="b" href="/?q=queen">queen</a>)'de rock'n roll ruhu yoktur" gibi psychedelic bir cümle sahibi. <br/><br/>bakınız ile ayar verme yarışmasını şimdiden başlatıyorum.
-  entry_channels: sanat,müzik
+    (bkz: <a class="b" href="/?q=konu%c5%9fursam+2006+%c5%9fampiyonlu%c4%9fu+el+de%c4%9fi%c5%9ftirir">konuşursam 2006 şampiyonluğu el değiştirir</a>)
+  entry_channels: spor,anket
 - entry_name: |
     fikret orman
   entry_id:  81346411
@@ -387,6 +387,14 @@ data:
     fikstürü gs ile ayarlıyoruz demiş başkan, o zaman soruyorum şenol hoca geçen sene fiksturden şikayet ederken tff ve yayıncı kuruluşla görüştünüz mü,? görüşmediyseniz neden?
   entry_channels: spor
 - entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  81336227
+  entry_writer: fatalite
+  entry_fav_count: 0
+  entry_content: |
+    ' arama beni istemiyorum ' diye trip attığınız erkek gerçekten aramazsa ne yapıyorsunuz ,ne hissediyorsunuz ?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  81334741
   entry_writer: atilay
@@ -394,12 +402,4 @@ data:
   entry_content: |
     2 yıldır konuştuğum kız 10 günlük tanıdığı adamla belçika’ya gitti. avrupa’nın güzel ülkerine gitmek isteyenler yazabilir.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    21 yılda 6 kez şampiyon olabilen şikeci
-  entry_id:  81352978
-  entry_writer: sen benim sarhoslugumsun
-  entry_fav_count: 0
-  entry_content: |
-    kuşlara cevap vermeyin ,zaten onlara vuran vurmuş 4milyar borçları var muhtemelen satacaklar klübü .üstüne gitmeyin fazla bunların.
-  entry_channels: spor,anket
 ---
