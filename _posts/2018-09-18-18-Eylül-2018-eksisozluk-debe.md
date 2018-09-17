@@ -6,7 +6,7 @@ data:
     seda sayan'ın fallingstars pozu
   entry_id:  81368200
   entry_writer: herge
-  entry_fav_count: 706
+  entry_fav_count: 715
   entry_content: |
     simit sarayı virali içeren balina karaya nasıl vurur konseptli çalışma.
   entry_channels: anket,magazin
@@ -14,7 +14,7 @@ data:
     herkesin bir kereliğine devlete 1000 dolar vermesi
   entry_id:  81373328
   entry_writer: hayhaymatlos
-  entry_fav_count: 657
+  entry_fav_count: 668
   entry_content: |
     devlet herkese bir seferliğine 1000 dolar verse?
   entry_channels: siyaset,anket,ekonomi
@@ -22,10 +22,18 @@ data:
     yol verilince koşan yaya
   entry_id:  81376079
   entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 640
+  entry_fav_count: 648
   entry_content: |
     ben değilim bu. bana yol verilince önce teşekkürler anlamında bir baş selamı ya da gülümsemeyle karşılık verir, ondan sonra hızlı adımlarla karşıya geçerim. yol verilir verilmez koşmaya başlarsam biraz tuhaf olmaz mı, sanki hayatım boyunca bu anı beklemişim gibi?
   entry_channels: otomotiv
+- entry_name: |
+    17 eylül 2018 iş bankası açıklaması
+  entry_id:  81369926
+  entry_writer: onun vitamini kabugunda
+  entry_fav_count: 489
+  entry_content: |
+    iş bankasının öğle menüsünde bolca yürek servis edildiğinin ispatıdır.
+  entry_channels: haber,ekonomi
 - entry_name: |
     iş bankası'ndaki chp hisseleri hazineye geçmeli
   entry_id:  81365761
@@ -38,7 +46,7 @@ data:
     okulun ilk günü ağlamayan efsane çocuk
   entry_id:  81370254
   entry_writer: boris yeltmesin
-  entry_fav_count: 318
+  entry_fav_count: 337
   entry_content: |
     93 senesindeki efsane benim. <br/><br/>önümdeki iki dallama ağlıyordu. arkamdakiler ağlıyordu. yanımdaki çekik tip tip bana bakıyordu. herkesin anası-babası sınıfta. gri önlüğüm ve ceplerindeki iyi ütülenmiş beyaz mendillerimle etrafı gözlemliyordum. annem yanımdaydı. işe gitmesi gerekiyordu. hayır duasını edip öptü ve gitti. her teneffüste çekimser adımlarla kapının önüne çıktığımda milletin annesini görüyordum orada burada. ama benim annem yoktu. gerçi olsa ne boka yaracaktı orası da ayrı. akşam olunca geldi, aldı beni.<br/><br/>şimdi asıl ağlamama nedenime geleyim. annem ağlamazsam bana kardeş yapacağını söylemişti. ben de ağlamadım tabi ki. eve gitti kardeş yok. kardeşimi sorunca karnenin hepsini beş getirirsen kardeş yapacağım dedi. karne günü eve gittim, yine kardeş yok. bu sefer ikinci sınıfta aynı döngüye soktu. sanırım 4. sınıfta çocuğun ısmarlama bir olay olmadığını öğrendiğimde artık çalışkan bir öğrenciydim. bu vesileyle iyi bir not ortalamasıyla 8 yıllık zorunlu eğitimi bitirdim.<br/><br/>bu kadın yıllarca pepsi kola şişesine koyduğu siyah üzüm suyunu bana kola diye içirmiş kadın. ben mi aptaldım, bu kadın mı akıllı hala emin değilim. belki ikisi de. <sup class="ab"><a title="(bkz: gvb)" href="/?q=gvb" data-query="gvb">*</a></sup>
   entry_channels: eğitim
@@ -46,23 +54,15 @@ data:
     ali koç'un gereksiz işlerle uğraşması
   entry_id:  81380317
   entry_writer: soner misir yer
-  entry_fav_count: 286
+  entry_fav_count: 296
   entry_content: |
     koç ailesini biricik varisinin her nedense futbol gibi gereksiz bir işle uğraşıyor olması . neden bir üretim buluş vs yatırımı yapmak dışında böyle gereksiz işlere uğraştığını gerçekten anlayamıyorum. bi kaç adam "golleülll" diye bağırcak eee?<br/><br/>para var gidip gayet güzel yatırım yapıp bu ülkenin zeki çocuklarını toplayabilirsin başlarında durursun ne bilim tıp araştırmasına, teknolojiye uçan bisiklete bile harcayabilirsin<br/><br/>adını tarihe bu tip başarılarla yazdırabilme potansiyelin varken neden futbol neden neden?
   entry_channels: spor,ekonomi
 - entry_name: |
-    ürdün'de bir markette vahşice yakılan kadın
-  entry_id:  81365928
-  entry_writer: webyusuf
-  entry_fav_count: 284
-  entry_content: |
-    tüm içtihadı ve uygulamalarıyla kadın düşmanı bir din olan islamiyet'in hüküm sürdüğü ülkede -ürdün- yaşanmıştır.<br/><br/>sen karısını yakan isveçli, ateistin kellesini kesen belçikalı, esir kadına tecavüz eden fransız gördün mü bedevi özentisi çomar kardeşim?
-  entry_channels: haber
-- entry_name: |
     resmi gazete'nin kağıt yokluğundan basılamaması
   entry_id:  81376631
   entry_writer: r2d2r2d3
-  entry_fav_count: 278
+  entry_fav_count: 283
   entry_content: |
     gülmekten entry giremememe sebep olan <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201809171035234002-resmi-gazete-basbakanlik-kagit-fiyat-sozcu/?utm_source=https://t.co/IKZamzU0Wo&amp;utm_medium=short_url&amp;utm_content=j8gr&amp;utm_campaign=URL_shortening" title="https://tr.sputniknews.com/turkiye/201809171035234002-resmi-gazete-basbakanlik-kagit-fiyat-sozcu/?utm_source=https://t.co/IKZamzU0Wo&amp;utm_medium=short_url&amp;utm_content=j8gr&amp;utm_campaign=URL_shortening">haber...</a><br/><br/>bir ülke bu kadar kötü yönetilebilirdi. daha kötüsü isteseniz bile olmaz, olamaz.<br/><br/>not: geçici bir kaç sayı değil. adamlar toptan kapatmışlar.<br/><br/>hahhahahhahahhahahahahahahhahahahhahahahhaha<br/><br/>not: bir takım dangalak - burda dangalak mümkün olan ve aslında fazlasıyla hakedilen çok daha ağır sıfatların yerine kullanılmıştır - tercih edilen hukuki ispat şartlarından biri olan yazılı metnin üstelik devletin kendisini temsil eden bir olguyken keyiften, zevkten, teknolojinin arş-ı alaya değdiğinden falan değil kağıt yokluğundan kapanmasını "yeaaa internetten bakıyoz yeaaa" diye değerlendiriyor ya.<br/><br/>ne desek boş...<br/><br/>adama sorarlar; "gece yarısı "yanlış kur" ayağına banka emiklenen ülkede siber güvenliği nasıl halledeceksin balım bi anlatsana...." diye de cümleyi sonuna dek okuyabileceğinizden emin olamadım....
   entry_channels: siyaset,haber,ekonomi
@@ -70,15 +70,23 @@ data:
     valinin küsüp töreni terk etmesi
   entry_id:  81380139
   entry_writer: burusmus a4 kagidi
-  entry_fav_count: 173
+  entry_fav_count: 178
   entry_content: |
     -sayın valim nereye gidiyorsunuz ??<br/>-uff sanane be slk yhaa !!<br/>- ???
   entry_channels: siyaset,haber
 - entry_name: |
+    siemens'in maaşlara erken zam yapması
+  entry_id:  81384069
+  entry_writer: roket adamus
+  entry_fav_count: 148
+  entry_content: |
+    şimdi çalışan bir arkadaşımdan aldığım bir mail ile öğrendiğim olay.<br/>her sene ocak ayında yapılan ücret artışlarını, ülke şartlarını göz önünde bulundurarak herkese yüzde 10 olacak şekilde eylül ayında <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a39d83f1559" title="https://eksiup.com/a39d83f1559">yapmışlar</a>. <br/>ocak 2019'da tekrar değerlendireceğiz diye de eklemişler. <br/>ağlamıyorum, gözüme buzdolabı kaçtı.
+  entry_channels: 
+- entry_name: |
     17 eylül 2018 dolar kuru
   entry_id:  81373459
   entry_writer: spacengineer
-  entry_fav_count: 141
+  entry_fav_count: 142
   entry_content: |
     az önce köyden 80 yaşındaki ali osman emmi’ye sordum: nolacak bu ülkenin hali? <br/>emmi: oğlum avradı siktirdikten sonra kapıyı kilitlesen nolur?<br/><br/>filozof gibi adam şerefsizim.
   entry_channels: siyaset,ekonomi
@@ -86,39 +94,31 @@ data:
     makedonya türkleri
   entry_id:  81365923
   entry_writer: babayarisi
-  entry_fav_count: 135
+  entry_fav_count: 140
   entry_content: |
     webyusuf isimli güzide yazarın enterysi, siler filan.<br/>"istilacı osmanlı ordusu tarafından kılıç zoruyla islam'a devşirilmiş slav kökenli insanlardır.<br/><br/>tarih büyük trajedileri yazar."<br/><br/>madem osmanlı kılıç zoruyla slavları müslüman yaptı , balkanların türk veya müslüman olmayan nüfusunu (baya da fazlalar he) anan mı doğurdu diye sorarlar adama.<br/><br/>senin kaşıntın başka da maçan yememiş açık açık söylemeye belli ki.
   entry_channels: siyaset,tarih
 - entry_name: |
-    sabah duş almak vs geceden duş almak
-  entry_id:  81361581
-  entry_writer: charybdiys
-  entry_fav_count: 134
-  entry_content: |
-    yazın sabah, kışın gece duş alınır.
-  entry_channels: anket,sağlık
-- entry_name: |
     galatasaray'ın boğaziçi temalı 18-19 forması
   entry_id:  81371679
   entry_writer: meleutheria
-  entry_fav_count: 134
+  entry_fav_count: 138
   entry_content: |
     fikir olarak güzel uygulaması rezalet olan formadır.
   entry_channels: spor,moda
 - entry_name: |
-    antalya'da uçan motosiklet yapan adam
-  entry_id:  81361467
-  entry_writer: exfreak
-  entry_fav_count: 124
+    sabah duş almak vs geceden duş almak
+  entry_id:  81361581
+  entry_writer: charybdiys
+  entry_fav_count: 135
   entry_content: |
-    <a class="b" href="/?q=aerodinamik">aerodinamik</a> bilmeyen, <a class="b" href="/?q=bernoulli+prensibi">bernoulli prensibi</a>nden habersiz, hevesli ama başarısız olacak adamdır.<br/><br/><a class="b" href="/?q=aerofoil">aerofoil</a> hususunu aratıp, bir de görsellerdeki o dümdüz kanadına bakmak dahi kafi bunu anlamak için. <br/><br/>hava araçlarını havada tutunmasını sağlayan şey, yandaki alakasız ve rastgele satıhlar değil, o satıhların yapısıdır. bu abi bırakın havalanmayı, muhtemelen biraz hızlanınca o kanatlar ve altındaki tekerlerin yere temasındaki anomaliler vesilesiyle kaza yapacak.<br/><br/><a class="b" href="/?q=ek">ek</a>: devrim arabaları romantizmi yapan hödükler var her zamanki gibi. uçmaz bu arkadaş, uçamaz! hadi abi bilgisiz, onu savunan daha acınası ve gerzek. teknik olarak açıklasan da biri çıkıp "ecnebi yapsa" diye bıdı bıdı yapıyor. saçmalıkları takip edip onlarla gaza geleceğinize hiç gelmeyin, ki gerçekten yapanlara bir faydanız olsun. bu motorun 4 katı güç üretip, aynı motorun yarısı ağırlığa sahip motorlar var gökyüzünde, bağlı olduğu full alüminyum aracı anca taşıyor bir de. neyse, kime ne anlatıyorsun, konyalı bilim adamları füze yapmış ışık hızında, evet.
-  entry_channels: haber,motosiklet,havacılık
+    yazın sabah, kışın gece duş alınır.
+  entry_channels: anket,sağlık
 - entry_name: |
     vücut geliştirme
   entry_id:  81381611
   entry_writer: byalitr
-  entry_fav_count: 123
+  entry_fav_count: 127
   entry_content: |
     9 ay önce kolsuz başladım, şuan kolum yeni yeni çıkmaya başladı. öyle bir spor.
   entry_channels: spor,sağlık
@@ -126,7 +126,7 @@ data:
     katar'a hediye uçak karşılığında verilen şey
   entry_id:  81373026
   entry_writer: marriotarite
-  entry_fav_count: 122
+  entry_fav_count: 124
   entry_content: |
     bugün açıklamayı okudum biz uçağı almaya niyetlenmişiz,onlar da hibe etmiş.yahu bizim ülkemizin böyle bir uçağa ihtiyacı mı vardır?vatandaşın büyük çoğunluğun aç olduğunu bir ben mi düşünüyorum?bu ülkeye dair en ufak bir hayalim bile yok artık.
   entry_channels: siyaset,ilişkiler,haber,ekonomi
@@ -134,79 +134,63 @@ data:
     sevilen komutanların efsanevi sözleri
   entry_id:  81369744
   entry_writer: elu
-  entry_fav_count: 121
+  entry_fav_count: 122
   entry_content: |
     acemi birliğinde nişanlısı tarafından terk edilen askerin 2.kattaki koğuştan atlayarak intihar etme teşebbüsünden sonra komutanımız hepimizi toplamış ve şu sözleri söylemişti;<br/>"bir kız için intihar eden ağır maldır. sen seversin elin oğlu duvara vura vura siker. bu saatten sonra bu bölükte intihar etmeyi yasaklıyorum."
   entry_channels: anket
 - entry_name: |
-    bir şantiye tetikçisinin itirafları
-  entry_id:  81373205
-  entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 111
-  entry_content: |
-    bir adet şantiye orospusu, patron kevaşesi, beynelmilel fahişe söylemi.
-  entry_channels: siyaset,haber
-- entry_name: |
-    siemens'in maaşlara erken zam yapması
-  entry_id:  81384069
-  entry_writer: roket adamus
-  entry_fav_count: 108
-  entry_content: |
-    şimdi çalışan bir arkadaşımdan aldığım bir mail ile öğrendiğim olay.<br/>her sene ocak ayında yapılan ücret artışlarını, ülke şartlarını göz önünde bulundurarak herkese yüzde 10 olacak şekilde eylül ayında <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a39d83f1559" title="https://eksiup.com/a39d83f1559">yapmışlar</a>. <br/>ocak 2019'da tekrar değerlendireceğiz diye de eklemişler. <br/>ağlamıyorum, gözüme buzdolabı kaçtı.
-  entry_channels: 
-- entry_name: |
-    duşta pipiyi pervane gibi döndürmek
-  entry_id:  81385567
-  entry_writer: honkong
-  entry_fav_count: 105
-  entry_content: |
-    biz iki parmakla zor tutuyoz, millet pervane gibi döndürüyor vay mk
-  entry_channels: ilişkiler
-- entry_name: |
     cırcır+esenler otogar tuvaleti+kesik su
   entry_id:  81384057
   entry_writer: vallabiznickbilmiyorum
-  entry_fav_count: 98
+  entry_fav_count: 122
   entry_content: |
     n’aptın be petito, hacca giden uçağı amsterdam’a mı indirdin?..
   entry_channels: anket,sağlık,seyahat
 - entry_name: |
-    2018 ekonomik krizi
-  entry_id:  81368363
-  entry_writer: uckuruslukopera
-  entry_fav_count: 96
-  entry_content: |
-    “türkiye cumhuriyeti devleti kurulduğundan beri hiçbir zaman satın aldığından daha fazla mal satamamış. yani bir dükkan düşünün sürekli mal alıyorsunuz 90 sene olmuş hiç kar elde etmiyorsunuz sürekli borçlanarak mal alımı yapıyorsunuz. mantıklı mı kesinlikle değil. bu durumun mevcut hükümetle ilgisi yok.“<br/><br/>yazılmış. aslında incelemeye gerek yok çünkü bu başlıkta bir cümle “mevcut hükümetle ilgisi yok”la bitiyorsa kesinlikle yanlıştır arkadaşlar. ama kamu hizmeti yapayım, cümleyi düzelteyim. <br/><br/>türkiye cumhuriyeti kurulduğundan itibaren ilk 24 yılda 16 yıl dış ticaret fazlası vermiştir. aradaki 8 yıl ise tahmin edeceğiniz üzere kurtuluş savaşının hemen sonrası ve 2. dünya savaşı dönemidir. zaten az olan erkek nüfusun büyük çoğunluğu mecburen askere gittiğinden üretim düştüğü için o yıllarda dış ticaret fazlası verilememiştir. <br/><br/>buradan istediğiniz yıla bakabilirsiniz. <a rel="nofollow noopener" class="url" target="_blank" href="http://tuik.gov.tr/PreIstatistikTablo.do?istab_id=621" title="http://tuik.gov.tr/PreIstatistikTablo.do?istab_id=621">kaynak</a><br/><br/>2001 krizinde ihracatın ithalatı karşılama oranı yüzde 75,7’ydi. 2017’de bu oran yüzde 67,1 olmuştur. üstüne o dönemdeki fabrikaların ve kitlerin tamamı satılmış ve kapanmıştır. brüt borç stoğunun milli gelire oranı kısmına hiç girmiyorum.<br/><br/>hep böyleydi demeyin, hep böyle değildi. hiç böyle olmadı. bu hale getirmek başarıdır.
-  entry_channels: siyaset,tarih,ekonomi
-- entry_name: |
     yaşından küçük göstermek
   entry_id:  81381209
   entry_writer: intellectual soft hardening temperature
-  entry_fav_count: 87
+  entry_fav_count: 102
   entry_content: |
     28 yaşındayım, sigara alırken kimlik gösteriyorum.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    en iyi maç spikeri
-  entry_id:  81380721
-  entry_writer: fcknlannisters
-  entry_fav_count: 68
+    2018 ekonomik krizi
+  entry_id:  81368363
+  entry_writer: uckuruslukopera
+  entry_fav_count: 98
   entry_content: |
-    ercan taner olsa gerek. <br/><br/>(bkz: <a class="b" href="/?q=allaaah%c4%b1%c4%b1mm+gooooolllll">allaaahıımm gooooolllll</a>)
-  entry_channels: spor,anket
+    “türkiye cumhuriyeti devleti kurulduğundan beri hiçbir zaman satın aldığından daha fazla mal satamamış. yani bir dükkan düşünün sürekli mal alıyorsunuz 90 sene olmuş hiç kar elde etmiyorsunuz sürekli borçlanarak mal alımı yapıyorsunuz. mantıklı mı kesinlikle değil. bu durumun mevcut hükümetle ilgisi yok.“<br/><br/>yazılmış. aslında incelemeye gerek yok çünkü bu başlıkta bir cümle “mevcut hükümetle ilgisi yok”la bitiyorsa kesinlikle yanlıştır arkadaşlar. ama kamu hizmeti yapayım, cümleyi düzelteyim. <br/><br/>türkiye cumhuriyeti kurulduğundan itibaren ilk 24 yılda 16 yıl dış ticaret fazlası vermiştir. aradaki 8 yıl ise tahmin edeceğiniz üzere kurtuluş savaşının hemen sonrası ve 2. dünya savaşı dönemidir. zaten az olan erkek nüfusun büyük çoğunluğu mecburen askere gittiğinden üretim düştüğü için o yıllarda dış ticaret fazlası verilememiştir. <br/><br/>buradan istediğiniz yıla bakabilirsiniz. <a rel="nofollow noopener" class="url" target="_blank" href="http://tuik.gov.tr/PreIstatistikTablo.do?istab_id=621" title="http://tuik.gov.tr/PreIstatistikTablo.do?istab_id=621">kaynak</a><br/><br/>2001 krizinde ihracatın ithalatı karşılama oranı yüzde 75,7’ydi. 2017’de bu oran yüzde 67,1 olmuştur. üstüne o dönemdeki fabrikaların ve kitlerin tamamı satılmış ve kapanmıştır. brüt borç stoğunun milli gelire oranı kısmına hiç girmiyorum.<br/><br/>hep böyleydi demeyin, hep böyle değildi. hiç böyle olmadı. bu hale getirmek başarıdır.
+  entry_channels: siyaset,tarih,ekonomi
 - entry_name: |
     ios 12
   entry_id:  81364446
   entry_writer: buyuyup buyuk adam olacaktim
-  entry_fav_count: 63
+  entry_fav_count: 75
   entry_content: |
     yüklediğinizde fark edeceğiniz şeyler<br/><br/>1) kamera anında açılıyor, klavye hemen çıkıyor, cihaz genel olarak çok akıcı ve pili çok daha iyi gidiyor. applerin açılış hızı, geçiş animasyonları falan her şeyde ciddi iyileşme var.<br/><br/>2) bildirimler app'e göre gruplanmış. dokunduğunuzda tümü görünecek, aynı yerden de o app'in bildirimlerini kısabileceksiniz.<br/><br/>3) fotoğraflar app'inin sağ köşesinde arama tab'ı var, fotoğraflarınızın içeriğine lokasyonuna tarihine ve fotoğraflardaki kişilere göre gruplandığını göreceksiniz ve bunlara göre arama yapabileceksiniz. arayüzde de bazı iyileştirmeler var, hemen alışırsınız. <br/><br/>4) ayarlarda screen time var(türkçesi nedir bilmiyorum). hangi app ve app kategorisinde ne kadar zaman harcamışsınız, kaç bildirim gelmiş, telefonu kaç defa ele almışsınız hepsinin çetelesi orada tutuluyor. daha da iyisi bunlara limit belirleyebiliyorsunuz.<br/><br/>5) pil konusunda daha detaylı bilgi var, hangi ara ne yaparken boşalmış görebilirsiniz. <br/><br/>6) bed time(türkçe ne demişler bilmiyorum da hani uyku saatlerinizi ayarlayan app) artık otomatik olarak "rahatsız etme" moduna alıyor uyku saatiniz gelince. ben bunu iptal ettim.<br/><br/>7) "ölçüm" app'i ile boy ölçümü yapmak, ekstra animoji, facetime'da iyileştirmeler, mesajla gelen onay kodunu otomatik kopyalama, keychain ile login bilgilerini girme mekaniklerinde iyileşme gibi bir sürü ufak tefek güzellik
   entry_channels: teknoloji
 - entry_name: |
+    en iyi maç spikeri
+  entry_id:  81380721
+  entry_writer: fcknlannisters
+  entry_fav_count: 71
+  entry_content: |
+    ercan taner olsa gerek. <br/><br/>(bkz: <a class="b" href="/?q=allaaah%c4%b1%c4%b1mm+gooooolllll">allaaahıımm gooooolllll</a>)
+  entry_channels: spor,anket
+- entry_name: |
+    türkiye'de en tiksindiğiniz şey
+  entry_id:  81386718
+  entry_writer: djdigy
+  entry_fav_count: 68
+  entry_content: |
+    kibarlığın, nezaketin, hoşgörünün ülke genelinde zayıflık olarak kabul görmesi.
+  entry_channels: siyaset,anket,ilişkiler
+- entry_name: |
     500 milyon dolar'la yapılabilecekler
   entry_id:  81376435
   entry_writer: seovi
-  entry_fav_count: 63
+  entry_fav_count: 67
   entry_content: |
     sayın c. başkanının kendi beyanıyla almak için fiyatını sorduğu (zaten uçakları olmasına rağmen) ve bir anda katar tarafından hediye edilen (yersen) uçağın fiyatı. yani sözümona hediye olmasa gözden çıkartılan para ile neler yapılabilir. basit bir hesapla 3 öğün toplam 5 dolardan, 100 milyon öğün yemek dağıtabilirsin. yani tüm türkiye yemek ısmarlarsın hatta suriye’ye bile çıkar. 280.000 insana ( bu bir ilin nüfusudur) bir yıl boyunca yemek dağıtabilirsin. <br/><br/>malum memlekette devlet yurdu sıkıntısı var. öğrencilerimizi yatıracak yeri yok devletin. 10 katlı 600 yurt yapılabilir bu parayla. <br/><br/>kaç km yol, kaç km tünel, kaç okul, kaç öğretmen varın siz hesaplayın.
   entry_channels: anket,ekonomi
@@ -222,7 +206,7 @@ data:
     şişeden viski içme karizması
   entry_id:  81381766
   entry_writer: cgjung
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     western filmlerinde vurulan bir kovboyun sıklıkla yaptığı eylem.<br/>öbür taraf ayık kafayla çekilmez diye düşünüyolar muhtemelen.
   entry_channels: anket,yeme-içme
@@ -235,77 +219,77 @@ data:
     albüm kapağı çizdirdiğin illüstratörden zibilyon tane revize isteyip sonunda da böyle kabul edemem deyip ödeme yapmadığını biliyorum. kendini savunabilir misin?
   entry_channels: ekşi-sözlük,sanat,müzik
 - entry_name: |
-    beyaz tenli erkekler
-  entry_id:  81374089
-  entry_writer: medeniyet
-  entry_fav_count: 34
-  entry_content: |
-    götleri de beyaz olan erkeklerdir.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    bedelli askerlik
-  entry_id:  81368315
-  entry_writer: oakpost
-  entry_fav_count: 33
-  entry_content: |
-    ülkedeki kutuplaşmanın ne boyutta olduğunu gösteren başlık.<br/><br/>olum hiç emperyalistlerin hain emellerine gerek yok,biz birbirimizi yeriz her türlü.<br/><br/>ulan ortada bir saçma sistem var,eleştiriyorsun herif hemen "ne ağladınız be" diyor.sana mı soracağız yarrak? ben işe giremiyorum sırf bu celp tarihi belirsizliği yüzünden. kredi çektim, götüme girdi.<br/><br/>şurada yazılanlara bakıyorum da,sessiz bir iç savaş yaşıyoruz. her anlamda bölünmüşüz. gel bir de dayak at aq çocuğu. <br/><br/>ortadoğu bokları sizi. bütün hayatınız kendi insanınızın mutsuz olması üzerine kurulu.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     30 yaşında bekar kadın
   entry_id:  81385431
   entry_writer: bir preposition olarak la
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     oha 30 yaşında kadına evde kalmış deniyor lan.<br/><br/>ekşisözlük gerçekten liseli kaynamaya başlamış. lan 30 yaş nedir amk? biz 30 yaşındaki insana tek başına kod yazdırmıyoruz, olanı bozar mozar diye, evlilik ne lan?<br/><br/>şiz 30'u büyük mü çanıyoyşunuz? <br/><br/>tabi okullar açıldı ya, uykusuzluktan sersemlediniz siz, hadi yatağa.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    rte'nin ev hali
+  entry_id:  81385752
+  entry_writer: durbidakka
+  entry_fav_count: 34
+  entry_content: |
+    (bkz: <a class="b" href="/?q=rahat+uyuyabiliyor+mu">rahat uyuyabiliyor mu</a>)
+  entry_channels: siyaset
+- entry_name: |
     eski sevgiliyi hatırlattığından dinlenemeyen şarkı
   entry_id:  81361408
   entry_writer: taso kepen
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     olm ne entel adamlarsınız. hepiniz de mi beatles queen dinleyerek tribe giriyorsunuz.<br/><br/>ibo-tek tek.
   entry_channels: anket,ilişkiler,müzik
 - entry_name: |
-    türkiye'de en tiksindiğiniz şey
-  entry_id:  81386718
-  entry_writer: djdigy
+    asgari ücreti bankaya yatırıp kalanı elden vermek
+  entry_id:  81369232
+  entry_writer: angara beyefendisi
   entry_fav_count: 26
   entry_content: |
-    kibarlığın, nezaketin, hoşgörünün ülke genelinde zayıflık olarak kabul görmesi.
-  entry_channels: siyaset,anket
-- entry_name: |
-    bakkaldan alışveriş yapmama nedenleri
-  entry_id:  81362537
-  entry_writer: captainclaw
-  entry_fav_count: 21
-  entry_content: |
-    büyük banknot uzattığında silah çekmişsin gibi tepki vermesi. poşet verirken canını verir gibi vermesi. kartla ödeme yapmak istediğinde sanki götünü sikmek istemişsin gibi triplere girmesi.
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=maa%c5%9f%c4%b1+asgari+%c3%bccret+%c3%bczerinden+g%c3%b6steren+i%c5%9fverenler">maaşı asgari ücret üzerinden gösteren işverenler</a>)<br/><br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)
+  entry_channels: ekonomi
 - entry_name: |
     kredi kartı ekstresinin asgarisini ödemek
   entry_id:  81385972
   entry_writer: defoe
-  entry_fav_count: 16
+  entry_fav_count: 24
   entry_content: |
     borç batağına saplanmanın alametlerinden biridir.<br/>bankaların en çok kar elde ettiği müşteri grubunu oluştururlar.
   entry_channels: ekonomi
 - entry_name: |
-    2 yıl aradan sonra sevgilinin geri dönmesi
-  entry_id:  81385260
-  entry_writer: justsave
-  entry_fav_count: 16
+    türkiyenin ünlü ama kıro şahsiyetleri
+  entry_id:  81367073
+  entry_writer: mimarishvili
+  entry_fav_count: 19
   entry_content: |
-    o blowjob senin bu handjob benim takılıp, yaşı artınca da evlenmek için kerizlemeye gelmiştir. inanmayın, siktir edin gitsin.
-  entry_channels: ilişkiler
+    (bkz: <a class="b" href="/?q=demet+akal%c4%b1n">demet akalın</a>) başı çeker.
+  entry_channels: anket,magazin
+- entry_name: |
+    patlayan süt
+  entry_id:  81381660
+  entry_writer: kahramanlik yapana dek isimsiz
+  entry_fav_count: 15
+  entry_content: |
+    daha dün cezvede süt kaynattım. gerçekten şansa yaşıyoruz.
+  entry_channels: bilim,haber,yeme-içme
 - entry_name: |
     amerika'da emeklilik
   entry_id:  81384135
   entry_writer: high functioning psychopath
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6zel+sa%c4%9fl%c4%b1k+sistemi">özel sağlık sistemi</a>)<br/><br/>burada ödediğinden daha düşük primleri orada özel sigortaya yatırırsan abâd olursun, gerçi bu sığırın nicki bir yerden tanıdık geliyor, yeni nesil düşük kapasiteli trollerden zannederim...<br/><br/>edit: aynen koçum, amerikan sağlık sistemini öveyim diye satın aldılar beni, sen ekşiye yaz abi emekliliği dert etme bizdensin dediler.
   entry_channels: ekonomi
+- entry_name: |
+    2 yıl aradan sonra sevgilinin geri dönmesi
+  entry_id:  81386054
+  entry_writer: yavru zurafa
+  entry_fav_count: 14
+  entry_content: |
+    aradığını bulamamış, tanıdık bildik bir limana sığınmaya gelmiştir. hayal kırıklıklarını, sizin onu hala sevip istediğiniz umuduyla tamir edeceğini düşünmüştür. lakin artık o işten hayır gelmez bebişim. zorlamayın olmaz.
+  entry_channels: ilişkiler
 - entry_name: |
     19 eylül 2017 feray şahin cinayeti
   entry_id:  81377387
@@ -315,13 +299,29 @@ data:
     küçükken mahallede sürekli kelebekle gezen bir psikopat vardı.<br/>aynı mahallede beraber büyüdük. okul hayatında bir çok kez uzaklaştırma aldı. okulda öğretmen bıçaklamaya çalıştı. <br/>sürekli kızlara sarkıntılık yapan dili dışarda gezen bir sapıktı. kalemi avcunun içine alıp öyle yazı yazardı. <br/><br/>topa hep burun vururdu,basketbol oynadığında topu koltuğunun altına alır ve koşardı. biri laf söyleyince de sürekli küfür eder topu uzağa fırlatıp siktirip giderdi.<br/><br/>gecenin köründe mahallede cengiz kurtoğlu çalar gezerdi. <br/><br/>şimdilerde ise polis.<br/><br/>eminim bunun gibi binlercesi vardır. eskiden polislik çok ağır meslek gibi gelirdi bana.<br/><br/>şimdilerde apaçi kaynıyor maalesef teşkilat.
   entry_channels: haber
 - entry_name: |
-    türkiyenin ünlü ama kıro şahsiyetleri
-  entry_id:  81366994
-  entry_writer: aynstayninoglu
-  entry_fav_count: 12
+    mustafa tuna
+  entry_id:  81374371
+  entry_writer: bowersolufsen
+  entry_fav_count: 11
   entry_content: |
-    (bkz: <a class="b" href="/?q=ibrahim+tatl%c4%b1ses">ibrahim tatlıses</a>)
-  entry_channels: anket,magazin
+    korumasız geziyor ve melih'in tüm pisliklerini temizliyor. en büyük icraati ise 11 aydır ankara'da 24 saat toplu taşımaya imkan sağlamasıdır. <br/><br/>melih zamanında yatarak maaş alan belediye işçileri, güvenlik görevlileri şuan çalıştırılıyoruz diye bu adama kin kusuyorlar ama normal bir ortamda aday olsun kazanır.
+  entry_channels: siyaset
+- entry_name: |
+    17 eylül 2018 idlib için türkiye-rusya mutabakatı
+  entry_id:  81384133
+  entry_writer: thegeniusofthemind
+  entry_fav_count: 11
+  entry_content: |
+    olası göç dalgasının (3,5 milyon insan) ve olası sivil ölümlülerin önüne geçilmesi açısından son derece önemli olaydır. umarım 1 sene içersinde suriye devleti anayasasını tamamlayıp seçimlere giderek normal günlerine döner. bu durum bizim için oldukça önemli zira ülkede 3.5 milyon suriyeli var ve bu insanların yurtlarına dönmesi için oldukça umut verici bir gelişme olacaktır ilerleyen aylar içinde. suriye'nin toprak bütünlüğü bölgedeki ypg/pyd/pkk'nın ulusalararası arenada meşrutiyetini de sorgulatacaktır. ülkemiz için de bölge halkı için de tarihi bir gün oldu diyebiliriz.<br/><br/>edit: eğer mutabakat sağlanır ve kalıcı barışın önü açılır ise; abd'nin bölgedeki hakimiyeti sınırlanmış olur. ülke olarak rusya'yı tercih ettik. bizi buna trump zorladı. trump amerikan tarihine amerika'ya en çok zarar veren ve en beceriksiz başkanı olarak geçecektir. yılların nato müttefiki türkiye'ye açık bir şekilde düşmanca tavırlarının sonuçlarını suriye'de alacaktır. şahsi öngörüm 2 senesi var. başkanlık süresini dolduramadan siyasetin tozlu raflarına karışacaktır.
+  entry_channels: siyaset,haber
+- entry_name: |
+    17 eylül 2018 alanyaspor trabzonspor maçı
+  entry_id:  81387542
+  entry_writer: kitik
+  entry_fav_count: 11
+  entry_content: |
+    bütün sezondaki tek hedefi sadece <a class="b" href="/?q=galatasaray">galatasaray</a>’ı yenmek olan <a class="b" href="/?q=trabzonspor">trabzonspor</a>’un acınası halini içeren maç.
+  entry_channels: spor,anket,haber
 - entry_name: |
     girişi mükemmel parçalar
   entry_id:  81376154
@@ -330,14 +330,6 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=qcI5-nOEsYM" title="https://www.youtube.com/watch?v=qcI5-nOEsYM">arctic monkeys - mardy bum</a>
   entry_channels: anket,sanat,müzik
-- entry_name: |
-    17 eylül 2018 idlib için türkiye-rusya mutabakatı
-  entry_id:  81384133
-  entry_writer: thegeniusofthemind
-  entry_fav_count: 9
-  entry_content: |
-    olası göç dalgasının (3,5 milyon insan) ve olası sivil ölümlülerin önüne geçilmesi açısından son derece önemli olaydır. umarım 1 sene içersinde suriye devleti anayasasını tamamlayıp seçimlere giderek normal günlerine döner. bu durum bizim için oldukça önemli zira ülkede 3.5 milyon suriyeli var ve bu insanların yurtlarına dönmesi için oldukça umut verici bir gelişme olacaktır ilerleyen aylar içinde. suriye'nin toprak bütünlüğü bölgedeki ypg/pyd/pkk'nın ulusalararası arenada meşrutiyetini de sorgulatacaktır. ülkemiz için de bölge halkı için de tarihi bir gün oldu diyebiliriz.<br/><br/>edit: eğer mutabakat sağlanır ve kalıcı barışın önü açılır ise; abd'nin bölgedeki hakimiyeti sınırlanmış olur. ülke olarak rusya'yı tercih ettik. bizi buna trump zorladı. trump amerikan tarihine amerika'ya en çok zarar veren ve en beceriksiz başkanı olarak geçecektir. yılların nato müttefiki türkiye'ye açık bir şekilde düşmanca tavırlarının sonuçlarını suriye'de alacaktır. şahsi öngörüm 2 senesi var. başkanlık süresini dolduramadan siyasetin tozlu raflarına karışacaktır.
-  entry_channels: siyaset,haber
 - entry_name: |
     oğuz aksaç
   entry_id:  81369774
@@ -355,21 +347,21 @@ data:
     bakmayın burda bok attıklarına, yarısı izliyor diğer yarısının da içi içini yiyiyor ama burda entellik yapıyolar mafyaymış bilmemneymiş. kıyaslanmaz tabi ama breaking bad dediğin dizide hem adam kestiler hem uyuşturucu ürettiler ve bu diziyi tüm dünyaya izlettiler. birinizde çıkıp 'ıyıstırıcı ırıtıyılır' demediniz. yerli malı diye gömün tabi amk. sabırsızlıkla bekliyoruz akşam ki bölümü.
   entry_channels: tv,müzik
 - entry_name: |
-    patlayan süt
-  entry_id:  81381403
-  entry_writer: ozgenetikci
-  entry_fav_count: 4
-  entry_content: |
-    yatir var altinda kesin. <br/><br/>ya ne malsiniz siz ya, sizin beyninizi, adaletinizi ve onune gecilemez cehaletinizi sikeyim. <br/><br/>sut yarim ateste pisirilir. <br/><br/>gerizekali kari sutun altini hayvan gibi acmis, altta kaynayan sutun kabarciklari basinci yukseltmis ve nihayet sikisan hava gum diye aciga cikmis. <br/><br/>ya sutun icine patlayici ne koyabilirler amk? bu patlayici sivi icinde calisiyor hele, vay beeee! sute su alti mayini koymus adamlar, zahir! <br/><br/>sizin zihninizi, paranoyanizi sikeyim!
-  entry_channels: bilim,haber,yeme-içme
-- entry_name: |
     ekşi itiraf
-  entry_id:  81362350
-  entry_writer: altyazisiz
+  entry_id:  81364290
+  entry_writer: gorengort
   entry_fav_count: 4
   entry_content: |
-    az önce yaklaşık 3 dakikamı çitos cipsten çıkan geçici dövmeyi ya da sticker'ı adı her neyse merak ettiğim için tuvalet kağıdına basmaya harcadım. <br/><br/>merak edenler için 2 tane pati resmi ile ooops! yazısı çıktı. <br/><br/>neyse dur gideyim de çıkan şifreyi internet sitesine gireyim. belki şansıma bişey kazanırım.<br/><br/>not: hayır ne münasebet 34 yaşında bi adam değilim !<br/><br/>edit: hediye de çıkmadı amkkkk<br/><br/>edit2: merak eden manyak arkadaşlar olmuş buyursunlar: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/7f36b24d199">https://eksiup.com/7f36b24d199</a>
+    ben çocukken babam kamyonumuzla uzun yola giderdi, kendi dükkanımızın işlerine koşturur dururdu. bizim işimiz de onun yoldan dönüşünü beklemek olurdu.<br/><br/>bir eşya ne kadar kıymetli olabilirse o kamyon da o kadar önemliydi bizim için. çok emek verilerek alınmıştı ve gurur kaynağıydı. kamyonun evin önüne geldiği günü hatırlıyorum da o gün nasıl mutluyduk. kamyon o kadar büyüktü ki dar sokaklar için, babam köşeyi dönünce alkışlamıştık. birkaç gece evin önüne park edilince çaylar da balkonda içilmişti. maksat kamyonu izlemekti.dedem mahalleliye ayıp olur dedikten sonra bir daha getirmedi babam. <br/><br/>sonra şöför çalışmaya başladı. biz de kamyonundan ayrılan babama kavuştuk. kamyonu alalı da nerden baksan 13 yıl olmuş. ben de büyümüşüm.<br/><br/>peki ben bunları neden anlattım? çünkü babam yıllar sonra uzun yollara çıkmaya başladı ve ben yüzlerce kilometre uzaktan yol gözlüyorum. babam eve vardım demeden ben uykuya dalamayacağım; babam da uyuduğumu düşünerek eve varsa da beni aramayacak. <br/>ben hep düşünmek zorunda kalarak büyüyeceğim; uzaklarda. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/EIZCPX_Idew" title="https://youtu.be/EIZCPX_Idew">pencereler önünde uyuyakaldım, babamı beklerken...</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    grup vitamin şarkılarında geçen mükemmel sözler
+  entry_id:  81368130
+  entry_writer: arsivciadam
+  entry_fav_count: 3
+  entry_content: |
+    sabah cinayet,öğlen izdivaç; bi bitmediniz monakkoluyum<br/>(bkz: <a class="b" href="/?q=monakkoluyummmm">monakkoluyummmm</a>)<br/><br/>hıyar demişken aklıma geldi, yeni sevgilinle aran nasıl<br/>(bkz: <a class="b" href="/?q=a%c5%9fk%c4%b1n+g%c3%b6zya%c5%9flar%c4%b1">aşkın gözyaşları</a>)<br/><br/>ha unutmadan <a class="b" href="/?q=ebabil">ebabil</a> bir kuşsa, saka daha kuştur, saka kuş olarak kalacaktır. kuştur, kuş olacaktır.<br/>(bkz: <a class="b" href="/?q=a%c5%9fk%c4%b1n+g%c3%b6zya%c5%9flar%c4%b1">aşkın gözyaşları</a>)<br/><br/>dikkatli ol istanbulda, başın girmesin belaya, köydeyken tek başına gidemezdin helaya<br/>(bkz: <a class="b" href="/?q=s%c3%bcrt%c3%bcnd%c3%bcrt">sürtündürt</a>)<br/><br/>nasıl anlatsam bilemiyorum, hep lahmacun yiyorum.<br/>(bkz: <a class="b" href="/?q=kara+cahil">kara cahil</a>)<br/><br/>ahmet oğlum gözün kör mü, canını da yolda mı bulmuşsun, bu devirde aşık olmuşsun, tufalara gelmişsin lan ahmet<br/>(bkz: <a class="b" href="/?q=ahmet">ahmet</a>)<br/><br/>köydeki krolardan inanın burda da var, herkes birazcık <a class="b" href="/?q=zonta">zonta</a> birazcık davar, medeniyet başka şey, hala gözünü sevdiğim, dile kolay ne yapsın 15 günük şeherliyim.<br/>(bkz: <a class="b" href="/?q=dokundurabilirsiniz">dokundurabilirsiniz</a>)
+  entry_channels: anket,müzik
 - entry_name: |
     gaye su akyol
   entry_id:  81361904
@@ -387,19 +379,27 @@ data:
     yahu şu <a class="b" href="/?q=tavuk+ci%c4%9ferinden+yapma+arnavut+ci%c4%9feri">tavuk ciğerinden yapma arnavut ciğeri</a> vardı bu ucuzcu marketlerde. a101 kaldırdı, bim'e baktım onda da yok. <br/><br/><a class="b" href="/?q=bim+y%c3%b6netimine+sesleniyorum">bim yönetimine sesleniyorum</a>. ortam sıkıntılı. acil <a class="b" href="/?q=piyasaya+tavuk+ci%c4%9ferli+arnavut+ci%c4%9feri+bas%c4%b1n">piyasaya tavuk ciğerli arnavut ciğeri basın</a>. paraya para demezsiniz. ayık olun.
   entry_channels: anket,yeme-içme,ekonomi
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  81365061
-  entry_writer: bibidibabidibuu
+    sözlük yazarlarının satın aldıkları son kitap
+  entry_id:  81387631
+  entry_writer: larsvontier
   entry_fav_count: 0
   entry_content: |
-    konu sararsa derdinizi dinlerim, ama sarmazsa film izlemeye giderim. <br/><br/>yeşillendiring.
+    (bkz: <a class="b" href="/?q=molecular+biology+of+the+cell%2c+6th+edition">molecular biology of the cell, 6th edition</a>)
+  entry_channels: anket,ekşi-sözlük,edebiyat
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  81363043
+  entry_writer: mavi klavyeli
+  entry_fav_count: 0
+  entry_content: |
+    düğün hazırlıkları aşamasında erkeğe acidığınız bu kadar da olmaz ama dediğiniz fakat iç sesinizi bastirdiginiz oluyor mu kızlar merak ediyorum gerçektenn
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    17 eylül 2018 alanyaspor trabzonspor maçı
-  entry_id:  81387433
-  entry_writer: calarsaaticalanadam
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81387143
+  entry_writer: arsivciadam
   entry_fav_count: 0
   entry_content: |
-    üzülmeyin uşaklar seneye yine galatasaray’a bilenirsiniz, bir galibiyetle bir sezon avunursunuz.
-  entry_channels: spor,anket,haber
+    ne olursan ol yaz.<br/>dinlerim, derdin yoksa da saçmalamak için yaz.<br/><br/>arada şarkı tavsiyesi de veririm. (yaparım böyle kıyaklar falan)
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
